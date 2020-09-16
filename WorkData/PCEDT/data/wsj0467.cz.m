@@ -1376,7 +1376,7 @@
 <form>druhou</form>
 <tag>
 <AM lemma="druhý" src="auto">CrFS4----------</AM>
-<AM lemma="druhý" src="auto" recommended="1">CrFS7----------</AM>
+<AM lemma="druhý`2" src="auto" recommended="1">CrFS7----------</AM>
 </tag>
 </m>
 <m id="m-wsj0467-001-p1s2W19-Ta">
@@ -2821,7 +2821,7 @@
 <AM lemma="Quebek_;G_,s_^(^DD**Quebec)" src="auto">NNIS2-----A---2</AM>
 <AM lemma="Quebek_;G_,s_^(^DD**Quebec)" src="auto">NNIS3-----A---2</AM>
 <AM lemma="Quebek_;G_,s_^(^DD**Quebec)" src="auto" recommended="1">NNIS6-----A---2</AM>
-<AM lemma="Quebek_;G_,s_^(^DD**Québec)" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="Quebek_;G_,s_^(^DD**Quebec)" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0467-001-p1s5W20-Ta">
@@ -4805,7 +4805,7 @@
 <form>letech</form>
 <tag>
 <AM lemma="let" src="auto">NNIP6-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP6-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0467-001-p1s14W16-Ta">
@@ -5569,7 +5569,7 @@
 <AM lemma="Quebek_;G_,s_^(^DD**Quebec)" src="auto">NNIS2-----A---2</AM>
 <AM lemma="Quebek_;G_,s_^(^DD**Quebec)" src="auto">NNIS3-----A---2</AM>
 <AM lemma="Quebek_;G_,s_^(^DD**Quebec)" src="auto" recommended="1">NNIS6-----A---2</AM>
-<AM lemma="Quebek_;G_,s_^(^DD**Québec)" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="Quebek_;G_,s_^(^DD**Quebec)" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0467-001-p1s17W18-Ta">
@@ -5655,7 +5655,7 @@
 <AM lemma="let" src="auto">NNIP4-----A----</AM>
 <AM lemma="let" src="auto">NNIP5-----A----</AM>
 <AM lemma="let" src="auto">NNIP7-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP7-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0467-001-p1s18W7-Ta">
@@ -7689,7 +7689,7 @@
 <AM lemma="Quebek_;G_,s_^(^DD**Quebec)" src="auto" recommended="1">NNIS2-----A---2</AM>
 <AM lemma="Quebek_;G_,s_^(^DD**Quebec)" src="auto">NNIS3-----A---2</AM>
 <AM lemma="Quebek_;G_,s_^(^DD**Quebec)" src="auto">NNIS6-----A---2</AM>
-<AM lemma="Quebek_;G_,s_^(^DD**Québec)" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Quebek_;G_,s_^(^DD**Quebec)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0467-001-p1s25W39-Ta">
@@ -7878,7 +7878,7 @@
 <AM lemma="Quebek_;G_,s_^(^DD**Quebec)" src="auto">NNIS2-----A---2</AM>
 <AM lemma="Quebek_;G_,s_^(^DD**Quebec)" src="auto">NNIS3-----A---2</AM>
 <AM lemma="Quebek_;G_,s_^(^DD**Quebec)" src="auto" recommended="1">NNIS6-----A---2</AM>
-<AM lemma="Quebek_;G_,s_^(^DD**Québec)" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="Quebek_;G_,s_^(^DD**Quebec)" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0467-001-p1s26W14-Ta">
@@ -8085,7 +8085,7 @@
 <AM lemma="Quebek_;G_,s_^(^DD**Quebec)" src="auto">NNIS2-----A---2</AM>
 <AM lemma="Quebek_;G_,s_^(^DD**Quebec)" src="auto">NNIS3-----A---2</AM>
 <AM lemma="Quebek_;G_,s_^(^DD**Quebec)" src="auto" recommended="1">NNIS6-----A---2</AM>
-<AM lemma="Quebek_;G_,s_^(^DD**Québec)" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="Quebek_;G_,s_^(^DD**Quebec)" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0467-001-p1s27W14-Ta">
@@ -10307,7 +10307,7 @@
 <form>starosti</form>
 <tag>
 <AM lemma="starost-2_^(člověk,_věc)_(péče,_neklid)_(*5ý-2)" src="auto">NNFP1-----A----</AM>
-<AM lemma="starost-2_^(člověk,_věc)_(péče,_neklid)_(*5ý-2)" src="auto" selected="1">NNFP4-----A----</AM>
+<AM lemma="starost-2_^(*5ý-2)" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="starost-2_^(člověk,_věc)_(péče,_neklid)_(*5ý-2)" src="auto">NNFP5-----A----</AM>
 <AM lemma="starost-2_^(člověk,_věc)_(péče,_neklid)_(*5ý-2)" src="auto">NNFS2-----A----</AM>
 <AM lemma="starost-2_^(člověk,_věc)_(péče,_neklid)_(*5ý-2)" src="auto">NNFS3-----A----</AM>
@@ -10440,7 +10440,7 @@
 </w.rf>
 <form>svůj</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8IS4----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8IS4----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8YS1----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8YS5----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOYS-----------</AM>
@@ -10662,7 +10662,7 @@
 <AM lemma="Maxwell_;m" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Maxwell_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="Maxwell_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Maxwell-1_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Maxwell-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0467-001-p1s35W5-Ta">
@@ -10685,7 +10685,7 @@
 <form>druhou</form>
 <tag>
 <AM lemma="druhý" src="auto">CrFS4----------</AM>
-<AM lemma="druhý" src="auto" recommended="1">CrFS7----------</AM>
+<AM lemma="druhý`2" src="auto" recommended="1">CrFS7----------</AM>
 </tag>
 </m>
 <m id="m-wsj0467-001-p1s35W7-Ta">
@@ -11016,7 +11016,7 @@
 <AM lemma="montrealský_;G" src="auto" recommended="1">AAFP1----1A----</AM>
 <AM lemma="montrealský_;G" src="auto">AAFP4----1A----</AM>
 <AM lemma="montrealský_;G" src="auto">AAFP5----1A----</AM>
-<AM lemma="montrealský_;G" src="auto" selected="1">AAFS2----1A----</AM>
+<AM lemma="montrealský" src="auto" selected="1">AAFS2----1A----</AM>
 <AM lemma="montrealský_;G" src="auto">AAFS3----1A----</AM>
 <AM lemma="montrealský_;G" src="auto">AAFS6----1A----</AM>
 <AM lemma="montrealský_;G" src="auto">AAIP1----1A----</AM>
@@ -11499,7 +11499,7 @@
 <AM lemma="Maxwell_;m" src="auto">NNIS1-----A----</AM>
 <AM lemma="Maxwell_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="Maxwell_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Maxwell-1_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Maxwell-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0467-001-p1s38W7-Ta">
@@ -12359,7 +12359,7 @@
 <AM lemma="Maxwell_;m" src="auto">NNIS1-----A----</AM>
 <AM lemma="Maxwell_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="Maxwell_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Maxwell-1_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Maxwell-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0467-001-p1s40W4-Ta">
@@ -12391,7 +12391,7 @@
 <AM lemma="Maxwell_;m" src="auto">NNIS1-----A----</AM>
 <AM lemma="Maxwell_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="Maxwell_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Maxwell-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Maxwell-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0467-001-p1s40W7-Ta">

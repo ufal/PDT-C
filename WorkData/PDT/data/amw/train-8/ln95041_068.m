@@ -223,7 +223,7 @@
 <LM>w#w-ln95041-068-p2s2w4</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS4----------</tag>
 </m>
 <m id="m-ln95041-068-p2s2w5">
 <src.rf>manual</src.rf>
@@ -409,7 +409,7 @@
 <LM>w#w-ln95041-068-p2s3w6</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-ln95041-068-p2s3w7">
 <src.rf>manual</src.rf>
@@ -661,7 +661,7 @@
 <LM>w#w-ln95041-068-p3s1w14</LM>
 </w.rf>
 <form>Zlaté</form>
-<tag lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAFP1----1A----</tag>
+<tag lemma="zlatý-1_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAFP1----1A----</tag>
 </m>
 <m id="m-ln95041-068-p3s1w15">
 <src.rf>manual</src.rf>
@@ -1067,7 +1067,7 @@
 <LM>w#w-ln95041-068-p3s4w6</LM>
 </w.rf>
 <form>faktorů</form>
-<tag lemma="faktor" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="faktor-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln95041-068-p3s4w7">
 <src.rf>manual</src.rf>
@@ -1107,7 +1107,7 @@
 <LM>w#w-ln95041-068-p3s4w11</LM>
 </w.rf>
 <form>jejím</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS6FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS6FS3-------</tag>
 </m>
 <m id="m-ln95041-068-p3s4w12">
 <src.rf>manual</src.rf>
@@ -1620,7 +1620,7 @@
 <LM>w#w-ln95041-068-p4s2w2</LM>
 </w.rf>
 <form>jejího</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS2FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS2FS3-------</tag>
 </m>
 <m id="m-ln95041-068-p4s2w3">
 <src.rf>manual</src.rf>
@@ -1660,7 +1660,7 @@
 <LM>w#w-ln95041-068-p4s2w7</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln95041-068-p4s2w8">
 <src.rf>manual</src.rf>
@@ -3014,7 +3014,7 @@
 <LM>w#w-ln95041-068-p5s4w36</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-ln95041-068-p5s4w37">
 <src.rf>manual</src.rf>

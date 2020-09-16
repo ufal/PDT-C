@@ -314,7 +314,7 @@
 <LM>w#w-lnd94104-057-p1s4w2</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-057-p1s4w3">
 <src.rf>manual</src.rf>
@@ -490,7 +490,7 @@
 <LM>w#w-lnd94104-057-p1s4w24</LM>
 </w.rf>
 <form>Evropě</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd94104-057-p1s4w25">
 <src.rf>manual</src.rf>

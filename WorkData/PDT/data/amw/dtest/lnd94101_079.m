@@ -297,7 +297,7 @@
 <LM>w#w-lnd94101-079-p1s3w10</LM>
 </w.rf>
 <form>Žraloci</form>
-<tag lemma="žralok" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="žralok-1" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd94101-079-p1s3w11">
 <src.rf>manual</src.rf>
@@ -436,7 +436,7 @@
 <LM>w#w-lnd94101-079-p1s4w5</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-lnd94101-079-p1s4w6">
 <src.rf>manual</src.rf>
@@ -1167,7 +1167,7 @@
 <LM>w#w-lnd94101-079-p1s9w19</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-lnd94101-079-p1s9w20">
 <src.rf>manual</src.rf>
@@ -1416,7 +1416,7 @@
 <LM>w#w-lnd94101-079-p1s12w2</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd94101-079-p1s12w3">
 <src.rf>manual</src.rf>
@@ -1515,7 +1515,7 @@
 <LM>w#w-lnd94101-079-p1s12w14</LM>
 </w.rf>
 <form>Černí</form>
-<tag lemma="černý" src="auto" selected="1">AAMP1----1A----</tag>
+<tag lemma="černý_;o" src="auto" selected="1">AAMP1----1A----</tag>
 </m>
 <m id="m-lnd94101-079-p1s12w15">
 <src.rf>manual</src.rf>
@@ -1608,7 +1608,7 @@
 <LM>w#w-lnd94101-079-p1s13w1</LM>
 </w.rf>
 <form>Druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS1----------</tag>
 </m>
 <m id="m-lnd94101-079-p1s13w2">
 <src.rf>manual</src.rf>
@@ -1899,7 +1899,7 @@
 <LM>w#w-lnd94101-079-p1s16w1</LM>
 </w.rf>
 <form>Druhou</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS7----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS7----------</tag>
 </m>
 <m id="m-lnd94101-079-p1s16w2">
 <src.rf>manual</src.rf>
@@ -1979,7 +1979,7 @@
 <LM>w#w-lnd94101-079-p1s16w11</LM>
 </w.rf>
 <form>Buffalo</form>
-<tag lemma="Buffalo-2_;m_^(sport.:_souč._názvu)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="Buffalo-1_;G_;m_^(město_sport._klub)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-lnd94101-079-p1s16w12">
 <src.rf>manual</src.rf>

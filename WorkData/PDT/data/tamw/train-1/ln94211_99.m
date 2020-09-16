@@ -35,7 +35,7 @@
 <LM>w#w-ln94211-99-p1s1w3</LM>
 </w.rf>
 <form>nezaměstnanosti</form>
-<tag lemma="nezaměstnanost-2_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="nezaměstnanost_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 </s>
 <s id="m-ln94211-99-p2s1A">
@@ -111,7 +111,7 @@
 <LM>w#w-ln94211-99-p2s1Bw8</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-ln94211-99-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -119,7 +119,7 @@
 <LM>w#w-ln94211-99-p2s1Bw9</LM>
 </w.rf>
 <form>nezaměstnanost</form>
-<tag lemma="nezaměstnanost-2_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="nezaměstnanost_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94211-99-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -223,7 +223,7 @@
 <LM>w#w-ln94211-99-p2s1Bw22</LM>
 </w.rf>
 <form>NEZAMĚSTNANOST</form>
-<tag lemma="nezaměstnanost-2_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="nezaměstnanost_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94211-99-p2s1Bw23">
 <src.rf>manual</src.rf>
@@ -387,7 +387,7 @@
 <LM>w#w-ln94211-99-p2s3w2</LM>
 </w.rf>
 <form>nezaměstnanosti</form>
-<tag lemma="nezaměstnanost-2_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="nezaměstnanost_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94211-99-p2s3w3">
 <src.rf>manual</src.rf>
@@ -501,7 +501,7 @@
 <LM>w#w-ln94211-99-p3s1w5</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-ln94211-99-p3s1w6">
 <src.rf>manual</src.rf>
@@ -573,7 +573,7 @@
 <LM>w#w-ln94211-99-p3s1w14</LM>
 </w.rf>
 <form>jejích</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP6FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XP6FS3-------</tag>
 </m>
 <m id="m-ln94211-99-p3s1w15">
 <src.rf>manual</src.rf>
@@ -834,7 +834,7 @@
 <LM>w#w-ln94211-99-p3s2w6</LM>
 </w.rf>
 <form>nezaměstnanost</form>
-<tag lemma="nezaměstnanost-2_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="nezaměstnanost_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94211-99-p3s2w7">
 <src.rf>manual</src.rf>
@@ -1140,7 +1140,7 @@
 <LM>w#w-ln94211-99-p3s3w29</LM>
 </w.rf>
 <form>prestiže</form>
-<tag lemma="prestiž" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="prestiž-1" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94211-99-p3s3w30">
 <src.rf>manual</src.rf>
@@ -1365,7 +1365,7 @@
 <LM>w#w-ln94211-99-p3s5w1</LM>
 </w.rf>
 <form>Nezaměstnanost</form>
-<tag lemma="nezaměstnanost-2_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="nezaměstnanost_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94211-99-p3s5w2">
 <src.rf>manual</src.rf>
@@ -1413,7 +1413,7 @@
 <LM>w#w-ln94211-99-p3s5w7</LM>
 </w.rf>
 <form>kořenech</form>
-<tag lemma="kořen" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="kořen-1" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-ln94211-99-p3s5w8">
 <src.rf>manual</src.rf>
@@ -1575,7 +1575,7 @@
 <LM>w#w-ln94211-99-p3s6w19</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS2---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS2---------1</tag>
 </m>
 <m id="m-ln94211-99-p3s6w20">
 <src.rf>manual</src.rf>
@@ -1633,7 +1633,7 @@
 <LM>w#w-ln94211-99-p4s1w4</LM>
 </w.rf>
 <form>nezaměstnanosti</form>
-<tag lemma="nezaměstnanost-2_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="nezaměstnanost_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94211-99-p4s1w5">
 <src.rf>manual</src.rf>
@@ -1747,7 +1747,7 @@
 <LM>w#w-ln94211-99-p4s2w5</LM>
 </w.rf>
 <form>jejího</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS2FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS2FS3-------</tag>
 </m>
 <m id="m-ln94211-99-p4s2w6">
 <src.rf>manual</src.rf>
@@ -1997,7 +1997,7 @@
 <LM>w#w-ln94211-99-p4s3w17</LM>
 </w.rf>
 <form>nezaměstnanosti</form>
-<tag lemma="nezaměstnanost-2_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="nezaměstnanost_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-ln94211-99-p4s3w18">
 <src.rf>manual</src.rf>
@@ -2211,7 +2211,7 @@
 <LM>w#w-ln94211-99-p5s1w6</LM>
 </w.rf>
 <form>Nezaměstnanost</form>
-<tag lemma="nezaměstnanost-2_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="nezaměstnanost_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94211-99-p5s1w7">
 <src.rf>manual</src.rf>

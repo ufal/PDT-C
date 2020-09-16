@@ -434,7 +434,7 @@
 <LM>w#w-vesm9211-036-p2s1w44</LM>
 </w.rf>
 <form>nemoc</form>
-<tag lemma="nemoc_^(choroba)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="nemoc" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-vesm9211-036-p2s1w45">
 <src.rf>manual</src.rf>
@@ -700,7 +700,7 @@
 <LM>w#w-vesm9211-036-p2s2w19</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-vesm9211-036-p2s2w20">
 <src.rf>manual</src.rf>
@@ -820,7 +820,7 @@
 <LM>w#w-vesm9211-036-p2s2w34</LM>
 </w.rf>
 <form>jehož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P1XXXZS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXZS3-------</tag>
 </m>
 <m id="m-vesm9211-036-p2s2w35">
 <src.rf>manual</src.rf>
@@ -1625,7 +1625,7 @@
 <LM>w#w-vesm9211-036-p4s5w11</LM>
 </w.rf>
 <form>odpovědnost</form>
-<tag lemma="odpovědnost_^(kdo_za_něco_odpovídá)_(*3ý)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="odpovědnost_^(*3ý)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-vesm9211-036-p4s5w12">
 <src.rf>manual</src.rf>
@@ -1705,7 +1705,7 @@
 <LM>w#w-vesm9211-036-p4s5w21</LM>
 </w.rf>
 <form>rady</form>
-<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu)" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-vesm9211-036-p4s5w22">
 <src.rf>manual</src.rf>
@@ -1861,7 +1861,7 @@
 <AM lemma="vydávaný-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*7at-1)" src="orig">AANS6----1A----</AM>
 <AM lemma="vydávaný-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*4t-1)" src="auto">AAIS6----1A----</AM>
 <AM lemma="vydávaný-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*4t-1)" src="auto">AAMS6----1A----</AM>
-<AM lemma="vydávaný-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*4t-1)" src="auto" recommended="1" selected="1">AANS6----1A----</AM>
+<AM lemma="vydávaný_^(*2t)" src="auto" recommended="1" selected="1">AANS6----1A----</AM>
 <AM lemma="vydávaný-2_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)_(*4t-2)" src="auto">AAIS6----1A----</AM>
 <AM lemma="vydávaný-2_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)_(*4t-2)" src="auto">AAMS6----1A----</AM>
 <AM lemma="vydávaný-2_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)_(*4t-2)" src="auto">AANS6----1A----</AM>
@@ -2055,7 +2055,7 @@
 <LM>w#w-vesm9211-036-p4s7w18</LM>
 </w.rf>
 <form>Zlatá</form>
-<tag lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AANP1----1A----</tag>
+<tag lemma="zlatý-1_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AANP1----1A----</tag>
 </m>
 <m id="m-vesm9211-036-p4s7w19">
 <src.rf>manual</src.rf>
@@ -2212,7 +2212,7 @@
 <LM>w#w-vesm9211-036-p5s1w11</LM>
 </w.rf>
 <form>dejte</form>
-<tag lemma="dát" src="orig" selected="1">Vi-P---2--A-P--</tag>
+<tag lemma="dát-1" src="orig" selected="1">Vi-P---2--A-P--</tag>
 </m>
 <m id="m-vesm9211-036-p5s1w12">
 <src.rf>manual</src.rf>
@@ -2938,7 +2938,7 @@
 <LM>w#w-vesm9211-036-p10s1w17</LM>
 </w.rf>
 <form>prkénku</form>
-<tag lemma="prkénko_,e" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="prkénko" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-vesm9211-036-p10s1w18">
 <src.rf>manual</src.rf>
@@ -3313,7 +3313,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-036-p12s1w10">

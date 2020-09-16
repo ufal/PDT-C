@@ -335,7 +335,7 @@
 <LM>w#w-ln95044-074-p2s1Bw31</LM>
 </w.rf>
 <form>vyhlášením</form>
-<tag lemma="vyhlášení_,a_^(*4sit)" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="vyhlášení_^(*2t)_(*4sit)" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-ln95044-074-p2s1Bw32">
 <src.rf>manual</src.rf>
@@ -571,7 +571,7 @@
 <LM>w#w-ln95044-074-p3s1w7</LM>
 </w.rf>
 <form>dál</form>
-<tag lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="dál-3_,s_^(také,_za_další)_(^DD**dále-3)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95044-074-p3s1w8">
 <src.rf>manual</src.rf>
@@ -1508,7 +1508,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1968,7 +1968,7 @@
 <LM>w#w-ln95044-074-p5s2w2</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-ln95044-074-p5s2w3">
 <src.rf>manual</src.rf>

@@ -93,7 +93,7 @@
 <LM>w#w-lnd92255-054-p2s1w1</LM>
 </w.rf>
 <form>Svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-lnd92255-054-p2s1w2">
 <src.rf>manual</src.rf>
@@ -1047,7 +1047,7 @@
 <LM>w#w-lnd92255-054-p4s3w1</LM>
 </w.rf>
 <form>Můj</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSYS1-S1-------</tag>
+<tag lemma="můj" src="orig" selected="1">PSYS1-S1-------</tag>
 </m>
 <m id="m-lnd92255-054-p4s3w2">
 <src.rf>manual</src.rf>
@@ -1449,7 +1449,7 @@
 <LM>w#w-lnd92255-054-p5s1w3</LM>
 </w.rf>
 <form>mých</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP2-S1-------</tag>
+<tag lemma="můj" src="orig" selected="1">PSXP2-S1-------</tag>
 </m>
 <m id="m-lnd92255-054-p5s1w4">
 <src.rf>manual</src.rf>
@@ -2820,7 +2820,7 @@
 <LM>w#w-lnd92255-054-p6s3w24</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-lnd92255-054-p6s3w25">
 <src.rf>manual</src.rf>
@@ -2892,7 +2892,7 @@
 <LM>w#w-lnd92255-054-p6s3w33</LM>
 </w.rf>
 <form>rovnosti</form>
-<tag lemma="rovnost_^(přímý,_stejný,_spravedlivý)_(*3ý)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="rovnost_^(*3ý)" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92255-054-p6s3w34">
 <src.rf>manual</src.rf>
@@ -2932,7 +2932,7 @@
 <LM>w#w-lnd92255-054-p6s3w38</LM>
 </w.rf>
 <form>práva</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-lnd92255-054-p6s3w39">
 <src.rf>manual</src.rf>
@@ -2948,7 +2948,7 @@
 <LM>w#w-lnd92255-054-p6s3w40</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS7----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS7----------</tag>
 </m>
 <m id="m-lnd92255-054-p6s3w41">
 <src.rf>manual</src.rf>

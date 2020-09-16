@@ -652,7 +652,7 @@
 <LM>w#w-mf930702-006-p3s1w2</LM>
 </w.rf>
 <form>zelené</form>
-<tag lemma="zelený" src="orig" selected="1">AAFS6----1A----</tag>
+<tag lemma="zelený_;o" src="orig" selected="1">AAFS6----1A----</tag>
 </m>
 <m id="m-mf930702-006-p3s1w3">
 <src.rf>manual</src.rf>
@@ -774,7 +774,7 @@
 <LM>w#w-mf930702-006-p3s2w6</LM>
 </w.rf>
 <form>střežení</form>
-<tag lemma="střežení_^(hlídat)_(*3it)" src="auto" selected="1">NNNS4-----A----</tag>
+<tag lemma="střežení_^(*3it)" src="auto" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-mf930702-006-p3s2w7">
 <src.rf>manual</src.rf>
@@ -896,7 +896,7 @@
 <LM>w#w-mf930702-006-p3s3w13</LM>
 </w.rf>
 <form>cesty</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-mf930702-006-p3s3w14">
 <src.rf>manual</src.rf>
@@ -1424,7 +1424,7 @@
 <AM lemma="předávání-3_^(někomu_něco)_(*5at-3)" src="auto">NNNS3-----A----</AM>
 <AM lemma="předávání-3_^(někomu_něco)_(*5at-3)" src="auto">NNNS4-----A----</AM>
 <AM lemma="předávání-3_^(někomu_něco)_(*5at-3)" src="auto">NNNS5-----A----</AM>
-<AM lemma="předávání-3_^(někomu_něco)_(*5at-3)" src="auto" recommended="1" selected="1">NNNS6-----A----</AM>
+<AM lemma="předávání_^(*3at)" src="auto" recommended="1" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-006-p5s1w19">

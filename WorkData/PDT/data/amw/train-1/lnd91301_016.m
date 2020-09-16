@@ -1222,7 +1222,7 @@
 <LM>w#w-lnd91301-016-p6s1w20</LM>
 </w.rf>
 <form>jí</form>
-<tag lemma="jíst_^(konzumovat_jídlo)" src="orig" selected="1">VB-P---3P-AAI--</tag>
+<tag lemma="jíst" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd91301-016-p6s1w21">
 <src.rf>manual</src.rf>
@@ -1903,7 +1903,7 @@
 <LM>w#w-lnd91301-016-p6s5w7</LM>
 </w.rf>
 <form>málo</form>
-<tag lemma="málo-3_^(málo_+_příd._jm.,_př._byl_málo_důsledný)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="málo-3_^(málo_důsledný)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd91301-016-p6s5w8">
 <src.rf>manual</src.rf>
@@ -2819,7 +2819,7 @@
 <LM>w#w-lnd91301-016-p7s5w5</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-lnd91301-016-p7s5w6">
 <src.rf>manual</src.rf>

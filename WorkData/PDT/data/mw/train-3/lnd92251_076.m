@@ -35,7 +35,7 @@
 <LM>w#w-lnd92251-076-p1s1w3</LM>
 </w.rf>
 <form>Multisoniku</form>
-<tag lemma="Multisonic_;m" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Multisonik_;m_,s_^(^DD**Multisonic)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92251-076-p2s1">
@@ -1085,7 +1085,7 @@
 </w.rf>
 <form>sovětů</form>
 <tag>
-<AM lemma="sovět-2_^(občan_SSSR)" src="orig" selected="1">NNMP2-----A----</AM>
+<AM lemma="sovět-2_,i_^(občan_SSSR)_(^DS**Sovět)" src="orig" selected="1">NNMP2-----A----</AM>
 <AM lemma="sovět-1_^(rada;_výbor)" src="auto" recommended="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -1541,7 +1541,7 @@
 <LM>w#w-lnd92251-076-p3s7w1</LM>
 </w.rf>
 <form>Prvním</form>
-<tag lemma="první" src="orig" selected="1">CrIS7----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS7----------</tag>
 </m>
 <m id="m-lnd92251-076-p3s7w2">
 <src.rf>manual</src.rf>
@@ -1933,7 +1933,7 @@
 <LM>w#w-lnd92251-076-p3s7w48</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd92251-076-p3s7w49">
 <src.rf>manual</src.rf>

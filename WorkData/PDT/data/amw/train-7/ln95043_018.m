@@ -45,7 +45,7 @@
 <LM>w#w-ln95043-018-p2s1w3</LM>
 </w.rf>
 <form>Chang</form>
-<tag lemma="Chang_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Chang-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-018-p2s1w4">
 <src.rf>manual</src.rf>
@@ -61,7 +61,7 @@
 <LM>w#w-ln95043-018-p2s1w5</LM>
 </w.rf>
 <form>iniciátorem</form>
-<tag lemma="iniciátor" src="auto" selected="1">NNMS7-----A----</tag>
+<tag lemma="iniciátor-1" src="auto" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95043-018-p2s1w6">
 <src.rf>manual</src.rf>
@@ -85,7 +85,7 @@
 <LM>w#w-ln95043-018-p2s1w8</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1ZS1FS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1ZS1FS3-------</tag>
 </m>
 <m id="m-ln95043-018-p2s1w9">
 <src.rf>manual</src.rf>
@@ -591,7 +591,7 @@
 <LM>w#w-ln95043-018-p4s1w10</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS4----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS4----------</tag>
 </m>
 <m id="m-ln95043-018-p4s1w11">
 <src.rf>manual</src.rf>
@@ -724,7 +724,7 @@
 <LM>w#w-ln95043-018-p5s1w8</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln95043-018-p5s1w9">
 <src.rf>manual</src.rf>

@@ -45,7 +45,7 @@
 <form>Mladé</form>
 <tag>
 <AM lemma="Mladá_;Y" src="auto">NNFS6-----A----</AM>
-<AM lemma="Mladá_;G_;Y" src="manual" selected="1">NNFS6-----A----</AM>
+<AM lemma="Mladá_;Y" src="manual" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-43-p1s1w5">
@@ -183,7 +183,7 @@
 <form>Mladá</form>
 <tag>
 <AM lemma="Mladá_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Mladá_;G_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Mladá_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-43-p2s1Bw6">
@@ -328,7 +328,7 @@
 <LM>w#w-ln94206-43-p2s1Bw23</LM>
 </w.rf>
 <form>Evropě</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94206-43-p2s1Bw24">
 <src.rf>manual</src.rf>

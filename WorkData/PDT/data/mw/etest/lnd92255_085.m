@@ -1376,7 +1376,7 @@
 <LM>w#w-lnd92255-085-p3s6w18</LM>
 </w.rf>
 <form>zaujetím</form>
-<tag lemma="zaujetí_^(upoutat_pozornost)_(*3mout)" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="zaujetí_^(*3mout)" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-lnd92255-085-p3s6w19">
 <src.rf>manual</src.rf>
@@ -1556,7 +1556,7 @@
 <LM>w#w-lnd92255-085-p4s1w9</LM>
 </w.rf>
 <form>stojícího</form>
-<tag lemma="stojící-3_^(někdo/něco_stojí,_např._na_nohou)_(*7át-3)" src="orig" selected="1">AGMS2-----A----</tag>
+<tag lemma="stojící-3_^(*7át-3)" src="orig" selected="1">AGMS2-----A----</tag>
 </m>
 <m id="m-lnd92255-085-p4s1w10">
 <src.rf>manual</src.rf>
@@ -1740,7 +1740,7 @@
 <LM>w#w-lnd92255-085-p4s2w3</LM>
 </w.rf>
 <form>vyvážené</form>
-<tag lemma="vyvážený_^(zboží_přes_hranice)_(*2t)" src="orig" selected="1">AANS1----1A----</tag>
+<tag lemma="vyvážený_^(*2t)_(*3it)" src="orig" selected="1">AANS1----1A----</tag>
 </m>
 <m id="m-lnd92255-085-p4s2w4">
 <src.rf>manual</src.rf>

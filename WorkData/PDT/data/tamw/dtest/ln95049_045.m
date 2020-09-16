@@ -69,7 +69,7 @@
 <LM>w#w-ln95049-045-p2s1Aw1</LM>
 </w.rf>
 <form>Hayward</form>
-<tag lemma="Hayward_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Hayward-2_;G" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95049-045-p2s1Aw2">
 <src.rf>manual</src.rf>
@@ -191,7 +191,7 @@
 <LM>w#w-ln95049-045-p2s1Bw13</LM>
 </w.rf>
 <form>Haywardu</form>
-<tag lemma="Hayward_;G" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Hayward-2_;G" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln95049-045-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -247,7 +247,7 @@
 <LM>w#w-ln95049-045-p2s1Bw20</LM>
 </w.rf>
 <form>dlouhé</form>
-<tag lemma="dlouhý-1_^(fyz._délka;_př._dlouhá_tyč)" src="orig" selected="1">AAFS6----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFS6----1A----</tag>
 </m>
 <m id="m-ln95049-045-p2s1Bw21">
 <src.rf>manual</src.rf>

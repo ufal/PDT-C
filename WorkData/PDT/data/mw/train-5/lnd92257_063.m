@@ -739,7 +739,7 @@
 <LM>w#w-lnd92257-063-p3s5w7</LM>
 </w.rf>
 <form>srdečně</form>
-<tag lemma="srdečně_^(př._pozdrav,_člověk)_(*1í)" src="auto" selected="1">Dg-------1A----</tag>
+<tag lemma="srdečně_^(*1í)_(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd92257-063-p3s5w8">
 <src.rf>manual</src.rf>
@@ -819,7 +819,7 @@
 <LM>w#w-lnd92257-063-p3s5w17</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS7----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS7----------</tag>
 </m>
 <m id="m-lnd92257-063-p3s5w18">
 <src.rf>manual</src.rf>
@@ -883,7 +883,7 @@
 <LM>w#w-lnd92257-063-p3s5w25</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-lnd92257-063-p3s5w26">
 <src.rf>manual</src.rf>

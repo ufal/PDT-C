@@ -972,7 +972,7 @@
 </w.rf>
 <form>jejích</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XP2FS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9XP2FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP6FS3-------</AM>
 </tag>
 </m>
@@ -1162,7 +1162,7 @@
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FP1---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FP4---------1</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8FS2---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8FS2---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS3---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS6---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8IP1---------1</AM>
@@ -1731,7 +1731,7 @@
 <form>Evropě</form>
 <tag>
 <AM lemma="Evropa_;G" src="auto">NNFS3-----A----</AM>
-<AM lemma="Evropa_;G" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="Evropa_;G_;Y" src="auto" recommended="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0943-001-p1s7W10-Ta">

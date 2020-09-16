@@ -283,7 +283,7 @@
 <LM>w#w-ln94206-74-p2s1Bw25</LM>
 </w.rf>
 <form>spravedlnosti</form>
-<tag lemma="spravedlnost_^(*3ý)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="spravedlnost-1_^(*5ý-1)" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94206-74-p2s1Bw26">
 <src.rf>manual</src.rf>
@@ -303,7 +303,7 @@
 </w.rf>
 <form>Wa</form>
 <tag>
-<AM lemma="Wa_;Y" src="orig" selected="1">NNMXX-----A----</AM>
+<AM lemma="Wa-1_;Y" src="orig" selected="1">NNMXX-----A----</AM>
 <AM lemma="Wa_;G" src="auto" recommended="1">NNNXX-----A----</AM>
 </tag>
 </m>
@@ -499,7 +499,7 @@
 <LM>w#w-ln94206-74-p2s2w22</LM>
 </w.rf>
 <form>dal</form>
-<tag lemma="dát" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94206-74-p2s2w23">
 <src.rf>manual</src.rf>

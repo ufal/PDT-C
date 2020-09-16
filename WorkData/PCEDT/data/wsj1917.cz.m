@@ -449,7 +449,7 @@
 </w.rf>
 <form>svých</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8XP2----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8XP2----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8XP6----------</AM>
 </tag>
 </m>
@@ -708,7 +708,7 @@
 <form>svou</form>
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS4---------1</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8FS7---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8FS7---------1</AM>
 </tag>
 </m>
 <m id="m-wsj1917-001-p1s1W30-Ta">
@@ -1280,7 +1280,7 @@
 <AM lemma="York-2_;G" src="auto">NNIS2-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS5-----A----</AM>
-<AM lemma="York-2_;G" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="York-2_;G_;m" src="auto" recommended="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1917-001-p1s3W16-Ta">
@@ -2000,7 +2000,7 @@
 <AM lemma="dobrý" src="auto">AAFS1----2A----</AM>
 <AM lemma="dobrý" src="auto">AAFS2----2A----</AM>
 <AM lemma="dobrý" src="auto">AAFS3----2A----</AM>
-<AM lemma="dobrý" src="auto" recommended="1">AAFS4----2A----</AM>
+<AM lemma="lepší" src="auto" recommended="1">AAFS4----2A----</AM>
 <AM lemma="dobrý" src="auto">AAFS5----2A----</AM>
 <AM lemma="dobrý" src="auto">AAFS6----2A----</AM>
 <AM lemma="dobrý" src="auto">AAFS7----2A----</AM>

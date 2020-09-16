@@ -311,7 +311,7 @@
 <LM>w#w-lnd94105-020-p1s3w27</LM>
 </w.rf>
 <form>lety</form>
-<tag lemma="rok" src="orig" selected="1">NNNP7-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP7-----A----</tag>
 </m>
 <m id="m-lnd94105-020-p1s3w28">
 <src.rf>manual</src.rf>
@@ -491,7 +491,7 @@
 <LM>w#w-lnd94105-020-p1s5w4</LM>
 </w.rf>
 <form>Petrů</form>
-<tag lemma="Petrů_;Y" src="orig" selected="1">NNMXX-----A----</tag>
+<tag lemma="Petrů-1_;Y" src="orig" selected="1">NNMXX-----A----</tag>
 </m>
 <m id="m-lnd94105-020-p1s5w5">
 <src.rf>manual</src.rf>
@@ -1019,7 +1019,7 @@
 <LM>w#w-lnd94105-020-p1s8w6</LM>
 </w.rf>
 <form>Petrů</form>
-<tag lemma="Petrů_;Y" src="orig" selected="1">NNMXX-----A----</tag>
+<tag lemma="Petrů-1_;Y" src="orig" selected="1">NNMXX-----A----</tag>
 </m>
 <m id="m-lnd94105-020-p1s8w7">
 <src.rf>manual</src.rf>

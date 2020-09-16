@@ -387,7 +387,7 @@
 <LM>w#w-ln94201-25-p2s2w19</LM>
 </w.rf>
 <form>zlatý</form>
-<tag lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAIS1----1A----</tag>
+<tag lemma="zlatý-1_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-ln94201-25-p2s2w20">
 <src.rf>manual</src.rf>

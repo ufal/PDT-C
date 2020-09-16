@@ -2663,7 +2663,7 @@
 <tag>
 <AM lemma="Alar_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Alar_;Y" src="manual">NNMS1-----A----</AM>
-<AM lemma="Alar-2_;U" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Alar-2_;U_^(pesticid)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0964-001-p1s9W16-Ta">
@@ -2852,7 +2852,7 @@
 <form>regulátor</form>
 <tag>
 <AM lemma="regulátor" src="auto">NNIS1-----A----</AM>
-<AM lemma="regulátor" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="regulátor-1" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="regulátor" src="auto">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -3159,7 +3159,7 @@
 <tag>
 <AM lemma="Alar_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Alar_;Y" src="manual">NNMS1-----A----</AM>
-<AM lemma="Alar-2_;U" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Alar-2_;U_^(pesticid)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0964-001-p1s10W12-Ta">
@@ -5086,7 +5086,7 @@
 <AM lemma="stanovení_^(určit)_(*3it)" src="auto">NNNS3-----A----</AM>
 <AM lemma="stanovení_^(určit)_(*3it)" src="auto">NNNS4-----A----</AM>
 <AM lemma="stanovení_^(určit)_(*3it)" src="auto">NNNS5-----A----</AM>
-<AM lemma="stanovení_^(určit)_(*3it)" src="auto" recommended="1">NNNS6-----A----</AM>
+<AM lemma="stanovení_^(*3it)" src="auto" recommended="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0964-001-p1s18W10-Ta">

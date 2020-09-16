@@ -348,7 +348,7 @@
 <LM>w#w-ln94211-36-p2s2w4</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94211-36-p2s2w5">
 <src.rf>manual</src.rf>
@@ -712,7 +712,7 @@
 <LM>w#w-ln94211-36-p3s2w14</LM>
 </w.rf>
 <form>Sofii</form>
-<tag lemma="Sofie-1_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Sofie_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94211-36-p3s2w15">
 <src.rf>manual</src.rf>
@@ -877,7 +877,7 @@
 <LM>w#w-ln94211-36-p3s3w15</LM>
 </w.rf>
 <form>Yorku</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="York-2_;G_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln94211-36-p3s3w16">
 <src.rf>manual</src.rf>

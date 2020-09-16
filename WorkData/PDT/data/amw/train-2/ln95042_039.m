@@ -19,7 +19,7 @@
 <LM>w#w-ln95042-039-p1s1w1</LM>
 </w.rf>
 <form>Slováci</form>
-<tag lemma="Slovák_;E" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="Slovák_;E_;Y" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln95042-039-p1s1w2">
 <src.rf>manual</src.rf>
@@ -239,7 +239,7 @@
 <LM>w#w-ln95042-039-p2s2w4</LM>
 </w.rf>
 <form>správní</form>
-<tag lemma="správní_^(např._poplatek;_rada;_řád;...)" src="orig" selected="1">AAFS2----1A----</tag>
+<tag lemma="správní_^(správní_rada;_řád)" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-ln95042-039-p2s2w5">
 <src.rf>manual</src.rf>
@@ -247,7 +247,7 @@
 <LM>w#w-ln95042-039-p2s2w5</LM>
 </w.rf>
 <form>rady</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95042-039-p2s2w6">
 <src.rf>manual</src.rf>
@@ -597,7 +597,7 @@
 <LM>w#w-ln95042-039-p2s5w2</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-ln95042-039-p2s5w3">
 <src.rf>manual</src.rf>
@@ -711,7 +711,7 @@
 <LM>w#w-ln95042-039-p2s6w3</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-ln95042-039-p2s6w4">
 <src.rf>manual</src.rf>
@@ -743,7 +743,7 @@
 <LM>w#w-ln95042-039-p2s6w7</LM>
 </w.rf>
 <form>ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln95042-039-p2s6w8">
 <src.rf>manual</src.rf>

@@ -705,7 +705,7 @@
 </w.rf>
 <form>Druhá</form>
 <tag>
-<AM lemma="druhý" src="auto" recommended="1">CrFS1----------</AM>
+<AM lemma="druhý`2" src="auto" recommended="1">CrFS1----------</AM>
 <AM lemma="druhý" src="auto">CrFS5----------</AM>
 <AM lemma="druhý" src="auto">CrNP1----------</AM>
 <AM lemma="druhý" src="auto">CrNP4----------</AM>
@@ -1142,7 +1142,7 @@
 <form>můj</form>
 <tag>
 <AM lemma="můj_^(přivlast.)" src="auto">PSIS4-S1-------</AM>
-<AM lemma="můj_^(přivlast.)" src="auto" recommended="1">PSYS1-S1-------</AM>
+<AM lemma="můj" src="auto" recommended="1">PSYS1-S1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSYS5-S1-------</AM>
 </tag>
 </m>
@@ -1199,7 +1199,7 @@
 <form>nešika</form>
 <tag>
 <AM lemma="nešika" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="nešika" src="auto" selected="1">NNMS1-----A----</AM>
+<AM lemma="nešika-1" src="auto" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m147-d1t986-9">
@@ -1216,7 +1216,7 @@
 <form>můj</form>
 <tag>
 <AM lemma="můj_^(přivlast.)" src="auto">PSIS4-S1-------</AM>
-<AM lemma="můj_^(přivlast.)" src="auto" recommended="1">PSYS1-S1-------</AM>
+<AM lemma="můj" src="auto" recommended="1">PSYS1-S1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSYS5-S1-------</AM>
 </tag>
 </m>
@@ -1568,7 +1568,7 @@
 <AM lemma="vysoký" src="auto">AAFS7----1A----</AM>
 <AM lemma="vysoká_^(zvěř)" src="auto">NNFS4-----A----</AM>
 <AM lemma="vysoká_^(zvěř)" src="auto">NNFS7-----A----</AM>
-<AM lemma="vysoká_^(zvěř;škola)" src="manual" selected="1">NNFS4-----A----</AM>
+<AM lemma="vysoká_^(zvěř)" src="manual" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m147-d-id142244-punct">
@@ -2361,7 +2361,7 @@
 <LM>w#w-d1t1012-4</LM>
 </w.rf>
 <form>dali</form>
-<tag lemma="dát" src="auto" recommended="1">VpMP----R-AAP--</tag>
+<tag lemma="dát-1" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m147-d1t1012-5">
 <w.rf>
@@ -3540,7 +3540,7 @@
 <form>lidi</form>
 <tag>
 <AM lemma="člověk" src="auto">NNMP1-----A----</AM>
-<AM lemma="člověk" src="auto" recommended="1">NNMP4-----A----</AM>
+<AM lemma="lidé" src="auto" recommended="1">NNMP4-----A----</AM>
 <AM lemma="člověk" src="auto">NNMP5-----A----</AM>
 </tag>
 </m>

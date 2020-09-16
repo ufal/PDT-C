@@ -336,7 +336,7 @@
 <LM>w#w-mf920923-105-p2s5w13</LM>
 </w.rf>
 <form>vydání</form>
-<tag lemma="vydání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="vydání_^(*3at)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-mf920923-105-p2s5w14">
 <src.rf>manual</src.rf>
@@ -583,7 +583,7 @@
 <LM>w#w-mf920923-105-p2s7w9</LM>
 </w.rf>
 <form>přeložení</form>
-<tag lemma="přeložení-3_^(z_jazyka)_(*5it-3)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="přeložení_^(*3it)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-mf920923-105-p2s7w10">
 <src.rf>manual</src.rf>
@@ -689,7 +689,7 @@
 <LM>w#w-mf920923-105-p3s1w9</LM>
 </w.rf>
 <form>rozvod</form>
-<tag lemma="rozvod-1_^(manželství)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="rozvod_^(manželství;vody)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920923-105-p3s1w10">
 <src.rf>manual</src.rf>
@@ -713,7 +713,7 @@
 <LM>w#w-mf920923-105-p3s1w12</LM>
 </w.rf>
 <form>sex</form>
-<tag lemma="sex" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="sex-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920923-105-p3s1w13">
 <src.rf>manual</src.rf>

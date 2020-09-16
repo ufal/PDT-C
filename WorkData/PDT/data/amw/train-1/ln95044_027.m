@@ -127,7 +127,7 @@
 <LM>w#w-ln95044-027-p2s1Bw9</LM>
 </w.rf>
 <form>Oksana</form>
-<tag lemma="Oksana_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Oksana-1_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95044-027-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -265,7 +265,7 @@
 <LM>w#w-ln95044-027-p2s2w3</LM>
 </w.rf>
 <form>zlaté</form>
-<tag lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAFS2----1A----</tag>
+<tag lemma="zlatý-1_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-ln95044-027-p2s2w4">
 <src.rf>manual</src.rf>

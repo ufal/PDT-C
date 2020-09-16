@@ -330,7 +330,7 @@
 <tag>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP3FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSZS6FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9ZS7FS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9ZS7FS3-------</AM>
 </tag>
 </m>
 <m id="m-wsj0005-001-p1s0W30-Ta">

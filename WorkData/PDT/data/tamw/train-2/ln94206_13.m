@@ -21,7 +21,7 @@
 <form>Kurzy</form>
 <tag>
 <AM lemma="kurs" src="auto">NNIP1-----A----</AM>
-<AM lemma="kurs_,s_^(^DD**kurz)" src="manual" selected="1">NNIP1-----A----</AM>
+<AM lemma="kurz" src="manual" selected="1">NNIP1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-13-p1s1w2">
@@ -1306,7 +1306,7 @@
 <LM>w#w-ln94206-13-p4s1w1</LM>
 </w.rf>
 <form>Management</form>
-<tag lemma="management_^(vedení,_manažment;_angl.)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="management_,s_^(^DD**manažment)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94206-13-p4s1w2">
 <src.rf>manual</src.rf>
@@ -1402,7 +1402,7 @@
 <LM>w#w-ln94206-13-p4s1w13</LM>
 </w.rf>
 <form>managementu</form>
-<tag lemma="management_^(vedení,_manažment;_angl.)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="management_,s_^(^DD**manažment)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94206-13-p4s1w14">
 <src.rf>manual</src.rf>

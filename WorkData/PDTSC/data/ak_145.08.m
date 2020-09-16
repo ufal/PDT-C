@@ -422,7 +422,7 @@
 </w.rf>
 <form>třeba</form>
 <tag>
-<AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" recommended="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -931,7 +931,7 @@
 </w.rf>
 <form>prvního</form>
 <tag>
-<AM lemma="první" src="auto" recommended="1">CrIS2----------</AM>
+<AM lemma="první-1" src="auto" recommended="1">CrIS2----------</AM>
 <AM lemma="první" src="auto">CrMS2----------</AM>
 <AM lemma="první" src="auto">CrMS4----------</AM>
 <AM lemma="první" src="auto">CrNS2----------</AM>
@@ -1181,7 +1181,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="třeba-3" src="auto" selected="1">TT-------------</AM>
+<AM lemma="třeba-2_^(například)" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m145-d1t1486-17">
@@ -1768,7 +1768,7 @@
 <AM lemma="moc-1_^(nad_někým;_politická,_vojenská;_plná,...)" src="auto">NNFS1-----A----</AM>
 <AM lemma="moc-1_^(nad_někým;_politická,_vojenská;_plná,...)" src="auto">NNFS4-----A----</AM>
 <AM lemma="moc-2_^(mnoho_něčeho_[se_subst._v_gen.])" src="auto">Ca--X----------</AM>
-<AM lemma="moc-3_^(velmi,_ve_spojení_s_adj.,_př._moc_hezká)" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="moc-3_^(moc_hezká,_moc_peněz)" src="auto" recommended="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m145-d1t1522-2">
@@ -1995,7 +1995,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m145-d1t1542-4">

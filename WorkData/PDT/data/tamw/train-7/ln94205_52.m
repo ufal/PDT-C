@@ -309,7 +309,7 @@
 <LM>w#w-ln94205-52-p3s1w3</LM>
 </w.rf>
 <form>rady</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94205-52-p3s1w4">
 <src.rf>manual</src.rf>
@@ -603,7 +603,7 @@
 <LM>w#w-ln94205-52-p3s1w40</LM>
 </w.rf>
 <form>orgánům</form>
-<tag lemma="orgán" src="orig" selected="1">NNIP3-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIP3-----A----</tag>
 </m>
 <m id="m-ln94205-52-p3s1w41">
 <src.rf>manual</src.rf>
@@ -749,7 +749,7 @@
 <LM>w#w-ln94205-52-p4s1w6</LM>
 </w.rf>
 <form>zelených</form>
-<tag lemma="zelený" src="orig" selected="1">AAMP2----1A----</tag>
+<tag lemma="zelený_;o" src="orig" selected="1">AAMP2----1A----</tag>
 </m>
 <m id="m-ln94205-52-p4s1w7">
 <src.rf>manual</src.rf>
@@ -856,7 +856,7 @@
 <LM>w#w-ln94205-52-p4s1w20</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-ln94205-52-p4s1w21">
 <src.rf>manual</src.rf>
@@ -1243,7 +1243,7 @@
 <LM>w#w-ln94205-52-p4s3w6</LM>
 </w.rf>
 <form>nepříjemné</form>
-<tag lemma="příjemný-1_^(všeob.,_poz._emoce)" src="orig" selected="1">AANS1----1N----</tag>
+<tag lemma="příjemný_^(všeob.,_poz._emoce)" src="orig" selected="1">AANS1----1N----</tag>
 </m>
 <m id="m-ln94205-52-p4s3w7">
 <src.rf>manual</src.rf>
@@ -1525,7 +1525,7 @@
 <LM>w#w-ln94205-52-p5s1w18</LM>
 </w.rf>
 <form>potřeby</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-ln94205-52-p5s1w19">
 <src.rf>manual</src.rf>
@@ -1746,7 +1746,7 @@
 <LM>w#w-ln94205-52-p5s2w20</LM>
 </w.rf>
 <form>zpřístupněných</form>
-<tag lemma="zpřístupněný_^(*3it)" src="orig" selected="1">AAIP2----1A----</tag>
+<tag lemma="zpřístupněný_^(*2t)_(*3it)" src="orig" selected="1">AAIP2----1A----</tag>
 </m>
 <m id="m-ln94205-52-p5s2w21">
 <src.rf>manual</src.rf>

@@ -409,7 +409,7 @@
 <AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AANS1----1A----</AM>
 <AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AANS4----1A----</AM>
 <AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AANS5----1A----</AM>
-<AM lemma="konkurzní_^(týkající_se_úpadku,_soutěže)" src="manual" selected="1">AAIS4----1A----</AM>
+<AM lemma="konkurzní" src="manual" selected="1">AAIS4----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj2146-001-p1s0W31-Ta">
@@ -518,7 +518,7 @@
 <form>své</form>
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FP1---------1</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8FP4---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8FP4---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS2---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS3---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS6---------1</AM>
@@ -994,7 +994,7 @@
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP1FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP5FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9ZS1FS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9ZS1FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSZS5FS3-------</AM>
 </tag>
 </m>
@@ -1151,7 +1151,7 @@
 </w.rf>
 <form>jejích</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XP2FS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9XP2FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP6FS3-------</AM>
 </tag>
 </m>
@@ -2624,7 +2624,7 @@
 </w.rf>
 <form>předešlém</form>
 <tag>
-<AM lemma="předešlý_^(díky_rychlejší_chůzi)_(předchozí,minulý,poslední)_(*3jít)" src="auto" recommended="1">AAIS6----1A----</AM>
+<AM lemma="předešlý_^(*3jít)" src="auto" recommended="1">AAIS6----1A----</AM>
 <AM lemma="předešlý_^(díky_rychlejší_chůzi)_(předchozí,minulý,poslední)_(*3jít)" src="auto">AAMS6----1A----</AM>
 <AM lemma="předešlý_^(díky_rychlejší_chůzi)_(předchozí,minulý,poslední)_(*3jít)" src="auto">AANS6----1A----</AM>
 </tag>
@@ -3002,7 +3002,7 @@
 </w.rf>
 <form>jejích</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XP2FS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9XP2FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP6FS3-------</AM>
 </tag>
 </m>

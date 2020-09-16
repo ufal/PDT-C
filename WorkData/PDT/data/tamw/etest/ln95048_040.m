@@ -167,7 +167,7 @@
 <LM>w#w-ln95048-040-p2s2w3</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-ln95048-040-p2s2w4">
 <src.rf>manual</src.rf>
@@ -622,7 +622,7 @@
 <LM>w#w-ln95048-040-p2s5w23</LM>
 </w.rf>
 <form>Martenem</form>
-<tag lemma="Marten_;Y" src="auto" selected="1">NNMS7-----A----</tag>
+<tag lemma="Marten-1_;Y" src="auto" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95048-040-p2s5w24">
 <src.rf>manual</src.rf>
@@ -857,7 +857,7 @@
 <LM>w#w-ln95048-040-p2s6w28</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS2---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS2---------1</tag>
 </m>
 <m id="m-ln95048-040-p2s6w29">
 <src.rf>manual</src.rf>
@@ -969,7 +969,7 @@
 <LM>w#w-ln95048-040-p2s6w42</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS2---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS2---------1</tag>
 </m>
 <m id="m-ln95048-040-p2s6w43">
 <src.rf>manual</src.rf>
@@ -1317,7 +1317,7 @@
 <LM>w#w-ln95048-040-p2s8w5</LM>
 </w.rf>
 <form>Marii</form>
-<tag lemma="Marie-1_;Y" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="Marie_;Y" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-ln95048-040-p2s8w6">
 <src.rf>manual</src.rf>

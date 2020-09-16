@@ -292,7 +292,7 @@
 <LM>w#w-ln95040-016-p2s2w7</LM>
 </w.rf>
 <form>vedoucí</form>
-<tag lemma="vedoucí-2" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="vedoucí-3" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95040-016-p2s2w8">
 <src.rf>manual</src.rf>
@@ -864,7 +864,7 @@
 <LM>w#w-ln95040-016-p4s1w26</LM>
 </w.rf>
 <form>právo</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95040-016-p4s1w27">
 <src.rf>manual</src.rf>

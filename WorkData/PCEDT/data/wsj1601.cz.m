@@ -169,7 +169,7 @@
 <AM lemma="druhý" src="auto">CrIP4---------6</AM>
 <AM lemma="druhý" src="auto">CrIP5---------6</AM>
 <AM lemma="druhý" src="auto">CrIS1----------</AM>
-<AM lemma="druhý" src="auto" selected="1">CrIS4----------</AM>
+<AM lemma="druhý`2" src="auto" selected="1">CrIS4----------</AM>
 <AM lemma="druhý" src="auto">CrIS5----------</AM>
 <AM lemma="druhý" src="auto">CrMP1---------6</AM>
 <AM lemma="druhý" src="auto">CrMP4---------6</AM>
@@ -3698,7 +3698,7 @@
 </w.rf>
 <form>třeba</form>
 <tag>
-<AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" recommended="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -4036,7 +4036,7 @@
 </w.rf>
 <form>dají</form>
 <tag>
-<AM lemma="dát" src="auto" recommended="1">VB-P---3P-AAP--</AM>
+<AM lemma="dát-1" src="auto" recommended="1">VB-P---3P-AAP--</AM>
 <AM lemma="dát-2_^(dá_se_očekávat)" src="auto">VB-P---3P-AAI--</AM>
 </tag>
 </m>
@@ -5883,7 +5883,7 @@
 </w.rf>
 <form>předešlém</form>
 <tag>
-<AM lemma="předešlý_^(díky_rychlejší_chůzi)_(předchozí,minulý,poslední)_(*3jít)" src="auto" recommended="1">AAIS6----1A----</AM>
+<AM lemma="předešlý_^(*3jít)" src="auto" recommended="1">AAIS6----1A----</AM>
 <AM lemma="předešlý_^(díky_rychlejší_chůzi)_(předchozí,minulý,poslední)_(*3jít)" src="auto">AAMS6----1A----</AM>
 <AM lemma="předešlý_^(díky_rychlejší_chůzi)_(předchozí,minulý,poslední)_(*3jít)" src="auto">AANS6----1A----</AM>
 </tag>
@@ -7920,7 +7920,7 @@
 <AM lemma="převzetí_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="auto">NNNS1-----A----</AM>
 <AM lemma="převzetí_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="auto">NNNS2-----A----</AM>
 <AM lemma="převzetí_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="auto">NNNS3-----A----</AM>
-<AM lemma="převzetí_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="auto" recommended="1">NNNS4-----A----</AM>
+<AM lemma="převzetí_^(*3ít)" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="převzetí_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="auto">NNNS5-----A----</AM>
 <AM lemma="převzetí_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="auto">NNNS6-----A----</AM>
 </tag>

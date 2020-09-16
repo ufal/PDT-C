@@ -280,7 +280,7 @@
 <tag>
 <AM lemma="druhý" src="auto">CrIS3----------</AM>
 <AM lemma="druhý" src="auto">CrMS3----------</AM>
-<AM lemma="druhý" src="auto" recommended="1">CrNS3----------</AM>
+<AM lemma="druhý`2" src="auto" recommended="1">CrNS3----------</AM>
 </tag>
 </m>
 <m id="m-wsj1384-001-p1s0W19-Ta">

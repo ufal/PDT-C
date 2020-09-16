@@ -201,7 +201,7 @@
 <LM>w#w-cmpr9416-010-p3s3w8</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-cmpr9416-010-p3s3w9">
 <src.rf>manual</src.rf>
@@ -332,7 +332,7 @@
 <LM>w#w-cmpr9416-010-p4s2w3</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-cmpr9416-010-p4s2w4">
 <src.rf>manual</src.rf>
@@ -1024,7 +1024,7 @@
 <form>hodně</form>
 <tag>
 <AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="hodně_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-010-p9s1w8">
@@ -1212,7 +1212,7 @@
 <LM>w#w-cmpr9416-010-p9s3w3</LM>
 </w.rf>
 <form>delší</form>
-<tag lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">AAFS4----2A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFS4----2A----</tag>
 </m>
 <m id="m-cmpr9416-010-p9s3w4">
 <src.rf>manual</src.rf>
@@ -1714,7 +1714,7 @@
 <LM>w#w-cmpr9416-010-p9s7w1</LM>
 </w.rf>
 <form>Naše</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSHS1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSHS1-P1-------</tag>
 </m>
 <m id="m-cmpr9416-010-p9s7w2">
 <src.rf>manual</src.rf>

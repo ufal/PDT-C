@@ -324,7 +324,7 @@
 <LM>w#w-mf920923-013-p2s2w10</LM>
 </w.rf>
 <form>dá</form>
-<tag lemma="dát" src="orig" selected="1">VB-S---3P-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-mf920923-013-p2s2w11">
 <src.rf>manual</src.rf>

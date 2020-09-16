@@ -89,7 +89,7 @@
 <AM lemma="oui_,t" src="orig">TT-------------</AM>
 <AM lemma="Oui_;G" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="OUI-77" src="manual">F%-------------</AM>
-<AM lemma="oui-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Oui-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf920922-128-p1s1w10">
@@ -138,7 +138,7 @@
 <LM>w#w-mf920922-128-p1s1w15</LM>
 </w.rf>
 <form>JET</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="orig" selected="1">Vf--------A-I--</tag>
+<tag lemma="jet-1" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-mf920922-128-p1s1w16">
 <src.rf>manual</src.rf>
@@ -148,7 +148,7 @@
 <form>DÁL</form>
 <tag>
 <AM lemma="daleko-1" src="orig">Dg-------2A----</AM>
-<AM lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="dál-3_,s_^(také,_za_další)_(^DD**dále-3)" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 </s>
@@ -540,7 +540,7 @@
 <LM>w#w-mf920922-128-p3s1w15</LM>
 </w.rf>
 <form>impuls</form>
-<tag lemma="impuls" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="impuls_,s_^(^DD**impulz)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-mf920922-128-p3s1w16">
 <src.rf>manual</src.rf>
@@ -936,7 +936,7 @@
 <tag>
 <AM lemma="daleko-1" src="orig">Dg-------2A----</AM>
 <AM lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="manual">Db-------------</AM>
-<AM lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="dál-3_,s_^(také,_za_další)_(^DD**dále-3)" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf920922-128-p4s2w10">
@@ -1617,7 +1617,7 @@
 <LM>w#w-mf920922-128-p7s1w2</LM>
 </w.rf>
 <form>interview</form>
-<tag lemma="interview" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="interview-1" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-mf920922-128-p7s1w3">
 <src.rf>manual</src.rf>
@@ -2387,7 +2387,7 @@
 <LM>w#w-mf920922-128-p10s1w32</LM>
 </w.rf>
 <form>cestě</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf920922-128-p10s1w33">
 <src.rf>manual</src.rf>
@@ -2740,7 +2740,7 @@
 <LM>w#w-mf920922-128-p12s1w3</LM>
 </w.rf>
 <form>činitelé</form>
-<tag lemma="činitel" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="činitel-1" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf920922-128-p12s1w4">
 <src.rf>manual</src.rf>
@@ -2830,7 +2830,7 @@
 <LM>w#w-mf920922-128-p12s2w1</LM>
 </w.rf>
 <form>Naši</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSMP1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSMP1-P1-------</tag>
 </m>
 <m id="m-mf920922-128-p12s2w2">
 <src.rf>manual</src.rf>
@@ -2934,7 +2934,7 @@
 <LM>w#w-mf920922-128-p12s2w14</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-mf920922-128-p12s2w15">
 <src.rf>manual</src.rf>

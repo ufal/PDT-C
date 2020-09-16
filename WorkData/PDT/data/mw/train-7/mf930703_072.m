@@ -590,7 +590,7 @@
 <LM>w#w-mf930703-072-p2s3w28</LM>
 </w.rf>
 <form>vypadala</form>
-<tag lemma="vypadat" src="orig" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="vypadat-1_^(ty_vypadáš)" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf930703-072-p2s3w29">
 <src.rf>manual</src.rf>
@@ -1412,7 +1412,7 @@
 <LM>w#w-mf930703-072-p2s9w2</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-072-p2s9w3">
 <src.rf>manual</src.rf>
@@ -1460,7 +1460,7 @@
 <LM>w#w-mf930703-072-p2s9w8</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf930703-072-p2s9w9">
 <src.rf>manual</src.rf>

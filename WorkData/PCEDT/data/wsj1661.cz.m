@@ -208,7 +208,7 @@
 <form>její</form>
 <tag>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSFXXFS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto" selected="1">P9IS4FS3-------</AM>
+<AM lemma="jeho" src="auto" selected="1">P9IS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSNS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSXP1FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP4FS3-------</AM>
@@ -1448,7 +1448,7 @@
 <AM lemma="program-1" src="auto">NNIS2-----A----</AM>
 <AM lemma="program-1" src="auto">NNIS3-----A----</AM>
 <AM lemma="program-1" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="program" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="program-1" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1661-001-p1s3W9-Ta">
@@ -1667,7 +1667,7 @@
 <tag>
 <AM lemma="program-1" src="auto">NNIS1-----A----</AM>
 <AM lemma="program-1" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="program" src="manual" selected="1">NNIS4-----A----</AM>
+<AM lemma="program-1" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1661-001-p1s3W26-Ta">
@@ -2852,7 +2852,7 @@
 </w.rf>
 <form>jejích</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XP2FS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9XP2FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP6FS3-------</AM>
 </tag>
 </m>
@@ -3033,7 +3033,7 @@
 </w.rf>
 <form>svůj</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8IS4----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8IS4----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8YS1----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8YS5----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOYS-----------</AM>
@@ -3077,7 +3077,7 @@
 <AM lemma="York-2_;G" src="auto">NNIS2-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS5-----A----</AM>
-<AM lemma="York-2_;G" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="York-2_;G_;m" src="auto" recommended="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1661-001-p1s7W38-Ta">
@@ -3303,7 +3303,7 @@
 <tag>
 <AM lemma="první" src="auto">CrFP2----------</AM>
 <AM lemma="první" src="auto">CrFP6----------</AM>
-<AM lemma="první" src="auto" recommended="1">CrIP2----------</AM>
+<AM lemma="první-1" src="auto" recommended="1">CrIP2----------</AM>
 <AM lemma="první" src="auto">CrIP6----------</AM>
 <AM lemma="první" src="auto">CrMP2----------</AM>
 <AM lemma="první" src="auto">CrMP6----------</AM>

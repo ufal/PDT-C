@@ -334,7 +334,7 @@
 <LM>w#w-ln94207-119-p2s1Bw32</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-ln94207-119-p2s1Bw33">
 <src.rf>manual</src.rf>
@@ -634,7 +634,7 @@
 <LM>w#w-ln94207-119-p2s3w17</LM>
 </w.rf>
 <form>datu</form>
-<tag lemma="datum_^(kalendářní)" src="orig" selected="1">NNNS3-----A----</tag>
+<tag lemma="datum-1_^(kalendářní)" src="orig" selected="1">NNNS3-----A----</tag>
 </m>
 <m id="m-ln94207-119-p2s3w18">
 <src.rf>manual</src.rf>

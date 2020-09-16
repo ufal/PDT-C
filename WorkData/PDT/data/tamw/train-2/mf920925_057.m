@@ -724,7 +724,7 @@
 <LM>w#w-mf920925-057-p2s7w11</LM>
 </w.rf>
 <form>míří</form>
-<tag lemma="mířit_^(např._pistolí;_směřovat;_tvar_slovesa)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="mířit" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920925-057-p2s7w12">
 <src.rf>manual</src.rf>
@@ -950,7 +950,7 @@
 <LM>w#w-mf920925-057-p2s8w26</LM>
 </w.rf>
 <form>vyhecovaný</form>
-<tag lemma="vyhecovaný_,h_^(*2t)" src="orig" selected="1">AAMS1----1A----</tag>
+<tag lemma="vyhecovaný_^(*2t)" src="orig" selected="1">AAMS1----1A----</tag>
 </m>
 <m id="m-mf920925-057-p2s8w27">
 <src.rf>manual</src.rf>
@@ -984,7 +984,7 @@
 <LM>w#w-mf920925-057-p2s9w3</LM>
 </w.rf>
 <form>moc</form>
-<tag lemma="moc-3_^(velmi,_ve_spojení_s_adj.,_př._moc_hezká)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="moc-3_^(moc_hezká,_moc_peněz)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf920925-057-p2s9w4">
 <src.rf>manual</src.rf>
@@ -1340,7 +1340,7 @@
 <LM>w#w-mf920925-057-p2s12w5</LM>
 </w.rf>
 <form>druhý</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS4----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS4----------</tag>
 </m>
 <m id="m-mf920925-057-p2s12w6">
 <src.rf>manual</src.rf>
@@ -1528,7 +1528,7 @@
 <LM>w#w-mf920925-057-p2s14w6</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrIS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS4----------</tag>
 </m>
 <m id="m-mf920925-057-p2s14w7">
 <src.rf>manual</src.rf>
@@ -2150,7 +2150,7 @@
 <LM>w#w-mf920925-057-p2s20w8</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS7----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS7----------</tag>
 </m>
 <m id="m-mf920925-057-p2s20w9">
 <src.rf>manual</src.rf>

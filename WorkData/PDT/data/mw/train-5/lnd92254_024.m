@@ -204,7 +204,7 @@
 <LM>w#w-lnd92254-024-p3s2w13</LM>
 </w.rf>
 <form>vedoucí</form>
-<tag lemma="vedoucí-2" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="vedoucí-3" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92254-024-p3s2w14">
 <src.rf>manual</src.rf>
@@ -532,7 +532,7 @@
 <LM>w#w-lnd92254-024-p3s4w12</LM>
 </w.rf>
 <form>orgány</form>
-<tag lemma="orgán" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-lnd92254-024-p3s4w13">
 <src.rf>manual</src.rf>

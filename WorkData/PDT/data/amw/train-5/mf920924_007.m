@@ -53,7 +53,7 @@
 <LM>w#w-mf920924-007-p2s1w3</LM>
 </w.rf>
 <form>JEZDEC</form>
-<tag lemma="jezdec" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="jezdec-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-007-p2s1w4">
 <src.rf>manual</src.rf>
@@ -649,7 +649,7 @@
 <LM>w#w-mf920924-007-p2s3w10</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf920924-007-p2s3w11">
 <src.rf>manual</src.rf>

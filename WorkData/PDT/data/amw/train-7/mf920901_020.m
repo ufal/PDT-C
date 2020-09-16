@@ -208,7 +208,7 @@
 <LM>w#w-mf920901-020-p2s2w14</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-mf920901-020-p2s2w15">
 <src.rf>manual</src.rf>
@@ -216,7 +216,7 @@
 <LM>w#w-mf920901-020-p2s2w15</LM>
 </w.rf>
 <form>členů</form>
-<tag lemma="člen" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf920901-020-p2s2w16">
 <src.rf>manual</src.rf>

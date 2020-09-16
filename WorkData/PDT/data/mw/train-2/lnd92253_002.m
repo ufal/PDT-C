@@ -582,7 +582,7 @@
 <LM>w#w-lnd92253-002-p2s5w2</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-lnd92253-002-p2s5w3">
 <src.rf>manual</src.rf>

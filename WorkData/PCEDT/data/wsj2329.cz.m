@@ -112,7 +112,7 @@
 <AM lemma="jeho_^(přivlast.)" src="auto">PSFXXFS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSIS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSNS4FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XP1FS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9XP1FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP5FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSZS1FS3-------</AM>
@@ -304,7 +304,7 @@
 </w.rf>
 <form>svůj</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8IS4----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8IS4----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8YS1----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8YS5----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOYS-----------</AM>
@@ -818,7 +818,7 @@
 <form>svého</form>
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8MS4----------</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8ZS2----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8ZS2----------</AM>
 </tag>
 </m>
 <m id="m-wsj2329-001-p1s1W19-Ta">
@@ -982,7 +982,7 @@
 <form>svého</form>
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8MS4----------</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8ZS2----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8ZS2----------</AM>
 </tag>
 </m>
 <m id="m-wsj2329-001-p1s1W32-Ta">
@@ -1087,7 +1087,7 @@
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8XP3----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8ZS6---------7</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8ZS7----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8ZS7----------</AM>
 </tag>
 </m>
 <m id="m-wsj2329-001-p1s1W41-Ta">
@@ -1172,7 +1172,7 @@
 <AM lemma="první" src="auto">CrFP1----------</AM>
 <AM lemma="první" src="auto">CrFP4----------</AM>
 <AM lemma="první" src="auto">CrFP5----------</AM>
-<AM lemma="první" src="auto" recommended="1">CrFS1----------</AM>
+<AM lemma="první-1" src="auto" recommended="1">CrFS1----------</AM>
 <AM lemma="první" src="auto">CrFS2----------</AM>
 <AM lemma="první" src="auto">CrFS3----------</AM>
 <AM lemma="první" src="auto">CrFS4----------</AM>

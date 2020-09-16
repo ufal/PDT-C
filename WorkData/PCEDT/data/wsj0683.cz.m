@@ -898,7 +898,7 @@
 <form>letech</form>
 <tag>
 <AM lemma="let" src="auto">NNIP6-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP6-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0683-001-p1s1W47-Ta">
@@ -1903,7 +1903,7 @@
 </w.rf>
 <form>hodně</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------1A----</AM>
+<AM lemma="hodně_^(*1ý)" src="auto" recommended="1">Dg-------1A----</AM>
 <AM lemma="hodně_^(být_hoden;nezlobivý)_(*1ý)" src="auto">Dg-------1A----</AM>
 </tag>
 </m>
@@ -2394,7 +2394,7 @@
 <form>letech</form>
 <tag>
 <AM lemma="let" src="auto">NNIP6-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP6-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0683-001-p1s5W8-Ta">
@@ -3210,7 +3210,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0683-001-p1s7W30-Ta">
@@ -3525,7 +3525,7 @@
 </w.rf>
 <form>modely</form>
 <tag>
-<AM lemma="model" src="auto" recommended="1">NNIP1-----A----</AM>
+<AM lemma="model-1" src="auto" recommended="1">NNIP1-----A----</AM>
 <AM lemma="model" src="auto">NNIP4-----A----</AM>
 <AM lemma="model" src="auto">NNIP5-----A----</AM>
 <AM lemma="model" src="auto">NNIP7-----A----</AM>
@@ -3672,7 +3672,7 @@
 </w.rf>
 <form>prvními</form>
 <tag>
-<AM lemma="první" src="auto" selected="1">CrFP7----------</AM>
+<AM lemma="první-1" src="auto" selected="1">CrFP7----------</AM>
 <AM lemma="první" src="auto">CrIP7----------</AM>
 <AM lemma="první" src="auto" recommended="1">CrMP7----------</AM>
 <AM lemma="první" src="auto">CrNP7----------</AM>
@@ -5103,7 +5103,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0683-001-p1s12W20-Ta">
@@ -5190,7 +5190,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0683-001-p1s12W28-Ta">
@@ -5244,7 +5244,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0683-001-p1s12W33-Ta">

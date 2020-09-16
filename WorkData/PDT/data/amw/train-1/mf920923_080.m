@@ -127,7 +127,7 @@
 <LM>w#w-mf920923-080-p2s1w8</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-mf920923-080-p2s1w9">
 <src.rf>manual</src.rf>
@@ -582,7 +582,7 @@
 <LM>w#w-mf920923-080-p2s3w2</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf920923-080-p2s3w3">
 <src.rf>manual</src.rf>
@@ -1186,7 +1186,7 @@
 <LM>w#w-mf920923-080-p2s6w10</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf920923-080-p2s6w11">
 <src.rf>manual</src.rf>

@@ -19,7 +19,7 @@
 <LM>w#w-mf920902-070-p1s1w1</LM>
 </w.rf>
 <form>Peloton</form>
-<tag lemma="peloton" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="peloton_,s_^(^DD**peleton)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920902-070-p1s1w2">
 <src.rf>manual</src.rf>
@@ -27,7 +27,7 @@
 <LM>w#w-mf920902-070-p1s1w2</LM>
 </w.rf>
 <form>míří</form>
-<tag lemma="mířit_^(např._pistolí;_směřovat;_tvar_slovesa)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="mířit" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920902-070-p1s1w3">
 <src.rf>manual</src.rf>
@@ -77,7 +77,7 @@
 <LM>w#w-mf920902-070-p2s1w4</LM>
 </w.rf>
 <form>našeho</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSZS2-P1-------</tag>
 </m>
 <m id="m-mf920902-070-p2s1w5">
 <src.rf>manual</src.rf>
@@ -463,7 +463,7 @@
 <LM>w#w-mf920902-070-p2s3w12</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrMS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrMS1----------</tag>
 </m>
 <m id="m-mf920902-070-p2s3w13">
 <src.rf>manual</src.rf>
@@ -495,7 +495,7 @@
 <LM>w#w-mf920902-070-p2s3w16</LM>
 </w.rf>
 <form>nadšených</form>
-<tag lemma="nadšený_^(*4chnout)" src="orig" selected="1">AAMP2----1A----</tag>
+<tag lemma="nadšený" src="orig" selected="1">AAMP2----1A----</tag>
 </m>
 <m id="m-mf920902-070-p2s3w17">
 <src.rf>manual</src.rf>
@@ -700,7 +700,7 @@
 <LM>w#w-mf920902-070-p2s3w41</LM>
 </w.rf>
 <form>km</form>
-<tag lemma="km-1`kilometr" src="orig" selected="1">NNIXX-----A---b</tag>
+<tag lemma="kilometr" src="orig" selected="1">NNIXX-----A---b</tag>
 </m>
 <m id="m-mf920902-070-p2s3w42">
 <src.rf>manual</src.rf>
@@ -708,7 +708,7 @@
 <LM>w#w-mf920902-070-p2s3w42</LM>
 </w.rf>
 <form>dlouhé</form>
-<tag lemma="dlouhý-1_^(fyz._délka;_př._dlouhá_tyč)" src="orig" selected="1">AAFS2----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-mf920902-070-p2s3w43">
 <src.rf>manual</src.rf>
@@ -716,7 +716,7 @@
 <LM>w#w-mf920902-070-p2s3w43</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-mf920902-070-p2s3w44">
 <src.rf>manual</src.rf>
@@ -1467,7 +1467,7 @@
 <LM>w#w-mf920902-070-p2s5w39</LM>
 </w.rf>
 <form>pozornost</form>
-<tag lemma="pozornost-1_^(všímavý,_milý,_soustředěný)_(*5ý-1)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="pozornost-1_^(*5ý-1)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf920902-070-p2s5w40">
 <src.rf>manual</src.rf>
@@ -1896,7 +1896,7 @@
 <LM>w#w-mf920902-070-p2s6w42</LM>
 </w.rf>
 <form>dlouhých</form>
-<tag lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">AANP6----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AANP6----1A----</tag>
 </m>
 <m id="m-mf920902-070-p2s6w43">
 <src.rf>manual</src.rf>
@@ -2417,7 +2417,7 @@
 <LM>w#w-mf920902-070-p2s7w20</LM>
 </w.rf>
 <form>druhý</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS1----------</tag>
 </m>
 <m id="m-mf920902-070-p2s7w21">
 <src.rf>manual</src.rf>
@@ -2505,7 +2505,7 @@
 <LM>w#w-mf920902-070-p2s7w31</LM>
 </w.rf>
 <form>km</form>
-<tag lemma="km-1`kilometr" src="orig" selected="1">NNIXX-----A---b</tag>
+<tag lemma="kilometr" src="orig" selected="1">NNIXX-----A---b</tag>
 </m>
 <m id="m-mf920902-070-p2s7w32">
 <src.rf>manual</src.rf>

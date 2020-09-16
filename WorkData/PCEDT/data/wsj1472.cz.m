@@ -669,7 +669,7 @@
 <form>nás</form>
 <tag>
 <AM lemma="já" src="auto">PP-P2--1-------</AM>
-<AM lemma="já" src="auto" recommended="1">PP-P4--1-------</AM>
+<AM lemma="my" src="auto" recommended="1">PP-P4--1-------</AM>
 <AM lemma="já" src="auto">PP-P6--1-------</AM>
 </tag>
 </m>
@@ -900,7 +900,7 @@
 </w.rf>
 <form>našich</form>
 <tag>
-<AM lemma="můj_^(přivlast.)" src="auto" recommended="1">PSXP2-P1-------</AM>
+<AM lemma="náš" src="auto" recommended="1">PSXP2-P1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSXP6-P1-------</AM>
 </tag>
 </m>
@@ -1679,7 +1679,7 @@
 </w.rf>
 <form>jejích</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XP2FS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9XP2FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP6FS3-------</AM>
 </tag>
 </m>

@@ -2118,7 +2118,7 @@
 <form>dny</form>
 <tag>
 <AM lemma="den_^(jednotka_času)" src="auto">NNIP1-----A----</AM>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP4-----A----</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP4-----A----</AM>
 <AM lemma="den_^(jednotka_času)" src="auto">NNIP5-----A----</AM>
 <AM lemma="den_^(jednotka_času)" src="auto">NNIP7-----A----</AM>
 <AM lemma="dna_^(nemoc)" src="auto">NNFP1-----A----</AM>

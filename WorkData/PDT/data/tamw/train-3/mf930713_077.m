@@ -303,7 +303,7 @@
 <LM>w#w-mf930713-077-p2s3w2</LM>
 </w.rf>
 <form>prvních</form>
-<tag lemma="první" src="orig" selected="1">CrFP2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFP2----------</tag>
 </m>
 <m id="m-mf930713-077-p2s3w3">
 <src.rf>manual</src.rf>

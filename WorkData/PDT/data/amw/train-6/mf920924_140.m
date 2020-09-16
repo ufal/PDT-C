@@ -254,7 +254,7 @@
 <LM>w#w-mf920924-140-p2s3w3</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920924-140-p2s3w4">
 <src.rf>manual</src.rf>
@@ -662,7 +662,7 @@
 <form>Hanna</form>
 <tag>
 <AM lemma="Hanna_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Hanna_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Hanna-2_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-140-p3s2w17">

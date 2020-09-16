@@ -154,7 +154,7 @@
 <LM>w#w-lnd92255-020-p2s1w14</LM>
 </w.rf>
 <form>dá</form>
-<tag lemma="dát" src="orig" selected="1">VB-S---3P-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-lnd92255-020-p2s1w15">
 <src.rf>manual</src.rf>
@@ -234,7 +234,7 @@
 <LM>w#w-lnd92255-020-p2s1w24</LM>
 </w.rf>
 <form>děti</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-lnd92255-020-p2s1w25">
 <src.rf>manual</src.rf>

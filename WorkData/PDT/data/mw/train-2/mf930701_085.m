@@ -362,7 +362,7 @@
 <LM>w#w-mf930701-085-p2s1w31</LM>
 </w.rf>
 <form>Frýdecko</form>
-<tag lemma="frýdecký" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="frýdecko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-mf930701-085-p2s1w32">
 <src.rf>manual</src.rf>
@@ -1086,7 +1086,7 @@
 <LM>w#w-mf930701-085-p3s4w2</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-mf930701-085-p3s4w3">
 <src.rf>manual</src.rf>
@@ -1360,7 +1360,7 @@
 <LM>w#w-mf930701-085-p3s6w18</LM>
 </w.rf>
 <form>členové</form>
-<tag lemma="člen" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf930701-085-p3s6w19">
 <src.rf>manual</src.rf>

@@ -35,7 +35,7 @@
 <LM>w#w-ln95044-127-p1s1w3</LM>
 </w.rf>
 <form>míří</form>
-<tag lemma="mířit_^(např._pistolí;_směřovat;_tvar_slovesa)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="mířit" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95044-127-p1s1w4">
 <src.rf>manual</src.rf>
@@ -136,7 +136,7 @@
 <LM>w#w-ln95044-127-p2s1Bw1</LM>
 </w.rf>
 <form>Karlovy</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUIP1M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUIP1M---------</tag>
 </m>
 <m id="m-ln95044-127-p2s1Bw2">
 <src.rf>manual</src.rf>
@@ -277,7 +277,7 @@
 <LM>w#w-ln95044-127-p2s1Cw15</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS1FS3-------</tag>
 </m>
 <m id="m-ln95044-127-p2s1Cw16">
 <src.rf>manual</src.rf>
@@ -353,7 +353,7 @@
 <form>management</form>
 <tag>
 <AM lemma="management_,t_^(vedení,_manažment;_angl.)" src="orig">NNIS1-----A----</AM>
-<AM lemma="management" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="management_,s_^(^DD**manažment)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-127-p2s2w5">
@@ -1980,7 +1980,7 @@
 <LM>w#w-ln95044-127-p6s1w12</LM>
 </w.rf>
 <form>rozvržená</form>
-<tag lemma="rozvržený_^(*4hnout)" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="rozvržený" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-ln95044-127-p6s1w13">
 <src.rf>manual</src.rf>
@@ -2004,7 +2004,7 @@
 <LM>w#w-ln95044-127-p6s1w15</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln95044-127-p6s1w16">
 <src.rf>manual</src.rf>

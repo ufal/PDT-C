@@ -89,7 +89,7 @@
 <LM>w#w-mf920922-139-p3s1Bw1</LM>
 </w.rf>
 <form>Tallin</form>
-<tag lemma="Tallin_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Tallin_;G_,s_^(^DD**Tallinn)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920922-139-p3s1Bw2">
 <src.rf>manual</src.rf>
@@ -267,7 +267,7 @@
 <LM>w#w-mf920922-139-p3s2w2</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrMS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrMS6----------</tag>
 </m>
 <m id="m-mf920922-139-p3s2w3">
 <src.rf>manual</src.rf>

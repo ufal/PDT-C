@@ -80,7 +80,7 @@
 <form>NATO</form>
 <tag>
 <AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="NATO_;m_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="NATO-1_;m_^(Northtlantic_Treaty_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -175,7 +175,7 @@
 <form>NATO</form>
 <tag>
 <AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="NATO_;m_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="NATO-1_;m_^(Northtlantic_Treaty_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-136-p2s1Bw10">
@@ -208,7 +208,7 @@
 <LM>w#w-ln94210-136-p2s1Bw13</LM>
 </w.rf>
 <form>prvního</form>
-<tag lemma="první" src="orig" selected="1">CrMS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrMS2----------</tag>
 </m>
 <m id="m-ln94210-136-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -296,7 +296,7 @@
 <LM>w#w-ln94210-136-p2s1Bw24</LM>
 </w.rf>
 <form>ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94210-136-p2s1Bw25">
 <src.rf>manual</src.rf>
@@ -450,7 +450,7 @@
 <LM>w#w-ln94210-136-p2s2w16</LM>
 </w.rf>
 <form>resortu</form>
-<tag lemma="resort" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="resort_,s_^(^DD**rezort)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94210-136-p2s2w17">
 <src.rf>manual</src.rf>
@@ -609,7 +609,7 @@
 <form>NATO</form>
 <tag>
 <AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="NATO_;m_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="NATO-1_;m_^(Northtlantic_Treaty_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-136-p3s1w13">
@@ -894,7 +894,7 @@
 <form>NATO</form>
 <tag>
 <AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="NATO_;m_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="NATO-1_;m_^(Northtlantic_Treaty_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-136-p3s2w9">

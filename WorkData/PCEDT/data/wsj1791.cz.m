@@ -240,7 +240,7 @@
 <form>koupí</form>
 <tag>
 <AM lemma="koupit_^(něco_sobě/někomu)" src="auto">VB-P---3P-AAP--</AM>
-<AM lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VB-S---3P-AAP--</AM>
+<AM lemma="koupit" src="auto" recommended="1">VB-S---3P-AAP--</AM>
 <AM lemma="koupě_^(př._byla_to_dobrá_koupě)" src="auto">NNFP2-----A----</AM>
 <AM lemma="koupě_^(př._byla_to_dobrá_koupě)" src="auto">NNFS7-----A----</AM>
 </tag>
@@ -733,7 +733,7 @@
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FP1---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FP4---------1</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8FS2---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8FS2---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS3---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS6---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8IP1---------1</AM>
@@ -2658,7 +2658,7 @@
 <form>své</form>
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FP1---------1</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8FP4---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8FP4---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS2---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS3---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS6---------1</AM>
@@ -2918,7 +2918,7 @@
 </w.rf>
 <form>hodně</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------1A----</AM>
+<AM lemma="hodně_^(*1ý)" src="auto" recommended="1">Dg-------1A----</AM>
 <AM lemma="hodně_^(být_hoden;nezlobivý)_(*1ý)" src="auto">Dg-------1A----</AM>
 </tag>
 </m>
@@ -3818,7 +3818,7 @@
 <AM lemma="zdanění_^(vypočítat_daň)_(*3it)" src="auto">NNNS3-----A----</AM>
 <AM lemma="zdanění_^(vypočítat_daň)_(*3it)" src="auto">NNNS4-----A----</AM>
 <AM lemma="zdanění_^(vypočítat_daň)_(*3it)" src="auto">NNNS5-----A----</AM>
-<AM lemma="zdanění_^(vypočítat_daň)_(*3it)" src="auto" recommended="1">NNNS6-----A----</AM>
+<AM lemma="zdanění_^(*3it)" src="auto" recommended="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1791-001-p1s11W12-Ta">

@@ -46,7 +46,7 @@
 <AM lemma="moc-1_^(nad_někým;_politická,_vojenská;_plná,...)" src="auto">NNFS1-----A----</AM>
 <AM lemma="moc-1_^(nad_někým;_politická,_vojenská;_plná,...)" src="auto">NNFS4-----A----</AM>
 <AM lemma="moc-2_^(mnoho_něčeho_[se_subst._v_gen.])" src="auto">Ca--X----------</AM>
-<AM lemma="moc-3_^(velmi,_ve_spojení_s_adj.,_př._moc_hezká)" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="moc-3_^(moc_hezká,_moc_peněz)" src="auto" recommended="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m120-d1t1077-4">
@@ -100,7 +100,7 @@
 <tag>
 <AM lemma="hodně-1" src="auto">Ca--X----------</AM>
 <AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="hodně-3" src="auto" selected="1">Dg-------1A----</AM>
+<AM lemma="hodně_^(*1ý)" src="auto" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m120-356-357">
@@ -1737,7 +1737,7 @@
 <form>nedalo</form>
 <tag>
 <AM lemma="dát" src="auto" recommended="1">VpNS----R-NAP--</AM>
-<AM lemma="dát" src="manual" selected="1">VpNS----R-NAP--</AM>
+<AM lemma="dát-1" src="manual" selected="1">VpNS----R-NAP--</AM>
 </tag>
 </m>
 <m id="m120-d-id127552-punct">
@@ -2744,7 +2744,7 @@
 <AM lemma="jet-2_,h_^(letadlo_s_tryskovým_pohonem)" src="auto">NNIS1-----A----</AM>
 <AM lemma="jet-2_,h_^(letadlo_s_tryskovým_pohonem)" src="auto">NNIS4-----A----</AM>
 <AM lemma="jet-99_:B_;Y" src="auto">NNXXX-----A----</AM>
-<AM lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="manual" selected="1">Vf--------A-I--</AM>
+<AM lemma="jet-1" src="manual" selected="1">Vf--------A-I--</AM>
 </tag>
 </m>
 <m id="m120-d-id129221-punct">
@@ -2885,7 +2885,7 @@
 <AM lemma="moc-1_^(nad_někým;_politická,_vojenská;_plná,...)" src="auto">NNFS1-----A----</AM>
 <AM lemma="moc-1_^(nad_někým;_politická,_vojenská;_plná,...)" src="auto">NNFS4-----A----</AM>
 <AM lemma="moc-2_^(mnoho_něčeho_[se_subst._v_gen.])" src="auto">Ca--X----------</AM>
-<AM lemma="moc-3_^(velmi,_ve_spojení_s_adj.,_př._moc_hezká)" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="moc-3_^(moc_hezká,_moc_peněz)" src="auto" recommended="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m120-575-576">
@@ -3535,7 +3535,7 @@
 <form>vás</form>
 <tag>
 <AM lemma="ty" src="auto">PP-P2--2-------</AM>
-<AM lemma="ty" src="auto" recommended="1">PP-P4--2-------</AM>
+<AM lemma="vy" src="auto" recommended="1">PP-P4--2-------</AM>
 <AM lemma="ty" src="auto">PP-P6--2-------</AM>
 </tag>
 </m>
@@ -4084,7 +4084,7 @@
 </w.rf>
 <form>nás</form>
 <tag>
-<AM lemma="já" src="auto" recommended="1">PP-P2--1-------</AM>
+<AM lemma="my" src="auto" recommended="1">PP-P2--1-------</AM>
 <AM lemma="já" src="auto">PP-P4--1-------</AM>
 <AM lemma="já" src="auto">PP-P6--1-------</AM>
 </tag>
@@ -4380,7 +4380,7 @@
 <form>teda</form>
 <tag>
 <AM lemma="teda-1_,h" src="auto">Db------------6</AM>
-<AM lemma="teda-2_,h" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="teda-1_,h" src="auto" recommended="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m120-d1t1202-4">

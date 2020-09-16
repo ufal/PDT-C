@@ -27,7 +27,7 @@
 <LM>w#w-ln95041-088-p1s1w2</LM>
 </w.rf>
 <form>Hnutí</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln95041-088-p1s1w3">
 <src.rf>manual</src.rf>
@@ -194,7 +194,7 @@
 <LM>w#w-ln95041-088-p3s1Bw7</LM>
 </w.rf>
 <form>politice</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-ln95041-088-p3s1Bw8">
 <src.rf>manual</src.rf>
@@ -298,7 +298,7 @@
 <LM>w#w-ln95041-088-p3s1Bw20</LM>
 </w.rf>
 <form>Hnutí</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln95041-088-p3s1Bw21">
 <src.rf>manual</src.rf>
@@ -901,7 +901,7 @@
 <LM>w#w-ln95041-088-p5s1w2</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-088-p5s1w3">
 <src.rf>manual</src.rf>
@@ -1008,7 +1008,7 @@
 <LM>w#w-ln95041-088-p5s1w15</LM>
 </w.rf>
 <form>svá</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8NP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8NP4---------1</tag>
 </m>
 <m id="m-ln95041-088-p5s1w16">
 <src.rf>manual</src.rf>
@@ -1096,7 +1096,7 @@
 <LM>w#w-ln95041-088-p5s1w26</LM>
 </w.rf>
 <form>hnutí</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln95041-088-p5s1w27">
 <src.rf>manual</src.rf>
@@ -1429,7 +1429,7 @@
 <LM>w#w-ln95041-088-p6s1w2</LM>
 </w.rf>
 <form>Hnutí</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNS3-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNS3-----A----</tag>
 </m>
 <m id="m-ln95041-088-p6s1w3">
 <src.rf>manual</src.rf>

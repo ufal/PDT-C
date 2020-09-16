@@ -291,7 +291,7 @@
 <LM>w#w-wsj2078-001-p1s0W16</LM>
 </w.rf>
 <form>virem</form>
-<tag lemma="vir" src="auto" recommended="1">NNIS7-----A----</tag>
+<tag lemma="vir-1" src="auto" recommended="1">NNIS7-----A----</tag>
 </m>
 <m id="m-wsj2078-001-p1s0W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -302,7 +302,7 @@
 <tag>
 <AM lemma="AIDS-1_;U_^(Syndrom_získaného_selhání_imunity)" src="auto">NNIS1-----A----</AM>
 <AM lemma="AIDS-1_;U_^(Syndrom_získaného_selhání_imunity)" src="auto">NNIS4-----A----</AM>
-<AM lemma="AIDS-2_;U_^(Syndrom_získaného_selhání_imunity)" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="AIDS_;U_^(Syndrom_získaného_selhání_imunity)" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="aids_:B_;U_,s_^(^DD**AIDS-1)" src="auto">NNIS1-----A----</AM>
 <AM lemma="aids_:B_;U_,s_^(^DD**AIDS-1)" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -587,7 +587,7 @@
 <tag>
 <AM lemma="AIDS-1_;U_^(Syndrom_získaného_selhání_imunity)" src="auto">NNIS1-----A----</AM>
 <AM lemma="AIDS-1_;U_^(Syndrom_získaného_selhání_imunity)" src="auto">NNIS4-----A----</AM>
-<AM lemma="AIDS-2_;U_^(Syndrom_získaného_selhání_imunity)" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="AIDS_;U_^(Syndrom_získaného_selhání_imunity)" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="aids_:B_;U_,s_^(^DD**AIDS-1)" src="auto">NNIS1-----A----</AM>
 <AM lemma="aids_:B_;U_,s_^(^DD**AIDS-1)" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -864,7 +864,7 @@
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP1FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP5FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9ZS1FS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9ZS1FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSZS5FS3-------</AM>
 </tag>
 </m>
@@ -1073,7 +1073,7 @@
 <tag>
 <AM lemma="AIDS-1_;U_^(Syndrom_získaného_selhání_imunity)" src="auto">NNIS1-----A----</AM>
 <AM lemma="AIDS-1_;U_^(Syndrom_získaného_selhání_imunity)" src="auto">NNIS4-----A----</AM>
-<AM lemma="AIDS-2_;U_^(Syndrom_získaného_selhání_imunity)" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="AIDS_;U_^(Syndrom_získaného_selhání_imunity)" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="aids_:B_;U_,s_^(^DD**AIDS-1)" src="auto">NNIS1-----A----</AM>
 <AM lemma="aids_:B_;U_,s_^(^DD**AIDS-1)" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -1368,7 +1368,7 @@
 <tag>
 <AM lemma="AIDS-1_;U_^(Syndrom_získaného_selhání_imunity)" src="auto">NNIS1-----A----</AM>
 <AM lemma="AIDS-1_;U_^(Syndrom_získaného_selhání_imunity)" src="auto">NNIS4-----A----</AM>
-<AM lemma="AIDS-2_;U_^(Syndrom_získaného_selhání_imunity)" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="AIDS_;U_^(Syndrom_získaného_selhání_imunity)" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="aids_:B_;U_,s_^(^DD**AIDS-1)" src="auto">NNIS1-----A----</AM>
 <AM lemma="aids_:B_;U_,s_^(^DD**AIDS-1)" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -1534,7 +1534,7 @@
 <tag>
 <AM lemma="lid_^(naší_země)" src="auto">NNIS7-----A----</AM>
 <AM lemma="lido" src="auto">NNNS7-----A----</AM>
-<AM lemma="člověk" src="auto" recommended="1">NNMP3-----A----</AM>
+<AM lemma="lidé" src="auto" recommended="1">NNMP3-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2078-001-p1s4W12-Ta">
@@ -2026,7 +2026,7 @@
 </w.rf>
 <form>My</form>
 <tag>
-<AM lemma="já" src="auto" recommended="1">PP-P1--1-------</AM>
+<AM lemma="my" src="auto" recommended="1">PP-P1--1-------</AM>
 <AM lemma="já" src="auto">PP-P5--1-------</AM>
 <AM lemma="my-77" src="auto">F%-------------</AM>
 </tag>
@@ -2353,7 +2353,7 @@
 <tag>
 <AM lemma="AIDS-1_;U_^(Syndrom_získaného_selhání_imunity)" src="auto">NNIS1-----A----</AM>
 <AM lemma="AIDS-1_;U_^(Syndrom_získaného_selhání_imunity)" src="auto">NNIS4-----A----</AM>
-<AM lemma="AIDS-2_;U_^(Syndrom_získaného_selhání_imunity)" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="AIDS_;U_^(Syndrom_získaného_selhání_imunity)" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="aids_:B_;U_,s_^(^DD**AIDS-1)" src="auto">NNIS1-----A----</AM>
 <AM lemma="aids_:B_;U_,s_^(^DD**AIDS-1)" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -2736,7 +2736,7 @@
 <AM lemma="nemoc_^(choroba)" src="auto">NNFP1-----A----</AM>
 <AM lemma="nemoc_^(choroba)" src="auto">NNFP4-----A----</AM>
 <AM lemma="nemoc_^(choroba)" src="auto">NNFP5-----A----</AM>
-<AM lemma="nemoc_^(choroba)" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="nemoc" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="nemoc_^(choroba)" src="auto">NNFS3-----A----</AM>
 <AM lemma="nemoc_^(choroba)" src="auto">NNFS5-----A----</AM>
 <AM lemma="nemoc_^(choroba)" src="auto">NNFS6-----A----</AM>
@@ -2751,7 +2751,7 @@
 <tag>
 <AM lemma="AIDS-1_;U_^(Syndrom_získaného_selhání_imunity)" src="auto">NNIS1-----A----</AM>
 <AM lemma="AIDS-1_;U_^(Syndrom_získaného_selhání_imunity)" src="auto">NNIS4-----A----</AM>
-<AM lemma="AIDS-2_;U_^(Syndrom_získaného_selhání_imunity)" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="AIDS_;U_^(Syndrom_získaného_selhání_imunity)" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="aids_:B_;U_,s_^(^DD**AIDS-1)" src="auto">NNIS1-----A----</AM>
 <AM lemma="aids_:B_;U_,s_^(^DD**AIDS-1)" src="auto">NNIS4-----A----</AM>
 </tag>

@@ -928,7 +928,7 @@
 <LM>w#w-ln94200-38-p4s2w3</LM>
 </w.rf>
 <form>koupené</form>
-<tag lemma="koupený_^(něco_sobě/někomu)_(*3it)" src="orig" selected="1">AAIP4----1A----</tag>
+<tag lemma="koupený_^(*3it)" src="orig" selected="1">AAIP4----1A----</tag>
 </m>
 <m id="m-ln94200-38-p4s2w4">
 <src.rf>manual</src.rf>
@@ -1404,7 +1404,7 @@
 <LM>w#w-ln94200-38-p4s4w18</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrIS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS6----------</tag>
 </m>
 <m id="m-ln94200-38-p4s4w19">
 <src.rf>manual</src.rf>
@@ -1646,7 +1646,7 @@
 <LM>w#w-ln94200-38-p5s2w13</LM>
 </w.rf>
 <form>datu</form>
-<tag lemma="datum_^(kalendářní)" src="orig" selected="1">NNNS3-----A----</tag>
+<tag lemma="datum-1_^(kalendářní)" src="orig" selected="1">NNNS3-----A----</tag>
 </m>
 <m id="m-ln94200-38-p5s2w14">
 <src.rf>manual</src.rf>
@@ -2134,7 +2134,7 @@
 <LM>w#w-ln94200-38-p5s5w16</LM>
 </w.rf>
 <form>správnému</form>
-<tag lemma="správný_^(podle_něj._měřítek;_př._chlap,_míra,...)" src="orig" selected="1">AAMS3----1A----</tag>
+<tag lemma="správný" src="orig" selected="1">AAMS3----1A----</tag>
 </m>
 <m id="m-ln94200-38-p5s5w17">
 <src.rf>manual</src.rf>
@@ -2533,7 +2533,7 @@
 <LM>w#w-ln94200-38-p6s3w7</LM>
 </w.rf>
 <form>jejím</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS6FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS6FS3-------</tag>
 </m>
 <m id="m-ln94200-38-p6s3w8">
 <src.rf>manual</src.rf>
@@ -2699,7 +2699,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>

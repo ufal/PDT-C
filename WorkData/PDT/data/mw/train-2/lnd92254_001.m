@@ -872,7 +872,7 @@
 <LM>w#w-lnd92254-001-p2s5w10</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-lnd92254-001-p2s5w11">
 <src.rf>manual</src.rf>
@@ -1024,7 +1024,7 @@
 <LM>w#w-lnd92254-001-p2s6w8</LM>
 </w.rf>
 <form>málo</form>
-<tag lemma="málo-3_^(málo_+_příd._jm.,_př._byl_málo_důsledný)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="málo-3_^(málo_důsledný)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd92254-001-p2s6w9">
 <src.rf>manual</src.rf>
@@ -1032,7 +1032,7 @@
 <LM>w#w-lnd92254-001-p2s6w9</LM>
 </w.rf>
 <form>hodný</form>
-<tag lemma="hodný-1_^(být_hoden)" src="orig" selected="1">AAMS1----1A----</tag>
+<tag lemma="hodný_^(být_hoden;nezlobivý)" src="orig" selected="1">AAMS1----1A----</tag>
 </m>
 <m id="m-lnd92254-001-p2s6w10">
 <src.rf>manual</src.rf>

@@ -224,7 +224,7 @@
 <LM>w#w-mf920925-010-p1s2w12</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-mf920925-010-p1s2w13">
 <src.rf>manual</src.rf>
@@ -251,7 +251,7 @@
 <LM>w#w-mf920925-010-p1s2w15</LM>
 </w.rf>
 <form>proto</form>
-<tag lemma="proto-2_^(dal_mu_co_proto,_tak_proto!)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="proto-2_^(proto_že)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf920925-010-p1s2w16">
 <src.rf>manual</src.rf>

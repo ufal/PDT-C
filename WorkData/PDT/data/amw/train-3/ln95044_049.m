@@ -280,7 +280,7 @@
 <LM>w#w-ln95044-049-p2s2w4</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln95044-049-p2s2w5">
 <src.rf>manual</src.rf>
@@ -618,7 +618,7 @@
 <LM>w#w-ln95044-049-p3s1w11</LM>
 </w.rf>
 <form>Milíčova</form>
-<tag lemma="Milíčův_;Y_^(*2)" src="orig" selected="1">AUIS2M---------</tag>
+<tag lemma="Milíčův-1_;Y_^(*4-1)" src="orig" selected="1">AUIS2M---------</tag>
 </m>
 <m id="m-ln95044-049-p3s1w12">
 <src.rf>manual</src.rf>
@@ -906,7 +906,7 @@
 <LM>w#w-ln95044-049-p3s2w4</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln95044-049-p3s2w5">
 <src.rf>manual</src.rf>
@@ -1122,7 +1122,7 @@
 <LM>w#w-ln95044-049-p4s1w16</LM>
 </w.rf>
 <form>Pittrově</form>
-<tag lemma="Pittrův_;Y_^(*2a)" src="orig" selected="1">AUNS6M---------</tag>
+<tag lemma="Pittrův_;Y_^(*2)_(*2a)" src="orig" selected="1">AUNS6M---------</tag>
 </m>
 <m id="m-ln95044-049-p4s1w17">
 <src.rf>manual</src.rf>
@@ -1409,7 +1409,7 @@
 <LM>w#w-ln95044-049-p4s3w8</LM>
 </w.rf>
 <form>Pittrovu</form>
-<tag lemma="Pittrův_;Y_^(*2a)" src="orig" selected="1">AUFS4M---------</tag>
+<tag lemma="Pittrův_;Y_^(*2)_(*2a)" src="orig" selected="1">AUFS4M---------</tag>
 </m>
 <m id="m-ln95044-049-p4s3w9">
 <src.rf>manual</src.rf>
@@ -1457,7 +1457,7 @@
 <LM>w#w-ln95044-049-p4s3w14</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95044-049-p4s3w15">
 <src.rf>manual</src.rf>

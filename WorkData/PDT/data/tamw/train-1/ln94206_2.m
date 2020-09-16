@@ -223,7 +223,7 @@
 <LM>w#w-ln94206-2-p2s1Bw13</LM>
 </w.rf>
 <form>dny</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-ln94206-2-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -367,7 +367,7 @@
 <LM>w#w-ln94206-2-p2s2w6</LM>
 </w.rf>
 <form>jejího</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS2FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS2FS3-------</tag>
 </m>
 <m id="m-ln94206-2-p2s2w7">
 <src.rf>manual</src.rf>
@@ -1395,7 +1395,7 @@
 <LM>w#w-ln94206-2-p4s1w11</LM>
 </w.rf>
 <form>naši</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS4-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS4-P1-------</tag>
 </m>
 <m id="m-ln94206-2-p4s1w12">
 <src.rf>manual</src.rf>
@@ -1669,7 +1669,7 @@
 <LM>w#w-ln94206-2-p4s2w18</LM>
 </w.rf>
 <form>neschopnosti</form>
-<tag lemma="neschopnost_;U_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS6-----A----</tag>
+<tag lemma="neschopnost_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94206-2-p4s2w19">
 <src.rf>manual</src.rf>

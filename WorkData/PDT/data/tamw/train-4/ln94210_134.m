@@ -251,7 +251,7 @@
 <LM>w#w-ln94210-134-p2s1Bw16</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FP4---------1</tag>
 </m>
 <m id="m-ln94210-134-p2s1Bw17">
 <src.rf>manual</src.rf>
@@ -620,7 +620,7 @@
 <LM>w#w-ln94210-134-p3s1w9</LM>
 </w.rf>
 <form>zástavě</form>
-<tag lemma="zástava-2_^(věci_jako_záruka)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="zástava_^(prapor_záruka_dechu_zástavba)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94210-134-p3s1w10">
 <src.rf>manual</src.rf>
@@ -857,7 +857,7 @@
 <LM>w#w-ln94210-134-p3s3w14</LM>
 </w.rf>
 <form>právo</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln94210-134-p3s3w15">
 <src.rf>manual</src.rf>
@@ -1974,7 +1974,7 @@
 <LM>w#w-ln94210-134-p3s15w13</LM>
 </w.rf>
 <form>zástavy</form>
-<tag lemma="zástava-2_^(věci_jako_záruka)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="zástava_^(prapor_záruka_dechu_zástavba)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94210-134-p3s15w14">
 <src.rf>manual</src.rf>
@@ -2072,7 +2072,7 @@
 <LM>w#w-ln94210-134-p3s16w11</LM>
 </w.rf>
 <form>zástavy</form>
-<tag lemma="zástava-2_^(věci_jako_záruka)" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="zástava_^(prapor_záruka_dechu_zástavba)" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-ln94210-134-p3s16w12">
 <src.rf>manual</src.rf>
@@ -2325,7 +2325,7 @@
 <LM>w#w-ln94210-134-p3s17w24</LM>
 </w.rf>
 <form>práva</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNP4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNP4-----A----</tag>
 </m>
 <m id="m-ln94210-134-p3s17w25">
 <src.rf>manual</src.rf>

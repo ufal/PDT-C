@@ -563,7 +563,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94104-107-p1s4w8">
@@ -673,7 +673,7 @@
 <LM>w#w-lnd94104-107-p1s5w2</LM>
 </w.rf>
 <form>druhou</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS4----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS4----------</tag>
 </m>
 <m id="m-lnd94104-107-p1s5w3">
 <src.rf>manual</src.rf>
@@ -695,7 +695,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94104-107-p1s5w5">
@@ -1566,7 +1566,7 @@
 <LM>w#w-lnd94104-107-p1s9w9</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-lnd94104-107-p1s9w10">
 <src.rf>manual</src.rf>

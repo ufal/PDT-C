@@ -19,7 +19,7 @@
 <LM>w#w-ln95044-041-p1s1w1</LM>
 </w.rf>
 <form>Korbelovo</form>
-<tag lemma="Korbelův_;Y_^(*2a)" src="orig" selected="1">AUNS1M---------</tag>
+<tag lemma="Korbelův_;Y_^(*2)_(*2a)" src="orig" selected="1">AUNS1M---------</tag>
 </m>
 <m id="m-ln95044-041-p1s1w2">
 <src.rf>manual</src.rf>
@@ -472,7 +472,7 @@
 <LM>w#w-ln95044-041-p2s3w11</LM>
 </w.rf>
 <form>manažer</form>
-<tag lemma="manažer" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="manažer-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-041-p2s3w12">
 <src.rf>manual</src.rf>
@@ -724,7 +724,7 @@
 <LM>w#w-ln95044-041-p2s4w27</LM>
 </w.rf>
 <form>manažer</form>
-<tag lemma="manažer" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="manažer-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-041-p2s4w28">
 <src.rf>manual</src.rf>
@@ -859,7 +859,7 @@
 <LM>w#w-ln95044-041-p2s5w8</LM>
 </w.rf>
 <form>správní</form>
-<tag lemma="správní_^(např._poplatek;_rada;_řád;...)" src="orig" selected="1">AAFS2----1A----</tag>
+<tag lemma="správní_^(správní_rada;_řád)" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-ln95044-041-p2s5w9">
 <src.rf>manual</src.rf>
@@ -867,7 +867,7 @@
 <LM>w#w-ln95044-041-p2s5w9</LM>
 </w.rf>
 <form>rady</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95044-041-p2s5w10">
 <src.rf>manual</src.rf>
@@ -1048,7 +1048,7 @@
 <LM>w#w-ln95044-041-p2s6w4</LM>
 </w.rf>
 <form>Slavii</form>
-<tag lemma="Slavia_;m" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Slavie_;m_,s_^(^DD**Slávie)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln95044-041-p2s6w5">
 <src.rf>manual</src.rf>
@@ -1162,7 +1162,7 @@
 <LM>w#w-ln95044-041-p2s7w1</LM>
 </w.rf>
 <form>Slavoj</form>
-<tag lemma="Slavoj-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Slavoj-1_;E_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-041-p2s7w2">
 <src.rf>manual</src.rf>
@@ -1186,7 +1186,7 @@
 <LM>w#w-ln95044-041-p2s7w4</LM>
 </w.rf>
 <form>manažer</form>
-<tag lemma="manažer" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="manažer-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-041-p2s7w5">
 <src.rf>manual</src.rf>
@@ -1194,7 +1194,7 @@
 <LM>w#w-ln95044-041-p2s7w5</LM>
 </w.rf>
 <form>Slovanu</form>
-<tag lemma="Slovan-2_;m" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Slovan-2_;G_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95044-041-p2s7w6">
 <src.rf>manual</src.rf>
@@ -2054,7 +2054,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -2162,7 +2162,7 @@
 <LM>w#w-ln95044-041-p2s14w9</LM>
 </w.rf>
 <form>manažer</form>
-<tag lemma="manažer" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="manažer-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-041-p2s14w10">
 <src.rf>manual</src.rf>
@@ -3105,7 +3105,7 @@
 <LM>w#w-ln95044-041-p4s3w3</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-ln95044-041-p4s3w4">
 <src.rf>manual</src.rf>
@@ -3380,7 +3380,7 @@
 <LM>w#w-ln95044-041-p4s3w37</LM>
 </w.rf>
 <form>manažer</form>
-<tag lemma="manažer" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="manažer-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-041-p4s3w38">
 <src.rf>manual</src.rf>
@@ -3807,7 +3807,7 @@
 <LM>w#w-ln95044-041-p5s4w13</LM>
 </w.rf>
 <form>horší</form>
-<tag lemma="špatný" src="orig" selected="1">AAFP4----2A----</tag>
+<tag lemma="horší" src="orig" selected="1">AAFP4----2A----</tag>
 </m>
 <m id="m-ln95044-041-p5s4w14">
 <src.rf>manual</src.rf>

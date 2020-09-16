@@ -77,7 +77,7 @@
 <LM>w#w-ln95041-080-p2s1w3</LM>
 </w.rf>
 <form>váš</form>
-<tag lemma="tvůj_^(přivlast.)" src="orig" selected="1">PSYS1-P2-------</tag>
+<tag lemma="váš" src="orig" selected="1">PSYS1-P2-------</tag>
 </m>
 <m id="m-ln95041-080-p2s1w4">
 <src.rf>manual</src.rf>
@@ -221,7 +221,7 @@
 <LM>w#w-ln95041-080-p2s1w21</LM>
 </w.rf>
 <form>Rady</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95041-080-p2s1w22">
 <src.rf>manual</src.rf>
@@ -311,7 +311,7 @@
 <LM>w#w-ln95041-080-p3s1w4</LM>
 </w.rf>
 <form>Radio</form>
-<tag lemma="rádio_,a" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="radio-1_,s_^(^DD**rádio)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95041-080-p3s1w5">
 <src.rf>manual</src.rf>
@@ -411,7 +411,7 @@
 <LM>w#w-ln95041-080-p3s1w13</LM>
 </w.rf>
 <form>radě</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-ln95041-080-p3s1w14">
 <src.rf>manual</src.rf>
@@ -990,7 +990,7 @@
 <LM>w#w-ln95041-080-p3s7w8</LM>
 </w.rf>
 <form>druhých</form>
-<tag lemma="druhý" src="orig" selected="1">CrNP2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNP2----------</tag>
 </m>
 <m id="m-ln95041-080-p3s7w9">
 <src.rf>manual</src.rf>
@@ -1006,7 +1006,7 @@
 <LM>w#w-ln95041-080-p3s7w10</LM>
 </w.rf>
 <form>delší</form>
-<tag lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">AAFS1----2A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFS1----2A----</tag>
 </m>
 <m id="m-ln95041-080-p3s7w11">
 <src.rf>manual</src.rf>
@@ -1032,7 +1032,7 @@
 <LM>w#w-ln95041-080-p3s8w2</LM>
 </w.rf>
 <form>rada</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95041-080-p3s8w3">
 <src.rf>manual</src.rf>
@@ -1124,7 +1124,7 @@
 <form>Radio</form>
 <tag>
 <AM lemma="rádio_,a" src="orig">NNNS1-----A----</AM>
-<AM lemma="radio_,s_^(^DD**rádio)" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="radio-1_,s_^(^DD**rádio)" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-080-p3s9w5">
@@ -1206,7 +1206,7 @@
 <LM>w#w-ln95041-080-p3s10w2</LM>
 </w.rf>
 <form>rada</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95041-080-p3s10w3">
 <src.rf>manual</src.rf>
@@ -1479,7 +1479,7 @@
 <form>hodně</form>
 <tag>
 <AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="hodně_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-080-p3s12w7">
@@ -1613,7 +1613,7 @@
 <form>Radio</form>
 <tag>
 <AM lemma="rádio_,a" src="orig">NNNS1-----A----</AM>
-<AM lemma="radio_,s_^(^DD**rádio)" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="radio-1_,s_^(^DD**rádio)" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-080-p3s13w5">
@@ -1725,7 +1725,7 @@
 <form>hodně</form>
 <tag>
 <AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="hodně_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-080-p3s14w7">
@@ -2090,7 +2090,7 @@
 <LM>w#w-ln95041-080-p3s18w1</LM>
 </w.rf>
 <form>Marie</form>
-<tag lemma="Marie-1_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Marie_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95041-080-p3s18w2">
 <src.rf>manual</src.rf>
@@ -2116,7 +2116,7 @@
 <form>Radio</form>
 <tag>
 <AM lemma="rádio_,a" src="orig">NNNS1-----A----</AM>
-<AM lemma="radio_,s_^(^DD**rádio)" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="radio-1_,s_^(^DD**rádio)" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-080-p3s18w5">
@@ -2576,7 +2576,7 @@
 <LM>w#w-ln95041-080-p3s20w4</LM>
 </w.rf>
 <form>rady</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95041-080-p3s20w5">
 <src.rf>manual</src.rf>
@@ -2731,7 +2731,7 @@
 <LM>w#w-ln95041-080-p3s20w23</LM>
 </w.rf>
 <form>třeba</form>
-<tag lemma="třeba-2" src="auto" selected="1">Db-------------</tag>
+<tag lemma="třeba-1" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95041-080-p3s20w24">
 <src.rf>manual</src.rf>
@@ -2805,7 +2805,7 @@
 <LM>w#w-ln95041-080-p3s21w3</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-4_^(v_knize,_rukopise,...)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln95041-080-p3s21w4">
 <src.rf>manual</src.rf>

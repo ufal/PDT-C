@@ -244,7 +244,7 @@
 <LM>w#w-mf930713-036-p2s2w2</LM>
 </w.rf>
 <form>naditého</form>
-<tag lemma="naditý_^(nádivkou;_[se]_do_kabátu)_(*3ít)" src="orig" selected="1">AANS2----1A----</tag>
+<tag lemma="naditý_^(*3ít)" src="orig" selected="1">AANS2----1A----</tag>
 </m>
 <m id="m-mf930713-036-p2s2w3">
 <src.rf>manual</src.rf>
@@ -456,7 +456,7 @@
 <LM>w#w-mf930713-036-p2s4w4</LM>
 </w.rf>
 <form>naší</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS2-P1-------</tag>
 </m>
 <m id="m-mf930713-036-p2s4w5">
 <src.rf>manual</src.rf>

@@ -790,7 +790,7 @@
 <LM>w#w-ln95043-003-p4s1w1</LM>
 </w.rf>
 <form>Mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-003-p4s1w2">
 <src.rf>manual</src.rf>
@@ -1806,7 +1806,7 @@
 <LM>w#w-ln95043-003-p6s1w12</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-ln95043-003-p6s1w13">
 <src.rf>manual</src.rf>
@@ -2017,7 +2017,7 @@
 <LM>w#w-ln95043-003-p6s1w38</LM>
 </w.rf>
 <form>vyváženost</form>
-<tag lemma="vyváženost_^(zboží_přes_hranice)_(*3ý)" src="auto" selected="1">NNFS4-----A----</tag>
+<tag lemma="vyváženost_^(*3ý)" src="auto" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95043-003-p6s1w39">
 <src.rf>manual</src.rf>

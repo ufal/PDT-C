@@ -35,7 +35,7 @@
 <LM>w#w-ln94200-3-p1s1w3</LM>
 </w.rf>
 <form>Zlatého</form>
-<tag lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAIS2----1A----</tag>
+<tag lemma="zlatý-1_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-ln94200-3-p1s1w4">
 <src.rf>manual</src.rf>
@@ -374,7 +374,7 @@
 <LM>w#w-ln94200-3-p2s4w7</LM>
 </w.rf>
 <form>Zlatého</form>
-<tag lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAIS2----1A----</tag>
+<tag lemma="zlatý-1_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-ln94200-3-p2s4w8">
 <src.rf>manual</src.rf>
@@ -398,7 +398,7 @@
 <LM>w#w-ln94200-3-p2s4w10</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FXXFS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1FXXFS3-------</tag>
 </m>
 <m id="m-ln94200-3-p2s4w11">
 <src.rf>manual</src.rf>
@@ -728,7 +728,7 @@
 <LM>w#w-ln94200-3-p3s1w15</LM>
 </w.rf>
 <form>Dominga</form>
-<tag lemma="Domingo_;Y" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Domingo-1_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94200-3-p3s1w16">
 <src.rf>manual</src.rf>

@@ -88,7 +88,7 @@
 <AM lemma="jeho_^(přivlast.)" src="auto">PSFXXFS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSIS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSNS4FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XP1FS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9XP1FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP5FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSZS1FS3-------</AM>
@@ -308,7 +308,7 @@
 </w.rf>
 <form>orgánu</form>
 <tag>
-<AM lemma="orgán" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="orgán-1" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="orgán" src="auto">NNIS3-----A----</AM>
 <AM lemma="orgán" src="auto">NNIS6-----A----</AM>
 <AM lemma="orgán" src="auto">NNMS3-----A---1</AM>
@@ -1206,7 +1206,7 @@
 </w.rf>
 <form>orgánu</form>
 <tag>
-<AM lemma="orgán" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="orgán-1" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="orgán" src="auto">NNIS3-----A----</AM>
 <AM lemma="orgán" src="auto">NNIS6-----A----</AM>
 <AM lemma="orgán" src="auto">NNMS3-----A---1</AM>
@@ -2008,7 +2008,7 @@
 <AM lemma="jenž_^(který...[ve_vedl._větě])" src="auto">P1NS4FS3-------</AM>
 <AM lemma="jenž_^(který...[ve_vedl._větě])" src="auto">P1XP1FS3-------</AM>
 <AM lemma="jenž_^(který...[ve_vedl._větě])" src="auto">P1XP4FS3-------</AM>
-<AM lemma="jenž_^(který...[ve_vedl._větě])" src="auto" recommended="1">P1ZS1FS3-------</AM>
+<AM lemma="jehož" src="auto" recommended="1">P1ZS1FS3-------</AM>
 </tag>
 </m>
 <m id="m-wsj1443-001-p1s6W30-Ta">
@@ -2647,7 +2647,7 @@
 <tag>
 <AM lemma="práv_^(oprávněný)" src="auto">ACNS------A----</AM>
 <AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto">NNNS1-----A----</AM>
-<AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto" recommended="1">NNNS4-----A----</AM>
+<AM lemma="právo" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto">NNNS5-----A----</AM>
 </tag>
 </m>
@@ -2757,7 +2757,7 @@
 <form>letech</form>
 <tag>
 <AM lemma="let" src="auto">NNIP6-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP6-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1443-001-p1s8W15-Ta">

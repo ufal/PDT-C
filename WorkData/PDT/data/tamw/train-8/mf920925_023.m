@@ -123,7 +123,7 @@
 <LM>w#w-mf920925-023-p2s2w3</LM>
 </w.rf>
 <form>Bachova</form>
-<tag lemma="Bachův_;Y_^(*2o)" src="auto" selected="1">AUFS1M---------</tag>
+<tag lemma="Bachův_;Y_^(*2)_(*2o)" src="auto" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-mf920925-023-p2s2w4">
 <src.rf>manual</src.rf>
@@ -155,7 +155,7 @@
 <LM>w#w-mf920925-023-p2s2w7</LM>
 </w.rf>
 <form>podání</form>
-<tag lemma="podání_^(něco_[někomu]_[někam])_(*3at)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="podání_^(*3at)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-mf920925-023-p2s2w8">
 <src.rf>manual</src.rf>

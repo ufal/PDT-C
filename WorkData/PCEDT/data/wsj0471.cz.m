@@ -272,7 +272,7 @@
 <AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AANS4----1A----</AM>
 <AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AANS5----1A----</AM>
 <AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)_,s_^(^DD**konkurzní)" src="manual">AAFS2----1A----</AM>
-<AM lemma="konkurzní_^(týkající_se_úpadku,_soutěže)" src="manual" selected="1">AAFS2----1A----</AM>
+<AM lemma="konkurzní" src="manual" selected="1">AAFS2----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0471-001-p1s0W21-Ta">

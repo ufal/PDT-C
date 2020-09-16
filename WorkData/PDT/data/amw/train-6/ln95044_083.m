@@ -315,7 +315,7 @@
 <form>Zelenorudá</form>
 <tag>
 <AM lemma="zelenorudý_;o" src="auto">AAFS1----1A----</AM>
-<AM lemma="zelenorudý" src="manual" selected="1">AAFS1----1A----</AM>
+<AM lemma="zelenorudý_;o" src="manual" selected="1">AAFS1----1A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-083-p2s2w2">
@@ -493,7 +493,7 @@
 <LM>w#w-ln95044-083-p2s2w23</LM>
 </w.rf>
 <form>Zelenými</form>
-<tag lemma="zelený" src="orig" selected="1">AAMP7----1A----</tag>
+<tag lemma="zelený_;o" src="orig" selected="1">AAMP7----1A----</tag>
 </m>
 <m id="m-ln95044-083-p2s2w24">
 <src.rf>manual</src.rf>
@@ -626,7 +626,7 @@
 <LM>w#w-ln95044-083-p2s2w39</LM>
 </w.rf>
 <form>lety</form>
-<tag lemma="rok" src="orig" selected="1">NNNP7-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP7-----A----</tag>
 </m>
 <m id="m-ln95044-083-p2s2w40">
 <src.rf>manual</src.rf>
@@ -1035,7 +1035,7 @@
 <LM>w#w-ln95044-083-p2s5w13</LM>
 </w.rf>
 <form>dlouhou</form>
-<tag lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">AAFS4----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-ln95044-083-p2s5w14">
 <src.rf>manual</src.rf>
@@ -1246,7 +1246,7 @@
 <LM>w#w-ln95044-083-p2s6w20</LM>
 </w.rf>
 <form>druhým</form>
-<tag lemma="druhý" src="orig" selected="1">CrIP3----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIP3----------</tag>
 </m>
 <m id="m-ln95044-083-p2s6w21">
 <src.rf>manual</src.rf>
@@ -1941,7 +1941,7 @@
 <LM>w#w-ln95044-083-p3s3w9</LM>
 </w.rf>
 <form>nejhoršího</form>
-<tag lemma="špatný" src="orig" selected="1">AANS2----3A----</tag>
+<tag lemma="horší" src="orig" selected="1">AANS2----3A----</tag>
 </m>
 <m id="m-ln95044-083-p3s3w10">
 <src.rf>manual</src.rf>
@@ -2095,7 +2095,7 @@
 <LM>w#w-ln95044-083-p4s1w6</LM>
 </w.rf>
 <form>politiky</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95044-083-p4s1w7">
 <src.rf>manual</src.rf>
@@ -2146,7 +2146,7 @@
 <LM>w#w-ln95044-083-p4s1w12</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln95044-083-p4s1w13">
 <src.rf>manual</src.rf>
@@ -3262,7 +3262,7 @@
 <LM>w#w-ln95044-083-p5s1w19</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-ln95044-083-p5s1w20">
 <src.rf>manual</src.rf>
@@ -3326,7 +3326,7 @@
 <LM>w#w-ln95044-083-p5s1w27</LM>
 </w.rf>
 <form>radě</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln95044-083-p5s1w28">
 <src.rf>manual</src.rf>
@@ -3472,7 +3472,7 @@
 <LM>w#w-ln95044-083-p5s2w8</LM>
 </w.rf>
 <form>radě</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln95044-083-p5s2w9">
 <src.rf>manual</src.rf>
@@ -3791,7 +3791,7 @@
 <LM>w#w-ln95044-083-p6s2w15</LM>
 </w.rf>
 <form>žlutá</form>
-<tag lemma="žlutý" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="žlutý_;o" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-ln95044-083-p6s2w16">
 <src.rf>manual</src.rf>
@@ -4357,7 +4357,7 @@
 <LM>w#w-ln95044-083-p7s2w2</LM>
 </w.rf>
 <form>hodně</form>
-<tag lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto" selected="1">Dg-------1A----</tag>
+<tag lemma="hodně_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95044-083-p7s2w3">
 <src.rf>manual</src.rf>
@@ -4562,7 +4562,7 @@
 <LM>w#w-ln95044-083-p7s3w10</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95044-083-p7s3w11">
 <src.rf>manual</src.rf>

@@ -338,7 +338,7 @@
 <LM>w#w-ln94205-41-p2s1Bw23</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-ln94205-41-p2s1Bw24">
 <src.rf>manual</src.rf>
@@ -791,7 +791,7 @@
 <LM>w#w-ln94205-41-p3s1w7</LM>
 </w.rf>
 <form>potřeby</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-ln94205-41-p3s1w8">
 <src.rf>manual</src.rf>
@@ -1201,7 +1201,7 @@
 <LM>w#w-ln94205-41-p3s2w27</LM>
 </w.rf>
 <form>potřeby</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-ln94205-41-p3s2w28">
 <src.rf>manual</src.rf>
@@ -1401,7 +1401,7 @@
 <LM>w#w-ln94205-41-p4s1w7</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-ln94205-41-p4s1w8">
 <src.rf>manual</src.rf>
@@ -2050,7 +2050,7 @@
 <LM>w#w-ln94205-41-p5s2w10</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-ln94205-41-p5s2w11">
 <src.rf>manual</src.rf>
@@ -2098,7 +2098,7 @@
 <LM>w#w-ln94205-41-p5s2w16</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-ln94205-41-p5s2w17">
 <src.rf>manual</src.rf>
@@ -2268,7 +2268,7 @@
 <LM>w#w-ln94205-41-p5s3w12</LM>
 </w.rf>
 <form>horších</form>
-<tag lemma="špatný" src="orig" selected="1">AAIP6----2A----</tag>
+<tag lemma="horší" src="orig" selected="1">AAIP6----2A----</tag>
 </m>
 <m id="m-ln94205-41-p5s3w13">
 <src.rf>manual</src.rf>

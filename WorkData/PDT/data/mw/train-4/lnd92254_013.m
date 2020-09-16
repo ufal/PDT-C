@@ -53,7 +53,7 @@
 <LM>w#w-lnd92254-013-p2s1w3</LM>
 </w.rf>
 <form>mot</form>
-<tag lemma="motto" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="moto-1_,s_^(heslo)_(^DD**motto-1)" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd92254-013-p2s1w4">
 <src.rf>manual</src.rf>
@@ -201,7 +201,7 @@
 <LM>w#w-lnd92254-013-p2s3w1</LM>
 </w.rf>
 <form>Rada</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92254-013-p2s3w2">
 <src.rf>manual</src.rf>
@@ -241,7 +241,7 @@
 <LM>w#w-lnd92254-013-p2s3w6</LM>
 </w.rf>
 <form>orgánu</form>
-<tag lemma="orgán" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92254-013-p2s3w7">
 <src.rf>manual</src.rf>
@@ -541,7 +541,7 @@
 <LM>w#w-lnd92254-013-p2s5w9</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd92254-013-p2s5w10">
 <src.rf>manual</src.rf>

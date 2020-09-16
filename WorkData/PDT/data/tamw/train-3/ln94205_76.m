@@ -112,7 +112,7 @@
 <LM>w#w-ln94205-76-p2s1Aw5</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94205-76-p2s1Aw6">
 <src.rf>manual</src.rf>
@@ -276,7 +276,7 @@
 <LM>w#w-ln94205-76-p2s1Cw13</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrIS7----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS7----------</tag>
 </m>
 <m id="m-ln94205-76-p2s1Cw14">
 <src.rf>manual</src.rf>
@@ -659,7 +659,7 @@
 <LM>w#w-ln94205-76-p3s1w19</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94205-76-p3s1w20">
 <src.rf>manual</src.rf>
@@ -855,7 +855,7 @@
 <LM>w#w-ln94205-76-p3s3w5</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94205-76-p3s3w6">
 <src.rf>manual</src.rf>
@@ -1115,7 +1115,7 @@
 <LM>w#w-ln94205-76-p3s5w13</LM>
 </w.rf>
 <form>Evropě</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94205-76-p3s5w14">
 <src.rf>manual</src.rf>
@@ -1190,7 +1190,7 @@
 <LM>w#w-ln94205-76-p3s5w22</LM>
 </w.rf>
 <form>prostředky</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-ln94205-76-p3s5w23">
 <src.rf>manual</src.rf>
@@ -1525,7 +1525,7 @@
 <LM>w#w-ln94205-76-p4s1w19</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94205-76-p4s1w20">
 <src.rf>manual</src.rf>
@@ -2055,7 +2055,7 @@
 <LM>w#w-ln94205-76-p4s6w15</LM>
 </w.rf>
 <form>stojí</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VB-P---3P-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln94205-76-p4s6w16">
 <src.rf>manual</src.rf>
@@ -2137,7 +2137,7 @@
 <LM>w#w-ln94205-76-p4s7w3</LM>
 </w.rf>
 <form>naše</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSNS4-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSNS4-P1-------</tag>
 </m>
 <m id="m-ln94205-76-p4s7w4">
 <src.rf>manual</src.rf>
@@ -2249,7 +2249,7 @@
 <LM>w#w-ln94205-76-p4s7w17</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94205-76-p4s7w18">
 <src.rf>manual</src.rf>
@@ -2661,7 +2661,7 @@
 <LM>w#w-ln94205-76-p5s2w4</LM>
 </w.rf>
 <form>zintenzívnění</form>
-<tag lemma="zintenzívnění_^(*3it)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="zintenzívnění_^(*2t)_(*3it)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln94205-76-p5s2w5">
 <src.rf>manual</src.rf>
@@ -3020,7 +3020,7 @@
 <LM>w#w-ln94205-76-p5s4w15</LM>
 </w.rf>
 <form>zmírnění</form>
-<tag lemma="zmírnění_^(*3it)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="zmírnění_^(*2t)_(*3it)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln94205-76-p5s4w16">
 <src.rf>manual</src.rf>

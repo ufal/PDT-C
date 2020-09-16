@@ -379,7 +379,7 @@
 <LM>w#w-cmpr9407-030-p4s3w5</LM>
 </w.rf>
 <form>co</form>
-<tag lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="co-5_^(př._co_nejméně,_co_nevidět_atd.)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-cmpr9407-030-p4s3w6">
 <src.rf>manual</src.rf>
@@ -1227,7 +1227,7 @@
 <LM>w#w-cmpr9407-030-p10s3w10</LM>
 </w.rf>
 <form>umí</form>
-<tag lemma="umět_^(mít_schopnost_něco_dělat)" src="auto" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="umět" src="auto" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9407-030-p10s3w11">
 <src.rf>manual</src.rf>
@@ -1472,7 +1472,7 @@
 <LM>w#w-cmpr9407-030-p11s2w6</LM>
 </w.rf>
 <form>managementu</form>
-<tag lemma="management_^(vedení,_manažment;_angl.)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="management_,s_^(^DD**manažment)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-cmpr9407-030-p11s2w7">
 <src.rf>manual</src.rf>
@@ -2512,7 +2512,7 @@
 <LM>w#w-cmpr9407-030-p13s5w18</LM>
 </w.rf>
 <form>odpovědnost</form>
-<tag lemma="odpovědnost_^(kdo_za_něco_odpovídá)_(*3ý)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="odpovědnost_^(*3ý)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-cmpr9407-030-p13s5w19">
 <src.rf>manual</src.rf>
@@ -2636,7 +2636,7 @@
 <LM>w#w-cmpr9407-030-p15s1w1</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrIP1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIP1----------</tag>
 </m>
 <m id="m-cmpr9407-030-p15s1w2">
 <src.rf>manual</src.rf>
@@ -3496,7 +3496,7 @@
 <LM>w#w-cmpr9407-030-p16s2w1</LM>
 </w.rf>
 <form>Management</form>
-<tag lemma="management_^(vedení,_manažment;_angl.)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="management_,s_^(^DD**manažment)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-030-p16s2w2">
 <src.rf>manual</src.rf>
@@ -3658,7 +3658,7 @@
 <LM>w#w-cmpr9407-030-p16s3w11</LM>
 </w.rf>
 <form>politiky</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-cmpr9407-030-p16s3w12">
 <src.rf>manual</src.rf>
@@ -4057,7 +4057,7 @@
 <LM>w#w-cmpr9407-030-p16s5w22</LM>
 </w.rf>
 <form>lety</form>
-<tag lemma="rok" src="orig" selected="1">NNNP7-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP7-----A----</tag>
 </m>
 <m id="m-cmpr9407-030-p16s5w23">
 <src.rf>manual</src.rf>

@@ -2913,7 +2913,7 @@
 <AM lemma="York-1_;Y" src="auto">NNMS3-----A---1</AM>
 <AM lemma="York-1_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="York-1_;Y" src="auto">NNMS6-----A---1</AM>
-<AM lemma="York-2_;G" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="York-2_;G_;m" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS5-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS6-----A----</AM>
@@ -3111,7 +3111,7 @@
 <tag>
 <AM lemma="zdanitelný_^(vypočítat_daň)_(*4)" src="auto">AAFP2----1N----</AM>
 <AM lemma="zdanitelný_^(vypočítat_daň)_(*4)" src="auto">AAFP6----1N----</AM>
-<AM lemma="zdanitelný_^(vypočítat_daň)_(*4)" src="auto" recommended="1">AAIP2----1N----</AM>
+<AM lemma="zdanitelný_^(*4)" src="auto" recommended="1">AAIP2----1N----</AM>
 <AM lemma="zdanitelný_^(vypočítat_daň)_(*4)" src="auto">AAIP6----1N----</AM>
 <AM lemma="zdanitelný_^(vypočítat_daň)_(*4)" src="auto">AAMP2----1N----</AM>
 <AM lemma="zdanitelný_^(vypočítat_daň)_(*4)" src="auto">AAMP6----1N----</AM>
@@ -3728,7 +3728,7 @@
 </w.rf>
 <form>potřeby</form>
 <tag>
-<AM lemma="potřeba" src="auto" recommended="1">NNFP1-----A----</AM>
+<AM lemma="potřeba-1" src="auto" recommended="1">NNFP1-----A----</AM>
 <AM lemma="potřeba" src="auto">NNFP4-----A----</AM>
 <AM lemma="potřeba" src="auto">NNFP5-----A----</AM>
 <AM lemma="potřeba" src="auto">NNFS2-----A----</AM>
@@ -3934,7 +3934,7 @@
 <AM lemma="York-1_;Y" src="auto">NNMS3-----A---1</AM>
 <AM lemma="York-1_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="York-1_;Y" src="auto">NNMS6-----A---1</AM>
-<AM lemma="York-2_;G" src="auto" selected="1">NNIS2-----A----</AM>
+<AM lemma="York-2_;G_;m" src="auto" selected="1">NNIS2-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS5-----A----</AM>
 <AM lemma="York-2_;G" src="auto" recommended="1">NNIS6-----A----</AM>
@@ -4425,7 +4425,7 @@
 <form>Regana</form>
 <tag>
 <AM lemma="Regana" src="auto">X@-------------</AM>
-<AM lemma="Regan_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Regan-2_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1418-001-p1s15W14-Ta">
@@ -4627,7 +4627,7 @@
 <AM lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="auto">AAFS2----1A----</AM>
 <AM lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="auto">AAFS3----1A----</AM>
 <AM lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="auto">AAFS6----1A----</AM>
-<AM lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="auto" recommended="1">AAIP1----1A----</AM>
+<AM lemma="zlatý-1_^(atribut;_z._řetízek,_poklad,...)" src="auto" recommended="1">AAIP1----1A----</AM>
 <AM lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="auto">AAIP4----1A----</AM>
 <AM lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="auto">AAIP5----1A----</AM>
 <AM lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="auto">AAMP4----1A----</AM>
@@ -5021,7 +5021,7 @@
 <form>letech</form>
 <tag>
 <AM lemma="let" src="auto">NNIP6-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP6-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1418-001-p1s17W29-Ta">
@@ -6197,7 +6197,7 @@
 <AM lemma="York-1_;Y" src="auto">NNMS3-----A---1</AM>
 <AM lemma="York-1_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="York-1_;Y" src="auto">NNMS6-----A---1</AM>
-<AM lemma="York-2_;G" src="auto" selected="1">NNIS2-----A----</AM>
+<AM lemma="York-2_;G_;m" src="auto" selected="1">NNIS2-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS5-----A----</AM>
 <AM lemma="York-2_;G" src="auto" recommended="1">NNIS6-----A----</AM>
@@ -6415,7 +6415,7 @@
 <form>naší</form>
 <tag>
 <AM lemma="můj_^(přivlast.)" src="auto">PSFS2-P1-------</AM>
-<AM lemma="můj_^(přivlast.)" src="auto" recommended="1">PSFS3-P1-------</AM>
+<AM lemma="náš" src="auto" recommended="1">PSFS3-P1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSFS4-P1------6</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSFS6-P1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSFS7-P1-------</AM>
@@ -6668,7 +6668,7 @@
 <form>tu</form>
 <tag>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" recommended="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1418-001-p1s22W4-Ta">
@@ -7088,7 +7088,7 @@
 <tag>
 <AM lemma="David_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="David_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="David_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="David-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1418-001-p1s23W9-Ta">
@@ -7198,7 +7198,7 @@
 <form>své</form>
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FP1---------1</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8FP4---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8FP4---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS2---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS3---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS6---------1</AM>
@@ -7494,7 +7494,7 @@
 <tag>
 <AM lemma="David_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="David_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="David_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="David-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1418-001-p1s25W7-Ta">
@@ -7716,7 +7716,7 @@
 <form>lidi</form>
 <tag>
 <AM lemma="člověk" src="auto">NNMP1-----A----</AM>
-<AM lemma="člověk" src="auto" recommended="1">NNMP4-----A----</AM>
+<AM lemma="lidé" src="auto" recommended="1">NNMP4-----A----</AM>
 <AM lemma="člověk" src="auto">NNMP5-----A----</AM>
 </tag>
 </m>
@@ -9022,7 +9022,7 @@
 <AM lemma="York-1_;Y" src="auto">NNMS3-----A---1</AM>
 <AM lemma="York-1_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="York-1_;Y" src="auto">NNMS6-----A---1</AM>
-<AM lemma="York-2_;G" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="York-2_;G_;m" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS5-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS6-----A----</AM>
@@ -9243,7 +9243,7 @@
 <tag>
 <AM lemma="zdanitelný_^(vypočítat_daň)_(*4)" src="auto">AAFP2----1N----</AM>
 <AM lemma="zdanitelný_^(vypočítat_daň)_(*4)" src="auto">AAFP6----1N----</AM>
-<AM lemma="zdanitelný_^(vypočítat_daň)_(*4)" src="auto" recommended="1">AAIP2----1N----</AM>
+<AM lemma="zdanitelný_^(*4)" src="auto" recommended="1">AAIP2----1N----</AM>
 <AM lemma="zdanitelný_^(vypočítat_daň)_(*4)" src="auto">AAIP6----1N----</AM>
 <AM lemma="zdanitelný_^(vypočítat_daň)_(*4)" src="auto">AAMP2----1N----</AM>
 <AM lemma="zdanitelný_^(vypočítat_daň)_(*4)" src="auto">AAMP6----1N----</AM>

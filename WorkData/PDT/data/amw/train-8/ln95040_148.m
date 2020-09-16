@@ -43,7 +43,7 @@
 <LM>w#w-ln95040-148-p1s1w4</LM>
 </w.rf>
 <form>nebojí</form>
-<tag lemma="bát" src="orig" selected="1">VB-S---3P-NAI--</tag>
+<tag lemma="bát-1" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-ln95040-148-p1s1w5">
 <src.rf>manual</src.rf>
@@ -590,7 +590,7 @@
 <LM>w#w-ln95040-148-p3s2w18</LM>
 </w.rf>
 <form>zdaněním</form>
-<tag lemma="zdanění_^(vypočítat_daň)_(*3it)" src="auto" selected="1">NNNS7-----A----</tag>
+<tag lemma="zdanění_^(*3it)" src="auto" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-ln95040-148-p3s2w19">
 <src.rf>manual</src.rf>
@@ -960,7 +960,7 @@
 <LM>w#w-ln95040-148-p4s3w10</LM>
 </w.rf>
 <form>zdanění</form>
-<tag lemma="zdanění_^(vypočítat_daň)_(*3it)" src="auto" selected="1">NNNS6-----A----</tag>
+<tag lemma="zdanění_^(*3it)" src="auto" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-ln95040-148-p4s3w11">
 <src.rf>manual</src.rf>
@@ -1917,7 +1917,7 @@
 <LM>w#w-ln95040-148-p5s6w26</LM>
 </w.rf>
 <form>druhou</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS4----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS4----------</tag>
 </m>
 <m id="m-ln95040-148-p5s6w27">
 <src.rf>manual</src.rf>
@@ -1983,7 +1983,7 @@
 <LM>w#w-ln95040-148-p6s1w4</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-ln95040-148-p6s1w5">
 <src.rf>manual</src.rf>
@@ -2126,7 +2126,7 @@
 <LM>w#w-ln95040-148-p6s3w3</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-ln95040-148-p6s3w4">
 <src.rf>manual</src.rf>

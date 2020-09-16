@@ -490,7 +490,7 @@
 <AM lemma="zastavení_^(uvést_do_klidu;;zástavní_právo)_(*3it)" src="auto">NNNP4-----A----</AM>
 <AM lemma="zastavení_^(uvést_do_klidu;;zástavní_právo)_(*3it)" src="auto">NNNP5-----A----</AM>
 <AM lemma="zastavení_^(uvést_do_klidu;;zástavní_právo)_(*3it)" src="auto">NNNS1-----A----</AM>
-<AM lemma="zastavení_^(uvést_do_klidu;;zástavní_právo)_(*3it)" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="zastavení_^(*3it)" src="auto" recommended="1">NNNS2-----A----</AM>
 <AM lemma="zastavení_^(uvést_do_klidu;;zástavní_právo)_(*3it)" src="auto">NNNS3-----A----</AM>
 <AM lemma="zastavení_^(uvést_do_klidu;;zástavní_právo)_(*3it)" src="auto">NNNS4-----A----</AM>
 <AM lemma="zastavení_^(uvést_do_klidu;;zástavní_právo)_(*3it)" src="auto">NNNS5-----A----</AM>

@@ -292,7 +292,7 @@
 <form>mercedesu</form>
 <tag>
 <AM lemma="Mercedes-2_;m_^(vozidlo)" src="orig">NNIS2-----A----</AM>
-<AM lemma="mercedes_;m_^(vozidlo)" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
+<AM lemma="mercedes_^(vozidlo)" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
 <AM lemma="mercedes_;m_^(vozidlo)" src="auto">NNIS3-----A----</AM>
 <AM lemma="mercedes_;m_^(vozidlo)" src="auto">NNIS6-----A----</AM>
 </tag>
@@ -552,7 +552,7 @@
 <LM>w#w-mf930703-076-p2s4w12</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-mf930703-076-p2s4w13">
 <src.rf>manual</src.rf>
@@ -759,7 +759,7 @@
 <LM>w#w-mf930703-076-p2s6w5</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-mf930703-076-p2s6w6">
 <src.rf>manual</src.rf>
@@ -1550,7 +1550,7 @@
 <LM>w#w-mf930703-076-p2s10w19</LM>
 </w.rf>
 <form>Miroslavu</form>
-<tag lemma="Miroslav_;Y" src="orig" selected="1">NNMS3-----A---1</tag>
+<tag lemma="Miroslav-1_;Y" src="orig" selected="1">NNMS3-----A---1</tag>
 </m>
 <m id="m-mf930703-076-p2s10w20">
 <src.rf>manual</src.rf>

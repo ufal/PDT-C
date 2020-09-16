@@ -139,7 +139,7 @@
 <LM>w#w-ln95043-093-p1s1w16</LM>
 </w.rf>
 <form>my</form>
-<tag lemma="já" src="orig" selected="1">PP-P1--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P1--1-------</tag>
 </m>
 <m id="m-ln95043-093-p1s1w17">
 <src.rf>manual</src.rf>

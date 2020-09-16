@@ -370,7 +370,7 @@
 <form>Má</form>
 <tag>
 <AM lemma="mít" src="auto">VB-S---3P-AAI--</AM>
-<AM lemma="můj_^(má_kniha;_přivlast.)" src="auto" recommended="1">PSFS1-S1------1</AM>
+<AM lemma="můj" src="auto" recommended="1">PSFS1-S1------1</AM>
 <AM lemma="můj_^(má_kniha;_přivlast.)" src="auto">PSFS5-S1------1</AM>
 <AM lemma="můj_^(má_kniha;_přivlast.)" src="auto">PSNP1-S1------1</AM>
 <AM lemma="můj_^(má_kniha;_přivlast.)" src="auto">PSNP4-S1------1</AM>
@@ -634,7 +634,7 @@
 </w.rf>
 <form>svoji</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8FS4----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8FS4----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8MP1----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8MP5----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOMP----------1</AM>
@@ -711,7 +711,7 @@
 <AM lemma="politika_^(věda)" src="auto">NNFP1-----A----</AM>
 <AM lemma="politika_^(věda)" src="auto">NNFP4-----A----</AM>
 <AM lemma="politika_^(věda)" src="auto">NNFP5-----A----</AM>
-<AM lemma="politika_^(věda)" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="politika" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="politikum" src="auto">NNNP7-----A----</AM>
 </tag>
 </m>
@@ -1575,7 +1575,7 @@
 <AM lemma="druhý" src="auto">CrNP4---------6</AM>
 <AM lemma="druhý" src="auto">CrNP5---------6</AM>
 <AM lemma="druhý" src="auto">CrNS1----------</AM>
-<AM lemma="druhý" src="auto" recommended="1">CrNS4----------</AM>
+<AM lemma="druhý`2" src="auto" recommended="1">CrNS4----------</AM>
 <AM lemma="druhý" src="auto">CrNS5----------</AM>
 </tag>
 </m>
@@ -2806,7 +2806,7 @@
 <form>lidi</form>
 <tag>
 <AM lemma="člověk" src="auto">NNMP1-----A----</AM>
-<AM lemma="člověk" src="auto" recommended="1">NNMP4-----A----</AM>
+<AM lemma="lidé" src="auto" recommended="1">NNMP4-----A----</AM>
 <AM lemma="člověk" src="auto">NNMP5-----A----</AM>
 </tag>
 </m>
@@ -4106,7 +4106,7 @@
 <form>mne</form>
 <tag>
 <AM lemma="mnout" src="auto">VB-S---3P-AAI--</AM>
-<AM lemma="já_^(2./4.pád)" src="auto" recommended="1">PP-S2--1-------</AM>
+<AM lemma="já" src="auto" recommended="1">PP-S2--1-------</AM>
 <AM lemma="já_^(2./4.pád)" src="auto">PP-S4--1-------</AM>
 </tag>
 </m>
@@ -4633,7 +4633,7 @@
 <form>mého</form>
 <tag>
 <AM lemma="můj_^(přivlast.)" src="auto">PSMS4-S1-------</AM>
-<AM lemma="můj_^(přivlast.)" src="auto" recommended="1">PSZS2-S1-------</AM>
+<AM lemma="můj" src="auto" recommended="1">PSZS2-S1-------</AM>
 </tag>
 </m>
 <m id="m-wsj1405-001-p1s11W9-Ta">
@@ -4998,7 +4998,7 @@
 <form>proto</form>
 <tag>
 <AM lemma="proto-1_^(proto;_a_proto,_ale_proto,...)" src="auto">J^-------------</AM>
-<AM lemma="proto-2_^(dal_mu_co_proto,_tak_proto!)" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="proto-2_^(proto_že)" src="auto" recommended="1">Db-------------</AM>
 <AM lemma="proto-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -5129,7 +5129,7 @@
 </w.rf>
 <form>spadajícího</form>
 <tag>
-<AM lemma="spadající-1_^(do_kategorie)_(*6t-1)" src="auto" recommended="1">AGIS2-----A----</AM>
+<AM lemma="spadající-1_^(*6t-1)" src="auto" recommended="1">AGIS2-----A----</AM>
 <AM lemma="spadající-1_^(do_kategorie)_(*6t-1)" src="auto">AGMS2-----A----</AM>
 <AM lemma="spadající-1_^(do_kategorie)_(*6t-1)" src="auto">AGMS4-----A----</AM>
 <AM lemma="spadající-1_^(do_kategorie)_(*6t-1)" src="auto">AGNS2-----A----</AM>
@@ -7093,7 +7093,7 @@
 <AM lemma="politika_^(věda)" src="auto">NNFP1-----A----</AM>
 <AM lemma="politika_^(věda)" src="auto">NNFP4-----A----</AM>
 <AM lemma="politika_^(věda)" src="auto">NNFP5-----A----</AM>
-<AM lemma="politika_^(věda)" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="politika" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="politikum" src="auto">NNNP7-----A----</AM>
 </tag>
 </m>
@@ -7207,7 +7207,7 @@
 <AM lemma="hnutí_^(mysli,politické,...)_(*3out)" src="auto">NNNP4-----A----</AM>
 <AM lemma="hnutí_^(mysli,politické,...)_(*3out)" src="auto">NNNP5-----A----</AM>
 <AM lemma="hnutí_^(mysli,politické,...)_(*3out)" src="auto">NNNS1-----A----</AM>
-<AM lemma="hnutí_^(mysli,politické,...)_(*3out)" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="hnutí_^(*3out)" src="auto" recommended="1">NNNS2-----A----</AM>
 <AM lemma="hnutí_^(mysli,politické,...)_(*3out)" src="auto">NNNS3-----A----</AM>
 <AM lemma="hnutí_^(mysli,politické,...)_(*3out)" src="auto">NNNS4-----A----</AM>
 <AM lemma="hnutí_^(mysli,politické,...)_(*3out)" src="auto">NNNS5-----A----</AM>
@@ -7703,7 +7703,7 @@
 <AM lemma="léto" src="auto">NNNP5-----A----</AM>
 <AM lemma="léto" src="auto">NNNS2-----A----</AM>
 <AM lemma="rok" src="auto">NNNP1-----A---2</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP4-----A---2</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP4-----A---2</AM>
 <AM lemma="rok" src="auto">NNNP5-----A---2</AM>
 <AM lemma="rok" src="auto">NNNS2-----A----</AM>
 </tag>
@@ -7753,7 +7753,7 @@
 <AM lemma="politika_^(věda)" src="auto">NNFP1-----A----</AM>
 <AM lemma="politika_^(věda)" src="auto">NNFP4-----A----</AM>
 <AM lemma="politika_^(věda)" src="auto">NNFP5-----A----</AM>
-<AM lemma="politika_^(věda)" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="politika" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="politikum" src="auto">NNNP7-----A----</AM>
 </tag>
 </m>

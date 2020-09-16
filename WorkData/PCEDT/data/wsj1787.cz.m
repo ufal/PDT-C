@@ -165,7 +165,7 @@
 <form>svého</form>
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8MS4----------</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8ZS2----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8ZS2----------</AM>
 </tag>
 </m>
 <m id="m-wsj1787-001-p1s0W15-Ta">
@@ -944,7 +944,7 @@
 <form>zdaněním</form>
 <tag>
 <AM lemma="zdanění_^(vypočítat_daň)_(*3it)" src="auto">NNNP3-----A----</AM>
-<AM lemma="zdanění_^(vypočítat_daň)_(*3it)" src="auto" recommended="1">NNNS7-----A----</AM>
+<AM lemma="zdanění_^(*3it)" src="auto" recommended="1">NNNS7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1787-001-p1s2W17-Ta">
@@ -1276,7 +1276,7 @@
 <form>jejích</form>
 <tag>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP2FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XP6FS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9XP6FS3-------</AM>
 </tag>
 </m>
 <m id="m-wsj1787-001-p1s2W43-Ta">

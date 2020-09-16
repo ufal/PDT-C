@@ -297,7 +297,7 @@
 </w.rf>
 <form>orgánů</form>
 <tag>
-<AM lemma="orgán" src="auto" recommended="1">NNIP2-----A----</AM>
+<AM lemma="orgán-1" src="auto" recommended="1">NNIP2-----A----</AM>
 <AM lemma="orgán" src="auto">NNMP2-----A----</AM>
 </tag>
 </m>
@@ -1005,7 +1005,7 @@
 </w.rf>
 <form>orgánů</form>
 <tag>
-<AM lemma="orgán" src="auto" recommended="1">NNIP2-----A----</AM>
+<AM lemma="orgán-1" src="auto" recommended="1">NNIP2-----A----</AM>
 <AM lemma="orgán" src="auto">NNMP2-----A----</AM>
 </tag>
 </m>
@@ -1615,7 +1615,7 @@
 </w.rf>
 <form>nalezených</form>
 <tag>
-<AM lemma="nalezený_^(*3nout)" src="auto" recommended="1">AAFP2----1A----</AM>
+<AM lemma="nalezený" src="auto" recommended="1">AAFP2----1A----</AM>
 <AM lemma="nalezený_^(*3nout)" src="auto">AAFP6----1A----</AM>
 <AM lemma="nalezený_^(*3nout)" src="auto">AAIP2----1A----</AM>
 <AM lemma="nalezený_^(*3nout)" src="auto">AAIP6----1A----</AM>
@@ -1714,7 +1714,7 @@
 <AM lemma="první" src="auto">CrIS1----------</AM>
 <AM lemma="první" src="auto">CrIS4----------</AM>
 <AM lemma="první" src="auto">CrIS5----------</AM>
-<AM lemma="první" src="auto" recommended="1">CrMP1----------</AM>
+<AM lemma="první-1" src="auto" recommended="1">CrMP1----------</AM>
 <AM lemma="první" src="auto">CrMP4----------</AM>
 <AM lemma="první" src="auto">CrMP5----------</AM>
 <AM lemma="první" src="auto">CrMS1----------</AM>
@@ -2465,7 +2465,7 @@
 <tag>
 <AM lemma="AIDS-1_;U_^(Syndrom_získaného_selhání_imunity)" src="auto">NNIS1-----A----</AM>
 <AM lemma="AIDS-1_;U_^(Syndrom_získaného_selhání_imunity)" src="auto">NNIS4-----A----</AM>
-<AM lemma="AIDS-2_;U_^(Syndrom_získaného_selhání_imunity)" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="AIDS_;U_^(Syndrom_získaného_selhání_imunity)" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="aids_:B_;U_,s_^(^DD**AIDS-1)" src="auto">NNIS1-----A----</AM>
 <AM lemma="aids_:B_;U_,s_^(^DD**AIDS-1)" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -2791,7 +2791,7 @@
 </w.rf>
 <form>cyklosporin</form>
 <tag>
-<AM lemma="cyklosporin_;U" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="cyklosporin" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="cyklosporin_;U" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -2984,7 +2984,7 @@
 </w.rf>
 <form>gigant</form>
 <tag>
-<AM lemma="gigant" src="auto" selected="1">NNIS1-----A----</AM>
+<AM lemma="gigant-1" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="gigant" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="gigant" src="auto">NNMS1-----A----</AM>
 </tag>
@@ -3349,7 +3349,7 @@
 <AM lemma="mocnost_^(mající_moc)_(*3ý)" src="auto">NNFS1-----N----</AM>
 <AM lemma="mocnost_^(mající_moc)_(*3ý)" src="auto">NNFS4-----N----</AM>
 <AM lemma="nemocnost-2_^(vlastnost)_(*5ý-2)" src="auto">NNFS1-----A----</AM>
-<AM lemma="nemocnost-2_^(vlastnost)_(*5ý-2)" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="nemocnost-2_^(*5ý-2)" src="auto" recommended="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1934-001-p1s11W24-Ta">
@@ -3544,7 +3544,7 @@
 </w.rf>
 <form>cyklosporinu</form>
 <tag>
-<AM lemma="cyklosporin_;U" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="cyklosporin" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="cyklosporin_;U" src="auto">NNIS3-----A----</AM>
 <AM lemma="cyklosporin_;U" src="auto">NNIS6-----A----</AM>
 </tag>
@@ -3941,7 +3941,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1934-001-p1s13W29-Ta">
@@ -4071,7 +4071,7 @@
 </w.rf>
 <form>jejíž</form>
 <tag>
-<AM lemma="jenž_^(který...[ve_vedl._větě])" src="auto" recommended="1">P1FXXFS3-------</AM>
+<AM lemma="jehož" src="auto" recommended="1">P1FXXFS3-------</AM>
 <AM lemma="jenž_^(který...[ve_vedl._větě])" src="auto">P1IS4FS3-------</AM>
 <AM lemma="jenž_^(který...[ve_vedl._větě])" src="auto">P1NS4FS3-------</AM>
 <AM lemma="jenž_^(který...[ve_vedl._větě])" src="auto">P1XP1FS3-------</AM>
@@ -4681,7 +4681,7 @@
 </w.rf>
 <form>cyklosporinu</form>
 <tag>
-<AM lemma="cyklosporin_;U" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="cyklosporin" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="cyklosporin_;U" src="auto">NNIS3-----A----</AM>
 <AM lemma="cyklosporin_;U" src="auto">NNIS6-----A----</AM>
 </tag>
@@ -5052,7 +5052,7 @@
 </w.rf>
 <form>nedala</form>
 <tag>
-<AM lemma="dát" src="auto" recommended="1">VpQW----R-NAP--</AM>
+<AM lemma="dát-1" src="auto" recommended="1">VpQW----R-NAP--</AM>
 <AM lemma="dát-2_^(dá_se_očekávat)" src="auto">VpQW----R-NAI--</AM>
 </tag>
 </m>
@@ -5419,7 +5419,7 @@
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS1---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS4---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS5---------1</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8YP4---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8YP4---------1</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOFP-----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOIP-----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AONS-----------</AM>
@@ -5433,7 +5433,7 @@
 <form>lidi</form>
 <tag>
 <AM lemma="člověk" src="auto">NNMP1-----A----</AM>
-<AM lemma="člověk" src="auto" recommended="1">NNMP4-----A----</AM>
+<AM lemma="lidé" src="auto" recommended="1">NNMP4-----A----</AM>
 <AM lemma="člověk" src="auto">NNMP5-----A----</AM>
 </tag>
 </m>

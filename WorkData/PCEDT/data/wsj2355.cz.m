@@ -428,7 +428,7 @@
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8XP3----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8ZS6---------7</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8ZS7----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8ZS7----------</AM>
 </tag>
 </m>
 <m id="m-wsj2355-001-p1s1W16-Ta">

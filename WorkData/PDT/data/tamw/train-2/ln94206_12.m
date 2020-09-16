@@ -19,7 +19,7 @@
 <LM>w#w-ln94206-12-p1s1w1</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrMP1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrMP1----------</tag>
 </m>
 <m id="m-ln94206-12-p1s1w2">
 <src.rf>manual</src.rf>
@@ -71,7 +71,7 @@
 <LM>w#w-ln94206-12-p2s1Bw1</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrNS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS4----------</tag>
 </m>
 <m id="m-ln94206-12-p2s1Bw2">
 <src.rf>manual</src.rf>
@@ -201,7 +201,7 @@
 <LM>w#w-ln94206-12-p2s2w2</LM>
 </w.rf>
 <form>kuchyní</form>
-<tag lemma="kuchyně" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="kuchyň" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln94206-12-p2s2w3">
 <src.rf>manual</src.rf>
@@ -767,7 +767,7 @@
 <LM>w#w-ln94206-12-p3s3w19</LM>
 </w.rf>
 <form>naši</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSMP1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSMP1-P1-------</tag>
 </m>
 <m id="m-ln94206-12-p3s3w20">
 <src.rf>manual</src.rf>
@@ -775,7 +775,7 @@
 <LM>w#w-ln94206-12-p3s3w20</LM>
 </w.rf>
 <form>nejlepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAMP1----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAMP1----3A----</tag>
 </m>
 <m id="m-ln94206-12-p3s3w21">
 <src.rf>manual</src.rf>
@@ -807,7 +807,7 @@
 <LM>w#w-ln94206-12-p3s3w24</LM>
 </w.rf>
 <form>druhém</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS6----------</tag>
 </m>
 <m id="m-ln94206-12-p3s3w25">
 <src.rf>manual</src.rf>

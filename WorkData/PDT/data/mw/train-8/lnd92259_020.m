@@ -226,7 +226,7 @@
 <LM>w#w-lnd92259-020-p3s1w19</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92259-020-p3s1w20">
 <src.rf>manual</src.rf>
@@ -290,7 +290,7 @@
 <LM>w#w-lnd92259-020-p3s1w27</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd92259-020-p3s1w28">
 <src.rf>manual</src.rf>
@@ -508,7 +508,7 @@
 <LM>w#w-lnd92259-020-p3s2w5</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-lnd92259-020-p3s2w6">
 <src.rf>manual</src.rf>
@@ -657,7 +657,7 @@
 <LM>w#w-lnd92259-020-p4s1w12</LM>
 </w.rf>
 <form>Saska</form>
-<tag lemma="Sasko_;G" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="Sasko-2_;G" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-lnd92259-020-p4s1w13">
 <src.rf>manual</src.rf>
@@ -1196,7 +1196,7 @@
 <LM>w#w-lnd92259-020-p4s3w25</LM>
 </w.rf>
 <form>faktory</form>
-<tag lemma="faktor" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="faktor-1" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-lnd92259-020-p4s3w26">
 <src.rf>manual</src.rf>
@@ -1260,7 +1260,7 @@
 <LM>w#w-lnd92259-020-p4s3w33</LM>
 </w.rf>
 <form>nezaměstnanosti</form>
-<tag lemma="nezaměstnanost-2_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="nezaměstnanost_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92259-020-p4s3w34">
 <src.rf>manual</src.rf>

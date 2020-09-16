@@ -488,7 +488,7 @@
 <LM>w#w-ln94211-46-p2s3w2</LM>
 </w.rf>
 <form>pana</form>
-<tag lemma="pan_^(oslovení)" src="auto" selected="1">NNMS4-----A----</tag>
+<tag lemma="pan" src="auto" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94211-46-p2s3w3">
 <src.rf>manual</src.rf>
@@ -756,7 +756,7 @@
 <LM>w#w-ln94211-46-p2s5w8</LM>
 </w.rf>
 <form>my</form>
-<tag lemma="já" src="orig" selected="1">PP-P1--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P1--1-------</tag>
 </m>
 <m id="m-ln94211-46-p2s5w9">
 <src.rf>manual</src.rf>

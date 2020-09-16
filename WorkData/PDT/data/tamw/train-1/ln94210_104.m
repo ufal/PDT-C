@@ -369,7 +369,7 @@
 <LM>w#w-ln94210-104-p2s3w12</LM>
 </w.rf>
 <form>Vladimira</form>
-<tag lemma="Vladimir_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Vladimir_;Y_,s_^(^DD**Vladimír)" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94210-104-p2s3w13">
 <src.rf>manual</src.rf>
@@ -957,7 +957,7 @@
 <LM>w#w-ln94210-104-p2s8w8</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-ln94210-104-p2s8w9">
 <src.rf>manual</src.rf>
@@ -1146,7 +1146,7 @@
 <LM>w#w-ln94210-104-p2s9w13</LM>
 </w.rf>
 <form>zjednodušené</form>
-<tag lemma="zjednodušený_,s_^(*2t)" src="auto" selected="1">AANS1----1A----</tag>
+<tag lemma="zjednodušený_^(*2t)_(*3it)" src="auto" selected="1">AANS1----1A----</tag>
 </m>
 <m id="m-ln94210-104-p2s9w14">
 <src.rf>manual</src.rf>
@@ -1188,7 +1188,7 @@
 <LM>w#w-ln94210-104-p2s10w4</LM>
 </w.rf>
 <form>lidech</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP6-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP6-----A----</tag>
 </m>
 <m id="m-ln94210-104-p2s10w5">
 <src.rf>manual</src.rf>
@@ -1672,7 +1672,7 @@
 <LM>w#w-ln94210-104-p2s13w24</LM>
 </w.rf>
 <form>nedalo</form>
-<tag lemma="dát" src="orig" selected="1">VpNS----R-NAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VpNS----R-NAP--</tag>
 </m>
 <m id="m-ln94210-104-p2s13w25">
 <src.rf>manual</src.rf>
@@ -1850,7 +1850,7 @@
 <LM>w#w-ln94210-104-p2s14w18</LM>
 </w.rf>
 <form>ducha</form>
-<tag lemma="duch" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="duch-1" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94210-104-p2s14w19">
 <src.rf>manual</src.rf>
@@ -1876,7 +1876,7 @@
 <LM>w#w-ln94210-104-p2s15w2</LM>
 </w.rf>
 <form>naší</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS6-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS6-P1-------</tag>
 </m>
 <m id="m-ln94210-104-p2s15w3">
 <src.rf>manual</src.rf>

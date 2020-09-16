@@ -486,7 +486,7 @@
 <LM>w#w-lnd92258-050-p2s5w4</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-lnd92258-050-p2s5w5">
 <src.rf>manual</src.rf>
@@ -585,7 +585,7 @@
 <LM>w#w-lnd92258-050-p2s5w16</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-lnd92258-050-p2s5w17">
 <src.rf>manual</src.rf>
@@ -785,7 +785,7 @@
 <LM>w#w-lnd92258-050-p2s6w1</LM>
 </w.rf>
 <form>Svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8MS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8MS4----------</tag>
 </m>
 <m id="m-lnd92258-050-p2s6w2">
 <src.rf>manual</src.rf>
@@ -860,7 +860,7 @@
 <LM>w#w-lnd92258-050-p2s6w10</LM>
 </w.rf>
 <form>mluvčího</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92258-050-p2s6w11">
 <src.rf>manual</src.rf>

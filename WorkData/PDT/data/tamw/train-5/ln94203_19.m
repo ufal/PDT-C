@@ -268,7 +268,7 @@
 <form>Radu</form>
 <tag>
 <AM lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig">NNFS4-----A----</AM>
-<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu_poradní_sbor)" src="manual" selected="1">NNFS4-----A----</AM>
+<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="manual" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-19-p2s1Bw20">
@@ -625,7 +625,7 @@
 <LM>w#w-ln94203-19-p3s1w7</LM>
 </w.rf>
 <form>lepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AANS1----2A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AANS1----2A----</tag>
 </m>
 <m id="m-ln94203-19-p3s1w8">
 <src.rf>manual</src.rf>
@@ -697,7 +697,7 @@
 <LM>w#w-ln94203-19-p3s1w17</LM>
 </w.rf>
 <form>svoji</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4----------</tag>
 </m>
 <m id="m-ln94203-19-p3s1w18">
 <src.rf>manual</src.rf>
@@ -1000,7 +1000,7 @@
 <LM>w#w-ln94203-19-p3s3w14</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XP1FS3-------</tag>
 </m>
 <m id="m-ln94203-19-p3s3w15">
 <src.rf>manual</src.rf>
@@ -1203,7 +1203,7 @@
 <LM>w#w-ln94203-19-p3s3w39</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8YP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8YP4---------1</tag>
 </m>
 <m id="m-ln94203-19-p3s3w40">
 <src.rf>manual</src.rf>
@@ -1626,7 +1626,7 @@
 <form>Rady</form>
 <tag>
 <AM lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig">NNFS2-----A----</AM>
-<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu_poradní_sbor)" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-19-p4s3w3">
@@ -1739,7 +1739,7 @@
 <LM>w#w-ln94203-19-p4s3w16</LM>
 </w.rf>
 <form>členy</form>
-<tag lemma="člen" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-ln94203-19-p4s3w17">
 <src.rf>manual</src.rf>
@@ -1795,7 +1795,7 @@
 <LM>w#w-ln94203-19-p4s3w23</LM>
 </w.rf>
 <form>jejího</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS2FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS2FS3-------</tag>
 </m>
 <m id="m-ln94203-19-p4s3w24">
 <src.rf>manual</src.rf>

@@ -313,7 +313,7 @@
 <LM>w#w-cmpr9415-014-p6s1w1</LM>
 </w.rf>
 <form>Dítě</form>
-<tag lemma="dítě" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="dítě-1" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-014-p6s1w2">
 <src.rf>manual</src.rf>
@@ -358,7 +358,7 @@
 <LM>w#w-cmpr9415-014-p6s1w6</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-cmpr9415-014-p6s1w7">
 <src.rf>manual</src.rf>
@@ -704,7 +704,7 @@
 <LM>w#w-cmpr9415-014-p9s2w5</LM>
 </w.rf>
 <form>dlouhá</form>
-<tag lemma="dlouhý-1_^(fyz._délka;_př._dlouhá_tyč)" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-cmpr9415-014-p9s2w6">
 <src.rf>manual</src.rf>

@@ -12,7 +12,7 @@
 <LM>w#w-d1t741-2</LM>
 </w.rf>
 <form>Vypadáme</form>
-<tag lemma="vypadat" src="auto" recommended="1">VB-P---1P-AAI--</tag>
+<tag lemma="vypadat-1_^(ty_vypadáš)" src="auto" recommended="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m063-d1t741-5">
 <w.rf>
@@ -432,7 +432,7 @@
 <form>letech</form>
 <tag>
 <AM lemma="let" src="auto">NNIP6-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP6-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP6-----A----</AM>
 </tag>
 </m>
 <m id="m063-d-m-d1e749-x2-punct-punct">
@@ -1081,7 +1081,7 @@
 <AM lemma="Moja_;Y" src="auto">NNFS6-----A----</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSHP1-S1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSHP5-S1-------</AM>
-<AM lemma="můj_^(přivlast.)" src="auto" recommended="1">PSHS1-S1-------</AM>
+<AM lemma="můj" src="auto" recommended="1">PSHS1-S1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSHS5-S1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSIP1-S1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSIP5-S1-------</AM>
@@ -1123,7 +1123,7 @@
 <LM>w#w-d1t828-8</LM>
 </w.rf>
 <form>vypadá</form>
-<tag lemma="vypadat" src="auto" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="vypadat-1_^(ty_vypadáš)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m063-d1t828-7">
 <w.rf>
@@ -2622,7 +2622,7 @@
 </w.rf>
 <form>ne</form>
 <tag>
-<AM lemma="ne" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ne-1" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="neděle_:B" src="auto">NNFXX-----A---8</AM>
 </tag>
 </m>
@@ -2740,7 +2740,7 @@
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8XP3----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8ZS6---------7</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8ZS7----------</AM>
-<AM lemma="svůj-1_^(přivlast.)_(*2)" src="manual" selected="1">P8ZS7----------</AM>
+<AM lemma="svůj-1" src="manual" selected="1">P8ZS7----------</AM>
 </tag>
 </m>
 <m id="m063-d1t962-2">
@@ -2896,7 +2896,7 @@
 <AM lemma="let" src="auto">NNIP4-----A----</AM>
 <AM lemma="let" src="auto">NNIP5-----A----</AM>
 <AM lemma="let" src="auto">NNIP7-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP7-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP7-----A----</AM>
 </tag>
 </m>
 <m id="m063-d-m-d1e948-x2-punct-punct">
@@ -3067,7 +3067,7 @@
 <AM lemma="ty" src="auto">PP-P2--2-------</AM>
 <AM lemma="ty" src="auto" recommended="1">PP-P4--2-------</AM>
 <AM lemma="ty" src="auto">PP-P6--2-------</AM>
-<AM lemma="ty_^(**já)" src="manual" selected="1">PP-P4--2-------</AM>
+<AM lemma="vy" src="manual" selected="1">PP-P4--2-------</AM>
 </tag>
 </m>
 <m id="m063-d1t1000-3">
@@ -3253,7 +3253,7 @@
 <AM lemma="zaměstnání-1_^(všeob._význam:_činnost,_zaměstnání)_(*5at-1)" src="auto">NNNP4-----A----</AM>
 <AM lemma="zaměstnání-1_^(všeob._význam:_činnost,_zaměstnání)_(*5at-1)" src="auto">NNNP5-----A----</AM>
 <AM lemma="zaměstnání-1_^(všeob._význam:_činnost,_zaměstnání)_(*5at-1)" src="auto">NNNS1-----A----</AM>
-<AM lemma="zaměstnání-1_^(všeob._význam:_činnost,_zaměstnání)_(*5at-1)" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="zaměstnání_^(*3at)" src="auto" recommended="1">NNNS2-----A----</AM>
 <AM lemma="zaměstnání-1_^(všeob._význam:_činnost,_zaměstnání)_(*5at-1)" src="auto">NNNS3-----A----</AM>
 <AM lemma="zaměstnání-1_^(všeob._význam:_činnost,_zaměstnání)_(*5at-1)" src="auto">NNNS4-----A----</AM>
 <AM lemma="zaměstnání-1_^(všeob._význam:_činnost,_zaměstnání)_(*5at-1)" src="auto">NNNS5-----A----</AM>
@@ -3471,7 +3471,7 @@
 </w.rf>
 <form>ne</form>
 <tag>
-<AM lemma="ne" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ne-1" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="neděle_:B" src="auto">NNFXX-----A---8</AM>
 </tag>
 </m>
@@ -3690,7 +3690,7 @@
 <form>můj</form>
 <tag>
 <AM lemma="můj_^(přivlast.)" src="auto">PSIS4-S1-------</AM>
-<AM lemma="můj_^(přivlast.)" src="auto" recommended="1">PSYS1-S1-------</AM>
+<AM lemma="můj" src="auto" recommended="1">PSYS1-S1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSYS5-S1-------</AM>
 </tag>
 </m>

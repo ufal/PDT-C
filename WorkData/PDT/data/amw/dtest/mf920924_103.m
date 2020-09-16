@@ -27,7 +27,7 @@
 <LM>w#w-mf920924-103-p1s1w2</LM>
 </w.rf>
 <form>Faerských</form>
-<tag lemma="faerský_;G" src="orig" selected="1">AAIP2----1A----</tag>
+<tag lemma="faerský" src="orig" selected="1">AAIP2----1A----</tag>
 </m>
 <m id="m-mf920924-103-p1s1w3">
 <src.rf>manual</src.rf>

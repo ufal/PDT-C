@@ -110,7 +110,7 @@
 <LM>w#w-ln95040-013-p1s1w12</LM>
 </w.rf>
 <form>výbor</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95040-013-p1s1w13">
 <src.rf>manual</src.rf>
@@ -702,7 +702,7 @@
 <LM>w#w-ln95040-013-p1s3w35</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP4FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XP4FS3-------</tag>
 </m>
 <m id="m-ln95040-013-p1s3w36">
 <src.rf>manual</src.rf>

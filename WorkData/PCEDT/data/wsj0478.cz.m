@@ -82,7 +82,7 @@
 <tag>
 <AM lemma="Cincinnatus_;Y" src="auto">NNMP1-----A---1</AM>
 <AM lemma="Cincinnatus_;Y" src="auto">NNMP5-----A---1</AM>
-<AM lemma="Cincinnati_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Cincinnati_;G_;m" src="auto" recommended="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0478-001-p1s0W8-Ta">
@@ -178,7 +178,7 @@
 <form>převzetím</form>
 <tag>
 <AM lemma="převzetí_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="auto">NNNP3-----A----</AM>
-<AM lemma="převzetí_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="auto" recommended="1">NNNS7-----A----</AM>
+<AM lemma="převzetí_^(*3ít)" src="auto" recommended="1">NNNS7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0478-001-p1s0W16-Ta">
@@ -1018,7 +1018,7 @@
 <tag>
 <AM lemma="první" src="auto">CrFP2----------</AM>
 <AM lemma="první" src="auto">CrFP6----------</AM>
-<AM lemma="první" src="auto" recommended="1">CrIP2----------</AM>
+<AM lemma="první-1" src="auto" recommended="1">CrIP2----------</AM>
 <AM lemma="první" src="auto">CrIP6----------</AM>
 <AM lemma="první" src="auto">CrMP2----------</AM>
 <AM lemma="první" src="auto">CrMP6----------</AM>
@@ -1980,7 +1980,7 @@
 </w.rf>
 <form>orgánů</form>
 <tag>
-<AM lemma="orgán" src="auto" recommended="1">NNIP2-----A----</AM>
+<AM lemma="orgán-1" src="auto" recommended="1">NNIP2-----A----</AM>
 <AM lemma="orgán" src="auto">NNMP2-----A----</AM>
 </tag>
 </m>

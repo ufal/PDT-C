@@ -497,7 +497,7 @@
 <tag>
 <AM lemma="John_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="John_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="John_;Y_:Y" src="manual" selected="1">NNMS4-----A----</AM>
+<AM lemma="John_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0066-001-p1s1W7-Ta">

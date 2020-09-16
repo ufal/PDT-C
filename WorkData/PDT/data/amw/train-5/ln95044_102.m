@@ -695,7 +695,7 @@
 <LM>w#w-ln95044-102-p2s2w56</LM>
 </w.rf>
 <form>Gyuly</form>
-<tag lemma="Gyula_;Y" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Gyula-1_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95044-102-p2s2w57">
 <src.rf>manual</src.rf>

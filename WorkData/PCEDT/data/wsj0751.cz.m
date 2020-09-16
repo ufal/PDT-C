@@ -89,7 +89,7 @@
 <AM lemma="York-1_;Y" src="auto">NNMS3-----A---1</AM>
 <AM lemma="York-1_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="York-1_;Y" src="auto">NNMS6-----A---1</AM>
-<AM lemma="York-2_;G" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="York-2_;G_;m" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS5-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS6-----A----</AM>
@@ -269,7 +269,7 @@
 <AM lemma="spořitelna_^(místo;_př._Česká_spořitelna)" src="auto">NNFP1-----A----</AM>
 <AM lemma="spořitelna_^(místo;_př._Česká_spořitelna)" src="auto">NNFP4-----A----</AM>
 <AM lemma="spořitelna_^(místo;_př._Česká_spořitelna)" src="auto">NNFP5-----A----</AM>
-<AM lemma="spořitelna_^(místo;_př._Česká_spořitelna)" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="spořitelna" src="auto" recommended="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0751-001-p1s0W23-Ta">
@@ -417,7 +417,7 @@
 <AM lemma="spořitelna_^(místo;_př._Česká_spořitelna)" src="auto">NNFP1-----A----</AM>
 <AM lemma="spořitelna_^(místo;_př._Česká_spořitelna)" src="auto">NNFP4-----A----</AM>
 <AM lemma="spořitelna_^(místo;_př._Česká_spořitelna)" src="auto">NNFP5-----A----</AM>
-<AM lemma="spořitelna_^(místo;_př._Česká_spořitelna)" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="spořitelna" src="auto" recommended="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0751-001-p1s1W3-Ta">
@@ -890,7 +890,7 @@
 <tag>
 <AM lemma="data_^(údaje,_např._v_databázi)" src="auto">NNNP3-----A---6</AM>
 <AM lemma="datum_^(kalendářní)" src="auto">NNNP3-----A---6</AM>
-<AM lemma="datum_^(kalendářní)" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="datum-1_^(kalendářní)" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="datum_^(kalendářní)" src="auto">NNNS4-----A----</AM>
 <AM lemma="datum_^(kalendářní)" src="auto">NNNS5-----A----</AM>
 <AM lemma="datum_,h_,x" src="auto">NNIS1-----A----</AM>

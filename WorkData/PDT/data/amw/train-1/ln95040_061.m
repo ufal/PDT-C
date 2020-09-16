@@ -204,7 +204,7 @@
 <LM>w#w-ln95040-061-p1s3w4</LM>
 </w.rf>
 <form>vy</form>
-<tag lemma="ty" src="orig" selected="1">PP-P1--2-------</tag>
+<tag lemma="vy" src="orig" selected="1">PP-P1--2-------</tag>
 </m>
 <m id="m-ln95040-061-p1s3w5">
 <src.rf>manual</src.rf>

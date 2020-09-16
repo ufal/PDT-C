@@ -332,7 +332,7 @@
 <LM>w#w-ln95040-144-p3s2w10</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS1FS3-------</tag>
 </m>
 <m id="m-ln95040-144-p3s2w11">
 <src.rf>manual</src.rf>
@@ -606,7 +606,7 @@
 <LM>w#w-ln95040-144-p3s3w20</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95040-144-p3s3w21">
 <src.rf>manual</src.rf>
@@ -638,7 +638,7 @@
 <LM>w#w-ln95040-144-p3s3w24</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95040-144-p3s3w25">
 <src.rf>manual</src.rf>

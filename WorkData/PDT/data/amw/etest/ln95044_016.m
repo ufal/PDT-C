@@ -210,7 +210,7 @@
 <LM>w#w-ln95044-016-p2s1Bw18</LM>
 </w.rf>
 <form>tajné</form>
-<tag lemma="tajný" src="orig" selected="1">AAFS2----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-ln95044-016-p2s1Bw19">
 <src.rf>manual</src.rf>
@@ -680,7 +680,7 @@
 <LM>w#w-ln95044-016-p3s3w2</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln95044-016-p3s3w3">
 <src.rf>manual</src.rf>
@@ -736,7 +736,7 @@
 <LM>w#w-ln95044-016-p3s3w9</LM>
 </w.rf>
 <form>naši</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSMP1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSMP1-P1-------</tag>
 </m>
 <m id="m-ln95044-016-p3s3w10">
 <src.rf>manual</src.rf>
@@ -922,7 +922,7 @@
 <LM>w#w-ln95044-016-p4s1w15</LM>
 </w.rf>
 <form>zeštíhlení</form>
-<tag lemma="zeštíhlení_^(*2t)" src="auto" selected="1">NNNS4-----A----</tag>
+<tag lemma="zeštíhlení_^(*2t)_(*3it)" src="auto" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln95044-016-p4s1w16">
 <src.rf>manual</src.rf>

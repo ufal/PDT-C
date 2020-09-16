@@ -35,7 +35,7 @@
 <LM>w#w-vesm9303-015-p1s1w3</LM>
 </w.rf>
 <form>myšlení</form>
-<tag lemma="myšlení_^(*5slet)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="myšlení_^(*5slit)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-vesm9303-015-p1s1w4">
 <src.rf>manual</src.rf>
@@ -411,7 +411,7 @@
 <LM>w#w-vesm9303-015-p1s3w13</LM>
 </w.rf>
 <form>naše</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSNS4-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSNS4-P1-------</tag>
 </m>
 <m id="m-vesm9303-015-p1s3w14">
 <src.rf>manual</src.rf>
@@ -623,7 +623,7 @@
 <LM>w#w-vesm9303-015-p2s1w4</LM>
 </w.rf>
 <form>lety</form>
-<tag lemma="rok" src="orig" selected="1">NNNP7-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP7-----A----</tag>
 </m>
 <m id="m-vesm9303-015-p2s1w5">
 <src.rf>manual</src.rf>
@@ -1135,7 +1135,7 @@
 <LM>w#w-vesm9303-015-p2s6w2</LM>
 </w.rf>
 <form>můj</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSIS4-S1-------</tag>
+<tag lemma="můj" src="orig" selected="1">PSIS4-S1-------</tag>
 </m>
 <m id="m-vesm9303-015-p2s6w3">
 <src.rf>manual</src.rf>
@@ -1143,7 +1143,7 @@
 <LM>w#w-vesm9303-015-p2s6w3</LM>
 </w.rf>
 <form>dlouhý</form>
-<tag lemma="dlouhý-1_^(fyz._délka;_př._dlouhá_tyč)" src="orig" selected="1">AAIS4----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAIS4----1A----</tag>
 </m>
 <m id="m-vesm9303-015-p2s6w4">
 <src.rf>manual</src.rf>
@@ -1767,7 +1767,7 @@
 <LM>w#w-vesm9303-015-p3s2w16</LM>
 </w.rf>
 <form>vranky</form>
-<tag lemma="vranka-2_;U_^(ryba_Cottus)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="vranka_^(ryba;kůň)" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-vesm9303-015-p3s2w17">
 <src.rf>manual</src.rf>
@@ -2191,7 +2191,7 @@
 <LM>w#w-vesm9303-015-p4s1w16</LM>
 </w.rf>
 <form>Panorama</form>
-<tag lemma="panorama" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="panorama-2_,s_^(^DD**panoráma-2)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-vesm9303-015-p4s1w17">
 <src.rf>manual</src.rf>

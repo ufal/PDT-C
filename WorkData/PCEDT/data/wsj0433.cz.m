@@ -33,7 +33,7 @@
 <AM lemma="tvůj_^(přivlast.)" src="auto">PSFS2-P2-------</AM>
 <AM lemma="tvůj_^(přivlast.)" src="auto">PSFS3-P2-------</AM>
 <AM lemma="tvůj_^(přivlast.)" src="auto">PSFS4-P2------6</AM>
-<AM lemma="tvůj_^(přivlast.)" src="auto" recommended="1">PSFS6-P2-------</AM>
+<AM lemma="váš" src="auto" recommended="1">PSFS6-P2-------</AM>
 <AM lemma="tvůj_^(přivlast.)" src="auto">PSFS7-P2-------</AM>
 </tag>
 </m>
@@ -457,7 +457,7 @@
 </w.rf>
 <form>my</form>
 <tag>
-<AM lemma="já" src="auto" recommended="1">PP-P1--1-------</AM>
+<AM lemma="my" src="auto" recommended="1">PP-P1--1-------</AM>
 <AM lemma="já" src="auto">PP-P5--1-------</AM>
 <AM lemma="my-77" src="auto">F%-------------</AM>
 </tag>
@@ -469,7 +469,7 @@
 </w.rf>
 <form>ne</form>
 <tag>
-<AM lemma="ne" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ne-1" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="neděle" src="auto">NNFXX-----A---8</AM>
 </tag>
 </m>
@@ -494,7 +494,7 @@
 <AM lemma="Yale_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Yale_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Yale_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Yale_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Yale-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0433-001-p1s2W2-Ta">

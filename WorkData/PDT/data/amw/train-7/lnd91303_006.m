@@ -369,7 +369,7 @@
 <LM>w#w-lnd91303-006-p2s3w3</LM>
 </w.rf>
 <form>oči</form>
-<tag lemma="oko" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="oko-2" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-lnd91303-006-p2s3w4">
 <src.rf>manual</src.rf>
@@ -449,7 +449,7 @@
 <LM>w#w-lnd91303-006-p2s3w13</LM>
 </w.rf>
 <form>cesty</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd91303-006-p2s3w14">
 <src.rf>manual</src.rf>
@@ -865,7 +865,7 @@
 <LM>w#w-lnd91303-006-p2s5w19</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS4----------</tag>
 </m>
 <m id="m-lnd91303-006-p2s5w20">
 <src.rf>manual</src.rf>
@@ -900,7 +900,7 @@
 <LM>w#w-lnd91303-006-p2s5w23</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-lnd91303-006-p2s5w24">
 <src.rf>manual</src.rf>
@@ -1049,7 +1049,7 @@
 <LM>w#w-lnd91303-006-p2s6w15</LM>
 </w.rf>
 <form>uculujících</form>
-<tag lemma="uculující_,e_^(*5ovat)" src="orig" selected="1">AGMP2-----A----</tag>
+<tag lemma="uculující_^(*5ovat)" src="orig" selected="1">AGMP2-----A----</tag>
 </m>
 <m id="m-lnd91303-006-p2s6w16">
 <src.rf>manual</src.rf>
@@ -1179,7 +1179,7 @@
 <LM>w#w-lnd91303-006-p2s7w13</LM>
 </w.rf>
 <form>vy</form>
-<tag lemma="ty" src="orig" selected="1">PP-P1--2-------</tag>
+<tag lemma="vy" src="orig" selected="1">PP-P1--2-------</tag>
 </m>
 <m id="m-lnd91303-006-p2s7w14">
 <src.rf>manual</src.rf>
@@ -1195,7 +1195,7 @@
 <LM>w#w-lnd91303-006-p2s7w15</LM>
 </w.rf>
 <form>co</form>
-<tag lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="orig" selected="1">P4XXX----------</tag>
+<tag lemma="co-4_^(který:_o_těch,_co_odešli)" src="orig" selected="1">P4XXX----------</tag>
 </m>
 <m id="m-lnd91303-006-p2s7w16">
 <src.rf>manual</src.rf>
@@ -2002,7 +2002,7 @@
 <LM>w#w-lnd91303-006-p4s2w13</LM>
 </w.rf>
 <form>objetí</form>
-<tag lemma="objetí_^(*4ejmout)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="objetí_^(*1)_(*4ejmout)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-lnd91303-006-p4s2w14">
 <src.rf>manual</src.rf>
@@ -2090,7 +2090,7 @@
 <LM>w#w-lnd91303-006-p4s2w24</LM>
 </w.rf>
 <form>dlouhého</form>
-<tag lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">AANS2----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AANS2----1A----</tag>
 </m>
 <m id="m-lnd91303-006-p4s2w25">
 <src.rf>manual</src.rf>
@@ -2798,7 +2798,7 @@
 <LM>w#w-lnd91303-006-p5s2w4</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS3----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS3----------</tag>
 </m>
 <m id="m-lnd91303-006-p5s2w5">
 <src.rf>manual</src.rf>
@@ -3018,7 +3018,7 @@
 <LM>w#w-lnd91303-006-p5s4w11</LM>
 </w.rf>
 <form>koketérií</form>
-<tag lemma="koketérie" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="koketérie_,s_^(^DD**koketerie)" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-lnd91303-006-p5s4w12">
 <src.rf>manual</src.rf>
@@ -3574,7 +3574,7 @@
 <LM>w#w-lnd91303-006-p7s1w9</LM>
 </w.rf>
 <form>jejím</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS6FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS6FS3-------</tag>
 </m>
 <m id="m-lnd91303-006-p7s1w10">
 <src.rf>manual</src.rf>
@@ -3702,7 +3702,7 @@
 <LM>w#w-lnd91303-006-p7s1w25</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FP4---------1</tag>
 </m>
 <m id="m-lnd91303-006-p7s1w26">
 <src.rf>manual</src.rf>
@@ -3750,7 +3750,7 @@
 <LM>w#w-lnd91303-006-p7s1w31</LM>
 </w.rf>
 <form>objetí</form>
-<tag lemma="objetí_^(*4ejmout)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="objetí_^(*1)_(*4ejmout)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-lnd91303-006-p7s1w32">
 <src.rf>manual</src.rf>

@@ -424,7 +424,7 @@
 <LM>w#w-ln94208-54-p2s2w4</LM>
 </w.rf>
 <form>Miroslav</form>
-<tag lemma="Miroslav_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Miroslav-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-54-p2s2w5">
 <src.rf>manual</src.rf>
@@ -507,7 +507,7 @@
 <LM>w#w-ln94208-54-p2s2w14</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94208-54-p2s2w15">
 <src.rf>manual</src.rf>
@@ -584,7 +584,7 @@
 <LM>w#w-ln94208-54-p2s3w8</LM>
 </w.rf>
 <form>kandidátky</form>
-<tag lemma="kandidátka_^(seznam_kandidátů)" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="kandidátka_^(*2)" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-ln94208-54-p2s3w9">
 <src.rf>manual</src.rf>
@@ -744,7 +744,7 @@
 <LM>w#w-ln94208-54-p2s4w18</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-ln94208-54-p2s4w19">
 <src.rf>manual</src.rf>
@@ -752,7 +752,7 @@
 <LM>w#w-ln94208-54-p2s4w19</LM>
 </w.rf>
 <form>členů</form>
-<tag lemma="člen" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94208-54-p2s4w20">
 <src.rf>manual</src.rf>
@@ -784,7 +784,7 @@
 <LM>w#w-ln94208-54-p2s4w23</LM>
 </w.rf>
 <form>masových</form>
-<tag lemma="masový-2_^(velký)" src="orig" selected="1">AAIP2----1A----</tag>
+<tag lemma="masový" src="orig" selected="1">AAIP2----1A----</tag>
 </m>
 <m id="m-ln94208-54-p2s4w24">
 <src.rf>manual</src.rf>

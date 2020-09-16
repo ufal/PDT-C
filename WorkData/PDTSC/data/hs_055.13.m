@@ -548,7 +548,7 @@
 <form>pana</form>
 <tag>
 <AM lemma="pan_^(oslovení)" src="auto">NNMS2-----A----</AM>
-<AM lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS4-----A----</AM>
+<AM lemma="pan" src="auto" recommended="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m055-d1t4729-7">
@@ -608,7 +608,7 @@
 <form>můj</form>
 <tag>
 <AM lemma="můj_^(přivlast.)" src="auto">PSIS4-S1-------</AM>
-<AM lemma="můj_^(přivlast.)" src="auto" recommended="1">PSYS1-S1-------</AM>
+<AM lemma="můj" src="auto" recommended="1">PSYS1-S1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSYS5-S1-------</AM>
 </tag>
 </m>
@@ -773,7 +773,7 @@
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8MS4----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8ZS2----------</AM>
-<AM lemma="svůj-1_^(přivlast.)_(*2)" src="manual" selected="1">P8MS4----------</AM>
+<AM lemma="svůj-1" src="manual" selected="1">P8MS4----------</AM>
 </tag>
 </m>
 <m id="m055-d1t4744-6">
@@ -1163,7 +1163,7 @@
 <AM lemma="ty" src="auto">PP-P2--2-------</AM>
 <AM lemma="ty" src="auto" recommended="1">PP-P4--2-------</AM>
 <AM lemma="ty" src="auto">PP-P6--2-------</AM>
-<AM lemma="ty_^(**já)" src="manual" selected="1">PP-P4--2-------</AM>
+<AM lemma="vy" src="manual" selected="1">PP-P4--2-------</AM>
 </tag>
 </m>
 <m id="m055-77-79">
@@ -1748,7 +1748,7 @@
 <tag>
 <AM lemma="ty" src="auto" recommended="1">PP-P1--2-------</AM>
 <AM lemma="ty" src="auto">PP-P5--2-------</AM>
-<AM lemma="ty_^(**já)" src="manual" selected="1">PP-P1--2-------</AM>
+<AM lemma="vy" src="manual" selected="1">PP-P1--2-------</AM>
 </tag>
 </m>
 <m id="m055-d1t4780-8">
@@ -2519,7 +2519,7 @@
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOFP-----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOIP-----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AONS-----------</AM>
-<AM lemma="svůj-1_^(přivlast.)_(*2)" src="manual" selected="1">P8YP4---------1</AM>
+<AM lemma="svůj-1" src="manual" selected="1">P8YP4---------1</AM>
 </tag>
 </m>
 <m id="m055-d1t4821-8">
@@ -2550,7 +2550,7 @@
 <form>letech</form>
 <tag>
 <AM lemma="let" src="auto">NNIP6-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP6-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP6-----A----</AM>
 </tag>
 </m>
 <m id="m055-d-m-d1e4818-x2-punct-punct">
@@ -2894,7 +2894,7 @@
 </w.rf>
 <form>ne</form>
 <tag>
-<AM lemma="ne" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ne-1" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="neděle_:B" src="auto">NNFXX-----A---8</AM>
 </tag>
 </m>
@@ -2936,7 +2936,7 @@
 <LM>w#w-d1t4866-4</LM>
 </w.rf>
 <form>nedá</form>
-<tag lemma="dát" src="auto" recommended="1">VB-S---3P-NAP--</tag>
+<tag lemma="dát-1" src="auto" recommended="1">VB-S---3P-NAP--</tag>
 </m>
 <m id="m055-d1t4866-5">
 <w.rf>
@@ -3267,7 +3267,7 @@
 <AM lemma="tvůj_^(přivlast.)" src="auto" recommended="1">PSIS4-P2-------</AM>
 <AM lemma="tvůj_^(přivlast.)" src="auto">PSYS1-P2-------</AM>
 <AM lemma="tvůj_^(přivlast.)" src="auto">PSYS5-P2-------</AM>
-<AM lemma="tvůj_^(**můj)_(přivlast.)" src="manual" selected="1">PSIS4-P2-------</AM>
+<AM lemma="váš" src="manual" selected="1">PSIS4-P2-------</AM>
 </tag>
 </m>
 <m id="m055-d1t4881-5">
@@ -3302,7 +3302,7 @@
 <AM lemma="moc-1_^(nad_někým;_politická,_vojenská;_plná,...)" src="auto">NNFS1-----A----</AM>
 <AM lemma="moc-1_^(nad_někým;_politická,_vojenská;_plná,...)" src="auto">NNFS4-----A----</AM>
 <AM lemma="moc-2_^(mnoho_něčeho_[se_subst._v_gen.])" src="auto">Ca--X----------</AM>
-<AM lemma="moc-3_^(velmi,_ve_spojení_s_adj.,_př._moc_hezká)" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="moc-3_^(moc_hezká,_moc_peněz)" src="auto" recommended="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m055-d1t4883-2">
@@ -3596,7 +3596,7 @@
 <AM lemma="ty" src="auto">PP-P2--2-------</AM>
 <AM lemma="ty" src="auto" recommended="1">PP-P4--2-------</AM>
 <AM lemma="ty" src="auto">PP-P6--2-------</AM>
-<AM lemma="ty_^(**já)" src="manual" selected="1">PP-P4--2-------</AM>
+<AM lemma="vy" src="manual" selected="1">PP-P4--2-------</AM>
 </tag>
 </m>
 <m id="m055-d1t4909-6">

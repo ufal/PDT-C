@@ -400,7 +400,7 @@
 <LM>w#w-ln94208-57-p2s1Cw28</LM>
 </w.rf>
 <form>kandidátky</form>
-<tag lemma="kandidátka_^(seznam_kandidátů)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="kandidátka_^(*2)" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-ln94208-57-p2s1Cw29">
 <src.rf>manual</src.rf>
@@ -749,7 +749,7 @@
 <LM>w#w-ln94208-57-p2s3w20</LM>
 </w.rf>
 <form>kandidátky</form>
-<tag lemma="kandidátka_^(seznam_kandidátů)" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="kandidátka_^(*2)" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-ln94208-57-p2s3w21">
 <src.rf>manual</src.rf>

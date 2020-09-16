@@ -1190,7 +1190,7 @@
 <AM lemma="spadající-1_^(do_kategorie)_(*6t-1)" src="auto">AGFP1-----A----</AM>
 <AM lemma="spadající-1_^(do_kategorie)_(*6t-1)" src="auto">AGFP4-----A----</AM>
 <AM lemma="spadající-1_^(do_kategorie)_(*6t-1)" src="auto">AGFP5-----A----</AM>
-<AM lemma="spadající-1_^(do_kategorie)_(*6t-1)" src="auto" selected="1">AGFS1-----A----</AM>
+<AM lemma="spadající-1_^(*6t-1)" src="auto" selected="1">AGFS1-----A----</AM>
 <AM lemma="spadající-1_^(do_kategorie)_(*6t-1)" src="auto" recommended="1">AGFS2-----A----</AM>
 <AM lemma="spadající-1_^(do_kategorie)_(*6t-1)" src="auto">AGFS3-----A----</AM>
 <AM lemma="spadající-1_^(do_kategorie)_(*6t-1)" src="auto">AGFS4-----A----</AM>

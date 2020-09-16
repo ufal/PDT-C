@@ -102,7 +102,7 @@
 <LM>w#w-ln95044-034-p1s1w11</LM>
 </w.rf>
 <form>nejlepšího</form>
-<tag lemma="dobrý" src="orig" selected="1">AAMS4----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAMS4----3A----</tag>
 </m>
 <m id="m-ln95044-034-p1s1w12">
 <src.rf>manual</src.rf>
@@ -150,7 +150,7 @@
 <LM>w#w-ln95044-034-p1s1w17</LM>
 </w.rf>
 <form>Buffalo</form>
-<tag lemma="Buffalo-2_;m_^(sport.:_souč._názvu)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Buffalo-1_;G_;m_^(město_sport._klub)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95044-034-p1s1w18">
 <src.rf>manual</src.rf>

@@ -186,7 +186,7 @@
 <LM>w#w-mf920901-068-p2s2w7</LM>
 </w.rf>
 <form>černá</form>
-<tag lemma="černý" src="auto" selected="1">AAFS1----1A----</tag>
+<tag lemma="černý_;o" src="auto" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-mf920901-068-p2s2w8">
 <src.rf>manual</src.rf>
@@ -247,7 +247,7 @@
 <LM>w#w-mf920901-068-p2s3w2</LM>
 </w.rf>
 <form>duchu</form>
-<tag lemma="duch" src="orig" selected="1">NNMS6-----A---1</tag>
+<tag lemma="duch-1" src="orig" selected="1">NNMS6-----A---1</tag>
 </m>
 <m id="m-mf920901-068-p2s3w3">
 <src.rf>manual</src.rf>
@@ -436,7 +436,7 @@
 <LM>w#w-mf920901-068-p2s4w13</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-mf920901-068-p2s4w14">
 <src.rf>manual</src.rf>
@@ -452,7 +452,7 @@
 <LM>w#w-mf920901-068-p2s4w15</LM>
 </w.rf>
 <form>roli</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="role_^(svitek_poslání_pozemek)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf920901-068-p2s4w16">
 <src.rf>manual</src.rf>
@@ -808,7 +808,7 @@
 <LM>w#w-mf920901-068-p2s6w12</LM>
 </w.rf>
 <form>sny</form>
-<tag lemma="sen" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="sen-1" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-mf920901-068-p2s6w13">
 <src.rf>manual</src.rf>

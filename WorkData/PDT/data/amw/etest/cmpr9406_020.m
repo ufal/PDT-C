@@ -258,7 +258,7 @@
 <LM>w#w-cmpr9406-020-p6s1w4</LM>
 </w.rf>
 <form>mm</form>
-<tag lemma="mm-1`milimetr" src="orig" selected="1">NNIXX-----A---b</tag>
+<tag lemma="milimetr" src="orig" selected="1">NNIXX-----A---b</tag>
 </m>
 <m id="m-cmpr9406-020-p6s1w5">
 <src.rf>manual</src.rf>
@@ -497,7 +497,7 @@
 <LM>w#w-cmpr9406-020-p8s3w2</LM>
 </w.rf>
 <form>zkrácené</form>
-<tag lemma="zkrácený_,a_^(*2t)" src="auto" selected="1">AAFS2----1A----</tag>
+<tag lemma="zkrácený_^(*4tit)" src="auto" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-cmpr9406-020-p8s3w3">
 <src.rf>manual</src.rf>

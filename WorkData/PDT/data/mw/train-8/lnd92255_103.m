@@ -96,7 +96,7 @@
 <LM>w#w-lnd92255-103-p2s1w7</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-lnd92255-103-p2s1w8">
 <src.rf>manual</src.rf>
@@ -258,7 +258,7 @@
 <LM>w#w-lnd92255-103-p2s2w5</LM>
 </w.rf>
 <form>naše</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSHS1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSHS1-P1-------</tag>
 </m>
 <m id="m-lnd92255-103-p2s2w6">
 <src.rf>manual</src.rf>
@@ -324,7 +324,7 @@
 <LM>w#w-lnd92255-103-p2s3w3</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-lnd92255-103-p2s3w4">
 <src.rf>manual</src.rf>
@@ -348,7 +348,7 @@
 <LM>w#w-lnd92255-103-p2s3w6</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-lnd92255-103-p2s3w7">
 <src.rf>manual</src.rf>
@@ -356,7 +356,7 @@
 <LM>w#w-lnd92255-103-p2s3w7</LM>
 </w.rf>
 <form>ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-lnd92255-103-p2s3w8">
 <src.rf>manual</src.rf>
@@ -513,7 +513,7 @@
 <LM>w#w-lnd92255-103-p3s1w18</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-lnd92255-103-p3s1w19">
 <src.rf>manual</src.rf>
@@ -1218,7 +1218,7 @@
 <LM>w#w-lnd92255-103-p4s2w24</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd92255-103-p4s2w25">
 <src.rf>manual</src.rf>
@@ -1757,7 +1757,7 @@
 <LM>w#w-lnd92255-103-p5s1w1</LM>
 </w.rf>
 <form>MIROSLAV</form>
-<tag lemma="Miroslav_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Miroslav-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-103-p5s1w2">
 <src.rf>manual</src.rf>

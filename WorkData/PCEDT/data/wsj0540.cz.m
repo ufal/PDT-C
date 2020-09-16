@@ -985,7 +985,7 @@
 <AM lemma="York-1_;Y" src="auto">NNMS3-----A---1</AM>
 <AM lemma="York-1_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="York-1_;Y" src="auto">NNMS6-----A---1</AM>
-<AM lemma="York-2_;G" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="York-2_;G_;m" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS5-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS6-----A----</AM>
@@ -1114,7 +1114,7 @@
 <form>zdaněním</form>
 <tag>
 <AM lemma="zdanění_^(vypočítat_daň)_(*3it)" src="auto">NNNP3-----A----</AM>
-<AM lemma="zdanění_^(vypočítat_daň)_(*3it)" src="auto" recommended="1">NNNS7-----A----</AM>
+<AM lemma="zdanění_^(*3it)" src="auto" recommended="1">NNNS7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0540-001-p1s2W18-Ta">
@@ -1144,7 +1144,7 @@
 <form>svého</form>
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8MS4----------</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8ZS2----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8ZS2----------</AM>
 </tag>
 </m>
 <m id="m-wsj0540-001-p1s2W21-Ta">
@@ -1448,7 +1448,7 @@
 <AM lemma="zdanění_^(vypočítat_daň)_(*3it)" src="auto">NNNP5-----A----</AM>
 <AM lemma="zdanění_^(vypočítat_daň)_(*3it)" src="auto">NNNS1-----A----</AM>
 <AM lemma="zdanění_^(vypočítat_daň)_(*3it)" src="auto">NNNS2-----A----</AM>
-<AM lemma="zdanění_^(vypočítat_daň)_(*3it)" src="auto" selected="1">NNNS3-----A----</AM>
+<AM lemma="zdanění_^(*3it)" src="auto" selected="1">NNNS3-----A----</AM>
 <AM lemma="zdanění_^(vypočítat_daň)_(*3it)" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="zdanění_^(vypočítat_daň)_(*3it)" src="auto">NNNS5-----A----</AM>
 <AM lemma="zdanění_^(vypočítat_daň)_(*3it)" src="auto">NNNS6-----A----</AM>
@@ -2155,7 +2155,7 @@
 <form>letech</form>
 <tag>
 <AM lemma="let" src="auto">NNIP6-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP6-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0540-001-p1s5W28-Ta">

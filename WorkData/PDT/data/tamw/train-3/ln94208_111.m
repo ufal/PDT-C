@@ -35,7 +35,7 @@
 <LM>w#w-ln94208-111-p1s1w3</LM>
 </w.rf>
 <form>Slavii</form>
-<tag lemma="Slavia_;m" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Slavie_;m_,s_^(^DD**Slávie)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 </s>
 <s id="m-ln94208-111-p2s1A">
@@ -358,7 +358,7 @@
 <LM>w#w-ln94208-111-p2s3w9</LM>
 </w.rf>
 <form>delší</form>
-<tag lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">AAFS4----2A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFS4----2A----</tag>
 </m>
 <m id="m-ln94208-111-p2s3w10">
 <src.rf>manual</src.rf>
@@ -406,7 +406,7 @@
 <LM>w#w-ln94208-111-p2s3w15</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-ln94208-111-p2s3w16">
 <src.rf>manual</src.rf>
@@ -481,7 +481,7 @@
 <LM>w#w-ln94208-111-p2s3w24</LM>
 </w.rf>
 <form>manažer</form>
-<tag lemma="manažer" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="manažer-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-111-p2s3w25">
 <src.rf>manual</src.rf>
@@ -489,7 +489,7 @@
 <LM>w#w-ln94208-111-p2s3w25</LM>
 </w.rf>
 <form>červenobílých</form>
-<tag lemma="červenobílý" src="orig" selected="1">AAMP2----1A----</tag>
+<tag lemma="červenobílý_;o" src="orig" selected="1">AAMP2----1A----</tag>
 </m>
 <m id="m-ln94208-111-p2s3w26">
 <src.rf>manual</src.rf>
@@ -667,7 +667,7 @@
 <LM>w#w-ln94208-111-p2s4w12</LM>
 </w.rf>
 <form>sezoně</form>
-<tag lemma="sezona" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="sezona_,s_^(^DD**sezóna)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94208-111-p2s4w13">
 <src.rf>manual</src.rf>

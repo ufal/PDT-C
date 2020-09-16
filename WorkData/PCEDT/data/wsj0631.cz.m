@@ -306,7 +306,7 @@
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8XP3----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8ZS6---------7</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8ZS7----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8ZS7----------</AM>
 </tag>
 </m>
 <m id="m-wsj0631-001-p1s0W23-Ta">
@@ -740,7 +740,7 @@
 </w.rf>
 <form>vlastněná</form>
 <tag>
-<AM lemma="vlastněný_^(někdo_má_něco_ve_vlastnictví)_(*3it)" src="auto" recommended="1">AAFS1----1A----</AM>
+<AM lemma="vlastněný_^(*3it)" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="vlastněný_^(někdo_má_něco_ve_vlastnictví)_(*3it)" src="auto">AAFS5----1A----</AM>
 <AM lemma="vlastněný_^(někdo_má_něco_ve_vlastnictví)_(*3it)" src="auto">AANP1----1A----</AM>
 <AM lemma="vlastněný_^(někdo_má_něco_ve_vlastnictví)_(*3it)" src="auto">AANP4----1A----</AM>

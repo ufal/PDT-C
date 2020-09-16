@@ -235,7 +235,7 @@
 <LM>w#w-ln95044-013-p2s1Bw16</LM>
 </w.rf>
 <form>vydání</form>
-<tag lemma="vydání-2_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)_(*5at-2)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="vydání_^(*3at)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln95044-013-p2s1Bw17">
 <src.rf>manual</src.rf>
@@ -320,7 +320,7 @@
 <LM>w#w-ln95044-013-p2s2w4</LM>
 </w.rf>
 <form>vedoucí</form>
-<tag lemma="vedoucí-2" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="vedoucí-3" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95044-013-p2s2w5">
 <src.rf>manual</src.rf>
@@ -1397,7 +1397,7 @@
 <LM>w#w-ln95044-013-p5s1w8</LM>
 </w.rf>
 <form>vydání</form>
-<tag lemma="vydání-2_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)_(*5at-2)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="vydání_^(*3at)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln95044-013-p5s1w9">
 <src.rf>manual</src.rf>

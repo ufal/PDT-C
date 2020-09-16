@@ -74,7 +74,7 @@
 <LM>w#w-ln95044-009-p2s1Bw1</LM>
 </w.rf>
 <form>Prvních</form>
-<tag lemma="první" src="orig" selected="1">CrFP2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFP2----------</tag>
 </m>
 <m id="m-ln95044-009-p2s1Bw2">
 <src.rf>manual</src.rf>
@@ -186,7 +186,7 @@
 <LM>w#w-ln95044-009-p2s1Bw15</LM>
 </w.rf>
 <form>nezaměstnaní</form>
-<tag lemma="zaměstnaný-1_^(všeob._význam:_činnost,_zaměstnání)_(*4t-1)" src="orig" selected="1">AAMP1----1N----</tag>
+<tag lemma="zaměstnaný_^(*2t)" src="orig" selected="1">AAMP1----1N----</tag>
 </m>
 <m id="m-ln95044-009-p2s1Bw16">
 <src.rf>manual</src.rf>
@@ -250,7 +250,7 @@
 <LM>w#w-ln95044-009-p2s1Bw23</LM>
 </w.rf>
 <form>Ostravsko</form>
-<tag lemma="ostravský" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="ostravsko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-ln95044-009-p2s1Bw24">
 <src.rf>manual</src.rf>
@@ -376,7 +376,7 @@
 <LM>w#w-ln95044-009-p2s2w11</LM>
 </w.rf>
 <form>černého</form>
-<tag lemma="černý" src="auto" selected="1">AANS2----1A----</tag>
+<tag lemma="černý_;o" src="auto" selected="1">AANS2----1A----</tag>
 </m>
 <m id="m-ln95044-009-p2s2w12">
 <src.rf>manual</src.rf>
@@ -876,7 +876,7 @@
 <LM>w#w-ln95044-009-p4s2w2</LM>
 </w.rf>
 <form>zaměstnání</form>
-<tag lemma="zaměstnání-1_^(všeob._význam:_činnost,_zaměstnání)_(*5at-1)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="zaměstnání_^(*3at)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln95044-009-p4s2w3">
 <src.rf>manual</src.rf>
@@ -1030,7 +1030,7 @@
 <LM>w#w-ln95044-009-p5s1w5</LM>
 </w.rf>
 <form>zaměstnání</form>
-<tag lemma="zaměstnání-1_^(všeob._význam:_činnost,_zaměstnání)_(*5at-1)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="zaměstnání_^(*3at)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln95044-009-p5s1w6">
 <src.rf>manual</src.rf>

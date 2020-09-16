@@ -62,7 +62,7 @@
 <LM>w#w-lnd94104-058-p1s1w6</LM>
 </w.rf>
 <form>umění</form>
-<tag lemma="umění_^(mít_schopnost_něco_dělat)_(*2t)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="umění_^(*2t)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 </s>
 <s id="m-lnd94104-058-p1s2">
@@ -522,7 +522,7 @@
 <form>sympozia</form>
 <tag>
 <AM lemma="sympózium" src="orig">NNNS2-----A----</AM>
-<AM lemma="sympozium_,s_^(^DD**sympózium)" src="manual" selected="1">NNNS2-----A----</AM>
+<AM lemma="sympozium" src="manual" selected="1">NNNS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-058-p1s5w13">
@@ -911,7 +911,7 @@
 <LM>w#w-lnd94104-058-p1s7w7</LM>
 </w.rf>
 <form>umění</form>
-<tag lemma="umění_^(mít_schopnost_něco_dělat)_(*2t)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="umění_^(*2t)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-lnd94104-058-p1s7w8">
 <src.rf>manual</src.rf>
@@ -1105,7 +1105,7 @@
 <LM>w#w-lnd94104-058-p1s8w12</LM>
 </w.rf>
 <form>cesty</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-lnd94104-058-p1s8w13">
 <src.rf>manual</src.rf>
@@ -1211,7 +1211,7 @@
 <form>role</form>
 <tag>
 <AM lemma="role-1_^(kotouč;_svitek)" src="orig">NNFS2-----A----</AM>
-<AM lemma="role-2_^(herecká_úloha;_poslání)" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="role_^(svitek_poslání_pozemek)" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-058-p1s8w26">

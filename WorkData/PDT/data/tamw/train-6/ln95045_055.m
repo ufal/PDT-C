@@ -443,7 +443,7 @@
 <LM>w#w-ln95045-055-p2s3w10</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95045-055-p2s3w11">
 <src.rf>manual</src.rf>
@@ -915,7 +915,7 @@
 <LM>w#w-ln95045-055-p3s2w17</LM>
 </w.rf>
 <form>naše</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSNS4-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSNS4-P1-------</tag>
 </m>
 <m id="m-ln95045-055-p3s2w18">
 <src.rf>manual</src.rf>
@@ -939,7 +939,7 @@
 <LM>w#w-ln95045-055-p3s2w20</LM>
 </w.rf>
 <form>ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln95045-055-p3s2w21">
 <src.rf>manual</src.rf>
@@ -947,7 +947,7 @@
 <LM>w#w-ln95045-055-p3s2w21</LM>
 </w.rf>
 <form>my</form>
-<tag lemma="já" src="orig" selected="1">PP-P1--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P1--1-------</tag>
 </m>
 <m id="m-ln95045-055-p3s2w22">
 <src.rf>manual</src.rf>
@@ -1038,7 +1038,7 @@
 <LM>w#w-ln95045-055-p4s1w7</LM>
 </w.rf>
 <form>dá</form>
-<tag lemma="dát" src="orig" selected="1">VB-S---3P-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln95045-055-p4s1w8">
 <src.rf>manual</src.rf>
@@ -1183,7 +1183,7 @@
 <LM>w#w-ln95045-055-p4s1w25</LM>
 </w.rf>
 <form>zostřeným</form>
-<tag lemma="zostřený_^(*2t)" src="auto" selected="1">AAIP3----1A----</tag>
+<tag lemma="zostřený_^(*2t)_(*3it)" src="auto" selected="1">AAIP3----1A----</tag>
 </m>
 <m id="m-ln95045-055-p4s1w26">
 <src.rf>manual</src.rf>
@@ -1363,7 +1363,7 @@
 <LM>w#w-ln95045-055-p4s3w9</LM>
 </w.rf>
 <form>právo</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln95045-055-p4s3w10">
 <src.rf>manual</src.rf>

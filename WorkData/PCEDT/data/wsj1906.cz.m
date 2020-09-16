@@ -1202,7 +1202,7 @@
 <AM lemma="druhý" src="auto">CrFP4----------</AM>
 <AM lemma="druhý" src="auto">CrFP5----------</AM>
 <AM lemma="druhý" src="auto">CrFS2----------</AM>
-<AM lemma="druhý" src="auto" recommended="1">CrFS3----------</AM>
+<AM lemma="druhý`2" src="auto" recommended="1">CrFS3----------</AM>
 <AM lemma="druhý" src="auto">CrFS6----------</AM>
 <AM lemma="druhý" src="auto">CrIP1----------</AM>
 <AM lemma="druhý" src="auto">CrIP4----------</AM>
@@ -1243,7 +1243,7 @@
 <form>Karen</form>
 <tag>
 <AM lemma="Karen-1_;E_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Karen-1_;Y" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Karen-3_;Y" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="Karen-2_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Karen-2_;G" src="auto">NNIS4-----A----</AM>
 </tag>

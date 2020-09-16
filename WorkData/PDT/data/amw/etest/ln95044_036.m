@@ -276,7 +276,7 @@
 <LM>w#w-ln95044-036-p2s2w18</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-ln95044-036-p2s2w19">
 <src.rf>manual</src.rf>
@@ -324,7 +324,7 @@
 <LM>w#w-ln95044-036-p2s2w24</LM>
 </w.rf>
 <form>Sampdorií</form>
-<tag lemma="Sampdoria_;m" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Sampdoria_;G_;m" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln95044-036-p2s2w25">
 <src.rf>manual</src.rf>
@@ -570,7 +570,7 @@
 <LM>w#w-ln95044-036-p2s5w3</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-ln95044-036-p2s5w4">
 <src.rf>manual</src.rf>
@@ -629,7 +629,7 @@
 <LM>w#w-ln95044-036-p2s5w10</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrIS7----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS7----------</tag>
 </m>
 <m id="m-ln95044-036-p2s5w11">
 <src.rf>manual</src.rf>

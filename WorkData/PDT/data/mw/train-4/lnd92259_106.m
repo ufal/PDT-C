@@ -937,7 +937,7 @@
 <LM>w#w-lnd92259-106-p4s3w14</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92259-106-p4s3w15">
 <src.rf>manual</src.rf>

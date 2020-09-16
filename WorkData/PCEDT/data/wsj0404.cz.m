@@ -244,7 +244,7 @@
 <AM lemma="převzetí_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="auto">NNNS3-----A----</AM>
 <AM lemma="převzetí_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="auto">NNNS4-----A----</AM>
 <AM lemma="převzetí_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="auto">NNNS5-----A----</AM>
-<AM lemma="převzetí_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="auto" recommended="1">NNNS6-----A----</AM>
+<AM lemma="převzetí_^(*3ít)" src="auto" recommended="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0404-001-p1s0W19-Ta">
@@ -826,7 +826,7 @@
 </w.rf>
 <form>svou</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8FS4---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8FS4---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS7---------1</AM>
 </tag>
 </m>
@@ -1496,7 +1496,7 @@
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS1---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS4---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS5---------1</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8YP4---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8YP4---------1</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOFP-----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOIP-----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AONS-----------</AM>
@@ -1644,7 +1644,7 @@
 <tag>
 <AM lemma="moci" src="auto">Vf--------N-I--</AM>
 <AM lemma="nemoc_^(choroba)" src="auto">NNFP1-----A----</AM>
-<AM lemma="nemoc_^(choroba)" src="auto" recommended="1">NNFP4-----A----</AM>
+<AM lemma="nemoc" src="auto" recommended="1">NNFP4-----A----</AM>
 <AM lemma="nemoc_^(choroba)" src="auto">NNFP5-----A----</AM>
 <AM lemma="nemoc_^(choroba)" src="auto">NNFS2-----A----</AM>
 <AM lemma="nemoc_^(choroba)" src="auto">NNFS3-----A----</AM>
@@ -3286,7 +3286,7 @@
 </w.rf>
 <form>koupí</form>
 <tag>
-<AM lemma="koupit_^(něco_sobě/někomu)" src="auto" selected="1">VB-P---3P-AAP--</AM>
+<AM lemma="koupit" src="auto" selected="1">VB-P---3P-AAP--</AM>
 <AM lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VB-S---3P-AAP--</AM>
 <AM lemma="koupě_^(př._byla_to_dobrá_koupě)" src="auto">NNFP2-----A----</AM>
 <AM lemma="koupě_^(př._byla_to_dobrá_koupě)" src="auto">NNFS7-----A----</AM>
@@ -3584,7 +3584,7 @@
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS1---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS4---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS5---------1</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8YP4---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8YP4---------1</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOFP-----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOIP-----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AONS-----------</AM>
@@ -4164,7 +4164,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0404-001-p1s12W5-Ta">
@@ -6209,7 +6209,7 @@
 <form>jenom</form>
 <tag>
 <AM lemma="jenom-1_,s_^(^DD**jen-1)" src="auto">TT-------------</AM>
-<AM lemma="jenom-2_,s_^(pouze)_(^DD**jen-4)" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="jenom-2_^(pouze)" src="auto" recommended="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0404-001-p1s17W17-Ta">
@@ -6327,7 +6327,7 @@
 </w.rf>
 <form>nemocí</form>
 <tag>
-<AM lemma="nemoc_^(choroba)" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="nemoc" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="nemoc_^(choroba)" src="auto">NNFS7-----A----</AM>
 </tag>
 </m>
@@ -6634,7 +6634,7 @@
 </w.rf>
 <form>svých</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8XP2----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8XP2----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8XP6----------</AM>
 </tag>
 </m>
@@ -7172,7 +7172,7 @@
 <form>nás</form>
 <tag>
 <AM lemma="já" src="auto">PP-P2--1-------</AM>
-<AM lemma="já" src="auto" recommended="1">PP-P4--1-------</AM>
+<AM lemma="my" src="auto" recommended="1">PP-P4--1-------</AM>
 <AM lemma="já" src="auto">PP-P6--1-------</AM>
 </tag>
 </m>
@@ -7489,7 +7489,7 @@
 <AM lemma="převzetí_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="auto">NNNP4-----A----</AM>
 <AM lemma="převzetí_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="auto">NNNP5-----A----</AM>
 <AM lemma="převzetí_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="auto">NNNS1-----A----</AM>
-<AM lemma="převzetí_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="převzetí_^(*3ít)" src="auto" recommended="1">NNNS2-----A----</AM>
 <AM lemma="převzetí_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="auto">NNNS3-----A----</AM>
 <AM lemma="převzetí_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="auto">NNNS4-----A----</AM>
 <AM lemma="převzetí_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="auto">NNNS5-----A----</AM>
@@ -8315,7 +8315,7 @@
 <AM lemma="ribosomální_;U_,s_^(^DD**ribozomální)" src="auto">AAFP1----1A----</AM>
 <AM lemma="ribosomální_;U_,s_^(^DD**ribozomální)" src="auto">AAFP4----1A----</AM>
 <AM lemma="ribosomální_;U_,s_^(^DD**ribozomální)" src="auto">AAFP5----1A----</AM>
-<AM lemma="ribosomální_;U_,s_^(^DD**ribozomální)" src="auto" selected="1">AAFS1----1A----</AM>
+<AM lemma="ribosomální_,s_^(^DD**ribozomální)" src="auto" selected="1">AAFS1----1A----</AM>
 <AM lemma="ribosomální_;U_,s_^(^DD**ribozomální)" src="auto" recommended="1">AAFS2----1A----</AM>
 <AM lemma="ribosomální_;U_,s_^(^DD**ribozomální)" src="auto">AAFS3----1A----</AM>
 <AM lemma="ribosomální_;U_,s_^(^DD**ribozomální)" src="auto">AAFS4----1A----</AM>
@@ -8651,7 +8651,7 @@
 <tag>
 <AM lemma="AIDS-1_;U_^(Syndrom_získaného_selhání_imunity)" src="auto">NNIS1-----A----</AM>
 <AM lemma="AIDS-1_;U_^(Syndrom_získaného_selhání_imunity)" src="auto">NNIS4-----A----</AM>
-<AM lemma="AIDS-2_;U_^(Syndrom_získaného_selhání_imunity)" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="AIDS_;U_^(Syndrom_získaného_selhání_imunity)" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="aids_:B_;U_,s_^(^DD**AIDS-1)" src="auto">NNIS1-----A----</AM>
 <AM lemma="aids_:B_;U_,s_^(^DD**AIDS-1)" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -9060,7 +9060,7 @@
 <AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AANS1----1A----</AM>
 <AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AANS4----1A----</AM>
 <AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AANS5----1A----</AM>
-<AM lemma="konkurzní_^(týkající_se_úpadku,_soutěže)" src="manual" selected="1">AAFS2----1A----</AM>
+<AM lemma="konkurzní" src="manual" selected="1">AAFS2----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0404-001-p1s26W7-Ta">

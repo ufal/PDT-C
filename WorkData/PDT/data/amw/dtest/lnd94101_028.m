@@ -61,7 +61,7 @@
 <LM>w#w-lnd94101-028-p1s1Bw3</LM>
 </w.rf>
 <form>hodiny</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94101-028-p1s1Bw4">
 <src.rf>manual</src.rf>
@@ -151,7 +151,7 @@
 <LM>w#w-lnd94101-028-p1s2w2</LM>
 </w.rf>
 <form>Olšanském</form>
-<tag lemma="Olšanský_;G" src="orig" selected="1">AANS6----1A----</tag>
+<tag lemma="olšanský" src="orig" selected="1">AANS6----1A----</tag>
 </m>
 <m id="m-lnd94101-028-p1s2w3">
 <src.rf>manual</src.rf>
@@ -223,7 +223,7 @@
 <LM>w#w-lnd94101-028-p1s2w11</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd94101-028-p1s2w12">
 <src.rf>manual</src.rf>

@@ -154,7 +154,7 @@
 <LM>w#w-ln94206-137-p2s1Bw5</LM>
 </w.rf>
 <form>Colorado</form>
-<tag lemma="Colorado_;G" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Colorado-1_;G" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94206-137-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -386,7 +386,7 @@
 <LM>w#w-ln94206-137-p2s2w20</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-ln94206-137-p2s2w21">
 <src.rf>manual</src.rf>
@@ -458,7 +458,7 @@
 <LM>w#w-ln94206-137-p2s2w29</LM>
 </w.rf>
 <form>Colorado</form>
-<tag lemma="Colorado_;G" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Colorado-1_;G" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94206-137-p2s2w30">
 <src.rf>manual</src.rf>
@@ -524,7 +524,7 @@
 <LM>w#w-ln94206-137-p2s3w7</LM>
 </w.rf>
 <form>lety</form>
-<tag lemma="rok" src="orig" selected="1">NNNP7-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP7-----A----</tag>
 </m>
 <m id="m-ln94206-137-p2s3w8">
 <src.rf>manual</src.rf>
@@ -1260,7 +1260,7 @@
 <LM>w#w-ln94206-137-p3s4w21</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-ln94206-137-p3s4w22">
 <src.rf>manual</src.rf>
@@ -1398,7 +1398,7 @@
 <LM>w#w-ln94206-137-p4s1w9</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrNS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS1----------</tag>
 </m>
 <m id="m-ln94206-137-p4s1w10">
 <src.rf>manual</src.rf>
@@ -1536,7 +1536,7 @@
 <LM>w#w-ln94206-137-p4s2w2</LM>
 </w.rf>
 <form>dny</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-ln94206-137-p4s2w3">
 <src.rf>manual</src.rf>
@@ -1738,7 +1738,7 @@
 <LM>w#w-ln94206-137-p4s3w13</LM>
 </w.rf>
 <form>rozvod</form>
-<tag lemma="rozvod-1_^(manželství)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="rozvod_^(manželství;vody)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln94206-137-p4s3w14">
 <src.rf>manual</src.rf>
@@ -1786,7 +1786,7 @@
 <LM>w#w-ln94206-137-p4s3w19</LM>
 </w.rf>
 <form>vydání</form>
-<tag lemma="vydání-2_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)_(*5at-2)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="vydání_^(*3at)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln94206-137-p4s3w20">
 <src.rf>manual</src.rf>
@@ -1898,7 +1898,7 @@
 <LM>w#w-ln94206-137-p4s3w33</LM>
 </w.rf>
 <form>děti</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-ln94206-137-p4s3w34">
 <src.rf>manual</src.rf>
@@ -1916,7 +1916,7 @@
 <LM>w#w-ln94206-137-p4s4w1</LM>
 </w.rf>
 <form>Náš</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSYS1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSYS1-P1-------</tag>
 </m>
 <m id="m-ln94206-137-p4s4w2">
 <src.rf>manual</src.rf>
@@ -1972,7 +1972,7 @@
 <LM>w#w-ln94206-137-p4s4w8</LM>
 </w.rf>
 <form>Colorado</form>
-<tag lemma="Colorado_;G" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Colorado-1_;G" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94206-137-p4s4w9">
 <src.rf>manual</src.rf>

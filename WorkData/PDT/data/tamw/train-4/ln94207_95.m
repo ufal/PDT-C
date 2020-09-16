@@ -984,7 +984,7 @@
 <form>MARIO</form>
 <tag>
 <AM lemma="Mario_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mario_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Mario_;Y_,s_^(^DD**Mário)" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-95-p3s1w17">
@@ -1150,7 +1150,7 @@
 <form>Odeonu</form>
 <tag>
 <AM lemma="Odeon_;Y" src="auto">NNIS2-----A----</AM>
-<AM lemma="Odeon-2_;m" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Odeon_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-95-p3s1w37">
@@ -1309,7 +1309,7 @@
 <LM>w#w-ln94207-95-p3s2w16</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-ln94207-95-p3s2w17">
 <src.rf>manual</src.rf>
@@ -1421,7 +1421,7 @@
 <LM>w#w-ln94207-95-p3s2w30</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP2-P1-------</tag>
 </m>
 <m id="m-ln94207-95-p3s2w31">
 <src.rf>manual</src.rf>
@@ -1522,7 +1522,7 @@
 <LM>w#w-ln94207-95-p4s1w1</LM>
 </w.rf>
 <form>Druhá</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS1----------</tag>
 </m>
 <m id="m-ln94207-95-p4s1w2">
 <src.rf>manual</src.rf>
@@ -1578,7 +1578,7 @@
 <LM>w#w-ln94207-95-p4s1w8</LM>
 </w.rf>
 <form>ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94207-95-p4s1w9">
 <src.rf>manual</src.rf>
@@ -2324,7 +2324,7 @@
 <LM>w#w-ln94207-95-p4s4w13</LM>
 </w.rf>
 <form>léta</form>
-<tag lemma="rok" src="orig" selected="1">NNNP4-----A---2</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP4-----A---2</tag>
 </m>
 <m id="m-ln94207-95-p4s4w14">
 <src.rf>manual</src.rf>
@@ -2691,7 +2691,7 @@
 <LM>w#w-ln94207-95-p4s6w9</LM>
 </w.rf>
 <form>faktor</form>
-<tag lemma="faktor" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="faktor-1" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln94207-95-p4s6w10">
 <src.rf>manual</src.rf>
@@ -2800,7 +2800,7 @@
 <LM>w#w-ln94207-95-p4s7w6</LM>
 </w.rf>
 <form>ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94207-95-p4s7w7">
 <src.rf>manual</src.rf>
@@ -2999,7 +2999,7 @@
 <LM>w#w-ln94207-95-p5s2w18</LM>
 </w.rf>
 <form>hodnosti</form>
-<tag lemma="hodnost" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="hodnost_^(*3ý)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94207-95-p5s2w19">
 <src.rf>manual</src.rf>
@@ -3113,7 +3113,7 @@
 <LM>w#w-ln94207-95-p5s3w8</LM>
 </w.rf>
 <form>suchar</form>
-<tag lemma="suchar" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="suchar-2" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-95-p5s3w9">
 <src.rf>manual</src.rf>
@@ -3530,7 +3530,7 @@
 <LM>w#w-ln94207-95-p5s6w20</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln94207-95-p5s6w21">
 <src.rf>manual</src.rf>
@@ -4198,7 +4198,7 @@
 <LM>w#w-ln94207-95-p6s4w11</LM>
 </w.rf>
 <form>dál</form>
-<tag lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="dál-3_,s_^(také,_za_další)_(^DD**dále-3)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94207-95-p6s4w12">
 <src.rf>manual</src.rf>
@@ -4645,7 +4645,7 @@
 <LM>w#w-ln94207-95-p7s1w18</LM>
 </w.rf>
 <form>Zelený</form>
-<tag lemma="zelený" src="orig" selected="1">AAIS1----1A----</tag>
+<tag lemma="zelený_;o" src="orig" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-ln94207-95-p7s1w19">
 <src.rf>manual</src.rf>
@@ -5452,7 +5452,7 @@
 <form>Mario</form>
 <tag>
 <AM lemma="Mario_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mario_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Mario_;Y_,s_^(^DD**Mário)" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-95-p8s1w2">

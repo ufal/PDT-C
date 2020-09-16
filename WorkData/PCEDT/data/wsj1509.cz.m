@@ -194,7 +194,7 @@
 </w.rf>
 <form>svůj</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8IS4----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8IS4----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8YS1----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8YS5----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOYS-----------</AM>
@@ -1315,7 +1315,7 @@
 <AM lemma="dobrý" src="auto">AANP4----2A----</AM>
 <AM lemma="dobrý" src="auto">AANP5----2A----</AM>
 <AM lemma="dobrý" src="auto">AANS1----2A----</AM>
-<AM lemma="dobrý" src="auto" recommended="1">AANS4----2A----</AM>
+<AM lemma="lepší" src="auto" recommended="1">AANS4----2A----</AM>
 <AM lemma="dobrý" src="auto">AANS5----2A----</AM>
 <AM lemma="lepšit" src="auto">VB-P---3P-AAI--</AM>
 <AM lemma="lepšit" src="auto">VB-S---3P-AAI--</AM>
@@ -1814,7 +1814,7 @@
 </w.rf>
 <form>svůj</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8IS4----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8IS4----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8YS1----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8YS5----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOYS-----------</AM>

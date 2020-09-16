@@ -306,7 +306,7 @@
 <LM>w#w-mf930701-132-p2s2w8</LM>
 </w.rf>
 <form>co</form>
-<tag lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="co-5_^(př._co_nejméně,_co_nevidět_atd.)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf930701-132-p2s2w9">
 <src.rf>manual</src.rf>
@@ -776,7 +776,7 @@
 <LM>w#w-mf930701-132-p2s6w6</LM>
 </w.rf>
 <form>dlouhé</form>
-<tag lemma="dlouhý-1_^(fyz._délka;_př._dlouhá_tyč)" src="orig" selected="1">AAFS6----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFS6----1A----</tag>
 </m>
 <m id="m-mf930701-132-p2s6w7">
 <src.rf>manual</src.rf>
@@ -1346,7 +1346,7 @@
 <LM>w#w-mf930701-132-p2s9w20</LM>
 </w.rf>
 <form>stojí</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VB-P---3P-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf930701-132-p2s9w21">
 <src.rf>manual</src.rf>
@@ -1505,7 +1505,7 @@
 <LM>w#w-mf930701-132-p2s11w10</LM>
 </w.rf>
 <form>stojí</form>
-<tag lemma="stát-4_^(něco_stojí_peníze)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930701-132-p2s11w11">
 <src.rf>manual</src.rf>
@@ -1708,7 +1708,7 @@
 <LM>w#w-mf930701-132-p2s12w14</LM>
 </w.rf>
 <form>Zlaté</form>
-<tag lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AANS1----1A----</tag>
+<tag lemma="zlatý-1_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AANS1----1A----</tag>
 </m>
 <m id="m-mf930701-132-p2s12w15">
 <src.rf>manual</src.rf>
@@ -1871,7 +1871,7 @@
 <LM>w#w-mf930701-132-p2s13w8</LM>
 </w.rf>
 <form>stojí</form>
-<tag lemma="stát-4_^(něco_stojí_peníze)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930701-132-p2s13w9">
 <src.rf>manual</src.rf>

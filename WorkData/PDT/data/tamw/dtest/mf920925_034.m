@@ -255,7 +255,7 @@
 <LM>w#w-mf920925-034-p1s2w3</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XP1FS3-------</tag>
 </m>
 <m id="m-mf920925-034-p1s2w4">
 <src.rf>manual</src.rf>
@@ -359,7 +359,7 @@
 <LM>w#w-mf920925-034-p1s2w16</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-mf920925-034-p1s2w17">
 <src.rf>manual</src.rf>
@@ -423,7 +423,7 @@
 <LM>w#w-mf920925-034-p1s2w24</LM>
 </w.rf>
 <form>jejím</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS6FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS6FS3-------</tag>
 </m>
 <m id="m-mf920925-034-p1s2w25">
 <src.rf>manual</src.rf>
@@ -594,7 +594,7 @@
 <LM>w#w-mf920925-034-p3s2w1</LM>
 </w.rf>
 <form>DAVID</form>
-<tag lemma="David_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="David-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-034-p3s2w2">
 <src.rf>manual</src.rf>

@@ -94,7 +94,7 @@
 <LM>w#w-lnd92256-086-p1s1w10</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd92256-086-p1s1w11">
 <src.rf>manual</src.rf>
@@ -126,7 +126,7 @@
 <LM>w#w-lnd92256-086-p1s1w14</LM>
 </w.rf>
 <form>Toulouse</form>
-<tag lemma="Toulouse_;G" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="Toulouse-1_;G" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-lnd92256-086-p1s1w15">
 <src.rf>manual</src.rf>
@@ -208,7 +208,7 @@
 <LM>w#w-lnd92256-086-p1s2w9</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-lnd92256-086-p1s2w10">
 <src.rf>manual</src.rf>
@@ -384,7 +384,7 @@
 <LM>w#w-lnd92256-086-p1s3w18</LM>
 </w.rf>
 <form>Yorku</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="York-2_;G_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-lnd92256-086-p1s3w19">
 <src.rf>manual</src.rf>
@@ -569,7 +569,7 @@
 <LM>w#w-lnd92256-086-p1s4w12</LM>
 </w.rf>
 <form>Smetanově</form>
-<tag lemma="Smetanův_;Y_^(*2a)" src="orig" selected="1">AUFS6M---------</tag>
+<tag lemma="Smetanův_;Y_^(*2)_(*2a)" src="orig" selected="1">AUFS6M---------</tag>
 </m>
 <m id="m-lnd92256-086-p1s4w13">
 <src.rf>manual</src.rf>
@@ -833,7 +833,7 @@
 <LM>w#w-lnd92256-086-p1s6w14</LM>
 </w.rf>
 <form>Arthur</form>
-<tag lemma="Arthur_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Arthur_;Y_,s_^(^DD**Artur)" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-086-p1s6w15">
 <src.rf>manual</src.rf>

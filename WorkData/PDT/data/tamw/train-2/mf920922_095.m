@@ -295,7 +295,7 @@
 <LM>w#w-mf920922-095-p1s2w3</LM>
 </w.rf>
 <form>zintenzívnění</form>
-<tag lemma="zintenzívnění_^(*3it)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="zintenzívnění_^(*2t)_(*3it)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-mf920922-095-p1s2w4">
 <src.rf>manual</src.rf>

@@ -1142,7 +1142,7 @@
 <LM>w#w-ln95048-159-p4s2w2</LM>
 </w.rf>
 <form>prvních</form>
-<tag lemma="první" src="orig" selected="1">CrIP2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIP2----------</tag>
 </m>
 <m id="m-ln95048-159-p4s2w3">
 <src.rf>manual</src.rf>
@@ -1207,7 +1207,7 @@
 <LM>w#w-ln95048-159-p4s2w10</LM>
 </w.rf>
 <form>zdaněním</form>
-<tag lemma="zdanění_^(vypočítat_daň)_(*3it)" src="auto" selected="1">NNNS7-----A----</tag>
+<tag lemma="zdanění_^(*3it)" src="auto" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-ln95048-159-p4s2w11">
 <src.rf>manual</src.rf>
@@ -1477,7 +1477,7 @@
 <LM>w#w-ln95048-159-p5s2w6</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln95048-159-p5s2w7">
 <src.rf>manual</src.rf>

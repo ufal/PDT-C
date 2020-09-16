@@ -272,7 +272,7 @@
 <LM>w#w-ln94208-142-p2s2w7</LM>
 </w.rf>
 <form>Miroslava</form>
-<tag lemma="Miroslav_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Miroslav-1_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94208-142-p2s2w8">
 <src.rf>manual</src.rf>
@@ -312,7 +312,7 @@
 <LM>w#w-ln94208-142-p2s2w12</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-ln94208-142-p2s2w13">
 <src.rf>manual</src.rf>

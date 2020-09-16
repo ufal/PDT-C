@@ -1579,7 +1579,7 @@
 </w.rf>
 <form>dne</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="den_^(jednotka_času)" src="auto">NNIS5-----A----</AM>
 <AM lemma="den_^(jednotka_času)" src="auto">NNIS6-----A---9</AM>
 </tag>
@@ -1670,7 +1670,7 @@
 </w.rf>
 <form>Dow</form>
 <tag>
-<AM lemma="Dow-1_;Y" src="auto" selected="1">NNMXX-----A----</AM>
+<AM lemma="Dow_;Y" src="auto" selected="1">NNMXX-----A----</AM>
 <AM lemma="Dow_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Dowa_;G" src="auto">NNFP2-----A----</AM>
 </tag>
@@ -1927,7 +1927,7 @@
 <tag>
 <AM lemma="Joel" src="auto">NNIS1-----A----</AM>
 <AM lemma="Joel" src="auto">NNIS4-----A----</AM>
-<AM lemma="Joel_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Joel-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1322-001-p1s8W12-Ta">
@@ -4466,7 +4466,7 @@
 <form>svých</form>
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8XP2----------</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8XP6----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8XP6----------</AM>
 </tag>
 </m>
 <m id="m-wsj1322-001-p1s15W15-Ta">
@@ -4679,7 +4679,7 @@
 <AM lemma="druhý" src="auto">CrFP5----------</AM>
 <AM lemma="druhý" src="auto">CrFS2----------</AM>
 <AM lemma="druhý" src="auto">CrFS3----------</AM>
-<AM lemma="druhý" src="auto" recommended="1">CrFS6----------</AM>
+<AM lemma="druhý`2" src="auto" recommended="1">CrFS6----------</AM>
 <AM lemma="druhý" src="auto">CrIP1----------</AM>
 <AM lemma="druhý" src="auto">CrIP4----------</AM>
 <AM lemma="druhý" src="auto">CrIP5----------</AM>
@@ -5662,7 +5662,7 @@
 </w.rf>
 <form>svou</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8FS4---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8FS4---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS7---------1</AM>
 </tag>
 </m>
@@ -5679,7 +5679,7 @@
 <AM lemma="první" src="auto">CrFS1----------</AM>
 <AM lemma="první" src="auto">CrFS2----------</AM>
 <AM lemma="první" src="auto">CrFS3----------</AM>
-<AM lemma="první" src="auto" recommended="1">CrFS4----------</AM>
+<AM lemma="první-1" src="auto" recommended="1">CrFS4----------</AM>
 <AM lemma="první" src="auto">CrFS5----------</AM>
 <AM lemma="první" src="auto">CrFS6----------</AM>
 <AM lemma="první" src="auto">CrFS7----------</AM>
@@ -6969,7 +6969,7 @@
 <form>druhou</form>
 <tag>
 <AM lemma="druhý" src="auto">CrFS4----------</AM>
-<AM lemma="druhý" src="auto" recommended="1">CrFS7----------</AM>
+<AM lemma="druhý`2" src="auto" recommended="1">CrFS7----------</AM>
 </tag>
 </m>
 <m id="m-wsj1322-001-p1s23W17-Ta">
@@ -13872,7 +13872,7 @@
 <AM lemma="Beatrice-2_;G" src="auto">NNFS1-----A----</AM>
 <AM lemma="Beatrice-2_;G" src="auto">NNFS2-----A----</AM>
 <AM lemma="Beatrice-2_;G" src="auto">NNFS5-----A----</AM>
-<AM lemma="Beatrice-2_;G_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Beatrice_;G_;Y_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1322-001-p1s51W5-Ta">
@@ -16242,7 +16242,7 @@
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS1---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS4---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS5---------1</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8YP4---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8YP4---------1</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOFP-----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOIP-----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AONS-----------</AM>
@@ -17480,7 +17480,7 @@
 <AM lemma="životnost_^(př._rod_životný)_(*3ý)" src="auto">NNFP1-----A----</AM>
 <AM lemma="životnost_^(př._rod_životný)_(*3ý)" src="auto">NNFP4-----A----</AM>
 <AM lemma="životnost_^(př._rod_životný)_(*3ý)" src="auto">NNFP5-----A----</AM>
-<AM lemma="životnost_^(př._rod_životný)_(*3ý)" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="životnost_^(*3ý)" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="životnost_^(př._rod_životný)_(*3ý)" src="auto">NNFS3-----A----</AM>
 <AM lemma="životnost_^(př._rod_životný)_(*3ý)" src="auto">NNFS5-----A----</AM>
 <AM lemma="životnost_^(př._rod_životný)_(*3ý)" src="auto">NNFS6-----A----</AM>
@@ -19022,7 +19022,7 @@
 <AM lemma="stanovení_^(určit)_(*3it)" src="auto">NNNP5-----A----</AM>
 <AM lemma="stanovení_^(určit)_(*3it)" src="auto">NNNS1-----A----</AM>
 <AM lemma="stanovení_^(určit)_(*3it)" src="auto">NNNS2-----A----</AM>
-<AM lemma="stanovení_^(určit)_(*3it)" src="auto" recommended="1">NNNS3-----A----</AM>
+<AM lemma="stanovení_^(*3it)" src="auto" recommended="1">NNNS3-----A----</AM>
 <AM lemma="stanovení_^(určit)_(*3it)" src="auto">NNNS4-----A----</AM>
 <AM lemma="stanovení_^(určit)_(*3it)" src="auto">NNNS5-----A----</AM>
 <AM lemma="stanovení_^(určit)_(*3it)" src="auto">NNNS6-----A----</AM>
@@ -19510,7 +19510,7 @@
 </w.rf>
 <form>Hugo</form>
 <tag>
-<AM lemma="Hugo-1_;Y" src="auto" selected="1">NNMS1-----A----</AM>
+<AM lemma="Hugo_;Y" src="auto" selected="1">NNMS1-----A----</AM>
 <AM lemma="Hugo-1_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Hugo-2_;G" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="Hugo-2_;G" src="auto">NNNS4-----A----</AM>
@@ -21409,7 +21409,7 @@
 <AM lemma="den_^(jednotka_času)" src="auto">NNIP5-----A---1</AM>
 <AM lemma="den_^(jednotka_času)" src="auto">NNIS3-----A---1</AM>
 <AM lemma="den_^(jednotka_času)" src="auto">NNIS5-----A---1</AM>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIS6-----A---1</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-wsj1322-001-p1s78W7-Ta">
@@ -22413,7 +22413,7 @@
 <form>letech</form>
 <tag>
 <AM lemma="let" src="auto">NNIP6-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP6-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1322-001-p1s81W13-Ta">

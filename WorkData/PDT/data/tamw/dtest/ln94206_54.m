@@ -320,7 +320,7 @@
 <LM>w#w-ln94206-54-p2s1Bw25</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94206-54-p2s1Bw26">
 <src.rf>manual</src.rf>
@@ -680,7 +680,7 @@
 <LM>w#w-ln94206-54-p2s5w5</LM>
 </w.rf>
 <form>nařčení</form>
-<tag lemma="nařčení_^(*4knout)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="nařčení" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln94206-54-p2s5w6">
 <src.rf>manual</src.rf>
@@ -908,7 +908,7 @@
 <LM>w#w-ln94206-54-p2s7w4</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-ln94206-54-p2s7w5">
 <src.rf>manual</src.rf>
@@ -1145,7 +1145,7 @@
 <LM>w#w-ln94206-54-p2s8w10</LM>
 </w.rf>
 <form>předanou</form>
-<tag lemma="předaný-3_^(někomu_něco)_(*4t-3)" src="orig" selected="1">AAFS4----1A----</tag>
+<tag lemma="předaný_^(*2t)" src="orig" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-ln94206-54-p2s8w11">
 <src.rf>manual</src.rf>

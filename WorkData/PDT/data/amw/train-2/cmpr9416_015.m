@@ -487,7 +487,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>nezaměstnanosti</form>
-<tag lemma="nezaměstnanost-2_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="nezaměstnanost_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-cmpr9416-015-p3s4w4">
 <src.rf>manual</src.rf>
@@ -627,7 +627,7 @@
 <LM>w#w-cmpr9416-015-p4s1w3</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-cmpr9416-015-p4s1w4">
 <src.rf>manual</src.rf>
@@ -1379,7 +1379,7 @@
 <LM>w#w-cmpr9416-015-p6s5w13</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-cmpr9416-015-p6s5w14">
 <src.rf>manual</src.rf>
@@ -1509,7 +1509,7 @@
 <LM>w#w-cmpr9416-015-p7s1w6</LM>
 </w.rf>
 <form>málo</form>
-<tag lemma="málo-1_^(málo_+_2._p.,_málo_peněz)" src="orig" selected="1">Ca--4----------</tag>
+<tag lemma="málo-1_^(málo_peněz)" src="orig" selected="1">Ca--4----------</tag>
 </m>
 <m id="m-cmpr9416-015-p7s1w7">
 <src.rf>manual</src.rf>
@@ -1619,7 +1619,7 @@
 <LM>w#w-cmpr9416-015-p7s3w3</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-cmpr9416-015-p7s3w4">
 <src.rf>manual</src.rf>
@@ -1643,7 +1643,7 @@
 <LM>w#w-cmpr9416-015-p7s3w6</LM>
 </w.rf>
 <form>nepříjemnou</form>
-<tag lemma="příjemný-1_^(všeob.,_poz._emoce)" src="orig" selected="1">AAFS4----1N----</tag>
+<tag lemma="příjemný_^(všeob.,_poz._emoce)" src="orig" selected="1">AAFS4----1N----</tag>
 </m>
 <m id="m-cmpr9416-015-p7s3w7">
 <src.rf>manual</src.rf>
@@ -1791,7 +1791,7 @@
 <LM>w#w-cmpr9416-015-p7s5w3</LM>
 </w.rf>
 <form>vypadá</form>
-<tag lemma="vypadat" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="vypadat-1_^(ty_vypadáš)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9416-015-p7s5w4">
 <src.rf>manual</src.rf>
@@ -2153,7 +2153,7 @@
 <LM>w#w-cmpr9416-015-p9s1w17</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-cmpr9416-015-p9s1w18">
 <src.rf>manual</src.rf>
@@ -2243,7 +2243,7 @@
 <LM>w#w-cmpr9416-015-p9s2w8</LM>
 </w.rf>
 <form>lidech</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP6-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP6-----A----</tag>
 </m>
 <m id="m-cmpr9416-015-p9s2w9">
 <src.rf>manual</src.rf>
@@ -2495,7 +2495,7 @@
 <LM>w#w-cmpr9416-015-p9s4w10</LM>
 </w.rf>
 <form>stanoveného</form>
-<tag lemma="stanovený_^(určit)_(*3it)" src="orig" selected="1">AAIS2----1A----</tag>
+<tag lemma="stanovený_^(*3it)" src="orig" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-cmpr9416-015-p9s4w11">
 <src.rf>manual</src.rf>
@@ -2601,7 +2601,7 @@
 <LM>w#w-cmpr9416-015-p9s5w11</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-cmpr9416-015-p9s5w12">
 <src.rf>manual</src.rf>
@@ -2925,7 +2925,7 @@
 <LM>w#w-cmpr9416-015-p10s1w12</LM>
 </w.rf>
 <form>vydělané</form>
-<tag lemma="vydělaný-1_^(peníze)_(*4t-1)" src="orig" selected="1">AAIP1----1A----</tag>
+<tag lemma="vydělaný_^(*2t)" src="orig" selected="1">AAIP1----1A----</tag>
 </m>
 <m id="m-cmpr9416-015-p10s1w13">
 <src.rf>manual</src.rf>
@@ -3193,7 +3193,7 @@
 <tag>
 <AM lemma="starost" src="orig">NNFP4-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFP1-----A----</AM>
-<AM lemma="starost-1" src="auto" recommended="1" selected="1">NNFP4-----A----</AM>
+<AM lemma="starost-2_^(*5ý-2)" src="auto" recommended="1" selected="1">NNFP4-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFP5-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFS2-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFS3-----A----</AM>
@@ -3238,7 +3238,7 @@
 <LM>w#w-cmpr9416-015-p10s4w8</LM>
 </w.rf>
 <form>potřeby</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-cmpr9416-015-p10s4w9">
 <src.rf>manual</src.rf>
@@ -3314,7 +3314,7 @@
 <LM>w#w-cmpr9416-015-p10s6w2</LM>
 </w.rf>
 <form>třeba</form>
-<tag lemma="třeba-2" src="auto" selected="1">Db-------------</tag>
+<tag lemma="třeba-1" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-cmpr9416-015-p10s6w3">
 <src.rf>manual</src.rf>
@@ -3680,7 +3680,7 @@
 <LM>w#w-cmpr9416-015-p10s9w2</LM>
 </w.rf>
 <form>nejlepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAFP1----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAFP1----3A----</tag>
 </m>
 <m id="m-cmpr9416-015-p10s9w3">
 <src.rf>manual</src.rf>
@@ -3847,7 +3847,7 @@
 <LM>w#w-cmpr9416-015-p12s1w10</LM>
 </w.rf>
 <form>málo</form>
-<tag lemma="málo-1_^(málo_+_2._p.,_málo_peněz)" src="orig" selected="1">Ca--4----------</tag>
+<tag lemma="málo-1_^(málo_peněz)" src="orig" selected="1">Ca--4----------</tag>
 </m>
 <m id="m-cmpr9416-015-p12s1w11">
 <src.rf>manual</src.rf>
@@ -3879,7 +3879,7 @@
 <LM>w#w-cmpr9416-015-p12s1w14</LM>
 </w.rf>
 <form>málo</form>
-<tag lemma="málo-1_^(málo_+_2._p.,_málo_peněz)" src="orig" selected="1">Ca--4----------</tag>
+<tag lemma="málo-1_^(málo_peněz)" src="orig" selected="1">Ca--4----------</tag>
 </m>
 <m id="m-cmpr9416-015-p12s1w15">
 <src.rf>manual</src.rf>
@@ -3903,7 +3903,7 @@
 <LM>w#w-cmpr9416-015-p12s1w17</LM>
 </w.rf>
 <form>málo</form>
-<tag lemma="málo-1_^(málo_+_2._p.,_málo_peněz)" src="orig" selected="1">Ca--1----------</tag>
+<tag lemma="málo-1_^(málo_peněz)" src="orig" selected="1">Ca--1----------</tag>
 </m>
 <m id="m-cmpr9416-015-p12s1w18">
 <src.rf>manual</src.rf>

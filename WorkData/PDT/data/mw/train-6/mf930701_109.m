@@ -35,7 +35,7 @@
 <LM>w#w-mf930701-109-p1s1w3</LM>
 </w.rf>
 <form>Slavie</form>
-<tag lemma="Slavia_;m" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Slavie_;m_,s_^(^DD**Slávie)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 </s>
 <s id="m-mf930701-109-p2s1">
@@ -120,7 +120,7 @@
 <LM>w#w-mf930701-109-p2s1w10</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930701-109-p2s1w11">
 <src.rf>manual</src.rf>
@@ -344,7 +344,7 @@
 <LM>w#w-mf930701-109-p2s2w5</LM>
 </w.rf>
 <form>výbor</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930701-109-p2s2w6">
 <src.rf>manual</src.rf>

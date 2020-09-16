@@ -51,7 +51,7 @@
 <LM>w#w-ln95045-046-p1s1w5</LM>
 </w.rf>
 <form>Zlatého</form>
-<tag lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAMS4----1A----</tag>
+<tag lemma="zlatý-1_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAMS4----1A----</tag>
 </m>
 <m id="m-ln95045-046-p1s1w6">
 <src.rf>manual</src.rf>
@@ -146,7 +146,7 @@
 <LM>w#w-ln95045-046-p2s1w10</LM>
 </w.rf>
 <form>Zlatého</form>
-<tag lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAMS4----1A----</tag>
+<tag lemma="zlatý-1_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAMS4----1A----</tag>
 </m>
 <m id="m-ln95045-046-p2s1w11">
 <src.rf>manual</src.rf>
@@ -553,7 +553,7 @@
 <LM>w#w-ln95045-046-p2s3w23</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln95045-046-p2s3w24">
 <src.rf>manual</src.rf>

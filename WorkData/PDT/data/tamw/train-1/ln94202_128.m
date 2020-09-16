@@ -525,7 +525,7 @@
 <LM>w#w-ln94202-128-p2s4w12</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS6---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS6---------1</tag>
 </m>
 <m id="m-ln94202-128-p2s4w13">
 <src.rf>manual</src.rf>
@@ -978,7 +978,7 @@
 <LM>w#w-ln94202-128-p3s3w2</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrIS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS6----------</tag>
 </m>
 <m id="m-ln94202-128-p3s3w3">
 <src.rf>manual</src.rf>
@@ -1074,7 +1074,7 @@
 <LM>w#w-ln94202-128-p3s3w14</LM>
 </w.rf>
 <form>výbor</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94202-128-p3s3w15">
 <src.rf>manual</src.rf>
@@ -1473,7 +1473,7 @@
 <LM>w#w-ln94202-128-p3s4w6</LM>
 </w.rf>
 <form>dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94202-128-p3s4w7">
 <src.rf>manual</src.rf>
@@ -1531,7 +1531,7 @@
 <form>Hilton</form>
 <tag>
 <AM lemma="Hilton_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Hilton-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Hilton-2_;m_^(hotel)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-128-p3s4w14">
@@ -1566,7 +1566,7 @@
 <LM>w#w-ln94202-128-p4s1w1</LM>
 </w.rf>
 <form>Druhý</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS1----------</tag>
 </m>
 <m id="m-ln94202-128-p4s1w2">
 <src.rf>manual</src.rf>
@@ -1646,7 +1646,7 @@
 <LM>w#w-ln94202-128-p4s1w11</LM>
 </w.rf>
 <form>Výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94202-128-p4s1w12">
 <src.rf>manual</src.rf>
@@ -1791,7 +1791,7 @@
 <LM>w#w-ln94202-128-p4s1w28</LM>
 </w.rf>
 <form>výborem</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-ln94202-128-p4s1w29">
 <src.rf>manual</src.rf>
@@ -1863,7 +1863,7 @@
 <LM>w#w-ln94202-128-p4s1w37</LM>
 </w.rf>
 <form>management</form>
-<tag lemma="management_^(vedení,_manažment;_angl.)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="management_,s_^(^DD**manažment)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln94202-128-p4s1w38">
 <src.rf>manual</src.rf>
@@ -2044,7 +2044,7 @@
 <form>Hilton</form>
 <tag>
 <AM lemma="Hilton_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Hilton-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Hilton-2_;m_^(hotel)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-128-p4s2w13">
@@ -2215,7 +2215,7 @@
 <LM>w#w-ln94202-128-p5s1w20</LM>
 </w.rf>
 <form>právo</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln94202-128-p5s1w21">
 <src.rf>manual</src.rf>
@@ -2247,7 +2247,7 @@
 <LM>w#w-ln94202-128-p5s1w24</LM>
 </w.rf>
 <form>členem</form>
-<tag lemma="člen" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94202-128-p5s1w25">
 <src.rf>manual</src.rf>
@@ -2389,7 +2389,7 @@
 <LM>w#w-ln94202-128-p5s2w5</LM>
 </w.rf>
 <form>cestě</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94202-128-p5s2w6">
 <src.rf>manual</src.rf>
@@ -2449,7 +2449,7 @@
 <LM>w#w-ln94202-128-p5s2w11</LM>
 </w.rf>
 <form>Yorku</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="York-2_;G_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94202-128-p5s2w12">
 <src.rf>manual</src.rf>
@@ -2693,7 +2693,7 @@
 <LM>w#w-ln94202-128-p6s2w12</LM>
 </w.rf>
 <form>jet</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="orig" selected="1">Vf--------A-I--</tag>
+<tag lemma="jet-1" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln94202-128-p6s2w13">
 <src.rf>manual</src.rf>
@@ -2887,7 +2887,7 @@
 <LM>w#w-ln94202-128-p6s3w22</LM>
 </w.rf>
 <form>management</form>
-<tag lemma="management_^(vedení,_manažment;_angl.)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="management_,s_^(^DD**manažment)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln94202-128-p6s3w23">
 <src.rf>manual</src.rf>
@@ -3115,7 +3115,7 @@
 <form>Hilton</form>
 <tag>
 <AM lemma="Hilton_^(hotel)" src="auto">NNIS4-----A----</AM>
-<AM lemma="Hilton-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Hilton-2_;m_^(hotel)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-128-p7s1w9">

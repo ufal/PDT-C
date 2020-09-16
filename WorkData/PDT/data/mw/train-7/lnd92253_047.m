@@ -163,7 +163,7 @@
 <LM>w#w-lnd92253-047-p1s1w19</LM>
 </w.rf>
 <form>členů</form>
-<tag lemma="člen" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd92253-047-p1s1w20">
 <src.rf>manual</src.rf>
@@ -179,7 +179,7 @@
 <LM>w#w-lnd92253-047-p1s1w21</LM>
 </w.rf>
 <form>hnutí</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-lnd92253-047-p1s1w22">
 <src.rf>manual</src.rf>
@@ -684,7 +684,7 @@
 <LM>w#w-lnd92253-047-p2s2w13</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP6----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP6----------</tag>
 </m>
 <m id="m-lnd92253-047-p2s2w14">
 <src.rf>manual</src.rf>
@@ -926,7 +926,7 @@
 <LM>w#w-lnd92253-047-p3s1w7</LM>
 </w.rf>
 <form>Evropě</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd92253-047-p3s1w8">
 <src.rf>manual</src.rf>
@@ -1317,7 +1317,7 @@
 <LM>w#w-lnd92253-047-p3s2w30</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92253-047-p3s2w31">
 <src.rf>manual</src.rf>
@@ -1937,7 +1937,7 @@
 <LM>w#w-lnd92253-047-p4s2w20</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-lnd92253-047-p4s2w21">
 <src.rf>manual</src.rf>
@@ -2232,7 +2232,7 @@
 <LM>w#w-lnd92253-047-p5s1w32</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92253-047-p5s1w33">
 <src.rf>manual</src.rf>
@@ -2576,7 +2576,7 @@
 <LM>w#w-lnd92253-047-p6s1w20</LM>
 </w.rf>
 <form>hnutím</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-lnd92253-047-p6s1w21">
 <src.rf>manual</src.rf>
@@ -2876,7 +2876,7 @@
 <LM>w#w-lnd92253-047-p7s1w9</LM>
 </w.rf>
 <form>letounů</form>
-<tag lemma="letoun" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="letoun-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-lnd92253-047-p7s1w10">
 <src.rf>manual</src.rf>
@@ -3175,7 +3175,7 @@
 <LM>w#w-lnd92253-047-p7s3w2</LM>
 </w.rf>
 <form>letouny</form>
-<tag lemma="letoun" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="letoun-1" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-lnd92253-047-p7s3w3">
 <src.rf>manual</src.rf>

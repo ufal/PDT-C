@@ -27,7 +27,7 @@
 <LM>w#w-ln94203-10-p1s1w2</LM>
 </w.rf>
 <form>Grundig</form>
-<tag lemma="Grundig_;m" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Grundig-2_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94203-10-p1s1w3">
 <src.rf>manual</src.rf>
@@ -115,7 +115,7 @@
 <LM>w#w-ln94203-10-p2s1w3</LM>
 </w.rf>
 <form>Grundig</form>
-<tag lemma="Grundig_;m" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Grundig-2_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94203-10-p2s1w4">
 <src.rf>manual</src.rf>
@@ -227,7 +227,7 @@
 <LM>w#w-ln94203-10-p2s1w17</LM>
 </w.rf>
 <form>umění</form>
-<tag lemma="umění_^(mít_schopnost_něco_dělat)_(*2t)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="umění_^(*2t)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln94203-10-p2s1w18">
 <src.rf>manual</src.rf>
@@ -309,7 +309,7 @@
 <LM>w#w-ln94203-10-p2s2w6</LM>
 </w.rf>
 <form>člen</form>
-<tag lemma="člen" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-10-p2s2w7">
 <src.rf>manual</src.rf>
@@ -826,7 +826,7 @@
 <LM>w#w-ln94203-10-p3s2w3</LM>
 </w.rf>
 <form>co</form>
-<tag lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="orig" selected="1">P4XXX----------</tag>
+<tag lemma="co-4_^(který:_o_těch,_co_odešli)" src="orig" selected="1">P4XXX----------</tag>
 </m>
 <m id="m-ln94203-10-p3s2w4">
 <src.rf>manual</src.rf>
@@ -856,7 +856,7 @@
 <tag>
 <AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">Vf--------A----</AM>
 <AM lemma="stát-2_:T_^(něco_se_přihodilo)" src="manual">Vf--------A----</AM>
-<AM lemma="stát-2_^(něco_se_přihodilo)" src="manual" selected="1">Vf--------A-P--</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">Vf--------A-P--</AM>
 </tag>
 </m>
 <m id="m-ln94203-10-p3s2w7">
@@ -1025,7 +1025,7 @@
 <LM>w#w-ln94203-10-p3s2w27</LM>
 </w.rf>
 <form>svoji</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4----------</tag>
 </m>
 <m id="m-ln94203-10-p3s2w28">
 <src.rf>manual</src.rf>
@@ -1269,7 +1269,7 @@
 <LM>w#w-ln94203-10-p4s1w13</LM>
 </w.rf>
 <form>člen</form>
-<tag lemma="člen" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-10-p4s1w14">
 <src.rf>manual</src.rf>
@@ -1436,7 +1436,7 @@
 <LM>w#w-ln94203-10-p4s2w6</LM>
 </w.rf>
 <form>Grundigu</form>
-<tag lemma="Grundig_;m" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Grundig-2_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94203-10-p4s2w7">
 <src.rf>manual</src.rf>
@@ -1588,7 +1588,7 @@
 <LM>w#w-ln94203-10-p4s2w25</LM>
 </w.rf>
 <form>členy</form>
-<tag lemma="člen" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-ln94203-10-p4s2w26">
 <src.rf>manual</src.rf>
@@ -1720,7 +1720,7 @@
 <LM>w#w-ln94203-10-p5s1w10</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrMP4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrMP4----------</tag>
 </m>
 <m id="m-ln94203-10-p5s1w11">
 <src.rf>manual</src.rf>
@@ -2073,7 +2073,7 @@
 <LM>w#w-ln94203-10-p6s1w1</LM>
 </w.rf>
 <form>Grundig</form>
-<tag lemma="Grundig_;m" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Grundig-2_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94203-10-p6s1w2">
 <src.rf>manual</src.rf>
@@ -2360,7 +2360,7 @@
 <LM>w#w-ln94203-10-p6s2w17</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94203-10-p6s2w18">
 <src.rf>manual</src.rf>
@@ -2547,7 +2547,7 @@
 <LM>w#w-ln94203-10-p6s2w40</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln94203-10-p6s2w41">
 <src.rf>manual</src.rf>
@@ -2669,7 +2669,7 @@
 <LM>w#w-ln94203-10-p7s1w1</LM>
 </w.rf>
 <form>Grundig</form>
-<tag lemma="Grundig_;m" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Grundig-2_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94203-10-p7s1w2">
 <src.rf>manual</src.rf>
@@ -2805,7 +2805,7 @@
 <LM>w#w-ln94203-10-p7s1w18</LM>
 </w.rf>
 <form>snu</form>
-<tag lemma="sen" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="sen-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94203-10-p7s1w19">
 <src.rf>manual</src.rf>
@@ -3108,7 +3108,7 @@
 <LM>w#w-ln94203-10-p7s3w2</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-10-p7s3w3">
 <src.rf>manual</src.rf>
@@ -3116,7 +3116,7 @@
 <LM>w#w-ln94203-10-p7s3w3</LM>
 </w.rf>
 <form>Grundigu</form>
-<tag lemma="Grundig_;m" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Grundig-2_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94203-10-p7s3w4">
 <src.rf>manual</src.rf>
@@ -3156,7 +3156,7 @@
 <LM>w#w-ln94203-10-p7s3w8</LM>
 </w.rf>
 <form>Naše</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSHS1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSHS1-P1-------</tag>
 </m>
 <m id="m-ln94203-10-p7s3w9">
 <src.rf>manual</src.rf>
@@ -3175,7 +3175,7 @@
 <tag>
 <AM lemma="hifi_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="hifi_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="hifi" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="hifi-2" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-10-p7s3w11">
@@ -3248,7 +3248,7 @@
 <LM>w#w-ln94203-10-p7s4w1</LM>
 </w.rf>
 <form>Své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FP4---------1</tag>
 </m>
 <m id="m-ln94203-10-p7s4w2">
 <src.rf>manual</src.rf>

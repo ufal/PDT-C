@@ -37,7 +37,7 @@
 <form>dal</form>
 <tag>
 <AM lemma="dát" src="orig">VpYS----R-AAP--</AM>
-<AM lemma="dát" src="manual" selected="1">VpYS----R-AAP--</AM>
+<AM lemma="dát-1" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94205-63-p1s1w4">
@@ -404,7 +404,7 @@
 <LM>w#w-ln94205-63-p2s2w27</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94205-63-p2s2w28">
 <src.rf>manual</src.rf>
@@ -743,7 +743,7 @@
 <LM>w#w-ln94205-63-p3s2w14</LM>
 </w.rf>
 <form>modré</form>
-<tag lemma="modrý" src="orig" selected="1">AAFS2----1A----</tag>
+<tag lemma="modrý_;o" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-ln94205-63-p3s2w15">
 <src.rf>manual</src.rf>
@@ -929,7 +929,7 @@
 <LM>w#w-ln94205-63-p4s1w10</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrIS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS4----------</tag>
 </m>
 <m id="m-ln94205-63-p4s1w11">
 <src.rf>manual</src.rf>

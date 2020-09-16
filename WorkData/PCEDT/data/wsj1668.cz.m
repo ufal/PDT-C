@@ -88,7 +88,7 @@
 <AM lemma="Barbaro_;Y" src="auto">NNMP7-----A----</AM>
 <AM lemma="barbar" src="auto">NNMP4-----A----</AM>
 <AM lemma="barbar" src="auto">NNMP7-----A----</AM>
-<AM lemma="Barbara-2_;G" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="Barbara_;G_;Y" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1668-001-p1s0W8-Ta">
@@ -299,7 +299,7 @@
 <AM lemma="směna-1_^(výměna_za_něco)" src="auto">NNFS3-----A----</AM>
 <AM lemma="směna-1_^(výměna_za_něco)" src="auto">NNFS6-----A----</AM>
 <AM lemma="směna-2_^(pracovní;...)" src="auto">NNFS3-----A----</AM>
-<AM lemma="směna-2_^(pracovní;...)" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="směna_^(výměna_za_něco;pracovní)" src="auto" recommended="1">NNFS6-----A----</AM>
 <AM lemma="směně_^(*1ý)" src="auto">Dg-------1A----</AM>
 </tag>
 </m>
@@ -2193,7 +2193,7 @@
 </w.rf>
 <form>svých</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8XP2----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8XP2----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8XP6----------</AM>
 </tag>
 </m>

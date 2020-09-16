@@ -191,7 +191,7 @@
 <LM>w#w-ln94205-77-p2s1Bw16</LM>
 </w.rf>
 <form>převzetí</form>
-<tag lemma="převzetí_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="převzetí_^(*3ít)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-ln94205-77-p2s1Bw17">
 <src.rf>manual</src.rf>
@@ -611,7 +611,7 @@
 <LM>w#w-ln94205-77-p2s3w5</LM>
 </w.rf>
 <form>rada</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94205-77-p2s3w6">
 <src.rf>manual</src.rf>

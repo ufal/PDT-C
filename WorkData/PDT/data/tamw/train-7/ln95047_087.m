@@ -218,7 +218,7 @@
 <LM>w#w-ln95047-087-p2s1Bw21</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln95047-087-p2s1Bw22">
 <src.rf>manual</src.rf>
@@ -542,7 +542,7 @@
 <LM>w#w-ln95047-087-p2s3w22</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln95047-087-p2s3w23">
 <src.rf>manual</src.rf>
@@ -2228,7 +2228,7 @@
 <LM>w#w-ln95047-087-p4s6w29</LM>
 </w.rf>
 <form>moc</form>
-<tag lemma="moc-3_^(velmi,_ve_spojení_s_adj.,_př._moc_hezká)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="moc-3_^(moc_hezká,_moc_peněz)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95047-087-p4s6w30">
 <src.rf>manual</src.rf>
@@ -2334,7 +2334,7 @@
 <LM>w#w-ln95047-087-p5s1w11</LM>
 </w.rf>
 <form>moc</form>
-<tag lemma="moc-3_^(velmi,_ve_spojení_s_adj.,_př._moc_hezká)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="moc-3_^(moc_hezká,_moc_peněz)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95047-087-p5s1w12">
 <src.rf>manual</src.rf>
@@ -2448,7 +2448,7 @@
 <LM>w#w-ln95047-087-p5s2w10</LM>
 </w.rf>
 <form>brání</form>
-<tag lemma="bránit_^(klást_překážky)" src="auto" selected="1">VB-P---3P-AAI--</tag>
+<tag lemma="bránit" src="auto" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln95047-087-p5s2w11">
 <src.rf>manual</src.rf>
@@ -3712,7 +3712,7 @@
 <LM>w#w-ln95047-087-p6s3w5</LM>
 </w.rf>
 <form>náš</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSYS1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSYS1-P1-------</tag>
 </m>
 <m id="m-ln95047-087-p6s3w6">
 <src.rf>manual</src.rf>

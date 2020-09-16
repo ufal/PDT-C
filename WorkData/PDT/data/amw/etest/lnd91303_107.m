@@ -215,7 +215,7 @@
 <LM>w#w-lnd91303-107-p3s1w20</LM>
 </w.rf>
 <form>práva</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNP4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNP4-----A----</tag>
 </m>
 <m id="m-lnd91303-107-p3s1w21">
 <src.rf>manual</src.rf>
@@ -657,7 +657,7 @@
 <LM>w#w-lnd91303-107-p3s3w18</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS3---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS3---------1</tag>
 </m>
 <m id="m-lnd91303-107-p3s3w19">
 <src.rf>manual</src.rf>

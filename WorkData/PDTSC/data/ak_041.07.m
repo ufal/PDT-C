@@ -21,7 +21,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="třeba-3" src="auto" selected="1">TT-------------</AM>
+<AM lemma="třeba-2_^(například)" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m041-d1t2399-4">
@@ -219,7 +219,7 @@
 <form>Můj</form>
 <tag>
 <AM lemma="můj_^(přivlast.)" src="auto">PSIS4-S1-------</AM>
-<AM lemma="můj_^(přivlast.)" src="auto" recommended="1">PSYS1-S1-------</AM>
+<AM lemma="můj" src="auto" recommended="1">PSYS1-S1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSYS5-S1-------</AM>
 </tag>
 </m>
@@ -391,7 +391,7 @@
 <tag>
 <AM lemma="jenom-1" src="auto">TT-------------</AM>
 <AM lemma="jenom-2_^(pouze)" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="jenom-2_,s_^(^DD**jen-4)_(pouze)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="jenom-2_^(pouze)" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m041-d1t2418-9">
@@ -1008,7 +1008,7 @@
 </w.rf>
 <form>potřeba</form>
 <tag>
-<AM lemma="potřeba" src="auto" selected="1">Db-------------</AM>
+<AM lemma="potřeba-2" src="auto" selected="1">Db-------------</AM>
 <AM lemma="potřeba" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -1327,7 +1327,7 @@
 <form>Náš</form>
 <tag>
 <AM lemma="můj_^(přivlast.)" src="auto">PSIS4-P1-------</AM>
-<AM lemma="můj_^(přivlast.)" src="auto" recommended="1">PSYS1-P1-------</AM>
+<AM lemma="náš" src="auto" recommended="1">PSYS1-P1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSYS5-P1-------</AM>
 </tag>
 </m>
@@ -1345,7 +1345,7 @@
 <form>nás</form>
 <tag>
 <AM lemma="já" src="auto">PP-P2--1-------</AM>
-<AM lemma="já" src="auto" recommended="1">PP-P4--1-------</AM>
+<AM lemma="my" src="auto" recommended="1">PP-P4--1-------</AM>
 <AM lemma="já" src="auto">PP-P6--1-------</AM>
 </tag>
 </m>
@@ -1389,7 +1389,7 @@
 <form>nás</form>
 <tag>
 <AM lemma="já" src="auto">PP-P2--1-------</AM>
-<AM lemma="já" src="auto" recommended="1">PP-P4--1-------</AM>
+<AM lemma="my" src="auto" recommended="1">PP-P4--1-------</AM>
 <AM lemma="já" src="auto">PP-P6--1-------</AM>
 </tag>
 </m>
@@ -1664,7 +1664,7 @@
 </w.rf>
 <form>civilu</form>
 <tag>
-<AM lemma="civil_^(civilní_stav,_doba_mimo_voj._služby)" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="civil-1_^(civilní_stav,_doba_mimo_voj._služby)" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="civil_^(civilní_stav,_doba_mimo_voj._služby)" src="auto">NNIS3-----A----</AM>
 <AM lemma="civil_^(civilní_stav,_doba_mimo_voj._služby)" src="auto">NNIS6-----A----</AM>
 <AM lemma="civil_^(nevoják)" src="auto">NNMS3-----A---1</AM>
@@ -2557,7 +2557,7 @@
 <tag>
 <AM lemma="jenom-1" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="jenom-2_^(pouze)" src="auto">Db-------------</AM>
-<AM lemma="jenom-2_,s_^(^DD**jen-4)_(pouze)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="jenom-2_^(pouze)" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m041-d1e2514-x2-65">
@@ -3568,7 +3568,7 @@
 <form>nás</form>
 <tag>
 <AM lemma="já" src="auto">PP-P2--1-------</AM>
-<AM lemma="já" src="auto" recommended="1">PP-P4--1-------</AM>
+<AM lemma="my" src="auto" recommended="1">PP-P4--1-------</AM>
 <AM lemma="já" src="auto">PP-P6--1-------</AM>
 </tag>
 </m>
@@ -3779,7 +3779,7 @@
 </w.rf>
 <form>ne</form>
 <tag>
-<AM lemma="ne" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ne-1" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="neděle_:B" src="auto">NNFXX-----A---8</AM>
 </tag>
 </m>
@@ -3883,7 +3883,7 @@
 </w.rf>
 <form>civilu</form>
 <tag>
-<AM lemma="civil_^(civilní_stav,_doba_mimo_voj._služby)" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="civil-1_^(civilní_stav,_doba_mimo_voj._služby)" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="civil_^(civilní_stav,_doba_mimo_voj._služby)" src="auto">NNIS3-----A----</AM>
 <AM lemma="civil_^(civilní_stav,_doba_mimo_voj._služby)" src="auto">NNIS6-----A----</AM>
 <AM lemma="civil_^(nevoják)" src="auto">NNMS3-----A---1</AM>

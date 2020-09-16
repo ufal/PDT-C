@@ -148,7 +148,7 @@
 <form>lavičce</form>
 <tag>
 <AM lemma="lavička-2" src="auto">NNFS6-----A----</AM>
-<AM lemma="lavička" src="manual" selected="1">NNFS6-----A----</AM>
+<AM lemma="lavička-2" src="manual" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-098-p1s3w12">
@@ -303,7 +303,7 @@
 <LM>w#w-lnd94105-098-p1s4w11</LM>
 </w.rf>
 <form>sezony</form>
-<tag lemma="sezona" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="sezona_,s_^(^DD**sezóna)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94105-098-p1s4w12">
 <src.rf>manual</src.rf>

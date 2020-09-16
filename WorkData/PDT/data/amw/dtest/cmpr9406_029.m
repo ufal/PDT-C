@@ -37,7 +37,7 @@
 <LM>w#w-cmpr9406-029-p2s1Aw1</LM>
 </w.rf>
 <form>Prvním</form>
-<tag lemma="první" src="orig" selected="1">CrMS7----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrMS7----------</tag>
 </m>
 <m id="m-cmpr9406-029-p2s1Aw2">
 <src.rf>manual</src.rf>
@@ -155,7 +155,7 @@
 <LM>w#w-cmpr9406-029-p2s1Aw15</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-cmpr9406-029-p2s1Aw16">
 <src.rf>manual</src.rf>
@@ -445,7 +445,7 @@
 <LM>w#w-cmpr9406-029-p4s1w2</LM>
 </w.rf>
 <form>vaši</form>
-<tag lemma="tvůj_^(přivlast.)" src="orig" selected="1">PSFS4-P2-------</tag>
+<tag lemma="váš" src="orig" selected="1">PSFS4-P2-------</tag>
 </m>
 <m id="m-cmpr9406-029-p4s1w3">
 <src.rf>manual</src.rf>
@@ -480,7 +480,7 @@
 <LM>w#w-cmpr9406-029-p4s1w6</LM>
 </w.rf>
 <form>nejlepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAFS7----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAFS7----3A----</tag>
 </m>
 <m id="m-cmpr9406-029-p4s1w7">
 <src.rf>manual</src.rf>
@@ -1024,7 +1024,7 @@
 <LM>w#w-cmpr9406-029-p4s4w5</LM>
 </w.rf>
 <form>pana</form>
-<tag lemma="pan_^(oslovení)" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="pan" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9406-029-p4s4w6">
 <src.rf>manual</src.rf>
@@ -1206,7 +1206,7 @@
 <LM>w#w-cmpr9406-029-p4s4w28</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-cmpr9406-029-p4s4w29">
 <src.rf>manual</src.rf>

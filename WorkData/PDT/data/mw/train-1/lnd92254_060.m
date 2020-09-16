@@ -201,7 +201,7 @@
 <LM>w#w-lnd92254-060-p3s3w2</LM>
 </w.rf>
 <form>odtržení</form>
-<tag lemma="odtržení_^(*4hnout)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="odtržení" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-lnd92254-060-p3s3w3">
 <src.rf>manual</src.rf>
@@ -233,7 +233,7 @@
 <LM>w#w-lnd92254-060-p3s3w6</LM>
 </w.rf>
 <form>Quebec</form>
-<tag lemma="Québec_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Quebec_;G" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92254-060-p3s3w7">
 <src.rf>manual</src.rf>
@@ -321,7 +321,7 @@
 <LM>w#w-lnd92254-060-p3s3w17</LM>
 </w.rf>
 <form>Quebecu</form>
-<tag lemma="Québec_;G" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Quebec_;G" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-lnd92254-060-p3s3w18">
 <src.rf>manual</src.rf>
@@ -385,7 +385,7 @@
 <LM>w#w-lnd92254-060-p3s3w25</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd92254-060-p3s3w26">
 <src.rf>manual</src.rf>
@@ -435,7 +435,7 @@
 <LM>w#w-lnd92254-060-p3s4w1</LM>
 </w.rf>
 <form>Quebec</form>
-<tag lemma="Québec_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Quebec_;G" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92254-060-p3s4w2">
 <src.rf>manual</src.rf>
@@ -833,7 +833,7 @@
 <LM>w#w-lnd92254-060-p3s5w14</LM>
 </w.rf>
 <form>Quebec</form>
-<tag lemma="Québec_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Quebec_;G" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92254-060-p3s5w15">
 <src.rf>manual</src.rf>

@@ -146,7 +146,7 @@
 <LM>w#w-ln95045-026-p2s1Bw7</LM>
 </w.rf>
 <form>mým</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS7-S1-------</tag>
+<tag lemma="můj" src="orig" selected="1">PSZS7-S1-------</tag>
 </m>
 <m id="m-ln95045-026-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -180,7 +180,7 @@
 <LM>w#w-ln95045-026-p2s2w2</LM>
 </w.rf>
 <form>ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln95045-026-p2s2w3">
 <src.rf>manual</src.rf>

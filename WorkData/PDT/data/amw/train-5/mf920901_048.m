@@ -21,7 +21,7 @@
 <form>Zlatá</form>
 <tag>
 <AM lemma="zlatá_^(*1ka)" src="orig">NNFS1-----A----</AM>
-<AM lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="auto" recommended="1" selected="1">AAFS1----1A----</AM>
+<AM lemma="zlatý-1_^(atribut;_z._řetízek,_poklad,...)" src="auto" recommended="1" selected="1">AAFS1----1A----</AM>
 <AM lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="auto">AAFS5----1A----</AM>
 <AM lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="auto">AANP1----1A----</AM>
 <AM lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="auto">AANP4----1A----</AM>
@@ -110,7 +110,7 @@
 <LM>w#w-mf920901-048-p2s1w1</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrFS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS4----------</tag>
 </m>
 <m id="m-mf920901-048-p2s1w2">
 <src.rf>manual</src.rf>
@@ -118,7 +118,7 @@
 <LM>w#w-mf920901-048-p2s1w2</LM>
 </w.rf>
 <form>zlatou</form>
-<tag lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAFS4----1A----</tag>
+<tag lemma="zlatý-1_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-mf920901-048-p2s1w3">
 <src.rf>manual</src.rf>

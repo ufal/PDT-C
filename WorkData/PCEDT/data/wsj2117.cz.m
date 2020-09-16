@@ -712,7 +712,7 @@
 <AM lemma="stanovený_^(určit)_(*3it)" src="auto">AANP1----1A---6</AM>
 <AM lemma="stanovený_^(určit)_(*3it)" src="auto">AANP4----1A---6</AM>
 <AM lemma="stanovený_^(určit)_(*3it)" src="auto">AANP5----1A---6</AM>
-<AM lemma="stanovený_^(určit)_(*3it)" src="auto" recommended="1">AANS1----1A----</AM>
+<AM lemma="stanovený_^(*3it)" src="auto" recommended="1">AANS1----1A----</AM>
 <AM lemma="stanovený_^(určit)_(*3it)" src="auto">AANS4----1A----</AM>
 <AM lemma="stanovený_^(určit)_(*3it)" src="auto">AANS5----1A----</AM>
 </tag>
@@ -1379,7 +1379,7 @@
 <AM lemma="stanovený_^(určit)_(*3it)" src="auto">AANP1----1A---6</AM>
 <AM lemma="stanovený_^(určit)_(*3it)" src="auto">AANP4----1A---6</AM>
 <AM lemma="stanovený_^(určit)_(*3it)" src="auto">AANP5----1A---6</AM>
-<AM lemma="stanovený_^(určit)_(*3it)" src="auto" recommended="1">AANS1----1A----</AM>
+<AM lemma="stanovený_^(*3it)" src="auto" recommended="1">AANS1----1A----</AM>
 <AM lemma="stanovený_^(určit)_(*3it)" src="auto">AANS4----1A----</AM>
 <AM lemma="stanovený_^(určit)_(*3it)" src="auto">AANS5----1A----</AM>
 </tag>

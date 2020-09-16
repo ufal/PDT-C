@@ -277,7 +277,7 @@
 <LM>w#w-mf930703-144-p2s1w24</LM>
 </w.rf>
 <form>sympoziu</form>
-<tag lemma="sympózium" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="sympozium" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-mf930703-144-p2s1w25">
 <src.rf>manual</src.rf>
@@ -807,7 +807,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>

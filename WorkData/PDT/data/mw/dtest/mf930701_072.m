@@ -165,7 +165,7 @@
 <LM>w#w-mf930701-072-p2s1w17</LM>
 </w.rf>
 <form>Cupu</form>
-<tag lemma="Cup-1_;m_^(pohár,_soutěž;_v_názvech)" src="auto" selected="1">NNIS2-----A----</tag>
+<tag lemma="cup-1_^(pohár)" src="auto" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930701-072-p2s1w18">
 <src.rf>manual</src.rf>
@@ -589,7 +589,7 @@
 <LM>w#w-mf930701-072-p3s2w2</LM>
 </w.rf>
 <form>jezdec</form>
-<tag lemma="jezdec" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="jezdec-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-072-p3s2w3">
 <src.rf>manual</src.rf>
@@ -873,7 +873,7 @@
 <LM>w#w-mf930701-072-p3s4w7</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS6---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS6---------1</tag>
 </m>
 <m id="m-mf930701-072-p3s4w8">
 <src.rf>manual</src.rf>

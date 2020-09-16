@@ -209,7 +209,7 @@
 <LM>w#w-ln94203-112-p2s1Bw15</LM>
 </w.rf>
 <form>Yorku</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="York-2_;G_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln94203-112-p2s1Bw16">
 <src.rf>manual</src.rf>
@@ -822,7 +822,7 @@
 <LM>w#w-ln94203-112-p3s5w6</LM>
 </w.rf>
 <form>mé</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSNS1-S1------1</tag>
+<tag lemma="můj" src="orig" selected="1">PSNS1-S1------1</tag>
 </m>
 <m id="m-ln94203-112-p3s5w7">
 <src.rf>manual</src.rf>
@@ -910,7 +910,7 @@
 <LM>w#w-ln94203-112-p3s5w17</LM>
 </w.rf>
 <form>horší</form>
-<tag lemma="špatný" src="orig" selected="1">AANS1----2A----</tag>
+<tag lemma="horší" src="orig" selected="1">AANS1----2A----</tag>
 </m>
 <m id="m-ln94203-112-p3s5w18">
 <src.rf>manual</src.rf>
@@ -938,7 +938,7 @@
 <form>hodně</form>
 <tag>
 <AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="hodně_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-112-p3s6w3">
@@ -1532,7 +1532,7 @@
 <LM>w#w-ln94203-112-p4s3w5</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-ln94203-112-p4s3w6">
 <src.rf>manual</src.rf>

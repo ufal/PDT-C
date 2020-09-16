@@ -17,7 +17,7 @@
 </w.rf>
 <form>Rozčilená</form>
 <tag>
-<AM lemma="rozčilený_^(*3it)_(*5ílit)" src="auto" recommended="1">AAFS1----1A----</AM>
+<AM lemma="rozčilený_,s_^(^DD**rozčílený)" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="rozčilený_^(*3it)_(*5ílit)" src="auto">AAFS5----1A----</AM>
 <AM lemma="rozčilený_^(*3it)_(*5ílit)" src="auto">AANP1----1A----</AM>
 <AM lemma="rozčilený_^(*3it)_(*5ílit)" src="auto">AANP4----1A----</AM>
@@ -143,7 +143,7 @@
 <AM lemma="jeho_^(přivlast.)" src="auto">PSFXXFS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSIS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSNS4FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XP1FS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9XP1FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP5FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSZS1FS3-------</AM>
@@ -731,7 +731,7 @@
 <AM lemma="podaný_^(něco_[někomu]_[někam])_(*2t)" src="auto">AAFP5----1A----</AM>
 <AM lemma="podaný_^(něco_[někomu]_[někam])_(*2t)" src="auto">AAFS2----1A----</AM>
 <AM lemma="podaný_^(něco_[někomu]_[někam])_(*2t)" src="auto">AAFS3----1A----</AM>
-<AM lemma="podaný_^(něco_[někomu]_[někam])_(*2t)" src="auto" recommended="1">AAFS6----1A----</AM>
+<AM lemma="podaný_^(*2t)" src="auto" recommended="1">AAFS6----1A----</AM>
 <AM lemma="podaný_^(něco_[někomu]_[někam])_(*2t)" src="auto">AAIP1----1A----</AM>
 <AM lemma="podaný_^(něco_[někomu]_[někam])_(*2t)" src="auto">AAIP4----1A----</AM>
 <AM lemma="podaný_^(něco_[někomu]_[někam])_(*2t)" src="auto">AAIP5----1A----</AM>
@@ -1008,7 +1008,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0546-001-p1s2W18-Ta">
@@ -1821,7 +1821,7 @@
 <AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto">NNNP1-----A----</AM>
 <AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto">NNNP4-----A----</AM>
 <AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto">NNNP5-----A----</AM>
-<AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="právo" src="auto" recommended="1">NNNS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0546-001-p1s4W40-Ta">
@@ -2366,7 +2366,7 @@
 <AM lemma="můj_^(přivlast.)" src="auto">PSFS2-P1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSFS3-P1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSFS4-P1------6</AM>
-<AM lemma="můj_^(přivlast.)" src="auto" recommended="1">PSFS6-P1-------</AM>
+<AM lemma="náš" src="auto" recommended="1">PSFS6-P1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSFS7-P1-------</AM>
 </tag>
 </m>
@@ -2725,7 +2725,7 @@
 </w.rf>
 <form>našich</form>
 <tag>
-<AM lemma="můj_^(přivlast.)" src="auto" recommended="1">PSXP2-P1-------</AM>
+<AM lemma="náš" src="auto" recommended="1">PSXP2-P1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSXP6-P1-------</AM>
 </tag>
 </m>
@@ -2911,7 +2911,7 @@
 <AM lemma="můj_^(přivlast.)" src="auto">PSFS2-P1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSFS3-P1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSFS4-P1------6</AM>
-<AM lemma="můj_^(přivlast.)" src="auto" recommended="1">PSFS6-P1-------</AM>
+<AM lemma="náš" src="auto" recommended="1">PSFS6-P1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSFS7-P1-------</AM>
 </tag>
 </m>
@@ -3210,7 +3210,7 @@
 <AM lemma="co-1" src="auto">PQ--4----------</AM>
 <AM lemma="co-2_^(cože;_ale_co)" src="auto">TT-------------</AM>
 <AM lemma="co-3_^(když:_poté/od_té_doby,_co)" src="auto">J,-------------</AM>
-<AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto" recommended="1">P4XXX----------</AM>
+<AM lemma="co-4_^(který:_o_těch,_co_odešli)" src="auto" recommended="1">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
 </tag>

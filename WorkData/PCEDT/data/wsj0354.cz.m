@@ -2575,7 +2575,7 @@
 <AM lemma="událost_^(*3ý)" src="auto">NNFS2-----A----</AM>
 <AM lemma="událost_^(*3ý)" src="auto">NNFS3-----A----</AM>
 <AM lemma="událost_^(*3ý)" src="auto">NNFS5-----A----</AM>
-<AM lemma="událost_^(*3ý)" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="událost" src="auto" recommended="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0354-001-p1s9W4-Ta">
@@ -2705,7 +2705,7 @@
 <AM lemma="jeho_^(přivlast.)" src="auto">PSFXXFS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSIS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSNS4FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XP1FS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9XP1FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP5FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSZS1FS3-------</AM>

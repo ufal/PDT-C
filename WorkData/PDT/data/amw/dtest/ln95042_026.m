@@ -397,7 +397,7 @@
 <LM>w#w-ln95042-026-p2s1Bw34</LM>
 </w.rf>
 <form>letounu</form>
-<tag lemma="letoun" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="letoun-1" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln95042-026-p2s1Bw35">
 <src.rf>manual</src.rf>
@@ -511,7 +511,7 @@
 <LM>w#w-ln95042-026-p3s1w11</LM>
 </w.rf>
 <form>letounů</form>
-<tag lemma="letoun" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="letoun-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln95042-026-p3s1w12">
 <src.rf>manual</src.rf>
@@ -546,7 +546,7 @@
 <LM>w#w-ln95042-026-p3s1w15</LM>
 </w.rf>
 <form>rychlík</form>
-<tag lemma="rychlík" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="rychlík-1" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln95042-026-p3s1w16">
 <src.rf>manual</src.rf>
@@ -854,7 +854,7 @@
 <LM>w#w-ln95042-026-p3s4w4</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-ln95042-026-p3s4w5">
 <src.rf>manual</src.rf>
@@ -937,7 +937,7 @@
 <LM>w#w-ln95042-026-p3s4w14</LM>
 </w.rf>
 <form>letounem</form>
-<tag lemma="letoun" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="letoun-1" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-ln95042-026-p3s4w15">
 <src.rf>manual</src.rf>
@@ -961,7 +961,7 @@
 <LM>w#w-ln95042-026-p3s4w17</LM>
 </w.rf>
 <form>jehož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P1XXXZS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXZS3-------</tag>
 </m>
 <m id="m-ln95042-026-p3s4w18">
 <src.rf>manual</src.rf>
@@ -1408,7 +1408,7 @@
 <form>stojí</form>
 <tag>
 <AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig">VB-S---3P-AA---</AM>
-<AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="manual" selected="1">VB-S---3P-AAI--</AM>
+<AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m-ln95042-026-p3s6w5">
@@ -1473,7 +1473,7 @@
 <LM>w#w-ln95042-026-p3s6w12</LM>
 </w.rf>
 <form>letounu</form>
-<tag lemma="letoun" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="letoun-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95042-026-p3s6w13">
 <src.rf>manual</src.rf>
@@ -1717,7 +1717,7 @@
 <LM>w#w-ln95042-026-p3s8w4</LM>
 </w.rf>
 <form>letoun</form>
-<tag lemma="letoun" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="letoun-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95042-026-p3s8w5">
 <src.rf>manual</src.rf>
@@ -2202,7 +2202,7 @@
 <LM>w#w-ln95042-026-p4s2w6</LM>
 </w.rf>
 <form>Rockwell</form>
-<tag lemma="Rockwell_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Rockwell_;G_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95042-026-p4s2w7">
 <src.rf>manual</src.rf>
@@ -2218,7 +2218,7 @@
 <LM>w#w-ln95042-026-p4s2w8</LM>
 </w.rf>
 <form>jehož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P1XXXZS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXZS3-------</tag>
 </m>
 <m id="m-ln95042-026-p4s2w9">
 <src.rf>manual</src.rf>
@@ -2306,7 +2306,7 @@
 <LM>w#w-ln95042-026-p4s3w2</LM>
 </w.rf>
 <form>Rockwell</form>
-<tag lemma="Rockwell_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Rockwell_;G_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95042-026-p4s3w3">
 <src.rf>manual</src.rf>
@@ -2735,7 +2735,7 @@
 <LM>w#w-ln95042-026-p4s5w19</LM>
 </w.rf>
 <form>letounu</form>
-<tag lemma="letoun" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="letoun-1" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln95042-026-p4s5w20">
 <src.rf>manual</src.rf>

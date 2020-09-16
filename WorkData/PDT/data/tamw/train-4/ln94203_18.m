@@ -19,7 +19,7 @@
 <LM>w#w-ln94203-18-p1s1w1</LM>
 </w.rf>
 <form>Rada</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94203-18-p1s1w2">
 <src.rf>manual</src.rf>
@@ -253,7 +253,7 @@
 <LM>w#w-ln94203-18-p2s1Bw21</LM>
 </w.rf>
 <form>Rada</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94203-18-p2s1Bw22">
 <src.rf>manual</src.rf>
@@ -347,7 +347,7 @@
 <LM>w#w-ln94203-18-p2s1Bw32</LM>
 </w.rf>
 <form>vydaného</form>
-<tag lemma="vydaný-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*4t-1)" src="orig" selected="1">AAIS2----1A----</tag>
+<tag lemma="vydaný_^(*2t)" src="orig" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-ln94203-18-p2s1Bw33">
 <src.rf>manual</src.rf>
@@ -397,7 +397,7 @@
 <LM>w#w-ln94203-18-p2s2w1</LM>
 </w.rf>
 <form>Rada</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94203-18-p2s2w2">
 <src.rf>manual</src.rf>

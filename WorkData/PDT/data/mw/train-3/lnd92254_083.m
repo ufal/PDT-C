@@ -196,7 +196,7 @@
 <LM>w#w-lnd92254-083-p1s4w1</LM>
 </w.rf>
 <form>Ofelie</form>
-<tag lemma="Ofelie_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Ofelie_;Y_,s_^(^DD**Ofélie)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92254-083-p1s4w2">
 <src.rf>manual</src.rf>
@@ -1217,7 +1217,7 @@
 <LM>w#w-lnd92254-083-p1s27w1</LM>
 </w.rf>
 <form>Šara</form>
-<tag lemma="Šara_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šara-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-083-p1s27w2">
 <src.rf>manual</src.rf>

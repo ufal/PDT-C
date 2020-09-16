@@ -512,7 +512,7 @@
 <LM>w#w-ln94202-113-p2s4w3</LM>
 </w.rf>
 <form>potřeby</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94202-113-p2s4w4">
 <src.rf>manual</src.rf>
@@ -1390,7 +1390,7 @@
 <LM>w#w-ln94202-113-p3s5w4</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-ln94202-113-p3s5w5">
 <src.rf>manual</src.rf>

@@ -79,7 +79,7 @@
 <LM>w#w-mf930709-096-p2s1Bw3</LM>
 </w.rf>
 <form>nejlepšího</form>
-<tag lemma="dobrý" src="orig" selected="1">AAMS2----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAMS2----3A----</tag>
 </m>
 <m id="m-mf930709-096-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -239,7 +239,7 @@
 <LM>w#w-mf930709-096-p2s2w7</LM>
 </w.rf>
 <form>Sofii</form>
-<tag lemma="Sofie-1_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Sofie_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf930709-096-p2s2w8">
 <src.rf>manual</src.rf>

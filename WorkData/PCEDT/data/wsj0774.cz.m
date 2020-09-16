@@ -906,7 +906,7 @@
 </w.rf>
 <form>jejích</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XP2FS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9XP2FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP6FS3-------</AM>
 </tag>
 </m>
@@ -1156,7 +1156,7 @@
 <AM lemma="daný_^(*3át)" src="auto">AANP4----1A---6</AM>
 <AM lemma="daný_^(*3át)" src="auto">AANP5----1A---6</AM>
 <AM lemma="daný_^(*3át)" src="auto">AANS1----1A----</AM>
-<AM lemma="daný_^(*3át)" src="auto" recommended="1">AANS4----1A----</AM>
+<AM lemma="daný-1_^(*5át-1)" src="auto" recommended="1">AANS4----1A----</AM>
 <AM lemma="daný_^(*3át)" src="auto">AANS5----1A----</AM>
 </tag>
 </m>

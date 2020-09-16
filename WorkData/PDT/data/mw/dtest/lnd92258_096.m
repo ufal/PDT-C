@@ -492,7 +492,7 @@
 <LM>w#w-lnd92258-096-p3s3w9</LM>
 </w.rf>
 <form>přeložitelný</form>
-<tag lemma="přeložitelný-3_^(z_jazyka)_(*6-3)" src="orig" selected="1">AAIS1----1A----</tag>
+<tag lemma="přeložitelný_^(*4)" src="orig" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-lnd92258-096-p3s3w10">
 <src.rf>manual</src.rf>

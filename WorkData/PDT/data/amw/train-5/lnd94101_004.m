@@ -223,7 +223,7 @@
 <LM>w#w-lnd94101-004-p1s3w15</LM>
 </w.rf>
 <form>člena</form>
-<tag lemma="člen" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94101-004-p1s3w16">
 <src.rf>manual</src.rf>
@@ -1077,7 +1077,7 @@
 <LM>w#w-lnd94101-004-p1s9w3</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-4_^(v_knize,_rukopise,...)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd94101-004-p1s9w4">
 <src.rf>manual</src.rf>

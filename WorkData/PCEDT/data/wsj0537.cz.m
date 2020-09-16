@@ -2194,7 +2194,7 @@
 </w.rf>
 <form>pana</form>
 <tag>
-<AM lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="pan" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="pan_^(oslovení)" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>
@@ -2448,7 +2448,7 @@
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FP4---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS2---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS3---------1</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8FS6---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8FS6---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8IP1---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8IP5---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS1---------1</AM>
@@ -2814,7 +2814,7 @@
 <AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AAMS2----1A----</AM>
 <AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AAMS4----1A----</AM>
 <AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AANS2----1A----</AM>
-<AM lemma="konkurzní_^(týkající_se_úpadku,_soutěže)" src="manual" selected="1">AAIS2----1A----</AM>
+<AM lemma="konkurzní" src="manual" selected="1">AAIS2----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0537-001-p1s6W6-Ta">
@@ -3167,7 +3167,7 @@
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8IP1---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8IP5---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS1---------1</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8NS4---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8NS4---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS5---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8YP4---------1</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOFP-----------</AM>
@@ -3675,7 +3675,7 @@
 <AM lemma="vlastněný_^(někdo_má_něco_ve_vlastnictví)_(*3it)" src="auto">AAFP3----1A----</AM>
 <AM lemma="vlastněný_^(někdo_má_něco_ve_vlastnictví)_(*3it)" src="auto">AAIP3----1A----</AM>
 <AM lemma="vlastněný_^(někdo_má_něco_ve_vlastnictví)_(*3it)" src="auto">AAIS6----1A---7</AM>
-<AM lemma="vlastněný_^(někdo_má_něco_ve_vlastnictví)_(*3it)" src="auto" recommended="1">AAIS7----1A----</AM>
+<AM lemma="vlastněný_^(*3it)" src="auto" recommended="1">AAIS7----1A----</AM>
 <AM lemma="vlastněný_^(někdo_má_něco_ve_vlastnictví)_(*3it)" src="auto">AAMP3----1A----</AM>
 <AM lemma="vlastněný_^(někdo_má_něco_ve_vlastnictví)_(*3it)" src="auto">AAMS6----1A---7</AM>
 <AM lemma="vlastněný_^(někdo_má_něco_ve_vlastnictví)_(*3it)" src="auto">AAMS7----1A----</AM>
@@ -3968,7 +3968,7 @@
 </w.rf>
 <form>dal</form>
 <tag>
-<AM lemma="dát" src="auto" recommended="1">VpYS----R-AAP--</AM>
+<AM lemma="dát-1" src="auto" recommended="1">VpYS----R-AAP--</AM>
 <AM lemma="dát-2_^(dá_se_očekávat)" src="auto">VpYS----R-AAI--</AM>
 </tag>
 </m>
@@ -4612,7 +4612,7 @@
 <form>jejího</form>
 <tag>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSMS4FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9ZS2FS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9ZS2FS3-------</AM>
 </tag>
 </m>
 <m id="m-wsj0537-001-p1s10W13-Ta">
@@ -5789,7 +5789,7 @@
 <AM lemma="York-2_;G" src="auto">NNIS2-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS5-----A----</AM>
-<AM lemma="York-2_;G" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="York-2_;G_;m" src="auto" recommended="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0537-001-p1s13W8-Ta">
@@ -6338,7 +6338,7 @@
 <form>druhém</form>
 <tag>
 <AM lemma="druhý" src="auto" recommended="1">CrIS6----------</AM>
-<AM lemma="druhý" src="auto" selected="1">CrMS6----------</AM>
+<AM lemma="druhý`2" src="auto" selected="1">CrMS6----------</AM>
 <AM lemma="druhý" src="auto">CrNS6----------</AM>
 </tag>
 </m>
@@ -6876,7 +6876,7 @@
 <AM lemma="navržený_^(*4hnout)" src="auto">AAIP1----1A---6</AM>
 <AM lemma="navržený_^(*4hnout)" src="auto">AAIP4----1A---6</AM>
 <AM lemma="navržený_^(*4hnout)" src="auto">AAIP5----1A---6</AM>
-<AM lemma="navržený_^(*4hnout)" src="auto" recommended="1">AAIS1----1A----</AM>
+<AM lemma="navržený" src="auto" recommended="1">AAIS1----1A----</AM>
 <AM lemma="navržený_^(*4hnout)" src="auto">AAIS4----1A----</AM>
 <AM lemma="navržený_^(*4hnout)" src="auto">AAIS5----1A----</AM>
 <AM lemma="navržený_^(*4hnout)" src="auto">AAMP1----1A---6</AM>
@@ -7368,7 +7368,7 @@
 <AM lemma="zavržený_^(*4hnout)" src="auto">AAIP1----1A---6</AM>
 <AM lemma="zavržený_^(*4hnout)" src="auto">AAIP4----1A---6</AM>
 <AM lemma="zavržený_^(*4hnout)" src="auto">AAIP5----1A---6</AM>
-<AM lemma="zavržený_^(*4hnout)" src="auto" recommended="1">AAIS1----1A----</AM>
+<AM lemma="zavržený" src="auto" recommended="1">AAIS1----1A----</AM>
 <AM lemma="zavržený_^(*4hnout)" src="auto">AAIS4----1A----</AM>
 <AM lemma="zavržený_^(*4hnout)" src="auto">AAIS5----1A----</AM>
 <AM lemma="zavržený_^(*4hnout)" src="auto">AAMP1----1A---6</AM>

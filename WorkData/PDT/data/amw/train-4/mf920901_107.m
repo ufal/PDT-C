@@ -355,7 +355,7 @@
 <LM>w#w-mf920901-107-p2s3w9</LM>
 </w.rf>
 <form>Slováci</form>
-<tag lemma="Slovák_;E" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="Slovák_;E_;Y" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf920901-107-p2s3w10">
 <src.rf>manual</src.rf>

@@ -52,7 +52,7 @@
 </w.rf>
 <form>svůj</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8IS4----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8IS4----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8YS1----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8YS5----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOYS-----------</AM>
@@ -2248,7 +2248,7 @@
 <AM lemma="ča_^(ča-ča)" src="auto">NNFS2-----A----</AM>
 <AM lemma="ča_^(ča-ča)" src="auto">NNFS3-----A---1</AM>
 <AM lemma="ča_^(ča-ča)" src="auto">NNFS6-----A---1</AM>
-<AM lemma="či" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="či-1" src="auto" recommended="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2068-001-p1s6W30-Ta">
@@ -2380,7 +2380,7 @@
 <AM lemma="zastižení_^(*4hnout)" src="auto">NNNP5-----A----</AM>
 <AM lemma="zastižení_^(*4hnout)" src="auto">NNNS1-----A----</AM>
 <AM lemma="zastižení_^(*4hnout)" src="auto">NNNS2-----A----</AM>
-<AM lemma="zastižení_^(*4hnout)" src="auto" recommended="1">NNNS3-----A----</AM>
+<AM lemma="zastižení" src="auto" recommended="1">NNNS3-----A----</AM>
 <AM lemma="zastižení_^(*4hnout)" src="auto">NNNS4-----A----</AM>
 <AM lemma="zastižení_^(*4hnout)" src="auto">NNNS5-----A----</AM>
 <AM lemma="zastižení_^(*4hnout)" src="auto">NNNS6-----A----</AM>

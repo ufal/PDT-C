@@ -31,7 +31,7 @@
 </w.rf>
 <form>nás</form>
 <tag>
-<AM lemma="já" src="auto" recommended="1">PP-P2--1-------</AM>
+<AM lemma="my" src="auto" recommended="1">PP-P2--1-------</AM>
 <AM lemma="já" src="auto">PP-P4--1-------</AM>
 <AM lemma="já" src="auto">PP-P6--1-------</AM>
 </tag>
@@ -665,7 +665,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="třeba-3" src="auto" selected="1">TT-------------</AM>
+<AM lemma="třeba-2_^(například)" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m145-d1t2100-11">
@@ -972,7 +972,7 @@
 </w.rf>
 <form>koníček</form>
 <tag>
-<AM lemma="koníček" src="auto" selected="1">NNIS1-----A----</AM>
+<AM lemma="koníček-1" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="koníček" src="auto">NNIS4-----A----</AM>
 <AM lemma="koníček" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
@@ -1085,7 +1085,7 @@
 <LM>w#w-d1t2123-9</LM>
 </w.rf>
 <form>vypadá</form>
-<tag lemma="vypadat" src="auto" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="vypadat-1_^(ty_vypadáš)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m145-d1t2123-8">
 <w.rf>
@@ -1970,7 +1970,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m145-d1t2159-32">
@@ -2265,7 +2265,7 @@
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS1---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS5---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NP1---------1</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8NP4---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8NP4---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NP5---------1</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOFS-----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AONP-----------</AM>
@@ -2942,7 +2942,7 @@
 </w.rf>
 <form>ne</form>
 <tag>
-<AM lemma="ne" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ne-1" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="neděle_:B" src="auto">NNFXX-----A---8</AM>
 </tag>
 </m>
@@ -3000,7 +3000,7 @@
 </w.rf>
 <form>ne</form>
 <tag>
-<AM lemma="ne" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ne-1" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="neděle_:B" src="auto">NNFXX-----A---8</AM>
 </tag>
 </m>
@@ -3033,7 +3033,7 @@
 </w.rf>
 <form>vy</form>
 <tag>
-<AM lemma="ty" src="auto" recommended="1">PP-P1--2-------</AM>
+<AM lemma="vy" src="auto" recommended="1">PP-P1--2-------</AM>
 <AM lemma="ty" src="auto">PP-P5--2-------</AM>
 </tag>
 </m>
@@ -3469,7 +3469,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m145-d1e2287-x2-659">

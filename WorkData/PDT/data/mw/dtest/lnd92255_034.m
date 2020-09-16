@@ -402,7 +402,7 @@
 <LM>w#w-lnd92255-034-p3s3w12</LM>
 </w.rf>
 <form>orgány</form>
-<tag lemma="orgán" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-lnd92255-034-p3s3w13">
 <src.rf>manual</src.rf>
@@ -572,7 +572,7 @@
 <LM>w#w-lnd92255-034-p3s4w16</LM>
 </w.rf>
 <form>orgány</form>
-<tag lemma="orgán" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-lnd92255-034-p3s4w17">
 <src.rf>manual</src.rf>
@@ -628,7 +628,7 @@
 <LM>w#w-lnd92255-034-p3s4w23</LM>
 </w.rf>
 <form>druhou</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS7----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS7----------</tag>
 </m>
 <m id="m-lnd92255-034-p3s4w24">
 <src.rf>manual</src.rf>
@@ -852,7 +852,7 @@
 <LM>w#w-lnd92255-034-p3s6w7</LM>
 </w.rf>
 <form>předání</form>
-<tag lemma="předání-3_^(někomu_něco)_(*5at-3)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="předání_^(*3at)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-lnd92255-034-p3s6w8">
 <src.rf>manual</src.rf>
@@ -1002,7 +1002,7 @@
 <LM>w#w-lnd92255-034-p3s6w25</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-lnd92255-034-p3s6w26">
 <src.rf>manual</src.rf>

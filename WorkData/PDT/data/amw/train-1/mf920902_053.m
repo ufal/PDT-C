@@ -305,7 +305,7 @@
 <LM>w#w-mf920902-053-p2s3w16</LM>
 </w.rf>
 <form>činitele</form>
-<tag lemma="činitel" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="činitel-1" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf920902-053-p2s3w17">
 <src.rf>manual</src.rf>

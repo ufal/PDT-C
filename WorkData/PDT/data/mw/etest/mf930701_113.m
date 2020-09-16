@@ -43,7 +43,7 @@
 <LM>w#w-mf930701-113-p1s1w4</LM>
 </w.rf>
 <form>ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 </s>
 <s id="m-mf930701-113-p2s1">
@@ -221,7 +221,7 @@
 <LM>w#w-mf930701-113-p2s1w22</LM>
 </w.rf>
 <form>Slavii</form>
-<tag lemma="Slavia_;m" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Slavie_;m_,s_^(^DD**Slávie)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf930701-113-p2s1w23">
 <src.rf>manual</src.rf>
@@ -395,7 +395,7 @@
 <LM>w#w-mf930701-113-p2s2w7</LM>
 </w.rf>
 <form>pana</form>
-<tag lemma="pan_^(oslovení)" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="pan" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930701-113-p2s2w8">
 <src.rf>manual</src.rf>
@@ -435,7 +435,7 @@
 <LM>w#w-mf930701-113-p2s2w12</LM>
 </w.rf>
 <form>Slavii</form>
-<tag lemma="Slavia_;m" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Slavie_;m_,s_^(^DD**Slávie)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf930701-113-p2s2w13">
 <src.rf>manual</src.rf>
@@ -472,7 +472,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-113-p2s3w3">
@@ -595,7 +595,7 @@
 <LM>w#w-mf930701-113-p2s4w8</LM>
 </w.rf>
 <form>právo</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-mf930701-113-p2s4w9">
 <src.rf>manual</src.rf>
@@ -659,7 +659,7 @@
 <LM>w#w-mf930701-113-p2s4w16</LM>
 </w.rf>
 <form>Slavie</form>
-<tag lemma="Slavia_;m" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Slavie_;m_,s_^(^DD**Slávie)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930701-113-p2s4w17">
 <src.rf>manual</src.rf>
@@ -943,7 +943,7 @@
 <LM>w#w-mf930701-113-p2s6w16</LM>
 </w.rf>
 <form>Slavie</form>
-<tag lemma="Slavia_;m" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Slavie_;m_,s_^(^DD**Slávie)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930701-113-p2s6w17">
 <src.rf>manual</src.rf>

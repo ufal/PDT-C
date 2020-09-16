@@ -211,7 +211,7 @@
 <LM>w#w-mf920901-091-p2s1w20</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS7----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS7----------</tag>
 </m>
 <m id="m-mf920901-091-p2s1w21">
 <src.rf>manual</src.rf>

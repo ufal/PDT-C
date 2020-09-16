@@ -102,7 +102,7 @@
 <LM>w#w-lnd91301-086-p3s1w2</LM>
 </w.rf>
 <form>druhý</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS4----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS4----------</tag>
 </m>
 <m id="m-lnd91301-086-p3s1w3">
 <src.rf>manual</src.rf>
@@ -158,7 +158,7 @@
 <LM>w#w-lnd91301-086-p3s1w9</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd91301-086-p3s1w10">
 <src.rf>manual</src.rf>
@@ -270,7 +270,7 @@
 <LM>w#w-lnd91301-086-p3s1w23</LM>
 </w.rf>
 <form>úvodní</form>
-<tag lemma="úvodní_,s" src="orig" selected="1">AAFS6----1A----</tag>
+<tag lemma="úvodní" src="orig" selected="1">AAFS6----1A----</tag>
 </m>
 <m id="m-lnd91301-086-p3s1w24">
 <src.rf>manual</src.rf>
@@ -791,7 +791,7 @@
 <LM>w#w-lnd91301-086-p4s3w23</LM>
 </w.rf>
 <form>nemocí</form>
-<tag lemma="nemoc_^(choroba)" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="nemoc" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-lnd91301-086-p4s3w24">
 <src.rf>manual</src.rf>
@@ -1131,7 +1131,7 @@
 <LM>w#w-lnd91301-086-p4s5w6</LM>
 </w.rf>
 <form>dal</form>
-<tag lemma="dát" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd91301-086-p4s5w7">
 <src.rf>manual</src.rf>
@@ -1408,7 +1408,7 @@
 <LM>w#w-lnd91301-086-p5s1w3</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-lnd91301-086-p5s1w4">
 <src.rf>manual</src.rf>
@@ -1816,7 +1816,7 @@
 <LM>w#w-lnd91301-086-p5s3w5</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-lnd91301-086-p5s3w6">
 <src.rf>manual</src.rf>
@@ -1832,7 +1832,7 @@
 <LM>w#w-lnd91301-086-p5s3w7</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-lnd91301-086-p5s3w8">
 <src.rf>manual</src.rf>

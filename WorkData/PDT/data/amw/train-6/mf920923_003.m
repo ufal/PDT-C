@@ -313,7 +313,7 @@
 <LM>w#w-mf920923-003-p4s1w7</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XP1FS3-------</tag>
 </m>
 <m id="m-mf920923-003-p4s1w8">
 <src.rf>manual</src.rf>
@@ -693,7 +693,7 @@
 <LM>w#w-mf920923-003-p5s4w9</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-mf920923-003-p5s4w10">
 <src.rf>manual</src.rf>
@@ -701,7 +701,7 @@
 <LM>w#w-mf920923-003-p5s4w10</LM>
 </w.rf>
 <form>Slováci</form>
-<tag lemma="Slovák_;E" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="Slovák_;E_;Y" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf920923-003-p5s4w11">
 <src.rf>manual</src.rf>
@@ -877,7 +877,7 @@
 <tag>
 <AM lemma="starost" src="orig">NNFP4-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFP1-----A----</AM>
-<AM lemma="starost-1" src="auto" recommended="1" selected="1">NNFP4-----A----</AM>
+<AM lemma="starost-2_^(*5ý-2)" src="auto" recommended="1" selected="1">NNFP4-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFP5-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFS2-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFS3-----A----</AM>
@@ -997,7 +997,7 @@
 <LM>w#w-mf920923-003-p5s6w7</LM>
 </w.rf>
 <form>dni</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS3-----A---1</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS3-----A---1</tag>
 </m>
 <m id="m-mf920923-003-p5s6w8">
 <src.rf>manual</src.rf>
@@ -1428,7 +1428,7 @@
 <LM>w#w-mf920923-003-p5s10w11</LM>
 </w.rf>
 <form>prostředky</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-mf920923-003-p5s10w12">
 <src.rf>manual</src.rf>
@@ -2017,7 +2017,7 @@
 <form>ČEZ</form>
 <tag>
 <AM lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ČEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČEZ-2_;m_^(České_energetické_závody)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-003-p5s14w5">
@@ -2464,7 +2464,7 @@
 <LM>w#w-mf920923-003-p5s17w21</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-mf920923-003-p5s17w22">
 <src.rf>manual</src.rf>
@@ -2704,7 +2704,7 @@
 <LM>w#w-mf920923-003-p5s17w51</LM>
 </w.rf>
 <form>našeho</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSZS2-P1-------</tag>
 </m>
 <m id="m-mf920923-003-p5s17w52">
 <src.rf>manual</src.rf>

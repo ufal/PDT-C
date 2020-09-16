@@ -882,7 +882,7 @@
 <LM>w#w-lnd91303-043-p4s4w20</LM>
 </w.rf>
 <form>proto</form>
-<tag lemma="proto-2_^(dal_mu_co_proto,_tak_proto!)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="proto-2_^(proto_že)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd91303-043-p4s4w21">
 <src.rf>manual</src.rf>
@@ -1346,7 +1346,7 @@
 <LM>w#w-lnd91303-043-p4s8w2</LM>
 </w.rf>
 <form>kout</form>
-<tag lemma="kout_^(př._dát_něco_do_kouta)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="kout-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd91303-043-p4s8w3">
 <src.rf>manual</src.rf>
@@ -1448,7 +1448,7 @@
 <LM>w#w-lnd91303-043-p4s8w14</LM>
 </w.rf>
 <form>White</form>
-<tag lemma="White_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="White-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-043-p4s8w15">
 <src.rf>manual</src.rf>

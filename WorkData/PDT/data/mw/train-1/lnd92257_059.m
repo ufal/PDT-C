@@ -1238,7 +1238,7 @@
 <LM>w#w-lnd92257-059-p3s8w21</LM>
 </w.rf>
 <form>nezpochybněnou</form>
-<tag lemma="zpochybněný_,s_^(*3it)" src="orig" selected="1">AAFS4----1N----</tag>
+<tag lemma="zpochybněný_^(*2t)_(*3it)" src="orig" selected="1">AAFS4----1N----</tag>
 </m>
 <m id="m-lnd92257-059-p3s8w22">
 <src.rf>manual</src.rf>
@@ -1840,7 +1840,7 @@
 <LM>w#w-lnd92257-059-p5s1w4</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-lnd92257-059-p5s1w5">
 <src.rf>manual</src.rf>
@@ -2040,7 +2040,7 @@
 <LM>w#w-lnd92257-059-p5s2w9</LM>
 </w.rf>
 <form>dávno</form>
-<tag lemma="dávno" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="dávno-1" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd92257-059-p5s2w10">
 <src.rf>manual</src.rf>
@@ -2056,7 +2056,7 @@
 <LM>w#w-lnd92257-059-p5s2w11</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd92257-059-p5s2w12">
 <src.rf>manual</src.rf>
@@ -2653,7 +2653,7 @@
 <LM>w#w-lnd92257-059-p5s4w30</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92257-059-p5s4w31">
 <src.rf>manual</src.rf>
@@ -2923,7 +2923,7 @@
 <LM>w#w-lnd92257-059-p5s5w31</LM>
 </w.rf>
 <form>brání</form>
-<tag lemma="bránit_^(klást_překážky)" src="auto" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="bránit" src="auto" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92257-059-p5s5w32">
 <src.rf>manual</src.rf>
@@ -3477,7 +3477,7 @@
 <LM>w#w-lnd92257-059-p6s3w5</LM>
 </w.rf>
 <form>výbor</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92257-059-p6s3w6">
 <src.rf>manual</src.rf>
@@ -3769,7 +3769,7 @@
 <AM lemma="eko" src="auto" recommended="1">A2--------A----</AM>
 <AM lemma="EKO" src="manual">NNXXX-----A----</AM>
 <AM lemma="EKO" src="manual">NNXXX-----A---8</AM>
-<AM lemma="EKO-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="eko-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>

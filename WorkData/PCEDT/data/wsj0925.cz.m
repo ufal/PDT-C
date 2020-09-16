@@ -161,7 +161,7 @@
 </w.rf>
 <form>jejíž</form>
 <tag>
-<AM lemma="jenž_^(který...[ve_vedl._větě])" src="auto" recommended="1">P1FXXFS3-------</AM>
+<AM lemma="jehož" src="auto" recommended="1">P1FXXFS3-------</AM>
 <AM lemma="jenž_^(který...[ve_vedl._větě])" src="auto">P1IS4FS3-------</AM>
 <AM lemma="jenž_^(který...[ve_vedl._větě])" src="auto">P1NS4FS3-------</AM>
 <AM lemma="jenž_^(který...[ve_vedl._větě])" src="auto">P1XP1FS3-------</AM>
@@ -390,7 +390,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0925-001-p1s1W16-Ta">

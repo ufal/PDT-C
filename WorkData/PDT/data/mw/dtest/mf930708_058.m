@@ -51,7 +51,7 @@
 <LM>w#w-mf930708-058-p1s1w5</LM>
 </w.rf>
 <form>umění</form>
-<tag lemma="umění_^(mít_schopnost_něco_dělat)_(*2t)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="umění_^(*2t)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-mf930708-058-p1s1w6">
 <src.rf>manual</src.rf>
@@ -75,7 +75,7 @@
 <LM>w#w-mf930708-058-p1s1w8</LM>
 </w.rf>
 <form>přistavěným</form>
-<tag lemma="přistavěný_^(přidělat_ke_stavbě)_(*2t)" src="orig" selected="1">AAIS7----1A----</tag>
+<tag lemma="přistavěný_^(*2t)" src="orig" selected="1">AAIS7----1A----</tag>
 </m>
 <m id="m-mf930708-058-p1s1w9">
 <src.rf>manual</src.rf>

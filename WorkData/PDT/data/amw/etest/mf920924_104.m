@@ -476,7 +476,7 @@
 <form>Cupu</form>
 <tag>
 <AM lemma="Cup-1_;m_,t_^(pohár,_soutěž;_v_názvech)" src="auto">NNIS2-----A----</AM>
-<AM lemma="Cup-1_;m_^(pohár,_soutěž;_v_názvech)" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="cup-1_^(pohár)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-104-p2s3w29">
@@ -567,7 +567,7 @@
 <LM>w#w-mf920924-104-p2s4w8</LM>
 </w.rf>
 <form>kalhoty</form>
-<tag lemma="kalhoty_^(pomn.)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="kalhoty" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-mf920924-104-p2s4w9">
 <src.rf>manual</src.rf>
@@ -683,7 +683,7 @@
 <LM>w#w-mf920924-104-p2s4w21</LM>
 </w.rf>
 <form>zelenožlutý</form>
-<tag lemma="zelenožlutý" src="orig" selected="1">AAIS1----1A----</tag>
+<tag lemma="zelenožlutý_;o" src="orig" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-mf920924-104-p2s4w22">
 <src.rf>manual</src.rf>
@@ -1019,7 +1019,7 @@
 <LM>w#w-mf920924-104-p2s6w2</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrIS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS1----------</tag>
 </m>
 <m id="m-mf920924-104-p2s6w3">
 <src.rf>manual</src.rf>
@@ -1037,7 +1037,7 @@
 <form>dal</form>
 <tag>
 <AM lemma="dát" src="orig">VpYS----R-AAP--</AM>
-<AM lemma="dát" src="manual" selected="1">VpYS----R-AAP--</AM>
+<AM lemma="dát-1" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf920924-104-p2s6w5">
@@ -1086,7 +1086,7 @@
 <LM>w#w-mf920924-104-p2s6w10</LM>
 </w.rf>
 <form>centr</form>
-<tag lemma="centr_^(sport:_hráč)" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="centr-2_^(sport_hráč)" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-104-p2s6w11">
 <src.rf>manual</src.rf>
@@ -1237,7 +1237,7 @@
 <LM>w#w-mf920924-104-p2s8w1</LM>
 </w.rf>
 <form>Chybějící</form>
-<tag lemma="chybějící_^(někde_něco_chybí)_(*4t)" src="orig" selected="1">AGFS4-----A----</tag>
+<tag lemma="chybějící_^(*4t)" src="orig" selected="1">AGFS4-----A----</tag>
 </m>
 <m id="m-mf920924-104-p2s8w2">
 <src.rf>manual</src.rf>
@@ -1413,7 +1413,7 @@
 <LM>w#w-mf920924-104-p2s8w23</LM>
 </w.rf>
 <form>podávaným</form>
-<tag lemma="podávaný_^(něco_[někomu]_[někam])_(*2t)" src="auto" selected="1">AAIS7----1A----</tag>
+<tag lemma="podávaný_^(*2t)" src="auto" selected="1">AAIS7----1A----</tag>
 </m>
 <m id="m-mf920924-104-p2s8w24">
 <src.rf>manual</src.rf>

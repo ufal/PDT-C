@@ -35,7 +35,7 @@
 <LM>w#w-lnd94101-083-p1s1w3</LM>
 </w.rf>
 <form>boxera</form>
-<tag lemma="boxer" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="boxer-1" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 </s>
 <s id="m-lnd94101-083-p1s2">
@@ -71,7 +71,7 @@
 <LM>w#w-lnd94101-083-p1s3w2</LM>
 </w.rf>
 <form>boxer</form>
-<tag lemma="boxer" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="boxer-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-083-p1s3w3">
 <src.rf>manual</src.rf>
@@ -324,7 +324,7 @@
 <LM>w#w-lnd94101-083-p1s4w15</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-lnd94101-083-p1s4w16">
 <src.rf>manual</src.rf>

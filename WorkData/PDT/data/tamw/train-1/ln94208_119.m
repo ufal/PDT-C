@@ -200,7 +200,7 @@
 <LM>w#w-ln94208-119-p2s1Bw1</LM>
 </w.rf>
 <form>Druhá</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS1----------</tag>
 </m>
 <m id="m-ln94208-119-p2s1Bw2">
 <src.rf>manual</src.rf>
@@ -518,7 +518,7 @@
 <LM>w#w-ln94208-119-p2s2w28</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-ln94208-119-p2s2w29">
 <src.rf>manual</src.rf>
@@ -534,7 +534,7 @@
 <LM>w#w-ln94208-119-p2s2w30</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-ln94208-119-p2s2w31">
 <src.rf>manual</src.rf>
@@ -833,7 +833,7 @@
 <LM>w#w-ln94208-119-p2s5w7</LM>
 </w.rf>
 <form>vypadalo</form>
-<tag lemma="vypadat" src="orig" selected="1">VpNS----R-AAI--</tag>
+<tag lemma="vypadat-1_^(ty_vypadáš)" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln94208-119-p2s5w8">
 <src.rf>manual</src.rf>
@@ -881,7 +881,7 @@
 <LM>w#w-ln94208-119-p2s5w13</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrIS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS4----------</tag>
 </m>
 <m id="m-ln94208-119-p2s5w14">
 <src.rf>manual</src.rf>

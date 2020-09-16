@@ -780,7 +780,7 @@
 <LM>w#w-ln94206-25-p3s3w3</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-ln94206-25-p3s3w4">
 <src.rf>manual</src.rf>
@@ -901,7 +901,7 @@
 <LM>w#w-ln94206-25-p3s4w4</LM>
 </w.rf>
 <form>prvního</form>
-<tag lemma="první" src="orig" selected="1">CrNS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS2----------</tag>
 </m>
 <m id="m-ln94206-25-p3s4w5">
 <src.rf>manual</src.rf>
@@ -1716,7 +1716,7 @@
 <LM>w#w-ln94206-25-p6s2w2</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-ln94206-25-p6s2w3">
 <src.rf>manual</src.rf>
@@ -2353,7 +2353,7 @@
 <LM>w#w-ln94206-25-p7s2w2</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-ln94206-25-p7s2w3">
 <src.rf>manual</src.rf>

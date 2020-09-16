@@ -165,7 +165,7 @@
 </w.rf>
 <form>nás</form>
 <tag>
-<AM lemma="já" src="auto" recommended="1">PP-P2--1-------</AM>
+<AM lemma="my" src="auto" recommended="1">PP-P2--1-------</AM>
 <AM lemma="já" src="auto">PP-P4--1-------</AM>
 <AM lemma="já" src="auto">PP-P6--1-------</AM>
 </tag>
@@ -500,7 +500,7 @@
 </w.rf>
 <form>ne</form>
 <tag>
-<AM lemma="ne" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ne-1" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="neděle_:B" src="auto">NNFXX-----A---8</AM>
 </tag>
 </m>
@@ -687,7 +687,7 @@
 </w.rf>
 <form>ne</form>
 <tag>
-<AM lemma="ne" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ne-1" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="neděle_:B" src="auto">NNFXX-----A---8</AM>
 </tag>
 </m>
@@ -1850,7 +1850,7 @@
 </w.rf>
 <form>nám</form>
 <tag>
-<AM lemma="já" src="auto" recommended="1">PP-P3--1-------</AM>
+<AM lemma="my" src="auto" recommended="1">PP-P3--1-------</AM>
 <AM lemma="náměstí_:B" src="auto">NNNXX-----A---8</AM>
 </tag>
 </m>
@@ -3544,7 +3544,7 @@
 <LM>w#w-d1t2317-8</LM>
 </w.rf>
 <form>dalo</form>
-<tag lemma="dát" src="auto" recommended="1">VpNS----R-AAP--</tag>
+<tag lemma="dát-1" src="auto" recommended="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m007-d1t2317-9">
 <w.rf>
@@ -3814,7 +3814,7 @@
 <LM>w#w-d1t2327-4</LM>
 </w.rf>
 <form>dalo</form>
-<tag lemma="dát" src="auto" recommended="1">VpNS----R-AAP--</tag>
+<tag lemma="dát-1" src="auto" recommended="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m007-d1t2335-1">
 <w.rf>
@@ -4168,7 +4168,7 @@
 <LM>w#w-d1t2343-6</LM>
 </w.rf>
 <form>dá</form>
-<tag lemma="dát" src="auto" recommended="1">VB-S---3P-AAP--</tag>
+<tag lemma="dát-1" src="auto" recommended="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m007-d1t2343-7">
 <w.rf>
@@ -4662,7 +4662,7 @@
 <LM>w#w-d1t2366-7</LM>
 </w.rf>
 <form>dá</form>
-<tag lemma="dát" src="auto" recommended="1">VB-S---3P-AAP--</tag>
+<tag lemma="dát-1" src="auto" recommended="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m007-d-id141668">
 <w.rf>
@@ -4983,7 +4983,7 @@
 </w.rf>
 <form>nás</form>
 <tag>
-<AM lemma="já" src="auto" recommended="1">PP-P2--1-------</AM>
+<AM lemma="my" src="auto" recommended="1">PP-P2--1-------</AM>
 <AM lemma="já" src="auto">PP-P4--1-------</AM>
 <AM lemma="já" src="auto">PP-P6--1-------</AM>
 </tag>
@@ -5331,7 +5331,7 @@
 <AM lemma="mnoho-1" src="auto">Ca--1----------</AM>
 <AM lemma="mnoho-1" src="auto" recommended="1">Ca--4----------</AM>
 <AM lemma="mnoho-2" src="auto">Db-------------</AM>
-<AM lemma="mnoho-1_^(*2)" src="manual" selected="1">Ca--4----------</AM>
+<AM lemma="mnoho-1" src="manual" selected="1">Ca--4----------</AM>
 </tag>
 </m>
 <m id="m007-d1t2393-21">

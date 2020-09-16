@@ -221,7 +221,7 @@
 <LM>w#w-ln94211-83-p1s2w12</LM>
 </w.rf>
 <form>otravě</form>
-<tag lemma="otrava" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="otrava-1" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-ln94211-83-p1s2w13">
 <src.rf>manual</src.rf>
@@ -399,7 +399,7 @@
 <LM>w#w-ln94211-83-p1s3w19</LM>
 </w.rf>
 <form>lidem</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP3-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP3-----A----</tag>
 </m>
 <m id="m-ln94211-83-p1s3w20">
 <src.rf>manual</src.rf>

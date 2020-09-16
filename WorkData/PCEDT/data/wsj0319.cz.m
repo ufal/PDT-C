@@ -247,7 +247,7 @@
 <AM lemma="druhý" src="auto">CrMS7----------</AM>
 <AM lemma="druhý" src="auto">CrNP3----------</AM>
 <AM lemma="druhý" src="auto">CrNS6---------7</AM>
-<AM lemma="druhý" src="auto" recommended="1">CrNS7----------</AM>
+<AM lemma="druhý`2" src="auto" recommended="1">CrNS7----------</AM>
 </tag>
 </m>
 <m id="m-wsj0319-001-p1s0W18-Ta">
@@ -653,7 +653,7 @@
 <AM lemma="on-1" src="auto">P5FS4--3------6</AM>
 <AM lemma="on-1" src="auto">P5FS6--3-------</AM>
 <AM lemma="on-1" src="auto" recommended="1">P5FS7--3-------</AM>
-<AM lemma="ní_,i_(12%-ní)" src="manual" selected="1">SAIS1----1A----</AM>
+<AM lemma="ní_,i_^(12%-ní)" src="manual" selected="1">SAIS1----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0319-001-p1s1W16-Ta">
@@ -3860,7 +3860,7 @@
 <tag>
 <AM lemma="druhý" src="auto">CrIS6----------</AM>
 <AM lemma="druhý" src="auto">CrMS6----------</AM>
-<AM lemma="druhý" src="auto" recommended="1">CrNS6----------</AM>
+<AM lemma="druhý`2" src="auto" recommended="1">CrNS6----------</AM>
 </tag>
 </m>
 <m id="m-wsj0319-001-p1s12W22-Ta">
@@ -4031,7 +4031,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0319-001-p1s13W5-Ta">
@@ -5090,7 +5090,7 @@
 </w.rf>
 <form>ne</form>
 <tag>
-<AM lemma="ne" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ne-1" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="neděle" src="auto">NNFXX-----A---8</AM>
 </tag>
 </m>
@@ -5357,7 +5357,7 @@
 <form>ním</form>
 <tag>
 <AM lemma="on-1" src="auto" recommended="1">P5ZS7--3-------</AM>
-<AM lemma="ní_,i_(12%-ní)" src="manual" selected="1">SAIS7----1A----</AM>
+<AM lemma="ní_,i_^(12%-ní)" src="manual" selected="1">SAIS7----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0319-001-p1s18W33-Ta">
@@ -5500,7 +5500,7 @@
 <tag>
 <AM lemma="druhý" src="auto">CrIS6----------</AM>
 <AM lemma="druhý" src="auto">CrMS6----------</AM>
-<AM lemma="druhý" src="auto" recommended="1">CrNS6----------</AM>
+<AM lemma="druhý`2" src="auto" recommended="1">CrNS6----------</AM>
 </tag>
 </m>
 <m id="m-wsj0319-001-p1s19W6-Ta">

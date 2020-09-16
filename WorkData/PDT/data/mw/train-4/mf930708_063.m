@@ -43,7 +43,7 @@
 <LM>w#w-mf930708-063-p1s1w4</LM>
 </w.rf>
 <form>lidi</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 </s>
 <s id="m-mf930708-063-p2s1">
@@ -87,7 +87,7 @@
 <LM>w#w-mf930708-063-p3s1w4</LM>
 </w.rf>
 <form>lidi</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 </s>
 <s id="m-mf930708-063-p4s1">
@@ -261,7 +261,7 @@
 <LM>w#w-mf930708-063-p4s1w20</LM>
 </w.rf>
 <form>Hugo</form>
-<tag lemma="Hugo-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hugo_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-063-p4s1w21">
 <src.rf>manual</src.rf>
@@ -553,7 +553,7 @@
 <LM>w#w-mf930708-063-p4s3w1</LM>
 </w.rf>
 <form>Hugo</form>
-<tag lemma="Hugo-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hugo_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-063-p4s3w2">
 <src.rf>manual</src.rf>
@@ -649,7 +649,7 @@
 <LM>w#w-mf930708-063-p4s3w13</LM>
 </w.rf>
 <form>dny</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-mf930708-063-p4s3w14">
 <src.rf>manual</src.rf>
@@ -899,7 +899,7 @@
 <LM>w#w-mf930708-063-p5s1w6</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS1----------</tag>
 </m>
 <m id="m-mf930708-063-p5s1w7">
 <src.rf>manual</src.rf>
@@ -1288,7 +1288,7 @@
 <LM>w#w-mf930708-063-p5s2w29</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-mf930708-063-p5s2w30">
 <src.rf>manual</src.rf>
@@ -1601,7 +1601,7 @@
 <LM>w#w-mf930708-063-p5s5w8</LM>
 </w.rf>
 <form>Hugo</form>
-<tag lemma="Hugo-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hugo_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-063-p5s5w9">
 <src.rf>manual</src.rf>
@@ -1911,7 +1911,7 @@
 </w.rf>
 <form>psycho</form>
 <tag>
-<AM lemma="psycho" src="orig" selected="1">S2--------A----</AM>
+<AM lemma="psycho-2" src="orig" selected="1">S2--------A----</AM>
 <AM lemma="psycha_,a_^(duše;;zrcadlo_s_toaletním_stolkem)" src="auto">NNFS5-----A----</AM>
 <AM lemma="psycho-2" src="auto" recommended="1">AAXXX----1A----</AM>
 </tag>
@@ -1956,7 +1956,7 @@
 <LM>w#w-mf930708-063-p5s7w1</LM>
 </w.rf>
 <form>Hugo</form>
-<tag lemma="Hugo-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hugo_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-063-p5s7w2">
 <src.rf>manual</src.rf>
@@ -2312,7 +2312,7 @@
 <LM>w#w-mf930708-063-p5s9w2</LM>
 </w.rf>
 <form>členem</form>
-<tag lemma="člen" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf930708-063-p5s9w3">
 <src.rf>manual</src.rf>
@@ -2362,7 +2362,7 @@
 <LM>w#w-mf930708-063-p5s10w2</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf930708-063-p5s10w3">
 <src.rf>manual</src.rf>
@@ -2452,7 +2452,7 @@
 <LM>w#w-mf930708-063-p5s11w5</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-mf930708-063-p5s11w6">
 <src.rf>manual</src.rf>
@@ -2646,7 +2646,7 @@
 <form>starostí</form>
 <tag>
 <AM lemma="starost" src="orig">NNFP2-----A----</AM>
-<AM lemma="starost-1" src="auto" recommended="1" selected="1">NNFP2-----A----</AM>
+<AM lemma="starost-2_^(*5ý-2)" src="auto" recommended="1" selected="1">NNFP2-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFS7-----A----</AM>
 <AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto">NNFP2-----A----</AM>
 <AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto">NNFS7-----A----</AM>
@@ -2960,7 +2960,7 @@
 <LM>w#w-mf930708-063-p6s4w18</LM>
 </w.rf>
 <form>Hugo</form>
-<tag lemma="Hugo-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hugo_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-063-p6s4w19">
 <src.rf>manual</src.rf>

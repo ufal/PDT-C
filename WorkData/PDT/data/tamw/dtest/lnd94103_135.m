@@ -253,7 +253,7 @@
 <LM>w#w-lnd94103-135-p1s3w20</LM>
 </w.rf>
 <form>ducha</form>
-<tag lemma="duch" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="duch-1" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd94103-135-p1s3w21">
 <src.rf>manual</src.rf>
@@ -323,7 +323,7 @@
 <LM>w#w-lnd94103-135-p1s3w28</LM>
 </w.rf>
 <form>člen</form>
-<tag lemma="člen" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-135-p1s3w29">
 <src.rf>manual</src.rf>
@@ -339,7 +339,7 @@
 <LM>w#w-lnd94103-135-p1s3w30</LM>
 </w.rf>
 <form>správní</form>
-<tag lemma="správní_^(např._poplatek;_rada;_řád;...)" src="orig" selected="1">AAFS2----1A----</tag>
+<tag lemma="správní_^(správní_rada;_řád)" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-lnd94103-135-p1s3w31">
 <src.rf>manual</src.rf>
@@ -347,7 +347,7 @@
 <LM>w#w-lnd94103-135-p1s3w31</LM>
 </w.rf>
 <form>rady</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94103-135-p1s3w32">
 <src.rf>manual</src.rf>
@@ -424,7 +424,7 @@
 <LM>w#w-lnd94103-135-p1s5w4</LM>
 </w.rf>
 <form>roli</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="role_^(svitek_poslání_pozemek)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-lnd94103-135-p1s5w5">
 <src.rf>manual</src.rf>
@@ -472,7 +472,7 @@
 <LM>w#w-lnd94103-135-p1s5w10</LM>
 </w.rf>
 <form>Slavie</form>
-<tag lemma="Slavia_;m" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Slavie_;m_,s_^(^DD**Slávie)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94103-135-p1s5w11">
 <src.rf>manual</src.rf>
@@ -504,7 +504,7 @@
 <LM>w#w-lnd94103-135-p1s5w14</LM>
 </w.rf>
 <form>Korbelovy</form>
-<tag lemma="Korbelův_;Y_^(*2a)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Korbelův_;Y_^(*2)_(*2a)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-lnd94103-135-p1s5w15">
 <src.rf>manual</src.rf>

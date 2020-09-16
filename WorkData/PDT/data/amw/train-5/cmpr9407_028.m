@@ -43,7 +43,7 @@
 <LM>w#w-cmpr9407-028-p2s1w4</LM>
 </w.rf>
 <form>my</form>
-<tag lemma="já" src="orig" selected="1">PP-P1--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P1--1-------</tag>
 </m>
 </s>
 <s id="m-cmpr9407-028-p3s1">
@@ -199,7 +199,7 @@
 <LM>w#w-cmpr9407-028-p4s1w17</LM>
 </w.rf>
 <form>Philadelphii</form>
-<tag lemma="Philadelphia_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Philadelphie_;G_,s_^(^DD**Filadelfie)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-cmpr9407-028-p4s1w18">
 <src.rf>manual</src.rf>
@@ -385,7 +385,7 @@
 <LM>w#w-cmpr9407-028-p4s2w18</LM>
 </w.rf>
 <form>potřeby</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-cmpr9407-028-p4s2w19">
 <src.rf>manual</src.rf>
@@ -435,7 +435,7 @@
 <form>dvoubřitvových</form>
 <tag>
 <AM lemma="dvojbřitvový_,x" src="orig">AAFP2----1A----</AM>
-<AM lemma="dvoubřitvový" src="auto" recommended="1" selected="1">AAFP2----1A----</AM>
+<AM lemma="dvoubřitvový_,s_^(^DD**dvojbřitvový)" src="auto" recommended="1" selected="1">AAFP2----1A----</AM>
 <AM lemma="dvoubřitvový_,x" src="auto">AAFP6----1A----</AM>
 <AM lemma="dvoubřitvový_,x" src="auto">AAIP2----1A----</AM>
 <AM lemma="dvoubřitvový_,x" src="auto">AAIP6----1A----</AM>
@@ -515,7 +515,7 @@
 <LM>w#w-cmpr9407-028-p4s2w33</LM>
 </w.rf>
 <form>bonbony</form>
-<tag lemma="bonbón" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="bonbon_,s_^(^DD**bonbón)" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-cmpr9407-028-p4s2w34">
 <src.rf>manual</src.rf>
@@ -689,7 +689,7 @@
 <LM>w#w-cmpr9407-028-p5s2w5</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8NS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8NS4---------1</tag>
 </m>
 <m id="m-cmpr9407-028-p5s2w6">
 <src.rf>manual</src.rf>
@@ -937,7 +937,7 @@
 <LM>w#w-cmpr9407-028-p5s4w3</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-cmpr9407-028-p5s4w4">
 <src.rf>manual</src.rf>
@@ -1123,7 +1123,7 @@
 <LM>w#w-cmpr9407-028-p5s5w12</LM>
 </w.rf>
 <form>Trident</form>
-<tag lemma="Trident_;m" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="Trident_;G_;m" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-cmpr9407-028-p5s5w13">
 <src.rf>manual</src.rf>
@@ -1139,7 +1139,7 @@
 <LM>w#w-cmpr9407-028-p5s5w14</LM>
 </w.rf>
 <form>bonbony</form>
-<tag lemma="bonbón" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="bonbon_,s_^(^DD**bonbón)" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-cmpr9407-028-p5s5w15">
 <src.rf>manual</src.rf>
@@ -1738,7 +1738,7 @@
 <LM>w#w-cmpr9407-028-p6s2w5</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-cmpr9407-028-p6s2w6">
 <src.rf>manual</src.rf>

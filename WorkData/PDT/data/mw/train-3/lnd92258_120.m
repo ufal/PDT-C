@@ -382,7 +382,7 @@
 <LM>w#w-lnd92258-120-p2s4w2</LM>
 </w.rf>
 <form>dal</form>
-<tag lemma="dát" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92258-120-p2s4w3">
 <src.rf>manual</src.rf>
@@ -743,7 +743,7 @@
 <LM>w#w-lnd92258-120-p2s5w25</LM>
 </w.rf>
 <form>roli</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="role_^(svitek_poslání_pozemek)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd92258-120-p2s5w26">
 <src.rf>manual</src.rf>

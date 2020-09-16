@@ -1811,7 +1811,7 @@
 <LM>w#w-ln95042-051-p6s2w5</LM>
 </w.rf>
 <form>polní</form>
-<tag lemma="polní-1" src="orig" selected="1">AAMS1----1A----</tag>
+<tag lemma="polní" src="orig" selected="1">AAMS1----1A----</tag>
 </m>
 <m id="m-ln95042-051-p6s2w6">
 <src.rf>manual</src.rf>

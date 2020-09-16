@@ -192,7 +192,7 @@
 <LM>w#w-lnd94105-064-p1s1Bw10</LM>
 </w.rf>
 <form>Cesty</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94105-064-p1s1Bw11">
 <src.rf>manual</src.rf>
@@ -680,7 +680,7 @@
 <LM>w#w-lnd94105-064-p1s5w5</LM>
 </w.rf>
 <form>mé</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS6-S1------1</tag>
+<tag lemma="můj" src="orig" selected="1">PSFS6-S1------1</tag>
 </m>
 <m id="m-lnd94105-064-p1s5w6">
 <src.rf>manual</src.rf>
@@ -688,7 +688,7 @@
 <LM>w#w-lnd94105-064-p1s5w6</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd94105-064-p1s5w7">
 <src.rf>manual</src.rf>
@@ -770,7 +770,7 @@
 <LM>w#w-lnd94105-064-p1s6w9</LM>
 </w.rf>
 <form>mého</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS2-S1-------</tag>
+<tag lemma="můj" src="orig" selected="1">PSZS2-S1-------</tag>
 </m>
 <m id="m-lnd94105-064-p1s6w10">
 <src.rf>manual</src.rf>
@@ -906,7 +906,7 @@
 <LM>w#w-lnd94105-064-p1s6w26</LM>
 </w.rf>
 <form>naši</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS4-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS4-P1-------</tag>
 </m>
 <m id="m-lnd94105-064-p1s6w27">
 <src.rf>manual</src.rf>

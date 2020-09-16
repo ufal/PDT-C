@@ -145,7 +145,7 @@
 <LM>w#w-vesm9211-059-p1s1w15</LM>
 </w.rf>
 <form>NAŠICH</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP6-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP6-P1-------</tag>
 </m>
 <m id="m-vesm9211-059-p1s1w16">
 <src.rf>manual</src.rf>
@@ -468,7 +468,7 @@
 <LM>w#w-vesm9211-059-p2s1w7</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-vesm9211-059-p2s1w8">
 <src.rf>manual</src.rf>
@@ -484,7 +484,7 @@
 <LM>w#w-vesm9211-059-p2s1w9</LM>
 </w.rf>
 <form>vydání</form>
-<tag lemma="vydání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="vydání_^(*3at)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-vesm9211-059-p2s1w10">
 <src.rf>manual</src.rf>
@@ -558,7 +558,7 @@
 <LM>w#w-vesm9211-059-p2s2w5</LM>
 </w.rf>
 <form>úvodní</form>
-<tag lemma="úvodní_,s" src="orig" selected="1">AAFS6----1A----</tag>
+<tag lemma="úvodní" src="orig" selected="1">AAFS6----1A----</tag>
 </m>
 <m id="m-vesm9211-059-p2s2w6">
 <src.rf>manual</src.rf>
@@ -662,7 +662,7 @@
 <LM>w#w-vesm9211-059-p2s2w18</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP2-P1-------</tag>
 </m>
 <m id="m-vesm9211-059-p2s2w19">
 <src.rf>manual</src.rf>
@@ -862,7 +862,7 @@
 <LM>w#w-vesm9211-059-p2s2w43</LM>
 </w.rf>
 <form>naší</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS2-P1-------</tag>
 </m>
 <m id="m-vesm9211-059-p2s2w44">
 <src.rf>manual</src.rf>
@@ -993,7 +993,7 @@
 <LM>w#w-vesm9211-059-p2s3w8</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP2-P1-------</tag>
 </m>
 <m id="m-vesm9211-059-p2s3w9">
 <src.rf>manual</src.rf>
@@ -1312,7 +1312,7 @@
 <LM>w#w-vesm9211-059-p2s5w14</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP2-P1-------</tag>
 </m>
 <m id="m-vesm9211-059-p2s5w15">
 <src.rf>manual</src.rf>
@@ -1884,7 +1884,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP6-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP6-P1-------</tag>
 </m>
 <m id="m-vesm9211-059-p3s1w17">
 <src.rf>manual</src.rf>
@@ -1950,7 +1950,7 @@
 <LM>w#w-vesm9211-059-p4s1w3</LM>
 </w.rf>
 <form>prvního</form>
-<tag lemma="první" src="orig" selected="1">CrNS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS2----------</tag>
 </m>
 <m id="m-vesm9211-059-p4s1w4">
 <src.rf>manual</src.rf>
@@ -1966,7 +1966,7 @@
 <LM>w#w-vesm9211-059-p4s1w5</LM>
 </w.rf>
 <form>druhého</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS2----------</tag>
 </m>
 <m id="m-vesm9211-059-p4s1w6">
 <src.rf>manual</src.rf>
@@ -1974,7 +1974,7 @@
 <LM>w#w-vesm9211-059-p4s1w6</LM>
 </w.rf>
 <form>vydání</form>
-<tag lemma="vydání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="vydání_^(*3at)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-vesm9211-059-p4s1w7">
 <src.rf>manual</src.rf>
@@ -2222,7 +2222,7 @@
 <LM>w#w-vesm9211-059-p4s1w37</LM>
 </w.rf>
 <form>faktoru</form>
-<tag lemma="faktor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="faktor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-vesm9211-059-p4s1w38">
 <src.rf>manual</src.rf>
@@ -2552,7 +2552,7 @@
 <LM>w#w-vesm9211-059-p5s2w4</LM>
 </w.rf>
 <form>prvního</form>
-<tag lemma="první" src="orig" selected="1">CrNS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS2----------</tag>
 </m>
 <m id="m-vesm9211-059-p5s2w5">
 <src.rf>manual</src.rf>
@@ -2560,7 +2560,7 @@
 <LM>w#w-vesm9211-059-p5s2w5</LM>
 </w.rf>
 <form>vydání</form>
-<tag lemma="vydání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="vydání_^(*3at)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-vesm9211-059-p5s2w6">
 <src.rf>manual</src.rf>
@@ -2616,7 +2616,7 @@
 <LM>w#w-vesm9211-059-p5s2w12</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP2-P1-------</tag>
 </m>
 <m id="m-vesm9211-059-p5s2w13">
 <src.rf>manual</src.rf>
@@ -3925,7 +3925,7 @@
 <LM>w#w-vesm9211-059-p7s2w9</LM>
 </w.rf>
 <form>vydání</form>
-<tag lemma="vydání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="vydání_^(*3at)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-vesm9211-059-p7s2w10">
 <src.rf>manual</src.rf>
@@ -4135,7 +4135,7 @@
 <LM>w#w-vesm9211-059-p7s3w7</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP2-P1-------</tag>
 </m>
 <m id="m-vesm9211-059-p7s3w8">
 <src.rf>manual</src.rf>

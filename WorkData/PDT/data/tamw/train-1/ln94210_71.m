@@ -108,7 +108,7 @@
 <LM>w#w-ln94210-71-p2s1Cw6</LM>
 </w.rf>
 <form>Vašich</form>
-<tag lemma="tvůj_^(přivlast.)" src="orig" selected="1">PSXP2-P2-------</tag>
+<tag lemma="váš" src="orig" selected="1">PSXP2-P2-------</tag>
 </m>
 <m id="m-ln94210-71-p2s1Cw7">
 <src.rf>manual</src.rf>
@@ -2680,7 +2680,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -3025,7 +3025,7 @@
 <LM>w#w-ln94210-71-p5s2w7</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FP4---------1</tag>
 </m>
 <m id="m-ln94210-71-p5s2w8">
 <src.rf>manual</src.rf>

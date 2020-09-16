@@ -423,7 +423,7 @@
 <LM>w#w-mf930708-024-p2s3w9</LM>
 </w.rf>
 <form>jejího</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS2FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS2FS3-------</tag>
 </m>
 <m id="m-mf930708-024-p2s3w10">
 <src.rf>manual</src.rf>
@@ -463,7 +463,7 @@
 <LM>w#w-mf930708-024-p2s3w14</LM>
 </w.rf>
 <form>Miroslava</form>
-<tag lemma="Miroslav_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Miroslav-1_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930708-024-p2s3w15">
 <src.rf>manual</src.rf>

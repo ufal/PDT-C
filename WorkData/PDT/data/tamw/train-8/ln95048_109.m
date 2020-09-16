@@ -413,7 +413,7 @@
 <AM lemma="Paňdžáb_;G" src="orig">NNIS6-----A----</AM>
 <AM lemma="Paňdžáb_;G" src="auto">NNMS3-----A---1</AM>
 <AM lemma="Paňdžáb_;G" src="auto" recommended="1">NNMS6-----A---1</AM>
-<AM lemma="Paňdžáb_,s_^(^DD**Pandžáb)" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="Paňdžáb_;G" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-109-p2s1Bw43">
@@ -565,7 +565,7 @@
 <form>Paňdžábu</form>
 <tag>
 <AM lemma="Paňdžáb_;G" src="orig">NNMS6-----A---1</AM>
-<AM lemma="Paňdžáb_,s_^(^DD**Pandžáb)" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="Paňdžáb_;G" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-109-p2s2w12">

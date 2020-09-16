@@ -177,7 +177,7 @@
 <LM>w#w-ln94201-91-p2s1w15</LM>
 </w.rf>
 <form>zkrachovalé</form>
-<tag lemma="zkrachovalý_,e_^(*2t)" src="auto" selected="1">AAFS2----1A----</tag>
+<tag lemma="zkrachovalý_^(*2t)" src="auto" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-ln94201-91-p2s1w16">
 <src.rf>manual</src.rf>
@@ -429,7 +429,7 @@
 <LM>w#w-ln94201-91-p3s1w1</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrIS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS1----------</tag>
 </m>
 <m id="m-ln94201-91-p3s1w2">
 <src.rf>manual</src.rf>
@@ -461,7 +461,7 @@
 <LM>w#w-ln94201-91-p3s1w5</LM>
 </w.rf>
 <form>výbor</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94201-91-p3s1w6">
 <src.rf>manual</src.rf>
@@ -673,7 +673,7 @@
 <LM>w#w-ln94201-91-p3s2w1</LM>
 </w.rf>
 <form>Druhý</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS1----------</tag>
 </m>
 <m id="m-ln94201-91-p3s2w2">
 <src.rf>manual</src.rf>
@@ -713,7 +713,7 @@
 <LM>w#w-ln94201-91-p3s2w6</LM>
 </w.rf>
 <form>výbor</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94201-91-p3s2w7">
 <src.rf>manual</src.rf>
@@ -876,7 +876,7 @@
 <LM>w#w-ln94201-91-p3s2w24</LM>
 </w.rf>
 <form>management</form>
-<tag lemma="management_^(vedení,_manažment;_angl.)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="management_,s_^(^DD**manažment)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln94201-91-p3s2w25">
 <src.rf>manual</src.rf>
@@ -894,7 +894,7 @@
 <LM>w#w-ln94201-91-p4s1w1</LM>
 </w.rf>
 <form>Předání</form>
-<tag lemma="předání-3_^(někomu_něco)_(*5at-3)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="předání_^(*3at)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94201-91-p4s1w2">
 <src.rf>manual</src.rf>
@@ -976,7 +976,7 @@
 <form>Hilton</form>
 <tag>
 <AM lemma="Hilton_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Hilton-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Hilton-2_;m_^(hotel)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-91-p4s1w12">
@@ -1103,7 +1103,7 @@
 <form>Hiltonu</form>
 <tag>
 <AM lemma="Hilton_^(hotel)" src="auto">NNIS6-----A----</AM>
-<AM lemma="Hilton-2_;m" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="Hilton-2_;m_^(hotel)" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-91-p4s3w5">
@@ -1327,7 +1327,7 @@
 <LM>w#w-ln94201-91-p4s5w9</LM>
 </w.rf>
 <form>člen</form>
-<tag lemma="člen" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-91-p4s5w10">
 <src.rf>manual</src.rf>

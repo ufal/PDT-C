@@ -30,7 +30,7 @@
 <tag>
 <AM lemma="Hammond_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Hammond_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Hammond_;Y" src="auto" selected="1">NNMS1-----A----</AM>
+<AM lemma="Hammond-1_;Y" src="auto" selected="1">NNMS1-----A----</AM>
 <AM lemma="hammond_^(varhany)" src="auto">NNIS1-----A----</AM>
 <AM lemma="hammond_^(varhany)" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -95,7 +95,7 @@
 <tag>
 <AM lemma="California_;G" src="auto">NNFS3-----A----</AM>
 <AM lemma="California_;G" src="auto">NNFS4-----A----</AM>
-<AM lemma="California_;G" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="Californie_;G_,s_^(^DD**Kalifornie)" src="auto" recommended="1">NNFS6-----A----</AM>
 <AM lemma="californium_;U" src="auto">NNNP7-----A----</AM>
 </tag>
 </m>
@@ -194,7 +194,7 @@
 </w.rf>
 <form>svou</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8FS4---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8FS4---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS7---------1</AM>
 </tag>
 </m>
@@ -588,7 +588,7 @@
 <tag>
 <AM lemma="Hammond_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Hammond_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Hammond_;Y" src="auto" selected="1">NNMS1-----A----</AM>
+<AM lemma="Hammond-1_;Y" src="auto" selected="1">NNMS1-----A----</AM>
 <AM lemma="hammond_^(varhany)" src="auto">NNIS1-----A----</AM>
 <AM lemma="hammond_^(varhany)" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -633,7 +633,7 @@
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP1FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP5FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9ZS1FS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9ZS1FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSZS5FS3-------</AM>
 </tag>
 </m>
@@ -766,7 +766,7 @@
 <AM lemma="Irvine-1_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Irvine-1_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Irvine-1_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Irvine-2_;G" src="auto" recommended="1" selected="1">NNNXX-----A----</AM>
+<AM lemma="Irvine-2_;G_;m" src="auto" recommended="1" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2423-001-p1s2W15-Ta">
@@ -792,7 +792,7 @@
 <tag>
 <AM lemma="California_;G" src="auto">NNFS3-----A----</AM>
 <AM lemma="California_;G" src="auto">NNFS4-----A----</AM>
-<AM lemma="California_;G" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="Californie_;G_,s_^(^DD**Kalifornie)" src="auto" recommended="1">NNFS6-----A----</AM>
 <AM lemma="californium_;U" src="auto">NNNP7-----A----</AM>
 </tag>
 </m>
@@ -1017,7 +1017,7 @@
 </w.rf>
 <form>svůj</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8IS4----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8IS4----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8YS1----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8YS5----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOYS-----------</AM>
@@ -1070,7 +1070,7 @@
 <tag>
 <AM lemma="Hammond_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Hammond_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Hammond_;Y" src="auto" selected="1">NNMS1-----A----</AM>
+<AM lemma="Hammond-1_;Y" src="auto" selected="1">NNMS1-----A----</AM>
 <AM lemma="hammond_^(varhany)" src="auto">NNIS1-----A----</AM>
 <AM lemma="hammond_^(varhany)" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -1251,7 +1251,7 @@
 <tag>
 <AM lemma="Hammond_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Hammond_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Hammond_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Hammond-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="hammond_^(varhany)" src="auto">NNIS1-----A----</AM>
 <AM lemma="hammond_^(varhany)" src="auto">NNIS4-----A----</AM>
 </tag>

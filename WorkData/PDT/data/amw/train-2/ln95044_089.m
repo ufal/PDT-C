@@ -109,7 +109,7 @@
 <LM>w#w-ln95044-089-p2s1w11</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln95044-089-p2s1w12">
 <src.rf>manual</src.rf>
@@ -481,7 +481,7 @@
 <LM>w#w-ln95044-089-p2s3w10</LM>
 </w.rf>
 <form>napadených</form>
-<tag lemma="napadený_^(*3nout)" src="orig" selected="1">AAMP2----1A----</tag>
+<tag lemma="napadený" src="orig" selected="1">AAMP2----1A----</tag>
 </m>
 <m id="m-ln95044-089-p2s3w11">
 <src.rf>manual</src.rf>
@@ -637,7 +637,7 @@
 <LM>w#w-ln95044-089-p3s1w1</LM>
 </w.rf>
 <form>Přejetí</form>
-<tag lemma="přejetí_^(např._autem)_(*1)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="přejetí_^(*1)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln95044-089-p3s1w2">
 <src.rf>manual</src.rf>
@@ -1014,7 +1014,7 @@
 <AM lemma="jedoucí_^(pohybovat_se,_ne_však_chůzí)_(*5t)" src="orig">AGIS6-----A----</AM>
 <AM lemma="jedoucí-1_^(pohybovat_se,_ne_však_chůzí)_(*7t-1)" src="auto">AGFP3-----A----</AM>
 <AM lemma="jedoucí-1_^(pohybovat_se,_ne_však_chůzí)_(*7t-1)" src="auto">AGIP3-----A----</AM>
-<AM lemma="jedoucí-1_^(pohybovat_se,_ne_však_chůzí)_(*7t-1)" src="auto" selected="1">AGIS6-----A----</AM>
+<AM lemma="jedoucí-1_^(*7t-1)" src="auto" selected="1">AGIS6-----A----</AM>
 <AM lemma="jedoucí-1_^(pohybovat_se,_ne_však_chůzí)_(*7t-1)" src="auto">AGIS7-----A----</AM>
 <AM lemma="jedoucí-1_^(pohybovat_se,_ne_však_chůzí)_(*7t-1)" src="auto">AGMP3-----A----</AM>
 <AM lemma="jedoucí-1_^(pohybovat_se,_ne_však_chůzí)_(*7t-1)" src="auto">AGMS6-----A----</AM>
@@ -1258,7 +1258,7 @@
 <LM>w#w-ln95044-089-p4s2w5</LM>
 </w.rf>
 <form>dal</form>
-<tag lemma="dát" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95044-089-p4s2w6">
 <src.rf>manual</src.rf>

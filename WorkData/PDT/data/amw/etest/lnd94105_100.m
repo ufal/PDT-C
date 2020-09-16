@@ -27,7 +27,7 @@
 <LM>w#w-lnd94105-100-p1s1w2</LM>
 </w.rf>
 <form>tažení</form>
-<tag lemma="tažení_^(*5áhnout)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="tažení" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-lnd94105-100-p1s1w3">
 <src.rf>manual</src.rf>
@@ -35,7 +35,7 @@
 <LM>w#w-lnd94105-100-p1s1w3</LM>
 </w.rf>
 <form>Jezdců</form>
-<tag lemma="jezdec" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="jezdec-1" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 </s>
 <s id="m-lnd94105-100-p1s2">

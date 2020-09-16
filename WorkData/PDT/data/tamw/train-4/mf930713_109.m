@@ -155,7 +155,7 @@
 <LM>w#w-mf930713-109-p2s1w14</LM>
 </w.rf>
 <form>nedotknutelnost</form>
-<tag lemma="dotknutelnost_^(fyz._i_abstr.,_př._drátů,_práv,_citů)_(*3ý)" src="auto" selected="1">NNFS4-----N----</tag>
+<tag lemma="dotknutelnost_^(*3ý)" src="auto" selected="1">NNFS4-----N----</tag>
 </m>
 <m id="m-mf930713-109-p2s1w15">
 <src.rf>manual</src.rf>
@@ -203,7 +203,7 @@
 <LM>w#w-mf930713-109-p2s1w20</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrIS7----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS7----------</tag>
 </m>
 <m id="m-mf930713-109-p2s1w21">
 <src.rf>manual</src.rf>
@@ -1104,7 +1104,7 @@
 <LM>w#w-mf930713-109-p2s6w7</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-mf930713-109-p2s6w8">
 <src.rf>manual</src.rf>

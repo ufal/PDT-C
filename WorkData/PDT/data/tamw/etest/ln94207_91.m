@@ -67,7 +67,7 @@
 <LM>w#w-ln94207-91-p1s1w7</LM>
 </w.rf>
 <form>hnutí</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln94207-91-p1s1w8">
 <src.rf>manual</src.rf>
@@ -132,7 +132,7 @@
 <LM>w#w-ln94207-91-p1s1w14</LM>
 </w.rf>
 <form>AMOS</form>
-<tag lemma="Amos_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Amos-1_;Y_,s_^(^DD**Ámos)" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-91-p1s1w15">
 <src.rf>manual</src.rf>
@@ -237,7 +237,7 @@
 <LM>w#w-ln94207-91-p1s1w26</LM>
 </w.rf>
 <form>Amos</form>
-<tag lemma="Amos_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Amos-1_;Y_,s_^(^DD**Ámos)" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-91-p1s1w27">
 <src.rf>manual</src.rf>
@@ -422,7 +422,7 @@
 <LM>w#w-ln94207-91-p1s3w2</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-ln94207-91-p1s3w3">
 <src.rf>manual</src.rf>
@@ -1115,7 +1115,7 @@
 <LM>w#w-ln94207-91-p1s8w16</LM>
 </w.rf>
 <form>Můj</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSYS1-S1-------</tag>
+<tag lemma="můj" src="orig" selected="1">PSYS1-S1-------</tag>
 </m>
 <m id="m-ln94207-91-p1s8w17">
 <src.rf>manual</src.rf>
@@ -1307,7 +1307,7 @@
 <LM>w#w-ln94207-91-p1s8w40</LM>
 </w.rf>
 <form>Černá</form>
-<tag lemma="černý" src="auto" selected="1">AAFS1----1A----</tag>
+<tag lemma="černý_;o" src="auto" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-ln94207-91-p1s8w41">
 <src.rf>manual</src.rf>

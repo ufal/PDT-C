@@ -197,7 +197,7 @@
 <LM>w#w-ln95046-056-p2s1w14</LM>
 </w.rf>
 <form>Blaník</form>
-<tag lemma="Blaník_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Blaník_;G_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95046-056-p2s1w15">
 <src.rf>manual</src.rf>
@@ -237,7 +237,7 @@
 <LM>w#w-ln95046-056-p2s1w19</LM>
 </w.rf>
 <form>Interview</form>
-<tag lemma="interview" src="auto" selected="1">NNNXX-----A----</tag>
+<tag lemma="interview-1" src="auto" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln95046-056-p2s1w20">
 <src.rf>manual</src.rf>
@@ -368,7 +368,7 @@
 <LM>w#w-ln95046-056-p2s2w6</LM>
 </w.rf>
 <form>představení</form>
-<tag lemma="představení-2_^(divadelní,_filmové_apod.)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="představení-1_^(*5it-1)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln95046-056-p2s2w7">
 <src.rf>manual</src.rf>
@@ -869,7 +869,7 @@
 <LM>w#w-ln95046-056-p3s1w24</LM>
 </w.rf>
 <form>správných</form>
-<tag lemma="správný_^(podle_něj._měřítek;_př._chlap,_míra,...)" src="orig" selected="1">AAMP2----1A----</tag>
+<tag lemma="správný" src="orig" selected="1">AAMP2----1A----</tag>
 </m>
 <m id="m-ln95046-056-p3s1w25">
 <src.rf>manual</src.rf>
@@ -1230,7 +1230,7 @@
 <LM>w#w-ln95046-056-p3s2w17</LM>
 </w.rf>
 <form>Půlnoční</form>
-<tag lemma="půlnoční" src="orig" selected="1">AAMS1----1A----</tag>
+<tag lemma="půlnoční-1" src="orig" selected="1">AAMS1----1A----</tag>
 </m>
 <m id="m-ln95046-056-p3s2w18">
 <src.rf>manual</src.rf>

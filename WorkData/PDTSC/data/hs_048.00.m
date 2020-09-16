@@ -238,7 +238,7 @@
 <form>tu</form>
 <tag>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" recommended="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m048-d1t22-10">
@@ -536,7 +536,7 @@
 <tag>
 <AM lemma="tvůj_^(přivlast.)" src="auto">PSXP2-P2-------</AM>
 <AM lemma="tvůj_^(přivlast.)" src="auto" recommended="1">PSXP6-P2-------</AM>
-<AM lemma="tvůj_^(**můj)_(přivlast.)" src="manual" selected="1">PSXP6-P2-------</AM>
+<AM lemma="váš" src="manual" selected="1">PSXP6-P2-------</AM>
 </tag>
 </m>
 <m id="m048-d1t48-9">
@@ -588,7 +588,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="třeba-3" src="auto" selected="1">TT-------------</AM>
+<AM lemma="třeba-2_^(například)" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m048-d1t60-3">
@@ -821,7 +821,7 @@
 <form>tu</form>
 <tag>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" recommended="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m048-d1t88-1">
@@ -1119,7 +1119,7 @@
 </w.rf>
 <form>nás</form>
 <tag>
-<AM lemma="já" src="auto" recommended="1">PP-P2--1-------</AM>
+<AM lemma="my" src="auto" recommended="1">PP-P2--1-------</AM>
 <AM lemma="já" src="auto">PP-P4--1-------</AM>
 <AM lemma="já" src="auto">PP-P6--1-------</AM>
 </tag>
@@ -1155,7 +1155,7 @@
 </w.rf>
 <form>my</form>
 <tag>
-<AM lemma="já" src="auto" recommended="1">PP-P1--1-------</AM>
+<AM lemma="my" src="auto" recommended="1">PP-P1--1-------</AM>
 <AM lemma="já" src="auto">PP-P5--1-------</AM>
 <AM lemma="my-77" src="auto">F%-------------</AM>
 </tag>
@@ -1280,7 +1280,7 @@
 </w.rf>
 <form>nám</form>
 <tag>
-<AM lemma="já" src="auto" recommended="1">PP-P3--1-------</AM>
+<AM lemma="my" src="auto" recommended="1">PP-P3--1-------</AM>
 <AM lemma="náměstí_:B" src="auto">NNNXX-----A---8</AM>
 </tag>
 </m>
@@ -2311,7 +2311,7 @@
 <AM lemma="Marie-1_;Y" src="auto">NNFP4-----A----</AM>
 <AM lemma="Marie-1_;Y" src="auto">NNFP5-----A----</AM>
 <AM lemma="Marie-1_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Marie-1_;Y" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="Marie_;Y" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="Marie-1_;Y" src="auto">NNFS5-----A----</AM>
 </tag>
 </m>
@@ -3832,7 +3832,7 @@
 <form>potřeby</form>
 <tag>
 <AM lemma="potřeba" src="auto">NNFP1-----A----</AM>
-<AM lemma="potřeba" src="auto" recommended="1">NNFP4-----A----</AM>
+<AM lemma="potřeba-1" src="auto" recommended="1">NNFP4-----A----</AM>
 <AM lemma="potřeba" src="auto">NNFP5-----A----</AM>
 <AM lemma="potřeba" src="auto">NNFS2-----A----</AM>
 </tag>
@@ -4083,7 +4083,7 @@
 </w.rf>
 <form>druhém</form>
 <tag>
-<AM lemma="druhý" src="auto" recommended="1">CrIS6----------</AM>
+<AM lemma="druhý`2" src="auto" recommended="1">CrIS6----------</AM>
 <AM lemma="druhý" src="auto">CrMS6----------</AM>
 <AM lemma="druhý" src="auto">CrNS6----------</AM>
 </tag>

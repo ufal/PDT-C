@@ -106,7 +106,7 @@
 <LM>w#w-mf920923-004-p2s2w3</LM>
 </w.rf>
 <form>výborů</form>
-<tag lemma="výbor" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf920923-004-p2s2w4">
 <src.rf>manual</src.rf>
@@ -348,7 +348,7 @@
 <LM>w#w-mf920923-004-p2s3w10</LM>
 </w.rf>
 <form>výborů</form>
-<tag lemma="výbor" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf920923-004-p2s3w11">
 <src.rf>manual</src.rf>
@@ -489,7 +489,7 @@
 <LM>w#w-mf920923-004-p2s4w17</LM>
 </w.rf>
 <form>výborech</form>
-<tag lemma="výbor" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-mf920923-004-p2s4w18">
 <src.rf>manual</src.rf>
@@ -595,7 +595,7 @@
 <LM>w#w-mf920923-004-p2s5w12</LM>
 </w.rf>
 <form>přijetím</form>
-<tag lemma="přijetí_^(*3mout)" src="auto" selected="1">NNNS7-----A----</tag>
+<tag lemma="přijetí_^(*1)_(*3mout)" src="auto" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-mf920923-004-p2s5w13">
 <src.rf>manual</src.rf>
@@ -763,7 +763,7 @@
 <LM>w#w-mf920923-004-p2s5w33</LM>
 </w.rf>
 <form>co</form>
-<tag lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="co-5_^(př._co_nejméně,_co_nevidět_atd.)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf920923-004-p2s5w34">
 <src.rf>manual</src.rf>
@@ -789,7 +789,7 @@
 <LM>w#w-mf920923-004-p2s6w1</LM>
 </w.rf>
 <form>Výbory</form>
-<tag lemma="výbor" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-mf920923-004-p2s6w2">
 <src.rf>manual</src.rf>

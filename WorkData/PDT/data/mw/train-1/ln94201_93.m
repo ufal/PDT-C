@@ -470,7 +470,7 @@
 <LM>w#w-ln94201-93-p2s2w13</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln94201-93-p2s2w14">
 <src.rf>manual</src.rf>
@@ -1230,7 +1230,7 @@
 <LM>w#w-ln94201-93-p4s2w15</LM>
 </w.rf>
 <form>lety</form>
-<tag lemma="rok" src="orig" selected="1">NNNP7-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP7-----A----</tag>
 </m>
 <m id="m-ln94201-93-p4s2w16">
 <src.rf>manual</src.rf>
@@ -1240,7 +1240,7 @@
 <form>nedali</form>
 <tag>
 <AM lemma="dát" src="orig">VpMP----R-NAP--</AM>
-<AM lemma="dát" src="manual" selected="1">VpMP----R-NAP--</AM>
+<AM lemma="dát-1" src="manual" selected="1">VpMP----R-NAP--</AM>
 </tag>
 </m>
 <m id="m-ln94201-93-p4s2w17">
@@ -1446,7 +1446,7 @@
 <LM>w#w-ln94201-93-p4s3w20</LM>
 </w.rf>
 <form>nedá</form>
-<tag lemma="dát" src="orig" selected="1">VB-S---3P-NAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VB-S---3P-NAP--</tag>
 </m>
 <m id="m-ln94201-93-p4s3w21">
 <src.rf>manual</src.rf>
@@ -1593,7 +1593,7 @@
 <tag>
 <AM lemma="starost" src="orig">NNFS6-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFP1-----A----</AM>
-<AM lemma="starost-1" src="auto" selected="1">NNFP4-----A----</AM>
+<AM lemma="starost-2_^(*5ý-2)" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFP5-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFS2-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFS3-----A----</AM>

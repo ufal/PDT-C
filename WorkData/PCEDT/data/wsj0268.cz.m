@@ -340,7 +340,7 @@
 <tag>
 <AM lemma="správný_^(správný_chlap)" src="auto">AAFP2----1N----</AM>
 <AM lemma="správný_^(správný_chlap)" src="auto">AAFP6----1N----</AM>
-<AM lemma="správný_^(správný_chlap)" src="auto" recommended="1">AAIP2----1N----</AM>
+<AM lemma="správný" src="auto" recommended="1">AAIP2----1N----</AM>
 <AM lemma="správný_^(správný_chlap)" src="auto">AAIP6----1N----</AM>
 <AM lemma="správný_^(správný_chlap)" src="auto">AAMP2----1N----</AM>
 <AM lemma="správný_^(správný_chlap)" src="auto">AAMP6----1N----</AM>
@@ -753,7 +753,7 @@
 </w.rf>
 <form>pana</form>
 <tag>
-<AM lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="pan" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="pan_^(oslovení)" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>
@@ -1180,7 +1180,7 @@
 </w.rf>
 <form>zkrachovalého</form>
 <tag>
-<AM lemma="zkrachovalý_,e_^(*2t)" src="auto" recommended="1" selected="1">AAIS2----1A----</AM>
+<AM lemma="zkrachovalý_^(*2t)" src="auto" recommended="1" selected="1">AAIS2----1A----</AM>
 <AM lemma="zkrachovalý_,e_^(*2t)" src="auto">AAMS2----1A----</AM>
 <AM lemma="zkrachovalý_,e_^(*2t)" src="auto">AAMS4----1A----</AM>
 <AM lemma="zkrachovalý_,e_^(*2t)" src="auto">AANS2----1A----</AM>

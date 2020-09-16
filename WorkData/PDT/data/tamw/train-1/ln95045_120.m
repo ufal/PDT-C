@@ -43,7 +43,7 @@
 <LM>w#w-ln95045-120-p1s1w4</LM>
 </w.rf>
 <form>stojí</form>
-<tag lemma="stát-4_^(něco_stojí_peníze)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95045-120-p1s1w5">
 <src.rf>manual</src.rf>

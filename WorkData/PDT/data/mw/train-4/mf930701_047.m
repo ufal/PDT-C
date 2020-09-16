@@ -427,7 +427,7 @@
 <LM>w#w-mf930701-047-p3s3w19</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP3----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP3----------</tag>
 </m>
 <m id="m-mf930701-047-p3s3w20">
 <src.rf>manual</src.rf>
@@ -531,7 +531,7 @@
 <LM>w#w-mf930701-047-p3s3w32</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8NS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8NS4---------1</tag>
 </m>
 <m id="m-mf930701-047-p3s3w33">
 <src.rf>manual</src.rf>
@@ -697,7 +697,7 @@
 <LM>w#w-mf930701-047-p3s6w1</LM>
 </w.rf>
 <form>Napadený</form>
-<tag lemma="napadený_^(*3nout)" src="orig" selected="1">AAMS1----1A----</tag>
+<tag lemma="napadený" src="orig" selected="1">AAMS1----1A----</tag>
 </m>
 <m id="m-mf930701-047-p3s6w2">
 <src.rf>manual</src.rf>
@@ -1323,7 +1323,7 @@
 <LM>w#w-mf930701-047-p3s11w1</LM>
 </w.rf>
 <form>zaměstnání</form>
-<tag lemma="zaměstnání-1_^(všeob._význam:_činnost,_zaměstnání)_(*5at-1)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="zaměstnání_^(*3at)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-mf930701-047-p3s11w2">
 <src.rf>manual</src.rf>

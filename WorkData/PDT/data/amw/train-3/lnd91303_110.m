@@ -577,7 +577,7 @@
 <LM>w#w-lnd91303-110-p4s4w5</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS4----------</tag>
 </m>
 <m id="m-lnd91303-110-p4s4w6">
 <src.rf>manual</src.rf>
@@ -1062,7 +1062,7 @@
 <LM>w#w-lnd91303-110-p4s6w23</LM>
 </w.rf>
 <form>zastavení</form>
-<tag lemma="zastavení-1_^([také_z._se];_uvést_do_klidu:_auto,...)_(*5it-1)" src="orig" selected="1">NNNS3-----A----</tag>
+<tag lemma="zastavení_^(*3it)" src="orig" selected="1">NNNS3-----A----</tag>
 </m>
 <m id="m-lnd91303-110-p4s6w24">
 <src.rf>manual</src.rf>

@@ -363,7 +363,7 @@
 <LM>w#w-ln94208-59-p2s2w20</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP2-P1-------</tag>
 </m>
 <m id="m-ln94208-59-p2s2w21">
 <src.rf>manual</src.rf>
@@ -794,7 +794,7 @@
 <LM>w#w-ln94208-59-p3s3w1</LM>
 </w.rf>
 <form>Dá</form>
-<tag lemma="dát" src="orig" selected="1">VB-S---3P-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln94208-59-p3s3w2">
 <src.rf>manual</src.rf>
@@ -1212,7 +1212,7 @@
 <LM>w#w-ln94208-59-p3s4w14</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9NS4FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9NS4FS3-------</tag>
 </m>
 <m id="m-ln94208-59-p3s4w15">
 <src.rf>manual</src.rf>
@@ -1254,7 +1254,7 @@
 <LM>w#w-ln94208-59-p3s5w3</LM>
 </w.rf>
 <form>roli</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="role_^(svitek_poslání_pozemek)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94208-59-p3s5w4">
 <src.rf>manual</src.rf>
@@ -1326,7 +1326,7 @@
 <LM>w#w-ln94208-59-p3s5w12</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94208-59-p3s5w13">
 <src.rf>manual</src.rf>
@@ -1520,7 +1520,7 @@
 <LM>w#w-ln94208-59-p3s6w20</LM>
 </w.rf>
 <form>jejím</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS6FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS6FS3-------</tag>
 </m>
 <m id="m-ln94208-59-p3s6w21">
 <src.rf>manual</src.rf>
@@ -2158,7 +2158,7 @@
 <LM>w#w-ln94208-59-p4s3w14</LM>
 </w.rf>
 <form>jejím</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS6FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS6FS3-------</tag>
 </m>
 <m id="m-ln94208-59-p4s3w15">
 <src.rf>manual</src.rf>
@@ -2336,7 +2336,7 @@
 <LM>w#w-ln94208-59-p4s4w6</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-ln94208-59-p4s4w7">
 <src.rf>manual</src.rf>

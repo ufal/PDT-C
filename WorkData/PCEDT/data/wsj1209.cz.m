@@ -73,7 +73,7 @@
 <form>své</form>
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FP1---------1</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8FP4---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8FP4---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS2---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS3---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS6---------1</AM>
@@ -956,7 +956,7 @@
 <tag>
 <AM lemma="daný_^(*3át)" src="auto">AAIS3----1A----</AM>
 <AM lemma="daný_^(*3át)" src="auto">AAMS3----1A----</AM>
-<AM lemma="daný_^(*3át)" src="auto" recommended="1">AANS3----1A----</AM>
+<AM lemma="daný-1_^(*5át-1)" src="auto" recommended="1">AANS3----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj1209-001-p1s3W11-Ta">

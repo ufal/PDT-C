@@ -448,7 +448,7 @@
 <LM>w#w-mf930709-109-p2s4w6</LM>
 </w.rf>
 <form>David</form>
-<tag lemma="David_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="David-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-109-p2s4w7">
 <src.rf>manual</src.rf>
@@ -670,7 +670,7 @@
 <LM>w#w-mf930709-109-p2s6w7</LM>
 </w.rf>
 <form>David</form>
-<tag lemma="David_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="David-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-109-p2s6w8">
 <src.rf>manual</src.rf>
@@ -721,7 +721,7 @@
 <LM>w#w-mf930709-109-p2s6w13</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8YP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8YP4---------1</tag>
 </m>
 <m id="m-mf930709-109-p2s6w14">
 <src.rf>manual</src.rf>
@@ -919,7 +919,7 @@
 <LM>w#w-mf930709-109-p2s8w5</LM>
 </w.rf>
 <form>vězení</form>
-<tag lemma="vězení_,a_^(místo_výkonu_trestu)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="vězení_^(místo_výkonu_trestu)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-mf930709-109-p2s8w6">
 <src.rf>manual</src.rf>
@@ -1017,7 +1017,7 @@
 <LM>w#w-mf930709-109-p2s9w9</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-mf930709-109-p2s9w10">
 <src.rf>manual</src.rf>
@@ -1051,7 +1051,7 @@
 <LM>w#w-mf930709-109-p2s10w3</LM>
 </w.rf>
 <form>Davidovi</form>
-<tag lemma="David_;Y" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="David-1_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-mf930709-109-p2s10w4">
 <src.rf>manual</src.rf>
@@ -1126,7 +1126,7 @@
 <LM>w#w-mf930709-109-p2s10w12</LM>
 </w.rf>
 <form>vězení</form>
-<tag lemma="vězení_,a_^(místo_výkonu_trestu)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="vězení_^(místo_výkonu_trestu)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf930709-109-p2s10w13">
 <src.rf>manual</src.rf>
@@ -1158,7 +1158,7 @@
 <LM>w#w-mf930709-109-p2s10w16</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-mf930709-109-p2s10w17">
 <src.rf>manual</src.rf>

@@ -315,7 +315,7 @@
 </w.rf>
 <form>Letouny</form>
 <tag>
-<AM lemma="letoun" src="auto" recommended="1">NNIP1-----A----</AM>
+<AM lemma="letoun-1" src="auto" recommended="1">NNIP1-----A----</AM>
 <AM lemma="letoun" src="auto">NNIP4-----A----</AM>
 <AM lemma="letoun" src="auto">NNIP5-----A----</AM>
 <AM lemma="letoun" src="auto">NNIP7-----A----</AM>
@@ -846,7 +846,7 @@
 </w.rf>
 <form>dne</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="den_^(jednotka_času)" src="auto">NNIS5-----A----</AM>
 <AM lemma="den_^(jednotka_času)" src="auto">NNIS6-----A---9</AM>
 </tag>
@@ -1141,7 +1141,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1153-001-p1s3W25-Ta">

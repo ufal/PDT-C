@@ -58,7 +58,7 @@
 <LM>w#w-lnd94103-112-p1s3w1</LM>
 </w.rf>
 <form>úvodní</form>
-<tag lemma="úvodní_,s" src="orig" selected="1">AANP1----1A----</tag>
+<tag lemma="úvodní" src="orig" selected="1">AANP1----1A----</tag>
 </m>
 <m id="m-lnd94103-112-p1s3w2">
 <src.rf>manual</src.rf>
@@ -1004,7 +1004,7 @@
 <AM lemma="Zamorano_;m" src="auto">NNNS5-----A----</AM>
 <AM lemma="Zamorano_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Zamorano_;Y" src="auto">NNMS5-----A----</AM>
-<AM lemma="Zamorano_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Zamorano-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-112-p1s35w2">

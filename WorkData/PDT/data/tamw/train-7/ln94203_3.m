@@ -433,7 +433,7 @@
 <LM>w#w-ln94203-3-p2s3w4</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-ln94203-3-p2s3w5">
 <src.rf>manual</src.rf>
@@ -667,7 +667,7 @@
 <LM>w#w-ln94203-3-p3s2w3</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS7----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS7----------</tag>
 </m>
 <m id="m-ln94203-3-p3s2w4">
 <src.rf>manual</src.rf>
@@ -715,7 +715,7 @@
 <LM>w#w-ln94203-3-p3s2w9</LM>
 </w.rf>
 <form>brání</form>
-<tag lemma="bránit_^(klást_překážky)" src="auto" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="bránit" src="auto" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94203-3-p3s2w10">
 <src.rf>manual</src.rf>
@@ -771,7 +771,7 @@
 <LM>w#w-ln94203-3-p3s2w16</LM>
 </w.rf>
 <form>správném</form>
-<tag lemma="správný_^(podle_něj._měřítek;_př._chlap,_míra,...)" src="orig" selected="1">AANS6----1A----</tag>
+<tag lemma="správný" src="orig" selected="1">AANS6----1A----</tag>
 </m>
 <m id="m-ln94203-3-p3s2w17">
 <src.rf>manual</src.rf>
@@ -819,7 +819,7 @@
 <LM>w#w-ln94203-3-p3s2w22</LM>
 </w.rf>
 <form>nemocí</form>
-<tag lemma="nemoc_^(choroba)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="nemoc" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln94203-3-p3s2w23">
 <src.rf>manual</src.rf>
@@ -933,7 +933,7 @@
 <LM>w#w-ln94203-3-p4s1w7</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-ln94203-3-p4s1w8">
 <src.rf>manual</src.rf>
@@ -1023,7 +1023,7 @@
 <LM>w#w-ln94203-3-p4s2w6</LM>
 </w.rf>
 <form>blbé</form>
-<tag lemma="blbý" src="orig" selected="1">AANS1----1A----</tag>
+<tag lemma="blbý_,h" src="orig" selected="1">AANS1----1A----</tag>
 </m>
 <m id="m-ln94203-3-p4s2w7">
 <src.rf>manual</src.rf>
@@ -1225,7 +1225,7 @@
 <LM>w#w-ln94203-3-p4s3w9</LM>
 </w.rf>
 <form>nemocí</form>
-<tag lemma="nemoc_^(choroba)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="nemoc" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln94203-3-p4s3w10">
 <src.rf>manual</src.rf>
@@ -1660,7 +1660,7 @@
 <LM>w#w-ln94203-3-p5s4w1</LM>
 </w.rf>
 <form>Naše</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSHP1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSHP1-P1-------</tag>
 </m>
 <m id="m-ln94203-3-p5s4w2">
 <src.rf>manual</src.rf>
@@ -1851,7 +1851,7 @@
 <LM>w#w-ln94203-3-p5s6w8</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-ln94203-3-p5s6w9">
 <src.rf>manual</src.rf>
@@ -1941,7 +1941,7 @@
 <LM>w#w-ln94203-3-p5s7w2</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-ln94203-3-p5s7w3">
 <src.rf>manual</src.rf>

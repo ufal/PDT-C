@@ -1084,7 +1084,7 @@
 <LM>w#w-ln94205-33-p3s2w4</LM>
 </w.rf>
 <form>členů</form>
-<tag lemma="člen" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94205-33-p3s2w5">
 <src.rf>manual</src.rf>
@@ -2034,7 +2034,7 @@
 <LM>w#w-ln94205-33-p4s4w17</LM>
 </w.rf>
 <form>delší</form>
-<tag lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">AAFS4----2A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFS4----2A----</tag>
 </m>
 <m id="m-ln94205-33-p4s4w18">
 <src.rf>manual</src.rf>
@@ -2140,7 +2140,7 @@
 <LM>w#w-ln94205-33-p4s5w8</LM>
 </w.rf>
 <form>jejímž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1ZS7FS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1ZS7FS3-------</tag>
 </m>
 <m id="m-ln94205-33-p4s5w9">
 <src.rf>manual</src.rf>

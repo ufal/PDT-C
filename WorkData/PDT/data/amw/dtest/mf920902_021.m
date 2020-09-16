@@ -188,7 +188,7 @@
 <form>stát</form>
 <tag>
 <AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">Vf--------A----</AM>
-<AM lemma="stát-2_^(něco_se_přihodilo)" src="manual" selected="1">Vf--------A-P--</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">Vf--------A-P--</AM>
 </tag>
 </m>
 <m id="m-mf920902-021-p1s2w10">
@@ -486,7 +486,7 @@
 <LM>w#w-mf920902-021-p3s1w2</LM>
 </w.rf>
 <form>Vás</form>
-<tag lemma="ty" src="orig" selected="1">PP-P4--2-------</tag>
+<tag lemma="vy" src="orig" selected="1">PP-P4--2-------</tag>
 </m>
 <m id="m-mf920902-021-p3s1w3">
 <src.rf>manual</src.rf>

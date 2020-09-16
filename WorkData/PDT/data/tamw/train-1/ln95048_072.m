@@ -155,7 +155,7 @@
 <LM>w#w-ln95048-072-p2s1w15</LM>
 </w.rf>
 <form>děti</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-ln95048-072-p2s1w16">
 <src.rf>manual</src.rf>
@@ -272,7 +272,7 @@
 <LM>w#w-ln95048-072-p2s2w2</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-ln95048-072-p2s2w3">
 <src.rf>manual</src.rf>
@@ -565,7 +565,7 @@
 <LM>w#w-ln95048-072-p2s6w4</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-ln95048-072-p2s6w5">
 <src.rf>manual</src.rf>
@@ -863,7 +863,7 @@
 <LM>w#w-ln95048-072-p2s8w8</LM>
 </w.rf>
 <form>ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln95048-072-p2s8w9">
 <src.rf>manual</src.rf>

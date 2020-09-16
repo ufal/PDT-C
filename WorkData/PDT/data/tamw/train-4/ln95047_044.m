@@ -571,7 +571,7 @@
 <LM>w#w-ln95047-044-p2s3w20</LM>
 </w.rf>
 <form>naši</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS4-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS4-P1-------</tag>
 </m>
 <m id="m-ln95047-044-p2s3w21">
 <src.rf>manual</src.rf>
@@ -823,7 +823,7 @@
 <LM>w#w-ln95047-044-p3s2w10</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS2---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS2---------1</tag>
 </m>
 <m id="m-ln95047-044-p3s2w11">
 <src.rf>manual</src.rf>
@@ -911,7 +911,7 @@
 <LM>w#w-ln95047-044-p3s2w21</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9IS4FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9IS4FS3-------</tag>
 </m>
 <m id="m-ln95047-044-p3s2w22">
 <src.rf>manual</src.rf>
@@ -1081,7 +1081,7 @@
 <LM>w#w-ln95047-044-p3s3w16</LM>
 </w.rf>
 <form>naší</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS2-P1-------</tag>
 </m>
 <m id="m-ln95047-044-p3s3w17">
 <src.rf>manual</src.rf>
@@ -1309,7 +1309,7 @@
 <LM>w#w-ln95047-044-p3s5w8</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-ln95047-044-p3s5w9">
 <src.rf>manual</src.rf>
@@ -1668,7 +1668,7 @@
 <LM>w#w-ln95047-044-p4s2w5</LM>
 </w.rf>
 <form>všespasitelnosti</form>
-<tag lemma="všespasitelnost_,s_^(*3ý)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="všespasitelnost_^(*3ý)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln95047-044-p4s2w6">
 <src.rf>manual</src.rf>
@@ -1820,7 +1820,7 @@
 <LM>w#w-ln95047-044-p4s2w24</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-ln95047-044-p4s2w25">
 <src.rf>manual</src.rf>
@@ -1855,7 +1855,7 @@
 <LM>w#w-ln95047-044-p4s2w28</LM>
 </w.rf>
 <form>proto</form>
-<tag lemma="proto-2_^(dal_mu_co_proto,_tak_proto!)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="proto-2_^(proto_že)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95047-044-p4s2w29">
 <src.rf>manual</src.rf>
@@ -2308,7 +2308,7 @@
 <LM>w#w-ln95047-044-p4s5w14</LM>
 </w.rf>
 <form>jejích</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP2FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XP2FS3-------</tag>
 </m>
 <m id="m-ln95047-044-p4s5w15">
 <src.rf>manual</src.rf>
@@ -2358,7 +2358,7 @@
 <LM>w#w-ln95047-044-p4s6w4</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-ln95047-044-p4s6w5">
 <src.rf>manual</src.rf>
@@ -2497,7 +2497,7 @@
 <LM>w#w-ln95047-044-p4s6w21</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS7----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS7----------</tag>
 </m>
 <m id="m-ln95047-044-p4s6w22">
 <src.rf>manual</src.rf>
@@ -2713,7 +2713,7 @@
 <LM>w#w-ln95047-044-p4s7w5</LM>
 </w.rf>
 <form>rolí</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="role_^(svitek_poslání_pozemek)" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln95047-044-p4s7w6">
 <src.rf>manual</src.rf>
@@ -3021,7 +3021,7 @@
 <LM>w#w-ln95047-044-p4s9w12</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS6---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS6---------1</tag>
 </m>
 <m id="m-ln95047-044-p4s9w13">
 <src.rf>manual</src.rf>
@@ -3223,7 +3223,7 @@
 <LM>w#w-ln95047-044-p5s1w16</LM>
 </w.rf>
 <form>naší</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS7-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS7-P1-------</tag>
 </m>
 <m id="m-ln95047-044-p5s1w17">
 <src.rf>manual</src.rf>

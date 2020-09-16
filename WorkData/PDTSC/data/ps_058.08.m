@@ -31,7 +31,7 @@
 </w.rf>
 <form>nám</form>
 <tag>
-<AM lemma="já" src="auto" recommended="1">PP-P3--1-------</AM>
+<AM lemma="my" src="auto" recommended="1">PP-P3--1-------</AM>
 <AM lemma="náměstí_:B" src="auto">NNNXX-----A---8</AM>
 </tag>
 </m>
@@ -401,7 +401,7 @@
 </w.rf>
 <form>váš</form>
 <tag>
-<AM lemma="tvůj_^(přivlast.)" src="auto" recommended="1">PSIS4-P2-------</AM>
+<AM lemma="váš" src="auto" recommended="1">PSIS4-P2-------</AM>
 <AM lemma="tvůj_^(přivlast.)" src="auto">PSYS1-P2-------</AM>
 <AM lemma="tvůj_^(přivlast.)" src="auto">PSYS5-P2-------</AM>
 </tag>
@@ -587,7 +587,7 @@
 <form>vás</form>
 <tag>
 <AM lemma="ty" src="auto">PP-P2--2-------</AM>
-<AM lemma="ty" src="auto" recommended="1">PP-P4--2-------</AM>
+<AM lemma="vy" src="auto" recommended="1">PP-P4--2-------</AM>
 <AM lemma="ty" src="auto">PP-P6--2-------</AM>
 </tag>
 </m>

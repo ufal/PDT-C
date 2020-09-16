@@ -309,7 +309,7 @@
 <LM>w#w-lnd92256-016-p3s2w27</LM>
 </w.rf>
 <form>neschopnost</form>
-<tag lemma="neschopnost_;U_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS4-----A----</tag>
+<tag lemma="neschopnost_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-lnd92256-016-p3s2w28">
 <src.rf>manual</src.rf>
@@ -471,7 +471,7 @@
 <LM>w#w-lnd92256-016-p3s3w19</LM>
 </w.rf>
 <form>prvních</form>
-<tag lemma="první" src="orig" selected="1">CrNP6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNP6----------</tag>
 </m>
 <m id="m-lnd92256-016-p3s3w20">
 <src.rf>manual</src.rf>

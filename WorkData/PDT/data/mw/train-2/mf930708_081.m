@@ -315,7 +315,7 @@
 <LM>w#w-mf930708-081-p2s2w5</LM>
 </w.rf>
 <form>pojatá</form>
-<tag lemma="pojatý_^(*3mout)" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="pojatý" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-mf930708-081-p2s2w6">
 <src.rf>manual</src.rf>
@@ -347,7 +347,7 @@
 <LM>w#w-mf930708-081-p2s2w9</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FXXFS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1FXXFS3-------</tag>
 </m>
 <m id="m-mf930708-081-p2s2w10">
 <src.rf>manual</src.rf>
@@ -379,7 +379,7 @@
 <LM>w#w-mf930708-081-p2s2w13</LM>
 </w.rf>
 <form>dny</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-mf930708-081-p2s2w14">
 <src.rf>manual</src.rf>
@@ -1023,7 +1023,7 @@
 <LM>w#w-mf930708-081-p3s2w22</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-mf930708-081-p3s2w23">
 <src.rf>manual</src.rf>
@@ -1166,7 +1166,7 @@
 <LM>w#w-mf930708-081-p3s3w7</LM>
 </w.rf>
 <form>převzatými</form>
-<tag lemma="převzatý_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="orig" selected="1">AAFP7----1A----</tag>
+<tag lemma="převzatý_^(*3ít)" src="orig" selected="1">AAFP7----1A----</tag>
 </m>
 <m id="m-mf930708-081-p3s3w8">
 <src.rf>manual</src.rf>

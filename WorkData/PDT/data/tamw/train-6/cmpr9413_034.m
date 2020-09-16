@@ -1296,7 +1296,7 @@
 <LM>w#w-cmpr9413-034-p5s1w5</LM>
 </w.rf>
 <form>dalo</form>
-<tag lemma="dát" src="orig" selected="1">VpNS----R-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-cmpr9413-034-p5s1w6">
 <src.rf>manual</src.rf>
@@ -1458,7 +1458,7 @@
 <LM>w#w-cmpr9413-034-p5s2w12</LM>
 </w.rf>
 <form>Evropě</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-cmpr9413-034-p5s2w13">
 <src.rf>manual</src.rf>
@@ -2480,7 +2480,7 @@
 <LM>w#w-cmpr9413-034-p8s1w2</LM>
 </w.rf>
 <form>práva</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNP4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNP4-----A----</tag>
 </m>
 <m id="m-cmpr9413-034-p8s1w3">
 <src.rf>manual</src.rf>
@@ -2714,7 +2714,7 @@
 <LM>w#w-cmpr9413-034-p8s2w17</LM>
 </w.rf>
 <form>nedá</form>
-<tag lemma="dát" src="orig" selected="1">VB-S---3P-NAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VB-S---3P-NAP--</tag>
 </m>
 <m id="m-cmpr9413-034-p8s2w18">
 <src.rf>manual</src.rf>
@@ -3342,7 +3342,7 @@
 <LM>w#w-cmpr9413-034-p9s3w8</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-cmpr9413-034-p9s3w9">
 <src.rf>manual</src.rf>

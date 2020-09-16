@@ -476,7 +476,7 @@
 <LM>w#w-ln94207-15-p2s5w8</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-ln94207-15-p2s5w9">
 <src.rf>manual</src.rf>
@@ -618,7 +618,7 @@
 <LM>w#w-ln94207-15-p2s6w13</LM>
 </w.rf>
 <form>daném</form>
-<tag lemma="daný_^(*3át)" src="auto" selected="1">AAIS6----1A----</tag>
+<tag lemma="daný-1_^(*5át-1)" src="auto" selected="1">AAIS6----1A----</tag>
 </m>
 <m id="m-ln94207-15-p2s6w14">
 <src.rf>manual</src.rf>
@@ -902,7 +902,7 @@
 <LM>w#w-ln94207-15-p2s8w11</LM>
 </w.rf>
 <form>daném</form>
-<tag lemma="daný_^(*3át)" src="auto" selected="1">AAIS6----1A----</tag>
+<tag lemma="daný-1_^(*5át-1)" src="auto" selected="1">AAIS6----1A----</tag>
 </m>
 <m id="m-ln94207-15-p2s8w12">
 <src.rf>manual</src.rf>
@@ -1161,7 +1161,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-15-p2s12w7">
@@ -1196,7 +1196,7 @@
 <LM>w#w-ln94207-15-p2s13w1</LM>
 </w.rf>
 <form>Nemoc</form>
-<tag lemma="nemoc_^(choroba)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="nemoc" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94207-15-p2s13w2">
 <src.rf>manual</src.rf>
@@ -1472,7 +1472,7 @@
 <LM>w#w-ln94207-15-p2s15w16</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94207-15-p2s15w17">
 <src.rf>manual</src.rf>

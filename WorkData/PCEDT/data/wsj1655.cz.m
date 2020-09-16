@@ -73,7 +73,7 @@
 <AM lemma="Jose_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Jose_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Jose_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Jose-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Jose_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1655-001-p1s0W5-Ta">
@@ -419,7 +419,7 @@
 <AM lemma="ča_^(ča-ča)" src="auto">NNFS2-----A----</AM>
 <AM lemma="ča_^(ča-ča)" src="auto">NNFS3-----A---1</AM>
 <AM lemma="ča_^(ča-ča)" src="auto">NNFS6-----A---1</AM>
-<AM lemma="či" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="či-1" src="auto" recommended="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1655-001-p1s0W29-Ta">
@@ -590,7 +590,7 @@
 </w.rf>
 <form>výbor</form>
 <tag>
-<AM lemma="výbor" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="výbor-1" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="výbor" src="auto">NNIS4-----A----</AM>
 <AM lemma="výbor" src="auto">NNMS1-----A----</AM>
 </tag>
@@ -867,7 +867,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1655-001-p1s1W18-Ta">
@@ -1184,7 +1184,7 @@
 </w.rf>
 <form>Pascala</form>
 <tag>
-<AM lemma="Pascal_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Pascal-1_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Pascal_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="pascal" src="auto">NNIS2-----A---1</AM>
 </tag>
@@ -2080,7 +2080,7 @@
 <form>Pascalovi</form>
 <tag>
 <AM lemma="Pascal_;Y" src="auto">NNMS3-----A----</AM>
-<AM lemma="Pascal_;Y" src="auto" recommended="1">NNMS6-----A----</AM>
+<AM lemma="Pascal-1_;Y" src="auto" recommended="1">NNMS6-----A----</AM>
 <AM lemma="Pascalův_;Y_^(*2)" src="auto">AUMP1M---------</AM>
 <AM lemma="Pascalův_;Y_^(*2)" src="auto">AUMP5M---------</AM>
 </tag>
@@ -2209,7 +2209,7 @@
 </w.rf>
 <form>svou</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8FS4---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8FS4---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS7---------1</AM>
 </tag>
 </m>
@@ -2303,7 +2303,7 @@
 </w.rf>
 <form>svůj</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8IS4----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8IS4----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8YS1----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8YS5----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOYS-----------</AM>
@@ -2410,7 +2410,7 @@
 <form>lidi</form>
 <tag>
 <AM lemma="člověk" src="auto">NNMP1-----A----</AM>
-<AM lemma="člověk" src="auto" recommended="1">NNMP4-----A----</AM>
+<AM lemma="lidé" src="auto" recommended="1">NNMP4-----A----</AM>
 <AM lemma="člověk" src="auto">NNMP5-----A----</AM>
 </tag>
 </m>
@@ -2779,7 +2779,7 @@
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8IP1---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8IP5---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS1---------1</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8NS4---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8NS4---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS5---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8YP4---------1</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOFP-----------</AM>
@@ -2859,7 +2859,7 @@
 </w.rf>
 <form>druzí</form>
 <tag>
-<AM lemma="druhý" src="auto" recommended="1">CrMP1----------</AM>
+<AM lemma="druhý`2" src="auto" recommended="1">CrMP1----------</AM>
 <AM lemma="druhý" src="auto">CrMP5----------</AM>
 </tag>
 </m>
@@ -3408,7 +3408,7 @@
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8XP3----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8ZS6---------7</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8ZS7----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8ZS7----------</AM>
 </tag>
 </m>
 <m id="m-wsj1655-001-p1s7W5-Ta">
@@ -3608,7 +3608,7 @@
 </w.rf>
 <form>svých</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8XP2----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8XP2----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8XP6----------</AM>
 </tag>
 </m>
@@ -5327,7 +5327,7 @@
 <AM lemma="druhý" src="auto">CrMP1---------6</AM>
 <AM lemma="druhý" src="auto">CrMP4---------6</AM>
 <AM lemma="druhý" src="auto">CrMP5---------6</AM>
-<AM lemma="druhý" src="auto" recommended="1">CrMS1----------</AM>
+<AM lemma="druhý`2" src="auto" recommended="1">CrMS1----------</AM>
 <AM lemma="druhý" src="auto">CrMS5----------</AM>
 <AM lemma="druhý" src="auto">CrNP1---------6</AM>
 <AM lemma="druhý" src="auto">CrNP4---------6</AM>
@@ -5436,7 +5436,7 @@
 <LM>w#w-wsj1655-001-p1s14W3</LM>
 </w.rf>
 <form>vypadá</form>
-<tag lemma="vypadat" src="auto" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="vypadat-1_^(ty_vypadáš)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-wsj1655-001-p1s14W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5601,7 +5601,7 @@
 <LM>w#w-wsj1655-001-p1s14W12</LM>
 </w.rf>
 <form>vypadá</form>
-<tag lemma="vypadat" src="auto" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="vypadat-1_^(ty_vypadáš)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-wsj1655-001-p1s14W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5791,7 +5791,7 @@
 <form>svého</form>
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8MS4----------</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8ZS2----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8ZS2----------</AM>
 </tag>
 </m>
 <m id="m-wsj1655-001-p1s15W17-Ta">
@@ -6679,7 +6679,7 @@
 </w.rf>
 <form>mí</form>
 <tag>
-<AM lemma="můj_^(přivlast.)" src="auto" recommended="1">PSMP1-S1------1</AM>
+<AM lemma="můj" src="auto" recommended="1">PSMP1-S1------1</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSMP5-S1------1</AM>
 </tag>
 </m>

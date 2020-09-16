@@ -300,7 +300,7 @@
 <LM>w#w-ln95044-109-p3s1w4</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP6----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP6----------</tag>
 </m>
 <m id="m-ln95044-109-p3s1w5">
 <src.rf>manual</src.rf>
@@ -316,7 +316,7 @@
 <LM>w#w-ln95044-109-p3s1w6</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-ln95044-109-p3s1w7">
 <src.rf>manual</src.rf>
@@ -803,7 +803,7 @@
 <LM>w#w-ln95044-109-p4s1w1</LM>
 </w.rf>
 <form>Vedoucí</form>
-<tag lemma="vedoucí-2" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="vedoucí-3" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95044-109-p4s1w2">
 <src.rf>manual</src.rf>
@@ -1152,7 +1152,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-2" src="auto">Db-------------</AM>
-<AM lemma="třeba-1" src="manual" selected="1">TT-------------</AM>
+<AM lemma="třeba-2_^(například)" src="manual" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95044-109-p4s2w10">
@@ -1369,7 +1369,7 @@
 <LM>w#w-ln95044-109-p4s3w11</LM>
 </w.rf>
 <form>lidi</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-ln95044-109-p4s3w12">
 <src.rf>manual</src.rf>
@@ -1606,7 +1606,7 @@
 <LM>w#w-ln95044-109-p5s1w15</LM>
 </w.rf>
 <form>lidem</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP3-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP3-----A----</tag>
 </m>
 <m id="m-ln95044-109-p5s1w16">
 <src.rf>manual</src.rf>
@@ -1670,7 +1670,7 @@
 <LM>w#w-ln95044-109-p5s1w23</LM>
 </w.rf>
 <form>postiženým</form>
-<tag lemma="postižený_^(*4hnout)" src="orig" selected="1">AAMP3----1A----</tag>
+<tag lemma="postižený" src="orig" selected="1">AAMP3----1A----</tag>
 </m>
 <m id="m-ln95044-109-p5s1w24">
 <src.rf>manual</src.rf>
@@ -2771,7 +2771,7 @@
 <LM>w#w-ln95044-109-p5s7w10</LM>
 </w.rf>
 <form>správní</form>
-<tag lemma="správní_^(např._poplatek;_rada;_řád;...)" src="orig" selected="1">AANS4----1A----</tag>
+<tag lemma="správní_^(správní_rada;_řád)" src="orig" selected="1">AANS4----1A----</tag>
 </m>
 <m id="m-ln95044-109-p5s7w11">
 <src.rf>manual</src.rf>
@@ -3102,7 +3102,7 @@
 <form>tisíc</form>
 <tag>
 <AM lemma="tisíc-1`1000" src="orig">ClXS2----------</AM>
-<AM lemma="tisíc-1`1000" src="manual" selected="1">CzIXX----------</AM>
+<AM lemma="tisíc`1000" src="manual" selected="1">CzIXX----------</AM>
 </tag>
 </m>
 <m id="m-ln95044-109-p5s8w33">
@@ -3265,7 +3265,7 @@
 <LM>w#w-ln95044-109-p5s9w17</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln95044-109-p5s9w18">
 <src.rf>manual</src.rf>
@@ -3389,7 +3389,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>

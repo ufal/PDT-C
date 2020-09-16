@@ -59,7 +59,7 @@
 <LM>w#w-ln95047-103-p1s1w6</LM>
 </w.rf>
 <form>děti</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 </s>
 <s id="m-ln95047-103-p2s1A">
@@ -551,7 +551,7 @@
 <form>ČEZ</form>
 <tag>
 <AM lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ČEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČEZ-2_;m_^(České_energetické_závody)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-103-p3s1w17">
@@ -652,7 +652,7 @@
 <form>ČEZ</form>
 <tag>
 <AM lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ČEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČEZ-2_;m_^(České_energetické_závody)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-103-p3s2w7">
@@ -669,7 +669,7 @@
 <LM>w#w-ln95047-103-p3s2w8</LM>
 </w.rf>
 <form>Miroslav</form>
-<tag lemma="Miroslav_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Miroslav-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-103-p3s2w9">
 <src.rf>manual</src.rf>
@@ -1176,7 +1176,7 @@
 <LM>w#w-ln95047-103-p3s6w2</LM>
 </w.rf>
 <form>tištěných</form>
-<tag lemma="tištěný_^(*5sknout)" src="orig" selected="1">AAIP2----1A----</tag>
+<tag lemma="tištěný" src="orig" selected="1">AAIP2----1A----</tag>
 </m>
 <m id="m-ln95047-103-p3s6w3">
 <src.rf>manual</src.rf>
@@ -1314,7 +1314,7 @@
 <form>ČEZ</form>
 <tag>
 <AM lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ČEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČEZ-2_;m_^(České_energetické_závody)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-103-p3s6w20">

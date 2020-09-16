@@ -83,7 +83,7 @@
 <LM>w#w-ln94210-106-p1s1Aw9</LM>
 </w.rf>
 <form>Glavunion</form>
-<tag lemma="Glavunion" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Glavunion_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94210-106-p1s1Aw10">
 <src.rf>manual</src.rf>
@@ -107,7 +107,7 @@
 <LM>w#w-ln94210-106-p1s1Aw12</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8YP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8YP4---------1</tag>
 </m>
 <m id="m-ln94210-106-p1s1Aw13">
 <src.rf>manual</src.rf>

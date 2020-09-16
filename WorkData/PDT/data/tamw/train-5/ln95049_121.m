@@ -295,7 +295,7 @@
 <LM>w#w-ln95049-121-p2s2w11</LM>
 </w.rf>
 <form>jehož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P1XXXZS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXZS3-------</tag>
 </m>
 <m id="m-ln95049-121-p2s2w12">
 <src.rf>manual</src.rf>

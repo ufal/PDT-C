@@ -83,7 +83,7 @@
 <LM>w#w-lnd94105-058-p1s1w9</LM>
 </w.rf>
 <form>vytváření</form>
-<tag lemma="vytváření_,a_^(*2t)" src="auto" selected="1">NNNS6-----A----</tag>
+<tag lemma="vytváření_^(*2t)_(*3it)" src="auto" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-lnd94105-058-p1s1w10">
 <src.rf>manual</src.rf>
@@ -237,7 +237,7 @@
 <LM>w#w-lnd94105-058-p1s2w4</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS1FS3-------</tag>
 </m>
 <m id="m-lnd94105-058-p1s2w5">
 <src.rf>manual</src.rf>

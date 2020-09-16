@@ -502,7 +502,7 @@
 <LM>w#w-mf920902-042-p2s4w11</LM>
 </w.rf>
 <form>potřeby</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920902-042-p2s4w12">
 <src.rf>manual</src.rf>

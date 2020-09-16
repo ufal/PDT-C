@@ -299,7 +299,7 @@
 <LM>w#w-ln95046-048-p2s2w3</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrIS7----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS7----------</tag>
 </m>
 <m id="m-ln95046-048-p2s2w4">
 <src.rf>manual</src.rf>
@@ -970,7 +970,7 @@
 <LM>w#w-ln95046-048-p2s7w4</LM>
 </w.rf>
 <form>Marušky</form>
-<tag lemma="Maruška_;Y" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Maruška-1_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95046-048-p2s7w5">
 <src.rf>manual</src.rf>
@@ -1050,7 +1050,7 @@
 <LM>w#w-ln95046-048-p2s7w14</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln95046-048-p2s7w15">
 <src.rf>manual</src.rf>
@@ -1156,7 +1156,7 @@
 <LM>w#w-ln95046-048-p2s8w1</LM>
 </w.rf>
 <form>Oči</form>
-<tag lemma="oko" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="oko-2" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-ln95046-048-p2s8w2">
 <src.rf>manual</src.rf>
@@ -1535,7 +1535,7 @@
 <LM>w#w-ln95046-048-p2s11w1</LM>
 </w.rf>
 <form>Její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS1FS3-------</tag>
 </m>
 <m id="m-ln95046-048-p2s11w2">
 <src.rf>manual</src.rf>
@@ -1575,7 +1575,7 @@
 <LM>w#w-ln95046-048-p2s11w6</LM>
 </w.rf>
 <form>lety</form>
-<tag lemma="rok" src="orig" selected="1">NNNP7-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP7-----A----</tag>
 </m>
 <m id="m-ln95046-048-p2s11w7">
 <src.rf>manual</src.rf>
@@ -1849,7 +1849,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -2382,7 +2382,7 @@
 <LM>w#w-ln95046-048-p2s17w6</LM>
 </w.rf>
 <form>lety</form>
-<tag lemma="rok" src="orig" selected="1">NNNP7-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP7-----A----</tag>
 </m>
 <m id="m-ln95046-048-p2s17w7">
 <src.rf>manual</src.rf>
@@ -2446,7 +2446,7 @@
 <LM>w#w-ln95046-048-p2s17w14</LM>
 </w.rf>
 <form>role</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="role_^(svitek_poslání_pozemek)" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-ln95046-048-p2s17w15">
 <src.rf>manual</src.rf>
@@ -2556,7 +2556,7 @@
 <LM>w#w-ln95046-048-p2s17w27</LM>
 </w.rf>
 <form>Laurie</form>
-<tag lemma="Laurie_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Laurie-2_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-048-p2s17w28">
 <src.rf>manual</src.rf>
@@ -2686,7 +2686,7 @@
 <LM>w#w-ln95046-048-p2s18w12</LM>
 </w.rf>
 <form>rolí</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="role_^(svitek_poslání_pozemek)" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln95046-048-p2s18w13">
 <src.rf>manual</src.rf>
@@ -2950,7 +2950,7 @@
 <LM>w#w-ln95046-048-p2s19w20</LM>
 </w.rf>
 <form>jakkoliv</form>
-<tag lemma="jakkoliv-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="jakkoliv-1_,s_^(^DD**jakkoli-1)" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95046-048-p2s19w21">
 <src.rf>manual</src.rf>
@@ -3075,7 +3075,7 @@
 <LM>w#w-ln95046-048-p3s1w6</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP2-P1-------</tag>
 </m>
 <m id="m-ln95046-048-p3s1w7">
 <src.rf>manual</src.rf>
@@ -3743,7 +3743,7 @@
 <LM>w#w-ln95046-048-p3s6w9</LM>
 </w.rf>
 <form>nejlepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAFS6----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAFS6----3A----</tag>
 </m>
 <m id="m-ln95046-048-p3s6w10">
 <src.rf>manual</src.rf>

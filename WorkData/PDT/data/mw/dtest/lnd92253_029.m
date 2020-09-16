@@ -245,7 +245,7 @@
 <LM>w#w-lnd92253-029-p2s2w20</LM>
 </w.rf>
 <form>odpovědnost</form>
-<tag lemma="odpovědnost_^(kdo_za_něco_odpovídá)_(*3ý)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="odpovědnost_^(*3ý)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-lnd92253-029-p2s2w21">
 <src.rf>manual</src.rf>
@@ -280,7 +280,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Navržená</form>
-<tag lemma="navržený_^(*4hnout)" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="navržený" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-lnd92253-029-p2s3w2">
 <src.rf>manual</src.rf>
@@ -434,7 +434,7 @@
 <LM>w#w-lnd92253-029-p2s4w12</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-lnd92253-029-p2s4w13">
 <src.rf>manual</src.rf>
@@ -1006,7 +1006,7 @@
 <LM>w#w-lnd92253-029-p2s7w11</LM>
 </w.rf>
 <form>Karlovy</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-lnd92253-029-p2s7w12">
 <src.rf>manual</src.rf>
@@ -1078,7 +1078,7 @@
 <LM>w#w-lnd92253-029-p2s7w20</LM>
 </w.rf>
 <form>událostí</form>
-<tag lemma="událost_,a_^(*3ý)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="událost" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-lnd92253-029-p2s7w21">
 <src.rf>manual</src.rf>

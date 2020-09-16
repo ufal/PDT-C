@@ -70,7 +70,7 @@
 <LM>w#w-ln94200-175-p1s1w7</LM>
 </w.rf>
 <form>rolí</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="role_^(svitek_poslání_pozemek)" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln94200-175-p1s1w8">
 <src.rf>manual</src.rf>

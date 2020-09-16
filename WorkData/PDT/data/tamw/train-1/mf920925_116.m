@@ -460,7 +460,7 @@
 <LM>w#w-mf920925-116-p3s1w4</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-mf920925-116-p3s1w5">
 <src.rf>manual</src.rf>

@@ -328,7 +328,7 @@
 <LM>w#w-mf920924-076-p4s3w6</LM>
 </w.rf>
 <form>dá</form>
-<tag lemma="dát" src="orig" selected="1">VB-S---3P-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-mf920924-076-p4s3w7">
 <src.rf>manual</src.rf>
@@ -934,7 +934,7 @@
 <LM>w#w-mf920924-076-p5s1w1</LM>
 </w.rf>
 <form>Napadení</form>
-<tag lemma="napadený_^(*3nout)" src="orig" selected="1">AAMP1----1A----</tag>
+<tag lemma="napadený" src="orig" selected="1">AAMP1----1A----</tag>
 </m>
 <m id="m-mf920924-076-p5s1w2">
 <src.rf>manual</src.rf>
@@ -1366,7 +1366,7 @@
 <LM>w#w-mf920924-076-p5s5w2</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8MS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8MS4----------</tag>
 </m>
 <m id="m-mf920924-076-p5s5w3">
 <src.rf>manual</src.rf>
@@ -1528,7 +1528,7 @@
 <LM>w#w-mf920924-076-p5s6w17</LM>
 </w.rf>
 <form>napadení</form>
-<tag lemma="napadený_^(*3nout)" src="orig" selected="1">AAMP1----1A----</tag>
+<tag lemma="napadený" src="orig" selected="1">AAMP1----1A----</tag>
 </m>
 <m id="m-mf920924-076-p5s6w18">
 <src.rf>manual</src.rf>
@@ -1578,7 +1578,7 @@
 <LM>w#w-mf920924-076-p6s1w4</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-mf920924-076-p6s1w5">
 <src.rf>manual</src.rf>
@@ -1663,7 +1663,7 @@
 <LM>w#w-mf920924-076-p6s2w7</LM>
 </w.rf>
 <form>proto</form>
-<tag lemma="proto-2_^(dal_mu_co_proto,_tak_proto!)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="proto-2_^(proto_že)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf920924-076-p6s2w8">
 <src.rf>manual</src.rf>
@@ -2216,7 +2216,7 @@
 <LM>w#w-mf920924-076-p6s5w21</LM>
 </w.rf>
 <form>vězení</form>
-<tag lemma="vězení_,a_^(místo_výkonu_trestu)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="vězení_^(místo_výkonu_trestu)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-mf920924-076-p6s5w22">
 <src.rf>manual</src.rf>

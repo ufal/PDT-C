@@ -573,7 +573,7 @@
 <LM>w#w-lnd94104-008-p1s5w5</LM>
 </w.rf>
 <form>člen</form>
-<tag lemma="člen" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-008-p1s5w6">
 <src.rf>manual</src.rf>
@@ -589,7 +589,7 @@
 <LM>w#w-lnd94104-008-p1s5w7</LM>
 </w.rf>
 <form>rady</form>
-<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94104-008-p1s5w8">
 <src.rf>manual</src.rf>
@@ -1206,7 +1206,7 @@
 <LM>w#w-lnd94104-008-p1s9w1</LM>
 </w.rf>
 <form>Ukazatelem</form>
-<tag lemma="ukazatel" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="ukazatel-1" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-lnd94104-008-p1s9w2">
 <src.rf>manual</src.rf>
@@ -1454,7 +1454,7 @@
 <LM>w#w-lnd94104-008-p1s10w6</LM>
 </w.rf>
 <form>vyhlášené</form>
-<tag lemma="vyhlášený_,a_^(*4sit)" src="orig" selected="1">AANS1----1A----</tag>
+<tag lemma="vyhlášený_^(*2t)_(*4sit)" src="orig" selected="1">AANS1----1A----</tag>
 </m>
 <m id="m-lnd94104-008-p1s10w7">
 <src.rf>manual</src.rf>

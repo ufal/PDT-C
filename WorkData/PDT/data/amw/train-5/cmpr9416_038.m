@@ -119,7 +119,7 @@
 <LM>w#w-cmpr9416-038-p3s2w6</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP2-P1-------</tag>
 </m>
 <m id="m-cmpr9416-038-p3s2w7">
 <src.rf>manual</src.rf>
@@ -695,7 +695,7 @@
 <LM>w#w-cmpr9416-038-p7s2w12</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XP1FS3-------</tag>
 </m>
 <m id="m-cmpr9416-038-p7s2w13">
 <src.rf>manual</src.rf>
@@ -719,7 +719,7 @@
 <LM>w#w-cmpr9416-038-p7s2w15</LM>
 </w.rf>
 <form>dají</form>
-<tag lemma="dát" src="orig" selected="1">VB-P---3P-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-cmpr9416-038-p7s2w16">
 <src.rf>manual</src.rf>
@@ -1228,7 +1228,7 @@
 <LM>w#w-cmpr9416-038-p9s3w10</LM>
 </w.rf>
 <form>hodně</form>
-<tag lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto" selected="1">Dg-------1A----</tag>
+<tag lemma="hodně_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-cmpr9416-038-p9s3w11">
 <src.rf>manual</src.rf>
@@ -1425,7 +1425,7 @@
 <LM>w#w-cmpr9416-038-p10s2w20</LM>
 </w.rf>
 <form>stojí</form>
-<tag lemma="stát-4_^(něco_stojí_peníze)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9416-038-p10s2w21">
 <src.rf>manual</src.rf>
@@ -1819,7 +1819,7 @@
 <LM>w#w-cmpr9416-038-p12s2w8</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-cmpr9416-038-p12s2w9">
 <src.rf>manual</src.rf>
@@ -2166,7 +2166,7 @@
 <form>konkurzní</form>
 <tag>
 <AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AAFS2----1A----</AM>
-<AM lemma="konkurzní_^(týkající_se_úpadku,_soutěže)" src="manual" selected="1">AAFS2----1A----</AM>
+<AM lemma="konkurzní" src="manual" selected="1">AAFS2----1A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-038-p13s2w19">

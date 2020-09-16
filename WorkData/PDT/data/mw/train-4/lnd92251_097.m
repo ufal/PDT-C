@@ -333,7 +333,7 @@
 <LM>w#w-lnd92251-097-p2s2w34</LM>
 </w.rf>
 <form>málo</form>
-<tag lemma="málo-1_^(málo_+_2._p.,_málo_peněz)" src="orig" selected="1">Ca--2---------1</tag>
+<tag lemma="málo-1_^(málo_peněz)" src="orig" selected="1">Ca--2---------1</tag>
 </m>
 <m id="m-lnd92251-097-p2s2w35">
 <src.rf>manual</src.rf>

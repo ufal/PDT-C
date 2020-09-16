@@ -117,7 +117,7 @@
 <LM>w#w-mf930708-011-p2s1w1</LM>
 </w.rf>
 <form>Karlovy</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUIP1M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUIP1M---------</tag>
 </m>
 <m id="m-mf930708-011-p2s1w2">
 <src.rf>manual</src.rf>
@@ -221,7 +221,7 @@
 <LM>w#w-mf930708-011-p2s1w14</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS1FS3-------</tag>
 </m>
 <m id="m-mf930708-011-p2s1w15">
 <src.rf>manual</src.rf>

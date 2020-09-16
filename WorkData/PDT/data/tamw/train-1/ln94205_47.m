@@ -271,7 +271,7 @@
 <LM>w#w-ln94205-47-p2s1Bw20</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP2-P1-------</tag>
 </m>
 <m id="m-ln94205-47-p2s1Bw21">
 <src.rf>manual</src.rf>
@@ -1459,7 +1459,7 @@
 <LM>w#w-ln94205-47-p3s8w5</LM>
 </w.rf>
 <form>proto</form>
-<tag lemma="proto-2_^(dal_mu_co_proto,_tak_proto!)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="proto-2_^(proto_že)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94205-47-p3s8w6">
 <src.rf>manual</src.rf>

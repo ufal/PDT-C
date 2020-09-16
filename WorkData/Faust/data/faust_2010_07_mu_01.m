@@ -692,7 +692,7 @@
 </w.rf>
 <form>Moje</form>
 <tag>
-<AM lemma="můj_^(přivlast.)" recommended="1">PSHS1-S1-------</AM>
+<AM lemma="můj" recommended="1">PSHS1-S1-------</AM>
 <AM lemma="Moja_;Y">NNFP1-----A---1</AM>
 <AM lemma="Moja_;Y">NNFP4-----A---1</AM>
 <AM lemma="Moja_;Y">NNFP5-----A---1</AM>
@@ -833,7 +833,7 @@
 </w.rf>
 <form>cestě</form>
 <tag>
-<AM lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" recommended="1">NNFS6-----A----</AM>
+<AM lemma="cesta" recommended="1">NNFS6-----A----</AM>
 <AM lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')">NNFS3-----A----</AM>
 </tag>
 </m>
@@ -925,7 +925,7 @@
 </w.rf>
 <form>Můj</form>
 <tag>
-<AM lemma="můj_^(přivlast.)" recommended="1">PSYS1-S1-------</AM>
+<AM lemma="můj" recommended="1">PSYS1-S1-------</AM>
 <AM lemma="můj_^(přivlast.)">PSIS4-S1-------</AM>
 <AM lemma="můj_^(přivlast.)">PSYS5-S1-------</AM>
 </tag>
@@ -1624,7 +1624,7 @@
 </w.rf>
 <form>let</form>
 <tag>
-<AM lemma="rok" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" recommended="1">NNNP2-----A----</AM>
 <AM lemma="let">NNIS1-----A----</AM>
 <AM lemma="let">NNIS4-----A----</AM>
 </tag>
@@ -2130,7 +2130,7 @@
 <LM>w#w-mu_01-SCzechM-p0034-s1-w1</LM>
 </w.rf>
 <form>manažer</form>
-<tag lemma="manažer" recommended="1">NNMS1-----A----</tag>
+<tag lemma="manažer-1" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="mu_01-SCzechM-p0034-s1-w2">
 <w.rf>
@@ -2748,7 +2748,7 @@
 </w.rf>
 <form>tvá</form>
 <tag>
-<AM lemma="tvůj_^(přivlast.)" recommended="1">PSFS1-S2------1</AM>
+<AM lemma="tvůj" recommended="1">PSFS1-S2------1</AM>
 <AM lemma="tvůj_^(přivlast.)">PSFS5-S2------1</AM>
 <AM lemma="tvůj_^(přivlast.)">PSNP1-S2------1</AM>
 <AM lemma="tvůj_^(přivlast.)">PSNP4-S2------1</AM>
@@ -3464,7 +3464,7 @@
 </w.rf>
 <form>mou</form>
 <tag>
-<AM lemma="můj_^(přivlast.)" recommended="1">PSFS4-S1------1</AM>
+<AM lemma="můj" recommended="1">PSFS4-S1------1</AM>
 <AM lemma="můj_^(přivlast.)">PSFS7-S1------1</AM>
 <AM lemma="moa_;U_^(vyhynulý_druh_pštrosa)">NNMS4-----A----</AM>
 </tag>
@@ -3640,7 +3640,7 @@
 <tag>
 <AM lemma="Ara_;m_^(obchod,_firma,_továrna)" recommended="1">NNFS3-----A----</AM>
 <AM lemma="Ara_;m_^(obchod,_firma,_továrna)">NNFS6-----A----</AM>
-<AM lemma="Ara-2_;Y" src="manual" selected="1">NNFS3-----A----</AM>
+<AM lemma="Ara_;Y_;m" src="manual" selected="1">NNFS3-----A----</AM>
 </tag>
 </m>
 <m id="mu_01-SCzechM-p0068-s1-w3">
@@ -4498,7 +4498,7 @@
 </w.rf>
 <form>džíny</form>
 <tag>
-<AM lemma="džíny" recommended="1">NNFP1-----A----</AM>
+<AM lemma="džíny-1" recommended="1">NNFP1-----A----</AM>
 <AM lemma="džíny">NNFP4-----A----</AM>
 <AM lemma="džíny">NNFP5-----A----</AM>
 <AM lemma="džíny">NNIP1-----A----</AM>
@@ -4695,7 +4695,7 @@
 <tag>
 <AM lemma="jenom-1" recommended="1">TT-------------</AM>
 <AM lemma="jenom-2_^(pouze)">Db-------------</AM>
-<AM lemma="jenom-2_,s_^(pouze)_(^DD**jen-4)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="jenom-2_^(pouze)" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="mu_01-SCzechM-p0092-s1-w12">
@@ -5495,7 +5495,7 @@
 <tag>
 <AM lemma="let" recommended="1">NNIS1-----A----</AM>
 <AM lemma="let">NNIS4-----A----</AM>
-<AM lemma="rok" selected="1">NNNP2-----A----</AM>
+<AM lemma="léta" selected="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="mu_01-SCzechM-p0095-s1-w5">

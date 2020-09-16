@@ -310,7 +310,7 @@
 <form>jejích</form>
 <tag>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP2FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XP6FS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9XP6FS3-------</AM>
 </tag>
 </m>
 <m id="m-wsj1680-001-p1s0W24-Ta">
@@ -2067,7 +2067,7 @@
 <AM lemma="první" src="auto">CrFP2----------</AM>
 <AM lemma="první" src="auto">CrFP6----------</AM>
 <AM lemma="první" src="auto">CrIP2----------</AM>
-<AM lemma="první" src="auto" recommended="1">CrIP6----------</AM>
+<AM lemma="první-1" src="auto" recommended="1">CrIP6----------</AM>
 <AM lemma="první" src="auto">CrMP2----------</AM>
 <AM lemma="první" src="auto">CrMP6----------</AM>
 <AM lemma="první" src="auto">CrNP2----------</AM>

@@ -252,7 +252,7 @@
 <form>Tichá</form>
 <tag>
 <AM lemma="Tichá_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Tichá-2_;G" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Tichá_;G_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-65-p2s1Bw22">
@@ -327,7 +327,7 @@
 <LM>w#w-ln94204-65-p2s2w8</LM>
 </w.rf>
 <form>druhého</form>
-<tag lemma="druhý" src="orig" selected="1">CrMS4----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrMS4----------</tag>
 </m>
 <m id="m-ln94204-65-p2s2w9">
 <src.rf>manual</src.rf>
@@ -593,7 +593,7 @@
 <LM>w#w-ln94204-65-p2s4w8</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1XP1FS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XP1FS3-------</tag>
 </m>
 <m id="m-ln94204-65-p2s4w9">
 <src.rf>manual</src.rf>

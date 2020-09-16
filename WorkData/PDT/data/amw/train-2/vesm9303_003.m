@@ -99,7 +99,7 @@
 <LM>w#w-vesm9303-003-p1s1w11</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XP1FS3-------</tag>
 </m>
 <m id="m-vesm9303-003-p1s1w12">
 <src.rf>manual</src.rf>
@@ -1355,7 +1355,7 @@
 <LM>w#w-vesm9303-003-p2s4w10</LM>
 </w.rf>
 <form>roli</form>
-<tag lemma="role-1_^(kotouč;_svitek)" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="role_^(svitek_poslání_pozemek)" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-vesm9303-003-p2s4w11">
 <src.rf>manual</src.rf>
@@ -1674,7 +1674,7 @@
 <LM>w#w-vesm9303-003-p4s1w5</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-vesm9303-003-p4s1w6">
 <src.rf>manual</src.rf>
@@ -2558,7 +2558,7 @@
 <LM>w#w-vesm9303-003-p5s1w10</LM>
 </w.rf>
 <form>modelům</form>
-<tag lemma="model" src="orig" selected="1">NNIP3-----A----</tag>
+<tag lemma="model-1" src="orig" selected="1">NNIP3-----A----</tag>
 </m>
 <m id="m-vesm9303-003-p5s1w11">
 <src.rf>manual</src.rf>
@@ -2590,7 +2590,7 @@
 <LM>w#w-vesm9303-003-p5s1w14</LM>
 </w.rf>
 <form>Kleina</form>
-<tag lemma="Klein_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Klein-1_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-vesm9303-003-p5s1w15">
 <src.rf>manual</src.rf>
@@ -2624,7 +2624,7 @@
 <LM>w#w-vesm9303-003-p5s2w3</LM>
 </w.rf>
 <form>modelů</form>
-<tag lemma="model" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="model-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-vesm9303-003-p5s2w4">
 <src.rf>manual</src.rf>
@@ -2672,7 +2672,7 @@
 <LM>w#w-vesm9303-003-p5s2w9</LM>
 </w.rf>
 <form>našeho</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSZS2-P1-------</tag>
 </m>
 <m id="m-vesm9303-003-p5s2w10">
 <src.rf>manual</src.rf>
@@ -2818,7 +2818,7 @@
 <LM>w#w-vesm9303-003-p5s3w6</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP2-P1-------</tag>
 </m>
 <m id="m-vesm9303-003-p5s3w7">
 <src.rf>manual</src.rf>
@@ -4523,7 +4523,7 @@
 <LM>w#w-vesm9303-003-p9s1w18</LM>
 </w.rf>
 <form>filosofii</form>
-<tag lemma="filozofie" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="filosofie_,s_^(^DD**filozofie)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-vesm9303-003-p9s1w19">
 <src.rf>manual</src.rf>

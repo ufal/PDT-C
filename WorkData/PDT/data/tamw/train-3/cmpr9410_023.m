@@ -733,7 +733,7 @@
 <LM>w#w-cmpr9410-023-p4s4w35</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS2---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS2---------1</tag>
 </m>
 <m id="m-cmpr9410-023-p4s4w36">
 <src.rf>manual</src.rf>
@@ -968,7 +968,7 @@
 <LM>w#w-cmpr9410-023-p5s1w25</LM>
 </w.rf>
 <form>politice</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-cmpr9410-023-p5s1w26">
 <src.rf>manual</src.rf>
@@ -1228,7 +1228,7 @@
 <LM>w#w-cmpr9410-023-p5s2Bw1</LM>
 </w.rf>
 <form>Lepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAMS1----2A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAMS1----2A----</tag>
 </m>
 <m id="m-cmpr9410-023-p5s2Bw2">
 <src.rf>manual</src.rf>
@@ -1558,7 +1558,7 @@
 <LM>w#w-cmpr9410-023-p5s2Dw4</LM>
 </w.rf>
 <form>lidi</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-cmpr9410-023-p5s2Dw5">
 <src.rf>manual</src.rf>
@@ -1606,7 +1606,7 @@
 <LM>w#w-cmpr9410-023-p5s2Dw10</LM>
 </w.rf>
 <form>oko</form>
-<tag lemma="oko" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="oko-1" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-cmpr9410-023-p5s2Dw11">
 <src.rf>manual</src.rf>
@@ -2285,7 +2285,7 @@
 <LM>w#w-cmpr9410-023-p8s4w2</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-cmpr9410-023-p8s4w3">
 <src.rf>manual</src.rf>
@@ -2375,7 +2375,7 @@
 <LM>w#w-cmpr9410-023-p8s5w1</LM>
 </w.rf>
 <form>Druhá</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS1----------</tag>
 </m>
 <m id="m-cmpr9410-023-p8s5w2">
 <src.rf>manual</src.rf>

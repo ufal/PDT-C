@@ -148,7 +148,7 @@
 <LM>w#w-mf930702-003-p2s1w12</LM>
 </w.rf>
 <form>dovážejících</form>
-<tag lemma="dovážející_^(z_ciziny)_(*4t)" src="orig" selected="1">AGMP2-----A----</tag>
+<tag lemma="dovážející_^(*4t)" src="orig" selected="1">AGMP2-----A----</tag>
 </m>
 <m id="m-mf930702-003-p2s1w13">
 <src.rf>manual</src.rf>

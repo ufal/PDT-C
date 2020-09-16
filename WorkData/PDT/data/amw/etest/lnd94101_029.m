@@ -277,7 +277,7 @@
 <LM>w#w-lnd94101-029-p1s3w23</LM>
 </w.rf>
 <form>hodiny</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94101-029-p1s3w24">
 <src.rf>manual</src.rf>
@@ -382,7 +382,7 @@
 <LM>w#w-lnd94101-029-p1s3w36</LM>
 </w.rf>
 <form>kamion</form>
-<tag lemma="kamión" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="kamion_,s_^(^DD**kamión)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-lnd94101-029-p1s3w37">
 <src.rf>manual</src.rf>
@@ -566,7 +566,7 @@
 <LM>w#w-lnd94101-029-p1s4w21</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-lnd94101-029-p1s4w22">
 <src.rf>manual</src.rf>
@@ -751,7 +751,7 @@
 <LM>w#w-lnd94101-029-p1s5w10</LM>
 </w.rf>
 <form>dlouhé</form>
-<tag lemma="dlouhý-1_^(fyz._délka;_př._dlouhá_tyč)" src="orig" selected="1">AAFP4----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFP4----1A----</tag>
 </m>
 <m id="m-lnd94101-029-p1s5w11">
 <src.rf>manual</src.rf>
@@ -841,7 +841,7 @@
 <LM>w#w-lnd94101-029-p1s6w4</LM>
 </w.rf>
 <form>mluvčího</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94101-029-p1s6w5">
 <src.rf>manual</src.rf>

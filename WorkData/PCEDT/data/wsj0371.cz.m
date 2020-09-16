@@ -269,7 +269,7 @@
 </w.rf>
 <form>datu</form>
 <tag>
-<AM lemma="datum_^(kalendářní)" src="auto" recommended="1">NNNS3-----A----</AM>
+<AM lemma="datum-1_^(kalendářní)" src="auto" recommended="1">NNNS3-----A----</AM>
 <AM lemma="datum_^(kalendářní)" src="auto">NNNS6-----A----</AM>
 </tag>
 </m>
@@ -938,7 +938,7 @@
 <form>Gardinera</form>
 <tag>
 <AM lemma="Gardiner_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Gardiner_;Y" src="auto" selected="1">NNMS4-----A----</AM>
+<AM lemma="Gardiner-1_;Y" src="auto" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0371-001-p1s1W31-Ta">

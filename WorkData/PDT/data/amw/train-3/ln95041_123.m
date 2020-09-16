@@ -138,7 +138,7 @@
 <LM>w#w-ln95041-123-p1s2w3</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln95041-123-p1s2w4">
 <src.rf>manual</src.rf>
@@ -747,7 +747,7 @@
 <LM>w#w-ln95041-123-p4s1w20</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-ln95041-123-p4s1w21">
 <src.rf>manual</src.rf>
@@ -763,7 +763,7 @@
 <LM>w#w-ln95041-123-p4s1w22</LM>
 </w.rf>
 <form>správní</form>
-<tag lemma="správní_^(např._poplatek;_rada;_řád;...)" src="orig" selected="1">AAFS3----1A----</tag>
+<tag lemma="správní_^(správní_rada;_řád)" src="orig" selected="1">AAFS3----1A----</tag>
 </m>
 <m id="m-ln95041-123-p4s1w23">
 <src.rf>manual</src.rf>
@@ -872,7 +872,7 @@
 <LM>w#w-ln95041-123-p4s2w9</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-ln95041-123-p4s2w10">
 <src.rf>manual</src.rf>
@@ -1682,7 +1682,7 @@
 <LM>w#w-ln95041-123-p6s1w7</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-ln95041-123-p6s1w8">
 <src.rf>manual</src.rf>
@@ -1698,7 +1698,7 @@
 <LM>w#w-ln95041-123-p6s1w9</LM>
 </w.rf>
 <form>znárodněné</form>
-<tag lemma="znárodněný_^(soukr._majetek)_(*3it)" src="orig" selected="1">AAFS2----1A----</tag>
+<tag lemma="znárodněný_^(*2t)_(*3it)" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-ln95041-123-p6s1w10">
 <src.rf>manual</src.rf>
@@ -2591,7 +2591,7 @@
 <form>neschopností</form>
 <tag>
 <AM lemma="neschopnost_;U_^(odb._termín:_pracovní_n.)" src="auto">NNFS7-----A----</AM>
-<AM lemma="neschopnost_;U_^(odb._termín:_pracovní_n.)" src="manual" selected="1">NNFS7-----A----</AM>
+<AM lemma="neschopnost_^(odb._termín:_pracovní_n.)" src="manual" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-123-p6s6w16">

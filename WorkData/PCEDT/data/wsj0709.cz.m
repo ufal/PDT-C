@@ -779,7 +779,7 @@
 <tag>
 <AM lemma="druhý" src="auto">CrIS6----------</AM>
 <AM lemma="druhý" src="auto">CrMS6----------</AM>
-<AM lemma="druhý" src="auto" recommended="1">CrNS6----------</AM>
+<AM lemma="druhý`2" src="auto" recommended="1">CrNS6----------</AM>
 </tag>
 </m>
 <m id="m-wsj0709-001-p1s3W9-Ta">
@@ -1154,7 +1154,7 @@
 <AM lemma="daný_^(*3át)" src="auto">AANP4----1A---6</AM>
 <AM lemma="daný_^(*3át)" src="auto">AANP5----1A---6</AM>
 <AM lemma="daný_^(*3át)" src="auto">AANS1----1A----</AM>
-<AM lemma="daný_^(*3át)" src="auto" recommended="1">AANS4----1A----</AM>
+<AM lemma="daný-1_^(*5át-1)" src="auto" recommended="1">AANS4----1A----</AM>
 <AM lemma="daný_^(*3át)" src="auto">AANS5----1A----</AM>
 </tag>
 </m>

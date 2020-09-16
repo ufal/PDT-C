@@ -590,7 +590,7 @@
 <LM>w#w-cmpr9407-021-p5s1w5</LM>
 </w.rf>
 <form>náš</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSYS1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSYS1-P1-------</tag>
 </m>
 <m id="m-cmpr9407-021-p5s1w6">
 <src.rf>manual</src.rf>
@@ -1194,7 +1194,7 @@
 <LM>w#w-cmpr9407-021-p6s1w6</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8NS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8NS4---------1</tag>
 </m>
 <m id="m-cmpr9407-021-p6s1w7">
 <src.rf>manual</src.rf>
@@ -1474,7 +1474,7 @@
 <LM>w#w-cmpr9407-021-p7s2w8</LM>
 </w.rf>
 <form>sezoně</form>
-<tag lemma="sezona" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="sezona_,s_^(^DD**sezóna)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-cmpr9407-021-p7s2w9">
 <src.rf>manual</src.rf>
@@ -1638,7 +1638,7 @@
 <LM>w#w-cmpr9407-021-p8s1w7</LM>
 </w.rf>
 <form>proto</form>
-<tag lemma="proto-2_^(dal_mu_co_proto,_tak_proto!)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="proto-2_^(proto_že)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-cmpr9407-021-p8s1w8">
 <src.rf>manual</src.rf>
@@ -1784,7 +1784,7 @@
 <LM>w#w-cmpr9407-021-p9s1w8</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-cmpr9407-021-p9s1w9">
 <src.rf>manual</src.rf>
@@ -3110,7 +3110,7 @@
 <LM>w#w-cmpr9407-021-p11s6w3</LM>
 </w.rf>
 <form>náš</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSYS1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSYS1-P1-------</tag>
 </m>
 <m id="m-cmpr9407-021-p11s6w4">
 <src.rf>manual</src.rf>

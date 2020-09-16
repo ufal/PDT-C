@@ -117,7 +117,7 @@
 <LM>w#w-cmpr9410-050-p3s1w2</LM>
 </w.rf>
 <form>potřeby</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-cmpr9410-050-p3s1w3">
 <src.rf>manual</src.rf>

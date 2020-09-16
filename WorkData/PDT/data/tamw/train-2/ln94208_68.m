@@ -189,7 +189,7 @@
 <LM>w#w-ln94208-68-p2s1Bw10</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FP4---------1</tag>
 </m>
 <m id="m-ln94208-68-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -570,7 +570,7 @@
 <LM>w#w-ln94208-68-p3s2w19</LM>
 </w.rf>
 <form>vyhlášení</form>
-<tag lemma="vyhlášení_,a_^(*4sit)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="vyhlášení_^(*2t)_(*4sit)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-ln94208-68-p3s2w20">
 <src.rf>manual</src.rf>
@@ -602,7 +602,7 @@
 <LM>w#w-ln94208-68-p3s2w23</LM>
 </w.rf>
 <form>tajných</form>
-<tag lemma="tajný" src="orig" selected="1">AAIP2----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AAIP2----1A----</tag>
 </m>
 <m id="m-ln94208-68-p3s2w24">
 <src.rf>manual</src.rf>
@@ -788,7 +788,7 @@
 <LM>w#w-ln94208-68-p3s3w17</LM>
 </w.rf>
 <form>semtex</form>
-<tag lemma="semtex_;m" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="semtex" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln94208-68-p3s3w18">
 <src.rf>manual</src.rf>
@@ -1429,7 +1429,7 @@
 <LM>w#w-ln94208-68-p5s1w6</LM>
 </w.rf>
 <form>extremisty</form>
-<tag lemma="extremista" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="extremista_,s_^(^DD**extrémista)" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-ln94208-68-p5s1w7">
 <src.rf>manual</src.rf>
@@ -1559,7 +1559,7 @@
 <LM>w#w-ln94208-68-p5s2w9</LM>
 </w.rf>
 <form>tajná</form>
-<tag lemma="tajný" src="orig" selected="1">AANP4----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AANP4----1A----</tag>
 </m>
 <m id="m-ln94208-68-p5s2w10">
 <src.rf>manual</src.rf>
@@ -2586,7 +2586,7 @@
 <LM>w#w-ln94208-68-p6s3w11</LM>
 </w.rf>
 <form>tajné</form>
-<tag lemma="tajný" src="orig" selected="1">AAIP4----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AAIP4----1A----</tag>
 </m>
 <m id="m-ln94208-68-p6s3w12">
 <src.rf>manual</src.rf>
@@ -2772,7 +2772,7 @@
 <LM>w#w-ln94208-68-p6s4w15</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94208-68-p6s4w16">
 <src.rf>manual</src.rf>

@@ -200,7 +200,7 @@
 <LM>w#w-mf930703-041-p2s1w15</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFP1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFP1----------</tag>
 </m>
 <m id="m-mf930703-041-p2s1w16">
 <src.rf>manual</src.rf>
@@ -447,7 +447,7 @@
 <LM>w#w-mf930703-041-p2s3w7</LM>
 </w.rf>
 <form>prvních</form>
-<tag lemma="první" src="orig" selected="1">CrIP6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIP6----------</tag>
 </m>
 <m id="m-mf930703-041-p2s3w8">
 <src.rf>manual</src.rf>
@@ -521,7 +521,7 @@
 <LM>w#w-mf930703-041-p2s4w2</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-mf930703-041-p2s4w3">
 <src.rf>manual</src.rf>
@@ -649,7 +649,7 @@
 <LM>w#w-mf930703-041-p2s4w18</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-mf930703-041-p2s4w19">
 <src.rf>manual</src.rf>
@@ -1024,7 +1024,7 @@
 <LM>w#w-mf930703-041-p2s5w37</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrNS7----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS7----------</tag>
 </m>
 <m id="m-mf930703-041-p2s5w38">
 <src.rf>manual</src.rf>
@@ -1074,7 +1074,7 @@
 <LM>w#w-mf930703-041-p2s6w2</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-mf930703-041-p2s6w3">
 <src.rf>manual</src.rf>
@@ -1325,7 +1325,7 @@
 <LM>w#w-mf930703-041-p2s6w33</LM>
 </w.rf>
 <form>jejích</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP6FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XP6FS3-------</tag>
 </m>
 <m id="m-mf930703-041-p2s6w34">
 <src.rf>manual</src.rf>
@@ -1879,7 +1879,7 @@
 <LM>w#w-mf930703-041-p2s9w3</LM>
 </w.rf>
 <form>faktorem</form>
-<tag lemma="faktor" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="faktor-1" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-mf930703-041-p2s9w4">
 <src.rf>manual</src.rf>
@@ -1911,7 +1911,7 @@
 <LM>w#w-mf930703-041-p2s9w7</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-mf930703-041-p2s9w8">
 <src.rf>manual</src.rf>
@@ -2180,7 +2180,7 @@
 <LM>w#w-mf930703-041-p2s10w23</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-mf930703-041-p2s10w24">
 <src.rf>manual</src.rf>

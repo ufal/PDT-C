@@ -238,7 +238,7 @@
 <LM>w#w-mf930701-019-p2s1w21</LM>
 </w.rf>
 <form>jehož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P1XXXZS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXZS3-------</tag>
 </m>
 <m id="m-mf930701-019-p2s1w22">
 <src.rf>manual</src.rf>
@@ -273,7 +273,7 @@
 <LM>w#w-mf930701-019-p2s1w25</LM>
 </w.rf>
 <form>vysvědčení</form>
-<tag lemma="vysvědčení_,a_^(ve_škole)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="vysvědčení_^(*3it)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-mf930701-019-p2s1w26">
 <src.rf>manual</src.rf>
@@ -437,7 +437,7 @@
 <LM>w#w-mf930701-019-p2s2w15</LM>
 </w.rf>
 <form>vysvědčení</form>
-<tag lemma="vysvědčení_,a_^(ve_škole)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="vysvědčení_^(*3it)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-mf930701-019-p2s2w16">
 <src.rf>manual</src.rf>
@@ -869,7 +869,7 @@
 <LM>w#w-mf930701-019-p2s4w13</LM>
 </w.rf>
 <form>vysvědčení</form>
-<tag lemma="vysvědčení_,a_^(ve_škole)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="vysvědčení_^(*3it)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-mf930701-019-p2s4w14">
 <src.rf>manual</src.rf>

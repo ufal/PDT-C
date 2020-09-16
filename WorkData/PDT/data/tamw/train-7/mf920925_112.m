@@ -668,7 +668,7 @@
 <LM>w#w-mf920925-112-p3s1w6</LM>
 </w.rf>
 <form>diskuse</form>
-<tag lemma="diskuse" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="diskuse_,s_^(^DD**diskuze)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920925-112-p3s1w7">
 <src.rf>manual</src.rf>
@@ -910,7 +910,7 @@
 <LM>w#w-mf920925-112-p3s2w20</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-mf920925-112-p3s2w21">
 <src.rf>manual</src.rf>
@@ -918,7 +918,7 @@
 <LM>w#w-mf920925-112-p3s2w21</LM>
 </w.rf>
 <form>členů</form>
-<tag lemma="člen" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf920925-112-p3s2w22">
 <src.rf>manual</src.rf>

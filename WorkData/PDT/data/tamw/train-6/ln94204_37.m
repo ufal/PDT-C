@@ -298,7 +298,7 @@
 <LM>w#w-ln94204-37-p2s2w1</LM>
 </w.rf>
 <form>Litotryptor</form>
-<tag lemma="litotryptor_;m" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="litotryptor" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94204-37-p2s2w2">
 <src.rf>manual</src.rf>
@@ -734,7 +734,7 @@
 <LM>w#w-ln94204-37-p2s4w11</LM>
 </w.rf>
 <form>Miroslav</form>
-<tag lemma="Miroslav_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Miroslav-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-37-p2s4w12">
 <src.rf>manual</src.rf>
@@ -766,7 +766,7 @@
 <LM>w#w-ln94204-37-p2s4w15</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrMP1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrMP1----------</tag>
 </m>
 <m id="m-ln94204-37-p2s4w16">
 <src.rf>manual</src.rf>
@@ -827,7 +827,7 @@
 <LM>w#w-ln94204-37-p2s5w2</LM>
 </w.rf>
 <form>proto</form>
-<tag lemma="proto-2_^(dal_mu_co_proto,_tak_proto!)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="proto-2_^(proto_že)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94204-37-p2s5w3">
 <src.rf>manual</src.rf>

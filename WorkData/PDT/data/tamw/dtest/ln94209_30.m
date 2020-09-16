@@ -170,7 +170,7 @@
 <LM>w#w-ln94209-30-p2s1Bw6</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-ln94209-30-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -202,7 +202,7 @@
 <LM>w#w-ln94209-30-p2s1Bw10</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln94209-30-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -574,7 +574,7 @@
 <LM>w#w-ln94209-30-p2s3w9</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln94209-30-p2s3w10">
 <src.rf>manual</src.rf>
@@ -598,7 +598,7 @@
 <LM>w#w-ln94209-30-p2s3w12</LM>
 </w.rf>
 <form>rozvod</form>
-<tag lemma="rozvod-2_^(vody,_plynu...)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="rozvod_^(manželství;vody)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln94209-30-p2s3w13">
 <src.rf>manual</src.rf>
@@ -694,7 +694,7 @@
 <LM>w#w-ln94209-30-p2s3w24</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94209-30-p2s3w25">
 <src.rf>manual</src.rf>
@@ -792,7 +792,7 @@
 <LM>w#w-ln94209-30-p2s4w11</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94209-30-p2s4w12">
 <src.rf>manual</src.rf>

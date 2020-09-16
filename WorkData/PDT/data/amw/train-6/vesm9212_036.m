@@ -101,7 +101,7 @@
 <LM>w#w-vesm9212-036-p2s1w7</LM>
 </w.rf>
 <form>virem</form>
-<tag lemma="vir" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="vir-1" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-vesm9212-036-p2s1w8">
 <src.rf>manual</src.rf>
@@ -279,7 +279,7 @@
 <LM>w#w-vesm9212-036-p2s2w11</LM>
 </w.rf>
 <form>hypothalamu</form>
-<tag lemma="hypotalamus_;U" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="hypothalamus_,s_^(^DD**hypotalamus)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-vesm9212-036-p2s2w12">
 <src.rf>manual</src.rf>
@@ -401,7 +401,7 @@
 <LM>w#w-vesm9212-036-p2s3w1</LM>
 </w.rf>
 <form>Hypothalamus</form>
-<tag lemma="hypotalamus_;U" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="hypothalamus_,s_^(^DD**hypotalamus)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-vesm9212-036-p2s3w2">
 <src.rf>manual</src.rf>
@@ -1051,7 +1051,7 @@
 <LM>w#w-vesm9212-036-p2s4w42</LM>
 </w.rf>
 <form>postižení</form>
-<tag lemma="postižení_^(*4hnout)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="postižení" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-vesm9212-036-p2s4w43">
 <src.rf>manual</src.rf>
@@ -1348,7 +1348,7 @@
 <LM>w#w-vesm9212-036-p2s5w24</LM>
 </w.rf>
 <form>pozornost</form>
-<tag lemma="pozornost-1_^(všímavý,_milý,_soustředěný)_(*5ý-1)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="pozornost-1_^(*5ý-1)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-vesm9212-036-p2s5w25">
 <src.rf>manual</src.rf>
@@ -1356,7 +1356,7 @@
 <LM>w#w-vesm9212-036-p2s5w25</LM>
 </w.rf>
 <form>neurohistologickému</form>
-<tag lemma="neurohistologický_;U" src="orig" selected="1">AANS3----1A----</tag>
+<tag lemma="neurohistologický" src="orig" selected="1">AANS3----1A----</tag>
 </m>
 <m id="m-vesm9212-036-p2s5w26">
 <src.rf>manual</src.rf>

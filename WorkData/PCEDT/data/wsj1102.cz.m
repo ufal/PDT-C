@@ -877,7 +877,7 @@
 </w.rf>
 <form>Dow</form>
 <tag>
-<AM lemma="Dow-1_;Y" src="auto" selected="1">NNMXX-----A----</AM>
+<AM lemma="Dow_;Y" src="auto" selected="1">NNMXX-----A----</AM>
 <AM lemma="Dow_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Dowa_;G" src="auto">NNFP2-----A----</AM>
 </tag>
@@ -1853,7 +1853,7 @@
 <AM lemma="pozdní-2_^(v_roce,_ročním_období)" src="auto">AAMS6----1A----</AM>
 <AM lemma="pozdní-2_^(v_roce,_ročním_období)" src="auto">AAMS7----1A----</AM>
 <AM lemma="pozdní-2_^(v_roce,_ročním_období)" src="auto">AANP3----1A----</AM>
-<AM lemma="pozdní-2_^(v_roce,_ročním_období)" src="auto" recommended="1">AANS6----1A----</AM>
+<AM lemma="pozdní" src="auto" recommended="1">AANS6----1A----</AM>
 <AM lemma="pozdní-2_^(v_roce,_ročním_období)" src="auto">AANS7----1A----</AM>
 </tag>
 </m>
@@ -1954,7 +1954,7 @@
 </w.rf>
 <form>dne</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="den_^(jednotka_času)" src="auto">NNIS5-----A----</AM>
 <AM lemma="den_^(jednotka_času)" src="auto">NNIS6-----A---9</AM>
 </tag>
@@ -2632,7 +2632,7 @@
 <AM lemma="pozdní-2_^(v_roce,_ročním_období)" src="auto">AAMS6----1A----</AM>
 <AM lemma="pozdní-2_^(v_roce,_ročním_období)" src="auto">AAMS7----1A----</AM>
 <AM lemma="pozdní-2_^(v_roce,_ročním_období)" src="auto">AANP3----1A----</AM>
-<AM lemma="pozdní-2_^(v_roce,_ročním_období)" src="auto" recommended="1">AANS6----1A----</AM>
+<AM lemma="pozdní" src="auto" recommended="1">AANS6----1A----</AM>
 <AM lemma="pozdní-2_^(v_roce,_ročním_období)" src="auto">AANS7----1A----</AM>
 </tag>
 </m>
@@ -2693,7 +2693,7 @@
 <AM lemma="York-2_;G" src="auto">NNIS2-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS5-----A----</AM>
-<AM lemma="York-2_;G" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="York-2_;G_;m" src="auto" recommended="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1102-001-p1s9W8-Ta">
@@ -3656,7 +3656,7 @@
 <AM lemma="York-2_;G" src="auto">NNIS2-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS5-----A----</AM>
-<AM lemma="York-2_;G" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="York-2_;G_;m" src="auto" recommended="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1102-001-p1s12W11-Ta">
@@ -5122,7 +5122,7 @@
 <form>pozornost</form>
 <tag>
 <AM lemma="pozornost-1_^(všímavý,_milý,_soustředěný)_(*5ý-1)" src="auto">NNFS1-----A----</AM>
-<AM lemma="pozornost-1_^(všímavý,_milý,_soustředěný)_(*5ý-1)" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="pozornost-1_^(*5ý-1)" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="pozornost-2_^(dárek,_úplatek)" src="auto">NNFS1-----A----</AM>
 <AM lemma="pozornost-2_^(dárek,_úplatek)" src="auto">NNFS4-----A----</AM>
 </tag>
@@ -5332,7 +5332,7 @@
 <AM lemma="jeho_^(přivlast.)" src="auto">PSFXXFS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSIS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSNS4FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XP1FS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9XP1FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP5FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSZS1FS3-------</AM>

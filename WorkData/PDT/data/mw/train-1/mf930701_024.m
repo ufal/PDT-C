@@ -35,7 +35,7 @@
 <LM>w#w-mf930701-024-p1s1w3</LM>
 </w.rf>
 <form>Druhá</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS1----------</tag>
 </m>
 <m id="m-mf930701-024-p1s1w4">
 <src.rf>manual</src.rf>

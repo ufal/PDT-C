@@ -731,7 +731,7 @@
 <LM>w#w-mf920925-072-p2s3w42</LM>
 </w.rf>
 <form>právo</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-mf920925-072-p2s3w43">
 <src.rf>manual</src.rf>
@@ -861,7 +861,7 @@
 <LM>w#w-mf920925-072-p2s4w13</LM>
 </w.rf>
 <form>právu</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-mf920925-072-p2s4w14">
 <src.rf>manual</src.rf>
@@ -903,7 +903,7 @@
 <LM>w#w-mf920925-072-p2s5w4</LM>
 </w.rf>
 <form>lepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AANS1----2A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AANS1----2A----</tag>
 </m>
 <m id="m-mf920925-072-p2s5w5">
 <src.rf>manual</src.rf>
@@ -1103,7 +1103,7 @@
 <LM>w#w-mf920925-072-p2s7w2</LM>
 </w.rf>
 <form>dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920925-072-p2s7w3">
 <src.rf>manual</src.rf>
@@ -1219,7 +1219,7 @@
 <LM>w#w-mf920925-072-p2s7w16</LM>
 </w.rf>
 <form>doopravdy</form>
-<tag lemma="doopravdy" src="orig" selected="1">Db-------------</tag>
+<tag lemma="doopravdy-1" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf920925-072-p2s7w17">
 <src.rf>manual</src.rf>

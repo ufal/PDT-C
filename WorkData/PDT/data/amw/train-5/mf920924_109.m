@@ -115,7 +115,7 @@
 <LM>w#w-mf920924-109-p1s1w13</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS7---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS7---------1</tag>
 </m>
 <m id="m-mf920924-109-p1s1w14">
 <src.rf>manual</src.rf>
@@ -854,7 +854,7 @@
 <LM>w#w-mf920924-109-p4s7w7</LM>
 </w.rf>
 <form>málo</form>
-<tag lemma="málo-1_^(málo_+_2._p.,_málo_peněz)" src="orig" selected="1">Ca--1----------</tag>
+<tag lemma="málo-1_^(málo_peněz)" src="orig" selected="1">Ca--1----------</tag>
 </m>
 <m id="m-mf920924-109-p4s7w8">
 <src.rf>manual</src.rf>

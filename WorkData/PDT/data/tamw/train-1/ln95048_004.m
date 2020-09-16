@@ -225,7 +225,7 @@
 <form>Tchibo</form>
 <tag>
 <AM lemma="Tchibo_;Y" src="orig">NNNS1-----A----</AM>
-<AM lemma="Tchibo_;Y_;m" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="Tchibo_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-004-p2s1Bw17">
@@ -740,7 +740,7 @@
 <LM>w#w-ln95048-004-p3s3w1</LM>
 </w.rf>
 <form>Správní</form>
-<tag lemma="správní_^(např._poplatek;_rada;_řád;...)" src="orig" selected="1">AANS4----1A----</tag>
+<tag lemma="správní_^(správní_rada;_řád)" src="orig" selected="1">AANS4----1A----</tag>
 </m>
 <m id="m-ln95048-004-p3s3w2">
 <src.rf>manual</src.rf>
@@ -928,7 +928,7 @@
 <form>Tchibo</form>
 <tag>
 <AM lemma="Tchibo_;Y" src="orig">NNNS1-----A----</AM>
-<AM lemma="Tchibo_;Y_;m" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="Tchibo_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-004-p4s1w7">
@@ -1035,7 +1035,7 @@
 <LM>w#w-ln95048-004-p4s2w1</LM>
 </w.rf>
 <form>Její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XP1FS3-------</tag>
 </m>
 <m id="m-ln95048-004-p4s2w2">
 <src.rf>manual</src.rf>
@@ -1165,7 +1165,7 @@
 <form>Tchibo</form>
 <tag>
 <AM lemma="Tchibo_;Y" src="orig">NNNS1-----A----</AM>
-<AM lemma="Tchibo_;Y_;m" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="Tchibo_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-004-p4s2w18">
@@ -1225,7 +1225,7 @@
 <tag>
 <AM lemma="Tchibo_;Y" src="orig">NNNS1-----A----</AM>
 <AM lemma="Tchibo_;m" src="manual">NNNS1-----A----</AM>
-<AM lemma="Tchibo_;Y_;m" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="Tchibo_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-004-p4s2w25">
@@ -1338,7 +1338,7 @@
 <form>Tchibo</form>
 <tag>
 <AM lemma="Tchibo_;Y" src="orig">NNNS1-----A----</AM>
-<AM lemma="Tchibo_;Y_;m" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="Tchibo_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-004-p4s2w37">
@@ -1533,7 +1533,7 @@
 <LM>w#w-ln95048-004-p5s1w12</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrIS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS6----------</tag>
 </m>
 <m id="m-ln95048-004-p5s1w13">
 <src.rf>manual</src.rf>

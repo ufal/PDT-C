@@ -215,7 +215,7 @@
 </w.rf>
 <form>svou</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8FS4---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8FS4---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS7---------1</AM>
 </tag>
 </m>
@@ -583,7 +583,7 @@
 <AM lemma="jenž_^(který...[ve_vedl._větě])" src="auto">P1NS4FS3-------</AM>
 <AM lemma="jenž_^(který...[ve_vedl._větě])" src="auto">P1XP1FS3-------</AM>
 <AM lemma="jenž_^(který...[ve_vedl._větě])" src="auto">P1XP4FS3-------</AM>
-<AM lemma="jenž_^(který...[ve_vedl._větě])" src="auto" recommended="1">P1ZS1FS3-------</AM>
+<AM lemma="jehož" src="auto" recommended="1">P1ZS1FS3-------</AM>
 </tag>
 </m>
 <m id="m-wsj2353-001-p1s1W14-Ta">
@@ -663,7 +663,7 @@
 </w.rf>
 <form>svou</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8FS4---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8FS4---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS7---------1</AM>
 </tag>
 </m>
@@ -895,7 +895,7 @@
 <AM lemma="Imperial_;Y" src="auto">NNIS3-----A----</AM>
 <AM lemma="Imperial_;Y" src="auto">NNIS6-----A----</AM>
 <AM lemma="Imperial-2_;m" src="manual">NNIS2-----A----</AM>
-<AM lemma="Imperial-1_;m" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Imperial_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2353-001-p1s1W38-Ta">
@@ -1675,7 +1675,7 @@
 <AM lemma="zdaněný_^(vypočítat_daň)_(*3it)" src="auto">AAIP1----1N---6</AM>
 <AM lemma="zdaněný_^(vypočítat_daň)_(*3it)" src="auto">AAIP4----1N---6</AM>
 <AM lemma="zdaněný_^(vypočítat_daň)_(*3it)" src="auto">AAIP5----1N---6</AM>
-<AM lemma="zdaněný_^(vypočítat_daň)_(*3it)" src="auto" recommended="1">AAIS1----1N----</AM>
+<AM lemma="zdaněný_^(*3it)" src="auto" recommended="1">AAIS1----1N----</AM>
 <AM lemma="zdaněný_^(vypočítat_daň)_(*3it)" src="auto">AAIS4----1N----</AM>
 <AM lemma="zdaněný_^(vypočítat_daň)_(*3it)" src="auto">AAIS5----1N----</AM>
 <AM lemma="zdaněný_^(vypočítat_daň)_(*3it)" src="auto">AAMP1----1N---6</AM>
@@ -2711,7 +2711,7 @@
 <tag>
 <AM lemma="první" src="auto">CrFP2----------</AM>
 <AM lemma="první" src="auto">CrFP6----------</AM>
-<AM lemma="první" src="auto" recommended="1">CrIP2----------</AM>
+<AM lemma="první-1" src="auto" recommended="1">CrIP2----------</AM>
 <AM lemma="první" src="auto">CrIP6----------</AM>
 <AM lemma="první" src="auto">CrMP2----------</AM>
 <AM lemma="první" src="auto">CrMP6----------</AM>

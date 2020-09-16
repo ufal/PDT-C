@@ -581,7 +581,7 @@
 <LM>w#w-lnd94103-073-p1s7w6</LM>
 </w.rf>
 <form>stojí</form>
-<tag lemma="stát-4_^(něco_stojí_peníze)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd94103-073-p1s7w7">
 <src.rf>manual</src.rf>

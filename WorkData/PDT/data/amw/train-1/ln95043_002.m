@@ -781,7 +781,7 @@
 <LM>w#w-ln95043-002-p2s3w13</LM>
 </w.rf>
 <form>práva</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNP4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNP4-----A----</tag>
 </m>
 <m id="m-ln95043-002-p2s3w14">
 <src.rf>manual</src.rf>
@@ -967,7 +967,7 @@
 <LM>w#w-ln95043-002-p3s1w14</LM>
 </w.rf>
 <form>orgánech</form>
-<tag lemma="orgán" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-ln95043-002-p3s1w15">
 <src.rf>manual</src.rf>
@@ -1532,7 +1532,7 @@
 <LM>w#w-ln95043-002-p3s3w21</LM>
 </w.rf>
 <form>členy</form>
-<tag lemma="člen" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-ln95043-002-p3s3w22">
 <src.rf>manual</src.rf>
@@ -1540,7 +1540,7 @@
 <LM>w#w-ln95043-002-p3s3w22</LM>
 </w.rf>
 <form>orgánů</form>
-<tag lemma="orgán" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln95043-002-p3s3w23">
 <src.rf>manual</src.rf>

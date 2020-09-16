@@ -154,7 +154,7 @@
 <LM>w#w-ln94203-43-p2s1Cw7</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8NS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8NS4---------1</tag>
 </m>
 <m id="m-ln94203-43-p2s1Cw8">
 <src.rf>manual</src.rf>
@@ -391,7 +391,7 @@
 <LM>w#w-ln94203-43-p2s2w22</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94203-43-p2s2w23">
 <src.rf>manual</src.rf>
@@ -436,7 +436,7 @@
 <LM>w#w-ln94203-43-p3s1w4</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP3----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP3----------</tag>
 </m>
 <m id="m-ln94203-43-p3s1w5">
 <src.rf>manual</src.rf>

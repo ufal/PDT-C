@@ -274,7 +274,7 @@
 <AM lemma="škrt" src="auto" recommended="1">NNIP1-----A----</AM>
 <AM lemma="škrt" src="auto">NNIP4-----A----</AM>
 <AM lemma="škrt" src="auto">NNIP5-----A----</AM>
-<AM lemma="škrt" src="auto" selected="1">NNIP7-----A----</AM>
+<AM lemma="škrt-1" src="auto" selected="1">NNIP7-----A----</AM>
 <AM lemma="škrt" src="auto">NNMP4-----A----</AM>
 <AM lemma="škrt" src="auto">NNMP7-----A----</AM>
 </tag>
@@ -435,7 +435,7 @@
 <AM lemma="potřeba" src="auto">NNFP1-----A----</AM>
 <AM lemma="potřeba" src="auto">NNFP4-----A----</AM>
 <AM lemma="potřeba" src="auto">NNFP5-----A----</AM>
-<AM lemma="potřeba" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="potřeba-1" src="auto" recommended="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0311-001-p1s0W34-Ta">
@@ -1792,7 +1792,7 @@
 </w.rf>
 <form>Činitelé</form>
 <tag>
-<AM lemma="činitel" src="auto" recommended="1">NNMP1-----A----</AM>
+<AM lemma="činitel-1" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="činitel" src="auto">NNMP5-----A----</AM>
 </tag>
 </m>
@@ -2139,7 +2139,7 @@
 <form>škrty</form>
 <tag>
 <AM lemma="škrt" src="auto">NNIP1-----A----</AM>
-<AM lemma="škrt" src="auto" recommended="1">NNIP4-----A----</AM>
+<AM lemma="škrt-1" src="auto" recommended="1">NNIP4-----A----</AM>
 <AM lemma="škrt" src="auto">NNIP5-----A----</AM>
 <AM lemma="škrt" src="auto">NNIP7-----A----</AM>
 <AM lemma="škrt" src="auto">NNMP4-----A----</AM>

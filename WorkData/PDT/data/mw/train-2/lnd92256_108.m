@@ -189,7 +189,7 @@
 <LM>w#w-lnd92256-108-p2s1w21</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-lnd92256-108-p2s1w22">
 <src.rf>manual</src.rf>
@@ -1893,7 +1893,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Himaláji</form>
-<tag lemma="Himaláj_;G" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Himaláj_;G_,s_^(^DD**Himálaj-1)" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-lnd92256-108-p11s1w20">
 <src.rf>manual</src.rf>

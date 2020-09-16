@@ -19,7 +19,7 @@
 <LM>w#w-lnd92254-101-p1s1w1</LM>
 </w.rf>
 <form>Ukradený</form>
-<tag lemma="ukradený_^(*5ást)" src="auto" selected="1">AAIS1----1A----</tag>
+<tag lemma="ukradený" src="auto" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-lnd92254-101-p1s1w2">
 <src.rf>manual</src.rf>

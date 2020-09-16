@@ -47,7 +47,7 @@
 <form>Mario</form>
 <tag>
 <AM lemma="Mario_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mario_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Mario_;Y_,s_^(^DD**Mário)" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-038-p2s1w2">
@@ -266,7 +266,7 @@
 <LM>w#w-ln95042-038-p2s2w6</LM>
 </w.rf>
 <form>Juventus</form>
-<tag lemma="Juventus" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Juventus_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95042-038-p2s2w7">
 <src.rf>manual</src.rf>

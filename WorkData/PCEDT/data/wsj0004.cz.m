@@ -428,7 +428,7 @@
 <tag>
 <AM lemma="zdanitelný_^(vypočítat_daň)_(*4)" src="auto">AAFP2----1A----</AM>
 <AM lemma="zdanitelný_^(vypočítat_daň)_(*4)" src="auto">AAFP6----1A----</AM>
-<AM lemma="zdanitelný_^(vypočítat_daň)_(*4)" src="auto" recommended="1">AAIP2----1A----</AM>
+<AM lemma="zdanitelný_^(*4)" src="auto" recommended="1">AAIP2----1A----</AM>
 <AM lemma="zdanitelný_^(vypočítat_daň)_(*4)" src="auto">AAIP6----1A----</AM>
 <AM lemma="zdanitelný_^(vypočítat_daň)_(*4)" src="auto">AAMP2----1A----</AM>
 <AM lemma="zdanitelný_^(vypočítat_daň)_(*4)" src="auto">AAMP6----1A----</AM>
@@ -1352,7 +1352,7 @@
 <form>indikátory</form>
 <tag>
 <AM lemma="indikátor" src="auto">NNIP1-----A----</AM>
-<AM lemma="indikátor" src="auto" recommended="1">NNIP4-----A----</AM>
+<AM lemma="indikátor-1" src="auto" recommended="1">NNIP4-----A----</AM>
 <AM lemma="indikátor" src="auto">NNIP5-----A----</AM>
 <AM lemma="indikátor" src="auto">NNIP7-----A----</AM>
 <AM lemma="indikátor" src="auto">NNMP4-----A----</AM>
@@ -2061,7 +2061,7 @@
 <form>ukazatel</form>
 <tag>
 <AM lemma="ukazatel" src="auto">NNIS1-----A----</AM>
-<AM lemma="ukazatel" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="ukazatel-1" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="ukazatel" src="auto">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -3085,7 +3085,7 @@
 <tag>
 <AM lemma="zdanitelný_^(vypočítat_daň)_(*4)" src="auto">AAFP2----1A----</AM>
 <AM lemma="zdanitelný_^(vypočítat_daň)_(*4)" src="auto">AAFP6----1A----</AM>
-<AM lemma="zdanitelný_^(vypočítat_daň)_(*4)" src="auto" recommended="1">AAIP2----1A----</AM>
+<AM lemma="zdanitelný_^(*4)" src="auto" recommended="1">AAIP2----1A----</AM>
 <AM lemma="zdanitelný_^(vypočítat_daň)_(*4)" src="auto">AAIP6----1A----</AM>
 <AM lemma="zdanitelný_^(vypočítat_daň)_(*4)" src="auto">AAMP2----1A----</AM>
 <AM lemma="zdanitelný_^(vypočítat_daň)_(*4)" src="auto">AAMP6----1A----</AM>
@@ -3598,7 +3598,7 @@
 <AM lemma="dobrý" src="auto">AAFS5----3A----</AM>
 <AM lemma="dobrý" src="auto">AAFS6----3A----</AM>
 <AM lemma="dobrý" src="auto">AAFS7----3A----</AM>
-<AM lemma="dobrý" src="auto" recommended="1">AAIP1----3A----</AM>
+<AM lemma="lepší" src="auto" recommended="1">AAIP1----3A----</AM>
 <AM lemma="dobrý" src="auto">AAIP4----3A----</AM>
 <AM lemma="dobrý" src="auto">AAIP5----3A----</AM>
 <AM lemma="dobrý" src="auto">AAIS1----3A----</AM>

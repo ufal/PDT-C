@@ -177,7 +177,7 @@
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP1FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP5FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9ZS1FS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9ZS1FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSZS5FS3-------</AM>
 </tag>
 </m>
@@ -221,7 +221,7 @@
 <AM lemma="první" src="auto">CrFS3----------</AM>
 <AM lemma="první" src="auto">CrFS4----------</AM>
 <AM lemma="první" src="auto">CrFS5----------</AM>
-<AM lemma="první" src="auto" recommended="1">CrFS6----------</AM>
+<AM lemma="první-1" src="auto" recommended="1">CrFS6----------</AM>
 <AM lemma="první" src="auto">CrFS7----------</AM>
 <AM lemma="první" src="auto">CrIP1----------</AM>
 <AM lemma="první" src="auto">CrIP4----------</AM>
@@ -1278,7 +1278,7 @@
 <AM lemma="jeho_^(přivlast.)" src="auto">PSFXXFS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSIS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSNS4FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XP1FS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9XP1FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP5FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSZS1FS3-------</AM>
@@ -1317,7 +1317,7 @@
 </w.rf>
 <form>předešlého</form>
 <tag>
-<AM lemma="předešlý_^(díky_rychlejší_chůzi)_(předchozí,minulý,poslední)_(*3jít)" src="auto" recommended="1">AAIS2----1A----</AM>
+<AM lemma="předešlý_^(*3jít)" src="auto" recommended="1">AAIS2----1A----</AM>
 <AM lemma="předešlý_^(díky_rychlejší_chůzi)_(předchozí,minulý,poslední)_(*3jít)" src="auto">AAMS2----1A----</AM>
 <AM lemma="předešlý_^(díky_rychlejší_chůzi)_(předchozí,minulý,poslední)_(*3jít)" src="auto">AAMS4----1A----</AM>
 <AM lemma="předešlý_^(díky_rychlejší_chůzi)_(předchozí,minulý,poslední)_(*3jít)" src="auto">AANS2----1A----</AM>
@@ -1805,7 +1805,7 @@
 <AM lemma="první" src="auto">CrIS2----------</AM>
 <AM lemma="první" src="auto">CrMS2----------</AM>
 <AM lemma="první" src="auto">CrMS4----------</AM>
-<AM lemma="první" src="auto" recommended="1">CrNS2----------</AM>
+<AM lemma="první-1" src="auto" recommended="1">CrNS2----------</AM>
 </tag>
 </m>
 <m id="m-wsj1711-001-p1s7W15-Ta">
@@ -1938,7 +1938,7 @@
 </w.rf>
 <form>jejích</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XP2FS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9XP2FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP6FS3-------</AM>
 </tag>
 </m>

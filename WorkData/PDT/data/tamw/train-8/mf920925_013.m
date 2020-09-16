@@ -319,7 +319,7 @@
 <LM>w#w-mf920925-013-p2s2w8</LM>
 </w.rf>
 <form>vázané</form>
-<tag lemma="vázaný_^(např._provazem;_se_k_čemu)_(*2t)" src="auto" selected="1">AAFP4----1A----</tag>
+<tag lemma="vázaný_^(*2t)" src="auto" selected="1">AAFP4----1A----</tag>
 </m>
 <m id="m-mf920925-013-p2s2w9">
 <src.rf>manual</src.rf>
@@ -427,7 +427,7 @@
 <LM>w#w-mf920925-013-p2s2w21</LM>
 </w.rf>
 <form>vydaných</form>
-<tag lemma="vydaný-2_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)_(*4t-2)" src="orig" selected="1">AANP2----1A----</tag>
+<tag lemma="vydaný_^(*2t)" src="orig" selected="1">AANP2----1A----</tag>
 </m>
 <m id="m-mf920925-013-p2s2w22">
 <src.rf>manual</src.rf>
@@ -663,7 +663,7 @@
 <LM>w#w-mf920925-013-p2s4w9</LM>
 </w.rf>
 <form>jejího</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS2FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS2FS3-------</tag>
 </m>
 <m id="m-mf920925-013-p2s4w10">
 <src.rf>manual</src.rf>
@@ -1531,7 +1531,7 @@
 <LM>w#w-mf920925-013-p3s4w13</LM>
 </w.rf>
 <form>dál</form>
-<tag lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="dál-3_,s_^(také,_za_další)_(^DD**dále-3)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf920925-013-p3s4w14">
 <src.rf>manual</src.rf>
@@ -1678,7 +1678,7 @@
 <LM>w#w-mf920925-013-p3s4w31</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf920925-013-p3s4w32">
 <src.rf>manual</src.rf>
@@ -1710,7 +1710,7 @@
 <LM>w#w-mf920925-013-p3s4w35</LM>
 </w.rf>
 <form>vedoucí</form>
-<tag lemma="vedoucí-2" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="vedoucí-3" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920925-013-p3s4w36">
 <src.rf>manual</src.rf>
@@ -2280,7 +2280,7 @@
 <LM>w#w-mf920925-013-p4s3w33</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-mf920925-013-p4s3w34">
 <src.rf>manual</src.rf>
@@ -2487,7 +2487,7 @@
 <LM>w#w-mf920925-013-p4s5w6</LM>
 </w.rf>
 <form>dané</form>
-<tag lemma="daný_^(*3át)" src="auto" selected="1">AAIP4----1A----</tag>
+<tag lemma="daný-1_^(*5át-1)" src="auto" selected="1">AAIP4----1A----</tag>
 </m>
 <m id="m-mf920925-013-p4s5w7">
 <src.rf>manual</src.rf>
@@ -2695,7 +2695,7 @@
 <LM>w#w-mf920925-013-p4s6w16</LM>
 </w.rf>
 <form>nedá</form>
-<tag lemma="dát" src="orig" selected="1">VB-S---3P-NAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VB-S---3P-NAP--</tag>
 </m>
 <m id="m-mf920925-013-p4s6w17">
 <src.rf>manual</src.rf>
@@ -3097,7 +3097,7 @@
 <LM>w#w-mf920925-013-p4s8w26</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf920925-013-p4s8w27">
 <src.rf>manual</src.rf>

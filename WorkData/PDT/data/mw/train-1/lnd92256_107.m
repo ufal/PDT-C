@@ -691,7 +691,7 @@
 <LM>w#w-lnd92256-107-p2s6w9</LM>
 </w.rf>
 <form>Leverkusen</form>
-<tag lemma="Leverkusen_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Leverkusen_;G_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92256-107-p2s6w10">
 <src.rf>manual</src.rf>

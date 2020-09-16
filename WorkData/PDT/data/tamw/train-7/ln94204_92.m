@@ -19,7 +19,7 @@
 <LM>w#w-ln94204-92-p1s1w1</LM>
 </w.rf>
 <form>Vlasta</form>
-<tag lemma="Vlasta-2_;Y_,e_^(muž)" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vlasta-2_;Y_^(muž)" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-92-p1s1w2">
 <src.rf>manual</src.rf>
@@ -157,7 +157,7 @@
 <form>Hradišťanem</form>
 <tag>
 <AM lemma="Hradišťan" src="orig">NNIS7-----A----</AM>
-<AM lemma="Hradišťan_;m" src="manual" selected="1">NNIS7-----A----</AM>
+<AM lemma="Hradišťan-1_;m" src="manual" selected="1">NNIS7-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-92-p1s1w18">

@@ -246,7 +246,7 @@
 <AM lemma="léto" src="auto">NNNP4-----A----</AM>
 <AM lemma="léto" src="auto">NNNP5-----A----</AM>
 <AM lemma="léto" src="auto">NNNS2-----A----</AM>
-<AM lemma="rok" src="auto" selected="1">NNNP1-----A---2</AM>
+<AM lemma="léta" src="auto" selected="1">NNNP1-----A---2</AM>
 <AM lemma="rok" src="auto" recommended="1">NNNP4-----A---2</AM>
 <AM lemma="rok" src="auto">NNNP5-----A---2</AM>
 <AM lemma="rok" src="auto">NNNS2-----A----</AM>
@@ -2132,7 +2132,7 @@
 <AM lemma="zamčený_^(*4knout)" src="auto">AANP1----1A---6</AM>
 <AM lemma="zamčený_^(*4knout)" src="auto">AANP4----1A---6</AM>
 <AM lemma="zamčený_^(*4knout)" src="auto">AANP5----1A---6</AM>
-<AM lemma="zamčený_^(*4knout)" src="auto" recommended="1">AANS1----1A----</AM>
+<AM lemma="zamčený" src="auto" recommended="1">AANS1----1A----</AM>
 <AM lemma="zamčený_^(*4knout)" src="auto">AANS4----1A----</AM>
 <AM lemma="zamčený_^(*4knout)" src="auto">AANS5----1A----</AM>
 </tag>
@@ -2278,7 +2278,7 @@
 <form>můj</form>
 <tag>
 <AM lemma="můj_^(přivlast.)" src="auto">PSIS4-S1-------</AM>
-<AM lemma="můj_^(přivlast.)" src="auto" recommended="1">PSYS1-S1-------</AM>
+<AM lemma="můj" src="auto" recommended="1">PSYS1-S1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSYS5-S1-------</AM>
 </tag>
 </m>
@@ -2827,7 +2827,7 @@
 <AM lemma="zaměstnání-1_^(všeob._význam:_činnost,_zaměstnání)_(*5at-1)" src="auto">NNNS1-----A----</AM>
 <AM lemma="zaměstnání-1_^(všeob._význam:_činnost,_zaměstnání)_(*5at-1)" src="auto">NNNS2-----A----</AM>
 <AM lemma="zaměstnání-1_^(všeob._význam:_činnost,_zaměstnání)_(*5at-1)" src="auto">NNNS3-----A----</AM>
-<AM lemma="zaměstnání-1_^(všeob._význam:_činnost,_zaměstnání)_(*5at-1)" src="auto" recommended="1">NNNS4-----A----</AM>
+<AM lemma="zaměstnání_^(*3at)" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="zaměstnání-1_^(všeob._význam:_činnost,_zaměstnání)_(*5at-1)" src="auto">NNNS5-----A----</AM>
 <AM lemma="zaměstnání-1_^(všeob._význam:_činnost,_zaměstnání)_(*5at-1)" src="auto">NNNS6-----A----</AM>
 </tag>
@@ -3662,7 +3662,7 @@
 </w.rf>
 <form>kádru</form>
 <tag>
-<AM lemma="kádr" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="kádr-1" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="kádr" src="auto">NNIS3-----A----</AM>
 <AM lemma="kádr" src="auto">NNIS6-----A----</AM>
 <AM lemma="kádr" src="auto">NNMS3-----A---1</AM>
@@ -4745,7 +4745,7 @@
 <AM lemma="Moja_;Y" src="auto">NNFS6-----A----</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSHP1-S1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSHP5-S1-------</AM>
-<AM lemma="můj_^(přivlast.)" src="auto" recommended="1">PSHS1-S1-------</AM>
+<AM lemma="můj" src="auto" recommended="1">PSHS1-S1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSHS5-S1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSIP1-S1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSIP5-S1-------</AM>
@@ -5076,7 +5076,7 @@
 <AM lemma="všecek" src="auto" recommended="1">PLNS1----------</AM>
 <AM lemma="všecek" src="auto">PLNS4----------</AM>
 <AM lemma="všecek" src="auto">PLNS5----------</AM>
-<AM lemma="všecek_,h_^(^GC**všechen)" src="manual" selected="1">PLNS1----------</AM>
+<AM lemma="všecek" src="manual" selected="1">PLNS1----------</AM>
 </tag>
 </m>
 <m id="m984-d1t639-13">
@@ -5553,7 +5553,7 @@
 <AM lemma="tajná-2_^(*3ý-2)" src="auto">NNFS3-----A----</AM>
 <AM lemma="tajná-2_^(*3ý-2)" src="auto">NNFS6-----A----</AM>
 <AM lemma="tajný" src="auto">AAFP1----1A----</AM>
-<AM lemma="tajný" src="auto" recommended="1">AAFP4----1A----</AM>
+<AM lemma="tajný-1" src="auto" recommended="1">AAFP4----1A----</AM>
 <AM lemma="tajný" src="auto">AAFP5----1A----</AM>
 <AM lemma="tajný" src="auto">AAFS2----1A----</AM>
 <AM lemma="tajný" src="auto">AAFS3----1A----</AM>
@@ -5963,7 +5963,7 @@
 <AM lemma="všecek" src="auto" recommended="1">PLNS1----------</AM>
 <AM lemma="všecek" src="auto">PLNS4----------</AM>
 <AM lemma="všecek" src="auto">PLNS5----------</AM>
-<AM lemma="všecek_,h_^(^GC**všechen)" src="manual" selected="1">PLNS1----------</AM>
+<AM lemma="všecek" src="manual" selected="1">PLNS1----------</AM>
 </tag>
 </m>
 <m id="m984-d1t685-13">
@@ -6040,7 +6040,7 @@
 </w.rf>
 <form>zaměstnaná</form>
 <tag>
-<AM lemma="zaměstnaný-1_^(všeob._význam:_činnost,_zaměstnání)_(*4t-1)" src="auto" recommended="1">AAFS1----1A----</AM>
+<AM lemma="zaměstnaný_^(*2t)" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="zaměstnaný-1_^(všeob._význam:_činnost,_zaměstnání)_(*4t-1)" src="auto">AAFS5----1A----</AM>
 <AM lemma="zaměstnaný-1_^(všeob._význam:_činnost,_zaměstnání)_(*4t-1)" src="auto">AANP1----1A----</AM>
 <AM lemma="zaměstnaný-1_^(všeob._význam:_činnost,_zaměstnání)_(*4t-1)" src="auto">AANP4----1A----</AM>
@@ -6135,7 +6135,7 @@
 <AM lemma="tajná-2_^(*3ý-2)" src="auto">NNFP2-----A----</AM>
 <AM lemma="tajná-2_^(*3ý-2)" src="auto">NNFP6-----A----</AM>
 <AM lemma="tajný" src="auto">AAFP2----1A----</AM>
-<AM lemma="tajný" src="auto" recommended="1">AAFP6----1A----</AM>
+<AM lemma="tajný-1" src="auto" recommended="1">AAFP6----1A----</AM>
 <AM lemma="tajný" src="auto">AAIP2----1A----</AM>
 <AM lemma="tajný" src="auto">AAIP6----1A----</AM>
 <AM lemma="tajný" src="auto">AAMP2----1A----</AM>
@@ -7208,7 +7208,7 @@
 <AM lemma="ty" src="auto">PP-P2--2-------</AM>
 <AM lemma="ty" src="auto" recommended="1">PP-P4--2-------</AM>
 <AM lemma="ty" src="auto">PP-P6--2-------</AM>
-<AM lemma="ty_^(**já)" src="manual" selected="1">PP-P4--2-------</AM>
+<AM lemma="vy" src="manual" selected="1">PP-P4--2-------</AM>
 </tag>
 </m>
 <m id="m984-d1e661-x9-953">

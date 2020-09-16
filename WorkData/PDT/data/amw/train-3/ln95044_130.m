@@ -144,7 +144,7 @@
 <LM>w#w-ln95044-130-p2s1Bw10</LM>
 </w.rf>
 <form>mluvčího</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95044-130-p2s1Bw11">
 <src.rf>manual</src.rf>

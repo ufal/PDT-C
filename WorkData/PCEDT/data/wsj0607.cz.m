@@ -802,7 +802,7 @@
 <form>neschopností</form>
 <tag>
 <AM lemma="neschopnost_;U_^(odb._termín:_pracovní_n.)" src="auto">NNFP2-----A----</AM>
-<AM lemma="neschopnost_;U_^(odb._termín:_pracovní_n.)" src="auto" recommended="1">NNFS7-----A----</AM>
+<AM lemma="neschopnost_^(odb._termín:_pracovní_n.)" src="auto" recommended="1">NNFS7-----A----</AM>
 <AM lemma="schopnost_^(*3ý)" src="auto">NNFP2-----N----</AM>
 <AM lemma="schopnost_^(*3ý)" src="auto">NNFS7-----N----</AM>
 </tag>

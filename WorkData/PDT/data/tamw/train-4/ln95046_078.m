@@ -143,7 +143,7 @@
 <LM>w#w-ln95046-078-p2s2w1</LM>
 </w.rf>
 <form>Dítě</form>
-<tag lemma="dítě" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="dítě-1" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95046-078-p2s2w2">
 <src.rf>manual</src.rf>
@@ -183,7 +183,7 @@
 <LM>w#w-ln95046-078-p2s2w6</LM>
 </w.rf>
 <form>rozvodu</form>
-<tag lemma="rozvod-1_^(manželství)" src="orig" selected="1">NNIS6-----A---1</tag>
+<tag lemma="rozvod_^(manželství;vody)" src="orig" selected="1">NNIS6-----A---1</tag>
 </m>
 <m id="m-ln95046-078-p2s2w7">
 <src.rf>manual</src.rf>

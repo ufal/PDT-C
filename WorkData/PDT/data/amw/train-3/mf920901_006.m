@@ -86,7 +86,7 @@
 <LM>w#w-mf920901-006-p2s1w6</LM>
 </w.rf>
 <form>POSTIŽENÉ</form>
-<tag lemma="postižený_^(*4hnout)" src="orig" selected="1">AAFP1----1A----</tag>
+<tag lemma="postižený" src="orig" selected="1">AAFP1----1A----</tag>
 </m>
 <m id="m-mf920901-006-p2s1w7">
 <src.rf>manual</src.rf>
@@ -94,7 +94,7 @@
 <LM>w#w-mf920901-006-p2s1w7</LM>
 </w.rf>
 <form>DĚTI</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-mf920901-006-p2s1w8">
 <src.rf>manual</src.rf>
@@ -168,7 +168,7 @@
 <LM>w#w-mf920901-006-p3s1w7</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP3----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP3----------</tag>
 </m>
 <m id="m-mf920901-006-p3s1w8">
 <src.rf>manual</src.rf>
@@ -344,7 +344,7 @@
 <LM>w#w-mf920901-006-p3s2w7</LM>
 </w.rf>
 <form>postižené</form>
-<tag lemma="postižený_^(*4hnout)" src="orig" selected="1">AAFP4----1A----</tag>
+<tag lemma="postižený" src="orig" selected="1">AAFP4----1A----</tag>
 </m>
 <m id="m-mf920901-006-p3s2w8">
 <src.rf>manual</src.rf>
@@ -352,7 +352,7 @@
 <LM>w#w-mf920901-006-p3s2w8</LM>
 </w.rf>
 <form>děti</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-mf920901-006-p3s2w9">
 <src.rf>manual</src.rf>
@@ -1544,7 +1544,7 @@
 <LM>w#w-mf920901-006-p3s8w15</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8YP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8YP4---------1</tag>
 </m>
 <m id="m-mf920901-006-p3s8w16">
 <src.rf>manual</src.rf>
@@ -1640,7 +1640,7 @@
 <LM>w#w-mf920901-006-p3s8w27</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf920901-006-p3s8w28">
 <src.rf>manual</src.rf>
@@ -2005,7 +2005,7 @@
 <LM>w#w-mf920901-006-p3s9w37</LM>
 </w.rf>
 <form>resortu</form>
-<tag lemma="resort" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="resort_,s_^(^DD**rezort)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920901-006-p3s9w38">
 <src.rf>manual</src.rf>
@@ -2053,7 +2053,7 @@
 <LM>w#w-mf920901-006-p3s9w43</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8YP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8YP4---------1</tag>
 </m>
 <m id="m-mf920901-006-p3s9w44">
 <src.rf>manual</src.rf>

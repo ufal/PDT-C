@@ -27,7 +27,7 @@
 <LM>w#w-ln94203-142-p1s1w2</LM>
 </w.rf>
 <form>Eurostatu</form>
-<tag lemma="Eurostat_;Y" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Eurostat_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94203-142-p1s1w3">
 <src.rf>manual</src.rf>
@@ -502,7 +502,7 @@
 <LM>w#w-ln94203-142-p2s3w17</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS1FS3-------</tag>
 </m>
 <m id="m-ln94203-142-p2s3w18">
 <src.rf>manual</src.rf>
@@ -592,7 +592,7 @@
 <LM>w#w-ln94203-142-p3s1w8</LM>
 </w.rf>
 <form>naše</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSHS1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSHS1-P1-------</tag>
 </m>
 <m id="m-ln94203-142-p3s1w9">
 <src.rf>manual</src.rf>
@@ -659,7 +659,7 @@
 <LM>w#w-ln94203-142-p3s1w16</LM>
 </w.rf>
 <form>Eurostatu</form>
-<tag lemma="Eurostat_;Y" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Eurostat_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94203-142-p3s1w17">
 <src.rf>manual</src.rf>
@@ -835,7 +835,7 @@
 <LM>w#w-ln94203-142-p4s1w13</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-ln94203-142-p4s1w14">
 <src.rf>manual</src.rf>

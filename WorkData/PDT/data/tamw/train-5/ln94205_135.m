@@ -231,7 +231,7 @@
 <LM>w#w-ln94205-135-p2s1Bw15</LM>
 </w.rf>
 <form>lidi</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-ln94205-135-p2s1Bw16">
 <src.rf>manual</src.rf>
@@ -381,7 +381,7 @@
 <LM>w#w-ln94205-135-p2s1Bw33</LM>
 </w.rf>
 <form>prestiž</form>
-<tag lemma="prestiž" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="prestiž-1" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94205-135-p2s1Bw34">
 <src.rf>manual</src.rf>
@@ -569,7 +569,7 @@
 <LM>w#w-ln94205-135-p2s3w4</LM>
 </w.rf>
 <form>vedoucí</form>
-<tag lemma="vedoucí-2" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="vedoucí-3" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94205-135-p2s3w5">
 <src.rf>manual</src.rf>
@@ -724,7 +724,7 @@
 <LM>w#w-ln94205-135-p2s3w23</LM>
 </w.rf>
 <form>prestiž</form>
-<tag lemma="prestiž" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="prestiž-1" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94205-135-p2s3w24">
 <src.rf>manual</src.rf>
@@ -764,7 +764,7 @@
 <LM>w#w-ln94205-135-p2s3w28</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-ln94205-135-p2s3w29">
 <src.rf>manual</src.rf>
@@ -1435,7 +1435,7 @@
 <LM>w#w-ln94205-135-p4s1w5</LM>
 </w.rf>
 <form>děti</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-ln94205-135-p4s1w6">
 <src.rf>manual</src.rf>
@@ -2000,7 +2000,7 @@
 <LM>w#w-ln94205-135-p4s4w1</LM>
 </w.rf>
 <form>Prostředky</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-ln94205-135-p4s4w2">
 <src.rf>manual</src.rf>
@@ -2642,7 +2642,7 @@
 <LM>w#w-ln94205-135-p5s1w41</LM>
 </w.rf>
 <form>toxikomanie</form>
-<tag lemma="toxikománie" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="toxikomanie_,s_^(^DD**toxikománie)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94205-135-p5s1w42">
 <src.rf>manual</src.rf>

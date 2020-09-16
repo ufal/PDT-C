@@ -87,7 +87,7 @@
 <LM>w#w-ln95046-091-p2s1Bw2</LM>
 </w.rf>
 <form>výbor</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95046-091-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -311,7 +311,7 @@
 <LM>w#w-ln95046-091-p2s1Bw30</LM>
 </w.rf>
 <form>danou</form>
-<tag lemma="daný_^(*3át)" src="auto" selected="1">AAFS4----1A----</tag>
+<tag lemma="daný-1_^(*5át-1)" src="auto" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-ln95046-091-p2s1Bw31">
 <src.rf>manual</src.rf>
@@ -465,7 +465,7 @@
 <LM>w#w-ln95046-091-p2s3w7</LM>
 </w.rf>
 <form>výbor</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95046-091-p2s3w8">
 <src.rf>manual</src.rf>
@@ -505,7 +505,7 @@
 <LM>w#w-ln95046-091-p2s3w12</LM>
 </w.rf>
 <form>práva</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNP4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNP4-----A----</tag>
 </m>
 <m id="m-ln95046-091-p2s3w13">
 <src.rf>manual</src.rf>
@@ -691,7 +691,7 @@
 <LM>w#w-ln95046-091-p2s4w12</LM>
 </w.rf>
 <form>činitelů</form>
-<tag lemma="činitel" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="činitel-1" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln95046-091-p2s4w13">
 <src.rf>manual</src.rf>

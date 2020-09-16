@@ -178,7 +178,7 @@
 <LM>w#w-ln94205-54-p2s1Bw7</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-ln94205-54-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -786,7 +786,7 @@
 <LM>w#w-ln94205-54-p3s1w1</LM>
 </w.rf>
 <form>Práva</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNP4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNP4-----A----</tag>
 </m>
 <m id="m-ln94205-54-p3s1w2">
 <src.rf>manual</src.rf>
@@ -1422,7 +1422,7 @@
 <LM>w#w-ln94205-54-p3s4w8</LM>
 </w.rf>
 <form>orgánů</form>
-<tag lemma="orgán" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94205-54-p3s4w9">
 <src.rf>manual</src.rf>

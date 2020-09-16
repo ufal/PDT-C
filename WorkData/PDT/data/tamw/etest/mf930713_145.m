@@ -524,7 +524,7 @@
 <LM>w#w-mf930713-145-p2s2w22</LM>
 </w.rf>
 <form>Anthony</form>
-<tag lemma="Anthony_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Anthony_;Y_,s_^(^DD**Antony)" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-145-p2s2w23">
 <src.rf>manual</src.rf>
@@ -1241,7 +1241,7 @@
 <LM>w#w-mf930713-145-p2s8w13</LM>
 </w.rf>
 <form>dny</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP7-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP7-----A----</tag>
 </m>
 <m id="m-mf930713-145-p2s8w14">
 <src.rf>manual</src.rf>
@@ -2036,7 +2036,7 @@
 <LM>w#w-mf930713-145-p2s12w23</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-mf930713-145-p2s12w24">
 <src.rf>manual</src.rf>
@@ -2150,7 +2150,7 @@
 <LM>w#w-mf930713-145-p2s13w2</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-145-p2s13w3">
 <src.rf>manual</src.rf>
@@ -2847,7 +2847,7 @@
 <LM>w#w-mf930713-145-p2s17w7</LM>
 </w.rf>
 <form>děti</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-mf930713-145-p2s17w8">
 <src.rf>manual</src.rf>

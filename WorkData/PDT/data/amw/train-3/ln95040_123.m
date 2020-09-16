@@ -417,7 +417,7 @@
 <LM>w#w-ln95040-123-p3s1w7</LM>
 </w.rf>
 <form>postižených</form>
-<tag lemma="postižený_^(*4hnout)" src="orig" selected="1">AAMP2----1A----</tag>
+<tag lemma="postižený" src="orig" selected="1">AAMP2----1A----</tag>
 </m>
 <m id="m-ln95040-123-p3s1w8">
 <src.rf>manual</src.rf>
@@ -1017,7 +1017,7 @@
 <LM>w#w-ln95040-123-p3s5w26</LM>
 </w.rf>
 <form>postižené</form>
-<tag lemma="postižený_^(*4hnout)" src="orig" selected="1">AAMP4----1A----</tag>
+<tag lemma="postižený" src="orig" selected="1">AAMP4----1A----</tag>
 </m>
 <m id="m-ln95040-123-p3s5w27">
 <src.rf>manual</src.rf>
@@ -1033,7 +1033,7 @@
 <LM>w#w-ln95040-123-p3s5w28</LM>
 </w.rf>
 <form>průvodcem</form>
-<tag lemma="průvodce" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="průvodce-1" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95040-123-p3s5w29">
 <src.rf>manual</src.rf>
@@ -1346,7 +1346,7 @@
 <LM>w#w-ln95040-123-p3s8w2</LM>
 </w.rf>
 <form>nemoci</form>
-<tag lemma="nemoc_^(choroba)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="nemoc" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95040-123-p3s8w3">
 <src.rf>manual</src.rf>
@@ -1476,7 +1476,7 @@
 <LM>w#w-ln95040-123-p4s1w4</LM>
 </w.rf>
 <form>postižených</form>
-<tag lemma="postižený_^(*4hnout)" src="orig" selected="1">AAMP2----1A----</tag>
+<tag lemma="postižený" src="orig" selected="1">AAMP2----1A----</tag>
 </m>
 <m id="m-ln95040-123-p4s1w5">
 <src.rf>manual</src.rf>
@@ -1649,7 +1649,7 @@
 <LM>w#w-ln95040-123-p4s2w5</LM>
 </w.rf>
 <form>nesprávnému</form>
-<tag lemma="správný_^(podle_něj._měřítek;_př._chlap,_míra,...)" src="orig" selected="1">AAIS3----1N----</tag>
+<tag lemma="správný" src="orig" selected="1">AAIS3----1N----</tag>
 </m>
 <m id="m-ln95040-123-p4s2w6">
 <src.rf>manual</src.rf>
@@ -1771,7 +1771,7 @@
 <LM>w#w-ln95040-123-p4s3w13</LM>
 </w.rf>
 <form>postižené</form>
-<tag lemma="postižený_^(*4hnout)" src="orig" selected="1">AAMP4----1A----</tag>
+<tag lemma="postižený" src="orig" selected="1">AAMP4----1A----</tag>
 </m>
 <m id="m-ln95040-123-p4s3w14">
 <src.rf>manual</src.rf>
@@ -1919,7 +1919,7 @@
 <form>neschopnosti</form>
 <tag>
 <AM lemma="neschopnost_;U_^(odb._termín:_pracovní_n.)" src="auto">NNFP4-----A----</AM>
-<AM lemma="neschopnost_;U_^(odb._termín:_pracovní_n.)" src="manual" selected="1">NNFP4-----A----</AM>
+<AM lemma="neschopnost_^(odb._termín:_pracovní_n.)" src="manual" selected="1">NNFP4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-123-p4s4w18">
@@ -2058,7 +2058,7 @@
 <LM>w#w-ln95040-123-p4s5w7</LM>
 </w.rf>
 <form>Marie</form>
-<tag lemma="Marie-1_;Y" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Marie_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95040-123-p4s5w8">
 <src.rf>manual</src.rf>

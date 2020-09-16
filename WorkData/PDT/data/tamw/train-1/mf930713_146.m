@@ -292,7 +292,7 @@
 <LM>w#w-mf930713-146-p2s2w5</LM>
 </w.rf>
 <form>známost</form>
-<tag lemma="známost-2_^(co_známe)_(*5ý-2)" src="auto" selected="1">NNFS4-----A----</tag>
+<tag lemma="známost-2_^(*5ý-2)" src="auto" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf930713-146-p2s2w6">
 <src.rf>manual</src.rf>

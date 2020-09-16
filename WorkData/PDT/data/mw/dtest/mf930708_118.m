@@ -221,7 +221,7 @@
 <LM>w#w-mf930708-118-p2s2w1</LM>
 </w.rf>
 <form>Nejlepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAIP1----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAIP1----3A----</tag>
 </m>
 <m id="m-mf930708-118-p2s2w2">
 <src.rf>manual</src.rf>

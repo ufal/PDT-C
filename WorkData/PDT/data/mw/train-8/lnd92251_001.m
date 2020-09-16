@@ -180,7 +180,7 @@
 <LM>w#w-lnd92251-001-p4s1w14</LM>
 </w.rf>
 <form>NEJLEPŠÍ</form>
-<tag lemma="dobrý" src="orig" selected="1">AAFS4----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAFS4----3A----</tag>
 </m>
 <m id="m-lnd92251-001-p4s1w15">
 <src.rf>manual</src.rf>
@@ -220,7 +220,7 @@
 <LM>w#w-lnd92251-001-p4s1w19</LM>
 </w.rf>
 <form>naší</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS2-P1-------</tag>
 </m>
 <m id="m-lnd92251-001-p4s1w20">
 <src.rf>manual</src.rf>
@@ -300,7 +300,7 @@
 <LM>w#w-lnd92251-001-p4s1w29</LM>
 </w.rf>
 <form>cestě</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd92251-001-p4s1w30">
 <src.rf>manual</src.rf>

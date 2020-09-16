@@ -491,7 +491,7 @@
 <LM>w#w-lnd94104-096-p1s4w16</LM>
 </w.rf>
 <form>lepším</form>
-<tag lemma="dobrý" src="orig" selected="1">AAMS7----2A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAMS7----2A----</tag>
 </m>
 <m id="m-lnd94104-096-p1s4w17">
 <src.rf>manual</src.rf>
@@ -897,7 +897,7 @@
 <form>Norové</form>
 <tag>
 <AM lemma="Nor_;E" src="orig">NNMP1-----A----</AM>
-<AM lemma="Nor_;E" src="auto" selected="1">NNMP1-----A---1</AM>
+<AM lemma="Nor_;E_;Y" src="auto" selected="1">NNMP1-----A---1</AM>
 <AM lemma="Nor_;E" src="auto">NNMP5-----A---1</AM>
 <AM lemma="Noro_;Y" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="Noro_;Y" src="auto">NNMP5-----A----</AM>

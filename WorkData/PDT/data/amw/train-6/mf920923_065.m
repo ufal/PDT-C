@@ -169,7 +169,7 @@
 <LM>w#w-mf920923-065-p2s2w10</LM>
 </w.rf>
 <form>Strany</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920923-065-p2s2w11">
 <src.rf>manual</src.rf>
@@ -225,7 +225,7 @@
 <LM>w#w-mf920923-065-p2s2w17</LM>
 </w.rf>
 <form>rady</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920923-065-p2s2w18">
 <src.rf>manual</src.rf>
@@ -275,7 +275,7 @@
 <LM>w#w-mf920923-065-p2s3w5</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XP1FS3-------</tag>
 </m>
 <m id="m-mf920923-065-p2s3w6">
 <src.rf>manual</src.rf>

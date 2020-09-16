@@ -1021,7 +1021,7 @@
 <LM>w#w-lnd94103-012-p1s8w9</LM>
 </w.rf>
 <form>neuváženými</form>
-<tag lemma="uvážený_,s_^(*2t)" src="auto" selected="1">AAFP7----1N----</tag>
+<tag lemma="uvážený_^(*2t)_(*3it)" src="auto" selected="1">AAFP7----1N----</tag>
 </m>
 <m id="m-lnd94103-012-p1s8w10">
 <src.rf>manual</src.rf>
@@ -1708,7 +1708,7 @@
 <LM>w#w-lnd94103-012-p1s13w13</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-lnd94103-012-p1s13w14">
 <src.rf>manual</src.rf>

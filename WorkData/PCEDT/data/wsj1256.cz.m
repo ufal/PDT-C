@@ -18,7 +18,7 @@
 <form>Váš</form>
 <tag>
 <AM lemma="tvůj_^(přivlast.)" src="auto">PSIS4-P2-------</AM>
-<AM lemma="tvůj_^(přivlast.)" src="auto" recommended="1">PSYS1-P2-------</AM>
+<AM lemma="váš" src="auto" recommended="1">PSYS1-P2-------</AM>
 <AM lemma="tvůj_^(přivlast.)" src="auto">PSYS5-P2-------</AM>
 </tag>
 </m>
@@ -884,7 +884,7 @@
 </w.rf>
 <form>naší</form>
 <tag>
-<AM lemma="můj_^(přivlast.)" src="auto" recommended="1">PSFS2-P1-------</AM>
+<AM lemma="náš" src="auto" recommended="1">PSFS2-P1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSFS3-P1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSFS4-P1------6</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSFS6-P1-------</AM>
@@ -1494,7 +1494,7 @@
 <form>našeho</form>
 <tag>
 <AM lemma="můj_^(přivlast.)" src="auto">PSMS4-P1-------</AM>
-<AM lemma="můj_^(přivlast.)" src="auto" recommended="1">PSZS2-P1-------</AM>
+<AM lemma="náš" src="auto" recommended="1">PSZS2-P1-------</AM>
 </tag>
 </m>
 <m id="m-wsj1256-001-p1s5W13-Ta">
@@ -1624,7 +1624,7 @@
 </w.rf>
 <form>našich</form>
 <tag>
-<AM lemma="můj_^(přivlast.)" src="auto" recommended="1">PSXP2-P1-------</AM>
+<AM lemma="náš" src="auto" recommended="1">PSXP2-P1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSXP6-P1-------</AM>
 </tag>
 </m>
@@ -2285,7 +2285,7 @@
 </w.rf>
 <form>našich</form>
 <tag>
-<AM lemma="můj_^(přivlast.)" src="auto" recommended="1">PSXP2-P1-------</AM>
+<AM lemma="náš" src="auto" recommended="1">PSXP2-P1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSXP6-P1-------</AM>
 </tag>
 </m>

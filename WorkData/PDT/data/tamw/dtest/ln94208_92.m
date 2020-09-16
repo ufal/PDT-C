@@ -794,7 +794,7 @@
 <LM>w#w-ln94208-92-p3s2w2</LM>
 </w.rf>
 <form>maraton</form>
-<tag lemma="maraton" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="maraton_,s_^(^DD**maratón)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94208-92-p3s2w3">
 <src.rf>manual</src.rf>
@@ -1378,7 +1378,7 @@
 <LM>w#w-ln94208-92-p4s2w20</LM>
 </w.rf>
 <form>hnutí</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94208-92-p4s2w21">
 <src.rf>manual</src.rf>
@@ -1426,7 +1426,7 @@
 <LM>w#w-ln94208-92-p4s2w26</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-ln94208-92-p4s2w27">
 <src.rf>manual</src.rf>
@@ -1522,7 +1522,7 @@
 <LM>w#w-ln94208-92-p4s2w38</LM>
 </w.rf>
 <form>dostání</form>
-<tag lemma="dostání_^(*3at)" src="orig" selected="1">NNNS3-----A----</tag>
+<tag lemma="dostání_^(*2t)_(*3at)" src="orig" selected="1">NNNS3-----A----</tag>
 </m>
 <m id="m-ln94208-92-p4s2w39">
 <src.rf>manual</src.rf>
@@ -1638,7 +1638,7 @@
 <LM>w#w-ln94208-92-p4s4w1</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrIS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS1----------</tag>
 </m>
 <m id="m-ln94208-92-p4s4w2">
 <src.rf>manual</src.rf>
@@ -1738,7 +1738,7 @@
 <form>stojí</form>
 <tag>
 <AM lemma="stát-4_^(něco_stojí_peníze)" src="orig">VB-S---3P-AA---</AM>
-<AM lemma="stát-4_^(něco_stojí_peníze)" src="manual" selected="1">VB-S---3P-AAI--</AM>
+<AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m-ln94208-92-p4s5Aw4">

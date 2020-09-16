@@ -37,7 +37,7 @@
 <LM>w#w-lnd92251-047-p2s1w1</LM>
 </w.rf>
 <form>Druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS1----------</tag>
 </m>
 <m id="m-lnd92251-047-p2s1w2">
 <src.rf>manual</src.rf>
@@ -424,7 +424,7 @@
 <LM>w#w-lnd92251-047-p2s3w26</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92251-047-p2s3w27">
 <src.rf>manual</src.rf>
@@ -2134,7 +2134,7 @@
 <LM>w#w-lnd92251-047-p4s4w1</LM>
 </w.rf>
 <form>Dá</form>
-<tag lemma="dát" src="orig" selected="1">VB-S---3P-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-lnd92251-047-p4s4w2">
 <src.rf>manual</src.rf>
@@ -2242,7 +2242,7 @@
 <LM>w#w-lnd92251-047-p4s4w14</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd92251-047-p4s4w15">
 <src.rf>manual</src.rf>

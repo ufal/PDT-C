@@ -27,7 +27,7 @@
 <LM>w#w-lnd92258-104-p1s1w2</LM>
 </w.rf>
 <form>stojí</form>
-<tag lemma="stát-4_^(něco_stojí_peníze)" src="orig" selected="1">VB-P---3P-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd92258-104-p1s1w3">
 <src.rf>manual</src.rf>
@@ -69,7 +69,7 @@
 <LM>w#w-lnd92258-104-p2s1w2</LM>
 </w.rf>
 <form>PRŮVODCE</form>
-<tag lemma="průvodce" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="průvodce-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-104-p2s1w3">
 <src.rf>manual</src.rf>
@@ -568,7 +568,7 @@
 <LM>w#w-lnd92258-104-p3s3w6</LM>
 </w.rf>
 <form>antibiotika</form>
-<tag lemma="antibiotikum_;U" src="orig" selected="1">NNNP1-----A----</tag>
+<tag lemma="antibiotikum" src="orig" selected="1">NNNP1-----A----</tag>
 </m>
 <m id="m-lnd92258-104-p3s3w7">
 <src.rf>manual</src.rf>
@@ -818,7 +818,7 @@
 <LM>w#w-lnd92258-104-p3s4w9</LM>
 </w.rf>
 <form>Penicilinu</form>
-<tag lemma="penicilin" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="penicilin_,s_^(^DD**penicilín)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92258-104-p3s4w10">
 <src.rf>manual</src.rf>
@@ -2154,7 +2154,7 @@
 <LM>w#w-lnd92258-104-p3s7w9</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd92258-104-p3s7w10">
 <src.rf>manual</src.rf>
@@ -2170,7 +2170,7 @@
 <LM>w#w-lnd92258-104-p3s7w11</LM>
 </w.rf>
 <form>kyretáž</form>
-<tag lemma="kyretáž_;U" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="kyretáž" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92258-104-p3s7w12">
 <src.rf>manual</src.rf>
@@ -2290,7 +2290,7 @@
 <LM>w#w-lnd92258-104-p3s7w26</LM>
 </w.rf>
 <form>stojí</form>
-<tag lemma="stát-4_^(něco_stojí_peníze)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92258-104-p3s7w27">
 <src.rf>manual</src.rf>
@@ -2629,7 +2629,7 @@
 <LM>w#w-lnd92258-104-p3s8w7</LM>
 </w.rf>
 <form>kyretáž</form>
-<tag lemma="kyretáž_;U" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="kyretáž" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92258-104-p3s8w8">
 <src.rf>manual</src.rf>
@@ -3449,7 +3449,7 @@
 <LM>w#w-lnd92258-104-p3s10w18</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-lnd92258-104-p3s10w19">
 <src.rf>manual</src.rf>
@@ -4542,7 +4542,7 @@
 <LM>w#w-lnd92258-104-p4s2w22</LM>
 </w.rf>
 <form>stojí</form>
-<tag lemma="stát-4_^(něco_stojí_peníze)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92258-104-p4s2w23">
 <src.rf>manual</src.rf>
@@ -5565,7 +5565,7 @@
 <LM>w#w-lnd92258-104-p4s5w18</LM>
 </w.rf>
 <form>dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92258-104-p4s5w19">
 <src.rf>manual</src.rf>

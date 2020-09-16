@@ -1828,7 +1828,7 @@
 <AM lemma="hovězí" src="auto">AANS1----1A----</AM>
 <AM lemma="hovězí" src="auto">AANS4----1A----</AM>
 <AM lemma="hovězí" src="auto">AANS5----1A----</AM>
-<AM lemma="hovězí" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="hovězí-1" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="hovězí" src="auto">NNNS4-----A----</AM>
 <AM lemma="hovězí" src="auto">NNNS5-----A----</AM>
 </tag>
@@ -2013,7 +2013,7 @@
 <AM lemma="telecí" src="auto">AANS1----1A----</AM>
 <AM lemma="telecí" src="auto">AANS4----1A----</AM>
 <AM lemma="telecí" src="auto">AANS5----1A----</AM>
-<AM lemma="telecí" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="telecí-1" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="telecí" src="auto">NNNS4-----A----</AM>
 <AM lemma="telecí" src="auto">NNNS5-----A----</AM>
 </tag>
@@ -2113,7 +2113,7 @@
 <AM lemma="sojový" src="auto">AAFS2----1A----</AM>
 <AM lemma="sojový" src="auto">AAFS3----1A----</AM>
 <AM lemma="sojový" src="auto">AAFS6----1A----</AM>
-<AM lemma="sojový" src="auto" recommended="1">AAIP1----1A----</AM>
+<AM lemma="sojový_,s_^(^DD**sójový)" src="auto" recommended="1">AAIP1----1A----</AM>
 <AM lemma="sojový" src="auto">AAIP4----1A----</AM>
 <AM lemma="sojový" src="auto">AAIP5----1A----</AM>
 <AM lemma="sojový" src="auto">AAMP4----1A----</AM>

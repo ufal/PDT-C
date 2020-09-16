@@ -235,7 +235,7 @@
 <LM>w#w-lnd91301-056-p3s2w2</LM>
 </w.rf>
 <form>vás</form>
-<tag lemma="ty" src="orig" selected="1">PP-P4--2-------</tag>
+<tag lemma="vy" src="orig" selected="1">PP-P4--2-------</tag>
 </m>
 <m id="m-lnd91301-056-p3s2w3">
 <src.rf>manual</src.rf>
@@ -507,7 +507,7 @@
 <LM>w#w-lnd91301-056-p4s1w20</LM>
 </w.rf>
 <form>našeho</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSZS2-P1-------</tag>
 </m>
 <m id="m-lnd91301-056-p4s1w21">
 <src.rf>manual</src.rf>
@@ -1007,7 +1007,7 @@
 <LM>w#w-lnd91301-056-p4s4w15</LM>
 </w.rf>
 <form>mého</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS2-S1-------</tag>
+<tag lemma="můj" src="orig" selected="1">PSZS2-S1-------</tag>
 </m>
 <m id="m-lnd91301-056-p4s4w16">
 <src.rf>manual</src.rf>
@@ -1093,7 +1093,7 @@
 <LM>w#w-lnd91301-056-p4s5w6</LM>
 </w.rf>
 <form>mne</form>
-<tag lemma="já_^(2./4.pád)" src="orig" selected="1">PP-S4--1-------</tag>
+<tag lemma="já" src="orig" selected="1">PP-S4--1-------</tag>
 </m>
 <m id="m-lnd91301-056-p4s5w7">
 <src.rf>manual</src.rf>
@@ -1199,7 +1199,7 @@
 <LM>w#w-lnd91301-056-p4s6w1</LM>
 </w.rf>
 <form>Nebojí</form>
-<tag lemma="bát" src="orig" selected="1">VB-S---3P-NAI--</tag>
+<tag lemma="bát-1" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-lnd91301-056-p4s6w2">
 <src.rf>manual</src.rf>
@@ -1728,7 +1728,7 @@
 <LM>w#w-lnd91301-056-p4s7w25</LM>
 </w.rf>
 <form>pana</form>
-<tag lemma="pan_^(oslovení)" src="auto" selected="1">NNMS4-----A----</tag>
+<tag lemma="pan" src="auto" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd91301-056-p4s7w26">
 <src.rf>manual</src.rf>

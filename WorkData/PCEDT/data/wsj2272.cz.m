@@ -295,7 +295,7 @@
 <form>koupí</form>
 <tag>
 <AM lemma="koupit_^(něco_sobě/někomu)" src="auto">VB-P---3P-AAP--</AM>
-<AM lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">VB-S---3P-AAP--</AM>
+<AM lemma="koupit" src="auto" recommended="1">VB-S---3P-AAP--</AM>
 <AM lemma="koupě_^(př._byla_to_dobrá_koupě)" src="auto">NNFP2-----A----</AM>
 <AM lemma="koupě_^(př._byla_to_dobrá_koupě)" src="auto">NNFS7-----A----</AM>
 </tag>
@@ -2384,7 +2384,7 @@
 <AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AANS1----1A----</AM>
 <AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AANS4----1A----</AM>
 <AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AANS5----1A----</AM>
-<AM lemma="konkurzní_^(týkající_se_úpadku,_soutěže)" src="manual" selected="1">AAFS2----1A----</AM>
+<AM lemma="konkurzní" src="manual" selected="1">AAFS2----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj2272-001-p1s7W29-Ta">
@@ -2601,7 +2601,7 @@
 <AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AANS1----1A----</AM>
 <AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AANS4----1A----</AM>
 <AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AANS5----1A----</AM>
-<AM lemma="konkurzní_^(týkající_se_úpadku,_soutěže)" src="manual" selected="1">AAFS1----1A----</AM>
+<AM lemma="konkurzní" src="manual" selected="1">AAFS1----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj2272-001-p1s8W7-Ta">
@@ -2984,7 +2984,7 @@
 </w.rf>
 <form>dala</form>
 <tag>
-<AM lemma="dát" src="auto" recommended="1">VpQW----R-AAP--</AM>
+<AM lemma="dát-1" src="auto" recommended="1">VpQW----R-AAP--</AM>
 <AM lemma="dát-2_^(dá_se_očekávat)" src="auto">VpQW----R-AAI--</AM>
 </tag>
 </m>
@@ -3353,7 +3353,7 @@
 <AM lemma="dobrý" src="auto">AAFP1----2A----</AM>
 <AM lemma="dobrý" src="auto">AAFP4----2A----</AM>
 <AM lemma="dobrý" src="auto">AAFP5----2A----</AM>
-<AM lemma="dobrý" src="auto" recommended="1">AAFS1----2A----</AM>
+<AM lemma="lepší" src="auto" recommended="1">AAFS1----2A----</AM>
 <AM lemma="dobrý" src="auto">AAFS2----2A----</AM>
 <AM lemma="dobrý" src="auto">AAFS3----2A----</AM>
 <AM lemma="dobrý" src="auto">AAFS4----2A----</AM>

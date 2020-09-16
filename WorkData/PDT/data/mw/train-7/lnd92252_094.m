@@ -123,7 +123,7 @@
 <form>Skuherská</form>
 <tag>
 <AM lemma="Skuherský_;Y" src="orig">NNFS1-----A----</AM>
-<AM lemma="Skuherská_;Y" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
+<AM lemma="Skuherská_;Y_^(*1ý)" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 <AM lemma="Skuherská_;Y" src="auto">NNFS5-----A----</AM>
 </tag>
 </m>

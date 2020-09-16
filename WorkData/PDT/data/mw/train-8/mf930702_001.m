@@ -175,7 +175,7 @@
 <LM>w#w-mf930702-001-p2s2w1</LM>
 </w.rf>
 <form>Její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS1FS3-------</tag>
 </m>
 <m id="m-mf930702-001-p2s2w2">
 <src.rf>manual</src.rf>
@@ -730,7 +730,7 @@
 <LM>w#w-mf930702-001-p2s6w12</LM>
 </w.rf>
 <form>dny</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP7-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP7-----A----</tag>
 </m>
 <m id="m-mf930702-001-p2s6w13">
 <src.rf>manual</src.rf>
@@ -746,7 +746,7 @@
 <LM>w#w-mf930702-001-p2s6w14</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="mluvčí-2" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930702-001-p2s6w15">
 <src.rf>manual</src.rf>
@@ -942,7 +942,7 @@
 <LM>w#w-mf930702-001-p2s8w10</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-mf930702-001-p2s8w11">
 <src.rf>manual</src.rf>

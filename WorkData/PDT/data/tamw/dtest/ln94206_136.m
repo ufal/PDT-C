@@ -774,7 +774,7 @@
 <LM>w#w-ln94206-136-p3s1w24</LM>
 </w.rf>
 <form>náš</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSYS1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSYS1-P1-------</tag>
 </m>
 <m id="m-ln94206-136-p3s1w25">
 <src.rf>manual</src.rf>
@@ -888,7 +888,7 @@
 <LM>w#w-ln94206-136-p3s2w12</LM>
 </w.rf>
 <form>dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94206-136-p3s2w13">
 <src.rf>manual</src.rf>
@@ -999,7 +999,7 @@
 <LM>w#w-ln94206-136-p3s4w1</LM>
 </w.rf>
 <form>Náš</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSYS1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSYS1-P1-------</tag>
 </m>
 <m id="m-ln94206-136-p3s4w2">
 <src.rf>manual</src.rf>
@@ -1699,7 +1699,7 @@
 <LM>w#w-ln94206-136-p3s7w11</LM>
 </w.rf>
 <form>ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94206-136-p3s7w12">
 <src.rf>manual</src.rf>
@@ -1861,7 +1861,7 @@
 <form>NATO</form>
 <tag>
 <AM lemma="NATO_;m_^(North_Atlantic_Treaty_Organization)" src="orig">NNNS4-----A----</AM>
-<AM lemma="NATO_;m_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="NATO-1_;m_^(Northtlantic_Treaty_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-136-p4s1w6">
@@ -1888,7 +1888,7 @@
 <form>dala</form>
 <tag>
 <AM lemma="dát" src="orig">VpQW----R-AAP--</AM>
-<AM lemma="dát" src="manual" selected="1">VpQW----R-AAP--</AM>
+<AM lemma="dát-1" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94206-136-p4s1w9">
@@ -2195,7 +2195,7 @@
 <LM>w#w-ln94206-136-p4s2w24</LM>
 </w.rf>
 <form>výzbroje</form>
-<tag lemma="výzbroj" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="výzbroj-1" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94206-136-p4s2w25">
 <src.rf>manual</src.rf>

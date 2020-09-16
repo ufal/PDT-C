@@ -37,7 +37,7 @@
 <form>Zlatý</form>
 <tag>
 <AM lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig">AAIS4----1A----</AM>
-<AM lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="manual" selected="1">AAIS4----1A----</AM>
+<AM lemma="zlatý-1_^(atribut;_z._řetízek,_poklad,...)" src="manual" selected="1">AAIS4----1A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-016-p1s1w4">
@@ -168,7 +168,7 @@
 <form>Zlatý</form>
 <tag>
 <AM lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig">AAMS1----1A----</AM>
-<AM lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="manual" selected="1">AAIS1----1A----</AM>
+<AM lemma="zlatý-1_^(atribut;_z._řetízek,_poklad,...)" src="manual" selected="1">AAIS1----1A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-016-p2s1Bw12">
@@ -279,7 +279,7 @@
 <LM>w#w-ln95047-016-p2s2w5</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS6---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS6---------1</tag>
 </m>
 <m id="m-ln95047-016-p2s2w6">
 <src.rf>manual</src.rf>
@@ -608,7 +608,7 @@
 <form>Zlatý</form>
 <tag>
 <AM lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig">AAMS1----1A----</AM>
-<AM lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="manual" selected="1">AAIS1----1A----</AM>
+<AM lemma="zlatý-1_^(atribut;_z._řetízek,_poklad,...)" src="manual" selected="1">AAIS1----1A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-016-p2s4w16">
@@ -664,7 +664,7 @@
 <LM>w#w-ln95047-016-p2s4w21</LM>
 </w.rf>
 <form>Karlových</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUIP6M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUIP6M---------</tag>
 </m>
 <m id="m-ln95047-016-p2s4w22">
 <src.rf>manual</src.rf>
@@ -786,7 +786,7 @@
 <LM>w#w-ln95047-016-p2s5w14</LM>
 </w.rf>
 <form>Karlových</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUIP2M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUIP2M---------</tag>
 </m>
 <m id="m-ln95047-016-p2s5w15">
 <src.rf>manual</src.rf>
@@ -852,7 +852,7 @@
 <form>Zlatému</form>
 <tag>
 <AM lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig">AAMS3----1A----</AM>
-<AM lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="manual" selected="1">AAIS3----1A----</AM>
+<AM lemma="zlatý-1_^(atribut;_z._řetízek,_poklad,...)" src="manual" selected="1">AAIS3----1A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-016-p2s5w23">
@@ -1209,7 +1209,7 @@
 <form>Zlatý</form>
 <tag>
 <AM lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig">AAMS1----1A----</AM>
-<AM lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="manual" selected="1">AAIS1----1A----</AM>
+<AM lemma="zlatý-1_^(atribut;_z._řetízek,_poklad,...)" src="manual" selected="1">AAIS1----1A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-016-p2s7w25">

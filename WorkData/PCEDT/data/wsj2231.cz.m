@@ -1505,7 +1505,7 @@
 </w.rf>
 <form>ozonovou</form>
 <tag>
-<AM lemma="ozónový" src="auto" recommended="1">AAFS4----1A----</AM>
+<AM lemma="ozonový_,s_^(^DD**ozónový)" src="auto" recommended="1">AAFS4----1A----</AM>
 <AM lemma="ozónový" src="auto">AAFS7----1A----</AM>
 </tag>
 </m>
@@ -2470,7 +2470,7 @@
 <AM lemma="dobrý" src="auto">AANP4----2A----</AM>
 <AM lemma="dobrý" src="auto">AANP5----2A----</AM>
 <AM lemma="dobrý" src="auto">AANS1----2A----</AM>
-<AM lemma="dobrý" src="auto" recommended="1">AANS4----2A----</AM>
+<AM lemma="lepší" src="auto" recommended="1">AANS4----2A----</AM>
 <AM lemma="dobrý" src="auto">AANS5----2A----</AM>
 <AM lemma="lepšit" src="auto">VB-P---3P-AAI--</AM>
 <AM lemma="lepšit" src="auto">VB-S---3P-AAI--</AM>
@@ -3034,7 +3034,7 @@
 <AM lemma="jeho_^(přivlast.)" src="auto">PSIS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSNS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP1FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XP4FS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9XP4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP5FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSZS1FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSZS5FS3-------</AM>
@@ -3931,7 +3931,7 @@
 <AM lemma="představitelný-1_^(si_něco;_něco/někoho_někomu)_(*6-1)" src="auto">AANP1----1N---6</AM>
 <AM lemma="představitelný-1_^(si_něco;_něco/někoho_někomu)_(*6-1)" src="auto">AANP4----1N---6</AM>
 <AM lemma="představitelný-1_^(si_něco;_něco/někoho_někomu)_(*6-1)" src="auto">AANP5----1N---6</AM>
-<AM lemma="představitelný-1_^(si_něco;_něco/někoho_někomu)_(*6-1)" src="auto" recommended="1">AANS1----1N----</AM>
+<AM lemma="představitelný-1_^(*6-1)" src="auto" recommended="1">AANS1----1N----</AM>
 <AM lemma="představitelný-1_^(si_něco;_něco/někoho_někomu)_(*6-1)" src="auto">AANS4----1N----</AM>
 <AM lemma="představitelný-1_^(si_něco;_něco/někoho_někomu)_(*6-1)" src="auto">AANS5----1N----</AM>
 </tag>
@@ -5647,7 +5647,7 @@
 <form>citlivky</form>
 <tag>
 <AM lemma="citlivka" src="auto">NNFP1-----A----</AM>
-<AM lemma="citlivka" src="auto" recommended="1">NNFP4-----A----</AM>
+<AM lemma="citlivka-2" src="auto" recommended="1">NNFP4-----A----</AM>
 <AM lemma="citlivka" src="auto">NNFP5-----A----</AM>
 <AM lemma="citlivka" src="auto">NNFS2-----A----</AM>
 <AM lemma="citlivka" src="auto">NNMP4-----A----</AM>
@@ -5928,7 +5928,7 @@
 </w.rf>
 <form>svou</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8FS4---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8FS4---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS7---------1</AM>
 </tag>
 </m>
@@ -6230,7 +6230,7 @@
 <AM lemma="vydělaný_^(kůže;peníze)_(*2t)" src="auto">AAFS2----1A----</AM>
 <AM lemma="vydělaný_^(kůže;peníze)_(*2t)" src="auto">AAFS3----1A----</AM>
 <AM lemma="vydělaný_^(kůže;peníze)_(*2t)" src="auto">AAFS6----1A----</AM>
-<AM lemma="vydělaný_^(kůže;peníze)_(*2t)" src="auto" recommended="1">AAIP1----1A----</AM>
+<AM lemma="vydělaný_^(*2t)" src="auto" recommended="1">AAIP1----1A----</AM>
 <AM lemma="vydělaný_^(kůže;peníze)_(*2t)" src="auto">AAIP4----1A----</AM>
 <AM lemma="vydělaný_^(kůže;peníze)_(*2t)" src="auto">AAIP5----1A----</AM>
 <AM lemma="vydělaný_^(kůže;peníze)_(*2t)" src="auto">AAMP4----1A----</AM>
@@ -6736,7 +6736,7 @@
 </w.rf>
 <form>svou</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8FS4---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8FS4---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS7---------1</AM>
 </tag>
 </m>
@@ -7105,7 +7105,7 @@
 <AM lemma="představitelný-1_^(si_něco;_něco/někoho_někomu)_(*6-1)" src="auto">AANP1----1A---6</AM>
 <AM lemma="představitelný-1_^(si_něco;_něco/někoho_někomu)_(*6-1)" src="auto">AANP4----1A---6</AM>
 <AM lemma="představitelný-1_^(si_něco;_něco/někoho_někomu)_(*6-1)" src="auto">AANP5----1A---6</AM>
-<AM lemma="představitelný-1_^(si_něco;_něco/někoho_někomu)_(*6-1)" src="auto" recommended="1">AANS1----1A----</AM>
+<AM lemma="představitelný-1_^(*6-1)" src="auto" recommended="1">AANS1----1A----</AM>
 <AM lemma="představitelný-1_^(si_něco;_něco/někoho_někomu)_(*6-1)" src="auto">AANS4----1A----</AM>
 <AM lemma="představitelný-1_^(si_něco;_něco/někoho_někomu)_(*6-1)" src="auto">AANS5----1A----</AM>
 </tag>

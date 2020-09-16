@@ -29,7 +29,7 @@
 <LM>w#w-lnd92259-101-p2s1w1</LM>
 </w.rf>
 <form>Banská</form>
-<tag lemma="Banský_;G" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="banský" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-lnd92259-101-p2s1w2">
 <src.rf>manual</src.rf>
@@ -172,7 +172,7 @@
 <LM>w#w-lnd92259-101-p2s3w1</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrNS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS1----------</tag>
 </m>
 <m id="m-lnd92259-101-p2s3w2">
 <src.rf>manual</src.rf>
@@ -736,7 +736,7 @@
 <LM>w#w-lnd92259-101-p5s3w10</LM>
 </w.rf>
 <form>Murín</form>
-<tag lemma="Murín_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Murín-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-101-p5s3w11">
 <src.rf>manual</src.rf>
@@ -1859,7 +1859,7 @@
 <LM>w#w-lnd92259-101-p8s2w68</LM>
 </w.rf>
 <form>Chang</form>
-<tag lemma="Chang_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Chang-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-101-p8s2w69">
 <src.rf>manual</src.rf>

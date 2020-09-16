@@ -703,7 +703,7 @@
 <form>Warrenovi</form>
 <tag>
 <AM lemma="Warren_;Y" src="auto" recommended="1">NNMS3-----A----</AM>
-<AM lemma="Warren_;Y" src="auto" selected="1">NNMS6-----A----</AM>
+<AM lemma="Warren-1_;Y" src="auto" selected="1">NNMS6-----A----</AM>
 <AM lemma="Warrenův_;Y_^(*2)" src="auto">AUMP1M---------</AM>
 <AM lemma="Warrenův_;Y_^(*2)" src="auto">AUMP5M---------</AM>
 </tag>
@@ -761,7 +761,7 @@
 <tag>
 <AM lemma="Warren_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Warren_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Warren_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Warren-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0548-001-p1s2W5-Ta">

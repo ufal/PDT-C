@@ -983,7 +983,7 @@
 <AM lemma="pozdní-2_^(v_roce,_ročním_období)" src="auto">AAIS2----1A----</AM>
 <AM lemma="pozdní-2_^(v_roce,_ročním_období)" src="auto">AAMS2----1A----</AM>
 <AM lemma="pozdní-2_^(v_roce,_ročním_období)" src="auto">AAMS4----1A----</AM>
-<AM lemma="pozdní-2_^(v_roce,_ročním_období)" src="auto" recommended="1">AANS2----1A----</AM>
+<AM lemma="pozdní" src="auto" recommended="1">AANS2----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj1106-001-p1s2W30-Ta">

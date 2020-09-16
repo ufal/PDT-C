@@ -59,7 +59,7 @@
 <LM>w#w-mf920924-136-p1s1w6</LM>
 </w.rf>
 <form>TAJNÉ</form>
-<tag lemma="tajný" src="orig" selected="1">AAFS2----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-mf920924-136-p1s1w7">
 <src.rf>manual</src.rf>
@@ -418,7 +418,7 @@
 <LM>w#w-mf920924-136-p2s4w15</LM>
 </w.rf>
 <form>tajné</form>
-<tag lemma="tajný" src="orig" selected="1">AAFS2----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-mf920924-136-p2s4w16">
 <src.rf>manual</src.rf>

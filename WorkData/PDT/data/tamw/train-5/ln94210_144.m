@@ -533,7 +533,7 @@
 <LM>w#w-ln94210-144-p2s3w15</LM>
 </w.rf>
 <form>málo</form>
-<tag lemma="málo-3_^(málo_+_příd._jm.,_př._byl_málo_důsledný)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="málo-3_^(málo_důsledný)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94210-144-p2s3w16">
 <src.rf>manual</src.rf>
@@ -749,7 +749,7 @@
 <LM>w#w-ln94210-144-p2s4w23</LM>
 </w.rf>
 <form>lepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAFS1----2A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAFS1----2A----</tag>
 </m>
 <m id="m-ln94210-144-p2s4w24">
 <src.rf>manual</src.rf>
@@ -953,7 +953,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1495,7 +1495,7 @@
 <LM>w#w-ln94210-144-p2s9w15</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FP4---------1</tag>
 </m>
 <m id="m-ln94210-144-p2s9w16">
 <src.rf>manual</src.rf>

@@ -453,7 +453,7 @@
 <LM>w#w-lnd94101-023-p1s4w14</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-lnd94101-023-p1s4w15">
 <src.rf>manual</src.rf>
@@ -527,7 +527,7 @@
 <LM>w#w-lnd94101-023-p1s5w5</LM>
 </w.rf>
 <form>vydání</form>
-<tag lemma="vydání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="vydání_^(*3at)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-lnd94101-023-p1s5w6">
 <src.rf>manual</src.rf>
@@ -575,7 +575,7 @@
 <LM>w#w-lnd94101-023-p1s5w11</LM>
 </w.rf>
 <form>vydaných</form>
-<tag lemma="vydaný-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*4t-1)" src="orig" selected="1">AAFP2----1A----</tag>
+<tag lemma="vydaný_^(*2t)" src="orig" selected="1">AAFP2----1A----</tag>
 </m>
 <m id="m-lnd94101-023-p1s5w12">
 <src.rf>manual</src.rf>
@@ -671,7 +671,7 @@
 <LM>w#w-lnd94101-023-p1s5w23</LM>
 </w.rf>
 <form>Rada</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94101-023-p1s5w24">
 <src.rf>manual</src.rf>
@@ -751,7 +751,7 @@
 <LM>w#w-lnd94101-023-p1s5w33</LM>
 </w.rf>
 <form>jehož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P1XXXZS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXZS3-------</tag>
 </m>
 <m id="m-lnd94101-023-p1s5w34">
 <src.rf>manual</src.rf>
@@ -1002,7 +1002,7 @@
 <LM>w#w-lnd94101-023-p1s7w8</LM>
 </w.rf>
 <form>vydaných</form>
-<tag lemma="vydaný-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*4t-1)" src="orig" selected="1">AAFP2----1A----</tag>
+<tag lemma="vydaný_^(*2t)" src="orig" selected="1">AAFP2----1A----</tag>
 </m>
 <m id="m-lnd94101-023-p1s7w9">
 <src.rf>manual</src.rf>
@@ -1042,7 +1042,7 @@
 <LM>w#w-lnd94101-023-p1s7w13</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FXXFS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1FXXFS3-------</tag>
 </m>
 <m id="m-lnd94101-023-p1s7w14">
 <src.rf>manual</src.rf>

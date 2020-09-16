@@ -891,7 +891,7 @@
 <LM>w#w-ln95049-086-p2s4w14</LM>
 </w.rf>
 <form>podávání</form>
-<tag lemma="podávání_^(něco_[někomu]_[někam])_(*3at)" src="auto" selected="1">NNNS4-----A----</tag>
+<tag lemma="podávání_^(*3at)" src="auto" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln95049-086-p2s4w15">
 <src.rf>manual</src.rf>
@@ -979,7 +979,7 @@
 <LM>w#w-ln95049-086-p2s4w25</LM>
 </w.rf>
 <form>nebojí</form>
-<tag lemma="bát" src="orig" selected="1">VB-P---3P-NAI--</tag>
+<tag lemma="bát-1" src="orig" selected="1">VB-P---3P-NAI--</tag>
 </m>
 <m id="m-ln95049-086-p2s4w26">
 <src.rf>manual</src.rf>
@@ -1655,7 +1655,7 @@
 <LM>w#w-ln95049-086-p3s4w9</LM>
 </w.rf>
 <form>druhou</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS7----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS7----------</tag>
 </m>
 <m id="m-ln95049-086-p3s4w10">
 <src.rf>manual</src.rf>

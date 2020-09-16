@@ -411,7 +411,7 @@
 <tag>
 <AM lemma="Imperial_;Y" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Imperial_;Y" src="auto">NNIS4-----A----</AM>
-<AM lemma="Imperial-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Imperial_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1381-001-p1s0W37-Ta">
@@ -514,7 +514,7 @@
 </w.rf>
 <form>podaná</form>
 <tag>
-<AM lemma="podaný_^(něco_[někomu]_[někam])_(*2t)" src="auto" recommended="1">AAFS1----1A----</AM>
+<AM lemma="podaný_^(*2t)" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="podaný_^(něco_[někomu]_[někam])_(*2t)" src="auto">AAFS5----1A----</AM>
 <AM lemma="podaný_^(něco_[někomu]_[někam])_(*2t)" src="auto">AANP1----1A----</AM>
 <AM lemma="podaný_^(něco_[někomu]_[někam])_(*2t)" src="auto">AANP4----1A----</AM>
@@ -602,7 +602,7 @@
 <tag>
 <AM lemma="Imperial_;Y" src="auto">NNIS1-----A----</AM>
 <AM lemma="Imperial_;Y" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="Imperial-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Imperial_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1381-001-p1s1W10-Ta">
@@ -894,7 +894,7 @@
 <tag>
 <AM lemma="Imperial_;Y" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Imperial_;Y" src="auto">NNIS4-----A----</AM>
-<AM lemma="Imperial-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Imperial_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1381-001-p1s2W8-Ta">
@@ -1014,7 +1014,7 @@
 <tag>
 <AM lemma="správný_^(správný_chlap)" src="auto">AAIS3----1N----</AM>
 <AM lemma="správný_^(správný_chlap)" src="auto">AAMS3----1N----</AM>
-<AM lemma="správný_^(správný_chlap)" src="auto" recommended="1">AANS3----1N----</AM>
+<AM lemma="správný" src="auto" recommended="1">AANS3----1N----</AM>
 </tag>
 </m>
 <m id="m-wsj1381-001-p1s2W19-Ta">
@@ -1382,7 +1382,7 @@
 <tag>
 <AM lemma="Imperial_;Y" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Imperial_;Y" src="auto">NNIS4-----A----</AM>
-<AM lemma="Imperial-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Imperial_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1381-001-p1s4W3-Ta">
@@ -1786,7 +1786,7 @@
 <AM lemma="podaný_^(něco_[někomu]_[někam])_(*2t)" src="auto">AAFP4----1A----</AM>
 <AM lemma="podaný_^(něco_[někomu]_[někam])_(*2t)" src="auto">AAFP5----1A----</AM>
 <AM lemma="podaný_^(něco_[někomu]_[někam])_(*2t)" src="auto">AAFS2----1A----</AM>
-<AM lemma="podaný_^(něco_[někomu]_[někam])_(*2t)" src="auto" recommended="1">AAFS3----1A----</AM>
+<AM lemma="podaný_^(*2t)" src="auto" recommended="1">AAFS3----1A----</AM>
 <AM lemma="podaný_^(něco_[někomu]_[někam])_(*2t)" src="auto">AAFS6----1A----</AM>
 <AM lemma="podaný_^(něco_[někomu]_[někam])_(*2t)" src="auto">AAIP1----1A----</AM>
 <AM lemma="podaný_^(něco_[někomu]_[někam])_(*2t)" src="auto">AAIP4----1A----</AM>
@@ -1865,7 +1865,7 @@
 <tag>
 <AM lemma="Imperial_;Y" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Imperial_;Y" src="auto">NNIS4-----A----</AM>
-<AM lemma="Imperial-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Imperial_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1381-001-p1s6W3-Ta">
@@ -2367,7 +2367,7 @@
 <tag>
 <AM lemma="Imperial_;Y" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Imperial_;Y" src="auto">NNIS4-----A----</AM>
-<AM lemma="Imperial-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Imperial_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1381-001-p1s7W5-Ta">
@@ -3037,7 +3037,7 @@
 <AM lemma="York-1_;Y" src="auto">NNMS3-----A---1</AM>
 <AM lemma="York-1_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="York-1_;Y" src="auto">NNMS6-----A---1</AM>
-<AM lemma="York-2_;G" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="York-2_;G_;m" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS5-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS6-----A----</AM>
@@ -3071,7 +3071,7 @@
 <tag>
 <AM lemma="Imperial_;Y" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Imperial_;Y" src="auto">NNIS4-----A----</AM>
-<AM lemma="Imperial-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Imperial_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1381-001-p1s9W22-Ta">
@@ -3095,7 +3095,7 @@
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP1FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP5FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9ZS1FS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9ZS1FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSZS5FS3-------</AM>
 </tag>
 </m>
@@ -3333,7 +3333,7 @@
 <tag>
 <AM lemma="Imperial_;Y" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Imperial_;Y" src="auto">NNIS4-----A----</AM>
-<AM lemma="Imperial-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Imperial_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1381-001-p1s10W3-Ta">

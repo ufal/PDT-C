@@ -435,7 +435,7 @@
 </w.rf>
 <form>Výborem</form>
 <tag>
-<AM lemma="výbor" src="auto" recommended="1">NNIS7-----A----</AM>
+<AM lemma="výbor-1" src="auto" recommended="1">NNIS7-----A----</AM>
 <AM lemma="výbor" src="auto">NNMS7-----A----</AM>
 </tag>
 </m>
@@ -687,7 +687,7 @@
 </w.rf>
 <form>výbor</form>
 <tag>
-<AM lemma="výbor" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="výbor-1" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="výbor" src="auto">NNIS4-----A----</AM>
 <AM lemma="výbor" src="auto">NNMS1-----A----</AM>
 </tag>
@@ -1715,7 +1715,7 @@
 </w.rf>
 <form>výbor</form>
 <tag>
-<AM lemma="výbor" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="výbor-1" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="výbor" src="auto">NNIS4-----A----</AM>
 <AM lemma="výbor" src="auto">NNMS1-----A----</AM>
 </tag>
@@ -3307,7 +3307,7 @@
 </w.rf>
 <form>Výboru</form>
 <tag>
-<AM lemma="výbor" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="výbor-1" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="výbor" src="auto">NNIS3-----A----</AM>
 <AM lemma="výbor" src="auto">NNIS6-----A----</AM>
 <AM lemma="výbor" src="auto">NNMS3-----A---1</AM>
@@ -3927,7 +3927,7 @@
 <form>letech</form>
 <tag>
 <AM lemma="let" src="auto">NNIP6-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP6-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0259-001-p1s10W11-Ta">
@@ -4927,7 +4927,7 @@
 <tag>
 <AM lemma="David_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="David_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="David_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="David-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0259-001-p1s14W5-Ta">
@@ -6085,7 +6085,7 @@
 <AM lemma="špatný" src="auto">AAFS4----3A----</AM>
 <AM lemma="špatný" src="auto">AAFS5----3A----</AM>
 <AM lemma="špatný" src="auto">AAFS6----3A----</AM>
-<AM lemma="špatný" src="auto" recommended="1">AAFS7----3A----</AM>
+<AM lemma="horší" src="auto" recommended="1">AAFS7----3A----</AM>
 <AM lemma="špatný" src="auto">AAIP1----3A----</AM>
 <AM lemma="špatný" src="auto">AAIP4----3A----</AM>
 <AM lemma="špatný" src="auto">AAIP5----3A----</AM>

@@ -681,7 +681,7 @@
 <LM>w#w-ln95047-071-p2s5w3</LM>
 </w.rf>
 <form>Hnutí</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln95047-071-p2s5w4">
 <src.rf>manual</src.rf>
@@ -987,7 +987,7 @@
 <LM>w#w-ln95047-071-p2s6w17</LM>
 </w.rf>
 <form>Karolinu</form>
-<tag lemma="Karolínum" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="Karolinum_;G_;m" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-ln95047-071-p2s6w18">
 <src.rf>manual</src.rf>
@@ -1303,7 +1303,7 @@
 <LM>w#w-ln95047-071-p3s1w12</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95047-071-p3s1w13">
 <src.rf>manual</src.rf>
@@ -1774,7 +1774,7 @@
 <LM>w#w-ln95047-071-p4s1w13</LM>
 </w.rf>
 <form>právo</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln95047-071-p4s1w14">
 <src.rf>manual</src.rf>

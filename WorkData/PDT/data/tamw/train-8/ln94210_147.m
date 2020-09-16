@@ -179,7 +179,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>naší</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS3-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS3-P1-------</tag>
 </m>
 <m id="m-ln94210-147-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -247,7 +247,7 @@
 <LM>w#w-ln94210-147-p2s1Dw3</LM>
 </w.rf>
 <form>stojí</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94210-147-p2s1Dw4">
 <src.rf>manual</src.rf>
@@ -1188,7 +1188,7 @@
 <LM>w#w-ln94210-147-p4s1w5</LM>
 </w.rf>
 <form>stojí</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VB-P---3P-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln94210-147-p4s1w6">
 <src.rf>manual</src.rf>
@@ -1240,7 +1240,7 @@
 <LM>w#w-ln94210-147-p4s1w11</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrNS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS4----------</tag>
 </m>
 <m id="m-ln94210-147-p4s1w12">
 <src.rf>manual</src.rf>
@@ -1404,7 +1404,7 @@
 <LM>w#w-ln94210-147-p4s3w9</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS1FS3-------</tag>
 </m>
 <m id="m-ln94210-147-p4s3w10">
 <src.rf>manual</src.rf>
@@ -1721,7 +1721,7 @@
 <LM>w#w-ln94210-147-p4s5w9</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94210-147-p4s5w10">
 <src.rf>manual</src.rf>
@@ -1763,7 +1763,7 @@
 <LM>w#w-ln94210-147-p5s1w1</LM>
 </w.rf>
 <form>Ukazatel</form>
-<tag lemma="ukazatel" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="ukazatel-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94210-147-p5s1w2">
 <src.rf>manual</src.rf>
@@ -1835,7 +1835,7 @@
 <LM>w#w-ln94210-147-p5s1w10</LM>
 </w.rf>
 <form>faktorů</form>
-<tag lemma="faktor" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="faktor-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94210-147-p5s1w11">
 <src.rf>manual</src.rf>
@@ -2085,7 +2085,7 @@
 <LM>w#w-ln94210-147-p5s2w22</LM>
 </w.rf>
 <form>lidi</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-ln94210-147-p5s2w23">
 <src.rf>manual</src.rf>
@@ -2202,7 +2202,7 @@
 <LM>w#w-ln94210-147-p6s1w13</LM>
 </w.rf>
 <form>faktory</form>
-<tag lemma="faktor" src="orig" selected="1">NNIP7-----A----</tag>
+<tag lemma="faktor-1" src="orig" selected="1">NNIP7-----A----</tag>
 </m>
 <m id="m-ln94210-147-p6s1w14">
 <src.rf>manual</src.rf>
@@ -2682,7 +2682,7 @@
 <LM>w#w-ln94210-147-p6s3w27</LM>
 </w.rf>
 <form>stojí</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VB-P---3P-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln94210-147-p6s3w28">
 <src.rf>manual</src.rf>
@@ -2876,7 +2876,7 @@
 <LM>w#w-ln94210-147-p7s1w9</LM>
 </w.rf>
 <form>faktorů</form>
-<tag lemma="faktor" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="faktor-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94210-147-p7s1w10">
 <src.rf>manual</src.rf>
@@ -2990,7 +2990,7 @@
 <LM>w#w-ln94210-147-p7s2w7</LM>
 </w.rf>
 <form>faktorů</form>
-<tag lemma="faktor" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="faktor-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94210-147-p7s2w8">
 <src.rf>manual</src.rf>
@@ -2998,7 +2998,7 @@
 <LM>w#w-ln94210-147-p7s2w8</LM>
 </w.rf>
 <form>stojí</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VB-P---3P-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln94210-147-p7s2w9">
 <src.rf>manual</src.rf>

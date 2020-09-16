@@ -43,7 +43,7 @@
 <AM lemma="Roxa_;G" src="auto">NNFS2-----A----</AM>
 <AM lemma="Roxy_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Roxy_;Y_,t" src="auto">NNMS5-----A----</AM>
-<AM lemma="Roxy-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Roxy-1_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-099-p1s1w4">
@@ -222,7 +222,7 @@
 <AM lemma="Roxa_;G" src="auto">NNFS2-----A----</AM>
 <AM lemma="Roxy_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Roxy_;Y_,t" src="auto">NNMS5-----A----</AM>
-<AM lemma="Roxy-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Roxy-1_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-099-p1s2w21">
@@ -581,7 +581,7 @@
 <LM>w#w-lnd94103-099-p1s5w12</LM>
 </w.rf>
 <form>brání</form>
-<tag lemma="bránit_^(klást_překážky)" src="auto" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="bránit" src="auto" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd94103-099-p1s5w13">
 <src.rf>manual</src.rf>

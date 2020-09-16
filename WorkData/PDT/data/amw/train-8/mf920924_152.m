@@ -415,7 +415,7 @@
 <LM>w#w-mf920924-152-p3s2w3</LM>
 </w.rf>
 <form>postiženém</form>
-<tag lemma="postižený_^(*4hnout)" src="orig" selected="1">AAIS6----1A----</tag>
+<tag lemma="postižený" src="orig" selected="1">AAIS6----1A----</tag>
 </m>
 <m id="m-mf920924-152-p3s2w4">
 <src.rf>manual</src.rf>
@@ -479,7 +479,7 @@
 <LM>w#w-mf920924-152-p3s2w11</LM>
 </w.rf>
 <form>prvních</form>
-<tag lemma="první" src="orig" selected="1">CrFP2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFP2----------</tag>
 </m>
 <m id="m-mf920924-152-p3s2w12">
 <src.rf>manual</src.rf>

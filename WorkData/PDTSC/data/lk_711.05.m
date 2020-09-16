@@ -79,7 +79,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="třeba-3" src="auto" selected="1">TT-------------</AM>
+<AM lemma="třeba-2_^(například)" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m711-d1t1257-1">
@@ -1424,7 +1424,7 @@
 </w.rf>
 <form>zas</form>
 <tag>
-<AM lemma="zas-1" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="zas-1_,s_^(^DD**zase-1)" src="auto" recommended="1">Db-------------</AM>
 <AM lemma="zas-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -2167,7 +2167,7 @@
 <tag>
 <AM lemma="jenom-1" src="auto">TT-------------</AM>
 <AM lemma="jenom-2_^(pouze)" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="jenom-2_,s_^(^DD**jen-4)_(pouze)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="jenom-2_^(pouze)" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m711-d-id117493">
@@ -2779,7 +2779,7 @@
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8IP1----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8IP5----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS4----------</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8XP4----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8XP4----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOFP----------1</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOFS----------1</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOIP----------1</AM>
@@ -4274,7 +4274,7 @@
 <form>vás</form>
 <tag>
 <AM lemma="ty" src="auto">PP-P2--2-------</AM>
-<AM lemma="ty" src="auto" recommended="1">PP-P4--2-------</AM>
+<AM lemma="vy" src="auto" recommended="1">PP-P4--2-------</AM>
 <AM lemma="ty" src="auto">PP-P6--2-------</AM>
 </tag>
 </m>
@@ -4512,7 +4512,7 @@
 </w.rf>
 <form>Ne</form>
 <tag>
-<AM lemma="ne" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ne-1" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="neděle_:B" src="auto">NNFXX-----A---8</AM>
 </tag>
 </m>

@@ -333,7 +333,7 @@
 <LM>w#w-ln94211-49-p2s2w4</LM>
 </w.rf>
 <form>člen</form>
-<tag lemma="člen" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-49-p2s2w5">
 <src.rf>manual</src.rf>
@@ -373,7 +373,7 @@
 <LM>w#w-ln94211-49-p2s2w9</LM>
 </w.rf>
 <form>prostředky</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-ln94211-49-p2s2w10">
 <src.rf>manual</src.rf>
@@ -501,7 +501,7 @@
 <LM>w#w-ln94211-49-p2s3w9</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS7---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS7---------1</tag>
 </m>
 <m id="m-ln94211-49-p2s3w10">
 <src.rf>manual</src.rf>
@@ -785,7 +785,7 @@
 <LM>w#w-ln94211-49-p2s5w2</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrNS7----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS7----------</tag>
 </m>
 <m id="m-ln94211-49-p2s5w3">
 <src.rf>manual</src.rf>
@@ -897,7 +897,7 @@
 <LM>w#w-ln94211-49-p2s5w16</LM>
 </w.rf>
 <form>zpřísněním</form>
-<tag lemma="zpřísnění_^(*3it)" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="zpřísnění_^(*2t)_(*3it)" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-ln94211-49-p2s5w17">
 <src.rf>manual</src.rf>
@@ -955,7 +955,7 @@
 <LM>w#w-ln94211-49-p3s1w1</LM>
 </w.rf>
 <form>Druhá</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS1----------</tag>
 </m>
 <m id="m-ln94211-49-p3s1w2">
 <src.rf>manual</src.rf>
@@ -1261,7 +1261,7 @@
 <form>starostí</form>
 <tag>
 <AM lemma="starost" src="orig">NNFP2-----A----</AM>
-<AM lemma="starost-1" src="auto" recommended="1" selected="1">NNFP2-----A----</AM>
+<AM lemma="starost-2_^(*5ý-2)" src="auto" recommended="1" selected="1">NNFP2-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFS7-----A----</AM>
 <AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto">NNFP2-----A----</AM>
 <AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto">NNFS7-----A----</AM>
@@ -1297,7 +1297,7 @@
 <LM>w#w-ln94211-49-p3s3w8</LM>
 </w.rf>
 <form>proto</form>
-<tag lemma="proto-2_^(dal_mu_co_proto,_tak_proto!)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="proto-2_^(proto_že)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94211-49-p3s3w9">
 <src.rf>manual</src.rf>
@@ -1361,7 +1361,7 @@
 <LM>w#w-ln94211-49-p3s3w16</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-ln94211-49-p3s3w17">
 <src.rf>manual</src.rf>

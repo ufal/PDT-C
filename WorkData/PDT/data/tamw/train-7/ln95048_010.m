@@ -745,7 +745,7 @@
 <LM>w#w-ln95048-010-p3s1w19</LM>
 </w.rf>
 <form>cesty</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95048-010-p3s1w20">
 <src.rf>manual</src.rf>
@@ -967,7 +967,7 @@
 <AM lemma="zaměstnanost-2_^(politika_z.;_přednost_před_odvoz.)" src="auto">NNFP4-----A----</AM>
 <AM lemma="zaměstnanost-2_^(politika_z.;_přednost_před_odvoz.)" src="auto">NNFP5-----A----</AM>
 <AM lemma="zaměstnanost-2_^(politika_z.;_přednost_před_odvoz.)" src="auto">NNFS2-----A----</AM>
-<AM lemma="zaměstnanost-2_^(politika_z.;_přednost_před_odvoz.)" src="auto" recommended="1" selected="1">NNFS3-----A----</AM>
+<AM lemma="zaměstnanost_^(*3ý)" src="auto" recommended="1" selected="1">NNFS3-----A----</AM>
 <AM lemma="zaměstnanost-2_^(politika_z.;_přednost_před_odvoz.)" src="auto">NNFS5-----A----</AM>
 <AM lemma="zaměstnanost-2_^(politika_z.;_přednost_před_odvoz.)" src="auto">NNFS6-----A----</AM>
 </tag>

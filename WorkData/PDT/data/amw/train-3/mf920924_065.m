@@ -553,7 +553,7 @@
 <LM>w#w-mf920924-065-p2s3w5</LM>
 </w.rf>
 <form>našeho</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSZS2-P1-------</tag>
 </m>
 <m id="m-mf920924-065-p2s3w6">
 <src.rf>manual</src.rf>
@@ -795,7 +795,7 @@
 <LM>w#w-mf920924-065-p2s4w11</LM>
 </w.rf>
 <form>lepšího</form>
-<tag lemma="dobrý" src="orig" selected="1">AANS2----2A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AANS2----2A----</tag>
 </m>
 <m id="m-mf920924-065-p2s4w12">
 <src.rf>manual</src.rf>
@@ -1615,7 +1615,7 @@
 <AM lemma="Drop_;m_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="drop_;U" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="drop_,t" src="manual">NNXXX-----A----</AM>
-<AM lemma="Drop-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="drop-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf920924-065-p2s9w7">
@@ -2192,7 +2192,7 @@
 <LM>w#w-mf920924-065-p2s10w17</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920924-065-p2s10w18">
 <src.rf>manual</src.rf>
@@ -2232,7 +2232,7 @@
 <LM>w#w-mf920924-065-p2s10w22</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-mf920924-065-p2s10w23">
 <src.rf>manual</src.rf>
@@ -2306,7 +2306,7 @@
 <LM>w#w-mf920924-065-p2s11w2</LM>
 </w.rf>
 <form>horší</form>
-<tag lemma="špatný" src="orig" selected="1">AAFS1----2A----</tag>
+<tag lemma="horší" src="orig" selected="1">AAFS1----2A----</tag>
 </m>
 <m id="m-mf920924-065-p2s11w3">
 <src.rf>manual</src.rf>
@@ -2458,7 +2458,7 @@
 <LM>w#w-mf920924-065-p2s12w10</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf920924-065-p2s12w11">
 <src.rf>manual</src.rf>
@@ -2474,7 +2474,7 @@
 <LM>w#w-mf920924-065-p2s12w12</LM>
 </w.rf>
 <form>dlouhá</form>
-<tag lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">AANP4----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AANP4----1A----</tag>
 </m>
 <m id="m-mf920924-065-p2s12w13">
 <src.rf>manual</src.rf>
@@ -2482,7 +2482,7 @@
 <LM>w#w-mf920924-065-p2s12w13</LM>
 </w.rf>
 <form>léta</form>
-<tag lemma="rok" src="orig" selected="1">NNNP4-----A---2</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP4-----A---2</tag>
 </m>
 <m id="m-mf920924-065-p2s12w14">
 <src.rf>manual</src.rf>

@@ -828,7 +828,7 @@
 <LM>w#w-mf930708-012-p2s4w17</LM>
 </w.rf>
 <form>zaměstnávání</form>
-<tag lemma="zaměstnávání-1_^(všeob._význam:_činnost,_zaměstnání)_(*5at-1)" src="auto" selected="1">NNNS4-----A----</tag>
+<tag lemma="zaměstnávání_^(*3at)" src="auto" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-mf930708-012-p2s4w18">
 <src.rf>manual</src.rf>
@@ -982,7 +982,7 @@
 <LM>w#w-mf930708-012-p2s5w15</LM>
 </w.rf>
 <form>zaměstnání</form>
-<tag lemma="zaměstnání-1_^(všeob._význam:_činnost,_zaměstnání)_(*5at-1)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="zaměstnání_^(*3at)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-mf930708-012-p2s5w16">
 <src.rf>manual</src.rf>
@@ -1308,7 +1308,7 @@
 <LM>w#w-mf930708-012-p2s7w15</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-mf930708-012-p2s7w16">
 <src.rf>manual</src.rf>
@@ -1414,7 +1414,7 @@
 <LM>w#w-mf930708-012-p2s8w5</LM>
 </w.rf>
 <form>naše</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSHP1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSHP1-P1-------</tag>
 </m>
 <m id="m-mf930708-012-p2s8w6">
 <src.rf>manual</src.rf>

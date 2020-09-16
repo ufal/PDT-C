@@ -49,7 +49,7 @@
 <AM lemma="Apollo_;Y_,t" src="auto">NNMS5-----A----</AM>
 <AM lemma="apollo_;U_,t" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="Apollo-2_;m_,t" src="manual">NNNS1-----A----</AM>
-<AM lemma="Apollo-2_;m" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="Apollo-1_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-138-p1s1w5">

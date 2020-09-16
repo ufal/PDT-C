@@ -291,7 +291,7 @@
 <LM>w#w-mf920924-151-p1s2w3</LM>
 </w.rf>
 <form>dlouhé</form>
-<tag lemma="dlouhý-1_^(fyz._délka;_př._dlouhá_tyč)" src="orig" selected="1">AANS1----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AANS1----1A----</tag>
 </m>
 <m id="m-mf920924-151-p1s2w4">
 <src.rf>manual</src.rf>
@@ -547,7 +547,7 @@
 <LM>w#w-mf920924-151-p1s2w35</LM>
 </w.rf>
 <form>Černé</form>
-<tag lemma="černý" src="auto" selected="1">AANS4----1A----</tag>
+<tag lemma="černý_;o" src="auto" selected="1">AANS4----1A----</tag>
 </m>
 <m id="m-mf920924-151-p1s2w36">
 <src.rf>manual</src.rf>
@@ -727,7 +727,7 @@
 <LM>w#w-mf920924-151-p1s4w5</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-mf920924-151-p1s4w6">
 <src.rf>manual</src.rf>
@@ -745,7 +745,7 @@
 <LM>w#w-mf920924-151-p1s5w1</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrIS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS4----------</tag>
 </m>
 <m id="m-mf920924-151-p1s5w2">
 <src.rf>manual</src.rf>

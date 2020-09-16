@@ -227,7 +227,7 @@
 <LM>w#w-ln94201-83-p3s1w1</LM>
 </w.rf>
 <form>Moc</form>
-<tag lemma="moc-3_^(velmi,_ve_spojení_s_adj.,_př._moc_hezká)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="moc-3_^(moc_hezká,_moc_peněz)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94201-83-p3s1w2">
 <src.rf>manual</src.rf>
@@ -235,7 +235,7 @@
 <LM>w#w-ln94201-83-p3s1w2</LM>
 </w.rf>
 <form>ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94201-83-p3s1w3">
 <src.rf>manual</src.rf>
@@ -386,7 +386,7 @@
 <form>hodně</form>
 <tag>
 <AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="hodně_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-83-p3s3w5">
@@ -525,7 +525,7 @@
 <LM>w#w-ln94201-83-p3s4w15</LM>
 </w.rf>
 <form>dlouhé</form>
-<tag lemma="dlouhý-1_^(fyz._délka;_př._dlouhá_tyč)" src="orig" selected="1">AANS1----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AANS1----1A----</tag>
 </m>
 <m id="m-ln94201-83-p3s4w16">
 <src.rf>manual</src.rf>
@@ -866,7 +866,7 @@
 <LM>w#w-ln94201-83-p4s2w13</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS2---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS2---------1</tag>
 </m>
 <m id="m-ln94201-83-p4s2w14">
 <src.rf>manual</src.rf>
@@ -1150,7 +1150,7 @@
 <LM>w#w-ln94201-83-p4s4w1</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrIS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS4----------</tag>
 </m>
 <m id="m-ln94201-83-p4s4w2">
 <src.rf>manual</src.rf>
@@ -1184,7 +1184,7 @@
 <LM>w#w-ln94201-83-p5s1w1</LM>
 </w.rf>
 <form>Dlouhý</form>
-<tag lemma="dlouhý-1_^(fyz._délka;_př._dlouhá_tyč)" src="orig" selected="1">AAIS4----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAIS4----1A----</tag>
 </m>
 <m id="m-ln94201-83-p5s1w2">
 <src.rf>manual</src.rf>
@@ -1300,7 +1300,7 @@
 <LM>w#w-ln94201-83-p5s1w15</LM>
 </w.rf>
 <form>druhý</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS1----------</tag>
 </m>
 <m id="m-ln94201-83-p5s1w16">
 <src.rf>manual</src.rf>
@@ -1460,7 +1460,7 @@
 <form>hodně</form>
 <tag>
 <AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="hodně_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-83-p5s4w4">

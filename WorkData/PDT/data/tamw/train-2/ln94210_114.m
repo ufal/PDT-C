@@ -702,7 +702,7 @@
 <LM>w#w-ln94210-114-p2s3w21</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS2---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS2---------1</tag>
 </m>
 <m id="m-ln94210-114-p2s3w22">
 <src.rf>manual</src.rf>

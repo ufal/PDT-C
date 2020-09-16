@@ -118,7 +118,7 @@
 <LM>w#w-ln94207-24-p1s1Aw13</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS2---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS2---------1</tag>
 </m>
 <m id="m-ln94207-24-p1s1Aw14">
 <src.rf>manual</src.rf>
@@ -127,7 +127,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 </s>
 <s id="m-ln94207-24-p1s1B">

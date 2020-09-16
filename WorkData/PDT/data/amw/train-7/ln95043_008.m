@@ -163,7 +163,7 @@
 <LM>w#w-ln95043-008-p2s1Bw7</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-ln95043-008-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -592,7 +592,7 @@
 <LM>w#w-ln95043-008-p2s3w8</LM>
 </w.rf>
 <form>manažer</form>
-<tag lemma="manažer" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="manažer-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-008-p2s3w9">
 <src.rf>manual</src.rf>
@@ -957,7 +957,7 @@
 <LM>w#w-ln95043-008-p3s3w5</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-ln95043-008-p3s3w6">
 <src.rf>manual</src.rf>
@@ -1193,7 +1193,7 @@
 <LM>w#w-ln95043-008-p3s5w8</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-ln95043-008-p3s5w9">
 <src.rf>manual</src.rf>
@@ -1249,7 +1249,7 @@
 <LM>w#w-ln95043-008-p3s5w15</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln95043-008-p3s5w16">
 <src.rf>manual</src.rf>
@@ -1331,7 +1331,7 @@
 <LM>w#w-ln95043-008-p3s6w1</LM>
 </w.rf>
 <form>Úvodních</form>
-<tag lemma="úvodní_,s" src="auto" selected="1">AANP2----1A----</tag>
+<tag lemma="úvodní" src="auto" selected="1">AANP2----1A----</tag>
 </m>
 <m id="m-ln95043-008-p3s6w2">
 <src.rf>manual</src.rf>
@@ -1589,7 +1589,7 @@
 <LM>w#w-ln95043-008-p3s7w13</LM>
 </w.rf>
 <form>starostí</form>
-<tag lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="starost-2_^(*5ý-2)" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln95043-008-p3s7w14">
 <src.rf>manual</src.rf>
@@ -1779,7 +1779,7 @@
 <LM>w#w-ln95043-008-p3s10w6</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrIP4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIP4----------</tag>
 </m>
 <m id="m-ln95043-008-p3s10w7">
 <src.rf>manual</src.rf>

@@ -114,7 +114,7 @@
 <LM>w#w-ln94208-132-p2s1Bw2</LM>
 </w.rf>
 <form>našeho</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSZS2-P1-------</tag>
 </m>
 <m id="m-ln94208-132-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -1251,7 +1251,7 @@
 <LM>w#w-ln94208-132-p3s6w5</LM>
 </w.rf>
 <form>lepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAMS1----2A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAMS1----2A----</tag>
 </m>
 <m id="m-ln94208-132-p3s6w6">
 <src.rf>manual</src.rf>
@@ -2083,7 +2083,7 @@
 <LM>w#w-ln94208-132-p5s4w7</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-ln94208-132-p5s4w8">
 <src.rf>manual</src.rf>
@@ -2523,7 +2523,7 @@
 <LM>w#w-ln94208-132-p6s1w7</LM>
 </w.rf>
 <form>roli</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="role_^(svitek_poslání_pozemek)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94208-132-p6s1w8">
 <src.rf>manual</src.rf>
@@ -2621,7 +2621,7 @@
 <LM>w#w-ln94208-132-p6s2w10</LM>
 </w.rf>
 <form>Slováci</form>
-<tag lemma="Slovák_;E" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="Slovák_;E_;Y" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln94208-132-p6s2w11">
 <src.rf>manual</src.rf>
@@ -2778,7 +2778,7 @@
 <LM>w#w-ln94208-132-p6s3w5</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP2-P1-------</tag>
 </m>
 <m id="m-ln94208-132-p6s3w6">
 <src.rf>manual</src.rf>

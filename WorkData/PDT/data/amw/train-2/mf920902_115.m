@@ -545,7 +545,7 @@
 <LM>w#w-mf920902-115-p2s3w4</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf920902-115-p2s3w5">
 <src.rf>manual</src.rf>
@@ -756,7 +756,7 @@
 <LM>w#w-mf920902-115-p2s4w2</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf920902-115-p2s4w3">
 <src.rf>manual</src.rf>
@@ -937,7 +937,7 @@
 <LM>w#w-mf920902-115-p2s5w7</LM>
 </w.rf>
 <form>vyvážející</form>
-<tag lemma="vyvážející_^(zboží_přes_hranice)_(*4t)" src="orig" selected="1">AGIS1-----A----</tag>
+<tag lemma="vyvážející_^(*4t)" src="orig" selected="1">AGIS1-----A----</tag>
 </m>
 <m id="m-mf920902-115-p2s5w8">
 <src.rf>manual</src.rf>
@@ -1145,7 +1145,7 @@
 <LM>w#w-mf920902-115-p2s6w6</LM>
 </w.rf>
 <form>zlatou</form>
-<tag lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAFS4----1A----</tag>
+<tag lemma="zlatý-1_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-mf920902-115-p2s6w7">
 <src.rf>manual</src.rf>
@@ -2314,7 +2314,7 @@
 <LM>w#w-mf920902-115-p2s12w11</LM>
 </w.rf>
 <form>výzbroji</form>
-<tag lemma="výzbroj" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="výzbroj-1" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf920902-115-p2s12w12">
 <src.rf>manual</src.rf>

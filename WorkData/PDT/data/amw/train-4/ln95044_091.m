@@ -405,7 +405,7 @@
 <LM>w#w-ln95044-091-p2s2w11</LM>
 </w.rf>
 <form>vypadajícími</form>
-<tag lemma="vypadající_^(*4t)" src="orig" selected="1">AGMP7-----A----</tag>
+<tag lemma="vypadající-1_^(*6t-1)" src="orig" selected="1">AGMP7-----A----</tag>
 </m>
 <m id="m-ln95044-091-p2s2w12">
 <src.rf>manual</src.rf>
@@ -691,7 +691,7 @@
 <LM>w#w-ln95044-091-p3s2w9</LM>
 </w.rf>
 <form>členové</form>
-<tag lemma="člen" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln95044-091-p3s2w10">
 <src.rf>manual</src.rf>
@@ -864,7 +864,7 @@
 <LM>w#w-ln95044-091-p3s3w11</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-ln95044-091-p3s3w12">
 <src.rf>manual</src.rf>
@@ -1132,7 +1132,7 @@
 <LM>w#w-ln95044-091-p3s5w3</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FP4---------1</tag>
 </m>
 <m id="m-ln95044-091-p3s5w4">
 <src.rf>manual</src.rf>
@@ -1454,7 +1454,7 @@
 <LM>w#w-ln95044-091-p3s6w25</LM>
 </w.rf>
 <form>dál</form>
-<tag lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="dál-3_,s_^(také,_za_další)_(^DD**dále-3)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95044-091-p3s6w26">
 <src.rf>manual</src.rf>
@@ -2131,7 +2131,7 @@
 <LM>w#w-ln95044-091-p3s12w4</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-ln95044-091-p3s12w5">
 <src.rf>manual</src.rf>
@@ -2487,7 +2487,7 @@
 <LM>w#w-ln95044-091-p4s1w17</LM>
 </w.rf>
 <form>lety</form>
-<tag lemma="rok" src="orig" selected="1">NNNP7-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP7-----A----</tag>
 </m>
 <m id="m-ln95044-091-p4s1w18">
 <src.rf>manual</src.rf>

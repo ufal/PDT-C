@@ -272,7 +272,7 @@
 <LM>w#w-ln94203-53-p2s1Bw17</LM>
 </w.rf>
 <form>stojí</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94203-53-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -357,7 +357,7 @@
 <LM>w#w-ln94203-53-p2s2w5</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-53-p2s2w6">
 <src.rf>manual</src.rf>
@@ -1236,7 +1236,7 @@
 <LM>w#w-ln94203-53-p4s3w3</LM>
 </w.rf>
 <form>anonym</form>
-<tag lemma="anonym" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="anonym-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-53-p4s3w4">
 <src.rf>manual</src.rf>
@@ -1382,7 +1382,7 @@
 <LM>w#w-ln94203-53-p4s4w11</LM>
 </w.rf>
 <form>vězením</form>
-<tag lemma="vězení_,a_^(místo_výkonu_trestu)" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="vězení_^(místo_výkonu_trestu)" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-ln94203-53-p4s4w12">
 <src.rf>manual</src.rf>
@@ -1422,7 +1422,7 @@
 <LM>w#w-ln94203-53-p4s4w16</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94203-53-p4s4w17">
 <src.rf>manual</src.rf>
@@ -1523,7 +1523,7 @@
 <LM>w#w-ln94203-53-p4s5w8</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-ln94203-53-p4s5w9">
 <src.rf>manual</src.rf>
@@ -1587,7 +1587,7 @@
 <LM>w#w-ln94203-53-p4s5w16</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94203-53-p4s5w17">
 <src.rf>manual</src.rf>
@@ -2015,7 +2015,7 @@
 <LM>w#w-ln94203-53-p5s2w16</LM>
 </w.rf>
 <form>pozornost</form>
-<tag lemma="pozornost-1_^(všímavý,_milý,_soustředěný)_(*5ý-1)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="pozornost-1_^(*5ý-1)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94203-53-p5s2w17">
 <src.rf>manual</src.rf>

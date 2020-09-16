@@ -399,7 +399,7 @@
 <LM>w#w-mf920923-051-p2s3w12</LM>
 </w.rf>
 <form>Slovanu</form>
-<tag lemma="Slovan-2_;m" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Slovan-2_;G_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920923-051-p2s3w13">
 <src.rf>manual</src.rf>

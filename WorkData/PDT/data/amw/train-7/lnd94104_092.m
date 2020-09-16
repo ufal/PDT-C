@@ -200,7 +200,7 @@
 <LM>w#w-lnd94104-092-p1s1Cw20</LM>
 </w.rf>
 <form>představení</form>
-<tag lemma="představení-2_^(divadelní,_filmové_apod.)" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="představení-1_^(*5it-1)" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd94104-092-p1s1Cw21">
 <src.rf>manual</src.rf>
@@ -542,7 +542,7 @@
 <LM>w#w-lnd94104-092-p1s3Bw9</LM>
 </w.rf>
 <form>prvního</form>
-<tag lemma="první" src="orig" selected="1">CrIS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS2----------</tag>
 </m>
 <m id="m-lnd94104-092-p1s3Bw10">
 <src.rf>manual</src.rf>
@@ -662,7 +662,7 @@
 <AM lemma="starost-1" src="auto">NNFS2-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFS3-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFS5-----A----</AM>
-<AM lemma="starost-1" src="auto" recommended="1" selected="1">NNFS6-----A----</AM>
+<AM lemma="starost-2_^(*5ý-2)" src="auto" recommended="1" selected="1">NNFS6-----A----</AM>
 <AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto">NNFP1-----A----</AM>
 <AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto">NNFP4-----A----</AM>
 <AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto">NNFP5-----A----</AM>
@@ -938,7 +938,7 @@
 <LM>w#w-lnd94104-092-p1s5w4</LM>
 </w.rf>
 <form>nemíří</form>
-<tag lemma="mířit_^(např._pistolí;_směřovat;_tvar_slovesa)" src="orig" selected="1">VB-S---3P-NAI--</tag>
+<tag lemma="mířit" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-lnd94104-092-p1s5w5">
 <src.rf>manual</src.rf>
@@ -1162,7 +1162,7 @@
 <LM>w#w-lnd94104-092-p1s7Aw11</LM>
 </w.rf>
 <form>představení</form>
-<tag lemma="představení-2_^(divadelní,_filmové_apod.)" src="orig" selected="1">NNNP4-----A----</tag>
+<tag lemma="představení-1_^(*5it-1)" src="orig" selected="1">NNNP4-----A----</tag>
 </m>
 <m id="m-lnd94104-092-p1s7Aw12">
 <src.rf>manual</src.rf>
@@ -1398,7 +1398,7 @@
 <LM>w#w-lnd94104-092-p1s8w3</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-lnd94104-092-p1s8w4">
 <src.rf>manual</src.rf>
@@ -1685,7 +1685,7 @@
 <LM>w#w-lnd94104-092-p1s10w2</LM>
 </w.rf>
 <form>představení</form>
-<tag lemma="představení-2_^(divadelní,_filmové_apod.)" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="představení-1_^(*5it-1)" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd94104-092-p1s10w3">
 <src.rf>manual</src.rf>
@@ -1867,7 +1867,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94104-092-p1s11w11">
@@ -3046,7 +3046,7 @@
 <LM>w#w-lnd94104-092-p1s18w12</LM>
 </w.rf>
 <form>umění</form>
-<tag lemma="umění_^(mít_schopnost_něco_dělat)_(*2t)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="umění_^(*2t)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-lnd94104-092-p1s18w13">
 <src.rf>manual</src.rf>

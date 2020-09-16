@@ -863,7 +863,7 @@
 <LM>w#w-mf930703-100-p4s1w8</LM>
 </w.rf>
 <form>orgány</form>
-<tag lemma="orgán" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-mf930703-100-p4s1w9">
 <src.rf>manual</src.rf>

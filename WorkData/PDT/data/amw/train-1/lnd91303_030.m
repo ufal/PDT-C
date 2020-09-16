@@ -193,7 +193,7 @@
 <LM>w#w-lnd91303-030-p4s1w17</LM>
 </w.rf>
 <form>Karlovy</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-lnd91303-030-p4s1w18">
 <src.rf>manual</src.rf>
@@ -462,7 +462,7 @@
 <LM>w#w-lnd91303-030-p4s2w32</LM>
 </w.rf>
 <form>sex</form>
-<tag lemma="sex" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="sex-1" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-lnd91303-030-p4s2w33">
 <src.rf>manual</src.rf>
@@ -518,7 +518,7 @@
 <LM>w#w-lnd91303-030-p4s2w39</LM>
 </w.rf>
 <form>děti</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-lnd91303-030-p4s2w40">
 <src.rf>manual</src.rf>

@@ -3218,7 +3218,7 @@
 <AM lemma="Akron_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Akron_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Akron_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Akron-1_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Akron-2_;G" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2083-001-p1s9W15-Ta">

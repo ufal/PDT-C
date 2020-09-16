@@ -27,7 +27,7 @@
 <LM>w#w-ln95046-109-p1s1w2</LM>
 </w.rf>
 <form>děti</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-ln95046-109-p1s1w3">
 <src.rf>manual</src.rf>
@@ -167,7 +167,7 @@
 <LM>w#w-ln95046-109-p2s1Bw6</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrIP4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIP4----------</tag>
 </m>
 <m id="m-ln95046-109-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -225,7 +225,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -352,7 +352,7 @@
 <LM>w#w-ln95046-109-p2s2w4</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="mluvčí-2" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95046-109-p2s2w5">
 <src.rf>manual</src.rf>
@@ -397,7 +397,7 @@
 <form>Potočná</form>
 <tag>
 <AM lemma="Potočný_;Y" src="orig">NNFS1-----A----</AM>
-<AM lemma="Potočná_;Y" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
+<AM lemma="Potočná_;G_;Y" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 <AM lemma="Potočná_;Y" src="auto">NNFS5-----A----</AM>
 <AM lemma="Potočné_;G" src="auto">NNNP1-----A----</AM>
 <AM lemma="Potočné_;G" src="auto">NNNP4-----A----</AM>
@@ -547,7 +547,7 @@
 <LM>w#w-ln95046-109-p3s2w5</LM>
 </w.rf>
 <form>dohodovací</form>
-<tag lemma="dohodovací" src="auto" selected="1">AANS1----1A----</tag>
+<tag lemma="dohodovací_^(*2t)" src="auto" selected="1">AANS1----1A----</tag>
 </m>
 <m id="m-ln95046-109-p3s2w6">
 <src.rf>manual</src.rf>
@@ -815,7 +815,7 @@
 <AM lemma="Potočná_;Y" src="auto">NNFP1-----A----</AM>
 <AM lemma="Potočná_;Y" src="auto">NNFP4-----A----</AM>
 <AM lemma="Potočná_;Y" src="auto">NNFP5-----A----</AM>
-<AM lemma="Potočná_;Y" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
+<AM lemma="Potočná_;G_;Y" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
 <AM lemma="Potočná_;Y" src="auto">NNFS3-----A----</AM>
 <AM lemma="Potočná_;Y" src="auto">NNFS6-----A----</AM>
 <AM lemma="Potočné_;G" src="auto">NNNP1-----A---6</AM>
@@ -1022,7 +1022,7 @@
 <LM>w#w-ln95046-109-p4s1w1</LM>
 </w.rf>
 <form>Mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="mluvčí-2" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95046-109-p4s1w2">
 <src.rf>manual</src.rf>
@@ -1774,7 +1774,7 @@
 <form>Potočná</form>
 <tag>
 <AM lemma="Potočný_;Y" src="orig">NNFS1-----A----</AM>
-<AM lemma="Potočná_;Y" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
+<AM lemma="Potočná_;G_;Y" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 <AM lemma="Potočná_;Y" src="auto">NNFS5-----A----</AM>
 <AM lemma="Potočné_;G" src="auto">NNNP1-----A----</AM>
 <AM lemma="Potočné_;G" src="auto">NNNP4-----A----</AM>
@@ -2042,7 +2042,7 @@
 <form>Potočná</form>
 <tag>
 <AM lemma="Potočný_;Y" src="orig">NNFS1-----A----</AM>
-<AM lemma="Potočná_;Y" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
+<AM lemma="Potočná_;G_;Y" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 <AM lemma="Potočná_;Y" src="auto">NNFS5-----A----</AM>
 <AM lemma="Potočné_;G" src="auto">NNNP1-----A----</AM>
 <AM lemma="Potočné_;G" src="auto">NNNP4-----A----</AM>
@@ -2152,7 +2152,7 @@
 <LM>w#w-ln95046-109-p6s2w11</LM>
 </w.rf>
 <form>prvních</form>
-<tag lemma="první" src="orig" selected="1">CrIP2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIP2----------</tag>
 </m>
 <m id="m-ln95046-109-p6s2w12">
 <src.rf>manual</src.rf>
@@ -2315,7 +2315,7 @@
 <form>jenom</form>
 <tag>
 <AM lemma="jenom-1" src="auto">TT-------------</AM>
-<AM lemma="jenom--2_^(pouze)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="jenom-2_^(pouze)" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln95046-109-p6s3w16">
@@ -2324,7 +2324,7 @@
 <LM>w#w-ln95046-109-p6s3w16</LM>
 </w.rf>
 <form>prvních</form>
-<tag lemma="první" src="orig" selected="1">CrIP2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIP2----------</tag>
 </m>
 <m id="m-ln95046-109-p6s3w17">
 <src.rf>manual</src.rf>
@@ -2356,7 +2356,7 @@
 <LM>w#w-ln95046-109-p6s3w20</LM>
 </w.rf>
 <form>daném</form>
-<tag lemma="daný_^(*3át)" src="auto" selected="1">AAIS6----1A----</tag>
+<tag lemma="daný-1_^(*5át-1)" src="auto" selected="1">AAIS6----1A----</tag>
 </m>
 <m id="m-ln95046-109-p6s3w21">
 <src.rf>manual</src.rf>
@@ -2438,7 +2438,7 @@
 <LM>w#w-ln95046-109-p6s4w8</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln95046-109-p6s4w9">
 <src.rf>manual</src.rf>
@@ -2472,7 +2472,7 @@
 <LM>w#w-ln95046-109-p6s5w3</LM>
 </w.rf>
 <form>třeba</form>
-<tag lemma="třeba-2" src="auto" selected="1">Db-------------</tag>
+<tag lemma="třeba-1" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95046-109-p6s5w4">
 <src.rf>manual</src.rf>
@@ -2527,7 +2527,7 @@
 <form>Potočná</form>
 <tag>
 <AM lemma="Potočný_;Y" src="orig">NNFS1-----A----</AM>
-<AM lemma="Potočná_;Y" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
+<AM lemma="Potočná_;G_;Y" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 <AM lemma="Potočná_;Y" src="auto">NNFS5-----A----</AM>
 <AM lemma="Potočné_;G" src="auto">NNNP1-----A----</AM>
 <AM lemma="Potočné_;G" src="auto">NNNP4-----A----</AM>
@@ -2644,7 +2644,7 @@
 <LM>w#w-ln95046-109-p6s6w15</LM>
 </w.rf>
 <form>dny</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-ln95046-109-p6s6w16">
 <src.rf>manual</src.rf>

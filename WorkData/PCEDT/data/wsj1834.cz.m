@@ -272,7 +272,7 @@
 <tag>
 <AM lemma="Trident_;m" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Trident_;m" src="auto">NNIS4-----A----</AM>
-<AM lemma="Trident_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Trident_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1834-001-p1s0W24-Ta">
@@ -389,7 +389,7 @@
 <AM lemma="program-1" src="auto">NNIS2-----A----</AM>
 <AM lemma="program-1" src="auto">NNIS3-----A----</AM>
 <AM lemma="program-1" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="program" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="program-1" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1834-001-p1s0W33-Ta">
@@ -870,7 +870,7 @@
 </w.rf>
 <form>satelitů</form>
 <tag>
-<AM lemma="satelit" src="auto" recommended="1">NNIP2-----A----</AM>
+<AM lemma="satelit-1" src="auto" recommended="1">NNIP2-----A----</AM>
 <AM lemma="satelit" src="auto">NNMP2-----A----</AM>
 </tag>
 </m>
@@ -1162,7 +1162,7 @@
 <AM lemma="program-1" src="auto">NNIS2-----A----</AM>
 <AM lemma="program-1" src="auto">NNIS3-----A----</AM>
 <AM lemma="program-1" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="program" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="program-1" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1834-001-p1s3W23-Ta">

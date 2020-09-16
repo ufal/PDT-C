@@ -332,7 +332,7 @@
 </w.rf>
 <form>děti</form>
 <tag>
-<AM lemma="dítě" src="auto" recommended="1">NNFP1-----A----</AM>
+<AM lemma="dítě-2" src="auto" recommended="1">NNFP1-----A----</AM>
 <AM lemma="dítě" src="auto">NNFP4-----A----</AM>
 <AM lemma="dítě" src="auto">NNFP5-----A----</AM>
 </tag>
@@ -2332,7 +2332,7 @@
 <LM>w#w-d1t1711-3</LM>
 </w.rf>
 <form>dal</form>
-<tag lemma="dát" src="auto" recommended="1">VpYS----R-AAP--</tag>
+<tag lemma="dát-1" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m045-d1t1711-4">
 <w.rf>
@@ -2344,7 +2344,7 @@
 <AM lemma="štamprdle_,h_,x" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="štamprdle_,h_,x" src="auto">NNFS6-----A----</AM>
 <AM lemma="štamprle_,h" src="auto">NNFS3-----A----</AM>
-<AM lemma="štamprle_,h" src="auto" selected="1">NNFS4-----A----</AM>
+<AM lemma="štamprle-2_,h" src="auto" selected="1">NNFS4-----A----</AM>
 <AM lemma="štamprle_,h" src="auto">NNFS6-----A----</AM>
 </tag>
 </m>
@@ -3100,7 +3100,7 @@
 <tag>
 <AM lemma="jenom-1" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="jenom-2_^(pouze)" src="auto">Db-------------</AM>
-<AM lemma="jenom-2_,s_^(^DD**jen-4)_(pouze)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="jenom-2_^(pouze)" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m045-d1t1777-14">
@@ -3445,7 +3445,7 @@
 <tag>
 <AM lemma="jenom-1" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="jenom-2_^(pouze)" src="auto">Db-------------</AM>
-<AM lemma="jenom-2_,s_^(^DD**jen-4)_(pouze)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="jenom-2_^(pouze)" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m045-d1t1790-17">
@@ -3612,7 +3612,7 @@
 <tag>
 <AM lemma="jenom-1" src="auto">TT-------------</AM>
 <AM lemma="jenom-2_^(pouze)" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="jenom-2_,s_^(^DD**jen-4)_(pouze)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="jenom-2_^(pouze)" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m045-d1t1807-5">

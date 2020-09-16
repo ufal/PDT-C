@@ -190,7 +190,7 @@
 <LM>w#w-ln94209-72-p2s2w5</LM>
 </w.rf>
 <form>naší</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS6-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS6-P1-------</tag>
 </m>
 <m id="m-ln94209-72-p2s2w6">
 <src.rf>manual</src.rf>
@@ -1160,7 +1160,7 @@
 </w.rf>
 <form>Es</form>
 <tag>
-<AM lemma="es_^(nota)" src="orig" selected="1">NNNXX-----A----</AM>
+<AM lemma="es-1" src="orig" selected="1">NNNXX-----A----</AM>
 <AM lemma="eso" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
@@ -1841,7 +1841,7 @@
 <LM>w#w-ln94209-72-p3s8w14</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-ln94209-72-p3s8w15">
 <src.rf>manual</src.rf>

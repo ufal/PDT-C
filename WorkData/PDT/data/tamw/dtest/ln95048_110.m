@@ -191,7 +191,7 @@
 <LM>w#w-ln95048-110-p2s1Bw15</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-ln95048-110-p2s1Bw16">
 <src.rf>manual</src.rf>
@@ -818,7 +818,7 @@
 <LM>w#w-ln95048-110-p2s5w21</LM>
 </w.rf>
 <form>Zlatého</form>
-<tag lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAIS2----1A----</tag>
+<tag lemma="zlatý-1_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-ln95048-110-p2s5w22">
 <src.rf>manual</src.rf>

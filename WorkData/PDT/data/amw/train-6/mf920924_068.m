@@ -135,7 +135,7 @@
 <LM>w#w-mf920924-068-p2s2w3</LM>
 </w.rf>
 <form>ftalátu</form>
-<tag lemma="ftalát_;U" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="ftalát" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920924-068-p2s2w4">
 <src.rf>manual</src.rf>
@@ -143,7 +143,7 @@
 <LM>w#w-mf920924-068-p2s2w4</LM>
 </w.rf>
 <form>dibutylnatého</form>
-<tag lemma="dibutylnatý_;U" src="orig" selected="1">AAIS2----1A----</tag>
+<tag lemma="dibutylnatý" src="orig" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-mf920924-068-p2s2w5">
 <src.rf>manual</src.rf>
@@ -209,7 +209,7 @@
 <LM>w#w-mf920924-068-p2s3w1</LM>
 </w.rf>
 <form>Ftalát</form>
-<tag lemma="ftalát_;U" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="ftalát" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920924-068-p2s3w2">
 <src.rf>manual</src.rf>
@@ -329,7 +329,7 @@
 <LM>w#w-mf920924-068-p2s3w16</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf920924-068-p2s3w17">
 <src.rf>manual</src.rf>
@@ -526,7 +526,7 @@
 <LM>w#w-mf920924-068-p2s4w4</LM>
 </w.rf>
 <form>ftalát</form>
-<tag lemma="ftalát_;U" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="ftalát" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920924-068-p2s4w5">
 <src.rf>manual</src.rf>
@@ -752,7 +752,7 @@
 <LM>w#w-mf920924-068-p2s5w11</LM>
 </w.rf>
 <form>ftalátu</form>
-<tag lemma="ftalát_;U" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="ftalát" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920924-068-p2s5w12">
 <src.rf>manual</src.rf>
@@ -851,7 +851,7 @@
 <LM>w#w-mf920924-068-p2s5w23</LM>
 </w.rf>
 <form>nedají</form>
-<tag lemma="dát" src="orig" selected="1">VB-P---3P-NAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VB-P---3P-NAP--</tag>
 </m>
 <m id="m-mf920924-068-p2s5w24">
 <src.rf>manual</src.rf>
@@ -1484,7 +1484,7 @@
 <LM>w#w-mf920924-068-p2s8w29</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-mf920924-068-p2s8w30">
 <src.rf>manual</src.rf>

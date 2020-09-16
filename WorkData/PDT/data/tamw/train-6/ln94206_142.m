@@ -43,7 +43,7 @@
 <LM>w#w-ln94206-142-p1s1w4</LM>
 </w.rf>
 <form>zjednodušení</form>
-<tag lemma="zjednodušení_,s_^(*2t)" src="auto" selected="1">NNNS6-----A----</tag>
+<tag lemma="zjednodušení_^(*2t)_(*3it)" src="auto" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-ln94206-142-p1s1w5">
 <src.rf>manual</src.rf>
@@ -95,7 +95,7 @@
 <LM>w#w-ln94206-142-p2s1Bw3</LM>
 </w.rf>
 <form>zjednodušení</form>
-<tag lemma="zjednodušení_,s_^(*2t)" src="auto" selected="1">NNNS4-----A----</tag>
+<tag lemma="zjednodušení_^(*2t)_(*3it)" src="auto" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln94206-142-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -419,7 +419,7 @@
 <LM>w#w-ln94206-142-p2s3w13</LM>
 </w.rf>
 <form>zjednodušení</form>
-<tag lemma="zjednodušení_,s_^(*2t)" src="auto" selected="1">NNNS3-----A----</tag>
+<tag lemma="zjednodušení_^(*2t)_(*3it)" src="auto" selected="1">NNNS3-----A----</tag>
 </m>
 <m id="m-ln94206-142-p2s3w14">
 <src.rf>manual</src.rf>
@@ -706,7 +706,7 @@
 <LM>w#w-ln94206-142-p4s1w5</LM>
 </w.rf>
 <form>zjednodušení</form>
-<tag lemma="zjednodušení_,s_^(*2t)" src="auto" selected="1">NNNS4-----A----</tag>
+<tag lemma="zjednodušení_^(*2t)_(*3it)" src="auto" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln94206-142-p4s1w6">
 <src.rf>manual</src.rf>

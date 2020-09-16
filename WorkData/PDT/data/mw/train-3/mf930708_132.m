@@ -218,7 +218,7 @@
 <LM>w#w-mf930708-132-p2s2w10</LM>
 </w.rf>
 <form>nejlepšího</form>
-<tag lemma="dobrý" src="orig" selected="1">AAIS2----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAIS2----3A----</tag>
 </m>
 <m id="m-mf930708-132-p2s2w11">
 <src.rf>manual</src.rf>
@@ -643,7 +643,7 @@
 <LM>w#w-mf930708-132-p2s6w2</LM>
 </w.rf>
 <form>nejlepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAIP4----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAIP4----3A----</tag>
 </m>
 <m id="m-mf930708-132-p2s6w3">
 <src.rf>manual</src.rf>

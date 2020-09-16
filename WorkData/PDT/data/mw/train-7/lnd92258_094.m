@@ -149,7 +149,7 @@
 <LM>w#w-lnd92258-094-p2s1w15</LM>
 </w.rf>
 <form>lahve</form>
-<tag lemma="lahev" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="lahev_,s_^(^DD**láhev)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92258-094-p2s1w16">
 <src.rf>manual</src.rf>
@@ -287,7 +287,7 @@
 <LM>w#w-lnd92258-094-p2s2w9</LM>
 </w.rf>
 <form>lahev</form>
-<tag lemma="lahev" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="lahev_,s_^(^DD**láhev)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-lnd92258-094-p2s2w10">
 <src.rf>manual</src.rf>

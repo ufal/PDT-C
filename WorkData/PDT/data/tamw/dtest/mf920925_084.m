@@ -366,7 +366,7 @@
 <LM>w#w-mf920925-084-p2s4w3</LM>
 </w.rf>
 <form>členům</form>
-<tag lemma="člen" src="orig" selected="1">NNMP3-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP3-----A----</tag>
 </m>
 <m id="m-mf920925-084-p2s4w4">
 <src.rf>manual</src.rf>
@@ -935,7 +935,7 @@
 <LM>w#w-mf920925-084-p2s7w17</LM>
 </w.rf>
 <form>vydáním</form>
-<tag lemma="vydání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="vydání_^(*3at)" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-mf920925-084-p2s7w18">
 <src.rf>manual</src.rf>

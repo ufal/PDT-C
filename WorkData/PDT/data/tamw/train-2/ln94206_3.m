@@ -346,7 +346,7 @@
 <LM>w#w-ln94206-3-p2s2w6</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS3---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS3---------1</tag>
 </m>
 <m id="m-ln94206-3-p2s2w7">
 <src.rf>manual</src.rf>
@@ -1175,7 +1175,7 @@
 <LM>w#w-ln94206-3-p5s1w5</LM>
 </w.rf>
 <form>exkluzivní</form>
-<tag lemma="exkluzivní" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="exkluzivní_,s_^(^DD**exkluzívní)" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-ln94206-3-p5s1w6">
 <src.rf>manual</src.rf>
@@ -1732,7 +1732,7 @@
 <LM>w#w-ln94206-3-p6s1w15</LM>
 </w.rf>
 <form>správnost</form>
-<tag lemma="správnost_^(podle_něj._měřítek;_př._chlap,_míra,...)_(*3ý)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="správnost_^(*3ý)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94206-3-p6s1w16">
 <src.rf>manual</src.rf>
@@ -1910,7 +1910,7 @@
 <LM>w#w-ln94206-3-p6s2w19</LM>
 </w.rf>
 <form>nalezenému</form>
-<tag lemma="nalezený-2_^(*7ézt-2)" src="auto" selected="1">AAMS3----1A----</tag>
+<tag lemma="nalezený" src="auto" selected="1">AAMS3----1A----</tag>
 </m>
 <m id="m-ln94206-3-p6s2w20">
 <src.rf>manual</src.rf>

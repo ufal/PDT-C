@@ -271,7 +271,7 @@
 <LM>w#w-ln95048-100-p2s2w7</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrIP1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIP1----------</tag>
 </m>
 <m id="m-ln95048-100-p2s2w8">
 <src.rf>manual</src.rf>
@@ -380,7 +380,7 @@
 <LM>w#w-ln95048-100-p2s3w8</LM>
 </w.rf>
 <form>sekretář</form>
-<tag lemma="sekretář" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="sekretář-2" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-100-p2s3w9">
 <src.rf>manual</src.rf>

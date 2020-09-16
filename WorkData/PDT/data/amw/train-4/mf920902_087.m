@@ -343,7 +343,7 @@
 <LM>w#w-mf920902-087-p2s3w4</LM>
 </w.rf>
 <form>členové</form>
-<tag lemma="člen" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf920902-087-p2s3w5">
 <src.rf>manual</src.rf>

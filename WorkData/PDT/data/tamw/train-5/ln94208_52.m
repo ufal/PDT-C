@@ -54,7 +54,7 @@
 <LM>w#w-ln94208-52-p1s1w5</LM>
 </w.rf>
 <form>práva</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNP4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNP4-----A----</tag>
 </m>
 <m id="m-ln94208-52-p1s1w6">
 <src.rf>manual</src.rf>
@@ -149,7 +149,7 @@
 <LM>w#w-ln94208-52-p2s1Bw5</LM>
 </w.rf>
 <form>rozvodovost</form>
-<tag lemma="rozvodovost-1_^(souv._s_rozvodem_manželství)_(*5ý-1)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="rozvodovost_^(*3ý)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94208-52-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -936,7 +936,7 @@
 <LM>w#w-ln94208-52-p2s5w8</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94208-52-p2s5w9">
 <src.rf>manual</src.rf>

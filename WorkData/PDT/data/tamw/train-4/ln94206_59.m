@@ -269,7 +269,7 @@
 <LM>w#w-ln94206-59-p2s1Bw20</LM>
 </w.rf>
 <form>Davida</form>
-<tag lemma="David_;Y" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="David-1_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94206-59-p2s1Bw21">
 <src.rf>manual</src.rf>
@@ -566,7 +566,7 @@
 <LM>w#w-ln94206-59-p2s4w4</LM>
 </w.rf>
 <form>David</form>
-<tag lemma="David_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="David-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-59-p2s4w5">
 <src.rf>manual</src.rf>
@@ -856,7 +856,7 @@
 <LM>w#w-ln94206-59-p2s5w14</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94206-59-p2s5w15">
 <src.rf>manual</src.rf>

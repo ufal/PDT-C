@@ -114,7 +114,7 @@
 <LM>w#w-ln94207-43-p2s1Bw1</LM>
 </w.rf>
 <form>Ač</form>
-<tag lemma="ač" src="orig" selected="1">J,-------------</tag>
+<tag lemma="ač-1" src="orig" selected="1">J,-------------</tag>
 </m>
 <m id="m-ln94207-43-p2s1Bw2">
 <src.rf>manual</src.rf>
@@ -251,7 +251,7 @@
 <LM>w#w-ln94207-43-p2s1Bw17</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-ln94207-43-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -1083,7 +1083,7 @@
 <LM>w#w-ln94207-43-p2s7w16</LM>
 </w.rf>
 <form>vypjaté</form>
-<tag lemma="vypjatý_^(*4nout)" src="auto" selected="1">AAIP4----1A----</tag>
+<tag lemma="vypjatý" src="auto" selected="1">AAIP4----1A----</tag>
 </m>
 <m id="m-ln94207-43-p2s7w17">
 <src.rf>manual</src.rf>

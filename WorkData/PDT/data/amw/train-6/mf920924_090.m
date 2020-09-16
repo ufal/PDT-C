@@ -207,7 +207,7 @@
 <LM>w#w-mf920924-090-p2s2w6</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-mf920924-090-p2s2w7">
 <src.rf>manual</src.rf>
@@ -492,7 +492,7 @@
 <LM>w#w-mf920924-090-p2s4w4</LM>
 </w.rf>
 <form>nejlepšího</form>
-<tag lemma="dobrý" src="orig" selected="1">AAMS2----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAMS2----3A----</tag>
 </m>
 <m id="m-mf920924-090-p2s4w5">
 <src.rf>manual</src.rf>
@@ -792,7 +792,7 @@
 <LM>w#w-mf920924-090-p2s6w11</LM>
 </w.rf>
 <form>líp</form>
-<tag lemma="dobře" src="orig" selected="1">Dg-------2A---1</tag>
+<tag lemma="lépe" src="orig" selected="1">Dg-------2A---1</tag>
 </m>
 <m id="m-mf920924-090-p2s6w12">
 <src.rf>manual</src.rf>
@@ -973,7 +973,7 @@
 <LM>w#w-mf920924-090-p2s7w14</LM>
 </w.rf>
 <form>pomyšlení</form>
-<tag lemma="pomyšlení_^(*5slet)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="pomyšlení_^(*5slit)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-mf920924-090-p2s7w15">
 <src.rf>manual</src.rf>

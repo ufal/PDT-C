@@ -200,7 +200,7 @@
 <LM>w#w-lnd92251-112-p2s1w20</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-lnd92251-112-p2s1w21">
 <src.rf>manual</src.rf>
@@ -232,7 +232,7 @@
 <LM>w#w-lnd92251-112-p2s1w24</LM>
 </w.rf>
 <form>handicapu</form>
-<tag lemma="handicap" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="handicap_,s_^(^DD**hendikep)" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-lnd92251-112-p2s1w25">
 <src.rf>manual</src.rf>
@@ -629,7 +629,7 @@
 <LM>w#w-lnd92251-112-p2s5w1</LM>
 </w.rf>
 <form>Naše</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSHS1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSHS1-P1-------</tag>
 </m>
 <m id="m-lnd92251-112-p2s5w2">
 <src.rf>manual</src.rf>

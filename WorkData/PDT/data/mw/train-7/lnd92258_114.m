@@ -360,7 +360,7 @@
 <LM>w#w-lnd92258-114-p2s1w41</LM>
 </w.rf>
 <form>panorama</form>
-<tag lemma="panorama" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="panorama-2_,s_^(^DD**panoráma-2)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-lnd92258-114-p2s1w42">
 <src.rf>manual</src.rf>
@@ -568,7 +568,7 @@
 <LM>w#w-lnd92258-114-p2s3w10</LM>
 </w.rf>
 <form>vystavené</form>
-<tag lemma="vystavený_^(např._potvrzení)_(*3it)" src="orig" selected="1">AAIP4----1A----</tag>
+<tag lemma="vystavený_^(*3it)" src="orig" selected="1">AAIP4----1A----</tag>
 </m>
 <m id="m-lnd92258-114-p2s3w11">
 <src.rf>manual</src.rf>
@@ -674,7 +674,7 @@
 <LM>w#w-lnd92258-114-p2s4w1</LM>
 </w.rf>
 <form>Její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XP1FS3-------</tag>
 </m>
 <m id="m-lnd92258-114-p2s4w2">
 <src.rf>manual</src.rf>
@@ -682,7 +682,7 @@
 <LM>w#w-lnd92258-114-p2s4w2</LM>
 </w.rf>
 <form>zamlžená</form>
-<tag lemma="zamlžený_,a_^(*2t)" src="auto" selected="1">AANP1----1A----</tag>
+<tag lemma="zamlžený_^(*3it)" src="auto" selected="1">AANP1----1A----</tag>
 </m>
 <m id="m-lnd92258-114-p2s4w3">
 <src.rf>manual</src.rf>
@@ -1603,7 +1603,7 @@
 <LM>w#w-lnd92258-114-p2s7w31</LM>
 </w.rf>
 <form>bílé</form>
-<tag lemma="bílý" src="orig" selected="1">AAFS6----1A----</tag>
+<tag lemma="bílý_;o" src="orig" selected="1">AAFS6----1A----</tag>
 </m>
 <m id="m-lnd92258-114-p2s7w32">
 <src.rf>manual</src.rf>
@@ -1955,7 +1955,7 @@
 <LM>w#w-lnd92258-114-p4s1w7</LM>
 </w.rf>
 <form>archív</form>
-<tag lemma="archív" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="archív_,s_^(^DD**archiv)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 </s>
 </mdata>

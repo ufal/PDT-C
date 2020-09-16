@@ -298,7 +298,7 @@
 <form>starostí</form>
 <tag>
 <AM lemma="starost" src="orig">NNFP2-----A----</AM>
-<AM lemma="starost-1" src="auto" recommended="1" selected="1">NNFP2-----A----</AM>
+<AM lemma="starost-2_^(*5ý-2)" src="auto" recommended="1" selected="1">NNFP2-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFS7-----A----</AM>
 <AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto">NNFP2-----A----</AM>
 <AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto">NNFS7-----A----</AM>

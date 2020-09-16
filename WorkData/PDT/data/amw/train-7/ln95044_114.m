@@ -71,7 +71,7 @@
 <LM>w#w-ln95044-114-p2s1Bw1</LM>
 </w.rf>
 <form>Orgány</form>
-<tag lemma="orgán" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-ln95044-114-p2s1Bw2">
 <src.rf>manual</src.rf>
@@ -421,7 +421,7 @@
 <LM>w#w-ln95044-114-p2s1Bw42</LM>
 </w.rf>
 <form>jejího</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS2FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS2FS3-------</tag>
 </m>
 <m id="m-ln95044-114-p2s1Bw43">
 <src.rf>manual</src.rf>
@@ -1161,7 +1161,7 @@
 <LM>w#w-ln95044-114-p2s5w15</LM>
 </w.rf>
 <form>jejího</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9MS4FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9MS4FS3-------</tag>
 </m>
 <m id="m-ln95044-114-p2s5w16">
 <src.rf>manual</src.rf>

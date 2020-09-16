@@ -465,7 +465,7 @@
 <form>potřeby</form>
 <tag>
 <AM lemma="potřeba" src="auto">NNFP1-----A----</AM>
-<AM lemma="potřeba" src="auto" recommended="1">NNFP4-----A----</AM>
+<AM lemma="potřeba-1" src="auto" recommended="1">NNFP4-----A----</AM>
 <AM lemma="potřeba" src="auto">NNFP5-----A----</AM>
 <AM lemma="potřeba" src="auto">NNFS2-----A----</AM>
 </tag>

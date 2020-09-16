@@ -727,7 +727,7 @@
 <LM>w#w-ln95047-110-p2s5w16</LM>
 </w.rf>
 <form>odpovědnosti</form>
-<tag lemma="odpovědnost_^(kdo_za_něco_odpovídá)_(*3ý)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="odpovědnost_^(*3ý)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95047-110-p2s5w17">
 <src.rf>manual</src.rf>

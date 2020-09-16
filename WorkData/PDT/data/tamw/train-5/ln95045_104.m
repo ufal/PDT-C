@@ -38,7 +38,7 @@
 <LM>w#w-ln95045-104-p1s1w3</LM>
 </w.rf>
 <form>Bredu</form>
-<tag lemma="Breda_;G" src="auto" selected="1">NNFS4-----A----</tag>
+<tag lemma="Breda-2_;G_;m" src="auto" selected="1">NNFS4-----A----</tag>
 </m>
 </s>
 <s id="m-ln95045-104-p2s1A">
@@ -106,7 +106,7 @@
 <LM>w#w-ln95045-104-p2s1Bw6</LM>
 </w.rf>
 <form>Breda</form>
-<tag lemma="Breda_;G" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Breda-2_;G_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95045-104-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -263,7 +263,7 @@
 <LM>w#w-ln95045-104-p2s2w4</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="mluvčí-2" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95045-104-p2s2w5">
 <src.rf>manual</src.rf>
@@ -487,7 +487,7 @@
 <LM>w#w-ln95045-104-p2s4w1</LM>
 </w.rf>
 <form>Bredu</form>
-<tag lemma="Breda_;G" src="auto" selected="1">NNFS4-----A----</tag>
+<tag lemma="Breda-2_;G_;m" src="auto" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95045-104-p2s4w2">
 <src.rf>manual</src.rf>

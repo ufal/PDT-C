@@ -319,7 +319,7 @@
 <LM>w#w-ln94210-67-p2s2w5</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-67-p2s2w6">
 <src.rf>manual</src.rf>
@@ -738,7 +738,7 @@
 <LM>w#w-ln94210-67-p2s4w3</LM>
 </w.rf>
 <form>události</form>
-<tag lemma="událost_,a_^(*3ý)" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="událost" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-ln94210-67-p2s4w4">
 <src.rf>manual</src.rf>
@@ -1380,7 +1380,7 @@
 <LM>w#w-ln94210-67-p2s7w9</LM>
 </w.rf>
 <form>Polní</form>
-<tag lemma="polní-1" src="auto" selected="1">AAFS6----1A----</tag>
+<tag lemma="polní" src="auto" selected="1">AAFS6----1A----</tag>
 </m>
 <m id="m-ln94210-67-p2s7w10">
 <src.rf>manual</src.rf>
@@ -1859,7 +1859,7 @@
 <LM>w#w-ln94210-67-p2s10w10</LM>
 </w.rf>
 <form>druhou</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS4----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS4----------</tag>
 </m>
 <m id="m-ln94210-67-p2s10w11">
 <src.rf>manual</src.rf>
@@ -1867,7 +1867,7 @@
 <LM>w#w-ln94210-67-p2s10w11</LM>
 </w.rf>
 <form>tragédii</form>
-<tag lemma="tragedie" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="tragédie" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94210-67-p2s10w12">
 <src.rf>manual</src.rf>

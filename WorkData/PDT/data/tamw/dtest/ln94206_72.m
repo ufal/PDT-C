@@ -227,7 +227,7 @@
 <LM>w#w-ln94206-72-p2s1Bw16</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrMS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrMS1----------</tag>
 </m>
 <m id="m-ln94206-72-p2s1Bw17">
 <src.rf>manual</src.rf>
@@ -537,7 +537,7 @@
 <LM>w#w-ln94206-72-p2s3w9</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94206-72-p2s3w10">
 <src.rf>manual</src.rf>
@@ -828,7 +828,7 @@
 <LM>w#w-ln94206-72-p2s5w15</LM>
 </w.rf>
 <form>ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94206-72-p2s5w16">
 <src.rf>manual</src.rf>

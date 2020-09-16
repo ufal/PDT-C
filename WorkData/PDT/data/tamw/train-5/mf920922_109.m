@@ -89,7 +89,7 @@
 <LM>w#w-mf920922-109-p4s1w2</LM>
 </w.rf>
 <form>Události</form>
-<tag lemma="událost_,a_^(*3ý)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="událost" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-mf920922-109-p4s1w3">
 <src.rf>manual</src.rf>
@@ -132,7 +132,7 @@
 <LM>w#w-mf920922-109-p5s1w3</LM>
 </w.rf>
 <form>dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 </s>
 <s id="m-mf920922-109-p6s1">
@@ -220,7 +220,7 @@
 <LM>w#w-mf920922-109-p12s1w3</LM>
 </w.rf>
 <form>dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 </s>
 <s id="m-mf920922-109-p13s1">
@@ -402,7 +402,7 @@
 <form>Hard</form>
 <tag>
 <AM lemma="hard_,t_^(tvrdý,_pevný)" src="orig">AAXXX----1A----</AM>
-<AM lemma="Hard-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="hard-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf920922-109-p17s1w4">
@@ -518,7 +518,7 @@
 <LM>w#w-mf920922-109-p26s1w2</LM>
 </w.rf>
 <form>Události</form>
-<tag lemma="událost_,a_^(*3ý)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="událost" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-mf920922-109-p26s1w3">
 <src.rf>manual</src.rf>
@@ -628,7 +628,7 @@
 <LM>w#w-mf920922-109-p31s1w4</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrIS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS4----------</tag>
 </m>
 <m id="m-mf920922-109-p31s1w5">
 <src.rf>manual</src.rf>
@@ -686,7 +686,7 @@
 <LM>w#w-mf920922-109-p32s1w6</LM>
 </w.rf>
 <form>představení</form>
-<tag lemma="představení-2_^(divadelní,_filmové_apod.)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="představení-1_^(*5it-1)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-mf920922-109-p32s1w7">
 <src.rf>manual</src.rf>

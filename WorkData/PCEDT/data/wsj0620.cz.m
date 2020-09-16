@@ -1630,7 +1630,7 @@
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8IP1---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8IP5---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS1---------1</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8NS4---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8NS4---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS5---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8YP4---------1</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOFP-----------</AM>
@@ -2459,7 +2459,7 @@
 <AM lemma="Vaš_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Vaš_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Vaš_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="tvůj_^(přivlast.)" src="auto" selected="1">PSHP1-P2-------</AM>
+<AM lemma="váš" src="auto" selected="1">PSHP1-P2-------</AM>
 <AM lemma="tvůj_^(přivlast.)" src="auto" recommended="1">PSHS1-P2-------</AM>
 <AM lemma="tvůj_^(přivlast.)" src="auto">PSHS5-P2-------</AM>
 <AM lemma="tvůj_^(přivlast.)" src="auto">PSIP1-P2-------</AM>
@@ -2745,7 +2745,7 @@
 <AM lemma="ča_^(ča-ča)" src="auto">NNFS2-----A----</AM>
 <AM lemma="ča_^(ča-ča)" src="auto">NNFS3-----A---1</AM>
 <AM lemma="ča_^(ča-ča)" src="auto">NNFS6-----A---1</AM>
-<AM lemma="či" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="či-1" src="auto" recommended="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0620-001-p1s5W34-Ta">
@@ -2756,7 +2756,7 @@
 <form>spravedlnost</form>
 <tag>
 <AM lemma="spravedlnost_^(*3ý)" src="auto">NNFS1-----A----</AM>
-<AM lemma="spravedlnost_^(*3ý)" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="spravedlnost-1_^(*5ý-1)" src="auto" recommended="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0620-001-p1s5W35-Ta">
@@ -3029,7 +3029,7 @@
 <AM lemma="zasažený_^(*5áhnout)" src="auto">AAIS2----1A----</AM>
 <AM lemma="zasažený_^(*5áhnout)" src="auto">AAMS2----1A----</AM>
 <AM lemma="zasažený_^(*5áhnout)" src="auto">AAMS4----1A----</AM>
-<AM lemma="zasažený_^(*5áhnout)" src="auto" recommended="1">AANS2----1A----</AM>
+<AM lemma="zasažený" src="auto" recommended="1">AANS2----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0620-001-p1s6W24-Ta">

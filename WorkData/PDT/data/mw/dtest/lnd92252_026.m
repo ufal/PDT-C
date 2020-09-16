@@ -278,7 +278,7 @@
 <LM>w#w-lnd92252-026-p3s3w11</LM>
 </w.rf>
 <form>málo</form>
-<tag lemma="málo-1_^(málo_+_2._p.,_málo_peněz)" src="orig" selected="1">Ca--1----------</tag>
+<tag lemma="málo-1_^(málo_peněz)" src="orig" selected="1">Ca--1----------</tag>
 </m>
 <m id="m-lnd92252-026-p3s3w12">
 <src.rf>manual</src.rf>
@@ -528,7 +528,7 @@
 <LM>w#w-lnd92252-026-p3s4w10</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-lnd92252-026-p3s4w11">
 <src.rf>manual</src.rf>
@@ -833,7 +833,7 @@
 <LM>w#w-lnd92252-026-p4s1w28</LM>
 </w.rf>
 <form>Lom</form>
-<tag lemma="Lom_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lom-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-026-p4s1w29">
 <src.rf>manual</src.rf>
@@ -1022,7 +1022,7 @@
 <LM>w#w-lnd92252-026-p4s2w17</LM>
 </w.rf>
 <form>děti</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-lnd92252-026-p4s2w18">
 <src.rf>manual</src.rf>
@@ -1146,7 +1146,7 @@
 <LM>w#w-lnd92252-026-p4s2w32</LM>
 </w.rf>
 <form>jejího</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS2FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS2FS3-------</tag>
 </m>
 <m id="m-lnd92252-026-p4s2w33">
 <src.rf>manual</src.rf>
@@ -1348,7 +1348,7 @@
 <LM>w#w-lnd92252-026-p4s3w17</LM>
 </w.rf>
 <form>člen</form>
-<tag lemma="člen" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-026-p4s3w18">
 <src.rf>manual</src.rf>
@@ -1467,7 +1467,7 @@
 <LM>w#w-lnd92252-026-p4s4w4</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-lnd92252-026-p4s4w5">
 <src.rf>manual</src.rf>
@@ -1753,7 +1753,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -2323,7 +2323,7 @@
 <LM>w#w-lnd92252-026-p4s10w5</LM>
 </w.rf>
 <form>stojí</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92252-026-p4s10w6">
 <src.rf>manual</src.rf>
@@ -2493,7 +2493,7 @@
 <LM>w#w-lnd92252-026-p4s11w15</LM>
 </w.rf>
 <form>členů</form>
-<tag lemma="člen" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd92252-026-p4s11w16">
 <src.rf>manual</src.rf>
@@ -2559,7 +2559,7 @@
 <LM>w#w-lnd92252-026-p4s12w6</LM>
 </w.rf>
 <form>mého</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS2-S1-------</tag>
+<tag lemma="můj" src="orig" selected="1">PSZS2-S1-------</tag>
 </m>
 <m id="m-lnd92252-026-p4s12w7">
 <src.rf>manual</src.rf>
@@ -2723,7 +2723,7 @@
 <LM>w#w-lnd92252-026-p4s12w26</LM>
 </w.rf>
 <form>členů</form>
-<tag lemma="člen" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd92252-026-p4s12w27">
 <src.rf>manual</src.rf>
@@ -2870,7 +2870,7 @@
 <LM>w#w-lnd92252-026-p4s14w2</LM>
 </w.rf>
 <form>nechť</form>
-<tag lemma="nechť" src="orig" selected="1">TT-------------</tag>
+<tag lemma="nechť-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-lnd92252-026-p4s14w3">
 <src.rf>manual</src.rf>
@@ -2926,7 +2926,7 @@
 <LM>w#w-lnd92252-026-p4s14w9</LM>
 </w.rf>
 <form>lidem</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP3-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP3-----A----</tag>
 </m>
 <m id="m-lnd92252-026-p4s14w10">
 <src.rf>manual</src.rf>

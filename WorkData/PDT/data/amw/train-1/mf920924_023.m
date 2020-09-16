@@ -680,7 +680,7 @@
 <LM>w#w-mf920924-023-p2s3w2</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf920924-023-p2s3w3">
 <src.rf>manual</src.rf>
@@ -696,7 +696,7 @@
 <LM>w#w-mf920924-023-p2s3w4</LM>
 </w.rf>
 <form>Miroslav</form>
-<tag lemma="Miroslav_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Miroslav-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-023-p2s3w5">
 <src.rf>manual</src.rf>

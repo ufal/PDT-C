@@ -208,7 +208,7 @@
 <LM>w#w-ln95043-097-p1s2w14</LM>
 </w.rf>
 <form>pickupu</form>
-<tag lemma="pickup_;m_^(auto)" src="auto" selected="1">NNIS2-----A----</tag>
+<tag lemma="pickup_^(auto)" src="auto" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95043-097-p1s2w15">
 <src.rf>manual</src.rf>
@@ -531,7 +531,7 @@
 <LM>w#w-ln95043-097-p1s4w15</LM>
 </w.rf>
 <form>dávající</form>
-<tag lemma="dávající_^(*4t)" src="auto" selected="1">AGIS4-----A----</tag>
+<tag lemma="dávající-1_^(*6t-1)" src="auto" selected="1">AGIS4-----A----</tag>
 </m>
 <m id="m-ln95043-097-p1s4w16">
 <src.rf>manual</src.rf>
@@ -579,7 +579,7 @@
 <LM>w#w-ln95043-097-p1s4w21</LM>
 </w.rf>
 <form>k</form>
-<tag lemma="k-4`kůň_^(jednotka_výkonu)" src="orig" selected="1">NNMXX-----A---b</tag>
+<tag lemma="kůň" src="orig" selected="1">NNMXX-----A---b</tag>
 </m>
 <m id="m-ln95043-097-p1s4w22">
 <src.rf>manual</src.rf>

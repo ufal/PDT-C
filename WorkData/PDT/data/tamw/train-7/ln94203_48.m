@@ -421,7 +421,7 @@
 <LM>w#w-ln94203-48-p2s3w6</LM>
 </w.rf>
 <form>kandidátce</form>
-<tag lemma="kandidátka_^(seznam_kandidátů)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="kandidátka_^(*2)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94203-48-p2s3w7">
 <src.rf>manual</src.rf>

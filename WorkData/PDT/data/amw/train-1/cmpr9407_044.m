@@ -72,7 +72,7 @@
 <LM>w#w-cmpr9407-044-p3s1w6</LM>
 </w.rf>
 <form>kurz</form>
-<tag lemma="kurs" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="kurz" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-044-p3s1w7">
 <src.rf>manual</src.rf>

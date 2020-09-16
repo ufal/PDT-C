@@ -334,7 +334,7 @@
 <LM>w#w-ln95048-083-p2s2w2</LM>
 </w.rf>
 <form>Kádr</form>
-<tag lemma="kádr" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="kádr-1" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln95048-083-p2s2w3">
 <src.rf>manual</src.rf>
@@ -571,7 +571,7 @@
 <LM>w#w-ln95048-083-p3s1w22</LM>
 </w.rf>
 <form>Cupu</form>
-<tag lemma="Cup-1_;m_^(pohár,_soutěž;_v_názvech)" src="auto" selected="1">NNIS6-----A----</tag>
+<tag lemma="cup-1_^(pohár)" src="auto" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln95048-083-p3s1w23">
 <src.rf>manual</src.rf>
@@ -603,7 +603,7 @@
 <LM>w#w-ln95048-083-p3s1w26</LM>
 </w.rf>
 <form>optimismu</form>
-<tag lemma="optimismus" src="orig" selected="1">NNIS3-----A----</tag>
+<tag lemma="optimismus_,s_^(^DD**optimizmus)" src="orig" selected="1">NNIS3-----A----</tag>
 </m>
 <m id="m-ln95048-083-p3s1w27">
 <src.rf>manual</src.rf>
@@ -1011,7 +1011,7 @@
 <LM>w#w-ln95048-083-p4s3w2</LM>
 </w.rf>
 <form>Moc</form>
-<tag lemma="moc-3_^(velmi,_ve_spojení_s_adj.,_př._moc_hezká)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="moc-3_^(moc_hezká,_moc_peněz)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95048-083-p4s3w3">
 <src.rf>manual</src.rf>
@@ -1128,7 +1128,7 @@
 <LM>w#w-ln95048-083-p4s4w10</LM>
 </w.rf>
 <form>dal</form>
-<tag lemma="dát" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95048-083-p4s4w11">
 <src.rf>manual</src.rf>
@@ -1224,7 +1224,7 @@
 <LM>w#w-ln95048-083-p5s1w2</LM>
 </w.rf>
 <form>úvodním</form>
-<tag lemma="úvodní_,s" src="auto" selected="1">AAIS7----1A----</tag>
+<tag lemma="úvodní" src="auto" selected="1">AAIS7----1A----</tag>
 </m>
 <m id="m-ln95048-083-p5s1w3">
 <src.rf>manual</src.rf>
@@ -1338,7 +1338,7 @@
 <LM>w#w-ln95048-083-p5s2w3</LM>
 </w.rf>
 <form>žluté</form>
-<tag lemma="žlutý" src="orig" selected="1">AAFP4----1A----</tag>
+<tag lemma="žlutý_;o" src="orig" selected="1">AAFP4----1A----</tag>
 </m>
 <m id="m-ln95048-083-p5s2w4">
 <src.rf>manual</src.rf>
@@ -1958,7 +1958,7 @@
 <LM>w#w-ln95048-083-p6s4w10</LM>
 </w.rf>
 <form>manažer</form>
-<tag lemma="manažer" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="manažer-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-083-p6s4w11">
 <src.rf>manual</src.rf>

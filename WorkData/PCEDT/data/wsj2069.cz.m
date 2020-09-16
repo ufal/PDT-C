@@ -17,7 +17,7 @@
 </w.rf>
 <form>Hudsonův</form>
 <tag>
-<AM lemma="Hudsonův_;Y_^(*2)" src="auto" recommended="1">AUIS1M---------</AM>
+<AM lemma="Hudsonův-1_;Y_^(*4-1)" src="auto" recommended="1">AUIS1M---------</AM>
 <AM lemma="Hudsonův_;Y_^(*2)" src="auto">AUIS4M---------</AM>
 <AM lemma="Hudsonův_;Y_^(*2)" src="auto">AUIS5M---------</AM>
 <AM lemma="Hudsonův_;Y_^(*2)" src="auto">AUMS1M---------</AM>
@@ -211,7 +211,7 @@
 </w.rf>
 <form>viru</form>
 <tag>
-<AM lemma="vir" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="vir-1" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="vir" src="auto">NNIS3-----A----</AM>
 <AM lemma="vir" src="auto">NNIS6-----A----</AM>
 </tag>
@@ -225,7 +225,7 @@
 <tag>
 <AM lemma="AIDS-1_;U_^(Syndrom_získaného_selhání_imunity)" src="auto">NNIS1-----A----</AM>
 <AM lemma="AIDS-1_;U_^(Syndrom_získaného_selhání_imunity)" src="auto">NNIS4-----A----</AM>
-<AM lemma="AIDS-2_;U_^(Syndrom_získaného_selhání_imunity)" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="AIDS_;U_^(Syndrom_získaného_selhání_imunity)" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="aids_:B_;U_,s_^(^DD**AIDS-1)" src="auto">NNIS1-----A----</AM>
 <AM lemma="aids_:B_;U_,s_^(^DD**AIDS-1)" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -363,7 +363,7 @@
 <AM lemma="zastavení_^(uvést_do_klidu;;zástavní_právo)_(*3it)" src="auto">NNNS1-----A----</AM>
 <AM lemma="zastavení_^(uvést_do_klidu;;zástavní_právo)_(*3it)" src="auto">NNNS2-----A----</AM>
 <AM lemma="zastavení_^(uvést_do_klidu;;zástavní_právo)_(*3it)" src="auto">NNNS3-----A----</AM>
-<AM lemma="zastavení_^(uvést_do_klidu;;zástavní_právo)_(*3it)" src="auto" recommended="1">NNNS4-----A----</AM>
+<AM lemma="zastavení_^(*3it)" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="zastavení_^(uvést_do_klidu;;zástavní_právo)_(*3it)" src="auto">NNNS5-----A----</AM>
 <AM lemma="zastavení_^(uvést_do_klidu;;zástavní_právo)_(*3it)" src="auto">NNNS6-----A----</AM>
 </tag>
@@ -747,7 +747,7 @@
 </w.rf>
 <form>viru</form>
 <tag>
-<AM lemma="vir" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="vir-1" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="vir" src="auto">NNIS3-----A----</AM>
 <AM lemma="vir" src="auto">NNIS6-----A----</AM>
 </tag>
@@ -1008,7 +1008,7 @@
 <tag>
 <AM lemma="AIDS-1_;U_^(Syndrom_získaného_selhání_imunity)" src="auto">NNIS1-----A----</AM>
 <AM lemma="AIDS-1_;U_^(Syndrom_získaného_selhání_imunity)" src="auto">NNIS4-----A----</AM>
-<AM lemma="AIDS-2_;U_^(Syndrom_získaného_selhání_imunity)" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="AIDS_;U_^(Syndrom_získaného_selhání_imunity)" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="aids_:B_;U_,s_^(^DD**AIDS-1)" src="auto">NNIS1-----A----</AM>
 <AM lemma="aids_:B_;U_,s_^(^DD**AIDS-1)" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -1217,7 +1217,7 @@
 <tag>
 <AM lemma="AIDS-1_;U_^(Syndrom_získaného_selhání_imunity)" src="auto">NNIS1-----A----</AM>
 <AM lemma="AIDS-1_;U_^(Syndrom_získaného_selhání_imunity)" src="auto">NNIS4-----A----</AM>
-<AM lemma="AIDS-2_;U_^(Syndrom_získaného_selhání_imunity)" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="AIDS_;U_^(Syndrom_získaného_selhání_imunity)" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="aids_:B_;U_,s_^(^DD**AIDS-1)" src="auto">NNIS1-----A----</AM>
 <AM lemma="aids_:B_;U_,s_^(^DD**AIDS-1)" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -1588,7 +1588,7 @@
 <tag>
 <AM lemma="AIDS-1_;U_^(Syndrom_získaného_selhání_imunity)" src="auto">NNIS1-----A----</AM>
 <AM lemma="AIDS-1_;U_^(Syndrom_získaného_selhání_imunity)" src="auto">NNIS4-----A----</AM>
-<AM lemma="AIDS-2_;U_^(Syndrom_získaného_selhání_imunity)" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="AIDS_;U_^(Syndrom_získaného_selhání_imunity)" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="aids_:B_;U_,s_^(^DD**AIDS-1)" src="auto">NNIS1-----A----</AM>
 <AM lemma="aids_:B_;U_,s_^(^DD**AIDS-1)" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -1693,7 +1693,7 @@
 </w.rf>
 <form>sex</form>
 <tag>
-<AM lemma="sex" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="sex-1" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="sex" src="auto">NNIS4-----A----</AM>
 <AM lemma="sex-77" src="auto">F%-------------</AM>
 <AM lemma="sexus" src="auto">NNIS1-----A---2</AM>
@@ -1851,7 +1851,7 @@
 </w.rf>
 <form>sex</form>
 <tag>
-<AM lemma="sex" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="sex-1" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="sex" src="auto">NNIS4-----A----</AM>
 <AM lemma="sex-77" src="auto">F%-------------</AM>
 <AM lemma="sexus" src="auto">NNIS1-----A---2</AM>
@@ -1877,7 +1877,7 @@
 </w.rf>
 <form>sex</form>
 <tag>
-<AM lemma="sex" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="sex-1" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="sex" src="auto">NNIS4-----A----</AM>
 <AM lemma="sex-77" src="auto">F%-------------</AM>
 <AM lemma="sexus" src="auto">NNIS1-----A---2</AM>
@@ -2124,7 +2124,7 @@
 <tag>
 <AM lemma="Hudsonův_;Y_^(*2)" src="auto">AUFS1M---------</AM>
 <AM lemma="Hudsonův_;Y_^(*2)" src="auto">AUFS5M---------</AM>
-<AM lemma="Hudsonův_;Y_^(*2)" src="auto" recommended="1">AUIS2M---------</AM>
+<AM lemma="Hudsonův-1_;Y_^(*4-1)" src="auto" recommended="1">AUIS2M---------</AM>
 <AM lemma="Hudsonův_;Y_^(*2)" src="auto">AUMS2M---------</AM>
 <AM lemma="Hudsonův_;Y_^(*2)" src="auto">AUMS4M---------</AM>
 <AM lemma="Hudsonův_;Y_^(*2)" src="auto">AUNP1M---------</AM>
@@ -2315,7 +2315,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2069-001-p1s6W19-Ta">

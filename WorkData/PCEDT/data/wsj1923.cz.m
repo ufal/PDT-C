@@ -322,7 +322,7 @@
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FP1---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FP4---------1</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8FS2---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8FS2---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS3---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS6---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8IP1---------1</AM>
@@ -1077,7 +1077,7 @@
 <AM lemma="cola_,h_,x_^(nápoj)" src="auto">NNFP1-----A----</AM>
 <AM lemma="cola_,h_,x_^(nápoj)" src="auto">NNFP4-----A----</AM>
 <AM lemma="cola_,h_,x_^(nápoj)" src="auto">NNFP5-----A----</AM>
-<AM lemma="cola_,h_^(nápoj)" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="kola_,s_^(nápoj)_(^DD**cola)" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="kolo" src="auto">NNNP7-----A----</AM>
 </tag>
 </m>
@@ -1380,7 +1380,7 @@
 </w.rf>
 <form>gigant</form>
 <tag>
-<AM lemma="gigant" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="gigant-1" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="gigant" src="auto">NNIS4-----A----</AM>
 <AM lemma="gigant" src="auto">NNMS1-----A----</AM>
 </tag>
@@ -2512,7 +2512,7 @@
 </w.rf>
 <form>slazených</form>
 <tag>
-<AM lemma="slazený-1_^(cukrem)_(*6dit-1)" src="auto" selected="1">AAFP2----1A----</AM>
+<AM lemma="slazený-1_^(*6dit-1)" src="auto" selected="1">AAFP2----1A----</AM>
 <AM lemma="slazený-1_^(cukrem)_(*6dit-1)" src="auto">AAFP6----1A----</AM>
 <AM lemma="slazený-1_^(cukrem)_(*6dit-1)" src="auto">AAIP2----1A----</AM>
 <AM lemma="slazený-1_^(cukrem)_(*6dit-1)" src="auto">AAIP6----1A----</AM>
@@ -2649,7 +2649,7 @@
 </w.rf>
 <form>slazenou</form>
 <tag>
-<AM lemma="slazený-1_^(cukrem)_(*6dit-1)" src="auto" recommended="1">AAFS4----1A----</AM>
+<AM lemma="slazený-1_^(*6dit-1)" src="auto" recommended="1">AAFS4----1A----</AM>
 <AM lemma="slazený-1_^(cukrem)_(*6dit-1)" src="auto">AAFS7----1A----</AM>
 </tag>
 </m>
@@ -2866,7 +2866,7 @@
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS2----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS3----------</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8FS4---------6</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8FS4---------6</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS6----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS7----------</AM>
 </tag>
@@ -3286,7 +3286,7 @@
 </w.rf>
 <form>správná</form>
 <tag>
-<AM lemma="správný_^(správný_chlap)" src="auto" recommended="1">AAFS1----1A----</AM>
+<AM lemma="správný" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="správný_^(správný_chlap)" src="auto">AAFS5----1A----</AM>
 <AM lemma="správný_^(správný_chlap)" src="auto">AANP1----1A----</AM>
 <AM lemma="správný_^(správný_chlap)" src="auto">AANP4----1A----</AM>

@@ -305,7 +305,7 @@
 <LM>w#w-lnd94104-041-p1s4w11</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd94104-041-p1s4w12">
 <src.rf>manual</src.rf>
@@ -897,7 +897,7 @@
 <LM>w#w-lnd94104-041-p1s8w2</LM>
 </w.rf>
 <form>výbor</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94104-041-p1s8w3">
 <src.rf>manual</src.rf>
@@ -1601,7 +1601,7 @@
 <LM>w#w-lnd94104-041-p1s12w13</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP2-P1-------</tag>
 </m>
 <m id="m-lnd94104-041-p1s12w14">
 <src.rf>manual</src.rf>
@@ -1675,7 +1675,7 @@
 <LM>w#w-lnd94104-041-p1s13Aw4</LM>
 </w.rf>
 <form>resort</form>
-<tag lemma="resort" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="resort_,s_^(^DD**rezort)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-lnd94104-041-p1s13Aw5">
 <src.rf>manual</src.rf>
@@ -1683,7 +1683,7 @@
 <LM>w#w-lnd94104-041-p1s13Aw5</LM>
 </w.rf>
 <form>spravedlnosti</form>
-<tag lemma="spravedlnost_^(*3ý)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="spravedlnost-1_^(*5ý-1)" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94104-041-p1s13Aw6">
 <src.rf>manual</src.rf>
@@ -1853,7 +1853,7 @@
 <LM>w#w-lnd94104-041-p1s13Bw14</LM>
 </w.rf>
 <form>spravedlnosti</form>
-<tag lemma="spravedlnost_^(*3ý)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="spravedlnost-1_^(*5ý-1)" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94104-041-p1s13Bw15">
 <src.rf>manual</src.rf>

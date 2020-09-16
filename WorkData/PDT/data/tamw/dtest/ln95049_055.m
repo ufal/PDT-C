@@ -87,7 +87,7 @@
 <LM>w#w-ln95049-055-p2s1Bw4</LM>
 </w.rf>
 <form>Chemopetrol</form>
-<tag lemma="Chemopetrol" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Chemopetrol_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95049-055-p2s1Bw5">
 <src.rf>manual</src.rf>

@@ -789,7 +789,7 @@
 <LM>w#w-ln94200-75-p3s2w4</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrNS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS1----------</tag>
 </m>
 <m id="m-ln94200-75-p3s2w5">
 <src.rf>manual</src.rf>

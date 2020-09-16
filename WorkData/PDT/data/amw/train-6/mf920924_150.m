@@ -886,7 +886,7 @@
 <LM>w#w-mf920924-150-p2s4w26</LM>
 </w.rf>
 <form>zaměstnání</form>
-<tag lemma="zaměstnání-1_^(všeob._význam:_činnost,_zaměstnání)_(*5at-1)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="zaměstnání_^(*3at)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-mf920924-150-p2s4w27">
 <src.rf>manual</src.rf>

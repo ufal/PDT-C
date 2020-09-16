@@ -227,7 +227,7 @@
 </w.rf>
 <form>svou</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8FS4---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8FS4---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS7---------1</AM>
 </tag>
 </m>
@@ -1074,7 +1074,7 @@
 <AM lemma="spořitelna_^(místo;_př._Česká_spořitelna)" src="auto">NNFP1-----A----</AM>
 <AM lemma="spořitelna_^(místo;_př._Česká_spořitelna)" src="auto">NNFP4-----A----</AM>
 <AM lemma="spořitelna_^(místo;_př._Česká_spořitelna)" src="auto">NNFP5-----A----</AM>
-<AM lemma="spořitelna_^(místo;_př._Česká_spořitelna)" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="spořitelna" src="auto" recommended="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0626-001-p1s2W13-Ta">
@@ -1126,7 +1126,7 @@
 <AM lemma="zastavení_^(uvést_do_klidu;;zástavní_právo)_(*3it)" src="auto">NNNS3-----A----</AM>
 <AM lemma="zastavení_^(uvést_do_klidu;;zástavní_právo)_(*3it)" src="auto">NNNS4-----A----</AM>
 <AM lemma="zastavení_^(uvést_do_klidu;;zástavní_právo)_(*3it)" src="auto">NNNS5-----A----</AM>
-<AM lemma="zastavení_^(uvést_do_klidu;;zástavní_právo)_(*3it)" src="auto" recommended="1">NNNS6-----A----</AM>
+<AM lemma="zastavení_^(*3it)" src="auto" recommended="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0626-001-p1s2W17-Ta">
@@ -1801,7 +1801,7 @@
 </w.rf>
 <form>orgánů</form>
 <tag>
-<AM lemma="orgán" src="auto" recommended="1">NNIP2-----A----</AM>
+<AM lemma="orgán-1" src="auto" recommended="1">NNIP2-----A----</AM>
 <AM lemma="orgán" src="auto">NNMP2-----A----</AM>
 </tag>
 </m>
@@ -1876,7 +1876,7 @@
 <LM>w#w-wsj0626-001-p1s4W29</LM>
 </w.rf>
 <form>Indiana</form>
-<tag lemma="Indiana_;G" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="Indiana-1_;G" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m-wsj0626-001-p1s4W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1908,7 +1908,7 @@
 <tag>
 <AM lemma="druhý" src="auto">CrIS6----------</AM>
 <AM lemma="druhý" src="auto">CrMS6----------</AM>
-<AM lemma="druhý" src="auto" recommended="1">CrNS6----------</AM>
+<AM lemma="druhý`2" src="auto" recommended="1">CrNS6----------</AM>
 </tag>
 </m>
 <m id="m-wsj0626-001-p1s5W3-Ta">
@@ -2270,7 +2270,7 @@
 <tag>
 <AM lemma="druhý" src="auto">CrIS6----------</AM>
 <AM lemma="druhý" src="auto">CrMS6----------</AM>
-<AM lemma="druhý" src="auto" recommended="1">CrNS6----------</AM>
+<AM lemma="druhý`2" src="auto" recommended="1">CrNS6----------</AM>
 </tag>
 </m>
 <m id="m-wsj0626-001-p1s6W5-Ta">

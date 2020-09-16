@@ -43,7 +43,7 @@
 <LM>w#w-ln95044-094-p1s1w4</LM>
 </w.rf>
 <form>politiky</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95044-094-p1s1w5">
 <src.rf>manual</src.rf>
@@ -265,7 +265,7 @@
 <LM>w#w-ln95044-094-p2s1Cw21</LM>
 </w.rf>
 <form>politiky</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95044-094-p2s1Cw22">
 <src.rf>manual</src.rf>
@@ -361,7 +361,7 @@
 <LM>w#w-ln95044-094-p2s1Cw33</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln95044-094-p2s1Cw34">
 <src.rf>manual</src.rf>
@@ -435,7 +435,7 @@
 <LM>w#w-ln95044-094-p2s2w7</LM>
 </w.rf>
 <form>prezidia</form>
-<tag lemma="prezídium" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="prezidium_,s_^(^DD**prezídium)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln95044-094-p2s2w8">
 <src.rf>manual</src.rf>

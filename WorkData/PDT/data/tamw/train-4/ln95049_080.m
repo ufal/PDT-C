@@ -233,7 +233,7 @@
 <LM>w#w-ln95049-080-p2s2w8</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFP1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFP1----------</tag>
 </m>
 <m id="m-ln95049-080-p2s2w9">
 <src.rf>manual</src.rf>
@@ -582,7 +582,7 @@
 <AM lemma="Írán_;G_,h" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="Írán_;G_,h" src="auto">NNIS3-----A----</AM>
 <AM lemma="Írán_;G_,h" src="auto">NNIS6-----A----</AM>
-<AM lemma="Irán_;G_,i_^(^DS**Írán)" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Irán_;G_,h_^(^GC**Írán)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-080-p2s4w7">
@@ -1018,7 +1018,7 @@
 <AM lemma="Írán_;G_,h" src="auto">NNIS2-----A----</AM>
 <AM lemma="Írán_;G_,h" src="auto">NNIS3-----A----</AM>
 <AM lemma="Írán_;G_,h" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="Irán_;G_,i_^(^DS**Írán)" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="Irán_;G_,h_^(^GC**Írán)" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-080-p2s6w19">

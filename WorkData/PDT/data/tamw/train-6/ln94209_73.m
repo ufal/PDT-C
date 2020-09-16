@@ -73,7 +73,7 @@
 <LM>w#w-ln94209-73-p1s1w7</LM>
 </w.rf>
 <form>lahví</form>
-<tag lemma="lahev" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="lahev_,s_^(^DD**láhev)" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln94209-73-p1s1w8">
 <src.rf>manual</src.rf>
@@ -520,7 +520,7 @@
 <LM>w#w-ln94209-73-p3s1w3</LM>
 </w.rf>
 <form>dni</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS3-----A---1</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS3-----A---1</tag>
 </m>
 <m id="m-ln94209-73-p3s1w4">
 <src.rf>manual</src.rf>
@@ -1021,7 +1021,7 @@
 <LM>w#w-ln94209-73-p3s3w4</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94209-73-p3s3w5">
 <src.rf>manual</src.rf>
@@ -1463,7 +1463,7 @@
 <LM>w#w-ln94209-73-p3s5w17</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln94209-73-p3s5w18">
 <src.rf>manual</src.rf>

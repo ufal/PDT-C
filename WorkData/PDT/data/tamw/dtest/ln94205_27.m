@@ -889,7 +889,7 @@
 <LM>w#w-ln94205-27-p2s5w2</LM>
 </w.rf>
 <form>dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94205-27-p2s5w3">
 <src.rf>manual</src.rf>
@@ -1085,7 +1085,7 @@
 <LM>w#w-ln94205-27-p3s1w3</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-4_^(v_knize,_rukopise,...)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94205-27-p3s1w4">
 <src.rf>manual</src.rf>

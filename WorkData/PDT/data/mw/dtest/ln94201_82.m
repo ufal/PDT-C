@@ -75,7 +75,7 @@
 <LM>w#w-ln94201-82-p1s1w8</LM>
 </w.rf>
 <form>Victorii</form>
-<tag lemma="Victoria-1_;Y" src="auto" selected="1">NNFS6-----A----</tag>
+<tag lemma="Victoria_;G_;Y_;m_,s_^(^DD**Viktoria)" src="auto" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94201-82-p1s1w9">
 <src.rf>manual</src.rf>

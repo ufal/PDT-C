@@ -217,7 +217,7 @@
 <LM>w#w-mf920923-110-p4s2w17</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920923-110-p4s2w18">
 <src.rf>manual</src.rf>
@@ -519,7 +519,7 @@
 <LM>w#w-mf920923-110-p5s1w2</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-mf920923-110-p5s1w3">
 <src.rf>manual</src.rf>

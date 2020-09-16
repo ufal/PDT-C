@@ -19,7 +19,7 @@
 <LM>w#w-ln94204-154-p1s1w1</LM>
 </w.rf>
 <form>Devizy</form>
-<tag lemma="deviza" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="deviza_^(v_peněžnictví)" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-ln94204-154-p1s1w2">
 <src.rf>manual</src.rf>

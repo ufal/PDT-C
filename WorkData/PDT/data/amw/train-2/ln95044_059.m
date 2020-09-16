@@ -1448,7 +1448,7 @@
 <LM>w#w-ln95044-059-p4s6w10</LM>
 </w.rf>
 <form>právo</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln95044-059-p4s6w11">
 <src.rf>manual</src.rf>
@@ -1735,7 +1735,7 @@
 <LM>w#w-ln95044-059-p5s2w3</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8YP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8YP4---------1</tag>
 </m>
 <m id="m-ln95044-059-p5s2w4">
 <src.rf>manual</src.rf>
@@ -2054,7 +2054,7 @@
 <form>oko</form>
 <tag>
 <AM lemma="oko" src="orig">NNNS4-----A----</AM>
-<AM lemma="oko-2" src="manual" selected="1">NNNS4-----A----</AM>
+<AM lemma="oko-1" src="manual" selected="1">NNNS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-059-p6s1w18">

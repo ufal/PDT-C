@@ -450,7 +450,7 @@
 <LM>w#w-mf930708-123-p2s2w20</LM>
 </w.rf>
 <form>prostředky</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-mf930708-123-p2s2w21">
 <src.rf>manual</src.rf>
@@ -913,7 +913,7 @@
 <LM>w#w-mf930708-123-p3s4w10</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS4----------</tag>
 </m>
 <m id="m-mf930708-123-p3s4w11">
 <src.rf>manual</src.rf>

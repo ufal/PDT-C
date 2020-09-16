@@ -35,7 +35,7 @@
 <LM>w#w-ln94200-167-p1s1w3</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94200-167-p1s1w4">
 <src.rf>manual</src.rf>
@@ -154,7 +154,7 @@
 <LM>w#w-ln94200-167-p2s1Bw3</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94200-167-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -226,7 +226,7 @@
 <LM>w#w-ln94200-167-p2s1Bw12</LM>
 </w.rf>
 <form>našeho</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSZS2-P1-------</tag>
 </m>
 <m id="m-ln94200-167-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -859,7 +859,7 @@
 <LM>w#w-ln94200-167-p2s5w14</LM>
 </w.rf>
 <form>daly</form>
-<tag lemma="dát" src="orig" selected="1">VpTP----R-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln94200-167-p2s5w15">
 <src.rf>manual</src.rf>
@@ -1061,7 +1061,7 @@
 <LM>w#w-ln94200-167-p2s6w19</LM>
 </w.rf>
 <form>prostředky</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-ln94200-167-p2s6w20">
 <src.rf>manual</src.rf>

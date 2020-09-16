@@ -481,7 +481,7 @@
 <LM>w#w-ln94211-74-p2s2w8</LM>
 </w.rf>
 <form>Evropě</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94211-74-p2s2w9">
 <src.rf>manual</src.rf>
@@ -563,7 +563,7 @@
 <LM>w#w-ln94211-74-p2s3w9</LM>
 </w.rf>
 <form>správné</form>
-<tag lemma="správný_^(podle_něj._měřítek;_př._chlap,_míra,...)" src="orig" selected="1">AANS1----1A----</tag>
+<tag lemma="správný" src="orig" selected="1">AANS1----1A----</tag>
 </m>
 <m id="m-ln94211-74-p2s3w10">
 <src.rf>manual</src.rf>
@@ -693,7 +693,7 @@
 <LM>w#w-ln94211-74-p2s4w8</LM>
 </w.rf>
 <form>nesprávnému</form>
-<tag lemma="správný_^(podle_něj._měřítek;_př._chlap,_míra,...)" src="orig" selected="1">AAIS3----1N----</tag>
+<tag lemma="správný" src="orig" selected="1">AAIS3----1N----</tag>
 </m>
 <m id="m-ln94211-74-p2s4w9">
 <src.rf>manual</src.rf>

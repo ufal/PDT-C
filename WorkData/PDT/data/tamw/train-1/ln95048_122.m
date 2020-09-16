@@ -460,7 +460,7 @@
 <LM>w#w-ln95048-122-p2s3w19</LM>
 </w.rf>
 <form>potřeby</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-ln95048-122-p2s3w20">
 <src.rf>manual</src.rf>
@@ -478,7 +478,7 @@
 <LM>w#w-ln95048-122-p2s4w1</LM>
 </w.rf>
 <form>Druhá</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS1----------</tag>
 </m>
 <m id="m-ln95048-122-p2s4w2">
 <src.rf>manual</src.rf>

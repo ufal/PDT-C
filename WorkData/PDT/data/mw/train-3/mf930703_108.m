@@ -421,7 +421,7 @@
 <LM>w#w-mf930703-108-p2s2w7</LM>
 </w.rf>
 <form>výbor</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930703-108-p2s2w8">
 <src.rf>manual</src.rf>
@@ -562,7 +562,7 @@
 <LM>w#w-mf930703-108-p3s1w7</LM>
 </w.rf>
 <form>delší</form>
-<tag lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">AAIS4----2A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAIS4----2A----</tag>
 </m>
 <m id="m-mf930703-108-p3s1w8">
 <src.rf>manual</src.rf>
@@ -804,7 +804,7 @@
 <LM>w#w-mf930703-108-p3s2w20</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-mf930703-108-p3s2w21">
 <src.rf>manual</src.rf>
@@ -1288,7 +1288,7 @@
 <LM>w#w-mf930703-108-p4s4w5</LM>
 </w.rf>
 <form>děti</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-mf930703-108-p4s4w6">
 <src.rf>manual</src.rf>
@@ -1695,7 +1695,7 @@
 <LM>w#w-mf930703-108-p4s8w3</LM>
 </w.rf>
 <form>třeba</form>
-<tag lemma="třeba-2" src="auto" selected="1">Db-------------</tag>
+<tag lemma="třeba-1" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf930703-108-p4s8w4">
 <src.rf>manual</src.rf>
@@ -2052,7 +2052,7 @@
 <LM>w#w-mf930703-108-p5s1w25</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930703-108-p5s1w26">
 <src.rf>manual</src.rf>

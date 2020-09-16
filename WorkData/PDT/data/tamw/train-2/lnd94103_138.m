@@ -59,7 +59,7 @@
 <LM>w#w-lnd94103-138-p1s1w6</LM>
 </w.rf>
 <form>Slavie</form>
-<tag lemma="Slavia_;m" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Slavie_;m_,s_^(^DD**Slávie)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94103-138-p1s1w7">
 <src.rf>manual</src.rf>

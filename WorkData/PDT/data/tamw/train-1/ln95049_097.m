@@ -86,7 +86,7 @@
 <LM>w#w-ln95049-097-p1s1w9</LM>
 </w.rf>
 <form>cestě</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln95049-097-p1s1w10">
 <src.rf>manual</src.rf>
@@ -355,7 +355,7 @@
 <LM>w#w-ln95049-097-p2s1Bw26</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95049-097-p2s1Bw27">
 <src.rf>manual</src.rf>
@@ -483,7 +483,7 @@
 <LM>w#w-ln95049-097-p3s1w9</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS7----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS7----------</tag>
 </m>
 <m id="m-ln95049-097-p3s1w10">
 <src.rf>manual</src.rf>
@@ -1069,7 +1069,7 @@
 <LM>w#w-ln95049-097-p4s2w3</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS2---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS2---------1</tag>
 </m>
 <m id="m-ln95049-097-p4s2w4">
 <src.rf>manual</src.rf>
@@ -1077,7 +1077,7 @@
 <LM>w#w-ln95049-097-p4s2w4</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95049-097-p4s2w5">
 <src.rf>manual</src.rf>
@@ -1186,7 +1186,7 @@
 <LM>w#w-ln95049-097-p4s3w7</LM>
 </w.rf>
 <form>my</form>
-<tag lemma="já" src="orig" selected="1">PP-P1--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P1--1-------</tag>
 </m>
 <m id="m-ln95049-097-p4s3w8">
 <src.rf>manual</src.rf>
@@ -1236,7 +1236,7 @@
 <form>NATO</form>
 <tag>
 <AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="NATO_;m_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="NATO-1_;m_^(Northtlantic_Treaty_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-097-p4s3w14">

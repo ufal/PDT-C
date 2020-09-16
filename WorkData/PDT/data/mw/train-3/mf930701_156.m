@@ -59,7 +59,7 @@
 <LM>w#w-mf930701-156-p1s1w6</LM>
 </w.rf>
 <form>Rady</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930701-156-p1s1w7">
 <src.rf>manual</src.rf>
@@ -67,7 +67,7 @@
 <LM>w#w-mf930701-156-p1s1w7</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 </s>
 <s id="m-mf930701-156-p2s1">
@@ -104,7 +104,7 @@
 <LM>w#w-mf930701-156-p2s1w4</LM>
 </w.rf>
 <form>našeho</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSZS2-P1-------</tag>
 </m>
 <m id="m-mf930701-156-p2s1w5">
 <src.rf>manual</src.rf>
@@ -144,7 +144,7 @@
 <LM>w#w-mf930701-156-p2s1w9</LM>
 </w.rf>
 <form>Rada</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930701-156-p2s1w10">
 <src.rf>manual</src.rf>
@@ -152,7 +152,7 @@
 <LM>w#w-mf930701-156-p2s1w10</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930701-156-p2s1w11">
 <src.rf>manual</src.rf>
@@ -252,7 +252,7 @@
 <LM>w#w-mf930701-156-p2s3w3</LM>
 </w.rf>
 <form>přijetí</form>
-<tag lemma="přijetí_^(*3mout)" src="auto" selected="1">NNNS6-----A----</tag>
+<tag lemma="přijetí_^(*1)_(*3mout)" src="auto" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-mf930701-156-p2s3w4">
 <src.rf>manual</src.rf>
@@ -350,7 +350,7 @@
 <LM>w#w-mf930701-156-p2s4w3</LM>
 </w.rf>
 <form>lety</form>
-<tag lemma="rok" src="orig" selected="1">NNNP7-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP7-----A----</tag>
 </m>
 <m id="m-mf930701-156-p2s4w4">
 <src.rf>manual</src.rf>
@@ -374,7 +374,7 @@
 <LM>w#w-mf930701-156-p2s4w6</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-mf930701-156-p2s4w7">
 <src.rf>manual</src.rf>
@@ -446,7 +446,7 @@
 <LM>w#w-mf930701-156-p2s4w15</LM>
 </w.rf>
 <form>Evropě</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf930701-156-p2s4w16">
 <src.rf>manual</src.rf>
@@ -744,7 +744,7 @@
 <LM>w#w-mf930701-156-p2s5w19</LM>
 </w.rf>
 <form>Radu</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf930701-156-p2s5w20">
 <src.rf>manual</src.rf>
@@ -752,7 +752,7 @@
 <LM>w#w-mf930701-156-p2s5w20</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930701-156-p2s5w21">
 <src.rf>manual</src.rf>
@@ -898,7 +898,7 @@
 <LM>w#w-mf930701-156-p2s6w2</LM>
 </w.rf>
 <form>Rady</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930701-156-p2s6w3">
 <src.rf>manual</src.rf>
@@ -906,7 +906,7 @@
 <LM>w#w-mf930701-156-p2s6w3</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930701-156-p2s6w4">
 <src.rf>manual</src.rf>
@@ -994,7 +994,7 @@
 <LM>w#w-mf930701-156-p2s6w14</LM>
 </w.rf>
 <form>Evropě</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf930701-156-p2s6w15">
 <src.rf>manual</src.rf>
@@ -1116,7 +1116,7 @@
 <LM>w#w-mf930701-156-p2s7w2</LM>
 </w.rf>
 <form>zpomalení</form>
-<tag lemma="zpomalení_,s_^(*2t)" src="auto" selected="1">NNNS1-----A----</tag>
+<tag lemma="zpomalení_^(*2t)_(*3it)" src="auto" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf930701-156-p2s7w3">
 <src.rf>manual</src.rf>
@@ -1281,7 +1281,7 @@
 <form>NATO</form>
 <tag>
 <AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="NATO_;m_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="NATO-1_;m_^(Northtlantic_Treaty_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-156-p2s7w23">
@@ -1306,7 +1306,7 @@
 <LM>w#w-mf930701-156-p2s7w25</LM>
 </w.rf>
 <form>Rady</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930701-156-p2s7w26">
 <src.rf>manual</src.rf>
@@ -1314,7 +1314,7 @@
 <LM>w#w-mf930701-156-p2s7w26</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930701-156-p2s7w27">
 <src.rf>manual</src.rf>
@@ -1644,7 +1644,7 @@
 <LM>w#w-mf930701-156-p2s9w11</LM>
 </w.rf>
 <form>Rady</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930701-156-p2s9w12">
 <src.rf>manual</src.rf>
@@ -1652,7 +1652,7 @@
 <LM>w#w-mf930701-156-p2s9w12</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930701-156-p2s9w13">
 <src.rf>manual</src.rf>
@@ -1750,7 +1750,7 @@
 <LM>w#w-mf930701-156-p2s10w11</LM>
 </w.rf>
 <form>orgánu</form>
-<tag lemma="orgán" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930701-156-p2s10w12">
 <src.rf>manual</src.rf>
@@ -2092,7 +2092,7 @@
 <LM>w#w-mf930701-156-p2s13w10</LM>
 </w.rf>
 <form>Rady</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930701-156-p2s13w11">
 <src.rf>manual</src.rf>
@@ -2100,7 +2100,7 @@
 <LM>w#w-mf930701-156-p2s13w11</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930701-156-p2s13w12">
 <src.rf>manual</src.rf>
@@ -2453,7 +2453,7 @@
 <LM>w#w-mf930701-156-p2s14w32</LM>
 </w.rf>
 <form>práva</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNP4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNP4-----A----</tag>
 </m>
 <m id="m-mf930701-156-p2s14w33">
 <src.rf>manual</src.rf>
@@ -2941,7 +2941,7 @@
 <LM>w#w-mf930701-156-p2s15w59</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-mf930701-156-p2s15w60">
 <src.rf>manual</src.rf>
@@ -3039,7 +3039,7 @@
 <LM>w#w-mf930701-156-p2s16w7</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8YP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8YP4---------1</tag>
 </m>
 <m id="m-mf930701-156-p2s16w8">
 <src.rf>manual</src.rf>
@@ -3135,7 +3135,7 @@
 <LM>w#w-mf930701-156-p2s16w19</LM>
 </w.rf>
 <form>práva</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNP4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNP4-----A----</tag>
 </m>
 <m id="m-mf930701-156-p2s16w20">
 <src.rf>manual</src.rf>
@@ -3281,7 +3281,7 @@
 <LM>w#w-mf930701-156-p2s17w10</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-156-p2s17w11">
 <src.rf>manual</src.rf>
@@ -3494,7 +3494,7 @@
 <LM>w#w-mf930701-156-p2s18w20</LM>
 </w.rf>
 <form>Radě</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-mf930701-156-p2s18w21">
 <src.rf>manual</src.rf>
@@ -3502,7 +3502,7 @@
 <LM>w#w-mf930701-156-p2s18w21</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930701-156-p2s18w22">
 <src.rf>manual</src.rf>
@@ -3640,7 +3640,7 @@
 <LM>w#w-mf930701-156-p2s19w2</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-mf930701-156-p2s19w3">
 <src.rf>manual</src.rf>
@@ -3664,7 +3664,7 @@
 <LM>w#w-mf930701-156-p2s19w5</LM>
 </w.rf>
 <form>Rada</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930701-156-p2s19w6">
 <src.rf>manual</src.rf>
@@ -3672,7 +3672,7 @@
 <LM>w#w-mf930701-156-p2s19w6</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930701-156-p2s19w7">
 <src.rf>manual</src.rf>

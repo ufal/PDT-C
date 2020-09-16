@@ -683,7 +683,7 @@
 <LM>w#w-mf930709-077-p2s5w1</LM>
 </w.rf>
 <form>Právo</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf930709-077-p2s5w2">
 <src.rf>manual</src.rf>

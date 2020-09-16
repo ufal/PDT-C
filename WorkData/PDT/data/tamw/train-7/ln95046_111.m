@@ -395,7 +395,7 @@
 <LM>w#w-ln95046-111-p2s3w10</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-ln95046-111-p2s3w11">
 <src.rf>manual</src.rf>
@@ -637,7 +637,7 @@
 <LM>w#w-ln95046-111-p2s4w26</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln95046-111-p2s4w27">
 <src.rf>manual</src.rf>
@@ -783,7 +783,7 @@
 <LM>w#w-ln95046-111-p2s5w17</LM>
 </w.rf>
 <form>mluvčího</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95046-111-p2s5w18">
 <src.rf>manual</src.rf>
@@ -969,7 +969,7 @@
 <LM>w#w-ln95046-111-p2s6w5</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-4_^(v_knize,_rukopise,...)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 </s>
 </mdata>

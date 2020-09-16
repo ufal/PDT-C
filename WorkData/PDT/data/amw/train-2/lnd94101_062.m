@@ -103,7 +103,7 @@
 <LM>w#w-lnd94101-062-p1s3w4</LM>
 </w.rf>
 <form>bílými</form>
-<tag lemma="bílý" src="orig" selected="1">AAFP7----1A----</tag>
+<tag lemma="bílý_;o" src="orig" selected="1">AAFP7----1A----</tag>
 </m>
 <m id="m-lnd94101-062-p1s3w5">
 <src.rf>manual</src.rf>

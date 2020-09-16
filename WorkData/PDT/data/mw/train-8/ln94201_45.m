@@ -215,7 +215,7 @@
 <LM>w#w-ln94201-45-p2s2w4</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-45-p2s2w5">
 <src.rf>manual</src.rf>
@@ -473,7 +473,7 @@
 <LM>w#w-ln94201-45-p2s5w1</LM>
 </w.rf>
 <form>Svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-ln94201-45-p2s5w2">
 <src.rf>manual</src.rf>
@@ -782,7 +782,7 @@
 <LM>w#w-ln94201-45-p3s1w18</LM>
 </w.rf>
 <form>ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94201-45-p3s1w19">
 <src.rf>manual</src.rf>
@@ -856,7 +856,7 @@
 <LM>w#w-ln94201-45-p3s2w3</LM>
 </w.rf>
 <form>zastavení</form>
-<tag lemma="zastavení-1_^([také_z._se];_uvést_do_klidu:_auto,...)_(*5it-1)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="zastavení_^(*3it)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln94201-45-p3s2w4">
 <src.rf>manual</src.rf>
@@ -952,7 +952,7 @@
 <LM>w#w-ln94201-45-p3s2w15</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS2---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS2---------1</tag>
 </m>
 <m id="m-ln94201-45-p3s2w16">
 <src.rf>manual</src.rf>

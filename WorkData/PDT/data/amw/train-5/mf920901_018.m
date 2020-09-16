@@ -85,7 +85,7 @@
 <LM>w#w-mf920901-018-p1s2w7</LM>
 </w.rf>
 <form>prostředky</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-mf920901-018-p1s2w8">
 <src.rf>manual</src.rf>
@@ -237,7 +237,7 @@
 <LM>w#w-mf920901-018-p2s1w17</LM>
 </w.rf>
 <form>organismu</form>
-<tag lemma="organismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="organismus_,s_^(^DD**organizmus)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920901-018-p2s1w18">
 <src.rf>manual</src.rf>
@@ -725,7 +725,7 @@
 <LM>w#w-mf920901-018-p3s4w3</LM>
 </w.rf>
 <form>prostředky</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-mf920901-018-p3s4w4">
 <src.rf>manual</src.rf>

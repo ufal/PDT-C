@@ -154,7 +154,7 @@
 <LM>w#w-lnd94103-015-p1s3Aw1</LM>
 </w.rf>
 <form>Dlouhá</form>
-<tag lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-lnd94103-015-p1s3Aw2">
 <src.rf>manual</src.rf>
@@ -438,7 +438,7 @@
 <LM>w#w-lnd94103-015-p1s4Aw17</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-lnd94103-015-p1s4Aw18">
 <src.rf>manual</src.rf>
@@ -554,7 +554,7 @@
 <LM>w#w-lnd94103-015-p1s5Aw3</LM>
 </w.rf>
 <form>vás</form>
-<tag lemma="ty" src="orig" selected="1">PP-P4--2-------</tag>
+<tag lemma="vy" src="orig" selected="1">PP-P4--2-------</tag>
 </m>
 <m id="m-lnd94103-015-p1s5Aw4">
 <src.rf>manual</src.rf>
@@ -588,7 +588,7 @@
 <LM>w#w-lnd94103-015-p1s5Bw1</LM>
 </w.rf>
 <form>Manažer</form>
-<tag lemma="manažer" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="manažer-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-015-p1s5Bw2">
 <src.rf>manual</src.rf>
@@ -760,7 +760,7 @@
 <LM>w#w-lnd94103-015-p1s6Bw4</LM>
 </w.rf>
 <form>vašeho</form>
-<tag lemma="tvůj_^(přivlast.)" src="orig" selected="1">PSZS2-P2-------</tag>
+<tag lemma="váš" src="orig" selected="1">PSZS2-P2-------</tag>
 </m>
 <m id="m-lnd94103-015-p1s6Bw5">
 <src.rf>manual</src.rf>

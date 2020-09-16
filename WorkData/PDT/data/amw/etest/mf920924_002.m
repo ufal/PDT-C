@@ -394,7 +394,7 @@
 <LM>w#w-mf920924-002-p2s3w7</LM>
 </w.rf>
 <form>podání</form>
-<tag lemma="podání_^(něco_[někomu]_[někam])_(*3at)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="podání_^(*3at)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-mf920924-002-p2s3w8">
 <src.rf>manual</src.rf>
@@ -444,7 +444,7 @@
 <LM>w#w-mf920924-002-p2s4w5</LM>
 </w.rf>
 <form>naší</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS2-P1-------</tag>
 </m>
 <m id="m-mf920924-002-p2s4w6">
 <src.rf>manual</src.rf>
@@ -705,7 +705,7 @@
 <LM>w#w-mf920924-002-p2s5Aw23</LM>
 </w.rf>
 <form>naší</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS2-P1-------</tag>
 </m>
 <m id="m-mf920924-002-p2s5Aw24">
 <src.rf>manual</src.rf>
@@ -967,7 +967,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1202,7 +1202,7 @@
 <LM>w#w-mf920924-002-p2s7Aw34</LM>
 </w.rf>
 <form>prvních</form>
-<tag lemma="první" src="orig" selected="1">CrFP2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFP2----------</tag>
 </m>
 <m id="m-mf920924-002-p2s7Aw35">
 <src.rf>manual</src.rf>

@@ -491,7 +491,7 @@
 <LM>w#w-mf920924-010-p1s4w6</LM>
 </w.rf>
 <form>dlouhou</form>
-<tag lemma="dlouhý-1_^(fyz._délka;_př._dlouhá_tyč)" src="orig" selected="1">AAFS7----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFS7----1A----</tag>
 </m>
 <m id="m-mf920924-010-p1s4w7">
 <src.rf>manual</src.rf>
@@ -533,7 +533,7 @@
 <LM>w#w-mf920924-010-p1s5w3</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS7---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS7---------1</tag>
 </m>
 <m id="m-mf920924-010-p1s5w4">
 <src.rf>manual</src.rf>

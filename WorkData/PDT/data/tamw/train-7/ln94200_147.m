@@ -135,7 +135,7 @@
 <LM>w#w-ln94200-147-p2s1Bw11</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-ln94200-147-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -261,7 +261,7 @@
 <LM>w#w-ln94200-147-p2s2w4</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-147-p2s2w5">
 <src.rf>manual</src.rf>
@@ -426,7 +426,7 @@
 <LM>w#w-ln94200-147-p2s4w1</LM>
 </w.rf>
 <form>Své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8NS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8NS4---------1</tag>
 </m>
 <m id="m-ln94200-147-p2s4w2">
 <src.rf>manual</src.rf>

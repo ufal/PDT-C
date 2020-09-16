@@ -127,7 +127,7 @@
 <LM>w#w-cmpr9416-024-p4s1w6</LM>
 </w.rf>
 <form>umí</form>
-<tag lemma="umět_^(mít_schopnost_něco_dělat)" src="auto" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="umět" src="auto" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9416-024-p4s1w7">
 <src.rf>manual</src.rf>
@@ -325,7 +325,7 @@
 <LM>w#w-cmpr9416-024-p5s2w4</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-cmpr9416-024-p5s2w5">
 <src.rf>manual</src.rf>
@@ -730,7 +730,7 @@
 <LM>w#w-cmpr9416-024-p6s2w17</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-cmpr9416-024-p6s2w18">
 <src.rf>manual</src.rf>
@@ -1495,7 +1495,7 @@
 <form>starosti</form>
 <tag>
 <AM lemma="starost" src="orig">NNFP1-----A----</AM>
-<AM lemma="starost-1" src="auto" recommended="1" selected="1">NNFP1-----A----</AM>
+<AM lemma="starost-2_^(*5ý-2)" src="auto" recommended="1" selected="1">NNFP1-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFP4-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFP5-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFS2-----A----</AM>
@@ -1838,7 +1838,7 @@
 <LM>w#w-cmpr9416-024-p9s1w3</LM>
 </w.rf>
 <form>zveřejněné</form>
-<tag lemma="zveřejněný_^(*3it)" src="orig" selected="1">AAIP4----1A----</tag>
+<tag lemma="zveřejněný_^(*2t)_(*3it)" src="orig" selected="1">AAIP4----1A----</tag>
 </m>
 <m id="m-cmpr9416-024-p9s1w4">
 <src.rf>manual</src.rf>

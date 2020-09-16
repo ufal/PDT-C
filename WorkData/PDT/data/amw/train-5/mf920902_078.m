@@ -111,7 +111,7 @@
 <LM>w#w-mf920902-078-p2s4w8</LM>
 </w.rf>
 <form>druhém</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-mf920902-078-p2s4w9">
 <src.rf>manual</src.rf>

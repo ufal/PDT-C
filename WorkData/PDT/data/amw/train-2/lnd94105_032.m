@@ -517,7 +517,7 @@
 <LM>w#w-lnd94105-032-p1s7w2</LM>
 </w.rf>
 <form>mluvčího</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94105-032-p1s7w3">
 <src.rf>manual</src.rf>
@@ -525,7 +525,7 @@
 <LM>w#w-lnd94105-032-p1s7w3</LM>
 </w.rf>
 <form>Davida</form>
-<tag lemma="David_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="David-1_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94105-032-p1s7w4">
 <src.rf>manual</src.rf>
@@ -592,7 +592,7 @@
 <LM>w#w-lnd94105-032-p1s7w11</LM>
 </w.rf>
 <form>kandidátky</form>
-<tag lemma="kandidátka_^(seznam_kandidátů)" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="kandidátka_^(*2)" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-lnd94105-032-p1s7w12">
 <src.rf>manual</src.rf>
@@ -1420,7 +1420,7 @@
 <LM>w#w-lnd94105-032-p1s11w11</LM>
 </w.rf>
 <form>členů</form>
-<tag lemma="člen" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd94105-032-p1s11w12">
 <src.rf>manual</src.rf>

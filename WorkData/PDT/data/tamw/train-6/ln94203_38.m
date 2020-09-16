@@ -292,7 +292,7 @@
 <LM>w#w-ln94203-38-p2s2w3</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS2---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS2---------1</tag>
 </m>
 <m id="m-ln94203-38-p2s2w4">
 <src.rf>manual</src.rf>
@@ -372,7 +372,7 @@
 <LM>w#w-ln94203-38-p2s2w13</LM>
 </w.rf>
 <form>kandidátky</form>
-<tag lemma="kandidátka_^(seznam_kandidátů)" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="kandidátka_^(*2)" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-ln94203-38-p2s2w14">
 <src.rf>manual</src.rf>
@@ -678,7 +678,7 @@
 <LM>w#w-ln94203-38-p2s4w15</LM>
 </w.rf>
 <form>členem</form>
-<tag lemma="člen" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94203-38-p2s4w16">
 <src.rf>manual</src.rf>
@@ -875,7 +875,7 @@
 <LM>w#w-ln94203-38-p2s5w18</LM>
 </w.rf>
 <form>managementu</form>
-<tag lemma="management_^(vedení,_manažment;_angl.)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="management_,s_^(^DD**manažment)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94203-38-p2s5w19">
 <src.rf>manual</src.rf>

@@ -451,7 +451,7 @@
 <LM>w#w-mf920923-083-p2s4w7</LM>
 </w.rf>
 <form>cestě</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf920923-083-p2s4w8">
 <src.rf>manual</src.rf>

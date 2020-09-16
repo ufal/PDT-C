@@ -292,7 +292,7 @@
 <LM>w#w-lnd92251-115-p2s3w4</LM>
 </w.rf>
 <form>sudího</form>
-<tag lemma="sudí" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="sudí-1" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd92251-115-p2s3w5">
 <src.rf>manual</src.rf>
@@ -464,7 +464,7 @@
 <LM>w#w-lnd92251-115-p2s3w25</LM>
 </w.rf>
 <form>vrchnost</form>
-<tag lemma="vrchnost_,a_^(horní)_(*3ý)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="vrchnost" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-lnd92251-115-p2s3w26">
 <src.rf>manual</src.rf>
@@ -1178,7 +1178,7 @@
 <LM>w#w-lnd92251-115-p2s7w3</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-lnd92251-115-p2s7w4">
 <src.rf>manual</src.rf>
@@ -1196,7 +1196,7 @@
 <form>hodně</form>
 <tag>
 <AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="hodně_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-115-p2s7w6">

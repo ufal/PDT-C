@@ -448,7 +448,7 @@
 <LM>w#w-ln95044-062-p3s1w12</LM>
 </w.rf>
 <form>moji</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSMP1-S1-------</tag>
+<tag lemma="můj" src="orig" selected="1">PSMP1-S1-------</tag>
 </m>
 <m id="m-ln95044-062-p3s1w13">
 <src.rf>manual</src.rf>

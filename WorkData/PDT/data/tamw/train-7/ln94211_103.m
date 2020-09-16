@@ -511,7 +511,7 @@
 <LM>w#w-ln94211-103-p2s2w41</LM>
 </w.rf>
 <form>nosiči</form>
-<tag lemma="nosič" src="orig" selected="1">NNIP7-----A----</tag>
+<tag lemma="nosič-2" src="orig" selected="1">NNIP7-----A----</tag>
 </m>
 <m id="m-ln94211-103-p2s2w42">
 <src.rf>manual</src.rf>
@@ -815,7 +815,7 @@
 <LM>w#w-ln94211-103-p2s4w16</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-ln94211-103-p2s4w17">
 <src.rf>manual</src.rf>
@@ -1009,7 +1009,7 @@
 <LM>w#w-ln94211-103-p2s5w13</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln94211-103-p2s5w14">
 <src.rf>manual</src.rf>
@@ -1033,7 +1033,7 @@
 <LM>w#w-ln94211-103-p2s5w16</LM>
 </w.rf>
 <form>nahrávací</form>
-<tag lemma="nahrávací" src="auto" selected="1">AAIS1----1A----</tag>
+<tag lemma="nahrávací_^(*2t)" src="auto" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-ln94211-103-p2s5w17">
 <src.rf>manual</src.rf>
@@ -1323,7 +1323,7 @@
 <LM>w#w-ln94211-103-p3s1w32</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln94211-103-p3s1w33">
 <src.rf>manual</src.rf>

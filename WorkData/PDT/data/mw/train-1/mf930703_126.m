@@ -250,7 +250,7 @@
 <LM>w#w-mf930703-126-p2s2w5</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-mf930703-126-p2s2w6">
 <src.rf>manual</src.rf>

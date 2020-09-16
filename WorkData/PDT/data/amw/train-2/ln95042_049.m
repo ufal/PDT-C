@@ -205,7 +205,7 @@
 <LM>w#w-ln95042-049-p2s1Bw16</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS3---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS3---------1</tag>
 </m>
 <m id="m-ln95042-049-p2s1Bw17">
 <src.rf>manual</src.rf>
@@ -510,7 +510,7 @@
 <LM>w#w-ln95042-049-p2s4w7</LM>
 </w.rf>
 <form>zastavení</form>
-<tag lemma="zastavení-1_^([také_z._se];_uvést_do_klidu:_auto,...)_(*5it-1)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="zastavení_^(*3it)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln95042-049-p2s4w8">
 <src.rf>manual</src.rf>
@@ -582,7 +582,7 @@
 <LM>w#w-ln95042-049-p2s4w16</LM>
 </w.rf>
 <form>pasívnímu</form>
-<tag lemma="pasívní" src="orig" selected="1">AANS3----1A----</tag>
+<tag lemma="pasívní_,s_^(^DD**pasivní)" src="orig" selected="1">AANS3----1A----</tag>
 </m>
 <m id="m-ln95042-049-p2s4w17">
 <src.rf>manual</src.rf>
@@ -747,7 +747,7 @@
 <LM>w#w-ln95042-049-p2s5w18</LM>
 </w.rf>
 <form>Marseille</form>
-<tag lemma="Marseille_;G" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="Marseille-2_;G" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln95042-049-p2s5w19">
 <src.rf>manual</src.rf>

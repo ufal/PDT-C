@@ -160,7 +160,7 @@
 <LM>w#w-lnd92251-003-p1s1w17</LM>
 </w.rf>
 <form>bílá</form>
-<tag lemma="bílý" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="bílý_;o" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-lnd92251-003-p1s1w18">
 <src.rf>manual</src.rf>

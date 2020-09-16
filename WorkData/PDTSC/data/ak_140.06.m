@@ -179,7 +179,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m140-d1t1115-1">
@@ -229,7 +229,7 @@
 </w.rf>
 <form>Děti</form>
 <tag>
-<AM lemma="dítě" src="auto" recommended="1">NNFP1-----A----</AM>
+<AM lemma="dítě-2" src="auto" recommended="1">NNFP1-----A----</AM>
 <AM lemma="dítě" src="auto">NNFP4-----A----</AM>
 <AM lemma="dítě" src="auto">NNFP5-----A----</AM>
 </tag>
@@ -855,7 +855,7 @@
 </w.rf>
 <form>děti</form>
 <tag>
-<AM lemma="dítě" src="auto" recommended="1">NNFP1-----A----</AM>
+<AM lemma="dítě-2" src="auto" recommended="1">NNFP1-----A----</AM>
 <AM lemma="dítě" src="auto">NNFP4-----A----</AM>
 <AM lemma="dítě" src="auto">NNFP5-----A----</AM>
 </tag>
@@ -974,7 +974,7 @@
 <LM>w#w-d1t1152-2</LM>
 </w.rf>
 <form>Vypadáte</form>
-<tag lemma="vypadat" src="auto" recommended="1">VB-P---2P-AAI--</tag>
+<tag lemma="vypadat-1_^(ty_vypadáš)" src="auto" recommended="1">VB-P---2P-AAI--</tag>
 </m>
 <m id="m140-d1t1152-1">
 <w.rf>
@@ -1847,7 +1847,7 @@
 </w.rf>
 <form>vás</form>
 <tag>
-<AM lemma="ty" src="auto" recommended="1">PP-P2--2-------</AM>
+<AM lemma="vy" src="auto" recommended="1">PP-P2--2-------</AM>
 <AM lemma="ty" src="auto">PP-P4--2-------</AM>
 <AM lemma="ty" src="auto">PP-P6--2-------</AM>
 </tag>
@@ -2565,7 +2565,7 @@
 </w.rf>
 <form>Bonsaje</form>
 <tag>
-<AM lemma="bonsaj" src="auto" selected="1">NNFP1-----A----</AM>
+<AM lemma="bonsaj-1" src="auto" selected="1">NNFP1-----A----</AM>
 <AM lemma="bonsaj" src="auto">NNFP4-----A----</AM>
 <AM lemma="bonsaj" src="auto">NNFP5-----A----</AM>
 <AM lemma="bonsaj" src="auto">NNFS2-----A----</AM>
@@ -3515,7 +3515,7 @@
 </w.rf>
 <form>zeravu</form>
 <tag>
-<AM lemma="zerav_;U" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="zerav" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="zerav_;U" src="auto">NNIS3-----A----</AM>
 <AM lemma="zerav_;U" src="auto">NNIS6-----A----</AM>
 </tag>
@@ -3832,7 +3832,7 @@
 <AM lemma="málo-1_^(málo_+_2._p.,_málo_peněz)" src="auto">Ca--4----------</AM>
 <AM lemma="málo-1_^(málo_+_2._p.,_málo_peněz)" src="auto">Ca--6----------</AM>
 <AM lemma="málo-1_^(málo_+_2._p.,_málo_peněz)" src="auto">Ca--7----------</AM>
-<AM lemma="málo-3_^(málo_+_příd._jm.,_př._byl_málo_důsledný)" src="auto" recommended="1">Dg-------1A----</AM>
+<AM lemma="málo-3_^(málo_důsledný)" src="auto" recommended="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m140-d1t1243-15">

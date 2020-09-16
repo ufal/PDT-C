@@ -237,7 +237,7 @@
 <LM>w#w-ln94202-37-p2s1Bw12</LM>
 </w.rf>
 <form>stanovenými</form>
-<tag lemma="stanovený_^(určit)_(*3it)" src="orig" selected="1">AAIP7----1A----</tag>
+<tag lemma="stanovený_^(*3it)" src="orig" selected="1">AAIP7----1A----</tag>
 </m>
 <m id="m-ln94202-37-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -359,7 +359,7 @@
 <LM>w#w-ln94202-37-p2s2w12</LM>
 </w.rf>
 <form>orgánech</form>
-<tag lemma="orgán" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-ln94202-37-p2s2w13">
 <src.rf>manual</src.rf>
@@ -935,7 +935,7 @@
 <LM>w#w-ln94202-37-p3s2w20</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94202-37-p3s2w21">
 <src.rf>manual</src.rf>
@@ -1505,7 +1505,7 @@
 <LM>w#w-ln94202-37-p4s1w13</LM>
 </w.rf>
 <form>skotu</form>
-<tag lemma="skot" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="skot-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94202-37-p4s1w14">
 <src.rf>manual</src.rf>
@@ -1714,7 +1714,7 @@
 <LM>w#w-ln94202-37-p4s2w10</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-ln94202-37-p4s2w11">
 <src.rf>manual</src.rf>

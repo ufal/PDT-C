@@ -1019,7 +1019,7 @@
 <LM>w#w-lnd92252-064-p1s1w126</LM>
 </w.rf>
 <form>York</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="York-2_;G_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92252-064-p1s1w127">
 <src.rf>manual</src.rf>
@@ -1554,7 +1554,7 @@
 <LM>w#w-lnd92252-064-p2s1w16</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-lnd92252-064-p2s1w17">
 <src.rf>manual</src.rf>

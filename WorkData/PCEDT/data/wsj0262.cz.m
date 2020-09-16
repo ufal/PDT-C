@@ -646,7 +646,7 @@
 </w.rf>
 <form>Stamfordu</form>
 <tag>
-<AM lemma="Stamford_;G" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="Stamford_;G_;m" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="Stamford_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="Stamford_;G" src="auto">NNIS6-----A----</AM>
 </tag>
@@ -707,7 +707,7 @@
 <tag>
 <AM lemma="Newport_;G" src="auto">NNIS2-----A----</AM>
 <AM lemma="Newport_;G" src="auto">NNIS3-----A----</AM>
-<AM lemma="Newport_;G" src="auto" recommended="1">NNIS6-----A---1</AM>
+<AM lemma="Newport_;G_;m" src="auto" recommended="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-wsj0262-001-p1s2W16-Ta">
@@ -1429,7 +1429,7 @@
 <LM>w#w-wsj0262-001-p1s5W18</LM>
 </w.rf>
 <form>Scott</form>
-<tag lemma="Scott_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="Scott-1_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj0262-001-p1s5W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2085,7 +2085,7 @@
 </w.rf>
 <form>Newportu</form>
 <tag>
-<AM lemma="Newport_;G" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="Newport_;G_;m" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="Newport_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="Newport_;G" src="auto">NNIS6-----A---1</AM>
 </tag>

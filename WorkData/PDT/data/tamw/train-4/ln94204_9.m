@@ -1956,7 +1956,7 @@
 <LM>w#w-ln94204-9-p5s1w19</LM>
 </w.rf>
 <form>ukazatele</form>
-<tag lemma="ukazatel" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="ukazatel-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94204-9-p5s1w20">
 <src.rf>manual</src.rf>
@@ -2127,7 +2127,7 @@
 <LM>w#w-ln94204-9-p5s2w17</LM>
 </w.rf>
 <form>ukazateli</form>
-<tag lemma="ukazatel" src="orig" selected="1">NNIS3-----A----</tag>
+<tag lemma="ukazatel-1" src="orig" selected="1">NNIS3-----A----</tag>
 </m>
 <m id="m-ln94204-9-p5s2w18">
 <src.rf>manual</src.rf>
@@ -2201,7 +2201,7 @@
 <LM>w#w-ln94204-9-p5s3w7</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-ln94204-9-p5s3w8">
 <src.rf>manual</src.rf>
@@ -2459,7 +2459,7 @@
 <LM>w#w-ln94204-9-p5s5w1</LM>
 </w.rf>
 <form>Ukazatel</form>
-<tag lemma="ukazatel" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="ukazatel-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94204-9-p5s5w2">
 <src.rf>manual</src.rf>

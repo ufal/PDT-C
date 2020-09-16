@@ -616,7 +616,7 @@
 <LM>w#w-ln95040-017-p2s4w10</LM>
 </w.rf>
 <form>pana</form>
-<tag lemma="pan_^(oslovení)" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="pan" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95040-017-p2s4w11">
 <src.rf>manual</src.rf>

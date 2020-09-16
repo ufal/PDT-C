@@ -2986,7 +2986,7 @@
 <AM lemma="můj_^(přivlast.)" src="auto">PSFS2-P1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSFS3-P1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSFS4-P1------6</AM>
-<AM lemma="můj_^(přivlast.)" src="auto" recommended="1">PSFS6-P1-------</AM>
+<AM lemma="náš" src="auto" recommended="1">PSFS6-P1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSFS7-P1-------</AM>
 </tag>
 </m>
@@ -3449,7 +3449,7 @@
 <AM lemma="polystyren" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="polystyren" src="auto">NNIS3-----A----</AM>
 <AM lemma="polystyren" src="auto">NNIS6-----A----</AM>
-<AM lemma="polystyren_,s_^(^DD**polystyrén)" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="polystyren" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0674-001-p1s9W12-Ta">
@@ -3997,7 +3997,7 @@
 <AM lemma="první" src="auto">CrIP4----------</AM>
 <AM lemma="první" src="auto">CrIP5----------</AM>
 <AM lemma="první" src="auto">CrIS1----------</AM>
-<AM lemma="první" src="auto" recommended="1">CrIS4----------</AM>
+<AM lemma="první-1" src="auto" recommended="1">CrIS4----------</AM>
 <AM lemma="první" src="auto">CrIS5----------</AM>
 <AM lemma="první" src="auto">CrMP1----------</AM>
 <AM lemma="první" src="auto">CrMP4----------</AM>
@@ -4060,7 +4060,7 @@
 <AM lemma="polystyren" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="polystyren" src="auto">NNIS3-----A----</AM>
 <AM lemma="polystyren" src="auto">NNIS6-----A----</AM>
-<AM lemma="polystyren_,s_^(^DD**polystyrén)" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="polystyren" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0674-001-p1s10W27-Ta">

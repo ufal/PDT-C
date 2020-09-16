@@ -241,7 +241,7 @@
 <LM>w#w-ln95040-086-p2s1Cw10</LM>
 </w.rf>
 <form>druhého</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS2----------</tag>
 </m>
 <m id="m-ln95040-086-p2s1Cw11">
 <src.rf>manual</src.rf>
@@ -379,7 +379,7 @@
 <LM>w#w-ln95040-086-p2s2w5</LM>
 </w.rf>
 <form>polní</form>
-<tag lemma="polní-1" src="orig" selected="1">AAMS1----1A----</tag>
+<tag lemma="polní" src="orig" selected="1">AAMS1----1A----</tag>
 </m>
 <m id="m-ln95040-086-p2s2w6">
 <src.rf>manual</src.rf>
@@ -868,7 +868,7 @@
 <LM>w#w-ln95040-086-p4s1w11</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrIP4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIP4----------</tag>
 </m>
 <m id="m-ln95040-086-p4s1w12">
 <src.rf>manual</src.rf>
@@ -972,7 +972,7 @@
 <LM>w#w-ln95040-086-p4s1w24</LM>
 </w.rf>
 <form>zastavení</form>
-<tag lemma="zastavení-1_^([také_z._se];_uvést_do_klidu:_auto,...)_(*5it-1)" src="orig" selected="1">NNNS3-----A----</tag>
+<tag lemma="zastavení_^(*3it)" src="orig" selected="1">NNNS3-----A----</tag>
 </m>
 <m id="m-ln95040-086-p4s1w25">
 <src.rf>manual</src.rf>
@@ -1368,7 +1368,7 @@
 <LM>w#w-ln95040-086-p5s1w15</LM>
 </w.rf>
 <form>práva</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln95040-086-p5s1w16">
 <src.rf>manual</src.rf>
@@ -1570,7 +1570,7 @@
 <LM>w#w-ln95040-086-p6s1w8</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1ZS1FS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1ZS1FS3-------</tag>
 </m>
 <m id="m-ln95040-086-p6s1w9">
 <src.rf>manual</src.rf>

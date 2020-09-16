@@ -405,7 +405,7 @@
 <LM>w#w-mf930708-061-p2s2w24</LM>
 </w.rf>
 <form>datum</form>
-<tag lemma="datum_^(kalendářní)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="datum-1_^(kalendářní)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf930708-061-p2s2w25">
 <src.rf>manual</src.rf>
@@ -769,7 +769,7 @@
 <LM>w#w-mf930708-061-p2s4w26</LM>
 </w.rf>
 <form>Vlasta</form>
-<tag lemma="Vlasta-2_;Y_,e_^(muž)" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vlasta-2_;Y_^(muž)" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-061-p2s4w27">
 <src.rf>manual</src.rf>
@@ -877,7 +877,7 @@
 <LM>w#w-mf930708-061-p2s4w39</LM>
 </w.rf>
 <form>Druhá</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS1----------</tag>
 </m>
 <m id="m-mf930708-061-p2s4w40">
 <src.rf>manual</src.rf>
@@ -999,7 +999,7 @@
 <LM>w#w-mf930708-061-p2s5w3</LM>
 </w.rf>
 <form>představení</form>
-<tag lemma="představení-2_^(divadelní,_filmové_apod.)" src="orig" selected="1">NNNP1-----A----</tag>
+<tag lemma="představení-1_^(*5it-1)" src="orig" selected="1">NNNP1-----A----</tag>
 </m>
 <m id="m-mf930708-061-p2s5w4">
 <src.rf>manual</src.rf>
@@ -1097,7 +1097,7 @@
 <LM>w#w-mf930708-061-p2s6w7</LM>
 </w.rf>
 <form>druhého</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS2----------</tag>
 </m>
 <m id="m-mf930708-061-p2s6w8">
 <src.rf>manual</src.rf>
@@ -1185,7 +1185,7 @@
 <LM>w#w-mf930708-061-p2s6w18</LM>
 </w.rf>
 <form>dny</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-mf930708-061-p2s6w19">
 <src.rf>manual</src.rf>

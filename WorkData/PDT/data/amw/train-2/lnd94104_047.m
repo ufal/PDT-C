@@ -396,7 +396,7 @@
 <LM>w#w-lnd94104-047-p1s4w23</LM>
 </w.rf>
 <form>roli</form>
-<tag lemma="role-1_^(kotouč;_svitek)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="role_^(svitek_poslání_pozemek)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd94104-047-p1s4w24">
 <src.rf>manual</src.rf>

@@ -283,7 +283,7 @@
 </w.rf>
 <form>Tatí</form>
 <tag>
-<AM lemma="tatí" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="tatí_,h_^(tatínek)" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="tatí" src="auto">NNMS5-----A----</AM>
 <AM lemma="tatí_,h_^(tatínek)" src="auto">NNMXX-----A----</AM>
 </tag>
@@ -460,7 +460,7 @@
 </w.rf>
 <form>tatí</form>
 <tag>
-<AM lemma="tatí" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="tatí_,h_^(tatínek)" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="tatí" src="auto">NNMS5-----A----</AM>
 <AM lemma="tatí_,h_^(tatínek)" src="auto">NNMXX-----A----</AM>
 </tag>
@@ -2092,7 +2092,7 @@
 <AM lemma="zamlžený_,a_^(*2t)" src="auto" recommended="1">AANS1----1A----</AM>
 <AM lemma="zamlžený_,a_^(*2t)" src="auto">AANS4----1A----</AM>
 <AM lemma="zamlžený_,a_^(*2t)" src="auto">AANS5----1A----</AM>
-<AM lemma="zamlžený_^(*2t)" src="manual" selected="1">AANS1----1A----</AM>
+<AM lemma="zamlžený_^(*3it)" src="manual" selected="1">AANS1----1A----</AM>
 </tag>
 </m>
 <m id="m005-2361-2373">

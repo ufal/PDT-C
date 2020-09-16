@@ -86,7 +86,7 @@
 <tag>
 <AM lemma="Sebastian_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Sebastian_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Sebastian_;Y_,s_^(^DD**Sebastián)" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Sebastian-1_;Y_,s_^(^DD**Sebastián)" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1789-001-p1s0W8-Ta">
@@ -439,7 +439,7 @@
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8XP3----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8ZS6---------7</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8ZS7----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8ZS7----------</AM>
 </tag>
 </m>
 <m id="m-wsj1789-001-p1s1W13-Ta">
@@ -825,7 +825,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1789-001-p1s2W17-Ta">
@@ -5840,7 +5840,7 @@
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FP4---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS2---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS3---------1</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8FS6---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8FS6---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8IP1---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8IP5---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS1---------1</AM>
@@ -6058,7 +6058,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1789-001-p1s22W17-Ta">
@@ -6714,7 +6714,7 @@
 <AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto">NNNP1-----A----</AM>
 <AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto">NNNP4-----A----</AM>
 <AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto">NNNP5-----A----</AM>
-<AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="právo" src="auto" recommended="1">NNNS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1789-001-p1s25W12-Ta">
@@ -7342,7 +7342,7 @@
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AAIP4----1A----</AM>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AAIP5----1A----</AM>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AAIS1----1A----</AM>
-<AM lemma="měsíční_^(lhůta;svit)" src="auto" recommended="1">AAIS4----1A----</AM>
+<AM lemma="měsíční" src="auto" recommended="1">AAIS4----1A----</AM>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AAIS5----1A----</AM>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AAMP1----1A----</AM>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AAMP4----1A----</AM>
@@ -7483,7 +7483,7 @@
 <form>vlastněných</form>
 <tag>
 <AM lemma="vlastněný_^(někdo_má_něco_ve_vlastnictví)_(*3it)" src="auto">AAFP2----1A----</AM>
-<AM lemma="vlastněný_^(někdo_má_něco_ve_vlastnictví)_(*3it)" src="auto" selected="1">AAFP6----1A----</AM>
+<AM lemma="vlastněný_^(*3it)" src="auto" selected="1">AAFP6----1A----</AM>
 <AM lemma="vlastněný_^(někdo_má_něco_ve_vlastnictví)_(*3it)" src="auto" recommended="1">AAIP2----1A----</AM>
 <AM lemma="vlastněný_^(někdo_má_něco_ve_vlastnictví)_(*3it)" src="auto">AAIP6----1A----</AM>
 <AM lemma="vlastněný_^(někdo_má_něco_ve_vlastnictví)_(*3it)" src="auto">AAMP2----1A----</AM>
@@ -8475,7 +8475,7 @@
 <AM lemma="nadšení_^(*4chnout)" src="auto">NNNP4-----A----</AM>
 <AM lemma="nadšení_^(*4chnout)" src="auto">NNNP5-----A----</AM>
 <AM lemma="nadšení_^(*4chnout)" src="auto">NNNS1-----A----</AM>
-<AM lemma="nadšení_^(*4chnout)" src="auto" selected="1">NNNS2-----A----</AM>
+<AM lemma="nadšení" src="auto" selected="1">NNNS2-----A----</AM>
 <AM lemma="nadšení_^(*4chnout)" src="auto">NNNS3-----A----</AM>
 <AM lemma="nadšení_^(*4chnout)" src="auto">NNNS4-----A----</AM>
 <AM lemma="nadšení_^(*4chnout)" src="auto">NNNS5-----A----</AM>
@@ -9213,7 +9213,7 @@
 <AM lemma="grupa" src="auto">NNFS5-----A----</AM>
 <AM lemma="grupo_,t" src="auto">NNFXX-----A----</AM>
 <AM lemma="grupo_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Grupo-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="grupo-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1789-001-p1s36W5-Ta">
@@ -9555,7 +9555,7 @@
 </w.rf>
 <form>svým</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8XP3----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8XP3----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8ZS6---------7</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8ZS7----------</AM>
 </tag>
@@ -9690,7 +9690,7 @@
 </w.rf>
 <form>nám</form>
 <tag>
-<AM lemma="já" src="auto" recommended="1">PP-P3--1-------</AM>
+<AM lemma="my" src="auto" recommended="1">PP-P3--1-------</AM>
 <AM lemma="náměstí_:B" src="auto">NNNXX-----A---8</AM>
 </tag>
 </m>
@@ -9865,7 +9865,7 @@
 <AM lemma="grupa" src="auto">NNFS5-----A----</AM>
 <AM lemma="grupo_,t" src="auto">NNFXX-----A----</AM>
 <AM lemma="grupo_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="Grupo-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="grupo-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1789-001-p1s38W20-Ta">
@@ -10540,7 +10540,7 @@
 <form>letech</form>
 <tag>
 <AM lemma="let" src="auto">NNIP6-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP6-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1789-001-p1s40W22-Ta">
@@ -12588,7 +12588,7 @@
 <AM lemma="ča_^(ča-ča)" src="auto">NNFS2-----A----</AM>
 <AM lemma="ča_^(ča-ča)" src="auto">NNFS3-----A---1</AM>
 <AM lemma="ča_^(ča-ča)" src="auto">NNFS6-----A---1</AM>
-<AM lemma="či" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="či-1" src="auto" recommended="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1789-001-p1s47W16-Ta">

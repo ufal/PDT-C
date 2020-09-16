@@ -447,7 +447,7 @@
 <form>vlastněnou</form>
 <tag>
 <AM lemma="vlastněný_^(někdo_má_něco_ve_vlastnictví)_(*3it)" src="auto">AAFS4----1A----</AM>
-<AM lemma="vlastněný_^(někdo_má_něco_ve_vlastnictví)_(*3it)" src="auto" recommended="1">AAFS7----1A----</AM>
+<AM lemma="vlastněný_^(*3it)" src="auto" recommended="1">AAFS7----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj1487-001-p1s0W43-Ta">

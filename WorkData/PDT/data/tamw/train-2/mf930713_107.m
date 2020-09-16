@@ -161,7 +161,7 @@
 <LM>w#w-mf930713-107-p1s2w13</LM>
 </w.rf>
 <form>ZASTAVENOU</form>
-<tag lemma="zastavený-1_^([také_z._se];_uvést_do_klidu:_auto,...)_(*5it-1)" src="orig" selected="1">AAFS4----1A----</tag>
+<tag lemma="zastavený_^(*3it)" src="orig" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-mf930713-107-p1s2w14">
 <src.rf>manual</src.rf>
@@ -304,7 +304,7 @@
 <LM>w#w-mf930713-107-p2s1Bw14</LM>
 </w.rf>
 <form>výbor</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930713-107-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -426,7 +426,7 @@
 <LM>w#w-mf930713-107-p2s2w2</LM>
 </w.rf>
 <form>výbor</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930713-107-p2s2w3">
 <src.rf>manual</src.rf>
@@ -686,7 +686,7 @@
 <LM>w#w-mf930713-107-p2s2w33</LM>
 </w.rf>
 <form>dny</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-mf930713-107-p2s2w34">
 <src.rf>manual</src.rf>
@@ -944,7 +944,7 @@
 <LM>w#w-mf930713-107-p2s4w22</LM>
 </w.rf>
 <form>sekretáři</form>
-<tag lemma="sekretář" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="sekretář-2" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-mf930713-107-p2s4w23">
 <src.rf>manual</src.rf>
@@ -1072,7 +1072,7 @@
 <LM>w#w-mf930713-107-p2s5w2</LM>
 </w.rf>
 <form>výbor</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930713-107-p2s5w3">
 <src.rf>manual</src.rf>
@@ -1251,7 +1251,7 @@
 <LM>w#w-mf930713-107-p2s5w24</LM>
 </w.rf>
 <form>sudího</form>
-<tag lemma="sudí" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="sudí-1" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930713-107-p2s5w25">
 <src.rf>manual</src.rf>
@@ -1302,7 +1302,7 @@
 <LM>w#w-mf930713-107-p2s5w30</LM>
 </w.rf>
 <form>dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930713-107-p2s5w31">
 <src.rf>manual</src.rf>
@@ -1544,7 +1544,7 @@
 <LM>w#w-mf930713-107-p2s5w59</LM>
 </w.rf>
 <form>výbor</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930713-107-p2s5w60">
 <src.rf>manual</src.rf>

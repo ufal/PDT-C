@@ -523,7 +523,7 @@
 <LM>w#w-ln94206-96-p2s2w13</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-ln94206-96-p2s2w14">
 <src.rf>manual</src.rf>
@@ -661,7 +661,7 @@
 <LM>w#w-ln94206-96-p2s3w5</LM>
 </w.rf>
 <form>Haliče</form>
-<tag lemma="Halič_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Halič-2_;G" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94206-96-p2s3w6">
 <src.rf>manual</src.rf>
@@ -766,7 +766,7 @@
 <LM>w#w-ln94206-96-p2s3w17</LM>
 </w.rf>
 <form>jehož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P1XXXZS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXZS3-------</tag>
 </m>
 <m id="m-ln94206-96-p2s3w18">
 <src.rf>manual</src.rf>
@@ -1200,7 +1200,7 @@
 <LM>w#w-ln94206-96-p3s2w10</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-ln94206-96-p3s2w11">
 <src.rf>manual</src.rf>
@@ -1283,7 +1283,7 @@
 <LM>w#w-ln94206-96-p3s2w20</LM>
 </w.rf>
 <form>dny</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-ln94206-96-p3s2w21">
 <src.rf>manual</src.rf>
@@ -1735,7 +1735,7 @@
 <LM>w#w-ln94206-96-p3s4w35</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-ln94206-96-p3s4w36">
 <src.rf>manual</src.rf>
@@ -1801,7 +1801,7 @@
 <LM>w#w-ln94206-96-p4s1w3</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-ln94206-96-p4s1w4">
 <src.rf>manual</src.rf>
@@ -1916,7 +1916,7 @@
 <LM>w#w-ln94206-96-p4s1w17</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94206-96-p4s1w18">
 <src.rf>manual</src.rf>
@@ -2067,7 +2067,7 @@
 <LM>w#w-ln94206-96-p4s2w3</LM>
 </w.rf>
 <form>výbory</form>
-<tag lemma="výbor" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-ln94206-96-p4s2w4">
 <src.rf>manual</src.rf>

@@ -329,7 +329,7 @@
 <LM>w#w-lnd92253-008-p2s3w9</LM>
 </w.rf>
 <form>Výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92253-008-p2s3w10">
 <src.rf>manual</src.rf>
@@ -575,7 +575,7 @@
 <LM>w#w-lnd92253-008-p3s1w4</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-4_^(v_knize,_rukopise,...)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd92253-008-p3s1w5">
 <src.rf>manual</src.rf>

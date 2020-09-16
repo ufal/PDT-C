@@ -119,7 +119,7 @@
 <AM lemma="Kim_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="Kim-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Kim-2_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Kim-2_;Y_^(korejske_prijmeni)" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Kim-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-032-p1s1w14">
@@ -131,7 +131,7 @@
 <tag>
 <AM lemma="Ir_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="Ir_;E" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Ir-2_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Ir-2_;Y_^(Kim_Ir_Sen)" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-032-p1s1w15">
@@ -179,7 +179,7 @@
 <LM>w#w-lnd92258-032-p1s1w19</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS6---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS6---------1</tag>
 </m>
 <m id="m-lnd92258-032-p1s1w20">
 <src.rf>manual</src.rf>
@@ -239,7 +239,7 @@
 <LM>w#w-lnd92258-032-p1s1w26</LM>
 </w.rf>
 <form>rady</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92258-032-p1s1w27">
 <src.rf>manual</src.rf>
@@ -1225,7 +1225,7 @@
 <LM>w#w-lnd92258-032-p6s1w9</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS4----------</tag>
 </m>
 <m id="m-lnd92258-032-p6s1w10">
 <src.rf>manual</src.rf>
@@ -1612,7 +1612,7 @@
 <LM>w#w-lnd92258-032-p7s1w26</LM>
 </w.rf>
 <form>Amsterdamu</form>
-<tag lemma="Amsterodam_;G" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Amsterdam_;G_,s_^(^DD**Amsterodam)" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-lnd92258-032-p7s1w27">
 <src.rf>manual</src.rf>
@@ -1703,7 +1703,7 @@
 <LM>w#w-lnd92258-032-p8s1w10</LM>
 </w.rf>
 <form>napjaté</form>
-<tag lemma="napjatý_^(*4nout)" src="orig" selected="1">AAFS2----1A----</tag>
+<tag lemma="napjatý" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-lnd92258-032-p8s1w11">
 <src.rf>manual</src.rf>

@@ -321,7 +321,7 @@
 <LM>w#w-ln94205-108-p2s1w34</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln94205-108-p2s1w35">
 <src.rf>manual</src.rf>
@@ -332,7 +332,7 @@
 <tag>
 <AM lemma="konsensus_,t" src="auto">NNIS3-----A----</AM>
 <AM lemma="konsens_,s_^(^DD**konsenz)" src="manual">NNIS3-----A----</AM>
-<AM lemma="konsens_,s_^(^DD**konsenzus)" src="manual" selected="1">NNIS3-----A----</AM>
+<AM lemma="konsensus_,s_^(^DD**konsenzus)" src="manual" selected="1">NNIS3-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-108-p2s1w36">
@@ -1100,7 +1100,7 @@
 <form>brejle</form>
 <tag>
 <AM lemma="brejle_,h" src="orig">NNFP1-----A----</AM>
-<AM lemma="brejle_,h_^(^GC**brýle)" src="manual" selected="1">NNFP1-----A----</AM>
+<AM lemma="brejle_,s_^(^DD**brýle)" src="manual" selected="1">NNFP1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-108-p3s4w20">
@@ -1429,7 +1429,7 @@
 <LM>w#w-ln94205-108-p3s7w7</LM>
 </w.rf>
 <form>správná</form>
-<tag lemma="správný_^(podle_něj._měřítek;_př._chlap,_míra,...)" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="správný" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-ln94205-108-p3s7w8">
 <src.rf>manual</src.rf>
@@ -1480,7 +1480,7 @@
 <LM>w#w-ln94205-108-p3s7w13</LM>
 </w.rf>
 <form>mužského</form>
-<tag lemma="mužský" src="orig" selected="1">AAIS2----1A----</tag>
+<tag lemma="mužský-1" src="orig" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-ln94205-108-p3s7w14">
 <src.rf>manual</src.rf>
@@ -1576,7 +1576,7 @@
 <LM>w#w-ln94205-108-p3s7w26</LM>
 </w.rf>
 <form>nevypadali</form>
-<tag lemma="vypadat" src="orig" selected="1">VpMP----R-NAI--</tag>
+<tag lemma="vypadat-1_^(ty_vypadáš)" src="orig" selected="1">VpMP----R-NAI--</tag>
 </m>
 <m id="m-ln94205-108-p3s7w27">
 <src.rf>manual</src.rf>
@@ -2030,7 +2030,7 @@
 <LM>w#w-ln94205-108-p4s2w19</LM>
 </w.rf>
 <form>správného</form>
-<tag lemma="správný_^(podle_něj._měřítek;_př._chlap,_míra,...)" src="orig" selected="1">AANS2----1A----</tag>
+<tag lemma="správný" src="orig" selected="1">AANS2----1A----</tag>
 </m>
 <m id="m-ln94205-108-p4s2w20">
 <src.rf>manual</src.rf>
@@ -2282,7 +2282,7 @@
 <LM>w#w-ln94205-108-p4s4w5</LM>
 </w.rf>
 <form>správném</form>
-<tag lemma="správný_^(podle_něj._měřítek;_př._chlap,_míra,...)" src="orig" selected="1">AAIS6----1A----</tag>
+<tag lemma="správný" src="orig" selected="1">AAIS6----1A----</tag>
 </m>
 <m id="m-ln94205-108-p4s4w6">
 <src.rf>manual</src.rf>
@@ -2306,7 +2306,7 @@
 <LM>w#w-ln94205-108-p4s4w8</LM>
 </w.rf>
 <form>správné</form>
-<tag lemma="správný_^(podle_něj._měřítek;_př._chlap,_míra,...)" src="orig" selected="1">AAFS6----1A----</tag>
+<tag lemma="správný" src="orig" selected="1">AAFS6----1A----</tag>
 </m>
 <m id="m-ln94205-108-p4s4w9">
 <src.rf>manual</src.rf>
@@ -2760,7 +2760,7 @@
 <LM>w#w-ln94205-108-p4s6w27</LM>
 </w.rf>
 <form>uši</form>
-<tag lemma="ucho" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="ucho-2" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-ln94205-108-p4s6w28">
 <src.rf>manual</src.rf>

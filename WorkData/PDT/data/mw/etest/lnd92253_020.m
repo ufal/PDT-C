@@ -136,7 +136,7 @@
 <LM>w#w-lnd92253-020-p2s1w2</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-lnd92253-020-p2s1w3">
 <src.rf>manual</src.rf>
@@ -1994,7 +1994,7 @@
 <LM>w#w-lnd92253-020-p5s2w11</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-lnd92253-020-p5s2w12">
 <src.rf>manual</src.rf>
@@ -2027,7 +2027,7 @@
 <LM>w#w-lnd92253-020-p5s2w15</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-lnd92253-020-p5s2w16">
 <src.rf>manual</src.rf>
@@ -2171,7 +2171,7 @@
 </w.rf>
 <form>Krč</form>
 <tag>
-<AM lemma="Krč_;Y" src="auto" selected="1">NNMS1-----A----</AM>
+<AM lemma="Krč-1_;Y" src="auto" selected="1">NNMS1-----A----</AM>
 <AM lemma="Krč-2_;Y" src="manual">NNMS1-----A----</AM>
 </tag>
 </m>

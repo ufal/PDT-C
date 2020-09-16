@@ -201,7 +201,7 @@
 <form>letoun</form>
 <tag>
 <AM lemma="letoun" src="auto">NNIS1-----A----</AM>
-<AM lemma="letoun" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="letoun-1" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="letoun" src="auto">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -1660,7 +1660,7 @@
 <form>kalhoty</form>
 <tag>
 <AM lemma="kalhoty_^(pomn.)" src="auto">NNFP1-----A----</AM>
-<AM lemma="kalhoty_^(pomn.)" src="auto" recommended="1">NNFP4-----A----</AM>
+<AM lemma="kalhoty" src="auto" recommended="1">NNFP4-----A----</AM>
 <AM lemma="kalhoty_^(pomn.)" src="auto">NNFP5-----A----</AM>
 <AM lemma="kalhoty_^(pomn.)" src="auto">NNFS2-----A----</AM>
 </tag>

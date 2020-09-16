@@ -322,7 +322,7 @@
 <form>jejích</form>
 <tag>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP2FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XP6FS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9XP6FS3-------</AM>
 </tag>
 </m>
 <m id="m-wsj1456-001-p1s0W19-Ta">
@@ -2330,7 +2330,7 @@
 <AM lemma="druhý" src="auto">CrIS2----------</AM>
 <AM lemma="druhý" src="auto">CrMS2----------</AM>
 <AM lemma="druhý" src="auto">CrMS4----------</AM>
-<AM lemma="druhý" src="auto" recommended="1">CrNS2----------</AM>
+<AM lemma="druhý`2" src="auto" recommended="1">CrNS2----------</AM>
 </tag>
 </m>
 <m id="m-wsj1456-001-p1s6W23-Ta">
@@ -3170,7 +3170,7 @@
 </w.rf>
 <form>faktory</form>
 <tag>
-<AM lemma="faktor" src="auto" recommended="1">NNIP1-----A----</AM>
+<AM lemma="faktor-1" src="auto" recommended="1">NNIP1-----A----</AM>
 <AM lemma="faktor" src="auto">NNIP4-----A----</AM>
 <AM lemma="faktor" src="auto">NNIP5-----A----</AM>
 <AM lemma="faktor" src="auto">NNIP7-----A----</AM>

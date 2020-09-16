@@ -236,7 +236,7 @@
 <LM>w#w-lnd92257-011-p3s2w9</LM>
 </w.rf>
 <form>David</form>
-<tag lemma="David_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="David-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92257-011-p3s2w10">
 <src.rf>manual</src.rf>
@@ -465,7 +465,7 @@
 <LM>w#w-lnd92257-011-p3s3w1</LM>
 </w.rf>
 <form>Zastavení</form>
-<tag lemma="zastavení-1_^([také_z._se];_uvést_do_klidu:_auto,...)_(*5it-1)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="zastavení_^(*3it)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-lnd92257-011-p3s3w2">
 <src.rf>manual</src.rf>
@@ -529,7 +529,7 @@
 <LM>w#w-lnd92257-011-p3s3w9</LM>
 </w.rf>
 <form>Rada</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92257-011-p3s3w10">
 <src.rf>manual</src.rf>
@@ -713,7 +713,7 @@
 <LM>w#w-lnd92257-011-p3s4w19</LM>
 </w.rf>
 <form>děti</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-lnd92257-011-p3s4w20">
 <src.rf>manual</src.rf>

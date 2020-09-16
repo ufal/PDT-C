@@ -373,7 +373,7 @@
 <LM>w#w-mf920922-137-p3s2w3</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8NS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8NS4---------1</tag>
 </m>
 <m id="m-mf920922-137-p3s2w4">
 <src.rf>manual</src.rf>
@@ -535,7 +535,7 @@
 <LM>w#w-mf920922-137-p3s3w1</LM>
 </w.rf>
 <form>Svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-mf920922-137-p3s3w2">
 <src.rf>manual</src.rf>
@@ -671,7 +671,7 @@
 <LM>w#w-mf920922-137-p3s3w18</LM>
 </w.rf>
 <form>komunismu</form>
-<tag lemma="komunismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="komunismus_,s_^(^DD**komunizmus)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920922-137-p3s3w19">
 <src.rf>manual</src.rf>
@@ -825,7 +825,7 @@
 <LM>w#w-mf920922-137-p3s4w14</LM>
 </w.rf>
 <form>komunismu</form>
-<tag lemma="komunismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="komunismus_,s_^(^DD**komunizmus)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920922-137-p3s4w15">
 <src.rf>manual</src.rf>
@@ -1002,7 +1002,7 @@
 <LM>w#w-mf920922-137-p3s5w15</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP6----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP6----------</tag>
 </m>
 <m id="m-mf920922-137-p3s5w16">
 <src.rf>manual</src.rf>

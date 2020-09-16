@@ -173,7 +173,7 @@
 <LM>w#w-lnd92253-076-p2s2w11</LM>
 </w.rf>
 <form>dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92253-076-p2s2w12">
 <src.rf>manual</src.rf>
@@ -394,7 +394,7 @@
 <LM>w#w-lnd92253-076-p2s3w20</LM>
 </w.rf>
 <form>Slavie</form>
-<tag lemma="Slavia_;m" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Slavie_;m_,s_^(^DD**Slávie)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92253-076-p2s3w21">
 <src.rf>manual</src.rf>

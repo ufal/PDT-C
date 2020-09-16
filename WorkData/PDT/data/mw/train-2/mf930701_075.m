@@ -326,7 +326,7 @@
 <LM>w#w-mf930701-075-p3s4w8</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-mf930701-075-p3s4w9">
 <src.rf>manual</src.rf>
@@ -903,7 +903,7 @@
 <LM>w#w-mf930701-075-p3s7w41</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930701-075-p3s7w42">
 <src.rf>manual</src.rf>

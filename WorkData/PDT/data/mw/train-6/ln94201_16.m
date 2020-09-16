@@ -103,7 +103,7 @@
 <form>hodně</form>
 <tag>
 <AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="hodně_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-16-p2s1w8">
@@ -187,7 +187,7 @@
 <LM>w#w-ln94201-16-p2s1w17</LM>
 </w.rf>
 <form>odpovědnosti</form>
-<tag lemma="odpovědnost_^(kdo_za_něco_odpovídá)_(*3ý)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="odpovědnost_^(*3ý)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94201-16-p2s1w18">
 <src.rf>manual</src.rf>
@@ -429,7 +429,7 @@
 <LM>w#w-ln94201-16-p2s2w11</LM>
 </w.rf>
 <form>Evropě</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94201-16-p2s2w12">
 <src.rf>manual</src.rf>
@@ -704,7 +704,7 @@
 <LM>w#w-ln94201-16-p3s1w27</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94201-16-p3s1w28">
 <src.rf>manual</src.rf>
@@ -952,7 +952,7 @@
 <LM>w#w-ln94201-16-p3s2w17</LM>
 </w.rf>
 <form>odpovědnost</form>
-<tag lemma="odpovědnost_^(kdo_za_něco_odpovídá)_(*3ý)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="odpovědnost_^(*3ý)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94201-16-p3s2w18">
 <src.rf>manual</src.rf>
@@ -1144,7 +1144,7 @@
 <LM>w#w-ln94201-16-p3s3w10</LM>
 </w.rf>
 <form>roli</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="role_^(svitek_poslání_pozemek)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94201-16-p3s3w11">
 <src.rf>manual</src.rf>
@@ -1274,7 +1274,7 @@
 <LM>w#w-ln94201-16-p3s4w1</LM>
 </w.rf>
 <form>Umí</form>
-<tag lemma="umět_^(mít_schopnost_něco_dělat)" src="auto" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="umět" src="auto" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94201-16-p3s4w2">
 <src.rf>manual</src.rf>
@@ -1339,7 +1339,7 @@
 </w.rf>
 <form>dají</form>
 <tag>
-<AM lemma="dát" src="orig" selected="1">VB-P---3P-AAP--</AM>
+<AM lemma="dát-1" src="orig" selected="1">VB-P---3P-AAP--</AM>
 <AM lemma="dát" src="manual">VB-P---3P-AAP--</AM>
 </tag>
 </m>
@@ -2326,7 +2326,7 @@
 <LM>w#w-ln94201-16-p5s4w5</LM>
 </w.rf>
 <form>politiky</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94201-16-p5s4w6">
 <src.rf>manual</src.rf>
@@ -2467,7 +2467,7 @@
 <form>hodně</form>
 <tag>
 <AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="hodně_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-16-p6s1w14">

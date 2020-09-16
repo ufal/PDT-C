@@ -16,7 +16,7 @@
 <LM>w#w-wsj0252-001-p1s0W1</LM>
 </w.rf>
 <form>Scott</form>
-<tag lemma="Scott_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="Scott-1_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj0252-001-p1s0W2-Ta">
 <src.rf>tagger-a</src.rf>

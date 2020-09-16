@@ -177,7 +177,7 @@
 <LM>w#w-ln95047-028-p2s1Cw2</LM>
 </w.rf>
 <form>prvních</form>
-<tag lemma="první" src="orig" selected="1">CrNP2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNP2----------</tag>
 </m>
 <m id="m-ln95047-028-p2s1Cw3">
 <src.rf>manual</src.rf>
@@ -470,7 +470,7 @@
 <LM>w#w-ln95047-028-p2s1Cw37</LM>
 </w.rf>
 <form>prestiž</form>
-<tag lemma="prestiž" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="prestiž-1" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95047-028-p2s1Cw38">
 <src.rf>manual</src.rf>
@@ -528,7 +528,7 @@
 <form>hodně</form>
 <tag>
 <AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="hodně_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-028-p2s1Cw45">

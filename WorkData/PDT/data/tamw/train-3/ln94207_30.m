@@ -938,7 +938,7 @@
 <LM>w#w-ln94207-30-p3s2w14</LM>
 </w.rf>
 <form>Saúdská</form>
-<tag lemma="saudský" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="saúdský" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-ln94207-30-p3s2w15">
 <src.rf>manual</src.rf>

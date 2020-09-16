@@ -375,7 +375,7 @@
 <AM lemma="rudý" src="auto">AAIS2----1A----</AM>
 <AM lemma="rudý" src="auto">AAMS2----1A----</AM>
 <AM lemma="rudý" src="auto">AAMS4----1A----</AM>
-<AM lemma="rudý" src="auto" recommended="1">AANS2----1A----</AM>
+<AM lemma="rudý_;o" src="auto" recommended="1">AANS2----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj1126-001-p1s0W32-Ta">
@@ -2752,7 +2752,7 @@
 <AM lemma="druhý" src="auto">CrIP1---------6</AM>
 <AM lemma="druhý" src="auto">CrIP4---------6</AM>
 <AM lemma="druhý" src="auto">CrIP5---------6</AM>
-<AM lemma="druhý" src="auto" recommended="1">CrIS1----------</AM>
+<AM lemma="druhý`2" src="auto" recommended="1">CrIS1----------</AM>
 <AM lemma="druhý" src="auto">CrIS4----------</AM>
 <AM lemma="druhý" src="auto">CrIS5----------</AM>
 <AM lemma="druhý" src="auto">CrMP1---------6</AM>
@@ -2958,7 +2958,7 @@
 <tag>
 <AM lemma="rudý" src="auto">AAIS3----1A----</AM>
 <AM lemma="rudý" src="auto">AAMS3----1A----</AM>
-<AM lemma="rudý" src="auto" recommended="1">AANS3----1A----</AM>
+<AM lemma="rudý_;o" src="auto" recommended="1">AANS3----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj1126-001-p1s10W19-Ta">
@@ -4050,7 +4050,7 @@
 <AM lemma="první" src="auto">CrIP1----------</AM>
 <AM lemma="první" src="auto">CrIP4----------</AM>
 <AM lemma="první" src="auto">CrIP5----------</AM>
-<AM lemma="první" src="auto" recommended="1">CrIS1----------</AM>
+<AM lemma="první-1" src="auto" recommended="1">CrIS1----------</AM>
 <AM lemma="první" src="auto">CrIS4----------</AM>
 <AM lemma="první" src="auto">CrIS5----------</AM>
 <AM lemma="první" src="auto">CrMP1----------</AM>
@@ -4470,7 +4470,7 @@
 <AM lemma="ča_^(ča-ča)" src="auto">NNFS2-----A----</AM>
 <AM lemma="ča_^(ča-ča)" src="auto">NNFS3-----A---1</AM>
 <AM lemma="ča_^(ča-ča)" src="auto">NNFS6-----A---1</AM>
-<AM lemma="či" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="či-1" src="auto" recommended="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1126-001-p1s15W11-Ta">

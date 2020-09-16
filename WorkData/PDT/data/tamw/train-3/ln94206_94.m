@@ -367,7 +367,7 @@
 <LM>w#w-ln94206-94-p2s2w10</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-ln94206-94-p2s2w11">
 <src.rf>manual</src.rf>
@@ -553,7 +553,7 @@
 <LM>w#w-ln94206-94-p2s3w8</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-ln94206-94-p2s3w9">
 <src.rf>manual</src.rf>
@@ -763,7 +763,7 @@
 <LM>w#w-ln94206-94-p2s4w23</LM>
 </w.rf>
 <form>Secká</form>
-<tag lemma="Secká_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Secká_;Y_^(*1ý)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94206-94-p2s4w24">
 <src.rf>manual</src.rf>
@@ -861,7 +861,7 @@
 <LM>w#w-ln94206-94-p2s5w11</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-ln94206-94-p2s5w12">
 <src.rf>manual</src.rf>

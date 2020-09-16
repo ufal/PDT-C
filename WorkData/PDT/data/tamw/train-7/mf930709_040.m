@@ -70,7 +70,7 @@
 <LM>w#w-mf930709-040-p1s1w7</LM>
 </w.rf>
 <form>druhém</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-mf930709-040-p1s1w8">
 <src.rf>manual</src.rf>
@@ -660,7 +660,7 @@
 </w.rf>
 <form>Agroslužby</form>
 <tag>
-<AM lemma="Agroslužby_;m" src="orig" selected="1">NNFP1-----A----</AM>
+<AM lemma="Agroslužba_;m" src="orig" selected="1">NNFP1-----A----</AM>
 <AM lemma="Agroslužba_;Y" src="auto" recommended="1">NNFP1-----A----</AM>
 <AM lemma="Agroslužba_;Y" src="auto">NNFP4-----A----</AM>
 <AM lemma="Agroslužba_;Y" src="auto">NNFP5-----A----</AM>

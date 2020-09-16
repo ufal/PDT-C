@@ -175,7 +175,7 @@
 <LM>w#w-ln95047-089-p2s1Bw14</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-ln95047-089-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -666,7 +666,7 @@
 <LM>w#w-ln95047-089-p2s5w7</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-ln95047-089-p2s5w8">
 <src.rf>manual</src.rf>
@@ -714,7 +714,7 @@
 <LM>w#w-ln95047-089-p2s5w13</LM>
 </w.rf>
 <form>Slováci</form>
-<tag lemma="Slovák_;E" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="Slovák_;E_;Y" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln95047-089-p2s5w14">
 <src.rf>manual</src.rf>

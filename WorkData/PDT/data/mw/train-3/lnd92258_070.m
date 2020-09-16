@@ -45,7 +45,7 @@
 <LM>w#w-lnd92258-070-p2s1w1</LM>
 </w.rf>
 <form>DILLÍ</form>
-<tag lemma="dillí" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Dillí_;G" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-lnd92258-070-p2s1w2">
 <src.rf>manual</src.rf>
@@ -183,7 +183,7 @@
 <LM>w#w-lnd92258-070-p2s2w16</LM>
 </w.rf>
 <form>Dillí</form>
-<tag lemma="dillí" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="Dillí_;G" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-lnd92258-070-p2s2w17">
 <src.rf>manual</src.rf>
@@ -552,7 +552,7 @@
 <LM>w#w-lnd92258-070-p2s5w6</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-lnd92258-070-p2s5w7">
 <src.rf>manual</src.rf>

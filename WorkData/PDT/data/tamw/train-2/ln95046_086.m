@@ -27,7 +27,7 @@
 <LM>w#w-ln95046-086-p1s1w2</LM>
 </w.rf>
 <form>výbor</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95046-086-p1s1w3">
 <src.rf>manual</src.rf>
@@ -111,7 +111,7 @@
 <LM>w#w-ln95046-086-p2s1Bw2</LM>
 </w.rf>
 <form>výbor</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95046-086-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -664,7 +664,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1188,7 +1188,7 @@
 <LM>w#w-ln95046-086-p3s3w23</LM>
 </w.rf>
 <form>náš</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSIS4-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSIS4-P1-------</tag>
 </m>
 <m id="m-ln95046-086-p3s3w24">
 <src.rf>manual</src.rf>
@@ -1728,7 +1728,7 @@
 <LM>w#w-ln95046-086-p3s5w25</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95046-086-p3s5w26">
 <src.rf>manual</src.rf>
@@ -1935,7 +1935,7 @@
 <LM>w#w-ln95046-086-p4s1w2</LM>
 </w.rf>
 <form>výbor</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95046-086-p4s1w3">
 <src.rf>manual</src.rf>

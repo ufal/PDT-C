@@ -213,7 +213,7 @@
 <LM>w#w-ln94206-120-p2s1Bw16</LM>
 </w.rf>
 <form>dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94206-120-p2s1Bw17">
 <src.rf>manual</src.rf>
@@ -485,7 +485,7 @@
 <LM>w#w-ln94206-120-p2s2w26</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94206-120-p2s2w27">
 <src.rf>manual</src.rf>
@@ -638,7 +638,7 @@
 <LM>w#w-ln94206-120-p2s3w14</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94206-120-p2s3w15">
 <src.rf>manual</src.rf>
@@ -670,7 +670,7 @@
 <LM>w#w-ln94206-120-p2s3w18</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-ln94206-120-p2s3w19">
 <src.rf>manual</src.rf>
@@ -686,7 +686,7 @@
 <LM>w#w-ln94206-120-p2s3w20</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94206-120-p2s3w21">
 <src.rf>manual</src.rf>

@@ -386,7 +386,7 @@
 <LM>w#w-vesm9211-014-p13s1w1</LM>
 </w.rf>
 <form>Totemismus</form>
-<tag lemma="totemismus" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="totemismus_,s_^(^DD**totemizmus)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-vesm9211-014-p13s1w2">
 <src.rf>manual</src.rf>
@@ -563,7 +563,7 @@
 <LM>w#w-vesm9211-014-p17s1w5</LM>
 </w.rf>
 <form>ducha</form>
-<tag lemma="duch" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="duch-1" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-vesm9211-014-p17s1w6">
 <src.rf>manual</src.rf>
@@ -961,7 +961,7 @@
 <LM>w#w-vesm9211-014-p33s1w1</LM>
 </w.rf>
 <form>DISKUSE</form>
-<tag lemma="diskuse" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="diskuse_,s_^(^DD**diskuze)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-vesm9211-014-p34s1">
@@ -1013,7 +1013,7 @@
 <LM>w#w-vesm9211-014-p35s1w1</LM>
 </w.rf>
 <form>ZAMYŠLENÍ</form>
-<tag lemma="zamyšlení_^(*5slet)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="zamyšlení_^(*5slit)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-vesm9211-014-p35s1w2">
 <src.rf>manual</src.rf>
@@ -1148,7 +1148,7 @@
 <LM>w#w-vesm9211-014-p40s1w3</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP6-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP6-P1-------</tag>
 </m>
 <m id="m-vesm9211-014-p40s1w4">
 <src.rf>manual</src.rf>
@@ -1166,7 +1166,7 @@
 <LM>w#w-vesm9211-014-p41s1w1</LM>
 </w.rf>
 <form>ESEJE</form>
-<tag lemma="esej" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="esej-2" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 </s>
 <s id="m-vesm9211-014-p42s1">
@@ -1584,7 +1584,7 @@
 <LM>w#w-vesm9211-014-p54s1w2</LM>
 </w.rf>
 <form>vypadají</form>
-<tag lemma="vypadat" src="orig" selected="1">VB-P---3P-AAI--</tag>
+<tag lemma="vypadat-1_^(ty_vypadáš)" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-vesm9211-014-p54s1w3">
 <src.rf>manual</src.rf>
@@ -1592,7 +1592,7 @@
 <LM>w#w-vesm9211-014-p54s1w3</LM>
 </w.rf>
 <form>kursy</form>
-<tag lemma="kurs" src="auto" selected="1">NNIP1-----A----</tag>
+<tag lemma="kurs_,s_^(^DD**kurz)" src="auto" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-vesm9211-014-p54s1w4">
 <src.rf>manual</src.rf>
@@ -1692,7 +1692,7 @@
 <LM>w#w-vesm9211-014-p57s1w4</LM>
 </w.rf>
 <form>ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-vesm9211-014-p57s1w5">
 <src.rf>manual</src.rf>
@@ -1967,7 +1967,7 @@
 <LM>w#w-vesm9211-014-p65s1w4</LM>
 </w.rf>
 <form>LETY</form>
-<tag lemma="rok" src="orig" selected="1">NNNP7-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP7-----A----</tag>
 </m>
 <m id="m-vesm9211-014-p65s1w5">
 <src.rf>manual</src.rf>

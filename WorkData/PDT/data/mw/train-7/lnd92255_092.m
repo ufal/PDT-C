@@ -121,7 +121,7 @@
 <LM>w#w-lnd92255-092-p1s1w13</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd92255-092-p1s1w14">
 <src.rf>manual</src.rf>
@@ -812,7 +812,7 @@
 <LM>w#w-lnd92255-092-p1s4w44</LM>
 </w.rf>
 <form>dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92255-092-p1s4w45">
 <src.rf>manual</src.rf>
@@ -958,7 +958,7 @@
 <LM>w#w-lnd92255-092-p2s1w13</LM>
 </w.rf>
 <form>orgánům</form>
-<tag lemma="orgán" src="orig" selected="1">NNIP3-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIP3-----A----</tag>
 </m>
 <m id="m-lnd92255-092-p2s1w14">
 <src.rf>manual</src.rf>

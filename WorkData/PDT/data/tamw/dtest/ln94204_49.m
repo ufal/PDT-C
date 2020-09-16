@@ -35,7 +35,7 @@
 <LM>w#w-ln94204-49-p1s1w3</LM>
 </w.rf>
 <form>stojí</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VB-P---3P-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln94204-49-p1s1w4">
 <src.rf>manual</src.rf>
@@ -233,7 +233,7 @@
 <LM>w#w-ln94204-49-p2s1Cw17</LM>
 </w.rf>
 <form>politice</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94204-49-p2s1Cw18">
 <src.rf>manual</src.rf>
@@ -353,7 +353,7 @@
 <LM>w#w-ln94204-49-p2s2w8</LM>
 </w.rf>
 <form>Zeleného</form>
-<tag lemma="zelený" src="orig" selected="1">AAIS2----1A----</tag>
+<tag lemma="zelený_;o" src="orig" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-ln94204-49-p2s2w9">
 <src.rf>manual</src.rf>
@@ -369,7 +369,7 @@
 <LM>w#w-ln94204-49-p2s2w10</LM>
 </w.rf>
 <form>Marie</form>
-<tag lemma="Marie-1_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Marie_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94204-49-p2s2w11">
 <src.rf>manual</src.rf>
@@ -701,7 +701,7 @@
 <LM>w#w-ln94204-49-p3s2w29</LM>
 </w.rf>
 <form>zaujetí</form>
-<tag lemma="zaujetí_^(upoutat_pozornost)_(*3mout)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="zaujetí_^(*3mout)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln94204-49-p3s2w30">
 <src.rf>manual</src.rf>

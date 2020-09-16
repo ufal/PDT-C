@@ -205,7 +205,7 @@
 <LM>w#w-ln94200-15-p2s1w22</LM>
 </w.rf>
 <form>zlatým</form>
-<tag lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AANS7----1A----</tag>
+<tag lemma="zlatý-1_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AANS7----1A----</tag>
 </m>
 <m id="m-ln94200-15-p2s1w23">
 <src.rf>manual</src.rf>
@@ -457,7 +457,7 @@
 <LM>w#w-ln94200-15-p2s3w13</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-ln94200-15-p2s3w14">
 <src.rf>manual</src.rf>

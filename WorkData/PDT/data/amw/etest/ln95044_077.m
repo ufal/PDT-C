@@ -146,7 +146,7 @@
 <LM>w#w-ln95044-077-p2s1Bw10</LM>
 </w.rf>
 <form>dni</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS3-----A---1</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS3-----A---1</tag>
 </m>
 <m id="m-ln95044-077-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -518,7 +518,7 @@
 <LM>w#w-ln95044-077-p2s2w16</LM>
 </w.rf>
 <form>potřeby</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95044-077-p2s2w17">
 <src.rf>manual</src.rf>
@@ -542,7 +542,7 @@
 <LM>w#w-ln95044-077-p2s2w19</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8NS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8NS4---------1</tag>
 </m>
 <m id="m-ln95044-077-p2s2w20">
 <src.rf>manual</src.rf>
@@ -705,7 +705,7 @@
 <LM>w#w-ln95044-077-p2s3w17</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS2---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS2---------1</tag>
 </m>
 <m id="m-ln95044-077-p2s3w18">
 <src.rf>manual</src.rf>
@@ -819,7 +819,7 @@
 <LM>w#w-ln95044-077-p2s4w6</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-ln95044-077-p2s4w7">
 <src.rf>manual</src.rf>

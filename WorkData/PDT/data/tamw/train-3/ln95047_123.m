@@ -45,7 +45,7 @@
 <LM>w#w-ln95047-123-p2s1w3</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln95047-123-p2s1w4">
 <src.rf>manual</src.rf>
@@ -69,7 +69,7 @@
 <LM>w#w-ln95047-123-p2s1w6</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8YP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8YP4---------1</tag>
 </m>
 <m id="m-ln95047-123-p2s1w7">
 <src.rf>manual</src.rf>
@@ -603,7 +603,7 @@
 <LM>w#w-ln95047-123-p3s1w27</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-ln95047-123-p3s1w28">
 <src.rf>manual</src.rf>
@@ -651,7 +651,7 @@
 <LM>w#w-ln95047-123-p3s1w33</LM>
 </w.rf>
 <form>Evropě</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln95047-123-p3s1w34">
 <src.rf>manual</src.rf>

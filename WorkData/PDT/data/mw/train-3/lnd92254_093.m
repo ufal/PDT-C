@@ -593,7 +593,7 @@
 <LM>w#w-lnd92254-093-p2s3w27</LM>
 </w.rf>
 <form>dál</form>
-<tag lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="dál-3_,s_^(také,_za_další)_(^DD**dále-3)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd92254-093-p2s3w28">
 <src.rf>manual</src.rf>
@@ -667,7 +667,7 @@
 <LM>w#w-lnd92254-093-p2s4w8</LM>
 </w.rf>
 <form>horším</form>
-<tag lemma="špatný" src="orig" selected="1">AAIS7----2A----</tag>
+<tag lemma="horší" src="orig" selected="1">AAIS7----2A----</tag>
 </m>
 <m id="m-lnd92254-093-p2s4w9">
 <src.rf>manual</src.rf>
@@ -1005,7 +1005,7 @@
 <LM>w#w-lnd92254-093-p2s6w21</LM>
 </w.rf>
 <form>Bytomi</form>
-<tag lemma="Bytom_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Bytom-1_;G" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd92254-093-p2s6w22">
 <src.rf>manual</src.rf>

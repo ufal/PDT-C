@@ -291,7 +291,7 @@
 <LM>w#w-lnd92258-074-p2s3w5</LM>
 </w.rf>
 <form>daných</form>
-<tag lemma="daný_^(*3át)" src="auto" selected="1">AAFP2----1A----</tag>
+<tag lemma="daný-1_^(*5át-1)" src="auto" selected="1">AAFP2----1A----</tag>
 </m>
 <m id="m-lnd92258-074-p2s3w6">
 <src.rf>manual</src.rf>
@@ -421,7 +421,7 @@
 <LM>w#w-lnd92258-074-p2s4w5</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd92258-074-p2s4w6">
 <src.rf>manual</src.rf>
@@ -773,7 +773,7 @@
 <LM>w#w-lnd92258-074-p2s6w10</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FP4---------1</tag>
 </m>
 <m id="m-lnd92258-074-p2s6w11">
 <src.rf>manual</src.rf>
@@ -1055,7 +1055,7 @@
 <LM>w#w-lnd92258-074-p2s7w12</LM>
 </w.rf>
 <form>management</form>
-<tag lemma="management_^(vedení,_manažment;_angl.)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="management_,s_^(^DD**manažment)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92258-074-p2s7w13">
 <src.rf>manual</src.rf>

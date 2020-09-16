@@ -459,7 +459,7 @@
 <LM>w#w-ln94204-72-p3s1w11</LM>
 </w.rf>
 <form>práva</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNP4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNP4-----A----</tag>
 </m>
 <m id="m-ln94204-72-p3s1w12">
 <src.rf>manual</src.rf>
@@ -653,7 +653,7 @@
 <LM>w#w-ln94204-72-p3s2w13</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-ln94204-72-p3s2w14">
 <src.rf>manual</src.rf>
@@ -915,7 +915,7 @@
 <LM>w#w-ln94204-72-p3s5w5</LM>
 </w.rf>
 <form>motto</form>
-<tag lemma="motto" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="motto-1_^(heslo)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln94204-72-p3s5w6">
 <src.rf>manual</src.rf>

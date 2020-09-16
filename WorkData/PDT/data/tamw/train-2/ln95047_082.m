@@ -902,7 +902,7 @@
 <LM>w#w-ln95047-082-p2s6w2</LM>
 </w.rf>
 <form>mluvčího</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95047-082-p2s6w3">
 <src.rf>manual</src.rf>
@@ -948,7 +948,7 @@
 <LM>w#w-ln95047-082-p2s6w7</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-ln95047-082-p2s6w8">
 <src.rf>manual</src.rf>
@@ -1045,7 +1045,7 @@
 <LM>w#w-ln95047-082-p2s6w19</LM>
 </w.rf>
 <form>členy</form>
-<tag lemma="člen" src="orig" selected="1">NNMP7-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-ln95047-082-p2s6w20">
 <src.rf>manual</src.rf>

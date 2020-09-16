@@ -381,7 +381,7 @@
 <LM>w#w-ln94203-74-p2s2w10</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS2---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS2---------1</tag>
 </m>
 <m id="m-ln94203-74-p2s2w11">
 <src.rf>manual</src.rf>
@@ -599,7 +599,7 @@
 <LM>w#w-ln94203-74-p2s4w1</LM>
 </w.rf>
 <form>Resort</form>
-<tag lemma="resort" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="resort_,s_^(^DD**rezort)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94203-74-p2s4w2">
 <src.rf>manual</src.rf>
@@ -716,7 +716,7 @@
 <LM>w#w-ln94203-74-p2s5w6</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8MS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8MS4----------</tag>
 </m>
 <m id="m-ln94203-74-p2s5w7">
 <src.rf>manual</src.rf>
@@ -820,7 +820,7 @@
 <LM>w#w-ln94203-74-p2s5w20</LM>
 </w.rf>
 <form>resort</form>
-<tag lemma="resort" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="resort_,s_^(^DD**rezort)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln94203-74-p2s5w21">
 <src.rf>manual</src.rf>
@@ -1003,7 +1003,7 @@
 <LM>w#w-ln94203-74-p2s7w6</LM>
 </w.rf>
 <form>členů</form>
-<tag lemma="člen" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94203-74-p2s7w7">
 <src.rf>manual</src.rf>

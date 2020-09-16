@@ -576,7 +576,7 @@
 <LM>w#w-lnd92256-111-p11s2w1</LM>
 </w.rf>
 <form>Slovan</form>
-<tag lemma="Slovan-2_;m" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Slovan-2_;G_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92256-111-p11s2w2">
 <src.rf>manual</src.rf>

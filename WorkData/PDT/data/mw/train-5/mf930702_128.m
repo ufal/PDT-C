@@ -133,7 +133,7 @@
 <LM>w#w-mf930702-128-p2s1w6</LM>
 </w.rf>
 <form>Evropě</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf930702-128-p2s1w7">
 <src.rf>manual</src.rf>
@@ -609,7 +609,7 @@
 <LM>w#w-mf930702-128-p2s4w6</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP6----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP6----------</tag>
 </m>
 <m id="m-mf930702-128-p2s4w7">
 <src.rf>manual</src.rf>

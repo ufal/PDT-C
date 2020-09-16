@@ -298,7 +298,7 @@
 <form>jejího</form>
 <tag>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSMS4FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9ZS2FS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9ZS2FS3-------</AM>
 </tag>
 </m>
 <m id="m-wsj1462-001-p1s0W27-Ta">
@@ -1326,7 +1326,7 @@
 <form>Ammann</form>
 <tag>
 <AM lemma="Ammann_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Ammann-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Ammann-2_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1462-001-p1s3W10-Ta">
@@ -1542,7 +1542,7 @@
 </w.rf>
 <form>svoji</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8FS4----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8FS4----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8MP1----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8MP5----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOMP----------1</AM>
@@ -1903,7 +1903,7 @@
 <form>Ammann</form>
 <tag>
 <AM lemma="Ammann_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Ammann-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Ammann-2_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1462-001-p1s4W38-Ta">

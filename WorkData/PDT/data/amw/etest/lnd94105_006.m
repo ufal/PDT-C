@@ -103,7 +103,7 @@
 <LM>w#w-lnd94105-006-p1s3w1</LM>
 </w.rf>
 <form>Své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8YP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8YP4---------1</tag>
 </m>
 <m id="m-lnd94105-006-p1s3w2">
 <src.rf>manual</src.rf>
@@ -728,7 +728,7 @@
 <LM>w#w-lnd94105-006-p1s7w4</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-4_^(v_knize,_rukopise,...)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd94105-006-p1s7w5">
 <src.rf>manual</src.rf>

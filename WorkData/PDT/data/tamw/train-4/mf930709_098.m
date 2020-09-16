@@ -98,7 +98,7 @@
 <LM>w#w-mf930709-098-p2s1Bw5</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS7----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS7----------</tag>
 </m>
 <m id="m-mf930709-098-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -234,7 +234,7 @@
 <LM>w#w-mf930709-098-p2s1Bw22</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930709-098-p2s1Bw23">
 <src.rf>manual</src.rf>
@@ -404,7 +404,7 @@
 <LM>w#w-mf930709-098-p2s3w6</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930709-098-p2s3w7">
 <src.rf>manual</src.rf>
@@ -746,7 +746,7 @@
 <LM>w#w-mf930709-098-p2s5w20</LM>
 </w.rf>
 <form>dlouhým</form>
-<tag lemma="dlouhý-1_^(fyz._délka;_př._dlouhá_tyč)" src="orig" selected="1">AANS7----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AANS7----1A----</tag>
 </m>
 <m id="m-mf930709-098-p2s5w21">
 <src.rf>manual</src.rf>
@@ -824,7 +824,7 @@
 <LM>w#w-mf930709-098-p2s5w29</LM>
 </w.rf>
 <form>cestě</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf930709-098-p2s5w30">
 <src.rf>manual</src.rf>
@@ -953,7 +953,7 @@
 <LM>w#w-mf930709-098-p4s1Bw2</LM>
 </w.rf>
 <form>Slavie</form>
-<tag lemma="Slavia_;m" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Slavie_;m_,s_^(^DD**Slávie)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930709-098-p4s1Bw3">
 <src.rf>manual</src.rf>
@@ -996,7 +996,7 @@
 <LM>w#w-mf930709-098-p4s1Bw7</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8MS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8MS4----------</tag>
 </m>
 <m id="m-mf930709-098-p4s1Bw8">
 <src.rf>manual</src.rf>
@@ -1600,7 +1600,7 @@
 <LM>w#w-mf930709-098-p4s5w19</LM>
 </w.rf>
 <form>Slavie</form>
-<tag lemma="Slavia_;m" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Slavie_;m_,s_^(^DD**Slávie)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930709-098-p4s5w20">
 <src.rf>manual</src.rf>

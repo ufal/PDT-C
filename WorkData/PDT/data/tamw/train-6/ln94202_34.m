@@ -62,7 +62,7 @@
 <LM>w#w-ln94202-34-p1s1w6</LM>
 </w.rf>
 <form>stojí</form>
-<tag lemma="stát-4_^(něco_stojí_peníze)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94202-34-p1s1w7">
 <src.rf>manual</src.rf>
@@ -207,7 +207,7 @@
 <LM>w#w-ln94202-34-p2s1Bw6</LM>
 </w.rf>
 <form>virem</form>
-<tag lemma="vir" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="vir-1" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-ln94202-34-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -425,7 +425,7 @@
 <LM>w#w-ln94202-34-p3s1w5</LM>
 </w.rf>
 <form>Marie</form>
-<tag lemma="Marie-1_;Y" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Marie_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94202-34-p3s1w6">
 <src.rf>manual</src.rf>
@@ -510,7 +510,7 @@
 <LM>w#w-ln94202-34-p3s2w2</LM>
 </w.rf>
 <form>lidem</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP3-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP3-----A----</tag>
 </m>
 <m id="m-ln94202-34-p3s2w3">
 <src.rf>manual</src.rf>
@@ -636,7 +636,7 @@
 <LM>w#w-ln94202-34-p3s2w17</LM>
 </w.rf>
 <form>postižené</form>
-<tag lemma="postižený_^(*4hnout)" src="orig" selected="1">AAMP4----1A----</tag>
+<tag lemma="postižený" src="orig" selected="1">AAMP4----1A----</tag>
 </m>
 <m id="m-ln94202-34-p3s2w18">
 <src.rf>manual</src.rf>
@@ -768,7 +768,7 @@
 <LM>w#w-ln94202-34-p4s1w5</LM>
 </w.rf>
 <form>co</form>
-<tag lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="co-5_^(př._co_nejméně,_co_nevidět_atd.)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94202-34-p4s1w6">
 <src.rf>manual</src.rf>
@@ -1028,7 +1028,7 @@
 <LM>w#w-ln94202-34-p4s3w8</LM>
 </w.rf>
 <form>lepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAFS1----2A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAFS1----2A----</tag>
 </m>
 <m id="m-ln94202-34-p4s3w9">
 <src.rf>manual</src.rf>
@@ -1492,7 +1492,7 @@
 <LM>w#w-ln94202-34-p5s2w6</LM>
 </w.rf>
 <form>podávání</form>
-<tag lemma="podávání_^(něco_[někomu]_[někam])_(*3at)" src="auto" selected="1">NNNS1-----A----</tag>
+<tag lemma="podávání_^(*3at)" src="auto" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94202-34-p5s2w7">
 <src.rf>manual</src.rf>
@@ -1551,7 +1551,7 @@
 <LM>w#w-ln94202-34-p5s2w13</LM>
 </w.rf>
 <form>nemocí</form>
-<tag lemma="nemoc_^(choroba)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="nemoc" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln94202-34-p5s2w14">
 <src.rf>manual</src.rf>
@@ -1905,7 +1905,7 @@
 <LM>w#w-ln94202-34-p5s4w10</LM>
 </w.rf>
 <form>stojí</form>
-<tag lemma="stát-4_^(něco_stojí_peníze)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94202-34-p5s4w11">
 <src.rf>manual</src.rf>

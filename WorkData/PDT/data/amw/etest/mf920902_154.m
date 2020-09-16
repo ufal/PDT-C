@@ -641,7 +641,7 @@
 <LM>w#w-mf920902-154-p3s1w2</LM>
 </w.rf>
 <form>napadené</form>
-<tag lemma="napadený_^(*3nout)" src="orig" selected="1">AAFS6----1A----</tag>
+<tag lemma="napadený" src="orig" selected="1">AAFS6----1A----</tag>
 </m>
 <m id="m-mf920902-154-p3s1w3">
 <src.rf>manual</src.rf>
@@ -814,7 +814,7 @@
 <LM>w#w-mf920902-154-p3s1w23</LM>
 </w.rf>
 <form>extremisté</form>
-<tag lemma="extremista" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="extremista_,s_^(^DD**extrémista)" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf920902-154-p3s1w24">
 <src.rf>manual</src.rf>
@@ -2039,7 +2039,7 @@
 <LM>w#w-mf920902-154-p6s3w8</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FP4---------1</tag>
 </m>
 <m id="m-mf920902-154-p6s3w9">
 <src.rf>manual</src.rf>
@@ -2121,7 +2121,7 @@
 <LM>w#w-mf920902-154-p7s1w4</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920902-154-p7s1w5">
 <src.rf>manual</src.rf>

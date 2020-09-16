@@ -174,7 +174,7 @@
 <LM>w#w-mf930708-127-p2s1w17</LM>
 </w.rf>
 <form>zastavenou</form>
-<tag lemma="zastavený-1_^([také_z._se];_uvést_do_klidu:_auto,...)_(*5it-1)" src="orig" selected="1">AAFS4----1A----</tag>
+<tag lemma="zastavený_^(*3it)" src="orig" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-mf930708-127-p2s1w18">
 <src.rf>manual</src.rf>
@@ -525,7 +525,7 @@
 <LM>w#w-mf930708-127-p3s1w31</LM>
 </w.rf>
 <form>Blažková</form>
-<tag lemma="Blažková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Blažková_;Y_^(*3a)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930708-127-p3s1w32">
 <src.rf>manual</src.rf>
@@ -559,7 +559,7 @@
 <LM>w#w-mf930708-127-p4s1w3</LM>
 </w.rf>
 <form>prostředky</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-mf930708-127-p4s1w4">
 <src.rf>manual</src.rf>
@@ -634,7 +634,7 @@
 <LM>w#w-mf930708-127-p4s1w12</LM>
 </w.rf>
 <form>tajné</form>
-<tag lemma="tajný" src="orig" selected="1">AAFS2----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-mf930708-127-p4s1w13">
 <src.rf>manual</src.rf>
@@ -1509,7 +1509,7 @@
 <LM>w#w-mf930708-127-p8s1w2</LM>
 </w.rf>
 <form>boxer</form>
-<tag lemma="boxer" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="boxer-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-127-p8s1w3">
 <src.rf>manual</src.rf>
@@ -1583,7 +1583,7 @@
 <form>Kobe</form>
 <tag>
 <AM lemma="Kobe_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Kobe_;G" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Kobe-2_;G" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-127-p8s1w12">
@@ -1709,7 +1709,7 @@
 <LM>w#w-mf930708-127-p8s2w3</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrMS7----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrMS7----------</tag>
 </m>
 <m id="m-mf930708-127-p8s2w4">
 <src.rf>manual</src.rf>
@@ -1893,7 +1893,7 @@
 <LM>w#w-mf930708-127-p9s1w8</LM>
 </w.rf>
 <form>Kovo</form>
-<tag lemma="Kovo_;Y_;m" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Kovo_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf930708-127-p9s1w9">
 <src.rf>manual</src.rf>
@@ -2008,7 +2008,7 @@
 <LM>w#w-mf930708-127-p9s1w22</LM>
 </w.rf>
 <form>Suchá</form>
-<tag lemma="Suchá_;Y_^(*1ý)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Suchá_;G_;Y_^(*1ý)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930708-127-p9s1w23">
 <src.rf>manual</src.rf>
@@ -2072,7 +2072,7 @@
 <LM>w#w-mf930708-127-p9s1w30</LM>
 </w.rf>
 <form>Suchá</form>
-<tag lemma="Suchá_;Y_^(*1ý)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Suchá_;G_;Y_^(*1ý)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930708-127-p9s1w31">
 <src.rf>manual</src.rf>
@@ -2088,7 +2088,7 @@
 <LM>w#w-mf930708-127-p9s1w32</LM>
 </w.rf>
 <form>Kovo</form>
-<tag lemma="Kovo_;Y_;m" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Kovo_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf930708-127-p9s1w33">
 <src.rf>manual</src.rf>
@@ -2152,7 +2152,7 @@
 <LM>w#w-mf930708-127-p9s1w40</LM>
 </w.rf>
 <form>Krč</form>
-<tag lemma="Krč_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Krč-2_;G" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930708-127-p9s1w41">
 <src.rf>manual</src.rf>
@@ -2208,7 +2208,7 @@
 <LM>w#w-mf930708-127-p9s1w47</LM>
 </w.rf>
 <form>Krč</form>
-<tag lemma="Krč_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Krč-2_;G" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930708-127-p9s1w48">
 <src.rf>manual</src.rf>
@@ -2483,7 +2483,7 @@
 <LM>w#w-mf930708-127-p10s1w21</LM>
 </w.rf>
 <form>stadionu</form>
-<tag lemma="stadión" src="orig" selected="1">NNIS6-----A---1</tag>
+<tag lemma="stadion_,s_^(^DD**stadión)" src="orig" selected="1">NNIS6-----A---1</tag>
 </m>
 <m id="m-mf930708-127-p10s1w22">
 <src.rf>manual</src.rf>

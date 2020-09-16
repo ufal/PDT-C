@@ -839,7 +839,7 @@
 <LM>w#w-lnd92259-096-p5s2w16</LM>
 </w.rf>
 <form>nejlepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAIS4----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAIS4----3A----</tag>
 </m>
 <m id="m-lnd92259-096-p5s2w17">
 <src.rf>manual</src.rf>
@@ -900,7 +900,7 @@
 <LM>w#w-lnd92259-096-p7s1w1</LM>
 </w.rf>
 <form>Oakland</form>
-<tag lemma="Oakland_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Oakland_;G_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92259-096-p7s1w2">
 <src.rf>manual</src.rf>
@@ -3103,7 +3103,7 @@
 <LM>w#w-lnd92259-096-p11s5w1</LM>
 </w.rf>
 <form>Novotná</form>
-<tag lemma="Novotná_;Y_^(*1ý)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Novotná_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92259-096-p11s5w2">
 <src.rf>manual</src.rf>

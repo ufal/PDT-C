@@ -631,7 +631,7 @@
 <LM>w#w-lnd92258-154-p7s2w6</LM>
 </w.rf>
 <form>nedají</form>
-<tag lemma="dát" src="orig" selected="1">VB-P---3P-NAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VB-P---3P-NAP--</tag>
 </m>
 <m id="m-lnd92258-154-p7s2w7">
 <src.rf>manual</src.rf>
@@ -775,7 +775,7 @@
 <LM>w#w-lnd92258-154-p9s1w11</LM>
 </w.rf>
 <form>jejím</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS6FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS6FS3-------</tag>
 </m>
 <m id="m-lnd92258-154-p9s1w12">
 <src.rf>manual</src.rf>

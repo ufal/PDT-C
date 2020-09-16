@@ -237,7 +237,7 @@
 <LM>w#w-ln94200-50-p2s2w2</LM>
 </w.rf>
 <form>předešlému</form>
-<tag lemma="předešlý_^(předchozí,minulý,poslední)_(*3jít)" src="auto" selected="1">AAIS3----1A----</tag>
+<tag lemma="předešlý_^(*3jít)" src="auto" selected="1">AAIS3----1A----</tag>
 </m>
 <m id="m-ln94200-50-p2s2w3">
 <src.rf>manual</src.rf>

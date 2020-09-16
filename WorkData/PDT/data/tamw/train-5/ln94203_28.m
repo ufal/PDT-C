@@ -59,7 +59,7 @@
 <LM>w#w-ln94203-28-p1s1w6</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8YP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8YP4---------1</tag>
 </m>
 <m id="m-ln94203-28-p1s1w7">
 <src.rf>manual</src.rf>
@@ -282,7 +282,7 @@
 <LM>w#w-ln94203-28-p2s1Bw20</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8YP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8YP4---------1</tag>
 </m>
 <m id="m-ln94203-28-p2s1Bw21">
 <src.rf>manual</src.rf>
@@ -447,7 +447,7 @@
 <LM>w#w-ln94203-28-p2s2w10</LM>
 </w.rf>
 <form>politiky</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94203-28-p2s2w11">
 <src.rf>manual</src.rf>
@@ -1141,7 +1141,7 @@
 <LM>w#w-ln94203-28-p4s1w5</LM>
 </w.rf>
 <form>Konvičková</form>
-<tag lemma="Konvičková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Konvičková_;Y_^(*3a)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94203-28-p4s1w6">
 <src.rf>manual</src.rf>
@@ -1276,7 +1276,7 @@
 <LM>w#w-ln94203-28-p4s1w21</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-ln94203-28-p4s1w22">
 <src.rf>manual</src.rf>
@@ -1587,7 +1587,7 @@
 <LM>w#w-ln94203-28-p4s3w2</LM>
 </w.rf>
 <form>práva</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNP1-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNP1-----A----</tag>
 </m>
 <m id="m-ln94203-28-p4s3w3">
 <src.rf>manual</src.rf>
@@ -1847,7 +1847,7 @@
 <LM>w#w-ln94203-28-p5s1w22</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln94203-28-p5s1w23">
 <src.rf>manual</src.rf>
@@ -2139,7 +2139,7 @@
 <LM>w#w-ln94203-28-p5s3w2</LM>
 </w.rf>
 <form>Konvičkové</form>
-<tag lemma="Konvičková_;Y" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Konvičková_;Y_^(*3a)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94203-28-p5s3w3">
 <src.rf>manual</src.rf>
@@ -2251,7 +2251,7 @@
 <LM>w#w-ln94203-28-p5s3w17</LM>
 </w.rf>
 <form>práva</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNP4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNP4-----A----</tag>
 </m>
 <m id="m-ln94203-28-p5s3w18">
 <src.rf>manual</src.rf>

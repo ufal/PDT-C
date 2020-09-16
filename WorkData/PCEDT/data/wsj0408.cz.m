@@ -1312,7 +1312,7 @@
 <form>Warner</form>
 <tag>
 <AM lemma="Warner_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Warner_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Warner-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0408-001-p1s2W40-Ta">
@@ -1824,7 +1824,7 @@
 <LM>w#w-wsj0408-001-p1s4W21</LM>
 </w.rf>
 <form>Geffenem</form>
-<tag lemma="Geffen_;G" src="auto" recommended="1">NNIS7-----A----</tag>
+<tag lemma="Geffen-1_;G" src="auto" recommended="1">NNIS7-----A----</tag>
 </m>
 <m id="m-wsj0408-001-p1s4W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1841,7 +1841,7 @@
 </w.rf>
 <form>jehož</form>
 <tag>
-<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">P1XXXZS3-------</AM>
+<AM lemma="jehož" src="auto" recommended="1">P1XXXZS3-------</AM>
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">PJMS4----------</AM>
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">PJZS2----------</AM>
 </tag>
@@ -2699,7 +2699,7 @@
 <form>svého</form>
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8MS4----------</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8ZS2----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8ZS2----------</AM>
 </tag>
 </m>
 <m id="m-wsj0408-001-p1s6W38-Ta">
@@ -2878,7 +2878,7 @@
 <form>Warner</form>
 <tag>
 <AM lemma="Warner_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Warner_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Warner-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0408-001-p1s7W3-Ta">
@@ -2906,7 +2906,7 @@
 <tag>
 <AM lemma="druhý" src="auto">CrIS2----------</AM>
 <AM lemma="druhý" src="auto">CrMS2----------</AM>
-<AM lemma="druhý" src="auto" recommended="1">CrMS4----------</AM>
+<AM lemma="druhý`2" src="auto" recommended="1">CrMS4----------</AM>
 <AM lemma="druhý" src="auto">CrNS2----------</AM>
 </tag>
 </m>
@@ -3265,7 +3265,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0408-001-p1s8W12-Ta">
@@ -3644,7 +3644,7 @@
 </w.rf>
 <form>jejíž</form>
 <tag>
-<AM lemma="jenž_^(který...[ve_vedl._větě])" src="auto" recommended="1">P1FXXFS3-------</AM>
+<AM lemma="jehož" src="auto" recommended="1">P1FXXFS3-------</AM>
 <AM lemma="jenž_^(který...[ve_vedl._větě])" src="auto">P1IS4FS3-------</AM>
 <AM lemma="jenž_^(který...[ve_vedl._větě])" src="auto">P1NS4FS3-------</AM>
 <AM lemma="jenž_^(který...[ve_vedl._větě])" src="auto">P1XP1FS3-------</AM>
@@ -4563,7 +4563,7 @@
 </w.rf>
 <form>dal</form>
 <tag>
-<AM lemma="dát" src="auto" recommended="1">VpYS----R-AAP--</AM>
+<AM lemma="dát-1" src="auto" recommended="1">VpYS----R-AAP--</AM>
 <AM lemma="dát-2_^(dá_se_očekávat)" src="auto">VpYS----R-AAI--</AM>
 </tag>
 </m>

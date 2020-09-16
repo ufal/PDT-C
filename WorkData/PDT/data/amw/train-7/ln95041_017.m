@@ -263,7 +263,7 @@
 <LM>w#w-ln95041-017-p2s2w10</LM>
 </w.rf>
 <form>druhém</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS6----------</tag>
 </m>
 <m id="m-ln95041-017-p2s2w11">
 <src.rf>manual</src.rf>
@@ -459,7 +459,7 @@
 <LM>w#w-ln95041-017-p2s4w7</LM>
 </w.rf>
 <form>co</form>
-<tag lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="co-5_^(př._co_nejméně,_co_nevidět_atd.)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95041-017-p2s4w8">
 <src.rf>manual</src.rf>
@@ -483,7 +483,7 @@
 <LM>w#w-ln95041-017-p2s4w10</LM>
 </w.rf>
 <form>děti</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-ln95041-017-p2s4w11">
 <src.rf>manual</src.rf>
@@ -1303,7 +1303,7 @@
 <LM>w#w-ln95041-017-p2s10w6</LM>
 </w.rf>
 <form>málo</form>
-<tag lemma="málo-2_^(př._to_málo_co_měl)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="málo-2_^(to_málo_co_měl)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95041-017-p2s10w7">
 <src.rf>manual</src.rf>
@@ -1407,7 +1407,7 @@
 <LM>w#w-ln95041-017-p2s10w19</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-ln95041-017-p2s10w20">
 <src.rf>manual</src.rf>
@@ -1575,7 +1575,7 @@
 <LM>w#w-ln95041-017-p2s10w40</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrMP1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrMP1----------</tag>
 </m>
 <m id="m-ln95041-017-p2s10w41">
 <src.rf>manual</src.rf>
@@ -2041,7 +2041,7 @@
 <LM>w#w-ln95041-017-p3s3Aw12</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-ln95041-017-p3s3Aw13">
 <src.rf>manual</src.rf>
@@ -2479,7 +2479,7 @@
 <LM>w#w-ln95041-017-p4s1w1</LM>
 </w.rf>
 <form>Její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9IS4FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9IS4FS3-------</tag>
 </m>
 <m id="m-ln95041-017-p4s1w2">
 <src.rf>manual</src.rf>

@@ -1013,7 +1013,7 @@
 <tag>
 <AM lemma="druhý" src="auto">CrIS6----------</AM>
 <AM lemma="druhý" src="auto">CrMS6----------</AM>
-<AM lemma="druhý" src="auto" recommended="1">CrNS6----------</AM>
+<AM lemma="druhý`2" src="auto" recommended="1">CrNS6----------</AM>
 </tag>
 </m>
 <m id="m-wsj0292-001-p1s3W4-Ta">
@@ -2549,7 +2549,7 @@
 <AM lemma="první" src="auto">CrFP2----------</AM>
 <AM lemma="první" src="auto">CrFP6----------</AM>
 <AM lemma="první" src="auto">CrIP2----------</AM>
-<AM lemma="první" src="auto" recommended="1">CrIP6----------</AM>
+<AM lemma="první-1" src="auto" recommended="1">CrIP6----------</AM>
 <AM lemma="první" src="auto">CrMP2----------</AM>
 <AM lemma="první" src="auto">CrMP6----------</AM>
 <AM lemma="první" src="auto">CrNP2----------</AM>

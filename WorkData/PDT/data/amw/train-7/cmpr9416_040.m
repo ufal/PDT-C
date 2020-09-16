@@ -141,7 +141,7 @@
 <LM>w#w-cmpr9416-040-p3s1Aw11</LM>
 </w.rf>
 <form>našeho</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSZS2-P1-------</tag>
 </m>
 <m id="m-cmpr9416-040-p3s1Aw12">
 <src.rf>manual</src.rf>
@@ -690,7 +690,7 @@
 <LM>w#w-cmpr9416-040-p3s1Ew11</LM>
 </w.rf>
 <form>léta</form>
-<tag lemma="rok" src="orig" selected="1">NNNP4-----A---2</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP4-----A---2</tag>
 </m>
 <m id="m-cmpr9416-040-p3s1Ew12">
 <src.rf>manual</src.rf>
@@ -748,7 +748,7 @@
 <LM>w#w-cmpr9416-040-p3s1Fw4</LM>
 </w.rf>
 <form>Philadelphia</form>
-<tag lemma="Philadelphia_;G" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Philadelphie_;G_,s_^(^DD**Filadelfie)" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-cmpr9416-040-p3s1Fw5">
 <src.rf>manual</src.rf>

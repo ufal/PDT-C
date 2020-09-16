@@ -1937,7 +1937,7 @@
 </w.rf>
 <form>svůj</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8IS4----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8IS4----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8YS1----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8YS5----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOYS-----------</AM>
@@ -3061,7 +3061,7 @@
 </w.rf>
 <form>Evropě</form>
 <tag>
-<AM lemma="Evropa_;G" src="auto" selected="1">NNFS3-----A----</AM>
+<AM lemma="Evropa_;G_;Y" src="auto" selected="1">NNFS3-----A----</AM>
 <AM lemma="Evropa_;G" src="auto" recommended="1">NNFS6-----A----</AM>
 </tag>
 </m>
@@ -4207,7 +4207,7 @@
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS1---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS4---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS5---------1</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8YP4---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8YP4---------1</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOFP-----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOIP-----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AONS-----------</AM>
@@ -5298,7 +5298,7 @@
 <form>zdaněním</form>
 <tag>
 <AM lemma="zdanění_^(vypočítat_daň)_(*3it)" src="auto">NNNP3-----A----</AM>
-<AM lemma="zdanění_^(vypočítat_daň)_(*3it)" src="auto" recommended="1">NNNS7-----A----</AM>
+<AM lemma="zdanění_^(*3it)" src="auto" recommended="1">NNNS7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0820-001-p1s24W14-Ta">
@@ -5530,7 +5530,7 @@
 <AM lemma="první" src="auto">CrIS2----------</AM>
 <AM lemma="první" src="auto">CrMS2----------</AM>
 <AM lemma="první" src="auto">CrMS4----------</AM>
-<AM lemma="první" src="auto" recommended="1">CrNS2----------</AM>
+<AM lemma="první-1" src="auto" recommended="1">CrNS2----------</AM>
 </tag>
 </m>
 <m id="m-wsj0820-001-p1s24W31-Ta">

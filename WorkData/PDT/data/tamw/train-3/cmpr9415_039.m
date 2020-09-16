@@ -51,7 +51,7 @@
 <LM>w#w-cmpr9415-039-p2s1w5</LM>
 </w.rf>
 <form>nejlepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAMS1----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAMS1----3A----</tag>
 </m>
 <m id="m-cmpr9415-039-p2s1w6">
 <src.rf>manual</src.rf>
@@ -382,7 +382,7 @@
 <LM>w#w-cmpr9415-039-p8s1w2</LM>
 </w.rf>
 <form>druhém</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS6----------</tag>
 </m>
 <m id="m-cmpr9415-039-p8s1w3">
 <src.rf>manual</src.rf>
@@ -1458,7 +1458,7 @@
 <LM>w#w-cmpr9415-039-p10s2w1</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrIS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS4----------</tag>
 </m>
 <m id="m-cmpr9415-039-p10s2w2">
 <src.rf>manual</src.rf>
@@ -1492,7 +1492,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1622,7 +1622,7 @@
 <LM>w#w-cmpr9415-039-p10s2w21</LM>
 </w.rf>
 <form>vyhlášení</form>
-<tag lemma="vyhlášení_,a_^(*4sit)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="vyhlášení_^(*2t)_(*4sit)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-039-p10s2w22">
 <src.rf>manual</src.rf>

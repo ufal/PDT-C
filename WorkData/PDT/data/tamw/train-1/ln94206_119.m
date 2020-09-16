@@ -173,7 +173,7 @@
 <LM>w#w-ln94206-119-p2s1Bw10</LM>
 </w.rf>
 <form>Slavie</form>
-<tag lemma="Slavia_;m" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Slavie_;m_,s_^(^DD**Slávie)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94206-119-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -325,7 +325,7 @@
 <LM>w#w-ln94206-119-p2s2w14</LM>
 </w.rf>
 <form>Slavie</form>
-<tag lemma="Slavia_;m" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Slavie_;m_,s_^(^DD**Slávie)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94206-119-p2s2w15">
 <src.rf>manual</src.rf>

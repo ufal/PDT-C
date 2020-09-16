@@ -696,7 +696,7 @@
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AAIP4----1A----</AM>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AAIP5----1A----</AM>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AAIS1----1A----</AM>
-<AM lemma="měsíční_^(lhůta;svit)" src="auto" recommended="1">AAIS4----1A----</AM>
+<AM lemma="měsíční" src="auto" recommended="1">AAIS4----1A----</AM>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AAIS5----1A----</AM>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AAMP1----1A----</AM>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AAMP4----1A----</AM>

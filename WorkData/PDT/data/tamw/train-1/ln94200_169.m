@@ -350,7 +350,7 @@
 <LM>w#w-ln94200-169-p2s1Bw25</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94200-169-p2s1Bw26">
 <src.rf>manual</src.rf>
@@ -799,7 +799,7 @@
 <LM>w#w-ln94200-169-p4s1w6</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-ln94200-169-p4s1w7">
 <src.rf>manual</src.rf>
@@ -1119,7 +1119,7 @@
 <LM>w#w-ln94200-169-p4s3w7</LM>
 </w.rf>
 <form>lepšímu</form>
-<tag lemma="dobrý" src="orig" selected="1">AANS3----2A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AANS3----2A----</tag>
 </m>
 <m id="m-ln94200-169-p4s3w8">
 <src.rf>manual</src.rf>
@@ -1310,7 +1310,7 @@
 <tag>
 <AM lemma="starost" src="orig">NNFP4-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFP1-----A----</AM>
-<AM lemma="starost-1" src="auto" recommended="1" selected="1">NNFP4-----A----</AM>
+<AM lemma="starost-2_^(*5ý-2)" src="auto" recommended="1" selected="1">NNFP4-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFP5-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFS2-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFS3-----A----</AM>
@@ -1618,7 +1618,7 @@
 <LM>w#w-ln94200-169-p4s7w4</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln94200-169-p4s7w5">
 <src.rf>manual</src.rf>
@@ -2144,7 +2144,7 @@
 <LM>w#w-ln94200-169-p5s2w3</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-ln94200-169-p5s2w4">
 <src.rf>manual</src.rf>

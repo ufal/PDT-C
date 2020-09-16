@@ -43,7 +43,7 @@
 <LM>w#w-ln94210-87-p1s1w4</LM>
 </w.rf>
 <form>nepříjemný</form>
-<tag lemma="příjemný-1_^(všeob.,_poz._emoce)" src="orig" selected="1">AAMS1----1N----</tag>
+<tag lemma="příjemný_^(všeob.,_poz._emoce)" src="orig" selected="1">AAMS1----1N----</tag>
 </m>
 </s>
 <s id="m-ln94210-87-p2s1A">
@@ -119,7 +119,7 @@
 <LM>w#w-ln94210-87-p2s1Bw5</LM>
 </w.rf>
 <form>nepříjemných</form>
-<tag lemma="příjemný-1_^(všeob.,_poz._emoce)" src="orig" selected="1">AAMP2----1N----</tag>
+<tag lemma="příjemný_^(všeob.,_poz._emoce)" src="orig" selected="1">AAMP2----1N----</tag>
 </m>
 <m id="m-ln94210-87-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -352,7 +352,7 @@
 <LM>w#w-ln94210-87-p3s1w2</LM>
 </w.rf>
 <form>interview</form>
-<tag lemma="interview" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="interview-1" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln94210-87-p3s1w3">
 <src.rf>manual</src.rf>
@@ -843,7 +843,7 @@
 <LM>w#w-ln94210-87-p3s3w6</LM>
 </w.rf>
 <form>nepříjemní</form>
-<tag lemma="příjemný-1_^(všeob.,_poz._emoce)" src="orig" selected="1">AAMP1----1N----</tag>
+<tag lemma="příjemný_^(všeob.,_poz._emoce)" src="orig" selected="1">AAMP1----1N----</tag>
 </m>
 <m id="m-ln94210-87-p3s3w7">
 <src.rf>manual</src.rf>

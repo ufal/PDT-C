@@ -371,7 +371,7 @@
 <LM>w#w-lnd92257-028-p2s2w34</LM>
 </w.rf>
 <form>hnutí</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-lnd92257-028-p2s2w35">
 <src.rf>manual</src.rf>
@@ -379,7 +379,7 @@
 <LM>w#w-lnd92257-028-p2s2w35</LM>
 </w.rf>
 <form>Děti</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-lnd92257-028-p2s2w36">
 <src.rf>manual</src.rf>
@@ -552,7 +552,7 @@
 <LM>w#w-lnd92257-028-p2s4w1</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrNS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS4----------</tag>
 </m>
 <m id="m-lnd92257-028-p2s4w2">
 <src.rf>manual</src.rf>

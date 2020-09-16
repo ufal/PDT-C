@@ -628,7 +628,7 @@
 <LM>w#w-ln94202-45-p2s3w14</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-ln94202-45-p2s3w15">
 <src.rf>manual</src.rf>
@@ -921,7 +921,7 @@
 <LM>w#w-ln94202-45-p2s5w6</LM>
 </w.rf>
 <form>politiky</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94202-45-p2s5w7">
 <src.rf>manual</src.rf>
@@ -1264,7 +1264,7 @@
 <LM>w#w-ln94202-45-p2s7w17</LM>
 </w.rf>
 <form>moc</form>
-<tag lemma="moc-3_^(velmi,_ve_spojení_s_adj.,_př._moc_hezká)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="moc-3_^(moc_hezká,_moc_peněz)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94202-45-p2s7w18">
 <src.rf>manual</src.rf>
@@ -1406,7 +1406,7 @@
 <LM>w#w-ln94202-45-p3s1w14</LM>
 </w.rf>
 <form>politiky</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94202-45-p3s1w15">
 <src.rf>manual</src.rf>

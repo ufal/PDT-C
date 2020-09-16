@@ -1007,7 +1007,7 @@
 <LM>w#w-lnd92259-028-p2s7w2</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-028-p2s7w3">
 <src.rf>manual</src.rf>
@@ -1109,7 +1109,7 @@
 <LM>w#w-lnd92259-028-p2s7w14</LM>
 </w.rf>
 <form>napadení</form>
-<tag lemma="napadení_^(*3nout)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="napadení" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-lnd92259-028-p2s7w15">
 <src.rf>manual</src.rf>

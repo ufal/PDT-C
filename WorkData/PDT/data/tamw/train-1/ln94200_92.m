@@ -295,7 +295,7 @@
 <LM>w#w-ln94200-92-p2s1Bw28</LM>
 </w.rf>
 <form>jeřábu</form>
-<tag lemma="jeřáb-3_^(stroj)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="jeřáb-2_^(strom;;stroj)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94200-92-p2s1Bw29">
 <src.rf>manual</src.rf>

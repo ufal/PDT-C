@@ -378,7 +378,7 @@
 <AM lemma="Česko_;G" src="auto">NNNS1-----A----</AM>
 <AM lemma="Česko_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Česko_;G" src="auto">NNNS5-----A----</AM>
-<AM lemma="český" src="auto" recommended="1" selected="1">S2--------A----</AM>
+<AM lemma="česko" src="auto" recommended="1" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-001-p4s2w14">
@@ -732,7 +732,7 @@
 <LM>w#w-cmpr9410-001-p4s3w31</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-cmpr9410-001-p4s3w32">
 <src.rf>manual</src.rf>
@@ -1017,7 +1017,7 @@
 <LM>w#w-cmpr9410-001-p8s1w25</LM>
 </w.rf>
 <form>co</form>
-<tag lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="co-5_^(př._co_nejméně,_co_nevidět_atd.)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-cmpr9410-001-p8s1w26">
 <src.rf>manual</src.rf>
@@ -1208,7 +1208,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-2" src="auto">Db-------------</AM>
-<AM lemma="třeba-3" src="manual" selected="1">TT-------------</AM>
+<AM lemma="třeba-2_^(například)" src="manual" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-001-p8s2w15">
@@ -1629,7 +1629,7 @@
 <LM>w#w-cmpr9410-001-p10s2w7</LM>
 </w.rf>
 <form>právo</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-cmpr9410-001-p10s2w8">
 <src.rf>manual</src.rf>
@@ -1653,7 +1653,7 @@
 <LM>w#w-cmpr9410-001-p10s2w10</LM>
 </w.rf>
 <form>člen</form>
-<tag lemma="člen" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-001-p10s2w11">
 <src.rf>manual</src.rf>
@@ -1696,7 +1696,7 @@
 <LM>w#w-cmpr9410-001-p10s2w15</LM>
 </w.rf>
 <form>daném</form>
-<tag lemma="daný_^(*3át)" src="auto" selected="1">AAIS6----1A----</tag>
+<tag lemma="daný-1_^(*5át-1)" src="auto" selected="1">AAIS6----1A----</tag>
 </m>
 <m id="m-cmpr9410-001-p10s2w16">
 <src.rf>manual</src.rf>
@@ -3119,7 +3119,7 @@
 <LM>w#w-cmpr9410-001-p15s1w21</LM>
 </w.rf>
 <form>jejímž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1ZS6FS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1ZS6FS3-------</tag>
 </m>
 <m id="m-cmpr9410-001-p15s1w22">
 <src.rf>manual</src.rf>
@@ -3746,7 +3746,7 @@
 <LM>w#w-cmpr9410-001-p17s1w4</LM>
 </w.rf>
 <form>vydaná</form>
-<tag lemma="vydaný-2_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)_(*4t-2)" src="orig" selected="1">AANP1----1A----</tag>
+<tag lemma="vydaný_^(*2t)" src="orig" selected="1">AANP1----1A----</tag>
 </m>
 <m id="m-cmpr9410-001-p17s1w5">
 <src.rf>manual</src.rf>
@@ -3901,7 +3901,7 @@
 <LM>w#w-cmpr9410-001-p17s1w23</LM>
 </w.rf>
 <form>vydání</form>
-<tag lemma="vydání-2_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)_(*5at-2)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="vydání_^(*3at)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-cmpr9410-001-p17s1w24">
 <src.rf>manual</src.rf>
@@ -4055,7 +4055,7 @@
 <form>dovážených</form>
 <tag>
 <AM lemma="dovážený_^(dokončit_vážení)_(*2t)" src="auto">AAIP2----1A----</AM>
-<AM lemma="dovážený-2_^(z_ciziny)_(*4t)" src="manual" selected="1">AAIP2----1A----</AM>
+<AM lemma="dovážený_^(*2t)_(*3it)" src="manual" selected="1">AAIP2----1A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-001-p18s1w15">
@@ -4176,7 +4176,7 @@
 <LM>w#w-cmpr9410-001-p18s2w8</LM>
 </w.rf>
 <form>dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-cmpr9410-001-p18s2w9">
 <src.rf>manual</src.rf>
@@ -4404,7 +4404,7 @@
 <LM>w#w-cmpr9410-001-p19s1w14</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-cmpr9410-001-p19s1w15">
 <src.rf>manual</src.rf>
@@ -5072,7 +5072,7 @@
 <form>dovážené</form>
 <tag>
 <AM lemma="dovážený_^(dokončit_vážení)_(*2t)" src="auto">AAIP4----1A----</AM>
-<AM lemma="dovážený-2_^(z_ciziny)_(*4t)" src="manual" selected="1">AAIP1----1A----</AM>
+<AM lemma="dovážený_^(*2t)_(*3it)" src="manual" selected="1">AAIP1----1A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-001-p22s1w8">

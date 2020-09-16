@@ -354,7 +354,7 @@
 <LM>w#w-lnd94103-062-p1s2w12</LM>
 </w.rf>
 <form>zelené</form>
-<tag lemma="zelený" src="orig" selected="1">AAFS6----1A----</tag>
+<tag lemma="zelený_;o" src="orig" selected="1">AAFS6----1A----</tag>
 </m>
 <m id="m-lnd94103-062-p1s2w13">
 <src.rf>manual</src.rf>
@@ -521,7 +521,7 @@
 <LM>w#w-lnd94103-062-p1s4w3</LM>
 </w.rf>
 <form>zelené</form>
-<tag lemma="zelený" src="orig" selected="1">AAFS6----1A----</tag>
+<tag lemma="zelený_;o" src="orig" selected="1">AAFS6----1A----</tag>
 </m>
 <m id="m-lnd94103-062-p1s4w4">
 <src.rf>manual</src.rf>
@@ -691,7 +691,7 @@
 <LM>w#w-lnd94103-062-p1s5w13</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-lnd94103-062-p1s5w14">
 <src.rf>manual</src.rf>
@@ -999,7 +999,7 @@
 <form>dobru</form>
 <tag>
 <AM lemma="dobro" src="orig">NNNS3-----A----</AM>
-<AM lemma="dobro-1_^(prospěch)" src="auto" recommended="1" selected="1">NNNS3-----A----</AM>
+<AM lemma="dobro_^(prospěch;;hudební_nástroj)" src="auto" recommended="1" selected="1">NNNS3-----A----</AM>
 <AM lemma="dobro-1_^(prospěch)" src="auto">NNNS6-----A----</AM>
 <AM lemma="dobro-2_^(hudební_nástroj)" src="auto">NNNS3-----A----</AM>
 <AM lemma="dobro-2_^(hudební_nástroj)" src="auto">NNNS6-----A----</AM>
@@ -1072,7 +1072,7 @@
 <LM>w#w-lnd94103-062-p1s8w7</LM>
 </w.rf>
 <form>žluté</form>
-<tag lemma="žlutý" src="orig" selected="1">AAFS6----1A----</tag>
+<tag lemma="žlutý_;o" src="orig" selected="1">AAFS6----1A----</tag>
 </m>
 <m id="m-lnd94103-062-p1s8w8">
 <src.rf>manual</src.rf>

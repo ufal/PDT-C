@@ -69,7 +69,7 @@
 <LM>w#w-mf930708-134-p2s1w5</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-mf930708-134-p2s1w6">
 <src.rf>manual</src.rf>
@@ -508,7 +508,7 @@
 <LM>w#w-mf930708-134-p2s4w4</LM>
 </w.rf>
 <form>dal</form>
-<tag lemma="dát" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930708-134-p2s4w5">
 <src.rf>manual</src.rf>

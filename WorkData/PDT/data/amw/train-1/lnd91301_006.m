@@ -769,7 +769,7 @@
 <LM>w#w-lnd91301-006-p4s4w24</LM>
 </w.rf>
 <form>Saúdská</form>
-<tag lemma="saudský" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="saúdský" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-lnd91301-006-p4s4w25">
 <src.rf>manual</src.rf>

@@ -168,7 +168,7 @@
 <LM>w#w-ln94209-5-p2s1Bw11</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS6---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS6---------1</tag>
 </m>
 <m id="m-ln94209-5-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -468,7 +468,7 @@
 <LM>w#w-ln94209-5-p3s1w24</LM>
 </w.rf>
 <form>druhým</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS7----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS7----------</tag>
 </m>
 <m id="m-ln94209-5-p3s1w25">
 <src.rf>manual</src.rf>
@@ -891,7 +891,7 @@
 <LM>w#w-ln94209-5-p4s3w9</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-ln94209-5-p4s3w10">
 <src.rf>manual</src.rf>
@@ -1694,7 +1694,7 @@
 <LM>w#w-ln94209-5-p6s1w14</LM>
 </w.rf>
 <form>Lánské</form>
-<tag lemma="Lánská_;Y" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Lánská_;Y_^(*1ý)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94209-5-p6s1w15">
 <src.rf>manual</src.rf>
@@ -1833,7 +1833,7 @@
 <LM>w#w-ln94209-5-p6s2w4</LM>
 </w.rf>
 <form>druhém</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-ln94209-5-p6s2w5">
 <src.rf>manual</src.rf>
@@ -1841,7 +1841,7 @@
 <LM>w#w-ln94209-5-p6s2w5</LM>
 </w.rf>
 <form>vydání</form>
-<tag lemma="vydání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="vydání_^(*3at)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-ln94209-5-p6s2w6">
 <src.rf>manual</src.rf>
@@ -2019,7 +2019,7 @@
 <LM>w#w-ln94209-5-p6s3w13</LM>
 </w.rf>
 <form>jejímž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1ZS6FS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1ZS6FS3-------</tag>
 </m>
 <m id="m-ln94209-5-p6s3w14">
 <src.rf>manual</src.rf>
@@ -2027,7 +2027,7 @@
 <LM>w#w-ln94209-5-p6s3w14</LM>
 </w.rf>
 <form>vydání</form>
-<tag lemma="vydání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="vydání_^(*3at)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-ln94209-5-p6s3w15">
 <src.rf>manual</src.rf>

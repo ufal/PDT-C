@@ -157,7 +157,7 @@
 <LM>w#w-ln95048-115-p2s1w17</LM>
 </w.rf>
 <form>jejích</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP2FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XP2FS3-------</tag>
 </m>
 <m id="m-ln95048-115-p2s1w18">
 <src.rf>manual</src.rf>
@@ -297,7 +297,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1319,7 +1319,7 @@
 <LM>w#w-ln95048-115-p4s2w16</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-ln95048-115-p4s2w17">
 <src.rf>manual</src.rf>
@@ -2289,7 +2289,7 @@
 <form>Strobe</form>
 <tag>
 <AM lemma="Strobe_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Strobe_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Strobe-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-115-p6s1w27">

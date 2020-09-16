@@ -563,7 +563,7 @@
 <AM lemma="hubení_^(např._hmyz)_(*3it)" src="auto">NNNP4-----A----</AM>
 <AM lemma="hubení_^(např._hmyz)_(*3it)" src="auto">NNNP5-----A----</AM>
 <AM lemma="hubení_^(např._hmyz)_(*3it)" src="auto">NNNS1-----A----</AM>
-<AM lemma="hubení_^(např._hmyz)_(*3it)" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="hubení_^(*3it)" src="auto" recommended="1">NNNS2-----A----</AM>
 <AM lemma="hubení_^(např._hmyz)_(*3it)" src="auto">NNNS3-----A----</AM>
 <AM lemma="hubení_^(např._hmyz)_(*3it)" src="auto">NNNS4-----A----</AM>
 <AM lemma="hubení_^(např._hmyz)_(*3it)" src="auto">NNNS5-----A----</AM>
@@ -936,7 +936,7 @@
 <tag>
 <AM lemma="první" src="auto">CrFP3----------</AM>
 <AM lemma="první" src="auto">CrIP3----------</AM>
-<AM lemma="první" src="auto" recommended="1">CrIS6----------</AM>
+<AM lemma="první-1" src="auto" recommended="1">CrIS6----------</AM>
 <AM lemma="první" src="auto">CrIS7----------</AM>
 <AM lemma="první" src="auto">CrMP3----------</AM>
 <AM lemma="první" src="auto">CrMS6----------</AM>

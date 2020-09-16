@@ -351,7 +351,7 @@
 <LM>w#w-mf930703-128-p2s2w11</LM>
 </w.rf>
 <form>Evropě</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf930703-128-p2s2w12">
 <src.rf>manual</src.rf>
@@ -970,7 +970,7 @@
 <LM>w#w-mf930703-128-p3s3w14</LM>
 </w.rf>
 <form>Evropě</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf930703-128-p3s3w15">
 <src.rf>manual</src.rf>

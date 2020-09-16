@@ -216,7 +216,7 @@
 <LM>w#w-ln94209-34-p2s1Bw16</LM>
 </w.rf>
 <form>kuchyni</form>
-<tag lemma="kuchyně" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="kuchyň" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94209-34-p2s1Bw17">
 <src.rf>manual</src.rf>
@@ -256,7 +256,7 @@
 <LM>w#w-ln94209-34-p2s1Bw21</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-ln94209-34-p2s1Bw22">
 <src.rf>manual</src.rf>
@@ -280,7 +280,7 @@
 <LM>w#w-ln94209-34-p2s1Bw24</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94209-34-p2s1Bw25">
 <src.rf>manual</src.rf>
@@ -569,7 +569,7 @@
 <LM>w#w-ln94209-34-p3s1w11</LM>
 </w.rf>
 <form>ohlášení</form>
-<tag lemma="ohlášení_,a_^(*4sit)" src="auto" selected="1">NNNS6-----A----</tag>
+<tag lemma="ohlášení_^(*2t)_(*4sit)" src="auto" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-ln94209-34-p3s1w12">
 <src.rf>manual</src.rf>

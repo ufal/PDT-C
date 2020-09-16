@@ -991,7 +991,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Arthura</form>
-<tag lemma="Arthur_;Y" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Arthur_;Y_,s_^(^DD**Artur)" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-vesm9211-044-p3s3w14">
 <src.rf>manual</src.rf>

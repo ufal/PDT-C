@@ -437,7 +437,7 @@
 <LM>w#w-mf930701-134-p2s2w16</LM>
 </w.rf>
 <form>odpovědnosti</form>
-<tag lemma="odpovědnost_^(kdo_za_něco_odpovídá)_(*3ý)" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="odpovědnost_^(*3ý)" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-mf930701-134-p2s2w17">
 <src.rf>manual</src.rf>

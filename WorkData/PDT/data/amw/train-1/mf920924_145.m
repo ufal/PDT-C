@@ -159,7 +159,7 @@
 <LM>w#w-mf920924-145-p3s1w10</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS7---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS7---------1</tag>
 </m>
 <m id="m-mf920924-145-p3s1w11">
 <src.rf>manual</src.rf>
@@ -285,7 +285,7 @@
 <LM>w#w-mf920924-145-p3s1w25</LM>
 </w.rf>
 <form>Yorku</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="York-2_;G_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-mf920924-145-p3s1w26">
 <src.rf>manual</src.rf>

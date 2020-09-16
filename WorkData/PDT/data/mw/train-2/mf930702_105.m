@@ -337,7 +337,7 @@
 <LM>w#w-mf930702-105-p2s3w5</LM>
 </w.rf>
 <form>odpovědnosti</form>
-<tag lemma="odpovědnost_^(kdo_za_něco_odpovídá)_(*3ý)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="odpovědnost_^(*3ý)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930702-105-p2s3w6">
 <src.rf>manual</src.rf>
@@ -505,7 +505,7 @@
 <LM>w#w-mf930702-105-p2s4w4</LM>
 </w.rf>
 <form>druhý</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS4----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS4----------</tag>
 </m>
 <m id="m-mf930702-105-p2s4w5">
 <src.rf>manual</src.rf>

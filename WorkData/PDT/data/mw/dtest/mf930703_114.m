@@ -265,7 +265,7 @@
 <LM>w#w-mf930703-114-p2s1w27</LM>
 </w.rf>
 <form>Orlické</form>
-<tag lemma="Orlický_;G" src="orig" selected="1">AAFS2----1A----</tag>
+<tag lemma="orlický" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-mf930703-114-p2s1w28">
 <src.rf>manual</src.rf>
@@ -583,7 +583,7 @@
 <LM>w#w-mf930703-114-p2s4w3</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-mf930703-114-p2s4w4">
 <src.rf>manual</src.rf>

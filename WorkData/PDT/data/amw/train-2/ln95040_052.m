@@ -267,7 +267,7 @@
 <LM>w#w-ln95040-052-p2s1w26</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-ln95040-052-p2s1w27">
 <src.rf>manual</src.rf>
@@ -559,7 +559,7 @@
 <LM>w#w-ln95040-052-p3s2w2</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrFS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS1----------</tag>
 </m>
 <m id="m-ln95040-052-p3s2w3">
 <src.rf>manual</src.rf>
@@ -739,7 +739,7 @@
 <LM>w#w-ln95040-052-p3s3w15</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-ln95040-052-p3s3w16">
 <src.rf>manual</src.rf>
@@ -797,7 +797,7 @@
 <LM>w#w-ln95040-052-p3s4w1</LM>
 </w.rf>
 <form>Druhá</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS1----------</tag>
 </m>
 <m id="m-ln95040-052-p3s4w2">
 <src.rf>manual</src.rf>
@@ -1677,7 +1677,7 @@
 <LM>w#w-ln95040-052-p4s3w9</LM>
 </w.rf>
 <form>členy</form>
-<tag lemma="člen" src="orig" selected="1">NNMP7-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-ln95040-052-p4s3w10">
 <src.rf>manual</src.rf>
@@ -1919,7 +1919,7 @@
 <LM>w#w-ln95040-052-p5s1w20</LM>
 </w.rf>
 <form>činitele</form>
-<tag lemma="činitel" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="činitel-1" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-ln95040-052-p5s1w21">
 <src.rf>manual</src.rf>
@@ -1975,7 +1975,7 @@
 <LM>w#w-ln95040-052-p5s1w28</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-ln95040-052-p5s1w29">
 <src.rf>manual</src.rf>
@@ -2156,7 +2156,7 @@
 <LM>w#w-ln95040-052-p5s2w12</LM>
 </w.rf>
 <form>stojí</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95040-052-p5s2w13">
 <src.rf>manual</src.rf>
@@ -2344,7 +2344,7 @@
 <LM>w#w-ln95040-052-p5s4w10</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln95040-052-p5s4w11">
 <src.rf>manual</src.rf>

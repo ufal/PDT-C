@@ -174,7 +174,7 @@
 <LM>w#w-lnd92253-013-p2s2w5</LM>
 </w.rf>
 <form>člen</form>
-<tag lemma="člen" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92253-013-p2s2w6">
 <src.rf>manual</src.rf>
@@ -375,7 +375,7 @@
 <LM>w#w-lnd92253-013-p2s2w29</LM>
 </w.rf>
 <form>právo</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-lnd92253-013-p2s2w30">
 <src.rf>manual</src.rf>
@@ -493,7 +493,7 @@
 <LM>w#w-lnd92253-013-p2s2w43</LM>
 </w.rf>
 <form>členem</form>
-<tag lemma="člen" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd92253-013-p2s2w44">
 <src.rf>manual</src.rf>
@@ -563,7 +563,7 @@
 </w.rf>
 <form>Kačenka</form>
 <tag>
-<AM lemma="Kačenka_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Kačenka-2_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="kačenka" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -599,7 +599,7 @@
 <LM>w#w-lnd92253-013-p2s4w3</LM>
 </w.rf>
 <form>zveřejněný</form>
-<tag lemma="zveřejněný_^(*3it)" src="orig" selected="1">AAIS1----1A----</tag>
+<tag lemma="zveřejněný_^(*2t)_(*3it)" src="orig" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-lnd92253-013-p2s4w4">
 <src.rf>manual</src.rf>
@@ -958,7 +958,7 @@
 <LM>w#w-lnd92253-013-p2s5w22</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS1FS3-------</tag>
 </m>
 <m id="m-lnd92253-013-p2s5w23">
 <src.rf>manual</src.rf>
@@ -1081,7 +1081,7 @@
 <LM>w#w-lnd92253-013-p2s5w37</LM>
 </w.rf>
 <form>cestě</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd92253-013-p2s5w38">
 <src.rf>manual</src.rf>
@@ -1225,7 +1225,7 @@
 <LM>w#w-lnd92253-013-p2s6w9</LM>
 </w.rf>
 <form>hnutí</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-lnd92253-013-p2s6w10">
 <src.rf>manual</src.rf>
@@ -2017,7 +2017,7 @@
 <LM>w#w-lnd92253-013-p2s8w37</LM>
 </w.rf>
 <form>zveřejněném</form>
-<tag lemma="zveřejněný_^(*3it)" src="orig" selected="1">AANS6----1A----</tag>
+<tag lemma="zveřejněný_^(*2t)_(*3it)" src="orig" selected="1">AANS6----1A----</tag>
 </m>
 <m id="m-lnd92253-013-p2s8w38">
 <src.rf>manual</src.rf>

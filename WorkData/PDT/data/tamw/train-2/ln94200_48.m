@@ -175,7 +175,7 @@
 <LM>w#w-ln94200-48-p2s1Bw16</LM>
 </w.rf>
 <form>Prouza</form>
-<tag lemma="Prouza_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Prouza-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-48-p2s1Bw17">
 <src.rf>manual</src.rf>
@@ -1038,7 +1038,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1349,7 +1349,7 @@
 <LM>w#w-ln94200-48-p4s2w17</LM>
 </w.rf>
 <form>Prouza</form>
-<tag lemma="Prouza_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Prouza-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-48-p4s2w18">
 <src.rf>manual</src.rf>

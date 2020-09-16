@@ -27,7 +27,7 @@
 <LM>w#w-ln95047-020-p1s1w2</LM>
 </w.rf>
 <form>Buffalo</form>
-<tag lemma="Buffalo-2_;m_^(sport.:_souč._názvu)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Buffalo-1_;G_;m_^(město_sport._klub)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95047-020-p1s1w3">
 <src.rf>manual</src.rf>
@@ -53,7 +53,7 @@
 <LM>w#w-ln95047-020-p2s1Aw1</LM>
 </w.rf>
 <form>Buffalo</form>
-<tag lemma="Buffalo-1_;G_^(město)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Buffalo-1_;G_;m_^(město_sport._klub)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95047-020-p2s1Aw2">
 <src.rf>manual</src.rf>
@@ -111,7 +111,7 @@
 <LM>w#w-ln95047-020-p2s1Bw6</LM>
 </w.rf>
 <form>Hartford</form>
-<tag lemma="Hartford_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Hartford_;G_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95047-020-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -395,7 +395,7 @@
 <LM>w#w-ln95047-020-p2s2w5</LM>
 </w.rf>
 <form>Buffala</form>
-<tag lemma="Buffalo-2_;m_^(sport.:_souč._názvu)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="Buffalo-1_;G_;m_^(město_sport._klub)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln95047-020-p2s2w6">
 <src.rf>manual</src.rf>
@@ -729,7 +729,7 @@
 <LM>w#w-ln95047-020-p2s3w13</LM>
 </w.rf>
 <form>Buffala</form>
-<tag lemma="Buffalo-2_;m_^(sport.:_souč._názvu)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="Buffalo-1_;G_;m_^(město_sport._klub)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln95047-020-p2s3w14">
 <src.rf>manual</src.rf>
@@ -737,7 +737,7 @@
 <LM>w#w-ln95047-020-p2s3w14</LM>
 </w.rf>
 <form>Pat</form>
-<tag lemma="Pat_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pat-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-020-p2s3w15">
 <src.rf>manual</src.rf>

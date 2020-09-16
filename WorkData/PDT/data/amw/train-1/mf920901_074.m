@@ -402,7 +402,7 @@
 <LM>w#w-mf920901-074-p1s2w16</LM>
 </w.rf>
 <form>druhém</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS6----------</tag>
 </m>
 <m id="m-mf920901-074-p1s2w17">
 <src.rf>manual</src.rf>
@@ -989,7 +989,7 @@
 <form>Radio</form>
 <tag>
 <AM lemma="rádio_,a" src="orig">NNNS1-----A----</AM>
-<AM lemma="radio_,s_^(^DD**rádio)" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="radio-1_,s_^(^DD**rádio)" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-074-p1s4w34">
@@ -998,7 +998,7 @@
 <LM>w#w-mf920901-074-p1s4w34</LM>
 </w.rf>
 <form>Faktor</form>
-<tag lemma="faktor" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="faktor-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920901-074-p1s4w35">
 <src.rf>manual</src.rf>

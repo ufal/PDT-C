@@ -510,7 +510,7 @@
 <LM>w#w-mf920902-012-p1s3w16</LM>
 </w.rf>
 <form>dny</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-mf920902-012-p1s3w17">
 <src.rf>manual</src.rf>
@@ -611,7 +611,7 @@
 <LM>w#w-mf920902-012-p1s4w2</LM>
 </w.rf>
 <form>Naši</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSMP1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSMP1-P1-------</tag>
 </m>
 <m id="m-mf920902-012-p1s4w3">
 <src.rf>manual</src.rf>
@@ -747,7 +747,7 @@
 <LM>w#w-mf920902-012-p1s4w19</LM>
 </w.rf>
 <form>našim</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP3-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP3-P1-------</tag>
 </m>
 <m id="m-mf920902-012-p1s4w20">
 <src.rf>manual</src.rf>

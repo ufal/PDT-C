@@ -163,7 +163,7 @@
 <LM>w#w-mf920901-057-p1s1w19</LM>
 </w.rf>
 <form>naše</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSNS4-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSNS4-P1-------</tag>
 </m>
 <m id="m-mf920901-057-p1s1w20">
 <src.rf>manual</src.rf>

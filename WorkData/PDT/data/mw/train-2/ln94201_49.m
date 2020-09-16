@@ -579,7 +579,7 @@
 <LM>w#w-ln94201-49-p3s1w2</LM>
 </w.rf>
 <form>naší</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS7-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS7-P1-------</tag>
 </m>
 <m id="m-ln94201-49-p3s1w3">
 <src.rf>manual</src.rf>
@@ -1385,7 +1385,7 @@
 <LM>w#w-ln94201-49-p5s1w1</LM>
 </w.rf>
 <form>Mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-49-p5s1w2">
 <src.rf>manual</src.rf>
@@ -2074,7 +2074,7 @@
 <LM>w#w-ln94201-49-p6s2w8</LM>
 </w.rf>
 <form>polní</form>
-<tag lemma="polní-1" src="orig" selected="1">AAFS6----1A----</tag>
+<tag lemma="polní" src="orig" selected="1">AAFS6----1A----</tag>
 </m>
 <m id="m-ln94201-49-p6s2w9">
 <src.rf>manual</src.rf>
@@ -2082,7 +2082,7 @@
 <LM>w#w-ln94201-49-p6s2w9</LM>
 </w.rf>
 <form>cestě</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94201-49-p6s2w10">
 <src.rf>manual</src.rf>

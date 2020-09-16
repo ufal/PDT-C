@@ -294,7 +294,7 @@
 <LM>w#w-ln95041-094-p2s3w2</LM>
 </w.rf>
 <form>Naše</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSHS1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSHS1-P1-------</tag>
 </m>
 <m id="m-ln95041-094-p2s3w3">
 <src.rf>manual</src.rf>
@@ -478,7 +478,7 @@
 <LM>w#w-ln95041-094-p2s4w14</LM>
 </w.rf>
 <form>lety</form>
-<tag lemma="rok" src="orig" selected="1">NNNP7-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP7-----A----</tag>
 </m>
 <m id="m-ln95041-094-p2s4w15">
 <src.rf>manual</src.rf>
@@ -577,7 +577,7 @@
 <LM>w#w-ln95041-094-p2s5w2</LM>
 </w.rf>
 <form>nemoci</form>
-<tag lemma="nemoc_^(choroba)" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="nemoc" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-ln95041-094-p2s5w3">
 <src.rf>manual</src.rf>
@@ -617,7 +617,7 @@
 <LM>w#w-ln95041-094-p2s5w7</LM>
 </w.rf>
 <form>virů</form>
-<tag lemma="vir" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="vir-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln95041-094-p2s5w8">
 <src.rf>manual</src.rf>
@@ -825,7 +825,7 @@
 <LM>w#w-ln95041-094-p2s6w1</LM>
 </w.rf>
 <form>Nemoc</form>
-<tag lemma="nemoc_^(choroba)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="nemoc" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95041-094-p2s6w2">
 <src.rf>manual</src.rf>
@@ -905,7 +905,7 @@
 <LM>w#w-ln95041-094-p2s6w11</LM>
 </w.rf>
 <form>masovému</form>
-<tag lemma="masový-2_^(velký)" src="orig" selected="1">AAIS3----1A----</tag>
+<tag lemma="masový" src="orig" selected="1">AAIS3----1A----</tag>
 </m>
 <m id="m-ln95041-094-p2s6w12">
 <src.rf>manual</src.rf>
@@ -1229,7 +1229,7 @@
 <LM>w#w-ln95041-094-p2s9w10</LM>
 </w.rf>
 <form>cesty</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-ln95041-094-p2s9w11">
 <src.rf>manual</src.rf>
@@ -1253,7 +1253,7 @@
 <LM>w#w-ln95041-094-p2s9w13</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln95041-094-p2s9w14">
 <src.rf>manual</src.rf>

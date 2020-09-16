@@ -35,7 +35,7 @@
 <LM>w#w-mf920925-121-p1s1w3</LM>
 </w.rf>
 <form>členů</form>
-<tag lemma="člen" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf920925-121-p1s1w4">
 <src.rf>manual</src.rf>
@@ -632,7 +632,7 @@
 <LM>w#w-mf920925-121-p3s2w2</LM>
 </w.rf>
 <form>přijetí</form>
-<tag lemma="přijetí_^(*3mout)" src="auto" selected="1">NNNS2-----A----</tag>
+<tag lemma="přijetí_^(*1)_(*3mout)" src="auto" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-mf920925-121-p3s2w3">
 <src.rf>manual</src.rf>
@@ -648,7 +648,7 @@
 <LM>w#w-mf920925-121-p3s2w4</LM>
 </w.rf>
 <form>členů</form>
-<tag lemma="člen" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf920925-121-p3s2w5">
 <src.rf>manual</src.rf>
@@ -956,7 +956,7 @@
 <LM>w#w-mf920925-121-p3s4w9</LM>
 </w.rf>
 <form>členy</form>
-<tag lemma="člen" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-mf920925-121-p3s4w10">
 <src.rf>manual</src.rf>
@@ -1034,7 +1034,7 @@
 <LM>w#w-mf920925-121-p3s4w18</LM>
 </w.rf>
 <form>přijetí</form>
-<tag lemma="přijetí_^(*3mout)" src="auto" selected="1">NNNS4-----A----</tag>
+<tag lemma="přijetí_^(*1)_(*3mout)" src="auto" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-mf920925-121-p3s4w19">
 <src.rf>manual</src.rf>

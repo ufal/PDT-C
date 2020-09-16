@@ -83,7 +83,7 @@
 <LM>w#w-mf930703-084-p1s1w9</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS2---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS2---------1</tag>
 </m>
 <m id="m-mf930703-084-p1s1w10">
 <src.rf>manual</src.rf>

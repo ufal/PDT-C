@@ -111,7 +111,7 @@
 <LM>w#w-mf930709-023-p2s1Bw1</LM>
 </w.rf>
 <form>Druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-mf930709-023-p2s1Bw2">
 <src.rf>manual</src.rf>
@@ -234,7 +234,7 @@
 <LM>w#w-mf930709-023-p2s1Bw16</LM>
 </w.rf>
 <form>jejím</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS6FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS6FS3-------</tag>
 </m>
 <m id="m-mf930709-023-p2s1Bw17">
 <src.rf>manual</src.rf>
@@ -362,7 +362,7 @@
 <LM>w#w-mf930709-023-p2s1Bw32</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-mf930709-023-p2s1Bw33">
 <src.rf>manual</src.rf>
@@ -550,7 +550,7 @@
 <LM>w#w-mf930709-023-p3s1w12</LM>
 </w.rf>
 <form>obsažené</form>
-<tag lemma="obsažený_^(*5áhnout)" src="orig" selected="1">AAIP4----1A----</tag>
+<tag lemma="obsažený" src="orig" selected="1">AAIP4----1A----</tag>
 </m>
 <m id="m-mf930709-023-p3s1w13">
 <src.rf>manual</src.rf>
@@ -786,7 +786,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>

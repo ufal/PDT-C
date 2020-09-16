@@ -172,7 +172,7 @@
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP1FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP5FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9ZS1FS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9ZS1FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSZS5FS3-------</AM>
 </tag>
 </m>
@@ -562,7 +562,7 @@
 </w.rf>
 <form>svou</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8FS4---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8FS4---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS7---------1</AM>
 </tag>
 </m>
@@ -1167,7 +1167,7 @@
 </w.rf>
 <form>svých</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8XP2----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8XP2----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8XP6----------</AM>
 </tag>
 </m>
@@ -2580,7 +2580,7 @@
 </w.rf>
 <form>Nedali</form>
 <tag>
-<AM lemma="dát" src="auto" recommended="1">VpMP----R-NAP--</AM>
+<AM lemma="dát-1" src="auto" recommended="1">VpMP----R-NAP--</AM>
 <AM lemma="dát-2_^(dá_se_očekávat)" src="auto">VpMP----R-NAI--</AM>
 </tag>
 </m>
@@ -3236,7 +3236,7 @@
 <form>Seagram</form>
 <tag>
 <AM lemma="Seagram_;G_,t_^(Seragram_Building)" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Seagram-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Seagram_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0918-001-p1s10W4-Ta">
@@ -3254,7 +3254,7 @@
 </w.rf>
 <form>montrealského</form>
 <tag>
-<AM lemma="montrealský_;G" src="auto" recommended="1">AAIS2----1A----</AM>
+<AM lemma="montrealský" src="auto" recommended="1">AAIS2----1A----</AM>
 <AM lemma="montrealský_;G" src="auto">AAMS2----1A----</AM>
 <AM lemma="montrealský_;G" src="auto">AAMS4----1A----</AM>
 <AM lemma="montrealský_;G" src="auto">AANS2----1A----</AM>
@@ -3571,7 +3571,7 @@
 <form>zdaněním</form>
 <tag>
 <AM lemma="zdanění_^(vypočítat_daň)_(*3it)" src="auto">NNNP3-----A----</AM>
-<AM lemma="zdanění_^(vypočítat_daň)_(*3it)" src="auto" recommended="1">NNNS7-----A----</AM>
+<AM lemma="zdanění_^(*3it)" src="auto" recommended="1">NNNS7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0918-001-p1s10W34-Ta">
@@ -4260,7 +4260,7 @@
 <form>Seagram</form>
 <tag>
 <AM lemma="Seagram_;G_,t_^(Seragram_Building)" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Seagram-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Seagram_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0918-001-p1s13W3-Ta">
@@ -4684,7 +4684,7 @@
 <AM lemma="jenž_^(který...[ve_vedl._větě])" src="auto">P1NS4FS3-------</AM>
 <AM lemma="jenž_^(který...[ve_vedl._větě])" src="auto">P1XP1FS3-------</AM>
 <AM lemma="jenž_^(který...[ve_vedl._větě])" src="auto">P1XP4FS3-------</AM>
-<AM lemma="jenž_^(který...[ve_vedl._větě])" src="auto" recommended="1">P1ZS1FS3-------</AM>
+<AM lemma="jehož" src="auto" recommended="1">P1ZS1FS3-------</AM>
 </tag>
 </m>
 <m id="m-wsj0918-001-p1s14W17-Ta">
@@ -5627,7 +5627,7 @@
 <AM lemma="první" src="auto">CrFP1----------</AM>
 <AM lemma="první" src="auto">CrFP4----------</AM>
 <AM lemma="první" src="auto">CrFP5----------</AM>
-<AM lemma="první" src="auto" recommended="1">CrFS1----------</AM>
+<AM lemma="první-1" src="auto" recommended="1">CrFS1----------</AM>
 <AM lemma="první" src="auto">CrFS2----------</AM>
 <AM lemma="první" src="auto">CrFS3----------</AM>
 <AM lemma="první" src="auto">CrFS4----------</AM>
@@ -9316,7 +9316,7 @@
 <form>datu</form>
 <tag>
 <AM lemma="datum_^(kalendářní)" src="auto">NNNS3-----A----</AM>
-<AM lemma="datum_^(kalendářní)" src="auto" recommended="1">NNNS6-----A----</AM>
+<AM lemma="datum-1_^(kalendářní)" src="auto" recommended="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0918-001-p1s28W14-Ta">

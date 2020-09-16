@@ -111,7 +111,7 @@
 <LM>w#w-ln95041-015-p2s1Bw1</LM>
 </w.rf>
 <form>Roma</form>
-<tag lemma="Rom-4_;E" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Rom_;E_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95041-015-p2s1Bw2">
 <src.rf>manual</src.rf>
@@ -231,7 +231,7 @@
 <LM>w#w-ln95041-015-p2s1Bw16</LM>
 </w.rf>
 <form>hnutí</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln95041-015-p2s1Bw17">
 <src.rf>manual</src.rf>
@@ -1471,7 +1471,7 @@
 <LM>w#w-ln95041-015-p5s1w15</LM>
 </w.rf>
 <form>co</form>
-<tag lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="orig" selected="1">P4XXX----------</tag>
+<tag lemma="co-4_^(který:_o_těch,_co_odešli)" src="orig" selected="1">P4XXX----------</tag>
 </m>
 <m id="m-ln95041-015-p5s1w16">
 <src.rf>manual</src.rf>
@@ -1487,7 +1487,7 @@
 <LM>w#w-ln95041-015-p5s1w17</LM>
 </w.rf>
 <form>událost</form>
-<tag lemma="událost_,a_^(*3ý)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="událost" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95041-015-p5s1w18">
 <src.rf>manual</src.rf>

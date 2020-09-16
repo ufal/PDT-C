@@ -143,7 +143,7 @@
 <LM>w#w-lnd92253-084-p2s2w12</LM>
 </w.rf>
 <form>koupený</form>
-<tag lemma="koupený_^(něco_sobě/někomu)_(*3it)" src="orig" selected="1">AAIS1----1A----</tag>
+<tag lemma="koupený_^(*3it)" src="orig" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-lnd92253-084-p2s2w13">
 <src.rf>manual</src.rf>

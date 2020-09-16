@@ -173,7 +173,7 @@
 <LM>w#w-mf920924-098-p2s1w18</LM>
 </w.rf>
 <form>kurs</form>
-<tag lemma="kurs" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="kurs_,s_^(^DD**kurz)" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920924-098-p2s1w19">
 <src.rf>manual</src.rf>
@@ -628,7 +628,7 @@
 <LM>w#w-mf920924-098-p4s2w10</LM>
 </w.rf>
 <form>nemoci</form>
-<tag lemma="nemoc_^(choroba)" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="nemoc" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-mf920924-098-p4s2w11">
 <src.rf>manual</src.rf>
@@ -1228,7 +1228,7 @@
 <LM>w#w-mf920924-098-p6s1w7</LM>
 </w.rf>
 <form>Zlatá</form>
-<tag lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="zlatý-1_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-mf920924-098-p6s1w8">
 <src.rf>manual</src.rf>
@@ -1308,7 +1308,7 @@
 <LM>w#w-mf920924-098-p6s1w17</LM>
 </w.rf>
 <form>Zlaté</form>
-<tag lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAFS2----1A----</tag>
+<tag lemma="zlatý-1_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-mf920924-098-p6s1w18">
 <src.rf>manual</src.rf>
@@ -1487,7 +1487,7 @@
 <LM>w#w-mf920924-098-p6s1w39</LM>
 </w.rf>
 <form>Moran</form>
-<tag lemma="Moran_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Moran-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-098-p6s1w40">
 <src.rf>manual</src.rf>
@@ -1793,7 +1793,7 @@
 <LM>w#w-mf920924-098-p7s1w15</LM>
 </w.rf>
 <form>úvodním</form>
-<tag lemma="úvodní_,s" src="auto" selected="1">AANS6----1A----</tag>
+<tag lemma="úvodní" src="auto" selected="1">AANS6----1A----</tag>
 </m>
 <m id="m-mf920924-098-p7s1w16">
 <src.rf>manual</src.rf>
@@ -1845,7 +1845,7 @@
 <LM>w#w-mf920924-098-p7s1w21</LM>
 </w.rf>
 <form>Traner</form>
-<tag lemma="Traner_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Traner-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-098-p7s1w22">
 <src.rf>manual</src.rf>
@@ -1885,7 +1885,7 @@
 <LM>w#w-mf920924-098-p7s1w26</LM>
 </w.rf>
 <form>Traner</form>
-<tag lemma="Traner_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Traner-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-098-p7s1w27">
 <src.rf>manual</src.rf>
@@ -2129,7 +2129,7 @@
 <LM>w#w-mf920924-098-p10s2w7</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-mf920924-098-p10s2w8">
 <src.rf>manual</src.rf>

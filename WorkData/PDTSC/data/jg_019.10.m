@@ -199,7 +199,7 @@
 <tag>
 <AM lemma="hodně-1" src="auto">Ca--X----------</AM>
 <AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------1A----</AM>
+<AM lemma="hodně_^(*1ý)" src="auto" recommended="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m019-d1t3392-2">
@@ -711,7 +711,7 @@
 <form>své</form>
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FP1---------1</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8FP4---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8FP4---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS2---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS3---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS6---------1</AM>
@@ -972,7 +972,7 @@
 </w.rf>
 <form>ne</form>
 <tag>
-<AM lemma="ne" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ne-1" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="neděle_:B" src="auto">NNFXX-----A---8</AM>
 </tag>
 </m>
@@ -1263,7 +1263,7 @@
 <AM lemma="druhý" src="auto">CrMP1---------6</AM>
 <AM lemma="druhý" src="auto">CrMP4---------6</AM>
 <AM lemma="druhý" src="auto">CrMP5---------6</AM>
-<AM lemma="druhý" src="auto" recommended="1">CrMS1----------</AM>
+<AM lemma="druhý`2" src="auto" recommended="1">CrMS1----------</AM>
 <AM lemma="druhý" src="auto">CrMS5----------</AM>
 <AM lemma="druhý" src="auto">CrNP1---------6</AM>
 <AM lemma="druhý" src="auto">CrNP4---------6</AM>
@@ -1872,7 +1872,7 @@
 </w.rf>
 <form>ne</form>
 <tag>
-<AM lemma="ne" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ne-1" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="neděle_:B" src="auto">NNFXX-----A---8</AM>
 </tag>
 </m>
@@ -2066,7 +2066,7 @@
 </w.rf>
 <form>Ne</form>
 <tag>
-<AM lemma="ne" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ne-1" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="neděle_:B" src="auto">NNFXX-----A---8</AM>
 </tag>
 </m>
@@ -2116,7 +2116,7 @@
 </w.rf>
 <form>ne</form>
 <tag>
-<AM lemma="ne" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ne-1" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="neděle_:B" src="auto">NNFXX-----A---8</AM>
 </tag>
 </m>
@@ -2468,7 +2468,7 @@
 <AM lemma="moc-1_^(nad_někým;_politická,_vojenská;_plná,...)" src="auto">NNFS1-----A----</AM>
 <AM lemma="moc-1_^(nad_někým;_politická,_vojenská;_plná,...)" src="auto">NNFS4-----A----</AM>
 <AM lemma="moc-2_^(mnoho_něčeho_[se_subst._v_gen.])" src="auto">Ca--X----------</AM>
-<AM lemma="moc-3_^(velmi,_ve_spojení_s_adj.,_př._moc_hezká)" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="moc-3_^(moc_hezká,_moc_peněz)" src="auto" recommended="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m019-d1t3582-4">
@@ -2479,7 +2479,7 @@
 <tag>
 <AM lemma="hodný-1_^(být_hoden)" src="auto">AAMP1----1A----</AM>
 <AM lemma="hodný-1_^(být_hoden)" src="auto">AAMP5----1A----</AM>
-<AM lemma="hodný-2_^(nezlobivý)" src="auto" recommended="1">AAMP1----1A----</AM>
+<AM lemma="hodný_^(být_hoden;nezlobivý)" src="auto" recommended="1">AAMP1----1A----</AM>
 <AM lemma="hodný-2_^(nezlobivý)" src="auto">AAMP5----1A----</AM>
 </tag>
 </m>
@@ -2996,7 +2996,7 @@
 <form>vás</form>
 <tag>
 <AM lemma="ty" src="auto">PP-P2--2-------</AM>
-<AM lemma="ty" src="auto" recommended="1">PP-P4--2-------</AM>
+<AM lemma="vy" src="auto" recommended="1">PP-P4--2-------</AM>
 <AM lemma="ty" src="auto">PP-P6--2-------</AM>
 </tag>
 </m>
@@ -3162,7 +3162,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m019-229-236">
@@ -3342,7 +3342,7 @@
 <AM lemma="hodný-1_^(být_hoden)" src="auto">AAMP1----1A---6</AM>
 <AM lemma="hodný-1_^(být_hoden)" src="auto">AAMP4----1A---6</AM>
 <AM lemma="hodný-1_^(být_hoden)" src="auto">AAMP5----1A---6</AM>
-<AM lemma="hodný-1_^(být_hoden)" src="auto" selected="1">AAMS1----1A----</AM>
+<AM lemma="hodný_^(být_hoden;nezlobivý)" src="auto" selected="1">AAMS1----1A----</AM>
 <AM lemma="hodný-1_^(být_hoden)" src="auto">AAMS5----1A----</AM>
 <AM lemma="hodný-1_^(být_hoden)" src="auto">AANP1----1A---6</AM>
 <AM lemma="hodný-1_^(být_hoden)" src="auto">AANP4----1A---6</AM>
@@ -3831,7 +3831,7 @@
 </w.rf>
 <form>nemoc</form>
 <tag>
-<AM lemma="nemoc_^(choroba)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="nemoc" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="nemoc_^(choroba)" src="auto">NNFS4-----A----</AM>
 </tag>
 </m>

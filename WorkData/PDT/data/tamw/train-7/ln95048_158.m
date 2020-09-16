@@ -35,7 +35,7 @@
 <LM>w#w-ln95048-158-p1s1w3</LM>
 </w.rf>
 <form>koupí</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="orig" selected="1">VB-S---3P-AAP--</tag>
+<tag lemma="koupit" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln95048-158-p1s1w4">
 <src.rf>manual</src.rf>
@@ -550,7 +550,7 @@
 <AM lemma="předávání-3_^(někomu_něco)_(*5at-3)" src="auto">NNNP4-----A----</AM>
 <AM lemma="předávání-3_^(někomu_něco)_(*5at-3)" src="auto">NNNP5-----A----</AM>
 <AM lemma="předávání-3_^(někomu_něco)_(*5at-3)" src="auto">NNNS1-----A----</AM>
-<AM lemma="předávání-3_^(někomu_něco)_(*5at-3)" src="auto" recommended="1" selected="1">NNNS2-----A----</AM>
+<AM lemma="předávání_^(*3at)" src="auto" recommended="1" selected="1">NNNS2-----A----</AM>
 <AM lemma="předávání-3_^(někomu_něco)_(*5at-3)" src="auto">NNNS3-----A----</AM>
 <AM lemma="předávání-3_^(někomu_něco)_(*5at-3)" src="auto">NNNS4-----A----</AM>
 <AM lemma="předávání-3_^(někomu_něco)_(*5at-3)" src="auto">NNNS5-----A----</AM>
@@ -667,7 +667,7 @@
 <AM lemma="předávání-2_^(se;_dát_něčeho_příliš)_(*5at-2)" src="auto">NNNS4-----A----</AM>
 <AM lemma="předávání-2_^(se;_dát_něčeho_příliš)_(*5at-2)" src="auto">NNNS5-----A----</AM>
 <AM lemma="předávání-2_^(se;_dát_něčeho_příliš)_(*5at-2)" src="auto">NNNS6-----A----</AM>
-<AM lemma="předávání-3_^(někomu_něco)_(*5at-3)" src="auto" recommended="1" selected="1">NNNP1-----A----</AM>
+<AM lemma="předávání_^(*3at)" src="auto" recommended="1" selected="1">NNNP1-----A----</AM>
 <AM lemma="předávání-3_^(někomu_něco)_(*5at-3)" src="auto">NNNP2-----A----</AM>
 <AM lemma="předávání-3_^(někomu_něco)_(*5at-3)" src="auto">NNNP4-----A----</AM>
 <AM lemma="předávání-3_^(někomu_něco)_(*5at-3)" src="auto">NNNP5-----A----</AM>
@@ -860,7 +860,7 @@
 <LM>w#w-ln95048-158-p3s5w2</LM>
 </w.rf>
 <form>nebrání</form>
-<tag lemma="bránit_^(klást_překážky)" src="auto" selected="1">VB-S---3P-NAI--</tag>
+<tag lemma="bránit" src="auto" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-ln95048-158-p3s5w3">
 <src.rf>manual</src.rf>

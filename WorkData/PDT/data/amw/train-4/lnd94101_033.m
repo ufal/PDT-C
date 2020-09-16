@@ -387,7 +387,7 @@
 <LM>w#w-lnd94101-033-p1s5w7</LM>
 </w.rf>
 <form>dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd94101-033-p1s5w8">
 <src.rf>manual</src.rf>
@@ -664,7 +664,7 @@
 <LM>w#w-lnd94101-033-p1s6w17</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-lnd94101-033-p1s6w18">
 <src.rf>manual</src.rf>

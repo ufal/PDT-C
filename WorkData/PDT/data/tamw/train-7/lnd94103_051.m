@@ -231,7 +231,7 @@
 <LM>w#w-lnd94103-051-p1s3w20</LM>
 </w.rf>
 <form>jehož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P1XXXZS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXZS3-------</tag>
 </m>
 <m id="m-lnd94103-051-p1s3w21">
 <src.rf>manual</src.rf>
@@ -692,7 +692,7 @@
 <LM>w#w-lnd94103-051-p1s6w1</LM>
 </w.rf>
 <form>Mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-051-p1s6w2">
 <src.rf>manual</src.rf>

@@ -402,7 +402,7 @@
 <LM>w#w-mf920924-042-p2s6w3</LM>
 </w.rf>
 <form>nejlepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AANP1----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AANP1----3A----</tag>
 </m>
 <m id="m-mf920924-042-p2s6w4">
 <src.rf>manual</src.rf>
@@ -490,7 +490,7 @@
 <LM>w#w-mf920924-042-p2s6w14</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-mf920924-042-p2s6w15">
 <src.rf>manual</src.rf>
@@ -897,7 +897,7 @@
 <LM>w#w-mf920924-042-p2s8w22</LM>
 </w.rf>
 <form>hodiny</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920924-042-p2s8w23">
 <src.rf>manual</src.rf>

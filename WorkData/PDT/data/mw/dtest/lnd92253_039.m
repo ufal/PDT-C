@@ -163,7 +163,7 @@
 <LM>w#w-lnd92253-039-p1s1w19</LM>
 </w.rf>
 <form>členů</form>
-<tag lemma="člen" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd92253-039-p1s1w20">
 <src.rf>manual</src.rf>
@@ -179,7 +179,7 @@
 <LM>w#w-lnd92253-039-p1s1w21</LM>
 </w.rf>
 <form>hnutí</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-lnd92253-039-p1s1w22">
 <src.rf>manual</src.rf>

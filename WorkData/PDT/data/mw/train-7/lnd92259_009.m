@@ -140,7 +140,7 @@
 <LM>w#w-lnd92259-009-p1s1w15</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1XP1FS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XP1FS3-------</tag>
 </m>
 <m id="m-lnd92259-009-p1s1w16">
 <src.rf>manual</src.rf>
@@ -172,7 +172,7 @@
 <LM>w#w-lnd92259-009-p1s1w19</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrMP1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrMP1----------</tag>
 </m>
 <m id="m-lnd92259-009-p1s1w20">
 <src.rf>manual</src.rf>

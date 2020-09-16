@@ -444,7 +444,7 @@
 <LM>w#w-lnd94104-075-p1s3w7</LM>
 </w.rf>
 <form>politiky</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94104-075-p1s3w8">
 <src.rf>manual</src.rf>
@@ -486,7 +486,7 @@
 <LM>w#w-lnd94104-075-p1s4w3</LM>
 </w.rf>
 <form>činitelé</form>
-<tag lemma="činitel" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="činitel-1" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd94104-075-p1s4w4">
 <src.rf>manual</src.rf>
@@ -616,7 +616,7 @@
 <LM>w#w-lnd94104-075-p1s5w4</LM>
 </w.rf>
 <form>Inkatha</form>
-<tag lemma="Inkatha_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Inkatha_;G_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94104-075-p1s5w5">
 <src.rf>manual</src.rf>
@@ -773,7 +773,7 @@
 <LM>w#w-lnd94104-075-p1s6w5</LM>
 </w.rf>
 <form>Inkathy</form>
-<tag lemma="Inkatha_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Inkatha_;G_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94104-075-p1s6w6">
 <src.rf>manual</src.rf>
@@ -861,7 +861,7 @@
 <LM>w#w-lnd94104-075-p1s6w16</LM>
 </w.rf>
 <form>nezaměstnanosti</form>
-<tag lemma="nezaměstnanost-2_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="nezaměstnanost_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-lnd94104-075-p1s6w17">
 <src.rf>manual</src.rf>
@@ -1134,7 +1134,7 @@
 <LM>w#w-lnd94104-075-p1s8w10</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-lnd94104-075-p1s8w11">
 <src.rf>manual</src.rf>
@@ -1830,7 +1830,7 @@
 <LM>w#w-lnd94104-075-p1s13w1</LM>
 </w.rf>
 <form>Inkatha</form>
-<tag lemma="Inkatha_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Inkatha_;G_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94104-075-p1s13w2">
 <src.rf>manual</src.rf>
@@ -2112,7 +2112,7 @@
 <LM>w#w-lnd94104-075-p1s14w4</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-lnd94104-075-p1s14w5">
 <src.rf>manual</src.rf>
@@ -2211,7 +2211,7 @@
 <LM>w#w-lnd94104-075-p1s14w16</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd94104-075-p1s14w17">
 <src.rf>manual</src.rf>
@@ -2742,7 +2742,7 @@
 <LM>w#w-lnd94104-075-p1s18w9</LM>
 </w.rf>
 <form>zostření</form>
-<tag lemma="zostření_^(*2t)" src="auto" selected="1">NNNS4-----A----</tag>
+<tag lemma="zostření_^(*2t)_(*3it)" src="auto" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-lnd94104-075-p1s18w10">
 <src.rf>manual</src.rf>
@@ -2816,7 +2816,7 @@
 <LM>w#w-lnd94104-075-p1s19w3</LM>
 </w.rf>
 <form>Inkathy</form>
-<tag lemma="Inkatha_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Inkatha_;G_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94104-075-p1s19w4">
 <src.rf>manual</src.rf>
@@ -2960,7 +2960,7 @@
 <LM>w#w-lnd94104-075-p1s19w21</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FP4---------1</tag>
 </m>
 <m id="m-lnd94104-075-p1s19w22">
 <src.rf>manual</src.rf>
@@ -2992,7 +2992,7 @@
 <LM>w#w-lnd94104-075-p1s19w25</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-lnd94104-075-p1s19w26">
 <src.rf>manual</src.rf>
@@ -3082,7 +3082,7 @@
 <LM>w#w-lnd94104-075-p1s20w8</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS7----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS7----------</tag>
 </m>
 <m id="m-lnd94104-075-p1s20w9">
 <src.rf>manual</src.rf>
@@ -3166,7 +3166,7 @@
 <form>Federalismus</form>
 <tag>
 <AM lemma="federalizmus_,x" src="orig">NNIS1-----A----</AM>
-<AM lemma="federalizmus_,s_^(^DD**federalizmus)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="federalismus_,s_^(^DD**federalizmus)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-075-p1s21w2">
@@ -3236,7 +3236,7 @@
 <LM>w#w-lnd94104-075-p1s22w1</LM>
 </w.rf>
 <form>Inkatha</form>
-<tag lemma="Inkatha_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Inkatha_;G_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94104-075-p1s22w2">
 <src.rf>manual</src.rf>
@@ -3380,7 +3380,7 @@
 <LM>w#w-lnd94104-075-p1s22w19</LM>
 </w.rf>
 <form>správních</form>
-<tag lemma="správní_^(např._poplatek;_rada;_řád;...)" src="orig" selected="1">AAIP2----1A----</tag>
+<tag lemma="správní_^(správní_rada;_řád)" src="orig" selected="1">AAIP2----1A----</tag>
 </m>
 <m id="m-lnd94104-075-p1s22w20">
 <src.rf>manual</src.rf>
@@ -3388,7 +3388,7 @@
 <LM>w#w-lnd94104-075-p1s22w20</LM>
 </w.rf>
 <form>orgánů</form>
-<tag lemma="orgán" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-lnd94104-075-p1s22w21">
 <src.rf>manual</src.rf>
@@ -3499,7 +3499,7 @@
 <LM>w#w-lnd94104-075-p1s24w1</LM>
 </w.rf>
 <form>Inkatha</form>
-<tag lemma="Inkatha_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Inkatha_;G_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94104-075-p1s24w2">
 <src.rf>manual</src.rf>
@@ -3547,7 +3547,7 @@
 <LM>w#w-lnd94104-075-p1s24w7</LM>
 </w.rf>
 <form>práva</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNP4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNP4-----A----</tag>
 </m>
 <m id="m-lnd94104-075-p1s24w8">
 <src.rf>manual</src.rf>
@@ -3643,7 +3643,7 @@
 <LM>w#w-lnd94104-075-p1s24w19</LM>
 </w.rf>
 <form>vytváření</form>
-<tag lemma="vytváření_,a_^(*2t)" src="auto" selected="1">NNNS1-----A----</tag>
+<tag lemma="vytváření_^(*2t)_(*3it)" src="auto" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-lnd94104-075-p1s24w20">
 <src.rf>manual</src.rf>

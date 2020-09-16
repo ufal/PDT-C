@@ -305,7 +305,7 @@
 <LM>w#w-lnd94101-013-p1s4w2</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP2-P1-------</tag>
 </m>
 <m id="m-lnd94101-013-p1s4w3">
 <src.rf>manual</src.rf>
@@ -874,7 +874,7 @@
 <LM>w#w-lnd94101-013-p1s7w7</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-lnd94101-013-p1s7w8">
 <src.rf>manual</src.rf>
@@ -955,7 +955,7 @@
 <LM>w#w-lnd94101-013-p1s7w16</LM>
 </w.rf>
 <form>nedá</form>
-<tag lemma="dát" src="orig" selected="1">VB-S---3P-NAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VB-S---3P-NAP--</tag>
 </m>
 <m id="m-lnd94101-013-p1s7w17">
 <src.rf>manual</src.rf>
@@ -1827,7 +1827,7 @@
 <LM>w#w-lnd94101-013-p1s12w6</LM>
 </w.rf>
 <form>rada</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94101-013-p1s12w7">
 <src.rf>manual</src.rf>
@@ -1942,7 +1942,7 @@
 <LM>w#w-lnd94101-013-p1s12w20</LM>
 </w.rf>
 <form>převzetí</form>
-<tag lemma="převzetí_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="převzetí_^(*3ít)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-lnd94101-013-p1s12w21">
 <src.rf>manual</src.rf>

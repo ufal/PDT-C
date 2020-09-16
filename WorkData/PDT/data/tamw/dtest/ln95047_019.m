@@ -290,7 +290,7 @@
 <LM>w#w-ln95047-019-p3s1w14</LM>
 </w.rf>
 <form>zlatého</form>
-<tag lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AANS2----1A----</tag>
+<tag lemma="zlatý-1_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AANS2----1A----</tag>
 </m>
 <m id="m-ln95047-019-p3s1w15">
 <src.rf>manual</src.rf>
@@ -637,7 +637,7 @@
 <form>dali</form>
 <tag>
 <AM lemma="dát" src="orig">VpMP----R-AAP--</AM>
-<AM lemma="dát" src="manual" selected="1">VpMP----R-AAP--</AM>
+<AM lemma="dát-1" src="manual" selected="1">VpMP----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95047-019-p3s4w5">
@@ -689,7 +689,7 @@
 <LM>w#w-ln95047-019-p3s4w10</LM>
 </w.rf>
 <form>Santos</form>
-<tag lemma="Santos_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Santos-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-019-p3s4w11">
 <src.rf>manual</src.rf>

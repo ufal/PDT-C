@@ -35,7 +35,7 @@
 <LM>w#w-lnd91303-007-p1s1w3</LM>
 </w.rf>
 <form>EVROPĚ</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 </s>
 <s id="m-lnd91303-007-p2s1">
@@ -61,7 +61,7 @@
 <LM>w#w-lnd91303-007-p2s1w3</LM>
 </w.rf>
 <form>nejlepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAFS1----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAFS1----3A----</tag>
 </m>
 </s>
 <s id="m-lnd91303-007-p3s1">
@@ -132,7 +132,7 @@
 <LM>w#w-lnd91303-007-p4s1w6</LM>
 </w.rf>
 <form>Evropě</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd91303-007-p4s1w7">
 <src.rf>manual</src.rf>
@@ -235,7 +235,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>

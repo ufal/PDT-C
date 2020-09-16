@@ -122,7 +122,7 @@
 <LM>w#w-mf920925-095-p4s1w2</LM>
 </w.rf>
 <form>Události</form>
-<tag lemma="událost_,a_^(*3ý)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="událost" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-mf920925-095-p4s1w3">
 <src.rf>manual</src.rf>
@@ -165,7 +165,7 @@
 <LM>w#w-mf920925-095-p5s1w3</LM>
 </w.rf>
 <form>dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 </s>
 <s id="m-mf920925-095-p6s1">
@@ -318,7 +318,7 @@
 <LM>w#w-mf920925-095-p9s1w2</LM>
 </w.rf>
 <form>Satelit</form>
-<tag lemma="satelit" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="satelit-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 </s>
 <s id="m-mf920925-095-p10s1">
@@ -344,7 +344,7 @@
 <LM>w#w-mf920925-095-p10s1w3</LM>
 </w.rf>
 <form>dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 </s>
 <s id="m-mf920925-095-p11s1">
@@ -412,7 +412,7 @@
 <LM>w#w-mf920925-095-p12s1w3</LM>
 </w.rf>
 <form>dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 </s>
 <s id="m-mf920925-095-p13s1">
@@ -547,7 +547,7 @@
 <LM>w#w-mf920925-095-p16s1w3</LM>
 </w.rf>
 <form>dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 </s>
 <s id="m-mf920925-095-p17s1">
@@ -724,7 +724,7 @@
 <LM>w#w-mf920925-095-p27s1w2</LM>
 </w.rf>
 <form>Události</form>
-<tag lemma="událost_,a_^(*3ý)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="událost" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-mf920925-095-p27s1w3">
 <src.rf>manual</src.rf>
@@ -871,7 +871,7 @@
 <LM>w#w-mf920925-095-p36s1w2</LM>
 </w.rf>
 <form>Dejte</form>
-<tag lemma="dát" src="orig" selected="1">Vi-P---2--A-P--</tag>
+<tag lemma="dát-1" src="orig" selected="1">Vi-P---2--A-P--</tag>
 </m>
 <m id="m-mf920925-095-p36s1w3">
 <src.rf>manual</src.rf>
@@ -879,7 +879,7 @@
 <LM>w#w-mf920925-095-p36s1w3</LM>
 </w.rf>
 <form>léta</form>
-<tag lemma="rok" src="orig" selected="1">NNNP4-----A---2</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP4-----A---2</tag>
 </m>
 <m id="m-mf920925-095-p36s1w4">
 <src.rf>manual</src.rf>

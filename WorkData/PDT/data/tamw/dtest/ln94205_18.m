@@ -1041,7 +1041,7 @@
 <LM>w#w-ln94205-18-p4s2w1</LM>
 </w.rf>
 <form>Dovážené</form>
-<tag lemma="dovážený_^(dokončit_vážení)_(*2t)" src="auto" selected="1">AAFP4----1A----</tag>
+<tag lemma="dovážený_^(*2t)_(*3it)" src="auto" selected="1">AAFP4----1A----</tag>
 </m>
 <m id="m-ln94205-18-p4s2w2">
 <src.rf>manual</src.rf>

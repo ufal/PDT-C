@@ -101,7 +101,7 @@
 <form>stojí</form>
 <tag>
 <AM lemma="stát-4_^(něco_stojí_peníze)" src="orig">VB-P---3P-AA---</AM>
-<AM lemma="stát-4_^(něco_stojí_peníze)" src="manual" selected="1">VB-S---3P-AAI--</AM>
+<AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m-ln95047-144-p1s1w12">
@@ -208,7 +208,7 @@
 <LM>w#w-ln95047-144-p1s2w4</LM>
 </w.rf>
 <form>modely</form>
-<tag lemma="model" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="model-1" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-ln95047-144-p1s2w5">
 <src.rf>manual</src.rf>

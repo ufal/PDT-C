@@ -93,7 +93,7 @@
 <LM>w#w-ln94208-30-p2s1Bw2</LM>
 </w.rf>
 <form>stadion</form>
-<tag lemma="stadión" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="stadion_,s_^(^DD**stadión)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94208-30-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -400,7 +400,7 @@
 <LM>w#w-ln94208-30-p2s2w12</LM>
 </w.rf>
 <form>stanovená</form>
-<tag lemma="stanovený_^(určit)_(*3it)" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="stanovený_^(*3it)" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-ln94208-30-p2s2w13">
 <src.rf>manual</src.rf>
@@ -674,7 +674,7 @@
 <LM>w#w-ln94208-30-p2s3w25</LM>
 </w.rf>
 <form>Karlova</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUIS2M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUIS2M---------</tag>
 </m>
 <m id="m-ln94208-30-p2s3w26">
 <src.rf>manual</src.rf>
@@ -918,7 +918,7 @@
 <LM>w#w-ln94208-30-p2s5w13</LM>
 </w.rf>
 <form>rychlík</form>
-<tag lemma="rychlík" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="rychlík-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94208-30-p2s5w14">
 <src.rf>manual</src.rf>

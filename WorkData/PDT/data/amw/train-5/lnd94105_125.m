@@ -256,7 +256,7 @@
 <LM>w#w-lnd94105-125-p1s3w16</LM>
 </w.rf>
 <form>Yorku</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="York-2_;G_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-lnd94105-125-p1s3w17">
 <src.rf>manual</src.rf>
@@ -752,7 +752,7 @@
 <LM>w#w-lnd94105-125-p1s5w34</LM>
 </w.rf>
 <form>dali</form>
-<tag lemma="dát" src="orig" selected="1">VpMP----R-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd94105-125-p1s5w35">
 <src.rf>manual</src.rf>
@@ -787,7 +787,7 @@
 <LM>w#w-lnd94105-125-p1s5w38</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-lnd94105-125-p1s5w39">
 <src.rf>manual</src.rf>
@@ -867,7 +867,7 @@
 <LM>w#w-lnd94105-125-p1s5w48</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94105-125-p1s5w49">
 <src.rf>manual</src.rf>
@@ -885,7 +885,7 @@
 <LM>w#w-lnd94105-125-p1s6w1</LM>
 </w.rf>
 <form>Mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-125-p1s6w2">
 <src.rf>manual</src.rf>
@@ -1072,7 +1072,7 @@
 <LM>w#w-lnd94105-125-p1s6w24</LM>
 </w.rf>
 <form>Yorku</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="York-2_;G_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-lnd94105-125-p1s6w25">
 <src.rf>manual</src.rf>
@@ -1476,7 +1476,7 @@
 <LM>w#w-lnd94105-125-p1s8w33</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="mluvčí-2" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94105-125-p1s8w34">
 <src.rf>manual</src.rf>
@@ -1638,7 +1638,7 @@
 <LM>w#w-lnd94105-125-p1s9w15</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP6----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP6----------</tag>
 </m>
 <m id="m-lnd94105-125-p1s9w16">
 <src.rf>manual</src.rf>

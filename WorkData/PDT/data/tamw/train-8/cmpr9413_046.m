@@ -120,7 +120,7 @@
 <LM>w#w-cmpr9413-046-p3s1w7</LM>
 </w.rf>
 <form>Dejte</form>
-<tag lemma="dát" src="orig" selected="1">Vi-P---2--A-P--</tag>
+<tag lemma="dát-1" src="orig" selected="1">Vi-P---2--A-P--</tag>
 </m>
 <m id="m-cmpr9413-046-p3s1w8">
 <src.rf>manual</src.rf>

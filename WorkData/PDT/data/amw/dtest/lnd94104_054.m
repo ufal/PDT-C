@@ -566,7 +566,7 @@
 <LM>w#w-lnd94104-054-p1s6w8</LM>
 </w.rf>
 <form>orgánům</form>
-<tag lemma="orgán" src="orig" selected="1">NNIP3-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIP3-----A----</tag>
 </m>
 <m id="m-lnd94104-054-p1s6w9">
 <src.rf>manual</src.rf>
@@ -598,7 +598,7 @@
 <LM>w#w-lnd94104-054-p1s6w12</LM>
 </w.rf>
 <form>tajných</form>
-<tag lemma="tajný" src="orig" selected="1">AAIP6----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AAIP6----1A----</tag>
 </m>
 <m id="m-lnd94104-054-p1s6w13">
 <src.rf>manual</src.rf>
@@ -728,7 +728,7 @@
 <LM>w#w-lnd94104-054-p1s7w12</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd94104-054-p1s7w13">
 <src.rf>manual</src.rf>
@@ -760,7 +760,7 @@
 <LM>w#w-lnd94104-054-p1s7w16</LM>
 </w.rf>
 <form>stojí</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd94104-054-p1s7w17">
 <src.rf>manual</src.rf>

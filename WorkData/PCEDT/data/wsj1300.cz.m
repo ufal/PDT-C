@@ -20,7 +20,7 @@
 <AM lemma="Randolph_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Randolph_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Randolph_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Randolph_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Randolph-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1300-001-p1s0W2-Ta">
@@ -590,7 +590,7 @@
 <tag>
 <AM lemma="John_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="John_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="John_;Y_:Y" src="manual" selected="1">NNMS4-----A----</AM>
+<AM lemma="John_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1300-001-p1s2W6-Ta">

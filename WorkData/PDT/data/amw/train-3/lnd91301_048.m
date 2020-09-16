@@ -191,7 +191,7 @@
 <LM>w#w-lnd91301-048-p3s1w17</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8YP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8YP4---------1</tag>
 </m>
 <m id="m-lnd91301-048-p3s1w18">
 <src.rf>manual</src.rf>

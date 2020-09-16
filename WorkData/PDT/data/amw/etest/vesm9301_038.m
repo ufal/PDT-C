@@ -254,7 +254,7 @@
 <LM>w#w-vesm9301-038-p1s1w28</LM>
 </w.rf>
 <form>dlouhého</form>
-<tag lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">AANS2----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AANS2----1A----</tag>
 </m>
 <m id="m-vesm9301-038-p1s1w29">
 <src.rf>manual</src.rf>
@@ -366,7 +366,7 @@
 <LM>w#w-vesm9301-038-p2s3w4</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-vesm9301-038-p2s3w5">
 <src.rf>manual</src.rf>
@@ -398,7 +398,7 @@
 <LM>w#w-vesm9301-038-p2s3w8</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8NS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8NS4---------1</tag>
 </m>
 <m id="m-vesm9301-038-p2s3w9">
 <src.rf>manual</src.rf>
@@ -731,7 +731,7 @@
 <LM>w#w-vesm9301-038-p2s5w6</LM>
 </w.rf>
 <form>faktory</form>
-<tag lemma="faktor" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="faktor-1" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-vesm9301-038-p2s5w7">
 <src.rf>manual</src.rf>
@@ -763,7 +763,7 @@
 <LM>w#w-vesm9301-038-p2s5w10</LM>
 </w.rf>
 <form>dlouhé</form>
-<tag lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">AANS4----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AANS4----1A----</tag>
 </m>
 <m id="m-vesm9301-038-p2s5w11">
 <src.rf>manual</src.rf>
@@ -957,7 +957,7 @@
 <LM>w#w-vesm9301-038-p2s6w7</LM>
 </w.rf>
 <form>zastavení</form>
-<tag lemma="zastavení-1_^([také_z._se];_uvést_do_klidu:_auto,...)_(*5it-1)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="zastavení_^(*3it)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-vesm9301-038-p2s6w8">
 <src.rf>manual</src.rf>
@@ -1041,7 +1041,7 @@
 <LM>w#w-vesm9301-038-p2s6w17</LM>
 </w.rf>
 <form>dlouhého</form>
-<tag lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">AANS2----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AANS2----1A----</tag>
 </m>
 <m id="m-vesm9301-038-p2s6w18">
 <src.rf>manual</src.rf>
@@ -1057,7 +1057,7 @@
 <LM>w#w-vesm9301-038-p2s6w19</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-vesm9301-038-p2s6w20">
 <src.rf>manual</src.rf>
@@ -1221,7 +1221,7 @@
 <LM>w#w-vesm9301-038-p2s6w39</LM>
 </w.rf>
 <form>daném</form>
-<tag lemma="daný_^(*3át)" src="auto" selected="1">AAIS6----1A----</tag>
+<tag lemma="daný-1_^(*5át-1)" src="auto" selected="1">AAIS6----1A----</tag>
 </m>
 <m id="m-vesm9301-038-p2s6w40">
 <src.rf>manual</src.rf>

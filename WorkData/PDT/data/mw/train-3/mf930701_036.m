@@ -247,7 +247,7 @@
 <LM>w#w-mf930701-036-p2s2w10</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-mf930701-036-p2s2w11">
 <src.rf>manual</src.rf>
@@ -533,7 +533,7 @@
 <LM>w#w-mf930701-036-p2s5w4</LM>
 </w.rf>
 <form>prostředky</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-mf930701-036-p2s5w5">
 <src.rf>manual</src.rf>
@@ -1072,7 +1072,7 @@
 <LM>w#w-mf930701-036-p2s9w14</LM>
 </w.rf>
 <form>umění</form>
-<tag lemma="umění_^(mít_schopnost_něco_dělat)_(*2t)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="umění_^(*2t)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-mf930701-036-p2s9w15">
 <src.rf>manual</src.rf>
@@ -1260,7 +1260,7 @@
 <LM>w#w-mf930701-036-p2s11w8</LM>
 </w.rf>
 <form>ztvárněné</form>
-<tag lemma="ztvárněný_^(*3it)" src="orig" selected="1">AAIP4----1A----</tag>
+<tag lemma="ztvárněný_^(*2t)_(*3it)" src="orig" selected="1">AAIP4----1A----</tag>
 </m>
 <m id="m-mf930701-036-p2s11w9">
 <src.rf>manual</src.rf>

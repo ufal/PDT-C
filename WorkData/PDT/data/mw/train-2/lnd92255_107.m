@@ -27,7 +27,7 @@
 <LM>w#w-lnd92255-107-p1s1w2</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92255-107-p1s1w3">
 <src.rf>manual</src.rf>
@@ -213,7 +213,7 @@
 <LM>w#w-lnd92255-107-p1s2w13</LM>
 </w.rf>
 <form>naše</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSNS4-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSNS4-P1-------</tag>
 </m>
 <m id="m-lnd92255-107-p1s2w14">
 <src.rf>manual</src.rf>

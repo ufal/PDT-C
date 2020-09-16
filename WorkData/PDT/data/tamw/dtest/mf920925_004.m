@@ -303,7 +303,7 @@
 <LM>w#w-mf920925-004-p2s2w13</LM>
 </w.rf>
 <form>Hanny</form>
-<tag lemma="Hanna_;Y" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Hanna-2_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920925-004-p2s2w14">
 <src.rf>manual</src.rf>

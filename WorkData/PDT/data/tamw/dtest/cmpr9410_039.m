@@ -81,7 +81,7 @@
 <LM>w#w-cmpr9410-039-p1s1w8</LM>
 </w.rf>
 <form>intenzivní</form>
-<tag lemma="intenzívní" src="orig" selected="1">AAIP4----1A----</tag>
+<tag lemma="intenzivní_,s_^(^DD**intenzívní)" src="orig" selected="1">AAIP4----1A----</tag>
 </m>
 <m id="m-cmpr9410-039-p1s1w9">
 <src.rf>manual</src.rf>
@@ -246,7 +246,7 @@
 <LM>w#w-cmpr9410-039-p1s2w17</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-cmpr9410-039-p1s2w18">
 <src.rf>manual</src.rf>

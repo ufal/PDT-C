@@ -121,7 +121,7 @@
 <LM>w#w-mf920923-098-p1s1w12</LM>
 </w.rf>
 <form>naše</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSHS1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSHS1-P1-------</tag>
 </m>
 <m id="m-mf920923-098-p1s1w13">
 <src.rf>manual</src.rf>
@@ -203,7 +203,7 @@
 <LM>w#w-mf920923-098-p1s2w1</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrFS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS4----------</tag>
 </m>
 <m id="m-mf920923-098-p1s2w2">
 <src.rf>manual</src.rf>
@@ -368,7 +368,7 @@
 <form>Johnnie</form>
 <tag>
 <AM lemma="Johnnie_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Johnnie-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Johnnie_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-098-p1s2w22">

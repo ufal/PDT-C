@@ -46,7 +46,7 @@
 <form>Prioru</form>
 <tag>
 <AM lemma="Prior_;Y" src="orig">NNIS2-----A----</AM>
-<AM lemma="Prior_;Y_;m" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Prior_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-016-p1s1w5">
@@ -273,7 +273,7 @@
 <form>Breda</form>
 <tag>
 <AM lemma="Breda_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Breda_;G_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Breda-2_;G_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-016-p2s1Bw23">
@@ -644,7 +644,7 @@
 <form>Bredy</form>
 <tag>
 <AM lemma="Breda_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="Breda_;G_;m" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="Breda-2_;G_;m" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-016-p3s1w30">
@@ -895,7 +895,7 @@
 <form>Breda</form>
 <tag>
 <AM lemma="Breda_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Breda_;G_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Breda-2_;G_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-016-p4s1w9">
@@ -1223,7 +1223,7 @@
 <form>Bredy</form>
 <tag>
 <AM lemma="Breda_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="Breda_;G_;m" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="Breda-2_;G_;m" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-016-p4s2w13">
@@ -1404,7 +1404,7 @@
 <form>Breda</form>
 <tag>
 <AM lemma="Breda_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Breda_;G_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Breda-2_;G_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-016-p4s3w12">
@@ -1879,7 +1879,7 @@
 <form>Breda</form>
 <tag>
 <AM lemma="Breda_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Breda_;G_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Breda-2_;G_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-016-p4s5w13">
@@ -2682,7 +2682,7 @@
 <LM>w#w-ln95041-016-p5s4w21</LM>
 </w.rf>
 <form>stanovenou</form>
-<tag lemma="stanovený_^(určit)_(*3it)" src="orig" selected="1">AAFS4----1A----</tag>
+<tag lemma="stanovený_^(*3it)" src="orig" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-ln95041-016-p5s4w22">
 <src.rf>manual</src.rf>

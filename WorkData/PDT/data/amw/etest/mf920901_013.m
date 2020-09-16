@@ -117,7 +117,7 @@
 <LM>w#w-mf920901-013-p2s1w7</LM>
 </w.rf>
 <form>dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920901-013-p2s1w8">
 <src.rf>manual</src.rf>

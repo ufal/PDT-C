@@ -27,7 +27,7 @@
 <LM>w#w-ln94210-17-p1s1w2</LM>
 </w.rf>
 <form>Jihlavanu</form>
-<tag lemma="Jihlavan_;m" src="auto" selected="1">NNIS6-----A---1</tag>
+<tag lemma="Jihlavan-2_;m" src="auto" selected="1">NNIS6-----A---1</tag>
 </m>
 <m id="m-ln94210-17-p1s1w3">
 <src.rf>manual</src.rf>
@@ -223,7 +223,7 @@
 <LM>w#w-ln94210-17-p2s1Bw18</LM>
 </w.rf>
 <form>Jihlavanu</form>
-<tag lemma="Jihlavan_;m" src="auto" selected="1">NNIS6-----A---1</tag>
+<tag lemma="Jihlavan-2_;m" src="auto" selected="1">NNIS6-----A---1</tag>
 </m>
 <m id="m-ln94210-17-p2s1Bw19">
 <src.rf>manual</src.rf>
@@ -531,7 +531,7 @@
 <LM>w#w-ln94210-17-p3s1w9</LM>
 </w.rf>
 <form>Jihlavan</form>
-<tag lemma="Jihlavan_;m" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Jihlavan-2_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94210-17-p3s1w10">
 <src.rf>manual</src.rf>
@@ -1010,7 +1010,7 @@
 <LM>w#w-ln94210-17-p4s1w26</LM>
 </w.rf>
 <form>Zlatý</form>
-<tag lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAMS1----1A----</tag>
+<tag lemma="zlatý-1_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAMS1----1A----</tag>
 </m>
 <m id="m-ln94210-17-p4s1w27">
 <src.rf>manual</src.rf>
@@ -1164,7 +1164,7 @@
 <LM>w#w-ln94210-17-p4s2w9</LM>
 </w.rf>
 <form>Jihlavanu</form>
-<tag lemma="Jihlavan_;m" src="auto" selected="1">NNIS3-----A----</tag>
+<tag lemma="Jihlavan-2_;m" src="auto" selected="1">NNIS3-----A----</tag>
 </m>
 <m id="m-ln94210-17-p4s2w10">
 <src.rf>manual</src.rf>
@@ -1363,7 +1363,7 @@
 <LM>w#w-ln94210-17-p5s1w1</LM>
 </w.rf>
 <form>Jihlavan</form>
-<tag lemma="Jihlavan_;m" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Jihlavan-2_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94210-17-p5s1w2">
 <src.rf>manual</src.rf>
@@ -1605,7 +1605,7 @@
 <LM>w#w-ln94210-17-p5s2w12</LM>
 </w.rf>
 <form>letouny</form>
-<tag lemma="letoun" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="letoun-1" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-ln94210-17-p5s2w13">
 <src.rf>manual</src.rf>

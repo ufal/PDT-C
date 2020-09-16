@@ -226,7 +226,7 @@
 <LM>w#w-ln95045-009-p2s1Bw17</LM>
 </w.rf>
 <form>odpovědnost</form>
-<tag lemma="odpovědnost_^(kdo_za_něco_odpovídá)_(*3ý)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="odpovědnost_^(*3ý)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95045-009-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -729,7 +729,7 @@
 <LM>w#w-ln95045-009-p3s1w31</LM>
 </w.rf>
 <form>stanovenými</form>
-<tag lemma="stanovený_^(určit)_(*3it)" src="orig" selected="1">AAFP7----1A----</tag>
+<tag lemma="stanovený_^(*3it)" src="orig" selected="1">AAFP7----1A----</tag>
 </m>
 <m id="m-ln95045-009-p3s1w32">
 <src.rf>manual</src.rf>
@@ -779,7 +779,7 @@
 <LM>w#w-ln95045-009-p3s2w1</LM>
 </w.rf>
 <form>Orgán</form>
-<tag lemma="orgán" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95045-009-p3s2w2">
 <src.rf>manual</src.rf>

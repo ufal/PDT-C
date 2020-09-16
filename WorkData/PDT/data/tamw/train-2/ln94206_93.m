@@ -410,7 +410,7 @@
 <LM>w#w-ln94206-93-p3s1w27</LM>
 </w.rf>
 <form>dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94206-93-p3s1w28">
 <src.rf>manual</src.rf>
@@ -466,7 +466,7 @@
 <LM>w#w-ln94206-93-p3s1w34</LM>
 </w.rf>
 <form>Husově</form>
-<tag lemma="Husův_;Y_^(*2o)" src="auto" selected="1">AUFS6M---------</tag>
+<tag lemma="Husův_;Y_^(*2-1)_(*2o)" src="auto" selected="1">AUFS6M---------</tag>
 </m>
 <m id="m-ln94206-93-p3s1w35">
 <src.rf>manual</src.rf>

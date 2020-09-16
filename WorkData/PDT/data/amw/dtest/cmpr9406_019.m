@@ -973,7 +973,7 @@
 <LM>w#w-cmpr9406-019-p8s8w1</LM>
 </w.rf>
 <form>Zkrácená</form>
-<tag lemma="zkrácený_,a_^(*2t)" src="auto" selected="1">AAFS1----1A----</tag>
+<tag lemma="zkrácený_^(*4tit)" src="auto" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-cmpr9406-019-p8s8w2">
 <src.rf>manual</src.rf>
@@ -1029,7 +1029,7 @@
 <LM>w#w-cmpr9406-019-p8s8w8</LM>
 </w.rf>
 <form>zkrácená</form>
-<tag lemma="zkrácený_,a_^(*2t)" src="auto" selected="1">AAFS1----1A----</tag>
+<tag lemma="zkrácený_^(*4tit)" src="auto" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-cmpr9406-019-p8s8w9">
 <src.rf>manual</src.rf>

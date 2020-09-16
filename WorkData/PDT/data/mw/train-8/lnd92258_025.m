@@ -35,7 +35,7 @@
 <LM>w#w-lnd92258-025-p1s1w3</LM>
 </w.rf>
 <form>NÁS</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 </s>
 <s id="m-lnd92258-025-p2s1">
@@ -105,7 +105,7 @@
 <LM>w#w-lnd92258-025-p3s2w4</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd92258-025-p3s2w5">
 <src.rf>manual</src.rf>
@@ -673,7 +673,7 @@
 <LM>w#w-lnd92258-025-p3s5w2</LM>
 </w.rf>
 <form>stadium</form>
-<tag lemma="stadium" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="stadium_,s_^(^DD**stádium)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-lnd92258-025-p3s5w3">
 <src.rf>manual</src.rf>
@@ -851,7 +851,7 @@
 <LM>w#w-lnd92258-025-p3s6w4</LM>
 </w.rf>
 <form>co</form>
-<tag lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="co-5_^(př._co_nejméně,_co_nevidět_atd.)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd92258-025-p3s6w5">
 <src.rf>manual</src.rf>
@@ -1077,7 +1077,7 @@
 <LM>w#w-lnd92258-025-p3s7w8</LM>
 </w.rf>
 <form>rady</form>
-<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu)" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-lnd92258-025-p3s7w9">
 <src.rf>manual</src.rf>
@@ -1109,7 +1109,7 @@
 <LM>w#w-lnd92258-025-p3s7w12</LM>
 </w.rf>
 <form>nemoci</form>
-<tag lemma="nemoc_^(choroba)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="nemoc" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92258-025-p3s7w13">
 <src.rf>manual</src.rf>
@@ -1125,7 +1125,7 @@
 <LM>w#w-lnd92258-025-p3s7w14</LM>
 </w.rf>
 <form>jejího</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS2FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS2FS3-------</tag>
 </m>
 <m id="m-lnd92258-025-p3s7w15">
 <src.rf>manual</src.rf>

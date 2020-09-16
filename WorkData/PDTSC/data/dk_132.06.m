@@ -60,7 +60,7 @@
 <AM lemma="kuchyně" src="auto">NNFP1-----A----</AM>
 <AM lemma="kuchyně" src="auto">NNFP4-----A----</AM>
 <AM lemma="kuchyně" src="auto">NNFP5-----A----</AM>
-<AM lemma="kuchyně" src="auto" recommended="1">NNFS1-----A---1</AM>
+<AM lemma="kuchyň" src="auto" recommended="1">NNFS1-----A---1</AM>
 <AM lemma="kuchyně" src="auto">NNFS2-----A----</AM>
 <AM lemma="kuchyně" src="auto">NNFS5-----A---1</AM>
 </tag>
@@ -551,7 +551,7 @@
 <form>můj</form>
 <tag>
 <AM lemma="můj_^(přivlast.)" src="auto">PSIS4-S1-------</AM>
-<AM lemma="můj_^(přivlast.)" src="auto" recommended="1">PSYS1-S1-------</AM>
+<AM lemma="můj" src="auto" recommended="1">PSYS1-S1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSYS5-S1-------</AM>
 </tag>
 </m>
@@ -645,7 +645,7 @@
 </w.rf>
 <form>nám</form>
 <tag>
-<AM lemma="já" src="auto" recommended="1">PP-P3--1-------</AM>
+<AM lemma="my" src="auto" recommended="1">PP-P3--1-------</AM>
 <AM lemma="náměstí_:B" src="auto">NNNXX-----A---8</AM>
 </tag>
 </m>
@@ -670,7 +670,7 @@
 <LM>w#w-d1t1749-13</LM>
 </w.rf>
 <form>Vypadá</form>
-<tag lemma="vypadat" src="auto" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="vypadat-1_^(ty_vypadáš)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m132-d1t1749-12">
 <w.rf>
@@ -935,7 +935,7 @@
 <AM lemma="sešlost_^(shromáždění)" src="auto">NNFS2-----A----</AM>
 <AM lemma="sešlost_^(shromáždění)" src="auto">NNFS3-----A----</AM>
 <AM lemma="sešlost_^(shromáždění)" src="auto">NNFS5-----A----</AM>
-<AM lemma="sešlost_^(shromáždění)" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="sešlost_^(*3ý)" src="auto" recommended="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m132-d1t1761-4">
@@ -1012,7 +1012,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m132-90-91">
@@ -1186,7 +1186,7 @@
 </w.rf>
 <form>nám</form>
 <tag>
-<AM lemma="já" src="auto" recommended="1">PP-P3--1-------</AM>
+<AM lemma="my" src="auto" recommended="1">PP-P3--1-------</AM>
 <AM lemma="náměstí_:B" src="auto">NNNXX-----A---8</AM>
 </tag>
 </m>
@@ -1199,7 +1199,7 @@
 <AM lemma="moc-1_^(nad_někým;_politická,_vojenská;_plná,...)" src="auto">NNFS1-----A----</AM>
 <AM lemma="moc-1_^(nad_někým;_politická,_vojenská;_plná,...)" src="auto">NNFS4-----A----</AM>
 <AM lemma="moc-2_^(mnoho_něčeho_[se_subst._v_gen.])" src="auto">Ca--X----------</AM>
-<AM lemma="moc-3_^(velmi,_ve_spojení_s_adj.,_př._moc_hezká)" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="moc-3_^(moc_hezká,_moc_peněz)" src="auto" recommended="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m132-d1t1782-4">
@@ -2168,7 +2168,7 @@
 </w.rf>
 <form>třeba</form>
 <tag>
-<AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" recommended="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -2254,7 +2254,7 @@
 <form>kuřecí</form>
 <tag>
 <AM lemma="kuřecí" src="auto">AAFP1----1A----</AM>
-<AM lemma="kuřecí" src="auto" recommended="1">AAFP4----1A----</AM>
+<AM lemma="kuřecí-2" src="auto" recommended="1">AAFP4----1A----</AM>
 <AM lemma="kuřecí" src="auto">AAFP5----1A----</AM>
 <AM lemma="kuřecí" src="auto">AAFS1----1A----</AM>
 <AM lemma="kuřecí" src="auto">AAFS2----1A----</AM>
@@ -2313,7 +2313,7 @@
 <AM lemma="ča_^(ča-ča)" src="auto">NNFS2-----A----</AM>
 <AM lemma="ča_^(ča-ča)" src="auto">NNFS3-----A---1</AM>
 <AM lemma="ča_^(ča-ča)" src="auto">NNFS6-----A---1</AM>
-<AM lemma="či" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="či-1" src="auto" recommended="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m132-d1t1866-1">
@@ -2604,7 +2604,7 @@
 <tag>
 <AM lemma="hodně-1" src="auto">Ca--X----------</AM>
 <AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------1A----</AM>
+<AM lemma="hodně_^(*1ý)" src="auto" recommended="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m132-d1t1879-2">

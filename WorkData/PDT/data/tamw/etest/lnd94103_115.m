@@ -379,7 +379,7 @@
 <tag>
 <AM lemma="Kaiserslautern" src="orig">NNIS2-----A----</AM>
 <AM lemma="Kaiserslautern-2_;m" src="manual">NNIS2-----A----</AM>
-<AM lemma="Kaiserslautern_;G" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Kaiserslautern_;G_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-115-p1s3w33">
@@ -619,7 +619,7 @@
 <LM>w#w-lnd94103-115-p1s5w1</LM>
 </w.rf>
 <form>Druhý</form>
-<tag lemma="druhý" src="orig" selected="1">CrMS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrMS1----------</tag>
 </m>
 <m id="m-lnd94103-115-p1s5w2">
 <src.rf>manual</src.rf>
@@ -715,7 +715,7 @@
 <LM>w#w-lnd94103-115-p1s5w13</LM>
 </w.rf>
 <form>jehož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P1XXXZS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXZS3-------</tag>
 </m>
 <m id="m-lnd94103-115-p1s5w14">
 <src.rf>manual</src.rf>

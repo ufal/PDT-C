@@ -76,7 +76,7 @@
 <LM>w#w-ln95045-095-p1s1w8</LM>
 </w.rf>
 <form>Hnutím</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-ln95045-095-p1s1w9">
 <src.rf>manual</src.rf>

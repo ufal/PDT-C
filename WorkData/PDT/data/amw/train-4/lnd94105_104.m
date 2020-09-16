@@ -19,7 +19,7 @@
 <LM>w#w-lnd94105-104-p1s1w1</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrNP4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNP4----------</tag>
 </m>
 <m id="m-lnd94105-104-p1s1w2">
 <src.rf>manual</src.rf>
@@ -510,7 +510,7 @@
 <LM>w#w-lnd94105-104-p1s4w2</LM>
 </w.rf>
 <form>jezdce</form>
-<tag lemma="jezdec" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="jezdec-1" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-lnd94105-104-p1s4w3">
 <src.rf>manual</src.rf>

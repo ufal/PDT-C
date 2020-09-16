@@ -1579,7 +1579,7 @@
 <LM>w#w-ln95048-107-p4s2w3</LM>
 </w.rf>
 <form>mluvčího</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95048-107-p4s2w4">
 <src.rf>manual</src.rf>
@@ -1975,7 +1975,7 @@
 <LM>w#w-ln95048-107-p5s2w3</LM>
 </w.rf>
 <form>Dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95048-107-p5s2w4">
 <src.rf>manual</src.rf>
@@ -2122,7 +2122,7 @@
 <LM>w#w-ln95048-107-p5s2w21</LM>
 </w.rf>
 <form>hnutí</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95048-107-p5s2w22">
 <src.rf>manual</src.rf>
@@ -2154,7 +2154,7 @@
 <LM>w#w-ln95048-107-p5s2w25</LM>
 </w.rf>
 <form>právo</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln95048-107-p5s2w26">
 <src.rf>manual</src.rf>
@@ -2253,7 +2253,7 @@
 <LM>w#w-ln95048-107-p5s2w37</LM>
 </w.rf>
 <form>naši</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSMP1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSMP1-P1-------</tag>
 </m>
 <m id="m-ln95048-107-p5s2w38">
 <src.rf>manual</src.rf>
@@ -2625,7 +2625,7 @@
 <LM>w#w-ln95048-107-p6s2w4</LM>
 </w.rf>
 <form>politiky</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95048-107-p6s2w5">
 <src.rf>manual</src.rf>

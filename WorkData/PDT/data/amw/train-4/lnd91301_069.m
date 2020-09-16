@@ -618,7 +618,7 @@
 <LM>w#w-lnd91301-069-p4s5w3</LM>
 </w.rf>
 <form>dali</form>
-<tag lemma="dát" src="orig" selected="1">VpMP----R-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd91301-069-p4s5w4">
 <src.rf>manual</src.rf>
@@ -871,7 +871,7 @@
 <LM>w#w-lnd91301-069-p4s6w7</LM>
 </w.rf>
 <form>správním</form>
-<tag lemma="správní_^(např._poplatek;_rada;_řád;...)" src="orig" selected="1">AANS6----1A----</tag>
+<tag lemma="správní_^(správní_rada;_řád)" src="orig" selected="1">AANS6----1A----</tag>
 </m>
 <m id="m-lnd91301-069-p4s6w8">
 <src.rf>manual</src.rf>

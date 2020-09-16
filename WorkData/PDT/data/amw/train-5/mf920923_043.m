@@ -319,7 +319,7 @@
 <LM>w#w-mf920923-043-p3s1w22</LM>
 </w.rf>
 <form>pasíva</form>
-<tag lemma="pasívum" src="auto" selected="1">NNNS2-----A----</tag>
+<tag lemma="pasívum_,s_^(^DD**pasivum)" src="auto" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-mf920923-043-p3s1w23">
 <src.rf>manual</src.rf>
@@ -409,7 +409,7 @@
 <LM>w#w-mf920923-043-p3s2w6</LM>
 </w.rf>
 <form>sekretáře</form>
-<tag lemma="sekretář" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="sekretář-2" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920923-043-p3s2w7">
 <src.rf>manual</src.rf>
@@ -898,7 +898,7 @@
 <LM>w#w-mf920923-043-p6s1w3</LM>
 </w.rf>
 <form>marketinková</form>
-<tag lemma="marketinkový" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="marketinkový_,s_^(^DD**marketingový)" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-mf920923-043-p6s1w4">
 <src.rf>manual</src.rf>
@@ -1694,7 +1694,7 @@
 <LM>w#w-mf920923-043-p9s2w4</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-mf920923-043-p9s2w5">
 <src.rf>manual</src.rf>
@@ -1880,7 +1880,7 @@
 <LM>w#w-mf920923-043-p10s1w4</LM>
 </w.rf>
 <form>vás</form>
-<tag lemma="ty" src="orig" selected="1">PP-P2--2-------</tag>
+<tag lemma="vy" src="orig" selected="1">PP-P2--2-------</tag>
 </m>
 <m id="m-mf920923-043-p10s1w5">
 <src.rf>manual</src.rf>
@@ -2297,7 +2297,7 @@
 <LM>w#w-mf920923-043-p13s1w2</LM>
 </w.rf>
 <form>My</form>
-<tag lemma="já" src="orig" selected="1">PP-P1--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P1--1-------</tag>
 </m>
 <m id="m-mf920923-043-p13s1w3">
 <src.rf>manual</src.rf>
@@ -2361,7 +2361,7 @@
 <LM>w#w-mf920923-043-p13s1w11</LM>
 </w.rf>
 <form>dávno</form>
-<tag lemma="dávno" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="dávno-1" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf920923-043-p13s1w12">
 <src.rf>manual</src.rf>
@@ -2671,7 +2671,7 @@
 <LM>w#w-mf920923-043-p15s1w11</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf920923-043-p15s1w12">
 <src.rf>manual</src.rf>

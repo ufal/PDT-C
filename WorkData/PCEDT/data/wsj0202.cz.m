@@ -136,7 +136,7 @@
 </w.rf>
 <form>svých</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8XP2----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8XP2----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8XP6----------</AM>
 </tag>
 </m>
@@ -349,7 +349,7 @@
 <tag>
 <AM lemma="data_^(údaje,_např._v_databázi)" src="auto">NNNP3-----A---6</AM>
 <AM lemma="datum_^(kalendářní)" src="auto">NNNP3-----A---6</AM>
-<AM lemma="datum_^(kalendářní)" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="datum-1_^(kalendářní)" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="datum_^(kalendářní)" src="auto">NNNS4-----A----</AM>
 <AM lemma="datum_^(kalendářní)" src="auto">NNNS5-----A----</AM>
 <AM lemma="datum_,h_,x" src="auto">NNIS1-----A----</AM>

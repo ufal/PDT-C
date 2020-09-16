@@ -165,7 +165,7 @@
 <LM>w#w-ln95045-066-p1s2w3</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95045-066-p1s2w4">
 <src.rf>manual</src.rf>
@@ -189,7 +189,7 @@
 <LM>w#w-ln95045-066-p1s2w6</LM>
 </w.rf>
 <form>prostředky</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP7-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP7-----A----</tag>
 </m>
 <m id="m-ln95045-066-p1s2w7">
 <src.rf>manual</src.rf>
@@ -205,7 +205,7 @@
 <LM>w#w-ln95045-066-p1s2w8</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FP4---------1</tag>
 </m>
 <m id="m-ln95045-066-p1s2w9">
 <src.rf>manual</src.rf>

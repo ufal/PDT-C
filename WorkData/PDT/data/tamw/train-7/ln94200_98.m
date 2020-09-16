@@ -112,7 +112,7 @@
 <LM>w#w-ln94200-98-p2s1w11</LM>
 </w.rf>
 <form>nakladačem</form>
-<tag lemma="nakladač" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="nakladač-2" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-ln94200-98-p2s1w12">
 <src.rf>manual</src.rf>

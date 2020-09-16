@@ -163,7 +163,7 @@
 <form>Rady</form>
 <tag>
 <AM lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig">NNFS2-----A----</AM>
-<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu_poradní_sbor)" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-132-p2s2w9">
@@ -308,7 +308,7 @@
 <LM>w#w-mf920923-132-p2s3w3</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="mluvčí-2" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920923-132-p2s3w4">
 <src.rf>manual</src.rf>
@@ -430,7 +430,7 @@
 <LM>w#w-mf920923-132-p3s1w7</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-mf920923-132-p3s1w8">
 <src.rf>manual</src.rf>
@@ -1322,7 +1322,7 @@
 <LM>w#w-mf920923-132-p5s1w24</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8NS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8NS4---------1</tag>
 </m>
 <m id="m-mf920923-132-p5s1w25">
 <src.rf>manual</src.rf>

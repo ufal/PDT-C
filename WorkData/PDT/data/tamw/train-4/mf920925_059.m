@@ -214,7 +214,7 @@
 <LM>w#w-mf920925-059-p2s1w22</LM>
 </w.rf>
 <form>Novotnou</form>
-<tag lemma="Novotná_;Y_^(*1ý)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Novotná_;Y" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf920925-059-p2s1w23">
 <src.rf>manual</src.rf>
@@ -300,7 +300,7 @@
 <LM>w#w-mf920925-059-p2s1w32</LM>
 </w.rf>
 <form>naší</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS7-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS7-P1-------</tag>
 </m>
 <m id="m-mf920925-059-p2s1w33">
 <src.rf>manual</src.rf>
@@ -364,7 +364,7 @@
 <LM>w#w-mf920925-059-p2s1w40</LM>
 </w.rf>
 <form>Novotná</form>
-<tag lemma="Novotná_;Y_^(*1ý)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Novotná_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920925-059-p2s1w41">
 <src.rf>manual</src.rf>
@@ -580,7 +580,7 @@
 <LM>w#w-mf920925-059-p2s2w10</LM>
 </w.rf>
 <form>Novotnou</form>
-<tag lemma="Novotná_;Y_^(*1ý)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Novotná_;Y" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf920925-059-p2s2w11">
 <src.rf>manual</src.rf>
@@ -839,7 +839,7 @@
 <LM>w#w-mf920925-059-p2s5Aw5</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-mf920925-059-p2s5Aw6">
 <src.rf>manual</src.rf>
@@ -927,7 +927,7 @@
 <LM>w#w-mf920925-059-p2s5Bw7</LM>
 </w.rf>
 <form>Karlových</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUIP6M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUIP6M---------</tag>
 </m>
 <m id="m-mf920925-059-p2s5Bw8">
 <src.rf>manual</src.rf>
@@ -1555,7 +1555,7 @@
 <LM>w#w-mf920925-059-p2s9w3</LM>
 </w.rf>
 <form>ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf920925-059-p2s9w4">
 <src.rf>manual</src.rf>
@@ -1581,7 +1581,7 @@
 <form>roli</form>
 <tag>
 <AM lemma="role-2_^(herecká_úloha;_poslání)" src="orig">NNFS4-----A----</AM>
-<AM lemma="role-1_^(svitek_poslání_pozemek)" src="manual" selected="1">NNFS4-----A----</AM>
+<AM lemma="role_^(svitek_poslání_pozemek)" src="manual" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-059-p2s9w7">

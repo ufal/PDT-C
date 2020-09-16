@@ -175,7 +175,7 @@
 <LM>w#w-ln95046-040-p2s1Bw14</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrMS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrMS1----------</tag>
 </m>
 <m id="m-ln95046-040-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -340,7 +340,7 @@
 <LM>w#w-ln95046-040-p2s2w9</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95046-040-p2s2w10">
 <src.rf>manual</src.rf>
@@ -697,7 +697,7 @@
 <LM>w#w-ln95046-040-p2s3w23</LM>
 </w.rf>
 <form>správné</form>
-<tag lemma="správný_^(podle_něj._měřítek;_př._chlap,_míra,...)" src="orig" selected="1">AANS1----1A----</tag>
+<tag lemma="správný" src="orig" selected="1">AANS1----1A----</tag>
 </m>
 <m id="m-ln95046-040-p2s3w24">
 <src.rf>manual</src.rf>

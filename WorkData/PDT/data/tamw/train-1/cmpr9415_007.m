@@ -278,7 +278,7 @@
 <LM>w#w-cmpr9415-007-p6s1w1</LM>
 </w.rf>
 <form>Dítě</form>
-<tag lemma="dítě" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="dítě-1" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-007-p6s1w2">
 <src.rf>manual</src.rf>
@@ -895,7 +895,7 @@
 <LM>w#w-cmpr9415-007-p10s1w7</LM>
 </w.rf>
 <form>kuchyní</form>
-<tag lemma="kuchyně" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="kuchyň" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-cmpr9415-007-p10s1w8">
 <src.rf>manual</src.rf>
@@ -1197,7 +1197,7 @@
 <LM>w#w-cmpr9415-007-p11s1w8</LM>
 </w.rf>
 <form>snack</form>
-<tag lemma="snack_,h" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="snack-1_,h" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-007-p11s1w9">
 <src.rf>manual</src.rf>

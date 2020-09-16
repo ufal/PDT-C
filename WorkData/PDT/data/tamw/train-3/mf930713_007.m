@@ -94,7 +94,7 @@
 </w.rf>
 <form>Maurice</form>
 <tag>
-<AM lemma="Maurice_;Y" src="orig" selected="1">NNMS2-----A----</AM>
+<AM lemma="Mauric_;Y" src="orig" selected="1">NNMS2-----A----</AM>
 <AM lemma="Mauric_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Mauric_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Mauric_;Y" src="auto">NNMS4-----A----</AM>
@@ -246,7 +246,7 @@
 <LM>w#w-mf930713-007-p1s2w2</LM>
 </w.rf>
 <form>představení</form>
-<tag lemma="představení-2_^(divadelní,_filmové_apod.)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="představení-1_^(*5it-1)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-mf930713-007-p1s2w3">
 <src.rf>manual</src.rf>

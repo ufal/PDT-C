@@ -69,7 +69,7 @@
 <LM>w#w-ln95040-106-p2s1Aw1</LM>
 </w.rf>
 <form>Dillí</form>
-<tag lemma="dillí" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Dillí_;G" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95040-106-p2s1Aw2">
 <src.rf>manual</src.rf>
@@ -524,7 +524,7 @@
 <LM>w#w-ln95040-106-p2s3w3</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-ln95040-106-p2s3w4">
 <src.rf>manual</src.rf>

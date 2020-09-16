@@ -54,7 +54,7 @@
 <AM lemma="matka-2_^(maminka)" src="auto">NNFP1-----A----</AM>
 <AM lemma="matka-2_^(maminka)" src="auto">NNFP4-----A----</AM>
 <AM lemma="matka-2_^(maminka)" src="auto">NNFP5-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto" selected="1">NNFS2-----A----</AM>
+<AM lemma="matka" src="auto" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 </s>
@@ -193,7 +193,7 @@
 <AM lemma="matka-2_^(maminka)" src="auto">NNFP1-----A----</AM>
 <AM lemma="matka-2_^(maminka)" src="auto">NNFP4-----A----</AM>
 <AM lemma="matka-2_^(maminka)" src="auto">NNFP5-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto" selected="1">NNFS2-----A----</AM>
+<AM lemma="matka" src="auto" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-051-p3s2w11">
@@ -311,7 +311,7 @@
 <tag>
 <AM lemma="Marion_;Y_,t" src="auto">NNFXX-----A----</AM>
 <AM lemma="Marion_;Y_,t" src="manual">NNFXX-----A----</AM>
-<AM lemma="Marion_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Marion-1_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-051-p3s3w3">
@@ -534,7 +534,7 @@
 <AM lemma="matka-2_^(maminka)" src="auto">NNFP1-----A----</AM>
 <AM lemma="matka-2_^(maminka)" src="auto">NNFP4-----A----</AM>
 <AM lemma="matka-2_^(maminka)" src="auto">NNFP5-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto" selected="1">NNFS2-----A----</AM>
+<AM lemma="matka" src="auto" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-051-p3s4w8">
@@ -867,7 +867,7 @@
 <LM>w#w-lnd92253-051-p3s6w7</LM>
 </w.rf>
 <form>dítě</form>
-<tag lemma="dítě" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="dítě-1" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-lnd92253-051-p3s6w8">
 <src.rf>manual</src.rf>
@@ -1031,7 +1031,7 @@
 <AM lemma="matka-1_^(malá_součástka)" src="auto">NNFS3-----A----</AM>
 <AM lemma="matka-1_^(malá_součástka)" src="auto" recommended="1">NNFS6-----A----</AM>
 <AM lemma="matka-2_^(maminka)" src="auto">NNFS3-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto" selected="1">NNFS6-----A----</AM>
+<AM lemma="matka" src="auto" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-051-p3s6w27">

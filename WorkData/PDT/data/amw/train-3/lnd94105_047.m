@@ -102,7 +102,7 @@
 <LM>w#w-lnd94105-047-p1s3w3</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-047-p1s3w4">
 <src.rf>manual</src.rf>
@@ -281,7 +281,7 @@
 <LM>w#w-lnd94105-047-p1s4w1</LM>
 </w.rf>
 <form>Mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-047-p1s4w2">
 <src.rf>manual</src.rf>
@@ -578,7 +578,7 @@
 <LM>w#w-lnd94105-047-p1s6w11</LM>
 </w.rf>
 <form>zajetí</form>
-<tag lemma="zajetí_^(např._autem)_(*3mout)" src="auto" selected="1">NNNS6-----A----</tag>
+<tag lemma="zajetí_^(*1)_(*3mout)" src="auto" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-lnd94105-047-p1s6w12">
 <src.rf>manual</src.rf>
@@ -668,7 +668,7 @@
 <LM>w#w-lnd94105-047-p1s7w10</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-047-p1s7w11">
 <src.rf>manual</src.rf>

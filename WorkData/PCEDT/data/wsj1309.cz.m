@@ -1074,7 +1074,7 @@
 </w.rf>
 <form>Phillips</form>
 <tag>
-<AM lemma="Philips_;m" src="auto" selected="1">NNIS1-----A----</AM>
+<AM lemma="Phillips-2_;m" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="Philips_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="Phillips_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
@@ -1351,7 +1351,7 @@
 </w.rf>
 <form>Phillips</form>
 <tag>
-<AM lemma="Philips_;m" src="auto" selected="1">NNIS1-----A----</AM>
+<AM lemma="Phillips-2_;m" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="Philips_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="Phillips_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
@@ -1448,7 +1448,7 @@
 </w.rf>
 <form>Phillips</form>
 <tag>
-<AM lemma="Philips_;m" src="auto" selected="1">NNIS1-----A----</AM>
+<AM lemma="Phillips-2_;m" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="Philips_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="Phillips_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
@@ -2543,7 +2543,7 @@
 </w.rf>
 <form>svůj</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8IS4----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8IS4----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8YS1----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8YS5----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOYS-----------</AM>
@@ -3979,7 +3979,7 @@
 <AM lemma="odletující-1_^(jiskry)_(*7ovat-1)" src="auto">AGIS2-----A----</AM>
 <AM lemma="odletující-1_^(jiskry)_(*7ovat-1)" src="auto">AGMS2-----A----</AM>
 <AM lemma="odletující-1_^(jiskry)_(*7ovat-1)" src="auto">AGMS4-----A----</AM>
-<AM lemma="odletující-1_^(jiskry)_(*7ovat-1)" src="auto" recommended="1">AGNS2-----A----</AM>
+<AM lemma="odletující-1_^(*7ovat-1)" src="auto" recommended="1">AGNS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1309-001-p1s13W24-Ta">
@@ -4345,7 +4345,7 @@
 <AM lemma="druhý" src="auto">CrFS2----------</AM>
 <AM lemma="druhý" src="auto">CrFS3----------</AM>
 <AM lemma="druhý" src="auto">CrFS6----------</AM>
-<AM lemma="druhý" src="auto" selected="1">CrIP1----------</AM>
+<AM lemma="druhý`2" src="auto" selected="1">CrIP1----------</AM>
 <AM lemma="druhý" src="auto">CrIP4----------</AM>
 <AM lemma="druhý" src="auto">CrIP5----------</AM>
 <AM lemma="druhý" src="auto">CrMP4----------</AM>
@@ -4724,7 +4724,7 @@
 </w.rf>
 <form>Phillips</form>
 <tag>
-<AM lemma="Philips_;m" src="auto" selected="1">NNIS1-----A----</AM>
+<AM lemma="Phillips-2_;m" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="Philips_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="Phillips_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
@@ -4781,7 +4781,7 @@
 </w.rf>
 <form>Phillips</form>
 <tag>
-<AM lemma="Philips_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Phillips-2_;m" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Philips_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="Phillips_;Y" src="auto">NNMS1-----A----</AM>
 </tag>
@@ -4805,7 +4805,7 @@
 <form>polyetylén</form>
 <tag>
 <AM lemma="polyetylén" src="auto">NNIS1-----A----</AM>
-<AM lemma="polyetylén" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="polyetylén_,s_^(^DD**polyetylen)" src="auto" recommended="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1309-001-p1s18W6-Ta">
@@ -4824,7 +4824,7 @@
 <form>polypropylén</form>
 <tag>
 <AM lemma="polypropylén_;U" src="auto">NNIS1-----A----</AM>
-<AM lemma="polypropylén_;U" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="polypropylén_,s_^(^DD**polypropylen)" src="auto" recommended="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1309-001-p1s18W8-Ta">
@@ -5204,7 +5204,7 @@
 </w.rf>
 <form>Phillips</form>
 <tag>
-<AM lemma="Philips_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Phillips-2_;m" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Philips_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="Phillips_;Y" src="auto">NNMS1-----A----</AM>
 </tag>

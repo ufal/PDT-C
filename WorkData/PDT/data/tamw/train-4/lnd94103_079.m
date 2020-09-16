@@ -1028,7 +1028,7 @@
 <LM>w#w-lnd94103-079-p1s7w5</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd94103-079-p1s7w6">
 <src.rf>manual</src.rf>
@@ -1079,7 +1079,7 @@
 <LM>w#w-lnd94103-079-p1s7w11</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd94103-079-p1s7w12">
 <src.rf>manual</src.rf>
@@ -1087,7 +1087,7 @@
 <LM>w#w-lnd94103-079-p1s7w12</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-lnd94103-079-p1s7w13">
 <src.rf>manual</src.rf>
@@ -1399,7 +1399,7 @@
 <LM>w#w-lnd94103-079-p1s9w14</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd94103-079-p1s9w15">
 <src.rf>manual</src.rf>
@@ -1439,7 +1439,7 @@
 <LM>w#w-lnd94103-079-p1s9w19</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd94103-079-p1s9w20">
 <src.rf>manual</src.rf>
@@ -1569,7 +1569,7 @@
 <LM>w#w-lnd94103-079-p1s10w13</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd94103-079-p1s10w14">
 <src.rf>manual</src.rf>
@@ -1667,7 +1667,7 @@
 <LM>w#w-lnd94103-079-p1s11w11</LM>
 </w.rf>
 <form>zaměstnání</form>
-<tag lemma="zaměstnání-1_^(všeob._význam:_činnost,_zaměstnání)_(*5at-1)" src="orig" selected="1">NNNP4-----A----</tag>
+<tag lemma="zaměstnání_^(*3at)" src="orig" selected="1">NNNP4-----A----</tag>
 </m>
 <m id="m-lnd94103-079-p1s11w12">
 <src.rf>manual</src.rf>
@@ -2311,7 +2311,7 @@
 <LM>w#w-lnd94103-079-p1s15w18</LM>
 </w.rf>
 <form>zaměstnání</form>
-<tag lemma="zaměstnání-1_^(všeob._význam:_činnost,_zaměstnání)_(*5at-1)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="zaměstnání_^(*3at)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-lnd94103-079-p1s15w19">
 <src.rf>manual</src.rf>

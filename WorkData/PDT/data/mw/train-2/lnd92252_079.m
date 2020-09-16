@@ -404,7 +404,7 @@
 <LM>w#w-lnd92252-079-p3s3w14</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrIP4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIP4----------</tag>
 </m>
 <m id="m-lnd92252-079-p3s3w15">
 <src.rf>manual</src.rf>
@@ -1892,7 +1892,7 @@
 <LM>w#w-lnd92252-079-p10s1w1</LM>
 </w.rf>
 <form>Slovan</form>
-<tag lemma="Slovan-2_;m" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Slovan-2_;G_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92252-079-p10s1w2">
 <src.rf>manual</src.rf>
@@ -2184,7 +2184,7 @@
 <LM>w#w-lnd92252-079-p12s6w2</LM>
 </w.rf>
 <form>Bolina</form>
-<tag lemma="Bolina_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bolina-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-079-p12s6w3">
 <src.rf>manual</src.rf>
@@ -2952,7 +2952,7 @@
 <LM>w#w-lnd92252-079-p20s2w1</LM>
 </w.rf>
 <form>Slovan</form>
-<tag lemma="Slovan-2_;m" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Slovan-2_;G_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92252-079-p20s2w2">
 <src.rf>manual</src.rf>

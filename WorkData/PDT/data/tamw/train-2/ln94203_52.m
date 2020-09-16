@@ -139,7 +139,7 @@
 <LM>w#w-ln94203-52-p2s1Bw7</LM>
 </w.rf>
 <form>mužský</form>
-<tag lemma="mužský" src="orig" selected="1">AAIS1----1A----</tag>
+<tag lemma="mužský-1" src="orig" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-ln94203-52-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -1046,7 +1046,7 @@
 <LM>w#w-ln94203-52-p2s10w7</LM>
 </w.rf>
 <form>sifonovou</form>
-<tag lemma="sifónový" src="orig" selected="1">AAFS4----1A----</tag>
+<tag lemma="sifonový_,s_^(^DD**sifónový)" src="orig" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-ln94203-52-p2s10w8">
 <src.rf>manual</src.rf>

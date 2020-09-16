@@ -162,7 +162,7 @@
 <LM>w#w-vesm9303-028-p2s1w12</LM>
 </w.rf>
 <form>mocnosti</form>
-<tag lemma="mocnost_^(mající_moc)_(*3ý)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="mocnost_^(*3ý)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-vesm9303-028-p2s1w13">
 <src.rf>manual</src.rf>
@@ -1351,7 +1351,7 @@
 <LM>w#w-vesm9303-028-p4s1w7</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-vesm9303-028-p4s1w8">
 <src.rf>manual</src.rf>
@@ -1981,7 +1981,7 @@
 <LM>w#w-vesm9303-028-p10s4w6</LM>
 </w.rf>
 <form>naše</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP4-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP4-P1-------</tag>
 </m>
 <m id="m-vesm9303-028-p10s4w7">
 <src.rf>manual</src.rf>

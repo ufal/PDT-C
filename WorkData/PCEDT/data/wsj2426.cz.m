@@ -573,7 +573,7 @@
 <form>letech</form>
 <tag>
 <AM lemma="let" src="auto">NNIP6-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP6-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2426-001-p1s1W6-Ta">
@@ -1040,7 +1040,7 @@
 </w.rf>
 <form>pilotů</form>
 <tag>
-<AM lemma="pilot" src="auto" recommended="1">NNIP2-----A----</AM>
+<AM lemma="pilot-2" src="auto" recommended="1">NNIP2-----A----</AM>
 <AM lemma="pilot" src="auto">NNMP2-----A----</AM>
 </tag>
 </m>
@@ -1948,7 +1948,7 @@
 <form>Marietta</form>
 <tag>
 <AM lemma="Marietta_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Marietta-2_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Marietta_;G_;Y_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2426-001-p1s5W16-Ta">
@@ -2153,7 +2153,7 @@
 <AM lemma="California_;G" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="California_;G" src="auto">NNFS6-----A----</AM>
 <AM lemma="californium_;U" src="auto">NNNP7-----A----</AM>
-<AM lemma="California_;G_,s_^(^DD**Kalifornie)" src="manual" selected="1">NNFS6-----A----</AM>
+<AM lemma="Californie_;G_,s_^(^DD**Kalifornie)" src="manual" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2426-001-p1s6W8-Ta">

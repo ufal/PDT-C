@@ -177,7 +177,7 @@
 <LM>w#w-mf930702-056-p2s1w14</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf930702-056-p2s1w15">
 <src.rf>manual</src.rf>
@@ -422,7 +422,7 @@
 <LM>w#w-mf930702-056-p2s2w11</LM>
 </w.rf>
 <form>sarin</form>
-<tag lemma="sarin_;U" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="sarin" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-mf930702-056-p2s2w12">
 <src.rf>manual</src.rf>
@@ -1102,7 +1102,7 @@
 <LM>w#w-mf930702-056-p3s3w1</LM>
 </w.rf>
 <form>Mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-056-p3s3w2">
 <src.rf>manual</src.rf>
@@ -1118,7 +1118,7 @@
 <LM>w#w-mf930702-056-p3s3w3</LM>
 </w.rf>
 <form>veteránů</form>
-<tag lemma="veterán" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="veterán-1" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf930702-056-p3s3w4">
 <src.rf>manual</src.rf>
@@ -1230,7 +1230,7 @@
 <LM>w#w-mf930702-056-p3s3w17</LM>
 </w.rf>
 <form>veteráni</form>
-<tag lemma="veterán" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="veterán-1" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf930702-056-p3s3w18">
 <src.rf>manual</src.rf>

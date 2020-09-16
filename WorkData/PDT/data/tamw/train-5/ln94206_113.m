@@ -502,7 +502,7 @@
 </w.rf>
 <form>Kariya</form>
 <tag>
-<AM lemma="Kariya_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Kariya-1_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Kariya_;G" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -624,7 +624,7 @@
 <LM>w#w-ln94206-113-p5s2w5</LM>
 </w.rf>
 <form>dny</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-ln94206-113-p5s2w6">
 <src.rf>manual</src.rf>

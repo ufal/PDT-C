@@ -277,7 +277,7 @@
 <LM>w#w-ln95041-112-p2s1Bw25</LM>
 </w.rf>
 <form>Ostravsko</form>
-<tag lemma="ostravský" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="ostravsko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-ln95041-112-p2s1Bw26">
 <src.rf>manual</src.rf>
@@ -513,7 +513,7 @@
 <LM>w#w-ln95041-112-p3s1w9</LM>
 </w.rf>
 <form>jejím</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS6FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS6FS3-------</tag>
 </m>
 <m id="m-ln95041-112-p3s1w10">
 <src.rf>manual</src.rf>

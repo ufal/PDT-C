@@ -187,7 +187,7 @@
 <LM>w#w-mf920902-085-p2s1w16</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrIS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS6----------</tag>
 </m>
 <m id="m-mf920902-085-p2s1w17">
 <src.rf>manual</src.rf>
@@ -211,7 +211,7 @@
 <LM>w#w-mf920902-085-p2s1w19</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-mf920902-085-p2s1w20">
 <src.rf>manual</src.rf>
@@ -235,7 +235,7 @@
 <LM>w#w-mf920902-085-p2s1w22</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-mf920902-085-p2s1w23">
 <src.rf>manual</src.rf>
@@ -752,7 +752,7 @@
 <LM>w#w-mf920902-085-p2s4w7</LM>
 </w.rf>
 <form>jezdci</form>
-<tag lemma="jezdec" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="jezdec-1" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf920902-085-p2s4w8">
 <src.rf>manual</src.rf>
@@ -1133,7 +1133,7 @@
 <LM>w#w-mf920902-085-p2s6w4</LM>
 </w.rf>
 <form>ohlášený</form>
-<tag lemma="ohlášený_,a_^(*4sit)" src="auto" selected="1">AAMS1----1A----</tag>
+<tag lemma="ohlášený_^(*2t)_(*4sit)" src="auto" selected="1">AAMS1----1A----</tag>
 </m>
 <m id="m-mf920902-085-p2s6w5">
 <src.rf>manual</src.rf>

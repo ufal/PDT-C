@@ -19,7 +19,7 @@
 <LM>w#w-lnd92258-031-p1s1w1</LM>
 </w.rf>
 <form>Rada</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92258-031-p1s1w2">
 <src.rf>manual</src.rf>
@@ -505,7 +505,7 @@
 <LM>w#w-lnd92258-031-p1s4w18</LM>
 </w.rf>
 <form>Rady</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92258-031-p1s4w19">
 <src.rf>manual</src.rf>
@@ -593,7 +593,7 @@
 <LM>w#w-lnd92258-031-p1s4w29</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92258-031-p1s4w30">
 <src.rf>manual</src.rf>
@@ -641,7 +641,7 @@
 <LM>w#w-lnd92258-031-p1s4w35</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92258-031-p1s4w36">
 <src.rf>manual</src.rf>
@@ -716,7 +716,7 @@
 <LM>w#w-lnd92258-031-p1s4w44</LM>
 </w.rf>
 <form>Radě</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd92258-031-p1s4w45">
 <src.rf>manual</src.rf>
@@ -758,7 +758,7 @@
 <LM>w#w-lnd92258-031-p1s5w3</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-lnd92258-031-p1s5w4">
 <src.rf>manual</src.rf>
@@ -825,7 +825,7 @@
 <LM>w#w-lnd92258-031-p1s5w11</LM>
 </w.rf>
 <form>Černé</form>
-<tag lemma="černý" src="auto" selected="1">AAFS2----1A----</tag>
+<tag lemma="černý_;o" src="auto" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-lnd92258-031-p1s5w12">
 <src.rf>manual</src.rf>

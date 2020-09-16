@@ -185,7 +185,7 @@
 <LM>w#w-mf920922-052-p2s1w18</LM>
 </w.rf>
 <form>druhý</form>
-<tag lemma="druhý" src="orig" selected="1">CrMS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrMS1----------</tag>
 </m>
 <m id="m-mf920922-052-p2s1w19">
 <src.rf>manual</src.rf>
@@ -541,7 +541,7 @@
 <LM>w#w-mf920922-052-p2s3w8</LM>
 </w.rf>
 <form>km</form>
-<tag lemma="km-1`kilometr" src="orig" selected="1">NNIXX-----A---b</tag>
+<tag lemma="kilometr" src="orig" selected="1">NNIXX-----A---b</tag>
 </m>
 <m id="m-mf920922-052-p2s3w9">
 <src.rf>manual</src.rf>

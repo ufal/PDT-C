@@ -253,7 +253,7 @@
 <LM>w#w-lnd94105-076-p1s3w15</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS2---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS2---------1</tag>
 </m>
 <m id="m-lnd94105-076-p1s3w16">
 <src.rf>manual</src.rf>
@@ -269,7 +269,7 @@
 <LM>w#w-lnd94105-076-p1s3w17</LM>
 </w.rf>
 <form>politiky</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94105-076-p1s3w18">
 <src.rf>manual</src.rf>
@@ -1625,7 +1625,7 @@
 <LM>w#w-lnd94105-076-p1s10w19</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94105-076-p1s10w20">
 <src.rf>manual</src.rf>
@@ -1799,7 +1799,7 @@
 <LM>w#w-lnd94105-076-p1s13w3</LM>
 </w.rf>
 <form>Market</form>
-<tag lemma="market" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="market-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94105-076-p1s13w4">
 <src.rf>manual</src.rf>

@@ -624,7 +624,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1914-001-p1s1W18-Ta">
@@ -1313,7 +1313,7 @@
 <AM lemma="Trent_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Trent_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Trento_;G" src="auto">NNNP2-----A----</AM>
-<AM lemma="Trent.2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Trent-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1914-001-p1s2W34-Ta">

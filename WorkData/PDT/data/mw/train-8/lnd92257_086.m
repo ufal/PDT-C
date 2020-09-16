@@ -90,7 +90,7 @@
 <LM>w#w-lnd92257-086-p2s2w4</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92257-086-p2s2w5">
 <src.rf>manual</src.rf>
@@ -631,7 +631,7 @@
 <LM>w#w-lnd92257-086-p2s5w14</LM>
 </w.rf>
 <form>členy</form>
-<tag lemma="člen" src="orig" selected="1">NNMP7-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-lnd92257-086-p2s5w15">
 <src.rf>manual</src.rf>
@@ -750,7 +750,7 @@
 <LM>w#w-lnd92257-086-p2s7w2</LM>
 </w.rf>
 <form>výbor</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92257-086-p2s7w3">
 <src.rf>manual</src.rf>

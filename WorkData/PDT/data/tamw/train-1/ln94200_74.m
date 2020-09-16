@@ -45,7 +45,7 @@
 <LM>w#w-ln94200-74-p2s1w3</LM>
 </w.rf>
 <form>dny</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-ln94200-74-p2s1w4">
 <src.rf>manual</src.rf>
@@ -311,7 +311,7 @@
 <LM>w#w-ln94200-74-p3s1w6</LM>
 </w.rf>
 <form>Sezimově</form>
-<tag lemma="Sezimův-2_;G" src="orig" selected="1">AUNS6M---------</tag>
+<tag lemma="Sezimův-1_;Y_^(*4a-1)" src="orig" selected="1">AUNS6M---------</tag>
 </m>
 <m id="m-ln94200-74-p3s1w7">
 <src.rf>manual</src.rf>
@@ -327,7 +327,7 @@
 <LM>w#w-ln94200-74-p3s1w8</LM>
 </w.rf>
 <form>dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94200-74-p3s1w9">
 <src.rf>manual</src.rf>

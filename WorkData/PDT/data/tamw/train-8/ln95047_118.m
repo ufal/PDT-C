@@ -457,7 +457,7 @@
 <LM>w#w-ln95047-118-p2s3w17</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-ln95047-118-p2s3w18">
 <src.rf>manual</src.rf>
@@ -521,7 +521,7 @@
 <LM>w#w-ln95047-118-p2s3w25</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-ln95047-118-p2s3w26">
 <src.rf>manual</src.rf>
@@ -926,7 +926,7 @@
 <LM>w#w-ln95047-118-p2s5w34</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-4_^(v_knize,_rukopise,...)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln95047-118-p2s5w35">
 <src.rf>manual</src.rf>

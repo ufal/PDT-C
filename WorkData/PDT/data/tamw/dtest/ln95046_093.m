@@ -106,7 +106,7 @@
 <LM>w#w-ln95046-093-p2s1Bw3</LM>
 </w.rf>
 <form>orgán</form>
-<tag lemma="orgán" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95046-093-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -326,7 +326,7 @@
 <LM>w#w-ln95046-093-p2s1Bw29</LM>
 </w.rf>
 <form>dál</form>
-<tag lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="dál-3_,s_^(také,_za_další)_(^DD**dále-3)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95046-093-p2s1Bw30">
 <src.rf>manual</src.rf>
@@ -368,7 +368,7 @@
 <LM>w#w-ln95046-093-p3s1w4</LM>
 </w.rf>
 <form>člen</form>
-<tag lemma="člen" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-093-p3s1w5">
 <src.rf>manual</src.rf>
@@ -470,7 +470,7 @@
 <LM>w#w-ln95046-093-p3s1w16</LM>
 </w.rf>
 <form>orgánu</form>
-<tag lemma="orgán" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95046-093-p3s1w17">
 <src.rf>manual</src.rf>
@@ -650,7 +650,7 @@
 <form>extremismu</form>
 <tag>
 <AM lemma="extremismus" src="orig">NNIS6-----A----</AM>
-<AM lemma="extremismus_,s_^(^DD**extremizmus)" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="extremismus_,s_^(^DD**extrémizmus)" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-093-p3s2w22">
@@ -776,7 +776,7 @@
 <LM>w#w-ln95046-093-p3s3w8</LM>
 </w.rf>
 <form>tajná</form>
-<tag lemma="tajný" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-ln95046-093-p3s3w9">
 <src.rf>manual</src.rf>
@@ -1405,7 +1405,7 @@
 <LM>w#w-ln95046-093-p3s7w9</LM>
 </w.rf>
 <form>dny</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-ln95046-093-p3s7w10">
 <src.rf>manual</src.rf>
@@ -1685,7 +1685,7 @@
 <LM>w#w-ln95046-093-p3s8w24</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95046-093-p3s8w25">
 <src.rf>manual</src.rf>

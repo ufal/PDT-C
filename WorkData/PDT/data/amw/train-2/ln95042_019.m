@@ -704,7 +704,7 @@
 <LM>w#w-ln95042-019-p3s2w1</LM>
 </w.rf>
 <form>Česko</form>
-<tag lemma="český" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="česko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-ln95042-019-p3s2w2">
 <src.rf>manual</src.rf>
@@ -1177,7 +1177,7 @@
 <LM>w#w-ln95042-019-p4s2w15</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS1----------</tag>
 </m>
 <m id="m-ln95042-019-p4s2w16">
 <src.rf>manual</src.rf>
@@ -1305,7 +1305,7 @@
 <LM>w#w-ln95042-019-p5s1w7</LM>
 </w.rf>
 <form>krejčíků</form>
-<tag lemma="krejčík" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="krejčík-2" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln95042-019-p5s1w8">
 <src.rf>manual</src.rf>
@@ -1754,7 +1754,7 @@
 <LM>w#w-ln95042-019-p6s2w14</LM>
 </w.rf>
 <form>roli</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="role_^(svitek_poslání_pozemek)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln95042-019-p6s2w15">
 <src.rf>manual</src.rf>

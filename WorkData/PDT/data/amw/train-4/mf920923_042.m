@@ -260,7 +260,7 @@
 <LM>w#w-mf920923-042-p4s1w5</LM>
 </w.rf>
 <form>lepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAIS4----2A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAIS4----2A----</tag>
 </m>
 <m id="m-mf920923-042-p4s1w6">
 <src.rf>manual</src.rf>
@@ -332,7 +332,7 @@
 <LM>w#w-mf920923-042-p4s1w14</LM>
 </w.rf>
 <form>dlouhých</form>
-<tag lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">AANP6----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AANP6----1A----</tag>
 </m>
 <m id="m-mf920923-042-p4s1w15">
 <src.rf>manual</src.rf>
@@ -348,7 +348,7 @@
 <LM>w#w-mf920923-042-p4s1w16</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-mf920923-042-p4s1w17">
 <src.rf>manual</src.rf>
@@ -584,7 +584,7 @@
 <LM>w#w-mf920923-042-p4s3w5</LM>
 </w.rf>
 <form>Slovan</form>
-<tag lemma="Slovan-2_;m" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Slovan-2_;G_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920923-042-p4s3w6">
 <src.rf>manual</src.rf>
@@ -733,7 +733,7 @@
 <LM>w#w-mf920923-042-p4s4w9</LM>
 </w.rf>
 <form>nejlepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAMS1----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAMS1----3A----</tag>
 </m>
 <m id="m-mf920923-042-p4s4w10">
 <src.rf>manual</src.rf>
@@ -1774,7 +1774,7 @@
 <form>hodně</form>
 <tag>
 <AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="hodně_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-042-p5s3w33">
@@ -2671,7 +2671,7 @@
 <LM>w#w-mf920923-042-p6s4w2</LM>
 </w.rf>
 <form>proto</form>
-<tag lemma="proto-2_^(dal_mu_co_proto,_tak_proto!)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="proto-2_^(proto_že)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf920923-042-p6s4w3">
 <src.rf>manual</src.rf>

@@ -85,7 +85,7 @@
 <LM>w#w-ln95040-024-p2s1w8</LM>
 </w.rf>
 <form>Marseille</form>
-<tag lemma="Marseille_;G" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="Marseille-2_;G" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln95040-024-p2s1w9">
 <src.rf>manual</src.rf>

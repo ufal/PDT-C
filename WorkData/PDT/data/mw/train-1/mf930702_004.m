@@ -142,7 +142,7 @@
 <LM>w#w-mf930702-004-p2s1w9</LM>
 </w.rf>
 <form>rada</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930702-004-p2s1w10">
 <src.rf>manual</src.rf>
@@ -166,7 +166,7 @@
 <LM>w#w-mf930702-004-p2s1w12</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930702-004-p2s1w13">
 <src.rf>manual</src.rf>
@@ -350,7 +350,7 @@
 <LM>w#w-mf930702-004-p3s1w2</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP2-P1-------</tag>
 </m>
 <m id="m-mf930702-004-p3s1w3">
 <src.rf>manual</src.rf>
@@ -438,7 +438,7 @@
 <LM>w#w-mf930702-004-p3s1w13</LM>
 </w.rf>
 <form>rady</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930702-004-p3s1w14">
 <src.rf>manual</src.rf>
@@ -704,7 +704,7 @@
 <LM>w#w-mf930702-004-p3s2w21</LM>
 </w.rf>
 <form>členové</form>
-<tag lemma="člen" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf930702-004-p3s2w22">
 <src.rf>manual</src.rf>
@@ -720,7 +720,7 @@
 <LM>w#w-mf930702-004-p3s2w23</LM>
 </w.rf>
 <form>rady</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930702-004-p3s2w24">
 <src.rf>manual</src.rf>
@@ -1002,7 +1002,7 @@
 <LM>w#w-mf930702-004-p3s4w6</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930702-004-p3s4w7">
 <src.rf>manual</src.rf>

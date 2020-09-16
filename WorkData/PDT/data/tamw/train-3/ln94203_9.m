@@ -71,7 +71,7 @@
 <form>sice</form>
 <tag>
 <AM lemma="sice-2" src="auto">Db-------------</AM>
-<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta" src="manual" selected="1">J^-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln94203-9-p2s1Aw4">
@@ -156,7 +156,7 @@
 <LM>w#w-ln94203-9-p2s1Cw2</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-ln94203-9-p2s1Cw3">
 <src.rf>manual</src.rf>
@@ -776,7 +776,7 @@
 <LM>w#w-ln94203-9-p4s1w5</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-ln94203-9-p4s1w6">
 <src.rf>manual</src.rf>
@@ -1155,7 +1155,7 @@
 <LM>w#w-ln94203-9-p5s1w6</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrNS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS4----------</tag>
 </m>
 <m id="m-ln94203-9-p5s1w7">
 <src.rf>manual</src.rf>

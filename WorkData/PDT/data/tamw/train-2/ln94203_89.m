@@ -273,7 +273,7 @@
 <LM>w#w-ln94203-89-p2s2w7</LM>
 </w.rf>
 <form>Yorku</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="York-2_;G_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln94203-89-p2s2w8">
 <src.rf>manual</src.rf>
@@ -289,7 +289,7 @@
 <LM>w#w-ln94203-89-p2s2w9</LM>
 </w.rf>
 <form>Ventuře</form>
-<tag lemma="Ventura_;m" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Ventura-1_;G_;m" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94203-89-p2s2w10">
 <src.rf>manual</src.rf>
@@ -759,7 +759,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94203-89-p3s1w16">
@@ -978,7 +978,7 @@
 <LM>w#w-ln94203-89-p3s2w18</LM>
 </w.rf>
 <form>třeba</form>
-<tag lemma="třeba-2" src="auto" selected="1">Db-------------</tag>
+<tag lemma="třeba-1" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94203-89-p3s2w19">
 <src.rf>manual</src.rf>
@@ -1478,7 +1478,7 @@
 <LM>w#w-ln94203-89-p3s4w20</LM>
 </w.rf>
 <form>třeba</form>
-<tag lemma="třeba-2" src="auto" selected="1">Db-------------</tag>
+<tag lemma="třeba-1" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94203-89-p3s4w21">
 <src.rf>manual</src.rf>

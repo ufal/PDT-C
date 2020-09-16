@@ -169,7 +169,7 @@
 <LM>w#w-ln95046-052-p2s1Cw12</LM>
 </w.rf>
 <form>PECKOVÉ</form>
-<tag lemma="Pecková_;Y" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="Pecková-1_;Y_^(*5a-1)" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-ln95046-052-p2s1Cw13">
 <src.rf>manual</src.rf>
@@ -551,7 +551,7 @@
 <LM>w#w-ln95046-052-p3s1w17</LM>
 </w.rf>
 <form>Marty</form>
-<tag lemma="Marta" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="Marta_;Y" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95046-052-p3s1w18">
 <src.rf>manual</src.rf>
@@ -1047,7 +1047,7 @@
 <LM>w#w-ln95046-052-p3s5w10</LM>
 </w.rf>
 <form>Pecková</form>
-<tag lemma="Pecková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Pecková-1_;Y_^(*5a-1)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95046-052-p3s5w11">
 <src.rf>manual</src.rf>
@@ -1350,7 +1350,7 @@
 <LM>w#w-ln95046-052-p4s1w9</LM>
 </w.rf>
 <form>Ej</form>
-<tag lemma="ej" src="orig" selected="1">II-------------</tag>
+<tag lemma="ej-1" src="orig" selected="1">II-------------</tag>
 </m>
 <m id="m-ln95046-052-p4s1w10">
 <src.rf>manual</src.rf>
@@ -1366,7 +1366,7 @@
 <LM>w#w-ln95046-052-p4s1w11</LM>
 </w.rf>
 <form>srdénko</form>
-<tag lemma="srdénko_,s" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="srdénko" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95046-052-p4s1w12">
 <src.rf>manual</src.rf>
@@ -1374,7 +1374,7 @@
 <LM>w#w-ln95046-052-p4s1w12</LM>
 </w.rf>
 <form>moje</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSHS5-S1-------</tag>
+<tag lemma="můj" src="orig" selected="1">PSHS5-S1-------</tag>
 </m>
 <m id="m-ln95046-052-p4s1w13">
 <src.rf>manual</src.rf>
@@ -1512,7 +1512,7 @@
 <LM>w#w-ln95046-052-p4s2w11</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS7---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS7---------1</tag>
 </m>
 <m id="m-ln95046-052-p4s2w12">
 <src.rf>manual</src.rf>
@@ -1743,7 +1743,7 @@
 <LM>w#w-ln95046-052-p4s4w5</LM>
 </w.rf>
 <form>Peckové</form>
-<tag lemma="Pecková_;Y" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="Pecková-1_;Y_^(*5a-1)" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-ln95046-052-p4s4w6">
 <src.rf>manual</src.rf>
@@ -2035,7 +2035,7 @@
 <LM>w#w-ln95046-052-p4s6w5</LM>
 </w.rf>
 <form>podtržená</form>
-<tag lemma="podtržený_^(*4hnout)" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="podtržený" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-ln95046-052-p4s6w6">
 <src.rf>manual</src.rf>
@@ -2263,7 +2263,7 @@
 <LM>w#w-ln95046-052-p4s8w6</LM>
 </w.rf>
 <form>Peckové</form>
-<tag lemma="Pecková_;Y" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Pecková-1_;Y_^(*5a-1)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95046-052-p4s8w7">
 <src.rf>manual</src.rf>
@@ -2385,7 +2385,7 @@
 <LM>w#w-ln95046-052-p4s9w12</LM>
 </w.rf>
 <form>Pecková</form>
-<tag lemma="Pecková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Pecková-1_;Y_^(*5a-1)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95046-052-p4s9w13">
 <src.rf>manual</src.rf>

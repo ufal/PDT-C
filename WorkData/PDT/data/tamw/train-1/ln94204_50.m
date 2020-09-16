@@ -59,7 +59,7 @@
 <LM>w#w-ln94204-50-p1s1w6</LM>
 </w.rf>
 <form>Wallisem</form>
-<tag lemma="Wallis_;Y" src="auto" selected="1">NNMS7-----A----</tag>
+<tag lemma="Wallis-1_;Y" src="auto" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94204-50-p1s1w7">
 <src.rf>manual</src.rf>
@@ -175,7 +175,7 @@
 <LM>w#w-ln94204-50-p2s1Bw11</LM>
 </w.rf>
 <form>Wallisovi</form>
-<tag lemma="Wallis_;Y" src="orig" selected="1">NNMS3-----A---1</tag>
+<tag lemma="Wallis-1_;Y" src="orig" selected="1">NNMS3-----A---1</tag>
 </m>
 <m id="m-ln94204-50-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -247,7 +247,7 @@
 <LM>w#w-ln94204-50-p2s1Bw20</LM>
 </w.rf>
 <form>spravedlnosti</form>
-<tag lemma="spravedlnost_^(*3ý)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="spravedlnost-1_^(*5ý-1)" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94204-50-p2s1Bw21">
 <src.rf>manual</src.rf>
@@ -887,7 +887,7 @@
 <LM>w#w-ln94204-50-p2s5w19</LM>
 </w.rf>
 <form>Wallis</form>
-<tag lemma="Wallis_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Wallis-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-50-p2s5w20">
 <src.rf>manual</src.rf>
@@ -943,7 +943,7 @@
 <LM>w#w-ln94204-50-p2s5w26</LM>
 </w.rf>
 <form>činitelem</form>
-<tag lemma="činitel" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="činitel-1" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94204-50-p2s5w27">
 <src.rf>manual</src.rf>
@@ -1171,7 +1171,7 @@
 <LM>w#w-ln94204-50-p3s2w10</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln94204-50-p3s2w11">
 <src.rf>manual</src.rf>
@@ -1373,7 +1373,7 @@
 <LM>w#w-ln94204-50-p3s3w8</LM>
 </w.rf>
 <form>prvního</form>
-<tag lemma="první" src="orig" selected="1">CrIS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS2----------</tag>
 </m>
 <m id="m-ln94204-50-p3s3w9">
 <src.rf>manual</src.rf>

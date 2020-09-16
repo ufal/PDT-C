@@ -43,7 +43,7 @@
 <LM>w#w-ln94210-27-p1s1w4</LM>
 </w.rf>
 <form>cestě</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94210-27-p1s1w5">
 <src.rf>manual</src.rf>
@@ -59,7 +59,7 @@
 <LM>w#w-ln94210-27-p1s1w6</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 </s>
 <s id="m-ln94210-27-p2s1A">
@@ -181,7 +181,7 @@
 <LM>w#w-ln94210-27-p2s1Bw7</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-ln94210-27-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -237,7 +237,7 @@
 <LM>w#w-ln94210-27-p2s1Bw14</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94210-27-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -351,7 +351,7 @@
 <LM>w#w-ln94210-27-p2s2w3</LM>
 </w.rf>
 <form>našeho</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSZS2-P1-------</tag>
 </m>
 <m id="m-ln94210-27-p2s2w4">
 <src.rf>manual</src.rf>
@@ -558,7 +558,7 @@
 <LM>w#w-ln94210-27-p3s1w3</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-4_^(v_knize,_rukopise,...)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94210-27-p3s1w4">
 <src.rf>manual</src.rf>

@@ -1890,7 +1890,7 @@
 <LM>w#w-ln94204-158-p6s1w22</LM>
 </w.rf>
 <form>benzinovými</form>
-<tag lemma="benzinový" src="orig" selected="1">AAIP7----1A----</tag>
+<tag lemma="benzinový_,s_^(^DD**benzínový)" src="orig" selected="1">AAIP7----1A----</tag>
 </m>
 <m id="m-ln94204-158-p6s1w23">
 <src.rf>manual</src.rf>
@@ -1948,7 +1948,7 @@
 <LM>w#w-ln94204-158-p6s1w28</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln94204-158-p6s1w29">
 <src.rf>manual</src.rf>

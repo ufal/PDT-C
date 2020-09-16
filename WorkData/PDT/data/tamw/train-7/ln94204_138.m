@@ -933,7 +933,7 @@
 <LM>w#w-ln94204-138-p4s4w20</LM>
 </w.rf>
 <form>Hanny</form>
-<tag lemma="Hanna_;Y" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="Hanna-2_;Y" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94204-138-p4s4w21">
 <src.rf>manual</src.rf>
@@ -1689,7 +1689,7 @@
 <LM>w#w-ln94204-138-p5s1w13</LM>
 </w.rf>
 <form>dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94204-138-p5s1w14">
 <src.rf>manual</src.rf>
@@ -1863,7 +1863,7 @@
 <LM>w#w-ln94204-138-p5s2w15</LM>
 </w.rf>
 <form>zprůhlednění</form>
-<tag lemma="zprůhlednění_^(*3it)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="zprůhlednění_^(*2t)_(*3it)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln94204-138-p5s2w16">
 <src.rf>manual</src.rf>
@@ -2313,7 +2313,7 @@
 <LM>w#w-ln94204-138-p6s4w8</LM>
 </w.rf>
 <form>politiky</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94204-138-p6s4w9">
 <src.rf>manual</src.rf>
@@ -2345,7 +2345,7 @@
 <LM>w#w-ln94204-138-p6s4w12</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-ln94204-138-p6s4w13">
 <src.rf>manual</src.rf>
@@ -2642,7 +2642,7 @@
 <LM>w#w-ln94204-138-p7s2w3</LM>
 </w.rf>
 <form>prvních</form>
-<tag lemma="první" src="orig" selected="1">CrFP6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFP6----------</tag>
 </m>
 <m id="m-ln94204-138-p7s2w4">
 <src.rf>manual</src.rf>
@@ -4209,7 +4209,7 @@
 <LM>w#w-ln94204-138-p9s3w3</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln94204-138-p9s3w4">
 <src.rf>manual</src.rf>
@@ -4357,7 +4357,7 @@
 <LM>w#w-ln94204-138-p10s2w2</LM>
 </w.rf>
 <form>málo</form>
-<tag lemma="málo-3_^(málo_+_příd._jm.,_př._byl_málo_důsledný)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="málo-3_^(málo_důsledný)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94204-138-p10s2w3">
 <src.rf>manual</src.rf>
@@ -5009,7 +5009,7 @@
 <LM>w#w-ln94204-138-p10s5w20</LM>
 </w.rf>
 <form>práva</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln94204-138-p10s5w21">
 <src.rf>manual</src.rf>

@@ -136,7 +136,7 @@
 <LM>w#w-lnd94104-078-p1s1Bw1</LM>
 </w.rf>
 <form>Moc</form>
-<tag lemma="moc-3_^(velmi,_ve_spojení_s_adj.,_př._moc_hezká)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="moc-3_^(moc_hezká,_moc_peněz)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd94104-078-p1s1Bw2">
 <src.rf>manual</src.rf>
@@ -593,7 +593,7 @@
 <LM>w#w-lnd94104-078-p1s4w8</LM>
 </w.rf>
 <form>zaměstnání</form>
-<tag lemma="zaměstnání-1_^(všeob._význam:_činnost,_zaměstnání)_(*5at-1)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="zaměstnání_^(*3at)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-lnd94104-078-p1s4w9">
 <src.rf>manual</src.rf>
@@ -625,7 +625,7 @@
 <LM>w#w-lnd94104-078-p1s4w12</LM>
 </w.rf>
 <form>dál</form>
-<tag lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="dál-3_,s_^(také,_za_další)_(^DD**dále-3)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd94104-078-p1s4w13">
 <src.rf>manual</src.rf>
@@ -753,7 +753,7 @@
 <LM>w#w-lnd94104-078-p1s5w6</LM>
 </w.rf>
 <form>dál</form>
-<tag lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="dál-3_,s_^(také,_za_další)_(^DD**dále-3)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd94104-078-p1s5w7">
 <src.rf>manual</src.rf>
@@ -1226,7 +1226,7 @@
 <LM>w#w-lnd94104-078-p1s7w39</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-lnd94104-078-p1s7w40">
 <src.rf>manual</src.rf>
@@ -2374,7 +2374,7 @@
 <LM>w#w-lnd94104-078-p1s12w40</LM>
 </w.rf>
 <form>mé</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSYP4-S1------1</tag>
+<tag lemma="můj" src="orig" selected="1">PSYP4-S1------1</tag>
 </m>
 <m id="m-lnd94104-078-p1s12w41">
 <src.rf>manual</src.rf>
@@ -2748,7 +2748,7 @@
 <LM>w#w-lnd94104-078-p1s15w25</LM>
 </w.rf>
 <form>prodlení</form>
-<tag lemma="prodlení_^(nebezpečí_z...;_zpoždění)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="prodlení_^(*3ít)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-lnd94104-078-p1s15w26">
 <src.rf>manual</src.rf>
@@ -3147,7 +3147,7 @@
 <LM>w#w-lnd94104-078-p1s18w10</LM>
 </w.rf>
 <form>třeba</form>
-<tag lemma="třeba-2" src="auto" selected="1">Db-------------</tag>
+<tag lemma="třeba-1" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd94104-078-p1s18w11">
 <src.rf>manual</src.rf>
@@ -3409,7 +3409,7 @@
 <LM>w#w-lnd94104-078-p1s21w2</LM>
 </w.rf>
 <form>spořitelně</form>
-<tag lemma="spořitelna_^(místo;_př._Česká_spořitelna)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="spořitelna" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd94104-078-p1s21w3">
 <src.rf>manual</src.rf>

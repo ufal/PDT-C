@@ -19,7 +19,7 @@
 <LM>w#w-lnd92255-133-p1s1w1</LM>
 </w.rf>
 <form>Svanův</form>
-<tag lemma="Svanův_;Y_^(*2a)" src="auto" selected="1">AUIS1M---------</tag>
+<tag lemma="Svanův_;Y_^(*2)_(*2a)" src="auto" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-lnd92255-133-p1s1w2">
 <src.rf>manual</src.rf>
@@ -55,7 +55,7 @@
 <LM>w#w-lnd92255-133-p2s2w1</LM>
 </w.rf>
 <form>Nejlepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAMS1----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAMS1----3A----</tag>
 </m>
 <m id="m-lnd92255-133-p2s2w2">
 <src.rf>manual</src.rf>
@@ -183,7 +183,7 @@
 <LM>w#w-lnd92255-133-p2s2w17</LM>
 </w.rf>
 <form>bílé</form>
-<tag lemma="bílý" src="orig" selected="1">AAFS2----1A----</tag>
+<tag lemma="bílý_;o" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-lnd92255-133-p2s2w18">
 <src.rf>manual</src.rf>
@@ -225,7 +225,7 @@
 <LM>w#w-lnd92255-133-p2s3w3</LM>
 </w.rf>
 <form>peloton</form>
-<tag lemma="peloton" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="peloton_,s_^(^DD**peleton)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-lnd92255-133-p2s3w4">
 <src.rf>manual</src.rf>
@@ -329,7 +329,7 @@
 <LM>w#w-lnd92255-133-p2s3w16</LM>
 </w.rf>
 <form>Vasově</form>
-<tag lemma="Vasův_;Y_^(*2a)" src="orig" selected="1">AUIS6M---------</tag>
+<tag lemma="Vasův-1_;Y_^(*4a-1)" src="orig" selected="1">AUIS6M---------</tag>
 </m>
 <m id="m-lnd92255-133-p2s3w17">
 <src.rf>manual</src.rf>
@@ -766,7 +766,7 @@
 <LM>w#w-lnd92255-133-p2s5w11</LM>
 </w.rf>
 <form>Vasův</form>
-<tag lemma="Vasův_;Y_^(*2a)" src="orig" selected="1">AUIS4M---------</tag>
+<tag lemma="Vasův-1_;Y_^(*4a-1)" src="orig" selected="1">AUIS4M---------</tag>
 </m>
 <m id="m-lnd92255-133-p2s5w12">
 <src.rf>manual</src.rf>

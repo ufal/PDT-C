@@ -938,7 +938,7 @@
 <LM>w#w-ln94211-117-p3s2w2</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-ln94211-117-p3s2w3">
 <src.rf>manual</src.rf>
@@ -1141,7 +1141,7 @@
 <LM>w#w-ln94211-117-p3s4w10</LM>
 </w.rf>
 <form>málo</form>
-<tag lemma="málo-1_^(málo_+_2._p.,_málo_peněz)" src="orig" selected="1">Ca--4----------</tag>
+<tag lemma="málo-1_^(málo_peněz)" src="orig" selected="1">Ca--4----------</tag>
 </m>
 <m id="m-ln94211-117-p3s4w11">
 <src.rf>manual</src.rf>
@@ -1437,7 +1437,7 @@
 <LM>w#w-ln94211-117-p4s1w21</LM>
 </w.rf>
 <form>dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS6-----A---9</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS6-----A---9</tag>
 </m>
 <m id="m-ln94211-117-p4s1w22">
 <src.rf>manual</src.rf>
@@ -1495,7 +1495,7 @@
 <LM>w#w-ln94211-117-p4s2w6</LM>
 </w.rf>
 <form>nedá</form>
-<tag lemma="dát" src="orig" selected="1">VB-S---3P-NAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VB-S---3P-NAP--</tag>
 </m>
 <m id="m-ln94211-117-p4s2w7">
 <src.rf>manual</src.rf>
@@ -1766,7 +1766,7 @@
 <LM>w#w-ln94211-117-p4s4w21</LM>
 </w.rf>
 <form>jet</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="orig" selected="1">Vf--------A-I--</tag>
+<tag lemma="jet-1" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln94211-117-p4s4w22">
 <src.rf>manual</src.rf>
@@ -1858,7 +1858,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -2795,7 +2795,7 @@
 <LM>w#w-ln94211-117-p6s1w13</LM>
 </w.rf>
 <form>bojí</form>
-<tag lemma="bát" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="bát-1" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94211-117-p6s1w14">
 <src.rf>manual</src.rf>

@@ -163,7 +163,7 @@
 <LM>w#w-mf920922-048-p1s1w19</LM>
 </w.rf>
 <form>naše</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSNS4-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSNS4-P1-------</tag>
 </m>
 <m id="m-mf920922-048-p1s1w20">
 <src.rf>manual</src.rf>
@@ -240,7 +240,7 @@
 <LM>w#w-mf920922-048-p2s2w5</LM>
 </w.rf>
 <form>Boby</form>
-<tag lemma="Boby_;m" src="orig" selected="1">NNXXX-----A----</tag>
+<tag lemma="Boby-2_;m" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-mf920922-048-p2s2w6">
 <src.rf>manual</src.rf>
@@ -666,7 +666,7 @@
 <LM>w#w-mf920922-048-p8s2w3</LM>
 </w.rf>
 <form>Slovan</form>
-<tag lemma="Slovan-2_;m" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Slovan-2_;G_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920922-048-p8s2w4">
 <src.rf>manual</src.rf>

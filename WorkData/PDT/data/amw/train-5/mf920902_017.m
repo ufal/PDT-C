@@ -251,7 +251,7 @@
 <LM>w#w-mf920902-017-p2s1w18</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-mf920902-017-p2s1w19">
 <src.rf>manual</src.rf>
@@ -589,7 +589,7 @@
 <LM>w#w-mf920902-017-p2s4w13</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf920902-017-p2s4w14">
 <src.rf>manual</src.rf>

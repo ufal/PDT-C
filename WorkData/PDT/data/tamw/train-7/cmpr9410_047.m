@@ -132,7 +132,7 @@
 <form>manager</form>
 <tag>
 <AM lemma="manažer" src="orig">NNMS1-----A----</AM>
-<AM lemma="manager_,s_^(^DD**manažer)" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="manager-1_,s_^(^DD**manažer-1)" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 </s>
@@ -393,7 +393,7 @@
 <LM>w#w-cmpr9410-047-p4s2w12</LM>
 </w.rf>
 <form>nemocí</form>
-<tag lemma="nemoc_^(choroba)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="nemoc" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-cmpr9410-047-p4s2w13">
 <src.rf>manual</src.rf>
@@ -621,7 +621,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>svojí</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS7----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS7----------</tag>
 </m>
 <m id="m-cmpr9410-047-p5s1w16">
 <src.rf>manual</src.rf>
@@ -1399,7 +1399,7 @@
 <LM>w#w-cmpr9410-047-p7s4w2</LM>
 </w.rf>
 <form>roli</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="role_^(svitek_poslání_pozemek)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-cmpr9410-047-p7s4w3">
 <src.rf>manual</src.rf>
@@ -3171,7 +3171,7 @@
 <LM>w#w-cmpr9410-047-p11s1w10</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-cmpr9410-047-p11s1w11">
 <src.rf>manual</src.rf>
@@ -3695,7 +3695,7 @@
 <form>managery</form>
 <tag>
 <AM lemma="manažer" src="orig">NNMP4-----A----</AM>
-<AM lemma="manager_,s_^(^DD**manažer)" src="manual" selected="1">NNMP4-----A----</AM>
+<AM lemma="manager-1_,s_^(^DD**manažer-1)" src="manual" selected="1">NNMP4-----A----</AM>
 </tag>
 </m>
 </s>
@@ -3708,7 +3708,7 @@
 <form>Hodně</form>
 <tag>
 <AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="hodně_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-047-p13s1w2">
@@ -3792,7 +3792,7 @@
 <form>managery</form>
 <tag>
 <AM lemma="manažer" src="orig">NNMP4-----A----</AM>
-<AM lemma="manager_,s_^(^DD**manažer)" src="manual" selected="1">NNMP4-----A----</AM>
+<AM lemma="manager-1_,s_^(^DD**manažer-1)" src="manual" selected="1">NNMP4-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-047-p13s1w12">
@@ -4140,7 +4140,7 @@
 <LM>w#w-cmpr9410-047-p13s5w10</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-cmpr9410-047-p13s5w11">
 <src.rf>manual</src.rf>
@@ -4412,7 +4412,7 @@
 <LM>w#w-cmpr9410-047-p13s8w2</LM>
 </w.rf>
 <form>jejím</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS6FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS6FS3-------</tag>
 </m>
 <m id="m-cmpr9410-047-p13s8w3">
 <src.rf>manual</src.rf>
@@ -4532,7 +4532,7 @@
 <LM>w#w-cmpr9410-047-p13s8w17</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-cmpr9410-047-p13s8w18">
 <src.rf>manual</src.rf>
@@ -4604,7 +4604,7 @@
 <form>managerů</form>
 <tag>
 <AM lemma="manažer" src="orig">NNMP2-----A----</AM>
-<AM lemma="manager_,s_^(^DD**manažer)" src="manual" selected="1">NNMP2-----A----</AM>
+<AM lemma="manager-1_,s_^(^DD**manažer-1)" src="manual" selected="1">NNMP2-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-047-p13s9w7">

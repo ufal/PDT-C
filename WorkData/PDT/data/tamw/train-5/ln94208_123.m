@@ -123,7 +123,7 @@
 <LM>w#w-ln94208-123-p2s1w9</LM>
 </w.rf>
 <form>nejlepších</form>
-<tag lemma="dobrý" src="orig" selected="1">AAMP2----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAMP2----3A----</tag>
 </m>
 <m id="m-ln94208-123-p2s1w10">
 <src.rf>manual</src.rf>

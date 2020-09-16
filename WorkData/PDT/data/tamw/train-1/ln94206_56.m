@@ -51,7 +51,7 @@
 <LM>w#w-ln94206-56-p1s1w5</LM>
 </w.rf>
 <form>málo</form>
-<tag lemma="málo-1_^(málo_+_2._p.,_málo_peněz)" src="orig" selected="1">Ca--1----------</tag>
+<tag lemma="málo-1_^(málo_peněz)" src="orig" selected="1">Ca--1----------</tag>
 </m>
 <m id="m-ln94206-56-p1s1w6">
 <src.rf>manual</src.rf>
@@ -294,7 +294,7 @@
 <LM>w#w-ln94206-56-p2s2w6</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94206-56-p2s2w7">
 <src.rf>manual</src.rf>
@@ -552,7 +552,7 @@
 <LM>w#w-ln94206-56-p3s1w15</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="mluvčí-2" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94206-56-p3s1w16">
 <src.rf>manual</src.rf>

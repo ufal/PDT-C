@@ -83,7 +83,7 @@
 <LM>w#w-mf930701-166-p1s1w9</LM>
 </w.rf>
 <form>Turky</form>
-<tag lemma="Turek_;E" src="orig" selected="1">NNMP7-----A----</tag>
+<tag lemma="Turek_;E_;Y" src="orig" selected="1">NNMP7-----A----</tag>
 </m>
 </s>
 <s id="m-mf930701-166-p2s1">
@@ -213,7 +213,7 @@
 <LM>w#w-mf930701-166-p2s1w16</LM>
 </w.rf>
 <form>Turky</form>
-<tag lemma="Turek_;E" src="orig" selected="1">NNMP7-----A----</tag>
+<tag lemma="Turek_;E_;Y" src="orig" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-mf930701-166-p2s1w17">
 <src.rf>manual</src.rf>
@@ -593,7 +593,7 @@
 <LM>w#w-mf930701-166-p2s3w16</LM>
 </w.rf>
 <form>otravu</form>
-<tag lemma="otrava" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="otrava-1" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf930701-166-p2s3w17">
 <src.rf>manual</src.rf>

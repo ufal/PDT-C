@@ -313,7 +313,7 @@
 <LM>w#w-ln94208-103-p2s2w11</LM>
 </w.rf>
 <form>výbor</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94208-103-p2s2w12">
 <src.rf>manual</src.rf>
@@ -337,7 +337,7 @@
 <LM>w#w-ln94208-103-p2s2w14</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94208-103-p2s2w15">
 <src.rf>manual</src.rf>
@@ -702,7 +702,7 @@
 <LM>w#w-ln94208-103-p3s2w7</LM>
 </w.rf>
 <form>umění</form>
-<tag lemma="umění_^(mít_schopnost_něco_dělat)_(*2t)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="umění_^(*2t)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln94208-103-p3s2w8">
 <src.rf>manual</src.rf>

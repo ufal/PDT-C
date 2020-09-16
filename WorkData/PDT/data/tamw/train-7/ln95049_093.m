@@ -310,7 +310,7 @@
 <LM>w#w-ln95049-093-p2s1Bw24</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95049-093-p2s1Bw25">
 <src.rf>manual</src.rf>
@@ -398,7 +398,7 @@
 <LM>w#w-ln95049-093-p2s1Bw35</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-ln95049-093-p2s1Bw36">
 <src.rf>manual</src.rf>
@@ -973,7 +973,7 @@
 <LM>w#w-ln95049-093-p2s4w31</LM>
 </w.rf>
 <form>prostředky</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-ln95049-093-p2s4w32">
 <src.rf>manual</src.rf>
@@ -997,7 +997,7 @@
 <LM>w#w-ln95049-093-p2s4w34</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln95049-093-p2s4w35">
 <src.rf>manual</src.rf>

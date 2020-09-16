@@ -166,7 +166,7 @@
 <AM lemma="matka-2_^(maminka)" src="auto">NNFP1-----A----</AM>
 <AM lemma="matka-2_^(maminka)" src="auto">NNFP4-----A----</AM>
 <AM lemma="matka-2_^(maminka)" src="auto">NNFP5-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto" selected="1">NNFS2-----A----</AM>
+<AM lemma="matka" src="auto" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-016-p2s1w12">
@@ -287,7 +287,7 @@
 <LM>w#w-mf930701-016-p2s1w26</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS1FS3-------</tag>
 </m>
 <m id="m-mf930701-016-p2s1w27">
 <src.rf>manual</src.rf>
@@ -391,7 +391,7 @@
 <LM>w#w-mf930701-016-p2s1w39</LM>
 </w.rf>
 <form>děti</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-mf930701-016-p2s1w40">
 <src.rf>manual</src.rf>
@@ -748,7 +748,7 @@
 <LM>w#w-mf930701-016-p2s3w10</LM>
 </w.rf>
 <form>Kočí</form>
-<tag lemma="kočí" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="kočí-2" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930701-016-p2s3w11">
 <src.rf>manual</src.rf>
@@ -1177,7 +1177,7 @@
 <LM>w#w-mf930701-016-p2s6w9</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-mf930701-016-p2s6w10">
 <src.rf>manual</src.rf>
@@ -1485,7 +1485,7 @@
 <LM>w#w-mf930701-016-p2s10w4</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-mf930701-016-p2s10w5">
 <src.rf>manual</src.rf>
@@ -1551,7 +1551,7 @@
 <LM>w#w-mf930701-016-p2s11w3</LM>
 </w.rf>
 <form>Kočí</form>
-<tag lemma="kočí" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="kočí-2" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930701-016-p2s11w4">
 <src.rf>manual</src.rf>

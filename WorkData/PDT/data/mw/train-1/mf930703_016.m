@@ -519,7 +519,7 @@
 <LM>w#w-mf930703-016-p3s2w4</LM>
 </w.rf>
 <form>tajný</form>
-<tag lemma="tajný" src="orig" selected="1">AAIS1----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-mf930703-016-p3s2w5">
 <src.rf>manual</src.rf>
@@ -967,7 +967,7 @@
 <LM>w#w-mf930703-016-p4s1w1</LM>
 </w.rf>
 <form>Napadená</form>
-<tag lemma="napadený_^(*3nout)" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="napadený" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-mf930703-016-p4s1w2">
 <src.rf>manual</src.rf>
@@ -1488,7 +1488,7 @@
 <LM>w#w-mf930703-016-p4s4w9</LM>
 </w.rf>
 <form>dnu</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-mf930703-016-p4s4w10">
 <src.rf>manual</src.rf>

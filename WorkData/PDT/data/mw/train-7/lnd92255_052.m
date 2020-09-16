@@ -1030,7 +1030,7 @@
 <LM>w#w-lnd92255-052-p3s7w13</LM>
 </w.rf>
 <form>pozdních</form>
-<tag lemma="pozdní-2_^(v_roce,_ročním_období)" src="orig" selected="1">AAFP2----1A----</tag>
+<tag lemma="pozdní" src="orig" selected="1">AAFP2----1A----</tag>
 </m>
 <m id="m-lnd92255-052-p3s7w14">
 <src.rf>manual</src.rf>

@@ -59,7 +59,7 @@
 <LM>w#w-mf930709-135-p1s1w6</LM>
 </w.rf>
 <form>virem</form>
-<tag lemma="vir" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="vir-1" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-mf930709-135-p1s1w7">
 <src.rf>manual</src.rf>
@@ -80,7 +80,7 @@
 <LM>w#w-mf930709-135-p2s1w1</LM>
 </w.rf>
 <form>Akron</form>
-<tag lemma="Akron_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Akron-2_;G" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930709-135-p2s1w2">
 <src.rf>manual</src.rf>
@@ -130,7 +130,7 @@
 <LM>w#w-mf930709-135-p2s2w2</LM>
 </w.rf>
 <form>Akronu</form>
-<tag lemma="Akron_;G" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Akron-2_;G" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-mf930709-135-p2s2w3">
 <src.rf>manual</src.rf>
@@ -290,7 +290,7 @@
 <LM>w#w-mf930709-135-p2s2w22</LM>
 </w.rf>
 <form>virem</form>
-<tag lemma="vir" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="vir-1" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-mf930709-135-p2s2w23">
 <src.rf>manual</src.rf>
@@ -521,7 +521,7 @@
 <LM>w#w-mf930709-135-p2s4w1</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrFS7----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS7----------</tag>
 </m>
 <m id="m-mf930709-135-p2s4w2">
 <src.rf>manual</src.rf>
@@ -624,7 +624,7 @@
 <LM>w#w-mf930709-135-p2s5w2</LM>
 </w.rf>
 <form>David</form>
-<tag lemma="David_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="David-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-135-p2s5w3">
 <src.rf>manual</src.rf>
@@ -762,7 +762,7 @@
 <LM>w#w-mf930709-135-p2s5w17</LM>
 </w.rf>
 <form>virem</form>
-<tag lemma="vir" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="vir-1" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-mf930709-135-p2s5w18">
 <src.rf>manual</src.rf>
@@ -963,7 +963,7 @@
 <LM>w#w-mf930709-135-p2s6w10</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS2---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS2---------1</tag>
 </m>
 <m id="m-mf930709-135-p2s6w11">
 <src.rf>manual</src.rf>

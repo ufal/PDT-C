@@ -347,7 +347,7 @@
 <LM>w#w-ln95041-074-p2s3w6</LM>
 </w.rf>
 <form>letům</form>
-<tag lemma="rok" src="orig" selected="1">NNNP3-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP3-----A----</tag>
 </m>
 <m id="m-ln95041-074-p2s3w7">
 <src.rf>manual</src.rf>

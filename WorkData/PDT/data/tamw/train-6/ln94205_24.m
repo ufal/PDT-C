@@ -212,7 +212,7 @@
 <LM>w#w-ln94205-24-p2s1Bw17</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-ln94205-24-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -474,7 +474,7 @@
 <LM>w#w-ln94205-24-p3s1w13</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-ln94205-24-p3s1w14">
 <src.rf>manual</src.rf>
@@ -752,7 +752,7 @@
 <LM>w#w-ln94205-24-p4s1w7</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-ln94205-24-p4s1w8">
 <src.rf>manual</src.rf>
@@ -1197,7 +1197,7 @@
 <LM>w#w-ln94205-24-p6s1w1</LM>
 </w.rf>
 <form>Mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-24-p6s1w2">
 <src.rf>manual</src.rf>
@@ -1301,7 +1301,7 @@
 <LM>w#w-ln94205-24-p6s1w14</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP4FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XP4FS3-------</tag>
 </m>
 <m id="m-ln94205-24-p6s1w15">
 <src.rf>manual</src.rf>
@@ -1325,7 +1325,7 @@
 <LM>w#w-ln94205-24-p6s1w17</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS4----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS4----------</tag>
 </m>
 <m id="m-ln94205-24-p6s1w18">
 <src.rf>manual</src.rf>
@@ -1367,7 +1367,7 @@
 <LM>w#w-ln94205-24-p6s2w2</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-ln94205-24-p6s2w3">
 <src.rf>manual</src.rf>
@@ -1492,7 +1492,7 @@
 <LM>w#w-ln94205-24-p6s3w6</LM>
 </w.rf>
 <form>druhém</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-ln94205-24-p6s3w7">
 <src.rf>manual</src.rf>

@@ -244,7 +244,7 @@
 <AM lemma="druhý" src="auto">CrIP4---------6</AM>
 <AM lemma="druhý" src="auto">CrIP5---------6</AM>
 <AM lemma="druhý" src="auto">CrIS1----------</AM>
-<AM lemma="druhý" src="auto" recommended="1">CrIS4----------</AM>
+<AM lemma="druhý`2" src="auto" recommended="1">CrIS4----------</AM>
 <AM lemma="druhý" src="auto">CrIS5----------</AM>
 <AM lemma="druhý" src="auto">CrMP1---------6</AM>
 <AM lemma="druhý" src="auto">CrMP4---------6</AM>
@@ -333,7 +333,7 @@
 <form>myslím</form>
 <tag>
 <AM lemma="mysl" src="auto">NNFP3-----A----</AM>
-<AM lemma="myslet" src="auto" selected="1">VB-S---1P-AAI--</AM>
+<AM lemma="myslit" src="auto" selected="1">VB-S---1P-AAI--</AM>
 <AM lemma="myslit" src="auto" recommended="1">VB-S---1P-AAI--</AM>
 </tag>
 </m>
@@ -380,7 +380,7 @@
 <AM lemma="druhý" src="auto">CrIP4---------6</AM>
 <AM lemma="druhý" src="auto">CrIP5---------6</AM>
 <AM lemma="druhý" src="auto">CrIS1----------</AM>
-<AM lemma="druhý" src="auto" recommended="1">CrIS4----------</AM>
+<AM lemma="druhý`2" src="auto" recommended="1">CrIS4----------</AM>
 <AM lemma="druhý" src="auto">CrIS5----------</AM>
 <AM lemma="druhý" src="auto">CrMP1---------6</AM>
 <AM lemma="druhý" src="auto">CrMP4---------6</AM>
@@ -586,7 +586,7 @@
 <AM lemma="vysvědčení_,a_^(ve_škole)" src="auto">NNNS5-----A----</AM>
 <AM lemma="vysvědčení_,a_^(ve_škole)" src="auto">NNNS6-----A----</AM>
 <AM lemma="vysvědčení_^(ve_škole)" src="manual">NNNS4-----A----</AM>
-<AM lemma="vysvědčení_^(ve_škole)_(*3it)" src="manual" selected="1">NNNS4-----A----</AM>
+<AM lemma="vysvědčení_^(*3it)" src="manual" selected="1">NNNS4-----A----</AM>
 </tag>
 </m>
 <m id="m020-d-id121008-punct">
@@ -639,7 +639,7 @@
 <AM lemma="vysvědčení_,a_^(ve_škole)" src="auto">NNNS5-----A----</AM>
 <AM lemma="vysvědčení_,a_^(ve_škole)" src="auto">NNNS6-----A----</AM>
 <AM lemma="vysvědčení_^(ve_škole)" src="manual">NNNS4-----A----</AM>
-<AM lemma="vysvědčení_^(ve_škole)_(*3it)" src="manual" selected="1">NNNS4-----A----</AM>
+<AM lemma="vysvědčení_^(*3it)" src="manual" selected="1">NNNS4-----A----</AM>
 </tag>
 </m>
 <m id="m020-d1t1427-1">
@@ -684,7 +684,7 @@
 <AM lemma="zaměstnání-1_^(všeob._význam:_činnost,_zaměstnání)_(*5at-1)" src="auto">NNNP4-----A----</AM>
 <AM lemma="zaměstnání-1_^(všeob._význam:_činnost,_zaměstnání)_(*5at-1)" src="auto">NNNP5-----A----</AM>
 <AM lemma="zaměstnání-1_^(všeob._význam:_činnost,_zaměstnání)_(*5at-1)" src="auto">NNNS1-----A----</AM>
-<AM lemma="zaměstnání-1_^(všeob._význam:_činnost,_zaměstnání)_(*5at-1)" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="zaměstnání_^(*3at)" src="auto" recommended="1">NNNS2-----A----</AM>
 <AM lemma="zaměstnání-1_^(všeob._význam:_činnost,_zaměstnání)_(*5at-1)" src="auto">NNNS3-----A----</AM>
 <AM lemma="zaměstnání-1_^(všeob._význam:_činnost,_zaměstnání)_(*5at-1)" src="auto">NNNS4-----A----</AM>
 <AM lemma="zaměstnání-1_^(všeob._význam:_činnost,_zaměstnání)_(*5at-1)" src="auto">NNNS5-----A----</AM>
@@ -832,7 +832,7 @@
 </w.rf>
 <form>nám</form>
 <tag>
-<AM lemma="já" src="auto" recommended="1">PP-P3--1-------</AM>
+<AM lemma="my" src="auto" recommended="1">PP-P3--1-------</AM>
 <AM lemma="náměstí_:B" src="auto">NNNXX-----A---8</AM>
 </tag>
 </m>
@@ -980,7 +980,7 @@
 <form>myslím</form>
 <tag>
 <AM lemma="mysl" src="auto">NNFP3-----A----</AM>
-<AM lemma="myslet" src="auto" selected="1">VB-S---1P-AAI--</AM>
+<AM lemma="myslit" src="auto" selected="1">VB-S---1P-AAI--</AM>
 <AM lemma="myslit" src="auto" recommended="1">VB-S---1P-AAI--</AM>
 </tag>
 </m>
@@ -1146,7 +1146,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m020-717-721">
@@ -1228,7 +1228,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m020-d1t1444-26">
@@ -1428,7 +1428,7 @@
 <AM lemma="vysvědčení_,a_^(ve_škole)" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="vysvědčení_,a_^(ve_škole)" src="auto">NNNS5-----A----</AM>
 <AM lemma="vysvědčení_,a_^(ve_škole)" src="auto">NNNS6-----A----</AM>
-<AM lemma="vysvědčení_^(ve_škole)_(*3it)" src="manual" selected="1">NNNS4-----A----</AM>
+<AM lemma="vysvědčení_^(*3it)" src="manual" selected="1">NNNS4-----A----</AM>
 </tag>
 </m>
 <m id="m020-753-762">
@@ -1676,7 +1676,7 @@
 <form>právo</form>
 <tag>
 <AM lemma="práv_^(oprávněný)" src="auto">ACNS------A----</AM>
-<AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto" selected="1">NNNS1-----A----</AM>
+<AM lemma="právo" src="auto" selected="1">NNNS1-----A----</AM>
 <AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto">NNNS5-----A----</AM>
 </tag>
@@ -2324,7 +2324,7 @@
 <AM lemma="můj_^(přivlast.)" src="auto">PSHS5-S1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSIP1-S1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSIP5-S1-------</AM>
-<AM lemma="můj_^(přivlast.)" src="auto" selected="1">PSNS4-S1-------</AM>
+<AM lemma="můj" src="auto" selected="1">PSNS4-S1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto" recommended="1">PSXP4-S1-------</AM>
 </tag>
 </m>
@@ -2616,7 +2616,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m020-d1t1488-27">
@@ -3372,7 +3372,7 @@
 <tag>
 <AM lemma="vrátnice-1_^(místnost_pro_vrátného)" src="auto">NNFS3-----A----</AM>
 <AM lemma="vrátnice-1_^(místnost_pro_vrátného)" src="auto">NNFS4-----A----</AM>
-<AM lemma="vrátnice-1_^(místnost_pro_vrátného)" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="vrátnice" src="auto" recommended="1">NNFS6-----A----</AM>
 <AM lemma="vrátnice-2_,n_^(vráteň)" src="auto">NNFS3-----A----</AM>
 <AM lemma="vrátnice-2_,n_^(vráteň)" src="auto">NNFS4-----A----</AM>
 <AM lemma="vrátnice-2_,n_^(vráteň)" src="auto">NNFS6-----A----</AM>
@@ -3655,7 +3655,7 @@
 <form>vrátnicí</form>
 <tag>
 <AM lemma="vrátnice-1_^(místnost_pro_vrátného)" src="auto">NNFP2-----A---1</AM>
-<AM lemma="vrátnice-1_^(místnost_pro_vrátného)" src="auto" recommended="1">NNFS7-----A----</AM>
+<AM lemma="vrátnice" src="auto" recommended="1">NNFS7-----A----</AM>
 <AM lemma="vrátnice-2_,n_^(vráteň)" src="auto">NNFP2-----A---1</AM>
 <AM lemma="vrátnice-2_,n_^(vráteň)" src="auto">NNFS7-----A----</AM>
 <AM lemma="vrátnice-3_^(žíla)" src="auto">NNFP2-----A---1</AM>
@@ -3714,7 +3714,7 @@
 </w.rf>
 <form>vrátnici</form>
 <tag>
-<AM lemma="vrátnice-1_^(místnost_pro_vrátného)" src="auto" recommended="1">NNFS3-----A----</AM>
+<AM lemma="vrátnice" src="auto" recommended="1">NNFS3-----A----</AM>
 <AM lemma="vrátnice-1_^(místnost_pro_vrátného)" src="auto">NNFS4-----A----</AM>
 <AM lemma="vrátnice-1_^(místnost_pro_vrátného)" src="auto">NNFS6-----A----</AM>
 <AM lemma="vrátnice-2_,n_^(vráteň)" src="auto">NNFS3-----A----</AM>
@@ -5350,7 +5350,7 @@
 <AM lemma="druhý" src="auto">CrMP1---------6</AM>
 <AM lemma="druhý" src="auto">CrMP4---------6</AM>
 <AM lemma="druhý" src="auto">CrMP5---------6</AM>
-<AM lemma="druhý" src="auto" recommended="1">CrMS1----------</AM>
+<AM lemma="druhý`2" src="auto" recommended="1">CrMS1----------</AM>
 <AM lemma="druhý" src="auto">CrMS5----------</AM>
 <AM lemma="druhý" src="auto">CrNP1---------6</AM>
 <AM lemma="druhý" src="auto">CrNP4---------6</AM>
@@ -5688,7 +5688,7 @@
 <AM lemma="vysvědčení_,a_^(ve_škole)" src="auto">NNNS4-----A----</AM>
 <AM lemma="vysvědčení_,a_^(ve_škole)" src="auto">NNNS5-----A----</AM>
 <AM lemma="vysvědčení_,a_^(ve_škole)" src="auto">NNNS6-----A----</AM>
-<AM lemma="vysvědčení_^(ve_škole)_(*3it)" src="manual" selected="1">NNNP4-----A----</AM>
+<AM lemma="vysvědčení_^(*3it)" src="manual" selected="1">NNNP4-----A----</AM>
 </tag>
 </m>
 <m id="m020-989-1003">

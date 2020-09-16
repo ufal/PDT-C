@@ -95,7 +95,7 @@
 <LM>w#w-mf920923-091-p2s2w2</LM>
 </w.rf>
 <form>výbor</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920923-091-p2s2w3">
 <src.rf>manual</src.rf>
@@ -637,7 +637,7 @@
 <LM>w#w-mf920923-091-p2s5w17</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9IS4FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9IS4FS3-------</tag>
 </m>
 <m id="m-mf920923-091-p2s5w18">
 <src.rf>manual</src.rf>
@@ -737,7 +737,7 @@
 <form>Radu</form>
 <tag>
 <AM lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig">NNFS4-----A----</AM>
-<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu_poradní_sbor)" src="manual" selected="1">NNFS4-----A----</AM>
+<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="manual" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-091-p2s6w2">
@@ -1215,7 +1215,7 @@
 <LM>w#w-mf920923-091-p2s11w13</LM>
 </w.rf>
 <form>hnutí</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNS3-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNS3-----A----</tag>
 </m>
 <m id="m-mf920923-091-p2s11w14">
 <src.rf>manual</src.rf>
@@ -1321,7 +1321,7 @@
 <LM>w#w-mf920923-091-p2s12w7</LM>
 </w.rf>
 <form>výborem</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-mf920923-091-p2s12w8">
 <src.rf>manual</src.rf>
@@ -1388,7 +1388,7 @@
 <LM>w#w-mf920923-091-p2s12w15</LM>
 </w.rf>
 <form>nepozorností</form>
-<tag lemma="pozornost-1_^(všímavý,_milý,_soustředěný)_(*5ý-1)" src="orig" selected="1">NNFS7-----N----</tag>
+<tag lemma="pozornost-1_^(*5ý-1)" src="orig" selected="1">NNFS7-----N----</tag>
 </m>
 <m id="m-mf920923-091-p2s12w16">
 <src.rf>manual</src.rf>

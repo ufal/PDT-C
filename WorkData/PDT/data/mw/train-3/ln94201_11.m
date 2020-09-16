@@ -338,7 +338,7 @@
 <LM>w#w-ln94201-11-p2s2w8</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-11-p2s2w9">
 <src.rf>manual</src.rf>
@@ -550,7 +550,7 @@
 <LM>w#w-ln94201-11-p2s4w5</LM>
 </w.rf>
 <form>orgány</form>
-<tag lemma="orgán" src="orig" selected="1">NNIP7-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIP7-----A----</tag>
 </m>
 <m id="m-ln94201-11-p2s4w6">
 <src.rf>manual</src.rf>
@@ -757,7 +757,7 @@
 <LM>w#w-ln94201-11-p2s4w30</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-11-p2s4w31">
 <src.rf>manual</src.rf>
@@ -1130,7 +1130,7 @@
 <LM>w#w-ln94201-11-p2s6w23</LM>
 </w.rf>
 <form>Příbram</form>
-<tag lemma="Příbram_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Příbram-2_;G" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94201-11-p2s6w24">
 <src.rf>manual</src.rf>
@@ -1342,7 +1342,7 @@
 <LM>w#w-ln94201-11-p2s8w9</LM>
 </w.rf>
 <form>prvnímu</form>
-<tag lemma="první" src="orig" selected="1">CrMS3----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrMS3----------</tag>
 </m>
 <m id="m-ln94201-11-p2s8w10">
 <src.rf>manual</src.rf>
@@ -1406,7 +1406,7 @@
 <LM>w#w-ln94201-11-p2s8w17</LM>
 </w.rf>
 <form>cestě</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94201-11-p2s8w18">
 <src.rf>manual</src.rf>

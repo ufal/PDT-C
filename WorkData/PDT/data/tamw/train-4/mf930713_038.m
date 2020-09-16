@@ -899,7 +899,7 @@
 <LM>w#w-mf930713-038-p2s8w2</LM>
 </w.rf>
 <form>přijetím</form>
-<tag lemma="přijetí_^(*3mout)" src="auto" selected="1">NNNS7-----A----</tag>
+<tag lemma="přijetí_^(*1)_(*3mout)" src="auto" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-mf930713-038-p2s8w3">
 <src.rf>manual</src.rf>
@@ -1319,7 +1319,7 @@
 <LM>w#w-mf930713-038-p2s10w10</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-mf930713-038-p2s10w11">
 <src.rf>manual</src.rf>
@@ -1619,7 +1619,7 @@
 <LM>w#w-mf930713-038-p2s12w10</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-mf930713-038-p2s12w11">
 <src.rf>manual</src.rf>
@@ -1784,7 +1784,7 @@
 <LM>w#w-mf930713-038-p2s13w12</LM>
 </w.rf>
 <form>vystaveným</form>
-<tag lemma="vystavený_^(např._potvrzení)_(*3it)" src="orig" selected="1">AANS7----1A----</tag>
+<tag lemma="vystavený_^(*3it)" src="orig" selected="1">AANS7----1A----</tag>
 </m>
 <m id="m-mf930713-038-p2s13w13">
 <src.rf>manual</src.rf>
@@ -2004,7 +2004,7 @@
 <LM>w#w-mf930713-038-p2s16w1</LM>
 </w.rf>
 <form>Naši</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSMP1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSMP1-P1-------</tag>
 </m>
 <m id="m-mf930713-038-p2s16w2">
 <src.rf>manual</src.rf>

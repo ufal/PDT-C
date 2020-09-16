@@ -455,7 +455,7 @@
 </w.rf>
 <form>druhá</form>
 <tag>
-<AM lemma="druhý" src="auto" recommended="1">CrFS1----------</AM>
+<AM lemma="druhý`2" src="auto" recommended="1">CrFS1----------</AM>
 <AM lemma="druhý" src="auto">CrFS5----------</AM>
 <AM lemma="druhý" src="auto">CrNP1----------</AM>
 <AM lemma="druhý" src="auto">CrNP4----------</AM>
@@ -2779,7 +2779,7 @@
 </w.rf>
 <form>faktory</form>
 <tag>
-<AM lemma="faktor" src="auto" recommended="1">NNIP1-----A----</AM>
+<AM lemma="faktor-1" src="auto" recommended="1">NNIP1-----A----</AM>
 <AM lemma="faktor" src="auto">NNIP4-----A----</AM>
 <AM lemma="faktor" src="auto">NNIP5-----A----</AM>
 <AM lemma="faktor" src="auto">NNIP7-----A----</AM>
@@ -3287,7 +3287,7 @@
 <AM lemma="mobile-1_^(t-mobile)" src="auto">NNIS5-----A----</AM>
 <AM lemma="mobile-1_^(t-mobile)" src="auto">NNIXX-----A----</AM>
 <AM lemma="mobile-77" src="auto">F%-------------</AM>
-<AM lemma="Mobile-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="mobile-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1861-001-p1s10W10-Ta">
@@ -3589,7 +3589,7 @@
 </w.rf>
 <form>Kentucky</form>
 <tag>
-<AM lemma="Kentucky_;G" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="Kentucky_;G_;m" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="kentucky" src="auto">Dg-------1A----</AM>
 </tag>
 </m>
@@ -4695,7 +4695,7 @@
 <form>zdaněním</form>
 <tag>
 <AM lemma="zdanění_^(vypočítat_daň)_(*3it)" src="auto">NNNP3-----A----</AM>
-<AM lemma="zdanění_^(vypočítat_daň)_(*3it)" src="auto" recommended="1">NNNS7-----A----</AM>
+<AM lemma="zdanění_^(*3it)" src="auto" recommended="1">NNNS7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1861-001-p1s15W18-Ta">

@@ -387,7 +387,7 @@
 <LM>w#w-mf920902-152-p2s3w6</LM>
 </w.rf>
 <form>dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920902-152-p2s3w7">
 <src.rf>manual</src.rf>
@@ -1890,7 +1890,7 @@
 <LM>w#w-mf920902-152-p7s1w10</LM>
 </w.rf>
 <form>cestě</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf920902-152-p7s1w11">
 <src.rf>manual</src.rf>
@@ -2296,7 +2296,7 @@
 <LM>w#w-mf920902-152-p7s2w26</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrNS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS1----------</tag>
 </m>
 <m id="m-mf920902-152-p7s2w27">
 <src.rf>manual</src.rf>

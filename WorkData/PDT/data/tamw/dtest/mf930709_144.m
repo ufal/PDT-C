@@ -231,7 +231,7 @@
 <LM>w#w-mf930709-144-p2s1Bw10</LM>
 </w.rf>
 <form>celnici</form>
-<tag lemma="celnice-2_^(místo_výkonu_služby)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="celnice_^(*3ík-1)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf930709-144-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -473,7 +473,7 @@
 <LM>w#w-mf930709-144-p2s2w11</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-mf930709-144-p2s2w12">
 <src.rf>manual</src.rf>
@@ -593,7 +593,7 @@
 <LM>w#w-mf930709-144-p2s2w26</LM>
 </w.rf>
 <form>celnici</form>
-<tag lemma="celnice-2_^(místo_výkonu_služby)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="celnice_^(*3ík-1)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf930709-144-p2s2w27">
 <src.rf>manual</src.rf>
@@ -612,7 +612,7 @@
 <LM>w#w-mf930709-144-p2s2w28</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrNP1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNP1----------</tag>
 </m>
 <m id="m-mf930709-144-p2s2w29">
 <src.rf>manual</src.rf>
@@ -1012,7 +1012,7 @@
 <LM>w#w-mf930709-144-p2s4w14</LM>
 </w.rf>
 <form>málo</form>
-<tag lemma="málo-3_^(málo_+_příd._jm.,_př._byl_málo_důsledný)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="málo-3_^(málo_důsledný)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf930709-144-p2s4w15">
 <src.rf>manual</src.rf>
@@ -1654,7 +1654,7 @@
 <LM>w#w-mf930709-144-p3s4w17</LM>
 </w.rf>
 <form>zelených</form>
-<tag lemma="zelený" src="orig" selected="1">AAFP2----1A----</tag>
+<tag lemma="zelený_;o" src="orig" selected="1">AAFP2----1A----</tag>
 </m>
 <m id="m-mf930709-144-p3s4w18">
 <src.rf>manual</src.rf>
@@ -1787,7 +1787,7 @@
 <LM>w#w-mf930709-144-p3s5w14</LM>
 </w.rf>
 <form>my</form>
-<tag lemma="já" src="orig" selected="1">PP-P1--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P1--1-------</tag>
 </m>
 <m id="m-mf930709-144-p3s5w15">
 <src.rf>manual</src.rf>
@@ -1924,7 +1924,7 @@
 <LM>w#w-mf930709-144-p3s6w10</LM>
 </w.rf>
 <form>celnici</form>
-<tag lemma="celnice-2_^(místo_výkonu_služby)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="celnice_^(*3ík-1)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf930709-144-p3s6w11">
 <src.rf>manual</src.rf>
@@ -1990,7 +1990,7 @@
 <LM>w#w-mf930709-144-p3s7w5</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-144-p3s7w6">
 <src.rf>manual</src.rf>

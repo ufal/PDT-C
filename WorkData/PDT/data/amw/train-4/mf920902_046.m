@@ -514,7 +514,7 @@
 <LM>w#w-mf920902-046-p2s2w17</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf920902-046-p2s2w18">
 <src.rf>manual</src.rf>
@@ -604,7 +604,7 @@
 <LM>w#w-mf920902-046-p2s3w2</LM>
 </w.rf>
 <form>Naši</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS4-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS4-P1-------</tag>
 </m>
 <m id="m-mf920902-046-p2s3w3">
 <src.rf>manual</src.rf>
@@ -782,7 +782,7 @@
 <LM>w#w-mf920902-046-p2s4Aw7</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-mf920902-046-p2s4Aw8">
 <src.rf>manual</src.rf>
@@ -982,7 +982,7 @@
 <LM>w#w-mf920902-046-p2s5w2</LM>
 </w.rf>
 <form>Vydělané</form>
-<tag lemma="vydělaný-1_^(peníze)_(*4t-1)" src="orig" selected="1">AAIP1----1A----</tag>
+<tag lemma="vydělaný_^(*2t)" src="orig" selected="1">AAIP1----1A----</tag>
 </m>
 <m id="m-mf920902-046-p2s5w3">
 <src.rf>manual</src.rf>
@@ -1637,7 +1637,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf920902-046-p2s9w8">
@@ -1790,7 +1790,7 @@
 <LM>w#w-mf920902-046-p2s9w26</LM>
 </w.rf>
 <form>dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920902-046-p2s9w27">
 <src.rf>manual</src.rf>
@@ -1963,7 +1963,7 @@
 <LM>w#w-mf920902-046-p2s10w12</LM>
 </w.rf>
 <form>utržené</form>
-<tag lemma="utržený_^(*4hnout)" src="orig" selected="1">AAIP4----1A----</tag>
+<tag lemma="utržený_^(*3it)" src="orig" selected="1">AAIP4----1A----</tag>
 </m>
 <m id="m-mf920902-046-p2s10w13">
 <src.rf>manual</src.rf>
@@ -1990,7 +1990,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf920902-046-p2s10w16">

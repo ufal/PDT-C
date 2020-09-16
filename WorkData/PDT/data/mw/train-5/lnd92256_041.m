@@ -53,7 +53,7 @@
 <LM>w#w-lnd92256-041-p2s1w2</LM>
 </w.rf>
 <form>prvního</form>
-<tag lemma="první" src="orig" selected="1">CrIS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS2----------</tag>
 </m>
 <m id="m-lnd92256-041-p2s1w3">
 <src.rf>manual</src.rf>
@@ -593,7 +593,7 @@
 <LM>w#w-lnd92256-041-p3s3w43</LM>
 </w.rf>
 <form>prvního</form>
-<tag lemma="první" src="orig" selected="1">CrNS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS2----------</tag>
 </m>
 <m id="m-lnd92256-041-p3s3w44">
 <src.rf>manual</src.rf>

@@ -327,7 +327,7 @@
 <LM>w#w-lnd94103-153-p1s5w8</LM>
 </w.rf>
 <form>dny</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-lnd94103-153-p1s5w9">
 <src.rf>manual</src.rf>

@@ -171,7 +171,7 @@
 <LM>w#w-ln94206-76-p2s1Bw6</LM>
 </w.rf>
 <form>rady</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94206-76-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -383,7 +383,7 @@
 <LM>w#w-ln94206-76-p3s1w5</LM>
 </w.rf>
 <form>Strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94206-76-p3s1w6">
 <src.rf>manual</src.rf>
@@ -1252,7 +1252,7 @@
 <LM>w#w-ln94206-76-p5s2w8</LM>
 </w.rf>
 <form>druhou</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS7----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS7----------</tag>
 </m>
 <m id="m-ln94206-76-p5s2w9">
 <src.rf>manual</src.rf>

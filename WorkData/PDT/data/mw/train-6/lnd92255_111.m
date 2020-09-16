@@ -303,7 +303,7 @@
 <LM>w#w-lnd92255-111-p6s2w3</LM>
 </w.rf>
 <form>Štěpán</form>
-<tag lemma="Štěpán_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Štěpán-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-111-p6s2w4">
 <src.rf>manual</src.rf>
@@ -543,7 +543,7 @@
 <LM>w#w-lnd92255-111-p10s1w7</LM>
 </w.rf>
 <form>Štampach</form>
-<tag lemma="Štampach_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Štampach-2_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92255-111-p11s1">

@@ -79,7 +79,7 @@
 <AM lemma="navržený_^(*4hnout)" src="auto">AAIP4----1A---6</AM>
 <AM lemma="navržený_^(*4hnout)" src="auto">AAIP5----1A---6</AM>
 <AM lemma="navržený_^(*4hnout)" src="auto" recommended="1">AAIS1----1A----</AM>
-<AM lemma="navržený_^(*4hnout)" src="auto" selected="1">AAIS4----1A----</AM>
+<AM lemma="navržený" src="auto" selected="1">AAIS4----1A----</AM>
 <AM lemma="navržený_^(*4hnout)" src="auto">AAIS5----1A----</AM>
 <AM lemma="navržený_^(*4hnout)" src="auto">AAMP1----1A---6</AM>
 <AM lemma="navržený_^(*4hnout)" src="auto">AAMP4----1A---6</AM>
@@ -1300,7 +1300,7 @@
 </w.rf>
 <form>výbor</form>
 <tag>
-<AM lemma="výbor" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="výbor-1" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="výbor" src="auto">NNIS4-----A----</AM>
 <AM lemma="výbor" src="auto">NNMS1-----A----</AM>
 </tag>
@@ -2434,7 +2434,7 @@
 </w.rf>
 <form>výborem</form>
 <tag>
-<AM lemma="výbor" src="auto" recommended="1">NNIS7-----A----</AM>
+<AM lemma="výbor-1" src="auto" recommended="1">NNIS7-----A----</AM>
 <AM lemma="výbor" src="auto">NNMS7-----A----</AM>
 </tag>
 </m>
@@ -3781,7 +3781,7 @@
 <AM lemma="převzetí_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="auto">NNNP5-----A----</AM>
 <AM lemma="převzetí_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="převzetí_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="auto">NNNS2-----A----</AM>
-<AM lemma="převzetí_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="auto" selected="1">NNNS3-----A----</AM>
+<AM lemma="převzetí_^(*3ít)" src="auto" selected="1">NNNS3-----A----</AM>
 <AM lemma="převzetí_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="auto">NNNS4-----A----</AM>
 <AM lemma="převzetí_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="auto">NNNS5-----A----</AM>
 <AM lemma="převzetí_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="auto">NNNS6-----A----</AM>
@@ -4059,7 +4059,7 @@
 <AM lemma="ča_^(ča-ča)" src="auto">NNFS2-----A----</AM>
 <AM lemma="ča_^(ča-ča)" src="auto">NNFS3-----A---1</AM>
 <AM lemma="ča_^(ča-ča)" src="auto">NNFS6-----A---1</AM>
-<AM lemma="či" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="či-1" src="auto" recommended="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0107-001-p1s9W54-Ta">
@@ -4321,7 +4321,7 @@
 </w.rf>
 <form>dá</form>
 <tag>
-<AM lemma="dát" src="auto" recommended="1">VB-S---3P-AAP--</AM>
+<AM lemma="dát-1" src="auto" recommended="1">VB-S---3P-AAP--</AM>
 <AM lemma="dát-2_^(dá_se_očekávat)" src="auto">VB-S---3P-AAI--</AM>
 </tag>
 </m>
@@ -5475,7 +5475,7 @@
 <AM lemma="zkrachovalý_,e_^(*2t)" src="auto">AAFP6----1A----</AM>
 <AM lemma="zkrachovalý_,e_^(*2t)" src="auto">AAIP2----1A----</AM>
 <AM lemma="zkrachovalý_,e_^(*2t)" src="auto">AAIP6----1A----</AM>
-<AM lemma="zkrachovalý_,e_^(*2t)" src="auto" recommended="1">AAMP2----1A----</AM>
+<AM lemma="zkrachovalý_^(*2t)" src="auto" recommended="1">AAMP2----1A----</AM>
 <AM lemma="zkrachovalý_,e_^(*2t)" src="auto">AAMP6----1A----</AM>
 <AM lemma="zkrachovalý_,e_^(*2t)" src="auto">AANP2----1A----</AM>
 <AM lemma="zkrachovalý_,e_^(*2t)" src="auto">AANP6----1A----</AM>

@@ -308,7 +308,7 @@
 <LM>w#w-lnd92258-014-p3s2w24</LM>
 </w.rf>
 <form>Amarillo</form>
-<tag lemma="Amarillo_;G" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Amarillo-1_;G" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-lnd92258-014-p3s2w25">
 <src.rf>manual</src.rf>
@@ -574,7 +574,7 @@
 <LM>w#w-lnd92258-014-p3s3w14</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd92258-014-p3s3w15">
 <src.rf>manual</src.rf>
@@ -840,7 +840,7 @@
 <LM>w#w-lnd92258-014-p3s4w19</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-lnd92258-014-p3s4w20">
 <src.rf>manual</src.rf>

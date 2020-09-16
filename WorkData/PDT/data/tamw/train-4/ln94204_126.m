@@ -645,7 +645,7 @@
 <form>hodně</form>
 <tag>
 <AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="hodně_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-126-p3s1w4">
@@ -672,7 +672,7 @@
 <LM>w#w-ln94204-126-p3s2w1</LM>
 </w.rf>
 <form>Ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94204-126-p3s2w2">
 <src.rf>manual</src.rf>
@@ -1119,7 +1119,7 @@
 <LM>w#w-ln94204-126-p3s4w8</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS7---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS7---------1</tag>
 </m>
 <m id="m-ln94204-126-p3s4w9">
 <src.rf>manual</src.rf>
@@ -1249,7 +1249,7 @@
 <LM>w#w-ln94204-126-p3s5w2</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS4----------</tag>
 </m>
 <m id="m-ln94204-126-p3s5w3">
 <src.rf>manual</src.rf>
@@ -1303,7 +1303,7 @@
 <LM>w#w-ln94204-126-p3s5w8</LM>
 </w.rf>
 <form>druhou</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS7----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS7----------</tag>
 </m>
 <m id="m-ln94204-126-p3s5w9">
 <src.rf>manual</src.rf>
@@ -2625,7 +2625,7 @@
 <LM>w#w-ln94204-126-p5s2w20</LM>
 </w.rf>
 <form>dlouhé</form>
-<tag lemma="dlouhý-1_^(fyz._délka;_př._dlouhá_tyč)" src="orig" selected="1">AAFP4----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFP4----1A----</tag>
 </m>
 <m id="m-ln94204-126-p5s2w21">
 <src.rf>manual</src.rf>
@@ -2723,7 +2723,7 @@
 <LM>w#w-ln94204-126-p5s3w3</LM>
 </w.rf>
 <form>proto</form>
-<tag lemma="proto-2_^(dal_mu_co_proto,_tak_proto!)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="proto-2_^(proto_že)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94204-126-p5s3w4">
 <src.rf>manual</src.rf>

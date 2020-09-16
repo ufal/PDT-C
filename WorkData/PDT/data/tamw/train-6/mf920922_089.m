@@ -345,7 +345,7 @@
 <LM>w#w-mf920922-089-p2s3w2</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-mf920922-089-p2s3w3">
 <src.rf>manual</src.rf>
@@ -712,7 +712,7 @@
 <LM>w#w-mf920922-089-p3s1w16</LM>
 </w.rf>
 <form>Karlových</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUIP6M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUIP6M---------</tag>
 </m>
 <m id="m-mf920922-089-p3s1w17">
 <src.rf>manual</src.rf>
@@ -1334,7 +1334,7 @@
 <LM>w#w-mf920922-089-p3s5w11</LM>
 </w.rf>
 <form>ukradený</form>
-<tag lemma="ukradený_^(*5ást)" src="auto" selected="1">AAIS4----1A----</tag>
+<tag lemma="ukradený" src="auto" selected="1">AAIS4----1A----</tag>
 </m>
 <m id="m-mf920922-089-p3s5w12">
 <src.rf>manual</src.rf>

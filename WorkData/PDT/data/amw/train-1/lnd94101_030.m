@@ -413,7 +413,7 @@
 <LM>w#w-lnd94101-030-p1s4w6</LM>
 </w.rf>
 <form>David</form>
-<tag lemma="David_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="David-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-030-p1s4w7">
 <src.rf>manual</src.rf>

@@ -494,7 +494,7 @@
 <LM>w#w-lnd92255-012-p3s4w2</LM>
 </w.rf>
 <form>hnutí</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-lnd92255-012-p3s4w3">
 <src.rf>manual</src.rf>
@@ -747,7 +747,7 @@
 <LM>w#w-lnd92255-012-p3s5w9</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FXXFS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1FXXFS3-------</tag>
 </m>
 <m id="m-lnd92255-012-p3s5w10">
 <src.rf>manual</src.rf>

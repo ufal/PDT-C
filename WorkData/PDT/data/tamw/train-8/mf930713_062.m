@@ -578,7 +578,7 @@
 <LM>w#w-mf930713-062-p2s4w20</LM>
 </w.rf>
 <form>jet</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="orig" selected="1">Vf--------A-I--</tag>
+<tag lemma="jet-1" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-mf930713-062-p2s4w21">
 <src.rf>manual</src.rf>

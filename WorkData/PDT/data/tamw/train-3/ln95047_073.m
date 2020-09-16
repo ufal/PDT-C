@@ -175,7 +175,7 @@
 <LM>w#w-ln95047-073-p2s1Bw12</LM>
 </w.rf>
 <form>jejích</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP2FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XP2FS3-------</tag>
 </m>
 <m id="m-ln95047-073-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -1178,7 +1178,7 @@
 <LM>w#w-ln95047-073-p3s4w28</LM>
 </w.rf>
 <form>jejích</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP2FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XP2FS3-------</tag>
 </m>
 <m id="m-ln95047-073-p3s4w29">
 <src.rf>manual</src.rf>
@@ -1412,7 +1412,7 @@
 <LM>w#w-ln95047-073-p3s6w14</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS2---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS2---------1</tag>
 </m>
 <m id="m-ln95047-073-p3s6w15">
 <src.rf>manual</src.rf>
@@ -1906,7 +1906,7 @@
 <LM>w#w-ln95047-073-p3s10w8</LM>
 </w.rf>
 <form>delší</form>
-<tag lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">AAFS4----2A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFS4----2A----</tag>
 </m>
 <m id="m-ln95047-073-p3s10w9">
 <src.rf>manual</src.rf>
@@ -2257,7 +2257,7 @@
 <LM>w#w-ln95047-073-p3s12w12</LM>
 </w.rf>
 <form>zastavení</form>
-<tag lemma="zastavení-1_^([také_z._se];_uvést_do_klidu:_auto,...)_(*5it-1)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="zastavení_^(*3it)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln95047-073-p3s12w13">
 <src.rf>manual</src.rf>

@@ -19,7 +19,7 @@
 <LM>w#w-mf920902-119-p1s1w1</LM>
 </w.rf>
 <form>Děti</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-mf920902-119-p1s1w2">
 <src.rf>manual</src.rf>
@@ -135,7 +135,7 @@
 <LM>w#w-mf920902-119-p2s2w7</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-mf920902-119-p2s2w8">
 <src.rf>manual</src.rf>
@@ -415,7 +415,7 @@
 <LM>w#w-mf920902-119-p2s3w7</LM>
 </w.rf>
 <form>druhá</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS1----------</tag>
 </m>
 <m id="m-mf920902-119-p2s3w8">
 <src.rf>manual</src.rf>

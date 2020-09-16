@@ -801,7 +801,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -953,7 +953,7 @@
 <LM>w#w-ln95042-030-p2s4w13</LM>
 </w.rf>
 <form>nejlepších</form>
-<tag lemma="dobrý" src="orig" selected="1">AAMP2----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAMP2----3A----</tag>
 </m>
 <m id="m-ln95042-030-p2s4w14">
 <src.rf>manual</src.rf>
@@ -1397,7 +1397,7 @@
 <LM>w#w-ln95042-030-p2s8Aw15</LM>
 </w.rf>
 <form>handicap</form>
-<tag lemma="handicap" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="handicap_,s_^(^DD**hendikep)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95042-030-p2s8Aw16">
 <src.rf>manual</src.rf>

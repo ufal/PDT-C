@@ -27,7 +27,7 @@
 <LM>w#w-lnd91301-029-p1s1w2</LM>
 </w.rf>
 <form>výbor</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd91301-029-p1s1w3">
 <src.rf>manual</src.rf>
@@ -107,7 +107,7 @@
 <LM>w#w-lnd91301-029-p1s1w12</LM>
 </w.rf>
 <form>členů</form>
-<tag lemma="člen" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd91301-029-p1s1w13">
 <src.rf>manual</src.rf>
@@ -123,7 +123,7 @@
 <LM>w#w-lnd91301-029-p1s1w14</LM>
 </w.rf>
 <form>sekretáře</form>
-<tag lemma="sekretář" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="sekretář-2" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd91301-029-p1s1w15">
 <src.rf>manual</src.rf>
@@ -139,7 +139,7 @@
 <LM>w#w-lnd91301-029-p1s1w16</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd91301-029-p1s1w17">
 <src.rf>manual</src.rf>
@@ -165,7 +165,7 @@
 <LM>w#w-lnd91301-029-p1s2w2</LM>
 </w.rf>
 <form>sekretářem</form>
-<tag lemma="sekretář" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="sekretář-2" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd91301-029-p1s2w3">
 <src.rf>manual</src.rf>
@@ -540,7 +540,7 @@
 <LM>w#w-lnd91301-029-p2s2w13</LM>
 </w.rf>
 <form>černou</form>
-<tag lemma="černý" src="auto" selected="1">AAFS7----1A----</tag>
+<tag lemma="černý_;o" src="auto" selected="1">AAFS7----1A----</tag>
 </m>
 <m id="m-lnd91301-029-p2s2w14">
 <src.rf>manual</src.rf>

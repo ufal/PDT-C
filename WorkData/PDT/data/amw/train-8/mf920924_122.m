@@ -19,7 +19,7 @@
 <LM>w#w-mf920924-122-p1s1w1</LM>
 </w.rf>
 <form>Extremisté</form>
-<tag lemma="extremista" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="extremista_,s_^(^DD**extrémista)" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf920924-122-p1s1w2">
 <src.rf>manual</src.rf>
@@ -193,7 +193,7 @@
 <LM>w#w-mf920924-122-p2s2w7</LM>
 </w.rf>
 <form>Saskem</form>
-<tag lemma="Sasko_;G" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="Sasko-2_;G" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-mf920924-122-p2s2w8">
 <src.rf>manual</src.rf>
@@ -243,7 +243,7 @@
 <LM>w#w-mf920924-122-p2s3w2</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-mf920924-122-p2s3w3">
 <src.rf>manual</src.rf>
@@ -472,7 +472,7 @@
 <LM>w#w-mf920924-122-p2s5w3</LM>
 </w.rf>
 <form>extremistické</form>
-<tag lemma="extremistický" src="orig" selected="1">AAIP1----1A----</tag>
+<tag lemma="extremistický_,s_^(^DD**extrémistický)" src="orig" selected="1">AAIP1----1A----</tag>
 </m>
 <m id="m-mf920924-122-p2s5w4">
 <src.rf>manual</src.rf>
@@ -772,7 +772,7 @@
 <LM>w#w-mf920924-122-p2s7w12</LM>
 </w.rf>
 <form>extremisté</form>
-<tag lemma="extremista" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="extremista_,s_^(^DD**extrémista)" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf920924-122-p2s7w13">
 <src.rf>manual</src.rf>
@@ -854,7 +854,7 @@
 <LM>w#w-mf920924-122-p2s8w8</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP2-P1-------</tag>
 </m>
 <m id="m-mf920924-122-p2s8w9">
 <src.rf>manual</src.rf>
@@ -928,7 +928,7 @@
 <LM>w#w-mf920924-122-p2s9w4</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP2-P1-------</tag>
 </m>
 <m id="m-mf920924-122-p2s9w5">
 <src.rf>manual</src.rf>
@@ -952,7 +952,7 @@
 <LM>w#w-mf920924-122-p2s9w7</LM>
 </w.rf>
 <form>orgánů</form>
-<tag lemma="orgán" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf920924-122-p2s9w8">
 <src.rf>manual</src.rf>
@@ -1138,7 +1138,7 @@
 <LM>w#w-mf920924-122-p2s10w10</LM>
 </w.rf>
 <form>hnutí</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-mf920924-122-p2s10w11">
 <src.rf>manual</src.rf>

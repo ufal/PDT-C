@@ -59,7 +59,7 @@
 <LM>w#w-mf930702-074-p1s1w6</LM>
 </w.rf>
 <form>stadion</form>
-<tag lemma="stadión" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="stadion_,s_^(^DD**stadión)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-mf930702-074-p1s1w7">
 <src.rf>manual</src.rf>

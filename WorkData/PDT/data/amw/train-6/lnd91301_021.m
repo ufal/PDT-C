@@ -118,7 +118,7 @@
 <LM>w#w-lnd91301-021-p4s1w3</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd91301-021-p4s1w4">
 <src.rf>manual</src.rf>
@@ -166,7 +166,7 @@
 <LM>w#w-lnd91301-021-p4s1w9</LM>
 </w.rf>
 <form>rady</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd91301-021-p4s1w10">
 <src.rf>manual</src.rf>

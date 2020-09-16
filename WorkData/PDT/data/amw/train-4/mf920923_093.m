@@ -403,7 +403,7 @@
 <LM>w#w-mf920923-093-p2s3w2</LM>
 </w.rf>
 <form>roli</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="role_^(svitek_poslání_pozemek)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf920923-093-p2s3w3">
 <src.rf>manual</src.rf>
@@ -900,7 +900,7 @@
 <LM>w#w-mf920923-093-p2s6w5</LM>
 </w.rf>
 <form>zeštíhlení</form>
-<tag lemma="zeštíhlení_^(*2t)" src="auto" selected="1">NNNS2-----A----</tag>
+<tag lemma="zeštíhlení_^(*2t)_(*3it)" src="auto" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-mf920923-093-p2s6w6">
 <src.rf>manual</src.rf>
@@ -2825,7 +2825,7 @@
 <LM>w#w-mf920923-093-p4s6w8</LM>
 </w.rf>
 <form>proto</form>
-<tag lemma="proto-2_^(dal_mu_co_proto,_tak_proto!)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="proto-2_^(proto_že)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf920923-093-p4s6w9">
 <src.rf>manual</src.rf>
@@ -2963,7 +2963,7 @@
 <LM>w#w-mf920923-093-p4s7w10</LM>
 </w.rf>
 <form>proto</form>
-<tag lemma="proto-2_^(dal_mu_co_proto,_tak_proto!)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="proto-2_^(proto_že)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf920923-093-p4s7w11">
 <src.rf>manual</src.rf>
@@ -3492,7 +3492,7 @@
 <LM>w#w-mf920923-093-p6s1w5</LM>
 </w.rf>
 <form>vydání</form>
-<tag lemma="vydání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="vydání_^(*3at)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-mf920923-093-p6s1w6">
 <src.rf>manual</src.rf>

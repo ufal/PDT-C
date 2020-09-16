@@ -202,7 +202,7 @@
 <AM lemma="zastavení_^(uvést_do_klidu;;zástavní_právo)_(*3it)" src="auto">NNNS1-----A----</AM>
 <AM lemma="zastavení_^(uvést_do_klidu;;zástavní_právo)_(*3it)" src="auto">NNNS2-----A----</AM>
 <AM lemma="zastavení_^(uvést_do_klidu;;zástavní_právo)_(*3it)" src="auto">NNNS3-----A----</AM>
-<AM lemma="zastavení_^(uvést_do_klidu;;zástavní_právo)_(*3it)" src="auto" recommended="1">NNNS4-----A----</AM>
+<AM lemma="zastavení_^(*3it)" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="zastavení_^(uvést_do_klidu;;zástavní_právo)_(*3it)" src="auto">NNNS5-----A----</AM>
 <AM lemma="zastavení_^(uvést_do_klidu;;zástavní_právo)_(*3it)" src="auto">NNNS6-----A----</AM>
 </tag>
@@ -1058,7 +1058,7 @@
 </w.rf>
 <form>jejích</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XP2FS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9XP2FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP6FS3-------</AM>
 </tag>
 </m>
@@ -1201,7 +1201,7 @@
 <AM lemma="navržený_^(*4hnout)" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="navržený_^(*4hnout)" src="auto">AAFS5----1A----</AM>
 <AM lemma="navržený_^(*4hnout)" src="auto">AANP1----1A----</AM>
-<AM lemma="navržený_^(*4hnout)" src="auto" selected="1">AANP4----1A----</AM>
+<AM lemma="navržený" src="auto" selected="1">AANP4----1A----</AM>
 <AM lemma="navržený_^(*4hnout)" src="auto">AANP5----1A----</AM>
 </tag>
 </m>
@@ -1326,7 +1326,7 @@
 <AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto">NNNP1-----A----</AM>
 <AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto">NNNP4-----A----</AM>
 <AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto">NNNP5-----A----</AM>
-<AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="právo" src="auto" recommended="1">NNNS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0527-001-p1s2W39-Ta">
@@ -2326,7 +2326,7 @@
 </w.rf>
 <form>faktorem</form>
 <tag>
-<AM lemma="faktor" src="auto" recommended="1">NNIS7-----A----</AM>
+<AM lemma="faktor-1" src="auto" recommended="1">NNIS7-----A----</AM>
 <AM lemma="faktor" src="auto">NNMS7-----A----</AM>
 </tag>
 </m>
@@ -4354,7 +4354,7 @@
 </w.rf>
 <form>jejích</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XP2FS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9XP2FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP6FS3-------</AM>
 </tag>
 </m>

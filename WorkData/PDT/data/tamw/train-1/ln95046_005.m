@@ -1153,7 +1153,7 @@
 <LM>w#w-ln95046-005-p6s1w22</LM>
 </w.rf>
 <form>dováženého</form>
-<tag lemma="dovážený_^(dokončit_vážení)_(*2t)" src="auto" selected="1">AANS2----1A----</tag>
+<tag lemma="dovážený_^(*2t)_(*3it)" src="auto" selected="1">AANS2----1A----</tag>
 </m>
 <m id="m-ln95046-005-p6s1w23">
 <src.rf>manual</src.rf>

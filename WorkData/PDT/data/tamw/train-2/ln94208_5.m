@@ -40,7 +40,7 @@
 <AM lemma="golf" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="golf" src="auto">NNIS3-----A----</AM>
 <AM lemma="golf" src="auto">NNIS6-----A----</AM>
-<AM lemma="golf-2_;m_^(vozidlo)" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="golf" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-5-p1s1w4">
@@ -131,7 +131,7 @@
 <LM>w#w-ln94208-5-p2s1Aw9</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-ln94208-5-p2s1Aw10">
 <src.rf>manual</src.rf>
@@ -303,7 +303,7 @@
 <LM>w#w-ln94208-5-p2s1Cw14</LM>
 </w.rf>
 <form>Evropě</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94208-5-p2s1Cw15">
 <src.rf>manual</src.rf>
@@ -327,7 +327,7 @@
 <LM>w#w-ln94208-5-p2s1Cw17</LM>
 </w.rf>
 <form>modelem</form>
-<tag lemma="model" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="model-1" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-ln94208-5-p2s1Cw18">
 <src.rf>manual</src.rf>
@@ -541,7 +541,7 @@
 <form>polo</form>
 <tag>
 <AM lemma="Polo-2_;m_^(vozidlo)" src="orig">NNNS1-----A----</AM>
-<AM lemma="polo_;m_^(vozidlo)" src="auto" selected="1">NNNS1-----A----</AM>
+<AM lemma="polo-1_^(^DD**pólo)" src="auto" selected="1">NNNS1-----A----</AM>
 <AM lemma="polo_;m_^(vozidlo)" src="auto">NNNS4-----A----</AM>
 <AM lemma="polo_;m_^(vozidlo)" src="auto">NNNS5-----A----</AM>
 <AM lemma="pólo" src="auto" recommended="1">NNNS1-----A----</AM>
@@ -580,7 +580,7 @@
 <LM>w#w-ln94208-5-p3s1w12</LM>
 </w.rf>
 <form>modelem</form>
-<tag lemma="model" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="model-1" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-ln94208-5-p3s1w13">
 <src.rf>manual</src.rf>
@@ -787,7 +787,7 @@
 <AM lemma="polo_;m_^(vozidlo)" src="auto">NNNP1-----A----</AM>
 <AM lemma="polo_;m_^(vozidlo)" src="auto">NNNP4-----A----</AM>
 <AM lemma="polo_;m_^(vozidlo)" src="auto">NNNP5-----A----</AM>
-<AM lemma="polo_;m_^(vozidlo)" src="auto" selected="1">NNNS2-----A----</AM>
+<AM lemma="polo-1_^(^DD**pólo)" src="auto" selected="1">NNNS2-----A----</AM>
 <AM lemma="pólo" src="auto">NNNP1-----A----</AM>
 <AM lemma="pólo" src="auto">NNNP4-----A----</AM>
 <AM lemma="pólo" src="auto">NNNP5-----A----</AM>
@@ -816,7 +816,7 @@
 <LM>w#w-ln94208-5-p3s3w6</LM>
 </w.rf>
 <form>druhý</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS1----------</tag>
 </m>
 <m id="m-ln94208-5-p3s3w7">
 <src.rf>manual</src.rf>
@@ -1020,7 +1020,7 @@
 <LM>w#w-ln94208-5-p3s5w3</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-ln94208-5-p3s5w4">
 <src.rf>manual</src.rf>
@@ -1244,7 +1244,7 @@
 <LM>w#w-ln94208-5-p3s6w1</LM>
 </w.rf>
 <form>Ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94208-5-p3s6w2">
 <src.rf>manual</src.rf>
@@ -1271,7 +1271,7 @@
 <tag>
 <AM lemma="Polo-2_;m_^(vozidlo)" src="orig">NNNS1-----A----</AM>
 <AM lemma="polo_;m_^(vozidlo)" src="auto">NNNS1-----A----</AM>
-<AM lemma="polo_;m_^(vozidlo)" src="auto" selected="1">NNNS4-----A----</AM>
+<AM lemma="polo-1_^(^DD**pólo)" src="auto" selected="1">NNNS4-----A----</AM>
 <AM lemma="polo_;m_^(vozidlo)" src="auto">NNNS5-----A----</AM>
 <AM lemma="pólo" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="pólo" src="auto">NNNS4-----A----</AM>
@@ -1293,7 +1293,7 @@
 <LM>w#w-ln94208-5-p3s6w6</LM>
 </w.rf>
 <form>model</form>
-<tag lemma="model" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="model-1" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln94208-5-p3s6w7">
 <src.rf>manual</src.rf>
@@ -1405,7 +1405,7 @@
 <AM lemma="golf" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="golf" src="auto">NNIS3-----A----</AM>
 <AM lemma="golf" src="auto">NNIS6-----A----</AM>
-<AM lemma="golf-2_;m_^(vozidlo)" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="golf" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-5-p3s6w20">
@@ -1488,7 +1488,7 @@
 <LM>w#w-ln94208-5-p3s7w7</LM>
 </w.rf>
 <form>potřeby</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-ln94208-5-p3s7w8">
 <src.rf>manual</src.rf>
@@ -1546,7 +1546,7 @@
 <form>polo</form>
 <tag>
 <AM lemma="Polo-2_;m_^(vozidlo)" src="orig">NNNS1-----A----</AM>
-<AM lemma="polo_;m_^(vozidlo)" src="auto" selected="1">NNNS1-----A----</AM>
+<AM lemma="polo-1_^(^DD**pólo)" src="auto" selected="1">NNNS1-----A----</AM>
 <AM lemma="polo_;m_^(vozidlo)" src="auto">NNNS4-----A----</AM>
 <AM lemma="polo_;m_^(vozidlo)" src="auto">NNNS5-----A----</AM>
 <AM lemma="pólo" src="auto" recommended="1">NNNS1-----A----</AM>
@@ -1831,7 +1831,7 @@
 <AM lemma="felicia_;m_^(vozidlo)" src="auto">NNFP1-----A----</AM>
 <AM lemma="felicia_;m_^(vozidlo)" src="auto">NNFP4-----A----</AM>
 <AM lemma="felicia_;m_^(vozidlo)" src="auto">NNFP5-----A----</AM>
-<AM lemma="felicia_;m_^(vozidlo)" src="auto" selected="1">NNFS1-----A----</AM>
+<AM lemma="felicie" src="auto" selected="1">NNFS1-----A----</AM>
 <AM lemma="felicia_;m_^(vozidlo)" src="auto">NNFS2-----A----</AM>
 <AM lemma="felicia_;m_^(vozidlo)" src="auto">NNFS5-----A----</AM>
 <AM lemma="felicie" src="auto">NNFP1-----A----</AM>
@@ -2137,7 +2137,7 @@
 <form>polo</form>
 <tag>
 <AM lemma="Polo-2_;m_^(vozidlo)" src="orig">NNNS1-----A----</AM>
-<AM lemma="polo_;m_^(vozidlo)" src="auto" selected="1">NNNS1-----A----</AM>
+<AM lemma="polo-1_^(^DD**pólo)" src="auto" selected="1">NNNS1-----A----</AM>
 <AM lemma="polo_;m_^(vozidlo)" src="auto">NNNS4-----A----</AM>
 <AM lemma="polo_;m_^(vozidlo)" src="auto">NNNS5-----A----</AM>
 <AM lemma="pólo" src="auto" recommended="1">NNNS1-----A----</AM>
@@ -2206,7 +2206,7 @@
 <AM lemma="golf" src="auto">NNIP4-----A----</AM>
 <AM lemma="golf" src="auto">NNIP5-----A----</AM>
 <AM lemma="golf" src="auto">NNIP7-----A----</AM>
-<AM lemma="golf-2_;m_^(vozidlo)" src="manual" selected="1">NNIP1-----A----</AM>
+<AM lemma="golf" src="manual" selected="1">NNIP1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-5-p4s1w14">
@@ -2223,7 +2223,7 @@
 <LM>w#w-ln94208-5-p4s1w15</LM>
 </w.rf>
 <form>passaty</form>
-<tag lemma="Passat_;m_^(vozidlo)" src="auto" selected="1">NNIP1-----A----</tag>
+<tag lemma="passat_^(vozidlo)" src="auto" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-ln94208-5-p4s1w16">
 <src.rf>manual</src.rf>
@@ -2403,7 +2403,7 @@
 <form>polo</form>
 <tag>
 <AM lemma="Polo-2_;m_^(vozidlo)" src="orig">NNNS1-----A----</AM>
-<AM lemma="polo_;m_^(vozidlo)" src="auto" selected="1">NNNS1-----A----</AM>
+<AM lemma="polo-1_^(^DD**pólo)" src="auto" selected="1">NNNS1-----A----</AM>
 <AM lemma="polo_;m_^(vozidlo)" src="auto">NNNS4-----A----</AM>
 <AM lemma="polo_;m_^(vozidlo)" src="auto">NNNS5-----A----</AM>
 <AM lemma="pólo" src="auto" recommended="1">NNNS1-----A----</AM>
@@ -3276,7 +3276,7 @@
 <LM>w#w-ln94208-5-p4s7w12</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS7---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS7---------1</tag>
 </m>
 <m id="m-ln94208-5-p4s7w13">
 <src.rf>manual</src.rf>
@@ -4202,7 +4202,7 @@
 <LM>w#w-ln94208-5-p5s8w2</LM>
 </w.rf>
 <form>modelů</form>
-<tag lemma="model" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="model-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94208-5-p5s8w3">
 <src.rf>manual</src.rf>

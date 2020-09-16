@@ -161,7 +161,7 @@
 <LM>w#w-ln95040-140-p3s1Bw4</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95040-140-p3s1Bw5">
 <src.rf>manual</src.rf>
@@ -311,7 +311,7 @@
 <LM>w#w-ln95040-140-p3s1Bw22</LM>
 </w.rf>
 <form>Rady</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95040-140-p3s1Bw23">
 <src.rf>manual</src.rf>
@@ -404,7 +404,7 @@
 <LM>w#w-ln95040-140-p3s2w8</LM>
 </w.rf>
 <form>přijetí</form>
-<tag lemma="přijetí_^(*3mout)" src="auto" selected="1">NNNS4-----A----</tag>
+<tag lemma="přijetí_^(*1)_(*3mout)" src="auto" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln95040-140-p3s2w9">
 <src.rf>manual</src.rf>
@@ -428,7 +428,7 @@
 <LM>w#w-ln95040-140-p3s2w11</LM>
 </w.rf>
 <form>orgánu</form>
-<tag lemma="orgán" src="orig" selected="1">NNIS3-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIS3-----A----</tag>
 </m>
 <m id="m-ln95040-140-p3s2w12">
 <src.rf>manual</src.rf>
@@ -494,7 +494,7 @@
 <LM>w#w-ln95040-140-p4s1w7</LM>
 </w.rf>
 <form>rady</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95040-140-p4s1w8">
 <src.rf>manual</src.rf>
@@ -715,7 +715,7 @@
 <LM>w#w-ln95040-140-p4s2w11</LM>
 </w.rf>
 <form>Rady</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95040-140-p4s2w12">
 <src.rf>manual</src.rf>
@@ -960,7 +960,7 @@
 <LM>w#w-ln95040-140-p4s5w6</LM>
 </w.rf>
 <form>členy</form>
-<tag lemma="člen" src="orig" selected="1">NNMP7-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-ln95040-140-p4s5w7">
 <src.rf>manual</src.rf>
@@ -1024,7 +1024,7 @@
 <LM>w#w-ln95040-140-p4s5w14</LM>
 </w.rf>
 <form>Rady</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95040-140-p4s5w15">
 <src.rf>manual</src.rf>
@@ -1194,7 +1194,7 @@
 <LM>w#w-ln95040-140-p4s6w16</LM>
 </w.rf>
 <form>potřeba</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95040-140-p4s6w17">
 <src.rf>manual</src.rf>
@@ -1685,7 +1685,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -2109,7 +2109,7 @@
 <LM>w#w-ln95040-140-p4s11Bw3</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95040-140-p4s11Bw4">
 <src.rf>manual</src.rf>
@@ -2321,7 +2321,7 @@
 <LM>w#w-ln95040-140-p4s11Bw29</LM>
 </w.rf>
 <form>právu</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-ln95040-140-p4s11Bw30">
 <src.rf>manual</src.rf>
@@ -2379,7 +2379,7 @@
 <LM>w#w-ln95040-140-p4s12w6</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-ln95040-140-p4s12w7">
 <src.rf>manual</src.rf>
@@ -2683,7 +2683,7 @@
 <LM>w#w-ln95040-140-p4s14w8</LM>
 </w.rf>
 <form>zkrácení</form>
-<tag lemma="zkrácení_,a_^(*2t)" src="auto" selected="1">NNNS4-----A----</tag>
+<tag lemma="zkrácení_^(*4tit)" src="auto" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln95040-140-p4s14w9">
 <src.rf>manual</src.rf>

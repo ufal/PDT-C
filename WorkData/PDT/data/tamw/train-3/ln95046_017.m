@@ -638,7 +638,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln95046-017-p2s4w13">
@@ -1030,7 +1030,7 @@
 <LM>w#w-ln95046-017-p2s6w36</LM>
 </w.rf>
 <form>hodně</form>
-<tag lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto" selected="1">Dg-------1A----</tag>
+<tag lemma="hodně_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95046-017-p2s6w37">
 <src.rf>manual</src.rf>
@@ -1178,7 +1178,7 @@
 <LM>w#w-ln95046-017-p2s8w4</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-ln95046-017-p2s8w5">
 <src.rf>manual</src.rf>
@@ -1430,7 +1430,7 @@
 <LM>w#w-ln95046-017-p2s10w8</LM>
 </w.rf>
 <form>Slavie</form>
-<tag lemma="Slavia_;m" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Slavie_;m_,s_^(^DD**Slávie)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95046-017-p2s10w9">
 <src.rf>manual</src.rf>

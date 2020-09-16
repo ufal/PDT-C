@@ -281,7 +281,7 @@
 <LM>w#w-lnd92259-110-p3s3w6</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS1FS3-------</tag>
 </m>
 <m id="m-lnd92259-110-p3s3w7">
 <src.rf>manual</src.rf>
@@ -1206,7 +1206,7 @@
 <LM>w#w-lnd92259-110-p3s9w8</LM>
 </w.rf>
 <form>tragédie</form>
-<tag lemma="tragedie" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="tragédie" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92259-110-p3s9w9">
 <src.rf>manual</src.rf>

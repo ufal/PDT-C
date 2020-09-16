@@ -64,7 +64,7 @@
 <LM>w#w-mf930713-018-p2s1Aw1</LM>
 </w.rf>
 <form>Karlovy</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUIP1M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUIP1M---------</tag>
 </m>
 <m id="m-mf930713-018-p2s1Aw2">
 <src.rf>manual</src.rf>
@@ -190,7 +190,7 @@
 <LM>w#w-mf930713-018-p2s1Bw12</LM>
 </w.rf>
 <form>Karlových</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUIP6M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUIP6M---------</tag>
 </m>
 <m id="m-mf930713-018-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -324,7 +324,7 @@
 <LM>w#w-mf930713-018-p2s2w9</LM>
 </w.rf>
 <form>Karlovy</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUIP1M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUIP1M---------</tag>
 </m>
 <m id="m-mf930713-018-p2s2w10">
 <src.rf>manual</src.rf>
@@ -498,7 +498,7 @@
 <LM>w#w-mf930713-018-p2s4w12</LM>
 </w.rf>
 <form>Karlových</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUIP2M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUIP2M---------</tag>
 </m>
 <m id="m-mf930713-018-p2s4w13">
 <src.rf>manual</src.rf>
@@ -709,7 +709,7 @@
 <LM>w#w-mf930713-018-p2s5w7</LM>
 </w.rf>
 <form>roli</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="role_^(svitek_poslání_pozemek)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf930713-018-p2s5w8">
 <src.rf>manual</src.rf>
@@ -781,7 +781,7 @@
 <LM>w#w-mf930713-018-p2s5w16</LM>
 </w.rf>
 <form>nejlepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAMS1----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAMS1----3A----</tag>
 </m>
 <m id="m-mf930713-018-p2s5w17">
 <src.rf>manual</src.rf>
@@ -864,7 +864,7 @@
 <LM>w#w-mf930713-018-p2s6w6</LM>
 </w.rf>
 <form>druhý</form>
-<tag lemma="druhý" src="orig" selected="1">CrMS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrMS1----------</tag>
 </m>
 <m id="m-mf930713-018-p2s6w7">
 <src.rf>manual</src.rf>

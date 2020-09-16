@@ -271,7 +271,7 @@
 <LM>w#w-mf930708-177-p2s2w1</LM>
 </w.rf>
 <form>Mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="mluvčí-2" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930708-177-p2s2w2">
 <src.rf>manual</src.rf>
@@ -718,7 +718,7 @@
 <LM>w#w-mf930708-177-p2s4w7</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8NS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8NS4---------1</tag>
 </m>
 <m id="m-mf930708-177-p2s4w8">
 <src.rf>manual</src.rf>

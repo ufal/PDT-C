@@ -75,7 +75,7 @@
 <LM>w#w-ln94203-87-p1s1w8</LM>
 </w.rf>
 <form>umění</form>
-<tag lemma="umění_^(mít_schopnost_něco_dělat)_(*2t)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="umění_^(*2t)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln94203-87-p1s1w9">
 <src.rf>manual</src.rf>
@@ -296,7 +296,7 @@
 <LM>w#w-ln94203-87-p1s2w11</LM>
 </w.rf>
 <form>Opočenský</form>
-<tag lemma="Opočenský-2_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Opočenský_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-87-p1s2w12">
 <src.rf>manual</src.rf>
@@ -450,7 +450,7 @@
 <LM>w#w-ln94203-87-p1s3w12</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FP4---------1</tag>
 </m>
 <m id="m-ln94203-87-p1s3w13">
 <src.rf>manual</src.rf>
@@ -540,7 +540,7 @@
 <LM>w#w-ln94203-87-p1s4w8</LM>
 </w.rf>
 <form>sympozia</form>
-<tag lemma="sympózium" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="sympozium" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln94203-87-p1s4w9">
 <src.rf>manual</src.rf>
@@ -753,7 +753,7 @@
 <LM>w#w-ln94203-87-p1s5w12</LM>
 </w.rf>
 <form>umění</form>
-<tag lemma="umění_^(mít_schopnost_něco_dělat)_(*2t)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="umění_^(*2t)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln94203-87-p1s5w13">
 <src.rf>manual</src.rf>

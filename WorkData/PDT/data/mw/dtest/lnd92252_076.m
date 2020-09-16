@@ -93,7 +93,7 @@
 <LM>w#w-lnd92252-076-p2s1w3</LM>
 </w.rf>
 <form>druhý</form>
-<tag lemma="druhý" src="orig" selected="1">CrMS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrMS1----------</tag>
 </m>
 </s>
 <s id="m-lnd92252-076-p3s1">
@@ -129,7 +129,7 @@
 <LM>w#w-lnd92252-076-p3s2w2</LM>
 </w.rf>
 <form>veterán</form>
-<tag lemma="veterán" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="veterán-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-076-p3s2w3">
 <src.rf>manual</src.rf>
@@ -425,7 +425,7 @@
 <LM>w#w-lnd92252-076-p3s3w1</LM>
 </w.rf>
 <form>Druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS4----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS4----------</tag>
 </m>
 <m id="m-lnd92252-076-p3s3w2">
 <src.rf>manual</src.rf>
@@ -933,7 +933,7 @@
 <LM>w#w-lnd92252-076-p4s3w4</LM>
 </w.rf>
 <form>jezdec</form>
-<tag lemma="jezdec" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="jezdec-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-076-p4s3w5">
 <src.rf>manual</src.rf>
@@ -957,7 +957,7 @@
 <LM>w#w-lnd92252-076-p4s3w7</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS4----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS4----------</tag>
 </m>
 <m id="m-lnd92252-076-p4s3w8">
 <src.rf>manual</src.rf>
@@ -1178,7 +1178,7 @@
 <LM>w#w-lnd92252-076-p5s1w7</LM>
 </w.rf>
 <form>km</form>
-<tag lemma="km-1`kilometr" src="orig" selected="1">NNIXX-----A---b</tag>
+<tag lemma="kilometr" src="orig" selected="1">NNIXX-----A---b</tag>
 </m>
 <m id="m-lnd92252-076-p5s1w8">
 <src.rf>manual</src.rf>

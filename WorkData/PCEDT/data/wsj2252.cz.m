@@ -642,7 +642,7 @@
 </w.rf>
 <form>podanou</form>
 <tag>
-<AM lemma="podaný_^(něco_[někomu]_[někam])_(*2t)" src="auto" recommended="1">AAFS4----1A----</AM>
+<AM lemma="podaný_^(*2t)" src="auto" recommended="1">AAFS4----1A----</AM>
 <AM lemma="podaný_^(něco_[někomu]_[někam])_(*2t)" src="auto">AAFS7----1A----</AM>
 </tag>
 </m>
@@ -797,7 +797,7 @@
 <form>podanými</form>
 <tag>
 <AM lemma="podaný_^(něco_[někomu]_[někam])_(*2t)" src="auto">AAFP7----1A----</AM>
-<AM lemma="podaný_^(něco_[někomu]_[někam])_(*2t)" src="auto" recommended="1">AAIP7----1A----</AM>
+<AM lemma="podaný_^(*2t)" src="auto" recommended="1">AAIP7----1A----</AM>
 <AM lemma="podaný_^(něco_[někomu]_[někam])_(*2t)" src="auto">AAMP7----1A----</AM>
 <AM lemma="podaný_^(něco_[někomu]_[někam])_(*2t)" src="auto">AANP7----1A----</AM>
 </tag>

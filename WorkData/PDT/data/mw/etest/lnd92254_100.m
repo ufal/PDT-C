@@ -67,7 +67,7 @@
 <LM>w#w-lnd92254-100-p1s1w7</LM>
 </w.rf>
 <form>naší</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS2-P1-------</tag>
 </m>
 <m id="m-lnd92254-100-p1s1w8">
 <src.rf>manual</src.rf>
@@ -294,7 +294,7 @@
 <LM>w#w-lnd92254-100-p1s2w4</LM>
 </w.rf>
 <form>děti</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-lnd92254-100-p1s2w5">
 <src.rf>manual</src.rf>

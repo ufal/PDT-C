@@ -19,7 +19,7 @@
 <LM>w#w-lnd94104-037-p1s1w1</LM>
 </w.rf>
 <form>Zelení</form>
-<tag lemma="zelený" src="orig" selected="1">AAMP1----1A----</tag>
+<tag lemma="zelený_;o" src="orig" selected="1">AAMP1----1A----</tag>
 </m>
 <m id="m-lnd94104-037-p1s1w2">
 <src.rf>manual</src.rf>

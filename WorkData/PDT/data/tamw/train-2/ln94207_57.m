@@ -131,7 +131,7 @@
 <LM>w#w-ln94207-57-p2s1Bw6</LM>
 </w.rf>
 <form>Santos</form>
-<tag lemma="Santos_;G" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Santos-2_;G" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94207-57-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -171,7 +171,7 @@
 <LM>w#w-ln94207-57-p2s1Bw11</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-ln94207-57-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -237,7 +237,7 @@
 <LM>w#w-ln94207-57-p2s2w4</LM>
 </w.rf>
 <form>napadení</form>
-<tag lemma="napadení_^(*3nout)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="napadení" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94207-57-p2s2w5">
 <src.rf>manual</src.rf>
@@ -293,7 +293,7 @@
 <LM>w#w-ln94207-57-p2s2w11</LM>
 </w.rf>
 <form>Santos</form>
-<tag lemma="Santos_;G" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Santos-2_;G" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94207-57-p2s2w12">
 <src.rf>manual</src.rf>
@@ -471,7 +471,7 @@
 <LM>w#w-ln94207-57-p3s1w13</LM>
 </w.rf>
 <form>Josého</form>
-<tag lemma="José_;Y" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="José-1_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94207-57-p3s1w14">
 <src.rf>manual</src.rf>
@@ -511,7 +511,7 @@
 <LM>w#w-ln94207-57-p3s1w18</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8NS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8NS4---------1</tag>
 </m>
 <m id="m-ln94207-57-p3s1w19">
 <src.rf>manual</src.rf>
@@ -744,7 +744,7 @@
 <LM>w#w-ln94207-57-p3s3w11</LM>
 </w.rf>
 <form>Santosu</form>
-<tag lemma="Santos_;G" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Santos-2_;G" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94207-57-p3s3w12">
 <src.rf>manual</src.rf>

@@ -161,7 +161,7 @@
 <LM>w#w-ln94202-132-p2s1Bw7</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94202-132-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -289,7 +289,7 @@
 <LM>w#w-ln94202-132-p2s1Cw7</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8YP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8YP4---------1</tag>
 </m>
 <m id="m-ln94202-132-p2s1Cw8">
 <src.rf>manual</src.rf>
@@ -805,7 +805,7 @@
 <LM>w#w-ln94202-132-p2s3w37</LM>
 </w.rf>
 <form>jejího</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS2FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS2FS3-------</tag>
 </m>
 <m id="m-ln94202-132-p2s3w38">
 <src.rf>manual</src.rf>
@@ -903,7 +903,7 @@
 <LM>w#w-ln94202-132-p2s4w10</LM>
 </w.rf>
 <form>přeložených</form>
-<tag lemma="přeložený-3_^(z_jazyka)_(*5it-3)" src="orig" selected="1">AANP2----1A----</tag>
+<tag lemma="přeložený_^(*3it)" src="orig" selected="1">AANP2----1A----</tag>
 </m>
 <m id="m-ln94202-132-p2s4w11">
 <src.rf>manual</src.rf>
@@ -938,7 +938,7 @@
 <LM>w#w-ln94202-132-p2s4w14</LM>
 </w.rf>
 <form>málo</form>
-<tag lemma="málo-3_^(málo_+_příd._jm.,_př._byl_málo_důsledný)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="málo-3_^(málo_důsledný)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94202-132-p2s4w15">
 <src.rf>manual</src.rf>
@@ -1042,7 +1042,7 @@
 <LM>w#w-ln94202-132-p2s4w27</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XP1FS3-------</tag>
 </m>
 <m id="m-ln94202-132-p2s4w28">
 <src.rf>manual</src.rf>

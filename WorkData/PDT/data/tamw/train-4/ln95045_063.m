@@ -362,7 +362,7 @@
 <LM>w#w-ln95045-063-p2s2w12</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-ln95045-063-p2s2w13">
 <src.rf>manual</src.rf>
@@ -741,7 +741,7 @@
 <LM>w#w-ln95045-063-p2s6w5</LM>
 </w.rf>
 <form>lidi</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-ln95045-063-p2s6w6">
 <src.rf>manual</src.rf>
@@ -904,7 +904,7 @@
 <LM>w#w-ln95045-063-p2s6w25</LM>
 </w.rf>
 <form>dá</form>
-<tag lemma="dát" src="orig" selected="1">VB-S---3P-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln95045-063-p2s6w26">
 <src.rf>manual</src.rf>

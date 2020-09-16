@@ -472,7 +472,7 @@
 <LM>w#w-ln94210-135-p2s1Cw28</LM>
 </w.rf>
 <form>správní</form>
-<tag lemma="správní_^(např._poplatek;_rada;_řád;...)" src="orig" selected="1">AAIS1----1A----</tag>
+<tag lemma="správní_^(správní_rada;_řád)" src="orig" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-ln94210-135-p2s1Cw29">
 <src.rf>manual</src.rf>
@@ -1216,7 +1216,7 @@
 <LM>w#w-ln94210-135-p3s5w3</LM>
 </w.rf>
 <form>Marianny</form>
-<tag lemma="Marianna-2_;Y" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Marianna_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94210-135-p3s5w4">
 <src.rf>manual</src.rf>
@@ -1264,7 +1264,7 @@
 <LM>w#w-ln94210-135-p3s5w9</LM>
 </w.rf>
 <form>Romové</form>
-<tag lemma="Rom-4_;E" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="Rom_;E_;Y" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln94210-135-p3s5w10">
 <src.rf>manual</src.rf>
@@ -1336,7 +1336,7 @@
 <LM>w#w-ln94210-135-p3s5w18</LM>
 </w.rf>
 <form>hromadí</form>
-<tag lemma="hromadit_^(získávat_ve_větším_množství)" src="orig" selected="1">VB-P---3P-AAI--</tag>
+<tag lemma="hromadit" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln94210-135-p3s5w19">
 <src.rf>manual</src.rf>
@@ -1709,7 +1709,7 @@
 <LM>w#w-ln94210-135-p4s1w11</LM>
 </w.rf>
 <form>Hnutí</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94210-135-p4s1w12">
 <src.rf>manual</src.rf>
@@ -2184,7 +2184,7 @@
 <LM>w#w-ln94210-135-p4s4w13</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln94210-135-p4s4w14">
 <src.rf>manual</src.rf>
@@ -2333,7 +2333,7 @@
 <LM>w#w-ln94210-135-p5s1w5</LM>
 </w.rf>
 <form>Romové</form>
-<tag lemma="Rom-4_;E" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="Rom_;E_;Y" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln94210-135-p5s1w6">
 <src.rf>manual</src.rf>
@@ -2416,7 +2416,7 @@
 <LM>w#w-ln94210-135-p5s1w15</LM>
 </w.rf>
 <form>práva</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNP4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNP4-----A----</tag>
 </m>
 <m id="m-ln94210-135-p5s1w16">
 <src.rf>manual</src.rf>

@@ -439,7 +439,7 @@
 <LM>w#w-mf920925-123-p4s4w2</LM>
 </w.rf>
 <form>druhém</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-mf920925-123-p4s4w3">
 <src.rf>manual</src.rf>

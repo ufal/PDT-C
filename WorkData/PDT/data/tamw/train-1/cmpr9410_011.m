@@ -53,7 +53,7 @@
 <LM>w#w-cmpr9410-011-p2s1w2</LM>
 </w.rf>
 <form>nezaměstnanosti</form>
-<tag lemma="nezaměstnanost-2_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="nezaměstnanost_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-cmpr9410-011-p2s1w3">
 <src.rf>manual</src.rf>
@@ -444,7 +444,7 @@
 <LM>w#w-cmpr9410-011-p2s2w36</LM>
 </w.rf>
 <form>nezaměstnanosti</form>
-<tag lemma="nezaměstnanost-2_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="nezaměstnanost_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-cmpr9410-011-p2s2w37">
 <src.rf>manual</src.rf>
@@ -460,7 +460,7 @@
 <LM>w#w-cmpr9410-011-p2s2w38</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-cmpr9410-011-p2s2w39">
 <src.rf>manual</src.rf>
@@ -617,7 +617,7 @@
 <LM>w#w-cmpr9410-011-p2s3w10</LM>
 </w.rf>
 <form>nezaměstnanosti</form>
-<tag lemma="nezaměstnanost-2_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="nezaměstnanost_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-cmpr9410-011-p2s3w11">
 <src.rf>manual</src.rf>
@@ -1036,7 +1036,7 @@
 <LM>w#w-cmpr9410-011-p4s3w11</LM>
 </w.rf>
 <form>zpomalením</form>
-<tag lemma="zpomalení_,s_^(*2t)" src="auto" selected="1">NNNS7-----A----</tag>
+<tag lemma="zpomalení_^(*2t)_(*3it)" src="auto" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-cmpr9410-011-p4s3w12">
 <src.rf>manual</src.rf>

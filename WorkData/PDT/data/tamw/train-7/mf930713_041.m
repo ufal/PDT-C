@@ -627,7 +627,7 @@
 <LM>w#w-mf930713-041-p2s1Cw6</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-mf930713-041-p2s1Cw7">
 <src.rf>manual</src.rf>
@@ -813,7 +813,7 @@
 <LM>w#w-mf930713-041-p2s2w13</LM>
 </w.rf>
 <form>druhý</form>
-<tag lemma="druhý" src="orig" selected="1">CrMS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrMS1----------</tag>
 </m>
 <m id="m-mf930713-041-p2s2w14">
 <src.rf>manual</src.rf>
@@ -1224,7 +1224,7 @@
 <LM>w#w-mf930713-041-p3s1Cw9</LM>
 </w.rf>
 <form>Slovanu</form>
-<tag lemma="Slovan-2_;m" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Slovan-2_;G_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930713-041-p3s1Cw10">
 <src.rf>manual</src.rf>
@@ -1497,7 +1497,7 @@
 <LM>w#w-mf930713-041-p4s1Aw2</LM>
 </w.rf>
 <form>dítěti</form>
-<tag lemma="dítě" src="orig" selected="1">NNNS3-----A----</tag>
+<tag lemma="dítě-1" src="orig" selected="1">NNNS3-----A----</tag>
 </m>
 <m id="m-mf930713-041-p4s1Aw3">
 <src.rf>manual</src.rf>
@@ -1595,7 +1595,7 @@
 <LM>w#w-mf930713-041-p4s1Cw4</LM>
 </w.rf>
 <form>bílého</form>
-<tag lemma="bílý" src="orig" selected="1">AAIS2----1A----</tag>
+<tag lemma="bílý_;o" src="orig" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-mf930713-041-p4s1Cw5">
 <src.rf>manual</src.rf>
@@ -1603,7 +1603,7 @@
 <LM>w#w-mf930713-041-p4s1Cw5</LM>
 </w.rf>
 <form>dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930713-041-p4s1Cw6">
 <src.rf>manual</src.rf>
@@ -1683,7 +1683,7 @@
 <LM>w#w-mf930713-041-p4s1Cw15</LM>
 </w.rf>
 <form>nezaměstnaný</form>
-<tag lemma="zaměstnaný-1_^(všeob._význam:_činnost,_zaměstnání)_(*4t-1)" src="orig" selected="1">AAMS1----1N----</tag>
+<tag lemma="zaměstnaný_^(*2t)" src="orig" selected="1">AAMS1----1N----</tag>
 </m>
 <m id="m-mf930713-041-p4s1Cw16">
 <src.rf>manual</src.rf>
@@ -2102,7 +2102,7 @@
 <LM>w#w-mf930713-041-p4s5w10</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-mf930713-041-p4s5w11">
 <src.rf>manual</src.rf>

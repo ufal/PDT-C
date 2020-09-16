@@ -777,7 +777,7 @@
 <LM>w#w-mf930713-043-p5s3w3</LM>
 </w.rf>
 <form>pozornost</form>
-<tag lemma="pozornost-1_^(všímavý,_milý,_soustředěný)_(*5ý-1)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="pozornost-1_^(*5ý-1)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf930713-043-p5s3w4">
 <src.rf>manual</src.rf>
@@ -1790,7 +1790,7 @@
 <LM>w#w-mf930713-043-p7s1w16</LM>
 </w.rf>
 <form>proto</form>
-<tag lemma="proto-2_^(dal_mu_co_proto,_tak_proto!)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="proto-2_^(proto_že)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf930713-043-p7s1w17">
 <src.rf>manual</src.rf>
@@ -1870,7 +1870,7 @@
 <LM>w#w-mf930713-043-p7s1w26</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS2---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS2---------1</tag>
 </m>
 <m id="m-mf930713-043-p7s1w27">
 <src.rf>manual</src.rf>
@@ -2344,7 +2344,7 @@
 <LM>w#w-mf930713-043-p7s2w32</LM>
 </w.rf>
 <form>jejího</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS2FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS2FS3-------</tag>
 </m>
 <m id="m-mf930713-043-p7s2w33">
 <src.rf>manual</src.rf>
@@ -2490,7 +2490,7 @@
 <LM>w#w-mf930713-043-p8s1w16</LM>
 </w.rf>
 <form>nezaměstnaný</form>
-<tag lemma="zaměstnaný-1_^(všeob._význam:_činnost,_zaměstnání)_(*4t-1)" src="orig" selected="1">AAMS1----1N----</tag>
+<tag lemma="zaměstnaný_^(*2t)" src="orig" selected="1">AAMS1----1N----</tag>
 </m>
 <m id="m-mf930713-043-p8s1w17">
 <src.rf>manual</src.rf>
@@ -2522,7 +2522,7 @@
 <LM>w#w-mf930713-043-p8s1w20</LM>
 </w.rf>
 <form>nalezení</form>
-<tag lemma="nalezení-2_^(*7ézt-2)" src="auto" selected="1">NNNS6-----A----</tag>
+<tag lemma="nalezení" src="auto" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-mf930713-043-p8s1w21">
 <src.rf>manual</src.rf>
@@ -2530,7 +2530,7 @@
 <LM>w#w-mf930713-043-p8s1w21</LM>
 </w.rf>
 <form>zaměstnání</form>
-<tag lemma="zaměstnání-1_^(všeob._význam:_činnost,_zaměstnání)_(*5at-1)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="zaměstnání_^(*3at)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-mf930713-043-p8s1w22">
 <src.rf>manual</src.rf>
@@ -2668,7 +2668,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -3348,7 +3348,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -3597,7 +3597,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -3631,7 +3631,7 @@
 <LM>w#w-mf930713-043-p10s1w16</LM>
 </w.rf>
 <form>pozornost</form>
-<tag lemma="pozornost-1_^(všímavý,_milý,_soustředěný)_(*5ý-1)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="pozornost-1_^(*5ý-1)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf930713-043-p10s1w17">
 <src.rf>manual</src.rf>
@@ -3753,7 +3753,7 @@
 <LM>w#w-mf930713-043-p10s2w10</LM>
 </w.rf>
 <form>jehož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P1XXXZS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXZS3-------</tag>
 </m>
 <m id="m-mf930713-043-p10s2w11">
 <src.rf>manual</src.rf>
@@ -3825,7 +3825,7 @@
 <LM>w#w-mf930713-043-p10s2w19</LM>
 </w.rf>
 <form>daný</form>
-<tag lemma="daný_^(*3át)" src="auto" selected="1">AAIS1----1A----</tag>
+<tag lemma="daný-1_^(*5át-1)" src="auto" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-mf930713-043-p10s2w20">
 <src.rf>manual</src.rf>

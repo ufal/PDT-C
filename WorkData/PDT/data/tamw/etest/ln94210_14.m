@@ -37,7 +37,7 @@
 <LM>w#w-ln94210-14-p2s1w2</LM>
 </w.rf>
 <form>bílého</form>
-<tag lemma="bílý" src="orig" selected="1">AAIS2----1A----</tag>
+<tag lemma="bílý_;o" src="orig" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-ln94210-14-p2s1w3">
 <src.rf>manual</src.rf>
@@ -407,7 +407,7 @@
 <LM>w#w-ln94210-14-p3s1w14</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94210-14-p3s1w15">
 <src.rf>manual</src.rf>

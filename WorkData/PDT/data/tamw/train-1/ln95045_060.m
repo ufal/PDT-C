@@ -201,7 +201,7 @@
 <LM>w#w-ln95045-060-p2s1Bw14</LM>
 </w.rf>
 <form>tajné</form>
-<tag lemma="tajný" src="orig" selected="1">AAFS2----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-ln95045-060-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -534,7 +534,7 @@
 <LM>w#w-ln95045-060-p2s3w6</LM>
 </w.rf>
 <form>Lexovo</form>
-<tag lemma="Lexův_;Y_^(*2a)" src="orig" selected="1">AUNS4M---------</tag>
+<tag lemma="Lexův_;Y_^(*2)_(*2a)" src="orig" selected="1">AUNS4M---------</tag>
 </m>
 <m id="m-ln95045-060-p2s3w7">
 <src.rf>manual</src.rf>

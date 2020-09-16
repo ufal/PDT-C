@@ -1383,7 +1383,7 @@
 <form>lidi</form>
 <tag>
 <AM lemma="člověk" src="auto">NNMP1-----A----</AM>
-<AM lemma="člověk" src="auto" recommended="1">NNMP4-----A----</AM>
+<AM lemma="lidé" src="auto" recommended="1">NNMP4-----A----</AM>
 <AM lemma="člověk" src="auto">NNMP5-----A----</AM>
 </tag>
 </m>
@@ -1665,7 +1665,7 @@
 <tag>
 <AM lemma="první" src="auto">CrFP2----------</AM>
 <AM lemma="první" src="auto">CrFP6----------</AM>
-<AM lemma="první" src="auto" recommended="1">CrIP2----------</AM>
+<AM lemma="první-1" src="auto" recommended="1">CrIP2----------</AM>
 <AM lemma="první" src="auto">CrIP6----------</AM>
 <AM lemma="první" src="auto">CrMP2----------</AM>
 <AM lemma="první" src="auto">CrMP6----------</AM>
@@ -1983,7 +1983,7 @@
 </w.rf>
 <form>předešlém</form>
 <tag>
-<AM lemma="předešlý_^(díky_rychlejší_chůzi)_(předchozí,minulý,poslední)_(*3jít)" src="auto" recommended="1">AAIS6----1A----</AM>
+<AM lemma="předešlý_^(*3jít)" src="auto" recommended="1">AAIS6----1A----</AM>
 <AM lemma="předešlý_^(díky_rychlejší_chůzi)_(předchozí,minulý,poslední)_(*3jít)" src="auto">AAMS6----1A----</AM>
 <AM lemma="předešlý_^(díky_rychlejší_chůzi)_(předchozí,minulý,poslední)_(*3jít)" src="auto">AANS6----1A----</AM>
 </tag>
@@ -2341,7 +2341,7 @@
 <AM lemma="první" src="auto">CrIP4----------</AM>
 <AM lemma="první" src="auto">CrIP5----------</AM>
 <AM lemma="první" src="auto">CrIS1----------</AM>
-<AM lemma="první" src="auto" recommended="1">CrIS4----------</AM>
+<AM lemma="první-1" src="auto" recommended="1">CrIS4----------</AM>
 <AM lemma="první" src="auto">CrIS5----------</AM>
 <AM lemma="první" src="auto">CrMP1----------</AM>
 <AM lemma="první" src="auto">CrMP4----------</AM>
@@ -3011,7 +3011,7 @@
 <form>lidi</form>
 <tag>
 <AM lemma="člověk" src="auto">NNMP1-----A----</AM>
-<AM lemma="člověk" src="auto" recommended="1">NNMP4-----A----</AM>
+<AM lemma="lidé" src="auto" recommended="1">NNMP4-----A----</AM>
 <AM lemma="člověk" src="auto">NNMP5-----A----</AM>
 </tag>
 </m>
@@ -4126,7 +4126,7 @@
 </w.rf>
 <form>jejích</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XP2FS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9XP2FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP6FS3-------</AM>
 </tag>
 </m>
@@ -4299,7 +4299,7 @@
 <AM lemma="dobrý" src="auto">AAFP3----3A----</AM>
 <AM lemma="dobrý" src="auto">AAIP3----3A----</AM>
 <AM lemma="dobrý" src="auto">AAIS6----3A----</AM>
-<AM lemma="dobrý" src="auto" recommended="1">AAIS7----3A----</AM>
+<AM lemma="lepší" src="auto" recommended="1">AAIS7----3A----</AM>
 <AM lemma="dobrý" src="auto">AAMP3----3A----</AM>
 <AM lemma="dobrý" src="auto">AAMS6----3A----</AM>
 <AM lemma="dobrý" src="auto">AAMS7----3A----</AM>
@@ -5218,7 +5218,7 @@
 </w.rf>
 <form>lipidu</form>
 <tag>
-<AM lemma="lipid_;U" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="lipid" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="lipid_;U" src="auto">NNIS3-----A----</AM>
 <AM lemma="lipid_;U" src="auto">NNIS6-----A----</AM>
 </tag>
@@ -5560,7 +5560,7 @@
 </w.rf>
 <form>antacid</form>
 <tag>
-<AM lemma="antacid_;U" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="antacid" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="antacid_;U" src="auto">NNIS4-----A----</AM>
 <AM lemma="antacidum_;U" src="auto">NNNP2-----A----</AM>
 </tag>
@@ -6088,7 +6088,7 @@
 <tag>
 <AM lemma="Trident_;m" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Trident_;m" src="auto">NNIS4-----A----</AM>
-<AM lemma="Trident_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Trident_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2007-001-p1s20W7-Ta">
@@ -8004,7 +8004,7 @@
 <LM>w#w-wsj2007-001-p1s25W8</LM>
 </w.rf>
 <form>Indiana</form>
-<tag lemma="Indiana_;G" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="Indiana-1_;G" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m-wsj2007-001-p1s25W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8541,7 +8541,7 @@
 <AM lemma="antidepresivum_;U" src="auto">NNNP1-----A----</AM>
 <AM lemma="antidepresivum_;U" src="auto">NNNP4-----A----</AM>
 <AM lemma="antidepresivum_;U" src="auto">NNNP5-----A----</AM>
-<AM lemma="antidepresivum_;U" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="antidepresivum" src="auto" recommended="1">NNNS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2007-001-p1s27W13-Ta">

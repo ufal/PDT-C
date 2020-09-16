@@ -88,7 +88,7 @@
 <LM>w#w-lnd94104-140-p1s1Bw2</LM>
 </w.rf>
 <form>Blažková</form>
-<tag lemma="Blažková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Blažková_;Y_^(*3a)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94104-140-p1s1Bw3">
 <src.rf>manual</src.rf>
@@ -218,7 +218,7 @@
 <LM>w#w-lnd94104-140-p1s1Cw14</LM>
 </w.rf>
 <form>potřeba</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94104-140-p1s1Cw15">
 <src.rf>manual</src.rf>
@@ -1027,7 +1027,7 @@
 <LM>w#w-lnd94104-140-p1s6w5</LM>
 </w.rf>
 <form>vypadá</form>
-<tag lemma="vypadat" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="vypadat-1_^(ty_vypadáš)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd94104-140-p1s6w6">
 <src.rf>manual</src.rf>
@@ -1126,7 +1126,7 @@
 <LM>w#w-lnd94104-140-p1s6w17</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-lnd94104-140-p1s6w18">
 <src.rf>manual</src.rf>
@@ -1182,7 +1182,7 @@
 <LM>w#w-lnd94104-140-p1s6w24</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-140-p1s6w25">
 <src.rf>manual</src.rf>

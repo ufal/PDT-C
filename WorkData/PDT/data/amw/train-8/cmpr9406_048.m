@@ -1389,7 +1389,7 @@
 <LM>w#w-cmpr9406-048-p6s4w28</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS2---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS2---------1</tag>
 </m>
 <m id="m-cmpr9406-048-p6s4w29">
 <src.rf>manual</src.rf>
@@ -1397,7 +1397,7 @@
 <LM>w#w-cmpr9406-048-p6s4w29</LM>
 </w.rf>
 <form>odpovědnosti</form>
-<tag lemma="odpovědnost_^(kdo_za_něco_odpovídá)_(*3ý)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="odpovědnost_^(*3ý)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-cmpr9406-048-p6s4w30">
 <src.rf>manual</src.rf>
@@ -1540,7 +1540,7 @@
 <LM>w#w-cmpr9406-048-p8s1w8</LM>
 </w.rf>
 <form>koupené</form>
-<tag lemma="koupený_^(něco_sobě/někomu)_(*3it)" src="orig" selected="1">AANS1----1A----</tag>
+<tag lemma="koupený_^(*3it)" src="orig" selected="1">AANS1----1A----</tag>
 </m>
 <m id="m-cmpr9406-048-p8s1w9">
 <src.rf>manual</src.rf>
@@ -1676,7 +1676,7 @@
 <LM>w#w-cmpr9406-048-p8s1w25</LM>
 </w.rf>
 <form>obsažený</form>
-<tag lemma="obsažený_^(*5áhnout)" src="orig" selected="1">AAIS1----1A----</tag>
+<tag lemma="obsažený" src="orig" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-cmpr9406-048-p8s1w26">
 <src.rf>manual</src.rf>
@@ -2360,7 +2360,7 @@
 <LM>w#w-cmpr9406-048-p10s2w7</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FXXFS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1FXXFS3-------</tag>
 </m>
 <m id="m-cmpr9406-048-p10s2w8">
 <src.rf>manual</src.rf>
@@ -2392,7 +2392,7 @@
 <LM>w#w-cmpr9406-048-p10s2w11</LM>
 </w.rf>
 <form>převzetím</form>
-<tag lemma="převzetí_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="převzetí_^(*3ít)" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-cmpr9406-048-p10s2w12">
 <src.rf>manual</src.rf>
@@ -2920,7 +2920,7 @@
 <LM>w#w-cmpr9406-048-p10s4w7</LM>
 </w.rf>
 <form>odpovědnosti</form>
-<tag lemma="odpovědnost_^(kdo_za_něco_odpovídá)_(*3ý)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="odpovědnost_^(*3ý)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-cmpr9406-048-p10s4w8">
 <src.rf>manual</src.rf>
@@ -3703,7 +3703,7 @@
 <LM>w#w-cmpr9406-048-p16s1w3</LM>
 </w.rf>
 <form>Právo</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-cmpr9406-048-p16s1w4">
 <src.rf>manual</src.rf>
@@ -3743,7 +3743,7 @@
 <LM>w#w-cmpr9406-048-p16s1w8</LM>
 </w.rf>
 <form>právo</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-048-p16s1w9">
 <src.rf>manual</src.rf>
@@ -3807,7 +3807,7 @@
 <LM>w#w-cmpr9406-048-p16s1w16</LM>
 </w.rf>
 <form>brání</form>
-<tag lemma="bránit_^(klást_překážky)" src="auto" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="bránit" src="auto" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9406-048-p16s1w17">
 <src.rf>manual</src.rf>
@@ -3865,7 +3865,7 @@
 <LM>w#w-cmpr9406-048-p17s1w3</LM>
 </w.rf>
 <form>právo</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-cmpr9406-048-p17s1w4">
 <src.rf>manual</src.rf>
@@ -4093,7 +4093,7 @@
 <LM>w#w-cmpr9406-048-p19s1w11</LM>
 </w.rf>
 <form>převzetí</form>
-<tag lemma="převzetí_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="převzetí_^(*3ít)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-cmpr9406-048-p19s1w12">
 <src.rf>manual</src.rf>
@@ -4413,7 +4413,7 @@
 <LM>w#w-cmpr9406-048-p19s2w36</LM>
 </w.rf>
 <form>převzetí</form>
-<tag lemma="převzetí_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="převzetí_^(*3ít)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-cmpr9406-048-p19s2w37">
 <src.rf>manual</src.rf>
@@ -4818,7 +4818,7 @@
 <LM>w#w-cmpr9406-048-p20s2w20</LM>
 </w.rf>
 <form>právo</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-cmpr9406-048-p20s2w21">
 <src.rf>manual</src.rf>
@@ -4940,7 +4940,7 @@
 <LM>w#w-cmpr9406-048-p21s1w5</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8YP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8YP4---------1</tag>
 </m>
 <m id="m-cmpr9406-048-p21s1w6">
 <src.rf>manual</src.rf>
@@ -5637,7 +5637,7 @@
 <LM>w#w-cmpr9406-048-p29s1Aw1</LM>
 </w.rf>
 <form>VYVÁŽENÉ</form>
-<tag lemma="vyvážený_^(zboží_přes_hranice)_(*2t)" src="orig" selected="1">AAIP1----1A----</tag>
+<tag lemma="vyvážený_^(*2t)_(*3it)" src="orig" selected="1">AAIP1----1A----</tag>
 </m>
 <m id="m-cmpr9406-048-p29s1Aw2">
 <src.rf>manual</src.rf>
@@ -5695,7 +5695,7 @@
 <LM>w#w-cmpr9406-048-p29s1Bw5</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-cmpr9406-048-p29s1Bw6">
 <src.rf>manual</src.rf>

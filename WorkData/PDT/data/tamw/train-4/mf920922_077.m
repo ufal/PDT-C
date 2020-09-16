@@ -51,7 +51,7 @@
 <LM>w#w-mf920922-077-p1s1w5</LM>
 </w.rf>
 <form>druhý</form>
-<tag lemma="druhý" src="orig" selected="1">CrMS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrMS1----------</tag>
 </m>
 </s>
 <s id="m-mf920922-077-p2s1">
@@ -77,7 +77,7 @@
 <LM>w#w-mf920922-077-p2s1w3</LM>
 </w.rf>
 <form>dnu</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-mf920922-077-p2s1w4">
 <src.rf>manual</src.rf>
@@ -217,7 +217,7 @@
 <LM>w#w-mf920922-077-p2s2w2</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS4----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS4----------</tag>
 </m>
 <m id="m-mf920922-077-p2s2w3">
 <src.rf>manual</src.rf>

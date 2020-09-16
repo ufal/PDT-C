@@ -53,7 +53,7 @@
 <LM>w#w-ln95042-025-p2s1w3</LM>
 </w.rf>
 <form>vás</form>
-<tag lemma="ty" src="orig" selected="1">PP-P2--2-------</tag>
+<tag lemma="vy" src="orig" selected="1">PP-P2--2-------</tag>
 </m>
 <m id="m-ln95042-025-p2s1w4">
 <src.rf>manual</src.rf>
@@ -1025,7 +1025,7 @@
 <LM>w#w-ln95042-025-p2s7Bw6</LM>
 </w.rf>
 <form>myšleného</form>
-<tag lemma="myšlený_^(*5slet)" src="orig" selected="1">AANS2----1A----</tag>
+<tag lemma="myšlený_^(*5slit)" src="orig" selected="1">AANS2----1A----</tag>
 </m>
 <m id="m-ln95042-025-p2s7Bw7">
 <src.rf>manual</src.rf>
@@ -1121,7 +1121,7 @@
 <LM>w#w-ln95042-025-p2s7Bw18</LM>
 </w.rf>
 <form>moje</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSHS1-S1-------</tag>
+<tag lemma="můj" src="orig" selected="1">PSHS1-S1-------</tag>
 </m>
 <m id="m-ln95042-025-p2s7Bw19">
 <src.rf>manual</src.rf>
@@ -1321,7 +1321,7 @@
 <LM>w#w-ln95042-025-p2s8Aw14</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 </s>
 <s id="m-ln95042-025-p2s8B">

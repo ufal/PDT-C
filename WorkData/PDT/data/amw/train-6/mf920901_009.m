@@ -298,7 +298,7 @@
 <LM>w#w-mf920901-009-p2s2w2</LM>
 </w.rf>
 <form>prvních</form>
-<tag lemma="první" src="orig" selected="1">CrIP2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIP2----------</tag>
 </m>
 <m id="m-mf920901-009-p2s2w3">
 <src.rf>manual</src.rf>
@@ -1018,7 +1018,7 @@
 <LM>w#w-mf920901-009-p3s1w23</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-mf920901-009-p3s1w24">
 <src.rf>manual</src.rf>
@@ -1556,7 +1556,7 @@
 <LM>w#w-mf920901-009-p3s4w20</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-mf920901-009-p3s4w21">
 <src.rf>manual</src.rf>
@@ -1590,7 +1590,7 @@
 <LM>w#w-mf920901-009-p3s5w2</LM>
 </w.rf>
 <form>zpochybnění</form>
-<tag lemma="zpochybnění_,s_^(*3it)" src="orig" selected="1">NNNS3-----A----</tag>
+<tag lemma="zpochybnění_^(*2t)_(*3it)" src="orig" selected="1">NNNS3-----A----</tag>
 </m>
 <m id="m-mf920901-009-p3s5w3">
 <src.rf>manual</src.rf>
@@ -1704,7 +1704,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -2421,7 +2421,7 @@
 <LM>w#w-mf920901-009-p4s2w10</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9IS4FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9IS4FS3-------</tag>
 </m>
 <m id="m-mf920901-009-p4s2w11">
 <src.rf>manual</src.rf>
@@ -2535,7 +2535,7 @@
 <LM>w#w-mf920901-009-p4s3w7</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP3----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP3----------</tag>
 </m>
 <m id="m-mf920901-009-p4s3w8">
 <src.rf>manual</src.rf>

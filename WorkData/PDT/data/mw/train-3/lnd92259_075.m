@@ -1080,7 +1080,7 @@
 <LM>w#w-lnd92259-075-p5s5w16</LM>
 </w.rf>
 <form>orgánu</form>
-<tag lemma="orgán" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-lnd92259-075-p5s5w17">
 <src.rf>manual</src.rf>
@@ -1112,7 +1112,7 @@
 <LM>w#w-lnd92259-075-p5s5w20</LM>
 </w.rf>
 <form>našeho</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSZS2-P1-------</tag>
 </m>
 <m id="m-lnd92259-075-p5s5w21">
 <src.rf>manual</src.rf>
@@ -1341,7 +1341,7 @@
 <LM>w#w-lnd92259-075-p5s7w9</LM>
 </w.rf>
 <form>bojí</form>
-<tag lemma="bát" src="orig" selected="1">VB-P---3P-AAI--</tag>
+<tag lemma="bát-1" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd92259-075-p5s7w10">
 <src.rf>manual</src.rf>
@@ -1471,7 +1471,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-2" src="auto">Db-------------</AM>
-<AM lemma="třeba-3" src="manual" selected="1">TT-------------</AM>
+<AM lemma="třeba-2_^(například)" src="manual" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92259-075-p5s7w27">
@@ -1554,7 +1554,7 @@
 <LM>w#w-lnd92259-075-p5s8w1</LM>
 </w.rf>
 <form>Nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-lnd92259-075-p5s8w2">
 <src.rf>manual</src.rf>
@@ -1708,7 +1708,7 @@
 <LM>w#w-lnd92259-075-p5s9w12</LM>
 </w.rf>
 <form>datu</form>
-<tag lemma="datum_^(kalendářní)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="datum-1_^(kalendářní)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-lnd92259-075-p5s9w13">
 <src.rf>manual</src.rf>
@@ -2057,7 +2057,7 @@
 <LM>w#w-lnd92259-075-p5s12w3</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-lnd92259-075-p5s12w4">
 <src.rf>manual</src.rf>
@@ -2137,7 +2137,7 @@
 <LM>w#w-lnd92259-075-p5s12w13</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-lnd92259-075-p5s12w14">
 <src.rf>manual</src.rf>
@@ -2604,7 +2604,7 @@
 <LM>w#w-lnd92259-075-p7s3w11</LM>
 </w.rf>
 <form>ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-lnd92259-075-p7s3w12">
 <src.rf>manual</src.rf>
@@ -2628,7 +2628,7 @@
 <LM>w#w-lnd92259-075-p7s3w14</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS1----------</tag>
 </m>
 <m id="m-lnd92259-075-p7s3w15">
 <src.rf>manual</src.rf>
@@ -2772,7 +2772,7 @@
 <LM>w#w-lnd92259-075-p7s3w32</LM>
 </w.rf>
 <form>marlbora</form>
-<tag lemma="marlboro_;m" src="orig" selected="1">NNNP4-----A----</tag>
+<tag lemma="marlboro" src="orig" selected="1">NNNP4-----A----</tag>
 </m>
 <m id="m-lnd92259-075-p7s3w33">
 <src.rf>manual</src.rf>
@@ -2945,7 +2945,7 @@
 <LM>w#w-lnd92259-075-p7s4w20</LM>
 </w.rf>
 <form>pozornost</form>
-<tag lemma="pozornost-1_^(všímavý,_milý,_soustředěný)_(*5ý-1)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="pozornost-1_^(*5ý-1)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-lnd92259-075-p7s4w21">
 <src.rf>manual</src.rf>
@@ -3089,7 +3089,7 @@
 <LM>w#w-lnd92259-075-p7s4w38</LM>
 </w.rf>
 <form>orgánů</form>
-<tag lemma="orgán" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-lnd92259-075-p7s4w39">
 <src.rf>manual</src.rf>
@@ -3508,7 +3508,7 @@
 <LM>w#w-lnd92259-075-p9s1w29</LM>
 </w.rf>
 <form>tvou</form>
-<tag lemma="tvůj_^(přivlast.)" src="orig" selected="1">PSFS4-S2------1</tag>
+<tag lemma="tvůj" src="orig" selected="1">PSFS4-S2------1</tag>
 </m>
 <m id="m-lnd92259-075-p9s1w30">
 <src.rf>manual</src.rf>
@@ -3625,7 +3625,7 @@
 <AM lemma="Fas_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="fasit" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="fasit" src="auto">Vi-S---3--A-I-4</AM>
-<AM lemma="FaS-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Fas-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-075-p9s1w44">

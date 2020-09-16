@@ -552,7 +552,7 @@
 <LM>w#w-vesm9211-050-p1s2w23</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-vesm9211-050-p1s2w24">
 <src.rf>manual</src.rf>

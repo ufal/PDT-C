@@ -59,7 +59,7 @@
 <tag>
 <AM lemma="Agnew_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Agnew_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Agnew_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Agnew-2_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0002-001-p1s0W4-Ta">

@@ -252,7 +252,7 @@
 <LM>w#w-ln94208-108-p2s1Bw20</LM>
 </w.rf>
 <form>dlouhým</form>
-<tag lemma="dlouhý-1_^(fyz._délka;_př._dlouhá_tyč)" src="orig" selected="1">AAIS7----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAIS7----1A----</tag>
 </m>
 <m id="m-ln94208-108-p2s1Bw21">
 <src.rf>manual</src.rf>
@@ -347,7 +347,7 @@
 <LM>w#w-ln94208-108-p2s1Bw31</LM>
 </w.rf>
 <form>lepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAIS4----2A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAIS4----2A----</tag>
 </m>
 <m id="m-ln94208-108-p2s1Bw32">
 <src.rf>manual</src.rf>
@@ -355,7 +355,7 @@
 <LM>w#w-ln94208-108-p2s1Bw32</LM>
 </w.rf>
 <form>druhý</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS4----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS4----------</tag>
 </m>
 <m id="m-ln94208-108-p2s1Bw33">
 <src.rf>manual</src.rf>
@@ -642,7 +642,7 @@
 <LM>w#w-ln94208-108-p2s3w16</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94208-108-p2s3w17">
 <src.rf>manual</src.rf>

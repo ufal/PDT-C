@@ -65,7 +65,7 @@
 <LM>w#w-ln95042-078-p1s1w6</LM>
 </w.rf>
 <form>Wiedovi</form>
-<tag lemma="Wied_;Y" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Wied-1_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 </s>
 <s id="m-ln95042-078-p2s1A">
@@ -151,7 +151,7 @@
 <form>rada</form>
 <tag>
 <AM lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig">NNFS1-----A----</AM>
-<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu_poradní_sbor)" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-078-p2s1Bw9">
@@ -168,7 +168,7 @@
 <LM>w#w-ln95042-078-p2s1Bw10</LM>
 </w.rf>
 <form>Karlovy</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-ln95042-078-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -191,7 +191,7 @@
 <LM>w#w-ln95042-078-p2s1Bw12</LM>
 </w.rf>
 <form>Wiedovi</form>
-<tag lemma="Wied_;Y" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Wied-1_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95042-078-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -297,7 +297,7 @@
 <LM>w#w-ln95042-078-p2s2w2</LM>
 </w.rf>
 <form>Wied</form>
-<tag lemma="Wied_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Wied-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-078-p2s2w3">
 <src.rf>manual</src.rf>
@@ -353,7 +353,7 @@
 <LM>w#w-ln95042-078-p2s2w9</LM>
 </w.rf>
 <form>Karlových</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUIP6M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUIP6M---------</tag>
 </m>
 <m id="m-ln95042-078-p2s2w10">
 <src.rf>manual</src.rf>
@@ -745,7 +745,7 @@
 <LM>w#w-ln95042-078-p2s5w3</LM>
 </w.rf>
 <form>mluvčího</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95042-078-p2s5w4">
 <src.rf>manual</src.rf>
@@ -796,7 +796,7 @@
 <LM>w#w-ln95042-078-p2s5w9</LM>
 </w.rf>
 <form>Wied</form>
-<tag lemma="Wied_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Wied-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-078-p2s5w10">
 <src.rf>manual</src.rf>
@@ -836,7 +836,7 @@
 <LM>w#w-ln95042-078-p2s5w14</LM>
 </w.rf>
 <form>prvních</form>
-<tag lemma="první" src="orig" selected="1">CrNP2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNP2----------</tag>
 </m>
 <m id="m-ln95042-078-p2s5w15">
 <src.rf>manual</src.rf>

@@ -352,7 +352,7 @@
 <LM>w#w-ln94200-117-p2s2w2</LM>
 </w.rf>
 <form>činitelé</form>
-<tag lemma="činitel" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="činitel-1" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln94200-117-p2s2w3">
 <src.rf>manual</src.rf>
@@ -945,7 +945,7 @@
 <LM>w#w-ln94200-117-p2s5w29</LM>
 </w.rf>
 <form>potřebě</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94200-117-p2s5w30">
 <src.rf>manual</src.rf>

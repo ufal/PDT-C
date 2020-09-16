@@ -95,7 +95,7 @@
 <LM>w#w-ln94206-39-p2s1Bw3</LM>
 </w.rf>
 <form>prezidia</form>
-<tag lemma="prezídium" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="prezidium_,s_^(^DD**prezídium)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln94206-39-p2s1Bw4">
 <src.rf>manual</src.rf>

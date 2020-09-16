@@ -581,7 +581,7 @@
 <LM>w#w-ln94202-23-p2s2w24</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln94202-23-p2s2w25">
 <src.rf>manual</src.rf>
@@ -889,7 +889,7 @@
 <form>jen</form>
 <tag>
 <AM lemma="jen-1" src="auto">TT-------------</AM>
-<AM lemma="jen-4_(pouze)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94202-23-p3s2w14">
@@ -1488,7 +1488,7 @@
 <LM>w#w-ln94202-23-p3s5w25</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln94202-23-p3s5w26">
 <src.rf>manual</src.rf>
@@ -2446,7 +2446,7 @@
 <LM>w#w-ln94202-23-p4s6w13</LM>
 </w.rf>
 <form>dá</form>
-<tag lemma="dát" src="orig" selected="1">VB-S---3P-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln94202-23-p4s6w14">
 <src.rf>manual</src.rf>
@@ -2827,7 +2827,7 @@
 <LM>w#w-ln94202-23-p5s2w15</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln94202-23-p5s2w16">
 <src.rf>manual</src.rf>
@@ -3069,7 +3069,7 @@
 <LM>w#w-ln94202-23-p5s3w14</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln94202-23-p5s3w15">
 <src.rf>manual</src.rf>

@@ -43,7 +43,7 @@
 <LM>w#w-ln94203-132-p1s1w4</LM>
 </w.rf>
 <form>Alojze</form>
-<tag lemma="Alojz_;Y" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Alojz_;Y_,s_^(^DD**Alois)" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94203-132-p1s1w5">
 <src.rf>manual</src.rf>
@@ -202,7 +202,7 @@
 <LM>w#w-ln94203-132-p2s1Bw9</LM>
 </w.rf>
 <form>Alojze</form>
-<tag lemma="Alojz_;Y" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Alojz_;Y_,s_^(^DD**Alois)" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94203-132-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -346,7 +346,7 @@
 <LM>w#w-ln94203-132-p3s1w7</LM>
 </w.rf>
 <form>spravedlnosti</form>
-<tag lemma="spravedlnost_^(*3ý)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="spravedlnost-1_^(*5ý-1)" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94203-132-p3s1w8">
 <src.rf>manual</src.rf>
@@ -546,7 +546,7 @@
 <LM>w#w-ln94203-132-p3s2w9</LM>
 </w.rf>
 <form>spravedlnosti</form>
-<tag lemma="spravedlnost_^(*3ý)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="spravedlnost-1_^(*5ý-1)" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94203-132-p3s2w10">
 <src.rf>manual</src.rf>
@@ -588,7 +588,7 @@
 <LM>w#w-ln94203-132-p4s1w2</LM>
 </w.rf>
 <form>spravedlnosti</form>
-<tag lemma="spravedlnost_^(*3ý)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="spravedlnost-1_^(*5ý-1)" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94203-132-p4s1w3">
 <src.rf>manual</src.rf>
@@ -1179,7 +1179,7 @@
 <LM>w#w-ln94203-132-p4s3w34</LM>
 </w.rf>
 <form>vězení</form>
-<tag lemma="vězení_,a_^(místo_výkonu_trestu)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="vězení_^(místo_výkonu_trestu)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln94203-132-p4s3w35">
 <src.rf>manual</src.rf>
@@ -1826,7 +1826,7 @@
 <LM>w#w-ln94203-132-p4s7w9</LM>
 </w.rf>
 <form>letům</form>
-<tag lemma="rok" src="orig" selected="1">NNNP3-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP3-----A----</tag>
 </m>
 <m id="m-ln94203-132-p4s7w10">
 <src.rf>manual</src.rf>
@@ -1834,7 +1834,7 @@
 <LM>w#w-ln94203-132-p4s7w10</LM>
 </w.rf>
 <form>vězení</form>
-<tag lemma="vězení_,a_^(místo_výkonu_trestu)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="vězení_^(místo_výkonu_trestu)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln94203-132-p4s7w11">
 <src.rf>manual</src.rf>

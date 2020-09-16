@@ -19,7 +19,7 @@
 <LM>w#w-ln95048-092-p1s1w1</LM>
 </w.rf>
 <form>Ueda</form>
-<tag lemma="Ueda_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ueda-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-092-p1s1w2">
 <src.rf>manual</src.rf>
@@ -101,7 +101,7 @@
 <LM>w#w-ln95048-092-p2s1Aw7</LM>
 </w.rf>
 <form>aprilie</form>
-<tag lemma="Aprilia_;m_^(motocykl)" src="auto" selected="1">NNFP1-----A----</tag>
+<tag lemma="aprilia_^(motocykl)" src="auto" selected="1">NNFP1-----A----</tag>
 </m>
 </s>
 <s id="m-ln95048-092-p2s1B">
@@ -351,7 +351,7 @@
 <LM>w#w-ln95048-092-p2s2w12</LM>
 </w.rf>
 <form>pilot</form>
-<tag lemma="pilot" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="pilot-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-092-p2s2w13">
 <src.rf>manual</src.rf>
@@ -423,7 +423,7 @@
 <LM>w#w-ln95048-092-p2s2w21</LM>
 </w.rf>
 <form>Ueda</form>
-<tag lemma="Ueda_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ueda-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-092-p2s2w22">
 <src.rf>manual</src.rf>
@@ -778,7 +778,7 @@
 <LM>w#w-ln95048-092-p2s4w1</LM>
 </w.rf>
 <form>Nejlepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAIS4----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAIS4----3A----</tag>
 </m>
 <m id="m-ln95048-092-p2s4w2">
 <src.rf>manual</src.rf>
@@ -858,7 +858,7 @@
 <LM>w#w-ln95048-092-p2s4w11</LM>
 </w.rf>
 <form>aprilii</form>
-<tag lemma="Aprilia_;m_^(motocykl)" src="auto" selected="1">NNFS6-----A----</tag>
+<tag lemma="aprilia_^(motocykl)" src="auto" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln95048-092-p2s4w12">
 <src.rf>manual</src.rf>
@@ -1042,7 +1042,7 @@
 <LM>w#w-ln95048-092-p2s5w6</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrIS7----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS7----------</tag>
 </m>
 <m id="m-ln95048-092-p2s5w7">
 <src.rf>manual</src.rf>

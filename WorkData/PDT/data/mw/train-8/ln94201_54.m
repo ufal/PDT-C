@@ -308,7 +308,7 @@
 <LM>w#w-ln94201-54-p2s3w5</LM>
 </w.rf>
 <form>vydání</form>
-<tag lemma="vydání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="vydání_^(*3at)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln94201-54-p2s3w6">
 <src.rf>manual</src.rf>
@@ -390,7 +390,7 @@
 <LM>w#w-ln94201-54-p2s3w14</LM>
 </w.rf>
 <form>model</form>
-<tag lemma="model" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="model-1" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln94201-54-p2s3w15">
 <src.rf>manual</src.rf>
@@ -464,7 +464,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -708,7 +708,7 @@
 <LM>w#w-ln94201-54-p3s1w27</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-ln94201-54-p3s1w28">
 <src.rf>manual</src.rf>
@@ -1806,7 +1806,7 @@
 <LM>w#w-ln94201-54-p6s2w7</LM>
 </w.rf>
 <form>civilu</form>
-<tag lemma="civil_^(nevoják)" src="auto" selected="1">NNMS6-----A---1</tag>
+<tag lemma="civil-2_^(nevoják)" src="auto" selected="1">NNMS6-----A---1</tag>
 </m>
 <m id="m-ln94201-54-p6s2w8">
 <src.rf>manual</src.rf>
@@ -2174,7 +2174,7 @@
 <LM>w#w-ln94201-54-p7s1w25</LM>
 </w.rf>
 <form>právo</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln94201-54-p7s1w26">
 <src.rf>manual</src.rf>
@@ -2630,7 +2630,7 @@
 <LM>w#w-ln94201-54-p8s1w24</LM>
 </w.rf>
 <form>kamionu</form>
-<tag lemma="kamión" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="kamion_,s_^(^DD**kamión)" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln94201-54-p8s1w25">
 <src.rf>manual</src.rf>
@@ -2672,7 +2672,7 @@
 <LM>w#w-ln94201-54-p8s2w4</LM>
 </w.rf>
 <form>celnice</form>
-<tag lemma="celnice-2_^(místo_výkonu_služby)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="celnice_^(*3ík-1)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94201-54-p8s2w5">
 <src.rf>manual</src.rf>
@@ -2764,7 +2764,7 @@
 <LM>w#w-ln94201-54-p8s2w15</LM>
 </w.rf>
 <form>kamionu</form>
-<tag lemma="kamión" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="kamion_,s_^(^DD**kamión)" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln94201-54-p8s2w16">
 <src.rf>manual</src.rf>

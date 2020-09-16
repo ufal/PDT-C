@@ -1693,7 +1693,7 @@
 <form>nás</form>
 <tag>
 <AM lemma="já" src="auto">PP-P2--1-------</AM>
-<AM lemma="já" src="auto" recommended="1">PP-P4--1-------</AM>
+<AM lemma="my" src="auto" recommended="1">PP-P4--1-------</AM>
 <AM lemma="já" src="auto">PP-P6--1-------</AM>
 </tag>
 </m>
@@ -2072,7 +2072,7 @@
 <form>pozdních</form>
 <tag>
 <AM lemma="pozdní-2_^(v_roce,_ročním_období)" src="auto">AAFP2----1A----</AM>
-<AM lemma="pozdní-2_^(v_roce,_ročním_období)" src="auto" recommended="1">AAFP6----1A----</AM>
+<AM lemma="pozdní" src="auto" recommended="1">AAFP6----1A----</AM>
 <AM lemma="pozdní-2_^(v_roce,_ročním_období)" src="auto">AAIP2----1A----</AM>
 <AM lemma="pozdní-2_^(v_roce,_ročním_období)" src="auto">AAIP6----1A----</AM>
 <AM lemma="pozdní-2_^(v_roce,_ročním_období)" src="auto">AAMP2----1A----</AM>
@@ -2358,7 +2358,7 @@
 </w.rf>
 <form>Oaklandu</form>
 <tag>
-<AM lemma="Oakland_;G" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="Oakland_;G_;m" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="Oakland_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="Oakland_;G" src="auto">NNIS6-----A----</AM>
 </tag>
@@ -2479,7 +2479,7 @@
 </w.rf>
 <form>zasažených</form>
 <tag>
-<AM lemma="zasažený_^(*5áhnout)" src="auto" recommended="1">AAFP2----1A----</AM>
+<AM lemma="zasažený" src="auto" recommended="1">AAFP2----1A----</AM>
 <AM lemma="zasažený_^(*5áhnout)" src="auto">AAFP6----1A----</AM>
 <AM lemma="zasažený_^(*5áhnout)" src="auto">AAIP2----1A----</AM>
 <AM lemma="zasažený_^(*5áhnout)" src="auto">AAIP6----1A----</AM>
@@ -2721,7 +2721,7 @@
 <AM lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFP1-----A----</AM>
 <AM lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto">NNFP4-----A----</AM>
 <AM lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto">NNFP5-----A----</AM>
-<AM lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" selected="1">NNFS2-----A----</AM>
+<AM lemma="cesta" src="auto" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1724-001-p1s9W20-Ta">

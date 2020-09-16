@@ -166,7 +166,7 @@
 <LM>w#w-ln94208-2-p2s1Bw12</LM>
 </w.rf>
 <form>druhém</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-ln94208-2-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -275,7 +275,7 @@
 <LM>w#w-ln94208-2-p2s2w4</LM>
 </w.rf>
 <form>Davida</form>
-<tag lemma="David_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="David-1_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94208-2-p2s2w5">
 <src.rf>manual</src.rf>
@@ -457,7 +457,7 @@
 <LM>w#w-ln94208-2-p2s2w26</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-ln94208-2-p2s2w27">
 <src.rf>manual</src.rf>
@@ -846,7 +846,7 @@
 <LM>w#w-ln94208-2-p3s3w4</LM>
 </w.rf>
 <form>pozornost</form>
-<tag lemma="pozornost-1_^(všímavý,_milý,_soustředěný)_(*5ý-1)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="pozornost-1_^(*5ý-1)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94208-2-p3s3w5">
 <src.rf>manual</src.rf>

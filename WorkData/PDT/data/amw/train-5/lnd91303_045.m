@@ -413,7 +413,7 @@
 <LM>w#w-lnd91303-045-p3s2w2</LM>
 </w.rf>
 <form>jet</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="orig" selected="1">Vf--------A-I--</tag>
+<tag lemma="jet-1" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-lnd91303-045-p3s2w3">
 <src.rf>manual</src.rf>
@@ -610,7 +610,7 @@
 <LM>w#w-lnd91303-045-p3s4Aw3</LM>
 </w.rf>
 <form>co</form>
-<tag lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="orig" selected="1">P4XXX----------</tag>
+<tag lemma="co-4_^(který:_o_těch,_co_odešli)" src="orig" selected="1">P4XXX----------</tag>
 </m>
 <m id="m-lnd91303-045-p3s4Aw4">
 <src.rf>manual</src.rf>
@@ -644,7 +644,7 @@
 <form>Alma</form>
 <tag>
 <AM lemma="Alma_;G_^(Alma-Ata)" src="auto">NNFXX-----A----</AM>
-<AM lemma="Alma-2_^(Alma-Ata)" src="manual" selected="1">S2--------A----</AM>
+<AM lemma="Alma-2" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-045-p3s4Aw8">
@@ -693,7 +693,7 @@
 <LM>w#w-lnd91303-045-p3s4Aw13</LM>
 </w.rf>
 <form>mého</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS2-S1-------</tag>
+<tag lemma="můj" src="orig" selected="1">PSZS2-S1-------</tag>
 </m>
 <m id="m-lnd91303-045-p3s4Aw14">
 <src.rf>manual</src.rf>
@@ -794,7 +794,7 @@
 <LM>w#w-lnd91303-045-p3s4Bw2</LM>
 </w.rf>
 <form>mne</form>
-<tag lemma="já_^(2./4.pád)" src="orig" selected="1">PP-S4--1-------</tag>
+<tag lemma="já" src="orig" selected="1">PP-S4--1-------</tag>
 </m>
 <m id="m-lnd91303-045-p3s4Bw3">
 <src.rf>manual</src.rf>
@@ -1100,7 +1100,7 @@
 <LM>w#w-lnd91303-045-p3s4Bw40</LM>
 </w.rf>
 <form>interview</form>
-<tag lemma="interview" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="interview-1" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-lnd91303-045-p3s4Bw41">
 <src.rf>manual</src.rf>

@@ -44,7 +44,7 @@
 <LM>w#w-lnd92259-044-p1s1w4</LM>
 </w.rf>
 <form>VYDÁNÍ</form>
-<tag lemma="vydání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="vydání_^(*3at)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-lnd92259-044-p1s1w5">
 <src.rf>manual</src.rf>
@@ -95,7 +95,7 @@
 <LM>w#w-lnd92259-044-p1s1w10</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-lnd92259-044-p1s1w11">
 <src.rf>manual</src.rf>
@@ -693,7 +693,7 @@
 <LM>w#w-lnd92259-044-p2s1w57</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS3---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS3---------1</tag>
 </m>
 <m id="m-lnd92259-044-p2s1w58">
 <src.rf>manual</src.rf>
@@ -735,7 +735,7 @@
 <LM>w#w-lnd92259-044-p2s2w3</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8YP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8YP4---------1</tag>
 </m>
 <m id="m-lnd92259-044-p2s2w4">
 <src.rf>manual</src.rf>
@@ -759,7 +759,7 @@
 <LM>w#w-lnd92259-044-p2s2w6</LM>
 </w.rf>
 <form>co</form>
-<tag lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="co-5_^(př._co_nejméně,_co_nevidět_atd.)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd92259-044-p2s2w7">
 <src.rf>manual</src.rf>

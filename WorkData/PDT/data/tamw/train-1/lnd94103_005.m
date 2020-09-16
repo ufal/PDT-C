@@ -177,7 +177,7 @@
 <LM>w#w-lnd94103-005-p1s1w20</LM>
 </w.rf>
 <form>prvního</form>
-<tag lemma="první" src="orig" selected="1">CrMS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrMS4----------</tag>
 </m>
 <m id="m-lnd94103-005-p1s1w21">
 <src.rf>manual</src.rf>

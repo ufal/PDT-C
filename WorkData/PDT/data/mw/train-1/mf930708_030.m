@@ -19,7 +19,7 @@
 <LM>w#w-mf930708-030-p1s1w1</LM>
 </w.rf>
 <form>Vyhlášení</form>
-<tag lemma="vyhlášení_,a_^(*4sit)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="vyhlášení_^(*2t)_(*4sit)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf930708-030-p1s1w2">
 <src.rf>manual</src.rf>
@@ -1311,7 +1311,7 @@
 <tag>
 <AM lemma="Steyer_;m" src="orig">NNIS7-----A----</AM>
 <AM lemma="Steyer_;Y" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="Steyer-2_;m" src="manual" selected="1">NNIS7-----A----</AM>
+<AM lemma="Steyer-2_;G_;m" src="manual" selected="1">NNIS7-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-030-p3s5w8">
@@ -1384,7 +1384,7 @@
 <LM>w#w-mf930708-030-p3s5w16</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8YP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8YP4---------1</tag>
 </m>
 <m id="m-mf930708-030-p3s5w17">
 <src.rf>manual</src.rf>
@@ -1658,7 +1658,7 @@
 <LM>w#w-mf930708-030-p4s1w5</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8YP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8YP4---------1</tag>
 </m>
 <m id="m-mf930708-030-p4s1w6">
 <src.rf>manual</src.rf>

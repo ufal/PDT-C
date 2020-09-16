@@ -170,7 +170,7 @@
 <LM>w#w-ln94211-39-p2s1Bw9</LM>
 </w.rf>
 <form>svá</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8NP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8NP4---------1</tag>
 </m>
 <m id="m-ln94211-39-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -178,7 +178,7 @@
 <LM>w#w-ln94211-39-p2s1Bw10</LM>
 </w.rf>
 <form>představení</form>
-<tag lemma="představení-2_^(divadelní,_filmové_apod.)" src="orig" selected="1">NNNP4-----A----</tag>
+<tag lemma="představení-1_^(*5it-1)" src="orig" selected="1">NNNP4-----A----</tag>
 </m>
 <m id="m-ln94211-39-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -484,7 +484,7 @@
 <LM>w#w-ln94211-39-p2s3w6</LM>
 </w.rf>
 <form>nebojí</form>
-<tag lemma="bát" src="orig" selected="1">VB-S---3P-NAI--</tag>
+<tag lemma="bát-1" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-ln94211-39-p2s3w7">
 <src.rf>manual</src.rf>
@@ -749,7 +749,7 @@
 <LM>w#w-ln94211-39-p2s6w1</LM>
 </w.rf>
 <form>Představení</form>
-<tag lemma="představení-2_^(divadelní,_filmové_apod.)" src="orig" selected="1">NNNP1-----A----</tag>
+<tag lemma="představení-1_^(*5it-1)" src="orig" selected="1">NNNP1-----A----</tag>
 </m>
 <m id="m-ln94211-39-p2s6w2">
 <src.rf>manual</src.rf>

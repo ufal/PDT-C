@@ -146,7 +146,7 @@
 <LM>w#w-cmpr9406-026-p4s1w11</LM>
 </w.rf>
 <form>zlatou</form>
-<tag lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAFS4----1A----</tag>
+<tag lemma="zlatý-1_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-cmpr9406-026-p4s1w12">
 <src.rf>manual</src.rf>
@@ -1477,7 +1477,7 @@
 <LM>w#w-cmpr9406-026-p6s4w24</LM>
 </w.rf>
 <form>lahev</form>
-<tag lemma="lahev" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="lahev_,s_^(^DD**láhev)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-cmpr9406-026-p6s4w25">
 <src.rf>manual</src.rf>
@@ -1685,7 +1685,7 @@
 <LM>w#w-cmpr9406-026-p6s4w47</LM>
 </w.rf>
 <form>benzinu</form>
-<tag lemma="benzín" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="benzin_,s_^(^DD**benzín)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-cmpr9406-026-p6s4w48">
 <src.rf>manual</src.rf>
@@ -1849,7 +1849,7 @@
 <LM>w#w-cmpr9406-026-p12s2w4</LM>
 </w.rf>
 <form>stojí</form>
-<tag lemma="stát-4_^(něco_stojí_peníze)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9406-026-p12s2w5">
 <src.rf>manual</src.rf>
@@ -2056,7 +2056,7 @@
 <LM>w#w-cmpr9406-026-p15s1w7</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-cmpr9406-026-p15s1w8">
 <src.rf>manual</src.rf>

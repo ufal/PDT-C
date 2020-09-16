@@ -112,7 +112,7 @@
 <LM>w#w-mf930703-088-p2s1w9</LM>
 </w.rf>
 <form>Slavie</form>
-<tag lemma="Slavia_;m" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Slavie_;m_,s_^(^DD**Slávie)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930703-088-p2s1w10">
 <src.rf>manual</src.rf>
@@ -1008,7 +1008,7 @@
 <LM>w#w-mf930703-088-p3s11w3</LM>
 </w.rf>
 <form>Příbram</form>
-<tag lemma="Příbram_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Příbram-2_;G" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930703-088-p3s11w4">
 <src.rf>manual</src.rf>
@@ -1216,7 +1216,7 @@
 <LM>w#w-mf930703-088-p3s13w1</LM>
 </w.rf>
 <form>Rathouská</form>
-<tag lemma="Rathouská_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Rathouská_;Y_^(*1ý)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930703-088-p3s13w2">
 <src.rf>manual</src.rf>

@@ -51,7 +51,7 @@
 <LM>w#w-ln94204-160-p1s1w5</LM>
 </w.rf>
 <form>našeho</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSZS2-P1-------</tag>
 </m>
 <m id="m-ln94204-160-p1s1w6">
 <src.rf>manual</src.rf>
@@ -183,7 +183,7 @@
 <LM>w#w-ln94204-160-p2s1Bw7</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-ln94204-160-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -483,7 +483,7 @@
 <form>kotovaného</form>
 <tag>
 <AM lemma="kótovaný_^(*2t)" src="orig">AAIS2----1A----</AM>
-<AM lemma="kotovaný_^(*2t)" src="auto" recommended="1" selected="1">AAIS2----1A----</AM>
+<AM lemma="kotovaný_^(^DD**kótovaný)_(*2t)" src="auto" recommended="1" selected="1">AAIS2----1A----</AM>
 <AM lemma="kotovaný_^(*2t)" src="auto">AAMS2----1A----</AM>
 <AM lemma="kotovaný_^(*2t)" src="auto">AAMS4----1A----</AM>
 <AM lemma="kotovaný_^(*2t)" src="auto">AANS2----1A----</AM>
@@ -633,7 +633,7 @@
 <LM>w#w-ln94204-160-p3s1w16</LM>
 </w.rf>
 <form>spořitelně</form>
-<tag lemma="spořitelna_^(místo;_př._Česká_spořitelna)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="spořitelna" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94204-160-p3s1w17">
 <src.rf>manual</src.rf>
@@ -683,7 +683,7 @@
 <LM>w#w-ln94204-160-p3s2w5</LM>
 </w.rf>
 <form>správnost</form>
-<tag lemma="správnost_^(podle_něj._měřítek;_př._chlap,_míra,...)_(*3ý)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="správnost_^(*3ý)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94204-160-p3s2w6">
 <src.rf>manual</src.rf>
@@ -924,7 +924,7 @@
 <LM>w#w-ln94204-160-p4s1w23</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP2-P1-------</tag>
 </m>
 <m id="m-ln94204-160-p4s1w24">
 <src.rf>manual</src.rf>
@@ -1212,7 +1212,7 @@
 <LM>w#w-ln94204-160-p4s3w3</LM>
 </w.rf>
 <form>Spořitelny</form>
-<tag lemma="spořitelna_^(místo;_př._Česká_spořitelna)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="spořitelna" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94204-160-p4s3w4">
 <src.rf>manual</src.rf>
@@ -1366,7 +1366,7 @@
 <LM>w#w-ln94204-160-p5s1w10</LM>
 </w.rf>
 <form>jehož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P1XXXZS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXZS3-------</tag>
 </m>
 <m id="m-ln94204-160-p5s1w11">
 <src.rf>manual</src.rf>

@@ -525,7 +525,7 @@
 <LM>w#w-mf930702-054-p2s3w7</LM>
 </w.rf>
 <form>výbor</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930702-054-p2s3w8">
 <src.rf>manual</src.rf>
@@ -2003,7 +2003,7 @@
 <LM>w#w-mf930702-054-p5s5w2</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP2-P1-------</tag>
 </m>
 <m id="m-mf930702-054-p5s5w3">
 <src.rf>manual</src.rf>
@@ -2067,7 +2067,7 @@
 <LM>w#w-mf930702-054-p5s5w10</LM>
 </w.rf>
 <form>taxikáři</form>
-<tag lemma="taxikář" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="taxikář_,s_^(^DD**taxíkář)" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf930702-054-p5s5w11">
 <src.rf>manual</src.rf>

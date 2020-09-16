@@ -297,7 +297,7 @@
 <LM>w#w-ln94204-4-p2s2w4</LM>
 </w.rf>
 <form>vydanými</form>
-<tag lemma="vydaný-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*4t-1)" src="orig" selected="1">AAFP7----1A----</tag>
+<tag lemma="vydaný_^(*2t)" src="orig" selected="1">AAFP7----1A----</tag>
 </m>
 <m id="m-ln94204-4-p2s2w5">
 <src.rf>manual</src.rf>
@@ -660,7 +660,7 @@
 <LM>w#w-ln94204-4-p3s1w30</LM>
 </w.rf>
 <form>Karlovy</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUIP1M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUIP1M---------</tag>
 </m>
 <m id="m-ln94204-4-p3s1w31">
 <src.rf>manual</src.rf>
@@ -1121,7 +1121,7 @@
 <LM>w#w-ln94204-4-p4s1w10</LM>
 </w.rf>
 <form>potřeby</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-ln94204-4-p4s1w11">
 <src.rf>manual</src.rf>

@@ -256,7 +256,7 @@
 <AM lemma="tvůj_^(přivlast.)" src="auto">PSHS5-P2-------</AM>
 <AM lemma="tvůj_^(přivlast.)" src="auto">PSIP1-P2-------</AM>
 <AM lemma="tvůj_^(přivlast.)" src="auto">PSNS4-P2-------</AM>
-<AM lemma="tvůj_^(přivlast.)" src="auto" recommended="1">PSXP4-P2-------</AM>
+<AM lemma="váš" src="auto" recommended="1">PSXP4-P2-------</AM>
 <AM lemma="vacha_,a" src="auto">NNFS3-----A----</AM>
 <AM lemma="vacha_,a" src="auto">NNFS6-----A----</AM>
 </tag>
@@ -495,7 +495,7 @@
 <form>vašeho</form>
 <tag>
 <AM lemma="tvůj_^(přivlast.)" src="auto">PSMS4-P2-------</AM>
-<AM lemma="tvůj_^(přivlast.)" src="auto" recommended="1">PSZS2-P2-------</AM>
+<AM lemma="váš" src="auto" recommended="1">PSZS2-P2-------</AM>
 </tag>
 </m>
 <m id="m-wsj1588-001-p1s2W7-Ta">

@@ -193,7 +193,7 @@
 <AM lemma="co-1" src="auto">PQ--4----------</AM>
 <AM lemma="co-2_^(cože;_ale_co)" src="auto">TT-------------</AM>
 <AM lemma="co-3_^(když:_poté/od_té_doby,_co)" src="auto">J,-------------</AM>
-<AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto" selected="1">P4XXX----------</AM>
+<AM lemma="co-4_^(který:_o_těch,_co_odešli)" src="auto" selected="1">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
 </tag>
@@ -1256,7 +1256,7 @@
 <AM lemma="tvůj_^(přivlast.)" src="auto">PSXP4-P2-------</AM>
 <AM lemma="vacha_,l_,s" src="auto">NNFS3-----A----</AM>
 <AM lemma="vacha_,l_,s" src="auto">NNFS6-----A----</AM>
-<AM lemma="tvůj_^(**můj)_(přivlast.)" src="manual" selected="1">PSHP1-P2-------</AM>
+<AM lemma="váš" src="manual" selected="1">PSHP1-P2-------</AM>
 </tag>
 </m>
 <m id="m053-d1t1105-4">
@@ -1497,7 +1497,7 @@
 <AM lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="auto">AAMP1----1A---6</AM>
 <AM lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="auto">AAMP4----1A---6</AM>
 <AM lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="auto">AAMP5----1A---6</AM>
-<AM lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="auto" recommended="1">AAMS1----1A----</AM>
+<AM lemma="zlatý-1_^(atribut;_z._řetízek,_poklad,...)" src="auto" recommended="1">AAMS1----1A----</AM>
 <AM lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="auto">AAMS5----1A----</AM>
 <AM lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="auto">AANP1----1A---6</AM>
 <AM lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="auto">AANP4----1A---6</AM>
@@ -1726,7 +1726,7 @@
 <AM lemma="dobrý" src="auto">AAMP1----3A----</AM>
 <AM lemma="dobrý" src="auto">AAMP4----3A----</AM>
 <AM lemma="dobrý" src="auto">AAMP5----3A----</AM>
-<AM lemma="dobrý" src="auto" recommended="1">AAMS1----3A----</AM>
+<AM lemma="lepší" src="auto" recommended="1">AAMS1----3A----</AM>
 <AM lemma="dobrý" src="auto">AAMS5----3A----</AM>
 <AM lemma="dobrý" src="auto">AANP1----3A----</AM>
 <AM lemma="dobrý" src="auto">AANP4----3A----</AM>
@@ -1792,7 +1792,7 @@
 <form>Cejny</form>
 <tag>
 <AM lemma="cejn" src="auto">NNIP1-----A----</AM>
-<AM lemma="cejn" src="auto" recommended="1">NNIP4-----A----</AM>
+<AM lemma="cejn-1" src="auto" recommended="1">NNIP4-----A----</AM>
 <AM lemma="cejn" src="auto">NNIP5-----A----</AM>
 <AM lemma="cejn" src="auto">NNIP7-----A----</AM>
 <AM lemma="cejn" src="auto">NNMP4-----A----</AM>
@@ -1938,7 +1938,7 @@
 <form>cejny</form>
 <tag>
 <AM lemma="cejn" src="auto">NNIP1-----A----</AM>
-<AM lemma="cejn" src="auto" recommended="1">NNIP4-----A----</AM>
+<AM lemma="cejn-1" src="auto" recommended="1">NNIP4-----A----</AM>
 <AM lemma="cejn" src="auto">NNIP5-----A----</AM>
 <AM lemma="cejn" src="auto">NNIP7-----A----</AM>
 <AM lemma="cejn" src="auto">NNMP4-----A----</AM>
@@ -2048,7 +2048,7 @@
 <AM lemma="druhý" src="auto">CrIP4---------6</AM>
 <AM lemma="druhý" src="auto">CrIP5---------6</AM>
 <AM lemma="druhý" src="auto">CrIS1----------</AM>
-<AM lemma="druhý" src="auto" recommended="1">CrIS4----------</AM>
+<AM lemma="druhý`2" src="auto" recommended="1">CrIS4----------</AM>
 <AM lemma="druhý" src="auto">CrIS5----------</AM>
 <AM lemma="druhý" src="auto">CrMP1---------6</AM>
 <AM lemma="druhý" src="auto">CrMP4---------6</AM>
@@ -2389,7 +2389,7 @@
 <AM lemma="moc-1_^(nad_někým;_politická,_vojenská;_plná,...)" src="auto">NNFS1-----A----</AM>
 <AM lemma="moc-1_^(nad_někým;_politická,_vojenská;_plná,...)" src="auto">NNFS4-----A----</AM>
 <AM lemma="moc-2_^(mnoho_něčeho_[se_subst._v_gen.])" src="auto">Ca--X----------</AM>
-<AM lemma="moc-3_^(velmi,_ve_spojení_s_adj.,_př._moc_hezká)" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="moc-3_^(moc_hezká,_moc_peněz)" src="auto" recommended="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m053-d1t1185-5">
@@ -2568,7 +2568,7 @@
 <form>cejnů</form>
 <tag>
 <AM lemma="cejn" src="auto">NNIP2-----A----</AM>
-<AM lemma="cejn" src="auto" recommended="1">NNMP2-----A----</AM>
+<AM lemma="cejn-2" src="auto" recommended="1">NNMP2-----A----</AM>
 </tag>
 </m>
 <m id="m053-10-113">

@@ -515,7 +515,7 @@
 <LM>w#w-lnd92258-017-p2s1w7</LM>
 </w.rf>
 <form>prvnímu</form>
-<tag lemma="první" src="orig" selected="1">CrIS3----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS3----------</tag>
 </m>
 <m id="m-lnd92258-017-p2s1w8">
 <src.rf>manual</src.rf>
@@ -952,7 +952,7 @@
 <LM>w#w-lnd92258-017-p4s1w7</LM>
 </w.rf>
 <form>Zlatá</form>
-<tag lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="zlatý-1_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-lnd92258-017-p4s1w8">
 <src.rf>manual</src.rf>
@@ -1180,7 +1180,7 @@
 <LM>w#w-lnd92258-017-p4s3w1</LM>
 </w.rf>
 <form>Přednesené</form>
-<tag lemma="přednesený_^(*5ést)" src="orig" selected="1">AAFP1----1A----</tag>
+<tag lemma="přednesený" src="orig" selected="1">AAFP1----1A----</tag>
 </m>
 <m id="m-lnd92258-017-p4s3w2">
 <src.rf>manual</src.rf>

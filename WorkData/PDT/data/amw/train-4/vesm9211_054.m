@@ -75,7 +75,7 @@
 <LM>w#w-vesm9211-054-p1s1w8</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-vesm9211-054-p1s1w9">
 <src.rf>manual</src.rf>
@@ -181,7 +181,7 @@
 <LM>w#w-vesm9211-054-p1s2w1</LM>
 </w.rf>
 <form>náš</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSYS1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSYS1-P1-------</tag>
 </m>
 <m id="m-vesm9211-054-p1s2w2">
 <src.rf>manual</src.rf>
@@ -581,7 +581,7 @@
 <LM>w#w-vesm9211-054-p1s4w9</LM>
 </w.rf>
 <form>druhý</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS4----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS4----------</tag>
 </m>
 <m id="m-vesm9211-054-p1s4w10">
 <src.rf>manual</src.rf>

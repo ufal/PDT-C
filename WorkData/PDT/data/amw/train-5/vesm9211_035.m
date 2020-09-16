@@ -656,7 +656,7 @@
 <LM>w#w-vesm9211-035-p2s1w30</LM>
 </w.rf>
 <form>watty</form>
-<tag lemma="W-1`watt" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="watt" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-vesm9211-035-p2s1w31">
 <src.rf>manual</src.rf>
@@ -1068,7 +1068,7 @@
 <LM>w#w-vesm9211-035-p3s2w18</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-vesm9211-035-p3s2w19">
 <src.rf>manual</src.rf>

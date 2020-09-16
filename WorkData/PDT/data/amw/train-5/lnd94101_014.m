@@ -727,7 +727,7 @@
 <LM>w#w-lnd94101-014-p1s6w12</LM>
 </w.rf>
 <form>benzinu</form>
-<tag lemma="benzín" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="benzin_,s_^(^DD**benzín)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd94101-014-p1s6w28">
 <src.rf>manual</src.rf>
@@ -824,7 +824,7 @@
 <LM>w#w-lnd94101-014-p1s6w23</LM>
 </w.rf>
 <form>Chemopetrolu</form>
-<tag lemma="Chemopetrol" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Chemopetrol_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd94101-014-p1s6w24">
 <src.rf>manual</src.rf>

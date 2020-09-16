@@ -129,7 +129,7 @@
 <LM>w#w-lnd92257-089-p3s2w6</LM>
 </w.rf>
 <form>cestě</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd92257-089-p3s2w7">
 <src.rf>manual</src.rf>
@@ -623,7 +623,7 @@
 <LM>w#w-lnd92257-089-p3s5w12</LM>
 </w.rf>
 <form>ohlášená</form>
-<tag lemma="ohlášený_,a_^(*4sit)" src="auto" selected="1">AAFS1----1A----</tag>
+<tag lemma="ohlášený_^(*2t)_(*4sit)" src="auto" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-lnd92257-089-p3s5w13">
 <src.rf>manual</src.rf>
@@ -689,7 +689,7 @@
 <LM>w#w-lnd92257-089-p3s6w2</LM>
 </w.rf>
 <form>datum</form>
-<tag lemma="datum_^(kalendářní)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="datum-1_^(kalendářní)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-lnd92257-089-p3s6w3">
 <src.rf>manual</src.rf>
@@ -697,7 +697,7 @@
 <LM>w#w-lnd92257-089-p3s6w3</LM>
 </w.rf>
 <form>cesty</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92257-089-p3s6w4">
 <src.rf>manual</src.rf>
@@ -942,7 +942,7 @@
 <LM>w#w-lnd92257-089-p3s8w12</LM>
 </w.rf>
 <form>míří</form>
-<tag lemma="mířit_^(např._pistolí;_směřovat;_tvar_slovesa)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="mířit" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92257-089-p3s8w13">
 <src.rf>manual</src.rf>

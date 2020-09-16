@@ -95,7 +95,7 @@
 <LM>w#w-ln95040-124-p2s1Bw4</LM>
 </w.rf>
 <form>viru</form>
-<tag lemma="vir" src="orig" selected="1">NNIS3-----A----</tag>
+<tag lemma="vir-1" src="orig" selected="1">NNIS3-----A----</tag>
 </m>
 <m id="m-ln95040-124-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -415,7 +415,7 @@
 <LM>w#w-ln95040-124-p2s2w16</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-ln95040-124-p2s2w17">
 <src.rf>manual</src.rf>
@@ -741,7 +741,7 @@
 <LM>w#w-ln95040-124-p2s5w3</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-ln95040-124-p2s5w4">
 <src.rf>manual</src.rf>
@@ -1235,7 +1235,7 @@
 <LM>w#w-ln95040-124-p2s9w6</LM>
 </w.rf>
 <form>Evropě</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln95040-124-p2s9w7">
 <src.rf>manual</src.rf>

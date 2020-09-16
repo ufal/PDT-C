@@ -78,7 +78,7 @@
 <LM>w#w-mf920923-022-p1s1w8</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-mf920923-022-p1s1w9">
 <src.rf>manual</src.rf>
@@ -485,7 +485,7 @@
 <LM>w#w-mf920923-022-p1s3w2</LM>
 </w.rf>
 <form>rolí</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="role_^(svitek_poslání_pozemek)" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-mf920923-022-p1s3w3">
 <src.rf>manual</src.rf>
@@ -587,7 +587,7 @@
 <LM>w#w-mf920923-022-p1s3w14</LM>
 </w.rf>
 <form>Alfred</form>
-<tag lemma="Alfréd_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Alfred_;Y_,s_^(^DD**Alfréd)" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-022-p1s3w15">
 <src.rf>manual</src.rf>
@@ -619,7 +619,7 @@
 <LM>w#w-mf920923-022-p1s3w18</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS6---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS6---------1</tag>
 </m>
 <m id="m-mf920923-022-p1s3w19">
 <src.rf>manual</src.rf>
@@ -651,7 +651,7 @@
 <LM>w#w-mf920923-022-p1s3w22</LM>
 </w.rf>
 <form>všeničící</form>
-<tag lemma="všeničící_,s" src="orig" selected="1">AAFS3----1A----</tag>
+<tag lemma="všeničící" src="orig" selected="1">AAFS3----1A----</tag>
 </m>
 <m id="m-mf920923-022-p1s3w23">
 <src.rf>manual</src.rf>

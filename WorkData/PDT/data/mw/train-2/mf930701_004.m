@@ -176,7 +176,7 @@
 <LM>w#w-mf930701-004-p2s1w15</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-mf930701-004-p2s1w16">
 <src.rf>manual</src.rf>
@@ -346,7 +346,7 @@
 <LM>w#w-mf930701-004-p3s1w5</LM>
 </w.rf>
 <form>činitele</form>
-<tag lemma="činitel" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="činitel-1" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930701-004-p3s1w6">
 <src.rf>manual</src.rf>

@@ -565,7 +565,7 @@
 <LM>w#w-ln95040-096-p3s1w14</LM>
 </w.rf>
 <form>zveřejněné</form>
-<tag lemma="zveřejněný_^(*3it)" src="orig" selected="1">AANS1----1A----</tag>
+<tag lemma="zveřejněný_^(*2t)_(*3it)" src="orig" selected="1">AANS1----1A----</tag>
 </m>
 <m id="m-ln95040-096-p3s1w15">
 <src.rf>manual</src.rf>
@@ -1243,7 +1243,7 @@
 <LM>w#w-ln95040-096-p4s2w12</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FP4---------1</tag>
 </m>
 <m id="m-ln95040-096-p4s2w13">
 <src.rf>manual</src.rf>
@@ -2457,7 +2457,7 @@
 <LM>w#w-ln95040-096-p6s1w2</LM>
 </w.rf>
 <form>cestě</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln95040-096-p6s1w3">
 <src.rf>manual</src.rf>
@@ -2673,7 +2673,7 @@
 <LM>w#w-ln95040-096-p6s2w9</LM>
 </w.rf>
 <form>co</form>
-<tag lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="co-5_^(př._co_nejméně,_co_nevidět_atd.)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95040-096-p6s2w10">
 <src.rf>manual</src.rf>

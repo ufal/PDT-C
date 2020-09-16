@@ -823,7 +823,7 @@
 <form>nás</form>
 <tag>
 <AM lemma="já" src="auto">PP-P2--1-------</AM>
-<AM lemma="já" src="auto" recommended="1">PP-P4--1-------</AM>
+<AM lemma="my" src="auto" recommended="1">PP-P4--1-------</AM>
 <AM lemma="já" src="auto">PP-P6--1-------</AM>
 </tag>
 </m>
@@ -928,7 +928,7 @@
 </w.rf>
 <form>modelů</form>
 <tag>
-<AM lemma="model" src="auto" recommended="1">NNIP2-----A----</AM>
+<AM lemma="model-1" src="auto" recommended="1">NNIP2-----A----</AM>
 <AM lemma="model" src="auto">NNMP2-----A----</AM>
 </tag>
 </m>
@@ -980,7 +980,7 @@
 </w.rf>
 <form>modely</form>
 <tag>
-<AM lemma="model" src="auto" recommended="1">NNIP1-----A----</AM>
+<AM lemma="model-1" src="auto" recommended="1">NNIP1-----A----</AM>
 <AM lemma="model" src="auto">NNIP4-----A----</AM>
 <AM lemma="model" src="auto">NNIP5-----A----</AM>
 <AM lemma="model" src="auto">NNIP7-----A----</AM>
@@ -1815,7 +1815,7 @@
 <form>svých</form>
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8XP2----------</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8XP6----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8XP6----------</AM>
 </tag>
 </m>
 <m id="m117-d1t1321-4">
@@ -2280,7 +2280,7 @@
 </w.rf>
 <form>Ne</form>
 <tag>
-<AM lemma="ne" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ne-1" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="neděle_:B" src="auto">NNFXX-----A---8</AM>
 </tag>
 </m>
@@ -2346,7 +2346,7 @@
 <AM lemma="daleko-1" src="auto">Dg-------2A----</AM>
 <AM lemma="dál-2" src="auto">NNFS1-----A----</AM>
 <AM lemma="dál-2" src="auto">NNFS4-----A----</AM>
-<AM lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="dál-3_,s_^(také,_za_další)_(^DD**dále-3)" src="auto" recommended="1">Db-------------</AM>
 <AM lemma="dít-1_^(dít_se)" src="auto">VpYS----R-AAI-1</AM>
 </tag>
 </m>
@@ -2834,7 +2834,7 @@
 <tag>
 <AM lemma="jenom-1" src="auto">TT-------------</AM>
 <AM lemma="jenom-2_^(pouze)" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="jenom-2_,s_^(^DD**jen-4)_(pouze)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="jenom-2_^(pouze)" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m117-d1t1391-6">
@@ -3090,7 +3090,7 @@
 <AM lemma="průvodce" src="auto">NNMP4-----A----</AM>
 <AM lemma="průvodce" src="auto">NNMS1-----A----</AM>
 <AM lemma="průvodce" src="auto">NNMS2-----A----</AM>
-<AM lemma="průvodce" src="auto" recommended="1">NNMS4-----A----</AM>
+<AM lemma="průvodce-1" src="auto" recommended="1">NNMS4-----A----</AM>
 <AM lemma="průvodce" src="auto">NNMS5-----A----</AM>
 </tag>
 </m>

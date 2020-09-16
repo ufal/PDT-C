@@ -1242,7 +1242,7 @@
 <LM>w#w-ln95048-152-p4s1w16</LM>
 </w.rf>
 <form>vydáním</form>
-<tag lemma="vydání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="vydání_^(*3at)" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-ln95048-152-p4s1w17">
 <src.rf>manual</src.rf>
@@ -1797,7 +1797,7 @@
 <LM>w#w-ln95048-152-p5s1w20</LM>
 </w.rf>
 <form>vydaných</form>
-<tag lemma="vydaný-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*4t-1)" src="orig" selected="1">AAFP2----1A----</tag>
+<tag lemma="vydaný_^(*2t)" src="orig" selected="1">AAFP2----1A----</tag>
 </m>
 <m id="m-ln95048-152-p5s1w21">
 <src.rf>manual</src.rf>

@@ -31,7 +31,7 @@
 </w.rf>
 <form>taiwanská</form>
 <tag>
-<AM lemma="tchajwanský" src="auto" recommended="1">AAFS1----1A----</AM>
+<AM lemma="taiwanský_,s_^(^DD**tchajwanský)" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="tchajwanský" src="auto">AAFS5----1A----</AM>
 <AM lemma="tchajwanský" src="auto">AANP1----1A----</AM>
 <AM lemma="tchajwanský" src="auto">AANP4----1A----</AM>
@@ -623,7 +623,7 @@
 </w.rf>
 <form>taiwanská</form>
 <tag>
-<AM lemma="tchajwanský" src="auto" recommended="1">AAFS1----1A----</AM>
+<AM lemma="taiwanský_,s_^(^DD**tchajwanský)" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="tchajwanský" src="auto">AAFS5----1A----</AM>
 <AM lemma="tchajwanský" src="auto">AANP1----1A----</AM>
 <AM lemma="tchajwanský" src="auto">AANP4----1A----</AM>
@@ -1823,7 +1823,7 @@
 <AM lemma="propylen_;m" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="propylen_;m" src="auto">NNIS3-----A----</AM>
 <AM lemma="propylen_;m" src="auto">NNIS6-----A----</AM>
-<AM lemma="propylen_,s_^(^DD**propylén)" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="propylen" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0606-001-p1s6W11-Ta">
@@ -1850,7 +1850,7 @@
 <AM lemma="ethylen_,s_^(^DD**etylen)" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="ethylen_,s_^(^DD**etylen)" src="auto">NNIS3-----A----</AM>
 <AM lemma="ethylen_,s_^(^DD**etylen)" src="auto">NNIS6-----A----</AM>
-<AM lemma="ethylen_,s_^(^DD**etylén)" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="ethylen_,s_^(^DD**etylen)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0606-001-p1s6W13-Ta">
@@ -1914,7 +1914,7 @@
 <AM lemma="polypropylen" src="auto">NNIS3-----A----</AM>
 <AM lemma="polypropylen" src="auto">NNIS6-----A----</AM>
 <AM lemma="polypropylen_;U_,s_^(^DD**polypropylén)" src="manual">NNIS2-----A----</AM>
-<AM lemma="polypropylen_,s_^(^DD**polypropylén)" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="polypropylen" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0606-001-p1s6W18-Ta">
@@ -1938,7 +1938,7 @@
 </w.rf>
 <form>polyethylenu</form>
 <tag>
-<AM lemma="polyethylen_,s_^(^DD**polyetylén)" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="polyethylen_,s_^(^DD**polyetylen)" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="polyethylen_,s_^(^DD**polyetylén)" src="auto">NNIS3-----A----</AM>
 <AM lemma="polyethylen_,s_^(^DD**polyetylén)" src="auto">NNIS6-----A----</AM>
 </tag>
@@ -2976,7 +2976,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0606-001-p1s11W10-Ta">
@@ -3795,7 +3795,7 @@
 <form>jejím</form>
 <tag>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP3FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9ZS6FS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9ZS6FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSZS7FS3-------</AM>
 </tag>
 </m>
@@ -5951,7 +5951,7 @@
 <AM lemma="tchajwanský" src="auto">AAMP1----1A---6</AM>
 <AM lemma="tchajwanský" src="auto">AAMP4----1A---6</AM>
 <AM lemma="tchajwanský" src="auto">AAMP5----1A---6</AM>
-<AM lemma="tchajwanský" src="auto" recommended="1">AAMS1----1A----</AM>
+<AM lemma="taiwanský_,s_^(^DD**tchajwanský)" src="auto" recommended="1">AAMS1----1A----</AM>
 <AM lemma="tchajwanský" src="auto">AAMS5----1A----</AM>
 <AM lemma="tchajwanský" src="auto">AANP1----1A---6</AM>
 <AM lemma="tchajwanský" src="auto">AANP4----1A---6</AM>

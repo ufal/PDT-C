@@ -105,7 +105,7 @@
 <LM>w#w-mf930708-079-p1s2w3</LM>
 </w.rf>
 <form>Modrý</form>
-<tag lemma="modrý" src="orig" selected="1">AAIS1----1A----</tag>
+<tag lemma="modrý_;o" src="orig" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-mf930708-079-p1s2w4">
 <src.rf>manual</src.rf>

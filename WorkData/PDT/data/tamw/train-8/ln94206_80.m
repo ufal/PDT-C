@@ -19,7 +19,7 @@
 <LM>w#w-ln94206-80-p1s1Aw1</LM>
 </w.rf>
 <form>Děti</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-ln94206-80-p1s1Aw2">
 <src.rf>manual</src.rf>
@@ -91,7 +91,7 @@
 <LM>w#w-ln94206-80-p1s1Aw10</LM>
 </w.rf>
 <form>vyhlášené</form>
-<tag lemma="vyhlášený_,a_^(*4sit)" src="orig" selected="1">AANS4----1A----</tag>
+<tag lemma="vyhlášený_^(*2t)_(*4sit)" src="orig" selected="1">AANS4----1A----</tag>
 </m>
 <m id="m-ln94206-80-p1s1Aw11">
 <src.rf>manual</src.rf>

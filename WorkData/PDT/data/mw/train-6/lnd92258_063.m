@@ -67,7 +67,7 @@
 <LM>w#w-lnd92258-063-p1s1w7</LM>
 </w.rf>
 <form>lety</form>
-<tag lemma="rok" src="orig" selected="1">NNNP7-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP7-----A----</tag>
 </m>
 <m id="m-lnd92258-063-p1s1w8">
 <src.rf>manual</src.rf>
@@ -294,7 +294,7 @@
 <LM>w#w-lnd92258-063-p1s2w5</LM>
 </w.rf>
 <form>piloti</form>
-<tag lemma="pilot" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="pilot-1" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd92258-063-p1s2w6">
 <src.rf>manual</src.rf>
@@ -438,7 +438,7 @@
 <LM>w#w-lnd92258-063-p1s2w23</LM>
 </w.rf>
 <form>členy</form>
-<tag lemma="člen" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-lnd92258-063-p1s2w24">
 <src.rf>manual</src.rf>
@@ -556,7 +556,7 @@
 <LM>w#w-lnd92258-063-p1s3w5</LM>
 </w.rf>
 <form>členů</form>
-<tag lemma="člen" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd92258-063-p1s3w6">
 <src.rf>manual</src.rf>

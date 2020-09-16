@@ -241,7 +241,7 @@
 <LM>w#w-ln95044-014-p2s2w5</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-014-p2s2w6">
 <src.rf>manual</src.rf>
@@ -286,7 +286,7 @@
 <LM>w#w-ln95044-014-p2s3w2</LM>
 </w.rf>
 <form>mluvčího</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95044-014-p2s3w3">
 <src.rf>manual</src.rf>
@@ -652,7 +652,7 @@
 <LM>w#w-ln95044-014-p3s1w14</LM>
 </w.rf>
 <form>vězení</form>
-<tag lemma="vězení_,a_^(místo_výkonu_trestu)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="vězení_^(místo_výkonu_trestu)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-ln95044-014-p3s1w15">
 <src.rf>manual</src.rf>
@@ -809,7 +809,7 @@
 <LM>w#w-ln95044-014-p3s2w15</LM>
 </w.rf>
 <form>činitele</form>
-<tag lemma="činitel" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="činitel-1" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95044-014-p3s2w16">
 <src.rf>manual</src.rf>
@@ -897,7 +897,7 @@
 <LM>w#w-ln95044-014-p3s2w26</LM>
 </w.rf>
 <form>soudkyni</form>
-<tag lemma="soudkyně_^(člověk,_který_soudí)_(*4ce)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="soudkyně_^(*4ce)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95044-014-p3s2w27">
 <src.rf>manual</src.rf>
@@ -1158,7 +1158,7 @@
 <LM>w#w-ln95044-014-p3s3w14</LM>
 </w.rf>
 <form>dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95044-014-p3s3w15">
 <src.rf>manual</src.rf>
@@ -1762,7 +1762,7 @@
 <LM>w#w-ln95044-014-p3s6w22</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS7----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS7----------</tag>
 </m>
 <m id="m-ln95044-014-p3s6w23">
 <src.rf>manual</src.rf>
@@ -1826,7 +1826,7 @@
 <LM>w#w-ln95044-014-p3s6w30</LM>
 </w.rf>
 <form>dal</form>
-<tag lemma="dát" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95044-014-p3s6w31">
 <src.rf>manual</src.rf>

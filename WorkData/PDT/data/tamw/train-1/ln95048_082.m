@@ -365,7 +365,7 @@
 <LM>w#w-ln95048-082-p2s1Cw30</LM>
 </w.rf>
 <form>Bredu</form>
-<tag lemma="Breda_;Y" src="auto" selected="1">NNMS4-----A----</tag>
+<tag lemma="Breda-1_;Y" src="auto" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95048-082-p2s1Cw31">
 <src.rf>manual</src.rf>
@@ -483,7 +483,7 @@
 <LM>w#w-ln95048-082-p2s2w13</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-ln95048-082-p2s2w14">
 <src.rf>manual</src.rf>
@@ -523,7 +523,7 @@
 <LM>w#w-ln95048-082-p2s2w18</LM>
 </w.rf>
 <form>Nikon</form>
-<tag lemma="Nikon_;m" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Nikon-2_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95048-082-p2s2w19">
 <src.rf>manual</src.rf>
@@ -1499,7 +1499,7 @@
 <LM>w#w-ln95048-082-p3s7w9</LM>
 </w.rf>
 <form>třeba</form>
-<tag lemma="třeba-2" src="auto" selected="1">Db-------------</tag>
+<tag lemma="třeba-1" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95048-082-p3s7w10">
 <src.rf>manual</src.rf>
@@ -1563,7 +1563,7 @@
 <LM>w#w-ln95048-082-p3s7w17</LM>
 </w.rf>
 <form>role</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="role_^(svitek_poslání_pozemek)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95048-082-p3s7w18">
 <src.rf>manual</src.rf>
@@ -1603,7 +1603,7 @@
 <LM>w#w-ln95048-082-p3s7w22</LM>
 </w.rf>
 <form>členů</form>
-<tag lemma="člen" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln95048-082-p3s7w23">
 <src.rf>manual</src.rf>
@@ -1887,7 +1887,7 @@
 <LM>w#w-ln95048-082-p5s1w3</LM>
 </w.rf>
 <form>Breda</form>
-<tag lemma="Breda_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Breda-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-082-p5s1w4">
 <src.rf>manual</src.rf>

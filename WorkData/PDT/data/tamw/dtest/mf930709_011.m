@@ -872,7 +872,7 @@
 <LM>w#w-mf930709-011-p2s6w14</LM>
 </w.rf>
 <form>prostředky</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-mf930709-011-p2s6w15">
 <src.rf>manual</src.rf>

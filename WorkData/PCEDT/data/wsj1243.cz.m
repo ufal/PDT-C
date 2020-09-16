@@ -1089,7 +1089,7 @@
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AAFP3----1A----</AM>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AAIP3----1A----</AM>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AAIS6----1A----</AM>
-<AM lemma="měsíční_^(lhůta;svit)" src="auto" recommended="1">AAIS7----1A----</AM>
+<AM lemma="měsíční" src="auto" recommended="1">AAIS7----1A----</AM>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AAMP3----1A----</AM>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AAMS6----1A----</AM>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AAMS7----1A----</AM>
@@ -1582,7 +1582,7 @@
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AAMS6----1A----</AM>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AAMS7----1A----</AM>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AANP3----1A----</AM>
-<AM lemma="měsíční_^(lhůta;svit)" src="auto" recommended="1">AANS6----1A----</AM>
+<AM lemma="měsíční" src="auto" recommended="1">AANS6----1A----</AM>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AANS7----1A----</AM>
 </tag>
 </m>

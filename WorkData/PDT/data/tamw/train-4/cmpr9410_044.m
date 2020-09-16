@@ -1088,7 +1088,7 @@
 <LM>w#w-cmpr9410-044-p4s4w11</LM>
 </w.rf>
 <form>potřeby</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-cmpr9410-044-p4s4w12">
 <src.rf>manual</src.rf>
@@ -1332,7 +1332,7 @@
 <LM>w#w-cmpr9410-044-p4s6w5</LM>
 </w.rf>
 <form>brání</form>
-<tag lemma="bránit_^(klást_překážky)" src="auto" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="bránit" src="auto" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9410-044-p4s6w6">
 <src.rf>manual</src.rf>
@@ -1446,7 +1446,7 @@
 <LM>w#w-cmpr9410-044-p5s1w9</LM>
 </w.rf>
 <form>Husova</form>
-<tag lemma="Husův_;Y_^(*2o)" src="auto" selected="1">AUFS1M---------</tag>
+<tag lemma="Husův_;Y_^(*2-1)_(*2o)" src="auto" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-cmpr9410-044-p5s1w10">
 <src.rf>manual</src.rf>

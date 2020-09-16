@@ -178,7 +178,7 @@
 <LM>w#w-cmpr9407-011-p2s1w15</LM>
 </w.rf>
 <form>nezdanitelnou</form>
-<tag lemma="zdanitelný_^(vypočítat_daň)_(*4)" src="auto" selected="1">AAFS4----1N----</tag>
+<tag lemma="zdanitelný_^(*4)" src="auto" selected="1">AAFS4----1N----</tag>
 </m>
 <m id="m-cmpr9407-011-p2s1w16">
 <src.rf>manual</src.rf>
@@ -326,7 +326,7 @@
 <LM>w#w-cmpr9407-011-p2s2w13</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-cmpr9407-011-p2s2w14">
 <src.rf>manual</src.rf>

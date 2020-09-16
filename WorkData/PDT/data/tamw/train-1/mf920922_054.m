@@ -356,7 +356,7 @@
 <LM>w#w-mf920922-054-p3s1w1</LM>
 </w.rf>
 <form>Svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-mf920922-054-p3s1w2">
 <src.rf>manual</src.rf>
@@ -890,7 +890,7 @@
 <LM>w#w-mf920922-054-p3s4w14</LM>
 </w.rf>
 <form>naši</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSMP1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSMP1-P1-------</tag>
 </m>
 <m id="m-mf920922-054-p3s4w15">
 <src.rf>manual</src.rf>
@@ -1222,7 +1222,7 @@
 <LM>w#w-mf920922-054-p3s6w13</LM>
 </w.rf>
 <form>moc</form>
-<tag lemma="moc-3_^(velmi,_ve_spojení_s_adj.,_př._moc_hezká)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="moc-3_^(moc_hezká,_moc_peněz)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf920922-054-p3s6w14">
 <src.rf>manual</src.rf>
@@ -1952,7 +1952,7 @@
 <LM>w#w-mf920922-054-p5s1w12</LM>
 </w.rf>
 <form>Slovan</form>
-<tag lemma="Slovan-2_;m" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Slovan-2_;G_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920922-054-p5s1w13">
 <src.rf>manual</src.rf>

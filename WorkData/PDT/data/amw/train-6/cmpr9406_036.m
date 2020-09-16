@@ -210,7 +210,7 @@
 <LM>w#w-cmpr9406-036-p4s1w18</LM>
 </w.rf>
 <form>sekretářky</form>
-<tag lemma="sekretářka_^(*2)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="sekretářka-2_^(*4-2)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-cmpr9406-036-p4s1w19">
 <src.rf>manual</src.rf>
@@ -837,7 +837,7 @@
 <LM>w#w-cmpr9406-036-p5s1w7</LM>
 </w.rf>
 <form>manažera</form>
-<tag lemma="manažer" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="manažer-1" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9406-036-p5s1w8">
 <src.rf>manual</src.rf>
@@ -2903,7 +2903,7 @@
 <LM>w#w-cmpr9406-036-p8s1w16</LM>
 </w.rf>
 <form>manažery</form>
-<tag lemma="manažer" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="manažer-1" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-cmpr9406-036-p8s1w17">
 <src.rf>manual</src.rf>
@@ -4068,7 +4068,7 @@
 <LM>w#w-cmpr9406-036-p10s1w6</LM>
 </w.rf>
 <form>průvodce</form>
-<tag lemma="průvodce" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="průvodce-1" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-cmpr9406-036-p10s1w7">
 <src.rf>manual</src.rf>
@@ -5028,7 +5028,7 @@
 <LM>w#w-cmpr9406-036-p12s1w5</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-cmpr9406-036-p12s1w6">
 <src.rf>manual</src.rf>
@@ -5275,7 +5275,7 @@
 <LM>w#w-cmpr9406-036-p12s3w12</LM>
 </w.rf>
 <form>Milíčova</form>
-<tag lemma="Milíčův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Milíčův-1_;Y_^(*4-1)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-cmpr9406-036-p12s3w13">
 <src.rf>manual</src.rf>
@@ -5486,7 +5486,7 @@
 <LM>w#w-cmpr9406-036-p13s1w6</LM>
 </w.rf>
 <form>vy</form>
-<tag lemma="ty" src="orig" selected="1">PP-P1--2-------</tag>
+<tag lemma="vy" src="orig" selected="1">PP-P1--2-------</tag>
 </m>
 <m id="m-cmpr9406-036-p13s1w7">
 <src.rf>manual</src.rf>
@@ -5836,7 +5836,7 @@
 <LM>w#w-cmpr9406-036-p13s5w12</LM>
 </w.rf>
 <form>Milíčova</form>
-<tag lemma="Milíčův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Milíčův-1_;Y_^(*4-1)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-cmpr9406-036-p13s5w13">
 <src.rf>manual</src.rf>
@@ -6413,7 +6413,7 @@
 <LM>w#w-cmpr9406-036-p14s1w51</LM>
 </w.rf>
 <form>právu</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-cmpr9406-036-p14s1w52">
 <src.rf>manual</src.rf>
@@ -6784,7 +6784,7 @@
 <LM>w#w-cmpr9406-036-p14s4w12</LM>
 </w.rf>
 <form>Milíčova</form>
-<tag lemma="Milíčův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Milíčův-1_;Y_^(*4-1)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-cmpr9406-036-p14s4w13">
 <src.rf>manual</src.rf>
@@ -7432,7 +7432,7 @@
 <LM>w#w-cmpr9406-036-p15s6w12</LM>
 </w.rf>
 <form>Milíčova</form>
-<tag lemma="Milíčův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Milíčův-1_;Y_^(*4-1)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-cmpr9406-036-p15s6w13">
 <src.rf>manual</src.rf>
@@ -7946,7 +7946,7 @@
 <LM>w#w-cmpr9406-036-p16s6w12</LM>
 </w.rf>
 <form>Milíčova</form>
-<tag lemma="Milíčův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Milíčův-1_;Y_^(*4-1)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-cmpr9406-036-p16s6w13">
 <src.rf>manual</src.rf>
@@ -8141,7 +8141,7 @@
 <LM>w#w-cmpr9406-036-p17s1w4</LM>
 </w.rf>
 <form>Management</form>
-<tag lemma="management_^(vedení,_manažment;_angl.)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="management_,s_^(^DD**manažment)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-036-p17s1w5">
 <src.rf>manual</src.rf>
@@ -8382,7 +8382,7 @@
 <LM>w#w-cmpr9406-036-p17s1w33</LM>
 </w.rf>
 <form>manažera</form>
-<tag lemma="manažer" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="manažer-1" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9406-036-p17s1w34">
 <src.rf>manual</src.rf>
@@ -8567,7 +8567,7 @@
 <LM>w#w-cmpr9406-036-p17s1w56</LM>
 </w.rf>
 <form>management</form>
-<tag lemma="management_^(vedení,_manažment;_angl.)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="management_,s_^(^DD**manažment)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-036-p17s1w57">
 <src.rf>manual</src.rf>
@@ -8721,7 +8721,7 @@
 <LM>w#w-cmpr9406-036-p17s5w12</LM>
 </w.rf>
 <form>Milíčova</form>
-<tag lemma="Milíčův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Milíčův-1_;Y_^(*4-1)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-cmpr9406-036-p17s5w13">
 <src.rf>manual</src.rf>
@@ -8959,7 +8959,7 @@
 <LM>w#w-cmpr9406-036-p18s1w9</LM>
 </w.rf>
 <form>Word</form>
-<tag lemma="Word" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="word" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-036-p18s1w10">
 <src.rf>manual</src.rf>
@@ -9458,7 +9458,7 @@
 <LM>w#w-cmpr9406-036-p18s14w12</LM>
 </w.rf>
 <form>Milíčova</form>
-<tag lemma="Milíčův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Milíčův-1_;Y_^(*4-1)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-cmpr9406-036-p18s14w13">
 <src.rf>manual</src.rf>

@@ -355,7 +355,7 @@
 <LM>w#w-lnd92251-006-p3s2w18</LM>
 </w.rf>
 <form>přijetí</form>
-<tag lemma="přijetí_^(*3mout)" src="auto" selected="1">NNNS4-----A----</tag>
+<tag lemma="přijetí_^(*1)_(*3mout)" src="auto" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-lnd92251-006-p3s2w19">
 <src.rf>manual</src.rf>
@@ -526,7 +526,7 @@
 <LM>w#w-lnd92251-006-p3s2w39</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-lnd92251-006-p3s2w40">
 <src.rf>manual</src.rf>
@@ -1441,7 +1441,7 @@
 <LM>w#w-lnd92251-006-p4s2w56</LM>
 </w.rf>
 <form>odpovědnost</form>
-<tag lemma="odpovědnost_^(kdo_za_něco_odpovídá)_(*3ý)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="odpovědnost_^(*3ý)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-lnd92251-006-p4s2w57">
 <src.rf>manual</src.rf>
@@ -1677,7 +1677,7 @@
 <LM>w#w-lnd92251-006-p4s4w1</LM>
 </w.rf>
 <form>Naše</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSHS1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSHS1-P1-------</tag>
 </m>
 <m id="m-lnd92251-006-p4s4w2">
 <src.rf>manual</src.rf>
@@ -1789,7 +1789,7 @@
 <LM>w#w-lnd92251-006-p4s4w15</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-lnd92251-006-p4s4w16">
 <src.rf>manual</src.rf>
@@ -2190,7 +2190,7 @@
 <LM>w#w-lnd92251-006-p5s1w3</LM>
 </w.rf>
 <form>duchu</form>
-<tag lemma="duch" src="orig" selected="1">NNMS6-----A---1</tag>
+<tag lemma="duch-1" src="orig" selected="1">NNMS6-----A---1</tag>
 </m>
 <m id="m-lnd92251-006-p5s1w4">
 <src.rf>manual</src.rf>
@@ -2467,7 +2467,7 @@
 <LM>w#w-lnd92251-006-p6s1w5</LM>
 </w.rf>
 <form>nespjatými</form>
-<tag lemma="spjatý_^(*5epnout)" src="orig" selected="1">AANP7----1N----</tag>
+<tag lemma="spjatý" src="orig" selected="1">AANP7----1N----</tag>
 </m>
 <m id="m-lnd92251-006-p6s1w6">
 <src.rf>manual</src.rf>
@@ -2798,7 +2798,7 @@
 <LM>w#w-lnd92251-006-p6s1w46</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-lnd92251-006-p6s1w47">
 <src.rf>manual</src.rf>

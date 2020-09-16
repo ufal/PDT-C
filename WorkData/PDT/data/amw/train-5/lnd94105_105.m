@@ -503,7 +503,7 @@
 <LM>w#w-lnd94105-105-p1s2w11</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrIS7----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS7----------</tag>
 </m>
 <m id="m-lnd94105-105-p1s2w12">
 <src.rf>manual</src.rf>
@@ -766,7 +766,7 @@
 <LM>w#w-lnd94105-105-p1s4w16</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-lnd94105-105-p1s4w17">
 <src.rf>manual</src.rf>
@@ -934,7 +934,7 @@
 <LM>w#w-lnd94105-105-p1s5w7</LM>
 </w.rf>
 <form>nadšení</form>
-<tag lemma="nadšení_^(*4chnout)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="nadšení" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-lnd94105-105-p1s5w8">
 <src.rf>manual</src.rf>
@@ -1391,7 +1391,7 @@
 <LM>w#w-lnd94105-105-p1s8w2</LM>
 </w.rf>
 <form>zkrácené</form>
-<tag lemma="zkrácený_,a_^(*2t)" src="auto" selected="1">AAFS6----1A----</tag>
+<tag lemma="zkrácený_^(*4tit)" src="auto" selected="1">AAFS6----1A----</tag>
 </m>
 <m id="m-lnd94105-105-p1s8w3">
 <src.rf>manual</src.rf>
@@ -1519,7 +1519,7 @@
 <LM>w#w-lnd94105-105-p1s8w18</LM>
 </w.rf>
 <form>dlouhé</form>
-<tag lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">AAFP4----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFP4----1A----</tag>
 </m>
 <m id="m-lnd94105-105-p1s8w19">
 <src.rf>manual</src.rf>
@@ -2290,7 +2290,7 @@
 <LM>w#w-lnd94105-105-p1s19w20</LM>
 </w.rf>
 <form>nejlepších</form>
-<tag lemma="dobrý" src="orig" selected="1">AAIP2----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAIP2----3A----</tag>
 </m>
 <m id="m-lnd94105-105-p1s19w21">
 <src.rf>manual</src.rf>
@@ -2306,7 +2306,7 @@
 <LM>w#w-lnd94105-105-p1s19w22</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94105-105-p1s19w23">
 <src.rf>manual</src.rf>

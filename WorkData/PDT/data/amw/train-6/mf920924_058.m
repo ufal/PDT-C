@@ -704,7 +704,7 @@
 <LM>w#w-mf920924-058-p2s5w24</LM>
 </w.rf>
 <form>přistavené</form>
-<tag lemma="přistavený_^(např._auto_k_naložení)_(*3it)" src="orig" selected="1">AAFS2----1A----</tag>
+<tag lemma="přistavený_^(*3it)" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-mf920924-058-p2s5w25">
 <src.rf>manual</src.rf>

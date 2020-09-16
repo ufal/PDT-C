@@ -75,7 +75,7 @@
 <LM>w#w-lnd92253-090-p1s1w8</LM>
 </w.rf>
 <form>průvodce</form>
-<tag lemma="průvodce" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="průvodce-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92253-090-p1s1w9">
 <src.rf>manual</src.rf>
@@ -221,7 +221,7 @@
 <form>vydávané</form>
 <tag>
 <AM lemma="vydávaný-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*7at-1)" src="orig">AAFS2----1A----</AM>
-<AM lemma="vydávaný-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*4t-1)" src="auto" recommended="1" selected="1">AAFP1----1A----</AM>
+<AM lemma="vydávaný_^(*2t)" src="auto" recommended="1" selected="1">AAFP1----1A----</AM>
 <AM lemma="vydávaný-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*4t-1)" src="auto">AAFP4----1A----</AM>
 <AM lemma="vydávaný-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*4t-1)" src="auto">AAFP5----1A----</AM>
 <AM lemma="vydávaný-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*4t-1)" src="auto">AAFS2----1A----</AM>
@@ -383,7 +383,7 @@
 <LM>w#w-lnd92253-090-p1s2w5</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd92253-090-p1s2w6">
 <src.rf>manual</src.rf>
@@ -620,7 +620,7 @@
 <LM>w#w-lnd92253-090-p1s3w11</LM>
 </w.rf>
 <form>jejího</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS2FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS2FS3-------</tag>
 </m>
 <m id="m-lnd92253-090-p1s3w12">
 <src.rf>manual</src.rf>

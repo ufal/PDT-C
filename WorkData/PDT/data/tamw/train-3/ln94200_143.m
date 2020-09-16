@@ -35,7 +35,7 @@
 <LM>w#w-ln94200-143-p1s1w3</LM>
 </w.rf>
 <form>oči</form>
-<tag lemma="oko" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="oko-2" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-ln94200-143-p1s1w4">
 <src.rf>manual</src.rf>
@@ -371,7 +371,7 @@
 <LM>w#w-ln94200-143-p2s2w11</LM>
 </w.rf>
 <form>nesprávností</form>
-<tag lemma="správnost_^(podle_něj._měřítek;_př._chlap,_míra,...)_(*3ý)" src="orig" selected="1">NNFP2-----N----</tag>
+<tag lemma="správnost_^(*3ý)" src="orig" selected="1">NNFP2-----N----</tag>
 </m>
 <m id="m-ln94200-143-p2s2w12">
 <src.rf>manual</src.rf>
@@ -888,7 +888,7 @@
 <LM>w#w-ln94200-143-p3s3w11</LM>
 </w.rf>
 <form>Lvov</form>
-<tag lemma="Lvov_;G" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="Lvov-2_;G" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln94200-143-p3s3w12">
 <src.rf>manual</src.rf>
@@ -2344,7 +2344,7 @@
 <LM>w#w-ln94200-143-p3s9w6</LM>
 </w.rf>
 <form>málo</form>
-<tag lemma="málo-2_^(př._to_málo_co_měl)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="málo-2_^(to_málo_co_měl)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln94200-143-p3s9w7">
 <src.rf>manual</src.rf>
@@ -2690,7 +2690,7 @@
 <LM>w#w-ln94200-143-p3s9w48</LM>
 </w.rf>
 <form>dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94200-143-p3s9w49">
 <src.rf>manual</src.rf>
@@ -2866,7 +2866,7 @@
 <LM>w#w-ln94200-143-p3s9w69</LM>
 </w.rf>
 <form>Oravě</form>
-<tag lemma="Orava_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Orava-2_;G" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94200-143-p3s9w70">
 <src.rf>manual</src.rf>
@@ -2960,7 +2960,7 @@
 <LM>w#w-ln94200-143-p3s9w79</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln94200-143-p3s9w80">
 <src.rf>manual</src.rf>
@@ -3293,7 +3293,7 @@
 <LM>w#w-ln94200-143-p3s11w26</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-ln94200-143-p3s11w27">
 <src.rf>manual</src.rf>

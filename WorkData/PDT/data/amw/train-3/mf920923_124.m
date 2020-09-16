@@ -51,7 +51,7 @@
 <LM>w#w-mf920923-124-p1s1w5</LM>
 </w.rf>
 <form>Evropě</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 </s>
 <s id="m-mf920923-124-p2s1">
@@ -210,7 +210,7 @@
 <LM>w#w-mf920923-124-p2s1w19</LM>
 </w.rf>
 <form>události</form>
-<tag lemma="událost_,a_^(*3ý)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="událost" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-mf920923-124-p2s1w20">
 <src.rf>manual</src.rf>
@@ -363,7 +363,7 @@
 <LM>w#w-mf920923-124-p3s3w3</LM>
 </w.rf>
 <form>Slováci</form>
-<tag lemma="Slovák_;E" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="Slovák_;E_;Y" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf920923-124-p3s3w4">
 <src.rf>manual</src.rf>
@@ -395,7 +395,7 @@
 <LM>w#w-mf920923-124-p3s3w7</LM>
 </w.rf>
 <form>rozvod</form>
-<tag lemma="rozvod-1_^(manželství)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="rozvod_^(manželství;vody)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-mf920923-124-p3s3w8">
 <src.rf>manual</src.rf>
@@ -566,7 +566,7 @@
 <tag>
 <AM lemma="starost" src="orig">NNFS7-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFP2-----A----</AM>
-<AM lemma="starost-1" src="auto" recommended="1" selected="1">NNFS7-----A----</AM>
+<AM lemma="starost-2_^(*5ý-2)" src="auto" recommended="1" selected="1">NNFS7-----A----</AM>
 <AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto">NNFP2-----A----</AM>
 <AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto">NNFS7-----A----</AM>
 </tag>
@@ -676,7 +676,7 @@
 <tag>
 <AM lemma="starost" src="orig">NNFS4-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFS1-----A----</AM>
-<AM lemma="starost-1" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
+<AM lemma="starost-2_^(*5ý-2)" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
 <AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto">NNFS1-----A----</AM>
 <AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto">NNFS4-----A----</AM>
 </tag>
@@ -1419,7 +1419,7 @@
 <LM>w#w-mf920923-124-p6s1w2</LM>
 </w.rf>
 <form>Hanně</form>
-<tag lemma="Hanna_;Y" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="Hanna-2_;Y" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-mf920923-124-p6s1w3">
 <src.rf>manual</src.rf>
@@ -1551,7 +1551,7 @@
 <LM>w#w-mf920923-124-p6s1w17</LM>
 </w.rf>
 <form>členů</form>
-<tag lemma="člen" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf920923-124-p6s1w18">
 <src.rf>manual</src.rf>
@@ -1697,7 +1697,7 @@
 <LM>w#w-mf920923-124-p6s2w16</LM>
 </w.rf>
 <form>masové</form>
-<tag lemma="masový-2_^(velký)" src="orig" selected="1">AAFS2----1A----</tag>
+<tag lemma="masový" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-mf920923-124-p6s2w17">
 <src.rf>manual</src.rf>
@@ -1932,7 +1932,7 @@
 <LM>w#w-mf920923-124-p7s1w7</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrIS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS1----------</tag>
 </m>
 <m id="m-mf920923-124-p7s1w8">
 <src.rf>manual</src.rf>
@@ -1972,7 +1972,7 @@
 <LM>w#w-mf920923-124-p7s1w12</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9IS4FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9IS4FS3-------</tag>
 </m>
 <m id="m-mf920923-124-p7s1w13">
 <src.rf>manual</src.rf>

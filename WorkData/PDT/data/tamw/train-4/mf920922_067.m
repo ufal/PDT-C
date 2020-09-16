@@ -113,7 +113,7 @@
 <LM>w#w-mf920922-067-p3s1w4</LM>
 </w.rf>
 <form>Výbor</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920922-067-p3s1w5">
 <src.rf>manual</src.rf>
@@ -201,7 +201,7 @@
 <LM>w#w-mf920922-067-p3s1w15</LM>
 </w.rf>
 <form>Slavií</form>
-<tag lemma="Slavia_;m" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Slavie_;m_,s_^(^DD**Slávie)" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-mf920922-067-p3s1w16">
 <src.rf>manual</src.rf>
@@ -209,7 +209,7 @@
 <LM>w#w-mf920922-067-p3s1w16</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-mf920922-067-p3s1w17">
 <src.rf>manual</src.rf>
@@ -849,7 +849,7 @@
 <LM>w#w-mf920922-067-p3s6w3</LM>
 </w.rf>
 <form>naše</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP4-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP4-P1-------</tag>
 </m>
 <m id="m-mf920922-067-p3s6w4">
 <src.rf>manual</src.rf>
@@ -1083,7 +1083,7 @@
 <LM>w#w-mf920922-067-p3s7w19</LM>
 </w.rf>
 <form>sudího</form>
-<tag lemma="sudí" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="sudí-1" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf920922-067-p3s7w20">
 <src.rf>manual</src.rf>
@@ -1133,7 +1133,7 @@
 <AM lemma="starost-1" src="auto">NNFS5-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFS6-----A----</AM>
 <AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto">NNFP1-----A----</AM>
-<AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto" selected="1">NNFP4-----A----</AM>
+<AM lemma="starost-2_^(*5ý-2)" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto">NNFP5-----A----</AM>
 <AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto">NNFS2-----A----</AM>
 <AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto">NNFS3-----A----</AM>
@@ -1303,7 +1303,7 @@
 <LM>w#w-mf920922-067-p3s9w2</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-mf920922-067-p3s9w3">
 <src.rf>manual</src.rf>

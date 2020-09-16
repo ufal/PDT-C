@@ -107,7 +107,7 @@
 <LM>w#w-lnd92258-015-p1s1w12</LM>
 </w.rf>
 <form>střeženého</form>
-<tag lemma="střežený_^(hlídat)_(*3it)" src="auto" selected="1">AAIS2----1A----</tag>
+<tag lemma="střežený_^(*3it)" src="auto" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-lnd92258-015-p1s1w13">
 <src.rf>manual</src.rf>

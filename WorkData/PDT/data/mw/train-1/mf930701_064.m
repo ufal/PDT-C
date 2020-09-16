@@ -842,7 +842,7 @@
 <LM>w#w-mf930701-064-p2s5w12</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf930701-064-p2s5w13">
 <src.rf>manual</src.rf>

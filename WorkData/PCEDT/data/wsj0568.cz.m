@@ -780,7 +780,7 @@
 <AM lemma="zamyšlení_^(*5slet)" src="auto">NNNP5-----A----</AM>
 <AM lemma="zamyšlení_^(*5slet)" src="auto">NNNS1-----A----</AM>
 <AM lemma="zamyšlení_^(*5slet)" src="auto">NNNS2-----A----</AM>
-<AM lemma="zamyšlení_^(*5slet)" src="auto" recommended="1">NNNS3-----A----</AM>
+<AM lemma="zamyšlení_^(*5slit)" src="auto" recommended="1">NNNS3-----A----</AM>
 <AM lemma="zamyšlení_^(*5slet)" src="auto">NNNS4-----A----</AM>
 <AM lemma="zamyšlení_^(*5slet)" src="auto">NNNS5-----A----</AM>
 <AM lemma="zamyšlení_^(*5slet)" src="auto">NNNS6-----A----</AM>
@@ -1517,7 +1517,7 @@
 <LM>w#w-wsj0568-001-p1s4W10</LM>
 </w.rf>
 <form>nevypadá</form>
-<tag lemma="vypadat" src="auto" recommended="1">VB-S---3P-NAI--</tag>
+<tag lemma="vypadat-1_^(ty_vypadáš)" src="auto" recommended="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-wsj0568-001-p1s4W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1579,7 +1579,7 @@
 <AM lemma="jenž_^(který...[ve_vedl._větě])" src="auto">P1NS4FS3-------</AM>
 <AM lemma="jenž_^(který...[ve_vedl._větě])" src="auto">P1XP1FS3-------</AM>
 <AM lemma="jenž_^(který...[ve_vedl._větě])" src="auto">P1XP4FS3-------</AM>
-<AM lemma="jenž_^(který...[ve_vedl._větě])" src="auto" recommended="1">P1ZS1FS3-------</AM>
+<AM lemma="jehož" src="auto" recommended="1">P1ZS1FS3-------</AM>
 </tag>
 </m>
 <m id="m-wsj0568-001-p1s5W5-Ta">
@@ -2586,7 +2586,7 @@
 </w.rf>
 <form>jejích</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XP2FS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9XP2FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP6FS3-------</AM>
 </tag>
 </m>
@@ -3725,7 +3725,7 @@
 <AM lemma="daný_^(*3át)" src="auto">AANP4----1A---6</AM>
 <AM lemma="daný_^(*3át)" src="auto">AANP5----1A---6</AM>
 <AM lemma="daný_^(*3át)" src="auto">AANS1----1A----</AM>
-<AM lemma="daný_^(*3át)" src="auto" recommended="1">AANS4----1A----</AM>
+<AM lemma="daný-1_^(*5át-1)" src="auto" recommended="1">AANS4----1A----</AM>
 <AM lemma="daný_^(*3át)" src="auto">AANS5----1A----</AM>
 </tag>
 </m>
@@ -7791,7 +7791,7 @@
 </w.rf>
 <form>vázaní</form>
 <tag>
-<AM lemma="vázaný_^(např._provazem;_se_k_čemu)_(*2t)" src="auto" recommended="1">AAMP1----1A----</AM>
+<AM lemma="vázaný_^(*2t)" src="auto" recommended="1">AAMP1----1A----</AM>
 <AM lemma="vázaný_^(např._provazem;_se_k_čemu)_(*2t)" src="auto">AAMP5----1A----</AM>
 </tag>
 </m>
@@ -7962,7 +7962,7 @@
 <form>proto</form>
 <tag>
 <AM lemma="proto-1_^(proto;_a_proto,_ale_proto,...)" src="auto">J^-------------</AM>
-<AM lemma="proto-2_^(dal_mu_co_proto,_tak_proto!)" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="proto-2_^(proto_že)" src="auto" recommended="1">Db-------------</AM>
 <AM lemma="proto-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -8906,7 +8906,7 @@
 </w.rf>
 <form>my</form>
 <tag>
-<AM lemma="já" src="auto" recommended="1">PP-P1--1-------</AM>
+<AM lemma="my" src="auto" recommended="1">PP-P1--1-------</AM>
 <AM lemma="já" src="auto">PP-P5--1-------</AM>
 <AM lemma="my-77" src="auto">F%-------------</AM>
 </tag>
@@ -9022,7 +9022,7 @@
 </w.rf>
 <form>druhou</form>
 <tag>
-<AM lemma="druhý" src="auto" recommended="1">CrFS4----------</AM>
+<AM lemma="druhý`2" src="auto" recommended="1">CrFS4----------</AM>
 <AM lemma="druhý" src="auto">CrFS7----------</AM>
 </tag>
 </m>
@@ -9808,7 +9808,7 @@
 <tag>
 <AM lemma="první" src="auto">CrFP2----------</AM>
 <AM lemma="první" src="auto">CrFP6----------</AM>
-<AM lemma="první" src="auto" recommended="1">CrIP2----------</AM>
+<AM lemma="první-1" src="auto" recommended="1">CrIP2----------</AM>
 <AM lemma="první" src="auto">CrIP6----------</AM>
 <AM lemma="první" src="auto">CrMP2----------</AM>
 <AM lemma="první" src="auto">CrMP6----------</AM>
@@ -10635,7 +10635,7 @@
 </w.rf>
 <form>svůj</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8IS4----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8IS4----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8YS1----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8YS5----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOYS-----------</AM>

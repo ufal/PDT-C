@@ -81,7 +81,7 @@
 <LM>w#w-lnd92251-056-p3s2w2</LM>
 </w.rf>
 <form>Rady</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92251-056-p3s2w3">
 <src.rf>manual</src.rf>
@@ -124,7 +124,7 @@
 <LM>w#w-lnd92251-056-p3s2w7</LM>
 </w.rf>
 <form>Kovo</form>
-<tag lemma="Kovo_;Y_;m" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Kovo_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-lnd92251-056-p3s2w8">
 <src.rf>manual</src.rf>
@@ -196,7 +196,7 @@
 <LM>w#w-lnd92251-056-p3s3w4</LM>
 </w.rf>
 <form>vyhlášení</form>
-<tag lemma="vyhlášení_,a_^(*4sit)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="vyhlášení_^(*2t)_(*4sit)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-lnd92251-056-p3s3w5">
 <src.rf>manual</src.rf>

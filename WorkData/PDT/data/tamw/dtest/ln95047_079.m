@@ -53,7 +53,7 @@
 <form>NATO</form>
 <tag>
 <AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="NATO_;m_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="NATO-1_;m_^(Northtlantic_Treaty_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -134,7 +134,7 @@
 <LM>w#w-ln95047-079-p2s1Bw3</LM>
 </w.rf>
 <form>roli</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="role_^(svitek_poslání_pozemek)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95047-079-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -378,7 +378,7 @@
 <LM>w#w-ln95047-079-p3s1w2</LM>
 </w.rf>
 <form>Zjednodušené</form>
-<tag lemma="zjednodušený_,s_^(*2t)" src="auto" selected="1">AAIP1----1A----</tag>
+<tag lemma="zjednodušený_^(*2t)_(*3it)" src="auto" selected="1">AAIP1----1A----</tag>
 </m>
 <m id="m-ln95047-079-p3s1w3">
 <src.rf>manual</src.rf>
@@ -404,7 +404,7 @@
 <form>NATO</form>
 <tag>
 <AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="NATO_;m_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="NATO-1_;m_^(Northtlantic_Treaty_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-079-p3s1w6">
@@ -413,7 +413,7 @@
 <LM>w#w-ln95047-079-p3s1w6</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-ln95047-079-p3s1w7">
 <src.rf>manual</src.rf>
@@ -519,7 +519,7 @@
 <LM>w#w-ln95047-079-p3s2w11</LM>
 </w.rf>
 <form>roli</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="role_^(svitek_poslání_pozemek)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95047-079-p3s2w12">
 <src.rf>manual</src.rf>
@@ -739,7 +739,7 @@
 <form>NATO</form>
 <tag>
 <AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="NATO_;m_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="NATO-1_;m_^(Northtlantic_Treaty_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-079-p3s3w23">
@@ -780,7 +780,7 @@
 <LM>w#w-ln95047-079-p3s3w27</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95047-079-p3s3w28">
 <src.rf>manual</src.rf>
@@ -954,7 +954,7 @@
 <LM>w#w-ln95047-079-p3s4w20</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95047-079-p3s4w21">
 <src.rf>manual</src.rf>
@@ -1026,7 +1026,7 @@
 <LM>w#w-ln95047-079-p3s4w29</LM>
 </w.rf>
 <form>orgánu</form>
-<tag lemma="orgán" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95047-079-p3s4w30">
 <src.rf>manual</src.rf>
@@ -1989,7 +1989,7 @@
 <LM>w#w-ln95047-079-p5s3w11</LM>
 </w.rf>
 <form>napjatou</form>
-<tag lemma="napjatý_^(*4nout)" src="orig" selected="1">AAFS4----1A----</tag>
+<tag lemma="napjatý" src="orig" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-ln95047-079-p5s3w12">
 <src.rf>manual</src.rf>

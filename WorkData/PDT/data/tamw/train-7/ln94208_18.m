@@ -1639,7 +1639,7 @@
 <LM>w#w-ln94208-18-p5s1w14</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-ln94208-18-p5s1w15">
 <src.rf>manual</src.rf>
@@ -1812,7 +1812,7 @@
 <LM>w#w-ln94208-18-p6s1w8</LM>
 </w.rf>
 <form>bojí</form>
-<tag lemma="bát" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="bát-1" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94208-18-p6s1w9">
 <src.rf>manual</src.rf>
@@ -2419,7 +2419,7 @@
 <LM>w#w-ln94208-18-p8s2w13</LM>
 </w.rf>
 <form>co</form>
-<tag lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="co-5_^(př._co_nejméně,_co_nevidět_atd.)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94208-18-p8s2w14">
 <src.rf>manual</src.rf>
@@ -2905,7 +2905,7 @@
 <LM>w#w-ln94208-18-p8s5Aw34</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8YP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8YP4---------1</tag>
 </m>
 <m id="m-ln94208-18-p8s5Aw35">
 <src.rf>manual</src.rf>

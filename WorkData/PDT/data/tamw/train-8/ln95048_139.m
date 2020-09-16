@@ -27,7 +27,7 @@
 <LM>w#w-ln95048-139-p1s1w2</LM>
 </w.rf>
 <form>Bílý</form>
-<tag lemma="bílý" src="orig" selected="1">AAMS1----1A----</tag>
+<tag lemma="bílý_;o" src="orig" selected="1">AAMS1----1A----</tag>
 </m>
 <m id="m-ln95048-139-p1s1w3">
 <src.rf>manual</src.rf>
@@ -298,7 +298,7 @@
 </w.rf>
 <form>KOVO</form>
 <tag>
-<AM lemma="Kovo_;Y_;m" src="orig" selected="1">NNNS1-----A----</AM>
+<AM lemma="Kovo_;m" src="orig" selected="1">NNNS1-----A----</AM>
 <AM lemma="KOVO-88" src="manual">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -1178,7 +1178,7 @@
 <LM>w#w-ln95048-139-p3s3w9</LM>
 </w.rf>
 <form>KOVO</form>
-<tag lemma="Kovo_;Y_;m" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Kovo_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95048-139-p3s3w10">
 <src.rf>manual</src.rf>
@@ -1287,7 +1287,7 @@
 <LM>w#w-ln95048-139-p3s4w5</LM>
 </w.rf>
 <form>najatý</form>
-<tag lemma="najatý_^(*3mout)" src="orig" selected="1">AAMS1----1A----</tag>
+<tag lemma="najatý" src="orig" selected="1">AAMS1----1A----</tag>
 </m>
 <m id="m-ln95048-139-p3s4w6">
 <src.rf>manual</src.rf>
@@ -1311,7 +1311,7 @@
 <LM>w#w-ln95048-139-p3s4w8</LM>
 </w.rf>
 <form>bílý</form>
-<tag lemma="bílý" src="orig" selected="1">AAMS1----1A----</tag>
+<tag lemma="bílý_;o" src="orig" selected="1">AAMS1----1A----</tag>
 </m>
 <m id="m-ln95048-139-p3s4w9">
 <src.rf>manual</src.rf>
@@ -1560,7 +1560,7 @@
 <LM>w#w-ln95048-139-p3s5w1</LM>
 </w.rf>
 <form>Dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95048-139-p3s5w2">
 <src.rf>manual</src.rf>
@@ -2641,7 +2641,7 @@
 <LM>w#w-ln95048-139-p3s13w3</LM>
 </w.rf>
 <form>zatčeným</form>
-<tag lemma="zatčený_^(*4knout)" src="orig" selected="1">AAMP3----1A----</tag>
+<tag lemma="zatčený" src="orig" selected="1">AAMP3----1A----</tag>
 </m>
 <m id="m-ln95048-139-p3s13w4">
 <src.rf>manual</src.rf>
@@ -2713,7 +2713,7 @@
 <LM>w#w-ln95048-139-p3s13w12</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln95048-139-p3s13w13">
 <src.rf>manual</src.rf>
@@ -3437,7 +3437,7 @@
 <LM>w#w-ln95048-139-p4s5w10</LM>
 </w.rf>
 <form>bílý</form>
-<tag lemma="bílý" src="orig" selected="1">AAMS1----1A----</tag>
+<tag lemma="bílý_;o" src="orig" selected="1">AAMS1----1A----</tag>
 </m>
 <m id="m-ln95048-139-p4s5w11">
 <src.rf>manual</src.rf>

@@ -339,7 +339,7 @@
 <LM>w#w-ln94203-141-p2s3w7</LM>
 </w.rf>
 <form>prostředky</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-ln94203-141-p2s3w8">
 <src.rf>manual</src.rf>
@@ -738,7 +738,7 @@
 <LM>w#w-ln94203-141-p3s2w13</LM>
 </w.rf>
 <form>tantiemy</form>
-<tag lemma="tantiéma" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="tantiema_,s_^(^DD**tantiéma)" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-ln94203-141-p3s2w14">
 <src.rf>manual</src.rf>

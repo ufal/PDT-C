@@ -522,7 +522,7 @@
 <LM>w#w-ln94202-62-p3s1w10</LM>
 </w.rf>
 <form>brání</form>
-<tag lemma="bránit_^(klást_překážky)" src="auto" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="bránit" src="auto" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94202-62-p3s1w11">
 <src.rf>manual</src.rf>
@@ -940,7 +940,7 @@
 <LM>w#w-ln94202-62-p4s1w22</LM>
 </w.rf>
 <form>dny</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-ln94202-62-p4s1w23">
 <src.rf>manual</src.rf>
@@ -996,7 +996,7 @@
 <LM>w#w-ln94202-62-p4s1w29</LM>
 </w.rf>
 <form>raněných</form>
-<tag lemma="raněný_^(poranit)_(*3it)" src="orig" selected="1">AAMP2----1A----</tag>
+<tag lemma="raněný_^(*3it)" src="orig" selected="1">AAMP2----1A----</tag>
 </m>
 <m id="m-ln94202-62-p4s1w30">
 <src.rf>manual</src.rf>
@@ -1120,7 +1120,7 @@
 <LM>w#w-ln94202-62-p5s1w9</LM>
 </w.rf>
 <form>členů</form>
-<tag lemma="člen" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94202-62-p5s1w10">
 <src.rf>manual</src.rf>
@@ -1728,7 +1728,7 @@
 <LM>w#w-ln94202-62-p6s2w15</LM>
 </w.rf>
 <form>Tana</form>
-<tag lemma="Tan_;Y" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Tan-1_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94202-62-p6s2w16">
 <src.rf>manual</src.rf>

@@ -125,7 +125,7 @@
 <LM>w#w-mf920923-103-p2s1w9</LM>
 </w.rf>
 <form>politiky</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920923-103-p2s1w10">
 <src.rf>manual</src.rf>
@@ -338,7 +338,7 @@
 <LM>w#w-mf920923-103-p2s2w22</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf920923-103-p2s2w23">
 <src.rf>manual</src.rf>
@@ -476,7 +476,7 @@
 <LM>w#w-mf920923-103-p2s3Aw10</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf920923-103-p2s3Aw11">
 <src.rf>manual</src.rf>
@@ -909,7 +909,7 @@
 <LM>w#w-mf920923-103-p3s1w14</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-mf920923-103-p3s1w15">
 <src.rf>manual</src.rf>

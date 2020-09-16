@@ -37,7 +37,7 @@
 <LM>w#w-ln95041-073-p2s1Aw1</LM>
 </w.rf>
 <form>Karlovy</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUIP1M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUIP1M---------</tag>
 </m>
 <m id="m-ln95041-073-p2s1Aw2">
 <src.rf>manual</src.rf>
@@ -255,7 +255,7 @@
 <LM>w#w-ln95041-073-p2s1Bw25</LM>
 </w.rf>
 <form>Karlových</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUIP6M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUIP6M---------</tag>
 </m>
 <m id="m-ln95041-073-p2s1Bw26">
 <src.rf>manual</src.rf>

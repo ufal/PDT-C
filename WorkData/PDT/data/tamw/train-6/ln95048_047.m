@@ -255,7 +255,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FP4---------1</tag>
 </m>
 <m id="m-ln95048-047-p2s1w28">
 <src.rf>manual</src.rf>
@@ -287,7 +287,7 @@
 <LM>w#w-ln95048-047-p2s1w31</LM>
 </w.rf>
 <form>boxera</form>
-<tag lemma="boxer" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="boxer-1" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95048-047-p2s1w32">
 <src.rf>manual</src.rf>
@@ -426,7 +426,7 @@
 <LM>w#w-ln95048-047-p2s2w16</LM>
 </w.rf>
 <form>serie</form>
-<tag lemma="série" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="serie_,s_^(^DD**série)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95048-047-p2s2w17">
 <src.rf>manual</src.rf>
@@ -499,7 +499,7 @@
 <LM>w#w-ln95048-047-p2s2w25</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln95048-047-p2s2w26">
 <src.rf>manual</src.rf>
@@ -541,7 +541,7 @@
 <form>nacismu</form>
 <tag>
 <AM lemma="nacismus" src="orig">NNIS2-----A----</AM>
-<AM lemma="nacizmus" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
+<AM lemma="nacismus_,s_^(^DD**nacizmus)" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
 <AM lemma="nacizmus" src="auto">NNIS3-----A----</AM>
 <AM lemma="nacizmus" src="auto">NNIS6-----A----</AM>
 </tag>
@@ -595,7 +595,7 @@
 <LM>w#w-ln95048-047-p2s3w5</LM>
 </w.rf>
 <form>boxer</form>
-<tag lemma="boxer" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="boxer-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-047-p2s3w6">
 <src.rf>manual</src.rf>
@@ -683,7 +683,7 @@
 <LM>w#w-ln95048-047-p2s3w16</LM>
 </w.rf>
 <form>mače</form>
-<tag lemma="mač_,h_,n_^(nesnáze;;sportovní_utkání;;ovocný_kvas)" src="auto" selected="1">NNIS2-----A----</tag>
+<tag lemma="mač_,h_^(nesnáze;;sportovní_utkání;;ovocný_kvas)" src="auto" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95048-047-p2s3w17">
 <src.rf>manual</src.rf>
@@ -757,7 +757,7 @@
 <LM>w#w-ln95048-047-p2s4w2</LM>
 </w.rf>
 <form>roli</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="role_^(svitek_poslání_pozemek)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95048-047-p2s4w3">
 <src.rf>manual</src.rf>
@@ -1310,7 +1310,7 @@
 <LM>w#w-ln95048-047-p2s6w18</LM>
 </w.rf>
 <form>naší</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS2-P1-------</tag>
 </m>
 <m id="m-ln95048-047-p2s6w19">
 <src.rf>manual</src.rf>

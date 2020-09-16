@@ -290,7 +290,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -778,7 +778,7 @@
 <LM>w#w-lnd92252-059-p3s3w17</LM>
 </w.rf>
 <form>správních</form>
-<tag lemma="správní_^(např._poplatek;_rada;_řád;...)" src="orig" selected="1">AANP2----1A----</tag>
+<tag lemma="správní_^(správní_rada;_řád)" src="orig" selected="1">AANP2----1A----</tag>
 </m>
 <m id="m-lnd92252-059-p3s3w18">
 <src.rf>manual</src.rf>
@@ -818,7 +818,7 @@
 <LM>w#w-lnd92252-059-p3s3w22</LM>
 </w.rf>
 <form>nepříjemné</form>
-<tag lemma="příjemný-1_^(všeob.,_poz._emoce)" src="orig" selected="1">AAIP1----1N----</tag>
+<tag lemma="příjemný_^(všeob.,_poz._emoce)" src="orig" selected="1">AAIP1----1N----</tag>
 </m>
 <m id="m-lnd92252-059-p3s3w23">
 <src.rf>manual</src.rf>
@@ -956,7 +956,7 @@
 <LM>w#w-lnd92252-059-p3s4w16</LM>
 </w.rf>
 <form>jejím</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP3FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XP3FS3-------</tag>
 </m>
 <m id="m-lnd92252-059-p3s4w17">
 <src.rf>manual</src.rf>
@@ -1929,7 +1929,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92252-059-p4s6w17">
@@ -2964,7 +2964,7 @@
 <LM>w#w-lnd92252-059-p6s1w14</LM>
 </w.rf>
 <form>orgánů</form>
-<tag lemma="orgán" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-lnd92252-059-p6s1w15">
 <src.rf>manual</src.rf>
@@ -3224,7 +3224,7 @@
 <LM>w#w-lnd92252-059-p6s3w3</LM>
 </w.rf>
 <form>nadřízenosti</form>
-<tag lemma="nadřízenost_^(něco/někoho_něčemu/něčemu;_pojem,_cíl,_orgán,...)_(*3ý)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="nadřízenost_^(*3ý)" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92252-059-p6s3w4">
 <src.rf>manual</src.rf>
@@ -3392,7 +3392,7 @@
 <LM>w#w-lnd92252-059-p6s3w24</LM>
 </w.rf>
 <form>odpovědnosti</form>
-<tag lemma="odpovědnost_^(kdo_za_něco_odpovídá)_(*3ý)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="odpovědnost_^(*3ý)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92252-059-p6s3w25">
 <src.rf>manual</src.rf>
@@ -3493,7 +3493,7 @@
 <LM>w#w-lnd92252-059-p6s4w11</LM>
 </w.rf>
 <form>málo</form>
-<tag lemma="málo-3_^(málo_+_příd._jm.,_př._byl_málo_důsledný)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="málo-3_^(málo_důsledný)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd92252-059-p6s4w12">
 <src.rf>manual</src.rf>

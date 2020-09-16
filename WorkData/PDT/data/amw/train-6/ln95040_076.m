@@ -82,7 +82,7 @@
 <LM>w#w-ln95040-076-p1s1w7</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS7---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS7---------1</tag>
 </m>
 <m id="m-ln95040-076-p1s1w8">
 <src.rf>manual</src.rf>
@@ -107,7 +107,7 @@
 <LM>w#w-ln95040-076-p1s1w10</LM>
 </w.rf>
 <form>dlouhou</form>
-<tag lemma="dlouhý-1_^(fyz._délka;_př._dlouhá_tyč)" src="orig" selected="1">AAFS7----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFS7----1A----</tag>
 </m>
 <m id="m-ln95040-076-p1s1w11">
 <src.rf>manual</src.rf>
@@ -173,7 +173,7 @@
 <LM>w#w-ln95040-076-p1s2w6</LM>
 </w.rf>
 <form>Guinnessovy</form>
-<tag lemma="Guinnessův_;Y_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Guinnessův-1_;Y_^(*4-1)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-ln95040-076-p1s2w7">
 <src.rf>manual</src.rf>
@@ -221,7 +221,7 @@
 <LM>w#w-ln95040-076-p1s2w12</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln95040-076-p1s2w13">
 <src.rf>manual</src.rf>

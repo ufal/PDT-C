@@ -151,7 +151,7 @@
 <LM>w#w-cmpr9410-022-p4s1w5</LM>
 </w.rf>
 <form>druhý</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS4----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS4----------</tag>
 </m>
 <m id="m-cmpr9410-022-p4s1w6">
 <src.rf>manual</src.rf>
@@ -999,7 +999,7 @@
 <LM>w#w-cmpr9410-022-p9s1w22</LM>
 </w.rf>
 <form>členové</form>
-<tag lemma="člen" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-cmpr9410-022-p9s1w23">
 <src.rf>manual</src.rf>

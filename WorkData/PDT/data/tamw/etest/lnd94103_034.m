@@ -413,7 +413,7 @@
 <LM>w#w-lnd94103-034-p1s4w8</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS2---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS2---------1</tag>
 </m>
 <m id="m-lnd94103-034-p1s4w9">
 <src.rf>manual</src.rf>
@@ -421,7 +421,7 @@
 <LM>w#w-lnd94103-034-p1s4w9</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94103-034-p1s4w10">
 <src.rf>manual</src.rf>
@@ -471,7 +471,7 @@
 <LM>w#w-lnd94103-034-p1s5w5</LM>
 </w.rf>
 <form>mluvčího</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94103-034-p1s5w6">
 <src.rf>manual</src.rf>
@@ -727,7 +727,7 @@
 <LM>w#w-lnd94103-034-p1s7w8</LM>
 </w.rf>
 <form>dá</form>
-<tag lemma="dát" src="orig" selected="1">VB-S---3P-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-lnd94103-034-p1s7w9">
 <src.rf>manual</src.rf>

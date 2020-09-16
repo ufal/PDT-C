@@ -19,7 +19,7 @@
 <LM>w#w-ln94200-11-p1s1w1</LM>
 </w.rf>
 <form>Ukradený</form>
-<tag lemma="ukradený_^(*5ást)" src="auto" selected="1">AAIS1----1A----</tag>
+<tag lemma="ukradený" src="auto" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-ln94200-11-p1s1w2">
 <src.rf>manual</src.rf>
@@ -599,7 +599,7 @@
 <LM>w#w-ln94200-11-p3s2w9</LM>
 </w.rf>
 <form>Richardsona</form>
-<tag lemma="Richardson_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Richardson-1_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94200-11-p3s2w10">
 <src.rf>manual</src.rf>

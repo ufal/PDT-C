@@ -140,7 +140,7 @@
 <LM>w#w-cmpr9415-009-p4s1w4</LM>
 </w.rf>
 <form>Penzion</form>
-<tag lemma="penzión" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="penzion_,s_^(^DD**penzión)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-009-p4s1w5">
 <src.rf>manual</src.rf>
@@ -213,7 +213,7 @@
 <LM>w#w-cmpr9415-009-p6s1w1</LM>
 </w.rf>
 <form>Dítě</form>
-<tag lemma="dítě" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="dítě-1" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-009-p6s1w2">
 <src.rf>manual</src.rf>
@@ -245,7 +245,7 @@
 <LM>w#w-cmpr9415-009-p6s1w5</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-cmpr9415-009-p6s1w6">
 <src.rf>manual</src.rf>
@@ -480,7 +480,7 @@
 <LM>w#w-cmpr9415-009-p9s1w3</LM>
 </w.rf>
 <form>Penzion</form>
-<tag lemma="penzión" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="penzion_,s_^(^DD**penzión)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-009-p9s1w4">
 <src.rf>manual</src.rf>
@@ -622,7 +622,7 @@
 <LM>w#w-cmpr9415-009-p9s2w4</LM>
 </w.rf>
 <form>Ramzové</form>
-<tag lemma="Ramzová_;Y" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Ramzová_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-cmpr9415-009-p9s2w5">
 <src.rf>manual</src.rf>
@@ -735,7 +735,7 @@
 <LM>w#w-cmpr9415-009-p9s3w1</LM>
 </w.rf>
 <form>Šerák</form>
-<tag lemma="Šerák_;G" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Šerák-2_;G" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-009-p9s3w2">
 <src.rf>manual</src.rf>
@@ -1093,7 +1093,7 @@
 <LM>w#w-cmpr9415-009-p9s6w2</LM>
 </w.rf>
 <form>penzionu</form>
-<tag lemma="penzión" src="orig" selected="1">NNIS6-----A---1</tag>
+<tag lemma="penzion_,s_^(^DD**penzión)" src="orig" selected="1">NNIS6-----A---1</tag>
 </m>
 <m id="m-cmpr9415-009-p9s6w3">
 <src.rf>manual</src.rf>
@@ -1175,7 +1175,7 @@
 <LM>w#w-cmpr9415-009-p9s7w2</LM>
 </w.rf>
 <form>penzionu</form>
-<tag lemma="penzión" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="penzion_,s_^(^DD**penzión)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-cmpr9415-009-p9s7w3">
 <src.rf>manual</src.rf>
@@ -1307,7 +1307,7 @@
 <LM>w#w-cmpr9415-009-p9s8Bw6</LM>
 </w.rf>
 <form>penzionu</form>
-<tag lemma="penzión" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="penzion_,s_^(^DD**penzión)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-cmpr9415-009-p9s8Bw7">
 <src.rf>manual</src.rf>

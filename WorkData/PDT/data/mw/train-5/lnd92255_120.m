@@ -83,7 +83,7 @@
 <LM>w#w-lnd92255-120-p1s1w9</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd92255-120-p1s1w10">
 <src.rf>manual</src.rf>

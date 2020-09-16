@@ -79,7 +79,7 @@
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS1---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS4---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS5---------1</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8YP4---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8YP4---------1</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOFP-----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOIP-----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AONS-----------</AM>
@@ -310,7 +310,7 @@
 <tag>
 <AM lemma="Atlantis_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Atlantis_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Atlantis_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Atlantis-2_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2233-001-p1s0W22-Ta">
@@ -464,7 +464,7 @@
 <AM lemma="zelení" src="auto">NNNS4-----A----</AM>
 <AM lemma="zelení" src="auto">NNNS5-----A----</AM>
 <AM lemma="zelení" src="auto">NNNS6-----A----</AM>
-<AM lemma="zelení-2" src="manual" selected="1">NNMP1-----A----</AM>
+<AM lemma="Zelený_;Y" src="manual" selected="1">NNMP1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2233-001-p1s1W2-Ta">
@@ -1199,7 +1199,7 @@
 <AM lemma="soudkyně_^(člověk,_který_soudí)_(*4ce)" src="auto">NNFP1-----A----</AM>
 <AM lemma="soudkyně_^(člověk,_který_soudí)_(*4ce)" src="auto">NNFP4-----A----</AM>
 <AM lemma="soudkyně_^(člověk,_který_soudí)_(*4ce)" src="auto">NNFP5-----A----</AM>
-<AM lemma="soudkyně_^(člověk,_který_soudí)_(*4ce)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="soudkyně_^(*4ce)" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="soudkyně_^(člověk,_který_soudí)_(*4ce)" src="auto">NNFS2-----A----</AM>
 <AM lemma="soudkyně_^(člověk,_který_soudí)_(*4ce)" src="auto">NNFS5-----A----</AM>
 </tag>
@@ -1212,7 +1212,7 @@
 <form>Pat</form>
 <tag>
 <AM lemma="Pat_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Pat_;Y" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Pat-2_;Y" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="pat" src="auto">NNIS1-----A----</AM>
 <AM lemma="pat" src="auto">NNIS4-----A----</AM>
 <AM lemma="pata" src="auto">NNFP2-----A----</AM>

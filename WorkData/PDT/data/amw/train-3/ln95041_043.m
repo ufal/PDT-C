@@ -91,7 +91,7 @@
 <LM>w#w-ln95041-043-p1s1w10</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-ln95041-043-p1s1w11">
 <src.rf>manual</src.rf>
@@ -299,7 +299,7 @@
 <LM>w#w-ln95041-043-p1s2w13</LM>
 </w.rf>
 <form>Marsyas</form>
-<tag lemma="Marsyas_;m" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Marsyas-1_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95041-043-p1s2w14">
 <src.rf>manual</src.rf>

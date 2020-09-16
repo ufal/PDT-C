@@ -181,7 +181,7 @@
 <LM>w#w-mf930702-068-p2s1w18</LM>
 </w.rf>
 <form>nejlepším</form>
-<tag lemma="dobrý" src="orig" selected="1">AAIS7----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAIS7----3A----</tag>
 </m>
 <m id="m-mf930702-068-p2s1w19">
 <src.rf>manual</src.rf>
@@ -303,7 +303,7 @@
 <LM>w#w-mf930702-068-p2s2w11</LM>
 </w.rf>
 <form>manažerem</form>
-<tag lemma="manažer" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="manažer-1" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf930702-068-p2s2w12">
 <src.rf>manual</src.rf>

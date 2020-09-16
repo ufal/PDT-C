@@ -667,7 +667,7 @@
 <LM>w#w-lnd92256-074-p5s1w10</LM>
 </w.rf>
 <form>David</form>
-<tag lemma="David_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="David-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-074-p5s1w11">
 <src.rf>manual</src.rf>
@@ -825,7 +825,7 @@
 <LM>w#w-lnd92256-074-p5s2w10</LM>
 </w.rf>
 <form>činiteli</form>
-<tag lemma="činitel" src="orig" selected="1">NNMP7-----A----</tag>
+<tag lemma="činitel-1" src="orig" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-lnd92256-074-p5s2w11">
 <src.rf>manual</src.rf>
@@ -1384,7 +1384,7 @@
 <LM>w#w-lnd92256-074-p5s6w8</LM>
 </w.rf>
 <form>Černé</form>
-<tag lemma="černý" src="auto" selected="1">AAFS2----1A----</tag>
+<tag lemma="černý_;o" src="auto" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-lnd92256-074-p5s6w9">
 <src.rf>manual</src.rf>

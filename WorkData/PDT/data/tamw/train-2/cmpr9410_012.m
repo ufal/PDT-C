@@ -133,7 +133,7 @@
 <LM>w#w-cmpr9410-012-p3s1w10</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-cmpr9410-012-p3s1w11">
 <src.rf>manual</src.rf>
@@ -629,7 +629,7 @@
 <LM>w#w-cmpr9410-012-p5s1w5</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS1----------</tag>
 </m>
 <m id="m-cmpr9410-012-p5s1w6">
 <src.rf>manual</src.rf>
@@ -1499,7 +1499,7 @@
 <LM>w#w-cmpr9410-012-p7s3w2</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-cmpr9410-012-p7s3w3">
 <src.rf>manual</src.rf>
@@ -1507,7 +1507,7 @@
 <LM>w#w-cmpr9410-012-p7s3w3</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-cmpr9410-012-p7s3w4">
 <src.rf>manual</src.rf>
@@ -3605,7 +3605,7 @@
 <LM>w#w-cmpr9410-012-p13s1w29</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-cmpr9410-012-p13s1w30">
 <src.rf>manual</src.rf>
@@ -3663,7 +3663,7 @@
 <LM>w#w-cmpr9410-012-p13s2w3</LM>
 </w.rf>
 <form>roli</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="role_^(svitek_poslání_pozemek)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-cmpr9410-012-p13s2w4">
 <src.rf>manual</src.rf>

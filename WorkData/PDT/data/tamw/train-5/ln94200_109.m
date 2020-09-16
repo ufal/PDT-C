@@ -321,7 +321,7 @@
 <LM>w#w-ln94200-109-p1s3w11</LM>
 </w.rf>
 <form>svojí</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS7----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS7----------</tag>
 </m>
 <m id="m-ln94200-109-p1s3w12">
 <src.rf>manual</src.rf>

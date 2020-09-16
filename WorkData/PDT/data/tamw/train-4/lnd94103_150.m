@@ -266,7 +266,7 @@
 <LM>w#w-lnd94103-150-p1s2w12</LM>
 </w.rf>
 <form>kamiony</form>
-<tag lemma="kamión" src="orig" selected="1">NNIP7-----A----</tag>
+<tag lemma="kamion_,s_^(^DD**kamión)" src="orig" selected="1">NNIP7-----A----</tag>
 </m>
 <m id="m-lnd94103-150-p1s2w13">
 <src.rf>manual</src.rf>

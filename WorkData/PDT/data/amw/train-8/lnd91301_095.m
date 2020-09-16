@@ -238,7 +238,7 @@
 <tag>
 <AM lemma="Parid_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Paris-1_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Paris-2_;G" src="auto" selected="1">NNFXX-----A----</AM>
+<AM lemma="Paris-2_;G_;Y" src="auto" selected="1">NNFXX-----A----</AM>
 <AM lemma="Paris-3_;Y" src="auto">NNFXX-----A----</AM>
 <AM lemma="Paris_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
@@ -302,7 +302,7 @@
 <LM>w#w-lnd91301-095-p3s2Aw3</LM>
 </w.rf>
 <form>představení</form>
-<tag lemma="představení-1_^(si_něco;_něco/někoho_někomu)_(*5it-1)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="představení-1_^(*5it-1)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-lnd91301-095-p3s2Aw4">
 <src.rf>manual</src.rf>
@@ -431,7 +431,7 @@
 <LM>w#w-lnd91301-095-p3s2Aw18</LM>
 </w.rf>
 <form>Slovanu</form>
-<tag lemma="Slovan-2_;m" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Slovan-2_;G_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd91301-095-p3s2Aw19">
 <src.rf>manual</src.rf>

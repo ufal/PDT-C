@@ -419,7 +419,7 @@
 <LM>w#w-ln95049-104-p2s3w11</LM>
 </w.rf>
 <form>málo</form>
-<tag lemma="málo-3_^(málo_+_příd._jm.,_př._byl_málo_důsledný)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="málo-3_^(málo_důsledný)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95049-104-p2s3w12">
 <src.rf>manual</src.rf>
@@ -657,7 +657,7 @@
 <LM>w#w-ln95049-104-p2s6w6</LM>
 </w.rf>
 <form>virů</form>
-<tag lemma="vir" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="vir-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln95049-104-p2s6w7">
 <src.rf>manual</src.rf>
@@ -1006,7 +1006,7 @@
 <LM>w#w-ln95049-104-p2s8w9</LM>
 </w.rf>
 <form>Evropě</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln95049-104-p2s8w10">
 <src.rf>manual</src.rf>
@@ -1290,7 +1290,7 @@
 <LM>w#w-ln95049-104-p2s10w17</LM>
 </w.rf>
 <form>Sasku</form>
-<tag lemma="Sasko_;G" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="Sasko-2_;G" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-ln95049-104-p2s10w18">
 <src.rf>manual</src.rf>

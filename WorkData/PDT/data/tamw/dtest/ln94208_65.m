@@ -208,7 +208,7 @@
 <LM>w#w-ln94208-65-p2s1Bw14</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrMP1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrMP1----------</tag>
 </m>
 <m id="m-ln94208-65-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -797,7 +797,7 @@
 <LM>w#w-ln94208-65-p3s1w23</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8YP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8YP4---------1</tag>
 </m>
 <m id="m-ln94208-65-p3s1w24">
 <src.rf>manual</src.rf>

@@ -1294,7 +1294,7 @@
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FP1---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FP4---------1</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8FS2---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8FS2---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS3---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS6---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8IP1---------1</AM>
@@ -1322,7 +1322,7 @@
 <AM lemma="panenka-2_^(na_hraní)" src="auto">NNFP1-----A----</AM>
 <AM lemma="panenka-2_^(na_hraní)" src="auto">NNFP4-----A----</AM>
 <AM lemma="panenka-2_^(na_hraní)" src="auto">NNFP5-----A----</AM>
-<AM lemma="panenka-2_^(na_hraní)" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="panenka" src="auto" recommended="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1670-001-p1s4W13-Ta">
@@ -1637,7 +1637,7 @@
 <AM lemma="představený-1_^(si_něco;_něco/někoho_někomu)_(*5it-1)" src="auto">AAFP2----1A----</AM>
 <AM lemma="představený-1_^(si_něco;_něco/někoho_někomu)_(*5it-1)" src="auto">AAFP6----1A----</AM>
 <AM lemma="představený-1_^(si_něco;_něco/někoho_někomu)_(*5it-1)" src="auto">AAIP2----1A----</AM>
-<AM lemma="představený-1_^(si_něco;_něco/někoho_někomu)_(*5it-1)" src="auto" recommended="1">AAIP6----1A----</AM>
+<AM lemma="představený-1_^(*5it-1)" src="auto" recommended="1">AAIP6----1A----</AM>
 <AM lemma="představený-1_^(si_něco;_něco/někoho_někomu)_(*5it-1)" src="auto">AAMP2----1A----</AM>
 <AM lemma="představený-1_^(si_něco;_něco/někoho_někomu)_(*5it-1)" src="auto">AAMP6----1A----</AM>
 <AM lemma="představený-1_^(si_něco;_něco/někoho_někomu)_(*5it-1)" src="auto">AANP2----1A----</AM>
@@ -2463,7 +2463,7 @@
 <form>jejím</form>
 <tag>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP3FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9ZS6FS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9ZS6FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSZS7FS3-------</AM>
 </tag>
 </m>

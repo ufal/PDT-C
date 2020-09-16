@@ -154,7 +154,7 @@
 <LM>w#w-mf930709-092-p1s1Cw9</LM>
 </w.rf>
 <form>pelotonu</form>
-<tag lemma="peloton" src="orig" selected="1">NNIS3-----A----</tag>
+<tag lemma="peloton_,s_^(^DD**peleton)" src="orig" selected="1">NNIS3-----A----</tag>
 </m>
 <m id="m-mf930709-092-p1s1Cw10">
 <src.rf>manual</src.rf>

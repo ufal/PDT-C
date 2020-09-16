@@ -248,7 +248,7 @@
 <LM>w#w-ln94200-20-p2s1Bw16</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94200-20-p2s1Bw17">
 <src.rf>manual</src.rf>
@@ -720,7 +720,7 @@
 <LM>w#w-ln94200-20-p3s1w21</LM>
 </w.rf>
 <form>zastavení</form>
-<tag lemma="zastavení-2_^(zástavní_právo)_(*5it-2)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="zastavení_^(*3it)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-ln94200-20-p3s1w22">
 <src.rf>manual</src.rf>

@@ -186,7 +186,7 @@
 <LM>w#w-lnd92259-015-p3s2w10</LM>
 </w.rf>
 <form>nejhorší</form>
-<tag lemma="špatný" src="orig" selected="1">AAIP4----3A----</tag>
+<tag lemma="horší" src="orig" selected="1">AAIP4----3A----</tag>
 </m>
 <m id="m-lnd92259-015-p3s2w11">
 <src.rf>manual</src.rf>
@@ -637,7 +637,7 @@
 <LM>w#w-lnd92259-015-p3s5w5</LM>
 </w.rf>
 <form>našeho</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSZS2-P1-------</tag>
 </m>
 <m id="m-lnd92259-015-p3s5w6">
 <src.rf>manual</src.rf>
@@ -886,7 +886,7 @@
 <LM>w#w-lnd92259-015-p3s5w36</LM>
 </w.rf>
 <form>BESIPu</form>
-<tag lemma="BESIP_;m" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Besip_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92259-015-p3s5w37">
 <src.rf>manual</src.rf>

@@ -121,7 +121,7 @@
 <LM>w#w-ln94201-22-p2s1w8</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrFS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS1----------</tag>
 </m>
 <m id="m-ln94201-22-p2s1w9">
 <src.rf>manual</src.rf>
@@ -533,7 +533,7 @@
 <LM>w#w-ln94201-22-p2s3w13</LM>
 </w.rf>
 <form>prstnatec</form>
-<tag lemma="prstnatec_;U_^(orchidej)" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="prstnatec_^(orchidej)" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94201-22-p2s3w14">
 <src.rf>manual</src.rf>
@@ -557,7 +557,7 @@
 <LM>w#w-ln94201-22-p2s3w16</LM>
 </w.rf>
 <form>všivec</form>
-<tag lemma="všivec_;U" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="všivec" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94201-22-p2s3w17">
 <src.rf>manual</src.rf>
@@ -698,7 +698,7 @@
 <LM>w#w-ln94201-22-p2s4w10</LM>
 </w.rf>
 <form>polní</form>
-<tag lemma="polní-1" src="orig" selected="1">AAMS1----1A----</tag>
+<tag lemma="polní" src="orig" selected="1">AAMS1----1A----</tag>
 </m>
 <m id="m-ln94201-22-p2s4w11">
 <src.rf>manual</src.rf>

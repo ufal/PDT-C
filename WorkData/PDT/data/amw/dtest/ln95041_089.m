@@ -266,7 +266,7 @@
 <LM>w#w-ln95041-089-p2s2w5</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS7----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS7----------</tag>
 </m>
 <m id="m-ln95041-089-p2s2w6">
 <src.rf>manual</src.rf>
@@ -298,7 +298,7 @@
 <LM>w#w-ln95041-089-p2s2w9</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1XP4FS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XP4FS3-------</tag>
 </m>
 <m id="m-ln95041-089-p2s2w10">
 <src.rf>manual</src.rf>
@@ -375,7 +375,7 @@
 <LM>w#w-ln95041-089-p3s1w3</LM>
 </w.rf>
 <form>lety</form>
-<tag lemma="rok" src="orig" selected="1">NNNP7-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP7-----A----</tag>
 </m>
 <m id="m-ln95041-089-p3s1w4">
 <src.rf>manual</src.rf>
@@ -519,7 +519,7 @@
 <LM>w#w-ln95041-089-p3s1w21</LM>
 </w.rf>
 <form>Karlova</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUNS2M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUNS2M---------</tag>
 </m>
 <m id="m-ln95041-089-p3s1w22">
 <src.rf>manual</src.rf>
@@ -575,7 +575,7 @@
 <LM>w#w-ln95041-089-p3s1w28</LM>
 </w.rf>
 <form>Karlova</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-ln95041-089-p3s1w29">
 <src.rf>manual</src.rf>

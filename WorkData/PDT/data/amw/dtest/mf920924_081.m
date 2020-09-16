@@ -706,7 +706,7 @@
 <LM>w#w-mf920924-081-p3s5w5</LM>
 </w.rf>
 <form>dali</form>
-<tag lemma="dát" src="orig" selected="1">VpMP----R-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf920924-081-p3s5w6">
 <src.rf>manual</src.rf>
@@ -877,7 +877,7 @@
 <LM>w#w-mf920924-081-p3s5w26</LM>
 </w.rf>
 <form>dal</form>
-<tag lemma="dát" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920924-081-p3s5w27">
 <src.rf>manual</src.rf>

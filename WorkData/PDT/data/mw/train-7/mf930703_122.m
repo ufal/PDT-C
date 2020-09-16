@@ -43,7 +43,7 @@
 <LM>w#w-mf930703-122-p1s1w4</LM>
 </w.rf>
 <form>svoji</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4----------</tag>
 </m>
 <m id="m-mf930703-122-p1s1w5">
 <src.rf>manual</src.rf>
@@ -662,7 +662,7 @@
 <LM>w#w-mf930703-122-p2s5w10</LM>
 </w.rf>
 <form>politice</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf930703-122-p2s5w11">
 <src.rf>manual</src.rf>

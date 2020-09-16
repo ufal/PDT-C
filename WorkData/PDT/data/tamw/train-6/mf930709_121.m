@@ -366,7 +366,7 @@
 <LM>w#w-mf930709-121-p2s3w1</LM>
 </w.rf>
 <form>Taxikáři</form>
-<tag lemma="taxikář" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="taxikář_,s_^(^DD**taxíkář)" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf930709-121-p2s3w2">
 <src.rf>manual</src.rf>
@@ -382,7 +382,7 @@
 <LM>w#w-mf930709-121-p2s3w3</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP6----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP6----------</tag>
 </m>
 <m id="m-mf930709-121-p2s3w4">
 <src.rf>manual</src.rf>
@@ -592,7 +592,7 @@
 <AM lemma="stání-3_^(někdo/něco_stojí,_např._na_nohou)" src="auto">NNNP2-----A----</AM>
 <AM lemma="stání-3_^(někdo/něco_stojí,_např._na_nohou)" src="auto">NNNP4-----A----</AM>
 <AM lemma="stání-3_^(někdo/něco_stojí,_např._na_nohou)" src="auto">NNNP5-----A----</AM>
-<AM lemma="stání-3_^(někdo/něco_stojí,_např._na_nohou)" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
+<AM lemma="stání" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
 <AM lemma="stání-3_^(někdo/něco_stojí,_např._na_nohou)" src="auto">NNNS2-----A----</AM>
 <AM lemma="stání-3_^(někdo/něco_stojí,_např._na_nohou)" src="auto">NNNS3-----A----</AM>
 <AM lemma="stání-3_^(někdo/něco_stojí,_např._na_nohou)" src="auto">NNNS4-----A----</AM>
@@ -813,7 +813,7 @@
 <AM lemma="stání-3_^(někdo/něco_stojí,_např._na_nohou)" src="auto">NNNS1-----A----</AM>
 <AM lemma="stání-3_^(někdo/něco_stojí,_např._na_nohou)" src="auto">NNNS2-----A----</AM>
 <AM lemma="stání-3_^(někdo/něco_stojí,_např._na_nohou)" src="auto">NNNS3-----A----</AM>
-<AM lemma="stání-3_^(někdo/něco_stojí,_např._na_nohou)" src="auto" recommended="1" selected="1">NNNS4-----A----</AM>
+<AM lemma="stání" src="auto" recommended="1" selected="1">NNNS4-----A----</AM>
 <AM lemma="stání-3_^(někdo/něco_stojí,_např._na_nohou)" src="auto">NNNS5-----A----</AM>
 <AM lemma="stání-3_^(někdo/něco_stojí,_např._na_nohou)" src="auto">NNNS6-----A----</AM>
 <AM lemma="stání_^(vyhrazené_místo,_př._pro_koně,_auta,...)" src="auto">NNNP1-----A----</AM>

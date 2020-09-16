@@ -54,7 +54,7 @@
 <tag>
 <AM lemma="Tucker_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Tucker_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Tucker_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Tucker-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0954-001-p1s0W5-Ta">
@@ -385,7 +385,7 @@
 <tag>
 <AM lemma="Tucker_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Tucker_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Tucker_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Tucker-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0954-001-p1s1W3-Ta">
@@ -648,7 +648,7 @@
 <tag>
 <AM lemma="Tucker_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Tucker_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Tucker_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Tucker-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0954-001-p1s2W2-Ta">
@@ -786,7 +786,7 @@
 <form>svého</form>
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8MS4----------</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8ZS2----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8ZS2----------</AM>
 </tag>
 </m>
 <m id="m-wsj0954-001-p1s2W13-Ta">

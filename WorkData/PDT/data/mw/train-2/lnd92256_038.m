@@ -707,7 +707,7 @@
 <LM>w#w-lnd92256-038-p3s4w6</LM>
 </w.rf>
 <form>politiky</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92256-038-p3s4w7">
 <src.rf>manual</src.rf>
@@ -731,7 +731,7 @@
 <LM>w#w-lnd92256-038-p3s4w9</LM>
 </w.rf>
 <form>Rada</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92256-038-p3s4w10">
 <src.rf>manual</src.rf>
@@ -787,7 +787,7 @@
 <LM>w#w-lnd92256-038-p3s4w16</LM>
 </w.rf>
 <form>členů</form>
-<tag lemma="člen" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd92256-038-p3s4w17">
 <src.rf>manual</src.rf>
@@ -835,7 +835,7 @@
 <LM>w#w-lnd92256-038-p3s4w22</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS1FS3-------</tag>
 </m>
 <m id="m-lnd92256-038-p3s4w23">
 <src.rf>manual</src.rf>
@@ -997,7 +997,7 @@
 <LM>w#w-lnd92256-038-p3s5w17</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92256-038-p3s5w18">
 <src.rf>manual</src.rf>
@@ -1231,7 +1231,7 @@
 <LM>w#w-lnd92256-038-p3s7w12</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS3----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS3----------</tag>
 </m>
 <m id="m-lnd92256-038-p3s7w13">
 <src.rf>manual</src.rf>
@@ -1247,7 +1247,7 @@
 <LM>w#w-lnd92256-038-p3s7w14</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-lnd92256-038-p3s7w15">
 <src.rf>manual</src.rf>

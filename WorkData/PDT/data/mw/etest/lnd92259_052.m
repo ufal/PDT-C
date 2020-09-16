@@ -429,7 +429,7 @@
 <LM>w#w-lnd92259-052-p3s4w3</LM>
 </w.rf>
 <form>činitelů</form>
-<tag lemma="činitel" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="činitel-1" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd92259-052-p3s4w4">
 <src.rf>manual</src.rf>
@@ -753,7 +753,7 @@
 <LM>w#w-lnd92259-052-p3s4w42</LM>
 </w.rf>
 <form>vytváření</form>
-<tag lemma="vytváření_,a_^(*2t)" src="auto" selected="1">NNNS4-----A----</tag>
+<tag lemma="vytváření_^(*2t)_(*3it)" src="auto" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-lnd92259-052-p3s4w43">
 <src.rf>manual</src.rf>

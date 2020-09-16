@@ -370,7 +370,7 @@
 <LM>w#w-lnd92252-033-p2s3w21</LM>
 </w.rf>
 <form>druhého</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS2----------</tag>
 </m>
 <m id="m-lnd92252-033-p2s3w22">
 <src.rf>manual</src.rf>
@@ -394,7 +394,7 @@
 <LM>w#w-lnd92252-033-p2s3w24</LM>
 </w.rf>
 <form>naší</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS2-P1-------</tag>
 </m>
 <m id="m-lnd92252-033-p2s3w25">
 <src.rf>manual</src.rf>

@@ -127,7 +127,7 @@
 <LM>w#w-mf920902-031-p2s2w8</LM>
 </w.rf>
 <form>otištěnou</form>
-<tag lemma="otištěný_^(*5sknout)" src="orig" selected="1">AAFS4----1A----</tag>
+<tag lemma="otištěný" src="orig" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-mf920902-031-p2s2w9">
 <src.rf>manual</src.rf>
@@ -143,7 +143,7 @@
 <LM>w#w-mf920902-031-p2s2w10</LM>
 </w.rf>
 <form>dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920902-031-p2s2w11">
 <src.rf>manual</src.rf>

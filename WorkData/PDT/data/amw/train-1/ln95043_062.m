@@ -245,7 +245,7 @@
 <LM>w#w-ln95043-062-p2s1Bw18</LM>
 </w.rf>
 <form>tajných</form>
-<tag lemma="tajný" src="orig" selected="1">AAFP2----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AAFP2----1A----</tag>
 </m>
 <m id="m-ln95043-062-p2s1Bw19">
 <src.rf>manual</src.rf>
@@ -484,7 +484,7 @@
 <LM>w#w-ln95043-062-p2s3w16</LM>
 </w.rf>
 <form>podání</form>
-<tag lemma="podání_^(něco_[někomu]_[někam])_(*3at)" src="orig" selected="1">NNNS3-----A----</tag>
+<tag lemma="podání_^(*3at)" src="orig" selected="1">NNNS3-----A----</tag>
 </m>
 <m id="m-ln95043-062-p2s3w17">
 <src.rf>manual</src.rf>
@@ -500,7 +500,7 @@
 <LM>w#w-ln95043-062-p2s3w18</LM>
 </w.rf>
 <form>rady</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95043-062-p2s3w19">
 <src.rf>manual</src.rf>
@@ -527,7 +527,7 @@
 <LM>w#w-ln95043-062-p2s3w21</LM>
 </w.rf>
 <form>orgánu</form>
-<tag lemma="orgán" src="orig" selected="1">NNIS3-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIS3-----A----</tag>
 </m>
 <m id="m-ln95043-062-p2s3w22">
 <src.rf>manual</src.rf>
@@ -687,7 +687,7 @@
 <LM>w#w-ln95043-062-p2s4w15</LM>
 </w.rf>
 <form>správné</form>
-<tag lemma="správný_^(podle_něj._měřítek;_př._chlap,_míra,...)" src="orig" selected="1">AANS4----1A----</tag>
+<tag lemma="správný" src="orig" selected="1">AANS4----1A----</tag>
 </m>
 <m id="m-ln95043-062-p2s4w16">
 <src.rf>manual</src.rf>
@@ -735,7 +735,7 @@
 <LM>w#w-ln95043-062-p2s4w21</LM>
 </w.rf>
 <form>orgánu</form>
-<tag lemma="orgán" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95043-062-p2s4w22">
 <src.rf>manual</src.rf>
@@ -852,7 +852,7 @@
 <LM>w#w-ln95043-062-p2s5w7</LM>
 </w.rf>
 <form>rady</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95043-062-p2s5w8">
 <src.rf>manual</src.rf>

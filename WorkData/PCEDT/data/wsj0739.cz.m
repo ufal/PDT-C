@@ -1468,7 +1468,7 @@
 <AM lemma="nemoc_^(choroba)" src="auto">NNFP4-----A----</AM>
 <AM lemma="nemoc_^(choroba)" src="auto">NNFP5-----A----</AM>
 <AM lemma="nemoc_^(choroba)" src="auto">NNFS2-----A----</AM>
-<AM lemma="nemoc_^(choroba)" src="auto" recommended="1">NNFS3-----A----</AM>
+<AM lemma="nemoc" src="auto" recommended="1">NNFS3-----A----</AM>
 <AM lemma="nemoc_^(choroba)" src="auto">NNFS5-----A----</AM>
 <AM lemma="nemoc_^(choroba)" src="auto">NNFS6-----A----</AM>
 </tag>
@@ -3105,7 +3105,7 @@
 </w.rf>
 <form>třeba</form>
 <tag>
-<AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" recommended="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>

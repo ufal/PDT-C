@@ -44,7 +44,7 @@
 <LM>w#w-ln95043-025-p1s1w4</LM>
 </w.rf>
 <form>Tombových</form>
-<tag lemma="Tombův_;Y_^(*2a)" src="orig" selected="1">AUFP6M---------</tag>
+<tag lemma="Tombův_;Y_^(*2a)_(*2o)" src="orig" selected="1">AUFP6M---------</tag>
 </m>
 <m id="m-ln95043-025-p1s1w5">
 <src.rf>manual</src.rf>
@@ -338,7 +338,7 @@
 <LM>w#w-ln95043-025-p2s2w2</LM>
 </w.rf>
 <form>prvního</form>
-<tag lemma="první" src="orig" selected="1">CrNS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS2----------</tag>
 </m>
 <m id="m-ln95043-025-p2s2w3">
 <src.rf>manual</src.rf>
@@ -759,7 +759,7 @@
 <LM>w#w-ln95043-025-p2s4w5</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-ln95043-025-p2s4w6">
 <src.rf>manual</src.rf>
@@ -815,7 +815,7 @@
 <LM>w#w-ln95043-025-p2s4w12</LM>
 </w.rf>
 <form>druhém</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-ln95043-025-p2s4w13">
 <src.rf>manual</src.rf>
@@ -895,7 +895,7 @@
 <LM>w#w-ln95043-025-p2s4w22</LM>
 </w.rf>
 <form>druhý</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS4----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS4----------</tag>
 </m>
 <m id="m-ln95043-025-p2s4w23">
 <src.rf>manual</src.rf>
@@ -1139,7 +1139,7 @@
 <LM>w#w-ln95043-025-p2s5Bw14</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-ln95043-025-p2s5Bw15">
 <src.rf>manual</src.rf>
@@ -1457,7 +1457,7 @@
 <LM>w#w-ln95043-025-p3s2w7</LM>
 </w.rf>
 <form>druhá</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS1----------</tag>
 </m>
 <m id="m-ln95043-025-p3s2w8">
 <src.rf>manual</src.rf>

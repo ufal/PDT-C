@@ -589,7 +589,7 @@
 <LM>w#w-ln95044-097-p2s4w2</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-ln95044-097-p2s4w3">
 <src.rf>manual</src.rf>
@@ -1311,7 +1311,7 @@
 <LM>w#w-ln95044-097-p4s2w20</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95044-097-p4s2w21">
 <src.rf>manual</src.rf>
@@ -1672,7 +1672,7 @@
 <LM>w#w-ln95044-097-p4s5w1</LM>
 </w.rf>
 <form>Zveřejněné</form>
-<tag lemma="zveřejněný_^(*3it)" src="orig" selected="1">AAIP1----1A----</tag>
+<tag lemma="zveřejněný_^(*2t)_(*3it)" src="orig" selected="1">AAIP1----1A----</tag>
 </m>
 <m id="m-ln95044-097-p4s5w2">
 <src.rf>manual</src.rf>
@@ -1968,7 +1968,7 @@
 <LM>w#w-ln95044-097-p4s7w3</LM>
 </w.rf>
 <form>stojí</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95044-097-p4s7w4">
 <src.rf>manual</src.rf>

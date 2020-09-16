@@ -341,7 +341,7 @@
 <LM>w#w-lnd92254-027-p1s1w40</LM>
 </w.rf>
 <form>Evropě</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd92254-027-p1s1w41">
 <src.rf>manual</src.rf>
@@ -579,7 +579,7 @@
 <LM>w#w-lnd92254-027-p1s2w28</LM>
 </w.rf>
 <form>datum</form>
-<tag lemma="datum_^(kalendářní)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="datum-1_^(kalendářní)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-lnd92254-027-p1s2w29">
 <src.rf>manual</src.rf>
@@ -744,7 +744,7 @@
 <LM>w#w-lnd92254-027-p1s3w19</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92254-027-p1s3w20">
 <src.rf>manual</src.rf>

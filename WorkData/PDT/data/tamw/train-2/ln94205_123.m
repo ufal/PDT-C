@@ -569,7 +569,7 @@
 <LM>w#w-ln94205-123-p2s3w4</LM>
 </w.rf>
 <form>ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94205-123-p2s3w5">
 <src.rf>manual</src.rf>
@@ -739,7 +739,7 @@
 <LM>w#w-ln94205-123-p2s4w6</LM>
 </w.rf>
 <form>předání</form>
-<tag lemma="předání-3_^(někomu_něco)_(*5at-3)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="předání_^(*3at)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln94205-123-p2s4w7">
 <src.rf>manual</src.rf>
@@ -955,7 +955,7 @@
 <LM>w#w-ln94205-123-p2s4w33</LM>
 </w.rf>
 <form>manažerem</form>
-<tag lemma="manažer" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="manažer-1" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94205-123-p2s4w34">
 <src.rf>manual</src.rf>
@@ -1419,7 +1419,7 @@
 <LM>w#w-ln94205-123-p2s8w3</LM>
 </w.rf>
 <form>manažer</form>
-<tag lemma="manažer" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="manažer-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-123-p2s8w4">
 <src.rf>manual</src.rf>

@@ -85,7 +85,7 @@
 <LM>w#w-mf930701-116-p1s2w1</LM>
 </w.rf>
 <form>Druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS4----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS4----------</tag>
 </m>
 <m id="m-mf930701-116-p1s2w2">
 <src.rf>manual</src.rf>

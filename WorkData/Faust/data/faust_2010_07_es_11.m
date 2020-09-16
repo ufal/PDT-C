@@ -577,7 +577,7 @@
 <AM lemma="dobrý">AANP1----3A----</AM>
 <AM lemma="dobrý">AANP4----3A----</AM>
 <AM lemma="dobrý">AANP5----3A----</AM>
-<AM lemma="dobrý" selected="1">AANS4----3A----</AM>
+<AM lemma="lepší" selected="1">AANS4----3A----</AM>
 <AM lemma="dobrý">AANS5----3A----</AM>
 </tag>
 </m>
@@ -836,7 +836,7 @@
 </w.rf>
 <form>moje</form>
 <tag>
-<AM lemma="můj_^(přivlast.)" recommended="1">PSHS1-S1-------</AM>
+<AM lemma="můj" recommended="1">PSHS1-S1-------</AM>
 <AM lemma="můj_^(přivlast.)">PSHP1-S1-------</AM>
 <AM lemma="můj_^(přivlast.)">PSHP5-S1-------</AM>
 <AM lemma="můj_^(přivlast.)">PSHS5-S1-------</AM>
@@ -912,7 +912,7 @@
 </w.rf>
 <form>Má</form>
 <tag>
-<AM lemma="můj_^(má_kniha;_přivlast.)" recommended="1">PSFS1-S1------1</AM>
+<AM lemma="můj" recommended="1">PSFS1-S1------1</AM>
 <AM lemma="mít">VB-S---3P-AAI--</AM>
 <AM lemma="můj_^(má_kniha;_přivlast.)">PSFS5-S1------1</AM>
 <AM lemma="můj_^(má_kniha;_přivlast.)">PSNP1-S1------1</AM>
@@ -1423,7 +1423,7 @@
 <AM lemma="dobrý">AANP1----2A----</AM>
 <AM lemma="dobrý">AANP4----2A----</AM>
 <AM lemma="dobrý">AANP5----2A----</AM>
-<AM lemma="dobrý" selected="1">AANS1----2A----</AM>
+<AM lemma="lepší" selected="1">AANS1----2A----</AM>
 <AM lemma="dobrý">AANS4----2A----</AM>
 <AM lemma="dobrý">AANS5----2A----</AM>
 <AM lemma="lepšit">VB-P---3P-AAI--</AM>
@@ -1688,7 +1688,7 @@
 <AM lemma="hodně-1_^(hodně_+_2._p.,_hodně_peněz)">Ca--4----------</AM>
 <AM lemma="hodně-1_^(hodně_+_2._p.,_hodně_peněz)">Ca--6----------</AM>
 <AM lemma="hodně-1_^(hodně_+_2._p.,_hodně_peněz)">Ca--7----------</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="hodně_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="es_11-SCzechM-p1106-s1-w4">
@@ -1808,7 +1808,7 @@
 </w.rf>
 <form>svou</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" recommended="1">P8FS4---------1</AM>
+<AM lemma="svůj-1" recommended="1">P8FS4---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)">P8FS7---------1</AM>
 </tag>
 </m>
@@ -2075,7 +2075,7 @@
 </w.rf>
 <form>tu</form>
 <tag>
-<AM lemma="tu" recommended="1">Db-------------</AM>
+<AM lemma="tu-1" recommended="1">Db-------------</AM>
 <AM lemma="ten">PDFS4----------</AM>
 </tag>
 </m>
@@ -2252,7 +2252,7 @@
 </w.rf>
 <form>mé</form>
 <tag>
-<AM lemma="můj_^(přivlast.)" recommended="1">PSYP4-S1------1</AM>
+<AM lemma="můj" recommended="1">PSYP4-S1------1</AM>
 <AM lemma="můj_^(přivlast.)">PSFP1-S1------1</AM>
 <AM lemma="můj_^(přivlast.)">PSFP4-S1------1</AM>
 <AM lemma="můj_^(přivlast.)">PSFS2-S1------1</AM>
@@ -2306,7 +2306,7 @@
 </w.rf>
 <form>vás</form>
 <tag>
-<AM lemma="ty" recommended="1">PP-P4--2-------</AM>
+<AM lemma="vy" recommended="1">PP-P4--2-------</AM>
 <AM lemma="ty">PP-P2--2-------</AM>
 <AM lemma="ty">PP-P6--2-------</AM>
 </tag>
@@ -3266,7 +3266,7 @@
 <form>vypadal</form>
 <tag>
 <AM lemma="vypadat_:T" recommended="1">VpYS---XR-AA---</AM>
-<AM lemma="vypadat" src="manual" selected="1">VpYS----R-AAI--</AM>
+<AM lemma="vypadat-1_^(ty_vypadáš)" src="manual" selected="1">VpYS----R-AAI--</AM>
 </tag>
 </m>
 <m id="es_11-SCzechM-p1145-s1-w13">
@@ -4063,7 +4063,7 @@
 <AM lemma="co-2_^(cože;_ale_co)">TT-------------</AM>
 <AM lemma="co-3_^(když:_poté/od_té_doby,_co)">J,-------------</AM>
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)">P4XXX----------</AM>
-<AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" selected="1">Db-------------</AM>
+<AM lemma="co-5_^(př._co_nejméně,_co_nevidět_atd.)" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="es_11-SCzechM-p1166-s1-w13">
@@ -4910,7 +4910,7 @@
 <LM>w#w-es_11-SCzechM-p1170-s1-w47</LM>
 </w.rf>
 <form>ne</form>
-<tag lemma="ne" recommended="1">TT-------------</tag>
+<tag lemma="ne-1" recommended="1">TT-------------</tag>
 </m>
 <m id="es_11-SCzechM-p1170-s1-w48">
 <w.rf>
@@ -5369,7 +5369,7 @@
 </w.rf>
 <form>našich</form>
 <tag>
-<AM lemma="můj_^(přivlast.)" recommended="1">PSXP2-P1-------</AM>
+<AM lemma="náš" recommended="1">PSXP2-P1-------</AM>
 <AM lemma="můj_^(přivlast.)">PSXP6-P1-------</AM>
 </tag>
 </m>

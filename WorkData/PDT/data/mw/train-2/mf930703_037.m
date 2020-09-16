@@ -724,7 +724,7 @@
 <LM>w#w-mf930703-037-p2s6w6</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-mf930703-037-p2s6w7">
 <src.rf>manual</src.rf>

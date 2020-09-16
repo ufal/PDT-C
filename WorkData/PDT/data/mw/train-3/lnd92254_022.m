@@ -702,7 +702,7 @@
 <LM>w#w-lnd92254-022-p3s5w16</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS7----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS7----------</tag>
 </m>
 <m id="m-lnd92254-022-p3s5w17">
 <src.rf>manual</src.rf>
@@ -752,7 +752,7 @@
 <LM>w#w-lnd92254-022-p3s6w3</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XP1FS3-------</tag>
 </m>
 <m id="m-lnd92254-022-p3s6w4">
 <src.rf>manual</src.rf>
@@ -944,7 +944,7 @@
 <LM>w#w-lnd92254-022-p3s6w27</LM>
 </w.rf>
 <form>neschopnosti</form>
-<tag lemma="neschopnost_;U_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="neschopnost_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92254-022-p3s6w28">
 <src.rf>manual</src.rf>

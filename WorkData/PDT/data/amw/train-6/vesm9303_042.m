@@ -129,7 +129,7 @@
 <LM>w#w-vesm9303-042-p4s1w1</LM>
 </w.rf>
 <form>Úmrtnost</form>
-<tag lemma="úmrtnost_,s_^(*3í)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="úmrtnost" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-vesm9303-042-p4s1w2">
 <src.rf>manual</src.rf>
@@ -841,7 +841,7 @@
 <LM>w#w-vesm9303-042-p24s1w5</LM>
 </w.rf>
 <form>kořenům</form>
-<tag lemma="kořen" src="orig" selected="1">NNIP3-----A----</tag>
+<tag lemma="kořen-1" src="orig" selected="1">NNIP3-----A----</tag>
 </m>
 <m id="m-vesm9303-042-p24s1w6">
 <src.rf>manual</src.rf>
@@ -950,7 +950,7 @@
 <form>DISKUSE</form>
 <tag>
 <AM lemma="diskuse" src="orig">NNFS1-----A----</AM>
-<AM lemma="diskuse_s,_^(^DD**diskuze)" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="diskuse_,s_^(^DD**diskuze)" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 </s>
@@ -1139,7 +1139,7 @@
 <LM>w#w-vesm9303-042-p31s1w1</LM>
 </w.rf>
 <form>ZAMYŠLENÍ</form>
-<tag lemma="zamyšlení_^(*5slet)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="zamyšlení_^(*5slit)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-vesm9303-042-p31s1w2">
 <src.rf>manual</src.rf>
@@ -1165,7 +1165,7 @@
 <LM>w#w-vesm9303-042-p32s1w1</LM>
 </w.rf>
 <form>ESEJE</form>
-<tag lemma="esej" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="esej-2" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 </s>
 <s id="m-vesm9303-042-p33s1">
@@ -1243,7 +1243,7 @@
 <LM>w#w-vesm9303-042-p35s1w2</LM>
 </w.rf>
 <form>naší</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS2-P1-------</tag>
 </m>
 <m id="m-vesm9303-042-p35s1w3">
 <src.rf>manual</src.rf>
@@ -1471,7 +1471,7 @@
 <LM>w#w-vesm9303-042-p39s1Bw7</LM>
 </w.rf>
 <form>Pakistánu</form>
-<tag lemma="Pakistán_;G" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Pakistán_;G_,s_^(^DD**Pákistán)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-vesm9303-042-p39s1Bw8">
 <src.rf>manual</src.rf>
@@ -1735,7 +1735,7 @@
 <LM>w#w-vesm9303-042-p39s1Gw2</LM>
 </w.rf>
 <form>skanovacího</form>
-<tag lemma="scanovací_^(*2t)" src="orig" selected="1">AAIS2----1A----</tag>
+<tag lemma="skanovací_^(^DD**scanovací)_(*2t)" src="orig" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-vesm9303-042-p39s1Gw3">
 <src.rf>manual</src.rf>
@@ -1798,7 +1798,7 @@
 <tag>
 <AM lemma="konsensus_,t" src="auto">NNIS1-----A----</AM>
 <AM lemma="konsensus__s,_^(^DD**konsenzus)" src="manual">NNIS1-----A----</AM>
-<AM lemma="konsensus_s,_^(^DD**konsenzus)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="konsensus_,s_^(^DD**konsenzus)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-042-p41s1w2">

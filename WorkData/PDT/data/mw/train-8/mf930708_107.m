@@ -574,7 +574,7 @@
 <LM>w#w-mf930708-107-p2s4w19</LM>
 </w.rf>
 <form>kádr</form>
-<tag lemma="kádr" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="kádr-1" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-mf930708-107-p2s4w20">
 <src.rf>manual</src.rf>
@@ -893,7 +893,7 @@
 <LM>w#w-mf930708-107-p2s6w35</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf930708-107-p2s6w36">
 <src.rf>manual</src.rf>

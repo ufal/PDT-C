@@ -498,7 +498,7 @@
 <form>Warrenem</form>
 <tag>
 <AM lemma="Warren_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="Warren_;Y" src="manual" selected="1">NNMS7-----A----</AM>
+<AM lemma="Warren-1_;Y" src="manual" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-009-p1s4w18">
@@ -987,7 +987,7 @@
 <LM>w#w-lnd94104-009-p1s7w1</LM>
 </w.rf>
 <form>Neschopnost</form>
-<tag lemma="neschopnost_;U_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="neschopnost_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94104-009-p1s7w2">
 <src.rf>manual</src.rf>
@@ -1242,7 +1242,7 @@
 <LM>w#w-lnd94104-009-p1s8w12</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8YP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8YP4---------1</tag>
 </m>
 <m id="m-lnd94104-009-p1s8w13">
 <src.rf>manual</src.rf>
@@ -1480,7 +1480,7 @@
 <LM>w#w-lnd94104-009-p1s9w17</LM>
 </w.rf>
 <form>odpovědnost</form>
-<tag lemma="odpovědnost_^(kdo_za_něco_odpovídá)_(*3ý)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="odpovědnost_^(*3ý)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-lnd94104-009-p1s9w18">
 <src.rf>manual</src.rf>
@@ -1630,7 +1630,7 @@
 <LM>w#w-lnd94104-009-p1s11w2</LM>
 </w.rf>
 <form>činitel</form>
-<tag lemma="činitel" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="činitel-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-009-p1s11w3">
 <src.rf>manual</src.rf>
@@ -2103,7 +2103,7 @@
 <LM>w#w-lnd94104-009-p1s14w4</LM>
 </w.rf>
 <form>vydání</form>
-<tag lemma="vydání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="vydání_^(*3at)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-lnd94104-009-p1s14w5">
 <src.rf>manual</src.rf>

@@ -43,7 +43,7 @@
 <LM>w#w-mf930701-003-p1s1w4</LM>
 </w.rf>
 <form>přijetí</form>
-<tag lemma="přijetí_^(*3mout)" src="auto" selected="1">NNNS4-----A----</tag>
+<tag lemma="přijetí_^(*1)_(*3mout)" src="auto" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-mf930701-003-p1s1w5">
 <src.rf>manual</src.rf>
@@ -129,7 +129,7 @@
 <LM>w#w-mf930701-003-p2s1w6</LM>
 </w.rf>
 <form>Přijetí</form>
-<tag lemma="přijetí_^(*3mout)" src="auto" selected="1">NNNS4-----A----</tag>
+<tag lemma="přijetí_^(*1)_(*3mout)" src="auto" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-mf930701-003-p2s1w7">
 <src.rf>manual</src.rf>
@@ -1122,7 +1122,7 @@
 <LM>w#w-mf930701-003-p2s7w15</LM>
 </w.rf>
 <form>postižené</form>
-<tag lemma="postižený_^(*4hnout)" src="orig" selected="1">AAMP4----1A----</tag>
+<tag lemma="postižený" src="orig" selected="1">AAMP4----1A----</tag>
 </m>
 <m id="m-mf930701-003-p2s7w16">
 <src.rf>manual</src.rf>
@@ -1449,7 +1449,7 @@
 <LM>w#w-mf930701-003-p2s9w17</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-mf930701-003-p2s9w18">
 <src.rf>manual</src.rf>
@@ -1465,7 +1465,7 @@
 <LM>w#w-mf930701-003-p2s9w19</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-mf930701-003-p2s9w20">
 <src.rf>manual</src.rf>
@@ -1582,7 +1582,7 @@
 <LM>w#w-mf930701-003-p2s10w11</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf930701-003-p2s10w12">
 <src.rf>manual</src.rf>
@@ -1800,7 +1800,7 @@
 <LM>w#w-mf930701-003-p2s12w10</LM>
 </w.rf>
 <form>nezpochybnitelná</form>
-<tag lemma="zpochybnitelný_,s_^(*4)" src="auto" selected="1">AANP4----1N----</tag>
+<tag lemma="zpochybnitelný_^(*4)_(*6ět)" src="auto" selected="1">AANP4----1N----</tag>
 </m>
 <m id="m-mf930701-003-p2s12w11">
 <src.rf>manual</src.rf>
@@ -2037,7 +2037,7 @@
 <LM>w#w-mf930701-003-p2s14w1</LM>
 </w.rf>
 <form>Přijetí</form>
-<tag lemma="přijetí_^(*3mout)" src="auto" selected="1">NNNS1-----A----</tag>
+<tag lemma="přijetí_^(*1)_(*3mout)" src="auto" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf930701-003-p2s14w2">
 <src.rf>manual</src.rf>

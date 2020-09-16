@@ -60,7 +60,7 @@
 <LM>w#w-ln95041-090-p1s1w6</LM>
 </w.rf>
 <form>Karlovu</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUFS4M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUFS4M---------</tag>
 </m>
 <m id="m-ln95041-090-p1s1w7">
 <src.rf>manual</src.rf>
@@ -128,7 +128,7 @@
 <LM>w#w-ln95041-090-p2s1Bw4</LM>
 </w.rf>
 <form>míří</form>
-<tag lemma="mířit_^(např._pistolí;_směřovat;_tvar_slovesa)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="mířit" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95041-090-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -160,7 +160,7 @@
 <LM>w#w-ln95041-090-p2s1Bw8</LM>
 </w.rf>
 <form>Karlovy</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-ln95041-090-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -641,7 +641,7 @@
 <LM>w#w-ln95041-090-p3s1w7</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS4----------</tag>
 </m>
 <m id="m-ln95041-090-p3s1w8">
 <src.rf>manual</src.rf>
@@ -748,7 +748,7 @@
 <LM>w#w-ln95041-090-p3s1w20</LM>
 </w.rf>
 <form>Evropě</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln95041-090-p3s1w21">
 <src.rf>manual</src.rf>
@@ -1392,7 +1392,7 @@
 <LM>w#w-ln95041-090-p4s1w33</LM>
 </w.rf>
 <form>Karlovy</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-ln95041-090-p4s1w34">
 <src.rf>manual</src.rf>

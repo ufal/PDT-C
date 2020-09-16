@@ -113,7 +113,7 @@
 <LM>w#w-ln94206-65-p2s1Cw6</LM>
 </w.rf>
 <form>druhý</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS4----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS4----------</tag>
 </m>
 <m id="m-ln94206-65-p2s1Cw7">
 <src.rf>manual</src.rf>
@@ -1324,7 +1324,7 @@
 <LM>w#w-ln94206-65-p3s4w17</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-ln94206-65-p3s4w18">
 <src.rf>manual</src.rf>
@@ -1994,7 +1994,7 @@
 <LM>w#w-ln94206-65-p4s2w17</LM>
 </w.rf>
 <form>kurzové</form>
-<tag lemma="kursový" src="orig" selected="1">AAIP4----1A----</tag>
+<tag lemma="kurzový" src="orig" selected="1">AAIP4----1A----</tag>
 </m>
 <m id="m-ln94206-65-p4s2w18">
 <src.rf>manual</src.rf>
@@ -2608,7 +2608,7 @@
 <LM>w#w-ln94206-65-p5s4w11</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-ln94206-65-p5s4w12">
 <src.rf>manual</src.rf>
@@ -2807,7 +2807,7 @@
 <LM>w#w-ln94206-65-p5s6w13</LM>
 </w.rf>
 <form>kurzu</form>
-<tag lemma="kurs" src="auto" selected="1">NNIS6-----A---1</tag>
+<tag lemma="kurz" src="auto" selected="1">NNIS6-----A---1</tag>
 </m>
 <m id="m-ln94206-65-p5s6w14">
 <src.rf>manual</src.rf>
@@ -3177,7 +3177,7 @@
 <LM>w#w-ln94206-65-p6s3w9</LM>
 </w.rf>
 <form>kurzových</form>
-<tag lemma="kursový" src="orig" selected="1">AAIP2----1A----</tag>
+<tag lemma="kurzový" src="orig" selected="1">AAIP2----1A----</tag>
 </m>
 <m id="m-ln94206-65-p6s3w10">
 <src.rf>manual</src.rf>
@@ -3419,7 +3419,7 @@
 <LM>w#w-ln94206-65-p6s4w19</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94206-65-p6s4w20">
 <src.rf>manual</src.rf>

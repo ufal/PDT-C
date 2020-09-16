@@ -240,7 +240,7 @@
 <LM>w#w-cmpr9417-008-p3s2w1</LM>
 </w.rf>
 <form>Druhou</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS7----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS7----------</tag>
 </m>
 <m id="m-cmpr9417-008-p3s2w2">
 <src.rf>manual</src.rf>

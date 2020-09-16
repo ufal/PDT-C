@@ -816,7 +816,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1828-001-p1s1W28-Ta">
@@ -2261,7 +2261,7 @@
 <AM lemma="první" src="auto">CrFS3----------</AM>
 <AM lemma="první" src="auto">CrFS4----------</AM>
 <AM lemma="první" src="auto">CrFS5----------</AM>
-<AM lemma="první" src="auto" recommended="1">CrFS6----------</AM>
+<AM lemma="první-1" src="auto" recommended="1">CrFS6----------</AM>
 <AM lemma="první" src="auto">CrFS7----------</AM>
 <AM lemma="první" src="auto">CrIP1----------</AM>
 <AM lemma="první" src="auto">CrIP4----------</AM>
@@ -2757,7 +2757,7 @@
 <AM lemma="dobrý" src="auto">AAFS5----2A----</AM>
 <AM lemma="dobrý" src="auto">AAFS6----2A----</AM>
 <AM lemma="dobrý" src="auto">AAFS7----2A----</AM>
-<AM lemma="dobrý" src="auto" selected="1">AAIP1----2A----</AM>
+<AM lemma="lepší" src="auto" selected="1">AAIP1----2A----</AM>
 <AM lemma="dobrý" src="auto">AAIP4----2A----</AM>
 <AM lemma="dobrý" src="auto">AAIP5----2A----</AM>
 <AM lemma="dobrý" src="auto">AAIS1----2A----</AM>
@@ -3125,7 +3125,7 @@
 <AM lemma="Redmond_;G" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="Redmond_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="Redmond_;G" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Redmond-1_;G" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Redmond_;G" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1828-001-p1s8W36-Ta">

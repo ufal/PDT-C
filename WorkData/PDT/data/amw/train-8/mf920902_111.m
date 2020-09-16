@@ -244,7 +244,7 @@
 <LM>w#w-mf920902-111-p2s3w2</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrIS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS1----------</tag>
 </m>
 <m id="m-mf920902-111-p2s3w3">
 <src.rf>manual</src.rf>
@@ -1070,7 +1070,7 @@
 <LM>w#w-mf920902-111-p2s9w2</LM>
 </w.rf>
 <form>prvního</form>
-<tag lemma="první" src="orig" selected="1">CrIS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS2----------</tag>
 </m>
 <m id="m-mf920902-111-p2s9w3">
 <src.rf>manual</src.rf>

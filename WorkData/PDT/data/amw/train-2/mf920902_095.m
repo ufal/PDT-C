@@ -258,7 +258,7 @@
 <LM>w#w-mf920902-095-p2s1Bw22</LM>
 </w.rf>
 <form>letounů</form>
-<tag lemma="letoun" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="letoun-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf920902-095-p2s1Bw23">
 <src.rf>manual</src.rf>
@@ -436,7 +436,7 @@
 <LM>w#w-mf920902-095-p2s2w3</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS1FS3-------</tag>
 </m>
 <m id="m-mf920902-095-p2s2w4">
 <src.rf>manual</src.rf>
@@ -492,7 +492,7 @@
 <LM>w#w-mf920902-095-p2s2w10</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf920902-095-p2s2w11">
 <src.rf>manual</src.rf>
@@ -854,7 +854,7 @@
 <LM>w#w-mf920902-095-p2s4w17</LM>
 </w.rf>
 <form>výzbroje</form>
-<tag lemma="výzbroj" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="výzbroj-1" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920902-095-p2s4w18">
 <src.rf>manual</src.rf>
@@ -1438,7 +1438,7 @@
 <LM>w#w-mf920902-095-p3s4w15</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-mf920902-095-p3s4w16">
 <src.rf>manual</src.rf>

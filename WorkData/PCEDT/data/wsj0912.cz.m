@@ -309,7 +309,7 @@
 <tag>
 <AM lemma="Rochester_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Rochester_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Rochester_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Rochester-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0912-001-p1s2W3-Ta">
@@ -354,7 +354,7 @@
 <form>svých</form>
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8XP2----------</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8XP6----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8XP6----------</AM>
 </tag>
 </m>
 <m id="m-wsj0912-001-p1s2W7-Ta">

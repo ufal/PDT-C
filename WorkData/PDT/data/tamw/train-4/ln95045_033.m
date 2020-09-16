@@ -91,7 +91,7 @@
 <LM>w#w-ln95045-033-p1s1w10</LM>
 </w.rf>
 <form>členové</form>
-<tag lemma="člen" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln95045-033-p1s1w11">
 <src.rf>manual</src.rf>
@@ -99,7 +99,7 @@
 <LM>w#w-ln95045-033-p1s1w11</LM>
 </w.rf>
 <form>rady</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95045-033-p1s1w12">
 <src.rf>manual</src.rf>

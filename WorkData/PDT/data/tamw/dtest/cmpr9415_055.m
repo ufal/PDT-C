@@ -101,7 +101,7 @@
 <LM>w#w-cmpr9415-055-p3s1w7</LM>
 </w.rf>
 <form>NADŠENÁ</form>
-<tag lemma="nadšený_^(*4chnout)" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="nadšený" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-cmpr9415-055-p3s1w8">
 <src.rf>manual</src.rf>
@@ -189,7 +189,7 @@
 <LM>w#w-cmpr9415-055-p3s1w18</LM>
 </w.rf>
 <form>můj</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSYS5-S1-------</tag>
+<tag lemma="můj" src="orig" selected="1">PSYS5-S1-------</tag>
 </m>
 <m id="m-cmpr9415-055-p3s1w19">
 <src.rf>manual</src.rf>

@@ -230,7 +230,7 @@
 <LM>w#w-mf930703-139-p2s1w18</LM>
 </w.rf>
 <form>Rady</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930703-139-p2s1w19">
 <src.rf>manual</src.rf>
@@ -1211,7 +1211,7 @@
 <LM>w#w-mf930703-139-p4s2w11</LM>
 </w.rf>
 <form>odtržení</form>
-<tag lemma="odtržení_^(*4hnout)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="odtržení" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-mf930703-139-p4s2w12">
 <src.rf>manual</src.rf>

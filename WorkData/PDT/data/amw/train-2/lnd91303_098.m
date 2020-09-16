@@ -19,7 +19,7 @@
 <LM>w#w-lnd91303-098-p1s1w1</LM>
 </w.rf>
 <form>Nemoc</form>
-<tag lemma="nemoc_^(choroba)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="nemoc" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd91303-098-p1s1w2">
 <src.rf>manual</src.rf>
@@ -343,7 +343,7 @@
 <LM>w#w-lnd91303-098-p2s2w14</LM>
 </w.rf>
 <form>člena</form>
-<tag lemma="člen" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd91303-098-p2s2w15">
 <src.rf>manual</src.rf>
@@ -351,7 +351,7 @@
 <LM>w#w-lnd91303-098-p2s2w15</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS2---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS2---------1</tag>
 </m>
 <m id="m-lnd91303-098-p2s2w16">
 <src.rf>manual</src.rf>
@@ -582,7 +582,7 @@
 <LM>w#w-lnd91303-098-p2s4w9</LM>
 </w.rf>
 <form>člena</form>
-<tag lemma="člen" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd91303-098-p2s4w10">
 <src.rf>manual</src.rf>
@@ -860,7 +860,7 @@
 <LM>w#w-lnd91303-098-p2s5w22</LM>
 </w.rf>
 <form>nemocí</form>
-<tag lemma="nemoc_^(choroba)" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="nemoc" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-lnd91303-098-p2s5w23">
 <src.rf>manual</src.rf>

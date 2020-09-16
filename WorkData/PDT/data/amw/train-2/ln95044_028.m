@@ -422,7 +422,7 @@
 <form>lavičky</form>
 <tag>
 <AM lemma="lavička-2" src="auto">NNFS2-----A----</AM>
-<AM lemma="lavička" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="lavička-2" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-028-p2s3w15">

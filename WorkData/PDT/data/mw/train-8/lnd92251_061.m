@@ -35,7 +35,7 @@
 <LM>w#w-lnd92251-061-p1s1w3</LM>
 </w.rf>
 <form>EVROPĚ</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92251-061-p2s1">
@@ -1098,7 +1098,7 @@
 <LM>w#w-lnd92251-061-p3s6w18</LM>
 </w.rf>
 <form>tragédie</form>
-<tag lemma="tragedie" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="tragédie" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92251-061-p3s6w19">
 <src.rf>manual</src.rf>
@@ -1570,7 +1570,7 @@
 <LM>w#w-lnd92251-061-p4s1w18</LM>
 </w.rf>
 <form>Kurdy</form>
-<tag lemma="Kurd" src="orig" selected="1">NNMP7-----A----</tag>
+<tag lemma="Kurd_;E" src="orig" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-lnd92251-061-p4s1w19">
 <src.rf>manual</src.rf>
@@ -1676,7 +1676,7 @@
 <LM>w#w-lnd92251-061-p4s2w12</LM>
 </w.rf>
 <form>Strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92251-061-p4s2w13">
 <src.rf>manual</src.rf>

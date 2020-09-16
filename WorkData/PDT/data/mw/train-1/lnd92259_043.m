@@ -83,7 +83,7 @@
 <LM>w#w-lnd92259-043-p1s1w9</LM>
 </w.rf>
 <form>spořitelně</form>
-<tag lemma="spořitelna_^(místo;_př._Česká_spořitelna)" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="spořitelna" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-lnd92259-043-p1s1w10">
 <src.rf>manual</src.rf>
@@ -99,7 +99,7 @@
 <LM>w#w-lnd92259-043-p1s1w11</LM>
 </w.rf>
 <form>zástavy</form>
-<tag lemma="zástava-2_^(věci_jako_záruka)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="zástava_^(prapor_záruka_dechu_zástavba)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92259-043-p1s1w12">
 <src.rf>manual</src.rf>

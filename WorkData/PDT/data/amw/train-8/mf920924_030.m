@@ -64,7 +64,7 @@
 <LM>w#w-mf920924-030-p2s1w3</LM>
 </w.rf>
 <form>členem</form>
-<tag lemma="člen" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920924-030-p2s1w4">
 <src.rf>manual</src.rf>

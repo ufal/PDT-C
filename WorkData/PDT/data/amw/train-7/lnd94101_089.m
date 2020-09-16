@@ -161,7 +161,7 @@
 <LM>w#w-lnd94101-089-p1s1Dw3</LM>
 </w.rf>
 <form>hodiny</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94101-089-p1s1Dw4">
 <src.rf>manual</src.rf>
@@ -217,7 +217,7 @@
 <LM>w#w-lnd94101-089-p1s1Dw10</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP2-P1-------</tag>
 </m>
 <m id="m-lnd94101-089-p1s1Dw11">
 <src.rf>manual</src.rf>
@@ -844,7 +844,7 @@
 <LM>w#w-lnd94101-089-p1s4Aw2</LM>
 </w.rf>
 <form>dlouhé</form>
-<tag lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">AAFS6----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFS6----1A----</tag>
 </m>
 <m id="m-lnd94101-089-p1s4Aw3">
 <src.rf>manual</src.rf>
@@ -852,7 +852,7 @@
 <LM>w#w-lnd94101-089-p1s4Aw3</LM>
 </w.rf>
 <form>cestě</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd94101-089-p1s4Aw4">
 <src.rf>manual</src.rf>
@@ -1744,7 +1744,7 @@
 <LM>w#w-lnd94101-089-p1s7Aw23</LM>
 </w.rf>
 <form>computeru</form>
-<tag lemma="computer" src="auto" selected="1">NNIS6-----A----</tag>
+<tag lemma="computer_,s_^(^DD**komputer)" src="auto" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-lnd94101-089-p1s7Aw24">
 <src.rf>manual</src.rf>
@@ -2020,7 +2020,7 @@
 <LM>w#w-lnd94101-089-p1s9Aw5</LM>
 </w.rf>
 <form>computeru</form>
-<tag lemma="computer" src="auto" selected="1">NNIS2-----A----</tag>
+<tag lemma="computer_,s_^(^DD**komputer)" src="auto" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd94101-089-p1s9Aw6">
 <src.rf>manual</src.rf>
@@ -2441,7 +2441,7 @@
 <LM>w#w-lnd94101-089-p1s12Bw3</LM>
 </w.rf>
 <form>vás</form>
-<tag lemma="ty" src="orig" selected="1">PP-P4--2-------</tag>
+<tag lemma="vy" src="orig" selected="1">PP-P4--2-------</tag>
 </m>
 <m id="m-lnd94101-089-p1s12Bw4">
 <src.rf>manual</src.rf>

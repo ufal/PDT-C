@@ -197,7 +197,7 @@
 <LM>w#w-lnd94103-083-p1s3w16</LM>
 </w.rf>
 <form>zdaněním</form>
-<tag lemma="zdanění_^(vypočítat_daň)_(*3it)" src="auto" selected="1">NNNS7-----A----</tag>
+<tag lemma="zdanění_^(*3it)" src="auto" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-lnd94103-083-p1s3w17">
 <src.rf>manual</src.rf>
@@ -530,7 +530,7 @@
 <LM>w#w-lnd94103-083-p1s5w13</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-lnd94103-083-p1s5w14">
 <src.rf>manual</src.rf>
@@ -888,7 +888,7 @@
 <LM>w#w-lnd94103-083-p1s8w7</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrIP4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIP4----------</tag>
 </m>
 <m id="m-lnd94103-083-p1s8w8">
 <src.rf>manual</src.rf>

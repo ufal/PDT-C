@@ -368,7 +368,7 @@
 <LM>w#w-ln95046-120-p3s1w4</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FXXFS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1FXXFS3-------</tag>
 </m>
 <m id="m-ln95046-120-p3s1w5">
 <src.rf>manual</src.rf>
@@ -538,7 +538,7 @@
 <LM>w#w-ln95046-120-p3s2w9</LM>
 </w.rf>
 <form>léta</form>
-<tag lemma="rok" src="orig" selected="1">NNNP4-----A---2</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP4-----A---2</tag>
 </m>
 <m id="m-ln95046-120-p3s2w10">
 <src.rf>manual</src.rf>
@@ -596,7 +596,7 @@
 <LM>w#w-ln95046-120-p4s1w3</LM>
 </w.rf>
 <form>čtyřdveřovou</form>
-<tag lemma="čtyřdveřový" src="orig" selected="1">AAFS4----1A----</tag>
+<tag lemma="čtyřdveřový_,s_^(^DD**čtyřdvéřový)" src="orig" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-ln95046-120-p4s1w4">
 <src.rf>manual</src.rf>
@@ -1135,7 +1135,7 @@
 <form>super</form>
 <tag>
 <AM lemma="super_,h_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Super-1_;m_^(druh_benzínu)" src="manual" selected="1">AAXXX----1A----</AM>
+<AM lemma="super-1" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-120-p4s4w19">

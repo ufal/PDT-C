@@ -487,7 +487,7 @@
 <LM>w#w-mf920901-016-p4s2w1</LM>
 </w.rf>
 <form>My</form>
-<tag lemma="já" src="orig" selected="1">PP-P1--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P1--1-------</tag>
 </m>
 <m id="m-mf920901-016-p4s2w2">
 <src.rf>manual</src.rf>
@@ -511,7 +511,7 @@
 <LM>w#w-mf920901-016-p4s2w4</LM>
 </w.rf>
 <form>prvních</form>
-<tag lemma="první" src="orig" selected="1">CrIP2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIP2----------</tag>
 </m>
 <m id="m-mf920901-016-p4s2w5">
 <src.rf>manual</src.rf>

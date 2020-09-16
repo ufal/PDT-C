@@ -152,7 +152,7 @@
 <LM>w#w-ln94201-126-p2s1w12</LM>
 </w.rf>
 <form>dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94201-126-p2s1w13">
 <src.rf>manual</src.rf>
@@ -258,7 +258,7 @@
 <LM>w#w-ln94201-126-p3s1w1</LM>
 </w.rf>
 <form>Panochovo</form>
-<tag lemma="Panochův_;Y_^(*2a)" src="orig" selected="1">AUNS1M---------</tag>
+<tag lemma="Panochův_;Y_^(*2)_(*2a)" src="orig" selected="1">AUNS1M---------</tag>
 </m>
 <m id="m-ln94201-126-p3s1w2">
 <src.rf>manual</src.rf>
@@ -309,7 +309,7 @@
 <LM>w#w-ln94201-126-p3s1w7</LM>
 </w.rf>
 <form>Budín</form>
-<tag lemma="Budín_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Budín-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-126-p3s1w8">
 <src.rf>manual</src.rf>

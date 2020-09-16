@@ -19,7 +19,7 @@
 <LM>w#w-lnd92251-034-p1s1w1</LM>
 </w.rf>
 <form>NALEZENÉ</form>
-<tag lemma="nalezený-2_^(*7ézt-2)" src="auto" selected="1">AAFP1----1A----</tag>
+<tag lemma="nalezený" src="auto" selected="1">AAFP1----1A----</tag>
 </m>
 <m id="m-lnd92251-034-p1s1w2">
 <src.rf>manual</src.rf>
@@ -799,7 +799,7 @@
 <LM>w#w-lnd92251-034-p3s6w15</LM>
 </w.rf>
 <form>cesty</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92251-034-p3s6w16">
 <src.rf>manual</src.rf>

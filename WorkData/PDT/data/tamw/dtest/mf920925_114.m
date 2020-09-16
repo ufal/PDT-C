@@ -35,7 +35,7 @@
 <LM>w#w-mf920925-114-p1s1Aw3</LM>
 </w.rf>
 <form>tajné</form>
-<tag lemma="tajný" src="orig" selected="1">AAFS2----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-mf920925-114-p1s1Aw4">
 <src.rf>manual</src.rf>
@@ -128,7 +128,7 @@
 <LM>w#w-mf920925-114-p1s1Bw5</LM>
 </w.rf>
 <form>LET</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-mf920925-114-p1s1Bw6">
 <src.rf>manual</src.rf>
@@ -136,7 +136,7 @@
 <LM>w#w-mf920925-114-p1s1Bw6</LM>
 </w.rf>
 <form>VĚZENÍ</form>
-<tag lemma="vězení_,a_^(místo_výkonu_trestu)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="vězení_^(místo_výkonu_trestu)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 </s>
 <s id="m-mf920925-114-p2s1">
@@ -188,7 +188,7 @@
 <LM>w#w-mf920925-114-p2s2w4</LM>
 </w.rf>
 <form>tajné</form>
-<tag lemma="tajný" src="orig" selected="1">AAFS2----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-mf920925-114-p2s2w5">
 <src.rf>manual</src.rf>
@@ -804,7 +804,7 @@
 <LM>w#w-mf920925-114-p5s1w3</LM>
 </w.rf>
 <form>tajné</form>
-<tag lemma="tajný" src="orig" selected="1">AAFS2----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-mf920925-114-p5s1w4">
 <src.rf>manual</src.rf>
@@ -844,7 +844,7 @@
 <LM>w#w-mf920925-114-p5s1w8</LM>
 </w.rf>
 <form>nejlepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAFS4----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAFS4----3A----</tag>
 </m>
 <m id="m-mf920925-114-p5s1w9">
 <src.rf>manual</src.rf>
@@ -1269,7 +1269,7 @@
 <LM>w#w-mf920925-114-p7s1w15</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-mf920925-114-p7s1w16">
 <src.rf>manual</src.rf>
@@ -1287,7 +1287,7 @@
 <LM>w#w-mf920925-114-p7s2w1</LM>
 </w.rf>
 <form>Datum</form>
-<tag lemma="datum_^(kalendářní)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="datum-1_^(kalendářní)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf920925-114-p7s2w2">
 <src.rf>manual</src.rf>

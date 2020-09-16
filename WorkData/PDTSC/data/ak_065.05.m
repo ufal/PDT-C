@@ -2136,7 +2136,7 @@
 </w.rf>
 <form>Ne</form>
 <tag>
-<AM lemma="ne" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ne-1" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="neděle_:B" src="auto">NNFXX-----A---8</AM>
 </tag>
 </m>
@@ -2315,7 +2315,7 @@
 <form>Třeba</form>
 <tag>
 <AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="třeba-3" src="auto" selected="1">TT-------------</AM>
+<AM lemma="třeba-2_^(například)" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m065-481-484">
@@ -2395,7 +2395,7 @@
 </w.rf>
 <form>ne</form>
 <tag>
-<AM lemma="ne" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ne-1" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="neděle_:B" src="auto">NNFXX-----A---8</AM>
 </tag>
 </m>
@@ -2792,7 +2792,7 @@
 <AM lemma="předávání-3_^(někomu_něco)_(*5at-3)" src="auto">NNNS1-----A----</AM>
 <AM lemma="předávání-3_^(někomu_něco)_(*5at-3)" src="auto">NNNS2-----A----</AM>
 <AM lemma="předávání-3_^(někomu_něco)_(*5at-3)" src="auto">NNNS3-----A----</AM>
-<AM lemma="předávání-3_^(někomu_něco)_(*5at-3)" src="auto" recommended="1">NNNS4-----A----</AM>
+<AM lemma="předávání_^(*3at)" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="předávání-3_^(někomu_něco)_(*5at-3)" src="auto">NNNS5-----A----</AM>
 <AM lemma="předávání-3_^(někomu_něco)_(*5at-3)" src="auto">NNNS6-----A----</AM>
 </tag>
@@ -4853,7 +4853,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="třeba-3" src="auto" selected="1">TT-------------</AM>
+<AM lemma="třeba-2_^(například)" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m065-d1t1658-13">
@@ -5052,7 +5052,7 @@
 <LM>w#w-d1t1666-6</LM>
 </w.rf>
 <form>dal</form>
-<tag lemma="dát" src="auto" recommended="1">VpYS----R-AAP--</tag>
+<tag lemma="dát-1" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m065-d1t1666-7">
 <w.rf>
@@ -5109,7 +5109,7 @@
 </w.rf>
 <form>ne</form>
 <tag>
-<AM lemma="ne" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ne-1" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="neděle_:B" src="auto">NNFXX-----A---8</AM>
 </tag>
 </m>
@@ -5598,7 +5598,7 @@
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8IP1----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8IP5----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS4----------</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8XP4----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8XP4----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOFP----------1</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOFS----------1</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOIP----------1</AM>

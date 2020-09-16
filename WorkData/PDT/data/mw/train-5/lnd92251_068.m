@@ -47,7 +47,7 @@
 <form>NATO</form>
 <tag>
 <AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="NATO_;m_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="NATO-1_;m_^(Northtlantic_Treaty_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-068-p2s1w3">
@@ -180,7 +180,7 @@
 <LM>w#w-lnd92251-068-p3s2w13</LM>
 </w.rf>
 <form>tajné</form>
-<tag lemma="tajný" src="orig" selected="1">AAIP4----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AAIP4----1A----</tag>
 </m>
 <m id="m-lnd92251-068-p3s2w14">
 <src.rf>manual</src.rf>
@@ -206,7 +206,7 @@
 <form>NATO</form>
 <tag>
 <AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="NATO_;m_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="NATO-1_;m_^(Northtlantic_Treaty_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-068-p3s2w17">
@@ -466,7 +466,7 @@
 <LM>w#w-lnd92251-068-p3s3w24</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-lnd92251-068-p3s3w25">
 <src.rf>manual</src.rf>
@@ -852,7 +852,7 @@
 <form>NATO</form>
 <tag>
 <AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="NATO_;m_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="NATO-1_;m_^(Northtlantic_Treaty_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-068-p3s5w25">
@@ -927,7 +927,7 @@
 <LM>w#w-lnd92251-068-p3s6w8</LM>
 </w.rf>
 <form>tajným</form>
-<tag lemma="tajný" src="orig" selected="1">AAFP3----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AAFP3----1A----</tag>
 </m>
 <m id="m-lnd92251-068-p3s6w9">
 <src.rf>manual</src.rf>
@@ -1065,7 +1065,7 @@
 <LM>w#w-lnd92251-068-p3s7w15</LM>
 </w.rf>
 <form>členů</form>
-<tag lemma="člen" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd92251-068-p3s7w16">
 <src.rf>manual</src.rf>

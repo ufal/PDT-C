@@ -232,7 +232,7 @@
 <LM>w#w-mf920923-020-p2s1w23</LM>
 </w.rf>
 <form>Marie</form>
-<tag lemma="Marie-1_;Y" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Marie_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920923-020-p2s1w24">
 <src.rf>manual</src.rf>
@@ -394,7 +394,7 @@
 </w.rf>
 <form>Magni</form>
 <tag>
-<AM lemma="Magni-2_;Y" src="orig" selected="1">NNMXX-----A----</AM>
+<AM lemma="Magni_;Y" src="orig" selected="1">NNMXX-----A----</AM>
 <AM lemma="Magni_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Magni_;Y" src="auto">NNMS5-----A----</AM>
 </tag>

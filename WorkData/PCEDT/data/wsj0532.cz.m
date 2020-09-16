@@ -194,7 +194,7 @@
 <AM lemma="losangeleský" src="auto" recommended="1">AAFP1----1A----</AM>
 <AM lemma="losangeleský" src="auto">AAFP4----1A----</AM>
 <AM lemma="losangeleský" src="auto">AAFP5----1A----</AM>
-<AM lemma="losangeleský" src="auto" selected="1">AAFS2----1A----</AM>
+<AM lemma="losangelský_,s_^(^DD**losangeleský)" src="auto" selected="1">AAFS2----1A----</AM>
 <AM lemma="losangeleský" src="auto">AAFS3----1A----</AM>
 <AM lemma="losangeleský" src="auto">AAFS6----1A----</AM>
 <AM lemma="losangeleský" src="auto">AAIP1----1A----</AM>
@@ -392,7 +392,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0532-001-p1s1W6-Ta">
@@ -770,7 +770,7 @@
 </w.rf>
 <form>Blues</form>
 <tag>
-<AM lemma="blues" src="auto" recommended="1" selected="1">NNNXX-----A----</AM>
+<AM lemma="blues-1" src="auto" recommended="1" selected="1">NNNXX-----A----</AM>
 <AM lemma="Blues-77" src="manual">F%-------------</AM>
 </tag>
 </m>
@@ -1017,7 +1017,7 @@
 </w.rf>
 <form>pana</form>
 <tag>
-<AM lemma="pan_^(oslovení)" src="auto" selected="1">NNMS2-----A----</AM>
+<AM lemma="pan" src="auto" selected="1">NNMS2-----A----</AM>
 <AM lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS4-----A----</AM>
 </tag>
 </m>
@@ -1495,7 +1495,7 @@
 </w.rf>
 <form>pana</form>
 <tag>
-<AM lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="pan" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="pan_^(oslovení)" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>
@@ -2124,7 +2124,7 @@
 <form>pana</form>
 <tag>
 <AM lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="pan_^(oslovení)" src="auto" selected="1">NNMS4-----A----</AM>
+<AM lemma="pan" src="auto" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0532-001-p1s6W8-Ta">
@@ -3829,7 +3829,7 @@
 </w.rf>
 <form>hodně</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------1A----</AM>
+<AM lemma="hodně_^(*1ý)" src="auto" recommended="1">Dg-------1A----</AM>
 <AM lemma="hodně_^(být_hoden;nezlobivý)_(*1ý)" src="auto">Dg-------1A----</AM>
 </tag>
 </m>
@@ -5010,7 +5010,7 @@
 <tag>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP3FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSZS6FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9ZS7FS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9ZS7FS3-------</AM>
 </tag>
 </m>
 <m id="m-wsj0532-001-p1s17W20-Ta">
@@ -5389,7 +5389,7 @@
 <AM lemma="on-1" src="auto">P5FS4--3------6</AM>
 <AM lemma="on-1" src="auto">P5FS6--3-------</AM>
 <AM lemma="on-1" src="auto">P5FS7--3-------</AM>
-<AM lemma="ní_,i_(12%-ní)" src="manual" selected="1">SAIS4----1A----</AM>
+<AM lemma="ní_,i_^(12%-ní)" src="manual" selected="1">SAIS4----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0532-001-p1s19W16-Ta">

@@ -119,7 +119,7 @@
 <LM>w#w-ln95042-044-p2s1Bw6</LM>
 </w.rf>
 <form>Brasílii</form>
-<tag lemma="Brasília_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Brasílie_;G_,h_^(^GC**Brazílie)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln95042-044-p2s1Bw7">
 <src.rf>manual</src.rf>

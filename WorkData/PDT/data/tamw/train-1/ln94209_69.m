@@ -175,7 +175,7 @@
 <LM>w#w-ln94209-69-p2s1Aw14</LM>
 </w.rf>
 <form>Husově</form>
-<tag lemma="Husův_;Y_^(*2o)" src="auto" selected="1">AUFS6M---------</tag>
+<tag lemma="Husův_;Y_^(*2-1)_(*2o)" src="auto" selected="1">AUFS6M---------</tag>
 </m>
 <m id="m-ln94209-69-p2s1Aw15">
 <src.rf>manual</src.rf>
@@ -396,7 +396,7 @@
 <LM>w#w-ln94209-69-p2s1Bw18</LM>
 </w.rf>
 <form>Ladu</form>
-<tag lemma="Lada-4_;Y" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Lada-2_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94209-69-p2s1Bw19">
 <src.rf>manual</src.rf>

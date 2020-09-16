@@ -175,7 +175,7 @@
 <LM>w#w-ln95043-091-p2s1Bw9</LM>
 </w.rf>
 <form>prostředky</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-ln95043-091-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -215,7 +215,7 @@
 <LM>w#w-ln95043-091-p2s1Bw14</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FP4---------1</tag>
 </m>
 <m id="m-ln95043-091-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -712,7 +712,7 @@
 <LM>w#w-ln95043-091-p4s1w1</LM>
 </w.rf>
 <form>Svoji</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4----------</tag>
 </m>
 <m id="m-ln95043-091-p4s1w2">
 <src.rf>manual</src.rf>
@@ -1419,7 +1419,7 @@
 <LM>w#w-ln95043-091-p5s2w12</LM>
 </w.rf>
 <form>druhým</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS7----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS7----------</tag>
 </m>
 <m id="m-ln95043-091-p5s2w13">
 <src.rf>manual</src.rf>
@@ -2209,7 +2209,7 @@
 <LM>w#w-ln95043-091-p6s5w15</LM>
 </w.rf>
 <form>Maxwell</form>
-<tag lemma="Maxwell_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Maxwell-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-091-p6s5w16">
 <src.rf>manual</src.rf>
@@ -2297,7 +2297,7 @@
 <LM>w#w-ln95043-091-p6s5w26</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-ln95043-091-p6s5w27">
 <src.rf>manual</src.rf>

@@ -235,7 +235,7 @@
 <LM>w#w-ln95040-043-p2s1Bw12</LM>
 </w.rf>
 <form>Alšově</form>
-<tag lemma="Alšův-2_;Y_^(*5eš-2)" src="auto" selected="1">AUNS6M---------</tag>
+<tag lemma="Alšův_;Y_^(*3eš)" src="auto" selected="1">AUNS6M---------</tag>
 </m>
 <m id="m-ln95040-043-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -299,7 +299,7 @@
 <LM>w#w-ln95040-043-p2s1Bw20</LM>
 </w.rf>
 <form>Karlova</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUIS2M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUIS2M---------</tag>
 </m>
 <m id="m-ln95040-043-p2s1Bw21">
 <src.rf>manual</src.rf>
@@ -1098,7 +1098,7 @@
 <LM>w#w-ln95040-043-p2s7w3</LM>
 </w.rf>
 <form>nejnadanější</form>
-<tag lemma="nadaný-2_^(obdařit,_dotovat)_(*4t-2)" src="orig" selected="1">AAMS1----3A----</tag>
+<tag lemma="nadaný_^(*2t)" src="orig" selected="1">AAMS1----3A----</tag>
 </m>
 <m id="m-ln95040-043-p2s7w4">
 <src.rf>manual</src.rf>
@@ -1162,7 +1162,7 @@
 <LM>w#w-ln95040-043-p2s7w11</LM>
 </w.rf>
 <form>daném</form>
-<tag lemma="daný_^(*3át)" src="auto" selected="1">AANS6----1A----</tag>
+<tag lemma="daný-1_^(*5át-1)" src="auto" selected="1">AANS6----1A----</tag>
 </m>
 <m id="m-ln95040-043-p2s7w12">
 <src.rf>manual</src.rf>
@@ -1876,7 +1876,7 @@
 <LM>w#w-ln95040-043-p2s10w37</LM>
 </w.rf>
 <form>bát</form>
-<tag lemma="bát" src="orig" selected="1">Vf--------A-I--</tag>
+<tag lemma="bát-1" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln95040-043-p2s10w38">
 <src.rf>manual</src.rf>
@@ -2263,7 +2263,7 @@
 <LM>w#w-ln95040-043-p3s1w47</LM>
 </w.rf>
 <form>Karlova</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUIS2M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUIS2M---------</tag>
 </m>
 <m id="m-ln95040-043-p3s1w48">
 <src.rf>manual</src.rf>
@@ -2369,7 +2369,7 @@
 <LM>w#w-ln95040-043-p3s5w11</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln95040-043-p3s5w12">
 <src.rf>manual</src.rf>
@@ -3758,7 +3758,7 @@
 <LM>w#w-ln95040-043-p4s6w23</LM>
 </w.rf>
 <form>dané</form>
-<tag lemma="daný_^(*3át)" src="auto" selected="1">AANS4----1A----</tag>
+<tag lemma="daný-1_^(*5át-1)" src="auto" selected="1">AANS4----1A----</tag>
 </m>
 <m id="m-ln95040-043-p4s6w24">
 <src.rf>manual</src.rf>
@@ -4080,7 +4080,7 @@
 <LM>w#w-ln95040-043-p4s7w21</LM>
 </w.rf>
 <form>daný</form>
-<tag lemma="daný_^(*3át)" src="auto" selected="1">AAIS1----1A----</tag>
+<tag lemma="daný-1_^(*5át-1)" src="auto" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-ln95040-043-p4s7w22">
 <src.rf>manual</src.rf>
@@ -4096,7 +4096,7 @@
 <LM>w#w-ln95040-043-p4s7w23</LM>
 </w.rf>
 <form>správnou</form>
-<tag lemma="správný_^(podle_něj._měřítek;_př._chlap,_míra,...)" src="orig" selected="1">AAFS4----1A----</tag>
+<tag lemma="správný" src="orig" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-ln95040-043-p4s7w24">
 <src.rf>manual</src.rf>

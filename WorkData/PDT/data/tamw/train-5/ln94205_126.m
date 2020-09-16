@@ -501,7 +501,7 @@
 <form>jen</form>
 <tag>
 <AM lemma="jen-1" src="auto">TT-------------</AM>
-<AM lemma="jen-4_(pouze)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94205-126-p2s3w9">
@@ -688,7 +688,7 @@
 <form>jen</form>
 <tag>
 <AM lemma="jen-1" src="auto">TT-------------</AM>
-<AM lemma="jen-4_(pouze)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94205-126-p2s4w19">
@@ -707,7 +707,7 @@
 <form>lavičce</form>
 <tag>
 <AM lemma="lavička-2" src="auto">NNFS6-----A----</AM>
-<AM lemma="lavička" src="manual" selected="1">NNFS6-----A----</AM>
+<AM lemma="lavička-2" src="manual" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-126-p2s4w21">

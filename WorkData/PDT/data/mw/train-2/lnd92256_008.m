@@ -125,7 +125,7 @@
 <LM>w#w-lnd92256-008-p2s1w12</LM>
 </w.rf>
 <form>modelem</form>
-<tag lemma="model" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="model-1" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-lnd92256-008-p2s1w13">
 <src.rf>manual</src.rf>
@@ -828,7 +828,7 @@
 <LM>w#w-lnd92256-008-p3s2w4</LM>
 </w.rf>
 <form>co</form>
-<tag lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="co-5_^(př._co_nejméně,_co_nevidět_atd.)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd92256-008-p3s2w5">
 <src.rf>manual</src.rf>
@@ -844,7 +844,7 @@
 <LM>w#w-lnd92256-008-p3s2w6</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-lnd92256-008-p3s2w7">
 <src.rf>manual</src.rf>
@@ -1938,7 +1938,7 @@
 <LM>w#w-lnd92256-008-p4s4w14</LM>
 </w.rf>
 <form>dané</form>
-<tag lemma="daný_^(*3át)" src="auto" selected="1">AAFS6----1A----</tag>
+<tag lemma="daný-1_^(*5át-1)" src="auto" selected="1">AAFS6----1A----</tag>
 </m>
 <m id="m-lnd92256-008-p4s4w15">
 <src.rf>manual</src.rf>
@@ -2163,7 +2163,7 @@
 <LM>w#w-lnd92256-008-p4s4w41</LM>
 </w.rf>
 <form>zpochybnitelné</form>
-<tag lemma="zpochybnitelný_,s_^(*4)" src="auto" selected="1">AANS1----1A----</tag>
+<tag lemma="zpochybnitelný_^(*4)_(*6ět)" src="auto" selected="1">AANS1----1A----</tag>
 </m>
 <m id="m-lnd92256-008-p4s4w42">
 <src.rf>manual</src.rf>
@@ -2769,7 +2769,7 @@
 <LM>w#w-lnd92256-008-p5s2w25</LM>
 </w.rf>
 <form>ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-lnd92256-008-p5s2w26">
 <src.rf>manual</src.rf>
@@ -3299,7 +3299,7 @@
 <LM>w#w-lnd92256-008-p5s5w27</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-lnd92256-008-p5s5w28">
 <src.rf>manual</src.rf>

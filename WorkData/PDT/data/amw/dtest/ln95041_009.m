@@ -737,7 +737,7 @@
 <LM>w#w-ln95041-009-p3s2w6</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-ln95041-009-p3s2w7">
 <src.rf>manual</src.rf>
@@ -1163,7 +1163,7 @@
 <LM>w#w-ln95041-009-p4s1w20</LM>
 </w.rf>
 <form>stanovení</form>
-<tag lemma="stanovení_^(určit)_(*3it)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="stanovení_^(*3it)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln95041-009-p4s1w21">
 <src.rf>manual</src.rf>
@@ -1692,7 +1692,7 @@
 <LM>w#w-ln95041-009-p5s4w8</LM>
 </w.rf>
 <form>kurs</form>
-<tag lemma="kurs" src="auto" selected="1">NNIS4-----A----</tag>
+<tag lemma="kurs_,s_^(^DD**kurz)" src="auto" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln95041-009-p5s4w9">
 <src.rf>manual</src.rf>
@@ -2267,7 +2267,7 @@
 <LM>w#w-ln95041-009-p6s3w11</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-ln95041-009-p6s3w12">
 <src.rf>manual</src.rf>
@@ -2597,7 +2597,7 @@
 <LM>w#w-ln95041-009-p6s4w24</LM>
 </w.rf>
 <form>brání</form>
-<tag lemma="bránit_^(klást_překážky)" src="auto" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="bránit" src="auto" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95041-009-p6s4w25">
 <src.rf>manual</src.rf>

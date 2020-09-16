@@ -130,7 +130,7 @@
 <LM>w#w-ln95042-077-p2s1Bw3</LM>
 </w.rf>
 <form>Rada</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95042-077-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -312,7 +312,7 @@
 <LM>w#w-ln95042-077-p2s2w4</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="mluvčí-2" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95042-077-p2s2w5">
 <src.rf>manual</src.rf>
@@ -785,7 +785,7 @@
 <LM>w#w-ln95042-077-p2s5w4</LM>
 </w.rf>
 <form>dalo</form>
-<tag lemma="dát" src="orig" selected="1">VpNS----R-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln95042-077-p2s5w5">
 <src.rf>manual</src.rf>

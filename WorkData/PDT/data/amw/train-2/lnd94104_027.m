@@ -59,7 +59,7 @@
 <LM>w#w-lnd94104-027-p1s1w6</LM>
 </w.rf>
 <form>rady</form>
-<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94104-027-p1s1w7">
 <src.rf>manual</src.rf>

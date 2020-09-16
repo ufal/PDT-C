@@ -175,7 +175,7 @@
 <LM>w#w-cmpr9416-026-p3s2w6</LM>
 </w.rf>
 <form>vás</form>
-<tag lemma="ty" src="orig" selected="1">PP-P2--2-------</tag>
+<tag lemma="vy" src="orig" selected="1">PP-P2--2-------</tag>
 </m>
 <m id="m-cmpr9416-026-p3s2w7">
 <src.rf>manual</src.rf>
@@ -199,7 +199,7 @@
 <LM>w#w-cmpr9416-026-p3s2w9</LM>
 </w.rf>
 <form>mého</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS2-S1-------</tag>
+<tag lemma="můj" src="orig" selected="1">PSZS2-S1-------</tag>
 </m>
 <m id="m-cmpr9416-026-p3s2w10">
 <src.rf>manual</src.rf>
@@ -305,7 +305,7 @@
 <LM>w#w-cmpr9416-026-p3s3w2</LM>
 </w.rf>
 <form>potřeba</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-026-p3s3w3">
 <src.rf>manual</src.rf>

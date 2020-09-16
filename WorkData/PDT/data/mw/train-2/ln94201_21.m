@@ -267,7 +267,7 @@
 <LM>w#w-ln94201-21-p2s1w27</LM>
 </w.rf>
 <form>děti</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-ln94201-21-p2s1w28">
 <src.rf>manual</src.rf>
@@ -299,7 +299,7 @@
 <LM>w#w-ln94201-21-p2s1w31</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln94201-21-p2s1w32">
 <src.rf>manual</src.rf>
@@ -315,7 +315,7 @@
 <LM>w#w-ln94201-21-p2s1w33</LM>
 </w.rf>
 <form>handicapované</form>
-<tag lemma="handicapovaný_^(*2t)" src="orig" selected="1">AAFP1----1A----</tag>
+<tag lemma="handicapovaný_^(^DD**hendikepovaný)_(*2t)" src="orig" selected="1">AAFP1----1A----</tag>
 </m>
 <m id="m-ln94201-21-p2s1w34">
 <src.rf>manual</src.rf>
@@ -538,7 +538,7 @@
 <LM>w#w-ln94201-21-p2s2w26</LM>
 </w.rf>
 <form>děti</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-ln94201-21-p2s2w27">
 <src.rf>manual</src.rf>

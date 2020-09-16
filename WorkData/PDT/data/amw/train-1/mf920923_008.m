@@ -422,7 +422,7 @@
 <LM>w#w-mf920923-008-p2s2w16</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrNS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS4----------</tag>
 </m>
 <m id="m-mf920923-008-p2s2w17">
 <src.rf>manual</src.rf>
@@ -743,7 +743,7 @@
 <LM>w#w-mf920923-008-p2s4w1</LM>
 </w.rf>
 <form>Naše</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSIP1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSIP1-P1-------</tag>
 </m>
 <m id="m-mf920923-008-p2s4w2">
 <src.rf>manual</src.rf>
@@ -1054,7 +1054,7 @@
 <LM>w#w-mf920923-008-p3s1w19</LM>
 </w.rf>
 <form>naší</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS2-P1-------</tag>
 </m>
 <m id="m-mf920923-008-p3s1w20">
 <src.rf>manual</src.rf>
@@ -1460,7 +1460,7 @@
 <LM>w#w-mf920923-008-p3s2w19</LM>
 </w.rf>
 <form>dni</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS3-----A---1</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS3-----A---1</tag>
 </m>
 <m id="m-mf920923-008-p3s2w20">
 <src.rf>manual</src.rf>
@@ -1553,7 +1553,7 @@
 <LM>w#w-mf920923-008-p3s3w3</LM>
 </w.rf>
 <form>naší</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS2-P1-------</tag>
 </m>
 <m id="m-mf920923-008-p3s3w4">
 <src.rf>manual</src.rf>
@@ -1693,7 +1693,7 @@
 <LM>w#w-mf920923-008-p3s3w20</LM>
 </w.rf>
 <form>ukazateli</form>
-<tag lemma="ukazatel" src="orig" selected="1">NNIP7-----A----</tag>
+<tag lemma="ukazatel-1" src="orig" selected="1">NNIP7-----A----</tag>
 </m>
 <m id="m-mf920923-008-p3s3w21">
 <src.rf>manual</src.rf>
@@ -1874,7 +1874,7 @@
 <LM>w#w-mf920923-008-p3s4w6</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf920923-008-p3s4w7">
 <src.rf>manual</src.rf>

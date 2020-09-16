@@ -577,7 +577,7 @@
 <LM>w#w-mf920922-003-p2s4w12</LM>
 </w.rf>
 <form>data</form>
-<tag lemma="datum_^(kalendářní)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="datum-1_^(kalendářní)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-mf920922-003-p2s4w13">
 <src.rf>manual</src.rf>
@@ -593,7 +593,7 @@
 <LM>w#w-mf920922-003-p2s4w14</LM>
 </w.rf>
 <form>pas</form>
-<tag lemma="pas-1_^(př._cestovní)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="pas-1_^(přihrávka,_př._v_kopané,na_lidském_těle;;cestovní)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920922-003-p2s4w15">
 <src.rf>manual</src.rf>
@@ -635,7 +635,7 @@
 <LM>w#w-mf920922-003-p2s5w4</LM>
 </w.rf>
 <form>dostání</form>
-<tag lemma="dostání_^(*3at)" src="orig" selected="1">NNNS3-----A----</tag>
+<tag lemma="dostání_^(*2t)_(*3at)" src="orig" selected="1">NNNS3-----A----</tag>
 </m>
 <m id="m-mf920922-003-p2s5w5">
 <src.rf>manual</src.rf>
@@ -1174,7 +1174,7 @@
 <LM>w#w-mf920922-003-p3s3w10</LM>
 </w.rf>
 <form>vás</form>
-<tag lemma="ty" src="orig" selected="1">PP-P4--2-------</tag>
+<tag lemma="vy" src="orig" selected="1">PP-P4--2-------</tag>
 </m>
 <m id="m-mf920922-003-p3s3w11">
 <src.rf>manual</src.rf>
@@ -1262,7 +1262,7 @@
 <LM>w#w-mf920922-003-p3s3w21</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf920922-003-p3s3w22">
 <src.rf>manual</src.rf>
@@ -1880,7 +1880,7 @@
 <LM>w#w-mf920922-003-p5s2w1</LM>
 </w.rf>
 <form>Naše</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSHS1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSHS1-P1-------</tag>
 </m>
 <m id="m-mf920922-003-p5s2w2">
 <src.rf>manual</src.rf>
@@ -1992,7 +1992,7 @@
 <LM>w#w-mf920922-003-p5s2w15</LM>
 </w.rf>
 <form>zastavení</form>
-<tag lemma="zastavení-1_^([také_z._se];_uvést_do_klidu:_auto,...)_(*5it-1)" src="orig" selected="1">NNNS3-----A----</tag>
+<tag lemma="zastavení_^(*3it)" src="orig" selected="1">NNNS3-----A----</tag>
 </m>
 <m id="m-mf920922-003-p5s2w16">
 <src.rf>manual</src.rf>
@@ -2122,7 +2122,7 @@
 <LM>w#w-mf920922-003-p5s3w8</LM>
 </w.rf>
 <form>pas</form>
-<tag lemma="pas-1_^(př._cestovní)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="pas-1_^(přihrávka,_př._v_kopané,na_lidském_těle;;cestovní)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-mf920922-003-p5s3w9">
 <src.rf>manual</src.rf>

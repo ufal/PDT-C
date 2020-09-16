@@ -85,7 +85,7 @@
 <LM>w#w-mf930709-058-p2s1w6</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8NS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8NS4---------1</tag>
 </m>
 <m id="m-mf930709-058-p2s1w7">
 <src.rf>manual</src.rf>
@@ -109,7 +109,7 @@
 <LM>w#w-mf930709-058-p2s1w9</LM>
 </w.rf>
 <form>Miroslav</form>
-<tag lemma="Miroslav_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Miroslav-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-058-p2s1w10">
 <src.rf>manual</src.rf>
@@ -411,7 +411,7 @@
 <LM>w#w-mf930709-058-p2s3w25</LM>
 </w.rf>
 <form>třeba</form>
-<tag lemma="třeba-2" src="auto" selected="1">Db-------------</tag>
+<tag lemma="třeba-1" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf930709-058-p2s3w26">
 <src.rf>manual</src.rf>
@@ -497,7 +497,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>příjemná</form>
-<tag lemma="příjemný-1_^(všeob.,_poz._emoce)" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="příjemný_^(všeob.,_poz._emoce)" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-mf930709-058-p2s4w5">
 <src.rf>manual</src.rf>
@@ -644,7 +644,7 @@
 <LM>w#w-mf930709-058-p2s4w22</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-mf930709-058-p2s4w23">
 <src.rf>manual</src.rf>

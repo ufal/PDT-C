@@ -53,7 +53,7 @@
 <LM>w#w-mf920923-037-p2s1w1</LM>
 </w.rf>
 <form>Ftalát</form>
-<tag lemma="ftalát_;U" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="ftalát" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920923-037-p2s1w2">
 <src.rf>manual</src.rf>
@@ -61,7 +61,7 @@
 <LM>w#w-mf920923-037-p2s1w2</LM>
 </w.rf>
 <form>dibutylnatý</form>
-<tag lemma="dibutylnatý_;U" src="orig" selected="1">AAIS1----1A----</tag>
+<tag lemma="dibutylnatý" src="orig" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-mf920923-037-p2s1w3">
 <src.rf>manual</src.rf>
@@ -157,7 +157,7 @@
 <LM>w#w-mf920923-037-p2s1w14</LM>
 </w.rf>
 <form>lahví</form>
-<tag lemma="lahev" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="lahev_,s_^(^DD**láhev)" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-mf920923-037-p2s1w15">
 <src.rf>manual</src.rf>
@@ -490,7 +490,7 @@
 <LM>w#w-mf920923-037-p2s2w8</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FP4---------1</tag>
 </m>
 <m id="m-mf920923-037-p2s2w9">
 <src.rf>manual</src.rf>
@@ -564,7 +564,7 @@
 <LM>w#w-mf920923-037-p3s1w2</LM>
 </w.rf>
 <form>Naše</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSIP1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSIP1-P1-------</tag>
 </m>
 <m id="m-mf920923-037-p3s1w3">
 <src.rf>manual</src.rf>
@@ -604,7 +604,7 @@
 <LM>w#w-mf920923-037-p3s1w7</LM>
 </w.rf>
 <form>ftalátu</form>
-<tag lemma="ftalát_;U" src="orig" selected="1">NNIS6-----A---1</tag>
+<tag lemma="ftalát" src="orig" selected="1">NNIS6-----A---1</tag>
 </m>
 <m id="m-mf920923-037-p3s1w8">
 <src.rf>manual</src.rf>
@@ -612,7 +612,7 @@
 <LM>w#w-mf920923-037-p3s1w8</LM>
 </w.rf>
 <form>dibutylnatém</form>
-<tag lemma="dibutylnatý_;U" src="orig" selected="1">AAIS6----1A----</tag>
+<tag lemma="dibutylnatý" src="orig" selected="1">AAIS6----1A----</tag>
 </m>
 <m id="m-mf920923-037-p3s1w9">
 <src.rf>manual</src.rf>
@@ -851,7 +851,7 @@
 <LM>w#w-mf920923-037-p3s1w37</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf920923-037-p3s1w38">
 <src.rf>manual</src.rf>
@@ -867,7 +867,7 @@
 <LM>w#w-mf920923-037-p3s1w39</LM>
 </w.rf>
 <form>vedoucí</form>
-<tag lemma="vedoucí-2" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="vedoucí-3" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920923-037-p3s1w40">
 <src.rf>manual</src.rf>
@@ -1258,7 +1258,7 @@
 <LM>w#w-mf920923-037-p3s4w1</LM>
 </w.rf>
 <form>Ftalát</form>
-<tag lemma="ftalát_;U" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="ftalát" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920923-037-p3s4w2">
 <src.rf>manual</src.rf>
@@ -1266,7 +1266,7 @@
 <LM>w#w-mf920923-037-p3s4w2</LM>
 </w.rf>
 <form>dibutylnatý</form>
-<tag lemma="dibutylnatý_;U" src="orig" selected="1">AAIS1----1A----</tag>
+<tag lemma="dibutylnatý" src="orig" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-mf920923-037-p3s4w3">
 <src.rf>manual</src.rf>
@@ -1340,7 +1340,7 @@
 <LM>w#w-mf920923-037-p3s5w2</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-mf920923-037-p3s5w3">
 <src.rf>manual</src.rf>
@@ -1718,7 +1718,7 @@
 <LM>w#w-mf920923-037-p4s1w4</LM>
 </w.rf>
 <form>ftalátu</form>
-<tag lemma="ftalát_;U" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="ftalát" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920923-037-p4s1w5">
 <src.rf>manual</src.rf>
@@ -1787,7 +1787,7 @@
 <form>nedá</form>
 <tag>
 <AM lemma="dát" src="orig">VB-S---3P-NAP--</AM>
-<AM lemma="dát" src="manual" selected="1">VB-S---3P-NAP--</AM>
+<AM lemma="dát-1" src="manual" selected="1">VB-S---3P-NAP--</AM>
 </tag>
 </m>
 <m id="m-mf920923-037-p4s1w13">
@@ -2128,7 +2128,7 @@
 <LM>w#w-mf920923-037-p4s3w19</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-mf920923-037-p4s3w20">
 <src.rf>manual</src.rf>
@@ -2317,7 +2317,7 @@
 <LM>w#w-mf920923-037-p5s2w9</LM>
 </w.rf>
 <form>ftalátu</form>
-<tag lemma="ftalát_;U" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="ftalát" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920923-037-p5s2w10">
 <src.rf>manual</src.rf>
@@ -2373,7 +2373,7 @@
 <form>stojí</form>
 <tag>
 <AM lemma="stát-4_^(něco_stojí_peníze)" src="orig">VB-S---3P-AA---</AM>
-<AM lemma="stát-4_^(něco_stojí_peníze)" src="manual" selected="1">VB-S---3P-AAI--</AM>
+<AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m-mf920923-037-p5s3w4">
@@ -2820,7 +2820,7 @@
 <LM>w#w-mf920923-037-p6s1w25</LM>
 </w.rf>
 <form>třeba</form>
-<tag lemma="třeba-2" src="auto" selected="1">Db-------------</tag>
+<tag lemma="třeba-1" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf920923-037-p6s1w26">
 <src.rf>manual</src.rf>
@@ -2836,7 +2836,7 @@
 <LM>w#w-mf920923-037-p6s1w27</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-mf920923-037-p6s1w28">
 <src.rf>manual</src.rf>
@@ -2871,7 +2871,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf920923-037-p6s1w32">
@@ -2880,7 +2880,7 @@
 <LM>w#w-mf920923-037-p6s1w32</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XP1FS3-------</tag>
 </m>
 <m id="m-mf920923-037-p6s1w33">
 <src.rf>manual</src.rf>
@@ -2997,7 +2997,7 @@
 <LM>w#w-mf920923-037-p6s2w10</LM>
 </w.rf>
 <form>dodací</form>
-<tag lemma="dodací_^(list,_termín,...)" src="auto" selected="1">AAIP4----1A----</tag>
+<tag lemma="dodací_^(*2t)" src="auto" selected="1">AAIP4----1A----</tag>
 </m>
 <m id="m-mf920923-037-p6s2w11">
 <src.rf>manual</src.rf>

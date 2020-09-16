@@ -99,7 +99,7 @@
 <LM>w#w-ln95044-010-p2s1Bw4</LM>
 </w.rf>
 <form>cesty</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-ln95044-010-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -283,7 +283,7 @@
 <LM>w#w-ln95044-010-p2s2w5</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-010-p2s2w6">
 <src.rf>manual</src.rf>

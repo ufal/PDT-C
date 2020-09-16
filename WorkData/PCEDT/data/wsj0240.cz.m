@@ -49,7 +49,7 @@
 <tag>
 <AM lemma="David_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="David_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="David_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="David-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0240-001-p1s0W5-Ta">
@@ -319,7 +319,7 @@
 </w.rf>
 <form>dne</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="den_^(jednotka_času)" src="auto">NNIS5-----A----</AM>
 <AM lemma="den_^(jednotka_času)" src="auto">NNIS6-----A---9</AM>
 </tag>
@@ -2263,7 +2263,7 @@
 </w.rf>
 <form>ne</form>
 <tag>
-<AM lemma="ne" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ne-1" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="neděle" src="auto">NNFXX-----A---8</AM>
 </tag>
 </m>
@@ -3005,7 +3005,7 @@
 <AM lemma="napětí_^(elektrické,_mechanické,_ve_vztazích)_(*3nout)" src="auto">NNNS3-----A----</AM>
 <AM lemma="napětí_^(elektrické,_mechanické,_ve_vztazích)_(*3nout)" src="auto">NNNS4-----A----</AM>
 <AM lemma="napětí_^(elektrické,_mechanické,_ve_vztazích)_(*3nout)" src="auto">NNNS5-----A----</AM>
-<AM lemma="napětí_^(elektrické,_mechanické,_ve_vztazích)_(*3nout)" src="auto" recommended="1">NNNS6-----A----</AM>
+<AM lemma="napětí_^(elektrické,_mechanické,_ve_vztazích)" src="auto" recommended="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0240-001-p1s8W8-Ta">
@@ -4618,7 +4618,7 @@
 </w.rf>
 <form>ne</form>
 <tag>
-<AM lemma="ne" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ne-1" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="neděle" src="auto">NNFXX-----A---8</AM>
 </tag>
 </m>

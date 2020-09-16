@@ -12,7 +12,7 @@
 <LM>w#w-d1t1079-16</LM>
 </w.rf>
 <form>Vypadá</form>
-<tag lemma="vypadat" src="auto" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="vypadat-1_^(ty_vypadáš)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m145-d1t1079-17">
 <w.rf>
@@ -822,7 +822,7 @@
 <tag>
 <AM lemma="hodně-1" src="auto">Ca--X----------</AM>
 <AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="hodně-3" src="auto" selected="1">Dg-------1A----</AM>
+<AM lemma="hodně_^(*1ý)" src="auto" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m145-d1e1096-x2-59">
@@ -997,7 +997,7 @@
 </w.rf>
 <form>Ne</form>
 <tag>
-<AM lemma="ne" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ne-1" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="neděle_:B" src="auto">NNFXX-----A---8</AM>
 </tag>
 </m>
@@ -1205,7 +1205,7 @@
 </w.rf>
 <form>Pražáci</form>
 <tag>
-<AM lemma="Pražák_;E" src="auto" recommended="1">NNMP1-----A----</AM>
+<AM lemma="Pražák_;E_;Y" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="Pražák_;E" src="auto">NNMP5-----A----</AM>
 </tag>
 </m>
@@ -1353,7 +1353,7 @@
 </w.rf>
 <form>Troje</form>
 <tag>
-<AM lemma="Trója_;G" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="Troja_;G_,s_^(^DD**Trója)" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="trojí" src="auto">CdNS1---------1</AM>
 <AM lemma="trojí" src="auto">CdNS4---------1</AM>
 <AM lemma="trojí" src="auto">CdXP1---------1</AM>
@@ -2524,7 +2524,7 @@
 <form>vás</form>
 <tag>
 <AM lemma="ty" src="auto">PP-P2--2-------</AM>
-<AM lemma="ty" src="auto" recommended="1">PP-P4--2-------</AM>
+<AM lemma="vy" src="auto" recommended="1">PP-P4--2-------</AM>
 <AM lemma="ty" src="auto">PP-P6--2-------</AM>
 </tag>
 </m>
@@ -2625,7 +2625,7 @@
 <form>lidi</form>
 <tag>
 <AM lemma="člověk" src="auto">NNMP1-----A----</AM>
-<AM lemma="člověk" src="auto" recommended="1">NNMP4-----A----</AM>
+<AM lemma="lidé" src="auto" recommended="1">NNMP4-----A----</AM>
 <AM lemma="člověk" src="auto">NNMP5-----A----</AM>
 </tag>
 </m>
@@ -2718,7 +2718,7 @@
 </w.rf>
 <form>natažená</form>
 <tag>
-<AM lemma="natažený_^(*5áhnout)" src="auto" recommended="1">AAFS1----1A----</AM>
+<AM lemma="natažený" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="natažený_^(*5áhnout)" src="auto">AAFS5----1A----</AM>
 <AM lemma="natažený_^(*5áhnout)" src="auto">AANP1----1A----</AM>
 <AM lemma="natažený_^(*5áhnout)" src="auto">AANP4----1A----</AM>
@@ -3455,7 +3455,7 @@
 <AM lemma="dobrý" src="auto">AAMP1----2A----</AM>
 <AM lemma="dobrý" src="auto">AAMP4----2A----</AM>
 <AM lemma="dobrý" src="auto">AAMP5----2A----</AM>
-<AM lemma="dobrý" src="auto" recommended="1">AAMS1----2A----</AM>
+<AM lemma="lepší" src="auto" recommended="1">AAMS1----2A----</AM>
 <AM lemma="dobrý" src="auto">AAMS5----2A----</AM>
 <AM lemma="dobrý" src="auto">AANP1----2A----</AM>
 <AM lemma="dobrý" src="auto">AANP4----2A----</AM>
@@ -3852,7 +3852,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m145-d1e1236-x2-233">

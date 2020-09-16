@@ -518,7 +518,7 @@
 <LM>w#w-ln94205-58-p2s3w10</LM>
 </w.rf>
 <form>naše</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSHS1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSHS1-P1-------</tag>
 </m>
 <m id="m-ln94205-58-p2s3w11">
 <src.rf>manual</src.rf>
@@ -534,7 +534,7 @@
 <LM>w#w-ln94205-58-p2s3w12</LM>
 </w.rf>
 <form>stojí</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94205-58-p2s3w13">
 <src.rf>manual</src.rf>
@@ -672,7 +672,7 @@
 <LM>w#w-ln94205-58-p3s1w5</LM>
 </w.rf>
 <form>dny</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP7-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP7-----A----</tag>
 </m>
 <m id="m-ln94205-58-p3s1w6">
 <src.rf>manual</src.rf>
@@ -1135,7 +1135,7 @@
 <LM>w#w-ln94205-58-p3s4w14</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-ln94205-58-p3s4w15">
 <src.rf>manual</src.rf>
@@ -1398,7 +1398,7 @@
 <LM>w#w-ln94205-58-p3s6w5</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-ln94205-58-p3s6w6">
 <src.rf>manual</src.rf>
@@ -1709,7 +1709,7 @@
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
 <AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="třeba-3" src="auto" selected="1">TT-------------</AM>
+<AM lemma="třeba-2_^(například)" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94205-58-p3s8w11">
@@ -2000,7 +2000,7 @@
 <LM>w#w-ln94205-58-p3s10w1</LM>
 </w.rf>
 <form>Její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS1FS3-------</tag>
 </m>
 <m id="m-ln94205-58-p3s10w2">
 <src.rf>manual</src.rf>
@@ -2413,7 +2413,7 @@
 <LM>w#w-ln94205-58-p4s2w21</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-ln94205-58-p4s2w22">
 <src.rf>manual</src.rf>

@@ -536,7 +536,7 @@
 <LM>w#w-mf930708-053-p3s2w3</LM>
 </w.rf>
 <form>představení</form>
-<tag lemma="představení-2_^(divadelní,_filmové_apod.)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="představení-1_^(*5it-1)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-mf930708-053-p3s2w4">
 <src.rf>manual</src.rf>
@@ -1103,7 +1103,7 @@
 <LM>w#w-mf930708-053-p4s1w5</LM>
 </w.rf>
 <form>černé</form>
-<tag lemma="černý" src="auto" selected="1">AAFS2----1A----</tag>
+<tag lemma="černý_;o" src="auto" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-mf930708-053-p4s1w6">
 <src.rf>manual</src.rf>
@@ -1352,7 +1352,7 @@
 <LM>w#w-mf930708-053-p4s2w16</LM>
 </w.rf>
 <form>roli</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="role_^(svitek_poslání_pozemek)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf930708-053-p4s2w17">
 <src.rf>manual</src.rf>
@@ -1586,7 +1586,7 @@
 <LM>w#w-mf930708-053-p4s3w24</LM>
 </w.rf>
 <form>pojaté</form>
-<tag lemma="pojatý_^(*3mout)" src="orig" selected="1">AANS4----1A----</tag>
+<tag lemma="pojatý" src="orig" selected="1">AANS4----1A----</tag>
 </m>
 <m id="m-mf930708-053-p4s3w25">
 <src.rf>manual</src.rf>
@@ -1873,7 +1873,7 @@
 <LM>w#w-mf930708-053-p5s2w3</LM>
 </w.rf>
 <form>pojatých</form>
-<tag lemma="pojatý_^(*3mout)" src="orig" selected="1">AAFP2----1A----</tag>
+<tag lemma="pojatý" src="orig" selected="1">AAFP2----1A----</tag>
 </m>
 <m id="m-mf930708-053-p5s2w4">
 <src.rf>manual</src.rf>

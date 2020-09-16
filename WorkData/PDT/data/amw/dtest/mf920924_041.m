@@ -61,7 +61,7 @@
 <LM>w#w-mf920924-041-p1s1Bw4</LM>
 </w.rf>
 <form>umění</form>
-<tag lemma="umění_^(mít_schopnost_něco_dělat)_(*2t)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="umění_^(*2t)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf920924-041-p1s1Bw5">
 <src.rf>manual</src.rf>
@@ -605,7 +605,7 @@
 <LM>w#w-mf920924-041-p1s3w34</LM>
 </w.rf>
 <form>interpretů</form>
-<tag lemma="interpret" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="interpret-1" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf920924-041-p1s3w35">
 <src.rf>manual</src.rf>
@@ -709,7 +709,7 @@
 <LM>w#w-mf920924-041-p1s4w11</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-mf920924-041-p1s4w12">
 <src.rf>manual</src.rf>

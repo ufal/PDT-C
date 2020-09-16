@@ -561,7 +561,7 @@
 <LM>w#w-lnd92257-045-p3s4w27</LM>
 </w.rf>
 <form>Evropě</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd92257-045-p3s4w28">
 <src.rf>manual</src.rf>
@@ -739,7 +739,7 @@
 <LM>w#w-lnd92257-045-p3s6w7</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS6---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS6---------1</tag>
 </m>
 <m id="m-lnd92257-045-p3s6w8">
 <src.rf>manual</src.rf>

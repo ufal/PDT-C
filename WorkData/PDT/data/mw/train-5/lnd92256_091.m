@@ -202,7 +202,7 @@
 <LM>w#w-lnd92256-091-p3s1w12</LM>
 </w.rf>
 <form>km</form>
-<tag lemma="km-1`kilometr" src="orig" selected="1">NNIXX-----A---b</tag>
+<tag lemma="kilometr" src="orig" selected="1">NNIXX-----A---b</tag>
 </m>
 <m id="m-lnd92256-091-p3s1w13">
 <src.rf>manual</src.rf>
@@ -907,7 +907,7 @@
 <LM>w#w-lnd92256-091-p4s4w2</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-lnd92256-091-p4s4w3">
 <src.rf>manual</src.rf>
@@ -1125,7 +1125,7 @@
 <LM>w#w-lnd92256-091-p4s4w28</LM>
 </w.rf>
 <form>dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92256-091-p4s4w29">
 <src.rf>manual</src.rf>
@@ -1853,7 +1853,7 @@
 <LM>w#w-lnd92256-091-p4s10w20</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP6-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP6-P1-------</tag>
 </m>
 <m id="m-lnd92256-091-p4s10w21">
 <src.rf>manual</src.rf>
@@ -2073,7 +2073,7 @@
 <LM>w#w-lnd92256-091-p4s12w7</LM>
 </w.rf>
 <form>dnu</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-lnd92256-091-p4s12w8">
 <src.rf>manual</src.rf>

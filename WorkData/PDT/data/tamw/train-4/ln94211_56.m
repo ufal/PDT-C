@@ -102,7 +102,7 @@
 <LM>w#w-ln94211-56-p1s1w11</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94211-56-p1s1w12">
 <src.rf>manual</src.rf>
@@ -136,7 +136,7 @@
 <LM>w#w-ln94211-56-p2s1w2</LM>
 </w.rf>
 <form>Strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94211-56-p2s1w3">
 <src.rf>manual</src.rf>
@@ -208,7 +208,7 @@
 <LM>w#w-ln94211-56-p2s1w11</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-ln94211-56-p2s1w12">
 <src.rf>manual</src.rf>
@@ -486,7 +486,7 @@
 <LM>w#w-ln94211-56-p3s1w4</LM>
 </w.rf>
 <form>pana</form>
-<tag lemma="pan_^(oslovení)" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="pan" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94211-56-p3s1w5">
 <src.rf>manual</src.rf>
@@ -680,7 +680,7 @@
 <LM>w#w-ln94211-56-p3s2w7</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-ln94211-56-p3s2w8">
 <src.rf>manual</src.rf>

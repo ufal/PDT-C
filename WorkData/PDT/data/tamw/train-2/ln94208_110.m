@@ -19,7 +19,7 @@
 <LM>w#w-ln94208-110-p1s1w1</LM>
 </w.rf>
 <form>Karlovy</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUIP1M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUIP1M---------</tag>
 </m>
 <m id="m-ln94208-110-p1s1w2">
 <src.rf>manual</src.rf>
@@ -64,7 +64,7 @@
 <LM>w#w-ln94208-110-p2s1Aw2</LM>
 </w.rf>
 <form>York</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="York-2_;G_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94208-110-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -238,7 +238,7 @@
 <LM>w#w-ln94208-110-p2s1Bw17</LM>
 </w.rf>
 <form>Karlových</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUIP6M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUIP6M---------</tag>
 </m>
 <m id="m-ln94208-110-p2s1Bw18">
 <src.rf>manual</src.rf>

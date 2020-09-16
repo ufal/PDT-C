@@ -277,7 +277,7 @@
 <LM>w#w-ln95040-115-p2s1Bw25</LM>
 </w.rf>
 <form>Alšově</form>
-<tag lemma="Alšův-2_;Y_^(*5eš-2)" src="auto" selected="1">AUNS6M---------</tag>
+<tag lemma="Alšův_;Y_^(*3eš)" src="auto" selected="1">AUNS6M---------</tag>
 </m>
 <m id="m-ln95040-115-p2s1Bw26">
 <src.rf>manual</src.rf>
@@ -504,7 +504,7 @@
 <LM>w#w-ln95040-115-p2s2w25</LM>
 </w.rf>
 <form>svoji</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4----------</tag>
 </m>
 <m id="m-ln95040-115-p2s2w26">
 <src.rf>manual</src.rf>
@@ -520,7 +520,7 @@
 <LM>w#w-ln95040-115-p2s2w27</LM>
 </w.rf>
 <form>práva</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln95040-115-p2s2w28">
 <src.rf>manual</src.rf>

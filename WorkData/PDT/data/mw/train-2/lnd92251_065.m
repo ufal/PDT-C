@@ -561,7 +561,7 @@
 <LM>w#w-lnd92251-065-p3s4w21</LM>
 </w.rf>
 <form>členy</form>
-<tag lemma="člen" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-lnd92251-065-p3s4w22">
 <src.rf>manual</src.rf>
@@ -961,7 +961,7 @@
 <LM>w#w-lnd92251-065-p3s5w13</LM>
 </w.rf>
 <form>rada</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92251-065-p3s5w14">
 <src.rf>manual</src.rf>

@@ -99,7 +99,7 @@
 </w.rf>
 <form>svůj</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8IS4----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8IS4----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8YS1----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8YS5----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOYS-----------</AM>
@@ -544,7 +544,7 @@
 <tag>
 <AM lemma="Virginie_;G" src="auto">NNFS3-----A----</AM>
 <AM lemma="Virginie_;G" src="auto">NNFS4-----A----</AM>
-<AM lemma="Virginie_;G" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="Virginie_;G_;Y" src="auto" recommended="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1277-001-p1s2W19-Ta">
@@ -614,7 +614,7 @@
 </w.rf>
 <form>Vermont</form>
 <tag>
-<AM lemma="Vermont_;G" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Vermont_;G_;m" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Vermont_;G" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>

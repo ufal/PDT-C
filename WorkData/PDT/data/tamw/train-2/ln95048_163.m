@@ -613,7 +613,7 @@
 <LM>w#w-ln95048-163-p3s1w17</LM>
 </w.rf>
 <form>image</form>
-<tag lemma="image" src="orig" selected="1">NNIXX-----A----</tag>
+<tag lemma="image-2" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln95048-163-p3s1w18">
 <src.rf>manual</src.rf>
@@ -1527,7 +1527,7 @@
 <LM>w#w-ln95048-163-p5s2w6</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8MS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8MS4----------</tag>
 </m>
 <m id="m-ln95048-163-p5s2w7">
 <src.rf>manual</src.rf>
@@ -2114,7 +2114,7 @@
 <LM>w#w-ln95048-163-p6s3w11</LM>
 </w.rf>
 <form>vydání</form>
-<tag lemma="vydání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="vydání_^(*3at)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95048-163-p6s3w12">
 <src.rf>manual</src.rf>

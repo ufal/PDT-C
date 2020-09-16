@@ -95,7 +95,7 @@
 <LM>w#w-mf920924-009-p2s2w2</LM>
 </w.rf>
 <form>dlouhá</form>
-<tag lemma="dlouhý-1_^(fyz._délka;_př._dlouhá_tyč)" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-mf920924-009-p2s2w3">
 <src.rf>manual</src.rf>
@@ -507,7 +507,7 @@
 <LM>w#w-mf920924-009-p2s5w17</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrNS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS1----------</tag>
 </m>
 <m id="m-mf920924-009-p2s5w18">
 <src.rf>manual</src.rf>
@@ -587,7 +587,7 @@
 <LM>w#w-mf920924-009-p2s5w27</LM>
 </w.rf>
 <form>hodiny</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920924-009-p2s5w28">
 <src.rf>manual</src.rf>

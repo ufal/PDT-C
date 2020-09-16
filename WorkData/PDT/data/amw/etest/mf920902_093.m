@@ -176,7 +176,7 @@
 <LM>w#w-mf920902-093-p2s2w8</LM>
 </w.rf>
 <form>Denník</form>
-<tag lemma="denník" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="denník_,i_^(^DS**deník)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920902-093-p2s2w9">
 <src.rf>manual</src.rf>
@@ -363,7 +363,7 @@
 <LM>w#w-mf920902-093-p2s3w14</LM>
 </w.rf>
 <form>Denníku</form>
-<tag lemma="denník" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="denník_,i_^(^DS**deník)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920902-093-p2s3w15">
 <src.rf>manual</src.rf>

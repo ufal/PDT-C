@@ -183,7 +183,7 @@
 <LM>w#w-lnd92257-091-p2s2w17</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8YP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8YP4---------1</tag>
 </m>
 <m id="m-lnd92257-091-p2s2w18">
 <src.rf>manual</src.rf>
@@ -385,7 +385,7 @@
 <LM>w#w-lnd92257-091-p2s3w13</LM>
 </w.rf>
 <form>delší</form>
-<tag lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">AAFS4----2A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFS4----2A----</tag>
 </m>
 <m id="m-lnd92257-091-p2s3w14">
 <src.rf>manual</src.rf>
@@ -563,7 +563,7 @@
 <LM>w#w-lnd92257-091-p2s4w3</LM>
 </w.rf>
 <form>vykladače</form>
-<tag lemma="vykladač-2_^(kdo_vysvětluje)" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="vykladač" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92257-091-p2s4w4">
 <src.rf>manual</src.rf>

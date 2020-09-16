@@ -101,7 +101,7 @@
 <LM>w#w-ln94200-151-p2s1w7</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-ln94200-151-p2s1w8">
 <src.rf>manual</src.rf>
@@ -141,7 +141,7 @@
 <LM>w#w-ln94200-151-p2s1w12</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS1FS3-------</tag>
 </m>
 <m id="m-ln94200-151-p2s1w13">
 <src.rf>manual</src.rf>
@@ -276,7 +276,7 @@
 <LM>w#w-ln94200-151-p4s1w7</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94200-151-p4s1w8">
 <src.rf>manual</src.rf>
@@ -563,7 +563,7 @@
 <LM>w#w-ln94200-151-p4s4w2</LM>
 </w.rf>
 <form>mého</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS2-S1-------</tag>
+<tag lemma="můj" src="orig" selected="1">PSZS2-S1-------</tag>
 </m>
 <m id="m-ln94200-151-p4s4w3">
 <src.rf>manual</src.rf>
@@ -621,7 +621,7 @@
 <LM>w#w-ln94200-151-p4s5w1</LM>
 </w.rf>
 <form>Ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94200-151-p4s5w2">
 <src.rf>manual</src.rf>
@@ -794,7 +794,7 @@
 <LM>w#w-ln94200-151-p4s6w15</LM>
 </w.rf>
 <form>háji</form>
-<tag lemma="háj_^(př._zelený_háj)" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="háj" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln94200-151-p4s6w16">
 <src.rf>manual</src.rf>
@@ -926,7 +926,7 @@
 <LM>w#w-ln94200-151-p4s7Bw5</LM>
 </w.rf>
 <form>kádr</form>
-<tag lemma="kádr" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="kádr-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94200-151-p4s7Bw6">
 <src.rf>manual</src.rf>
@@ -1256,7 +1256,7 @@
 <LM>w#w-ln94200-151-p5s2w3</LM>
 </w.rf>
 <form>kádru</form>
-<tag lemma="kádr" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="kádr-1" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln94200-151-p5s2w4">
 <src.rf>manual</src.rf>
@@ -2380,7 +2380,7 @@
 <LM>w#w-ln94200-151-p6s4w8</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln94200-151-p6s4w9">
 <src.rf>manual</src.rf>

@@ -645,7 +645,7 @@
 <LM>w#w-ln94210-138-p2s3w4</LM>
 </w.rf>
 <form>jejím</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS7FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS7FS3-------</tag>
 </m>
 <m id="m-ln94210-138-p2s3w5">
 <src.rf>manual</src.rf>
@@ -2503,7 +2503,7 @@
 <LM>w#w-ln94210-138-p6s3w7</LM>
 </w.rf>
 <form>právo</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln94210-138-p6s3w8">
 <src.rf>manual</src.rf>

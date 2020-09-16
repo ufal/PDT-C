@@ -43,7 +43,7 @@
 <LM>w#w-lnd91301-023-p1s1w4</LM>
 </w.rf>
 <form>stojí</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd91301-023-p1s1w5">
 <src.rf>manual</src.rf>
@@ -269,7 +269,7 @@
 <LM>w#w-lnd91301-023-p1s2w17</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd91301-023-p1s2w18">
 <src.rf>manual</src.rf>
@@ -327,7 +327,7 @@
 <LM>w#w-lnd91301-023-p1s3w3</LM>
 </w.rf>
 <form>Marie</form>
-<tag lemma="Marie-1_;Y" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Marie_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd91301-023-p1s3w4">
 <src.rf>manual</src.rf>
@@ -359,7 +359,7 @@
 <LM>w#w-lnd91301-023-p1s3w7</LM>
 </w.rf>
 <form>dlouhých</form>
-<tag lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">AANP2----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AANP2----1A----</tag>
 </m>
 <m id="m-lnd91301-023-p1s3w8">
 <src.rf>manual</src.rf>
@@ -375,7 +375,7 @@
 <LM>w#w-lnd91301-023-p1s3w9</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd91301-023-p1s3w10">
 <src.rf>manual</src.rf>

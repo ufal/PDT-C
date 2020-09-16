@@ -494,7 +494,7 @@
 <LM>w#w-ln94202-21-p3s1w3</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-4_^(v_knize,_rukopise,...)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94202-21-p3s1w4">
 <src.rf>manual</src.rf>

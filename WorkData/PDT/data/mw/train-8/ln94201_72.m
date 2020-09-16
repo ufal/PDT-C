@@ -296,7 +296,7 @@
 <LM>w#w-ln94201-72-p2s1w31</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94201-72-p2s1w32">
 <src.rf>manual</src.rf>
@@ -525,7 +525,7 @@
 <LM>w#w-ln94201-72-p2s2w7</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-ln94201-72-p2s2w8">
 <src.rf>manual</src.rf>
@@ -937,7 +937,7 @@
 <LM>w#w-ln94201-72-p3s1w13</LM>
 </w.rf>
 <form>prvního</form>
-<tag lemma="první" src="orig" selected="1">CrIS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS2----------</tag>
 </m>
 <m id="m-ln94201-72-p3s1w14">
 <src.rf>manual</src.rf>
@@ -1352,7 +1352,7 @@
 <LM>w#w-ln94201-72-p3s3w7</LM>
 </w.rf>
 <form>druhý</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS4----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS4----------</tag>
 </m>
 <m id="m-ln94201-72-p3s3w8">
 <src.rf>manual</src.rf>
@@ -1562,7 +1562,7 @@
 <LM>w#w-ln94201-72-p3s4w16</LM>
 </w.rf>
 <form>co</form>
-<tag lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="co-5_^(př._co_nejméně,_co_nevidět_atd.)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94201-72-p3s4w17">
 <src.rf>manual</src.rf>
@@ -1790,7 +1790,7 @@
 <LM>w#w-ln94201-72-p3s6w12</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-ln94201-72-p3s6w13">
 <src.rf>manual</src.rf>
@@ -2306,7 +2306,7 @@
 <LM>w#w-ln94201-72-p3s9w24</LM>
 </w.rf>
 <form>nejlepším</form>
-<tag lemma="dobrý" src="orig" selected="1">AAMS7----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAMS7----3A----</tag>
 </m>
 <m id="m-ln94201-72-p3s9w25">
 <src.rf>manual</src.rf>
@@ -2792,7 +2792,7 @@
 <LM>w#w-ln94201-72-p4s1w19</LM>
 </w.rf>
 <form>žralokem</form>
-<tag lemma="žralok" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="žralok-1" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94201-72-p4s1w20">
 <src.rf>manual</src.rf>

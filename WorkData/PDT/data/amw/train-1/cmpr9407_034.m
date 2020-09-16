@@ -125,7 +125,7 @@
 <LM>w#w-cmpr9407-034-p4s1w9</LM>
 </w.rf>
 <form>jehož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P1XXXZS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXZS3-------</tag>
 </m>
 <m id="m-cmpr9407-034-p4s1w10">
 <src.rf>manual</src.rf>
@@ -749,7 +749,7 @@
 <LM>w#w-cmpr9407-034-p8s1w5</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FXXFS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1FXXFS3-------</tag>
 </m>
 <m id="m-cmpr9407-034-p8s1w6">
 <src.rf>manual</src.rf>

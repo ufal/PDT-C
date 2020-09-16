@@ -397,7 +397,7 @@
 <tag>
 <AM lemma="Favorit-2_;m_^(vozidlo)" src="orig">NNIS3-----A----</AM>
 <AM lemma="favorit-1_;m" src="auto">NNIS2-----A----</AM>
-<AM lemma="favorit-1_;m" src="auto" recommended="1" selected="1">NNIS3-----A----</AM>
+<AM lemma="favorit-1_^(vozidlo)" src="auto" recommended="1" selected="1">NNIS3-----A----</AM>
 <AM lemma="favorit-1_;m" src="auto">NNIS6-----A----</AM>
 <AM lemma="favorit-2" src="auto">NNMS3-----A---1</AM>
 <AM lemma="favorit-2" src="auto">NNMS6-----A---1</AM>
@@ -1079,7 +1079,7 @@
 <LM>w#w-ln95045-072-p5s1w17</LM>
 </w.rf>
 <form>Miroslav</form>
-<tag lemma="Miroslav_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Miroslav-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-072-p5s1w18">
 <src.rf>manual</src.rf>

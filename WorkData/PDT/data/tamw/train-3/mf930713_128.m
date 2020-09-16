@@ -83,7 +83,7 @@
 <LM>w#w-mf930713-128-p2s1w9</LM>
 </w.rf>
 <form>potřeby</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-mf930713-128-p2s1w10">
 <src.rf>manual</src.rf>
@@ -659,7 +659,7 @@
 <LM>w#w-mf930713-128-p4s1w9</LM>
 </w.rf>
 <form>zdaněných</form>
-<tag lemma="zdaněný_^(vypočítat_daň)_(*3it)" src="auto" selected="1">AAIP2----1A----</tag>
+<tag lemma="zdaněný_^(*3it)" src="auto" selected="1">AAIP2----1A----</tag>
 </m>
 <m id="m-mf930713-128-p4s1w10">
 <src.rf>manual</src.rf>
@@ -1355,7 +1355,7 @@
 <LM>w#w-mf930713-128-p5s1w2</LM>
 </w.rf>
 <form>dovážených</form>
-<tag lemma="dovážený_^(dokončit_vážení)_(*2t)" src="auto" selected="1">AAIP2----1A----</tag>
+<tag lemma="dovážený_^(*2t)_(*3it)" src="auto" selected="1">AAIP2----1A----</tag>
 </m>
 <m id="m-mf930713-128-p5s1w3">
 <src.rf>manual</src.rf>
@@ -2163,7 +2163,7 @@
 <LM>w#w-mf930713-128-p5s5w34</LM>
 </w.rf>
 <form>zdaněné</form>
-<tag lemma="zdaněný_^(vypočítat_daň)_(*3it)" src="auto" selected="1">AAFS2----1A----</tag>
+<tag lemma="zdaněný_^(*3it)" src="auto" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-mf930713-128-p5s5w35">
 <src.rf>manual</src.rf>
@@ -2747,7 +2747,7 @@
 <LM>w#w-mf930713-128-p7s2w12</LM>
 </w.rf>
 <form>zdanění</form>
-<tag lemma="zdanění_^(vypočítat_daň)_(*3it)" src="auto" selected="1">NNNS3-----A----</tag>
+<tag lemma="zdanění_^(*3it)" src="auto" selected="1">NNNS3-----A----</tag>
 </m>
 <m id="m-mf930713-128-p7s2w13">
 <src.rf>manual</src.rf>
@@ -2957,7 +2957,7 @@
 <LM>w#w-mf930713-128-p8s1w16</LM>
 </w.rf>
 <form>dni</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS3-----A---1</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS3-----A---1</tag>
 </m>
 <m id="m-mf930713-128-p8s1w17">
 <src.rf>manual</src.rf>
@@ -3071,7 +3071,7 @@
 <LM>w#w-mf930713-128-p8s2w7</LM>
 </w.rf>
 <form>dni</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS3-----A---1</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS3-----A---1</tag>
 </m>
 <m id="m-mf930713-128-p8s2w8">
 <src.rf>manual</src.rf>
@@ -3169,7 +3169,7 @@
 <LM>w#w-mf930713-128-p8s3w11</LM>
 </w.rf>
 <form>prostředky</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP7-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP7-----A----</tag>
 </m>
 <m id="m-mf930713-128-p8s3w12">
 <src.rf>manual</src.rf>
@@ -3517,7 +3517,7 @@
 <LM>w#w-mf930713-128-p9s2w10</LM>
 </w.rf>
 <form>dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930713-128-p9s2w11">
 <src.rf>manual</src.rf>
@@ -3533,7 +3533,7 @@
 <LM>w#w-mf930713-128-p9s2w12</LM>
 </w.rf>
 <form>zdanitelného</form>
-<tag lemma="zdanitelný_^(vypočítat_daň)_(*4)" src="auto" selected="1">AANS2----1A----</tag>
+<tag lemma="zdanitelný_^(*4)" src="auto" selected="1">AANS2----1A----</tag>
 </m>
 <m id="m-mf930713-128-p9s2w13">
 <src.rf>manual</src.rf>
@@ -3615,7 +3615,7 @@
 <LM>w#w-mf930713-128-p9s3w8</LM>
 </w.rf>
 <form>zjednodušeného</form>
-<tag lemma="zjednodušený_,s_^(*2t)" src="auto" selected="1">AAIS2----1A----</tag>
+<tag lemma="zjednodušený_^(*2t)_(*3it)" src="auto" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-mf930713-128-p9s3w9">
 <src.rf>manual</src.rf>
@@ -3655,7 +3655,7 @@
 <LM>w#w-mf930713-128-p9s3w13</LM>
 </w.rf>
 <form>zdanitelného</form>
-<tag lemma="zdanitelný_^(vypočítat_daň)_(*4)" src="auto" selected="1">AANS2----1A----</tag>
+<tag lemma="zdanitelný_^(*4)" src="auto" selected="1">AANS2----1A----</tag>
 </m>
 <m id="m-mf930713-128-p9s3w14">
 <src.rf>manual</src.rf>
@@ -3918,7 +3918,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>

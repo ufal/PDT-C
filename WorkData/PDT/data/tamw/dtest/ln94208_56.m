@@ -190,7 +190,7 @@
 <LM>w#w-ln94208-56-p2s1Cw2</LM>
 </w.rf>
 <form>výbor</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94208-56-p2s1Cw3">
 <src.rf>manual</src.rf>
@@ -464,7 +464,7 @@
 <LM>w#w-ln94208-56-p2s3w8</LM>
 </w.rf>
 <form>kandidátky</form>
-<tag lemma="kandidátka_^(seznam_kandidátů)" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="kandidátka_^(*2)" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-ln94208-56-p2s3w9">
 <src.rf>manual</src.rf>
@@ -893,7 +893,7 @@
 <LM>w#w-ln94208-56-p3s1w10</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS2---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS2---------1</tag>
 </m>
 <m id="m-ln94208-56-p3s1w11">
 <src.rf>manual</src.rf>
@@ -901,7 +901,7 @@
 <LM>w#w-ln94208-56-p3s1w11</LM>
 </w.rf>
 <form>kandidátky</form>
-<tag lemma="kandidátka_^(seznam_kandidátů)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="kandidátka_^(*2)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94208-56-p3s1w12">
 <src.rf>manual</src.rf>
@@ -989,7 +989,7 @@
 <LM>w#w-ln94208-56-p3s1w22</LM>
 </w.rf>
 <form>Miroslava</form>
-<tag lemma="Miroslav_;Y" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Miroslav-1_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94208-56-p3s1w23">
 <src.rf>manual</src.rf>

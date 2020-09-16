@@ -617,7 +617,7 @@
 <LM>w#w-lnd94103-091-p1s3w14</LM>
 </w.rf>
 <form>Miroslav</form>
-<tag lemma="Miroslav_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Miroslav-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-091-p1s3w15">
 <src.rf>manual</src.rf>
@@ -1119,7 +1119,7 @@
 <LM>w#w-lnd94103-091-p1s8w8</LM>
 </w.rf>
 <form>Vsetínského</form>
-<tag lemma="vsetínský_;G" src="orig" selected="1">AAIS2----1A----</tag>
+<tag lemma="vsetínský" src="orig" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-lnd94103-091-p1s8w9">
 <src.rf>manual</src.rf>

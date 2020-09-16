@@ -120,7 +120,7 @@
 <LM>w#w-lnd94101-051-p1s3w2</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-lnd94101-051-p1s3w3">
 <src.rf>manual</src.rf>
@@ -136,7 +136,7 @@
 <LM>w#w-lnd94101-051-p1s3w4</LM>
 </w.rf>
 <form>hnutí</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNP1-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNP1-----A----</tag>
 </m>
 <m id="m-lnd94101-051-p1s3w5">
 <src.rf>manual</src.rf>
@@ -706,7 +706,7 @@
 <LM>w#w-lnd94101-051-p1s6w3</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-lnd94101-051-p1s6w4">
 <src.rf>manual</src.rf>
@@ -818,7 +818,7 @@
 <LM>w#w-lnd94101-051-p1s6w17</LM>
 </w.rf>
 <form>orgánů</form>
-<tag lemma="orgán" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-lnd94101-051-p1s6w18">
 <src.rf>manual</src.rf>
@@ -836,7 +836,7 @@
 <LM>w#w-lnd94101-051-p1s7w1</LM>
 </w.rf>
 <form>Strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-lnd94101-051-p1s7w2">
 <src.rf>manual</src.rf>
@@ -1170,7 +1170,7 @@
 <LM>w#w-lnd94101-051-p1s9w4</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-lnd94101-051-p1s9w5">
 <src.rf>manual</src.rf>
@@ -1551,7 +1551,7 @@
 <LM>w#w-lnd94101-051-p1s11w23</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-lnd94101-051-p1s11w24">
 <src.rf>manual</src.rf>
@@ -1567,7 +1567,7 @@
 <LM>w#w-lnd94101-051-p1s11w25</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94101-051-p1s11w26">
 <src.rf>manual</src.rf>
@@ -1755,7 +1755,7 @@
 <LM>w#w-lnd94101-051-p1s13w8</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-lnd94101-051-p1s13w9">
 <src.rf>manual</src.rf>
@@ -1880,7 +1880,7 @@
 <LM>w#w-lnd94101-051-p1s14w5</LM>
 </w.rf>
 <form>členem</form>
-<tag lemma="člen" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd94101-051-p1s14w6">
 <src.rf>manual</src.rf>
@@ -1912,7 +1912,7 @@
 <LM>w#w-lnd94101-051-p1s14w9</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94101-051-p1s14w10">
 <src.rf>manual</src.rf>
@@ -2199,7 +2199,7 @@
 <LM>w#w-lnd94101-051-p1s17w1</LM>
 </w.rf>
 <form>Strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-lnd94101-051-p1s17w2">
 <src.rf>manual</src.rf>
@@ -2215,7 +2215,7 @@
 <LM>w#w-lnd94101-051-p1s17w3</LM>
 </w.rf>
 <form>hnutí</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNP1-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNP1-----A----</tag>
 </m>
 <m id="m-lnd94101-051-p1s17w4">
 <src.rf>manual</src.rf>
@@ -2247,7 +2247,7 @@
 <LM>w#w-lnd94101-051-p1s17w7</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FP4---------1</tag>
 </m>
 <m id="m-lnd94101-051-p1s17w8">
 <src.rf>manual</src.rf>

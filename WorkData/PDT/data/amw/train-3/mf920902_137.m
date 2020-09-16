@@ -53,7 +53,7 @@
 <LM>w#w-mf920902-137-p1s1Bw2</LM>
 </w.rf>
 <form>NE</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf920902-137-p1s1Bw3">
 <src.rf>manual</src.rf>
@@ -769,7 +769,7 @@
 <LM>w#w-mf920902-137-p3s1w28</LM>
 </w.rf>
 <form>ohlášeného</form>
-<tag lemma="ohlášený_,a_^(*4sit)" src="auto" selected="1">AANS2----1A----</tag>
+<tag lemma="ohlášený_^(*2t)_(*4sit)" src="auto" selected="1">AANS2----1A----</tag>
 </m>
 <m id="m-mf920902-137-p3s1w29">
 <src.rf>manual</src.rf>

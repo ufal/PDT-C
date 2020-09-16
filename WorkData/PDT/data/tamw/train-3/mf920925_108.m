@@ -532,7 +532,7 @@
 <LM>w#w-mf920925-108-p3s2w18</LM>
 </w.rf>
 <form>Bihače</form>
-<tag lemma="Bihač_;G" src="auto" selected="1">NNIS2-----A----</tag>
+<tag lemma="Bihač-2_;G" src="auto" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920925-108-p3s2w19">
 <src.rf>manual</src.rf>
@@ -1047,7 +1047,7 @@
 <LM>w#w-mf920925-108-p5s1w21</LM>
 </w.rf>
 <form>výbor</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-mf920925-108-p5s1w22">
 <src.rf>manual</src.rf>

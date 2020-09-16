@@ -263,7 +263,7 @@
 </w.rf>
 <form>svoji</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8FS4----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8FS4----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8MP1----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8MP5----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOMP----------1</AM>
@@ -729,7 +729,7 @@
 <AM lemma="kotovaný_,s_^(^DD**kótovat)_(*2t)" src="auto" recommended="1">AAFP1----1A----</AM>
 <AM lemma="kotovaný_,s_^(^DD**kótovat)_(*2t)" src="auto">AAFP4----1A----</AM>
 <AM lemma="kotovaný_,s_^(^DD**kótovat)_(*2t)" src="auto">AAFP5----1A----</AM>
-<AM lemma="kotovaný_,s_^(^DD**kótovat)_(*2t)" src="auto" selected="1">AAFS2----1A----</AM>
+<AM lemma="kotovaný_^(^DD**kótovaný)_(*2t)" src="auto" selected="1">AAFS2----1A----</AM>
 <AM lemma="kotovaný_,s_^(^DD**kótovat)_(*2t)" src="auto">AAFS3----1A----</AM>
 <AM lemma="kotovaný_,s_^(^DD**kótovat)_(*2t)" src="auto">AAFS6----1A----</AM>
 <AM lemma="kotovaný_,s_^(^DD**kótovat)_(*2t)" src="auto">AAIP1----1A----</AM>

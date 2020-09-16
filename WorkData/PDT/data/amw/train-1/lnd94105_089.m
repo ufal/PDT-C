@@ -34,7 +34,7 @@
 <LM>w#w-lnd94105-089-p1s30Bw1</LM>
 </w.rf>
 <form>Úvodní</form>
-<tag lemma="úvodní_,s" src="orig" selected="1">AAIS1----1A----</tag>
+<tag lemma="úvodní" src="orig" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-lnd94105-089-p1s30Bw2">
 <src.rf>manual</src.rf>

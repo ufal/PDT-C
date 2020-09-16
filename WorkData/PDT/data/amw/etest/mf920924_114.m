@@ -27,7 +27,7 @@
 <LM>w#w-mf920924-114-p1s1w2</LM>
 </w.rf>
 <form>výbory</form>
-<tag lemma="výbor" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-mf920924-114-p1s1w3">
 <src.rf>manual</src.rf>
@@ -206,7 +206,7 @@
 <LM>w#w-mf920924-114-p2s1w17</LM>
 </w.rf>
 <form>výbory</form>
-<tag lemma="výbor" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-mf920924-114-p2s1w18">
 <src.rf>manual</src.rf>
@@ -483,7 +483,7 @@
 <LM>w#w-mf920924-114-p2s3w16</LM>
 </w.rf>
 <form>vyhlášeného</form>
-<tag lemma="vyhlášený_,a_^(*4sit)" src="orig" selected="1">AANS2----1A----</tag>
+<tag lemma="vyhlášený_^(*2t)_(*4sit)" src="orig" selected="1">AANS2----1A----</tag>
 </m>
 <m id="m-mf920924-114-p2s3w17">
 <src.rf>manual</src.rf>
@@ -767,7 +767,7 @@
 <LM>w#w-mf920924-114-p2s4w2</LM>
 </w.rf>
 <form>diskusi</form>
-<tag lemma="diskuse" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="diskuse_,s_^(^DD**diskuze)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf920924-114-p2s4w3">
 <src.rf>manual</src.rf>

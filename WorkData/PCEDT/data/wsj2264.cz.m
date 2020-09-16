@@ -906,7 +906,7 @@
 <form>Scotta</form>
 <tag>
 <AM lemma="Scott_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Scott_;Y" src="auto" selected="1">NNMS4-----A----</AM>
+<AM lemma="Scott-1_;Y" src="auto" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2264-001-p1s4W8-Ta">
@@ -966,7 +966,7 @@
 <form>pas</form>
 <tag>
 <AM lemma="pas-2_^(na_lidském_těle;;cestovní)" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="pas-2_^(na_lidském_těle;;cestovní)" src="auto" selected="1">NNIS4-----A----</AM>
+<AM lemma="pas-1_^(přihrávka,_př._v_kopané,na_lidském_těle;;cestovní)" src="auto" selected="1">NNIS4-----A----</AM>
 <AM lemma="pas-3_^(přihrávka,_př._v_kopané)" src="auto">NNIS1-----A----</AM>
 <AM lemma="pas-3_^(přihrávka,_př._v_kopané)" src="auto">NNIS4-----A----</AM>
 <AM lemma="pas-77" src="auto">F%-------------</AM>
@@ -1520,7 +1520,7 @@
 <AM lemma="vězení_^(místo_výkonu_trestu)_(*3it)" src="auto">NNNP4-----A----</AM>
 <AM lemma="vězení_^(místo_výkonu_trestu)_(*3it)" src="auto">NNNP5-----A----</AM>
 <AM lemma="vězení_^(místo_výkonu_trestu)_(*3it)" src="auto">NNNS1-----A----</AM>
-<AM lemma="vězení_^(místo_výkonu_trestu)_(*3it)" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="vězení_^(místo_výkonu_trestu)" src="auto" recommended="1">NNNS2-----A----</AM>
 <AM lemma="vězení_^(místo_výkonu_trestu)_(*3it)" src="auto">NNNS3-----A----</AM>
 <AM lemma="vězení_^(místo_výkonu_trestu)_(*3it)" src="auto">NNNS4-----A----</AM>
 <AM lemma="vězení_^(místo_výkonu_trestu)_(*3it)" src="auto">NNNS5-----A----</AM>
@@ -4022,7 +4022,7 @@
 <AM lemma="jeho_^(přivlast.)" src="auto">PSIS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSNS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP1FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto" selected="1">P9XP4FS3-------</AM>
+<AM lemma="jeho" src="auto" selected="1">P9XP4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP5FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSZS1FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSZS5FS3-------</AM>
@@ -4623,7 +4623,7 @@
 </w.rf>
 <form>Výbor</form>
 <tag>
-<AM lemma="výbor" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="výbor-1" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="výbor" src="auto">NNIS4-----A----</AM>
 <AM lemma="výbor" src="auto">NNMS1-----A----</AM>
 </tag>
@@ -4750,7 +4750,7 @@
 <AM lemma="zatčení_^(*4knout)" src="auto">NNNP2-----A----</AM>
 <AM lemma="zatčení_^(*4knout)" src="auto">NNNP4-----A----</AM>
 <AM lemma="zatčení_^(*4knout)" src="auto">NNNP5-----A----</AM>
-<AM lemma="zatčení_^(*4knout)" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="zatčení" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="zatčení_^(*4knout)" src="auto">NNNS2-----A----</AM>
 <AM lemma="zatčení_^(*4knout)" src="auto">NNNS3-----A----</AM>
 <AM lemma="zatčení_^(*4knout)" src="auto">NNNS4-----A----</AM>
@@ -5430,7 +5430,7 @@
 <tag>
 <AM lemma="hnutý_^(*3out)" src="auto">AAMP1----1A----</AM>
 <AM lemma="hnutý_^(*3out)" src="auto">AAMP5----1A----</AM>
-<AM lemma="hnutí_^(mysli,politické,...)_(*3out)" src="auto" selected="1">NNNP1-----A----</AM>
+<AM lemma="hnutí_^(*3out)" src="auto" selected="1">NNNP1-----A----</AM>
 <AM lemma="hnutí_^(mysli,politické,...)_(*3out)" src="auto">NNNP2-----A----</AM>
 <AM lemma="hnutí_^(mysli,politické,...)_(*3out)" src="auto">NNNP4-----A----</AM>
 <AM lemma="hnutí_^(mysli,politické,...)_(*3out)" src="auto">NNNP5-----A----</AM>
@@ -5477,7 +5477,7 @@
 <tag>
 <AM lemma="práv_^(oprávněný)" src="auto">ACQW------A----</AM>
 <AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto">NNNP1-----A----</AM>
-<AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto" recommended="1">NNNP4-----A----</AM>
+<AM lemma="právo" src="auto" recommended="1">NNNP4-----A----</AM>
 <AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto">NNNP5-----A----</AM>
 <AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto">NNNS2-----A----</AM>
 </tag>
@@ -5758,7 +5758,7 @@
 <AM lemma="Linnův_;Y_^(*2a)" src="auto">AUFS1M---------</AM>
 <AM lemma="Linnův_;Y_^(*2a)" src="auto">AUFS5M---------</AM>
 <AM lemma="Linnův_;Y_^(*2a)" src="auto">AUIS2M---------</AM>
-<AM lemma="Linnův_;Y_^(*2a)" src="auto" recommended="1">AUMS2M---------</AM>
+<AM lemma="Linnův_;Y_^(*2-2)_(*2a)" src="auto" recommended="1">AUMS2M---------</AM>
 <AM lemma="Linnův_;Y_^(*2a)" src="auto">AUMS4M---------</AM>
 <AM lemma="Linnův_;Y_^(*2a)" src="auto">AUNP1M---------</AM>
 <AM lemma="Linnův_;Y_^(*2a)" src="auto">AUNP4M---------</AM>

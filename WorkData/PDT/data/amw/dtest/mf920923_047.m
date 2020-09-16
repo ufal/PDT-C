@@ -27,7 +27,7 @@
 <LM>w#w-mf920923-047-p1s1w2</LM>
 </w.rf>
 <form>dál</form>
-<tag lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="dál-3_,s_^(také,_za_další)_(^DD**dále-3)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf920923-047-p1s1w3">
 <src.rf>manual</src.rf>
@@ -380,7 +380,7 @@
 <LM>w#w-mf920923-047-p2s3w7</LM>
 </w.rf>
 <form>dál</form>
-<tag lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="dál-3_,s_^(také,_za_další)_(^DD**dále-3)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf920923-047-p2s3w8">
 <src.rf>manual</src.rf>
@@ -1336,7 +1336,7 @@
 <LM>w#w-mf920923-047-p2s6w13</LM>
 </w.rf>
 <form>potřeby</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-mf920923-047-p2s6w14">
 <src.rf>manual</src.rf>

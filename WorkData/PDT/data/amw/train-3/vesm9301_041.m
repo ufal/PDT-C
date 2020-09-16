@@ -289,7 +289,7 @@
 <LM>w#w-vesm9301-041-p5s1w17</LM>
 </w.rf>
 <form>léta</form>
-<tag lemma="rok" src="orig" selected="1">NNNP4-----A---2</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP4-----A---2</tag>
 </m>
 <m id="m-vesm9301-041-p5s1w18">
 <src.rf>manual</src.rf>
@@ -1350,7 +1350,7 @@
 <LM>w#w-vesm9301-041-p5s6w26</LM>
 </w.rf>
 <form>svoji</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4----------</tag>
 </m>
 <m id="m-vesm9301-041-p5s6w27">
 <src.rf>manual</src.rf>
@@ -1692,7 +1692,7 @@
 <LM>w#w-vesm9301-041-p8s1w5</LM>
 </w.rf>
 <form>model</form>
-<tag lemma="model" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="model-1" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-vesm9301-041-p8s1w6">
 <src.rf>manual</src.rf>
@@ -1963,7 +1963,7 @@
 <LM>w#w-vesm9301-041-p8s2w1</LM>
 </w.rf>
 <form>Model</form>
-<tag lemma="model" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="model-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-vesm9301-041-p8s2w2">
 <src.rf>manual</src.rf>
@@ -2347,7 +2347,7 @@
 <LM>w#w-vesm9301-041-p9s1w19</LM>
 </w.rf>
 <form>zpomalení</form>
-<tag lemma="zpomalení_,s_^(*2t)" src="auto" selected="1">NNNS3-----A----</tag>
+<tag lemma="zpomalení_^(*2t)_(*3it)" src="auto" selected="1">NNNS3-----A----</tag>
 </m>
 <m id="m-vesm9301-041-p9s1w20">
 <src.rf>manual</src.rf>
@@ -3346,7 +3346,7 @@
 <LM>w#w-vesm9301-041-p13s1w24</LM>
 </w.rf>
 <form>leukémií</form>
-<tag lemma="leukémie" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="leukémie_,s_^(^DD**leukemie)" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-vesm9301-041-p13s1w25">
 <src.rf>manual</src.rf>
@@ -3428,7 +3428,7 @@
 <LM>w#w-vesm9301-041-p13s2w6</LM>
 </w.rf>
 <form>výborem</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-vesm9301-041-p13s2w7">
 <src.rf>manual</src.rf>
@@ -3476,7 +3476,7 @@
 <LM>w#w-vesm9301-041-p13s2w12</LM>
 </w.rf>
 <form>politiky</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-vesm9301-041-p13s2w13">
 <src.rf>manual</src.rf>
@@ -3614,7 +3614,7 @@
 <LM>w#w-vesm9301-041-p13s3Aw2</LM>
 </w.rf>
 <form>Své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8YP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8YP4---------1</tag>
 </m>
 <m id="m-vesm9301-041-p13s3Aw3">
 <src.rf>manual</src.rf>
@@ -4275,7 +4275,7 @@
 <LM>w#w-vesm9301-041-p15s1w2</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-vesm9301-041-p15s1w3">
 <src.rf>manual</src.rf>
@@ -4307,7 +4307,7 @@
 <LM>w#w-vesm9301-041-p15s1w6</LM>
 </w.rf>
 <form>ucho</form>
-<tag lemma="ucho" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="ucho-1" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-vesm9301-041-p15s1w7">
 <src.rf>manual</src.rf>
@@ -5515,7 +5515,7 @@
 <LM>w#w-vesm9301-041-p17s1w51</LM>
 </w.rf>
 <form>uchu</form>
-<tag lemma="ucho" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="ucho-1" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-vesm9301-041-p17s1w52">
 <src.rf>manual</src.rf>
@@ -6272,7 +6272,7 @@
 <form>vlákénka</form>
 <tag>
 <AM lemma="vlákénko_,e" src="orig">NNNS2-----A----</AM>
-<AM lemma="vlákénko" src="manual" selected="1">NNNS2-----A----</AM>
+<AM lemma="vlákénko_,e" src="manual" selected="1">NNNS2-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-041-p17s6w15">
@@ -6434,7 +6434,7 @@
 <form>myosin</form>
 <tag>
 <AM lemma="myozin_;U" src="orig">NNIS1-----A----</AM>
-<AM lemma="myosin_;U_,s_^(^DD**myozin)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="myosin_,s_^(^DD**myozin)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-041-p17s8w6">
@@ -7096,7 +7096,7 @@
 <LM>w#w-vesm9301-041-p20s3w9</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-vesm9301-041-p20s3w10">
 <src.rf>manual</src.rf>
@@ -7587,7 +7587,7 @@
 <LM>w#w-vesm9301-041-p20s6w10</LM>
 </w.rf>
 <form>hydroxyfuranová</form>
-<tag lemma="hydroxyfuranový_;U" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="hydroxyfuranový" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-vesm9301-041-p20s6w11">
 <src.rf>manual</src.rf>
@@ -7603,7 +7603,7 @@
 <LM>w#w-vesm9301-041-p20s6w12</LM>
 </w.rf>
 <form>brání</form>
-<tag lemma="bránit_^(klást_překážky)" src="auto" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="bránit" src="auto" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-vesm9301-041-p20s6w13">
 <src.rf>manual</src.rf>
@@ -8350,7 +8350,7 @@
 <LM>w#w-vesm9301-041-p24s2w16</LM>
 </w.rf>
 <form>faktory</form>
-<tag lemma="faktor" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="faktor-1" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-vesm9301-041-p24s2w17">
 <src.rf>manual</src.rf>
@@ -8850,7 +8850,7 @@
 <LM>w#w-vesm9301-041-p24s5w14</LM>
 </w.rf>
 <form>adukty</form>
-<tag lemma="adukt_;U" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="adukt" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-vesm9301-041-p24s5w15">
 <src.rf>manual</src.rf>
@@ -9383,7 +9383,7 @@
 <LM>w#w-vesm9301-041-p28s1w7</LM>
 </w.rf>
 <form>koroně</form>
-<tag lemma="korona" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="korona_,s_^(^DD**koróna)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-vesm9301-041-p28s1w8">
 <src.rf>manual</src.rf>
@@ -9505,7 +9505,7 @@
 <LM>w#w-vesm9301-041-p28s2w8</LM>
 </w.rf>
 <form>radiového</form>
-<tag lemma="radiový" src="orig" selected="1">AANS2----1A----</tag>
+<tag lemma="radiový_,s_^(^DD**rádiový)" src="orig" selected="1">AANS2----1A----</tag>
 </m>
 <m id="m-vesm9301-041-p28s2w9">
 <src.rf>manual</src.rf>
@@ -10108,7 +10108,7 @@
 <LM>w#w-vesm9301-041-p28s6w6</LM>
 </w.rf>
 <form>rys</form>
-<tag lemma="rys" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="rys-2" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-vesm9301-041-p28s6w7">
 <src.rf>manual</src.rf>

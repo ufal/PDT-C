@@ -244,7 +244,7 @@
 <LM>w#w-lnd92259-092-p2s3w8</LM>
 </w.rf>
 <form>dlouhých</form>
-<tag lemma="dlouhý-1_^(fyz._délka;_př._dlouhá_tyč)" src="orig" selected="1">AAFP6----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFP6----1A----</tag>
 </m>
 <m id="m-lnd92259-092-p2s3w9">
 <src.rf>manual</src.rf>
@@ -276,7 +276,7 @@
 <LM>w#w-lnd92259-092-p2s3w12</LM>
 </w.rf>
 <form>km</form>
-<tag lemma="km-1`kilometr" src="orig" selected="1">NNIXX-----A---b</tag>
+<tag lemma="kilometr" src="orig" selected="1">NNIXX-----A---b</tag>
 </m>
 <m id="m-lnd92259-092-p2s3w13">
 <src.rf>manual</src.rf>

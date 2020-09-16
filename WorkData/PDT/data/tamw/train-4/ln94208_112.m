@@ -321,7 +321,7 @@
 <LM>w#w-ln94208-112-p2s1Bw25</LM>
 </w.rf>
 <form>jehož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P1XXXZS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXZS3-------</tag>
 </m>
 <m id="m-ln94208-112-p2s1Bw26">
 <src.rf>manual</src.rf>
@@ -594,7 +594,7 @@
 <LM>w#w-ln94208-112-p2s2w20</LM>
 </w.rf>
 <form>jejímž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1ZS6FS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1ZS6FS3-------</tag>
 </m>
 <m id="m-ln94208-112-p2s2w21">
 <src.rf>manual</src.rf>
@@ -683,7 +683,7 @@
 <LM>w#w-ln94208-112-p2s4w1</LM>
 </w.rf>
 <form>Druhá</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS1----------</tag>
 </m>
 <m id="m-ln94208-112-p2s4w2">
 <src.rf>manual</src.rf>
@@ -814,7 +814,7 @@
 <LM>w#w-ln94208-112-p2s4w14</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-ln94208-112-p2s4w15">
 <src.rf>manual</src.rf>

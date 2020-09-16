@@ -271,7 +271,7 @@
 <LM>w#w-ln94208-1-p1s3w8</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-ln94208-1-p1s3w9">
 <src.rf>manual</src.rf>

@@ -215,7 +215,7 @@
 <LM>w#w-mf920925-092-p2s2w9</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-mf920925-092-p2s2w10">
 <src.rf>manual</src.rf>
@@ -303,7 +303,7 @@
 <LM>w#w-mf920925-092-p2s2w20</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf920925-092-p2s2w21">
 <src.rf>manual</src.rf>
@@ -625,7 +625,7 @@
 <LM>w#w-mf920925-092-p2s4w7</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-mf920925-092-p2s4w8">
 <src.rf>manual</src.rf>
@@ -707,7 +707,7 @@
 <LM>w#w-mf920925-092-p2s5w1</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrFS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS4----------</tag>
 </m>
 <m id="m-mf920925-092-p2s5w2">
 <src.rf>manual</src.rf>

@@ -296,7 +296,7 @@
 <LM>w#w-lnd91303-026-p1s2w10</LM>
 </w.rf>
 <form>postižené</form>
-<tag lemma="postižený_^(*4hnout)" src="orig" selected="1">AAMP4----1A----</tag>
+<tag lemma="postižený" src="orig" selected="1">AAMP4----1A----</tag>
 </m>
 <m id="m-lnd91303-026-p1s2w11">
 <src.rf>manual</src.rf>
@@ -363,7 +363,7 @@
 <LM>w#w-lnd91303-026-p1s2w18</LM>
 </w.rf>
 <form>leukémií</form>
-<tag lemma="leukémie" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="leukémie_,s_^(^DD**leukemie)" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-lnd91303-026-p1s2w19">
 <src.rf>manual</src.rf>

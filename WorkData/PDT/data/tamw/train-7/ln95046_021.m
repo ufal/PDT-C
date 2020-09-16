@@ -117,7 +117,7 @@
 <LM>w#w-ln95046-021-p2s1Bw6</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-ln95046-021-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -235,7 +235,7 @@
 <tag>
 <AM lemma="Québec_;G" src="orig">NNIS1-----A----</AM>
 <AM lemma="Quebec_;G" src="manual">NNIS1-----A----</AM>
-<AM lemma="Quebec_;G_,s_^(^DD**Québec)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Quebec_;G" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-021-p2s1Bw21">
@@ -539,7 +539,7 @@
 <form>Quebeku</form>
 <tag>
 <AM lemma="Quebek_;G" src="orig">NNIS2-----A----</AM>
-<AM lemma="Quebek_;G_,s_^(^DD**Québec)" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Quebek_;G_,s_^(^DD**Quebec)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-021-p2s2w32">
@@ -771,7 +771,7 @@
 <LM>w#w-ln95046-021-p2s4w7</LM>
 </w.rf>
 <form>Yorku</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="York-2_;G_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95046-021-p2s4w8">
 <src.rf>manual</src.rf>
@@ -1050,7 +1050,7 @@
 <LM>w#w-ln95046-021-p2s6w4</LM>
 </w.rf>
 <form>Jezdců</form>
-<tag lemma="jezdec" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="jezdec-1" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln95046-021-p2s6w5">
 <src.rf>manual</src.rf>

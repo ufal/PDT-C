@@ -579,7 +579,7 @@
 <LM>w#w-lnd94101-068-p1s4w15</LM>
 </w.rf>
 <form>Mánes</form>
-<tag lemma="Mánes_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mánes-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-068-p1s4w16">
 <src.rf>manual</src.rf>
@@ -693,7 +693,7 @@
 <LM>w#w-lnd94101-068-p1s5w9</LM>
 </w.rf>
 <form>Pinterova</form>
-<tag lemma="Pinterův_;Y_^(*2a)" src="orig" selected="1">AUMS2M---------</tag>
+<tag lemma="Pinterův_;Y_^(*2)_(*2a)" src="orig" selected="1">AUMS2M---------</tag>
 </m>
 <m id="m-lnd94101-068-p1s5w10">
 <src.rf>manual</src.rf>
@@ -1229,7 +1229,7 @@
 <LM>w#w-lnd94101-068-p1s9w3</LM>
 </w.rf>
 <form>Havelkové</form>
-<tag lemma="Havelková_;Y" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Havelková_;Y_^(*3a)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94101-068-p1s9w4">
 <src.rf>manual</src.rf>
@@ -1293,7 +1293,7 @@
 <LM>w#w-lnd94101-068-p1s9w11</LM>
 </w.rf>
 <form>Husově</form>
-<tag lemma="Husův_;Y_^(*2o)" src="auto" selected="1">AUFS6M---------</tag>
+<tag lemma="Husův_;Y_^(*2-1)_(*2o)" src="auto" selected="1">AUFS6M---------</tag>
 </m>
 <m id="m-lnd94101-068-p1s9w12">
 <src.rf>manual</src.rf>

@@ -368,7 +368,7 @@
 <LM>w#w-mf930713-053-p1s2w2</LM>
 </w.rf>
 <form>ušlý</form>
-<tag lemma="ušlý-2_^(výdělek;_pozornost)_(*5jít-2)" src="orig" selected="1">AAIS4----1A----</tag>
+<tag lemma="ušlý-1_^(*5jít-1)" src="orig" selected="1">AAIS4----1A----</tag>
 </m>
 <m id="m-mf930713-053-p1s2w3">
 <src.rf>manual</src.rf>
@@ -509,7 +509,7 @@
 <LM>w#w-mf930713-053-p1s3w7</LM>
 </w.rf>
 <form>orgánů</form>
-<tag lemma="orgán" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf930713-053-p1s3w8">
 <src.rf>manual</src.rf>
@@ -1078,7 +1078,7 @@
 <LM>w#w-mf930713-053-p2s4w14</LM>
 </w.rf>
 <form>datum</form>
-<tag lemma="datum_^(kalendářní)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="datum-1_^(kalendářní)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf930713-053-p2s4w15">
 <src.rf>manual</src.rf>

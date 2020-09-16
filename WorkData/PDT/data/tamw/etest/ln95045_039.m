@@ -79,7 +79,7 @@
 <LM>w#w-ln95045-039-p2s1Bw4</LM>
 </w.rf>
 <form>tragédií</form>
-<tag lemma="tragedie" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="tragédie" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln95045-039-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -189,7 +189,7 @@
 <LM>w#w-ln95045-039-p2s1Bw17</LM>
 </w.rf>
 <form>delší</form>
-<tag lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">AAFS6----2A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFS6----2A----</tag>
 </m>
 <m id="m-ln95045-039-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -561,7 +561,7 @@
 <LM>w#w-ln95045-039-p3s1w18</LM>
 </w.rf>
 <form>nedomyšlené</form>
-<tag lemma="domyšlený_^(*5slet)" src="orig" selected="1">AAFS3----1N----</tag>
+<tag lemma="domyšlený_^(*5slit)" src="orig" selected="1">AAFS3----1N----</tag>
 </m>
 <m id="m-ln95045-039-p3s1w19">
 <src.rf>manual</src.rf>
@@ -693,7 +693,7 @@
 <LM>w#w-ln95045-039-p3s3w7</LM>
 </w.rf>
 <form>našeho</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSZS2-P1-------</tag>
 </m>
 <m id="m-ln95045-039-p3s3w8">
 <src.rf>manual</src.rf>
@@ -805,7 +805,7 @@
 <LM>w#w-ln95045-039-p3s3w21</LM>
 </w.rf>
 <form>dané</form>
-<tag lemma="daný_^(*3át)" src="auto" selected="1">AANS4----1A----</tag>
+<tag lemma="daný-1_^(*5át-1)" src="auto" selected="1">AANS4----1A----</tag>
 </m>
 <m id="m-ln95045-039-p3s3w22">
 <src.rf>manual</src.rf>
@@ -927,7 +927,7 @@
 <LM>w#w-ln95045-039-p3s4w13</LM>
 </w.rf>
 <form>omšelými</form>
-<tag lemma="omšelý_^(*2t)" src="auto" selected="1">AAFP7----1A----</tag>
+<tag lemma="omšelý_^(*3ít)" src="auto" selected="1">AAFP7----1A----</tag>
 </m>
 <m id="m-ln95045-039-p3s4w14">
 <src.rf>manual</src.rf>
@@ -1227,7 +1227,7 @@
 <LM>w#w-ln95045-039-p3s6w13</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln95045-039-p3s6w14">
 <src.rf>manual</src.rf>
@@ -1267,7 +1267,7 @@
 <LM>w#w-ln95045-039-p3s6w18</LM>
 </w.rf>
 <form>úvodní</form>
-<tag lemma="úvodní_,s" src="orig" selected="1">AANS1----1A----</tag>
+<tag lemma="úvodní" src="orig" selected="1">AANS1----1A----</tag>
 </m>
 <m id="m-ln95045-039-p3s6w19">
 <src.rf>manual</src.rf>
@@ -2007,7 +2007,7 @@
 <LM>w#w-ln95045-039-p4s5w7</LM>
 </w.rf>
 <form>událostí</form>
-<tag lemma="událost_,a_^(*3ý)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="událost" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln95045-039-p4s5w8">
 <src.rf>manual</src.rf>
@@ -2482,7 +2482,7 @@
 <LM>w#w-ln95045-039-p5s1w18</LM>
 </w.rf>
 <form>role</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="role_^(svitek_poslání_pozemek)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95045-039-p5s1w19">
 <src.rf>manual</src.rf>
@@ -2646,7 +2646,7 @@
 <LM>w#w-ln95045-039-p5s3w1</LM>
 </w.rf>
 <form>Muchův</form>
-<tag lemma="Muchův_;Y_^(*2a)" src="orig" selected="1">AUMS1M---------</tag>
+<tag lemma="Muchův_;Y_^(*2a)_(*2o)" src="orig" selected="1">AUMS1M---------</tag>
 </m>
 <m id="m-ln95045-039-p5s3w2">
 <src.rf>manual</src.rf>
@@ -2782,7 +2782,7 @@
 <LM>w#w-ln95045-039-p5s3w18</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFP1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFP1----------</tag>
 </m>
 <m id="m-ln95045-039-p5s3w19">
 <src.rf>manual</src.rf>
@@ -3340,7 +3340,7 @@
 <LM>w#w-ln95045-039-p6s1w2</LM>
 </w.rf>
 <form>zamlženým</form>
-<tag lemma="zamlžený_,a_^(*2t)" src="auto" selected="1">AAIS7----1A----</tag>
+<tag lemma="zamlžený_^(*3it)" src="auto" selected="1">AAIS7----1A----</tag>
 </m>
 <m id="m-ln95045-039-p6s1w3">
 <src.rf>manual</src.rf>
@@ -4109,7 +4109,7 @@
 <form>Machalická</form>
 <tag>
 <AM lemma="Machalický_;Y" src="orig">NNFS1-----A----</AM>
-<AM lemma="Machalická_;Y" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
+<AM lemma="Machalická_;Y_^(*1ý)" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 <AM lemma="Machalická_;Y" src="auto">NNFS5-----A----</AM>
 </tag>
 </m>

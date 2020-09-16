@@ -77,7 +77,7 @@
 <LM>w#w-ln95040-098-p2s1w6</LM>
 </w.rf>
 <form>Miroslav</form>
-<tag lemma="Miroslav_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Miroslav-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-098-p2s1w7">
 <src.rf>manual</src.rf>
@@ -281,7 +281,7 @@
 <LM>w#w-ln95040-098-p3s1w10</LM>
 </w.rf>
 <form>Miroslav</form>
-<tag lemma="Miroslav_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Miroslav-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-098-p3s1w11">
 <src.rf>manual</src.rf>
@@ -444,7 +444,7 @@
 <LM>w#w-ln95040-098-p3s1w30</LM>
 </w.rf>
 <form>rafinérií</form>
-<tag lemma="rafinérie" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="rafinérie_,s_^(^DD**rafinerie)" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln95040-098-p3s1w31">
 <src.rf>manual</src.rf>
@@ -859,7 +859,7 @@
 <form>Agip</form>
 <tag>
 <AM lemma="Agip_;Y" src="orig">NNIS1-----A----</AM>
-<AM lemma="Agip-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Agip_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-098-p3s3w26">
@@ -938,7 +938,7 @@
 <LM>w#w-ln95040-098-p3s3w34</LM>
 </w.rf>
 <form>rafinérií</form>
-<tag lemma="rafinérie" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="rafinérie_,s_^(^DD**rafinerie)" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln95040-098-p3s3w35">
 <src.rf>manual</src.rf>
@@ -1034,7 +1034,7 @@
 <LM>w#w-ln95040-098-p3s3w46</LM>
 </w.rf>
 <form>pozdním</form>
-<tag lemma="pozdní-2_^(v_roce,_ročním_období)" src="orig" selected="1">AANS7----1A----</tag>
+<tag lemma="pozdní" src="orig" selected="1">AANS7----1A----</tag>
 </m>
 <m id="m-ln95040-098-p3s3w47">
 <src.rf>manual</src.rf>
@@ -1050,7 +1050,7 @@
 <LM>w#w-ln95040-098-p3s3w48</LM>
 </w.rf>
 <form>Miroslava</form>
-<tag lemma="Miroslav_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Miroslav-1_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95040-098-p3s3w49">
 <src.rf>manual</src.rf>
@@ -1143,7 +1143,7 @@
 <LM>w#w-ln95040-098-p3s4w6</LM>
 </w.rf>
 <form>členem</form>
-<tag lemma="člen" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95040-098-p3s4w7">
 <src.rf>manual</src.rf>
@@ -1215,7 +1215,7 @@
 <LM>w#w-ln95040-098-p3s4w15</LM>
 </w.rf>
 <form>rafinérie</form>
-<tag lemma="rafinérie" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="rafinérie_,s_^(^DD**rafinerie)" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-ln95040-098-p3s4w16">
 <src.rf>manual</src.rf>
@@ -1335,7 +1335,7 @@
 <LM>w#w-ln95040-098-p3s5w10</LM>
 </w.rf>
 <form>Miroslav</form>
-<tag lemma="Miroslav_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Miroslav-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-098-p3s5w11">
 <src.rf>manual</src.rf>
@@ -1584,7 +1584,7 @@
 <LM>w#w-ln95040-098-p3s6w16</LM>
 </w.rf>
 <form>vydání</form>
-<tag lemma="vydání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="vydání_^(*3at)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln95040-098-p3s6w17">
 <src.rf>manual</src.rf>
@@ -1600,7 +1600,7 @@
 <LM>w#w-ln95040-098-p3s6w18</LM>
 </w.rf>
 <form>rafinérií</form>
-<tag lemma="rafinérie" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="rafinérie_,s_^(^DD**rafinerie)" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln95040-098-p3s6w19">
 <src.rf>manual</src.rf>

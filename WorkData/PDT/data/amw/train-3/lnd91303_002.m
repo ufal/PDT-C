@@ -705,7 +705,7 @@
 <LM>w#w-lnd91303-002-p3s3w25</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-lnd91303-002-p3s3w26">
 <src.rf>manual</src.rf>
@@ -991,7 +991,7 @@
 <LM>w#w-lnd91303-002-p4s1w1</LM>
 </w.rf>
 <form>Zamyšlení</form>
-<tag lemma="zamyšlení_^(*5slet)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="zamyšlení_^(*5slit)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-lnd91303-002-p4s1w2">
 <src.rf>manual</src.rf>

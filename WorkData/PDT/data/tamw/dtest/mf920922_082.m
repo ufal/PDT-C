@@ -77,7 +77,7 @@
 <LM>w#w-mf920922-082-p2s1w3</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP2-P1-------</tag>
 </m>
 <m id="m-mf920922-082-p2s1w4">
 <src.rf>manual</src.rf>
@@ -274,7 +274,7 @@
 <LM>w#w-mf920922-082-p2s2w8</LM>
 </w.rf>
 <form>náš</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSYS1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSYS1-P1-------</tag>
 </m>
 <m id="m-mf920922-082-p2s2w9">
 <src.rf>manual</src.rf>
@@ -723,7 +723,7 @@
 <LM>w#w-mf920922-082-p2s5w9</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf920922-082-p2s5w10">
 <src.rf>manual</src.rf>
@@ -885,7 +885,7 @@
 <LM>w#w-mf920922-082-p2s6w7</LM>
 </w.rf>
 <form>nejlepších</form>
-<tag lemma="dobrý" src="orig" selected="1">AAMP2----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAMP2----3A----</tag>
 </m>
 <m id="m-mf920922-082-p2s6w8">
 <src.rf>manual</src.rf>
@@ -1469,7 +1469,7 @@
 <LM>w#w-mf920922-082-p2s11w8</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP2-P1-------</tag>
 </m>
 <m id="m-mf920922-082-p2s11w9">
 <src.rf>manual</src.rf>
@@ -2078,7 +2078,7 @@
 <LM>w#w-mf920922-082-p2s14w13</LM>
 </w.rf>
 <form>náš</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSIS4-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSIS4-P1-------</tag>
 </m>
 <m id="m-mf920922-082-p2s14w14">
 <src.rf>manual</src.rf>

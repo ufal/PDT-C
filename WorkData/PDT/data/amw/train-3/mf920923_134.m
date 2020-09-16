@@ -53,7 +53,7 @@
 <LM>w#w-mf920923-134-p1s2w2</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-mf920923-134-p1s2w3">
 <src.rf>manual</src.rf>
@@ -437,7 +437,7 @@
 <LM>w#w-mf920923-134-p2s2w17</LM>
 </w.rf>
 <form>tajnou</form>
-<tag lemma="tajný" src="orig" selected="1">AAFS7----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AAFS7----1A----</tag>
 </m>
 <m id="m-mf920923-134-p2s2w18">
 <src.rf>manual</src.rf>

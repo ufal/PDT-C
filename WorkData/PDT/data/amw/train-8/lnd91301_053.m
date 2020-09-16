@@ -441,7 +441,7 @@
 <LM>w#w-lnd91301-053-p4s2w7</LM>
 </w.rf>
 <form>naši</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS4-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS4-P1-------</tag>
 </m>
 <m id="m-lnd91301-053-p4s2w8">
 <src.rf>manual</src.rf>

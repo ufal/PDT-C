@@ -887,7 +887,7 @@
 <LM>w#w-ln95040-131-p3s2w13</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln95040-131-p3s2w14">
 <src.rf>manual</src.rf>
@@ -1049,7 +1049,7 @@
 <LM>w#w-ln95040-131-p4s1w15</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-ln95040-131-p4s1w16">
 <src.rf>manual</src.rf>
@@ -1410,7 +1410,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1428,7 +1428,7 @@
 <LM>w#w-ln95040-131-p4s3w10</LM>
 </w.rf>
 <form>co</form>
-<tag lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="co-5_^(př._co_nejméně,_co_nevidět_atd.)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95040-131-p4s3w11">
 <src.rf>manual</src.rf>
@@ -1664,7 +1664,7 @@
 <LM>w#w-ln95040-131-p5s1w6</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8NS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8NS4---------1</tag>
 </m>
 <m id="m-ln95040-131-p5s1w7">
 <src.rf>manual</src.rf>
@@ -1720,7 +1720,7 @@
 <LM>w#w-ln95040-131-p5s1w13</LM>
 </w.rf>
 <form>prostředky</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP7-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP7-----A----</tag>
 </m>
 <m id="m-ln95040-131-p5s1w14">
 <src.rf>manual</src.rf>
@@ -2224,7 +2224,7 @@
 <LM>w#w-ln95040-131-p6s2w1</LM>
 </w.rf>
 <form>Jejím</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS7FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS7FS3-------</tag>
 </m>
 <m id="m-ln95040-131-p6s2w2">
 <src.rf>manual</src.rf>

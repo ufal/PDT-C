@@ -468,7 +468,7 @@
 <tag>
 <AM lemma="konsens" src="orig">NNIS4-----A----</AM>
 <AM lemma="konsenzus" src="manual">NNIS4-----A----</AM>
-<AM lemma="konsenzus_,s_^(^DD**konsenz)" src="manual" selected="1">NNIS4-----A----</AM>
+<AM lemma="konsenzus" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-20-p2s4w7">
@@ -493,7 +493,7 @@
 <LM>w#w-ln94209-20-p2s4w9</LM>
 </w.rf>
 <form>daných</form>
-<tag lemma="daný_^(*3át)" src="auto" selected="1">AAFP6----1A----</tag>
+<tag lemma="daný-1_^(*5át-1)" src="auto" selected="1">AAFP6----1A----</tag>
 </m>
 <m id="m-ln94209-20-p2s4w10">
 <src.rf>manual</src.rf>

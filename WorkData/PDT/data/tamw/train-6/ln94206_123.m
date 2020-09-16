@@ -218,7 +218,7 @@
 <LM>w#w-ln94206-123-p2s1Bw20</LM>
 </w.rf>
 <form>Slavie</form>
-<tag lemma="Slavia_;m" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Slavie_;m_,s_^(^DD**Slávie)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94206-123-p2s1Bw21">
 <src.rf>manual</src.rf>
@@ -274,7 +274,7 @@
 <LM>w#w-ln94206-123-p2s1Bw27</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94206-123-p2s1Bw28">
 <src.rf>manual</src.rf>

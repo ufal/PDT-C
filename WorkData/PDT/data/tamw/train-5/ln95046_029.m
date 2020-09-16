@@ -133,7 +133,7 @@
 <LM>w#w-ln95046-029-p2s1w14</LM>
 </w.rf>
 <form>Švédu</form>
-<tag lemma="Švéd_;E" src="orig" selected="1">NNMS3-----A---1</tag>
+<tag lemma="Švéd_;E_;Y" src="orig" selected="1">NNMS3-----A---1</tag>
 </m>
 <m id="m-ln95046-029-p2s1w15">
 <src.rf>manual</src.rf>

@@ -327,7 +327,7 @@
 <LM>w#w-ln95047-047-p3s1w13</LM>
 </w.rf>
 <form>Arthura</form>
-<tag lemma="Arthur_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Arthur_;Y_,s_^(^DD**Artur)" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95047-047-p3s1w14">
 <src.rf>manual</src.rf>

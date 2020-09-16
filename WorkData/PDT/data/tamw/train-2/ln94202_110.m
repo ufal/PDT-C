@@ -568,7 +568,7 @@
 <LM>w#w-ln94202-110-p4s1w22</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-ln94202-110-p4s1w23">
 <src.rf>manual</src.rf>
@@ -602,7 +602,7 @@
 <LM>w#w-ln94202-110-p5s1w2</LM>
 </w.rf>
 <form>boxer</form>
-<tag lemma="boxer" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="boxer-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-110-p5s1w3">
 <src.rf>manual</src.rf>
@@ -658,7 +658,7 @@
 <LM>w#w-ln94202-110-p5s1w9</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-ln94202-110-p5s1w10">
 <src.rf>manual</src.rf>

@@ -947,7 +947,7 @@
 <LM>w#w-ln94209-93-p2s5w35</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-ln94209-93-p2s5w36">
 <src.rf>manual</src.rf>
@@ -1362,7 +1362,7 @@
 <LM>w#w-ln94209-93-p3s3w8</LM>
 </w.rf>
 <form>jet</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="orig" selected="1">Vf--------A-I--</tag>
+<tag lemma="jet-1" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln94209-93-p3s3w9">
 <src.rf>manual</src.rf>
@@ -1394,7 +1394,7 @@
 <LM>w#w-ln94209-93-p3s3w12</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-ln94209-93-p3s3w13">
 <src.rf>manual</src.rf>

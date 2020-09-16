@@ -497,7 +497,7 @@
 <AM lemma="první" src="auto">CrNP4----------</AM>
 <AM lemma="první" src="auto">CrNP5----------</AM>
 <AM lemma="první" src="auto">CrNS1----------</AM>
-<AM lemma="první" src="auto" recommended="1">CrNS4----------</AM>
+<AM lemma="první-1" src="auto" recommended="1">CrNS4----------</AM>
 <AM lemma="první" src="auto">CrNS5----------</AM>
 </tag>
 </m>
@@ -807,7 +807,7 @@
 <AM lemma="Norfolk_;G" src="auto">NNIS2-----A----</AM>
 <AM lemma="Norfolk_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="Norfolk_;G" src="auto">NNIS5-----A----</AM>
-<AM lemma="Norfolk_;G" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="Norfolk_;G_;m" src="auto" recommended="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2447-001-p1s3W23-Ta">
@@ -830,7 +830,7 @@
 <tag>
 <AM lemma="Virginie_;G" src="auto">NNFS3-----A----</AM>
 <AM lemma="Virginie_;G" src="auto">NNFS4-----A----</AM>
-<AM lemma="Virginie_;G" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="Virginie_;G_;Y" src="auto" recommended="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2447-001-p1s3W25-Ta">

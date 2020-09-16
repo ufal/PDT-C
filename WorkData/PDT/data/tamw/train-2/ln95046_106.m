@@ -563,7 +563,7 @@
 <LM>w#w-ln95046-106-p3s3w11</LM>
 </w.rf>
 <form>prostředky</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-ln95046-106-p3s3w12">
 <src.rf>manual</src.rf>
@@ -614,7 +614,7 @@
 <LM>w#w-ln95046-106-p3s3w17</LM>
 </w.rf>
 <form>Rady</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95046-106-p3s3w18">
 <src.rf>manual</src.rf>
@@ -727,7 +727,7 @@
 <LM>w#w-ln95046-106-p3s3w30</LM>
 </w.rf>
 <form>dal</form>
-<tag lemma="dát" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95046-106-p3s3w31">
 <src.rf>manual</src.rf>
@@ -1072,7 +1072,7 @@
 <LM>w#w-ln95046-106-p4s3w4</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-4_^(v_knize,_rukopise,...)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 </s>
 </mdata>

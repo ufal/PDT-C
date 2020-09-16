@@ -87,7 +87,7 @@
 <form>kotovaném</form>
 <tag>
 <AM lemma="kótovaný_^(*2t)" src="orig">AAIS6----1A----</AM>
-<AM lemma="kotovaný_^(*2t)" src="auto" recommended="1" selected="1">AAIS6----1A----</AM>
+<AM lemma="kotovaný_^(^DD**kótovaný)_(*2t)" src="auto" recommended="1" selected="1">AAIS6----1A----</AM>
 <AM lemma="kotovaný_^(*2t)" src="auto">AAMS6----1A----</AM>
 <AM lemma="kotovaný_^(*2t)" src="auto">AANS6----1A----</AM>
 </tag>
@@ -570,7 +570,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -872,7 +872,7 @@
 <form>kotovaných</form>
 <tag>
 <AM lemma="kótovaný_^(*2t)" src="orig">AAFP2----1A----</AM>
-<AM lemma="kotovaný_^(*2t)" src="auto" recommended="1" selected="1">AAFP2----1A----</AM>
+<AM lemma="kotovaný_^(^DD**kótovaný)_(*2t)" src="auto" recommended="1" selected="1">AAFP2----1A----</AM>
 <AM lemma="kotovaný_^(*2t)" src="auto">AAFP6----1A----</AM>
 <AM lemma="kotovaný_^(*2t)" src="auto">AAIP2----1A----</AM>
 <AM lemma="kotovaný_^(*2t)" src="auto">AAIP6----1A----</AM>
@@ -1327,7 +1327,7 @@
 <form>ČEZ</form>
 <tag>
 <AM lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ČEZ-1_;m_^(České_energetické_závody)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČEZ-2_;m_^(České_energetické_závody)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-10-p3s3w22">
@@ -1356,7 +1356,7 @@
 <form>kotovaném</form>
 <tag>
 <AM lemma="kótovaný_^(*2t)" src="orig">AAIS6----1A----</AM>
-<AM lemma="kotovaný_^(*2t)" src="auto" recommended="1" selected="1">AAIS6----1A----</AM>
+<AM lemma="kotovaný_^(^DD**kótovaný)_(*2t)" src="auto" recommended="1" selected="1">AAIS6----1A----</AM>
 <AM lemma="kotovaný_^(*2t)" src="auto">AAMS6----1A----</AM>
 <AM lemma="kotovaný_^(*2t)" src="auto">AANS6----1A----</AM>
 </tag>
@@ -1508,7 +1508,7 @@
 <LM>w#w-ln94210-10-p4s2w4</LM>
 </w.rf>
 <form>zpevněním</form>
-<tag lemma="zpevnění_^(*3it)" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="zpevnění_^(*2t)_(*3it)" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-ln94210-10-p4s2w5">
 <src.rf>manual</src.rf>
@@ -1606,7 +1606,7 @@
 <tag>
 <AM lemma="kótovaný_^(*2t)" src="orig">AAFP6----1N----</AM>
 <AM lemma="kotovaný_^(*2t)" src="auto">AAFP2----1N----</AM>
-<AM lemma="kotovaný_^(*2t)" src="auto" recommended="1" selected="1">AAFP6----1N----</AM>
+<AM lemma="kotovaný_^(^DD**kótovaný)_(*2t)" src="auto" recommended="1" selected="1">AAFP6----1N----</AM>
 <AM lemma="kotovaný_^(*2t)" src="auto">AAIP2----1N----</AM>
 <AM lemma="kotovaný_^(*2t)" src="auto">AAIP6----1N----</AM>
 <AM lemma="kotovaný_^(*2t)" src="auto">AAMP2----1N----</AM>
@@ -1703,7 +1703,7 @@
 <LM>w#w-ln94210-10-p4s3w9</LM>
 </w.rf>
 <form>našeho</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSZS2-P1-------</tag>
 </m>
 <m id="m-ln94210-10-p4s3w10">
 <src.rf>manual</src.rf>
@@ -1841,7 +1841,7 @@
 <LM>w#w-ln94210-10-p4s4w3</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-ln94210-10-p4s4w4">
 <src.rf>manual</src.rf>
@@ -1852,7 +1852,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94210-10-p4s4w5">
@@ -1892,7 +1892,7 @@
 <tag>
 <AM lemma="kótovaný_^(*2t)" src="orig">AAMP7----1A----</AM>
 <AM lemma="kotovaný_^(*2t)" src="auto">AAFP7----1A----</AM>
-<AM lemma="kotovaný_^(*2t)" src="auto" selected="1">AAIP7----1A----</AM>
+<AM lemma="kotovaný_^(^DD**kótovaný)_(*2t)" src="auto" selected="1">AAIP7----1A----</AM>
 <AM lemma="kotovaný_^(*2t)" src="auto" recommended="1">AAMP7----1A----</AM>
 <AM lemma="kotovaný_^(*2t)" src="auto">AANP7----1A----</AM>
 </tag>
@@ -1959,7 +1959,7 @@
 <LM>w#w-ln94210-10-p4s4w16</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1XP1FS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XP1FS3-------</tag>
 </m>
 <m id="m-ln94210-10-p4s4w17">
 <src.rf>manual</src.rf>
@@ -2061,7 +2061,7 @@
 <LM>w#w-ln94210-10-p5s1w3</LM>
 </w.rf>
 <form>spořitelny</form>
-<tag lemma="spořitelna_^(místo;_př._Česká_spořitelna)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="spořitelna" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94210-10-p5s1w4">
 <src.rf>manual</src.rf>
@@ -2433,7 +2433,7 @@
 <LM>w#w-ln94210-10-p6s1w10</LM>
 </w.rf>
 <form>ukazatel</form>
-<tag lemma="ukazatel" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="ukazatel-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94210-10-p6s1w11">
 <src.rf>manual</src.rf>
@@ -2963,7 +2963,7 @@
 <form>ČEZ</form>
 <tag>
 <AM lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ČEZ-1_;m_^(České_energetické_závody)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČEZ-2_;m_^(České_energetické_závody)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-10-p6s5w7">

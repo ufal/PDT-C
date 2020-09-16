@@ -207,7 +207,7 @@
 <LM>w#w-ln94202-68-p2s1Bw10</LM>
 </w.rf>
 <form>jejímž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1ZS6FS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1ZS6FS3-------</tag>
 </m>
 <m id="m-ln94202-68-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -542,7 +542,7 @@
 <LM>w#w-ln94202-68-p3s1w3</LM>
 </w.rf>
 <form>správní</form>
-<tag lemma="správní_^(např._poplatek;_rada;_řád;...)" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="správní_^(správní_rada;_řád)" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-ln94202-68-p3s1w4">
 <src.rf>manual</src.rf>
@@ -550,7 +550,7 @@
 <LM>w#w-ln94202-68-p3s1w4</LM>
 </w.rf>
 <form>rada</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94202-68-p3s1w5">
 <src.rf>manual</src.rf>
@@ -718,7 +718,7 @@
 <LM>w#w-ln94202-68-p4s1w11</LM>
 </w.rf>
 <form>předání</form>
-<tag lemma="předání-3_^(někomu_něco)_(*5at-3)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="předání_^(*3at)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln94202-68-p4s1w12">
 <src.rf>manual</src.rf>
@@ -938,7 +938,7 @@
 <LM>w#w-ln94202-68-p4s2w5</LM>
 </w.rf>
 <form>extremistické</form>
-<tag lemma="extremistický" src="orig" selected="1">AANS1----1A----</tag>
+<tag lemma="extremistický_,s_^(^DD**extrémistický)" src="orig" selected="1">AANS1----1A----</tag>
 </m>
 <m id="m-ln94202-68-p4s2w6">
 <src.rf>manual</src.rf>
@@ -946,7 +946,7 @@
 <LM>w#w-ln94202-68-p4s2w6</LM>
 </w.rf>
 <form>Hnutí</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94202-68-p4s2w7">
 <src.rf>manual</src.rf>
@@ -1279,7 +1279,7 @@
 <LM>w#w-ln94202-68-p5s1w20</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94202-68-p5s1w21">
 <src.rf>manual</src.rf>
@@ -1454,7 +1454,7 @@
 <LM>w#w-ln94202-68-p5s3w5</LM>
 </w.rf>
 <form>výborů</form>
-<tag lemma="výbor" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94202-68-p5s3w6">
 <src.rf>manual</src.rf>

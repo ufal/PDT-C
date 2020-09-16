@@ -152,7 +152,7 @@
 <LM>w#w-lnd94105-003-p1s3w2</LM>
 </w.rf>
 <form>Miroslav</form>
-<tag lemma="Miroslav_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Miroslav-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-003-p1s3w3">
 <src.rf>manual</src.rf>

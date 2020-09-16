@@ -1771,7 +1771,7 @@
 <LM>w#w-ln94202-109-p2s73w1</LM>
 </w.rf>
 <form>Maraton</form>
-<tag lemma="maraton" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="maraton_,s_^(^DD**maratón)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94202-109-p2s73w2">
 <src.rf>manual</src.rf>

@@ -230,7 +230,7 @@
 <LM>w#w-ln94209-97-p2s2w1</LM>
 </w.rf>
 <form>Druhý</form>
-<tag lemma="druhý" src="orig" selected="1">CrMS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrMS1----------</tag>
 </m>
 <m id="m-ln94209-97-p2s2w2">
 <src.rf>manual</src.rf>
@@ -1197,7 +1197,7 @@
 <LM>w#w-ln94209-97-p2s9Aw6</LM>
 </w.rf>
 <form>mým</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS7-S1-------</tag>
+<tag lemma="můj" src="orig" selected="1">PSZS7-S1-------</tag>
 </m>
 <m id="m-ln94209-97-p2s9Aw7">
 <src.rf>manual</src.rf>
@@ -1489,7 +1489,7 @@
 <LM>w#w-ln94209-97-p2s10w2</LM>
 </w.rf>
 <form>druhý</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS4----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS4----------</tag>
 </m>
 <m id="m-ln94209-97-p2s10w3">
 <src.rf>manual</src.rf>
@@ -1604,7 +1604,7 @@
 <LM>w#w-ln94209-97-p2s11w10</LM>
 </w.rf>
 <form>diskuse</form>
-<tag lemma="diskuse" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="diskuse_,s_^(^DD**diskuze)" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-ln94209-97-p2s11w11">
 <src.rf>manual</src.rf>
@@ -1702,7 +1702,7 @@
 <LM>w#w-ln94209-97-p2s12w11</LM>
 </w.rf>
 <form>Head</form>
-<tag lemma="Head_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Head-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-97-p2s12w12">
 <src.rf>manual</src.rf>
@@ -2102,7 +2102,7 @@
 <LM>w#w-ln94209-97-p2s15w1</LM>
 </w.rf>
 <form>Head</form>
-<tag lemma="Head_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Head-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-97-p2s15w2">
 <src.rf>manual</src.rf>

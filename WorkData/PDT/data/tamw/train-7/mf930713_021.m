@@ -36,7 +36,7 @@
 </w.rf>
 <form>Oropesa</form>
 <tag>
-<AM lemma="Oropesa_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Oropesa-2_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Oropesa_;G" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -100,7 +100,7 @@
 <LM>w#w-mf930713-021-p2s1Aw1</LM>
 </w.rf>
 <form>Buffalo</form>
-<tag lemma="Buffalo-1_;G_^(město)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Buffalo-1_;G_;m_^(město_sport._klub)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf930713-021-p2s1Aw2">
 <src.rf>manual</src.rf>
@@ -158,7 +158,7 @@
 <LM>w#w-mf930713-021-p2s1Bw6</LM>
 </w.rf>
 <form>Buffalu</form>
-<tag lemma="Buffalo-1_;G_^(město)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="Buffalo-1_;G_;m_^(město_sport._klub)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-mf930713-021-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -223,7 +223,7 @@
 </w.rf>
 <form>Oropesa</form>
 <tag>
-<AM lemma="Oropesa_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Oropesa-2_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Oropesa_;G" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -376,7 +376,7 @@
 </w.rf>
 <form>Oropesa</form>
 <tag>
-<AM lemma="Oropesa_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Oropesa-2_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Oropesa_;G" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -681,7 +681,7 @@
 </w.rf>
 <form>Oropesa</form>
 <tag>
-<AM lemma="Oropesa_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Oropesa-2_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Oropesa_;G" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -769,7 +769,7 @@
 <LM>w#w-mf930713-021-p2s5w5</LM>
 </w.rf>
 <form>Inghama</form>
-<tag lemma="Ingham_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Ingham-2_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930713-021-p2s5w6">
 <src.rf>manual</src.rf>
@@ -865,7 +865,7 @@
 <LM>w#w-mf930713-021-p2s5w17</LM>
 </w.rf>
 <form>Buffalu</form>
-<tag lemma="Buffalo-1_;G_^(město)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="Buffalo-1_;G_;m_^(město_sport._klub)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-mf930713-021-p2s5w18">
 <src.rf>manual</src.rf>
@@ -921,7 +921,7 @@
 <LM>w#w-mf930713-021-p2s5w24</LM>
 </w.rf>
 <form>Ingham</form>
-<tag lemma="Ingham_;G_;Y" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Ingham-1_;G" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930713-021-p2s5w25">
 <src.rf>manual</src.rf>
@@ -1049,7 +1049,7 @@
 <LM>w#w-mf930713-021-p2s5w40</LM>
 </w.rf>
 <form>tajnosti</form>
-<tag lemma="tajnost_^(*3ý)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="tajnost-1_^(*5ý-1)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf930713-021-p2s5w41">
 <src.rf>manual</src.rf>
@@ -1272,7 +1272,7 @@
 </w.rf>
 <form>Oropesa</form>
 <tag>
-<AM lemma="Oropesa_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Oropesa-2_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Oropesa_;G" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -1440,7 +1440,7 @@
 <LM>w#w-mf930713-021-p2s9w6</LM>
 </w.rf>
 <form>druhým</form>
-<tag lemma="druhý" src="orig" selected="1">CrMS7----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrMS7----------</tag>
 </m>
 <m id="m-mf930713-021-p2s9w7">
 <src.rf>manual</src.rf>
@@ -1504,7 +1504,7 @@
 <LM>w#w-mf930713-021-p2s9w14</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-mf930713-021-p2s9w15">
 <src.rf>manual</src.rf>

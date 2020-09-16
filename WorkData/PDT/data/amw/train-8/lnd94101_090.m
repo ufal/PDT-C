@@ -588,7 +588,7 @@
 <LM>w#w-lnd94101-090-p1s3w10</LM>
 </w.rf>
 <form>druhou</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS4----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS4----------</tag>
 </m>
 <m id="m-lnd94101-090-p1s3w11">
 <src.rf>manual</src.rf>
@@ -882,7 +882,7 @@
 <LM>w#w-lnd94101-090-p1s5w7</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8NS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8NS4---------1</tag>
 </m>
 <m id="m-lnd94101-090-p1s5w8">
 <src.rf>manual</src.rf>
@@ -1005,7 +1005,7 @@
 <LM>w#w-lnd94101-090-p1s6w9</LM>
 </w.rf>
 <form>sezony</form>
-<tag lemma="sezona" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="sezona_,s_^(^DD**sezóna)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94101-090-p1s6w10">
 <src.rf>manual</src.rf>
@@ -1209,7 +1209,7 @@
 <form>Quebeku</form>
 <tag>
 <AM lemma="Quebek_;G" src="orig">NNIS6-----A----</AM>
-<AM lemma="Quebek_;G_,s_^(^DD**Québec)" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="Quebek_;G_,s_^(^DD**Quebec)" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-090-p1s8w9">
@@ -1964,7 +1964,7 @@
 <LM>w#w-lnd94101-090-p1s13w22</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-lnd94101-090-p1s13w23">
 <src.rf>manual</src.rf>
@@ -2228,7 +2228,7 @@
 </w.rf>
 <form>sovětů</form>
 <tag>
-<AM lemma="sovět-2_^(občan_SSSR)" src="orig" selected="1">NNMP2-----A----</AM>
+<AM lemma="sovět-2_,i_^(občan_SSSR)_(^DS**Sovět)" src="orig" selected="1">NNMP2-----A----</AM>
 <AM lemma="sovět-1_^(rada;_výbor)" src="auto" recommended="1">NNIP2-----A----</AM>
 </tag>
 </m>
@@ -2395,7 +2395,7 @@
 <LM>w#w-lnd94101-090-p1s16w3</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP2-P1-------</tag>
 </m>
 <m id="m-lnd94101-090-p1s16w4">
 <src.rf>manual</src.rf>

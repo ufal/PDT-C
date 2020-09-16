@@ -215,7 +215,7 @@
 <LM>w#w-lnd94104-103-p1s3w16</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-lnd94104-103-p1s3w17">
 <src.rf>manual</src.rf>
@@ -239,7 +239,7 @@
 <LM>w#w-lnd94104-103-p1s3w19</LM>
 </w.rf>
 <form>Toulouse</form>
-<tag lemma="Toulouse_;G" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="Toulouse-1_;G" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-lnd94104-103-p1s3w20">
 <src.rf>manual</src.rf>
@@ -279,7 +279,7 @@
 <LM>w#w-lnd94104-103-p1s3w24</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-lnd94104-103-p1s3w25">
 <src.rf>manual</src.rf>
@@ -440,7 +440,7 @@
 <LM>w#w-lnd94104-103-p1s4w16</LM>
 </w.rf>
 <form>manažera</form>
-<tag lemma="manažer" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="manažer-1" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94104-103-p1s4w17">
 <src.rf>manual</src.rf>
@@ -588,7 +588,7 @@
 <LM>w#w-lnd94104-103-p1s6w3</LM>
 </w.rf>
 <form>druhou</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS4----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS4----------</tag>
 </m>
 <m id="m-lnd94104-103-p1s6w4">
 <src.rf>manual</src.rf>

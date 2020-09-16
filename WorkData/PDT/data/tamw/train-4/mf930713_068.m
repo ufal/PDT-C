@@ -680,7 +680,7 @@
 <LM>w#w-mf930713-068-p2s5w8</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-mf930713-068-p2s5w9">
 <src.rf>manual</src.rf>
@@ -1092,7 +1092,7 @@
 <LM>w#w-mf930713-068-p3s3w1</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrFP4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFP4----------</tag>
 </m>
 <m id="m-mf930713-068-p3s3w2">
 <src.rf>manual</src.rf>
@@ -1238,7 +1238,7 @@
 <LM>w#w-mf930713-068-p3s4w9</LM>
 </w.rf>
 <form>delší</form>
-<tag lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">AAFS1----2A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFS1----2A----</tag>
 </m>
 <m id="m-mf930713-068-p3s4w10">
 <src.rf>manual</src.rf>
@@ -1278,7 +1278,7 @@
 <LM>w#w-mf930713-068-p3s4w14</LM>
 </w.rf>
 <form>podání</form>
-<tag lemma="podání_^(něco_[někomu]_[někam])_(*3at)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="podání_^(*3at)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-mf930713-068-p3s4w15">
 <src.rf>manual</src.rf>
@@ -1352,7 +1352,7 @@
 <LM>w#w-mf930713-068-p3s6w7</LM>
 </w.rf>
 <form>stanovených</form>
-<tag lemma="stanovený_^(určit)_(*3it)" src="orig" selected="1">AAIP2----1A----</tag>
+<tag lemma="stanovený_^(*3it)" src="orig" selected="1">AAIP2----1A----</tag>
 </m>
 <m id="m-mf930713-068-p3s6w8">
 <src.rf>manual</src.rf>

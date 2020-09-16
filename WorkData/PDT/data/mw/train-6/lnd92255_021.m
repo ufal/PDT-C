@@ -89,7 +89,7 @@
 <LM>w#w-lnd92255-021-p3s2w3</LM>
 </w.rf>
 <form>dni</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS3-----A---1</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS3-----A---1</tag>
 </m>
 <m id="m-lnd92255-021-p3s2w4">
 <src.rf>manual</src.rf>

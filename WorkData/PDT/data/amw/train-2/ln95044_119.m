@@ -153,7 +153,7 @@
 <LM>w#w-ln95044-119-p2s1Cw2</LM>
 </w.rf>
 <form>spořitelně</form>
-<tag lemma="spořitelna_^(místo;_př._Česká_spořitelna)" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="spořitelna" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-ln95044-119-p2s1Cw3">
 <src.rf>manual</src.rf>
@@ -816,7 +816,7 @@
 <LM>w#w-ln95044-119-p4s1w5</LM>
 </w.rf>
 <form>spořitelny</form>
-<tag lemma="spořitelna_^(místo;_př._Česká_spořitelna)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="spořitelna" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95044-119-p4s1w6">
 <src.rf>manual</src.rf>
@@ -2065,7 +2065,7 @@
 <LM>w#w-ln95044-119-p5s4w25</LM>
 </w.rf>
 <form>jehož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P1XXXZS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXZS3-------</tag>
 </m>
 <m id="m-ln95044-119-p5s4w26">
 <src.rf>manual</src.rf>
@@ -2190,7 +2190,7 @@
 <LM>w#w-ln95044-119-p6s1w8</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP6----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP6----------</tag>
 </m>
 <m id="m-ln95044-119-p6s1w9">
 <src.rf>manual</src.rf>
@@ -2852,7 +2852,7 @@
 <LM>w#w-ln95044-119-p7s1w27</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrIP4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIP4----------</tag>
 </m>
 <m id="m-ln95044-119-p7s1w28">
 <src.rf>manual</src.rf>

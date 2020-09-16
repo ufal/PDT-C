@@ -133,7 +133,7 @@
 <LM>w#w-mf920922-110-p2s2w5</LM>
 </w.rf>
 <form>navrženým</form>
-<tag lemma="navržený_^(*4hnout)" src="orig" selected="1">AAIS7----1A----</tag>
+<tag lemma="navržený" src="orig" selected="1">AAIS7----1A----</tag>
 </m>
 <m id="m-mf920922-110-p2s2w6">
 <src.rf>manual</src.rf>
@@ -253,7 +253,7 @@
 <LM>w#w-mf920922-110-p2s2w20</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrMS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrMS1----------</tag>
 </m>
 <m id="m-mf920922-110-p2s2w21">
 <src.rf>manual</src.rf>

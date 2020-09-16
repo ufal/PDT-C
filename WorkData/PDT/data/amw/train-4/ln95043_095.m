@@ -109,7 +109,7 @@
 <LM>w#w-ln95043-095-p2s1w6</LM>
 </w.rf>
 <form>rysy</form>
-<tag lemma="rys" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="rys-2" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-ln95043-095-p2s1w7">
 <src.rf>manual</src.rf>
@@ -247,7 +247,7 @@
 <LM>w#w-ln95043-095-p2s2w10</LM>
 </w.rf>
 <form>modelu</form>
-<tag lemma="model" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="model-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95043-095-p2s2w11">
 <src.rf>manual</src.rf>
@@ -461,7 +461,7 @@
 <LM>w#w-ln95043-095-p2s4w6</LM>
 </w.rf>
 <form>příjemné</form>
-<tag lemma="příjemný-1_^(všeob.,_poz._emoce)" src="orig" selected="1">AANS4----1A----</tag>
+<tag lemma="příjemný_^(všeob.,_poz._emoce)" src="orig" selected="1">AANS4----1A----</tag>
 </m>
 <m id="m-ln95043-095-p2s4w7">
 <src.rf>manual</src.rf>
@@ -493,7 +493,7 @@
 <LM>w#w-ln95043-095-p2s4w10</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-ln95043-095-p2s4w11">
 <src.rf>manual</src.rf>
@@ -599,7 +599,7 @@
 <LM>w#w-ln95043-095-p2s5w6</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS7----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS7----------</tag>
 </m>
 <m id="m-ln95043-095-p2s5w7">
 <src.rf>manual</src.rf>
@@ -809,7 +809,7 @@
 <LM>w#w-ln95043-095-p2s7w9</LM>
 </w.rf>
 <form>cesty</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-ln95043-095-p2s7w10">
 <src.rf>manual</src.rf>
@@ -1167,7 +1167,7 @@
 <LM>w#w-ln95043-095-p2s10w1</LM>
 </w.rf>
 <form>Příjemná</form>
-<tag lemma="příjemný-1_^(všeob.,_poz._emoce)" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="příjemný_^(všeob.,_poz._emoce)" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-ln95043-095-p2s10w2">
 <src.rf>manual</src.rf>
@@ -1605,7 +1605,7 @@
 <LM>w#w-ln95043-095-p2s13w13</LM>
 </w.rf>
 <form>dá</form>
-<tag lemma="dát" src="orig" selected="1">VB-S---3P-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln95043-095-p2s13w14">
 <src.rf>manual</src.rf>
@@ -2053,7 +2053,7 @@
 <LM>w#w-ln95043-095-p2s15w22</LM>
 </w.rf>
 <form>chybějící</form>
-<tag lemma="chybějící_^(někde_něco_chybí)_(*4t)" src="orig" selected="1">AGIS1-----A----</tag>
+<tag lemma="chybějící_^(*4t)" src="orig" selected="1">AGIS1-----A----</tag>
 </m>
 <m id="m-ln95043-095-p2s15w23">
 <src.rf>manual</src.rf>
@@ -2127,7 +2127,7 @@
 <LM>w#w-ln95043-095-p2s16w7</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFP1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFP1----------</tag>
 </m>
 <m id="m-ln95043-095-p2s16w8">
 <src.rf>manual</src.rf>
@@ -2916,7 +2916,7 @@
 <LM>w#w-ln95043-095-p3s3w29</LM>
 </w.rf>
 <form>km</form>
-<tag lemma="km-1`kilometr" src="orig" selected="1">NNIXX-----A---b</tag>
+<tag lemma="kilometr" src="orig" selected="1">NNIXX-----A---b</tag>
 </m>
 <m id="m-ln95043-095-p3s3w30">
 <src.rf>manual</src.rf>
@@ -3097,7 +3097,7 @@
 <LM>w#w-ln95043-095-p3s4w19</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-ln95043-095-p3s4w20">
 <src.rf>manual</src.rf>
@@ -3380,7 +3380,7 @@
 <LM>w#w-ln95043-095-p4s2w12</LM>
 </w.rf>
 <form>cesty</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-ln95043-095-p4s2w13">
 <src.rf>manual</src.rf>

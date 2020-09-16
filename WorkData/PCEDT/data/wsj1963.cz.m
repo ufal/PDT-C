@@ -669,7 +669,7 @@
 </w.rf>
 <form>jehož</form>
 <tag>
-<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">P1XXXZS3-------</AM>
+<AM lemma="jehož" src="auto" recommended="1">P1XXXZS3-------</AM>
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">PJMS4----------</AM>
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">PJZS2----------</AM>
 </tag>
@@ -1362,7 +1362,7 @@
 <form>dítě</form>
 <tag>
 <AM lemma="dítě" src="auto">NNNS1-----A----</AM>
-<AM lemma="dítě" src="auto" recommended="1">NNNS4-----A----</AM>
+<AM lemma="dítě-1" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="dítě" src="auto">NNNS5-----A----</AM>
 </tag>
 </m>
@@ -1751,7 +1751,7 @@
 <form>Foley</form>
 <tag>
 <AM lemma="Foley-1_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Foley-2_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Foley-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Foley-2_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Foley-2_;Y" src="auto">NNMXX-----A----</AM>
 <AM lemma="Foley-3_;G_,t_^(v_názvu_Foley_Island)" src="auto">AAXXX----1A----</AM>
@@ -2674,7 +2674,7 @@
 </w.rf>
 <form>výboru</form>
 <tag>
-<AM lemma="výbor" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="výbor-1" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="výbor" src="auto">NNIS3-----A----</AM>
 <AM lemma="výbor" src="auto">NNIS6-----A----</AM>
 <AM lemma="výbor" src="auto">NNMS3-----A---1</AM>
@@ -3149,7 +3149,7 @@
 </w.rf>
 <form>svých</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8XP2----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8XP2----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8XP6----------</AM>
 </tag>
 </m>
@@ -3720,7 +3720,7 @@
 <form>Foley</form>
 <tag>
 <AM lemma="Foley-1_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Foley-2_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Foley-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Foley-2_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Foley-2_;Y" src="auto">NNMXX-----A----</AM>
 <AM lemma="Foley-3_;G_,t_^(v_názvu_Foley_Island)" src="auto">AAXXX----1A----</AM>

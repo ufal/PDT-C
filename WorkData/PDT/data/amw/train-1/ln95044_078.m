@@ -852,7 +852,7 @@
 <LM>w#w-ln95044-078-p2s4w25</LM>
 </w.rf>
 <form>Bati</form>
-<tag lemma="Baťa_;Y_;m" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Baťa_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95044-078-p2s4w26">
 <src.rf>manual</src.rf>
@@ -911,7 +911,7 @@
 <LM>w#w-ln95044-078-p2s4w32</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln95044-078-p2s4w33">
 <src.rf>manual</src.rf>

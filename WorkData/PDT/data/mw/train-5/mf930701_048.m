@@ -290,7 +290,7 @@
 <LM>w#w-mf930701-048-p2s2w10</LM>
 </w.rf>
 <form>spirituály</form>
-<tag lemma="spirituál" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="spirituál-1" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-mf930701-048-p2s2w11">
 <src.rf>manual</src.rf>
@@ -446,7 +446,7 @@
 <LM>w#w-mf930701-048-p2s4w5</LM>
 </w.rf>
 <form>mužský</form>
-<tag lemma="mužský" src="orig" selected="1">AAIS1----1A----</tag>
+<tag lemma="mužský-1" src="orig" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-mf930701-048-p2s4w6">
 <src.rf>manual</src.rf>

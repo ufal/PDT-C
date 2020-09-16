@@ -559,7 +559,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -685,7 +685,7 @@
 <LM>w#w-mf930701-073-p1s5w3</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-mf930701-073-p1s5w4">
 <src.rf>manual</src.rf>
@@ -1094,7 +1094,7 @@
 <LM>w#w-mf930701-073-p1s8w9</LM>
 </w.rf>
 <form>uměním</form>
-<tag lemma="umění_^(mít_schopnost_něco_dělat)_(*2t)" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="umění_^(*2t)" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-mf930701-073-p1s8w10">
 <src.rf>manual</src.rf>
@@ -1301,7 +1301,7 @@
 <LM>w#w-mf930701-073-p1s10w3</LM>
 </w.rf>
 <form>málo</form>
-<tag lemma="málo-1_^(málo_+_2._p.,_málo_peněz)" src="orig" selected="1">Ca--1----------</tag>
+<tag lemma="málo-1_^(málo_peněz)" src="orig" selected="1">Ca--1----------</tag>
 </m>
 <m id="m-mf930701-073-p1s10w4">
 <src.rf>manual</src.rf>
@@ -2427,7 +2427,7 @@
 <LM>w#w-mf930701-073-p1s18w11</LM>
 </w.rf>
 <form>mé</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS3-S1------1</tag>
+<tag lemma="můj" src="orig" selected="1">PSFS3-S1------1</tag>
 </m>
 <m id="m-mf930701-073-p1s18w12">
 <src.rf>manual</src.rf>
@@ -3189,7 +3189,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-073-p1s24w9">
@@ -3272,7 +3272,7 @@
 <LM>w#w-mf930701-073-p1s25w4</LM>
 </w.rf>
 <form>kuchyně</form>
-<tag lemma="kuchyně" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="kuchyň" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930701-073-p1s25w5">
 <src.rf>manual</src.rf>

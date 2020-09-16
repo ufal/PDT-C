@@ -1224,7 +1224,7 @@
 <LM>w#w-ln94207-62-p3s5w13</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-ln94207-62-p3s5w14">
 <src.rf>manual</src.rf>
@@ -1288,7 +1288,7 @@
 <LM>w#w-ln94207-62-p3s5w21</LM>
 </w.rf>
 <form>vypadalo</form>
-<tag lemma="vypadat" src="orig" selected="1">VpNS----R-AAI--</tag>
+<tag lemma="vypadat-1_^(ty_vypadáš)" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln94207-62-p3s5w22">
 <src.rf>manual</src.rf>
@@ -1918,7 +1918,7 @@
 <LM>w#w-ln94207-62-p4s3w25</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln94207-62-p4s3w26">
 <src.rf>manual</src.rf>

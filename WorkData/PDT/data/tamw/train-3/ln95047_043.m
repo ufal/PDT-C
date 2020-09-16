@@ -61,7 +61,7 @@
 <LM>w#w-ln95047-043-p2s1w2</LM>
 </w.rf>
 <form>pana</form>
-<tag lemma="pan_^(oslovení)" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="pan" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95047-043-p2s1w3">
 <src.rf>manual</src.rf>
@@ -345,7 +345,7 @@
 <LM>w#w-ln95047-043-p2s3Aw2</LM>
 </w.rf>
 <form>má</form>
-<tag lemma="můj_^(má_kniha;_přivlast.)" src="orig" selected="1">PSFS1-S1------1</tag>
+<tag lemma="můj" src="orig" selected="1">PSFS1-S1------1</tag>
 </m>
 <m id="m-ln95047-043-p2s3Aw3">
 <src.rf>manual</src.rf>
@@ -513,7 +513,7 @@
 <LM>w#w-ln95047-043-p2s3Aw23</LM>
 </w.rf>
 <form>děti</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-ln95047-043-p2s3Aw24">
 <src.rf>manual</src.rf>
@@ -999,7 +999,7 @@
 <LM>w#w-ln95047-043-p3s1w25</LM>
 </w.rf>
 <form>dítě</form>
-<tag lemma="dítě" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="dítě-1" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95047-043-p3s1w26">
 <src.rf>manual</src.rf>

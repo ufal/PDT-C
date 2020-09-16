@@ -307,7 +307,7 @@
 <LM>w#w-ln94200-113-p2s2w1</LM>
 </w.rf>
 <form>Mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-113-p2s2w2">
 <src.rf>manual</src.rf>
@@ -582,7 +582,7 @@
 <LM>w#w-ln94200-113-p2s3w18</LM>
 </w.rf>
 <form>zastavení</form>
-<tag lemma="zastavení-1_^([také_z._se];_uvést_do_klidu:_auto,...)_(*5it-1)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="zastavení_^(*3it)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-ln94200-113-p2s3w19">
 <src.rf>manual</src.rf>
@@ -716,7 +716,7 @@
 <LM>w#w-ln94200-113-p3s1w5</LM>
 </w.rf>
 <form>Radě</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-ln94200-113-p3s1w6">
 <src.rf>manual</src.rf>

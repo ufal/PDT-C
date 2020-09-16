@@ -117,7 +117,7 @@
 <LM>w#w-ln94201-57-p2s1w2</LM>
 </w.rf>
 <form>vystavenými</form>
-<tag lemma="vystavený_^(např._potvrzení)_(*3it)" src="orig" selected="1">AAIP7----1A----</tag>
+<tag lemma="vystavený_^(*3it)" src="orig" selected="1">AAIP7----1A----</tag>
 </m>
 <m id="m-ln94201-57-p2s1w3">
 <src.rf>manual</src.rf>
@@ -165,7 +165,7 @@
 <LM>w#w-ln94201-57-p2s1w8</LM>
 </w.rf>
 <form>lahve</form>
-<tag lemma="lahev" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="lahev_,s_^(^DD**láhev)" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-ln94201-57-p2s1w9">
 <src.rf>manual</src.rf>

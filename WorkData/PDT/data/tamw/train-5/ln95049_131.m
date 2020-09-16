@@ -270,7 +270,7 @@
 <LM>w#w-ln95049-131-p2s2w3</LM>
 </w.rf>
 <form>představení</form>
-<tag lemma="představení-1_^(si_něco;_něco/někoho_někomu)_(*5it-1)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="představení-1_^(*5it-1)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-ln95049-131-p2s2w4">
 <src.rf>manual</src.rf>
@@ -334,7 +334,7 @@
 <LM>w#w-ln95049-131-p2s2w11</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrIP4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIP4----------</tag>
 </m>
 <m id="m-ln95049-131-p2s2w12">
 <src.rf>manual</src.rf>
@@ -1419,7 +1419,7 @@
 <LM>w#w-ln95049-131-p2s9w1</LM>
 </w.rf>
 <form>Ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln95049-131-p2s9w2">
 <src.rf>manual</src.rf>
@@ -1517,7 +1517,7 @@
 <LM>w#w-ln95049-131-p2s10w5</LM>
 </w.rf>
 <form>zavěšení</form>
-<tag lemma="zavěšení_,s_^(*4sit)" src="orig" selected="1">NNNS3-----A----</tag>
+<tag lemma="zavěšení_^(*2t)_(*4sit)" src="orig" selected="1">NNNS3-----A----</tag>
 </m>
 <m id="m-ln95049-131-p2s10w6">
 <src.rf>manual</src.rf>
@@ -1697,7 +1697,7 @@
 <LM>w#w-ln95049-131-p2s12w2</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrIS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS1----------</tag>
 </m>
 <m id="m-ln95049-131-p2s12w3">
 <src.rf>manual</src.rf>
@@ -2422,7 +2422,7 @@
 <LM>w#w-ln95049-131-p3s4w10</LM>
 </w.rf>
 <form>příjemný</form>
-<tag lemma="příjemný-1_^(všeob.,_poz._emoce)" src="orig" selected="1">AAIS1----1A----</tag>
+<tag lemma="příjemný_^(všeob.,_poz._emoce)" src="orig" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-ln95049-131-p3s4w11">
 <src.rf>manual</src.rf>
@@ -2578,7 +2578,7 @@
 <LM>w#w-ln95049-131-p3s6w2</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-ln95049-131-p3s6w3">
 <src.rf>manual</src.rf>
@@ -2586,7 +2586,7 @@
 <LM>w#w-ln95049-131-p3s6w3</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln95049-131-p3s6w4">
 <src.rf>manual</src.rf>

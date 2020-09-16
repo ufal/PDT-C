@@ -521,7 +521,7 @@
 <LM>w#w-ln94204-153-p4s1w7</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-ln94204-153-p4s1w8">
 <src.rf>manual</src.rf>
@@ -580,7 +580,7 @@
 <LM>w#w-ln94204-153-p4s1w14</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FP4---------1</tag>
 </m>
 <m id="m-ln94204-153-p4s1w15">
 <src.rf>manual</src.rf>
@@ -705,7 +705,7 @@
 <LM>w#w-ln94204-153-p4s2w13</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS2---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS2---------1</tag>
 </m>
 <m id="m-ln94204-153-p4s2w14">
 <src.rf>manual</src.rf>

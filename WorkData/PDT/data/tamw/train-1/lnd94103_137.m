@@ -106,7 +106,7 @@
 <LM>w#w-lnd94103-137-p1s3w3</LM>
 </w.rf>
 <form>Slavie</form>
-<tag lemma="Slavia_;m" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Slavie_;m_,s_^(^DD**Slávie)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94103-137-p1s3w4">
 <src.rf>manual</src.rf>
@@ -512,7 +512,7 @@
 <LM>w#w-lnd94103-137-p1s4w25</LM>
 </w.rf>
 <form>stadionu</form>
-<tag lemma="stadión" src="orig" selected="1">NNIS6-----A---1</tag>
+<tag lemma="stadion_,s_^(^DD**stadión)" src="orig" selected="1">NNIS6-----A---1</tag>
 </m>
 <m id="m-lnd94103-137-p1s4w26">
 <src.rf>manual</src.rf>
@@ -546,7 +546,7 @@
 <LM>w#w-lnd94103-137-p1s5Aw3</LM>
 </w.rf>
 <form>druhý</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS4----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS4----------</tag>
 </m>
 <m id="m-lnd94103-137-p1s5Aw4">
 <src.rf>manual</src.rf>
@@ -1027,7 +1027,7 @@
 <LM>w#w-lnd94103-137-p1s6Aw17</LM>
 </w.rf>
 <form>mé</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS3-S1------1</tag>
+<tag lemma="můj" src="orig" selected="1">PSFS3-S1------1</tag>
 </m>
 <m id="m-lnd94103-137-p1s6Aw18">
 <src.rf>manual</src.rf>

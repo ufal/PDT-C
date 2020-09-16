@@ -89,7 +89,7 @@
 <LM>w#w-lnd94101-070-p1s1w9</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd94101-070-p1s1w10">
 <src.rf>manual</src.rf>
@@ -437,7 +437,7 @@
 <LM>w#w-lnd94101-070-p1s2w18</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9NS4FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9NS4FS3-------</tag>
 </m>
 <m id="m-lnd94101-070-p1s2w19">
 <src.rf>manual</src.rf>

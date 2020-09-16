@@ -405,7 +405,7 @@
 <LM>w#w-cmpr9416-032-p4s3w5</LM>
 </w.rf>
 <form>dlouhá</form>
-<tag lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-cmpr9416-032-p4s3w6">
 <src.rf>manual</src.rf>
@@ -413,7 +413,7 @@
 <LM>w#w-cmpr9416-032-p4s3w6</LM>
 </w.rf>
 <form>životnost</form>
-<tag lemma="životnost_^(př._rod_životný)_(*3ý)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="životnost_^(*3ý)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-032-p4s3w7">
 <src.rf>manual</src.rf>

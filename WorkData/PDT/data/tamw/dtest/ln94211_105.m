@@ -601,7 +601,7 @@
 <LM>w#w-ln94211-105-p3s1w16</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS7---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS7---------1</tag>
 </m>
 <m id="m-ln94211-105-p3s1w17">
 <src.rf>manual</src.rf>
@@ -782,7 +782,7 @@
 <LM>w#w-ln94211-105-p3s2w15</LM>
 </w.rf>
 <form>taje</form>
-<tag lemma="taj" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="taj-1" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-ln94211-105-p3s2w16">
 <src.rf>manual</src.rf>
@@ -962,7 +962,7 @@
 <LM>w#w-ln94211-105-p3s4w1</LM>
 </w.rf>
 <form>Příjemný</form>
-<tag lemma="příjemný-1_^(všeob.,_poz._emoce)" src="orig" selected="1">AAIS4----1A----</tag>
+<tag lemma="příjemný_^(všeob.,_poz._emoce)" src="orig" selected="1">AAIS4----1A----</tag>
 </m>
 <m id="m-ln94211-105-p3s4w2">
 <src.rf>manual</src.rf>
@@ -1186,7 +1186,7 @@
 <LM>w#w-ln94211-105-p3s4w29</LM>
 </w.rf>
 <form>podlým</form>
-<tag lemma="podlý-1" src="orig" selected="1">AAMS7----1A----</tag>
+<tag lemma="podlý" src="orig" selected="1">AAMS7----1A----</tag>
 </m>
 <m id="m-ln94211-105-p3s4w30">
 <src.rf>manual</src.rf>

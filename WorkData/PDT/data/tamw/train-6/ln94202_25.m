@@ -61,7 +61,7 @@
 <LM>w#w-ln94202-25-p2s1Aw1</LM>
 </w.rf>
 <form>Banská</form>
-<tag lemma="Banský_;G" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="banský" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-ln94202-25-p2s1Aw2">
 <src.rf>manual</src.rf>
@@ -154,7 +154,7 @@
 <LM>w#w-ln94202-25-p2s1Bw6</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94202-25-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -523,7 +523,7 @@
 <LM>w#w-ln94202-25-p2s2w23</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-ln94202-25-p2s2w24">
 <src.rf>manual</src.rf>
@@ -1085,7 +1085,7 @@
 <LM>w#w-ln94202-25-p4s1w3</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-4_^(v_knize,_rukopise,...)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94202-25-p4s1w4">
 <src.rf>manual</src.rf>

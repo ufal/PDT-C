@@ -343,7 +343,7 @@
 <LM>w#w-ln94208-81-p2s1Cw23</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-81-p2s1Cw24">
 <src.rf>manual</src.rf>
@@ -701,7 +701,7 @@
 <LM>w#w-ln94208-81-p3s1w17</LM>
 </w.rf>
 <form>Jeana</form>
-<tag lemma="Jean_;Y" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Jean-1_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94208-81-p3s1w18">
 <src.rf>manual</src.rf>
@@ -939,7 +939,7 @@
 <LM>w#w-ln94208-81-p3s3w13</LM>
 </w.rf>
 <form>prostředky</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP7-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP7-----A----</tag>
 </m>
 <m id="m-ln94208-81-p3s3w14">
 <src.rf>manual</src.rf>
@@ -1027,7 +1027,7 @@
 <form>Strobe</form>
 <tag>
 <AM lemma="Strobe_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Strobe_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Strobe-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-81-p4s1w6">
@@ -1612,7 +1612,7 @@
 <LM>w#w-ln94208-81-p5s2w6</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9IS4FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9IS4FS3-------</tag>
 </m>
 <m id="m-ln94208-81-p5s2w7">
 <src.rf>manual</src.rf>
@@ -1959,7 +1959,7 @@
 <LM>w#w-ln94208-81-p5s6w2</LM>
 </w.rf>
 <form>mluvčího</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94208-81-p5s6w3">
 <src.rf>manual</src.rf>
@@ -2145,7 +2145,7 @@
 <LM>w#w-ln94208-81-p5s7w14</LM>
 </w.rf>
 <form>faktorem</form>
-<tag lemma="faktor" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="faktor-1" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-ln94208-81-p5s7w15">
 <src.rf>manual</src.rf>
@@ -2173,7 +2173,7 @@
 <form>Strobe</form>
 <tag>
 <AM lemma="Strobe_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Strobe_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Strobe-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-81-p6s1w3">
@@ -2288,7 +2288,7 @@
 <LM>w#w-ln94208-81-p6s2w1</LM>
 </w.rf>
 <form>Dá</form>
-<tag lemma="dát" src="orig" selected="1">VB-S---3P-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln94208-81-p6s2w2">
 <src.rf>manual</src.rf>

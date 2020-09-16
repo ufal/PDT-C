@@ -75,7 +75,7 @@
 <LM>w#w-lnd92254-044-p2s2w2</LM>
 </w.rf>
 <form>hnutí</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-lnd92254-044-p2s2w3">
 <src.rf>manual</src.rf>
@@ -384,7 +384,7 @@
 <LM>w#w-lnd92254-044-p2s3w14</LM>
 </w.rf>
 <form>hnutí</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-lnd92254-044-p2s3w15">
 <src.rf>manual</src.rf>
@@ -685,7 +685,7 @@
 <LM>w#w-lnd92254-044-p2s5w14</LM>
 </w.rf>
 <form>hnutí</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-lnd92254-044-p2s5w15">
 <src.rf>manual</src.rf>
@@ -717,7 +717,7 @@
 <LM>w#w-lnd92254-044-p2s5w18</LM>
 </w.rf>
 <form>hnutí</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-lnd92254-044-p2s5w19">
 <src.rf>manual</src.rf>
@@ -752,7 +752,7 @@
 <LM>w#w-lnd92254-044-p2s5w22</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92254-044-p2s5w23">
 <src.rf>manual</src.rf>

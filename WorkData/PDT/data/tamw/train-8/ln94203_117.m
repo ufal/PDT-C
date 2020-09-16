@@ -107,7 +107,7 @@
 <LM>w#w-ln94203-117-p2s1Bw3</LM>
 </w.rf>
 <form>Slavie</form>
-<tag lemma="Slavia_;m" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Slavie_;m_,s_^(^DD**Slávie)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94203-117-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -541,7 +541,7 @@
 <LM>w#w-ln94203-117-p2s4w10</LM>
 </w.rf>
 <form>jejího</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS2FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS2FS3-------</tag>
 </m>
 <m id="m-ln94203-117-p2s4w11">
 <src.rf>manual</src.rf>

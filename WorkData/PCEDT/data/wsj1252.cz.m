@@ -430,7 +430,7 @@
 <tag>
 <AM lemma="lid_^(naší_země)" src="auto">NNIS7-----A----</AM>
 <AM lemma="lido" src="auto">NNNS7-----A----</AM>
-<AM lemma="člověk" src="auto" recommended="1">NNMP3-----A----</AM>
+<AM lemma="lidé" src="auto" recommended="1">NNMP3-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1252-001-p1s3W5-Ta">
@@ -541,7 +541,7 @@
 <form>tu</form>
 <tag>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" recommended="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1252-001-p1s3W16-Ta">
@@ -1055,7 +1055,7 @@
 <AM lemma="vydělávání_^(kůže;peníze)_(*3at)" src="auto">NNNP4-----A----</AM>
 <AM lemma="vydělávání_^(kůže;peníze)_(*3at)" src="auto">NNNP5-----A----</AM>
 <AM lemma="vydělávání_^(kůže;peníze)_(*3at)" src="auto">NNNS1-----A----</AM>
-<AM lemma="vydělávání_^(kůže;peníze)_(*3at)" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="vydělávání_^(*3at)" src="auto" recommended="1">NNNS2-----A----</AM>
 <AM lemma="vydělávání_^(kůže;peníze)_(*3at)" src="auto">NNNS3-----A----</AM>
 <AM lemma="vydělávání_^(kůže;peníze)_(*3at)" src="auto">NNNS4-----A----</AM>
 <AM lemma="vydělávání_^(kůže;peníze)_(*3at)" src="auto">NNNS5-----A----</AM>

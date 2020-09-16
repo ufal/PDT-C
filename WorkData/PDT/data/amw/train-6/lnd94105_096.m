@@ -19,7 +19,7 @@
 <LM>w#w-lnd94105-096-p1s1w1</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrNS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS1----------</tag>
 </m>
 <m id="m-lnd94105-096-p1s1w2">
 <src.rf>manual</src.rf>
@@ -103,7 +103,7 @@
 <LM>w#w-lnd94105-096-p1s3w1</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrNS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS1----------</tag>
 </m>
 <m id="m-lnd94105-096-p1s3w2">
 <src.rf>manual</src.rf>
@@ -351,7 +351,7 @@
 <LM>w#w-lnd94105-096-p1s4w7</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrIS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS6----------</tag>
 </m>
 <m id="m-lnd94105-096-p1s4w8">
 <src.rf>manual</src.rf>
@@ -425,7 +425,7 @@
 <LM>w#w-lnd94105-096-p1s5w7</LM>
 </w.rf>
 <form>lepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAMP1----2A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAMP1----2A----</tag>
 </m>
 <m id="m-lnd94105-096-p1s5w8">
 <src.rf>manual</src.rf>

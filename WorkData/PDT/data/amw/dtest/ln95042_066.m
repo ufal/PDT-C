@@ -748,7 +748,7 @@
 <LM>w#w-ln95042-066-p2s4w7</LM>
 </w.rf>
 <form>členů</form>
-<tag lemma="člen" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln95042-066-p2s4w8">
 <src.rf>manual</src.rf>
@@ -1361,7 +1361,7 @@
 <LM>w#w-ln95042-066-p2s6w32</LM>
 </w.rf>
 <form>extremistickém</form>
-<tag lemma="extremistický" src="orig" selected="1">AAIS6----1A----</tag>
+<tag lemma="extremistický_,s_^(^DD**extrémistický)" src="orig" selected="1">AAIS6----1A----</tag>
 </m>
 <m id="m-ln95042-066-p2s6w33">
 <src.rf>manual</src.rf>

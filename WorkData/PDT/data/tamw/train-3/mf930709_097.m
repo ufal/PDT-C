@@ -309,7 +309,7 @@
 <LM>w#w-mf930709-097-p2s2Bw17</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930709-097-p2s2Bw18">
 <src.rf>manual</src.rf>
@@ -831,7 +831,7 @@
 <LM>w#w-mf930709-097-p2s6w8</LM>
 </w.rf>
 <form>pilot</form>
-<tag lemma="pilot" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="pilot-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-097-p2s6w9">
 <src.rf>manual</src.rf>
@@ -972,7 +972,7 @@
 <LM>w#w-mf930709-097-p2s7w7</LM>
 </w.rf>
 <form>jezdci</form>
-<tag lemma="jezdec" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="jezdec-1" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf930709-097-p2s7w8">
 <src.rf>manual</src.rf>
@@ -1171,7 +1171,7 @@
 <LM>w#w-mf930709-097-p2s9w5</LM>
 </w.rf>
 <form>piloti</form>
-<tag lemma="pilot" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="pilot-1" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf930709-097-p2s9w6">
 <src.rf>manual</src.rf>
@@ -1181,7 +1181,7 @@
 <form>Motorsportu</form>
 <tag>
 <AM lemma="motorsport_;m" src="orig">NNIS2-----A----</AM>
-<AM lemma="Motorsport_;m" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="motorsport" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-097-p2s9w7">
@@ -1438,7 +1438,7 @@
 <LM>w#w-mf930709-097-p2s10w8</LM>
 </w.rf>
 <form>Slováka</form>
-<tag lemma="Slovák_;E" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Slovák_;E_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930709-097-p2s10w9">
 <src.rf>manual</src.rf>
@@ -1799,7 +1799,7 @@
 <LM>w#w-mf930709-097-p2s13w4</LM>
 </w.rf>
 <form>dlouhá</form>
-<tag lemma="dlouhý-1_^(fyz._délka;_př._dlouhá_tyč)" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-mf930709-097-p2s13w5">
 <src.rf>manual</src.rf>
@@ -2023,7 +2023,7 @@
 <LM>w#w-mf930709-097-p2s14w7</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrIP1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIP1----------</tag>
 </m>
 <m id="m-mf930709-097-p2s14w8">
 <src.rf>manual</src.rf>

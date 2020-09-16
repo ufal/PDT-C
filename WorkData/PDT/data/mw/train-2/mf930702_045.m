@@ -59,7 +59,7 @@
 <LM>w#w-mf930702-045-p1s1w6</LM>
 </w.rf>
 <form>lidi</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-mf930702-045-p1s1w7">
 <src.rf>manual</src.rf>
@@ -93,7 +93,7 @@
 <LM>w#w-mf930702-045-p2s1w3</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS1----------</tag>
 </m>
 <m id="m-mf930702-045-p2s1w4">
 <src.rf>manual</src.rf>
@@ -232,7 +232,7 @@
 <LM>w#w-mf930702-045-p2s1w20</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8YP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8YP4---------1</tag>
 </m>
 <m id="m-mf930702-045-p2s1w21">
 <src.rf>manual</src.rf>
@@ -312,7 +312,7 @@
 <LM>w#w-mf930702-045-p2s1w30</LM>
 </w.rf>
 <form>OKO</form>
-<tag lemma="oko" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="oko-1" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf930702-045-p2s1w31">
 <src.rf>manual</src.rf>
@@ -805,7 +805,7 @@
 <LM>w#w-mf930702-045-p2s2w53</LM>
 </w.rf>
 <form>lidi</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-mf930702-045-p2s2w54">
 <src.rf>manual</src.rf>
@@ -965,7 +965,7 @@
 <LM>w#w-mf930702-045-p2s3w18</LM>
 </w.rf>
 <form>uměřených</form>
-<tag lemma="uměřený_,s_^(*3it)" src="orig" selected="1">AAFP2----1A----</tag>
+<tag lemma="uměřený_^(*3it)" src="orig" selected="1">AAFP2----1A----</tag>
 </m>
 <m id="m-mf930702-045-p2s3w19">
 <src.rf>manual</src.rf>
@@ -1061,7 +1061,7 @@
 <LM>w#w-mf930702-045-p2s3w30</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-mf930702-045-p2s3w31">
 <src.rf>manual</src.rf>
@@ -1435,7 +1435,7 @@
 <LM>w#w-mf930702-045-p2s4w43</LM>
 </w.rf>
 <form>hodný</form>
-<tag lemma="hodný-1_^(být_hoden)" src="orig" selected="1">AAIS1----1A----</tag>
+<tag lemma="hodný_^(být_hoden;nezlobivý)" src="orig" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-mf930702-045-p2s4w44">
 <src.rf>manual</src.rf>

@@ -530,7 +530,7 @@
 <AM lemma="on-1" src="auto" recommended="1">P5FS6--3-------</AM>
 <AM lemma="on-1" src="auto">P5FS7--3-------</AM>
 <AM lemma="ní_,i_(12%-ní)" src="manual">SAIP1----1A----</AM>
-<AM lemma="ní_,i_(12%-ní)" src="manual" selected="1">SAIP1----1A----</AM>
+<AM lemma="ní_,i_^(12%-ní)" src="manual" selected="1">SAIP1----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0125-001-p1s2W8-Ta">
@@ -1016,7 +1016,7 @@
 <form>ními</form>
 <tag>
 <AM lemma="ními" src="auto">X@-------------</AM>
-<AM lemma="ní_,i_(12%-ní)" src="manual" selected="1">SAIP7----1A----</AM>
+<AM lemma="ní_,i_^(12%-ní)" src="manual" selected="1">SAIP7----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0125-001-p1s3W23-Ta">
@@ -1894,7 +1894,7 @@
 <form>letech</form>
 <tag>
 <AM lemma="let" src="auto">NNIP6-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP6-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0125-001-p1s7W15-Ta">
@@ -2295,7 +2295,7 @@
 <AM lemma="on-1" src="auto">P5FS4--3------6</AM>
 <AM lemma="on-1" src="auto">P5FS6--3-------</AM>
 <AM lemma="on-1" src="auto">P5FS7--3-------</AM>
-<AM lemma="ní_,i_(12%-ní)" src="manual" selected="1">SAIP1----1A----</AM>
+<AM lemma="ní_,i_^(12%-ní)" src="manual" selected="1">SAIP1----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0125-001-p1s8W5-Ta">
@@ -3305,7 +3305,7 @@
 <form>letech</form>
 <tag>
 <AM lemma="let" src="auto">NNIP6-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP6-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0125-001-p1s12W21-Ta">
@@ -3694,7 +3694,7 @@
 <AM lemma="on-1" src="auto">P5FS4--3------6</AM>
 <AM lemma="on-1" src="auto" recommended="1">P5FS6--3-------</AM>
 <AM lemma="on-1" src="auto">P5FS7--3-------</AM>
-<AM lemma="ní_,i_(12%-ní)" src="manual" selected="1">SAIP1----1A----</AM>
+<AM lemma="ní_,i_^(12%-ní)" src="manual" selected="1">SAIP1----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0125-001-p1s13W8-Ta">
@@ -3970,7 +3970,7 @@
 <AM lemma="on-1" src="auto">P5FS4--3------6</AM>
 <AM lemma="on-1" src="auto" recommended="1">P5FS6--3-------</AM>
 <AM lemma="on-1" src="auto">P5FS7--3-------</AM>
-<AM lemma="ní_,i_(12%-ní)" src="manual" selected="1">SAIP1----1A----</AM>
+<AM lemma="ní_,i_^(12%-ní)" src="manual" selected="1">SAIP1----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0125-001-p1s13W33-Ta">
@@ -4877,7 +4877,7 @@
 <tag>
 <AM lemma="program-1" src="auto">NNIS1-----A----</AM>
 <AM lemma="program-1" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="program" src="manual" selected="1">NNIS4-----A----</AM>
+<AM lemma="program-1" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0125-001-p1s17W4-Ta">
@@ -5809,7 +5809,7 @@
 <form>letech</form>
 <tag>
 <AM lemma="let" src="auto">NNIP6-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP6-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0125-001-p1s19W6-Ta">
@@ -6227,7 +6227,7 @@
 <AM lemma="on-1" src="auto">P5FS4--3------6</AM>
 <AM lemma="on-1" src="auto" recommended="1">P5FS6--3-------</AM>
 <AM lemma="on-1" src="auto">P5FS7--3-------</AM>
-<AM lemma="ní_,i_(12%-ní)" src="manual" selected="1">SAIP1----1A----</AM>
+<AM lemma="ní_,i_^(12%-ní)" src="manual" selected="1">SAIP1----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0125-001-p1s21W5-Ta">
@@ -6430,7 +6430,7 @@
 <AM lemma="on-1" src="auto">P5FS4--3------6</AM>
 <AM lemma="on-1" src="auto" recommended="1">P5FS6--3-------</AM>
 <AM lemma="on-1" src="auto">P5FS7--3-------</AM>
-<AM lemma="ní_,i_(12%-ní)" src="manual" selected="1">SAIP1----1A----</AM>
+<AM lemma="ní_,i_^(12%-ní)" src="manual" selected="1">SAIP1----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0125-001-p1s21W22-Ta">
@@ -6940,7 +6940,7 @@
 <form>letech</form>
 <tag>
 <AM lemma="let" src="auto">NNIP6-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP6-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0125-001-p1s23W6-Ta">
@@ -7135,7 +7135,7 @@
 <AM lemma="on-1" src="auto">P5FS4--3------6</AM>
 <AM lemma="on-1" src="auto" recommended="1">P5FS6--3-------</AM>
 <AM lemma="on-1" src="auto">P5FS7--3-------</AM>
-<AM lemma="ní_,i_(12%-ní)" src="manual" selected="1">SAIS4----1A----</AM>
+<AM lemma="ní_,i_^(12%-ní)" src="manual" selected="1">SAIS4----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0125-001-p1s24W14-Ta">
@@ -7306,7 +7306,7 @@
 <AM lemma="on-1" src="auto">P5FS4--3------6</AM>
 <AM lemma="on-1" src="auto" recommended="1">P5FS6--3-------</AM>
 <AM lemma="on-1" src="auto">P5FS7--3-------</AM>
-<AM lemma="ní_,i_(12%-ní)" src="manual" selected="1">SAIP1----1A----</AM>
+<AM lemma="ní_,i_^(12%-ní)" src="manual" selected="1">SAIP1----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0125-001-p1s25W8-Ta">
@@ -7507,7 +7507,7 @@
 <AM lemma="on-1" src="auto">P5FS4--3------6</AM>
 <AM lemma="on-1" src="auto" recommended="1">P5FS6--3-------</AM>
 <AM lemma="on-1" src="auto">P5FS7--3-------</AM>
-<AM lemma="ní_,i_(12%-ní)" src="manual" selected="1">SAIP1----1A----</AM>
+<AM lemma="ní_,i_^(12%-ní)" src="manual" selected="1">SAIP1----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0125-001-p1s25W27-Ta">
@@ -8228,7 +8228,7 @@
 <AM lemma="on-1" src="auto">P5FS4--3------6</AM>
 <AM lemma="on-1" src="auto" recommended="1">P5FS6--3-------</AM>
 <AM lemma="on-1" src="auto">P5FS7--3-------</AM>
-<AM lemma="ní_,i_(12%-ní)" src="manual" selected="1">SAIP4----1A----</AM>
+<AM lemma="ní_,i_^(12%-ní)" src="manual" selected="1">SAIP4----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0125-001-p1s28W26-Ta">
@@ -9218,7 +9218,7 @@
 <AM lemma="on-1" src="auto">P5FS4--3------6</AM>
 <AM lemma="on-1" src="auto" recommended="1">P5FS6--3-------</AM>
 <AM lemma="on-1" src="auto">P5FS7--3-------</AM>
-<AM lemma="ní_,i_(12%-ní)" src="manual" selected="1">SAIP1----1A----</AM>
+<AM lemma="ní_,i_^(12%-ní)" src="manual" selected="1">SAIP1----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0125-001-p1s32W5-Ta">
@@ -10090,7 +10090,7 @@
 <form>ním</form>
 <tag>
 <AM lemma="on-1" src="auto" recommended="1">P5ZS7--3-------</AM>
-<AM lemma="ní_,i_(12%-ní)" src="manual" selected="1">SAIS7----1A----</AM>
+<AM lemma="ní_,i_^(12%-ní)" src="manual" selected="1">SAIS7----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0125-001-p1s36W24-Ta">
@@ -10376,7 +10376,7 @@
 <tag>
 <AM lemma="daný_^(*3át)" src="auto">AAFP2----1A----</AM>
 <AM lemma="daný_^(*3át)" src="auto">AAFP6----1A----</AM>
-<AM lemma="daný_^(*3át)" src="auto" recommended="1">AAIP2----1A----</AM>
+<AM lemma="daný-1_^(*5át-1)" src="auto" recommended="1">AAIP2----1A----</AM>
 <AM lemma="daný_^(*3át)" src="auto">AAIP6----1A----</AM>
 <AM lemma="daný_^(*3át)" src="auto">AAMP2----1A----</AM>
 <AM lemma="daný_^(*3át)" src="auto">AAMP6----1A----</AM>
@@ -10791,7 +10791,7 @@
 <AM lemma="on-1" src="auto">P5FS4--3------6</AM>
 <AM lemma="on-1" src="auto">P5FS6--3-------</AM>
 <AM lemma="on-1" src="auto">P5FS7--3-------</AM>
-<AM lemma="ní_,i_(12%-ní)" src="manual" selected="1">SAFS4----1A----</AM>
+<AM lemma="ní_,i_^(12%-ní)" src="manual" selected="1">SAFS4----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0125-001-p1s38W26-Ta">
@@ -11452,7 +11452,7 @@
 <form>ním</form>
 <tag>
 <AM lemma="on-1" src="auto" recommended="1">P5ZS7--3-------</AM>
-<AM lemma="ní_,i_(12%-ní)" src="manual" selected="1">SAIS7----1A----</AM>
+<AM lemma="ní_,i_^(12%-ní)" src="manual" selected="1">SAIS7----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0125-001-p1s41W24-Ta">
@@ -12149,7 +12149,7 @@
 <AM lemma="on-1" src="auto">P5FS4--3------6</AM>
 <AM lemma="on-1" src="auto">P5FS6--3-------</AM>
 <AM lemma="on-1" src="auto">P5FS7--3-------</AM>
-<AM lemma="ní_,i_(12%-ní)" src="manual" selected="1">SAFS4----1A----</AM>
+<AM lemma="ní_,i_^(12%-ní)" src="manual" selected="1">SAFS4----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0125-001-p1s43W26-Ta">
@@ -12550,7 +12550,7 @@
 <AM lemma="on-1" src="auto">P5FS4--3------6</AM>
 <AM lemma="on-1" src="auto" recommended="1">P5FS6--3-------</AM>
 <AM lemma="on-1" src="auto">P5FS7--3-------</AM>
-<AM lemma="ní_,i_(12%-ní)" src="manual" selected="1">SAIP1----1A----</AM>
+<AM lemma="ní_,i_^(12%-ní)" src="manual" selected="1">SAIP1----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0125-001-p1s46W8-Ta">

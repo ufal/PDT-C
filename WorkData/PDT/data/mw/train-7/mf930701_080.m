@@ -71,7 +71,7 @@
 <form>STOJÍ</form>
 <tag>
 <AM lemma="stát-4_^(něco_stojí_peníze)" src="orig">VB-S---3P-AA---</AM>
-<AM lemma="stát-4_^(něco_stojí_peníze)" src="manual" selected="1">VB-S---3P-AAI--</AM>
+<AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m-mf930701-080-p1s2w5">
@@ -88,7 +88,7 @@
 <LM>w#w-mf930701-080-p1s2w6</LM>
 </w.rf>
 <form>NAŠÍ</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS6-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS6-P1-------</tag>
 </m>
 <m id="m-mf930701-080-p1s2w7">
 <src.rf>manual</src.rf>
@@ -451,7 +451,7 @@
 <LM>w#w-mf930701-080-p2s3w3</LM>
 </w.rf>
 <form>nejlepším</form>
-<tag lemma="dobrý" src="orig" selected="1">AAIS7----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAIS7----3A----</tag>
 </m>
 <m id="m-mf930701-080-p2s3w4">
 <src.rf>manual</src.rf>
@@ -939,7 +939,7 @@
 <LM>w#w-mf930701-080-p3s1w5</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-mf930701-080-p3s1w6">
 <src.rf>manual</src.rf>
@@ -1556,7 +1556,7 @@
 <LM>w#w-mf930701-080-p3s4w13</LM>
 </w.rf>
 <form>náš</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSYS1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSYS1-P1-------</tag>
 </m>
 <m id="m-mf930701-080-p3s4w14">
 <src.rf>manual</src.rf>
@@ -2179,7 +2179,7 @@
 <form>stojí</form>
 <tag>
 <AM lemma="stát-4_^(něco_stojí_peníze)" src="orig">VB-S---3P-AA---</AM>
-<AM lemma="stát-4_^(něco_stojí_peníze)" src="manual" selected="1">VB-S---3P-AAI--</AM>
+<AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m-mf930701-080-p3s7w7">

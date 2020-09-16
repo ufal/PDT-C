@@ -332,7 +332,7 @@
 <LM>w#w-ln94204-51-p2s2w6</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94204-51-p2s2w7">
 <src.rf>manual</src.rf>
@@ -415,7 +415,7 @@
 <LM>w#w-ln94204-51-p2s2w16</LM>
 </w.rf>
 <form>duchu</form>
-<tag lemma="duch" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="duch-2" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln94204-51-p2s2w17">
 <src.rf>manual</src.rf>
@@ -1279,7 +1279,7 @@
 <LM>w#w-ln94204-51-p3s1w7</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS7----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS7----------</tag>
 </m>
 <m id="m-ln94204-51-p3s1w8">
 <src.rf>manual</src.rf>

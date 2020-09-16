@@ -244,7 +244,7 @@
 <AM lemma="první" src="auto">CrNP4----------</AM>
 <AM lemma="první" src="auto">CrNP5----------</AM>
 <AM lemma="první" src="auto">CrNS1----------</AM>
-<AM lemma="první" src="auto" recommended="1">CrNS4----------</AM>
+<AM lemma="první-1" src="auto" recommended="1">CrNS4----------</AM>
 <AM lemma="první" src="auto">CrNS5----------</AM>
 </tag>
 </m>
@@ -311,7 +311,7 @@
 <AM lemma="zdaněný_^(vypočítat_daň)_(*3it)" src="auto">AAIP1----1N---6</AM>
 <AM lemma="zdaněný_^(vypočítat_daň)_(*3it)" src="auto">AAIP4----1N---6</AM>
 <AM lemma="zdaněný_^(vypočítat_daň)_(*3it)" src="auto">AAIP5----1N---6</AM>
-<AM lemma="zdaněný_^(vypočítat_daň)_(*3it)" src="auto" recommended="1">AAIS1----1N----</AM>
+<AM lemma="zdaněný_^(*3it)" src="auto" recommended="1">AAIS1----1N----</AM>
 <AM lemma="zdaněný_^(vypočítat_daň)_(*3it)" src="auto">AAIS4----1N----</AM>
 <AM lemma="zdaněný_^(vypočítat_daň)_(*3it)" src="auto">AAIS5----1N----</AM>
 <AM lemma="zdaněný_^(vypočítat_daň)_(*3it)" src="auto">AAMP1----1N---6</AM>
@@ -1441,7 +1441,7 @@
 </w.rf>
 <form>buldozery</form>
 <tag>
-<AM lemma="buldozer_^(stroj)" src="auto" recommended="1">NNIP1-----A----</AM>
+<AM lemma="buldozer-1_^(stroj)" src="auto" recommended="1">NNIP1-----A----</AM>
 <AM lemma="buldozer_^(stroj)" src="auto">NNIP4-----A----</AM>
 <AM lemma="buldozer_^(stroj)" src="auto">NNIP5-----A----</AM>
 <AM lemma="buldozer_^(stroj)" src="auto">NNIP7-----A----</AM>
@@ -2073,7 +2073,7 @@
 <AM lemma="zdaněný_^(vypočítat_daň)_(*3it)" src="auto">AAIP1----1N---6</AM>
 <AM lemma="zdaněný_^(vypočítat_daň)_(*3it)" src="auto">AAIP4----1N---6</AM>
 <AM lemma="zdaněný_^(vypočítat_daň)_(*3it)" src="auto">AAIP5----1N---6</AM>
-<AM lemma="zdaněný_^(vypočítat_daň)_(*3it)" src="auto" recommended="1">AAIS1----1N----</AM>
+<AM lemma="zdaněný_^(*3it)" src="auto" recommended="1">AAIS1----1N----</AM>
 <AM lemma="zdaněný_^(vypočítat_daň)_(*3it)" src="auto">AAIS4----1N----</AM>
 <AM lemma="zdaněný_^(vypočítat_daň)_(*3it)" src="auto">AAIS5----1N----</AM>
 <AM lemma="zdaněný_^(vypočítat_daň)_(*3it)" src="auto">AAMP1----1N---6</AM>

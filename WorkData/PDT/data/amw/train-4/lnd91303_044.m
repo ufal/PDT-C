@@ -116,7 +116,7 @@
 <LM>w#w-lnd91303-044-p1s1w13</LM>
 </w.rf>
 <form>jejích</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP6FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XP6FS3-------</tag>
 </m>
 <m id="m-lnd91303-044-p1s1w14">
 <src.rf>manual</src.rf>
@@ -308,7 +308,7 @@
 <LM>w#w-lnd91303-044-p1s1w37</LM>
 </w.rf>
 <form>děti</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-lnd91303-044-p1s1w38">
 <src.rf>manual</src.rf>

@@ -19,7 +19,7 @@
 <LM>w#w-mf920901-017-p1s1w1</LM>
 </w.rf>
 <form>Váš</form>
-<tag lemma="tvůj_^(přivlast.)" src="orig" selected="1">PSIS4-P2-------</tag>
+<tag lemma="váš" src="orig" selected="1">PSIS4-P2-------</tag>
 </m>
 <m id="m-mf920901-017-p1s1w2">
 <src.rf>manual</src.rf>
@@ -233,7 +233,7 @@
 <LM>w#w-mf920901-017-p1s1w27</LM>
 </w.rf>
 <form>co</form>
-<tag lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="co-5_^(př._co_nejméně,_co_nevidět_atd.)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf920901-017-p1s1w28">
 <src.rf>manual</src.rf>

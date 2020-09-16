@@ -533,7 +533,7 @@
 <LM>w#w-ln95040-120-p2s4w12</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln95040-120-p2s4w13">
 <src.rf>manual</src.rf>
@@ -1057,7 +1057,7 @@
 <LM>w#w-ln95040-120-p2s6w10</LM>
 </w.rf>
 <form>Straně</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln95040-120-p2s6w11">
 <src.rf>manual</src.rf>
@@ -1081,7 +1081,7 @@
 <LM>w#w-ln95040-120-p2s6w13</LM>
 </w.rf>
 <form>Smetanově</form>
-<tag lemma="Smetanův_;Y_^(*2a)" src="orig" selected="1">AUNS6M---------</tag>
+<tag lemma="Smetanův_;Y_^(*2)_(*2a)" src="orig" selected="1">AUNS6M---------</tag>
 </m>
 <m id="m-ln95040-120-p2s6w14">
 <src.rf>manual</src.rf>

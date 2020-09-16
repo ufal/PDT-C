@@ -85,7 +85,7 @@
 <LM>w#w-lnd92255-140-p3s2w2</LM>
 </w.rf>
 <form>výbor</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92255-140-p3s2w3">
 <src.rf>manual</src.rf>

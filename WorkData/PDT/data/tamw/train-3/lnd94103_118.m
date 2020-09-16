@@ -163,7 +163,7 @@
 <LM>w#w-lnd94103-118-p1s3w9</LM>
 </w.rf>
 <form>druhým</form>
-<tag lemma="druhý" src="orig" selected="1">CrMS7----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrMS7----------</tag>
 </m>
 <m id="m-lnd94103-118-p1s3w10">
 <src.rf>manual</src.rf>

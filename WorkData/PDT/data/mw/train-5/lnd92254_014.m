@@ -466,7 +466,7 @@
 <LM>w#w-lnd92254-014-p1s3w21</LM>
 </w.rf>
 <form>dají</form>
-<tag lemma="dát" src="orig" selected="1">VB-P---3P-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-lnd92254-014-p1s3w22">
 <src.rf>manual</src.rf>

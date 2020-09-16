@@ -408,7 +408,7 @@
 <LM>w#w-ln95049-110-p2s4w4</LM>
 </w.rf>
 <form>Miroslav</form>
-<tag lemma="Miroslav_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Miroslav-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-110-p2s4w5">
 <src.rf>manual</src.rf>
@@ -1195,7 +1195,7 @@
 <LM>w#w-ln95049-110-p2s8w18</LM>
 </w.rf>
 <form>člena</form>
-<tag lemma="člen" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95049-110-p2s8w19">
 <src.rf>manual</src.rf>
@@ -1269,7 +1269,7 @@
 <LM>w#w-ln95049-110-p2s9w7</LM>
 </w.rf>
 <form>členů</form>
-<tag lemma="člen" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln95049-110-p2s9w8">
 <src.rf>manual</src.rf>

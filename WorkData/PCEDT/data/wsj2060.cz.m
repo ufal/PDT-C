@@ -1309,7 +1309,7 @@
 <AM lemma="zdanění_^(vypočítat_daň)_(*3it)" src="auto">NNNS3-----A----</AM>
 <AM lemma="zdanění_^(vypočítat_daň)_(*3it)" src="auto">NNNS4-----A----</AM>
 <AM lemma="zdanění_^(vypočítat_daň)_(*3it)" src="auto">NNNS5-----A----</AM>
-<AM lemma="zdanění_^(vypočítat_daň)_(*3it)" src="auto" recommended="1">NNNS6-----A----</AM>
+<AM lemma="zdanění_^(*3it)" src="auto" recommended="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2060-001-p1s3W31-Ta">
@@ -1338,7 +1338,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2060-001-p1s3W33-Ta">
@@ -1565,7 +1565,7 @@
 <AM lemma="zdanění_^(vypočítat_daň)_(*3it)" src="auto">NNNS3-----A----</AM>
 <AM lemma="zdanění_^(vypočítat_daň)_(*3it)" src="auto">NNNS4-----A----</AM>
 <AM lemma="zdanění_^(vypočítat_daň)_(*3it)" src="auto">NNNS5-----A----</AM>
-<AM lemma="zdanění_^(vypočítat_daň)_(*3it)" src="auto" recommended="1">NNNS6-----A----</AM>
+<AM lemma="zdanění_^(*3it)" src="auto" recommended="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2060-001-p1s4W13-Ta">
@@ -1854,7 +1854,7 @@
 <tag>
 <AM lemma="Houghton_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Houghton_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Houghton_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Houghton-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2060-001-p1s6W12-Ta">
@@ -2408,7 +2408,7 @@
 <tag>
 <AM lemma="Houghton_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Houghton_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Houghton_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Houghton-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2060-001-p1s8W11-Ta">
@@ -3026,7 +3026,7 @@
 <AM lemma="devizový" src="auto">AANS1----1A---6</AM>
 <AM lemma="devizový" src="auto">AANS4----1A---6</AM>
 <AM lemma="devizový" src="auto">AANS5----1A---6</AM>
-<AM lemma="devizový_,s_^(DD**devízový)" src="manual" selected="1">AAIS4----1A----</AM>
+<AM lemma="devizový" src="manual" selected="1">AAIS4----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj2060-001-p1s9W14-Ta">

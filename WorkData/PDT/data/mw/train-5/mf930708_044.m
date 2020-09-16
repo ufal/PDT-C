@@ -35,7 +35,7 @@
 <LM>w#w-mf930708-044-p1s1w3</LM>
 </w.rf>
 <form>blues</form>
-<tag lemma="blues" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="blues-1" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-mf930708-044-p1s1w4">
 <src.rf>manual</src.rf>
@@ -169,7 +169,7 @@
 <LM>w#w-mf930708-044-p1s1w19</LM>
 </w.rf>
 <form>nadšeného</form>
-<tag lemma="nadšený_^(*4chnout)" src="orig" selected="1">AAIS2----1A----</tag>
+<tag lemma="nadšený" src="orig" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-mf930708-044-p1s1w20">
 <src.rf>manual</src.rf>

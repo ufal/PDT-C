@@ -201,7 +201,7 @@
 <form>Davida</form>
 <tag>
 <AM lemma="David_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="David_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
+<AM lemma="David-1_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1816-001-p1s0W21-Ta">
@@ -945,7 +945,7 @@
 </w.rf>
 <form>Svých</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8XP2----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8XP2----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8XP6----------</AM>
 </tag>
 </m>
@@ -1262,7 +1262,7 @@
 <tag>
 <AM lemma="David_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="David_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="David_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="David-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1816-001-p1s3W9-Ta">

@@ -49,7 +49,7 @@
 <form>repete</form>
 <tag>
 <AM lemma="repete_,h" src="orig">NNNXX-----A----</AM>
-<AM lemma="repete_,s" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="repete" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="repete" src="manual">Db-------------</AM>
 </tag>
 </m>
@@ -141,7 +141,7 @@
 <LM>w#w-ln94200-158-p2s1Aw10</LM>
 </w.rf>
 <form>Boby</form>
-<tag lemma="Boby_;m" src="auto" selected="1">NNXXX-----A----</tag>
+<tag lemma="Boby-2_;m" src="auto" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln94200-158-p2s1Aw11">
 <src.rf>manual</src.rf>
@@ -780,7 +780,7 @@
 <LM>w#w-ln94200-158-p3s3w3</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-ln94200-158-p3s3w4">
 <src.rf>manual</src.rf>
@@ -990,7 +990,7 @@
 <LM>w#w-ln94200-158-p3s4w9</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-ln94200-158-p3s4w10">
 <src.rf>manual</src.rf>
@@ -1134,7 +1134,7 @@
 <LM>w#w-ln94200-158-p3s4w27</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS2---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS2---------1</tag>
 </m>
 <m id="m-ln94200-158-p3s4w28">
 <src.rf>manual</src.rf>
@@ -1320,7 +1320,7 @@
 <LM>w#w-ln94200-158-p3s5w11</LM>
 </w.rf>
 <form>nemoci</form>
-<tag lemma="nemoc_^(choroba)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="nemoc" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94200-158-p3s5w12">
 <src.rf>manual</src.rf>

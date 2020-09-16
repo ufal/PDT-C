@@ -19,7 +19,7 @@
 <LM>w#w-lnd92251-075-p1s1w1</LM>
 </w.rf>
 <form>RADA</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92251-075-p1s1w2">
 <src.rf>manual</src.rf>
@@ -301,7 +301,7 @@
 <LM>w#w-lnd92251-075-p3s2w10</LM>
 </w.rf>
 <form>podání</form>
-<tag lemma="podání_^(něco_[někomu]_[někam])_(*3at)" src="orig" selected="1">NNNS3-----A----</tag>
+<tag lemma="podání_^(*3at)" src="orig" selected="1">NNNS3-----A----</tag>
 </m>
 <m id="m-lnd92251-075-p3s2w11">
 <src.rf>manual</src.rf>
@@ -349,7 +349,7 @@
 <LM>w#w-lnd92251-075-p3s2w16</LM>
 </w.rf>
 <form>členů</form>
-<tag lemma="člen" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd92251-075-p3s2w17">
 <src.rf>manual</src.rf>
@@ -357,7 +357,7 @@
 <LM>w#w-lnd92251-075-p3s2w17</LM>
 </w.rf>
 <form>Rady</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92251-075-p3s2w18">
 <src.rf>manual</src.rf>
@@ -413,7 +413,7 @@
 <LM>w#w-lnd92251-075-p3s2w24</LM>
 </w.rf>
 <form>rada</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92251-075-p3s2w25">
 <src.rf>manual</src.rf>
@@ -723,7 +723,7 @@
 <LM>w#w-lnd92251-075-p4s1w3</LM>
 </w.rf>
 <form>Rady</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92251-075-p4s1w4">
 <src.rf>manual</src.rf>
@@ -969,7 +969,7 @@
 <LM>w#w-lnd92251-075-p4s1w33</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-lnd92251-075-p4s1w34">
 <src.rf>manual</src.rf>
@@ -1001,7 +1001,7 @@
 <LM>w#w-lnd92251-075-p4s1w37</LM>
 </w.rf>
 <form>orgánu</form>
-<tag lemma="orgán" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92251-075-p4s1w38">
 <src.rf>manual</src.rf>

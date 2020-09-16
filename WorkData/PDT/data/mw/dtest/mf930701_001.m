@@ -167,7 +167,7 @@
 <LM>w#w-mf930701-001-p2s1w16</LM>
 </w.rf>
 <form>veteránů</form>
-<tag lemma="veterán" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="veterán-1" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf930701-001-p2s1w17">
 <src.rf>manual</src.rf>
@@ -430,7 +430,7 @@
 <tag>
 <AM lemma="tiebreak_,t_^(sport.:_rozhodující_hra,_obv._zkrácená)" src="orig">NNIS2-----A----</AM>
 <AM lemma="tiebreaku-77" src="manual">F%-------------</AM>
-<AM lemma="tiebreak_^(sport.:_rozhodující_hra,_obv._zkrácená)" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="tiebreak_^(rozhodující_hra,_obv._zkrácená)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-001-p2s3w5">
@@ -601,7 +601,7 @@
 <LM>w#w-mf930701-001-p2s4w7</LM>
 </w.rf>
 <form>podání</form>
-<tag lemma="podání_^(něco_[někomu]_[někam])_(*3at)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="podání_^(*3at)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf930701-001-p2s4w8">
 <src.rf>manual</src.rf>
@@ -649,7 +649,7 @@
 <LM>w#w-mf930701-001-p2s4w13</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-mf930701-001-p2s4w14">
 <src.rf>manual</src.rf>
@@ -864,7 +864,7 @@
 <LM>w#w-mf930701-001-p4s1w18</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf930701-001-p4s1w19">
 <src.rf>manual</src.rf>
@@ -946,7 +946,7 @@
 <LM>w#w-mf930701-001-p4s2w7</LM>
 </w.rf>
 <form>sudí</form>
-<tag lemma="sudí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="sudí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-001-p4s2w8">
 <src.rf>manual</src.rf>

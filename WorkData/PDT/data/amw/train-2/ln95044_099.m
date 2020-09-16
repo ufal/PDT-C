@@ -461,7 +461,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -626,7 +626,7 @@
 <LM>w#w-ln95044-099-p3s2w28</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln95044-099-p3s2w29">
 <src.rf>manual</src.rf>
@@ -796,7 +796,7 @@
 <LM>w#w-ln95044-099-p3s3w18</LM>
 </w.rf>
 <form>orgánů</form>
-<tag lemma="orgán" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln95044-099-p3s3w19">
 <src.rf>manual</src.rf>
@@ -1212,7 +1212,7 @@
 <LM>w#w-ln95044-099-p3s3w70</LM>
 </w.rf>
 <form>události</form>
-<tag lemma="událost_,a_^(*3ý)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="událost" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95044-099-p3s3w71">
 <src.rf>manual</src.rf>

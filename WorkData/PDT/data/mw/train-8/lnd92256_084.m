@@ -200,7 +200,7 @@
 <LM>w#w-lnd92256-084-p1s1w23</LM>
 </w.rf>
 <form>vážící</form>
-<tag lemma="vážící_^(např._provazem;_se_k_čemu)_(*4zat)" src="auto" selected="1">AGMS1-----A----</tag>
+<tag lemma="vážící_^(*3it)" src="auto" selected="1">AGMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-084-p1s1w24">
 <src.rf>manual</src.rf>
@@ -964,7 +964,7 @@
 <LM>w#w-lnd92256-084-p1s5w3</LM>
 </w.rf>
 <form>dalo</form>
-<tag lemma="dát" src="orig" selected="1">VpNS----R-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-lnd92256-084-p1s5w4">
 <src.rf>manual</src.rf>

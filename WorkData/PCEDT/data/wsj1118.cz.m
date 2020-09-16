@@ -4477,7 +4477,7 @@
 <AM lemma="pozdní-2_^(v_roce,_ročním_období)" src="auto">AAFS5----1A----</AM>
 <AM lemma="pozdní-2_^(v_roce,_ročním_období)" src="auto">AAFS6----1A----</AM>
 <AM lemma="pozdní-2_^(v_roce,_ročním_období)" src="auto">AAFS7----1A----</AM>
-<AM lemma="pozdní-2_^(v_roce,_ročním_období)" src="auto" recommended="1">AAIP1----1A----</AM>
+<AM lemma="pozdní" src="auto" recommended="1">AAIP1----1A----</AM>
 <AM lemma="pozdní-2_^(v_roce,_ročním_období)" src="auto">AAIP4----1A----</AM>
 <AM lemma="pozdní-2_^(v_roce,_ročním_období)" src="auto">AAIP5----1A----</AM>
 <AM lemma="pozdní-2_^(v_roce,_ročním_období)" src="auto">AAIS1----1A----</AM>
@@ -6462,7 +6462,7 @@
 </w.rf>
 <form>pokladní</form>
 <tag>
-<AM lemma="pokladní" src="auto" recommended="1">AAFP1----1A----</AM>
+<AM lemma="pokladní-1" src="auto" recommended="1">AAFP1----1A----</AM>
 <AM lemma="pokladní" src="auto">AAFP4----1A----</AM>
 <AM lemma="pokladní" src="auto">AAFP5----1A----</AM>
 <AM lemma="pokladní" src="auto">AAFS1----1A----</AM>
@@ -7186,7 +7186,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1118-001-p1s25W20-Ta">
@@ -7505,7 +7505,7 @@
 <form>danou</form>
 <tag>
 <AM lemma="daný_^(*3át)" src="auto">AAFS4----1A----</AM>
-<AM lemma="daný_^(*3át)" src="auto" recommended="1">AAFS7----1A----</AM>
+<AM lemma="daný-1_^(*5át-1)" src="auto" recommended="1">AAFS7----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj1118-001-p1s26W20-Ta">
@@ -7872,7 +7872,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1118-001-p1s28W18-Ta">
@@ -8300,7 +8300,7 @@
 <form>danou</form>
 <tag>
 <AM lemma="daný_^(*3át)" src="auto">AAFS4----1A----</AM>
-<AM lemma="daný_^(*3át)" src="auto" recommended="1">AAFS7----1A----</AM>
+<AM lemma="daný-1_^(*5át-1)" src="auto" recommended="1">AAFS7----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj1118-001-p1s28W51-Ta">

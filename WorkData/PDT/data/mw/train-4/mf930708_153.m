@@ -411,7 +411,7 @@
 <LM>w#w-mf930708-153-p2s2w28</LM>
 </w.rf>
 <form>ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf930708-153-p2s2w29">
 <src.rf>manual</src.rf>
@@ -639,7 +639,7 @@
 <LM>w#w-mf930708-153-p2s4w17</LM>
 </w.rf>
 <form>stanovením</form>
-<tag lemma="stanovení_^(určit)_(*3it)" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="stanovení_^(*3it)" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-mf930708-153-p2s4w18">
 <src.rf>manual</src.rf>
@@ -913,7 +913,7 @@
 <LM>w#w-mf930708-153-p2s5w24</LM>
 </w.rf>
 <form>modely</form>
-<tag lemma="model" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="model-1" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-mf930708-153-p2s5w25">
 <src.rf>manual</src.rf>
@@ -1313,7 +1313,7 @@
 <LM>w#w-mf930708-153-p3s4w6</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-mf930708-153-p3s4w7">
 <src.rf>manual</src.rf>
@@ -3214,7 +3214,7 @@
 <LM>w#w-mf930708-153-p6s3w10</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930708-153-p6s3w11">
 <src.rf>manual</src.rf>

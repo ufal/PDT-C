@@ -740,7 +740,7 @@
 <LM>w#w-ln94206-26-p3s1w15</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-ln94206-26-p3s1w16">
 <src.rf>manual</src.rf>

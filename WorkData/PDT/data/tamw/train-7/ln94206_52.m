@@ -240,7 +240,7 @@
 <LM>w#w-ln94206-52-p2s1Bw15</LM>
 </w.rf>
 <form>ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94206-52-p2s1Bw16">
 <src.rf>manual</src.rf>
@@ -773,7 +773,7 @@
 <LM>w#w-ln94206-52-p3s4w8</LM>
 </w.rf>
 <form>co</form>
-<tag lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="co-5_^(př._co_nejméně,_co_nevidět_atd.)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94206-52-p3s4w9">
 <src.rf>manual</src.rf>

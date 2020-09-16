@@ -286,7 +286,7 @@
 <LM>w#w-mf920901-118-p4s2w23</LM>
 </w.rf>
 <form>ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf920901-118-p4s2w24">
 <src.rf>manual</src.rf>
@@ -772,7 +772,7 @@
 <LM>w#w-mf920901-118-p5s3w3</LM>
 </w.rf>
 <form>lepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AANS1----2A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AANS1----2A----</tag>
 </m>
 <m id="m-mf920901-118-p5s3w4">
 <src.rf>manual</src.rf>
@@ -1006,7 +1006,7 @@
 <LM>w#w-mf920901-118-p5s4w10</LM>
 </w.rf>
 <form>ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf920901-118-p5s4w11">
 <src.rf>manual</src.rf>
@@ -1046,7 +1046,7 @@
 <LM>w#w-mf920901-118-p5s4w15</LM>
 </w.rf>
 <form>rozvodu</form>
-<tag lemma="rozvod-1_^(manželství)" src="orig" selected="1">NNIS3-----A----</tag>
+<tag lemma="rozvod_^(manželství;vody)" src="orig" selected="1">NNIS3-----A----</tag>
 </m>
 <m id="m-mf920901-118-p5s4w16">
 <src.rf>manual</src.rf>

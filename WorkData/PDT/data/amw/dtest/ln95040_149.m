@@ -385,7 +385,7 @@
 <LM>w#w-ln95040-149-p3s2w4</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS4----------</tag>
 </m>
 <m id="m-ln95040-149-p3s2w5">
 <src.rf>manual</src.rf>
@@ -791,7 +791,7 @@
 <LM>w#w-ln95040-149-p4s1w19</LM>
 </w.rf>
 <form>dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95040-149-p4s1w20">
 <src.rf>manual</src.rf>
@@ -995,7 +995,7 @@
 <LM>w#w-ln95040-149-p4s3w6</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln95040-149-p4s3w7">
 <src.rf>manual</src.rf>
@@ -1083,7 +1083,7 @@
 <LM>w#w-ln95040-149-p4s3w17</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-ln95040-149-p4s3w18">
 <src.rf>manual</src.rf>
@@ -1327,7 +1327,7 @@
 <LM>w#w-ln95040-149-p6s1w1</LM>
 </w.rf>
 <form>Vydáním</form>
-<tag lemma="vydání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="vydání_^(*3at)" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-ln95040-149-p6s1w2">
 <src.rf>manual</src.rf>

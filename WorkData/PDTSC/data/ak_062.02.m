@@ -12,7 +12,7 @@
 <LM>w#w-d1t467-8</LM>
 </w.rf>
 <form>Vypadal</form>
-<tag lemma="vypadat" src="auto" recommended="1">VpYS----R-AAI--</tag>
+<tag lemma="vypadat-1_^(ty_vypadáš)" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m062-d1t467-9">
 <w.rf>
@@ -609,7 +609,7 @@
 <form>Naši</form>
 <tag>
 <AM lemma="můj_^(přivlast.)" src="auto">PSFS4-P1-------</AM>
-<AM lemma="můj_^(přivlast.)" src="auto" recommended="1">PSMP1-P1-------</AM>
+<AM lemma="náš" src="auto" recommended="1">PSMP1-P1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSMP5-P1-------</AM>
 </tag>
 </m>
@@ -971,7 +971,7 @@
 <form>Myslím</form>
 <tag>
 <AM lemma="mysl" src="auto">NNFP3-----A----</AM>
-<AM lemma="myslet" src="auto" selected="1">VB-S---1P-AAI--</AM>
+<AM lemma="myslit" src="auto" selected="1">VB-S---1P-AAI--</AM>
 <AM lemma="myslit" src="auto" recommended="1">VB-S---1P-AAI--</AM>
 </tag>
 </m>
@@ -983,7 +983,7 @@
 <tag>
 <AM lemma="teda-1_,h" src="auto" recommended="1">Db------------6</AM>
 <AM lemma="teda-2_,h" src="auto">TT-------------</AM>
-<AM lemma="teda-1_,h_^(^GC**tedy-1)" src="manual" selected="1">TT-------------</AM>
+<AM lemma="teda-1_,h" src="manual" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m062-d1t512-12">
@@ -1268,7 +1268,7 @@
 <form>váš</form>
 <tag>
 <AM lemma="tvůj_^(přivlast.)" src="auto">PSIS4-P2-------</AM>
-<AM lemma="tvůj_^(přivlast.)" src="auto" recommended="1">PSYS1-P2-------</AM>
+<AM lemma="váš" src="auto" recommended="1">PSYS1-P2-------</AM>
 <AM lemma="tvůj_^(přivlast.)" src="auto">PSYS5-P2-------</AM>
 </tag>
 </m>
@@ -2312,7 +2312,7 @@
 <AM lemma="představený-1_^(člověk)" src="auto">NNMP1-----A---6</AM>
 <AM lemma="představený-1_^(člověk)" src="auto">NNMP4-----A---6</AM>
 <AM lemma="představený-1_^(člověk)" src="auto">NNMP5-----A---6</AM>
-<AM lemma="představený-1_^(člověk)" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="představený-2_^(člověk)" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="představený-1_^(člověk)" src="auto">NNMS5-----A----</AM>
 </tag>
 </m>

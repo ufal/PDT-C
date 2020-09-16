@@ -107,7 +107,7 @@
 <LM>w#w-lnd92259-017-p1s1w12</LM>
 </w.rf>
 <form>vyhlášenou</form>
-<tag lemma="vyhlášený_,a_^(*4sit)" src="orig" selected="1">AAFS7----1A----</tag>
+<tag lemma="vyhlášený_^(*2t)_(*4sit)" src="orig" selected="1">AAFS7----1A----</tag>
 </m>
 <m id="m-lnd92259-017-p1s1w13">
 <src.rf>manual</src.rf>
@@ -185,7 +185,7 @@
 <LM>w#w-lnd92259-017-p1s1w21</LM>
 </w.rf>
 <form>KOLUMBUS</form>
-<tag lemma="Kolumbus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kolumbus-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-017-p1s1w22">
 <src.rf>manual</src.rf>

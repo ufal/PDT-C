@@ -384,7 +384,7 @@
 <LM>w#w-lnd92255-017-p1s2w19</LM>
 </w.rf>
 <form>skotu</form>
-<tag lemma="skot" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="skot-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92255-017-p1s2w20">
 <src.rf>manual</src.rf>

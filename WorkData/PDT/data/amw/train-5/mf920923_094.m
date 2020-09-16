@@ -56,7 +56,7 @@
 <LM>w#w-mf920923-094-p1s1Aw4</LM>
 </w.rf>
 <form>zeštíhlení</form>
-<tag lemma="zeštíhlení_^(*2t)" src="auto" selected="1">NNNS1-----A----</tag>
+<tag lemma="zeštíhlení_^(*2t)_(*3it)" src="auto" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf920923-094-p1s1Aw5">
 <src.rf>manual</src.rf>
@@ -337,7 +337,7 @@
 <LM>w#w-mf920923-094-p2s2w20</LM>
 </w.rf>
 <form>politiky</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920923-094-p2s2w21">
 <src.rf>manual</src.rf>
@@ -492,7 +492,7 @@
 <LM>w#w-mf920923-094-p2s2w39</LM>
 </w.rf>
 <form>politiky</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920923-094-p2s2w40">
 <src.rf>manual</src.rf>
@@ -939,7 +939,7 @@
 <LM>w#w-mf920923-094-p2s4w3</LM>
 </w.rf>
 <form>navržené</form>
-<tag lemma="navržený_^(*4hnout)" src="orig" selected="1">AAIP1----1A----</tag>
+<tag lemma="navržený" src="orig" selected="1">AAIP1----1A----</tag>
 </m>
 <m id="m-mf920923-094-p2s4w4">
 <src.rf>manual</src.rf>
@@ -1070,7 +1070,7 @@
 <LM>w#w-mf920923-094-p2s4w19</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS2---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS2---------1</tag>
 </m>
 <m id="m-mf920923-094-p2s4w20">
 <src.rf>manual</src.rf>
@@ -1706,7 +1706,7 @@
 <LM>w#w-mf920923-094-p3s2w5</LM>
 </w.rf>
 <form>roli</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="role_^(svitek_poslání_pozemek)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf920923-094-p3s2w6">
 <src.rf>manual</src.rf>
@@ -1976,7 +1976,7 @@
 <LM>w#w-mf920923-094-p3s5w5</LM>
 </w.rf>
 <form>zeštíhlení</form>
-<tag lemma="zeštíhlení_^(*2t)" src="auto" selected="1">NNNS2-----A----</tag>
+<tag lemma="zeštíhlení_^(*2t)_(*3it)" src="auto" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-mf920923-094-p3s5w6">
 <src.rf>manual</src.rf>

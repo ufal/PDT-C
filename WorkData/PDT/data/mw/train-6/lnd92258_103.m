@@ -98,7 +98,7 @@
 <LM>w#w-lnd92258-103-p3s1w2</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-lnd92258-103-p3s1w3">
 <src.rf>manual</src.rf>
@@ -172,7 +172,7 @@
 <form>nedali</form>
 <tag>
 <AM lemma="dát" src="orig">VpMP----R-NAP--</AM>
-<AM lemma="dát" src="manual" selected="1">VpMP----R-NAP--</AM>
+<AM lemma="dát-1" src="manual" selected="1">VpMP----R-NAP--</AM>
 </tag>
 </m>
 <m id="m-lnd92258-103-p3s1w12">
@@ -379,7 +379,7 @@
 <form>SÁDOVSKÁ</form>
 <tag>
 <AM lemma="Sádovský_;Y" src="orig">NNFS1-----A----</AM>
-<AM lemma="Sádovská_;Y" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
+<AM lemma="Sádovská_;Y_^(*1ý)" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 <AM lemma="Sádovská_;Y" src="auto">NNFS5-----A----</AM>
 <AM lemma="sádovský" src="auto">AAFS1----1A----</AM>
 <AM lemma="sádovský" src="auto">AAFS5----1A----</AM>

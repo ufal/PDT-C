@@ -101,7 +101,7 @@
 <form>svého</form>
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8MS4----------</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8ZS2----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8ZS2----------</AM>
 </tag>
 </m>
 <m id="m-wsj0407-001-p1s0W10-Ta">
@@ -1266,7 +1266,7 @@
 <AM lemma="Clayton_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Clayton_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Clayton_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Clayton_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Clayton-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0407-001-p1s3W24-Ta">

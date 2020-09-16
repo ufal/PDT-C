@@ -1331,7 +1331,7 @@
 <tag>
 <AM lemma="Bristol_;G" src="auto">NNIS2-----A----</AM>
 <AM lemma="Bristol_;G" src="auto">NNIS3-----A----</AM>
-<AM lemma="Bristol_;G" src="auto" recommended="1">NNIS6-----A---1</AM>
+<AM lemma="Bristol_;G_;m" src="auto" recommended="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-wsj1528-001-p1s5W9-Ta">
@@ -4579,7 +4579,7 @@
 </w.rf>
 <form>datu</form>
 <tag>
-<AM lemma="datum_^(kalendářní)" src="auto" recommended="1">NNNS3-----A----</AM>
+<AM lemma="datum-1_^(kalendářní)" src="auto" recommended="1">NNNS3-----A----</AM>
 <AM lemma="datum_^(kalendářní)" src="auto">NNNS6-----A----</AM>
 </tag>
 </m>

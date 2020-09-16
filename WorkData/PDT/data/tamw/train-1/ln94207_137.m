@@ -601,7 +601,7 @@
 <LM>w#w-ln94207-137-p3s2w9</LM>
 </w.rf>
 <form>převáženými</form>
-<tag lemma="převážený_^(něco_někam_např._autem)_(*2t)" src="orig" selected="1">AAIP7----1A----</tag>
+<tag lemma="převážený_^(*2t)_(*3it)" src="orig" selected="1">AAIP7----1A----</tag>
 </m>
 <m id="m-ln94207-137-p3s2w10">
 <src.rf>manual</src.rf>

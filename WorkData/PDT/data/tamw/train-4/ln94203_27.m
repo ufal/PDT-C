@@ -339,7 +339,7 @@
 <LM>w#w-ln94203-27-p3s1w8</LM>
 </w.rf>
 <form>manažery</form>
-<tag lemma="manažer" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="manažer-1" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-ln94203-27-p3s1w9">
 <src.rf>manual</src.rf>
@@ -469,7 +469,7 @@
 <LM>w#w-ln94203-27-p3s2w2</LM>
 </w.rf>
 <form>prvního</form>
-<tag lemma="první" src="orig" selected="1">CrIS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS2----------</tag>
 </m>
 <m id="m-ln94203-27-p3s2w3">
 <src.rf>manual</src.rf>
@@ -563,7 +563,7 @@
 <LM>w#w-ln94203-27-p4s1w6</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94203-27-p4s1w7">
 <src.rf>manual</src.rf>
@@ -605,7 +605,7 @@
 <LM>w#w-ln94203-27-p4s2w4</LM>
 </w.rf>
 <form>prvního</form>
-<tag lemma="první" src="orig" selected="1">CrNS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS2----------</tag>
 </m>
 <m id="m-ln94203-27-p4s2w5">
 <src.rf>manual</src.rf>

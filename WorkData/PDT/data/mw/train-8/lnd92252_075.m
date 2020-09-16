@@ -171,7 +171,7 @@
 <LM>w#w-lnd92252-075-p5s1w3</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-lnd92252-075-p5s1w4">
 <src.rf>manual</src.rf>
@@ -432,7 +432,7 @@
 <LM>w#w-lnd92252-075-p10s1w1</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-4_^(v_knize,_rukopise,...)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-lnd92252-075-p10s1w2">
 <src.rf>manual</src.rf>

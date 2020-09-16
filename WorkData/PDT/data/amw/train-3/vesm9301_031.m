@@ -87,7 +87,7 @@
 <LM>w#w-vesm9301-031-p3s1w1</LM>
 </w.rf>
 <form>Miroslav</form>
-<tag lemma="Miroslav_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Miroslav-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9301-031-p3s1w2">
 <src.rf>manual</src.rf>
@@ -413,7 +413,7 @@
 <LM>w#w-vesm9301-031-p13s1w6</LM>
 </w.rf>
 <form>faktory</form>
-<tag lemma="faktor" src="orig" selected="1">NNIP7-----A----</tag>
+<tag lemma="faktor-1" src="orig" selected="1">NNIP7-----A----</tag>
 </m>
 </s>
 <s id="m-vesm9301-031-p16s1">
@@ -758,7 +758,7 @@
 <LM>w#w-vesm9301-031-p27s1w1</LM>
 </w.rf>
 <form>ZAMYŠLENÍ</form>
-<tag lemma="zamyšlení_^(*5slet)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="zamyšlení_^(*5slit)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-vesm9301-031-p27s1w2">
 <src.rf>manual</src.rf>
@@ -1070,7 +1070,7 @@
 <LM>w#w-vesm9301-031-p32s1w1</LM>
 </w.rf>
 <form>ESEJE</form>
-<tag lemma="esej" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="esej-2" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 </s>
 <s id="m-vesm9301-031-p33s1">
@@ -1326,7 +1326,7 @@
 <LM>w#w-vesm9301-031-p38s1Cw3</LM>
 </w.rf>
 <form>vlhovci</form>
-<tag lemma="vlhovec_;U_^(živočich)" src="orig" selected="1">NNMP7-----A----</tag>
+<tag lemma="vlhovec_^(živočich)" src="orig" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-vesm9301-031-p38s1Cw4">
 <src.rf>manual</src.rf>
@@ -1799,7 +1799,7 @@
 <LM>w#w-vesm9301-031-p40s1w1</LM>
 </w.rf>
 <form>Svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8YS1----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8YS1----------</tag>
 </m>
 <m id="m-vesm9301-031-p40s1w2">
 <src.rf>manual</src.rf>
@@ -1834,7 +1834,7 @@
 <LM>w#w-vesm9301-031-p40s1w5</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS1FS3-------</tag>
 </m>
 <m id="m-vesm9301-031-p40s1w6">
 <src.rf>manual</src.rf>
@@ -2023,7 +2023,7 @@
 <LM>w#w-vesm9301-031-p44s1w1</LM>
 </w.rf>
 <form>Eros</form>
-<tag lemma="Eros_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Eros-2_;Y_,s_^(^DD**Erós-2)" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9301-031-p44s1w2">
 <src.rf>manual</src.rf>

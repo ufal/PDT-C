@@ -43,7 +43,7 @@
 <LM>w#w-mf930708-169-p1s1w4</LM>
 </w.rf>
 <form>Vyšném</form>
-<tag lemma="Vyšný_;G" src="orig" selected="1">AANS6----1A----</tag>
+<tag lemma="vyšný" src="orig" selected="1">AANS6----1A----</tag>
 </m>
 <m id="m-mf930708-169-p1s1w5">
 <src.rf>manual</src.rf>
@@ -253,7 +253,7 @@
 <LM>w#w-mf930708-169-p2s1w21</LM>
 </w.rf>
 <form>Vyšném</form>
-<tag lemma="Vyšný_;G" src="orig" selected="1">AANS6----1A----</tag>
+<tag lemma="vyšný" src="orig" selected="1">AANS6----1A----</tag>
 </m>
 <m id="m-mf930708-169-p2s1w22">
 <src.rf>manual</src.rf>
@@ -396,7 +396,7 @@
 <LM>w#w-mf930708-169-p2s2w8</LM>
 </w.rf>
 <form>celnice</form>
-<tag lemma="celnice-2_^(místo_výkonu_služby)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="celnice_^(*3ík-1)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930708-169-p2s2w9">
 <src.rf>manual</src.rf>
@@ -500,7 +500,7 @@
 <LM>w#w-mf930708-169-p3s1w8</LM>
 </w.rf>
 <form>celnice</form>
-<tag lemma="celnice-2_^(místo_výkonu_služby)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="celnice_^(*3ík-1)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930708-169-p3s1w9">
 <src.rf>manual</src.rf>
@@ -879,7 +879,7 @@
 <LM>w#w-mf930708-169-p3s2w3</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf930708-169-p3s2w4">
 <src.rf>manual</src.rf>
@@ -935,7 +935,7 @@
 <LM>w#w-mf930708-169-p3s2w10</LM>
 </w.rf>
 <form>dlouhá</form>
-<tag lemma="dlouhý-1_^(fyz._délka;_př._dlouhá_tyč)" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-mf930708-169-p3s2w11">
 <src.rf>manual</src.rf>
@@ -977,7 +977,7 @@
 <LM>w#w-mf930708-169-p3s3w2</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-mf930708-169-p3s3w3">
 <src.rf>manual</src.rf>
@@ -985,7 +985,7 @@
 <LM>w#w-mf930708-169-p3s3w3</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf930708-169-p3s3w4">
 <src.rf>manual</src.rf>
@@ -1720,7 +1720,7 @@
 <LM>w#w-mf930708-169-p7s1w6</LM>
 </w.rf>
 <form>ohlášení</form>
-<tag lemma="ohlášení_,a_^(*4sit)" src="auto" selected="1">NNNS2-----A----</tag>
+<tag lemma="ohlášení_^(*2t)_(*4sit)" src="auto" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-mf930708-169-p7s1w7">
 <src.rf>manual</src.rf>
@@ -1744,7 +1744,7 @@
 <LM>w#w-mf930708-169-p7s1w9</LM>
 </w.rf>
 <form>orgány</form>
-<tag lemma="orgán" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-mf930708-169-p7s1w10">
 <src.rf>manual</src.rf>
@@ -1804,7 +1804,7 @@
 <form>Sto</form>
 <tag>
 <AM lemma="sto-2`100" src="orig">NNNS4-----A----</AM>
-<AM lemma="sto-21100" src="manual" selected="1">CzNS4----------</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNS4----------</AM>
 </tag>
 </m>
 <m id="m-mf930708-169-p7s2w2">

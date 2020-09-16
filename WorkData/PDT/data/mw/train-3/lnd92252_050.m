@@ -320,7 +320,7 @@
 <LM>w#w-lnd92252-050-p1s2w11</LM>
 </w.rf>
 <form>Jean</form>
-<tag lemma="Jean_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jean-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-050-p1s2w12">
 <src.rf>manual</src.rf>
@@ -392,7 +392,7 @@
 <LM>w#w-lnd92252-050-p1s2w20</LM>
 </w.rf>
 <form>podání</form>
-<tag lemma="podání_^(něco_[někomu]_[někam])_(*3at)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="podání_^(*3at)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-lnd92252-050-p1s2w21">
 <src.rf>manual</src.rf>
@@ -747,7 +747,7 @@
 <LM>w#w-lnd92252-050-p1s3w26</LM>
 </w.rf>
 <form>přeložený</form>
-<tag lemma="přeložený-3_^(z_jazyka)_(*5it-3)" src="orig" selected="1">AAIS1----1A----</tag>
+<tag lemma="přeložený_^(*3it)" src="orig" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-lnd92252-050-p1s3w27">
 <src.rf>manual</src.rf>
@@ -912,7 +912,7 @@
 <LM>w#w-lnd92252-050-p2s1w17</LM>
 </w.rf>
 <form>veterán</form>
-<tag lemma="veterán" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="veterán-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-050-p2s1w18">
 <src.rf>manual</src.rf>
@@ -1367,7 +1367,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92252-050-p2s3w7">
@@ -1451,7 +1451,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92252-050-p2s3w17">

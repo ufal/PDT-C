@@ -19,7 +19,7 @@
 <LM>w#w-ln95048-156-p1s1w1</LM>
 </w.rf>
 <form>Philips</form>
-<tag lemma="Philips_;m" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Philips-2_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95048-156-p1s1w2">
 <src.rf>manual</src.rf>
@@ -87,7 +87,7 @@
 <LM>w#w-ln95048-156-p2s1Bw4</LM>
 </w.rf>
 <form>Philips</form>
-<tag lemma="Philips_;m" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Philips-2_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95048-156-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -439,7 +439,7 @@
 <LM>w#w-ln95048-156-p3s2w1</LM>
 </w.rf>
 <form>Philips</form>
-<tag lemma="Philips_;m" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Philips-2_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95048-156-p3s2w2">
 <src.rf>manual</src.rf>
@@ -479,7 +479,7 @@
 <LM>w#w-ln95048-156-p3s2w6</LM>
 </w.rf>
 <form>lety</form>
-<tag lemma="rok" src="orig" selected="1">NNNP7-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP7-----A----</tag>
 </m>
 <m id="m-ln95048-156-p3s2w7">
 <src.rf>manual</src.rf>
@@ -657,7 +657,7 @@
 <LM>w#w-ln95048-156-p3s3w11</LM>
 </w.rf>
 <form>Grundig</form>
-<tag lemma="Grundig_;m" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Grundig-2_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95048-156-p3s3w12">
 <src.rf>manual</src.rf>
@@ -1025,7 +1025,7 @@
 <LM>w#w-ln95048-156-p4s2w19</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln95048-156-p4s2w20">
 <src.rf>manual</src.rf>

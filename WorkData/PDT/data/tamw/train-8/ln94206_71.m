@@ -178,7 +178,7 @@
 <LM>w#w-ln94206-71-p2s1Bw12</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS6---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS6---------1</tag>
 </m>
 <m id="m-ln94206-71-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -218,7 +218,7 @@
 <LM>w#w-ln94206-71-p2s1Bw17</LM>
 </w.rf>
 <form>rada</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94206-71-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -659,7 +659,7 @@
 <LM>w#w-ln94206-71-p3s1w5</LM>
 </w.rf>
 <form>přijetí</form>
-<tag lemma="přijetí_^(*3mout)" src="auto" selected="1">NNNS4-----A----</tag>
+<tag lemma="přijetí_^(*1)_(*3mout)" src="auto" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln94206-71-p3s1w6">
 <src.rf>manual</src.rf>
@@ -723,7 +723,7 @@
 <LM>w#w-ln94206-71-p3s1w13</LM>
 </w.rf>
 <form>přijetí</form>
-<tag lemma="přijetí_^(*3mout)" src="auto" selected="1">NNNS4-----A----</tag>
+<tag lemma="přijetí_^(*1)_(*3mout)" src="auto" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln94206-71-p3s1w14">
 <src.rf>manual</src.rf>
@@ -731,7 +731,7 @@
 <LM>w#w-ln94206-71-p3s1w14</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-ln94206-71-p3s1w15">
 <src.rf>manual</src.rf>
@@ -901,7 +901,7 @@
 <LM>w#w-ln94206-71-p3s2w9</LM>
 </w.rf>
 <form>radě</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94206-71-p3s2w10">
 <src.rf>manual</src.rf>
@@ -981,7 +981,7 @@
 <LM>w#w-ln94206-71-p3s2w19</LM>
 </w.rf>
 <form>zkrácení</form>
-<tag lemma="zkrácení_,a_^(*2t)" src="auto" selected="1">NNNS4-----A----</tag>
+<tag lemma="zkrácení_^(*4tit)" src="auto" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln94206-71-p3s2w20">
 <src.rf>manual</src.rf>

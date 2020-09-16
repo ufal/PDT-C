@@ -393,7 +393,7 @@
 <LM>w#w-lnd92256-106-p4s3w24</LM>
 </w.rf>
 <form>bojí</form>
-<tag lemma="bát" src="orig" selected="1">VB-P---3P-AAI--</tag>
+<tag lemma="bát-1" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd92256-106-p4s3w25">
 <src.rf>manual</src.rf>
@@ -539,7 +539,7 @@
 <LM>w#w-lnd92256-106-p4s4w17</LM>
 </w.rf>
 <form>sekretář</form>
-<tag lemma="sekretář" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="sekretář-2" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-106-p4s4w18">
 <src.rf>manual</src.rf>
@@ -669,7 +669,7 @@
 <LM>w#w-lnd92256-106-p4s5w11</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-lnd92256-106-p4s5w12">
 <src.rf>manual</src.rf>
@@ -1027,7 +1027,7 @@
 <LM>w#w-lnd92256-106-p4s8w3</LM>
 </w.rf>
 <form>jet</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="orig" selected="1">Vf--------A-I--</tag>
+<tag lemma="jet-1" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-lnd92256-106-p4s8w4">
 <src.rf>manual</src.rf>

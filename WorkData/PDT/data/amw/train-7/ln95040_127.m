@@ -271,7 +271,7 @@
 <LM>w#w-ln95040-127-p2s1Bw15</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-ln95040-127-p2s1Bw16">
 <src.rf>manual</src.rf>
@@ -412,7 +412,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-127-p2s2w6">
@@ -915,7 +915,7 @@
 <LM>w#w-ln95040-127-p3s2w17</LM>
 </w.rf>
 <form>dali</form>
-<tag lemma="dát" src="orig" selected="1">VpMP----R-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95040-127-p3s2w18">
 <src.rf>manual</src.rf>
@@ -1176,7 +1176,7 @@
 <LM>w#w-ln95040-127-p4s1w15</LM>
 </w.rf>
 <form>jejímž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1ZS6FS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1ZS6FS3-------</tag>
 </m>
 <m id="m-ln95040-127-p4s1w16">
 <src.rf>manual</src.rf>
@@ -1346,7 +1346,7 @@
 <LM>w#w-ln95040-127-p4s2w9</LM>
 </w.rf>
 <form>správní</form>
-<tag lemma="správní_^(např._poplatek;_rada;_řád;...)" src="orig" selected="1">AANS1----1A----</tag>
+<tag lemma="správní_^(správní_rada;_řád)" src="orig" selected="1">AANS1----1A----</tag>
 </m>
 <m id="m-ln95040-127-p4s2w10">
 <src.rf>manual</src.rf>
@@ -2011,7 +2011,7 @@
 <LM>w#w-ln95040-127-p4s5w16</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln95040-127-p4s5w17">
 <src.rf>manual</src.rf>

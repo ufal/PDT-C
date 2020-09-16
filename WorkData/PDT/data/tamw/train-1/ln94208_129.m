@@ -228,7 +228,7 @@
 <LM>w#w-ln94208-129-p2s1Cw9</LM>
 </w.rf>
 <form>manažer</form>
-<tag lemma="manažer" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="manažer-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-129-p2s1Cw10">
 <src.rf>manual</src.rf>
@@ -1002,7 +1002,7 @@
 <LM>w#w-ln94208-129-p2s4w10</LM>
 </w.rf>
 <form>Miroslav</form>
-<tag lemma="Miroslav_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Miroslav-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-129-p2s4w11">
 <src.rf>manual</src.rf>
@@ -1150,7 +1150,7 @@
 <LM>w#w-ln94208-129-p3s2w2</LM>
 </w.rf>
 <form>hodiny</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94208-129-p3s2w3">
 <src.rf>manual</src.rf>
@@ -1696,7 +1696,7 @@
 <AM lemma="dna_^(nemoc)" src="auto">NNFP5-----A----</AM>
 <AM lemma="dna_^(nemoc)" src="auto">NNFS2-----A----</AM>
 <AM lemma="dno_^(např._propasti)" src="auto">NNNP7-----A----</AM>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1" selected="1">NNIP7-----A----</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1" selected="1">NNIP7-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-129-p4s2w14">
@@ -1729,7 +1729,7 @@
 <LM>w#w-ln94208-129-p4s2w17</LM>
 </w.rf>
 <form>dal</form>
-<tag lemma="dát" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94208-129-p4s2w18">
 <src.rf>manual</src.rf>
@@ -2306,7 +2306,7 @@
 <LM>w#w-ln94208-129-p4s4Bw3</LM>
 </w.rf>
 <form>vás</form>
-<tag lemma="ty" src="orig" selected="1">PP-P4--2-------</tag>
+<tag lemma="vy" src="orig" selected="1">PP-P4--2-------</tag>
 </m>
 <m id="m-ln94208-129-p4s4Bw4">
 <src.rf>manual</src.rf>

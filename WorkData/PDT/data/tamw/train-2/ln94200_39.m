@@ -1001,7 +1001,7 @@
 <form>kotovaných</form>
 <tag>
 <AM lemma="kótovaný_^(*2t)" src="orig">AAFP2----1A----</AM>
-<AM lemma="kotovaný_^(*2t)" src="auto" recommended="1" selected="1">AAFP2----1A----</AM>
+<AM lemma="kotovaný_^(^DD**kótovaný)_(*2t)" src="auto" recommended="1" selected="1">AAFP2----1A----</AM>
 <AM lemma="kotovaný_^(*2t)" src="auto">AAFP6----1A----</AM>
 <AM lemma="kotovaný_^(*2t)" src="auto">AAIP2----1A----</AM>
 <AM lemma="kotovaný_^(*2t)" src="auto">AAIP6----1A----</AM>
@@ -1681,7 +1681,7 @@
 <form>ČEZ</form>
 <tag>
 <AM lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ČEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČEZ-2_;m_^(České_energetické_závody)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-39-p6s1w16">
@@ -2008,7 +2008,7 @@
 <form>ČEZ</form>
 <tag>
 <AM lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ČEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČEZ-2_;m_^(České_energetické_závody)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-39-p7s1w8">
@@ -2049,7 +2049,7 @@
 <LM>w#w-ln94200-39-p7s1w12</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFP1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFP1----------</tag>
 </m>
 <m id="m-ln94200-39-p7s1w13">
 <src.rf>manual</src.rf>
@@ -2339,7 +2339,7 @@
 <LM>w#w-ln94200-39-p7s2w23</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrNS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS4----------</tag>
 </m>
 <m id="m-ln94200-39-p7s2w24">
 <src.rf>manual</src.rf>

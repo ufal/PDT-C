@@ -109,7 +109,7 @@
 <LM>w#w-ln95047-128-p2s1Aw6</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 </s>
 <s id="m-ln95047-128-p2s1B">
@@ -263,7 +263,7 @@
 <LM>w#w-ln95047-128-p2s1Cw14</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-ln95047-128-p2s1Cw15">
 <src.rf>manual</src.rf>
@@ -1130,7 +1130,7 @@
 <LM>w#w-ln95047-128-p4s1w9</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln95047-128-p4s1w10">
 <src.rf>manual</src.rf>

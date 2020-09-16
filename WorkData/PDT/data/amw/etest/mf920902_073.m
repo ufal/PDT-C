@@ -212,7 +212,7 @@
 <LM>w#w-mf920902-073-p2s2w2</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-mf920902-073-p2s2w3">
 <src.rf>manual</src.rf>
@@ -313,7 +313,7 @@
 <LM>w#w-mf920902-073-p2s3w3</LM>
 </w.rf>
 <form>dál</form>
-<tag lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="dál-3_,s_^(také,_za_další)_(^DD**dále-3)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf920902-073-p2s3w4">
 <src.rf>manual</src.rf>

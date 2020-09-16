@@ -312,7 +312,7 @@
 <LM>w#w-mf920922-011-p1s2w6</LM>
 </w.rf>
 <form>co</form>
-<tag lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="co-5_^(př._co_nejméně,_co_nevidět_atd.)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf920922-011-p1s2w7">
 <src.rf>manual</src.rf>
@@ -368,7 +368,7 @@
 <LM>w#w-mf920922-011-p1s2w13</LM>
 </w.rf>
 <form>masové</form>
-<tag lemma="masový-2_^(velký)" src="orig" selected="1">AANS1----1A----</tag>
+<tag lemma="masový" src="orig" selected="1">AANS1----1A----</tag>
 </m>
 <m id="m-mf920922-011-p1s2w14">
 <src.rf>manual</src.rf>
@@ -1008,7 +1008,7 @@
 <LM>w#w-mf920922-011-p1s6w13</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920922-011-p1s6w14">
 <src.rf>manual</src.rf>
@@ -1353,7 +1353,7 @@
 <LM>w#w-mf920922-011-p1s10w1</LM>
 </w.rf>
 <form>Jejím</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS7FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS7FS3-------</tag>
 </m>
 <m id="m-mf920922-011-p1s10w2">
 <src.rf>manual</src.rf>
@@ -2796,7 +2796,7 @@
 <LM>w#w-mf920922-011-p1s19w9</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP4FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XP4FS3-------</tag>
 </m>
 <m id="m-mf920922-011-p1s19w10">
 <src.rf>manual</src.rf>

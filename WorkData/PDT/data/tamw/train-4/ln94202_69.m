@@ -207,7 +207,7 @@
 <LM>w#w-ln94202-69-p2s1Bw17</LM>
 </w.rf>
 <form>spolucestující</form>
-<tag lemma="spolucestující-2" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="spolucestující-3" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94202-69-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -597,7 +597,7 @@
 <LM>w#w-ln94202-69-p2s3w10</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS1FS3-------</tag>
 </m>
 <m id="m-ln94202-69-p2s3w11">
 <src.rf>manual</src.rf>

@@ -791,7 +791,7 @@
 <LM>w#w-ln94202-85-p3s3w3</LM>
 </w.rf>
 <form>lepším</form>
-<tag lemma="dobrý" src="orig" selected="1">AAIS6----2A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAIS6----2A----</tag>
 </m>
 <m id="m-ln94202-85-p3s3w4">
 <src.rf>manual</src.rf>
@@ -825,7 +825,7 @@
 <LM>w#w-ln94202-85-p3s4w2</LM>
 </w.rf>
 <form>horším</form>
-<tag lemma="špatný" src="orig" selected="1">AAIS6----2A----</tag>
+<tag lemma="horší" src="orig" selected="1">AAIS6----2A----</tag>
 </m>
 <m id="m-ln94202-85-p3s4w3">
 <src.rf>manual</src.rf>
@@ -992,7 +992,7 @@
 <LM>w#w-ln94202-85-p3s6w2</LM>
 </w.rf>
 <form>správné</form>
-<tag lemma="správný_^(podle_něj._měřítek;_př._chlap,_míra,...)" src="orig" selected="1">AAFS6----1A----</tag>
+<tag lemma="správný" src="orig" selected="1">AAFS6----1A----</tag>
 </m>
 <m id="m-ln94202-85-p3s6w3">
 <src.rf>manual</src.rf>
@@ -1972,7 +1972,7 @@
 <LM>w#w-ln94202-85-p5s1w5</LM>
 </w.rf>
 <form>koupí</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="orig" selected="1">VB-S---3P-AAP--</tag>
+<tag lemma="koupit" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln94202-85-p5s1w6">
 <src.rf>manual</src.rf>
@@ -2338,7 +2338,7 @@
 <LM>w#w-ln94202-85-p5s4w4</LM>
 </w.rf>
 <form>delší</form>
-<tag lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">AAFS4----2A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFS4----2A----</tag>
 </m>
 <m id="m-ln94202-85-p5s4w5">
 <src.rf>manual</src.rf>
@@ -2784,7 +2784,7 @@
 <LM>w#w-ln94202-85-p6s4w6</LM>
 </w.rf>
 <form>naši</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSMP1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSMP1-P1-------</tag>
 </m>
 <m id="m-ln94202-85-p6s4w7">
 <src.rf>manual</src.rf>
@@ -3708,7 +3708,7 @@
 <LM>w#w-ln94202-85-p7s4w5</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-ln94202-85-p7s4w6">
 <src.rf>manual</src.rf>
@@ -4103,7 +4103,7 @@
 <LM>w#w-ln94202-85-p8s2w22</LM>
 </w.rf>
 <form>rozvody</form>
-<tag lemma="rozvod-2_^(vody,_plynu...)" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="rozvod_^(manželství;vody)" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-ln94202-85-p8s2w23">
 <src.rf>manual</src.rf>
@@ -4515,7 +4515,7 @@
 <LM>w#w-ln94202-85-p8s4w23</LM>
 </w.rf>
 <form>nejlepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAFS1----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAFS1----3A----</tag>
 </m>
 <m id="m-ln94202-85-p8s4w24">
 <src.rf>manual</src.rf>
@@ -4765,7 +4765,7 @@
 <LM>w#w-ln94202-85-p9s1w21</LM>
 </w.rf>
 <form>životnosti</form>
-<tag lemma="životnost_^(př._rod_životný)_(*3ý)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="životnost_^(*3ý)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94202-85-p9s1w22">
 <src.rf>manual</src.rf>

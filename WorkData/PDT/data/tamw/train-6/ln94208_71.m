@@ -288,7 +288,7 @@
 <LM>w#w-ln94208-71-p2s1Bw24</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94208-71-p2s1Bw25">
 <src.rf>manual</src.rf>
@@ -474,7 +474,7 @@
 <LM>w#w-ln94208-71-p2s2w22</LM>
 </w.rf>
 <form>správná</form>
-<tag lemma="správný_^(podle_něj._měřítek;_př._chlap,_míra,...)" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="správný" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-ln94208-71-p2s2w23">
 <src.rf>manual</src.rf>
@@ -599,7 +599,7 @@
 <LM>w#w-ln94208-71-p3s1w14</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94208-71-p3s1w15">
 <src.rf>manual</src.rf>
@@ -908,7 +908,7 @@
 <LM>w#w-ln94208-71-p4s1w18</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94208-71-p4s1w19">
 <src.rf>manual</src.rf>
@@ -1131,7 +1131,7 @@
 <LM>w#w-ln94208-71-p4s3w2</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94208-71-p4s3w3">
 <src.rf>manual</src.rf>
@@ -1363,7 +1363,7 @@
 <LM>w#w-ln94208-71-p4s4w11</LM>
 </w.rf>
 <form>členy</form>
-<tag lemma="člen" src="orig" selected="1">NNMP7-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-ln94208-71-p4s4w12">
 <src.rf>manual</src.rf>
@@ -1738,7 +1738,7 @@
 <LM>w#w-ln94208-71-p5s2w15</LM>
 </w.rf>
 <form>rudozeleným</form>
-<tag lemma="rudozelený" src="orig" selected="1">AANS7----1A----</tag>
+<tag lemma="rudozelený_;o" src="orig" selected="1">AANS7----1A----</tag>
 </m>
 <m id="m-ln94208-71-p5s2w16">
 <src.rf>manual</src.rf>

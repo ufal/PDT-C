@@ -39,7 +39,7 @@
 <form>MEXIKO</form>
 <tag>
 <AM lemma="Mexiko_;G" src="orig">NNNS1-----A----</AM>
-<AM lemma="Mexiko_;G_,s_^(^DD**Mexico)" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="Mexiko_;G" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-089-p2s1w2">
@@ -337,7 +337,7 @@
 <LM>w#w-lnd92254-089-p2s4w10</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS2---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS2---------1</tag>
 </m>
 <m id="m-lnd92254-089-p2s4w11">
 <src.rf>manual</src.rf>

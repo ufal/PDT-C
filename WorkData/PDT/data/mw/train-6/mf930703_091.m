@@ -288,7 +288,7 @@
 <LM>w#w-mf930703-091-p2s2w3</LM>
 </w.rf>
 <form>stojí</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930703-091-p2s2w4">
 <src.rf>manual</src.rf>
@@ -400,7 +400,7 @@
 <LM>w#w-mf930703-091-p2s2w17</LM>
 </w.rf>
 <form>km</form>
-<tag lemma="km-1`kilometr" src="orig" selected="1">NNIXX-----A---b</tag>
+<tag lemma="kilometr" src="orig" selected="1">NNIXX-----A---b</tag>
 </m>
 <m id="m-mf930703-091-p2s2w18">
 <src.rf>manual</src.rf>
@@ -561,7 +561,7 @@
 <LM>w#w-mf930703-091-p2s3w8</LM>
 </w.rf>
 <form>nejlepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAIS4----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAIS4----3A----</tag>
 </m>
 <m id="m-mf930703-091-p2s3w9">
 <src.rf>manual</src.rf>
@@ -705,7 +705,7 @@
 <LM>w#w-mf930703-091-p2s3w25</LM>
 </w.rf>
 <form>km</form>
-<tag lemma="km-1`kilometr" src="orig" selected="1">NNIXX-----A---b</tag>
+<tag lemma="kilometr" src="orig" selected="1">NNIXX-----A---b</tag>
 </m>
 <m id="m-mf930703-091-p2s3w26">
 <src.rf>manual</src.rf>

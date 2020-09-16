@@ -91,7 +91,7 @@
 <LM>w#w-lnd92259-041-p1s1w10</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-lnd92259-041-p1s1w11">
 <src.rf>manual</src.rf>
@@ -107,7 +107,7 @@
 <LM>w#w-lnd92259-041-p1s1w12</LM>
 </w.rf>
 <form>roli</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="role_^(svitek_poslání_pozemek)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-lnd92259-041-p1s1w13">
 <src.rf>manual</src.rf>

@@ -338,7 +338,7 @@
 <form>jejímž</form>
 <tag>
 <AM lemma="jenž_^(který...[ve_vedl._větě])" src="auto">P1XP3FS3-------</AM>
-<AM lemma="jenž_^(který...[ve_vedl._větě])" src="auto" recommended="1">P1ZS6FS3-------</AM>
+<AM lemma="jehož" src="auto" recommended="1">P1ZS6FS3-------</AM>
 <AM lemma="jenž_^(který...[ve_vedl._větě])" src="auto">P1ZS7FS3-------</AM>
 </tag>
 </m>

@@ -445,7 +445,7 @@
 <LM>w#w-ln95045-102-p3s1w1</LM>
 </w.rf>
 <form>Model</form>
-<tag lemma="model" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="model-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95045-102-p3s1w2">
 <src.rf>manual</src.rf>
@@ -625,7 +625,7 @@
 <LM>w#w-ln95045-102-p3s1w23</LM>
 </w.rf>
 <form>druhou</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS4----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS4----------</tag>
 </m>
 <m id="m-ln95045-102-p3s1w24">
 <src.rf>manual</src.rf>
@@ -803,7 +803,7 @@
 <LM>w#w-ln95045-102-p3s2w16</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln95045-102-p3s2w17">
 <src.rf>manual</src.rf>
@@ -1032,7 +1032,7 @@
 <LM>w#w-ln95045-102-p3s4w6</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrIS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS6----------</tag>
 </m>
 <m id="m-ln95045-102-p3s4w7">
 <src.rf>manual</src.rf>
@@ -1088,7 +1088,7 @@
 <LM>w#w-ln95045-102-p3s4w13</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrIS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS6----------</tag>
 </m>
 <m id="m-ln95045-102-p3s4w14">
 <src.rf>manual</src.rf>
@@ -1327,7 +1327,7 @@
 <LM>w#w-ln95045-102-p4s1w19</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrIS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS6----------</tag>
 </m>
 <m id="m-ln95045-102-p4s1w20">
 <src.rf>manual</src.rf>
@@ -1652,7 +1652,7 @@
 <LM>w#w-ln95045-102-p4s3w4</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-4_^(v_knize,_rukopise,...)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln95045-102-p4s3w5">
 <src.rf>manual</src.rf>

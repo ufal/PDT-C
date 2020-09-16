@@ -730,7 +730,7 @@
 <LM>w#w-mf920924-072-p2s4w35</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-mf920924-072-p2s4w36">
 <src.rf>manual</src.rf>
@@ -754,7 +754,7 @@
 <LM>w#w-mf920924-072-p2s4w38</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-072-p2s4w39">
 <src.rf>manual</src.rf>
@@ -1185,7 +1185,7 @@
 <LM>w#w-mf920924-072-p2s6w10</LM>
 </w.rf>
 <form>proto</form>
-<tag lemma="proto-2_^(dal_mu_co_proto,_tak_proto!)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="proto-2_^(proto_že)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf920924-072-p2s6w11">
 <src.rf>manual</src.rf>
@@ -1244,7 +1244,7 @@
 <LM>w#w-mf920924-072-p2s6w17</LM>
 </w.rf>
 <form>nesprávný</form>
-<tag lemma="správný_^(podle_něj._měřítek;_př._chlap,_míra,...)" src="orig" selected="1">AAIS4----1N----</tag>
+<tag lemma="správný" src="orig" selected="1">AAIS4----1N----</tag>
 </m>
 <m id="m-mf920924-072-p2s6w18">
 <src.rf>manual</src.rf>
@@ -1300,7 +1300,7 @@
 <LM>w#w-mf920924-072-p2s6w24</LM>
 </w.rf>
 <form>proto</form>
-<tag lemma="proto-2_^(dal_mu_co_proto,_tak_proto!)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="proto-2_^(proto_že)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf920924-072-p2s6w25">
 <src.rf>manual</src.rf>
@@ -1351,7 +1351,7 @@
 <LM>w#w-mf920924-072-p2s6w30</LM>
 </w.rf>
 <form>naše</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSNS4-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSNS4-P1-------</tag>
 </m>
 <m id="m-mf920924-072-p2s6w31">
 <src.rf>manual</src.rf>

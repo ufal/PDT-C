@@ -82,7 +82,7 @@
 <LM>w#w-mf930713-104-p2s1Bw1</LM>
 </w.rf>
 <form>Nejlepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAFP4----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAFP4----3A----</tag>
 </m>
 <m id="m-mf930713-104-p2s1Bw2">
 <src.rf>manual</src.rf>
@@ -268,7 +268,7 @@
 <LM>w#w-mf930713-104-p2s3w1</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrFP1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFP1----------</tag>
 </m>
 <m id="m-mf930713-104-p2s3w2">
 <src.rf>manual</src.rf>
@@ -777,7 +777,7 @@
 <LM>w#w-mf930713-104-p2s5w21</LM>
 </w.rf>
 <form>nejlepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAFP4----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAFP4----3A----</tag>
 </m>
 <m id="m-mf930713-104-p2s5w22">
 <src.rf>manual</src.rf>

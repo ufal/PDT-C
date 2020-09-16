@@ -159,7 +159,7 @@
 <LM>w#w-mf930709-151-p2s1Bw10</LM>
 </w.rf>
 <form>cestě</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf930709-151-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -387,7 +387,7 @@
 <LM>w#w-mf930709-151-p2s3w9</LM>
 </w.rf>
 <form>nemoci</form>
-<tag lemma="nemoc_^(choroba)" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="nemoc" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-mf930709-151-p2s3w10">
 <src.rf>manual</src.rf>
@@ -509,7 +509,7 @@
 <LM>w#w-mf930709-151-p2s4w13</LM>
 </w.rf>
 <form>virem</form>
-<tag lemma="vir" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="vir-1" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-mf930709-151-p2s4w14">
 <src.rf>manual</src.rf>
@@ -591,7 +591,7 @@
 <LM>w#w-mf930709-151-p2s5w7</LM>
 </w.rf>
 <form>viru</form>
-<tag lemma="vir" src="orig" selected="1">NNIS3-----A----</tag>
+<tag lemma="vir-1" src="orig" selected="1">NNIS3-----A----</tag>
 </m>
 <m id="m-mf930709-151-p2s5w8">
 <src.rf>manual</src.rf>

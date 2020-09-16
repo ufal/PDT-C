@@ -170,7 +170,7 @@
 <LM>w#w-ln94211-53-p2s1Bw5</LM>
 </w.rf>
 <form>Miroslav</form>
-<tag lemma="Miroslav_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Miroslav-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-53-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -785,7 +785,7 @@
 <LM>w#w-ln94211-53-p3s3w21</LM>
 </w.rf>
 <form>kuchyně</form>
-<tag lemma="kuchyně" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="kuchyň" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94211-53-p3s3w22">
 <src.rf>manual</src.rf>
@@ -859,7 +859,7 @@
 <LM>w#w-ln94211-53-p4s1w4</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-ln94211-53-p4s1w5">
 <src.rf>manual</src.rf>
@@ -891,7 +891,7 @@
 <LM>w#w-ln94211-53-p4s1w8</LM>
 </w.rf>
 <form>politiky</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94211-53-p4s1w9">
 <src.rf>manual</src.rf>
@@ -1000,7 +1000,7 @@
 <LM>w#w-ln94211-53-p5s1w6</LM>
 </w.rf>
 <form>kandidátce</form>
-<tag lemma="kandidátka_^(seznam_kandidátů)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="kandidátka_^(*2)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94211-53-p5s1w7">
 <src.rf>manual</src.rf>
@@ -1053,7 +1053,7 @@
 <LM>w#w-ln94211-53-p5s2w2</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-ln94211-53-p5s2w3">
 <src.rf>manual</src.rf>
@@ -1223,7 +1223,7 @@
 <LM>w#w-ln94211-53-p5s3w11</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP3----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP3----------</tag>
 </m>
 <m id="m-ln94211-53-p5s3w12">
 <src.rf>manual</src.rf>

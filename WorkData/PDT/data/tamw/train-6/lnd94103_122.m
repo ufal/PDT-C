@@ -1013,7 +1013,7 @@
 <LM>w#w-lnd94103-122-p1s4w12</LM>
 </w.rf>
 <form>úvodní</form>
-<tag lemma="úvodní_,s" src="orig" selected="1">AAFS2----1A----</tag>
+<tag lemma="úvodní" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-lnd94103-122-p1s4w13">
 <src.rf>manual</src.rf>
@@ -1189,7 +1189,7 @@
 <LM>w#w-lnd94103-122-p1s4w34</LM>
 </w.rf>
 <form>naší</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS2-P1-------</tag>
 </m>
 <m id="m-lnd94103-122-p1s4w35">
 <src.rf>manual</src.rf>
@@ -1255,7 +1255,7 @@
 <LM>w#w-lnd94103-122-p1s5w2</LM>
 </w.rf>
 <form>lepšího</form>
-<tag lemma="dobrý" src="orig" selected="1">AAIS2----2A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAIS2----2A----</tag>
 </m>
 <m id="m-lnd94103-122-p1s5w3">
 <src.rf>manual</src.rf>
@@ -1489,7 +1489,7 @@
 <LM>w#w-lnd94103-122-p1s6w6</LM>
 </w.rf>
 <form>náš</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSYS1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSYS1-P1-------</tag>
 </m>
 <m id="m-lnd94103-122-p1s6w7">
 <src.rf>manual</src.rf>
@@ -1749,7 +1749,7 @@
 <LM>w#w-lnd94103-122-p1s8w8</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94103-122-p1s8w9">
 <src.rf>manual</src.rf>
@@ -1968,7 +1968,7 @@
 <LM>w#w-lnd94103-122-p1s9w17</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS4----------</tag>
 </m>
 <m id="m-lnd94103-122-p1s9w18">
 <src.rf>manual</src.rf>

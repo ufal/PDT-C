@@ -268,7 +268,7 @@
 <LM>w#w-ln94202-16-p2s2w4</LM>
 </w.rf>
 <form>prvního</form>
-<tag lemma="první" src="orig" selected="1">CrNS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS2----------</tag>
 </m>
 <m id="m-ln94202-16-p2s2w5">
 <src.rf>manual</src.rf>
@@ -1341,7 +1341,7 @@
 <LM>w#w-ln94202-16-p6s3w3</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94202-16-p6s3w4">
 <src.rf>manual</src.rf>
@@ -1381,7 +1381,7 @@
 <LM>w#w-ln94202-16-p6s3w8</LM>
 </w.rf>
 <form>dovážené</form>
-<tag lemma="dovážený_^(dokončit_vážení)_(*2t)" src="auto" selected="1">AAIP4----1A----</tag>
+<tag lemma="dovážený_^(*2t)_(*3it)" src="auto" selected="1">AAIP4----1A----</tag>
 </m>
 <m id="m-ln94202-16-p6s3w9">
 <src.rf>manual</src.rf>

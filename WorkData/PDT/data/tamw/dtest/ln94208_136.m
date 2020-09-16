@@ -188,7 +188,7 @@
 <LM>w#w-ln94208-136-p2s1Cw3</LM>
 </w.rf>
 <form>letoun</form>
-<tag lemma="letoun" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="letoun-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94208-136-p2s1Cw4">
 <src.rf>manual</src.rf>
@@ -667,7 +667,7 @@
 <LM>w#w-ln94208-136-p3s1w16</LM>
 </w.rf>
 <form>letounů</form>
-<tag lemma="letoun" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="letoun-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94208-136-p3s1w17">
 <src.rf>manual</src.rf>
@@ -736,7 +736,7 @@
 <LM>w#w-ln94208-136-p3s2w7</LM>
 </w.rf>
 <form>prvními</form>
-<tag lemma="první" src="orig" selected="1">CrIP7----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIP7----------</tag>
 </m>
 <m id="m-ln94208-136-p3s2w8">
 <src.rf>manual</src.rf>
@@ -1446,7 +1446,7 @@
 <LM>w#w-ln94208-136-p3s5w11</LM>
 </w.rf>
 <form>letounů</form>
-<tag lemma="letoun" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="letoun-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94208-136-p3s5w12">
 <src.rf>manual</src.rf>
@@ -1892,7 +1892,7 @@
 <LM>w#w-ln94208-136-p4s2w20</LM>
 </w.rf>
 <form>jehož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P1XXXZS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXZS3-------</tag>
 </m>
 <m id="m-ln94208-136-p4s2w21">
 <src.rf>manual</src.rf>
@@ -2108,7 +2108,7 @@
 <LM>w#w-ln94208-136-p4s3w17</LM>
 </w.rf>
 <form>léta</form>
-<tag lemma="rok" src="orig" selected="1">NNNP4-----A---2</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP4-----A---2</tag>
 </m>
 <m id="m-ln94208-136-p4s3w18">
 <src.rf>manual</src.rf>
@@ -2590,7 +2590,7 @@
 <LM>w#w-ln94208-136-p4s6w6</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-ln94208-136-p4s6w7">
 <src.rf>manual</src.rf>
@@ -2747,7 +2747,7 @@
 <LM>w#w-ln94208-136-p4s7w11</LM>
 </w.rf>
 <form>nejlepším</form>
-<tag lemma="dobrý" src="orig" selected="1">AAIS6----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAIS6----3A----</tag>
 </m>
 <m id="m-ln94208-136-p4s7w12">
 <src.rf>manual</src.rf>

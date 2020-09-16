@@ -151,7 +151,7 @@
 <LM>w#w-mf930713-012-p2s1Bw11</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-mf930713-012-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -308,7 +308,7 @@
 <LM>w#w-mf930713-012-p2s2w2</LM>
 </w.rf>
 <form>druhá</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS1----------</tag>
 </m>
 <m id="m-mf930713-012-p2s2w3">
 <src.rf>manual</src.rf>
@@ -508,7 +508,7 @@
 <LM>w#w-mf930713-012-p2s2w27</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-mf930713-012-p2s2w28">
 <src.rf>manual</src.rf>
@@ -1131,7 +1131,7 @@
 <LM>w#w-mf930713-012-p2s4w30</LM>
 </w.rf>
 <form>tajná</form>
-<tag lemma="tajný" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-mf930713-012-p2s4w31">
 <src.rf>manual</src.rf>
@@ -1745,7 +1745,7 @@
 <LM>w#w-mf930713-012-p2s8w5</LM>
 </w.rf>
 <form>právo</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-mf930713-012-p2s8w6">
 <src.rf>manual</src.rf>

@@ -260,7 +260,7 @@
 <LM>w#w-ln95040-047-p1s1w31</LM>
 </w.rf>
 <form>umění</form>
-<tag lemma="umění_^(mít_schopnost_něco_dělat)_(*2t)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="umění_^(*2t)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln95040-047-p1s1w32">
 <src.rf>manual</src.rf>
@@ -518,7 +518,7 @@
 <LM>w#w-ln95040-047-p1s2w26</LM>
 </w.rf>
 <form>umění</form>
-<tag lemma="umění_^(mít_schopnost_něco_dělat)_(*2t)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="umění_^(*2t)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln95040-047-p1s2w27">
 <src.rf>manual</src.rf>

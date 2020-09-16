@@ -157,7 +157,7 @@
 <LM>w#w-mf920924-021-p2s1w11</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-mf920924-021-p2s1w12">
 <src.rf>manual</src.rf>
@@ -223,7 +223,7 @@
 <LM>w#w-mf920924-021-p2s2w4</LM>
 </w.rf>
 <form>nesprávné</form>
-<tag lemma="správný_^(podle_něj._měřítek;_př._chlap,_míra,...)" src="orig" selected="1">AANS1----1N----</tag>
+<tag lemma="správný" src="orig" selected="1">AANS1----1N----</tag>
 </m>
 <m id="m-mf920924-021-p2s2w5">
 <src.rf>manual</src.rf>
@@ -378,7 +378,7 @@
 <LM>w#w-mf920924-021-p2s3w6</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920924-021-p2s3w7">
 <src.rf>manual</src.rf>

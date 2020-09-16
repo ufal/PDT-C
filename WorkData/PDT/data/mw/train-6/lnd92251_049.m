@@ -547,7 +547,7 @@
 <LM>w#w-lnd92251-049-p3s4w34</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS7---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS7---------1</tag>
 </m>
 <m id="m-lnd92251-049-p3s4w35">
 <src.rf>manual</src.rf>
@@ -941,7 +941,7 @@
 <LM>w#w-lnd92251-049-p4s2w30</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FP4---------1</tag>
 </m>
 <m id="m-lnd92251-049-p4s2w31">
 <src.rf>manual</src.rf>
@@ -1133,7 +1133,7 @@
 </w.rf>
 <form>Pivoňkové</form>
 <tag>
-<AM lemma="Pivoňková_;Y" src="orig" selected="1">NNFS3-----A----</AM>
+<AM lemma="Pivoňková_;Y_^(*3a)" src="orig" selected="1">NNFS3-----A----</AM>
 <AM lemma="Pivoňka_;Y" src="auto">NNMP1-----A----</AM>
 <AM lemma="Pivoňka_;Y" src="auto">NNMP5-----A----</AM>
 <AM lemma="pivoňkový" src="auto">AAFP1----1A----</AM>
@@ -1168,7 +1168,7 @@
 <LM>w#w-lnd92251-049-p4s4w12</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1NS4FS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1NS4FS3-------</tag>
 </m>
 <m id="m-lnd92251-049-p4s4w13">
 <src.rf>manual</src.rf>
@@ -1654,7 +1654,7 @@
 </w.rf>
 <form>Pivoňkovou</form>
 <tag>
-<AM lemma="Pivoňková_;Y" src="orig" selected="1">NNFS7-----A----</AM>
+<AM lemma="Pivoňková_;Y_^(*3a)" src="orig" selected="1">NNFS7-----A----</AM>
 <AM lemma="Pivoňkův_;Y_^(*2a)" src="auto" recommended="1">AUFS7M---------</AM>
 <AM lemma="pivoňkový" src="auto">AAFS4----1A----</AM>
 <AM lemma="pivoňkový" src="auto">AAFS7----1A----</AM>
@@ -1674,7 +1674,7 @@
 <LM>w#w-lnd92251-049-p5s2w24</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-lnd92251-049-p5s2w25">
 <src.rf>manual</src.rf>
@@ -1682,7 +1682,7 @@
 <LM>w#w-lnd92251-049-p5s2w25</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd92251-049-p5s2w26">
 <src.rf>manual</src.rf>
@@ -1738,7 +1738,7 @@
 <LM>w#w-lnd92251-049-p5s2w32</LM>
 </w.rf>
 <form>brání</form>
-<tag lemma="bránit_^(klást_překážky)" src="auto" selected="1">VB-P---3P-AAI--</tag>
+<tag lemma="bránit" src="auto" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd92251-049-p5s2w33">
 <src.rf>manual</src.rf>

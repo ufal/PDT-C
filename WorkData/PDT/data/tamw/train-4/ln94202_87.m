@@ -485,7 +485,7 @@
 <LM>w#w-ln94202-87-p2s3w13</LM>
 </w.rf>
 <form>jehož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P1XXXZS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXZS3-------</tag>
 </m>
 <m id="m-ln94202-87-p2s3w14">
 <src.rf>manual</src.rf>
@@ -517,7 +517,7 @@
 <LM>w#w-ln94202-87-p2s3w17</LM>
 </w.rf>
 <form>stanovení</form>
-<tag lemma="stanovení_^(určit)_(*3it)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="stanovení_^(*3it)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94202-87-p2s3w18">
 <src.rf>manual</src.rf>
@@ -928,7 +928,7 @@
 <LM>w#w-ln94202-87-p3s3w1</LM>
 </w.rf>
 <form>Její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS1FS3-------</tag>
 </m>
 <m id="m-ln94202-87-p3s3w2">
 <src.rf>manual</src.rf>

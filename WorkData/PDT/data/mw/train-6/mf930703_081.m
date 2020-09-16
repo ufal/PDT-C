@@ -448,7 +448,7 @@
 <LM>w#w-mf930703-081-p2s2w16</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-mf930703-081-p2s2w17">
 <src.rf>manual</src.rf>
@@ -951,7 +951,7 @@
 <LM>w#w-mf930703-081-p2s6w9</LM>
 </w.rf>
 <form>dá</form>
-<tag lemma="dát" src="orig" selected="1">VB-S---3P-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-mf930703-081-p2s6w10">
 <src.rf>manual</src.rf>
@@ -1249,7 +1249,7 @@
 <LM>w#w-mf930703-081-p2s7w16</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-081-p2s7w17">
 <src.rf>manual</src.rf>

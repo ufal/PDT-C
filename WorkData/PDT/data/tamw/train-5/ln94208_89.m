@@ -305,7 +305,7 @@
 <LM>w#w-ln94208-89-p2s2w17</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94208-89-p2s2w18">
 <src.rf>manual</src.rf>
@@ -492,7 +492,7 @@
 <LM>w#w-ln94208-89-p2s2w40</LM>
 </w.rf>
 <form>událost</form>
-<tag lemma="událost_,a_^(*3ý)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="událost" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94208-89-p2s2w41">
 <src.rf>manual</src.rf>
@@ -593,7 +593,7 @@
 <LM>w#w-ln94208-89-p2s3w10</LM>
 </w.rf>
 <form>proto</form>
-<tag lemma="proto-2_^(dal_mu_co_proto,_tak_proto!)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="proto-2_^(proto_že)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94208-89-p2s3w11">
 <src.rf>manual</src.rf>
@@ -689,7 +689,7 @@
 <LM>w#w-ln94208-89-p2s3w22</LM>
 </w.rf>
 <form>proto</form>
-<tag lemma="proto-2_^(dal_mu_co_proto,_tak_proto!)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="proto-2_^(proto_že)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94208-89-p2s3w23">
 <src.rf>manual</src.rf>
@@ -1118,7 +1118,7 @@
 <LM>w#w-ln94208-89-p2s4w29</LM>
 </w.rf>
 <form>zdviženou</form>
-<tag lemma="zdvižený_^(*4hnout)" src="orig" selected="1">AAFS7----1A----</tag>
+<tag lemma="zdvižený" src="orig" selected="1">AAFS7----1A----</tag>
 </m>
 <m id="m-ln94208-89-p2s4w30">
 <src.rf>manual</src.rf>
@@ -1259,7 +1259,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94208-89-p2s5w11">
@@ -1292,7 +1292,7 @@
 <LM>w#w-ln94208-89-p2s5w14</LM>
 </w.rf>
 <form>právo</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln94208-89-p2s5w15">
 <src.rf>manual</src.rf>
@@ -1929,7 +1929,7 @@
 <LM>w#w-ln94208-89-p3s4w15</LM>
 </w.rf>
 <form>předešlých</form>
-<tag lemma="předešlý_^(předchozí,minulý,poslední)_(*3jít)" src="auto" selected="1">AAIP2----1A----</tag>
+<tag lemma="předešlý_^(*3jít)" src="auto" selected="1">AAIP2----1A----</tag>
 </m>
 <m id="m-ln94208-89-p3s4w16">
 <src.rf>manual</src.rf>
@@ -2019,7 +2019,7 @@
 <LM>w#w-ln94208-89-p3s5w4</LM>
 </w.rf>
 <form>léty</form>
-<tag lemma="rok" src="orig" selected="1">NNNP7-----A---2</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP7-----A---2</tag>
 </m>
 <m id="m-ln94208-89-p3s5w5">
 <src.rf>manual</src.rf>
@@ -2738,7 +2738,7 @@
 <LM>w#w-ln94208-89-p3s8w17</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS7---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS7---------1</tag>
 </m>
 <m id="m-ln94208-89-p3s8w18">
 <src.rf>manual</src.rf>
@@ -2780,7 +2780,7 @@
 <LM>w#w-ln94208-89-p3s9w3</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS1----------</tag>
 </m>
 <m id="m-ln94208-89-p3s9w4">
 <src.rf>manual</src.rf>
@@ -2908,7 +2908,7 @@
 <LM>w#w-ln94208-89-p3s9w19</LM>
 </w.rf>
 <form>druhá</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS1----------</tag>
 </m>
 <m id="m-ln94208-89-p3s9w20">
 <src.rf>manual</src.rf>
@@ -3062,7 +3062,7 @@
 <LM>w#w-ln94208-89-p3s10w15</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-ln94208-89-p3s10w16">
 <src.rf>manual</src.rf>
@@ -3118,7 +3118,7 @@
 <LM>w#w-ln94208-89-p3s10w22</LM>
 </w.rf>
 <form>třeba</form>
-<tag lemma="třeba-2" src="auto" selected="1">Db-------------</tag>
+<tag lemma="třeba-1" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94208-89-p3s10w23">
 <src.rf>manual</src.rf>

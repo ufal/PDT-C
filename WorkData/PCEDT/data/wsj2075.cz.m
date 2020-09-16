@@ -778,7 +778,7 @@
 <tag>
 <AM lemma="daný_^(*3át)" src="auto">AAFP2----1A----</AM>
 <AM lemma="daný_^(*3át)" src="auto">AAFP6----1A----</AM>
-<AM lemma="daný_^(*3át)" src="auto" recommended="1">AAIP2----1A----</AM>
+<AM lemma="daný-1_^(*5át-1)" src="auto" recommended="1">AAIP2----1A----</AM>
 <AM lemma="daný_^(*3át)" src="auto">AAIP6----1A----</AM>
 <AM lemma="daný_^(*3át)" src="auto">AAMP2----1A----</AM>
 <AM lemma="daný_^(*3át)" src="auto">AAMP6----1A----</AM>
@@ -2074,7 +2074,7 @@
 <AM lemma="matka-2_^(maminka)" src="auto">NNFP1-----A----</AM>
 <AM lemma="matka-2_^(maminka)" src="auto">NNFP4-----A----</AM>
 <AM lemma="matka-2_^(maminka)" src="auto">NNFP5-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="matka" src="auto" recommended="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2075-001-p1s6W19-Ta">

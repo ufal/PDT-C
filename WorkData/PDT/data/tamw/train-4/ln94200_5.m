@@ -184,7 +184,7 @@
 <LM>w#w-ln94200-5-p2s1w19</LM>
 </w.rf>
 <form>naší</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS2-P1-------</tag>
 </m>
 <m id="m-ln94200-5-p2s1w20">
 <src.rf>manual</src.rf>
@@ -475,7 +475,7 @@
 <LM>w#w-ln94200-5-p3s1w16</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94200-5-p3s1w17">
 <src.rf>manual</src.rf>
@@ -507,7 +507,7 @@
 <LM>w#w-ln94200-5-p3s1w20</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8MS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8MS4----------</tag>
 </m>
 <m id="m-ln94200-5-p3s1w21">
 <src.rf>manual</src.rf>
@@ -558,7 +558,7 @@
 <LM>w#w-ln94200-5-p3s1w26</LM>
 </w.rf>
 <form>Parise</form>
-<tag lemma="Paris_;Y" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Paris-3_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94200-5-p3s1w27">
 <src.rf>manual</src.rf>
@@ -630,7 +630,7 @@
 <LM>w#w-ln94200-5-p3s1w35</LM>
 </w.rf>
 <form>roli</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="role_^(svitek_poslání_pozemek)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94200-5-p3s1w36">
 <src.rf>manual</src.rf>
@@ -670,7 +670,7 @@
 <LM>w#w-ln94200-5-p3s1w40</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94200-5-p3s1w41">
 <src.rf>manual</src.rf>
@@ -678,7 +678,7 @@
 <LM>w#w-ln94200-5-p3s1w41</LM>
 </w.rf>
 <form>Jeana</form>
-<tag lemma="Jean_;Y" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Jean-1_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94200-5-p3s1w42">
 <src.rf>manual</src.rf>

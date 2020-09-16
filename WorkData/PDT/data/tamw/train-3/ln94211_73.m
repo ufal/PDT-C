@@ -194,7 +194,7 @@
 <LM>w#w-ln94211-73-p2s1Bw16</LM>
 </w.rf>
 <form>Sofii</form>
-<tag lemma="Sofie-1_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Sofie_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94211-73-p2s1Bw17">
 <src.rf>manual</src.rf>
@@ -482,7 +482,7 @@
 <LM>w#w-ln94211-73-p2s2w7</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-ln94211-73-p2s2w8">
 <src.rf>manual</src.rf>
@@ -562,7 +562,7 @@
 <LM>w#w-ln94211-73-p2s2w17</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94211-73-p2s2w18">
 <src.rf>manual</src.rf>

@@ -35,7 +35,7 @@
 <LM>w#w-mf920901-029-p1s1w3</LM>
 </w.rf>
 <form>DAVID</form>
-<tag lemma="David_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="David-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-029-p1s1w4">
 <src.rf>manual</src.rf>
@@ -59,7 +59,7 @@
 <LM>w#w-mf920901-029-p1s1w6</LM>
 </w.rf>
 <form>člen</form>
-<tag lemma="člen" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-029-p1s1w7">
 <src.rf>manual</src.rf>
@@ -141,7 +141,7 @@
 <LM>w#w-mf920901-029-p3s1w6</LM>
 </w.rf>
 <form>naše</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSHS1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSHS1-P1-------</tag>
 </m>
 <m id="m-mf920901-029-p3s1w7">
 <src.rf>manual</src.rf>
@@ -529,7 +529,7 @@
 <LM>w#w-mf920901-029-p3s4w9</LM>
 </w.rf>
 <form>Marie</form>
-<tag lemma="Marie-1_;Y" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Marie_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920901-029-p3s4w10">
 <src.rf>manual</src.rf>

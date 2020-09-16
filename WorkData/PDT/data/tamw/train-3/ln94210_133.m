@@ -19,7 +19,7 @@
 <LM>w#w-ln94210-133-p1s1w1</LM>
 </w.rf>
 <form>Černí</form>
-<tag lemma="černý" src="auto" selected="1">AAMP1----1A----</tag>
+<tag lemma="černý_;o" src="auto" selected="1">AAMP1----1A----</tag>
 </m>
 <m id="m-ln94210-133-p1s1w2">
 <src.rf>manual</src.rf>
@@ -703,7 +703,7 @@
 <LM>w#w-ln94210-133-p3s1w15</LM>
 </w.rf>
 <form>jehož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P1XXXZS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXZS3-------</tag>
 </m>
 <m id="m-ln94210-133-p3s1w16">
 <src.rf>manual</src.rf>
@@ -1031,7 +1031,7 @@
 <LM>w#w-ln94210-133-p3s1w57</LM>
 </w.rf>
 <form>práva</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln94210-133-p3s1w58">
 <src.rf>manual</src.rf>

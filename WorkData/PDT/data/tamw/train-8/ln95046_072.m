@@ -61,7 +61,7 @@
 <LM>w#w-ln95046-072-p2s1Aw1</LM>
 </w.rf>
 <form>Ottawa</form>
-<tag lemma="Ottawa_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Ottawa-1_;G" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95046-072-p2s1Aw2">
 <src.rf>manual</src.rf>
@@ -127,7 +127,7 @@
 <LM>w#w-ln95046-072-p2s1Bw7</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95046-072-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -262,7 +262,7 @@
 <LM>w#w-ln95046-072-p2s1Bw23</LM>
 </w.rf>
 <form>Ottawě</form>
-<tag lemma="Ottawa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Ottawa-1_;G" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln95046-072-p2s1Bw24">
 <src.rf>manual</src.rf>
@@ -980,7 +980,7 @@
 <LM>w#w-ln95046-072-p2s5w16</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-ln95046-072-p2s5w17">
 <src.rf>manual</src.rf>

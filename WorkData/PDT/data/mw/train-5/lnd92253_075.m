@@ -510,7 +510,7 @@
 <LM>w#w-lnd92253-075-p3s4w2</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-lnd92253-075-p3s4w3">
 <src.rf>manual</src.rf>
@@ -905,7 +905,7 @@
 <LM>w#w-lnd92253-075-p3s5w32</LM>
 </w.rf>
 <form>dál</form>
-<tag lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="dál-3_,s_^(také,_za_další)_(^DD**dále-3)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd92253-075-p3s5w33">
 <src.rf>manual</src.rf>
@@ -1043,7 +1043,7 @@
 <LM>w#w-lnd92253-075-p4s1w14</LM>
 </w.rf>
 <form>Slovan</form>
-<tag lemma="Slovan-2_;m" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Slovan-2_;G_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92253-075-p4s1w15">
 <src.rf>manual</src.rf>

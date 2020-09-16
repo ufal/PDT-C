@@ -428,7 +428,7 @@
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FP4---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS2---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS3---------1</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8FS6---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8FS6---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8IP1---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8IP5---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS1---------1</AM>
@@ -632,7 +632,7 @@
 </w.rf>
 <form>cykasy</form>
 <tag>
-<AM lemma="cykas_;U" src="auto" recommended="1">NNIP1-----A----</AM>
+<AM lemma="cykas" src="auto" recommended="1">NNIP1-----A----</AM>
 <AM lemma="cykas_;U" src="auto">NNIP4-----A----</AM>
 <AM lemma="cykas_;U" src="auto">NNIP5-----A----</AM>
 <AM lemma="cykas_;U" src="auto">NNIP7-----A----</AM>
@@ -1363,7 +1363,7 @@
 </w.rf>
 <form>Cykasy</form>
 <tag>
-<AM lemma="cykas_;U" src="auto" recommended="1">NNIP1-----A----</AM>
+<AM lemma="cykas" src="auto" recommended="1">NNIP1-----A----</AM>
 <AM lemma="cykas_;U" src="auto">NNIP4-----A----</AM>
 <AM lemma="cykas_;U" src="auto">NNIP5-----A----</AM>
 <AM lemma="cykas_;U" src="auto">NNIP7-----A----</AM>
@@ -2337,7 +2337,7 @@
 <AM lemma="ča_^(ča-ča)" src="auto">NNFS2-----A----</AM>
 <AM lemma="ča_^(ča-ča)" src="auto">NNFS3-----A---1</AM>
 <AM lemma="ča_^(ča-ča)" src="auto">NNFS6-----A---1</AM>
-<AM lemma="či" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="či-1" src="auto" recommended="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1379-001-p1s6W41-Ta">
@@ -2492,7 +2492,7 @@
 <AM lemma="vydělaný_^(kůže;peníze)_(*2t)" src="auto">AAFS2----1A----</AM>
 <AM lemma="vydělaný_^(kůže;peníze)_(*2t)" src="auto">AAFS3----1A----</AM>
 <AM lemma="vydělaný_^(kůže;peníze)_(*2t)" src="auto">AAFS6----1A----</AM>
-<AM lemma="vydělaný_^(kůže;peníze)_(*2t)" src="auto" recommended="1">AAIP1----1A----</AM>
+<AM lemma="vydělaný_^(*2t)" src="auto" recommended="1">AAIP1----1A----</AM>
 <AM lemma="vydělaný_^(kůže;peníze)_(*2t)" src="auto">AAIP4----1A----</AM>
 <AM lemma="vydělaný_^(kůže;peníze)_(*2t)" src="auto">AAIP5----1A----</AM>
 <AM lemma="vydělaný_^(kůže;peníze)_(*2t)" src="auto">AAMP4----1A----</AM>
@@ -2800,7 +2800,7 @@
 <form>cykasy</form>
 <tag>
 <AM lemma="cykas_;U" src="auto">NNIP1-----A----</AM>
-<AM lemma="cykas_;U" src="auto" recommended="1">NNIP4-----A----</AM>
+<AM lemma="cykas" src="auto" recommended="1">NNIP4-----A----</AM>
 <AM lemma="cykas_;U" src="auto">NNIP5-----A----</AM>
 <AM lemma="cykas_;U" src="auto">NNIP7-----A----</AM>
 </tag>
@@ -2992,7 +2992,7 @@
 </w.rf>
 <form>pana</form>
 <tag>
-<AM lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="pan" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="pan_^(oslovení)" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>
@@ -3307,7 +3307,7 @@
 </w.rf>
 <form>vaši</form>
 <tag>
-<AM lemma="tvůj_^(přivlast.)" src="auto" recommended="1">PSFS4-P2-------</AM>
+<AM lemma="váš" src="auto" recommended="1">PSFS4-P2-------</AM>
 <AM lemma="tvůj_^(přivlast.)" src="auto">PSMP1-P2-------</AM>
 <AM lemma="tvůj_^(přivlast.)" src="auto">PSMP5-P2-------</AM>
 </tag>
@@ -3896,7 +3896,7 @@
 <form>ukradené</form>
 <tag>
 <AM lemma="ukradený_^(*5ást)" src="auto">AAFP1----1A----</AM>
-<AM lemma="ukradený_^(*5ást)" src="auto" recommended="1">AAFP4----1A----</AM>
+<AM lemma="ukradený" src="auto" recommended="1">AAFP4----1A----</AM>
 <AM lemma="ukradený_^(*5ást)" src="auto">AAFP5----1A----</AM>
 <AM lemma="ukradený_^(*5ást)" src="auto">AAFS2----1A----</AM>
 <AM lemma="ukradený_^(*5ást)" src="auto">AAFS3----1A----</AM>
@@ -4471,7 +4471,7 @@
 </w.rf>
 <form>svojí</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8FS2----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8FS2----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS3----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS4---------6</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS6----------</AM>
@@ -5140,7 +5140,7 @@
 <form>tu</form>
 <tag>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" recommended="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1379-001-p1s14W21-Ta">

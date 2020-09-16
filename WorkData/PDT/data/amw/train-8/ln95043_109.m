@@ -834,7 +834,7 @@
 <LM>w#w-ln95043-109-p4s1w6</LM>
 </w.rf>
 <form>rada</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95043-109-p4s1w7">
 <src.rf>manual</src.rf>
@@ -1020,7 +1020,7 @@
 <LM>w#w-ln95043-109-p4s2w11</LM>
 </w.rf>
 <form>letoun</form>
-<tag lemma="letoun" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="letoun-1" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln95043-109-p4s2w12">
 <src.rf>manual</src.rf>

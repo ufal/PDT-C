@@ -338,7 +338,7 @@
 <LM>w#w-mf930701-094-p2s3w27</LM>
 </w.rf>
 <form>nemocí</form>
-<tag lemma="nemoc_^(choroba)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="nemoc" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-mf930701-094-p2s3w28">
 <src.rf>manual</src.rf>
@@ -734,7 +734,7 @@
 <LM>w#w-mf930701-094-p2s5w20</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-mf930701-094-p2s5w21">
 <src.rf>manual</src.rf>
@@ -824,7 +824,7 @@
 <LM>w#w-mf930701-094-p2s6w8</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-mf930701-094-p2s6w9">
 <src.rf>manual</src.rf>
@@ -1111,7 +1111,7 @@
 <LM>w#w-mf930701-094-p2s8w16</LM>
 </w.rf>
 <form>stojících</form>
-<tag lemma="stojící-3_^(někdo/něco_stojí,_např._na_nohou)_(*7át-3)" src="orig" selected="1">AGFP2-----A----</tag>
+<tag lemma="stojící-3_^(*7át-3)" src="orig" selected="1">AGFP2-----A----</tag>
 </m>
 <m id="m-mf930701-094-p2s8w17">
 <src.rf>manual</src.rf>
@@ -1254,7 +1254,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1774,7 +1774,7 @@
 <LM>w#w-mf930701-094-p2s13w11</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf930701-094-p2s13w12">
 <src.rf>manual</src.rf>
@@ -2196,7 +2196,7 @@
 <LM>w#w-mf930701-094-p2s16w8</LM>
 </w.rf>
 <form>stižené</form>
-<tag lemma="stižený_^(*4hnout)" src="orig" selected="1">AAFS3----1A----</tag>
+<tag lemma="stižený" src="orig" selected="1">AAFS3----1A----</tag>
 </m>
 <m id="m-mf930701-094-p2s16w9">
 <src.rf>manual</src.rf>
@@ -2284,7 +2284,7 @@
 <LM>w#w-mf930701-094-p2s16w19</LM>
 </w.rf>
 <form>nemoc</form>
-<tag lemma="nemoc_^(choroba)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="nemoc" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf930701-094-p2s16w20">
 <src.rf>manual</src.rf>
@@ -2553,7 +2553,7 @@
 <LM>w#w-mf930701-094-p2s17w23</LM>
 </w.rf>
 <form>potřeby</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930701-094-p2s17w24">
 <src.rf>manual</src.rf>
@@ -2611,7 +2611,7 @@
 <LM>w#w-mf930701-094-p2s18w2</LM>
 </w.rf>
 <form>výbory</form>
-<tag lemma="výbor" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-mf930701-094-p2s18w3">
 <src.rf>manual</src.rf>
@@ -2627,7 +2627,7 @@
 <LM>w#w-mf930701-094-p2s18w4</LM>
 </w.rf>
 <form>navržené</form>
-<tag lemma="navržený_^(*4hnout)" src="orig" selected="1">AAFP4----1A----</tag>
+<tag lemma="navržený" src="orig" selected="1">AAFP4----1A----</tag>
 </m>
 <m id="m-mf930701-094-p2s18w5">
 <src.rf>manual</src.rf>
@@ -2685,7 +2685,7 @@
 <LM>w#w-mf930701-094-p2s19w4</LM>
 </w.rf>
 <form>výbor</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930701-094-p2s19w5">
 <src.rf>manual</src.rf>
@@ -2831,7 +2831,7 @@
 <LM>w#w-mf930701-094-p2s20w2</LM>
 </w.rf>
 <form>výbor</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930701-094-p2s20w3">
 <src.rf>manual</src.rf>

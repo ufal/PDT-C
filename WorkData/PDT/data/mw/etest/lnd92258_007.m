@@ -29,7 +29,7 @@
 <LM>w#w-lnd92258-007-p2s1w1</LM>
 </w.rf>
 <form>Přijetí</form>
-<tag lemma="přijetí_^(*3mout)" src="auto" selected="1">NNNS1-----A----</tag>
+<tag lemma="přijetí_^(*1)_(*3mout)" src="auto" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-lnd92258-007-p2s1w2">
 <src.rf>manual</src.rf>
@@ -1211,7 +1211,7 @@
 <LM>w#w-lnd92258-007-p3s1w19</LM>
 </w.rf>
 <form>přijetí</form>
-<tag lemma="přijetí_^(*3mout)" src="auto" selected="1">NNNS4-----A----</tag>
+<tag lemma="přijetí_^(*1)_(*3mout)" src="auto" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-lnd92258-007-p3s1w20">
 <src.rf>manual</src.rf>
@@ -1245,7 +1245,7 @@
 <LM>w#w-lnd92258-007-p3s2w2</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrIS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS4----------</tag>
 </m>
 <m id="m-lnd92258-007-p3s2w3">
 <src.rf>manual</src.rf>
@@ -1471,7 +1471,7 @@
 <LM>w#w-lnd92258-007-p3s3w2</LM>
 </w.rf>
 <form>druhý</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS4----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS4----------</tag>
 </m>
 <m id="m-lnd92258-007-p3s3w3">
 <src.rf>manual</src.rf>
@@ -2209,7 +2209,7 @@
 <LM>w#w-lnd92258-007-p3s5w32</LM>
 </w.rf>
 <form>druhou</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS4----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS4----------</tag>
 </m>
 <m id="m-lnd92258-007-p3s5w33">
 <src.rf>manual</src.rf>
@@ -2291,7 +2291,7 @@
 <LM>w#w-lnd92258-007-p4s1w7</LM>
 </w.rf>
 <form>správní</form>
-<tag lemma="správní_^(např._poplatek;_rada;_řád;...)" src="orig" selected="1">AANS1----1A----</tag>
+<tag lemma="správní_^(správní_rada;_řád)" src="orig" selected="1">AANS1----1A----</tag>
 </m>
 <m id="m-lnd92258-007-p4s1w8">
 <src.rf>manual</src.rf>
@@ -2904,7 +2904,7 @@
 <LM>w#w-lnd92258-007-p4s3w11</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrIS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS4----------</tag>
 </m>
 <m id="m-lnd92258-007-p4s3w12">
 <src.rf>manual</src.rf>

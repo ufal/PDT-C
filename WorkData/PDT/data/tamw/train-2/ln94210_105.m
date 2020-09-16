@@ -765,7 +765,7 @@
 <LM>w#w-ln94210-105-p3s2w12</LM>
 </w.rf>
 <form>naší</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS2-P1-------</tag>
 </m>
 <m id="m-ln94210-105-p3s2w13">
 <src.rf>manual</src.rf>
@@ -1009,7 +1009,7 @@
 <LM>w#w-ln94210-105-p4s1w6</LM>
 </w.rf>
 <form>vydanou</form>
-<tag lemma="vydaný-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*4t-1)" src="orig" selected="1">AAFS4----1A----</tag>
+<tag lemma="vydaný_^(*2t)" src="orig" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-ln94210-105-p4s1w7">
 <src.rf>manual</src.rf>
@@ -1035,7 +1035,7 @@
 <form>Panorama</form>
 <tag>
 <AM lemma="Panorama_;m" src="orig">NNFS1-----A----</AM>
-<AM lemma="panorama_,s_^(^DD**panoráma)" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="panorama-2_,s_^(^DD**panoráma-2)" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-105-p4s1w10">
@@ -1336,7 +1336,7 @@
 <LM>w#w-ln94210-105-p4s3w19</LM>
 </w.rf>
 <form>Topola</form>
-<tag lemma="Topol_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Topol-1_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94210-105-p4s3w20">
 <src.rf>manual</src.rf>
@@ -1384,7 +1384,7 @@
 <LM>w#w-ln94210-105-p4s3w25</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln94210-105-p4s3w26">
 <src.rf>manual</src.rf>
@@ -1740,7 +1740,7 @@
 <LM>w#w-ln94210-105-p4s5w6</LM>
 </w.rf>
 <form>naší</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS2-P1-------</tag>
 </m>
 <m id="m-ln94210-105-p4s5w7">
 <src.rf>manual</src.rf>
@@ -2095,7 +2095,7 @@
 <AM lemma="vydávání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*7at-1)" src="orig">NNNP4-----A----</AM>
 <AM lemma="vydávání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="auto">NNNP1-----A----</AM>
 <AM lemma="vydávání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="auto">NNNP2-----A----</AM>
-<AM lemma="vydávání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="auto" selected="1">NNNP4-----A----</AM>
+<AM lemma="vydávání_^(*3at)" src="auto" selected="1">NNNP4-----A----</AM>
 <AM lemma="vydávání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="auto">NNNP5-----A----</AM>
 <AM lemma="vydávání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="auto">NNNS1-----A----</AM>
 <AM lemma="vydávání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="auto">NNNS2-----A----</AM>
@@ -2149,7 +2149,7 @@
 <LM>w#w-ln94210-105-p5s2w13</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP2-P1-------</tag>
 </m>
 <m id="m-ln94210-105-p5s2w14">
 <src.rf>manual</src.rf>
@@ -2295,7 +2295,7 @@
 <LM>w#w-ln94210-105-p6s1w14</LM>
 </w.rf>
 <form>postižení</form>
-<tag lemma="postižení_^(*4hnout)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="postižení" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln94210-105-p6s1w15">
 <src.rf>manual</src.rf>

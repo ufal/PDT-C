@@ -35,7 +35,7 @@
 <LM>w#w-mf930703-096-p1s1w3</LM>
 </w.rf>
 <form>Petrova</form>
-<tag lemma="Petrov_;Y" src="auto" selected="1">NNMS4-----A----</tag>
+<tag lemma="Petrov-1_;Y" src="auto" selected="1">NNMS4-----A----</tag>
 </m>
 </s>
 <s id="m-mf930703-096-p1s2">
@@ -920,7 +920,7 @@
 <LM>w#w-mf930703-096-p3s3w3</LM>
 </w.rf>
 <form>Petrova</form>
-<tag lemma="Petrov_;Y" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Petrov-1_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930703-096-p3s3w4">
 <src.rf>manual</src.rf>
@@ -946,7 +946,7 @@
 <LM>w#w-mf930703-096-p4s1w2</LM>
 </w.rf>
 <form>Petrov</form>
-<tag lemma="Petrov_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Petrov-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-096-p4s1w3">
 <src.rf>manual</src.rf>
@@ -1004,7 +1004,7 @@
 <form>třímilionový</form>
 <tag>
 <AM lemma="třímiliónový" src="orig">AAIS4----1A----</AM>
-<AM lemma="třímilionový_^(^DD**třímiliónový)" src="manual" selected="1">AAIS4----1A----</AM>
+<AM lemma="třímilionový_,s_^(^DD**třímiliónový)" src="manual" selected="1">AAIS4----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-096-p4s1w10">
@@ -1210,7 +1210,7 @@
 <form>Gary</form>
 <tag>
 <AM lemma="Gary_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Gary_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Gary-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-096-p5s1w4">
@@ -1287,7 +1287,7 @@
 <LM>w#w-mf930703-096-p5s1w12</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf930703-096-p5s1w13">
 <src.rf>manual</src.rf>
@@ -1403,7 +1403,7 @@
 <LM>w#w-mf930703-096-p5s3w2</LM>
 </w.rf>
 <form>vás</form>
-<tag lemma="ty" src="orig" selected="1">PP-P4--2-------</tag>
+<tag lemma="vy" src="orig" selected="1">PP-P4--2-------</tag>
 </m>
 <m id="m-mf930703-096-p5s3w3">
 <src.rf>manual</src.rf>

@@ -232,7 +232,7 @@
 <LM>w#w-ln94202-12-p1s2w17</LM>
 </w.rf>
 <form>model</form>
-<tag lemma="model" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="model-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94202-12-p1s2w18">
 <src.rf>manual</src.rf>
@@ -357,7 +357,7 @@
 <LM>w#w-ln94202-12-p1s3w4</LM>
 </w.rf>
 <form>mála</form>
-<tag lemma="málo-1_^(př._bez_mála_peněz)" src="orig" selected="1">Ca--2----------</tag>
+<tag lemma="málo-1_^(málo_peněz)" src="orig" selected="1">Ca--2----------</tag>
 </m>
 <m id="m-ln94202-12-p1s3w5">
 <src.rf>manual</src.rf>
@@ -541,7 +541,7 @@
 <LM>w#w-ln94202-12-p1s3w25</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP6-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP6-P1-------</tag>
 </m>
 <m id="m-ln94202-12-p1s3w26">
 <src.rf>manual</src.rf>

@@ -126,7 +126,7 @@
 <AM lemma="zkrachovalý_,e_^(*2t)" src="auto">AAFP1----1A----</AM>
 <AM lemma="zkrachovalý_,e_^(*2t)" src="auto">AAFP4----1A----</AM>
 <AM lemma="zkrachovalý_,e_^(*2t)" src="auto">AAFP5----1A----</AM>
-<AM lemma="zkrachovalý_,e_^(*2t)" src="auto" recommended="1">AAFS2----1A----</AM>
+<AM lemma="zkrachovalý_^(*2t)" src="auto" recommended="1">AAFS2----1A----</AM>
 <AM lemma="zkrachovalý_,e_^(*2t)" src="auto">AAFS3----1A----</AM>
 <AM lemma="zkrachovalý_,e_^(*2t)" src="auto">AAFS6----1A----</AM>
 <AM lemma="zkrachovalý_,e_^(*2t)" src="auto">AAIP1----1A----</AM>
@@ -1410,7 +1410,7 @@
 </w.rf>
 <form>činitelé</form>
 <tag>
-<AM lemma="činitel" src="auto" recommended="1">NNMP1-----A----</AM>
+<AM lemma="činitel-1" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="činitel" src="auto">NNMP5-----A----</AM>
 </tag>
 </m>
@@ -2538,7 +2538,7 @@
 <AM lemma="vlastnící_^(někdo_má_něco_ve_vlastnictví)_(*3it)" src="auto">AGIS1-----A----</AM>
 <AM lemma="vlastnící_^(někdo_má_něco_ve_vlastnictví)_(*3it)" src="auto">AGIS4-----A----</AM>
 <AM lemma="vlastnící_^(někdo_má_něco_ve_vlastnictví)_(*3it)" src="auto">AGIS5-----A----</AM>
-<AM lemma="vlastnící_^(někdo_má_něco_ve_vlastnictví)_(*3it)" src="auto" recommended="1">AGMP1-----A----</AM>
+<AM lemma="vlastnící_^(*3it)" src="auto" recommended="1">AGMP1-----A----</AM>
 <AM lemma="vlastnící_^(někdo_má_něco_ve_vlastnictví)_(*3it)" src="auto">AGMP4-----A----</AM>
 <AM lemma="vlastnící_^(někdo_má_něco_ve_vlastnictví)_(*3it)" src="auto">AGMP5-----A----</AM>
 <AM lemma="vlastnící_^(někdo_má_něco_ve_vlastnictví)_(*3it)" src="auto">AGMS1-----A----</AM>
@@ -2657,7 +2657,7 @@
 </w.rf>
 <form>dají</form>
 <tag>
-<AM lemma="dát" src="auto" recommended="1">VB-P---3P-AAP--</AM>
+<AM lemma="dát-1" src="auto" recommended="1">VB-P---3P-AAP--</AM>
 <AM lemma="dát-2_^(dá_se_očekávat)" src="auto">VB-P---3P-AAI--</AM>
 </tag>
 </m>
@@ -3361,7 +3361,7 @@
 <AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AAMS6----1A----</AM>
 <AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AAMS7----1A----</AM>
 <AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AANP3----1A----</AM>
-<AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto" recommended="1">AANS6----1A----</AM>
+<AM lemma="konkurzní" src="auto" recommended="1">AANS6----1A----</AM>
 <AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AANS7----1A----</AM>
 </tag>
 </m>

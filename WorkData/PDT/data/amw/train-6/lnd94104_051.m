@@ -119,7 +119,7 @@
 <LM>w#w-lnd94104-051-p1s3w7</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-lnd94104-051-p1s3w8">
 <src.rf>manual</src.rf>
@@ -193,7 +193,7 @@
 <LM>w#w-lnd94104-051-p1s4w1</LM>
 </w.rf>
 <form>Diskusi</form>
-<tag lemma="diskuse" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="diskuse_,s_^(^DD**diskuze)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-lnd94104-051-p1s4w2">
 <src.rf>manual</src.rf>
@@ -289,7 +289,7 @@
 <LM>w#w-lnd94104-051-p1s4w13</LM>
 </w.rf>
 <form>Zelených</form>
-<tag lemma="zelený" src="orig" selected="1">AAMP2----1A----</tag>
+<tag lemma="zelený_;o" src="orig" selected="1">AAMP2----1A----</tag>
 </m>
 <m id="m-lnd94104-051-p1s4w14">
 <src.rf>manual</src.rf>
@@ -558,7 +558,7 @@
 <LM>w#w-lnd94104-051-p1s5Aw3</LM>
 </w.rf>
 <form>vydání</form>
-<tag lemma="vydání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="vydání_^(*3at)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-lnd94104-051-p1s5Aw4">
 <src.rf>manual</src.rf>
@@ -604,7 +604,7 @@
 <LM>w#w-lnd94104-051-p1s5Aw8</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-lnd94104-051-p1s5Aw9">
 <src.rf>manual</src.rf>
@@ -835,7 +835,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>

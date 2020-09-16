@@ -128,7 +128,7 @@
 <LM>w#w-ln94200-8-p2s1w9</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94200-8-p2s1w10">
 <src.rf>manual</src.rf>
@@ -243,7 +243,7 @@
 <LM>w#w-ln94200-8-p2s1w23</LM>
 </w.rf>
 <form>mála</form>
-<tag lemma="málo-1_^(př._bez_mála_peněz)" src="orig" selected="1">Ca--2----------</tag>
+<tag lemma="málo-1_^(málo_peněz)" src="orig" selected="1">Ca--2----------</tag>
 </m>
 <m id="m-ln94200-8-p2s1w24">
 <src.rf>manual</src.rf>
@@ -490,7 +490,7 @@
 <LM>w#w-ln94200-8-p2s3w9</LM>
 </w.rf>
 <form>naše</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSHS1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSHS1-P1-------</tag>
 </m>
 <m id="m-ln94200-8-p2s3w10">
 <src.rf>manual</src.rf>
@@ -890,7 +890,7 @@
 <LM>w#w-ln94200-8-p2s5w21</LM>
 </w.rf>
 <form>našim</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP3-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP3-P1-------</tag>
 </m>
 <m id="m-ln94200-8-p2s5w22">
 <src.rf>manual</src.rf>

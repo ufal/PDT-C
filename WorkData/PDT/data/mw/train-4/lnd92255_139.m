@@ -209,7 +209,7 @@
 <form>Júlia</form>
 <tag>
 <AM lemma="Július_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Július_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Július_;Y_,s_^(^DD**Julius)" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-139-p3s2w17">
@@ -710,7 +710,7 @@
 <LM>w#w-lnd92255-139-p3s3w38</LM>
 </w.rf>
 <form>členem</form>
-<tag lemma="člen" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd92255-139-p3s3w39">
 <src.rf>manual</src.rf>
@@ -923,7 +923,7 @@
 <LM>w#w-lnd92255-139-p3s4w26</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-lnd92255-139-p3s4w27">
 <src.rf>manual</src.rf>

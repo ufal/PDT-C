@@ -181,7 +181,7 @@
 <LM>w#w-mf930708-106-p2s1w17</LM>
 </w.rf>
 <form>Novotné</form>
-<tag lemma="Novotná_;Y_^(*1ý)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Novotná_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930708-106-p2s1w18">
 <src.rf>manual</src.rf>
@@ -221,7 +221,7 @@
 <LM>w#w-mf930708-106-p2s1w22</LM>
 </w.rf>
 <form>Wimbledonu</form>
-<tag lemma="Wimbledon-2_^(tenis._turnaj)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Wimbledon" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930708-106-p2s1w23">
 <src.rf>manual</src.rf>
@@ -279,7 +279,7 @@
 <LM>w#w-mf930708-106-p2s2w1</LM>
 </w.rf>
 <form>Novotná</form>
-<tag lemma="Novotná_;Y_^(*1ý)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Novotná_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930708-106-p2s2w2">
 <src.rf>manual</src.rf>
@@ -569,7 +569,7 @@
 <LM>w#w-mf930708-106-p2s3w15</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930708-106-p2s3w16">
 <src.rf>manual</src.rf>
@@ -585,7 +585,7 @@
 <LM>w#w-mf930708-106-p2s3w17</LM>
 </w.rf>
 <form>Sofii</form>
-<tag lemma="Sofie-1_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Sofie_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf930708-106-p2s3w18">
 <src.rf>manual</src.rf>
@@ -868,7 +868,7 @@
 <LM>w#w-mf930708-106-p2s5w12</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-mf930708-106-p2s5w13">
 <src.rf>manual</src.rf>
@@ -958,7 +958,7 @@
 <LM>w#w-mf930708-106-p2s6w9</LM>
 </w.rf>
 <form>tajné</form>
-<tag lemma="tajný" src="orig" selected="1">AAFS6----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AAFS6----1A----</tag>
 </m>
 <m id="m-mf930708-106-p2s6w10">
 <src.rf>manual</src.rf>
@@ -1032,7 +1032,7 @@
 <LM>w#w-mf930708-106-p3s1w6</LM>
 </w.rf>
 <form>dali</form>
-<tag lemma="dát" src="orig" selected="1">VpMP----R-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930708-106-p3s1w7">
 <src.rf>manual</src.rf>
@@ -1104,7 +1104,7 @@
 <LM>w#w-mf930708-106-p3s1w15</LM>
 </w.rf>
 <form>Novotné</form>
-<tag lemma="Novotná_;Y_^(*1ý)" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="Novotná_;Y" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-mf930708-106-p3s1w16">
 <src.rf>manual</src.rf>
@@ -1128,7 +1128,7 @@
 <LM>w#w-mf930708-106-p3s1w18</LM>
 </w.rf>
 <form>rovnosti</form>
-<tag lemma="rovnost_^(přímý,_stejný,_spravedlivý)_(*3ý)" src="auto" selected="1">NNFS6-----A----</tag>
+<tag lemma="rovnost_^(*3ý)" src="auto" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf930708-106-p3s1w19">
 <src.rf>manual</src.rf>

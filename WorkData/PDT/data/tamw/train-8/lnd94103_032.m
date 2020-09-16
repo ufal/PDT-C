@@ -136,7 +136,7 @@
 <LM>w#w-lnd94103-032-p1s3w3</LM>
 </w.rf>
 <form>hnutí</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-lnd94103-032-p1s3w4">
 <src.rf>manual</src.rf>
@@ -559,7 +559,7 @@
 <LM>w#w-lnd94103-032-p1s6w7</LM>
 </w.rf>
 <form>politice</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-lnd94103-032-p1s6w8">
 <src.rf>manual</src.rf>

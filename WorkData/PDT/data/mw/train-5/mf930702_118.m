@@ -93,7 +93,7 @@
 <LM>w#w-mf930702-118-p2s1w4</LM>
 </w.rf>
 <form>modré</form>
-<tag lemma="modrý" src="orig" selected="1">AAFP1----1A----</tag>
+<tag lemma="modrý_;o" src="orig" selected="1">AAFP1----1A----</tag>
 </m>
 <m id="m-mf930702-118-p2s1w5">
 <src.rf>manual</src.rf>
@@ -221,7 +221,7 @@
 <LM>w#w-mf930702-118-p2s1w20</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930702-118-p2s1w21">
 <src.rf>manual</src.rf>
@@ -279,7 +279,7 @@
 <LM>w#w-mf930702-118-p2s2w4</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-118-p2s2w5">
 <src.rf>manual</src.rf>
@@ -1096,7 +1096,7 @@
 <LM>w#w-mf930702-118-p5s1w14</LM>
 </w.rf>
 <form>modré</form>
-<tag lemma="modrý" src="orig" selected="1">AAFP4----1A----</tag>
+<tag lemma="modrý_;o" src="orig" selected="1">AAFP4----1A----</tag>
 </m>
 <m id="m-mf930702-118-p5s1w15">
 <src.rf>manual</src.rf>
@@ -1480,7 +1480,7 @@
 <LM>w#w-mf930702-118-p6s1w11</LM>
 </w.rf>
 <form>cestě</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf930702-118-p6s1w12">
 <src.rf>manual</src.rf>
@@ -1687,7 +1687,7 @@
 <LM>w#w-mf930702-118-p6s3w5</LM>
 </w.rf>
 <form>mluvčího</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930702-118-p6s3w6">
 <src.rf>manual</src.rf>
@@ -1708,7 +1708,7 @@
 <form>Josého</form>
 <tag>
 <AM lemma="José_;G" src="auto">NNNS2-----A----</AM>
-<AM lemma="José_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="José-1_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-118-p6s3w8">

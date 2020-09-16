@@ -129,7 +129,7 @@
 <LM>w#w-lnd91301-071-p4s1w6</LM>
 </w.rf>
 <form>ohlášeného</form>
-<tag lemma="ohlášený_,a_^(*4sit)" src="auto" selected="1">AANS2----1A----</tag>
+<tag lemma="ohlášený_^(*2t)_(*4sit)" src="auto" selected="1">AANS2----1A----</tag>
 </m>
 <m id="m-lnd91301-071-p4s1w7">
 <src.rf>manual</src.rf>

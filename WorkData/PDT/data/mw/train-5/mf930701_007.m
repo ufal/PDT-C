@@ -184,7 +184,7 @@
 <LM>w#w-mf930701-007-p2s1w16</LM>
 </w.rf>
 <form>dlouhou</form>
-<tag lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">AAFS7----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFS7----1A----</tag>
 </m>
 <m id="m-mf930701-007-p2s1w17">
 <src.rf>manual</src.rf>
@@ -290,7 +290,7 @@
 <LM>w#w-mf930701-007-p3s1w1</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrFP1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFP1----------</tag>
 </m>
 <m id="m-mf930701-007-p3s1w2">
 <src.rf>manual</src.rf>
@@ -681,7 +681,7 @@
 <LM>w#w-mf930701-007-p4s1w3</LM>
 </w.rf>
 <form>správný</form>
-<tag lemma="správný_^(podle_něj._měřítek;_př._chlap,_míra,...)" src="orig" selected="1">AAIS4----1A----</tag>
+<tag lemma="správný" src="orig" selected="1">AAIS4----1A----</tag>
 </m>
 <m id="m-mf930701-007-p4s1w4">
 <src.rf>manual</src.rf>

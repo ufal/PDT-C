@@ -223,7 +223,7 @@
 <LM>w#w-cmpr9415-035-p3s2w6</LM>
 </w.rf>
 <form>dá</form>
-<tag lemma="dát" src="orig" selected="1">VB-S---3P-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-cmpr9415-035-p3s2w7">
 <src.rf>manual</src.rf>
@@ -295,7 +295,7 @@
 <LM>w#w-cmpr9415-035-p3s2w15</LM>
 </w.rf>
 <form>nebrání</form>
-<tag lemma="bránit_^(klást_překážky)" src="auto" selected="1">VB-S---3P-NAI--</tag>
+<tag lemma="bránit" src="auto" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-cmpr9415-035-p3s2w16">
 <src.rf>manual</src.rf>
@@ -401,7 +401,7 @@
 <LM>w#w-cmpr9415-035-p3s3w10</LM>
 </w.rf>
 <form>postiženým</form>
-<tag lemma="postižený_^(*4hnout)" src="orig" selected="1">AAMP3----1A----</tag>
+<tag lemma="postižený" src="orig" selected="1">AAMP3----1A----</tag>
 </m>
 <m id="m-cmpr9415-035-p3s3w11">
 <src.rf>manual</src.rf>

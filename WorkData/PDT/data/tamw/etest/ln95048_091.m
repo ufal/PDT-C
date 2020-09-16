@@ -120,7 +120,7 @@
 <LM>w#w-ln95048-091-p2s1Aw9</LM>
 </w.rf>
 <form>Yorku</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="York-2_;G_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 </s>
 <s id="m-ln95048-091-p2s1B">
@@ -186,7 +186,7 @@
 <LM>w#w-ln95048-091-p2s1Cw4</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS4----------</tag>
 </m>
 <m id="m-ln95048-091-p2s1Cw5">
 <src.rf>manual</src.rf>
@@ -551,7 +551,7 @@
 <LM>w#w-ln95048-091-p3s1w18</LM>
 </w.rf>
 <form>Ottawě</form>
-<tag lemma="Ottawa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Ottawa-1_;G" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln95048-091-p3s1w19">
 <src.rf>manual</src.rf>
@@ -607,7 +607,7 @@
 <LM>w#w-ln95048-091-p3s1w25</LM>
 </w.rf>
 <form>černého</form>
-<tag lemma="černý" src="auto" selected="1">AANS2----1A----</tag>
+<tag lemma="černý_;o" src="auto" selected="1">AANS2----1A----</tag>
 </m>
 <m id="m-ln95048-091-p3s1w26">
 <src.rf>manual</src.rf>
@@ -851,7 +851,7 @@
 <LM>w#w-ln95048-091-p3s3w10</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-ln95048-091-p3s3w11">
 <src.rf>manual</src.rf>
@@ -867,7 +867,7 @@
 <LM>w#w-ln95048-091-p3s3w12</LM>
 </w.rf>
 <form>prvního</form>
-<tag lemma="první" src="orig" selected="1">CrIS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS2----------</tag>
 </m>
 <m id="m-ln95048-091-p3s3w13">
 <src.rf>manual</src.rf>
@@ -923,7 +923,7 @@
 <LM>w#w-ln95048-091-p3s3w19</LM>
 </w.rf>
 <form>Ottawě</form>
-<tag lemma="Ottawa_;G" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="Ottawa-1_;G" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-ln95048-091-p3s3w20">
 <src.rf>manual</src.rf>
@@ -965,7 +965,7 @@
 <LM>w#w-ln95048-091-p3s4w2</LM>
 </w.rf>
 <form>Quebeku</form>
-<tag lemma="Quebek_;G" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Quebek_;G_,s_^(^DD**Quebec)" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln95048-091-p3s4w3">
 <src.rf>manual</src.rf>
@@ -1127,7 +1127,7 @@
 <LM>w#w-ln95048-091-p3s5w7</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS7----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS7----------</tag>
 </m>
 <m id="m-ln95048-091-p3s5w8">
 <src.rf>manual</src.rf>
@@ -1212,7 +1212,7 @@
 <LM>w#w-ln95048-091-p4s1w5</LM>
 </w.rf>
 <form>Yorku</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="York-2_;G_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln95048-091-p4s1w6">
 <src.rf>manual</src.rf>
@@ -1284,7 +1284,7 @@
 <LM>w#w-ln95048-091-p4s1w14</LM>
 </w.rf>
 <form>Bay</form>
-<tag lemma="Bay-2_;G" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Bay-2_;G_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95048-091-p4s1w15">
 <src.rf>manual</src.rf>

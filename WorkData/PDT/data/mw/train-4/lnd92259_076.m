@@ -27,7 +27,7 @@
 <LM>w#w-lnd92259-076-p1s1w2</LM>
 </w.rf>
 <form>BÍLÁ</form>
-<tag lemma="Bílá_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Bílá_;G_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92259-076-p1s1w3">
 <src.rf>manual</src.rf>
@@ -640,7 +640,7 @@
 <AM lemma="pas-1_^(př._cestovní)" src="auto">NNIS5-----A----</AM>
 <AM lemma="pas-1_^(př._cestovní)" src="auto">NNIS6-----A----</AM>
 <AM lemma="pas-2_^(na_lidském_těle)" src="auto">NNIS5-----A----</AM>
-<AM lemma="pas-2_^(na_lidském_těle)" src="auto" recommended="1" selected="1">NNIS6-----A----</AM>
+<AM lemma="pas-1_^(přihrávka,_př._v_kopané,na_lidském_těle;;cestovní)" src="auto" recommended="1" selected="1">NNIS6-----A----</AM>
 <AM lemma="pas-3_^(přihrávka,_př._v_kopané)" src="auto">NNIS5-----A----</AM>
 <AM lemma="pasus" src="auto">NNIS5-----A----</AM>
 <AM lemma="pást_^(se,např._koně,_husy)" src="auto">VB-S---3P-AAI--</AM>
@@ -737,7 +737,7 @@
 <LM>w#w-lnd92259-076-p1s4w6</LM>
 </w.rf>
 <form>Bílá</form>
-<tag lemma="Bílá_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Bílá_;G_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92259-076-p1s4w7">
 <src.rf>manual</src.rf>

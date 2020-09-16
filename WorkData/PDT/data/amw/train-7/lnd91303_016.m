@@ -40,7 +40,7 @@
 <LM>w#w-lnd91303-016-p2s1w1</LM>
 </w.rf>
 <form>Tajné</form>
-<tag lemma="tajný" src="orig" selected="1">AAFP1----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AAFP1----1A----</tag>
 </m>
 <m id="m-lnd91303-016-p2s1w2">
 <src.rf>manual</src.rf>
@@ -693,7 +693,7 @@
 <LM>w#w-lnd91303-016-p4s5w8</LM>
 </w.rf>
 <form>potřeba</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd91303-016-p4s5w9">
 <src.rf>manual</src.rf>

@@ -917,7 +917,7 @@
 <LM>w#w-mf920922-123-p3s4w22</LM>
 </w.rf>
 <form>práva</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNP4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNP4-----A----</tag>
 </m>
 <m id="m-mf920922-123-p3s4w23">
 <src.rf>manual</src.rf>
@@ -1001,7 +1001,7 @@
 <LM>w#w-mf920922-123-p4s1w2</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-mf920922-123-p4s1w3">
 <src.rf>manual</src.rf>
@@ -1065,7 +1065,7 @@
 <LM>w#w-mf920922-123-p4s1w10</LM>
 </w.rf>
 <form>vyhlášení</form>
-<tag lemma="vyhlášení_,a_^(*4sit)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="vyhlášení_^(*2t)_(*4sit)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-mf920922-123-p4s1w11">
 <src.rf>manual</src.rf>
@@ -1304,7 +1304,7 @@
 <form>UNICEF</form>
 <tag>
 <AM lemma="UNICEF_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="UNICEF-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="UNICEF-2_;m_^(United_Nations_Children_s_Fund)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-123-p4s2w10">

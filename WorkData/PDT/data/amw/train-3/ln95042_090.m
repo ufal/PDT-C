@@ -19,7 +19,7 @@
 <LM>w#w-ln95042-090-p1s1w1</LM>
 </w.rf>
 <form>Tajné</form>
-<tag lemma="tajný" src="orig" selected="1">AANS1----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AANS1----1A----</tag>
 </m>
 <m id="m-ln95042-090-p1s1w2">
 <src.rf>manual</src.rf>
@@ -53,7 +53,7 @@
 <LM>w#w-ln95042-090-p2s1w1</LM>
 </w.rf>
 <form>Tajné</form>
-<tag lemma="tajný" src="orig" selected="1">AANS1----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AANS1----1A----</tag>
 </m>
 <m id="m-ln95042-090-p2s1w2">
 <src.rf>manual</src.rf>
@@ -101,7 +101,7 @@
 <LM>w#w-ln95042-090-p2s1w7</LM>
 </w.rf>
 <form>tajných</form>
-<tag lemma="tajný" src="orig" selected="1">AAFP2----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AAFP2----1A----</tag>
 </m>
 <m id="m-ln95042-090-p2s1w8">
 <src.rf>manual</src.rf>
@@ -398,7 +398,7 @@
 <LM>w#w-ln95042-090-p2s1w43</LM>
 </w.rf>
 <form>jehož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P1XXXZS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXZS3-------</tag>
 </m>
 <m id="m-ln95042-090-p2s1w44">
 <src.rf>manual</src.rf>
@@ -613,7 +613,7 @@
 <LM>w#w-ln95042-090-p3s1w5</LM>
 </w.rf>
 <form>našeho</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSZS2-P1-------</tag>
 </m>
 <m id="m-ln95042-090-p3s1w6">
 <src.rf>manual</src.rf>
@@ -909,7 +909,7 @@
 <LM>w#w-ln95042-090-p5s1w1</LM>
 </w.rf>
 <form>Tajné</form>
-<tag lemma="tajný" src="orig" selected="1">AANS1----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AANS1----1A----</tag>
 </m>
 <m id="m-ln95042-090-p5s1w2">
 <src.rf>manual</src.rf>
@@ -1037,7 +1037,7 @@
 <LM>w#w-ln95042-090-p5s1w17</LM>
 </w.rf>
 <form>tajné</form>
-<tag lemma="tajný" src="orig" selected="1">AANS1----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AANS1----1A----</tag>
 </m>
 <m id="m-ln95042-090-p5s1w18">
 <src.rf>manual</src.rf>
@@ -1398,7 +1398,7 @@
 <LM>w#w-ln95042-090-p5s4w5</LM>
 </w.rf>
 <form>tajná</form>
-<tag lemma="tajný" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-ln95042-090-p5s4w6">
 <src.rf>manual</src.rf>
@@ -1648,7 +1648,7 @@
 <LM>w#w-ln95042-090-p5s5w22</LM>
 </w.rf>
 <form>štrůdl</form>
-<tag lemma="štrůdl" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="štrůdl_,h_^(^GC**štrúdl)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95042-090-p5s5w23">
 <src.rf>manual</src.rf>
@@ -1680,7 +1680,7 @@
 <LM>w#w-ln95042-090-p5s5w26</LM>
 </w.rf>
 <form>tajné</form>
-<tag lemma="tajný" src="orig" selected="1">AANS1----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AANS1----1A----</tag>
 </m>
 <m id="m-ln95042-090-p5s5w27">
 <src.rf>manual</src.rf>

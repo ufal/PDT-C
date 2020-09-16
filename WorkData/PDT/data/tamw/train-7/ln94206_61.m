@@ -659,7 +659,7 @@
 <LM>w#w-ln94206-61-p2s3w6</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-ln94206-61-p2s3w7">
 <src.rf>manual</src.rf>
@@ -1037,7 +1037,7 @@
 <LM>w#w-ln94206-61-p3s2w9</LM>
 </w.rf>
 <form>prvního</form>
-<tag lemma="první" src="orig" selected="1">CrIS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS2----------</tag>
 </m>
 <m id="m-ln94206-61-p3s2w10">
 <src.rf>manual</src.rf>
@@ -1426,7 +1426,7 @@
 <LM>w#w-ln94206-61-p3s4w16</LM>
 </w.rf>
 <form>správnosti</form>
-<tag lemma="správnost_^(podle_něj._měřítek;_př._chlap,_míra,...)_(*3ý)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="správnost_^(*3ý)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94206-61-p3s4w17">
 <src.rf>manual</src.rf>

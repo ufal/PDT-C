@@ -339,7 +339,7 @@
 <LM>w#w-lnd92257-073-p1s1w41</LM>
 </w.rf>
 <form>málo</form>
-<tag lemma="málo-3_^(málo_+_příd._jm.,_př._byl_málo_důsledný)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="málo-3_^(málo_důsledný)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd92257-073-p1s1w42">
 <src.rf>manual</src.rf>
@@ -395,7 +395,7 @@
 <LM>w#w-lnd92257-073-p1s1w48</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd92257-073-p1s1w49">
 <src.rf>manual</src.rf>
@@ -523,7 +523,7 @@
 <LM>w#w-lnd92257-073-p1s1w64</LM>
 </w.rf>
 <form>vydání</form>
-<tag lemma="vydání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="vydání_^(*3at)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-lnd92257-073-p1s1w65">
 <src.rf>manual</src.rf>
@@ -531,7 +531,7 @@
 <LM>w#w-lnd92257-073-p1s1w65</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-lnd92257-073-p1s1w66">
 <src.rf>manual</src.rf>
@@ -1065,7 +1065,7 @@
 <LM>w#w-lnd92257-073-p1s5w4</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd92257-073-p1s5w5">
 <src.rf>manual</src.rf>
@@ -1612,7 +1612,7 @@
 <LM>w#w-lnd92257-073-p1s7w1</LM>
 </w.rf>
 <form>Představení</form>
-<tag lemma="představení-2_^(divadelní,_filmové_apod.)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="představení-1_^(*5it-1)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-lnd92257-073-p1s7w2">
 <src.rf>manual</src.rf>
@@ -1716,7 +1716,7 @@
 <LM>w#w-lnd92257-073-p1s7w14</LM>
 </w.rf>
 <form>roli</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="role_^(svitek_poslání_pozemek)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd92257-073-p1s7w15">
 <src.rf>manual</src.rf>
@@ -1812,7 +1812,7 @@
 <LM>w#w-lnd92257-073-p1s7w26</LM>
 </w.rf>
 <form>alias</form>
-<tag lemma="alias" src="orig" selected="1">J^-------------</tag>
+<tag lemma="alias-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-lnd92257-073-p1s7w27">
 <src.rf>manual</src.rf>
@@ -1836,7 +1836,7 @@
 <LM>w#w-lnd92257-073-p1s7w29</LM>
 </w.rf>
 <form>druhý</form>
-<tag lemma="druhý" src="orig" selected="1">CrMS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrMS1----------</tag>
 </m>
 <m id="m-lnd92257-073-p1s7w30">
 <src.rf>manual</src.rf>

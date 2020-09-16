@@ -523,7 +523,7 @@
 <LM>w#w-lnd91301-037-p2s4w8</LM>
 </w.rf>
 <form>varhany</form>
-<tag lemma="varhany" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="varhany-1" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-lnd91301-037-p2s4w9">
 <src.rf>manual</src.rf>
@@ -731,7 +731,7 @@
 <LM>w#w-lnd91301-037-p2s6w13</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd91301-037-p2s6w14">
 <src.rf>manual</src.rf>

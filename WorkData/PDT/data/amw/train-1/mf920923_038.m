@@ -187,7 +187,7 @@
 <LM>w#w-mf920923-038-p2s2w11</LM>
 </w.rf>
 <form>Miroslava</form>
-<tag lemma="Miroslav_;Y" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Miroslav-1_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf920923-038-p2s2w12">
 <src.rf>manual</src.rf>
@@ -603,7 +603,7 @@
 <LM>w#w-mf920923-038-p2s4w17</LM>
 </w.rf>
 <form>výbor</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920923-038-p2s4w18">
 <src.rf>manual</src.rf>
@@ -717,7 +717,7 @@
 <LM>w#w-mf920923-038-p3s1w10</LM>
 </w.rf>
 <form>Miroslavu</form>
-<tag lemma="Miroslav_;Y" src="orig" selected="1">NNMS3-----A---1</tag>
+<tag lemma="Miroslav-1_;Y" src="orig" selected="1">NNMS3-----A---1</tag>
 </m>
 <m id="m-mf920923-038-p3s1w11">
 <src.rf>manual</src.rf>
@@ -792,7 +792,7 @@
 <LM>w#w-mf920923-038-p3s1w19</LM>
 </w.rf>
 <form>jejího</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS2FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS2FS3-------</tag>
 </m>
 <m id="m-mf920923-038-p3s1w20">
 <src.rf>manual</src.rf>
@@ -1188,7 +1188,7 @@
 <LM>w#w-mf920923-038-p3s4w2</LM>
 </w.rf>
 <form>hodině</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf920923-038-p3s4w3">
 <src.rf>manual</src.rf>
@@ -1310,7 +1310,7 @@
 <LM>w#w-mf920923-038-p4s1w8</LM>
 </w.rf>
 <form>Miroslav</form>
-<tag lemma="Miroslav_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Miroslav-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-038-p4s1w9">
 <src.rf>manual</src.rf>

@@ -544,7 +544,7 @@
 <LM>w#w-ln95042-095-p2s2w3</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln95042-095-p2s2w4">
 <src.rf>manual</src.rf>
@@ -765,7 +765,7 @@
 <LM>w#w-ln95042-095-p2s3w5</LM>
 </w.rf>
 <form>právo</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln95042-095-p2s3w6">
 <src.rf>manual</src.rf>
@@ -925,7 +925,7 @@
 <LM>w#w-ln95042-095-p2s4w12</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP6----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP6----------</tag>
 </m>
 <m id="m-ln95042-095-p2s4w13">
 <src.rf>manual</src.rf>
@@ -1487,7 +1487,7 @@
 <LM>w#w-ln95042-095-p4s1w18</LM>
 </w.rf>
 <form>prostředky</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-ln95042-095-p4s1w19">
 <src.rf>manual</src.rf>
@@ -2394,7 +2394,7 @@
 <LM>w#w-ln95042-095-p6s2w1</LM>
 </w.rf>
 <form>Její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XP1FS3-------</tag>
 </m>
 <m id="m-ln95042-095-p6s2w2">
 <src.rf>manual</src.rf>

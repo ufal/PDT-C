@@ -379,7 +379,7 @@
 <form>Francisku</form>
 <tag>
 <AM lemma="Francisko_;G" src="orig">NNNS6-----A----</AM>
-<AM lemma="Francisko-2_;G_,s_^(^DD**Francisco)" src="manual" selected="1">NNNS6-----A----</AM>
+<AM lemma="Francisko-2_;G_,s_^(^DD**Francisco-2)" src="manual" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-145-p3s2w16">
@@ -640,7 +640,7 @@
 <LM>w#w-ln95040-145-p4s2w1</LM>
 </w.rf>
 <form>Její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XP1FS3-------</tag>
 </m>
 <m id="m-ln95040-145-p4s2w2">
 <src.rf>manual</src.rf>
@@ -804,7 +804,7 @@
 <LM>w#w-ln95040-145-p4s3w12</LM>
 </w.rf>
 <form>co</form>
-<tag lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="co-5_^(př._co_nejméně,_co_nevidět_atd.)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95040-145-p4s3w13">
 <src.rf>manual</src.rf>
@@ -1312,7 +1312,7 @@
 <LM>w#w-ln95040-145-p6s1w3</LM>
 </w.rf>
 <form>klenot</form>
-<tag lemma="klenot" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="klenot-1" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln95040-145-p6s1w4">
 <src.rf>manual</src.rf>

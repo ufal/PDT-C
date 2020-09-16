@@ -149,7 +149,7 @@
 <LM>w#w-ln94209-14-p2s1Bw2</LM>
 </w.rf>
 <form>letoun</form>
-<tag lemma="letoun" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="letoun-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94209-14-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -322,7 +322,7 @@
 <form>NATO</form>
 <tag>
 <AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="NATO_;m_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="NATO-1_;m_^(Northtlantic_Treaty_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-14-p2s1Bw24">
@@ -536,7 +536,7 @@
 <LM>w#w-ln94209-14-p2s2w25</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94209-14-p2s2w26">
 <src.rf>manual</src.rf>
@@ -629,7 +629,7 @@
 <LM>w#w-ln94209-14-p2s3w6</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-ln94209-14-p2s3w7">
 <src.rf>manual</src.rf>
@@ -891,7 +891,7 @@
 <LM>w#w-ln94209-14-p2s3w38</LM>
 </w.rf>
 <form>výzbroje</form>
-<tag lemma="výzbroj" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="výzbroj-1" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94209-14-p2s3w39">
 <src.rf>manual</src.rf>
@@ -1157,7 +1157,7 @@
 <LM>w#w-ln94209-14-p2s5w12</LM>
 </w.rf>
 <form>bombardéru</form>
-<tag lemma="bombardér" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="bombardér-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94209-14-p2s5w13">
 <src.rf>manual</src.rf>

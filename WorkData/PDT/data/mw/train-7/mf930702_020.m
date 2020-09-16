@@ -462,7 +462,7 @@
 <LM>w#w-mf930702-020-p2s3w10</LM>
 </w.rf>
 <form>zástavě</form>
-<tag lemma="zástava-2_^(věci_jako_záruka)" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="zástava_^(prapor_záruka_dechu_zástavba)" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-mf930702-020-p2s3w11">
 <src.rf>manual</src.rf>

@@ -308,7 +308,7 @@
 <LM>w#w-vesm9303-033-p2s1w30</LM>
 </w.rf>
 <form>postižení</form>
-<tag lemma="postižení_^(*4hnout)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="postižení" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-vesm9303-033-p2s1w31">
 <src.rf>manual</src.rf>
@@ -422,7 +422,7 @@
 <LM>w#w-vesm9303-033-p2s2w7</LM>
 </w.rf>
 <form>postižení</form>
-<tag lemma="postižení_^(*4hnout)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="postižení" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-vesm9303-033-p2s2w8">
 <src.rf>manual</src.rf>
@@ -1082,7 +1082,7 @@
 <LM>w#w-vesm9303-033-p2s5w31</LM>
 </w.rf>
 <form>postižením</form>
-<tag lemma="postižení_^(*4hnout)" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="postižení" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-vesm9303-033-p2s5w32">
 <src.rf>manual</src.rf>
@@ -1146,7 +1146,7 @@
 <LM>w#w-vesm9303-033-p2s5w39</LM>
 </w.rf>
 <form>postižením</form>
-<tag lemma="postižení_^(*4hnout)" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="postižení" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-vesm9303-033-p2s5w40">
 <src.rf>manual</src.rf>
@@ -1162,7 +1162,7 @@
 <LM>w#w-vesm9303-033-p2s5w41</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-vesm9303-033-p2s5w42">
 <src.rf>manual</src.rf>
@@ -1212,7 +1212,7 @@
 <LM>w#w-vesm9303-033-p3s1w4</LM>
 </w.rf>
 <form>postižení</form>
-<tag lemma="postižení_^(*4hnout)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="postižení" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-vesm9303-033-p3s1w5">
 <src.rf>manual</src.rf>
@@ -1422,7 +1422,7 @@
 <LM>w#w-vesm9303-033-p3s2w8</LM>
 </w.rf>
 <form>postižení</form>
-<tag lemma="postižení_^(*4hnout)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="postižení" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-vesm9303-033-p3s2w9">
 <src.rf>manual</src.rf>
@@ -1496,7 +1496,7 @@
 <LM>w#w-vesm9303-033-p3s3w4</LM>
 </w.rf>
 <form>postižení</form>
-<tag lemma="postižení_^(*4hnout)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="postižení" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-vesm9303-033-p3s3w5">
 <src.rf>manual</src.rf>
@@ -1624,7 +1624,7 @@
 <LM>w#w-vesm9303-033-p3s3w20</LM>
 </w.rf>
 <form>myšlení</form>
-<tag lemma="myšlení_^(*5slet)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="myšlení_^(*5slit)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-vesm9303-033-p3s3w21">
 <src.rf>manual</src.rf>
@@ -1777,7 +1777,7 @@
 <LM>w#w-vesm9303-033-p3s6w3</LM>
 </w.rf>
 <form>postižení</form>
-<tag lemma="postižení_^(*4hnout)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="postižení" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-vesm9303-033-p3s6w4">
 <src.rf>manual</src.rf>

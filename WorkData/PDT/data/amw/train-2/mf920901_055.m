@@ -194,7 +194,7 @@
 <LM>w#w-mf920901-055-p2s3w6</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrNS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS4----------</tag>
 </m>
 <m id="m-mf920901-055-p2s3w7">
 <src.rf>manual</src.rf>
@@ -730,7 +730,7 @@
 <LM>w#w-mf920901-055-p4s1w19</LM>
 </w.rf>
 <form>Arthura</form>
-<tag lemma="Arthur_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Arthur_;Y_,s_^(^DD**Artur)" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920901-055-p4s1w20">
 <src.rf>manual</src.rf>
@@ -770,7 +770,7 @@
 <LM>w#w-mf920901-055-p4s1w24</LM>
 </w.rf>
 <form>viru</form>
-<tag lemma="vir" src="orig" selected="1">NNIS3-----A----</tag>
+<tag lemma="vir-1" src="orig" selected="1">NNIS3-----A----</tag>
 </m>
 <m id="m-mf920901-055-p4s1w25">
 <src.rf>manual</src.rf>
@@ -1138,7 +1138,7 @@
 <LM>w#w-mf920901-055-p4s3w28</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-mf920901-055-p4s3w29">
 <src.rf>manual</src.rf>
@@ -1486,7 +1486,7 @@
 <LM>w#w-mf920901-055-p5s3w1</LM>
 </w.rf>
 <form>Druhý</form>
-<tag lemma="druhý" src="orig" selected="1">CrMS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrMS1----------</tag>
 </m>
 <m id="m-mf920901-055-p5s3w2">
 <src.rf>manual</src.rf>

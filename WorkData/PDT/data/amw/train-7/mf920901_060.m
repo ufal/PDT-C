@@ -69,7 +69,7 @@
 <LM>w#w-mf920901-060-p1s1Bw3</LM>
 </w.rf>
 <form>CUP</form>
-<tag lemma="Cup-1_;m_^(pohár,_soutěž;_v_názvech)" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="cup-1_^(pohár)" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920901-060-p1s1Bw4">
 <src.rf>manual</src.rf>
@@ -246,7 +246,7 @@
 <LM>w#w-mf920901-060-p2s1w14</LM>
 </w.rf>
 <form>druhém</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-mf920901-060-p2s1w15">
 <src.rf>manual</src.rf>
@@ -278,7 +278,7 @@
 <LM>w#w-mf920901-060-p2s1w18</LM>
 </w.rf>
 <form>Cupu</form>
-<tag lemma="Cup-1_;m_^(pohár,_soutěž;_v_názvech)" src="auto" selected="1">NNIS6-----A----</tag>
+<tag lemma="cup-1_^(pohár)" src="auto" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-mf920901-060-p2s1w19">
 <src.rf>manual</src.rf>
@@ -793,7 +793,7 @@
 <LM>w#w-mf920901-060-p4s1w4</LM>
 </w.rf>
 <form>centr</form>
-<tag lemma="centr_^(sport:_přihrávka)" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="centr-1_^(sport_přihrávka)" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920901-060-p4s1w5">
 <src.rf>manual</src.rf>
@@ -1021,7 +1021,7 @@
 <LM>w#w-mf920901-060-p4s3w5</LM>
 </w.rf>
 <form>bránění</form>
-<tag lemma="bránění_^(klást_překážky)_(*3it)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="bránění_^(*3it)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-mf920901-060-p4s3w6">
 <src.rf>manual</src.rf>
@@ -1029,7 +1029,7 @@
 <LM>w#w-mf920901-060-p4s3w6</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP2-P1-------</tag>
 </m>
 <m id="m-mf920901-060-p4s3w7">
 <src.rf>manual</src.rf>
@@ -1117,7 +1117,7 @@
 <LM>w#w-mf920901-060-p4s3w17</LM>
 </w.rf>
 <form>náš</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSIS4-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSIS4-P1-------</tag>
 </m>
 <m id="m-mf920901-060-p4s3w18">
 <src.rf>manual</src.rf>
@@ -1151,7 +1151,7 @@
 <LM>w#w-mf920901-060-p5s1w2</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-mf920901-060-p5s1w3">
 <src.rf>manual</src.rf>

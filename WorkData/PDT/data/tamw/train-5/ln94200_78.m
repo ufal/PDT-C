@@ -687,7 +687,7 @@
 <LM>w#w-ln94200-78-p3s1w17</LM>
 </w.rf>
 <form>lidem</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP3-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP3-----A----</tag>
 </m>
 <m id="m-ln94200-78-p3s1w18">
 <src.rf>manual</src.rf>
@@ -1024,7 +1024,7 @@
 <LM>w#w-ln94200-78-p3s2w32</LM>
 </w.rf>
 <form>ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94200-78-p3s2w33">
 <src.rf>manual</src.rf>
@@ -1269,7 +1269,7 @@
 <LM>w#w-ln94200-78-p4s1w28</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln94200-78-p4s1w29">
 <src.rf>manual</src.rf>
@@ -1474,7 +1474,7 @@
 <LM>w#w-ln94200-78-p4s2w17</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS1FS3-------</tag>
 </m>
 <m id="m-ln94200-78-p4s2w18">
 <src.rf>manual</src.rf>

@@ -271,7 +271,7 @@
 <LM>w#w-ln94204-94-p3s1w3</LM>
 </w.rf>
 <form>Amos</form>
-<tag lemma="Amos_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Amos-1_;Y_,s_^(^DD**Ámos)" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-94-p3s1w4">
 <src.rf>manual</src.rf>
@@ -333,7 +333,7 @@
 <LM>w#w-ln94204-94-p3s1w10</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-ln94204-94-p3s1w11">
 <src.rf>manual</src.rf>
@@ -542,7 +542,7 @@
 <LM>w#w-ln94204-94-p3s2w15</LM>
 </w.rf>
 <form>podání</form>
-<tag lemma="podání_^(něco_[někomu]_[někam])_(*3at)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="podání_^(*3at)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-ln94204-94-p3s2w16">
 <src.rf>manual</src.rf>

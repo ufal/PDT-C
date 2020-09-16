@@ -752,7 +752,7 @@
 <LM>w#w-ln95040-091-p2s5w9</LM>
 </w.rf>
 <form>druhého</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS2----------</tag>
 </m>
 <m id="m-ln95040-091-p2s5w10">
 <src.rf>manual</src.rf>
@@ -970,7 +970,7 @@
 <LM>w#w-ln95040-091-p2s6w13</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95040-091-p2s6w14">
 <src.rf>manual</src.rf>

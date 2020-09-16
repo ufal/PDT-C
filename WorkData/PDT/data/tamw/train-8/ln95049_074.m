@@ -53,7 +53,7 @@
 <form>extremismu</form>
 <tag>
 <AM lemma="extremismus" src="orig">NNIS3-----A----</AM>
-<AM lemma="extremismus_,s_^(^DD**extremizmus)" src="manual" selected="1">NNIS3-----A----</AM>
+<AM lemma="extremismus_,s_^(^DD**extrémizmus)" src="manual" selected="1">NNIS3-----A----</AM>
 </tag>
 </m>
 </s>
@@ -125,7 +125,7 @@
 <LM>w#w-ln95049-074-p2s1Bw6</LM>
 </w.rf>
 <form>extremistické</form>
-<tag lemma="extremistický" src="orig" selected="1">AAFP4----1A----</tag>
+<tag lemma="extremistický_,s_^(^DD**extrémistický)" src="orig" selected="1">AAFP4----1A----</tag>
 </m>
 <m id="m-ln95049-074-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -535,7 +535,7 @@
 <LM>w#w-ln95049-074-p2s2w32</LM>
 </w.rf>
 <form>členů</form>
-<tag lemma="člen" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln95049-074-p2s2w33">
 <src.rf>manual</src.rf>
@@ -668,7 +668,7 @@
 <LM>w#w-ln95049-074-p2s3w15</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-ln95049-074-p2s3w16">
 <src.rf>manual</src.rf>

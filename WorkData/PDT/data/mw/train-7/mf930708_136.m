@@ -836,7 +836,7 @@
 </w.rf>
 <form>Woodbridge</form>
 <tag>
-<AM lemma="Woodbridge-2_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Woodbridge-1_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Woodbridge_;G" src="auto">NNFP1-----A----</AM>
 <AM lemma="Woodbridge_;G" src="auto">NNFP4-----A----</AM>
 <AM lemma="Woodbridge_;G" src="auto">NNFP5-----A----</AM>
@@ -2129,7 +2129,7 @@
 <LM>w#w-mf930708-136-p4s9w1</LM>
 </w.rf>
 <form>Novotná</form>
-<tag lemma="Novotná_;Y_^(*1ý)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Novotná_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930708-136-p4s9w2">
 <src.rf>manual</src.rf>
@@ -2467,7 +2467,7 @@
 <LM>w#w-mf930708-136-p4s17w1</LM>
 </w.rf>
 <form>Novotná</form>
-<tag lemma="Novotná_;Y_^(*1ý)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Novotná_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930708-136-p4s17w2">
 <src.rf>manual</src.rf>

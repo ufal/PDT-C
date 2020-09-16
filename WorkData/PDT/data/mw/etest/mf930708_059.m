@@ -19,7 +19,7 @@
 <LM>w#w-mf930708-059-p1s1w1</LM>
 </w.rf>
 <form>Manažer</form>
-<tag lemma="manažer" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="manažer-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-059-p1s1w2">
 <src.rf>manual</src.rf>

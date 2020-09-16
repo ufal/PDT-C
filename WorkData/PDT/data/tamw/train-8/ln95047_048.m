@@ -52,7 +52,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>umění</form>
-<tag lemma="umění_^(mít_schopnost_něco_dělat)_(*2t)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="umění_^(*2t)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-ln95047-048-p1s1w6">
 <src.rf>manual</src.rf>
@@ -277,7 +277,7 @@
 <LM>w#w-ln95047-048-p2s1w21</LM>
 </w.rf>
 <form>umění</form>
-<tag lemma="umění_^(mít_schopnost_něco_dělat)_(*2t)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="umění_^(*2t)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-ln95047-048-p2s1w22">
 <src.rf>manual</src.rf>
@@ -359,7 +359,7 @@
 <LM>w#w-ln95047-048-p2s2w9</LM>
 </w.rf>
 <form>představení</form>
-<tag lemma="představení-2_^(divadelní,_filmové_apod.)" src="orig" selected="1">NNNP4-----A----</tag>
+<tag lemma="představení-1_^(*5it-1)" src="orig" selected="1">NNNP4-----A----</tag>
 </m>
 <m id="m-ln95047-048-p2s2w10">
 <src.rf>manual</src.rf>
@@ -1436,7 +1436,7 @@
 <LM>w#w-ln95047-048-p3s4w17</LM>
 </w.rf>
 <form>Davidovo</form>
-<tag lemma="Davidův_;Y_^(*2)" src="orig" selected="1">AUNS1M---------</tag>
+<tag lemma="Davidův-1_;Y_^(*4-1)" src="orig" selected="1">AUNS1M---------</tag>
 </m>
 <m id="m-ln95047-048-p3s4w18">
 <src.rf>manual</src.rf>
@@ -1476,7 +1476,7 @@
 <LM>w#w-ln95047-048-p3s4w22</LM>
 </w.rf>
 <form>umění</form>
-<tag lemma="umění_^(mít_schopnost_něco_dělat)_(*2t)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="umění_^(*2t)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln95047-048-p3s4w23">
 <src.rf>manual</src.rf>
@@ -1540,7 +1540,7 @@
 <LM>w#w-ln95047-048-p3s4w30</LM>
 </w.rf>
 <form>umění</form>
-<tag lemma="umění_^(mít_schopnost_něco_dělat)_(*2t)" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="umění_^(*2t)" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln95047-048-p3s4w31">
 <src.rf>manual</src.rf>

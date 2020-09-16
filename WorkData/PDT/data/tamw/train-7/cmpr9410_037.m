@@ -131,7 +131,7 @@
 <LM>w#w-cmpr9410-037-p4s2Aw1</LM>
 </w.rf>
 <form>DĚTI</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-cmpr9410-037-p4s2Aw2">
 <src.rf>manual</src.rf>
@@ -688,7 +688,7 @@
 <LM>w#w-cmpr9410-037-p4s5Bw6</LM>
 </w.rf>
 <form>Zuzanky</form>
-<tag lemma="Zuzanka_;Y_,e" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Zuzanka_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9410-037-p4s5C">

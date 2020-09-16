@@ -99,7 +99,7 @@
 <LM>w#w-lnd92259-065-p1s1w11</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFP1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFP1----------</tag>
 </m>
 <m id="m-lnd92259-065-p1s1w12">
 <src.rf>manual</src.rf>
@@ -378,7 +378,7 @@
 <LM>w#w-lnd92259-065-p1s3w2</LM>
 </w.rf>
 <form>rada</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92259-065-p1s3w3">
 <src.rf>manual</src.rf>
@@ -450,7 +450,7 @@
 <LM>w#w-lnd92259-065-p1s3w11</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-lnd92259-065-p1s3w12">
 <src.rf>manual</src.rf>
@@ -1615,7 +1615,7 @@
 <LM>w#w-lnd92259-065-p5s1w3</LM>
 </w.rf>
 <form>extremisté</form>
-<tag lemma="extremista" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="extremista_,s_^(^DD**extrémista)" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd92259-065-p5s1w4">
 <src.rf>manual</src.rf>
@@ -1690,7 +1690,7 @@
 <LM>w#w-lnd92259-065-p5s1w12</LM>
 </w.rf>
 <form>cestě</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd92259-065-p5s1w13">
 <src.rf>manual</src.rf>
@@ -2129,7 +2129,7 @@
 <LM>w#w-lnd92259-065-p6s1w14</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-lnd92259-065-p6s1w15">
 <src.rf>manual</src.rf>
@@ -2163,7 +2163,7 @@
 <LM>w#w-lnd92259-065-p6s2w1</LM>
 </w.rf>
 <form>Mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-065-p6s2w2">
 <src.rf>manual</src.rf>
@@ -2698,7 +2698,7 @@
 <LM>w#w-lnd92259-065-p7s2w8</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-lnd92259-065-p7s2w9">
 <src.rf>manual</src.rf>
@@ -2880,7 +2880,7 @@
 <form>UNICEF</form>
 <tag>
 <AM lemma="UNICEF_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="UNICEF-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="UNICEF-2_;m_^(United_Nations_Children_s_Fund)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-065-p7s4w10">
@@ -3091,7 +3091,7 @@
 <LM>w#w-lnd92259-065-p8s1w15</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-lnd92259-065-p8s1w16">
 <src.rf>manual</src.rf>
@@ -3211,7 +3211,7 @@
 <LM>w#w-lnd92259-065-p8s1w30</LM>
 </w.rf>
 <form>viru</form>
-<tag lemma="vir" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="vir-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92259-065-p8s1w31">
 <src.rf>manual</src.rf>
@@ -3248,7 +3248,7 @@
 <form>AIDS</form>
 <tag>
 <AM lemma="AIDS_:B_;U_,x_^(Syndrom_získaného_selhání_imunity)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="AIDS-2_;U_^(Syndrom_získaného_selhání_imunity)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="AIDS_;U_^(Syndrom_získaného_selhání_imunity)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-065-p8s1w35">

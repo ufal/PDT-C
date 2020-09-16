@@ -98,7 +98,7 @@
 <LM>w#w-ln94209-80-p2s1Bw6</LM>
 </w.rf>
 <form>Karlově</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUNS6M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUNS6M---------</tag>
 </m>
 <m id="m-ln94209-80-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -331,7 +331,7 @@
 <LM>w#w-ln94209-80-p2s2w13</LM>
 </w.rf>
 <form>prostředek</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94209-80-p2s2w14">
 <src.rf>manual</src.rf>

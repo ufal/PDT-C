@@ -262,7 +262,7 @@
 <LM>w#w-lnd92258-057-p3s2w13</LM>
 </w.rf>
 <form>José</form>
-<tag lemma="José_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="José-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-057-p3s2w14">
 <src.rf>manual</src.rf>
@@ -289,7 +289,7 @@
 <LM>w#w-lnd92258-057-p3s2w16</LM>
 </w.rf>
 <form>Santos</form>
-<tag lemma="Santos_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Santos-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-057-p3s2w17">
 <src.rf>manual</src.rf>
@@ -1268,7 +1268,7 @@
 <LM>w#w-lnd92258-057-p4s7w3</LM>
 </w.rf>
 <form>členové</form>
-<tag lemma="člen" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd92258-057-p4s7w4">
 <src.rf>manual</src.rf>
@@ -1396,7 +1396,7 @@
 <LM>w#w-lnd92258-057-p4s7w18</LM>
 </w.rf>
 <form>Abel</form>
-<tag lemma="Ábel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Abel_;Y_,s_^(^DD**Ábel)" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-057-p4s7w19">
 <src.rf>manual</src.rf>
@@ -1478,7 +1478,7 @@
 <LM>w#w-lnd92258-057-p5s1w2</LM>
 </w.rf>
 <form>José</form>
-<tag lemma="José_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="José-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-057-p5s1w3">
 <src.rf>manual</src.rf>
@@ -1505,7 +1505,7 @@
 <LM>w#w-lnd92258-057-p5s1w5</LM>
 </w.rf>
 <form>Santos</form>
-<tag lemma="Santos_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Santos-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-057-p5s1w6">
 <src.rf>manual</src.rf>
@@ -1731,7 +1731,7 @@
 <LM>w#w-lnd92258-057-p5s2w2</LM>
 </w.rf>
 <form>mluvčího</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92258-057-p5s2w3">
 <src.rf>manual</src.rf>

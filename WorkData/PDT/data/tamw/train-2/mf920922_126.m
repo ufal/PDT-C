@@ -291,7 +291,7 @@
 <LM>w#w-mf920922-126-p2s3w3</LM>
 </w.rf>
 <form>zveřejněném</form>
-<tag lemma="zveřejněný_^(*3it)" src="orig" selected="1">AAIS6----1A----</tag>
+<tag lemma="zveřejněný_^(*2t)_(*3it)" src="orig" selected="1">AAIS6----1A----</tag>
 </m>
 <m id="m-mf920922-126-p2s3w4">
 <src.rf>manual</src.rf>
@@ -564,7 +564,7 @@
 <LM>w#w-mf920922-126-p3s1w8</LM>
 </w.rf>
 <form>David</form>
-<tag lemma="David_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="David-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-126-p3s1w9">
 <src.rf>manual</src.rf>
@@ -1066,7 +1066,7 @@
 <LM>w#w-mf920922-126-p4s2w7</LM>
 </w.rf>
 <form>rady</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920922-126-p4s2w8">
 <src.rf>manual</src.rf>
@@ -1334,7 +1334,7 @@
 <LM>w#w-mf920922-126-p4s4w10</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS2---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS2---------1</tag>
 </m>
 <m id="m-mf920922-126-p4s4w11">
 <src.rf>manual</src.rf>

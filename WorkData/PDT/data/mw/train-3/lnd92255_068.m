@@ -4254,7 +4254,7 @@
 <LM>w#w-lnd92255-068-p51s1w1</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrFS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS1----------</tag>
 </m>
 <m id="m-lnd92255-068-p51s1w2">
 <src.rf>manual</src.rf>
@@ -4437,7 +4437,7 @@
 <LM>w#w-lnd92255-068-p53s1w1</LM>
 </w.rf>
 <form>Raiffeisen</form>
-<tag lemma="Raiffeisen_;m" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Raiffeisen-1_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92255-068-p53s1w2">
 <src.rf>manual</src.rf>

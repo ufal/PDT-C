@@ -29,7 +29,7 @@
 <LM>w#w-ln94211-107-p2s1w1</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrFS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS1----------</tag>
 </m>
 <m id="m-ln94211-107-p2s1w2">
 <src.rf>manual</src.rf>
@@ -61,7 +61,7 @@
 <LM>w#w-ln94211-107-p2s1w5</LM>
 </w.rf>
 <form>Koudelky</form>
-<tag lemma="Koudelka_;Y" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Koudelka-2_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94211-107-p2s1w6">
 <src.rf>manual</src.rf>
@@ -557,7 +557,7 @@
 </w.rf>
 <form>Fontana</form>
 <tag>
-<AM lemma="Fontana_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Fontana-2_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Fontana_;G" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -641,7 +641,7 @@
 <LM>w#w-ln94211-107-p3s2w9</LM>
 </w.rf>
 <form>Nobelovy</form>
-<tag lemma="Nobelův_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Nobelův_;Y_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-ln94211-107-p3s2w10">
 <src.rf>manual</src.rf>

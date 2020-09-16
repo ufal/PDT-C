@@ -288,7 +288,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf930709-057-p2s2w6">
@@ -439,7 +439,7 @@
 <LM>w#w-mf930709-057-p2s2w21</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-mf930709-057-p2s2w22">
 <src.rf>manual</src.rf>
@@ -865,7 +865,7 @@
 <LM>w#w-mf930709-057-p2s4w12</LM>
 </w.rf>
 <form>představení</form>
-<tag lemma="představení-2_^(divadelní,_filmové_apod.)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="představení-1_^(*5it-1)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-mf930709-057-p2s4w13">
 <src.rf>manual</src.rf>

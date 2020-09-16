@@ -37,7 +37,7 @@
 <LM>w#w-ln94202-114-p16s16w1</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrNS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS1----------</tag>
 </m>
 <m id="m-ln94202-114-p16s16w2">
 <src.rf>manual</src.rf>

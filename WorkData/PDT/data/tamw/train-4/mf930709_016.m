@@ -154,7 +154,7 @@
 <LM>w#w-mf930709-016-p2s1Bw6</LM>
 </w.rf>
 <form>nebrání</form>
-<tag lemma="bránit_^(klást_překážky)" src="auto" selected="1">VB-S---3P-NAI--</tag>
+<tag lemma="bránit" src="auto" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-mf930709-016-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -683,7 +683,7 @@
 <LM>w#w-mf930709-016-p3s2w17</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-mf930709-016-p3s2w18">
 <src.rf>manual</src.rf>
@@ -1169,7 +1169,7 @@
 <LM>w#w-mf930709-016-p4s2w21</LM>
 </w.rf>
 <form>Petrova</form>
-<tag lemma="Petrov_;G" src="auto" selected="1">NNIS2-----A----</tag>
+<tag lemma="Petrov-2_;G_;m" src="auto" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930709-016-p4s2w22">
 <src.rf>manual</src.rf>
@@ -1281,7 +1281,7 @@
 <LM>w#w-mf930709-016-p4s2w35</LM>
 </w.rf>
 <form>dlouhá</form>
-<tag lemma="dlouhý-1_^(fyz._délka;_př._dlouhá_tyč)" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-mf930709-016-p4s2w36">
 <src.rf>manual</src.rf>

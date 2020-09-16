@@ -144,7 +144,7 @@
 <LM>w#w-ln95047-117-p2s1Aw11</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-117-p2s1Aw12">
 <src.rf>manual</src.rf>
@@ -973,7 +973,7 @@
 <LM>w#w-ln95047-117-p3s3w19</LM>
 </w.rf>
 <form>Alojze</form>
-<tag lemma="Alojz_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Alojz_;Y_,s_^(^DD**Alois)" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95047-117-p3s3w20">
 <src.rf>manual</src.rf>
@@ -1123,7 +1123,7 @@
 <LM>w#w-ln95047-117-p4s1w1</LM>
 </w.rf>
 <form>Mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-117-p4s1w2">
 <src.rf>manual</src.rf>
@@ -1648,7 +1648,7 @@
 <AM lemma="starost-1" src="auto">NNFS2-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFS3-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFS5-----A----</AM>
-<AM lemma="starost-1" src="auto" recommended="1" selected="1">NNFS6-----A----</AM>
+<AM lemma="starost-2_^(*5ý-2)" src="auto" recommended="1" selected="1">NNFS6-----A----</AM>
 <AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto">NNFP1-----A----</AM>
 <AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto">NNFP4-----A----</AM>
 <AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto">NNFP5-----A----</AM>
@@ -1903,7 +1903,7 @@
 <LM>w#w-ln95047-117-p5s3w7</LM>
 </w.rf>
 <form>členy</form>
-<tag lemma="člen" src="orig" selected="1">NNMP7-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-ln95047-117-p5s3w8">
 <src.rf>manual</src.rf>
@@ -2327,7 +2327,7 @@
 <LM>w#w-ln95047-117-p5s5w12</LM>
 </w.rf>
 <form>lety</form>
-<tag lemma="rok" src="orig" selected="1">NNNP7-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP7-----A----</tag>
 </m>
 <m id="m-ln95047-117-p5s5w13">
 <src.rf>manual</src.rf>
@@ -2517,7 +2517,7 @@
 <LM>w#w-ln95047-117-p5s6w11</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln95047-117-p5s6w12">
 <src.rf>manual</src.rf>

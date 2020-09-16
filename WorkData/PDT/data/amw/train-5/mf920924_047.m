@@ -93,7 +93,7 @@
 <LM>w#w-mf920924-047-p2s1w6</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf920924-047-p2s1w7">
 <src.rf>manual</src.rf>
@@ -392,7 +392,7 @@
 <LM>w#w-mf920924-047-p2s2w5</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-mf920924-047-p2s2w6">
 <src.rf>manual</src.rf>
@@ -538,7 +538,7 @@
 <form>grindcore</form>
 <tag>
 <AM lemma="grindcore_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="grindcore_,l_^(hudební_styl)" src="auto" recommended="1" selected="1">NNIXX-----A----</AM>
+<AM lemma="grindcore_^(hudební_styl)" src="auto" recommended="1" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-047-p2s2w24">
@@ -1256,7 +1256,7 @@
 <form>grindcore</form>
 <tag>
 <AM lemma="grindcore_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="grindcore_,l_^(hudební_styl)" src="auto" recommended="1" selected="1">NNIXX-----A----</AM>
+<AM lemma="grindcore_^(hudební_styl)" src="auto" recommended="1" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-047-p2s8w6">
@@ -1966,7 +1966,7 @@
 <LM>w#w-mf920924-047-p2s14w5</LM>
 </w.rf>
 <form>nejdelším</form>
-<tag lemma="dlouhý-1_^(fyz._délka;_př._dlouhá_tyč)" src="orig" selected="1">AANS6----3A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AANS6----3A----</tag>
 </m>
 <m id="m-mf920924-047-p2s14w6">
 <src.rf>manual</src.rf>

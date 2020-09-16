@@ -494,7 +494,7 @@
 </w.rf>
 <form>jejího</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9MS4FS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9MS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSZS2FS3-------</AM>
 </tag>
 </m>
@@ -1100,7 +1100,7 @@
 </w.rf>
 <form>pana</form>
 <tag>
-<AM lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="pan" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="pan_^(oslovení)" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>
@@ -1280,7 +1280,7 @@
 <AM lemma="Columbie_;G_,s_^(^DD**Kolumbie)" src="auto">NNFS1-----A----</AM>
 <AM lemma="Columbie_;G_,s_^(^DD**Kolumbie)" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="Columbie_;G_,s_^(^DD**Kolumbie)" src="auto">NNFS5-----A----</AM>
-<AM lemma="Columbia_;m" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="Columbie_;G_;m_,s_^(^DD**Kolumbie)" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0179-001-p1s4W3-Ta">
@@ -2565,7 +2565,7 @@
 </w.rf>
 <form>pana</form>
 <tag>
-<AM lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="pan" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="pan_^(oslovení)" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>
@@ -2701,7 +2701,7 @@
 </w.rf>
 <form>daly</form>
 <tag>
-<AM lemma="dát" src="auto" recommended="1">VpTP----R-AAP--</AM>
+<AM lemma="dát-1" src="auto" recommended="1">VpTP----R-AAP--</AM>
 <AM lemma="dát-2_^(dá_se_očekávat)" src="auto">VpTP----R-AAI--</AM>
 </tag>
 </m>
@@ -3042,7 +3042,7 @@
 <AM lemma="Columbie_;G_,s_^(^DD**Kolumbie)" src="auto">NNFS1-----A----</AM>
 <AM lemma="Columbie_;G_,s_^(^DD**Kolumbie)" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="Columbie_;G_,s_^(^DD**Kolumbie)" src="auto">NNFS5-----A----</AM>
-<AM lemma="Columbia_;m" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="Columbie_;G_;m_,s_^(^DD**Kolumbie)" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0179-001-p1s8W12-Ta">
@@ -3815,7 +3815,7 @@
 </w.rf>
 <form>dalo</form>
 <tag>
-<AM lemma="dát" src="auto" recommended="1">VpNS----R-AAP--</AM>
+<AM lemma="dát-1" src="auto" recommended="1">VpNS----R-AAP--</AM>
 <AM lemma="dát-2_^(dá_se_očekávat)" src="auto">VpNS----R-AAI--</AM>
 </tag>
 </m>
@@ -3851,7 +3851,7 @@
 <AM lemma="Columbie_;G_,s_^(^DD**Kolumbie)" src="auto">NNFS1-----A----</AM>
 <AM lemma="Columbie_;G_,s_^(^DD**Kolumbie)" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="Columbie_;G_,s_^(^DD**Kolumbie)" src="auto">NNFS5-----A----</AM>
-<AM lemma="Columbia_;m" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="Columbie_;G_;m_,s_^(^DD**Kolumbie)" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0179-001-p1s12W10-Ta">
@@ -4030,7 +4030,7 @@
 <AM lemma="Columbie_;G_,s_^(^DD**Kolumbie)" src="auto">NNFS1-----A----</AM>
 <AM lemma="Columbie_;G_,s_^(^DD**Kolumbie)" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="Columbie_;G_,s_^(^DD**Kolumbie)" src="auto">NNFS5-----A----</AM>
-<AM lemma="Columbia_;m" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="Columbie_;G_;m_,s_^(^DD**Kolumbie)" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0179-001-p1s12W27-Ta">
@@ -4177,7 +4177,7 @@
 <AM lemma="Columbie_;G_,s_^(^DD**Kolumbie)" src="auto">NNFS1-----A----</AM>
 <AM lemma="Columbie_;G_,s_^(^DD**Kolumbie)" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="Columbie_;G_,s_^(^DD**Kolumbie)" src="auto">NNFS5-----A----</AM>
-<AM lemma="Columbia_;m" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="Columbie_;G_;m_,s_^(^DD**Kolumbie)" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0179-001-p1s13W8-Ta">
@@ -4345,7 +4345,7 @@
 <AM lemma="Columbie_;G_,s_^(^DD**Kolumbie)" src="auto">NNFS1-----A----</AM>
 <AM lemma="Columbie_;G_,s_^(^DD**Kolumbie)" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="Columbie_;G_,s_^(^DD**Kolumbie)" src="auto">NNFS5-----A----</AM>
-<AM lemma="Columbia_;m" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="Columbie_;G_;m_,s_^(^DD**Kolumbie)" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0179-001-p1s13W23-Ta">
@@ -4542,7 +4542,7 @@
 </w.rf>
 <form>jakkoliv</form>
 <tag>
-<AM lemma="jakkoliv-1" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="jakkoliv-1_,s_^(^DD**jakkoli-1)" src="auto" recommended="1">Db-------------</AM>
 <AM lemma="jakkoliv-2" src="auto">J,-------------</AM>
 </tag>
 </m>
@@ -5247,7 +5247,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0179-001-p1s17W18-Ta">
@@ -5672,7 +5672,7 @@
 <form>své</form>
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FP1---------1</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8FP4---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8FP4---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS2---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS3---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS6---------1</AM>
@@ -6223,7 +6223,7 @@
 <form>svých</form>
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8XP2----------</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8XP6----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8XP6----------</AM>
 </tag>
 </m>
 <m id="m-wsj0179-001-p1s20W14-Ta">
@@ -6292,7 +6292,7 @@
 </w.rf>
 <form>jejích</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XP2FS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9XP2FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP6FS3-------</AM>
 </tag>
 </m>
@@ -6854,7 +6854,7 @@
 <AM lemma="Columbie_;G_,s_^(^DD**Kolumbie)" src="auto">NNFS1-----A----</AM>
 <AM lemma="Columbie_;G_,s_^(^DD**Kolumbie)" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="Columbie_;G_,s_^(^DD**Kolumbie)" src="auto">NNFS5-----A----</AM>
-<AM lemma="Columbia_;m" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="Columbie_;G_;m_,s_^(^DD**Kolumbie)" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0179-001-p1s22W27-Ta">
@@ -6885,7 +6885,7 @@
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FP1---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FP4---------1</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8FS2---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8FS2---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS3---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS6---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8IP1---------1</AM>
@@ -7876,7 +7876,7 @@
 <AM lemma="Columbie_;G_,s_^(^DD**Kolumbie)" src="auto">NNFS1-----A----</AM>
 <AM lemma="Columbie_;G_,s_^(^DD**Kolumbie)" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="Columbie_;G_,s_^(^DD**Kolumbie)" src="auto">NNFS5-----A----</AM>
-<AM lemma="Columbia_;m" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="Columbie_;G_;m_,s_^(^DD**Kolumbie)" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0179-001-p1s26W5-Ta">
@@ -8197,7 +8197,7 @@
 <AM lemma="Columbie_;G_,s_^(^DD**Kolumbie)" src="auto">NNFS1-----A----</AM>
 <AM lemma="Columbie_;G_,s_^(^DD**Kolumbie)" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="Columbie_;G_,s_^(^DD**Kolumbie)" src="auto">NNFS5-----A----</AM>
-<AM lemma="Columbia_;m" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="Columbie_;G_;m_,s_^(^DD**Kolumbie)" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0179-001-p1s26W32-Ta">
@@ -8287,7 +8287,7 @@
 <AM lemma="Columbie_;G_,s_^(^DD**Kolumbie)" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Columbie_;G_,s_^(^DD**Kolumbie)" src="auto">NNFS2-----A----</AM>
 <AM lemma="Columbie_;G_,s_^(^DD**Kolumbie)" src="auto">NNFS5-----A----</AM>
-<AM lemma="Columbia_;m" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="Columbie_;G_;m_,s_^(^DD**Kolumbie)" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0179-001-p1s27W8-Ta">
@@ -8777,7 +8777,7 @@
 </w.rf>
 <form>dala</form>
 <tag>
-<AM lemma="dát" src="auto" recommended="1">VpQW----R-AAP--</AM>
+<AM lemma="dát-1" src="auto" recommended="1">VpQW----R-AAP--</AM>
 <AM lemma="dát-2_^(dá_se_očekávat)" src="auto">VpQW----R-AAI--</AM>
 </tag>
 </m>
@@ -8836,7 +8836,7 @@
 <form>jejího</form>
 <tag>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSMS4FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9ZS2FS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9ZS2FS3-------</AM>
 </tag>
 </m>
 <m id="m-wsj0179-001-p1s28W19-Ta">
@@ -9178,7 +9178,7 @@
 </w.rf>
 <form>pana</form>
 <tag>
-<AM lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="pan" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="pan_^(oslovení)" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>
@@ -9397,7 +9397,7 @@
 <AM lemma="Columbie_;G_,s_^(^DD**Kolumbie)" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="Columbie_;G_,s_^(^DD**Kolumbie)" src="auto">NNFS5-----A----</AM>
 <AM lemma="Columbia_;m" src="manual">NNFS2-----A----</AM>
-<AM lemma="Columbie_;G_,s_^(^DD**Kolumbie)" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="Columbie_;G_;m_,s_^(^DD**Kolumbie)" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0179-001-p1s30W10-Ta">
@@ -9924,7 +9924,7 @@
 </w.rf>
 <form>pana</form>
 <tag>
-<AM lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="pan" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="pan_^(oslovení)" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>
@@ -10572,7 +10572,7 @@
 <AM lemma="Columbie_;G_,s_^(^DD**Kolumbie)" src="auto">NNFS1-----A----</AM>
 <AM lemma="Columbie_;G_,s_^(^DD**Kolumbie)" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="Columbie_;G_,s_^(^DD**Kolumbie)" src="auto">NNFS5-----A----</AM>
-<AM lemma="Columbia_;m" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="Columbie_;G_;m_,s_^(^DD**Kolumbie)" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0179-001-p1s36W8-Ta">
@@ -10950,7 +10950,7 @@
 </w.rf>
 <form>pana</form>
 <tag>
-<AM lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="pan" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="pan_^(oslovení)" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>

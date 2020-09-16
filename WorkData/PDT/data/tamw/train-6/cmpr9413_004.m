@@ -59,7 +59,7 @@
 <LM>w#w-cmpr9413-004-p2s1w6</LM>
 </w.rf>
 <form>my</form>
-<tag lemma="já" src="orig" selected="1">PP-P1--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P1--1-------</tag>
 </m>
 </s>
 <s id="m-cmpr9413-004-p3s1">
@@ -84,7 +84,7 @@
 <LM>w#w-cmpr9413-004-p4s1w1</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrNS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS4----------</tag>
 </m>
 <m id="m-cmpr9413-004-p4s1w2">
 <src.rf>manual</src.rf>
@@ -544,7 +544,7 @@
 <LM>w#w-cmpr9413-004-p5s2w12</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-cmpr9413-004-p5s2w13">
 <src.rf>manual</src.rf>
@@ -1376,7 +1376,7 @@
 <LM>w#w-cmpr9413-004-p7s2w7</LM>
 </w.rf>
 <form>zelené</form>
-<tag lemma="zelený" src="orig" selected="1">AAFS6----1A----</tag>
+<tag lemma="zelený_;o" src="orig" selected="1">AAFS6----1A----</tag>
 </m>
 <m id="m-cmpr9413-004-p7s2w8">
 <src.rf>manual</src.rf>
@@ -1967,7 +1967,7 @@
 <LM>w#w-cmpr9413-004-p8s1w21</LM>
 </w.rf>
 <form>Québec</form>
-<tag lemma="Québec_;G" src="orig" selected="1">NNIS1-----A---1</tag>
+<tag lemma="Québec_;G_,s_^(^DD**Quebec)" src="orig" selected="1">NNIS1-----A---1</tag>
 </m>
 <m id="m-cmpr9413-004-p8s1w22">
 <src.rf>manual</src.rf>

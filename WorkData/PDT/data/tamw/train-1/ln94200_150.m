@@ -300,7 +300,7 @@
 <LM>w#w-ln94200-150-p2s1Bw22</LM>
 </w.rf>
 <form>výborem</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-ln94200-150-p2s1Bw23">
 <src.rf>manual</src.rf>
@@ -1029,7 +1029,7 @@
 <LM>w#w-ln94200-150-p3s3w12</LM>
 </w.rf>
 <form>naší</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS3-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS3-P1-------</tag>
 </m>
 <m id="m-ln94200-150-p3s3w13">
 <src.rf>manual</src.rf>
@@ -1053,7 +1053,7 @@
 <LM>w#w-ln94200-150-p3s3w15</LM>
 </w.rf>
 <form>našim</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP3-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP3-P1-------</tag>
 </m>
 <m id="m-ln94200-150-p3s3w16">
 <src.rf>manual</src.rf>
@@ -1394,7 +1394,7 @@
 <LM>w#w-ln94200-150-p3s4w18</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln94200-150-p3s4w19">
 <src.rf>manual</src.rf>

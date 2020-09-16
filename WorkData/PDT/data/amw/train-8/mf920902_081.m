@@ -675,7 +675,7 @@
 <LM>w#w-mf920902-081-p5s1w12</LM>
 </w.rf>
 <form>vodiči</form>
-<tag lemma="vodič" src="orig" selected="1">NNIP7-----A----</tag>
+<tag lemma="vodič-2" src="orig" selected="1">NNIP7-----A----</tag>
 </m>
 <m id="m-mf920902-081-p5s1w13">
 <src.rf>manual</src.rf>
@@ -699,7 +699,7 @@
 <LM>w#w-mf920902-081-p5s1w15</LM>
 </w.rf>
 <form>druhý</form>
-<tag lemma="druhý" src="orig" selected="1">CrMS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrMS1----------</tag>
 </m>
 <m id="m-mf920902-081-p5s1w16">
 <src.rf>manual</src.rf>

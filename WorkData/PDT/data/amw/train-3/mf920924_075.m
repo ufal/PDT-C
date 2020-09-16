@@ -21,7 +21,7 @@
 <form>starosti</form>
 <tag>
 <AM lemma="starost" src="orig">NNFP1-----A----</AM>
-<AM lemma="starost-1" src="auto" recommended="1" selected="1">NNFP1-----A----</AM>
+<AM lemma="starost-2_^(*5ý-2)" src="auto" recommended="1" selected="1">NNFP1-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFP4-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFP5-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFS2-----A----</AM>
@@ -104,7 +104,7 @@
 <LM>w#w-mf920924-075-p2s1w7</LM>
 </w.rf>
 <form>Poruba</form>
-<tag lemma="Poruba_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Poruba-1_;G" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920924-075-p2s1w8">
 <src.rf>manual</src.rf>
@@ -156,7 +156,7 @@
 <form>starostí</form>
 <tag>
 <AM lemma="starost" src="orig">NNFP2-----A----</AM>
-<AM lemma="starost-1" src="auto" recommended="1" selected="1">NNFP2-----A----</AM>
+<AM lemma="starost-2_^(*5ý-2)" src="auto" recommended="1" selected="1">NNFP2-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFS7-----A----</AM>
 <AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto">NNFP2-----A----</AM>
 <AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto">NNFS7-----A----</AM>
@@ -168,7 +168,7 @@
 <LM>w#w-mf920924-075-p3s1w5</LM>
 </w.rf>
 <form>naší</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS2-P1-------</tag>
 </m>
 <m id="m-mf920924-075-p3s1w6">
 <src.rf>manual</src.rf>
@@ -365,7 +365,7 @@
 <LM>w#w-mf920924-075-p3s2w19</LM>
 </w.rf>
 <form>Poruba</form>
-<tag lemma="Poruba_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Poruba-1_;G" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920924-075-p3s2w20">
 <src.rf>manual</src.rf>
@@ -532,7 +532,7 @@
 <LM>w#w-mf920924-075-p3s4w13</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf920924-075-p3s4w14">
 <src.rf>manual</src.rf>

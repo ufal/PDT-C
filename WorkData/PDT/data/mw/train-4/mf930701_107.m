@@ -43,7 +43,7 @@
 <LM>w#w-mf930701-107-p1s1w4</LM>
 </w.rf>
 <form>Wimbledonu</form>
-<tag lemma="Wimbledon-2_^(tenis._turnaj)" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Wimbledon" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 </s>
 <s id="m-mf930701-107-p2s1">
@@ -138,7 +138,7 @@
 <LM>w#w-mf930701-107-p2s1w11</LM>
 </w.rf>
 <form>Gallupova</form>
-<tag lemma="Gallupův_;Y_^(*2a)" src="orig" selected="1">AUIS2M---------</tag>
+<tag lemma="Gallupův_;Y_^(*2-2)_(*2a)" src="orig" selected="1">AUIS2M---------</tag>
 </m>
 <m id="m-mf930701-107-p2s1w12">
 <src.rf>manual</src.rf>
@@ -345,7 +345,7 @@
 <LM>w#w-mf930701-107-p2s3w11</LM>
 </w.rf>
 <form>boxera</form>
-<tag lemma="boxer" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="boxer-1" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf930701-107-p2s3w12">
 <src.rf>manual</src.rf>
@@ -462,7 +462,7 @@
 <LM>w#w-mf930701-107-p2s4w5</LM>
 </w.rf>
 <form>David</form>
-<tag lemma="David_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="David-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-107-p2s4w6">
 <src.rf>manual</src.rf>
@@ -671,7 +671,7 @@
 <LM>w#w-mf930701-107-p2s5w10</LM>
 </w.rf>
 <form>Wimbledonu</form>
-<tag lemma="Wimbledon-2_^(tenis._turnaj)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Wimbledon" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930701-107-p2s5w11">
 <src.rf>manual</src.rf>

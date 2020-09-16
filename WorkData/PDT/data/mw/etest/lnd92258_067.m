@@ -307,7 +307,7 @@
 <LM>w#w-lnd92258-067-p2s4w4</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS4----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS4----------</tag>
 </m>
 <m id="m-lnd92258-067-p2s4w5">
 <src.rf>manual</src.rf>
@@ -530,7 +530,7 @@
 <LM>w#w-lnd92258-067-p2s6w2</LM>
 </w.rf>
 <form>celnice</form>
-<tag lemma="celnice-2_^(místo_výkonu_služby)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="celnice_^(*3ík-1)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92258-067-p2s6w3">
 <src.rf>manual</src.rf>

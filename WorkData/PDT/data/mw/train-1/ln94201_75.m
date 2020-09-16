@@ -356,7 +356,7 @@
 <LM>w#w-ln94201-75-p2s2w18</LM>
 </w.rf>
 <form>zastavenou</form>
-<tag lemma="zastavený-1_^([také_z._se];_uvést_do_klidu:_auto,...)_(*5it-1)" src="orig" selected="1">AAFS4----1A----</tag>
+<tag lemma="zastavený_^(*3it)" src="orig" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-ln94201-75-p2s2w19">
 <src.rf>manual</src.rf>

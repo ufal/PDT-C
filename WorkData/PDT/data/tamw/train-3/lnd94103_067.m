@@ -319,7 +319,7 @@
 <form>kurz</form>
 <tag>
 <AM lemma="kurs" src="auto">NNIS1-----A----</AM>
-<AM lemma="kurs_,s_^(^DD**kurz)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="kurz" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-067-p1s2w8">
@@ -403,7 +403,7 @@
 <LM>w#w-lnd94103-067-p1s2w17</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-lnd94103-067-p1s2w18">
 <src.rf>manual</src.rf>
@@ -596,7 +596,7 @@
 <form>dolaru</form>
 <tag>
 <AM lemma="dolar" src="orig">NNIS2-----A----</AM>
-<AM lemma="dolar_" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="dolar" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-067-p1s3w4">
@@ -892,7 +892,7 @@
 <form>FED</form>
 <tag>
 <AM lemma="Fed_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="FED-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Fed-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-067-p1s4w11">
@@ -1354,7 +1354,7 @@
 <LM>w#w-lnd94103-067-p1s6w12</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrNS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS4----------</tag>
 </m>
 <m id="m-lnd94103-067-p1s6w13">
 <src.rf>manual</src.rf>
@@ -1620,7 +1620,7 @@
 <form>FED</form>
 <tag>
 <AM lemma="Fed_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="FED-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Fed-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-067-p1s8w22">
@@ -2039,7 +2039,7 @@
 <LM>w#w-lnd94103-067-p1s10w22</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-lnd94103-067-p1s10w23">
 <src.rf>manual</src.rf>
@@ -2047,7 +2047,7 @@
 <LM>w#w-lnd94103-067-p1s10w23</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd94103-067-p1s10w24">
 <src.rf>manual</src.rf>
@@ -2535,7 +2535,7 @@
 <LM>w#w-lnd94103-067-p1s12w14</LM>
 </w.rf>
 <form>kurzu</form>
-<tag lemma="kurs" src="auto" selected="1">NNIS2-----A----</tag>
+<tag lemma="kurz" src="auto" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd94103-067-p1s12w15">
 <src.rf>manual</src.rf>
@@ -2988,7 +2988,7 @@
 <LM>w#w-lnd94103-067-p1s15w5</LM>
 </w.rf>
 <form>pozornost</form>
-<tag lemma="pozornost-1_^(všímavý,_milý,_soustředěný)_(*5ý-1)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="pozornost-1_^(*5ý-1)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94103-067-p1s15w6">
 <src.rf>manual</src.rf>

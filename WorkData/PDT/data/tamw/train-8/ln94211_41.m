@@ -183,7 +183,7 @@
 <LM>w#w-ln94211-41-p2s1Bw13</LM>
 </w.rf>
 <form>hnutím</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-ln94211-41-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -191,7 +191,7 @@
 <LM>w#w-ln94211-41-p2s1Bw14</LM>
 </w.rf>
 <form>Děti</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-ln94211-41-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -251,7 +251,7 @@
 <form>ČEZ</form>
 <tag>
 <AM lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ČEZ-1_;m_^(České_energetické_závody)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČEZ-2_;m_^(České_energetické_závody)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-41-p2s2w6">

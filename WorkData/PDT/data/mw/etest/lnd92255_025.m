@@ -30,7 +30,7 @@
 <LM>w#w-lnd92255-025-p1s1w2</LM>
 </w.rf>
 <form>manažerů</form>
-<tag lemma="manažer" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="manažer-1" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92255-025-p2s1">
@@ -417,7 +417,7 @@
 <LM>w#w-lnd92255-025-p2s3w12</LM>
 </w.rf>
 <form>manažerů</form>
-<tag lemma="manažer" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="manažer-1" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd92255-025-p2s3w13">
 <src.rf>manual</src.rf>

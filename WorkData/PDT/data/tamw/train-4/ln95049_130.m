@@ -133,7 +133,7 @@
 <LM>w#w-ln95049-130-p1s2w9</LM>
 </w.rf>
 <form>modelu</form>
-<tag lemma="model" src="orig" selected="1">NNIS3-----A----</tag>
+<tag lemma="model-1" src="orig" selected="1">NNIS3-----A----</tag>
 </m>
 <m id="m-ln95049-130-p1s2w10">
 <src.rf>manual</src.rf>

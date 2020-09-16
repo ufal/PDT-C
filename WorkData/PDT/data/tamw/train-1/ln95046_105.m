@@ -496,7 +496,7 @@
 <LM>w#w-ln95046-105-p2s3w4</LM>
 </w.rf>
 <form>naši</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSMP1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSMP1-P1-------</tag>
 </m>
 <m id="m-ln95046-105-p2s3w5">
 <src.rf>manual</src.rf>
@@ -602,7 +602,7 @@
 <LM>w#w-ln95046-105-p2s4w3</LM>
 </w.rf>
 <form>hnutí</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95046-105-p2s4w4">
 <src.rf>manual</src.rf>
@@ -618,7 +618,7 @@
 <LM>w#w-ln95046-105-p2s4w5</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-ln95046-105-p2s4w6">
 <src.rf>manual</src.rf>
@@ -674,7 +674,7 @@
 <LM>w#w-ln95046-105-p2s4w12</LM>
 </w.rf>
 <form>členů</form>
-<tag lemma="člen" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln95046-105-p2s4w13">
 <src.rf>manual</src.rf>
@@ -738,7 +738,7 @@
 <LM>w#w-ln95046-105-p2s4w20</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln95046-105-p2s4w21">
 <src.rf>manual</src.rf>

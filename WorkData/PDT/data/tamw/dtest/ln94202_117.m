@@ -43,7 +43,7 @@
 <LM>w#w-ln94202-117-p1s1w4</LM>
 </w.rf>
 <form>dlouhé</form>
-<tag lemma="dlouhý-1_^(fyz._délka;_př._dlouhá_tyč)" src="orig" selected="1">AAIP4----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAIP4----1A----</tag>
 </m>
 <m id="m-ln94202-117-p1s1w5">
 <src.rf>manual</src.rf>
@@ -464,7 +464,7 @@
 <LM>w#w-ln94202-117-p2s3w1</LM>
 </w.rf>
 <form>Dlouhým</form>
-<tag lemma="dlouhý-1_^(fyz._délka;_př._dlouhá_tyč)" src="orig" selected="1">AAIP3----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAIP3----1A----</tag>
 </m>
 <m id="m-ln94202-117-p2s3w2">
 <src.rf>manual</src.rf>
@@ -870,7 +870,7 @@
 <LM>w#w-ln94202-117-p2s5w9</LM>
 </w.rf>
 <form>vypadá</form>
-<tag lemma="vypadat" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="vypadat-1_^(ty_vypadáš)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94202-117-p2s5w10">
 <src.rf>manual</src.rf>

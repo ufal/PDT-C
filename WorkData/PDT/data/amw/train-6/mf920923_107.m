@@ -45,7 +45,7 @@
 <form>jen</form>
 <tag>
 <AM lemma="jen-1" src="auto">TT-------------</AM>
-<AM lemma="jen-4_(pouze)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf920923-107-p1s1Aw5">
@@ -356,7 +356,7 @@
 <LM>w#w-mf920923-107-p2s3w1</LM>
 </w.rf>
 <form>Právo</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-mf920923-107-p2s3w2">
 <src.rf>manual</src.rf>
@@ -705,7 +705,7 @@
 <LM>w#w-mf920923-107-p3s1w18</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-mf920923-107-p3s1w19">
 <src.rf>manual</src.rf>
@@ -1970,7 +1970,7 @@
 <LM>w#w-mf920923-107-p6s1w21</LM>
 </w.rf>
 <form>cestě</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf920923-107-p6s1w22">
 <src.rf>manual</src.rf>
@@ -2018,7 +2018,7 @@
 <LM>w#w-mf920923-107-p6s1w27</LM>
 </w.rf>
 <form>dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920923-107-p6s1w28">
 <src.rf>manual</src.rf>
@@ -2106,7 +2106,7 @@
 <LM>w#w-mf920923-107-p6s1w38</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-mf920923-107-p6s1w39">
 <src.rf>manual</src.rf>

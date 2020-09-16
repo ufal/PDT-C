@@ -103,7 +103,7 @@
 <LM>w#w-lnd91303-015-p2s1Cw1</LM>
 </w.rf>
 <form>Německo</form>
-<tag lemma="německý" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="německo" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-lnd91303-015-p2s1Cw2">
 <src.rf>manual</src.rf>
@@ -644,7 +644,7 @@
 <LM>w#w-lnd91303-015-p2s3w6</LM>
 </w.rf>
 <form>právo</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-lnd91303-015-p2s3w7">
 <src.rf>manual</src.rf>
@@ -844,7 +844,7 @@
 <LM>w#w-lnd91303-015-p2s3w31</LM>
 </w.rf>
 <form>vydání</form>
-<tag lemma="vydání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="vydání_^(*3at)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-lnd91303-015-p2s3w32">
 <src.rf>manual</src.rf>

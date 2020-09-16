@@ -225,7 +225,7 @@
 <LM>w#w-mf930713-009-p2s1Aw20</LM>
 </w.rf>
 <form>jejích</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP2FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XP2FS3-------</tag>
 </m>
 <m id="m-mf930713-009-p2s1Aw21">
 <src.rf>manual</src.rf>
@@ -233,7 +233,7 @@
 <LM>w#w-mf930713-009-p2s1Aw21</LM>
 </w.rf>
 <form>členů</form>
-<tag lemma="člen" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf930713-009-p2s1Aw22">
 <src.rf>manual</src.rf>
@@ -599,7 +599,7 @@
 <LM>w#w-mf930713-009-p2s5w3</LM>
 </w.rf>
 <form>druhém</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-mf930713-009-p2s5w4">
 <src.rf>manual</src.rf>

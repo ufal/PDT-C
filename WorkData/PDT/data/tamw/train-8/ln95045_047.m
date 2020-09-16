@@ -122,7 +122,7 @@
 <LM>w#w-ln95045-047-p2s1Bw10</LM>
 </w.rf>
 <form>představení</form>
-<tag lemma="představení-2_^(divadelní,_filmové_apod.)" src="orig" selected="1">NNNP1-----A----</tag>
+<tag lemma="představení-1_^(*5it-1)" src="orig" selected="1">NNNP1-----A----</tag>
 </m>
 <m id="m-ln95045-047-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -400,7 +400,7 @@
 <LM>w#w-ln95045-047-p2s2w30</LM>
 </w.rf>
 <form>Bakaly</form>
-<tag lemma="Bakala_;Y" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Bakala-2_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95045-047-p2s2w31">
 <src.rf>manual</src.rf>
@@ -634,7 +634,7 @@
 <LM>w#w-ln95045-047-p3s1w22</LM>
 </w.rf>
 <form>Leo</form>
-<tag lemma="Leo_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Leo-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-047-p3s1w23">
 <src.rf>manual</src.rf>
@@ -827,7 +827,7 @@
 <LM>w#w-ln95045-047-p3s2w4</LM>
 </w.rf>
 <form>představení</form>
-<tag lemma="představení-2_^(divadelní,_filmové_apod.)" src="orig" selected="1">NNNS3-----A----</tag>
+<tag lemma="představení-1_^(*5it-1)" src="orig" selected="1">NNNS3-----A----</tag>
 </m>
 <m id="m-ln95045-047-p3s2w5">
 <src.rf>manual</src.rf>
@@ -1045,7 +1045,7 @@
 <LM>w#w-ln95045-047-p3s3w15</LM>
 </w.rf>
 <form>málo</form>
-<tag lemma="málo-3_^(málo_+_příd._jm.,_př._byl_málo_důsledný)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="málo-3_^(málo_důsledný)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95045-047-p3s3w16">
 <src.rf>manual</src.rf>
@@ -1318,7 +1318,7 @@
 <form>role</form>
 <tag>
 <AM lemma="role-2_^(herecká_úloha;_poslání)" src="orig">NNFS2-----A----</AM>
-<AM lemma="role-1_^(svitek_poslání_pozemek)" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="role_^(svitek_poslání_pozemek)" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-047-p3s5w7">
@@ -1553,7 +1553,7 @@
 <LM>w#w-ln95045-047-p4s1w23</LM>
 </w.rf>
 <form>nejlepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AANP4----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AANP4----3A----</tag>
 </m>
 <m id="m-ln95045-047-p4s1w24">
 <src.rf>manual</src.rf>
@@ -1561,7 +1561,7 @@
 <LM>w#w-ln95045-047-p4s1w24</LM>
 </w.rf>
 <form>léta</form>
-<tag lemma="rok" src="orig" selected="1">NNNP4-----A---2</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP4-----A---2</tag>
 </m>
 <m id="m-ln95045-047-p4s1w25">
 <src.rf>manual</src.rf>
@@ -1587,7 +1587,7 @@
 <form>roli</form>
 <tag>
 <AM lemma="role-2_^(herecká_úloha;_poslání)" src="orig">NNFS4-----A----</AM>
-<AM lemma="role-1_^(svitek_poslání_pozemek)" src="manual" selected="1">NNFS4-----A----</AM>
+<AM lemma="role_^(svitek_poslání_pozemek)" src="manual" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-047-p4s1w28">
@@ -1684,7 +1684,7 @@
 <LM>w#w-ln95045-047-p4s1w39</LM>
 </w.rf>
 <form>Jitce</form>
-<tag lemma="Jitka-1_;Y" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="Jitka-1_;Y_;m" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-ln95045-047-p4s1w40">
 <src.rf>manual</src.rf>
@@ -1798,7 +1798,7 @@
 <LM>w#w-ln95045-047-p4s2w12</LM>
 </w.rf>
 <form>proto</form>
-<tag lemma="proto-2_^(dal_mu_co_proto,_tak_proto!)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="proto-2_^(proto_že)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95045-047-p4s2w13">
 <src.rf>manual</src.rf>
@@ -2099,7 +2099,7 @@
 <LM>w#w-ln95045-047-p4s3w24</LM>
 </w.rf>
 <form>představení</form>
-<tag lemma="představení-2_^(divadelní,_filmové_apod.)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="představení-1_^(*5it-1)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95045-047-p4s3w25">
 <src.rf>manual</src.rf>
@@ -2155,7 +2155,7 @@
 <LM>w#w-ln95045-047-p4s3w31</LM>
 </w.rf>
 <form>dlouhým</form>
-<tag lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">AAFP3----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFP3----1A----</tag>
 </m>
 <m id="m-ln95045-047-p4s3w32">
 <src.rf>manual</src.rf>
@@ -3155,7 +3155,7 @@
 <LM>w#w-ln95045-047-p5s6w14</LM>
 </w.rf>
 <form>dlouhých</form>
-<tag lemma="dlouhý-1_^(fyz._délka;_př._dlouhá_tyč)" src="orig" selected="1">AAIP6----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAIP6----1A----</tag>
 </m>
 <m id="m-ln95045-047-p5s6w15">
 <src.rf>manual</src.rf>
@@ -3221,7 +3221,7 @@
 <LM>w#w-ln95045-047-p6s1w5</LM>
 </w.rf>
 <form>Davida</form>
-<tag lemma="David_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="David-1_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95045-047-p6s1w6">
 <src.rf>manual</src.rf>
@@ -3313,7 +3313,7 @@
 <LM>w#w-ln95045-047-p6s2w3</LM>
 </w.rf>
 <form>naše</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP4-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP4-P1-------</tag>
 </m>
 <m id="m-ln95045-047-p6s2w4">
 <src.rf>manual</src.rf>
@@ -3467,7 +3467,7 @@
 <LM>w#w-ln95045-047-p6s3w4</LM>
 </w.rf>
 <form>naši</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSMP1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSMP1-P1-------</tag>
 </m>
 <m id="m-ln95045-047-p6s3w5">
 <src.rf>manual</src.rf>
@@ -4020,7 +4020,7 @@
 <LM>w#w-ln95045-047-p6s6w4</LM>
 </w.rf>
 <form>barytonu</form>
-<tag lemma="baryton_^(hlas)" src="auto" selected="1">NNIS6-----A----</tag>
+<tag lemma="baryton-1_^(hlas)" src="auto" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln95045-047-p6s6w5">
 <src.rf>manual</src.rf>
@@ -4257,7 +4257,7 @@
 <LM>w#w-ln95045-047-p6s8w1</LM>
 </w.rf>
 <form>Svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS7----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS7----------</tag>
 </m>
 <m id="m-ln95045-047-p6s8w2">
 <src.rf>manual</src.rf>
@@ -4353,7 +4353,7 @@
 <AM lemma="Leo_;G" src="auto">NNNS1-----A----</AM>
 <AM lemma="Leo_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Leo_;G" src="auto">NNNS5-----A----</AM>
-<AM lemma="Leo_;Y" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
+<AM lemma="Leo-1_;Y" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 <AM lemma="Leo_;Y" src="auto">NNMS2-----A---1</AM>
 <AM lemma="Leo_;Y" src="auto">NNMS3-----A---1</AM>
 <AM lemma="Leo_;Y" src="auto">NNMS4-----A---1</AM>

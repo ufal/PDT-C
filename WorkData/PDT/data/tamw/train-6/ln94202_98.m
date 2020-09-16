@@ -323,7 +323,7 @@
 <AM lemma="Mac-77" src="manual">F%-------------</AM>
 <AM lemma="Mac_;Y" src="manual">NNMXX-----A----</AM>
 <AM lemma="Mac_;Y_^(MacIntosh)" src="manual">NNMXX-----A----</AM>
-<AM lemma="Mac_;Y_^(MacIntosh)" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Mac-1_;Y_^(MacIntosh)" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-98-p2s2w5">
@@ -648,7 +648,7 @@
 <LM>w#w-ln94202-98-p2s4w9</LM>
 </w.rf>
 <form>vyhlášení</form>
-<tag lemma="vyhlášení_,a_^(*4sit)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="vyhlášení_^(*2t)_(*4sit)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-ln94202-98-p2s4w10">
 <src.rf>manual</src.rf>
@@ -762,7 +762,7 @@
 <LM>w#w-ln94202-98-p3s1w9</LM>
 </w.rf>
 <form>Teplicko</form>
-<tag lemma="teplický" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="teplicko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-ln94202-98-p3s1w10">
 <src.rf>manual</src.rf>
@@ -1169,7 +1169,7 @@
 <LM>w#w-ln94202-98-p3s3w8</LM>
 </w.rf>
 <form>Miroslava</form>
-<tag lemma="Miroslav_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Miroslav-1_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94202-98-p3s3w9">
 <src.rf>manual</src.rf>

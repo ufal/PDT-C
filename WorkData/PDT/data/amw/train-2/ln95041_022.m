@@ -142,7 +142,7 @@
 <LM>w#w-ln95041-022-p2s1w13</LM>
 </w.rf>
 <form>manažera</form>
-<tag lemma="manažer" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="manažer-1" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95041-022-p2s1w14">
 <src.rf>manual</src.rf>

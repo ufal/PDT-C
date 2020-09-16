@@ -448,7 +448,7 @@
 </w.rf>
 <form>modelů</form>
 <tag>
-<AM lemma="model" src="auto" recommended="1">NNIP2-----A----</AM>
+<AM lemma="model-1" src="auto" recommended="1">NNIP2-----A----</AM>
 <AM lemma="model" src="auto">NNMP2-----A----</AM>
 </tag>
 </m>
@@ -577,7 +577,7 @@
 <AM lemma="výzbroj" src="auto">NNFP1-----A----</AM>
 <AM lemma="výzbroj" src="auto">NNFP4-----A----</AM>
 <AM lemma="výzbroj" src="auto">NNFP5-----A----</AM>
-<AM lemma="výzbroj" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="výzbroj-1" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="výzbroj" src="auto">NNIP1-----A----</AM>
 <AM lemma="výzbroj" src="auto">NNIP4-----A----</AM>
 <AM lemma="výzbroj" src="auto">NNIP5-----A----</AM>
@@ -775,7 +775,7 @@
 <form>životnost</form>
 <tag>
 <AM lemma="životnost_^(př._rod_životný)_(*3ý)" src="auto">NNFS1-----A----</AM>
-<AM lemma="životnost_^(př._rod_životný)_(*3ý)" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="životnost_^(*3ý)" src="auto" recommended="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1110-001-p1s1W20-Ta">
@@ -2031,7 +2031,7 @@
 <AM lemma="York-2_;G" src="auto">NNIS2-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS5-----A----</AM>
-<AM lemma="York-2_;G" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="York-2_;G_;m" src="auto" recommended="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1110-001-p1s5W26-Ta">
@@ -2064,7 +2064,7 @@
 </w.rf>
 <form>druhou</form>
 <tag>
-<AM lemma="druhý" src="auto" recommended="1">CrFS4----------</AM>
+<AM lemma="druhý`2" src="auto" recommended="1">CrFS4----------</AM>
 <AM lemma="druhý" src="auto">CrFS7----------</AM>
 </tag>
 </m>
@@ -2903,7 +2903,7 @@
 <AM lemma="výzbroj" src="auto">NNFP1-----A----</AM>
 <AM lemma="výzbroj" src="auto">NNFP4-----A----</AM>
 <AM lemma="výzbroj" src="auto">NNFP5-----A----</AM>
-<AM lemma="výzbroj" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="výzbroj-1" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="výzbroj" src="auto">NNIP1-----A----</AM>
 <AM lemma="výzbroj" src="auto">NNIP4-----A----</AM>
 <AM lemma="výzbroj" src="auto">NNIP5-----A----</AM>
@@ -4340,7 +4340,7 @@
 <AM lemma="první" src="auto">CrIP4----------</AM>
 <AM lemma="první" src="auto">CrIP5----------</AM>
 <AM lemma="první" src="auto">CrIS1----------</AM>
-<AM lemma="první" src="auto" recommended="1">CrIS4----------</AM>
+<AM lemma="první-1" src="auto" recommended="1">CrIS4----------</AM>
 <AM lemma="první" src="auto">CrIS5----------</AM>
 <AM lemma="první" src="auto">CrMP1----------</AM>
 <AM lemma="první" src="auto">CrMP4----------</AM>
@@ -4424,7 +4424,7 @@
 <form>letech</form>
 <tag>
 <AM lemma="let" src="auto">NNIP6-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP6-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1110-001-p1s13W30-Ta">
@@ -5036,7 +5036,7 @@
 <form>nás</form>
 <tag>
 <AM lemma="já" src="auto">PP-P2--1-------</AM>
-<AM lemma="já" src="auto" recommended="1">PP-P4--1-------</AM>
+<AM lemma="my" src="auto" recommended="1">PP-P4--1-------</AM>
 <AM lemma="já" src="auto">PP-P6--1-------</AM>
 </tag>
 </m>
@@ -5582,7 +5582,7 @@
 <AM lemma="druhý" src="auto">CrIP4---------6</AM>
 <AM lemma="druhý" src="auto">CrIP5---------6</AM>
 <AM lemma="druhý" src="auto">CrIS1----------</AM>
-<AM lemma="druhý" src="auto" recommended="1">CrIS4----------</AM>
+<AM lemma="druhý`2" src="auto" recommended="1">CrIS4----------</AM>
 <AM lemma="druhý" src="auto">CrIS5----------</AM>
 <AM lemma="druhý" src="auto">CrMP1---------6</AM>
 <AM lemma="druhý" src="auto">CrMP4---------6</AM>
@@ -6525,7 +6525,7 @@
 <tag>
 <AM lemma="Hudson_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Hudson_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Hudson_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Hudson-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="hudson_^(dopravní_prostředek)" src="auto">NNIS1-----A----</AM>
 <AM lemma="hudson_^(dopravní_prostředek)" src="auto">NNIS4-----A----</AM>
 </tag>

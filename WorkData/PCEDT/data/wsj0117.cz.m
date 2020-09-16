@@ -1550,7 +1550,7 @@
 </w.rf>
 <form>dne</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="den_^(jednotka_času)" src="auto">NNIS5-----A----</AM>
 <AM lemma="den_^(jednotka_času)" src="auto">NNIS6-----A---9</AM>
 </tag>
@@ -3930,7 +3930,7 @@
 <tag>
 <AM lemma="práv_^(oprávněný)" src="auto">ACNS------A----</AM>
 <AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto">NNNS1-----A----</AM>
-<AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto" recommended="1">NNNS4-----A----</AM>
+<AM lemma="právo" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto">NNNS5-----A----</AM>
 </tag>
 </m>
@@ -5666,7 +5666,7 @@
 <AM lemma="spadající-1_^(do_kategorie)_(*6t-1)" src="auto">AGFP1-----A----</AM>
 <AM lemma="spadající-1_^(do_kategorie)_(*6t-1)" src="auto">AGFP4-----A----</AM>
 <AM lemma="spadající-1_^(do_kategorie)_(*6t-1)" src="auto">AGFP5-----A----</AM>
-<AM lemma="spadající-1_^(do_kategorie)_(*6t-1)" src="auto" selected="1">AGFS1-----A----</AM>
+<AM lemma="spadající-1_^(*6t-1)" src="auto" selected="1">AGFS1-----A----</AM>
 <AM lemma="spadající-1_^(do_kategorie)_(*6t-1)" src="auto">AGFS2-----A----</AM>
 <AM lemma="spadající-1_^(do_kategorie)_(*6t-1)" src="auto">AGFS3-----A----</AM>
 <AM lemma="spadající-1_^(do_kategorie)_(*6t-1)" src="auto">AGFS4-----A----</AM>
@@ -5781,7 +5781,7 @@
 <AM lemma="spadající-1_^(do_kategorie)_(*6t-1)" src="auto" recommended="1">AGFP1-----A----</AM>
 <AM lemma="spadající-1_^(do_kategorie)_(*6t-1)" src="auto">AGFP4-----A----</AM>
 <AM lemma="spadající-1_^(do_kategorie)_(*6t-1)" src="auto">AGFP5-----A----</AM>
-<AM lemma="spadající-1_^(do_kategorie)_(*6t-1)" src="auto" selected="1">AGFS1-----A----</AM>
+<AM lemma="spadající-1_^(*6t-1)" src="auto" selected="1">AGFS1-----A----</AM>
 <AM lemma="spadající-1_^(do_kategorie)_(*6t-1)" src="auto">AGFS2-----A----</AM>
 <AM lemma="spadající-1_^(do_kategorie)_(*6t-1)" src="auto">AGFS3-----A----</AM>
 <AM lemma="spadající-1_^(do_kategorie)_(*6t-1)" src="auto">AGFS4-----A----</AM>
@@ -5852,7 +5852,7 @@
 <AM lemma="ča_^(ča-ča)" src="auto">NNFS2-----A----</AM>
 <AM lemma="ča_^(ča-ča)" src="auto">NNFS3-----A---1</AM>
 <AM lemma="ča_^(ča-ča)" src="auto">NNFS6-----A---1</AM>
-<AM lemma="či" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="či-1" src="auto" recommended="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0117-001-p1s17W43-Ta">

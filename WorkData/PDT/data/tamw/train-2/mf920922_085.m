@@ -372,7 +372,7 @@
 <LM>w#w-mf920922-085-p2s3w6</LM>
 </w.rf>
 <form>vyváženost</form>
-<tag lemma="vyváženost_^(zboží_přes_hranice)_(*3ý)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="vyváženost_^(*3ý)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920922-085-p2s3w7">
 <src.rf>manual</src.rf>
@@ -518,7 +518,7 @@
 <LM>w#w-mf920922-085-p2s4Aw14</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-mf920922-085-p2s4Aw15">
 <src.rf>manual</src.rf>
@@ -618,7 +618,7 @@
 <LM>w#w-mf920922-085-p2s5w4</LM>
 </w.rf>
 <form>právo</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-mf920922-085-p2s5w5">
 <src.rf>manual</src.rf>
@@ -658,7 +658,7 @@
 <LM>w#w-mf920922-085-p2s5w9</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-mf920922-085-p2s5w10">
 <src.rf>manual</src.rf>
@@ -839,7 +839,7 @@
 <LM>w#w-mf920922-085-p2s6w16</LM>
 </w.rf>
 <form>odpovědnost</form>
-<tag lemma="odpovědnost_^(kdo_za_něco_odpovídá)_(*3ý)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="odpovědnost_^(*3ý)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf920922-085-p2s6w17">
 <src.rf>manual</src.rf>
@@ -857,7 +857,7 @@
 <LM>w#w-mf920922-085-p2s7w1</LM>
 </w.rf>
 <form>Právo</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-mf920922-085-p2s7w2">
 <src.rf>manual</src.rf>
@@ -1081,7 +1081,7 @@
 <LM>w#w-mf920922-085-p2s8w4</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-mf920922-085-p2s8w5">
 <src.rf>manual</src.rf>
@@ -1397,7 +1397,7 @@
 <LM>w#w-mf920922-085-p2s10w10</LM>
 </w.rf>
 <form>mechanismy</form>
-<tag lemma="mechanismus" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="mechanismus_,s_^(^DD**mechanizmus)" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-mf920922-085-p2s10w11">
 <src.rf>manual</src.rf>

@@ -43,7 +43,7 @@
 <LM>w#w-ln94204-56-p1s1w4</LM>
 </w.rf>
 <form>děti</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 </s>
 <s id="m-ln94204-56-p2s1A">
@@ -410,7 +410,7 @@
 <LM>w#w-ln94204-56-p2s2w14</LM>
 </w.rf>
 <form>nejlepším</form>
-<tag lemma="dobrý" src="orig" selected="1">AANS7----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AANS7----3A----</tag>
 </m>
 <m id="m-ln94204-56-p2s2w15">
 <src.rf>manual</src.rf>
@@ -506,7 +506,7 @@
 <LM>w#w-ln94204-56-p2s3w4</LM>
 </w.rf>
 <form>člen</form>
-<tag lemma="člen" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-56-p2s3w5">
 <src.rf>manual</src.rf>
@@ -522,7 +522,7 @@
 <LM>w#w-ln94204-56-p2s3w6</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94204-56-p2s3w7">
 <src.rf>manual</src.rf>
@@ -1237,7 +1237,7 @@
 <LM>w#w-ln94204-56-p5s2w29</LM>
 </w.rf>
 <form>lepšímu</form>
-<tag lemma="dobrý" src="orig" selected="1">AANS3----2A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AANS3----2A----</tag>
 </m>
 <m id="m-ln94204-56-p5s2w30">
 <src.rf>manual</src.rf>
@@ -1322,7 +1322,7 @@
 <LM>w#w-ln94204-56-p5s3w4</LM>
 </w.rf>
 <form>potřeba</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94204-56-p5s3w5">
 <src.rf>manual</src.rf>
@@ -1495,7 +1495,7 @@
 <LM>w#w-ln94204-56-p5s5w2</LM>
 </w.rf>
 <form>potřeba</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94204-56-p5s5w3">
 <src.rf>manual</src.rf>
@@ -1663,7 +1663,7 @@
 <LM>w#w-ln94204-56-p5s5w23</LM>
 </w.rf>
 <form>děti</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-ln94204-56-p5s5w24">
 <src.rf>manual</src.rf>
@@ -2272,7 +2272,7 @@
 <LM>w#w-ln94204-56-p6s6w5</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94204-56-p6s6w6">
 <src.rf>manual</src.rf>

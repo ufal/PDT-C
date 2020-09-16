@@ -432,7 +432,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>féerie</form>
-<tag lemma="féerie" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="féerie_,s_^(^DD**férie)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd91301-041-p3s2w9">
 <src.rf>manual</src.rf>
@@ -528,7 +528,7 @@
 <LM>w#w-lnd91301-041-p3s2w20</LM>
 </w.rf>
 <form>vydání</form>
-<tag lemma="vydání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="vydání_^(*3at)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-lnd91301-041-p3s2w21">
 <src.rf>manual</src.rf>
@@ -902,7 +902,7 @@
 <LM>w#w-lnd91301-041-p3s4w6</LM>
 </w.rf>
 <form>Vlasta</form>
-<tag lemma="Vlasta-2_;Y_,e_^(muž)" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vlasta-2_;Y_^(muž)" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-041-p3s4w7">
 <src.rf>manual</src.rf>
@@ -1830,7 +1830,7 @@
 <LM>w#w-lnd91301-041-p3s10w21</LM>
 </w.rf>
 <form>roli</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="role_^(svitek_poslání_pozemek)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd91301-041-p3s10w22">
 <src.rf>manual</src.rf>

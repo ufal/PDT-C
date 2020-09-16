@@ -775,7 +775,7 @@
 <LM>w#w-mf930709-018-p2s5w21</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-mf930709-018-p2s5w22">
 <src.rf>manual</src.rf>
@@ -1409,7 +1409,7 @@
 <LM>w#w-mf930709-018-p2s11w4</LM>
 </w.rf>
 <form>duchu</form>
-<tag lemma="duch" src="orig" selected="1">NNMS6-----A---1</tag>
+<tag lemma="duch-1" src="orig" selected="1">NNMS6-----A---1</tag>
 </m>
 <m id="m-mf930709-018-p2s11w5">
 <src.rf>manual</src.rf>
@@ -1433,7 +1433,7 @@
 <LM>w#w-mf930709-018-p2s11w7</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-mf930709-018-p2s11w8">
 <src.rf>manual</src.rf>
@@ -1457,7 +1457,7 @@
 <LM>w#w-mf930709-018-p2s11w10</LM>
 </w.rf>
 <form>převzetí</form>
-<tag lemma="převzetí_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="převzetí_^(*3ít)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-mf930709-018-p2s11w11">
 <src.rf>manual</src.rf>

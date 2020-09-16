@@ -172,7 +172,7 @@
 <AM lemma="Illinois" src="auto">NNIS3-----A---1</AM>
 <AM lemma="Illinois" src="auto">NNIS6-----A---1</AM>
 <AM lemma="Illinois" src="auto">NNIS7-----A---1</AM>
-<AM lemma="Illinois_;G" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Illinois_;G_;m" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Illinois_;G" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -240,7 +240,7 @@
 </w.rf>
 <form>svou</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8FS4---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8FS4---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS7---------1</AM>
 </tag>
 </m>

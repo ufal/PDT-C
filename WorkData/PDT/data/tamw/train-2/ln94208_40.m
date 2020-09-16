@@ -59,7 +59,7 @@
 <LM>w#w-ln94208-40-p1s1w6</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94208-40-p1s1w7">
 <src.rf>manual</src.rf>
@@ -139,7 +139,7 @@
 <LM>w#w-ln94208-40-p1s1w16</LM>
 </w.rf>
 <form>Marie</form>
-<tag lemma="Marie-1_;Y" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Marie_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94208-40-p1s1w17">
 <src.rf>manual</src.rf>

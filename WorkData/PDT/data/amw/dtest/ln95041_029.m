@@ -255,7 +255,7 @@
 <LM>w#w-ln95041-029-p2s1Cw13</LM>
 </w.rf>
 <form>roli</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="role_^(svitek_poslání_pozemek)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95041-029-p2s1Cw14">
 <src.rf>manual</src.rf>
@@ -431,7 +431,7 @@
 <LM>w#w-ln95041-029-p2s2w10</LM>
 </w.rf>
 <form>nejlepšími</form>
-<tag lemma="dobrý" src="orig" selected="1">AAMP7----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAMP7----3A----</tag>
 </m>
 <m id="m-ln95041-029-p2s2w11">
 <src.rf>manual</src.rf>
@@ -455,7 +455,7 @@
 <LM>w#w-ln95041-029-p2s2w13</LM>
 </w.rf>
 <form>prvních</form>
-<tag lemma="první" src="orig" selected="1">CrNP2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNP2----------</tag>
 </m>
 <m id="m-ln95041-029-p2s2w14">
 <src.rf>manual</src.rf>
@@ -892,7 +892,7 @@
 <LM>w#w-ln95041-029-p2s3Aw2</LM>
 </w.rf>
 <form>nejlepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAIS4----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAIS4----3A----</tag>
 </m>
 <m id="m-ln95041-029-p2s3Aw3">
 <src.rf>manual</src.rf>
@@ -1659,7 +1659,7 @@
 <LM>w#w-ln95041-029-p2s5w20</LM>
 </w.rf>
 <form>manažer</form>
-<tag lemma="manažer" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="manažer-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-029-p2s5w21">
 <src.rf>manual</src.rf>
@@ -1676,7 +1676,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Miroslav</form>
-<tag lemma="Miroslav_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Miroslav-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-029-p2s5w23">
 <src.rf>manual</src.rf>
@@ -1864,7 +1864,7 @@
 <LM>w#w-ln95041-029-p2s7w6</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-ln95041-029-p2s7w7">
 <src.rf>manual</src.rf>
@@ -1888,7 +1888,7 @@
 <LM>w#w-ln95041-029-p2s7w9</LM>
 </w.rf>
 <form>Slavii</form>
-<tag lemma="Slavia_;m" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Slavie_;m_,s_^(^DD**Slávie)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95041-029-p2s7w10">
 <src.rf>manual</src.rf>
@@ -1938,7 +1938,7 @@
 <LM>w#w-ln95041-029-p2s8w5</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-ln95041-029-p2s8w6">
 <src.rf>manual</src.rf>
@@ -2116,7 +2116,7 @@
 <LM>w#w-ln95041-029-p2s9w1</LM>
 </w.rf>
 <form>Manažer</form>
-<tag lemma="manažer" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="manažer-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-029-p2s9w2">
 <src.rf>manual</src.rf>
@@ -2124,7 +2124,7 @@
 <LM>w#w-ln95041-029-p2s9w2</LM>
 </w.rf>
 <form>Slavie</form>
-<tag lemma="Slavia_;m" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Slavie_;m_,s_^(^DD**Slávie)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95041-029-p2s9w3">
 <src.rf>manual</src.rf>
@@ -2708,7 +2708,7 @@
 <LM>w#w-ln95041-029-p2s13w15</LM>
 </w.rf>
 <form>druhém</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS6----------</tag>
 </m>
 <m id="m-ln95041-029-p2s13w16">
 <src.rf>manual</src.rf>
@@ -2804,7 +2804,7 @@
 <LM>w#w-ln95041-029-p2s13w27</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-ln95041-029-p2s13w28">
 <src.rf>manual</src.rf>
@@ -3041,7 +3041,7 @@
 <LM>w#w-ln95041-029-p2s14w23</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS7----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS7----------</tag>
 </m>
 <m id="m-ln95041-029-p2s14w24">
 <src.rf>manual</src.rf>
@@ -3309,7 +3309,7 @@
 <LM>w#w-ln95041-029-p2s16w2</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-ln95041-029-p2s16w3">
 <src.rf>manual</src.rf>

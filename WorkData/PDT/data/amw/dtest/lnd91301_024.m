@@ -180,7 +180,7 @@
 <LM>w#w-lnd91301-024-p1s2w6</LM>
 </w.rf>
 <form>oku</form>
-<tag lemma="oko" src="orig" selected="1">NNNS3-----A----</tag>
+<tag lemma="oko-1" src="orig" selected="1">NNNS3-----A----</tag>
 </m>
 <m id="m-lnd91301-024-p1s2w7">
 <src.rf>manual</src.rf>

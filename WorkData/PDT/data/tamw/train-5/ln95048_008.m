@@ -441,7 +441,7 @@
 <LM>w#w-ln95048-008-p3s2w10</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrNS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS4----------</tag>
 </m>
 <m id="m-ln95048-008-p3s2w11">
 <src.rf>manual</src.rf>
@@ -601,7 +601,7 @@
 <LM>w#w-ln95048-008-p4s2w5</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln95048-008-p4s2w6">
 <src.rf>manual</src.rf>

@@ -19,7 +19,7 @@
 <LM>w#w-ln94204-132-p1s1w1</LM>
 </w.rf>
 <form>Tajné</form>
-<tag lemma="tajný" src="orig" selected="1">AAIP1----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AAIP1----1A----</tag>
 </m>
 <m id="m-ln94204-132-p1s1w2">
 <src.rf>manual</src.rf>
@@ -131,7 +131,7 @@
 <LM>w#w-ln94204-132-p2s1Bw1</LM>
 </w.rf>
 <form>Naši</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSMP1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSMP1-P1-------</tag>
 </m>
 <m id="m-ln94204-132-p2s1Bw2">
 <src.rf>manual</src.rf>
@@ -259,7 +259,7 @@
 <LM>w#w-ln94204-132-p2s1Bw17</LM>
 </w.rf>
 <form>tajné</form>
-<tag lemma="tajný" src="orig" selected="1">AAIP1----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AAIP1----1A----</tag>
 </m>
 <m id="m-ln94204-132-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -327,7 +327,7 @@
 <form>thesí</form>
 <tag>
 <AM lemma="these_,a" src="auto">NNFP2-----A----</AM>
-<AM lemma="these_,s_^(^DD**teze)" src="manual" selected="1">NNFP2-----A----</AM>
+<AM lemma="these_,a_^(^DD**teze)" src="manual" selected="1">NNFP2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-132-p2s2w5">
@@ -443,7 +443,7 @@
 <LM>w#w-ln94204-132-p2s2w18</LM>
 </w.rf>
 <form>tajné</form>
-<tag lemma="tajný" src="orig" selected="1">AAFS2----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-ln94204-132-p2s2w19">
 <src.rf>manual</src.rf>
@@ -618,7 +618,7 @@
 <LM>w#w-ln94204-132-p2s4w3</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-ln94204-132-p2s4w4">
 <src.rf>manual</src.rf>
@@ -1136,7 +1136,7 @@
 <LM>w#w-ln94204-132-p3s1w5</LM>
 </w.rf>
 <form>naši</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSMP1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSMP1-P1-------</tag>
 </m>
 <m id="m-ln94204-132-p3s1w6">
 <src.rf>manual</src.rf>

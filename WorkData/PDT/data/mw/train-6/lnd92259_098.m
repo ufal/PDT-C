@@ -207,7 +207,7 @@
 <LM>w#w-lnd92259-098-p2s2w2</LM>
 </w.rf>
 <form>cestě</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd92259-098-p2s2w3">
 <src.rf>manual</src.rf>
@@ -466,7 +466,7 @@
 <LM>w#w-lnd92259-098-p2s3w2</LM>
 </w.rf>
 <form>oko</form>
-<tag lemma="oko" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="oko-1" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-lnd92259-098-p2s3w3">
 <src.rf>manual</src.rf>

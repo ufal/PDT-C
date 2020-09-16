@@ -770,7 +770,7 @@
 <LM>w#w-lnd92257-083-p3s5w8</LM>
 </w.rf>
 <form>pas</form>
-<tag lemma="pas-1_^(př._cestovní)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="pas-1_^(přihrávka,_př._v_kopané,na_lidském_těle;;cestovní)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-lnd92257-083-p3s5w9">
 <src.rf>manual</src.rf>

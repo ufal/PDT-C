@@ -360,7 +360,7 @@
 </w.rf>
 <form>Stamfordu</form>
 <tag>
-<AM lemma="Stamford_;G" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="Stamford_;G_;m" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="Stamford_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="Stamford_;G" src="auto">NNIS6-----A----</AM>
 </tag>
@@ -2076,7 +2076,7 @@
 <form>zdaněním</form>
 <tag>
 <AM lemma="zdanění_^(vypočítat_daň)_(*3it)" src="auto">NNNP3-----A----</AM>
-<AM lemma="zdanění_^(vypočítat_daň)_(*3it)" src="auto" recommended="1">NNNS7-----A----</AM>
+<AM lemma="zdanění_^(*3it)" src="auto" recommended="1">NNNS7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1177-001-p1s6W10-Ta">
@@ -2595,7 +2595,7 @@
 <form>zdaněním</form>
 <tag>
 <AM lemma="zdanění_^(vypočítat_daň)_(*3it)" src="auto">NNNP3-----A----</AM>
-<AM lemma="zdanění_^(vypočítat_daň)_(*3it)" src="auto" recommended="1">NNNS7-----A----</AM>
+<AM lemma="zdanění_^(*3it)" src="auto" recommended="1">NNNS7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1177-001-p1s7W19-Ta">

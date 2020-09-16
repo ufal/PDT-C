@@ -845,7 +845,7 @@
 <tag>
 <AM lemma="Volkswagen-2_;m_,x_^(vozidlo)" src="orig">NNIP4-----A----</AM>
 <AM lemma="volkswagen_;m_,x_^(vozidlo)" src="auto">NNIP1-----A----</AM>
-<AM lemma="volkswagen_;m_^(vozidlo)" src="auto" recommended="1" selected="1">NNIP4-----A----</AM>
+<AM lemma="volkswagen_^(vozidlo)" src="auto" recommended="1" selected="1">NNIP4-----A----</AM>
 <AM lemma="volkswagen_;m_,x_^(vozidlo)" src="auto">NNIP5-----A----</AM>
 <AM lemma="volkswagen_;m_,x_^(vozidlo)" src="auto">NNIP7-----A----</AM>
 </tag>

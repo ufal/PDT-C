@@ -51,7 +51,7 @@
 <LM>w#w-lnd94104-053-p1s1w5</LM>
 </w.rf>
 <form>nemoci</form>
-<tag lemma="nemoc_^(choroba)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="nemoc" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd94104-053-p1s2">
@@ -603,7 +603,7 @@
 <LM>w#w-lnd94104-053-p1s7w23</LM>
 </w.rf>
 <form>nemoci</form>
-<tag lemma="nemoc_^(choroba)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="nemoc" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-lnd94104-053-p1s7w24">
 <src.rf>manual</src.rf>

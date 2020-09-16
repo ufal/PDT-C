@@ -35,7 +35,7 @@
 <LM>w#w-mf920902-147-p1s1w3</LM>
 </w.rf>
 <form>BUŠI</form>
-<tag lemma="buš" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="buš-2" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf920902-147-p1s1w4">
 <src.rf>manual</src.rf>
@@ -191,7 +191,7 @@
 <form>buši</form>
 <tag>
 <AM lemma="buš" src="orig">NNFS6-----A----</AM>
-<AM lemma="buš" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="buš-1" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-147-p1s2w19">
@@ -218,7 +218,7 @@
 <LM>w#w-mf920902-147-p1s3w2</LM>
 </w.rf>
 <form>členové</form>
-<tag lemma="člen" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf920902-147-p1s3w3">
 <src.rf>manual</src.rf>
@@ -646,7 +646,7 @@
 <LM>w#w-mf920902-147-p3s2w6</LM>
 </w.rf>
 <form>raněných</form>
-<tag lemma="raněný_^(poranit)_(*3it)" src="orig" selected="1">AAMP2----1A----</tag>
+<tag lemma="raněný_^(*3it)" src="orig" selected="1">AAMP2----1A----</tag>
 </m>
 <m id="m-mf920902-147-p3s2w7">
 <src.rf>manual</src.rf>

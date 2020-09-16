@@ -301,7 +301,7 @@
 <LM>w#w-ln95041-037-p2s2w6</LM>
 </w.rf>
 <form>lety</form>
-<tag lemma="rok" src="orig" selected="1">NNNP7-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP7-----A----</tag>
 </m>
 <m id="m-ln95041-037-p2s2w7">
 <src.rf>manual</src.rf>
@@ -447,7 +447,7 @@
 <LM>w#w-ln95041-037-p2s3w8</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-ln95041-037-p2s3w9">
 <src.rf>manual</src.rf>
@@ -601,7 +601,7 @@
 <LM>w#w-ln95041-037-p2s4w6</LM>
 </w.rf>
 <form>nemoc</form>
-<tag lemma="nemoc_^(choroba)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="nemoc" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95041-037-p2s4w7">
 <src.rf>manual</src.rf>
@@ -863,7 +863,7 @@
 <LM>w#w-ln95041-037-p3s2w5</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP4FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XP4FS3-------</tag>
 </m>
 <m id="m-ln95041-037-p3s2w6">
 <src.rf>manual</src.rf>

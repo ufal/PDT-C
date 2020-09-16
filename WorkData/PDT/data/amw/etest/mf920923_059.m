@@ -136,7 +136,7 @@
 <LM>w#w-mf920923-059-p2s1w12</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS6---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS6---------1</tag>
 </m>
 <m id="m-mf920923-059-p2s1w13">
 <src.rf>manual</src.rf>
@@ -428,7 +428,7 @@
 <LM>w#w-mf920923-059-p2s2w29</LM>
 </w.rf>
 <form>zdanění</form>
-<tag lemma="zdanění_^(vypočítat_daň)_(*3it)" src="auto" selected="1">NNNS6-----A----</tag>
+<tag lemma="zdanění_^(*3it)" src="auto" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-mf920923-059-p2s2w30">
 <src.rf>manual</src.rf>
@@ -454,7 +454,7 @@
 <LM>w#w-mf920923-059-p2s4w2</LM>
 </w.rf>
 <form>správném</form>
-<tag lemma="správný_^(podle_něj._měřítek;_př._chlap,_míra,...)" src="orig" selected="1">AANS6----1A----</tag>
+<tag lemma="správný" src="orig" selected="1">AANS6----1A----</tag>
 </m>
 <m id="m-mf920923-059-p2s4w3">
 <src.rf>manual</src.rf>
@@ -780,7 +780,7 @@
 <LM>w#w-mf920923-059-p2s7w7</LM>
 </w.rf>
 <form>právo</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-mf920923-059-p2s7w8">
 <src.rf>manual</src.rf>

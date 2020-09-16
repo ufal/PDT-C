@@ -179,7 +179,7 @@
 <LM>w#w-mf930701-025-p2s1w11</LM>
 </w.rf>
 <form>dávno</form>
-<tag lemma="dávno" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="dávno-1" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf930701-025-p2s1w12">
 <src.rf>manual</src.rf>
@@ -364,7 +364,7 @@
 <LM>w#w-mf930701-025-p2s2w11</LM>
 </w.rf>
 <form>dá</form>
-<tag lemma="dát" src="orig" selected="1">VB-S---3P-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-mf930701-025-p2s2w12">
 <src.rf>manual</src.rf>
@@ -1332,7 +1332,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1561,7 +1561,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1630,7 +1630,7 @@
 <LM>w#w-mf930701-025-p5s4w10</LM>
 </w.rf>
 <form>druhým</form>
-<tag lemma="druhý" src="orig" selected="1">CrMS7----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrMS7----------</tag>
 </m>
 <m id="m-mf930701-025-p5s4w11">
 <src.rf>manual</src.rf>
@@ -2187,7 +2187,7 @@
 <LM>w#w-mf930701-025-p8s1w8</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS2---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS2---------1</tag>
 </m>
 <m id="m-mf930701-025-p8s1w9">
 <src.rf>manual</src.rf>
@@ -2277,7 +2277,7 @@
 <LM>w#w-mf930701-025-p8s2w8</LM>
 </w.rf>
 <form>činitele</form>
-<tag lemma="činitel" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="činitel-1" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930701-025-p8s2w9">
 <src.rf>manual</src.rf>
@@ -2394,7 +2394,7 @@
 </w.rf>
 <form>Dají</form>
 <tag>
-<AM lemma="dát" src="orig" selected="1">VB-P---3P-AAP--</AM>
+<AM lemma="dát-1" src="orig" selected="1">VB-P---3P-AAP--</AM>
 <AM lemma="dát" src="manual">VB-P---3P-AAP--</AM>
 </tag>
 </m>
@@ -2729,7 +2729,7 @@
 <LM>w#w-mf930701-025-p9s2w4</LM>
 </w.rf>
 <form>dalo</form>
-<tag lemma="dát" src="orig" selected="1">VpNS----R-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf930701-025-p9s2w5">
 <src.rf>manual</src.rf>

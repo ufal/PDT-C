@@ -378,7 +378,7 @@
 <LM>w#w-lnd92257-012-p3s2w37</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-lnd92257-012-p3s2w38">
 <src.rf>manual</src.rf>
@@ -500,7 +500,7 @@
 <LM>w#w-lnd92257-012-p3s3w7</LM>
 </w.rf>
 <form>podání</form>
-<tag lemma="podání_^(něco_[někomu]_[někam])_(*3at)" src="orig" selected="1">NNNS3-----A----</tag>
+<tag lemma="podání_^(*3at)" src="orig" selected="1">NNNS3-----A----</tag>
 </m>
 <m id="m-lnd92257-012-p3s3w8">
 <src.rf>manual</src.rf>
@@ -1162,7 +1162,7 @@
 <LM>w#w-lnd92257-012-p3s7w5</LM>
 </w.rf>
 <form>stanovení</form>
-<tag lemma="stanovení_^(určit)_(*3it)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="stanovení_^(*3it)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-lnd92257-012-p3s7w6">
 <src.rf>manual</src.rf>

@@ -114,7 +114,7 @@
 <LM>w#w-ln95049-017-p2s1Bw2</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln95049-017-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -826,7 +826,7 @@
 <tag>
 <AM lemma="starost" src="orig">NNFS4-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFS1-----A----</AM>
-<AM lemma="starost-1" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
+<AM lemma="starost-2_^(*5ý-2)" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
 <AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto">NNFS1-----A----</AM>
 <AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto">NNFS4-----A----</AM>
 </tag>

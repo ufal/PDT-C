@@ -143,7 +143,7 @@
 <AM lemma="stání_^(vyhrazené_místo,_př._pro_koně,_auta,...)" src="auto">NNNP2-----A----</AM>
 <AM lemma="stání_^(vyhrazené_místo,_př._pro_koně,_auta,...)" src="auto">NNNP4-----A----</AM>
 <AM lemma="stání_^(vyhrazené_místo,_př._pro_koně,_auta,...)" src="auto">NNNP5-----A----</AM>
-<AM lemma="stání_^(vyhrazené_místo,_př._pro_koně,_auta,...)" src="auto" selected="1">NNNS1-----A----</AM>
+<AM lemma="stání" src="auto" selected="1">NNNS1-----A----</AM>
 <AM lemma="stání_^(vyhrazené_místo,_př._pro_koně,_auta,...)" src="auto">NNNS2-----A----</AM>
 <AM lemma="stání_^(vyhrazené_místo,_př._pro_koně,_auta,...)" src="auto">NNNS3-----A----</AM>
 <AM lemma="stání_^(vyhrazené_místo,_př._pro_koně,_auta,...)" src="auto">NNNS4-----A----</AM>
@@ -337,7 +337,7 @@
 <LM>w#w-mf930708-147-p2s3w8</LM>
 </w.rf>
 <form>fiakrů</form>
-<tag lemma="fiakr" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="fiakr-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf930708-147-p2s3w9">
 <src.rf>manual</src.rf>
@@ -683,7 +683,7 @@
 <LM>w#w-mf930708-147-p3s1w3</LM>
 </w.rf>
 <form>fiakry</form>
-<tag lemma="fiakr" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="fiakr-1" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-mf930708-147-p3s1w4">
 <src.rf>manual</src.rf>
@@ -981,7 +981,7 @@
 <LM>w#w-mf930708-147-p3s2w27</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-mf930708-147-p3s2w28">
 <src.rf>manual</src.rf>

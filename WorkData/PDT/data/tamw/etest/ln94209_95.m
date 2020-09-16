@@ -842,7 +842,7 @@
 <LM>w#w-ln94209-95-p3s1w8</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-ln94209-95-p3s1w9">
 <src.rf>manual</src.rf>
@@ -1591,7 +1591,7 @@
 <LM>w#w-ln94209-95-p3s5w19</LM>
 </w.rf>
 <form>vitaminy</form>
-<tag lemma="vitamín" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="vitamin_,s_^(^DD**vitamín)" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-ln94209-95-p3s5w20">
 <src.rf>manual</src.rf>
@@ -1810,7 +1810,7 @@
 <LM>w#w-ln94209-95-p3s6Aw8</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-ln94209-95-p3s6Aw9">
 <src.rf>manual</src.rf>
@@ -1980,7 +1980,7 @@
 <LM>w#w-ln94209-95-p3s6Bw3</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-ln94209-95-p3s6Bw4">
 <src.rf>manual</src.rf>
@@ -2248,7 +2248,7 @@
 <LM>w#w-ln94209-95-p4s2w17</LM>
 </w.rf>
 <form>dítě</form>
-<tag lemma="dítě" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="dítě-1" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln94209-95-p4s2w18">
 <src.rf>manual</src.rf>

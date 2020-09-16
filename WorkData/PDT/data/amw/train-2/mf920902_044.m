@@ -243,7 +243,7 @@
 <LM>w#w-mf920902-044-p1s1Bw17</LM>
 </w.rf>
 <form>orgánu</form>
-<tag lemma="orgán" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920902-044-p1s1Bw18">
 <src.rf>manual</src.rf>
@@ -445,7 +445,7 @@
 <LM>w#w-mf920902-044-p1s3w11</LM>
 </w.rf>
 <form>stanovených</form>
-<tag lemma="stanovený_^(určit)_(*3it)" src="orig" selected="1">AAIP2----1A----</tag>
+<tag lemma="stanovený_^(*3it)" src="orig" selected="1">AAIP2----1A----</tag>
 </m>
 <m id="m-mf920902-044-p1s3w12">
 <src.rf>manual</src.rf>

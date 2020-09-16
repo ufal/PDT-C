@@ -131,7 +131,7 @@
 </w.rf>
 <form>svoji</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8FS4----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8FS4----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8MP1----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8MP5----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOMP----------1</AM>
@@ -473,7 +473,7 @@
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FP1---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FP4---------1</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8FS2---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8FS2---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS3---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS6---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8IP1---------1</AM>
@@ -1370,7 +1370,7 @@
 <AM lemma="let" src="auto">NNIP4-----A----</AM>
 <AM lemma="let" src="auto">NNIP5-----A----</AM>
 <AM lemma="let" src="auto">NNIP7-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP7-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0688-001-p1s4W4-Ta">
@@ -2584,7 +2584,7 @@
 <form>svých</form>
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8XP2----------</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8XP6----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8XP6----------</AM>
 </tag>
 </m>
 <m id="m-wsj0688-001-p1s8W8-Ta">
@@ -4128,7 +4128,7 @@
 <tag>
 <AM lemma="Bakersfield_;G" src="auto">NNIS2-----A----</AM>
 <AM lemma="Bakersfield_;G" src="auto">NNIS3-----A----</AM>
-<AM lemma="Bakersfield_;G" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="Bakersfield_;G_;m" src="auto" recommended="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0688-001-p1s13W16-Ta">
@@ -4909,7 +4909,7 @@
 </w.rf>
 <form>Bakersfieldu</form>
 <tag>
-<AM lemma="Bakersfield_;G" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
+<AM lemma="Bakersfield_;G_;m" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
 <AM lemma="Bakersfield_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="Bakersfield_;G" src="auto">NNIS6-----A----</AM>
 </tag>

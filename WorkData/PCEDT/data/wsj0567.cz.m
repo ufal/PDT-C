@@ -1293,7 +1293,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0567-001-p1s3W4-Ta">
@@ -2769,7 +2769,7 @@
 <AM lemma="zamyšlení_^(*5slet)" src="auto">NNNS1-----A----</AM>
 <AM lemma="zamyšlení_^(*5slet)" src="auto">NNNS2-----A----</AM>
 <AM lemma="zamyšlení_^(*5slet)" src="auto">NNNS3-----A----</AM>
-<AM lemma="zamyšlení_^(*5slet)" src="auto" recommended="1">NNNS4-----A----</AM>
+<AM lemma="zamyšlení_^(*5slit)" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="zamyšlení_^(*5slet)" src="auto">NNNS5-----A----</AM>
 <AM lemma="zamyšlení_^(*5slet)" src="auto">NNNS6-----A----</AM>
 </tag>
@@ -3406,7 +3406,7 @@
 <form>Evropě</form>
 <tag>
 <AM lemma="Evropa_;G" src="auto">NNFS3-----A----</AM>
-<AM lemma="Evropa_;G" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="Evropa_;G_;Y" src="auto" recommended="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0567-001-p1s8W14-Ta">
@@ -3686,7 +3686,7 @@
 <AM lemma="let" src="auto">NNIP4-----A----</AM>
 <AM lemma="let" src="auto">NNIP5-----A----</AM>
 <AM lemma="let" src="auto">NNIP7-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP7-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0567-001-p1s8W37-Ta">

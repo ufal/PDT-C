@@ -1756,7 +1756,7 @@
 <form>Evropě</form>
 <tag>
 <AM lemma="Evropa_;G" src="auto">NNFS3-----A----</AM>
-<AM lemma="Evropa_;G" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="Evropa_;G_;Y" src="auto" recommended="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1597-001-p1s4W30-Ta">
@@ -3742,7 +3742,7 @@
 <AM lemma="léto" src="auto">NNNP5-----A----</AM>
 <AM lemma="léto" src="auto">NNNS2-----A----</AM>
 <AM lemma="rok" src="auto">NNNP1-----A---2</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP4-----A---2</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP4-----A---2</AM>
 <AM lemma="rok" src="auto">NNNP5-----A---2</AM>
 <AM lemma="rok" src="auto">NNNS2-----A----</AM>
 </tag>
@@ -4782,7 +4782,7 @@
 <tag>
 <AM lemma="zastavený_^(uvést_do_klidu;;zástavní_právo)_(*3it)" src="auto">AAFP2----1A----</AM>
 <AM lemma="zastavený_^(uvést_do_klidu;;zástavní_právo)_(*3it)" src="auto">AAFP6----1A----</AM>
-<AM lemma="zastavený_^(uvést_do_klidu;;zástavní_právo)_(*3it)" src="auto" recommended="1">AAIP2----1A----</AM>
+<AM lemma="zastavený_^(*3it)" src="auto" recommended="1">AAIP2----1A----</AM>
 <AM lemma="zastavený_^(uvést_do_klidu;;zástavní_právo)_(*3it)" src="auto">AAIP6----1A----</AM>
 <AM lemma="zastavený_^(uvést_do_klidu;;zástavní_právo)_(*3it)" src="auto">AAMP2----1A----</AM>
 <AM lemma="zastavený_^(uvést_do_klidu;;zástavní_právo)_(*3it)" src="auto">AAMP6----1A----</AM>

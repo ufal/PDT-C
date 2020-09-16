@@ -423,7 +423,7 @@
 <LM>w#w-cmpr9417-021-p3s4w17</LM>
 </w.rf>
 <form>horší</form>
-<tag lemma="špatný" src="orig" selected="1">AAFS1----2A----</tag>
+<tag lemma="horší" src="orig" selected="1">AAFS1----2A----</tag>
 </m>
 <m id="m-cmpr9417-021-p3s4w18">
 <src.rf>manual</src.rf>

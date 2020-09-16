@@ -733,7 +733,7 @@
 <LM>w#w-mf930702-103-p3s1w7</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1ZS1FS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1ZS1FS3-------</tag>
 </m>
 <m id="m-mf930702-103-p3s1w8">
 <src.rf>manual</src.rf>
@@ -943,7 +943,7 @@
 <LM>w#w-mf930702-103-p3s2w5</LM>
 </w.rf>
 <form>daly</form>
-<tag lemma="dát" src="orig" selected="1">VpTP----R-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-mf930702-103-p3s2w6">
 <src.rf>manual</src.rf>
@@ -1307,7 +1307,7 @@
 <LM>w#w-mf930702-103-p3s4w7</LM>
 </w.rf>
 <form>dál</form>
-<tag lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="dál-3_,s_^(také,_za_další)_(^DD**dále-3)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf930702-103-p3s4w8">
 <src.rf>manual</src.rf>

@@ -633,7 +633,7 @@
 <LM>w#w-lnd92254-094-p3s2w22</LM>
 </w.rf>
 <form>Costa</form>
-<tag lemma="Costa_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Costa-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-094-p3s2w23">
 <src.rf>manual</src.rf>
@@ -737,7 +737,7 @@
 <LM>w#w-lnd92254-094-p3s2w35</LM>
 </w.rf>
 <form>Mansdorf</form>
-<tag lemma="Mansdorf_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mansdorf-2_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-094-p3s2w36">
 <src.rf>manual</src.rf>
@@ -2790,7 +2790,7 @@
 <LM>w#w-lnd92254-094-p10s1w26</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92254-094-p10s1w27">
 <src.rf>manual</src.rf>
@@ -4744,7 +4744,7 @@
 <LM>w#w-lnd92254-094-p14s1w2</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92254-094-p14s1w3">
 <src.rf>manual</src.rf>
@@ -5322,7 +5322,7 @@
 <LM>w#w-lnd92254-094-p16s3w6</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd92254-094-p16s3w7">
 <src.rf>manual</src.rf>
@@ -5754,7 +5754,7 @@
 <LM>w#w-lnd92254-094-p17s1w15</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrNS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS1----------</tag>
 </m>
 <m id="m-lnd92254-094-p17s1w16">
 <src.rf>manual</src.rf>
@@ -6513,7 +6513,7 @@
 <LM>w#w-lnd92254-094-p19s2w12</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrIS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS1----------</tag>
 </m>
 <m id="m-lnd92254-094-p19s2w13">
 <src.rf>manual</src.rf>

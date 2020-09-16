@@ -239,7 +239,7 @@
 <LM>w#w-lnd92259-036-p1s1w28</LM>
 </w.rf>
 <form>Černé</form>
-<tag lemma="černý" src="auto" selected="1">AAFS6----1A----</tag>
+<tag lemma="černý_;o" src="auto" selected="1">AAFS6----1A----</tag>
 </m>
 <m id="m-lnd92259-036-p1s1w29">
 <src.rf>manual</src.rf>
@@ -303,7 +303,7 @@
 <LM>w#w-lnd92259-036-p1s1w36</LM>
 </w.rf>
 <form>Rady</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92259-036-p1s1w37">
 <src.rf>manual</src.rf>

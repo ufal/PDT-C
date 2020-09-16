@@ -501,7 +501,7 @@
 <LM>w#w-ln94210-61-p2s2w7</LM>
 </w.rf>
 <form>členové</form>
-<tag lemma="člen" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln94210-61-p2s2w8">
 <src.rf>manual</src.rf>

@@ -185,7 +185,7 @@
 <LM>w#w-ln95040-031-p2s2w2</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrIS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS6----------</tag>
 </m>
 <m id="m-ln95040-031-p2s2w3">
 <src.rf>manual</src.rf>
@@ -316,7 +316,7 @@
 <LM>w#w-ln95040-031-p2s2w18</LM>
 </w.rf>
 <form>Kellyho</form>
-<tag lemma="Kelly_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kelly-1_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95040-031-p2s2w19">
 <src.rf>manual</src.rf>
@@ -570,7 +570,7 @@
 <form>rozhodčí</form>
 <tag>
 <AM lemma="rozhodčí-1" src="auto">NNFP1-----A----</AM>
-<AM lemma="rozhodčí-2" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="rozhodčí-1" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-031-p2s4w8">
@@ -632,7 +632,7 @@
 <LM>w#w-ln95040-031-p2s5w2</LM>
 </w.rf>
 <form>prvních</form>
-<tag lemma="první" src="orig" selected="1">CrFP2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFP2----------</tag>
 </m>
 <m id="m-ln95040-031-p2s5w3">
 <src.rf>manual</src.rf>

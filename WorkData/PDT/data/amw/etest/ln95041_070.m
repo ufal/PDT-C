@@ -450,7 +450,7 @@
 <LM>w#w-ln95041-070-p4s1w10</LM>
 </w.rf>
 <form>Hnutí</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95041-070-p4s1w11">
 <src.rf>manual</src.rf>
@@ -548,7 +548,7 @@
 <LM>w#w-ln95041-070-p4s2w9</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-ln95041-070-p4s2w10">
 <src.rf>manual</src.rf>
@@ -564,7 +564,7 @@
 <LM>w#w-ln95041-070-p4s2w11</LM>
 </w.rf>
 <form>práva</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln95041-070-p4s2w12">
 <src.rf>manual</src.rf>
@@ -686,7 +686,7 @@
 <LM>w#w-ln95041-070-p4s3w2</LM>
 </w.rf>
 <form>Soudkyni</form>
-<tag lemma="soudkyně_^(člověk,_který_soudí)_(*4ce)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="soudkyně_^(*4ce)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95041-070-p4s3w3">
 <src.rf>manual</src.rf>
@@ -920,7 +920,7 @@
 <LM>w#w-ln95041-070-p4s4w19</LM>
 </w.rf>
 <form>spravedlnosti</form>
-<tag lemma="spravedlnost_^(*3ý)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="spravedlnost-1_^(*5ý-1)" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95041-070-p4s4w20">
 <src.rf>manual</src.rf>
@@ -1018,7 +1018,7 @@
 <LM>w#w-ln95041-070-p4s5w5</LM>
 </w.rf>
 <form>spravedlnosti</form>
-<tag lemma="spravedlnost_^(*3ý)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="spravedlnost-1_^(*5ý-1)" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95041-070-p4s5w6">
 <src.rf>manual</src.rf>
@@ -1236,7 +1236,7 @@
 <LM>w#w-ln95041-070-p5s1w17</LM>
 </w.rf>
 <form>činitele</form>
-<tag lemma="činitel" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="činitel-1" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95041-070-p5s1w18">
 <src.rf>manual</src.rf>
@@ -1260,7 +1260,7 @@
 <LM>w#w-ln95041-070-p5s1w20</LM>
 </w.rf>
 <form>soudkyně</form>
-<tag lemma="soudkyně_^(člověk,_který_soudí)_(*4ce)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="soudkyně_^(*4ce)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95041-070-p5s1w21">
 <src.rf>manual</src.rf>
@@ -1858,7 +1858,7 @@
 <LM>w#w-ln95041-070-p5s4w15</LM>
 </w.rf>
 <form>vězení</form>
-<tag lemma="vězení_,a_^(místo_výkonu_trestu)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="vězení_^(místo_výkonu_trestu)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-ln95041-070-p5s4w16">
 <src.rf>manual</src.rf>

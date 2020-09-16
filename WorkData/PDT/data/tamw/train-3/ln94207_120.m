@@ -319,7 +319,7 @@
 <LM>w#w-ln94207-120-p2s2w5</LM>
 </w.rf>
 <form>letounu</form>
-<tag lemma="letoun" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="letoun-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94207-120-p2s2w6">
 <src.rf>manual</src.rf>
@@ -604,7 +604,7 @@
 <LM>w#w-ln94207-120-p3s2w6</LM>
 </w.rf>
 <form>zaujatosti</form>
-<tag lemma="zaujatost_^(proti_někomu/něčemu)_(*3ý)" src="auto" selected="1">NNFS6-----A----</tag>
+<tag lemma="zaujatost_^(*3ý)" src="auto" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94207-120-p3s2w7">
 <src.rf>manual</src.rf>
@@ -737,7 +737,7 @@
 <LM>w#w-ln94207-120-p4s1w3</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-4_^(v_knize,_rukopise,...)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94207-120-p4s1w4">
 <src.rf>manual</src.rf>
@@ -769,7 +769,7 @@
 <LM>w#w-ln94207-120-p4s1w7</LM>
 </w.rf>
 <form>letoun</form>
-<tag lemma="letoun" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="letoun-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94207-120-p4s1w8">
 <src.rf>manual</src.rf>
@@ -785,7 +785,7 @@
 <LM>w#w-ln94207-120-p4s1w9</LM>
 </w.rf>
 <form>zelenou</form>
-<tag lemma="zelený" src="orig" selected="1">AAFS4----1A----</tag>
+<tag lemma="zelený_;o" src="orig" selected="1">AAFS4----1A----</tag>
 </m>
 </s>
 </mdata>

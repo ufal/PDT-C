@@ -304,7 +304,7 @@
 <LM>w#w-ln94211-23-p2s1Bw22</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS2---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS2---------1</tag>
 </m>
 <m id="m-ln94211-23-p2s1Bw23">
 <src.rf>manual</src.rf>
@@ -394,7 +394,7 @@
 <LM>w#w-ln94211-23-p2s3w5</LM>
 </w.rf>
 <form>členů</form>
-<tag lemma="člen" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94211-23-p2s3w6">
 <src.rf>manual</src.rf>
@@ -450,7 +450,7 @@
 <LM>w#w-ln94211-23-p2s3w12</LM>
 </w.rf>
 <form>David</form>
-<tag lemma="David_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="David-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-23-p2s3w13">
 <src.rf>manual</src.rf>
@@ -458,7 +458,7 @@
 <LM>w#w-ln94211-23-p2s3w13</LM>
 </w.rf>
 <form>Shelby</form>
-<tag lemma="Shelby_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Shelby-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-23-p2s3w14">
 <src.rf>manual</src.rf>
@@ -793,7 +793,7 @@
 <LM>w#w-ln94211-23-p3s2w3</LM>
 </w.rf>
 <form>tajná</form>
-<tag lemma="tajný" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-ln94211-23-p3s2w4">
 <src.rf>manual</src.rf>
@@ -809,7 +809,7 @@
 <LM>w#w-ln94211-23-p3s2w5</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS1FS3-------</tag>
 </m>
 <m id="m-ln94211-23-p3s2w6">
 <src.rf>manual</src.rf>
@@ -1448,7 +1448,7 @@
 <LM>w#w-ln94211-23-p4s3w23</LM>
 </w.rf>
 <form>nalezení</form>
-<tag lemma="nalezení-2_^(*7ézt-2)" src="auto" selected="1">NNNS4-----A----</tag>
+<tag lemma="nalezení" src="auto" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln94211-23-p4s3w24">
 <src.rf>manual</src.rf>
@@ -1458,7 +1458,7 @@
 <form>konsenzu</form>
 <tag>
 <AM lemma="konsens" src="orig">NNIS2-----A----</AM>
-<AM lemma="konsenzus_,s_^(^DD**konsenz)" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="konsenzus" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-23-p4s3w25">

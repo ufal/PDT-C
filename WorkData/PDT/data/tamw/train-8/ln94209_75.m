@@ -337,7 +337,7 @@
 <LM>w#w-ln94209-75-p2s2w7</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS7----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS7----------</tag>
 </m>
 <m id="m-ln94209-75-p2s2w8">
 <src.rf>manual</src.rf>
@@ -473,7 +473,7 @@
 <form>Alfred</form>
 <tag>
 <AM lemma="Alfréd_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Alfred_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Alfred_;Y_,s_^(^DD**Alfréd)" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-75-p2s2w24">
@@ -500,7 +500,7 @@
 <LM>w#w-ln94209-75-p3s1w1</LM>
 </w.rf>
 <form>Úvodní</form>
-<tag lemma="úvodní_,s" src="orig" selected="1">AANS4----1A----</tag>
+<tag lemma="úvodní" src="orig" selected="1">AANS4----1A----</tag>
 </m>
 <m id="m-ln94209-75-p3s1w2">
 <src.rf>manual</src.rf>
@@ -1283,7 +1283,7 @@
 <LM>w#w-ln94209-75-p3s6w5</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8NS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8NS4---------1</tag>
 </m>
 <m id="m-ln94209-75-p3s6w6">
 <src.rf>manual</src.rf>
@@ -1323,7 +1323,7 @@
 <LM>w#w-ln94209-75-p3s6w10</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-ln94209-75-p3s6w11">
 <src.rf>manual</src.rf>
@@ -1331,7 +1331,7 @@
 <LM>w#w-ln94209-75-p3s6w11</LM>
 </w.rf>
 <form>talentu</form>
-<tag lemma="talent" src="auto" selected="1">NNIS2-----A----</tag>
+<tag lemma="talent-1" src="auto" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94209-75-p3s6w12">
 <src.rf>manual</src.rf>
@@ -1679,7 +1679,7 @@
 <LM>w#w-ln94209-75-p3s9w10</LM>
 </w.rf>
 <form>zaujatý</form>
-<tag lemma="zaujatý_^(proti_někomu/něčemu)_(*3mout)" src="auto" selected="1">AAIS4----1A----</tag>
+<tag lemma="zaujatý_^(upoutat_pozornost)" src="auto" selected="1">AAIS4----1A----</tag>
 </m>
 <m id="m-ln94209-75-p3s9w11">
 <src.rf>manual</src.rf>
@@ -2112,7 +2112,7 @@
 <form>Alfred</form>
 <tag>
 <AM lemma="Alfréd_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Alfred_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Alfred_;Y_,s_^(^DD**Alfréd)" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-75-p3s11Bw8">

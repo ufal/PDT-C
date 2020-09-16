@@ -137,7 +137,7 @@
 <AM lemma="Gary_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Gary_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Gary_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Gary_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Gary-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2408-001-p1s0W11-Ta">
@@ -406,7 +406,7 @@
 <form>svého</form>
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8MS4----------</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8ZS2----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8ZS2----------</AM>
 </tag>
 </m>
 <m id="m-wsj2408-001-p1s1W4-Ta">
@@ -852,7 +852,7 @@
 <tag>
 <AM lemma="Gary_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Gary_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Gary_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Gary-1_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2408-001-p1s2W26-Ta">

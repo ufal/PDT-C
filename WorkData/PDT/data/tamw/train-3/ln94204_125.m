@@ -74,7 +74,7 @@
 <LM>w#w-ln94204-125-p2s1Bw2</LM>
 </w.rf>
 <form>ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94204-125-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -90,7 +90,7 @@
 <LM>w#w-ln94204-125-p2s1Bw4</LM>
 </w.rf>
 <form>příjemné</form>
-<tag lemma="příjemný-1_^(všeob.,_poz._emoce)" src="orig" selected="1">AAFS3----1A----</tag>
+<tag lemma="příjemný_^(všeob.,_poz._emoce)" src="orig" selected="1">AAFS3----1A----</tag>
 </m>
 <m id="m-ln94204-125-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -390,7 +390,7 @@
 <LM>w#w-ln94204-125-p2s3w4</LM>
 </w.rf>
 <form>vyhecovaný</form>
-<tag lemma="vyhecovaný_,h_^(*2t)" src="orig" selected="1">AAIS4----1A----</tag>
+<tag lemma="vyhecovaný_^(*2t)" src="orig" selected="1">AAIS4----1A----</tag>
 </m>
 <m id="m-ln94204-125-p2s3w5">
 <src.rf>manual</src.rf>
@@ -746,7 +746,7 @@
 <LM>w#w-ln94204-125-p2s5w19</LM>
 </w.rf>
 <form>jakkoliv</form>
-<tag lemma="jakkoliv-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="jakkoliv-1_,s_^(^DD**jakkoli-1)" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94204-125-p2s5w20">
 <src.rf>manual</src.rf>

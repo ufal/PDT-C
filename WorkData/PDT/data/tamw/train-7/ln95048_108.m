@@ -35,7 +35,7 @@
 <LM>w#w-ln95048-108-p1s1w3</LM>
 </w.rf>
 <form>zastavení</form>
-<tag lemma="zastavení-1_^([také_z._se];_uvést_do_klidu:_auto,...)_(*5it-1)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="zastavení_^(*3it)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95048-108-p1s1w4">
 <src.rf>manual</src.rf>
@@ -265,7 +265,7 @@
 <LM>w#w-ln95048-108-p2s2w11</LM>
 </w.rf>
 <form>Dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95048-108-p2s2w12">
 <src.rf>manual</src.rf>
@@ -479,7 +479,7 @@
 <LM>w#w-ln95048-108-p2s4w9</LM>
 </w.rf>
 <form>ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln95048-108-p2s4w10">
 <src.rf>manual</src.rf>
@@ -827,7 +827,7 @@
 <form>NATO</form>
 <tag>
 <AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="NATO_;m_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="NATO-1_;m_^(Northtlantic_Treaty_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-108-p2s5w27">

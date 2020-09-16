@@ -1502,7 +1502,7 @@
 <form>svého</form>
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8MS4----------</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8ZS2----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8ZS2----------</AM>
 </tag>
 </m>
 <m id="m-wsj0098-001-p1s3W28-Ta">
@@ -1721,7 +1721,7 @@
 <tag>
 <AM lemma="první" src="auto">CrIS3----------</AM>
 <AM lemma="první" src="auto">CrMS3----------</AM>
-<AM lemma="první" src="auto" recommended="1">CrNS3----------</AM>
+<AM lemma="první-1" src="auto" recommended="1">CrNS3----------</AM>
 </tag>
 </m>
 <m id="m-wsj0098-001-p1s4W11-Ta">
@@ -2702,7 +2702,7 @@
 </w.rf>
 <form>Pat</form>
 <tag>
-<AM lemma="Pat_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Pat-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Pat_;Y" src="auto">NNFXX-----A----</AM>
 <AM lemma="pat" src="auto">NNIS1-----A----</AM>
 <AM lemma="pat" src="auto">NNIS4-----A----</AM>
@@ -3840,7 +3840,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0098-001-p1s10W42-Ta">
@@ -3886,7 +3886,7 @@
 <AM lemma="politika_^(věda)" src="auto">NNFP1-----A----</AM>
 <AM lemma="politika_^(věda)" src="auto">NNFP4-----A----</AM>
 <AM lemma="politika_^(věda)" src="auto">NNFP5-----A----</AM>
-<AM lemma="politika_^(věda)" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="politika" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="politikum" src="auto">NNNP7-----A----</AM>
 </tag>
 </m>
@@ -4032,7 +4032,7 @@
 <AM lemma="pět-1`5" src="auto">Cn-P3----------</AM>
 <AM lemma="pět-1`5" src="auto">Cn-P6----------</AM>
 <AM lemma="pět-1`5" src="auto" recommended="1">Cn-P7----------</AM>
-<AM lemma="pět-3`5" src="auto" selected="1">S2--------A----</AM>
+<AM lemma="pěti`5" src="auto" selected="1">S2--------A----</AM>
 <AM lemma="pět-3" src="manual">A2--------A----</AM>
 </tag>
 </m>
@@ -5858,7 +5858,7 @@
 <tag>
 <AM lemma="program-1" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="program-1" src="auto">NNIS4-----A----</AM>
-<AM lemma="program" src="manual" selected="1">NNIS4-----A----</AM>
+<AM lemma="program-1" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0098-001-p1s15W36-Ta">

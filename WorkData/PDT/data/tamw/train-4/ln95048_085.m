@@ -356,7 +356,7 @@
 <LM>w#w-ln95048-085-p2s2w18</LM>
 </w.rf>
 <form>dalo</form>
-<tag lemma="dát" src="orig" selected="1">VpNS----R-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln95048-085-p2s2w19">
 <src.rf>manual</src.rf>
@@ -1172,7 +1172,7 @@
 <LM>w#w-ln95048-085-p2s5w13</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8MS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8MS4----------</tag>
 </m>
 <m id="m-ln95048-085-p2s5w14">
 <src.rf>manual</src.rf>

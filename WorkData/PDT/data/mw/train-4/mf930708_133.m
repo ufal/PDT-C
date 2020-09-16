@@ -21,7 +21,7 @@
 <form>Wimbledon</form>
 <tag>
 <AM lemma="Wimbledon-2_^(tenis._turnaj)" src="orig">NNIS1-----A----</AM>
-<AM lemma="Wimbledon-2_^(tenis._turnaj)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Wimbledon" src="manual" selected="1">NNIS1-----A----</AM>
 <AM lemma="Wimbledon-1_;G" src="manual">NNIS1-----A----</AM>
 </tag>
 </m>
@@ -205,7 +205,7 @@
 <LM>w#w-mf930708-133-p2s1w20</LM>
 </w.rf>
 <form>Wimbledonu</form>
-<tag lemma="Wimbledon-1_;G" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Wimbledon" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-mf930708-133-p2s1w21">
 <src.rf>manual</src.rf>
@@ -1037,7 +1037,7 @@
 <form>Wimbledonu</form>
 <tag>
 <AM lemma="Wimbledon-2_^(tenis._turnaj)" src="orig">NNIS2-----A----</AM>
-<AM lemma="Wimbledon-2_^(tenis._turnaj)" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Wimbledon" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-133-p2s7w4">
@@ -1145,7 +1145,7 @@
 <LM>w#w-mf930708-133-p2s7w16</LM>
 </w.rf>
 <form>hnutí</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNS3-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNS3-----A----</tag>
 </m>
 <m id="m-mf930708-133-p2s7w17">
 <src.rf>manual</src.rf>

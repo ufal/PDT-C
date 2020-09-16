@@ -287,7 +287,7 @@
 <form>Abraham</form>
 <tag>
 <AM lemma="Abrahám_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Abraham_;Y" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
+<AM lemma="Abraham_;Y_,s_^(^DD**Abrahám)" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-042-p2s1w33">
@@ -455,7 +455,7 @@
 <LM>w#w-mf930702-042-p2s3w7</LM>
 </w.rf>
 <form>sezony</form>
-<tag lemma="sezona" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="sezona_,s_^(^DD**sezóna)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930702-042-p2s3w8">
 <src.rf>manual</src.rf>

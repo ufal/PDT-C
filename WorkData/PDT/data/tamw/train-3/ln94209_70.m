@@ -576,7 +576,7 @@
 <LM>w#w-ln94209-70-p2s2w21</LM>
 </w.rf>
 <form>zapomnění</form>
-<tag lemma="zapomnění_,a_,n_^(*2t)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="zapomnění_^(*2t)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln94209-70-p2s2w22">
 <src.rf>manual</src.rf>
@@ -687,7 +687,7 @@
 <LM>w#w-ln94209-70-p2s2w34</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-ln94209-70-p2s2w35">
 <src.rf>manual</src.rf>
@@ -889,7 +889,7 @@
 <LM>w#w-ln94209-70-p2s3w20</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-ln94209-70-p2s3w21">
 <src.rf>manual</src.rf>
@@ -1414,7 +1414,7 @@
 <LM>w#w-ln94209-70-p3s2w26</LM>
 </w.rf>
 <form>řečeného</form>
-<tag lemma="řečený_,n_^(*3it)" src="auto" selected="1">AAMS2----1A----</tag>
+<tag lemma="řečený_^(*3it)_(*5íci)" src="auto" selected="1">AAMS2----1A----</tag>
 </m>
 <m id="m-ln94209-70-p3s2w27">
 <src.rf>manual</src.rf>

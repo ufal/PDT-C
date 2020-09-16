@@ -175,7 +175,7 @@
 <LM>w#w-ln95042-075-p2s1Bw10</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP3----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP3----------</tag>
 </m>
 <m id="m-ln95042-075-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -273,7 +273,7 @@
 <LM>w#w-ln95042-075-p2s2w7</LM>
 </w.rf>
 <form>Starnovské</form>
-<tag lemma="Starnovská_;Y" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="Starnovská_;Y_^(*1ý)" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-ln95042-075-p2s2w8">
 <src.rf>manual</src.rf>
@@ -469,7 +469,7 @@
 <LM>w#w-ln95042-075-p3s2w7</LM>
 </w.rf>
 <form>lidi</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-ln95042-075-p3s2w8">
 <src.rf>manual</src.rf>
@@ -650,7 +650,7 @@
 <LM>w#w-ln95042-075-p3s3w20</LM>
 </w.rf>
 <form>Starnovská</form>
-<tag lemma="Starnovská_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Starnovská_;Y_^(*1ý)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95042-075-p3s3w21">
 <src.rf>manual</src.rf>
@@ -676,7 +676,7 @@
 <LM>w#w-ln95042-075-p4s1w2</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-ln95042-075-p4s1w3">
 <src.rf>manual</src.rf>
@@ -684,7 +684,7 @@
 <LM>w#w-ln95042-075-p4s1w3</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln95042-075-p4s1w4">
 <src.rf>manual</src.rf>
@@ -865,7 +865,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln95042-075-p4s2w4">
@@ -1209,7 +1209,7 @@
 <LM>w#w-ln95042-075-p5s1w12</LM>
 </w.rf>
 <form>Karlově</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUNS6M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUNS6M---------</tag>
 </m>
 <m id="m-ln95042-075-p5s1w13">
 <src.rf>manual</src.rf>
@@ -1452,7 +1452,7 @@
 <LM>w#w-ln95042-075-p5s3w12</LM>
 </w.rf>
 <form>horší</form>
-<tag lemma="špatný" src="orig" selected="1">AAFS1----2A----</tag>
+<tag lemma="horší" src="orig" selected="1">AAFS1----2A----</tag>
 </m>
 <m id="m-ln95042-075-p5s3w13">
 <src.rf>manual</src.rf>
@@ -2181,7 +2181,7 @@
 <LM>w#w-ln95042-075-p6s5w4</LM>
 </w.rf>
 <form>Karlova</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUNS2M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUNS2M---------</tag>
 </m>
 <m id="m-ln95042-075-p6s5w5">
 <src.rf>manual</src.rf>
@@ -2401,7 +2401,7 @@
 <LM>w#w-ln95042-075-p7s1w2</LM>
 </w.rf>
 <form>Starnovská</form>
-<tag lemma="Starnovská_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Starnovská_;Y_^(*1ý)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95042-075-p7s1w3">
 <src.rf>manual</src.rf>

@@ -45,7 +45,7 @@
 <LM>w#w-mf920924-001-p2s1w2</LM>
 </w.rf>
 <form>účetní</form>
-<tag lemma="účetní-2" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="účetní-3" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf920924-001-p2s1w3">
 <src.rf>manual</src.rf>
@@ -344,7 +344,7 @@
 <LM>w#w-mf920924-001-p5s2w5</LM>
 </w.rf>
 <form>nadanou</form>
-<tag lemma="nadaný-2_^(obdařit,_dotovat)_(*4t-2)" src="orig" selected="1">AAFS4----1A----</tag>
+<tag lemma="nadaný_^(*2t)" src="orig" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-mf920924-001-p5s2w6">
 <src.rf>manual</src.rf>
@@ -400,7 +400,7 @@
 <LM>w#w-mf920924-001-p5s2w12</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-mf920924-001-p5s2w13">
 <src.rf>manual</src.rf>

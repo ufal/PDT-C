@@ -151,7 +151,7 @@
 <LM>w#w-ln94200-130-p2s1Bw9</LM>
 </w.rf>
 <form>stetsonu</form>
-<tag lemma="stetson" src="orig" selected="1">NNIS6-----A---1</tag>
+<tag lemma="stetson_^(druh_klobouku)" src="orig" selected="1">NNIS6-----A---1</tag>
 </m>
 <m id="m-ln94200-130-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -272,7 +272,7 @@
 <LM>w#w-ln94200-130-p2s1Bw22</LM>
 </w.rf>
 <form>třeba</form>
-<tag lemma="třeba-2" src="auto" selected="1">Db-------------</tag>
+<tag lemma="třeba-1" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94200-130-p2s1Bw23">
 <src.rf>manual</src.rf>
@@ -1026,7 +1026,7 @@
 <LM>w#w-ln94200-130-p3s3w7</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-ln94200-130-p3s3w8">
 <src.rf>manual</src.rf>
@@ -1050,7 +1050,7 @@
 <LM>w#w-ln94200-130-p3s3w10</LM>
 </w.rf>
 <form>práva</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNP4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNP4-----A----</tag>
 </m>
 <m id="m-ln94200-130-p3s3w11">
 <src.rf>manual</src.rf>
@@ -1284,7 +1284,7 @@
 <LM>w#w-ln94200-130-p3s4w23</LM>
 </w.rf>
 <form>oka</form>
-<tag lemma="oko" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="oko-1" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln94200-130-p3s4w24">
 <src.rf>manual</src.rf>
@@ -1318,7 +1318,7 @@
 <LM>w#w-ln94200-130-p3s5w2</LM>
 </w.rf>
 <form>událost</form>
-<tag lemma="událost_,a_^(*3ý)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="událost" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94200-130-p3s5w3">
 <src.rf>manual</src.rf>
@@ -1377,7 +1377,7 @@
 <LM>w#w-ln94200-130-p3s5w9</LM>
 </w.rf>
 <form>zasazeným</form>
-<tag lemma="zasazený_^(něco_někam,_např._strom)_(*4dit)" src="orig" selected="1">AAIS7----1A----</tag>
+<tag lemma="zasazený_^(*3it)_(*4dit)" src="orig" selected="1">AAIS7----1A----</tag>
 </m>
 <m id="m-ln94200-130-p3s5w10">
 <src.rf>manual</src.rf>
@@ -1864,7 +1864,7 @@
 <LM>w#w-ln94200-130-p4s2w7</LM>
 </w.rf>
 <form>mužské</form>
-<tag lemma="mužský" src="orig" selected="1">AAFP4----1A----</tag>
+<tag lemma="mužský-1" src="orig" selected="1">AAFP4----1A----</tag>
 </m>
 <m id="m-ln94200-130-p4s2w8">
 <src.rf>manual</src.rf>
@@ -1888,7 +1888,7 @@
 <LM>w#w-ln94200-130-p4s2w10</LM>
 </w.rf>
 <form>role</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="role_^(svitek_poslání_pozemek)" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-ln94200-130-p4s2w11">
 <src.rf>manual</src.rf>
@@ -1968,7 +1968,7 @@
 <LM>w#w-ln94200-130-p4s2w20</LM>
 </w.rf>
 <form>jejíma</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9FD7FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9FD7FS3-------</tag>
 </m>
 <m id="m-ln94200-130-p4s2w21">
 <src.rf>manual</src.rf>
@@ -2076,7 +2076,7 @@
 <LM>w#w-ln94200-130-p4s2w33</LM>
 </w.rf>
 <form>mužských</form>
-<tag lemma="mužský" src="orig" selected="1">AAMP2----1A----</tag>
+<tag lemma="mužský-1" src="orig" selected="1">AAMP2----1A----</tag>
 </m>
 <m id="m-ln94200-130-p4s2w34">
 <src.rf>manual</src.rf>
@@ -2201,7 +2201,7 @@
 <LM>w#w-ln94200-130-p4s3w12</LM>
 </w.rf>
 <form>impulzivní</form>
-<tag lemma="impulzívní" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="impulzivní_,s_^(^DD**impulzívní)" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-ln94200-130-p4s3w13">
 <src.rf>manual</src.rf>
@@ -3397,7 +3397,7 @@
 <LM>w#w-ln94200-130-p5s2w10</LM>
 </w.rf>
 <form>duchu</form>
-<tag lemma="duch" src="orig" selected="1">NNMS6-----A---1</tag>
+<tag lemma="duch-1" src="orig" selected="1">NNMS6-----A---1</tag>
 </m>
 <m id="m-ln94200-130-p5s2w11">
 <src.rf>manual</src.rf>
@@ -3472,7 +3472,7 @@
 <LM>w#w-ln94200-130-p5s2w19</LM>
 </w.rf>
 <form>zpomalené</form>
-<tag lemma="zpomalený_,s_^(*2t)" src="auto" selected="1">AAIP1----1A----</tag>
+<tag lemma="zpomalený_^(*2t)_(*3it)" src="auto" selected="1">AAIP1----1A----</tag>
 </m>
 <m id="m-ln94200-130-p5s2w20">
 <src.rf>manual</src.rf>

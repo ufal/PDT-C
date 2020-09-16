@@ -27,7 +27,7 @@
 <LM>w#w-ln95044-052-p1s1w2</LM>
 </w.rf>
 <form>míří</form>
-<tag lemma="mířit_^(např._pistolí;_směřovat;_tvar_slovesa)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="mířit" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95044-052-p1s1w3">
 <src.rf>manual</src.rf>
@@ -221,7 +221,7 @@
 <LM>w#w-ln95044-052-p2s1w22</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-ln95044-052-p2s1w23">
 <src.rf>manual</src.rf>
@@ -818,7 +818,7 @@
 <LM>w#w-ln95044-052-p2s4w4</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95044-052-p2s4w5">
 <src.rf>manual</src.rf>

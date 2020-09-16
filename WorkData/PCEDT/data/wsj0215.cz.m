@@ -113,7 +113,7 @@
 <AM lemma="franchisa_,h_,t_^(forma_podnikání)" src="auto">NNFP4-----A----</AM>
 <AM lemma="franchisa_,h_,t_^(forma_podnikání)" src="auto">NNFP5-----A----</AM>
 <AM lemma="franchisa_,h_,t_^(forma_podnikání)" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="frančíza_,h_^(forma_podnikání)_(^DD**franchisa)" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="frančíza_,h_^(forma_podnikání)_(^GC**franchisa)" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0215-001-p1s0W12-Ta">
@@ -469,7 +469,7 @@
 <AM lemma="franchisa_,h_,t_^(forma_podnikání)" src="auto">NNFP4-----A----</AM>
 <AM lemma="franchisa_,h_,t_^(forma_podnikání)" src="auto">NNFP5-----A----</AM>
 <AM lemma="franchisa_,h_,t_^(forma_podnikání)" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="frančíza_,h_^(forma_podnikání)_(^DD**franchisa)" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="frančíza_,h_^(forma_podnikání)_(^GC**franchisa)" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0215-001-p1s2W7-Ta">
@@ -932,7 +932,7 @@
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8IP1---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8IP5---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS1---------1</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8NS4---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8NS4---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS5---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8YP4---------1</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOFP-----------</AM>
@@ -949,7 +949,7 @@
 <tag>
 <AM lemma="práv_^(oprávněný)" src="auto">ACNS------A----</AM>
 <AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto">NNNS1-----A----</AM>
-<AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto" recommended="1">NNNS4-----A----</AM>
+<AM lemma="právo" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto">NNNS5-----A----</AM>
 </tag>
 </m>
@@ -963,7 +963,7 @@
 <AM lemma="první" src="auto">CrIS2----------</AM>
 <AM lemma="první" src="auto">CrMS2----------</AM>
 <AM lemma="první" src="auto">CrMS4----------</AM>
-<AM lemma="první" src="auto" recommended="1">CrNS2----------</AM>
+<AM lemma="první-1" src="auto" recommended="1">CrNS2----------</AM>
 </tag>
 </m>
 <m id="m-wsj0215-001-p1s3W21-Ta">
@@ -1190,7 +1190,7 @@
 <tag>
 <AM lemma="franchisa_,h_,t_^(forma_podnikání)" src="auto">NNFS3-----A----</AM>
 <AM lemma="franchisa_,h_,t_^(forma_podnikání)" src="auto" recommended="1">NNFS6-----A----</AM>
-<AM lemma="frančíza_,h_^(forma_podnikání)_(^DD**franchisa)" src="manual" selected="1">NNFS6-----A----</AM>
+<AM lemma="frančíza_,h_^(forma_podnikání)_(^GC**franchisa)" src="manual" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0215-001-p1s3W34-Ta">

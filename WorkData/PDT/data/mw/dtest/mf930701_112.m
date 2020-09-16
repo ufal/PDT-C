@@ -77,7 +77,7 @@
 <LM>w#w-mf930701-112-p1s2w3</LM>
 </w.rf>
 <form>LET</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-mf930701-112-p1s2w4">
 <src.rf>manual</src.rf>
@@ -244,7 +244,7 @@
 <LM>w#w-mf930701-112-p2s2w2</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-mf930701-112-p2s2w3">
 <src.rf>manual</src.rf>
@@ -316,7 +316,7 @@
 <LM>w#w-mf930701-112-p2s2w11</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-mf930701-112-p2s2w12">
 <src.rf>manual</src.rf>
@@ -390,7 +390,7 @@
 <LM>w#w-mf930701-112-p2s3w3</LM>
 </w.rf>
 <form>prvního</form>
-<tag lemma="první" src="orig" selected="1">CrIS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS2----------</tag>
 </m>
 <m id="m-mf930701-112-p2s3w4">
 <src.rf>manual</src.rf>
@@ -454,7 +454,7 @@
 <LM>w#w-mf930701-112-p2s3w11</LM>
 </w.rf>
 <form>manažer</form>
-<tag lemma="manažer" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="manažer-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-112-p2s3w12">
 <src.rf>manual</src.rf>
@@ -470,7 +470,7 @@
 <LM>w#w-mf930701-112-p2s3w13</LM>
 </w.rf>
 <form>Miroslav</form>
-<tag lemma="Miroslav_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Miroslav-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-112-p2s3w14">
 <src.rf>manual</src.rf>
@@ -952,7 +952,7 @@
 <LM>w#w-mf930701-112-p2s8w3</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-mf930701-112-p2s8w4">
 <src.rf>manual</src.rf>
@@ -1036,7 +1036,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-2" src="auto">Db-------------</AM>
-<AM lemma="třeba-3" src="manual" selected="1">TT-------------</AM>
+<AM lemma="třeba-2_^(například)" src="manual" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-112-p2s9w5">

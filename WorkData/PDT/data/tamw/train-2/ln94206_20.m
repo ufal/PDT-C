@@ -655,7 +655,7 @@
 <LM>w#w-ln94206-20-p4s1w2</LM>
 </w.rf>
 <form>prvních</form>
-<tag lemma="první" src="orig" selected="1">CrIP2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIP2----------</tag>
 </m>
 <m id="m-ln94206-20-p4s1w3">
 <src.rf>manual</src.rf>

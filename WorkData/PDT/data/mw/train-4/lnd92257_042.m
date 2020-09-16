@@ -376,7 +376,7 @@
 <LM>w#w-lnd92257-042-p3s4w4</LM>
 </w.rf>
 <form>pozornost</form>
-<tag lemma="pozornost-1_^(všímavý,_milý,_soustředěný)_(*5ý-1)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="pozornost-1_^(*5ý-1)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-lnd92257-042-p3s4w5">
 <src.rf>manual</src.rf>
@@ -750,7 +750,7 @@
 <LM>w#w-lnd92257-042-p3s7w2</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP2-P1-------</tag>
 </m>
 <m id="m-lnd92257-042-p3s7w3">
 <src.rf>manual</src.rf>

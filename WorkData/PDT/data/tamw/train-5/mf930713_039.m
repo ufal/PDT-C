@@ -35,7 +35,7 @@
 <LM>w#w-mf930713-039-p1s1w3</LM>
 </w.rf>
 <form>události</form>
-<tag lemma="událost_,a_^(*3ý)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="událost" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930713-039-p1s1w4">
 <src.rf>manual</src.rf>

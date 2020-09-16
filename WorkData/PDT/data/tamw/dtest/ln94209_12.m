@@ -197,7 +197,7 @@
 <LM>w#w-ln94209-12-p2s1Bw16</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-ln94209-12-p2s1Bw17">
 <src.rf>manual</src.rf>

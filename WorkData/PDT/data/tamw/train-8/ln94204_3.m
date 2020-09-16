@@ -59,7 +59,7 @@
 <LM>w#w-ln94204-3-p1s1w6</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FP4---------1</tag>
 </m>
 <m id="m-ln94204-3-p1s1w7">
 <src.rf>manual</src.rf>
@@ -553,7 +553,7 @@
 <LM>w#w-ln94204-3-p3s1w4</LM>
 </w.rf>
 <form>práva</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNP4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNP4-----A----</tag>
 </m>
 <m id="m-ln94204-3-p3s1w5">
 <src.rf>manual</src.rf>
@@ -1363,7 +1363,7 @@
 <LM>w#w-ln94204-3-p8s1w14</LM>
 </w.rf>
 <form>členům</form>
-<tag lemma="člen" src="orig" selected="1">NNMP3-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP3-----A----</tag>
 </m>
 <m id="m-ln94204-3-p8s1w15">
 <src.rf>manual</src.rf>
@@ -1507,7 +1507,7 @@
 <LM>w#w-ln94204-3-p8s1w32</LM>
 </w.rf>
 <form>členů</form>
-<tag lemma="člen" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94204-3-p8s1w33">
 <src.rf>manual</src.rf>
@@ -2433,7 +2433,7 @@
 <LM>w#w-ln94204-3-p11s5w14</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln94204-3-p11s5w15">
 <src.rf>manual</src.rf>
@@ -2521,7 +2521,7 @@
 <LM>w#w-ln94204-3-p11s5w25</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln94204-3-p11s5w26">
 <src.rf>manual</src.rf>
@@ -2904,7 +2904,7 @@
 <LM>w#w-ln94204-3-p12s1w27</LM>
 </w.rf>
 <form>zaměstnanosti</form>
-<tag lemma="zaměstnanost-2_^(politika_z.;_přednost_před_odvoz.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="zaměstnanost_^(*3ý)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94204-3-p12s1w28">
 <src.rf>manual</src.rf>
@@ -3010,7 +3010,7 @@
 <LM>w#w-ln94204-3-p13s1w5</LM>
 </w.rf>
 <form>stanovených</form>
-<tag lemma="stanovený_^(určit)_(*3it)" src="orig" selected="1">AAIP2----1A----</tag>
+<tag lemma="stanovený_^(*3it)" src="orig" selected="1">AAIP2----1A----</tag>
 </m>
 <m id="m-ln94204-3-p13s1w6">
 <src.rf>manual</src.rf>

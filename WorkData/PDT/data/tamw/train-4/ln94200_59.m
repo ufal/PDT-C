@@ -623,7 +623,7 @@
 <LM>w#w-ln94200-59-p2s3w26</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-ln94200-59-p2s3w27">
 <src.rf>manual</src.rf>
@@ -991,7 +991,7 @@
 <LM>w#w-ln94200-59-p2s6w13</LM>
 </w.rf>
 <form>nesprávné</form>
-<tag lemma="správný_^(podle_něj._měřítek;_př._chlap,_míra,...)" src="orig" selected="1">AAMP4----1N----</tag>
+<tag lemma="správný" src="orig" selected="1">AAMP4----1N----</tag>
 </m>
 <m id="m-ln94200-59-p2s6w14">
 <src.rf>manual</src.rf>
@@ -1026,7 +1026,7 @@
 </w.rf>
 <form>Dolea</form>
 <tag>
-<AM lemma="Dole_;Y" src="orig" selected="1">NNMS2-----A----</AM>
+<AM lemma="Doleus_;Y" src="orig" selected="1">NNMS2-----A----</AM>
 <AM lemma="Doleus_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Doleus_;Y" src="auto">NNMS4-----A----</AM>
 </tag>

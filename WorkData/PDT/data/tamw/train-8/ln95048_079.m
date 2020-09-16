@@ -912,7 +912,7 @@
 <LM>w#w-ln95048-079-p3s4w1</LM>
 </w.rf>
 <form>Modré</form>
-<tag lemma="modrý" src="orig" selected="1">AAFP1----1A----</tag>
+<tag lemma="modrý_;o" src="orig" selected="1">AAFP1----1A----</tag>
 </m>
 <m id="m-ln95048-079-p3s4w2">
 <src.rf>manual</src.rf>
@@ -1119,7 +1119,7 @@
 <form>NATO</form>
 <tag>
 <AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="NATO_;m_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="NATO-1_;m_^(Northtlantic_Treaty_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-079-p4s1w17">
@@ -1428,7 +1428,7 @@
 <LM>w#w-ln95048-079-p4s3w5</LM>
 </w.rf>
 <form>modrých</form>
-<tag lemma="modrý" src="orig" selected="1">AAFP2----1A----</tag>
+<tag lemma="modrý_;o" src="orig" selected="1">AAFP2----1A----</tag>
 </m>
 <m id="m-ln95048-079-p4s3w6">
 <src.rf>manual</src.rf>
@@ -1750,7 +1750,7 @@
 <LM>w#w-ln95048-079-p4s4w3</LM>
 </w.rf>
 <form>dál</form>
-<tag lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="dál-3_,s_^(také,_za_další)_(^DD**dále-3)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95048-079-p4s4w4">
 <src.rf>manual</src.rf>
@@ -2053,7 +2053,7 @@
 <LM>w#w-ln95048-079-p5s1w9</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-ln95048-079-p5s1w10">
 <src.rf>manual</src.rf>
@@ -2269,7 +2269,7 @@
 <LM>w#w-ln95048-079-p5s2w15</LM>
 </w.rf>
 <form>co</form>
-<tag lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="co-5_^(př._co_nejméně,_co_nevidět_atd.)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95048-079-p5s2w16">
 <src.rf>manual</src.rf>
@@ -2359,7 +2359,7 @@
 <LM>w#w-ln95048-079-p5s3w7</LM>
 </w.rf>
 <form>modrých</form>
-<tag lemma="modrý" src="orig" selected="1">AAIP2----1A----</tag>
+<tag lemma="modrý_;o" src="orig" selected="1">AAIP2----1A----</tag>
 </m>
 <m id="m-ln95048-079-p5s3w8">
 <src.rf>manual</src.rf>
@@ -2579,7 +2579,7 @@
 <LM>w#w-ln95048-079-p5s5w2</LM>
 </w.rf>
 <form>modrých</form>
-<tag lemma="modrý" src="orig" selected="1">AAFP2----1A----</tag>
+<tag lemma="modrý_;o" src="orig" selected="1">AAFP2----1A----</tag>
 </m>
 <m id="m-ln95048-079-p5s5w3">
 <src.rf>manual</src.rf>
@@ -2728,7 +2728,7 @@
 <LM>w#w-ln95048-079-p5s6w2</LM>
 </w.rf>
 <form>Ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln95048-079-p5s6w3">
 <src.rf>manual</src.rf>
@@ -2832,7 +2832,7 @@
 <LM>w#w-ln95048-079-p5s6w15</LM>
 </w.rf>
 <form>dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95048-079-p5s6w16">
 <src.rf>manual</src.rf>

@@ -225,7 +225,7 @@
 <LM>w#w-ln94201-3-p2s1w19</LM>
 </w.rf>
 <form>agrosalon</form>
-<tag lemma="agrosalon" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="agrosalon_,s_^(^DD**agrosalón)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94201-3-p2s1w20">
 <src.rf>manual</src.rf>
@@ -493,7 +493,7 @@
 <LM>w#w-ln94201-3-p2s3w5</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFP1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFP1----------</tag>
 </m>
 <m id="m-ln94201-3-p2s3w6">
 <src.rf>manual</src.rf>

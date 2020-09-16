@@ -117,7 +117,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -605,7 +605,7 @@
 <form>duchové</form>
 <tag>
 <AM lemma="duch" src="orig">NNMP1-----A----</AM>
-<AM lemma="duch" src="auto" recommended="1" selected="1">NNMP1-----A---1</AM>
+<AM lemma="duch-1" src="auto" recommended="1" selected="1">NNMP1-----A---1</AM>
 <AM lemma="duch" src="auto">NNMP5-----A---1</AM>
 <AM lemma="duchový" src="auto">AAFP1----1A----</AM>
 <AM lemma="duchový" src="auto">AAFP4----1A----</AM>
@@ -713,7 +713,7 @@
 <LM>w#w-vesm9301-012-p3s2w1</LM>
 </w.rf>
 <form>LICHTENBERG</form>
-<tag lemma="Lichtenberg_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lichtenberg-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9301-012-p3s2w2">
 <src.rf>manual</src.rf>

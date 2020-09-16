@@ -125,7 +125,7 @@
 <LM>w#w-lnd91303-054-p1s2w5</LM>
 </w.rf>
 <form>třídní</form>
-<tag lemma="třídní" src="orig" selected="1">AAFS2----1A----</tag>
+<tag lemma="třídní-1" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-lnd91303-054-p1s2w6">
 <src.rf>manual</src.rf>
@@ -598,7 +598,7 @@
 <form>Štěpán</form>
 <tag>
 <AM lemma="Štěpán_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Štěpán_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Štěpán-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-054-p3s5w5">

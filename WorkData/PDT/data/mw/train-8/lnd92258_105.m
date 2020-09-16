@@ -280,7 +280,7 @@
 <LM>w#w-lnd92258-105-p2s3w2</LM>
 </w.rf>
 <form>Lom</form>
-<tag lemma="Lom_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lom-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-105-p2s3w3">
 <src.rf>manual</src.rf>
@@ -598,7 +598,7 @@
 <form>ani</form>
 <tag>
 <AM lemma="ani-1" src="auto">J^-------------</AM>
-<AM lemma="ani21" src="manual" selected="1">TT-------------</AM>
+<AM lemma="ani-2" src="manual" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-105-p2s5w5">
@@ -721,7 +721,7 @@
 <LM>w#w-lnd92258-105-p2s6w9</LM>
 </w.rf>
 <form>naše</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP4-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP4-P1-------</tag>
 </m>
 <m id="m-lnd92258-105-p2s6w10">
 <src.rf>manual</src.rf>
@@ -1285,7 +1285,7 @@
 <LM>w#w-lnd92258-105-p2s12w7</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-lnd92258-105-p2s12w8">
 <src.rf>manual</src.rf>
@@ -1325,7 +1325,7 @@
 <LM>w#w-lnd92258-105-p2s12w12</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-lnd92258-105-p2s12w13">
 <src.rf>manual</src.rf>
@@ -1707,7 +1707,7 @@
 <LM>w#w-lnd92258-105-p2s16w3</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8NS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8NS4---------1</tag>
 </m>
 <m id="m-lnd92258-105-p2s16w4">
 <src.rf>manual</src.rf>
@@ -1829,7 +1829,7 @@
 <LM>w#w-lnd92258-105-p2s17w2</LM>
 </w.rf>
 <form>dál</form>
-<tag lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="dál-3_,s_^(také,_za_další)_(^DD**dále-3)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd92258-105-p2s17w3">
 <src.rf>manual</src.rf>
@@ -2299,7 +2299,7 @@
 <LM>w#w-lnd92258-105-p2s22w13</LM>
 </w.rf>
 <form>lidi</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-lnd92258-105-p2s22w14">
 <src.rf>manual</src.rf>
@@ -2363,7 +2363,7 @@
 <LM>w#w-lnd92258-105-p2s22w21</LM>
 </w.rf>
 <form>hodné</form>
-<tag lemma="hodný-1_^(být_hoden)" src="orig" selected="1">AAMP4----1A----</tag>
+<tag lemma="hodný_^(být_hoden;nezlobivý)" src="orig" selected="1">AAMP4----1A----</tag>
 </m>
 <m id="m-lnd92258-105-p2s22w22">
 <src.rf>manual</src.rf>

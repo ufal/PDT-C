@@ -117,7 +117,7 @@
 <LM>w#w-ln94205-17-p2s1w12</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-ln94205-17-p2s1w13">
 <src.rf>manual</src.rf>
@@ -224,7 +224,7 @@
 <LM>w#w-ln94205-17-p2s2w4</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS6---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS6---------1</tag>
 </m>
 <m id="m-ln94205-17-p2s2w5">
 <src.rf>manual</src.rf>
@@ -434,7 +434,7 @@
 <LM>w#w-ln94205-17-p3s1w10</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94205-17-p3s1w11">
 <src.rf>manual</src.rf>

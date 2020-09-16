@@ -67,7 +67,7 @@
 <LM>w#w-ln94207-140-p1s1w7</LM>
 </w.rf>
 <form>naši</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSMP1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSMP1-P1-------</tag>
 </m>
 <m id="m-ln94207-140-p1s1w8">
 <src.rf>manual</src.rf>
@@ -83,7 +83,7 @@
 <LM>w#w-ln94207-140-p1s1w9</LM>
 </w.rf>
 <form>málo</form>
-<tag lemma="málo-1_^(málo_+_2._p.,_málo_peněz)" src="orig" selected="1">Ca--4----------</tag>
+<tag lemma="málo-1_^(málo_peněz)" src="orig" selected="1">Ca--4----------</tag>
 </m>
 <m id="m-ln94207-140-p1s1w10">
 <src.rf>manual</src.rf>
@@ -540,7 +540,7 @@
 <AM lemma="Bristol_;G" src="orig">NNIS6-----A----</AM>
 <AM lemma="Bristol_;G" src="auto">NNIS2-----A----</AM>
 <AM lemma="Bristol_;G" src="auto">NNIS3-----A----</AM>
-<AM lemma="Bristol_;G" src="auto" recommended="1" selected="1">NNIS6-----A---1</AM>
+<AM lemma="Bristol_;G_;m" src="auto" recommended="1" selected="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln94207-140-p3s1w28">
@@ -575,7 +575,7 @@
 <LM>w#w-ln94207-140-p3s2w3</LM>
 </w.rf>
 <form>dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94207-140-p3s2w4">
 <src.rf>manual</src.rf>
@@ -1646,7 +1646,7 @@
 <LM>w#w-ln94207-140-p3s12w4</LM>
 </w.rf>
 <form>stojí</form>
-<tag lemma="stát-4_^(něco_stojí_peníze)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94207-140-p3s12w5">
 <src.rf>manual</src.rf>

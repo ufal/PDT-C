@@ -89,7 +89,7 @@
 <LM>w#w-cmpr9415-049-p3s1Aw4</LM>
 </w.rf>
 <form>NEDÁ</form>
-<tag lemma="dát" src="orig" selected="1">VB-S---3P-NAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VB-S---3P-NAP--</tag>
 </m>
 <m id="m-cmpr9415-049-p3s1Aw5">
 <src.rf>manual</src.rf>
@@ -161,7 +161,7 @@
 <LM>w#w-cmpr9415-049-p3s1Aw13</LM>
 </w.rf>
 <form>talent</form>
-<tag lemma="talent" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="talent-2" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-049-p3s1Aw14">
 <src.rf>manual</src.rf>
@@ -719,7 +719,7 @@
 <LM>w#w-cmpr9415-049-p3s4w6</LM>
 </w.rf>
 <form>míří</form>
-<tag lemma="mířit_^(např._pistolí;_směřovat;_tvar_slovesa)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="mířit" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9415-049-p3s4w7">
 <src.rf>manual</src.rf>

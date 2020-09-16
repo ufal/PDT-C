@@ -409,7 +409,7 @@
 <LM>w#w-ln95046-035-p3s1Aw3</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln95046-035-p3s1Aw4">
 <src.rf>manual</src.rf>
@@ -620,7 +620,7 @@
 <LM>w#w-ln95046-035-p3s1Aw29</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln95046-035-p3s1Aw30">
 <src.rf>manual</src.rf>
@@ -628,7 +628,7 @@
 <LM>w#w-ln95046-035-p3s1Aw30</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-ln95046-035-p3s1Aw31">
 <src.rf>manual</src.rf>
@@ -1192,7 +1192,7 @@
 <LM>w#w-ln95046-035-p3s3w6</LM>
 </w.rf>
 <form>lidem</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP3-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP3-----A----</tag>
 </m>
 <m id="m-ln95046-035-p3s3w7">
 <src.rf>manual</src.rf>
@@ -1361,7 +1361,7 @@
 <LM>w#w-ln95046-035-p3s4w4</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-ln95046-035-p3s4w5">
 <src.rf>manual</src.rf>
@@ -1385,7 +1385,7 @@
 <LM>w#w-ln95046-035-p3s4w7</LM>
 </w.rf>
 <form>prvního</form>
-<tag lemma="první" src="orig" selected="1">CrMS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrMS4----------</tag>
 </m>
 <m id="m-ln95046-035-p3s4w8">
 <src.rf>manual</src.rf>
@@ -1457,7 +1457,7 @@
 <LM>w#w-ln95046-035-p3s4w17</LM>
 </w.rf>
 <form>datum</form>
-<tag lemma="datum_^(kalendářní)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="datum-1_^(kalendářní)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln95046-035-p3s4w18">
 <src.rf>manual</src.rf>
@@ -1721,7 +1721,7 @@
 <LM>w#w-ln95046-035-p4s2w8</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-035-p4s2w9">
 <src.rf>manual</src.rf>

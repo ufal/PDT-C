@@ -43,7 +43,7 @@
 <LM>w#w-d1t1284-6</LM>
 </w.rf>
 <form>dalo</form>
-<tag lemma="dát" src="auto" recommended="1">VpNS----R-AAP--</tag>
+<tag lemma="dát-1" src="auto" recommended="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m126-d1t1284-7">
 <w.rf>
@@ -476,7 +476,7 @@
 <AM lemma="džíny" src="auto">NNFP4-----A----</AM>
 <AM lemma="džíny" src="auto">NNFP5-----A----</AM>
 <AM lemma="džíny" src="auto">NNIP1-----A----</AM>
-<AM lemma="džíny" src="auto" recommended="1">NNIP4-----A----</AM>
+<AM lemma="džíny-2" src="auto" recommended="1">NNIP4-----A----</AM>
 <AM lemma="džíny" src="auto">NNIP5-----A----</AM>
 <AM lemma="džíny" src="auto">NNIP7-----A----</AM>
 </tag>
@@ -558,7 +558,7 @@
 </w.rf>
 <form>džíny</form>
 <tag>
-<AM lemma="džíny" src="auto" recommended="1">NNFP1-----A----</AM>
+<AM lemma="džíny-1" src="auto" recommended="1">NNFP1-----A----</AM>
 <AM lemma="džíny" src="auto">NNFP4-----A----</AM>
 <AM lemma="džíny" src="auto">NNFP5-----A----</AM>
 <AM lemma="džíny" src="auto">NNIP1-----A----</AM>
@@ -676,7 +676,7 @@
 <AM lemma="džíny" src="auto">NNFP1-----A----</AM>
 <AM lemma="džíny" src="auto">NNFP4-----A----</AM>
 <AM lemma="džíny" src="auto">NNFP5-----A----</AM>
-<AM lemma="džíny" src="auto" recommended="1">NNIP1-----A----</AM>
+<AM lemma="džíny-2" src="auto" recommended="1">NNIP1-----A----</AM>
 <AM lemma="džíny" src="auto">NNIP4-----A----</AM>
 <AM lemma="džíny" src="auto">NNIP5-----A----</AM>
 <AM lemma="džíny" src="auto">NNIP7-----A----</AM>
@@ -851,7 +851,7 @@
 </w.rf>
 <form>ne</form>
 <tag>
-<AM lemma="ne" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ne-1" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="neděle_:B" src="auto">NNFXX-----A---8</AM>
 </tag>
 </m>
@@ -1219,7 +1219,7 @@
 <LM>w#w-d1t1321-8</LM>
 </w.rf>
 <form>vypadalo</form>
-<tag lemma="vypadat" src="auto" recommended="1">VpNS----R-AAI--</tag>
+<tag lemma="vypadat-1_^(ty_vypadáš)" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m126-d-id123712-punct">
 <w.rf>
@@ -1512,7 +1512,7 @@
 </w.rf>
 <form>džíny</form>
 <tag>
-<AM lemma="džíny" src="auto" recommended="1">NNFP1-----A----</AM>
+<AM lemma="džíny-1" src="auto" recommended="1">NNFP1-----A----</AM>
 <AM lemma="džíny" src="auto">NNFP4-----A----</AM>
 <AM lemma="džíny" src="auto">NNFP5-----A----</AM>
 <AM lemma="džíny" src="auto">NNIP1-----A----</AM>
@@ -1695,7 +1695,7 @@
 </w.rf>
 <form>ne</form>
 <tag>
-<AM lemma="ne" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ne-1" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="neděle_:B" src="auto">NNFXX-----A---8</AM>
 </tag>
 </m>
@@ -1729,7 +1729,7 @@
 </w.rf>
 <form>nám</form>
 <tag>
-<AM lemma="já" src="auto" recommended="1">PP-P3--1-------</AM>
+<AM lemma="my" src="auto" recommended="1">PP-P3--1-------</AM>
 <AM lemma="náměstí_:B" src="auto">NNNXX-----A---8</AM>
 </tag>
 </m>
@@ -2102,7 +2102,7 @@
 <tag>
 <AM lemma="můj_^(přivlast.)" src="auto">PSHP1-S1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSHP5-S1-------</AM>
-<AM lemma="můj_^(přivlast.)" src="auto" recommended="1">PSHS1-S1-------</AM>
+<AM lemma="můj" src="auto" recommended="1">PSHS1-S1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSHS5-S1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSIP1-S1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSIP5-S1-------</AM>
@@ -2576,7 +2576,7 @@
 <form>pionýrky</form>
 <tag>
 <AM lemma="pionýrka_^(bota)" src="auto" recommended="1">NNFP1-----A----</AM>
-<AM lemma="pionýrka_^(bota)" src="auto" selected="1">NNFP4-----A----</AM>
+<AM lemma="pionýrka_^(*2)" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="pionýrka_^(bota)" src="auto">NNFP5-----A----</AM>
 <AM lemma="pionýrka_^(bota)" src="auto">NNFS2-----A----</AM>
 </tag>
@@ -3945,7 +3945,7 @@
 <AM lemma="mužský" src="auto" recommended="1">AANS1----1A----</AM>
 <AM lemma="mužský" src="auto">AANS4----1A----</AM>
 <AM lemma="mužský" src="auto">AANS5----1A----</AM>
-<AM lemma="mužský_^(osoba)" src="auto" selected="1">NNMP4-----A----</AM>
+<AM lemma="mužský-2_^(osoba)" src="auto" selected="1">NNMP4-----A----</AM>
 </tag>
 </m>
 <m id="m126-d1t1428-16">

@@ -91,7 +91,7 @@
 <LM>w#w-mf930709-014-p3s1w10</LM>
 </w.rf>
 <form>ucha</form>
-<tag lemma="ucho" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="ucho-1" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-mf930709-014-p3s1w11">
 <src.rf>manual</src.rf>
@@ -109,7 +109,7 @@
 <LM>w#w-mf930709-014-p3s2w1</LM>
 </w.rf>
 <form>Dítě</form>
-<tag lemma="dítě" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="dítě-1" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf930709-014-p3s2w2">
 <src.rf>manual</src.rf>

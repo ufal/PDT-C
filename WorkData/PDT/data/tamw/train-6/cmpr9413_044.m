@@ -836,7 +836,7 @@
 <LM>w#w-cmpr9413-044-p7s1w4</LM>
 </w.rf>
 <form>Černá</form>
-<tag lemma="černý" src="auto" selected="1">AAFS1----1A----</tag>
+<tag lemma="černý_;o" src="auto" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-cmpr9413-044-p7s1w5">
 <src.rf>manual</src.rf>
@@ -4419,7 +4419,7 @@
 <LM>w#w-cmpr9413-044-p17s1w17</LM>
 </w.rf>
 <form>klenotů</form>
-<tag lemma="klenot" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="klenot-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-cmpr9413-044-p17s1w18">
 <src.rf>manual</src.rf>
@@ -4453,7 +4453,7 @@
 <form>bižuterie</form>
 <tag>
 <AM lemma="bižuterie" src="orig">NNFS2-----A----</AM>
-<AM lemma="bižuterie_,s_^(^DD**bižutérie)" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="bižuterie" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-044-p17s1w22">
@@ -4472,7 +4472,7 @@
 <form>parfumerie</form>
 <tag>
 <AM lemma="parfumerie" src="orig">NNFS2-----A----</AM>
-<AM lemma="parfumerie_,s_^(^DD**parfumérie)" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="parfumerie" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-044-p17s1w24">
@@ -5156,7 +5156,7 @@
 <LM>w#w-cmpr9413-044-p20s1w3</LM>
 </w.rf>
 <form>Karlovy</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUIP1M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUIP1M---------</tag>
 </m>
 <m id="m-cmpr9413-044-p20s1w4">
 <src.rf>manual</src.rf>
@@ -5284,7 +5284,7 @@
 <LM>w#w-cmpr9413-044-p20s1w19</LM>
 </w.rf>
 <form>Černá</form>
-<tag lemma="černý" src="auto" selected="1">AAFS1----1A----</tag>
+<tag lemma="černý_;o" src="auto" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-cmpr9413-044-p20s1w20">
 <src.rf>manual</src.rf>
@@ -6868,7 +6868,7 @@
 <LM>w#w-cmpr9413-044-p27s2w14</LM>
 </w.rf>
 <form>Bubeneč</form>
-<tag lemma="Bubeneč_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Bubeneč-1_;G" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-044-p27s2w15">
 <src.rf>manual</src.rf>

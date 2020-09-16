@@ -195,7 +195,7 @@
 <LM>w#w-mf920902-155-p2s2w9</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-mf920902-155-p2s2w10">
 <src.rf>manual</src.rf>
@@ -641,7 +641,7 @@
 <LM>w#w-mf920902-155-p4s1w6</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-mf920902-155-p4s1w7">
 <src.rf>manual</src.rf>

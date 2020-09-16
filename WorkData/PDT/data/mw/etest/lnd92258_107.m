@@ -59,7 +59,7 @@
 <LM>w#w-lnd92258-107-p1s1w6</LM>
 </w.rf>
 <form>vypadat</form>
-<tag lemma="vypadat" src="orig" selected="1">Vf--------A-I--</tag>
+<tag lemma="vypadat-1_^(ty_vypadáš)" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-lnd92258-107-p1s1w7">
 <src.rf>manual</src.rf>
@@ -109,7 +109,7 @@
 <LM>w#w-lnd92258-107-p1s2w3</LM>
 </w.rf>
 <form>kolosy</form>
-<tag lemma="kolos" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="kolos-1" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-lnd92258-107-p1s2w4">
 <src.rf>manual</src.rf>

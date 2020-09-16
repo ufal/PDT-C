@@ -116,7 +116,7 @@
 <LM>w#w-wsj0403-001-p1s1W5</LM>
 </w.rf>
 <form>ač</form>
-<tag lemma="ač" src="auto" recommended="1">J,-------------</tag>
+<tag lemma="ač-1" src="auto" recommended="1">J,-------------</tag>
 </m>
 <m id="m-wsj0403-001-p1s1W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -186,7 +186,7 @@
 <form>nás</form>
 <tag>
 <AM lemma="já" src="auto">PP-P2--1-------</AM>
-<AM lemma="já" src="auto" recommended="1">PP-P4--1-------</AM>
+<AM lemma="my" src="auto" recommended="1">PP-P4--1-------</AM>
 <AM lemma="já" src="auto">PP-P6--1-------</AM>
 </tag>
 </m>
@@ -881,7 +881,7 @@
 <AM lemma="tvůj_^(přivlast.)" src="auto">PSIP1-S2------1</AM>
 <AM lemma="tvůj_^(přivlast.)" src="auto">PSIP5-S2------1</AM>
 <AM lemma="tvůj_^(přivlast.)" src="auto">PSNS1-S2------1</AM>
-<AM lemma="tvůj_^(přivlast.)" src="auto" selected="1">PSNS4-S2------1</AM>
+<AM lemma="tvůj" src="auto" selected="1">PSNS4-S2------1</AM>
 <AM lemma="tvůj_^(přivlast.)" src="auto">PSNS5-S2------1</AM>
 <AM lemma="tvůj_^(přivlast.)" src="auto" recommended="1">PSYP4-S2------1</AM>
 </tag>
@@ -978,7 +978,7 @@
 </w.rf>
 <form>tvoje</form>
 <tag>
-<AM lemma="tvůj_^(přivlast.)" src="auto" selected="1">PSHP1-S2-------</AM>
+<AM lemma="tvůj" src="auto" selected="1">PSHP1-S2-------</AM>
 <AM lemma="tvůj_^(přivlast.)" src="auto">PSHP5-S2-------</AM>
 <AM lemma="tvůj_^(přivlast.)" src="auto" recommended="1">PSHS1-S2-------</AM>
 <AM lemma="tvůj_^(přivlast.)" src="auto">PSHS5-S2-------</AM>

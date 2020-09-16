@@ -599,7 +599,7 @@
 <LM>w#w-vesm9301-040-p2s3w22</LM>
 </w.rf>
 <form>adenosinmonofosfátu</form>
-<tag lemma="adenosinmonofosfát_;U" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="adenosinmonofosfát" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-vesm9301-040-p2s3w23">
 <src.rf>manual</src.rf>
@@ -1009,7 +1009,7 @@
 <LM>w#w-vesm9301-040-p2s5w17</LM>
 </w.rf>
 <form>glutamát</form>
-<tag lemma="glutamát_;U" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="glutamát" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-vesm9301-040-p2s5w18">
 <src.rf>manual</src.rf>
@@ -1033,7 +1033,7 @@
 <LM>w#w-vesm9301-040-p2s5w20</LM>
 </w.rf>
 <form>kuchyni</form>
-<tag lemma="kuchyně" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="kuchyň" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-vesm9301-040-p2s5w21">
 <src.rf>manual</src.rf>
@@ -1196,7 +1196,7 @@
 <LM>w#w-vesm9301-040-p2s5w40</LM>
 </w.rf>
 <form>příjemná</form>
-<tag lemma="příjemný-1_^(všeob.,_poz._emoce)" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="příjemný_^(všeob.,_poz._emoce)" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-vesm9301-040-p2s5w41">
 <src.rf>manual</src.rf>
@@ -1602,7 +1602,7 @@
 <LM>w#w-vesm9301-040-p2s9w2</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-vesm9301-040-p2s9w3">
 <src.rf>manual</src.rf>

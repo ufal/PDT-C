@@ -103,7 +103,7 @@
 <LM>w#w-mf920924-064-p2s2w3</LM>
 </w.rf>
 <form>pozornosti</form>
-<tag lemma="pozornost-1_^(všímavý,_milý,_soustředěný)_(*5ý-1)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="pozornost-1_^(*5ý-1)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920924-064-p2s2w4">
 <src.rf>manual</src.rf>

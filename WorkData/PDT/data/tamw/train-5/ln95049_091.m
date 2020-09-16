@@ -231,7 +231,7 @@
 <LM>w#w-ln95049-091-p2s1Bw14</LM>
 </w.rf>
 <form>vyvážené</form>
-<tag lemma="vyvážený_^(zboží_přes_hranice)_(*2t)" src="orig" selected="1">AAFS2----1A----</tag>
+<tag lemma="vyvážený_^(*2t)_(*3it)" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-ln95049-091-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -2204,7 +2204,7 @@
 <LM>w#w-ln95049-091-p5s1w30</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-ln95049-091-p5s1w31">
 <src.rf>manual</src.rf>

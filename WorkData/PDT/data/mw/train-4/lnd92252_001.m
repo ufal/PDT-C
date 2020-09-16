@@ -530,7 +530,7 @@
 <LM>w#w-lnd92252-001-p1s3w42</LM>
 </w.rf>
 <form>druhou</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS4----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS4----------</tag>
 </m>
 <m id="m-lnd92252-001-p1s3w43">
 <src.rf>manual</src.rf>

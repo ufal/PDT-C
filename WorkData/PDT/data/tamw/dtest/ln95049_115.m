@@ -244,7 +244,7 @@
 <LM>w#w-ln95049-115-p2s1Bw12</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS2---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS2---------1</tag>
 </m>
 <m id="m-ln95049-115-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -890,7 +890,7 @@
 <form>NATO</form>
 <tag>
 <AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="NATO_;m_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="NATO-1_;m_^(Northtlantic_Treaty_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-115-p3s3w26">
@@ -1000,7 +1000,7 @@
 <LM>w#w-ln95049-115-p3s4w5</LM>
 </w.rf>
 <form>diskusi</form>
-<tag lemma="diskuse" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="diskuse_,s_^(^DD**diskuze)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln95049-115-p3s4w6">
 <src.rf>manual</src.rf>
@@ -1116,7 +1116,7 @@
 <LM>w#w-ln95049-115-p3s4w19</LM>
 </w.rf>
 <form>letounů</form>
-<tag lemma="letoun" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="letoun-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln95049-115-p3s4w20">
 <src.rf>manual</src.rf>
@@ -1337,7 +1337,7 @@
 <LM>w#w-ln95049-115-p3s5w14</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-ln95049-115-p3s5w15">
 <src.rf>manual</src.rf>
@@ -1491,7 +1491,7 @@
 <form>NATO</form>
 <tag>
 <AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="NATO_;m_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="NATO-1_;m_^(Northtlantic_Treaty_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-115-p3s7w9">
@@ -1710,7 +1710,7 @@
 <form>NATO</form>
 <tag>
 <AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="NATO_;m_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="NATO-1_;m_^(Northtlantic_Treaty_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-115-p3s8w11">
@@ -1796,7 +1796,7 @@
 <LM>w#w-ln95049-115-p4s1w7</LM>
 </w.rf>
 <form>letounů</form>
-<tag lemma="letoun" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="letoun-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln95049-115-p4s1w8">
 <src.rf>manual</src.rf>
@@ -2358,7 +2358,7 @@
 <LM>w#w-ln95049-115-p4s4w2</LM>
 </w.rf>
 <form>My</form>
-<tag lemma="já" src="orig" selected="1">PP-P1--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P1--1-------</tag>
 </m>
 <m id="m-ln95049-115-p4s4w3">
 <src.rf>manual</src.rf>
@@ -2416,7 +2416,7 @@
 <form>favoritů</form>
 <tag>
 <AM lemma="Favorit-2_;m_^(vozidlo)" src="orig">NNIP2-----A----</AM>
-<AM lemma="favorit-1_;m" src="auto" recommended="1" selected="1">NNIP2-----A----</AM>
+<AM lemma="favorit-1_^(vozidlo)" src="auto" recommended="1" selected="1">NNIP2-----A----</AM>
 <AM lemma="favorit-2" src="auto">NNMP2-----A----</AM>
 </tag>
 </m>
@@ -2612,7 +2612,7 @@
 <LM>w#w-ln95049-115-p4s5w12</LM>
 </w.rf>
 <form>výzbroje</form>
-<tag lemma="výzbroj" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="výzbroj-1" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95049-115-p4s5w13">
 <src.rf>manual</src.rf>
@@ -2957,7 +2957,7 @@
 <LM>w#w-ln95049-115-p4s8w2</LM>
 </w.rf>
 <form>prostředky</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-ln95049-115-p4s8w3">
 <src.rf>manual</src.rf>

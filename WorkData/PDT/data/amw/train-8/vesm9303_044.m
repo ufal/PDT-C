@@ -59,7 +59,7 @@
 <LM>w#w-vesm9303-044-p1s1w6</LM>
 </w.rf>
 <form>virem</form>
-<tag lemma="vir" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="vir-1" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-vesm9303-044-p1s1w7">
 <src.rf>manual</src.rf>
@@ -438,7 +438,7 @@
 <LM>w#w-vesm9303-044-p2s1w42</LM>
 </w.rf>
 <form>virem</form>
-<tag lemma="vir" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="vir-1" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-vesm9303-044-p2s1w43">
 <src.rf>manual</src.rf>
@@ -475,7 +475,7 @@
 <form>AIDS</form>
 <tag>
 <AM lemma="AIDS_:B_;U_,x_^(Syndrom_získaného_selhání_imunity)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="AIDS-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="AIDS_;U_^(Syndrom_získaného_selhání_imunity)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-044-p2s1w47">
@@ -705,7 +705,7 @@
 <LM>w#w-vesm9303-044-p2s2w16</LM>
 </w.rf>
 <form>glykoproteinu</form>
-<tag lemma="glykoprotein_;U" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="glykoprotein" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-vesm9303-044-p2s2w17">
 <src.rf>manual</src.rf>
@@ -740,7 +740,7 @@
 <LM>w#w-vesm9303-044-p2s2w20</LM>
 </w.rf>
 <form>viru</form>
-<tag lemma="vir" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="vir-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-vesm9303-044-p2s2w21">
 <src.rf>manual</src.rf>
@@ -1129,7 +1129,7 @@
 <LM>w#w-vesm9303-044-p3s1w18</LM>
 </w.rf>
 <form>viru</form>
-<tag lemma="vir" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="vir-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-vesm9303-044-p3s1w19">
 <src.rf>manual</src.rf>
@@ -1199,7 +1199,7 @@
 <LM>w#w-vesm9303-044-p3s1w26</LM>
 </w.rf>
 <form>virem</form>
-<tag lemma="vir" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="vir-1" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-vesm9303-044-p3s1w27">
 <src.rf>manual</src.rf>
@@ -1356,7 +1356,7 @@
 <LM>w#w-vesm9303-044-p3s2w18</LM>
 </w.rf>
 <form>viru</form>
-<tag lemma="vir" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="vir-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-vesm9303-044-p3s2w19">
 <src.rf>manual</src.rf>
@@ -1444,7 +1444,7 @@
 <LM>w#w-vesm9303-044-p3s3w8</LM>
 </w.rf>
 <form>učitý</form>
-<tag lemma="učitý_,a_^(*3ít)" src="orig" selected="1">AAIS4----1A----</tag>
+<tag lemma="učitý_^(*3ít)" src="orig" selected="1">AAIS4----1A----</tag>
 </m>
 <m id="m-vesm9303-044-p3s3w9">
 <src.rf>manual</src.rf>
@@ -1460,7 +1460,7 @@
 <LM>w#w-vesm9303-044-p3s3w10</LM>
 </w.rf>
 <form>viru</form>
-<tag lemma="vir" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="vir-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-vesm9303-044-p3s3w11">
 <src.rf>manual</src.rf>
@@ -1696,7 +1696,7 @@
 <form>AIDS</form>
 <tag>
 <AM lemma="AIDS_:B_;U_,x_^(Syndrom_získaného_selhání_imunity)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="AIDS-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="AIDS_;U_^(Syndrom_získaného_selhání_imunity)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-044-p3s4w8">
@@ -1966,7 +1966,7 @@
 <LM>w#w-vesm9303-044-p3s5w29</LM>
 </w.rf>
 <form>viru</form>
-<tag lemma="vir" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="vir-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-vesm9303-044-p3s5w30">
 <src.rf>manual</src.rf>

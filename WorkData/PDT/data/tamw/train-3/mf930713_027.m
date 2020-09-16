@@ -122,7 +122,7 @@
 <AM lemma="velkorážný_,s" src="auto">AANS5----1A---6</AM>
 <AM lemma="velkorážný_,s" src="manual">AAIS1----1A----</AM>
 <AM lemma="velkorážný" src="manual">AAIS1----1A----</AM>
-<AM lemma="velkorážný_,s_^(^DD**velkorážní)" src="manual" selected="1">AAIS1----1A----</AM>
+<AM lemma="velkorážný" src="manual" selected="1">AAIS1----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-027-p2s1Bw6">

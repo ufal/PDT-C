@@ -19,7 +19,7 @@
 <LM>w#w-ln95048-073-p1s1w1</LM>
 </w.rf>
 <form>Česko</form>
-<tag lemma="český" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="česko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-ln95048-073-p1s1w2">
 <src.rf>manual</src.rf>
@@ -456,7 +456,7 @@
 <LM>w#w-ln95048-073-p1s2w22</LM>
 </w.rf>
 <form>rozvodu</form>
-<tag lemma="rozvod-1_^(manželství)" src="orig" selected="1">NNIS6-----A---1</tag>
+<tag lemma="rozvod_^(manželství;vody)" src="orig" selected="1">NNIS6-----A---1</tag>
 </m>
 <m id="m-ln95048-073-p1s2w23">
 <src.rf>manual</src.rf>
@@ -509,7 +509,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-073-p1s3w3">
@@ -999,7 +999,7 @@
 <LM>w#w-ln95048-073-p1s6w5</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrIS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS4----------</tag>
 </m>
 <m id="m-ln95048-073-p1s6w6">
 <src.rf>manual</src.rf>
@@ -1290,7 +1290,7 @@
 <LM>w#w-ln95048-073-p1s6w41</LM>
 </w.rf>
 <form>léta</form>
-<tag lemma="rok" src="orig" selected="1">NNNP4-----A---2</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP4-----A---2</tag>
 </m>
 <m id="m-ln95048-073-p1s6w42">
 <src.rf>manual</src.rf>

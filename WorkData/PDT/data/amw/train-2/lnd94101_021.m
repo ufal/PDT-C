@@ -322,7 +322,7 @@
 <LM>w#w-lnd94101-021-p1s4w13</LM>
 </w.rf>
 <form>člen</form>
-<tag lemma="člen" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="člen-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94101-021-p1s4w14">
 <src.rf>manual</src.rf>
@@ -1099,7 +1099,7 @@
 <LM>w#w-lnd94101-021-p1s6w38</LM>
 </w.rf>
 <form>depozitáře</form>
-<tag lemma="depozitář_^(sklad)" src="auto" selected="1">NNIS2-----A----</tag>
+<tag lemma="depozitář-1_^(sklad)" src="auto" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd94101-021-p1s6w39">
 <src.rf>manual</src.rf>

@@ -363,7 +363,7 @@
 <form>Marií</form>
 <tag>
 <AM lemma="Marie-1_;Y" src="auto">NNFP2-----A----</AM>
-<AM lemma="Marie-1_;Y" src="auto" recommended="1">NNFS7-----A----</AM>
+<AM lemma="Marie_;Y" src="auto" recommended="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m991-d1t29-28">
@@ -533,7 +533,7 @@
 <AM lemma="Marie-1_;Y" src="auto">NNFP1-----A----</AM>
 <AM lemma="Marie-1_;Y" src="auto">NNFP4-----A----</AM>
 <AM lemma="Marie-1_;Y" src="auto">NNFP5-----A----</AM>
-<AM lemma="Marie-1_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Marie_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Marie-1_;Y" src="auto">NNFS2-----A----</AM>
 <AM lemma="Marie-1_;Y" src="auto">NNFS5-----A----</AM>
 </tag>
@@ -938,7 +938,7 @@
 <AM lemma="tvůj_^(přivlast.)" src="auto">PSFS4-P2-------</AM>
 <AM lemma="tvůj_^(přivlast.)" src="auto" recommended="1">PSMP1-P2-------</AM>
 <AM lemma="tvůj_^(přivlast.)" src="auto">PSMP5-P2-------</AM>
-<AM lemma="tvůj_^(**můj)_(přivlast.)" src="manual" selected="1">PSMP1-P2-------</AM>
+<AM lemma="váš" src="manual" selected="1">PSMP1-P2-------</AM>
 </tag>
 </m>
 <m id="m991-d1t88-5">
@@ -1317,7 +1317,7 @@
 <AM lemma="tvůj_^(přivlast.)" src="auto">PSIS4-P2-------</AM>
 <AM lemma="tvůj_^(přivlast.)" src="auto" recommended="1">PSYS1-P2-------</AM>
 <AM lemma="tvůj_^(přivlast.)" src="auto">PSYS5-P2-------</AM>
-<AM lemma="tvůj_^(**můj)_(přivlast.)" src="manual" selected="1">PSYS1-P2-------</AM>
+<AM lemma="váš" src="manual" selected="1">PSYS1-P2-------</AM>
 </tag>
 </m>
 <m id="m991-d1t131-4">
@@ -1746,7 +1746,7 @@
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOIP----------1</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AONP----------1</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AONS----------1</AM>
-<AM lemma="svůj-1_^(přivlast.)_(*2)" src="manual" selected="1">P8NS4----------</AM>
+<AM lemma="svůj-1" src="manual" selected="1">P8NS4----------</AM>
 </tag>
 </m>
 <m id="m991-d1t164-8">
@@ -2025,7 +2025,7 @@
 </w.rf>
 <form>druhého</form>
 <tag>
-<AM lemma="druhý" src="auto" recommended="1">CrIS2----------</AM>
+<AM lemma="druhý`2" src="auto" recommended="1">CrIS2----------</AM>
 <AM lemma="druhý" src="auto">CrMS2----------</AM>
 <AM lemma="druhý" src="auto">CrMS4----------</AM>
 <AM lemma="druhý" src="auto">CrNS2----------</AM>
@@ -2323,7 +2323,7 @@
 <AM lemma="první" src="auto">CrFP1----------</AM>
 <AM lemma="první" src="auto">CrFP4----------</AM>
 <AM lemma="první" src="auto">CrFP5----------</AM>
-<AM lemma="první" src="auto" recommended="1">CrFS1----------</AM>
+<AM lemma="první-1" src="auto" recommended="1">CrFS1----------</AM>
 <AM lemma="první" src="auto">CrFS2----------</AM>
 <AM lemma="první" src="auto">CrFS3----------</AM>
 <AM lemma="první" src="auto">CrFS4----------</AM>
@@ -2872,7 +2872,7 @@
 </w.rf>
 <form>nás</form>
 <tag>
-<AM lemma="já" src="auto" recommended="1">PP-P2--1-------</AM>
+<AM lemma="my" src="auto" recommended="1">PP-P2--1-------</AM>
 <AM lemma="já" src="auto">PP-P4--1-------</AM>
 <AM lemma="já" src="auto">PP-P6--1-------</AM>
 </tag>
@@ -3108,7 +3108,7 @@
 <AM lemma="co-1" src="auto" recommended="1">PQ--4----------</AM>
 <AM lemma="co-2_^(cože;_ale_co)" src="auto">TT-------------</AM>
 <AM lemma="co-3_^(když:_poté/od_té_doby,_co)" src="auto">J,-------------</AM>
-<AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto" selected="1">P4XXX----------</AM>
+<AM lemma="co-4_^(který:_o_těch,_co_odešli)" src="auto" selected="1">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
 </tag>
@@ -3545,7 +3545,7 @@
 <form>služebnou</form>
 <tag>
 <AM lemma="služebna" src="auto" recommended="1">NNFS7-----A----</AM>
-<AM lemma="služebná_^(sluha)_(*1ý)" src="auto" selected="1">NNFS4-----A----</AM>
+<AM lemma="služebná-2_^(*3ý-2)" src="auto" selected="1">NNFS4-----A----</AM>
 <AM lemma="služebná_^(sluha)_(*1ý)" src="auto">NNFS7-----A----</AM>
 <AM lemma="služebný" src="auto">AAFS4----1A----</AM>
 <AM lemma="služebný" src="auto">AAFS7----1A----</AM>

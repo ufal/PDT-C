@@ -19,7 +19,7 @@
 <LM>w#w-mf930713-091-p1s1w1</LM>
 </w.rf>
 <form>Děti</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-mf930713-091-p1s1w2">
 <src.rf>manual</src.rf>
@@ -553,7 +553,7 @@
 <LM>w#w-mf930713-091-p2s3w1</LM>
 </w.rf>
 <form>Děti</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-mf930713-091-p2s3w2">
 <src.rf>manual</src.rf>
@@ -652,7 +652,7 @@
 <LM>w#w-mf930713-091-p2s3w13</LM>
 </w.rf>
 <form>cestě</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf930713-091-p2s3w14">
 <src.rf>manual</src.rf>
@@ -718,7 +718,7 @@
 <LM>w#w-mf930713-091-p3s1w2</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-mf930713-091-p3s1w3">
 <src.rf>manual</src.rf>

@@ -308,7 +308,7 @@
 <LM>w#w-ln95042-079-p2s2w3</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS1FS3-------</tag>
 </m>
 <m id="m-ln95042-079-p2s2w4">
 <src.rf>manual</src.rf>
@@ -502,7 +502,7 @@
 <LM>w#w-ln95042-079-p2s3w20</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln95042-079-p2s3w21">
 <src.rf>manual</src.rf>
@@ -510,7 +510,7 @@
 <LM>w#w-ln95042-079-p2s3w21</LM>
 </w.rf>
 <form>ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln95042-079-p2s3w22">
 <src.rf>manual</src.rf>
@@ -614,7 +614,7 @@
 <LM>w#w-ln95042-079-p2s4w11</LM>
 </w.rf>
 <form>dohodovacích</form>
-<tag lemma="dohodovací" src="auto" selected="1">AANP6----1A----</tag>
+<tag lemma="dohodovací_^(*2t)" src="auto" selected="1">AANP6----1A----</tag>
 </m>
 <m id="m-ln95042-079-p2s4w12">
 <src.rf>manual</src.rf>
@@ -1054,7 +1054,7 @@
 <LM>w#w-ln95042-079-p2s8w15</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln95042-079-p2s8w16">
 <src.rf>manual</src.rf>
@@ -1176,7 +1176,7 @@
 <LM>w#w-ln95042-079-p2s9w13</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-ln95042-079-p2s9w14">
 <src.rf>manual</src.rf>
@@ -1274,7 +1274,7 @@
 <LM>w#w-ln95042-079-p2s10w3</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-ln95042-079-p2s10w4">
 <src.rf>manual</src.rf>
@@ -1338,7 +1338,7 @@
 <LM>w#w-ln95042-079-p2s10w12</LM>
 </w.rf>
 <form>co</form>
-<tag lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="co-5_^(př._co_nejméně,_co_nevidět_atd.)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95042-079-p2s10w13">
 <src.rf>manual</src.rf>
@@ -1422,7 +1422,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>

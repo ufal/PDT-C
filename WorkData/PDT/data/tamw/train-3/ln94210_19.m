@@ -207,7 +207,7 @@
 <LM>w#w-ln94210-19-p2s1Bw16</LM>
 </w.rf>
 <form>vydání</form>
-<tag lemma="vydání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="vydání_^(*3at)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln94210-19-p2s1Bw17">
 <src.rf>manual</src.rf>
@@ -383,7 +383,7 @@
 <LM>w#w-ln94210-19-p2s1Bw36</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrNS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS4----------</tag>
 </m>
 <m id="m-ln94210-19-p2s1Bw37">
 <src.rf>manual</src.rf>
@@ -699,7 +699,7 @@
 <LM>w#w-ln94210-19-p3s2w3</LM>
 </w.rf>
 <form>model</form>
-<tag lemma="model" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="model-1" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln94210-19-p3s2w4">
 <src.rf>manual</src.rf>
@@ -1251,7 +1251,7 @@
 <LM>w#w-ln94210-19-p4s1w27</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrNS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS4----------</tag>
 </m>
 <m id="m-ln94210-19-p4s1w28">
 <src.rf>manual</src.rf>

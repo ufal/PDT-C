@@ -347,7 +347,7 @@
 <LM>w#w-lnd91303-001-p1s2w34</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd91303-001-p1s2w35">
 <src.rf>manual</src.rf>
@@ -553,7 +553,7 @@
 <LM>w#w-lnd91303-001-p1s3w17</LM>
 </w.rf>
 <form>nejlepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAFS6----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAFS6----3A----</tag>
 </m>
 <m id="m-lnd91303-001-p1s3w18">
 <src.rf>manual</src.rf>
@@ -561,7 +561,7 @@
 <LM>w#w-lnd91303-001-p1s3w18</LM>
 </w.rf>
 <form>cestě</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd91303-001-p1s3w19">
 <src.rf>manual</src.rf>
@@ -718,7 +718,7 @@
 <LM>w#w-lnd91303-001-p1s4w3</LM>
 </w.rf>
 <form>moc</form>
-<tag lemma="moc-3_^(velmi,_ve_spojení_s_adj.,_př._moc_hezká)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="moc-3_^(moc_hezká,_moc_peněz)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd91303-001-p1s4w4">
 <src.rf>manual</src.rf>
@@ -750,7 +750,7 @@
 <LM>w#w-lnd91303-001-p1s4w7</LM>
 </w.rf>
 <form>málo</form>
-<tag lemma="málo-3_^(málo_+_příd._jm.,_př._byl_málo_důsledný)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="málo-3_^(málo_důsledný)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd91303-001-p1s4w8">
 <src.rf>manual</src.rf>

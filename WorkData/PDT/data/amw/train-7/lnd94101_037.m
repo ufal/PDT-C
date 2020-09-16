@@ -178,7 +178,7 @@
 <LM>w#w-lnd94101-037-p1s1w20</LM>
 </w.rf>
 <form>duch</form>
-<tag lemma="duch" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="duch-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-037-p1s1w21">
 <src.rf>manual</src.rf>
@@ -591,7 +591,7 @@
 <LM>w#w-lnd94101-037-p1s4w4</LM>
 </w.rf>
 <form>činiteli</form>
-<tag lemma="činitel" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="činitel-1" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-lnd94101-037-p1s4w5">
 <src.rf>manual</src.rf>
@@ -615,7 +615,7 @@
 <LM>w#w-lnd94101-037-p1s4w7</LM>
 </w.rf>
 <form>hnutí</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-lnd94101-037-p1s4w8">
 <src.rf>manual</src.rf>
@@ -733,7 +733,7 @@
 <LM>w#w-lnd94101-037-p1s5w9</LM>
 </w.rf>
 <form>zatčení</form>
-<tag lemma="zatčení_^(*4knout)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="zatčení" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-lnd94101-037-p1s5w10">
 <src.rf>manual</src.rf>
@@ -773,7 +773,7 @@
 <LM>w#w-lnd94101-037-p1s5w14</LM>
 </w.rf>
 <form>členů</form>
-<tag lemma="člen" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd94101-037-p1s5w15">
 <src.rf>manual</src.rf>
@@ -1219,7 +1219,7 @@
 <LM>w#w-lnd94101-037-p1s8w11</LM>
 </w.rf>
 <form>bát</form>
-<tag lemma="bát" src="orig" selected="1">Vf--------A-I--</tag>
+<tag lemma="bát-1" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-lnd94101-037-p1s8w12">
 <src.rf>manual</src.rf>

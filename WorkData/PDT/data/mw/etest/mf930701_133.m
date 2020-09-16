@@ -192,7 +192,7 @@
 <LM>w#w-mf930701-133-p2s1w14</LM>
 </w.rf>
 <form>Fryštáku</form>
-<tag lemma="Fryšták_;G" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Fryšták-2_;G" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930701-133-p2s1w15">
 <src.rf>manual</src.rf>

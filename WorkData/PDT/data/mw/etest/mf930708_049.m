@@ -160,7 +160,7 @@
 <LM>w#w-mf930708-049-p2s1w15</LM>
 </w.rf>
 <form>sympozia</form>
-<tag lemma="sympózium" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="sympozium" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-mf930708-049-p2s1w16">
 <src.rf>manual</src.rf>
@@ -267,7 +267,7 @@
 <LM>w#w-mf930708-049-p2s1w28</LM>
 </w.rf>
 <form>Orlických</form>
-<tag lemma="Orlický_;G" src="orig" selected="1">AAFP6----1A----</tag>
+<tag lemma="orlický" src="orig" selected="1">AAFP6----1A----</tag>
 </m>
 <m id="m-mf930708-049-p2s1w29">
 <src.rf>manual</src.rf>
@@ -293,7 +293,7 @@
 <LM>w#w-mf930708-049-p2s2w1</LM>
 </w.rf>
 <form>Prvních</form>
-<tag lemma="první" src="orig" selected="1">CrFP2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFP2----------</tag>
 </m>
 <m id="m-mf930708-049-p2s2w2">
 <src.rf>manual</src.rf>
@@ -357,7 +357,7 @@
 <LM>w#w-mf930708-049-p2s2w9</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrIS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS6----------</tag>
 </m>
 <m id="m-mf930708-049-p2s2w10">
 <src.rf>manual</src.rf>
@@ -373,7 +373,7 @@
 <LM>w#w-mf930708-049-p2s2w11</LM>
 </w.rf>
 <form>sympozia</form>
-<tag lemma="sympózium" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="sympozium" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-mf930708-049-p2s2w12">
 <src.rf>manual</src.rf>

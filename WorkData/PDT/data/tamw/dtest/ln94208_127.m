@@ -918,7 +918,7 @@
 <LM>w#w-ln94208-127-p3s3w2</LM>
 </w.rf>
 <form>manažer</form>
-<tag lemma="manažer" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="manažer-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-127-p3s3w3">
 <src.rf>manual</src.rf>
@@ -1126,7 +1126,7 @@
 <LM>w#w-ln94208-127-p3s4w15</LM>
 </w.rf>
 <form>druhý</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS1----------</tag>
 </m>
 <m id="m-ln94208-127-p3s4w16">
 <src.rf>manual</src.rf>
@@ -1620,7 +1620,7 @@
 <LM>w#w-ln94208-127-p4s1w1</LM>
 </w.rf>
 <form>Manažer</form>
-<tag lemma="manažer" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="manažer-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-127-p4s1w2">
 <src.rf>manual</src.rf>
@@ -1766,7 +1766,7 @@
 <LM>w#w-ln94208-127-p4s2w3</LM>
 </w.rf>
 <form>stadion</form>
-<tag lemma="stadión" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="stadion_,s_^(^DD**stadión)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln94208-127-p4s2w4">
 <src.rf>manual</src.rf>
@@ -2352,7 +2352,7 @@
 <LM>w#w-ln94208-127-p4s7w9</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-ln94208-127-p4s7w10">
 <src.rf>manual</src.rf>

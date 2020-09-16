@@ -21,7 +21,7 @@
 <form>ČEZ</form>
 <tag>
 <AM lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ČEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČEZ-2_;m_^(České_energetické_závody)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-126-p1s1w2">
@@ -151,7 +151,7 @@
 <form>ČEZ</form>
 <tag>
 <AM lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ČEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČEZ-2_;m_^(České_energetické_závody)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-126-p2s1Cw2">
@@ -850,7 +850,7 @@
 <LM>w#w-ln95044-126-p3s1w26</LM>
 </w.rf>
 <form>stanovené</form>
-<tag lemma="stanovený_^(určit)_(*3it)" src="orig" selected="1">AAIP1----1A----</tag>
+<tag lemma="stanovený_^(*3it)" src="orig" selected="1">AAIP1----1A----</tag>
 </m>
 <m id="m-ln95044-126-p3s1w27">
 <src.rf>manual</src.rf>
@@ -2359,7 +2359,7 @@
 <form>ČEZ</form>
 <tag>
 <AM lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ČEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČEZ-2_;m_^(České_energetické_závody)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-126-p7s1w12">

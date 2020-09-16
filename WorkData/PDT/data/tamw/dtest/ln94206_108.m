@@ -70,7 +70,7 @@
 <LM>w#w-ln94206-108-p1s1Aw7</LM>
 </w.rf>
 <form>druhou</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS4----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS4----------</tag>
 </m>
 <m id="m-ln94206-108-p1s1Aw8">
 <src.rf>manual</src.rf>
@@ -142,7 +142,7 @@
 <LM>w#w-ln94206-108-p1s1Aw16</LM>
 </w.rf>
 <form>Tichou</form>
-<tag lemma="Tichá_;Y" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Tichá_;G_;Y" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94206-108-p1s1Aw17">
 <src.rf>manual</src.rf>

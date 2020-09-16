@@ -168,7 +168,7 @@
 <LM>w#w-lnd92251-014-p1s2w5</LM>
 </w.rf>
 <form>postižených</form>
-<tag lemma="postižený_^(*4hnout)" src="orig" selected="1">AAFP2----1A----</tag>
+<tag lemma="postižený" src="orig" selected="1">AAFP2----1A----</tag>
 </m>
 <m id="m-lnd92251-014-p1s2w6">
 <src.rf>manual</src.rf>
@@ -219,7 +219,7 @@
 <LM>w#w-lnd92251-014-p1s3w1</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrIS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS1----------</tag>
 </m>
 <m id="m-lnd92251-014-p1s3w2">
 <src.rf>manual</src.rf>
@@ -349,7 +349,7 @@
 <LM>w#w-lnd92251-014-p2s1w3</LM>
 </w.rf>
 <form>vakcinačního</form>
-<tag lemma="vakcinační_;U" src="orig" selected="1">AAIS2----1A----</tag>
+<tag lemma="vakcinační" src="orig" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-lnd92251-014-p2s1w4">
 <src.rf>manual</src.rf>
@@ -637,7 +637,7 @@
 <LM>w#w-lnd92251-014-p3s1w9</LM>
 </w.rf>
 <form>rozvodu</form>
-<tag lemma="rozvod-2_^(vody,_plynu...)" src="orig" selected="1">NNIS6-----A---1</tag>
+<tag lemma="rozvod_^(manželství;vody)" src="orig" selected="1">NNIS6-----A---1</tag>
 </m>
 <m id="m-lnd92251-014-p3s1w10">
 <src.rf>manual</src.rf>
@@ -793,7 +793,7 @@
 <LM>w#w-lnd92251-014-p3s1w26</LM>
 </w.rf>
 <form>rozvodu</form>
-<tag lemma="rozvod-2_^(vody,_plynu...)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="rozvod_^(manželství;vody)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92251-014-p3s1w27">
 <src.rf>manual</src.rf>
@@ -974,7 +974,7 @@
 <LM>w#w-lnd92251-014-p4s1w5</LM>
 </w.rf>
 <form>virtuosa</form>
-<tag lemma="virtuos" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="virtuos_,s_^(^DD**virtuóz)" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92251-014-p4s1w6">
 <src.rf>manual</src.rf>
@@ -1077,7 +1077,7 @@
 <LM>w#w-lnd92251-014-p4s1w17</LM>
 </w.rf>
 <form>Smetanově</form>
-<tag lemma="Smetanův_;Y_^(*2a)" src="orig" selected="1">AUFS6M---------</tag>
+<tag lemma="Smetanův_;Y_^(*2)_(*2a)" src="orig" selected="1">AUFS6M---------</tag>
 </m>
 <m id="m-lnd92251-014-p4s1w18">
 <src.rf>manual</src.rf>

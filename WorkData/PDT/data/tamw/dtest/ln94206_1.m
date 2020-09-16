@@ -141,7 +141,7 @@
 <form>ČEZ</form>
 <tag>
 <AM lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ČEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČEZ-2_;m_^(České_energetické_závody)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-1-p2s1w15">
@@ -703,7 +703,7 @@
 <LM>w#w-ln94206-1-p3s1w10</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrMS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrMS1----------</tag>
 </m>
 <m id="m-ln94206-1-p3s1w11">
 <src.rf>manual</src.rf>
@@ -729,7 +729,7 @@
 <form>ČEZ</form>
 <tag>
 <AM lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ČEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČEZ-2_;m_^(České_energetické_závody)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-1-p3s1w14">
@@ -1247,7 +1247,7 @@
 <LM>w#w-ln94206-1-p4s3w2</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94206-1-p4s3w3">
 <src.rf>manual</src.rf>
@@ -1431,7 +1431,7 @@
 <LM>w#w-ln94206-1-p4s3w23</LM>
 </w.rf>
 <form>Francisku</form>
-<tag lemma="Francisko_;G" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="Francisko-2_;G_,s_^(^DD**Francisco-2)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-ln94206-1-p4s3w24">
 <src.rf>manual</src.rf>
@@ -1612,7 +1612,7 @@
 <LM>w#w-ln94206-1-p4s4w19</LM>
 </w.rf>
 <form>Evropě</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94206-1-p4s4w20">
 <src.rf>manual</src.rf>

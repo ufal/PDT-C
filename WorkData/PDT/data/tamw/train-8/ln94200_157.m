@@ -189,7 +189,7 @@
 <LM>w#w-ln94200-157-p2s1w19</LM>
 </w.rf>
 <form>Příbram</form>
-<tag lemma="Příbram_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Příbram-2_;G" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94200-157-p2s1w20">
 <src.rf>manual</src.rf>

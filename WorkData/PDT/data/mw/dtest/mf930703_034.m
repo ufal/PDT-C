@@ -746,7 +746,7 @@
 <LM>w#w-mf930703-034-p1s5w1</LM>
 </w.rf>
 <form>Cestující</form>
-<tag lemma="cestující" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="cestující-2" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-034-p1s5w2">
 <src.rf>manual</src.rf>
@@ -887,7 +887,7 @@
 <LM>w#w-mf930703-034-p1s6w7</LM>
 </w.rf>
 <form>Yorku</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="York-2_;G_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-mf930703-034-p1s6w8">
 <src.rf>manual</src.rf>

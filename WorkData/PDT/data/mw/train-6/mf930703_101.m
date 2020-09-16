@@ -503,7 +503,7 @@
 <LM>w#w-mf930703-101-p3s1w9</LM>
 </w.rf>
 <form>vydání</form>
-<tag lemma="vydání-2_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)_(*5at-2)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="vydání_^(*3at)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-mf930703-101-p3s1w10">
 <src.rf>manual</src.rf>
@@ -535,7 +535,7 @@
 <LM>w#w-mf930703-101-p3s1w13</LM>
 </w.rf>
 <form>lidem</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP3-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP3-----A----</tag>
 </m>
 <m id="m-mf930703-101-p3s1w14">
 <src.rf>manual</src.rf>

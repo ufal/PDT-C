@@ -267,7 +267,7 @@
 <LM>w#w-mf920923-078-p2s2w22</LM>
 </w.rf>
 <form>roli</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="role_^(svitek_poslání_pozemek)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf920923-078-p2s2w23">
 <src.rf>manual</src.rf>
@@ -525,7 +525,7 @@
 <LM>w#w-mf920923-078-p2s5w2</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf920923-078-p2s5w3">
 <src.rf>manual</src.rf>
@@ -757,7 +757,7 @@
 <LM>w#w-mf920923-078-p2s6w10</LM>
 </w.rf>
 <form>prvních</form>
-<tag lemma="první" src="orig" selected="1">CrNP6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNP6----------</tag>
 </m>
 <m id="m-mf920923-078-p2s6w11">
 <src.rf>manual</src.rf>
@@ -805,7 +805,7 @@
 <LM>w#w-mf920923-078-p2s6w16</LM>
 </w.rf>
 <form>neschopnost</form>
-<tag lemma="neschopnost_;U_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS4-----A----</tag>
+<tag lemma="neschopnost_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf920923-078-p2s6w17">
 <src.rf>manual</src.rf>
@@ -962,7 +962,7 @@
 <form>neschopnost</form>
 <tag>
 <AM lemma="neschopnost_;U_^(odb._termín:_pracovní_n.)" src="auto">NNFS1-----A----</AM>
-<AM lemma="schopnost_^(*3ý)" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="neschopnost_^(odb._termín:_pracovní_n.)" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-078-p2s7w4">
@@ -1094,7 +1094,7 @@
 <LM>w#w-mf920923-078-p2s7w19</LM>
 </w.rf>
 <form>neschopnost</form>
-<tag lemma="neschopnost_;U_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS4-----A----</tag>
+<tag lemma="neschopnost_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf920923-078-p2s7w20">
 <src.rf>manual</src.rf>

@@ -359,7 +359,7 @@
 <LM>w#w-mf920922-135-p2s2w17</LM>
 </w.rf>
 <form>nejlepším</form>
-<tag lemma="dobrý" src="orig" selected="1">AANS6----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AANS6----3A----</tag>
 </m>
 <m id="m-mf920922-135-p2s2w18">
 <src.rf>manual</src.rf>
@@ -561,7 +561,7 @@
 <LM>w#w-mf920922-135-p2s3w15</LM>
 </w.rf>
 <form>nestojí</form>
-<tag lemma="stát-4_^(něco_stojí_peníze)" src="orig" selected="1">VB-S---3P-NAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-mf920922-135-p2s3w16">
 <src.rf>manual</src.rf>
@@ -873,7 +873,7 @@
 <LM>w#w-mf920922-135-p2s6w5</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP6----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP6----------</tag>
 </m>
 <m id="m-mf920922-135-p2s6w6">
 <src.rf>manual</src.rf>
@@ -1413,7 +1413,7 @@
 <LM>w#w-mf920922-135-p2s8w29</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS2---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS2---------1</tag>
 </m>
 <m id="m-mf920922-135-p2s8w30">
 <src.rf>manual</src.rf>
@@ -1559,7 +1559,7 @@
 <LM>w#w-mf920922-135-p2s9w15</LM>
 </w.rf>
 <form>ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf920922-135-p2s9w16">
 <src.rf>manual</src.rf>
@@ -2081,7 +2081,7 @@
 <LM>w#w-mf920922-135-p2s14w8</LM>
 </w.rf>
 <form>druhou</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS7----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS7----------</tag>
 </m>
 <m id="m-mf920922-135-p2s14w9">
 <src.rf>manual</src.rf>
@@ -2228,7 +2228,7 @@
 <LM>w#w-mf920922-135-p2s14w26</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920922-135-p2s14w27">
 <src.rf>manual</src.rf>
@@ -2446,7 +2446,7 @@
 <LM>w#w-mf920922-135-p2s15w24</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920922-135-p2s15w25">
 <src.rf>manual</src.rf>

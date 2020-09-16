@@ -367,7 +367,7 @@
 <tag>
 <AM lemma="velikonoce" src="orig">NNFP4-----A----</AM>
 <AM lemma="Velikonoce" src="auto">NNFP1-----A----</AM>
-<AM lemma="Velikonoce" src="auto" recommended="1" selected="1">NNFP4-----A----</AM>
+<AM lemma="velikonoce_,i_^(^DS**Velikonoce)" src="auto" recommended="1" selected="1">NNFP4-----A----</AM>
 <AM lemma="Velikonoce" src="auto">NNFP5-----A----</AM>
 <AM lemma="Velikonoce" src="auto">NNFP6-----A---6</AM>
 </tag>
@@ -766,7 +766,7 @@
 <LM>w#w-lnd91303-111-p2s5w7</LM>
 </w.rf>
 <form>ztíženou</form>
-<tag lemma="ztížený_,s_^(*2t)" src="auto" selected="1">AAFS4----1A----</tag>
+<tag lemma="ztížený_^(*2t)_(*3it)" src="auto" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-lnd91303-111-p2s5w8">
 <src.rf>manual</src.rf>
@@ -850,7 +850,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1043,7 +1043,7 @@
 <LM>w#w-lnd91303-111-p4s1w6</LM>
 </w.rf>
 <form>zbrojnice</form>
-<tag lemma="zbrojnice_,a_^(*3ík)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="zbrojnice_^(*3ík)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd91303-111-p4s1w7">
 <src.rf>manual</src.rf>
@@ -1125,7 +1125,7 @@
 <LM>w#w-lnd91303-111-p5s1w8</LM>
 </w.rf>
 <form>Podolské</form>
-<tag lemma="podolský_;G" src="orig" selected="1">AAFS6----1A----</tag>
+<tag lemma="podolský" src="orig" selected="1">AAFS6----1A----</tag>
 </m>
 <m id="m-lnd91303-111-p5s1w9">
 <src.rf>manual</src.rf>
@@ -1654,7 +1654,7 @@
 <LM>w#w-lnd91303-111-p8s2w17</LM>
 </w.rf>
 <form>strážnici</form>
-<tag lemma="strážnice_^(kdo_stráží,_člověk)_(*3ík)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strážnice_^(*3ík)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd91303-111-p8s2w18">
 <src.rf>manual</src.rf>
@@ -1702,7 +1702,7 @@
 <LM>w#w-lnd91303-111-p8s2w23</LM>
 </w.rf>
 <form>strážnice</form>
-<tag lemma="strážnice_^(kdo_stráží,_člověk)_(*3ík)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strážnice_^(*3ík)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd91303-111-p8s2w24">
 <src.rf>manual</src.rf>
@@ -2373,7 +2373,7 @@
 <LM>w#w-lnd91303-111-p11s1w6</LM>
 </w.rf>
 <form>naši</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSMP1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSMP1-P1-------</tag>
 </m>
 <m id="m-lnd91303-111-p11s1w7">
 <src.rf>manual</src.rf>
@@ -2710,7 +2710,7 @@
 <LM>w#w-lnd91303-111-p11s4w10</LM>
 </w.rf>
 <form>Frištenský</form>
-<tag lemma="Frištenský" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Frištenský_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-111-p11s4w11">
 <src.rf>manual</src.rf>

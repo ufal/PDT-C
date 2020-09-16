@@ -151,7 +151,7 @@
 <LM>w#w-ln94208-122-p2s1Bw10</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94208-122-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -731,7 +731,7 @@
 <LM>w#w-ln94208-122-p2s4w12</LM>
 </w.rf>
 <form>manažer</form>
-<tag lemma="manažer" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="manažer-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-122-p2s4w13">
 <src.rf>manual</src.rf>

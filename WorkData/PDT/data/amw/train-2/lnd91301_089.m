@@ -149,7 +149,7 @@
 <LM>w#w-lnd91301-089-p1s2w6</LM>
 </w.rf>
 <form>dlouhou</form>
-<tag lemma="dlouhý-1_^(fyz._délka;_př._dlouhá_tyč)" src="orig" selected="1">AAFS4----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-lnd91301-089-p1s2w7">
 <src.rf>manual</src.rf>

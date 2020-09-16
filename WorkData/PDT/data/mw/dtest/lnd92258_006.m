@@ -175,7 +175,7 @@
 <LM>w#w-lnd92258-006-p2s2w16</LM>
 </w.rf>
 <form>hnutí</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-lnd92258-006-p2s2w17">
 <src.rf>manual</src.rf>
@@ -449,7 +449,7 @@
 <LM>w#w-lnd92258-006-p2s4w4</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-4_^(v_knize,_rukopise,...)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd92258-006-p2s4w5">
 <src.rf>manual</src.rf>
@@ -497,7 +497,7 @@
 <LM>w#w-lnd92258-006-p2s4w10</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-4_^(v_knize,_rukopise,...)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd92258-006-p2s4w11">
 <src.rf>manual</src.rf>

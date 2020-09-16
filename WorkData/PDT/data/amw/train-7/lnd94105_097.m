@@ -372,7 +372,7 @@
 <LM>w#w-lnd94105-097-p1s2Cw26</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd94105-097-p1s2Cw27">
 <src.rf>manual</src.rf>
@@ -404,7 +404,7 @@
 <LM>w#w-lnd94105-097-p1s2Cw30</LM>
 </w.rf>
 <form>Bay</form>
-<tag lemma="Bay-2_;G" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Bay-2_;G_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94105-097-p1s2Cw31">
 <src.rf>manual</src.rf>
@@ -2346,7 +2346,7 @@
 <LM>w#w-lnd94105-097-p1s13w7</LM>
 </w.rf>
 <form>naši</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS4-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS4-P1-------</tag>
 </m>
 <m id="m-lnd94105-097-p1s13w8">
 <src.rf>manual</src.rf>
@@ -2616,7 +2616,7 @@
 <form>Cupu</form>
 <tag>
 <AM lemma="Cup-1_;m_,t_^(pohár,_soutěž;_v_názvech)" src="auto">NNIS2-----A----</AM>
-<AM lemma="Cup-1_;m_^(pohár,_soutěž;_v_názvech)" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="cup-1_^(pohár)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-097-p1s15w14">
@@ -3363,7 +3363,7 @@
 <LM>w#w-lnd94105-097-p1s18w30</LM>
 </w.rf>
 <form>ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-lnd94105-097-p1s18w31">
 <src.rf>manual</src.rf>

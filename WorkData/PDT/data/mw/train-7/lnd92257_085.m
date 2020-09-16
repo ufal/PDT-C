@@ -345,7 +345,7 @@
 <LM>w#w-lnd92257-085-p3s3w7</LM>
 </w.rf>
 <form>druhou</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS4----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS4----------</tag>
 </m>
 <m id="m-lnd92257-085-p3s3w8">
 <src.rf>manual</src.rf>
@@ -451,7 +451,7 @@
 <LM>w#w-lnd92257-085-p3s4w8</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8NS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8NS4---------1</tag>
 </m>
 <m id="m-lnd92257-085-p3s4w9">
 <src.rf>manual</src.rf>

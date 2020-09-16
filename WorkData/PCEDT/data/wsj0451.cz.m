@@ -135,7 +135,7 @@
 </w.rf>
 <form>modelů</form>
 <tag>
-<AM lemma="model" src="auto" recommended="1">NNIP2-----A----</AM>
+<AM lemma="model-1" src="auto" recommended="1">NNIP2-----A----</AM>
 <AM lemma="model" src="auto">NNMP2-----A----</AM>
 </tag>
 </m>
@@ -2654,7 +2654,7 @@
 <AM lemma="životnost_^(př._rod_životný)_(*3ý)" src="auto">NNFP1-----A----</AM>
 <AM lemma="životnost_^(př._rod_životný)_(*3ý)" src="auto">NNFP4-----A----</AM>
 <AM lemma="životnost_^(př._rod_životný)_(*3ý)" src="auto">NNFP5-----A----</AM>
-<AM lemma="životnost_^(př._rod_životný)_(*3ý)" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="životnost_^(*3ý)" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="životnost_^(př._rod_životný)_(*3ý)" src="auto">NNFS3-----A----</AM>
 <AM lemma="životnost_^(př._rod_životný)_(*3ý)" src="auto">NNFS5-----A----</AM>
 <AM lemma="životnost_^(př._rod_životný)_(*3ý)" src="auto">NNFS6-----A----</AM>
@@ -2813,7 +2813,7 @@
 <AM lemma="správný_^(správný_chlap)" src="auto">AAFP1----1N----</AM>
 <AM lemma="správný_^(správný_chlap)" src="auto">AAFP4----1N----</AM>
 <AM lemma="správný_^(správný_chlap)" src="auto">AAFP5----1N----</AM>
-<AM lemma="správný_^(správný_chlap)" src="auto" recommended="1">AAFS2----1N----</AM>
+<AM lemma="správný" src="auto" recommended="1">AAFS2----1N----</AM>
 <AM lemma="správný_^(správný_chlap)" src="auto">AAFS3----1N----</AM>
 <AM lemma="správný_^(správný_chlap)" src="auto">AAFS6----1N----</AM>
 <AM lemma="správný_^(správný_chlap)" src="auto">AAIP1----1N----</AM>
@@ -3337,7 +3337,7 @@
 <AM lemma="potřeba" src="auto">NNFP1-----A----</AM>
 <AM lemma="potřeba" src="auto">NNFP4-----A----</AM>
 <AM lemma="potřeba" src="auto">NNFP5-----A----</AM>
-<AM lemma="potřeba" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="potřeba-1" src="auto" recommended="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0451-001-p1s10W9-Ta">
@@ -3683,7 +3683,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0451-001-p1s11W24-Ta">
@@ -3699,7 +3699,7 @@
 <AM lemma="ča_^(ča-ča)" src="auto">NNFS2-----A----</AM>
 <AM lemma="ča_^(ča-ča)" src="auto">NNFS3-----A---1</AM>
 <AM lemma="ča_^(ča-ča)" src="auto">NNFS6-----A---1</AM>
-<AM lemma="či" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="či-1" src="auto" recommended="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0451-001-p1s11W25-Ta">
@@ -3944,7 +3944,7 @@
 <AM lemma="ča_^(ča-ča)" src="auto">NNFS2-----A----</AM>
 <AM lemma="ča_^(ča-ča)" src="auto">NNFS3-----A---1</AM>
 <AM lemma="ča_^(ča-ča)" src="auto">NNFS6-----A---1</AM>
-<AM lemma="či" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="či-1" src="auto" recommended="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0451-001-p1s12W16-Ta">
@@ -4141,7 +4141,7 @@
 <AM lemma="ča_^(ča-ča)" src="auto">NNFS2-----A----</AM>
 <AM lemma="ča_^(ča-ča)" src="auto">NNFS3-----A---1</AM>
 <AM lemma="ča_^(ča-ča)" src="auto">NNFS6-----A---1</AM>
-<AM lemma="či" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="či-1" src="auto" recommended="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0451-001-p1s12W31-Ta">
@@ -4317,7 +4317,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0451-001-p1s13W12-Ta">
@@ -4333,7 +4333,7 @@
 <AM lemma="ča_^(ča-ča)" src="auto">NNFS2-----A----</AM>
 <AM lemma="ča_^(ča-ča)" src="auto">NNFS3-----A---1</AM>
 <AM lemma="ča_^(ča-ča)" src="auto">NNFS6-----A---1</AM>
-<AM lemma="či" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="či-1" src="auto" recommended="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0451-001-p1s13W13-Ta">
@@ -4871,7 +4871,7 @@
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AAFS6----1A----</AM>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AAFS7----1A----</AM>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AAIP1----1A----</AM>
-<AM lemma="měsíční_^(lhůta;svit)" src="auto" recommended="1">AAIP4----1A----</AM>
+<AM lemma="měsíční" src="auto" recommended="1">AAIP4----1A----</AM>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AAIP5----1A----</AM>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AAIS1----1A----</AM>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AAIS4----1A----</AM>

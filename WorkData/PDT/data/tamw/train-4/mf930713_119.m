@@ -916,7 +916,7 @@
 </w.rf>
 <form>Antar</form>
 <tag>
-<AM lemma="Antar_;m" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Antar-2_;m" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="Antar_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>

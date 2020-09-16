@@ -27,7 +27,7 @@
 <LM>w#w-lnd92251-013-p1s1w2</LM>
 </w.rf>
 <form>VÝBORY</form>
-<tag lemma="výbor" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-lnd92251-013-p1s1w3">
 <src.rf>manual</src.rf>
@@ -164,7 +164,7 @@
 <LM>w#w-lnd92251-013-p3s2w11</LM>
 </w.rf>
 <form>členové</form>
-<tag lemma="člen" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd92251-013-p3s2w12">
 <src.rf>manual</src.rf>
@@ -180,7 +180,7 @@
 <LM>w#w-lnd92251-013-p3s2w13</LM>
 </w.rf>
 <form>výborů</form>
-<tag lemma="výbor" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-lnd92251-013-p3s2w14">
 <src.rf>manual</src.rf>
@@ -322,7 +322,7 @@
 <LM>w#w-lnd92251-013-p3s2w30</LM>
 </w.rf>
 <form>politiky</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92251-013-p3s2w31">
 <src.rf>manual</src.rf>
@@ -391,7 +391,7 @@
 <LM>w#w-lnd92251-013-p3s3w2</LM>
 </w.rf>
 <form>výborů</form>
-<tag lemma="výbor" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-lnd92251-013-p3s3w3">
 <src.rf>manual</src.rf>
@@ -537,7 +537,7 @@
 <LM>w#w-lnd92251-013-p3s4w4</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92251-013-p3s4w5">
 <src.rf>manual</src.rf>

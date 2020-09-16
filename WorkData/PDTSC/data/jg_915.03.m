@@ -132,7 +132,7 @@
 </w.rf>
 <form>svých</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8XP2----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8XP2----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8XP6----------</AM>
 </tag>
 </m>
@@ -393,7 +393,7 @@
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS2----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS3----------</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8FS4---------6</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8FS4---------6</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS6----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS7----------</AM>
 </tag>
@@ -806,7 +806,7 @@
 <form>letech</form>
 <tag>
 <AM lemma="let" src="auto">NNIP6-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP6-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP6-----A----</AM>
 </tag>
 </m>
 <m id="m915-d-id99564">
@@ -1435,7 +1435,7 @@
 <AM lemma="přijetí_^(*3mout)" src="auto">NNNS1-----A----</AM>
 <AM lemma="přijetí_^(*3mout)" src="auto">NNNS2-----A----</AM>
 <AM lemma="přijetí_^(*3mout)" src="auto">NNNS3-----A----</AM>
-<AM lemma="přijetí_^(*3mout)" src="auto" recommended="1">NNNS4-----A----</AM>
+<AM lemma="přijetí_^(*1)_(*3mout)" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="přijetí_^(*3mout)" src="auto">NNNS5-----A----</AM>
 <AM lemma="přijetí_^(*3mout)" src="auto">NNNS6-----A----</AM>
 </tag>
@@ -1706,7 +1706,7 @@
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FP1---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FP4---------1</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8FS2---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8FS2---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS3---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS6---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8IP1---------1</AM>
@@ -2488,7 +2488,7 @@
 <form>míří</form>
 <tag>
 <AM lemma="mířit_:T_^(např._pistolí;_směřovat;_tvar_slovesa)" src="auto">VB-P---3P-AA---</AM>
-<AM lemma="mířit_^(např._pistolí;_směřovat;_tvar_slovesa)" src="auto" recommended="1" selected="1">VB-S---3P-AAI--</AM>
+<AM lemma="mířit" src="auto" recommended="1" selected="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m915-d1e1265-x3-3465">
@@ -2679,7 +2679,7 @@
 </w.rf>
 <form>druhého</form>
 <tag>
-<AM lemma="druhý" src="auto" recommended="1">CrIS2----------</AM>
+<AM lemma="druhý`2" src="auto" recommended="1">CrIS2----------</AM>
 <AM lemma="druhý" src="auto">CrMS2----------</AM>
 <AM lemma="druhý" src="auto">CrMS4----------</AM>
 <AM lemma="druhý" src="auto">CrNS2----------</AM>
@@ -3480,7 +3480,7 @@
 <form>vás</form>
 <tag>
 <AM lemma="ty" src="auto">PP-P2--2-------</AM>
-<AM lemma="ty" src="auto" recommended="1">PP-P4--2-------</AM>
+<AM lemma="vy" src="auto" recommended="1">PP-P4--2-------</AM>
 <AM lemma="ty" src="auto">PP-P6--2-------</AM>
 </tag>
 </m>

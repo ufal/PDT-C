@@ -612,7 +612,7 @@
 <LM>w#w-lnd92254-061-p5s1w17</LM>
 </w.rf>
 <form>člen</form>
-<tag lemma="člen" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-061-p5s1w18">
 <src.rf>manual</src.rf>
@@ -798,7 +798,7 @@
 <LM>w#w-lnd92254-061-p6s1w6</LM>
 </w.rf>
 <form>členy</form>
-<tag lemma="člen" src="orig" selected="1">NNMP7-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-lnd92254-061-p6s1w7">
 <src.rf>manual</src.rf>
@@ -993,7 +993,7 @@
 <LM>w#w-lnd92254-061-p6s2w2</LM>
 </w.rf>
 <form>členy</form>
-<tag lemma="člen" src="orig" selected="1">NNMP7-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-lnd92254-061-p6s2w3">
 <src.rf>manual</src.rf>
@@ -1438,7 +1438,7 @@
 <LM>w#w-lnd92254-061-p7s1w41</LM>
 </w.rf>
 <form>umění</form>
-<tag lemma="umění_^(mít_schopnost_něco_dělat)_(*2t)" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="umění_^(*2t)" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd92254-061-p7s1w42">
 <src.rf>manual</src.rf>

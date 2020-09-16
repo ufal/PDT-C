@@ -152,7 +152,7 @@
 <LM>w#w-wsj2368-001-p1s0W13</LM>
 </w.rf>
 <form>show</form>
-<tag lemma="show" src="auto" recommended="1" selected="1">NNXXX-----A----</tag>
+<tag lemma="show-1" src="auto" recommended="1" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-wsj2368-001-p1s0W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -485,7 +485,7 @@
 <LM>w#w-wsj2368-001-p1s0W39</LM>
 </w.rf>
 <form>show</form>
-<tag lemma="show" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="show-1" src="auto" recommended="1">NNXXX-----A----</tag>
 </m>
 <m id="m-wsj2368-001-p1s0W40-Ta">
 <src.rf>tagger-a</src.rf>
@@ -512,7 +512,7 @@
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS1---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS4---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS5---------1</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8YP4---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8YP4---------1</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOFP-----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOIP-----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AONS-----------</AM>
@@ -687,7 +687,7 @@
 <AM lemma="špatný" src="auto">AAFS4----3A----</AM>
 <AM lemma="špatný" src="auto">AAFS5----3A----</AM>
 <AM lemma="špatný" src="auto">AAFS6----3A----</AM>
-<AM lemma="špatný" src="auto" selected="1">AAFS7----3A----</AM>
+<AM lemma="horší" src="auto" selected="1">AAFS7----3A----</AM>
 <AM lemma="špatný" src="auto">AAIP1----3A----</AM>
 <AM lemma="špatný" src="auto">AAIP4----3A----</AM>
 <AM lemma="špatný" src="auto">AAIP5----3A----</AM>
@@ -1051,7 +1051,7 @@
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS1---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS4---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS5---------1</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8YP4---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8YP4---------1</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOFP-----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOIP-----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AONS-----------</AM>
@@ -1569,7 +1569,7 @@
 </w.rf>
 <form>ne</form>
 <tag>
-<AM lemma="ne" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ne-1" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="neděle" src="auto">NNFXX-----A---8</AM>
 </tag>
 </m>
@@ -1629,7 +1629,7 @@
 </w.rf>
 <form>nám</form>
 <tag>
-<AM lemma="já" src="auto" recommended="1">PP-P3--1-------</AM>
+<AM lemma="my" src="auto" recommended="1">PP-P3--1-------</AM>
 <AM lemma="náměstí_:B" src="auto">NNNXX-----A---8</AM>
 </tag>
 </m>
@@ -1680,7 +1680,7 @@
 <LM>w#w-wsj2368-001-p1s5W7</LM>
 </w.rf>
 <form>show</form>
-<tag lemma="show" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="show-1" src="auto" recommended="1">NNXXX-----A----</tag>
 </m>
 <m id="m-wsj2368-001-p1s5W8-Ta">
 <src.rf>tagger-a</src.rf>

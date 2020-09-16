@@ -321,7 +321,7 @@
 <LM>w#w-mf930709-073-p2s2w12</LM>
 </w.rf>
 <form>přeložení</form>
-<tag lemma="přeložení-1_^(přemístit)_(*5it-1)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="přeložení_^(*3it)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-mf930709-073-p2s2w13">
 <src.rf>manual</src.rf>
@@ -576,7 +576,7 @@
 <LM>w#w-mf930709-073-p3s2w15</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf930709-073-p3s2w16">
 <src.rf>manual</src.rf>
@@ -809,7 +809,7 @@
 </w.rf>
 <form>Brestovanská</form>
 <tag>
-<AM lemma="Brestovanská_;Y" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="Brestovanská_;Y_^(*1ý)" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="brestovanský" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="brestovanský" src="auto">AAFS5----1A----</AM>
 <AM lemma="brestovanský" src="auto">AANP1----1A----</AM>
@@ -823,7 +823,7 @@
 <LM>w#w-mf930709-073-p3s4w9</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf930709-073-p3s4w10">
 <src.rf>manual</src.rf>
@@ -1135,7 +1135,7 @@
 </w.rf>
 <form>Brestovanská</form>
 <tag>
-<AM lemma="Brestovanská_;Y" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="Brestovanská_;Y_^(*1ý)" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="brestovanský" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="brestovanský" src="auto">AAFS5----1A----</AM>
 <AM lemma="brestovanský" src="auto">AANP1----1A----</AM>
@@ -1243,7 +1243,7 @@
 <LM>w#w-mf930709-073-p4s2w13</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-mf930709-073-p4s2w14">
 <src.rf>manual</src.rf>

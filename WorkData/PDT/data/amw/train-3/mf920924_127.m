@@ -601,7 +601,7 @@
 <LM>w#w-mf920924-127-p2s2w40</LM>
 </w.rf>
 <form>Beskydy</form>
-<tag lemma="Beskydy_;G" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="Beskydy-2_;G" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-mf920924-127-p2s2w41">
 <src.rf>manual</src.rf>
@@ -1708,7 +1708,7 @@
 </w.rf>
 <form>proto</form>
 <tag>
-<AM lemma="proto-2_^(dal_mu_co_proto,_tak_proto!)" src="orig" selected="1">Db-------------</AM>
+<AM lemma="proto-2_^(proto_že)" src="orig" selected="1">Db-------------</AM>
 <AM lemma="proto-1_^(proto;_a_proto,_ale_proto,...)" src="manual">J^-------------</AM>
 </tag>
 </m>
@@ -1750,7 +1750,7 @@
 <LM>w#w-mf920924-127-p4s1w29</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS7----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS7----------</tag>
 </m>
 <m id="m-mf920924-127-p4s1w30">
 <src.rf>manual</src.rf>
@@ -1806,7 +1806,7 @@
 <LM>w#w-mf920924-127-p4s1w36</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS7----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS7----------</tag>
 </m>
 <m id="m-mf920924-127-p4s1w37">
 <src.rf>manual</src.rf>
@@ -1864,7 +1864,7 @@
 <LM>w#w-mf920924-127-p4s2w1</LM>
 </w.rf>
 <form>My</form>
-<tag lemma="já" src="orig" selected="1">PP-P1--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P1--1-------</tag>
 </m>
 <m id="m-mf920924-127-p4s2w2">
 <src.rf>manual</src.rf>
@@ -1960,7 +1960,7 @@
 <LM>w#w-mf920924-127-p4s2w13</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf920924-127-p4s2w14">
 <src.rf>manual</src.rf>
@@ -2326,7 +2326,7 @@
 <LM>w#w-mf920924-127-p5s1w20</LM>
 </w.rf>
 <form>proto</form>
-<tag lemma="proto-2_^(dal_mu_co_proto,_tak_proto!)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="proto-2_^(proto_že)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf920924-127-p5s1w21">
 <src.rf>manual</src.rf>
@@ -2750,7 +2750,7 @@
 <LM>w#w-mf920924-127-p5s5w4</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-mf920924-127-p5s5w5">
 <src.rf>manual</src.rf>
@@ -3292,7 +3292,7 @@
 <LM>w#w-mf920924-127-p7s1w13</LM>
 </w.rf>
 <form>rozvody</form>
-<tag lemma="rozvod-2_^(vody,_plynu...)" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="rozvod_^(manželství;vody)" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-mf920924-127-p7s1w14">
 <src.rf>manual</src.rf>
@@ -3619,7 +3619,7 @@
 <LM>w#w-mf920924-127-p7s3w27</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf920924-127-p7s3w28">
 <src.rf>manual</src.rf>
@@ -4428,7 +4428,7 @@
 <LM>w#w-mf920924-127-p9s2w26</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf920924-127-p9s2w27">
 <src.rf>manual</src.rf>
@@ -4508,7 +4508,7 @@
 <LM>w#w-mf920924-127-p9s2w36</LM>
 </w.rf>
 <form>Karlových</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUIP6M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUIP6M---------</tag>
 </m>
 <m id="m-mf920924-127-p9s2w37">
 <src.rf>manual</src.rf>
@@ -5007,7 +5007,7 @@
 <LM>w#w-mf920924-127-p10s2w3</LM>
 </w.rf>
 <form>Karlových</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUIP2M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUIP2M---------</tag>
 </m>
 <m id="m-mf920924-127-p10s2w4">
 <src.rf>manual</src.rf>
@@ -5329,7 +5329,7 @@
 <LM>w#w-mf920924-127-p11s1w21</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf920924-127-p11s1w22">
 <src.rf>manual</src.rf>
@@ -5361,7 +5361,7 @@
 <LM>w#w-mf920924-127-p11s1w25</LM>
 </w.rf>
 <form>Karlových</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUIP2M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUIP2M---------</tag>
 </m>
 <m id="m-mf920924-127-p11s1w26">
 <src.rf>manual</src.rf>

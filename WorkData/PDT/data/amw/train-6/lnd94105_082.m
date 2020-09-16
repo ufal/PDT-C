@@ -232,7 +232,7 @@
 <LM>w#w-lnd94105-082-p1s12w6</LM>
 </w.rf>
 <form>převzetí</form>
-<tag lemma="převzetí_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="převzetí_^(*3ít)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-lnd94105-082-p1s12w7">
 <src.rf>manual</src.rf>
@@ -966,7 +966,7 @@
 <LM>w#w-lnd94105-082-p1s16w19</LM>
 </w.rf>
 <form>dny</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-lnd94105-082-p1s16w20">
 <src.rf>manual</src.rf>
@@ -1084,7 +1084,7 @@
 <LM>w#w-lnd94105-082-p1s17w13</LM>
 </w.rf>
 <form>jejích</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP6FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XP6FS3-------</tag>
 </m>
 <m id="m-lnd94105-082-p1s17w14">
 <src.rf>manual</src.rf>
@@ -1206,7 +1206,7 @@
 <LM>w#w-lnd94105-082-p1s18w13</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-lnd94105-082-p1s18w14">
 <src.rf>manual</src.rf>

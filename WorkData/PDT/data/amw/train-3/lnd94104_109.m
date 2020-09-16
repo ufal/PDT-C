@@ -356,7 +356,7 @@
 <LM>w#w-lnd94104-109-p1s2Dw17</LM>
 </w.rf>
 <form>členové</form>
-<tag lemma="člen" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd94104-109-p1s2Dw18">
 <src.rf>manual</src.rf>
@@ -666,7 +666,7 @@
 <LM>w#w-lnd94104-109-p1s4w13</LM>
 </w.rf>
 <form>sekretáře</form>
-<tag lemma="sekretář" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="sekretář-2" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94104-109-p1s4w14">
 <src.rf>manual</src.rf>
@@ -906,7 +906,7 @@
 <LM>w#w-lnd94104-109-p1s4w43</LM>
 </w.rf>
 <form>výbor</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94104-109-p1s4w44">
 <src.rf>manual</src.rf>
@@ -1115,7 +1115,7 @@
 <LM>w#w-lnd94104-109-p1s5w5</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-lnd94104-109-p1s5w6">
 <src.rf>manual</src.rf>
@@ -1147,7 +1147,7 @@
 <LM>w#w-lnd94104-109-p1s5w9</LM>
 </w.rf>
 <form>Petrovové</form>
-<tag lemma="Petrov_;Y" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="Petrov-1_;Y" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd94104-109-p1s5w10">
 <src.rf>manual</src.rf>
@@ -1206,7 +1206,7 @@
 <LM>w#w-lnd94104-109-p1s5w16</LM>
 </w.rf>
 <form>sekretář</form>
-<tag lemma="sekretář" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="sekretář-2" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-109-p1s5w17">
 <src.rf>manual</src.rf>
@@ -1241,7 +1241,7 @@
 <LM>w#w-lnd94104-109-p1s5w20</LM>
 </w.rf>
 <form>svoji</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4----------</tag>
 </m>
 <m id="m-lnd94104-109-p1s5w21">
 <src.rf>manual</src.rf>
@@ -1305,7 +1305,7 @@
 <LM>w#w-lnd94104-109-p1s5w28</LM>
 </w.rf>
 <form>spravedlnosti</form>
-<tag lemma="spravedlnost_^(*3ý)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="spravedlnost-1_^(*5ý-1)" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94104-109-p1s5w29">
 <src.rf>manual</src.rf>
@@ -1493,7 +1493,7 @@
 <LM>w#w-lnd94104-109-p1s7w7</LM>
 </w.rf>
 <form>zaujatosti</form>
-<tag lemma="zaujatost_^(proti_někomu/něčemu)_(*3ý)" src="auto" selected="1">NNFS3-----A----</tag>
+<tag lemma="zaujatost_^(*3ý)" src="auto" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-lnd94104-109-p1s7w8">
 <src.rf>manual</src.rf>
@@ -2637,7 +2637,7 @@
 <LM>w#w-lnd94104-109-p1s11Bw13</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-lnd94104-109-p1s11Bw14">
 <src.rf>manual</src.rf>
@@ -2667,7 +2667,7 @@
 <LM>w#w-lnd94104-109-p1s12w1</LM>
 </w.rf>
 <form>Petrov</form>
-<tag lemma="Petrov_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Petrov-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-109-p1s12w2">
 <src.rf>manual</src.rf>
@@ -2797,7 +2797,7 @@
 <LM>w#w-lnd94104-109-p1s13Aw4</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-lnd94104-109-p1s13Aw5">
 <src.rf>manual</src.rf>
@@ -2918,7 +2918,7 @@
 <LM>w#w-lnd94104-109-p1s13Bw2</LM>
 </w.rf>
 <form>náš</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSYS1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSYS1-P1-------</tag>
 </m>
 <m id="m-lnd94104-109-p1s13Bw3">
 <src.rf>manual</src.rf>
@@ -2983,7 +2983,7 @@
 <LM>w#w-lnd94104-109-p1s13Bw9</LM>
 </w.rf>
 <form>Miroslav</form>
-<tag lemma="Miroslav_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Miroslav-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-109-p1s13Bw10">
 <src.rf>manual</src.rf>
@@ -3135,7 +3135,7 @@
 <LM>w#w-lnd94104-109-p1s13Bw27</LM>
 </w.rf>
 <form>Petrova</form>
-<tag lemma="Petrov_;Y" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Petrov-1_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94104-109-p1s13Bw28">
 <src.rf>manual</src.rf>

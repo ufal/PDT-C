@@ -1318,7 +1318,7 @@
 <LM>w#w-mf930702-109-p5s3w3</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="mluvčí-2" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930702-109-p5s3w4">
 <src.rf>manual</src.rf>

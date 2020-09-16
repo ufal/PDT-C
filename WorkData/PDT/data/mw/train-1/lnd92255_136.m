@@ -350,7 +350,7 @@
 <LM>w#w-lnd92255-136-p2s3w23</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92255-136-p2s3w24">
 <src.rf>manual</src.rf>

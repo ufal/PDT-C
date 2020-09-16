@@ -191,7 +191,7 @@
 <LM>w#w-lnd91301-070-p2s1Bw14</LM>
 </w.rf>
 <form>vězení</form>
-<tag lemma="vězení_,a_^(místo_výkonu_trestu)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="vězení_^(místo_výkonu_trestu)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-lnd91301-070-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -729,7 +729,7 @@
 <LM>w#w-lnd91301-070-p3s3w16</LM>
 </w.rf>
 <form>činitelé</form>
-<tag lemma="činitel" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="činitel-1" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd91301-070-p3s3w17">
 <src.rf>manual</src.rf>

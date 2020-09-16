@@ -35,7 +35,7 @@
 <LM>w#w-ln94201-81-p1s1w3</LM>
 </w.rf>
 <form>Troje</form>
-<tag lemma="Trója_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Troja_;G_,s_^(^DD**Trója)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 </s>
 <s id="m-ln94201-81-p2s1">
@@ -141,7 +141,7 @@
 <LM>w#w-ln94201-81-p2s1w12</LM>
 </w.rf>
 <form>Troji</form>
-<tag lemma="Trója_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Troja_;G_,s_^(^DD**Trója)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94201-81-p2s1w13">
 <src.rf>manual</src.rf>

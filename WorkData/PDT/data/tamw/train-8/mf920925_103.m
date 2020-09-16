@@ -107,7 +107,7 @@
 <LM>w#w-mf920925-103-p1s1w12</LM>
 </w.rf>
 <form>masových</form>
-<tag lemma="masový-2_^(velký)" src="orig" selected="1">AAIP2----1A----</tag>
+<tag lemma="masový" src="orig" selected="1">AAIP2----1A----</tag>
 </m>
 <m id="m-mf920925-103-p1s1w13">
 <src.rf>manual</src.rf>
@@ -293,7 +293,7 @@
 <LM>w#w-mf920925-103-p1s2w14</LM>
 </w.rf>
 <form>tajná</form>
-<tag lemma="tajný" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-mf920925-103-p1s2w15">
 <src.rf>manual</src.rf>

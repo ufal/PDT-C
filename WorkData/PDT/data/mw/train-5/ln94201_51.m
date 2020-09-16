@@ -435,7 +435,7 @@
 <LM>w#w-ln94201-51-p2s2w26</LM>
 </w.rf>
 <form>průvodce</form>
-<tag lemma="průvodce" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="průvodce-1" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94201-51-p2s2w27">
 <src.rf>manual</src.rf>
@@ -703,7 +703,7 @@
 <LM>w#w-ln94201-51-p2s4w6</LM>
 </w.rf>
 <form>stojí</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94201-51-p2s4w7">
 <src.rf>manual</src.rf>
@@ -908,7 +908,7 @@
 <LM>w#w-ln94201-51-p2s4w31</LM>
 </w.rf>
 <form>devizy</form>
-<tag lemma="deviza" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="deviza_^(v_peněžnictví)" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-ln94201-51-p2s4w32">
 <src.rf>manual</src.rf>

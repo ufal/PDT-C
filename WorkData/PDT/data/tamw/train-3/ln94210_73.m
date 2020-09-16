@@ -548,7 +548,7 @@
 <LM>w#w-ln94210-73-p2s2w31</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94210-73-p2s2w32">
 <src.rf>manual</src.rf>
@@ -904,7 +904,7 @@
 <LM>w#w-ln94210-73-p3s2w1</LM>
 </w.rf>
 <form>Její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS1FS3-------</tag>
 </m>
 <m id="m-ln94210-73-p3s2w2">
 <src.rf>manual</src.rf>
@@ -1077,7 +1077,7 @@
 <LM>w#w-ln94210-73-p3s3w10</LM>
 </w.rf>
 <form>jehož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P1XXXZS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXZS3-------</tag>
 </m>
 <m id="m-ln94210-73-p3s3w11">
 <src.rf>manual</src.rf>
@@ -1779,7 +1779,7 @@
 <LM>w#w-ln94210-73-p3s8w33</LM>
 </w.rf>
 <form>Hnutí</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln94210-73-p3s8w34">
 <src.rf>manual</src.rf>
@@ -1986,7 +1986,7 @@
 <LM>w#w-ln94210-73-p4s1w11</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-ln94210-73-p4s1w12">
 <src.rf>manual</src.rf>
@@ -2255,7 +2255,7 @@
 <LM>w#w-ln94210-73-p4s2w27</LM>
 </w.rf>
 <form>druhý</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS4----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS4----------</tag>
 </m>
 <m id="m-ln94210-73-p4s2w28">
 <src.rf>manual</src.rf>

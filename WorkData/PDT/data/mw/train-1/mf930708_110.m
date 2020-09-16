@@ -311,7 +311,7 @@
 <LM>w#w-mf930708-110-p2s2w12</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP6-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP6-P1-------</tag>
 </m>
 <m id="m-mf930708-110-p2s2w13">
 <src.rf>manual</src.rf>
@@ -447,7 +447,7 @@
 <LM>w#w-mf930708-110-p2s3w1</LM>
 </w.rf>
 <form>Moje</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSHS1-S1-------</tag>
+<tag lemma="můj" src="orig" selected="1">PSHS1-S1-------</tag>
 </m>
 <m id="m-mf930708-110-p2s3w2">
 <src.rf>manual</src.rf>

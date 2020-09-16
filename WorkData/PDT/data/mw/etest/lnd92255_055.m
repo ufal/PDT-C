@@ -281,7 +281,7 @@
 <LM>w#w-lnd92255-055-p3s2w26</LM>
 </w.rf>
 <form>politice</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-lnd92255-055-p3s2w27">
 <src.rf>manual</src.rf>
@@ -517,7 +517,7 @@
 <LM>w#w-lnd92255-055-p3s4w13</LM>
 </w.rf>
 <form>delší</form>
-<tag lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">AAFS4----2A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFS4----2A----</tag>
 </m>
 <m id="m-lnd92255-055-p3s4w14">
 <src.rf>manual</src.rf>
@@ -613,7 +613,7 @@
 <LM>w#w-lnd92255-055-p3s4w25</LM>
 </w.rf>
 <form>politiky</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92255-055-p3s4w26">
 <src.rf>manual</src.rf>
@@ -629,7 +629,7 @@
 <LM>w#w-lnd92255-055-p3s4w27</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92255-055-p3s4w28">
 <src.rf>manual</src.rf>

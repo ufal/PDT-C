@@ -205,7 +205,7 @@
 <LM>w#w-mf930703-138-p2s1w15</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf930703-138-p2s1w16">
 <src.rf>manual</src.rf>
@@ -261,7 +261,7 @@
 <LM>w#w-mf930703-138-p2s1w22</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf930703-138-p2s1w23">
 <src.rf>manual</src.rf>
@@ -269,7 +269,7 @@
 <LM>w#w-mf930703-138-p2s1w23</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-mf930703-138-p2s1w24">
 <src.rf>manual</src.rf>
@@ -309,7 +309,7 @@
 <LM>w#w-mf930703-138-p2s1w28</LM>
 </w.rf>
 <form>druhý</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS4----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS4----------</tag>
 </m>
 <m id="m-mf930703-138-p2s1w29">
 <src.rf>manual</src.rf>
@@ -781,7 +781,7 @@
 <LM>w#w-mf930703-138-p3s4w1</LM>
 </w.rf>
 <form>mluvčího</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930703-138-p3s4w2">
 <src.rf>manual</src.rf>

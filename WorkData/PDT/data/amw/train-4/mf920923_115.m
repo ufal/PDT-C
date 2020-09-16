@@ -69,7 +69,7 @@
 <LM>w#w-mf920923-115-p1s1Bw1</LM>
 </w.rf>
 <form>JARUZELSKI</form>
-<tag lemma="Jaruzelski_;Y" src="auto" selected="1">NNMS1-----A---1</tag>
+<tag lemma="Jaruzelský_;Y" src="auto" selected="1">NNMS1-----A---1</tag>
 </m>
 <m id="m-mf920923-115-p1s1Bw2">
 <src.rf>manual</src.rf>
@@ -85,7 +85,7 @@
 <LM>w#w-mf920923-115-p1s1Bw3</LM>
 </w.rf>
 <form>SVOU</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-mf920923-115-p1s1Bw4">
 <src.rf>manual</src.rf>
@@ -93,7 +93,7 @@
 <LM>w#w-mf920923-115-p1s1Bw4</LM>
 </w.rf>
 <form>ODPOVĚDNOST</form>
-<tag lemma="odpovědnost_^(kdo_za_něco_odpovídá)_(*3ý)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="odpovědnost_^(*3ý)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 </s>
 <s id="m-mf920923-115-p2s1">
@@ -129,7 +129,7 @@
 <LM>w#w-mf920923-115-p2s2w2</LM>
 </w.rf>
 <form>odpovědnost</form>
-<tag lemma="odpovědnost_^(kdo_za_něco_odpovídá)_(*3ý)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="odpovědnost_^(*3ý)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf920923-115-p2s2w3">
 <src.rf>manual</src.rf>
@@ -241,7 +241,7 @@
 <LM>w#w-mf920923-115-p2s2w16</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrMS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrMS1----------</tag>
 </m>
 <m id="m-mf920923-115-p2s2w17">
 <src.rf>manual</src.rf>
@@ -321,7 +321,7 @@
 <LM>w#w-mf920923-115-p2s2w25</LM>
 </w.rf>
 <form>Jaruzelski</form>
-<tag lemma="Jaruzelski_;Y" src="auto" selected="1">NNMS1-----A---1</tag>
+<tag lemma="Jaruzelský_;Y" src="auto" selected="1">NNMS1-----A---1</tag>
 </m>
 <m id="m-mf920923-115-p2s2w26">
 <src.rf>manual</src.rf>
@@ -371,7 +371,7 @@
 <LM>w#w-mf920923-115-p2s3w5</LM>
 </w.rf>
 <form>členům</form>
-<tag lemma="člen" src="orig" selected="1">NNMP3-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP3-----A----</tag>
 </m>
 <m id="m-mf920923-115-p2s3w6">
 <src.rf>manual</src.rf>
@@ -435,7 +435,7 @@
 <LM>w#w-mf920923-115-p2s3w13</LM>
 </w.rf>
 <form>odpovědností</form>
-<tag lemma="odpovědnost_^(kdo_za_něco_odpovídá)_(*3ý)" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="odpovědnost_^(*3ý)" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-mf920923-115-p2s3w14">
 <src.rf>manual</src.rf>
@@ -453,7 +453,7 @@
 <LM>w#w-mf920923-115-p2s4w1</LM>
 </w.rf>
 <form>Jaruzelski</form>
-<tag lemma="Jaruzelski_;Y" src="auto" selected="1">NNMS1-----A---1</tag>
+<tag lemma="Jaruzelský_;Y" src="auto" selected="1">NNMS1-----A---1</tag>
 </m>
 <m id="m-mf920923-115-p2s4w2">
 <src.rf>manual</src.rf>
@@ -690,7 +690,7 @@
 <LM>w#w-mf920923-115-p2s5w8</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-mf920923-115-p2s5w9">
 <src.rf>manual</src.rf>

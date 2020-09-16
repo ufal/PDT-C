@@ -167,7 +167,7 @@
 <LM>w#w-ln95040-083-p2s1Bw13</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95040-083-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -308,7 +308,7 @@
 <LM>w#w-ln95040-083-p2s2w12</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95040-083-p2s2w13">
 <src.rf>manual</src.rf>
@@ -324,7 +324,7 @@
 <LM>w#w-ln95040-083-p2s2w14</LM>
 </w.rf>
 <form>Vladimira</form>
-<tag lemma="Vladimir_;Y" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Vladimir_;Y_,s_^(^DD**Vladimír)" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95040-083-p2s2w15">
 <src.rf>manual</src.rf>

@@ -214,7 +214,7 @@
 <LM>w#w-ln94204-13-p2s1w22</LM>
 </w.rf>
 <form>stadion</form>
-<tag lemma="stadión" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="stadion_,s_^(^DD**stadión)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln94204-13-p2s1w23">
 <src.rf>manual</src.rf>
@@ -422,7 +422,7 @@
 <LM>w#w-ln94204-13-p3s1w16</LM>
 </w.rf>
 <form>zpevnění</form>
-<tag lemma="zpevnění_^(*3it)" src="orig" selected="1">NNNS3-----A----</tag>
+<tag lemma="zpevnění_^(*2t)_(*3it)" src="orig" selected="1">NNNS3-----A----</tag>
 </m>
 <m id="m-ln94204-13-p3s1w17">
 <src.rf>manual</src.rf>

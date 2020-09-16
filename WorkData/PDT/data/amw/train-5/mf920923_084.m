@@ -366,7 +366,7 @@
 <LM>w#w-mf920923-084-p2s4w6</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP2-P1-------</tag>
 </m>
 <m id="m-mf920923-084-p2s4w7">
 <src.rf>manual</src.rf>
@@ -1012,7 +1012,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf920923-084-p2s7w5">
@@ -1101,7 +1101,7 @@
 <LM>w#w-mf920923-084-p2s7w15</LM>
 </w.rf>
 <form>naši</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSMP1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSMP1-P1-------</tag>
 </m>
 <m id="m-mf920923-084-p2s7w16">
 <src.rf>manual</src.rf>
@@ -1337,7 +1337,7 @@
 <LM>w#w-mf920923-084-p2s9w2</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf920923-084-p2s9w3">
 <src.rf>manual</src.rf>

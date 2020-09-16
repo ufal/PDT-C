@@ -296,7 +296,7 @@
 <LM>w#w-mf930702-127-p2s1w29</LM>
 </w.rf>
 <form>Yorku</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="York-2_;G_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-mf930702-127-p2s1w30">
 <src.rf>manual</src.rf>

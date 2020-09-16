@@ -149,7 +149,7 @@
 <LM>w#w-ln95048-053-p2s1w10</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-ln95048-053-p2s1w11">
 <src.rf>manual</src.rf>
@@ -383,7 +383,7 @@
 <LM>w#w-ln95048-053-p2s3w2</LM>
 </w.rf>
 <form>jezdci</form>
-<tag lemma="jezdec" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="jezdec-1" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln95048-053-p2s3w3">
 <src.rf>manual</src.rf>
@@ -1108,7 +1108,7 @@
 <LM>w#w-ln95048-053-p3s1w46</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS1FS3-------</tag>
 </m>
 <m id="m-ln95048-053-p3s1w47">
 <src.rf>manual</src.rf>
@@ -1143,7 +1143,7 @@
 <LM>w#w-ln95048-053-p3s1w50</LM>
 </w.rf>
 <form>jezdci</form>
-<tag lemma="jezdec" src="orig" selected="1">NNMP7-----A----</tag>
+<tag lemma="jezdec-1" src="orig" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-ln95048-053-p3s1w51">
 <src.rf>manual</src.rf>
@@ -2411,7 +2411,7 @@
 <LM>w#w-ln95048-053-p6s1w7</LM>
 </w.rf>
 <form>Luzern</form>
-<tag lemma="Lucern_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Luzern_;G_,s_^(^DD**Lucern)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95048-053-p6s1w8">
 <src.rf>manual</src.rf>
@@ -2881,7 +2881,7 @@
 <LM>w#w-ln95048-053-p10s1w19</LM>
 </w.rf>
 <form>Vysokého</form>
-<tag lemma="Vysoký-2_;G" src="orig" selected="1">AANS2----1A----</tag>
+<tag lemma="vysoký" src="orig" selected="1">AANS2----1A----</tag>
 </m>
 <m id="m-ln95048-053-p10s1w20">
 <src.rf>manual</src.rf>

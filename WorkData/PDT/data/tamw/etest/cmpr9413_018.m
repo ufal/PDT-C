@@ -35,7 +35,7 @@
 <LM>w#w-cmpr9413-018-p2s1w3</LM>
 </w.rf>
 <form>Náš</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSYS1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSYS1-P1-------</tag>
 </m>
 <m id="m-cmpr9413-018-p2s1w4">
 <src.rf>manual</src.rf>
@@ -391,7 +391,7 @@
 <LM>w#w-cmpr9413-018-p4s2w20</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-cmpr9413-018-p4s2w21">
 <src.rf>manual</src.rf>
@@ -590,7 +590,7 @@
 <LM>w#w-cmpr9413-018-p4s4w6</LM>
 </w.rf>
 <form>letouny</form>
-<tag lemma="letoun" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="letoun-1" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-cmpr9413-018-p4s4w7">
 <src.rf>manual</src.rf>
@@ -664,7 +664,7 @@
 <LM>w#w-cmpr9413-018-p4s5w3</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-cmpr9413-018-p4s5w4">
 <src.rf>manual</src.rf>
@@ -842,7 +842,7 @@
 <LM>w#w-cmpr9413-018-p4s6w13</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-cmpr9413-018-p4s6w14">
 <src.rf>manual</src.rf>
@@ -1944,7 +1944,7 @@
 <LM>w#w-cmpr9413-018-p8s3w8</LM>
 </w.rf>
 <form>zjednodušení</form>
-<tag lemma="zjednodušení_,s_^(*2t)" src="auto" selected="1">NNNS4-----A----</tag>
+<tag lemma="zjednodušení_^(*2t)_(*3it)" src="auto" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-cmpr9413-018-p8s3w9">
 <src.rf>manual</src.rf>
@@ -2743,7 +2743,7 @@
 <LM>w#w-cmpr9413-018-p10s1w10</LM>
 </w.rf>
 <form>pas</form>
-<tag lemma="pas-1_^(př._cestovní)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="pas-1_^(přihrávka,_př._v_kopané,na_lidském_těle;;cestovní)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-cmpr9413-018-p10s1w11">
 <src.rf>manual</src.rf>
@@ -2761,7 +2761,7 @@
 <form>vizum</form>
 <tag>
 <AM lemma="vízum_,x_^(cest._formalita)" src="orig">NNNS4-----A----</AM>
-<AM lemma="vizum_,i_^(^DS**vízum)" src="manual" selected="1">NNNS4-----A----</AM>
+<AM lemma="vizum_,i_^(cest._formalita)_(^DS**vízum)" src="manual" selected="1">NNNS4-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-018-p10s1w13">
@@ -3048,7 +3048,7 @@
 <LM>w#w-cmpr9413-018-p10s4w9</LM>
 </w.rf>
 <form>nezaměstnanosti</form>
-<tag lemma="nezaměstnanost-2_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="nezaměstnanost_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-cmpr9413-018-p10s4w10">
 <src.rf>manual</src.rf>

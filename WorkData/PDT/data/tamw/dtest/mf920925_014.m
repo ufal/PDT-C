@@ -319,7 +319,7 @@
 <LM>w#w-mf920925-014-p2s2w27</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-mf920925-014-p2s2w28">
 <src.rf>manual</src.rf>
@@ -631,7 +631,7 @@
 <LM>w#w-mf920925-014-p3s2w1</LM>
 </w.rf>
 <form>Nezaměstnanost</form>
-<tag lemma="nezaměstnanost-2_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="nezaměstnanost_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920925-014-p3s2w2">
 <src.rf>manual</src.rf>

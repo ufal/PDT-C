@@ -354,7 +354,7 @@
 <form>Albertě</form>
 <tag>
 <AM lemma="Alberta-1_;G" src="auto">NNFS3-----A----</AM>
-<AM lemma="Alberta-1_;G" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="Alberta_;G_;Y_;m" src="auto" recommended="1">NNFS6-----A----</AM>
 <AM lemma="Alberta-2_;Y" src="auto">NNFS3-----A----</AM>
 <AM lemma="Alberta-2_;Y" src="auto">NNFS6-----A----</AM>
 </tag>
@@ -1096,7 +1096,7 @@
 <form>Albertě</form>
 <tag>
 <AM lemma="Alberta-1_;G" src="auto">NNFS3-----A----</AM>
-<AM lemma="Alberta-1_;G" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="Alberta_;G_;Y_;m" src="auto" recommended="1">NNFS6-----A----</AM>
 <AM lemma="Alberta-2_;Y" src="auto">NNFS3-----A----</AM>
 <AM lemma="Alberta-2_;Y" src="auto">NNFS6-----A----</AM>
 </tag>
@@ -1583,7 +1583,7 @@
 <AM lemma="Quebec_;G_,s" src="auto">NNIS3-----A----</AM>
 <AM lemma="Quebec_;G_,s" src="auto" recommended="1">NNIS6-----A----</AM>
 <AM lemma="Quebec_;G_,s_^(^DD**Québec)" src="manual">NNIS2-----A----</AM>
-<AM lemma="Quebec_;G_,s_^(^DD**Québec)" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="Quebec_;G" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1718-001-p1s3W13-Ta">
@@ -1748,7 +1748,7 @@
 <form>Albertě</form>
 <tag>
 <AM lemma="Alberta-1_;G" src="auto">NNFS3-----A----</AM>
-<AM lemma="Alberta-1_;G" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="Alberta_;G_;Y_;m" src="auto" recommended="1">NNFS6-----A----</AM>
 <AM lemma="Alberta-2_;Y" src="auto">NNFS3-----A----</AM>
 <AM lemma="Alberta-2_;Y" src="auto">NNFS6-----A----</AM>
 </tag>
@@ -1852,7 +1852,7 @@
 </w.rf>
 <form>svých</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8XP2----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8XP2----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8XP6----------</AM>
 </tag>
 </m>

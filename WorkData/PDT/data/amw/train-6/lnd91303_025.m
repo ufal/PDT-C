@@ -455,7 +455,7 @@
 <tag>
 <AM lemma="rádio_,a" src="orig">NNNS4-----A----</AM>
 <AM lemma="radio_,a_,s_^(^DD**rádio)" src="manual">NNNS4-----A----</AM>
-<AM lemma="radio_,a_,s_^(^DD**rádio)" src="manual" selected="1">NNNS4-----A----</AM>
+<AM lemma="radio-1_,s_^(^DD**rádio)" src="manual" selected="1">NNNS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-025-p1s3w18">

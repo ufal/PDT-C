@@ -188,7 +188,7 @@
 <tag>
 <AM lemma="jenom-1" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="jenom-2_^(pouze)" src="auto">Db-------------</AM>
-<AM lemma="jenom-2_,s_^(^DD**jen-4)_(pouze)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="jenom-2_^(pouze)" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m045-d1t1816-10">
@@ -326,7 +326,7 @@
 <AM lemma="co-1" src="auto">PQ--4----------</AM>
 <AM lemma="co-2_^(cože;_ale_co)" src="auto">TT-------------</AM>
 <AM lemma="co-3_^(když:_poté/od_té_doby,_co)" src="auto">J,-------------</AM>
-<AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto" selected="1">P4XXX----------</AM>
+<AM lemma="co-4_^(který:_o_těch,_co_odešli)" src="auto" selected="1">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
 </tag>
@@ -532,7 +532,7 @@
 <tag>
 <AM lemma="jenom-1" src="auto">TT-------------</AM>
 <AM lemma="jenom-2_^(pouze)" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="jenom-2_,s_^(^DD**jen-4)_(pouze)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="jenom-2_^(pouze)" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m045-d1t1846-4">
@@ -676,7 +676,7 @@
 <tag>
 <AM lemma="můj_^(přivlast.)" src="auto">PSFP1-S1------1</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSFP4-S1------1</AM>
-<AM lemma="můj_^(přivlast.)" src="auto" selected="1">PSFS2-S1------1</AM>
+<AM lemma="můj" src="auto" selected="1">PSFS2-S1------1</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSFS3-S1------1</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSFS6-S1------1</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSIP1-S1------1</AM>
@@ -1954,7 +1954,7 @@
 <form>druhému</form>
 <tag>
 <AM lemma="druhý" src="auto">CrIS3----------</AM>
-<AM lemma="druhý" src="auto" recommended="1">CrMS3----------</AM>
+<AM lemma="druhý`2" src="auto" recommended="1">CrMS3----------</AM>
 <AM lemma="druhý" src="auto">CrNS3----------</AM>
 </tag>
 </m>
@@ -2152,7 +2152,7 @@
 <tag>
 <AM lemma="jenom-1" src="auto">TT-------------</AM>
 <AM lemma="jenom-2_^(pouze)" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="jenom-2_,s_^(^DD**jen-4)_(pouze)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="jenom-2_^(pouze)" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m045-d1t1966-8">
@@ -3149,7 +3149,7 @@
 <tag>
 <AM lemma="ty" src="auto" recommended="1">PP-P1--2-------</AM>
 <AM lemma="ty" src="auto">PP-P5--2-------</AM>
-<AM lemma="ty_^(**já)" src="manual" selected="1">PP-P1--2-------</AM>
+<AM lemma="vy" src="manual" selected="1">PP-P1--2-------</AM>
 </tag>
 </m>
 <m id="m045-d1t2029-2">
@@ -3279,7 +3279,7 @@
 <AM lemma="Spišský_;G" src="auto">AAFP5----1A----</AM>
 <AM lemma="Spišský_;G" src="auto">AAFS2----1A----</AM>
 <AM lemma="Spišský_;G" src="auto">AAFS3----1A----</AM>
-<AM lemma="Spišský_;G" src="auto" recommended="1">AAFS6----1A----</AM>
+<AM lemma="spišský" src="auto" recommended="1">AAFS6----1A----</AM>
 <AM lemma="Spišský_;G" src="auto">AAIP1----1A----</AM>
 <AM lemma="Spišský_;G" src="auto">AAIP4----1A----</AM>
 <AM lemma="Spišský_;G" src="auto">AAIP5----1A----</AM>
@@ -3416,7 +3416,7 @@
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP5FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSZS1FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSZS5FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="manual" selected="1">P9ZS1FS3-------</AM>
+<AM lemma="jeho" src="manual" selected="1">P9ZS1FS3-------</AM>
 </tag>
 </m>
 <m id="m045-d1t2043-2">
@@ -3654,7 +3654,7 @@
 <AM lemma="Spišský_;G" src="auto">AAFP1----1A----</AM>
 <AM lemma="Spišský_;G" src="auto">AAFP4----1A----</AM>
 <AM lemma="Spišský_;G" src="auto">AAFP5----1A----</AM>
-<AM lemma="Spišský_;G" src="auto" recommended="1">AAFS2----1A----</AM>
+<AM lemma="spišský" src="auto" recommended="1">AAFS2----1A----</AM>
 <AM lemma="Spišský_;G" src="auto">AAFS3----1A----</AM>
 <AM lemma="Spišský_;G" src="auto">AAFS6----1A----</AM>
 <AM lemma="Spišský_;G" src="auto">AAIP1----1A----</AM>

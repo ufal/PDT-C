@@ -47,7 +47,7 @@
 <form>AIDS</form>
 <tag>
 <AM lemma="AIDS_:B_;U_,x_^(Syndrom_získaného_selhání_imunity)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="AIDS-2_;U_^(Syndrom_získaného_selhání_imunity)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="AIDS_;U_^(Syndrom_získaného_selhání_imunity)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -204,7 +204,7 @@
 <LM>w#w-lnd92258-062-p3s2w17</LM>
 </w.rf>
 <form>virem</form>
-<tag lemma="vir" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="vir-1" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-lnd92258-062-p3s2w18">
 <src.rf>manual</src.rf>
@@ -214,7 +214,7 @@
 <form>AIDS</form>
 <tag>
 <AM lemma="AIDS_:B_;U_,x_^(Syndrom_získaného_selhání_imunity)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="AIDS-2_;U_^(Syndrom_získaného_selhání_imunity)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="AIDS_;U_^(Syndrom_získaného_selhání_imunity)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-062-p3s2w19">
@@ -655,7 +655,7 @@
 <LM>w#w-lnd92258-062-p3s3w41</LM>
 </w.rf>
 <form>virem</form>
-<tag lemma="vir" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="vir-1" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-lnd92258-062-p3s3w42">
 <src.rf>manual</src.rf>
@@ -665,7 +665,7 @@
 <form>AIDS</form>
 <tag>
 <AM lemma="AIDS_:B_;U_,x_^(Syndrom_získaného_selhání_imunity)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="AIDS-2_;U_^(Syndrom_získaného_selhání_imunity)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="AIDS_;U_^(Syndrom_získaného_selhání_imunity)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-062-p3s3w43">

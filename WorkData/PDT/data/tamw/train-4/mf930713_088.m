@@ -27,7 +27,7 @@
 <LM>w#w-mf930713-088-p1s1w2</LM>
 </w.rf>
 <form>hnutí</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf930713-088-p1s1w3">
 <src.rf>manual</src.rf>
@@ -550,7 +550,7 @@
 <LM>w#w-mf930713-088-p3s1w7</LM>
 </w.rf>
 <form>hnutí</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf930713-088-p3s1w8">
 <src.rf>manual</src.rf>
@@ -574,7 +574,7 @@
 <LM>w#w-mf930713-088-p3s1w10</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-mf930713-088-p3s1w11">
 <src.rf>manual</src.rf>

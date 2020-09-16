@@ -59,7 +59,7 @@
 <LM>w#w-lnd91303-086-p1s1w6</LM>
 </w.rf>
 <form>DRUHÉM</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-lnd91303-086-p1s1w7">
 <src.rf>manual</src.rf>
@@ -209,7 +209,7 @@
 <LM>w#w-lnd91303-086-p4s1w9</LM>
 </w.rf>
 <form>dlouhou</form>
-<tag lemma="dlouhý-1_^(fyz._délka;_př._dlouhá_tyč)" src="orig" selected="1">AAFS4----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-lnd91303-086-p4s1w10">
 <src.rf>manual</src.rf>
@@ -626,7 +626,7 @@
 <LM>w#w-lnd91303-086-p4s3w4</LM>
 </w.rf>
 <form>naše</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSIP1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSIP1-P1-------</tag>
 </m>
 <m id="m-lnd91303-086-p4s3w5">
 <src.rf>manual</src.rf>
@@ -690,7 +690,7 @@
 <LM>w#w-lnd91303-086-p4s3w12</LM>
 </w.rf>
 <form>druhém</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-lnd91303-086-p4s3w13">
 <src.rf>manual</src.rf>

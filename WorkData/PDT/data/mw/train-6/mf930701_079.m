@@ -59,7 +59,7 @@
 <LM>w#w-mf930701-079-p1s1w6</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-mf930701-079-p1s1w7">
 <src.rf>manual</src.rf>
@@ -155,7 +155,7 @@
 <LM>w#w-mf930701-079-p1s1w18</LM>
 </w.rf>
 <form>natažené</form>
-<tag lemma="natažený_^(*5áhnout)" src="orig" selected="1">AAIP4----1A----</tag>
+<tag lemma="natažený" src="orig" selected="1">AAIP4----1A----</tag>
 </m>
 <m id="m-mf930701-079-p1s1w19">
 <src.rf>manual</src.rf>

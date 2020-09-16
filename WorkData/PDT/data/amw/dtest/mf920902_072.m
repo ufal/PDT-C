@@ -603,7 +603,7 @@
 <LM>w#w-mf920902-072-p2s3w6</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrIS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS6----------</tag>
 </m>
 <m id="m-mf920902-072-p2s3w7">
 <src.rf>manual</src.rf>
@@ -611,7 +611,7 @@
 <LM>w#w-mf920902-072-p2s3w7</LM>
 </w.rf>
 <form>naši</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSMP1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSMP1-P1-------</tag>
 </m>
 <m id="m-mf920902-072-p2s3w8">
 <src.rf>manual</src.rf>
@@ -739,7 +739,7 @@
 <LM>w#w-mf920902-072-p2s3w23</LM>
 </w.rf>
 <form>naši</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSMP1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSMP1-P1-------</tag>
 </m>
 <m id="m-mf920902-072-p2s3w24">
 <src.rf>manual</src.rf>
@@ -1363,7 +1363,7 @@
 <LM>w#w-mf920902-072-p2s8w4</LM>
 </w.rf>
 <form>druhém</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS6----------</tag>
 </m>
 <m id="m-mf920902-072-p2s8w5">
 <src.rf>manual</src.rf>

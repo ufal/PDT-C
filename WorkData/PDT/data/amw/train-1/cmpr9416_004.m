@@ -171,7 +171,7 @@
 <LM>w#w-cmpr9416-004-p7s1w11</LM>
 </w.rf>
 <form>delší</form>
-<tag lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">AAFS4----2A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFS4----2A----</tag>
 </m>
 <m id="m-cmpr9416-004-p7s1w12">
 <src.rf>manual</src.rf>
@@ -530,7 +530,7 @@
 <LM>w#w-cmpr9416-004-p9s1w3</LM>
 </w.rf>
 <form>třeba</form>
-<tag lemma="třeba-2" src="auto" selected="1">Db-------------</tag>
+<tag lemma="třeba-1" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-cmpr9416-004-p9s1w4">
 <src.rf>manual</src.rf>
@@ -578,7 +578,7 @@
 <LM>w#w-cmpr9416-004-p9s1w9</LM>
 </w.rf>
 <form>delší</form>
-<tag lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">AAFS4----2A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFS4----2A----</tag>
 </m>
 <m id="m-cmpr9416-004-p9s1w10">
 <src.rf>manual</src.rf>

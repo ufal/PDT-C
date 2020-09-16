@@ -865,7 +865,7 @@
 <form>NATO</form>
 <tag>
 <AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="NATO_;m_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="NATO-1_;m_^(Northtlantic_Treaty_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-029-p1s5w15">
@@ -1140,7 +1140,7 @@
 <form>ohlášení</form>
 <tag>
 <AM lemma="ohlášení_,a_^(*4sit)" src="auto">NNNS4-----A----</AM>
-<AM lemma="ohlášení_^(*4sit)" src="manual" selected="1">NNNS4-----A----</AM>
+<AM lemma="ohlášení_^(*2t)_(*4sit)" src="manual" selected="1">NNNS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-029-p1s6w31">

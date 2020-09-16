@@ -430,7 +430,7 @@
 <LM>w#w-ln94200-93-p2s5w6</LM>
 </w.rf>
 <form>dlouhou</form>
-<tag lemma="dlouhý-1_^(fyz._délka;_př._dlouhá_tyč)" src="orig" selected="1">AAFS4----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-ln94200-93-p2s5w7">
 <src.rf>manual</src.rf>
@@ -754,7 +754,7 @@
 <LM>w#w-ln94200-93-p2s7w26</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94200-93-p2s7w27">
 <src.rf>manual</src.rf>

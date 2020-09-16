@@ -32,7 +32,7 @@
 <AM lemma="spravedlnost_^(*3ý)" src="auto">NNFP1-----A----</AM>
 <AM lemma="spravedlnost_^(*3ý)" src="auto">NNFP4-----A----</AM>
 <AM lemma="spravedlnost_^(*3ý)" src="auto">NNFP5-----A----</AM>
-<AM lemma="spravedlnost_^(*3ý)" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="spravedlnost-1_^(*5ý-1)" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="spravedlnost_^(*3ý)" src="auto">NNFS3-----A----</AM>
 <AM lemma="spravedlnost_^(*3ý)" src="auto">NNFS5-----A----</AM>
 <AM lemma="spravedlnost_^(*3ý)" src="auto">NNFS6-----A----</AM>
@@ -460,7 +460,7 @@
 <AM lemma="handicapovaný_^(^GC**hendikepovat)_(*2t)" src="auto">AANS4----1A----</AM>
 <AM lemma="handicapovaný_^(^GC**hendikepovat)_(*2t)" src="auto">AANS5----1A----</AM>
 <AM lemma="handicapovaný_,h_^(^GC**hendikepovat)_(*2t)" src="manual">AAMP4----1A----</AM>
-<AM lemma="handicapovaný_,s_^(^DD**hendikepovat)_(*2t)" src="manual" selected="1">AAMP4----1A----</AM>
+<AM lemma="handicapovaný_^(^DD**hendikepovaný)_(*2t)" src="manual" selected="1">AAMP4----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0763-001-p1s0W37-Ta">
@@ -549,7 +549,7 @@
 <AM lemma="první" src="auto">CrIP4----------</AM>
 <AM lemma="první" src="auto">CrIP5----------</AM>
 <AM lemma="první" src="auto">CrIS1----------</AM>
-<AM lemma="první" src="auto" recommended="1">CrIS4----------</AM>
+<AM lemma="první-1" src="auto" recommended="1">CrIS4----------</AM>
 <AM lemma="první" src="auto">CrIS5----------</AM>
 <AM lemma="první" src="auto">CrMP1----------</AM>
 <AM lemma="první" src="auto">CrMP4----------</AM>
@@ -1221,7 +1221,7 @@
 <form>politice</form>
 <tag>
 <AM lemma="politika_^(věda)" src="auto">NNFS3-----A----</AM>
-<AM lemma="politika_^(věda)" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="politika" src="auto" recommended="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0763-001-p1s2W28-Ta">
@@ -1448,7 +1448,7 @@
 <AM lemma="handicapovaný_^(^GC**hendikepovat)_(*2t)" src="auto">AANS4----1A----</AM>
 <AM lemma="handicapovaný_^(^GC**hendikepovat)_(*2t)" src="auto">AANS5----1A----</AM>
 <AM lemma="handicapovaný_,h_^(^GC**hendikepovat)_(*2t)" src="manual">AAMP4----1A----</AM>
-<AM lemma="handicapovaný_,s_^(^DD**hendikepovat)_(*2t)" src="manual" selected="1">AAMP4----1A----</AM>
+<AM lemma="handicapovaný_^(^DD**hendikepovaný)_(*2t)" src="manual" selected="1">AAMP4----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0763-001-p1s3W16-Ta">
@@ -1748,7 +1748,7 @@
 <AM lemma="spravedlnost_^(*3ý)" src="auto">NNFP1-----A----</AM>
 <AM lemma="spravedlnost_^(*3ý)" src="auto">NNFP4-----A----</AM>
 <AM lemma="spravedlnost_^(*3ý)" src="auto">NNFP5-----A----</AM>
-<AM lemma="spravedlnost_^(*3ý)" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="spravedlnost-1_^(*5ý-1)" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="spravedlnost_^(*3ý)" src="auto">NNFS3-----A----</AM>
 <AM lemma="spravedlnost_^(*3ý)" src="auto">NNFS5-----A----</AM>
 <AM lemma="spravedlnost_^(*3ý)" src="auto">NNFS6-----A----</AM>
@@ -2200,7 +2200,7 @@
 </w.rf>
 <form>postižení</form>
 <tag>
-<AM lemma="postižený_^(*4hnout)" src="auto" recommended="1">AAMP1----1A----</AM>
+<AM lemma="postižený" src="auto" recommended="1">AAMP1----1A----</AM>
 <AM lemma="postižený_^(*4hnout)" src="auto">AAMP5----1A----</AM>
 <AM lemma="postižení_^(*4hnout)" src="auto">NNNP1-----A----</AM>
 <AM lemma="postižení_^(*4hnout)" src="auto">NNNP2-----A----</AM>
@@ -2855,7 +2855,7 @@
 <AM lemma="postižený_^(*4hnout)" src="auto">AAIP3----1A----</AM>
 <AM lemma="postižený_^(*4hnout)" src="auto">AAIS6----1A---7</AM>
 <AM lemma="postižený_^(*4hnout)" src="auto">AAIS7----1A----</AM>
-<AM lemma="postižený_^(*4hnout)" src="auto" recommended="1">AAMP3----1A----</AM>
+<AM lemma="postižený" src="auto" recommended="1">AAMP3----1A----</AM>
 <AM lemma="postižený_^(*4hnout)" src="auto">AAMS6----1A---7</AM>
 <AM lemma="postižený_^(*4hnout)" src="auto">AAMS7----1A----</AM>
 <AM lemma="postižený_^(*4hnout)" src="auto">AANP3----1A----</AM>
@@ -2872,7 +2872,7 @@
 <tag>
 <AM lemma="lid_^(naší_země)" src="auto">NNIS7-----A----</AM>
 <AM lemma="lido" src="auto">NNNS7-----A----</AM>
-<AM lemma="člověk" src="auto" recommended="1">NNMP3-----A----</AM>
+<AM lemma="lidé" src="auto" recommended="1">NNMP3-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0763-001-p1s7W9-Ta">

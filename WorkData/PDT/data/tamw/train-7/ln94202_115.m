@@ -19,7 +19,7 @@
 <LM>w#w-ln94202-115-p1s1w1</LM>
 </w.rf>
 <form>Příbram</form>
-<tag lemma="Příbram_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Příbram-2_;G" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94202-115-p1s1w2">
 <src.rf>manual</src.rf>
@@ -206,7 +206,7 @@
 <LM>w#w-ln94202-115-p2s1Bw9</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-ln94202-115-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -655,7 +655,7 @@
 <LM>w#w-ln94202-115-p2s4w12</LM>
 </w.rf>
 <form>Příbrami</form>
-<tag lemma="Příbram_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Příbram-2_;G" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94202-115-p2s4w13">
 <src.rf>manual</src.rf>
@@ -711,7 +711,7 @@
 <LM>w#w-ln94202-115-p10s7w5</LM>
 </w.rf>
 <form>Penner</form>
-<tag lemma="Penner_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Penner-2_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-115-p10s7w6">
 <src.rf>manual</src.rf>

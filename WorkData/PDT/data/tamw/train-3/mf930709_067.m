@@ -1600,7 +1600,7 @@
 <form>stojící</form>
 <tag>
 <AM lemma="stojící-3_^(někdo/něco_stojí,_např._na_nohou)_(*7át-3)" src="orig">AGFS1-----A----</AM>
-<AM lemma="stojící-3_^(stojím_stojíš)_(*7át-3)" src="manual" selected="1">AGFS1-----A----</AM>
+<AM lemma="stojící-3_^(*7át-3)" src="manual" selected="1">AGFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-067-p2s9w20">
@@ -1717,7 +1717,7 @@
 <LM>w#w-mf930709-067-p2s11w3</LM>
 </w.rf>
 <form>mluvčího</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930709-067-p2s11w4">
 <src.rf>manual</src.rf>
@@ -1797,7 +1797,7 @@
 <LM>w#w-mf930709-067-p2s11w13</LM>
 </w.rf>
 <form>proto</form>
-<tag lemma="proto-2_^(dal_mu_co_proto,_tak_proto!)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="proto-2_^(proto_že)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf930709-067-p2s11w14">
 <src.rf>manual</src.rf>

@@ -292,7 +292,7 @@
 <LM>w#w-lnd92253-045-p3s2w24</LM>
 </w.rf>
 <form>zastavení</form>
-<tag lemma="zastavení-1_^([také_z._se];_uvést_do_klidu:_auto,...)_(*5it-1)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="zastavení_^(*3it)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-lnd92253-045-p3s2w25">
 <src.rf>manual</src.rf>
@@ -585,7 +585,7 @@
 <LM>w#w-lnd92253-045-p4s1w1</LM>
 </w.rf>
 <form>Mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92253-045-p4s1w2">
 <src.rf>manual</src.rf>
@@ -601,7 +601,7 @@
 <LM>w#w-lnd92253-045-p4s1w3</LM>
 </w.rf>
 <form>Výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92253-045-p4s1w4">
 <src.rf>manual</src.rf>
@@ -881,7 +881,7 @@
 <LM>w#w-lnd92253-045-p4s1w38</LM>
 </w.rf>
 <form>Výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92253-045-p4s1w39">
 <src.rf>manual</src.rf>

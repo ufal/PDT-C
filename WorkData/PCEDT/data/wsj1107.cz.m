@@ -2091,7 +2091,7 @@
 <form>odpovědností</form>
 <tag>
 <AM lemma="odpovědnost_^(kdo_za_něco_odpovídá)_(*3ý)" src="auto">NNFP2-----A----</AM>
-<AM lemma="odpovědnost_^(kdo_za_něco_odpovídá)_(*3ý)" src="auto" recommended="1">NNFS7-----A----</AM>
+<AM lemma="odpovědnost_^(*3ý)" src="auto" recommended="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1107-001-p1s7W34-Ta">
@@ -2402,7 +2402,7 @@
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AAFP1----1A----</AM>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AAFP4----1A----</AM>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AAFP5----1A----</AM>
-<AM lemma="měsíční_^(lhůta;svit)" src="auto" recommended="1">AAFS1----1A----</AM>
+<AM lemma="měsíční" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AAFS2----1A----</AM>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AAFS3----1A----</AM>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AAFS4----1A----</AM>
@@ -2800,7 +2800,7 @@
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AAFS3----1A----</AM>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AAFS4----1A----</AM>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AAFS5----1A----</AM>
-<AM lemma="měsíční_^(lhůta;svit)" src="auto" recommended="1">AAFS6----1A----</AM>
+<AM lemma="měsíční" src="auto" recommended="1">AAFS6----1A----</AM>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AAFS7----1A----</AM>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AAIP1----1A----</AM>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AAIP4----1A----</AM>
@@ -3236,7 +3236,7 @@
 <AM lemma="dobrý" src="auto">AAMS7----2A----</AM>
 <AM lemma="dobrý" src="auto">AANP3----2A----</AM>
 <AM lemma="dobrý" src="auto">AANS6----2A----</AM>
-<AM lemma="dobrý" src="auto" recommended="1">AANS7----2A----</AM>
+<AM lemma="lepší" src="auto" recommended="1">AANS7----2A----</AM>
 <AM lemma="lepšit" src="auto">VB-S---1P-AAI--</AM>
 </tag>
 </m>
@@ -3630,7 +3630,7 @@
 <form>veterány</form>
 <tag>
 <AM lemma="veterán" src="auto">NNIP1-----A----</AM>
-<AM lemma="veterán" src="auto" recommended="1">NNIP4-----A----</AM>
+<AM lemma="veterán-2" src="auto" recommended="1">NNIP4-----A----</AM>
 <AM lemma="veterán" src="auto">NNIP5-----A----</AM>
 <AM lemma="veterán" src="auto">NNIP7-----A----</AM>
 <AM lemma="veterán" src="auto">NNMP4-----A----</AM>
@@ -3999,7 +3999,7 @@
 </w.rf>
 <form>hodně</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------1A----</AM>
+<AM lemma="hodně_^(*1ý)" src="auto" recommended="1">Dg-------1A----</AM>
 <AM lemma="hodně_^(být_hoden;nezlobivý)_(*1ý)" src="auto">Dg-------1A----</AM>
 </tag>
 </m>
@@ -4458,7 +4458,7 @@
 <AM lemma="špatný" src="auto">AANP1----2A----</AM>
 <AM lemma="špatný" src="auto">AANP4----2A----</AM>
 <AM lemma="špatný" src="auto">AANP5----2A----</AM>
-<AM lemma="špatný" src="auto" recommended="1">AANS1----2A----</AM>
+<AM lemma="horší" src="auto" recommended="1">AANS1----2A----</AM>
 <AM lemma="špatný" src="auto">AANS4----2A----</AM>
 <AM lemma="špatný" src="auto">AANS5----2A----</AM>
 </tag>
@@ -4565,7 +4565,7 @@
 <AM lemma="daleko-1" src="auto">Dg-------2A----</AM>
 <AM lemma="dál" src="auto">NNFS1-----A----</AM>
 <AM lemma="dál" src="auto">NNFS4-----A----</AM>
-<AM lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="dál-3_,s_^(také,_za_další)_(^DD**dále-3)" src="auto" recommended="1">Db-------------</AM>
 <AM lemma="dít-1_^(dít_se)" src="auto">VpYS----R-AAI-1</AM>
 </tag>
 </m>
@@ -4968,7 +4968,7 @@
 <form>právu</form>
 <tag>
 <AM lemma="práv_^(oprávněný)" src="auto">ACFS4-----A----</AM>
-<AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto" recommended="1">NNNS3-----A----</AM>
+<AM lemma="právo" src="auto" recommended="1">NNNS3-----A----</AM>
 <AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto">NNNS6-----A----</AM>
 </tag>
 </m>

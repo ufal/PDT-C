@@ -145,7 +145,7 @@
 <LM>w#w-lnd92256-113-p3s2w8</LM>
 </w.rf>
 <form>dlouhých</form>
-<tag lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">AAFP6----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFP6----1A----</tag>
 </m>
 <m id="m-lnd92256-113-p3s2w9">
 <src.rf>manual</src.rf>
@@ -615,7 +615,7 @@
 <LM>w#w-lnd92256-113-p4s1w34</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-lnd92256-113-p4s1w35">
 <src.rf>manual</src.rf>
@@ -705,7 +705,7 @@
 <LM>w#w-lnd92256-113-p4s2w10</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd92256-113-p4s2w11">
 <src.rf>manual</src.rf>
@@ -1105,7 +1105,7 @@
 <LM>w#w-lnd92256-113-p4s4w24</LM>
 </w.rf>
 <form>mechanismus</form>
-<tag lemma="mechanismus" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="mechanismus_,s_^(^DD**mechanizmus)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-lnd92256-113-p4s4w25">
 <src.rf>manual</src.rf>
@@ -1484,7 +1484,7 @@
 <LM>w#w-lnd92256-113-p5s2w11</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS1----------</tag>
 </m>
 <m id="m-lnd92256-113-p5s2w12">
 <src.rf>manual</src.rf>

@@ -450,7 +450,7 @@
 <LM>w#w-ln94203-130-p2s1Cw28</LM>
 </w.rf>
 <form>Miroslav</form>
-<tag lemma="Miroslav_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Miroslav-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-130-p2s1Cw29">
 <src.rf>manual</src.rf>
@@ -763,7 +763,7 @@
 <LM>w#w-ln94203-130-p3s1w1</LM>
 </w.rf>
 <form>Miroslav</form>
-<tag lemma="Miroslav_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Miroslav-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-130-p3s1w2">
 <src.rf>manual</src.rf>
@@ -779,7 +779,7 @@
 <LM>w#w-ln94203-130-p3s1w3</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-ln94203-130-p3s1w4">
 <src.rf>manual</src.rf>
@@ -1280,7 +1280,7 @@
 <LM>w#w-ln94203-130-p3s3w12</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-ln94203-130-p3s3w13">
 <src.rf>manual</src.rf>
@@ -1931,7 +1931,7 @@
 <LM>w#w-ln94203-130-p4s1w18</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-ln94203-130-p4s1w19">
 <src.rf>manual</src.rf>

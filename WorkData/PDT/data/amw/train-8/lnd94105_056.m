@@ -804,7 +804,7 @@
 <LM>w#w-lnd94105-056-p1s4w19</LM>
 </w.rf>
 <form>výzbroje</form>
-<tag lemma="výzbroj" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="výzbroj-1" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94105-056-p1s4w20">
 <src.rf>manual</src.rf>
@@ -878,7 +878,7 @@
 <LM>w#w-lnd94105-056-p1s5w5</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-056-p1s5w6">
 <src.rf>manual</src.rf>
@@ -1098,7 +1098,7 @@
 <LM>w#w-lnd94105-056-p1s7w4</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS6---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS6---------1</tag>
 </m>
 <m id="m-lnd94105-056-p1s7w5">
 <src.rf>manual</src.rf>
@@ -2198,7 +2198,7 @@
 <LM>w#w-lnd94105-056-p1s12w25</LM>
 </w.rf>
 <form>vězení</form>
-<tag lemma="vězení_,a_^(místo_výkonu_trestu)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="vězení_^(místo_výkonu_trestu)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-lnd94105-056-p1s12w26">
 <src.rf>manual</src.rf>
@@ -2506,7 +2506,7 @@
 <LM>w#w-lnd94105-056-p1s14w8</LM>
 </w.rf>
 <form>vyhlášenou</form>
-<tag lemma="vyhlášený_,a_^(*4sit)" src="orig" selected="1">AAFS7----1A----</tag>
+<tag lemma="vyhlášený_^(*2t)_(*4sit)" src="orig" selected="1">AAFS7----1A----</tag>
 </m>
 <m id="m-lnd94105-056-p1s14w9">
 <src.rf>manual</src.rf>
@@ -2765,7 +2765,7 @@
 <LM>w#w-lnd94105-056-p1s14w40</LM>
 </w.rf>
 <form>politice</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-lnd94105-056-p1s14w41">
 <src.rf>manual</src.rf>

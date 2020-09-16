@@ -84,7 +84,7 @@
 <LM>w#w-lnd92251-046-p3s2w1</LM>
 </w.rf>
 <form>Zveřejněním</form>
-<tag lemma="zveřejnění_^(*3it)" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="zveřejnění_^(*2t)_(*3it)" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-lnd92251-046-p3s2w2">
 <src.rf>manual</src.rf>
@@ -359,7 +359,7 @@
 <LM>w#w-lnd92251-046-p3s2w34</LM>
 </w.rf>
 <form>tajné</form>
-<tag lemma="tajný" src="orig" selected="1">AAFS2----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-lnd92251-046-p3s2w35">
 <src.rf>manual</src.rf>
@@ -745,7 +745,7 @@
 <LM>w#w-lnd92251-046-p3s4w12</LM>
 </w.rf>
 <form>zveřejněním</form>
-<tag lemma="zveřejnění_^(*3it)" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="zveřejnění_^(*2t)_(*3it)" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-lnd92251-046-p3s4w13">
 <src.rf>manual</src.rf>

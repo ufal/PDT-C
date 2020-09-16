@@ -775,7 +775,7 @@
 <LM>w#w-mf930713-045-p2s7w2</LM>
 </w.rf>
 <form>dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930713-045-p2s7w3">
 <src.rf>manual</src.rf>
@@ -791,7 +791,7 @@
 <LM>w#w-mf930713-045-p2s7w4</LM>
 </w.rf>
 <form>předání</form>
-<tag lemma="předání-3_^(někomu_něco)_(*5at-3)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="předání_^(*3at)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf930713-045-p2s7w5">
 <src.rf>manual</src.rf>
@@ -807,7 +807,7 @@
 <LM>w#w-mf930713-045-p2s7w6</LM>
 </w.rf>
 <form>tajné</form>
-<tag lemma="tajný" src="orig" selected="1">AAFS2----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-mf930713-045-p2s7w7">
 <src.rf>manual</src.rf>
@@ -917,7 +917,7 @@
 <LM>w#w-mf930713-045-p2s7w19</LM>
 </w.rf>
 <form>vedoucí</form>
-<tag lemma="vedoucí-2" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="vedoucí-3" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930713-045-p2s7w20">
 <src.rf>manual</src.rf>
@@ -925,7 +925,7 @@
 <LM>w#w-mf930713-045-p2s7w20</LM>
 </w.rf>
 <form>tajné</form>
-<tag lemma="tajný" src="orig" selected="1">AAFS2----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-mf930713-045-p2s7w21">
 <src.rf>manual</src.rf>
@@ -1044,7 +1044,7 @@
 <AM lemma="předávací-2_^(se;_dát_něčeho_příliš)_(*4t-2)" src="auto">AAMS2----1A----</AM>
 <AM lemma="předávací-2_^(se;_dát_něčeho_příliš)_(*4t-2)" src="auto">AAMS4----1A----</AM>
 <AM lemma="předávací-2_^(se;_dát_něčeho_příliš)_(*4t-2)" src="auto">AANS2----1A----</AM>
-<AM lemma="předávací-3_^(někomu_něco)_(*4t-3)" src="auto" recommended="1" selected="1">AAIS2----1A----</AM>
+<AM lemma="předávací_^(*2t)" src="auto" recommended="1" selected="1">AAIS2----1A----</AM>
 <AM lemma="předávací-3_^(někomu_něco)_(*4t-3)" src="auto">AAMS2----1A----</AM>
 <AM lemma="předávací-3_^(někomu_něco)_(*4t-3)" src="auto">AAMS4----1A----</AM>
 <AM lemma="předávací-3_^(někomu_něco)_(*4t-3)" src="auto">AANS2----1A----</AM>
@@ -1247,7 +1247,7 @@
 <LM>w#w-mf930713-045-p2s10w1</LM>
 </w.rf>
 <form>Tajná</form>
-<tag lemma="tajný" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-mf930713-045-p2s10w2">
 <src.rf>manual</src.rf>
@@ -1724,7 +1724,7 @@
 <LM>w#w-mf930713-045-p2s13w5</LM>
 </w.rf>
 <form>předáním</form>
-<tag lemma="předání-3_^(někomu_něco)_(*5at-3)" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="předání_^(*3at)" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-mf930713-045-p2s13w6">
 <src.rf>manual</src.rf>
@@ -1764,7 +1764,7 @@
 <LM>w#w-mf930713-045-p2s13w10</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf930713-045-p2s13w11">
 <src.rf>manual</src.rf>

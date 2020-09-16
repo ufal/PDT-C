@@ -496,7 +496,7 @@
 <LM>w#w-ln94206-85-p2s2Bw18</LM>
 </w.rf>
 <form>extremistické</form>
-<tag lemma="extremistický" src="orig" selected="1">AAFP1----1A----</tag>
+<tag lemma="extremistický_,s_^(^DD**extrémistický)" src="orig" selected="1">AAFP1----1A----</tag>
 </m>
 <m id="m-ln94206-85-p2s2Bw19">
 <src.rf>manual</src.rf>
@@ -1076,7 +1076,7 @@
 <LM>w#w-ln94206-85-p2s8w5</LM>
 </w.rf>
 <form>orgánu</form>
-<tag lemma="orgán" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln94206-85-p2s8w6">
 <src.rf>manual</src.rf>
@@ -1708,7 +1708,7 @@
 <LM>w#w-ln94206-85-p2s13w23</LM>
 </w.rf>
 <form>rady</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94206-85-p2s13w24">
 <src.rf>manual</src.rf>
@@ -2221,7 +2221,7 @@
 <LM>w#w-ln94206-85-p2s19w11</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-ln94206-85-p2s19w12">
 <src.rf>manual</src.rf>
@@ -2911,7 +2911,7 @@
 <LM>w#w-ln94206-85-p2s24w11</LM>
 </w.rf>
 <form>výborech</form>
-<tag lemma="výbor" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-ln94206-85-p2s24w12">
 <src.rf>manual</src.rf>
@@ -2951,7 +2951,7 @@
 <LM>w#w-ln94206-85-p2s24w16</LM>
 </w.rf>
 <form>orgánu</form>
-<tag lemma="orgán" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln94206-85-p2s24w17">
 <src.rf>manual</src.rf>
@@ -4869,7 +4869,7 @@
 <LM>w#w-ln94206-85-p2s37w28</LM>
 </w.rf>
 <form>extremisty</form>
-<tag lemma="extremista" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="extremista_,s_^(^DD**extrémista)" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-ln94206-85-p2s37w29">
 <src.rf>manual</src.rf>
@@ -5351,7 +5351,7 @@
 <LM>w#w-ln94206-85-p2s39w30</LM>
 </w.rf>
 <form>Heathrow</form>
-<tag lemma="Heathrow_;G" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="Heathrow-1_;G" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln94206-85-p2s39w31">
 <src.rf>manual</src.rf>
@@ -5591,7 +5591,7 @@
 <LM>w#w-ln94206-85-p2s41w8</LM>
 </w.rf>
 <form>extremisté</form>
-<tag lemma="extremista" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="extremista_,s_^(^DD**extrémista)" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln94206-85-p2s41w9">
 <src.rf>manual</src.rf>
@@ -6035,7 +6035,7 @@
 <LM>w#w-ln94206-85-p2s43w24</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-ln94206-85-p2s43w25">
 <src.rf>manual</src.rf>

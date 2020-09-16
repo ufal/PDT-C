@@ -312,7 +312,7 @@
 <LM>w#w-ln95042-043-p2s2w4</LM>
 </w.rf>
 <form>druhého</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS2----------</tag>
 </m>
 <m id="m-ln95042-043-p2s2w5">
 <src.rf>manual</src.rf>
@@ -525,7 +525,7 @@
 <LM>w#w-ln95042-043-p2s3w11</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8NS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8NS4---------1</tag>
 </m>
 <m id="m-ln95042-043-p2s3w12">
 <src.rf>manual</src.rf>

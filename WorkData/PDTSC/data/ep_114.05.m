@@ -1541,7 +1541,7 @@
 <AM lemma="vysoko-2" src="auto">NNNS4-----A----</AM>
 <AM lemma="vysoko-2" src="auto">NNNS5-----A----</AM>
 <AM lemma="vysoko-1" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="vysoko-1_^(*3ý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="vysoko-1" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m114-d-id121354-punct">
@@ -3736,7 +3736,7 @@
 <tag>
 <AM lemma="ty" src="auto" recommended="1">PP-P1--2-------</AM>
 <AM lemma="ty" src="auto">PP-P5--2-------</AM>
-<AM lemma="ty_^(**já)" src="manual" selected="1">PP-P1--2-------</AM>
+<AM lemma="vy" src="manual" selected="1">PP-P1--2-------</AM>
 </tag>
 </m>
 <m id="m114-d1t1526-2">
@@ -4697,7 +4697,7 @@
 <AM lemma="příjemný-1_^(všeob.,_poz._emoce)" src="auto">AAIP1----1A---6</AM>
 <AM lemma="příjemný-1_^(všeob.,_poz._emoce)" src="auto">AAIP4----1A---6</AM>
 <AM lemma="příjemný-1_^(všeob.,_poz._emoce)" src="auto">AAIP5----1A---6</AM>
-<AM lemma="příjemný-1_^(všeob.,_poz._emoce)" src="auto" recommended="1">AAIS1----1A----</AM>
+<AM lemma="příjemný_^(všeob.,_poz._emoce)" src="auto" recommended="1">AAIS1----1A----</AM>
 <AM lemma="příjemný-1_^(všeob.,_poz._emoce)" src="auto">AAIS4----1A----</AM>
 <AM lemma="příjemný-1_^(všeob.,_poz._emoce)" src="auto">AAIS5----1A----</AM>
 <AM lemma="příjemný-1_^(všeob.,_poz._emoce)" src="auto">AAMP1----1A---6</AM>
@@ -4781,7 +4781,7 @@
 <AM lemma="málo-2_^(př._to_málo_co_měl)" src="auto">NNNS1-----A----</AM>
 <AM lemma="málo-2_^(př._to_málo_co_měl)" src="auto">NNNS4-----A----</AM>
 <AM lemma="málo-2_^(př._to_málo_co_měl)" src="auto">NNNS5-----A----</AM>
-<AM lemma="málo-1_^(málo_+_2._p.,_málo_peněz)" src="auto" recommended="1">Ca--1----------</AM>
+<AM lemma="málo-1_^(málo_peněz)" src="auto" recommended="1">Ca--1----------</AM>
 <AM lemma="málo-1_^(málo_+_2._p.,_málo_peněz)" src="auto">Ca--2---------1</AM>
 <AM lemma="málo-1_^(málo_+_2._p.,_málo_peněz)" src="auto">Ca--3----------</AM>
 <AM lemma="málo-1_^(málo_+_2._p.,_málo_peněz)" src="auto">Ca--4----------</AM>
@@ -5361,7 +5361,7 @@
 <tag>
 <AM lemma="hřídel" src="auto">NNFS3-----A----</AM>
 <AM lemma="hřídel" src="auto">NNFS5-----A----</AM>
-<AM lemma="hřídel" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="hřídel-1" src="auto" recommended="1">NNFS6-----A----</AM>
 <AM lemma="hřídel" src="auto">NNIP7-----A----</AM>
 <AM lemma="hřídel" src="auto">NNIS3-----A----</AM>
 <AM lemma="hřídel" src="auto">NNIS5-----A----</AM>
@@ -6879,7 +6879,7 @@
 <form>hřídel</form>
 <tag>
 <AM lemma="hřídel" src="auto">NNFS1-----A----</AM>
-<AM lemma="hřídel" src="auto" selected="1">NNFS4-----A----</AM>
+<AM lemma="hřídel-1" src="auto" selected="1">NNFS4-----A----</AM>
 <AM lemma="hřídel" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="hřídel" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -7497,7 +7497,7 @@
 <AM lemma="tvůj_^(přivlast.)" src="auto">PSFS4-P2-------</AM>
 <AM lemma="tvůj_^(přivlast.)" src="auto" recommended="1">PSMP1-P2-------</AM>
 <AM lemma="tvůj_^(přivlast.)" src="auto">PSMP5-P2-------</AM>
-<AM lemma="tvůj_^(**můj)_(přivlast.)" src="manual" selected="1">PSMP1-P2-------</AM>
+<AM lemma="váš" src="manual" selected="1">PSMP1-P2-------</AM>
 </tag>
 </m>
 <m id="m114-d1t1703-4">
@@ -7686,7 +7686,7 @@
 <tag>
 <AM lemma="přímo" src="auto" recommended="1">Dg-------1A----</AM>
 <AM lemma="přímo-2" src="auto">TT-------------</AM>
-<AM lemma="přímo_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="přímo" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m114-d1t1709-21">

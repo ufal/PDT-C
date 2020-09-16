@@ -285,7 +285,7 @@
 <LM>w#w-lnd94103-022-p1s4Aw4</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="mluvčí-2" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94103-022-p1s4Aw5">
 <src.rf>manual</src.rf>
@@ -537,7 +537,7 @@
 <LM>w#w-lnd94103-022-p1s5w4</LM>
 </w.rf>
 <form>prostředky</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-lnd94103-022-p1s5w5">
 <src.rf>manual</src.rf>
@@ -585,7 +585,7 @@
 <LM>w#w-lnd94103-022-p1s5w10</LM>
 </w.rf>
 <form>iniciátorem</form>
-<tag lemma="iniciátor" src="auto" selected="1">NNMS7-----A----</tag>
+<tag lemma="iniciátor-1" src="auto" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd94103-022-p1s5w11">
 <src.rf>manual</src.rf>
@@ -723,7 +723,7 @@
 <LM>w#w-lnd94103-022-p1s6w15</LM>
 </w.rf>
 <form>pas</form>
-<tag lemma="pas-1_^(př._cestovní)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="pas-1_^(přihrávka,_př._v_kopané,na_lidském_těle;;cestovní)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-lnd94103-022-p1s6w16">
 <src.rf>manual</src.rf>

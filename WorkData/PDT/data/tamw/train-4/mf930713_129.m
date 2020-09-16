@@ -229,7 +229,7 @@
 <LM>w#w-mf930713-129-p1s1Bw21</LM>
 </w.rf>
 <form>prostředky</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-mf930713-129-p1s1Bw22">
 <src.rf>manual</src.rf>
@@ -638,7 +638,7 @@
 <LM>w#w-mf930713-129-p1s4w3</LM>
 </w.rf>
 <form>dni</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS3-----A---1</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS3-----A---1</tag>
 </m>
 <m id="m-mf930713-129-p1s4w4">
 <src.rf>manual</src.rf>
@@ -906,7 +906,7 @@
 <LM>w#w-mf930713-129-p1s5w12</LM>
 </w.rf>
 <form>zlevnění</form>
-<tag lemma="zlevnění_^(*3it)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="zlevnění_^(*2t)_(*3it)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf930713-129-p1s5w13">
 <src.rf>manual</src.rf>

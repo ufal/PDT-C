@@ -591,7 +591,7 @@
 <LM>w#w-ln95046-037-p2s4w24</LM>
 </w.rf>
 <form>sekretář</form>
-<tag lemma="sekretář" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="sekretář-2" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-037-p2s4w25">
 <src.rf>manual</src.rf>
@@ -892,7 +892,7 @@
 <LM>w#w-ln95046-037-p2s6w12</LM>
 </w.rf>
 <form>konkursní</form>
-<tag lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto" selected="1">AANS4----1A----</tag>
+<tag lemma="konkursní_,s_^(^DD**konkurzní)" src="auto" selected="1">AANS4----1A----</tag>
 </m>
 <m id="m-ln95046-037-p2s6w13">
 <src.rf>manual</src.rf>
@@ -1041,7 +1041,7 @@
 <LM>w#w-ln95046-037-p2s7w4</LM>
 </w.rf>
 <form>členem</form>
-<tag lemma="člen" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95046-037-p2s7w5">
 <src.rf>manual</src.rf>

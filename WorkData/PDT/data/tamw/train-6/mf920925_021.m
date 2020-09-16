@@ -215,7 +215,7 @@
 <form>AIDS</form>
 <tag>
 <AM lemma="AIDS_:B_;U_,x_^(Syndrom_získaného_selhání_imunity)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="AIDS-2_;U_^(Syndrom_získaného_selhání_imunity)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="AIDS_;U_^(Syndrom_získaného_selhání_imunity)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-021-p2s1w24">
@@ -274,7 +274,7 @@
 <LM>w#w-mf920925-021-p2s2w6</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FXXFS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1FXXFS3-------</tag>
 </m>
 <m id="m-mf920925-021-p2s2w7">
 <src.rf>manual</src.rf>
@@ -665,7 +665,7 @@
 <form>černoty</form>
 <tag>
 <AM lemma="černota_,h_,s_^(černost;;nelegální_činnost)" src="auto">NNFS2-----A----</AM>
-<AM lemma="černota_,h_^(černost;;nelegální_činnost)" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="černota_^(černost;;nelegální_činnost)" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-021-p3s1w12">
@@ -714,7 +714,7 @@
 <LM>w#w-mf920925-021-p3s1w17</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-mf920925-021-p3s1w18">
 <src.rf>manual</src.rf>
@@ -722,7 +722,7 @@
 <LM>w#w-mf920925-021-p3s1w18</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf920925-021-p3s1w19">
 <src.rf>manual</src.rf>
@@ -818,7 +818,7 @@
 <LM>w#w-mf920925-021-p3s1w30</LM>
 </w.rf>
 <form>rozvodu</form>
-<tag lemma="rozvod-1_^(manželství)" src="orig" selected="1">NNIS6-----A---1</tag>
+<tag lemma="rozvod_^(manželství;vody)" src="orig" selected="1">NNIS6-----A---1</tag>
 </m>
 <m id="m-mf920925-021-p3s1w31">
 <src.rf>manual</src.rf>
@@ -986,7 +986,7 @@
 <LM>w#w-mf920925-021-p3s1w51</LM>
 </w.rf>
 <form>nedalo</form>
-<tag lemma="dát" src="orig" selected="1">VpNS----R-NAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VpNS----R-NAP--</tag>
 </m>
 <m id="m-mf920925-021-p3s1w52">
 <src.rf>manual</src.rf>
@@ -1030,7 +1030,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-2" src="auto">Db-------------</AM>
-<AM lemma="třeba-3" src="manual" selected="1">TT-------------</AM>
+<AM lemma="třeba-2_^(například)" src="manual" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf920925-021-p3s2w5">
@@ -1303,7 +1303,7 @@
 <LM>w#w-mf920925-021-p3s2w38</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-mf920925-021-p3s2w39">
 <src.rf>manual</src.rf>

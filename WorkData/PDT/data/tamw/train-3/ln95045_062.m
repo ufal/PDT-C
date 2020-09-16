@@ -42,7 +42,7 @@
 <AM lemma="zbrždění_,x_,h_^(*5zdit)" src="orig">NNNS7-----A----</AM>
 <AM lemma="zbrzdění_,h_,x_^(*3it)" src="auto">NNNP3-----A----</AM>
 <AM lemma="zbrzdění_,h_,x_^(*3it)" src="auto" recommended="1">NNNS7-----A----</AM>
-<AM lemma="zbrždění_,h_^(^GC**zbrzdění)" src="manual" selected="1">NNNS7-----A----</AM>
+<AM lemma="zbrždění_^(*5zdit)" src="manual" selected="1">NNNS7-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-062-p1s1w4">
@@ -623,7 +623,7 @@
 <LM>w#w-ln95045-062-p3s1w26</LM>
 </w.rf>
 <form>člen</form>
-<tag lemma="člen" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-062-p3s1w27">
 <src.rf>manual</src.rf>
@@ -639,7 +639,7 @@
 <LM>w#w-ln95045-062-p3s1w28</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95045-062-p3s1w29">
 <src.rf>manual</src.rf>
@@ -722,7 +722,7 @@
 <LM>w#w-ln95045-062-p3s1w38</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95045-062-p3s1w39">
 <src.rf>manual</src.rf>
@@ -900,7 +900,7 @@
 <LM>w#w-ln95045-062-p4s1w8</LM>
 </w.rf>
 <form>zastavení</form>
-<tag lemma="zastavení-1_^([také_z._se];_uvést_do_klidu:_auto,...)_(*5it-1)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="zastavení_^(*3it)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95045-062-p4s1w9">
 <src.rf>manual</src.rf>
@@ -988,7 +988,7 @@
 <LM>w#w-ln95045-062-p4s1w19</LM>
 </w.rf>
 <form>výbor</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95045-062-p4s1w20">
 <src.rf>manual</src.rf>
@@ -1994,7 +1994,7 @@
 <LM>w#w-ln95045-062-p9s2w2</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-ln95045-062-p9s2w3">
 <src.rf>manual</src.rf>

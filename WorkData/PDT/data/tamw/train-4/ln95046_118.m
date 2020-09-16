@@ -191,7 +191,7 @@
 <LM>w#w-ln95046-118-p2s1Bw12</LM>
 </w.rf>
 <form>politice</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln95046-118-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -281,7 +281,7 @@
 <LM>w#w-ln95046-118-p2s2w7</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-ln95046-118-p2s2w8">
 <src.rf>manual</src.rf>
@@ -1102,7 +1102,7 @@
 <LM>w#w-ln95046-118-p4s5w1</LM>
 </w.rf>
 <form>Turci</form>
-<tag lemma="Turek_;E" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="Turek_;E_;Y" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln95046-118-p4s5w2">
 <src.rf>manual</src.rf>
@@ -1999,7 +1999,7 @@
 <LM>w#w-ln95046-118-p6s3w4</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-ln95046-118-p6s3w5">
 <src.rf>manual</src.rf>

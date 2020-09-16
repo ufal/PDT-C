@@ -67,7 +67,7 @@
 </w.rf>
 <form>zbrzděná</form>
 <tag>
-<AM lemma="zbrzděný_^(*3it)" src="auto" recommended="1">AAFS1----1A----</AM>
+<AM lemma="zbrzděný" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="zbrzděný_^(*3it)" src="auto">AAFS5----1A----</AM>
 <AM lemma="zbrzděný_^(*3it)" src="auto">AANP1----1A----</AM>
 <AM lemma="zbrzděný_^(*3it)" src="auto">AANP4----1A----</AM>
@@ -1292,7 +1292,7 @@
 <form>jejím</form>
 <tag>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP3FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9ZS6FS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9ZS6FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSZS7FS3-------</AM>
 </tag>
 </m>
@@ -1841,7 +1841,7 @@
 <form>zdaněním</form>
 <tag>
 <AM lemma="zdanění_^(vypočítat_daň)_(*3it)" src="auto">NNNP3-----A----</AM>
-<AM lemma="zdanění_^(vypočítat_daň)_(*3it)" src="auto" recommended="1">NNNS7-----A----</AM>
+<AM lemma="zdanění_^(*3it)" src="auto" recommended="1">NNNS7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1610-001-p1s6W4-Ta">

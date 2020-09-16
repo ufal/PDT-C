@@ -71,7 +71,7 @@
 <LM>w#w-cmpr9415-005-p4s1w1</LM>
 </w.rf>
 <form>Náš</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSYS1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSYS1-P1-------</tag>
 </m>
 <m id="m-cmpr9415-005-p4s1w2">
 <src.rf>manual</src.rf>
@@ -283,7 +283,7 @@
 <LM>w#w-cmpr9415-005-p5s1w13</LM>
 </w.rf>
 <form>mojí</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS7-S1-------</tag>
+<tag lemma="můj" src="orig" selected="1">PSFS7-S1-------</tag>
 </m>
 <m id="m-cmpr9415-005-p5s1w14">
 <src.rf>manual</src.rf>
@@ -291,7 +291,7 @@
 <LM>w#w-cmpr9415-005-p5s1w14</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS7----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS7----------</tag>
 </m>
 <m id="m-cmpr9415-005-p5s1w15">
 <src.rf>manual</src.rf>
@@ -767,7 +767,7 @@
 <LM>w#w-cmpr9415-005-p9s1w3</LM>
 </w.rf>
 <form>letoun</form>
-<tag lemma="letoun" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="letoun-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-005-p9s1w4">
 <src.rf>manual</src.rf>
@@ -1102,7 +1102,7 @@
 <LM>w#w-cmpr9415-005-p9s3w3</LM>
 </w.rf>
 <form>Québeku</form>
-<tag lemma="Québec_;G" src="orig" selected="1">NNIS2-----A---2</tag>
+<tag lemma="Québek_;G_,s_^(^DD**Québec)" src="orig" selected="1">NNIS2-----A---2</tag>
 </m>
 <m id="m-cmpr9415-005-p9s3w4">
 <src.rf>manual</src.rf>
@@ -1388,7 +1388,7 @@
 <LM>w#w-cmpr9415-005-p11s2w4</LM>
 </w.rf>
 <form>našim</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS7-P1------6</tag>
+<tag lemma="náš" src="orig" selected="1">PSZS7-P1------6</tag>
 </m>
 <m id="m-cmpr9415-005-p11s2w5">
 <src.rf>manual</src.rf>
@@ -1476,7 +1476,7 @@
 <LM>w#w-cmpr9415-005-p11s2w15</LM>
 </w.rf>
 <form>prvního</form>
-<tag lemma="první" src="orig" selected="1">CrNS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS2----------</tag>
 </m>
 <m id="m-cmpr9415-005-p11s2w16">
 <src.rf>manual</src.rf>
@@ -1768,7 +1768,7 @@
 <LM>w#w-cmpr9415-005-p11s5w4</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8NS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8NS4---------1</tag>
 </m>
 <m id="m-cmpr9415-005-p11s5w5">
 <src.rf>manual</src.rf>
@@ -1912,7 +1912,7 @@
 <LM>w#w-cmpr9415-005-p11s5w22</LM>
 </w.rf>
 <form>co</form>
-<tag lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="co-5_^(př._co_nejméně,_co_nevidět_atd.)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-cmpr9415-005-p11s5w23">
 <src.rf>manual</src.rf>
@@ -2430,7 +2430,7 @@
 <tag>
 <AM lemma="třeba-2" src="auto">Db-------------</AM>
 <AM lemma="třeba-1" src="manual">TT-------------</AM>
-<AM lemma="třeba-3" src="manual" selected="1">TT-------------</AM>
+<AM lemma="třeba-2_^(například)" src="manual" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-005-p13s2w11">
@@ -2635,7 +2635,7 @@
 <LM>w#w-cmpr9415-005-p13s5w6</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS1----------</tag>
 </m>
 <m id="m-cmpr9415-005-p13s5w7">
 <src.rf>manual</src.rf>
@@ -2731,7 +2731,7 @@
 <LM>w#w-cmpr9415-005-p13s5w18</LM>
 </w.rf>
 <form>Québeku</form>
-<tag lemma="Québec_;G" src="orig" selected="1">NNIS6-----A---2</tag>
+<tag lemma="Québek_;G_,s_^(^DD**Québec)" src="orig" selected="1">NNIS6-----A---2</tag>
 </m>
 <m id="m-cmpr9415-005-p13s5w19">
 <src.rf>manual</src.rf>
@@ -2853,7 +2853,7 @@
 <LM>w#w-cmpr9415-005-p14s1w14</LM>
 </w.rf>
 <form>montrealské</form>
-<tag lemma="montrealský_;G" src="orig" selected="1">AAFS2----1A----</tag>
+<tag lemma="montrealský" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-cmpr9415-005-p14s1w15">
 <src.rf>manual</src.rf>
@@ -3089,7 +3089,7 @@
 <LM>w#w-cmpr9415-005-p14s3w16</LM>
 </w.rf>
 <form>Ottavě</form>
-<tag lemma="Ottawa_;G_,h" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Ottava_;G_,s_^(^DD**Ottawa-1)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-cmpr9415-005-p14s3w17">
 <src.rf>manual</src.rf>
@@ -3260,7 +3260,7 @@
 <LM>w#w-cmpr9415-005-p14s4w20</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-cmpr9415-005-p14s4w21">
 <src.rf>manual</src.rf>
@@ -3534,7 +3534,7 @@
 <LM>w#w-cmpr9415-005-p14s5w31</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-cmpr9415-005-p14s5w32">
 <src.rf>manual</src.rf>

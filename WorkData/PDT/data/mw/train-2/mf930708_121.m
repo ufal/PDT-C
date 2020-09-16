@@ -404,7 +404,7 @@
 <LM>w#w-mf930708-121-p3s1w9</LM>
 </w.rf>
 <form>Roudné</form>
-<tag lemma="Roudná_;G_^(*1ý)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Roudná_;G_;m" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf930708-121-p3s1w10">
 <src.rf>manual</src.rf>
@@ -710,7 +710,7 @@
 <LM>w#w-mf930708-121-p3s2w28</LM>
 </w.rf>
 <form>Hofu</form>
-<tag lemma="Hof_;G" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Hof-2_;G" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930708-121-p3s2w29">
 <src.rf>manual</src.rf>
@@ -883,7 +883,7 @@
 <LM>w#w-mf930708-121-p3s3w20</LM>
 </w.rf>
 <form>Boby</form>
-<tag lemma="Boby_;m" src="orig" selected="1">NNXXX-----A----</tag>
+<tag lemma="Boby-2_;m" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-mf930708-121-p3s3w21">
 <src.rf>manual</src.rf>
@@ -1371,7 +1371,7 @@
 <LM>w#w-mf930708-121-p4s4w3</LM>
 </w.rf>
 <form>kádru</form>
-<tag lemma="kádr" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="kádr-1" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-mf930708-121-p4s4w4">
 <src.rf>manual</src.rf>
@@ -2086,7 +2086,7 @@
 <LM>w#w-mf930708-121-p5s2w14</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930708-121-p5s2w15">
 <src.rf>manual</src.rf>
@@ -2118,7 +2118,7 @@
 <LM>w#w-mf930708-121-p5s2w18</LM>
 </w.rf>
 <form>manažerem</form>
-<tag lemma="manažer" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="manažer-1" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf930708-121-p5s3w1">
 <src.rf>manual</src.rf>

@@ -127,7 +127,7 @@
 <LM>w#w-ln95046-014-p2s1Bw8</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln95046-014-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -159,7 +159,7 @@
 <LM>w#w-ln95046-014-p2s1Bw12</LM>
 </w.rf>
 <form>dlouhou</form>
-<tag lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">AAFS4----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-ln95046-014-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -552,7 +552,7 @@
 <LM>w#w-ln95046-014-p3s2w8</LM>
 </w.rf>
 <form>právo</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln95046-014-p3s2w9">
 <src.rf>manual</src.rf>
@@ -846,7 +846,7 @@
 <LM>w#w-ln95046-014-p3s5w11</LM>
 </w.rf>
 <form>proto</form>
-<tag lemma="proto-2_^(dal_mu_co_proto,_tak_proto!)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="proto-2_^(proto_že)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95046-014-p3s5w12">
 <src.rf>manual</src.rf>
@@ -1763,7 +1763,7 @@
 <LM>w#w-ln95046-014-p4s4w20</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln95046-014-p4s4w21">
 <src.rf>manual</src.rf>
@@ -2193,7 +2193,7 @@
 <LM>w#w-ln95046-014-p4s7w3</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-ln95046-014-p4s7w4">
 <src.rf>manual</src.rf>

@@ -202,7 +202,7 @@
 <LM>w#w-ln95045-098-p2s1Bw13</LM>
 </w.rf>
 <form>dítě</form>
-<tag lemma="dítě" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="dítě-1" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95045-098-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -311,7 +311,7 @@
 <LM>w#w-ln95045-098-p2s2w6</LM>
 </w.rf>
 <form>Miroslav</form>
-<tag lemma="Miroslav_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Miroslav-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-098-p2s2w7">
 <src.rf>manual</src.rf>
@@ -555,7 +555,7 @@
 <LM>w#w-ln95045-098-p3s1w1</LM>
 </w.rf>
 <form>Miroslav</form>
-<tag lemma="Miroslav_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Miroslav-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-098-p3s1w2">
 <src.rf>manual</src.rf>
@@ -635,7 +635,7 @@
 <LM>w#w-ln95045-098-p3s1w11</LM>
 </w.rf>
 <form>pojatého</form>
-<tag lemma="pojatý_^(*3mout)" src="orig" selected="1">AAIS2----1A----</tag>
+<tag lemma="pojatý" src="orig" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-ln95045-098-p3s1w12">
 <src.rf>manual</src.rf>

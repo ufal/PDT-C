@@ -1261,7 +1261,7 @@
 </w.rf>
 <form>gigant</form>
 <tag>
-<AM lemma="gigant" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="gigant-1" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="gigant" src="auto">NNIS4-----A----</AM>
 <AM lemma="gigant" src="auto">NNMS1-----A----</AM>
 </tag>
@@ -1678,7 +1678,7 @@
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FP1---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FP4---------1</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8FS2---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8FS2---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS3---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS6---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8IP1---------1</AM>
@@ -1725,7 +1725,7 @@
 <form>salicyláty</form>
 <tag>
 <AM lemma="salicylát_;U" src="auto">NNIP1-----A----</AM>
-<AM lemma="salicylát_;U" src="auto" recommended="1">NNIP4-----A----</AM>
+<AM lemma="salicylát" src="auto" recommended="1">NNIP4-----A----</AM>
 <AM lemma="salicylát_;U" src="auto">NNIP5-----A----</AM>
 <AM lemma="salicylát_;U" src="auto">NNIP7-----A----</AM>
 </tag>

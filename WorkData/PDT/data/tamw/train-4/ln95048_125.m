@@ -46,7 +46,7 @@
 <LM>w#w-ln95048-125-p1s1w4</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS2---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS2---------1</tag>
 </m>
 <m id="m-ln95048-125-p1s1w5">
 <src.rf>manual</src.rf>
@@ -335,7 +335,7 @@
 <LM>w#w-ln95048-125-p2s2w9</LM>
 </w.rf>
 <form>orgánů</form>
-<tag lemma="orgán" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln95048-125-p2s2w10">
 <src.rf>manual</src.rf>
@@ -343,7 +343,7 @@
 <LM>w#w-ln95048-125-p2s2w10</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95048-125-p2s2w11">
 <src.rf>manual</src.rf>
@@ -783,7 +783,7 @@
 <LM>w#w-ln95048-125-p2s3w42</LM>
 </w.rf>
 <form>politiky</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95048-125-p2s3w43">
 <src.rf>manual</src.rf>
@@ -843,7 +843,7 @@
 <form>stát</form>
 <tag>
 <AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">Vf--------A----</AM>
-<AM lemma="stát-2_^(něco_se_přihodilo)" src="manual" selected="1">Vf--------A-P--</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">Vf--------A-P--</AM>
 </tag>
 </m>
 <m id="m-ln95048-125-p2s4w7">
@@ -1232,7 +1232,7 @@
 <LM>w#w-ln95048-125-p3s2w13</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95048-125-p3s2w14">
 <src.rf>manual</src.rf>
@@ -1334,7 +1334,7 @@
 <LM>w#w-ln95048-125-p3s3w7</LM>
 </w.rf>
 <form>orgánů</form>
-<tag lemma="orgán" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln95048-125-p3s3w8">
 <src.rf>manual</src.rf>
@@ -1653,7 +1653,7 @@
 <form>stát</form>
 <tag>
 <AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">Vf--------A----</AM>
-<AM lemma="stát-2_^(něco_se_přihodilo)" src="manual" selected="1">Vf--------A-P--</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">Vf--------A-P--</AM>
 </tag>
 </m>
 <m id="m-ln95048-125-p4s2w9">
@@ -1845,7 +1845,7 @@
 <LM>w#w-ln95048-125-p4s4w7</LM>
 </w.rf>
 <form>diskusi</form>
-<tag lemma="diskuse" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="diskuse_,s_^(^DD**diskuze)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95048-125-p4s4w8">
 <src.rf>manual</src.rf>

@@ -51,7 +51,7 @@
 <LM>w#w-vesm9211-019-p1s1w5</LM>
 </w.rf>
 <form>ducha</form>
-<tag lemma="duch" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="duch-1" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-vesm9211-019-p1s1w6">
 <src.rf>manual</src.rf>

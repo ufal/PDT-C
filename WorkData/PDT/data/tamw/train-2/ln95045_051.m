@@ -212,7 +212,7 @@
 <AM lemma="as-1_:B_,t_^(assymetric)" src="auto">AAXXX----1A---8</AM>
 <AM lemma="as_,t_^(měnová/váhová_jednotka)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="as_,t_^(měnová/váhová_jednotka)" src="auto">NNIS4-----A----</AM>
-<AM lemma="as-4_^(nota)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="as-1_^(nota)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-051-p2s2w6">
@@ -393,7 +393,7 @@
 <LM>w#w-ln95045-051-p2s2w27</LM>
 </w.rf>
 <form>interpreti</form>
-<tag lemma="interpret" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="interpret-1" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln95045-051-p2s2w28">
 <src.rf>manual</src.rf>
@@ -613,7 +613,7 @@
 <LM>w#w-ln95045-051-p3s2w2</LM>
 </w.rf>
 <form>pozdní</form>
-<tag lemma="pozdní-2_^(v_roce,_ročním_období)" src="orig" selected="1">AAIS4----1A----</tag>
+<tag lemma="pozdní" src="orig" selected="1">AAIS4----1A----</tag>
 </m>
 <m id="m-ln95045-051-p3s2w3">
 <src.rf>manual</src.rf>
@@ -725,7 +725,7 @@
 <LM>w#w-ln95045-051-p3s2w16</LM>
 </w.rf>
 <form>odvážené</form>
-<tag lemma="odvážený-1_^(na_váze)_(*5it-1)" src="orig" selected="1">AAFS2----1A----</tag>
+<tag lemma="odvážený_^(*2t)_(*3it)" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-ln95045-051-p3s2w17">
 <src.rf>manual</src.rf>
@@ -932,7 +932,7 @@
 <AM lemma="as-1_:B_,t_^(assymetric)" src="auto">AAXXX----1A---8</AM>
 <AM lemma="as_,t_^(měnová/váhová_jednotka)" src="auto">NNIS1-----A----</AM>
 <AM lemma="as_,t_^(měnová/váhová_jednotka)" src="auto">NNIS4-----A----</AM>
-<AM lemma="as-4_^(nota)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="as-1_^(nota)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-051-p3s4w8">
@@ -989,7 +989,7 @@
 <LM>w#w-ln95045-051-p3s4w14</LM>
 </w.rf>
 <form>Cypřiších</form>
-<tag lemma="cypřiš" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="cypřiš-1" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-ln95045-051-p3s4w15">
 <src.rf>manual</src.rf>
@@ -1024,7 +1024,7 @@
 <LM>w#w-ln95045-051-p3s4w18</LM>
 </w.rf>
 <form>ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln95045-051-p3s4w19">
 <src.rf>manual</src.rf>
@@ -1247,7 +1247,7 @@
 <LM>w#w-ln95045-051-p3s6w3</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln95045-051-p3s6w4">
 <src.rf>manual</src.rf>

@@ -27,7 +27,7 @@
 <LM>w#w-mf920924-087-p1s1w2</LM>
 </w.rf>
 <form>centra</form>
-<tag lemma="centr_^(sport:_hráč)" src="auto" selected="1">NNMS4-----A----</tag>
+<tag lemma="centr-2_^(sport_hráč)" src="auto" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf920924-087-p1s1w3">
 <src.rf>manual</src.rf>

@@ -237,7 +237,7 @@
 <LM>w#w-ln94201-74-p2s1w25</LM>
 </w.rf>
 <form>sezony</form>
-<tag lemma="sezona" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="sezona_,s_^(^DD**sezóna)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94201-74-p2s1w26">
 <src.rf>manual</src.rf>
@@ -351,7 +351,7 @@
 <LM>w#w-ln94201-74-p2s2w13</LM>
 </w.rf>
 <form>dny</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-ln94201-74-p2s2w14">
 <src.rf>manual</src.rf>
@@ -572,7 +572,7 @@
 <LM>w#w-ln94201-74-p3s2w10</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-ln94201-74-p3s2w11">
 <src.rf>manual</src.rf>

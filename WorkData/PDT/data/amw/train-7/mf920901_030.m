@@ -239,7 +239,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf920901-030-p2s1w23">
@@ -994,7 +994,7 @@
 <LM>w#w-mf920901-030-p3s2w10</LM>
 </w.rf>
 <form>naše</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSHS1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSHS1-P1-------</tag>
 </m>
 <m id="m-mf920901-030-p3s2w11">
 <src.rf>manual</src.rf>
@@ -1122,7 +1122,7 @@
 <LM>w#w-mf920901-030-p3s2w26</LM>
 </w.rf>
 <form>bílé</form>
-<tag lemma="bílý" src="orig" selected="1">AAFP1----1A----</tag>
+<tag lemma="bílý_;o" src="orig" selected="1">AAFP1----1A----</tag>
 </m>
 <m id="m-mf920901-030-p3s2w27">
 <src.rf>manual</src.rf>
@@ -1257,7 +1257,7 @@
 <AM lemma="Tálská_;Y" src="auto">NNFP1-----A----</AM>
 <AM lemma="Tálská_;Y" src="auto">NNFP4-----A----</AM>
 <AM lemma="Tálská_;Y" src="auto">NNFP5-----A----</AM>
-<AM lemma="Tálská_;Y" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
+<AM lemma="Tálská_;Y_^(*1ý)" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
 <AM lemma="Tálská_;Y" src="auto">NNFS3-----A----</AM>
 <AM lemma="Tálská_;Y" src="auto">NNFS6-----A----</AM>
 </tag>
@@ -1728,7 +1728,7 @@
 <LM>w#w-mf920901-030-p3s5w25</LM>
 </w.rf>
 <form>roli</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="role_^(svitek_poslání_pozemek)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf920901-030-p3s5w26">
 <src.rf>manual</src.rf>

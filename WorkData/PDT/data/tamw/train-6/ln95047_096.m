@@ -460,7 +460,7 @@
 <LM>w#w-ln95047-096-p2s2w12</LM>
 </w.rf>
 <form>správního</form>
-<tag lemma="správní_^(např._poplatek;_rada;_řád;...)" src="orig" selected="1">AAIS2----1A----</tag>
+<tag lemma="správní_^(správní_rada;_řád)" src="orig" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-ln95047-096-p2s2w13">
 <src.rf>manual</src.rf>
@@ -728,7 +728,7 @@
 <LM>w#w-ln95047-096-p3s2w7</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-ln95047-096-p3s2w8">
 <src.rf>manual</src.rf>

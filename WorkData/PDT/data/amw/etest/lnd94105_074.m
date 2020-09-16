@@ -218,7 +218,7 @@
 <LM>w#w-lnd94105-074-p1s3w20</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94105-074-p1s3w21">
 <src.rf>manual</src.rf>
@@ -500,7 +500,7 @@
 <LM>w#w-lnd94105-074-p1s4w22</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94105-074-p1s4w23">
 <src.rf>manual</src.rf>
@@ -526,7 +526,7 @@
 <LM>w#w-lnd94105-074-p1s5w2</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd94105-074-p1s5w3">
 <src.rf>manual</src.rf>
@@ -858,7 +858,7 @@
 <LM>w#w-lnd94105-074-p1s7w6</LM>
 </w.rf>
 <form>David</form>
-<tag lemma="David_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="David-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-074-p1s7w7">
 <src.rf>manual</src.rf>

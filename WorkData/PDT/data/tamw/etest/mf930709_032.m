@@ -150,7 +150,7 @@
 <LM>w#w-mf930709-032-p2s1Bw4</LM>
 </w.rf>
 <form>málo</form>
-<tag lemma="málo-1_^(málo_+_2._p.,_málo_peněz)" src="orig" selected="1">Ca--2---------1</tag>
+<tag lemma="málo-1_^(málo_peněz)" src="orig" selected="1">Ca--2---------1</tag>
 </m>
 <m id="m-mf930709-032-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -182,7 +182,7 @@
 <LM>w#w-mf930709-032-p2s1Bw8</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-mf930709-032-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -1163,7 +1163,7 @@
 <LM>w#w-mf930709-032-p4s1w27</LM>
 </w.rf>
 <form>prvního</form>
-<tag lemma="první" src="orig" selected="1">CrNS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS2----------</tag>
 </m>
 <m id="m-mf930709-032-p4s1w28">
 <src.rf>manual</src.rf>
@@ -1797,7 +1797,7 @@
 <LM>w#w-mf930709-032-p5s3w3</LM>
 </w.rf>
 <form>spořitelny</form>
-<tag lemma="spořitelna_^(místo;_př._Česká_spořitelna)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="spořitelna" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930709-032-p5s3w4">
 <src.rf>manual</src.rf>
@@ -3458,7 +3458,7 @@
 <form>ČEZ</form>
 <tag>
 <AM lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ČEZ-1_;m_^(České_energetické_závody)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČEZ-2_;m_^(České_energetické_závody)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-032-p9s1w5">
@@ -4255,7 +4255,7 @@
 <LM>w#w-mf930709-032-p11s1w12</LM>
 </w.rf>
 <form>vydání</form>
-<tag lemma="vydání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="vydání_^(*3at)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-mf930709-032-p11s1w13">
 <src.rf>manual</src.rf>

@@ -133,7 +133,7 @@
 <LM>w#w-lnd94104-114-p1s1Bw4</LM>
 </w.rf>
 <form>tragédií</form>
-<tag lemma="tragedie" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="tragédie" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-lnd94104-114-p1s1Bw5">
 <src.rf>manual</src.rf>
@@ -517,7 +517,7 @@
 <LM>w#w-lnd94104-114-p1s3w17</LM>
 </w.rf>
 <form>roli</form>
-<tag lemma="role-1_^(kotouč;_svitek)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="role_^(svitek_poslání_pozemek)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-lnd94104-114-p1s3w18">
 <src.rf>manual</src.rf>
@@ -578,7 +578,7 @@
 <LM>w#w-lnd94104-114-p1s4w6</LM>
 </w.rf>
 <form>Sennova</form>
-<tag lemma="Sennův_;Y_^(*2a)" src="orig" selected="1">AUNS2M---------</tag>
+<tag lemma="Sennův_;Y_^(*2)_(*2a)" src="orig" selected="1">AUNS2M---------</tag>
 </m>
 <m id="m-lnd94104-114-p1s4w7">
 <src.rf>manual</src.rf>
@@ -756,7 +756,7 @@
 <LM>w#w-lnd94104-114-p1s5w2</LM>
 </w.rf>
 <form>prvních</form>
-<tag lemma="první" src="orig" selected="1">CrFP2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFP2----------</tag>
 </m>
 <m id="m-lnd94104-114-p1s5w3">
 <src.rf>manual</src.rf>
@@ -1112,7 +1112,7 @@
 <LM>w#w-lnd94104-114-p1s7w5</LM>
 </w.rf>
 <form>horší</form>
-<tag lemma="špatný" src="orig" selected="1">AAIP1----2A----</tag>
+<tag lemma="horší" src="orig" selected="1">AAIP1----2A----</tag>
 </m>
 <m id="m-lnd94104-114-p1s7w6">
 <src.rf>manual</src.rf>

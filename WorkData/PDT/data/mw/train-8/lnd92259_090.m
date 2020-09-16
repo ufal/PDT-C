@@ -119,7 +119,7 @@
 <LM>w#w-lnd92259-090-p2s2w7</LM>
 </w.rf>
 <form>černá</form>
-<tag lemma="černý" src="auto" selected="1">AANP1----1A----</tag>
+<tag lemma="černý_;o" src="auto" selected="1">AANP1----1A----</tag>
 </m>
 <m id="m-lnd92259-090-p2s2w8">
 <src.rf>manual</src.rf>
@@ -201,7 +201,7 @@
 <LM>w#w-lnd92259-090-p2s3w8</LM>
 </w.rf>
 <form>jet</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="orig" selected="1">Vf--------A-I--</tag>
+<tag lemma="jet-1" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-lnd92259-090-p2s3w9">
 <src.rf>manual</src.rf>
@@ -661,7 +661,7 @@
 <LM>w#w-lnd92259-090-p2s6w2</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS4----------</tag>
 </m>
 <m id="m-lnd92259-090-p2s6w3">
 <src.rf>manual</src.rf>
@@ -685,7 +685,7 @@
 <LM>w#w-lnd92259-090-p2s6w5</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92259-090-p2s6w6">
 <src.rf>manual</src.rf>

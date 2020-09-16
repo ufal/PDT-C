@@ -51,7 +51,7 @@
 <LM>w#w-ln95044-125-p1s1w5</LM>
 </w.rf>
 <form>nejlepším</form>
-<tag lemma="dobrý" src="orig" selected="1">AAMS7----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAMS7----3A----</tag>
 </m>
 <m id="m-ln95044-125-p1s1w6">
 <src.rf>manual</src.rf>
@@ -279,7 +279,7 @@
 <LM>w#w-ln95044-125-p2s2w9</LM>
 </w.rf>
 <form>nejlepším</form>
-<tag lemma="dobrý" src="orig" selected="1">AAMS7----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAMS7----3A----</tag>
 </m>
 <m id="m-ln95044-125-p2s2w10">
 <src.rf>manual</src.rf>
@@ -571,7 +571,7 @@
 <LM>w#w-ln95044-125-p2s5w4</LM>
 </w.rf>
 <form>ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln95044-125-p2s5w5">
 <src.rf>manual</src.rf>
@@ -760,7 +760,7 @@
 <LM>w#w-ln95044-125-p2s6w7</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-4_^(v_knize,_rukopise,...)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln95044-125-p2s6w8">
 <src.rf>manual</src.rf>

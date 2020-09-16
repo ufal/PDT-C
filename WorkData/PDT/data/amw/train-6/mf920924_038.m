@@ -424,7 +424,7 @@
 <LM>w#w-mf920924-038-p3s3w4</LM>
 </w.rf>
 <form>vy</form>
-<tag lemma="ty" src="orig" selected="1">PP-P1--2-------</tag>
+<tag lemma="vy" src="orig" selected="1">PP-P1--2-------</tag>
 </m>
 <m id="m-mf920924-038-p3s3w5">
 <src.rf>manual</src.rf>
@@ -602,7 +602,7 @@
 <LM>w#w-mf920924-038-p3s4w16</LM>
 </w.rf>
 <form>prostředky</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-mf920924-038-p3s4w17">
 <src.rf>manual</src.rf>

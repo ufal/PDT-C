@@ -442,7 +442,7 @@
 <LM>w#w-cmpr9413-019-p4s1w48</LM>
 </w.rf>
 <form>zpomalení</form>
-<tag lemma="zpomalení_,s_^(*2t)" src="auto" selected="1">NNNS4-----A----</tag>
+<tag lemma="zpomalení_^(*2t)_(*3it)" src="auto" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-cmpr9413-019-p4s1w49">
 <src.rf>manual</src.rf>
@@ -500,7 +500,7 @@
 <LM>w#w-cmpr9413-019-p4s2w2</LM>
 </w.rf>
 <form>našeho</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSZS2-P1-------</tag>
 </m>
 <m id="m-cmpr9413-019-p4s2w3">
 <src.rf>manual</src.rf>
@@ -532,7 +532,7 @@
 <LM>w#w-cmpr9413-019-p4s2w6</LM>
 </w.rf>
 <form>dala</form>
-<tag lemma="dát" src="orig" selected="1">VpQW----R-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-cmpr9413-019-p4s2w7">
 <src.rf>manual</src.rf>
@@ -612,7 +612,7 @@
 <LM>w#w-cmpr9413-019-p4s2w16</LM>
 </w.rf>
 <form>ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-cmpr9413-019-p4s2w17">
 <src.rf>manual</src.rf>

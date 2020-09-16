@@ -27,7 +27,7 @@
 <LM>w#w-cmpr9413-017-p2s1w2</LM>
 </w.rf>
 <form>míří</form>
-<tag lemma="mířit_^(např._pistolí;_směřovat;_tvar_slovesa)" src="orig" selected="1">VB-P---3P-AAI--</tag>
+<tag lemma="mířit" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9413-017-p2s1w3">
 <src.rf>manual</src.rf>
@@ -133,7 +133,7 @@
 <LM>w#w-cmpr9413-017-p3s1w12</LM>
 </w.rf>
 <form>našeho</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSZS2-P1-------</tag>
 </m>
 <m id="m-cmpr9413-017-p3s1w13">
 <src.rf>manual</src.rf>
@@ -467,7 +467,7 @@
 <LM>w#w-cmpr9413-017-p3s4w10</LM>
 </w.rf>
 <form>náš</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSIS4-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSIS4-P1-------</tag>
 </m>
 <m id="m-cmpr9413-017-p3s4w11">
 <src.rf>manual</src.rf>
@@ -1349,7 +1349,7 @@
 <LM>w#w-cmpr9413-017-p6s2w40</LM>
 </w.rf>
 <form>adaptér</form>
-<tag lemma="adaptér" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="adaptér-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-017-p6s2w41">
 <src.rf>manual</src.rf>
@@ -1543,7 +1543,7 @@
 <LM>w#w-cmpr9413-017-p8s2w1</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrFS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS4----------</tag>
 </m>
 <m id="m-cmpr9413-017-p8s2w2">
 <src.rf>manual</src.rf>
@@ -1870,7 +1870,7 @@
 <LM>w#w-cmpr9413-017-p8s4w7</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-cmpr9413-017-p8s4w8">
 <src.rf>manual</src.rf>
@@ -2277,7 +2277,7 @@
 <LM>w#w-cmpr9413-017-p9s1w15</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-cmpr9413-017-p9s1w16">
 <src.rf>manual</src.rf>
@@ -3233,7 +3233,7 @@
 <LM>w#w-cmpr9413-017-p13s2w4</LM>
 </w.rf>
 <form>druhá</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS1----------</tag>
 </m>
 <m id="m-cmpr9413-017-p13s2w5">
 <src.rf>manual</src.rf>

@@ -1537,7 +1537,7 @@
 <LM>w#w-lnd94101-066-p1s10w15</LM>
 </w.rf>
 <form>ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-lnd94101-066-p1s10w16">
 <src.rf>manual</src.rf>
@@ -1561,7 +1561,7 @@
 <LM>w#w-lnd94101-066-p1s10w18</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-lnd94101-066-p1s10w19">
 <src.rf>manual</src.rf>
@@ -2176,7 +2176,7 @@
 <form>Warren</form>
 <tag>
 <AM lemma="Warren_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Warren_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Warren-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-066-p1s13w5">

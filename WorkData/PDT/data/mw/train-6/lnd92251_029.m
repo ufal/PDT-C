@@ -166,7 +166,7 @@
 <LM>w#w-lnd92251-029-p3s2w7</LM>
 </w.rf>
 <form>správném</form>
-<tag lemma="správný_^(podle_něj._měřítek;_př._chlap,_míra,...)" src="orig" selected="1">AANS6----1A----</tag>
+<tag lemma="správný" src="orig" selected="1">AANS6----1A----</tag>
 </m>
 <m id="m-lnd92251-029-p3s2w8">
 <src.rf>manual</src.rf>
@@ -751,7 +751,7 @@
 <LM>w#w-lnd92251-029-p3s6w6</LM>
 </w.rf>
 <form>lidem</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP3-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP3-----A----</tag>
 </m>
 <m id="m-lnd92251-029-p3s6w7">
 <src.rf>manual</src.rf>
@@ -866,7 +866,7 @@
 <LM>w#w-lnd92251-029-p3s6w20</LM>
 </w.rf>
 <form>faktor</form>
-<tag lemma="faktor" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="faktor-1" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-lnd92251-029-p3s6w21">
 <src.rf>manual</src.rf>

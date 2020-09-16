@@ -267,7 +267,7 @@
 <LM>w#w-mf930709-062-p2s1Bw16</LM>
 </w.rf>
 <form>stavbyvedoucí</form>
-<tag lemma="stavbyvedoucí" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="stavbyvedoucí-1" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf930709-062-p2s1Bw17">
 <src.rf>manual</src.rf>
@@ -1306,7 +1306,7 @@
 <LM>w#w-mf930709-062-p4s1w15</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-mf930709-062-p4s1w16">
 <src.rf>manual</src.rf>

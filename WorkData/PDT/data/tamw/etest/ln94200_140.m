@@ -764,7 +764,7 @@
 <LM>w#w-ln94200-140-p4s1w9</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln94200-140-p4s1w10">
 <src.rf>manual</src.rf>

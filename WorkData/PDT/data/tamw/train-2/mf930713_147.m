@@ -162,7 +162,7 @@
 <LM>w#w-mf930713-147-p2s1Bw8</LM>
 </w.rf>
 <form>prvními</form>
-<tag lemma="první" src="orig" selected="1">CrFP7----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFP7----------</tag>
 </m>
 <m id="m-mf930713-147-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -593,7 +593,7 @@
 <LM>w#w-mf930713-147-p3s2w1</LM>
 </w.rf>
 <form>Prvních</form>
-<tag lemma="první" src="orig" selected="1">CrMP2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrMP2----------</tag>
 </m>
 <m id="m-mf930713-147-p3s2w2">
 <src.rf>manual</src.rf>
@@ -1272,7 +1272,7 @@
 <LM>w#w-mf930713-147-p5s1w23</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-mf930713-147-p5s1w24">
 <src.rf>manual</src.rf>
@@ -1280,7 +1280,7 @@
 <LM>w#w-mf930713-147-p5s1w24</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf930713-147-p5s1w25">
 <src.rf>manual</src.rf>

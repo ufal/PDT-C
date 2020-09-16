@@ -306,7 +306,7 @@
 <LM>w#w-mf920922-032-p3s2w17</LM>
 </w.rf>
 <form>druhá</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS1----------</tag>
 </m>
 <m id="m-mf920922-032-p3s2w18">
 <src.rf>manual</src.rf>
@@ -1200,7 +1200,7 @@
 <AM lemma="ulítlý_,h_^(*4étnout)" src="auto">AAIP1----1A---6</AM>
 <AM lemma="ulítlý_,h_^(*4étnout)" src="auto">AAIP4----1A---6</AM>
 <AM lemma="ulítlý_,h_^(*4étnout)" src="auto">AAIP5----1A---6</AM>
-<AM lemma="ulítlý_,h_^(*4étnout)" src="auto" selected="1">AAIS1----1A----</AM>
+<AM lemma="ulítlý_^(*4étnout)" src="auto" selected="1">AAIS1----1A----</AM>
 <AM lemma="ulítlý_,h_^(*4étnout)" src="auto">AAIS4----1A----</AM>
 <AM lemma="ulítlý_,h_^(*4étnout)" src="auto">AAIS5----1A----</AM>
 <AM lemma="ulítlý_,h_^(*4étnout)" src="auto">AAMP1----1A---6</AM>
@@ -1238,7 +1238,7 @@
 <LM>w#w-mf920922-032-p3s6w25</LM>
 </w.rf>
 <form>náš</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSYS1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSYS1-P1-------</tag>
 </m>
 <m id="m-mf920922-032-p3s6w26">
 <src.rf>manual</src.rf>

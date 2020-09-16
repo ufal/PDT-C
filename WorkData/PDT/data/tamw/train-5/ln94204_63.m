@@ -272,7 +272,7 @@
 <LM>w#w-ln94204-63-p2s1Bw19</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-ln94204-63-p2s1Bw20">
 <src.rf>manual</src.rf>
@@ -378,7 +378,7 @@
 <LM>w#w-ln94204-63-p2s2w6</LM>
 </w.rf>
 <form>příbuzná</form>
-<tag lemma="příbuzná-1_^(člen_rodiny)_(*3ý-1)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="příbuzná-1_^(*3ý-1)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94204-63-p2s2w7">
 <src.rf>manual</src.rf>
@@ -782,7 +782,7 @@
 <LM>w#w-ln94204-63-p2s4w13</LM>
 </w.rf>
 <form>zamčeného</form>
-<tag lemma="zamčený_^(*4knout)" src="orig" selected="1">AAIS2----1A----</tag>
+<tag lemma="zamčený" src="orig" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-ln94204-63-p2s4w14">
 <src.rf>manual</src.rf>
@@ -848,7 +848,7 @@
 <LM>w#w-ln94204-63-p2s5w1</LM>
 </w.rf>
 <form>Druhého</form>
-<tag lemma="druhý" src="orig" selected="1">CrMS4----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrMS4----------</tag>
 </m>
 <m id="m-ln94204-63-p2s5w2">
 <src.rf>manual</src.rf>

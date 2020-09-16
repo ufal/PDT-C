@@ -126,7 +126,7 @@
 <AM lemma="ranění_^(poranit)_(*3it)" src="auto">NNNS4-----A----</AM>
 <AM lemma="ranění_^(poranit)_(*3it)" src="auto">NNNS5-----A----</AM>
 <AM lemma="ranění_^(poranit)_(*3it)" src="auto">NNNS6-----A----</AM>
-<AM lemma="ranění_^(poranit)_(*3it)" src="manual" selected="1">NNNP1-----A----</AM>
+<AM lemma="ranění_^(*3it)" src="manual" selected="1">NNNP1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-139-p2s1w6">
@@ -449,7 +449,7 @@
 <LM>w#w-mf920902-139-p3s5w2</LM>
 </w.rf>
 <form>napadené</form>
-<tag lemma="napadený_^(*3nout)" src="orig" selected="1">AAFS6----1A----</tag>
+<tag lemma="napadený" src="orig" selected="1">AAFS6----1A----</tag>
 </m>
 <m id="m-mf920902-139-p3s5w3">
 <src.rf>manual</src.rf>

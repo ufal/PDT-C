@@ -131,7 +131,7 @@
 <LM>w#w-lnd94103-011-p1s3w2</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrNS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS4----------</tag>
 </m>
 <m id="m-lnd94103-011-p1s3w3">
 <src.rf>manual</src.rf>
@@ -1614,7 +1614,7 @@
 <LM>w#w-lnd94103-011-p1s16w2</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrIP4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIP4----------</tag>
 </m>
 <m id="m-lnd94103-011-p1s16w3">
 <src.rf>manual</src.rf>

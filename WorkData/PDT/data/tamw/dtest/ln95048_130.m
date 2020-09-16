@@ -771,7 +771,7 @@
 <LM>w#w-ln95048-130-p3s2w22</LM>
 </w.rf>
 <form>Petrov</form>
-<tag lemma="Petrov_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Petrov-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-130-p3s2w23">
 <src.rf>manual</src.rf>
@@ -949,7 +949,7 @@
 <LM>w#w-ln95048-130-p3s3w21</LM>
 </w.rf>
 <form>Rady</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95048-130-p3s3w22">
 <src.rf>manual</src.rf>
@@ -1007,7 +1007,7 @@
 <LM>w#w-ln95048-130-p4s1w1</LM>
 </w.rf>
 <form>Mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="mluvčí-2" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95048-130-p4s1w2">
 <src.rf>manual</src.rf>
@@ -1168,7 +1168,7 @@
 <LM>w#w-ln95048-130-p4s1w20</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XP1FS3-------</tag>
 </m>
 <m id="m-ln95048-130-p4s1w21">
 <src.rf>manual</src.rf>

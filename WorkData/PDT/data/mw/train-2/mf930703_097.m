@@ -19,7 +19,7 @@
 <LM>w#w-mf930703-097-p1s1w1</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrFP1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFP1----------</tag>
 </m>
 <m id="m-mf930703-097-p1s1w2">
 <src.rf>manual</src.rf>
@@ -426,7 +426,7 @@
 <LM>w#w-mf930703-097-p2s2w23</LM>
 </w.rf>
 <form>zlatou</form>
-<tag lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAFS4----1A----</tag>
+<tag lemma="zlatý-1_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-mf930703-097-p2s2w24">
 <src.rf>manual</src.rf>
@@ -554,7 +554,7 @@
 <LM>w#w-mf930703-097-p2s2w39</LM>
 </w.rf>
 <form>Miroslav</form>
-<tag lemma="Miroslav_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Miroslav-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-097-p2s2w40">
 <src.rf>manual</src.rf>
@@ -636,7 +636,7 @@
 <LM>w#w-mf930703-097-p3s1w1</LM>
 </w.rf>
 <form>Zlatou</form>
-<tag lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAFS4----1A----</tag>
+<tag lemma="zlatý-1_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-mf930703-097-p3s1w2">
 <src.rf>manual</src.rf>
@@ -1429,7 +1429,7 @@
 <LM>w#w-mf930703-097-p4s11w1</LM>
 </w.rf>
 <form>Vala</form>
-<tag lemma="Vala_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Vala-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-097-p4s11w2">
 <src.rf>manual</src.rf>

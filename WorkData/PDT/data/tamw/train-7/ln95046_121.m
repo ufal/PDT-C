@@ -137,7 +137,7 @@
 <LM>w#w-ln95046-121-p2s1Bw7</LM>
 </w.rf>
 <form>Evropě</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln95046-121-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -342,7 +342,7 @@
 <LM>w#w-ln95046-121-p2s2w5</LM>
 </w.rf>
 <form>výborem</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-ln95046-121-p2s2w6">
 <src.rf>manual</src.rf>
@@ -634,7 +634,7 @@
 <LM>w#w-ln95046-121-p3s1w25</LM>
 </w.rf>
 <form>Evropě</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln95046-121-p3s1w26">
 <src.rf>manual</src.rf>

@@ -43,7 +43,7 @@
 <LM>w#w-ln94200-107-p1s1w4</LM>
 </w.rf>
 <form>nejlepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAMS1----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAMS1----3A----</tag>
 </m>
 </s>
 <s id="m-ln94200-107-p2s1A">
@@ -111,7 +111,7 @@
 <LM>w#w-ln94200-107-p2s1Bw6</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94200-107-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -374,7 +374,7 @@
 <form>Tiny</form>
 <tag>
 <AM lemma="Tina_;m" src="auto">NNFS2-----A----</AM>
-<AM lemma="Tina-2_;Y" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="Tina_;Y_;m" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-107-p2s2w9">
@@ -442,7 +442,7 @@
 <LM>w#w-ln94200-107-p2s2w15</LM>
 </w.rf>
 <form>nejlepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAMS1----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAMS1----3A----</tag>
 </m>
 <m id="m-ln94200-107-p2s2w16">
 <src.rf>manual</src.rf>

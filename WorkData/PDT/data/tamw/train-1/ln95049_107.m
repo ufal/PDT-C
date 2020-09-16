@@ -560,7 +560,7 @@
 <LM>w#w-ln95049-107-p2s4w7</LM>
 </w.rf>
 <form>lidi</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-ln95049-107-p2s4w8">
 <src.rf>manual</src.rf>

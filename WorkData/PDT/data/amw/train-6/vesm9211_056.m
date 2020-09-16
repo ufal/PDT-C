@@ -588,7 +588,7 @@
 <LM>w#w-vesm9211-056-p2s1w67</LM>
 </w.rf>
 <form>daném</form>
-<tag lemma="daný_^(*3át)" src="auto" selected="1">AAIS6----1A----</tag>
+<tag lemma="daný-1_^(*5át-1)" src="auto" selected="1">AAIS6----1A----</tag>
 </m>
 <m id="m-vesm9211-056-p2s1w68">
 <src.rf>manual</src.rf>

@@ -67,7 +67,7 @@
 <LM>w#w-ln94203-42-p1s1w7</LM>
 </w.rf>
 <form>právu</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-ln94203-42-p1s1w8">
 <src.rf>manual</src.rf>
@@ -151,7 +151,7 @@
 <LM>w#w-ln94203-42-p2s1Bw3</LM>
 </w.rf>
 <form>rozvody</form>
-<tag lemma="rozvod-1_^(manželství)" src="orig" selected="1">NNIP7-----A----</tag>
+<tag lemma="rozvod_^(manželství;vody)" src="orig" selected="1">NNIP7-----A----</tag>
 </m>
 <m id="m-ln94203-42-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -207,7 +207,7 @@
 <LM>w#w-ln94203-42-p2s1Bw10</LM>
 </w.rf>
 <form>členové</form>
-<tag lemma="člen" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln94203-42-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -345,7 +345,7 @@
 <LM>w#w-ln94203-42-p2s2w6</LM>
 </w.rf>
 <form>právu</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS3-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS3-----A----</tag>
 </m>
 <m id="m-ln94203-42-p2s2w7">
 <src.rf>manual</src.rf>
@@ -361,7 +361,7 @@
 <LM>w#w-ln94203-42-p2s2w8</LM>
 </w.rf>
 <form>sekretář</form>
-<tag lemma="sekretář" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="sekretář-2" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-42-p2s2w9">
 <src.rf>manual</src.rf>
@@ -425,7 +425,7 @@
 <LM>w#w-ln94203-42-p2s2w16</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-ln94203-42-p2s2w17">
 <src.rf>manual</src.rf>
@@ -608,7 +608,7 @@
 <LM>w#w-ln94203-42-p3s1w6</LM>
 </w.rf>
 <form>rozvod</form>
-<tag lemma="rozvod-1_^(manželství)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="rozvod_^(manželství;vody)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94203-42-p3s1w7">
 <src.rf>manual</src.rf>
@@ -688,7 +688,7 @@
 <LM>w#w-ln94203-42-p3s1w16</LM>
 </w.rf>
 <form>členové</form>
-<tag lemma="člen" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln94203-42-p3s1w17">
 <src.rf>manual</src.rf>
@@ -776,7 +776,7 @@
 <LM>w#w-ln94203-42-p3s1w27</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln94203-42-p3s1w28">
 <src.rf>manual</src.rf>
@@ -1172,7 +1172,7 @@
 <LM>w#w-ln94203-42-p4s1w10</LM>
 </w.rf>
 <form>sekretář</form>
-<tag lemma="sekretář" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="sekretář-2" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-42-p4s1w11">
 <src.rf>manual</src.rf>
@@ -1356,7 +1356,7 @@
 <LM>w#w-ln94203-42-p4s1w33</LM>
 </w.rf>
 <form>členy</form>
-<tag lemma="člen" src="orig" selected="1">NNMP7-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-ln94203-42-p4s1w34">
 <src.rf>manual</src.rf>

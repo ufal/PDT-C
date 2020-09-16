@@ -92,7 +92,7 @@
 <LM>w#w-lnd92255-064-p1s1w10</LM>
 </w.rf>
 <form>NOSIČE</form>
-<tag lemma="nosič" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="nosič-2" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92255-064-p2s1">
@@ -1089,7 +1089,7 @@
 <LM>w#w-lnd92255-064-p4s5w4</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8NS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8NS4---------1</tag>
 </m>
 <m id="m-lnd92255-064-p4s5w5">
 <src.rf>manual</src.rf>
@@ -1727,7 +1727,7 @@
 <LM>w#w-lnd92255-064-p5s4w13</LM>
 </w.rf>
 <form>členem</form>
-<tag lemma="člen" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd92255-064-p5s4w14">
 <src.rf>manual</src.rf>
@@ -1913,7 +1913,7 @@
 <LM>w#w-lnd92255-064-p6s1w14</LM>
 </w.rf>
 <form>jejímž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1ZS6FS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1ZS6FS3-------</tag>
 </m>
 <m id="m-lnd92255-064-p6s1w15">
 <src.rf>manual</src.rf>
@@ -2454,7 +2454,7 @@
 <LM>w#w-lnd92255-064-p6s4w24</LM>
 </w.rf>
 <form>potřeby</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-lnd92255-064-p6s4w25">
 <src.rf>manual</src.rf>
@@ -2616,7 +2616,7 @@
 <LM>w#w-lnd92255-064-p7s1w18</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd92255-064-p7s1w19">
 <src.rf>manual</src.rf>
@@ -2658,7 +2658,7 @@
 <LM>w#w-lnd92255-064-p7s2w4</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-064-p7s2w5">
 <src.rf>manual</src.rf>
@@ -2797,7 +2797,7 @@
 <LM>w#w-lnd92255-064-p8s1w7</LM>
 </w.rf>
 <form>nosiče</form>
-<tag lemma="nosič" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="nosič-2" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-lnd92255-064-p8s1w8">
 <src.rf>manual</src.rf>

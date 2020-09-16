@@ -349,7 +349,7 @@
 <LM>w#w-ln95046-101-p2s2w14</LM>
 </w.rf>
 <form>Karlově</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUIS6M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUIS6M---------</tag>
 </m>
 <m id="m-ln95046-101-p2s2w15">
 <src.rf>manual</src.rf>
@@ -1621,7 +1621,7 @@
 <LM>w#w-ln95046-101-p4s2w11</LM>
 </w.rf>
 <form>prostředky</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-ln95046-101-p4s2w12">
 <src.rf>manual</src.rf>
@@ -1677,7 +1677,7 @@
 <LM>w#w-ln95046-101-p4s2w18</LM>
 </w.rf>
 <form>Karlova</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUIS2M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUIS2M---------</tag>
 </m>
 <m id="m-ln95046-101-p4s2w19">
 <src.rf>manual</src.rf>
@@ -2212,7 +2212,7 @@
 <LM>w#w-ln95046-101-p6s1w18</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-ln95046-101-p6s1w19">
 <src.rf>manual</src.rf>

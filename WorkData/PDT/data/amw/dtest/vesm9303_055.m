@@ -43,7 +43,7 @@
 <LM>w#w-vesm9303-055-p1s1w4</LM>
 </w.rf>
 <form>LETY</form>
-<tag lemma="rok" src="orig" selected="1">NNNP7-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP7-----A----</tag>
 </m>
 <m id="m-vesm9303-055-p1s1w5">
 <src.rf>manual</src.rf>
@@ -690,7 +690,7 @@
 <LM>w#w-vesm9303-055-p2s2w45</LM>
 </w.rf>
 <form>zaměstnaných</form>
-<tag lemma="zaměstnaný-1_^(všeob._význam:_činnost,_zaměstnání)_(*4t-1)" src="orig" selected="1">AAFP2----1A----</tag>
+<tag lemma="zaměstnaný_^(*2t)" src="orig" selected="1">AAFP2----1A----</tag>
 </m>
 <m id="m-vesm9303-055-p2s2w46">
 <src.rf>manual</src.rf>
@@ -1701,7 +1701,7 @@
 <LM>w#w-vesm9303-055-p4s1w1</LM>
 </w.rf>
 <form>Petrolej</form>
-<tag lemma="petrolej" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="petrolej-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-vesm9303-055-p4s1w2">
 <src.rf>manual</src.rf>
@@ -1754,7 +1754,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-055-p4s2w4">
@@ -1787,7 +1787,7 @@
 <LM>w#w-vesm9303-055-p4s2w7</LM>
 </w.rf>
 <form>petroleje</form>
-<tag lemma="petrolej" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="petrolej-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-vesm9303-055-p4s2w8">
 <src.rf>manual</src.rf>
@@ -1964,7 +1964,7 @@
 <LM>w#w-vesm9303-055-p4s4w2</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-vesm9303-055-p4s4w3">
 <src.rf>manual</src.rf>
@@ -2142,7 +2142,7 @@
 <LM>w#w-vesm9303-055-p4s5w9</LM>
 </w.rf>
 <form>rys</form>
-<tag lemma="rys" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="rys-2" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-vesm9303-055-p4s5w10">
 <src.rf>manual</src.rf>
@@ -2509,7 +2509,7 @@
 <LM>w#w-vesm9303-055-p4s7w10</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-vesm9303-055-p4s7w11">
 <src.rf>manual</src.rf>
@@ -2586,7 +2586,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-055-p4s8w4">
@@ -2635,7 +2635,7 @@
 <LM>w#w-vesm9303-055-p4s8w9</LM>
 </w.rf>
 <form>petrolej</form>
-<tag lemma="petrolej" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="petrolej-1" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-vesm9303-055-p4s8w10">
 <src.rf>manual</src.rf>
@@ -3094,7 +3094,7 @@
 <form>Třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -3179,7 +3179,7 @@
 <LM>w#w-vesm9303-055-p4s11w11</LM>
 </w.rf>
 <form>nemocné</form>
-<tag lemma="nemocná-1_^(pacient)_(*3ý-1)" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="nemocná-1_^(*3ý-1)" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-vesm9303-055-p4s11w12">
 <src.rf>manual</src.rf>
@@ -3412,7 +3412,7 @@
 <LM>w#w-vesm9303-055-p6s2w10</LM>
 </w.rf>
 <form>Buffalo</form>
-<tag lemma="Buffalo-1_;G_^(město)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Buffalo-1_;G_;m_^(město_sport._klub)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-vesm9303-055-p6s2w11">
 <src.rf>manual</src.rf>
@@ -3544,7 +3544,7 @@
 <LM>w#w-vesm9303-055-p6s4w1</LM>
 </w.rf>
 <form>Vypadá</form>
-<tag lemma="vypadat" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="vypadat-1_^(ty_vypadáš)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-vesm9303-055-p6s4w2">
 <src.rf>manual</src.rf>

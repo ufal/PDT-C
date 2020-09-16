@@ -27,7 +27,7 @@
 <LM>w#w-ln94205-80-p1s1w2</LM>
 </w.rf>
 <form>Zákruty</form>
-<tag lemma="zákruta_,s" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="zákruta" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94205-80-p1s1w3">
 <src.rf>manual</src.rf>
@@ -351,7 +351,7 @@
 <LM>w#w-ln94205-80-p2s3w9</LM>
 </w.rf>
 <form>lety</form>
-<tag lemma="rok" src="orig" selected="1">NNNP7-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP7-----A----</tag>
 </m>
 <m id="m-ln94205-80-p2s3w10">
 <src.rf>manual</src.rf>
@@ -760,7 +760,7 @@
 <LM>w#w-ln94205-80-p2s6w7</LM>
 </w.rf>
 <form>Zákruty</form>
-<tag lemma="zákruta_,s" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="zákruta" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94205-80-p2s6w8">
 <src.rf>manual</src.rf>
@@ -878,7 +878,7 @@
 <LM>w#w-ln94205-80-p2s6w21</LM>
 </w.rf>
 <form>Zákruty</form>
-<tag lemma="zákruta_,s" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="zákruta" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94205-80-p2s6w22">
 <src.rf>manual</src.rf>

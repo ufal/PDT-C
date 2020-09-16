@@ -328,7 +328,7 @@
 <LM>w#w-ln94205-68-p2s3w8</LM>
 </w.rf>
 <form>Sudet</form>
-<tag lemma="Sudety_;G" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="Sudety-1_;G" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94205-68-p2s3w9">
 <src.rf>manual</src.rf>
@@ -1204,7 +1204,7 @@
 <LM>w#w-ln94205-68-p3s3w7</LM>
 </w.rf>
 <form>oka</form>
-<tag lemma="oko" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="oko-1" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln94205-68-p3s3w8">
 <src.rf>manual</src.rf>
@@ -1500,7 +1500,7 @@
 <form>stojí</form>
 <tag>
 <AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig">VB-S---3P-AA---</AM>
-<AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="manual" selected="1">VB-S---3P-AAI--</AM>
+<AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m-ln94205-68-p4s2w7">
@@ -1794,7 +1794,7 @@
 <LM>w#w-ln94205-68-p5s1w7</LM>
 </w.rf>
 <form>lepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AANS1----2A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AANS1----2A----</tag>
 </m>
 <m id="m-ln94205-68-p5s1w8">
 <src.rf>manual</src.rf>

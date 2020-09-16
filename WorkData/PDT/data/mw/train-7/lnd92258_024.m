@@ -184,7 +184,7 @@
 <LM>w#w-lnd92258-024-p3s2w7</LM>
 </w.rf>
 <form>naši</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS4-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS4-P1-------</tag>
 </m>
 <m id="m-lnd92258-024-p3s2w8">
 <src.rf>manual</src.rf>
@@ -580,7 +580,7 @@
 <LM>w#w-lnd92258-024-p4s1w22</LM>
 </w.rf>
 <form>správnosti</form>
-<tag lemma="správnost_^(podle_něj._měřítek;_př._chlap,_míra,...)_(*3ý)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="správnost_^(*3ý)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd92258-024-p4s1w23">
 <src.rf>manual</src.rf>
@@ -654,7 +654,7 @@
 <LM>w#w-lnd92258-024-p4s2w8</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-lnd92258-024-p4s2w9">
 <src.rf>manual</src.rf>
@@ -904,7 +904,7 @@
 <LM>w#w-lnd92258-024-p4s3w2</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP2-P1-------</tag>
 </m>
 <m id="m-lnd92258-024-p4s3w3">
 <src.rf>manual</src.rf>
@@ -1074,7 +1074,7 @@
 <LM>w#w-lnd92258-024-p4s4w5</LM>
 </w.rf>
 <form>právo</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-lnd92258-024-p4s4w6">
 <src.rf>manual</src.rf>
@@ -1244,7 +1244,7 @@
 <LM>w#w-lnd92258-024-p4s5w15</LM>
 </w.rf>
 <form>ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-lnd92258-024-p4s5w16">
 <src.rf>manual</src.rf>

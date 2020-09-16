@@ -202,7 +202,7 @@
 <LM>w#w-lnd91303-028-p4s1w16</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS1FS3-------</tag>
 </m>
 <m id="m-lnd91303-028-p4s1w17">
 <src.rf>manual</src.rf>
@@ -263,7 +263,7 @@
 <LM>w#w-lnd91303-028-p4s2w2</LM>
 </w.rf>
 <form>prostředky</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-lnd91303-028-p4s2w3">
 <src.rf>manual</src.rf>

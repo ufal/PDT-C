@@ -289,7 +289,7 @@
 <LM>w#w-ln94211-6-p2s2w11</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-ln94211-6-p2s2w12">
 <src.rf>manual</src.rf>
@@ -388,7 +388,7 @@
 <LM>w#w-ln94211-6-p2s2w23</LM>
 </w.rf>
 <form>správní</form>
-<tag lemma="správní_^(např._poplatek;_rada;_řád;...)" src="orig" selected="1">AAFS2----1A----</tag>
+<tag lemma="správní_^(správní_rada;_řád)" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-ln94211-6-p2s2w24">
 <src.rf>manual</src.rf>

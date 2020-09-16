@@ -322,7 +322,7 @@
 <LM>w#w-lnd92252-022-p2s2w16</LM>
 </w.rf>
 <form>Lom</form>
-<tag lemma="Lom_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lom-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-022-p2s2w17">
 <src.rf>manual</src.rf>
@@ -985,7 +985,7 @@
 <LM>w#w-lnd92252-022-p2s8w2</LM>
 </w.rf>
 <form>dny</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-lnd92252-022-p2s8w3">
 <src.rf>manual</src.rf>
@@ -1073,7 +1073,7 @@
 <LM>w#w-lnd92252-022-p2s8w13</LM>
 </w.rf>
 <form>správná</form>
-<tag lemma="správný_^(podle_něj._měřítek;_př._chlap,_míra,...)" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="správný" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-lnd92252-022-p2s8w14">
 <src.rf>manual</src.rf>
@@ -1113,7 +1113,7 @@
 <LM>w#w-lnd92252-022-p2s8w18</LM>
 </w.rf>
 <form>daný</form>
-<tag lemma="daný_^(*3át)" src="auto" selected="1">AAIS1----1A----</tag>
+<tag lemma="daný-1_^(*5át-1)" src="auto" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-lnd92252-022-p2s8w19">
 <src.rf>manual</src.rf>
@@ -1302,7 +1302,7 @@
 <LM>w#w-lnd92252-022-p2s9w10</LM>
 </w.rf>
 <form>nemoc</form>
-<tag lemma="nemoc_^(choroba)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="nemoc" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92252-022-p2s9w11">
 <src.rf>manual</src.rf>
@@ -1358,7 +1358,7 @@
 <LM>w#w-lnd92252-022-p2s9w17</LM>
 </w.rf>
 <form>daném</form>
-<tag lemma="daný_^(*3át)" src="auto" selected="1">AANS6----1A----</tag>
+<tag lemma="daný-1_^(*5át-1)" src="auto" selected="1">AANS6----1A----</tag>
 </m>
 <m id="m-lnd92252-022-p2s9w18">
 <src.rf>manual</src.rf>

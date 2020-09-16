@@ -51,7 +51,7 @@
 </w.rf>
 <form>Hall</form>
 <tag>
-<AM lemma="Hall_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Hall-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="hall_,t" src="auto">NNIS1-----A----</AM>
 <AM lemma="hall_,t" src="auto">NNIS4-----A----</AM>
 </tag>

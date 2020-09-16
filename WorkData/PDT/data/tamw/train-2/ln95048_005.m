@@ -22,7 +22,7 @@
 <tag>
 <AM lemma="Dow-1_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="Dow-77" src="manual">F%-------------</AM>
-<AM lemma="Dow-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Dow_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-005-p1s1w2">
@@ -92,7 +92,7 @@
 <LM>w#w-ln95048-005-p2s1Aw2</LM>
 </w.rf>
 <form>York</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="York-2_;G_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95048-005-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -217,7 +217,7 @@
 <tag>
 <AM lemma="Dow-1_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="Dow-77" src="manual">F%-------------</AM>
-<AM lemma="Dow-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Dow_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-005-p2s1Bw15">
@@ -594,7 +594,7 @@
 <LM>w#w-ln95048-005-p2s3w4</LM>
 </w.rf>
 <form>dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95048-005-p2s3w5">
 <src.rf>manual</src.rf>
@@ -642,7 +642,7 @@
 <LM>w#w-ln95048-005-p2s3w10</LM>
 </w.rf>
 <form>nadšeného</form>
-<tag lemma="nadšený_^(*4chnout)" src="orig" selected="1">AAIS2----1A----</tag>
+<tag lemma="nadšený" src="orig" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-ln95048-005-p2s3w11">
 <src.rf>manual</src.rf>
@@ -724,7 +724,7 @@
 <LM>w#w-ln95048-005-p3s1w3</LM>
 </w.rf>
 <form>optimismus</form>
-<tag lemma="optimismus" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="optimismus_,s_^(^DD**optimizmus)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95048-005-p3s1w4">
 <src.rf>manual</src.rf>

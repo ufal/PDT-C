@@ -469,7 +469,7 @@
 <form>Athos</form>
 <tag>
 <AM lemma="Athos_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Athos-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Athos-2_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-129-p2s3w26">
@@ -667,7 +667,7 @@
 <LM>w#w-mf930701-129-p2s5w9</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XP1FS3-------</tag>
 </m>
 <m id="m-mf930701-129-p2s5w10">
 <src.rf>manual</src.rf>
@@ -691,7 +691,7 @@
 <LM>w#w-mf930701-129-p2s5w12</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-mf930701-129-p2s5w13">
 <src.rf>manual</src.rf>

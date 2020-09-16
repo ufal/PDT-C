@@ -213,7 +213,7 @@
 <AM lemma="druhý" src="auto">CrNP4---------6</AM>
 <AM lemma="druhý" src="auto">CrNP5---------6</AM>
 <AM lemma="druhý" src="auto">CrNS1----------</AM>
-<AM lemma="druhý" src="auto" recommended="1">CrNS4----------</AM>
+<AM lemma="druhý`2" src="auto" recommended="1">CrNS4----------</AM>
 <AM lemma="druhý" src="auto">CrNS5----------</AM>
 </tag>
 </m>
@@ -495,7 +495,7 @@
 </w.rf>
 <form>orgán</form>
 <tag>
-<AM lemma="orgán" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="orgán-1" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="orgán" src="auto">NNIS4-----A----</AM>
 <AM lemma="orgán" src="auto">NNMS1-----A----</AM>
 </tag>
@@ -633,7 +633,7 @@
 <AM lemma="první" src="auto">CrNP4----------</AM>
 <AM lemma="první" src="auto">CrNP5----------</AM>
 <AM lemma="první" src="auto">CrNS1----------</AM>
-<AM lemma="první" src="auto" recommended="1">CrNS4----------</AM>
+<AM lemma="první-1" src="auto" recommended="1">CrNS4----------</AM>
 <AM lemma="první" src="auto">CrNS5----------</AM>
 </tag>
 </m>

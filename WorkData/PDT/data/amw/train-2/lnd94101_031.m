@@ -133,7 +133,7 @@
 <LM>w#w-lnd94101-031-p1s2w7</LM>
 </w.rf>
 <form>přijetí</form>
-<tag lemma="přijetí_^(*3mout)" src="auto" selected="1">NNNS2-----A----</tag>
+<tag lemma="přijetí_^(*1)_(*3mout)" src="auto" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-lnd94101-031-p1s2w8">
 <src.rf>manual</src.rf>

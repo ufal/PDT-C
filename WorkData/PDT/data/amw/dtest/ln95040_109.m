@@ -275,7 +275,7 @@
 <LM>w#w-ln95040-109-p2s2w4</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-109-p2s2w5">
 <src.rf>manual</src.rf>
@@ -368,7 +368,7 @@
 <LM>w#w-ln95040-109-p2s3w5</LM>
 </w.rf>
 <form>Rudé</form>
-<tag lemma="rudý" src="orig" selected="1">AANS1----1A----</tag>
+<tag lemma="rudý_;o" src="orig" selected="1">AANS1----1A----</tag>
 </m>
 <m id="m-ln95040-109-p2s3w6">
 <src.rf>manual</src.rf>
@@ -376,7 +376,7 @@
 <LM>w#w-ln95040-109-p2s3w6</LM>
 </w.rf>
 <form>právo</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95040-109-p2s3w7">
 <src.rf>manual</src.rf>

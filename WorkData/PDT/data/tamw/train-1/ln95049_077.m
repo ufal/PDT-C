@@ -197,7 +197,7 @@
 <LM>w#w-ln95049-077-p2s1Cw5</LM>
 </w.rf>
 <form>činitelé</form>
-<tag lemma="činitel" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="činitel-1" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln95049-077-p2s1Cw6">
 <src.rf>manual</src.rf>
@@ -486,7 +486,7 @@
 <LM>w#w-ln95049-077-p2s3w9</LM>
 </w.rf>
 <form>stojí</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95049-077-p2s3w10">
 <src.rf>manual</src.rf>
@@ -594,7 +594,7 @@
 <AM lemma="Sun-2_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="Sun_;m" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Sun_;m" src="auto">NNIS4-----A----</AM>
-<AM lemma="Sun_;Y" src="auto" selected="1">NNMS1-----A----</AM>
+<AM lemma="Sun-1_;Y" src="auto" selected="1">NNMS1-----A----</AM>
 <AM lemma="sun" src="auto">NNIS1-----A----</AM>
 <AM lemma="sun" src="auto">NNIS4-----A----</AM>
 <AM lemma="sunna_,t_,x_^(ústní_podání_Mohamedových_činů)" src="auto">NNFP2-----A----</AM>
@@ -1811,7 +1811,7 @@
 <LM>w#w-ln95049-077-p5s1w37</LM>
 </w.rf>
 <form>vyhlášení</form>
-<tag lemma="vyhlášení_,a_^(*4sit)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="vyhlášení_^(*2t)_(*4sit)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln95049-077-p5s1w38">
 <src.rf>manual</src.rf>
@@ -1843,7 +1843,7 @@
 <LM>w#w-ln95049-077-p5s1w41</LM>
 </w.rf>
 <form>zpřísněného</form>
-<tag lemma="zpřísněný_^(*3it)" src="orig" selected="1">AANS2----1A----</tag>
+<tag lemma="zpřísněný_^(*2t)_(*3it)" src="orig" selected="1">AANS2----1A----</tag>
 </m>
 <m id="m-ln95049-077-p5s1w42">
 <src.rf>manual</src.rf>
@@ -2323,7 +2323,7 @@
 <LM>w#w-ln95049-077-p5s1w101</LM>
 </w.rf>
 <form>zpřísněných</form>
-<tag lemma="zpřísněný_^(*3it)" src="orig" selected="1">AANP2----1A----</tag>
+<tag lemma="zpřísněný_^(*2t)_(*3it)" src="orig" selected="1">AANP2----1A----</tag>
 </m>
 <m id="m-ln95049-077-p5s1w102">
 <src.rf>manual</src.rf>
@@ -2435,7 +2435,7 @@
 <LM>w#w-ln95049-077-p5s1w115</LM>
 </w.rf>
 <form>zpřísnění</form>
-<tag lemma="zpřísnění_^(*3it)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="zpřísnění_^(*2t)_(*3it)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln95049-077-p5s1w116">
 <src.rf>manual</src.rf>
@@ -2595,7 +2595,7 @@
 <LM>w#w-ln95049-077-p5s1w135</LM>
 </w.rf>
 <form>zastavení</form>
-<tag lemma="zastavení-1_^([také_z._se];_uvést_do_klidu:_auto,...)_(*5it-1)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="zastavení_^(*3it)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln95049-077-p5s1w136">
 <src.rf>manual</src.rf>
@@ -2739,7 +2739,7 @@
 <LM>w#w-ln95049-077-p5s1w153</LM>
 </w.rf>
 <form>černého</form>
-<tag lemma="černý" src="auto" selected="1">AANS2----1A----</tag>
+<tag lemma="černý_;o" src="auto" selected="1">AANS2----1A----</tag>
 </m>
 <m id="m-ln95049-077-p5s1w154">
 <src.rf>manual</src.rf>
@@ -3177,7 +3177,7 @@
 <LM>w#w-ln95049-077-p6s1w13</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95049-077-p6s1w14">
 <src.rf>manual</src.rf>

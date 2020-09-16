@@ -46,7 +46,7 @@
 <LM>w#w-ln94210-83-p1s1w4</LM>
 </w.rf>
 <form>třídní</form>
-<tag lemma="třídní" src="orig" selected="1">AAMP4----1A----</tag>
+<tag lemma="třídní-1" src="orig" selected="1">AAMP4----1A----</tag>
 </m>
 <m id="m-ln94210-83-p1s1w5">
 <src.rf>manual</src.rf>
@@ -136,7 +136,7 @@
 <LM>w#w-ln94210-83-p2s1Bw6</LM>
 </w.rf>
 <form>činitele</form>
-<tag lemma="činitel" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="činitel-1" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-ln94210-83-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -184,7 +184,7 @@
 <LM>w#w-ln94210-83-p2s1Bw12</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-ln94210-83-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -248,7 +248,7 @@
 <LM>w#w-ln94210-83-p2s1Bw20</LM>
 </w.rf>
 <form>třídních</form>
-<tag lemma="třídní" src="orig" selected="1">AAMP2----1A----</tag>
+<tag lemma="třídní-1" src="orig" selected="1">AAMP2----1A----</tag>
 </m>
 <m id="m-ln94210-83-p2s1Bw21">
 <src.rf>manual</src.rf>
@@ -822,7 +822,7 @@
 <LM>w#w-ln94210-83-p2s6w1</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrMS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrMS1----------</tag>
 </m>
 <m id="m-ln94210-83-p2s6w2">
 <src.rf>manual</src.rf>

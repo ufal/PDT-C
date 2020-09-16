@@ -173,7 +173,7 @@
 <LM>w#w-mf930713-103-p2s2Bw4</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930713-103-p2s2Bw5">
 <src.rf>manual</src.rf>
@@ -683,7 +683,7 @@
 <LM>w#w-mf930713-103-p2s14w6</LM>
 </w.rf>
 <form>nejlepším</form>
-<tag lemma="dobrý" src="orig" selected="1">AAMP3----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAMP3----3A----</tag>
 </m>
 <m id="m-mf930713-103-p2s14w7">
 <src.rf>manual</src.rf>
@@ -691,7 +691,7 @@
 <LM>w#w-mf930713-103-p2s14w7</LM>
 </w.rf>
 <form>jezdcům</form>
-<tag lemma="jezdec" src="orig" selected="1">NNMP3-----A----</tag>
+<tag lemma="jezdec-1" src="orig" selected="1">NNMP3-----A----</tag>
 </m>
 <m id="m-mf930713-103-p2s14w8">
 <src.rf>manual</src.rf>
@@ -713,7 +713,7 @@
 <AM lemma="peleton_,h" src="auto">NNIS3-----A----</AM>
 <AM lemma="peleton_,h" src="auto">NNIS6-----A---1</AM>
 <AM lemma="peleton" src="auto">NNIS6-----A----</AM>
-<AM lemma="peleton_,i_^(^DS**peloton)" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="peleton" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-103-p2s14w10">
@@ -901,7 +901,7 @@
 <LM>w#w-mf930713-103-p2s14w32</LM>
 </w.rf>
 <form>našim</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP3-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP3-P1-------</tag>
 </m>
 <m id="m-mf930713-103-p2s14w33">
 <src.rf>manual</src.rf>
@@ -909,7 +909,7 @@
 <LM>w#w-mf930713-103-p2s14w33</LM>
 </w.rf>
 <form>nejlepším</form>
-<tag lemma="dobrý" src="orig" selected="1">AAMP3----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAMP3----3A----</tag>
 </m>
 <m id="m-mf930713-103-p2s14w34">
 <src.rf>manual</src.rf>
@@ -1240,7 +1240,7 @@
 <LM>w#w-mf930713-103-p2s17w6</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS3-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS3-----A----</tag>
 </m>
 <m id="m-mf930713-103-p2s17w7">
 <src.rf>manual</src.rf>
@@ -1411,7 +1411,7 @@
 <LM>w#w-mf930713-103-p2s18w16</LM>
 </w.rf>
 <form>nejlepších</form>
-<tag lemma="dobrý" src="orig" selected="1">AAFP2----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAFP2----3A----</tag>
 </m>
 <m id="m-mf930713-103-p2s18w17">
 <src.rf>manual</src.rf>

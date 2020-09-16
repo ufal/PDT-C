@@ -43,7 +43,7 @@
 <LM>w#w-mf930701-138-p1s1w4</LM>
 </w.rf>
 <form>Glavunionu</form>
-<tag lemma="Glavunion" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Glavunion_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 </s>
 <s id="m-mf930701-138-p2s1">
@@ -129,7 +129,7 @@
 <LM>w#w-mf930701-138-p2s1w10</LM>
 </w.rf>
 <form>Glavunion</form>
-<tag lemma="Glavunion" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Glavunion_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930701-138-p2s1w11">
 <src.rf>manual</src.rf>
@@ -217,7 +217,7 @@
 <LM>w#w-mf930701-138-p2s1w21</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-mf930701-138-p2s1w22">
 <src.rf>manual</src.rf>
@@ -249,7 +249,7 @@
 <LM>w#w-mf930701-138-p2s1w25</LM>
 </w.rf>
 <form>Evropě</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf930701-138-p2s1w26">
 <src.rf>manual</src.rf>
@@ -520,7 +520,7 @@
 <LM>w#w-mf930701-138-p2s3w1</LM>
 </w.rf>
 <form>Glavunion</form>
-<tag lemma="Glavunion" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Glavunion_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930701-138-p2s3w2">
 <src.rf>manual</src.rf>

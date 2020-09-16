@@ -59,7 +59,7 @@
 <LM>w#w-mf930709-042-p1s1w6</LM>
 </w.rf>
 <form>Stock</form>
-<tag lemma="Stock_;m" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Stock-2_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 </s>
 <s id="m-mf930709-042-p2s1A">
@@ -242,7 +242,7 @@
 <LM>w#w-mf930709-042-p2s1Bw20</LM>
 </w.rf>
 <form>Stock</form>
-<tag lemma="Stock_;m" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Stock-2_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930709-042-p2s1Bw21">
 <src.rf>manual</src.rf>
@@ -346,7 +346,7 @@
 <LM>w#w-mf930709-042-p2s1Bw33</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS1FS3-------</tag>
 </m>
 <m id="m-mf930709-042-p2s1Bw34">
 <src.rf>manual</src.rf>

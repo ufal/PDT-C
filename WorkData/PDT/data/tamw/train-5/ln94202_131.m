@@ -69,7 +69,7 @@
 <LM>w#w-ln94202-131-p1s1w7</LM>
 </w.rf>
 <form>zostřeným</form>
-<tag lemma="zostřený_^(*2t)" src="auto" selected="1">AAIS7----1A----</tag>
+<tag lemma="zostřený_^(*2t)_(*3it)" src="auto" selected="1">AAIS7----1A----</tag>
 </m>
 <m id="m-ln94202-131-p1s1w8">
 <src.rf>manual</src.rf>
@@ -841,7 +841,7 @@
 <LM>w#w-ln94202-131-p4s1w7</LM>
 </w.rf>
 <form>zpřísnění</form>
-<tag lemma="zpřísnění_^(*3it)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="zpřísnění_^(*2t)_(*3it)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94202-131-p4s1w8">
 <src.rf>manual</src.rf>
@@ -1181,7 +1181,7 @@
 <LM>w#w-ln94202-131-p4s3w10</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP6-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP6-P1-------</tag>
 </m>
 <m id="m-ln94202-131-p4s3w11">
 <src.rf>manual</src.rf>
@@ -1715,7 +1715,7 @@
 <LM>w#w-ln94202-131-p5s3w12</LM>
 </w.rf>
 <form>oranžovým</form>
-<tag lemma="oranžový" src="orig" selected="1">AAFP3----1A----</tag>
+<tag lemma="oranžový_;o" src="orig" selected="1">AAFP3----1A----</tag>
 </m>
 <m id="m-ln94202-131-p5s3w13">
 <src.rf>manual</src.rf>

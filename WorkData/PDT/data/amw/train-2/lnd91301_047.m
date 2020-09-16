@@ -428,7 +428,7 @@
 <LM>w#w-lnd91301-047-p3s3w2</LM>
 </w.rf>
 <form>druhém</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-lnd91301-047-p3s3w3">
 <src.rf>manual</src.rf>

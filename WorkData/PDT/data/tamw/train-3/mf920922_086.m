@@ -305,7 +305,7 @@
 <LM>w#w-mf920922-086-p2s3w9</LM>
 </w.rf>
 <form>Blinková</form>
-<tag lemma="Blinková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Blinková-1_;Y_^(*5a-1)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920922-086-p2s3w10">
 <src.rf>manual</src.rf>
@@ -627,7 +627,7 @@
 <LM>w#w-mf920922-086-p2s5w17</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-mf920922-086-p2s5w18">
 <src.rf>manual</src.rf>
@@ -933,7 +933,7 @@
 <LM>w#w-mf920922-086-p2s6w25</LM>
 </w.rf>
 <form>Karlových</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUIP2M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUIP2M---------</tag>
 </m>
 <m id="m-mf920922-086-p2s6w26">
 <src.rf>manual</src.rf>

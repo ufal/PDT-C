@@ -407,7 +407,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -711,7 +711,7 @@
 <form>Henning</form>
 <tag>
 <AM lemma="Henning_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Henning_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Henning-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-148-p3s2w10">
@@ -861,7 +861,7 @@
 <LM>w#w-ln95048-148-p4s1w11</LM>
 </w.rf>
 <form>politiky</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95048-148-p4s1w12">
 <src.rf>manual</src.rf>

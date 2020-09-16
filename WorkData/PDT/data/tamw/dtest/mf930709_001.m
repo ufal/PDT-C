@@ -318,7 +318,7 @@
 <LM>w#w-mf930709-001-p3s2w2</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf930709-001-p3s2w3">
 <src.rf>manual</src.rf>
@@ -350,7 +350,7 @@
 <LM>w#w-mf930709-001-p3s2w6</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-001-p3s2w7">
 <src.rf>manual</src.rf>
@@ -560,7 +560,7 @@
 <LM>w#w-mf930709-001-p3s3w7</LM>
 </w.rf>
 <form>orgánem</form>
-<tag lemma="orgán" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-mf930709-001-p3s3w8">
 <src.rf>manual</src.rf>
@@ -576,7 +576,7 @@
 <LM>w#w-mf930709-001-p3s3w9</LM>
 </w.rf>
 <form>ústavnosti</form>
-<tag lemma="ústavnost_,a_^(adjektivum_k_ústava;;ustavičný)_(*3ý)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="ústavnost" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930709-001-p3s3w10">
 <src.rf>manual</src.rf>
@@ -754,7 +754,7 @@
 <LM>w#w-mf930709-001-p3s4w12</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-mf930709-001-p3s4w13">
 <src.rf>manual</src.rf>
@@ -1066,7 +1066,7 @@
 <LM>w#w-mf930709-001-p4s1w8</LM>
 </w.rf>
 <form>členů</form>
-<tag lemma="člen" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf930709-001-p4s1w9">
 <src.rf>manual</src.rf>
@@ -1432,7 +1432,7 @@
 <LM>w#w-mf930709-001-p4s1w51</LM>
 </w.rf>
 <form>práva</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-mf930709-001-p4s1w52">
 <src.rf>manual</src.rf>

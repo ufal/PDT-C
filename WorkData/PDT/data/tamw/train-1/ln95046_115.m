@@ -44,7 +44,7 @@
 </w.rf>
 <form>Fantu</form>
 <tag>
-<AM lemma="Fanta-2_;m" src="orig" selected="1">NNFS4-----A----</AM>
+<AM lemma="Fanta-1_;m" src="orig" selected="1">NNFS4-----A----</AM>
 <AM lemma="Fanta_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
 <AM lemma="fant" src="auto">NNIS2-----A----</AM>
 <AM lemma="fant" src="auto">NNIS3-----A----</AM>
@@ -250,7 +250,7 @@
 </w.rf>
 <form>Fanty</form>
 <tag>
-<AM lemma="Fanta-2_;m" src="orig" selected="1">NNFS2-----A----</AM>
+<AM lemma="Fanta-1_;m" src="orig" selected="1">NNFS2-----A----</AM>
 <AM lemma="Fanta_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Fanta_;Y" src="auto">NNMP7-----A----</AM>
 <AM lemma="Fanta_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
@@ -346,7 +346,7 @@
 </w.rf>
 <form>Fanty</form>
 <tag>
-<AM lemma="Fanta-2_;m" src="orig" selected="1">NNFS2-----A----</AM>
+<AM lemma="Fanta-1_;m" src="orig" selected="1">NNFS2-----A----</AM>
 <AM lemma="Fanta_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Fanta_;Y" src="auto">NNMP7-----A----</AM>
 <AM lemma="Fanta_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
@@ -562,7 +562,7 @@
 </w.rf>
 <form>Fanta</form>
 <tag>
-<AM lemma="Fanta-2_;m" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="Fanta-1_;m" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="Fanta_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -939,7 +939,7 @@
 <LM>w#w-ln95046-115-p3s5w18</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-ln95046-115-p3s5w19">
 <src.rf>manual</src.rf>
@@ -987,7 +987,7 @@
 <LM>w#w-ln95046-115-p3s5w24</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-ln95046-115-p3s5w25">
 <src.rf>manual</src.rf>

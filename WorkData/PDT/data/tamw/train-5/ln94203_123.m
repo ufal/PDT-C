@@ -236,7 +236,7 @@
 <LM>w#w-ln94203-123-p3s6w1</LM>
 </w.rf>
 <form>Žluté</form>
-<tag lemma="žlutý" src="orig" selected="1">AAFP1----1A----</tag>
+<tag lemma="žlutý_;o" src="orig" selected="1">AAFP1----1A----</tag>
 </m>
 <m id="m-ln94203-123-p3s6w2">
 <src.rf>manual</src.rf>
@@ -367,7 +367,7 @@
 <LM>w#w-ln94203-123-p3s6w17</LM>
 </w.rf>
 <form>Příbram</form>
-<tag lemma="Příbram_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Příbram-2_;G" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94203-123-p3s6w18">
 <src.rf>manual</src.rf>
@@ -449,7 +449,7 @@
 <LM>w#w-ln94203-123-p3s7w6</LM>
 </w.rf>
 <form>Vinopal</form>
-<tag lemma="Vinopal_;m" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Vinopal-2_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94203-123-p3s7w7">
 <src.rf>manual</src.rf>

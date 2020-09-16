@@ -45,7 +45,7 @@
 <form>Luzernu</form>
 <tag>
 <AM lemma="Lucern_;G" src="orig">NNIS6-----A----</AM>
-<AM lemma="Luzern_;G" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="Luzern_;G_,s_^(^DD**Lucern)" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 </s>
@@ -303,7 +303,7 @@
 <form>Luzernu</form>
 <tag>
 <AM lemma="Lucern_;G" src="orig">NNIS6-----A----</AM>
-<AM lemma="Luzern_;G" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="Luzern_;G_,s_^(^DD**Lucern)" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-108-p2s1w32">
@@ -1039,7 +1039,7 @@
 <LM>w#w-mf930708-108-p3s3w8</LM>
 </w.rf>
 <form>nadšení</form>
-<tag lemma="nadšení_^(*4chnout)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="nadšení" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-mf930708-108-p3s3w9">
 <src.rf>manual</src.rf>

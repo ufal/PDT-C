@@ -109,7 +109,7 @@
 <LM>w#w-mf930709-078-p2s1Bw3</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrMS7----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrMS7----------</tag>
 </m>
 <m id="m-mf930709-078-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -335,7 +335,7 @@
 <LM>w#w-mf930709-078-p2s2w6</LM>
 </w.rf>
 <form>lepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAMS1----2A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAMS1----2A----</tag>
 </m>
 <m id="m-mf930709-078-p2s2w7">
 <src.rf>manual</src.rf>
@@ -375,7 +375,7 @@
 <LM>w#w-mf930709-078-p2s2w11</LM>
 </w.rf>
 <form>druhém</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS6----------</tag>
 </m>
 <m id="m-mf930709-078-p2s2w12">
 <src.rf>manual</src.rf>
@@ -466,7 +466,7 @@
 <LM>w#w-mf930709-078-p2s2w22</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS3---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS3---------1</tag>
 </m>
 <m id="m-mf930709-078-p2s2w23">
 <src.rf>manual</src.rf>
@@ -540,7 +540,7 @@
 <LM>w#w-mf930709-078-p2s3w7</LM>
 </w.rf>
 <form>rada</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930709-078-p2s3w8">
 <src.rf>manual</src.rf>
@@ -548,7 +548,7 @@
 <LM>w#w-mf930709-078-p2s3w8</LM>
 </w.rf>
 <form>předáním</form>
-<tag lemma="předání-3_^(někomu_něco)_(*5at-3)" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="předání_^(*3at)" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-mf930709-078-p2s3w9">
 <src.rf>manual</src.rf>
@@ -612,7 +612,7 @@
 <LM>w#w-mf930709-078-p2s3w16</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-mf930709-078-p2s3w17">
 <src.rf>manual</src.rf>
@@ -798,7 +798,7 @@
 <LM>w#w-mf930709-078-p2s5w20</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-mf930709-078-p2s5w21">
 <src.rf>manual</src.rf>
@@ -1515,7 +1515,7 @@
 <LM>w#w-mf930709-078-p3s1w60</LM>
 </w.rf>
 <form>Lásková</form>
-<tag lemma="Lásková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Lásková-1_;Y_^(*5a-1)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930709-078-p3s1w61">
 <src.rf>manual</src.rf>

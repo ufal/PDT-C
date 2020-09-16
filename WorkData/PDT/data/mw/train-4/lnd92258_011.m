@@ -316,7 +316,7 @@
 <LM>w#w-lnd92258-011-p3s2w25</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92258-011-p3s2w26">
 <src.rf>manual</src.rf>
@@ -518,7 +518,7 @@
 <LM>w#w-lnd92258-011-p4s1w3</LM>
 </w.rf>
 <form>mne</form>
-<tag lemma="já_^(2./4.pád)" src="orig" selected="1">PP-S4--1-------</tag>
+<tag lemma="já" src="orig" selected="1">PP-S4--1-------</tag>
 </m>
 <m id="m-lnd92258-011-p4s1w4">
 <src.rf>manual</src.rf>
@@ -1540,7 +1540,7 @@
 <LM>w#w-lnd92258-011-p4s7w26</LM>
 </w.rf>
 <form>anonymy</form>
-<tag lemma="anonym" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="anonym-2" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-lnd92258-011-p4s7w27">
 <src.rf>manual</src.rf>
@@ -1808,7 +1808,7 @@
 <LM>w#w-lnd92258-011-p5s1w13</LM>
 </w.rf>
 <form>dni</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS3-----A---1</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS3-----A---1</tag>
 </m>
 <m id="m-lnd92258-011-p5s1w14">
 <src.rf>manual</src.rf>

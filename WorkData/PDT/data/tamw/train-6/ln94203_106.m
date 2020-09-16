@@ -71,7 +71,7 @@
 <LM>w#w-ln94203-106-p2s1Bw3</LM>
 </w.rf>
 <form>nejlepších</form>
-<tag lemma="dobrý" src="orig" selected="1">AAMP2----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAMP2----3A----</tag>
 </m>
 <m id="m-ln94203-106-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -97,7 +97,7 @@
 <form>Mario</form>
 <tag>
 <AM lemma="Mario_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mario_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Mario_;Y_,s_^(^DD**Mário)" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-106-p2s1Bw7">

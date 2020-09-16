@@ -721,7 +721,7 @@
 <LM>w#w-ln95046-060-p2s4w6</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-060-p2s4w7">
 <src.rf>manual</src.rf>

@@ -125,7 +125,7 @@
 <LM>w#w-lnd94103-141-p1s1w14</LM>
 </w.rf>
 <form>Davida</form>
-<tag lemma="David_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="David-1_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94103-141-p1s1w15">
 <src.rf>manual</src.rf>
@@ -248,7 +248,7 @@
 <LM>w#w-lnd94103-141-p1s1w29</LM>
 </w.rf>
 <form>druhého</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS2----------</tag>
 </m>
 <m id="m-lnd94103-141-p1s1w30">
 <src.rf>manual</src.rf>
@@ -325,7 +325,7 @@
 <form>Cupu</form>
 <tag>
 <AM lemma="Cup-1_;m_,t_^(pohár,_soutěž;_v_názvech)" src="auto">NNIS2-----A----</AM>
-<AM lemma="Cup-1_;m_^(pohár,_soutěž;_v_názvech)" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="cup-1_^(pohár)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-141-p1s1w39">
@@ -821,7 +821,7 @@
 <form>Wimbledonu</form>
 <tag>
 <AM lemma="Wimbledon-2_^(tenis._turnaj)" src="orig">NNIS6-----A----</AM>
-<AM lemma="Wimbledon-2_^(tenis._turnaj)" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="Wimbledon" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-141-p1s4w21">
@@ -896,7 +896,7 @@
 <LM>w#w-lnd94103-141-p1s5Aw8</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrMS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrMS1----------</tag>
 </m>
 <m id="m-lnd94103-141-p1s5Aw9">
 <src.rf>manual</src.rf>
@@ -938,7 +938,7 @@
 <LM>w#w-lnd94103-141-p1s5Bw2</LM>
 </w.rf>
 <form>Svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-lnd94103-141-p1s5Bw3">
 <src.rf>manual</src.rf>
@@ -1018,7 +1018,7 @@
 <LM>w#w-lnd94103-141-p1s5Bw12</LM>
 </w.rf>
 <form>prvních</form>
-<tag lemma="první" src="orig" selected="1">CrNP6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNP6----------</tag>
 </m>
 <m id="m-lnd94103-141-p1s5Bw13">
 <src.rf>manual</src.rf>
@@ -1381,7 +1381,7 @@
 <LM>w#w-lnd94103-141-p1s7Bw3</LM>
 </w.rf>
 <form>vás</form>
-<tag lemma="ty" src="orig" selected="1">PP-P4--2-------</tag>
+<tag lemma="vy" src="orig" selected="1">PP-P4--2-------</tag>
 </m>
 <m id="m-lnd94103-141-p1s7Bw4">
 <src.rf>manual</src.rf>
@@ -1792,7 +1792,7 @@
 <LM>w#w-lnd94103-141-p1s9Aw18</LM>
 </w.rf>
 <form>umí</form>
-<tag lemma="umět_^(mít_schopnost_něco_dělat)" src="auto" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="umět" src="auto" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd94103-141-p1s9Aw19">
 <src.rf>manual</src.rf>
@@ -1858,7 +1858,7 @@
 <LM>w#w-lnd94103-141-p1s9Bw7</LM>
 </w.rf>
 <form>apetit</form>
-<tag lemma="apetýt" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="apetit" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-lnd94103-141-p1s9Bw8">
 <src.rf>manual</src.rf>

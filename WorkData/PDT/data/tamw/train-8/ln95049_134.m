@@ -135,7 +135,7 @@
 <LM>w#w-ln95049-134-p2s1Bw3</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln95049-134-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -431,7 +431,7 @@
 <LM>w#w-ln95049-134-p2s1Bw40</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95049-134-p2s1Bw41">
 <src.rf>manual</src.rf>
@@ -777,7 +777,7 @@
 <LM>w#w-ln95049-134-p2s3w21</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-ln95049-134-p2s3w22">
 <src.rf>manual</src.rf>
@@ -1886,7 +1886,7 @@
 <form>hodně</form>
 <tag>
 <AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="hodně_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-134-p2s13w4">

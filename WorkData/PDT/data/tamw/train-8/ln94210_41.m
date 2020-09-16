@@ -37,7 +37,7 @@
 <form>Svatavě</form>
 <tag>
 <AM lemma="Svatava_;Y" src="orig">NNFS6-----A----</AM>
-<AM lemma="Svatava-2_;G" src="manual" selected="1">NNFS6-----A----</AM>
+<AM lemma="Svatava_;G_;Y" src="manual" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-41-p1s1w4">
@@ -138,7 +138,7 @@
 <LM>w#w-ln94210-41-p2s1Bw6</LM>
 </w.rf>
 <form>dny</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-ln94210-41-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -203,7 +203,7 @@
 <form>Svatavě</form>
 <tag>
 <AM lemma="Svatava_;Y" src="orig">NNFS6-----A----</AM>
-<AM lemma="Svatava-2_;G" src="manual" selected="1">NNFS6-----A----</AM>
+<AM lemma="Svatava_;G_;Y" src="manual" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-41-p2s1Bw14">
@@ -926,7 +926,7 @@
 <form>Svatavy</form>
 <tag>
 <AM lemma="Svatava_;Y" src="orig">NNFS2-----A----</AM>
-<AM lemma="Svatava-2_;G" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="Svatava_;G_;Y" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-41-p2s5w11">

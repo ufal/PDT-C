@@ -257,7 +257,7 @@
 <LM>w#w-ln94203-16-p2s2w7</LM>
 </w.rf>
 <form>co</form>
-<tag lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="co-5_^(př._co_nejméně,_co_nevidět_atd.)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94203-16-p2s2w8">
 <src.rf>manual</src.rf>
@@ -337,7 +337,7 @@
 <LM>w#w-ln94203-16-p2s2w17</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS1FS3-------</tag>
 </m>
 <m id="m-ln94203-16-p2s2w18">
 <src.rf>manual</src.rf>
@@ -387,7 +387,7 @@
 <LM>w#w-ln94203-16-p2s3w4</LM>
 </w.rf>
 <form>mluvčího</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94203-16-p2s3w5">
 <src.rf>manual</src.rf>
@@ -797,7 +797,7 @@
 <LM>w#w-ln94203-16-p3s1Bw2</LM>
 </w.rf>
 <form>spolucestující</form>
-<tag lemma="spolucestující-2" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="spolucestující-3" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-ln94203-16-p3s1Bw3">
 <src.rf>manual</src.rf>

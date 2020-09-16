@@ -83,7 +83,7 @@
 <LM>w#w-lnd94104-001-p1s1w9</LM>
 </w.rf>
 <form>mých</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP6-S1-------</tag>
+<tag lemma="můj" src="orig" selected="1">PSXP6-S1-------</tag>
 </m>
 <m id="m-lnd94104-001-p1s1w10">
 <src.rf>manual</src.rf>

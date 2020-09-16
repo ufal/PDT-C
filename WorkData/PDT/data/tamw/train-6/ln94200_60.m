@@ -232,7 +232,7 @@
 <LM>w#w-ln94200-60-p2s1Bw12</LM>
 </w.rf>
 <form>lety</form>
-<tag lemma="rok" src="orig" selected="1">NNNP7-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP7-----A----</tag>
 </m>
 <m id="m-ln94200-60-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -654,7 +654,7 @@
 <LM>w#w-ln94200-60-p3s1w18</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94200-60-p3s1w19">
 <src.rf>manual</src.rf>
@@ -2815,7 +2815,7 @@
 <LM>w#w-ln94200-60-p5s7w11</LM>
 </w.rf>
 <form>delší</form>
-<tag lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">AAIS1----2A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAIS1----2A----</tag>
 </m>
 <m id="m-ln94200-60-p5s7w12">
 <src.rf>manual</src.rf>

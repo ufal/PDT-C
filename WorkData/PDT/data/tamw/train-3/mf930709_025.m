@@ -1163,7 +1163,7 @@
 <LM>w#w-mf930709-025-p4s2w15</LM>
 </w.rf>
 <form>druhého</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS2----------</tag>
 </m>
 <m id="m-mf930709-025-p4s2w16">
 <src.rf>manual</src.rf>

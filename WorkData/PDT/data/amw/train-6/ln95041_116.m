@@ -105,7 +105,7 @@
 <form>kotovaná</form>
 <tag>
 <AM lemma="kótovaný_^(*2t)" src="orig">AAFS1----1A----</AM>
-<AM lemma="kotovaný_^(*2t)" src="auto" recommended="1" selected="1">AAFS1----1A----</AM>
+<AM lemma="kotovaný_^(^DD**kótovaný)_(*2t)" src="auto" recommended="1" selected="1">AAFS1----1A----</AM>
 <AM lemma="kotovaný_^(*2t)" src="auto">AAFS5----1A----</AM>
 <AM lemma="kotovaný_^(*2t)" src="auto">AANP1----1A----</AM>
 <AM lemma="kotovaný_^(*2t)" src="auto">AANP4----1A----</AM>
@@ -209,7 +209,7 @@
 <LM>w#w-ln95041-116-p2s1Bw17</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-ln95041-116-p2s1Bw18">
 <src.rf>manual</src.rf>

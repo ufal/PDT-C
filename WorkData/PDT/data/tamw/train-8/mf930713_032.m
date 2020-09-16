@@ -40,7 +40,7 @@
 <tag>
 <AM lemma="Mexiko_;G_,t_,x" src="auto">NNNS1-----A----</AM>
 <AM lemma="México_;G_,s_^(^DD**Mexiko)" src="manual">NNNS1-----A----</AM>
-<AM lemma="México_;G_,s_^(^DD**Mexiko)" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="México_;G_,h_^(^GC**Mexiko)" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-032-p2s1Aw2">
@@ -216,7 +216,7 @@
 <LM>w#w-mf930713-032-p2s2w2</LM>
 </w.rf>
 <form>dal</form>
-<tag lemma="dát" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930713-032-p2s2w3">
 <src.rf>manual</src.rf>
@@ -240,7 +240,7 @@
 <LM>w#w-mf930713-032-p2s2w5</LM>
 </w.rf>
 <form>Zlatého</form>
-<tag lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAIS2----1A----</tag>
+<tag lemma="zlatý-1_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-mf930713-032-p2s2w6">
 <src.rf>manual</src.rf>

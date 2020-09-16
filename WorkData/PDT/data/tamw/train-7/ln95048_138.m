@@ -533,7 +533,7 @@
 <LM>w#w-ln95048-138-p2s3w12</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-ln95048-138-p2s3w13">
 <src.rf>manual</src.rf>
@@ -1086,7 +1086,7 @@
 <LM>w#w-ln95048-138-p2s7w9</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS7---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS7---------1</tag>
 </m>
 <m id="m-ln95048-138-p2s7w10">
 <src.rf>manual</src.rf>

@@ -183,7 +183,7 @@
 <LM>w#w-ln94204-14-p2s1w11</LM>
 </w.rf>
 <form>prostředky</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-ln94204-14-p2s1w12">
 <src.rf>manual</src.rf>
@@ -588,7 +588,7 @@
 <LM>w#w-ln94204-14-p3s1w26</LM>
 </w.rf>
 <form>Yorku</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="York-2_;G_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94204-14-p3s1w27">
 <src.rf>manual</src.rf>
@@ -1717,7 +1717,7 @@
 <LM>w#w-ln94204-14-p8s1w4</LM>
 </w.rf>
 <form>prvních</form>
-<tag lemma="první" src="orig" selected="1">CrFP2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFP2----------</tag>
 </m>
 <m id="m-ln94204-14-p8s1w5">
 <src.rf>manual</src.rf>
@@ -1784,7 +1784,7 @@
 <LM>w#w-ln94204-14-p8s1w12</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9NS4FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9NS4FS3-------</tag>
 </m>
 <m id="m-ln94204-14-p8s1w13">
 <src.rf>manual</src.rf>

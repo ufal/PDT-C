@@ -64,7 +64,7 @@
 <LM>w#w-lnd92256-003-p2s1w1</LM>
 </w.rf>
 <form>Bothovo</form>
-<tag lemma="Bothův_;Y_^(*2a)" src="auto" selected="1">AUNS1M---------</tag>
+<tag lemma="Bothův_;Y_^(*2)_(*2a)_(*2o)" src="auto" selected="1">AUNS1M---------</tag>
 </m>
 <m id="m-lnd92256-003-p2s1w2">
 <src.rf>manual</src.rf>
@@ -378,7 +378,7 @@
 <LM>w#w-lnd92256-003-p3s3w12</LM>
 </w.rf>
 <form>tajný</form>
-<tag lemma="tajný" src="orig" selected="1">AAIS4----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AAIS4----1A----</tag>
 </m>
 <m id="m-lnd92256-003-p3s3w13">
 <src.rf>manual</src.rf>
@@ -456,7 +456,7 @@
 <LM>w#w-lnd92256-003-p3s3w21</LM>
 </w.rf>
 <form>Santose</form>
-<tag lemma="Santos_;Y" src="auto" selected="1">NNMS4-----A----</tag>
+<tag lemma="Santos-1_;Y" src="auto" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd92256-003-p3s3w22">
 <src.rf>manual</src.rf>
@@ -496,7 +496,7 @@
 <LM>w#w-lnd92256-003-p3s3w26</LM>
 </w.rf>
 <form>hnutí</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNS3-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNS3-----A----</tag>
 </m>
 <m id="m-lnd92256-003-p3s3w27">
 <src.rf>manual</src.rf>

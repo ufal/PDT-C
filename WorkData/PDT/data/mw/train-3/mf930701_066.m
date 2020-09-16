@@ -118,7 +118,7 @@
 <LM>w#w-mf930701-066-p1s1w11</LM>
 </w.rf>
 <form>nejlepším</form>
-<tag lemma="dobrý" src="orig" selected="1">AANP3----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AANP3----3A----</tag>
 </m>
 </s>
 </mdata>

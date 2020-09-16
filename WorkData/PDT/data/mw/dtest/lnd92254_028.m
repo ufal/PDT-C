@@ -682,7 +682,7 @@
 <LM>w#w-lnd92254-028-p3s1w1</LM>
 </w.rf>
 <form>Přijetí</form>
-<tag lemma="přijetí_^(*3mout)" src="auto" selected="1">NNNS4-----A----</tag>
+<tag lemma="přijetí_^(*1)_(*3mout)" src="auto" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-lnd92254-028-p3s1w2">
 <src.rf>manual</src.rf>
@@ -762,7 +762,7 @@
 <LM>w#w-lnd92254-028-p3s1w11</LM>
 </w.rf>
 <form>členy</form>
-<tag lemma="člen" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-lnd92254-028-p3s1w12">
 <src.rf>manual</src.rf>

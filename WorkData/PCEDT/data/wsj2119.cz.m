@@ -424,7 +424,7 @@
 <AM lemma="navržený_^(*4hnout)" src="auto">AAIP4----1A---6</AM>
 <AM lemma="navržený_^(*4hnout)" src="auto">AAIP5----1A---6</AM>
 <AM lemma="navržený_^(*4hnout)" src="auto" recommended="1">AAIS1----1A----</AM>
-<AM lemma="navržený_^(*4hnout)" src="auto" selected="1">AAIS4----1A----</AM>
+<AM lemma="navržený" src="auto" selected="1">AAIS4----1A----</AM>
 <AM lemma="navržený_^(*4hnout)" src="auto">AAIS5----1A----</AM>
 <AM lemma="navržený_^(*4hnout)" src="auto">AAMP1----1A---6</AM>
 <AM lemma="navržený_^(*4hnout)" src="auto">AAMP4----1A---6</AM>

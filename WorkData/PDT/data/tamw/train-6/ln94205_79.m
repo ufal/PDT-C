@@ -177,7 +177,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -270,7 +270,7 @@
 <LM>w#w-ln94205-79-p2s1Bw23</LM>
 </w.rf>
 <form>lety</form>
-<tag lemma="rok" src="orig" selected="1">NNNP7-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP7-----A----</tag>
 </m>
 <m id="m-ln94205-79-p2s1Bw24">
 <src.rf>manual</src.rf>
@@ -744,7 +744,7 @@
 <LM>w#w-ln94205-79-p2s4w10</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-ln94205-79-p2s4w11">
 <src.rf>manual</src.rf>
@@ -1034,7 +1034,7 @@
 <LM>w#w-ln94205-79-p2s5w14</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-ln94205-79-p2s5w15">
 <src.rf>manual</src.rf>
@@ -1417,7 +1417,7 @@
 <LM>w#w-ln94205-79-p3s4w6</LM>
 </w.rf>
 <form>členů</form>
-<tag lemma="člen" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94205-79-p3s4w7">
 <src.rf>manual</src.rf>
@@ -1497,7 +1497,7 @@
 <LM>w#w-ln94205-79-p3s5w8</LM>
 </w.rf>
 <form>členů</form>
-<tag lemma="člen" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94205-79-p3s5w9">
 <src.rf>manual</src.rf>
@@ -1709,7 +1709,7 @@
 <LM>w#w-ln94205-79-p4s2w8</LM>
 </w.rf>
 <form>setmění</form>
-<tag lemma="setmění_^(*3ít)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="setmění_^(*2t)_(*3ít)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln94205-79-p4s2w9">
 <src.rf>manual</src.rf>
@@ -2037,7 +2037,7 @@
 <LM>w#w-ln94205-79-p5s2w18</LM>
 </w.rf>
 <form>Yorku</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="York-2_;G_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln94205-79-p5s2w19">
 <src.rf>manual</src.rf>

@@ -130,7 +130,7 @@
 <LM>w#w-mf930713-022-p3s1w1</LM>
 </w.rf>
 <form>Newport</form>
-<tag lemma="Newport_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Newport_;G_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930713-022-p3s1w2">
 <src.rf>manual</src.rf>

@@ -467,7 +467,7 @@
 <LM>w#w-mf920902-102-p2s4w10</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf920902-102-p2s4w11">
 <src.rf>manual</src.rf>
@@ -749,7 +749,7 @@
 <LM>w#w-mf920902-102-p2s5w7</LM>
 </w.rf>
 <form>naší</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS2-P1-------</tag>
 </m>
 <m id="m-mf920902-102-p2s5w8">
 <src.rf>manual</src.rf>

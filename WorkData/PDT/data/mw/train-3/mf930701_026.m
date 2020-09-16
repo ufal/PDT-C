@@ -777,7 +777,7 @@
 <LM>w#w-mf930701-026-p2s6w15</LM>
 </w.rf>
 <form>jejího</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS2FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS2FS3-------</tag>
 </m>
 <m id="m-mf930701-026-p2s6w16">
 <src.rf>manual</src.rf>
@@ -785,7 +785,7 @@
 <LM>w#w-mf930701-026-p2s6w16</LM>
 </w.rf>
 <form>člena</form>
-<tag lemma="člen" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930701-026-p2s6w17">
 <src.rf>manual</src.rf>

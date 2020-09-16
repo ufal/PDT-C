@@ -348,7 +348,7 @@
 <LM>w#w-ln94203-35-p2s2w15</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-ln94203-35-p2s2w16">
 <src.rf>manual</src.rf>
@@ -696,7 +696,7 @@
 <LM>w#w-ln94203-35-p4s1w6</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94203-35-p4s1w7">
 <src.rf>manual</src.rf>
@@ -913,7 +913,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94203-35-p4s4w4">
@@ -1038,7 +1038,7 @@
 <LM>w#w-ln94203-35-p4s6w9</LM>
 </w.rf>
 <form>Ceauseskova</form>
-<tag lemma="Ceauseskův_;Y_^(*6šescu)" src="orig" selected="1">AUIS2M---------</tag>
+<tag lemma="Ceauseskův_;Y_^(^DD**Ceaušeskův)_(*3cu)" src="orig" selected="1">AUIS2M---------</tag>
 </m>
 <m id="m-ln94203-35-p4s6w10">
 <src.rf>manual</src.rf>
@@ -1125,7 +1125,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94203-35-p4s8w3">
@@ -1585,7 +1585,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94203-35-p4s12w4">
@@ -1729,7 +1729,7 @@
 <LM>w#w-ln94203-35-p4s14w3</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-ln94203-35-p4s14w4">
 <src.rf>manual</src.rf>
@@ -1785,7 +1785,7 @@
 <LM>w#w-ln94203-35-p4s14w10</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-ln94203-35-p4s14w11">
 <src.rf>manual</src.rf>
@@ -1841,7 +1841,7 @@
 <LM>w#w-ln94203-35-p4s14w17</LM>
 </w.rf>
 <form>moc</form>
-<tag lemma="moc-3_^(velmi,_ve_spojení_s_adj.,_př._moc_hezká)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="moc-3_^(moc_hezká,_moc_peněz)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94203-35-p4s14w18">
 <src.rf>manual</src.rf>
@@ -1963,7 +1963,7 @@
 <LM>w#w-ln94203-35-p4s15w6</LM>
 </w.rf>
 <form>cesty</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-ln94203-35-p4s15w7">
 <src.rf>manual</src.rf>
@@ -2165,7 +2165,7 @@
 <LM>w#w-ln94203-35-p4s16w11</LM>
 </w.rf>
 <form>Slováci</form>
-<tag lemma="Slovák_;E" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="Slovák_;E_;Y" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln94203-35-p4s16w12">
 <src.rf>manual</src.rf>
@@ -2508,7 +2508,7 @@
 <LM>w#w-ln94203-35-p5s1w15</LM>
 </w.rf>
 <form>masové</form>
-<tag lemma="masový-2_^(velký)" src="orig" selected="1">AAFS6----1A----</tag>
+<tag lemma="masový" src="orig" selected="1">AAFS6----1A----</tag>
 </m>
 <m id="m-ln94203-35-p5s1w16">
 <src.rf>manual</src.rf>
@@ -2614,7 +2614,7 @@
 <LM>w#w-ln94203-35-p5s2w10</LM>
 </w.rf>
 <form>kořeny</form>
-<tag lemma="kořen" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="kořen-1" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-ln94203-35-p5s2w11">
 <src.rf>manual</src.rf>
@@ -3122,7 +3122,7 @@
 <LM>w#w-ln94203-35-p6s2w2</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-ln94203-35-p6s2w3">
 <src.rf>manual</src.rf>

@@ -350,7 +350,7 @@
 <LM>w#w-ln94208-35-p2s3w13</LM>
 </w.rf>
 <form>lety</form>
-<tag lemma="rok" src="orig" selected="1">NNNP7-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP7-----A----</tag>
 </m>
 <m id="m-ln94208-35-p2s3w14">
 <src.rf>manual</src.rf>
@@ -496,7 +496,7 @@
 <LM>w#w-ln94208-35-p2s4w1</LM>
 </w.rf>
 <form>Orgány</form>
-<tag lemma="orgán" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-ln94208-35-p2s4w2">
 <src.rf>manual</src.rf>
@@ -755,7 +755,7 @@
 <LM>w#w-ln94208-35-p2s4w33</LM>
 </w.rf>
 <form>ukradených</form>
-<tag lemma="ukradený_^(*5ást)" src="auto" selected="1">AAIP2----1A----</tag>
+<tag lemma="ukradený" src="auto" selected="1">AAIP2----1A----</tag>
 </m>
 <m id="m-ln94208-35-p2s4w34">
 <src.rf>manual</src.rf>
@@ -779,7 +779,7 @@
 <LM>w#w-ln94208-35-p2s4w36</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln94208-35-p2s4w37">
 <src.rf>manual</src.rf>

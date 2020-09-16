@@ -446,7 +446,7 @@
 <LM>w#w-mf930709-005-p2s3w10</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930709-005-p2s3w11">
 <src.rf>manual</src.rf>
@@ -853,7 +853,7 @@
 <LM>w#w-mf930709-005-p2s5w13</LM>
 </w.rf>
 <form>nedotknutelnosti</form>
-<tag lemma="dotknutelnost_^(fyz._i_abstr.,_př._drátů,_práv,_citů)_(*3ý)" src="auto" selected="1">NNFS2-----N----</tag>
+<tag lemma="dotknutelnost_^(*3ý)" src="auto" selected="1">NNFS2-----N----</tag>
 </m>
 <m id="m-mf930709-005-p2s5w14">
 <src.rf>manual</src.rf>
@@ -943,7 +943,7 @@
 <LM>w#w-mf930709-005-p2s6w7</LM>
 </w.rf>
 <form>zveřejnění</form>
-<tag lemma="zveřejnění_^(*3it)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="zveřejnění_^(*2t)_(*3it)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf930709-005-p2s6w8">
 <src.rf>manual</src.rf>
@@ -1037,7 +1037,7 @@
 <LM>w#w-mf930709-005-p2s6w15</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-mf930709-005-p2s6w16">
 <src.rf>manual</src.rf>

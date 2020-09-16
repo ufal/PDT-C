@@ -51,7 +51,7 @@
 <LM>w#w-ln94210-4-p1s1w5</LM>
 </w.rf>
 <form>černé</form>
-<tag lemma="černý" src="auto" selected="1">AAFP4----1A----</tag>
+<tag lemma="černý_;o" src="auto" selected="1">AAFP4----1A----</tag>
 </m>
 <m id="m-ln94210-4-p1s1w6">
 <src.rf>manual</src.rf>
@@ -653,7 +653,7 @@
 <LM>w#w-ln94210-4-p3s3w7</LM>
 </w.rf>
 <form>černá</form>
-<tag lemma="černý" src="auto" selected="1">AAFS1----1A----</tag>
+<tag lemma="černý_;o" src="auto" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-ln94210-4-p3s3w8">
 <src.rf>manual</src.rf>

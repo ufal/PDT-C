@@ -387,7 +387,7 @@
 <LM>w#w-ln95047-086-p2s3w9</LM>
 </w.rf>
 <form>činitele</form>
-<tag lemma="činitel" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="činitel-1" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95047-086-p2s3w10">
 <src.rf>manual</src.rf>
@@ -533,7 +533,7 @@
 <LM>w#w-ln95047-086-p3s1w3</LM>
 </w.rf>
 <form>soudkyně</form>
-<tag lemma="soudkyně_^(člověk,_který_soudí)_(*4ce)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="soudkyně_^(*4ce)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95047-086-p3s1w4">
 <src.rf>manual</src.rf>
@@ -557,7 +557,7 @@
 <LM>w#w-ln95047-086-p3s1w6</LM>
 </w.rf>
 <form>zastupitelky</form>
-<tag lemma="zastupitelka_,a_^(*2)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="zastupitelka_^(*2)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95047-086-p3s1w7">
 <src.rf>manual</src.rf>
@@ -629,7 +629,7 @@
 <LM>w#w-ln95047-086-p3s1w15</LM>
 </w.rf>
 <form>vězení</form>
-<tag lemma="vězení_,a_^(místo_výkonu_trestu)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="vězení_^(místo_výkonu_trestu)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln95047-086-p3s1w16">
 <src.rf>manual</src.rf>
@@ -751,7 +751,7 @@
 <LM>w#w-ln95047-086-p3s2w1</LM>
 </w.rf>
 <form>Náš</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSYS1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSYS1-P1-------</tag>
 </m>
 <m id="m-ln95047-086-p3s2w2">
 <src.rf>manual</src.rf>
@@ -956,7 +956,7 @@
 <LM>w#w-ln95047-086-p3s3w17</LM>
 </w.rf>
 <form>práva</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln95047-086-p3s3w18">
 <src.rf>manual</src.rf>
@@ -1160,7 +1160,7 @@
 <LM>w#w-ln95047-086-p4s1Bw11</LM>
 </w.rf>
 <form>soudkyně</form>
-<tag lemma="soudkyně_^(člověk,_který_soudí)_(*4ce)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="soudkyně_^(*4ce)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95047-086-p4s1Bw12">
 <src.rf>manual</src.rf>
@@ -1208,7 +1208,7 @@
 <LM>w#w-ln95047-086-p4s1Bw17</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS7----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS7----------</tag>
 </m>
 <m id="m-ln95047-086-p4s1Bw18">
 <src.rf>manual</src.rf>
@@ -1328,7 +1328,7 @@
 <LM>w#w-ln95047-086-p4s1Bw32</LM>
 </w.rf>
 <form>činitele</form>
-<tag lemma="činitel" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="činitel-1" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95047-086-p4s1Bw33">
 <src.rf>manual</src.rf>
@@ -1336,7 +1336,7 @@
 <LM>w#w-ln95047-086-p4s1Bw33</LM>
 </w.rf>
 <form>nedá</form>
-<tag lemma="dát" src="orig" selected="1">VB-S---3P-NAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VB-S---3P-NAP--</tag>
 </m>
 <m id="m-ln95047-086-p4s1Bw34">
 <src.rf>manual</src.rf>
@@ -1527,7 +1527,7 @@
 <LM>w#w-ln95047-086-p4s3w16</LM>
 </w.rf>
 <form>odpovědnost</form>
-<tag lemma="odpovědnost_^(kdo_za_něco_odpovídá)_(*3ý)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="odpovědnost_^(*3ý)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95047-086-p4s3w17">
 <src.rf>manual</src.rf>
@@ -1753,7 +1753,7 @@
 <LM>w#w-ln95047-086-p4s4w11</LM>
 </w.rf>
 <form>spravedlnosti</form>
-<tag lemma="spravedlnost_^(*3ý)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="spravedlnost-1_^(*5ý-1)" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95047-086-p4s4w12">
 <src.rf>manual</src.rf>
@@ -1819,7 +1819,7 @@
 <LM>w#w-ln95047-086-p4s5w5</LM>
 </w.rf>
 <form>odpovědnost</form>
-<tag lemma="odpovědnost_^(kdo_za_něco_odpovídá)_(*3ý)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="odpovědnost_^(*3ý)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95047-086-p4s5w6">
 <src.rf>manual</src.rf>
@@ -2210,7 +2210,7 @@
 <LM>w#w-ln95047-086-p5s2w31</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln95047-086-p5s2w32">
 <src.rf>manual</src.rf>

@@ -313,7 +313,7 @@
 <LM>w#w-ln94201-68-p2s3w3</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-ln94201-68-p2s3w4">
 <src.rf>manual</src.rf>

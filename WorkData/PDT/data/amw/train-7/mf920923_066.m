@@ -381,7 +381,7 @@
 <LM>w#w-mf920923-066-p2s4w6</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-mf920923-066-p2s4w7">
 <src.rf>manual</src.rf>
@@ -389,7 +389,7 @@
 <LM>w#w-mf920923-066-p2s4w7</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-mf920923-066-p2s4w8">
 <src.rf>manual</src.rf>

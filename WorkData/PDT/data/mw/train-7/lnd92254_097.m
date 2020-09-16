@@ -1585,7 +1585,7 @@
 <LM>w#w-lnd92254-097-p6s1w8</LM>
 </w.rf>
 <form>Považská</form>
-<tag lemma="Považský_;G" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="považský" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-lnd92254-097-p6s1w9">
 <src.rf>manual</src.rf>

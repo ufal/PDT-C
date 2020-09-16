@@ -87,7 +87,7 @@
 <LM>w#w-cmpr9415-027-p4s1w6</LM>
 </w.rf>
 <form>hnědého</form>
-<tag lemma="hnědý" src="orig" selected="1">AANS2----1A----</tag>
+<tag lemma="hnědý_;o" src="orig" selected="1">AANS2----1A----</tag>
 </m>
 <m id="m-cmpr9415-027-p4s1w7">
 <src.rf>manual</src.rf>
@@ -391,7 +391,7 @@
 <LM>w#w-cmpr9415-027-p4s3w18</LM>
 </w.rf>
 <form>Chemopetrolu</form>
-<tag lemma="Chemopetrol" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Chemopetrol_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-cmpr9415-027-p4s3w19">
 <src.rf>manual</src.rf>
@@ -835,7 +835,7 @@
 <LM>w#w-cmpr9415-027-p4s5w19</LM>
 </w.rf>
 <form>jejího</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS2FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS2FS3-------</tag>
 </m>
 <m id="m-cmpr9415-027-p4s5w20">
 <src.rf>manual</src.rf>
@@ -1083,7 +1083,7 @@
 <LM>w#w-cmpr9415-027-p6s1w12</LM>
 </w.rf>
 <form>Hardtmuth</form>
-<tag lemma="Hardtmuth_;m" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Hardtmuth-1_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-027-p6s1w13">
 <src.rf>manual</src.rf>
@@ -1784,7 +1784,7 @@
 <LM>w#w-cmpr9415-027-p8s1w8</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-cmpr9415-027-p8s1w9">
 <src.rf>manual</src.rf>
@@ -1824,7 +1824,7 @@
 <LM>w#w-cmpr9415-027-p8s1w13</LM>
 </w.rf>
 <form>Českého</form>
-<tag lemma="Český-1_;G_^(používá_se_i_pro_jména_org.,_výrobků_atd.)" src="orig" selected="1">AAIS2----1A----</tag>
+<tag lemma="český" src="orig" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-cmpr9415-027-p8s1w14">
 <src.rf>manual</src.rf>
@@ -2029,7 +2029,7 @@
 <LM>w#w-cmpr9415-027-p8s3w2</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrIS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS6----------</tag>
 </m>
 <m id="m-cmpr9415-027-p8s3w3">
 <src.rf>manual</src.rf>

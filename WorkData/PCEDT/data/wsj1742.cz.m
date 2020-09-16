@@ -115,7 +115,7 @@
 <AM lemma="York-2_;G" src="auto">NNIS2-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS5-----A----</AM>
-<AM lemma="York-2_;G" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="York-2_;G_;m" src="auto" recommended="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1742-001-p1s0W10-Ta">
@@ -222,7 +222,7 @@
 <AM lemma="jeho_^(přivlast.)" src="auto">PSIS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSNS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP1FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XP4FS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9XP4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP5FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSZS1FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSZS5FS3-------</AM>
@@ -531,7 +531,7 @@
 <tag>
 <AM lemma="Scottův_;Y_^(*2)" src="auto" recommended="1">AUFS1M---------</AM>
 <AM lemma="Scottův_;Y_^(*2)" src="auto">AUFS5M---------</AM>
-<AM lemma="Scottův_;Y_^(*2)" src="auto" selected="1">AUIS2M---------</AM>
+<AM lemma="Scottův-1_;Y_^(*4-1)" src="auto" selected="1">AUIS2M---------</AM>
 <AM lemma="Scottův_;Y_^(*2)" src="auto">AUMS2M---------</AM>
 <AM lemma="Scottův_;Y_^(*2)" src="auto">AUMS4M---------</AM>
 <AM lemma="Scottův_;Y_^(*2)" src="auto">AUNP1M---------</AM>

@@ -315,7 +315,7 @@
 <LM>w#w-lnd94105-040-p1s3w24</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-040-p1s3w25">
 <src.rf>manual</src.rf>
@@ -739,7 +739,7 @@
 <LM>w#w-lnd94105-040-p1s5w18</LM>
 </w.rf>
 <form>co</form>
-<tag lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="co-5_^(př._co_nejméně,_co_nevidět_atd.)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd94105-040-p1s5w19">
 <src.rf>manual</src.rf>
@@ -822,7 +822,7 @@
 <LM>w#w-lnd94105-040-p1s5w28</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-040-p1s5w29">
 <src.rf>manual</src.rf>

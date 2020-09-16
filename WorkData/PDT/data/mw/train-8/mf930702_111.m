@@ -418,7 +418,7 @@
 <LM>w#w-mf930702-111-p2s2w5</LM>
 </w.rf>
 <form>mluvčího</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf930702-111-p2s2w6">
 <src.rf>manual</src.rf>

@@ -1198,7 +1198,7 @@
 <LM>w#w-ln94201-92-p4s2w14</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94201-92-p4s2w15">
 <src.rf>manual</src.rf>
@@ -1376,7 +1376,7 @@
 <LM>w#w-ln94201-92-p5s1w8</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94201-92-p5s1w9">
 <src.rf>manual</src.rf>
@@ -1424,7 +1424,7 @@
 <LM>w#w-ln94201-92-p5s1w14</LM>
 </w.rf>
 <form>potřeba</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94201-92-p5s1w15">
 <src.rf>manual</src.rf>
@@ -1451,7 +1451,7 @@
 <LM>w#w-ln94201-92-p5s1w17</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln94201-92-p5s1w18">
 <src.rf>manual</src.rf>
@@ -1619,7 +1619,7 @@
 <LM>w#w-ln94201-92-p5s2w15</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln94201-92-p5s2w16">
 <src.rf>manual</src.rf>
@@ -1873,7 +1873,7 @@
 <LM>w#w-ln94201-92-p6s2w13</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94201-92-p6s2w14">
 <src.rf>manual</src.rf>
@@ -2208,7 +2208,7 @@
 <LM>w#w-ln94201-92-p6s4w11</LM>
 </w.rf>
 <form>členy</form>
-<tag lemma="člen" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-ln94201-92-p6s4w12">
 <src.rf>manual</src.rf>
@@ -2426,7 +2426,7 @@
 <LM>w#w-ln94201-92-p7s1w18</LM>
 </w.rf>
 <form>dalo</form>
-<tag lemma="dát" src="orig" selected="1">VpNS----R-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln94201-92-p7s1w19">
 <src.rf>manual</src.rf>

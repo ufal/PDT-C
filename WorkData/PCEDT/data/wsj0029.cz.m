@@ -721,7 +721,7 @@
 <AM lemma="David_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="David_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="David_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="David_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="David-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0029-001-p1s1W21-Ta">
@@ -761,7 +761,7 @@
 <AM lemma="Maxwell_;m" src="auto">NNIS1-----A----</AM>
 <AM lemma="Maxwell_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="Maxwell_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Maxwell-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Maxwell-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0029-001-p1s1W24-Ta">
@@ -1943,7 +1943,7 @@
 <AM lemma="druhý" src="auto">CrIP1---------6</AM>
 <AM lemma="druhý" src="auto">CrIP4---------6</AM>
 <AM lemma="druhý" src="auto">CrIP5---------6</AM>
-<AM lemma="druhý" src="auto" recommended="1">CrIS1----------</AM>
+<AM lemma="druhý`2" src="auto" recommended="1">CrIS1----------</AM>
 <AM lemma="druhý" src="auto">CrIS4----------</AM>
 <AM lemma="druhý" src="auto">CrIS5----------</AM>
 <AM lemma="druhý" src="auto">CrMP1---------6</AM>
@@ -2590,7 +2590,7 @@
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS1---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS4---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS5---------1</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8YP4---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8YP4---------1</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOFP-----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOIP-----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AONS-----------</AM>
@@ -2709,7 +2709,7 @@
 <form>měsíční</form>
 <tag>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AAFP1----1A----</AM>
-<AM lemma="měsíční_^(lhůta;svit)" src="auto" recommended="1">AAFP4----1A----</AM>
+<AM lemma="měsíční" src="auto" recommended="1">AAFP4----1A----</AM>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AAFP5----1A----</AM>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AAFS1----1A----</AM>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AAFS2----1A----</AM>
@@ -3102,7 +3102,7 @@
 <AM lemma="Maxwell_;m" src="auto">NNIS1-----A----</AM>
 <AM lemma="Maxwell_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="Maxwell_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Maxwell-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Maxwell-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0029-001-p1s10W14-Ta">
@@ -3856,7 +3856,7 @@
 <tag>
 <AM lemma="první" src="auto">CrFP2----------</AM>
 <AM lemma="první" src="auto">CrFP6----------</AM>
-<AM lemma="první" src="auto" recommended="1">CrIP2----------</AM>
+<AM lemma="první-1" src="auto" recommended="1">CrIP2----------</AM>
 <AM lemma="první" src="auto">CrIP6----------</AM>
 <AM lemma="první" src="auto">CrMP2----------</AM>
 <AM lemma="první" src="auto">CrMP6----------</AM>

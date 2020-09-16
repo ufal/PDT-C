@@ -27,7 +27,7 @@
 <LM>w#w-vesm9211-046-p1s1w2</LM>
 </w.rf>
 <form>supertoxiny</form>
-<tag lemma="supertoxin_;U" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="supertoxin" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-vesm9211-046-p1s1w3">
 <src.rf>manual</src.rf>
@@ -380,7 +380,7 @@
 <LM>w#w-vesm9211-046-p2s3w15</LM>
 </w.rf>
 <form>botulotoxin</form>
-<tag lemma="botulotoxin_;U" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="botulotoxin" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-vesm9211-046-p2s3w16">
 <src.rf>manual</src.rf>
@@ -574,7 +574,7 @@
 <LM>w#w-vesm9211-046-p3s1w6</LM>
 </w.rf>
 <form>dystonie</form>
-<tag lemma="dystonie_;U" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="dystonie" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-vesm9211-046-p3s1w7">
 <src.rf>manual</src.rf>
@@ -744,7 +744,7 @@
 <LM>w#w-vesm9211-046-p3s2w8</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-vesm9211-046-p3s2w9">
 <src.rf>manual</src.rf>
@@ -784,7 +784,7 @@
 <LM>w#w-vesm9211-046-p3s2w13</LM>
 </w.rf>
 <form>blefarospasmus</form>
-<tag lemma="blefarospasmus_;U" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="blefarospasmus_,s_^(^DD**blefarospazmus)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-vesm9211-046-p3s2w14">
 <src.rf>manual</src.rf>
@@ -848,7 +848,7 @@
 <LM>w#w-vesm9211-046-p3s2w21</LM>
 </w.rf>
 <form>postižené</form>
-<tag lemma="postižený_^(*4hnout)" src="orig" selected="1">AAMP4----1A----</tag>
+<tag lemma="postižený" src="orig" selected="1">AAMP4----1A----</tag>
 </m>
 <m id="m-vesm9211-046-p3s2w22">
 <src.rf>manual</src.rf>
@@ -1156,7 +1156,7 @@
 <LM>w#w-vesm9211-046-p3s4w4</LM>
 </w.rf>
 <form>podávání</form>
-<tag lemma="podávání_^(něco_[někomu]_[někam])_(*3at)" src="auto" selected="1">NNNS1-----A----</tag>
+<tag lemma="podávání_^(*3at)" src="auto" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-vesm9211-046-p3s4w5">
 <src.rf>manual</src.rf>
@@ -1293,7 +1293,7 @@
 <LM>w#w-vesm9211-046-p3s4w21</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-vesm9211-046-p3s4w22">
 <src.rf>manual</src.rf>
@@ -1394,7 +1394,7 @@
 <LM>w#w-vesm9211-046-p4s1w1</LM>
 </w.rf>
 <form>Nejlepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAIS4----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAIS4----3A----</tag>
 </m>
 <m id="m-vesm9211-046-p4s1w2">
 <src.rf>manual</src.rf>
@@ -1458,7 +1458,7 @@
 <LM>w#w-vesm9211-046-p4s1w9</LM>
 </w.rf>
 <form>podávání</form>
-<tag lemma="podávání_^(něco_[někomu]_[někam])_(*3at)" src="auto" selected="1">NNNS1-----A----</tag>
+<tag lemma="podávání_^(*3at)" src="auto" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-vesm9211-046-p4s1w10">
 <src.rf>manual</src.rf>
@@ -1490,7 +1490,7 @@
 <LM>w#w-vesm9211-046-p4s1w13</LM>
 </w.rf>
 <form>botulotoxinu</form>
-<tag lemma="botulotoxin_;U" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="botulotoxin" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-vesm9211-046-p4s1w14">
 <src.rf>manual</src.rf>
@@ -1514,7 +1514,7 @@
 <LM>w#w-vesm9211-046-p4s1w16</LM>
 </w.rf>
 <form>postižených</form>
-<tag lemma="postižený_^(*4hnout)" src="orig" selected="1">AAIP2----1A----</tag>
+<tag lemma="postižený" src="orig" selected="1">AAIP2----1A----</tag>
 </m>
 <m id="m-vesm9211-046-p4s1w17">
 <src.rf>manual</src.rf>

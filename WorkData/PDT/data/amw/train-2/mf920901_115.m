@@ -167,7 +167,7 @@
 <LM>w#w-mf920901-115-p2s2w6</LM>
 </w.rf>
 <form>správní</form>
-<tag lemma="správní_^(např._poplatek;_rada;_řád;...)" src="orig" selected="1">AANS4----1A----</tag>
+<tag lemma="správní_^(správní_rada;_řád)" src="orig" selected="1">AANS4----1A----</tag>
 </m>
 <m id="m-mf920901-115-p2s2w7">
 <src.rf>manual</src.rf>
@@ -363,7 +363,7 @@
 <LM>w#w-mf920901-115-p2s4w6</LM>
 </w.rf>
 <form>letoun</form>
-<tag lemma="letoun" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="letoun-1" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-mf920901-115-p2s4w7">
 <src.rf>manual</src.rf>
@@ -469,7 +469,7 @@
 <LM>w#w-mf920901-115-p2s5w11</LM>
 </w.rf>
 <form>raněných</form>
-<tag lemma="raněný_^(poranit)_(*3it)" src="orig" selected="1">AAMP2----1A----</tag>
+<tag lemma="raněný_^(*3it)" src="orig" selected="1">AAMP2----1A----</tag>
 </m>
 <m id="m-mf920901-115-p2s5w12">
 <src.rf>manual</src.rf>
@@ -567,7 +567,7 @@
 <LM>w#w-mf920901-115-p3s1w8</LM>
 </w.rf>
 <form>zastavení</form>
-<tag lemma="zastavení-1_^([také_z._se];_uvést_do_klidu:_auto,...)_(*5it-1)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="zastavení_^(*3it)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf920901-115-p3s1w9">
 <src.rf>manual</src.rf>
@@ -649,7 +649,7 @@
 <form>Alma</form>
 <tag>
 <AM lemma="Alma_;G_^(Alma-Ata)" src="auto">NNFXX-----A----</AM>
-<AM lemma="Alma-2_^(Alma-Ata)" src="manual" selected="1">S2--------A----</AM>
+<AM lemma="Alma-2" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-115-p3s1w19">

@@ -159,7 +159,7 @@
 <LM>w#w-cmpr9415-024-p5s2w2</LM>
 </w.rf>
 <form>členem</form>
-<tag lemma="člen" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-cmpr9415-024-p5s2w3">
 <src.rf>manual</src.rf>
@@ -167,7 +167,7 @@
 <LM>w#w-cmpr9415-024-p5s2w3</LM>
 </w.rf>
 <form>orgánů</form>
-<tag lemma="orgán" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-cmpr9415-024-p5s2w4">
 <src.rf>manual</src.rf>
@@ -968,7 +968,7 @@
 <LM>w#w-cmpr9415-024-p7s1w2</LM>
 </w.rf>
 <form>potřeby</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-cmpr9415-024-p7s1w3">
 <src.rf>manual</src.rf>

@@ -229,7 +229,7 @@
 </w.rf>
 <form>svou</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8FS4---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8FS4---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS7---------1</AM>
 </tag>
 </m>
@@ -708,7 +708,7 @@
 <AM lemma="první" src="auto">CrFP3----------</AM>
 <AM lemma="první" src="auto">CrIP3----------</AM>
 <AM lemma="první" src="auto">CrIS6----------</AM>
-<AM lemma="první" src="auto" recommended="1">CrIS7----------</AM>
+<AM lemma="první-1" src="auto" recommended="1">CrIS7----------</AM>
 <AM lemma="první" src="auto">CrMP3----------</AM>
 <AM lemma="první" src="auto">CrMS6----------</AM>
 <AM lemma="první" src="auto">CrMS7----------</AM>
@@ -1229,7 +1229,7 @@
 <AM lemma="vážící_^(např._provazem;_se_k_čemu)_(*3it)_(*4zat)" src="auto">AGIP1-----A----</AM>
 <AM lemma="vážící_^(např._provazem;_se_k_čemu)_(*3it)_(*4zat)" src="auto">AGIP4-----A----</AM>
 <AM lemma="vážící_^(např._provazem;_se_k_čemu)_(*3it)_(*4zat)" src="auto">AGIP5-----A----</AM>
-<AM lemma="vážící_^(např._provazem;_se_k_čemu)_(*3it)_(*4zat)" src="auto" recommended="1">AGIS1-----A----</AM>
+<AM lemma="vážící_^(*3it)" src="auto" recommended="1">AGIS1-----A----</AM>
 <AM lemma="vážící_^(např._provazem;_se_k_čemu)_(*3it)_(*4zat)" src="auto">AGIS4-----A----</AM>
 <AM lemma="vážící_^(např._provazem;_se_k_čemu)_(*3it)_(*4zat)" src="auto">AGIS5-----A----</AM>
 <AM lemma="vážící_^(např._provazem;_se_k_čemu)_(*3it)_(*4zat)" src="auto">AGMP1-----A----</AM>
@@ -1482,7 +1482,7 @@
 </w.rf>
 <form>svou</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8FS4---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8FS4---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS7---------1</AM>
 </tag>
 </m>

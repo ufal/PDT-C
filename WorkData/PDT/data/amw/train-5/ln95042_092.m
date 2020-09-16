@@ -203,7 +203,7 @@
 <form>jenom</form>
 <tag>
 <AM lemma="jenom-1" src="auto">TT-------------</AM>
-<AM lemma="jenom--2_^(pouze)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="jenom-2_^(pouze)" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln95042-092-p2s2w8">
@@ -499,7 +499,7 @@
 <LM>w#w-ln95042-092-p2s5w8</LM>
 </w.rf>
 <form>svoji</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4----------</tag>
 </m>
 <m id="m-ln95042-092-p2s5w9">
 <src.rf>manual</src.rf>
@@ -565,7 +565,7 @@
 <LM>w#w-ln95042-092-p3s1Aw6</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-ln95042-092-p3s1Aw7">
 <src.rf>manual</src.rf>
@@ -657,7 +657,7 @@
 <AM lemma="kotovaný_^(*2t)" src="auto">AAIP4----1N---6</AM>
 <AM lemma="kotovaný_^(*2t)" src="auto">AAIP5----1N---6</AM>
 <AM lemma="kotovaný_^(*2t)" src="auto">AAIS1----1N----</AM>
-<AM lemma="kotovaný_^(*2t)" src="auto" recommended="1" selected="1">AAIS4----1N----</AM>
+<AM lemma="kotovaný_^(^DD**kótovaný)_(*2t)" src="auto" recommended="1" selected="1">AAIS4----1N----</AM>
 <AM lemma="kotovaný_^(*2t)" src="auto">AAIS5----1N----</AM>
 <AM lemma="kotovaný_^(*2t)" src="auto">AAMP1----1N---6</AM>
 <AM lemma="kotovaný_^(*2t)" src="auto">AAMP4----1N---6</AM>
@@ -889,7 +889,7 @@
 <LM>w#w-ln95042-092-p3s1Bw14</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8NS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8NS4---------1</tag>
 </m>
 <m id="m-ln95042-092-p3s1Bw15">
 <src.rf>manual</src.rf>
@@ -982,7 +982,7 @@
 <LM>w#w-ln95042-092-p3s2w7</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-ln95042-092-p3s2w8">
 <src.rf>manual</src.rf>
@@ -1054,7 +1054,7 @@
 <LM>w#w-ln95042-092-p3s2w16</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-ln95042-092-p3s2w17">
 <src.rf>manual</src.rf>
@@ -1086,7 +1086,7 @@
 <LM>w#w-ln95042-092-p3s2w20</LM>
 </w.rf>
 <form>lepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAIS4----2A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAIS4----2A----</tag>
 </m>
 <m id="m-ln95042-092-p3s2w21">
 <src.rf>manual</src.rf>
@@ -1128,7 +1128,7 @@
 <LM>w#w-ln95042-092-p3s3w4</LM>
 </w.rf>
 <form>utržené</form>
-<tag lemma="utržený_^(*4hnout)" src="orig" selected="1">AAIP1----1A----</tag>
+<tag lemma="utržený_^(*3it)" src="orig" selected="1">AAIP1----1A----</tag>
 </m>
 <m id="m-ln95042-092-p3s3w5">
 <src.rf>manual</src.rf>
@@ -2287,7 +2287,7 @@
 <LM>w#w-ln95042-092-p4s4w5</LM>
 </w.rf>
 <form>náš</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSIS4-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSIS4-P1-------</tag>
 </m>
 <m id="m-ln95042-092-p4s4w6">
 <src.rf>manual</src.rf>

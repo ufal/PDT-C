@@ -141,7 +141,7 @@
 <LM>w#w-mf920902-027-p1s1Bw13</LM>
 </w.rf>
 <form>právo</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf920902-027-p1s1Bw14">
 <src.rf>manual</src.rf>
@@ -250,7 +250,7 @@
 <LM>w#w-mf920902-027-p1s2w2</LM>
 </w.rf>
 <form>zveřejněné</form>
-<tag lemma="zveřejněný_^(*3it)" src="orig" selected="1">AAIP1----1A----</tag>
+<tag lemma="zveřejněný_^(*2t)_(*3it)" src="orig" selected="1">AAIP1----1A----</tag>
 </m>
 <m id="m-mf920902-027-p1s2w3">
 <src.rf>manual</src.rf>
@@ -577,7 +577,7 @@
 <LM>w#w-mf920902-027-p1s4w13</LM>
 </w.rf>
 <form>právo</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-mf920902-027-p1s4w14">
 <src.rf>manual</src.rf>
@@ -1109,7 +1109,7 @@
 <LM>w#w-mf920902-027-p1s8w17</LM>
 </w.rf>
 <form>dali</form>
-<tag lemma="dát" src="orig" selected="1">VpMP----R-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf920902-027-p1s8w18">
 <src.rf>manual</src.rf>

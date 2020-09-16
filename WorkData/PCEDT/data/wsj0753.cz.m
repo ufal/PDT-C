@@ -173,7 +173,7 @@
 <form>Edison</form>
 <tag>
 <AM lemma="Edison_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Edison-2_;G" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Edison-2_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0753-001-p1s0W12-Ta">

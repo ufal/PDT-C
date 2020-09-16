@@ -498,7 +498,7 @@
 <LM>w#w-mf930709-036-p2s3w11</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS1----------</tag>
 </m>
 <m id="m-mf930709-036-p2s3w12">
 <src.rf>manual</src.rf>
@@ -1142,7 +1142,7 @@
 <LM>w#w-mf930709-036-p2s7w4</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FP4---------1</tag>
 </m>
 <m id="m-mf930709-036-p2s7w5">
 <src.rf>manual</src.rf>

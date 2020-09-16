@@ -688,7 +688,7 @@
 <LM>w#w-ln94209-32-p3s2w13</LM>
 </w.rf>
 <form>zelených</form>
-<tag lemma="zelený" src="orig" selected="1">AAMP2----1A----</tag>
+<tag lemma="zelený_;o" src="orig" selected="1">AAMP2----1A----</tag>
 </m>
 <m id="m-ln94209-32-p3s2w14">
 <src.rf>manual</src.rf>

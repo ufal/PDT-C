@@ -207,7 +207,7 @@
 <LM>w#w-vesm9211-025-p4s1w9</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-vesm9211-025-p4s1w10">
 <src.rf>manual</src.rf>
@@ -363,7 +363,7 @@
 <LM>w#w-vesm9211-025-p6s1w11</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 </s>
 <s id="m-vesm9211-025-p7s1">
@@ -1419,7 +1419,7 @@
 <LM>w#w-vesm9211-025-p22s1w6</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS7----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS7----------</tag>
 </m>
 <m id="m-vesm9211-025-p22s1w7">
 <src.rf>manual</src.rf>
@@ -2006,7 +2006,7 @@
 <form>starost</form>
 <tag>
 <AM lemma="starost" src="orig">NNFS1-----A----</AM>
-<AM lemma="starost-1" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
+<AM lemma="starost-2_^(*5ý-2)" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFS4-----A----</AM>
 <AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto">NNFS1-----A----</AM>
 <AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto">NNFS4-----A----</AM>
@@ -2441,7 +2441,7 @@
 <LM>w#w-vesm9211-025-p30s1w9</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-vesm9211-025-p30s1w10">
 <src.rf>manual</src.rf>
@@ -2683,7 +2683,7 @@
 <LM>w#w-vesm9211-025-p35s1w3</LM>
 </w.rf>
 <form>vysoceaktivních</form>
-<tag lemma="vysokoaktivní" src="orig" selected="1">AAIP2----1A----</tag>
+<tag lemma="vysoceaktivní_,s_^(^DD**vysokoaktivní)" src="orig" selected="1">AAIP2----1A----</tag>
 </m>
 <m id="m-vesm9211-025-p35s1w4">
 <src.rf>manual</src.rf>
@@ -4250,7 +4250,7 @@
 <LM>w#w-vesm9211-025-p52s1w10</LM>
 </w.rf>
 <form>vysoceaktivních</form>
-<tag lemma="vysokoaktivní" src="orig" selected="1">AAIP2----1A----</tag>
+<tag lemma="vysoceaktivní_,s_^(^DD**vysokoaktivní)" src="orig" selected="1">AAIP2----1A----</tag>
 </m>
 <m id="m-vesm9211-025-p52s1w11">
 <src.rf>manual</src.rf>
@@ -4487,7 +4487,7 @@
 <LM>w#w-vesm9211-025-p57s1w3</LM>
 </w.rf>
 <form>hromadění</form>
-<tag lemma="hromadění_^(získávat_ve_větším_množství)_(*3it)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="hromadění_^(*3it)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-vesm9211-025-p57s1w4">
 <src.rf>manual</src.rf>
@@ -4814,7 +4814,7 @@
 <LM>w#w-vesm9211-025-p58s3w2</LM>
 </w.rf>
 <form>vztažená</form>
-<tag lemma="vztažený_^(*5áhnout)" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="vztažený" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-vesm9211-025-p58s3w3">
 <src.rf>manual</src.rf>

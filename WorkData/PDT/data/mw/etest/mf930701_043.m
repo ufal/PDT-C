@@ -195,7 +195,7 @@
 <LM>w#w-mf930701-043-p2s2w4</LM>
 </w.rf>
 <form>člena</form>
-<tag lemma="člen" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930701-043-p2s2w5">
 <src.rf>manual</src.rf>
@@ -349,7 +349,7 @@
 <LM>w#w-mf930701-043-p3s1w9</LM>
 </w.rf>
 <form>představení</form>
-<tag lemma="představení-2_^(divadelní,_filmové_apod.)" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="představení-1_^(*5it-1)" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-mf930701-043-p3s1w10">
 <src.rf>manual</src.rf>

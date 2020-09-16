@@ -61,7 +61,7 @@
 <LM>w#w-lnd91303-023-p2s1w2</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-lnd91303-023-p2s1w3">
 <src.rf>manual</src.rf>
@@ -470,7 +470,7 @@
 <LM>w#w-lnd91303-023-p2s2w31</LM>
 </w.rf>
 <form>umění</form>
-<tag lemma="umění_^(mít_schopnost_něco_dělat)_(*2t)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="umění_^(*2t)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-lnd91303-023-p2s2w32">
 <src.rf>manual</src.rf>
@@ -581,7 +581,7 @@
 <AM lemma="ad-2_:B_^(a_další)" src="orig">AAXXX----1A---8</AM>
 <AM lemma="ad_,t" src="auto">RR--1----------</AM>
 <AM lemma="adalší_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
-<AM lemma="adalší" src="manual" selected="1">BAXXX----1A----</AM>
+<AM lemma="ad-1_^(a_další)" src="manual" selected="1">BAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-023-p2s2w45">
@@ -802,7 +802,7 @@
 <LM>w#w-lnd91303-023-p3s2w8</LM>
 </w.rf>
 <form>třeba</form>
-<tag lemma="třeba-2" src="auto" selected="1">Db-------------</tag>
+<tag lemma="třeba-1" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd91303-023-p3s2w9">
 <src.rf>manual</src.rf>
@@ -1092,7 +1092,7 @@
 <LM>w#w-lnd91303-023-p3s3w9</LM>
 </w.rf>
 <form>zaměstnání</form>
-<tag lemma="zaměstnání-1_^(všeob._význam:_činnost,_zaměstnání)_(*5at-1)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="zaměstnání_^(*3at)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-lnd91303-023-p3s3w10">
 <src.rf>manual</src.rf>
@@ -1265,7 +1265,7 @@
 <LM>w#w-lnd91303-023-p3s4w20</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-lnd91303-023-p3s4w21">
 <src.rf>manual</src.rf>

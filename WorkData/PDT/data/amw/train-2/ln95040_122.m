@@ -112,7 +112,7 @@
 <LM>w#w-ln95040-122-p2s1w10</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln95040-122-p2s1w11">
 <src.rf>manual</src.rf>
@@ -350,7 +350,7 @@
 <LM>w#w-ln95040-122-p2s4w10</LM>
 </w.rf>
 <form>právo</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln95040-122-p2s4w11">
 <src.rf>manual</src.rf>
@@ -499,7 +499,7 @@
 <LM>w#w-ln95040-122-p2s5w4</LM>
 </w.rf>
 <form>členem</form>
-<tag lemma="člen" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95040-122-p2s5w5">
 <src.rf>manual</src.rf>
@@ -507,7 +507,7 @@
 <LM>w#w-ln95040-122-p2s5w5</LM>
 </w.rf>
 <form>prvních</form>
-<tag lemma="první" src="orig" selected="1">CrFP2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFP2----------</tag>
 </m>
 <m id="m-ln95040-122-p2s5w6">
 <src.rf>manual</src.rf>
@@ -629,7 +629,7 @@
 <LM>w#w-ln95040-122-p2s6w6</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-ln95040-122-p2s6w7">
 <src.rf>manual</src.rf>
@@ -669,7 +669,7 @@
 <AM lemma="vydávání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="auto">NNNP5-----A----</AM>
 <AM lemma="vydávání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="auto">NNNS1-----A----</AM>
 <AM lemma="vydávání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="auto">NNNS2-----A----</AM>
-<AM lemma="vydávání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="auto" recommended="1" selected="1">NNNS3-----A----</AM>
+<AM lemma="vydávání_^(*3at)" src="auto" recommended="1" selected="1">NNNS3-----A----</AM>
 <AM lemma="vydávání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="auto">NNNS4-----A----</AM>
 <AM lemma="vydávání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="auto">NNNS5-----A----</AM>
 <AM lemma="vydávání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="auto">NNNS6-----A----</AM>
@@ -793,7 +793,7 @@
 <LM>w#w-ln95040-122-p2s7w3</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-ln95040-122-p2s7w4">
 <src.rf>manual</src.rf>
@@ -865,7 +865,7 @@
 <LM>w#w-ln95040-122-p2s7w12</LM>
 </w.rf>
 <form>čističů</form>
-<tag lemma="čistič_^(prostředek)" src="auto" selected="1">NNIP2-----A----</tag>
+<tag lemma="čistič-2_^(prostředek)" src="auto" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln95040-122-p2s7w13">
 <src.rf>manual</src.rf>
@@ -931,7 +931,7 @@
 <LM>w#w-ln95040-122-p2s8w6</LM>
 </w.rf>
 <form>zaměstnání</form>
-<tag lemma="zaměstnání-1_^(všeob._význam:_činnost,_zaměstnání)_(*5at-1)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="zaměstnání_^(*3at)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln95040-122-p2s8w7">
 <src.rf>manual</src.rf>
@@ -1170,7 +1170,7 @@
 <LM>w#w-ln95040-122-p2s10w2</LM>
 </w.rf>
 <form>svoji</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4----------</tag>
 </m>
 <m id="m-ln95040-122-p2s10w3">
 <src.rf>manual</src.rf>
@@ -1524,7 +1524,7 @@
 <LM>w#w-ln95040-122-p2s11w18</LM>
 </w.rf>
 <form>jehož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P1XXXZS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXZS3-------</tag>
 </m>
 <m id="m-ln95040-122-p2s11w19">
 <src.rf>manual</src.rf>
@@ -1628,7 +1628,7 @@
 <LM>w#w-ln95040-122-p2s11w31</LM>
 </w.rf>
 <form>dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95040-122-p2s11w32">
 <src.rf>manual</src.rf>

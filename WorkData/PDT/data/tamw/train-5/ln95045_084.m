@@ -87,7 +87,7 @@
 <LM>w#w-ln95045-084-p2s1Bw3</LM>
 </w.rf>
 <form>člena</form>
-<tag lemma="člen" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95045-084-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -97,7 +97,7 @@
 <form>Rady</form>
 <tag>
 <AM lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig">NNFS2-----A----</AM>
-<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu_poradní_sbor)" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-084-p2s1Bw5">
@@ -194,7 +194,7 @@
 <LM>w#w-ln95045-084-p2s1Bw16</LM>
 </w.rf>
 <form>členové</form>
-<tag lemma="člen" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln95045-084-p2s1Bw17">
 <src.rf>manual</src.rf>
@@ -343,7 +343,7 @@
 <form>radě</form>
 <tag>
 <AM lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig">NNFS6-----A----</AM>
-<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu¬_poradní_sbor)" src="manual" selected="1">NNFS6-----A----</AM>
+<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="manual" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-084-p3s1w5">
@@ -484,7 +484,7 @@
 <LM>w#w-ln95045-084-p3s1w20</LM>
 </w.rf>
 <form>členem</form>
-<tag lemma="člen" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95045-084-p3s1w21">
 <src.rf>manual</src.rf>
@@ -645,7 +645,7 @@
 <LM>w#w-ln95045-084-p3s2w9</LM>
 </w.rf>
 <form>členů</form>
-<tag lemma="člen" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln95045-084-p3s2w10">
 <src.rf>manual</src.rf>
@@ -1176,7 +1176,7 @@
 <LM>w#w-ln95045-084-p3s4w28</LM>
 </w.rf>
 <form>členy</form>
-<tag lemma="člen" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-ln95045-084-p3s4w29">
 <src.rf>manual</src.rf>
@@ -1389,7 +1389,7 @@
 <LM>w#w-ln95045-084-p3s5w12</LM>
 </w.rf>
 <form>tajném</form>
-<tag lemma="tajný" src="orig" selected="1">AANS6----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AANS6----1A----</tag>
 </m>
 <m id="m-ln95045-084-p3s5w13">
 <src.rf>manual</src.rf>

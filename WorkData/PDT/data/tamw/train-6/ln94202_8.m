@@ -308,7 +308,7 @@
 <LM>w#w-ln94202-8-p2s3w4</LM>
 </w.rf>
 <form>náš</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSIS4-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSIS4-P1-------</tag>
 </m>
 <m id="m-ln94202-8-p2s3w5">
 <src.rf>manual</src.rf>
@@ -359,7 +359,7 @@
 <LM>w#w-ln94202-8-p2s3w11</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-ln94202-8-p2s3w12">
 <src.rf>manual</src.rf>
@@ -1325,7 +1325,7 @@
 <LM>w#w-ln94202-8-p5s1w22</LM>
 </w.rf>
 <form>žigulíky</form>
-<tag lemma="žigulík_;m_,h" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="žigulík_,h" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-ln94202-8-p5s1w23">
 <src.rf>manual</src.rf>
@@ -1344,7 +1344,7 @@
 <tag>
 <AM lemma="Moskvič-2_;m_^(vozidlo)" src="orig">NNIP4-----A----</AM>
 <AM lemma="moskvič_;m_^(vozidlo)" src="auto">NNIP1-----A----</AM>
-<AM lemma="moskvič_;m_^(vozidlo)" src="auto" recommended="1" selected="1">NNIP4-----A----</AM>
+<AM lemma="moskvič_^(vozidlo)" src="auto" recommended="1" selected="1">NNIP4-----A----</AM>
 <AM lemma="moskvič_;m_^(vozidlo)" src="auto">NNIP5-----A----</AM>
 <AM lemma="moskvič_;m_^(vozidlo)" src="auto">NNIS2-----A----</AM>
 </tag>
@@ -1494,7 +1494,7 @@
 <LM>w#w-ln94202-8-p5s2w17</LM>
 </w.rf>
 <form>lety</form>
-<tag lemma="rok" src="orig" selected="1">NNNP7-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP7-----A----</tag>
 </m>
 <m id="m-ln94202-8-p5s2w18">
 <src.rf>manual</src.rf>

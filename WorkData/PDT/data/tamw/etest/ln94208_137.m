@@ -255,7 +255,7 @@
 <LM>w#w-ln94208-137-p2s1Bw16</LM>
 </w.rf>
 <form>Karlově</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUIS6M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUIS6M---------</tag>
 </m>
 <m id="m-ln94208-137-p2s1Bw17">
 <src.rf>manual</src.rf>
@@ -593,7 +593,7 @@
 <LM>w#w-ln94208-137-p3s2w2</LM>
 </w.rf>
 <form>vydání</form>
-<tag lemma="vydání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="orig" selected="1">NNNS3-----A----</tag>
+<tag lemma="vydání_^(*3at)" src="orig" selected="1">NNNS3-----A----</tag>
 </m>
 <m id="m-ln94208-137-p3s2w3">
 <src.rf>manual</src.rf>
@@ -609,7 +609,7 @@
 <LM>w#w-ln94208-137-p3s2w4</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-ln94208-137-p3s2w5">
 <src.rf>manual</src.rf>
@@ -978,7 +978,7 @@
 <LM>w#w-ln94208-137-p3s5w6</LM>
 </w.rf>
 <form>vydání</form>
-<tag lemma="vydání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="vydání_^(*3at)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln94208-137-p3s5w7">
 <src.rf>manual</src.rf>
@@ -1066,7 +1066,7 @@
 <LM>w#w-ln94208-137-p3s5w17</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94208-137-p3s5w18">
 <src.rf>manual</src.rf>
@@ -1124,7 +1124,7 @@
 <LM>w#w-ln94208-137-p3s6w5</LM>
 </w.rf>
 <form>dál</form>
-<tag lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="dál-3_,s_^(také,_za_další)_(^DD**dále-3)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94208-137-p3s6w6">
 <src.rf>manual</src.rf>
@@ -1212,7 +1212,7 @@
 <LM>w#w-ln94208-137-p3s6w16</LM>
 </w.rf>
 <form>Karlův</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-ln94208-137-p3s6w17">
 <src.rf>manual</src.rf>
@@ -1374,7 +1374,7 @@
 <LM>w#w-ln94208-137-p3s7w9</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-ln94208-137-p3s7w10">
 <src.rf>manual</src.rf>
@@ -1438,7 +1438,7 @@
 <LM>w#w-ln94208-137-p3s7w17</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-ln94208-137-p3s7w18">
 <src.rf>manual</src.rf>
@@ -1462,7 +1462,7 @@
 <LM>w#w-ln94208-137-p3s7w20</LM>
 </w.rf>
 <form>Karlova</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUIS2M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUIS2M---------</tag>
 </m>
 <m id="m-ln94208-137-p3s7w21">
 <src.rf>manual</src.rf>
@@ -1967,7 +1967,7 @@
 <LM>w#w-ln94208-137-p3s10w11</LM>
 </w.rf>
 <form>úvodní</form>
-<tag lemma="úvodní_,s" src="orig" selected="1">AAFS4----1A----</tag>
+<tag lemma="úvodní" src="orig" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-ln94208-137-p3s10w12">
 <src.rf>manual</src.rf>

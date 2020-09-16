@@ -737,7 +737,7 @@
 <LM>w#w-ln95048-121-p3s1w5</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-ln95048-121-p3s1w6">
 <src.rf>manual</src.rf>
@@ -777,7 +777,7 @@
 <LM>w#w-ln95048-121-p3s1w10</LM>
 </w.rf>
 <form>právo</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95048-121-p3s1w11">
 <src.rf>manual</src.rf>

@@ -27,7 +27,7 @@
 <LM>w#w-ln94208-47-p1s1w2</LM>
 </w.rf>
 <form>Černín</form>
-<tag lemma="Černín_;G" src="auto" selected="1">NNIS4-----A----</tag>
+<tag lemma="Černín-2_;G" src="auto" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln94208-47-p1s1w3">
 <src.rf>manual</src.rf>
@@ -43,7 +43,7 @@
 <LM>w#w-ln94208-47-p1s1w4</LM>
 </w.rf>
 <form>dlouhé</form>
-<tag lemma="dlouhý-1_^(fyz._délka;_př._dlouhá_tyč)" src="orig" selected="1">AAFS6----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFS6----1A----</tag>
 </m>
 <m id="m-ln94208-47-p1s1w5">
 <src.rf>manual</src.rf>
@@ -223,7 +223,7 @@
 <LM>w#w-ln94208-47-p2s1Bw19</LM>
 </w.rf>
 <form>dlouhá</form>
-<tag lemma="dlouhý-1_^(fyz._délka;_př._dlouhá_tyč)" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-ln94208-47-p2s1Bw20">
 <src.rf>manual</src.rf>
@@ -401,7 +401,7 @@
 <LM>w#w-ln94208-47-p3s1w7</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-ln94208-47-p3s1w8">
 <src.rf>manual</src.rf>
@@ -409,7 +409,7 @@
 <LM>w#w-ln94208-47-p3s1w8</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS2---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS2---------1</tag>
 </m>
 <m id="m-ln94208-47-p3s1w9">
 <src.rf>manual</src.rf>
@@ -595,7 +595,7 @@
 <LM>w#w-ln94208-47-p4s1w10</LM>
 </w.rf>
 <form>data</form>
-<tag lemma="datum_^(kalendářní)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="datum-1_^(kalendářní)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln94208-47-p4s1w11">
 <src.rf>manual</src.rf>
@@ -800,7 +800,7 @@
 <LM>w#w-ln94208-47-p4s2w13</LM>
 </w.rf>
 <form>lety</form>
-<tag lemma="rok" src="orig" selected="1">NNNP7-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP7-----A----</tag>
 </m>
 <m id="m-ln94208-47-p4s2w14">
 <src.rf>manual</src.rf>
@@ -819,7 +819,7 @@
 <LM>w#w-ln94208-47-p4s2w15</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrMS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrMS1----------</tag>
 </m>
 <m id="m-ln94208-47-p4s2w16">
 <src.rf>manual</src.rf>
@@ -1490,7 +1490,7 @@
 <LM>w#w-ln94208-47-p6s2w13</LM>
 </w.rf>
 <form>jejíhož</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1ZS2FS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1ZS2FS3-------</tag>
 </m>
 <m id="m-ln94208-47-p6s2w14">
 <src.rf>manual</src.rf>

@@ -707,7 +707,7 @@
 <LM>w#w-lnd92256-072-p2s2w11</LM>
 </w.rf>
 <form>orgánů</form>
-<tag lemma="orgán" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-lnd92256-072-p2s2w12">
 <src.rf>manual</src.rf>
@@ -1332,7 +1332,7 @@
 <LM>w#w-lnd92256-072-p3s3w8</LM>
 </w.rf>
 <form>napadení</form>
-<tag lemma="napadení_^(*3nout)" src="orig" selected="1">NNNS3-----A----</tag>
+<tag lemma="napadení" src="orig" selected="1">NNNS3-----A----</tag>
 </m>
 <m id="m-lnd92256-072-p3s3w9">
 <src.rf>manual</src.rf>

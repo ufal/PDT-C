@@ -226,7 +226,7 @@
 <LM>w#w-ln94202-14-p2s1Bw10</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln94202-14-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -235,7 +235,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>členů</form>
-<tag lemma="člen" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94202-14-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -253,7 +253,7 @@
 <form>managementu</form>
 <tag>
 <AM lemma="management_,t_^(vedení,_manažment;_angl.)" src="orig">NNIS2-----A----</AM>
-<AM lemma="management" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="management_,s_^(^DD**manažment)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-14-p2s1Bw14">
@@ -302,7 +302,7 @@
 <LM>w#w-ln94202-14-p2s1Bw19</LM>
 </w.rf>
 <form>nejtajnější</form>
-<tag lemma="tajný" src="orig" selected="1">AANP4----3A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AANP4----3A----</tag>
 </m>
 <m id="m-ln94202-14-p2s1Bw20">
 <src.rf>manual</src.rf>
@@ -425,7 +425,7 @@
 <LM>w#w-ln94202-14-p2s1Bw34</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-ln94202-14-p2s1Bw35">
 <src.rf>manual</src.rf>
@@ -555,7 +555,7 @@
 <LM>w#w-ln94202-14-p3s1w6</LM>
 </w.rf>
 <form>stojí</form>
-<tag lemma="stát-4_^(něco_stojí_peníze)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94202-14-p3s1w7">
 <src.rf>manual</src.rf>
@@ -694,7 +694,7 @@
 <LM>w#w-ln94202-14-p3s2w2</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8YP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8YP4---------1</tag>
 </m>
 <m id="m-ln94202-14-p3s2w3">
 <src.rf>manual</src.rf>
@@ -1430,7 +1430,7 @@
 <LM>w#w-ln94202-14-p3s5w3</LM>
 </w.rf>
 <form>vás</form>
-<tag lemma="ty" src="orig" selected="1">PP-P4--2-------</tag>
+<tag lemma="vy" src="orig" selected="1">PP-P4--2-------</tag>
 </m>
 <m id="m-ln94202-14-p3s5w4">
 <src.rf>manual</src.rf>
@@ -1486,7 +1486,7 @@
 <LM>w#w-ln94202-14-p3s5w10</LM>
 </w.rf>
 <form>pozornost</form>
-<tag lemma="pozornost-1_^(všímavý,_milý,_soustředěný)_(*5ý-1)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="pozornost-1_^(*5ý-1)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94202-14-p3s5w11">
 <src.rf>manual</src.rf>
@@ -1800,7 +1800,7 @@
 <LM>w#w-ln94202-14-p4s2w13</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP6-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP6-P1-------</tag>
 </m>
 <m id="m-ln94202-14-p4s2w14">
 <src.rf>manual</src.rf>
@@ -2097,7 +2097,7 @@
 <LM>w#w-ln94202-14-p4s3w32</LM>
 </w.rf>
 <form>vaší</form>
-<tag lemma="tvůj_^(přivlast.)" src="orig" selected="1">PSFS2-P2-------</tag>
+<tag lemma="váš" src="orig" selected="1">PSFS2-P2-------</tag>
 </m>
 <m id="m-ln94202-14-p4s3w33">
 <src.rf>manual</src.rf>
@@ -2538,7 +2538,7 @@
 <LM>w#w-ln94202-14-p4s6w15</LM>
 </w.rf>
 <form>dlouhého</form>
-<tag lemma="dlouhý-1_^(fyz._délka;_př._dlouhá_tyč)" src="orig" selected="1">AAIS2----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-ln94202-14-p4s6w16">
 <src.rf>manual</src.rf>
@@ -2808,7 +2808,7 @@
 <form>sice</form>
 <tag>
 <AM lemma="sice-2" src="auto">Db-------------</AM>
-<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta" src="manual" selected="1">J^-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln94202-14-p5s1w5">
@@ -2933,7 +2933,7 @@
 <LM>w#w-ln94202-14-p5s1w20</LM>
 </w.rf>
 <form>dlouhou</form>
-<tag lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">AAFS4----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-ln94202-14-p5s1w21">
 <src.rf>manual</src.rf>

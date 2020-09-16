@@ -513,7 +513,7 @@
 <LM>w#w-mf930701-032-p4s1w2</LM>
 </w.rf>
 <form>prvních</form>
-<tag lemma="první" src="orig" selected="1">CrIP2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIP2----------</tag>
 </m>
 <m id="m-mf930701-032-p4s1w3">
 <src.rf>manual</src.rf>

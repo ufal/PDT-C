@@ -219,7 +219,7 @@
 <LM>w#w-lnd92255-037-p1s2w1</LM>
 </w.rf>
 <form>Prvních</form>
-<tag lemma="první" src="orig" selected="1">CrNP2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNP2----------</tag>
 </m>
 <m id="m-lnd92255-037-p1s2w2">
 <src.rf>manual</src.rf>
@@ -350,7 +350,7 @@
 <LM>w#w-lnd92255-037-p1s2w17</LM>
 </w.rf>
 <form>bílé</form>
-<tag lemma="bílý" src="orig" selected="1">AANS1----1A----</tag>
+<tag lemma="bílý_;o" src="orig" selected="1">AANS1----1A----</tag>
 </m>
 <m id="m-lnd92255-037-p1s2w18">
 <src.rf>manual</src.rf>
@@ -366,7 +366,7 @@
 <LM>w#w-lnd92255-037-p1s2w19</LM>
 </w.rf>
 <form>černém</form>
-<tag lemma="černý" src="auto" selected="1">AANS6----1A----</tag>
+<tag lemma="černý_;o" src="auto" selected="1">AANS6----1A----</tag>
 </m>
 <m id="m-lnd92255-037-p1s2w20">
 <src.rf>manual</src.rf>

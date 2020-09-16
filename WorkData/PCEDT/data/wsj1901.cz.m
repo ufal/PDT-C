@@ -1743,7 +1743,7 @@
 </w.rf>
 <form>svůj</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8IS4----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8IS4----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8YS1----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8YS5----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOYS-----------</AM>
@@ -1770,7 +1770,7 @@
 <AM lemma="chybějící_^(někde_něco_chybí)_(*4t)" src="auto">AGIP4-----A----</AM>
 <AM lemma="chybějící_^(někde_něco_chybí)_(*4t)" src="auto">AGIP5-----A----</AM>
 <AM lemma="chybějící_^(někde_něco_chybí)_(*4t)" src="auto">AGIS1-----A----</AM>
-<AM lemma="chybějící_^(někde_něco_chybí)_(*4t)" src="auto" recommended="1">AGIS4-----A----</AM>
+<AM lemma="chybějící_^(*4t)" src="auto" recommended="1">AGIS4-----A----</AM>
 <AM lemma="chybějící_^(někde_něco_chybí)_(*4t)" src="auto">AGIS5-----A----</AM>
 <AM lemma="chybějící_^(někde_něco_chybí)_(*4t)" src="auto">AGMP1-----A----</AM>
 <AM lemma="chybějící_^(někde_něco_chybí)_(*4t)" src="auto">AGMP4-----A----</AM>

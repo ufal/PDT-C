@@ -109,7 +109,7 @@
 <LM>w#w-lnd92259-089-p2s2w6</LM>
 </w.rf>
 <form>Buffalem</form>
-<tag lemma="Buffalo-2_;m_^(sport.:_souč._názvu)" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="Buffalo-1_;G_;m_^(město_sport._klub)" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-lnd92259-089-p2s2w7">
 <src.rf>manual</src.rf>
@@ -706,7 +706,7 @@
 <LM>w#w-lnd92259-089-p2s7w3</LM>
 </w.rf>
 <form>umí</form>
-<tag lemma="umět_^(mít_schopnost_něco_dělat)" src="auto" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="umět" src="auto" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92259-089-p2s7w4">
 <src.rf>manual</src.rf>
@@ -1226,7 +1226,7 @@
 <LM>w#w-lnd92259-089-p2s11w7</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-lnd92259-089-p2s11w8">
 <src.rf>manual</src.rf>
@@ -1298,7 +1298,7 @@
 <LM>w#w-lnd92259-089-p2s11w16</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92259-089-p2s11w17">
 <src.rf>manual</src.rf>
@@ -1354,7 +1354,7 @@
 <LM>w#w-lnd92259-089-p2s11w23</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-lnd92259-089-p2s11w24">
 <src.rf>manual</src.rf>
@@ -1466,7 +1466,7 @@
 <LM>w#w-lnd92259-089-p2s12w9</LM>
 </w.rf>
 <form>Buffalo</form>
-<tag lemma="Buffalo-2_;m_^(sport.:_souč._názvu)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Buffalo-1_;G_;m_^(město_sport._klub)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-lnd92259-089-p2s12w10">
 <src.rf>manual</src.rf>

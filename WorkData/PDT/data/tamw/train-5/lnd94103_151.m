@@ -1067,7 +1067,7 @@
 <LM>w#w-lnd94103-151-p1s10w5</LM>
 </w.rf>
 <form>neschopnosti</form>
-<tag lemma="neschopnost_;U_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="neschopnost_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94103-151-p1s10w6">
 <src.rf>manual</src.rf>
@@ -1181,7 +1181,7 @@
 <LM>w#w-lnd94103-151-p1s11w9</LM>
 </w.rf>
 <form>neschopnost</form>
-<tag lemma="neschopnost_;U_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS4-----A----</tag>
+<tag lemma="neschopnost_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-lnd94103-151-p1s11w10">
 <src.rf>manual</src.rf>

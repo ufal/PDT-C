@@ -1143,7 +1143,7 @@
 <LM>w#w-mf920925-037-p4s1w1</LM>
 </w.rf>
 <form>Nejlepším</form>
-<tag lemma="dobrý" src="orig" selected="1">AAIS7----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAIS7----3A----</tag>
 </m>
 <m id="m-mf920925-037-p4s1w2">
 <src.rf>manual</src.rf>
@@ -1797,7 +1797,7 @@
 <LM>w#w-mf920925-037-p5s2w22</LM>
 </w.rf>
 <form>duchu</form>
-<tag lemma="duch" src="orig" selected="1">NNMS6-----A---1</tag>
+<tag lemma="duch-1" src="orig" selected="1">NNMS6-----A---1</tag>
 </m>
 <m id="m-mf920925-037-p5s2w23">
 <src.rf>manual</src.rf>
@@ -2050,7 +2050,7 @@
 <LM>w#w-mf920925-037-p5s3w10</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920925-037-p5s3w11">
 <src.rf>manual</src.rf>

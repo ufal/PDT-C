@@ -410,7 +410,7 @@
 <LM>w#w-ln94202-134-p3s1w4</LM>
 </w.rf>
 <form>co</form>
-<tag lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="co-5_^(př._co_nejméně,_co_nevidět_atd.)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94202-134-p3s1w5">
 <src.rf>manual</src.rf>
@@ -866,7 +866,7 @@
 <LM>w#w-ln94202-134-p4s1w9</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-ln94202-134-p4s1w10">
 <src.rf>manual</src.rf>
@@ -1586,7 +1586,7 @@
 <LM>w#w-ln94202-134-p7s1w8</LM>
 </w.rf>
 <form>kamiony</form>
-<tag lemma="kamión" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="kamion_,s_^(^DD**kamión)" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-ln94202-134-p7s1w9">
 <src.rf>manual</src.rf>

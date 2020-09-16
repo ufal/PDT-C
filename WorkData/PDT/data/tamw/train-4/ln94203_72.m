@@ -45,7 +45,7 @@
 <LM>w#w-ln94203-72-p2s1w2</LM>
 </w.rf>
 <form>vězení</form>
-<tag lemma="vězení_,a_^(místo_výkonu_trestu)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="vězení_^(místo_výkonu_trestu)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln94203-72-p2s1w3">
 <src.rf>manual</src.rf>
@@ -709,7 +709,7 @@
 <LM>w#w-ln94203-72-p2s5w19</LM>
 </w.rf>
 <form>pozornost</form>
-<tag lemma="pozornost-1_^(všímavý,_milý,_soustředěný)_(*5ý-1)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="pozornost-1_^(*5ý-1)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94203-72-p2s5w20">
 <src.rf>manual</src.rf>

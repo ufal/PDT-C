@@ -233,7 +233,7 @@
 <LM>w#w-ln94207-8-p2s1Bw8</LM>
 </w.rf>
 <form>ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94207-8-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -477,7 +477,7 @@
 <LM>w#w-ln94207-8-p2s1Bw38</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS2---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS2---------1</tag>
 </m>
 <m id="m-ln94207-8-p2s1Bw39">
 <src.rf>manual</src.rf>
@@ -740,7 +740,7 @@
 <LM>w#w-ln94207-8-p3s2w4</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP6-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP6-P1-------</tag>
 </m>
 <m id="m-ln94207-8-p3s2w5">
 <src.rf>manual</src.rf>

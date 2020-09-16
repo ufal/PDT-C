@@ -43,7 +43,7 @@
 <LM>w#w-ln94201-1-p1s1w4</LM>
 </w.rf>
 <form>bílým</form>
-<tag lemma="bílý" src="orig" selected="1">AANS7----1A----</tag>
+<tag lemma="bílý_;o" src="orig" selected="1">AANS7----1A----</tag>
 </m>
 <m id="m-ln94201-1-p1s1w5">
 <src.rf>manual</src.rf>
@@ -751,7 +751,7 @@
 <LM>w#w-ln94201-1-p2s6w2</LM>
 </w.rf>
 <form>mluvčího</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94201-1-p2s6w3">
 <src.rf>manual</src.rf>

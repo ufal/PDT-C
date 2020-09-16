@@ -193,7 +193,7 @@
 <LM>w#w-ln95042-062-p2s1Cw5</LM>
 </w.rf>
 <form>rady</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95042-062-p2s1Cw6">
 <src.rf>manual</src.rf>
@@ -220,7 +220,7 @@
 <LM>w#w-ln95042-062-p2s1Cw8</LM>
 </w.rf>
 <form>Miroslav</form>
-<tag lemma="Miroslav_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Miroslav-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-062-p2s1Cw9">
 <src.rf>manual</src.rf>
@@ -454,7 +454,7 @@
 <LM>w#w-ln95042-062-p2s2w6</LM>
 </w.rf>
 <form>radě</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-ln95042-062-p2s2w7">
 <src.rf>manual</src.rf>
@@ -1048,7 +1048,7 @@
 <LM>w#w-ln95042-062-p2s7w13</LM>
 </w.rf>
 <form>cesty</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-ln95042-062-p2s7w14">
 <src.rf>manual</src.rf>

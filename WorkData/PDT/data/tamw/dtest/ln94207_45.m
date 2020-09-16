@@ -137,7 +137,7 @@
 <form>hodinovce</form>
 <tag>
 <AM lemma="hodinovka_,h" src="orig">NNFS6-----A----</AM>
-<AM lemma="hodinovka" src="manual" selected="1">NNFS6-----A----</AM>
+<AM lemma="hodinovka_,h" src="manual" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-45-p2s1Bw11">

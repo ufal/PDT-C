@@ -1965,7 +1965,7 @@
 <LM>w#w-mf920902-132-p4s8w29</LM>
 </w.rf>
 <form>zastavení</form>
-<tag lemma="zastavení-1_^([také_z._se];_uvést_do_klidu:_auto,...)_(*5it-1)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="zastavení_^(*3it)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-mf920902-132-p4s8w30">
 <src.rf>manual</src.rf>
@@ -2106,7 +2106,7 @@
 <LM>w#w-mf920902-132-p4s9w15</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FP4---------1</tag>
 </m>
 <m id="m-mf920902-132-p4s9w16">
 <src.rf>manual</src.rf>
@@ -2287,7 +2287,7 @@
 <LM>w#w-mf920902-132-p4s10w19</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrMP1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrMP1----------</tag>
 </m>
 <m id="m-mf920902-132-p4s10w20">
 <src.rf>manual</src.rf>
@@ -2627,7 +2627,7 @@
 <LM>w#w-mf920902-132-p4s12w5</LM>
 </w.rf>
 <form>brání</form>
-<tag lemma="bránit_^(klást_překážky)" src="auto" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="bránit" src="auto" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920902-132-p4s12w6">
 <src.rf>manual</src.rf>
@@ -2760,7 +2760,7 @@
 <LM>w#w-mf920902-132-p4s13w10</LM>
 </w.rf>
 <form>spravedlnost</form>
-<tag lemma="spravedlnost_^(*3ý)" src="auto" selected="1">NNFS4-----A----</tag>
+<tag lemma="spravedlnost-1_^(*5ý-1)" src="auto" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf920902-132-p4s13w11">
 <src.rf>manual</src.rf>
@@ -2866,7 +2866,7 @@
 <LM>w#w-mf920902-132-p4s14w7</LM>
 </w.rf>
 <form>nejlepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAIS1----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAIS1----3A----</tag>
 </m>
 <m id="m-mf920902-132-p4s14w8">
 <src.rf>manual</src.rf>

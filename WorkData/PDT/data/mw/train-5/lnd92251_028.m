@@ -461,7 +461,7 @@
 <LM>w#w-lnd92251-028-p3s2w44</LM>
 </w.rf>
 <form>letům</form>
-<tag lemma="rok" src="orig" selected="1">NNNP3-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP3-----A----</tag>
 </m>
 <m id="m-lnd92251-028-p3s2w45">
 <src.rf>manual</src.rf>
@@ -469,7 +469,7 @@
 <LM>w#w-lnd92251-028-p3s2w45</LM>
 </w.rf>
 <form>vězení</form>
-<tag lemma="vězení_,a_^(místo_výkonu_trestu)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="vězení_^(místo_výkonu_trestu)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-lnd92251-028-p3s2w46">
 <src.rf>manual</src.rf>
@@ -501,7 +501,7 @@
 <LM>w#w-lnd92251-028-p3s2w49</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-lnd92251-028-p3s2w50">
 <src.rf>manual</src.rf>
@@ -1003,7 +1003,7 @@
 <LM>w#w-lnd92251-028-p3s4w22</LM>
 </w.rf>
 <form>Chlumu</form>
-<tag lemma="Chlum_;G" src="auto" selected="1">NNIS6-----A---1</tag>
+<tag lemma="Chlum-2_;G" src="auto" selected="1">NNIS6-----A---1</tag>
 </m>
 <m id="m-lnd92251-028-p3s4w23">
 <src.rf>manual</src.rf>

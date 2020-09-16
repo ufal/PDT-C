@@ -133,7 +133,7 @@
 <LM>w#w-cmpr9410-051-p3s2w8</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-cmpr9410-051-p3s2w9">
 <src.rf>manual</src.rf>
@@ -144,7 +144,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-051-p3s2w10">
@@ -161,7 +161,7 @@
 <LM>w#w-cmpr9410-051-p3s2w11</LM>
 </w.rf>
 <form>bejvalej</form>
-<tag lemma="bejvalý_,h_^(*2t)" src="auto" selected="1">AAMS1----1A---6</tag>
+<tag lemma="bejvalý_^(^GC**bývalý)_(*2t)" src="auto" selected="1">AAMS1----1A---6</tag>
 </m>
 <m id="m-cmpr9410-051-p3s2w12">
 <src.rf>manual</src.rf>

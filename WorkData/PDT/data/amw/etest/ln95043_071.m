@@ -584,7 +584,7 @@
 <LM>w#w-ln95043-071-p3s2w2</LM>
 </w.rf>
 <form>prvního</form>
-<tag lemma="první" src="orig" selected="1">CrIS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS2----------</tag>
 </m>
 <m id="m-ln95043-071-p3s2w3">
 <src.rf>manual</src.rf>
@@ -640,7 +640,7 @@
 <LM>w#w-ln95043-071-p3s2w9</LM>
 </w.rf>
 <form>vážící</form>
-<tag lemma="vážící_^(např._provazem;_se_k_čemu)_(*4zat)" src="auto" selected="1">AGMS1-----A----</tag>
+<tag lemma="vážící_^(*3it)" src="auto" selected="1">AGMS1-----A----</tag>
 </m>
 <m id="m-ln95043-071-p3s2w10">
 <src.rf>manual</src.rf>

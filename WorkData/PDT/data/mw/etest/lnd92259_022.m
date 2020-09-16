@@ -875,7 +875,7 @@
 <LM>w#w-lnd92259-022-p2s6w10</LM>
 </w.rf>
 <form>naši</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSMP1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSMP1-P1-------</tag>
 </m>
 <m id="m-lnd92259-022-p2s6w11">
 <src.rf>manual</src.rf>
@@ -915,7 +915,7 @@
 <LM>w#w-lnd92259-022-p2s6w15</LM>
 </w.rf>
 <form>politice</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-lnd92259-022-p2s6w16">
 <src.rf>manual</src.rf>
@@ -942,7 +942,7 @@
 <LM>w#w-lnd92259-022-p2s6w18</LM>
 </w.rf>
 <form>pozornost</form>
-<tag lemma="pozornost-1_^(všímavý,_milý,_soustředěný)_(*5ý-1)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="pozornost-1_^(*5ý-1)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-lnd92259-022-p2s6w19">
 <src.rf>manual</src.rf>
@@ -958,7 +958,7 @@
 <LM>w#w-lnd92259-022-p2s6w20</LM>
 </w.rf>
 <form>proto</form>
-<tag lemma="proto-2_^(dal_mu_co_proto,_tak_proto!)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="proto-2_^(proto_že)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd92259-022-p2s6w21">
 <src.rf>manual</src.rf>

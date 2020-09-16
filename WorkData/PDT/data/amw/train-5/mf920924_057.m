@@ -293,7 +293,7 @@
 <LM>w#w-mf920924-057-p4s3w6</LM>
 </w.rf>
 <form>mužská</form>
-<tag lemma="mužský" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="mužský-1" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-mf920924-057-p4s3w7">
 <src.rf>manual</src.rf>
@@ -407,7 +407,7 @@
 <LM>w#w-mf920924-057-p4s4w3</LM>
 </w.rf>
 <form>členové</form>
-<tag lemma="člen" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf920924-057-p4s4w4">
 <src.rf>manual</src.rf>
@@ -779,7 +779,7 @@
 <LM>w#w-mf920924-057-p4s6w9</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-mf920924-057-p4s6w10">
 <src.rf>manual</src.rf>

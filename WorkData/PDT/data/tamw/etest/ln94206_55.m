@@ -35,7 +35,7 @@
 <LM>w#w-ln94206-55-p1s1w3</LM>
 </w.rf>
 <form>rozvody</form>
-<tag lemma="rozvod-1_^(manželství)" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="rozvod_^(manželství;vody)" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-ln94206-55-p1s1w4">
 <src.rf>manual</src.rf>
@@ -248,7 +248,7 @@
 <LM>w#w-ln94206-55-p2s1Bw8</LM>
 </w.rf>
 <form>rozvodovostí</form>
-<tag lemma="rozvodovost-1_^(souv._s_rozvodem_manželství)_(*5ý-1)" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="rozvodovost_^(*3ý)" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln94206-55-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -264,7 +264,7 @@
 <LM>w#w-ln94206-55-p2s1Bw10</LM>
 </w.rf>
 <form>Evropě</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94206-55-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -590,7 +590,7 @@
 <LM>w#w-ln94206-55-p2s3w19</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS1----------</tag>
 </m>
 <m id="m-ln94206-55-p2s3w20">
 <src.rf>manual</src.rf>
@@ -624,7 +624,7 @@
 <LM>w#w-ln94206-55-p3s1w2</LM>
 </w.rf>
 <form>rozvody</form>
-<tag lemma="rozvod-1_^(manželství)" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="rozvod_^(manželství;vody)" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-ln94206-55-p3s1w3">
 <src.rf>manual</src.rf>
@@ -928,7 +928,7 @@
 <LM>w#w-ln94206-55-p3s2w10</LM>
 </w.rf>
 <form>rozvodu</form>
-<tag lemma="rozvod-1_^(manželství)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="rozvod_^(manželství;vody)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94206-55-p3s2w11">
 <src.rf>manual</src.rf>
@@ -1107,7 +1107,7 @@
 <LM>w#w-ln94206-55-p3s2w32</LM>
 </w.rf>
 <form>rozvod</form>
-<tag lemma="rozvod-1_^(manželství)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="rozvod_^(manželství;vody)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln94206-55-p3s2w33">
 <src.rf>manual</src.rf>
@@ -1149,7 +1149,7 @@
 <LM>w#w-ln94206-55-p4s1w3</LM>
 </w.rf>
 <form>rozvod</form>
-<tag lemma="rozvod-1_^(manželství)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="rozvod_^(manželství;vody)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94206-55-p4s1w4">
 <src.rf>manual</src.rf>
@@ -1264,7 +1264,7 @@
 <LM>w#w-ln94206-55-p4s1w17</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94206-55-p4s1w18">
 <src.rf>manual</src.rf>
@@ -1687,7 +1687,7 @@
 <LM>w#w-ln94206-55-p4s3w24</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94206-55-p4s3w25">
 <src.rf>manual</src.rf>
@@ -1743,7 +1743,7 @@
 <LM>w#w-ln94206-55-p4s3w31</LM>
 </w.rf>
 <form>rozvody</form>
-<tag lemma="rozvod-1_^(manželství)" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="rozvod_^(manželství;vody)" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-ln94206-55-p4s3w32">
 <src.rf>manual</src.rf>
@@ -1759,7 +1759,7 @@
 <LM>w#w-ln94206-55-p4s3w33</LM>
 </w.rf>
 <form>správné</form>
-<tag lemma="správný_^(podle_něj._měřítek;_př._chlap,_míra,...)" src="orig" selected="1">AAIP1----1A----</tag>
+<tag lemma="správný" src="orig" selected="1">AAIP1----1A----</tag>
 </m>
 <m id="m-ln94206-55-p4s3w34">
 <src.rf>manual</src.rf>
@@ -1859,7 +1859,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1925,7 +1925,7 @@
 <LM>w#w-ln94206-55-p4s4w21</LM>
 </w.rf>
 <form>rozvod</form>
-<tag lemma="rozvod-1_^(manželství)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="rozvod_^(manželství;vody)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94206-55-p4s4w22">
 <src.rf>manual</src.rf>
@@ -2050,7 +2050,7 @@
 <LM>w#w-ln94206-55-p5s1w9</LM>
 </w.rf>
 <form>rozvody</form>
-<tag lemma="rozvod-1_^(manželství)" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="rozvod_^(manželství;vody)" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-ln94206-55-p5s1w10">
 <src.rf>manual</src.rf>
@@ -2082,7 +2082,7 @@
 <LM>w#w-ln94206-55-p5s1w13</LM>
 </w.rf>
 <form>našeho</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSZS2-P1-------</tag>
 </m>
 <m id="m-ln94206-55-p5s1w14">
 <src.rf>manual</src.rf>
@@ -2196,7 +2196,7 @@
 <LM>w#w-ln94206-55-p5s2w3</LM>
 </w.rf>
 <form>rozvodovost</form>
-<tag lemma="rozvodovost-1_^(souv._s_rozvodem_manželství)_(*5ý-1)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="rozvodovost_^(*3ý)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94206-55-p5s2w4">
 <src.rf>manual</src.rf>
@@ -2414,7 +2414,7 @@
 <LM>w#w-ln94206-55-p5s3w18</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-ln94206-55-p5s3w19">
 <src.rf>manual</src.rf>
@@ -2717,7 +2717,7 @@
 <LM>w#w-ln94206-55-p5s5w13</LM>
 </w.rf>
 <form>rozvody</form>
-<tag lemma="rozvod-1_^(manželství)" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="rozvod_^(manželství;vody)" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-ln94206-55-p5s5w14">
 <src.rf>manual</src.rf>
@@ -2837,7 +2837,7 @@
 <LM>w#w-ln94206-55-p5s5w29</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-ln94206-55-p5s5w30">
 <src.rf>manual</src.rf>
@@ -2954,7 +2954,7 @@
 <LM>w#w-ln94206-55-p6s1w5</LM>
 </w.rf>
 <form>rozvodovost</form>
-<tag lemma="rozvodovost-1_^(souv._s_rozvodem_manželství)_(*5ý-1)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="rozvodovost_^(*3ý)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94206-55-p6s1w6">
 <src.rf>manual</src.rf>
@@ -3199,7 +3199,7 @@
 <LM>w#w-ln94206-55-p6s2w23</LM>
 </w.rf>
 <form>prostředky</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-ln94206-55-p6s2w24">
 <src.rf>manual</src.rf>
@@ -3574,7 +3574,7 @@
 <LM>w#w-ln94206-55-p6s3Bw31</LM>
 </w.rf>
 <form>děti</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-ln94206-55-p6s3Bw32">
 <src.rf>manual</src.rf>
@@ -3765,7 +3765,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -3971,7 +3971,7 @@
 <LM>w#w-ln94206-55-p6s6w10</LM>
 </w.rf>
 <form>rozvody</form>
-<tag lemma="rozvod-1_^(manželství)" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="rozvod_^(manželství;vody)" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-ln94206-55-p6s6w11">
 <src.rf>manual</src.rf>

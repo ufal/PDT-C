@@ -115,7 +115,7 @@
 <LM>w#w-mf930708-020-p1s1w14</LM>
 </w.rf>
 <form>daly</form>
-<tag lemma="dát" src="orig" selected="1">VpTP----R-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-mf930708-020-p1s1w15">
 <src.rf>manual</src.rf>

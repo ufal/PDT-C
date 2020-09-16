@@ -616,7 +616,7 @@
 <form>Intenzívní</form>
 <tag>
 <AM lemma="intenzívní" src="orig">AAFP1----1A----</AM>
-<AM lemma="intenzívní_,s_^(^DD**intenzivní)" src="manual" selected="1">AAFP1----1A----</AM>
+<AM lemma="intenzívní" src="manual" selected="1">AAFP1----1A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-122-p2s5w2">

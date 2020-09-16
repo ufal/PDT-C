@@ -675,7 +675,7 @@
 <LM>w#w-cmpr9406-024-p8s3w10</LM>
 </w.rf>
 <form>zkrácenou</form>
-<tag lemma="zkrácený_,a_^(*2t)" src="auto" selected="1">AAFS4----1A----</tag>
+<tag lemma="zkrácený_^(*4tit)" src="auto" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-cmpr9406-024-p8s3w11">
 <src.rf>manual</src.rf>
@@ -1541,7 +1541,7 @@
 <LM>w#w-cmpr9406-024-p9s1Bw4</LM>
 </w.rf>
 <form>promyšlenými</form>
-<tag lemma="promyšlený_^(*5slet)" src="orig" selected="1">AAFP7----1A----</tag>
+<tag lemma="promyšlený_^(*5slit)" src="orig" selected="1">AAFP7----1A----</tag>
 </m>
 <m id="m-cmpr9406-024-p9s1Bw5">
 <src.rf>manual</src.rf>
@@ -1647,7 +1647,7 @@
 <form>hodně</form>
 <tag>
 <AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="hodně_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-024-p9s1Bw18">

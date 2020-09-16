@@ -147,7 +147,7 @@
 <LM>w#w-lnd92254-031-p1s1w17</LM>
 </w.rf>
 <form>orgány</form>
-<tag lemma="orgán" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-lnd92254-031-p1s1w18">
 <src.rf>manual</src.rf>
@@ -455,7 +455,7 @@
 <LM>w#w-lnd92254-031-p2s1w10</LM>
 </w.rf>
 <form>Davida</form>
-<tag lemma="David_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="David-1_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92254-031-p2s1w11">
 <src.rf>manual</src.rf>

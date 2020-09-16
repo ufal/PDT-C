@@ -53,7 +53,7 @@
 <LM>w#w-mf920923-024-p2s1w2</LM>
 </w.rf>
 <form>druhému</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS3----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS3----------</tag>
 </m>
 <m id="m-mf920923-024-p2s1w3">
 <src.rf>manual</src.rf>
@@ -69,7 +69,7 @@
 <LM>w#w-mf920923-024-p2s1w4</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS2---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS2---------1</tag>
 </m>
 <m id="m-mf920923-024-p2s1w5">
 <src.rf>manual</src.rf>
@@ -95,7 +95,7 @@
 <form>Radio</form>
 <tag>
 <AM lemma="rádio_,a" src="orig">NNNS1-----A----</AM>
-<AM lemma="radio_,s_^(^DD**rádio)" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="radio-1_,s_^(^DD**rádio)" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-024-p2s1w8">
@@ -227,7 +227,7 @@
 <tag>
 <AM lemma="rádio_,a" src="orig">NNNS1-----A----</AM>
 <AM lemma="radio_,s_^(^DD**rádio" src="manual">NNNS1-----A----</AM>
-<AM lemma="radio_,s_^(^DD**rádio)" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="radio-1_,s_^(^DD**rádio)" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-024-p2s1w24">

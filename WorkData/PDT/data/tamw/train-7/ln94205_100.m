@@ -149,7 +149,7 @@
 <LM>w#w-ln94205-100-p2s1w12</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94205-100-p2s1w13">
 <src.rf>manual</src.rf>
@@ -839,7 +839,7 @@
 <LM>w#w-ln94205-100-p6s1w15</LM>
 </w.rf>
 <form>Miro</form>
-<tag lemma="Miro_;m" src="auto" selected="1">NNNS1-----A----</tag>
+<tag lemma="Miro-2_;m" src="auto" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94205-100-p6s1w16">
 <src.rf>manual</src.rf>

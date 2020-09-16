@@ -129,7 +129,7 @@
 <LM>w#w-ln94211-72-p2s1Cw9</LM>
 </w.rf>
 <form>orgán</form>
-<tag lemma="orgán" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94211-72-p2s1Cw10">
 <src.rf>manual</src.rf>
@@ -1178,7 +1178,7 @@
 <LM>w#w-ln94211-72-p3s4w30</LM>
 </w.rf>
 <form>lety</form>
-<tag lemma="rok" src="orig" selected="1">NNNP7-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP7-----A----</tag>
 </m>
 <m id="m-ln94211-72-p3s4w31">
 <src.rf>manual</src.rf>
@@ -1236,7 +1236,7 @@
 <form>fenomén</form>
 <tag>
 <AM lemma="fenomén-2" src="orig">NNIS4-----A----</AM>
-<AM lemma="fenomén" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
+<AM lemma="fenomén-2" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-72-p3s4w38">
@@ -1525,7 +1525,7 @@
 <LM>w#w-ln94211-72-p4s2w8</LM>
 </w.rf>
 <form>ducha</form>
-<tag lemma="duch" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="duch-1" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94211-72-p4s2w9">
 <src.rf>manual</src.rf>
@@ -2143,7 +2143,7 @@
 <LM>w#w-ln94211-72-p5s2w15</LM>
 </w.rf>
 <form>exkluzivní</form>
-<tag lemma="exkluzivní" src="orig" selected="1">AAIS4----1A----</tag>
+<tag lemma="exkluzivní_,s_^(^DD**exkluzívní)" src="orig" selected="1">AAIS4----1A----</tag>
 </m>
 <m id="m-ln94211-72-p5s2w16">
 <src.rf>manual</src.rf>
@@ -2502,7 +2502,7 @@
 <LM>w#w-ln94211-72-p5s4w27</LM>
 </w.rf>
 <form>zaujaté</form>
-<tag lemma="zaujatý_^(proti_někomu/něčemu)_(*3mout)" src="auto" selected="1">AANS1----1A----</tag>
+<tag lemma="zaujatý_^(upoutat_pozornost)" src="auto" selected="1">AANS1----1A----</tag>
 </m>
 <m id="m-ln94211-72-p5s4w28">
 <src.rf>manual</src.rf>
@@ -3036,7 +3036,7 @@
 <LM>w#w-ln94211-72-p7s1w3</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-ln94211-72-p7s1w4">
 <src.rf>manual</src.rf>

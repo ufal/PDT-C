@@ -123,7 +123,7 @@
 <LM>w#w-mf920923-108-p4s2w3</LM>
 </w.rf>
 <form>svrženému</form>
-<tag lemma="svržený_^(*4hnout)" src="orig" selected="1">AAMS3----1A----</tag>
+<tag lemma="svržený" src="orig" selected="1">AAMS3----1A----</tag>
 </m>
 <m id="m-mf920923-108-p4s2w4">
 <src.rf>manual</src.rf>

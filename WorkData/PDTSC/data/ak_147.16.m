@@ -74,7 +74,7 @@
 <AM lemma="bišonka_;U_^(rasa_psa)" src="auto" recommended="1">NNFP4-----A----</AM>
 <AM lemma="bišonka_;U_^(rasa_psa)" src="auto">NNFP5-----A----</AM>
 <AM lemma="bišonka_;U_^(rasa_psa)" src="auto">NNFS2-----A----</AM>
-<AM lemma="bišonek_;U_^(plemeno_psa)" src="manual" selected="1">NNMP4-----A----</AM>
+<AM lemma="bišonek_^(plemeno_psa)" src="manual" selected="1">NNMP4-----A----</AM>
 </tag>
 </m>
 <m id="m147-1624-1625">
@@ -343,7 +343,7 @@
 <AM lemma="co-1" src="auto" recommended="1">PQ--4----------</AM>
 <AM lemma="co-2_^(cože;_ale_co)" src="auto">TT-------------</AM>
 <AM lemma="co-3_^(když:_poté/od_té_doby,_co)" src="auto">J,-------------</AM>
-<AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto" selected="1">P4XXX----------</AM>
+<AM lemma="co-4_^(který:_o_těch,_co_odešli)" src="auto" selected="1">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
 </tag>
@@ -703,7 +703,7 @@
 <form>Slováka</form>
 <tag>
 <AM lemma="Slovák_;E" src="auto">NNMS2-----A----</AM>
-<AM lemma="Slovák_;E" src="auto" recommended="1">NNMS4-----A----</AM>
+<AM lemma="Slovák_;E_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m147-d-id187621-punct">
@@ -920,7 +920,7 @@
 </w.rf>
 <form>Děti</form>
 <tag>
-<AM lemma="dítě" src="auto" recommended="1">NNFP1-----A----</AM>
+<AM lemma="dítě-2" src="auto" recommended="1">NNFP1-----A----</AM>
 <AM lemma="dítě" src="auto">NNFP4-----A----</AM>
 <AM lemma="dítě" src="auto">NNFP5-----A----</AM>
 </tag>
@@ -1227,7 +1227,7 @@
 <AM lemma="Dali_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Dali_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Dali_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="dát" src="auto" recommended="1">VpMP----R-AAP--</AM>
+<AM lemma="dát-1" src="auto" recommended="1">VpMP----R-AAP--</AM>
 </tag>
 </m>
 <m id="m147-1684-1685">
@@ -1554,7 +1554,7 @@
 <AM lemma="první" src="auto">CrFP4----------</AM>
 <AM lemma="první" src="auto">CrFP5----------</AM>
 <AM lemma="první" src="auto">CrFS1----------</AM>
-<AM lemma="první" src="auto" recommended="1">CrFS2----------</AM>
+<AM lemma="první-1" src="auto" recommended="1">CrFS2----------</AM>
 <AM lemma="první" src="auto">CrFS3----------</AM>
 <AM lemma="první" src="auto">CrFS4----------</AM>
 <AM lemma="první" src="auto">CrFS5----------</AM>
@@ -1648,7 +1648,7 @@
 <AM lemma="špatný" src="auto">AAFS1----2A----</AM>
 <AM lemma="špatný" src="auto">AAFS2----2A----</AM>
 <AM lemma="špatný" src="auto">AAFS3----2A----</AM>
-<AM lemma="špatný" src="auto" recommended="1">AAFS4----2A----</AM>
+<AM lemma="horší" src="auto" recommended="1">AAFS4----2A----</AM>
 <AM lemma="špatný" src="auto">AAFS5----2A----</AM>
 <AM lemma="špatný" src="auto">AAFS6----2A----</AM>
 <AM lemma="špatný" src="auto">AAFS7----2A----</AM>
@@ -2141,7 +2141,7 @@
 </w.rf>
 <form>Děti</form>
 <tag>
-<AM lemma="dítě" src="auto" recommended="1">NNFP1-----A----</AM>
+<AM lemma="dítě-2" src="auto" recommended="1">NNFP1-----A----</AM>
 <AM lemma="dítě" src="auto">NNFP4-----A----</AM>
 <AM lemma="dítě" src="auto">NNFP5-----A----</AM>
 </tag>
@@ -2394,7 +2394,7 @@
 <tag>
 <AM lemma="hodně-1" src="auto">Ca--X----------</AM>
 <AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="hodně-3" src="auto" selected="1">Dg-------1A----</AM>
+<AM lemma="hodně_^(*1ý)" src="auto" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m147-d1t1546-13">
@@ -2508,7 +2508,7 @@
 <AM lemma="mateřský" src="auto" recommended="1">AANS4----1A----</AM>
 <AM lemma="mateřský" src="auto">AANS5----1A----</AM>
 <AM lemma="mateřský-2" src="manual">NNFS6-----A----</AM>
-<AM lemma="mateřská_,h" src="manual" selected="1">NNFS6-----A----</AM>
+<AM lemma="mateřská" src="manual" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m147-1761-1762">
@@ -2727,7 +2727,7 @@
 <AM lemma="stranit-1_^(nadržovat,_přilepšovat_někomu)" src="auto" recommended="1">VB-P---3P-AAI--</AM>
 <AM lemma="stranit-1_^(nadržovat,_přilepšovat_někomu)" src="auto">VB-S---3P-AAI--</AM>
 <AM lemma="stranit-2_^([se]_čeho,_vyhýbat_se_něčemu)" src="auto">VB-P---3P-AAI--</AM>
-<AM lemma="stranit-2_^([se]_čeho,_vyhýbat_se_něčemu)" src="auto" selected="1">VB-S---3P-AAI--</AM>
+<AM lemma="stranit_^([se]_čeho;nadržovat)" src="auto" selected="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m147-1769-1770">
@@ -2955,7 +2955,7 @@
 </w.rf>
 <form>nám</form>
 <tag>
-<AM lemma="já" src="auto" recommended="1">PP-P3--1-------</AM>
+<AM lemma="my" src="auto" recommended="1">PP-P3--1-------</AM>
 <AM lemma="náměstí_:B" src="auto">NNNXX-----A---8</AM>
 </tag>
 </m>

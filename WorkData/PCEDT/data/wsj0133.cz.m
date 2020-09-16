@@ -257,7 +257,7 @@
 <form>první</form>
 <tag>
 <AM lemma="první" src="auto">CrFP1----------</AM>
-<AM lemma="první" src="auto" selected="1">CrFP4----------</AM>
+<AM lemma="první-1" src="auto" selected="1">CrFP4----------</AM>
 <AM lemma="první" src="auto">CrFP5----------</AM>
 <AM lemma="první" src="auto">CrFS1----------</AM>
 <AM lemma="první" src="auto">CrFS2----------</AM>
@@ -403,7 +403,7 @@
 </w.rf>
 <form>šedého</form>
 <tag>
-<AM lemma="šedý" src="auto" recommended="1">AAIS2----1A----</AM>
+<AM lemma="šedý_;o" src="auto" recommended="1">AAIS2----1A----</AM>
 <AM lemma="šedý" src="auto">AAMS2----1A----</AM>
 <AM lemma="šedý" src="auto">AAMS4----1A----</AM>
 <AM lemma="šedý" src="auto">AANS2----1A----</AM>
@@ -625,7 +625,7 @@
 </w.rf>
 <form>šedého</form>
 <tag>
-<AM lemma="šedý" src="auto" recommended="1">AAIS2----1A----</AM>
+<AM lemma="šedý_;o" src="auto" recommended="1">AAIS2----1A----</AM>
 <AM lemma="šedý" src="auto">AAMS2----1A----</AM>
 <AM lemma="šedý" src="auto">AAMS4----1A----</AM>
 <AM lemma="šedý" src="auto">AANS2----1A----</AM>
@@ -795,7 +795,7 @@
 <AM lemma="šedý" src="auto">AAFP3----1A----</AM>
 <AM lemma="šedý" src="auto">AAIP3----1A----</AM>
 <AM lemma="šedý" src="auto">AAIS6----1A---7</AM>
-<AM lemma="šedý" src="auto" recommended="1">AAIS7----1A----</AM>
+<AM lemma="šedý_;o" src="auto" recommended="1">AAIS7----1A----</AM>
 <AM lemma="šedý" src="auto">AAMP3----1A----</AM>
 <AM lemma="šedý" src="auto">AAMS6----1A---7</AM>
 <AM lemma="šedý" src="auto">AAMS7----1A----</AM>

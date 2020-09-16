@@ -199,7 +199,7 @@
 <LM>w#w-ln94203-73-p2s1w15</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrMS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrMS1----------</tag>
 </m>
 <m id="m-ln94203-73-p2s1w16">
 <src.rf>manual</src.rf>
@@ -825,7 +825,7 @@
 <LM>w#w-ln94203-73-p2s6w1</LM>
 </w.rf>
 <form>Naše</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSHS1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSHS1-P1-------</tag>
 </m>
 <m id="m-ln94203-73-p2s6w2">
 <src.rf>manual</src.rf>
@@ -1092,7 +1092,7 @@
 <LM>w#w-ln94203-73-p2s7w10</LM>
 </w.rf>
 <form>růžové</form>
-<tag lemma="růžový" src="orig" selected="1">AAFS2----1A----</tag>
+<tag lemma="růžový_;o" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-ln94203-73-p2s7w11">
 <src.rf>manual</src.rf>

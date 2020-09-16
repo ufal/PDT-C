@@ -27,7 +27,7 @@
 <LM>w#w-cmpr9417-004-p3s1w2</LM>
 </w.rf>
 <form>Rady</form>
-<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-cmpr9417-004-p3s1w3">
 <src.rf>manual</src.rf>
@@ -275,7 +275,7 @@
 <LM>w#w-cmpr9417-004-p7s2w3</LM>
 </w.rf>
 <form>mne</form>
-<tag lemma="já_^(2./4.pád)" src="orig" selected="1">PP-S4--1-------</tag>
+<tag lemma="já" src="orig" selected="1">PP-S4--1-------</tag>
 </m>
 <m id="m-cmpr9417-004-p7s2w4">
 <src.rf>manual</src.rf>
@@ -772,7 +772,7 @@
 <LM>w#w-cmpr9417-004-p9s2w13</LM>
 </w.rf>
 <form>stanovenou</form>
-<tag lemma="stanovený_^(určit)_(*3it)" src="orig" selected="1">AAFS4----1A----</tag>
+<tag lemma="stanovený_^(*3it)" src="orig" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-cmpr9417-004-p9s2w14">
 <src.rf>manual</src.rf>
@@ -852,7 +852,7 @@
 <LM>w#w-cmpr9417-004-p9s2w23</LM>
 </w.rf>
 <form>podávání</form>
-<tag lemma="podávání_^(něco_[někomu]_[někam])_(*3at)" src="auto" selected="1">NNNS6-----A----</tag>
+<tag lemma="podávání_^(*3at)" src="auto" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-cmpr9417-004-p9s2w24">
 <src.rf>manual</src.rf>

@@ -104,7 +104,7 @@
 <LM>w#w-mf930703-125-p2s1w4</LM>
 </w.rf>
 <form>našeho</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSZS2-P1-------</tag>
 </m>
 <m id="m-mf930703-125-p2s1w5">
 <src.rf>manual</src.rf>
@@ -219,7 +219,7 @@
 <LM>w#w-mf930703-125-p2s1w18</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FP4---------1</tag>
 </m>
 <m id="m-mf930703-125-p2s1w19">
 <src.rf>manual</src.rf>
@@ -227,7 +227,7 @@
 <LM>w#w-mf930703-125-p2s1w19</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFP4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFP4----------</tag>
 </m>
 <m id="m-mf930703-125-p2s1w20">
 <src.rf>manual</src.rf>
@@ -917,7 +917,7 @@
 <LM>w#w-mf930703-125-p3s1w26</LM>
 </w.rf>
 <form>mocnosti</form>
-<tag lemma="mocnost_^(mající_moc)_(*3ý)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="mocnost_^(*3ý)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930703-125-p3s1w27">
 <src.rf>manual</src.rf>
@@ -1205,7 +1205,7 @@
 <LM>w#w-mf930703-125-p3s2w22</LM>
 </w.rf>
 <form>napjatým</form>
-<tag lemma="napjatý_^(*4nout)" src="orig" selected="1">AAIP3----1A----</tag>
+<tag lemma="napjatý" src="orig" selected="1">AAIP3----1A----</tag>
 </m>
 <m id="m-mf930703-125-p3s2w23">
 <src.rf>manual</src.rf>

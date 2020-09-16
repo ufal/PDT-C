@@ -6181,7 +6181,7 @@
 <AM lemma="Virginie_;G" src="auto">NNFP4-----A----</AM>
 <AM lemma="Virginie_;G" src="auto">NNFP5-----A----</AM>
 <AM lemma="Virginie_;G" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Virginie_;G" src="auto" selected="1">NNFS2-----A----</AM>
+<AM lemma="Virginie_;G_;Y" src="auto" selected="1">NNFS2-----A----</AM>
 <AM lemma="Virginie_;G" src="auto">NNFS5-----A----</AM>
 </tag>
 </m>

@@ -128,7 +128,7 @@
 <LM>w#w-lnd94104-128-p1s1Bw9</LM>
 </w.rf>
 <form>sudích</form>
-<tag lemma="sudí" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="sudí-1" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 </s>
 <s id="m-lnd94104-128-p1s1C">
@@ -301,7 +301,7 @@
 <LM>w#w-lnd94104-128-p1s1Ew8</LM>
 </w.rf>
 <form>hodině</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd94104-128-p1s1Ew9">
 <src.rf>manual</src.rf>
@@ -455,7 +455,7 @@
 <LM>w#w-lnd94104-128-p1s2w3</LM>
 </w.rf>
 <form>tragédie</form>
-<tag lemma="tragedie" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="tragédie" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94104-128-p1s2w4">
 <src.rf>manual</src.rf>
@@ -487,7 +487,7 @@
 <LM>w#w-lnd94104-128-p1s2w7</LM>
 </w.rf>
 <form>stadionu</form>
-<tag lemma="stadión" src="orig" selected="1">NNIS6-----A---1</tag>
+<tag lemma="stadion_,s_^(^DD**stadión)" src="orig" selected="1">NNIS6-----A---1</tag>
 </m>
 <m id="m-lnd94104-128-p1s2w8">
 <src.rf>manual</src.rf>
@@ -805,7 +805,7 @@
 <LM>w#w-lnd94104-128-p1s4w8</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrIS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS1----------</tag>
 </m>
 <m id="m-lnd94104-128-p1s4w9">
 <src.rf>manual</src.rf>
@@ -858,7 +858,7 @@
 <LM>w#w-lnd94104-128-p1s5w3</LM>
 </w.rf>
 <form>Scala</form>
-<tag lemma="Scala_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Scala-1_;G" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94104-128-p1s5w4">
 <src.rf>manual</src.rf>
@@ -1436,7 +1436,7 @@
 <LM>w#w-lnd94104-128-p1s7Aw14</LM>
 </w.rf>
 <form>nejlepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAIS1----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAIS1----3A----</tag>
 </m>
 <m id="m-lnd94104-128-p1s7Aw15">
 <src.rf>manual</src.rf>
@@ -1782,7 +1782,7 @@
 <LM>w#w-lnd94104-128-p1s8w3</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1XP1FS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XP1FS3-------</tag>
 </m>
 <m id="m-lnd94104-128-p1s8w4">
 <src.rf>manual</src.rf>
@@ -2019,7 +2019,7 @@
 <LM>w#w-lnd94104-128-p1s9w5</LM>
 </w.rf>
 <form>stadionu</form>
-<tag lemma="stadión" src="orig" selected="1">NNIS6-----A---1</tag>
+<tag lemma="stadion_,s_^(^DD**stadión)" src="orig" selected="1">NNIS6-----A---1</tag>
 </m>
 <m id="m-lnd94104-128-p1s9w6">
 <src.rf>manual</src.rf>

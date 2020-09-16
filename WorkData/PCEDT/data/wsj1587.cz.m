@@ -1109,7 +1109,7 @@
 </w.rf>
 <form>viru</form>
 <tag>
-<AM lemma="vir" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="vir-1" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="vir" src="auto">NNIS3-----A----</AM>
 <AM lemma="vir" src="auto">NNIS6-----A----</AM>
 </tag>
@@ -1634,7 +1634,7 @@
 <LM>w#w-wsj1587-001-p1s5W23</LM>
 </w.rf>
 <form>virem</form>
-<tag lemma="vir" src="auto" recommended="1">NNIS7-----A----</tag>
+<tag lemma="vir-1" src="auto" recommended="1">NNIS7-----A----</tag>
 </m>
 <m id="m-wsj1587-001-p1s5W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2239,7 +2239,7 @@
 </w.rf>
 <form>viru</form>
 <tag>
-<AM lemma="vir" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="vir-1" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="vir" src="auto">NNIS3-----A----</AM>
 <AM lemma="vir" src="auto">NNIS6-----A----</AM>
 </tag>
@@ -2483,7 +2483,7 @@
 </w.rf>
 <form>nám</form>
 <tag>
-<AM lemma="já" src="auto" recommended="1">PP-P3--1-------</AM>
+<AM lemma="my" src="auto" recommended="1">PP-P3--1-------</AM>
 <AM lemma="náměstí_:B" src="auto">NNNXX-----A---8</AM>
 </tag>
 </m>
@@ -3246,7 +3246,7 @@
 <AM lemma="vystavení_^(např._potvrzení)_(*3it)" src="auto">NNNP4-----A----</AM>
 <AM lemma="vystavení_^(např._potvrzení)_(*3it)" src="auto">NNNP5-----A----</AM>
 <AM lemma="vystavení_^(např._potvrzení)_(*3it)" src="auto">NNNS1-----A----</AM>
-<AM lemma="vystavení_^(např._potvrzení)_(*3it)" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="vystavení_^(*3it)" src="auto" recommended="1">NNNS2-----A----</AM>
 <AM lemma="vystavení_^(např._potvrzení)_(*3it)" src="auto">NNNS3-----A----</AM>
 <AM lemma="vystavení_^(např._potvrzení)_(*3it)" src="auto">NNNS4-----A----</AM>
 <AM lemma="vystavení_^(např._potvrzení)_(*3it)" src="auto">NNNS5-----A----</AM>
@@ -3273,7 +3273,7 @@
 <form>viru</form>
 <tag>
 <AM lemma="vir" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="vir" src="auto" selected="1">NNIS3-----A----</AM>
+<AM lemma="vir-1" src="auto" selected="1">NNIS3-----A----</AM>
 <AM lemma="vir" src="auto">NNIS6-----A----</AM>
 </tag>
 </m>
@@ -3439,7 +3439,7 @@
 <form>nemocí</form>
 <tag>
 <AM lemma="nemoc_^(choroba)" src="auto">NNFP2-----A----</AM>
-<AM lemma="nemoc_^(choroba)" src="auto" recommended="1">NNFS7-----A----</AM>
+<AM lemma="nemoc" src="auto" recommended="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1587-001-p1s11W8-Ta">
@@ -3965,7 +3965,7 @@
 <form>tu</form>
 <tag>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" recommended="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1587-001-p1s12W30-Ta">

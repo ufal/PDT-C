@@ -66,7 +66,7 @@
 <LM>w#w-lnd92251-020-p2s1w1</LM>
 </w.rf>
 <form>Nadšené</form>
-<tag lemma="nadšený_^(*4chnout)" src="orig" selected="1">AANS1----1A----</tag>
+<tag lemma="nadšený" src="orig" selected="1">AANS1----1A----</tag>
 </m>
 <m id="m-lnd92251-020-p2s1w2">
 <src.rf>manual</src.rf>
@@ -74,7 +74,7 @@
 <LM>w#w-lnd92251-020-p2s1w2</LM>
 </w.rf>
 <form>přijetí</form>
-<tag lemma="přijetí_^(*3mout)" src="auto" selected="1">NNNS1-----A----</tag>
+<tag lemma="přijetí_^(*1)_(*3mout)" src="auto" selected="1">NNNS1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92251-020-p3s1">
@@ -1303,7 +1303,7 @@
 <LM>w#w-lnd92251-020-p3s7w18</LM>
 </w.rf>
 <form>ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-lnd92251-020-p3s7w19">
 <src.rf>manual</src.rf>

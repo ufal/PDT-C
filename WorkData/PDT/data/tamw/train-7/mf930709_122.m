@@ -51,7 +51,7 @@
 <LM>w#w-mf930709-122-p1s1w5</LM>
 </w.rf>
 <form>Wallise</form>
-<tag lemma="Wallis_;Y" src="auto" selected="1">NNMS4-----A----</tag>
+<tag lemma="Wallis-1_;Y" src="auto" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf930709-122-p1s1w6">
 <src.rf>manual</src.rf>
@@ -258,7 +258,7 @@
 <LM>w#w-mf930709-122-p2s1Bw18</LM>
 </w.rf>
 <form>Wallise</form>
-<tag lemma="Wallis_;Y" src="auto" selected="1">NNMS4-----A----</tag>
+<tag lemma="Wallis-1_;Y" src="auto" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf930709-122-p2s1Bw19">
 <src.rf>manual</src.rf>
@@ -324,7 +324,7 @@
 <LM>w#w-mf930709-122-p2s2w2</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf930709-122-p2s2w3">
 <src.rf>manual</src.rf>
@@ -406,7 +406,7 @@
 <LM>w#w-mf930709-122-p3s1w1</LM>
 </w.rf>
 <form>Wallis</form>
-<tag lemma="Wallis_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Wallis-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-122-p3s1w2">
 <src.rf>manual</src.rf>
@@ -462,7 +462,7 @@
 <LM>w#w-mf930709-122-p3s1w8</LM>
 </w.rf>
 <form>činitele</form>
-<tag lemma="činitel" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="činitel-1" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930709-122-p3s1w9">
 <src.rf>manual</src.rf>
@@ -579,7 +579,7 @@
 <AM lemma="předávání-3_^(někomu_něco)_(*5at-3)" src="auto">NNNP4-----A----</AM>
 <AM lemma="předávání-3_^(někomu_něco)_(*5at-3)" src="auto">NNNP5-----A----</AM>
 <AM lemma="předávání-3_^(někomu_něco)_(*5at-3)" src="auto">NNNS1-----A----</AM>
-<AM lemma="předávání-3_^(někomu_něco)_(*5at-3)" src="auto" recommended="1" selected="1">NNNS2-----A----</AM>
+<AM lemma="předávání_^(*3at)" src="auto" recommended="1" selected="1">NNNS2-----A----</AM>
 <AM lemma="předávání-3_^(někomu_něco)_(*5at-3)" src="auto">NNNS3-----A----</AM>
 <AM lemma="předávání-3_^(někomu_něco)_(*5at-3)" src="auto">NNNS4-----A----</AM>
 <AM lemma="předávání-3_^(někomu_něco)_(*5at-3)" src="auto">NNNS5-----A----</AM>
@@ -758,7 +758,7 @@
 <AM lemma="předávání-3_^(někomu_něco)_(*5at-3)" src="auto">NNNP4-----A----</AM>
 <AM lemma="předávání-3_^(někomu_něco)_(*5at-3)" src="auto">NNNP5-----A----</AM>
 <AM lemma="předávání-3_^(někomu_něco)_(*5at-3)" src="auto">NNNS1-----A----</AM>
-<AM lemma="předávání-3_^(někomu_něco)_(*5at-3)" src="auto" recommended="1" selected="1">NNNS2-----A----</AM>
+<AM lemma="předávání_^(*3at)" src="auto" recommended="1" selected="1">NNNS2-----A----</AM>
 <AM lemma="předávání-3_^(někomu_něco)_(*5at-3)" src="auto">NNNS3-----A----</AM>
 <AM lemma="předávání-3_^(někomu_něco)_(*5at-3)" src="auto">NNNS4-----A----</AM>
 <AM lemma="předávání-3_^(někomu_něco)_(*5at-3)" src="auto">NNNS5-----A----</AM>
@@ -859,7 +859,7 @@
 <LM>w#w-mf930709-122-p3s3w22</LM>
 </w.rf>
 <form>Wallis</form>
-<tag lemma="Wallis_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Wallis-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-122-p3s3w23">
 <src.rf>manual</src.rf>
@@ -979,7 +979,7 @@
 <LM>w#w-mf930709-122-p3s4w12</LM>
 </w.rf>
 <form>proto</form>
-<tag lemma="proto-2_^(dal_mu_co_proto,_tak_proto!)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="proto-2_^(proto_že)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf930709-122-p3s4w13">
 <src.rf>manual</src.rf>
@@ -1003,7 +1003,7 @@
 <LM>w#w-mf930709-122-p3s4w15</LM>
 </w.rf>
 <form>Wallis</form>
-<tag lemma="Wallis_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Wallis-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-122-p3s4w16">
 <src.rf>manual</src.rf>
@@ -1109,7 +1109,7 @@
 <LM>w#w-mf930709-122-p4s1w2</LM>
 </w.rf>
 <form>Wallisovi</form>
-<tag lemma="Wallis_;Y" src="orig" selected="1">NNMS3-----A---1</tag>
+<tag lemma="Wallis-1_;Y" src="orig" selected="1">NNMS3-----A---1</tag>
 </m>
 <m id="m-mf930709-122-p4s1w3">
 <src.rf>manual</src.rf>
@@ -1181,7 +1181,7 @@
 <LM>w#w-mf930709-122-p4s1w11</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-mf930709-122-p4s1w12">
 <src.rf>manual</src.rf>

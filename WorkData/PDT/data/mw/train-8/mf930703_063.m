@@ -61,7 +61,7 @@
 <LM>w#w-mf930703-063-p2s1w5</LM>
 </w.rf>
 <form>Sobotky</form>
-<tag lemma="Sobotka_;G" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="Sobotka-1_;G" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930703-063-p2s1w6">
 <src.rf>manual</src.rf>
@@ -109,7 +109,7 @@
 <LM>w#w-mf930703-063-p2s1w11</LM>
 </w.rf>
 <form>představením</form>
-<tag lemma="představení-2_^(divadelní,_filmové_apod.)" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="představení-1_^(*5it-1)" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-mf930703-063-p2s1w12">
 <src.rf>manual</src.rf>

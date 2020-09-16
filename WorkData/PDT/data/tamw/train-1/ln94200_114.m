@@ -35,7 +35,7 @@
 <LM>w#w-ln94200-114-p1s1w3</LM>
 </w.rf>
 <form>vydání</form>
-<tag lemma="vydání-2_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)_(*5at-2)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="vydání_^(*3at)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln94200-114-p1s1w4">
 <src.rf>manual</src.rf>
@@ -316,7 +316,7 @@
 <LM>w#w-ln94200-114-p2s2w5</LM>
 </w.rf>
 <form>tajná</form>
-<tag lemma="tajný" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-ln94200-114-p2s2w6">
 <src.rf>manual</src.rf>

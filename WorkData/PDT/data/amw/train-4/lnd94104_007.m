@@ -1178,7 +1178,7 @@
 <LM>w#w-lnd94104-007-p1s13Aw1</LM>
 </w.rf>
 <form>Druhá</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS1----------</tag>
 </m>
 <m id="m-lnd94104-007-p1s13Aw2">
 <src.rf>manual</src.rf>
@@ -1234,7 +1234,7 @@
 <LM>w#w-lnd94104-007-p1s13Aw8</LM>
 </w.rf>
 <form>převzetí</form>
-<tag lemma="převzetí_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="orig" selected="1">NNNS3-----A----</tag>
+<tag lemma="převzetí_^(*3ít)" src="orig" selected="1">NNNS3-----A----</tag>
 </m>
 <m id="m-lnd94104-007-p1s13Aw9">
 <src.rf>manual</src.rf>
@@ -1250,7 +1250,7 @@
 <LM>w#w-lnd94104-007-p1s13Aw10</LM>
 </w.rf>
 <form>odpovědnosti</form>
-<tag lemma="odpovědnost_^(kdo_za_něco_odpovídá)_(*3ý)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="odpovědnost_^(*3ý)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94104-007-p1s13Aw11">
 <src.rf>manual</src.rf>

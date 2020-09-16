@@ -182,7 +182,7 @@
 <LM>w#w-ln94210-124-p2s1Bw11</LM>
 </w.rf>
 <form>Zlaté</form>
-<tag lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAFS2----1A----</tag>
+<tag lemma="zlatý-1_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-ln94210-124-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -307,7 +307,7 @@
 <LM>w#w-ln94210-124-p2s2w9</LM>
 </w.rf>
 <form>nejlepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAMP4----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAMP4----3A----</tag>
 </m>
 <m id="m-ln94210-124-p2s2w10">
 <src.rf>manual</src.rf>
@@ -616,7 +616,7 @@
 <LM>w#w-ln94210-124-p2s3w22</LM>
 </w.rf>
 <form>jezdci</form>
-<tag lemma="jezdec" src="orig" selected="1">NNMP7-----A----</tag>
+<tag lemma="jezdec-1" src="orig" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-ln94210-124-p2s3w23">
 <src.rf>manual</src.rf>
@@ -719,7 +719,7 @@
 </w.rf>
 <form>Boyce</form>
 <tag>
-<AM lemma="Boyce_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Boyce-2_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Boyc_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Boyc_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Boyc_;Y" src="auto">NNMS4-----A----</AM>
@@ -858,7 +858,7 @@
 </w.rf>
 <form>Doncaster</form>
 <tag>
-<AM lemma="Doncaster_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Doncaster-2_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Doncaster_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Doncaster_;G" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -933,7 +933,7 @@
 <LM>w#w-ln94210-124-p2s4Aw18</LM>
 </w.rf>
 <form>Crump</form>
-<tag lemma="Crump_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Crump-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94210-124-p2s4B">
@@ -1708,7 +1708,7 @@
 <LM>w#w-ln94210-124-p3s3w8</LM>
 </w.rf>
 <form>Zlatá</form>
-<tag lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="zlatý-1_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-ln94210-124-p3s3w9">
 <src.rf>manual</src.rf>

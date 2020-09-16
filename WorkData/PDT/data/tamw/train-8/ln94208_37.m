@@ -607,7 +607,7 @@
 <LM>w#w-ln94208-37-p2s3w25</LM>
 </w.rf>
 <form>naší</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS2-P1-------</tag>
 </m>
 <m id="m-ln94208-37-p2s3w26">
 <src.rf>manual</src.rf>
@@ -759,7 +759,7 @@
 <LM>w#w-ln94208-37-p2s3w44</LM>
 </w.rf>
 <form>jehož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P1XXXZS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXZS3-------</tag>
 </m>
 <m id="m-ln94208-37-p2s3w45">
 <src.rf>manual</src.rf>

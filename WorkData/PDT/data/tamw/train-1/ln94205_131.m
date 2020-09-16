@@ -37,7 +37,7 @@
 <form>fanatismu</form>
 <tag>
 <AM lemma="fanatismus" src="orig">NNIS3-----A----</AM>
-<AM lemma="fanatismus_,s_^(^DD**fanatizsmus)" src="manual" selected="1">NNIS3-----A----</AM>
+<AM lemma="fanatismus_,s_^(^DD**fanatizmus)" src="manual" selected="1">NNIS3-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-131-p1s1w4">
@@ -80,7 +80,7 @@
 <LM>w#w-ln94205-131-p2s1Aw3</LM>
 </w.rf>
 <form>Amos</form>
-<tag lemma="Amos_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Amos-1_;Y_,s_^(^DD**Ámos)" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-131-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -513,7 +513,7 @@
 <LM>w#w-ln94205-131-p2s4w3</LM>
 </w.rf>
 <form>Amos</form>
-<tag lemma="Amos_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Amos-1_;Y_,s_^(^DD**Ámos)" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-131-p2s4w4">
 <src.rf>manual</src.rf>
@@ -620,7 +620,7 @@
 <LM>w#w-ln94205-131-p2s4w16</LM>
 </w.rf>
 <form>druhou</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS4----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS4----------</tag>
 </m>
 <m id="m-ln94205-131-p2s4w17">
 <src.rf>manual</src.rf>
@@ -780,7 +780,7 @@
 <LM>w#w-ln94205-131-p2s4w37</LM>
 </w.rf>
 <form>správné</form>
-<tag lemma="správný_^(podle_něj._měřítek;_př._chlap,_míra,...)" src="orig" selected="1">AANS1----1A----</tag>
+<tag lemma="správný" src="orig" selected="1">AANS1----1A----</tag>
 </m>
 <m id="m-ln94205-131-p2s4w38">
 <src.rf>manual</src.rf>
@@ -971,7 +971,7 @@
 <LM>w#w-ln94205-131-p2s6Aw17</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP6----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP6----------</tag>
 </m>
 <m id="m-ln94205-131-p2s6Aw18">
 <src.rf>manual</src.rf>
@@ -1191,7 +1191,7 @@
 <LM>w#w-ln94205-131-p3s2w7</LM>
 </w.rf>
 <form>neumí</form>
-<tag lemma="umět_^(mít_schopnost_něco_dělat)" src="auto" selected="1">VB-S---3P-NAI--</tag>
+<tag lemma="umět" src="auto" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-ln94205-131-p3s2w8">
 <src.rf>manual</src.rf>
@@ -1336,7 +1336,7 @@
 <form>fanatismu</form>
 <tag>
 <AM lemma="fanatismus" src="orig">NNIS2-----A----</AM>
-<AM lemma="fanatismus_^(^DD**fanatizmus)" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="fanatismus_,s_^(^DD**fanatizmus)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-131-p4s2w6">
@@ -1795,7 +1795,7 @@
 <LM>w#w-ln94205-131-p5s3w19</LM>
 </w.rf>
 <form>lidi</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-ln94205-131-p5s3w20">
 <src.rf>manual</src.rf>
@@ -1813,7 +1813,7 @@
 <form>fanatismu</form>
 <tag>
 <AM lemma="fanatismus" src="orig">NNIS3-----A----</AM>
-<AM lemma="fanatismus_^(^DD**fanatizmus)" src="manual" selected="1">NNIS3-----A----</AM>
+<AM lemma="fanatismus_,s_^(^DD**fanatizmus)" src="manual" selected="1">NNIS3-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-131-p5s3w22">
@@ -1870,7 +1870,7 @@
 <LM>w#w-ln94205-131-p5s3w28</LM>
 </w.rf>
 <form>Nobelovu</form>
-<tag lemma="Nobelův_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
+<tag lemma="Nobelův_;Y_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
 </m>
 <m id="m-ln94205-131-p5s3w29">
 <src.rf>manual</src.rf>
@@ -1886,7 +1886,7 @@
 <LM>w#w-ln94205-131-p5s3w30</LM>
 </w.rf>
 <form>ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94205-131-p5s3w31">
 <src.rf>manual</src.rf>
@@ -2310,7 +2310,7 @@
 <LM>w#w-ln94205-131-p7s2w17</LM>
 </w.rf>
 <form>druhému</form>
-<tag lemma="druhý" src="orig" selected="1">CrMS3----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrMS3----------</tag>
 </m>
 <m id="m-ln94205-131-p7s2w18">
 <src.rf>manual</src.rf>
@@ -2472,7 +2472,7 @@
 <form>fanatismus</form>
 <tag>
 <AM lemma="fanatismus" src="orig">NNIS1-----A----</AM>
-<AM lemma="fanatismus_^(^DD**fanatizmus)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="fanatismus_,s_^(^DD**fanatizmus)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-131-p7s4w11">
@@ -2647,7 +2647,7 @@
 <LM>w#w-ln94205-131-p8s1w1</LM>
 </w.rf>
 <form>Delší</form>
-<tag lemma="dlouhý-1_^(fyz._délka;_př._dlouhá_tyč)" src="orig" selected="1">AAIS4----2A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAIS4----2A----</tag>
 </m>
 <m id="m-ln94205-131-p8s1w2">
 <src.rf>manual</src.rf>
@@ -2671,7 +2671,7 @@
 <LM>w#w-ln94205-131-p8s1w4</LM>
 </w.rf>
 <form>Amosem</form>
-<tag lemma="Amos_;Y" src="auto" selected="1">NNMS7-----A----</tag>
+<tag lemma="Amos-1_;Y_,s_^(^DD**Ámos)" src="auto" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94205-131-p8s1w5">
 <src.rf>manual</src.rf>

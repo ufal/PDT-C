@@ -103,7 +103,7 @@
 <LM>w#w-cmpr9415-020-p7s1w4</LM>
 </w.rf>
 <form>mé</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSIP1-S1------1</tag>
+<tag lemma="můj" src="orig" selected="1">PSIP1-S1------1</tag>
 </m>
 <m id="m-cmpr9415-020-p7s1w5">
 <src.rf>manual</src.rf>
@@ -257,7 +257,7 @@
 <LM>w#w-cmpr9415-020-p7s2w11</LM>
 </w.rf>
 <form>nezaměstnanosti</form>
-<tag lemma="nezaměstnanost-2_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="nezaměstnanost_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-cmpr9415-020-p7s2w12">
 <src.rf>manual</src.rf>
@@ -275,7 +275,7 @@
 <LM>w#w-cmpr9415-020-p7s3w1</LM>
 </w.rf>
 <form>Děti</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-cmpr9415-020-p7s3w2">
 <src.rf>manual</src.rf>
@@ -599,7 +599,7 @@
 <LM>w#w-cmpr9415-020-p9s1w5</LM>
 </w.rf>
 <form>můj</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSYS1-S1-------</tag>
+<tag lemma="můj" src="orig" selected="1">PSYS1-S1-------</tag>
 </m>
 <m id="m-cmpr9415-020-p9s1w6">
 <src.rf>manual</src.rf>
@@ -763,7 +763,7 @@
 <LM>w#w-cmpr9415-020-p10s1w2</LM>
 </w.rf>
 <form>Hovorková</form>
-<tag lemma="Hovorková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Hovorková_;Y_^(*3a)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-020-p10s1w3">
 <src.rf>manual</src.rf>
@@ -779,7 +779,7 @@
 <LM>w#w-cmpr9415-020-p10s1w4</LM>
 </w.rf>
 <form>Příbram</form>
-<tag lemma="Příbram_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Příbram-2_;G" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9415-020-p11s1">
@@ -907,7 +907,7 @@
 <LM>w#w-cmpr9415-020-p11s1w15</LM>
 </w.rf>
 <form>vašeho</form>
-<tag lemma="tvůj_^(přivlast.)" src="orig" selected="1">PSMS4-P2-------</tag>
+<tag lemma="váš" src="orig" selected="1">PSMS4-P2-------</tag>
 </m>
 <m id="m-cmpr9415-020-p11s1w16">
 <src.rf>manual</src.rf>
@@ -1043,7 +1043,7 @@
 <LM>w#w-cmpr9415-020-p11s1w32</LM>
 </w.rf>
 <form>nezdanitelných</form>
-<tag lemma="zdanitelný_^(vypočítat_daň)_(*4)" src="auto" selected="1">AAFP2----1N----</tag>
+<tag lemma="zdanitelný_^(*4)" src="auto" selected="1">AAFP2----1N----</tag>
 </m>
 <m id="m-cmpr9415-020-p11s1w33">
 <src.rf>manual</src.rf>
@@ -1173,7 +1173,7 @@
 <LM>w#w-cmpr9415-020-p11s2w12</LM>
 </w.rf>
 <form>nezaměstnanosti</form>
-<tag lemma="nezaměstnanost-2_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="nezaměstnanost_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-cmpr9415-020-p11s2w13">
 <src.rf>manual</src.rf>

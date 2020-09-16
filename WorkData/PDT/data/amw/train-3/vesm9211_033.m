@@ -83,7 +83,7 @@
 <LM>w#w-vesm9211-033-p1s1w9</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-vesm9211-033-p1s1w10">
 <src.rf>manual</src.rf>
@@ -374,7 +374,7 @@
 <LM>w#w-vesm9211-033-p2s1w18</LM>
 </w.rf>
 <form>Coloradu</form>
-<tag lemma="Colorado_;G" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="Colorado-1_;G" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-vesm9211-033-p2s1w19">
 <src.rf>manual</src.rf>
@@ -881,7 +881,7 @@
 <LM>w#w-vesm9211-033-p3s2w12</LM>
 </w.rf>
 <form>dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-vesm9211-033-p3s2w13">
 <src.rf>manual</src.rf>
@@ -1121,7 +1121,7 @@
 <form>čipmankové</form>
 <tag>
 <AM lemma="čipmank_;U" src="orig">NNMP1-----A----</AM>
-<AM lemma="čipmank_;U" src="auto" recommended="1" selected="1">NNMP1-----A---1</AM>
+<AM lemma="čipmank" src="auto" recommended="1" selected="1">NNMP1-----A---1</AM>
 <AM lemma="čipmank_;U" src="auto">NNMP5-----A---1</AM>
 </tag>
 </m>
@@ -1244,7 +1244,7 @@
 <LM>w#w-vesm9211-033-p3s4w20</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-vesm9211-033-p3s4w21">
 <src.rf>manual</src.rf>
@@ -2008,7 +2008,7 @@
 <form>čipmankové</form>
 <tag>
 <AM lemma="čipmank_;U" src="orig">NNMP1-----A----</AM>
-<AM lemma="čipmank_;U" src="auto" recommended="1" selected="1">NNMP1-----A---1</AM>
+<AM lemma="čipmank" src="auto" recommended="1" selected="1">NNMP1-----A---1</AM>
 <AM lemma="čipmank_;U" src="auto">NNMP5-----A---1</AM>
 </tag>
 </m>
@@ -3041,7 +3041,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -3099,7 +3099,7 @@
 <LM>w#w-vesm9211-033-p3s17w9</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-vesm9211-033-p3s17w10">
 <src.rf>manual</src.rf>
@@ -4095,7 +4095,7 @@
 <LM>w#w-vesm9211-033-p6s2w8</LM>
 </w.rf>
 <form>umění</form>
-<tag lemma="umění_^(mít_schopnost_něco_dělat)_(*2t)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="umění_^(*2t)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-vesm9211-033-p6s2w9">
 <src.rf>manual</src.rf>
@@ -4968,7 +4968,7 @@
 <LM>w#w-vesm9211-033-p9s1w40</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-vesm9211-033-p9s1w41">
 <src.rf>manual</src.rf>
@@ -6342,7 +6342,7 @@
 <LM>w#w-vesm9211-033-p10s2w31</LM>
 </w.rf>
 <form>nebrání</form>
-<tag lemma="bránit_^(klást_překážky)" src="auto" selected="1">VB-S---3P-NAI--</tag>
+<tag lemma="bránit" src="auto" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-vesm9211-033-p10s2w32">
 <src.rf>manual</src.rf>
@@ -6382,7 +6382,7 @@
 <LM>w#w-vesm9211-033-p10s2w37</LM>
 </w.rf>
 <form>dál</form>
-<tag lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="dál-3_,s_^(také,_za_další)_(^DD**dále-3)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-vesm9211-033-p10s2w38">
 <src.rf>manual</src.rf>
@@ -7284,7 +7284,7 @@
 <LM>w#w-vesm9211-033-p10s5Bw5</LM>
 </w.rf>
 <form>dinosaura</form>
-<tag lemma="dinosaur" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="dinosaurus" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-vesm9211-033-p10s5Bw6">
 <src.rf>manual</src.rf>
@@ -7640,7 +7640,7 @@
 <form>skanovacího</form>
 <tag>
 <AM lemma="scanovací_^(*2t)" src="orig">AAIS2----1A----</AM>
-<AM lemma="skanovací_,s_^(^DD**scanovací)_^(*2t)" src="manual" selected="1">AAIS2----1A----</AM>
+<AM lemma="skanovací_^(^DD**scanovací)_(*2t)" src="manual" selected="1">AAIS2----1A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-033-p10s6w6">
@@ -8002,7 +8002,7 @@
 <AM lemma="egenburg_;U_,x" src="auto">NNIS3-----A----</AM>
 <AM lemma="egenburg_;U_,x" src="auto">NNIS5-----A----</AM>
 <AM lemma="egenburg_;U_,x" src="auto">NNIS6-----A----</AM>
-<AM lemma="eggenburg_;U_,i_^(^DS**egenburg)" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="eggenburg_,i_^(^DS**egenburg)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-033-p10s7w9">
@@ -8360,7 +8360,7 @@
 <LM>w#w-vesm9211-033-p10s8Cw5</LM>
 </w.rf>
 <form>Zlatý</form>
-<tag lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAIS1----1A----</tag>
+<tag lemma="zlatý-1_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-vesm9211-033-p10s8Cw6">
 <src.rf>manual</src.rf>
@@ -8502,7 +8502,7 @@
 <LM>w#w-vesm9211-033-p10s8Cw22</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS1----------</tag>
 </m>
 <m id="m-vesm9211-033-p10s8Cw23">
 <src.rf>manual</src.rf>
@@ -8543,7 +8543,7 @@
 <LM>w#w-vesm9211-033-p10s8Cw27</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-vesm9211-033-p10s8Cw28">
 <src.rf>manual</src.rf>
@@ -8649,7 +8649,7 @@
 <LM>w#w-vesm9211-033-p10s8Dw6</LM>
 </w.rf>
 <form>dinosaura</form>
-<tag lemma="dinosaur" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="dinosaurus" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-vesm9211-033-p10s8Dw7">
 <src.rf>manual</src.rf>
@@ -8707,7 +8707,7 @@
 <LM>w#w-vesm9211-033-p10s8Dw12</LM>
 </w.rf>
 <form>nalezená</form>
-<tag lemma="nalezený-2_^(*7ézt-2)" src="auto" selected="1">AAFS1----1A----</tag>
+<tag lemma="nalezený" src="auto" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-vesm9211-033-p10s8Dw13">
 <src.rf>manual</src.rf>
@@ -8764,7 +8764,7 @@
 <LM>w#w-vesm9211-033-p10s8Dw18</LM>
 </w.rf>
 <form>svrchnokřídových</form>
-<tag lemma="svrchněkřídový" src="orig" selected="1">AAIP6----1A----</tag>
+<tag lemma="svrchnokřídový_,s_^(^DD**svrchněkřídový)" src="orig" selected="1">AAIP6----1A----</tag>
 </m>
 <m id="m-vesm9211-033-p10s8Dw19">
 <src.rf>manual</src.rf>
@@ -8841,7 +8841,7 @@
 <LM>w#w-vesm9211-033-p10s8Ew3</LM>
 </w.rf>
 <form>dinosaura</form>
-<tag lemma="dinosaur" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="dinosaurus" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-vesm9211-033-p10s8Ew4">
 <src.rf>manual</src.rf>
@@ -9069,7 +9069,7 @@
 <LM>w#w-vesm9211-033-p10s9Bw6</LM>
 </w.rf>
 <form>Aleše</form>
-<tag lemma="Aleš-1_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Aleš_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-vesm9211-033-p10s9Bw7">
 <src.rf>manual</src.rf>

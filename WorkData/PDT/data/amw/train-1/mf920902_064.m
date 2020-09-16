@@ -141,7 +141,7 @@
 <LM>w#w-mf920902-064-p2s1w8</LM>
 </w.rf>
 <form>Slavie</form>
-<tag lemma="Slavia_;m" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Slavie_;m_,s_^(^DD**Slávie)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920902-064-p2s1w9">
 <src.rf>manual</src.rf>
@@ -237,7 +237,7 @@
 <LM>w#w-mf920902-064-p2s1w20</LM>
 </w.rf>
 <form>červenobílých</form>
-<tag lemma="červenobílý" src="orig" selected="1">AAMP2----1A----</tag>
+<tag lemma="červenobílý_;o" src="orig" selected="1">AAMP2----1A----</tag>
 </m>
 <m id="m-mf920902-064-p2s1w21">
 <src.rf>manual</src.rf>
@@ -391,7 +391,7 @@
 <LM>w#w-mf920902-064-p2s2Aw17</LM>
 </w.rf>
 <form>pana</form>
-<tag lemma="pan_^(oslovení)" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="pan" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920902-064-p2s2Aw18">
 <src.rf>manual</src.rf>
@@ -1031,7 +1031,7 @@
 <LM>w#w-mf920902-064-p2s5Aw2</LM>
 </w.rf>
 <form>Slavie</form>
-<tag lemma="Slavia_;m" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Slavie_;m_,s_^(^DD**Slávie)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920902-064-p2s5Aw3">
 <src.rf>manual</src.rf>
@@ -1531,7 +1531,7 @@
 <LM>w#w-mf920902-064-p2s7Aw18</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-mf920902-064-p2s7Aw19">
 <src.rf>manual</src.rf>
@@ -1539,7 +1539,7 @@
 <LM>w#w-mf920902-064-p2s7Aw19</LM>
 </w.rf>
 <form>moc</form>
-<tag lemma="moc-3_^(velmi,_ve_spojení_s_adj.,_př._moc_hezká)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="moc-3_^(moc_hezká,_moc_peněz)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf920902-064-p2s7Aw20">
 <src.rf>manual</src.rf>
@@ -1587,7 +1587,7 @@
 <LM>w#w-mf920902-064-p2s7Aw25</LM>
 </w.rf>
 <form>Slavii</form>
-<tag lemma="Slavia_;m" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Slavie_;m_,s_^(^DD**Slávie)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf920902-064-p2s7Aw26">
 <src.rf>manual</src.rf>
@@ -1757,7 +1757,7 @@
 <LM>w#w-mf920902-064-p2s7Bw16</LM>
 </w.rf>
 <form>zamyšlení</form>
-<tag lemma="zamyšlení_^(*5slet)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="zamyšlení_^(*5slit)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-mf920902-064-p2s7Bw17">
 <src.rf>manual</src.rf>
@@ -1861,7 +1861,7 @@
 <LM>w#w-mf920902-064-p2s7Bw29</LM>
 </w.rf>
 <form>výtržnosti</form>
-<tag lemma="výtržnost_,a_^(*3ý)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="výtržnost_^(*3ý)" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-mf920902-064-p2s7Bw30">
 <src.rf>manual</src.rf>

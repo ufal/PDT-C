@@ -35,7 +35,7 @@
 <LM>w#w-lnd92251-017-p1s1w3</LM>
 </w.rf>
 <form>sobotníku</form>
-<tag lemma="sobotník" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="sobotník-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92251-017-p2s1">
@@ -101,7 +101,7 @@
 <LM>w#w-lnd92251-017-p2s1w8</LM>
 </w.rf>
 <form>členové</form>
-<tag lemma="člen" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd92251-017-p2s1w9">
 <src.rf>manual</src.rf>
@@ -157,7 +157,7 @@
 <LM>w#w-lnd92251-017-p2s1w15</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd92251-017-p2s1w16">
 <src.rf>manual</src.rf>
@@ -769,7 +769,7 @@
 <LM>w#w-lnd92251-017-p4s1w20</LM>
 </w.rf>
 <form>umění</form>
-<tag lemma="umění_^(mít_schopnost_něco_dělat)_(*2t)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="umění_^(*2t)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-lnd92251-017-p4s1w21">
 <src.rf>manual</src.rf>

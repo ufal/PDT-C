@@ -19,7 +19,7 @@
 <LM>w#w-lnd91301-020-p1s1w1</LM>
 </w.rf>
 <form>Dají</form>
-<tag lemma="dát" src="orig" selected="1">VB-P---3P-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-lnd91301-020-p1s1w2">
 <src.rf>manual</src.rf>

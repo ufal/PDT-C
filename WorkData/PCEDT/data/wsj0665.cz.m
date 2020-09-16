@@ -109,7 +109,7 @@
 </w.rf>
 <form>vlastněných</form>
 <tag>
-<AM lemma="vlastněný_^(někdo_má_něco_ve_vlastnictví)_(*3it)" src="auto" recommended="1">AAFP2----1A----</AM>
+<AM lemma="vlastněný_^(*3it)" src="auto" recommended="1">AAFP2----1A----</AM>
 <AM lemma="vlastněný_^(někdo_má_něco_ve_vlastnictví)_(*3it)" src="auto">AAFP6----1A----</AM>
 <AM lemma="vlastněný_^(někdo_má_něco_ve_vlastnictví)_(*3it)" src="auto">AAIP2----1A----</AM>
 <AM lemma="vlastněný_^(někdo_má_něco_ve_vlastnictví)_(*3it)" src="auto">AAIP6----1A----</AM>
@@ -869,7 +869,7 @@
 <tag>
 <AM lemma="první" src="auto">CrFP3----------</AM>
 <AM lemma="první" src="auto">CrIP3----------</AM>
-<AM lemma="první" src="auto" recommended="1">CrIS6----------</AM>
+<AM lemma="první-1" src="auto" recommended="1">CrIS6----------</AM>
 <AM lemma="první" src="auto">CrIS7----------</AM>
 <AM lemma="první" src="auto">CrMP3----------</AM>
 <AM lemma="první" src="auto">CrMS6----------</AM>
@@ -1011,7 +1011,7 @@
 <form>letech</form>
 <tag>
 <AM lemma="let" src="auto">NNIP6-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP6-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0665-001-p1s1W49-Ta">
@@ -1522,7 +1522,7 @@
 <AM lemma="dobrý" src="auto">AANP4----2A----</AM>
 <AM lemma="dobrý" src="auto">AANP5----2A----</AM>
 <AM lemma="dobrý" src="auto">AANS1----2A----</AM>
-<AM lemma="dobrý" src="auto" recommended="1">AANS4----2A----</AM>
+<AM lemma="lepší" src="auto" recommended="1">AANS4----2A----</AM>
 <AM lemma="dobrý" src="auto">AANS5----2A----</AM>
 <AM lemma="lepšit" src="auto">VB-P---3P-AAI--</AM>
 <AM lemma="lepšit" src="auto">VB-S---3P-AAI--</AM>
@@ -1544,7 +1544,7 @@
 <AM lemma="rozvržení_^(*4hnout)" src="auto">NNNS1-----A----</AM>
 <AM lemma="rozvržení_^(*4hnout)" src="auto">NNNS2-----A----</AM>
 <AM lemma="rozvržení_^(*4hnout)" src="auto">NNNS3-----A----</AM>
-<AM lemma="rozvržení_^(*4hnout)" src="auto" recommended="1">NNNS4-----A----</AM>
+<AM lemma="rozvržení" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="rozvržení_^(*4hnout)" src="auto">NNNS5-----A----</AM>
 <AM lemma="rozvržení_^(*4hnout)" src="auto">NNNS6-----A----</AM>
 </tag>

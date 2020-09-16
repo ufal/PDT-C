@@ -141,7 +141,7 @@
 <LM>w#w-mf920924-117-p2s2w9</LM>
 </w.rf>
 <form>mluvčího</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920924-117-p2s2w10">
 <src.rf>manual</src.rf>
@@ -484,7 +484,7 @@
 <LM>w#w-mf920924-117-p2s4w16</LM>
 </w.rf>
 <form>tajnými</form>
-<tag lemma="tajný" src="orig" selected="1">AAFP7----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AAFP7----1A----</tag>
 </m>
 <m id="m-mf920924-117-p2s4w17">
 <src.rf>manual</src.rf>
@@ -604,7 +604,7 @@
 <LM>w#w-mf920924-117-p2s4w31</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FP4---------1</tag>
 </m>
 <m id="m-mf920924-117-p2s4w32">
 <src.rf>manual</src.rf>
@@ -660,7 +660,7 @@
 <LM>w#w-mf920924-117-p2s4w38</LM>
 </w.rf>
 <form>pozornosti</form>
-<tag lemma="pozornost-1_^(všímavý,_milý,_soustředěný)_(*5ý-1)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="pozornost-1_^(*5ý-1)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920924-117-p2s4w39">
 <src.rf>manual</src.rf>

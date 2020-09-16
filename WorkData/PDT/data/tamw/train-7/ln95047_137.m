@@ -652,7 +652,7 @@
 <LM>w#w-ln95047-137-p3s1w23</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrIS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS1----------</tag>
 </m>
 <m id="m-ln95047-137-p3s1w24">
 <src.rf>manual</src.rf>
@@ -1525,7 +1525,7 @@
 <LM>w#w-ln95047-137-p5s2w23</LM>
 </w.rf>
 <form>Krči</form>
-<tag lemma="Krč_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Krč-2_;G" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln95047-137-p5s2w24">
 <src.rf>manual</src.rf>

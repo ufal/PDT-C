@@ -273,7 +273,7 @@
 <form>ohlášená</form>
 <tag>
 <AM lemma="ohlášený_,a_^(*4sit)" src="auto">AANP1----1A----</AM>
-<AM lemma="ohlášený_^(*4sit)" src="manual" selected="1">AANP1----1A----</AM>
+<AM lemma="ohlášený_^(*2t)_(*4sit)" src="manual" selected="1">AANP1----1A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-036-p2s1Bw29">
@@ -376,7 +376,7 @@
 <form>dvojnásobný</form>
 <tag>
 <AM lemma="dvojnásobný`2" src="orig">AAMS1----1A----</AM>
-<AM lemma="dvojnásobný`2_,s_^(^DD**dvounásobný)" src="manual" selected="1">AAMS1----1A----</AM>
+<AM lemma="dvojnásobný`2" src="manual" selected="1">AAMS1----1A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-036-p2s1Bw40">

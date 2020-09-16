@@ -78,7 +78,7 @@
 <LM>w#w-ln94210-129-p1s1w8</LM>
 </w.rf>
 <form>příjemné</form>
-<tag lemma="příjemný-1_^(všeob.,_poz._emoce)" src="orig" selected="1">AAFP4----1A----</tag>
+<tag lemma="příjemný_^(všeob.,_poz._emoce)" src="orig" selected="1">AAFP4----1A----</tag>
 </m>
 <m id="m-ln94210-129-p1s1w9">
 <src.rf>manual</src.rf>
@@ -89,7 +89,7 @@
 <tag>
 <AM lemma="starost" src="orig">NNFP4-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFP1-----A----</AM>
-<AM lemma="starost-1" src="auto" recommended="1" selected="1">NNFP4-----A----</AM>
+<AM lemma="starost-2_^(*5ý-2)" src="auto" recommended="1" selected="1">NNFP4-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFP5-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFS2-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFS3-----A----</AM>
@@ -191,7 +191,7 @@
 <LM>w#w-ln94210-129-p2s1Cw1</LM>
 </w.rf>
 <form>Náš</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSYS1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSYS1-P1-------</tag>
 </m>
 <m id="m-ln94210-129-p2s1Cw2">
 <src.rf>manual</src.rf>
@@ -335,7 +335,7 @@
 <LM>w#w-ln94210-129-p2s1Cw19</LM>
 </w.rf>
 <form>příjemné</form>
-<tag lemma="příjemný-1_^(všeob.,_poz._emoce)" src="orig" selected="1">AAFP4----1A----</tag>
+<tag lemma="příjemný_^(všeob.,_poz._emoce)" src="orig" selected="1">AAFP4----1A----</tag>
 </m>
 <m id="m-ln94210-129-p2s1Cw20">
 <src.rf>manual</src.rf>
@@ -346,7 +346,7 @@
 <tag>
 <AM lemma="starost" src="orig">NNFP4-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFP1-----A----</AM>
-<AM lemma="starost-1" src="auto" recommended="1" selected="1">NNFP4-----A----</AM>
+<AM lemma="starost-2_^(*5ý-2)" src="auto" recommended="1" selected="1">NNFP4-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFP5-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFS2-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFS3-----A----</AM>
@@ -852,7 +852,7 @@
 <LM>w#w-ln94210-129-p3s3w8</LM>
 </w.rf>
 <form>moc</form>
-<tag lemma="moc-3_^(velmi,_ve_spojení_s_adj.,_př._moc_hezká)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="moc-3_^(moc_hezká,_moc_peněz)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94210-129-p3s3w9">
 <src.rf>manual</src.rf>
@@ -860,7 +860,7 @@
 <LM>w#w-ln94210-129-p3s3w9</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-ln94210-129-p3s3w10">
 <src.rf>manual</src.rf>
@@ -876,7 +876,7 @@
 <LM>w#w-ln94210-129-p3s3w11</LM>
 </w.rf>
 <form>naší</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS6-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS6-P1-------</tag>
 </m>
 <m id="m-ln94210-129-p3s3w12">
 <src.rf>manual</src.rf>
@@ -958,7 +958,7 @@
 <LM>w#w-ln94210-129-p3s4w7</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-ln94210-129-p3s4w8">
 <src.rf>manual</src.rf>
@@ -1153,7 +1153,7 @@
 <LM>w#w-ln94210-129-p3s5w10</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-ln94210-129-p3s5w11">
 <src.rf>manual</src.rf>
@@ -2012,7 +2012,7 @@
 <LM>w#w-ln94210-129-p4s5w3</LM>
 </w.rf>
 <form>sezoně</form>
-<tag lemma="sezona" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="sezona_,s_^(^DD**sezóna)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94210-129-p4s5w4">
 <src.rf>manual</src.rf>
@@ -2106,7 +2106,7 @@
 <LM>w#w-ln94210-129-p4s5w14</LM>
 </w.rf>
 <form>nebojí</form>
-<tag lemma="bát" src="orig" selected="1">VB-S---3P-NAI--</tag>
+<tag lemma="bát-1" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-ln94210-129-p4s5w15">
 <src.rf>manual</src.rf>
@@ -2385,7 +2385,7 @@
 <LM>w#w-ln94210-129-p4s7w1</LM>
 </w.rf>
 <form>Naší</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS7-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS7-P1-------</tag>
 </m>
 <m id="m-ln94210-129-p4s7w2">
 <src.rf>manual</src.rf>
@@ -2793,7 +2793,7 @@
 <LM>w#w-ln94210-129-p4s10w5</LM>
 </w.rf>
 <form>sezony</form>
-<tag lemma="sezona" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="sezona_,s_^(^DD**sezóna)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94210-129-p4s10w6">
 <src.rf>manual</src.rf>
@@ -2950,7 +2950,7 @@
 <LM>w#w-ln94210-129-p4s11w7</LM>
 </w.rf>
 <form>bát</form>
-<tag lemma="bát" src="orig" selected="1">Vf--------A-I--</tag>
+<tag lemma="bát-1" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln94210-129-p4s11w8">
 <src.rf>manual</src.rf>

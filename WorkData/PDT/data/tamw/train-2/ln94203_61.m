@@ -194,7 +194,7 @@
 <LM>w#w-ln94203-61-p2s1Bw12</LM>
 </w.rf>
 <form>president</form>
-<tag lemma="prezident" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="president_,s_^(^DD**prezident)" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-61-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -529,7 +529,7 @@
 <LM>w#w-ln94203-61-p3s1w9</LM>
 </w.rf>
 <form>roli</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="role_^(svitek_poslání_pozemek)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94203-61-p3s1w10">
 <src.rf>manual</src.rf>

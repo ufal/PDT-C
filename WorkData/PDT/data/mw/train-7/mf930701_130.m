@@ -830,7 +830,7 @@
 <AM lemma="Pavlův-1_;Y_^(*5el-1)" src="auto">AUMS6M--------1</AM>
 <AM lemma="Pavlův-1_;Y_^(*5el-1)" src="auto">AUNS3M---------</AM>
 <AM lemma="Pavlův-1_;Y_^(*5el-1)" src="auto">AUNS6M--------1</AM>
-<AM lemma="Pavlův-2_;Y_^(*5el-2)" src="auto" recommended="1" selected="1">AUFS4M---------</AM>
+<AM lemma="Pavlův_;Y_^(*2o)_(*3el)" src="auto" recommended="1" selected="1">AUFS4M---------</AM>
 <AM lemma="Pavlův-2_;Y_^(*5el-2)" src="auto">AUIS3M---------</AM>
 <AM lemma="Pavlův-2_;Y_^(*5el-2)" src="auto">AUIS6M--------1</AM>
 <AM lemma="Pavlův-2_;Y_^(*5el-2)" src="auto">AUMS3M---------</AM>
@@ -994,7 +994,7 @@
 <LM>w#w-mf930701-130-p3s2w12</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-mf930701-130-p3s2w13">
 <src.rf>manual</src.rf>
@@ -1076,7 +1076,7 @@
 <LM>w#w-mf930701-130-p4s1w8</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrIS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS4----------</tag>
 </m>
 <m id="m-mf930701-130-p4s1w9">
 <src.rf>manual</src.rf>
@@ -1906,7 +1906,7 @@
 <LM>w#w-mf930701-130-p5s1w25</LM>
 </w.rf>
 <form>třeba</form>
-<tag lemma="třeba-2" src="auto" selected="1">Db-------------</tag>
+<tag lemma="třeba-1" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf930701-130-p5s1w26">
 <src.rf>manual</src.rf>
@@ -1970,7 +1970,7 @@
 <LM>w#w-mf930701-130-p5s1w33</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-mf930701-130-p5s1w34">
 <src.rf>manual</src.rf>
@@ -2306,7 +2306,7 @@
 <LM>w#w-mf930701-130-p6s1w33</LM>
 </w.rf>
 <form>naši</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS4-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS4-P1-------</tag>
 </m>
 <m id="m-mf930701-130-p6s1w34">
 <src.rf>manual</src.rf>
@@ -2565,7 +2565,7 @@
 <LM>w#w-mf930701-130-p7s1w15</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-mf930701-130-p7s1w16">
 <src.rf>manual</src.rf>

@@ -111,7 +111,7 @@
 <LM>w#w-ln94202-39-p2s1Bw4</LM>
 </w.rf>
 <form>hnutí</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln94202-39-p2s1Bw5">
 <src.rf>manual</src.rf>

@@ -456,7 +456,7 @@
 <form>managementu</form>
 <tag>
 <AM lemma="management_,t_^(vedení,_manažment;_angl.)" src="orig">NNIS2-----A----</AM>
-<AM lemma="management" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="management_,s_^(^DD**manažment)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-29-p2s2w19">

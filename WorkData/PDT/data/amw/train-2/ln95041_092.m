@@ -87,7 +87,7 @@
 <LM>w#w-ln95041-092-p2s1Bw2</LM>
 </w.rf>
 <form>spravedlnosti</form>
-<tag lemma="spravedlnost_^(*3ý)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="spravedlnost-1_^(*5ý-1)" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95041-092-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -265,7 +265,7 @@
 <LM>w#w-ln95041-092-p2s2w5</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-092-p2s2w6">
 <src.rf>manual</src.rf>
@@ -281,7 +281,7 @@
 <LM>w#w-ln95041-092-p2s2w7</LM>
 </w.rf>
 <form>spravedlnosti</form>
-<tag lemma="spravedlnost_^(*3ý)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="spravedlnost-1_^(*5ý-1)" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95041-092-p2s2w8">
 <src.rf>manual</src.rf>
@@ -483,7 +483,7 @@
 <LM>w#w-ln95041-092-p2s3w23</LM>
 </w.rf>
 <form>zastavením</form>
-<tag lemma="zastavení-1_^([také_z._se];_uvést_do_klidu:_auto,...)_(*5it-1)" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="zastavení_^(*3it)" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-ln95041-092-p2s3w24">
 <src.rf>manual</src.rf>
@@ -663,7 +663,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -917,7 +917,7 @@
 <LM>w#w-ln95041-092-p2s6w9</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-ln95041-092-p2s6w10">
 <src.rf>manual</src.rf>

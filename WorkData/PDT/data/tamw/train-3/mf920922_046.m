@@ -77,7 +77,7 @@
 <LM>w#w-mf920922-046-p1s1Bw5</LM>
 </w.rf>
 <form>DÁL</form>
-<tag lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="dál-3_,s_^(také,_za_další)_(^DD**dále-3)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf920922-046-p1s1Bw6">
 <src.rf>manual</src.rf>
@@ -855,7 +855,7 @@
 <LM>w#w-mf920922-046-p2s5w7</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-mf920922-046-p2s5w8">
 <src.rf>manual</src.rf>
@@ -1119,7 +1119,7 @@
 <LM>w#w-mf920922-046-p2s6w20</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf920922-046-p2s6w21">
 <src.rf>manual</src.rf>
@@ -1241,7 +1241,7 @@
 <LM>w#w-mf920922-046-p2s8Aw3</LM>
 </w.rf>
 <form>naší</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS7-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS7-P1-------</tag>
 </m>
 <m id="m-mf920922-046-p2s8Aw4">
 <src.rf>manual</src.rf>

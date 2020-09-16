@@ -300,7 +300,7 @@
 </w.rf>
 <form>inkoustů</form>
 <tag>
-<AM lemma="inkoust" src="auto" recommended="1">NNIP2-----A----</AM>
+<AM lemma="inkoust-1" src="auto" recommended="1">NNIP2-----A----</AM>
 <AM lemma="inkoust" src="auto">NNMP2-----A----</AM>
 </tag>
 </m>
@@ -798,7 +798,7 @@
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FP1---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FP4---------1</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8FS2---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8FS2---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS3---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS6---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8IP1---------1</AM>

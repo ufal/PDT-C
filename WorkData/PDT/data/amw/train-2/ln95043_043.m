@@ -1359,7 +1359,7 @@
 <LM>w#w-ln95043-043-p4s1w2</LM>
 </w.rf>
 <form>letouny</form>
-<tag lemma="letoun" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="letoun-1" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-ln95043-043-p4s1w3">
 <src.rf>manual</src.rf>

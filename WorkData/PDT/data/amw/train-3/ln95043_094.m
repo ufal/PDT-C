@@ -450,7 +450,7 @@
 <form>mercedesu</form>
 <tag>
 <AM lemma="Mercedes-2_;m_^(vozidlo)" src="orig">NNIS2-----A----</AM>
-<AM lemma="mercedes_;m_^(vozidlo)" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
+<AM lemma="mercedes_^(vozidlo)" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
 <AM lemma="mercedes_;m_^(vozidlo)" src="auto">NNIS3-----A----</AM>
 <AM lemma="mercedes_;m_^(vozidlo)" src="auto">NNIS6-----A----</AM>
 </tag>
@@ -564,7 +564,7 @@
 <LM>w#w-ln95043-094-p3s4w23</LM>
 </w.rf>
 <form>model</form>
-<tag lemma="model" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="model-1" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln95043-094-p3s4w24">
 <src.rf>manual</src.rf>
@@ -1141,7 +1141,7 @@
 <LM>w#w-ln95043-094-p4s2w17</LM>
 </w.rf>
 <form>up</form>
-<tag lemma="up_^(pick-up)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="up-1_^(make_up;pick_up)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95043-094-p4s2w18">
 <src.rf>manual</src.rf>
@@ -1231,7 +1231,7 @@
 <LM>w#w-ln95043-094-p5s1w4</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrIS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS1----------</tag>
 </m>
 <m id="m-ln95043-094-p5s1w5">
 <src.rf>manual</src.rf>
@@ -1624,7 +1624,7 @@
 <LM>w#w-ln95043-094-p5s4w2</LM>
 </w.rf>
 <form>dlouhé</form>
-<tag lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">AAFS6----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFS6----1A----</tag>
 </m>
 <m id="m-ln95043-094-p5s4w3">
 <src.rf>manual</src.rf>
@@ -2082,7 +2082,7 @@
 <LM>w#w-ln95043-094-p5s6w2</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-ln95043-094-p5s6w3">
 <src.rf>manual</src.rf>

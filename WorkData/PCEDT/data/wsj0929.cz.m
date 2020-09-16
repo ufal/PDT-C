@@ -311,7 +311,7 @@
 <form>Whiteovi</form>
 <tag>
 <AM lemma="White_;Y" src="auto" recommended="1">NNMS3-----A----</AM>
-<AM lemma="White_;Y" src="auto" selected="1">NNMS6-----A----</AM>
+<AM lemma="White-1_;Y" src="auto" selected="1">NNMS6-----A----</AM>
 <AM lemma="Whiteův_;Y_^(*2)" src="auto">AUMP1M---------</AM>
 <AM lemma="Whiteův_;Y_^(*2)" src="auto">AUMP5M---------</AM>
 </tag>
@@ -434,7 +434,7 @@
 </w.rf>
 <form>výboru</form>
 <tag>
-<AM lemma="výbor" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="výbor-1" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="výbor" src="auto">NNIS3-----A----</AM>
 <AM lemma="výbor" src="auto">NNIS6-----A----</AM>
 <AM lemma="výbor" src="auto">NNMS3-----A---1</AM>
@@ -607,7 +607,7 @@
 </w.rf>
 <form>svůj</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8IS4----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8IS4----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8YS1----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8YS5----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOYS-----------</AM>

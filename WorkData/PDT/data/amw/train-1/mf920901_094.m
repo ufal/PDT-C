@@ -131,7 +131,7 @@
 <LM>w#w-mf920901-094-p4s2w5</LM>
 </w.rf>
 <form>hnutí</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-mf920901-094-p4s2w6">
 <src.rf>manual</src.rf>
@@ -203,7 +203,7 @@
 <LM>w#w-mf920901-094-p4s2w14</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-mf920901-094-p4s2w15">
 <src.rf>manual</src.rf>
@@ -578,7 +578,7 @@
 <LM>w#w-mf920901-094-p5s2w11</LM>
 </w.rf>
 <form>ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf920901-094-p5s2w12">
 <src.rf>manual</src.rf>

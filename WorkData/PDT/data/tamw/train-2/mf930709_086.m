@@ -104,7 +104,7 @@
 <LM>w#w-mf930709-086-p1s2Bw4</LM>
 </w.rf>
 <form>boxera</form>
-<tag lemma="boxer" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="boxer-1" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930709-086-p1s2Bw5">
 <src.rf>manual</src.rf>
@@ -184,7 +184,7 @@
 <LM>w#w-mf930709-086-p1s2Bw14</LM>
 </w.rf>
 <form>vězení</form>
-<tag lemma="vězení_,a_^(místo_výkonu_trestu)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="vězení_^(místo_výkonu_trestu)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-mf930709-086-p1s2Bw15">
 <src.rf>manual</src.rf>
@@ -232,7 +232,7 @@
 <LM>w#w-mf930709-086-p1s2Bw20</LM>
 </w.rf>
 <form>černé</form>
-<tag lemma="černý" src="auto" selected="1">AAFS2----1A----</tag>
+<tag lemma="černý_;o" src="auto" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-mf930709-086-p1s2Bw21">
 <src.rf>manual</src.rf>
@@ -386,7 +386,7 @@
 <LM>w#w-mf930709-086-p1s3w4</LM>
 </w.rf>
 <form>soudkyni</form>
-<tag lemma="soudkyně_^(člověk,_který_soudí)_(*4ce)" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="soudkyně_^(*4ce)" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-mf930709-086-p1s3w5">
 <src.rf>manual</src.rf>
@@ -400,7 +400,7 @@
 <AM lemma="Patricie_;Y" src="auto">NNFS4-----A----</AM>
 <AM lemma="Patricie_;Y" src="auto">NNFS6-----A----</AM>
 <AM lemma="patricius" src="auto">NNMP7-----A----</AM>
-<AM lemma="Patricia_;Y" src="manual" selected="1">NNFS3-----A----</AM>
+<AM lemma="Patricie_;Y" src="manual" selected="1">NNFS3-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-086-p1s3w6">
@@ -661,7 +661,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Marseille</form>
-<tag lemma="Marseille_;G" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="Marseille-2_;G" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-mf930709-086-p2s2Aw2">
 <src.rf>manual</src.rf>
@@ -772,7 +772,7 @@
 <LM>w#w-mf930709-086-p2s2Bw12</LM>
 </w.rf>
 <form>Marseille</form>
-<tag lemma="Marseille_;G" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="Marseille-2_;G" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-mf930709-086-p2s2Bw13">
 <src.rf>manual</src.rf>
@@ -982,7 +982,7 @@
 <LM>w#w-mf930709-086-p2s3w9</LM>
 </w.rf>
 <form>soudcova</form>
-<tag lemma="soudcův_^(člověk,_který_soudí)_(*2e)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="soudcův_^(*2e)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-mf930709-086-p2s3w10">
 <src.rf>manual</src.rf>

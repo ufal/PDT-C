@@ -144,7 +144,7 @@
 <LM>w#w-mf920922-009-p2s1w5</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920922-009-p2s1w6">
 <src.rf>manual</src.rf>
@@ -326,7 +326,7 @@
 <LM>w#w-mf920922-009-p2s1w27</LM>
 </w.rf>
 <form>rada</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920922-009-p2s1w28">
 <src.rf>manual</src.rf>
@@ -361,7 +361,7 @@
 <LM>w#w-mf920922-009-p2s1w31</LM>
 </w.rf>
 <form>dny</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP7-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP7-----A----</tag>
 </m>
 <m id="m-mf920922-009-p2s1w32">
 <src.rf>manual</src.rf>
@@ -685,7 +685,7 @@
 <LM>w#w-mf920922-009-p2s5w8</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-mf920922-009-p2s5w9">
 <src.rf>manual</src.rf>

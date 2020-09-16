@@ -99,7 +99,7 @@
 <LM>w#w-ln94204-152-p1s1w11</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-ln94204-152-p1s1w12">
 <src.rf>manual</src.rf>
@@ -115,7 +115,7 @@
 <LM>w#w-ln94204-152-p1s1w13</LM>
 </w.rf>
 <form>kuponové</form>
-<tag lemma="kuponový" src="orig" selected="1">AAFS2----1A----</tag>
+<tag lemma="kuponový_,s_^(^DD**kupónový)" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-ln94204-152-p1s1w14">
 <src.rf>manual</src.rf>
@@ -261,7 +261,7 @@
 <LM>w#w-ln94204-152-p1s2w6</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1IS4FS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1IS4FS3-------</tag>
 </m>
 <m id="m-ln94204-152-p1s2w7">
 <src.rf>manual</src.rf>
@@ -474,7 +474,7 @@
 <LM>w#w-ln94204-152-p1s3w8</LM>
 </w.rf>
 <form>prvního</form>
-<tag lemma="první" src="orig" selected="1">CrNS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS2----------</tag>
 </m>
 <m id="m-ln94204-152-p1s3w9">
 <src.rf>manual</src.rf>

@@ -61,7 +61,7 @@
 <LM>w#w-lnd92257-029-p2s1w3</LM>
 </w.rf>
 <form>mot</form>
-<tag lemma="motto" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="moto-1_,s_^(heslo)_(^DD**motto-1)" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd92257-029-p2s1w4">
 <src.rf>manual</src.rf>
@@ -580,7 +580,7 @@
 <LM>w#w-lnd92257-029-p2s5w1</LM>
 </w.rf>
 <form>naše</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSHS1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSHS1-P1-------</tag>
 </m>
 <m id="m-lnd92257-029-p2s5w2">
 <src.rf>manual</src.rf>

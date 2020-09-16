@@ -373,7 +373,7 @@
 <LM>w#w-ln94200-76-p2s2w15</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-ln94200-76-p2s2w16">
 <src.rf>manual</src.rf>
@@ -549,7 +549,7 @@
 <LM>w#w-ln94200-76-p2s3w16</LM>
 </w.rf>
 <form>mé</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSNS4-S1------1</tag>
+<tag lemma="můj" src="orig" selected="1">PSNS4-S1------1</tag>
 </m>
 <m id="m-ln94200-76-p2s3w17">
 <src.rf>manual</src.rf>

@@ -172,7 +172,7 @@
 <LM>w#w-mf920902-086-p1s1Bw17</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP2-P1-------</tag>
 </m>
 <m id="m-mf920902-086-p1s1Bw18">
 <src.rf>manual</src.rf>

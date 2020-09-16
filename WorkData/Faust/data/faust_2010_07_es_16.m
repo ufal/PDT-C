@@ -1129,7 +1129,7 @@
 </w.rf>
 <form>pokladní</form>
 <tag>
-<AM lemma="pokladní" recommended="1">AANS4----1A----</AM>
+<AM lemma="pokladní-1" recommended="1">AANS4----1A----</AM>
 <AM lemma="pokladní">AAFP1----1A----</AM>
 <AM lemma="pokladní">AAFP4----1A----</AM>
 <AM lemma="pokladní">AAFP5----1A----</AM>
@@ -2294,7 +2294,7 @@
 </w.rf>
 <form>čističem</form>
 <tag>
-<AM lemma="čistič_^(prostředek)" recommended="1">NNIS7-----A----</AM>
+<AM lemma="čistič-2_^(prostředek)" recommended="1">NNIS7-----A----</AM>
 <AM lemma="čistič_^(člověk)">NNMS7-----A----</AM>
 </tag>
 </m>
@@ -2448,7 +2448,7 @@
 </w.rf>
 <form>nás</form>
 <tag>
-<AM lemma="já" recommended="1">PP-P4--1-------</AM>
+<AM lemma="my" recommended="1">PP-P4--1-------</AM>
 <AM lemma="já">PP-P2--1-------</AM>
 <AM lemma="já">PP-P6--1-------</AM>
 </tag>
@@ -2962,7 +2962,7 @@
 </w.rf>
 <form>náš</form>
 <tag>
-<AM lemma="můj_^(přivlast.)" recommended="1">PSYS1-P1-------</AM>
+<AM lemma="náš" recommended="1">PSYS1-P1-------</AM>
 <AM lemma="můj_^(přivlast.)">PSIS4-P1-------</AM>
 <AM lemma="můj_^(přivlast.)">PSYS5-P1-------</AM>
 </tag>
@@ -3087,7 +3087,7 @@
 </w.rf>
 <form>první</form>
 <tag>
-<AM lemma="první" recommended="1">CrMS1----------</AM>
+<AM lemma="první-1" recommended="1">CrMS1----------</AM>
 <AM lemma="první">CrFP1----------</AM>
 <AM lemma="první">CrFP4----------</AM>
 <AM lemma="první">CrFP5----------</AM>
@@ -4388,7 +4388,7 @@
 </w.rf>
 <form>události</form>
 <tag>
-<AM lemma="událost_,a_^(*3ý)" recommended="1">NNFS2-----A----</AM>
+<AM lemma="událost" recommended="1">NNFS2-----A----</AM>
 <AM lemma="událost_,a_^(*3ý)">NNFP1-----A----</AM>
 <AM lemma="událost_,a_^(*3ý)">NNFP4-----A----</AM>
 <AM lemma="událost_,a_^(*3ý)">NNFP5-----A----</AM>
@@ -4744,7 +4744,7 @@
 </w.rf>
 <form>Moji</form>
 <tag>
-<AM lemma="můj_^(přivlast.)" recommended="1">PSMP1-S1-------</AM>
+<AM lemma="můj" recommended="1">PSMP1-S1-------</AM>
 <AM lemma="Moja_;Y">NNFP1-----A----</AM>
 <AM lemma="Moja_;Y">NNFP4-----A----</AM>
 <AM lemma="Moja_;Y">NNFP5-----A----</AM>
@@ -4803,7 +4803,7 @@
 </w.rf>
 <form>má</form>
 <tag>
-<AM lemma="můj_^(má_kniha;_přivlast.)" recommended="1">PSFS1-S1------1</AM>
+<AM lemma="můj" recommended="1">PSFS1-S1------1</AM>
 <AM lemma="mít">VB-S---3P-AAI--</AM>
 <AM lemma="můj_^(má_kniha;_přivlast.)">PSFS5-S1------1</AM>
 <AM lemma="můj_^(má_kniha;_přivlast.)">PSNP1-S1------1</AM>
@@ -4826,7 +4826,7 @@
 </w.rf>
 <form>Můj</form>
 <tag>
-<AM lemma="můj_^(přivlast.)" recommended="1">PSYS1-S1-------</AM>
+<AM lemma="můj" recommended="1">PSYS1-S1-------</AM>
 <AM lemma="můj_^(přivlast.)">PSIS4-S1-------</AM>
 <AM lemma="můj_^(přivlast.)">PSYS5-S1-------</AM>
 </tag>
@@ -4854,7 +4854,7 @@
 </w.rf>
 <form>dne</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" recommended="1">NNIS2-----A----</AM>
+<AM lemma="den-1_^(jednotka_času)" recommended="1">NNIS2-----A----</AM>
 <AM lemma="den_^(jednotka_času)">NNIS5-----A----</AM>
 <AM lemma="den_^(jednotka_času)">NNIS6-----A---9</AM>
 </tag>
@@ -4893,7 +4893,7 @@
 </w.rf>
 <form>svou</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" recommended="1">P8FS4---------1</AM>
+<AM lemma="svůj-1" recommended="1">P8FS4---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)">P8FS7---------1</AM>
 </tag>
 </m>
@@ -5064,7 +5064,7 @@
 </w.rf>
 <form>mých</form>
 <tag>
-<AM lemma="můj_^(přivlast.)" recommended="1">PSXP2-S1-------</AM>
+<AM lemma="můj" recommended="1">PSXP2-S1-------</AM>
 <AM lemma="můj_^(přivlast.)">PSXP6-S1-------</AM>
 </tag>
 </m>
@@ -5405,7 +5405,7 @@
 <tag>
 <AM lemma="myslit" recommended="1">VB-S---1P-AAI--</AM>
 <AM lemma="mysl">NNFP3-----A----</AM>
-<AM lemma="myslet" selected="1">VB-S---1P-AAI--</AM>
+<AM lemma="myslit" selected="1">VB-S---1P-AAI--</AM>
 </tag>
 </m>
 <m id="es_16-SCzechM-p1742-s1-w2">

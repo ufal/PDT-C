@@ -585,7 +585,7 @@
 <tag>
 <AM lemma="Illinois_;G" src="auto">NNIS2-----A----</AM>
 <AM lemma="Illinois_;G" src="auto">NNIS3-----A----</AM>
-<AM lemma="Illinois_;G" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="Illinois_;G_;m" src="auto" recommended="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1733-001-p1s1W7-Ta">

@@ -181,7 +181,7 @@
 <LM>w#w-ln95048-141-p1s1Bw19</LM>
 </w.rf>
 <form>odpovědnosti</form>
-<tag lemma="odpovědnost_^(kdo_za_něco_odpovídá)_(*3ý)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="odpovědnost_^(*3ý)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95048-141-p1s1Bw20">
 <src.rf>manual</src.rf>

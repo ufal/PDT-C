@@ -75,7 +75,7 @@
 <LM>w#w-vesm9303-048-p1s1w8</LM>
 </w.rf>
 <form>Karlovy</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-vesm9303-048-p1s1w9">
 <src.rf>manual</src.rf>
@@ -1475,7 +1475,7 @@
 <LM>w#w-vesm9303-048-p7s1w3</LM>
 </w.rf>
 <form>Barsovi</form>
-<tag lemma="Barsa_;Y" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Barsa-1_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-vesm9303-048-p7s1w4">
 <src.rf>manual</src.rf>
@@ -2174,7 +2174,7 @@
 <LM>w#w-vesm9303-048-p9s1w5</LM>
 </w.rf>
 <form>Banská</form>
-<tag lemma="Banský_;G" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="banský" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-vesm9303-048-p9s1w6">
 <src.rf>manual</src.rf>
@@ -3117,7 +3117,7 @@
 <form>intenzívní</form>
 <tag>
 <AM lemma="intenzívní" src="orig">AAFS2----1A----</AM>
-<AM lemma="vintenzívní_,s_^(^DD**intenzivní)" src="manual" selected="1">AAFS2----1A----</AM>
+<AM lemma="intenzívní" src="manual" selected="1">AAFS2----1A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-048-p11s1w31">

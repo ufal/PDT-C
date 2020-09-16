@@ -431,7 +431,7 @@
 <LM>w#w-ln94200-141-p3s1w2</LM>
 </w.rf>
 <form>mne</form>
-<tag lemma="já_^(2./4.pád)" src="orig" selected="1">PP-S2--1-------</tag>
+<tag lemma="já" src="orig" selected="1">PP-S2--1-------</tag>
 </m>
 <m id="m-ln94200-141-p3s1w3">
 <src.rf>manual</src.rf>
@@ -878,7 +878,7 @@
 <LM>w#w-ln94200-141-p4s1w17</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-ln94200-141-p4s1w18">
 <src.rf>manual</src.rf>
@@ -1364,7 +1364,7 @@
 <LM>w#w-ln94200-141-p5s1w6</LM>
 </w.rf>
 <form>Dobřív</form>
-<tag lemma="Dobřív_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Dobřív-2_;G" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 </s>
 </mdata>

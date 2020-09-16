@@ -19,7 +19,7 @@
 <LM>w#w-ln94200-6-p1s1w1</LM>
 </w.rf>
 <form>Zlaté</form>
-<tag lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAIP1----1A----</tag>
+<tag lemma="zlatý-1_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAIP1----1A----</tag>
 </m>
 <m id="m-ln94200-6-p1s1w2">
 <src.rf>manual</src.rf>
@@ -222,7 +222,7 @@
 <LM>w#w-ln94200-6-p2s2w2</LM>
 </w.rf>
 <form>Zlatých</form>
-<tag lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAIP6----1A----</tag>
+<tag lemma="zlatý-1_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAIP6----1A----</tag>
 </m>
 <m id="m-ln94200-6-p2s2w3">
 <src.rf>manual</src.rf>
@@ -552,7 +552,7 @@
 <LM>w#w-ln94200-6-p2s3w16</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94200-6-p2s3w17">
 <src.rf>manual</src.rf>

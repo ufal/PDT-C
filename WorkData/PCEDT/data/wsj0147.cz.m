@@ -136,7 +136,7 @@
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP1FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP5FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9ZS1FS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9ZS1FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSZS5FS3-------</AM>
 </tag>
 </m>
@@ -384,7 +384,7 @@
 <AM lemma="Karolín_;G" src="auto">NNIS6-----A----</AM>
 <AM lemma="Karolína_;Y" src="auto">NNFS3-----A----</AM>
 <AM lemma="Karolína_;Y" src="auto" recommended="1">NNFS6-----A----</AM>
-<AM lemma="Karolína-2_;G" src="manual" selected="1">NNFS6-----A----</AM>
+<AM lemma="Karolína_;G_;Y" src="manual" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0147-001-p1s0W30-Ta">
@@ -417,7 +417,7 @@
 <tag>
 <AM lemma="Russel_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Russel_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Russel_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Russel-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0147-001-p1s1W3-Ta">
@@ -1511,7 +1511,7 @@
 </w.rf>
 <form>pana</form>
 <tag>
-<AM lemma="pan_^(oslovení)" src="auto" selected="1">NNMS2-----A----</AM>
+<AM lemma="pan" src="auto" selected="1">NNMS2-----A----</AM>
 <AM lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS4-----A----</AM>
 </tag>
 </m>

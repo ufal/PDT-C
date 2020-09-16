@@ -61,7 +61,7 @@
 <LM>w#w-ln95045-071-p2s1w3</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-ln95045-071-p2s1w4">
 <src.rf>manual</src.rf>
@@ -141,7 +141,7 @@
 <LM>w#w-ln95045-071-p2s1w13</LM>
 </w.rf>
 <form>Evropě</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln95045-071-p2s1w14">
 <src.rf>manual</src.rf>
@@ -321,7 +321,7 @@
 <LM>w#w-ln95045-071-p2s3w1</LM>
 </w.rf>
 <form>Druhou</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS4----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS4----------</tag>
 </m>
 <m id="m-ln95045-071-p2s3w2">
 <src.rf>manual</src.rf>
@@ -515,7 +515,7 @@
 <LM>w#w-ln95045-071-p2s4w9</LM>
 </w.rf>
 <form>naši</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSMP1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSMP1-P1-------</tag>
 </m>
 <m id="m-ln95045-071-p2s4w10">
 <src.rf>manual</src.rf>

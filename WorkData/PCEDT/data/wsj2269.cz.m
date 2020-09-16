@@ -1674,7 +1674,7 @@
 <AM lemma="ozónový" src="auto">AAFP1----1A----</AM>
 <AM lemma="ozónový" src="auto">AAFP4----1A----</AM>
 <AM lemma="ozónový" src="auto">AAFP5----1A----</AM>
-<AM lemma="ozónový" src="auto" recommended="1">AAFS2----1A----</AM>
+<AM lemma="ozonový_,s_^(^DD**ozónový)" src="auto" recommended="1">AAFS2----1A----</AM>
 <AM lemma="ozónový" src="auto">AAFS3----1A----</AM>
 <AM lemma="ozónový" src="auto">AAFS6----1A----</AM>
 <AM lemma="ozónový" src="auto">AAIP1----1A----</AM>

@@ -51,7 +51,7 @@
 <LM>w#w-ln95048-143-p1s1w5</LM>
 </w.rf>
 <form>oči</form>
-<tag lemma="oko" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="oko-2" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 </s>
 <s id="m-ln95048-143-p2s1A">
@@ -183,7 +183,7 @@
 <LM>w#w-ln95048-143-p2s1Bw14</LM>
 </w.rf>
 <form>oči</form>
-<tag lemma="oko" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="oko-2" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-ln95048-143-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -407,7 +407,7 @@
 <LM>w#w-ln95048-143-p2s2w26</LM>
 </w.rf>
 <form>oko</form>
-<tag lemma="oko" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="oko-1" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln95048-143-p2s2w27">
 <src.rf>manual</src.rf>
@@ -489,7 +489,7 @@
 <LM>w#w-ln95048-143-p2s3w9</LM>
 </w.rf>
 <form>oka</form>
-<tag lemma="oko" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="oko-1" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln95048-143-p2s3w10">
 <src.rf>manual</src.rf>
@@ -547,7 +547,7 @@
 <LM>w#w-ln95048-143-p2s4w3</LM>
 </w.rf>
 <form>zamlžené</form>
-<tag lemma="zamlžený_,a_^(*2t)" src="auto" selected="1">AANS1----1A----</tag>
+<tag lemma="zamlžený_^(*3it)" src="auto" selected="1">AANS1----1A----</tag>
 </m>
 <m id="m-ln95048-143-p2s4w4">
 <src.rf>manual</src.rf>

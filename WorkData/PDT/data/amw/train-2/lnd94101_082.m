@@ -715,7 +715,7 @@
 <LM>w#w-lnd94101-082-p1s13w8</LM>
 </w.rf>
 <form>Chang</form>
-<tag lemma="Chang_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Chang-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-082-p1s13w9">
 <src.rf>manual</src.rf>
@@ -822,7 +822,7 @@
 <LM>w#w-lnd94101-082-p1s13w21</LM>
 </w.rf>
 <form>Dunn</form>
-<tag lemma="Dunn_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dunn-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-082-p1s13w22">
 <src.rf>manual</src.rf>
@@ -1184,7 +1184,7 @@
 <LM>w#w-lnd94101-082-p1s14w7</LM>
 </w.rf>
 <form>Mansdorf</form>
-<tag lemma="Mansdorf_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mansdorf-2_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-082-p1s14w8">
 <src.rf>manual</src.rf>
@@ -1815,7 +1815,7 @@
 <LM>w#w-lnd94101-082-p1s16w20</LM>
 </w.rf>
 <form>Costa</form>
-<tag lemma="Costa_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Costa-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-082-p1s16w21">
 <src.rf>manual</src.rf>
@@ -2347,7 +2347,7 @@
 <LM>w#w-lnd94101-082-p1s19w5</LM>
 </w.rf>
 <form>Toulouse</form>
-<tag lemma="Toulouse_;G" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="Toulouse-1_;G" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-lnd94101-082-p1s19w6">
 <src.rf>manual</src.rf>

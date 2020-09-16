@@ -1039,7 +1039,7 @@
 <LM>w#w-mf930709-139-p3s2w29</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-mf930709-139-p3s2w30">
 <src.rf>manual</src.rf>
@@ -1757,7 +1757,7 @@
 <LM>w#w-mf930709-139-p5s2w11</LM>
 </w.rf>
 <form>naši</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSMP1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSMP1-P1-------</tag>
 </m>
 <m id="m-mf930709-139-p5s2w12">
 <src.rf>manual</src.rf>
@@ -2118,7 +2118,7 @@
 <LM>w#w-mf930709-139-p7s2w1</LM>
 </w.rf>
 <form>Modré</form>
-<tag lemma="modrý" src="orig" selected="1">AAFP1----1A----</tag>
+<tag lemma="modrý_;o" src="orig" selected="1">AAFP1----1A----</tag>
 </m>
 <m id="m-mf930709-139-p7s2w2">
 <src.rf>manual</src.rf>

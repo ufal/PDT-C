@@ -695,7 +695,7 @@
 <LM>w#w-ln95040-041-p2s3w25</LM>
 </w.rf>
 <form>Karlově</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUNS6M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUNS6M---------</tag>
 </m>
 <m id="m-ln95040-041-p2s3w26">
 <src.rf>manual</src.rf>

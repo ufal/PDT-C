@@ -120,7 +120,7 @@
 <LM>w#w-mf930702-076-p1s2w10</LM>
 </w.rf>
 <form>manažery</form>
-<tag lemma="manažer" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="manažer-1" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-mf930702-076-p1s2w11">
 <src.rf>manual</src.rf>
@@ -369,7 +369,7 @@
 <LM>w#w-mf930702-076-p1s5w4</LM>
 </w.rf>
 <form>zaměstnání</form>
-<tag lemma="zaměstnání-1_^(všeob._význam:_činnost,_zaměstnání)_(*5at-1)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="zaměstnání_^(*3at)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-mf930702-076-p1s5w5">
 <src.rf>manual</src.rf>

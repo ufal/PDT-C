@@ -43,7 +43,7 @@
 <LM>w#w-ln94205-82-p1s1w4</LM>
 </w.rf>
 <form>extremisty</form>
-<tag lemma="extremista" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="extremista_,s_^(^DD**extrémista)" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 </s>
 <s id="m-ln94205-82-p2s1A">
@@ -904,7 +904,7 @@
 <LM>w#w-ln94205-82-p2s5w6</LM>
 </w.rf>
 <form>napjaté</form>
-<tag lemma="napjatý_^(*4nout)" src="orig" selected="1">AAIP1----1A----</tag>
+<tag lemma="napjatý" src="orig" selected="1">AAIP1----1A----</tag>
 </m>
 <m id="m-ln94205-82-p2s5w7">
 <src.rf>manual</src.rf>
@@ -1043,7 +1043,7 @@
 <LM>w#w-ln94205-82-p2s5w23</LM>
 </w.rf>
 <form>svržení</form>
-<tag lemma="svržení_^(*4hnout)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="svržení" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln94205-82-p2s5w24">
 <src.rf>manual</src.rf>

@@ -289,7 +289,7 @@
 <LM>w#w-ln95045-003-p2s2w5</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS6---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS6---------1</tag>
 </m>
 <m id="m-ln95045-003-p2s2w6">
 <src.rf>manual</src.rf>
@@ -722,7 +722,7 @@
 <LM>w#w-ln95045-003-p3s1w30</LM>
 </w.rf>
 <form>Bundesbanky</form>
-<tag lemma="Bundesbanka" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Bundesbanka_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95045-003-p3s1w31">
 <src.rf>manual</src.rf>
@@ -1032,7 +1032,7 @@
 <LM>w#w-ln95045-003-p3s4w13</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-ln95045-003-p3s4w14">
 <src.rf>manual</src.rf>
@@ -1074,7 +1074,7 @@
 <LM>w#w-ln95045-003-p4s1w2</LM>
 </w.rf>
 <form>Bundesbanky</form>
-<tag lemma="Bundesbanka" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Bundesbanka_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95045-003-p4s1w3">
 <src.rf>manual</src.rf>

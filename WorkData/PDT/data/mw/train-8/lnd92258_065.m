@@ -71,7 +71,7 @@
 <LM>w#w-lnd92258-065-p2s2w3</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-lnd92258-065-p2s2w4">
 <src.rf>manual</src.rf>
@@ -282,7 +282,7 @@
 <LM>w#w-lnd92258-065-p2s2w29</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="mluvčí-2" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92258-065-p2s2w30">
 <src.rf>manual</src.rf>
@@ -571,7 +571,7 @@
 <LM>w#w-lnd92258-065-p2s4w6</LM>
 </w.rf>
 <form>napjatá</form>
-<tag lemma="napjatý_^(*4nout)" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="napjatý" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-lnd92258-065-p2s4w7">
 <src.rf>manual</src.rf>
@@ -635,7 +635,7 @@
 <LM>w#w-lnd92258-065-p2s4w14</LM>
 </w.rf>
 <form>Strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92258-065-p2s4w15">
 <src.rf>manual</src.rf>

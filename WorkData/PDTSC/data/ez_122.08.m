@@ -389,7 +389,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="třeba-3" src="auto" selected="1">TT-------------</AM>
+<AM lemma="třeba-2_^(například)" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m122-d1t1816-10">
@@ -503,7 +503,7 @@
 <form>Třeba</form>
 <tag>
 <AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="třeba-3" src="auto" selected="1">TT-------------</AM>
+<AM lemma="třeba-2_^(například)" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m122-d1t1816-22">
@@ -575,7 +575,7 @@
 </w.rf>
 <form>druhá</form>
 <tag>
-<AM lemma="druhý" src="auto" recommended="1">CrFS1----------</AM>
+<AM lemma="druhý`2" src="auto" recommended="1">CrFS1----------</AM>
 <AM lemma="druhý" src="auto">CrFS5----------</AM>
 <AM lemma="druhý" src="auto">CrNP1----------</AM>
 <AM lemma="druhý" src="auto">CrNP4----------</AM>
@@ -772,7 +772,7 @@
 <tag>
 <AM lemma="jenom-1" src="auto">TT-------------</AM>
 <AM lemma="jenom-2_^(pouze)" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="jenom-2_,s_^(^DD**jen-4)_(pouze)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="jenom-2_^(pouze)" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m122-d1t1823-9">
@@ -1145,7 +1145,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="třeba-3" src="auto" selected="1">TT-------------</AM>
+<AM lemma="třeba-2_^(například)" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m122-d1t1835-7">
@@ -1610,7 +1610,7 @@
 <AM lemma="jezdec" src="auto">NNIP4-----A----</AM>
 <AM lemma="jezdec" src="auto">NNIP5-----A----</AM>
 <AM lemma="jezdec" src="auto">NNIS2-----A----</AM>
-<AM lemma="jezdec" src="auto" recommended="1" selected="1">NNMP4-----A----</AM>
+<AM lemma="jezdec-1" src="auto" recommended="1" selected="1">NNMP4-----A----</AM>
 <AM lemma="jezdec" src="auto">NNMS2-----A----</AM>
 <AM lemma="jezdec" src="auto">NNMS4-----A----</AM>
 </tag>
@@ -1846,7 +1846,7 @@
 <form>tu</form>
 <tag>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m122-d1t1879-4">
@@ -3391,7 +3391,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="třeba-3" src="auto" selected="1">TT-------------</AM>
+<AM lemma="třeba-2_^(například)" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m122-d1t1951-14">
@@ -3549,7 +3549,7 @@
 <tag>
 <AM lemma="on-1" src="auto" recommended="1">PPYS1--3-------</AM>
 <AM lemma="on-77" src="auto">F%-------------</AM>
-<AM lemma="on_^(on-line)" src="manual" selected="1">S2--------A----</AM>
+<AM lemma="on-2_^(on-line)" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m122-d1t1955-13">
@@ -3605,7 +3605,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="třeba-3" src="auto" selected="1">TT-------------</AM>
+<AM lemma="třeba-2_^(například)" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m122-d1t1959-2">
@@ -3616,7 +3616,7 @@
 <tag>
 <AM lemma="jenom-1" src="auto">TT-------------</AM>
 <AM lemma="jenom-2_^(pouze)" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="jenom-2_,s_^(^DD**jen-4)_(pouze)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="jenom-2_^(pouze)" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m122-d1t1959-3">

@@ -354,7 +354,7 @@
 <LM>w#w-lnd92257-027-p2s3w12</LM>
 </w.rf>
 <form>Zlatých</form>
-<tag lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAFP2----1A----</tag>
+<tag lemma="zlatý-1_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAFP2----1A----</tag>
 </m>
 <m id="m-lnd92257-027-p2s3w13">
 <src.rf>manual</src.rf>

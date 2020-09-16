@@ -495,7 +495,7 @@
 <LM>w#w-mf920902-069-p2s3w23</LM>
 </w.rf>
 <form>data</form>
-<tag lemma="datum_^(kalendářní)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="datum-1_^(kalendářní)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-mf920902-069-p2s3w24">
 <src.rf>manual</src.rf>
@@ -609,7 +609,7 @@
 <LM>w#w-mf920902-069-p2s4w6</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf920902-069-p2s4w7">
 <src.rf>manual</src.rf>

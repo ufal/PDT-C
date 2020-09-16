@@ -982,7 +982,7 @@
 </w.rf>
 <form>Fairfield</form>
 <tag>
-<AM lemma="Fairfield_;G" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Fairfield_;G_;m" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Fairfield_;G" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -1422,7 +1422,7 @@
 <AM lemma="program-1" src="auto" recommended="1">NNIP4-----A----</AM>
 <AM lemma="program-1" src="auto">NNIP5-----A----</AM>
 <AM lemma="program-1" src="auto">NNIP7-----A----</AM>
-<AM lemma="program" src="manual" selected="1">NNIP4-----A----</AM>
+<AM lemma="program-1" src="manual" selected="1">NNIP4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0489-001-p1s4W18-Ta">
@@ -1513,7 +1513,7 @@
 <tag>
 <AM lemma="monogram" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="monogram" src="auto">NNIS4-----A----</AM>
-<AM lemma="Monogram_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="monogram" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0489-001-p1s4W26-Ta">
@@ -1810,7 +1810,7 @@
 <tag>
 <AM lemma="monogram" src="auto">NNIS1-----A----</AM>
 <AM lemma="monogram" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="Monogram_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="monogram" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0489-001-p1s5W6-Ta">

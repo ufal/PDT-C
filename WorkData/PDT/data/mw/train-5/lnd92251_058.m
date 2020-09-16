@@ -109,7 +109,7 @@
 <AM lemma="Lu-2_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="Lu-1_:B_;U_^(lutecium)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="Lu-2_;Y" src="manual">NNMS1-----A----</AM>
-<AM lemma="Lu-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Lu-3_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-058-p3s2w5">
@@ -201,7 +201,7 @@
 <LM>w#w-lnd92251-058-p3s2w15</LM>
 </w.rf>
 <form>Patten</form>
-<tag lemma="Patten_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Patten-2_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92251-058-p3s2w16">
 <src.rf>manual</src.rf>
@@ -374,7 +374,7 @@
 <tag>
 <AM lemma="Lu-2_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="Lu-1_:B_;U_^(lutecium)" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Lu-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Lu-3_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-058-p3s3w2">
@@ -578,7 +578,7 @@
 <LM>w#w-lnd92251-058-p3s3w26</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-lnd92251-058-p3s3w27">
 <src.rf>manual</src.rf>
@@ -783,7 +783,7 @@
 <tag>
 <AM lemma="Lu-2_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="Lu-1_:B_;U_^(lutecium)" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Lu-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Lu-3_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-058-p3s4w18">
@@ -813,7 +813,7 @@
 <LM>w#w-lnd92251-058-p3s5w1</LM>
 </w.rf>
 <form>Patten</form>
-<tag lemma="Patten_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Patten-2_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92251-058-p3s5w2">
 <src.rf>manual</src.rf>

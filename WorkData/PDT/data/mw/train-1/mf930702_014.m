@@ -310,7 +310,7 @@
 <LM>w#w-mf930702-014-p2s2w7</LM>
 </w.rf>
 <form>členové</form>
-<tag lemma="člen" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf930702-014-p2s2w8">
 <src.rf>manual</src.rf>
@@ -326,7 +326,7 @@
 <LM>w#w-mf930702-014-p2s2w9</LM>
 </w.rf>
 <form>clubu</form>
-<tag lemma="klub" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="club_,s_^(^DD**klub)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930702-014-p2s2w10">
 <src.rf>manual</src.rf>
@@ -449,7 +449,7 @@
 <LM>w#w-mf930702-014-p2s2w24</LM>
 </w.rf>
 <form>výzbrojí</form>
-<tag lemma="výzbroj" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="výzbroj-1" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-mf930702-014-p2s2w25">
 <src.rf>manual</src.rf>

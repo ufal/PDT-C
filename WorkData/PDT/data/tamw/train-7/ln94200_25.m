@@ -35,7 +35,7 @@
 <LM>w#w-ln94200-25-p1s1w3</LM>
 </w.rf>
 <form>ukazatele</form>
-<tag lemma="ukazatel" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="ukazatel-1" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94200-25-p2s2">
@@ -103,7 +103,7 @@
 <LM>w#w-ln94200-25-p2s3w3</LM>
 </w.rf>
 <form>Nezaměstnaní</form>
-<tag lemma="zaměstnaný-1_^(všeob._význam:_činnost,_zaměstnání)_(*4t-1)" src="orig" selected="1">AAMP1----1N----</tag>
+<tag lemma="zaměstnaný_^(*2t)" src="orig" selected="1">AAMP1----1N----</tag>
 </m>
 <m id="m-ln94200-25-p2s3w4">
 <src.rf>manual</src.rf>

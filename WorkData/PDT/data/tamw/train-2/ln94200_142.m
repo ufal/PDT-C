@@ -221,7 +221,7 @@
 <LM>w#w-ln94200-142-p2s2w2</LM>
 </w.rf>
 <form>kořeny</form>
-<tag lemma="kořen" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="kořen-1" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-ln94200-142-p2s2w3">
 <src.rf>manual</src.rf>
@@ -335,7 +335,7 @@
 <LM>w#w-ln94200-142-p2s3w5</LM>
 </w.rf>
 <form>prvního</form>
-<tag lemma="první" src="orig" selected="1">CrMS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrMS2----------</tag>
 </m>
 <m id="m-ln94200-142-p2s3w6">
 <src.rf>manual</src.rf>
@@ -351,7 +351,7 @@
 <LM>w#w-ln94200-142-p2s3w7</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94200-142-p2s3w8">
 <src.rf>manual</src.rf>
@@ -1158,7 +1158,7 @@
 <LM>w#w-ln94200-142-p3s1w4</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-ln94200-142-p3s1w5">
 <src.rf>manual</src.rf>
@@ -2264,7 +2264,7 @@
 <LM>w#w-ln94200-142-p4s5w18</LM>
 </w.rf>
 <form>kolosy</form>
-<tag lemma="kolos" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="kolos-1" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-ln94200-142-p4s5w19">
 <src.rf>manual</src.rf>
@@ -2440,7 +2440,7 @@
 <LM>w#w-ln94200-142-p4s7w4</LM>
 </w.rf>
 <form>členové</form>
-<tag lemma="člen" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln94200-142-p4s7w5">
 <src.rf>manual</src.rf>

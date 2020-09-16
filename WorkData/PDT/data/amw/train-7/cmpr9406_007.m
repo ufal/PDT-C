@@ -43,7 +43,7 @@
 <LM>w#w-cmpr9406-007-p2s1w4</LM>
 </w.rf>
 <form>my</form>
-<tag lemma="já" src="orig" selected="1">PP-P1--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P1--1-------</tag>
 </m>
 </s>
 <s id="m-cmpr9406-007-p3s1">
@@ -361,7 +361,7 @@
 <LM>w#w-cmpr9406-007-p4s2w20</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-cmpr9406-007-p4s2w21">
 <src.rf>manual</src.rf>
@@ -932,7 +932,7 @@
 <LM>w#w-cmpr9406-007-p5s2w4</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS1----------</tag>
 </m>
 <m id="m-cmpr9406-007-p5s2w5">
 <src.rf>manual</src.rf>
@@ -988,7 +988,7 @@
 <LM>w#w-cmpr9406-007-p5s2w11</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-cmpr9406-007-p5s2w12">
 <src.rf>manual</src.rf>
@@ -1113,7 +1113,7 @@
 <LM>w#w-cmpr9406-007-p6s1w10</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-cmpr9406-007-p6s1w11">
 <src.rf>manual</src.rf>

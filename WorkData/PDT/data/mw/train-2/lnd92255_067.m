@@ -297,7 +297,7 @@
 <LM>w#w-lnd92255-067-p2s3w16</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd92255-067-p2s3w17">
 <src.rf>manual</src.rf>
@@ -313,7 +313,7 @@
 <LM>w#w-lnd92255-067-p2s3w18</LM>
 </w.rf>
 <form>vězení</form>
-<tag lemma="vězení_,a_^(místo_výkonu_trestu)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="vězení_^(místo_výkonu_trestu)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-lnd92255-067-p2s3w19">
 <src.rf>manual</src.rf>
@@ -363,7 +363,7 @@
 <LM>w#w-lnd92255-067-p2s4w5</LM>
 </w.rf>
 <form>děti</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-lnd92255-067-p2s4w6">
 <src.rf>manual</src.rf>
@@ -387,7 +387,7 @@
 <LM>w#w-lnd92255-067-p2s4w8</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd92255-067-p2s4w9">
 <src.rf>manual</src.rf>
@@ -583,7 +583,7 @@
 <LM>w#w-lnd92255-067-p2s6w5</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd92255-067-p2s6w6">
 <src.rf>manual</src.rf>

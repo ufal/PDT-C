@@ -304,7 +304,7 @@
 <LM>w#w-mf930713-029-p2s2w11</LM>
 </w.rf>
 <form>druhému</form>
-<tag lemma="druhý" src="orig" selected="1">CrMS3----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrMS3----------</tag>
 </m>
 <m id="m-mf930713-029-p2s2w12">
 <src.rf>manual</src.rf>

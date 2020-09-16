@@ -904,7 +904,7 @@
 <LM>w#w-mf920924-085-p4s2w16</LM>
 </w.rf>
 <form>tažení</form>
-<tag lemma="tažení_^(*5áhnout)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="tažení" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-mf920924-085-p4s2w17">
 <src.rf>manual</src.rf>
@@ -960,7 +960,7 @@
 <LM>w#w-mf920924-085-p5s1w2</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS1----------</tag>
 </m>
 <m id="m-mf920924-085-p5s1w3">
 <src.rf>manual</src.rf>
@@ -1304,7 +1304,7 @@
 <LM>w#w-mf920924-085-p5s3w16</LM>
 </w.rf>
 <form>dny</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-mf920924-085-p5s3w17">
 <src.rf>manual</src.rf>

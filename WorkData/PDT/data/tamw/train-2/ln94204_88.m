@@ -257,7 +257,7 @@
 <LM>w#w-ln94204-88-p2s2w2</LM>
 </w.rf>
 <form>členové</form>
-<tag lemma="člen" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln94204-88-p2s2w3">
 <src.rf>manual</src.rf>
@@ -812,7 +812,7 @@
 <LM>w#w-ln94204-88-p3s3w2</LM>
 </w.rf>
 <form>prostředky</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-ln94204-88-p3s3w3">
 <src.rf>manual</src.rf>

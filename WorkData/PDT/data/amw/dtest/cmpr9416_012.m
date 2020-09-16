@@ -27,7 +27,7 @@
 <LM>w#w-cmpr9416-012-p2s1w2</LM>
 </w.rf>
 <form>vaše</form>
-<tag lemma="tvůj_^(přivlast.)" src="orig" selected="1">PSIP1-P2-------</tag>
+<tag lemma="váš" src="orig" selected="1">PSIP1-P2-------</tag>
 </m>
 <m id="m-cmpr9416-012-p2s1w3">
 <src.rf>manual</src.rf>

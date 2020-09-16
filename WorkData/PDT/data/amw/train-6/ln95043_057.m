@@ -27,7 +27,7 @@
 <LM>w#w-ln95043-057-p1s1w2</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8MS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8MS4----------</tag>
 </m>
 <m id="m-ln95043-057-p1s1w3">
 <src.rf>manual</src.rf>
@@ -277,7 +277,7 @@
 <LM>w#w-ln95043-057-p3s1Bw22</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8MS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8MS4----------</tag>
 </m>
 <m id="m-ln95043-057-p3s1Bw23">
 <src.rf>manual</src.rf>
@@ -565,7 +565,7 @@
 <LM>w#w-ln95043-057-p3s3w11</LM>
 </w.rf>
 <form>napadení</form>
-<tag lemma="napadení_^(*3nout)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="napadení" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95043-057-p3s3w12">
 <src.rf>manual</src.rf>

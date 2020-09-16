@@ -191,7 +191,7 @@
 <LM>w#w-ln94211-33-p2s1Bw10</LM>
 </w.rf>
 <form>zaměstnání</form>
-<tag lemma="zaměstnání-1_^(všeob._význam:_činnost,_zaměstnání)_(*5at-1)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="zaměstnání_^(*3at)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln94211-33-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -396,7 +396,7 @@
 <LM>w#w-ln94211-33-p3s1w7</LM>
 </w.rf>
 <form>zaměstnání</form>
-<tag lemma="zaměstnání-1_^(všeob._význam:_činnost,_zaměstnání)_(*5at-1)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="zaměstnání_^(*3at)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln94211-33-p3s1w8">
 <src.rf>manual</src.rf>
@@ -520,7 +520,7 @@
 <LM>w#w-ln94211-33-p3s3w5</LM>
 </w.rf>
 <form>druhého</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS2----------</tag>
 </m>
 <m id="m-ln94211-33-p3s3w6">
 <src.rf>manual</src.rf>
@@ -1040,7 +1040,7 @@
 <LM>w#w-ln94211-33-p3s7w3</LM>
 </w.rf>
 <form>nezaměstnaných</form>
-<tag lemma="zaměstnaný-1_^(všeob._význam:_činnost,_zaměstnání)_(*4t-1)" src="orig" selected="1">AAMP2----1N----</tag>
+<tag lemma="zaměstnaný_^(*2t)" src="orig" selected="1">AAMP2----1N----</tag>
 </m>
 <m id="m-ln94211-33-p3s7w4">
 <src.rf>manual</src.rf>
@@ -1236,7 +1236,7 @@
 <LM>w#w-ln94211-33-p3s9w6</LM>
 </w.rf>
 <form>nezaměstnaných</form>
-<tag lemma="zaměstnaný-1_^(všeob._význam:_činnost,_zaměstnání)_(*4t-1)" src="orig" selected="1">AAMP2----1N----</tag>
+<tag lemma="zaměstnaný_^(*2t)" src="orig" selected="1">AAMP2----1N----</tag>
 </m>
 <m id="m-ln94211-33-p3s9w7">
 <src.rf>manual</src.rf>

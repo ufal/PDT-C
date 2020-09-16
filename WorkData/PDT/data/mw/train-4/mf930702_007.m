@@ -139,7 +139,7 @@
 <LM>w#w-mf930702-007-p2s1w10</LM>
 </w.rf>
 <form>Hnutí</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-mf930702-007-p2s1w11">
 <src.rf>manual</src.rf>

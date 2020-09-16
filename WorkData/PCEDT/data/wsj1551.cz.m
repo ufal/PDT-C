@@ -1326,7 +1326,7 @@
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8IP1---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8IP5---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS1---------1</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8NS4---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8NS4---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS5---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8YP4---------1</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOFP-----------</AM>
@@ -1435,7 +1435,7 @@
 </w.rf>
 <form>našich</form>
 <tag>
-<AM lemma="můj_^(přivlast.)" src="auto" recommended="1">PSXP2-P1-------</AM>
+<AM lemma="náš" src="auto" recommended="1">PSXP2-P1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSXP6-P1-------</AM>
 </tag>
 </m>
@@ -1559,7 +1559,7 @@
 <form>nás</form>
 <tag>
 <AM lemma="já" src="auto">PP-P2--1-------</AM>
-<AM lemma="já" src="auto" recommended="1">PP-P4--1-------</AM>
+<AM lemma="my" src="auto" recommended="1">PP-P4--1-------</AM>
 <AM lemma="já" src="auto">PP-P6--1-------</AM>
 </tag>
 </m>
@@ -2773,7 +2773,7 @@
 </w.rf>
 <form>tištěném</form>
 <tag>
-<AM lemma="tištěný_^(*5sknout)" src="auto" selected="1">AAIS6----1A----</AM>
+<AM lemma="tištěný" src="auto" selected="1">AAIS6----1A----</AM>
 <AM lemma="tištěný_^(*5sknout)" src="auto">AAMS6----1A----</AM>
 <AM lemma="tištěný_^(*5sknout)" src="auto" recommended="1">AANS6----1A----</AM>
 </tag>
@@ -3052,7 +3052,7 @@
 </w.rf>
 <form>tištěném</form>
 <tag>
-<AM lemma="tištěný_^(*5sknout)" src="auto" recommended="1">AAIS6----1A----</AM>
+<AM lemma="tištěný" src="auto" recommended="1">AAIS6----1A----</AM>
 <AM lemma="tištěný_^(*5sknout)" src="auto">AAMS6----1A----</AM>
 <AM lemma="tištěný_^(*5sknout)" src="auto">AANS6----1A----</AM>
 </tag>
@@ -3105,7 +3105,7 @@
 </w.rf>
 <form>tištěném</form>
 <tag>
-<AM lemma="tištěný_^(*5sknout)" src="auto" recommended="1">AAIS6----1A----</AM>
+<AM lemma="tištěný" src="auto" recommended="1">AAIS6----1A----</AM>
 <AM lemma="tištěný_^(*5sknout)" src="auto">AAMS6----1A----</AM>
 <AM lemma="tištěný_^(*5sknout)" src="auto">AANS6----1A----</AM>
 </tag>
@@ -3417,7 +3417,7 @@
 <AM lemma="York-2_;G" src="auto">NNIS2-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS5-----A----</AM>
-<AM lemma="York-2_;G" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="York-2_;G_;m" src="auto" recommended="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1551-001-p1s12W15-Ta">

@@ -270,7 +270,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="třeba-3" src="auto" selected="1">TT-------------</AM>
+<AM lemma="třeba-2_^(například)" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m123-d1t637-11">
@@ -338,7 +338,7 @@
 <tag>
 <AM lemma="tvůj_^(přivlast.)" src="auto">PSMS4-P2-------</AM>
 <AM lemma="tvůj_^(přivlast.)" src="auto" recommended="1">PSZS2-P2-------</AM>
-<AM lemma="tvůj_^(**můj)_(přivlast.)" src="manual" selected="1">PSZS2-P2-------</AM>
+<AM lemma="váš" src="manual" selected="1">PSZS2-P2-------</AM>
 </tag>
 </m>
 <m id="m123-d1t641-6">
@@ -1318,7 +1318,7 @@
 <AM lemma="dobrý" src="auto">AANP1----3A----</AM>
 <AM lemma="dobrý" src="auto">AANP4----3A----</AM>
 <AM lemma="dobrý" src="auto">AANP5----3A----</AM>
-<AM lemma="dobrý" src="auto" recommended="1">AANS1----3A----</AM>
+<AM lemma="lepší" src="auto" recommended="1">AANS1----3A----</AM>
 <AM lemma="dobrý" src="auto">AANS4----3A----</AM>
 <AM lemma="dobrý" src="auto">AANS5----3A----</AM>
 </tag>
@@ -2263,7 +2263,7 @@
 <tag>
 <AM lemma="extra-1" src="auto">Db-------------</AM>
 <AM lemma="extra-2_,h_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="extra-2_,h" src="manual" selected="1">AAXXX----1A----</AM>
+<AM lemma="extra-2" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m123-d1t738-10">
@@ -2676,7 +2676,7 @@
 </w.rf>
 <form>moji</form>
 <tag>
-<AM lemma="můj_^(přivlast.)" src="auto" recommended="1">PSFS4-S1-------</AM>
+<AM lemma="můj" src="auto" recommended="1">PSFS4-S1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSMP1-S1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSMP5-S1-------</AM>
 </tag>
@@ -2847,7 +2847,7 @@
 <tag>
 <AM lemma="ty" src="auto" recommended="1">PP-P1--2-------</AM>
 <AM lemma="ty" src="auto">PP-P5--2-------</AM>
-<AM lemma="ty_^(**já)" src="manual" selected="1">PP-P1--2-------</AM>
+<AM lemma="vy" src="manual" selected="1">PP-P1--2-------</AM>
 </tag>
 </m>
 <m id="m123-d-id81546-punct">
@@ -3605,7 +3605,7 @@
 </w.rf>
 <form>Příbram</form>
 <tag>
-<AM lemma="Příbram_;G" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Příbram-2_;G" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Příbram_;G" src="auto">NNFS4-----A----</AM>
 <AM lemma="Příbram_;Y" src="auto">NNMS1-----A----</AM>
 </tag>
@@ -4023,7 +4023,7 @@
 <form>sucho</form>
 <tag>
 <AM lemma="sucho" src="auto">Dg-------1A----</AM>
-<AM lemma="sucho" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="sucho-2" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="sucho" src="auto">NNNS4-----A----</AM>
 <AM lemma="sucho" src="auto">NNNS5-----A----</AM>
 </tag>
@@ -5142,7 +5142,7 @@
 </w.rf>
 <form>děti</form>
 <tag>
-<AM lemma="dítě" src="auto" recommended="1">NNFP1-----A----</AM>
+<AM lemma="dítě-2" src="auto" recommended="1">NNFP1-----A----</AM>
 <AM lemma="dítě" src="auto">NNFP4-----A----</AM>
 <AM lemma="dítě" src="auto">NNFP5-----A----</AM>
 </tag>

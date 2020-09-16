@@ -309,7 +309,7 @@
 <LM>w#w-ln94209-11-p2s2w6</LM>
 </w.rf>
 <form>členů</form>
-<tag lemma="člen" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94209-11-p2s2w7">
 <src.rf>manual</src.rf>
@@ -729,7 +729,7 @@
 <LM>w#w-ln94209-11-p4s1w13</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS1FS3-------</tag>
 </m>
 <m id="m-ln94209-11-p4s1w14">
 <src.rf>manual</src.rf>
@@ -1824,7 +1824,7 @@
 <LM>w#w-ln94209-11-p8s1w21</LM>
 </w.rf>
 <form>prostředku</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94209-11-p8s1w22">
 <src.rf>manual</src.rf>

@@ -79,7 +79,7 @@
 <form>Mario</form>
 <tag>
 <AM lemma="Mario_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mario_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Mario_;Y_,s_^(^DD**Mário)" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-121-p2s2w2">
@@ -388,7 +388,7 @@
 <LM>w#w-lnd92258-121-p2s3w6</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-lnd92258-121-p2s3w7">
 <src.rf>manual</src.rf>
@@ -396,7 +396,7 @@
 <LM>w#w-lnd92258-121-p2s3w7</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd92258-121-p2s3w8">
 <src.rf>manual</src.rf>
@@ -715,7 +715,7 @@
 <LM>w#w-lnd92258-121-p2s5w20</LM>
 </w.rf>
 <form>dal</form>
-<tag lemma="dát" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92258-121-p2s5w21">
 <src.rf>manual</src.rf>
@@ -1181,7 +1181,7 @@
 <LM>w#w-lnd92258-121-p3s6w1</LM>
 </w.rf>
 <form>Philadelphia</form>
-<tag lemma="Philadelphia_;G" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Philadelphie_;G_,s_^(^DD**Filadelfie)" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-lnd92258-121-p3s6w2">
 <src.rf>manual</src.rf>
@@ -1365,7 +1365,7 @@
 <LM>w#w-lnd92258-121-p3s10w1</LM>
 </w.rf>
 <form>Quebec</form>
-<tag lemma="Québec_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Quebec_;G" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92258-121-p3s10w2">
 <src.rf>manual</src.rf>
@@ -1407,7 +1407,7 @@
 <LM>w#w-lnd92258-121-p3s11w1</LM>
 </w.rf>
 <form>Buffalo</form>
-<tag lemma="Buffalo-2_;m_^(sport.:_souč._názvu)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Buffalo-1_;G_;m_^(město_sport._klub)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-lnd92258-121-p3s11w2">
 <src.rf>manual</src.rf>
@@ -1449,7 +1449,7 @@
 <LM>w#w-lnd92258-121-p3s12w1</LM>
 </w.rf>
 <form>Hartford</form>
-<tag lemma="Hartford_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Hartford_;G_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92258-121-p3s12w2">
 <src.rf>manual</src.rf>
@@ -1491,7 +1491,7 @@
 <LM>w#w-lnd92258-121-p3s13w1</LM>
 </w.rf>
 <form>Ottawa</form>
-<tag lemma="Ottawa_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Ottawa-1_;G" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92258-121-p3s13w2">
 <src.rf>manual</src.rf>
@@ -1515,7 +1515,7 @@
 <LM>w#w-lnd92258-121-p3s13w4</LM>
 </w.rf>
 <form>Norrisova</form>
-<tag lemma="Norrisův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Norrisův-1_;Y_^(*4-1)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-lnd92258-121-p3s13w5">
 <src.rf>manual</src.rf>

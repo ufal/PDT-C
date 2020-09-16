@@ -175,7 +175,7 @@
 <LM>w#w-mf920923-129-p2s2w7</LM>
 </w.rf>
 <form>druhý</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS4----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS4----------</tag>
 </m>
 <m id="m-mf920923-129-p2s2w8">
 <src.rf>manual</src.rf>
@@ -403,7 +403,7 @@
 <LM>w#w-mf920923-129-p2s4w4</LM>
 </w.rf>
 <form>mluvčího</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920923-129-p2s4w5">
 <src.rf>manual</src.rf>
@@ -592,7 +592,7 @@
 <LM>w#w-mf920923-129-p2s4w27</LM>
 </w.rf>
 <form>orgánu</form>
-<tag lemma="orgán" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920923-129-p2s4w28">
 <src.rf>manual</src.rf>
@@ -1442,7 +1442,7 @@
 <LM>w#w-mf920923-129-p5s1w4</LM>
 </w.rf>
 <form>zveřejněném</form>
-<tag lemma="zveřejněný_^(*3it)" src="orig" selected="1">AANS6----1A----</tag>
+<tag lemma="zveřejněný_^(*2t)_(*3it)" src="orig" selected="1">AANS6----1A----</tag>
 </m>
 <m id="m-mf920923-129-p5s1w5">
 <src.rf>manual</src.rf>
@@ -1474,7 +1474,7 @@
 <LM>w#w-mf920923-129-p5s1w8</LM>
 </w.rf>
 <form>Hurdovým</form>
-<tag lemma="Hurdův_;Y_^(*2a)" src="orig" selected="1">AUIS7M---------</tag>
+<tag lemma="Hurdův_;Y_^(*2)_(*2a)" src="orig" selected="1">AUIS7M---------</tag>
 </m>
 <m id="m-mf920923-129-p5s1w9">
 <src.rf>manual</src.rf>
@@ -1611,7 +1611,7 @@
 <LM>w#w-mf920923-129-p5s1w25</LM>
 </w.rf>
 <form>Evropě</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf920923-129-p5s1w26">
 <src.rf>manual</src.rf>
@@ -1677,7 +1677,7 @@
 <LM>w#w-mf920923-129-p6s1w7</LM>
 </w.rf>
 <form>co</form>
-<tag lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="co-5_^(př._co_nejméně,_co_nevidět_atd.)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf920923-129-p6s1w8">
 <src.rf>manual</src.rf>
@@ -1857,7 +1857,7 @@
 <LM>w#w-mf920923-129-p6s1w28</LM>
 </w.rf>
 <form>Evropě</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf920923-129-p6s1w29">
 <src.rf>manual</src.rf>

@@ -486,7 +486,7 @@
 <AM lemma="pozornost-1_^(všímavý,_milý,_soustředěný)_(*5ý-1)" src="auto">NNFP1-----A----</AM>
 <AM lemma="pozornost-1_^(všímavý,_milý,_soustředěný)_(*5ý-1)" src="auto" recommended="1">NNFP4-----A----</AM>
 <AM lemma="pozornost-1_^(všímavý,_milý,_soustředěný)_(*5ý-1)" src="auto">NNFP5-----A----</AM>
-<AM lemma="pozornost-1_^(všímavý,_milý,_soustředěný)_(*5ý-1)" src="auto" selected="1">NNFS2-----A----</AM>
+<AM lemma="pozornost-1_^(*5ý-1)" src="auto" selected="1">NNFS2-----A----</AM>
 <AM lemma="pozornost-1_^(všímavý,_milý,_soustředěný)_(*5ý-1)" src="auto">NNFS3-----A----</AM>
 <AM lemma="pozornost-1_^(všímavý,_milý,_soustředěný)_(*5ý-1)" src="auto">NNFS5-----A----</AM>
 <AM lemma="pozornost-1_^(všímavý,_milý,_soustředěný)_(*5ý-1)" src="auto">NNFS6-----A----</AM>
@@ -2752,7 +2752,7 @@
 <AM lemma="Eugene-1_;Y" src="auto">NNMXX-----A----</AM>
 <AM lemma="Eugene-1_;Y_^(žena)" src="auto">NNFXX-----A----</AM>
 <AM lemma="Eugene-2_;G" src="auto">NNIXX-----A----</AM>
-<AM lemma="Eugene-2_;Y_^(muž)" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Eugene-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Eugene-2_;Y_^(muž)" src="auto">NNMS5-----A----</AM>
 <AM lemma="Eugene-2_;Y_^(muž)" src="auto">NNMXX-----A----</AM>
 <AM lemma="Eugene-3_;G_^(univerzitní_město)" src="auto">NNNXX-----A----</AM>
@@ -3255,7 +3255,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2154-001-p1s10W6-Ta">
@@ -3339,7 +3339,7 @@
 <tag>
 <AM lemma="Rochester_;G" src="auto">NNIS2-----A----</AM>
 <AM lemma="Rochester_;G" src="auto">NNIS3-----A----</AM>
-<AM lemma="Rochester_;G" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="Rochester-2_;G_;m" src="auto" recommended="1">NNIS6-----A----</AM>
 <AM lemma="Rochester_;Y" src="auto">NNMS3-----A---1</AM>
 <AM lemma="Rochester_;Y" src="auto">NNMS6-----A---1</AM>
 </tag>
@@ -3944,7 +3944,7 @@
 <tag>
 <AM lemma="David_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="David_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="David_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="David-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2154-001-p1s13W10-Ta">
@@ -4331,7 +4331,7 @@
 <AM lemma="David_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="David_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="David_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="David-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="David-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2154-001-p1s13W42-Ta">
@@ -5958,7 +5958,7 @@
 <tag>
 <AM lemma="ušlý-1_^(kus_cesty,výdělek)_(*5jít-1)" src="auto">AAFP2----1A----</AM>
 <AM lemma="ušlý-1_^(kus_cesty,výdělek)_(*5jít-1)" src="auto">AAFP6----1A----</AM>
-<AM lemma="ušlý-1_^(kus_cesty,výdělek)_(*5jít-1)" src="auto" recommended="1">AAIP2----1A----</AM>
+<AM lemma="ušlý-1_^(*5jít-1)" src="auto" recommended="1">AAIP2----1A----</AM>
 <AM lemma="ušlý-1_^(kus_cesty,výdělek)_(*5jít-1)" src="auto">AAIP6----1A----</AM>
 <AM lemma="ušlý-1_^(kus_cesty,výdělek)_(*5jít-1)" src="auto">AAMP2----1A----</AM>
 <AM lemma="ušlý-1_^(kus_cesty,výdělek)_(*5jít-1)" src="auto">AAMP6----1A----</AM>

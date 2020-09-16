@@ -132,7 +132,7 @@
 <LM>w#w-mf930713-034-p2s1Bw4</LM>
 </w.rf>
 <form>hodině</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf930713-034-p2s1Bw5">
 <src.rf>manual</src.rf>

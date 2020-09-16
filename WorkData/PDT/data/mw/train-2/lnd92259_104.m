@@ -364,7 +364,7 @@
 <LM>w#w-lnd92259-104-p3s3w6</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-104-p3s3w7">
 <src.rf>manual</src.rf>
@@ -843,7 +843,7 @@
 <LM>w#w-lnd92259-104-p3s5w11</LM>
 </w.rf>
 <form>členů</form>
-<tag lemma="člen" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd92259-104-p3s5w12">
 <src.rf>manual</src.rf>

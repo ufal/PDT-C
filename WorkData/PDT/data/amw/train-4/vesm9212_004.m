@@ -301,7 +301,7 @@
 <LM>w#w-vesm9212-004-p2s1w30</LM>
 </w.rf>
 <form>myšleném</form>
-<tag lemma="myšlený_^(*5slet)" src="orig" selected="1">AAIS6----1A----</tag>
+<tag lemma="myšlený_^(*5slit)" src="orig" selected="1">AAIS6----1A----</tag>
 </m>
 <m id="m-vesm9212-004-p2s1w31">
 <src.rf>manual</src.rf>
@@ -1763,7 +1763,7 @@
 <LM>w#w-vesm9212-004-p2s7w86</LM>
 </w.rf>
 <form>představitelných</form>
-<tag lemma="představitelný-1_^(si_něco;_něco/někoho_někomu)_(*6-1)" src="orig" selected="1">AAIP2----1A----</tag>
+<tag lemma="představitelný-1_^(*6-1)" src="orig" selected="1">AAIP2----1A----</tag>
 </m>
 <m id="m-vesm9212-004-p2s7w87">
 <src.rf>manual</src.rf>
@@ -2021,7 +2021,7 @@
 <LM>w#w-vesm9212-004-p2s8w28</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP2-P1-------</tag>
 </m>
 <m id="m-vesm9212-004-p2s8w29">
 <src.rf>manual</src.rf>
@@ -2151,7 +2151,7 @@
 <LM>w#w-vesm9212-004-p2s9w14</LM>
 </w.rf>
 <form>naše</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSHS1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSHS1-P1-------</tag>
 </m>
 <m id="m-vesm9212-004-p2s9w15">
 <src.rf>manual</src.rf>

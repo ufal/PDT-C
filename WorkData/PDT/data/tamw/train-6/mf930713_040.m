@@ -261,7 +261,7 @@
 <LM>w#w-mf930713-040-p7s1w3</LM>
 </w.rf>
 <form>právo</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-mf930713-040-p7s1w4">
 <src.rf>manual</src.rf>
@@ -637,7 +637,7 @@
 <LM>w#w-mf930713-040-p17s1w3</LM>
 </w.rf>
 <form>scenérie</form>
-<tag lemma="scenérie" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="scenérie_,s_^(^DD**scenerie)" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 </s>
 <s id="m-mf930713-040-p18s1">
@@ -1010,7 +1010,7 @@
 <form>Události</form>
 <tag>
 <AM lemma="událost_,a_^(*3ý)" src="orig">NNFP1-----A----</AM>
-<AM lemma="událost_^(*3ý)" src="manual" selected="1">NNFP1-----A----</AM>
+<AM lemma="událost" src="manual" selected="1">NNFP1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-040-p26s1w3">
@@ -1155,7 +1155,7 @@
 <form>Události</form>
 <tag>
 <AM lemma="událost_,a_^(*3ý)" src="orig">NNFP1-----A----</AM>
-<AM lemma="událost_^(*3ý)" src="manual" selected="1">NNFP1-----A----</AM>
+<AM lemma="událost" src="manual" selected="1">NNFP1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-040-p29s1w3">
@@ -1224,7 +1224,7 @@
 <LM>w#w-mf930713-040-p31s1w2</LM>
 </w.rf>
 <form>Fantom</form>
-<tag lemma="fantom" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="fantom-2_,s_^(^DD**fantóm-2)" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-040-p31s1w3">
 <src.rf>manual</src.rf>
@@ -1256,7 +1256,7 @@
 <LM>w#w-mf930713-040-p31s1w6</LM>
 </w.rf>
 <form>Fantoma</form>
-<tag lemma="fantom" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="fantom-2_,s_^(^DD**fantóm-2)" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930713-040-p31s1w7">
 <src.rf>manual</src.rf>
@@ -1320,7 +1320,7 @@
 <LM>w#w-mf930713-040-p31s1w14</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 </s>
 <s id="m-mf930713-040-p32s1">
@@ -1543,7 +1543,7 @@
 <form>Události</form>
 <tag>
 <AM lemma="událost_,a_^(*3ý)" src="orig">NNFP1-----A----</AM>
-<AM lemma="událost_^(*3ý)" src="manual" selected="1">NNFP1-----A----</AM>
+<AM lemma="událost" src="manual" selected="1">NNFP1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-040-p36s1w3">
@@ -1848,7 +1848,7 @@
 <LM>w#w-mf930713-040-p46s1w3</LM>
 </w.rf>
 <form>dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 </s>
 <s id="m-mf930713-040-p47s1">
@@ -2220,7 +2220,7 @@
 <tag>
 <AM lemma="zastavení-1_^([také_z._se];_uvést_do_klidu:_auto,...)_(*5it-1)" src="orig">NNNS1-----A----</AM>
 <AM lemma="zastavený_^(uvést_do_klidu;;zástavní_právo)_(*3it)" src="manual">NNNS2-----A----</AM>
-<AM lemma="zastavený_^(uvést_do_klidu;;zástavní_právo)_(*3it)" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="zastavení_^(*3it)" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-040-p57s1w8">
@@ -3899,7 +3899,7 @@
 <LM>w#w-mf930713-040-p99s1w38</LM>
 </w.rf>
 <form>Sex</form>
-<tag lemma="sex" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="sex-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930713-040-p99s1w39">
 <src.rf>manual</src.rf>
@@ -4364,7 +4364,7 @@
 <LM>w#w-mf930713-040-p101s1w50</LM>
 </w.rf>
 <form>Dny</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-mf930713-040-p101s1w51">
 <src.rf>manual</src.rf>

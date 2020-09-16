@@ -679,7 +679,7 @@
 <tag>
 <AM lemma="starost" src="orig">NNFP4-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFP1-----A----</AM>
-<AM lemma="starost-1" src="auto" recommended="1" selected="1">NNFP4-----A----</AM>
+<AM lemma="starost-2_^(*5ý-2)" src="auto" recommended="1" selected="1">NNFP4-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFP5-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFS2-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFS3-----A----</AM>
@@ -700,7 +700,7 @@
 <LM>w#w-vesm9212-006-p3s4w5</LM>
 </w.rf>
 <form>management</form>
-<tag lemma="management_^(vedení,_manažment;_angl.)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="management_,s_^(^DD**manažment)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-vesm9212-006-p3s4w6">
 <src.rf>manual</src.rf>
@@ -1113,7 +1113,7 @@
 <LM>w#w-vesm9212-006-p4s3w13</LM>
 </w.rf>
 <form>Zürichu</form>
-<tag lemma="Zürich_;G" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Zürich_;G_,s_^(^DD**Curych)" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-vesm9212-006-p4s3w14">
 <src.rf>manual</src.rf>

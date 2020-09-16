@@ -40,7 +40,7 @@
 </w.rf>
 <form>Bellových</form>
 <tag>
-<AM lemma="Bellův-1_;Y_^(*4a-1)" src="auto" recommended="1">AUFP2M---------</AM>
+<AM lemma="Bellův_;Y_^(*2)_(*2a-1)" src="auto" recommended="1">AUFP2M---------</AM>
 <AM lemma="Bellův-1_;Y_^(*4a-1)" src="auto">AUFP6M---------</AM>
 <AM lemma="Bellův-1_;Y_^(*4a-1)" src="auto">AUIP2M---------</AM>
 <AM lemma="Bellův-1_;Y_^(*4a-1)" src="auto">AUIP6M---------</AM>
@@ -991,7 +991,7 @@
 <AM lemma="yttrium_;U" src="auto">NNNS1-----A----</AM>
 <AM lemma="yttrium_;U" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="yttrium_;U" src="auto">NNNS5-----A----</AM>
-<AM lemma="ytrium_;U_,s_^(^DD**yttrium)" src="manual" selected="1">NNNS4-----A----</AM>
+<AM lemma="ytrium_,s_^(^DD**yttrium)" src="manual" selected="1">NNNS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0123-001-p1s2W11-Ta">
@@ -2240,7 +2240,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0123-001-p1s7W9-Ta">
@@ -5200,7 +5200,7 @@
 <AM lemma="dobrý" src="auto">AAFS6----2A----</AM>
 <AM lemma="dobrý" src="auto">AAFS7----2A----</AM>
 <AM lemma="dobrý" src="auto">AAIP1----2A----</AM>
-<AM lemma="dobrý" src="auto" recommended="1">AAIP4----2A----</AM>
+<AM lemma="lepší" src="auto" recommended="1">AAIP4----2A----</AM>
 <AM lemma="dobrý" src="auto">AAIP5----2A----</AM>
 <AM lemma="dobrý" src="auto">AAIS1----2A----</AM>
 <AM lemma="dobrý" src="auto">AAIS4----2A----</AM>
@@ -5300,7 +5300,7 @@
 <form>modely</form>
 <tag>
 <AM lemma="model" src="auto">NNIP1-----A----</AM>
-<AM lemma="model" src="auto" recommended="1">NNIP4-----A----</AM>
+<AM lemma="model-1" src="auto" recommended="1">NNIP4-----A----</AM>
 <AM lemma="model" src="auto">NNIP5-----A----</AM>
 <AM lemma="model" src="auto">NNIP7-----A----</AM>
 <AM lemma="model" src="auto">NNMP4-----A----</AM>
@@ -5463,7 +5463,7 @@
 </w.rf>
 <form>svou</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8FS4---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8FS4---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS7---------1</AM>
 </tag>
 </m>
@@ -5715,7 +5715,7 @@
 <form>Bellových</form>
 <tag>
 <AM lemma="Bellův-1_;Y_^(*4a-1)" src="auto">AUFP2M---------</AM>
-<AM lemma="Bellův-1_;Y_^(*4a-1)" src="auto" recommended="1">AUFP6M---------</AM>
+<AM lemma="Bellův_;Y_^(*2)_(*2a-1)" src="auto" recommended="1">AUFP6M---------</AM>
 <AM lemma="Bellův-1_;Y_^(*4a-1)" src="auto">AUIP2M---------</AM>
 <AM lemma="Bellův-1_;Y_^(*4a-1)" src="auto">AUIP6M---------</AM>
 <AM lemma="Bellův-1_;Y_^(*4a-1)" src="auto">AUMP2M---------</AM>

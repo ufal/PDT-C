@@ -85,7 +85,7 @@
 <LM>w#w-lnd92258-110-p2s1w4</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-lnd92258-110-p2s1w5">
 <src.rf>manual</src.rf>
@@ -1912,7 +1912,7 @@
 <LM>w#w-lnd92258-110-p9s1w10</LM>
 </w.rf>
 <form>Euroclubu</form>
-<tag lemma="Euroclub" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Euroclub_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-lnd92258-110-p9s1w11">
 <src.rf>manual</src.rf>
@@ -2085,7 +2085,7 @@
 <LM>w#w-lnd92258-110-p10s1w15</LM>
 </w.rf>
 <form>druhou</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS4----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS4----------</tag>
 </m>
 <m id="m-lnd92258-110-p10s1w16">
 <src.rf>manual</src.rf>

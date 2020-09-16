@@ -217,7 +217,7 @@
 <LM>w#w-cmpr9413-023-p3s2w1</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrNS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS1----------</tag>
 </m>
 <m id="m-cmpr9413-023-p3s2w2">
 <src.rf>manual</src.rf>
@@ -413,7 +413,7 @@
 <LM>w#w-cmpr9413-023-p4s2w1</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrNS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS1----------</tag>
 </m>
 <m id="m-cmpr9413-023-p4s2w2">
 <src.rf>manual</src.rf>

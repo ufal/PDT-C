@@ -173,7 +173,7 @@
 <LM>w#w-ln95046-053-p2s1w15</LM>
 </w.rf>
 <form>vystavení</form>
-<tag lemma="vystavení_^(např._potvrzení)_(*3it)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="vystavení_^(*3it)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95046-053-p2s1w16">
 <src.rf>manual</src.rf>
@@ -328,7 +328,7 @@
 <LM>w#w-ln95046-053-p2s1w34</LM>
 </w.rf>
 <form>druhý</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS1----------</tag>
 </m>
 <m id="m-ln95046-053-p2s1w35">
 <src.rf>manual</src.rf>
@@ -652,7 +652,7 @@
 <LM>w#w-ln95046-053-p2s3w10</LM>
 </w.rf>
 <form>představení</form>
-<tag lemma="představení-2_^(divadelní,_filmové_apod.)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="představení-1_^(*5it-1)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95046-053-p2s3w11">
 <src.rf>manual</src.rf>
@@ -1199,7 +1199,7 @@
 <LM>w#w-ln95046-053-p2s7w15</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln95046-053-p2s7w16">
 <src.rf>manual</src.rf>
@@ -1341,7 +1341,7 @@
 <LM>w#w-ln95046-053-p2s8w14</LM>
 </w.rf>
 <form>jehož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P1XXXZS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXZS3-------</tag>
 </m>
 <m id="m-ln95046-053-p2s8w15">
 <src.rf>manual</src.rf>
@@ -2221,7 +2221,7 @@
 <LM>w#w-ln95046-053-p3s4w25</LM>
 </w.rf>
 <form>cesty</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95046-053-p3s4w26">
 <src.rf>manual</src.rf>
@@ -2391,7 +2391,7 @@
 <LM>w#w-ln95046-053-p3s5w15</LM>
 </w.rf>
 <form>správné</form>
-<tag lemma="správný_^(podle_něj._měřítek;_př._chlap,_míra,...)" src="orig" selected="1">AANS1----1A----</tag>
+<tag lemma="správný" src="orig" selected="1">AANS1----1A----</tag>
 </m>
 <m id="m-ln95046-053-p3s5w16">
 <src.rf>manual</src.rf>
@@ -2513,7 +2513,7 @@
 <LM>w#w-ln95046-053-p3s6w6</LM>
 </w.rf>
 <form>lepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AANS4----2A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AANS4----2A----</tag>
 </m>
 <m id="m-ln95046-053-p3s6w7">
 <src.rf>manual</src.rf>

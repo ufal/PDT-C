@@ -401,7 +401,7 @@
 </w.rf>
 <form>Woodbridge</form>
 <tag>
-<AM lemma="Woodbridge-2_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Woodbridge-1_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Woodbridge_;G" src="auto">NNFP1-----A----</AM>
 <AM lemma="Woodbridge_;G" src="auto">NNFP4-----A----</AM>
 <AM lemma="Woodbridge_;G" src="auto">NNFP5-----A----</AM>
@@ -2054,7 +2054,7 @@
 <LM>w#w-lnd92255-137-p3s2w71</LM>
 </w.rf>
 <form>Silva</form>
-<tag lemma="Silva_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Silva-2_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-137-p3s2w72">
 <src.rf>manual</src.rf>
@@ -3172,7 +3172,7 @@
 <LM>w#w-lnd92255-137-p7s3w1</LM>
 </w.rf>
 <form>Slovan</form>
-<tag lemma="Slovan-2_;m" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Slovan-2_;G_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92255-137-p7s3w2">
 <src.rf>manual</src.rf>
@@ -3764,7 +3764,7 @@
 <LM>w#w-lnd92255-137-p7s12w1</LM>
 </w.rf>
 <form>Wimbledon</form>
-<tag lemma="Wimbledon-1_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Wimbledon" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92255-137-p7s12w2">
 <src.rf>manual</src.rf>
@@ -4035,7 +4035,7 @@
 <LM>w#w-lnd92255-137-p7s15w4</LM>
 </w.rf>
 <form>Sampdoria</form>
-<tag lemma="Sampdoria_;G" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sampdoria_;G_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92255-137-p7s15w5">
 <src.rf>manual</src.rf>
@@ -4808,7 +4808,7 @@
 <LM>w#w-lnd92255-137-p13s1w6</LM>
 </w.rf>
 <form>Marseille</form>
-<tag lemma="Marseille_;G" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="Marseille-2_;G" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-lnd92255-137-p13s1w7">
 <src.rf>manual</src.rf>
@@ -5010,7 +5010,7 @@
 <LM>w#w-lnd92255-137-p14s1w2</LM>
 </w.rf>
 <form>úvodním</form>
-<tag lemma="úvodní_,s" src="auto" selected="1">AAIS6----1A----</tag>
+<tag lemma="úvodní" src="auto" selected="1">AAIS6----1A----</tag>
 </m>
 <m id="m-lnd92255-137-p14s1w3">
 <src.rf>manual</src.rf>
@@ -5050,7 +5050,7 @@
 <LM>w#w-lnd92255-137-p14s1w7</LM>
 </w.rf>
 <form>Saudská</form>
-<tag lemma="saudský" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="saudský_,s_^(^DD**saúdský)" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-lnd92255-137-p14s1w8">
 <src.rf>manual</src.rf>
@@ -6427,7 +6427,7 @@
 <LM>w#w-lnd92255-137-p16s27w1</LM>
 </w.rf>
 <form>Šara</form>
-<tag lemma="Šara_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Šara-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-137-p16s27w2">
 <src.rf>manual</src.rf>
@@ -7014,7 +7014,7 @@
 <LM>w#w-lnd92255-137-p18s1w39</LM>
 </w.rf>
 <form>Krefeld</form>
-<tag lemma="Krefeld_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Krefeld-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-137-p18s1w40">
 <src.rf>manual</src.rf>

@@ -513,7 +513,7 @@
 <LM>w#w-lnd94104-042-p1s5w2</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP2-P1-------</tag>
 </m>
 <m id="m-lnd94104-042-p1s5w3">
 <src.rf>manual</src.rf>
@@ -545,7 +545,7 @@
 <LM>w#w-lnd94104-042-p1s5w6</LM>
 </w.rf>
 <form>rafinérie</form>
-<tag lemma="rafinérie" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="rafinérie_,s_^(^DD**rafinerie)" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-lnd94104-042-p1s5w7">
 <src.rf>manual</src.rf>
@@ -989,7 +989,7 @@
 <LM>w#w-lnd94104-042-p1s8w21</LM>
 </w.rf>
 <form>koupí</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="orig" selected="1">VB-P---3P-AAP--</tag>
+<tag lemma="koupit" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-lnd94104-042-p1s8w22">
 <src.rf>manual</src.rf>
@@ -1640,7 +1640,7 @@
 <LM>w#w-lnd94104-042-p1s12w6</LM>
 </w.rf>
 <form>nezdaněný</form>
-<tag lemma="zdaněný_^(vypočítat_daň)_(*3it)" src="auto" selected="1">AAIS4----1N----</tag>
+<tag lemma="zdaněný_^(*3it)" src="auto" selected="1">AAIS4----1N----</tag>
 </m>
 <m id="m-lnd94104-042-p1s12w7">
 <src.rf>manual</src.rf>
@@ -1930,7 +1930,7 @@
 <LM>w#w-lnd94104-042-p1s13w10</LM>
 </w.rf>
 <form>orgánů</form>
-<tag lemma="orgán" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-lnd94104-042-p1s13w11">
 <src.rf>manual</src.rf>

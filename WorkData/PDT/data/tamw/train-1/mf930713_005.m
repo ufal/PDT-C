@@ -428,7 +428,7 @@
 <LM>w#w-mf930713-005-p3s2w42</LM>
 </w.rf>
 <form>nosičů</form>
-<tag lemma="nosič" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="nosič-2" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf930713-005-p3s2w43">
 <src.rf>manual</src.rf>
@@ -1121,7 +1121,7 @@
 <LM>w#w-mf930713-005-p3s7w5</LM>
 </w.rf>
 <form>růžová</form>
-<tag lemma="růžový" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="růžový_;o" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-mf930713-005-p3s7w6">
 <src.rf>manual</src.rf>
@@ -1155,7 +1155,7 @@
 <LM>w#w-mf930713-005-p3s8w3</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-mf930713-005-p3s8w4">
 <src.rf>manual</src.rf>
@@ -1616,7 +1616,7 @@
 <LM>w#w-mf930713-005-p3s10w5</LM>
 </w.rf>
 <form>nosičů</form>
-<tag lemma="nosič" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="nosič-2" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf930713-005-p3s10w6">
 <src.rf>manual</src.rf>
@@ -2452,7 +2452,7 @@
 <LM>w#w-mf930713-005-p3s13w13</LM>
 </w.rf>
 <form>daný</form>
-<tag lemma="daný_^(*3át)" src="auto" selected="1">AAIS4----1A----</tag>
+<tag lemma="daný-1_^(*5át-1)" src="auto" selected="1">AAIS4----1A----</tag>
 </m>
 <m id="m-mf930713-005-p3s13w14">
 <src.rf>manual</src.rf>

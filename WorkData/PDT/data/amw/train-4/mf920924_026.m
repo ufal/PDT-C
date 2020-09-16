@@ -446,7 +446,7 @@
 <LM>w#w-mf920924-026-p2s4w2</LM>
 </w.rf>
 <form>prvních</form>
-<tag lemma="první" src="orig" selected="1">CrIP6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIP6----------</tag>
 </m>
 <m id="m-mf920924-026-p2s4w3">
 <src.rf>manual</src.rf>
@@ -1306,7 +1306,7 @@
 <LM>w#w-mf920924-026-p2s10w2</LM>
 </w.rf>
 <form>prvních</form>
-<tag lemma="první" src="orig" selected="1">CrIP6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIP6----------</tag>
 </m>
 <m id="m-mf920924-026-p2s10w3">
 <src.rf>manual</src.rf>

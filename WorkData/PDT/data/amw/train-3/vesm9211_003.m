@@ -567,7 +567,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-003-p2s1Aw3">
@@ -632,7 +632,7 @@
 <LM>w#w-vesm9211-003-p2s1Aw10</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP6----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP6----------</tag>
 </m>
 <m id="m-vesm9211-003-p2s1Aw11">
 <src.rf>manual</src.rf>
@@ -867,7 +867,7 @@
 <LM>w#w-vesm9211-003-p2s1Aw39</LM>
 </w.rf>
 <form>počůrání</form>
-<tag lemma="počůrání_,h_^(*3at)" src="orig" selected="1">NNNS3-----A----</tag>
+<tag lemma="počůrání_^(*3at)" src="orig" selected="1">NNNS3-----A----</tag>
 </m>
 <m id="m-vesm9211-003-p2s1Aw40">
 <src.rf>manual</src.rf>
@@ -952,7 +952,7 @@
 <LM>w#w-vesm9211-003-p2s1Bw6</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP6-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP6-P1-------</tag>
 </m>
 <m id="m-vesm9211-003-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -1010,7 +1010,7 @@
 <LM>w#w-vesm9211-003-p2s1Cw3</LM>
 </w.rf>
 <form>insulinu</form>
-<tag lemma="inzulín" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="insulin_,s_^(^DD**inzulín)" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-vesm9211-003-p2s1Cw4">
 <src.rf>manual</src.rf>
@@ -1321,7 +1321,7 @@
 <LM>w#w-vesm9211-003-p3s2w15</LM>
 </w.rf>
 <form>mne</form>
-<tag lemma="já_^(2./4.pád)" src="orig" selected="1">PP-S4--1-------</tag>
+<tag lemma="já" src="orig" selected="1">PP-S4--1-------</tag>
 </m>
 <m id="m-vesm9211-003-p3s2w16">
 <src.rf>manual</src.rf>
@@ -1520,7 +1520,7 @@
 <tag>
 <AM lemma="starost" src="orig">NNFS4-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFS1-----A----</AM>
-<AM lemma="starost-1" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
+<AM lemma="starost-2_^(*5ý-2)" src="auto" recommended="1" selected="1">NNFS4-----A----</AM>
 <AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto">NNFS1-----A----</AM>
 <AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto">NNFS4-----A----</AM>
 </tag>

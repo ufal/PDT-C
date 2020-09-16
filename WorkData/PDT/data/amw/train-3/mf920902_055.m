@@ -508,7 +508,7 @@
 <LM>w#w-mf920902-055-p2s6w2</LM>
 </w.rf>
 <form>nadšeným</form>
-<tag lemma="nadšený_^(*4chnout)" src="orig" selected="1">AAIS7----1A----</tag>
+<tag lemma="nadšený" src="orig" selected="1">AAIS7----1A----</tag>
 </m>
 <m id="m-mf920902-055-p2s6w3">
 <src.rf>manual</src.rf>
@@ -622,7 +622,7 @@
 <LM>w#w-mf920902-055-p2s7w3</LM>
 </w.rf>
 <form>Slováci</form>
-<tag lemma="Slovák_;E" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="Slovák_;E_;Y" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf920902-055-p2s7w4">
 <src.rf>manual</src.rf>
@@ -734,7 +734,7 @@
 <LM>w#w-mf920902-055-p2s7w17</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-mf920902-055-p2s7w18">
 <src.rf>manual</src.rf>
@@ -758,7 +758,7 @@
 <LM>w#w-mf920902-055-p2s7w20</LM>
 </w.rf>
 <form>spravedlnost</form>
-<tag lemma="spravedlnost_^(*3ý)" src="auto" selected="1">NNFS4-----A----</tag>
+<tag lemma="spravedlnost-1_^(*5ý-1)" src="auto" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf920902-055-p2s7w21">
 <src.rf>manual</src.rf>
@@ -840,7 +840,7 @@
 <LM>w#w-mf920902-055-p2s8w7</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP4FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XP4FS3-------</tag>
 </m>
 <m id="m-mf920902-055-p2s8w8">
 <src.rf>manual</src.rf>

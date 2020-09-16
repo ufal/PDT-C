@@ -21,7 +21,7 @@
 <form>Rady</form>
 <tag>
 <AM lemma="rada-1_^(př._dát_někomu_dobrou_radu)" src="orig">NNFP1-----A----</AM>
-<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu_poradní_sbor)" src="manual" selected="1">NNFP1-----A----</AM>
+<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="manual" selected="1">NNFP1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-016-p3s1w2">
@@ -124,7 +124,7 @@
 <LM>w#w-cmpr9415-016-p5s3w1</LM>
 </w.rf>
 <form>Váš</form>
-<tag lemma="tvůj_^(přivlast.)" src="orig" selected="1">PSIS4-P2-------</tag>
+<tag lemma="váš" src="orig" selected="1">PSIS4-P2-------</tag>
 </m>
 <m id="m-cmpr9415-016-p5s3w2">
 <src.rf>manual</src.rf>
@@ -345,7 +345,7 @@
 <LM>w#w-cmpr9415-016-p5s4w18</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-cmpr9415-016-p5s4w19">
 <src.rf>manual</src.rf>
@@ -495,7 +495,7 @@
 <LM>w#w-cmpr9415-016-p7s1w1</LM>
 </w.rf>
 <form>Dal</form>
-<tag lemma="dát" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-cmpr9415-016-p7s1w2">
 <src.rf>manual</src.rf>
@@ -511,7 +511,7 @@
 <LM>w#w-cmpr9415-016-p7s1w3</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP3----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP3----------</tag>
 </m>
 <m id="m-cmpr9415-016-p7s1w4">
 <src.rf>manual</src.rf>
@@ -661,7 +661,7 @@
 <LM>w#w-cmpr9415-016-p7s1w22</LM>
 </w.rf>
 <form>potřeby</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-cmpr9415-016-p7s1w23">
 <src.rf>manual</src.rf>
@@ -1727,7 +1727,7 @@
 <LM>w#w-cmpr9415-016-p9s2w24</LM>
 </w.rf>
 <form>zdanění</form>
-<tag lemma="zdanění_^(vypočítat_daň)_(*3it)" src="auto" selected="1">NNNS3-----A----</tag>
+<tag lemma="zdanění_^(*3it)" src="auto" selected="1">NNNS3-----A----</tag>
 </m>
 <m id="m-cmpr9415-016-p9s2w25">
 <src.rf>manual</src.rf>

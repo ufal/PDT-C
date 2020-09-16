@@ -70,7 +70,7 @@
 <LM>w#w-ln95042-070-p1s1w7</LM>
 </w.rf>
 <form>děti</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 </s>
 <s id="m-ln95042-070-p2s1A">
@@ -231,7 +231,7 @@
 <LM>w#w-ln95042-070-p2s1Cw14</LM>
 </w.rf>
 <form>děti</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-ln95042-070-p2s1Cw15">
 <src.rf>manual</src.rf>
@@ -353,7 +353,7 @@
 <LM>w#w-ln95042-070-p2s2w5</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95042-070-p2s2w6">
 <src.rf>manual</src.rf>
@@ -438,7 +438,7 @@
 <LM>w#w-ln95042-070-p2s3w7</LM>
 </w.rf>
 <form>delší</form>
-<tag lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">AAFS4----2A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFS4----2A----</tag>
 </m>
 <m id="m-ln95042-070-p2s3w8">
 <src.rf>manual</src.rf>
@@ -516,7 +516,7 @@
 <LM>w#w-ln95042-070-p2s3w16</LM>
 </w.rf>
 <form>politiky</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95042-070-p2s3w17">
 <src.rf>manual</src.rf>
@@ -669,7 +669,7 @@
 <LM>w#w-ln95042-070-p3s1w17</LM>
 </w.rf>
 <form>dítě</form>
-<tag lemma="dítě" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="dítě-1" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln95042-070-p3s1w18">
 <src.rf>manual</src.rf>
@@ -990,7 +990,7 @@
 <LM>w#w-ln95042-070-p3s4w12</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1ZS1FS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1ZS1FS3-------</tag>
 </m>
 <m id="m-ln95042-070-p3s4w13">
 <src.rf>manual</src.rf>

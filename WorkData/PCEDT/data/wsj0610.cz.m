@@ -1223,7 +1223,7 @@
 <form>svého</form>
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8MS4----------</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8ZS2----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8ZS2----------</AM>
 </tag>
 </m>
 <m id="m-wsj0610-001-p1s6W9-Ta">
@@ -1366,7 +1366,7 @@
 <AM lemma="hledící_^(dívat_se;_hledět_si_něčeho)_(*3ět)" src="auto">AGFP4-----A----</AM>
 <AM lemma="hledící_^(dívat_se;_hledět_si_něčeho)_(*3ět)" src="auto">AGFP5-----A----</AM>
 <AM lemma="hledící_^(dívat_se;_hledět_si_něčeho)_(*3ět)" src="auto">AGFS1-----A----</AM>
-<AM lemma="hledící_^(dívat_se;_hledět_si_něčeho)_(*3ět)" src="auto" recommended="1">AGFS2-----A----</AM>
+<AM lemma="hledící_^(*3ět)" src="auto" recommended="1">AGFS2-----A----</AM>
 <AM lemma="hledící_^(dívat_se;_hledět_si_něčeho)_(*3ět)" src="auto">AGFS3-----A----</AM>
 <AM lemma="hledící_^(dívat_se;_hledět_si_něčeho)_(*3ět)" src="auto">AGFS4-----A----</AM>
 <AM lemma="hledící_^(dívat_se;_hledět_si_něčeho)_(*3ět)" src="auto">AGFS5-----A----</AM>
@@ -3405,7 +3405,7 @@
 <form>proto</form>
 <tag>
 <AM lemma="proto-1_^(proto;_a_proto,_ale_proto,...)" src="auto">J^-------------</AM>
-<AM lemma="proto-2_^(dal_mu_co_proto,_tak_proto!)" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="proto-2_^(proto_že)" src="auto" recommended="1">Db-------------</AM>
 <AM lemma="proto-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -3634,7 +3634,7 @@
 <tag>
 <AM lemma="lid_^(naší_země)" src="auto">NNIS7-----A----</AM>
 <AM lemma="lido" src="auto">NNNS7-----A----</AM>
-<AM lemma="člověk" src="auto" recommended="1">NNMP3-----A----</AM>
+<AM lemma="lidé" src="auto" recommended="1">NNMP3-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0610-001-p1s13W4-Ta">
@@ -4100,7 +4100,7 @@
 <tag>
 <AM lemma="Maxwell_;m" src="auto">NNIS1-----A----</AM>
 <AM lemma="Maxwell_;m" src="auto">NNIS4-----A----</AM>
-<AM lemma="Maxwell_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Maxwell-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0610-001-p1s15W8-Ta">
@@ -4259,7 +4259,7 @@
 <AM lemma="Virginie_;G" src="auto">NNFP1-----A----</AM>
 <AM lemma="Virginie_;G" src="auto">NNFP4-----A----</AM>
 <AM lemma="Virginie_;G" src="auto">NNFP5-----A----</AM>
-<AM lemma="Virginie_;G" src="auto" selected="1">NNFS1-----A----</AM>
+<AM lemma="Virginie_;G_;Y" src="auto" selected="1">NNFS1-----A----</AM>
 <AM lemma="Virginie_;G" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="Virginie_;G" src="auto">NNFS5-----A----</AM>
 </tag>
@@ -5261,7 +5261,7 @@
 <tag>
 <AM lemma="Maxwell_;m" src="auto">NNIS1-----A----</AM>
 <AM lemma="Maxwell_;m" src="auto">NNIS4-----A----</AM>
-<AM lemma="Maxwell_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Maxwell-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0610-001-p1s19W3-Ta">
@@ -5405,7 +5405,7 @@
 <form>letech</form>
 <tag>
 <AM lemma="let" src="auto">NNIP6-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP6-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0610-001-p1s19W17-Ta">
@@ -5865,7 +5865,7 @@
 <AM lemma="můj_^(přivlast.)" src="auto">PSHS5-P1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSIP1-P1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto" recommended="1">PSNS4-P1-------</AM>
-<AM lemma="můj_^(přivlast.)" src="auto" selected="1">PSXP4-P1-------</AM>
+<AM lemma="náš" src="auto" selected="1">PSXP4-P1-------</AM>
 </tag>
 </m>
 <m id="m-wsj0610-001-p1s20W29-Ta">
@@ -6636,7 +6636,7 @@
 </w.rf>
 <form>svou</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8FS4---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8FS4---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS7---------1</AM>
 </tag>
 </m>
@@ -6922,7 +6922,7 @@
 </w.rf>
 <form>jejích</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XP2FS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9XP2FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP6FS3-------</AM>
 </tag>
 </m>
@@ -7122,7 +7122,7 @@
 <tag>
 <AM lemma="Georgias_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Georgias_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Georgia_;G" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Georgia_;G_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0610-001-p1s25W13-Ta">
@@ -8383,7 +8383,7 @@
 <form>potřeba</form>
 <tag>
 <AM lemma="potřeba" src="auto">Db-------------</AM>
-<AM lemma="potřeba" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="potřeba-1" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0610-001-p1s29W21-Ta">
@@ -8926,7 +8926,7 @@
 </w.rf>
 <form>svého</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8MS4----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8MS4----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8ZS2----------</AM>
 </tag>
 </m>
@@ -9529,7 +9529,7 @@
 </w.rf>
 <form>svých</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8XP2----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8XP2----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8XP6----------</AM>
 </tag>
 </m>
@@ -9686,7 +9686,7 @@
 <AM lemma="první" src="auto">CrFS4----------</AM>
 <AM lemma="první" src="auto">CrFS5----------</AM>
 <AM lemma="první" src="auto">CrFS6----------</AM>
-<AM lemma="první" src="auto" recommended="1">CrFS7----------</AM>
+<AM lemma="první-1" src="auto" recommended="1">CrFS7----------</AM>
 <AM lemma="první" src="auto">CrIP1----------</AM>
 <AM lemma="první" src="auto">CrIP4----------</AM>
 <AM lemma="první" src="auto">CrIP5----------</AM>
@@ -10075,7 +10075,7 @@
 </w.rf>
 <form>svým</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8XP3----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8XP3----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8ZS6---------7</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8ZS7----------</AM>
 </tag>

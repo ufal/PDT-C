@@ -750,7 +750,7 @@
 </w.rf>
 <form>podaném</form>
 <tag>
-<AM lemma="podaný_^(něco_[někomu]_[někam])_(*2t)" src="auto" recommended="1">AAIS6----1A----</AM>
+<AM lemma="podaný_^(*2t)" src="auto" recommended="1">AAIS6----1A----</AM>
 <AM lemma="podaný_^(něco_[někomu]_[někam])_(*2t)" src="auto">AAMS6----1A----</AM>
 <AM lemma="podaný_^(něco_[někomu]_[někam])_(*2t)" src="auto">AANS6----1A----</AM>
 </tag>
@@ -960,7 +960,7 @@
 </w.rf>
 <form>nás</form>
 <tag>
-<AM lemma="já" src="auto" recommended="1">PP-P2--1-------</AM>
+<AM lemma="my" src="auto" recommended="1">PP-P2--1-------</AM>
 <AM lemma="já" src="auto">PP-P4--1-------</AM>
 <AM lemma="já" src="auto">PP-P6--1-------</AM>
 </tag>
@@ -3013,7 +3013,7 @@
 </w.rf>
 <form>Baltimoru</form>
 <tag>
-<AM lemma="Baltimore_;G" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="Baltimore_;G_;m" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="Baltimore_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="Baltimore_;G" src="auto">NNIS6-----A----</AM>
 </tag>
@@ -3350,7 +3350,7 @@
 <AM lemma="správnost_^(správný_chlap)_(*3ý)" src="auto">NNFP1-----A----</AM>
 <AM lemma="správnost_^(správný_chlap)_(*3ý)" src="auto">NNFP4-----A----</AM>
 <AM lemma="správnost_^(správný_chlap)_(*3ý)" src="auto">NNFP5-----A----</AM>
-<AM lemma="správnost_^(správný_chlap)_(*3ý)" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="správnost_^(*3ý)" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="správnost_^(správný_chlap)_(*3ý)" src="auto">NNFS3-----A----</AM>
 <AM lemma="správnost_^(správný_chlap)_(*3ý)" src="auto">NNFS5-----A----</AM>
 <AM lemma="správnost_^(správný_chlap)_(*3ý)" src="auto">NNFS6-----A----</AM>
@@ -3673,7 +3673,7 @@
 <AM lemma="můj_^(přivlast.)" src="auto">PSFS3-P1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSFS4-P1------6</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSFS6-P1-------</AM>
-<AM lemma="můj_^(přivlast.)" src="auto" recommended="1">PSFS7-P1-------</AM>
+<AM lemma="náš" src="auto" recommended="1">PSFS7-P1-------</AM>
 </tag>
 </m>
 <m id="m-wsj2213-001-p1s9W2-Ta">
@@ -3738,7 +3738,7 @@
 <AM lemma="ča_^(ča-ča)" src="auto">NNFS2-----A----</AM>
 <AM lemma="ča_^(ča-ča)" src="auto">NNFS3-----A---1</AM>
 <AM lemma="ča_^(ča-ča)" src="auto">NNFS6-----A---1</AM>
-<AM lemma="či" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="či-1" src="auto" recommended="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2213-001-p1s9W7-Ta">

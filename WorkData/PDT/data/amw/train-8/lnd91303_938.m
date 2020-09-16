@@ -130,7 +130,7 @@
 <LM>w#w-lnd91303-938-p3s1w7</LM>
 </w.rf>
 <form>činitele</form>
-<tag lemma="činitel" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="činitel-1" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd91303-938-p3s1w8">
 <src.rf>manual</src.rf>
@@ -268,7 +268,7 @@
 <LM>w#w-lnd91303-938-p3s2w5</LM>
 </w.rf>
 <form>orgány</form>
-<tag lemma="orgán" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-lnd91303-938-p3s2w6">
 <src.rf>manual</src.rf>
@@ -578,7 +578,7 @@
 <LM>w#w-lnd91303-938-p3s5w2</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP2-P1-------</tag>
 </m>
 <m id="m-lnd91303-938-p3s5w3">
 <src.rf>manual</src.rf>

@@ -138,7 +138,7 @@
 <LM>w#w-cmpr9415-059-p3s1Bw5</LM>
 </w.rf>
 <form>prvními</form>
-<tag lemma="první" src="orig" selected="1">CrFP7----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFP7----------</tag>
 </m>
 <m id="m-cmpr9415-059-p3s1Bw6">
 <src.rf>manual</src.rf>
@@ -636,7 +636,7 @@
 <form>Ottavě</form>
 <tag>
 <AM lemma="Ottawa_;G_,h" src="orig">NNFS6-----A----</AM>
-<AM lemma="Ottava_;G_,s_^(^DD**Ottawa)" src="manual" selected="1">NNFS6-----A----</AM>
+<AM lemma="Ottava_;G_,s_^(^DD**Ottawa-1)" src="manual" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-059-p5s1w11">
@@ -1302,7 +1302,7 @@
 <LM>w#w-cmpr9415-059-p8s1w14</LM>
 </w.rf>
 <form>Jean</form>
-<tag lemma="Jean_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jean-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-059-p8s1w15">
 <src.rf>manual</src.rf>
@@ -1870,7 +1870,7 @@
 <LM>w#w-cmpr9415-059-p8s4w19</LM>
 </w.rf>
 <form>prvními</form>
-<tag lemma="první" src="orig" selected="1">CrFP7----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFP7----------</tag>
 </m>
 <m id="m-cmpr9415-059-p8s4w20">
 <src.rf>manual</src.rf>
@@ -1976,7 +1976,7 @@
 <LM>w#w-cmpr9415-059-p8s5w10</LM>
 </w.rf>
 <form>dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-cmpr9415-059-p8s5w11">
 <src.rf>manual</src.rf>
@@ -2149,7 +2149,7 @@
 <LM>w#w-cmpr9415-059-p9s1w4</LM>
 </w.rf>
 <form>dá</form>
-<tag lemma="dát" src="orig" selected="1">VB-S---3P-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-cmpr9415-059-p9s1w5">
 <src.rf>manual</src.rf>
@@ -3347,7 +3347,7 @@
 <LM>w#w-cmpr9415-059-p13s2w3</LM>
 </w.rf>
 <form>míří</form>
-<tag lemma="mířit_^(např._pistolí;_směřovat;_tvar_slovesa)" src="orig" selected="1">VB-P---3P-AAI--</tag>
+<tag lemma="mířit" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9415-059-p13s2w4">
 <src.rf>manual</src.rf>
@@ -3928,7 +3928,7 @@
 <LM>w#w-cmpr9415-059-p13s7w17</LM>
 </w.rf>
 <form>pozdních</form>
-<tag lemma="pozdní-2_^(v_roce,_ročním_období)" src="orig" selected="1">AAFP2----1A----</tag>
+<tag lemma="pozdní" src="orig" selected="1">AAFP2----1A----</tag>
 </m>
 <m id="m-cmpr9415-059-p13s7w18">
 <src.rf>manual</src.rf>
@@ -4029,7 +4029,7 @@
 <LM>w#w-cmpr9415-059-p13s8w9</LM>
 </w.rf>
 <form>delší</form>
-<tag lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">AAFS4----2A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFS4----2A----</tag>
 </m>
 <m id="m-cmpr9415-059-p13s8w10">
 <src.rf>manual</src.rf>

@@ -728,7 +728,7 @@
 <LM>w#w-ln94202-73-p2s4w5</LM>
 </w.rf>
 <form>proto</form>
-<tag lemma="proto-2_^(dal_mu_co_proto,_tak_proto!)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="proto-2_^(proto_že)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94202-73-p2s4w6">
 <src.rf>manual</src.rf>
@@ -800,7 +800,7 @@
 <LM>w#w-ln94202-73-p2s4w14</LM>
 </w.rf>
 <form>tajná</form>
-<tag lemma="tajný" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-ln94202-73-p2s4w15">
 <src.rf>manual</src.rf>

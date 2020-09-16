@@ -168,7 +168,7 @@
 <LM>w#w-mf930713-140-p2s1w11</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-mf930713-140-p2s1w12">
 <src.rf>manual</src.rf>
@@ -259,7 +259,7 @@
 <LM>w#w-mf930713-140-p2s1w22</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-mf930713-140-p2s1w23">
 <src.rf>manual</src.rf>
@@ -283,7 +283,7 @@
 <LM>w#w-mf930713-140-p2s1w25</LM>
 </w.rf>
 <form>nedotknutelných</form>
-<tag lemma="dotknutelný_^(fyz._i_abstr.,_př._drátů,_práv,_citů)_(*6out)" src="orig" selected="1">AAFP2----1N----</tag>
+<tag lemma="dotknutelný_^(*6out)" src="orig" selected="1">AAFP2----1N----</tag>
 </m>
 <m id="m-mf930713-140-p2s1w26">
 <src.rf>manual</src.rf>
@@ -733,7 +733,7 @@
 <LM>w#w-mf930713-140-p2s3w4</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-mf930713-140-p2s3w5">
 <src.rf>manual</src.rf>
@@ -1145,7 +1145,7 @@
 <LM>w#w-mf930713-140-p2s5w5</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS1FS3-------</tag>
 </m>
 <m id="m-mf930713-140-p2s5w6">
 <src.rf>manual</src.rf>
@@ -1268,7 +1268,7 @@
 <LM>w#w-mf930713-140-p2s5w20</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FP4---------1</tag>
 </m>
 <m id="m-mf930713-140-p2s5w21">
 <src.rf>manual</src.rf>
@@ -1308,7 +1308,7 @@
 <LM>w#w-mf930713-140-p2s5w25</LM>
 </w.rf>
 <form>ač</form>
-<tag lemma="ač" src="orig" selected="1">J,-------------</tag>
+<tag lemma="ač-1" src="orig" selected="1">J,-------------</tag>
 </m>
 <m id="m-mf930713-140-p2s5w26">
 <src.rf>manual</src.rf>
@@ -2439,7 +2439,7 @@
 <LM>w#w-mf930713-140-p2s13w3</LM>
 </w.rf>
 <form>vypadá</form>
-<tag lemma="vypadat" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="vypadat-1_^(ty_vypadáš)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930713-140-p2s13w4">
 <src.rf>manual</src.rf>

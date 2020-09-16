@@ -466,7 +466,7 @@
 <LM>w#w-mf920901-066-p3s2w22</LM>
 </w.rf>
 <form>druhým</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS7----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS7----------</tag>
 </m>
 <m id="m-mf920901-066-p3s2w23">
 <src.rf>manual</src.rf>

@@ -264,7 +264,7 @@
 <LM>w#w-mf930703-062-p2s1w29</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-mf930703-062-p2s1w30">
 <src.rf>manual</src.rf>
@@ -304,7 +304,7 @@
 <LM>w#w-mf930703-062-p2s1w34</LM>
 </w.rf>
 <form>spadaným</form>
-<tag lemma="spadaný_^(*2t)" src="orig" selected="1">AANS7----1A----</tag>
+<tag lemma="spadaný-1_^(*4t-1)_(*4t-2)" src="orig" selected="1">AANS7----1A----</tag>
 </m>
 <m id="m-mf930703-062-p2s1w35">
 <src.rf>manual</src.rf>
@@ -988,7 +988,7 @@
 <LM>w#w-mf930703-062-p2s4w25</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP4FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XP4FS3-------</tag>
 </m>
 <m id="m-mf930703-062-p2s4w26">
 <src.rf>manual</src.rf>
@@ -1114,7 +1114,7 @@
 <LM>w#w-mf930703-062-p2s5w12</LM>
 </w.rf>
 <form>vydání</form>
-<tag lemma="vydání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="vydání_^(*3at)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-mf930703-062-p2s5w13">
 <src.rf>manual</src.rf>

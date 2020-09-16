@@ -441,7 +441,7 @@
 <LM>w#w-mf930703-069-p2s4w11</LM>
 </w.rf>
 <form>černý</form>
-<tag lemma="černý" src="auto" selected="1">AAIS4----1A----</tag>
+<tag lemma="černý_;o" src="auto" selected="1">AAIS4----1A----</tag>
 </m>
 <m id="m-mf930703-069-p2s4w12">
 <src.rf>manual</src.rf>
@@ -759,7 +759,7 @@
 <LM>w#w-mf930703-069-p2s7w15</LM>
 </w.rf>
 <form>druhého</form>
-<tag lemma="druhý" src="orig" selected="1">CrMS4----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrMS4----------</tag>
 </m>
 <m id="m-mf930703-069-p2s7w16">
 <src.rf>manual</src.rf>

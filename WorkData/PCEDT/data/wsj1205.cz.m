@@ -157,7 +157,7 @@
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP1FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP5FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9ZS1FS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9ZS1FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSZS5FS3-------</AM>
 </tag>
 </m>
@@ -456,7 +456,7 @@
 </w.rf>
 <form>diletovaných</form>
 <tag>
-<AM lemma="diletovaný_,h_^(*2t)" src="auto" recommended="1">AAFP2----1A----</AM>
+<AM lemma="diletovaný_^(*2t)" src="auto" recommended="1">AAFP2----1A----</AM>
 <AM lemma="diletovaný_,h_^(*2t)" src="auto">AAFP6----1A----</AM>
 <AM lemma="diletovaný_,h_^(*2t)" src="auto">AAIP2----1A----</AM>
 <AM lemma="diletovaný_,h_^(*2t)" src="auto">AAIP6----1A----</AM>
@@ -800,7 +800,7 @@
 </w.rf>
 <form>diletovaných</form>
 <tag>
-<AM lemma="diletovaný_,h_^(*2t)" src="auto" recommended="1">AAFP2----1A----</AM>
+<AM lemma="diletovaný_^(*2t)" src="auto" recommended="1">AAFP2----1A----</AM>
 <AM lemma="diletovaný_,h_^(*2t)" src="auto">AAFP6----1A----</AM>
 <AM lemma="diletovaný_,h_^(*2t)" src="auto">AAIP2----1A----</AM>
 <AM lemma="diletovaný_,h_^(*2t)" src="auto">AAIP6----1A----</AM>
@@ -1029,7 +1029,7 @@
 <form>jejích</form>
 <tag>
 <AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSXP2FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto" selected="1">P9XP6FS3-------</AM>
+<AM lemma="jeho" src="auto" selected="1">P9XP6FS3-------</AM>
 </tag>
 </m>
 <m id="m-wsj1205-001-p1s1W42-Ta">
@@ -2297,7 +2297,7 @@
 <AM lemma="jeho_^(přivlast.)" src="auto">PSFXXFS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSIS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSNS4FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XP1FS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9XP1FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP5FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSZS1FS3-------</AM>

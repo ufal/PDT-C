@@ -54,7 +54,7 @@
 <AM lemma="rudý" src="auto">AAFP1----1A----</AM>
 <AM lemma="rudý" src="auto">AAFP4----1A----</AM>
 <AM lemma="rudý" src="auto">AAFP5----1A----</AM>
-<AM lemma="rudý" src="auto" recommended="1">AAFS2----1A----</AM>
+<AM lemma="rudý_;o" src="auto" recommended="1">AAFS2----1A----</AM>
 <AM lemma="rudý" src="auto">AAFS3----1A----</AM>
 <AM lemma="rudý" src="auto">AAFS6----1A----</AM>
 <AM lemma="rudý" src="auto">AAIP1----1A----</AM>
@@ -265,7 +265,7 @@
 <AM lemma="rudý" src="auto">AAFP1----1A----</AM>
 <AM lemma="rudý" src="auto">AAFP4----1A----</AM>
 <AM lemma="rudý" src="auto">AAFP5----1A----</AM>
-<AM lemma="rudý" src="auto" recommended="1">AAFS2----1A----</AM>
+<AM lemma="rudý_;o" src="auto" recommended="1">AAFS2----1A----</AM>
 <AM lemma="rudý" src="auto">AAFS3----1A----</AM>
 <AM lemma="rudý" src="auto">AAFS6----1A----</AM>
 <AM lemma="rudý" src="auto">AAIP1----1A----</AM>
@@ -425,7 +425,7 @@
 <form>naše</form>
 <tag>
 <AM lemma="můj_^(přivlast.)" src="auto">PSHP1-P1-------</AM>
-<AM lemma="můj_^(přivlast.)" src="auto" recommended="1">PSHS1-P1-------</AM>
+<AM lemma="náš" src="auto" recommended="1">PSHS1-P1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSHS5-P1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSIP1-P1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSNS4-P1-------</AM>
@@ -551,7 +551,7 @@
 </w.rf>
 <form>naší</form>
 <tag>
-<AM lemma="můj_^(přivlast.)" src="auto" recommended="1">PSFS2-P1-------</AM>
+<AM lemma="náš" src="auto" recommended="1">PSFS2-P1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSFS3-P1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSFS4-P1------6</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSFS6-P1-------</AM>

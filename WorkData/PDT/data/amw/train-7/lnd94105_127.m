@@ -19,7 +19,7 @@
 <LM>w#w-lnd94105-127-p1s1w1</LM>
 </w.rf>
 <form>Tajná</form>
-<tag lemma="tajný" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-lnd94105-127-p1s1w2">
 <src.rf>manual</src.rf>
@@ -103,7 +103,7 @@
 <LM>w#w-lnd94105-127-p1s3w2</LM>
 </w.rf>
 <form>tajné</form>
-<tag lemma="tajný" src="orig" selected="1">AAFS2----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-lnd94105-127-p1s3w3">
 <src.rf>manual</src.rf>
@@ -223,7 +223,7 @@
 <LM>w#w-lnd94105-127-p1s3w17</LM>
 </w.rf>
 <form>Zelených</form>
-<tag lemma="zelený" src="orig" selected="1">AAMP2----1A----</tag>
+<tag lemma="zelený_;o" src="orig" selected="1">AAMP2----1A----</tag>
 </m>
 <m id="m-lnd94105-127-p1s3w18">
 <src.rf>manual</src.rf>
@@ -463,7 +463,7 @@
 <LM>w#w-lnd94105-127-p1s4w9</LM>
 </w.rf>
 <form>vydání</form>
-<tag lemma="vydání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="vydání_^(*3at)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-lnd94105-127-p1s4w10">
 <src.rf>manual</src.rf>
@@ -588,7 +588,7 @@
 <LM>w#w-lnd94105-127-p1s5w4</LM>
 </w.rf>
 <form>nejhorší</form>
-<tag lemma="špatný" src="orig" selected="1">AANP4----3A----</tag>
+<tag lemma="horší" src="orig" selected="1">AANP4----3A----</tag>
 </m>
 <m id="m-lnd94105-127-p1s5w5">
 <src.rf>manual</src.rf>
@@ -881,7 +881,7 @@
 <LM>w#w-lnd94105-127-p1s6w2</LM>
 </w.rf>
 <form>tajné</form>
-<tag lemma="tajný" src="orig" selected="1">AAFS2----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-lnd94105-127-p1s6w3">
 <src.rf>manual</src.rf>
@@ -905,7 +905,7 @@
 <LM>w#w-lnd94105-127-p1s6w5</LM>
 </w.rf>
 <form>orgánu</form>
-<tag lemma="orgán" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd94105-127-p1s6w6">
 <src.rf>manual</src.rf>

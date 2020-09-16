@@ -362,7 +362,7 @@
 <LM>w#w-mf920925-100-p4s2w25</LM>
 </w.rf>
 <form>člena</form>
-<tag lemma="člen" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920925-100-p4s2w26">
 <src.rf>manual</src.rf>
@@ -370,7 +370,7 @@
 <LM>w#w-mf920925-100-p4s2w26</LM>
 </w.rf>
 <form>jejího</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS2FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS2FS3-------</tag>
 </m>
 <m id="m-mf920925-100-p4s2w27">
 <src.rf>manual</src.rf>

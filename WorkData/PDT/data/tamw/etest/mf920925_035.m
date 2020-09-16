@@ -114,7 +114,7 @@
 <LM>w#w-mf920925-035-p2s2w2</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS1----------</tag>
 </m>
 <m id="m-mf920925-035-p2s2w3">
 <src.rf>manual</src.rf>
@@ -529,7 +529,7 @@
 <LM>w#w-mf920925-035-p2s4w18</LM>
 </w.rf>
 <form>předání</form>
-<tag lemma="předání-3_^(někomu_něco)_(*5at-3)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="předání_^(*3at)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-mf920925-035-p2s4w19">
 <src.rf>manual</src.rf>
@@ -695,7 +695,7 @@
 <LM>w#w-mf920925-035-p2s5w12</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-mf920925-035-p2s5w13">
 <src.rf>manual</src.rf>
@@ -921,7 +921,7 @@
 <LM>w#w-mf920925-035-p2s6w17</LM>
 </w.rf>
 <form>práva</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNP1-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNP1-----A----</tag>
 </m>
 <m id="m-mf920925-035-p2s6w18">
 <src.rf>manual</src.rf>
@@ -1051,7 +1051,7 @@
 <LM>w#w-mf920925-035-p2s7w1</LM>
 </w.rf>
 <form>Rada</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920925-035-p2s7w2">
 <src.rf>manual</src.rf>
@@ -1650,7 +1650,7 @@
 <LM>w#w-mf920925-035-p2s9w23</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8NS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8NS4---------1</tag>
 </m>
 <m id="m-mf920925-035-p2s9w24">
 <src.rf>manual</src.rf>

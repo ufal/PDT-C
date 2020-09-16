@@ -93,7 +93,7 @@
 <LM>w#w-mf930708-117-p2s1w7</LM>
 </w.rf>
 <form>km</form>
-<tag lemma="km-1`kilometr" src="orig" selected="1">NNIXX-----A---b</tag>
+<tag lemma="kilometr" src="orig" selected="1">NNIXX-----A---b</tag>
 </m>
 <m id="m-mf930708-117-p2s1w8">
 <src.rf>manual</src.rf>
@@ -299,7 +299,7 @@
 <LM>w#w-mf930708-117-p2s1w28</LM>
 </w.rf>
 <form>člen</form>
-<tag lemma="člen" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-117-p2s1w29">
 <src.rf>manual</src.rf>
@@ -323,7 +323,7 @@
 <LM>w#w-mf930708-117-p2s1w31</LM>
 </w.rf>
 <form>žlutý</form>
-<tag lemma="žlutý" src="orig" selected="1">AAIS4----1A----</tag>
+<tag lemma="žlutý_;o" src="orig" selected="1">AAIS4----1A----</tag>
 </m>
 <m id="m-mf930708-117-p2s1w32">
 <src.rf>manual</src.rf>
@@ -408,7 +408,7 @@
 <LM>w#w-mf930708-117-p2s2w8</LM>
 </w.rf>
 <form>km</form>
-<tag lemma="km-1`kilometr" src="orig" selected="1">NNIXX-----A---b</tag>
+<tag lemma="kilometr" src="orig" selected="1">NNIXX-----A---b</tag>
 </m>
 <m id="m-mf930708-117-p2s2w9">
 <src.rf>manual</src.rf>

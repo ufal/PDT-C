@@ -35,7 +35,7 @@
 <LM>w#w-lnd94104-095-p1s1w3</LM>
 </w.rf>
 <form>Žraloků</form>
-<tag lemma="žralok" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="žralok-1" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 </s>
 <s id="m-lnd94104-095-p1s1B">
@@ -85,7 +85,7 @@
 <LM>w#w-lnd94104-095-p1s1w9</LM>
 </w.rf>
 <form>tažení</form>
-<tag lemma="tažení_^(*5áhnout)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="tažení" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 </s>
 <s id="m-lnd94104-095-p1s2">
@@ -160,7 +160,7 @@
 <LM>w#w-lnd94104-095-p1s3w5</LM>
 </w.rf>
 <form>úvodním</form>
-<tag lemma="úvodní_,s" src="auto" selected="1">AAIS6----1A----</tag>
+<tag lemma="úvodní" src="auto" selected="1">AAIS6----1A----</tag>
 </m>
 <m id="m-lnd94104-095-p1s3w6">
 <src.rf>manual</src.rf>
@@ -243,7 +243,7 @@
 <LM>w#w-lnd94104-095-p1s4w1</LM>
 </w.rf>
 <form>Žraloci</form>
-<tag lemma="žralok" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="žralok-1" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd94104-095-p1s4w2">
 <src.rf>manual</src.rf>
@@ -307,7 +307,7 @@
 <LM>w#w-lnd94104-095-p1s4w9</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrIS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS6----------</tag>
 </m>
 <m id="m-lnd94104-095-p1s4w10">
 <src.rf>manual</src.rf>
@@ -809,7 +809,7 @@
 <LM>w#w-lnd94104-095-p1s6w15</LM>
 </w.rf>
 <form>tažení</form>
-<tag lemma="tažení_^(*5áhnout)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="tažení" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-lnd94104-095-p1s6w16">
 <src.rf>manual</src.rf>

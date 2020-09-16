@@ -309,7 +309,7 @@
 <LM>w#w-mf920923-090-p2s2w29</LM>
 </w.rf>
 <form>dovážený</form>
-<tag lemma="dovážený_^(dokončit_vážení)_(*2t)" src="auto" selected="1">AAIS4----1A----</tag>
+<tag lemma="dovážený_^(*2t)_(*3it)" src="auto" selected="1">AAIS4----1A----</tag>
 </m>
 <m id="m-mf920923-090-p2s2w30">
 <src.rf>manual</src.rf>

@@ -19,7 +19,7 @@
 <LM>w#w-ln94202-51-p1s1w1</LM>
 </w.rf>
 <form>Natažená</form>
-<tag lemma="natažený_^(*5áhnout)" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="natažený" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-ln94202-51-p1s1w2">
 <src.rf>manual</src.rf>
@@ -192,7 +192,7 @@
 <LM>w#w-ln94202-51-p2s1Bw11</LM>
 </w.rf>
 <form>zdanění</form>
-<tag lemma="zdanění_^(vypočítat_daň)_(*3it)" src="auto" selected="1">NNNS2-----A----</tag>
+<tag lemma="zdanění_^(*3it)" src="auto" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln94202-51-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -1008,7 +1008,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1068,7 +1068,7 @@
 <LM>w#w-ln94202-51-p3s5w4</LM>
 </w.rf>
 <form>resortu</form>
-<tag lemma="resort" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="resort_,s_^(^DD**rezort)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94202-51-p3s5w5">
 <src.rf>manual</src.rf>
@@ -1243,7 +1243,7 @@
 <LM>w#w-ln94202-51-p3s7w6</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-ln94202-51-p3s7w7">
 <src.rf>manual</src.rf>
@@ -1414,7 +1414,7 @@
 <LM>w#w-ln94202-51-p3s8w11</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-ln94202-51-p3s8w12">
 <src.rf>manual</src.rf>
@@ -1765,7 +1765,7 @@
 <LM>w#w-ln94202-51-p4s3w3</LM>
 </w.rf>
 <form>Miroslav</form>
-<tag lemma="Miroslav_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Miroslav-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-51-p4s3w4">
 <src.rf>manual</src.rf>
@@ -2263,7 +2263,7 @@
 <LM>w#w-ln94202-51-p5s1w22</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="mluvčí-2" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94202-51-p5s1w23">
 <src.rf>manual</src.rf>
@@ -3089,7 +3089,7 @@
 <LM>w#w-ln94202-51-p6s1w20</LM>
 </w.rf>
 <form>předešlého</form>
-<tag lemma="předešlý_^(předchozí,minulý,poslední)_(*3jít)" src="auto" selected="1">AAIS2----1A----</tag>
+<tag lemma="předešlý_^(*3jít)" src="auto" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-ln94202-51-p6s1w21">
 <src.rf>manual</src.rf>

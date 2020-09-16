@@ -187,7 +187,7 @@
 <LM>w#w-lnd94105-018-p1s8w22</LM>
 </w.rf>
 <form>Trenčianské</form>
-<tag lemma="Trenčianský_;G" src="orig" selected="1">AAFP1----1A----</tag>
+<tag lemma="trenčianský" src="orig" selected="1">AAFP1----1A----</tag>
 </m>
 <m id="m-lnd94105-018-p1s8w23">
 <src.rf>manual</src.rf>

@@ -77,7 +77,7 @@
 <LM>w#w-cmpr9406-021-p2s1w5</LM>
 </w.rf>
 <form>SHARP</form>
-<tag lemma="Sharp_;m" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Sharp-2_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-021-p2s1w6">
 <src.rf>manual</src.rf>
@@ -292,7 +292,7 @@
 <LM>w#w-cmpr9406-021-p5s1w7</LM>
 </w.rf>
 <form>ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 </s>
 <s id="m-cmpr9406-021-p6s1">
@@ -624,7 +624,7 @@
 <LM>w#w-cmpr9406-021-p8s2w16</LM>
 </w.rf>
 <form>zkrácenou</form>
-<tag lemma="zkrácený_,a_^(*2t)" src="auto" selected="1">AAFS4----1A----</tag>
+<tag lemma="zkrácený_^(*4tit)" src="auto" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-cmpr9406-021-p8s2w17">
 <src.rf>manual</src.rf>

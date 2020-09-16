@@ -976,7 +976,7 @@
 <LM>w#w-ln94210-84-p3s1w20</LM>
 </w.rf>
 <form>obsažený</form>
-<tag lemma="obsažený_^(*5áhnout)" src="orig" selected="1">AAIS4----1A----</tag>
+<tag lemma="obsažený" src="orig" selected="1">AAIS4----1A----</tag>
 </m>
 <m id="m-ln94210-84-p3s1w21">
 <src.rf>manual</src.rf>
@@ -1193,7 +1193,7 @@
 <LM>w#w-ln94210-84-p3s2w21</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-ln94210-84-p3s2w22">
 <src.rf>manual</src.rf>
@@ -1225,7 +1225,7 @@
 <LM>w#w-ln94210-84-p3s2w25</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-ln94210-84-p3s2w26">
 <src.rf>manual</src.rf>
@@ -1448,7 +1448,7 @@
 <LM>w#w-ln94210-84-p4s1w2</LM>
 </w.rf>
 <form>výbor</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94210-84-p4s1w3">
 <src.rf>manual</src.rf>
@@ -1643,7 +1643,7 @@
 <LM>w#w-ln94210-84-p4s1w26</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8YP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8YP4---------1</tag>
 </m>
 <m id="m-ln94210-84-p4s1w27">
 <src.rf>manual</src.rf>

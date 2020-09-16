@@ -119,7 +119,7 @@
 <LM>w#w-ln94203-34-p2s1Bw7</LM>
 </w.rf>
 <form>členů</form>
-<tag lemma="člen" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94203-34-p2s1Bw8">
 <src.rf>manual</src.rf>

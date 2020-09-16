@@ -43,7 +43,7 @@
 <LM>w#w-mf930708-120-p1s1w4</LM>
 </w.rf>
 <form>veteránem</form>
-<tag lemma="veterán" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="veterán-1" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf930708-120-p1s1w5">
 <src.rf>manual</src.rf>
@@ -305,7 +305,7 @@
 <form>Cup</form>
 <tag>
 <AM lemma="Cup-1_;m_,t_^(pohár,_soutěž;_v_názvech)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Cup-1_;m_^(pohár,_soutěž;_v_názvech)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="cup-1_^(pohár)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-120-p2s2w7">
@@ -375,7 +375,7 @@
 <LM>w#w-mf930708-120-p2s4w2</LM>
 </w.rf>
 <form>Veterán</form>
-<tag lemma="veterán" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="veterán-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-120-p2s4w3">
 <src.rf>manual</src.rf>
@@ -471,7 +471,7 @@
 <LM>w#w-mf930708-120-p2s4w14</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-mf930708-120-p2s4w15">
 <src.rf>manual</src.rf>
@@ -537,7 +537,7 @@
 <LM>w#w-mf930708-120-p2s5w6</LM>
 </w.rf>
 <form>dlouhé</form>
-<tag lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">AAFP4----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFP4----1A----</tag>
 </m>
 <m id="m-mf930708-120-p2s5w7">
 <src.rf>manual</src.rf>
@@ -1623,7 +1623,7 @@
 <LM>w#w-mf930708-120-p3s3w19</LM>
 </w.rf>
 <form>Lásková</form>
-<tag lemma="Lásková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Lásková-1_;Y_^(*5a-1)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930708-120-p3s3w20">
 <src.rf>manual</src.rf>

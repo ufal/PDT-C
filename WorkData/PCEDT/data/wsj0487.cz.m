@@ -440,7 +440,7 @@
 <AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AANS1----1A----</AM>
 <AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AANS4----1A----</AM>
 <AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AANS5----1A----</AM>
-<AM lemma="konkurzní_^(týkající_se_úpadku,_soutěže)" src="manual" selected="1">AAFS7----1A----</AM>
+<AM lemma="konkurzní" src="manual" selected="1">AAFS7----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0487-001-p1s0W32-Ta">
@@ -1155,7 +1155,7 @@
 <form>Anchor</form>
 <tag>
 <AM lemma="Anchor_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Anchor_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Anchor-1_;m" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Anchor_;m" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -1467,7 +1467,7 @@
 <form>Anchor</form>
 <tag>
 <AM lemma="Anchor_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Anchor_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Anchor-1_;m" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Anchor_;m" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -1497,7 +1497,7 @@
 </w.rf>
 <form>svých</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8XP2----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8XP2----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8XP6----------</AM>
 </tag>
 </m>
@@ -1597,7 +1597,7 @@
 <AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto" recommended="1">NNNP1-----A----</AM>
 <AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto">NNNP4-----A----</AM>
 <AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto">NNNP5-----A----</AM>
-<AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto" selected="1">NNNS2-----A----</AM>
+<AM lemma="právo" src="auto" selected="1">NNNS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0487-001-p1s3W26-Ta">
@@ -1870,7 +1870,7 @@
 </w.rf>
 <form>Anchor</form>
 <tag>
-<AM lemma="Anchor_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Anchor-2_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Anchor_;m" src="auto">NNIS1-----A----</AM>
 <AM lemma="Anchor_;m" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -2045,7 +2045,7 @@
 <AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AANS1----1A----</AM>
 <AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AANS4----1A----</AM>
 <AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AANS5----1A----</AM>
-<AM lemma="konkurzní_^(týkající_se_úpadku,_soutěže)" src="manual" selected="1">AAFS1----1A----</AM>
+<AM lemma="konkurzní" src="manual" selected="1">AAFS1----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0487-001-p1s4W17-Ta">

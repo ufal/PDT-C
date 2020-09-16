@@ -165,7 +165,7 @@
 <form>váš</form>
 <tag>
 <AM lemma="tvůj_^(přivlast.)" src="auto">PSIS4-P2-------</AM>
-<AM lemma="tvůj_^(přivlast.)" src="auto" recommended="1">PSYS1-P2-------</AM>
+<AM lemma="váš" src="auto" recommended="1">PSYS1-P2-------</AM>
 <AM lemma="tvůj_^(přivlast.)" src="auto">PSYS5-P2-------</AM>
 </tag>
 </m>
@@ -184,7 +184,7 @@
 <LM>w#w-d1t1850-6</LM>
 </w.rf>
 <form>vypadá</form>
-<tag lemma="vypadat" src="auto" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="vypadat-1_^(ty_vypadáš)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m106-d-id130425-punct">
 <w.rf>
@@ -497,7 +497,7 @@
 </w.rf>
 <form>polními</form>
 <tag>
-<AM lemma="polní-1" src="auto" recommended="1">AAFP7----1A----</AM>
+<AM lemma="polní" src="auto" recommended="1">AAFP7----1A----</AM>
 <AM lemma="polní-1" src="auto">AAIP7----1A----</AM>
 <AM lemma="polní-1" src="auto">AAMP7----1A----</AM>
 <AM lemma="polní-1" src="auto">AANP7----1A----</AM>

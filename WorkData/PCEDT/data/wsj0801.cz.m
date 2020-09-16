@@ -56,7 +56,7 @@
 <form>Price</form>
 <tag>
 <AM lemma="Price_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Price_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Price-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0801-001-p1s1W3-Ta">
@@ -673,7 +673,7 @@
 <AM lemma="jenž_^(který...[ve_vedl._větě])" src="auto">P1NS4FS3-------</AM>
 <AM lemma="jenž_^(který...[ve_vedl._větě])" src="auto">P1XP1FS3-------</AM>
 <AM lemma="jenž_^(který...[ve_vedl._větě])" src="auto">P1XP4FS3-------</AM>
-<AM lemma="jenž_^(který...[ve_vedl._větě])" src="auto" recommended="1">P1ZS1FS3-------</AM>
+<AM lemma="jehož" src="auto" recommended="1">P1ZS1FS3-------</AM>
 </tag>
 </m>
 <m id="m-wsj0801-001-p1s3W15-Ta">

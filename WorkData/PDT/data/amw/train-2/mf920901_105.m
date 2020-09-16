@@ -75,7 +75,7 @@
 <LM>w#w-mf920901-105-p1s1w8</LM>
 </w.rf>
 <form>PŘEDÁNÍ</form>
-<tag lemma="předání-3_^(někomu_něco)_(*5at-3)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="předání_^(*3at)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf920901-105-p1s1w9">
 <src.rf>manual</src.rf>
@@ -204,7 +204,7 @@
 <LM>w#w-mf920901-105-p2s2w8</LM>
 </w.rf>
 <form>předáním</form>
-<tag lemma="předání-3_^(někomu_něco)_(*5at-3)" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="předání_^(*3at)" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-mf920901-105-p2s2w9">
 <src.rf>manual</src.rf>
@@ -542,7 +542,7 @@
 <LM>w#w-mf920901-105-p3s1w10</LM>
 </w.rf>
 <form>předáním</form>
-<tag lemma="předání-3_^(někomu_něco)_(*5at-3)" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="předání_^(*3at)" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-mf920901-105-p3s1w11">
 <src.rf>manual</src.rf>
@@ -837,7 +837,7 @@
 <LM>w#w-mf920901-105-p4s1w1</LM>
 </w.rf>
 <form>Rusko</form>
-<tag lemma="ruský" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="rusko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-mf920901-105-p4s1w2">
 <src.rf>manual</src.rf>
@@ -917,7 +917,7 @@
 <LM>w#w-mf920901-105-p4s1w11</LM>
 </w.rf>
 <form>brání</form>
-<tag lemma="bránit_^(klást_překážky)" src="auto" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="bránit" src="auto" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920901-105-p4s1w12">
 <src.rf>manual</src.rf>

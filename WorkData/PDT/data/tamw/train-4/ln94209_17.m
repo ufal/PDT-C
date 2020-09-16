@@ -326,7 +326,7 @@
 <LM>w#w-ln94209-17-p2s1Bw25</LM>
 </w.rf>
 <form>letoun</form>
-<tag lemma="letoun" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="letoun-1" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln94209-17-p2s1Bw26">
 <src.rf>manual</src.rf>
@@ -596,7 +596,7 @@
 <LM>w#w-ln94209-17-p3s2w7</LM>
 </w.rf>
 <form>letouny</form>
-<tag lemma="letoun" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="letoun-1" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-ln94209-17-p3s2w8">
 <src.rf>manual</src.rf>

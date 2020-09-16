@@ -575,7 +575,7 @@
 <LM>w#w-ln94200-27-p3s2w9</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-ln94200-27-p3s2w10">
 <src.rf>manual</src.rf>
@@ -700,7 +700,7 @@
 <LM>w#w-ln94200-27-p3s3w11</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln94200-27-p3s3w12">
 <src.rf>manual</src.rf>
@@ -1087,7 +1087,7 @@
 <LM>w#w-ln94200-27-p4s2w5</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln94200-27-p4s2w6">
 <src.rf>manual</src.rf>
@@ -1209,7 +1209,7 @@
 <LM>w#w-ln94200-27-p4s3w12</LM>
 </w.rf>
 <form>vyhlášení</form>
-<tag lemma="vyhlášení_,a_^(*4sit)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="vyhlášení_^(*2t)_(*4sit)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94200-27-p4s3w13">
 <src.rf>manual</src.rf>
@@ -1217,7 +1217,7 @@
 <LM>w#w-ln94200-27-p4s3w13</LM>
 </w.rf>
 <form>konkursu</form>
-<tag lemma="konkurs_^(úpadek;;soutěž)" src="auto" selected="1">NNIS2-----A----</tag>
+<tag lemma="konkurs_,s_^(^DD**konkurz)" src="auto" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94200-27-p4s3w14">
 <src.rf>manual</src.rf>

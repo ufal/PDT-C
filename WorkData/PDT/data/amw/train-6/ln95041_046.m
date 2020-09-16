@@ -306,7 +306,7 @@
 <LM>w#w-ln95041-046-p2s2w5</LM>
 </w.rf>
 <form>nejlepších</form>
-<tag lemma="dobrý" src="orig" selected="1">AAIP2----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAIP2----3A----</tag>
 </m>
 <m id="m-ln95041-046-p2s2w6">
 <src.rf>manual</src.rf>
@@ -706,7 +706,7 @@
 <LM>w#w-ln95041-046-p2s2w55</LM>
 </w.rf>
 <form>mužské</form>
-<tag lemma="mužský" src="orig" selected="1">AAIP4----1A----</tag>
+<tag lemma="mužský-1" src="orig" selected="1">AAIP4----1A----</tag>
 </m>
 <m id="m-ln95041-046-p2s2w56">
 <src.rf>manual</src.rf>
@@ -762,7 +762,7 @@
 <LM>w#w-ln95041-046-p2s2w62</LM>
 </w.rf>
 <form>roli</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="role_^(svitek_poslání_pozemek)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln95041-046-p2s2w63">
 <src.rf>manual</src.rf>
@@ -1380,7 +1380,7 @@
 <LM>w#w-ln95041-046-p4s1w12</LM>
 </w.rf>
 <form>druhém</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS6----------</tag>
 </m>
 <m id="m-ln95041-046-p4s1w13">
 <src.rf>manual</src.rf>
@@ -1598,7 +1598,7 @@
 <LM>w#w-ln95041-046-p4s2w16</LM>
 </w.rf>
 <form>nejlepšímu</form>
-<tag lemma="dobrý" src="orig" selected="1">AAIS3----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAIS3----3A----</tag>
 </m>
 <m id="m-ln95041-046-p4s2w17">
 <src.rf>manual</src.rf>
@@ -1835,7 +1835,7 @@
 <LM>w#w-ln95041-046-p5s1w17</LM>
 </w.rf>
 <form>oči</form>
-<tag lemma="oko" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="oko-2" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-ln95041-046-p5s1w18">
 <src.rf>manual</src.rf>
@@ -1891,7 +1891,7 @@
 <LM>w#w-ln95041-046-p5s1w24</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95041-046-p5s1w25">
 <src.rf>manual</src.rf>

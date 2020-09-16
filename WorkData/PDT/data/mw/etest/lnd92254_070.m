@@ -40,7 +40,7 @@
 <form>Štěpán</form>
 <tag>
 <AM lemma="Štěpán_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Štěpán_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Štěpán-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-070-p1s1w4">

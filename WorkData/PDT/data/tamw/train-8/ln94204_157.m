@@ -768,7 +768,7 @@
 <LM>w#w-ln94204-157-p4s1w4</LM>
 </w.rf>
 <form>vagony</form>
-<tag lemma="vagón" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="vagon_,s_^(^DD**vagón)" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-ln94204-157-p4s1w5">
 <src.rf>manual</src.rf>
@@ -1379,7 +1379,7 @@
 <LM>w#w-ln94204-157-p5s2w7</LM>
 </w.rf>
 <form>rychlíku</form>
-<tag lemma="rychlík" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="rychlík-1" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln94204-157-p5s2w8">
 <src.rf>manual</src.rf>
@@ -2326,7 +2326,7 @@
 <LM>w#w-ln94204-157-p7s1w7</LM>
 </w.rf>
 <form>Evropě</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94204-157-p7s1w8">
 <src.rf>manual</src.rf>
@@ -2414,7 +2414,7 @@
 <LM>w#w-ln94204-157-p7s1w18</LM>
 </w.rf>
 <form>stojí</form>
-<tag lemma="stát-4_^(něco_stojí_peníze)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94204-157-p7s1w19">
 <src.rf>manual</src.rf>
@@ -2654,7 +2654,7 @@
 <LM>w#w-ln94204-157-p8s2w5</LM>
 </w.rf>
 <form>naší</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS2-P1-------</tag>
 </m>
 <m id="m-ln94204-157-p8s2w6">
 <src.rf>manual</src.rf>
@@ -2728,7 +2728,7 @@
 <LM>w#w-ln94204-157-p8s3w5</LM>
 </w.rf>
 <form>politiky</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94204-157-p8s3w6">
 <src.rf>manual</src.rf>
@@ -2909,7 +2909,7 @@
 <LM>w#w-ln94204-157-p8s4w15</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-ln94204-157-p8s4w16">
 <src.rf>manual</src.rf>
@@ -3169,7 +3169,7 @@
 <LM>w#w-ln94204-157-p8s6w10</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrIS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS4----------</tag>
 </m>
 <m id="m-ln94204-157-p8s6w11">
 <src.rf>manual</src.rf>

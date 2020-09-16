@@ -622,7 +622,7 @@
 <LM>w#w-ln94202-75-p2s4w13</LM>
 </w.rf>
 <form>Sasku</form>
-<tag lemma="Sasko_;G" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="Sasko-2_;G" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-ln94202-75-p2s4w14">
 <src.rf>manual</src.rf>
@@ -686,7 +686,7 @@
 <LM>w#w-ln94202-75-p2s4w21</LM>
 </w.rf>
 <form>zelenými</form>
-<tag lemma="zelený" src="orig" selected="1">AAMP7----1A----</tag>
+<tag lemma="zelený_;o" src="orig" selected="1">AAMP7----1A----</tag>
 </m>
 <m id="m-ln94202-75-p2s4w22">
 <src.rf>manual</src.rf>
@@ -718,7 +718,7 @@
 <LM>w#w-ln94202-75-p2s4w25</LM>
 </w.rf>
 <form>Strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94202-75-p2s4w26">
 <src.rf>manual</src.rf>

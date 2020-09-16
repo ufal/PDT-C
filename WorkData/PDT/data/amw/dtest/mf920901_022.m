@@ -181,7 +181,7 @@
 <LM>w#w-mf920901-022-p2s2w11</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-mf920901-022-p2s2w12">
 <src.rf>manual</src.rf>
@@ -317,7 +317,7 @@
 <LM>w#w-mf920901-022-p2s3w4</LM>
 </w.rf>
 <form>Miroslav</form>
-<tag lemma="Miroslav_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Miroslav-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-022-p2s3w5">
 <src.rf>manual</src.rf>
@@ -432,7 +432,7 @@
 <LM>w#w-mf920901-022-p2s3w18</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS1----------</tag>
 </m>
 <m id="m-mf920901-022-p2s3w19">
 <src.rf>manual</src.rf>
@@ -472,7 +472,7 @@
 <LM>w#w-mf920901-022-p2s3w23</LM>
 </w.rf>
 <form>svá</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8NP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8NP4---------1</tag>
 </m>
 <m id="m-mf920901-022-p2s3w24">
 <src.rf>manual</src.rf>
@@ -504,7 +504,7 @@
 <LM>w#w-mf920901-022-p2s3w27</LM>
 </w.rf>
 <form>dni</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS3-----A---1</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS3-----A---1</tag>
 </m>
 <m id="m-mf920901-022-p2s3w28">
 <src.rf>manual</src.rf>
@@ -855,7 +855,7 @@
 <LM>w#w-mf920901-022-p2s5w16</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-mf920901-022-p2s5w17">
 <src.rf>manual</src.rf>
@@ -883,7 +883,7 @@
 <AM lemma="zaměstnanost-2_^(politika_z.;_přednost_před_odvoz.)" src="auto">NNFP1-----A----</AM>
 <AM lemma="zaměstnanost-2_^(politika_z.;_přednost_před_odvoz.)" src="auto">NNFP4-----A----</AM>
 <AM lemma="zaměstnanost-2_^(politika_z.;_přednost_před_odvoz.)" src="auto">NNFP5-----A----</AM>
-<AM lemma="zaměstnanost-2_^(politika_z.;_přednost_před_odvoz.)" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
+<AM lemma="zaměstnanost_^(*3ý)" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
 <AM lemma="zaměstnanost-2_^(politika_z.;_přednost_před_odvoz.)" src="auto">NNFS3-----A----</AM>
 <AM lemma="zaměstnanost-2_^(politika_z.;_přednost_před_odvoz.)" src="auto">NNFS5-----A----</AM>
 <AM lemma="zaměstnanost-2_^(politika_z.;_přednost_před_odvoz.)" src="auto">NNFS6-----A----</AM>

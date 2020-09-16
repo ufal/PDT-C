@@ -466,7 +466,7 @@
 <LM>w#w-ln95048-029-p2s2w17</LM>
 </w.rf>
 <form>událostí</form>
-<tag lemma="událost_,a_^(*3ý)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="událost" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln95048-029-p2s2w18">
 <src.rf>manual</src.rf>
@@ -490,7 +490,7 @@
 <LM>w#w-ln95048-029-p2s2w20</LM>
 </w.rf>
 <form>judaismu</form>
-<tag lemma="judaismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="judaismus_,s_^(^DD**judaizmus)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95048-029-p2s2w21">
 <src.rf>manual</src.rf>
@@ -792,7 +792,7 @@
 <LM>w#w-ln95048-029-p2s3w15</LM>
 </w.rf>
 <form>naší</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS2-P1-------</tag>
 </m>
 <m id="m-ln95048-029-p2s3w16">
 <src.rf>manual</src.rf>
@@ -946,7 +946,7 @@
 <LM>w#w-ln95048-029-p2s4w17</LM>
 </w.rf>
 <form>Nobelovy</form>
-<tag lemma="Nobelův_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Nobelův_;Y_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-ln95048-029-p2s4w18">
 <src.rf>manual</src.rf>
@@ -1124,7 +1124,7 @@
 <LM>w#w-ln95048-029-p2s5w8</LM>
 </w.rf>
 <form>mého</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS2-S1-------</tag>
+<tag lemma="můj" src="orig" selected="1">PSZS2-S1-------</tag>
 </m>
 <m id="m-ln95048-029-p2s5w9">
 <src.rf>manual</src.rf>

@@ -314,7 +314,7 @@
 <LM>w#w-ln95043-027-p2s2w4</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-ln95043-027-p2s2w5">
 <src.rf>manual</src.rf>
@@ -402,7 +402,7 @@
 <LM>w#w-ln95043-027-p2s2w15</LM>
 </w.rf>
 <form>svoji</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4----------</tag>
 </m>
 <m id="m-ln95043-027-p2s2w16">
 <src.rf>manual</src.rf>
@@ -444,7 +444,7 @@
 <LM>w#w-ln95043-027-p2s3w2</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-ln95043-027-p2s3w3">
 <src.rf>manual</src.rf>
@@ -683,7 +683,7 @@
 <LM>w#w-ln95043-027-p3s1w5</LM>
 </w.rf>
 <form>moc</form>
-<tag lemma="moc-3_^(velmi,_ve_spojení_s_adj.,_př._moc_hezká)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="moc-3_^(moc_hezká,_moc_peněz)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95043-027-p3s1w6">
 <src.rf>manual</src.rf>
@@ -789,7 +789,7 @@
 <LM>w#w-ln95043-027-p3s2w11</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-ln95043-027-p3s2w12">
 <src.rf>manual</src.rf>
@@ -797,7 +797,7 @@
 <LM>w#w-ln95043-027-p3s2w12</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrIS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS4----------</tag>
 </m>
 <m id="m-ln95043-027-p3s2w13">
 <src.rf>manual</src.rf>
@@ -1117,7 +1117,7 @@
 <LM>w#w-ln95043-027-p3s3w3</LM>
 </w.rf>
 <form>Novotnou</form>
-<tag lemma="Novotná_;Y_^(*1ý)" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Novotná_;Y" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln95043-027-p3s3w4">
 <src.rf>manual</src.rf>
@@ -1327,7 +1327,7 @@
 <LM>w#w-ln95043-027-p3s4w19</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS6---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS6---------1</tag>
 </m>
 <m id="m-ln95043-027-p3s4w20">
 <src.rf>manual</src.rf>
@@ -1487,7 +1487,7 @@
 <LM>w#w-ln95043-027-p3s6w6</LM>
 </w.rf>
 <form>Novotná</form>
-<tag lemma="Novotná_;Y_^(*1ý)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Novotná_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95043-027-p3s6w7">
 <src.rf>manual</src.rf>
@@ -1583,7 +1583,7 @@
 <LM>w#w-ln95043-027-p3s6w18</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS2---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS2---------1</tag>
 </m>
 <m id="m-ln95043-027-p3s6w19">
 <src.rf>manual</src.rf>
@@ -1957,7 +1957,7 @@
 <LM>w#w-ln95043-027-p3s8w6</LM>
 </w.rf>
 <form>druhém</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS6----------</tag>
 </m>
 <m id="m-ln95043-027-p3s8w7">
 <src.rf>manual</src.rf>
@@ -2059,7 +2059,7 @@
 <form>breaku</form>
 <tag>
 <AM lemma="Break_;m_^(vozidlo)" src="auto">NNIS6-----A----</AM>
-<AM lemma="break_^(tie-break)" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="break" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-027-p3s8w19">
@@ -2366,7 +2366,7 @@
 <LM>w#w-ln95043-027-p3s10w7</LM>
 </w.rf>
 <form>potřeba</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95043-027-p3s10w8">
 <src.rf>manual</src.rf>
@@ -2825,7 +2825,7 @@
 <LM>w#w-ln95043-027-p4s1Bw7</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrMS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrMS1----------</tag>
 </m>
 <m id="m-ln95043-027-p4s1Bw8">
 <src.rf>manual</src.rf>
@@ -3084,7 +3084,7 @@
 <form>breaku</form>
 <tag>
 <AM lemma="Break_;m_^(vozidlo)" src="auto">NNIS6-----A----</AM>
-<AM lemma="break_^(tie-break)" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="break" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-027-p4s2w12">
@@ -3169,7 +3169,7 @@
 <form>Martin</form>
 <tag>
 <AM lemma="Martin-1_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Martin_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Martin-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-027-p4s3w2">

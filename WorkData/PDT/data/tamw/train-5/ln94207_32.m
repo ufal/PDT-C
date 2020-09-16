@@ -21,7 +21,7 @@
 <form>Progress</form>
 <tag>
 <AM lemma="Progress-1_;m_,t_^(ruská_kosmická_loď)" src="orig">NNIS1-----A----</AM>
-<AM lemma="Progress-1_;m_^(ruská_kosmická_loď)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Progress_;m_^(ruská_kosmická_loď)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-32-p1s1w2">
@@ -149,7 +149,7 @@
 <form>Mir</form>
 <tag>
 <AM lemma="Mir-1_;m_,t_^(ruská_kosmická_stanice)" src="orig">NNIS1-----A----</AM>
-<AM lemma="Mir-1_;m_^(ruská_kosmická_stanice)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Mir_;m_^(ruská_kosmická_stanice)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-32-p2s1Aw7">
@@ -182,7 +182,7 @@
 <LM>w#w-ln94207-32-p2s1Aw10</LM>
 </w.rf>
 <form>prestiž</form>
-<tag lemma="prestiž" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="prestiž-1" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94207-32-p2s1Aw11">
 <src.rf>manual</src.rf>
@@ -225,7 +225,7 @@
 <LM>w#w-ln94207-32-p2s1Bw2</LM>
 </w.rf>
 <form>Procházková</form>
-<tag lemma="Procházková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Procházková_;Y_^(*3a)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94207-32-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -299,7 +299,7 @@
 <LM>w#w-ln94207-32-p2s1Cw4</LM>
 </w.rf>
 <form>mocnosti</form>
-<tag lemma="mocnost_^(mající_moc)_(*3ý)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="mocnost_^(*3ý)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94207-32-p2s1Cw5">
 <src.rf>manual</src.rf>
@@ -683,7 +683,7 @@
 <form>Mir</form>
 <tag>
 <AM lemma="Mir-1_;m_,t_^(ruská_kosmická_stanice)" src="orig">NNIS1-----A----</AM>
-<AM lemma="Mir-1_;m_^(ruská_kosmická_stanice)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Mir_;m_^(ruská_kosmická_stanice)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-32-p2s4w22">
@@ -719,7 +719,7 @@
 <form>Progress</form>
 <tag>
 <AM lemma="Progress-1_;m_,t_^(ruská_kosmická_loď)" src="orig">NNIS1-----A----</AM>
-<AM lemma="Progress-1_;m_^(ruská_kosmická_loď)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Progress_;m_^(ruská_kosmická_loď)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-32-p2s4w26">
@@ -943,7 +943,7 @@
 <form>Mir</form>
 <tag>
 <AM lemma="Mir-1_;m_,t_^(ruská_kosmická_stanice)" src="orig">NNIS1-----A----</AM>
-<AM lemma="Mir-1_;m_^(ruská_kosmická_stanice)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Mir_;m_^(ruská_kosmická_stanice)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-32-p2s5w23">
@@ -1126,7 +1126,7 @@
 <form>Mir</form>
 <tag>
 <AM lemma="Mir-1_;m_,t_^(ruská_kosmická_stanice)" src="orig">NNIS1-----A----</AM>
-<AM lemma="Mir-1_;m_^(ruská_kosmická_stanice)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Mir_;m_^(ruská_kosmická_stanice)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-32-p3s2w7">
@@ -1407,7 +1407,7 @@
 <LM>w#w-ln94207-32-p3s6w6</LM>
 </w.rf>
 <form>odpovědnost</form>
-<tag lemma="odpovědnost_^(kdo_za_něco_odpovídá)_(*3ý)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="odpovědnost_^(*3ý)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94207-32-p3s6w7">
 <src.rf>manual</src.rf>
@@ -2003,7 +2003,7 @@
 <form>Progress</form>
 <tag>
 <AM lemma="Progress-1_;m_,t_^(ruská_kosmická_loď)" src="orig">NNIS1-----A----</AM>
-<AM lemma="Progress-1_;m_^(ruská_kosmická_loď)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Progress_;m_^(ruská_kosmická_loď)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-32-p4s2w12">
@@ -2054,7 +2054,7 @@
 <form>Mir</form>
 <tag>
 <AM lemma="Mir-1_;m_,t_^(ruská_kosmická_stanice)" src="orig">NNIS1-----A----</AM>
-<AM lemma="Mir-1_;m_^(ruská_kosmická_stanice)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Mir_;m_^(ruská_kosmická_stanice)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-32-p4s2w18">
@@ -2199,7 +2199,7 @@
 <LM>w#w-ln94207-32-p4s2w35</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln94207-32-p4s2w36">
 <src.rf>manual</src.rf>
@@ -2355,7 +2355,7 @@
 <form>Miru</form>
 <tag>
 <AM lemma="Mir-1_;m_,t_^(ruská_kosmická_stanice)" src="orig">NNIS2-----A----</AM>
-<AM lemma="Mir-1_;m_^(ruská_kosmická_stanice)" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Mir_;m_^(ruská_kosmická_stanice)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-32-p4s3w11">
@@ -2448,7 +2448,7 @@
 <form>jen</form>
 <tag>
 <AM lemma="jen-1" src="auto">TT-------------</AM>
-<AM lemma="jen-4_(pouze)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-32-p4s4w4">
@@ -2821,7 +2821,7 @@
 <LM>w#w-ln94207-32-p5s1w5</LM>
 </w.rf>
 <form>události</form>
-<tag lemma="událost_,a_^(*3ý)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="událost" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-ln94207-32-p5s1w6">
 <src.rf>manual</src.rf>
@@ -3045,7 +3045,7 @@
 <LM>w#w-ln94207-32-p5s1w33</LM>
 </w.rf>
 <form>nepříjemná</form>
-<tag lemma="příjemný-1_^(všeob.,_poz._emoce)" src="orig" selected="1">AAFS1----1N----</tag>
+<tag lemma="příjemný_^(všeob.,_poz._emoce)" src="orig" selected="1">AAFS1----1N----</tag>
 </m>
 <m id="m-ln94207-32-p5s1w34">
 <src.rf>manual</src.rf>
@@ -3113,7 +3113,7 @@
 <form>jen</form>
 <tag>
 <AM lemma="jen-1" src="auto">TT-------------</AM>
-<AM lemma="jen-4_(pouze)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-32-p5s2w8">
@@ -3130,7 +3130,7 @@
 <LM>w#w-ln94207-32-p5s2w9</LM>
 </w.rf>
 <form>prestiž</form>
-<tag lemma="prestiž" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="prestiž-1" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94207-32-p5s2w10">
 <src.rf>manual</src.rf>
@@ -4502,7 +4502,7 @@
 <LM>w#w-ln94207-32-p8s1w13</LM>
 </w.rf>
 <form>přijetí</form>
-<tag lemma="přijetí_^(*3mout)" src="auto" selected="1">NNNS4-----A----</tag>
+<tag lemma="přijetí_^(*1)_(*3mout)" src="auto" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln94207-32-p8s1w14">
 <src.rf>manual</src.rf>

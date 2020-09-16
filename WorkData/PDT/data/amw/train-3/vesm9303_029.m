@@ -104,7 +104,7 @@
 <LM>w#w-vesm9303-029-p2s1w3</LM>
 </w.rf>
 <form>model</form>
-<tag lemma="model" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="model-1" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-vesm9303-029-p2s1w4">
 <src.rf>manual</src.rf>

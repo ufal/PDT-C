@@ -91,7 +91,7 @@
 <LM>w#w-mf920924-079-p1s1w10</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS6---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS6---------1</tag>
 </m>
 <m id="m-mf920924-079-p1s1w11">
 <src.rf>manual</src.rf>
@@ -99,7 +99,7 @@
 <LM>w#w-mf920924-079-p1s1w11</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-mf920924-079-p1s1w12">
 <src.rf>manual</src.rf>
@@ -107,7 +107,7 @@
 <LM>w#w-mf920924-079-p1s1w12</LM>
 </w.rf>
 <form>cestě</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf920924-079-p1s1w13">
 <src.rf>manual</src.rf>
@@ -139,7 +139,7 @@
 <LM>w#w-mf920924-079-p1s1w16</LM>
 </w.rf>
 <form>letoun</form>
-<tag lemma="letoun" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="letoun-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920924-079-p1s1w17">
 <src.rf>manual</src.rf>
@@ -220,7 +220,7 @@
 <LM>w#w-mf920924-079-p1s1w25</LM>
 </w.rf>
 <form>potřeby</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-mf920924-079-p1s1w26">
 <src.rf>manual</src.rf>
@@ -547,7 +547,7 @@
 <LM>w#w-mf920924-079-p1s3w15</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XP1FS3-------</tag>
 </m>
 <m id="m-mf920924-079-p1s3w16">
 <src.rf>manual</src.rf>

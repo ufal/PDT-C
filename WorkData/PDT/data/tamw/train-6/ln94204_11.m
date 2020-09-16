@@ -264,7 +264,7 @@
 <LM>w#w-ln94204-11-p2s1Bw23</LM>
 </w.rf>
 <form>Marietta</form>
-<tag lemma="Marietta_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Marietta_;G_;Y_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94204-11-p2s1Bw24">
 <src.rf>manual</src.rf>

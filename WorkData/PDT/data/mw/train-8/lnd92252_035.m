@@ -130,7 +130,7 @@
 <form>Tchung</form>
 <tag>
 <AM lemma="Tchung_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Tchung_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Tchung-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-035-p3s2w5">
@@ -336,7 +336,7 @@
 <LM>w#w-lnd92252-035-p3s3w16</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS2---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS2---------1</tag>
 </m>
 <m id="m-lnd92252-035-p3s3w17">
 <src.rf>manual</src.rf>
@@ -694,7 +694,7 @@
 <LM>w#w-lnd92252-035-p3s5w2</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrMS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrMS1----------</tag>
 </m>
 <m id="m-lnd92252-035-p3s5w3">
 <src.rf>manual</src.rf>

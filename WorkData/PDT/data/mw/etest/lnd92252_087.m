@@ -276,7 +276,7 @@
 <LM>w#w-lnd92252-087-p2s3w6</LM>
 </w.rf>
 <form>Krč</form>
-<tag lemma="Krč_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Krč-2_;G" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92252-087-p2s3w7">
 <src.rf>manual</src.rf>
@@ -848,7 +848,7 @@
 <LM>w#w-lnd92252-087-p2s4w48</LM>
 </w.rf>
 <form>Zlatý</form>
-<tag lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAIS1----1A----</tag>
+<tag lemma="zlatý-1_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-lnd92252-087-p2s4w49">
 <src.rf>manual</src.rf>
@@ -904,7 +904,7 @@
 <LM>w#w-lnd92252-087-p2s4w55</LM>
 </w.rf>
 <form>veteráni</form>
-<tag lemma="veterán" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="veterán-1" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd92252-087-p2s4w56">
 <src.rf>manual</src.rf>
@@ -1681,7 +1681,7 @@
 <LM>w#w-lnd92252-087-p4s4w26</LM>
 </w.rf>
 <form>Karlovy</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUIP1M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUIP1M---------</tag>
 </m>
 <m id="m-lnd92252-087-p4s4w27">
 <src.rf>manual</src.rf>
@@ -2448,7 +2448,7 @@
 <form>Čechův</form>
 <tag>
 <AM lemma="Čechův-2_;Y_^(*4-2)" src="orig">AUIS1M---------</AM>
-<AM lemma="Čechův-2_;Y_^(*4o-2)" src="auto" recommended="1" selected="1">AUIS1M---------</AM>
+<AM lemma="Čechův_;E_;Y_^(*2)_(*2o-2)" src="auto" recommended="1" selected="1">AUIS1M---------</AM>
 <AM lemma="Čechův-2_;Y_^(*4o-2)" src="auto">AUIS4M---------</AM>
 <AM lemma="Čechův-2_;Y_^(*4o-2)" src="auto">AUIS5M---------</AM>
 <AM lemma="Čechův-2_;Y_^(*4o-2)" src="auto">AUMS1M---------</AM>
@@ -3208,7 +3208,7 @@
 <AM lemma="sokol-1_;U_^(pták)" src="auto">NNMS1-----A----</AM>
 <AM lemma="sokol-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="sokol-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="sokol-2_;m_^(organizace)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="sokol-2_^(organizace)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-087-p4s9w41">

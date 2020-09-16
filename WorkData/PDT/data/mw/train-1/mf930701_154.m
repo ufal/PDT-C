@@ -1433,7 +1433,7 @@
 <LM>w#w-mf930701-154-p1s10w10</LM>
 </w.rf>
 <form>dlouhého</form>
-<tag lemma="dlouhý-1_^(fyz._délka;_př._dlouhá_tyč)" src="orig" selected="1">AAIS2----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-mf930701-154-p1s10w11">
 <src.rf>manual</src.rf>

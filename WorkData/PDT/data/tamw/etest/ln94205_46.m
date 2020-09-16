@@ -162,7 +162,7 @@
 <LM>w#w-ln94205-46-p2s1Bw7</LM>
 </w.rf>
 <form>prvního</form>
-<tag lemma="první" src="orig" selected="1">CrNS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS2----------</tag>
 </m>
 <m id="m-ln94205-46-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -1167,7 +1167,7 @@
 <LM>w#w-ln94205-46-p4s3w9</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-ln94205-46-p4s3w10">
 <src.rf>manual</src.rf>

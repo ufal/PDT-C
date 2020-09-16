@@ -183,7 +183,7 @@
 <LM>w#w-mf920902-033-p2s2w3</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-mf920902-033-p2s2w4">
 <src.rf>manual</src.rf>
@@ -672,7 +672,7 @@
 <LM>w#w-mf920902-033-p2s5w11</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-mf920902-033-p2s5w12">
 <src.rf>manual</src.rf>
@@ -1101,7 +1101,7 @@
 <LM>w#w-mf920902-033-p2s7w4</LM>
 </w.rf>
 <form>vyhlášeným</form>
-<tag lemma="vyhlášený_,a_^(*4sit)" src="orig" selected="1">AAMS7----1A----</tag>
+<tag lemma="vyhlášený_^(*2t)_(*4sit)" src="orig" selected="1">AAMS7----1A----</tag>
 </m>
 <m id="m-mf920902-033-p2s7w5">
 <src.rf>manual</src.rf>
@@ -1677,7 +1677,7 @@
 <LM>w#w-mf920902-033-p2s10w21</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-mf920902-033-p2s10w22">
 <src.rf>manual</src.rf>
@@ -2811,7 +2811,7 @@
 <LM>w#w-mf920902-033-p2s15w9</LM>
 </w.rf>
 <form>vytvářením</form>
-<tag lemma="vytváření_,a_^(*2t)" src="auto" selected="1">NNNS7-----A----</tag>
+<tag lemma="vytváření_^(*2t)_(*3it)" src="auto" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-mf920902-033-p2s15w10">
 <src.rf>manual</src.rf>

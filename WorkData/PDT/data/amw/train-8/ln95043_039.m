@@ -520,7 +520,7 @@
 <LM>w#w-ln95043-039-p4s1w2</LM>
 </w.rf>
 <form>vypadá</form>
-<tag lemma="vypadat" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="vypadat-1_^(ty_vypadáš)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95043-039-p4s1w3">
 <src.rf>manual</src.rf>

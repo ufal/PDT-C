@@ -754,7 +754,7 @@
 <LM>w#w-lnd94101-017-p1s6w10</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd94101-017-p1s6w11">
 <src.rf>manual</src.rf>
@@ -1277,7 +1277,7 @@
 <LM>w#w-lnd94101-017-p1s10w6</LM>
 </w.rf>
 <form>naše</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP4-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP4-P1-------</tag>
 </m>
 <m id="m-lnd94101-017-p1s10w7">
 <src.rf>manual</src.rf>
@@ -1381,7 +1381,7 @@
 <LM>w#w-lnd94101-017-p1s10w19</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8MS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8MS4----------</tag>
 </m>
 <m id="m-lnd94101-017-p1s10w20">
 <src.rf>manual</src.rf>
@@ -1940,7 +1940,7 @@
 <LM>w#w-lnd94101-017-p1s13w7</LM>
 </w.rf>
 <form>taxikáře</form>
-<tag lemma="taxikář" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="taxikář_,s_^(^DD**taxíkář)" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94101-017-p1s13w8">
 <src.rf>manual</src.rf>
@@ -2079,7 +2079,7 @@
 <LM>w#w-lnd94101-017-p1s13w24</LM>
 </w.rf>
 <form>taxikáře</form>
-<tag lemma="taxikář" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="taxikář_,s_^(^DD**taxíkář)" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94101-017-p1s13w25">
 <src.rf>manual</src.rf>
@@ -2175,7 +2175,7 @@
 <LM>w#w-lnd94101-017-p1s13w36</LM>
 </w.rf>
 <form>jejím</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS6FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS6FS3-------</tag>
 </m>
 <m id="m-lnd94101-017-p1s13w37">
 <src.rf>manual</src.rf>

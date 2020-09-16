@@ -376,7 +376,7 @@
 <LM>w#w-lnd94103-075-p1s5w4</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-lnd94103-075-p1s5w5">
 <src.rf>manual</src.rf>

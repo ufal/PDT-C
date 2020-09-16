@@ -369,7 +369,7 @@
 <LM>w#w-lnd92256-071-p3s3w17</LM>
 </w.rf>
 <form>výbor</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92256-071-p3s3w18">
 <src.rf>manual</src.rf>

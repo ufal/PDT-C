@@ -35,7 +35,7 @@
 <LM>w#w-mf920922-018-p1s1w3</LM>
 </w.rf>
 <form>naši</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS4-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS4-P1-------</tag>
 </m>
 <m id="m-mf920922-018-p1s1w4">
 <src.rf>manual</src.rf>
@@ -404,7 +404,7 @@
 <LM>w#w-mf920922-018-p2s2w3</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrIS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS1----------</tag>
 </m>
 <m id="m-mf920922-018-p2s2w4">
 <src.rf>manual</src.rf>
@@ -1244,7 +1244,7 @@
 <LM>w#w-mf920922-018-p2s6w9</LM>
 </w.rf>
 <form>činitelů</form>
-<tag lemma="činitel" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="činitel-1" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf920922-018-p2s6w10">
 <src.rf>manual</src.rf>
@@ -1308,7 +1308,7 @@
 <LM>w#w-mf920922-018-p2s6w17</LM>
 </w.rf>
 <form>dumpingovým</form>
-<tag lemma="dumpingový" src="orig" selected="1">AAIP3----1A----</tag>
+<tag lemma="dumpingový_,s_^(^DD**dampingový)" src="orig" selected="1">AAIP3----1A----</tag>
 </m>
 <m id="m-mf920922-018-p2s6w18">
 <src.rf>manual</src.rf>
@@ -1717,7 +1717,7 @@
 <LM>w#w-mf920922-018-p2s8w11</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-mf920922-018-p2s8w12">
 <src.rf>manual</src.rf>
@@ -1735,7 +1735,7 @@
 <LM>w#w-mf920922-018-p2s9w1</LM>
 </w.rf>
 <form>Dumpingový</form>
-<tag lemma="dumpingový" src="orig" selected="1">AAIS1----1A----</tag>
+<tag lemma="dumpingový_,s_^(^DD**dampingový)" src="orig" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-mf920922-018-p2s9w2">
 <src.rf>manual</src.rf>
@@ -1849,7 +1849,7 @@
 <LM>w#w-mf920922-018-p2s10w3</LM>
 </w.rf>
 <form>naší</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS2-P1-------</tag>
 </m>
 <m id="m-mf920922-018-p2s10w4">
 <src.rf>manual</src.rf>
@@ -2163,7 +2163,7 @@
 <LM>w#w-mf920922-018-p2s11w10</LM>
 </w.rf>
 <form>naší</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS2-P1-------</tag>
 </m>
 <m id="m-mf920922-018-p2s11w11">
 <src.rf>manual</src.rf>
@@ -2259,7 +2259,7 @@
 <LM>w#w-mf920922-018-p2s11w22</LM>
 </w.rf>
 <form>našeho</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSZS2-P1-------</tag>
 </m>
 <m id="m-mf920922-018-p2s11w23">
 <src.rf>manual</src.rf>

@@ -1003,7 +1003,7 @@
 <LM>w#w-ln94210-143-p3s3w24</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-ln94210-143-p3s3w25">
 <src.rf>manual</src.rf>
@@ -1101,7 +1101,7 @@
 <LM>w#w-ln94210-143-p4s1w10</LM>
 </w.rf>
 <form>svoje</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP4----------</tag>
 </m>
 <m id="m-ln94210-143-p4s1w11">
 <src.rf>manual</src.rf>

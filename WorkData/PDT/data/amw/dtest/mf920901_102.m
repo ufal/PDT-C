@@ -493,7 +493,7 @@
 <LM>w#w-mf920901-102-p2s5w3</LM>
 </w.rf>
 <form>lidem</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP3-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP3-----A----</tag>
 </m>
 <m id="m-mf920901-102-p2s5w4">
 <src.rf>manual</src.rf>
@@ -624,7 +624,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf920901-102-p3s1w4">
@@ -1460,7 +1460,7 @@
 <LM>w#w-mf920901-102-p4s5w4</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-mf920901-102-p4s5w5">
 <src.rf>manual</src.rf>
@@ -1664,7 +1664,7 @@
 <LM>w#w-mf920901-102-p4s5w29</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-mf920901-102-p4s5w30">
 <src.rf>manual</src.rf>
@@ -1730,7 +1730,7 @@
 <LM>w#w-mf920901-102-p5s1w2</LM>
 </w.rf>
 <form>odpovědnost</form>
-<tag lemma="odpovědnost_^(kdo_za_něco_odpovídá)_(*3ý)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="odpovědnost_^(*3ý)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf920901-102-p5s1w3">
 <src.rf>manual</src.rf>
@@ -1842,7 +1842,7 @@
 <LM>w#w-mf920901-102-p5s1w16</LM>
 </w.rf>
 <form>masívními</form>
-<tag lemma="masívní" src="orig" selected="1">AAFP7----1A----</tag>
+<tag lemma="masívní_,s_^(^DD**masivní)" src="orig" selected="1">AAFP7----1A----</tag>
 </m>
 <m id="m-mf920901-102-p5s1w17">
 <src.rf>manual</src.rf>

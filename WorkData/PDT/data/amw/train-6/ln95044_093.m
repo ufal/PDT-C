@@ -268,7 +268,7 @@
 <LM>w#w-ln95044-093-p2s2w5</LM>
 </w.rf>
 <form>roli</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="role_^(svitek_poslání_pozemek)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95044-093-p2s2w6">
 <src.rf>manual</src.rf>
@@ -1530,7 +1530,7 @@
 <LM>w#w-ln95044-093-p4s2w5</LM>
 </w.rf>
 <form>málo</form>
-<tag lemma="málo-3_^(málo_+_příd._jm.,_př._byl_málo_důsledný)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="málo-3_^(málo_důsledný)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95044-093-p4s2w6">
 <src.rf>manual</src.rf>
@@ -2079,7 +2079,7 @@
 <LM>w#w-ln95044-093-p6s1w13</LM>
 </w.rf>
 <form>stanovené</form>
-<tag lemma="stanovený_^(určit)_(*3it)" src="orig" selected="1">AAFS2----1A----</tag>
+<tag lemma="stanovený_^(*3it)" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-ln95044-093-p6s1w14">
 <src.rf>manual</src.rf>
@@ -2419,7 +2419,7 @@
 <LM>w#w-ln95044-093-p6s3w2</LM>
 </w.rf>
 <form>roli</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="role_^(svitek_poslání_pozemek)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95044-093-p6s3w3">
 <src.rf>manual</src.rf>
@@ -3014,7 +3014,7 @@
 <LM>w#w-ln95044-093-p8s1w6</LM>
 </w.rf>
 <form>lidi</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-ln95044-093-p8s1w7">
 <src.rf>manual</src.rf>

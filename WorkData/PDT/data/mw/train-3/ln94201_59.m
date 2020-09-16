@@ -279,7 +279,7 @@
 <LM>w#w-ln94201-59-p1s3w7</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS7----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS7----------</tag>
 </m>
 <m id="m-ln94201-59-p1s3w8">
 <src.rf>manual</src.rf>
@@ -295,7 +295,7 @@
 <LM>w#w-ln94201-59-p1s3w9</LM>
 </w.rf>
 <form>modrozeleným</form>
-<tag lemma="modrozelený" src="orig" selected="1">AAIS7----1A----</tag>
+<tag lemma="modrozelený_;o" src="orig" selected="1">AAIS7----1A----</tag>
 </m>
 <m id="m-ln94201-59-p1s3w10">
 <src.rf>manual</src.rf>

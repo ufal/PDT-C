@@ -85,7 +85,7 @@
 <LM>w#w-ln94210-47-p2s1w8</LM>
 </w.rf>
 <form>druhého</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS2----------</tag>
 </m>
 <m id="m-ln94210-47-p2s1w9">
 <src.rf>manual</src.rf>
@@ -650,7 +650,7 @@
 </w.rf>
 <form>jedoucích</form>
 <tag>
-<AM lemma="jedoucí_^(pohybovat_se,_ne_však_chůzí)_(*5t)" src="orig" selected="1">AGIP2-----A----</AM>
+<AM lemma="jedoucí-1_^(*7t-1)" src="orig" selected="1">AGIP2-----A----</AM>
 <AM lemma="jedoucí-1_^(pohybovat_se,_ne_však_chůzí)_(*7t-1)" src="auto">AGFP2-----A----</AM>
 <AM lemma="jedoucí-1_^(pohybovat_se,_ne_však_chůzí)_(*7t-1)" src="auto">AGFP6-----A----</AM>
 <AM lemma="jedoucí-1_^(pohybovat_se,_ne_však_chůzí)_(*7t-1)" src="auto">AGIP2-----A----</AM>
@@ -880,7 +880,7 @@
 <LM>w#w-ln94210-47-p4s2w10</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94210-47-p4s2w11">
 <src.rf>manual</src.rf>

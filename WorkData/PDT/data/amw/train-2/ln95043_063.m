@@ -206,7 +206,7 @@
 <LM>w#w-ln95043-063-p2s1Cw11</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS1FS3-------</tag>
 </m>
 <m id="m-ln95043-063-p2s1Cw12">
 <src.rf>manual</src.rf>
@@ -280,7 +280,7 @@
 <form>rada</form>
 <tag>
 <AM lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig">NNFS1-----A----</AM>
-<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu_poradní_sbor)" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-063-p2s1Cw21">
@@ -366,7 +366,7 @@
 <LM>w#w-ln95043-063-p2s1Cw28</LM>
 </w.rf>
 <form>Frýdecko</form>
-<tag lemma="frýdecký" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="frýdecko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-ln95043-063-p2s1Cw29">
 <src.rf>manual</src.rf>
@@ -617,7 +617,7 @@
 <LM>w#w-ln95043-063-p2s2w27</LM>
 </w.rf>
 <form>členů</form>
-<tag lemma="člen" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln95043-063-p2s2w28">
 <src.rf>manual</src.rf>
@@ -646,7 +646,7 @@
 <LM>w#w-ln95043-063-p2s3w1</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrFS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS4----------</tag>
 </m>
 <m id="m-ln95043-063-p2s3w2">
 <src.rf>manual</src.rf>
@@ -696,7 +696,7 @@
 <form>rada</form>
 <tag>
 <AM lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig">NNFS1-----A----</AM>
-<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu_poradní_sbor)" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-063-p2s3w8">

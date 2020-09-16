@@ -83,7 +83,7 @@
 <LM>w#w-ln94211-111-p1s1Aw9</LM>
 </w.rf>
 <form>léta</form>
-<tag lemma="rok" src="orig" selected="1">NNNP4-----A---2</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP4-----A---2</tag>
 </m>
 </s>
 <s id="m-ln94211-111-p1s1B">

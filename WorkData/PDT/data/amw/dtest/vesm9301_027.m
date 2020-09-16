@@ -200,7 +200,7 @@
 <LM>w#w-vesm9301-027-p1s1Bw19</LM>
 </w.rf>
 <form>chlórovaných</form>
-<tag lemma="chlorovaný_^(*2t)" src="orig" selected="1">AAIP2----1A----</tag>
+<tag lemma="chlórovaný_^(*2t)" src="orig" selected="1">AAIP2----1A----</tag>
 </m>
 <m id="m-vesm9301-027-p1s1Bw20">
 <src.rf>manual</src.rf>

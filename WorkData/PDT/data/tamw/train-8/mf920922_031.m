@@ -465,7 +465,7 @@
 <LM>w#w-mf920922-031-p1s4w5</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-mf920922-031-p1s4w6">
 <src.rf>manual</src.rf>

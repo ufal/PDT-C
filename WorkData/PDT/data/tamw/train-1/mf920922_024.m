@@ -703,7 +703,7 @@
 <LM>w#w-mf920922-024-p3s1w2</LM>
 </w.rf>
 <form>lepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAFS4----2A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAFS4----2A----</tag>
 </m>
 <m id="m-mf920922-024-p3s1w3">
 <src.rf>manual</src.rf>
@@ -792,7 +792,7 @@
 </w.rf>
 <form>kuchyň</form>
 <tag>
-<AM lemma="kuchyně" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="kuchyň" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="kuchyň_,s_^(^DD**kuchyně)" src="manual">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -826,7 +826,7 @@
 <LM>w#w-mf920922-024-p3s1w17</LM>
 </w.rf>
 <form>lepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAFS1----2A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAFS1----2A----</tag>
 </m>
 <m id="m-mf920922-024-p3s1w18">
 <src.rf>manual</src.rf>
@@ -1599,7 +1599,7 @@
 <LM>w#w-mf920922-024-p3s6w11</LM>
 </w.rf>
 <form>naše</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP4-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP4-P1-------</tag>
 </m>
 <m id="m-mf920922-024-p3s6w12">
 <src.rf>manual</src.rf>

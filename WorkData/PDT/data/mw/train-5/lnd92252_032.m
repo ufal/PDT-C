@@ -606,7 +606,7 @@
 <LM>w#w-lnd92252-032-p3s3w5</LM>
 </w.rf>
 <form>sympózium</form>
-<tag lemma="sympózium" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="sympózium_,s_^(^DD**sympozium)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-lnd92252-032-p3s3w6">
 <src.rf>manual</src.rf>
@@ -878,7 +878,7 @@
 <LM>w#w-lnd92252-032-p4s1w18</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-lnd92252-032-p4s1w19">
 <src.rf>manual</src.rf>
@@ -988,7 +988,7 @@
 <LM>w#w-lnd92252-032-p4s1w31</LM>
 </w.rf>
 <form>sympózia</form>
-<tag lemma="sympózium" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="sympózium_,s_^(^DD**sympozium)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-lnd92252-032-p4s1w32">
 <src.rf>manual</src.rf>
@@ -2278,7 +2278,7 @@
 <LM>w#w-lnd92252-032-p5s4w3</LM>
 </w.rf>
 <form>stojí</form>
-<tag lemma="stát-4_^(něco_stojí_peníze)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92252-032-p5s4w4">
 <src.rf>manual</src.rf>
@@ -2294,7 +2294,7 @@
 <LM>w#w-lnd92252-032-p5s4w5</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-lnd92252-032-p5s4w6">
 <src.rf>manual</src.rf>
@@ -2453,7 +2453,7 @@
 <form>právě</form>
 <tag>
 <AM lemma="právě-1" src="auto">Db-------------</AM>
-<AM lemma="právě-1" src="manual" selected="1">TT-------------</AM>
+<AM lemma="právě-2" src="manual" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92252-032-p5s5w8">
@@ -2592,7 +2592,7 @@
 <LM>w#w-lnd92252-032-p5s6w6</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-lnd92252-032-p5s6w7">
 <src.rf>manual</src.rf>

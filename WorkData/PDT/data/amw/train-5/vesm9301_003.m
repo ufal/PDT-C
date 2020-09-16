@@ -79,7 +79,7 @@
 <LM>w#w-vesm9301-003-p1s1w8</LM>
 </w.rf>
 <form>LET</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 </s>
 <s id="m-vesm9301-003-p2s1">
@@ -502,7 +502,7 @@
 <LM>w#w-vesm9301-003-p2s5w4</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-vesm9301-003-p2s5w5">
 <src.rf>manual</src.rf>
@@ -819,7 +819,7 @@
 <LM>w#w-vesm9301-003-p3s3w11</LM>
 </w.rf>
 <form>léta</form>
-<tag lemma="rok" src="orig" selected="1">NNNP4-----A---2</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP4-----A---2</tag>
 </m>
 <m id="m-vesm9301-003-p3s3w12">
 <src.rf>manual</src.rf>
@@ -1451,7 +1451,7 @@
 <LM>w#w-vesm9301-003-p5s2w2</LM>
 </w.rf>
 <form>modelů</form>
-<tag lemma="model" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="model-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-vesm9301-003-p5s2w3">
 <src.rf>manual</src.rf>

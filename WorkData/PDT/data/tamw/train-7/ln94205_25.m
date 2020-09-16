@@ -394,7 +394,7 @@
 <LM>w#w-ln94205-25-p2s2w11</LM>
 </w.rf>
 <form>prozatimní</form>
-<tag lemma="prozatímní" src="orig" selected="1">AAFS2----1A----</tag>
+<tag lemma="prozatimní_,h_^(^GC**prozatímní)" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-ln94205-25-p2s2w12">
 <src.rf>manual</src.rf>

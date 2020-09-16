@@ -149,7 +149,7 @@
 <LM>w#w-ln95048-094-p2s1Aw11</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln95048-094-p2s1Aw12">
 <src.rf>manual</src.rf>
@@ -265,7 +265,7 @@
 <LM>w#w-ln95048-094-p2s1Cw11</LM>
 </w.rf>
 <form>Slavií</form>
-<tag lemma="Slavia_;m" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Slavie_;m_,s_^(^DD**Slávie)" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln95048-094-p2s1Cw12">
 <src.rf>manual</src.rf>
@@ -1248,7 +1248,7 @@
 <LM>w#w-ln95048-094-p3s6w17</LM>
 </w.rf>
 <form>manažer</form>
-<tag lemma="manažer" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="manažer-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-094-p3s6w18">
 <src.rf>manual</src.rf>
@@ -1744,7 +1744,7 @@
 <LM>w#w-ln95048-094-p4s5w14</LM>
 </w.rf>
 <form>delší</form>
-<tag lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">AAFS4----2A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFS4----2A----</tag>
 </m>
 <m id="m-ln95048-094-p4s5w15">
 <src.rf>manual</src.rf>
@@ -2453,7 +2453,7 @@
 <LM>w#w-ln95048-094-p4s10w2</LM>
 </w.rf>
 <form>role</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="role_^(svitek_poslání_pozemek)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95048-094-p4s10w3">
 <src.rf>manual</src.rf>
@@ -2622,7 +2622,7 @@
 <LM>w#w-ln95048-094-p4s11w15</LM>
 </w.rf>
 <form>žluté</form>
-<tag lemma="žlutý" src="orig" selected="1">AAFP4----1A----</tag>
+<tag lemma="žlutý_;o" src="orig" selected="1">AAFP4----1A----</tag>
 </m>
 <m id="m-ln95048-094-p4s11w16">
 <src.rf>manual</src.rf>
@@ -3244,7 +3244,7 @@
 <LM>w#w-ln95048-094-p5s3w12</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XP1FS3-------</tag>
 </m>
 <m id="m-ln95048-094-p5s3w13">
 <src.rf>manual</src.rf>

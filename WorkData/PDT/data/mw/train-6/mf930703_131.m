@@ -385,7 +385,7 @@
 <LM>w#w-mf930703-131-p2s3w9</LM>
 </w.rf>
 <form>tajné</form>
-<tag lemma="tajný" src="orig" selected="1">AAFS2----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-mf930703-131-p2s3w10">
 <src.rf>manual</src.rf>

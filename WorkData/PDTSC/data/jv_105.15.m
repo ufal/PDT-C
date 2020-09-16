@@ -56,7 +56,7 @@
 <form>letech</form>
 <tag>
 <AM lemma="let" src="auto">NNIP6-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP6-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP6-----A----</AM>
 </tag>
 </m>
 <m id="m105-502-504">
@@ -89,7 +89,7 @@
 <AM lemma="mocný_^(mající_moc)" src="auto">AANP1----1N----</AM>
 <AM lemma="mocný_^(mající_moc)" src="auto">AANP4----1N----</AM>
 <AM lemma="mocný_^(mající_moc)" src="auto">AANP5----1N----</AM>
-<AM lemma="nemocná-1_^(pacient)_(*3ý-1)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="nemocná-1_^(*3ý-1)" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="nemocná-1_^(pacient)_(*3ý-1)" src="auto">NNFS5-----A----</AM>
 </tag>
 </m>
@@ -192,7 +192,7 @@
 <form>pyžamko</form>
 <tag>
 <AM lemma="pyžámko" src="auto">NNNS1-----A----</AM>
-<AM lemma="pyžámko" src="auto" recommended="1">NNNS4-----A----</AM>
+<AM lemma="pyžamko_,s_^(^DD**pyžámko)" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="pyžámko" src="auto">NNNS5-----A----</AM>
 </tag>
 </m>
@@ -1682,7 +1682,7 @@
 <AM lemma="co-1" src="auto" recommended="1">PQ--4----------</AM>
 <AM lemma="co-2_^(cože;_ale_co)" src="auto">TT-------------</AM>
 <AM lemma="co-3_^(když:_poté/od_té_doby,_co)" src="auto">J,-------------</AM>
-<AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto" selected="1">P4XXX----------</AM>
+<AM lemma="co-4_^(který:_o_těch,_co_odešli)" src="auto" selected="1">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
 </tag>
@@ -1735,7 +1735,7 @@
 </w.rf>
 <form>nás</form>
 <tag>
-<AM lemma="já" src="auto" recommended="1">PP-P2--1-------</AM>
+<AM lemma="my" src="auto" recommended="1">PP-P2--1-------</AM>
 <AM lemma="já" src="auto">PP-P4--1-------</AM>
 <AM lemma="já" src="auto">PP-P6--1-------</AM>
 </tag>
@@ -1863,7 +1863,7 @@
 <AM lemma="vystavený_^(např._potvrzení)_(*3it)" src="auto">AAMP1----1A---6</AM>
 <AM lemma="vystavený_^(např._potvrzení)_(*3it)" src="auto">AAMP4----1A---6</AM>
 <AM lemma="vystavený_^(např._potvrzení)_(*3it)" src="auto">AAMP5----1A---6</AM>
-<AM lemma="vystavený_^(např._potvrzení)_(*3it)" src="auto" selected="1">AAMS1----1A----</AM>
+<AM lemma="vystavený_^(*3it)" src="auto" selected="1">AAMS1----1A----</AM>
 <AM lemma="vystavený_^(např._potvrzení)_(*3it)" src="auto">AAMS5----1A----</AM>
 <AM lemma="vystavený_^(např._potvrzení)_(*3it)" src="auto">AANP1----1A---6</AM>
 <AM lemma="vystavený_^(např._potvrzení)_(*3it)" src="auto">AANP4----1A---6</AM>
@@ -2056,7 +2056,7 @@
 <tag>
 <AM lemma="vystavený_^(např._potvrzení)_(*3it)" src="auto">AAIS2----1A----</AM>
 <AM lemma="vystavený_^(např._potvrzení)_(*3it)" src="auto">AAMS2----1A----</AM>
-<AM lemma="vystavený_^(např._potvrzení)_(*3it)" src="auto" recommended="1">AAMS4----1A----</AM>
+<AM lemma="vystavený_^(*3it)" src="auto" recommended="1">AAMS4----1A----</AM>
 <AM lemma="vystavený_^(např._potvrzení)_(*3it)" src="auto">AANS2----1A----</AM>
 </tag>
 </m>
@@ -2081,7 +2081,7 @@
 <LM>w#w-d1t3399-8</LM>
 </w.rf>
 <form>nevypadá</form>
-<tag lemma="vypadat" src="auto" recommended="1">VB-S---3P-NAI--</tag>
+<tag lemma="vypadat-1_^(ty_vypadáš)" src="auto" recommended="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m105-d1t3399-9">
 <w.rf>
@@ -2600,7 +2600,7 @@
 </w.rf>
 <form>Děti</form>
 <tag>
-<AM lemma="dítě" src="auto" recommended="1">NNFP1-----A----</AM>
+<AM lemma="dítě-2" src="auto" recommended="1">NNFP1-----A----</AM>
 <AM lemma="dítě" src="auto">NNFP4-----A----</AM>
 <AM lemma="dítě" src="auto">NNFP5-----A----</AM>
 </tag>
@@ -2718,7 +2718,7 @@
 <AM lemma="špatný" src="auto">AANP1----3A----</AM>
 <AM lemma="špatný" src="auto">AANP4----3A----</AM>
 <AM lemma="špatný" src="auto">AANP5----3A----</AM>
-<AM lemma="špatný" src="auto" recommended="1">AANS1----3A----</AM>
+<AM lemma="horší" src="auto" recommended="1">AANS1----3A----</AM>
 <AM lemma="špatný" src="auto">AANS4----3A----</AM>
 <AM lemma="špatný" src="auto">AANS5----3A----</AM>
 </tag>
@@ -3062,7 +3062,7 @@
 <form>vás</form>
 <tag>
 <AM lemma="ty" src="auto">PP-P2--2-------</AM>
-<AM lemma="ty" src="auto" recommended="1">PP-P4--2-------</AM>
+<AM lemma="vy" src="auto" recommended="1">PP-P4--2-------</AM>
 <AM lemma="ty" src="auto">PP-P6--2-------</AM>
 </tag>
 </m>

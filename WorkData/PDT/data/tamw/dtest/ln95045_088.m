@@ -146,7 +146,7 @@
 <LM>w#w-ln95045-088-p2s1Bw4</LM>
 </w.rf>
 <form>orgánu</form>
-<tag lemma="orgán" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95045-088-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -335,7 +335,7 @@
 <LM>w#w-ln95045-088-p2s2w7</LM>
 </w.rf>
 <form>členů</form>
-<tag lemma="člen" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln95045-088-p2s2w8">
 <src.rf>manual</src.rf>
@@ -441,7 +441,7 @@
 <LM>w#w-ln95045-088-p2s3w12</LM>
 </w.rf>
 <form>členové</form>
-<tag lemma="člen" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln95045-088-p2s3w13">
 <src.rf>manual</src.rf>
@@ -449,7 +449,7 @@
 <LM>w#w-ln95045-088-p2s3w13</LM>
 </w.rf>
 <form>orgánu</form>
-<tag lemma="orgán" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95045-088-p2s3w14">
 <src.rf>manual</src.rf>
@@ -513,7 +513,7 @@
 <LM>w#w-ln95045-088-p2s3w21</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-ln95045-088-p2s3w22">
 <src.rf>manual</src.rf>
@@ -553,7 +553,7 @@
 <LM>w#w-ln95045-088-p2s3w26</LM>
 </w.rf>
 <form>výborů</form>
-<tag lemma="výbor" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln95045-088-p2s3w27">
 <src.rf>manual</src.rf>
@@ -611,7 +611,7 @@
 <LM>w#w-ln95045-088-p3s1w6</LM>
 </w.rf>
 <form>členové</form>
-<tag lemma="člen" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln95045-088-p3s1w7">
 <src.rf>manual</src.rf>

@@ -218,7 +218,7 @@
 <LM>w#w-ln95049-087-p2s2w8</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-ln95049-087-p2s2w9">
 <src.rf>manual</src.rf>
@@ -250,7 +250,7 @@
 <LM>w#w-ln95049-087-p2s2w12</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP3----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP3----------</tag>
 </m>
 <m id="m-ln95049-087-p2s2w13">
 <src.rf>manual</src.rf>
@@ -318,7 +318,7 @@
 <AM lemma="matka" src="orig">NNFS3-----A----</AM>
 <AM lemma="matka-1_^(malá_součástka)" src="auto" recommended="1">NNFS3-----A----</AM>
 <AM lemma="matka-1_^(malá_součástka)" src="auto">NNFS6-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto" selected="1">NNFS3-----A----</AM>
+<AM lemma="matka" src="auto" selected="1">NNFS3-----A----</AM>
 <AM lemma="matka-2_^(maminka)" src="auto">NNFS6-----A----</AM>
 </tag>
 </m>
@@ -344,7 +344,7 @@
 <LM>w#w-ln95049-087-p2s2w23</LM>
 </w.rf>
 <form>dni</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS3-----A---1</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS3-----A---1</tag>
 </m>
 <m id="m-ln95049-087-p2s2w24">
 <src.rf>manual</src.rf>

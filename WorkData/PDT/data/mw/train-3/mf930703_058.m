@@ -385,7 +385,7 @@
 <LM>w#w-mf930703-058-p3s1w4</LM>
 </w.rf>
 <form>práva</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNP4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNP4-----A----</tag>
 </m>
 <m id="m-mf930703-058-p3s1w5">
 <src.rf>manual</src.rf>
@@ -433,7 +433,7 @@
 <LM>w#w-mf930703-058-p3s1w10</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-mf930703-058-p3s1w11">
 <src.rf>manual</src.rf>
@@ -709,7 +709,7 @@
 <form>konkurs</form>
 <tag>
 <AM lemma="konkurs_^(úpadek;;soutěž)" src="auto">NNIS1-----A----</AM>
-<AM lemma="konkurs_,s_^(^DD**konkurz)_^(úpadek;;soutěž)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="konkurs_,s_^(^DD**konkurz)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-058-p3s4w13">
@@ -1459,7 +1459,7 @@
 <LM>w#w-mf930703-058-p6s1w2</LM>
 </w.rf>
 <form>váš</form>
-<tag lemma="tvůj_^(přivlast.)" src="orig" selected="1">PSYS1-P2-------</tag>
+<tag lemma="váš" src="orig" selected="1">PSYS1-P2-------</tag>
 </m>
 <m id="m-mf930703-058-p6s1w3">
 <src.rf>manual</src.rf>
@@ -1827,7 +1827,7 @@
 <LM>w#w-mf930703-058-p7s2w14</LM>
 </w.rf>
 <form>dá</form>
-<tag lemma="dát" src="orig" selected="1">VB-S---3P-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-mf930703-058-p7s2w15">
 <src.rf>manual</src.rf>

@@ -27,7 +27,7 @@
 <LM>w#w-vesm9301-007-p1s1w2</LM>
 </w.rf>
 <form>Miroslav</form>
-<tag lemma="Miroslav_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Miroslav-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9301-007-p1s1w3">
 <src.rf>manual</src.rf>
@@ -510,7 +510,7 @@
 <LM>w#w-vesm9301-007-p2s2w9</LM>
 </w.rf>
 <form>Karlovy</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-vesm9301-007-p2s2w10">
 <src.rf>manual</src.rf>
@@ -807,7 +807,7 @@
 <LM>w#w-vesm9301-007-p4s2w11</LM>
 </w.rf>
 <form>Karlovy</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-vesm9301-007-p4s2w12">
 <src.rf>manual</src.rf>
@@ -1325,7 +1325,7 @@
 <LM>w#w-vesm9301-007-p6s1w6</LM>
 </w.rf>
 <form>Černá</form>
-<tag lemma="Černá_;Y_^(*1ý)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Černá_;G_;Y_^(*1ý)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-vesm9301-007-p6s1w7">
 <src.rf>manual</src.rf>
@@ -1804,7 +1804,7 @@
 <LM>w#w-vesm9301-007-p7s2w12</LM>
 </w.rf>
 <form>Karlovy</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-vesm9301-007-p7s2w13">
 <src.rf>manual</src.rf>
@@ -2256,7 +2256,7 @@
 <LM>w#w-vesm9301-007-p7s3w48</LM>
 </w.rf>
 <form>Druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFP1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFP1----------</tag>
 </m>
 <m id="m-vesm9301-007-p7s3w49">
 <src.rf>manual</src.rf>
@@ -2450,7 +2450,7 @@
 <LM>w#w-vesm9301-007-p8s2w9</LM>
 </w.rf>
 <form>Karlovy</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-vesm9301-007-p8s2w10">
 <src.rf>manual</src.rf>

@@ -421,7 +421,7 @@
 <LM>w#w-vesm9212-030-p2s3w18</LM>
 </w.rf>
 <form>Vás</form>
-<tag lemma="ty" src="orig" selected="1">PP-P4--2-------</tag>
+<tag lemma="vy" src="orig" selected="1">PP-P4--2-------</tag>
 </m>
 <m id="m-vesm9212-030-p2s3w19">
 <src.rf>manual</src.rf>

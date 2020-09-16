@@ -550,7 +550,7 @@
 <AM lemma="první" src="auto">CrIS2----------</AM>
 <AM lemma="první" src="auto">CrMS2----------</AM>
 <AM lemma="první" src="auto">CrMS4----------</AM>
-<AM lemma="první" src="auto" recommended="1">CrNS2----------</AM>
+<AM lemma="první-1" src="auto" recommended="1">CrNS2----------</AM>
 </tag>
 </m>
 <m id="m049-d1t905-4">
@@ -599,7 +599,7 @@
 <AM lemma="druhý" src="auto">CrIS2----------</AM>
 <AM lemma="druhý" src="auto">CrMS2----------</AM>
 <AM lemma="druhý" src="auto">CrMS4----------</AM>
-<AM lemma="druhý" src="auto" recommended="1">CrNS2----------</AM>
+<AM lemma="druhý`2" src="auto" recommended="1">CrNS2----------</AM>
 </tag>
 </m>
 <m id="m049-d1t905-22">
@@ -1449,7 +1449,7 @@
 </w.rf>
 <form>druzí</form>
 <tag>
-<AM lemma="druhý" src="auto" recommended="1">CrMP1----------</AM>
+<AM lemma="druhý`2" src="auto" recommended="1">CrMP1----------</AM>
 <AM lemma="druhý" src="auto">CrMP5----------</AM>
 </tag>
 </m>
@@ -1689,7 +1689,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m049-d1t955-3">
@@ -1787,7 +1787,7 @@
 <AM lemma="dobrý" src="auto">AAIS1----3A----</AM>
 <AM lemma="dobrý" src="auto">AAIS4----3A----</AM>
 <AM lemma="dobrý" src="auto">AAIS5----3A----</AM>
-<AM lemma="dobrý" src="auto" recommended="1">AAMP1----3A----</AM>
+<AM lemma="lepší" src="auto" recommended="1">AAMP1----3A----</AM>
 <AM lemma="dobrý" src="auto">AAMP4----3A----</AM>
 <AM lemma="dobrý" src="auto">AAMP5----3A----</AM>
 <AM lemma="dobrý" src="auto">AAMS1----3A----</AM>
@@ -2648,7 +2648,7 @@
 </w.rf>
 <form>zas</form>
 <tag>
-<AM lemma="zas-1" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="zas-1_,s_^(^DD**zase-1)" src="auto" recommended="1">Db-------------</AM>
 <AM lemma="zas-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -2658,7 +2658,7 @@
 </w.rf>
 <form>nám</form>
 <tag>
-<AM lemma="já" src="auto" recommended="1">PP-P3--1-------</AM>
+<AM lemma="my" src="auto" recommended="1">PP-P3--1-------</AM>
 <AM lemma="náměstí_:B" src="auto">NNNXX-----A---8</AM>
 </tag>
 </m>
@@ -3344,7 +3344,7 @@
 <AM lemma="dobrý" src="auto">AAFP6----3A----</AM>
 <AM lemma="dobrý" src="auto">AAIP2----3A----</AM>
 <AM lemma="dobrý" src="auto">AAIP6----3A----</AM>
-<AM lemma="dobrý" src="auto" recommended="1">AAMP2----3A----</AM>
+<AM lemma="lepší" src="auto" recommended="1">AAMP2----3A----</AM>
 <AM lemma="dobrý" src="auto">AAMP6----3A----</AM>
 <AM lemma="dobrý" src="auto">AANP2----3A----</AM>
 <AM lemma="dobrý" src="auto">AANP6----3A----</AM>
@@ -3381,7 +3381,7 @@
 <tag>
 <AM lemma="dobrý" src="auto">AAIS2----2A----</AM>
 <AM lemma="dobrý" src="auto">AAMS2----2A----</AM>
-<AM lemma="dobrý" src="auto" recommended="1">AAMS4----2A----</AM>
+<AM lemma="lepší" src="auto" recommended="1">AAMS4----2A----</AM>
 <AM lemma="dobrý" src="auto">AANS2----2A----</AM>
 </tag>
 </m>
@@ -4054,7 +4054,7 @@
 <AM lemma="dobrý" src="auto">AAIP1----3A----</AM>
 <AM lemma="dobrý" src="auto">AAIP4----3A----</AM>
 <AM lemma="dobrý" src="auto">AAIP5----3A----</AM>
-<AM lemma="dobrý" src="auto" selected="1">AAIS1----3A----</AM>
+<AM lemma="lepší" src="auto" selected="1">AAIS1----3A----</AM>
 <AM lemma="dobrý" src="auto" recommended="1">AAIS4----3A----</AM>
 <AM lemma="dobrý" src="auto">AAIS5----3A----</AM>
 <AM lemma="dobrý" src="auto">AAMP1----3A----</AM>
@@ -4280,7 +4280,7 @@
 <AM lemma="vymakaný-1_^(vyhmatat)_(*4t-1)" src="auto">AANP1----1A---6</AM>
 <AM lemma="vymakaný-1_^(vyhmatat)_(*4t-1)" src="auto">AANP4----1A---6</AM>
 <AM lemma="vymakaný-1_^(vyhmatat)_(*4t-1)" src="auto">AANP5----1A---6</AM>
-<AM lemma="vymakaný-1_^(vyhmatat)_(*4t-1)" src="auto" recommended="1">AANS1----1A----</AM>
+<AM lemma="vymakaný_^(*2t)" src="auto" recommended="1">AANS1----1A----</AM>
 <AM lemma="vymakaný-1_^(vyhmatat)_(*4t-1)" src="auto">AANS4----1A----</AM>
 <AM lemma="vymakaný-1_^(vyhmatat)_(*4t-1)" src="auto">AANS5----1A----</AM>
 <AM lemma="vymakaný-2_,l_^(vydělat_peníze)_(*4t-2)" src="auto">AAFP1----1A----</AM>

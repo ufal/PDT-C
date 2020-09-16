@@ -505,7 +505,7 @@
 <tag>
 <AM lemma="vydávání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*7at-1)" src="orig">NNNS7-----A----</AM>
 <AM lemma="vydávání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="auto">NNNP3-----A----</AM>
-<AM lemma="vydávání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="auto" recommended="1" selected="1">NNNS7-----A----</AM>
+<AM lemma="vydávání_^(*3at)" src="auto" recommended="1" selected="1">NNNS7-----A----</AM>
 <AM lemma="vydávání-2_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)_(*5at-2)" src="auto">NNNP3-----A----</AM>
 <AM lemma="vydávání-2_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)_(*5at-2)" src="auto">NNNS7-----A----</AM>
 <AM lemma="vydávání-3_^(se,_př._na_cestu)_(*5at-3)" src="auto">NNNP3-----A----</AM>
@@ -556,7 +556,7 @@
 <form>sice</form>
 <tag>
 <AM lemma="sice-2" src="auto">Db-------------</AM>
-<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta" src="manual" selected="1">J^-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-ln94205-39-p3s2w3">
@@ -1249,7 +1249,7 @@
 <LM>w#w-ln94205-39-p4s3w7</LM>
 </w.rf>
 <form>průmyslovky</form>
-<tag lemma="průmyslovka" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="průmyslovka_,h" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94205-39-p4s3w8">
 <src.rf>manual</src.rf>

@@ -736,7 +736,7 @@
 <LM>w#w-cmpr9417-009-p7s5w18</LM>
 </w.rf>
 <form>zaměstnáním</form>
-<tag lemma="zaměstnání-1_^(všeob._význam:_činnost,_zaměstnání)_(*5at-1)" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="zaměstnání_^(*3at)" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-cmpr9417-009-p7s5w19">
 <src.rf>manual</src.rf>

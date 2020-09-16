@@ -53,7 +53,7 @@
 <LM>w#w-mf930703-109-p2s1w1</LM>
 </w.rf>
 <form>Karlovy</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUIP1M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUIP1M---------</tag>
 </m>
 <m id="m-mf930703-109-p2s1w2">
 <src.rf>manual</src.rf>
@@ -168,7 +168,7 @@
 <LM>w#w-mf930703-109-p2s2w3</LM>
 </w.rf>
 <form>Karlovy</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUIP1M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUIP1M---------</tag>
 </m>
 <m id="m-mf930703-109-p2s2w4">
 <src.rf>manual</src.rf>
@@ -354,7 +354,7 @@
 <LM>w#w-mf930703-109-p2s3w4</LM>
 </w.rf>
 <form>management</form>
-<tag lemma="management_^(vedení,_manažment;_angl.)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="management_,s_^(^DD**manažment)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930703-109-p2s3w5">
 <src.rf>manual</src.rf>

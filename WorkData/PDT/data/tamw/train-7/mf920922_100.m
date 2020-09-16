@@ -144,7 +144,7 @@
 <LM>w#w-mf920922-100-p1s1Cw5</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-mf920922-100-p1s1Cw6">
 <src.rf>manual</src.rf>
@@ -160,7 +160,7 @@
 <LM>w#w-mf920922-100-p1s1Cw7</LM>
 </w.rf>
 <form>Jihlavané</form>
-<tag lemma="Jihlavan_;E" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="Jihlavan-1_;E" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf920922-100-p1s1Cw8">
 <src.rf>manual</src.rf>
@@ -266,7 +266,7 @@
 <LM>w#w-mf920922-100-p1s2w2</LM>
 </w.rf>
 <form>prvních</form>
-<tag lemma="první" src="orig" selected="1">CrIP2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIP2----------</tag>
 </m>
 <m id="m-mf920922-100-p1s2w3">
 <src.rf>manual</src.rf>
@@ -471,7 +471,7 @@
 <LM>w#w-mf920922-100-p1s3w15</LM>
 </w.rf>
 <form>Příbram</form>
-<tag lemma="Příbram_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Příbram-2_;G" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920922-100-p1s3w16">
 <src.rf>manual</src.rf>
@@ -487,7 +487,7 @@
 <LM>w#w-mf920922-100-p1s3w17</LM>
 </w.rf>
 <form>Philips</form>
-<tag lemma="Philips_;m" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Philips-2_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920922-100-p1s3w18">
 <src.rf>manual</src.rf>

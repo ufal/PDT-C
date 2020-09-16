@@ -327,7 +327,7 @@
 <LM>w#w-ln94210-37-p2s1Bw28</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-ln94210-37-p2s1Bw29">
 <src.rf>manual</src.rf>
@@ -353,7 +353,7 @@
 <LM>w#w-ln94210-37-p2s2w1</LM>
 </w.rf>
 <form>Její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS1FS3-------</tag>
 </m>
 <m id="m-ln94210-37-p2s2w2">
 <src.rf>manual</src.rf>
@@ -425,7 +425,7 @@
 <LM>w#w-ln94210-37-p2s2w10</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP3----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP3----------</tag>
 </m>
 <m id="m-ln94210-37-p2s2w11">
 <src.rf>manual</src.rf>
@@ -681,7 +681,7 @@
 <LM>w#w-ln94210-37-p2s4w18</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-ln94210-37-p2s4w19">
 <src.rf>manual</src.rf>
@@ -869,7 +869,7 @@
 <LM>w#w-ln94210-37-p2s6w7</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XP1FS3-------</tag>
 </m>
 <m id="m-ln94210-37-p2s6w8">
 <src.rf>manual</src.rf>
@@ -1005,7 +1005,7 @@
 <LM>w#w-ln94210-37-p2s7w10</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP6----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP6----------</tag>
 </m>
 <m id="m-ln94210-37-p2s7w11">
 <src.rf>manual</src.rf>
@@ -1125,7 +1125,7 @@
 <LM>w#w-ln94210-37-p2s7w26</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-ln94210-37-p2s7w27">
 <src.rf>manual</src.rf>
@@ -1990,7 +1990,7 @@
 <LM>w#w-ln94210-37-p2s12w16</LM>
 </w.rf>
 <form>odpovědnosti</form>
-<tag lemma="odpovědnost_^(kdo_za_něco_odpovídá)_(*3ý)" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="odpovědnost_^(*3ý)" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-ln94210-37-p2s12w17">
 <src.rf>manual</src.rf>

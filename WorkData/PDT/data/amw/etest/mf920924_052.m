@@ -236,7 +236,7 @@
 <LM>w#w-mf920924-052-p3s1w12</LM>
 </w.rf>
 <form>Taxikáři</form>
-<tag lemma="taxikář" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="taxikář_,s_^(^DD**taxíkář)" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf920924-052-p3s1w13">
 <src.rf>manual</src.rf>
@@ -367,7 +367,7 @@
 <LM>w#w-mf920924-052-p3s1w28</LM>
 </w.rf>
 <form>vás</form>
-<tag lemma="ty" src="orig" selected="1">PP-P2--2-------</tag>
+<tag lemma="vy" src="orig" selected="1">PP-P2--2-------</tag>
 </m>
 <m id="m-mf920924-052-p3s1w29">
 <src.rf>manual</src.rf>
@@ -457,7 +457,7 @@
 <LM>w#w-mf920924-052-p3s2w8</LM>
 </w.rf>
 <form>události</form>
-<tag lemma="událost_,a_^(*3ý)" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="událost" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-mf920924-052-p3s2w9">
 <src.rf>manual</src.rf>
@@ -596,7 +596,7 @@
 <LM>w#w-mf920924-052-p3s3w1</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrIS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS1----------</tag>
 </m>
 <m id="m-mf920924-052-p3s3w2">
 <src.rf>manual</src.rf>
@@ -722,7 +722,7 @@
 <LM>w#w-mf920924-052-p3s3w16</LM>
 </w.rf>
 <form>horším</form>
-<tag lemma="špatný" src="orig" selected="1">AAIS6----2A----</tag>
+<tag lemma="horší" src="orig" selected="1">AAIS6----2A----</tag>
 </m>
 <m id="m-mf920924-052-p3s3w17">
 <src.rf>manual</src.rf>
@@ -971,7 +971,7 @@
 <LM>w#w-mf920924-052-p3s6w1</LM>
 </w.rf>
 <form>Druhý</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS1----------</tag>
 </m>
 <m id="m-mf920924-052-p3s6w2">
 <src.rf>manual</src.rf>
@@ -1218,7 +1218,7 @@
 <LM>w#w-mf920924-052-p3s8w6</LM>
 </w.rf>
 <form>taxikáře</form>
-<tag lemma="taxikář" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="taxikář_,s_^(^DD**taxíkář)" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf920924-052-p3s8w7">
 <src.rf>manual</src.rf>

@@ -2618,7 +2618,7 @@
 <AM lemma="můj_^(přivlast.)" src="auto" recommended="1">PSHS1-P1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSHS5-P1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSIP1-P1-------</AM>
-<AM lemma="můj_^(přivlast.)" src="auto" selected="1">PSNS4-P1-------</AM>
+<AM lemma="náš" src="auto" selected="1">PSNS4-P1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSXP4-P1-------</AM>
 </tag>
 </m>
@@ -3007,7 +3007,7 @@
 </w.rf>
 <form>našich</form>
 <tag>
-<AM lemma="můj_^(přivlast.)" src="auto" recommended="1">PSXP2-P1-------</AM>
+<AM lemma="náš" src="auto" recommended="1">PSXP2-P1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSXP6-P1-------</AM>
 </tag>
 </m>
@@ -3168,7 +3168,7 @@
 <AM lemma="Kell_;Y" src="auto">NNMP7-----A----</AM>
 <AM lemma="Kello_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Kello_;Y" src="auto">NNMP7-----A----</AM>
-<AM lemma="Kelly_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Kelly-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Kelly_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Kelly_;Y" src="auto">NNMXX-----A----</AM>
 <AM lemma="Kelly_;Y" src="auto">NNFXX-----A----</AM>

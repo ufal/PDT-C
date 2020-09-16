@@ -106,7 +106,7 @@
 <form>Albertě</form>
 <tag>
 <AM lemma="Alberta-1_;G" src="auto">NNFS3-----A----</AM>
-<AM lemma="Alberta-1_;G" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="Alberta_;G_;Y_;m" src="auto" recommended="1">NNFS6-----A----</AM>
 <AM lemma="Alberta-2_;Y" src="auto">NNFS3-----A----</AM>
 <AM lemma="Alberta-2_;Y" src="auto">NNFS6-----A----</AM>
 </tag>
@@ -841,7 +841,7 @@
 <form>jejího</form>
 <tag>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSMS4FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9ZS2FS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9ZS2FS3-------</AM>
 </tag>
 </m>
 <m id="m-wsj1674-001-p1s1W33-Ta">

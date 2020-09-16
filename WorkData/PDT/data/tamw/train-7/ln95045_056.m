@@ -385,7 +385,7 @@
 <LM>w#w-ln95045-056-p3s1w6</LM>
 </w.rf>
 <form>politiky</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95045-056-p3s1w7">
 <src.rf>manual</src.rf>
@@ -532,7 +532,7 @@
 <LM>w#w-ln95045-056-p3s1w24</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln95045-056-p3s1w25">
 <src.rf>manual</src.rf>
@@ -646,7 +646,7 @@
 <LM>w#w-ln95045-056-p4s1w3</LM>
 </w.rf>
 <form>zastavení</form>
-<tag lemma="zastavení-1_^([také_z._se];_uvést_do_klidu:_auto,...)_(*5it-1)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="zastavení_^(*3it)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-ln95045-056-p4s1w4">
 <src.rf>manual</src.rf>
@@ -959,7 +959,7 @@
 <LM>w#w-ln95045-056-p5s1w18</LM>
 </w.rf>
 <form>práva</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNP4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNP4-----A----</tag>
 </m>
 <m id="m-ln95045-056-p5s1w19">
 <src.rf>manual</src.rf>
@@ -1726,7 +1726,7 @@
 <LM>w#w-ln95045-056-p7s2w1</LM>
 </w.rf>
 <form>Datum</form>
-<tag lemma="datum_^(kalendářní)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="datum-1_^(kalendářní)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln95045-056-p7s2w2">
 <src.rf>manual</src.rf>

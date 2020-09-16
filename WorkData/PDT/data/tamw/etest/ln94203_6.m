@@ -192,7 +192,7 @@
 </w.rf>
 <form>Panenková</form>
 <tag>
-<AM lemma="Panenková_;Y" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="Panenková-1_;Y_^(*5a-1)" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="panenkový" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="panenkový" src="auto">AAFS5----1A----</AM>
 <AM lemma="panenkový" src="auto">AANP1----1A----</AM>
@@ -302,7 +302,7 @@
 <LM>w#w-ln94203-6-p3s1w19</LM>
 </w.rf>
 <form>jejích</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP6FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XP6FS3-------</tag>
 </m>
 <m id="m-ln94203-6-p3s1w20">
 <src.rf>manual</src.rf>
@@ -648,7 +648,7 @@
 </w.rf>
 <form>Panenkové</form>
 <tag>
-<AM lemma="Panenková_;Y" src="orig" selected="1">NNFS2-----A----</AM>
+<AM lemma="Panenková-1_;Y_^(*5a-1)" src="orig" selected="1">NNFS2-----A----</AM>
 <AM lemma="Panenka-1_;Y" src="auto">NNMP1-----A----</AM>
 <AM lemma="Panenka-1_;Y" src="auto">NNMP5-----A----</AM>
 <AM lemma="panenkový" src="auto">AAFP1----1A----</AM>
@@ -953,7 +953,7 @@
 <LM>w#w-ln94203-6-p4s3w12</LM>
 </w.rf>
 <form>vydané</form>
-<tag lemma="vydaný-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*4t-1)" src="orig" selected="1">AAFP1----1A----</tag>
+<tag lemma="vydaný_^(*2t)" src="orig" selected="1">AAFP1----1A----</tag>
 </m>
 <m id="m-ln94203-6-p4s3w13">
 <src.rf>manual</src.rf>
@@ -1093,7 +1093,7 @@
 </w.rf>
 <form>Panenkové</form>
 <tag>
-<AM lemma="Panenková_;Y" src="orig" selected="1">NNFS2-----A----</AM>
+<AM lemma="Panenková-1_;Y_^(*5a-1)" src="orig" selected="1">NNFS2-----A----</AM>
 <AM lemma="Panenka-1_;Y" src="auto">NNMP1-----A----</AM>
 <AM lemma="Panenka-1_;Y" src="auto">NNMP5-----A----</AM>
 <AM lemma="panenkový" src="auto">AAFP1----1A----</AM>
@@ -1144,7 +1144,7 @@
 <LM>w#w-ln94203-6-p4s3w33</LM>
 </w.rf>
 <form>vydaných</form>
-<tag lemma="vydaný-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*4t-1)" src="orig" selected="1">AAFP2----1A----</tag>
+<tag lemma="vydaný_^(*2t)" src="orig" selected="1">AAFP2----1A----</tag>
 </m>
 <m id="m-ln94203-6-p4s3w34">
 <src.rf>manual</src.rf>
@@ -1202,7 +1202,7 @@
 <LM>w#w-ln94203-6-p5s1w2</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-ln94203-6-p5s1w3">
 <src.rf>manual</src.rf>
@@ -1258,7 +1258,7 @@
 <LM>w#w-ln94203-6-p5s1w9</LM>
 </w.rf>
 <form>právo</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln94203-6-p5s1w10">
 <src.rf>manual</src.rf>
@@ -1320,7 +1320,7 @@
 </w.rf>
 <form>Panenková</form>
 <tag>
-<AM lemma="Panenková_;Y" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="Panenková-1_;Y_^(*5a-1)" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="panenkový" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="panenkový" src="auto">AAFS5----1A----</AM>
 <AM lemma="panenkový" src="auto">AANP1----1A----</AM>
@@ -1582,7 +1582,7 @@
 <LM>w#w-ln94203-6-p5s3w11</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-ln94203-6-p5s3w12">
 <src.rf>manual</src.rf>
@@ -1976,7 +1976,7 @@
 <LM>w#w-ln94203-6-p6s3w16</LM>
 </w.rf>
 <form>jejích</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP2FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XP2FS3-------</tag>
 </m>
 <m id="m-ln94203-6-p6s3w17">
 <src.rf>manual</src.rf>

@@ -37,7 +37,7 @@
 <form>svého</form>
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8MS4----------</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8ZS2----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8ZS2----------</AM>
 </tag>
 </m>
 <m id="m-wsj1772-001-p1s0W4-Ta">
@@ -1004,7 +1004,7 @@
 <form>své</form>
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FP1---------1</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8FP4---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8FP4---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS2---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS3---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS6---------1</AM>
@@ -1027,7 +1027,7 @@
 <form>první</form>
 <tag>
 <AM lemma="první" src="auto">CrFP1----------</AM>
-<AM lemma="první" src="auto" recommended="1">CrFP4----------</AM>
+<AM lemma="první-1" src="auto" recommended="1">CrFP4----------</AM>
 <AM lemma="první" src="auto">CrFP5----------</AM>
 <AM lemma="první" src="auto">CrFS1----------</AM>
 <AM lemma="první" src="auto">CrFS2----------</AM>
@@ -2893,7 +2893,7 @@
 <form>letech</form>
 <tag>
 <AM lemma="let" src="auto">NNIP6-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP6-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1772-001-p1s9W7-Ta">
@@ -3163,7 +3163,7 @@
 <AM lemma="tajná-2_^(*3ý-2)" src="auto">NNFS3-----A----</AM>
 <AM lemma="tajná-2_^(*3ý-2)" src="auto">NNFS6-----A----</AM>
 <AM lemma="tajný" src="auto">AAFP1----1A----</AM>
-<AM lemma="tajný" src="auto" recommended="1">AAFP4----1A----</AM>
+<AM lemma="tajný-1" src="auto" recommended="1">AAFP4----1A----</AM>
 <AM lemma="tajný" src="auto">AAFP5----1A----</AM>
 <AM lemma="tajný" src="auto">AAFS2----1A----</AM>
 <AM lemma="tajný" src="auto">AAFS3----1A----</AM>
@@ -3320,7 +3320,7 @@
 <LM>w#w-wsj1772-001-p1s10W8</LM>
 </w.rf>
 <form>vypadá</form>
-<tag lemma="vypadat" src="auto" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="vypadat-1_^(ty_vypadáš)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-wsj1772-001-p1s10W9-Ta">
 <src.rf>tagger-a</src.rf>

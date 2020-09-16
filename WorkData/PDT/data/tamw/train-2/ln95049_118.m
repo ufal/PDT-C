@@ -159,7 +159,7 @@
 <LM>w#w-ln95049-118-p2s1Bw12</LM>
 </w.rf>
 <form>nejlepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAIS1----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAIS1----3A----</tag>
 </m>
 <m id="m-ln95049-118-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -332,7 +332,7 @@
 <LM>w#w-ln95049-118-p2s2w1</LM>
 </w.rf>
 <form>Nejlepšími</form>
-<tag lemma="dobrý" src="orig" selected="1">AAMP7----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAMP7----3A----</tag>
 </m>
 <m id="m-ln95049-118-p2s2w2">
 <src.rf>manual</src.rf>
@@ -400,7 +400,7 @@
 <LM>w#w-ln95049-118-p2s2w9</LM>
 </w.rf>
 <form>roli</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="role_^(svitek_poslání_pozemek)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95049-118-p2s2w10">
 <src.rf>manual</src.rf>
@@ -803,7 +803,7 @@
 <LM>w#w-ln95049-118-p2s5w4</LM>
 </w.rf>
 <form>nejlepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAIS4----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAIS4----3A----</tag>
 </m>
 <m id="m-ln95049-118-p2s5w5">
 <src.rf>manual</src.rf>
@@ -889,7 +889,7 @@
 <LM>w#w-ln95049-118-p2s5w14</LM>
 </w.rf>
 <form>Jeana</form>
-<tag lemma="Jean_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Jean-1_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95049-118-p2s5w15">
 <src.rf>manual</src.rf>
@@ -1075,7 +1075,7 @@
 <LM>w#w-ln95049-118-p2s6w16</LM>
 </w.rf>
 <form>nejlepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAIS4----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAIS4----3A----</tag>
 </m>
 <m id="m-ln95049-118-p2s6w17">
 <src.rf>manual</src.rf>
@@ -1125,7 +1125,7 @@
 <LM>w#w-ln95049-118-p3s1w1</LM>
 </w.rf>
 <form>Nejlepším</form>
-<tag lemma="dobrý" src="orig" selected="1">AAIS7----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAIS7----3A----</tag>
 </m>
 <m id="m-ln95049-118-p3s1w2">
 <src.rf>manual</src.rf>

@@ -53,7 +53,7 @@
 <form>ČEZ</form>
 <tag>
 <AM lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ČEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČEZ-2_;m_^(České_energetické_závody)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-070-p1s1w6">
@@ -866,7 +866,7 @@
 <LM>w#w-ln95043-070-p5s1w2</LM>
 </w.rf>
 <form>mluvčího</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95043-070-p5s1w3">
 <src.rf>manual</src.rf>
@@ -1174,7 +1174,7 @@
 <AM lemma="Castor-2_;m_^(kontejner)" src="orig">NNIS1-----A----</AM>
 <AM lemma="Castor_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Kastór_;Y_,t_,x" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Castor-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Castor-2_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-070-p5s2w10">
@@ -1387,7 +1387,7 @@
 <LM>w#w-ln95043-070-p6s2w7</LM>
 </w.rf>
 <form>daly</form>
-<tag lemma="dát" src="orig" selected="1">VpTP----R-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln95043-070-p6s2w8">
 <src.rf>manual</src.rf>
@@ -1806,7 +1806,7 @@
 <AM lemma="Castor-2_;m_^(kontejner)" src="orig">NNIS1-----A----</AM>
 <AM lemma="Castor_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Kastór_;Y_,t_,x" src="auto">NNMS1-----A----</AM>
-<AM lemma="Castor-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Castor-2_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-070-p7s1w12">

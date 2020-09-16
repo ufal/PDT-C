@@ -144,7 +144,7 @@
 <LM>w#w-ln95048-042-p2s2w1</LM>
 </w.rf>
 <form>Druhý</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS1----------</tag>
 </m>
 <m id="m-ln95048-042-p2s2w2">
 <src.rf>manual</src.rf>
@@ -264,7 +264,7 @@
 <LM>w#w-ln95048-042-p2s2w16</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln95048-042-p2s2w17">
 <src.rf>manual</src.rf>
@@ -306,7 +306,7 @@
 <LM>w#w-ln95048-042-p2s3w3</LM>
 </w.rf>
 <form>Atlantis</form>
-<tag lemma="Atlantis_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Atlantis-2_;G_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95048-042-p2s3w4">
 <src.rf>manual</src.rf>
@@ -428,7 +428,7 @@
 <LM>w#w-ln95048-042-p3s2w3</LM>
 </w.rf>
 <form>prvních</form>
-<tag lemma="první" src="orig" selected="1">CrMP2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrMP2----------</tag>
 </m>
 <m id="m-ln95048-042-p3s2w4">
 <src.rf>manual</src.rf>
@@ -615,7 +615,7 @@
 <LM>w#w-ln95048-042-p3s3w6</LM>
 </w.rf>
 <form>Marie</form>
-<tag lemma="Marie-1_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Marie_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95048-042-p3s3w7">
 <src.rf>manual</src.rf>
@@ -665,7 +665,7 @@
 <LM>w#w-ln95048-042-p4s1w1</LM>
 </w.rf>
 <form>Leo</form>
-<tag lemma="Leo_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Leo-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-042-p4s1w2">
 <src.rf>manual</src.rf>
@@ -697,7 +697,7 @@
 <LM>w#w-ln95048-042-p4s1w5</LM>
 </w.rf>
 <form>jezdec</form>
-<tag lemma="jezdec" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="jezdec-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-042-p4s1w6">
 <src.rf>manual</src.rf>
@@ -941,7 +941,7 @@
 <AM lemma="Kunovská_;Y" src="auto">NNFP1-----A----</AM>
 <AM lemma="Kunovská_;Y" src="auto">NNFP4-----A----</AM>
 <AM lemma="Kunovská_;Y" src="auto">NNFP5-----A----</AM>
-<AM lemma="Kunovská_;Y" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
+<AM lemma="Kunovská_;Y_^(*1ý)" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
 <AM lemma="Kunovská_;Y" src="auto">NNFS3-----A----</AM>
 <AM lemma="Kunovská_;Y" src="auto">NNFS6-----A----</AM>
 <AM lemma="kunovský" src="auto">AAFP1----1A----</AM>
@@ -973,7 +973,7 @@
 <LM>w#w-ln95048-042-p4s3w6</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrIS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS1----------</tag>
 </m>
 <m id="m-ln95048-042-p4s3w7">
 <src.rf>manual</src.rf>

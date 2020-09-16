@@ -1342,7 +1342,7 @@
 <LM>w#w-ln94211-2-p3s2Aw15</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1XP1FS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XP1FS3-------</tag>
 </m>
 <m id="m-ln94211-2-p3s2Aw16">
 <src.rf>manual</src.rf>

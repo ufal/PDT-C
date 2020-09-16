@@ -82,7 +82,7 @@
 <form>Silvy</form>
 <tag>
 <AM lemma="Silva_;Y" src="orig">NNMS2-----A----</AM>
-<AM lemma="Silva_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Silva-2_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-044-p2s1Aw4">
@@ -224,7 +224,7 @@
 <LM>w#w-ln95043-044-p2s1Bw5</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS3---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS3---------1</tag>
 </m>
 <m id="m-ln95043-044-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -285,7 +285,7 @@
 <form>Silva</form>
 <tag>
 <AM lemma="Silva_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Silva_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Silva-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-044-p2s1Bw13">
@@ -472,7 +472,7 @@
 <LM>w#w-ln95043-044-p2s3w10</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP3----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP3----------</tag>
 </m>
 <m id="m-ln95043-044-p2s3w11">
 <src.rf>manual</src.rf>
@@ -650,7 +650,7 @@
 <LM>w#w-ln95043-044-p3s1w3</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln95043-044-p3s1w4">
 <src.rf>manual</src.rf>
@@ -732,7 +732,7 @@
 <form>Silva</form>
 <tag>
 <AM lemma="Silva_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Silva_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Silva-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-044-p3s1w14">
@@ -1129,7 +1129,7 @@
 <LM>w#w-ln95043-044-p4s2w11</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-ln95043-044-p4s2w12">
 <src.rf>manual</src.rf>
@@ -1145,7 +1145,7 @@
 <LM>w#w-ln95043-044-p4s2w13</LM>
 </w.rf>
 <form>dají</form>
-<tag lemma="dát" src="orig" selected="1">VB-P---3P-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-ln95043-044-p4s2w14">
 <src.rf>manual</src.rf>
@@ -1257,7 +1257,7 @@
 <LM>w#w-ln95043-044-p4s2w26</LM>
 </w.rf>
 <form>členy</form>
-<tag lemma="člen" src="orig" selected="1">NNMP7-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-ln95043-044-p4s2w27">
 <src.rf>manual</src.rf>
@@ -1284,7 +1284,7 @@
 <LM>w#w-ln95043-044-p4s2w29</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln95043-044-p4s2w30">
 <src.rf>manual</src.rf>
@@ -1382,7 +1382,7 @@
 <form>Silva</form>
 <tag>
 <AM lemma="Silva_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Silva_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Silva-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-044-p4s2w42">
@@ -1795,7 +1795,7 @@
 <form>Silva</form>
 <tag>
 <AM lemma="Silva_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Silva_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Silva-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-044-p5s2w16">
@@ -2639,7 +2639,7 @@
 <form>Silvova</form>
 <tag>
 <AM lemma="Silvův_;Y_^(*2a)" src="orig">AUNS2M---------</AM>
-<AM lemma="Silvův_;Y_^(*2a)" src="manual" selected="1">AUNS2M---------</AM>
+<AM lemma="Silvův-2_;Y_^(*4a-2)" src="manual" selected="1">AUNS2M---------</AM>
 </tag>
 </m>
 <m id="m-ln95043-044-p6s2w20">
@@ -2901,7 +2901,7 @@
 <LM>w#w-ln95043-044-p7s1w25</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8MS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8MS4----------</tag>
 </m>
 <m id="m-ln95043-044-p7s1w26">
 <src.rf>manual</src.rf>
@@ -3624,7 +3624,7 @@
 <form>Silvy</form>
 <tag>
 <AM lemma="Silva_;Y" src="orig">NNMS2-----A----</AM>
-<AM lemma="Silva_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Silva-2_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-044-p10s1w4">
@@ -3961,7 +3961,7 @@
 <LM>w#w-ln95043-044-p10s2w12</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln95043-044-p10s2w13">
 <src.rf>manual</src.rf>
@@ -4096,7 +4096,7 @@
 <form>Silva</form>
 <tag>
 <AM lemma="Silva_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Silva_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Silva-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-044-p10s2w29">
@@ -4535,7 +4535,7 @@
 <form>Silvou</form>
 <tag>
 <AM lemma="Silva_;Y" src="orig">NNMS7-----A----</AM>
-<AM lemma="Silva_;Y" src="manual" selected="1">NNMS7-----A----</AM>
+<AM lemma="Silva-2_;Y" src="manual" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-044-p11s1w21">

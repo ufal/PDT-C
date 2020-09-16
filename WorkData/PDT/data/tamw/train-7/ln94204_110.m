@@ -127,7 +127,7 @@
 <LM>w#w-ln94204-110-p2s1Bw9</LM>
 </w.rf>
 <form>dopinku</form>
-<tag lemma="dopink" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="dopink_,s_^(^DD**doping)" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln94204-110-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -167,7 +167,7 @@
 <LM>w#w-ln94204-110-p2s1Bw14</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-ln94204-110-p2s1Bw15">
 <src.rf>manual</src.rf>

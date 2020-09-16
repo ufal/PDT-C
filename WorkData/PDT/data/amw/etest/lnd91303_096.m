@@ -125,7 +125,7 @@
 <LM>w#w-lnd91303-096-p2s1w11</LM>
 </w.rf>
 <form>Slavie</form>
-<tag lemma="Slavia_;m" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Slavie_;m_,s_^(^DD**Slávie)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd91303-096-p2s1w12">
 <src.rf>manual</src.rf>
@@ -569,7 +569,7 @@
 <LM>w#w-lnd91303-096-p2s4w13</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-lnd91303-096-p2s4w14">
 <src.rf>manual</src.rf>
@@ -609,7 +609,7 @@
 <LM>w#w-lnd91303-096-p2s4w18</LM>
 </w.rf>
 <form>sekretář</form>
-<tag lemma="sekretář" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="sekretář-2" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-096-p2s4w19">
 <src.rf>manual</src.rf>
@@ -789,7 +789,7 @@
 <LM>w#w-lnd91303-096-p2s6Aw3</LM>
 </w.rf>
 <form>manažér</form>
-<tag lemma="manažer" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="manažér-1_,s_^(^DD**manažer-1)" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-096-p2s6Aw4">
 <src.rf>manual</src.rf>
@@ -1338,7 +1338,7 @@
 <LM>w#w-lnd91303-096-p2s8w13</LM>
 </w.rf>
 <form>naší</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS6-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS6-P1-------</tag>
 </m>
 <m id="m-lnd91303-096-p2s8w14">
 <src.rf>manual</src.rf>

@@ -898,7 +898,7 @@
 <LM>w#w-cmpr9406-023-p8s5w15</LM>
 </w.rf>
 <form>přijetí</form>
-<tag lemma="přijetí_^(*3mout)" src="auto" selected="1">NNNS6-----A----</tag>
+<tag lemma="přijetí_^(*1)_(*3mout)" src="auto" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-cmpr9406-023-p8s5w16">
 <src.rf>manual</src.rf>
@@ -964,7 +964,7 @@
 <LM>w#w-cmpr9406-023-p8s6w6</LM>
 </w.rf>
 <form>zkrácená</form>
-<tag lemma="zkrácený_,a_^(*2t)" src="auto" selected="1">AAFS1----1A----</tag>
+<tag lemma="zkrácený_^(*4tit)" src="auto" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-cmpr9406-023-p8s6w7">
 <src.rf>manual</src.rf>

@@ -229,7 +229,7 @@
 <LM>w#w-lnd92258-090-p2s1w25</LM>
 </w.rf>
 <form>členem</form>
-<tag lemma="člen" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd92258-090-p2s1w26">
 <src.rf>manual</src.rf>

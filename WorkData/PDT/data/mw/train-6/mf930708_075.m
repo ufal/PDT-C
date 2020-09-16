@@ -258,7 +258,7 @@
 <LM>w#w-mf930708-075-p1s3w4</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf930708-075-p1s3w5">
 <src.rf>manual</src.rf>
@@ -364,7 +364,7 @@
 <LM>w#w-mf930708-075-p1s4w1</LM>
 </w.rf>
 <form>My</form>
-<tag lemma="já" src="orig" selected="1">PP-P1--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P1--1-------</tag>
 </m>
 <m id="m-mf930708-075-p1s4w2">
 <src.rf>manual</src.rf>
@@ -462,7 +462,7 @@
 <LM>w#w-mf930708-075-p1s5w6</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-mf930708-075-p1s5w7">
 <src.rf>manual</src.rf>
@@ -648,7 +648,7 @@
 <LM>w#w-mf930708-075-p1s6w5</LM>
 </w.rf>
 <form>dá</form>
-<tag lemma="dát" src="orig" selected="1">VB-S---3P-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-mf930708-075-p1s6w6">
 <src.rf>manual</src.rf>
@@ -842,7 +842,7 @@
 <LM>w#w-mf930708-075-p1s7w17</LM>
 </w.rf>
 <form>děti</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-mf930708-075-p1s7w18">
 <src.rf>manual</src.rf>

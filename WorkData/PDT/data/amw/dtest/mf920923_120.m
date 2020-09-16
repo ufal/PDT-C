@@ -628,7 +628,7 @@
 <LM>w#w-mf920923-120-p2s3w17</LM>
 </w.rf>
 <form>druhém</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-mf920923-120-p2s3w18">
 <src.rf>manual</src.rf>
@@ -838,7 +838,7 @@
 <LM>w#w-mf920923-120-p2s4w14</LM>
 </w.rf>
 <form>diskuse</form>
-<tag lemma="diskuse" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="diskuse_,s_^(^DD**diskuze)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920923-120-p2s4w15">
 <src.rf>manual</src.rf>
@@ -904,7 +904,7 @@
 <LM>w#w-mf920923-120-p2s5w3</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8NS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8NS4---------1</tag>
 </m>
 <m id="m-mf920923-120-p2s5w4">
 <src.rf>manual</src.rf>
@@ -1673,7 +1673,7 @@
 <LM>w#w-mf920923-120-p4s2w9</LM>
 </w.rf>
 <form>utváření</form>
-<tag lemma="utváření_^(expr._od_'tvářit_se')_(*2t)" src="auto" selected="1">NNNS2-----A----</tag>
+<tag lemma="utváření_^(*2t)" src="auto" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-mf920923-120-p4s2w10">
 <src.rf>manual</src.rf>

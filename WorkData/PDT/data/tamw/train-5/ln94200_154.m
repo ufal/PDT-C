@@ -64,7 +64,7 @@
 <LM>w#w-ln94200-154-p2s1w4</LM>
 </w.rf>
 <form>Catanii</form>
-<tag lemma="Catania_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Catanie_;G" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94200-154-p2s1w5">
 <src.rf>manual</src.rf>
@@ -189,7 +189,7 @@
 <LM>w#w-ln94200-154-p3s1Cw3</LM>
 </w.rf>
 <form>prvního</form>
-<tag lemma="první" src="orig" selected="1">CrIS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS2----------</tag>
 </m>
 <m id="m-ln94200-154-p3s1Cw4">
 <src.rf>manual</src.rf>
@@ -237,7 +237,7 @@
 <LM>w#w-ln94200-154-p3s1Cw9</LM>
 </w.rf>
 <form>vytištěná</form>
-<tag lemma="vytištěný_^(*5sknout)" src="orig" selected="1">AANP1----1A----</tag>
+<tag lemma="vytištěný" src="orig" selected="1">AANP1----1A----</tag>
 </m>
 <m id="m-ln94200-154-p3s1Cw10">
 <src.rf>manual</src.rf>
@@ -452,7 +452,7 @@
 <LM>w#w-ln94200-154-p6s1w15</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrIS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS1----------</tag>
 </m>
 <m id="m-ln94200-154-p6s1w16">
 <src.rf>manual</src.rf>
@@ -1194,7 +1194,7 @@
 </w.rf>
 <form>Jamaica</form>
 <tag>
-<AM lemma="Jamaica_;Y" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="Jamaica_;G_;Y_,s_^(^DD**Jamajka)" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="Jamajka_;G_,t" src="auto" recommended="1">NNFS1-----A---1</AM>
 </tag>
 </m>

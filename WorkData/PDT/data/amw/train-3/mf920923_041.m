@@ -27,7 +27,7 @@
 <LM>w#w-mf920923-041-p1s1Aw2</LM>
 </w.rf>
 <form>Ottawě</form>
-<tag lemma="Ottawa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Ottawa-1_;G" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf920923-041-p1s1Aw3">
 <src.rf>manual</src.rf>
@@ -429,7 +429,7 @@
 <LM>w#w-mf920923-041-p2s2w13</LM>
 </w.rf>
 <form>Ottawě</form>
-<tag lemma="Ottawa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Ottawa-1_;G" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf920923-041-p2s2w14">
 <src.rf>manual</src.rf>
@@ -696,7 +696,7 @@
 <LM>w#w-mf920923-041-p3s1w5</LM>
 </w.rf>
 <form>Ottawě</form>
-<tag lemma="Ottawa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Ottawa-1_;G" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf920923-041-p3s1w6">
 <src.rf>manual</src.rf>
@@ -712,7 +712,7 @@
 <LM>w#w-mf920923-041-p3s1w7</LM>
 </w.rf>
 <form>centr</form>
-<tag lemma="centr_^(sport:_hráč)" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="centr-2_^(sport_hráč)" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-041-p3s1w8">
 <src.rf>manual</src.rf>
@@ -1021,7 +1021,7 @@
 <LM>w#w-mf920923-041-p3s3w4</LM>
 </w.rf>
 <form>Ottawě</form>
-<tag lemma="Ottawa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Ottawa-1_;G" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf920923-041-p3s3w5">
 <src.rf>manual</src.rf>
@@ -1069,7 +1069,7 @@
 <LM>w#w-mf920923-041-p3s3w10</LM>
 </w.rf>
 <form>Hartfordu</form>
-<tag lemma="Hartford_;G" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Hartford_;G_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920923-041-p3s3w11">
 <src.rf>manual</src.rf>
@@ -1271,7 +1271,7 @@
 <LM>w#w-mf920923-041-p4s2w2</LM>
 </w.rf>
 <form>centr</form>
-<tag lemma="centr_^(sport:_hráč)" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="centr-2_^(sport_hráč)" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-041-p4s2w3">
 <src.rf>manual</src.rf>
@@ -1463,7 +1463,7 @@
 <LM>w#w-mf920923-041-p4s2w25</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-mf920923-041-p4s2w26">
 <src.rf>manual</src.rf>

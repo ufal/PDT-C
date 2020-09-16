@@ -113,7 +113,7 @@
 <LM>w#w-lnd92256-116-p3s2w6</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92256-116-p3s2w7">
 <src.rf>manual</src.rf>
@@ -671,7 +671,7 @@
 <LM>w#w-lnd92256-116-p3s4w18</LM>
 </w.rf>
 <form>hnutím</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNP3-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNP3-----A----</tag>
 </m>
 <m id="m-lnd92256-116-p3s4w19">
 <src.rf>manual</src.rf>

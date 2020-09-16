@@ -75,7 +75,7 @@
 <LM>w#w-ln95041-030-p1s1w8</LM>
 </w.rf>
 <form>Philadelphie</form>
-<tag lemma="Philadelphia_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Philadelphie_;G_,s_^(^DD**Filadelfie)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 </s>
 </mdata>

@@ -160,7 +160,7 @@
 <LM>w#w-mf930708-008-p2s1w11</LM>
 </w.rf>
 <form>zpřísněním</form>
-<tag lemma="zpřísnění_^(*3it)" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="zpřísnění_^(*2t)_(*3it)" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-mf930708-008-p2s1w12">
 <src.rf>manual</src.rf>
@@ -532,7 +532,7 @@
 <LM>w#w-mf930708-008-p3s2w4</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="mluvčí-2" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930708-008-p3s2w5">
 <src.rf>manual</src.rf>
@@ -678,7 +678,7 @@
 <LM>w#w-mf930708-008-p3s3w8</LM>
 </w.rf>
 <form>člen</form>
-<tag lemma="člen" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-008-p3s3w9">
 <src.rf>manual</src.rf>

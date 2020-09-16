@@ -111,7 +111,7 @@
 <LM>w#w-ln95044-048-p2s1Bw9</LM>
 </w.rf>
 <form>Schönbergova</form>
-<tag lemma="Schönbergův_;Y_^(*2)" src="orig" selected="1">AUNS2M---------</tag>
+<tag lemma="Schönbergův-1_;Y_^(*4-1)" src="orig" selected="1">AUNS2M---------</tag>
 </m>
 <m id="m-ln95044-048-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -157,7 +157,7 @@
 <LM>w#w-ln95044-048-p2s1Bw14</LM>
 </w.rf>
 <form>Zjasněná</form>
-<tag lemma="zjasněný_^(*3it)" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="zjasněný_^(*2t)_(*3it)" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-ln95044-048-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -311,7 +311,7 @@
 <LM>w#w-ln95044-048-p2s2w17</LM>
 </w.rf>
 <form>členy</form>
-<tag lemma="člen" src="orig" selected="1">NNMP7-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-ln95044-048-p2s2w18">
 <src.rf>manual</src.rf>
@@ -1010,7 +1010,7 @@
 <LM>w#w-ln95044-048-p3s3w16</LM>
 </w.rf>
 <form>vypjaté</form>
-<tag lemma="vypjatý_^(*4nout)" src="auto" selected="1">AANS4----1A----</tag>
+<tag lemma="vypjatý" src="auto" selected="1">AANS4----1A----</tag>
 </m>
 <m id="m-ln95044-048-p3s3w17">
 <src.rf>manual</src.rf>
@@ -1504,7 +1504,7 @@
 <LM>w#w-ln95044-048-p4s2w23</LM>
 </w.rf>
 <form>zpřístupnění</form>
-<tag lemma="zpřístupnění_^(*3it)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="zpřístupnění_^(*2t)_(*3it)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95044-048-p4s2w24">
 <src.rf>manual</src.rf>
@@ -1754,7 +1754,7 @@
 <LM>w#w-ln95044-048-p4s3w27</LM>
 </w.rf>
 <form>léta</form>
-<tag lemma="rok" src="orig" selected="1">NNNP4-----A---2</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP4-----A---2</tag>
 </m>
 <m id="m-ln95044-048-p4s3w28">
 <src.rf>manual</src.rf>
@@ -1796,7 +1796,7 @@
 <LM>w#w-ln95044-048-p4s4w1</LM>
 </w.rf>
 <form>Varhany</form>
-<tag lemma="varhany" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="varhany-1" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-ln95044-048-p4s4w2">
 <src.rf>manual</src.rf>

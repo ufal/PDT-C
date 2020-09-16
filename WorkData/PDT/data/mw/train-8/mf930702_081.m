@@ -47,7 +47,7 @@
 <form>Neale</form>
 <tag>
 <AM lemma="Neale_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Neale_;Y_°Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Neale_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-081-p2s1w4">
@@ -953,7 +953,7 @@
 <LM>w#w-mf930702-081-p4s2w11</LM>
 </w.rf>
 <form>Yorku</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="York-2_;G_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-mf930702-081-p4s2w12">
 <src.rf>manual</src.rf>

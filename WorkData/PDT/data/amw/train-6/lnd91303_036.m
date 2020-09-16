@@ -101,7 +101,7 @@
 <LM>w#w-lnd91303-036-p2s1w9</LM>
 </w.rf>
 <form>vedoucí</form>
-<tag lemma="vedoucí-2" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="vedoucí-3" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd91303-036-p2s1w10">
 <src.rf>manual</src.rf>
@@ -629,7 +629,7 @@
 <LM>w#w-lnd91303-036-p2s4w7</LM>
 </w.rf>
 <form>okénku</form>
-<tag lemma="okénko_,e" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="okénko" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-lnd91303-036-p2s4w8">
 <src.rf>manual</src.rf>

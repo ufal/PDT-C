@@ -115,7 +115,7 @@
 <tag>
 <AM lemma="Stamford_;G" src="auto">NNIS2-----A----</AM>
 <AM lemma="Stamford_;G" src="auto">NNIS3-----A----</AM>
-<AM lemma="Stamford_;G" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="Stamford_;G_;m" src="auto" recommended="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1686-001-p1s0W9-Ta">
@@ -306,7 +306,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1686-001-p1s0W23-Ta">
@@ -1473,7 +1473,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1686-001-p1s4W5-Ta">
@@ -2254,7 +2254,7 @@
 <AM lemma="co-2_^(cože;_ale_co)" src="auto">TT-------------</AM>
 <AM lemma="co-3_^(když:_poté/od_té_doby,_co)" src="auto">J,-------------</AM>
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
-<AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="co-5_^(př._co_nejméně,_co_nevidět_atd.)" src="auto" recommended="1">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
 </tag>
 </m>
@@ -2621,7 +2621,7 @@
 <AM lemma="Stanton_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Stanton_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Stanton_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Stanton-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Stanton-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1686-001-p1s8W7-Ta">
@@ -3393,7 +3393,7 @@
 <AM lemma="soudcův_^(člověk,_který_soudí)_(*2e)" src="auto">AUIS6M--------1</AM>
 <AM lemma="soudcův_^(člověk,_který_soudí)_(*2e)" src="auto">AUMS3M---------</AM>
 <AM lemma="soudcův_^(člověk,_který_soudí)_(*2e)" src="auto">AUMS6M--------1</AM>
-<AM lemma="soudcův_^(člověk,_který_soudí)_(*2e)" src="auto" recommended="1">AUNS3M---------</AM>
+<AM lemma="soudcův_^(*2e)" src="auto" recommended="1">AUNS3M---------</AM>
 <AM lemma="soudcův_^(člověk,_který_soudí)_(*2e)" src="auto">AUNS6M--------1</AM>
 </tag>
 </m>
@@ -3833,7 +3833,7 @@
 </w.rf>
 <form>Stamfordu</form>
 <tag>
-<AM lemma="Stamford_;G" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="Stamford_;G_;m" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="Stamford_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="Stamford_;G" src="auto">NNIS6-----A----</AM>
 </tag>
@@ -4270,7 +4270,7 @@
 </w.rf>
 <form>Stamfordu</form>
 <tag>
-<AM lemma="Stamford_;G" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="Stamford_;G_;m" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="Stamford_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="Stamford_;G" src="auto">NNIS6-----A----</AM>
 </tag>
@@ -4296,7 +4296,7 @@
 </w.rf>
 <form>naší</form>
 <tag>
-<AM lemma="můj_^(přivlast.)" src="auto" recommended="1">PSFS2-P1-------</AM>
+<AM lemma="náš" src="auto" recommended="1">PSFS2-P1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSFS3-P1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSFS4-P1------6</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSFS6-P1-------</AM>

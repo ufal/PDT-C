@@ -543,7 +543,7 @@
 </w.rf>
 <form>svou</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8FS4---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8FS4---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS7---------1</AM>
 </tag>
 </m>
@@ -828,7 +828,7 @@
 </w.rf>
 <form>stanovenou</form>
 <tag>
-<AM lemma="stanovený_^(určit)_(*3it)" src="auto" recommended="1">AAFS4----1A----</AM>
+<AM lemma="stanovený_^(*3it)" src="auto" recommended="1">AAFS4----1A----</AM>
 <AM lemma="stanovený_^(určit)_(*3it)" src="auto">AAFS7----1A----</AM>
 </tag>
 </m>
@@ -1436,7 +1436,7 @@
 <form>faktory</form>
 <tag>
 <AM lemma="faktor" src="auto">NNIP1-----A----</AM>
-<AM lemma="faktor" src="auto" recommended="1">NNIP4-----A----</AM>
+<AM lemma="faktor-1" src="auto" recommended="1">NNIP4-----A----</AM>
 <AM lemma="faktor" src="auto">NNIP5-----A----</AM>
 <AM lemma="faktor" src="auto">NNIP7-----A----</AM>
 <AM lemma="faktor" src="auto">NNMP4-----A----</AM>

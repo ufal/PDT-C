@@ -1372,7 +1372,7 @@
 <LM>w#w-mf930703-023-p2s12w4</LM>
 </w.rf>
 <form>odpovědnosti</form>
-<tag lemma="odpovědnost_^(kdo_za_něco_odpovídá)_(*3ý)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="odpovědnost_^(*3ý)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930703-023-p2s12w5">
 <src.rf>manual</src.rf>
@@ -1802,7 +1802,7 @@
 <LM>w#w-mf930703-023-p3s2w12</LM>
 </w.rf>
 <form>svá</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8NP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8NP4---------1</tag>
 </m>
 <m id="m-mf930703-023-p3s2w13">
 <src.rf>manual</src.rf>
@@ -2503,7 +2503,7 @@
 <LM>w#w-mf930703-023-p4s3w2</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-mf930703-023-p4s3w3">
 <src.rf>manual</src.rf>

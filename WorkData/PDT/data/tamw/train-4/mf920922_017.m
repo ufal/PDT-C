@@ -80,7 +80,7 @@
 <LM>w#w-mf920922-017-p2s1w5</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920922-017-p2s1w6">
 <src.rf>manual</src.rf>
@@ -1324,7 +1324,7 @@
 <LM>w#w-mf920922-017-p2s6w1</LM>
 </w.rf>
 <form>Události</form>
-<tag lemma="událost_,a_^(*3ý)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="událost" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-mf920922-017-p2s6w2">
 <src.rf>manual</src.rf>
@@ -1521,7 +1521,7 @@
 <LM>w#w-mf920922-017-p2s7w13</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XP1FS3-------</tag>
 </m>
 <m id="m-mf920922-017-p2s7w14">
 <src.rf>manual</src.rf>
@@ -1529,7 +1529,7 @@
 <LM>w#w-mf920922-017-p2s7w14</LM>
 </w.rf>
 <form>manažeři</form>
-<tag lemma="manažer" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="manažer-1" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf920922-017-p2s7w15">
 <src.rf>manual</src.rf>
@@ -2504,7 +2504,7 @@
 <LM>w#w-mf920922-017-p2s16w3</LM>
 </w.rf>
 <form>Davida</form>
-<tag lemma="David_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="David-1_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920922-017-p2s16w4">
 <src.rf>manual</src.rf>
@@ -2628,7 +2628,7 @@
 <LM>w#w-mf920922-017-p2s16w17</LM>
 </w.rf>
 <form>lepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AANS1----2A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AANS1----2A----</tag>
 </m>
 <m id="m-mf920922-017-p2s16w18">
 <src.rf>manual</src.rf>

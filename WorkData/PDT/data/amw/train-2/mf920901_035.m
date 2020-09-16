@@ -63,7 +63,7 @@
 <LM>w#w-mf920901-035-p2s2w2</LM>
 </w.rf>
 <form>orgány</form>
-<tag lemma="orgán" src="orig" selected="1">NNIP7-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIP7-----A----</tag>
 </m>
 <m id="m-mf920901-035-p2s2w3">
 <src.rf>manual</src.rf>
@@ -638,7 +638,7 @@
 <form>rada</form>
 <tag>
 <AM lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig">NNFS1-----A----</AM>
-<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu_poradní_sbor)" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-035-p2s6w10">

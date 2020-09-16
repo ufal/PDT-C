@@ -286,7 +286,7 @@
 <LM>w#w-ln95040-033-p2s2w2</LM>
 </w.rf>
 <form>nejlepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAIS4----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAIS4----3A----</tag>
 </m>
 <m id="m-ln95040-033-p2s2w3">
 <src.rf>manual</src.rf>
@@ -409,7 +409,7 @@
 <LM>w#w-ln95040-033-p2s3w2</LM>
 </w.rf>
 <form>druhý</form>
-<tag lemma="druhý" src="orig" selected="1">CrMS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrMS1----------</tag>
 </m>
 <m id="m-ln95040-033-p2s3w3">
 <src.rf>manual</src.rf>
@@ -668,7 +668,7 @@
 <LM>w#w-ln95040-033-p2s5w2</LM>
 </w.rf>
 <form>druhý</form>
-<tag lemma="druhý" src="orig" selected="1">CrMS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrMS1----------</tag>
 </m>
 <m id="m-ln95040-033-p2s5w3">
 <src.rf>manual</src.rf>
@@ -1058,7 +1058,7 @@
 <LM>w#w-ln95040-033-p2s7w14</LM>
 </w.rf>
 <form>nejlepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAIS1----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAIS1----3A----</tag>
 </m>
 <m id="m-ln95040-033-p2s7w15">
 <src.rf>manual</src.rf>

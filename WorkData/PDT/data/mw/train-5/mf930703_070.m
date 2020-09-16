@@ -19,7 +19,7 @@
 <LM>w#w-mf930703-070-p1s1w1</LM>
 </w.rf>
 <form>Taxikáři</form>
-<tag lemma="taxikář" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="taxikář_,s_^(^DD**taxíkář)" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf930703-070-p1s1w2">
 <src.rf>manual</src.rf>
@@ -283,7 +283,7 @@
 <LM>w#w-mf930703-070-p2s4w1</LM>
 </w.rf>
 <form>Taxikáři</form>
-<tag lemma="taxikář" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="taxikář_,s_^(^DD**taxíkář)" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf930703-070-p2s4w2">
 <src.rf>manual</src.rf>
@@ -331,7 +331,7 @@
 <LM>w#w-mf930703-070-p2s4w7</LM>
 </w.rf>
 <form>právu</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-mf930703-070-p2s4w8">
 <src.rf>manual</src.rf>
@@ -405,7 +405,7 @@
 <LM>w#w-mf930703-070-p2s5w8</LM>
 </w.rf>
 <form>utrženými</form>
-<tag lemma="utržený_^(*4hnout)" src="orig" selected="1">AAIP7----1A----</tag>
+<tag lemma="utržený_^(*3it)" src="orig" selected="1">AAIP7----1A----</tag>
 </m>
 <m id="m-mf930703-070-p2s5w9">
 <src.rf>manual</src.rf>
@@ -455,7 +455,7 @@
 <LM>w#w-mf930703-070-p2s6w2</LM>
 </w.rf>
 <form>taxikáři</form>
-<tag lemma="taxikář" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="taxikář_,s_^(^DD**taxíkář)" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf930703-070-p2s6w3">
 <src.rf>manual</src.rf>
@@ -471,7 +471,7 @@
 <LM>w#w-mf930703-070-p2s6w4</LM>
 </w.rf>
 <form>druhým</form>
-<tag lemma="druhý" src="orig" selected="1">CrMP3----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrMP3----------</tag>
 </m>
 <m id="m-mf930703-070-p2s6w5">
 <src.rf>manual</src.rf>
@@ -537,7 +537,7 @@
 <LM>w#w-mf930703-070-p2s7w7</LM>
 </w.rf>
 <form>právo</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-mf930703-070-p2s7w8">
 <src.rf>manual</src.rf>
@@ -896,7 +896,7 @@
 <LM>w#w-mf930703-070-p2s9w28</LM>
 </w.rf>
 <form>taxikářských</form>
-<tag lemma="taxikářský" src="orig" selected="1">AAFP2----1A----</tag>
+<tag lemma="taxikářský_,s_^(^DD**taxíkářský)" src="orig" selected="1">AAFP2----1A----</tag>
 </m>
 <m id="m-mf930703-070-p2s9w29">
 <src.rf>manual</src.rf>
@@ -1193,7 +1193,7 @@
 <LM>w#w-mf930703-070-p2s12w16</LM>
 </w.rf>
 <form>lepším</form>
-<tag lemma="dobrý" src="orig" selected="1">AAIS6----2A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAIS6----2A----</tag>
 </m>
 <m id="m-mf930703-070-p2s12w17">
 <src.rf>manual</src.rf>
@@ -1249,7 +1249,7 @@
 <LM>w#w-mf930703-070-p2s12w23</LM>
 </w.rf>
 <form>horším</form>
-<tag lemma="špatný" src="orig" selected="1">AAIS6----2A----</tag>
+<tag lemma="horší" src="orig" selected="1">AAIS6----2A----</tag>
 </m>
 <m id="m-mf930703-070-p2s12w24">
 <src.rf>manual</src.rf>
@@ -1323,7 +1323,7 @@
 <LM>w#w-mf930703-070-p2s13w1</LM>
 </w.rf>
 <form>Taxikáři</form>
-<tag lemma="taxikář" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="taxikář_,s_^(^DD**taxíkář)" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf930703-070-p2s13w2">
 <src.rf>manual</src.rf>
@@ -1759,7 +1759,7 @@
 <LM>w#w-mf930703-070-p2s16w1</LM>
 </w.rf>
 <form>Taxikáři</form>
-<tag lemma="taxikář" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="taxikář_,s_^(^DD**taxíkář)" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf930703-070-p2s16w2">
 <src.rf>manual</src.rf>
@@ -2231,7 +2231,7 @@
 <LM>w#w-mf930703-070-p2s20w6</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP6----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP6----------</tag>
 </m>
 <m id="m-mf930703-070-p2s20w7">
 <src.rf>manual</src.rf>
@@ -2337,7 +2337,7 @@
 <LM>w#w-mf930703-070-p2s21w11</LM>
 </w.rf>
 <form>taxikáři</form>
-<tag lemma="taxikář" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="taxikář_,s_^(^DD**taxíkář)" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf930703-070-p2s21w12">
 <src.rf>manual</src.rf>
@@ -2427,7 +2427,7 @@
 <LM>w#w-mf930703-070-p2s22w7</LM>
 </w.rf>
 <form>pozdní</form>
-<tag lemma="pozdní-2_^(v_roce,_ročním_období)" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="pozdní" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-mf930703-070-p2s22w8">
 <src.rf>manual</src.rf>

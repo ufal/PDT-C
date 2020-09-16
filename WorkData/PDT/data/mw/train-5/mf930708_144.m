@@ -27,7 +27,7 @@
 <LM>w#w-mf930708-144-p1s1w2</LM>
 </w.rf>
 <form>dál</form>
-<tag lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="dál-3_,s_^(také,_za_další)_(^DD**dále-3)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf930708-144-p1s1w3">
 <src.rf>manual</src.rf>
@@ -128,7 +128,7 @@
 <LM>w#w-mf930708-144-p2s1w8</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930708-144-p2s1w9">
 <src.rf>manual</src.rf>
@@ -839,7 +839,7 @@
 <LM>w#w-mf930708-144-p3s2w26</LM>
 </w.rf>
 <form>třeba</form>
-<tag lemma="třeba-2" src="auto" selected="1">Db-------------</tag>
+<tag lemma="třeba-1" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf930708-144-p3s2w27">
 <src.rf>manual</src.rf>

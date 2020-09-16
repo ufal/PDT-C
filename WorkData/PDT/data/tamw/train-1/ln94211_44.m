@@ -336,7 +336,7 @@
 <LM>w#w-ln94211-44-p2s4w10</LM>
 </w.rf>
 <form>zelené</form>
-<tag lemma="zelený" src="orig" selected="1">AAFP1----1A----</tag>
+<tag lemma="zelený_;o" src="orig" selected="1">AAFP1----1A----</tag>
 </m>
 <m id="m-ln94211-44-p2s4w11">
 <src.rf>manual</src.rf>
@@ -500,7 +500,7 @@
 <LM>w#w-ln94211-44-p2s6w4</LM>
 </w.rf>
 <form>bílá</form>
-<tag lemma="bílý" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="bílý_;o" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-ln94211-44-p2s6w5">
 <src.rf>manual</src.rf>

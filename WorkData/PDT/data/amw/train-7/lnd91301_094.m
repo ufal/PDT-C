@@ -448,7 +448,7 @@
 <LM>w#w-lnd91301-094-p3s2w14</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FXXFS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1FXXFS3-------</tag>
 </m>
 <m id="m-lnd91301-094-p3s2w15">
 <src.rf>manual</src.rf>
@@ -531,7 +531,7 @@
 <LM>w#w-lnd91301-094-p3s2w24</LM>
 </w.rf>
 <form>nejlepších</form>
-<tag lemma="dobrý" src="orig" selected="1">AAMP2----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAMP2----3A----</tag>
 </m>
 <m id="m-lnd91301-094-p3s2w25">
 <src.rf>manual</src.rf>
@@ -611,7 +611,7 @@
 <LM>w#w-lnd91301-094-p3s2w34</LM>
 </w.rf>
 <form>naši</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS4-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS4-P1-------</tag>
 </m>
 <m id="m-lnd91301-094-p3s2w35">
 <src.rf>manual</src.rf>

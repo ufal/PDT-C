@@ -143,7 +143,7 @@
 <LM>w#w-ln94201-114-p2s2w3</LM>
 </w.rf>
 <form>děti</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-ln94201-114-p2s2w4">
 <src.rf>manual</src.rf>
@@ -560,7 +560,7 @@
 <LM>w#w-ln94201-114-p4s1w8</LM>
 </w.rf>
 <form>posuňky</form>
-<tag lemma="posuněk" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="posuněk_,s_^(^DD**posunek)" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-ln94201-114-p4s1w9">
 <src.rf>manual</src.rf>
@@ -594,7 +594,7 @@
 <LM>w#w-ln94201-114-p4s2w1</LM>
 </w.rf>
 <form>Druhá</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS1----------</tag>
 </m>
 <m id="m-ln94201-114-p4s2w2">
 <src.rf>manual</src.rf>
@@ -698,7 +698,7 @@
 <LM>w#w-ln94201-114-p4s2w14</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94201-114-p4s2w15">
 <src.rf>manual</src.rf>
@@ -808,7 +808,7 @@
 <form>Mario</form>
 <tag>
 <AM lemma="Mario_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mario_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Mario_;Y_,s_^(^DD**Mário)" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-114-p5s1w2">

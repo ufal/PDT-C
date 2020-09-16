@@ -51,7 +51,7 @@
 <LM>w#w-lnd92251-072-p1s1w5</LM>
 </w.rf>
 <form>lidem</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP3-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP3-----A----</tag>
 </m>
 <m id="m-lnd92251-072-p1s1w6">
 <src.rf>manual</src.rf>
@@ -91,7 +91,7 @@
 <LM>w#w-lnd92251-072-p1s1w10</LM>
 </w.rf>
 <form>málo</form>
-<tag lemma="málo-3_^(málo_+_příd._jm.,_př._byl_málo_důsledný)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="málo-3_^(málo_důsledný)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd92251-072-p1s1w11">
 <src.rf>manual</src.rf>
@@ -325,7 +325,7 @@
 <LM>w#w-lnd92251-072-p1s2w17</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd92251-072-p1s2w18">
 <src.rf>manual</src.rf>
@@ -684,7 +684,7 @@
 <LM>w#w-lnd92251-072-p1s4w6</LM>
 </w.rf>
 <form>mne</form>
-<tag lemma="já_^(2./4.pád)" src="orig" selected="1">PP-S4--1-------</tag>
+<tag lemma="já" src="orig" selected="1">PP-S4--1-------</tag>
 </m>
 <m id="m-lnd92251-072-p1s4w7">
 <src.rf>manual</src.rf>
@@ -812,7 +812,7 @@
 <LM>w#w-lnd92251-072-p1s4w22</LM>
 </w.rf>
 <form>mé</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFP4-S1------1</tag>
+<tag lemma="můj" src="orig" selected="1">PSFP4-S1------1</tag>
 </m>
 <m id="m-lnd92251-072-p1s4w23">
 <src.rf>manual</src.rf>
@@ -852,7 +852,7 @@
 <LM>w#w-lnd92251-072-p1s4w27</LM>
 </w.rf>
 <form>dal</form>
-<tag lemma="dát" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92251-072-p1s4w28">
 <src.rf>manual</src.rf>
@@ -988,7 +988,7 @@
 <LM>w#w-lnd92251-072-p1s4w44</LM>
 </w.rf>
 <form>řečených</form>
-<tag lemma="řečený_,n_^(*3it)" src="auto" selected="1">AANP6----1A----</tag>
+<tag lemma="řečený_^(*3it)_(*5íci)" src="auto" selected="1">AANP6----1A----</tag>
 </m>
 <m id="m-lnd92251-072-p1s4w45">
 <src.rf>manual</src.rf>
@@ -1012,7 +1012,7 @@
 <LM>w#w-lnd92251-072-p1s4w47</LM>
 </w.rf>
 <form>lety</form>
-<tag lemma="rok" src="orig" selected="1">NNNP7-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP7-----A----</tag>
 </m>
 <m id="m-lnd92251-072-p1s4w48">
 <src.rf>manual</src.rf>

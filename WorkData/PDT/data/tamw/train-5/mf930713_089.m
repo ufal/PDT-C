@@ -981,7 +981,7 @@
 <LM>w#w-mf930713-089-p3s3w6</LM>
 </w.rf>
 <form>pase</form>
-<tag lemma="pas-1_^(př._cestovní)" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="pas-1_^(přihrávka,_př._v_kopané,na_lidském_těle;;cestovní)" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-mf930713-089-p3s3w7">
 <src.rf>manual</src.rf>
@@ -1047,7 +1047,7 @@
 <LM>w#w-mf930713-089-p3s4w1</LM>
 </w.rf>
 <form>Dá</form>
-<tag lemma="dát" src="orig" selected="1">VB-S---3P-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-mf930713-089-p3s4w2">
 <src.rf>manual</src.rf>
@@ -1235,7 +1235,7 @@
 <LM>w#w-mf930713-089-p3s4w24</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf930713-089-p3s4w25">
 <src.rf>manual</src.rf>
@@ -1357,7 +1357,7 @@
 <LM>w#w-mf930713-089-p4s1w8</LM>
 </w.rf>
 <form>dá</form>
-<tag lemma="dát" src="orig" selected="1">VB-S---3P-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-mf930713-089-p4s1w9">
 <src.rf>manual</src.rf>
@@ -1607,7 +1607,7 @@
 <LM>w#w-mf930713-089-p4s3w1</LM>
 </w.rf>
 <form>Dá</form>
-<tag lemma="dát" src="orig" selected="1">VB-S---3P-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-mf930713-089-p4s3w2">
 <src.rf>manual</src.rf>
@@ -1801,7 +1801,7 @@
 <LM>w#w-mf930713-089-p5s1w10</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-mf930713-089-p5s1w11">
 <src.rf>manual</src.rf>

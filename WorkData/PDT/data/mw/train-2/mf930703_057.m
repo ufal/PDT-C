@@ -509,7 +509,7 @@
 <LM>w#w-mf930703-057-p2s3w5</LM>
 </w.rf>
 <form>nejlepšímu</form>
-<tag lemma="dobrý" src="orig" selected="1">AANS3----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AANS3----3A----</tag>
 </m>
 <m id="m-mf930703-057-p2s3w6">
 <src.rf>manual</src.rf>
@@ -615,7 +615,7 @@
 <LM>w#w-mf930703-057-p2s4w9</LM>
 </w.rf>
 <form>představení</form>
-<tag lemma="představení-2_^(divadelní,_filmové_apod.)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="představení-1_^(*5it-1)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf930703-057-p2s4w10">
 <src.rf>manual</src.rf>
@@ -1281,7 +1281,7 @@
 <LM>w#w-mf930703-057-p3s5w2</LM>
 </w.rf>
 <form>jejích</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP2FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XP2FS3-------</tag>
 </m>
 <m id="m-mf930703-057-p3s5w3">
 <src.rf>manual</src.rf>

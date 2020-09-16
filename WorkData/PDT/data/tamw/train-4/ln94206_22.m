@@ -290,7 +290,7 @@
 <LM>w#w-ln94206-22-p2s1Bw24</LM>
 </w.rf>
 <form>lepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAFS7----2A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAFS7----2A----</tag>
 </m>
 <m id="m-ln94206-22-p2s1Bw25">
 <src.rf>manual</src.rf>
@@ -404,7 +404,7 @@
 <LM>w#w-ln94206-22-p2s2w4</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-22-p2s2w5">
 <src.rf>manual</src.rf>

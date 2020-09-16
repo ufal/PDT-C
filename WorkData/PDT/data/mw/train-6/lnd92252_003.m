@@ -555,7 +555,7 @@
 <form>datum</form>
 <tag>
 <AM lemma="datum_,h_,x" src="auto">NNIS1-----A----</AM>
-<AM lemma="datum_^(kalendářní)" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="datum-1_^(kalendářní)" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-003-p1s3w19">
@@ -1258,7 +1258,7 @@
 <LM>w#w-lnd92252-003-p2s1w11</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP2-P1-------</tag>
 </m>
 <m id="m-lnd92252-003-p2s1w12">
 <src.rf>manual</src.rf>
@@ -1309,7 +1309,7 @@
 <LM>w#w-lnd92252-003-p2s1w17</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8NS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8NS4---------1</tag>
 </m>
 <m id="m-lnd92252-003-p2s1w18">
 <src.rf>manual</src.rf>

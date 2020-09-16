@@ -282,7 +282,7 @@
 <AM lemma="Orlando_;G" src="auto">NNNP1-----A----</AM>
 <AM lemma="Orlando_;G" src="auto">NNNP4-----A----</AM>
 <AM lemma="Orlando_;G" src="auto">NNNP5-----A----</AM>
-<AM lemma="Orlando_;G" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="Orlando-1_;G" src="auto" recommended="1">NNNS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1489-001-p1s0W26-Ta">
@@ -1003,7 +1003,7 @@
 <form>pilotů</form>
 <tag>
 <AM lemma="pilot" src="auto">NNIP2-----A----</AM>
-<AM lemma="pilot" src="auto" recommended="1">NNMP2-----A----</AM>
+<AM lemma="pilot-1" src="auto" recommended="1">NNMP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1489-001-p1s3W27-Ta">
@@ -1317,7 +1317,7 @@
 <tag>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP3FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSZS6FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9ZS7FS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9ZS7FS3-------</AM>
 </tag>
 </m>
 <m id="m-wsj1489-001-p1s4W16-Ta">
@@ -1363,7 +1363,7 @@
 <LM>w#w-wsj1489-001-p1s4W20</LM>
 </w.rf>
 <form>Scott</form>
-<tag lemma="Scott_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="Scott-1_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj1489-001-p1s4W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1403,7 +1403,7 @@
 <form>jejího</form>
 <tag>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSMS4FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9ZS2FS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9ZS2FS3-------</AM>
 </tag>
 </m>
 <m id="m-wsj1489-001-p1s4W25-Ta">

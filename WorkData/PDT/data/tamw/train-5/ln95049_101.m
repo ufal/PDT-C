@@ -27,7 +27,7 @@
 <LM>w#w-ln95049-101-p1s1w2</LM>
 </w.rf>
 <form>práva</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNP4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNP4-----A----</tag>
 </m>
 <m id="m-ln95049-101-p1s1w3">
 <src.rf>manual</src.rf>
@@ -250,7 +250,7 @@
 <LM>w#w-ln95049-101-p2s1Bw20</LM>
 </w.rf>
 <form>právo</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln95049-101-p2s1Bw21">
 <src.rf>manual</src.rf>
@@ -527,7 +527,7 @@
 <LM>w#w-ln95049-101-p2s2w9</LM>
 </w.rf>
 <form>management</form>
-<tag lemma="management_^(vedení,_manažment;_angl.)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="management_,s_^(^DD**manažment)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95049-101-p2s2w10">
 <src.rf>manual</src.rf>

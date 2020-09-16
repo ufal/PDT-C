@@ -242,7 +242,7 @@
 <LM>w#w-ln94200-82-p2s1Bw18</LM>
 </w.rf>
 <form>politice</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94200-82-p2s1Bw19">
 <src.rf>manual</src.rf>
@@ -578,7 +578,7 @@
 <LM>w#w-ln94200-82-p3s1w19</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94200-82-p3s1w20">
 <src.rf>manual</src.rf>
@@ -652,7 +652,7 @@
 <LM>w#w-ln94200-82-p3s2w8</LM>
 </w.rf>
 <form>politiky</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94200-82-p3s2w9">
 <src.rf>manual</src.rf>
@@ -921,7 +921,7 @@
 <LM>w#w-ln94200-82-p3s3w16</LM>
 </w.rf>
 <form>dirigismu</form>
-<tag lemma="dirigismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="dirigismus_,s_^(^DD**dirigizmus)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94200-82-p3s3w17">
 <src.rf>manual</src.rf>
@@ -1118,7 +1118,7 @@
 <LM>w#w-ln94200-82-p3s4w18</LM>
 </w.rf>
 <form>odpovědnost</form>
-<tag lemma="odpovědnost_^(kdo_za_něco_odpovídá)_(*3ý)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="odpovědnost_^(*3ý)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94200-82-p3s4w19">
 <src.rf>manual</src.rf>
@@ -1251,7 +1251,7 @@
 <LM>w#w-ln94200-82-p3s5w6</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8NS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8NS4---------1</tag>
 </m>
 <m id="m-ln94200-82-p3s5w7">
 <src.rf>manual</src.rf>
@@ -1283,7 +1283,7 @@
 <LM>w#w-ln94200-82-p3s5w10</LM>
 </w.rf>
 <form>politice</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94200-82-p3s5w11">
 <src.rf>manual</src.rf>
@@ -1451,7 +1451,7 @@
 <LM>w#w-ln94200-82-p4s1w17</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94200-82-p4s1w18">
 <src.rf>manual</src.rf>
@@ -1751,7 +1751,7 @@
 <LM>w#w-ln94200-82-p4s3w7</LM>
 </w.rf>
 <form>správnosti</form>
-<tag lemma="správnost_^(podle_něj._měřítek;_př._chlap,_míra,...)_(*3ý)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="správnost_^(*3ý)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94200-82-p4s3w8">
 <src.rf>manual</src.rf>
@@ -1807,7 +1807,7 @@
 <LM>w#w-ln94200-82-p4s3w14</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln94200-82-p4s3w15">
 <src.rf>manual</src.rf>
@@ -1865,7 +1865,7 @@
 <LM>w#w-ln94200-82-p4s4w5</LM>
 </w.rf>
 <form>resortu</form>
-<tag lemma="resort" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="resort_,s_^(^DD**rezort)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94200-82-p4s4w6">
 <src.rf>manual</src.rf>

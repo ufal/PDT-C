@@ -154,7 +154,7 @@
 <LM>w#w-mf930713-037-p2s1Bw8</LM>
 </w.rf>
 <form>druhou</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS7----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS7----------</tag>
 </m>
 <m id="m-mf930713-037-p2s1Bw9">
 <src.rf>manual</src.rf>

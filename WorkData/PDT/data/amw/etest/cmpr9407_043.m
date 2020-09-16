@@ -380,7 +380,7 @@
 <LM>w#w-cmpr9407-043-p3s2w6</LM>
 </w.rf>
 <form>TAJNÁ</form>
-<tag lemma="tajný" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-cmpr9407-043-p3s2w7">
 <src.rf>manual</src.rf>

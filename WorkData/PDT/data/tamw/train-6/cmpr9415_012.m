@@ -245,7 +245,7 @@
 <LM>w#w-cmpr9415-012-p6s1w1</LM>
 </w.rf>
 <form>Dítě</form>
-<tag lemma="dítě" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="dítě-1" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-012-p6s1w2">
 <src.rf>manual</src.rf>
@@ -306,7 +306,7 @@
 <LM>w#w-cmpr9415-012-p6s1w8</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-cmpr9415-012-p6s1w9">
 <src.rf>manual</src.rf>
@@ -540,7 +540,7 @@
 <LM>w#w-cmpr9415-012-p9s1w13</LM>
 </w.rf>
 <form>Olymp</form>
-<tag lemma="Olymp_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Olymp_;G_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-012-p9s1w14">
 <src.rf>manual</src.rf>
@@ -710,7 +710,7 @@
 <LM>w#w-cmpr9415-012-p9s2w15</LM>
 </w.rf>
 <form>Olymp</form>
-<tag lemma="Olymp_;G" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="Olymp_;G_;m" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-cmpr9415-012-p9s2w16">
 <src.rf>manual</src.rf>

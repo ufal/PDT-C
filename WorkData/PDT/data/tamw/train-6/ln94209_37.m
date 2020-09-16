@@ -527,7 +527,7 @@
 <LM>w#w-ln94209-37-p2s3w11</LM>
 </w.rf>
 <form>nedal</form>
-<tag lemma="dát" src="orig" selected="1">VpYS----R-NAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-ln94209-37-p2s3w12">
 <src.rf>manual</src.rf>
@@ -875,7 +875,7 @@
 <LM>w#w-ln94209-37-p2s5w19</LM>
 </w.rf>
 <form>Miroslav</form>
-<tag lemma="Miroslav_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Miroslav-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-37-p2s5w20">
 <src.rf>manual</src.rf>

@@ -85,7 +85,7 @@
 <LM>w#w-ln94201-14-p2s1w7</LM>
 </w.rf>
 <form>blbost</form>
-<tag lemma="blbost_,h_^(*3ý)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="blbost_^(*3ý)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94201-14-p2s1w8">
 <src.rf>manual</src.rf>
@@ -269,7 +269,7 @@
 <LM>w#w-ln94201-14-p2s1w30</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FP4---------1</tag>
 </m>
 <m id="m-ln94201-14-p2s1w31">
 <src.rf>manual</src.rf>
@@ -366,7 +366,7 @@
 </w.rf>
 <form>Jasoň</form>
 <tag>
-<AM lemma="Jasoň_;m" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Jasoň-2_;m" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="jasoň" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -448,7 +448,7 @@
 <LM>w#w-ln94201-14-p2s1w52</LM>
 </w.rf>
 <form>rada</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94201-14-p2s1w53">
 <src.rf>manual</src.rf>
@@ -509,7 +509,7 @@
 <LM>w#w-ln94201-14-p2s2w5</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrIS7----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS7----------</tag>
 </m>
 <m id="m-ln94201-14-p2s2w6">
 <src.rf>manual</src.rf>
@@ -614,7 +614,7 @@
 </w.rf>
 <form>Jasoně</form>
 <tag>
-<AM lemma="Jasoň_;m" src="orig" selected="1">NNIS2-----A----</AM>
+<AM lemma="Jasoň-2_;m" src="orig" selected="1">NNIS2-----A----</AM>
 <AM lemma="jasoň" src="auto">NNMP4-----A----</AM>
 <AM lemma="jasoň" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="jasoň" src="auto">NNMS4-----A----</AM>

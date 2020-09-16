@@ -223,7 +223,7 @@
 <AM lemma="trailer-77" src="auto">F%-------------</AM>
 <AM lemma="trailer_,s_^(^DD**trajler)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="trailer_,s_^(^DD**trajler)" src="auto">NNIS4-----A----</AM>
-<AM lemma="Trailer-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="trailer-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0199-001-p1s0W19-Ta">
@@ -495,7 +495,7 @@
 <AM lemma="první" src="auto">CrFS3----------</AM>
 <AM lemma="první" src="auto">CrFS4----------</AM>
 <AM lemma="první" src="auto">CrFS5----------</AM>
-<AM lemma="první" src="auto" recommended="1">CrFS6----------</AM>
+<AM lemma="první-1" src="auto" recommended="1">CrFS6----------</AM>
 <AM lemma="první" src="auto">CrFS7----------</AM>
 <AM lemma="první" src="auto">CrIP1----------</AM>
 <AM lemma="první" src="auto">CrIP4----------</AM>

@@ -53,7 +53,7 @@
 <LM>w#w-cmpr9410-048-p3s1w2</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-cmpr9410-048-p3s1w3">
 <src.rf>manual</src.rf>
@@ -298,7 +298,7 @@
 <LM>w#w-cmpr9410-048-p5s2w12</LM>
 </w.rf>
 <form>gigajoul</form>
-<tag lemma="GJ-1`gigajoul_^(Gigajoule)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="gigajoul_^(Gigajoule)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-cmpr9410-048-p5s2w13">
 <src.rf>manual</src.rf>
@@ -1155,7 +1155,7 @@
 <LM>w#w-cmpr9410-048-p9s4w7</LM>
 </w.rf>
 <form>Porubě</form>
-<tag lemma="Poruba_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Poruba-1_;G" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-cmpr9410-048-p9s4w8">
 <src.rf>manual</src.rf>
@@ -2505,7 +2505,7 @@
 <LM>w#w-cmpr9410-048-p12s5w13</LM>
 </w.rf>
 <form>gigajoul</form>
-<tag lemma="GJ-1`gigajoul_^(Gigajoule)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="gigajoul_^(Gigajoule)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-cmpr9410-048-p12s5w14">
 <src.rf>manual</src.rf>
@@ -2915,7 +2915,7 @@
 <LM>w#w-cmpr9410-048-p12s10w12</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8YP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8YP4---------1</tag>
 </m>
 <m id="m-cmpr9410-048-p12s10w13">
 <src.rf>manual</src.rf>
@@ -3005,7 +3005,7 @@
 <LM>w#w-cmpr9410-048-p12s11w5</LM>
 </w.rf>
 <form>nedal</form>
-<tag lemma="dát" src="orig" selected="1">VpYS----R-NAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-cmpr9410-048-p12s11w6">
 <src.rf>manual</src.rf>
@@ -3811,7 +3811,7 @@
 <LM>w#w-cmpr9410-048-p12s18w15</LM>
 </w.rf>
 <form>všespasitelné</form>
-<tag lemma="všespasitelný_,s" src="orig" selected="1">AAFP1----1A----</tag>
+<tag lemma="všespasitelný" src="orig" selected="1">AAFP1----1A----</tag>
 </m>
 <m id="m-cmpr9410-048-p12s18w16">
 <src.rf>manual</src.rf>
@@ -3845,7 +3845,7 @@
 <LM>w#w-cmpr9410-048-p13s1w3</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-4_^(v_knize,_rukopise,...)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-cmpr9410-048-p13s1w4">
 <src.rf>manual</src.rf>
@@ -4003,7 +4003,7 @@
 <LM>w#w-cmpr9410-048-p14s1Cw3</LM>
 </w.rf>
 <form>málo</form>
-<tag lemma="málo-3_^(málo_+_příd._jm.,_př._byl_málo_důsledný)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="málo-3_^(málo_důsledný)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-cmpr9410-048-p14s1Cw4">
 <src.rf>manual</src.rf>

@@ -160,7 +160,7 @@
 <LM>w#w-mf920925-107-p2s2w9</LM>
 </w.rf>
 <form>Yorku</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="York-2_;G_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-mf920925-107-p2s2w10">
 <src.rf>manual</src.rf>
@@ -1446,7 +1446,7 @@
 <LM>w#w-mf920925-107-p4s1w22</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-mf920925-107-p4s1w23">
 <src.rf>manual</src.rf>

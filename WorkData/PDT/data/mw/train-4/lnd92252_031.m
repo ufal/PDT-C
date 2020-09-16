@@ -516,7 +516,7 @@
 <LM>w#w-lnd92252-031-p3s1w4</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-4_^(v_knize,_rukopise,...)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd92252-031-p3s1w5">
 <src.rf>manual</src.rf>

@@ -37,7 +37,7 @@
 <LM>w#w-mf920923-057-p2s1w1</LM>
 </w.rf>
 <form>Druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS4----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS4----------</tag>
 </m>
 <m id="m-mf920923-057-p2s1w2">
 <src.rf>manual</src.rf>
@@ -479,7 +479,7 @@
 <LM>w#w-mf920923-057-p3s2w5</LM>
 </w.rf>
 <form>svoji</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4----------</tag>
 </m>
 <m id="m-mf920923-057-p3s2w6">
 <src.rf>manual</src.rf>
@@ -844,7 +844,7 @@
 <LM>w#w-mf920923-057-p5s1w5</LM>
 </w.rf>
 <form>postižených</form>
-<tag lemma="postižený_^(*4hnout)" src="orig" selected="1">AAMP2----1A----</tag>
+<tag lemma="postižený" src="orig" selected="1">AAMP2----1A----</tag>
 </m>
 <m id="m-mf920923-057-p5s1w6">
 <src.rf>manual</src.rf>
@@ -1022,7 +1022,7 @@
 <LM>w#w-mf920923-057-p6s1w6</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS1----------</tag>
 </m>
 <m id="m-mf920923-057-p6s1w7">
 <src.rf>manual</src.rf>
@@ -1105,7 +1105,7 @@
 <LM>w#w-mf920923-057-p6s1w16</LM>
 </w.rf>
 <form>zlatou</form>
-<tag lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAFS4----1A----</tag>
+<tag lemma="zlatý-1_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-mf920923-057-p6s1w17">
 <src.rf>manual</src.rf>
@@ -1923,7 +1923,7 @@
 <LM>w#w-mf920923-057-p11s1w20</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS7----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS7----------</tag>
 </m>
 <m id="m-mf920923-057-p11s1w21">
 <src.rf>manual</src.rf>

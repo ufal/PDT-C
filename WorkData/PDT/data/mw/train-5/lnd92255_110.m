@@ -519,7 +519,7 @@
 <LM>w#w-lnd92255-110-p3s1w1</LM>
 </w.rf>
 <form>Radiový</form>
-<tag lemma="radiový" src="orig" selected="1">AAIS1----1A----</tag>
+<tag lemma="radiový_,s_^(^DD**rádiový)" src="orig" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-lnd92255-110-p3s1w2">
 <src.rf>manual</src.rf>

@@ -35,7 +35,7 @@
 <LM>w#w-mf920901-113-p1s1w3</LM>
 </w.rf>
 <form>pozornosti</form>
-<tag lemma="pozornost-1_^(všímavý,_milý,_soustředěný)_(*5ý-1)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="pozornost-1_^(*5ý-1)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920901-113-p1s1w4">
 <src.rf>manual</src.rf>
@@ -1152,7 +1152,7 @@
 <LM>w#w-mf920901-113-p4s2w5</LM>
 </w.rf>
 <form>dny</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP7-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP7-----A----</tag>
 </m>
 <m id="m-mf920901-113-p4s2w6">
 <src.rf>manual</src.rf>
@@ -1184,7 +1184,7 @@
 <LM>w#w-mf920901-113-p4s2w9</LM>
 </w.rf>
 <form>málo</form>
-<tag lemma="málo-3_^(málo_+_příd._jm.,_př._byl_málo_důsledný)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="málo-3_^(málo_důsledný)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf920901-113-p4s2w10">
 <src.rf>manual</src.rf>
@@ -1540,7 +1540,7 @@
 <LM>w#w-mf920901-113-p4s4w2</LM>
 </w.rf>
 <form>výbor</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920901-113-p4s4w3">
 <src.rf>manual</src.rf>
@@ -1868,7 +1868,7 @@
 <LM>w#w-mf920901-113-p5s1w19</LM>
 </w.rf>
 <form>Schwerinu</form>
-<tag lemma="Schwerin_;G" src="auto" selected="1">NNIS6-----A---1</tag>
+<tag lemma="Schwerin-1_;G" src="auto" selected="1">NNIS6-----A---1</tag>
 </m>
 <m id="m-mf920901-113-p5s1w20">
 <src.rf>manual</src.rf>

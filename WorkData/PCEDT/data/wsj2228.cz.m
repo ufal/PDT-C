@@ -278,7 +278,7 @@
 <form>datu</form>
 <tag>
 <AM lemma="datum_^(kalendářní)" src="auto">NNNS3-----A----</AM>
-<AM lemma="datum_^(kalendářní)" src="auto" recommended="1">NNNS6-----A----</AM>
+<AM lemma="datum-1_^(kalendářní)" src="auto" recommended="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2228-001-p1s0W20-Ta">
@@ -645,7 +645,7 @@
 <AM lemma="druhý" src="auto">CrFP5----------</AM>
 <AM lemma="druhý" src="auto">CrFS2----------</AM>
 <AM lemma="druhý" src="auto">CrFS3----------</AM>
-<AM lemma="druhý" src="auto" recommended="1">CrFS6----------</AM>
+<AM lemma="druhý`2" src="auto" recommended="1">CrFS6----------</AM>
 <AM lemma="druhý" src="auto">CrIP1----------</AM>
 <AM lemma="druhý" src="auto">CrIP4----------</AM>
 <AM lemma="druhý" src="auto">CrIP5----------</AM>
@@ -1381,7 +1381,7 @@
 <AM lemma="stanovení_^(určit)_(*3it)" src="auto">NNNP2-----A----</AM>
 <AM lemma="stanovení_^(určit)_(*3it)" src="auto">NNNP4-----A----</AM>
 <AM lemma="stanovení_^(určit)_(*3it)" src="auto">NNNP5-----A----</AM>
-<AM lemma="stanovení_^(určit)_(*3it)" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="stanovení_^(*3it)" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="stanovení_^(určit)_(*3it)" src="auto">NNNS2-----A----</AM>
 <AM lemma="stanovení_^(určit)_(*3it)" src="auto">NNNS3-----A----</AM>
 <AM lemma="stanovení_^(určit)_(*3it)" src="auto">NNNS4-----A----</AM>
@@ -1402,7 +1402,7 @@
 <AM lemma="datum_^(kalendářní)" src="auto">NNNP1-----A----</AM>
 <AM lemma="datum_^(kalendářní)" src="auto">NNNP4-----A----</AM>
 <AM lemma="datum_^(kalendářní)" src="auto">NNNP5-----A----</AM>
-<AM lemma="datum_^(kalendářní)" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="datum-1_^(kalendářní)" src="auto" recommended="1">NNNS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2228-001-p1s4W3-Ta">
@@ -1819,7 +1819,7 @@
 <AM lemma="stanovení_^(určit)_(*3it)" src="auto">NNNS1-----A----</AM>
 <AM lemma="stanovení_^(určit)_(*3it)" src="auto">NNNS2-----A----</AM>
 <AM lemma="stanovení_^(určit)_(*3it)" src="auto">NNNS3-----A----</AM>
-<AM lemma="stanovení_^(určit)_(*3it)" src="auto" recommended="1">NNNS4-----A----</AM>
+<AM lemma="stanovení_^(*3it)" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="stanovení_^(určit)_(*3it)" src="auto">NNNS5-----A----</AM>
 <AM lemma="stanovení_^(určit)_(*3it)" src="auto">NNNS6-----A----</AM>
 </tag>
@@ -1837,7 +1837,7 @@
 <AM lemma="datum_^(kalendářní)" src="auto">NNNP1-----A----</AM>
 <AM lemma="datum_^(kalendářní)" src="auto">NNNP4-----A----</AM>
 <AM lemma="datum_^(kalendářní)" src="auto">NNNP5-----A----</AM>
-<AM lemma="datum_^(kalendářní)" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="datum-1_^(kalendářní)" src="auto" recommended="1">NNNS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2228-001-p1s5W9-Ta">
@@ -2284,7 +2284,7 @@
 <form>stanovením</form>
 <tag>
 <AM lemma="stanovení_^(určit)_(*3it)" src="auto">NNNP3-----A----</AM>
-<AM lemma="stanovení_^(určit)_(*3it)" src="auto" recommended="1">NNNS7-----A----</AM>
+<AM lemma="stanovení_^(*3it)" src="auto" recommended="1">NNNS7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2228-001-p1s6W13-Ta">
@@ -2300,7 +2300,7 @@
 <AM lemma="datum_^(kalendářní)" src="auto">NNNP1-----A----</AM>
 <AM lemma="datum_^(kalendářní)" src="auto">NNNP4-----A----</AM>
 <AM lemma="datum_^(kalendářní)" src="auto">NNNP5-----A----</AM>
-<AM lemma="datum_^(kalendářní)" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="datum-1_^(kalendářní)" src="auto" recommended="1">NNNS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2228-001-p1s6W14-Ta">
@@ -2348,7 +2348,7 @@
 </w.rf>
 <form>dal</form>
 <tag>
-<AM lemma="dát" src="auto" recommended="1">VpYS----R-AAP--</AM>
+<AM lemma="dát-1" src="auto" recommended="1">VpYS----R-AAP--</AM>
 <AM lemma="dát-2_^(dá_se_očekávat)" src="auto">VpYS----R-AAI--</AM>
 </tag>
 </m>

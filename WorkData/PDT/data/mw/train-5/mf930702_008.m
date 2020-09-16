@@ -54,7 +54,7 @@
 <AM lemma="postižený_^(*4hnout)" src="auto">AAIP1----1A----</AM>
 <AM lemma="postižený_^(*4hnout)" src="auto">AAIP4----1A----</AM>
 <AM lemma="postižený_^(*4hnout)" src="auto">AAIP5----1A----</AM>
-<AM lemma="postižený_^(*4hnout)" src="auto" recommended="1" selected="1">AAMP4----1A----</AM>
+<AM lemma="postižený" src="auto" recommended="1" selected="1">AAMP4----1A----</AM>
 <AM lemma="postižený_^(*4hnout)" src="auto">AANP1----1A---6</AM>
 <AM lemma="postižený_^(*4hnout)" src="auto">AANP4----1A---6</AM>
 <AM lemma="postižený_^(*4hnout)" src="auto">AANP5----1A---6</AM>
@@ -263,7 +263,7 @@
 <LM>w#w-mf930702-008-p2s1w23</LM>
 </w.rf>
 <form>postižené</form>
-<tag lemma="postižený_^(*4hnout)" src="orig" selected="1">AAFP4----1A----</tag>
+<tag lemma="postižený" src="orig" selected="1">AAFP4----1A----</tag>
 </m>
 </s>
 <s id="m-mf930702-008-p2s2">
@@ -526,7 +526,7 @@
 <LM>w#w-mf930702-008-p2s3w8</LM>
 </w.rf>
 <form>postižených</form>
-<tag lemma="postižený_^(*4hnout)" src="orig" selected="1">AAFP2----1A----</tag>
+<tag lemma="postižený" src="orig" selected="1">AAFP2----1A----</tag>
 </m>
 <m id="m-mf930702-008-p2s3w9">
 <src.rf>manual</src.rf>
@@ -887,7 +887,7 @@
 <LM>w#w-mf930702-008-p3s3w9</LM>
 </w.rf>
 <form>postižených</form>
-<tag lemma="postižený_^(*4hnout)" src="orig" selected="1">AAMP2----1A----</tag>
+<tag lemma="postižený" src="orig" selected="1">AAMP2----1A----</tag>
 </m>
 <m id="m-mf930702-008-p3s3w10">
 <src.rf>manual</src.rf>

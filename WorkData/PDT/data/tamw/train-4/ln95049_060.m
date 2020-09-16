@@ -349,7 +349,7 @@
 <LM>w#w-ln95049-060-p1s2w7</LM>
 </w.rf>
 <form>naší</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS2-P1-------</tag>
 </m>
 <m id="m-ln95049-060-p1s2w8">
 <src.rf>manual</src.rf>
@@ -501,7 +501,7 @@
 <LM>w#w-ln95049-060-p1s2w26</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln95049-060-p1s2w27">
 <src.rf>manual</src.rf>
@@ -623,7 +623,7 @@
 <LM>w#w-ln95049-060-p1s3w6</LM>
 </w.rf>
 <form>vydání</form>
-<tag lemma="vydání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="vydání_^(*3at)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95049-060-p1s3w7">
 <src.rf>manual</src.rf>
@@ -679,7 +679,7 @@
 <LM>w#w-ln95049-060-p1s3w13</LM>
 </w.rf>
 <form>Ottova</form>
-<tag lemma="Ottův_;Y_^(*2a)" src="auto" selected="1">AUIS2M---------</tag>
+<tag lemma="Ottův_;Y_^(*2)_(*2a-1)_(*2o)" src="auto" selected="1">AUIS2M---------</tag>
 </m>
 <m id="m-ln95049-060-p1s3w14">
 <src.rf>manual</src.rf>

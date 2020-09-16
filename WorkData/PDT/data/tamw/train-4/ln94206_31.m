@@ -498,7 +498,7 @@
 <LM>w#w-ln94206-31-p2s3w6</LM>
 </w.rf>
 <form>troubení</form>
-<tag lemma="troubení_^(např._na_trubku)_(*3it)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="troubení_^(*3it)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln94206-31-p2s3w7">
 <src.rf>manual</src.rf>

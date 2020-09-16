@@ -146,7 +146,7 @@
 <LM>w#w-ln95047-119-p2s1Bw10</LM>
 </w.rf>
 <form>zveřejněný</form>
-<tag lemma="zveřejněný_^(*3it)" src="orig" selected="1">AAIS4----1A----</tag>
+<tag lemma="zveřejněný_^(*2t)_(*3it)" src="orig" selected="1">AAIS4----1A----</tag>
 </m>
 <m id="m-ln95047-119-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -324,7 +324,7 @@
 <LM>w#w-ln95047-119-p2s2w2</LM>
 </w.rf>
 <form>prvních</form>
-<tag lemma="první" src="orig" selected="1">CrFP6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFP6----------</tag>
 </m>
 <m id="m-ln95047-119-p2s2w3">
 <src.rf>manual</src.rf>
@@ -502,7 +502,7 @@
 <LM>w#w-ln95047-119-p2s3w4</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-ln95047-119-p2s3w5">
 <src.rf>manual</src.rf>
@@ -582,7 +582,7 @@
 <LM>w#w-ln95047-119-p2s3w14</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8YP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8YP4---------1</tag>
 </m>
 <m id="m-ln95047-119-p2s3w15">
 <src.rf>manual</src.rf>

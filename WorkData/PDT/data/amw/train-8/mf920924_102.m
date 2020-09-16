@@ -43,7 +43,7 @@
 <LM>w#w-mf920924-102-p2s1w4</LM>
 </w.rf>
 <form>Slavie</form>
-<tag lemma="Slavia_;m" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Slavie_;m_,s_^(^DD**Slávie)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920924-102-p2s1w5">
 <src.rf>manual</src.rf>
@@ -99,7 +99,7 @@
 <LM>w#w-mf920924-102-p2s1w11</LM>
 </w.rf>
 <form>vypadalo</form>
-<tag lemma="vypadat" src="orig" selected="1">VpNS----R-AAI--</tag>
+<tag lemma="vypadat-1_^(ty_vypadáš)" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf920924-102-p2s1w12">
 <src.rf>manual</src.rf>

@@ -51,7 +51,7 @@
 <LM>w#w-ln94206-33-p1s1w5</LM>
 </w.rf>
 <form>lahve</form>
-<tag lemma="lahev" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="lahev_,s_^(^DD**láhev)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94206-33-p1s1w6">
 <src.rf>manual</src.rf>
@@ -174,7 +174,7 @@
 <LM>w#w-ln94206-33-p1s1w20</LM>
 </w.rf>
 <form>stojícího</form>
-<tag lemma="stojící-3_^(někdo/něco_stojí,_např._na_nohou)_(*7át-3)" src="orig" selected="1">AGMS4-----A----</tag>
+<tag lemma="stojící-3_^(*7át-3)" src="orig" selected="1">AGMS4-----A----</tag>
 </m>
 <m id="m-ln94206-33-p1s1w21">
 <src.rf>manual</src.rf>
@@ -198,7 +198,7 @@
 <LM>w#w-ln94206-33-p1s1w23</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94206-33-p1s1w24">
 <src.rf>manual</src.rf>
@@ -214,7 +214,7 @@
 <LM>w#w-ln94206-33-p1s1w25</LM>
 </w.rf>
 <form>Sauera</form>
-<tag lemma="Sauer_;Y" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Sauer-1_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94206-33-p1s1w26">
 <src.rf>manual</src.rf>

@@ -437,7 +437,7 @@
 <AM lemma="Karolín_;G" src="auto">NNIS6-----A----</AM>
 <AM lemma="Karolína_;Y" src="auto">NNFS3-----A----</AM>
 <AM lemma="Karolína_;Y" src="auto" recommended="1">NNFS6-----A----</AM>
-<AM lemma="Karolína-2_;G" src="manual" selected="1">NNFS6-----A----</AM>
+<AM lemma="Karolína_;G_;Y" src="manual" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0329-001-p1s0W37-Ta">
@@ -1444,7 +1444,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0329-001-p1s2W10-Ta">
@@ -2110,7 +2110,7 @@
 </w.rf>
 <form>svůj</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8IS4----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8IS4----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8YS1----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8YS5----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOYS-----------</AM>
@@ -2234,7 +2234,7 @@
 <AM lemma="kolaterální_;U" src="auto">AAIP4----1A----</AM>
 <AM lemma="kolaterální_;U" src="auto">AAIP5----1A----</AM>
 <AM lemma="kolaterální_;U" src="auto">AAIS1----1A----</AM>
-<AM lemma="kolaterální_;U" src="auto" selected="1">AAIS4----1A----</AM>
+<AM lemma="kolaterální" src="auto" selected="1">AAIS4----1A----</AM>
 <AM lemma="kolaterální_;U" src="auto">AAIS5----1A----</AM>
 <AM lemma="kolaterální_;U" src="auto">AAMP1----1A----</AM>
 <AM lemma="kolaterální_;U" src="auto">AAMP4----1A----</AM>

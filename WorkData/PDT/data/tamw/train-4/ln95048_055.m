@@ -437,7 +437,7 @@
 <LM>w#w-ln95048-055-p2s2w29</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS4----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS4----------</tag>
 </m>
 <m id="m-ln95048-055-p2s2w30">
 <src.rf>manual</src.rf>

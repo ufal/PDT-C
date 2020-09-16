@@ -574,7 +574,7 @@
 <LM>w#w-ln94207-133-p2s5w6</LM>
 </w.rf>
 <form>pozornost</form>
-<tag lemma="pozornost-1_^(všímavý,_milý,_soustředěný)_(*5ý-1)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="pozornost-1_^(*5ý-1)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94207-133-p2s5w7">
 <src.rf>manual</src.rf>

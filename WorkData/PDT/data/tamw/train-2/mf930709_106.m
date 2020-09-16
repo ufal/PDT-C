@@ -152,7 +152,7 @@
 <LM>w#w-mf930709-106-p2s1Bw3</LM>
 </w.rf>
 <form>letoun</form>
-<tag lemma="letoun" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="letoun-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930709-106-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -283,7 +283,7 @@
 <LM>w#w-mf930709-106-p2s1Bw18</LM>
 </w.rf>
 <form>výzbroji</form>
-<tag lemma="výzbroj" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="výzbroj-1" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf930709-106-p2s1Bw19">
 <src.rf>manual</src.rf>
@@ -792,7 +792,7 @@
 <LM>w#w-mf930709-106-p2s4w10</LM>
 </w.rf>
 <form>letounu</form>
-<tag lemma="letoun" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="letoun-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930709-106-p2s4w11">
 <src.rf>manual</src.rf>
@@ -926,7 +926,7 @@
 <LM>w#w-mf930709-106-p2s5w15</LM>
 </w.rf>
 <form>potřeby</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-mf930709-106-p2s5w16">
 <src.rf>manual</src.rf>
@@ -1578,7 +1578,7 @@
 <LM>w#w-mf930709-106-p2s10w10</LM>
 </w.rf>
 <form>delší</form>
-<tag lemma="dlouhý-1_^(fyz._délka;_př._dlouhá_tyč)" src="orig" selected="1">AAIS4----2A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAIS4----2A----</tag>
 </m>
 <m id="m-mf930709-106-p2s10w11">
 <src.rf>manual</src.rf>

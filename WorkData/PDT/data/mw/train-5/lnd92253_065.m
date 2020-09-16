@@ -51,7 +51,7 @@
 <LM>w#w-lnd92253-065-p1s1w5</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92253-065-p1s1w6">
 <src.rf>manual</src.rf>
@@ -717,7 +717,7 @@
 <LM>w#w-lnd92253-065-p3s2w3</LM>
 </w.rf>
 <form>dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92253-065-p3s2w4">
 <src.rf>manual</src.rf>

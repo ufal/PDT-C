@@ -496,7 +496,7 @@
 <AM lemma="Fiat-2_;m_^(vozidlo)" src="orig">NNIS2-----A----</AM>
 <AM lemma="Fiat_;m" src="auto">NNIS3-----A----</AM>
 <AM lemma="Fiat_;m" src="auto">NNIS6-----A---1</AM>
-<AM lemma="fiat-1_;m" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
+<AM lemma="fiat" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
 <AM lemma="fiat-1_;m" src="auto">NNIS3-----A----</AM>
 <AM lemma="fiat-1_;m" src="auto">NNIS6-----A---1</AM>
 <AM lemma="fiat_^(vozidlo)" src="auto">NNIS3-----A----</AM>
@@ -533,7 +533,7 @@
 <LM>w#w-mf920924-060-p2s3w11</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-mf920924-060-p2s3w12">
 <src.rf>manual</src.rf>
@@ -1165,7 +1165,7 @@
 <LM>w#w-mf920924-060-p2s7w6</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrMP4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrMP4----------</tag>
 </m>
 <m id="m-mf920924-060-p2s7w7">
 <src.rf>manual</src.rf>
@@ -1189,7 +1189,7 @@
 <LM>w#w-mf920924-060-p2s7w9</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS1FS3-------</tag>
 </m>
 <m id="m-mf920924-060-p2s7w10">
 <src.rf>manual</src.rf>
@@ -1401,7 +1401,7 @@
 <LM>w#w-mf920924-060-p2s9w2</LM>
 </w.rf>
 <form>náš</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSIS4-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSIS4-P1-------</tag>
 </m>
 <m id="m-mf920924-060-p2s9w3">
 <src.rf>manual</src.rf>
@@ -1550,7 +1550,7 @@
 <LM>w#w-mf920924-060-p2s9w20</LM>
 </w.rf>
 <form>prvního</form>
-<tag lemma="první" src="orig" selected="1">CrNS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS2----------</tag>
 </m>
 <m id="m-mf920924-060-p2s9w21">
 <src.rf>manual</src.rf>
@@ -1698,7 +1698,7 @@
 <LM>w#w-mf920924-060-p2s11w3</LM>
 </w.rf>
 <form>modely</form>
-<tag lemma="model" src="orig" selected="1">NNIP7-----A----</tag>
+<tag lemma="model-1" src="orig" selected="1">NNIP7-----A----</tag>
 </m>
 <m id="m-mf920924-060-p2s11w4">
 <src.rf>manual</src.rf>
@@ -1708,7 +1708,7 @@
 <form>favoritů</form>
 <tag>
 <AM lemma="Favorit-2_;m_^(vozidlo)" src="orig">NNIP2-----A----</AM>
-<AM lemma="favorit-1_;m" src="auto" recommended="1" selected="1">NNIP2-----A----</AM>
+<AM lemma="favorit-1_^(vozidlo)" src="auto" recommended="1" selected="1">NNIP2-----A----</AM>
 <AM lemma="favorit-2" src="auto">NNMP2-----A----</AM>
 </tag>
 </m>
@@ -2133,7 +2133,7 @@
 <LM>w#w-mf920924-060-p2s14w2</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-mf920924-060-p2s14w3">
 <src.rf>manual</src.rf>

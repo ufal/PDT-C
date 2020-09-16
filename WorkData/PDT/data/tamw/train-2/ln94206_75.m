@@ -59,7 +59,7 @@
 <LM>w#w-ln94206-75-p1s1w6</LM>
 </w.rf>
 <form>Urale</form>
-<tag lemma="Ural_;G" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Ural_;G_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 </s>
 <s id="m-ln94206-75-p2s1A">
@@ -159,7 +159,7 @@
 <LM>w#w-ln94206-75-p2s1Bw10</LM>
 </w.rf>
 <form>Ural</form>
-<tag lemma="Ural_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Ural_;G_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94206-75-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -488,7 +488,7 @@
 <LM>w#w-ln94206-75-p2s4w13</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8YP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8YP4---------1</tag>
 </m>
 <m id="m-ln94206-75-p2s4w14">
 <src.rf>manual</src.rf>
@@ -626,7 +626,7 @@
 <LM>w#w-ln94206-75-p2s5w14</LM>
 </w.rf>
 <form>lidi</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-ln94206-75-p2s5w15">
 <src.rf>manual</src.rf>
@@ -677,7 +677,7 @@
 <LM>w#w-ln94206-75-p2s5w20</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-75-p2s5w21">
 <src.rf>manual</src.rf>

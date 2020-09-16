@@ -433,7 +433,7 @@
 <LM>w#w-ln94210-39-p2s2w29</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94210-39-p2s2w30">
 <src.rf>manual</src.rf>
@@ -893,7 +893,7 @@
 <LM>w#w-ln94210-39-p2s5w16</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94210-39-p2s5w17">
 <src.rf>manual</src.rf>
@@ -973,7 +973,7 @@
 <LM>w#w-ln94210-39-p2s5w26</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94210-39-p2s5w27">
 <src.rf>manual</src.rf>

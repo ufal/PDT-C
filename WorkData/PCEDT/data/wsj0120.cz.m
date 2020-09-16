@@ -314,7 +314,7 @@
 <LM>w#w-wsj0120-001-p1s2W9</LM>
 </w.rf>
 <form>ač</form>
-<tag lemma="ač" src="auto" recommended="1">J,-------------</tag>
+<tag lemma="ač-1" src="auto" recommended="1">J,-------------</tag>
 </m>
 <m id="m-wsj0120-001-p1s2W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1408,7 +1408,7 @@
 </w.rf>
 <form>pozornost</form>
 <tag>
-<AM lemma="pozornost-1_^(všímavý,_milý,_soustředěný)_(*5ý-1)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="pozornost-1_^(*5ý-1)" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="pozornost-1_^(všímavý,_milý,_soustředěný)_(*5ý-1)" src="auto">NNFS4-----A----</AM>
 <AM lemma="pozornost-2_^(dárek,_úplatek)" src="auto">NNFS1-----A----</AM>
 <AM lemma="pozornost-2_^(dárek,_úplatek)" src="auto">NNFS4-----A----</AM>
@@ -1758,7 +1758,7 @@
 <tag>
 <AM lemma="David_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="David_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="David_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="David-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0120-001-p1s6W20-Ta">
@@ -2252,7 +2252,7 @@
 <form>své</form>
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FP1---------1</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8FP4---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8FP4---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS2---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS3---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS6---------1</AM>
@@ -2321,7 +2321,7 @@
 <tag>
 <AM lemma="David_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="David_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="David_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="David-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0120-001-p1s9W14-Ta">
@@ -3282,7 +3282,7 @@
 </w.rf>
 <form>faktorech</form>
 <tag>
-<AM lemma="faktor" src="auto" recommended="1">NNIP6-----A----</AM>
+<AM lemma="faktor-1" src="auto" recommended="1">NNIP6-----A----</AM>
 <AM lemma="faktor" src="auto">NNMP6-----A----</AM>
 </tag>
 </m>
@@ -4654,7 +4654,7 @@
 <AM lemma="Miles_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Miles_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Miles_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Miles-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Miles-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0120-001-p1s20W15-Ta">
@@ -5386,7 +5386,7 @@
 <tag>
 <AM lemma="Joel" src="auto">NNIS1-----A----</AM>
 <AM lemma="Joel" src="auto">NNIS4-----A----</AM>
-<AM lemma="Joel_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Joel-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0120-001-p1s22W46-Ta">
@@ -8186,7 +8186,7 @@
 <AM lemma="program-1" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="program-1" src="auto">NNIS3-----A----</AM>
 <AM lemma="program-1" src="auto">NNIS6-----A----</AM>
-<AM lemma="program" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="program-1" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0120-001-p1s31W40-Ta">
@@ -9005,7 +9005,7 @@
 <AM lemma="York-2_;G" src="auto">NNIS2-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS5-----A----</AM>
-<AM lemma="York-2_;G" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="York-2_;G_;m" src="auto" recommended="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0120-001-p1s35W18-Ta">
@@ -9475,7 +9475,7 @@
 </w.rf>
 <form>starostí</form>
 <tag>
-<AM lemma="starost-2_^(člověk,_věc)_(péče,_neklid)_(*5ý-2)" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="starost-2_^(*5ý-2)" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="starost-2_^(člověk,_věc)_(péče,_neklid)_(*5ý-2)" src="auto">NNFS7-----A----</AM>
 </tag>
 </m>
@@ -12515,7 +12515,7 @@
 <tag>
 <AM lemma="Columbus_;G" src="auto">NNIS2-----A---6</AM>
 <AM lemma="Columbus_;G" src="auto">NNIS3-----A---6</AM>
-<AM lemma="Columbus_;G" src="auto" selected="1">NNIS6-----A---6</AM>
+<AM lemma="Columbus-2_;G_;m" src="auto" selected="1">NNIS6-----A---6</AM>
 <AM lemma="Columbus_;m" src="auto">NNIS2-----A----</AM>
 <AM lemma="Columbus_;m" src="auto">NNIS3-----A----</AM>
 <AM lemma="Columbus_;m" src="auto" recommended="1">NNIS6-----A----</AM>

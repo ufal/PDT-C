@@ -362,7 +362,7 @@
 <LM>w#w-lnd91301-090-p3s3w1</LM>
 </w.rf>
 <form>Jean</form>
-<tag lemma="Jean_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jean-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-090-p3s3w2">
 <src.rf>manual</src.rf>
@@ -433,7 +433,7 @@
 <LM>w#w-lnd91301-090-p3s3w9</LM>
 </w.rf>
 <form>členem</form>
-<tag lemma="člen" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd91301-090-p3s3w10">
 <src.rf>manual</src.rf>

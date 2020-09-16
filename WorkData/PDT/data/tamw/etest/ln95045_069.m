@@ -352,7 +352,7 @@
 <LM>w#w-ln95045-069-p2s1Bw36</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln95045-069-p2s1Bw37">
 <src.rf>manual</src.rf>
@@ -652,7 +652,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-2" src="auto">Db-------------</AM>
-<AM lemma="třeba-3" src="manual" selected="1">TT-------------</AM>
+<AM lemma="třeba-2_^(například)" src="manual" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95045-069-p2s2w20">
@@ -799,7 +799,7 @@
 <LM>w#w-ln95045-069-p2s3w8</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln95045-069-p2s3w9">
 <src.rf>manual</src.rf>
@@ -1402,7 +1402,7 @@
 <LM>w#w-ln95045-069-p3s2w8</LM>
 </w.rf>
 <form>proto</form>
-<tag lemma="proto-2_^(dal_mu_co_proto,_tak_proto!)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="proto-2_^(proto_že)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95045-069-p3s2w9">
 <src.rf>manual</src.rf>
@@ -1734,7 +1734,7 @@
 <LM>w#w-ln95045-069-p4s2w9</LM>
 </w.rf>
 <form>prvních</form>
-<tag lemma="první" src="orig" selected="1">CrFP2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFP2----------</tag>
 </m>
 <m id="m-ln95045-069-p4s2w10">
 <src.rf>manual</src.rf>
@@ -1849,7 +1849,7 @@
 <LM>w#w-ln95045-069-p4s2w23</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95045-069-p4s2w24">
 <src.rf>manual</src.rf>
@@ -1974,7 +1974,7 @@
 <LM>w#w-ln95045-069-p5s1w5</LM>
 </w.rf>
 <form>stojí</form>
-<tag lemma="stát-4_^(něco_stojí_peníze)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95045-069-p5s1w6">
 <src.rf>manual</src.rf>
@@ -2046,7 +2046,7 @@
 <LM>w#w-ln95045-069-p5s2w3</LM>
 </w.rf>
 <form>představitelné</form>
-<tag lemma="představitelný-1_^(si_něco;_něco/někoho_někomu)_(*6-1)" src="orig" selected="1">AANS1----1A----</tag>
+<tag lemma="představitelný-1_^(*6-1)" src="orig" selected="1">AANS1----1A----</tag>
 </m>
 <m id="m-ln95045-069-p5s2w4">
 <src.rf>manual</src.rf>
@@ -2278,7 +2278,7 @@
 <LM>w#w-ln95045-069-p5s3w3</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8YP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8YP4---------1</tag>
 </m>
 <m id="m-ln95045-069-p5s3w4">
 <src.rf>manual</src.rf>

@@ -173,7 +173,7 @@
 <LM>w#w-lnd91303-068-p2s1w17</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP6----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP6----------</tag>
 </m>
 <m id="m-lnd91303-068-p2s1w18">
 <src.rf>manual</src.rf>
@@ -499,7 +499,7 @@
 <LM>w#w-lnd91303-068-p2s4w8</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrMS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrMS1----------</tag>
 </m>
 <m id="m-lnd91303-068-p2s4w9">
 <src.rf>manual</src.rf>
@@ -523,7 +523,7 @@
 <LM>w#w-lnd91303-068-p2s4w11</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrIS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS4----------</tag>
 </m>
 <m id="m-lnd91303-068-p2s4w12">
 <src.rf>manual</src.rf>
@@ -735,7 +735,7 @@
 <LM>w#w-lnd91303-068-p2s6w9</LM>
 </w.rf>
 <form>cesty</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-lnd91303-068-p2s6w10">
 <src.rf>manual</src.rf>
@@ -878,7 +878,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91303-068-p2s8w2">
@@ -903,7 +903,7 @@
 <LM>w#w-lnd91303-068-p2s8w4</LM>
 </w.rf>
 <form>dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd91303-068-p2s8w5">
 <src.rf>manual</src.rf>
@@ -1203,7 +1203,7 @@
 <LM>w#w-lnd91303-068-p2s9w15</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrMS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrMS1----------</tag>
 </m>
 <m id="m-lnd91303-068-p2s9w16">
 <src.rf>manual</src.rf>
@@ -1646,7 +1646,7 @@
 <LM>w#w-lnd91303-068-p3s3w3</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrMP1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrMP1----------</tag>
 </m>
 <m id="m-lnd91303-068-p3s3w4">
 <src.rf>manual</src.rf>

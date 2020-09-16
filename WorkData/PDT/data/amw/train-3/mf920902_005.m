@@ -230,7 +230,7 @@
 <form>Breda</form>
 <tag>
 <AM lemma="Breda_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Breda_;G_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Breda-2_;G_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-005-p1s1Cw19">
@@ -513,7 +513,7 @@
 <LM>w#w-mf920902-005-p1s4w2</LM>
 </w.rf>
 <form>Model</form>
-<tag lemma="model" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="model-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920902-005-p1s4w3">
 <src.rf>manual</src.rf>
@@ -901,7 +901,7 @@
 <LM>w#w-mf920902-005-p1s7w7</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf920902-005-p1s7w8">
 <src.rf>manual</src.rf>
@@ -952,7 +952,7 @@
 <LM>w#w-mf920902-005-p1s7w13</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf920902-005-p1s7w14">
 <src.rf>manual</src.rf>

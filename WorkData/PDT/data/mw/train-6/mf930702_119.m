@@ -208,7 +208,7 @@
 <LM>w#w-mf930702-119-p3s1w14</LM>
 </w.rf>
 <form>Hewlett</form>
-<tag lemma="Hewlett-2_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hewlett_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-119-p3s1w15">
 <src.rf>manual</src.rf>
@@ -829,7 +829,7 @@
 <LM>w#w-mf930702-119-p4s4w16</LM>
 </w.rf>
 <form>Windsor</form>
-<tag lemma="Windsor_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Windsor_;G_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930702-119-p4s4w17">
 <src.rf>manual</src.rf>
@@ -1045,7 +1045,7 @@
 <LM>w#w-mf930702-119-p4s5w24</LM>
 </w.rf>
 <form>Windsoru</form>
-<tag lemma="Windsor_;G" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Windsor_;G_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930702-119-p4s5w25">
 <src.rf>manual</src.rf>
@@ -1138,7 +1138,7 @@
 <LM>w#w-mf930702-119-p5s1w2</LM>
 </w.rf>
 <form>činitelé</form>
-<tag lemma="činitel" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="činitel-1" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf930702-119-p5s1w3">
 <src.rf>manual</src.rf>

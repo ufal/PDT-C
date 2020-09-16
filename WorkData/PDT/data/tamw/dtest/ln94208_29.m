@@ -35,7 +35,7 @@
 <LM>w#w-ln94208-29-p1s1w3</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-ln94208-29-p1s1w4">
 <src.rf>manual</src.rf>
@@ -706,7 +706,7 @@
 <LM>w#w-ln94208-29-p2s6w12</LM>
 </w.rf>
 <form>pozornosti</form>
-<tag lemma="pozornost-1_^(všímavý,_milý,_soustředěný)_(*5ý-1)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="pozornost-1_^(*5ý-1)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94208-29-p2s6w13">
 <src.rf>manual</src.rf>
@@ -828,7 +828,7 @@
 <LM>w#w-ln94208-29-p2s7w14</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-ln94208-29-p2s7w15">
 <src.rf>manual</src.rf>
@@ -892,7 +892,7 @@
 <LM>w#w-ln94208-29-p2s7w22</LM>
 </w.rf>
 <form>představení</form>
-<tag lemma="představení-2_^(divadelní,_filmové_apod.)" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="představení-1_^(*5it-1)" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94208-29-p2s7w23">
 <src.rf>manual</src.rf>

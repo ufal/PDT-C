@@ -189,7 +189,7 @@
 <LM>w#w-mf930708-016-p2s2w4</LM>
 </w.rf>
 <form>členové</form>
-<tag lemma="člen" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf930708-016-p2s2w5">
 <src.rf>manual</src.rf>
@@ -293,7 +293,7 @@
 <LM>w#w-mf930708-016-p2s2w17</LM>
 </w.rf>
 <form>celnici</form>
-<tag lemma="celnice-2_^(místo_výkonu_služby)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="celnice_^(*3ík-1)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf930708-016-p2s2w18">
 <src.rf>manual</src.rf>
@@ -1020,7 +1020,7 @@
 <LM>w#w-mf930708-016-p3s7w6</LM>
 </w.rf>
 <form>rovnosti</form>
-<tag lemma="rovnost_^(přímý,_stejný,_spravedlivý)_(*3ý)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="rovnost_^(*3ý)" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930708-016-p3s7w7">
 <src.rf>manual</src.rf>
@@ -1166,7 +1166,7 @@
 <LM>w#w-mf930708-016-p3s8w12</LM>
 </w.rf>
 <form>ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf930708-016-p3s8w13">
 <src.rf>manual</src.rf>
@@ -1510,7 +1510,7 @@
 <LM>w#w-mf930708-016-p3s10w17</LM>
 </w.rf>
 <form>převážejících</form>
-<tag lemma="převážející_^(něco_někam_např._autem)_(*4t)" src="orig" selected="1">AGMP2-----A----</tag>
+<tag lemma="převážející_^(*4t)" src="orig" selected="1">AGMP2-----A----</tag>
 </m>
 <m id="m-mf930708-016-p3s10w18">
 <src.rf>manual</src.rf>

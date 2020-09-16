@@ -568,7 +568,7 @@
 <LM>w#w-mf920922-101-p2s6w1</LM>
 </w.rf>
 <form>Její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS1FS3-------</tag>
 </m>
 <m id="m-mf920922-101-p2s6w2">
 <src.rf>manual</src.rf>
@@ -804,7 +804,7 @@
 <LM>w#w-mf920922-101-p2s8w7</LM>
 </w.rf>
 <form>opely</form>
-<tag lemma="opel_;m_^(auto)" src="auto" selected="1">NNIP1-----A----</tag>
+<tag lemma="opel_^(auto)" src="auto" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-mf920922-101-p2s8w8">
 <src.rf>manual</src.rf>
@@ -820,7 +820,7 @@
 <LM>w#w-mf920922-101-p2s8w9</LM>
 </w.rf>
 <form>fiaty</form>
-<tag lemma="fiat-1_;m" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="fiat" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-mf920922-101-p2s8w10">
 <src.rf>manual</src.rf>
@@ -838,7 +838,7 @@
 <form>fordy</form>
 <tag>
 <AM lemma="Ford-2_;m_^(vozidlo)" src="orig">NNIP1-----A----</AM>
-<AM lemma="ford_;m" src="auto" recommended="1" selected="1">NNIP1-----A----</AM>
+<AM lemma="ford" src="auto" recommended="1" selected="1">NNIP1-----A----</AM>
 <AM lemma="ford_;m" src="auto">NNIP4-----A----</AM>
 <AM lemma="ford_;m" src="auto">NNIP5-----A----</AM>
 <AM lemma="ford_;m" src="auto">NNIP7-----A----</AM>
@@ -860,7 +860,7 @@
 <form>mercedesy</form>
 <tag>
 <AM lemma="Mercedes-2_;m_^(vozidlo)" src="orig">NNIP1-----A----</AM>
-<AM lemma="mercedes_;m_^(vozidlo)" src="auto" recommended="1" selected="1">NNIP1-----A----</AM>
+<AM lemma="mercedes_^(vozidlo)" src="auto" recommended="1" selected="1">NNIP1-----A----</AM>
 <AM lemma="mercedes_;m_^(vozidlo)" src="auto">NNIP4-----A----</AM>
 <AM lemma="mercedes_;m_^(vozidlo)" src="auto">NNIP5-----A----</AM>
 <AM lemma="mercedes_;m_^(vozidlo)" src="auto">NNIP7-----A----</AM>
@@ -880,7 +880,7 @@
 <LM>w#w-mf920922-101-p2s8w15</LM>
 </w.rf>
 <form>nissany</form>
-<tag lemma="nissan_;m_^(vozidlo)" src="auto" selected="1">NNIP1-----A----</tag>
+<tag lemma="nissan_^(vozidlo)" src="auto" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-mf920922-101-p2s8w16">
 <src.rf>manual</src.rf>
@@ -1026,7 +1026,7 @@
 <LM>w#w-mf920922-101-p2s9w17</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP6----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP6----------</tag>
 </m>
 <m id="m-mf920922-101-p2s9w18">
 <src.rf>manual</src.rf>
@@ -1082,7 +1082,7 @@
 <LM>w#w-mf920922-101-p2s9w24</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-mf920922-101-p2s9w25">
 <src.rf>manual</src.rf>

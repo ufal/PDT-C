@@ -305,7 +305,7 @@
 <LM>w#w-ln94208-121-p2s2w2</LM>
 </w.rf>
 <form>manažer</form>
-<tag lemma="manažer" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="manažer-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-121-p2s2w3">
 <src.rf>manual</src.rf>
@@ -547,7 +547,7 @@
 <LM>w#w-ln94208-121-p2s3w24</LM>
 </w.rf>
 <form>Wimbledonu</form>
-<tag lemma="Wimbledon-1_;G" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Wimbledon" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94208-121-p2s3w25">
 <src.rf>manual</src.rf>

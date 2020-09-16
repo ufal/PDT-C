@@ -197,7 +197,7 @@
 <LM>w#w-cmpr9415-003-p4s1w6</LM>
 </w.rf>
 <form>mne</form>
-<tag lemma="já_^(2./4.pád)" src="orig" selected="1">PP-S4--1-------</tag>
+<tag lemma="já" src="orig" selected="1">PP-S4--1-------</tag>
 </m>
 <m id="m-cmpr9415-003-p4s1w7">
 <src.rf>manual</src.rf>
@@ -295,7 +295,7 @@
 <LM>w#w-cmpr9415-003-p4s2w9</LM>
 </w.rf>
 <form>druhý</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS4----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS4----------</tag>
 </m>
 <m id="m-cmpr9415-003-p4s2w10">
 <src.rf>manual</src.rf>
@@ -617,7 +617,7 @@
 <LM>w#w-cmpr9415-003-p4s4w5</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-cmpr9415-003-p4s4w6">
 <src.rf>manual</src.rf>
@@ -1046,7 +1046,7 @@
 <form>Ottavě</form>
 <tag>
 <AM lemma="Ottawa_;G_,h" src="orig">NNFS6-----A----</AM>
-<AM lemma="Ottava_;G_,s_^(^DD**Ottawa)" src="manual" selected="1">NNFS6-----A----</AM>
+<AM lemma="Ottava_;G_,s_^(^DD**Ottawa-1)" src="manual" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-003-p5s3w10">
@@ -1203,7 +1203,7 @@
 <LM>w#w-cmpr9415-003-p7s1w5</LM>
 </w.rf>
 <form>dlouhá</form>
-<tag lemma="dlouhý-1_^(fyz._délka;_př._dlouhá_tyč)" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-cmpr9415-003-p7s1w6">
 <src.rf>manual</src.rf>
@@ -1363,7 +1363,7 @@
 <LM>w#w-cmpr9415-003-p7s2w12</LM>
 </w.rf>
 <form>letounů</form>
-<tag lemma="letoun" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="letoun-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-cmpr9415-003-p7s2w13">
 <src.rf>manual</src.rf>
@@ -2159,7 +2159,7 @@
 <LM>w#w-cmpr9415-003-p9s1w2</LM>
 </w.rf>
 <form>předané</form>
-<tag lemma="předaný-3_^(někomu_něco)_(*4t-3)" src="orig" selected="1">AAFP1----1A----</tag>
+<tag lemma="předaný_^(*2t)" src="orig" selected="1">AAFP1----1A----</tag>
 </m>
 <m id="m-cmpr9415-003-p9s1w3">
 <src.rf>manual</src.rf>
@@ -2353,7 +2353,7 @@
 <LM>w#w-cmpr9415-003-p9s2w5</LM>
 </w.rf>
 <form>dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-cmpr9415-003-p9s2w6">
 <src.rf>manual</src.rf>
@@ -3029,7 +3029,7 @@
 <LM>w#w-cmpr9415-003-p10s1w22</LM>
 </w.rf>
 <form>druhý</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS4----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS4----------</tag>
 </m>
 <m id="m-cmpr9415-003-p10s1w23">
 <src.rf>manual</src.rf>

@@ -125,7 +125,7 @@
 <LM>w#w-lnd92258-129-p1s2w5</LM>
 </w.rf>
 <form>naše</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSNS4-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSNS4-P1-------</tag>
 </m>
 <m id="m-lnd92258-129-p1s2w6">
 <src.rf>manual</src.rf>

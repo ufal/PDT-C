@@ -751,7 +751,7 @@
 <LM>w#w-mf920924-059-p2s6w8</LM>
 </w.rf>
 <form>černou</form>
-<tag lemma="černý" src="auto" selected="1">AAFS4----1A----</tag>
+<tag lemma="černý_;o" src="auto" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-mf920924-059-p2s6w9">
 <src.rf>manual</src.rf>
@@ -1043,7 +1043,7 @@
 <LM>w#w-mf920924-059-p2s8w14</LM>
 </w.rf>
 <form>prostředky</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP7-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP7-----A----</tag>
 </m>
 <m id="m-mf920924-059-p2s8w15">
 <src.rf>manual</src.rf>

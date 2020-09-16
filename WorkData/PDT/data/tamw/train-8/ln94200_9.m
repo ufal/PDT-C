@@ -249,7 +249,7 @@
 <LM>w#w-ln94200-9-p2s1w26</LM>
 </w.rf>
 <form>hnutí</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94200-9-p2s1w27">
 <src.rf>manual</src.rf>
@@ -323,7 +323,7 @@
 <LM>w#w-ln94200-9-p2s2w1</LM>
 </w.rf>
 <form>Černobílý</form>
-<tag lemma="černobílý" src="orig" selected="1">AAIS1----1A----</tag>
+<tag lemma="černobílý_;o" src="orig" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-ln94200-9-p2s2w2">
 <src.rf>manual</src.rf>
@@ -478,7 +478,7 @@
 <LM>w#w-ln94200-9-p2s2w20</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-ln94200-9-p2s2w21">
 <src.rf>manual</src.rf>

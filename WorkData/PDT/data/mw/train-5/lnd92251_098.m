@@ -779,7 +779,7 @@
 <LM>w#w-lnd92251-098-p3s5w11</LM>
 </w.rf>
 <form>postižených</form>
-<tag lemma="postižený_^(*4hnout)" src="orig" selected="1">AAIP6----1A----</tag>
+<tag lemma="postižený" src="orig" selected="1">AAIP6----1A----</tag>
 </m>
 <m id="m-lnd92251-098-p3s5w12">
 <src.rf>manual</src.rf>

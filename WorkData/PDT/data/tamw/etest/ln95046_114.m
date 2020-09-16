@@ -143,7 +143,7 @@
 <LM>w#w-ln95046-114-p2s2w4</LM>
 </w.rf>
 <form>černého</form>
-<tag lemma="černý" src="auto" selected="1">AANS2----1A----</tag>
+<tag lemma="černý_;o" src="auto" selected="1">AANS2----1A----</tag>
 </m>
 <m id="m-ln95046-114-p2s2w5">
 <src.rf>manual</src.rf>

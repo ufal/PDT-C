@@ -174,7 +174,7 @@
 <LM>w#w-lnd91303-010-p5s1w11</LM>
 </w.rf>
 <form>činitelé</form>
-<tag lemma="činitel" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="činitel-1" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd91303-010-p5s1w12">
 <src.rf>manual</src.rf>
@@ -246,7 +246,7 @@
 <LM>w#w-lnd91303-010-p5s1w19</LM>
 </w.rf>
 <form>tajný</form>
-<tag lemma="tajný" src="orig" selected="1">AAIS4----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AAIS4----1A----</tag>
 </m>
 <m id="m-lnd91303-010-p5s1w20">
 <src.rf>manual</src.rf>
@@ -1129,7 +1129,7 @@
 <LM>w#w-lnd91303-010-p5s6w7</LM>
 </w.rf>
 <form>tajný</form>
-<tag lemma="tajný" src="orig" selected="1">AAIS1----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-lnd91303-010-p5s6w8">
 <src.rf>manual</src.rf>
@@ -1400,7 +1400,7 @@
 <LM>w#w-lnd91303-010-p5s7w20</LM>
 </w.rf>
 <form>ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-lnd91303-010-p5s7w21">
 <src.rf>manual</src.rf>
@@ -1498,7 +1498,7 @@
 <LM>w#w-lnd91303-010-p5s8w6</LM>
 </w.rf>
 <form>černém</form>
-<tag lemma="černý" src="auto" selected="1">AAIS6----1A----</tag>
+<tag lemma="černý_;o" src="auto" selected="1">AAIS6----1A----</tag>
 </m>
 <m id="m-lnd91303-010-p5s8w7">
 <src.rf>manual</src.rf>

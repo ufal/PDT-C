@@ -189,7 +189,7 @@
 <LM>w#w-lnd91303-084-p3s1w16</LM>
 </w.rf>
 <form>Kapské</form>
-<tag lemma="kapský_;G" src="orig" selected="1">AANS1----1A----</tag>
+<tag lemma="kapský" src="orig" selected="1">AANS1----1A----</tag>
 </m>
 <m id="m-lnd91303-084-p3s1w17">
 <src.rf>manual</src.rf>
@@ -285,7 +285,7 @@
 <LM>w#w-lnd91303-084-p3s2w2</LM>
 </w.rf>
 <form>prvních</form>
-<tag lemma="první" src="orig" selected="1">CrNP2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNP2----------</tag>
 </m>
 <m id="m-lnd91303-084-p3s2w3">
 <src.rf>manual</src.rf>

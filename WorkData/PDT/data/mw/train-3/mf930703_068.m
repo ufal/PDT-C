@@ -218,7 +218,7 @@
 <LM>w#w-mf930703-068-p2s2w2</LM>
 </w.rf>
 <form>proto</form>
-<tag lemma="proto-2_^(dal_mu_co_proto,_tak_proto!)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="proto-2_^(proto_že)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf930703-068-p2s2w3">
 <src.rf>manual</src.rf>
@@ -1277,7 +1277,7 @@
 <LM>w#w-mf930703-068-p2s8w11</LM>
 </w.rf>
 <form>zpopelnění</form>
-<tag lemma="zpopelnění_,s_^(*3it)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="zpopelnění_^(*2t)_(*3it)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-mf930703-068-p2s8w12">
 <src.rf>manual</src.rf>

@@ -79,7 +79,7 @@
 <LM>w#w-ln95049-128-p2s1Bw1</LM>
 </w.rf>
 <form>Výbor</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95049-128-p2s1Bw2">
 <src.rf>manual</src.rf>
@@ -489,7 +489,7 @@
 <LM>w#w-ln95049-128-p3s1w10</LM>
 </w.rf>
 <form>členům</form>
-<tag lemma="člen" src="orig" selected="1">NNMP3-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP3-----A----</tag>
 </m>
 <m id="m-ln95049-128-p3s1w11">
 <src.rf>manual</src.rf>
@@ -1706,7 +1706,7 @@
 <LM>w#w-ln95049-128-p7s1w6</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8YP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8YP4---------1</tag>
 </m>
 <m id="m-ln95049-128-p7s1w7">
 <src.rf>manual</src.rf>
@@ -1714,7 +1714,7 @@
 <LM>w#w-ln95049-128-p7s1w7</LM>
 </w.rf>
 <form>členy</form>
-<tag lemma="člen" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-ln95049-128-p7s1w8">
 <src.rf>manual</src.rf>

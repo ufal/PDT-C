@@ -132,7 +132,7 @@
 <LM>w#w-mf920902-113-p2s2w5</LM>
 </w.rf>
 <form>výzbroje</form>
-<tag lemma="výzbroj" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="výzbroj-1" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920902-113-p2s2w6">
 <src.rf>manual</src.rf>
@@ -526,7 +526,7 @@
 <LM>w#w-mf920902-113-p2s3w27</LM>
 </w.rf>
 <form>hromadění</form>
-<tag lemma="hromadění_^(získávat_ve_větším_množství)_(*3it)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="hromadění_^(*3it)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-mf920902-113-p2s3w28">
 <src.rf>manual</src.rf>
@@ -802,7 +802,7 @@
 <LM>w#w-mf920902-113-p3s1w7</LM>
 </w.rf>
 <form>Evropě</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf920902-113-p3s1w8">
 <src.rf>manual</src.rf>

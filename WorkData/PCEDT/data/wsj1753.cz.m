@@ -1030,7 +1030,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1753-001-p1s1W47-Ta">
@@ -3148,7 +3148,7 @@
 <AM lemma="Alberta-1_;G" src="auto">NNFP1-----A----</AM>
 <AM lemma="Alberta-1_;G" src="auto">NNFP4-----A----</AM>
 <AM lemma="Alberta-1_;G" src="auto">NNFP5-----A----</AM>
-<AM lemma="Alberta-1_;G" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="Alberta_;G_;Y_;m" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="Alberta-2_;Y" src="auto">NNFP1-----A----</AM>
 <AM lemma="Alberta-2_;Y" src="auto">NNFP4-----A----</AM>
 <AM lemma="Alberta-2_;Y" src="auto">NNFP5-----A----</AM>
@@ -3926,7 +3926,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1753-001-p1s11W27-Ta">

@@ -143,7 +143,7 @@
 <LM>w#w-lnd94101-057-p1s3w10</LM>
 </w.rf>
 <form>hnutí</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-lnd94101-057-p1s3w11">
 <src.rf>manual</src.rf>
@@ -537,7 +537,7 @@
 <LM>w#w-lnd94101-057-p1s7w1</LM>
 </w.rf>
 <form>Extremistické</form>
-<tag lemma="extremistický" src="orig" selected="1">AANS1----1A----</tag>
+<tag lemma="extremistický_,s_^(^DD**extrémistický)" src="orig" selected="1">AANS1----1A----</tag>
 </m>
 <m id="m-lnd94101-057-p1s7w2">
 <src.rf>manual</src.rf>
@@ -553,7 +553,7 @@
 <LM>w#w-lnd94101-057-p1s7w3</LM>
 </w.rf>
 <form>hnutí</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-lnd94101-057-p1s7w4">
 <src.rf>manual</src.rf>
@@ -649,7 +649,7 @@
 <LM>w#w-lnd94101-057-p1s7w15</LM>
 </w.rf>
 <form>Strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94101-057-p1s7w16">
 <src.rf>manual</src.rf>

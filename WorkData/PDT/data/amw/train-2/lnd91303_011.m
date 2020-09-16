@@ -255,7 +255,7 @@
 <LM>w#w-lnd91303-011-p3s1w20</LM>
 </w.rf>
 <form>Yorku</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="York-2_;G_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd91303-011-p3s1w21">
 <src.rf>manual</src.rf>
@@ -335,7 +335,7 @@
 <LM>w#w-lnd91303-011-p3s1w31</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd91303-011-p3s1w32">
 <src.rf>manual</src.rf>
@@ -538,7 +538,7 @@
 <LM>w#w-lnd91303-011-p3s1w56</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-lnd91303-011-p3s1w57">
 <src.rf>manual</src.rf>
@@ -708,7 +708,7 @@
 <LM>w#w-lnd91303-011-p3s2w19</LM>
 </w.rf>
 <form>co</form>
-<tag lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="co-5_^(př._co_nejméně,_co_nevidět_atd.)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd91303-011-p3s2w20">
 <src.rf>manual</src.rf>
@@ -1245,7 +1245,7 @@
 <LM>w#w-lnd91303-011-p3s4w21</LM>
 </w.rf>
 <form>Salvadoru</form>
-<tag lemma="Salvador_;G" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Salvador-2_;G" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-lnd91303-011-p3s4w22">
 <src.rf>manual</src.rf>
@@ -1261,7 +1261,7 @@
 <LM>w#w-lnd91303-011-p3s4w23</LM>
 </w.rf>
 <form>potřeby</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd91303-011-p3s4w24">
 <src.rf>manual</src.rf>
@@ -1301,7 +1301,7 @@
 <LM>w#w-lnd91303-011-p3s4w28</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-lnd91303-011-p3s4w29">
 <src.rf>manual</src.rf>

@@ -35,7 +35,7 @@
 <LM>w#w-lnd94103-035-p1s1w3</LM>
 </w.rf>
 <form>diskusi</form>
-<tag lemma="diskuse" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="diskuse_,s_^(^DD**diskuze)" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-lnd94103-035-p1s1w4">
 <src.rf>manual</src.rf>
@@ -59,7 +59,7 @@
 <LM>w#w-lnd94103-035-p1s1w6</LM>
 </w.rf>
 <form>Evropě</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 </s>
 <s id="m-lnd94103-035-p2s1">
@@ -106,7 +106,7 @@
 <LM>w#w-lnd94103-035-p2s2w3</LM>
 </w.rf>
 <form>diskusi</form>
-<tag lemma="diskuse" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="diskuse_,s_^(^DD**diskuze)" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-lnd94103-035-p2s2w4">
 <src.rf>manual</src.rf>
@@ -138,7 +138,7 @@
 <LM>w#w-lnd94103-035-p2s2w7</LM>
 </w.rf>
 <form>našeho</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSZS2-P1-------</tag>
 </m>
 <m id="m-lnd94103-035-p2s2w8">
 <src.rf>manual</src.rf>
@@ -226,7 +226,7 @@
 <LM>w#w-lnd94103-035-p2s2w18</LM>
 </w.rf>
 <form>my</form>
-<tag lemma="já" src="orig" selected="1">PP-P1--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P1--1-------</tag>
 </m>
 <m id="m-lnd94103-035-p2s2w19">
 <src.rf>manual</src.rf>

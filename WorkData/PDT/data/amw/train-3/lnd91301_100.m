@@ -19,7 +19,7 @@
 <LM>w#w-lnd91301-100-p1s1w1</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrFS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS1----------</tag>
 </m>
 <m id="m-lnd91301-100-p1s1w2">
 <src.rf>manual</src.rf>
@@ -135,7 +135,7 @@
 <LM>w#w-lnd91301-100-p3s1w11</LM>
 </w.rf>
 <form>Kapské</form>
-<tag lemma="kapský_;G" src="orig" selected="1">AANS1----1A----</tag>
+<tag lemma="kapský" src="orig" selected="1">AANS1----1A----</tag>
 </m>
 <m id="m-lnd91301-100-p3s1w12">
 <src.rf>manual</src.rf>
@@ -151,7 +151,7 @@
 <LM>w#w-lnd91301-100-p3s1w13</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS4----------</tag>
 </m>
 <m id="m-lnd91301-100-p3s1w14">
 <src.rf>manual</src.rf>
@@ -333,7 +333,7 @@
 <LM>w#w-lnd91301-100-p3s1w35</LM>
 </w.rf>
 <form>dlouhá</form>
-<tag lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-lnd91301-100-p3s1w36">
 <src.rf>manual</src.rf>

@@ -990,7 +990,7 @@
 <LM>w#w-lnd92257-024-p2s5w4</LM>
 </w.rf>
 <form>hodiny</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92257-024-p2s5w5">
 <src.rf>manual</src.rf>

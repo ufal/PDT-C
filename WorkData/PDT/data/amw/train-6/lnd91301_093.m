@@ -215,7 +215,7 @@
 <LM>w#w-lnd91301-093-p3s2w6</LM>
 </w.rf>
 <form>vážící</form>
-<tag lemma="vážící_^(např._provazem;_se_k_čemu)_(*4zat)" src="auto" selected="1">AGMS1-----A----</tag>
+<tag lemma="vážící_^(*3it)" src="auto" selected="1">AGMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-093-p3s2w7">
 <src.rf>manual</src.rf>
@@ -271,7 +271,7 @@
 <LM>w#w-lnd91301-093-p3s2w13</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-lnd91301-093-p3s2w14">
 <src.rf>manual</src.rf>
@@ -321,7 +321,7 @@
 <LM>w#w-lnd91301-093-p3s3w2</LM>
 </w.rf>
 <form>druhém</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-lnd91301-093-p3s3w3">
 <src.rf>manual</src.rf>
@@ -475,7 +475,7 @@
 <LM>w#w-lnd91301-093-p3s4w5</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-lnd91301-093-p3s4w6">
 <src.rf>manual</src.rf>

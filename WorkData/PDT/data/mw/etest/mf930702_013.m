@@ -85,7 +85,7 @@
 <LM>w#w-mf930702-013-p2s1w5</LM>
 </w.rf>
 <form>Pernštejn</form>
-<tag lemma="Pernštejn_;G" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Pernštejn-2_;G" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930702-013-p2s1w6">
 <src.rf>manual</src.rf>
@@ -373,7 +373,7 @@
 <LM>w#w-mf930702-013-p2s1w42</LM>
 </w.rf>
 <form>činitele</form>
-<tag lemma="činitel" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="činitel-1" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930702-013-p2s1w43">
 <src.rf>manual</src.rf>
@@ -837,7 +837,7 @@
 <LM>w#w-mf930702-013-p2s5w2</LM>
 </w.rf>
 <form>Pernštejn</form>
-<tag lemma="Pernštejn_;G" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Pernštejn-2_;G" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930702-013-p2s5w3">
 <src.rf>manual</src.rf>

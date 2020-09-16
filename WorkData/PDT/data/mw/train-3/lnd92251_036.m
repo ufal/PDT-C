@@ -845,7 +845,7 @@
 <LM>w#w-lnd92251-036-p5s1w2</LM>
 </w.rf>
 <form>napjatá</form>
-<tag lemma="napjatý_^(*4nout)" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="napjatý" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-lnd92251-036-p5s1w3">
 <src.rf>manual</src.rf>
@@ -1430,7 +1430,7 @@
 <LM>w#w-lnd92251-036-p7s1w11</LM>
 </w.rf>
 <form>správní</form>
-<tag lemma="správní_^(např._poplatek;_rada;_řád;...)" src="orig" selected="1">AAIP1----1A----</tag>
+<tag lemma="správní_^(správní_rada;_řád)" src="orig" selected="1">AAIP1----1A----</tag>
 </m>
 <m id="m-lnd92251-036-p7s1w12">
 <src.rf>manual</src.rf>
@@ -1438,7 +1438,7 @@
 <LM>w#w-lnd92251-036-p7s1w12</LM>
 </w.rf>
 <form>orgány</form>
-<tag lemma="orgán" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-lnd92251-036-p7s1w13">
 <src.rf>manual</src.rf>
@@ -1576,7 +1576,7 @@
 <LM>w#w-lnd92251-036-p7s2w9</LM>
 </w.rf>
 <form>brání</form>
-<tag lemma="bránit_^(klást_překážky)" src="auto" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="bránit" src="auto" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92251-036-p7s2w10">
 <src.rf>manual</src.rf>
@@ -2094,7 +2094,7 @@
 <LM>w#w-lnd92251-036-p8s3w14</LM>
 </w.rf>
 <form>střežící</form>
-<tag lemma="střežící_^(hlídat)_(*3it)" src="auto" selected="1">AGFP4-----A----</tag>
+<tag lemma="střežící_^(*3it)" src="auto" selected="1">AGFP4-----A----</tag>
 </m>
 <m id="m-lnd92251-036-p8s3w15">
 <src.rf>manual</src.rf>

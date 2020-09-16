@@ -220,7 +220,7 @@
 <LM>w#w-lnd94104-093-p1s1Dw15</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8NS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8NS4---------1</tag>
 </m>
 <m id="m-lnd94104-093-p1s1Dw16">
 <src.rf>manual</src.rf>
@@ -1412,7 +1412,7 @@
 <LM>w#w-lnd94104-093-p1s7w6</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-lnd94104-093-p1s7w7">
 <src.rf>manual</src.rf>
@@ -2183,7 +2183,7 @@
 <LM>w#w-lnd94104-093-p1s11w17</LM>
 </w.rf>
 <form>vydání</form>
-<tag lemma="vydání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="orig" selected="1">NNNS3-----A----</tag>
+<tag lemma="vydání_^(*3at)" src="orig" selected="1">NNNS3-----A----</tag>
 </m>
 <m id="m-lnd94104-093-p1s11w18">
 <src.rf>manual</src.rf>
@@ -2368,7 +2368,7 @@
 <LM>w#w-lnd94104-093-p1s12w7</LM>
 </w.rf>
 <form>hodiny</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94104-093-p1s12w8">
 <src.rf>manual</src.rf>
@@ -2738,7 +2738,7 @@
 <LM>w#w-lnd94104-093-p1s13w12</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-lnd94104-093-p1s13w13">
 <src.rf>manual</src.rf>

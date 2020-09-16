@@ -247,7 +247,7 @@
 <LM>w#w-lnd92259-093-p3s2w19</LM>
 </w.rf>
 <form>druhého</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS2----------</tag>
 </m>
 <m id="m-lnd92259-093-p3s2w20">
 <src.rf>manual</src.rf>
@@ -289,7 +289,7 @@
 <LM>w#w-lnd92259-093-p3s3w1</LM>
 </w.rf>
 <form>Představením</form>
-<tag lemma="představení-1_^(si_něco;_něco/někoho_někomu)_(*5it-1)" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="představení-1_^(*5it-1)" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-lnd92259-093-p3s3w2">
 <src.rf>manual</src.rf>
@@ -809,7 +809,7 @@
 <LM>w#w-lnd92259-093-p3s5w11</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS4----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS4----------</tag>
 </m>
 <m id="m-lnd92259-093-p3s5w12">
 <src.rf>manual</src.rf>
@@ -933,7 +933,7 @@
 <form>cup</form>
 <tag>
 <AM lemma="cup" src="orig">II-------------</AM>
-<AM lemma="cup_^(pohár)" src="manual" selected="1">NNIS4-----A----</AM>
+<AM lemma="cup-1_^(pohár)" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-093-p3s6w10">
@@ -1390,7 +1390,7 @@
 <LM>w#w-lnd92259-093-p3s9w20</LM>
 </w.rf>
 <form>talentů</form>
-<tag lemma="talent" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="talent-2" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd92259-093-p3s9w21">
 <src.rf>manual</src.rf>

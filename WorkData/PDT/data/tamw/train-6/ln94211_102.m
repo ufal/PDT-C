@@ -43,7 +43,7 @@
 <LM>w#w-ln94211-102-p1s1w4</LM>
 </w.rf>
 <form>Atlantis</form>
-<tag lemma="Atlantis_;G" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Atlantis-2_;G_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94211-102-p1s1w5">
 <src.rf>manual</src.rf>
@@ -85,7 +85,7 @@
 <LM>w#w-ln94211-102-p2s1w4</LM>
 </w.rf>
 <form>Atlantis</form>
-<tag lemma="Atlantis_;G" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Atlantis-2_;G_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94211-102-p2s1w5">
 <src.rf>manual</src.rf>
@@ -247,7 +247,7 @@
 <LM>w#w-ln94211-102-p2s2w3</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FP4---------1</tag>
 </m>
 <m id="m-ln94211-102-p2s2w4">
 <src.rf>manual</src.rf>
@@ -513,7 +513,7 @@
 <LM>w#w-ln94211-102-p2s3w22</LM>
 </w.rf>
 <form>exkluzivní</form>
-<tag lemma="exkluzivní" src="orig" selected="1">AAFS2----1A----</tag>
+<tag lemma="exkluzivní_,s_^(^DD**exkluzívní)" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-ln94211-102-p2s3w23">
 <src.rf>manual</src.rf>
@@ -586,7 +586,7 @@
 <AM lemma="vydávání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="auto">NNNS1-----A----</AM>
 <AM lemma="vydávání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="auto">NNNS2-----A----</AM>
 <AM lemma="vydávání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="auto">NNNS3-----A----</AM>
-<AM lemma="vydávání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="auto" recommended="1" selected="1">NNNS4-----A----</AM>
+<AM lemma="vydávání_^(*3at)" src="auto" recommended="1" selected="1">NNNS4-----A----</AM>
 <AM lemma="vydávání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="auto">NNNS5-----A----</AM>
 <AM lemma="vydávání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="auto">NNNS6-----A----</AM>
 <AM lemma="vydávání-2_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)_(*5at-2)" src="auto">NNNP1-----A----</AM>
@@ -627,7 +627,7 @@
 <LM>w#w-ln94211-102-p2s3w31</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-ln94211-102-p2s3w32">
 <src.rf>manual</src.rf>
@@ -880,7 +880,7 @@
 <LM>w#w-ln94211-102-p2s5w2</LM>
 </w.rf>
 <form>Atlantisu</form>
-<tag lemma="Atlantis_;G" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Atlantis-2_;G_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln94211-102-p2s5w3">
 <src.rf>manual</src.rf>

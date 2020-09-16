@@ -1278,7 +1278,7 @@
 <LM>w#w-vesm9303-006-p2s5w20</LM>
 </w.rf>
 <form>naši</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSMP1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSMP1-P1-------</tag>
 </m>
 <m id="m-vesm9303-006-p2s5w21">
 <src.rf>manual</src.rf>
@@ -2404,7 +2404,7 @@
 <LM>w#w-vesm9303-006-p4s2w15</LM>
 </w.rf>
 <form>prostředky</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP7-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP7-----A----</tag>
 </m>
 <m id="m-vesm9303-006-p4s2w16">
 <src.rf>manual</src.rf>
@@ -2472,7 +2472,7 @@
 <LM>w#w-vesm9303-006-p5s2w2</LM>
 </w.rf>
 <form>rysem</form>
-<tag lemma="rys" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="rys-2" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-vesm9303-006-p5s2w3">
 <src.rf>manual</src.rf>
@@ -2480,7 +2480,7 @@
 <LM>w#w-vesm9303-006-p5s2w3</LM>
 </w.rf>
 <form>naší</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS2-P1-------</tag>
 </m>
 <m id="m-vesm9303-006-p5s2w4">
 <src.rf>manual</src.rf>
@@ -2504,7 +2504,7 @@
 <LM>w#w-vesm9303-006-p5s2w6</LM>
 </w.rf>
 <form>zjednodušené</form>
-<tag lemma="zjednodušený_,s_^(*2t)" src="auto" selected="1">AAFS2----1A----</tag>
+<tag lemma="zjednodušený_^(*2t)_(*3it)" src="auto" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-vesm9303-006-p5s2w7">
 <src.rf>manual</src.rf>
@@ -3064,7 +3064,7 @@
 <LM>w#w-vesm9303-006-p5s4w14</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-vesm9303-006-p5s4w15">
 <src.rf>manual</src.rf>
@@ -3716,7 +3716,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -4694,7 +4694,7 @@
 <LM>w#w-vesm9303-006-p6s4w13</LM>
 </w.rf>
 <form>kořeny</form>
-<tag lemma="kořen" src="orig" selected="1">NNIP7-----A----</tag>
+<tag lemma="kořen-1" src="orig" selected="1">NNIP7-----A----</tag>
 </m>
 <m id="m-vesm9303-006-p6s4w14">
 <src.rf>manual</src.rf>

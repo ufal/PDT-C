@@ -217,7 +217,7 @@
 <LM>w#w-ln95044-035-p2s1Bw18</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-ln95044-035-p2s1Bw19">
 <src.rf>manual</src.rf>
@@ -509,7 +509,7 @@
 <LM>w#w-ln95044-035-p2s4w5</LM>
 </w.rf>
 <form>Laziem</form>
-<tag lemma="Lazio-2_;G" src="auto" selected="1">NNNS7-----A----</tag>
+<tag lemma="Lazio-2_;G_;m" src="auto" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-ln95044-035-p2s4w6">
 <src.rf>manual</src.rf>
@@ -874,7 +874,7 @@
 <LM>w#w-ln95044-035-p3s2w12</LM>
 </w.rf>
 <form>lety</form>
-<tag lemma="rok" src="orig" selected="1">NNNP7-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP7-----A----</tag>
 </m>
 <m id="m-ln95044-035-p3s2w13">
 <src.rf>manual</src.rf>
@@ -1076,7 +1076,7 @@
 <LM>w#w-ln95044-035-p4s1w1</LM>
 </w.rf>
 <form>Lazio</form>
-<tag lemma="Lazio-2_;G" src="auto" selected="1">NNNS1-----A----</tag>
+<tag lemma="Lazio-2_;G_;m" src="auto" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95044-035-p4s1w2">
 <src.rf>manual</src.rf>
@@ -1175,7 +1175,7 @@
 <LM>w#w-ln95044-035-p4s1w13</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-ln95044-035-p4s1w14">
 <src.rf>manual</src.rf>
@@ -1473,7 +1473,7 @@
 <LM>w#w-ln95044-035-p4s3w16</LM>
 </w.rf>
 <form>nejlepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAMS1----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAMS1----3A----</tag>
 </m>
 <m id="m-ln95044-035-p4s3w17">
 <src.rf>manual</src.rf>

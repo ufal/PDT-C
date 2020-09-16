@@ -360,7 +360,7 @@
 <LM>w#w-mf930701-123-p2s2w7</LM>
 </w.rf>
 <form>km</form>
-<tag lemma="km-1`kilometr" src="orig" selected="1">NNIXX-----A---b</tag>
+<tag lemma="kilometr" src="orig" selected="1">NNIXX-----A---b</tag>
 </m>
 <m id="m-mf930701-123-p2s2w8">
 <src.rf>manual</src.rf>
@@ -464,7 +464,7 @@
 <LM>w#w-mf930701-123-p2s2w20</LM>
 </w.rf>
 <form>nejlepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAMS1----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAMS1----3A----</tag>
 </m>
 <m id="m-mf930701-123-p2s2w21">
 <src.rf>manual</src.rf>
@@ -488,7 +488,7 @@
 <LM>w#w-mf930701-123-p2s2w23</LM>
 </w.rf>
 <form>jezdců</form>
-<tag lemma="jezdec" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="jezdec-1" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf930701-123-p2s2w24">
 <src.rf>manual</src.rf>
@@ -882,7 +882,7 @@
 <LM>w#w-mf930701-123-p2s7w9</LM>
 </w.rf>
 <form>Krč</form>
-<tag lemma="Krč_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Krč-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-123-p2s7w10">
 <src.rf>manual</src.rf>

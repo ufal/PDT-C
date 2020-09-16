@@ -284,7 +284,7 @@
 <LM>w#w-ln95046-039-p2s1Bw25</LM>
 </w.rf>
 <form>Martiny</form>
-<tag lemma="Martina_;Y" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Martina_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95046-039-p2s1Bw26">
 <src.rf>manual</src.rf>
@@ -393,7 +393,7 @@
 <form>Cupu</form>
 <tag>
 <AM lemma="Cup-1_;m_,t_^(pohár,_soutěž;_v_názvech)" src="auto">NNIS2-----A----</AM>
-<AM lemma="Cup-1_;m_^(pohár,_soutěž;_v_názvech)" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="cup-1_^(pohár)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-039-p2s1Bw39">
@@ -589,7 +589,7 @@
 <LM>w#w-ln95046-039-p2s3w2</LM>
 </w.rf>
 <form>druhého</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS2----------</tag>
 </m>
 <m id="m-ln95046-039-p2s3w3">
 <src.rf>manual</src.rf>
@@ -853,7 +853,7 @@
 <LM>w#w-ln95046-039-p2s5w1</LM>
 </w.rf>
 <form>Svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-ln95046-039-p2s5w2">
 <src.rf>manual</src.rf>

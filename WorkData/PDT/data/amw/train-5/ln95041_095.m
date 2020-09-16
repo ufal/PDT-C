@@ -798,7 +798,7 @@
 <LM>w#w-ln95041-095-p2s4w20</LM>
 </w.rf>
 <form>události</form>
-<tag lemma="událost_,a_^(*3ý)" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="událost" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-ln95041-095-p2s4w21">
 <src.rf>manual</src.rf>

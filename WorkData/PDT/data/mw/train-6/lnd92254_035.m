@@ -323,7 +323,7 @@
 <LM>w#w-lnd92254-035-p3s3w21</LM>
 </w.rf>
 <form>výzbroje</form>
-<tag lemma="výzbroj" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="výzbroj-1" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92254-035-p3s3w22">
 <src.rf>manual</src.rf>
@@ -462,7 +462,7 @@
 <LM>w#w-lnd92254-035-p3s4w3</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-lnd92254-035-p3s4w4">
 <src.rf>manual</src.rf>

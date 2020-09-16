@@ -27,7 +27,7 @@
 <LM>w#w-ln94206-110-p1s1Aw2</LM>
 </w.rf>
 <form>vyhlášením</form>
-<tag lemma="vyhlášení_,a_^(*4sit)" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="vyhlášení_^(*2t)_(*4sit)" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-ln94206-110-p1s1Aw3">
 <src.rf>manual</src.rf>
@@ -75,7 +75,7 @@
 <LM>w#w-ln94206-110-p1s1Aw8</LM>
 </w.rf>
 <form>správnost</form>
-<tag lemma="správnost_^(podle_něj._měřítek;_př._chlap,_míra,...)_(*3ý)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="správnost_^(*3ý)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94206-110-p1s1Aw9">
 <src.rf>manual</src.rf>

@@ -610,7 +610,7 @@
 <LM>w#w-ln94207-14-p2s3w23</LM>
 </w.rf>
 <form>modelu</form>
-<tag lemma="model" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="model-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94207-14-p2s3w24">
 <src.rf>manual</src.rf>
@@ -674,7 +674,7 @@
 <LM>w#w-ln94207-14-p2s3w31</LM>
 </w.rf>
 <form>stanovení</form>
-<tag lemma="stanovení_^(určit)_(*3it)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="stanovení_^(*3it)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln94207-14-p2s3w32">
 <src.rf>manual</src.rf>

@@ -451,7 +451,7 @@
 <LM>w#w-ln95047-124-p3s1w6</LM>
 </w.rf>
 <form>lepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAFS4----2A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAFS4----2A----</tag>
 </m>
 <m id="m-ln95047-124-p3s1w7">
 <src.rf>manual</src.rf>
@@ -531,7 +531,7 @@
 <LM>w#w-ln95047-124-p3s1w16</LM>
 </w.rf>
 <form>zostřené</form>
-<tag lemma="zostřený_^(*2t)" src="auto" selected="1">AAFS2----1A----</tag>
+<tag lemma="zostřený_^(*2t)_(*3it)" src="auto" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-ln95047-124-p3s1w17">
 <src.rf>manual</src.rf>
@@ -757,7 +757,7 @@
 <LM>w#w-ln95047-124-p3s3w1</LM>
 </w.rf>
 <form>Její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS1FS3-------</tag>
 </m>
 <m id="m-ln95047-124-p3s3w2">
 <src.rf>manual</src.rf>

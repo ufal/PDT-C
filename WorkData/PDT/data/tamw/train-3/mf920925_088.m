@@ -186,7 +186,7 @@
 <LM>w#w-mf920925-088-p2s2w12</LM>
 </w.rf>
 <form>Roudné</form>
-<tag lemma="Roudná_;G_^(*1ý)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Roudná_;G_;m" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf920925-088-p2s2w13">
 <src.rf>manual</src.rf>
@@ -676,7 +676,7 @@
 <LM>w#w-mf920925-088-p2s7w7</LM>
 </w.rf>
 <form>hodiny</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920925-088-p2s7w8">
 <src.rf>manual</src.rf>

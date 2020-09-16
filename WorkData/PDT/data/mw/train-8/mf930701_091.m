@@ -563,7 +563,7 @@
 <LM>w#w-mf930701-091-p3s1w7</LM>
 </w.rf>
 <form>politiky</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930701-091-p3s1w8">
 <src.rf>manual</src.rf>

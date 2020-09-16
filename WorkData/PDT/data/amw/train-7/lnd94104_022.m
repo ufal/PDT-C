@@ -447,7 +447,7 @@
 <LM>w#w-lnd94104-022-p1s5w3</LM>
 </w.rf>
 <form>celnice</form>
-<tag lemma="celnice-2_^(místo_výkonu_služby)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="celnice_^(*3ík-1)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94104-022-p1s5w4">
 <src.rf>manual</src.rf>
@@ -553,7 +553,7 @@
 <LM>w#w-lnd94104-022-p1s6w3</LM>
 </w.rf>
 <form>daném</form>
-<tag lemma="daný_^(*3át)" src="auto" selected="1">AAIS6----1A----</tag>
+<tag lemma="daný-1_^(*5át-1)" src="auto" selected="1">AAIS6----1A----</tag>
 </m>
 <m id="m-lnd94104-022-p1s6w4">
 <src.rf>manual</src.rf>
@@ -724,7 +724,7 @@
 <LM>w#w-lnd94104-022-p1s6w24</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd94104-022-p1s6w25">
 <src.rf>manual</src.rf>
@@ -777,7 +777,7 @@
 <LM>w#w-lnd94104-022-p1s7w5</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-lnd94104-022-p1s7w6">
 <src.rf>manual</src.rf>
@@ -1211,7 +1211,7 @@
 <LM>w#w-lnd94104-022-p1s11w5</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-022-p1s11w6">
 <src.rf>manual</src.rf>
@@ -1475,7 +1475,7 @@
 <LM>w#w-lnd94104-022-p1s12w17</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-lnd94104-022-p1s12w18">
 <src.rf>manual</src.rf>
@@ -1647,7 +1647,7 @@
 <LM>w#w-lnd94104-022-p1s14w7</LM>
 </w.rf>
 <form>celnici</form>
-<tag lemma="celnice-2_^(místo_výkonu_služby)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="celnice_^(*3ík-1)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-lnd94104-022-p1s14w8">
 <src.rf>manual</src.rf>

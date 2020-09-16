@@ -787,7 +787,7 @@
 <tag>
 <AM lemma="Perotův_;Y_^(*2a)" src="orig">AUIS2M---------</AM>
 <AM lemma="Perotův_;Y_^(*2)" src="manual">AUFS1M---------</AM>
-<AM lemma="Perotův_;Y_^(*2)" src="manual" selected="1">AUIS2M---------</AM>
+<AM lemma="Perotův_;Y_^(*2)_(*2a)" src="manual" selected="1">AUIS2M---------</AM>
 </tag>
 </m>
 <m id="m-mf920924-132-p3s3w24">
@@ -822,7 +822,7 @@
 <LM>w#w-mf920924-132-p3s4w2</LM>
 </w.rf>
 <form>činitelé</form>
-<tag lemma="činitel" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="činitel-1" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf920924-132-p3s4w3">
 <src.rf>manual</src.rf>

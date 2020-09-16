@@ -93,7 +93,7 @@
 <LM>w#w-ln94203-110-p2s1w7</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrNS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS4----------</tag>
 </m>
 <m id="m-ln94203-110-p2s1w8">
 <src.rf>manual</src.rf>
@@ -298,7 +298,7 @@
 <form>Kaiserslautern</form>
 <tag>
 <AM lemma="Kaiserslautern" src="orig">NNIS1-----A----</AM>
-<AM lemma="Kaiserslautern_;G" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Kaiserslautern_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-110-p2s1w33">
@@ -515,7 +515,7 @@
 <LM>w#w-ln94203-110-p2s1w59</LM>
 </w.rf>
 <form>Toulouse</form>
-<tag lemma="Toulouse_;G" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="Toulouse-1_;G" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln94203-110-p2s1w60">
 <src.rf>manual</src.rf>
@@ -597,7 +597,7 @@
 <form>Kaiserslautern</form>
 <tag>
 <AM lemma="Kaiserslautern" src="orig">NNIS1-----A----</AM>
-<AM lemma="Kaiserslautern_;G" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Kaiserslautern_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-110-p2s1w70">

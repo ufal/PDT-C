@@ -859,7 +859,7 @@
 <LM>w#w-ln95045-122-p4s2w5</LM>
 </w.rf>
 <form>lety</form>
-<tag lemma="rok" src="orig" selected="1">NNNP7-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP7-----A----</tag>
 </m>
 <m id="m-ln95045-122-p4s2w6">
 <src.rf>manual</src.rf>
@@ -875,7 +875,7 @@
 <LM>w#w-ln95045-122-p4s2w7</LM>
 </w.rf>
 <form>životnost</form>
-<tag lemma="životnost_^(př._rod_životný)_(*3ý)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="životnost_^(*3ý)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95045-122-p4s2w8">
 <src.rf>manual</src.rf>
@@ -902,7 +902,7 @@
 <LM>w#w-ln95045-122-p4s2w10</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln95045-122-p4s2w11">
 <src.rf>manual</src.rf>

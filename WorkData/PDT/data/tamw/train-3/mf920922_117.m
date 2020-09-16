@@ -383,7 +383,7 @@
 <LM>w#w-mf920922-117-p4s3w6</LM>
 </w.rf>
 <form>extremisty</form>
-<tag lemma="extremista" src="orig" selected="1">NNMP7-----A----</tag>
+<tag lemma="extremista_,s_^(^DD**extrémista)" src="orig" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-mf920922-117-p4s3w7">
 <src.rf>manual</src.rf>
@@ -453,7 +453,7 @@
 <LM>w#w-mf920922-117-p4s3w14</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FP4---------1</tag>
 </m>
 <m id="m-mf920922-117-p4s3w15">
 <src.rf>manual</src.rf>
@@ -481,7 +481,7 @@
 <AM lemma="tříminutový" src="orig">AAIP6----1A----</AM>
 <AM lemma="tři`3" src="auto" recommended="1">ClXP2----------</AM>
 <AM lemma="tři`3" src="manual">A2--------A----</AM>
-<AM lemma="tři-2`3" src="manual" selected="1">S2--------A----</AM>
+<AM lemma="tří`3" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-117-p4s3w18">
@@ -524,7 +524,7 @@
 <LM>w#w-mf920922-117-p4s4w1</LM>
 </w.rf>
 <form>Mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-117-p4s4w2">
 <src.rf>manual</src.rf>

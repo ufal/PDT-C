@@ -107,7 +107,7 @@
 <LM>w#w-lnd92255-072-p2s1w4</LM>
 </w.rf>
 <form>málo</form>
-<tag lemma="málo-1_^(málo_+_2._p.,_málo_peněz)" src="orig" selected="1">Ca--1----------</tag>
+<tag lemma="málo-1_^(málo_peněz)" src="orig" selected="1">Ca--1----------</tag>
 </m>
 <m id="m-lnd92255-072-p2s1w5">
 <src.rf>manual</src.rf>
@@ -1267,7 +1267,7 @@
 <LM>w#w-lnd92255-072-p5s1w20</LM>
 </w.rf>
 <form>politiky</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92255-072-p5s1w21">
 <src.rf>manual</src.rf>
@@ -1659,7 +1659,7 @@
 <LM>w#w-lnd92255-072-p6s1w20</LM>
 </w.rf>
 <form>co</form>
-<tag lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="co-5_^(př._co_nejméně,_co_nevidět_atd.)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd92255-072-p6s1w21">
 <src.rf>manual</src.rf>
@@ -1683,7 +1683,7 @@
 <LM>w#w-lnd92255-072-p6s1w23</LM>
 </w.rf>
 <form>cesty</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92255-072-p6s1w24">
 <src.rf>manual</src.rf>
@@ -1755,7 +1755,7 @@
 <LM>w#w-lnd92255-072-p6s1w32</LM>
 </w.rf>
 <form>pozornost</form>
-<tag lemma="pozornost-1_^(všímavý,_milý,_soustředěný)_(*5ý-1)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="pozornost-1_^(*5ý-1)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-lnd92255-072-p6s1w33">
 <src.rf>manual</src.rf>
@@ -1819,7 +1819,7 @@
 <LM>w#w-lnd92255-072-p6s1w40</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92255-072-p6s1w41">
 <src.rf>manual</src.rf>
@@ -2257,7 +2257,7 @@
 <LM>w#w-lnd92255-072-p6s3w12</LM>
 </w.rf>
 <form>Evropě</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd92255-072-p6s3w13">
 <src.rf>manual</src.rf>
@@ -2371,7 +2371,7 @@
 <LM>w#w-lnd92255-072-p6s4w3</LM>
 </w.rf>
 <form>politiky</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92255-072-p6s4w4">
 <src.rf>manual</src.rf>
@@ -2494,7 +2494,7 @@
 <LM>w#w-lnd92255-072-p6s4w18</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd92255-072-p6s4w19">
 <src.rf>manual</src.rf>
@@ -2545,7 +2545,7 @@
 <LM>w#w-lnd92255-072-p6s4w25</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8YP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8YP4---------1</tag>
 </m>
 <m id="m-lnd92255-072-p6s4w26">
 <src.rf>manual</src.rf>
@@ -2766,7 +2766,7 @@
 <LM>w#w-lnd92255-072-p7s2w5</LM>
 </w.rf>
 <form>málo</form>
-<tag lemma="málo-1_^(málo_+_2._p.,_málo_peněz)" src="orig" selected="1">Ca--1----------</tag>
+<tag lemma="málo-1_^(málo_peněz)" src="orig" selected="1">Ca--1----------</tag>
 </m>
 <m id="m-lnd92255-072-p7s2w6">
 <src.rf>manual</src.rf>
@@ -2984,7 +2984,7 @@
 <LM>w#w-lnd92255-072-p7s4w8</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-lnd92255-072-p7s4w9">
 <src.rf>manual</src.rf>

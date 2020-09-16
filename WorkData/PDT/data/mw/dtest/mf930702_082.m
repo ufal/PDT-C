@@ -134,7 +134,7 @@
 <LM>w#w-mf930702-082-p1s1w15</LM>
 </w.rf>
 <form>vyhlášení</form>
-<tag lemma="vyhlášení_,a_^(*4sit)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="vyhlášení_^(*2t)_(*4sit)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-mf930702-082-p1s1w16">
 <src.rf>manual</src.rf>
@@ -469,7 +469,7 @@
 <LM>w#w-mf930702-082-p1s3w5</LM>
 </w.rf>
 <form>postižených</form>
-<tag lemma="postižený_^(*4hnout)" src="orig" selected="1">AAMP2----1A----</tag>
+<tag lemma="postižený" src="orig" selected="1">AAMP2----1A----</tag>
 </m>
 <m id="m-mf930702-082-p1s3w6">
 <src.rf>manual</src.rf>
@@ -552,7 +552,7 @@
 <LM>w#w-mf930702-082-p1s3w15</LM>
 </w.rf>
 <form>Marcy</form>
-<tag lemma="Marcy_;G" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="Marcy-1_;G" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-mf930702-082-p1s3w16">
 <src.rf>manual</src.rf>
@@ -621,7 +621,7 @@
 <LM>w#w-mf930702-082-p1s4w7</LM>
 </w.rf>
 <form>postižených</form>
-<tag lemma="postižený_^(*4hnout)" src="orig" selected="1">AAMP2----1A----</tag>
+<tag lemma="postižený" src="orig" selected="1">AAMP2----1A----</tag>
 </m>
 <m id="m-mf930702-082-p1s4w8">
 <src.rf>manual</src.rf>
@@ -688,7 +688,7 @@
 <LM>w#w-mf930702-082-p1s4w15</LM>
 </w.rf>
 <form>postižených</form>
-<tag lemma="postižený_^(*4hnout)" src="orig" selected="1">AAMP2----1A----</tag>
+<tag lemma="postižený" src="orig" selected="1">AAMP2----1A----</tag>
 </m>
 <m id="m-mf930702-082-p1s4w16">
 <src.rf>manual</src.rf>

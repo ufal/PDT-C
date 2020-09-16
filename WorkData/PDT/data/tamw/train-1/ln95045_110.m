@@ -234,7 +234,7 @@
 <LM>w#w-ln95045-110-p2s1Bw19</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln95045-110-p2s1Bw20">
 <src.rf>manual</src.rf>
@@ -258,7 +258,7 @@
 <LM>w#w-ln95045-110-p2s1Bw22</LM>
 </w.rf>
 <form>politiky</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95045-110-p2s1Bw23">
 <src.rf>manual</src.rf>
@@ -392,7 +392,7 @@
 <LM>w#w-ln95045-110-p2s2w5</LM>
 </w.rf>
 <form>iniciátora</form>
-<tag lemma="iniciátor" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="iniciátor-1" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95045-110-p2s2w6">
 <src.rf>manual</src.rf>
@@ -1436,7 +1436,7 @@
 <LM>w#w-ln95045-110-p4s2w11</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln95045-110-p4s2w12">
 <src.rf>manual</src.rf>
@@ -1568,7 +1568,7 @@
 <LM>w#w-ln95045-110-p5s1w13</LM>
 </w.rf>
 <form>zveřejněním</form>
-<tag lemma="zveřejnění_^(*3it)" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="zveřejnění_^(*2t)_(*3it)" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-ln95045-110-p5s1w14">
 <src.rf>manual</src.rf>
@@ -1632,7 +1632,7 @@
 <LM>w#w-ln95045-110-p5s1w21</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-ln95045-110-p5s1w22">
 <src.rf>manual</src.rf>

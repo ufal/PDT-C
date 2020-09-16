@@ -431,7 +431,7 @@
 <LM>w#w-ln95049-029-p2s2w23</LM>
 </w.rf>
 <form>Leverkusenu</form>
-<tag lemma="Leverkusen_;G" src="orig" selected="1">NNIS6-----A---1</tag>
+<tag lemma="Leverkusen_;G_;m" src="orig" selected="1">NNIS6-----A---1</tag>
 </m>
 <m id="m-ln95049-029-p2s2w24">
 <src.rf>manual</src.rf>
@@ -717,7 +717,7 @@
 <LM>w#w-ln95049-029-p2s5w5</LM>
 </w.rf>
 <form>David</form>
-<tag lemma="David_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="David-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-029-p2s5w6">
 <src.rf>manual</src.rf>

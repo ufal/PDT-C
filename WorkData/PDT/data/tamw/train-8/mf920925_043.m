@@ -75,7 +75,7 @@
 <LM>w#w-mf920925-043-p2s1w4</LM>
 </w.rf>
 <form>dlouhé</form>
-<tag lemma="dlouhý-1_^(fyz._délka;_př._dlouhá_tyč)" src="orig" selected="1">AAFS2----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-mf920925-043-p2s1w5">
 <src.rf>manual</src.rf>
@@ -91,7 +91,7 @@
 <LM>w#w-mf920925-043-p2s1w6</LM>
 </w.rf>
 <form>cesty</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920925-043-p2s1w7">
 <src.rf>manual</src.rf>
@@ -245,7 +245,7 @@
 <LM>w#w-mf920925-043-p2s2w1</LM>
 </w.rf>
 <form>Její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS1FS3-------</tag>
 </m>
 <m id="m-mf920925-043-p2s2w2">
 <src.rf>manual</src.rf>
@@ -261,7 +261,7 @@
 <LM>w#w-mf920925-043-p2s2w3</LM>
 </w.rf>
 <form>stojí</form>
-<tag lemma="stát-4_^(něco_stojí_peníze)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920925-043-p2s2w4">
 <src.rf>manual</src.rf>
@@ -433,7 +433,7 @@
 <LM>w#w-mf920925-043-p2s3w10</LM>
 </w.rf>
 <form>cesty</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920925-043-p2s3w11">
 <src.rf>manual</src.rf>

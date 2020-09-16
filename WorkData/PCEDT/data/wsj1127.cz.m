@@ -19,7 +19,7 @@
 <tag>
 <AM lemma="David_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="David_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="David_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="David-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1127-001-p1s0W2-Ta">
@@ -191,7 +191,7 @@
 </w.rf>
 <form>gigantu</form>
 <tag>
-<AM lemma="gigant" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="gigant-1" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="gigant" src="auto">NNIS3-----A----</AM>
 <AM lemma="gigant" src="auto">NNIS6-----A----</AM>
 <AM lemma="gigant" src="auto">NNMS3-----A---1</AM>
@@ -270,7 +270,7 @@
 <form>odpovědnost</form>
 <tag>
 <AM lemma="odpovědnost_^(kdo_za_něco_odpovídá)_(*3ý)" src="auto">NNFS1-----A----</AM>
-<AM lemma="odpovědnost_^(kdo_za_něco_odpovídá)_(*3ý)" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="odpovědnost_^(*3ý)" src="auto" recommended="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1127-001-p1s1W5-Ta">
@@ -481,7 +481,7 @@
 <AM lemma="Sheldon_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Sheldon_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Sheldon_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Sheldon_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Sheldon-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1127-001-p1s3W2-Ta">
@@ -568,7 +568,7 @@
 <tag>
 <AM lemma="Maxwell_;m" src="auto">NNIS1-----A----</AM>
 <AM lemma="Maxwell_;m" src="auto">NNIS4-----A----</AM>
-<AM lemma="Maxwell_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Maxwell-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1127-001-p1s3W8-Ta">
@@ -653,7 +653,7 @@
 <form>odpovědností</form>
 <tag>
 <AM lemma="odpovědnost_^(kdo_za_něco_odpovídá)_(*3ý)" src="auto">NNFP2-----A----</AM>
-<AM lemma="odpovědnost_^(kdo_za_něco_odpovídá)_(*3ý)" src="auto" recommended="1">NNFS7-----A----</AM>
+<AM lemma="odpovědnost_^(*3ý)" src="auto" recommended="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1127-001-p1s3W16-Ta">

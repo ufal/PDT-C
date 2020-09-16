@@ -765,7 +765,7 @@
 <LM>w#w-ln94209-38-p3s1w8</LM>
 </w.rf>
 <form>rychlík</form>
-<tag lemma="rychlík" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="rychlík-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94209-38-p3s1w9">
 <src.rf>manual</src.rf>
@@ -1070,7 +1070,7 @@
 <LM>w#w-ln94209-38-p3s2w3</LM>
 </w.rf>
 <form>rychlík</form>
-<tag lemma="rychlík" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="rychlík-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94209-38-p3s2w4">
 <src.rf>manual</src.rf>
@@ -1758,7 +1758,7 @@
 <LM>w#w-ln94209-38-p3s4w20</LM>
 </w.rf>
 <form>rychlík</form>
-<tag lemma="rychlík" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="rychlík-1" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln94209-38-p3s4w21">
 <src.rf>manual</src.rf>
@@ -2056,7 +2056,7 @@
 <LM>w#w-ln94209-38-p3s5w3</LM>
 </w.rf>
 <form>rychlík</form>
-<tag lemma="rychlík" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="rychlík-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94209-38-p3s5w4">
 <src.rf>manual</src.rf>
@@ -2572,7 +2572,7 @@
 <LM>w#w-ln94209-38-p3s7w11</LM>
 </w.rf>
 <form>rychlík</form>
-<tag lemma="rychlík" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="rychlík-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94209-38-p3s7w12">
 <src.rf>manual</src.rf>
@@ -3096,7 +3096,7 @@
 <LM>w#w-ln94209-38-p4s2w5</LM>
 </w.rf>
 <form>Bubenči</form>
-<tag lemma="Bubeneč_;G" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Bubeneč-2_;G" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln94209-38-p4s2w6">
 <src.rf>manual</src.rf>

@@ -173,7 +173,7 @@
 <LM>w#w-lnd94101-098-p1s2w8</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-lnd94101-098-p1s2w9">
 <src.rf>manual</src.rf>
@@ -1395,7 +1395,7 @@
 <LM>w#w-lnd94101-098-p1s10w9</LM>
 </w.rf>
 <form>ozonu</form>
-<tag lemma="ozón" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="ozon_,s_^(^DD**ozón)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd94101-098-p1s10w10">
 <src.rf>manual</src.rf>

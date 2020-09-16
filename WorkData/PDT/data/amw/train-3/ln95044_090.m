@@ -316,7 +316,7 @@
 <LM>w#w-ln95044-090-p2s2w14</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS2---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS2---------1</tag>
 </m>
 <m id="m-ln95044-090-p2s2w15">
 <src.rf>manual</src.rf>
@@ -643,7 +643,7 @@
 <AM lemma="Čechův-2_;Y_^(*4o-2)" src="auto">AUNS3M--------6</AM>
 <AM lemma="Čechův-2_;Y_^(*4o-2)" src="auto">AUNS6M---------</AM>
 <AM lemma="Čechův_;E_;Y_^(*2)" src="auto">AUFS3M---------</AM>
-<AM lemma="Čechův_;E_;Y_^(*2)" src="auto" selected="1">AUFS6M---------</AM>
+<AM lemma="Čechův_;E_;Y_^(*2)_(*2o-2)" src="auto" selected="1">AUFS6M---------</AM>
 <AM lemma="Čechův_;E_;Y_^(*2)" src="auto">AUIS3M--------6</AM>
 <AM lemma="Čechův_;E_;Y_^(*2)" src="auto">AUIS6M---------</AM>
 <AM lemma="Čechův_;E_;Y_^(*2)" src="auto">AUMS3M--------6</AM>
@@ -1681,7 +1681,7 @@
 <LM>w#w-ln95044-090-p3s4w14</LM>
 </w.rf>
 <form>vězením</form>
-<tag lemma="vězení_,a_^(místo_výkonu_trestu)" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="vězení_^(místo_výkonu_trestu)" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-ln95044-090-p3s4w15">
 <src.rf>manual</src.rf>
@@ -1721,7 +1721,7 @@
 <LM>w#w-ln95044-090-p3s4w19</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln95044-090-p3s4w20">
 <src.rf>manual</src.rf>
@@ -1958,7 +1958,7 @@
 <AM lemma="Čechův-2_;Y_^(*4o-2)" src="auto">AUNS3M--------6</AM>
 <AM lemma="Čechův-2_;Y_^(*4o-2)" src="auto">AUNS6M---------</AM>
 <AM lemma="Čechův_;E_;Y_^(*2)" src="auto">AUFS3M---------</AM>
-<AM lemma="Čechův_;E_;Y_^(*2)" src="auto" selected="1">AUFS6M---------</AM>
+<AM lemma="Čechův_;E_;Y_^(*2)_(*2o-2)" src="auto" selected="1">AUFS6M---------</AM>
 <AM lemma="Čechův_;E_;Y_^(*2)" src="auto">AUIS3M--------6</AM>
 <AM lemma="Čechův_;E_;Y_^(*2)" src="auto">AUIS6M---------</AM>
 <AM lemma="Čechův_;E_;Y_^(*2)" src="auto">AUMS3M--------6</AM>
@@ -2039,7 +2039,7 @@
 <LM>w#w-ln95044-090-p4s2w7</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP4FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XP4FS3-------</tag>
 </m>
 <m id="m-ln95044-090-p4s2w8">
 <src.rf>manual</src.rf>

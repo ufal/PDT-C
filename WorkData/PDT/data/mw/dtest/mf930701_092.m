@@ -1407,7 +1407,7 @@
 <LM>w#w-mf930701-092-p1s14w2</LM>
 </w.rf>
 <form>DNE</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930701-092-p1s14w3">
 <src.rf>manual</src.rf>
@@ -2434,7 +2434,7 @@
 <LM>w#w-mf930701-092-p2s12w1</LM>
 </w.rf>
 <form>Jadran</form>
-<tag lemma="Jadran_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Jadran-2_;G" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930701-092-p2s12w2">
 <src.rf>manual</src.rf>
@@ -2666,7 +2666,7 @@
 <LM>w#w-mf930701-092-p4s1w1</LM>
 </w.rf>
 <form>Amsterdam</form>
-<tag lemma="Amsterodam_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Amsterdam_;G_,s_^(^DD**Amsterodam)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930701-092-p4s1w2">
 <src.rf>manual</src.rf>

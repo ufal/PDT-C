@@ -323,7 +323,7 @@
 <LM>w#w-mf930701-020-p2s2w12</LM>
 </w.rf>
 <form>prostředky</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-mf930701-020-p2s2w13">
 <src.rf>manual</src.rf>

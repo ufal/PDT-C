@@ -55,7 +55,7 @@
 <LM>w#w-lnd92252-040-p2s2w1</LM>
 </w.rf>
 <form>Druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS1----------</tag>
 </m>
 <m id="m-lnd92252-040-p2s2w2">
 <src.rf>manual</src.rf>
@@ -618,7 +618,7 @@
 <LM>w#w-lnd92252-040-p2s5w3</LM>
 </w.rf>
 <form>mluvčího</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd92252-040-p2s5w4">
 <src.rf>manual</src.rf>
@@ -642,7 +642,7 @@
 <LM>w#w-lnd92252-040-p2s5w6</LM>
 </w.rf>
 <form>Halla</form>
-<tag lemma="Hall_;Y" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Hall-1_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd92252-040-p2s5w7">
 <src.rf>manual</src.rf>

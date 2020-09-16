@@ -80,7 +80,7 @@
 <LM>w#w-ln94204-128-p2s1Aw3</LM>
 </w.rf>
 <form>optimismus</form>
-<tag lemma="optimismus" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="optimismus_,s_^(^DD**optimizmus)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln94204-128-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -683,7 +683,7 @@
 <LM>w#w-ln94204-128-p3s3w3</LM>
 </w.rf>
 <form>málo</form>
-<tag lemma="málo-1_^(málo_+_2._p.,_málo_peněz)" src="orig" selected="1">Ca--7----------</tag>
+<tag lemma="málo-1_^(málo_peněz)" src="orig" selected="1">Ca--7----------</tag>
 </m>
 <m id="m-ln94204-128-p3s3w4">
 <src.rf>manual</src.rf>
@@ -874,7 +874,7 @@
 <LM>w#w-ln94204-128-p4s2w1</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrFS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS4----------</tag>
 </m>
 <m id="m-ln94204-128-p4s2w2">
 <src.rf>manual</src.rf>
@@ -1476,7 +1476,7 @@
 <LM>w#w-ln94204-128-p4s5w2</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-ln94204-128-p4s5w3">
 <src.rf>manual</src.rf>
@@ -1484,7 +1484,7 @@
 <LM>w#w-ln94204-128-p4s5w3</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94204-128-p4s5w4">
 <src.rf>manual</src.rf>
@@ -1860,7 +1860,7 @@
 <LM>w#w-ln94204-128-p5s3w9</LM>
 </w.rf>
 <form>lepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAFS1----2A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAFS1----2A----</tag>
 </m>
 <m id="m-ln94204-128-p5s3w10">
 <src.rf>manual</src.rf>
@@ -2032,7 +2032,7 @@
 <LM>w#w-ln94204-128-p5s5w10</LM>
 </w.rf>
 <form>hodně</form>
-<tag lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto" selected="1">Dg-------1A----</tag>
+<tag lemma="hodně_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94204-128-p5s5w11">
 <src.rf>manual</src.rf>
@@ -2247,7 +2247,7 @@
 <LM>w#w-ln94204-128-p5s7w5</LM>
 </w.rf>
 <form>lepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAMS1----2A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAMS1----2A----</tag>
 </m>
 <m id="m-ln94204-128-p5s7w6">
 <src.rf>manual</src.rf>
@@ -2354,7 +2354,7 @@
 <LM>w#w-ln94204-128-p5s7w18</LM>
 </w.rf>
 <form>moc</form>
-<tag lemma="moc-3_^(velmi,_ve_spojení_s_adj.,_př._moc_hezká)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="moc-3_^(moc_hezká,_moc_peněz)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94204-128-p5s7w19">
 <src.rf>manual</src.rf>
@@ -2476,7 +2476,7 @@
 <LM>w#w-ln94204-128-p5s8w13</LM>
 </w.rf>
 <form>pozorností</form>
-<tag lemma="pozornost-1_^(všímavý,_milý,_soustředěný)_(*5ý-1)" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="pozornost-1_^(*5ý-1)" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln94204-128-p5s8w14">
 <src.rf>manual</src.rf>
@@ -2874,7 +2874,7 @@
 <LM>w#w-ln94204-128-p5s13w8</LM>
 </w.rf>
 <form>antibiotika</form>
-<tag lemma="antibiotikum_;U" src="orig" selected="1">NNNP1-----A----</tag>
+<tag lemma="antibiotikum" src="orig" selected="1">NNNP1-----A----</tag>
 </m>
 <m id="m-ln94204-128-p5s13w9">
 <src.rf>manual</src.rf>

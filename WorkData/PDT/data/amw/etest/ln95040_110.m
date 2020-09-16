@@ -457,7 +457,7 @@
 <LM>w#w-ln95040-110-p2s3w3</LM>
 </w.rf>
 <form>děti</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-ln95040-110-p2s3w4">
 <src.rf>manual</src.rf>
@@ -647,7 +647,7 @@
 <LM>w#w-ln95040-110-p2s4w6</LM>
 </w.rf>
 <form>neuváženost</form>
-<tag lemma="uváženost_,s_^(*3ý)" src="auto" selected="1">NNFS4-----N----</tag>
+<tag lemma="uváženost_^(*3ý)" src="auto" selected="1">NNFS4-----N----</tag>
 </m>
 <m id="m-ln95040-110-p2s4w7">
 <src.rf>manual</src.rf>

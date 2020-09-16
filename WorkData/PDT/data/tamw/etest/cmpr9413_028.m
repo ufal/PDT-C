@@ -405,7 +405,7 @@
 <LM>w#w-cmpr9413-028-p4s1w11</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-cmpr9413-028-p4s1w12">
 <src.rf>manual</src.rf>

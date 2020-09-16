@@ -37,7 +37,7 @@
 <LM>w#w-ln94206-15-p2s1Aw1</LM>
 </w.rf>
 <form>Příbram</form>
-<tag lemma="Příbram_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Příbram-2_;G" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94206-15-p2s1Aw2">
 <src.rf>manual</src.rf>
@@ -115,7 +115,7 @@
 <LM>w#w-ln94206-15-p2s1Bw7</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP6----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP6----------</tag>
 </m>
 <m id="m-ln94206-15-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -195,7 +195,7 @@
 <LM>w#w-ln94206-15-p2s1Bw17</LM>
 </w.rf>
 <form>postižených</form>
-<tag lemma="postižený_^(*4hnout)" src="orig" selected="1">AAMP2----1A----</tag>
+<tag lemma="postižený" src="orig" selected="1">AAMP2----1A----</tag>
 </m>
 <m id="m-ln94206-15-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -277,7 +277,7 @@
 <LM>w#w-ln94206-15-p2s2w8</LM>
 </w.rf>
 <form>Příbram</form>
-<tag lemma="Příbram_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Příbram-2_;G" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94206-15-p2s2w9">
 <src.rf>manual</src.rf>
@@ -429,7 +429,7 @@
 <LM>w#w-ln94206-15-p2s2w27</LM>
 </w.rf>
 <form>postižením</form>
-<tag lemma="postižení_^(*4hnout)" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="postižení" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-ln94206-15-p2s2w28">
 <src.rf>manual</src.rf>
@@ -1040,7 +1040,7 @@
 <LM>w#w-ln94206-15-p4s1w9</LM>
 </w.rf>
 <form>postižením</form>
-<tag lemma="postižení_^(*4hnout)" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="postižení" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-ln94206-15-p4s1w10">
 <src.rf>manual</src.rf>
@@ -1158,7 +1158,7 @@
 <LM>w#w-ln94206-15-p4s1w23</LM>
 </w.rf>
 <form>druhém</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS6----------</tag>
 </m>
 <m id="m-ln94206-15-p4s1w24">
 <src.rf>manual</src.rf>
@@ -1388,7 +1388,7 @@
 <LM>w#w-ln94206-15-p5s1Bw12</LM>
 </w.rf>
 <form>zaměstnání</form>
-<tag lemma="zaměstnání-1_^(všeob._význam:_činnost,_zaměstnání)_(*5at-1)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="zaměstnání_^(*3at)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln94206-15-p5s1Bw13">
 <src.rf>manual</src.rf>
@@ -1733,7 +1733,7 @@
 <LM>w#w-ln94206-15-p6s2w8</LM>
 </w.rf>
 <form>zaměstnání</form>
-<tag lemma="zaměstnání-1_^(všeob._význam:_činnost,_zaměstnání)_(*5at-1)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="zaměstnání_^(*3at)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln94206-15-p6s2w9">
 <src.rf>manual</src.rf>

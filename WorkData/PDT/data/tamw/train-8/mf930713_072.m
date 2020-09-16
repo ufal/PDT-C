@@ -39,7 +39,7 @@
 <LM>w#w-mf930713-072-p1s1w3</LM>
 </w.rf>
 <form>Evropě</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf930713-072-p1s1w4">
 <src.rf>manual</src.rf>
@@ -238,7 +238,7 @@
 <LM>w#w-mf930713-072-p2s1Bw19</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS1FS3-------</tag>
 </m>
 <m id="m-mf930713-072-p2s1Bw20">
 <src.rf>manual</src.rf>
@@ -413,7 +413,7 @@
 <LM>w#w-mf930713-072-p2s2w11</LM>
 </w.rf>
 <form>Evropě</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf930713-072-p2s2w12">
 <src.rf>manual</src.rf>
@@ -976,7 +976,7 @@
 <LM>w#w-mf930713-072-p2s4w8</LM>
 </w.rf>
 <form>Evropě</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf930713-072-p2s4w9">
 <src.rf>manual</src.rf>

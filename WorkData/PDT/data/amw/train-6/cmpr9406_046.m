@@ -193,7 +193,7 @@
 <LM>w#w-cmpr9406-046-p3s1w20</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS7----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS7----------</tag>
 </m>
 <m id="m-cmpr9406-046-p3s1w21">
 <src.rf>manual</src.rf>
@@ -395,7 +395,7 @@
 <LM>w#w-cmpr9406-046-p3s2w11</LM>
 </w.rf>
 <form>děti</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-cmpr9406-046-p3s2w12">
 <src.rf>manual</src.rf>
@@ -962,7 +962,7 @@
 <LM>w#w-cmpr9406-046-p5s1w15</LM>
 </w.rf>
 <form>Zlatá</form>
-<tag lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="zlatý-1_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-cmpr9406-046-p5s1w16">
 <src.rf>manual</src.rf>
@@ -1279,7 +1279,7 @@
 <LM>w#w-cmpr9406-046-p6s1w10</LM>
 </w.rf>
 <form>Pavelkova</form>
-<tag lemma="Pavelkův_;Y_^(*3ek)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Pavelkův_;Y_^(*2a)_(*3ek)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-cmpr9406-046-p6s1w11">
 <src.rf>manual</src.rf>
@@ -1845,7 +1845,7 @@
 <LM>w#w-cmpr9406-046-p7s3w7</LM>
 </w.rf>
 <form>konkurzních</form>
-<tag lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto" selected="1">AANP6----1A----</tag>
+<tag lemma="konkurzní" src="auto" selected="1">AANP6----1A----</tag>
 </m>
 <m id="m-cmpr9406-046-p7s3w8">
 <src.rf>manual</src.rf>

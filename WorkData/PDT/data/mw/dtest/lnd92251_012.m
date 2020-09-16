@@ -543,7 +543,7 @@
 <LM>w#w-lnd92251-012-p2s3w30</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS7----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS7----------</tag>
 </m>
 <m id="m-lnd92251-012-p2s3w31">
 <src.rf>manual</src.rf>

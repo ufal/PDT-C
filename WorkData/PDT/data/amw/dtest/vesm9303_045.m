@@ -30,7 +30,7 @@
 <tag>
 <AM lemma="scanovací_^(*2t)" src="orig">AAIS2----1A----</AM>
 <AM lemma="scanovací_,s_^(^DD**skenovací)_^(*2t)" src="manual">AAIS2----1A----</AM>
-<AM lemma="skanovací_,s_^(^DD**skenovací)_^(*2t)" src="manual" selected="1">AAIS2----1A----</AM>
+<AM lemma="skanovací_^(^DD**scanovací)_(*2t)" src="manual" selected="1">AAIS2----1A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-045-p1s1w3">
@@ -92,7 +92,7 @@
 <tag>
 <AM lemma="scanovací_^(*2t)" src="orig">AAIS2----1A----</AM>
 <AM lemma="skanovací_^(*2t)_^(^DD**scanovací)" src="manual">AAIS2----1A----</AM>
-<AM lemma="skanovací_,s_^(^DD**skenovací)_^(*2t)" src="manual" selected="1">AAIS2----1A----</AM>
+<AM lemma="skanovací_^(^DD**scanovací)_(*2t)" src="manual" selected="1">AAIS2----1A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-045-p2s1w4">
@@ -372,7 +372,7 @@
 <LM>w#w-vesm9303-045-p2s2w25</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS4----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS4----------</tag>
 </m>
 <m id="m-vesm9303-045-p2s2w26">
 <src.rf>manual</src.rf>
@@ -491,7 +491,7 @@
 <LM>w#w-vesm9303-045-p2s3w13</LM>
 </w.rf>
 <form>nosiče</form>
-<tag lemma="nosič" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="nosič-2" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-vesm9303-045-p2s3w14">
 <src.rf>manual</src.rf>
@@ -848,7 +848,7 @@
 <LM>w#w-vesm9303-045-p3s1w25</LM>
 </w.rf>
 <form>York</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="York-2_;G_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-vesm9303-045-p3s1w26">
 <src.rf>manual</src.rf>

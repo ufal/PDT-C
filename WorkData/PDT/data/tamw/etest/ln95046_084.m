@@ -130,7 +130,7 @@
 <LM>w#w-ln95046-084-p2s1Cw2</LM>
 </w.rf>
 <form>co</form>
-<tag lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="co-5_^(př._co_nejméně,_co_nevidět_atd.)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95046-084-p2s1Cw3">
 <src.rf>manual</src.rf>
@@ -524,7 +524,7 @@
 <LM>w#w-ln95046-084-p2s3w13</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95046-084-p2s3w14">
 <src.rf>manual</src.rf>

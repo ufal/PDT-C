@@ -356,7 +356,7 @@
 <LM>w#w-ln95040-103-p2s1Cw21</LM>
 </w.rf>
 <form>vězení</form>
-<tag lemma="vězení_,a_^(místo_výkonu_trestu)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="vězení_^(místo_výkonu_trestu)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-ln95040-103-p2s1Cw22">
 <src.rf>manual</src.rf>
@@ -398,7 +398,7 @@
 <LM>w#w-ln95040-103-p3s1w2</LM>
 </w.rf>
 <form>mluvčího</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95040-103-p3s1w3">
 <src.rf>manual</src.rf>
@@ -1322,7 +1322,7 @@
 <LM>w#w-ln95040-103-p4s1w12</LM>
 </w.rf>
 <form>činitele</form>
-<tag lemma="činitel" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="činitel-1" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95040-103-p4s1w13">
 <src.rf>manual</src.rf>
@@ -1402,7 +1402,7 @@
 <LM>w#w-ln95040-103-p4s1w22</LM>
 </w.rf>
 <form>soudkyni</form>
-<tag lemma="soudkyně_^(člověk,_který_soudí)_(*4ce)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="soudkyně_^(*4ce)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95040-103-p4s1w23">
 <src.rf>manual</src.rf>
@@ -1530,7 +1530,7 @@
 <LM>w#w-ln95040-103-p4s1w38</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-ln95040-103-p4s1w39">
 <src.rf>manual</src.rf>
@@ -2088,7 +2088,7 @@
 <LM>w#w-ln95040-103-p5s3w13</LM>
 </w.rf>
 <form>jehož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P1XXXZS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXZS3-------</tag>
 </m>
 <m id="m-ln95040-103-p5s3w14">
 <src.rf>manual</src.rf>
@@ -2160,7 +2160,7 @@
 <LM>w#w-ln95040-103-p5s3w22</LM>
 </w.rf>
 <form>napadení</form>
-<tag lemma="napadení_^(*3nout)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="napadení" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-ln95040-103-p5s3w23">
 <src.rf>manual</src.rf>
@@ -2176,7 +2176,7 @@
 <LM>w#w-ln95040-103-p5s3w24</LM>
 </w.rf>
 <form>činitele</form>
-<tag lemma="činitel" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="činitel-1" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95040-103-p5s3w25">
 <src.rf>manual</src.rf>
@@ -2258,7 +2258,7 @@
 <LM>w#w-ln95040-103-p5s4w2</LM>
 </w.rf>
 <form>události</form>
-<tag lemma="událost_,a_^(*3ý)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="událost" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-ln95040-103-p5s4w3">
 <src.rf>manual</src.rf>
@@ -2386,7 +2386,7 @@
 <LM>w#w-ln95040-103-p5s4w18</LM>
 </w.rf>
 <form>vzetím</form>
-<tag lemma="vzetí_^(př._sebrat_něco;_brát_ohled,_zřetel,...)_(*3ít)" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="vzetí_^(*3ít)" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-ln95040-103-p5s4w19">
 <src.rf>manual</src.rf>

@@ -329,7 +329,7 @@
 <tag>
 <AM lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČEZ-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="ČEZ-1_;m_^(České_energetické_závody)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČEZ-2_;m_^(České_energetické_závody)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-127-p2s2w10">
@@ -1096,7 +1096,7 @@
 <tag>
 <AM lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČEZ-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="ČEZ-1_;m_^(České_energetické_závody)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČEZ-2_;m_^(České_energetické_závody)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-127-p4s1w16">
@@ -1105,7 +1105,7 @@
 <LM>w#w-ln94211-127-p4s1w16</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS1----------</tag>
 </m>
 <m id="m-ln94211-127-p4s1w17">
 <src.rf>manual</src.rf>
@@ -1137,7 +1137,7 @@
 <LM>w#w-ln94211-127-p4s1w20</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-ln94211-127-p4s1w21">
 <src.rf>manual</src.rf>
@@ -1177,7 +1177,7 @@
 <LM>w#w-ln94211-127-p4s1w25</LM>
 </w.rf>
 <form>dováženou</form>
-<tag lemma="dovážený_^(dokončit_vážení)_(*2t)" src="auto" selected="1">AAFS7----1A----</tag>
+<tag lemma="dovážený_^(*2t)_(*3it)" src="auto" selected="1">AAFS7----1A----</tag>
 </m>
 <m id="m-ln94211-127-p4s1w26">
 <src.rf>manual</src.rf>
@@ -1398,7 +1398,7 @@
 <tag>
 <AM lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČEZ-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="ČEZ-1_;m_^(České_energetické_závody)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČEZ-2_;m_^(České_energetické_závody)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-127-p4s3w8">
@@ -1549,7 +1549,7 @@
 <tag>
 <AM lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČEZ-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="ČEZ-1_;m_^(České_energetické_závody)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČEZ-2_;m_^(České_energetické_závody)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-127-p4s3w26">

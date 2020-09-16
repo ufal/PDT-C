@@ -356,7 +356,7 @@
 <LM>w#w-lnd92256-076-p2s4w2</LM>
 </w.rf>
 <form>dlouhá</form>
-<tag lemma="dlouhý-1_^(fyz._délka;_př._dlouhá_tyč)" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-lnd92256-076-p2s4w3">
 <src.rf>manual</src.rf>
@@ -510,7 +510,7 @@
 <LM>w#w-lnd92256-076-p2s5w10</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-lnd92256-076-p2s5w11">
 <src.rf>manual</src.rf>
@@ -518,7 +518,7 @@
 <LM>w#w-lnd92256-076-p2s5w11</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92256-076-p2s5w12">
 <src.rf>manual</src.rf>

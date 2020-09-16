@@ -287,7 +287,7 @@
 <LM>w#w-ln95040-014-p2s2w13</LM>
 </w.rf>
 <form>radě</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln95040-014-p2s2w14">
 <src.rf>manual</src.rf>
@@ -467,7 +467,7 @@
 <LM>w#w-ln95040-014-p3s2w1</LM>
 </w.rf>
 <form>Chemopetrol</form>
-<tag lemma="Chemopetrol" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Chemopetrol_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95040-014-p3s2w2">
 <src.rf>manual</src.rf>
@@ -555,7 +555,7 @@
 <LM>w#w-ln95040-014-p3s2w12</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP3----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP3----------</tag>
 </m>
 <m id="m-ln95040-014-p3s2w13">
 <src.rf>manual</src.rf>
@@ -587,7 +587,7 @@
 <LM>w#w-ln95040-014-p3s2w16</LM>
 </w.rf>
 <form>členům</form>
-<tag lemma="člen" src="orig" selected="1">NNMP3-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP3-----A----</tag>
 </m>
 <m id="m-ln95040-014-p3s2w17">
 <src.rf>manual</src.rf>
@@ -595,7 +595,7 @@
 <LM>w#w-ln95040-014-p3s2w17</LM>
 </w.rf>
 <form>managementu</form>
-<tag lemma="management_^(vedení,_manažment;_angl.)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="management_,s_^(^DD**manažment)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95040-014-p3s2w18">
 <src.rf>manual</src.rf>
@@ -645,7 +645,7 @@
 <LM>w#w-ln95040-014-p3s3w3</LM>
 </w.rf>
 <form>nařčení</form>
-<tag lemma="nařčení_^(*4knout)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="nařčení" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln95040-014-p3s3w4">
 <src.rf>manual</src.rf>

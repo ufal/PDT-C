@@ -56,7 +56,7 @@
 <LM>w#w-ln94201-48-p2s1w1</LM>
 </w.rf>
 <form>Banská</form>
-<tag lemma="Banský_;G" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="banský" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-ln94201-48-p2s1w2">
 <src.rf>manual</src.rf>
@@ -840,7 +840,7 @@
 <LM>w#w-ln94201-48-p2s3w23</LM>
 </w.rf>
 <form>události</form>
-<tag lemma="událost_,a_^(*3ý)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="událost" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94201-48-p2s3w24">
 <src.rf>manual</src.rf>

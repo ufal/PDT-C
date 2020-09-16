@@ -109,7 +109,7 @@
 <LM>w#w-cmpr9406-042-p3s1w11</LM>
 </w.rf>
 <form>moc</form>
-<tag lemma="moc-3_^(velmi,_ve_spojení_s_adj.,_př._moc_hezká)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="moc-3_^(moc_hezká,_moc_peněz)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-cmpr9406-042-p3s1w12">
 <src.rf>manual</src.rf>
@@ -351,7 +351,7 @@
 <LM>w#w-cmpr9406-042-p3s2w5</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS7----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS7----------</tag>
 </m>
 <m id="m-cmpr9406-042-p3s2w6">
 <src.rf>manual</src.rf>
@@ -505,7 +505,7 @@
 <LM>w#w-cmpr9406-042-p3s3w1</LM>
 </w.rf>
 <form>My</form>
-<tag lemma="já" src="orig" selected="1">PP-P1--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P1--1-------</tag>
 </m>
 <m id="m-cmpr9406-042-p3s3w2">
 <src.rf>manual</src.rf>

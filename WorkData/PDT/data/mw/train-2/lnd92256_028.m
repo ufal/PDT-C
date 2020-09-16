@@ -758,7 +758,7 @@
 <AM lemma="on-1_^(oni/ono)" src="auto">PPNS4--3-------</AM>
 <AM lemma="on-1_^(oni/ono)" src="auto">PPXP4--3-------</AM>
 <AM lemma="JE_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="JE-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Je-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-028-p4s2w14">
@@ -899,7 +899,7 @@
 <form>Castor</form>
 <tag>
 <AM lemma="Castor-2_;m" src="orig">NNIS1-----A----</AM>
-<AM lemma="Castor_;Y" src="auto" selected="1">NNMS1-----A----</AM>
+<AM lemma="Castor_;Y_,s_^(^DD**Kastór)" src="auto" selected="1">NNMS1-----A----</AM>
 <AM lemma="Kastór_;Y_,t_,x" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -1446,7 +1446,7 @@
 <LM>w#w-lnd92256-028-p5s4w10</LM>
 </w.rf>
 <form>dá</form>
-<tag lemma="dát" src="orig" selected="1">VB-S---3P-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-lnd92256-028-p5s4w11">
 <src.rf>manual</src.rf>

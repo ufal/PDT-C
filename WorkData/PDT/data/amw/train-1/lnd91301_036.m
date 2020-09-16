@@ -170,7 +170,7 @@
 <LM>w#w-lnd91301-036-p3s1w13</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP2-P1-------</tag>
 </m>
 <m id="m-lnd91301-036-p3s1w14">
 <src.rf>manual</src.rf>
@@ -204,7 +204,7 @@
 <LM>w#w-lnd91301-036-p3s2w1</LM>
 </w.rf>
 <form>Její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP4FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XP4FS3-------</tag>
 </m>
 <m id="m-lnd91301-036-p3s2w2">
 <src.rf>manual</src.rf>

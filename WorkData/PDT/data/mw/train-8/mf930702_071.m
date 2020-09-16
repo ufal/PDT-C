@@ -27,7 +27,7 @@
 <LM>w#w-mf930702-071-p1s1w2</LM>
 </w.rf>
 <form>Marseille</form>
-<tag lemma="Marseille_;G" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="Marseille-2_;G" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-mf930702-071-p1s1w3">
 <src.rf>manual</src.rf>
@@ -910,7 +910,7 @@
 <LM>w#w-mf930702-071-p2s5w8</LM>
 </w.rf>
 <form>vypadá</form>
-<tag lemma="vypadat" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="vypadat-1_^(ty_vypadáš)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930702-071-p2s5w9">
 <src.rf>manual</src.rf>
@@ -1128,7 +1128,7 @@
 <LM>w#w-mf930702-071-p3s1w19</LM>
 </w.rf>
 <form>sekretář</form>
-<tag lemma="sekretář" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="sekretář-2" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-071-p3s1w20">
 <src.rf>manual</src.rf>
@@ -1328,7 +1328,7 @@
 <LM>w#w-mf930702-071-p3s2w21</LM>
 </w.rf>
 <form>naší</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS2-P1-------</tag>
 </m>
 <m id="m-mf930702-071-p3s2w22">
 <src.rf>manual</src.rf>
@@ -1336,7 +1336,7 @@
 <LM>w#w-mf930702-071-p3s2w22</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930702-071-p3s2w23">
 <src.rf>manual</src.rf>
@@ -1394,7 +1394,7 @@
 <LM>w#w-mf930702-071-p3s3w1</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrNS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS1----------</tag>
 </m>
 <m id="m-mf930702-071-p3s3w2">
 <src.rf>manual</src.rf>
@@ -1487,7 +1487,7 @@
 <LM>w#w-mf930702-071-p3s4w1</LM>
 </w.rf>
 <form>Druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS1----------</tag>
 </m>
 <m id="m-mf930702-071-p3s4w2">
 <src.rf>manual</src.rf>
@@ -1584,7 +1584,7 @@
 <LM>w#w-mf930702-071-p3s4w12</LM>
 </w.rf>
 <form>druhého</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS2----------</tag>
 </m>
 <m id="m-mf930702-071-p3s4w13">
 <src.rf>manual</src.rf>

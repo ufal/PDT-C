@@ -577,7 +577,7 @@
 <form>piloty</form>
 <tag>
 <AM lemma="pilot" src="auto">NNIP1-----A----</AM>
-<AM lemma="pilot" src="auto" recommended="1">NNIP4-----A----</AM>
+<AM lemma="pilot-2" src="auto" recommended="1">NNIP4-----A----</AM>
 <AM lemma="pilot" src="auto">NNIP5-----A----</AM>
 <AM lemma="pilot" src="auto">NNIP7-----A----</AM>
 <AM lemma="pilot" src="auto">NNMP4-----A----</AM>

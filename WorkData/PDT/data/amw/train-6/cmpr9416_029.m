@@ -433,7 +433,7 @@
 <LM>w#w-cmpr9416-029-p5s3w2</LM>
 </w.rf>
 <form>dali</form>
-<tag lemma="dát" src="orig" selected="1">VpMP----R-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-cmpr9416-029-p5s3w3">
 <src.rf>manual</src.rf>
@@ -719,7 +719,7 @@
 <LM>w#w-cmpr9416-029-p6s1w6</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-cmpr9416-029-p6s1w7">
 <src.rf>manual</src.rf>
@@ -1145,7 +1145,7 @@
 <LM>w#w-cmpr9416-029-p8s1Aw13</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-cmpr9416-029-p8s1Aw14">
 <src.rf>manual</src.rf>

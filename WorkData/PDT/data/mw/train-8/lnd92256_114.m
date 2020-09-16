@@ -392,7 +392,7 @@
 <LM>w#w-lnd92256-114-p1s2w25</LM>
 </w.rf>
 <form>diskusi</form>
-<tag lemma="diskuse" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="diskuse_,s_^(^DD**diskuze)" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-lnd92256-114-p1s2w26">
 <src.rf>manual</src.rf>

@@ -45,7 +45,7 @@
 <form>show</form>
 <tag>
 <AM lemma="show" src="orig">NNFXX-----A----</AM>
-<AM lemma="show" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="show-1" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -320,7 +320,7 @@
 <LM>w#w-ln95044-047-p2s2w15</LM>
 </w.rf>
 <form>nadšených</form>
-<tag lemma="nadšený_^(*4chnout)" src="orig" selected="1">AAMP2----1A----</tag>
+<tag lemma="nadšený" src="orig" selected="1">AAMP2----1A----</tag>
 </m>
 <m id="m-ln95044-047-p2s2w16">
 <src.rf>manual</src.rf>
@@ -513,7 +513,7 @@
 <LM>w#w-ln95044-047-p3s1w7</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrIS7----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS7----------</tag>
 </m>
 <m id="m-ln95044-047-p3s1w8">
 <src.rf>manual</src.rf>
@@ -553,7 +553,7 @@
 <LM>w#w-ln95044-047-p3s1w12</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-ln95044-047-p3s1w13">
 <src.rf>manual</src.rf>
@@ -814,7 +814,7 @@
 <LM>w#w-ln95044-047-p4s1w6</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FP4---------1</tag>
 </m>
 <m id="m-ln95044-047-p4s1w7">
 <src.rf>manual</src.rf>

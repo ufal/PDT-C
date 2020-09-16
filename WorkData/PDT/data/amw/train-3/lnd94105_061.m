@@ -402,7 +402,7 @@
 <LM>w#w-lnd94105-061-p1s36w8</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XP1FS3-------</tag>
 </m>
 <m id="m-lnd94105-061-p1s36w9">
 <src.rf>manual</src.rf>
@@ -490,7 +490,7 @@
 <LM>w#w-lnd94105-061-p1s36w19</LM>
 </w.rf>
 <form>postižené</form>
-<tag lemma="postižený_^(*4hnout)" src="orig" selected="1">AAFS2----1A----</tag>
+<tag lemma="postižený" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-lnd94105-061-p1s36w20">
 <src.rf>manual</src.rf>
@@ -522,7 +522,7 @@
 <LM>w#w-lnd94105-061-p1s36w23</LM>
 </w.rf>
 <form>okénka</form>
-<tag lemma="okénko_,e" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="okénko" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-lnd94105-061-p1s36w24">
 <src.rf>manual</src.rf>

@@ -77,7 +77,7 @@
 <LM>w#w-cmpr9415-034-p3s1w5</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-cmpr9415-034-p3s1w6">
 <src.rf>manual</src.rf>

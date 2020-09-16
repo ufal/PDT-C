@@ -545,7 +545,7 @@
 </w.rf>
 <form>faktoru</form>
 <tag>
-<AM lemma="faktor" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="faktor-1" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="faktor" src="auto">NNIS3-----A----</AM>
 <AM lemma="faktor" src="auto">NNIS6-----A----</AM>
 <AM lemma="faktor" src="auto">NNMS3-----A---1</AM>
@@ -973,7 +973,7 @@
 <tag>
 <AM lemma="práv_^(oprávněný)" src="auto">ACQW------A----</AM>
 <AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto">NNNP1-----A----</AM>
-<AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto" recommended="1">NNNP4-----A----</AM>
+<AM lemma="právo" src="auto" recommended="1">NNNP4-----A----</AM>
 <AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto">NNNP5-----A----</AM>
 <AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto">NNNS2-----A----</AM>
 </tag>
@@ -1464,7 +1464,7 @@
 <AM lemma="druhý" src="auto">CrIP1---------6</AM>
 <AM lemma="druhý" src="auto">CrIP4---------6</AM>
 <AM lemma="druhý" src="auto">CrIP5---------6</AM>
-<AM lemma="druhý" src="auto" recommended="1">CrIS1----------</AM>
+<AM lemma="druhý`2" src="auto" recommended="1">CrIS1----------</AM>
 <AM lemma="druhý" src="auto">CrIS4----------</AM>
 <AM lemma="druhý" src="auto">CrIS5----------</AM>
 <AM lemma="druhý" src="auto">CrMP1---------6</AM>
@@ -2349,7 +2349,7 @@
 <AM lemma="první" src="auto">CrIP1----------</AM>
 <AM lemma="první" src="auto">CrIP4----------</AM>
 <AM lemma="první" src="auto">CrIP5----------</AM>
-<AM lemma="první" src="auto" selected="1">CrIS1----------</AM>
+<AM lemma="první-1" src="auto" selected="1">CrIS1----------</AM>
 <AM lemma="první" src="auto">CrIS4----------</AM>
 <AM lemma="první" src="auto">CrIS5----------</AM>
 <AM lemma="první" src="auto">CrMP1----------</AM>
@@ -2706,7 +2706,7 @@
 <form>periodontálních</form>
 <tag>
 <AM lemma="periodontální_;U" src="auto">AAFP2----1A----</AM>
-<AM lemma="periodontální_;U" src="auto" recommended="1">AAFP6----1A----</AM>
+<AM lemma="periodontální" src="auto" recommended="1">AAFP6----1A----</AM>
 <AM lemma="periodontální_;U" src="auto">AAIP2----1A----</AM>
 <AM lemma="periodontální_;U" src="auto">AAIP6----1A----</AM>
 <AM lemma="periodontální_;U" src="auto">AAMP2----1A----</AM>

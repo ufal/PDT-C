@@ -256,7 +256,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>svoji</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4----------</tag>
 </m>
 <m id="m-lnd94104-026-p1s3w17">
 <src.rf>manual</src.rf>

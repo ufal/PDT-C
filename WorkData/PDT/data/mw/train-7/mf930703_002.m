@@ -51,7 +51,7 @@
 <LM>w#w-mf930703-002-p1s1w5</LM>
 </w.rf>
 <form>cestě</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 </s>
 <s id="m-mf930703-002-p2s1">
@@ -699,7 +699,7 @@
 <LM>w#w-mf930703-002-p2s5w17</LM>
 </w.rf>
 <form>jejím</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS7FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS7FS3-------</tag>
 </m>
 <m id="m-mf930703-002-p2s5w18">
 <src.rf>manual</src.rf>
@@ -707,7 +707,7 @@
 <LM>w#w-mf930703-002-p2s5w18</LM>
 </w.rf>
 <form>vyhlášením</form>
-<tag lemma="vyhlášení_,a_^(*4sit)" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="vyhlášení_^(*2t)_(*4sit)" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-mf930703-002-p2s5w19">
 <src.rf>manual</src.rf>
@@ -999,7 +999,7 @@
 <LM>w#w-mf930703-002-p2s7w17</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-mf930703-002-p2s7w18">
 <src.rf>manual</src.rf>
@@ -1007,7 +1007,7 @@
 <LM>w#w-mf930703-002-p2s7w18</LM>
 </w.rf>
 <form>nesmyslnost</form>
-<tag lemma="nesmyslnost_^(nedávající_smysl)_(*3ý)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="nesmyslnost_^(*3ý)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf930703-002-p2s7w19">
 <src.rf>manual</src.rf>

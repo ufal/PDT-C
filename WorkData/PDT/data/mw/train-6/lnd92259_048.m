@@ -372,7 +372,7 @@
 <LM>w#w-lnd92259-048-p3s2w7</LM>
 </w.rf>
 <form>vyváženým</form>
-<tag lemma="vyvážený_^(zboží_přes_hranice)_(*2t)" src="orig" selected="1">AAIS7----1A----</tag>
+<tag lemma="vyvážený_^(*2t)_(*3it)" src="orig" selected="1">AAIS7----1A----</tag>
 </m>
 <m id="m-lnd92259-048-p3s2w8">
 <src.rf>manual</src.rf>
@@ -529,7 +529,7 @@
 <LM>w#w-lnd92259-048-p3s3w10</LM>
 </w.rf>
 <form>druhého</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS2----------</tag>
 </m>
 <m id="m-lnd92259-048-p3s3w11">
 <src.rf>manual</src.rf>
@@ -974,7 +974,7 @@
 <LM>w#w-lnd92259-048-p3s6w13</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92259-048-p3s6w14">
 <src.rf>manual</src.rf>
@@ -1187,7 +1187,7 @@
 <LM>w#w-lnd92259-048-p3s7w14</LM>
 </w.rf>
 <form>daných</form>
-<tag lemma="daný_^(*3át)" src="auto" selected="1">AANP2----1A----</tag>
+<tag lemma="daný-1_^(*5át-1)" src="auto" selected="1">AANP2----1A----</tag>
 </m>
 <m id="m-lnd92259-048-p3s7w15">
 <src.rf>manual</src.rf>
@@ -1267,7 +1267,7 @@
 <LM>w#w-lnd92259-048-p3s7w24</LM>
 </w.rf>
 <form>odpovědnosti</form>
-<tag lemma="odpovědnost_^(kdo_za_něco_odpovídá)_(*3ý)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="odpovědnost_^(*3ý)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92259-048-p3s7w25">
 <src.rf>manual</src.rf>
@@ -1347,7 +1347,7 @@
 <LM>w#w-lnd92259-048-p3s7w34</LM>
 </w.rf>
 <form>orgánů</form>
-<tag lemma="orgán" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-lnd92259-048-p3s7w35">
 <src.rf>manual</src.rf>

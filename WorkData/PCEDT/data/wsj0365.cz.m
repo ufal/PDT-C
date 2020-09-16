@@ -21,7 +21,7 @@
 <AM lemma="Bonnie_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Bonnie_;Y" src="auto">NNMXX-----A----</AM>
 <AM lemma="Bonnie_;Y_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Bonnie_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Bonnie-1_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0365-001-p1s0W2-Ta">
@@ -351,7 +351,7 @@
 </w.rf>
 <form>svou</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8FS4---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8FS4---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS7---------1</AM>
 </tag>
 </m>

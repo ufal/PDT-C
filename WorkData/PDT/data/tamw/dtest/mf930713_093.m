@@ -355,7 +355,7 @@
 <LM>w#w-mf930713-093-p2s2w17</LM>
 </w.rf>
 <form>členů</form>
-<tag lemma="člen" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf930713-093-p2s2w18">
 <src.rf>manual</src.rf>
@@ -381,7 +381,7 @@
 <LM>w#w-mf930713-093-p2s3w2</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-mf930713-093-p2s3w3">
 <src.rf>manual</src.rf>
@@ -397,7 +397,7 @@
 <LM>w#w-mf930713-093-p2s3w4</LM>
 </w.rf>
 <form>hnutí</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNP1-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNP1-----A----</tag>
 </m>
 <m id="m-mf930713-093-p2s3w5">
 <src.rf>manual</src.rf>
@@ -607,7 +607,7 @@
 <LM>w#w-mf930713-093-p2s4w20</LM>
 </w.rf>
 <form>rady</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930713-093-p2s4w21">
 <src.rf>manual</src.rf>
@@ -907,7 +907,7 @@
 <LM>w#w-mf930713-093-p2s6w12</LM>
 </w.rf>
 <form>pěší</form>
-<tag lemma="pěší" src="auto" selected="1">NNMP4-----A----</tag>
+<tag lemma="pěší-1" src="auto" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-mf930713-093-p2s6w13">
 <src.rf>manual</src.rf>

@@ -1124,7 +1124,7 @@
 <LM>w#w-lnd92251-044-p4s3w22</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-lnd92251-044-p4s3w23">
 <src.rf>manual</src.rf>
@@ -1284,7 +1284,7 @@
 <LM>w#w-lnd92251-044-p4s4w8</LM>
 </w.rf>
 <form>náš</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSIS4-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSIS4-P1-------</tag>
 </m>
 <m id="m-lnd92251-044-p4s4w9">
 <src.rf>manual</src.rf>
@@ -1460,7 +1460,7 @@
 <LM>w#w-lnd92251-044-p4s4w30</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92251-044-p4s4w31">
 <src.rf>manual</src.rf>
@@ -2130,7 +2130,7 @@
 <LM>w#w-lnd92251-044-p4s8w28</LM>
 </w.rf>
 <form>naše</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP4-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP4-P1-------</tag>
 </m>
 <m id="m-lnd92251-044-p4s8w29">
 <src.rf>manual</src.rf>
@@ -2274,7 +2274,7 @@
 <LM>w#w-lnd92251-044-p4s8w46</LM>
 </w.rf>
 <form>nevidomé</form>
-<tag lemma="nevidomý" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="nevidomý-2" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-lnd92251-044-p4s8w47">
 <src.rf>manual</src.rf>
@@ -2298,7 +2298,7 @@
 <LM>w#w-lnd92251-044-p4s8w49</LM>
 </w.rf>
 <form>postižené</form>
-<tag lemma="postižený_^(*4hnout)" src="orig" selected="1">AAMP4----1A----</tag>
+<tag lemma="postižený" src="orig" selected="1">AAMP4----1A----</tag>
 </m>
 <m id="m-lnd92251-044-p4s8w50">
 <src.rf>manual</src.rf>
@@ -2346,7 +2346,7 @@
 <LM>w#w-lnd92251-044-p4s8w55</LM>
 </w.rf>
 <form>děti</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-lnd92251-044-p4s8w56">
 <src.rf>manual</src.rf>
@@ -2410,7 +2410,7 @@
 <LM>w#w-lnd92251-044-p4s8w63</LM>
 </w.rf>
 <form>pavilon</form>
-<tag lemma="pavilon" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="pavilon_,s_^(^DD**pavilón)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92251-044-p4s8w64">
 <src.rf>manual</src.rf>
@@ -2725,7 +2725,7 @@
 <LM>w#w-lnd92251-044-p4s10w15</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-lnd92251-044-p4s10w16">
 <src.rf>manual</src.rf>

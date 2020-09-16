@@ -207,7 +207,7 @@
 <LM>w#w-lnd94105-049-p1s3w18</LM>
 </w.rf>
 <form>členů</form>
-<tag lemma="člen" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd94105-049-p1s3w19">
 <src.rf>manual</src.rf>
@@ -552,7 +552,7 @@
 <LM>w#w-lnd94105-049-p1s5w12</LM>
 </w.rf>
 <form>členů</form>
-<tag lemma="člen" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd94105-049-p1s5w13">
 <src.rf>manual</src.rf>
@@ -767,7 +767,7 @@
 <LM>w#w-lnd94105-049-p1s7w10</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-lnd94105-049-p1s7w11">
 <src.rf>manual</src.rf>

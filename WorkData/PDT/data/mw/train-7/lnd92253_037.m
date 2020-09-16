@@ -43,7 +43,7 @@
 <LM>w#w-lnd92253-037-p1s1w4</LM>
 </w.rf>
 <form>DRUHéHO</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS2----------</tag>
 </m>
 <m id="m-lnd92253-037-p1s1w5">
 <src.rf>manual</src.rf>
@@ -51,7 +51,7 @@
 <LM>w#w-lnd92253-037-p1s1w5</LM>
 </w.rf>
 <form>VYDáNí</form>
-<tag lemma="vydání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="vydání_^(*3at)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-lnd92253-037-p1s1w6">
 <src.rf>manual</src.rf>
@@ -109,7 +109,7 @@
 <LM>w#w-lnd92253-037-p2s1w6</LM>
 </w.rf>
 <form>stadionu</form>
-<tag lemma="stadión" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="stadion_,s_^(^DD**stadión)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92253-037-p2s1w7">
 <src.rf>manual</src.rf>

@@ -59,7 +59,7 @@
 <LM>w#w-mf930702-061-p1s1w6</LM>
 </w.rf>
 <form>sarin</form>
-<tag lemma="sarin_;U" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="sarin" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 </s>
 <s id="m-mf930702-061-p2s1">
@@ -273,7 +273,7 @@
 <LM>w#w-mf930702-061-p3s1w1</LM>
 </w.rf>
 <form>Mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-061-p3s1w2">
 <src.rf>manual</src.rf>
@@ -393,7 +393,7 @@
 <LM>w#w-mf930702-061-p3s1w16</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf930702-061-p3s1w17">
 <src.rf>manual</src.rf>
@@ -661,7 +661,7 @@
 <LM>w#w-mf930702-061-p4s1w3</LM>
 </w.rf>
 <form>veteráni</form>
-<tag lemma="veterán" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="veterán-1" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf930702-061-p4s1w4">
 <src.rf>manual</src.rf>
@@ -1005,7 +1005,7 @@
 <LM>w#w-mf930702-061-p5s1w22</LM>
 </w.rf>
 <form>veteráni</form>
-<tag lemma="veterán" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="veterán-1" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf930702-061-p5s1w23">
 <src.rf>manual</src.rf>
@@ -1047,7 +1047,7 @@
 <LM>w#w-mf930702-061-p5s2w4</LM>
 </w.rf>
 <form>sarin</form>
-<tag lemma="sarin_;U" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="sarin" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930702-061-p5s2w5">
 <src.rf>manual</src.rf>
@@ -1817,7 +1817,7 @@
 <LM>w#w-mf930702-061-p6s1w43</LM>
 </w.rf>
 <form>sarinu</form>
-<tag lemma="sarin_;U" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="sarin" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930702-061-p6s1w44">
 <src.rf>manual</src.rf>
@@ -1907,7 +1907,7 @@
 <LM>w#w-mf930702-061-p7s1w10</LM>
 </w.rf>
 <form>vypadaly</form>
-<tag lemma="vypadat" src="orig" selected="1">VpTP----R-AAI--</tag>
+<tag lemma="vypadat-1_^(ty_vypadáš)" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf930702-061-p7s1w11">
 <src.rf>manual</src.rf>

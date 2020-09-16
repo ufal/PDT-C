@@ -277,7 +277,7 @@
 <LM>w#w-ln95041-014-p1s2w8</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln95041-014-p1s2w9">
 <src.rf>manual</src.rf>
@@ -382,7 +382,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>UDÁLOSTI</form>
-<tag lemma="událost_,a_^(*3ý)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="událost" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-ln95041-014-p1s2w22">
 <src.rf>manual</src.rf>
@@ -430,7 +430,7 @@
 <LM>w#w-ln95041-014-p1s2w27</LM>
 </w.rf>
 <form>Husově</form>
-<tag lemma="Husův_;Y_^(*2o)" src="auto" selected="1">AUFS6M---------</tag>
+<tag lemma="Husův_;Y_^(*2-1)_(*2o)" src="auto" selected="1">AUFS6M---------</tag>
 </m>
 <m id="m-ln95041-014-p1s2w28">
 <src.rf>manual</src.rf>

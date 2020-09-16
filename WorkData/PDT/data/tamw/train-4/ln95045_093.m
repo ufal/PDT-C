@@ -234,7 +234,7 @@
 <LM>w#w-ln95045-093-p2s1Bw15</LM>
 </w.rf>
 <form>Hnutí</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln95045-093-p2s1Bw16">
 <src.rf>manual</src.rf>
@@ -258,7 +258,7 @@
 <LM>w#w-ln95045-093-p2s1Bw18</LM>
 </w.rf>
 <form>Děti</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-ln95045-093-p2s1Bw19">
 <src.rf>manual</src.rf>
@@ -782,7 +782,7 @@
 <LM>w#w-ln95045-093-p3s1w22</LM>
 </w.rf>
 <form>Montrealského</form>
-<tag lemma="montrealský_;G" src="orig" selected="1">AAIS2----1A----</tag>
+<tag lemma="montrealský" src="orig" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-ln95045-093-p3s1w23">
 <src.rf>manual</src.rf>
@@ -1066,7 +1066,7 @@
 <LM>w#w-ln95045-093-p3s3w7</LM>
 </w.rf>
 <form>Hnutí</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln95045-093-p3s3w8">
 <src.rf>manual</src.rf>
@@ -1573,7 +1573,7 @@
 <LM>w#w-ln95045-093-p3s5w21</LM>
 </w.rf>
 <form>potřeby</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95045-093-p3s5w22">
 <src.rf>manual</src.rf>

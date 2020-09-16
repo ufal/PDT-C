@@ -43,7 +43,7 @@
 <LM>w#w-mf930701-150-p1s1w4</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-mf930701-150-p1s1w5">
 <src.rf>manual</src.rf>
@@ -59,7 +59,7 @@
 <LM>w#w-mf930701-150-p1s1w6</LM>
 </w.rf>
 <form>výbor</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 </s>
 <s id="m-mf930701-150-p2s1">
@@ -463,7 +463,7 @@
 <LM>w#w-mf930701-150-p2s2w21</LM>
 </w.rf>
 <form>jejímž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1ZS6FS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1ZS6FS3-------</tag>
 </m>
 <m id="m-mf930701-150-p2s2w22">
 <src.rf>manual</src.rf>
@@ -511,7 +511,7 @@
 <LM>w#w-mf930701-150-p2s2w27</LM>
 </w.rf>
 <form>výbor</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930701-150-p2s2w28">
 <src.rf>manual</src.rf>

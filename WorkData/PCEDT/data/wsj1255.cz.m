@@ -747,7 +747,7 @@
 <AM lemma="ča_^(ča-ča)" src="auto">NNFS2-----A----</AM>
 <AM lemma="ča_^(ča-ča)" src="auto">NNFS3-----A---1</AM>
 <AM lemma="ča_^(ča-ča)" src="auto">NNFS6-----A---1</AM>
-<AM lemma="či" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="či-1" src="auto" recommended="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1255-001-p1s2W12-Ta">
@@ -1057,7 +1057,7 @@
 <AM lemma="zabránění_^(někomu_v_něčem)_(*3it)" src="auto">NNNS1-----A----</AM>
 <AM lemma="zabránění_^(někomu_v_něčem)_(*3it)" src="auto">NNNS2-----A----</AM>
 <AM lemma="zabránění_^(někomu_v_něčem)_(*3it)" src="auto">NNNS3-----A----</AM>
-<AM lemma="zabránění_^(někomu_v_něčem)_(*3it)" src="auto" recommended="1">NNNS4-----A----</AM>
+<AM lemma="zabránění_^(*3it)" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="zabránění_^(někomu_v_něčem)_(*3it)" src="auto">NNNS5-----A----</AM>
 <AM lemma="zabránění_^(někomu_v_něčem)_(*3it)" src="auto">NNNS6-----A----</AM>
 </tag>
@@ -1373,7 +1373,7 @@
 <AM lemma="York-2_;G" src="auto">NNIS2-----A----</AM>
 <AM lemma="York-2_;G" src="auto" recommended="1">NNIS3-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS5-----A----</AM>
-<AM lemma="York-2_;G" src="auto" selected="1">NNIS6-----A----</AM>
+<AM lemma="York-2_;G_;m" src="auto" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1255-001-p1s3W24-Ta">
@@ -1768,7 +1768,7 @@
 <LM>w#w-wsj1255-001-p1s5W6</LM>
 </w.rf>
 <form>stafylokok</form>
-<tag lemma="stafylokok" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="stafylokok-2" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj1255-001-p1s5W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2063,7 +2063,7 @@
 <form>otravy</form>
 <tag>
 <AM lemma="otrava" src="auto" recommended="1">NNFP1-----A----</AM>
-<AM lemma="otrava" src="auto" selected="1">NNFP4-----A----</AM>
+<AM lemma="otrava-1" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="otrava" src="auto">NNFP5-----A----</AM>
 <AM lemma="otrava" src="auto">NNFS2-----A----</AM>
 <AM lemma="otrava" src="auto">NNMP4-----A----</AM>

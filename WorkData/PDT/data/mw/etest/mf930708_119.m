@@ -1350,7 +1350,7 @@
 <LM>w#w-mf930708-119-p4s1w1</LM>
 </w.rf>
 <form>Newport</form>
-<tag lemma="Newport_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Newport_;G_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930708-119-p4s1w2">
 <src.rf>manual</src.rf>
@@ -1985,7 +1985,7 @@
 <LM>w#w-mf930708-119-p4s5w20</LM>
 </w.rf>
 <form>Stafford</form>
-<tag lemma="Stafford_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Stafford-2_;G" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930708-119-p4s5w21">
 <src.rf>manual</src.rf>
@@ -2349,7 +2349,7 @@
 <LM>w#w-mf930708-119-p4s8w2</LM>
 </w.rf>
 <form>Garner</form>
-<tag lemma="Garner_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Garner-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-119-p4s8w3">
 <src.rf>manual</src.rf>
@@ -2820,7 +2820,7 @@
 <LM>w#w-mf930708-119-p5s1w26</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS7----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS7----------</tag>
 </m>
 <m id="m-mf930708-119-p5s1w27">
 <src.rf>manual</src.rf>
@@ -2878,7 +2878,7 @@
 <LM>w#w-mf930708-119-p5s2w3</LM>
 </w.rf>
 <form>Wimbledonu</form>
-<tag lemma="Wimbledon-2_^(tenis._turnaj)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Wimbledon" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930708-119-p5s2w4">
 <src.rf>manual</src.rf>
@@ -2910,7 +2910,7 @@
 <LM>w#w-mf930708-119-p5s2w7</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-mf930708-119-p5s2w8">
 <src.rf>manual</src.rf>
@@ -2966,7 +2966,7 @@
 <LM>w#w-mf930708-119-p5s2w14</LM>
 </w.rf>
 <form>Arthura</form>
-<tag lemma="Arthur_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Arthur_;Y_,s_^(^DD**Artur)" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930708-119-p5s2w15">
 <src.rf>manual</src.rf>

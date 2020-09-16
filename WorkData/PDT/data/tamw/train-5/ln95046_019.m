@@ -587,7 +587,7 @@
 <LM>w#w-ln95046-019-p3s1w19</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-ln95046-019-p3s1w20">
 <src.rf>manual</src.rf>
@@ -637,7 +637,7 @@
 <LM>w#w-ln95046-019-p3s2w3</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-ln95046-019-p3s2w4">
 <src.rf>manual</src.rf>
@@ -1052,7 +1052,7 @@
 <LM>w#w-ln95046-019-p3s4w2</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-ln95046-019-p3s4w3">
 <src.rf>manual</src.rf>
@@ -1593,7 +1593,7 @@
 <form>hodně</form>
 <tag>
 <AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="hodně_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-019-p3s8w20">
@@ -1631,7 +1631,7 @@
 <LM>w#w-ln95046-019-p3s9w2</LM>
 </w.rf>
 <form>lepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAIP4----2A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAIP4----2A----</tag>
 </m>
 <m id="m-ln95046-019-p3s9w3">
 <src.rf>manual</src.rf>
@@ -1729,7 +1729,7 @@
 <LM>w#w-ln95046-019-p4s1w2</LM>
 </w.rf>
 <form>model</form>
-<tag lemma="model" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="model-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95046-019-p4s1w3">
 <src.rf>manual</src.rf>

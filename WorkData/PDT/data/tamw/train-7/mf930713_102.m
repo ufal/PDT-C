@@ -35,7 +35,7 @@
 <LM>w#w-mf930713-102-p1s1w3</LM>
 </w.rf>
 <form>Buffalu</form>
-<tag lemma="Buffalo-1_;G_^(město)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="Buffalo-1_;G_;m_^(město_sport._klub)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 </s>
 <s id="m-mf930713-102-p2s1A">
@@ -45,7 +45,7 @@
 <LM>w#w-mf930713-102-p2s1Aw1</LM>
 </w.rf>
 <form>Buffalo</form>
-<tag lemma="Buffalo-1_;G_^(město)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Buffalo-1_;G_;m_^(město_sport._klub)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf930713-102-p2s1Aw2">
 <src.rf>manual</src.rf>
@@ -135,7 +135,7 @@
 <LM>w#w-mf930713-102-p2s1Bw10</LM>
 </w.rf>
 <form>Buffalu</form>
-<tag lemma="Buffalo-1_;G_^(město)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="Buffalo-1_;G_;m_^(město_sport._klub)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-mf930713-102-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -483,7 +483,7 @@
 <LM>w#w-mf930713-102-p2s3w20</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrIS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS6----------</tag>
 </m>
 <m id="m-mf930713-102-p2s3w21">
 <src.rf>manual</src.rf>
@@ -597,7 +597,7 @@
 <LM>w#w-mf930713-102-p2s4w5</LM>
 </w.rf>
 <form>naše</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSHS1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSHS1-P1-------</tag>
 </m>
 <m id="m-mf930713-102-p2s4w6">
 <src.rf>manual</src.rf>

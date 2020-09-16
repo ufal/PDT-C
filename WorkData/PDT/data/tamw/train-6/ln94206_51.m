@@ -237,7 +237,7 @@
 <LM>w#w-ln94206-51-p2s1Bw11</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94206-51-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -546,7 +546,7 @@
 <LM>w#w-ln94206-51-p2s3w10</LM>
 </w.rf>
 <form>přijetí</form>
-<tag lemma="přijetí_^(*3mout)" src="auto" selected="1">NNNS4-----A----</tag>
+<tag lemma="přijetí_^(*1)_(*3mout)" src="auto" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln94206-51-p2s3w11">
 <src.rf>manual</src.rf>
@@ -806,7 +806,7 @@
 <LM>w#w-ln94206-51-p2s5w12</LM>
 </w.rf>
 <form>pozornost</form>
-<tag lemma="pozornost-1_^(všímavý,_milý,_soustředěný)_(*5ý-1)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="pozornost-1_^(*5ý-1)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94206-51-p2s5w13">
 <src.rf>manual</src.rf>
@@ -878,7 +878,7 @@
 <LM>w#w-ln94206-51-p2s5w21</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln94206-51-p2s5w22">
 <src.rf>manual</src.rf>

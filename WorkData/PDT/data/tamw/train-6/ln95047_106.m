@@ -37,7 +37,7 @@
 <form>dá</form>
 <tag>
 <AM lemma="dát" src="orig">VB-S---3P-AAP--</AM>
-<AM lemma="dát" src="manual" selected="1">VB-S---3P-AAP--</AM>
+<AM lemma="dát-1" src="manual" selected="1">VB-S---3P-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95047-106-p1s1w4">
@@ -454,7 +454,7 @@
 <LM>w#w-ln95047-106-p2s3w4</LM>
 </w.rf>
 <form>správní</form>
-<tag lemma="správní_^(např._poplatek;_rada;_řád;...)" src="orig" selected="1">AAFS2----1A----</tag>
+<tag lemma="správní_^(správní_rada;_řád)" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-ln95047-106-p2s3w5">
 <src.rf>manual</src.rf>
@@ -462,7 +462,7 @@
 <LM>w#w-ln95047-106-p2s3w5</LM>
 </w.rf>
 <form>rady</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95047-106-p2s3w6">
 <src.rf>manual</src.rf>
@@ -661,7 +661,7 @@
 <LM>w#w-ln95047-106-p2s3w29</LM>
 </w.rf>
 <form>špitálu</form>
-<tag lemma="špitál" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="špitál_,h" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95047-106-p2s3w30">
 <src.rf>manual</src.rf>
@@ -830,7 +830,7 @@
 <LM>w#w-ln95047-106-p2s4w14</LM>
 </w.rf>
 <form>správní</form>
-<tag lemma="správní_^(např._poplatek;_rada;_řád;...)" src="orig" selected="1">AAIP1----1A----</tag>
+<tag lemma="správní_^(správní_rada;_řád)" src="orig" selected="1">AAIP1----1A----</tag>
 </m>
 <m id="m-ln95047-106-p2s4w15">
 <src.rf>manual</src.rf>
@@ -838,7 +838,7 @@
 <LM>w#w-ln95047-106-p2s4w15</LM>
 </w.rf>
 <form>orgány</form>
-<tag lemma="orgán" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-ln95047-106-p2s4w16">
 <src.rf>manual</src.rf>

@@ -170,7 +170,7 @@
 <LM>w#w-mf930713-083-p2s1Bw12</LM>
 </w.rf>
 <form>bílé</form>
-<tag lemma="bílý" src="orig" selected="1">AAFS6----1A----</tag>
+<tag lemma="bílý_;o" src="orig" selected="1">AAFS6----1A----</tag>
 </m>
 <m id="m-mf930713-083-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -282,7 +282,7 @@
 <LM>w#w-mf930713-083-p2s1Bw26</LM>
 </w.rf>
 <form>cestě</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf930713-083-p2s1Bw27">
 <src.rf>manual</src.rf>
@@ -372,7 +372,7 @@
 <LM>w#w-mf930713-083-p2s2w3</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-mf930713-083-p2s2w4">
 <src.rf>manual</src.rf>

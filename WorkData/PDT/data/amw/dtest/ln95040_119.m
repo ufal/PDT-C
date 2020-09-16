@@ -134,7 +134,7 @@
 <LM>w#w-ln95040-119-p2s1w14</LM>
 </w.rf>
 <form>diskusní</form>
-<tag lemma="diskusní" src="orig" selected="1">AAIS4----1A----</tag>
+<tag lemma="diskusní_,s_^(^DD**diskuzní)" src="orig" selected="1">AAIS4----1A----</tag>
 </m>
 <m id="m-ln95040-119-p2s1w15">
 <src.rf>manual</src.rf>
@@ -272,7 +272,7 @@
 <LM>w#w-ln95040-119-p2s2w1</LM>
 </w.rf>
 <form>Úvodní</form>
-<tag lemma="úvodní_,s" src="orig" selected="1">AANS4----1A----</tag>
+<tag lemma="úvodní" src="orig" selected="1">AANS4----1A----</tag>
 </m>
 <m id="m-ln95040-119-p2s2w2">
 <src.rf>manual</src.rf>
@@ -1055,7 +1055,7 @@
 <LM>w#w-ln95040-119-p5s1w15</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrIS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS6----------</tag>
 </m>
 <m id="m-ln95040-119-p5s1w16">
 <src.rf>manual</src.rf>
@@ -1105,7 +1105,7 @@
 <LM>w#w-ln95040-119-p5s2w1</LM>
 </w.rf>
 <form>Druhá</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS1----------</tag>
 </m>
 <m id="m-ln95040-119-p5s2w2">
 <src.rf>manual</src.rf>
@@ -1241,7 +1241,7 @@
 <LM>w#w-ln95040-119-p5s2w18</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP4FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XP4FS3-------</tag>
 </m>
 <m id="m-ln95040-119-p5s2w19">
 <src.rf>manual</src.rf>

@@ -268,7 +268,7 @@
 <LM>w#w-lnd92252-077-p1s3w2</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrMS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrMS1----------</tag>
 </m>
 <m id="m-lnd92252-077-p1s3w3">
 <src.rf>manual</src.rf>

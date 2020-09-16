@@ -279,7 +279,7 @@
 <LM>w#w-ln94201-4-p2s2w8</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FP4---------1</tag>
 </m>
 <m id="m-ln94201-4-p2s2w9">
 <src.rf>manual</src.rf>
@@ -391,7 +391,7 @@
 <LM>w#w-ln94201-4-p2s2w22</LM>
 </w.rf>
 <form>Slavii</form>
-<tag lemma="Slavia_;m" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Slavie_;m_,s_^(^DD**Slávie)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94201-4-p2s2w23">
 <src.rf>manual</src.rf>
@@ -578,7 +578,7 @@
 <LM>w#w-ln94201-4-p3s1w3</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-4_^(v_knize,_rukopise,...)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94201-4-p3s1w4">
 <src.rf>manual</src.rf>

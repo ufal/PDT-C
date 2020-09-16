@@ -279,7 +279,7 @@
 <form>MacMillan</form>
 <tag>
 <AM lemma="Macmillan_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="MacMillan-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Macmillan-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2074-001-p1s1W2-Ta">

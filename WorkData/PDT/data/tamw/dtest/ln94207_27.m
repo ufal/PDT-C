@@ -143,7 +143,7 @@
 <LM>w#w-ln94207-27-p2s1Bw10</LM>
 </w.rf>
 <form>svržení</form>
-<tag lemma="svržení_^(*4hnout)" src="orig" selected="1">NNNS3-----A----</tag>
+<tag lemma="svržení" src="orig" selected="1">NNNS3-----A----</tag>
 </m>
 <m id="m-ln94207-27-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -215,7 +215,7 @@
 <LM>w#w-ln94207-27-p2s1Bw19</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-ln94207-27-p2s1Bw20">
 <src.rf>manual</src.rf>

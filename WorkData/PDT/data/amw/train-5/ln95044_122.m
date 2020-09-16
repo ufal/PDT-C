@@ -337,7 +337,7 @@
 <LM>w#w-ln95044-122-p2s2w7</LM>
 </w.rf>
 <form>letounu</form>
-<tag lemma="letoun" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="letoun-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95044-122-p2s2w8">
 <src.rf>manual</src.rf>
@@ -376,7 +376,7 @@
 <AM lemma="Herkules-2_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="Herkules-1_;Y" src="auto">NNMS1-----A---1</AM>
 <AM lemma="Herkules-3_;G" src="auto" recommended="1">NNIS1-----A---1</AM>
-<AM lemma="Hercules-1_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Hercules-2_;G_;m_^(město;;letadlo;;lepidlo)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-122-p2s2w12">
@@ -677,7 +677,7 @@
 <LM>w#w-ln95044-122-p3s2w5</LM>
 </w.rf>
 <form>můj</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSYS1-S1-------</tag>
+<tag lemma="můj" src="orig" selected="1">PSYS1-S1-------</tag>
 </m>
 <m id="m-ln95044-122-p3s2w6">
 <src.rf>manual</src.rf>
@@ -919,7 +919,7 @@
 <LM>w#w-ln95044-122-p3s4w12</LM>
 </w.rf>
 <form>nadšením</form>
-<tag lemma="nadšení_^(*4chnout)" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="nadšení" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-ln95044-122-p3s4w13">
 <src.rf>manual</src.rf>

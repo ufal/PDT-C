@@ -160,7 +160,7 @@
 <LM>w#w-mf930701-033-p2s1w14</LM>
 </w.rf>
 <form>dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930701-033-p2s1w15">
 <src.rf>manual</src.rf>
@@ -574,7 +574,7 @@
 <LM>w#w-mf930701-033-p2s4w6</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-mf930701-033-p2s4w7">
 <src.rf>manual</src.rf>

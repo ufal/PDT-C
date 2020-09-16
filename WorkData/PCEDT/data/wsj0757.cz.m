@@ -513,7 +513,7 @@
 <AM lemma="nadání_^(spílat;;obdařit,_dotovat)_(talent)_(*3at)" src="auto">NNNS1-----A----</AM>
 <AM lemma="nadání_^(spílat;;obdařit,_dotovat)_(talent)_(*3at)" src="auto">NNNS2-----A----</AM>
 <AM lemma="nadání_^(spílat;;obdařit,_dotovat)_(talent)_(*3at)" src="auto">NNNS3-----A----</AM>
-<AM lemma="nadání_^(spílat;;obdařit,_dotovat)_(talent)_(*3at)" src="auto" recommended="1">NNNS4-----A----</AM>
+<AM lemma="nadání_^(*3at)" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="nadání_^(spílat;;obdařit,_dotovat)_(talent)_(*3at)" src="auto">NNNS5-----A----</AM>
 <AM lemma="nadání_^(spílat;;obdařit,_dotovat)_(talent)_(*3at)" src="auto">NNNS6-----A----</AM>
 </tag>
@@ -827,7 +827,7 @@
 </w.rf>
 <form>Nebojte</form>
 <tag>
-<AM lemma="bát" src="auto" recommended="1">Vi-P---2--N-I--</AM>
+<AM lemma="bát-1" src="auto" recommended="1">Vi-P---2--N-I--</AM>
 <AM lemma="bát" src="auto">Vi-P---3--N-I-4</AM>
 </tag>
 </m>

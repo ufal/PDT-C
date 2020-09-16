@@ -91,7 +91,7 @@
 <LM>w#w-lnd92255-127-p1s1w10</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-lnd92255-127-p1s1w11">
 <src.rf>manual</src.rf>
@@ -312,7 +312,7 @@
 <LM>w#w-lnd92255-127-p1s1w36</LM>
 </w.rf>
 <form>otištěný</form>
-<tag lemma="otištěný_^(*5sknout)" src="orig" selected="1">AAIS4----1A----</tag>
+<tag lemma="otištěný" src="orig" selected="1">AAIS4----1A----</tag>
 </m>
 <m id="m-lnd92255-127-p1s1w37">
 <src.rf>manual</src.rf>

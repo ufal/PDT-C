@@ -85,7 +85,7 @@
 <LM>w#w-ln94203-55-p2s1w8</LM>
 </w.rf>
 <form>pilotem</form>
-<tag lemma="pilot" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="pilot-1" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94203-55-p2s1w9">
 <src.rf>manual</src.rf>
@@ -231,7 +231,7 @@
 <LM>w#w-ln94203-55-p2s2w11</LM>
 </w.rf>
 <form>pilota</form>
-<tag lemma="pilot" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="pilot-1" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94203-55-p2s2w12">
 <src.rf>manual</src.rf>

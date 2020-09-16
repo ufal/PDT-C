@@ -143,7 +143,7 @@
 <LM>w#w-lnd94105-005-p1s3w8</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS7----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS7----------</tag>
 </m>
 <m id="m-lnd94105-005-p1s3w9">
 <src.rf>manual</src.rf>
@@ -263,7 +263,7 @@
 <LM>w#w-lnd94105-005-p1s3w23</LM>
 </w.rf>
 <form>Wallis</form>
-<tag lemma="Wallis_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Wallis-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-005-p1s3w24">
 <src.rf>manual</src.rf>
@@ -603,7 +603,7 @@
 <LM>w#w-lnd94105-005-p1s6w3</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-4_^(v_knize,_rukopise,...)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd94105-005-p1s6w4">
 <src.rf>manual</src.rf>

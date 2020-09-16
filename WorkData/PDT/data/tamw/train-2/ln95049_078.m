@@ -171,7 +171,7 @@
 <LM>w#w-ln95049-078-p2s1Bw10</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8YP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8YP4---------1</tag>
 </m>
 <m id="m-ln95049-078-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -179,7 +179,7 @@
 <LM>w#w-ln95049-078-p2s1Bw11</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrIP4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIP4----------</tag>
 </m>
 <m id="m-ln95049-078-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -406,7 +406,7 @@
 <LM>w#w-ln95049-078-p2s3w9</LM>
 </w.rf>
 <form>málo</form>
-<tag lemma="málo-1_^(málo_+_2._p.,_málo_peněz)" src="orig" selected="1">Ca--1----------</tag>
+<tag lemma="málo-1_^(málo_peněz)" src="orig" selected="1">Ca--1----------</tag>
 </m>
 <m id="m-ln95049-078-p2s3w10">
 <src.rf>manual</src.rf>
@@ -488,7 +488,7 @@
 <LM>w#w-ln95049-078-p2s4w4</LM>
 </w.rf>
 <form>bílí</form>
-<tag lemma="bílý" src="orig" selected="1">AAMP1----1A----</tag>
+<tag lemma="bílý_;o" src="orig" selected="1">AAMP1----1A----</tag>
 </m>
 <m id="m-ln95049-078-p2s4w5">
 <src.rf>manual</src.rf>
@@ -608,7 +608,7 @@
 <LM>w#w-ln95049-078-p2s4w19</LM>
 </w.rf>
 <form>svoji</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4----------</tag>
 </m>
 <m id="m-ln95049-078-p2s4w20">
 <src.rf>manual</src.rf>
@@ -714,7 +714,7 @@
 <LM>w#w-ln95049-078-p2s5w10</LM>
 </w.rf>
 <form>členy</form>
-<tag lemma="člen" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-ln95049-078-p2s5w11">
 <src.rf>manual</src.rf>
@@ -746,7 +746,7 @@
 <LM>w#w-ln95049-078-p2s5w14</LM>
 </w.rf>
 <form>komunismu</form>
-<tag lemma="komunismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="komunismus_,s_^(^DD**komunizmus)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95049-078-p2s5w15">
 <src.rf>manual</src.rf>
@@ -1037,7 +1037,7 @@
 <LM>w#w-ln95049-078-p2s6w32</LM>
 </w.rf>
 <form>manažera</form>
-<tag lemma="manažer" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="manažer-1" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95049-078-p2s6w33">
 <src.rf>manual</src.rf>

@@ -195,7 +195,7 @@
 <LM>w#w-lnd92258-098-p2s1w19</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92258-098-p2s1w20">
 <src.rf>manual</src.rf>
@@ -255,7 +255,7 @@
 <form>dal</form>
 <tag>
 <AM lemma="dát" src="orig">VpYS----R-AAP--</AM>
-<AM lemma="dát" src="manual" selected="1">VpYS----R-AAP--</AM>
+<AM lemma="dát-1" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd92258-098-p2s2w7">
@@ -513,7 +513,7 @@
 <LM>w#w-lnd92258-098-p3s1w2</LM>
 </w.rf>
 <form>naše</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP4-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP4-P1-------</tag>
 </m>
 <m id="m-lnd92258-098-p3s1w3">
 <src.rf>manual</src.rf>
@@ -561,7 +561,7 @@
 <LM>w#w-lnd92258-098-p3s1w8</LM>
 </w.rf>
 <form>my</form>
-<tag lemma="já" src="orig" selected="1">PP-P1--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P1--1-------</tag>
 </m>
 <m id="m-lnd92258-098-p3s1w9">
 <src.rf>manual</src.rf>
@@ -1280,7 +1280,7 @@
 <form>stojí</form>
 <tag>
 <AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig">VB-S---3P-AA---</AM>
-<AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="manual" selected="1">VB-S---3P-AAI--</AM>
+<AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m-lnd92258-098-p4s3w6">
@@ -1703,7 +1703,7 @@
 <LM>w#w-lnd92258-098-p5s2w15</LM>
 </w.rf>
 <form>Slováci</form>
-<tag lemma="Slovák_;E" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="Slovák_;E_;Y" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd92258-098-p5s2w16">
 <src.rf>manual</src.rf>
@@ -1719,7 +1719,7 @@
 <LM>w#w-lnd92258-098-p5s2w17</LM>
 </w.rf>
 <form>Romové</form>
-<tag lemma="Rom-4_;E" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="Rom_;E_;Y" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd92258-098-p5s2w18">
 <src.rf>manual</src.rf>

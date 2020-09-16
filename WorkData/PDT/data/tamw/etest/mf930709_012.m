@@ -111,7 +111,7 @@
 <LM>w#w-mf930709-012-p1s1w12</LM>
 </w.rf>
 <form>dítěti</form>
-<tag lemma="dítě" src="orig" selected="1">NNNS3-----A----</tag>
+<tag lemma="dítě-1" src="orig" selected="1">NNNS3-----A----</tag>
 </m>
 <m id="m-mf930709-012-p1s1w13">
 <src.rf>manual</src.rf>

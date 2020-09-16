@@ -686,7 +686,7 @@
 <LM>w#w-ln95046-028-p2s4w5</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-ln95046-028-p2s4w6">
 <src.rf>manual</src.rf>

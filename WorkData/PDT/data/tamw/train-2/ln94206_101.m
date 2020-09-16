@@ -29,7 +29,7 @@
 <LM>w#w-ln94206-101-p2s1w1</LM>
 </w.rf>
 <form>Představení</form>
-<tag lemma="představení-2_^(divadelní,_filmové_apod.)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="představení-1_^(*5it-1)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94206-101-p2s1w2">
 <src.rf>manual</src.rf>
@@ -185,7 +185,7 @@
 <LM>w#w-ln94206-101-p2s2w6</LM>
 </w.rf>
 <form>podání</form>
-<tag lemma="podání_^(něco_[někomu]_[někam])_(*3at)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="podání_^(*3at)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-ln94206-101-p2s2w7">
 <src.rf>manual</src.rf>

@@ -251,7 +251,7 @@
 <LM>w#w-vesm9303-011-p1s2w22</LM>
 </w.rf>
 <form>Karlovy</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-vesm9303-011-p1s2w23">
 <src.rf>manual</src.rf>
@@ -615,7 +615,7 @@
 <LM>w#w-vesm9303-011-p2s2w17</LM>
 </w.rf>
 <form>úmrtnosti</form>
-<tag lemma="úmrtnost_,s_^(*3í)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="úmrtnost" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-vesm9303-011-p2s2w18">
 <src.rf>manual</src.rf>
@@ -1022,7 +1022,7 @@
 <LM>w#w-vesm9303-011-p4s2w9</LM>
 </w.rf>
 <form>Karlovy</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-vesm9303-011-p4s2w10">
 <src.rf>manual</src.rf>
@@ -1080,7 +1080,7 @@
 <LM>w#w-vesm9303-011-p4s3w6</LM>
 </w.rf>
 <form>metabolismus</form>
-<tag lemma="metabolizmus" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="metabolismus_,s_^(^DD**metabolizmus)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-vesm9303-011-p4s3w7">
 <src.rf>manual</src.rf>
@@ -1354,7 +1354,7 @@
 <LM>w#w-vesm9303-011-p5s2w11</LM>
 </w.rf>
 <form>Karlovy</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-vesm9303-011-p5s2w12">
 <src.rf>manual</src.rf>
@@ -1588,7 +1588,7 @@
 <LM>w#w-vesm9303-011-p6s2w10</LM>
 </w.rf>
 <form>Karlovy</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-vesm9303-011-p6s2w11">
 <src.rf>manual</src.rf>
@@ -2127,7 +2127,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Karlovy</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-vesm9303-011-p7s2w12">
 <src.rf>manual</src.rf>

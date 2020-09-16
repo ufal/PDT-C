@@ -19,7 +19,7 @@
 <LM>w#w-lnd94103-013-p1s1w1</LM>
 </w.rf>
 <form>Taxikáři</form>
-<tag lemma="taxikář" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="taxikář_,s_^(^DD**taxíkář)" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd94103-013-p1s1w2">
 <src.rf>manual</src.rf>
@@ -181,7 +181,7 @@
 <LM>w#w-lnd94103-013-p1s3w12</LM>
 </w.rf>
 <form>taxikářských</form>
-<tag lemma="taxikářský" src="orig" selected="1">AAFP2----1A----</tag>
+<tag lemma="taxikářský_,s_^(^DD**taxíkářský)" src="orig" selected="1">AAFP2----1A----</tag>
 </m>
 <m id="m-lnd94103-013-p1s3w13">
 <src.rf>manual</src.rf>
@@ -636,7 +636,7 @@
 <LM>w#w-lnd94103-013-p1s6w27</LM>
 </w.rf>
 <form>přistižení</form>
-<tag lemma="přistižený_^(*4hnout)" src="orig" selected="1">AAMP1----1A----</tag>
+<tag lemma="přistižený" src="orig" selected="1">AAMP1----1A----</tag>
 </m>
 <m id="m-lnd94103-013-p1s6w28">
 <src.rf>manual</src.rf>
@@ -644,7 +644,7 @@
 <LM>w#w-lnd94103-013-p1s6w28</LM>
 </w.rf>
 <form>taxikáři</form>
-<tag lemma="taxikář" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="taxikář_,s_^(^DD**taxíkář)" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd94103-013-p1s6w29">
 <src.rf>manual</src.rf>
@@ -872,7 +872,7 @@
 <LM>w#w-lnd94103-013-p1s8w11</LM>
 </w.rf>
 <form>taxikáři</form>
-<tag lemma="taxikář" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="taxikář_,s_^(^DD**taxíkář)" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd94103-013-p1s8w12">
 <src.rf>manual</src.rf>
@@ -981,7 +981,7 @@
 <LM>w#w-lnd94103-013-p1s8w24</LM>
 </w.rf>
 <form>taxikářskou</form>
-<tag lemma="taxikářský" src="orig" selected="1">AAFS7----1A----</tag>
+<tag lemma="taxikářský_,s_^(^DD**taxíkářský)" src="orig" selected="1">AAFS7----1A----</tag>
 </m>
 <m id="m-lnd94103-013-p1s8w25">
 <src.rf>manual</src.rf>
@@ -1271,7 +1271,7 @@
 <LM>w#w-lnd94103-013-p1s10w11</LM>
 </w.rf>
 <form>nedali</form>
-<tag lemma="dát" src="orig" selected="1">VpMP----R-NAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VpMP----R-NAP--</tag>
 </m>
 <m id="m-lnd94103-013-p1s10w12">
 <src.rf>manual</src.rf>
@@ -1321,7 +1321,7 @@
 <LM>w#w-lnd94103-013-p1s11w4</LM>
 </w.rf>
 <form>zpřísnění</form>
-<tag lemma="zpřísnění_^(*3it)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="zpřísnění_^(*2t)_(*3it)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-lnd94103-013-p1s11w5">
 <src.rf>manual</src.rf>

@@ -75,7 +75,7 @@
 <LM>w#w-lnd91301-027-p1s1w8</LM>
 </w.rf>
 <form>děti</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-lnd91301-027-p1s1w9">
 <src.rf>manual</src.rf>
@@ -605,7 +605,7 @@
 <LM>w#w-lnd91301-027-p1s4w23</LM>
 </w.rf>
 <form>Novodvorská</form>
-<tag lemma="Novodvorská_;G_^(ulice,_sídliště)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Novodvorská_;G_;Y_^(*1ý)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd91301-027-p1s4w24">
 <src.rf>manual</src.rf>

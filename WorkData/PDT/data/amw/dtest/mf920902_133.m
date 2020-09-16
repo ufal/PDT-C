@@ -379,7 +379,7 @@
 <LM>w#w-mf920902-133-p4s3w9</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-mf920902-133-p4s3w10">
 <src.rf>manual</src.rf>
@@ -438,7 +438,7 @@
 <LM>w#w-mf920902-133-p4s3w16</LM>
 </w.rf>
 <form>výbor</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-mf920902-133-p4s3w17">
 <src.rf>manual</src.rf>
@@ -614,7 +614,7 @@
 <LM>w#w-mf920902-133-p4s3w39</LM>
 </w.rf>
 <form>letoun</form>
-<tag lemma="letoun" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="letoun-1" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-mf920902-133-p4s3w40">
 <src.rf>manual</src.rf>

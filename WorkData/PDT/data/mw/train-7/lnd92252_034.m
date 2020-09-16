@@ -53,7 +53,7 @@
 <LM>w#w-lnd92252-034-p2s1w3</LM>
 </w.rf>
 <form>ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-lnd92252-034-p2s1w4">
 <src.rf>manual</src.rf>
@@ -285,7 +285,7 @@
 <LM>w#w-lnd92252-034-p3s2w25</LM>
 </w.rf>
 <form>Jang</form>
-<tag lemma="Jang_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jang-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-034-p3s2w26">
 <src.rf>manual</src.rf>
@@ -513,7 +513,7 @@
 <LM>w#w-lnd92252-034-p3s3w5</LM>
 </w.rf>
 <form>Jangových</form>
-<tag lemma="Jangův_;Y_^(*2)" src="orig" selected="1">AUNP2M---------</tag>
+<tag lemma="Jangův-1_;Y_^(*4-1)" src="orig" selected="1">AUNP2M---------</tag>
 </m>
 <m id="m-lnd92252-034-p3s3w6">
 <src.rf>manual</src.rf>
@@ -947,7 +947,7 @@
 <LM>w#w-lnd92252-034-p3s4w33</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-lnd92252-034-p3s4w34">
 <src.rf>manual</src.rf>

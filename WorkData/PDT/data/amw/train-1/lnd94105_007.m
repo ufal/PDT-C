@@ -51,7 +51,7 @@
 <LM>w#w-lnd94105-007-p1s1w5</LM>
 </w.rf>
 <form>převzetí</form>
-<tag lemma="převzetí_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="převzetí_^(*3ít)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-lnd94105-007-p1s1w6">
 <src.rf>manual</src.rf>
@@ -222,7 +222,7 @@
 <AM lemma="dvoudenní" src="orig">AAIS4----1A----</AM>
 <AM lemma="dva`2" src="auto">ClXP2----------</AM>
 <AM lemma="dva`2" src="auto" recommended="1">ClXP6----------</AM>
-<AM lemma="dva-2`2" src="manual" selected="1">S2--------A----</AM>
+<AM lemma="dvou`2" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-007-p1s3w16">
@@ -319,7 +319,7 @@
 <LM>w#w-lnd94105-007-p1s3w27</LM>
 </w.rf>
 <form>převzetí</form>
-<tag lemma="převzetí_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="převzetí_^(*3ít)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-lnd94105-007-p1s3w28">
 <src.rf>manual</src.rf>
@@ -497,7 +497,7 @@
 <LM>w#w-lnd94105-007-p1s4w7</LM>
 </w.rf>
 <form>předání</form>
-<tag lemma="předání-3_^(někomu_něco)_(*5at-3)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="předání_^(*3at)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-lnd94105-007-p1s4w8">
 <src.rf>manual</src.rf>

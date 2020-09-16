@@ -417,7 +417,7 @@
 <LM>w#w-lnd92251-066-p3s3w16</LM>
 </w.rf>
 <form>stanovené</form>
-<tag lemma="stanovený_^(určit)_(*3it)" src="orig" selected="1">AAIP1----1A----</tag>
+<tag lemma="stanovený_^(*3it)" src="orig" selected="1">AAIP1----1A----</tag>
 </m>
 <m id="m-lnd92251-066-p3s3w17">
 <src.rf>manual</src.rf>
@@ -539,7 +539,7 @@
 <LM>w#w-lnd92251-066-p3s4w8</LM>
 </w.rf>
 <form>zaměstnávání</form>
-<tag lemma="zaměstnávání-1_^(všeob._význam:_činnost,_zaměstnání)_(*5at-1)" src="auto" selected="1">NNNS2-----A----</tag>
+<tag lemma="zaměstnávání_^(*3at)" src="auto" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-lnd92251-066-p3s4w9">
 <src.rf>manual</src.rf>
@@ -980,7 +980,7 @@
 <LM>w#w-lnd92251-066-p3s7w4</LM>
 </w.rf>
 <form>nezaměstnanosti</form>
-<tag lemma="nezaměstnanost-2_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="nezaměstnanost_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-lnd92251-066-p3s7w5">
 <src.rf>manual</src.rf>

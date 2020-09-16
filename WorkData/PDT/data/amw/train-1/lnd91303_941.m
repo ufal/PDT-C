@@ -145,7 +145,7 @@
 <LM>w#w-lnd91303-941-p3s1Bw4</LM>
 </w.rf>
 <form>hnutí</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNP1-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNP1-----A----</tag>
 </m>
 <m id="m-lnd91303-941-p3s1Bw5">
 <src.rf>manual</src.rf>

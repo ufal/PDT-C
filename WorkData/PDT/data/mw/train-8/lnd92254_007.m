@@ -323,7 +323,7 @@
 <LM>w#w-lnd92254-007-p3s3w13</LM>
 </w.rf>
 <form>spravedlnosti</form>
-<tag lemma="spravedlnost_^(*3ý)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="spravedlnost-1_^(*5ý-1)" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92254-007-p3s3w14">
 <src.rf>manual</src.rf>

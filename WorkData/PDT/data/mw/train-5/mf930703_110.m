@@ -219,7 +219,7 @@
 <LM>w#w-mf930703-110-p2s1w20</LM>
 </w.rf>
 <form>přijetím</form>
-<tag lemma="přijetí_^(*3mout)" src="auto" selected="1">NNNS7-----A----</tag>
+<tag lemma="přijetí_^(*1)_(*3mout)" src="auto" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-mf930703-110-p2s1w21">
 <src.rf>manual</src.rf>
@@ -227,7 +227,7 @@
 <LM>w#w-mf930703-110-p2s1w21</LM>
 </w.rf>
 <form>zpřísněného</form>
-<tag lemma="zpřísněný_^(*3it)" src="orig" selected="1">AAIS2----1A----</tag>
+<tag lemma="zpřísněný_^(*2t)_(*3it)" src="orig" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-mf930703-110-p2s1w22">
 <src.rf>manual</src.rf>

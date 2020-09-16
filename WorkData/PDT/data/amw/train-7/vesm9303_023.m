@@ -22,7 +22,7 @@
 <tag>
 <AM lemma="konsensus_,t" src="auto">NNIS1-----A----</AM>
 <AM lemma="konsensus_,s_^(^DD**konsenzus)" src="manual">NNIS1-----A----</AM>
-<AM lemma="konsensus_,s_^(^DD**konsenz)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="konsensus_,s_^(^DD**konsenzus)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 </s>
@@ -92,7 +92,7 @@
 <LM>w#w-vesm9303-023-p2s1w8</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8YP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8YP4---------1</tag>
 </m>
 <m id="m-vesm9303-023-p2s1w9">
 <src.rf>manual</src.rf>
@@ -467,7 +467,7 @@
 <LM>w#w-vesm9303-023-p2s3w9</LM>
 </w.rf>
 <form>spjatá</form>
-<tag lemma="spjatý_^(*5epnout)" src="orig" selected="1">AANP1----1A----</tag>
+<tag lemma="spjatý" src="orig" selected="1">AANP1----1A----</tag>
 </m>
 <m id="m-vesm9303-023-p2s3w10">
 <src.rf>manual</src.rf>
@@ -507,7 +507,7 @@
 <LM>w#w-vesm9303-023-p2s3w14</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-vesm9303-023-p2s3w15">
 <src.rf>manual</src.rf>
@@ -557,7 +557,7 @@
 <LM>w#w-vesm9303-023-p2s4w4</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-vesm9303-023-p2s4w5">
 <src.rf>manual</src.rf>
@@ -632,7 +632,7 @@
 <tag>
 <AM lemma="konsensus_,t" src="auto">NNIS1-----A----</AM>
 <AM lemma="konsensus_,s_^(^DD**konsenzus)" src="manual">NNIS1-----A----</AM>
-<AM lemma="konsensus_,s_^(^DD**konsenz)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="konsensus_,s_^(^DD**konsenzus)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-023-p2s4w14">
@@ -861,7 +861,7 @@
 <tag>
 <AM lemma="konsens" src="orig">NNIS1-----A----</AM>
 <AM lemma="konsenzus" src="manual">NNIS1-----A----</AM>
-<AM lemma="konsenzus_,s_^(^DD**konsenz)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="konsenzus" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-023-p2s5w27">
@@ -1498,7 +1498,7 @@
 <tag>
 <AM lemma="konsensus_,t" src="auto">NNIS1-----A----</AM>
 <AM lemma="konsensus_,s_^(^DD**konsenzus)" src="manual">NNIS1-----A----</AM>
-<AM lemma="konsensus_,s_^(^DD**konsenz)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="konsensus_,s_^(^DD**konsenzus)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-023-p3s2Bw7">
@@ -1606,7 +1606,7 @@
 <tag>
 <AM lemma="konsensus_,t" src="auto">NNIS4-----A----</AM>
 <AM lemma="konsensus_,s_^(^DD**konsenzus)" src="manual">NNIS4-----A----</AM>
-<AM lemma="konsensus_,s_^(^DD**konsenz)" src="manual" selected="1">NNIS4-----A----</AM>
+<AM lemma="konsensus_,s_^(^DD**konsenzus)" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-023-p3s2Bw20">
@@ -1923,7 +1923,7 @@
 <LM>w#w-vesm9303-023-p3s3w30</LM>
 </w.rf>
 <form>třeba</form>
-<tag lemma="třeba-2" src="auto" selected="1">Db-------------</tag>
+<tag lemma="třeba-1" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-vesm9303-023-p3s3w31">
 <src.rf>manual</src.rf>
@@ -2006,7 +2006,7 @@
 <tag>
 <AM lemma="konsensus_,t" src="auto">NNIS3-----A----</AM>
 <AM lemma="konsensus_,s_^(^DD**konsenzus)" src="manual">NNIS3-----A----</AM>
-<AM lemma="konsensus_,s_^(^DD**konsenz)" src="manual" selected="1">NNIS3-----A----</AM>
+<AM lemma="konsensus_,s_^(^DD**konsenzus)" src="manual" selected="1">NNIS3-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-023-p3s3w41">
@@ -2074,7 +2074,7 @@
 <tag>
 <AM lemma="konsensus_,t" src="auto">NNIS3-----A----</AM>
 <AM lemma="konsensus_,s_^(^DD**konsenzus)" src="manual">NNIS3-----A----</AM>
-<AM lemma="konsensus_,s_^(^DD**konsenz)" src="manual" selected="1">NNIS3-----A----</AM>
+<AM lemma="konsensus_,s_^(^DD**konsenzus)" src="manual" selected="1">NNIS3-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-023-p3s3w49">
@@ -2134,7 +2134,7 @@
 <tag>
 <AM lemma="konsensus_,t" src="auto">NNIS1-----A----</AM>
 <AM lemma="konsensus_,s_^(^DD**konsenzus)" src="manual">NNIS1-----A----</AM>
-<AM lemma="konsensus_,s_^(^DD**konsenz)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="konsensus_,s_^(^DD**konsenzus)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-023-p3s3w56">
@@ -2252,7 +2252,7 @@
 <tag>
 <AM lemma="konsensus_,t" src="auto">NNIS1-----A----</AM>
 <AM lemma="konsensus_,s_^(^DD**konsenzus)" src="manual">NNIS1-----A----</AM>
-<AM lemma="konsensus_,s_^(^DD**konsenz)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="konsensus_,s_^(^DD**konsenzus)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-023-p4s1w4">
@@ -2371,7 +2371,7 @@
 <tag>
 <AM lemma="konsensus_,t" src="auto">NNIS4-----A----</AM>
 <AM lemma="konsensus_,s_^(^DD**konsenzus)" src="manual">NNIS4-----A----</AM>
-<AM lemma="konsensus_,s_^(^DD**konsenz)" src="manual" selected="1">NNIS4-----A----</AM>
+<AM lemma="konsensus_,s_^(^DD**konsenzus)" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-023-p4s1w18">
@@ -2471,7 +2471,7 @@
 <tag>
 <AM lemma="konsensus_,t" src="auto">NNIS4-----A----</AM>
 <AM lemma="konsensus_,s_^(^DD**konsenzus)" src="manual">NNIS4-----A----</AM>
-<AM lemma="konsensus_,s_^(^DD**konsenz)" src="manual" selected="1">NNIS4-----A----</AM>
+<AM lemma="konsensus_,s_^(^DD**konsenzus)" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-023-p4s1w30">
@@ -2802,7 +2802,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-023-p4s3w7">
@@ -2835,7 +2835,7 @@
 <LM>w#w-vesm9303-023-p4s3w10</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-vesm9303-023-p4s3w11">
 <src.rf>manual</src.rf>
@@ -2875,7 +2875,7 @@
 <LM>w#w-vesm9303-023-p4s3w15</LM>
 </w.rf>
 <form>daném</form>
-<tag lemma="daný_^(*3át)" src="auto" selected="1">AAIS6----1A----</tag>
+<tag lemma="daný-1_^(*5át-1)" src="auto" selected="1">AAIS6----1A----</tag>
 </m>
 <m id="m-vesm9303-023-p4s3w16">
 <src.rf>manual</src.rf>
@@ -2915,7 +2915,7 @@
 <LM>w#w-vesm9303-023-p4s3w20</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-vesm9303-023-p4s3w21">
 <src.rf>manual</src.rf>
@@ -3254,7 +3254,7 @@
 <tag>
 <AM lemma="konsensus_,t" src="auto">NNIS1-----A----</AM>
 <AM lemma="konsensus_,s_^(^DD**konsenzus)" src="manual">NNIS1-----A----</AM>
-<AM lemma="konsensus_,s_^(^DD**konsenz)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="konsensus_,s_^(^DD**konsenzus)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-023-p4s4w11">
@@ -3345,7 +3345,7 @@
 <LM>w#w-vesm9303-023-p5s1w1</LM>
 </w.rf>
 <form>Můj</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSYS1-S1-------</tag>
+<tag lemma="můj" src="orig" selected="1">PSYS1-S1-------</tag>
 </m>
 <m id="m-vesm9303-023-p5s1w2">
 <src.rf>manual</src.rf>
@@ -3380,7 +3380,7 @@
 <tag>
 <AM lemma="konsensus_,t" src="auto">NNIS1-----A----</AM>
 <AM lemma="konsensus_,s_^(^DD**konsenzus)" src="manual">NNIS1-----A----</AM>
-<AM lemma="konsensus_,s_^(^DD**konsenz)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="konsensus_,s_^(^DD**konsenzus)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-023-p5s1w6">
@@ -3555,7 +3555,7 @@
 <tag>
 <AM lemma="konsens" src="orig">NNIS1-----A----</AM>
 <AM lemma="konsenzus" src="manual">NNIS1-----A----</AM>
-<AM lemma="konsenzus_,s_^(^DD**konsenz)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="konsenzus" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-023-p5s1w27">
@@ -3686,7 +3686,7 @@
 <LM>w#w-vesm9303-023-p5s2w3</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-vesm9303-023-p5s2w4">
 <src.rf>manual</src.rf>
@@ -3849,7 +3849,7 @@
 <LM>w#w-vesm9303-023-p5s2w23</LM>
 </w.rf>
 <form>rady</form>
-<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-vesm9303-023-p5s2w24">
 <src.rf>manual</src.rf>
@@ -4667,7 +4667,7 @@
 <LM>w#w-vesm9303-023-p5s6w4</LM>
 </w.rf>
 <form>brání</form>
-<tag lemma="bránit_^(klást_překážky)" src="auto" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="bránit" src="auto" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-vesm9303-023-p5s6w5">
 <src.rf>manual</src.rf>
@@ -4718,7 +4718,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-023-p5s6w11">
@@ -4823,7 +4823,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -4892,7 +4892,7 @@
 <tag>
 <AM lemma="konsensus_,t" src="auto">NNIS1-----A----</AM>
 <AM lemma="konsensus_,s_^(^DD**konsenzus)" src="manual">NNIS1-----A----</AM>
-<AM lemma="konsensus_,s_^(^DD**konsenz)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="konsensus_,s_^(^DD**konsenzus)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-023-p6s1w12">
@@ -4925,7 +4925,7 @@
 <LM>w#w-vesm9303-023-p6s1w15</LM>
 </w.rf>
 <form>zkrácená</form>
-<tag lemma="zkrácený_,a_^(*2t)" src="auto" selected="1">AAFS1----1A----</tag>
+<tag lemma="zkrácený_^(*4tit)" src="auto" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-vesm9303-023-p6s1w16">
 <src.rf>manual</src.rf>
@@ -5341,7 +5341,7 @@
 <LM>w#w-vesm9303-023-p7s1w10</LM>
 </w.rf>
 <form>našeho</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSZS2-P1-------</tag>
 </m>
 <m id="m-vesm9303-023-p7s1w11">
 <src.rf>manual</src.rf>
@@ -5375,7 +5375,7 @@
 <LM>w#w-vesm9303-023-p7s2w2</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-vesm9303-023-p7s2w3">
 <src.rf>manual</src.rf>
@@ -5402,7 +5402,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-023-p7s2w6">
@@ -5612,7 +5612,7 @@
 <tag>
 <AM lemma="konsensus_,t" src="auto">NNIS2-----A----</AM>
 <AM lemma="konsensus_,s_^(^DD**konsenzus)" src="manual">NNIS2-----A----</AM>
-<AM lemma="konsensus_,s_^(^DD**konsenz)" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="konsensus_,s_^(^DD**konsenzus)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-023-p7s3w23">
@@ -5844,7 +5844,7 @@
 <LM>w#w-vesm9303-023-p7s5w1</LM>
 </w.rf>
 <form>Svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-vesm9303-023-p7s5w2">
 <src.rf>manual</src.rf>
@@ -5860,7 +5860,7 @@
 <LM>w#w-vesm9303-023-p7s5w3</LM>
 </w.rf>
 <form>roli</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="role_^(svitek_poslání_pozemek)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-vesm9303-023-p7s5w4">
 <src.rf>manual</src.rf>
@@ -5871,7 +5871,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-023-p7s5w5">

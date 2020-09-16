@@ -678,7 +678,7 @@
 <LM>w#w-mf920923-086-p4s1Aw2</LM>
 </w.rf>
 <form>DNE</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920923-086-p4s1Aw3">
 <src.rf>manual</src.rf>

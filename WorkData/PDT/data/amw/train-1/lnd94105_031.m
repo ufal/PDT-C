@@ -96,7 +96,7 @@
 <LM>w#w-lnd94105-031-p1s3w5</LM>
 </w.rf>
 <form>Zlatého</form>
-<tag lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAMS2----1A----</tag>
+<tag lemma="zlatý-1_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAMS2----1A----</tag>
 </m>
 <m id="m-lnd94105-031-p1s3w6">
 <src.rf>manual</src.rf>
@@ -179,7 +179,7 @@
 <LM>w#w-lnd94105-031-p1s3w15</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-lnd94105-031-p1s3w16">
 <src.rf>manual</src.rf>
@@ -363,7 +363,7 @@
 <LM>w#w-lnd94105-031-p1s4w13</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-lnd94105-031-p1s4w14">
 <src.rf>manual</src.rf>
@@ -491,7 +491,7 @@
 <LM>w#w-lnd94105-031-p1s5w13</LM>
 </w.rf>
 <form>navrženou</form>
-<tag lemma="navržený_^(*4hnout)" src="orig" selected="1">AAFS4----1A----</tag>
+<tag lemma="navržený" src="orig" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-lnd94105-031-p1s5w14">
 <src.rf>manual</src.rf>
@@ -1542,7 +1542,7 @@
 <LM>w#w-lnd94105-031-p1s11w11</LM>
 </w.rf>
 <form>stanovených</form>
-<tag lemma="stanovený_^(určit)_(*3it)" src="orig" selected="1">AAIP6----1A----</tag>
+<tag lemma="stanovený_^(*3it)" src="orig" selected="1">AAIP6----1A----</tag>
 </m>
 <m id="m-lnd94105-031-p1s11w12">
 <src.rf>manual</src.rf>
@@ -1633,7 +1633,7 @@
 <LM>w#w-lnd94105-031-p1s11w22</LM>
 </w.rf>
 <form>prestiž</form>
-<tag lemma="prestiž" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="prestiž-1" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-lnd94105-031-p1s11w23">
 <src.rf>manual</src.rf>

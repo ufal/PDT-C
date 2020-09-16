@@ -137,7 +137,7 @@
 <tag>
 <AM lemma="vydávaný-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*7at-1)" src="orig">AAMS2----1N----</AM>
 <AM lemma="vydávaný-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*4t-1)" src="auto">AAIS2----1N----</AM>
-<AM lemma="vydávaný-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*4t-1)" src="auto" selected="1">AAMS2----1N----</AM>
+<AM lemma="vydávaný_^(*2t)" src="auto" selected="1">AAMS2----1N----</AM>
 <AM lemma="vydávaný-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*4t-1)" src="auto">AAMS4----1N----</AM>
 <AM lemma="vydávaný-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*4t-1)" src="auto">AANS2----1N----</AM>
 <AM lemma="vydávaný-2_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)_(*4t-2)" src="auto">AAIS2----1N----</AM>
@@ -293,7 +293,7 @@
 <LM>w#w-mf920902-037-p1s1Bw4</LM>
 </w.rf>
 <form>Maryška</form>
-<tag lemma="Maryška_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Maryška-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-037-p1s1Bw5">
 <src.rf>manual</src.rf>
@@ -312,7 +312,7 @@
 <tag>
 <AM lemma="keto_,t" src="orig">NNXXX-----A----</AM>
 <AM lemma="Keta_;G" src="auto" recommended="1">NNFS5-----A----</AM>
-<AM lemma="keto-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Keto-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf920902-037-p1s1Bw7">
@@ -746,7 +746,7 @@
 <LM>w#w-mf920902-037-p1s1Cw13</LM>
 </w.rf>
 <form>roli</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="role_^(svitek_poslání_pozemek)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf920902-037-p1s1Cw14">
 <src.rf>manual</src.rf>
@@ -818,7 +818,7 @@
 <LM>w#w-mf920902-037-p1s1Cw22</LM>
 </w.rf>
 <form>daném</form>
-<tag lemma="daný_^(*3át)" src="auto" selected="1">AAIS6----1A----</tag>
+<tag lemma="daný-1_^(*5át-1)" src="auto" selected="1">AAIS6----1A----</tag>
 </m>
 <m id="m-mf920902-037-p1s1Cw23">
 <src.rf>manual</src.rf>
@@ -842,7 +842,7 @@
 <LM>w#w-mf920902-037-p1s1Cw25</LM>
 </w.rf>
 <form>Zlatý</form>
-<tag lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAIS1----1A----</tag>
+<tag lemma="zlatý-1_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-mf920902-037-p1s1Cw26">
 <src.rf>manual</src.rf>
@@ -892,7 +892,7 @@
 <LM>w#w-mf920902-037-p1s2w4</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP6-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP6-P1-------</tag>
 </m>
 <m id="m-mf920902-037-p1s2w5">
 <src.rf>manual</src.rf>
@@ -916,7 +916,7 @@
 <LM>w#w-mf920902-037-p1s2w7</LM>
 </w.rf>
 <form>Interamy</form>
-<tag lemma="Interama_;Y" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Interama_;Y_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920902-037-p1s2w8">
 <src.rf>manual</src.rf>

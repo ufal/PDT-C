@@ -174,7 +174,7 @@
 <LM>w#w-ln94206-95-p1s1w20</LM>
 </w.rf>
 <form>umění</form>
-<tag lemma="umění_^(mít_schopnost_něco_dělat)_(*2t)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="umění_^(*2t)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln94206-95-p1s1w21">
 <src.rf>manual</src.rf>
@@ -432,7 +432,7 @@
 <LM>w#w-ln94206-95-p1s2w23</LM>
 </w.rf>
 <form>jehož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P1XXXZS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXZS3-------</tag>
 </m>
 <m id="m-ln94206-95-p1s2w24">
 <src.rf>manual</src.rf>
@@ -550,7 +550,7 @@
 <LM>w#w-ln94206-95-p1s2w37</LM>
 </w.rf>
 <form>prvních</form>
-<tag lemma="první" src="orig" selected="1">CrFP6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFP6----------</tag>
 </m>
 <m id="m-ln94206-95-p1s2w38">
 <src.rf>manual</src.rf>
@@ -622,7 +622,7 @@
 <LM>w#w-ln94206-95-p1s2w46</LM>
 </w.rf>
 <form>potřeba</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94206-95-p1s2w47">
 <src.rf>manual</src.rf>

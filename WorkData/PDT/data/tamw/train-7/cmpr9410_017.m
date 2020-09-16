@@ -218,7 +218,7 @@
 <LM>w#w-cmpr9410-017-p4s1w12</LM>
 </w.rf>
 <form>manažerů</form>
-<tag lemma="manažer" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="manažer-1" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-cmpr9410-017-p4s1w13">
 <src.rf>manual</src.rf>
@@ -370,7 +370,7 @@
 <LM>w#w-cmpr9410-017-p4s2w17</LM>
 </w.rf>
 <form>zaměstnání</form>
-<tag lemma="zaměstnání-1_^(všeob._význam:_činnost,_zaměstnání)_(*5at-1)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="zaměstnání_^(*3at)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-cmpr9410-017-p4s2w18">
 <src.rf>manual</src.rf>
@@ -540,7 +540,7 @@
 <LM>w#w-cmpr9410-017-p4s3w20</LM>
 </w.rf>
 <form>lepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AANS4----2A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AANS4----2A----</tag>
 </m>
 <m id="m-cmpr9410-017-p4s3w21">
 <src.rf>manual</src.rf>
@@ -556,7 +556,7 @@
 <LM>w#w-cmpr9410-017-p4s3w22</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-cmpr9410-017-p4s3w23">
 <src.rf>manual</src.rf>
@@ -824,7 +824,7 @@
 <LM>w#w-cmpr9410-017-p5s2w12</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-cmpr9410-017-p5s2w13">
 <src.rf>manual</src.rf>
@@ -884,7 +884,7 @@
 <LM>w#w-cmpr9410-017-p5s2w19</LM>
 </w.rf>
 <form>manažeři</form>
-<tag lemma="manažer" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="manažer-1" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-cmpr9410-017-p5s2w20">
 <src.rf>manual</src.rf>
@@ -908,7 +908,7 @@
 <LM>w#w-cmpr9410-017-p5s2w22</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS2---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS2---------1</tag>
 </m>
 <m id="m-cmpr9410-017-p5s2w23">
 <src.rf>manual</src.rf>
@@ -960,7 +960,7 @@
 <LM>w#w-cmpr9410-017-p7s1w1</LM>
 </w.rf>
 <form>Naše</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSHP1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSHP1-P1-------</tag>
 </m>
 <m id="m-cmpr9410-017-p7s1w2">
 <src.rf>manual</src.rf>
@@ -1458,7 +1458,7 @@
 <LM>w#w-cmpr9410-017-p8s1w3</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8NS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8NS4---------1</tag>
 </m>
 <m id="m-cmpr9410-017-p8s1w4">
 <src.rf>manual</src.rf>
@@ -1474,7 +1474,7 @@
 <LM>w#w-cmpr9410-017-p8s1w5</LM>
 </w.rf>
 <form>manažeři</form>
-<tag lemma="manažer" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="manažer-1" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-cmpr9410-017-p8s1w6">
 <src.rf>manual</src.rf>
@@ -1498,7 +1498,7 @@
 <LM>w#w-cmpr9410-017-p8s1w8</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-cmpr9410-017-p8s1w9">
 <src.rf>manual</src.rf>
@@ -1546,7 +1546,7 @@
 <LM>w#w-cmpr9410-017-p8s1w14</LM>
 </w.rf>
 <form>brání</form>
-<tag lemma="bránit_^(klást_překážky)" src="auto" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="bránit" src="auto" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9410-017-p8s1w15">
 <src.rf>manual</src.rf>
@@ -1570,7 +1570,7 @@
 <LM>w#w-cmpr9410-017-p8s1w17</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FP4---------1</tag>
 </m>
 <m id="m-cmpr9410-017-p8s1w18">
 <src.rf>manual</src.rf>
@@ -1898,7 +1898,7 @@
 <LM>w#w-cmpr9410-017-p8s3w10</LM>
 </w.rf>
 <form>manažerům</form>
-<tag lemma="manažer" src="orig" selected="1">NNMP3-----A----</tag>
+<tag lemma="manažer-1" src="orig" selected="1">NNMP3-----A----</tag>
 </m>
 <m id="m-cmpr9410-017-p8s3w11">
 <src.rf>manual</src.rf>
@@ -2026,7 +2026,7 @@
 <LM>w#w-cmpr9410-017-p8s3w27</LM>
 </w.rf>
 <form>zaměstnání</form>
-<tag lemma="zaměstnání-1_^(všeob._význam:_činnost,_zaměstnání)_(*5at-1)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="zaměstnání_^(*3at)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-cmpr9410-017-p8s3w28">
 <src.rf>manual</src.rf>
@@ -2074,7 +2074,7 @@
 <LM>w#w-cmpr9410-017-p8s3w33</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-cmpr9410-017-p8s3w34">
 <src.rf>manual</src.rf>
@@ -2156,7 +2156,7 @@
 <LM>w#w-cmpr9410-017-p9s1w7</LM>
 </w.rf>
 <form>naší</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS6-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS6-P1-------</tag>
 </m>
 <m id="m-cmpr9410-017-p9s1w8">
 <src.rf>manual</src.rf>
@@ -2456,7 +2456,7 @@
 <LM>w#w-cmpr9410-017-p9s3w14</LM>
 </w.rf>
 <form>manažeři</form>
-<tag lemma="manažer" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="manažer-1" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-cmpr9410-017-p9s3w15">
 <src.rf>manual</src.rf>
@@ -2548,7 +2548,7 @@
 <LM>w#w-cmpr9410-017-p11s1w5</LM>
 </w.rf>
 <form>zaměstnání</form>
-<tag lemma="zaměstnání-1_^(všeob._význam:_činnost,_zaměstnání)_(*5at-1)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="zaměstnání_^(*3at)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-cmpr9410-017-p11s1w6">
 <src.rf>manual</src.rf>
@@ -2612,7 +2612,7 @@
 <LM>w#w-cmpr9410-017-p11s1w13</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-cmpr9410-017-p11s1w14">
 <src.rf>manual</src.rf>
@@ -2636,7 +2636,7 @@
 <LM>w#w-cmpr9410-017-p11s1w16</LM>
 </w.rf>
 <form>lepšímu</form>
-<tag lemma="dobrý" src="orig" selected="1">AANS3----2A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AANS3----2A----</tag>
 </m>
 <m id="m-cmpr9410-017-p11s1w17">
 <src.rf>manual</src.rf>
@@ -2652,7 +2652,7 @@
 <LM>w#w-cmpr9410-017-p11s1w18</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-cmpr9410-017-p11s1w19">
 <src.rf>manual</src.rf>
@@ -3083,7 +3083,7 @@
 <LM>w#w-cmpr9410-017-p12s1w12</LM>
 </w.rf>
 <form>zaměstnání</form>
-<tag lemma="zaměstnání-1_^(všeob._význam:_činnost,_zaměstnání)_(*5at-1)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="zaměstnání_^(*3at)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-cmpr9410-017-p12s1w13">
 <src.rf>manual</src.rf>
@@ -3171,7 +3171,7 @@
 <LM>w#w-cmpr9410-017-p12s1w23</LM>
 </w.rf>
 <form>pozornost</form>
-<tag lemma="pozornost-1_^(všímavý,_milý,_soustředěný)_(*5ý-1)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="pozornost-1_^(*5ý-1)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-cmpr9410-017-p12s1w24">
 <src.rf>manual</src.rf>
@@ -3211,7 +3211,7 @@
 <LM>w#w-cmpr9410-017-p12s1w28</LM>
 </w.rf>
 <form>nalezení</form>
-<tag lemma="nalezení-2_^(*7ézt-2)" src="auto" selected="1">NNNS3-----A----</tag>
+<tag lemma="nalezení" src="auto" selected="1">NNNS3-----A----</tag>
 </m>
 <m id="m-cmpr9410-017-p12s1w29">
 <src.rf>manual</src.rf>
@@ -3291,7 +3291,7 @@
 <LM>w#w-cmpr9410-017-p12s1w38</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-cmpr9410-017-p12s1w39">
 <src.rf>manual</src.rf>
@@ -3455,7 +3455,7 @@
 <LM>w#w-cmpr9410-017-p13s1w2</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-cmpr9410-017-p13s1w3">
 <src.rf>manual</src.rf>
@@ -3514,7 +3514,7 @@
 <LM>w#w-cmpr9410-017-p13s1w9</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-cmpr9410-017-p13s1w10">
 <src.rf>manual</src.rf>
@@ -3717,7 +3717,7 @@
 <LM>w#w-cmpr9410-017-p13s2w14</LM>
 </w.rf>
 <form>manažeři</form>
-<tag lemma="manažer" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="manažer-1" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-cmpr9410-017-p13s2w15">
 <src.rf>manual</src.rf>
@@ -3999,7 +3999,7 @@
 <LM>w#w-cmpr9410-017-p14s1w18</LM>
 </w.rf>
 <form>zaměstnání</form>
-<tag lemma="zaměstnání-1_^(všeob._význam:_činnost,_zaměstnání)_(*5at-1)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="zaměstnání_^(*3at)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-cmpr9410-017-p14s1w19">
 <src.rf>manual</src.rf>
@@ -4074,7 +4074,7 @@
 <LM>w#w-cmpr9410-017-p14s1w27</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-cmpr9410-017-p14s1w28">
 <src.rf>manual</src.rf>
@@ -4101,7 +4101,7 @@
 <LM>w#w-cmpr9410-017-p14s1w30</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-cmpr9410-017-p14s1w31">
 <src.rf>manual</src.rf>
@@ -4566,7 +4566,7 @@
 <LM>w#w-cmpr9410-017-p19s1Bw1</LM>
 </w.rf>
 <form>Manažeři</form>
-<tag lemma="manažer" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="manažer-1" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-cmpr9410-017-p19s1Bw2">
 <src.rf>manual</src.rf>
@@ -4625,7 +4625,7 @@
 <LM>w#w-cmpr9410-017-p19s1Bw8</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS7----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS7----------</tag>
 </m>
 <m id="m-cmpr9410-017-p19s1Bw9">
 <src.rf>manual</src.rf>
@@ -4689,7 +4689,7 @@
 <LM>w#w-cmpr9410-017-p19s1Bw16</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-cmpr9410-017-p19s1Bw17">
 <src.rf>manual</src.rf>

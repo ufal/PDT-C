@@ -563,7 +563,7 @@
 <AM lemma="let" src="auto">NNIP4-----A----</AM>
 <AM lemma="let" src="auto">NNIP5-----A----</AM>
 <AM lemma="let" src="auto">NNIP7-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP7-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP7-----A----</AM>
 </tag>
 </m>
 <m id="m124-422-440">
@@ -1075,7 +1075,7 @@
 </w.rf>
 <form>Santiago</form>
 <tag>
-<AM lemma="Santiago_;G" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="Santiago-1_;G" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="Santiago_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Santiago_;G" src="auto">NNNS5-----A----</AM>
 <AM lemma="Santiago_;Y_,t" src="auto">NNMS1-----A----</AM>
@@ -1242,7 +1242,7 @@
 </w.rf>
 <form>Ne</form>
 <tag>
-<AM lemma="ne" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ne-1" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="neděle_:B" src="auto">NNFXX-----A---8</AM>
 </tag>
 </m>
@@ -1416,7 +1416,7 @@
 <LM>w#w-d1t1074-4</LM>
 </w.rf>
 <form>daly</form>
-<tag lemma="dát" src="auto" recommended="1">VpTP----R-AAP--</tag>
+<tag lemma="dát-1" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m124-d1t1074-5">
 <w.rf>
@@ -1744,7 +1744,7 @@
 <form>nás</form>
 <tag>
 <AM lemma="já" src="auto">PP-P2--1-------</AM>
-<AM lemma="já" src="auto" recommended="1">PP-P4--1-------</AM>
+<AM lemma="my" src="auto" recommended="1">PP-P4--1-------</AM>
 <AM lemma="já" src="auto">PP-P6--1-------</AM>
 </tag>
 </m>
@@ -2288,7 +2288,7 @@
 <AM lemma="let" src="auto">NNIP4-----A----</AM>
 <AM lemma="let" src="auto">NNIP5-----A----</AM>
 <AM lemma="let" src="auto">NNIP7-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP7-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP7-----A----</AM>
 </tag>
 </m>
 <m id="m124-d-id121314-punct">
@@ -2694,7 +2694,7 @@
 </w.rf>
 <form>My</form>
 <tag>
-<AM lemma="já" src="auto" recommended="1">PP-P1--1-------</AM>
+<AM lemma="my" src="auto" recommended="1">PP-P1--1-------</AM>
 <AM lemma="já" src="auto">PP-P5--1-------</AM>
 <AM lemma="my-77" src="auto">F%-------------</AM>
 </tag>
@@ -2731,7 +2731,7 @@
 <tag>
 <AM lemma="jenom-1" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="jenom-2_^(pouze)" src="auto">Db-------------</AM>
-<AM lemma="jenom-2_,s_^(^DD**jen-4)_(pouze)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="jenom-2_^(pouze)" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m124-d1t1109-22">
@@ -2870,7 +2870,7 @@
 <LM>w#w-d1t1109-37</LM>
 </w.rf>
 <form>vypadají</form>
-<tag lemma="vypadat" src="auto" recommended="1">VB-P---3P-AAI--</tag>
+<tag lemma="vypadat-1_^(ty_vypadáš)" src="auto" recommended="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m124-d1t1109-39">
 <w.rf>
@@ -3354,7 +3354,7 @@
 <AM lemma="co-1" src="auto" recommended="1">PQ--4----------</AM>
 <AM lemma="co-2_^(cože;_ale_co)" src="auto">TT-------------</AM>
 <AM lemma="co-3_^(když:_poté/od_té_doby,_co)" src="auto">J,-------------</AM>
-<AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto" selected="1">P4XXX----------</AM>
+<AM lemma="co-4_^(který:_o_těch,_co_odešli)" src="auto" selected="1">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
 </tag>
@@ -3794,7 +3794,7 @@
 <form>tu</form>
 <tag>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" recommended="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m124-d1t1125-44">
@@ -3854,7 +3854,7 @@
 <AM lemma="zastavení-2_^(zástavní_právo)_(*5it-2)" src="auto">NNNS4-----A----</AM>
 <AM lemma="zastavení-2_^(zástavní_právo)_(*5it-2)" src="auto">NNNS5-----A----</AM>
 <AM lemma="zastavení-2_^(zástavní_právo)_(*5it-2)" src="auto">NNNS6-----A----</AM>
-<AM lemma="zastavení_^(uvést_do_klidu;;zástavní_právo)_(*3it)" src="manual" selected="1">NNNP1-----A----</AM>
+<AM lemma="zastavení_^(*3it)" src="manual" selected="1">NNNP1-----A----</AM>
 </tag>
 </m>
 <m id="m124-d-id124122-punct">
@@ -4374,7 +4374,7 @@
 <form>vás</form>
 <tag>
 <AM lemma="ty" src="auto">PP-P2--2-------</AM>
-<AM lemma="ty" src="auto" recommended="1">PP-P4--2-------</AM>
+<AM lemma="vy" src="auto" recommended="1">PP-P4--2-------</AM>
 <AM lemma="ty" src="auto">PP-P6--2-------</AM>
 </tag>
 </m>
@@ -5578,7 +5578,7 @@
 </w.rf>
 <form>nám</form>
 <tag>
-<AM lemma="já" src="auto" recommended="1">PP-P3--1-------</AM>
+<AM lemma="my" src="auto" recommended="1">PP-P3--1-------</AM>
 <AM lemma="náměstí_:B" src="auto">NNNXX-----A---8</AM>
 </tag>
 </m>
@@ -5625,7 +5625,7 @@
 <AM lemma="stanovený_^(určit)_(*3it)" src="auto">AAFS2----1A----</AM>
 <AM lemma="stanovený_^(určit)_(*3it)" src="auto">AAFS3----1A----</AM>
 <AM lemma="stanovený_^(určit)_(*3it)" src="auto">AAFS6----1A----</AM>
-<AM lemma="stanovený_^(určit)_(*3it)" src="auto" recommended="1">AAIP1----1A----</AM>
+<AM lemma="stanovený_^(*3it)" src="auto" recommended="1">AAIP1----1A----</AM>
 <AM lemma="stanovený_^(určit)_(*3it)" src="auto">AAIP4----1A----</AM>
 <AM lemma="stanovený_^(určit)_(*3it)" src="auto">AAIP5----1A----</AM>
 <AM lemma="stanovený_^(určit)_(*3it)" src="auto">AAMP4----1A----</AM>
@@ -5667,7 +5667,7 @@
 </w.rf>
 <form>dny</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIP1-----A----</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIP1-----A----</AM>
 <AM lemma="den_^(jednotka_času)" src="auto">NNIP4-----A----</AM>
 <AM lemma="den_^(jednotka_času)" src="auto">NNIP5-----A----</AM>
 <AM lemma="den_^(jednotka_času)" src="auto">NNIP7-----A----</AM>
@@ -5968,7 +5968,7 @@
 <LM>w#w-d1t1187-5</LM>
 </w.rf>
 <form>dají</form>
-<tag lemma="dát" src="auto" recommended="1">VB-P---3P-AAP--</tag>
+<tag lemma="dát-1" src="auto" recommended="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m124-d1t1187-6">
 <w.rf>
@@ -6022,7 +6022,7 @@
 <AM lemma="program-1" src="auto" recommended="1">NNIP4-----A----</AM>
 <AM lemma="program-1" src="auto">NNIP5-----A----</AM>
 <AM lemma="program-1" src="auto">NNIP7-----A----</AM>
-<AM lemma="program" src="manual" selected="1">NNIP1-----A----</AM>
+<AM lemma="program-1" src="manual" selected="1">NNIP1-----A----</AM>
 </tag>
 </m>
 <m id="m124-d-m-d1e1165-x3-punct-punct">

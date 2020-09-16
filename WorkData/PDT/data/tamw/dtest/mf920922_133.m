@@ -89,7 +89,7 @@
 <LM>w#w-mf920922-133-p4s1w1</LM>
 </w.rf>
 <form>Tallin</form>
-<tag lemma="Tallin_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Tallin_;G_,s_^(^DD**Tallinn)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920922-133-p4s1w2">
 <src.rf>manual</src.rf>
@@ -537,7 +537,7 @@
 <LM>w#w-mf920922-133-p4s4w2</LM>
 </w.rf>
 <form>druhém</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-mf920922-133-p4s4w3">
 <src.rf>manual</src.rf>

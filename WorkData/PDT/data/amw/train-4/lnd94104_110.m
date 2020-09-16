@@ -74,7 +74,7 @@
 <LM>w#w-lnd94104-110-p1s6w1</LM>
 </w.rf>
 <form>Salvador</form>
-<tag lemma="Salvador_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Salvador-2_;G" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94104-110-p1s6w2">
 <src.rf>manual</src.rf>

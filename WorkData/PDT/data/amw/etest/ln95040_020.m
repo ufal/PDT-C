@@ -71,7 +71,7 @@
 <LM>w#w-ln95040-020-p2s1Bw2</LM>
 </w.rf>
 <form>nejlepším</form>
-<tag lemma="dobrý" src="orig" selected="1">AANS6----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AANS6----3A----</tag>
 </m>
 <m id="m-ln95040-020-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -1010,7 +1010,7 @@
 <LM>w#w-ln95040-020-p2s6w17</LM>
 </w.rf>
 <form>prvního</form>
-<tag lemma="první" src="orig" selected="1">CrIS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS2----------</tag>
 </m>
 <m id="m-ln95040-020-p2s6w18">
 <src.rf>manual</src.rf>

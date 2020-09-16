@@ -543,7 +543,7 @@
 <LM>w#w-ln95041-053-p4s1w11</LM>
 </w.rf>
 <form>kvaší</form>
-<tag lemma="kvaš" src="auto" selected="1">NNFP2-----A----</tag>
+<tag lemma="kvaš-1" src="auto" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln95041-053-p4s1w12">
 <src.rf>manual</src.rf>
@@ -551,7 +551,7 @@
 <LM>w#w-ln95041-053-p4s1w12</LM>
 </w.rf>
 <form>Slavoje</form>
-<tag lemma="Slavoj-1_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Slavoj-1_;E_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95041-053-p4s1w13">
 <src.rf>manual</src.rf>

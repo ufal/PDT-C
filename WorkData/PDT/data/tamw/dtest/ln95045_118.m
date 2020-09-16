@@ -723,7 +723,7 @@
 <LM>w#w-ln95045-118-p3s2w11</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln95045-118-p3s2w12">
 <src.rf>manual</src.rf>
@@ -861,7 +861,7 @@
 <LM>w#w-ln95045-118-p4s1w14</LM>
 </w.rf>
 <form>ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln95045-118-p4s1w15">
 <src.rf>manual</src.rf>

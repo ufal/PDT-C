@@ -1000,7 +1000,7 @@
 <LM>w#w-ln94207-136-p3s1w8</LM>
 </w.rf>
 <form>přijetí</form>
-<tag lemma="přijetí_^(*3mout)" src="auto" selected="1">NNNS6-----A----</tag>
+<tag lemma="přijetí_^(*1)_(*3mout)" src="auto" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-ln94207-136-p3s1w9">
 <src.rf>manual</src.rf>

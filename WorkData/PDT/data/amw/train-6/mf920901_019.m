@@ -244,7 +244,7 @@
 <LM>w#w-mf920901-019-p1s1w28</LM>
 </w.rf>
 <form>směny</form>
-<tag lemma="směna-2_^(pracovní;...)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="směna_^(výměna_za_něco;pracovní)" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-mf920901-019-p1s1w29">
 <src.rf>manual</src.rf>

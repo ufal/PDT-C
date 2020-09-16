@@ -45,7 +45,7 @@
 <LM>w#w-lnd92252-091-p2s1w1</LM>
 </w.rf>
 <form>Dlouhé</form>
-<tag lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">AAIP1----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAIP1----1A----</tag>
 </m>
 <m id="m-lnd92252-091-p2s1w2">
 <src.rf>manual</src.rf>
@@ -474,7 +474,7 @@
 <LM>w#w-lnd92252-091-p2s3w15</LM>
 </w.rf>
 <form>nejlepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAIP1----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAIP1----3A----</tag>
 </m>
 <m id="m-lnd92252-091-p2s3w16">
 <src.rf>manual</src.rf>

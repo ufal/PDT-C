@@ -162,7 +162,7 @@
 <AM lemma="jeho_^(přivlast.)" src="auto">PSFXXFS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSIS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSNS4FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto" selected="1">P9XP1FS3-------</AM>
+<AM lemma="jeho" src="auto" selected="1">P9XP1FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP5FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSZS1FS3-------</AM>
@@ -1627,7 +1627,7 @@
 </w.rf>
 <form>Baltimore</form>
 <tag>
-<AM lemma="Baltimore_;G" src="auto" selected="1">NNIS1-----A----</AM>
+<AM lemma="Baltimore_;G_;m" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="Baltimore_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Baltimore_;G" src="auto">NNIS5-----A----</AM>
 <AM lemma="Baltimore_;G" src="auto" recommended="1">NNIXX-----A----</AM>

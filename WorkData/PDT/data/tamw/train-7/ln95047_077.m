@@ -332,7 +332,7 @@
 <form>Anthony</form>
 <tag>
 <AM lemma="Anthony_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Anthony_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Anthony_;Y_,s_^(^DD**Antony)" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-077-p2s2w7">
@@ -607,7 +607,7 @@
 <LM>w#w-ln95047-077-p2s3w10</LM>
 </w.rf>
 <form>činitelů</form>
-<tag lemma="činitel" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="činitel-1" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln95047-077-p2s3w11">
 <src.rf>manual</src.rf>

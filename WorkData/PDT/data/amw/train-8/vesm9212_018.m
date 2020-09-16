@@ -780,7 +780,7 @@
 <form>aidsu</form>
 <tag>
 <AM lemma="AIDS_:B_;U_,x_^(Syndrom_získaného_selhání_imunity)" src="orig">NNIS3-----A----</AM>
-<AM lemma="aids_;U_^(Syndrom_získaného_selhání_imunity)" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="aids_,s_^(^DD**AIDS-1)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-018-p28s1w7">
@@ -833,7 +833,7 @@
 <LM>w#w-vesm9212-018-p30s1w1</LM>
 </w.rf>
 <form>ZAMYŠLENÍ</form>
-<tag lemma="zamyšlení_^(*5slet)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="zamyšlení_^(*5slit)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-vesm9212-018-p30s1w2">
 <src.rf>manual</src.rf>
@@ -1122,7 +1122,7 @@
 <LM>w#w-vesm9212-018-p35s1w7</LM>
 </w.rf>
 <form>Právo</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-vesm9212-018-p35s1w8">
 <src.rf>manual</src.rf>
@@ -1174,7 +1174,7 @@
 <form>DISKUSE</form>
 <tag>
 <AM lemma="diskuse" src="orig">NNFS1-----A----</AM>
-<AM lemma="diskuse_s,_^(^DD**diskuze)" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="diskuse_,s_^(^DD**diskuze)" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 </s>
@@ -1279,7 +1279,7 @@
 <LM>w#w-vesm9212-018-p40s1w1</LM>
 </w.rf>
 <form>ESEJE</form>
-<tag lemma="esej" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="esej-2" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 </s>
 <s id="m-vesm9212-018-p41s1">
@@ -1297,7 +1297,7 @@
 <LM>w#w-vesm9212-018-p41s1w2</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-vesm9212-018-p41s1w3">
 <src.rf>manual</src.rf>
@@ -1487,7 +1487,7 @@
 <LM>w#w-vesm9212-018-p48s1w2</LM>
 </w.rf>
 <form>David</form>
-<tag lemma="David_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="David-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9212-018-p48s1w3">
 <src.rf>manual</src.rf>
@@ -1611,7 +1611,7 @@
 <form>aidsu</form>
 <tag>
 <AM lemma="AIDS_:B_;U_,x_^(Syndrom_získaného_selhání_imunity)" src="orig">NNIS3-----A----</AM>
-<AM lemma="aids_;U_^(Syndrom_získaného_selhání_imunity)" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="aids_,s_^(^DD**AIDS-1)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-018-p50s1w5">
@@ -1700,7 +1700,7 @@
 <LM>w#w-vesm9212-018-p52s1w2</LM>
 </w.rf>
 <form>baktérie</form>
-<tag lemma="baktérie" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="baktérie_,s_^(^DD**bakterie)" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-vesm9212-018-p52s1w3">
 <src.rf>manual</src.rf>
@@ -1948,7 +1948,7 @@
 <LM>w#w-vesm9212-018-p58s1w7</LM>
 </w.rf>
 <form>pavoucích</form>
-<tag lemma="pavouk" src="orig" selected="1">NNMP6-----A----</tag>
+<tag lemma="pavouk-1" src="orig" selected="1">NNMP6-----A----</tag>
 </m>
 <m id="m-vesm9212-018-p58s1w8">
 <src.rf>manual</src.rf>

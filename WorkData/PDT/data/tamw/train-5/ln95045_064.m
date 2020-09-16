@@ -93,7 +93,7 @@
 <form>extremismu</form>
 <tag>
 <AM lemma="extremismus" src="orig">NNIS6-----A----</AM>
-<AM lemma="extremismus_,s_^(^DD**extremizmus)" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="extremismus_,s_^(^DD**extrémizmus)" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-064-p1s1w11">

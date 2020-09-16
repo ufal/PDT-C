@@ -19,7 +19,7 @@
 <LM>w#w-ln94210-117-p1s1w1</LM>
 </w.rf>
 <form>Kalhoty</form>
-<tag lemma="kalhoty_^(pomn.)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="kalhoty" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-ln94210-117-p1s1w2">
 <src.rf>manual</src.rf>
@@ -189,7 +189,7 @@
 <LM>w#w-ln94210-117-p2s1Bw10</LM>
 </w.rf>
 <form>dlouhou</form>
-<tag lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">AAFS4----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-ln94210-117-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -385,7 +385,7 @@
 <LM>w#w-ln94210-117-p2s3w2</LM>
 </w.rf>
 <form>prvními</form>
-<tag lemma="první" src="orig" selected="1">CrMP7----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrMP7----------</tag>
 </m>
 <m id="m-ln94210-117-p2s3w3">
 <src.rf>manual</src.rf>
@@ -569,7 +569,7 @@
 <LM>w#w-ln94210-117-p2s4w6</LM>
 </w.rf>
 <form>kalhoty</form>
-<tag lemma="kalhoty_^(pomn.)" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="kalhoty" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-ln94210-117-p2s4w7">
 <src.rf>manual</src.rf>
@@ -886,7 +886,7 @@
 <LM>w#w-ln94210-117-p2s6w3</LM>
 </w.rf>
 <form>lepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AANS1----2A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AANS1----2A----</tag>
 </m>
 <m id="m-ln94210-117-p2s6w4">
 <src.rf>manual</src.rf>
@@ -1170,7 +1170,7 @@
 <LM>w#w-ln94210-117-p2s8w6</LM>
 </w.rf>
 <form>nedal</form>
-<tag lemma="dát" src="orig" selected="1">VpYS----R-NAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-ln94210-117-p2s8w7">
 <src.rf>manual</src.rf>
@@ -1244,7 +1244,7 @@
 <LM>w#w-ln94210-117-p2s9w2</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-ln94210-117-p2s9w3">
 <src.rf>manual</src.rf>
@@ -1350,7 +1350,7 @@
 <LM>w#w-ln94210-117-p2s10Aw6</LM>
 </w.rf>
 <form>málo</form>
-<tag lemma="málo-1_^(málo_+_2._p.,_málo_peněz)" src="orig" selected="1">Ca--4----------</tag>
+<tag lemma="málo-1_^(málo_peněz)" src="orig" selected="1">Ca--4----------</tag>
 </m>
 <m id="m-ln94210-117-p2s10Aw7">
 <src.rf>manual</src.rf>
@@ -1587,7 +1587,7 @@
 <LM>w#w-ln94210-117-p2s11w9</LM>
 </w.rf>
 <form>dalo</form>
-<tag lemma="dát" src="orig" selected="1">VpNS----R-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln94210-117-p2s11w10">
 <src.rf>manual</src.rf>

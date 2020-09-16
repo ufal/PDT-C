@@ -1235,7 +1235,7 @@
 <LM>w#w-lnd92259-057-p4s4w6</LM>
 </w.rf>
 <form>rady</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92259-057-p4s4w7">
 <src.rf>manual</src.rf>
@@ -1424,7 +1424,7 @@
 <LM>w#w-lnd92259-057-p4s5w17</LM>
 </w.rf>
 <form>zdanění</form>
-<tag lemma="zdanění_^(vypočítat_daň)_(*3it)" src="auto" selected="1">NNNS2-----A----</tag>
+<tag lemma="zdanění_^(*3it)" src="auto" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-lnd92259-057-p4s5w18">
 <src.rf>manual</src.rf>
@@ -1547,7 +1547,7 @@
 <LM>w#w-lnd92259-057-p4s5w32</LM>
 </w.rf>
 <form>zdanění</form>
-<tag lemma="zdanění_^(vypočítat_daň)_(*3it)" src="auto" selected="1">NNNS2-----A----</tag>
+<tag lemma="zdanění_^(*3it)" src="auto" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-lnd92259-057-p4s5w33">
 <src.rf>manual</src.rf>
@@ -1859,7 +1859,7 @@
 <LM>w#w-lnd92259-057-p5s1w12</LM>
 </w.rf>
 <form>výborech</form>
-<tag lemma="výbor" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-lnd92259-057-p5s1w13">
 <src.rf>manual</src.rf>
@@ -2215,7 +2215,7 @@
 <LM>w#w-lnd92259-057-p5s4w4</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS7----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS7----------</tag>
 </m>
 <m id="m-lnd92259-057-p5s4w5">
 <src.rf>manual</src.rf>
@@ -2637,7 +2637,7 @@
 <LM>w#w-lnd92259-057-p5s7w2</LM>
 </w.rf>
 <form>výbor</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92259-057-p5s7w3">
 <src.rf>manual</src.rf>
@@ -2708,7 +2708,7 @@
 <LM>w#w-lnd92259-057-p5s7w10</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-lnd92259-057-p5s7w11">
 <src.rf>manual</src.rf>
@@ -2820,7 +2820,7 @@
 <LM>w#w-lnd92259-057-p5s8w1</LM>
 </w.rf>
 <form>Výbory</form>
-<tag lemma="výbor" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-lnd92259-057-p5s8w2">
 <src.rf>manual</src.rf>

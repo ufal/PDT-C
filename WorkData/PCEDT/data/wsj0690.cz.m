@@ -416,7 +416,7 @@
 </w.rf>
 <form>nás</form>
 <tag>
-<AM lemma="já" src="auto" recommended="1">PP-P2--1-------</AM>
+<AM lemma="my" src="auto" recommended="1">PP-P2--1-------</AM>
 <AM lemma="já" src="auto">PP-P4--1-------</AM>
 <AM lemma="já" src="auto">PP-P6--1-------</AM>
 </tag>
@@ -1441,7 +1441,7 @@
 <form>Solomon</form>
 <tag>
 <AM lemma="Solomon_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Solomon_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Solomon-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0690-001-p1s4W3-Ta">
@@ -2162,7 +2162,7 @@
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FP4---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS2---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS3---------1</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8FS6---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8FS6---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8IP1---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8IP5---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS1---------1</AM>
@@ -2744,7 +2744,7 @@
 <AM lemma="hypoglykémie_;U_,s_^(^DD**hypoglykemie)" src="auto">NNFP4-----A----</AM>
 <AM lemma="hypoglykémie_;U_,s_^(^DD**hypoglykemie)" src="auto">NNFP5-----A----</AM>
 <AM lemma="hypoglykémie_;U_,s_^(^DD**hypoglykemie)" src="auto">NNFS1-----A----</AM>
-<AM lemma="hypoglykémie_;U_,s_^(^DD**hypoglykemie)" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="hypoglykémie_,s_^(^DD**hypoglykemie)" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="hypoglykémie_;U_,s_^(^DD**hypoglykemie)" src="auto">NNFS5-----A----</AM>
 </tag>
 </m>
@@ -2988,7 +2988,7 @@
 <AM lemma="hypoglykémie_;U_,s_^(^DD**hypoglykemie)" src="auto">NNFP4-----A----</AM>
 <AM lemma="hypoglykémie_;U_,s_^(^DD**hypoglykemie)" src="auto">NNFP5-----A----</AM>
 <AM lemma="hypoglykémie_;U_,s_^(^DD**hypoglykemie)" src="auto">NNFS1-----A----</AM>
-<AM lemma="hypoglykémie_;U_,s_^(^DD**hypoglykemie)" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="hypoglykémie_,s_^(^DD**hypoglykemie)" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="hypoglykémie_;U_,s_^(^DD**hypoglykemie)" src="auto">NNFS5-----A----</AM>
 </tag>
 </m>
@@ -3336,7 +3336,7 @@
 <AM lemma="slazený-1_^(cukrem)_(*6dit-1)" src="auto">AANP4----1A---6</AM>
 <AM lemma="slazený-1_^(cukrem)_(*6dit-1)" src="auto">AANP5----1A---6</AM>
 <AM lemma="slazený-1_^(cukrem)_(*6dit-1)" src="auto" recommended="1">AANS1----1A----</AM>
-<AM lemma="slazený-1_^(cukrem)_(*6dit-1)" src="auto" selected="1">AANS4----1A----</AM>
+<AM lemma="slazený-1_^(*6dit-1)" src="auto" selected="1">AANS4----1A----</AM>
 <AM lemma="slazený-1_^(cukrem)_(*6dit-1)" src="auto">AANS5----1A----</AM>
 </tag>
 </m>
@@ -3532,7 +3532,7 @@
 <AM lemma="hypoglykémie_;U_,s_^(^DD**hypoglykemie)" src="auto">NNFP4-----A----</AM>
 <AM lemma="hypoglykémie_;U_,s_^(^DD**hypoglykemie)" src="auto">NNFP5-----A----</AM>
 <AM lemma="hypoglykémie_;U_,s_^(^DD**hypoglykemie)" src="auto">NNFS1-----A----</AM>
-<AM lemma="hypoglykémie_;U_,s_^(^DD**hypoglykemie)" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="hypoglykémie_,s_^(^DD**hypoglykemie)" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="hypoglykémie_;U_,s_^(^DD**hypoglykemie)" src="auto">NNFS5-----A----</AM>
 </tag>
 </m>
@@ -4048,7 +4048,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0690-001-p1s10W36-Ta">
@@ -4121,7 +4121,7 @@
 </w.rf>
 <form>hypoglykémii</form>
 <tag>
-<AM lemma="hypoglykémie_;U_,s_^(^DD**hypoglykemie)" src="auto" recommended="1">NNFS3-----A----</AM>
+<AM lemma="hypoglykémie_,s_^(^DD**hypoglykemie)" src="auto" recommended="1">NNFS3-----A----</AM>
 <AM lemma="hypoglykémie_;U_,s_^(^DD**hypoglykemie)" src="auto">NNFS4-----A----</AM>
 <AM lemma="hypoglykémie_;U_,s_^(^DD**hypoglykemie)" src="auto">NNFS6-----A----</AM>
 </tag>
@@ -4377,7 +4377,7 @@
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FP1---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FP4---------1</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8FS2---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8FS2---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS3---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS6---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8IP1---------1</AM>
@@ -4402,7 +4402,7 @@
 <AM lemma="hypoglykémie_;U_,s_^(^DD**hypoglykemie)" src="auto">NNFP4-----A----</AM>
 <AM lemma="hypoglykémie_;U_,s_^(^DD**hypoglykemie)" src="auto">NNFP5-----A----</AM>
 <AM lemma="hypoglykémie_;U_,s_^(^DD**hypoglykemie)" src="auto">NNFS1-----A----</AM>
-<AM lemma="hypoglykémie_;U_,s_^(^DD**hypoglykemie)" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="hypoglykémie_,s_^(^DD**hypoglykemie)" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="hypoglykémie_;U_,s_^(^DD**hypoglykemie)" src="auto">NNFS5-----A----</AM>
 </tag>
 </m>
@@ -6214,7 +6214,7 @@
 <AM lemma="hypoglykémie_;U_,s_^(^DD**hypoglykemie)" src="auto">NNFP4-----A----</AM>
 <AM lemma="hypoglykémie_;U_,s_^(^DD**hypoglykemie)" src="auto">NNFP5-----A----</AM>
 <AM lemma="hypoglykémie_;U_,s_^(^DD**hypoglykemie)" src="auto">NNFS1-----A----</AM>
-<AM lemma="hypoglykémie_;U_,s_^(^DD**hypoglykemie)" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="hypoglykémie_,s_^(^DD**hypoglykemie)" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="hypoglykémie_;U_,s_^(^DD**hypoglykemie)" src="auto">NNFS5-----A----</AM>
 </tag>
 </m>
@@ -6624,7 +6624,7 @@
 <AM lemma="hypoglykémie_;U_,s_^(^DD**hypoglykemie)" src="auto">NNFP4-----A----</AM>
 <AM lemma="hypoglykémie_;U_,s_^(^DD**hypoglykemie)" src="auto">NNFP5-----A----</AM>
 <AM lemma="hypoglykémie_;U_,s_^(^DD**hypoglykemie)" src="auto">NNFS1-----A----</AM>
-<AM lemma="hypoglykémie_;U_,s_^(^DD**hypoglykemie)" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="hypoglykémie_,s_^(^DD**hypoglykemie)" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="hypoglykémie_;U_,s_^(^DD**hypoglykemie)" src="auto">NNFS5-----A----</AM>
 </tag>
 </m>
@@ -7016,7 +7016,7 @@
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8XP3----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8ZS6---------7</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8ZS7----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8ZS7----------</AM>
 </tag>
 </m>
 <m id="m-wsj0690-001-p1s21W23-Ta">
@@ -7804,7 +7804,7 @@
 <AM lemma="hypoglykémie_;U_,s_^(^DD**hypoglykemie)" src="auto" recommended="1">NNFP4-----A----</AM>
 <AM lemma="hypoglykémie_;U_,s_^(^DD**hypoglykemie)" src="auto">NNFP5-----A----</AM>
 <AM lemma="hypoglykémie_;U_,s_^(^DD**hypoglykemie)" src="auto">NNFS1-----A----</AM>
-<AM lemma="hypoglykémie_;U_,s_^(^DD**hypoglykemie)" src="auto" selected="1">NNFS2-----A----</AM>
+<AM lemma="hypoglykémie_,s_^(^DD**hypoglykemie)" src="auto" selected="1">NNFS2-----A----</AM>
 <AM lemma="hypoglykémie_;U_,s_^(^DD**hypoglykemie)" src="auto">NNFS5-----A----</AM>
 </tag>
 </m>
@@ -8135,7 +8135,7 @@
 <tag>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP3FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSZS6FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9ZS7FS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9ZS7FS3-------</AM>
 </tag>
 </m>
 <m id="m-wsj0690-001-p1s25W17-Ta">
@@ -8289,7 +8289,7 @@
 <AM lemma="hypoglykémie_;U_,s_^(^DD**hypoglykemie)" src="auto">NNFP4-----A----</AM>
 <AM lemma="hypoglykémie_;U_,s_^(^DD**hypoglykemie)" src="auto">NNFP5-----A----</AM>
 <AM lemma="hypoglykémie_;U_,s_^(^DD**hypoglykemie)" src="auto">NNFS1-----A----</AM>
-<AM lemma="hypoglykémie_;U_,s_^(^DD**hypoglykemie)" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="hypoglykémie_,s_^(^DD**hypoglykemie)" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="hypoglykémie_;U_,s_^(^DD**hypoglykemie)" src="auto">NNFS5-----A----</AM>
 </tag>
 </m>

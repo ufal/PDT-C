@@ -564,7 +564,7 @@
 <LM>w#w-lnd94103-114-p1s7w20</LM>
 </w.rf>
 <form>vydání</form>
-<tag lemma="vydání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="vydání_^(*3at)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-lnd94103-114-p1s7w21">
 <src.rf>manual</src.rf>
@@ -889,7 +889,7 @@
 <LM>w#w-lnd94103-114-p1s14w12</LM>
 </w.rf>
 <form>Murray</form>
-<tag lemma="Murray_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Murray-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-114-p1s14w13">
 <src.rf>manual</src.rf>

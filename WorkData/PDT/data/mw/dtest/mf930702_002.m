@@ -497,7 +497,7 @@
 <LM>w#w-mf930702-002-p2s4w8</LM>
 </w.rf>
 <form>pozornost</form>
-<tag lemma="pozornost-1_^(všímavý,_milý,_soustředěný)_(*5ý-1)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="pozornost-1_^(*5ý-1)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf930702-002-p2s4w9">
 <src.rf>manual</src.rf>

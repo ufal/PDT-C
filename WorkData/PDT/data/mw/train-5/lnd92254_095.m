@@ -104,7 +104,7 @@
 <LM>w#w-lnd92254-095-p2s1w1</LM>
 </w.rf>
 <form>Slovan</form>
-<tag lemma="Slovan-2_;m" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Slovan-2_;G_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92254-095-p2s1w2">
 <src.rf>manual</src.rf>
@@ -332,7 +332,7 @@
 <LM>w#w-lnd92254-095-p3s2w24</LM>
 </w.rf>
 <form>druhý</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS4----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS4----------</tag>
 </m>
 <m id="m-lnd92254-095-p3s2w25">
 <src.rf>manual</src.rf>
@@ -382,7 +382,7 @@
 <LM>w#w-lnd92254-095-p3s3w1</LM>
 </w.rf>
 <form>Slovan</form>
-<tag lemma="Slovan-2_;m" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Slovan-2_;G_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92254-095-p3s3w2">
 <src.rf>manual</src.rf>
@@ -518,7 +518,7 @@
 <LM>w#w-lnd92254-095-p3s3w18</LM>
 </w.rf>
 <form>nedal</form>
-<tag lemma="dát" src="orig" selected="1">VpYS----R-NAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-lnd92254-095-p3s3w19">
 <src.rf>manual</src.rf>
@@ -968,7 +968,7 @@
 <LM>w#w-lnd92254-095-p3s5w17</LM>
 </w.rf>
 <form>Hanáci</form>
-<tag lemma="Hanák_;E" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="Hanák_;E_;Y" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd92254-095-p3s5w18">
 <src.rf>manual</src.rf>
@@ -1333,7 +1333,7 @@
 <LM>w#w-lnd92254-095-p3s7w26</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-lnd92254-095-p3s7w27">
 <src.rf>manual</src.rf>
@@ -3728,7 +3728,7 @@
 <LM>w#w-lnd92254-095-p11s7w1</LM>
 </w.rf>
 <form>Petrovka</form>
-<tag lemma="Petrovka_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Petrovka-2_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-095-p11s7w2">
 <src.rf>manual</src.rf>
@@ -5605,7 +5605,7 @@
 <LM>w#w-lnd92254-095-p17s7w7</LM>
 </w.rf>
 <form>Lipina</form>
-<tag lemma="Lipina_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lipina-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-095-p17s7w8">
 <src.rf>manual</src.rf>

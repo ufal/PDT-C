@@ -27,7 +27,7 @@
 <LM>w#w-lnd92259-032-p1s1w2</LM>
 </w.rf>
 <form>LET</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd92259-032-p1s1w3">
 <src.rf>manual</src.rf>
@@ -537,7 +537,7 @@
 <LM>w#w-lnd92259-032-p3s3w16</LM>
 </w.rf>
 <form>Karlově</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUFS6M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUFS6M---------</tag>
 </m>
 <m id="m-lnd92259-032-p3s3w17">
 <src.rf>manual</src.rf>
@@ -635,7 +635,7 @@
 <LM>w#w-lnd92259-032-p4s1w8</LM>
 </w.rf>
 <form>stanovené</form>
-<tag lemma="stanovený_^(určit)_(*3it)" src="orig" selected="1">AAFS6----1A----</tag>
+<tag lemma="stanovený_^(*3it)" src="orig" selected="1">AAFS6----1A----</tag>
 </m>
 <m id="m-lnd92259-032-p4s1w9">
 <src.rf>manual</src.rf>
@@ -949,7 +949,7 @@
 <LM>w#w-lnd92259-032-p4s2w23</LM>
 </w.rf>
 <form>veteráni</form>
-<tag lemma="veterán" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="veterán-1" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd92259-032-p4s2w24">
 <src.rf>manual</src.rf>

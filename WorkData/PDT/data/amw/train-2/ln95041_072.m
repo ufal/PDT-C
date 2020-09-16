@@ -215,7 +215,7 @@
 <LM>w#w-ln95041-072-p2s1Bw17</LM>
 </w.rf>
 <form>Vopálenské</form>
-<tag lemma="Vopálenská_;Y" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Vopálenská_;Y_^(*1ý)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95041-072-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -345,7 +345,7 @@
 <LM>w#w-ln95041-072-p3s1w15</LM>
 </w.rf>
 <form>Vopálenskou</form>
-<tag lemma="Vopálenská_;Y" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Vopálenská_;Y_^(*1ý)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95041-072-p3s1w16">
 <src.rf>manual</src.rf>
@@ -542,7 +542,7 @@
 <LM>w#w-ln95041-072-p3s2w11</LM>
 </w.rf>
 <form>Vopálenské</form>
-<tag lemma="Vopálenská_;Y" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Vopálenská_;Y_^(*1ý)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95041-072-p3s2w12">
 <src.rf>manual</src.rf>
@@ -566,7 +566,7 @@
 <LM>w#w-ln95041-072-p3s2w14</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS1FS3-------</tag>
 </m>
 <m id="m-ln95041-072-p3s2w15">
 <src.rf>manual</src.rf>
@@ -640,7 +640,7 @@
 <LM>w#w-ln95041-072-p3s3w4</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-ln95041-072-p3s3w5">
 <src.rf>manual</src.rf>

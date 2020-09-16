@@ -115,7 +115,7 @@
 <LM>w#w-lnd92258-088-p2s1w13</LM>
 </w.rf>
 <form>dlouhá</form>
-<tag lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">AANP4----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AANP4----1A----</tag>
 </m>
 <m id="m-lnd92258-088-p2s1w14">
 <src.rf>manual</src.rf>

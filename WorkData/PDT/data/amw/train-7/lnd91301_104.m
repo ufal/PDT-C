@@ -355,7 +355,7 @@
 <AM lemma="Flavie_;Y" src="auto">NNFS6-----A----</AM>
 <AM lemma="Flavius_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Flavius_;Y" src="auto">NNMP7-----A----</AM>
-<AM lemma="Flavia_;m" src="manual" selected="1">NNFS4-----A----</AM>
+<AM lemma="Flavie_;Y" src="manual" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-104-p7s1w6">

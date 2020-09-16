@@ -303,7 +303,7 @@
 <LM>w#w-lnd91303-085-p4s2w10</LM>
 </w.rf>
 <form>prvního</form>
-<tag lemma="první" src="orig" selected="1">CrNS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS2----------</tag>
 </m>
 <m id="m-lnd91303-085-p4s2w11">
 <src.rf>manual</src.rf>
@@ -542,7 +542,7 @@
 <LM>w#w-lnd91303-085-p7s1w3</LM>
 </w.rf>
 <form>prvního</form>
-<tag lemma="první" src="orig" selected="1">CrIS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS2----------</tag>
 </m>
 <m id="m-lnd91303-085-p7s1w4">
 <src.rf>manual</src.rf>
@@ -999,7 +999,7 @@
 <LM>w#w-lnd91303-085-p7s4w12</LM>
 </w.rf>
 <form>centrem</form>
-<tag lemma="centr_^(sport:_hráč)" src="auto" selected="1">NNMS7-----A----</tag>
+<tag lemma="centr-2_^(sport_hráč)" src="auto" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd91303-085-p7s4w13">
 <src.rf>manual</src.rf>
@@ -1110,7 +1110,7 @@
 <form>dala</form>
 <tag>
 <AM lemma="dát" src="orig">VpQW----R-AAP--</AM>
-<AM lemma="dát" src="manual" selected="1">VpQW----R-AAP--</AM>
+<AM lemma="dát-1" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd91303-085-p7s5w5">
@@ -1605,7 +1605,7 @@
 <form>Stojí</form>
 <tag>
 <AM lemma="stát-4_^(něco_stojí_peníze)" src="orig">VB-S---3P-AA---</AM>
-<AM lemma="stát-4_^(něco_stojí_peníze)" src="manual" selected="1">VB-S---3P-AAI--</AM>
+<AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m-lnd91303-085-p7s7w2">
@@ -1787,7 +1787,7 @@
 <LM>w#w-lnd91303-085-p7s8w7</LM>
 </w.rf>
 <form>Murín</form>
-<tag lemma="Murín_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Murín-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-085-p7s8w8">
 <src.rf>manual</src.rf>
@@ -1902,7 +1902,7 @@
 <LM>w#w-lnd91303-085-p10s2w3</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-lnd91303-085-p10s2w4">
 <src.rf>manual</src.rf>
@@ -1950,7 +1950,7 @@
 <LM>w#w-lnd91303-085-p10s2w9</LM>
 </w.rf>
 <form>role</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="role_^(svitek_poslání_pozemek)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd91303-085-p10s2w10">
 <src.rf>manual</src.rf>

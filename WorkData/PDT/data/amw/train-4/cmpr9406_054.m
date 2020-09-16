@@ -96,7 +96,7 @@
 <LM>w#w-cmpr9406-054-p3s1w5</LM>
 </w.rf>
 <form>umění</form>
-<tag lemma="umění_^(mít_schopnost_něco_dělat)_(*2t)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="umění_^(*2t)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-cmpr9406-054-p3s1w6">
 <src.rf>manual</src.rf>
@@ -296,7 +296,7 @@
 <LM>w#w-cmpr9406-054-p3s2Bw8</LM>
 </w.rf>
 <form>vás</form>
-<tag lemma="ty" src="orig" selected="1">PP-P4--2-------</tag>
+<tag lemma="vy" src="orig" selected="1">PP-P4--2-------</tag>
 </m>
 <m id="m-cmpr9406-054-p3s2Bw9">
 <src.rf>manual</src.rf>
@@ -402,7 +402,7 @@
 <LM>w#w-cmpr9406-054-p3s3Aw7</LM>
 </w.rf>
 <form>Himaláje</form>
-<tag lemma="Himaláj_;G" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Himaláj_;G_,s_^(^DD**Himálaj-1)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-cmpr9406-054-p3s3Aw8">
 <src.rf>manual</src.rf>
@@ -716,7 +716,7 @@
 <LM>w#w-cmpr9406-054-p3s4Bw9</LM>
 </w.rf>
 <form>MIROSLAV</form>
-<tag lemma="Miroslav_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Miroslav-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-054-p3s4Bw10">
 <src.rf>manual</src.rf>
@@ -955,7 +955,7 @@
 <LM>w#w-cmpr9406-054-p3s5w14</LM>
 </w.rf>
 <form>dál</form>
-<tag lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="dál-3_,s_^(také,_za_další)_(^DD**dále-3)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-cmpr9406-054-p3s5w15">
 <src.rf>manual</src.rf>

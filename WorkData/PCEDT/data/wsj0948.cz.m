@@ -753,7 +753,7 @@
 <form>Crane</form>
 <tag>
 <AM lemma="Crane_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Crane_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Crane-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Crane_;Y" src="auto">NNMS5-----A----</AM>
 </tag>
 </m>
@@ -1137,7 +1137,7 @@
 <form>pana</form>
 <tag>
 <AM lemma="pan_^(oslovení)" src="auto">NNMS2-----A----</AM>
-<AM lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS4-----A----</AM>
+<AM lemma="pan" src="auto" recommended="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0948-001-p1s2W34-Ta">
@@ -1321,7 +1321,7 @@
 </w.rf>
 <form>pana</form>
 <tag>
-<AM lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="pan" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="pan_^(oslovení)" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>

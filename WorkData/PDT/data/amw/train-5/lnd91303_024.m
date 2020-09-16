@@ -101,7 +101,7 @@
 <LM>w#w-lnd91303-024-p1s2w2</LM>
 </w.rf>
 <form>dny</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-lnd91303-024-p1s2w3">
 <src.rf>manual</src.rf>
@@ -133,7 +133,7 @@
 <LM>w#w-lnd91303-024-p1s2w6</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFP4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFP4----------</tag>
 </m>
 <m id="m-lnd91303-024-p1s2w7">
 <src.rf>manual</src.rf>
@@ -200,7 +200,7 @@
 <LM>w#w-lnd91303-024-p1s2w14</LM>
 </w.rf>
 <form>naši</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSMP1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSMP1-P1-------</tag>
 </m>
 <m id="m-lnd91303-024-p1s2w15">
 <src.rf>manual</src.rf>
@@ -404,7 +404,7 @@
 <LM>w#w-lnd91303-024-p2s2w3</LM>
 </w.rf>
 <form>cestě</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-lnd91303-024-p2s2w4">
 <src.rf>manual</src.rf>
@@ -452,7 +452,7 @@
 <LM>w#w-lnd91303-024-p2s2w9</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS1FS3-------</tag>
 </m>
 <m id="m-lnd91303-024-p2s2w10">
 <src.rf>manual</src.rf>
@@ -712,7 +712,7 @@
 <LM>w#w-lnd91303-024-p3s2w1</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrFS7----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS7----------</tag>
 </m>
 <m id="m-lnd91303-024-p3s2w2">
 <src.rf>manual</src.rf>
@@ -1214,7 +1214,7 @@
 <LM>w#w-lnd91303-024-p4s2w11</LM>
 </w.rf>
 <form>Bajana</form>
-<tag lemma="Bajan_;Y" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Bajan-2_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd91303-024-p4s2w12">
 <src.rf>manual</src.rf>
@@ -1736,7 +1736,7 @@
 <AM lemma="matka-2_^(maminka)" src="auto">NNFP1-----A----</AM>
 <AM lemma="matka-2_^(maminka)" src="auto">NNFP4-----A----</AM>
 <AM lemma="matka-2_^(maminka)" src="auto">NNFP5-----A----</AM>
-<AM lemma="matka-2_^(maminka)" src="auto" selected="1">NNFS2-----A----</AM>
+<AM lemma="matka" src="auto" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-024-p5s3w5">
@@ -1761,7 +1761,7 @@
 <LM>w#w-lnd91303-024-p5s3w7</LM>
 </w.rf>
 <form>Marie</form>
-<tag lemma="Marie-1_;Y" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Marie_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd91303-024-p5s3w8">
 <src.rf>manual</src.rf>

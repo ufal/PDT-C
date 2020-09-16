@@ -35,7 +35,7 @@
 <AM lemma="Elo-1_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Elo-1_;Y" src="auto">NNMP7-----A----</AM>
 <AM lemma="Ely-2_;G" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Ely-3_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Ely-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2094-001-p1s0W3-Ta">
@@ -444,7 +444,7 @@
 <AM lemma="Elo-1_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Elo-1_;Y" src="auto">NNMP7-----A----</AM>
 <AM lemma="Ely-2_;G" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Ely-3_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Ely-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2094-001-p1s1W4-Ta">

@@ -71,7 +71,7 @@
 <LM>w#w-ln95041-010-p2s1Bw1</LM>
 </w.rf>
 <form>Model</form>
-<tag lemma="model" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="model-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95041-010-p2s1Bw2">
 <src.rf>manual</src.rf>
@@ -282,7 +282,7 @@
 <LM>w#w-ln95041-010-p2s2w6</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-010-p2s2w7">
 <src.rf>manual</src.rf>
@@ -324,7 +324,7 @@
 <LM>w#w-ln95041-010-p3s1w3</LM>
 </w.rf>
 <form>mluvčího</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95041-010-p3s1w4">
 <src.rf>manual</src.rf>

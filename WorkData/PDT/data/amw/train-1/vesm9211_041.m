@@ -578,7 +578,7 @@
 <LM>w#w-vesm9211-041-p2s6w48</LM>
 </w.rf>
 <form>otravě</form>
-<tag lemma="otrava" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="otrava-1" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-vesm9211-041-p2s6w49">
 <src.rf>manual</src.rf>
@@ -748,7 +748,7 @@
 <LM>w#w-vesm9211-041-p3s1w18</LM>
 </w.rf>
 <form>hrabat</form>
-<tag lemma="hrabě" src="auto" selected="1">NNNP2-----A----</tag>
+<tag lemma="hrabě-1" src="auto" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-vesm9211-041-p3s1w19">
 <src.rf>manual</src.rf>
@@ -1297,7 +1297,7 @@
 <LM>w#w-vesm9211-041-p4s1w22</LM>
 </w.rf>
 <form>hrabětem</form>
-<tag lemma="hrabě" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="hrabě-2" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-vesm9211-041-p4s1w23">
 <src.rf>manual</src.rf>
@@ -1348,7 +1348,7 @@
 <LM>w#w-vesm9211-041-p4s1w28</LM>
 </w.rf>
 <form>hrabětem</form>
-<tag lemma="hrabě" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="hrabě-2" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-vesm9211-041-p4s1w29">
 <src.rf>manual</src.rf>
@@ -1720,7 +1720,7 @@
 <LM>w#w-vesm9211-041-p5s2w14</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-vesm9211-041-p5s2w15">
 <src.rf>manual</src.rf>
@@ -1866,7 +1866,7 @@
 <LM>w#w-vesm9211-041-p5s4w6</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8MS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8MS4----------</tag>
 </m>
 <m id="m-vesm9211-041-p5s4w7">
 <src.rf>manual</src.rf>
@@ -2267,7 +2267,7 @@
 <LM>w#w-vesm9211-041-p6s2w7</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-vesm9211-041-p6s2w8">
 <src.rf>manual</src.rf>
@@ -2612,7 +2612,7 @@
 <tag>
 <AM lemma="Sch-99_:B_;Y" src="orig">NNXXX-----A---8</AM>
 <AM lemma="schnout" src="auto" recommended="1">VpYS----R-AAI-6</AM>
-<AM lemma="Sch-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="sch-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>

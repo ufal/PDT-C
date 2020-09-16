@@ -400,7 +400,7 @@
 <LM>w#w-lnd92256-025-p2s1w2</LM>
 </w.rf>
 <form>dny</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-lnd92256-025-p2s1w3">
 <src.rf>manual</src.rf>
@@ -464,7 +464,7 @@
 <LM>w#w-lnd92256-025-p2s1w10</LM>
 </w.rf>
 <form>člen</form>
-<tag lemma="člen" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-025-p2s1w11">
 <src.rf>manual</src.rf>

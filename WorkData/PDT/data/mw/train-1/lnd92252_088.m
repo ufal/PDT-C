@@ -189,7 +189,7 @@
 <LM>w#w-lnd92252-088-p2s2w16</LM>
 </w.rf>
 <form>Slovan</form>
-<tag lemma="Slovan-2_;m" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Slovan-2_;G_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92252-088-p2s2w17">
 <src.rf>manual</src.rf>
@@ -1806,7 +1806,7 @@
 <LM>w#w-lnd92252-088-p5s2w17</LM>
 </w.rf>
 <form>Slovan</form>
-<tag lemma="Slovan-2_;m" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Slovan-2_;G_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92252-088-p5s2w18">
 <src.rf>manual</src.rf>
@@ -3072,7 +3072,7 @@
 <LM>w#w-lnd92252-088-p6s8w3</LM>
 </w.rf>
 <form>Peterův</form>
-<tag lemma="Peterův_;Y_^(*2a)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Peterův_;Y_^(*2)_(*2a)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-lnd92252-088-p6s8w4">
 <src.rf>manual</src.rf>
@@ -3250,7 +3250,7 @@
 <LM>w#w-lnd92252-088-p6s9w14</LM>
 </w.rf>
 <form>Olymp</form>
-<tag lemma="Olymp_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Olymp_;G_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92252-088-p6s9w15">
 <src.rf>manual</src.rf>
@@ -3414,7 +3414,7 @@
 <LM>w#w-lnd92252-088-p6s11w11</LM>
 </w.rf>
 <form>Olymp</form>
-<tag lemma="Olymp_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Olymp_;G_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92252-088-p6s11w12">
 <src.rf>manual</src.rf>
@@ -4608,7 +4608,7 @@
 <LM>w#w-lnd92252-088-p7s4w15</LM>
 </w.rf>
 <form>Slovan</form>
-<tag lemma="Slovan-2_;m" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Slovan-2_;G_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92252-088-p7s4w16">
 <src.rf>manual</src.rf>

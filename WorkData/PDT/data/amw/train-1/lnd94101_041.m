@@ -274,7 +274,7 @@
 <LM>w#w-lnd94101-041-p1s4w8</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS1FS3-------</tag>
 </m>
 <m id="m-lnd94101-041-p1s4w9">
 <src.rf>manual</src.rf>
@@ -428,7 +428,7 @@
 <LM>w#w-lnd94101-041-p1s5w15</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-lnd94101-041-p1s5w16">
 <src.rf>manual</src.rf>
@@ -487,7 +487,7 @@
 <LM>w#w-lnd94101-041-p1s5w22</LM>
 </w.rf>
 <form>model</form>
-<tag lemma="model" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="model-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94101-041-p1s5w23">
 <src.rf>manual</src.rf>
@@ -805,7 +805,7 @@
 <LM>w#w-lnd94101-041-p1s7w19</LM>
 </w.rf>
 <form>prvních</form>
-<tag lemma="první" src="orig" selected="1">CrFP6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFP6----------</tag>
 </m>
 <m id="m-lnd94101-041-p1s7w20">
 <src.rf>manual</src.rf>
@@ -909,7 +909,7 @@
 <LM>w#w-lnd94101-041-p1s7w32</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-lnd94101-041-p1s7w33">
 <src.rf>manual</src.rf>

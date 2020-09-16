@@ -229,7 +229,7 @@
 <LM>w#w-lnd94101-027-p1s3w4</LM>
 </w.rf>
 <form>jehož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P1XXXZS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXZS3-------</tag>
 </m>
 <m id="m-lnd94101-027-p1s3w5">
 <src.rf>manual</src.rf>
@@ -561,7 +561,7 @@
 <LM>w#w-lnd94101-027-p1s4w4</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8NS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8NS4---------1</tag>
 </m>
 <m id="m-lnd94101-027-p1s4w5">
 <src.rf>manual</src.rf>
@@ -577,7 +577,7 @@
 <LM>w#w-lnd94101-027-p1s4w6</LM>
 </w.rf>
 <form>dítě</form>
-<tag lemma="dítě" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="dítě-1" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-lnd94101-027-p1s4w7">
 <src.rf>manual</src.rf>

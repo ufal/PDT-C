@@ -1008,7 +1008,7 @@
 <form>moji</form>
 <tag>
 <AM lemma="můj_^(přivlast.)" src="auto">PSFS4-S1-------</AM>
-<AM lemma="můj_^(přivlast.)" src="auto" recommended="1">PSMP1-S1-------</AM>
+<AM lemma="můj" src="auto" recommended="1">PSMP1-S1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSMP5-S1-------</AM>
 </tag>
 </m>
@@ -1501,7 +1501,7 @@
 <AM lemma="vězení_,a_^(místo_výkonu_trestu)" src="auto">NNNP4-----A----</AM>
 <AM lemma="vězení_,a_^(místo_výkonu_trestu)" src="auto">NNNP5-----A----</AM>
 <AM lemma="vězení_,a_^(místo_výkonu_trestu)" src="auto">NNNS1-----A----</AM>
-<AM lemma="vězení_,a_^(místo_výkonu_trestu)" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="vězení_^(místo_výkonu_trestu)" src="auto" recommended="1">NNNS2-----A----</AM>
 <AM lemma="vězení_,a_^(místo_výkonu_trestu)" src="auto">NNNS3-----A----</AM>
 <AM lemma="vězení_,a_^(místo_výkonu_trestu)" src="auto">NNNS4-----A----</AM>
 <AM lemma="vězení_,a_^(místo_výkonu_trestu)" src="auto">NNNS5-----A----</AM>
@@ -3048,7 +3048,7 @@
 </w.rf>
 <form>nám</form>
 <tag>
-<AM lemma="já" src="auto" recommended="1">PP-P3--1-------</AM>
+<AM lemma="my" src="auto" recommended="1">PP-P3--1-------</AM>
 <AM lemma="náměstí_:B" src="auto">NNNXX-----A---8</AM>
 </tag>
 </m>
@@ -3902,7 +3902,7 @@
 <AM lemma="pétépák_,h_,l" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="pétépák_,h_,l" src="auto">NNMS4-----A----</AM>
 <AM lemma="pétépák_,h_,l" src="manual">NNMS4-----A----</AM>
-<AM lemma="pétépák_,h" src="manual" selected="1">NNMS4-----A----</AM>
+<AM lemma="pétépák_,l" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m005-221-836">
@@ -4024,7 +4024,7 @@
 <LM>w#w-d1t3733-3</LM>
 </w.rf>
 <form>dalo</form>
-<tag lemma="dát" src="auto" recommended="1">VpNS----R-AAP--</tag>
+<tag lemma="dát-1" src="auto" recommended="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m005-d1t3733-4">
 <w.rf>
@@ -4364,7 +4364,7 @@
 <form>můj</form>
 <tag>
 <AM lemma="můj_^(přivlast.)" src="auto">PSIS4-S1-------</AM>
-<AM lemma="můj_^(přivlast.)" src="auto" recommended="1">PSYS1-S1-------</AM>
+<AM lemma="můj" src="auto" recommended="1">PSYS1-S1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSYS5-S1-------</AM>
 </tag>
 </m>
@@ -4542,7 +4542,7 @@
 </w.rf>
 <form>Dohlídni</form>
 <tag>
-<AM lemma="dohlédnout_,s_^(^GC**dohlédnout)" src="auto" recommended="1">Vi-S---2--A-P--</AM>
+<AM lemma="dohlídnout_,h_^(^GC**dohlédnout)" src="auto" recommended="1">Vi-S---2--A-P--</AM>
 <AM lemma="dohlédnout_:W_,s_^(^GC**dohlédnout)" src="auto">Vi-S---3--A---4</AM>
 </tag>
 </m>
@@ -4675,7 +4675,7 @@
 <form>lidi</form>
 <tag>
 <AM lemma="člověk" src="auto">NNMP1-----A----</AM>
-<AM lemma="člověk" src="auto" recommended="1">NNMP4-----A----</AM>
+<AM lemma="lidé" src="auto" recommended="1">NNMP4-----A----</AM>
 <AM lemma="člověk" src="auto">NNMP5-----A----</AM>
 </tag>
 </m>
@@ -4779,7 +4779,7 @@
 <LM>w#w-d1t3754-10</LM>
 </w.rf>
 <form>dá</form>
-<tag lemma="dát" src="auto" recommended="1">VB-S---3P-AAP--</tag>
+<tag lemma="dát-1" src="auto" recommended="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m005-648-664">
 <w.rf>

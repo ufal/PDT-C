@@ -77,7 +77,7 @@
 <LM>w#w-lnd94103-139-p1s12w4</LM>
 </w.rf>
 <form>přeložení</form>
-<tag lemma="přeložení-1_^(přemístit)_(*5it-1)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="přeložení_^(*3it)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-lnd94103-139-p1s12w5">
 <src.rf>manual</src.rf>

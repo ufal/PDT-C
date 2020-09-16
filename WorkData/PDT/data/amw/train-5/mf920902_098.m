@@ -185,7 +185,7 @@
 <LM>w#w-mf920902-098-p1s1Dw7</LM>
 </w.rf>
 <form>Bereza</form>
-<tag lemma="Bereza_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Bereza-2_;G" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920902-098-p1s1Dw8">
 <src.rf>manual</src.rf>
@@ -409,7 +409,7 @@
 <LM>w#w-mf920902-098-p1s2w9</LM>
 </w.rf>
 <form>Berezův</form>
-<tag lemma="Berezův_;Y_^(*2a)" src="orig" selected="1">AUMS1M---------</tag>
+<tag lemma="Berezův-1_;Y_^(*4a-1)" src="orig" selected="1">AUMS1M---------</tag>
 </m>
 <m id="m-mf920902-098-p1s2w10">
 <src.rf>manual</src.rf>
@@ -598,7 +598,7 @@
 <LM>w#w-mf920902-098-p1s3w10</LM>
 </w.rf>
 <form>svá</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8NP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8NP4---------1</tag>
 </m>
 <m id="m-mf920902-098-p1s3w11">
 <src.rf>manual</src.rf>
@@ -710,7 +710,7 @@
 <LM>w#w-mf920902-098-p1s3w24</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf920902-098-p1s3w25">
 <src.rf>manual</src.rf>
@@ -880,7 +880,7 @@
 <LM>w#w-mf920902-098-p1s4w17</LM>
 </w.rf>
 <form>Podgrabinská</form>
-<tag lemma="Podgrabinská_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Podgrabinská_;Y_^(*1ý)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920902-098-p1s4w18">
 <src.rf>manual</src.rf>
@@ -944,7 +944,7 @@
 <LM>w#w-mf920902-098-p1s4w25</LM>
 </w.rf>
 <form>Berezu</form>
-<tag lemma="Bereza_;G" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Bereza-2_;G" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf920902-098-p1s4w26">
 <src.rf>manual</src.rf>
@@ -1287,7 +1287,7 @@
 <LM>w#w-mf920902-098-p1s6w20</LM>
 </w.rf>
 <form>radu</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf920902-098-p1s6w21">
 <src.rf>manual</src.rf>
@@ -1457,7 +1457,7 @@
 <LM>w#w-mf920902-098-p1s7w7</LM>
 </w.rf>
 <form>Bereza</form>
-<tag lemma="Bereza_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Bereza-2_;G" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920902-098-p1s7w8">
 <src.rf>manual</src.rf>
@@ -1526,7 +1526,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf920902-098-p1s8w3">
@@ -1604,7 +1604,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf920902-098-p1s9w3">

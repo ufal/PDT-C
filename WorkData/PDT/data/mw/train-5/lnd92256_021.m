@@ -19,7 +19,7 @@
 <LM>w#w-lnd92256-021-p1s1w1</LM>
 </w.rf>
 <form>SLOVÁCI</form>
-<tag lemma="Slovák_;E" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="Slovák_;E_;Y" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd92256-021-p1s1w2">
 <src.rf>manual</src.rf>
@@ -288,7 +288,7 @@
 <LM>w#w-lnd92256-021-p3s2w21</LM>
 </w.rf>
 <form>Slováci</form>
-<tag lemma="Slovák_;E" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="Slovák_;E_;Y" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd92256-021-p3s2w22">
 <src.rf>manual</src.rf>
@@ -360,7 +360,7 @@
 <LM>w#w-lnd92256-021-p3s2w30</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-lnd92256-021-p3s2w31">
 <src.rf>manual</src.rf>
@@ -889,7 +889,7 @@
 <LM>w#w-lnd92256-021-p3s4w19</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-lnd92256-021-p3s4w20">
 <src.rf>manual</src.rf>

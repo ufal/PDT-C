@@ -301,7 +301,7 @@
 <LM>w#w-mf920923-001-p1s2w1</LM>
 </w.rf>
 <form>Její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9IS4FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9IS4FS3-------</tag>
 </m>
 <m id="m-mf920923-001-p1s2w2">
 <src.rf>manual</src.rf>
@@ -365,7 +365,7 @@
 <LM>w#w-mf920923-001-p1s2w9</LM>
 </w.rf>
 <form>Marie</form>
-<tag lemma="Marie-1_;Y" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Marie_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920923-001-p1s2w10">
 <src.rf>manual</src.rf>
@@ -510,7 +510,7 @@
 <LM>w#w-mf920923-001-p1s3w8</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrIS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS4----------</tag>
 </m>
 <m id="m-mf920923-001-p1s3w9">
 <src.rf>manual</src.rf>

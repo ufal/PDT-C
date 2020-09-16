@@ -408,7 +408,7 @@
 <LM>w#w-mf930708-019-p2s2w16</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-mf930708-019-p2s2w17">
 <src.rf>manual</src.rf>
@@ -652,7 +652,7 @@
 <LM>w#w-mf930708-019-p2s4w1</LM>
 </w.rf>
 <form>Její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XP1FS3-------</tag>
 </m>
 <m id="m-mf930708-019-p2s4w2">
 <src.rf>manual</src.rf>
@@ -945,7 +945,7 @@
 <LM>w#w-mf930708-019-p2s5w10</LM>
 </w.rf>
 <form>členové</form>
-<tag lemma="člen" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf930708-019-p2s5w11">
 <src.rf>manual</src.rf>
@@ -953,7 +953,7 @@
 <LM>w#w-mf930708-019-p2s5w11</LM>
 </w.rf>
 <form>Hnutí</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-mf930708-019-p2s5w12">
 <src.rf>manual</src.rf>
@@ -993,7 +993,7 @@
 <LM>w#w-mf930708-019-p2s5w16</LM>
 </w.rf>
 <form>Děti</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-mf930708-019-p2s5w17">
 <src.rf>manual</src.rf>

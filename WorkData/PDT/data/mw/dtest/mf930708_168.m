@@ -176,7 +176,7 @@
 <LM>w#w-mf930708-168-p2s1w14</LM>
 </w.rf>
 <form>vězení</form>
-<tag lemma="vězení_,a_^(místo_výkonu_trestu)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="vězení_^(místo_výkonu_trestu)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-mf930708-168-p2s1w15">
 <src.rf>manual</src.rf>
@@ -482,7 +482,7 @@
 <LM>w#w-mf930708-168-p3s1w14</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930708-168-p3s1w15">
 <src.rf>manual</src.rf>
@@ -498,7 +498,7 @@
 <LM>w#w-mf930708-168-p3s1w16</LM>
 </w.rf>
 <form>hnutí</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf930708-168-p3s1w17">
 <src.rf>manual</src.rf>
@@ -584,7 +584,7 @@
 <LM>w#w-mf930708-168-p3s2w3</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930708-168-p3s2w4">
 <src.rf>manual</src.rf>
@@ -711,7 +711,7 @@
 <LM>w#w-mf930708-168-p3s2w18</LM>
 </w.rf>
 <form>podáváním</form>
-<tag lemma="podávání_^(něco_[někomu]_[někam])_(*3at)" src="auto" selected="1">NNNS7-----A----</tag>
+<tag lemma="podávání_^(*3at)" src="auto" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-mf930708-168-p3s2w19">
 <src.rf>manual</src.rf>

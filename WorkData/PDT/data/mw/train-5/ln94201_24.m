@@ -370,7 +370,7 @@
 <LM>w#w-ln94201-24-p2s2w20</LM>
 </w.rf>
 <form>potřeby</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-ln94201-24-p2s2w21">
 <src.rf>manual</src.rf>
@@ -500,7 +500,7 @@
 <LM>w#w-ln94201-24-p2s3w13</LM>
 </w.rf>
 <form>naší</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS2-P1-------</tag>
 </m>
 <m id="m-ln94201-24-p2s3w14">
 <src.rf>manual</src.rf>

@@ -19,7 +19,7 @@
 <LM>w#w-ln94207-122-p1s1w1</LM>
 </w.rf>
 <form>Druhá</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS1----------</tag>
 </m>
 <m id="m-ln94207-122-p1s1w2">
 <src.rf>manual</src.rf>
@@ -125,7 +125,7 @@
 <LM>w#w-ln94207-122-p2s1Bw2</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-ln94207-122-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -341,7 +341,7 @@
 <LM>w#w-ln94207-122-p3s1w5</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-ln94207-122-p3s1w6">
 <src.rf>manual</src.rf>
@@ -817,7 +817,7 @@
 <LM>w#w-ln94207-122-p3s4w5</LM>
 </w.rf>
 <form>druhá</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS1----------</tag>
 </m>
 <m id="m-ln94207-122-p3s4w6">
 <src.rf>manual</src.rf>

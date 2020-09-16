@@ -362,7 +362,7 @@
 </w.rf>
 <form>orgán</form>
 <tag>
-<AM lemma="orgán" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="orgán-1" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="orgán" src="auto">NNIS4-----A----</AM>
 <AM lemma="orgán" src="auto">NNMS1-----A----</AM>
 </tag>
@@ -515,7 +515,7 @@
 <form>svého</form>
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8MS4----------</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8ZS2----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8ZS2----------</AM>
 </tag>
 </m>
 <m id="m-wsj0735-001-p1s1W12-Ta">
@@ -3232,7 +3232,7 @@
 <LM>w#w-wsj0735-001-p1s8W4</LM>
 </w.rf>
 <form>Scott</form>
-<tag lemma="Scott_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="Scott-1_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj0735-001-p1s8W5-Ta">
 <src.rf>tagger-a</src.rf>

@@ -489,7 +489,7 @@
 <LM>w#w-mf930713-067-p2s3w5</LM>
 </w.rf>
 <form>lahve</form>
-<tag lemma="lahev" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="lahev_,s_^(^DD**láhev)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930713-067-p2s3w6">
 <src.rf>manual</src.rf>
@@ -651,7 +651,7 @@
 <LM>w#w-mf930713-067-p2s4w2</LM>
 </w.rf>
 <form>prvního</form>
-<tag lemma="první" src="orig" selected="1">CrIS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS2----------</tag>
 </m>
 <m id="m-mf930713-067-p2s4w3">
 <src.rf>manual</src.rf>
@@ -669,7 +669,7 @@
 <form>favoritu</form>
 <tag>
 <AM lemma="Favorit-2_;m_^(vozidlo)" src="orig">NNIS2-----A----</AM>
-<AM lemma="favorit-1_;m" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
+<AM lemma="favorit-1_^(vozidlo)" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
 <AM lemma="favorit-1_;m" src="auto">NNIS3-----A----</AM>
 <AM lemma="favorit-1_;m" src="auto">NNIS6-----A----</AM>
 <AM lemma="favorit-2" src="auto">NNMS3-----A---1</AM>
@@ -706,7 +706,7 @@
 <LM>w#w-mf930713-067-p2s4w8</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-mf930713-067-p2s4w9">
 <src.rf>manual</src.rf>
@@ -1341,7 +1341,7 @@
 <LM>w#w-mf930713-067-p3s3w14</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-mf930713-067-p3s3w15">
 <src.rf>manual</src.rf>
@@ -1596,7 +1596,7 @@
 <LM>w#w-mf930713-067-p3s5w7</LM>
 </w.rf>
 <form>svá</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8NP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8NP4---------1</tag>
 </m>
 <m id="m-mf930713-067-p3s5w8">
 <src.rf>manual</src.rf>
@@ -1848,7 +1848,7 @@
 <LM>w#w-mf930713-067-p3s7w10</LM>
 </w.rf>
 <form>lahví</form>
-<tag lemma="lahev" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="lahev_,s_^(^DD**láhev)" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-mf930713-067-p3s7w11">
 <src.rf>manual</src.rf>
@@ -1904,7 +1904,7 @@
 <LM>w#w-mf930713-067-p3s7w17</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-mf930713-067-p3s7w18">
 <src.rf>manual</src.rf>

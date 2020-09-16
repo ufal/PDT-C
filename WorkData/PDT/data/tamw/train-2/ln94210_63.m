@@ -27,7 +27,7 @@
 <LM>w#w-ln94210-63-p1s1w2</LM>
 </w.rf>
 <form>anonymy</form>
-<tag lemma="anonym" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="anonym-2" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-ln94210-63-p1s1w3">
 <src.rf>manual</src.rf>
@@ -258,7 +258,7 @@
 <LM>w#w-ln94210-63-p2s1Bw20</LM>
 </w.rf>
 <form>Wallise</form>
-<tag lemma="Wallis_;Y" src="auto" selected="1">NNMS4-----A----</tag>
+<tag lemma="Wallis-1_;Y" src="auto" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94210-63-p2s1Bw21">
 <src.rf>manual</src.rf>
@@ -779,7 +779,7 @@
 <LM>w#w-ln94210-63-p2s5w12</LM>
 </w.rf>
 <form>spravedlnosti</form>
-<tag lemma="spravedlnost_^(*3ý)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="spravedlnost-1_^(*5ý-1)" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94210-63-p2s5w13">
 <src.rf>manual</src.rf>
@@ -904,7 +904,7 @@
 <LM>w#w-ln94210-63-p2s6w6</LM>
 </w.rf>
 <form>Wallis</form>
-<tag lemma="Wallis_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Wallis-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-63-p2s6w7">
 <src.rf>manual</src.rf>
@@ -1021,7 +1021,7 @@
 <LM>w#w-ln94210-63-p2s7w5</LM>
 </w.rf>
 <form>naše</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSHS1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSHS1-P1-------</tag>
 </m>
 <m id="m-ln94210-63-p2s7w6">
 <src.rf>manual</src.rf>
@@ -1045,7 +1045,7 @@
 <LM>w#w-ln94210-63-p2s7w8</LM>
 </w.rf>
 <form>Wallisově</form>
-<tag lemma="Wallisův_;G_;Y_^(*2)" src="orig" selected="1">AUIS6M---------</tag>
+<tag lemma="Wallisův-1_;Y_^(*4-1)" src="orig" selected="1">AUIS6M---------</tag>
 </m>
 <m id="m-ln94210-63-p2s7w9">
 <src.rf>manual</src.rf>
@@ -1194,7 +1194,7 @@
 <LM>w#w-ln94210-63-p2s8w1</LM>
 </w.rf>
 <form>Anonymy</form>
-<tag lemma="anonym" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="anonym-2" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-ln94210-63-p2s8w2">
 <src.rf>manual</src.rf>
@@ -1248,7 +1248,7 @@
 <AM lemma="expertíza" src="orig">NNFS3-----A----</AM>
 <AM lemma="expertiza" src="auto" recommended="1">NNFS3-----A----</AM>
 <AM lemma="expertiza" src="auto">NNFS6-----A----</AM>
-<AM lemma="expertiza_,s_^(^DD**expertýza)" src="manual" selected="1">NNFS3-----A----</AM>
+<AM lemma="expertiza" src="manual" selected="1">NNFS3-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-63-p2s9w4">
@@ -1538,7 +1538,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94210-63-p2s12w4">
@@ -1645,7 +1645,7 @@
 <LM>w#w-ln94210-63-p2s13w5</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-ln94210-63-p2s13w6">
 <src.rf>manual</src.rf>

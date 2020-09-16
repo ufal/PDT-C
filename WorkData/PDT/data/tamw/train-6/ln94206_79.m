@@ -77,7 +77,7 @@
 <LM>w#w-ln94206-79-p2s1Aw4</LM>
 </w.rf>
 <form>vyhlášený</form>
-<tag lemma="vyhlášený_,a_^(*4sit)" src="orig" selected="1">AAIS4----1A----</tag>
+<tag lemma="vyhlášený_^(*2t)_(*4sit)" src="orig" selected="1">AAIS4----1A----</tag>
 </m>
 <m id="m-ln94206-79-p2s1Aw5">
 <src.rf>manual</src.rf>
@@ -426,7 +426,7 @@
 <LM>w#w-ln94206-79-p2s2w11</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-ln94206-79-p2s2w12">
 <src.rf>manual</src.rf>
@@ -824,7 +824,7 @@
 <LM>w#w-ln94206-79-p3s3w11</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94206-79-p3s3w12">
 <src.rf>manual</src.rf>
@@ -1034,7 +1034,7 @@
 <LM>w#w-ln94206-79-p4s1w6</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94206-79-p4s1w7">
 <src.rf>manual</src.rf>
@@ -1826,7 +1826,7 @@
 <LM>w#w-ln94206-79-p6s1w14</LM>
 </w.rf>
 <form>ohlášené</form>
-<tag lemma="ohlášený_,a_^(*4sit)" src="auto" selected="1">AANS4----1A----</tag>
+<tag lemma="ohlášený_^(*2t)_(*4sit)" src="auto" selected="1">AANS4----1A----</tag>
 </m>
 <m id="m-ln94206-79-p6s1w15">
 <src.rf>manual</src.rf>

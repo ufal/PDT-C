@@ -468,7 +468,7 @@
 <LM>w#w-mf920924-108-p2s4w3</LM>
 </w.rf>
 <form>dalo</form>
-<tag lemma="dát" src="orig" selected="1">VpNS----R-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf920924-108-p2s4w4">
 <src.rf>manual</src.rf>

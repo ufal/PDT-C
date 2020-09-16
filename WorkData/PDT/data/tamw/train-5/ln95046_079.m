@@ -475,7 +475,7 @@
 <LM>w#w-ln95046-079-p2s2w11</LM>
 </w.rf>
 <form>orgány</form>
-<tag lemma="orgán" src="orig" selected="1">NNIP7-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIP7-----A----</tag>
 </m>
 <m id="m-ln95046-079-p2s2w12">
 <src.rf>manual</src.rf>

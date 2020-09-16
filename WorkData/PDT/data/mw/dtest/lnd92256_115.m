@@ -27,7 +27,7 @@
 <LM>w#w-lnd92256-115-p1s1w2</LM>
 </w.rf>
 <form>NAŠICH</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP2-P1-------</tag>
 </m>
 <m id="m-lnd92256-115-p1s1w3">
 <src.rf>manual</src.rf>
@@ -769,7 +769,7 @@
 <LM>w#w-lnd92256-115-p3s6w2</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-lnd92256-115-p3s6w3">
 <src.rf>manual</src.rf>

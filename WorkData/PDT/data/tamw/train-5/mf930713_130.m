@@ -199,7 +199,7 @@
 <LM>w#w-mf930713-130-p3s2w8</LM>
 </w.rf>
 <form>neschopnosti</form>
-<tag lemma="neschopnost_;U_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="neschopnost_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930713-130-p3s2w9">
 <src.rf>manual</src.rf>
@@ -965,7 +965,7 @@
 <LM>w#w-mf930713-130-p5s2w15</LM>
 </w.rf>
 <form>stanovenou</form>
-<tag lemma="stanovený_^(určit)_(*3it)" src="orig" selected="1">AAFS4----1A----</tag>
+<tag lemma="stanovený_^(*3it)" src="orig" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-mf930713-130-p5s2w16">
 <src.rf>manual</src.rf>

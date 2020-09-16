@@ -127,7 +127,7 @@
 <LM>w#w-cmpr9413-027-p6s1w1</LM>
 </w.rf>
 <form>Podání</form>
-<tag lemma="podání_^(něco_[někomu]_[někam])_(*3at)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="podání_^(*3at)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-027-p6s1w2">
 <src.rf>manual</src.rf>
@@ -697,7 +697,7 @@
 <LM>w#w-cmpr9413-027-p9s1w13</LM>
 </w.rf>
 <form>Podání</form>
-<tag lemma="podání_^(něco_[někomu]_[někam])_(*3at)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="podání_^(*3at)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-027-p9s1w14">
 <src.rf>manual</src.rf>

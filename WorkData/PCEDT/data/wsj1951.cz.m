@@ -126,7 +126,7 @@
 <form>svého</form>
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8MS4----------</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8ZS2----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8ZS2----------</AM>
 </tag>
 </m>
 <m id="m-wsj1951-001-p1s0W12-Ta">
@@ -253,7 +253,7 @@
 <form>Sawyera</form>
 <tag>
 <AM lemma="Sawyer_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Sawyer_;Y" src="auto" selected="1">NNMS4-----A----</AM>
+<AM lemma="Sawyer-1_;Y" src="auto" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1951-001-p1s0W23-Ta">
@@ -1568,7 +1568,7 @@
 </w.rf>
 <form>nesprávnou</form>
 <tag>
-<AM lemma="správný_^(správný_chlap)" src="auto" recommended="1">AAFS4----1N----</AM>
+<AM lemma="správný" src="auto" recommended="1">AAFS4----1N----</AM>
 <AM lemma="správný_^(správný_chlap)" src="auto">AAFS7----1N----</AM>
 </tag>
 </m>
@@ -1720,7 +1720,7 @@
 </w.rf>
 <form>svých</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8XP2----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8XP2----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8XP6----------</AM>
 </tag>
 </m>
@@ -2731,7 +2731,7 @@
 <AM lemma="Baltimore_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Baltimore_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Baltimore_;G" src="auto">NNIS5-----A----</AM>
-<AM lemma="Baltimore_;G" src="auto" recommended="1">NNIXX-----A----</AM>
+<AM lemma="Baltimore_;G_;m" src="auto" recommended="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1951-001-p1s8W32-Ta">
@@ -3520,7 +3520,7 @@
 <tag>
 <AM lemma="Sawyer_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Sawyer_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Sawyer_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Sawyer-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1951-001-p1s12W2-Ta">
@@ -3796,7 +3796,7 @@
 </w.rf>
 <form>svým</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8XP3----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8XP3----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8ZS6---------7</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8ZS7----------</AM>
 </tag>
@@ -3978,7 +3978,7 @@
 <tag>
 <AM lemma="Sawyer_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Sawyer_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Sawyer_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Sawyer-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1951-001-p1s14W8-Ta">

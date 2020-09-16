@@ -101,7 +101,7 @@
 <LM>w#w-lnd92253-042-p2s1w3</LM>
 </w.rf>
 <form>zklidnění</form>
-<tag lemma="zklidnění_^(*3it)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="zklidnění_^(*2t)_(*3it)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-lnd92253-042-p2s1w4">
 <src.rf>manual</src.rf>

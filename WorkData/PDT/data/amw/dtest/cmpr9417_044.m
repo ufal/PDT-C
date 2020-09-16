@@ -180,7 +180,7 @@
 <LM>w#w-cmpr9417-044-p4s2w3</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-cmpr9417-044-p4s2w4">
 <src.rf>manual</src.rf>
@@ -647,7 +647,7 @@
 <form>management</form>
 <tag>
 <AM lemma="management_,t_^(vedení,_manažment;_angl.)" src="orig">NNIS4-----A----</AM>
-<AM lemma="management" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="management_,s_^(^DD**manažment)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-044-p7s1w13">
@@ -812,7 +812,7 @@
 <form>management</form>
 <tag>
 <AM lemma="management_,t_^(vedení,_manažment;_angl.)" src="orig">NNIS1-----A----</AM>
-<AM lemma="management" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="management_,s_^(^DD**manažment)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-044-p7s3w18">
@@ -1103,7 +1103,7 @@
 <LM>w#w-cmpr9417-044-p7s4w9</LM>
 </w.rf>
 <form>intenzivní</form>
-<tag lemma="intenzívní" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="intenzivní_,s_^(^DD**intenzívní)" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-cmpr9417-044-p7s4w10">
 <src.rf>manual</src.rf>
@@ -2019,7 +2019,7 @@
 <LM>w#w-cmpr9417-044-p11s1w33</LM>
 </w.rf>
 <form>nejlepších</form>
-<tag lemma="dobrý" src="orig" selected="1">AAIP2----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAIP2----3A----</tag>
 </m>
 <m id="m-cmpr9417-044-p11s1w34">
 <src.rf>manual</src.rf>
@@ -2107,7 +2107,7 @@
 <LM>w#w-cmpr9417-044-p11s1w44</LM>
 </w.rf>
 <form>vytvářením</form>
-<tag lemma="vytváření_,a_^(*2t)" src="auto" selected="1">NNNS7-----A----</tag>
+<tag lemma="vytváření_^(*2t)_(*3it)" src="auto" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-cmpr9417-044-p11s1w45">
 <src.rf>manual</src.rf>

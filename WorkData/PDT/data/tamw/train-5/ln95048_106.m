@@ -107,7 +107,7 @@
 <LM>w#w-ln95048-106-p1s1w12</LM>
 </w.rf>
 <form>míří</form>
-<tag lemma="mířit_^(např._pistolí;_směřovat;_tvar_slovesa)" src="orig" selected="1">VB-P---3P-AAI--</tag>
+<tag lemma="mířit" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln95048-106-p1s1w13">
 <src.rf>manual</src.rf>

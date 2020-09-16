@@ -634,7 +634,7 @@
 <LM>w#w-ln95040-039-p2s2w18</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP2-P1-------</tag>
 </m>
 <m id="m-ln95040-039-p2s2w19">
 <src.rf>manual</src.rf>
@@ -658,7 +658,7 @@
 <LM>w#w-ln95040-039-p2s2w21</LM>
 </w.rf>
 <form>co</form>
-<tag lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="co-5_^(př._co_nejméně,_co_nevidět_atd.)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95040-039-p2s2w22">
 <src.rf>manual</src.rf>
@@ -1945,7 +1945,7 @@
 <LM>w#w-ln95040-039-p4s1w12</LM>
 </w.rf>
 <form>dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95040-039-p4s1w13">
 <src.rf>manual</src.rf>
@@ -2153,7 +2153,7 @@
 <LM>w#w-ln95040-039-p4s1w38</LM>
 </w.rf>
 <form>člen</form>
-<tag lemma="člen" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="člen-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95040-039-p4s1w39">
 <src.rf>manual</src.rf>
@@ -2461,7 +2461,7 @@
 <LM>w#w-ln95040-039-p5s1w13</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-ln95040-039-p5s1w14">
 <src.rf>manual</src.rf>

@@ -859,7 +859,7 @@
 <AM lemma="navržený_^(*4hnout)" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="navržený_^(*4hnout)" src="auto">AAFS5----1A----</AM>
 <AM lemma="navržený_^(*4hnout)" src="auto">AANP1----1A----</AM>
-<AM lemma="navržený_^(*4hnout)" src="auto" selected="1">AANP4----1A----</AM>
+<AM lemma="navržený" src="auto" selected="1">AANP4----1A----</AM>
 <AM lemma="navržený_^(*4hnout)" src="auto">AANP5----1A----</AM>
 </tag>
 </m>
@@ -1094,7 +1094,7 @@
 </w.rf>
 <form>stanovenou</form>
 <tag>
-<AM lemma="stanovený_^(určit)_(*3it)" src="auto" recommended="1">AAFS4----1A----</AM>
+<AM lemma="stanovený_^(*3it)" src="auto" recommended="1">AAFS4----1A----</AM>
 <AM lemma="stanovený_^(určit)_(*3it)" src="auto">AAFS7----1A----</AM>
 </tag>
 </m>
@@ -2268,7 +2268,7 @@
 <tag>
 <AM lemma="Archer_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Archer_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Archer_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Archer-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1062-001-p1s5W6-Ta">
@@ -2355,7 +2355,7 @@
 </w.rf>
 <form>Výboru</form>
 <tag>
-<AM lemma="výbor" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="výbor-1" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="výbor" src="auto">NNIS3-----A----</AM>
 <AM lemma="výbor" src="auto">NNIS6-----A----</AM>
 <AM lemma="výbor" src="auto">NNMS3-----A---1</AM>
@@ -2735,7 +2735,7 @@
 <AM lemma="lobování_^(*3at)" src="auto">NNNS1-----A----</AM>
 <AM lemma="lobování_^(*3at)" src="auto">NNNS2-----A----</AM>
 <AM lemma="lobování_^(*3at)" src="auto">NNNS3-----A----</AM>
-<AM lemma="lobování_^(*3at)" src="auto" recommended="1">NNNS4-----A----</AM>
+<AM lemma="lobování_^(^DD**lobbování)_(*3at)" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="lobování_^(*3at)" src="auto">NNNS5-----A----</AM>
 <AM lemma="lobování_^(*3at)" src="auto">NNNS6-----A----</AM>
 </tag>
@@ -3295,7 +3295,7 @@
 <AM lemma="první" src="auto">CrNP1----------</AM>
 <AM lemma="první" src="auto">CrNP4----------</AM>
 <AM lemma="první" src="auto">CrNP5----------</AM>
-<AM lemma="první" src="auto" recommended="1">CrNS1----------</AM>
+<AM lemma="první-1" src="auto" recommended="1">CrNS1----------</AM>
 <AM lemma="první" src="auto">CrNS4----------</AM>
 <AM lemma="první" src="auto">CrNS5----------</AM>
 </tag>
@@ -4175,7 +4175,7 @@
 <form>děti</form>
 <tag>
 <AM lemma="dítě" src="auto">NNFP1-----A----</AM>
-<AM lemma="dítě" src="auto" recommended="1">NNFP4-----A----</AM>
+<AM lemma="dítě-2" src="auto" recommended="1">NNFP4-----A----</AM>
 <AM lemma="dítě" src="auto">NNFP5-----A----</AM>
 </tag>
 </m>

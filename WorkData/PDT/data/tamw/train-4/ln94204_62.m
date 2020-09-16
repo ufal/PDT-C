@@ -272,7 +272,7 @@
 <LM>w#w-ln94204-62-p2s1Cw17</LM>
 </w.rf>
 <form>tajnou</form>
-<tag lemma="tajný" src="orig" selected="1">AAFS7----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AAFS7----1A----</tag>
 </m>
 <m id="m-ln94204-62-p2s1Cw18">
 <src.rf>manual</src.rf>
@@ -386,7 +386,7 @@
 <LM>w#w-ln94204-62-p3s1w6</LM>
 </w.rf>
 <form>člen</form>
-<tag lemma="člen" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-62-p3s1w7">
 <src.rf>manual</src.rf>
@@ -402,7 +402,7 @@
 <LM>w#w-ln94204-62-p3s1w8</LM>
 </w.rf>
 <form>rady</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94204-62-p3s1w9">
 <src.rf>manual</src.rf>
@@ -1128,7 +1128,7 @@
 <LM>w#w-ln94204-62-p4s2w18</LM>
 </w.rf>
 <form>Evropě</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94204-62-p4s2w19">
 <src.rf>manual</src.rf>

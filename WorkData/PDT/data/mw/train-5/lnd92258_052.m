@@ -488,7 +488,7 @@
 <LM>w#w-lnd92258-052-p5s1w26</LM>
 </w.rf>
 <form>můj</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSIS4-S1-------</tag>
+<tag lemma="můj" src="orig" selected="1">PSIS4-S1-------</tag>
 </m>
 <m id="m-lnd92258-052-p5s1w27">
 <src.rf>manual</src.rf>
@@ -732,7 +732,7 @@
 <LM>w#w-lnd92258-052-p5s3w5</LM>
 </w.rf>
 <form>spravedlnosti</form>
-<tag lemma="spravedlnost_^(*3ý)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="spravedlnost-1_^(*5ý-1)" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92258-052-p5s3w6">
 <src.rf>manual</src.rf>
@@ -788,7 +788,7 @@
 <LM>w#w-lnd92258-052-p5s3w12</LM>
 </w.rf>
 <form>vypadat</form>
-<tag lemma="vypadat" src="orig" selected="1">Vf--------A-I--</tag>
+<tag lemma="vypadat-1_^(ty_vypadáš)" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-lnd92258-052-p5s3w13">
 <src.rf>manual</src.rf>
@@ -836,7 +836,7 @@
 <LM>w#w-lnd92258-052-p5s3w18</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-lnd92258-052-p5s3w19">
 <src.rf>manual</src.rf>
@@ -852,7 +852,7 @@
 <LM>w#w-lnd92258-052-p5s3w20</LM>
 </w.rf>
 <form>mé</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS2-S1------1</tag>
+<tag lemma="můj" src="orig" selected="1">PSFS2-S1------1</tag>
 </m>
 <m id="m-lnd92258-052-p5s3w21">
 <src.rf>manual</src.rf>
@@ -886,7 +886,7 @@
 <LM>w#w-lnd92258-052-p5s4w2</LM>
 </w.rf>
 <form>zaujatost</form>
-<tag lemma="zaujatost_^(proti_někomu/něčemu)_(*3ý)" src="auto" selected="1">NNFS4-----A----</tag>
+<tag lemma="zaujatost_^(*3ý)" src="auto" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-lnd92258-052-p5s4w3">
 <src.rf>manual</src.rf>
@@ -963,7 +963,7 @@
 <LM>w#w-lnd92258-052-p5s5w6</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92258-052-p5s5w7">
 <src.rf>manual</src.rf>
@@ -971,7 +971,7 @@
 <LM>w#w-lnd92258-052-p5s5w7</LM>
 </w.rf>
 <form>orgánů</form>
-<tag lemma="orgán" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-lnd92258-052-p5s5w8">
 <src.rf>manual</src.rf>

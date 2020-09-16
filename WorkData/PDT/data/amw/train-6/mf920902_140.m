@@ -526,7 +526,7 @@
 <LM>w#w-mf920902-140-p2s4w12</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-mf920902-140-p2s4w13">
 <src.rf>manual</src.rf>
@@ -534,7 +534,7 @@
 <LM>w#w-mf920902-140-p2s4w13</LM>
 </w.rf>
 <form>druhým</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS7----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS7----------</tag>
 </m>
 <m id="m-mf920902-140-p2s4w14">
 <src.rf>manual</src.rf>
@@ -542,7 +542,7 @@
 <LM>w#w-mf920902-140-p2s4w14</LM>
 </w.rf>
 <form>zaměstnáním</form>
-<tag lemma="zaměstnání-1_^(všeob._význam:_činnost,_zaměstnání)_(*5at-1)" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="zaměstnání_^(*3at)" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-mf920902-140-p2s4w15">
 <src.rf>manual</src.rf>

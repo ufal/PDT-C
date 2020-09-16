@@ -56,7 +56,7 @@
 <LM>w#w-ln94200-149-p2s1Aw2</LM>
 </w.rf>
 <form>Coruňa</form>
-<tag lemma="Coruňa_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Coruňa_;G_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94200-149-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -192,7 +192,7 @@
 <LM>w#w-ln94200-149-p2s1Bw15</LM>
 </w.rf>
 <form>Coruňa</form>
-<tag lemma="Coruňa_;G" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Coruňa_;G_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94200-149-p2s1Bw16">
 <src.rf>manual</src.rf>
@@ -210,7 +210,7 @@
 <LM>w#w-ln94200-149-p2s2w1</LM>
 </w.rf>
 <form>Můj</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSYS1-S1-------</tag>
+<tag lemma="můj" src="orig" selected="1">PSYS1-S1-------</tag>
 </m>
 <m id="m-ln94200-149-p2s2w2">
 <src.rf>manual</src.rf>
@@ -386,7 +386,7 @@
 <LM>w#w-ln94200-149-p2s3w14</LM>
 </w.rf>
 <form>manažer</form>
-<tag lemma="manažer" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="manažer-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-149-p2s3w15">
 <src.rf>manual</src.rf>

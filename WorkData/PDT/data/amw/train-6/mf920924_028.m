@@ -127,7 +127,7 @@
 <LM>w#w-mf920924-028-p2s1Bw9</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-mf920924-028-p2s1Bw10">
 <src.rf>manual</src.rf>

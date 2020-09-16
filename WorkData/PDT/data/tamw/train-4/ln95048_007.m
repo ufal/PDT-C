@@ -125,7 +125,7 @@
 <LM>w#w-ln95048-007-p2s1w13</LM>
 </w.rf>
 <form>právo</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln95048-007-p2s1w14">
 <src.rf>manual</src.rf>

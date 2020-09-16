@@ -176,7 +176,7 @@
 <LM>w#w-ln94211-104-p2s1w14</LM>
 </w.rf>
 <form>představení</form>
-<tag lemma="představení-2_^(divadelní,_filmové_apod.)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="představení-1_^(*5it-1)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln94211-104-p2s1w15">
 <src.rf>manual</src.rf>
@@ -538,7 +538,7 @@
 <LM>w#w-ln94211-104-p2s3w8</LM>
 </w.rf>
 <form>Jean</form>
-<tag lemma="Jean_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jean-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-104-p2s3w9">
 <src.rf>manual</src.rf>
@@ -618,7 +618,7 @@
 <LM>w#w-ln94211-104-p2s3w18</LM>
 </w.rf>
 <form>nemoc</form>
-<tag lemma="nemoc_^(choroba)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="nemoc" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94211-104-p2s3w19">
 <src.rf>manual</src.rf>
@@ -692,7 +692,7 @@
 <LM>w#w-ln94211-104-p2s4w7</LM>
 </w.rf>
 <form>málo</form>
-<tag lemma="málo-1_^(málo_+_2._p.,_málo_peněz)" src="orig" selected="1">Ca--1----------</tag>
+<tag lemma="málo-1_^(málo_peněz)" src="orig" selected="1">Ca--1----------</tag>
 </m>
 <m id="m-ln94211-104-p2s4w8">
 <src.rf>manual</src.rf>
@@ -758,7 +758,7 @@
 <LM>w#w-ln94211-104-p2s5w8</LM>
 </w.rf>
 <form>náš</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSYS1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSYS1-P1-------</tag>
 </m>
 <m id="m-ln94211-104-p2s5w9">
 <src.rf>manual</src.rf>
@@ -1024,7 +1024,7 @@
 <LM>w#w-ln94211-104-p2s6w12</LM>
 </w.rf>
 <form>představení</form>
-<tag lemma="představení-2_^(divadelní,_filmové_apod.)" src="orig" selected="1">NNNP4-----A----</tag>
+<tag lemma="představení-1_^(*5it-1)" src="orig" selected="1">NNNP4-----A----</tag>
 </m>
 <m id="m-ln94211-104-p2s6w13">
 <src.rf>manual</src.rf>

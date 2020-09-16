@@ -343,7 +343,7 @@
 <LM>w#w-ln94204-53-p2s1Cw21</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS7----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS7----------</tag>
 </m>
 <m id="m-ln94204-53-p2s1Cw22">
 <src.rf>manual</src.rf>
@@ -1626,7 +1626,7 @@
 <LM>w#w-ln94204-53-p4s2w3</LM>
 </w.rf>
 <form>právo</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln94204-53-p4s2w4">
 <src.rf>manual</src.rf>
@@ -1976,7 +1976,7 @@
 <LM>w#w-ln94204-53-p4s5w16</LM>
 </w.rf>
 <form>právo</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln94204-53-p4s5w17">
 <src.rf>manual</src.rf>
@@ -2110,7 +2110,7 @@
 <LM>w#w-ln94204-53-p4s5w32</LM>
 </w.rf>
 <form>práva</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln94204-53-p4s5w33">
 <src.rf>manual</src.rf>
@@ -2622,7 +2622,7 @@
 <LM>w#w-ln94204-53-p4s8w27</LM>
 </w.rf>
 <form>dá</form>
-<tag lemma="dát" src="orig" selected="1">VB-S---3P-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln94204-53-p4s8w28">
 <src.rf>manual</src.rf>

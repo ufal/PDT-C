@@ -655,7 +655,7 @@
 <LM>w#w-ln95040-118-p2s3w33</LM>
 </w.rf>
 <form>druhému</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS3----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS3----------</tag>
 </m>
 <m id="m-ln95040-118-p2s3w34">
 <src.rf>manual</src.rf>
@@ -721,7 +721,7 @@
 <LM>w#w-ln95040-118-p3s1w2</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-ln95040-118-p3s1w3">
 <src.rf>manual</src.rf>
@@ -984,7 +984,7 @@
 <LM>w#w-ln95040-118-p3s3w3</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-4_^(v_knize,_rukopise,...)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln95040-118-p3s3w4">
 <src.rf>manual</src.rf>

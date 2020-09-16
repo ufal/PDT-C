@@ -157,7 +157,7 @@
 <LM>w#w-ln95045-001-p2s1Bw10</LM>
 </w.rf>
 <form>avalem</form>
-<tag lemma="aval" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="aval-1" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-ln95045-001-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -473,7 +473,7 @@
 <LM>w#w-ln95045-001-p2s3w5</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-001-p2s3w6">
 <src.rf>manual</src.rf>
@@ -558,7 +558,7 @@
 <LM>w#w-ln95045-001-p3s1w8</LM>
 </w.rf>
 <form>orgány</form>
-<tag lemma="orgán" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-ln95045-001-p3s1w9">
 <src.rf>manual</src.rf>
@@ -905,7 +905,7 @@
 <LM>w#w-ln95045-001-p3s1w50</LM>
 </w.rf>
 <form>jejího</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS2FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS2FS3-------</tag>
 </m>
 <m id="m-ln95045-001-p3s1w51">
 <src.rf>manual</src.rf>
@@ -987,7 +987,7 @@
 <LM>w#w-ln95045-001-p4s1w2</LM>
 </w.rf>
 <form>mluvčího</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95045-001-p4s1w3">
 <src.rf>manual</src.rf>
@@ -1314,7 +1314,7 @@
 <LM>w#w-ln95045-001-p4s3w18</LM>
 </w.rf>
 <form>jejím</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS7FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS7FS3-------</tag>
 </m>
 <m id="m-ln95045-001-p4s3w19">
 <src.rf>manual</src.rf>

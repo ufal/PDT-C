@@ -1069,7 +1069,7 @@
 <LM>w#w-ln95049-113-p3s4w6</LM>
 </w.rf>
 <form>politiky</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95049-113-p3s4w7">
 <src.rf>manual</src.rf>
@@ -1813,7 +1813,7 @@
 <LM>w#w-ln95049-113-p4s4w21</LM>
 </w.rf>
 <form>Alšově</form>
-<tag lemma="Alšův-2_;Y_^(*5eš-2)" src="auto" selected="1">AUNS6M---------</tag>
+<tag lemma="Alšův_;Y_^(*3eš)" src="auto" selected="1">AUNS6M---------</tag>
 </m>
 <m id="m-ln95049-113-p4s4w22">
 <src.rf>manual</src.rf>
@@ -1837,7 +1837,7 @@
 <LM>w#w-ln95049-113-p4s4w24</LM>
 </w.rf>
 <form>Karlova</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUIS2M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUIS2M---------</tag>
 </m>
 <m id="m-ln95049-113-p4s4w25">
 <src.rf>manual</src.rf>

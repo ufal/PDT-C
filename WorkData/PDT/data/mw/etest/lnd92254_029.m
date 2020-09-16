@@ -1085,7 +1085,7 @@
 <LM>w#w-lnd92254-029-p4s3w3</LM>
 </w.rf>
 <form>směny</form>
-<tag lemma="směna-2_^(pracovní;...)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="směna_^(výměna_za_něco;pracovní)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92254-029-p4s3w4">
 <src.rf>manual</src.rf>
@@ -1469,7 +1469,7 @@
 <LM>w#w-lnd92254-029-p5s1w13</LM>
 </w.rf>
 <form>Výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92254-029-p5s1w14">
 <src.rf>manual</src.rf>
@@ -2021,7 +2021,7 @@
 <LM>w#w-lnd92254-029-p5s5w4</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92254-029-p5s5w5">
 <src.rf>manual</src.rf>
@@ -3185,7 +3185,7 @@
 <LM>w#w-lnd92254-029-p7s4w14</LM>
 </w.rf>
 <form>Zelení</form>
-<tag lemma="zelený" src="orig" selected="1">AAMP1----1A----</tag>
+<tag lemma="zelený_;o" src="orig" selected="1">AAMP1----1A----</tag>
 </m>
 <m id="m-lnd92254-029-p7s4w15">
 <src.rf>manual</src.rf>
@@ -3203,7 +3203,7 @@
 <LM>w#w-lnd92254-029-p7s5w1</LM>
 </w.rf>
 <form>Hnutí</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-lnd92254-029-p7s5w2">
 <src.rf>manual</src.rf>

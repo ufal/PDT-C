@@ -215,7 +215,7 @@
 <LM>w#w-lnd92257-022-p2s1w2</LM>
 </w.rf>
 <form>Zlatou</form>
-<tag lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAFS7----1A----</tag>
+<tag lemma="zlatý-1_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAFS7----1A----</tag>
 </m>
 <m id="m-lnd92257-022-p2s1w3">
 <src.rf>manual</src.rf>
@@ -887,7 +887,7 @@
 <LM>w#w-lnd92257-022-p3s2w16</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-lnd92257-022-p3s2w17">
 <src.rf>manual</src.rf>

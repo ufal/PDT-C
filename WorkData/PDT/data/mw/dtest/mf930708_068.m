@@ -27,7 +27,7 @@
 <LM>w#w-mf930708-068-p1s1w2</LM>
 </w.rf>
 <form>postižení</form>
-<tag lemma="postižený_^(*4hnout)" src="orig" selected="1">AAMP1----1A----</tag>
+<tag lemma="postižený" src="orig" selected="1">AAMP1----1A----</tag>
 </m>
 <m id="m-mf930708-068-p1s1w3">
 <src.rf>manual</src.rf>
@@ -132,7 +132,7 @@
 <LM>w#w-mf930708-068-p2s1w7</LM>
 </w.rf>
 <form>postižení</form>
-<tag lemma="postižený_^(*4hnout)" src="orig" selected="1">AAMP1----1A----</tag>
+<tag lemma="postižený" src="orig" selected="1">AAMP1----1A----</tag>
 </m>
 <m id="m-mf930708-068-p2s1w8">
 <src.rf>manual</src.rf>
@@ -212,7 +212,7 @@
 <LM>w#w-mf930708-068-p2s1w17</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-mf930708-068-p2s1w18">
 <src.rf>manual</src.rf>
@@ -382,7 +382,7 @@
 <LM>w#w-mf930708-068-p2s2w16</LM>
 </w.rf>
 <form>postižených</form>
-<tag lemma="postižený_^(*4hnout)" src="orig" selected="1">AAMP2----1A----</tag>
+<tag lemma="postižený" src="orig" selected="1">AAMP2----1A----</tag>
 </m>
 <m id="m-mf930708-068-p2s2w17">
 <src.rf>manual</src.rf>
@@ -1343,7 +1343,7 @@
 <LM>w#w-mf930708-068-p4s1w24</LM>
 </w.rf>
 <form>postižených</form>
-<tag lemma="postižený_^(*4hnout)" src="orig" selected="1">AAMP2----1A----</tag>
+<tag lemma="postižený" src="orig" selected="1">AAMP2----1A----</tag>
 </m>
 <m id="m-mf930708-068-p4s1w25">
 <src.rf>manual</src.rf>

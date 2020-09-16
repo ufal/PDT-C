@@ -986,7 +986,7 @@
 <LM>w#w-mf920925-091-p6s1w23</LM>
 </w.rf>
 <form>modrý</form>
-<tag lemma="modrý" src="orig" selected="1">AAIS1----1A----</tag>
+<tag lemma="modrý_;o" src="orig" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-mf920925-091-p6s1w24">
 <src.rf>manual</src.rf>
@@ -1026,7 +1026,7 @@
 <LM>w#w-mf920925-091-p6s1w28</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920925-091-p6s1w29">
 <src.rf>manual</src.rf>
@@ -1227,7 +1227,7 @@
 <LM>w#w-mf920925-091-p6s2w14</LM>
 </w.rf>
 <form>členem</form>
-<tag lemma="člen" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920925-091-p6s2w15">
 <src.rf>manual</src.rf>
@@ -2642,7 +2642,7 @@
 <AM lemma="vydávání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="auto">NNNS1-----A----</AM>
 <AM lemma="vydávání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="auto">NNNS2-----A----</AM>
 <AM lemma="vydávání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="auto">NNNS3-----A----</AM>
-<AM lemma="vydávání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="auto" recommended="1" selected="1">NNNS4-----A----</AM>
+<AM lemma="vydávání_^(*3at)" src="auto" recommended="1" selected="1">NNNS4-----A----</AM>
 <AM lemma="vydávání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="auto">NNNS5-----A----</AM>
 <AM lemma="vydávání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="auto">NNNS6-----A----</AM>
 <AM lemma="vydávání-2_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)_(*5at-2)" src="auto">NNNP1-----A----</AM>
@@ -2731,7 +2731,7 @@
 <LM>w#w-mf920925-091-p8s6w20</LM>
 </w.rf>
 <form>masové</form>
-<tag lemma="masový-2_^(velký)" src="orig" selected="1">AANS4----1A----</tag>
+<tag lemma="masový" src="orig" selected="1">AANS4----1A----</tag>
 </m>
 <m id="m-mf920925-091-p8s6w21">
 <src.rf>manual</src.rf>
@@ -3123,7 +3123,7 @@
 <LM>w#w-mf920925-091-p8s9w3</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8NS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8NS4---------1</tag>
 </m>
 <m id="m-mf920925-091-p8s9w4">
 <src.rf>manual</src.rf>

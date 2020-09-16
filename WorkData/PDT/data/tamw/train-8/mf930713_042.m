@@ -297,7 +297,7 @@
 <LM>w#w-mf930713-042-p2s2w5</LM>
 </w.rf>
 <form>prvních</form>
-<tag lemma="první" src="orig" selected="1">CrIP2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIP2----------</tag>
 </m>
 <m id="m-mf930713-042-p2s2w6">
 <src.rf>manual</src.rf>
@@ -329,7 +329,7 @@
 <LM>w#w-mf930713-042-p2s2w9</LM>
 </w.rf>
 <form>Bílé</form>
-<tag lemma="bílý" src="orig" selected="1">AAFS2----1A----</tag>
+<tag lemma="bílý_;o" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-mf930713-042-p2s2w10">
 <src.rf>manual</src.rf>
@@ -872,7 +872,7 @@
 <LM>w#w-mf930713-042-p4s1w2</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf930713-042-p4s1w3">
 <src.rf>manual</src.rf>
@@ -1109,7 +1109,7 @@
 <LM>w#w-mf930713-042-p4s2w5</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-mf930713-042-p4s2w6">
 <src.rf>manual</src.rf>
@@ -1149,7 +1149,7 @@
 <LM>w#w-mf930713-042-p4s2w10</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8YP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8YP4---------1</tag>
 </m>
 <m id="m-mf930713-042-p4s2w11">
 <src.rf>manual</src.rf>
@@ -1718,7 +1718,7 @@
 <LM>w#w-mf930713-042-p4s6w20</LM>
 </w.rf>
 <form>jejím</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS6FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS6FS3-------</tag>
 </m>
 <m id="m-mf930713-042-p4s6w21">
 <src.rf>manual</src.rf>
@@ -1766,7 +1766,7 @@
 <LM>w#w-mf930713-042-p4s6w26</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-mf930713-042-p4s6w27">
 <src.rf>manual</src.rf>
@@ -1968,7 +1968,7 @@
 <LM>w#w-mf930713-042-p5s1w15</LM>
 </w.rf>
 <form>lidem</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP3-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP3-----A----</tag>
 </m>
 <m id="m-mf930713-042-p5s1w16">
 <src.rf>manual</src.rf>

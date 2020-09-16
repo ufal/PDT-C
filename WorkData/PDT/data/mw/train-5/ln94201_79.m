@@ -82,7 +82,7 @@
 <LM>w#w-ln94201-79-p2s1w6</LM>
 </w.rf>
 <form>Amsterdam</form>
-<tag lemma="Amsterodam_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Amsterdam_;G_,s_^(^DD**Amsterodam)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94201-79-p2s1w7">
 <src.rf>manual</src.rf>
@@ -594,7 +594,7 @@
 <form>Kaiserslautern</form>
 <tag>
 <AM lemma="Kaiserslautern" src="orig">NNIS1-----A----</AM>
-<AM lemma="Kaiserslautern_;G" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Kaiserslautern_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-79-p3s6w3">
@@ -1779,7 +1779,7 @@
 <LM>w#w-ln94201-79-p5s13w1</LM>
 </w.rf>
 <form>Slovan</form>
-<tag lemma="Slovan-2_;m" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Slovan-2_;G_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94201-79-p5s13w2">
 <src.rf>manual</src.rf>
@@ -3097,7 +3097,7 @@
 <form>Wang</form>
 <tag>
 <AM lemma="Wang_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Wang-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Wang-3_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-79-p6s3w19">
@@ -3774,7 +3774,7 @@
 <LM>w#w-ln94201-79-p7s1w8</LM>
 </w.rf>
 <form>Chang</form>
-<tag lemma="Chang_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Chang-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-79-p7s1w9">
 <src.rf>manual</src.rf>

@@ -218,7 +218,7 @@
 <LM>w#w-lnd92256-101-p2s2w17</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-lnd92256-101-p2s2w18">
 <src.rf>manual</src.rf>
@@ -234,7 +234,7 @@
 <LM>w#w-lnd92256-101-p2s2w19</LM>
 </w.rf>
 <form>manažer</form>
-<tag lemma="manažer" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="manažer-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-101-p2s2w20">
 <src.rf>manual</src.rf>
@@ -566,7 +566,7 @@
 <LM>w#w-lnd92256-101-p2s4w3</LM>
 </w.rf>
 <form>manažerem</form>
-<tag lemma="manažer" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="manažer-1" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd92256-101-p2s4w4">
 <src.rf>manual</src.rf>

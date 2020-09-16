@@ -163,7 +163,7 @@
 <AM lemma="José_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="José_;Y" src="auto">NNMS6-----A---1</AM>
 <AM lemma="José_;Y" src="auto">NNMS7-----A---1</AM>
-<AM lemma="José-2_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="José-1_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-067-p1s1Bw16">
@@ -189,7 +189,7 @@
 </w.rf>
 <form>Montserrat</form>
 <tag>
-<AM lemma="Montserrat-2_;Y" src="orig" selected="1">NNFXX-----A----</AM>
+<AM lemma="Montserrat-1_;Y" src="orig" selected="1">NNFXX-----A----</AM>
 <AM lemma="Montserrat_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Montserrat_;G" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -276,7 +276,7 @@
 <LM>w#w-lnd94101-067-p1s3w1</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrMS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrMS1----------</tag>
 </m>
 <m id="m-lnd94101-067-p1s3w2">
 <src.rf>manual</src.rf>
@@ -332,7 +332,7 @@
 <LM>w#w-lnd94101-067-p1s3w8</LM>
 </w.rf>
 <form>Ricci</form>
-<tag lemma="Ricci_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ricci-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-067-p1s3w9">
 <src.rf>manual</src.rf>
@@ -539,7 +539,7 @@
 </w.rf>
 <form>Montserrat</form>
 <tag>
-<AM lemma="Montserrat-2_;Y" src="orig" selected="1">NNFXX-----A----</AM>
+<AM lemma="Montserrat-1_;Y" src="orig" selected="1">NNFXX-----A----</AM>
 <AM lemma="Montserrat_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Montserrat_;G" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -622,7 +622,7 @@
 <LM>w#w-lnd94101-067-p1s5w12</LM>
 </w.rf>
 <form>hodině</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd94101-067-p1s5w13">
 <src.rf>manual</src.rf>
@@ -706,7 +706,7 @@
 <form>José</form>
 <tag>
 <AM lemma="José_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="José-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="José-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-067-p1s6w10">
@@ -2307,7 +2307,7 @@
 <LM>w#w-lnd94101-067-p1s19w13</LM>
 </w.rf>
 <form>jehož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P1XXXZS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXZS3-------</tag>
 </m>
 <m id="m-lnd94101-067-p1s19w14">
 <src.rf>manual</src.rf>

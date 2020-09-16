@@ -103,7 +103,7 @@
 <form>Columbus</form>
 <tag>
 <AM lemma="Columbus_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Columbus_;G_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Columbus-2_;G_;m" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Columbus_;G_;m" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -129,7 +129,7 @@
 <form>Indianě</form>
 <tag>
 <AM lemma="Indiana_;G" src="auto">NNFS3-----A----</AM>
-<AM lemma="Indiana_;G" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="Indiana-1_;G" src="auto" recommended="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1346-001-p1s0W11-Ta">
@@ -147,7 +147,7 @@
 </w.rf>
 <form>zasažená</form>
 <tag>
-<AM lemma="zasažený_^(*5áhnout)" src="auto" recommended="1">AAFS1----1A----</AM>
+<AM lemma="zasažený" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="zasažený_^(*5áhnout)" src="auto">AAFS5----1A----</AM>
 <AM lemma="zasažený_^(*5áhnout)" src="auto">AANP1----1A----</AM>
 <AM lemma="zasažený_^(*5áhnout)" src="auto">AANP4----1A----</AM>

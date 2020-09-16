@@ -534,7 +534,7 @@
 <LM>w#w-ln94203-127-p2s3w20</LM>
 </w.rf>
 <form>směně</form>
-<tag lemma="směna-1_^(výměna_za_něco)" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="směna_^(výměna_za_něco;pracovní)" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-ln94203-127-p2s3w21">
 <src.rf>manual</src.rf>

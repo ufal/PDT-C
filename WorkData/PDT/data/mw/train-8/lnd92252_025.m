@@ -63,7 +63,7 @@
 <LM>w#w-lnd92252-025-p3s1w1</LM>
 </w.rf>
 <form>KARLOVY</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUIP1M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUIP1M---------</tag>
 </m>
 <m id="m-lnd92252-025-p3s1w2">
 <src.rf>manual</src.rf>
@@ -177,7 +177,7 @@
 <LM>w#w-lnd92252-025-p3s2w12</LM>
 </w.rf>
 <form>Karlových</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUIP6M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUIP6M---------</tag>
 </m>
 <m id="m-lnd92252-025-p3s2w13">
 <src.rf>manual</src.rf>
@@ -249,7 +249,7 @@
 <LM>w#w-lnd92252-025-p3s2w21</LM>
 </w.rf>
 <form>rada</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92252-025-p3s2w22">
 <src.rf>manual</src.rf>
@@ -503,7 +503,7 @@
 <LM>w#w-lnd92252-025-p3s5w7</LM>
 </w.rf>
 <form>člena</form>
-<tag lemma="člen" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92252-025-p3s5w8">
 <src.rf>manual</src.rf>
@@ -842,7 +842,7 @@
 <LM>w#w-lnd92252-025-p3s5w49</LM>
 </w.rf>
 <form>radě</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-lnd92252-025-p3s5w50">
 <src.rf>manual</src.rf>
@@ -973,7 +973,7 @@
 <LM>w#w-lnd92252-025-p3s6w7</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd92252-025-p3s6w8">
 <src.rf>manual</src.rf>

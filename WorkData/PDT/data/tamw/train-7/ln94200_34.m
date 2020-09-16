@@ -223,7 +223,7 @@
 <LM>w#w-ln94200-34-p2s1Bw17</LM>
 </w.rf>
 <form>co</form>
-<tag lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="co-5_^(př._co_nejméně,_co_nevidět_atd.)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94200-34-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -1005,7 +1005,7 @@
 <form>sympozium</form>
 <tag>
 <AM lemma="sympózium" src="orig">NNNS1-----A----</AM>
-<AM lemma="sympozium_,s_^(^DD**sympózium)" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="sympozium" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-34-p3s2w6">

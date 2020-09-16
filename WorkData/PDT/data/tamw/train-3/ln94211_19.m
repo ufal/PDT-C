@@ -433,7 +433,7 @@
 <LM>w#w-ln94211-19-p3s1w8</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP4FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XP4FS3-------</tag>
 </m>
 <m id="m-ln94211-19-p3s1w9">
 <src.rf>manual</src.rf>
@@ -563,7 +563,7 @@
 <LM>w#w-ln94211-19-p3s2w10</LM>
 </w.rf>
 <form>zelené</form>
-<tag lemma="zelený" src="orig" selected="1">AAFS6----1A----</tag>
+<tag lemma="zelený_;o" src="orig" selected="1">AAFS6----1A----</tag>
 </m>
 <m id="m-ln94211-19-p3s2w11">
 <src.rf>manual</src.rf>
@@ -1176,7 +1176,7 @@
 <LM>w#w-ln94211-19-p4s3w13</LM>
 </w.rf>
 <form>Junkers</form>
-<tag lemma="Junkers_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Junkers-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-19-p4s3w14">
 <src.rf>manual</src.rf>

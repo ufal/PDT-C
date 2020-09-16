@@ -207,7 +207,7 @@
 <LM>w#w-ln94203-67-p2s2w14</LM>
 </w.rf>
 <form>hnutí</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln94203-67-p2s2w15">
 <src.rf>manual</src.rf>
@@ -324,7 +324,7 @@
 <LM>w#w-ln94203-67-p3s1w11</LM>
 </w.rf>
 <form>zastavení</form>
-<tag lemma="zastavení-1_^([také_z._se];_uvést_do_klidu:_auto,...)_(*5it-1)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="zastavení_^(*3it)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln94203-67-p3s1w12">
 <src.rf>manual</src.rf>
@@ -539,7 +539,7 @@
 <LM>w#w-ln94203-67-p3s2Bw3</LM>
 </w.rf>
 <form>prostředky</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-ln94203-67-p3s2Bw4">
 <src.rf>manual</src.rf>
@@ -1839,7 +1839,7 @@
 <LM>w#w-ln94203-67-p7s1w15</LM>
 </w.rf>
 <form>nejhorší</form>
-<tag lemma="špatný" src="orig" selected="1">AAFS6----3A----</tag>
+<tag lemma="horší" src="orig" selected="1">AAFS6----3A----</tag>
 </m>
 <m id="m-ln94203-67-p7s1w16">
 <src.rf>manual</src.rf>

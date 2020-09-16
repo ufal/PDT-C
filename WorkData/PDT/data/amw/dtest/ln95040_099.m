@@ -508,7 +508,7 @@
 <LM>w#w-ln95040-099-p3s3w3</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln95040-099-p3s3w4">
 <src.rf>manual</src.rf>

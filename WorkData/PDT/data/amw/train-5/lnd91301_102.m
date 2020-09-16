@@ -119,7 +119,7 @@
 <LM>w#w-lnd91301-102-p4s1w8</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-lnd91301-102-p4s1w9">
 <src.rf>manual</src.rf>
@@ -192,7 +192,7 @@
 <LM>w#w-lnd91301-102-p4s1w17</LM>
 </w.rf>
 <form>druhém</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-lnd91301-102-p4s1w18">
 <src.rf>manual</src.rf>
@@ -402,7 +402,7 @@
 <LM>w#w-lnd91301-102-p4s2w12</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-lnd91301-102-p4s2w13">
 <src.rf>manual</src.rf>
@@ -467,7 +467,7 @@
 <LM>w#w-lnd91301-102-p4s2w20</LM>
 </w.rf>
 <form>druhém</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-lnd91301-102-p4s2w21">
 <src.rf>manual</src.rf>
@@ -776,7 +776,7 @@
 <LM>w#w-lnd91301-102-p4s3w7</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-lnd91301-102-p4s3w8">
 <src.rf>manual</src.rf>
@@ -841,7 +841,7 @@
 <LM>w#w-lnd91301-102-p4s3w15</LM>
 </w.rf>
 <form>druhém</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-lnd91301-102-p4s3w16">
 <src.rf>manual</src.rf>
@@ -1191,7 +1191,7 @@
 <LM>w#w-lnd91301-102-p4s4w12</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-lnd91301-102-p4s4w13">
 <src.rf>manual</src.rf>
@@ -1256,7 +1256,7 @@
 <LM>w#w-lnd91301-102-p4s4w20</LM>
 </w.rf>
 <form>druhém</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-lnd91301-102-p4s4w21">
 <src.rf>manual</src.rf>
@@ -1518,7 +1518,7 @@
 <LM>w#w-lnd91301-102-p6s1w8</LM>
 </w.rf>
 <form>km</form>
-<tag lemma="km-1`kilometr" src="orig" selected="1">NNIXX-----A---b</tag>
+<tag lemma="kilometr" src="orig" selected="1">NNIXX-----A---b</tag>
 </m>
 <m id="m-lnd91301-102-p6s1w9">
 <src.rf>manual</src.rf>
@@ -1550,7 +1550,7 @@
 <LM>w#w-lnd91301-102-p6s1w12</LM>
 </w.rf>
 <form>druhý</form>
-<tag lemma="druhý" src="orig" selected="1">CrMS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrMS1----------</tag>
 </m>
 <m id="m-lnd91301-102-p6s1w13">
 <src.rf>manual</src.rf>
@@ -1930,7 +1930,7 @@
 </w.rf>
 <form>Flavii</form>
 <tag>
-<AM lemma="Flavia_;m" src="orig" selected="1">NNFS3-----A----</AM>
+<AM lemma="Flavie_;Y" src="orig" selected="1">NNFS3-----A----</AM>
 <AM lemma="Flavie_;Y" src="auto" recommended="1">NNFS3-----A----</AM>
 <AM lemma="Flavie_;Y" src="auto">NNFS4-----A----</AM>
 <AM lemma="Flavie_;Y" src="auto">NNFS6-----A----</AM>

@@ -191,7 +191,7 @@
 <LM>w#w-ln95046-013-p2s1Bw12</LM>
 </w.rf>
 <form>vázané</form>
-<tag lemma="vázaný_^(např._provazem;_se_k_čemu)_(*2t)" src="auto" selected="1">AAFP4----1A----</tag>
+<tag lemma="vázaný_^(*2t)" src="auto" selected="1">AAFP4----1A----</tag>
 </m>
 <m id="m-ln95046-013-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -834,7 +834,7 @@
 <LM>w#w-ln95046-013-p3s3w16</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-ln95046-013-p3s3w17">
 <src.rf>manual</src.rf>
@@ -972,7 +972,7 @@
 <LM>w#w-ln95046-013-p3s4w2</LM>
 </w.rf>
 <form>mluvčího</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95046-013-p3s4w3">
 <src.rf>manual</src.rf>
@@ -1728,7 +1728,7 @@
 <LM>w#w-ln95046-013-p5s2w22</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln95046-013-p5s2w23">
 <src.rf>manual</src.rf>
@@ -1952,7 +1952,7 @@
 <LM>w#w-ln95046-013-p5s3w22</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln95046-013-p5s3w23">
 <src.rf>manual</src.rf>

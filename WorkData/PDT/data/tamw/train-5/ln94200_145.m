@@ -75,7 +75,7 @@
 <LM>w#w-ln94200-145-p1s1Aw8</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-ln94200-145-p1s1Aw9">
 <src.rf>manual</src.rf>
@@ -107,7 +107,7 @@
 <LM>w#w-ln94200-145-p1s1Aw12</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-ln94200-145-p1s1Aw13">
 <src.rf>manual</src.rf>

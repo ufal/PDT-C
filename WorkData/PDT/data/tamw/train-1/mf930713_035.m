@@ -2188,7 +2188,7 @@
 <LM>w#w-mf930713-035-p9s1w37</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930713-035-p9s1w38">
 <src.rf>manual</src.rf>
@@ -2545,7 +2545,7 @@
 <LM>w#w-mf930713-035-p9s1w81</LM>
 </w.rf>
 <form>Moje</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSHS1-S1-------</tag>
+<tag lemma="můj" src="orig" selected="1">PSHS1-S1-------</tag>
 </m>
 <m id="m-mf930713-035-p9s1w82">
 <src.rf>manual</src.rf>
@@ -2668,7 +2668,7 @@
 <LM>w#w-mf930713-035-p9s1w96</LM>
 </w.rf>
 <form>Almodovar</form>
-<tag lemma="Almodovar_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Almodovar-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-035-p9s1w97">
 <src.rf>manual</src.rf>
@@ -2788,7 +2788,7 @@
 <LM>w#w-mf930713-035-p9s1w111</LM>
 </w.rf>
 <form>druhých</form>
-<tag lemma="druhý" src="orig" selected="1">CrMP2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrMP2----------</tag>
 </m>
 <m id="m-mf930713-035-p9s1w112">
 <src.rf>manual</src.rf>

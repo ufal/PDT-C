@@ -415,7 +415,7 @@
 <LM>w#w-mf930709-010-p1s3w6</LM>
 </w.rf>
 <form>lepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAIP4----2A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAIP4----2A----</tag>
 </m>
 <m id="m-mf930709-010-p1s3w7">
 <src.rf>manual</src.rf>
@@ -572,7 +572,7 @@
 <LM>w#w-mf930709-010-p1s4w11</LM>
 </w.rf>
 <form>prvního</form>
-<tag lemma="první" src="orig" selected="1">CrIS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS2----------</tag>
 </m>
 <m id="m-mf930709-010-p1s4w12">
 <src.rf>manual</src.rf>
@@ -734,7 +734,7 @@
 <LM>w#w-mf930709-010-p1s6w15</LM>
 </w.rf>
 <form>roli</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="role_^(svitek_poslání_pozemek)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf930709-010-p1s6w16">
 <src.rf>manual</src.rf>
@@ -1390,7 +1390,7 @@
 <LM>w#w-mf930709-010-p1s11w12</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-mf930709-010-p1s11w13">
 <src.rf>manual</src.rf>

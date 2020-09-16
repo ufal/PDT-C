@@ -2061,7 +2061,7 @@
 <form>našeho</form>
 <tag>
 <AM lemma="můj_^(přivlast.)" src="auto">PSMS4-P1-------</AM>
-<AM lemma="můj_^(přivlast.)" src="auto" recommended="1">PSZS2-P1-------</AM>
+<AM lemma="náš" src="auto" recommended="1">PSZS2-P1-------</AM>
 </tag>
 </m>
 <m id="m-wsj0075-001-p1s5W15-Ta">
@@ -2379,7 +2379,7 @@
 <AM lemma="přednesení_^(*5ést)" src="auto">NNNP5-----A----</AM>
 <AM lemma="přednesení_^(*5ést)" src="auto">NNNS1-----A----</AM>
 <AM lemma="přednesení_^(*5ést)" src="auto">NNNS2-----A----</AM>
-<AM lemma="přednesení_^(*5ést)" src="auto" recommended="1">NNNS3-----A----</AM>
+<AM lemma="přednesení" src="auto" recommended="1">NNNS3-----A----</AM>
 <AM lemma="přednesení_^(*5ést)" src="auto">NNNS4-----A----</AM>
 <AM lemma="přednesení_^(*5ést)" src="auto">NNNS5-----A----</AM>
 <AM lemma="přednesení_^(*5ést)" src="auto">NNNS6-----A----</AM>
@@ -2519,7 +2519,7 @@
 <AM lemma="prodlení_^(nebezpečí_z...;_zpoždění)_(*3ít)" src="auto">NNNP5-----A----</AM>
 <AM lemma="prodlení_^(nebezpečí_z...;_zpoždění)_(*3ít)" src="auto">NNNS1-----A----</AM>
 <AM lemma="prodlení_^(nebezpečí_z...;_zpoždění)_(*3ít)" src="auto">NNNS2-----A----</AM>
-<AM lemma="prodlení_^(nebezpečí_z...;_zpoždění)_(*3ít)" src="auto" recommended="1">NNNS3-----A----</AM>
+<AM lemma="prodlení_^(*3ít)" src="auto" recommended="1">NNNS3-----A----</AM>
 <AM lemma="prodlení_^(nebezpečí_z...;_zpoždění)_(*3ít)" src="auto">NNNS4-----A----</AM>
 <AM lemma="prodlení_^(nebezpečí_z...;_zpoždění)_(*3ít)" src="auto">NNNS5-----A----</AM>
 <AM lemma="prodlení_^(nebezpečí_z...;_zpoždění)_(*3ít)" src="auto">NNNS6-----A----</AM>
@@ -5534,7 +5534,7 @@
 <AM lemma="první" src="auto">CrIP6----------</AM>
 <AM lemma="první" src="auto">CrMP2----------</AM>
 <AM lemma="první" src="auto">CrMP6----------</AM>
-<AM lemma="první" src="auto" recommended="1">CrNP2----------</AM>
+<AM lemma="první-1" src="auto" recommended="1">CrNP2----------</AM>
 <AM lemma="první" src="auto">CrNP6----------</AM>
 </tag>
 </m>

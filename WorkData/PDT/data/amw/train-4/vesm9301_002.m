@@ -83,7 +83,7 @@
 <LM>w#w-vesm9301-002-p1s1w9</LM>
 </w.rf>
 <form>LET</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 </s>
 <s id="m-vesm9301-002-p2s1">
@@ -301,7 +301,7 @@
 <LM>w#w-vesm9301-002-p2s1w27</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-vesm9301-002-p2s1w28">
 <src.rf>manual</src.rf>
@@ -367,7 +367,7 @@
 <LM>w#w-vesm9301-002-p2s2w4</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-vesm9301-002-p2s2w5">
 <src.rf>manual</src.rf>
@@ -465,7 +465,7 @@
 <LM>w#w-vesm9301-002-p2s3w3</LM>
 </w.rf>
 <form>cesty</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-vesm9301-002-p2s3w4">
 <src.rf>manual</src.rf>
@@ -579,7 +579,7 @@
 <LM>w#w-vesm9301-002-p2s4w6</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-vesm9301-002-p2s4w7">
 <src.rf>manual</src.rf>
@@ -863,7 +863,7 @@
 <LM>w#w-vesm9301-002-p3s1w20</LM>
 </w.rf>
 <form>zjednodušení</form>
-<tag lemma="zjednodušení_,s_^(*2t)" src="auto" selected="1">NNNS1-----A----</tag>
+<tag lemma="zjednodušení_^(*2t)_(*3it)" src="auto" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-vesm9301-002-p3s1w21">
 <src.rf>manual</src.rf>
@@ -1213,7 +1213,7 @@
 <LM>w#w-vesm9301-002-p4s1Aw4</LM>
 </w.rf>
 <form>modelů</form>
-<tag lemma="model" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="model-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-vesm9301-002-p4s1Aw5">
 <src.rf>manual</src.rf>
@@ -1507,7 +1507,7 @@
 <LM>w#w-vesm9301-002-p4s3w2</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-vesm9301-002-p4s3w3">
 <src.rf>manual</src.rf>
@@ -1645,7 +1645,7 @@
 <LM>w#w-vesm9301-002-p4s4w3</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-vesm9301-002-p4s4w4">
 <src.rf>manual</src.rf>
@@ -1927,7 +1927,7 @@
 <LM>w#w-vesm9301-002-p5s1w14</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-vesm9301-002-p5s1w15">
 <src.rf>manual</src.rf>
@@ -1977,7 +1977,7 @@
 <LM>w#w-vesm9301-002-p5s2w5</LM>
 </w.rf>
 <form>modelů</form>
-<tag lemma="model" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="model-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-vesm9301-002-p5s2w6">
 <src.rf>manual</src.rf>
@@ -2091,7 +2091,7 @@
 <LM>w#w-vesm9301-002-p5s3w1</LM>
 </w.rf>
 <form>Modely</form>
-<tag lemma="model" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="model-1" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-vesm9301-002-p5s3w2">
 <src.rf>manual</src.rf>
@@ -2332,7 +2332,7 @@
 <LM>w#w-vesm9301-002-p5s6w1</LM>
 </w.rf>
 <form>Modely</form>
-<tag lemma="model" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="model-1" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-vesm9301-002-p5s6w2">
 <src.rf>manual</src.rf>
@@ -4015,7 +4015,7 @@
 <LM>w#w-vesm9301-002-p11s1w7</LM>
 </w.rf>
 <form>málo</form>
-<tag lemma="málo-3_^(málo_+_příd._jm.,_př._byl_málo_důsledný)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="málo-3_^(málo_důsledný)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 </s>
 <s id="m-vesm9301-002-p12s1">
@@ -4053,7 +4053,7 @@
 <LM>w#w-vesm9301-002-p12s1w4</LM>
 </w.rf>
 <form>nevypadá</form>
-<tag lemma="vypadat" src="orig" selected="1">VB-S---3P-NAI--</tag>
+<tag lemma="vypadat-1_^(ty_vypadáš)" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-vesm9301-002-p12s1w5">
 <src.rf>manual</src.rf>
@@ -4117,7 +4117,7 @@
 <LM>w#w-vesm9301-002-p12s1w12</LM>
 </w.rf>
 <form>modelech</form>
-<tag lemma="model" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="model-1" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-vesm9301-002-p12s1w13">
 <src.rf>manual</src.rf>
@@ -4263,7 +4263,7 @@
 <LM>w#w-vesm9301-002-p12s2w13</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-vesm9301-002-p12s2w14">
 <src.rf>manual</src.rf>
@@ -4279,7 +4279,7 @@
 <LM>w#w-vesm9301-002-p12s2w15</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-vesm9301-002-p12s2w16">
 <src.rf>manual</src.rf>
@@ -4369,7 +4369,7 @@
 <LM>w#w-vesm9301-002-p12s3w3</LM>
 </w.rf>
 <form>neznámou</form>
-<tag lemma="neznámá_^(potkat_neznámého_[člověka])_(*1ý)" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="neznámá_^(*1ý)" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-vesm9301-002-p12s3w4">
 <src.rf>manual</src.rf>

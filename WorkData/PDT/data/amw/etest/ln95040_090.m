@@ -198,7 +198,7 @@
 <LM>w#w-ln95040-090-p2s1Bw13</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-ln95040-090-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -398,7 +398,7 @@
 <LM>w#w-ln95040-090-p2s2w1</LM>
 </w.rf>
 <form>Mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-090-p2s2w2">
 <src.rf>manual</src.rf>
@@ -640,7 +640,7 @@
 <tag>
 <AM lemma="konsorcium" src="orig">NNNS4-----A----</AM>
 <AM lemma="konsorcium_,s_^(^DD**konzorcium)" src="manual">NNNS1-----A----</AM>
-<AM lemma="konsorcium_,s_^(^DD**konzorcium)" src="manual" selected="1">NNNS4-----A----</AM>
+<AM lemma="konsorcium" src="manual" selected="1">NNNS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-090-p2s3w10">
@@ -911,7 +911,7 @@
 <LM>w#w-ln95040-090-p2s3w42</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-ln95040-090-p2s3w43">
 <src.rf>manual</src.rf>

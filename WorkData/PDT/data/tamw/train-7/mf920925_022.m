@@ -422,7 +422,7 @@
 <LM>w#w-mf920925-022-p3s2w6</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-mf920925-022-p3s2w7">
 <src.rf>manual</src.rf>
@@ -768,7 +768,7 @@
 <LM>w#w-mf920925-022-p4s1Bw5</LM>
 </w.rf>
 <form>laděného</form>
-<tag lemma="laděný_^(*3it)" src="orig" selected="1">AAIS2----1A----</tag>
+<tag lemma="laděný" src="orig" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-mf920925-022-p4s1Bw6">
 <src.rf>manual</src.rf>
@@ -934,7 +934,7 @@
 <LM>w#w-mf920925-022-p4s1Bw24</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS2---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS2---------1</tag>
 </m>
 <m id="m-mf920925-022-p4s1Bw25">
 <src.rf>manual</src.rf>

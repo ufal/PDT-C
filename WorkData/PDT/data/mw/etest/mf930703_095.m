@@ -367,7 +367,7 @@
 <LM>w#w-mf930703-095-p2s3w1</LM>
 </w.rf>
 <form>Marseille</form>
-<tag lemma="Marseille_;G" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="Marseille-2_;G" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-mf930703-095-p2s3w2">
 <src.rf>manual</src.rf>
@@ -663,7 +663,7 @@
 <LM>w#w-mf930703-095-p3s1w24</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-mf930703-095-p3s1w25">
 <src.rf>manual</src.rf>
@@ -959,7 +959,7 @@
 <LM>w#w-mf930703-095-p5s1w7</LM>
 </w.rf>
 <form>černých</form>
-<tag lemma="černý" src="auto" selected="1">AAIP2----1A----</tag>
+<tag lemma="černý_;o" src="auto" selected="1">AAIP2----1A----</tag>
 </m>
 <m id="m-mf930703-095-p5s1w8">
 <src.rf>manual</src.rf>
@@ -1178,7 +1178,7 @@
 <LM>w#w-mf930703-095-p5s2w23</LM>
 </w.rf>
 <form>manažerovi</form>
-<tag lemma="manažer" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="manažer-1" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-mf930703-095-p5s2w24">
 <src.rf>manual</src.rf>
@@ -1462,7 +1462,7 @@
 <LM>w#w-mf930703-095-p6s1w18</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-mf930703-095-p6s1w19">
 <src.rf>manual</src.rf>
@@ -1494,7 +1494,7 @@
 <LM>w#w-mf930703-095-p6s1w22</LM>
 </w.rf>
 <form>bílé</form>
-<tag lemma="bílý" src="orig" selected="1">AANS4----1A----</tag>
+<tag lemma="bílý_;o" src="orig" selected="1">AANS4----1A----</tag>
 </m>
 <m id="m-mf930703-095-p6s1w23">
 <src.rf>manual</src.rf>
@@ -1937,7 +1937,7 @@
 <LM>w#w-mf930703-095-p7s1w2</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-095-p7s1w3">
 <src.rf>manual</src.rf>

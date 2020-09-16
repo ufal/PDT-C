@@ -92,7 +92,7 @@
 <LM>w#w-mf920922-099-p2s2w1</LM>
 </w.rf>
 <form>Prvním</form>
-<tag lemma="první" src="orig" selected="1">CrMS7----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrMS7----------</tag>
 </m>
 <m id="m-mf920922-099-p2s2w2">
 <src.rf>manual</src.rf>
@@ -204,7 +204,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf920922-099-p2s3w4">
@@ -322,7 +322,7 @@
 <form>Pickup</form>
 <tag>
 <AM lemma="Pickup_;m_^(auto)" src="orig">NNIS1-----A----</AM>
-<AM lemma="pickup_;m_^(auto)" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
+<AM lemma="pickup_^(auto)" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="pickup_;m_^(auto)" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>

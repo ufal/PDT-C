@@ -35,7 +35,7 @@
 <LM>w#w-lnd94105-045-p1s19w3</LM>
 </w.rf>
 <form>cesty</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94105-045-p1s19w4">
 <src.rf>manual</src.rf>
@@ -666,7 +666,7 @@
 <LM>w#w-lnd94105-045-p1s22w18</LM>
 </w.rf>
 <form>co</form>
-<tag lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="co-5_^(př._co_nejméně,_co_nevidět_atd.)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd94105-045-p1s22w19">
 <src.rf>manual</src.rf>

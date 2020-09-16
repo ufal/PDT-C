@@ -256,7 +256,7 @@
 <LM>w#w-ln94200-10-p2s5w8</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-ln94200-10-p2s5w9">
 <src.rf>manual</src.rf>
@@ -671,7 +671,7 @@
 <LM>w#w-ln94200-10-p3s2w9</LM>
 </w.rf>
 <form>lety</form>
-<tag lemma="rok" src="orig" selected="1">NNNP7-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP7-----A----</tag>
 </m>
 <m id="m-ln94200-10-p3s2w10">
 <src.rf>manual</src.rf>

@@ -35,7 +35,7 @@
 <LM>w#w-ln94201-7-p1s1w3</LM>
 </w.rf>
 <form>delší</form>
-<tag lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">AAIS4----2A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAIS4----2A----</tag>
 </m>
 <m id="m-ln94201-7-p1s1w4">
 <src.rf>manual</src.rf>
@@ -488,7 +488,7 @@
 <LM>w#w-ln94201-7-p2s2w17</LM>
 </w.rf>
 <form>Rada</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94201-7-p2s2w18">
 <src.rf>manual</src.rf>
@@ -600,7 +600,7 @@
 <LM>w#w-ln94201-7-p3s1w6</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-4_^(v_knize,_rukopise,...)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94201-7-p3s1w7">
 <src.rf>manual</src.rf>

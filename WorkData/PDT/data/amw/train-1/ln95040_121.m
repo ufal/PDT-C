@@ -97,7 +97,7 @@
 <LM>w#w-ln95040-121-p1s1w10</LM>
 </w.rf>
 <form>Pavlova</form>
-<tag lemma="Pavlov_;Y" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Pavlov-1_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95040-121-p1s1w11">
 <src.rf>manual</src.rf>
@@ -243,7 +243,7 @@
 <LM>w#w-ln95040-121-p1s2w13</LM>
 </w.rf>
 <form>prvních</form>
-<tag lemma="první" src="orig" selected="1">CrIP2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIP2----------</tag>
 </m>
 <m id="m-ln95040-121-p1s2w14">
 <src.rf>manual</src.rf>

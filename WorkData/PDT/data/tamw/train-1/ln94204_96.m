@@ -53,7 +53,7 @@
 <LM>w#w-ln94204-96-p2s1w1</LM>
 </w.rf>
 <form>Exkluzivní</form>
-<tag lemma="exkluzivní" src="orig" selected="1">AAFP4----1A----</tag>
+<tag lemma="exkluzivní_,s_^(^DD**exkluzívní)" src="orig" selected="1">AAFP4----1A----</tag>
 </m>
 <m id="m-ln94204-96-p2s1w2">
 <src.rf>manual</src.rf>
@@ -370,7 +370,7 @@
 <LM>w#w-ln94204-96-p2s2w27</LM>
 </w.rf>
 <form>vydaných</form>
-<tag lemma="vydaný-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*4t-1)" src="orig" selected="1">AAFP2----1A----</tag>
+<tag lemma="vydaný_^(*2t)" src="orig" selected="1">AAFP2----1A----</tag>
 </m>
 <m id="m-ln94204-96-p2s2w28">
 <src.rf>manual</src.rf>
@@ -455,7 +455,7 @@
 <LM>w#w-ln94204-96-p2s3w7</LM>
 </w.rf>
 <form>zlatou</form>
-<tag lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAFS7----1A----</tag>
+<tag lemma="zlatý-1_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAFS7----1A----</tag>
 </m>
 <m id="m-ln94204-96-p2s3w8">
 <src.rf>manual</src.rf>
@@ -585,7 +585,7 @@
 <LM>w#w-ln94204-96-p2s4w5</LM>
 </w.rf>
 <form>vydaných</form>
-<tag lemma="vydaný-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*4t-1)" src="orig" selected="1">AAIP2----1A----</tag>
+<tag lemma="vydaný_^(*2t)" src="orig" selected="1">AAIP2----1A----</tag>
 </m>
 <m id="m-ln94204-96-p2s4w6">
 <src.rf>manual</src.rf>
@@ -758,7 +758,7 @@
 <LM>w#w-ln94204-96-p2s5w10</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-ln94204-96-p2s5w11">
 <src.rf>manual</src.rf>
@@ -766,7 +766,7 @@
 <LM>w#w-ln94204-96-p2s5w11</LM>
 </w.rf>
 <form>nejez</form>
-<tag lemma="jíst_^(konzumovat_jídlo)" src="orig" selected="1">Vi-S---2--N-I--</tag>
+<tag lemma="jíst" src="orig" selected="1">Vi-S---2--N-I--</tag>
 </m>
 <m id="m-ln94204-96-p2s5w12">
 <src.rf>manual</src.rf>

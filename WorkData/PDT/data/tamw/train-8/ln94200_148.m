@@ -157,7 +157,7 @@
 <LM>w#w-ln94200-148-p2s1Bw12</LM>
 </w.rf>
 <form>sezoně</form>
-<tag lemma="sezona" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="sezona_,s_^(^DD**sezóna)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94200-148-p2s1Bw13">
 <src.rf>manual</src.rf>

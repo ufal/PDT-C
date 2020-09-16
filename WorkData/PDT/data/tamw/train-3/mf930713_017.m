@@ -781,7 +781,7 @@
 <LM>w#w-mf930713-017-p2s4w4</LM>
 </w.rf>
 <form>pavouka</form>
-<tag lemma="pavouk" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="pavouk-1" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930713-017-p2s4w5">
 <src.rf>manual</src.rf>
@@ -2190,7 +2190,7 @@
 <LM>w#w-mf930713-017-p2s14w8</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrNS7----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS7----------</tag>
 </m>
 <m id="m-mf930713-017-p2s14w9">
 <src.rf>manual</src.rf>

@@ -111,7 +111,7 @@
 <LM>w#w-mf920923-019-p2s1Bw3</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-mf920923-019-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -151,7 +151,7 @@
 <LM>w#w-mf920923-019-p2s1Bw8</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-mf920923-019-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -167,7 +167,7 @@
 <LM>w#w-mf920923-019-p2s1Bw10</LM>
 </w.rf>
 <form>druhou</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS4----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS4----------</tag>
 </m>
 <m id="m-mf920923-019-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -487,7 +487,7 @@
 <form>Hugo</form>
 <tag>
 <AM lemma="Hugo-2_;G" src="auto">NNNS1-----A----</AM>
-<AM lemma="Hugo-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Hugo_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-019-p3s1Bw7">
@@ -624,7 +624,7 @@
 <LM>w#w-mf920923-019-p3s1Bw23</LM>
 </w.rf>
 <form>potřeby</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-mf920923-019-p3s1Bw24">
 <src.rf>manual</src.rf>
@@ -632,7 +632,7 @@
 <LM>w#w-mf920923-019-p3s1Bw24</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-mf920923-019-p3s1Bw25">
 <src.rf>manual</src.rf>

@@ -549,7 +549,7 @@
 <LM>w#w-ln94206-141-p3s2w9</LM>
 </w.rf>
 <form>prvními</form>
-<tag lemma="první" src="orig" selected="1">CrFP7----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFP7----------</tag>
 </m>
 <m id="m-ln94206-141-p3s2w10">
 <src.rf>manual</src.rf>

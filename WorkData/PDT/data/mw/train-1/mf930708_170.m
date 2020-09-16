@@ -501,7 +501,7 @@
 <LM>w#w-mf930708-170-p3s1w1</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrFS3----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS3----------</tag>
 </m>
 <m id="m-mf930708-170-p3s1w2">
 <src.rf>manual</src.rf>
@@ -1680,7 +1680,7 @@
 <form>Warren</form>
 <tag>
 <AM lemma="Warren_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Warren_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Warren-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-170-p7s1w2">

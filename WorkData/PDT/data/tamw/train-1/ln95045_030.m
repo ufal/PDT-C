@@ -187,7 +187,7 @@
 <LM>w#w-ln95045-030-p3s1w4</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln95045-030-p3s1w5">
 <src.rf>manual</src.rf>
@@ -288,7 +288,7 @@
 <LM>w#w-ln95045-030-p3s2w2</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-ln95045-030-p3s2w3">
 <src.rf>manual</src.rf>
@@ -1105,7 +1105,7 @@
 <LM>w#w-ln95045-030-p5s1w13</LM>
 </w.rf>
 <form>Novotné</form>
-<tag lemma="Novotná_;Y_^(*1ý)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Novotná_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95045-030-p5s1w14">
 <src.rf>manual</src.rf>
@@ -1223,7 +1223,7 @@
 <LM>w#w-ln95045-030-p5s2w2</LM>
 </w.rf>
 <form>manažera</form>
-<tag lemma="manažer" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="manažer-1" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95045-030-p5s2w3">
 <src.rf>manual</src.rf>
@@ -1266,7 +1266,7 @@
 <LM>w#w-ln95045-030-p5s2w7</LM>
 </w.rf>
 <form>Novotná</form>
-<tag lemma="Novotná_;Y_^(*1ý)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Novotná_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95045-030-p5s2w8">
 <src.rf>manual</src.rf>

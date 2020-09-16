@@ -574,7 +574,7 @@
 <form>konkurs</form>
 <tag>
 <AM lemma="konkurs_^(úpadek;;soutěž)" src="auto">NNIS4-----A----</AM>
-<AM lemma="konkurs_,s_^(^DD**konkurz)_^(úpadek;;soutěž)" src="manual" selected="1">NNIS4-----A----</AM>
+<AM lemma="konkurs_,s_^(^DD**konkurz)" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-085-p4s1w18">
@@ -862,7 +862,7 @@
 <LM>w#w-lnd92251-085-p4s3w3</LM>
 </w.rf>
 <form>dny</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP7-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP7-----A----</tag>
 </m>
 <m id="m-lnd92251-085-p4s3w4">
 <src.rf>manual</src.rf>
@@ -961,7 +961,7 @@
 <LM>w#w-lnd92251-085-p4s3w15</LM>
 </w.rf>
 <form>výbor</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92251-085-p4s3w16">
 <src.rf>manual</src.rf>
@@ -1432,7 +1432,7 @@
 <LM>w#w-lnd92251-085-p4s5w20</LM>
 </w.rf>
 <form>správný</form>
-<tag lemma="správný_^(podle_něj._měřítek;_př._chlap,_míra,...)" src="orig" selected="1">AAIS4----1A----</tag>
+<tag lemma="správný" src="orig" selected="1">AAIS4----1A----</tag>
 </m>
 <m id="m-lnd92251-085-p4s5w21">
 <src.rf>manual</src.rf>
@@ -2194,7 +2194,7 @@
 <LM>w#w-lnd92251-085-p5s4w24</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92251-085-p5s4w25">
 <src.rf>manual</src.rf>
@@ -2322,7 +2322,7 @@
 <LM>w#w-lnd92251-085-p5s5w1</LM>
 </w.rf>
 <form>Ač</form>
-<tag lemma="ač" src="orig" selected="1">J,-------------</tag>
+<tag lemma="ač-1" src="orig" selected="1">J,-------------</tag>
 </m>
 <m id="m-lnd92251-085-p5s5w2">
 <src.rf>manual</src.rf>
@@ -2434,7 +2434,7 @@
 <LM>w#w-lnd92251-085-p5s5w15</LM>
 </w.rf>
 <form>naši</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS4-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS4-P1-------</tag>
 </m>
 <m id="m-lnd92251-085-p5s5w16">
 <src.rf>manual</src.rf>
@@ -2490,7 +2490,7 @@
 <LM>w#w-lnd92251-085-p5s5w22</LM>
 </w.rf>
 <form>Hejkovou</form>
-<tag lemma="Hejková_;Y" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Hejková_;Y_^(*3a)" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-lnd92251-085-p5s5w23">
 <src.rf>manual</src.rf>
@@ -3452,7 +3452,7 @@
 <LM>w#w-lnd92251-085-p5s10w11</LM>
 </w.rf>
 <form>co</form>
-<tag lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="orig" selected="1">P4XXX----------</tag>
+<tag lemma="co-4_^(který:_o_těch,_co_odešli)" src="orig" selected="1">P4XXX----------</tag>
 </m>
 <m id="m-lnd92251-085-p5s10w12">
 <src.rf>manual</src.rf>

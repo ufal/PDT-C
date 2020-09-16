@@ -279,7 +279,7 @@
 <LM>w#w-ln94207-31-p2s2w3</LM>
 </w.rf>
 <form>Walesova</form>
-<tag lemma="Walesův_;Y_^(*2a)" src="orig" selected="1">AUNS2M---------</tag>
+<tag lemma="Walesův_;Y_^(*2-2)_(*2a)" src="orig" selected="1">AUNS2M---------</tag>
 </m>
 <m id="m-ln94207-31-p2s2w4">
 <src.rf>manual</src.rf>

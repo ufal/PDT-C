@@ -886,7 +886,7 @@
 <LM>w#w-lnd92251-105-p6s3w1</LM>
 </w.rf>
 <form>Burda</form>
-<tag lemma="Burda_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Burda-2_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92251-105-p6s3w2">
 <src.rf>manual</src.rf>
@@ -954,7 +954,7 @@
 <LM>w#w-lnd92251-105-p6s5w1</LM>
 </w.rf>
 <form>Petrovka</form>
-<tag lemma="Petrovka_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Petrovka-2_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92251-105-p6s5w2">
 <src.rf>manual</src.rf>
@@ -1106,7 +1106,7 @@
 <LM>w#w-lnd92251-105-p7s2w1</LM>
 </w.rf>
 <form>Slovan</form>
-<tag lemma="Slovan-2_;m" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Slovan-2_;G_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92251-105-p7s2w2">
 <src.rf>manual</src.rf>

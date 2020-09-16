@@ -254,7 +254,7 @@
 <LM>w#w-ln94208-135-p2s1Cw10</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrNS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS4----------</tag>
 </m>
 <m id="m-ln94208-135-p2s1Cw11">
 <src.rf>manual</src.rf>
@@ -624,7 +624,7 @@
 <LM>w#w-ln94208-135-p3s2w6</LM>
 </w.rf>
 <form>Karlův</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUIS4M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUIS4M---------</tag>
 </m>
 <m id="m-ln94208-135-p3s2w7">
 <src.rf>manual</src.rf>
@@ -724,7 +724,7 @@
 <form>Dejvická</form>
 <tag>
 <AM lemma="dejvický" src="orig">AAFS1----1A----</AM>
-<AM lemma="Dejvická_;G" src="manual" selected="1">AAFS1----1A----</AM>
+<AM lemma="dejvický" src="manual" selected="1">AAFS1----1A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-135-p3s3w5">
@@ -1090,7 +1090,7 @@
 <LM>w#w-ln94208-135-p3s4w38</LM>
 </w.rf>
 <form>hnutí</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln94208-135-p3s4w39">
 <src.rf>manual</src.rf>
@@ -1203,7 +1203,7 @@
 <LM>w#w-ln94208-135-p4s1w11</LM>
 </w.rf>
 <form>lidi</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-ln94208-135-p4s1w12">
 <src.rf>manual</src.rf>
@@ -1427,7 +1427,7 @@
 <LM>w#w-ln94208-135-p4s1w40</LM>
 </w.rf>
 <form>dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94208-135-p4s1w41">
 <src.rf>manual</src.rf>

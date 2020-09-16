@@ -945,7 +945,7 @@
 <LM>w#w-mf920901-003-p3s2w15</LM>
 </w.rf>
 <form>Prvního</form>
-<tag lemma="první" src="orig" selected="1">CrNS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS2----------</tag>
 </m>
 <m id="m-mf920901-003-p3s2w16">
 <src.rf>manual</src.rf>
@@ -1829,7 +1829,7 @@
 <form>dalo</form>
 <tag>
 <AM lemma="dát" src="orig">VpNS----R-AAP--</AM>
-<AM lemma="dát" src="manual" selected="1">VpNS----R-AAP--</AM>
+<AM lemma="dát-1" src="manual" selected="1">VpNS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf920901-003-p6s2w9">
@@ -2384,7 +2384,7 @@
 <LM>w#w-mf920901-003-p7s3w8</LM>
 </w.rf>
 <form>rada</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920901-003-p7s3w9">
 <src.rf>manual</src.rf>
@@ -2597,7 +2597,7 @@
 <LM>w#w-mf920901-003-p7s4w5</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP6----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP6----------</tag>
 </m>
 <m id="m-mf920901-003-p7s4w6">
 <src.rf>manual</src.rf>
@@ -3100,7 +3100,7 @@
 <LM>w#w-mf920901-003-p9s1w14</LM>
 </w.rf>
 <form>čtyřnásobek</form>
-<tag lemma="čtyřnásobek" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="čtyřnásobek`4" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920901-003-p9s1w15">
 <src.rf>manual</src.rf>
@@ -3679,7 +3679,7 @@
 <form>starosti</form>
 <tag>
 <AM lemma="starost" src="orig">NNFP1-----A----</AM>
-<AM lemma="starost-1" src="auto" recommended="1" selected="1">NNFP1-----A----</AM>
+<AM lemma="starost-2_^(*5ý-2)" src="auto" recommended="1" selected="1">NNFP1-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFP4-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFP5-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFS2-----A----</AM>

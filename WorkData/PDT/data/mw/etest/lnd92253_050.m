@@ -105,7 +105,7 @@
 <LM>w#w-lnd92253-050-p3s2w4</LM>
 </w.rf>
 <form>bombardéry</form>
-<tag lemma="bombardér" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="bombardér-1" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-lnd92253-050-p3s2w5">
 <src.rf>manual</src.rf>
@@ -407,7 +407,7 @@
 <LM>w#w-lnd92253-050-p3s3w8</LM>
 </w.rf>
 <form>bombardérů</form>
-<tag lemma="bombardér" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="bombardér-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-lnd92253-050-p3s3w9">
 <src.rf>manual</src.rf>

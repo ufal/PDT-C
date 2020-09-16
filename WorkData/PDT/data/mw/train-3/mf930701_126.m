@@ -329,7 +329,7 @@
 <LM>w#w-mf930701-126-p2s2w12</LM>
 </w.rf>
 <form>Boby</form>
-<tag lemma="Boby_;m" src="auto" selected="1">NNXXX-----A----</tag>
+<tag lemma="Boby-2_;m" src="auto" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-mf930701-126-p2s2w13">
 <src.rf>manual</src.rf>

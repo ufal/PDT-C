@@ -212,7 +212,7 @@
 <LM>w#w-lnd92251-100-p3s2w11</LM>
 </w.rf>
 <form>Slovanem</form>
-<tag lemma="Slovan-2_;m" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="Slovan-2_;G_;m" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-lnd92251-100-p3s2w12">
 <src.rf>manual</src.rf>
@@ -1488,7 +1488,7 @@
 <LM>w#w-lnd92251-100-p7s8w6</LM>
 </w.rf>
 <form>Lipina</form>
-<tag lemma="Lipina_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Lipina-2_;G" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92251-100-p7s8w7">
 <src.rf>manual</src.rf>

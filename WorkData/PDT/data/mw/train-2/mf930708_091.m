@@ -319,7 +319,7 @@
 <LM>w#w-mf930708-091-p2s3w4</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS7----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS7----------</tag>
 </m>
 <m id="m-mf930708-091-p2s3w5">
 <src.rf>manual</src.rf>
@@ -1364,7 +1364,7 @@
 <LM>w#w-mf930708-091-p2s12w6</LM>
 </w.rf>
 <form>hodině</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf930708-091-p2s12w7">
 <src.rf>manual</src.rf>
@@ -1428,7 +1428,7 @@
 <LM>w#w-mf930708-091-p2s12w14</LM>
 </w.rf>
 <form>Matuškově</form>
-<tag lemma="Matuškův_;Y_^(*3ek)" src="orig" selected="1">AUFS6M---------</tag>
+<tag lemma="Matuškův_;Y_^(*2a)_(*3ek)" src="orig" selected="1">AUFS6M---------</tag>
 </m>
 <m id="m-mf930708-091-p2s12w15">
 <src.rf>manual</src.rf>

@@ -194,7 +194,7 @@
 <LM>w#w-mf920923-088-p2s2Aw14</LM>
 </w.rf>
 <form>hodiny</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920923-088-p2s2Aw15">
 <src.rf>manual</src.rf>

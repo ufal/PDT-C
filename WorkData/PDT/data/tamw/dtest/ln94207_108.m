@@ -608,7 +608,7 @@
 <LM>w#w-ln94207-108-p3s1w18</LM>
 </w.rf>
 <form>Marsyas</form>
-<tag lemma="Marsyas_;m" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Marsyas-1_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94207-108-p3s1w19">
 <src.rf>manual</src.rf>

@@ -35,7 +35,7 @@
 <LM>w#w-ln94208-73-p1s1w3</LM>
 </w.rf>
 <form>tajné</form>
-<tag lemma="tajný" src="orig" selected="1">AAFP1----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AAFP1----1A----</tag>
 </m>
 <m id="m-ln94208-73-p1s1w4">
 <src.rf>manual</src.rf>
@@ -119,7 +119,7 @@
 <LM>w#w-ln94208-73-p2s1Bw5</LM>
 </w.rf>
 <form>tajné</form>
-<tag lemma="tajný" src="orig" selected="1">AAFP4----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AAFP4----1A----</tag>
 </m>
 <m id="m-ln94208-73-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -313,7 +313,7 @@
 <LM>w#w-ln94208-73-p2s2w10</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94208-73-p2s2w11">
 <src.rf>manual</src.rf>
@@ -622,7 +622,7 @@
 <LM>w#w-ln94208-73-p2s3w32</LM>
 </w.rf>
 <form>tajných</form>
-<tag lemma="tajný" src="orig" selected="1">AAFP2----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AAFP2----1A----</tag>
 </m>
 <m id="m-ln94208-73-p2s3w33">
 <src.rf>manual</src.rf>
@@ -820,7 +820,7 @@
 <LM>w#w-ln94208-73-p3s1w7</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-ln94208-73-p3s1w8">
 <src.rf>manual</src.rf>
@@ -1273,7 +1273,7 @@
 <LM>w#w-ln94208-73-p4s2w9</LM>
 </w.rf>
 <form>sílící</form>
-<tag lemma="sílící_^(získávat_sílu;_přech.)_(*3it)" src="orig" selected="1">AGIS1-----A----</tag>
+<tag lemma="sílící_^(*3it)" src="orig" selected="1">AGIS1-----A----</tag>
 </m>
 <m id="m-ln94208-73-p4s2w10">
 <src.rf>manual</src.rf>
@@ -1297,7 +1297,7 @@
 <LM>w#w-ln94208-73-p4s2w12</LM>
 </w.rf>
 <form>činitelů</form>
-<tag lemma="činitel" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="činitel-1" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94208-73-p4s2w13">
 <src.rf>manual</src.rf>

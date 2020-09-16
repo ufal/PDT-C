@@ -170,7 +170,7 @@
 <LM>w#w-mf920901-116-p2s2w5</LM>
 </w.rf>
 <form>Gagře</form>
-<tag lemma="Gagra_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Gagra-1_;G" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf920901-116-p2s2w6">
 <src.rf>manual</src.rf>
@@ -308,7 +308,7 @@
 <LM>w#w-mf920901-116-p2s3w8</LM>
 </w.rf>
 <form>rady</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920901-116-p2s3w9">
 <src.rf>manual</src.rf>
@@ -396,7 +396,7 @@
 <LM>w#w-mf920901-116-p2s3w19</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS1FS3-------</tag>
 </m>
 <m id="m-mf920901-116-p2s3w20">
 <src.rf>manual</src.rf>
@@ -478,7 +478,7 @@
 <LM>w#w-mf920901-116-p3s1w6</LM>
 </w.rf>
 <form>rada</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920901-116-p3s1w7">
 <src.rf>manual</src.rf>

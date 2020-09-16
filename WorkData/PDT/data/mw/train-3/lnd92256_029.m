@@ -153,7 +153,7 @@
 <LM>w#w-lnd92256-029-p3s2w7</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-lnd92256-029-p3s2w8">
 <src.rf>manual</src.rf>
@@ -923,7 +923,7 @@
 <LM>w#w-lnd92256-029-p3s6w14</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd92256-029-p3s6w15">
 <src.rf>manual</src.rf>
@@ -949,7 +949,7 @@
 <LM>w#w-lnd92256-029-p3s7w2</LM>
 </w.rf>
 <form>daném</form>
-<tag lemma="daný_^(*3át)" src="auto" selected="1">AAIS6----1A----</tag>
+<tag lemma="daný-1_^(*5át-1)" src="auto" selected="1">AAIS6----1A----</tag>
 </m>
 <m id="m-lnd92256-029-p3s7w3">
 <src.rf>manual</src.rf>

@@ -264,7 +264,7 @@
 <LM>w#w-mf920922-049-p2s1w27</LM>
 </w.rf>
 <form>Slovan</form>
-<tag lemma="Slovan-2_;m" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Slovan-2_;G_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920922-049-p2s1w28">
 <src.rf>manual</src.rf>
@@ -594,7 +594,7 @@
 <LM>w#w-mf920922-049-p2s2w27</LM>
 </w.rf>
 <form>Slovan</form>
-<tag lemma="Slovan-2_;m" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Slovan-2_;G_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920922-049-p2s2w28">
 <src.rf>manual</src.rf>
@@ -807,7 +807,7 @@
 <LM>w#w-mf920922-049-p2s3w14</LM>
 </w.rf>
 <form>nesestřižené</form>
-<tag lemma="sestřižený_^(*4hnout)" src="orig" selected="1">AAFS2----1N----</tag>
+<tag lemma="sestřižený" src="orig" selected="1">AAFS2----1N----</tag>
 </m>
 <m id="m-mf920922-049-p2s3w15">
 <src.rf>manual</src.rf>
@@ -1201,7 +1201,7 @@
 <LM>w#w-mf920922-049-p2s4w38</LM>
 </w.rf>
 <form>dali</form>
-<tag lemma="dát" src="orig" selected="1">VpMP----R-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf920922-049-p2s4w39">
 <src.rf>manual</src.rf>

@@ -293,7 +293,7 @@
 <LM>w#w-mf930713-122-p2s1Bw22</LM>
 </w.rf>
 <form>zdanění</form>
-<tag lemma="zdanění_^(vypočítat_daň)_(*3it)" src="auto" selected="1">NNNS6-----A----</tag>
+<tag lemma="zdanění_^(*3it)" src="auto" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-mf930713-122-p2s1Bw23">
 <src.rf>manual</src.rf>
@@ -519,7 +519,7 @@
 <LM>w#w-mf930713-122-p3s1w2</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-mf930713-122-p3s1w3">
 <src.rf>manual</src.rf>
@@ -684,7 +684,7 @@
 <LM>w#w-mf930713-122-p3s2w5</LM>
 </w.rf>
 <form>jehož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P1XXXZS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXZS3-------</tag>
 </m>
 <m id="m-mf930713-122-p3s2w6">
 <src.rf>manual</src.rf>
@@ -732,7 +732,7 @@
 <LM>w#w-mf930713-122-p3s2w11</LM>
 </w.rf>
 <form>druhém</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-mf930713-122-p3s2w12">
 <src.rf>manual</src.rf>

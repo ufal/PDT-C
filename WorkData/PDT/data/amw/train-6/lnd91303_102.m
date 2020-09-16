@@ -314,7 +314,7 @@
 <LM>w#w-lnd91303-102-p9s1w2</LM>
 </w.rf>
 <form>Spenglerův</form>
-<tag lemma="Spenglerův_;G_;Y_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Spenglerův_;Y_^(*2)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-lnd91303-102-p9s1w3">
 <src.rf>manual</src.rf>

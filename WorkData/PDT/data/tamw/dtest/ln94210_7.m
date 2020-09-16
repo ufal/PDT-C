@@ -99,7 +99,7 @@
 <LM>w#w-ln94210-7-p1s1w11</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1XP4FS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XP4FS3-------</tag>
 </m>
 <m id="m-ln94210-7-p1s1w12">
 <src.rf>manual</src.rf>

@@ -27,7 +27,7 @@
 <LM>w#w-lnd94101-112-p1s1w2</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd94101-112-p1s1w3">
 <src.rf>manual</src.rf>

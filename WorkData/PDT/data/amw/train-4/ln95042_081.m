@@ -244,7 +244,7 @@
 <LM>w#w-ln95042-081-p2s2w2</LM>
 </w.rf>
 <form>nevytopené</form>
-<tag lemma="vytopený-1_^(vyhřát)_(*5it-1)" src="orig" selected="1">AAFS6----1N----</tag>
+<tag lemma="vytopený_^(*3it)" src="orig" selected="1">AAFS6----1N----</tag>
 </m>
 <m id="m-ln95042-081-p2s2w3">
 <src.rf>manual</src.rf>
@@ -791,7 +791,7 @@
 <LM>w#w-ln95042-081-p2s5w18</LM>
 </w.rf>
 <form>napadeným</form>
-<tag lemma="napadený_^(*3nout)" src="orig" selected="1">AANS7----1A----</tag>
+<tag lemma="napadený" src="orig" selected="1">AANS7----1A----</tag>
 </m>
 <m id="m-ln95042-081-p2s5w19">
 <src.rf>manual</src.rf>
@@ -1022,7 +1022,7 @@
 <LM>w#w-ln95042-081-p2s7w2</LM>
 </w.rf>
 <form>zuboženém</form>
-<tag lemma="zubožený_^(*2t)" src="auto" selected="1">AAIS6----1A----</tag>
+<tag lemma="zubožený_^(*2t)_(*3it)" src="auto" selected="1">AAIS6----1A----</tag>
 </m>
 <m id="m-ln95042-081-p2s7w3">
 <src.rf>manual</src.rf>

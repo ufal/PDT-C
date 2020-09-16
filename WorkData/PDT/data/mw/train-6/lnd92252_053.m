@@ -200,7 +200,7 @@
 <LM>w#w-lnd92252-053-p3s1Aw13</LM>
 </w.rf>
 <form>nejlepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAIS4----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAIS4----3A----</tag>
 </m>
 <m id="m-lnd92252-053-p3s1Aw14">
 <src.rf>manual</src.rf>
@@ -513,7 +513,7 @@
 <LM>w#w-lnd92252-053-p1s2Aw3</LM>
 </w.rf>
 <form>dál</form>
-<tag lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="dál-3_,s_^(také,_za_další)_(^DD**dále-3)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd92252-053-p1s2Aw4">
 <src.rf>manual</src.rf>
@@ -750,7 +750,7 @@
 <LM>w#w-lnd92252-053-p1s3Aw21</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-lnd92252-053-p1s3Aw22">
 <src.rf>manual</src.rf>
@@ -804,7 +804,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92252-053-p1s3Aw29">
@@ -950,7 +950,7 @@
 <LM>w#w-lnd92252-053-p1s1Cw7</LM>
 </w.rf>
 <form>pana</form>
-<tag lemma="pan_^(oslovení)" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="pan" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92252-053-p1s1Cw8">
 <src.rf>manual</src.rf>
@@ -970,7 +970,7 @@
 <LM>w#w-lnd92252-053-p1s1Cw9</LM>
 </w.rf>
 <form>Pena</form>
-<tag lemma="Pen_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Pen-1_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92252-053-p1s1Cw10">
 <src.rf>manual</src.rf>
@@ -1188,7 +1188,7 @@
 <LM>w#w-lnd92252-053-p2s1Cw19</LM>
 </w.rf>
 <form>extremistické</form>
-<tag lemma="extremistický" src="orig" selected="1">AAFS2----1A----</tag>
+<tag lemma="extremistický_,s_^(^DD**extrémistický)" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-lnd92252-053-p2s1Cw20">
 <src.rf>manual</src.rf>
@@ -1561,7 +1561,7 @@
 <LM>w#w-lnd92252-053-p1s2Bw18</LM>
 </w.rf>
 <form>dalo</form>
-<tag lemma="dát" src="orig" selected="1">VpNS----R-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-lnd92252-053-p1s2Bw19">
 <src.rf>manual</src.rf>
@@ -2131,7 +2131,7 @@
 <LM>w#w-lnd92252-053-p1s2Dw3</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd92252-053-p1s2Dw4">
 <src.rf>manual</src.rf>

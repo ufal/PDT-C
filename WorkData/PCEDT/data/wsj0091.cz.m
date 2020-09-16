@@ -650,7 +650,7 @@
 <AM lemma="Bellův-1_;Y_^(*4a-1)" src="auto">AUIS1M---------</AM>
 <AM lemma="Bellův-1_;Y_^(*4a-1)" src="auto">AUIS4M---------</AM>
 <AM lemma="Bellův-1_;Y_^(*4a-1)" src="auto">AUIS5M---------</AM>
-<AM lemma="Bellův-1_;Y_^(*4a-1)" src="auto" recommended="1">AUMS1M---------</AM>
+<AM lemma="Bellův_;Y_^(*2)_(*2a-1)" src="auto" recommended="1">AUMS1M---------</AM>
 <AM lemma="Bellův-1_;Y_^(*4a-1)" src="auto">AUMS5M---------</AM>
 <AM lemma="Bellův_;Y_^(*2)" src="auto">AUIS1M---------</AM>
 <AM lemma="Bellův_;Y_^(*2)" src="auto">AUIS4M---------</AM>
@@ -1076,7 +1076,7 @@
 <AM lemma="York-2_;G" src="auto">NNIS2-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS5-----A----</AM>
-<AM lemma="York-2_;G" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="York-2_;G_;m" src="auto" recommended="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0091-001-p1s2W33-Ta">
@@ -1202,7 +1202,7 @@
 <AM lemma="Bellův-1_;Y_^(*4a-1)" src="auto">AUFP4M---------</AM>
 <AM lemma="Bellův-1_;Y_^(*4a-1)" src="auto">AUFP5M---------</AM>
 <AM lemma="Bellův-1_;Y_^(*4a-1)" src="auto">AUFS2M---------</AM>
-<AM lemma="Bellův-1_;Y_^(*4a-1)" src="auto" recommended="1">AUIP1M---------</AM>
+<AM lemma="Bellův_;Y_^(*2)_(*2a-1)" src="auto" recommended="1">AUIP1M---------</AM>
 <AM lemma="Bellův-1_;Y_^(*4a-1)" src="auto">AUIP4M---------</AM>
 <AM lemma="Bellův-1_;Y_^(*4a-1)" src="auto">AUIP5M---------</AM>
 <AM lemma="Bellův-1_;Y_^(*4a-1)" src="auto">AUMP4M---------</AM>
@@ -1587,7 +1587,7 @@
 <AM lemma="vynalezený_^(*3nout)" src="auto">AAIP1----1A---6</AM>
 <AM lemma="vynalezený_^(*3nout)" src="auto">AAIP4----1A---6</AM>
 <AM lemma="vynalezený_^(*3nout)" src="auto">AAIP5----1A---6</AM>
-<AM lemma="vynalezený_^(*3nout)" src="auto" recommended="1">AAIS1----1A----</AM>
+<AM lemma="vynalezený" src="auto" recommended="1">AAIS1----1A----</AM>
 <AM lemma="vynalezený_^(*3nout)" src="auto">AAIS4----1A----</AM>
 <AM lemma="vynalezený_^(*3nout)" src="auto">AAIS5----1A----</AM>
 <AM lemma="vynalezený_^(*3nout)" src="auto">AAMP1----1A---6</AM>
@@ -1612,7 +1612,7 @@
 <tag>
 <AM lemma="můj_^(přivlast.)" src="auto">PSXP3-S1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSZS6-S1------7</AM>
-<AM lemma="můj_^(přivlast.)" src="auto" recommended="1">PSZS7-S1-------</AM>
+<AM lemma="můj" src="auto" recommended="1">PSZS7-S1-------</AM>
 </tag>
 </m>
 <m id="m-wsj0091-001-p1s5W21-Ta">

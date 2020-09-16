@@ -51,7 +51,7 @@
 <LM>w#w-ln94205-93-p1s1w5</LM>
 </w.rf>
 <form>celiakie</form>
-<tag lemma="celiakie_;U" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="celiakie" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 </s>
 <s id="m-ln94205-93-p2s1A">
@@ -303,7 +303,7 @@
 <LM>w#w-ln94205-93-p2s1Cw8</LM>
 </w.rf>
 <form>celiakie</form>
-<tag lemma="celiakie_;U" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="celiakie" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94205-93-p2s1Cw9">
 <src.rf>manual</src.rf>
@@ -957,7 +957,7 @@
 <LM>w#w-ln94205-93-p3s1w21</LM>
 </w.rf>
 <form>odvozených</form>
-<tag lemma="odvozený_^(*4dit)" src="orig" selected="1">AAFP2----1A----</tag>
+<tag lemma="odvozený_^(*3it)_(*4dit)" src="orig" selected="1">AAFP2----1A----</tag>
 </m>
 <m id="m-ln94205-93-p3s1w22">
 <src.rf>manual</src.rf>
@@ -1137,7 +1137,7 @@
 <LM>w#w-ln94205-93-p3s3w3</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-ln94205-93-p3s3w4">
 <src.rf>manual</src.rf>
@@ -1201,7 +1201,7 @@
 <LM>w#w-ln94205-93-p3s3w11</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-ln94205-93-p3s3w12">
 <src.rf>manual</src.rf>
@@ -1243,7 +1243,7 @@
 <LM>w#w-ln94205-93-p3s4w2</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-ln94205-93-p3s4w3">
 <src.rf>manual</src.rf>
@@ -1365,7 +1365,7 @@
 <LM>w#w-ln94205-93-p3s5w2</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-ln94205-93-p3s5w3">
 <src.rf>manual</src.rf>
@@ -2539,7 +2539,7 @@
 <LM>w#w-ln94205-93-p4s1w11</LM>
 </w.rf>
 <form>sojovou</form>
-<tag lemma="sojový" src="orig" selected="1">AAFS7----1A----</tag>
+<tag lemma="sojový_,s_^(^DD**sójový)" src="orig" selected="1">AAFS7----1A----</tag>
 </m>
 <m id="m-ln94205-93-p4s1w12">
 <src.rf>manual</src.rf>
@@ -2595,7 +2595,7 @@
 <LM>w#w-ln94205-93-p4s1w18</LM>
 </w.rf>
 <form>škrobem</form>
-<tag lemma="škrob" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="škrob-1" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-ln94205-93-p4s1w19">
 <src.rf>manual</src.rf>
@@ -2643,7 +2643,7 @@
 <LM>w#w-ln94205-93-p4s1w24</LM>
 </w.rf>
 <form>škrobem</form>
-<tag lemma="škrob" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="škrob-1" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-ln94205-93-p4s1w25">
 <src.rf>manual</src.rf>
@@ -2667,7 +2667,7 @@
 <LM>w#w-ln94205-93-p4s1w27</LM>
 </w.rf>
 <form>škrobem</form>
-<tag lemma="škrob" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="škrob-1" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-ln94205-93-p4s1w28">
 <src.rf>manual</src.rf>
@@ -2792,7 +2792,7 @@
 <LM>w#w-ln94205-93-p4s2w5</LM>
 </w.rf>
 <form>škrob</form>
-<tag lemma="škrob" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="škrob-1" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln94205-93-p4s2w6">
 <src.rf>manual</src.rf>
@@ -3002,7 +3002,7 @@
 <LM>w#w-ln94205-93-p4s3w12</LM>
 </w.rf>
 <form>naší</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS2-P1-------</tag>
 </m>
 <m id="m-ln94205-93-p4s3w13">
 <src.rf>manual</src.rf>
@@ -3026,7 +3026,7 @@
 <LM>w#w-ln94205-93-p4s3w15</LM>
 </w.rf>
 <form>žlutým</form>
-<tag lemma="žlutý" src="orig" selected="1">AAIS7----1A----</tag>
+<tag lemma="žlutý_;o" src="orig" selected="1">AAIS7----1A----</tag>
 </m>
 <m id="m-ln94205-93-p4s3w16">
 <src.rf>manual</src.rf>
@@ -3494,7 +3494,7 @@
 <LM>w#w-ln94205-93-p4s5w31</LM>
 </w.rf>
 <form>celiakie</form>
-<tag lemma="celiakie_;U" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="celiakie" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94205-93-p4s5w32">
 <src.rf>manual</src.rf>

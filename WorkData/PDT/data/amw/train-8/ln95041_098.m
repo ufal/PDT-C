@@ -151,7 +151,7 @@
 <LM>w#w-ln95041-098-p2s1Bw10</LM>
 </w.rf>
 <form>jejímž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1ZS6FS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1ZS6FS3-------</tag>
 </m>
 <m id="m-ln95041-098-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -459,7 +459,7 @@
 <LM>w#w-ln95041-098-p2s2w18</LM>
 </w.rf>
 <form>Orlických</form>
-<tag lemma="Orlický_;G" src="orig" selected="1">AAFP6----1A----</tag>
+<tag lemma="orlický" src="orig" selected="1">AAFP6----1A----</tag>
 </m>
 <m id="m-ln95041-098-p2s2w19">
 <src.rf>manual</src.rf>

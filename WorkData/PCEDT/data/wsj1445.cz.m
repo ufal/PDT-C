@@ -259,7 +259,7 @@
 <AM lemma="dobrý" src="auto">AAFS3----3A----</AM>
 <AM lemma="dobrý" src="auto">AAFS4----3A----</AM>
 <AM lemma="dobrý" src="auto">AAFS5----3A----</AM>
-<AM lemma="dobrý" src="auto" recommended="1">AAFS6----3A----</AM>
+<AM lemma="lepší" src="auto" recommended="1">AAFS6----3A----</AM>
 <AM lemma="dobrý" src="auto">AAFS7----3A----</AM>
 <AM lemma="dobrý" src="auto">AAIP1----3A----</AM>
 <AM lemma="dobrý" src="auto">AAIP4----3A----</AM>
@@ -288,7 +288,7 @@
 <form>cestě</form>
 <tag>
 <AM lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto">NNFS3-----A----</AM>
-<AM lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="cesta" src="auto" recommended="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1445-001-p1s0W24-Ta">
@@ -537,7 +537,7 @@
 <AM lemma="Conner" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Conner" src="auto">NNIS4-----A----</AM>
 <AM lemma="Conner_;m" src="manual">NNIS1-----A----</AM>
-<AM lemma="Conner_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Conner-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1445-001-p1s1W3-Ta">
@@ -752,7 +752,7 @@
 <AM lemma="Conner" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Conner" src="auto">NNIS4-----A----</AM>
 <AM lemma="Conner_;m" src="manual">NNIS1-----A----</AM>
-<AM lemma="Conner_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Conner-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1445-001-p1s2W3-Ta">
@@ -803,7 +803,7 @@
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP1FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP5FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9ZS1FS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9ZS1FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSZS5FS3-------</AM>
 </tag>
 </m>
@@ -1208,7 +1208,7 @@
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP1FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP5FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9ZS1FS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9ZS1FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSZS5FS3-------</AM>
 </tag>
 </m>
@@ -2151,7 +2151,7 @@
 <AM lemma="Conner" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Conner" src="auto">NNIS4-----A----</AM>
 <AM lemma="Conner_;m" src="manual">NNIS1-----A----</AM>
-<AM lemma="Conner_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Conner-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1445-001-p1s6W15-Ta">
@@ -2925,7 +2925,7 @@
 <tag>
 <AM lemma="Conner" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Conner" src="auto">NNIS4-----A----</AM>
-<AM lemma="Conner_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Conner-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1445-001-p1s9W4-Ta">
@@ -3188,7 +3188,7 @@
 <form>svého</form>
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8MS4----------</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8ZS2----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8ZS2----------</AM>
 </tag>
 </m>
 <m id="m-wsj1445-001-p1s10W3-Ta">
@@ -3232,7 +3232,7 @@
 <tag>
 <AM lemma="Conner" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Conner" src="auto">NNIS4-----A----</AM>
-<AM lemma="Conner_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Conner-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1445-001-p1s10W6-Ta">
@@ -3618,7 +3618,7 @@
 <AM lemma="Conner" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Conner" src="auto">NNIS4-----A----</AM>
 <AM lemma="Conner_;m" src="manual">NNIS1-----A----</AM>
-<AM lemma="Conner_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Conner-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1445-001-p1s11W3-Ta">
@@ -4264,7 +4264,7 @@
 </w.rf>
 <form>hodně</form>
 <tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------1A----</AM>
+<AM lemma="hodně_^(*1ý)" src="auto" recommended="1">Dg-------1A----</AM>
 <AM lemma="hodně_^(být_hoden;nezlobivý)_(*1ý)" src="auto">Dg-------1A----</AM>
 </tag>
 </m>
@@ -4934,7 +4934,7 @@
 </w.rf>
 <form>svoji</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8FS4----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8FS4----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8MP1----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8MP5----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOMP----------1</AM>
@@ -4953,7 +4953,7 @@
 <AM lemma="první" src="auto">CrFS1----------</AM>
 <AM lemma="první" src="auto">CrFS2----------</AM>
 <AM lemma="první" src="auto">CrFS3----------</AM>
-<AM lemma="první" src="auto" recommended="1">CrFS4----------</AM>
+<AM lemma="první-1" src="auto" recommended="1">CrFS4----------</AM>
 <AM lemma="první" src="auto">CrFS5----------</AM>
 <AM lemma="první" src="auto">CrFS6----------</AM>
 <AM lemma="první" src="auto">CrFS7----------</AM>
@@ -5193,7 +5193,7 @@
 <AM lemma="Conner" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Conner" src="auto">NNIS4-----A----</AM>
 <AM lemma="Conner_;m" src="manual">NNIS1-----A----</AM>
-<AM lemma="Conner_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Conner-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1445-001-p1s16W7-Ta">
@@ -5304,7 +5304,7 @@
 <tag>
 <AM lemma="David_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="David_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="David_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="David-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1445-001-p1s17W8-Ta">
@@ -5669,7 +5669,7 @@
 <AM lemma="Conner" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Conner" src="auto">NNIS4-----A----</AM>
 <AM lemma="Conner_;m" src="manual">NNIS1-----A----</AM>
-<AM lemma="Conner_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Conner-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1445-001-p1s19W4-Ta">
@@ -6167,7 +6167,7 @@
 </w.rf>
 <form>našich</form>
 <tag>
-<AM lemma="můj_^(přivlast.)" src="auto" recommended="1">PSXP2-P1-------</AM>
+<AM lemma="náš" src="auto" recommended="1">PSXP2-P1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSXP6-P1-------</AM>
 </tag>
 </m>
@@ -6248,7 +6248,7 @@
 <form>našich</form>
 <tag>
 <AM lemma="můj_^(přivlast.)" src="auto">PSXP2-P1-------</AM>
-<AM lemma="můj_^(přivlast.)" src="auto" recommended="1">PSXP6-P1-------</AM>
+<AM lemma="náš" src="auto" recommended="1">PSXP6-P1-------</AM>
 </tag>
 </m>
 <m id="m-wsj1445-001-p1s22W10-Ta">
@@ -6336,7 +6336,7 @@
 <tag>
 <AM lemma="Conner" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Conner" src="auto">NNIS4-----A----</AM>
-<AM lemma="Conner_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Conner-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1445-001-p1s22W19-Ta">
@@ -6644,7 +6644,7 @@
 <tag>
 <AM lemma="Conner" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Conner" src="auto">NNIS4-----A----</AM>
-<AM lemma="Conner_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Conner-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1445-001-p1s24W2-Ta">
@@ -6911,7 +6911,7 @@
 <AM lemma="můj_^(přivlast.)" src="auto">PSHS5-P1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSIP1-P1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSNS4-P1-------</AM>
-<AM lemma="můj_^(přivlast.)" src="auto" recommended="1">PSXP4-P1-------</AM>
+<AM lemma="náš" src="auto" recommended="1">PSXP4-P1-------</AM>
 </tag>
 </m>
 <m id="m-wsj1445-001-p1s25W7-Ta">
@@ -7066,7 +7066,7 @@
 <tag>
 <AM lemma="Conner" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Conner" src="auto">NNIS4-----A----</AM>
-<AM lemma="Conner_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Conner-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1445-001-p1s26W3-Ta">
@@ -7097,7 +7097,7 @@
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS1---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS4---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS5---------1</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8YP4---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8YP4---------1</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOFP-----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOIP-----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AONS-----------</AM>
@@ -7250,7 +7250,7 @@
 </w.rf>
 <form>svůj</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8IS4----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8IS4----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8YS1----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8YS5----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOYS-----------</AM>
@@ -7277,7 +7277,7 @@
 <AM lemma="první" src="auto">CrIP4----------</AM>
 <AM lemma="první" src="auto">CrIP5----------</AM>
 <AM lemma="první" src="auto">CrIS1----------</AM>
-<AM lemma="první" src="auto" recommended="1">CrIS4----------</AM>
+<AM lemma="první-1" src="auto" recommended="1">CrIS4----------</AM>
 <AM lemma="první" src="auto">CrIS5----------</AM>
 <AM lemma="první" src="auto">CrMP1----------</AM>
 <AM lemma="první" src="auto">CrMP4----------</AM>
@@ -7345,7 +7345,7 @@
 <form>nadšené</form>
 <tag>
 <AM lemma="nadšený_^(*4chnout)" src="auto">AAFP1----1A----</AM>
-<AM lemma="nadšený_^(*4chnout)" src="auto" recommended="1">AAFP4----1A----</AM>
+<AM lemma="nadšený" src="auto" recommended="1">AAFP4----1A----</AM>
 <AM lemma="nadšený_^(*4chnout)" src="auto">AAFP5----1A----</AM>
 <AM lemma="nadšený_^(*4chnout)" src="auto">AAFS2----1A----</AM>
 <AM lemma="nadšený_^(*4chnout)" src="auto">AAFS3----1A----</AM>
@@ -7407,7 +7407,7 @@
 <tag>
 <AM lemma="Conner" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Conner" src="auto">NNIS4-----A----</AM>
-<AM lemma="Conner_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Conner-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1445-001-p1s28W3-Ta">
@@ -7658,7 +7658,7 @@
 <form>svého</form>
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8MS4----------</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8ZS2----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8ZS2----------</AM>
 </tag>
 </m>
 <m id="m-wsj1445-001-p1s29W3-Ta">
@@ -7714,7 +7714,7 @@
 <tag>
 <AM lemma="Conner" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Conner" src="auto">NNIS4-----A----</AM>
-<AM lemma="Conner_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Conner-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1445-001-p1s29W7-Ta">
@@ -8315,7 +8315,7 @@
 <tag>
 <AM lemma="Conner" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Conner" src="auto">NNIS4-----A----</AM>
-<AM lemma="Conner_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Conner-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1445-001-p1s31W3-Ta">
@@ -8636,7 +8636,7 @@
 <tag>
 <AM lemma="Conner" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Conner" src="auto">NNIS4-----A----</AM>
-<AM lemma="Conner_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Conner-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1445-001-p1s31W26-Ta">
@@ -8810,7 +8810,7 @@
 <tag>
 <AM lemma="Conner" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Conner" src="auto">NNIS4-----A----</AM>
-<AM lemma="Conner_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Conner-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1445-001-p1s32W14-Ta">

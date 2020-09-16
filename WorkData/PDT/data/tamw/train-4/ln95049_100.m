@@ -611,7 +611,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -757,7 +757,7 @@
 <LM>w#w-ln95049-100-p3s3w21</LM>
 </w.rf>
 <form>model</form>
-<tag lemma="model" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="model-1" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln95049-100-p3s3w22">
 <src.rf>manual</src.rf>
@@ -821,7 +821,7 @@
 <LM>w#w-ln95049-100-p3s3w29</LM>
 </w.rf>
 <form>prvních</form>
-<tag lemma="první" src="orig" selected="1">CrIP2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIP2----------</tag>
 </m>
 <m id="m-ln95049-100-p3s3w30">
 <src.rf>manual</src.rf>
@@ -1090,7 +1090,7 @@
 <tag>
 <AM lemma="moc-2_^(mnoho_něčeho_[se_subst._v_gen.])" src="orig">Ca--X----------</AM>
 <AM lemma="moc-3_^(velmi,_ve_spojení_s_adj.,_př._moc_hezká)" src="manual">Db-------------</AM>
-<AM lemma="moc-3_^(velmi,_ve_spojení_s_adj.,_př._moc_hezká)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="moc-3_^(moc_hezká,_moc_peněz)" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-100-p3s5w18">
@@ -1109,7 +1109,7 @@
 <form>málo</form>
 <tag>
 <AM lemma="málo-1_^(málo_+_2._p.,_málo_peněz)" src="orig">Ca--1----------</AM>
-<AM lemma="málo-3_^(málo_+_příd._jm.,_př._byl_málo_důsledný)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="málo-3_^(málo_důsledný)" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-100-p3s5w20">
@@ -1118,7 +1118,7 @@
 <LM>w#w-ln95049-100-p3s5w20</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln95049-100-p3s5w21">
 <src.rf>manual</src.rf>
@@ -1184,7 +1184,7 @@
 <LM>w#w-ln95049-100-p3s6w4</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP6-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP6-P1-------</tag>
 </m>
 <m id="m-ln95049-100-p3s6w5">
 <src.rf>manual</src.rf>
@@ -1299,7 +1299,7 @@
 <LM>w#w-ln95049-100-p3s6w18</LM>
 </w.rf>
 <form>právo</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln95049-100-p3s6w19">
 <src.rf>manual</src.rf>
@@ -1421,7 +1421,7 @@
 <LM>w#w-ln95049-100-p3s7w5</LM>
 </w.rf>
 <form>dá</form>
-<tag lemma="dát" src="orig" selected="1">VB-S---3P-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln95049-100-p3s7w6">
 <src.rf>manual</src.rf>
@@ -1655,7 +1655,7 @@
 <form>nejí</form>
 <tag>
 <AM lemma="jíst_^(konzumovat_jídlo)" src="orig">VB-S---3P-NA---</AM>
-<AM lemma="jíst_^(konzumovat_jídlo)" src="manual" selected="1">VB-S---3P-NAI--</AM>
+<AM lemma="jíst" src="manual" selected="1">VB-S---3P-NAI--</AM>
 </tag>
 </m>
 <m id="m-ln95049-100-p3s8w11">
@@ -1815,7 +1815,7 @@
 <LM>w#w-ln95049-100-p3s10w3</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-ln95049-100-p3s10w4">
 <src.rf>manual</src.rf>
@@ -1876,7 +1876,7 @@
 <LM>w#w-ln95049-100-p3s11w2</LM>
 </w.rf>
 <form>Veselovská</form>
-<tag lemma="Veselovská_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Veselovská_;Y_^(*1ý)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95049-100-p3s11w3">
 <src.rf>manual</src.rf>
@@ -2272,7 +2272,7 @@
 <LM>w#w-ln95049-100-p3s14w7</LM>
 </w.rf>
 <form>prvních</form>
-<tag lemma="první" src="orig" selected="1">CrIP2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIP2----------</tag>
 </m>
 <m id="m-ln95049-100-p3s14w8">
 <src.rf>manual</src.rf>
@@ -2658,7 +2658,7 @@
 <form>málo</form>
 <tag>
 <AM lemma="málo-2_^(př._to_málo_co_měl)" src="orig">NNNS1-----A----</AM>
-<AM lemma="málo-3_^(málo_+_příd._jm.,_př._byl_málo_důsledný)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="málo-3_^(málo_důsledný)" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-100-p3s16w14">
@@ -2677,7 +2677,7 @@
 <form>moc</form>
 <tag>
 <AM lemma="moc-2_^(mnoho_něčeho_[se_subst._v_gen.])" src="orig">Ca--X----------</AM>
-<AM lemma="moc-3_^(velmi,_ve_spojení_s_adj.,_př._moc_hezká)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="moc-3_^(moc_hezká,_moc_peněz)" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-100-p3s16w16">
@@ -2744,7 +2744,7 @@
 <LM>w#w-ln95049-100-p3s17w8</LM>
 </w.rf>
 <form>mne</form>
-<tag lemma="já_^(2./4.pád)" src="orig" selected="1">PP-S4--1-------</tag>
+<tag lemma="já" src="orig" selected="1">PP-S4--1-------</tag>
 </m>
 <m id="m-ln95049-100-p3s17w9">
 <src.rf>manual</src.rf>
@@ -2768,7 +2768,7 @@
 <LM>w#w-ln95049-100-p3s17w11</LM>
 </w.rf>
 <form>Hnutí</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95049-100-p3s17w12">
 <src.rf>manual</src.rf>

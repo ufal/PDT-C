@@ -253,7 +253,7 @@
 <LM>w#w-ln94201-37-p2s1w25</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-ln94201-37-p2s1w26">
 <src.rf>manual</src.rf>
@@ -306,7 +306,7 @@
 <LM>w#w-ln94201-37-p2s2w2</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94201-37-p2s2w3">
 <src.rf>manual</src.rf>
@@ -601,7 +601,7 @@
 <LM>w#w-ln94201-37-p2s4w3</LM>
 </w.rf>
 <form>stanoveným</form>
-<tag lemma="stanovený_^(určit)_(*3it)" src="orig" selected="1">AAIP3----1A----</tag>
+<tag lemma="stanovený_^(*3it)" src="orig" selected="1">AAIP3----1A----</tag>
 </m>
 <m id="m-ln94201-37-p2s4w4">
 <src.rf>manual</src.rf>
@@ -1964,7 +1964,7 @@
 <LM>w#w-ln94201-37-p5s1w13</LM>
 </w.rf>
 <form>druhá</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS1----------</tag>
 </m>
 <m id="m-ln94201-37-p5s1w14">
 <src.rf>manual</src.rf>

@@ -579,7 +579,7 @@
 </w.rf>
 <form>škrtů</form>
 <tag>
-<AM lemma="škrt" src="auto" recommended="1">NNIP2-----A----</AM>
+<AM lemma="škrt-1" src="auto" recommended="1">NNIP2-----A----</AM>
 <AM lemma="škrt" src="auto">NNMP2-----A----</AM>
 </tag>
 </m>

@@ -597,7 +597,7 @@
 <LM>w#w-ln94201-32-p3s1w3</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94201-32-p3s1w4">
 <src.rf>manual</src.rf>
@@ -1065,7 +1065,7 @@
 <LM>w#w-ln94201-32-p3s4w12</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-ln94201-32-p3s4w13">
 <src.rf>manual</src.rf>
@@ -1628,7 +1628,7 @@
 <LM>w#w-ln94201-32-p5s1w15</LM>
 </w.rf>
 <form>rady</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94201-32-p5s1w16">
 <src.rf>manual</src.rf>
@@ -1753,7 +1753,7 @@
 <LM>w#w-ln94201-32-p6s1w2</LM>
 </w.rf>
 <form>co</form>
-<tag lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="co-5_^(př._co_nejméně,_co_nevidět_atd.)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94201-32-p6s1w3">
 <src.rf>manual</src.rf>
@@ -1897,7 +1897,7 @@
 <LM>w#w-ln94201-32-p6s1w20</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94201-32-p6s1w21">
 <src.rf>manual</src.rf>
@@ -2234,7 +2234,7 @@
 <form>konkurzu</form>
 <tag>
 <AM lemma="konkurs_^(úpadek;;soutěž)" src="auto">NNIS2-----A----</AM>
-<AM lemma="konkurz_^(úpadek;;soutěž)" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="konkurz" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-32-p7s1w32">
@@ -2317,7 +2317,7 @@
 <LM>w#w-ln94201-32-p7s2w9</LM>
 </w.rf>
 <form>lepším</form>
-<tag lemma="dobrý" src="orig" selected="1">AANS7----2A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AANS7----2A----</tag>
 </m>
 <m id="m-ln94201-32-p7s2w10">
 <src.rf>manual</src.rf>
@@ -2391,7 +2391,7 @@
 <form>konkurz</form>
 <tag>
 <AM lemma="konkurs_^(úpadek;;soutěž)" src="auto">NNIS1-----A----</AM>
-<AM lemma="konkurz_^(úpadek;;soutěž)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="konkurz" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-32-p7s2w20">

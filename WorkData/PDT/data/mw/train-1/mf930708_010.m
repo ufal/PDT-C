@@ -200,7 +200,7 @@
 <LM>w#w-mf930708-010-p2s1w17</LM>
 </w.rf>
 <form>hektary</form>
-<tag lemma="ha-1`hektar" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="hektar" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-mf930708-010-p2s1w18">
 <src.rf>manual</src.rf>

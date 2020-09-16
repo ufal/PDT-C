@@ -19,7 +19,7 @@
 <LM>w#w-ln94202-35-p1s1w1</LM>
 </w.rf>
 <form>Druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFP1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFP1----------</tag>
 </m>
 <m id="m-ln94202-35-p1s1w2">
 <src.rf>manual</src.rf>
@@ -99,7 +99,7 @@
 <LM>w#w-ln94202-35-p2s1Bw2</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFP1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFP1----------</tag>
 </m>
 <m id="m-ln94202-35-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -434,7 +434,7 @@
 <LM>w#w-ln94202-35-p2s2w23</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-ln94202-35-p2s2w24">
 <src.rf>manual</src.rf>

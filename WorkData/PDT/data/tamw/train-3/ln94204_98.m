@@ -241,7 +241,7 @@
 <LM>w#w-ln94204-98-p2s2w3</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94204-98-p2s2w4">
 <src.rf>manual</src.rf>
@@ -794,7 +794,7 @@
 <LM>w#w-ln94204-98-p3s2w17</LM>
 </w.rf>
 <form>varhan</form>
-<tag lemma="varhany" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="varhany-1" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln94204-98-p3s2w18">
 <src.rf>manual</src.rf>
@@ -943,7 +943,7 @@
 <LM>w#w-ln94204-98-p3s3w12</LM>
 </w.rf>
 <form>lety</form>
-<tag lemma="rok" src="orig" selected="1">NNNP7-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP7-----A----</tag>
 </m>
 <m id="m-ln94204-98-p3s3w13">
 <src.rf>manual</src.rf>
@@ -1188,7 +1188,7 @@
 <LM>w#w-ln94204-98-p4s1w26</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln94204-98-p4s1w27">
 <src.rf>manual</src.rf>
@@ -1618,7 +1618,7 @@
 <LM>w#w-ln94204-98-p5s1w22</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94204-98-p5s1w23">
 <src.rf>manual</src.rf>
@@ -1700,7 +1700,7 @@
 <LM>w#w-ln94204-98-p5s2w3</LM>
 </w.rf>
 <form>členové</form>
-<tag lemma="člen" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln94204-98-p5s2w4">
 <src.rf>manual</src.rf>

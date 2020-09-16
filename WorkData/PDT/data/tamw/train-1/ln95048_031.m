@@ -59,7 +59,7 @@
 <LM>w#w-ln95048-031-p1s1w6</LM>
 </w.rf>
 <form>Alše</form>
-<tag lemma="Aleš-2_;Y" src="orig" selected="1">NNMS2-----A---2</tag>
+<tag lemma="Aleš_;Y" src="orig" selected="1">NNMS2-----A---2</tag>
 </m>
 <m id="m-ln95048-031-p1s1w7">
 <src.rf>manual</src.rf>

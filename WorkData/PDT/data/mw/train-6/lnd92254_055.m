@@ -252,7 +252,7 @@
 <LM>w#w-lnd92254-055-p3s2w20</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FP4---------1</tag>
 </m>
 <m id="m-lnd92254-055-p3s2w21">
 <src.rf>manual</src.rf>
@@ -324,7 +324,7 @@
 <LM>w#w-lnd92254-055-p3s2w29</LM>
 </w.rf>
 <form>Kurdové</form>
-<tag lemma="Kurd" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="Kurd_;E" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd92254-055-p3s2w30">
 <src.rf>manual</src.rf>
@@ -608,7 +608,7 @@
 <LM>w#w-lnd92254-055-p3s5w6</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FP4---------1</tag>
 </m>
 <m id="m-lnd92254-055-p3s5w7">
 <src.rf>manual</src.rf>
@@ -861,7 +861,7 @@
 <LM>w#w-lnd92254-055-p3s6w10</LM>
 </w.rf>
 <form>Kurdy</form>
-<tag lemma="Kurd" src="orig" selected="1">NNMP7-----A----</tag>
+<tag lemma="Kurd_;E" src="orig" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-lnd92254-055-p3s6w11">
 <src.rf>manual</src.rf>
@@ -885,7 +885,7 @@
 <LM>w#w-lnd92254-055-p3s6w13</LM>
 </w.rf>
 <form>Kurdy</form>
-<tag lemma="Kurd" src="orig" selected="1">NNMP7-----A----</tag>
+<tag lemma="Kurd_;E" src="orig" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-lnd92254-055-p3s6w14">
 <src.rf>manual</src.rf>
@@ -1055,7 +1055,7 @@
 <LM>w#w-lnd92254-055-p3s7w17</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-lnd92254-055-p3s7w18">
 <src.rf>manual</src.rf>

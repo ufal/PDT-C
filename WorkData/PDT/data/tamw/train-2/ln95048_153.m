@@ -549,7 +549,7 @@
 <LM>w#w-ln95048-153-p2s5w19</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-ln95048-153-p2s5w20">
 <src.rf>manual</src.rf>

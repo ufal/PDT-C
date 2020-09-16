@@ -422,7 +422,7 @@
 <tag>
 <AM lemma="Želiv_;G" src="orig">NNIS6-----A----</AM>
 <AM lemma="Želiv_;G" src="auto">NNIS3-----A----</AM>
-<AM lemma="Želiv_;G" src="auto" recommended="1" selected="1">NNIS6-----A---1</AM>
+<AM lemma="Želiv-1_;G" src="auto" recommended="1" selected="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-mf920925-068-p2s2w46">
@@ -1011,7 +1011,7 @@
 <tag>
 <AM lemma="Želiv_;G" src="orig">NNIS6-----A----</AM>
 <AM lemma="Želiv_;G" src="auto">NNIS3-----A----</AM>
-<AM lemma="Želiv_;G" src="auto" recommended="1" selected="1">NNIS6-----A---1</AM>
+<AM lemma="Želiv-1_;G" src="auto" recommended="1" selected="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-mf920925-068-p2s5w21">
@@ -1151,7 +1151,7 @@
 <LM>w#w-mf920925-068-p2s5w37</LM>
 </w.rf>
 <form>člen</form>
-<tag lemma="člen" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-068-p2s5w38">
 <src.rf>manual</src.rf>

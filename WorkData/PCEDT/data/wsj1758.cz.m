@@ -128,7 +128,7 @@
 </w.rf>
 <form>svých</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8XP2----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8XP2----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8XP6----------</AM>
 </tag>
 </m>
@@ -496,7 +496,7 @@
 <form>své</form>
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FP1---------1</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8FP4---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8FP4---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS2---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS3---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS6---------1</AM>
@@ -839,7 +839,7 @@
 <form>sex</form>
 <tag>
 <AM lemma="sex" src="auto">NNIS1-----A----</AM>
-<AM lemma="sex" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="sex-1" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="sex-77" src="auto">F%-------------</AM>
 <AM lemma="sexus" src="auto">NNIS1-----A---2</AM>
 <AM lemma="sexus" src="auto">NNIS4-----A---2</AM>

@@ -61,7 +61,7 @@
 <LM>w#w-mf920924-048-p2s1w4</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-mf920924-048-p2s1w5">
 <src.rf>manual</src.rf>
@@ -117,7 +117,7 @@
 <LM>w#w-mf920924-048-p2s1w11</LM>
 </w.rf>
 <form>diskusní</form>
-<tag lemma="diskusní" src="orig" selected="1">AAFS2----1A----</tag>
+<tag lemma="diskusní_,s_^(^DD**diskuzní)" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-mf920924-048-p2s1w12">
 <src.rf>manual</src.rf>
@@ -551,7 +551,7 @@
 <LM>w#w-mf920924-048-p3s2w5</LM>
 </w.rf>
 <form>podání</form>
-<tag lemma="podání_^(něco_[někomu]_[někam])_(*3at)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="podání_^(*3at)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-mf920924-048-p3s2w6">
 <src.rf>manual</src.rf>
@@ -735,7 +735,7 @@
 <LM>w#w-mf920924-048-p4s2w6</LM>
 </w.rf>
 <form>černé</form>
-<tag lemma="černý" src="auto" selected="1">AAFS2----1A----</tag>
+<tag lemma="černý_;o" src="auto" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-mf920924-048-p4s2w7">
 <src.rf>manual</src.rf>
@@ -759,7 +759,7 @@
 <LM>w#w-mf920924-048-p4s2w9</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1ZS1FS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1ZS1FS3-------</tag>
 </m>
 <m id="m-mf920924-048-p4s2w10">
 <src.rf>manual</src.rf>
@@ -791,7 +791,7 @@
 <LM>w#w-mf920924-048-p4s2w13</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-mf920924-048-p4s2w14">
 <src.rf>manual</src.rf>

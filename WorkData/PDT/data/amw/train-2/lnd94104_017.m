@@ -201,7 +201,7 @@
 <LM>w#w-lnd94104-017-p1s3w12</LM>
 </w.rf>
 <form>lety</form>
-<tag lemma="rok" src="orig" selected="1">NNNP7-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP7-----A----</tag>
 </m>
 <m id="m-lnd94104-017-p1s3w13">
 <src.rf>manual</src.rf>
@@ -303,7 +303,7 @@
 <LM>w#w-lnd94104-017-p1s4w7</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd94104-017-p1s4w8">
 <src.rf>manual</src.rf>
@@ -581,7 +581,7 @@
 <LM>w#w-lnd94104-017-p1s6w8</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd94104-017-p1s6w9">
 <src.rf>manual</src.rf>
@@ -831,7 +831,7 @@
 <form>tisíc</form>
 <tag>
 <AM lemma="tisíc-1`1000" src="orig">ClXS2----------</AM>
-<AM lemma="tisíc-1`1000" src="manual" selected="1">CzIS4----------</AM>
+<AM lemma="tisíc`1000" src="manual" selected="1">CzIS4----------</AM>
 </tag>
 </m>
 <m id="m-lnd94104-017-p1s7w18">
@@ -911,7 +911,7 @@
 <form>tisíc</form>
 <tag>
 <AM lemma="tisíc-1`1000" src="orig">ClXS2----------</AM>
-<AM lemma="tisíc-1`1000" src="manual" selected="1">CzIS1----------</AM>
+<AM lemma="tisíc`1000" src="manual" selected="1">CzIS1----------</AM>
 </tag>
 </m>
 <m id="m-lnd94104-017-p1s8w4">
@@ -1137,7 +1137,7 @@
 <LM>w#w-lnd94104-017-p1s11w8</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-lnd94104-017-p1s11w9">
 <src.rf>manual</src.rf>
@@ -1145,7 +1145,7 @@
 <LM>w#w-lnd94104-017-p1s11w9</LM>
 </w.rf>
 <form>nedá</form>
-<tag lemma="dát" src="orig" selected="1">VB-S---3P-NAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VB-S---3P-NAP--</tag>
 </m>
 <m id="m-lnd94104-017-p1s11w10">
 <src.rf>manual</src.rf>
@@ -1286,7 +1286,7 @@
 <LM>w#w-lnd94104-017-p1s12w11</LM>
 </w.rf>
 <form>naše</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSHS1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSHS1-P1-------</tag>
 </m>
 <m id="m-lnd94104-017-p1s12w12">
 <src.rf>manual</src.rf>
@@ -1371,7 +1371,7 @@
 <form>tisíc</form>
 <tag>
 <AM lemma="tisíc-1`1000" src="orig">ClXS2----------</AM>
-<AM lemma="tisíc-1`1000" src="manual" selected="1">CzIS4----------</AM>
+<AM lemma="tisíc`1000" src="manual" selected="1">CzIS4----------</AM>
 </tag>
 </m>
 <m id="m-lnd94104-017-p1s12w22">

@@ -255,7 +255,7 @@
 <LM>w#w-mf920924-111-p2s2w7</LM>
 </w.rf>
 <form>nejlepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAMP4----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAMP4----3A----</tag>
 </m>
 <m id="m-mf920924-111-p2s2w8">
 <src.rf>manual</src.rf>
@@ -621,7 +621,7 @@
 <LM>w#w-mf920924-111-p2s5w14</LM>
 </w.rf>
 <form>vyhlášením</form>
-<tag lemma="vyhlášení_,a_^(*4sit)" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="vyhlášení_^(*2t)_(*4sit)" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-mf920924-111-p2s5w15">
 <src.rf>manual</src.rf>

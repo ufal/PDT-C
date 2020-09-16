@@ -324,7 +324,7 @@
 <LM>w#w-ln94211-123-p2s3w12</LM>
 </w.rf>
 <form>sezonní</form>
-<tag lemma="sezónní" src="orig" selected="1">AAIS1----1A----</tag>
+<tag lemma="sezonní_,s_^(^DD**sezónní)" src="orig" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-ln94211-123-p2s3w13">
 <src.rf>manual</src.rf>
@@ -574,7 +574,7 @@
 <LM>w#w-ln94211-123-p3s1w25</LM>
 </w.rf>
 <form>ukazatel</form>
-<tag lemma="ukazatel" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="ukazatel-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94211-123-p3s1w26">
 <src.rf>manual</src.rf>
@@ -632,7 +632,7 @@
 <LM>w#w-ln94211-123-p3s2w3</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrIS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS1----------</tag>
 </m>
 <m id="m-ln94211-123-p3s2w4">
 <src.rf>manual</src.rf>

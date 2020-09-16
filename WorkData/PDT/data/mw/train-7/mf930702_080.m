@@ -19,7 +19,7 @@
 <LM>w#w-mf930702-080-p1s1w1</LM>
 </w.rf>
 <form>Boxer</form>
-<tag lemma="boxer" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="boxer-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-080-p1s1w2">
 <src.rf>manual</src.rf>
@@ -85,7 +85,7 @@
 <LM>w#w-mf930702-080-p2s1w5</LM>
 </w.rf>
 <form>boxer</form>
-<tag lemma="boxer" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="boxer-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-080-p2s1w6">
 <src.rf>manual</src.rf>
@@ -95,7 +95,7 @@
 <form>Randolph</form>
 <tag>
 <AM lemma="Randolph_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Randolph_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Randolph-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-080-p2s1w7">
@@ -282,7 +282,7 @@
 <LM>w#w-mf930702-080-p2s2w1</LM>
 </w.rf>
 <form>Boxer</form>
-<tag lemma="boxer" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="boxer-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-080-p2s2w2">
 <src.rf>manual</src.rf>
@@ -386,7 +386,7 @@
 <LM>w#w-mf930702-080-p2s2w14</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-mf930702-080-p2s2w15">
 <src.rf>manual</src.rf>

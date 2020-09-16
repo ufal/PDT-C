@@ -89,7 +89,7 @@
 <LM>w#w-cmpr9406-059-p2s1w9</LM>
 </w.rf>
 <form>Evropě</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-cmpr9406-059-p2s1w10">
 <src.rf>manual</src.rf>

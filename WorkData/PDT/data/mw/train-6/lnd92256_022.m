@@ -19,7 +19,7 @@
 <LM>w#w-lnd92256-022-p1s1w1</LM>
 </w.rf>
 <form>OZNAMOVATEL</form>
-<tag lemma="oznamovatel" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="oznamovatel-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-022-p1s1w2">
 <src.rf>manual</src.rf>
@@ -87,7 +87,7 @@
 <LM>w#w-lnd92256-022-p3s1w3</LM>
 </w.rf>
 <form>pana</form>
-<tag lemma="pan_^(oslovení)" src="auto" selected="1">NNMS4-----A----</tag>
+<tag lemma="pan" src="auto" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd92256-022-p3s1w4">
 <src.rf>manual</src.rf>
@@ -207,7 +207,7 @@
 <LM>w#w-lnd92256-022-p3s1w18</LM>
 </w.rf>
 <form>mužský</form>
-<tag lemma="mužský" src="orig" selected="1">AAIS1----1A----</tag>
+<tag lemma="mužský-1" src="orig" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-lnd92256-022-p3s1w19">
 <src.rf>manual</src.rf>
@@ -329,7 +329,7 @@
 <LM>w#w-lnd92256-022-p3s2w7</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-lnd92256-022-p3s2w8">
 <src.rf>manual</src.rf>
@@ -403,7 +403,7 @@
 <LM>w#w-lnd92256-022-p3s3w2</LM>
 </w.rf>
 <form>Miroslav</form>
-<tag lemma="Miroslav_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Miroslav-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-022-p3s3w3">
 <src.rf>manual</src.rf>

@@ -322,7 +322,7 @@
 <LM>w#w-mf920902-101-p2s2w29</LM>
 </w.rf>
 <form>Romové</form>
-<tag lemma="Rom-4_;E" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="Rom_;E_;Y" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf920902-101-p2s2w30">
 <src.rf>manual</src.rf>
@@ -540,7 +540,7 @@
 <LM>w#w-mf920902-101-p2s3w14</LM>
 </w.rf>
 <form>proto</form>
-<tag lemma="proto-2_^(dal_mu_co_proto,_tak_proto!)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="proto-2_^(proto_že)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf920902-101-p2s3w15">
 <src.rf>manual</src.rf>
@@ -798,7 +798,7 @@
 <LM>w#w-mf920902-101-p2s4w13</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-mf920902-101-p2s4w14">
 <src.rf>manual</src.rf>
@@ -886,7 +886,7 @@
 <LM>w#w-mf920902-101-p2s4w24</LM>
 </w.rf>
 <form>Roma</form>
-<tag lemma="Rom-4_;E" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Rom_;E_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920902-101-p2s4w25">
 <src.rf>manual</src.rf>

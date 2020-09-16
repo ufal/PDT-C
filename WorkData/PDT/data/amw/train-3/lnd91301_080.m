@@ -139,7 +139,7 @@
 <LM>w#w-lnd91301-080-p1s1w16</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-lnd91301-080-p1s1w17">
 <src.rf>manual</src.rf>

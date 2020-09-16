@@ -306,7 +306,7 @@
 <LM>w#w-mf930708-180-p2s2w4</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrIS7----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS7----------</tag>
 </m>
 <m id="m-mf930708-180-p2s2w5">
 <src.rf>manual</src.rf>

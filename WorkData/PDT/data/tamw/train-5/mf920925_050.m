@@ -117,7 +117,7 @@
 <LM>w#w-mf920925-050-p2s1w6</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP2-P1-------</tag>
 </m>
 <m id="m-mf920925-050-p2s1w7">
 <src.rf>manual</src.rf>
@@ -322,7 +322,7 @@
 <LM>w#w-mf920925-050-p2s2w16</LM>
 </w.rf>
 <form>hnutí</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-mf920925-050-p2s2w17">
 <src.rf>manual</src.rf>
@@ -428,7 +428,7 @@
 <LM>w#w-mf920925-050-p3s1w2</LM>
 </w.rf>
 <form>proto</form>
-<tag lemma="proto-2_^(dal_mu_co_proto,_tak_proto!)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="proto-2_^(proto_že)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf920925-050-p3s1w3">
 <src.rf>manual</src.rf>
@@ -990,7 +990,7 @@
 <LM>w#w-mf920925-050-p3s4w13</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP2-P1-------</tag>
 </m>
 <m id="m-mf920925-050-p3s4w14">
 <src.rf>manual</src.rf>
@@ -1335,7 +1335,7 @@
 <LM>w#w-mf920925-050-p4s1w14</LM>
 </w.rf>
 <form>lepším</form>
-<tag lemma="dobrý" src="orig" selected="1">AAMS7----2A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAMS7----2A----</tag>
 </m>
 <m id="m-mf920925-050-p4s1w15">
 <src.rf>manual</src.rf>
@@ -1393,7 +1393,7 @@
 <LM>w#w-mf920925-050-p4s2w3</LM>
 </w.rf>
 <form>Banská</form>
-<tag lemma="Banský_;G" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="banský" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-mf920925-050-p4s2w4">
 <src.rf>manual</src.rf>
@@ -2186,7 +2186,7 @@
 <LM>w#w-mf920925-050-p5s2w7</LM>
 </w.rf>
 <form>Adamičkovou</form>
-<tag lemma="Adamičková_;Y" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Adamičková_;Y_^(*3a)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf920925-050-p5s2w8">
 <src.rf>manual</src.rf>

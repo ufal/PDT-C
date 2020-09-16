@@ -93,7 +93,7 @@
 <LM>w#w-lnd94104-016-p1s3w1</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrFS7----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS7----------</tag>
 </m>
 <m id="m-lnd94104-016-p1s3w2">
 <src.rf>manual</src.rf>
@@ -1183,7 +1183,7 @@
 <form>ohlášení</form>
 <tag>
 <AM lemma="ohlášení_,a_^(*4sit)" src="auto">NNNS2-----A----</AM>
-<AM lemma="ohlášení_^(*4sit)" src="manual" selected="1">NNNS2-----A----</AM>
+<AM lemma="ohlášení_^(*2t)_(*4sit)" src="manual" selected="1">NNNS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-016-p1s7w15">
@@ -1264,7 +1264,7 @@
 <LM>w#w-lnd94104-016-p1s7w24</LM>
 </w.rf>
 <form>bojí</form>
-<tag lemma="bát" src="orig" selected="1">VB-P---3P-AAI--</tag>
+<tag lemma="bát-1" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd94104-016-p1s7w25">
 <src.rf>manual</src.rf>
@@ -1568,7 +1568,7 @@
 <LM>w#w-lnd94104-016-p1s9w26</LM>
 </w.rf>
 <form>orgánů</form>
-<tag lemma="orgán" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-lnd94104-016-p1s9w27">
 <src.rf>manual</src.rf>
@@ -1618,7 +1618,7 @@
 <LM>w#w-lnd94104-016-p1s10w5</LM>
 </w.rf>
 <form>co</form>
-<tag lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="co-5_^(př._co_nejméně,_co_nevidět_atd.)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd94104-016-p1s10w6">
 <src.rf>manual</src.rf>
@@ -1991,7 +1991,7 @@
 <LM>w#w-lnd94104-016-p1s12w13</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd94104-016-p1s12w14">
 <src.rf>manual</src.rf>
@@ -2095,7 +2095,7 @@
 <LM>w#w-lnd94104-016-p1s12w26</LM>
 </w.rf>
 <form>vězení</form>
-<tag lemma="vězení_,a_^(místo_výkonu_trestu)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="vězení_^(místo_výkonu_trestu)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-lnd94104-016-p1s12w27">
 <src.rf>manual</src.rf>

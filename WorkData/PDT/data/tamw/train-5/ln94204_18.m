@@ -87,7 +87,7 @@
 <LM>w#w-ln94204-18-p2s1Bw2</LM>
 </w.rf>
 <form>rada</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94204-18-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -257,7 +257,7 @@
 <LM>w#w-ln94204-18-p2s2w2</LM>
 </w.rf>
 <form>sezoně</form>
-<tag lemma="sezona" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="sezona_,s_^(^DD**sezóna)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94204-18-p2s2w3">
 <src.rf>manual</src.rf>
@@ -1987,7 +1987,7 @@
 <LM>w#w-ln94204-18-p8s2w1</LM>
 </w.rf>
 <form>Lepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAFP1----2A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAFP1----2A----</tag>
 </m>
 <m id="m-ln94204-18-p8s2w2">
 <src.rf>manual</src.rf>
@@ -2027,7 +2027,7 @@
 <LM>w#w-ln94204-18-p8s2w6</LM>
 </w.rf>
 <form>Evropě</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94204-18-p8s2w7">
 <src.rf>manual</src.rf>

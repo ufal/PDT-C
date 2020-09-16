@@ -78,7 +78,7 @@
 <LM>w#w-lnd92255-002-p1s1w8</LM>
 </w.rf>
 <form>trombolytické</form>
-<tag lemma="trombolytický_;U" src="orig" selected="1">AAFS2----1A----</tag>
+<tag lemma="trombolytický" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-lnd92255-002-p1s1w9">
 <src.rf>manual</src.rf>
@@ -227,7 +227,7 @@
 <LM>w#w-lnd92255-002-p1s1w26</LM>
 </w.rf>
 <form>sympoziu</form>
-<tag lemma="sympózium" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="sympozium" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-lnd92255-002-p1s1w27">
 <src.rf>manual</src.rf>
@@ -617,7 +617,7 @@
 <form>ČEZ</form>
 <tag>
 <AM lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ČEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČEZ-2_;m_^(České_energetické_závody)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-002-p2s2w7">

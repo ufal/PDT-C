@@ -315,7 +315,7 @@
 <LM>w#w-ln95043-014-p2s2w2</LM>
 </w.rf>
 <form>výtržnosti</form>
-<tag lemma="výtržnost_,a_^(*3ý)" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="výtržnost_^(*3ý)" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-ln95043-014-p2s2w3">
 <src.rf>manual</src.rf>

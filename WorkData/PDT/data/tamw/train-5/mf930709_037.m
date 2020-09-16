@@ -796,7 +796,7 @@
 <LM>w#w-mf930709-037-p2s6w3</LM>
 </w.rf>
 <form>nejlepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAMP4----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAMP4----3A----</tag>
 </m>
 <m id="m-mf930709-037-p2s6w4">
 <src.rf>manual</src.rf>

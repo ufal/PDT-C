@@ -776,7 +776,7 @@
 <LM>w#w-ln94206-78-p2s5w15</LM>
 </w.rf>
 <form>Yorku</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="York-2_;G_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln94206-78-p2s5w16">
 <src.rf>manual</src.rf>
@@ -858,7 +858,7 @@
 <LM>w#w-ln94206-78-p2s6w2</LM>
 </w.rf>
 <form>činitelé</form>
-<tag lemma="činitel" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="činitel-1" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln94206-78-p2s6w3">
 <src.rf>manual</src.rf>

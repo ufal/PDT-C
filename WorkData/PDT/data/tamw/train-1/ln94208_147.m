@@ -143,7 +143,7 @@
 <LM>w#w-ln94208-147-p2s2w2</LM>
 </w.rf>
 <form>prostředky</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-ln94208-147-p2s2w3">
 <src.rf>manual</src.rf>
@@ -845,7 +845,7 @@
 <LM>w#w-ln94208-147-p3s2w13</LM>
 </w.rf>
 <form>zdanění</form>
-<tag lemma="zdanění_^(vypočítat_daň)_(*3it)" src="auto" selected="1">NNNS2-----A----</tag>
+<tag lemma="zdanění_^(*3it)" src="auto" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln94208-147-p3s2w14">
 <src.rf>manual</src.rf>

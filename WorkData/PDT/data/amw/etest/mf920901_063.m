@@ -210,7 +210,7 @@
 <LM>w#w-mf920901-063-p2s1w10</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-mf920901-063-p2s1w11">
 <src.rf>manual</src.rf>
@@ -327,7 +327,7 @@
 <LM>w#w-mf920901-063-p3s1w1</LM>
 </w.rf>
 <form>Naše</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSHS1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSHS1-P1-------</tag>
 </m>
 <m id="m-mf920901-063-p3s1w2">
 <src.rf>manual</src.rf>
@@ -1054,7 +1054,7 @@
 <LM>w#w-mf920901-063-p4s1w26</LM>
 </w.rf>
 <form>kádru</form>
-<tag lemma="kádr" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="kádr-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920901-063-p4s1w27">
 <src.rf>manual</src.rf>
@@ -1134,7 +1134,7 @@
 <LM>w#w-mf920901-063-p4s1w36</LM>
 </w.rf>
 <form>Máčalova</form>
-<tag lemma="Máčalův_;Y_^(*2a)" src="orig" selected="1">AUIS2M---------</tag>
+<tag lemma="Máčalův_;Y_^(*2)_(*2a)" src="orig" selected="1">AUIS2M---------</tag>
 </m>
 <m id="m-mf920901-063-p4s1w37">
 <src.rf>manual</src.rf>
@@ -1290,7 +1290,7 @@
 <LM>w#w-mf920901-063-p5s1w6</LM>
 </w.rf>
 <form>Č</form>
-<tag lemma="Český_;G" src="orig" selected="1">AAXXX----1A---b</tag>
+<tag lemma="český" src="orig" selected="1">AAXXX----1A---b</tag>
 </m>
 <m id="m-mf920901-063-p5s1w7">
 <src.rf>manual</src.rf>

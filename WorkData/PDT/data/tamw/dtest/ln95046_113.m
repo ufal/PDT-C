@@ -706,7 +706,7 @@
 <LM>w#w-ln95046-113-p3s2w7</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrIP4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIP4----------</tag>
 </m>
 <m id="m-ln95046-113-p3s2w8">
 <src.rf>manual</src.rf>

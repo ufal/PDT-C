@@ -117,7 +117,7 @@
 <LM>w#w-ln94204-93-p2s1w7</LM>
 </w.rf>
 <form>sezoně</form>
-<tag lemma="sezona" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="sezona_,s_^(^DD**sezóna)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94204-93-p2s1w8">
 <src.rf>manual</src.rf>
@@ -555,7 +555,7 @@
 <LM>w#w-ln94204-93-p2s2w47</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP2-P1-------</tag>
 </m>
 <m id="m-ln94204-93-p2s2w48">
 <src.rf>manual</src.rf>
@@ -849,7 +849,7 @@
 <LM>w#w-ln94204-93-p2s4w2</LM>
 </w.rf>
 <form>stomilionové</form>
-<tag lemma="stomilionový" src="orig" selected="1">AAFS3----1A----</tag>
+<tag lemma="stomilionový_,s_^(^DD**stomiliónový)" src="orig" selected="1">AAFS3----1A----</tag>
 </m>
 <m id="m-ln94204-93-p2s4w3">
 <src.rf>manual</src.rf>
@@ -1259,7 +1259,7 @@
 <LM>w#w-ln94204-93-p3s1w21</LM>
 </w.rf>
 <form>biografu</form>
-<tag lemma="biograf" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="biograf-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94204-93-p3s1w22">
 <src.rf>manual</src.rf>
@@ -1479,7 +1479,7 @@
 <LM>w#w-ln94204-93-p3s3w4</LM>
 </w.rf>
 <form>promyšlená</form>
-<tag lemma="promyšlený_^(*5slet)" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="promyšlený_^(*5slit)" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-ln94204-93-p3s3w5">
 <src.rf>manual</src.rf>

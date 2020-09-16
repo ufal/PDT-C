@@ -234,7 +234,7 @@
 <LM>w#w-ln94210-141-p2s1Bw21</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrNS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS4----------</tag>
 </m>
 <m id="m-ln94210-141-p2s1Bw22">
 <src.rf>manual</src.rf>

@@ -672,7 +672,7 @@
 <LM>w#w-mf920901-097-p2s5w20</LM>
 </w.rf>
 <form>masové</form>
-<tag lemma="masový-2_^(velký)" src="orig" selected="1">AANS4----1A----</tag>
+<tag lemma="masový" src="orig" selected="1">AANS4----1A----</tag>
 </m>
 <m id="m-mf920901-097-p2s5w21">
 <src.rf>manual</src.rf>
@@ -712,7 +712,7 @@
 <LM>w#w-mf920901-097-p2s5w25</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920901-097-p2s5w26">
 <src.rf>manual</src.rf>
@@ -1086,7 +1086,7 @@
 <LM>w#w-mf920901-097-p2s8w18</LM>
 </w.rf>
 <form>jejím</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS6FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS6FS3-------</tag>
 </m>
 <m id="m-mf920901-097-p2s8w19">
 <src.rf>manual</src.rf>

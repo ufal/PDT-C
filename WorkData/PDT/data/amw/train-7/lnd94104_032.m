@@ -182,7 +182,7 @@
 <LM>w#w-lnd94104-032-p1s1w21</LM>
 </w.rf>
 <form>napjatá</form>
-<tag lemma="napjatý_^(*4nout)" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="napjatý" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-lnd94104-032-p1s1w22">
 <src.rf>manual</src.rf>

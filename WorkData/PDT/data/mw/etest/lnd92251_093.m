@@ -19,7 +19,7 @@
 <LM>w#w-lnd92251-093-p1s1w1</LM>
 </w.rf>
 <form>Zatčení</form>
-<tag lemma="zatčený_^(*4knout)" src="orig" selected="1">AAMP1----1A----</tag>
+<tag lemma="zatčený" src="orig" selected="1">AAMP1----1A----</tag>
 </m>
 <m id="m-lnd92251-093-p1s1w2">
 <src.rf>manual</src.rf>
@@ -84,7 +84,7 @@
 <LM>w#w-lnd92251-093-p2s2w4</LM>
 </w.rf>
 <form>tažení</form>
-<tag lemma="tažení_^(*5áhnout)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="tažení" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-lnd92251-093-p2s2w5">
 <src.rf>manual</src.rf>

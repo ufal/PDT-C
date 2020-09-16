@@ -315,7 +315,7 @@
 <LM>w#w-mf930702-099-p3s1w30</LM>
 </w.rf>
 <form>Waltonovi</form>
-<tag lemma="Waltonův_;Y_^(*2)" src="orig" selected="1">AUMP1M---------</tag>
+<tag lemma="Waltonův-1_;Y_^(*4-1)" src="orig" selected="1">AUMP1M---------</tag>
 </m>
 <m id="m-mf930702-099-p3s1w31">
 <src.rf>manual</src.rf>
@@ -974,7 +974,7 @@
 <LM>w#w-mf930702-099-p5s1w32</LM>
 </w.rf>
 <form>modrém</form>
-<tag lemma="modrý" src="orig" selected="1">AAIS6----1A----</tag>
+<tag lemma="modrý_;o" src="orig" selected="1">AAIS6----1A----</tag>
 </m>
 <m id="m-mf930702-099-p5s1w33">
 <src.rf>manual</src.rf>
@@ -1863,7 +1863,7 @@
 <LM>w#w-mf930702-099-p9s1w15</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930702-099-p9s1w16">
 <src.rf>manual</src.rf>
@@ -2199,7 +2199,7 @@
 <LM>w#w-mf930702-099-p9s1w57</LM>
 </w.rf>
 <form>dny</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-mf930702-099-p9s1w58">
 <src.rf>manual</src.rf>

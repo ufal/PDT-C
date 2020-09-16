@@ -243,7 +243,7 @@
 <LM>w#w-mf920901-004-p1s2w13</LM>
 </w.rf>
 <form>postižené</form>
-<tag lemma="postižený_^(*4hnout)" src="orig" selected="1">AAFP4----1A----</tag>
+<tag lemma="postižený" src="orig" selected="1">AAFP4----1A----</tag>
 </m>
 <m id="m-mf920901-004-p1s2w14">
 <src.rf>manual</src.rf>
@@ -251,7 +251,7 @@
 <LM>w#w-mf920901-004-p1s2w14</LM>
 </w.rf>
 <form>děti</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-mf920901-004-p1s2w15">
 <src.rf>manual</src.rf>

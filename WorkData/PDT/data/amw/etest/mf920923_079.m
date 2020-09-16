@@ -27,7 +27,7 @@
 <LM>w#w-mf920923-079-p1s1Aw2</LM>
 </w.rf>
 <form>děti</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 </s>
 <s id="m-mf920923-079-p1s1B">

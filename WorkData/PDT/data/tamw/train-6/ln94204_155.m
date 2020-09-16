@@ -549,7 +549,7 @@
 <LM>w#w-ln94204-155-p4s1w2</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-ln94204-155-p4s1w3">
 <src.rf>manual</src.rf>
@@ -841,7 +841,7 @@
 <LM>w#w-ln94204-155-p4s3w13</LM>
 </w.rf>
 <form>stanovenou</form>
-<tag lemma="stanovený_^(určit)_(*3it)" src="orig" selected="1">AAFS4----1A----</tag>
+<tag lemma="stanovený_^(*3it)" src="orig" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-ln94204-155-p4s3w14">
 <src.rf>manual</src.rf>

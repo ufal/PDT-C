@@ -166,7 +166,7 @@
 <LM>w#w-mf930713-065-p2s1Bw9</LM>
 </w.rf>
 <form>hodiny</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930713-065-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -206,7 +206,7 @@
 <LM>w#w-mf930713-065-p2s1Bw14</LM>
 </w.rf>
 <form>zaměstnání</form>
-<tag lemma="zaměstnání-1_^(všeob._význam:_činnost,_zaměstnání)_(*5at-1)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="zaměstnání_^(*3at)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-mf930713-065-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -664,7 +664,7 @@
 <LM>w#w-mf930713-065-p2s3w16</LM>
 </w.rf>
 <form>hnědé</form>
-<tag lemma="hnědý" src="orig" selected="1">AAIP4----1A----</tag>
+<tag lemma="hnědý_;o" src="orig" selected="1">AAIP4----1A----</tag>
 </m>
 <m id="m-mf930713-065-p2s3w17">
 <src.rf>manual</src.rf>
@@ -712,7 +712,7 @@
 <LM>w#w-mf930713-065-p2s3w22</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf930713-065-p2s3w23">
 <src.rf>manual</src.rf>
@@ -860,7 +860,7 @@
 <LM>w#w-mf930713-065-p2s5w8</LM>
 </w.rf>
 <form>černé</form>
-<tag lemma="černý" src="auto" selected="1">AAFP4----1A----</tag>
+<tag lemma="černý_;o" src="auto" selected="1">AAFP4----1A----</tag>
 </m>
 <m id="m-mf930713-065-p2s5w9">
 <src.rf>manual</src.rf>
@@ -884,7 +884,7 @@
 <LM>w#w-mf930713-065-p2s5w11</LM>
 </w.rf>
 <form>hnědé</form>
-<tag lemma="hnědý" src="orig" selected="1">AAIP4----1A----</tag>
+<tag lemma="hnědý_;o" src="orig" selected="1">AAIP4----1A----</tag>
 </m>
 <m id="m-mf930713-065-p2s5w12">
 <src.rf>manual</src.rf>
@@ -1000,7 +1000,7 @@
 <LM>w#w-mf930713-065-p2s6w11</LM>
 </w.rf>
 <form>černé</form>
-<tag lemma="černý" src="auto" selected="1">AAFS6----1A----</tag>
+<tag lemma="černý_;o" src="auto" selected="1">AAFS6----1A----</tag>
 </m>
 <m id="m-mf930713-065-p2s6w12">
 <src.rf>manual</src.rf>
@@ -1048,7 +1048,7 @@
 <LM>w#w-mf930713-065-p2s6w17</LM>
 </w.rf>
 <form>pas</form>
-<tag lemma="pas-1_^(př._cestovní)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="pas-1_^(přihrávka,_př._v_kopané,na_lidském_těle;;cestovní)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-mf930713-065-p2s6w18">
 <src.rf>manual</src.rf>

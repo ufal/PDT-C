@@ -620,7 +620,7 @@
 <LM>w#w-ln95045-103-p3s2w12</LM>
 </w.rf>
 <form>odpovědnost</form>
-<tag lemma="odpovědnost_^(kdo_za_něco_odpovídá)_(*3ý)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="odpovědnost_^(*3ý)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95045-103-p3s2w13">
 <src.rf>manual</src.rf>
@@ -1106,7 +1106,7 @@
 <LM>w#w-ln95045-103-p4s2w3</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP6----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP6----------</tag>
 </m>
 <m id="m-ln95045-103-p4s2w4">
 <src.rf>manual</src.rf>

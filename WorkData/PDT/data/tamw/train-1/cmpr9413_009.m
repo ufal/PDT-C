@@ -75,7 +75,7 @@
 <LM>w#w-cmpr9413-009-p3s1w5</LM>
 </w.rf>
 <form>vydání</form>
-<tag lemma="vydání-2_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)_(*5at-2)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="vydání_^(*3at)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-cmpr9413-009-p3s1w6">
 <src.rf>manual</src.rf>
@@ -197,7 +197,7 @@
 <LM>w#w-cmpr9413-009-p3s2w1</LM>
 </w.rf>
 <form>Správní</form>
-<tag lemma="správní_^(např._poplatek;_rada;_řád;...)" src="orig" selected="1">AANS1----1A----</tag>
+<tag lemma="správní_^(správní_rada;_řád)" src="orig" selected="1">AANS1----1A----</tag>
 </m>
 <m id="m-cmpr9413-009-p3s2w2">
 <src.rf>manual</src.rf>
@@ -303,7 +303,7 @@
 <LM>w#w-cmpr9413-009-p3s3w4</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XP1FS3-------</tag>
 </m>
 <m id="m-cmpr9413-009-p3s3w5">
 <src.rf>manual</src.rf>
@@ -311,7 +311,7 @@
 <LM>w#w-cmpr9413-009-p3s3w5</LM>
 </w.rf>
 <form>členové</form>
-<tag lemma="člen" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-cmpr9413-009-p3s3w6">
 <src.rf>manual</src.rf>
@@ -335,7 +335,7 @@
 <LM>w#w-cmpr9413-009-p3s3w8</LM>
 </w.rf>
 <form>druhém</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS6----------</tag>
 </m>
 <m id="m-cmpr9413-009-p3s3w9">
 <src.rf>manual</src.rf>
@@ -540,7 +540,7 @@
 <LM>w#w-cmpr9413-009-p3s4w20</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9NS4FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9NS4FS3-------</tag>
 </m>
 <m id="m-cmpr9413-009-p3s4w21">
 <src.rf>manual</src.rf>

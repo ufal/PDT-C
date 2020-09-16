@@ -1070,7 +1070,7 @@
 <LM>w#w-mf930702-110-p2s6w2</LM>
 </w.rf>
 <form>Sen</form>
-<tag lemma="Sen_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sen-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-110-p2s6w3">
 <src.rf>manual</src.rf>
@@ -1158,7 +1158,7 @@
 <LM>w#w-mf930702-110-p2s6w13</LM>
 </w.rf>
 <form>faktorem</form>
-<tag lemma="faktor" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="faktor-1" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-mf930702-110-p2s6w14">
 <src.rf>manual</src.rf>

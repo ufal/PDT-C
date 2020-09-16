@@ -19,7 +19,7 @@
 <LM>w#w-cmpr9415-021-p2s1w1</LM>
 </w.rf>
 <form>Náš</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSYS1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSYS1-P1-------</tag>
 </m>
 <m id="m-cmpr9415-021-p2s1w2">
 <src.rf>manual</src.rf>
@@ -324,7 +324,7 @@
 <LM>w#w-cmpr9415-021-p4s2w8</LM>
 </w.rf>
 <form>prvních</form>
-<tag lemma="první" src="orig" selected="1">CrIP2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIP2----------</tag>
 </m>
 <m id="m-cmpr9415-021-p4s2w9">
 <src.rf>manual</src.rf>
@@ -927,7 +927,7 @@
 <LM>w#w-cmpr9415-021-p4s6w3</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-cmpr9415-021-p4s6w4">
 <src.rf>manual</src.rf>
@@ -1309,7 +1309,7 @@
 <LM>w#w-cmpr9415-021-p6s3w5</LM>
 </w.rf>
 <form>proto</form>
-<tag lemma="proto-2_^(dal_mu_co_proto,_tak_proto!)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="proto-2_^(proto_že)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-cmpr9415-021-p6s3w6">
 <src.rf>manual</src.rf>
@@ -1506,7 +1506,7 @@
 <LM>w#w-cmpr9415-021-p6s4w6</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-cmpr9415-021-p6s4w7">
 <src.rf>manual</src.rf>
@@ -2260,7 +2260,7 @@
 <LM>w#w-cmpr9415-021-p10s1w3</LM>
 </w.rf>
 <form>cestě</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-cmpr9415-021-p10s1w4">
 <src.rf>manual</src.rf>
@@ -2356,7 +2356,7 @@
 <LM>w#w-cmpr9415-021-p10s1w15</LM>
 </w.rf>
 <form>pas</form>
-<tag lemma="pas-1_^(př._cestovní)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="pas-1_^(přihrávka,_př._v_kopané,na_lidském_těle;;cestovní)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-cmpr9415-021-p10s1w16">
 <src.rf>manual</src.rf>
@@ -2382,7 +2382,7 @@
 <LM>w#w-cmpr9415-021-p10s2w2</LM>
 </w.rf>
 <form>delšímu</form>
-<tag lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">AAIS3----2A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAIS3----2A----</tag>
 </m>
 <m id="m-cmpr9415-021-p10s2w3">
 <src.rf>manual</src.rf>

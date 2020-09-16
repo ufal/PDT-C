@@ -19,7 +19,7 @@
 <LM>w#w-lnd92258-143-p1s1w1</LM>
 </w.rf>
 <form>Turci</form>
-<tag lemma="Turek_;E" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="Turek_;E_;Y" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd92258-143-p1s1w2">
 <src.rf>manual</src.rf>
@@ -539,7 +539,7 @@
 <LM>w#w-lnd92258-143-p2s5w14</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-lnd92258-143-p2s5w15">
 <src.rf>manual</src.rf>
@@ -603,7 +603,7 @@
 <LM>w#w-lnd92258-143-p2s5w22</LM>
 </w.rf>
 <form>Turci</form>
-<tag lemma="Turek_;E" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="Turek_;E_;Y" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd92258-143-p2s5w23">
 <src.rf>manual</src.rf>

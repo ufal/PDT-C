@@ -154,7 +154,7 @@
 <LM>w#w-ln94202-36-p2s1Bw8</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-ln94202-36-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -396,7 +396,7 @@
 <LM>w#w-ln94202-36-p2s2w15</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94202-36-p2s2w16">
 <src.rf>manual</src.rf>
@@ -894,7 +894,7 @@
 <LM>w#w-ln94202-36-p2s4w7</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-ln94202-36-p2s4w8">
 <src.rf>manual</src.rf>
@@ -984,7 +984,7 @@
 <LM>w#w-ln94202-36-p2s5w5</LM>
 </w.rf>
 <form>orgán</form>
-<tag lemma="orgán" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94202-36-p2s5w6">
 <src.rf>manual</src.rf>

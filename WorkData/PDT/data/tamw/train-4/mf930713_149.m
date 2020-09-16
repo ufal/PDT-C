@@ -35,7 +35,7 @@
 <LM>w#w-mf930713-149-p1s1w3</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS7----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS7----------</tag>
 </m>
 <m id="m-mf930713-149-p1s1w4">
 <src.rf>manual</src.rf>
@@ -362,7 +362,7 @@
 <tag>
 <AM lemma="Warren_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Warren_;Y:;Y" src="manual">NNMS1-----A----</AM>
-<AM lemma="Warren_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Warren-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-149-p5s1w5">

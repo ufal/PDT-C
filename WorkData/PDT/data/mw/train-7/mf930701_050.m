@@ -157,7 +157,7 @@
 <LM>w#w-mf930701-050-p1s2w2</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrMS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrMS1----------</tag>
 </m>
 <m id="m-mf930701-050-p1s2w3">
 <src.rf>manual</src.rf>

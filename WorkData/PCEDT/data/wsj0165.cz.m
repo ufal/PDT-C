@@ -109,7 +109,7 @@
 <AM lemma="York-2_;G" src="auto">NNIS2-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS5-----A----</AM>
-<AM lemma="York-2_;G" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="York-2_;G_;m" src="auto" recommended="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0165-001-p1s0W9-Ta">
@@ -1945,7 +1945,7 @@
 <AM lemma="York-2_;G" src="auto">NNIS2-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS5-----A----</AM>
-<AM lemma="York-2_;G" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="York-2_;G_;m" src="auto" recommended="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0165-001-p1s5W9-Ta">
@@ -2425,7 +2425,7 @@
 <form>radiové</form>
 <tag>
 <AM lemma="radiový" src="auto">AAFP1----1A----</AM>
-<AM lemma="radiový" src="auto" recommended="1">AAFP4----1A----</AM>
+<AM lemma="radiový_,s_^(^DD**rádiový)" src="auto" recommended="1">AAFP4----1A----</AM>
 <AM lemma="radiový" src="auto">AAFP5----1A----</AM>
 <AM lemma="radiový" src="auto">AAFS2----1A----</AM>
 <AM lemma="radiový" src="auto">AAFS3----1A----</AM>
@@ -2568,7 +2568,7 @@
 <AM lemma="program-1" src="auto" recommended="1">NNIP4-----A----</AM>
 <AM lemma="program-1" src="auto">NNIP5-----A----</AM>
 <AM lemma="program-1" src="auto">NNIP7-----A----</AM>
-<AM lemma="program" src="manual" selected="1">NNIP4-----A----</AM>
+<AM lemma="program-1" src="manual" selected="1">NNIP4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0165-001-p1s6W15-Ta">

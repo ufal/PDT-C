@@ -53,7 +53,7 @@
 <LM>w#w-lnd91301-051-p2s1w1</LM>
 </w.rf>
 <form>Rada</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd91301-051-p2s1w2">
 <src.rf>manual</src.rf>
@@ -173,7 +173,7 @@
 <LM>w#w-lnd91301-051-p2s1w16</LM>
 </w.rf>
 <form>jejímž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1ZS7FS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1ZS7FS3-------</tag>
 </m>
 <m id="m-lnd91301-051-p2s1w17">
 <src.rf>manual</src.rf>
@@ -242,7 +242,7 @@
 <LM>w#w-lnd91301-051-p2s2w4</LM>
 </w.rf>
 <form>rada</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd91301-051-p2s2w5">
 <src.rf>manual</src.rf>
@@ -738,7 +738,7 @@
 <LM>w#w-lnd91301-051-p3s1w25</LM>
 </w.rf>
 <form>co</form>
-<tag lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="co-5_^(př._co_nejméně,_co_nevidět_atd.)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd91301-051-p3s1w26">
 <src.rf>manual</src.rf>

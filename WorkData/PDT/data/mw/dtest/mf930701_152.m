@@ -93,7 +93,7 @@
 <LM>w#w-mf930701-152-p2s1w3</LM>
 </w.rf>
 <form>Zpopelnění</form>
-<tag lemma="zpopelnění_,s_^(*3it)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="zpopelnění_^(*2t)_(*3it)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf930701-152-p2s1w4">
 <src.rf>manual</src.rf>
@@ -809,7 +809,7 @@
 <LM>w#w-mf930701-152-p3s3w7</LM>
 </w.rf>
 <form>Děti</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-mf930701-152-p3s3w8">
 <src.rf>manual</src.rf>
@@ -891,7 +891,7 @@
 <LM>w#w-mf930701-152-p3s4w2</LM>
 </w.rf>
 <form>členů</form>
-<tag lemma="člen" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf930701-152-p3s4w3">
 <src.rf>manual</src.rf>
@@ -1201,7 +1201,7 @@
 <LM>w#w-mf930701-152-p4s1w20</LM>
 </w.rf>
 <form>hinduisté</form>
-<tag lemma="hinduista_;E" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="hinduista" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf930701-152-p4s1w21">
 <src.rf>manual</src.rf>
@@ -1753,7 +1753,7 @@
 <LM>w#w-mf930701-152-p5s1w28</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-mf930701-152-p5s1w29">
 <src.rf>manual</src.rf>
@@ -1891,7 +1891,7 @@
 <LM>w#w-mf930701-152-p5s2w8</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-mf930701-152-p5s2w9">
 <src.rf>manual</src.rf>

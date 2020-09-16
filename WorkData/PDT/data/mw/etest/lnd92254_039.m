@@ -678,7 +678,7 @@
 <tag>
 <AM lemma="Želiv_;G" src="orig">NNIS6-----A----</AM>
 <AM lemma="Želiv_;G" src="auto">NNIS3-----A----</AM>
-<AM lemma="Želiv_;G" src="auto" recommended="1" selected="1">NNIS6-----A---1</AM>
+<AM lemma="Želiv-1_;G" src="auto" recommended="1" selected="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-lnd92254-039-p3s4w38">
@@ -780,7 +780,7 @@
 <LM>w#w-lnd92254-039-p3s5w9</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-lnd92254-039-p3s5w10">
 <src.rf>manual</src.rf>
@@ -879,7 +879,7 @@
 <LM>w#w-lnd92254-039-p3s5w21</LM>
 </w.rf>
 <form>člen</form>
-<tag lemma="člen" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-039-p3s5w22">
 <src.rf>manual</src.rf>

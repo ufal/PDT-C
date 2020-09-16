@@ -39,7 +39,7 @@
 <LM>w#w-mf930703-075-p1s1w3</LM>
 </w.rf>
 <form>Slováci</form>
-<tag lemma="Slovák_;E" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="Slovák_;E_;Y" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf930703-075-p1s1w4">
 <src.rf>manual</src.rf>
@@ -156,7 +156,7 @@
 <LM>w#w-mf930703-075-p2s1w11</LM>
 </w.rf>
 <form>Slováci</form>
-<tag lemma="Slovák_;E" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="Slovák_;E_;Y" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf930703-075-p2s1w12">
 <src.rf>manual</src.rf>
@@ -252,7 +252,7 @@
 <LM>w#w-mf930703-075-p2s1w23</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930703-075-p2s1w24">
 <src.rf>manual</src.rf>

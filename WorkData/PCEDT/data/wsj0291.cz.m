@@ -452,7 +452,7 @@
 <AM lemma="postižený_^(*4hnout)" src="auto">AAIP1----1A----</AM>
 <AM lemma="postižený_^(*4hnout)" src="auto">AAIP4----1A----</AM>
 <AM lemma="postižený_^(*4hnout)" src="auto">AAIP5----1A----</AM>
-<AM lemma="postižený_^(*4hnout)" src="auto" recommended="1">AAMP4----1A----</AM>
+<AM lemma="postižený" src="auto" recommended="1">AAMP4----1A----</AM>
 <AM lemma="postižený_^(*4hnout)" src="auto">AANP1----1A---6</AM>
 <AM lemma="postižený_^(*4hnout)" src="auto">AANP4----1A---6</AM>
 <AM lemma="postižený_^(*4hnout)" src="auto">AANP5----1A---6</AM>
@@ -1912,7 +1912,7 @@
 <tag>
 <AM lemma="lid_^(naší_země)" src="auto">NNIS7-----A----</AM>
 <AM lemma="lido" src="auto">NNNS7-----A----</AM>
-<AM lemma="člověk" src="auto" recommended="1">NNMP3-----A----</AM>
+<AM lemma="lidé" src="auto" recommended="1">NNMP3-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0291-001-p1s3W44-Ta">
@@ -1926,7 +1926,7 @@
 <AM lemma="postižený_^(*4hnout)" src="auto">AAIP3----1A----</AM>
 <AM lemma="postižený_^(*4hnout)" src="auto">AAIS6----1A---7</AM>
 <AM lemma="postižený_^(*4hnout)" src="auto">AAIS7----1A----</AM>
-<AM lemma="postižený_^(*4hnout)" src="auto" selected="1">AAMP3----1A----</AM>
+<AM lemma="postižený" src="auto" selected="1">AAMP3----1A----</AM>
 <AM lemma="postižený_^(*4hnout)" src="auto">AAMS6----1A---7</AM>
 <AM lemma="postižený_^(*4hnout)" src="auto">AAMS7----1A----</AM>
 <AM lemma="postižený_^(*4hnout)" src="auto">AANP3----1A----</AM>

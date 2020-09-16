@@ -205,7 +205,7 @@
 <LM>w#w-ln95044-051-p2s1w17</LM>
 </w.rf>
 <form>druhý</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS1----------</tag>
 </m>
 <m id="m-ln95044-051-p2s1w18">
 <src.rf>manual</src.rf>
@@ -229,7 +229,7 @@
 <LM>w#w-ln95044-051-p2s1w20</LM>
 </w.rf>
 <form>Dny</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-ln95044-051-p2s1w21">
 <src.rf>manual</src.rf>
@@ -636,7 +636,7 @@
 <LM>w#w-ln95044-051-p3s1w19</LM>
 </w.rf>
 <form>Bílého</form>
-<tag lemma="bílý" src="orig" selected="1">AAIS2----1A----</tag>
+<tag lemma="bílý_;o" src="orig" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-ln95044-051-p3s1w20">
 <src.rf>manual</src.rf>
@@ -1066,7 +1066,7 @@
 <LM>w#w-ln95044-051-p3s3w1</LM>
 </w.rf>
 <form>Naši</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS4-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS4-P1-------</tag>
 </m>
 <m id="m-ln95044-051-p3s3w2">
 <src.rf>manual</src.rf>

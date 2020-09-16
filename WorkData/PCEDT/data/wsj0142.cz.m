@@ -763,7 +763,7 @@
 </w.rf>
 <form>Pozornost</form>
 <tag>
-<AM lemma="pozornost-1_^(všímavý,_milý,_soustředěný)_(*5ý-1)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="pozornost-1_^(*5ý-1)" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="pozornost-1_^(všímavý,_milý,_soustředěný)_(*5ý-1)" src="auto">NNFS4-----A----</AM>
 <AM lemma="pozornost-2_^(dárek,_úplatek)" src="auto">NNFS1-----A----</AM>
 <AM lemma="pozornost-2_^(dárek,_úplatek)" src="auto">NNFS4-----A----</AM>
@@ -3283,7 +3283,7 @@
 <form>pozornost</form>
 <tag>
 <AM lemma="pozornost-1_^(všímavý,_milý,_soustředěný)_(*5ý-1)" src="auto">NNFS1-----A----</AM>
-<AM lemma="pozornost-1_^(všímavý,_milý,_soustředěný)_(*5ý-1)" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="pozornost-1_^(*5ý-1)" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="pozornost-2_^(dárek,_úplatek)" src="auto">NNFS1-----A----</AM>
 <AM lemma="pozornost-2_^(dárek,_úplatek)" src="auto">NNFS4-----A----</AM>
 </tag>
@@ -3748,7 +3748,7 @@
 </w.rf>
 <form>indikátory</form>
 <tag>
-<AM lemma="indikátor" src="auto" recommended="1">NNIP1-----A----</AM>
+<AM lemma="indikátor-1" src="auto" recommended="1">NNIP1-----A----</AM>
 <AM lemma="indikátor" src="auto">NNIP4-----A----</AM>
 <AM lemma="indikátor" src="auto">NNIP5-----A----</AM>
 <AM lemma="indikátor" src="auto">NNIP7-----A----</AM>
@@ -3771,7 +3771,7 @@
 </w.rf>
 <form>váš</form>
 <tag>
-<AM lemma="tvůj_^(přivlast.)" src="auto" selected="1">PSIS4-P2-------</AM>
+<AM lemma="váš" src="auto" selected="1">PSIS4-P2-------</AM>
 <AM lemma="tvůj_^(přivlast.)" src="auto" recommended="1">PSYS1-P2-------</AM>
 <AM lemma="tvůj_^(přivlast.)" src="auto">PSYS5-P2-------</AM>
 </tag>
@@ -4263,7 +4263,7 @@
 </w.rf>
 <form>indikátory</form>
 <tag>
-<AM lemma="indikátor" src="auto" recommended="1">NNIP1-----A----</AM>
+<AM lemma="indikátor-1" src="auto" recommended="1">NNIP1-----A----</AM>
 <AM lemma="indikátor" src="auto">NNIP4-----A----</AM>
 <AM lemma="indikátor" src="auto">NNIP5-----A----</AM>
 <AM lemma="indikátor" src="auto">NNIP7-----A----</AM>
@@ -4823,7 +4823,7 @@
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AAMS6----1A----</AM>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AAMS7----1A----</AM>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AANP3----1A----</AM>
-<AM lemma="měsíční_^(lhůta;svit)" src="auto" recommended="1">AANS6----1A----</AM>
+<AM lemma="měsíční" src="auto" recommended="1">AANS6----1A----</AM>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AANS7----1A----</AM>
 </tag>
 </m>
@@ -5066,7 +5066,7 @@
 <AM lemma="Fed_;Y" src="auto" recommended="1">NNMS3-----A---1</AM>
 <AM lemma="Fed_;Y" src="auto">NNMS6-----A---1</AM>
 <AM lemma="Feda_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Fed-2_;m" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Fed-1_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0142-001-p1s13W17-Ta">
@@ -13026,7 +13026,7 @@
 </w.rf>
 <form>datu</form>
 <tag>
-<AM lemma="datum_^(kalendářní)" src="auto" recommended="1">NNNS3-----A----</AM>
+<AM lemma="datum-1_^(kalendářní)" src="auto" recommended="1">NNNS3-----A----</AM>
 <AM lemma="datum_^(kalendářní)" src="auto">NNNS6-----A----</AM>
 </tag>
 </m>
@@ -16522,7 +16522,7 @@
 </w.rf>
 <form>faktorů</form>
 <tag>
-<AM lemma="faktor" src="auto" recommended="1">NNIP2-----A----</AM>
+<AM lemma="faktor-1" src="auto" recommended="1">NNIP2-----A----</AM>
 <AM lemma="faktor" src="auto">NNMP2-----A----</AM>
 </tag>
 </m>

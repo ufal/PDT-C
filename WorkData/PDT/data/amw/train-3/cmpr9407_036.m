@@ -63,7 +63,7 @@
 <LM>w#w-cmpr9407-036-p4s1w2</LM>
 </w.rf>
 <form>Winston</form>
-<tag lemma="Winston_;m" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Winston-2_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-036-p4s1w3">
 <src.rf>manual</src.rf>
@@ -576,7 +576,7 @@
 <LM>w#w-cmpr9407-036-p5s1w3</LM>
 </w.rf>
 <form>Winston</form>
-<tag lemma="Winston_;m" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Winston-2_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-036-p5s1w4">
 <src.rf>manual</src.rf>
@@ -1307,7 +1307,7 @@
 <form>konkurzních</form>
 <tag>
 <AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AANP6----1A----</AM>
-<AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)_,s_^(^DD**konkurzní)" src="manual" selected="1">AANP6----1A----</AM>
+<AM lemma="konkurzní" src="manual" selected="1">AANP6----1A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-036-p13s2w8">

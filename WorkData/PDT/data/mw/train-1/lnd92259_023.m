@@ -573,7 +573,7 @@
 <LM>w#w-lnd92259-023-p2s4w6</LM>
 </w.rf>
 <form>iniciátory</form>
-<tag lemma="iniciátor" src="auto" selected="1">NNMP7-----A----</tag>
+<tag lemma="iniciátor-1" src="auto" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-lnd92259-023-p2s4w7">
 <src.rf>manual</src.rf>
@@ -704,7 +704,7 @@
 <LM>w#w-lnd92259-023-p2s4w22</LM>
 </w.rf>
 <form>vydání</form>
-<tag lemma="vydání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="vydání_^(*3at)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-lnd92259-023-p2s4w23">
 <src.rf>manual</src.rf>
@@ -792,7 +792,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1272,7 +1272,7 @@
 <LM>w#w-lnd92259-023-p2s6w19</LM>
 </w.rf>
 <form>ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-lnd92259-023-p2s6w20">
 <src.rf>manual</src.rf>

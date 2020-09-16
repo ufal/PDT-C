@@ -183,7 +183,7 @@
 <LM>w#w-lnd94103-126-p1s4Aw1</LM>
 </w.rf>
 <form>Naše</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSHS1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSHS1-P1-------</tag>
 </m>
 <m id="m-lnd94103-126-p1s4Aw2">
 <src.rf>manual</src.rf>
@@ -361,7 +361,7 @@
 <LM>w#w-lnd94103-126-p1s4Bw11</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-lnd94103-126-p1s4Bw12">
 <src.rf>manual</src.rf>
@@ -467,7 +467,7 @@
 <form>Nicklase</form>
 <tag>
 <AM lemma="Nicklas_;Y" src="orig">NNMS2-----A----</AM>
-<AM lemma="Nicklas_;Y_Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Nicklas_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-126-p1s4Bw25">
@@ -608,7 +608,7 @@
 <form>defenzívě</form>
 <tag>
 <AM lemma="defenzíva" src="orig">NNFS6-----A----</AM>
-<AM lemma="defenzíva_,s_^(^DD**defenziva)" src="manual" selected="1">NNFS6-----A----</AM>
+<AM lemma="defenzíva" src="manual" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-126-p1s5w8">

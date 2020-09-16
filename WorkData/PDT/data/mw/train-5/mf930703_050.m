@@ -51,7 +51,7 @@
 <LM>w#w-mf930703-050-p1s1w5</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-mf930703-050-p1s1w6">
 <src.rf>manual</src.rf>
@@ -512,7 +512,7 @@
 <LM>w#w-mf930703-050-p3s1w5</LM>
 </w.rf>
 <form>zastavení</form>
-<tag lemma="zastavení-1_^([také_z._se];_uvést_do_klidu:_auto,...)_(*5it-1)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="zastavení_^(*3it)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf930703-050-p3s1w6">
 <src.rf>manual</src.rf>

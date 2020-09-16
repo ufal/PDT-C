@@ -1405,7 +1405,7 @@
 <LM>w#w-mf930708-003-p5s1w13</LM>
 </w.rf>
 <form>náš</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSYS1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSYS1-P1-------</tag>
 </m>
 <m id="m-mf930708-003-p5s1w14">
 <src.rf>manual</src.rf>

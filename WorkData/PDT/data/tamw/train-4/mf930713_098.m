@@ -279,7 +279,7 @@
 <LM>w#w-mf930713-098-p3s1Bw10</LM>
 </w.rf>
 <form>jejího</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS2FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS2FS3-------</tag>
 </m>
 <m id="m-mf930713-098-p3s1Bw11">
 <src.rf>manual</src.rf>
@@ -487,7 +487,7 @@
 <LM>w#w-mf930713-098-p3s2w10</LM>
 </w.rf>
 <form>dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930713-098-p3s2w11">
 <src.rf>manual</src.rf>
@@ -527,7 +527,7 @@
 <LM>w#w-mf930713-098-p3s2w15</LM>
 </w.rf>
 <form>najatý</form>
-<tag lemma="najatý_^(*3mout)" src="orig" selected="1">AAMS1----1A----</tag>
+<tag lemma="najatý" src="orig" selected="1">AAMS1----1A----</tag>
 </m>
 <m id="m-mf930713-098-p3s2w16">
 <src.rf>manual</src.rf>
@@ -596,7 +596,7 @@
 <LM>w#w-mf930713-098-p3s3w4</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-mf930713-098-p3s3w5">
 <src.rf>manual</src.rf>
@@ -1073,7 +1073,7 @@
 <form>tisíc</form>
 <tag>
 <AM lemma="tisíc-2`1000" src="orig">NNIS4-----A----</AM>
-<AM lemma="tisíc-1`1000" src="manual" selected="1">CzIXX----------</AM>
+<AM lemma="tisíc`1000" src="manual" selected="1">CzIXX----------</AM>
 </tag>
 </m>
 <m id="m-mf930713-098-p4s1Bw9">
@@ -1172,7 +1172,7 @@
 <LM>w#w-mf930713-098-p4s2w10</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP2-P1-------</tag>
 </m>
 <m id="m-mf930713-098-p4s2w11">
 <src.rf>manual</src.rf>
@@ -1433,7 +1433,7 @@
 <LM>w#w-mf930713-098-p5s1w10</LM>
 </w.rf>
 <form>zatčené</form>
-<tag lemma="zatčený_^(*4knout)" src="orig" selected="1">AAFP1----1A----</tag>
+<tag lemma="zatčený" src="orig" selected="1">AAFP1----1A----</tag>
 </m>
 <m id="m-mf930713-098-p5s1w11">
 <src.rf>manual</src.rf>
@@ -1629,7 +1629,7 @@
 <LM>w#w-mf930713-098-p5s3w3</LM>
 </w.rf>
 <form>zatčených</form>
-<tag lemma="zatčený_^(*4knout)" src="orig" selected="1">AAMP2----1A----</tag>
+<tag lemma="zatčený" src="orig" selected="1">AAMP2----1A----</tag>
 </m>
 <m id="m-mf930713-098-p5s3w4">
 <src.rf>manual</src.rf>

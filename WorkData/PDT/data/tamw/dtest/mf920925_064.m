@@ -53,7 +53,7 @@
 <LM>w#w-mf920925-064-p2s1w2</LM>
 </w.rf>
 <form>přijetí</form>
-<tag lemma="přijetí_^(*3mout)" src="auto" selected="1">NNNS4-----A----</tag>
+<tag lemma="přijetí_^(*1)_(*3mout)" src="auto" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-mf920925-064-p2s1w3">
 <src.rf>manual</src.rf>
@@ -253,7 +253,7 @@
 <LM>w#w-mf920925-064-p2s2w5</LM>
 </w.rf>
 <form>členů</form>
-<tag lemma="člen" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf920925-064-p2s2w6">
 <src.rf>manual</src.rf>
@@ -293,7 +293,7 @@
 <LM>w#w-mf920925-064-p2s2w10</LM>
 </w.rf>
 <form>svoji</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4----------</tag>
 </m>
 <m id="m-mf920925-064-p2s2w11">
 <src.rf>manual</src.rf>
@@ -601,7 +601,7 @@
 <LM>w#w-mf920925-064-p2s6w4</LM>
 </w.rf>
 <form>manažer</form>
-<tag lemma="manažer" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="manažer-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-064-p2s6w5">
 <src.rf>manual</src.rf>
@@ -766,7 +766,7 @@
 <LM>w#w-mf920925-064-p2s7w4</LM>
 </w.rf>
 <form>sny</form>
-<tag lemma="sen" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="sen-1" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-mf920925-064-p2s7w5">
 <src.rf>manual</src.rf>

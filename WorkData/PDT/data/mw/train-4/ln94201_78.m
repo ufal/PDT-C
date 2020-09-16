@@ -837,7 +837,7 @@
 <LM>w#w-ln94201-78-p5s1w11</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1ZS1FS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1ZS1FS3-------</tag>
 </m>
 <m id="m-ln94201-78-p5s1w12">
 <src.rf>manual</src.rf>
@@ -957,7 +957,7 @@
 <LM>w#w-ln94201-78-p5s1w26</LM>
 </w.rf>
 <form>epitestosteronu</form>
-<tag lemma="epitestosteron_;U" src="auto" selected="1">NNIS2-----A----</tag>
+<tag lemma="epitestosteron" src="auto" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94201-78-p5s1w27">
 <src.rf>manual</src.rf>

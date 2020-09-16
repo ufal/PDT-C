@@ -1117,7 +1117,7 @@
 <LM>w#w-mf930709-112-p5s1w14</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-mf930709-112-p5s1w15">
 <src.rf>manual</src.rf>
@@ -1199,7 +1199,7 @@
 <LM>w#w-mf930709-112-p5s2w1</LM>
 </w.rf>
 <form>Svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-mf930709-112-p5s2w2">
 <src.rf>manual</src.rf>

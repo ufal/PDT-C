@@ -19,7 +19,7 @@
 <LM>w#w-ln95048-045-p2s2w1</LM>
 </w.rf>
 <form>Jařabův</form>
-<tag lemma="Jařabův_;Y_^(*2a)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Jařabův_;Y_^(*2)_(*2a)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-ln95048-045-p2s2w2">
 <src.rf>manual</src.rf>
@@ -67,7 +67,7 @@
 <LM>w#w-ln95048-045-p2s2w7</LM>
 </w.rf>
 <form>druhou</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS4----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS4----------</tag>
 </m>
 <m id="m-ln95048-045-p2s2w8">
 <src.rf>manual</src.rf>
@@ -375,7 +375,7 @@
 <tag>
 <AM lemma="Odeon_;Y" src="auto">NNIS1-----A----</AM>
 <AM lemma="Odeon_;m" src="manual">NNIS1-----A----</AM>
-<AM lemma="Odeon-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Odeon_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-045-p2s2w45a">
@@ -575,7 +575,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>naší</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS2-P1-------</tag>
 </m>
 <m id="m-ln95048-045-p2s4w11">
 <src.rf>manual</src.rf>
@@ -649,7 +649,7 @@
 <LM>w#w-ln95048-045-p2s5w5</LM>
 </w.rf>
 <form>ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln95048-045-p2s5w6">
 <src.rf>manual</src.rf>
@@ -972,7 +972,7 @@
 <form>stojí</form>
 <tag>
 <AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig">VB-S---3P-AA---</AM>
-<AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="manual" selected="1">VB-S---3P-AAI--</AM>
+<AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m-ln95048-045-p2s7w7">
@@ -1475,7 +1475,7 @@
 <LM>w#w-ln95048-045-p2s8w11</LM>
 </w.rf>
 <form>radu</form>
-<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95048-045-p2s8w12">
 <src.rf>manual</src.rf>

@@ -232,7 +232,7 @@
 <AM lemma="i-4_^(graf._oddělovač)" src="auto">Z:-------------</AM>
 <AM lemma="i-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="i_;Y" src="manual">NNFXX-----A----</AM>
-<AM lemma="i-3" src="manual" selected="1">SNXXX-----A----</AM>
+<AM lemma="i-4" src="manual" selected="1">SNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-81-p2s1Bw21">
@@ -456,7 +456,7 @@
 <LM>w#w-ln94209-81-p2s3w3</LM>
 </w.rf>
 <form>Černá</form>
-<tag lemma="Černá_;Y_^(*1ý)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Černá_;G_;Y_^(*1ý)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94209-81-p2s3w4">
 <src.rf>manual</src.rf>
@@ -630,7 +630,7 @@
 <LM>w#w-ln94209-81-p2s3w24</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS7----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS7----------</tag>
 </m>
 <m id="m-ln94209-81-p2s3w25">
 <src.rf>manual</src.rf>
@@ -704,7 +704,7 @@
 <LM>w#w-ln94209-81-p2s4w6</LM>
 </w.rf>
 <form>motýlek</form>
-<tag lemma="motýlek" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="motýlek-2" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln94209-81-p2s4w7">
 <src.rf>manual</src.rf>
@@ -908,7 +908,7 @@
 <LM>w#w-ln94209-81-p2s5w4</LM>
 </w.rf>
 <form>Kuo</form>
-<tag lemma="Kuo_;Y" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="Kuo-2_;Y" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94209-81-p2s5w5">
 <src.rf>manual</src.rf>

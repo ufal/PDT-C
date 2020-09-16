@@ -966,7 +966,7 @@
 </w.rf>
 <form>Woodbridge</form>
 <tag>
-<AM lemma="Woodbridge-2_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Woodbridge-1_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Woodbridge_;G" src="auto">NNFP1-----A----</AM>
 <AM lemma="Woodbridge_;G" src="auto">NNFP4-----A----</AM>
 <AM lemma="Woodbridge_;G" src="auto">NNFP5-----A----</AM>
@@ -1269,7 +1269,7 @@
 <LM>w#w-lnd92253-083-p7s2w68</LM>
 </w.rf>
 <form>Mansdorf</form>
-<tag lemma="Mansdorf_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mansdorf-2_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92253-083-p7s2w69">
 <src.rf>manual</src.rf>
@@ -2147,7 +2147,7 @@
 <LM>w#w-lnd92253-083-p9s5w1</LM>
 </w.rf>
 <form>Novotná</form>
-<tag lemma="Novotná_;Y_^(*1ý)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Novotná_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92253-083-p9s5w2">
 <src.rf>manual</src.rf>
@@ -2452,7 +2452,7 @@
 <LM>w#w-lnd92253-083-p9s11w1</LM>
 </w.rf>
 <form>Novotná</form>
-<tag lemma="Novotná_;Y_^(*1ý)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Novotná_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92253-083-p9s11w2">
 <src.rf>manual</src.rf>

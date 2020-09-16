@@ -27,7 +27,7 @@
 <LM>w#w-ln94200-80-p1s1Aw2</LM>
 </w.rf>
 <form>Rady</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94200-80-p1s1Aw3">
 <src.rf>manual</src.rf>

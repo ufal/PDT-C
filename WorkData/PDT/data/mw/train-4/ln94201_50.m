@@ -751,7 +751,7 @@
 <form>Carmen</form>
 <tag>
 <AM lemma="Carmen_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Carmen_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Carmen_;Y_;m" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-50-p2s5w15">

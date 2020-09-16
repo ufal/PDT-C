@@ -1703,7 +1703,7 @@
 </w.rf>
 <form>stanoveného</form>
 <tag>
-<AM lemma="stanovený_^(určit)_(*3it)" src="auto" recommended="1">AAIS2----1A----</AM>
+<AM lemma="stanovený_^(*3it)" src="auto" recommended="1">AAIS2----1A----</AM>
 <AM lemma="stanovený_^(určit)_(*3it)" src="auto">AAMS2----1A----</AM>
 <AM lemma="stanovený_^(určit)_(*3it)" src="auto">AAMS4----1A----</AM>
 <AM lemma="stanovený_^(určit)_(*3it)" src="auto">AANS2----1A----</AM>
@@ -4626,7 +4626,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="třeba-3" src="auto" selected="1">TT-------------</AM>
+<AM lemma="třeba-2_^(například)" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0072-001-p1s12W26-Ta">
@@ -5914,7 +5914,7 @@
 <form>nás</form>
 <tag>
 <AM lemma="já" src="auto">PP-P2--1-------</AM>
-<AM lemma="já" src="auto" recommended="1">PP-P4--1-------</AM>
+<AM lemma="my" src="auto" recommended="1">PP-P4--1-------</AM>
 <AM lemma="já" src="auto">PP-P6--1-------</AM>
 </tag>
 </m>
@@ -6014,7 +6014,7 @@
 <form>tu</form>
 <tag>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" recommended="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0072-001-p1s18W5-Ta">

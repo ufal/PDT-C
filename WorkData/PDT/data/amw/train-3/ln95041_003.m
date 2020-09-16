@@ -235,7 +235,7 @@
 <LM>w#w-ln95041-003-p2s2w1</LM>
 </w.rf>
 <form>Naše</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSHS1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSHS1-P1-------</tag>
 </m>
 <m id="m-ln95041-003-p2s2w2">
 <src.rf>manual</src.rf>
@@ -589,7 +589,7 @@
 <LM>w#w-ln95041-003-p3s2w2</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-ln95041-003-p3s2w3">
 <src.rf>manual</src.rf>
@@ -597,7 +597,7 @@
 <LM>w#w-ln95041-003-p3s2w3</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln95041-003-p3s2w4">
 <src.rf>manual</src.rf>
@@ -1391,7 +1391,7 @@
 <LM>w#w-ln95041-003-p4s3w15</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln95041-003-p4s3w16">
 <src.rf>manual</src.rf>

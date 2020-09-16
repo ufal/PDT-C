@@ -35,7 +35,7 @@
 <LM>w#w-ln95045-043-p1s1w3</LM>
 </w.rf>
 <form>Kobayashi</form>
-<tag lemma="Kobayashi_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kobayashi-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-043-p1s1w4">
 <src.rf>manual</src.rf>
@@ -203,7 +203,7 @@
 <LM>w#w-ln95045-043-p2s1w16</LM>
 </w.rf>
 <form>Kobayashi</form>
-<tag lemma="Kobayashi_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kobayashi-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-043-p2s1w17">
 <src.rf>manual</src.rf>
@@ -293,7 +293,7 @@
 <LM>w#w-ln95045-043-p2s2w10</LM>
 </w.rf>
 <form>Jeana</form>
-<tag lemma="Jean_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Jean-1_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95045-043-p2s2w11">
 <src.rf>manual</src.rf>
@@ -426,7 +426,7 @@
 <LM>w#w-ln95045-043-p3s1w1</LM>
 </w.rf>
 <form>Kobayashi</form>
-<tag lemma="Kobayashi_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kobayashi-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-043-p3s1w2">
 <src.rf>manual</src.rf>
@@ -490,7 +490,7 @@
 <LM>w#w-ln95045-043-p3s1w9</LM>
 </w.rf>
 <form>lety</form>
-<tag lemma="rok" src="orig" selected="1">NNNP7-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP7-----A----</tag>
 </m>
 <m id="m-ln95045-043-p3s1w10">
 <src.rf>manual</src.rf>
@@ -498,7 +498,7 @@
 <LM>w#w-ln95045-043-p3s1w10</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS4----------</tag>
 </m>
 <m id="m-ln95045-043-p3s1w11">
 <src.rf>manual</src.rf>
@@ -825,7 +825,7 @@
 <LM>w#w-ln95045-043-p3s2w22</LM>
 </w.rf>
 <form>Luzernu</form>
-<tag lemma="Lucern_;G" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Luzern_;G_,s_^(^DD**Lucern)" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln95045-043-p3s2w23">
 <src.rf>manual</src.rf>
@@ -867,7 +867,7 @@
 <LM>w#w-ln95045-043-p3s3w2</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS2---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS2---------1</tag>
 </m>
 <m id="m-ln95045-043-p3s3w3">
 <src.rf>manual</src.rf>
@@ -947,7 +947,7 @@
 <LM>w#w-ln95045-043-p3s3w12</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln95045-043-p3s3w13">
 <src.rf>manual</src.rf>
@@ -1064,7 +1064,7 @@
 <LM>w#w-ln95045-043-p4s1w1</LM>
 </w.rf>
 <form>Kobayashi</form>
-<tag lemma="Kobayashi_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kobayashi-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-043-p4s1w2">
 <src.rf>manual</src.rf>

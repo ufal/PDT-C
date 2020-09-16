@@ -494,7 +494,7 @@
 <LM>w#w-ln94206-4-p3s1w11</LM>
 </w.rf>
 <form>potřebě</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-ln94206-4-p3s1w12">
 <src.rf>manual</src.rf>
@@ -730,7 +730,7 @@
 <LM>w#w-ln94206-4-p3s3w4</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94206-4-p3s3w5">
 <src.rf>manual</src.rf>

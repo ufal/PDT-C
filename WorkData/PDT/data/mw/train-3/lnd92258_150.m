@@ -402,7 +402,7 @@
 <LM>w#w-lnd92258-150-p2s3w22</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92258-150-p2s3w23">
 <src.rf>manual</src.rf>
@@ -434,7 +434,7 @@
 <LM>w#w-lnd92258-150-p2s3w26</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-lnd92258-150-p2s3w27">
 <src.rf>manual</src.rf>

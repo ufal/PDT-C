@@ -183,7 +183,7 @@
 <LM>w#w-mf930708-047-p2s2w3</LM>
 </w.rf>
 <form>iniciátorů</form>
-<tag lemma="iniciátor" src="auto" selected="1">NNMP2-----A----</tag>
+<tag lemma="iniciátor-1" src="auto" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf930708-047-p2s2w4">
 <src.rf>manual</src.rf>
@@ -693,7 +693,7 @@
 <LM>w#w-mf930708-047-p3s3w7</LM>
 </w.rf>
 <form>hodiny</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930708-047-p3s3w8">
 <src.rf>manual</src.rf>
@@ -780,7 +780,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf930708-047-p5s1w4">
@@ -949,7 +949,7 @@
 <LM>w#w-mf930708-047-p5s2w3</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-mf930708-047-p5s2w4">
 <src.rf>manual</src.rf>
@@ -965,7 +965,7 @@
 <LM>w#w-mf930708-047-p5s2w5</LM>
 </w.rf>
 <form>Vítkovo</form>
-<tag lemma="Vítkův_;Y_^(*3ek)" src="auto" selected="1">AUNS1M---------</tag>
+<tag lemma="Vítkův_;Y_^(*2o)_(*3ek)" src="auto" selected="1">AUNS1M---------</tag>
 </m>
 <m id="m-mf930708-047-p5s2w6">
 <src.rf>manual</src.rf>
@@ -1361,7 +1361,7 @@
 <LM>w#w-mf930708-047-p7s1w8</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-mf930708-047-p7s1w9">
 <src.rf>manual</src.rf>
@@ -1777,7 +1777,7 @@
 <LM>w#w-mf930708-047-p9s2w11</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf930708-047-p9s2w12">
 <src.rf>manual</src.rf>

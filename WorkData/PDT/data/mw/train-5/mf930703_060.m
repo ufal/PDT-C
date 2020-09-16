@@ -442,7 +442,7 @@
 <LM>w#w-mf930703-060-p2s2w15</LM>
 </w.rf>
 <form>prestiž</form>
-<tag lemma="prestiž" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="prestiž-1" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf930703-060-p2s2w16">
 <src.rf>manual</src.rf>
@@ -808,7 +808,7 @@
 <LM>w#w-mf930703-060-p2s6w6</LM>
 </w.rf>
 <form>sympozium</form>
-<tag lemma="sympózium" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="sympozium" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf930703-060-p2s6w7">
 <src.rf>manual</src.rf>

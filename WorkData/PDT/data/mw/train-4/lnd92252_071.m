@@ -63,7 +63,7 @@
 <AM lemma="Nachičevaň_;G" src="orig">NNFS6-----A----</AM>
 <AM lemma="Nachičevan_;E" src="auto" recommended="1">NNMP1-----A---1</AM>
 <AM lemma="Nachičevan_;E" src="auto">NNMP5-----A---1</AM>
-<AM lemma="Nachičevaň_;G_,s_^(^DD**Nachičevan)" src="manual" selected="1">NNFS6-----A----</AM>
+<AM lemma="Nachičevaň_;G" src="manual" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 </s>
@@ -150,7 +150,7 @@
 <LM>w#w-lnd92252-071-p3s2w6</LM>
 </w.rf>
 <form>správním</form>
-<tag lemma="správní_^(např._poplatek;_rada;_řád;...)" src="orig" selected="1">AANS6----1A----</tag>
+<tag lemma="správní_^(správní_rada;_řád)" src="orig" selected="1">AANS6----1A----</tag>
 </m>
 <m id="m-lnd92252-071-p3s2w7">
 <src.rf>manual</src.rf>
@@ -203,7 +203,7 @@
 <AM lemma="Nachičevaň_;G" src="orig">NNFS6-----A----</AM>
 <AM lemma="Nachičevan_;E" src="auto" recommended="1">NNMP1-----A---1</AM>
 <AM lemma="Nachičevan_;E" src="auto">NNMP5-----A---1</AM>
-<AM lemma="Nachičevaň_;G_,s_^(^DD**Nachičevan)" src="manual" selected="1">NNFS6-----A----</AM>
+<AM lemma="Nachičevaň_;G" src="manual" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-071-p3s2w13">
@@ -645,7 +645,7 @@
 <LM>w#w-lnd92252-071-p4s3w18</LM>
 </w.rf>
 <form>člena</form>
-<tag lemma="člen" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92252-071-p4s3w19">
 <src.rf>manual</src.rf>
@@ -757,7 +757,7 @@
 <LM>w#w-lnd92252-071-p5s1w5</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS7----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS7----------</tag>
 </m>
 <m id="m-lnd92252-071-p5s1w6">
 <src.rf>manual</src.rf>
@@ -945,7 +945,7 @@
 <AM lemma="Nachičevaň_;G" src="orig">NNFS6-----A----</AM>
 <AM lemma="Nachičevan_;E" src="auto">NNMP1-----A---1</AM>
 <AM lemma="Nachičevan_;E" src="auto" recommended="1">NNMP5-----A---1</AM>
-<AM lemma="Nachičevaň_;G_,s_^(^DD**Nachičevan)" src="manual" selected="1">NNFS6-----A----</AM>
+<AM lemma="Nachičevaň_;G" src="manual" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-071-p5s1w29">

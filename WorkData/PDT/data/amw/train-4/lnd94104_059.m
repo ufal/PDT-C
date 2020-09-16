@@ -1023,7 +1023,7 @@
 <LM>w#w-lnd94104-059-p1s7w2</LM>
 </w.rf>
 <form>výbor</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94104-059-p1s7w3">
 <src.rf>manual</src.rf>
@@ -1697,7 +1697,7 @@
 <LM>w#w-lnd94104-059-p1s10w18</LM>
 </w.rf>
 <form>masové</form>
-<tag lemma="masový-1_^(k_jídlu)" src="orig" selected="1">AANS4----1A----</tag>
+<tag lemma="masový" src="orig" selected="1">AANS4----1A----</tag>
 </m>
 <m id="m-lnd94104-059-p1s10w19">
 <src.rf>manual</src.rf>

@@ -481,7 +481,7 @@
 <LM>w#w-mf930709-044-p4s2w3</LM>
 </w.rf>
 <form>nejlepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAMP4----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAMP4----3A----</tag>
 </m>
 <m id="m-mf930709-044-p4s2w4">
 <src.rf>manual</src.rf>
@@ -622,7 +622,7 @@
 <LM>w#w-mf930709-044-p4s2w19</LM>
 </w.rf>
 <form>prodlení</form>
-<tag lemma="prodlení_^(nebezpečí_z...;_zpoždění)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="prodlení_^(*3ít)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-mf930709-044-p4s2w20">
 <src.rf>manual</src.rf>

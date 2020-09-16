@@ -695,7 +695,7 @@
 <LM>w#w-lnd92256-110-p3s7w6</LM>
 </w.rf>
 <form>Černou</form>
-<tag lemma="černý" src="auto" selected="1">AAFS4----1A----</tag>
+<tag lemma="černý_;o" src="auto" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-lnd92256-110-p3s7w7">
 <src.rf>manual</src.rf>

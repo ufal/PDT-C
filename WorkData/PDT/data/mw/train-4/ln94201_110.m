@@ -214,7 +214,7 @@
 <LM>w#w-ln94201-110-p1s1w25</LM>
 </w.rf>
 <form>interpreta</form>
-<tag lemma="interpret" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="interpret-1" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94201-110-p1s1w26">
 <src.rf>manual</src.rf>
@@ -352,7 +352,7 @@
 <LM>w#w-ln94201-110-p1s2w16</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94201-110-p1s2w17">
 <src.rf>manual</src.rf>
@@ -429,7 +429,7 @@
 <LM>w#w-ln94201-110-p1s3w3</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-ln94201-110-p1s3w4">
 <src.rf>manual</src.rf>
@@ -691,7 +691,7 @@
 <LM>w#w-ln94201-110-p1s4w21</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94201-110-p1s4w22">
 <src.rf>manual</src.rf>
@@ -1095,7 +1095,7 @@
 <LM>w#w-ln94201-110-p1s7w12</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-ln94201-110-p1s7w13">
 <src.rf>manual</src.rf>
@@ -1145,7 +1145,7 @@
 <LM>w#w-ln94201-110-p1s8w1</LM>
 </w.rf>
 <form>Napjaté</form>
-<tag lemma="napjatý_^(*4nout)" src="orig" selected="1">AAIP1----1A----</tag>
+<tag lemma="napjatý" src="orig" selected="1">AAIP1----1A----</tag>
 </m>
 <m id="m-ln94201-110-p1s8w2">
 <src.rf>manual</src.rf>
@@ -1797,7 +1797,7 @@
 <LM>w#w-ln94201-110-p1s12w5</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrNS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS1----------</tag>
 </m>
 <m id="m-ln94201-110-p1s12w6">
 <src.rf>manual</src.rf>
@@ -1835,7 +1835,7 @@
 <tag>
 <AM lemma="tajný" src="orig">AAMS1----1A---6</AM>
 <AM lemma="tajnej_,h_^(^GC**tajný)" src="manual">AAMS1----1A----</AM>
-<AM lemma="tajný" src="manual" selected="1">AAMS1----1A---6</AM>
+<AM lemma="tajný-1" src="manual" selected="1">AAMS1----1A---6</AM>
 </tag>
 </m>
 <m id="m-ln94201-110-p1s12w10">

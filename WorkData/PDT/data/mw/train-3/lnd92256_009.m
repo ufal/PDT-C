@@ -360,7 +360,7 @@
 <LM>w#w-lnd92256-009-p1s2w9</LM>
 </w.rf>
 <form>zveřejnění</form>
-<tag lemma="zveřejnění_^(*3it)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="zveřejnění_^(*2t)_(*3it)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-lnd92256-009-p1s2w10">
 <src.rf>manual</src.rf>

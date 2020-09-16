@@ -230,7 +230,7 @@
 <LM>w#w-mf930708-062-p3s2w1</LM>
 </w.rf>
 <form>Jesus</form>
-<tag lemma="Jesus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jesus_;Y_,s_^(^DD**Jezus)" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-062-p3s2w2">
 <src.rf>manual</src.rf>
@@ -520,7 +520,7 @@
 <LM>w#w-mf930708-062-p7s2w1</LM>
 </w.rf>
 <form>David</form>
-<tag lemma="David_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="David-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-062-p7s2w2">
 <src.rf>manual</src.rf>
@@ -588,7 +588,7 @@
 <LM>w#w-mf930708-062-p8s2w1</LM>
 </w.rf>
 <form>David</form>
-<tag lemma="David_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="David-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-062-p8s2w2">
 <src.rf>manual</src.rf>

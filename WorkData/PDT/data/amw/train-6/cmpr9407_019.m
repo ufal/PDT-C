@@ -806,7 +806,7 @@
 <LM>w#w-cmpr9407-019-p2s3w2</LM>
 </w.rf>
 <form>proto</form>
-<tag lemma="proto-2_^(dal_mu_co_proto,_tak_proto!)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="proto-2_^(proto_že)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-cmpr9407-019-p2s3w3">
 <src.rf>manual</src.rf>

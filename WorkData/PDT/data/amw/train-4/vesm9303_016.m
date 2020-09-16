@@ -437,7 +437,7 @@
 <LM>w#w-vesm9303-016-p1s2w41</LM>
 </w.rf>
 <form>umění</form>
-<tag lemma="umění_^(mít_schopnost_něco_dělat)_(*2t)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="umění_^(*2t)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-vesm9303-016-p1s2w42">
 <src.rf>manual</src.rf>
@@ -771,7 +771,7 @@
 <LM>w#w-vesm9303-016-p2s1w9</LM>
 </w.rf>
 <form>myšlení</form>
-<tag lemma="myšlení_^(*5slet)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="myšlení_^(*5slit)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-vesm9303-016-p2s1w10">
 <src.rf>manual</src.rf>

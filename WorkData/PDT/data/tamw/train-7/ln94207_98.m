@@ -279,7 +279,7 @@
 <LM>w#w-ln94207-98-p2s2Bw12</LM>
 </w.rf>
 <form>kořenů</form>
-<tag lemma="kořen" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="kořen-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94207-98-p2s2Bw13">
 <src.rf>manual</src.rf>
@@ -317,7 +317,7 @@
 <LM>w#w-ln94207-98-p2s2Bw16</LM>
 </w.rf>
 <form>Platonova</form>
-<tag lemma="Platonův_;Y_^(*2)" src="orig" selected="1">AUNS2M---------</tag>
+<tag lemma="Platonův_;Y_^(^DD**Platónův)_(*2)" src="orig" selected="1">AUNS2M---------</tag>
 </m>
 <m id="m-ln94207-98-p2s2Bw17">
 <src.rf>manual</src.rf>
@@ -325,7 +325,7 @@
 <LM>w#w-ln94207-98-p2s2Bw17</LM>
 </w.rf>
 <form>myšlení</form>
-<tag lemma="myšlení_^(*5slet)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="myšlení_^(*5slit)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln94207-98-p2s2Bw18">
 <src.rf>manual</src.rf>
@@ -497,7 +497,7 @@
 <LM>w#w-ln94207-98-p2s4w5</LM>
 </w.rf>
 <form>JEJÍ</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XP1FS3-------</tag>
 </m>
 <m id="m-ln94207-98-p2s4w6">
 <src.rf>manual</src.rf>
@@ -545,7 +545,7 @@
 <LM>w#w-ln94207-98-p2s4w11</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1IS4FS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1IS4FS3-------</tag>
 </m>
 <m id="m-ln94207-98-p2s4w12">
 <src.rf>manual</src.rf>
@@ -553,7 +553,7 @@
 <LM>w#w-ln94207-98-p2s4w12</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrIS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS4----------</tag>
 </m>
 <m id="m-ln94207-98-p2s4w13">
 <src.rf>manual</src.rf>
@@ -809,7 +809,7 @@
 <form>Platonova</form>
 <tag>
 <AM lemma="Platonův_;Y_^(*2)" src="orig">AUNS2M---------</AM>
-<AM lemma="Platonův_;Y_^(*2)" src="manual" selected="1">AUNS2M---------</AM>
+<AM lemma="Platonův_;Y_^(^DD**Platónův)_(*2)" src="manual" selected="1">AUNS2M---------</AM>
 </tag>
 </m>
 <m id="m-ln94207-98-p3s1w5">
@@ -818,7 +818,7 @@
 <LM>w#w-ln94207-98-p3s1w5</LM>
 </w.rf>
 <form>myšlení</form>
-<tag lemma="myšlení_^(*5slet)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="myšlení_^(*5slit)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln94207-98-p3s1w6">
 <src.rf>manual</src.rf>
@@ -922,7 +922,7 @@
 <LM>w#w-ln94207-98-p3s1w18</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94207-98-p3s1w19">
 <src.rf>manual</src.rf>
@@ -1694,7 +1694,7 @@
 <LM>w#w-ln94207-98-p3s5w26</LM>
 </w.rf>
 <form>správné</form>
-<tag lemma="správný_^(podle_něj._měřítek;_př._chlap,_míra,...)" src="orig" selected="1">AANS1----1A----</tag>
+<tag lemma="správný" src="orig" selected="1">AANS1----1A----</tag>
 </m>
 <m id="m-ln94207-98-p3s5w27">
 <src.rf>manual</src.rf>
@@ -2241,7 +2241,7 @@
 <LM>w#w-ln94207-98-p4s2Aw16</LM>
 </w.rf>
 <form>správné</form>
-<tag lemma="správný_^(podle_něj._měřítek;_př._chlap,_míra,...)" src="orig" selected="1">AAFS2----1A----</tag>
+<tag lemma="správný" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-ln94207-98-p4s2Aw17">
 <src.rf>manual</src.rf>
@@ -2249,7 +2249,7 @@
 <LM>w#w-ln94207-98-p4s2Aw17</LM>
 </w.rf>
 <form>cesty</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94207-98-p4s2Aw18">
 <src.rf>manual</src.rf>
@@ -2351,7 +2351,7 @@
 <LM>w#w-ln94207-98-p4s2Bw11</LM>
 </w.rf>
 <form>platonskou</form>
-<tag lemma="platonský" src="orig" selected="1">AAFS7----1A----</tag>
+<tag lemma="platonský_,s_^(^DD**platónský)" src="orig" selected="1">AAFS7----1A----</tag>
 </m>
 <m id="m-ln94207-98-p4s2Bw12">
 <src.rf>manual</src.rf>
@@ -2666,7 +2666,7 @@
 <LM>w#w-ln94207-98-p4s2Bw49</LM>
 </w.rf>
 <form>nejlepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAIP4----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAIP4----3A----</tag>
 </m>
 <m id="m-ln94207-98-p4s2Bw50">
 <src.rf>manual</src.rf>
@@ -2674,7 +2674,7 @@
 <LM>w#w-ln94207-98-p4s2Bw50</LM>
 </w.rf>
 <form>prostředky</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-ln94207-98-p4s2Bw51">
 <src.rf>manual</src.rf>
@@ -2801,7 +2801,7 @@
 <AM lemma="dobro-1_^(prospěch)" src="auto">NNNP1-----A----</AM>
 <AM lemma="dobro-1_^(prospěch)" src="auto">NNNP4-----A----</AM>
 <AM lemma="dobro-1_^(prospěch)" src="auto">NNNP5-----A----</AM>
-<AM lemma="dobro-1_^(prospěch)" src="auto" recommended="1" selected="1">NNNS2-----A----</AM>
+<AM lemma="dobro_^(prospěch;;hudební_nástroj)" src="auto" recommended="1" selected="1">NNNS2-----A----</AM>
 <AM lemma="dobro-2_^(hudební_nástroj)" src="auto">NNNP1-----A----</AM>
 <AM lemma="dobro-2_^(hudební_nástroj)" src="auto">NNNP4-----A----</AM>
 <AM lemma="dobro-2_^(hudební_nástroj)" src="auto">NNNP5-----A----</AM>
@@ -3369,7 +3369,7 @@
 <LM>w#w-ln94207-98-p4s7w17</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln94207-98-p4s7w18">
 <src.rf>manual</src.rf>
@@ -3868,7 +3868,7 @@
 <LM>w#w-ln94207-98-p5s2w10</LM>
 </w.rf>
 <form>model</form>
-<tag lemma="model" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="model-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94207-98-p5s2w11">
 <src.rf>manual</src.rf>
@@ -4397,7 +4397,7 @@
 <form>Platonova</form>
 <tag>
 <AM lemma="Platonův_;Y_^(*2)" src="orig">AUNS2M---------</AM>
-<AM lemma="Platonův_;Y_^(*2)" src="manual" selected="1">AUNS2M---------</AM>
+<AM lemma="Platonův_;Y_^(^DD**Platónův)_(*2)" src="manual" selected="1">AUNS2M---------</AM>
 </tag>
 </m>
 <m id="m-ln94207-98-p5s4w18">
@@ -4406,7 +4406,7 @@
 <LM>w#w-ln94207-98-p5s4w18</LM>
 </w.rf>
 <form>myšlení</form>
-<tag lemma="myšlení_^(*5slet)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="myšlení_^(*5slit)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln94207-98-p5s4w19">
 <src.rf>manual</src.rf>
@@ -4515,7 +4515,7 @@
 <LM>w#w-ln94207-98-p6s1Aw8</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XP1FS3-------</tag>
 </m>
 <m id="m-ln94207-98-p6s1Aw9">
 <src.rf>manual</src.rf>

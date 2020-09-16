@@ -426,7 +426,7 @@
 <LM>w#w-cmpr9407-031-p4s4w5</LM>
 </w.rf>
 <form>dlouhou</form>
-<tag lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">AAFS7----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFS7----1A----</tag>
 </m>
 <m id="m-cmpr9407-031-p4s4w6">
 <src.rf>manual</src.rf>
@@ -1398,7 +1398,7 @@
 <form>půli</form>
 <tag>
 <AM lemma="půle" src="orig">NNFS2-----A----</AM>
-<AM lemma="půl-2" src="auto" recommended="1" selected="1">NNFS2-----A---1</AM>
+<AM lemma="půle" src="auto" recommended="1" selected="1">NNFS2-----A---1</AM>
 <AM lemma="půl-2" src="auto">NNFS3-----A----</AM>
 <AM lemma="půl-2" src="auto">NNFS5-----A----</AM>
 <AM lemma="půl-2" src="auto">NNFS6-----A----</AM>
@@ -2172,7 +2172,7 @@
 <LM>w#w-cmpr9407-031-p14s4w1</LM>
 </w.rf>
 <form>Ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-cmpr9407-031-p14s4w2">
 <src.rf>manual</src.rf>
@@ -2268,7 +2268,7 @@
 <LM>w#w-cmpr9407-031-p14s4w13</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-cmpr9407-031-p14s4w14">
 <src.rf>manual</src.rf>
@@ -2464,7 +2464,7 @@
 <LM>w#w-cmpr9407-031-p14s6w5</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-cmpr9407-031-p14s6w6">
 <src.rf>manual</src.rf>
@@ -2544,7 +2544,7 @@
 <LM>w#w-cmpr9407-031-p14s6w15</LM>
 </w.rf>
 <form>potřeby</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-cmpr9407-031-p14s6w16">
 <src.rf>manual</src.rf>
@@ -2914,7 +2914,7 @@
 <LM>w#w-cmpr9407-031-p15s1w43</LM>
 </w.rf>
 <form>rozvody</form>
-<tag lemma="rozvod-2_^(vody,_plynu...)" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="rozvod_^(manželství;vody)" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-cmpr9407-031-p15s1w44">
 <src.rf>manual</src.rf>
@@ -3226,7 +3226,7 @@
 <LM>w#w-cmpr9407-031-p17s3w3</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-cmpr9407-031-p17s3w4">
 <src.rf>manual</src.rf>
@@ -3524,7 +3524,7 @@
 <LM>w#w-cmpr9407-031-p17s6w8</LM>
 </w.rf>
 <form>nedá</form>
-<tag lemma="dát" src="orig" selected="1">VB-S---3P-NAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VB-S---3P-NAP--</tag>
 </m>
 <m id="m-cmpr9407-031-p17s6w9">
 <src.rf>manual</src.rf>
@@ -3622,7 +3622,7 @@
 <LM>w#w-cmpr9407-031-p17s7w9</LM>
 </w.rf>
 <form>vypadat</form>
-<tag lemma="vypadat" src="orig" selected="1">Vf--------A-I--</tag>
+<tag lemma="vypadat-1_^(ty_vypadáš)" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-cmpr9407-031-p17s7w10">
 <src.rf>manual</src.rf>
@@ -4813,7 +4813,7 @@
 <LM>w#w-cmpr9407-031-p20s7w1</LM>
 </w.rf>
 <form>Dal</form>
-<tag lemma="dát" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-cmpr9407-031-p20s7w2">
 <src.rf>manual</src.rf>
@@ -4845,7 +4845,7 @@
 <LM>w#w-cmpr9407-031-p20s7w5</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS2---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS2---------1</tag>
 </m>
 <m id="m-cmpr9407-031-p20s7w6">
 <src.rf>manual</src.rf>
@@ -4861,7 +4861,7 @@
 <LM>w#w-cmpr9407-031-p20s7w7</LM>
 </w.rf>
 <form>politiky</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-cmpr9407-031-p20s7w8">
 <src.rf>manual</src.rf>
@@ -6819,7 +6819,7 @@
 <LM>w#w-cmpr9407-031-p27s2w14</LM>
 </w.rf>
 <form>nejlepšího</form>
-<tag lemma="dobrý" src="orig" selected="1">AANS2----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AANS2----3A----</tag>
 </m>
 <m id="m-cmpr9407-031-p27s2w15">
 <src.rf>manual</src.rf>

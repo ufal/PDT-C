@@ -88,7 +88,7 @@
 </w.rf>
 <form>Rochesteru</form>
 <tag>
-<AM lemma="Rochester_;G" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="Rochester-2_;G_;m" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="Rochester_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="Rochester_;G" src="auto">NNIS6-----A----</AM>
 <AM lemma="Rochester_;Y" src="auto">NNMS3-----A---1</AM>
@@ -597,7 +597,7 @@
 </w.rf>
 <form>druhá</form>
 <tag>
-<AM lemma="druhý" src="auto" recommended="1">CrFS1----------</AM>
+<AM lemma="druhý`2" src="auto" recommended="1">CrFS1----------</AM>
 <AM lemma="druhý" src="auto">CrFS5----------</AM>
 <AM lemma="druhý" src="auto">CrNP1----------</AM>
 <AM lemma="druhý" src="auto">CrNP4----------</AM>
@@ -771,7 +771,7 @@
 <AM lemma="mořený-2_^(materiál_v_lázni)_(*5it-2)" src="auto">AANP4----1A---6</AM>
 <AM lemma="mořený-2_^(materiál_v_lázni)_(*5it-2)" src="auto">AANP5----1A---6</AM>
 <AM lemma="mořený-2_^(materiál_v_lázni)_(*5it-2)" src="auto">AANS1----1A----</AM>
-<AM lemma="mořený-2_^(materiál_v_lázni)_(*5it-2)" src="auto" selected="1">AANS4----1A----</AM>
+<AM lemma="mořený_^(*3it)" src="auto" selected="1">AANS4----1A----</AM>
 <AM lemma="mořený-2_^(materiál_v_lázni)_(*5it-2)" src="auto">AANS5----1A----</AM>
 </tag>
 </m>

@@ -309,7 +309,7 @@
 <LM>w#w-vesm9212-040-p2s1w32</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-vesm9212-040-p2s1w33">
 <src.rf>manual</src.rf>
@@ -567,7 +567,7 @@
 <LM>w#w-vesm9212-040-p2s3w11</LM>
 </w.rf>
 <form>Ehrenberg</form>
-<tag lemma="Ehrenberg_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ehrenberg-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9212-040-p2s3w12">
 <src.rf>manual</src.rf>
@@ -846,7 +846,7 @@
 <LM>w#w-vesm9212-040-p2s5w12</LM>
 </w.rf>
 <form>události</form>
-<tag lemma="událost_,a_^(*3ý)" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="událost" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-vesm9212-040-p2s5w13">
 <src.rf>manual</src.rf>
@@ -1636,7 +1636,7 @@
 <LM>w#w-vesm9212-040-p3s3w8</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-vesm9212-040-p3s3w9">
 <src.rf>manual</src.rf>
@@ -1716,7 +1716,7 @@
 <LM>w#w-vesm9212-040-p3s3w18</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-vesm9212-040-p3s3w19">
 <src.rf>manual</src.rf>
@@ -1798,7 +1798,7 @@
 <LM>w#w-vesm9212-040-p3s4w6</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-vesm9212-040-p3s4w7">
 <src.rf>manual</src.rf>
@@ -1856,7 +1856,7 @@
 <LM>w#w-vesm9212-040-p4s1w3</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-vesm9212-040-p4s1w4">
 <src.rf>manual</src.rf>
@@ -1888,7 +1888,7 @@
 <LM>w#w-vesm9212-040-p4s1w7</LM>
 </w.rf>
 <form>proudění</form>
-<tag lemma="proudění-2_^(pohyb_kap.,_plynu)_(*5it-2)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="proudění-2_^(*5it-2)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-vesm9212-040-p4s1w8">
 <src.rf>manual</src.rf>
@@ -1968,7 +1968,7 @@
 <LM>w#w-vesm9212-040-p4s1w17</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrNS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS1----------</tag>
 </m>
 <m id="m-vesm9212-040-p4s1w18">
 <src.rf>manual</src.rf>
@@ -2043,7 +2043,7 @@
 <LM>w#w-vesm9212-040-p4s1w26</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS1----------</tag>
 </m>
 <m id="m-vesm9212-040-p4s1w27">
 <src.rf>manual</src.rf>

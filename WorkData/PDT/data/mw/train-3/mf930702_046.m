@@ -157,7 +157,7 @@
 <LM>w#w-mf930702-046-p2s1w16</LM>
 </w.rf>
 <form>Jean</form>
-<tag lemma="Jean_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jean-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-046-p2s1w17">
 <src.rf>manual</src.rf>
@@ -256,7 +256,7 @@
 <LM>w#w-mf930702-046-p2s1w28</LM>
 </w.rf>
 <form>ztřeštěné</form>
-<tag lemma="ztřeštěný_,e_^(*3it)" src="orig" selected="1">AAFS2----1A----</tag>
+<tag lemma="ztřeštěný_^(*3it)" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-mf930702-046-p2s1w29">
 <src.rf>manual</src.rf>
@@ -820,7 +820,7 @@
 <form>roli</form>
 <tag>
 <AM lemma="role-2_^(herecká_úloha;_poslání)" src="orig">NNFS6-----A----</AM>
-<AM lemma="role-1_^(svitek_poslání_pozemek)" src="manual" selected="1">NNFS6-----A----</AM>
+<AM lemma="role_^(svitek_poslání_pozemek)" src="manual" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-046-p4s1w23">
@@ -903,7 +903,7 @@
 <LM>w#w-mf930702-046-p4s2w9</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-mf930702-046-p4s2w10">
 <src.rf>manual</src.rf>
@@ -1029,7 +1029,7 @@
 <LM>w#w-mf930702-046-p4s2w24</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-mf930702-046-p4s2w25">
 <src.rf>manual</src.rf>

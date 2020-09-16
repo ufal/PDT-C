@@ -295,7 +295,7 @@
 <LM>w#w-lnd94103-136-p1s4w4</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-lnd94103-136-p1s4w5">
 <src.rf>manual</src.rf>
@@ -666,7 +666,7 @@
 <LM>w#w-lnd94103-136-p1s8w5</LM>
 </w.rf>
 <form>naši</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS4-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS4-P1-------</tag>
 </m>
 <m id="m-lnd94103-136-p1s8w6">
 <src.rf>manual</src.rf>
@@ -794,7 +794,7 @@
 <LM>w#w-lnd94103-136-p1s8w21</LM>
 </w.rf>
 <form>dál</form>
-<tag lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="dál-3_,s_^(také,_za_další)_(^DD**dále-3)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd94103-136-p1s8w22">
 <src.rf>manual</src.rf>
@@ -1391,7 +1391,7 @@
 <LM>w#w-lnd94103-136-p1s12w1</LM>
 </w.rf>
 <form>Žlutých</form>
-<tag lemma="žlutý" src="orig" selected="1">AAFP2----1A----</tag>
+<tag lemma="žlutý_;o" src="orig" selected="1">AAFP2----1A----</tag>
 </m>
 <m id="m-lnd94103-136-p1s12w2">
 <src.rf>manual</src.rf>
@@ -1466,7 +1466,7 @@
 <LM>w#w-lnd94103-136-p1s12w10</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-lnd94103-136-p1s12w11">
 <src.rf>manual</src.rf>

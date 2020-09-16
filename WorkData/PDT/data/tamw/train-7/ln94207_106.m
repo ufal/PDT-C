@@ -511,7 +511,7 @@
 <form>Bilbova</form>
 <tag>
 <AM lemma="Bilbův_;Y_^(*2o)" src="auto">AUIS2M---------</AM>
-<AM lemma="Bilbův_;Y_^(*2o)" src="manual" selected="1">AUIS2M---------</AM>
+<AM lemma="Bilbův-1_;Y_^(*4o-1)" src="manual" selected="1">AUIS2M---------</AM>
 </tag>
 </m>
 <m id="m-ln94207-106-p2s2w28">

@@ -64,7 +64,7 @@
 <LM>w#w-ln94206-125-p2s1Aw2</LM>
 </w.rf>
 <form>York</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="York-2_;G_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94206-125-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -956,7 +956,7 @@
 <LM>w#w-ln94206-125-p2s6w18</LM>
 </w.rf>
 <form>příjemné</form>
-<tag lemma="příjemný-1_^(všeob.,_poz._emoce)" src="orig" selected="1">AANS1----1A----</tag>
+<tag lemma="příjemný_^(všeob.,_poz._emoce)" src="orig" selected="1">AANS1----1A----</tag>
 </m>
 <m id="m-ln94206-125-p2s6w19">
 <src.rf>manual</src.rf>
@@ -991,7 +991,7 @@
 <LM>w#w-ln94206-125-p2s6w22</LM>
 </w.rf>
 <form>Yorku</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="York-2_;G_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln94206-125-p2s6w23">
 <src.rf>manual</src.rf>

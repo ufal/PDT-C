@@ -101,7 +101,7 @@
 <LM>w#w-vesm9301-045-p2s1w9</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS2---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS2---------1</tag>
 </m>
 <m id="m-vesm9301-045-p2s1w10">
 <src.rf>manual</src.rf>
@@ -347,7 +347,7 @@
 <LM>w#w-vesm9301-045-p2s4w7</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrIS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS6----------</tag>
 </m>
 <m id="m-vesm9301-045-p2s4w8">
 <src.rf>manual</src.rf>
@@ -397,7 +397,7 @@
 <LM>w#w-vesm9301-045-p2s5w1</LM>
 </w.rf>
 <form>Postižení</form>
-<tag lemma="postižení_^(*4hnout)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="postižení" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-vesm9301-045-p2s5w2">
 <src.rf>manual</src.rf>
@@ -632,7 +632,7 @@
 <LM>w#w-vesm9301-045-p2s6w15</LM>
 </w.rf>
 <form>lidi</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-vesm9301-045-p2s6w16">
 <src.rf>manual</src.rf>
@@ -925,7 +925,7 @@
 <LM>w#w-vesm9301-045-p3s1w33</LM>
 </w.rf>
 <form>serotoninu</form>
-<tag lemma="serotonin_;U" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="serotonin" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-vesm9301-045-p3s1w34">
 <src.rf>manual</src.rf>
@@ -1703,7 +1703,7 @@
 <LM>w#w-vesm9301-045-p4s6w1</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrFP1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFP1----------</tag>
 </m>
 <m id="m-vesm9301-045-p4s6w2">
 <src.rf>manual</src.rf>
@@ -1929,7 +1929,7 @@
 <LM>w#w-vesm9301-045-p4s7w1</LM>
 </w.rf>
 <form>Druhou</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS7----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS7----------</tag>
 </m>
 <m id="m-vesm9301-045-p4s7w2">
 <src.rf>manual</src.rf>
@@ -2137,7 +2137,7 @@
 <LM>w#w-vesm9301-045-p4s7w27</LM>
 </w.rf>
 <form>příjemné</form>
-<tag lemma="příjemný-1_^(všeob.,_poz._emoce)" src="orig" selected="1">AANS1----1A----</tag>
+<tag lemma="příjemný_^(všeob.,_poz._emoce)" src="orig" selected="1">AANS1----1A----</tag>
 </m>
 <m id="m-vesm9301-045-p4s7w28">
 <src.rf>manual</src.rf>
@@ -2153,7 +2153,7 @@
 <LM>w#w-vesm9301-045-p4s7w29</LM>
 </w.rf>
 <form>nepříjemné</form>
-<tag lemma="příjemný-1_^(všeob.,_poz._emoce)" src="orig" selected="1">AANS1----1N----</tag>
+<tag lemma="příjemný_^(všeob.,_poz._emoce)" src="orig" selected="1">AANS1----1N----</tag>
 </m>
 <m id="m-vesm9301-045-p4s7w30">
 <src.rf>manual</src.rf>
@@ -2421,7 +2421,7 @@
 <LM>w#w-vesm9301-045-p4s9w16</LM>
 </w.rf>
 <form>postižený</form>
-<tag lemma="postižený_^(*4hnout)" src="orig" selected="1">AAMS1----1A----</tag>
+<tag lemma="postižený" src="orig" selected="1">AAMS1----1A----</tag>
 </m>
 <m id="m-vesm9301-045-p4s9w17">
 <src.rf>manual</src.rf>
@@ -2453,7 +2453,7 @@
 <LM>w#w-vesm9301-045-p4s9w20</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS2---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS2---------1</tag>
 </m>
 <m id="m-vesm9301-045-p4s9w21">
 <src.rf>manual</src.rf>

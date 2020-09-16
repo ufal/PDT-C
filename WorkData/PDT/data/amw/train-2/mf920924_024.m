@@ -576,7 +576,7 @@
 <LM>w#w-mf920924-024-p2s4w17</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-mf920924-024-p2s4w18">
 <src.rf>manual</src.rf>
@@ -906,7 +906,7 @@
 <LM>w#w-mf920924-024-p2s6w18</LM>
 </w.rf>
 <form>gigant</form>
-<tag lemma="gigant" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="gigant-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920924-024-p2s6w19">
 <src.rf>manual</src.rf>

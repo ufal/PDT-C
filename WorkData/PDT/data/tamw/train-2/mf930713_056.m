@@ -1066,7 +1066,7 @@
 <LM>w#w-mf930713-056-p3s5w9</LM>
 </w.rf>
 <form>právu</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-mf930713-056-p3s5w10">
 <src.rf>manual</src.rf>
@@ -1332,7 +1332,7 @@
 <LM>w#w-mf930713-056-p4s1w19</LM>
 </w.rf>
 <form>vzatý</form>
-<tag lemma="vzatý_^(př._sebrat_něco;_brát_ohled,_zřetel,...)_(*3ít)" src="orig" selected="1">AAMS1----1A----</tag>
+<tag lemma="vzatý_^(*3ít)" src="orig" selected="1">AAMS1----1A----</tag>
 </m>
 <m id="m-mf930713-056-p4s1w20">
 <src.rf>manual</src.rf>
@@ -1340,7 +1340,7 @@
 <LM>w#w-mf930713-056-p4s1w20</LM>
 </w.rf>
 <form>náš</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSYS1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSYS1-P1-------</tag>
 </m>
 <m id="m-mf930713-056-p4s1w21">
 <src.rf>manual</src.rf>
@@ -1742,7 +1742,7 @@
 <LM>w#w-mf930713-056-p4s3w20</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8NS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8NS4---------1</tag>
 </m>
 <m id="m-mf930713-056-p4s3w21">
 <src.rf>manual</src.rf>

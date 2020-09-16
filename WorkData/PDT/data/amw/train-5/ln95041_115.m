@@ -412,7 +412,7 @@
 <LM>w#w-ln95041-115-p2s2w19</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-ln95041-115-p2s2w20">
 <src.rf>manual</src.rf>
@@ -884,7 +884,7 @@
 <LM>w#w-ln95041-115-p4s1w8</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XP1FS3-------</tag>
 </m>
 <m id="m-ln95041-115-p4s1w9">
 <src.rf>manual</src.rf>

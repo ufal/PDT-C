@@ -227,7 +227,7 @@
 <LM>w#w-lnd94104-106-p1s3w19</LM>
 </w.rf>
 <form>úvodním</form>
-<tag lemma="úvodní_,s" src="auto" selected="1">AAIS7----1A----</tag>
+<tag lemma="úvodní" src="auto" selected="1">AAIS7----1A----</tag>
 </m>
 <m id="m-lnd94104-106-p1s3w20">
 <src.rf>manual</src.rf>
@@ -341,7 +341,7 @@
 <LM>w#w-lnd94104-106-p1s4w7</LM>
 </w.rf>
 <form>jezdcům</form>
-<tag lemma="jezdec" src="orig" selected="1">NNMP3-----A----</tag>
+<tag lemma="jezdec-1" src="orig" selected="1">NNMP3-----A----</tag>
 </m>
 <m id="m-lnd94104-106-p1s4w8">
 <src.rf>manual</src.rf>
@@ -365,7 +365,7 @@
 <LM>w#w-lnd94104-106-p1s4w10</LM>
 </w.rf>
 <form>úvodním</form>
-<tag lemma="úvodní_,s" src="auto" selected="1">AAIS6----1A----</tag>
+<tag lemma="úvodní" src="auto" selected="1">AAIS6----1A----</tag>
 </m>
 <m id="m-lnd94104-106-p1s4w11">
 <src.rf>manual</src.rf>
@@ -910,7 +910,7 @@
 <LM>w#w-lnd94104-106-p1s7w22</LM>
 </w.rf>
 <form>druhému</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS3----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS3----------</tag>
 </m>
 <m id="m-lnd94104-106-p1s7w23">
 <src.rf>manual</src.rf>
@@ -1014,7 +1014,7 @@
 <LM>w#w-lnd94104-106-p1s7w35</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrIS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS4----------</tag>
 </m>
 <m id="m-lnd94104-106-p1s7w36">
 <src.rf>manual</src.rf>

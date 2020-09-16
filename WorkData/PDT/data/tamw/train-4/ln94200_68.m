@@ -43,7 +43,7 @@
 <LM>w#w-ln94200-68-p1s1w4</LM>
 </w.rf>
 <form>nevidomé</form>
-<tag lemma="nevidomý" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="nevidomý-2" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 </s>
 <s id="m-ln94200-68-p2s1A">
@@ -319,7 +319,7 @@
 <LM>w#w-ln94200-68-p2s1Bw28</LM>
 </w.rf>
 <form>nevidomým</form>
-<tag lemma="nevidomý" src="orig" selected="1">NNMP3-----A----</tag>
+<tag lemma="nevidomý-2" src="orig" selected="1">NNMP3-----A----</tag>
 </m>
 <m id="m-ln94200-68-p2s1Bw29">
 <src.rf>manual</src.rf>
@@ -393,7 +393,7 @@
 <LM>w#w-ln94200-68-p2s2w1</LM>
 </w.rf>
 <form>Nevidomý</form>
-<tag lemma="nevidomý" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="nevidomý-2" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-68-p2s2w2">
 <src.rf>manual</src.rf>
@@ -548,7 +548,7 @@
 <LM>w#w-ln94200-68-p2s2w20</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9IS4FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9IS4FS3-------</tag>
 </m>
 <m id="m-ln94200-68-p2s2w21">
 <src.rf>manual</src.rf>
@@ -1074,7 +1074,7 @@
 <LM>w#w-ln94200-68-p3s5w1</LM>
 </w.rf>
 <form>Iniciátorem</form>
-<tag lemma="iniciátor" src="auto" selected="1">NNMS7-----A----</tag>
+<tag lemma="iniciátor-1" src="auto" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94200-68-p3s5w2">
 <src.rf>manual</src.rf>
@@ -1122,7 +1122,7 @@
 <LM>w#w-ln94200-68-p3s5w7</LM>
 </w.rf>
 <form>nevidomých</form>
-<tag lemma="nevidomý" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="nevidomý-2" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94200-68-p3s5w8">
 <src.rf>manual</src.rf>
@@ -1497,7 +1497,7 @@
 <LM>w#w-ln94200-68-p3s8w7</LM>
 </w.rf>
 <form>nevidomé</form>
-<tag lemma="nevidomý" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="nevidomý-2" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-ln94200-68-p3s8w8">
 <src.rf>manual</src.rf>

@@ -135,7 +135,7 @@
 <LM>w#w-ln94211-59-p2s2w4</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-ln94211-59-p2s2w5">
 <src.rf>manual</src.rf>
@@ -385,7 +385,7 @@
 <LM>w#w-ln94211-59-p2s3w9</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrNS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS4----------</tag>
 </m>
 <m id="m-ln94211-59-p2s3w10">
 <src.rf>manual</src.rf>

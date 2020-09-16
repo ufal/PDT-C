@@ -222,7 +222,7 @@
 <LM>w#w-ln94207-42-p2s1Bw20</LM>
 </w.rf>
 <form>napadení</form>
-<tag lemma="napadení_^(*3nout)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="napadení" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln94207-42-p2s1Bw21">
 <src.rf>manual</src.rf>
@@ -395,7 +395,7 @@
 <LM>w#w-ln94207-42-p2s2w12</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94207-42-p2s2w13">
 <src.rf>manual</src.rf>

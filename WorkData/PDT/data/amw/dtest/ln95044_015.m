@@ -857,7 +857,7 @@
 <LM>w#w-ln95044-015-p3s3w4</LM>
 </w.rf>
 <form>Kvasničková</form>
-<tag lemma="Kvasničková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Kvasničková_;Y_^(*3a)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95044-015-p3s3w5">
 <src.rf>manual</src.rf>

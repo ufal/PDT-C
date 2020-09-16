@@ -451,7 +451,7 @@
 <LM>w#w-mf920901-114-p3s1w1</LM>
 </w.rf>
 <form>Extremisté</form>
-<tag lemma="extremista" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="extremista_,s_^(^DD**extrémista)" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf920901-114-p3s1w2">
 <src.rf>manual</src.rf>

@@ -452,7 +452,7 @@
 <LM>w#w-lnd92254-092-p2s2w5</LM>
 </w.rf>
 <form>roli</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="role_^(svitek_poslání_pozemek)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-lnd92254-092-p2s2w6">
 <src.rf>manual</src.rf>
@@ -492,7 +492,7 @@
 <LM>w#w-lnd92254-092-p2s2w10</LM>
 </w.rf>
 <form>náš</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSYS1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSYS1-P1-------</tag>
 </m>
 <m id="m-lnd92254-092-p2s2w11">
 <src.rf>manual</src.rf>
@@ -548,7 +548,7 @@
 <LM>w#w-lnd92254-092-p2s2w17</LM>
 </w.rf>
 <form>hodině</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd92254-092-p2s2w18">
 <src.rf>manual</src.rf>

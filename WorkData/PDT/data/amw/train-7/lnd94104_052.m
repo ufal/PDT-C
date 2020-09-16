@@ -194,7 +194,7 @@
 <LM>w#w-lnd94104-052-p1s3w11</LM>
 </w.rf>
 <form>semtexu</form>
-<tag lemma="semtex_;m" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="semtex" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd94104-052-p1s3w12">
 <src.rf>manual</src.rf>
@@ -226,7 +226,7 @@
 <LM>w#w-lnd94104-052-p1s3w15</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XP1FS3-------</tag>
 </m>
 <m id="m-lnd94104-052-p1s3w16">
 <src.rf>manual</src.rf>
@@ -258,7 +258,7 @@
 <LM>w#w-lnd94104-052-p1s3w19</LM>
 </w.rf>
 <form>Evropě</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd94104-052-p1s3w20">
 <src.rf>manual</src.rf>
@@ -372,7 +372,7 @@
 <LM>w#w-lnd94104-052-p1s5w2</LM>
 </w.rf>
 <form>vyhlídnutými</form>
-<tag lemma="vyhlídnutý_,h_^(^GC*6édnout)_(*3out)" src="auto" selected="1">AAFP7----1A----</tag>
+<tag lemma="vyhlídnutý_^(^GC*6édnutý)_(*3out)" src="auto" selected="1">AAFP7----1A----</tag>
 </m>
 <m id="m-lnd94104-052-p1s5w3">
 <src.rf>manual</src.rf>
@@ -414,7 +414,7 @@
 <form>Bání</form>
 <tag>
 <AM lemma="báň" src="orig">NNFP2-----A----</AM>
-<AM lemma="Bání_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Bání-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-052-p1s5w8">
@@ -582,7 +582,7 @@
 <LM>w#w-lnd94104-052-p1s7w3</LM>
 </w.rf>
 <form>semtexu</form>
-<tag lemma="semtex_;m" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="semtex" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd94104-052-p1s7w4">
 <src.rf>manual</src.rf>

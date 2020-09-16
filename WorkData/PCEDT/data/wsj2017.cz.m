@@ -138,7 +138,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2017-001-p1s0W11-Ta">
@@ -164,7 +164,7 @@
 </w.rf>
 <form>úmrtnost</form>
 <tag>
-<AM lemma="úmrtnost_^(*3í)" src="auto" selected="1">NNFS1-----A----</AM>
+<AM lemma="úmrtnost" src="auto" selected="1">NNFS1-----A----</AM>
 <AM lemma="úmrtnost_^(*3í)" src="auto" recommended="1">NNFS4-----A----</AM>
 </tag>
 </m>
@@ -380,7 +380,7 @@
 </w.rf>
 <form>úmrtnost</form>
 <tag>
-<AM lemma="úmrtnost_^(*3í)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="úmrtnost" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFS4-----A----</AM>
 </tag>
 </m>
@@ -719,7 +719,7 @@
 </w.rf>
 <form>úmrtnost</form>
 <tag>
-<AM lemma="úmrtnost_^(*3í)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="úmrtnost" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFS4-----A----</AM>
 </tag>
 </m>
@@ -942,7 +942,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2017-001-p1s2W38-Ta">
@@ -1094,7 +1094,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2017-001-p1s3W6-Ta">
@@ -1503,7 +1503,7 @@
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFP4-----A----</AM>
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFP5-----A----</AM>
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFS2-----A----</AM>
-<AM lemma="úmrtnost_^(*3í)" src="auto" recommended="1">NNFS3-----A----</AM>
+<AM lemma="úmrtnost" src="auto" recommended="1">NNFS3-----A----</AM>
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFS5-----A----</AM>
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFS6-----A----</AM>
 </tag>
@@ -1933,7 +1933,7 @@
 <tag>
 <AM lemma="Baltimore_;G" src="auto">NNIS2-----A----</AM>
 <AM lemma="Baltimore_;G" src="auto">NNIS3-----A----</AM>
-<AM lemma="Baltimore_;G" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="Baltimore_;G_;m" src="auto" recommended="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2017-001-p1s4W32-Ta">
@@ -2014,7 +2014,7 @@
 <form>úmrtnost</form>
 <tag>
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFS1-----A----</AM>
-<AM lemma="úmrtnost_^(*3í)" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="úmrtnost" src="auto" recommended="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2017-001-p1s5W8-Ta">
@@ -2105,7 +2105,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2017-001-p1s5W17-Ta">
@@ -2163,7 +2163,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2017-001-p1s5W21-Ta">
@@ -2230,7 +2230,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2017-001-p1s6W6-Ta">
@@ -2259,7 +2259,7 @@
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFP1-----A----</AM>
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFP4-----A----</AM>
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFP5-----A----</AM>
-<AM lemma="úmrtnost_^(*3í)" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="úmrtnost" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFS3-----A----</AM>
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFS5-----A----</AM>
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFS6-----A----</AM>
@@ -2391,7 +2391,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2017-001-p1s6W21-Ta">
@@ -2505,7 +2505,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2017-001-p1s6W32-Ta">
@@ -2534,7 +2534,7 @@
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFP1-----A----</AM>
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFP4-----A----</AM>
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFP5-----A----</AM>
-<AM lemma="úmrtnost_^(*3í)" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="úmrtnost" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFS3-----A----</AM>
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFS5-----A----</AM>
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFS6-----A----</AM>
@@ -2857,7 +2857,7 @@
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFP1-----A----</AM>
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFP4-----A----</AM>
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFP5-----A----</AM>
-<AM lemma="úmrtnost_^(*3í)" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="úmrtnost" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFS3-----A----</AM>
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFS5-----A----</AM>
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFS6-----A----</AM>
@@ -3296,7 +3296,7 @@
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFP1-----A----</AM>
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFP4-----A----</AM>
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFP5-----A----</AM>
-<AM lemma="úmrtnost_^(*3í)" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="úmrtnost" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFS3-----A----</AM>
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFS5-----A----</AM>
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFS6-----A----</AM>
@@ -3467,7 +3467,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2017-001-p1s9W37-Ta">
@@ -3560,7 +3560,7 @@
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFP1-----A----</AM>
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFP4-----A----</AM>
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFP5-----A----</AM>
-<AM lemma="úmrtnost_^(*3í)" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="úmrtnost" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFS3-----A----</AM>
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFS5-----A----</AM>
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFS6-----A----</AM>
@@ -3729,7 +3729,7 @@
 </w.rf>
 <form>úmrtnost</form>
 <tag>
-<AM lemma="úmrtnost_^(*3í)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="úmrtnost" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFS4-----A----</AM>
 </tag>
 </m>
@@ -3779,7 +3779,7 @@
 <form>letech</form>
 <tag>
 <AM lemma="let" src="auto">NNIP6-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP6-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2017-001-p1s10W26-Ta">
@@ -3875,7 +3875,7 @@
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFP1-----A----</AM>
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFP4-----A----</AM>
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFP5-----A----</AM>
-<AM lemma="úmrtnost_^(*3í)" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="úmrtnost" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFS3-----A----</AM>
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFS5-----A----</AM>
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFS6-----A----</AM>
@@ -4057,7 +4057,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2017-001-p1s11W19-Ta">
@@ -4360,7 +4360,7 @@
 </w.rf>
 <form>úmrtnost</form>
 <tag>
-<AM lemma="úmrtnost_^(*3í)" src="auto" selected="1">NNFS1-----A----</AM>
+<AM lemma="úmrtnost" src="auto" selected="1">NNFS1-----A----</AM>
 <AM lemma="úmrtnost_^(*3í)" src="auto" recommended="1">NNFS4-----A----</AM>
 </tag>
 </m>
@@ -4527,7 +4527,7 @@
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFP1-----A----</AM>
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFP4-----A----</AM>
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFP5-----A----</AM>
-<AM lemma="úmrtnost_^(*3í)" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="úmrtnost" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFS3-----A----</AM>
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFS5-----A----</AM>
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFS6-----A----</AM>
@@ -4800,7 +4800,7 @@
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFP1-----A----</AM>
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFP4-----A----</AM>
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFP5-----A----</AM>
-<AM lemma="úmrtnost_^(*3í)" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="úmrtnost" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFS3-----A----</AM>
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFS5-----A----</AM>
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFS6-----A----</AM>
@@ -5435,7 +5435,7 @@
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFP1-----A----</AM>
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFP4-----A----</AM>
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFP5-----A----</AM>
-<AM lemma="úmrtnost_^(*3í)" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="úmrtnost" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFS3-----A----</AM>
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFS5-----A----</AM>
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFS6-----A----</AM>
@@ -6100,7 +6100,7 @@
 </w.rf>
 <form>úmrtnost</form>
 <tag>
-<AM lemma="úmrtnost_^(*3í)" src="auto" selected="1">NNFS1-----A----</AM>
+<AM lemma="úmrtnost" src="auto" selected="1">NNFS1-----A----</AM>
 <AM lemma="úmrtnost_^(*3í)" src="auto" recommended="1">NNFS4-----A----</AM>
 </tag>
 </m>
@@ -6877,7 +6877,7 @@
 <AM lemma="první" src="auto">CrIP4----------</AM>
 <AM lemma="první" src="auto">CrIP5----------</AM>
 <AM lemma="první" src="auto">CrIS1----------</AM>
-<AM lemma="první" src="auto" recommended="1">CrIS4----------</AM>
+<AM lemma="první-1" src="auto" recommended="1">CrIS4----------</AM>
 <AM lemma="první" src="auto">CrIS5----------</AM>
 <AM lemma="první" src="auto">CrMP1----------</AM>
 <AM lemma="první" src="auto">CrMP4----------</AM>
@@ -7363,7 +7363,7 @@
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFS2-----A----</AM>
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFS3-----A----</AM>
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFS5-----A----</AM>
-<AM lemma="úmrtnost_^(*3í)" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="úmrtnost" src="auto" recommended="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2017-001-p1s21W10-Ta">
@@ -7931,7 +7931,7 @@
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFP1-----A----</AM>
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFP4-----A----</AM>
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFP5-----A----</AM>
-<AM lemma="úmrtnost_^(*3í)" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="úmrtnost" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFS3-----A----</AM>
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFS5-----A----</AM>
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFS6-----A----</AM>

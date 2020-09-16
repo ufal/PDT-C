@@ -45,7 +45,7 @@
 <LM>w#w-mf920924-121-p2s2w1</LM>
 </w.rf>
 <form>Prvním</form>
-<tag lemma="první" src="orig" selected="1">CrIS7----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS7----------</tag>
 </m>
 <m id="m-mf920924-121-p2s2w2">
 <src.rf>manual</src.rf>

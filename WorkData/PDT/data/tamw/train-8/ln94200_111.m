@@ -580,7 +580,7 @@
 <LM>w#w-ln94200-111-p2s4w9</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS1FS3-------</tag>
 </m>
 <m id="m-ln94200-111-p2s4w10">
 <src.rf>manual</src.rf>
@@ -798,7 +798,7 @@
 <LM>w#w-ln94200-111-p2s5w19</LM>
 </w.rf>
 <form>lidech</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP6-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP6-----A----</tag>
 </m>
 <m id="m-ln94200-111-p2s5w20">
 <src.rf>manual</src.rf>

@@ -400,7 +400,7 @@
 <LM>w#w-ln94211-60-p2s3w9</LM>
 </w.rf>
 <form>dítě</form>
-<tag lemma="dítě" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="dítě-1" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94211-60-p2s3w10">
 <src.rf>manual</src.rf>
@@ -546,7 +546,7 @@
 <LM>w#w-ln94211-60-p2s4w17</LM>
 </w.rf>
 <form>zachváceného</form>
-<tag lemma="zachvácený_,s_^(*2t)" src="auto" selected="1">AAIS2----1A----</tag>
+<tag lemma="zachvácený_^(*2t)_(*4tit)" src="auto" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-ln94211-60-p2s4w18">
 <src.rf>manual</src.rf>
@@ -693,7 +693,7 @@
 <LM>w#w-ln94211-60-p2s4w35</LM>
 </w.rf>
 <form>hodině</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94211-60-p2s4w36">
 <src.rf>manual</src.rf>
@@ -743,7 +743,7 @@
 <LM>w#w-ln94211-60-p2s5w5</LM>
 </w.rf>
 <form>tragédii</form>
-<tag lemma="tragedie" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="tragédie" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-ln94211-60-p2s5w6">
 <src.rf>manual</src.rf>

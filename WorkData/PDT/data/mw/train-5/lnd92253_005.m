@@ -35,7 +35,7 @@
 <LM>w#w-lnd92253-005-p1s1w3</LM>
 </w.rf>
 <form>LETY</form>
-<tag lemma="rok" src="orig" selected="1">NNNP7-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP7-----A----</tag>
 </m>
 <m id="m-lnd92253-005-p1s1w4">
 <src.rf>manual</src.rf>

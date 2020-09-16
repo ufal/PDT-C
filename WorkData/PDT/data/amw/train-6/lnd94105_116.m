@@ -294,7 +294,7 @@
 <LM>w#w-lnd94105-116-p1s2w13</LM>
 </w.rf>
 <form>manažerem</form>
-<tag lemma="manažer" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="manažer-1" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd94105-116-p1s2w14">
 <src.rf>manual</src.rf>
@@ -345,7 +345,7 @@
 <LM>w#w-lnd94105-116-p1s2w19</LM>
 </w.rf>
 <form>jejím</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS6FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS6FS3-------</tag>
 </m>
 <m id="m-lnd94105-116-p1s2w20">
 <src.rf>manual</src.rf>
@@ -577,7 +577,7 @@
 <LM>w#w-lnd94105-116-p1s3w24</LM>
 </w.rf>
 <form>nejlepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAFS7----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAFS7----3A----</tag>
 </m>
 <m id="m-lnd94105-116-p1s3w25">
 <src.rf>manual</src.rf>
@@ -617,7 +617,7 @@
 <LM>w#w-lnd94105-116-p1s3w29</LM>
 </w.rf>
 <form>Vodičkovou</form>
-<tag lemma="Vodičková_;Y" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Vodičková_;Y_^(*3a)" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-lnd94105-116-p1s3w30">
 <src.rf>manual</src.rf>
@@ -907,7 +907,7 @@
 <LM>w#w-lnd94105-116-p1s5w8</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP6----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP6----------</tag>
 </m>
 <m id="m-lnd94105-116-p1s5w9">
 <src.rf>manual</src.rf>

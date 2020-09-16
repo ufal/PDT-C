@@ -55,7 +55,7 @@
 <LM>w#w-lnd91303-017-p3s1w1</LM>
 </w.rf>
 <form>SANTIAGO</form>
-<tag lemma="Santiago_;G" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Santiago-1_;G" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-lnd91303-017-p3s1w2">
 <src.rf>manual</src.rf>
@@ -286,7 +286,7 @@
 <LM>w#w-lnd91303-017-p4s2w3</LM>
 </w.rf>
 <form>málo</form>
-<tag lemma="málo-2_^(př._to_málo_co_měl)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="málo-2_^(to_málo_co_měl)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-lnd91303-017-p4s2w4">
 <src.rf>manual</src.rf>
@@ -468,7 +468,7 @@
 <tag>
 <AM lemma="Schwarzkopf_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="Schwarzkopf-2_;Y" src="manual">NNIS1-----A----</AM>
-<AM lemma="Schwarzkopf-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Schwarzkopf-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-017-p4s4w6">

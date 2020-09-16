@@ -1412,7 +1412,7 @@
 <LM>w#w-ln95041-050-p4s2w22</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln95041-050-p4s2w23">
 <src.rf>manual</src.rf>
@@ -1578,7 +1578,7 @@
 <LM>w#w-ln95041-050-p4s2w40</LM>
 </w.rf>
 <form>nemnoho</form>
-<tag lemma="nemnoho-1" src="orig" selected="1">Ca--4----------</tag>
+<tag lemma="nemnoho" src="orig" selected="1">Ca--4----------</tag>
 </m>
 <m id="m-ln95041-050-p4s2w41">
 <src.rf>manual</src.rf>

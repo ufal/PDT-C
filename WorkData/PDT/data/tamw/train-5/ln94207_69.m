@@ -176,7 +176,7 @@
 <LM>w#w-ln94207-69-p2s1Aw12</LM>
 </w.rf>
 <form>jejích</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP6FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XP6FS3-------</tag>
 </m>
 <m id="m-ln94207-69-p2s1Aw13">
 <src.rf>manual</src.rf>
@@ -459,7 +459,7 @@
 <LM>w#w-ln94207-69-p2s1Cw27</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1XP1FS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XP1FS3-------</tag>
 </m>
 <m id="m-ln94207-69-p2s1Cw28">
 <src.rf>manual</src.rf>
@@ -475,7 +475,7 @@
 <LM>w#w-ln94207-69-p2s1Cw29</LM>
 </w.rf>
 <form>členové</form>
-<tag lemma="člen" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln94207-69-p2s1Cw30">
 <src.rf>manual</src.rf>
@@ -563,7 +563,7 @@
 <LM>w#w-ln94207-69-p2s1Cw40</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94207-69-p2s1Cw41">
 <src.rf>manual</src.rf>
@@ -1209,7 +1209,7 @@
 <LM>w#w-ln94207-69-p3s5w11</LM>
 </w.rf>
 <form>druhý</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS4----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS4----------</tag>
 </m>
 <m id="m-ln94207-69-p3s5w12">
 <src.rf>manual</src.rf>
@@ -1435,7 +1435,7 @@
 <LM>w#w-ln94207-69-p3s6w13</LM>
 </w.rf>
 <form>členovi</form>
-<tag lemma="člen" src="orig" selected="1">NNMS6-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS6-----A----</tag>
 </m>
 <m id="m-ln94207-69-p3s6w14">
 <src.rf>manual</src.rf>
@@ -3006,7 +3006,7 @@
 <LM>w#w-ln94207-69-p5s4w1</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrIS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS1----------</tag>
 </m>
 <m id="m-ln94207-69-p5s4w2">
 <src.rf>manual</src.rf>
@@ -3105,7 +3105,7 @@
 <LM>w#w-ln94207-69-p5s4w13</LM>
 </w.rf>
 <form>zatčení</form>
-<tag lemma="zatčení_^(*4knout)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="zatčení" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-ln94207-69-p5s4w14">
 <src.rf>manual</src.rf>

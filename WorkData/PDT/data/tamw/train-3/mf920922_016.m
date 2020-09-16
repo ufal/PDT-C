@@ -83,7 +83,7 @@
 <LM>w#w-mf920922-016-p2s1w1</LM>
 </w.rf>
 <form>Druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS1----------</tag>
 </m>
 <m id="m-mf920922-016-p2s1w2">
 <src.rf>manual</src.rf>
@@ -123,7 +123,7 @@
 <LM>w#w-mf920922-016-p2s1w6</LM>
 </w.rf>
 <form>našeho</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSZS2-P1-------</tag>
 </m>
 <m id="m-mf920922-016-p2s1w7">
 <src.rf>manual</src.rf>
@@ -221,7 +221,7 @@
 <LM>w#w-mf920922-016-p2s2w1</LM>
 </w.rf>
 <form>Naší</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS3-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS3-P1-------</tag>
 </m>
 <m id="m-mf920922-016-p2s2w2">
 <src.rf>manual</src.rf>
@@ -277,7 +277,7 @@
 <LM>w#w-mf920922-016-p2s2w8</LM>
 </w.rf>
 <form>politiky</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920922-016-p2s2w9">
 <src.rf>manual</src.rf>
@@ -463,7 +463,7 @@
 <LM>w#w-mf920922-016-p2s3w7</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP2-P1-------</tag>
 </m>
 <m id="m-mf920922-016-p2s3w8">
 <src.rf>manual</src.rf>
@@ -681,7 +681,7 @@
 <LM>w#w-mf920922-016-p2s4w2</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP2-P1-------</tag>
 </m>
 <m id="m-mf920922-016-p2s4w3">
 <src.rf>manual</src.rf>
@@ -1794,7 +1794,7 @@
 <LM>w#w-mf920922-016-p2s11Aw3</LM>
 </w.rf>
 <form>naše</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP4-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP4-P1-------</tag>
 </m>
 <m id="m-mf920922-016-p2s11Aw4">
 <src.rf>manual</src.rf>
@@ -2085,7 +2085,7 @@
 <LM>w#w-mf920922-016-p2s11Bw3</LM>
 </w.rf>
 <form>Miroslava</form>
-<tag lemma="Miroslav_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Miroslav-1_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920922-016-p2s11Bw4">
 <src.rf>manual</src.rf>
@@ -2271,7 +2271,7 @@
 <LM>w#w-mf920922-016-p2s12w8</LM>
 </w.rf>
 <form>orgánů</form>
-<tag lemma="orgán" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf920922-016-p2s12w9">
 <src.rf>manual</src.rf>

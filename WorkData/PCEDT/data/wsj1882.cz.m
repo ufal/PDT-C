@@ -169,7 +169,7 @@
 </w.rf>
 <form>svých</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8XP2----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8XP2----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8XP6----------</AM>
 </tag>
 </m>
@@ -647,7 +647,7 @@
 </w.rf>
 <form>Ashland</form>
 <tag>
-<AM lemma="Ashland_;G" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Ashland_;G_;m" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Ashland_;G" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -672,7 +672,7 @@
 </w.rf>
 <form>Kentucky</form>
 <tag>
-<AM lemma="Kentucky_;G" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="Kentucky_;G_;m" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="kentucky" src="auto">Dg-------1A----</AM>
 </tag>
 </m>
@@ -1111,7 +1111,7 @@
 <AM lemma="stanovený_^(určit)_(*3it)" src="auto">AAIP1----1A---6</AM>
 <AM lemma="stanovený_^(určit)_(*3it)" src="auto">AAIP4----1A---6</AM>
 <AM lemma="stanovený_^(určit)_(*3it)" src="auto">AAIP5----1A---6</AM>
-<AM lemma="stanovený_^(určit)_(*3it)" src="auto" recommended="1">AAIS1----1A----</AM>
+<AM lemma="stanovený_^(*3it)" src="auto" recommended="1">AAIS1----1A----</AM>
 <AM lemma="stanovený_^(určit)_(*3it)" src="auto">AAIS4----1A----</AM>
 <AM lemma="stanovený_^(určit)_(*3it)" src="auto">AAIS5----1A----</AM>
 <AM lemma="stanovený_^(určit)_(*3it)" src="auto">AAMP1----1A---6</AM>

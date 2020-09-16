@@ -1039,7 +1039,7 @@
 <LM>w#w-ln94211-84-p2s6w6</LM>
 </w.rf>
 <form>právo</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln94211-84-p2s6w7">
 <src.rf>manual</src.rf>

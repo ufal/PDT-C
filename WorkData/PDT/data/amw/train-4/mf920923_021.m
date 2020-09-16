@@ -117,7 +117,7 @@
 <LM>w#w-mf920923-021-p2s1w11</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP2-P1-------</tag>
 </m>
 <m id="m-mf920923-021-p2s1w12">
 <src.rf>manual</src.rf>
@@ -191,7 +191,7 @@
 <LM>w#w-mf920923-021-p2s2w6</LM>
 </w.rf>
 <form>Fričových</form>
-<tag lemma="Fričův_;Y_^(*2a)" src="auto" selected="1">AUFP2M---------</tag>
+<tag lemma="Fričův_;Y_^(*2)_(*2a)" src="auto" selected="1">AUFP2M---------</tag>
 </m>
 <m id="m-mf920923-021-p2s2w7">
 <src.rf>manual</src.rf>

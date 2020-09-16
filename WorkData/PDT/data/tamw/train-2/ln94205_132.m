@@ -306,7 +306,7 @@
 <LM>w#w-ln94205-132-p2s2w15</LM>
 </w.rf>
 <form>převzetí</form>
-<tag lemma="převzetí_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="převzetí_^(*3ít)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln94205-132-p2s2w16">
 <src.rf>manual</src.rf>
@@ -412,7 +412,7 @@
 <LM>w#w-ln94205-132-p2s3w6</LM>
 </w.rf>
 <form>Panskej</form>
-<tag lemma="panský" src="auto" selected="1">AAMS5----1A---6</tag>
+<tag lemma="panský-1" src="auto" selected="1">AAMS5----1A---6</tag>
 </m>
 <m id="m-ln94205-132-p2s3w7">
 <src.rf>manual</src.rf>
@@ -524,7 +524,7 @@
 <LM>w#w-ln94205-132-p2s3w20</LM>
 </w.rf>
 <form>málo</form>
-<tag lemma="málo-3_^(málo_+_příd._jm.,_př._byl_málo_důsledný)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="málo-3_^(málo_důsledný)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94205-132-p2s3w21">
 <src.rf>manual</src.rf>
@@ -572,7 +572,7 @@
 <LM>w#w-ln94205-132-p2s3w26</LM>
 </w.rf>
 <form>My</form>
-<tag lemma="já" src="orig" selected="1">PP-P1--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P1--1-------</tag>
 </m>
 <m id="m-ln94205-132-p2s3w27">
 <src.rf>manual</src.rf>
@@ -907,7 +907,7 @@
 <LM>w#w-ln94205-132-p2s5w11</LM>
 </w.rf>
 <form>dny</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-ln94205-132-p2s5w12">
 <src.rf>manual</src.rf>

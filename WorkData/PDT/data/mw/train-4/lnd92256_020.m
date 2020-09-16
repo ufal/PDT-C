@@ -420,7 +420,7 @@
 <LM>w#w-lnd92256-020-p3s4w16</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-lnd92256-020-p3s4w17">
 <src.rf>manual</src.rf>

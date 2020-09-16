@@ -275,7 +275,7 @@
 <LM>w#w-lnd92258-040-p3s3w1</LM>
 </w.rf>
 <form>Úvodní</form>
-<tag lemma="úvodní_,s" src="orig" selected="1">AAIS4----1A----</tag>
+<tag lemma="úvodní" src="orig" selected="1">AAIS4----1A----</tag>
 </m>
 <m id="m-lnd92258-040-p3s3w2">
 <src.rf>manual</src.rf>
@@ -583,7 +583,7 @@
 <LM>w#w-lnd92258-040-p3s4w28</LM>
 </w.rf>
 <form>druhý</form>
-<tag lemma="druhý" src="orig" selected="1">CrMS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrMS1----------</tag>
 </m>
 <m id="m-lnd92258-040-p3s4w29">
 <src.rf>manual</src.rf>
@@ -969,7 +969,7 @@
 <LM>w#w-lnd92258-040-p3s5w45</LM>
 </w.rf>
 <form>tajnou</form>
-<tag lemma="tajný" src="orig" selected="1">AAFS4----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-lnd92258-040-p3s5w46">
 <src.rf>manual</src.rf>
@@ -1320,7 +1320,7 @@
 <LM>w#w-lnd92258-040-p3s7w19</LM>
 </w.rf>
 <form>co</form>
-<tag lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="co-5_^(př._co_nejméně,_co_nevidět_atd.)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd92258-040-p3s7w20">
 <src.rf>manual</src.rf>

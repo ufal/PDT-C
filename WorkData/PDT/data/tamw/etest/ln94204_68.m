@@ -223,7 +223,7 @@
 <LM>w#w-ln94204-68-p2s2w7</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94204-68-p2s2w8">
 <src.rf>manual</src.rf>
@@ -295,7 +295,7 @@
 <LM>w#w-ln94204-68-p2s2w16</LM>
 </w.rf>
 <form>žlutého</form>
-<tag lemma="žlutý" src="orig" selected="1">AAIS2----1A----</tag>
+<tag lemma="žlutý_;o" src="orig" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-ln94204-68-p2s2w17">
 <src.rf>manual</src.rf>
@@ -362,7 +362,7 @@
 <LM>w#w-ln94204-68-p2s3w3</LM>
 </w.rf>
 <form>napadenému</form>
-<tag lemma="napadený_^(*3nout)" src="orig" selected="1">AAMS3----1A----</tag>
+<tag lemma="napadený" src="orig" selected="1">AAMS3----1A----</tag>
 </m>
 <m id="m-ln94204-68-p2s3w4">
 <src.rf>manual</src.rf>

@@ -99,7 +99,7 @@
 <form>Strobe</form>
 <tag>
 <AM lemma="Strobe_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Strobe_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Strobe-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-078-p2s1w7">
@@ -328,7 +328,7 @@
 <LM>w#w-ln95040-078-p2s1w34</LM>
 </w.rf>
 <form>jejím</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS6FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS6FS3-------</tag>
 </m>
 <m id="m-ln95040-078-p2s1w35">
 <src.rf>manual</src.rf>
@@ -352,7 +352,7 @@
 <LM>w#w-ln95040-078-p2s1w37</LM>
 </w.rf>
 <form>Rudým</form>
-<tag lemma="rudý" src="orig" selected="1">AAMP3----1A----</tag>
+<tag lemma="rudý_;o" src="orig" selected="1">AAMP3----1A----</tag>
 </m>
 <m id="m-ln95040-078-p2s1w38">
 <src.rf>manual</src.rf>
@@ -692,7 +692,7 @@
 <LM>w#w-ln95040-078-p3s1w1</LM>
 </w.rf>
 <form>Rudí</form>
-<tag lemma="rudý" src="orig" selected="1">AAMP1----1A----</tag>
+<tag lemma="rudý_;o" src="orig" selected="1">AAMP1----1A----</tag>
 </m>
 <m id="m-ln95040-078-p3s1w2">
 <src.rf>manual</src.rf>
@@ -702,7 +702,7 @@
 <form>Khmerové</form>
 <tag>
 <AM lemma="Khmer" src="orig">NNMP1-----A----</AM>
-<AM lemma="Khmer_;E" src="manual" selected="1">NNMP1-----A----</AM>
+<AM lemma="Khmer_;E_,s_^(^DD**Khmér)" src="manual" selected="1">NNMP1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-078-p3s1w3">
@@ -727,7 +727,7 @@
 <LM>w#w-ln95040-078-p3s1w5</LM>
 </w.rf>
 <form>hnutí</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln95040-078-p3s1w6">
 <src.rf>manual</src.rf>
@@ -767,7 +767,7 @@
 <LM>w#w-ln95040-078-p3s1w10</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-ln95040-078-p3s1w11">
 <src.rf>manual</src.rf>
@@ -1103,7 +1103,7 @@
 <LM>w#w-ln95040-078-p3s2w30</LM>
 </w.rf>
 <form>dalo</form>
-<tag lemma="dát" src="orig" selected="1">VpNS----R-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln95040-078-p3s2w31">
 <src.rf>manual</src.rf>
@@ -1233,7 +1233,7 @@
 <LM>w#w-ln95040-078-p3s3w10</LM>
 </w.rf>
 <form>Rudých</form>
-<tag lemma="rudý" src="orig" selected="1">AAMP2----1A----</tag>
+<tag lemma="rudý_;o" src="orig" selected="1">AAMP2----1A----</tag>
 </m>
 <m id="m-ln95040-078-p3s3w11">
 <src.rf>manual</src.rf>
@@ -1903,7 +1903,7 @@
 <LM>w#w-ln95040-078-p4s3w18</LM>
 </w.rf>
 <form>Rudí</form>
-<tag lemma="rudý" src="orig" selected="1">AAMP1----1A----</tag>
+<tag lemma="rudý_;o" src="orig" selected="1">AAMP1----1A----</tag>
 </m>
 <m id="m-ln95040-078-p4s3w19">
 <src.rf>manual</src.rf>

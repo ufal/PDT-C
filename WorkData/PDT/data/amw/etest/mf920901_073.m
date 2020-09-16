@@ -364,7 +364,7 @@
 <LM>w#w-mf920901-073-p2s2w16</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8YP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8YP4---------1</tag>
 </m>
 <m id="m-mf920901-073-p2s2w17">
 <src.rf>manual</src.rf>
@@ -548,7 +548,7 @@
 <LM>w#w-mf920901-073-p2s3w12</LM>
 </w.rf>
 <form>Strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920901-073-p2s3w13">
 <src.rf>manual</src.rf>
@@ -556,7 +556,7 @@
 <LM>w#w-mf920901-073-p2s3w13</LM>
 </w.rf>
 <form>zelených</form>
-<tag lemma="zelený" src="orig" selected="1">AAMP2----1A----</tag>
+<tag lemma="zelený_;o" src="orig" selected="1">AAMP2----1A----</tag>
 </m>
 <m id="m-mf920901-073-p2s3w14">
 <src.rf>manual</src.rf>
@@ -830,7 +830,7 @@
 <LM>w#w-mf920901-073-p3s2w2</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="mluvčí-2" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920901-073-p3s2w3">
 <src.rf>manual</src.rf>
@@ -846,7 +846,7 @@
 <LM>w#w-mf920901-073-p3s2w4</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920901-073-p3s2w5">
 <src.rf>manual</src.rf>
@@ -1175,7 +1175,7 @@
 <LM>w#w-mf920901-073-p3s3w12</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920901-073-p3s3w13">
 <src.rf>manual</src.rf>
@@ -1209,7 +1209,7 @@
 <LM>w#w-mf920901-073-p3s4w2</LM>
 </w.rf>
 <form>jejích</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP2FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XP2FS3-------</tag>
 </m>
 <m id="m-mf920901-073-p3s4w3">
 <src.rf>manual</src.rf>
@@ -1249,7 +1249,7 @@
 <LM>w#w-mf920901-073-p3s4w7</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-mf920901-073-p3s4w8">
 <src.rf>manual</src.rf>
@@ -1830,7 +1830,7 @@
 <LM>w#w-mf920901-073-p4s2w32</LM>
 </w.rf>
 <form>rady</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920901-073-p4s2w33">
 <src.rf>manual</src.rf>
@@ -1857,7 +1857,7 @@
 <LM>w#w-mf920901-073-p4s2w35</LM>
 </w.rf>
 <form>vydaném</form>
-<tag lemma="vydaný-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*4t-1)" src="orig" selected="1">AANS6----1A----</tag>
+<tag lemma="vydaný_^(*2t)" src="orig" selected="1">AANS6----1A----</tag>
 </m>
 <m id="m-mf920901-073-p4s2w36">
 <src.rf>manual</src.rf>
@@ -2083,7 +2083,7 @@
 <LM>w#w-mf920901-073-p4s4w3</LM>
 </w.rf>
 <form>člena</form>
-<tag lemma="člen" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920901-073-p4s4w4">
 <src.rf>manual</src.rf>
@@ -2289,7 +2289,7 @@
 <LM>w#w-mf920901-073-p6s1w1</LM>
 </w.rf>
 <form>PŘIJETÍM</form>
-<tag lemma="přijetí_^(*3mout)" src="auto" selected="1">NNNS7-----A----</tag>
+<tag lemma="přijetí_^(*1)_(*3mout)" src="auto" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-mf920901-073-p6s1w2">
 <src.rf>manual</src.rf>
@@ -2426,7 +2426,7 @@
 <LM>w#w-mf920901-073-p6s1w17</LM>
 </w.rf>
 <form>člen</form>
-<tag lemma="člen" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-073-p6s1w18">
 <src.rf>manual</src.rf>
@@ -2442,7 +2442,7 @@
 <LM>w#w-mf920901-073-p6s1w19</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920901-073-p6s1w20">
 <src.rf>manual</src.rf>

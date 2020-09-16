@@ -1165,7 +1165,7 @@
 <LM>w#w-ln94201-130-p2s7w5</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-ln94201-130-p2s7w6">
 <src.rf>manual</src.rf>
@@ -1296,7 +1296,7 @@
 <LM>w#w-ln94201-130-p2s7w21</LM>
 </w.rf>
 <form>Kobayashi</form>
-<tag lemma="Kobayashi_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kobayashi-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-130-p2s7w22">
 <src.rf>manual</src.rf>
@@ -1346,7 +1346,7 @@
 <LM>w#w-ln94201-130-p2s8w5</LM>
 </w.rf>
 <form>nejlepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAMP1----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAMP1----3A----</tag>
 </m>
 <m id="m-ln94201-130-p2s8w6">
 <src.rf>manual</src.rf>

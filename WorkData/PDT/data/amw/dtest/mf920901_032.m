@@ -130,7 +130,7 @@
 <LM>w#w-mf920901-032-p2s2w7</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FXXFS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1FXXFS3-------</tag>
 </m>
 <m id="m-mf920901-032-p2s2w8">
 <src.rf>manual</src.rf>
@@ -226,7 +226,7 @@
 <LM>w#w-mf920901-032-p2s2w19</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-mf920901-032-p2s2w20">
 <src.rf>manual</src.rf>
@@ -335,7 +335,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf920901-032-p2s3w3">
@@ -905,7 +905,7 @@
 <LM>w#w-mf920901-032-p2s5w15</LM>
 </w.rf>
 <form>rychlíků</form>
-<tag lemma="rychlík" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="rychlík-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf920901-032-p2s5w16">
 <src.rf>manual</src.rf>

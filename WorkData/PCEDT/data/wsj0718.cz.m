@@ -193,7 +193,7 @@
 <AM lemma="míšení_^(*4sit)" src="auto">NNNS1-----A----</AM>
 <AM lemma="míšení_^(*4sit)" src="auto">NNNS2-----A----</AM>
 <AM lemma="míšení_^(*4sit)" src="auto">NNNS3-----A----</AM>
-<AM lemma="míšení_^(*4sit)" src="auto" recommended="1">NNNS4-----A----</AM>
+<AM lemma="míšení_,s_^(^DD**mísení)" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="míšení_^(*4sit)" src="auto">NNNS5-----A----</AM>
 <AM lemma="míšení_^(*4sit)" src="auto">NNNS6-----A----</AM>
 </tag>
@@ -557,7 +557,7 @@
 </w.rf>
 <form>kolomazi</form>
 <tag>
-<AM lemma="kolomaz" src="auto" recommended="1">NNFS2-----A---1</AM>
+<AM lemma="kolomaz-1" src="auto" recommended="1">NNFS2-----A---1</AM>
 <AM lemma="kolomaz" src="auto">NNFS3-----A----</AM>
 <AM lemma="kolomaz" src="auto">NNFS5-----A----</AM>
 <AM lemma="kolomaz" src="auto">NNFS6-----A----</AM>

@@ -327,7 +327,7 @@
 <AM lemma="správný_^(správný_chlap)" src="auto">AAFS3----1N----</AM>
 <AM lemma="správný_^(správný_chlap)" src="auto">AAFS6----1N----</AM>
 <AM lemma="správný_^(správný_chlap)" src="auto">AAIP1----1N----</AM>
-<AM lemma="správný_^(správný_chlap)" src="auto" recommended="1">AAIP4----1N----</AM>
+<AM lemma="správný" src="auto" recommended="1">AAIP4----1N----</AM>
 <AM lemma="správný_^(správný_chlap)" src="auto">AAIP5----1N----</AM>
 <AM lemma="správný_^(správný_chlap)" src="auto">AAMP4----1N----</AM>
 <AM lemma="správný_^(správný_chlap)" src="auto">AANP1----1N---6</AM>

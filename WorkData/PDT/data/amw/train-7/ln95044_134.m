@@ -143,7 +143,7 @@
 <LM>w#w-ln95044-134-p2s1Bw8</LM>
 </w.rf>
 <form>dny</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-ln95044-134-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -650,7 +650,7 @@
 <LM>w#w-ln95044-134-p3s3w6</LM>
 </w.rf>
 <form>Evropě</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln95044-134-p3s3w7">
 <src.rf>manual</src.rf>

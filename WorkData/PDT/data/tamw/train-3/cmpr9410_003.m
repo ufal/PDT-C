@@ -27,7 +27,7 @@
 <LM>w#w-cmpr9410-003-p3s1w2</LM>
 </w.rf>
 <form>Rady</form>
-<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-cmpr9410-003-p3s1w3">
 <src.rf>manual</src.rf>
@@ -137,7 +137,7 @@
 <LM>w#w-cmpr9410-003-p5s3w1</LM>
 </w.rf>
 <form>Váš</form>
-<tag lemma="tvůj_^(přivlast.)" src="orig" selected="1">PSIS4-P2-------</tag>
+<tag lemma="váš" src="orig" selected="1">PSIS4-P2-------</tag>
 </m>
 <m id="m-cmpr9410-003-p5s3w2">
 <src.rf>manual</src.rf>
@@ -358,7 +358,7 @@
 <LM>w#w-cmpr9410-003-p5s4w18</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-cmpr9410-003-p5s4w19">
 <src.rf>manual</src.rf>
@@ -524,7 +524,7 @@
 <LM>w#w-cmpr9410-003-p7s1w3</LM>
 </w.rf>
 <form>mne</form>
-<tag lemma="já_^(2./4.pád)" src="orig" selected="1">PP-S4--1-------</tag>
+<tag lemma="já" src="orig" selected="1">PP-S4--1-------</tag>
 </m>
 <m id="m-cmpr9410-003-p7s1w4">
 <src.rf>manual</src.rf>
@@ -1358,7 +1358,7 @@
 <LM>w#w-cmpr9410-003-p9s5w7</LM>
 </w.rf>
 <form>nemoci</form>
-<tag lemma="nemoc_^(choroba)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="nemoc" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-cmpr9410-003-p9s5w8">
 <src.rf>manual</src.rf>

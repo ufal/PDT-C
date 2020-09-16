@@ -261,7 +261,7 @@
 <LM>w#w-ln94211-7-p7s1w4</LM>
 </w.rf>
 <form>otištěné</form>
-<tag lemma="otištěný_^(*5sknout)" src="orig" selected="1">AAIP1----1A----</tag>
+<tag lemma="otištěný" src="orig" selected="1">AAIP1----1A----</tag>
 </m>
 <m id="m-ln94211-7-p7s1w5">
 <src.rf>manual</src.rf>

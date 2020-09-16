@@ -790,7 +790,7 @@
 <LM>w#w-cmpr9407-007-p7s1Bw3</LM>
 </w.rf>
 <form>děti</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-cmpr9407-007-p7s1Bw4">
 <src.rf>manual</src.rf>
@@ -995,7 +995,7 @@
 <LM>w#w-cmpr9407-007-p7s2w1</LM>
 </w.rf>
 <form>Děti</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-cmpr9407-007-p7s2w2">
 <src.rf>manual</src.rf>
@@ -1197,7 +1197,7 @@
 <LM>w#w-cmpr9407-007-p7s3w6</LM>
 </w.rf>
 <form>chybějící</form>
-<tag lemma="chybějící_^(někde_něco_chybí)_(*4t)" src="orig" selected="1">AGIS1-----A----</tag>
+<tag lemma="chybějící_^(*4t)" src="orig" selected="1">AGIS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-007-p7s3w7">
 <src.rf>manual</src.rf>
@@ -2364,7 +2364,7 @@
 <LM>w#w-cmpr9407-007-p9s2w24</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-cmpr9407-007-p9s2w25">
 <src.rf>manual</src.rf>

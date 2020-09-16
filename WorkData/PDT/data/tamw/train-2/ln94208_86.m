@@ -83,7 +83,7 @@
 <LM>w#w-ln94208-86-p1s1w9</LM>
 </w.rf>
 <form>Marií</form>
-<tag lemma="Marie-1_;Y" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Marie_;Y" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln94208-86-p1s1w10">
 <src.rf>manual</src.rf>
@@ -93,7 +93,7 @@
 <form>Rút</form>
 <tag>
 <AM lemma="Rút_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Rút_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Rút-2_;Y_,s_^(^DD**Rut-2)" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-86-p1s1w11">

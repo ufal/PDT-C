@@ -365,7 +365,7 @@
 <tag>
 <AM lemma="pair-2_^(au-pair)" src="orig">NNFXX-----A----</AM>
 <AM lemma="pair" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="pair-3_^(au-pair)" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="pair-2_^(au-pair)" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-090-p1s1Bw36">
@@ -848,7 +848,7 @@
 <tag>
 <AM lemma="pair-2_^(au-pair)" src="orig">NNFXX-----A----</AM>
 <AM lemma="pair" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="pair-3_^(au-pair)" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="pair-2_^(au-pair)" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-090-p1s4w12">
@@ -865,7 +865,7 @@
 <LM>w#w-mf920922-090-p1s4w13</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP2-P1-------</tag>
 </m>
 <m id="m-mf920922-090-p1s4w14">
 <src.rf>manual</src.rf>
@@ -908,7 +908,7 @@
 <LM>w#w-mf920922-090-p1s4w18</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf920922-090-p1s4w19">
 <src.rf>manual</src.rf>

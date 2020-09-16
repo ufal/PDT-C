@@ -515,7 +515,7 @@
 <LM>w#w-ln95042-001-p2s2w21</LM>
 </w.rf>
 <form>vyhlášení</form>
-<tag lemma="vyhlášení_,a_^(*4sit)" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="vyhlášení_^(*2t)_(*4sit)" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln95042-001-p2s2w22">
 <src.rf>manual</src.rf>
@@ -809,7 +809,7 @@
 <LM>w#w-ln95042-001-p2s5w3</LM>
 </w.rf>
 <form>nezaměstnanost</form>
-<tag lemma="nezaměstnanost-2_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="nezaměstnanost_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95042-001-p2s5w4">
 <src.rf>manual</src.rf>
@@ -1460,7 +1460,7 @@
 <LM>w#w-ln95042-001-p3s4w2</LM>
 </w.rf>
 <form>faktorem</form>
-<tag lemma="faktor" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="faktor-1" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-ln95042-001-p3s4w3">
 <src.rf>manual</src.rf>
@@ -2040,7 +2040,7 @@
 <LM>w#w-ln95042-001-p6s1w4</LM>
 </w.rf>
 <form>podaných</form>
-<tag lemma="podaný_^(něco_[někomu]_[někam])_(*2t)" src="orig" selected="1">AAIP2----1A----</tag>
+<tag lemma="podaný_^(*2t)" src="orig" selected="1">AAIP2----1A----</tag>
 </m>
 <m id="m-ln95042-001-p6s1w5">
 <src.rf>manual</src.rf>
@@ -2736,7 +2736,7 @@
 <LM>w#w-ln95042-001-p8s1w3</LM>
 </w.rf>
 <form>vyhlášených</form>
-<tag lemma="vyhlášený_,a_^(*4sit)" src="orig" selected="1">AAIP2----1A----</tag>
+<tag lemma="vyhlášený_^(*2t)_(*4sit)" src="orig" selected="1">AAIP2----1A----</tag>
 </m>
 <m id="m-ln95042-001-p8s1w4">
 <src.rf>manual</src.rf>
@@ -2803,7 +2803,7 @@
 <LM>w#w-ln95042-001-p8s1w11</LM>
 </w.rf>
 <form>zaměstnanost</form>
-<tag lemma="zaměstnanost-2_^(politika_z.;_přednost_před_odvoz.)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="zaměstnanost_^(*3ý)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95042-001-p8s1w12">
 <src.rf>manual</src.rf>

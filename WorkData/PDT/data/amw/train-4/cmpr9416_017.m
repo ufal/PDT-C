@@ -475,7 +475,7 @@
 <LM>w#w-cmpr9416-017-p5s1w1</LM>
 </w.rf>
 <form>DÍTĚ</form>
-<tag lemma="dítě" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="dítě-1" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-017-p5s1w2">
 <src.rf>manual</src.rf>
@@ -611,7 +611,7 @@
 <LM>w#w-cmpr9416-017-p5s1w18</LM>
 </w.rf>
 <form>děti</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-cmpr9416-017-p5s1w19">
 <src.rf>manual</src.rf>
@@ -4136,7 +4136,7 @@
 <LM>w#w-cmpr9416-017-p13s1w16</LM>
 </w.rf>
 <form>manažery</form>
-<tag lemma="manažer" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="manažer-1" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-cmpr9416-017-p13s1w17">
 <src.rf>manual</src.rf>
@@ -4838,7 +4838,7 @@
 <LM>w#w-cmpr9416-017-p14s3w10</LM>
 </w.rf>
 <form>Husova</form>
-<tag lemma="Husův_;Y_^(*2o)" src="auto" selected="1">AUFS1M---------</tag>
+<tag lemma="Husův_;Y_^(*2-1)_(*2o)" src="auto" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-cmpr9416-017-p14s3w11">
 <src.rf>manual</src.rf>
@@ -5153,7 +5153,7 @@
 <LM>w#w-cmpr9416-017-p15s1w21</LM>
 </w.rf>
 <form>potřeby</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-cmpr9416-017-p15s1w22">
 <src.rf>manual</src.rf>

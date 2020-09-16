@@ -653,7 +653,7 @@
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS1---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS4---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS5---------1</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8YP4---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8YP4---------1</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOFP-----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOIP-----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AONS-----------</AM>
@@ -1007,7 +1007,7 @@
 <tag>
 <AM lemma="stanovený_^(určit)_(*3it)" src="auto" recommended="1">AAFP2----1A----</AM>
 <AM lemma="stanovený_^(určit)_(*3it)" src="auto">AAFP6----1A----</AM>
-<AM lemma="stanovený_^(určit)_(*3it)" src="auto" selected="1">AAIP2----1A----</AM>
+<AM lemma="stanovený_^(*3it)" src="auto" selected="1">AAIP2----1A----</AM>
 <AM lemma="stanovený_^(určit)_(*3it)" src="auto">AAIP6----1A----</AM>
 <AM lemma="stanovený_^(určit)_(*3it)" src="auto">AAMP2----1A----</AM>
 <AM lemma="stanovený_^(určit)_(*3it)" src="auto">AAMP6----1A----</AM>

@@ -27,7 +27,7 @@
 <LM>w#w-mf930703-079-p1s1w2</LM>
 </w.rf>
 <form>přistavení</form>
-<tag lemma="přistavení_^(např._auto_k_naložení)_(*3it)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="přistavení_^(*3it)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-mf930703-079-p1s1w3">
 <src.rf>manual</src.rf>
@@ -384,7 +384,7 @@
 <LM>w#w-mf930703-079-p2s2w14</LM>
 </w.rf>
 <form>přistavení</form>
-<tag lemma="přistavení_^(např._auto_k_naložení)_(*3it)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="přistavení_^(*3it)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-mf930703-079-p2s2w15">
 <src.rf>manual</src.rf>
@@ -905,7 +905,7 @@
 <LM>w#w-mf930703-079-p3s3w7</LM>
 </w.rf>
 <form>přistavení</form>
-<tag lemma="přistavení_^(např._auto_k_naložení)_(*3it)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="přistavení_^(*3it)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-mf930703-079-p3s3w8">
 <src.rf>manual</src.rf>
@@ -1463,7 +1463,7 @@
 <LM>w#w-mf930703-079-p4s3w20</LM>
 </w.rf>
 <form>přistavení</form>
-<tag lemma="přistavení_^(např._auto_k_naložení)_(*3it)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="přistavení_^(*3it)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-mf930703-079-p4s3w21">
 <src.rf>manual</src.rf>
@@ -1572,7 +1572,7 @@
 <LM>w#w-mf930703-079-p5s1w10</LM>
 </w.rf>
 <form>delším</form>
-<tag lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">AAIS7----2A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAIS7----2A----</tag>
 </m>
 <m id="m-mf930703-079-p5s1w11">
 <src.rf>manual</src.rf>

@@ -1984,7 +1984,7 @@
 <LM>w#w-lnd92257-047-p6s1w5</LM>
 </w.rf>
 <form>Altamira</form>
-<tag lemma="Altamira_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Altamira-1_;G" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92257-047-p6s1w6">
 <src.rf>manual</src.rf>

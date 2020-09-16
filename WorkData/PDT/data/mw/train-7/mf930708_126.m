@@ -157,7 +157,7 @@
 <LM>w#w-mf930708-126-p2s1w15</LM>
 </w.rf>
 <form>úvodním</form>
-<tag lemma="úvodní_,s" src="auto" selected="1">AAIS7----1A----</tag>
+<tag lemma="úvodní" src="auto" selected="1">AAIS7----1A----</tag>
 </m>
 <m id="m-mf930708-126-p2s1w16">
 <src.rf>manual</src.rf>
@@ -190,7 +190,7 @@
 <LM>w#w-mf930708-126-p2s1w19</LM>
 </w.rf>
 <form>km</form>
-<tag lemma="km-1`kilometr" src="orig" selected="1">NNIXX-----A---b</tag>
+<tag lemma="kilometr" src="orig" selected="1">NNIXX-----A---b</tag>
 </m>
 <m id="m-mf930708-126-p2s1w20">
 <src.rf>manual</src.rf>
@@ -296,7 +296,7 @@
 <LM>w#w-mf930708-126-p2s2w5</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS4----------</tag>
 </m>
 <m id="m-mf930708-126-p2s2w6">
 <src.rf>manual</src.rf>
@@ -336,7 +336,7 @@
 <LM>w#w-mf930708-126-p2s2w10</LM>
 </w.rf>
 <form>km</form>
-<tag lemma="km-1`kilometr" src="orig" selected="1">NNIXX-----A---b</tag>
+<tag lemma="kilometr" src="orig" selected="1">NNIXX-----A---b</tag>
 </m>
 <m id="m-mf930708-126-p2s2w11">
 <src.rf>manual</src.rf>
@@ -370,7 +370,7 @@
 <LM>w#w-mf930708-126-p2s3w1</LM>
 </w.rf>
 <form>Druhý</form>
-<tag lemma="druhý" src="orig" selected="1">CrMS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrMS1----------</tag>
 </m>
 <m id="m-mf930708-126-p2s3w2">
 <src.rf>manual</src.rf>
@@ -426,7 +426,7 @@
 <LM>w#w-mf930708-126-p2s3w8</LM>
 </w.rf>
 <form>žlutém</form>
-<tag lemma="žlutý" src="orig" selected="1">AAIS6----1A----</tag>
+<tag lemma="žlutý_;o" src="orig" selected="1">AAIS6----1A----</tag>
 </m>
 <m id="m-mf930708-126-p2s3w9">
 <src.rf>manual</src.rf>

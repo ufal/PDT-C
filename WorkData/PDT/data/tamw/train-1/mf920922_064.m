@@ -163,7 +163,7 @@
 <form>Krefeld</form>
 <tag>
 <AM lemma="Krefeld_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Krefeld_;G" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Krefeld-2_;G" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-064-p2s7w2">
@@ -423,7 +423,7 @@
 <LM>w#w-mf920922-064-p3s1w11</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920922-064-p3s1w12">
 <src.rf>manual</src.rf>

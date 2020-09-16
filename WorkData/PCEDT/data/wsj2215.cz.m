@@ -314,7 +314,7 @@
 </w.rf>
 <form>třeba</form>
 <tag>
-<AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" recommended="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -711,7 +711,7 @@
 <form>Emmons</form>
 <tag>
 <AM lemma="Emmons_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Emmons_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Emmons-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2215-001-p1s5W4-Ta">

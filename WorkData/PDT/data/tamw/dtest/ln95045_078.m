@@ -19,7 +19,7 @@
 <LM>w#w-ln95045-078-p1s1w1</LM>
 </w.rf>
 <form>Štěpánova</form>
-<tag lemma="Štěpánův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Štěpánův-1_;Y_^(*4-1)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-ln95045-078-p1s1w2">
 <src.rf>manual</src.rf>
@@ -264,7 +264,7 @@
 <LM>w#w-ln95045-078-p2s1Cw20</LM>
 </w.rf>
 <form>člen</form>
-<tag lemma="člen" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-078-p2s1Cw21">
 <src.rf>manual</src.rf>
@@ -304,7 +304,7 @@
 <LM>w#w-ln95045-078-p2s1Cw24</LM>
 </w.rf>
 <form>Miroslav</form>
-<tag lemma="Miroslav_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Miroslav-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-078-p2s1Cw25">
 <src.rf>manual</src.rf>
@@ -314,7 +314,7 @@
 <form>Štěpán</form>
 <tag>
 <AM lemma="Štěpán_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Štěpán_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Štěpán-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-078-p2s1Cw26">
@@ -387,7 +387,7 @@
 <LM>w#w-ln95045-078-p2s1Cw34</LM>
 </w.rf>
 <form>revanše</form>
-<tag lemma="revanš" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="revanš-1" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95045-078-p2s1Cw35">
 <src.rf>manual</src.rf>
@@ -930,7 +930,7 @@
 <LM>w#w-ln95045-078-p3s1w28</LM>
 </w.rf>
 <form>činitele</form>
-<tag lemma="činitel" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="činitel-1" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95045-078-p3s1w29">
 <src.rf>manual</src.rf>

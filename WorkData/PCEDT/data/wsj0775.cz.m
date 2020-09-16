@@ -1795,7 +1795,7 @@
 <AM lemma="daný_^(*3át)" src="auto">AANP4----1A---6</AM>
 <AM lemma="daný_^(*3át)" src="auto">AANP5----1A---6</AM>
 <AM lemma="daný_^(*3át)" src="auto">AANS1----1A----</AM>
-<AM lemma="daný_^(*3át)" src="auto" recommended="1">AANS4----1A----</AM>
+<AM lemma="daný-1_^(*5át-1)" src="auto" recommended="1">AANS4----1A----</AM>
 <AM lemma="daný_^(*3át)" src="auto">AANS5----1A----</AM>
 </tag>
 </m>
@@ -2372,7 +2372,7 @@
 </w.rf>
 <form>Norfolk</form>
 <tag>
-<AM lemma="Norfolk_;G" src="auto" selected="1">NNIS1-----A----</AM>
+<AM lemma="Norfolk_;G_;m" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="Norfolk_;G" src="auto" recommended="1">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -3742,7 +3742,7 @@
 </w.rf>
 <form>danému</form>
 <tag>
-<AM lemma="daný_^(*3át)" src="auto" recommended="1">AAIS3----1A----</AM>
+<AM lemma="daný-1_^(*5át-1)" src="auto" recommended="1">AAIS3----1A----</AM>
 <AM lemma="daný_^(*3át)" src="auto">AAMS3----1A----</AM>
 <AM lemma="daný_^(*3át)" src="auto">AANS3----1A----</AM>
 </tag>
@@ -3757,7 +3757,7 @@
 <AM lemma="den_^(jednotka_času)" src="auto">NNIP1-----A---1</AM>
 <AM lemma="den_^(jednotka_času)" src="auto">NNIP4-----A---1</AM>
 <AM lemma="den_^(jednotka_času)" src="auto">NNIP5-----A---1</AM>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIS3-----A---1</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIS3-----A---1</AM>
 <AM lemma="den_^(jednotka_času)" src="auto">NNIS5-----A---1</AM>
 <AM lemma="den_^(jednotka_času)" src="auto">NNIS6-----A---1</AM>
 </tag>

@@ -370,7 +370,7 @@
 <LM>w#w-mf930708-004-p2s2w12</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930708-004-p2s2w13">
 <src.rf>manual</src.rf>

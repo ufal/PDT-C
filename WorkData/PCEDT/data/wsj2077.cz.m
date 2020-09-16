@@ -277,7 +277,7 @@
 <AM lemma="zkrachovalý_,e_^(*2t)" src="auto">AAFP1----1A----</AM>
 <AM lemma="zkrachovalý_,e_^(*2t)" src="auto">AAFP4----1A----</AM>
 <AM lemma="zkrachovalý_,e_^(*2t)" src="auto">AAFP5----1A----</AM>
-<AM lemma="zkrachovalý_,e_^(*2t)" src="auto" recommended="1">AAFS2----1A----</AM>
+<AM lemma="zkrachovalý_^(*2t)" src="auto" recommended="1">AAFS2----1A----</AM>
 <AM lemma="zkrachovalý_,e_^(*2t)" src="auto">AAFS3----1A----</AM>
 <AM lemma="zkrachovalý_,e_^(*2t)" src="auto">AAFS6----1A----</AM>
 <AM lemma="zkrachovalý_,e_^(*2t)" src="auto">AAIP1----1A----</AM>
@@ -1742,7 +1742,7 @@
 <AM lemma="York-2_;G" src="auto">NNIS2-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS5-----A----</AM>
-<AM lemma="York-2_;G" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="York-2_;G_;m" src="auto" recommended="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2077-001-p1s3W45-Ta">

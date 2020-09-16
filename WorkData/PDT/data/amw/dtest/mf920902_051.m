@@ -83,7 +83,7 @@
 <LM>w#w-mf920902-051-p2s2w1</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrNS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS4----------</tag>
 </m>
 <m id="m-mf920902-051-p2s2w2">
 <src.rf>manual</src.rf>
@@ -200,7 +200,7 @@
 <LM>w#w-mf920902-051-p2s3w4</LM>
 </w.rf>
 <form>vypadal</form>
-<tag lemma="vypadat" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="vypadat-1_^(ty_vypadáš)" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920902-051-p2s3w5">
 <src.rf>manual</src.rf>
@@ -379,7 +379,7 @@
 <LM>w#w-mf920902-051-p2s3w26</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf920902-051-p2s3w27">
 <src.rf>manual</src.rf>
@@ -403,7 +403,7 @@
 <LM>w#w-mf920902-051-p2s3w29</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-051-p2s3w30">
 <src.rf>manual</src.rf>
@@ -807,7 +807,7 @@
 <LM>w#w-mf920902-051-p2s5w18</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP3----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP3----------</tag>
 </m>
 <m id="m-mf920902-051-p2s5w19">
 <src.rf>manual</src.rf>

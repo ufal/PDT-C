@@ -676,7 +676,7 @@
 <tag>
 <AM lemma="stanovený_^(určit)_(*3it)" src="auto">AAFP2----1A----</AM>
 <AM lemma="stanovený_^(určit)_(*3it)" src="auto">AAFP6----1A----</AM>
-<AM lemma="stanovený_^(určit)_(*3it)" src="auto" recommended="1">AAIP2----1A----</AM>
+<AM lemma="stanovený_^(*3it)" src="auto" recommended="1">AAIP2----1A----</AM>
 <AM lemma="stanovený_^(určit)_(*3it)" src="auto">AAIP6----1A----</AM>
 <AM lemma="stanovený_^(určit)_(*3it)" src="auto">AAMP2----1A----</AM>
 <AM lemma="stanovený_^(určit)_(*3it)" src="auto">AAMP6----1A----</AM>

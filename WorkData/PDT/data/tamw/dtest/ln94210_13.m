@@ -175,7 +175,7 @@
 <LM>w#w-ln94210-13-p2s1w16</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-ln94210-13-p2s1w17">
 <src.rf>manual</src.rf>
@@ -303,7 +303,7 @@
 <LM>w#w-ln94210-13-p2s3w1</LM>
 </w.rf>
 <form>Právo</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln94210-13-p2s3w2">
 <src.rf>manual</src.rf>
@@ -1169,7 +1169,7 @@
 <form>kotovaných</form>
 <tag>
 <AM lemma="kótovaný_^(*2t)" src="orig">AAFP2----1A----</AM>
-<AM lemma="kotovaný_^(*2t)" src="auto" recommended="1" selected="1">AAFP2----1A----</AM>
+<AM lemma="kotovaný_^(^DD**kótovaný)_(*2t)" src="auto" recommended="1" selected="1">AAFP2----1A----</AM>
 <AM lemma="kotovaný_^(*2t)" src="auto">AAFP6----1A----</AM>
 <AM lemma="kotovaný_^(*2t)" src="auto">AAIP2----1A----</AM>
 <AM lemma="kotovaný_^(*2t)" src="auto">AAIP6----1A----</AM>
@@ -1195,7 +1195,7 @@
 <form>nekotovaných</form>
 <tag>
 <AM lemma="kótovaný_^(*2t)" src="orig">AAFP2----1N----</AM>
-<AM lemma="kotovaný_^(*2t)" src="auto" recommended="1" selected="1">AAFP2----1N----</AM>
+<AM lemma="kotovaný_^(^DD**kótovaný)_(*2t)" src="auto" recommended="1" selected="1">AAFP2----1N----</AM>
 <AM lemma="kotovaný_^(*2t)" src="auto">AAFP6----1N----</AM>
 <AM lemma="kotovaný_^(*2t)" src="auto">AAIP2----1N----</AM>
 <AM lemma="kotovaný_^(*2t)" src="auto">AAIP6----1N----</AM>

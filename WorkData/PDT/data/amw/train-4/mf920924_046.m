@@ -218,7 +218,7 @@
 <form>shakespearomanie</form>
 <tag>
 <AM lemma="shakespearomanie" src="orig">NNFS2-----A----</AM>
-<AM lemma="shakespearomanie_,s_^(^DD**shakespearománie)" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="shakespearomanie" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-046-p1s1Bw7">
@@ -317,7 +317,7 @@
 <LM>w#w-mf920924-046-p1s2w8</LM>
 </w.rf>
 <form>dni</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS6-----A---1</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS6-----A---1</tag>
 </m>
 <m id="m-mf920924-046-p1s2w9">
 <src.rf>manual</src.rf>
@@ -345,7 +345,7 @@
 <form>Tálská</form>
 <tag>
 <AM lemma="Tálský_;Y" src="orig">NNFS1-----A----</AM>
-<AM lemma="Tálská_;Y" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
+<AM lemma="Tálská_;Y_^(*1ý)" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 <AM lemma="Tálská_;Y" src="auto">NNFS5-----A----</AM>
 </tag>
 </m>
@@ -419,7 +419,7 @@
 <LM>w#w-mf920924-046-p1s3w11</LM>
 </w.rf>
 <form>dlouhého</form>
-<tag lemma="dlouhý-1_^(fyz._délka;_př._dlouhá_tyč)" src="orig" selected="1">AAIS2----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-mf920924-046-p1s3w12">
 <src.rf>manual</src.rf>
@@ -953,7 +953,7 @@
 <LM>w#w-mf920924-046-p1s5w28</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1ZS1FS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1ZS1FS3-------</tag>
 </m>
 <m id="m-mf920924-046-p1s5w29">
 <src.rf>manual</src.rf>

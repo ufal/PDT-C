@@ -90,7 +90,7 @@
 <LM>w#w-ln94203-17-p2s1Bw3</LM>
 </w.rf>
 <form>předání</form>
-<tag lemma="předání-3_^(někomu_něco)_(*5at-3)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="předání_^(*3at)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-ln94203-17-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -351,7 +351,7 @@
 <LM>w#w-ln94203-17-p2s2w8</LM>
 </w.rf>
 <form>resorty</form>
-<tag lemma="resort" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="resort_,s_^(^DD**rezort)" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-ln94203-17-p2s2w9">
 <src.rf>manual</src.rf>
@@ -689,7 +689,7 @@
 <LM>w#w-ln94203-17-p2s4w5</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94203-17-p2s4w6">
 <src.rf>manual</src.rf>
@@ -1053,7 +1053,7 @@
 <LM>w#w-ln94203-17-p2s6w18</LM>
 </w.rf>
 <form>resorty</form>
-<tag lemma="resort" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="resort_,s_^(^DD**rezort)" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-ln94203-17-p2s6w19">
 <src.rf>manual</src.rf>
@@ -1162,7 +1162,7 @@
 <LM>w#w-ln94203-17-p3s1w3</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-4_^(v_knize,_rukopise,...)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94203-17-p3s1w4">
 <src.rf>manual</src.rf>

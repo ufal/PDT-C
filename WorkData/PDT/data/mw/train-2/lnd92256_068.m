@@ -208,7 +208,7 @@
 <form>Černou</form>
 <tag>
 <AM lemma="černý" src="auto">AAFS4----1A----</AM>
-<AM lemma="černý_:o" src="manual" selected="1">AAFS4----1A----</AM>
+<AM lemma="černý_;o" src="manual" selected="1">AAFS4----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-068-p3s2w14">

@@ -189,7 +189,7 @@
 <LM>w#w-ln94200-81-p2s1Bw10</LM>
 </w.rf>
 <form>členů</form>
-<tag lemma="člen" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94200-81-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -591,7 +591,7 @@
 <LM>w#w-ln94200-81-p2s2w23</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrMP1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrMP1----------</tag>
 </m>
 <m id="m-ln94200-81-p2s2w24">
 <src.rf>manual</src.rf>

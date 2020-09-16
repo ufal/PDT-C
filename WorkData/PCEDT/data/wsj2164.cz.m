@@ -356,7 +356,7 @@
 <form>Joela</form>
 <tag>
 <AM lemma="Joel_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Joel_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
+<AM lemma="Joel-1_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2164-001-p1s1W7-Ta">

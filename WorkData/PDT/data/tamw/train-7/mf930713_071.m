@@ -306,7 +306,7 @@
 <LM>w#w-mf930713-071-p2s1Bw21</LM>
 </w.rf>
 <form>stanoveném</form>
-<tag lemma="stanovený_^(určit)_(*3it)" src="orig" selected="1">AAIS6----1A----</tag>
+<tag lemma="stanovený_^(*3it)" src="orig" selected="1">AAIS6----1A----</tag>
 </m>
 <m id="m-mf930713-071-p2s1Bw22">
 <src.rf>manual</src.rf>
@@ -359,7 +359,7 @@
 <LM>w#w-mf930713-071-p2s2w2</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf930713-071-p2s2w3">
 <src.rf>manual</src.rf>
@@ -1152,7 +1152,7 @@
 <LM>w#w-mf930713-071-p3s1w18</LM>
 </w.rf>
 <form>datu</form>
-<tag lemma="datum_^(kalendářní)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="datum-1_^(kalendářní)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-mf930713-071-p3s1w19">
 <src.rf>manual</src.rf>
@@ -1540,7 +1540,7 @@
 <LM>w#w-mf930713-071-p3s3w20</LM>
 </w.rf>
 <form>okolkované</form>
-<tag lemma="okolkovaný-1_^(opatřit_kolkem)_(*4t-1)" src="orig" selected="1">AAFP4----1A----</tag>
+<tag lemma="okolkovaný-1_^(*4t-1)_(*4t-2)" src="orig" selected="1">AAFP4----1A----</tag>
 </m>
 <m id="m-mf930713-071-p3s3w21">
 <src.rf>manual</src.rf>
@@ -1640,7 +1640,7 @@
 <LM>w#w-mf930713-071-p3s4w1</LM>
 </w.rf>
 <form>Neokolkované</form>
-<tag lemma="okolkovaný-1_^(opatřit_kolkem)_(*4t-1)" src="orig" selected="1">AAFP4----1N----</tag>
+<tag lemma="okolkovaný-1_^(*4t-1)_(*4t-2)" src="orig" selected="1">AAFP4----1N----</tag>
 </m>
 <m id="m-mf930713-071-p3s4w2">
 <src.rf>manual</src.rf>
@@ -2066,7 +2066,7 @@
 <LM>w#w-mf930713-071-p3s5w13</LM>
 </w.rf>
 <form>neokolkovaných</form>
-<tag lemma="okolkovaný-1_^(opatřit_kolkem)_(*4t-1)" src="orig" selected="1">AAIP2----1N----</tag>
+<tag lemma="okolkovaný-1_^(*4t-1)_(*4t-2)" src="orig" selected="1">AAIP2----1N----</tag>
 </m>
 <m id="m-mf930713-071-p3s5w14">
 <src.rf>manual</src.rf>

@@ -342,7 +342,7 @@
 <AM lemma="činitel" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="činitel" src="auto">NNIS4-----A----</AM>
 <AM lemma="činitel" src="auto">NNMS1-----A----</AM>
-<AM lemma="činitel-1" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="činitel-2" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0722-001-p1s0W29-Ta">

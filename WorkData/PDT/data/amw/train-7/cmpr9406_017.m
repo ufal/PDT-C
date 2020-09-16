@@ -289,7 +289,7 @@
 <LM>w#w-cmpr9406-017-p5s1w7</LM>
 </w.rf>
 <form>ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 </s>
 <s id="m-cmpr9406-017-p6s1">
@@ -315,7 +315,7 @@
 <LM>w#w-cmpr9406-017-p6s1w3</LM>
 </w.rf>
 <form>mm</form>
-<tag lemma="mm-1`milimetr" src="orig" selected="1">NNIXX-----A---b</tag>
+<tag lemma="milimetr" src="orig" selected="1">NNIXX-----A---b</tag>
 </m>
 <m id="m-cmpr9406-017-p6s1w4">
 <src.rf>manual</src.rf>
@@ -657,7 +657,7 @@
 <LM>w#w-cmpr9406-017-p8s3w4</LM>
 </w.rf>
 <form>zavěšeném</form>
-<tag lemma="zavěšený_,s_^(*4sit)" src="orig" selected="1">AANS6----1A----</tag>
+<tag lemma="zavěšený_^(*2t)_(*4sit)" src="orig" selected="1">AANS6----1A----</tag>
 </m>
 <m id="m-cmpr9406-017-p8s3w5">
 <src.rf>manual</src.rf>
@@ -1241,7 +1241,7 @@
 <AM lemma="displej" src="orig">NNIS1-----A----</AM>
 <AM lemma="display_,t" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="display_,t" src="auto">NNIS4-----A----</AM>
-<AM lemma="display" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="display_,s_^(^DD**displej)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-017-p8s11w2">

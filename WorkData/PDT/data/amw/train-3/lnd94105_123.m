@@ -694,7 +694,7 @@
 <tag>
 <AM lemma="dovážený_^(dokončit_vážení)_(*2t)" src="auto">AAIP1----1A----</AM>
 <AM lemma="dovážený_^(z_ciziny)_(*2t)" src="manual">AAIP1----1A----</AM>
-<AM lemma="dovážený-2_^(z_ciziny)_(*4t)" src="manual" selected="1">AAIP1----1A----</AM>
+<AM lemma="dovážený_^(*2t)_(*3it)" src="manual" selected="1">AAIP1----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-123-p1s6w18">

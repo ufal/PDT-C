@@ -117,7 +117,7 @@
 <LM>w#w-lnd94104-070-p1s1Bw9</LM>
 </w.rf>
 <form>manažery</form>
-<tag lemma="manažer" src="orig" selected="1">NNMP7-----A----</tag>
+<tag lemma="manažer-1" src="orig" selected="1">NNMP7-----A----</tag>
 </m>
 </s>
 <s id="m-lnd94104-070-p1s1C">
@@ -278,7 +278,7 @@
 <LM>w#w-lnd94104-070-p1s2w10</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-lnd94104-070-p1s2w11">
 <src.rf>manual</src.rf>
@@ -552,7 +552,7 @@
 <LM>w#w-lnd94104-070-p1s20w21</LM>
 </w.rf>
 <form>třeba</form>
-<tag lemma="třeba-2" src="auto" selected="1">Db-------------</tag>
+<tag lemma="třeba-1" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd94104-070-p1s20w22">
 <src.rf>manual</src.rf>

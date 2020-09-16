@@ -395,7 +395,7 @@
 <LM>w#w-lnd92258-080-p3s3w7</LM>
 </w.rf>
 <form>sestřižených</form>
-<tag lemma="sestřižený_^(*4hnout)" src="orig" selected="1">AAIP2----1A----</tag>
+<tag lemma="sestřižený" src="orig" selected="1">AAIP2----1A----</tag>
 </m>
 <m id="m-lnd92258-080-p3s3w8">
 <src.rf>manual</src.rf>
@@ -558,7 +558,7 @@
 <LM>w#w-lnd92258-080-p3s3w27</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-lnd92258-080-p3s3w28">
 <src.rf>manual</src.rf>
@@ -850,7 +850,7 @@
 <LM>w#w-lnd92258-080-p4s1w3</LM>
 </w.rf>
 <form>vypadal</form>
-<tag lemma="vypadat" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="vypadat-1_^(ty_vypadáš)" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd92258-080-p4s1w4">
 <src.rf>manual</src.rf>
@@ -882,7 +882,7 @@
 <LM>w#w-lnd92258-080-p4s1w7</LM>
 </w.rf>
 <form>lety</form>
-<tag lemma="rok" src="orig" selected="1">NNNP7-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP7-----A----</tag>
 </m>
 <m id="m-lnd92258-080-p4s1w8">
 <src.rf>manual</src.rf>
@@ -1960,7 +1960,7 @@
 <LM>w#w-lnd92258-080-p6s1w66</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd92258-080-p6s1w67">
 <src.rf>manual</src.rf>
@@ -2665,7 +2665,7 @@
 <LM>w#w-lnd92258-080-p8s1w10</LM>
 </w.rf>
 <form>druhým</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS7----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS7----------</tag>
 </m>
 <m id="m-lnd92258-080-p8s1w11">
 <src.rf>manual</src.rf>
@@ -3413,7 +3413,7 @@
 <LM>w#w-lnd92258-080-p9s2w12</LM>
 </w.rf>
 <form>nejlepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AANS1----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AANS1----3A----</tag>
 </m>
 <m id="m-lnd92258-080-p9s2w13">
 <src.rf>manual</src.rf>
@@ -3440,7 +3440,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-080-p9s2w17">
@@ -3699,7 +3699,7 @@
 <LM>w#w-lnd92258-080-p10s1w7</LM>
 </w.rf>
 <form>Evropě</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd92258-080-p10s1w8">
 <src.rf>manual</src.rf>

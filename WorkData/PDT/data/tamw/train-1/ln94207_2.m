@@ -35,7 +35,7 @@
 <LM>w#w-ln94207-2-p1s1w3</LM>
 </w.rf>
 <form>ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 </s>
 <s id="m-ln94207-2-p2s1A">
@@ -460,7 +460,7 @@
 <LM>w#w-ln94207-2-p2s2w19</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln94207-2-p2s2w20">
 <src.rf>manual</src.rf>

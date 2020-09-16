@@ -452,7 +452,7 @@
 <LM>w#w-mf930713-123-p2s3w10</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FXXFS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1FXXFS3-------</tag>
 </m>
 <m id="m-mf930713-123-p2s3w11">
 <src.rf>manual</src.rf>

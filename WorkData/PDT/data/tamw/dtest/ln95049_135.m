@@ -543,7 +543,7 @@
 <LM>w#w-ln95049-135-p3s1w15</LM>
 </w.rf>
 <form>Fyzikálně</form>
-<tag lemma="fyzikální" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="fyzikálně-2" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-ln95049-135-p3s1w16">
 <src.rf>manual</src.rf>
@@ -725,7 +725,7 @@
 <LM>w#w-ln95049-135-p3s2w3</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-ln95049-135-p3s2w4">
 <src.rf>manual</src.rf>
@@ -821,7 +821,7 @@
 <LM>w#w-ln95049-135-p3s2w15</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-135-p3s2w16">
 <src.rf>manual</src.rf>
@@ -1263,7 +1263,7 @@
 <AM lemma="astra_^(vozidlo&amp;&amp;kytka)" src="auto">NNFP4-----A----</AM>
 <AM lemma="astra_^(vozidlo&amp;&amp;kytka)" src="auto">NNFP5-----A----</AM>
 <AM lemma="astra_^(vozidlo&amp;&amp;kytka)" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="astra_^(vozidlo&amp;kytka)" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="astra_^(vozidlo&amp;&amp;kytka)" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-135-p4s4w6">
@@ -1589,7 +1589,7 @@
 <LM>w#w-ln95049-135-p4s6w14</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-135-p4s6w15">
 <src.rf>manual</src.rf>

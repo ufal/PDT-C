@@ -135,7 +135,7 @@
 <AM lemma="York-2_;G" src="auto">NNIS2-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS5-----A----</AM>
-<AM lemma="York-2_;G" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="York-2_;G_;m" src="auto" recommended="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1709-001-p1s0W10-Ta">
@@ -354,7 +354,7 @@
 <form>jejím</form>
 <tag>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP3FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9ZS6FS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9ZS6FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSZS7FS3-------</AM>
 </tag>
 </m>
@@ -591,7 +591,7 @@
 <form>proto</form>
 <tag>
 <AM lemma="proto-1_^(proto;_a_proto,_ale_proto,...)" src="auto">J^-------------</AM>
-<AM lemma="proto-2_^(dal_mu_co_proto,_tak_proto!)" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="proto-2_^(proto_že)" src="auto" recommended="1">Db-------------</AM>
 <AM lemma="proto-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -634,7 +634,7 @@
 <tag>
 <AM lemma="Schlumberger_;m_^(počítač)" src="auto">NNIS1-----A----</AM>
 <AM lemma="Schlumberger_;m_^(počítač)" src="auto">NNIS4-----A----</AM>
-<AM lemma="Schlumberger_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Schlumberger-2_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1709-001-p1s1W11-Ta">
@@ -726,7 +726,7 @@
 <form>své</form>
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FP1---------1</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8FP4---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8FP4---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS2---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS3---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS6---------1</AM>
@@ -2347,7 +2347,7 @@
 <tag>
 <AM lemma="Schlumbergerův_;Y_^(*2)" src="auto">AUFS1M---------</AM>
 <AM lemma="Schlumbergerův_;Y_^(*2)" src="auto">AUFS5M---------</AM>
-<AM lemma="Schlumbergerův_;Y_^(*2)" src="auto" recommended="1">AUIS2M---------</AM>
+<AM lemma="Schlumbergerův-2_;Y_^(*4-2)" src="auto" recommended="1">AUIS2M---------</AM>
 <AM lemma="Schlumbergerův_;Y_^(*2)" src="auto">AUMS2M---------</AM>
 <AM lemma="Schlumbergerův_;Y_^(*2)" src="auto">AUMS4M---------</AM>
 <AM lemma="Schlumbergerův_;Y_^(*2)" src="auto">AUNP1M---------</AM>

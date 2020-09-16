@@ -570,7 +570,7 @@
 <AM lemma="Irvine-1_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Irvine-1_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Irvine-1_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Irvine-2_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Irvine-2_;G_;m" src="auto" recommended="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0491-001-p1s1W7-Ta">

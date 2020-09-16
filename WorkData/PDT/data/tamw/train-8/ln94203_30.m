@@ -301,7 +301,7 @@
 <LM>w#w-ln94203-30-p2s2w2</LM>
 </w.rf>
 <form>nalezenými</form>
-<tag lemma="nalezený-2_^(*7ézt-2)" src="auto" selected="1">AAIP7----1A----</tag>
+<tag lemma="nalezený" src="auto" selected="1">AAIP7----1A----</tag>
 </m>
 <m id="m-ln94203-30-p2s2w3">
 <src.rf>manual</src.rf>

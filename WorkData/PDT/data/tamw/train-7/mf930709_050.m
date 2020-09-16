@@ -56,7 +56,7 @@
 <LM>w#w-mf930709-050-p2s1w2</LM>
 </w.rf>
 <form>alias</form>
-<tag lemma="alias" src="orig" selected="1">J^-------------</tag>
+<tag lemma="alias-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-mf930709-050-p2s1w3">
 <src.rf>manual</src.rf>
@@ -346,7 +346,7 @@
 <LM>w#w-mf930709-050-p3s3w6</LM>
 </w.rf>
 <form>umění</form>
-<tag lemma="umění_^(mít_schopnost_něco_dělat)_(*2t)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="umění_^(*2t)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-mf930709-050-p3s3w7">
 <src.rf>manual</src.rf>
@@ -420,7 +420,7 @@
 <LM>w#w-mf930709-050-p3s4w1</LM>
 </w.rf>
 <form>Svá</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8NP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8NP4---------1</tag>
 </m>
 <m id="m-mf930709-050-p3s4w2">
 <src.rf>manual</src.rf>
@@ -865,7 +865,7 @@
 <LM>w#w-mf930709-050-p3s6w2</LM>
 </w.rf>
 <form>proto</form>
-<tag lemma="proto-2_^(dal_mu_co_proto,_tak_proto!)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="proto-2_^(proto_že)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf930709-050-p3s6w3">
 <src.rf>manual</src.rf>

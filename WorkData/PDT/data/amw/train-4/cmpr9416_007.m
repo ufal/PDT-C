@@ -483,7 +483,7 @@
 <LM>w#w-cmpr9416-007-p4s3w30</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9IS4FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9IS4FS3-------</tag>
 </m>
 <m id="m-cmpr9416-007-p4s3w31">
 <src.rf>manual</src.rf>
@@ -874,7 +874,7 @@
 <LM>w#w-cmpr9416-007-p4s5w6</LM>
 </w.rf>
 <form>naše</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSIP1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSIP1-P1-------</tag>
 </m>
 <m id="m-cmpr9416-007-p4s5w7">
 <src.rf>manual</src.rf>

@@ -349,7 +349,7 @@
 <LM>w#w-lnd92259-024-p1s2w5</LM>
 </w.rf>
 <form>postižených</form>
-<tag lemma="postižený_^(*4hnout)" src="orig" selected="1">AAMP2----1A----</tag>
+<tag lemma="postižený" src="orig" selected="1">AAMP2----1A----</tag>
 </m>
 <m id="m-lnd92259-024-p1s2w6">
 <src.rf>manual</src.rf>

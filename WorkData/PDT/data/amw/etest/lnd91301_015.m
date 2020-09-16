@@ -169,7 +169,7 @@
 <LM>w#w-lnd91301-015-p4s1w14</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd91301-015-p4s1w15">
 <src.rf>manual</src.rf>
@@ -381,7 +381,7 @@
 <LM>w#w-lnd91301-015-p5s1w4</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-4_^(v_knize,_rukopise,...)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd91301-015-p5s1w5">
 <src.rf>manual</src.rf>

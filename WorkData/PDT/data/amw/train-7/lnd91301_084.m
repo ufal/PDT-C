@@ -481,7 +481,7 @@
 <LM>w#w-lnd91301-084-p3s3w19</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrMP4----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrMP4----------</tag>
 </m>
 <m id="m-lnd91301-084-p3s3w20">
 <src.rf>manual</src.rf>
@@ -499,7 +499,7 @@
 <LM>w#w-lnd91301-084-p3s4w1</LM>
 </w.rf>
 <form>Moje</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSHS1-S1-------</tag>
+<tag lemma="můj" src="orig" selected="1">PSHS1-S1-------</tag>
 </m>
 <m id="m-lnd91301-084-p3s4w2">
 <src.rf>manual</src.rf>
@@ -844,7 +844,7 @@
 <LM>w#w-lnd91301-084-p3s6w15</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd91301-084-p3s6w16">
 <src.rf>manual</src.rf>
@@ -1155,7 +1155,7 @@
 <LM>w#w-lnd91301-084-p3s8w7</LM>
 </w.rf>
 <form>vy</form>
-<tag lemma="ty" src="orig" selected="1">PP-P1--2-------</tag>
+<tag lemma="vy" src="orig" selected="1">PP-P1--2-------</tag>
 </m>
 <m id="m-lnd91301-084-p3s8w8">
 <src.rf>manual</src.rf>

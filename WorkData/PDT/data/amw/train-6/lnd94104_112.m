@@ -37,7 +37,7 @@
 <LM>w#w-lnd94104-112-p1s4w1</LM>
 </w.rf>
 <form>Druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS1----------</tag>
 </m>
 <m id="m-lnd94104-112-p1s4w2">
 <src.rf>manual</src.rf>

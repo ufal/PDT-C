@@ -386,7 +386,7 @@
 <LM>w#w-mf930709-125-p2s3w12</LM>
 </w.rf>
 <form>brání</form>
-<tag lemma="bránit_^(klást_překážky)" src="auto" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="bránit" src="auto" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930709-125-p2s3w13">
 <src.rf>manual</src.rf>

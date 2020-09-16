@@ -572,7 +572,7 @@
 <LM>w#w-lnd92256-049-p2s3w5</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrNS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS1----------</tag>
 </m>
 <m id="m-lnd92256-049-p2s3w6">
 <src.rf>manual</src.rf>

@@ -1201,7 +1201,7 @@
 <LM>w#w-ln95049-012-p5s1w6</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-ln95049-012-p5s1w7">
 <src.rf>manual</src.rf>

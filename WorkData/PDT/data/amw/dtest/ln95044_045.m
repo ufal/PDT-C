@@ -79,7 +79,7 @@
 <LM>w#w-ln95044-045-p2s1Bw5</LM>
 </w.rf>
 <form>právo</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95044-045-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -370,7 +370,7 @@
 <LM>w#w-ln95044-045-p2s3w5</LM>
 </w.rf>
 <form>správnosti</form>
-<tag lemma="správnost_^(podle_něj._měřítek;_př._chlap,_míra,...)_(*3ý)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="správnost_^(*3ý)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln95044-045-p2s3w6">
 <src.rf>manual</src.rf>
@@ -378,7 +378,7 @@
 <LM>w#w-ln95044-045-p2s3w6</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS2---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS2---------1</tag>
 </m>
 <m id="m-ln95044-045-p2s3w7">
 <src.rf>manual</src.rf>
@@ -1556,7 +1556,7 @@
 <LM>w#w-ln95044-045-p4s1w28</LM>
 </w.rf>
 <form>práva</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNP4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNP4-----A----</tag>
 </m>
 <m id="m-ln95044-045-p4s1w29">
 <src.rf>manual</src.rf>
@@ -1767,7 +1767,7 @@
 <LM>w#w-ln95044-045-p4s1w54</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln95044-045-p4s1w55">
 <src.rf>manual</src.rf>
@@ -2497,7 +2497,7 @@
 <LM>w#w-ln95044-045-p4s3w32</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95044-045-p4s3w33">
 <src.rf>manual</src.rf>
@@ -3000,7 +3000,7 @@
 <LM>w#w-ln95044-045-p4s7w7</LM>
 </w.rf>
 <form>Rady</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95044-045-p4s7w8">
 <src.rf>manual</src.rf>
@@ -3251,7 +3251,7 @@
 <LM>w#w-ln95044-045-p4s7w39</LM>
 </w.rf>
 <form>chybějících</form>
-<tag lemma="chybějící_^(někde_něco_chybí)_(*4t)" src="orig" selected="1">AGFP6-----A----</tag>
+<tag lemma="chybějící_^(*4t)" src="orig" selected="1">AGFP6-----A----</tag>
 </m>
 <m id="m-ln95044-045-p4s7w40">
 <src.rf>manual</src.rf>

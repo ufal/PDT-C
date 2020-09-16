@@ -502,7 +502,7 @@
 <LM>w#w-ln95049-051-p2s4w10</LM>
 </w.rf>
 <form>orgány</form>
-<tag lemma="orgán" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-ln95049-051-p2s4w11">
 <src.rf>manual</src.rf>
@@ -640,7 +640,7 @@
 <LM>w#w-ln95049-051-p2s5w10</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95049-051-p2s5w11">
 <src.rf>manual</src.rf>

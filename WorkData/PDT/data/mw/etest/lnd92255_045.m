@@ -31,7 +31,7 @@
 <LM>w#w-lnd92255-045-p1s1w2</LM>
 </w.rf>
 <form>brání</form>
-<tag lemma="bránit_^(klást_překážky)" src="auto" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="bránit" src="auto" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92255-045-p1s1w3">
 <src.rf>manual</src.rf>
@@ -202,7 +202,7 @@
 <LM>w#w-lnd92255-045-p2s2w14</LM>
 </w.rf>
 <form>odpovědnost</form>
-<tag lemma="odpovědnost_^(kdo_za_něco_odpovídá)_(*3ý)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="odpovědnost_^(*3ý)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-lnd92255-045-p2s2w15">
 <src.rf>manual</src.rf>

@@ -649,7 +649,7 @@
 <LM>w#w-lnd94104-065-p1s4w17</LM>
 </w.rf>
 <form>výborů</form>
-<tag lemma="výbor" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-lnd94104-065-p1s4w18">
 <src.rf>manual</src.rf>
@@ -1956,7 +1956,7 @@
 <LM>w#w-lnd94104-065-p1s13w9</LM>
 </w.rf>
 <form>dala</form>
-<tag lemma="dát" src="orig" selected="1">VpQW----R-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-065-p1s13w10">
 <src.rf>manual</src.rf>
@@ -1980,7 +1980,7 @@
 <LM>w#w-lnd94104-065-p1s13w12</LM>
 </w.rf>
 <form>zelenou</form>
-<tag lemma="zelený" src="orig" selected="1">AAFS4----1A----</tag>
+<tag lemma="zelený_;o" src="orig" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-lnd94104-065-p1s13w13">
 <src.rf>manual</src.rf>
@@ -2078,7 +2078,7 @@
 <LM>w#w-lnd94104-065-p1s14w7</LM>
 </w.rf>
 <form>výbor</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94104-065-p1s14w8">
 <src.rf>manual</src.rf>

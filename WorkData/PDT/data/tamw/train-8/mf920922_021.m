@@ -67,7 +67,7 @@
 <LM>w#w-mf920922-021-p1s1w7</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-mf920922-021-p1s1w8">
 <src.rf>manual</src.rf>
@@ -410,7 +410,7 @@
 <LM>w#w-mf920922-021-p2s2w34</LM>
 </w.rf>
 <form>Kovo</form>
-<tag lemma="Kovo_;Y_;m" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Kovo_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf920922-021-p2s2w35">
 <src.rf>manual</src.rf>

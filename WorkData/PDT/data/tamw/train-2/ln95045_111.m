@@ -182,7 +182,7 @@
 <AM lemma="Ostravsko_;G" src="auto">NNNS1-----A----</AM>
 <AM lemma="Ostravsko_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Ostravsko_;G" src="auto">NNNS5-----A----</AM>
-<AM lemma="ostravský" src="auto" recommended="1" selected="1">S2--------A----</AM>
+<AM lemma="ostravsko" src="auto" recommended="1" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-111-p2s1Cw4">
@@ -674,7 +674,7 @@
 <LM>w#w-ln95045-111-p3s1w4</LM>
 </w.rf>
 <form>politiky</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95045-111-p3s1w5">
 <src.rf>manual</src.rf>
@@ -2319,7 +2319,7 @@
 <LM>w#w-ln95045-111-p4s9w8</LM>
 </w.rf>
 <form>ohlášené</form>
-<tag lemma="ohlášený_,a_^(*4sit)" src="auto" selected="1">AANS4----1A----</tag>
+<tag lemma="ohlášený_^(*2t)_(*4sit)" src="auto" selected="1">AANS4----1A----</tag>
 </m>
 <m id="m-ln95045-111-p4s9w9">
 <src.rf>manual</src.rf>
@@ -2351,7 +2351,7 @@
 <LM>w#w-ln95045-111-p4s9w12</LM>
 </w.rf>
 <form>zastavení</form>
-<tag lemma="zastavení-1_^([také_z._se];_uvést_do_klidu:_auto,...)_(*5it-1)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="zastavení_^(*3it)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln95045-111-p4s9w13">
 <src.rf>manual</src.rf>

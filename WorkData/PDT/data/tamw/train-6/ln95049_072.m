@@ -771,7 +771,7 @@
 <LM>w#w-ln95049-072-p4s2w9</LM>
 </w.rf>
 <form>raketomety</form>
-<tag lemma="raketomet_;m" src="orig" selected="1">NNIP7-----A----</tag>
+<tag lemma="raketomet" src="orig" selected="1">NNIP7-----A----</tag>
 </m>
 <m id="m-ln95049-072-p4s2w10">
 <src.rf>manual</src.rf>

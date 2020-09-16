@@ -353,7 +353,7 @@
 <form>Khana</form>
 <tag>
 <AM lemma="Khan_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Khan_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
+<AM lemma="Khan-1_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0247-001-p1s0W29-Ta">
@@ -371,7 +371,7 @@
 </w.rf>
 <form>svého</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8MS4----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8MS4----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8ZS2----------</AM>
 </tag>
 </m>
@@ -384,7 +384,7 @@
 <tag>
 <AM lemma="první" src="auto">CrIS2----------</AM>
 <AM lemma="první" src="auto">CrMS2----------</AM>
-<AM lemma="první" src="auto" recommended="1">CrMS4----------</AM>
+<AM lemma="první-1" src="auto" recommended="1">CrMS4----------</AM>
 <AM lemma="první" src="auto">CrNS2----------</AM>
 </tag>
 </m>
@@ -1275,7 +1275,7 @@
 </w.rf>
 <form>svých</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8XP2----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8XP2----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8XP6----------</AM>
 </tag>
 </m>
@@ -1643,7 +1643,7 @@
 <tag>
 <AM lemma="Khan_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Khan_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Khan_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Khan-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0247-001-p1s3W3-Ta">
@@ -1717,7 +1717,7 @@
 </w.rf>
 <form>svých</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8XP2----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8XP2----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8XP6----------</AM>
 </tag>
 </m>
@@ -2404,7 +2404,7 @@
 <tag>
 <AM lemma="práv_^(oprávněný)" src="auto">ACNS------A----</AM>
 <AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto">NNNS1-----A----</AM>
-<AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto" recommended="1">NNNS4-----A----</AM>
+<AM lemma="právo" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto">NNNS5-----A----</AM>
 </tag>
 </m>
@@ -2500,7 +2500,7 @@
 <tag>
 <AM lemma="Khan_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Khan_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Khan_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Khan-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0247-001-p1s5W3-Ta">
@@ -3125,7 +3125,7 @@
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP1FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP5FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9ZS1FS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9ZS1FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSZS5FS3-------</AM>
 </tag>
 </m>
@@ -3552,7 +3552,7 @@
 <AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto">NNNP1-----A----</AM>
 <AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto">NNNP4-----A----</AM>
 <AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto">NNNP5-----A----</AM>
-<AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="právo" src="auto" recommended="1">NNNS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0247-001-p1s8W11-Ta">
@@ -4083,7 +4083,7 @@
 <form>Khanem</form>
 <tag>
 <AM lemma="Khan_;G" src="auto">NNIS7-----A----</AM>
-<AM lemma="Khan_;Y" src="auto" recommended="1">NNMS7-----A----</AM>
+<AM lemma="Khan-1_;Y" src="auto" recommended="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0247-001-p1s10W12-Ta">
@@ -4383,7 +4383,7 @@
 <tag>
 <AM lemma="Khan_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Khan_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Khan_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Khan-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0247-001-p1s11W5-Ta">
@@ -4891,7 +4891,7 @@
 </w.rf>
 <form>Khanovi</form>
 <tag>
-<AM lemma="Khan_;Y" src="auto" recommended="1">NNMS3-----A----</AM>
+<AM lemma="Khan-1_;Y" src="auto" recommended="1">NNMS3-----A----</AM>
 <AM lemma="Khan_;Y" src="auto">NNMS6-----A----</AM>
 <AM lemma="Khanův_;Y_^(*2)" src="auto">AUMP1M---------</AM>
 <AM lemma="Khanův_;Y_^(*2)" src="auto">AUMP5M---------</AM>
@@ -5347,7 +5347,7 @@
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP1FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP5FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9ZS1FS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9ZS1FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSZS5FS3-------</AM>
 </tag>
 </m>

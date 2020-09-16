@@ -316,7 +316,7 @@
 <LM>w#w-ln95042-047-p2s2w3</LM>
 </w.rf>
 <form>rady</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95042-047-p2s2w4">
 <src.rf>manual</src.rf>
@@ -835,7 +835,7 @@
 <LM>w#w-ln95042-047-p2s5w13</LM>
 </w.rf>
 <form>bílých</form>
-<tag lemma="bílý" src="orig" selected="1">AAIP2----1A----</tag>
+<tag lemma="bílý_;o" src="orig" selected="1">AAIP2----1A----</tag>
 </m>
 <m id="m-ln95042-047-p2s5w14">
 <src.rf>manual</src.rf>

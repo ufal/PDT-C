@@ -779,7 +779,7 @@
 <LM>w#w-vesm9212-052-p2s3w41</LM>
 </w.rf>
 <form>Nobelovu</form>
-<tag lemma="Nobelův_^(*2)" src="auto" selected="1">AUFS4M---------</tag>
+<tag lemma="Nobelův_;Y_^(*2)" src="auto" selected="1">AUFS4M---------</tag>
 </m>
 <m id="m-vesm9212-052-p2s3w42">
 <src.rf>manual</src.rf>
@@ -1631,7 +1631,7 @@
 <LM>w#w-vesm9212-052-p3s3w18</LM>
 </w.rf>
 <form>třeba</form>
-<tag lemma="třeba-2" src="auto" selected="1">Db-------------</tag>
+<tag lemma="třeba-1" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-vesm9212-052-p3s3w19">
 <src.rf>manual</src.rf>
@@ -2042,7 +2042,7 @@
 <LM>w#w-vesm9212-052-p4s5w1</LM>
 </w.rf>
 <form>Druhý</form>
-<tag lemma="druhý" src="orig" selected="1">CrMS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrMS1----------</tag>
 </m>
 <m id="m-vesm9212-052-p4s5w2">
 <src.rf>manual</src.rf>
@@ -2324,7 +2324,7 @@
 <LM>w#w-vesm9212-052-p4s6w23</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-vesm9212-052-p4s6w24">
 <src.rf>manual</src.rf>
@@ -2342,7 +2342,7 @@
 <LM>w#w-vesm9212-052-p4s7w1</LM>
 </w.rf>
 <form>Druhý</form>
-<tag lemma="druhý" src="orig" selected="1">CrMS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrMS1----------</tag>
 </m>
 <m id="m-vesm9212-052-p4s7w2">
 <src.rf>manual</src.rf>
@@ -2390,7 +2390,7 @@
 <LM>w#w-vesm9212-052-p4s7w7</LM>
 </w.rf>
 <form>druhou</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS7----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS7----------</tag>
 </m>
 <m id="m-vesm9212-052-p4s7w8">
 <src.rf>manual</src.rf>

@@ -182,7 +182,7 @@
 <LM>w#w-mf930713-030-p2s2Aw4</LM>
 </w.rf>
 <form>našeho</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSZS2-P1-------</tag>
 </m>
 <m id="m-mf930713-030-p2s2Aw5">
 <src.rf>manual</src.rf>
@@ -356,7 +356,7 @@
 <LM>w#w-mf930713-030-p2s2Bw17</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-mf930713-030-p2s2Bw18">
 <src.rf>manual</src.rf>
@@ -414,7 +414,7 @@
 <LM>w#w-mf930713-030-p2s4w5</LM>
 </w.rf>
 <form>zlaté</form>
-<tag lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAFP4----1A----</tag>
+<tag lemma="zlatý-1_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAFP4----1A----</tag>
 </m>
 <m id="m-mf930713-030-p2s4w6">
 <src.rf>manual</src.rf>
@@ -616,7 +616,7 @@
 <LM>w#w-mf930713-030-p2s5w11</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP6-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP6-P1-------</tag>
 </m>
 <m id="m-mf930713-030-p2s5w12">
 <src.rf>manual</src.rf>
@@ -919,7 +919,7 @@
 <LM>w#w-mf930713-030-p2s7w1</LM>
 </w.rf>
 <form>Naši</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSMP1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSMP1-P1-------</tag>
 </m>
 <m id="m-mf930713-030-p2s7w2">
 <src.rf>manual</src.rf>
@@ -1233,7 +1233,7 @@
 <LM>w#w-mf930713-030-p2s9w16</LM>
 </w.rf>
 <form>kanoi</form>
-<tag lemma="kánoe" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="kanoe_,s_^(^DD**kánoe)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf930713-030-p2s9w17">
 <src.rf>manual</src.rf>
@@ -1371,7 +1371,7 @@
 <LM>w#w-mf930713-030-p2s11w7</LM>
 </w.rf>
 <form>kanoí</form>
-<tag lemma="kánoe" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="kanoe_,s_^(^DD**kánoe)" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-mf930713-030-p2s11w8">
 <src.rf>manual</src.rf>
@@ -1614,7 +1614,7 @@
 <LM>w#w-mf930713-030-p2s13w1</LM>
 </w.rf>
 <form>Náš</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSYS1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSYS1-P1-------</tag>
 </m>
 <m id="m-mf930713-030-p2s13w2">
 <src.rf>manual</src.rf>
@@ -2023,7 +2023,7 @@
 <LM>w#w-mf930713-030-p2s16w2</LM>
 </w.rf>
 <form>naší</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS2-P1-------</tag>
 </m>
 <m id="m-mf930713-030-p2s16w3">
 <src.rf>manual</src.rf>
@@ -2377,7 +2377,7 @@
 <LM>w#w-mf930713-030-p2s17w13</LM>
 </w.rf>
 <form>naši</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS4-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS4-P1-------</tag>
 </m>
 <m id="m-mf930713-030-p2s17w14">
 <src.rf>manual</src.rf>
@@ -2393,7 +2393,7 @@
 <LM>w#w-mf930713-030-p2s17w15</LM>
 </w.rf>
 <form>kanoí</form>
-<tag lemma="kánoe" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="kanoe_,s_^(^DD**kánoe)" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-mf930713-030-p2s17w16">
 <src.rf>manual</src.rf>
@@ -2467,7 +2467,7 @@
 <LM>w#w-mf930713-030-p2s18w5</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-mf930713-030-p2s18w6">
 <src.rf>manual</src.rf>
@@ -2587,7 +2587,7 @@
 <LM>w#w-mf930713-030-p2s18w20</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-mf930713-030-p2s18w21">
 <src.rf>manual</src.rf>
@@ -2772,7 +2772,7 @@
 <LM>w#w-mf930713-030-p2s19w14</LM>
 </w.rf>
 <form>kanoi</form>
-<tag lemma="kánoe" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="kanoe_,s_^(^DD**kánoe)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf930713-030-p2s19w15">
 <src.rf>manual</src.rf>
@@ -2870,7 +2870,7 @@
 <LM>w#w-mf930713-030-p2s20w10</LM>
 </w.rf>
 <form>zlaté</form>
-<tag lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAFS3----1A----</tag>
+<tag lemma="zlatý-1_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAFS3----1A----</tag>
 </m>
 <m id="m-mf930713-030-p2s20w11">
 <src.rf>manual</src.rf>
@@ -2923,7 +2923,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf930713-030-p2s21w4">
@@ -3023,7 +3023,7 @@
 <LM>w#w-mf930713-030-p2s21w15</LM>
 </w.rf>
 <form>naší</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS2-P1-------</tag>
 </m>
 <m id="m-mf930713-030-p2s21w16">
 <src.rf>manual</src.rf>
@@ -3249,7 +3249,7 @@
 <LM>w#w-mf930713-030-p2s22w17</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS1----------</tag>
 </m>
 <m id="m-mf930713-030-p2s22w18">
 <src.rf>manual</src.rf>
@@ -3273,7 +3273,7 @@
 <LM>w#w-mf930713-030-p2s22w20</LM>
 </w.rf>
 <form>druhý</form>
-<tag lemma="druhý" src="orig" selected="1">CrMS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrMS1----------</tag>
 </m>
 <m id="m-mf930713-030-p2s22w21">
 <src.rf>manual</src.rf>
@@ -3904,7 +3904,7 @@
 <LM>w#w-mf930713-030-p2s28w2</LM>
 </w.rf>
 <form>zlatou</form>
-<tag lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAFS4----1A----</tag>
+<tag lemma="zlatý-1_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-mf930713-030-p2s28w3">
 <src.rf>manual</src.rf>
@@ -3963,7 +3963,7 @@
 <LM>w#w-mf930713-030-p2s28w9</LM>
 </w.rf>
 <form>kanoi</form>
-<tag lemma="kánoe" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="kanoe_,s_^(^DD**kánoe)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf930713-030-p2s28w10">
 <src.rf>manual</src.rf>
@@ -4215,7 +4215,7 @@
 <LM>w#w-mf930713-030-p2s37w5</LM>
 </w.rf>
 <form>zlatou</form>
-<tag lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAFS4----1A----</tag>
+<tag lemma="zlatý-1_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-mf930713-030-p2s37w6">
 <src.rf>manual</src.rf>

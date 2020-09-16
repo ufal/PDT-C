@@ -1114,7 +1114,7 @@
 <form>datu</form>
 <tag>
 <AM lemma="datum_^(kalendářní)" src="auto">NNNS3-----A----</AM>
-<AM lemma="datum_^(kalendářní)" src="auto" recommended="1">NNNS6-----A----</AM>
+<AM lemma="datum-1_^(kalendářní)" src="auto" recommended="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1042-001-p1s4W11-Ta">

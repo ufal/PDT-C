@@ -252,7 +252,7 @@
 <LM>w#w-ln94206-146-p2s2w3</LM>
 </w.rf>
 <form>natural</form>
-<tag lemma="natural-1_;m" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="natural-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94206-146-p2s2w4">
 <src.rf>manual</src.rf>
@@ -405,7 +405,7 @@
 <LM>w#w-ln94206-146-p2s3w8</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP3----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP3----------</tag>
 </m>
 <m id="m-ln94206-146-p2s3w9">
 <src.rf>manual</src.rf>

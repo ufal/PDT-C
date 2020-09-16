@@ -261,7 +261,7 @@
 <LM>w#w-ln94200-31-p2s1Bw22</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94200-31-p2s1Bw23">
 <src.rf>manual</src.rf>
@@ -293,7 +293,7 @@
 <LM>w#w-ln94200-31-p2s1Bw26</LM>
 </w.rf>
 <form>Středomoří</form>
-<tag lemma="středomoří" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="Středomoří_;G" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln94200-31-p2s1Bw27">
 <src.rf>manual</src.rf>
@@ -1628,7 +1628,7 @@
 <LM>w#w-ln94200-31-p5s1w28</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln94200-31-p5s1w29">
 <src.rf>manual</src.rf>
@@ -1840,7 +1840,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>

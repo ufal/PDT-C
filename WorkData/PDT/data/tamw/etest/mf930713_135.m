@@ -87,7 +87,7 @@
 <LM>w#w-mf930713-135-p2s1Bw1</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrIS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS4----------</tag>
 </m>
 <m id="m-mf930713-135-p2s1Bw2">
 <src.rf>manual</src.rf>
@@ -119,7 +119,7 @@
 <LM>w#w-mf930713-135-p2s1Bw5</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-mf930713-135-p2s1Bw6">
 <src.rf>manual</src.rf>

@@ -35,7 +35,7 @@
 <LM>w#w-vesm9301-022-p1s1w3</LM>
 </w.rf>
 <form>vlhovci</form>
-<tag lemma="vlhovec_;U_^(živočich)" src="orig" selected="1">NNMP7-----A----</tag>
+<tag lemma="vlhovec_^(živočich)" src="orig" selected="1">NNMP7-----A----</tag>
 </m>
 </s>
 <s id="m-vesm9301-022-p2s1">
@@ -817,7 +817,7 @@
 <LM>w#w-vesm9301-022-p3s1w28</LM>
 </w.rf>
 <form>červenokřídlými</form>
-<tag lemma="červenokřídlý_;U" src="orig" selected="1">AAMP7----1A----</tag>
+<tag lemma="červenokřídlý" src="orig" selected="1">AAMP7----1A----</tag>
 </m>
 <m id="m-vesm9301-022-p3s1w29">
 <src.rf>manual</src.rf>
@@ -825,7 +825,7 @@
 <LM>w#w-vesm9301-022-p3s1w29</LM>
 </w.rf>
 <form>vlhovci</form>
-<tag lemma="vlhovec_;U_^(živočich)" src="orig" selected="1">NNMP7-----A----</tag>
+<tag lemma="vlhovec_^(živočich)" src="orig" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-vesm9301-022-p3s1w30">
 <src.rf>manual</src.rf>
@@ -859,7 +859,7 @@
 <LM>w#w-vesm9301-022-p3s2w1</LM>
 </w.rf>
 <form>Vlhovci</form>
-<tag lemma="vlhovec_;U_^(živočich)" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="vlhovec_^(živočich)" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-vesm9301-022-p3s2w2">
 <src.rf>manual</src.rf>
@@ -867,7 +867,7 @@
 <LM>w#w-vesm9301-022-p3s2w2</LM>
 </w.rf>
 <form>červenokřídlí</form>
-<tag lemma="červenokřídlý_;U" src="orig" selected="1">AAMP1----1A----</tag>
+<tag lemma="červenokřídlý" src="orig" selected="1">AAMP1----1A----</tag>
 </m>
 <m id="m-vesm9301-022-p3s2w3">
 <src.rf>manual</src.rf>

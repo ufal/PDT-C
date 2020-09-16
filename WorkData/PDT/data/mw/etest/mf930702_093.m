@@ -598,7 +598,7 @@
 <LM>w#w-mf930702-093-p3s1w14</LM>
 </w.rf>
 <form>dnu</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-mf930702-093-p3s1w15">
 <src.rf>manual</src.rf>

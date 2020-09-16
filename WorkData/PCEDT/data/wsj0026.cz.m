@@ -713,7 +713,7 @@
 </w.rf>
 <form>podanou</form>
 <tag>
-<AM lemma="podaný_^(něco_[někomu]_[někam])_(*2t)" src="auto" selected="1">AAFS4----1A----</AM>
+<AM lemma="podaný_^(*2t)" src="auto" selected="1">AAFS4----1A----</AM>
 <AM lemma="podaný_^(něco_[někomu]_[někam])_(*2t)" src="auto" recommended="1">AAFS7----1A----</AM>
 </tag>
 </m>
@@ -1021,7 +1021,7 @@
 </w.rf>
 <form>spadajících</form>
 <tag>
-<AM lemma="spadající-1_^(do_kategorie)_(*6t-1)" src="auto" recommended="1">AGFP2-----A----</AM>
+<AM lemma="spadající-1_^(*6t-1)" src="auto" recommended="1">AGFP2-----A----</AM>
 <AM lemma="spadající-1_^(do_kategorie)_(*6t-1)" src="auto">AGFP6-----A----</AM>
 <AM lemma="spadající-1_^(do_kategorie)_(*6t-1)" src="auto">AGIP2-----A----</AM>
 <AM lemma="spadající-1_^(do_kategorie)_(*6t-1)" src="auto">AGIP6-----A----</AM>

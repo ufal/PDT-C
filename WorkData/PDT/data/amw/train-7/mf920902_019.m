@@ -341,7 +341,7 @@
 <LM>w#w-mf920902-019-p2s2w8</LM>
 </w.rf>
 <form>vašim</form>
-<tag lemma="tvůj_^(přivlast.)" src="orig" selected="1">PSXP3-P2-------</tag>
+<tag lemma="váš" src="orig" selected="1">PSXP3-P2-------</tag>
 </m>
 <m id="m-mf920902-019-p2s2w9">
 <src.rf>manual</src.rf>
@@ -375,7 +375,7 @@
 <LM>w#w-mf920902-019-p2s3w2</LM>
 </w.rf>
 <form>My</form>
-<tag lemma="já" src="orig" selected="1">PP-P1--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P1--1-------</tag>
 </m>
 <m id="m-mf920902-019-p2s3w3">
 <src.rf>manual</src.rf>
@@ -467,7 +467,7 @@
 <LM>w#w-mf920902-019-p2s3w13</LM>
 </w.rf>
 <form>zpestření</form>
-<tag lemma="zpestření_,s_^(*2t)" src="auto" selected="1">NNNS4-----A----</tag>
+<tag lemma="zpestření_^(*2t)_(*3it)" src="auto" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-mf920902-019-p2s3w14">
 <src.rf>manual</src.rf>

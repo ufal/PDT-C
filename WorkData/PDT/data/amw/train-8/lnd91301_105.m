@@ -292,7 +292,7 @@
 <LM>w#w-lnd91301-105-p2s2Bw21</LM>
 </w.rf>
 <form>rukojmího</form>
-<tag lemma="rukojmí" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="rukojmí-1" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd91301-105-p2s2Bw22">
 <src.rf>manual</src.rf>
@@ -821,7 +821,7 @@
 <LM>w#w-lnd91301-105-p3s1w21</LM>
 </w.rf>
 <form>nalezené</form>
-<tag lemma="nalezený-2_^(*7ézt-2)" src="auto" selected="1">AAIP1----1A----</tag>
+<tag lemma="nalezený" src="auto" selected="1">AAIP1----1A----</tag>
 </m>
 <m id="m-lnd91301-105-p3s1w22">
 <src.rf>manual</src.rf>
@@ -1654,7 +1654,7 @@
 <LM>w#w-lnd91301-105-p4s1w8</LM>
 </w.rf>
 <form>rukojmího</form>
-<tag lemma="rukojmí" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="rukojmí-1" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd91301-105-p4s1w9">
 <src.rf>manual</src.rf>
@@ -1904,7 +1904,7 @@
 <LM>w#w-lnd91301-105-p4s2w18</LM>
 </w.rf>
 <form>rukojmími</form>
-<tag lemma="rukojmí" src="orig" selected="1">NNMP7-----A----</tag>
+<tag lemma="rukojmí-1" src="orig" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-lnd91301-105-p4s2w19">
 <src.rf>manual</src.rf>
@@ -1936,7 +1936,7 @@
 <LM>w#w-lnd91301-105-p4s2w22</LM>
 </w.rf>
 <form>zajetí</form>
-<tag lemma="zajetí_^(např._autem)_(*3mout)" src="auto" selected="1">NNNS6-----A----</tag>
+<tag lemma="zajetí_^(*1)_(*3mout)" src="auto" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-lnd91301-105-p4s2w23">
 <src.rf>manual</src.rf>

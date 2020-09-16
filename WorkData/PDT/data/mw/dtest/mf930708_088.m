@@ -358,7 +358,7 @@
 <LM>w#w-mf930708-088-p4s2w8</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8YP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8YP4---------1</tag>
 </m>
 <m id="m-mf930708-088-p4s2w9">
 <src.rf>manual</src.rf>
@@ -608,7 +608,7 @@
 <form>tisíci</form>
 <tag>
 <AM lemma="tisíc-2`1000" src="orig">NNIP7-----A----</AM>
-<AM lemma="tisíc-2`1000" src="manual" selected="1">CzIP7----------</AM>
+<AM lemma="tisíc`1000" src="manual" selected="1">CzIP7----------</AM>
 </tag>
 </m>
 <m id="m-mf930708-088-p4s4w12">
@@ -1243,7 +1243,7 @@
 <LM>w#w-mf930708-088-p5s1w5</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-mf930708-088-p5s1w6">
 <src.rf>manual</src.rf>
@@ -1251,7 +1251,7 @@
 <LM>w#w-mf930708-088-p5s1w6</LM>
 </w.rf>
 <form>vězení</form>
-<tag lemma="vězení_,a_^(místo_výkonu_trestu)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="vězení_^(místo_výkonu_trestu)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-mf930708-088-p5s1w7">
 <src.rf>manual</src.rf>
@@ -1443,7 +1443,7 @@
 <LM>w#w-mf930708-088-p5s2w3</LM>
 </w.rf>
 <form>letům</form>
-<tag lemma="rok" src="orig" selected="1">NNNP3-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP3-----A----</tag>
 </m>
 <m id="m-mf930708-088-p5s2w4">
 <src.rf>manual</src.rf>
@@ -1534,7 +1534,7 @@
 <LM>w#w-mf930708-088-p5s2w14</LM>
 </w.rf>
 <form>vězení</form>
-<tag lemma="vězení_,a_^(místo_výkonu_trestu)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="vězení_^(místo_výkonu_trestu)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-mf930708-088-p5s2w15">
 <src.rf>manual</src.rf>
@@ -1550,7 +1550,7 @@
 <LM>w#w-mf930708-088-p5s2w16</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-mf930708-088-p5s2w17">
 <src.rf>manual</src.rf>
@@ -1831,7 +1831,7 @@
 <LM>w#w-mf930708-088-p6s3w6</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8NS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8NS4---------1</tag>
 </m>
 <m id="m-mf930708-088-p6s3w7">
 <src.rf>manual</src.rf>

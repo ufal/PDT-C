@@ -207,7 +207,7 @@
 <LM>w#w-mf920925-106-p2s2w15</LM>
 </w.rf>
 <form>dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920925-106-p2s2w16">
 <src.rf>manual</src.rf>
@@ -297,7 +297,7 @@
 <LM>w#w-mf920925-106-p3s1w3</LM>
 </w.rf>
 <form>rada</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920925-106-p3s1w4">
 <src.rf>manual</src.rf>
@@ -449,7 +449,7 @@
 <LM>w#w-mf920925-106-p3s1w23</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-106-p3s1w24">
 <src.rf>manual</src.rf>
@@ -457,7 +457,7 @@
 <LM>w#w-mf920925-106-p3s1w24</LM>
 </w.rf>
 <form>rady</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920925-106-p3s1w25">
 <src.rf>manual</src.rf>
@@ -728,7 +728,7 @@
 <LM>w#w-mf920925-106-p3s3w7</LM>
 </w.rf>
 <form>Gagra</form>
-<tag lemma="Gagra_;G" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Gagra-1_;G" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920925-106-p3s3w8">
 <src.rf>manual</src.rf>

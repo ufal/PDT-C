@@ -83,7 +83,7 @@
 <LM>w#w-lnd94103-128-p1s1w9</LM>
 </w.rf>
 <form>ozonu</form>
-<tag lemma="ozón" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="ozon_,s_^(^DD**ozón)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd94103-128-p1s1w10">
 <src.rf>manual</src.rf>

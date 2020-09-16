@@ -1018,7 +1018,7 @@
 <LM>w#w-ln94211-16-p5s1w7</LM>
 </w.rf>
 <form>zastavení</form>
-<tag lemma="zastavení-1_^([také_z._se];_uvést_do_klidu:_auto,...)_(*5it-1)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="zastavení_^(*3it)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94211-16-p5s1w8">
 <src.rf>manual</src.rf>

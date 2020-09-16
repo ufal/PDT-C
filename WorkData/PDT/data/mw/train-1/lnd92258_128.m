@@ -770,7 +770,7 @@
 <LM>w#w-lnd92258-128-p11s2w1</LM>
 </w.rf>
 <form>Olymp</form>
-<tag lemma="Olymp_;G" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Olymp_;G_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92258-128-p11s2w2">
 <src.rf>manual</src.rf>
@@ -1110,7 +1110,7 @@
 <LM>w#w-lnd92258-128-p15s1w19</LM>
 </w.rf>
 <form>Eger</form>
-<tag lemma="Eger_;G" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Eger-2_;G" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92258-128-p15s1w20">
 <src.rf>manual</src.rf>
@@ -1305,7 +1305,7 @@
 <LM>w#w-lnd92258-128-p17s2w1</LM>
 </w.rf>
 <form>Eger</form>
-<tag lemma="Eger_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Eger-2_;G" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92258-128-p17s2w2">
 <src.rf>manual</src.rf>
@@ -1628,7 +1628,7 @@
 <LM>w#w-lnd92258-128-p23s2w1</LM>
 </w.rf>
 <form>Olymp</form>
-<tag lemma="Olymp_;G" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Olymp_;G_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92258-128-p23s2w2">
 <src.rf>manual</src.rf>

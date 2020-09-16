@@ -132,7 +132,7 @@
 <LM>w#w-mf930708-072-p3s1w3</LM>
 </w.rf>
 <form>UMĚNÍ</form>
-<tag lemma="umění_^(mít_schopnost_něco_dělat)_(*2t)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="umění_^(*2t)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-mf930708-072-p3s1w4">
 <src.rf>manual</src.rf>
@@ -365,7 +365,7 @@
 <LM>w#w-mf930708-072-p4s1w5</LM>
 </w.rf>
 <form>Poruba</form>
-<tag lemma="Poruba_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Poruba-1_;G" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930708-072-p4s1w6">
 <src.rf>manual</src.rf>
@@ -1030,7 +1030,7 @@
 <LM>w#w-mf930708-072-p8s1w13</LM>
 </w.rf>
 <form>správní</form>
-<tag lemma="správní_^(např._poplatek;_rada;_řád;...)" src="orig" selected="1">AAFS2----1A----</tag>
+<tag lemma="správní_^(správní_rada;_řád)" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-mf930708-072-p8s1w14">
 <src.rf>manual</src.rf>
@@ -1278,7 +1278,7 @@
 <LM>w#w-mf930708-072-p11s2w2</LM>
 </w.rf>
 <form>Chrásková</form>
-<tag lemma="Chrásková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Chrásková_;Y_^(*3a)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930708-072-p11s2w3">
 <src.rf>manual</src.rf>
@@ -1540,7 +1540,7 @@
 <LM>w#w-mf930708-072-p13s1w2</LM>
 </w.rf>
 <form>UMĚNÍ</form>
-<tag lemma="umění_^(mít_schopnost_něco_dělat)_(*2t)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="umění_^(*2t)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-mf930708-072-p13s1w3">
 <src.rf>manual</src.rf>
@@ -1775,7 +1775,7 @@
 <LM>w#w-mf930708-072-p16s1w4</LM>
 </w.rf>
 <form>PORUBA</form>
-<tag lemma="Poruba_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Poruba-1_;G" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930708-072-p16s1w5">
 <src.rf>manual</src.rf>
@@ -2805,7 +2805,7 @@
 <LM>w#w-mf930708-072-p18s4w44</LM>
 </w.rf>
 <form>kuchyní</form>
-<tag lemma="kuchyně" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="kuchyň" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-mf930708-072-p18s4w45">
 <src.rf>manual</src.rf>
@@ -2962,7 +2962,7 @@
 <LM>w#w-mf930708-072-p19s1w16</LM>
 </w.rf>
 <form>podání</form>
-<tag lemma="podání_^(něco_[někomu]_[někam])_(*3at)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="podání_^(*3at)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-mf930708-072-p19s1w17">
 <src.rf>manual</src.rf>
@@ -4288,7 +4288,7 @@
 <LM>w#w-mf930708-072-p28s2w3</LM>
 </w.rf>
 <form>spravedlnost</form>
-<tag lemma="spravedlnost_^(*3ý)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="spravedlnost-1_^(*5ý-1)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930708-072-p28s2w4">
 <src.rf>manual</src.rf>
@@ -4594,7 +4594,7 @@
 <LM>w#w-mf930708-072-p30s1w2</LM>
 </w.rf>
 <form>Bílá</form>
-<tag lemma="bílý" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="bílý_;o" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-mf930708-072-p30s1w3">
 <src.rf>manual</src.rf>
@@ -4724,7 +4724,7 @@
 <LM>w#w-mf930708-072-p30s2w9</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP2-P1-------</tag>
 </m>
 <m id="m-mf930708-072-p30s2w10">
 <src.rf>manual</src.rf>
@@ -5493,7 +5493,7 @@
 <LM>w#w-mf930708-072-p40s2w5</LM>
 </w.rf>
 <form>umění</form>
-<tag lemma="umění_^(mít_schopnost_něco_dělat)_(*2t)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="umění_^(*2t)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-mf930708-072-p40s2w6">
 <src.rf>manual</src.rf>
@@ -5999,7 +5999,7 @@
 <LM>w#w-mf930708-072-p42s1w11</LM>
 </w.rf>
 <form>Umění</form>
-<tag lemma="umění_^(mít_schopnost_něco_dělat)_(*2t)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="umění_^(*2t)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf930708-072-p42s1w12">
 <src.rf>manual</src.rf>
@@ -6196,7 +6196,7 @@
 <LM>w#w-mf930708-072-p43s1w13</LM>
 </w.rf>
 <form>modely</form>
-<tag lemma="model" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="model-1" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-mf930708-072-p43s1w14">
 <src.rf>manual</src.rf>
@@ -6378,7 +6378,7 @@
 <LM>w#w-mf930708-072-p46s1w3</LM>
 </w.rf>
 <form>Beskydy</form>
-<tag lemma="Beskydy_;G" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="Beskydy-2_;G" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-mf930708-072-p46s1w4">
 <src.rf>manual</src.rf>
@@ -6434,7 +6434,7 @@
 <LM>w#w-mf930708-072-p46s1w10</LM>
 </w.rf>
 <form>umění</form>
-<tag lemma="umění_^(mít_schopnost_něco_dělat)_(*2t)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="umění_^(*2t)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf930708-072-p46s1w11">
 <src.rf>manual</src.rf>
@@ -7049,7 +7049,7 @@
 <LM>w#w-mf930708-072-p50s1w9</LM>
 </w.rf>
 <form>kuchyni</form>
-<tag lemma="kuchyně" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="kuchyň" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf930708-072-p50s1w10">
 <src.rf>manual</src.rf>
@@ -7057,7 +7057,7 @@
 <LM>w#w-mf930708-072-p50s1w10</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP2-P1-------</tag>
 </m>
 <m id="m-mf930708-072-p50s1w11">
 <src.rf>manual</src.rf>
@@ -8289,7 +8289,7 @@
 <LM>w#w-mf930708-072-p64s1w6</LM>
 </w.rf>
 <form>Aleše</form>
-<tag lemma="Aleš-1_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Aleš_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930708-072-p64s1w7">
 <src.rf>manual</src.rf>
@@ -8323,7 +8323,7 @@
 <LM>w#w-mf930708-072-p65s1w3</LM>
 </w.rf>
 <form>DĚTI</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 </s>
 <s id="m-mf930708-072-p66s1">
@@ -8357,7 +8357,7 @@
 <LM>w#w-mf930708-072-p66s1w4</LM>
 </w.rf>
 <form>PORUBA</form>
-<tag lemma="Poruba_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Poruba-1_;G" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930708-072-p66s1w5">
 <src.rf>manual</src.rf>

@@ -56,7 +56,7 @@
 <LM>w#w-ln94209-88-p2s1w4</LM>
 </w.rf>
 <form>Bugno</form>
-<tag lemma="Bugno_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bugno-2_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-88-p2s1w5">
 <src.rf>manual</src.rf>
@@ -194,7 +194,7 @@
 <LM>w#w-ln94209-88-p2s2w7</LM>
 </w.rf>
 <form>druhém</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS6----------</tag>
 </m>
 <m id="m-ln94209-88-p2s2w8">
 <src.rf>manual</src.rf>
@@ -601,7 +601,7 @@
 <LM>w#w-ln94209-88-p3s2w8</LM>
 </w.rf>
 <form>Costa</form>
-<tag lemma="Costa_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Costa-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-88-p3s2w9">
 <src.rf>manual</src.rf>

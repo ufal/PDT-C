@@ -123,7 +123,7 @@
 <LM>w#w-lnd92256-014-p1s1w14</LM>
 </w.rf>
 <form>managementu</form>
-<tag lemma="management_^(vedení,_manažment;_angl.)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="management_,s_^(^DD**manažment)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92256-014-p1s1w15">
 <src.rf>manual</src.rf>
@@ -384,7 +384,7 @@
 <LM>w#w-lnd92256-014-p1s2w18</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd92256-014-p1s2w19">
 <src.rf>manual</src.rf>
@@ -432,7 +432,7 @@
 <LM>w#w-lnd92256-014-p1s2w24</LM>
 </w.rf>
 <form>správní</form>
-<tag lemma="správní_^(např._poplatek;_rada;_řád;...)" src="orig" selected="1">AAFS2----1A----</tag>
+<tag lemma="správní_^(správní_rada;_řád)" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-lnd92256-014-p1s2w25">
 <src.rf>manual</src.rf>
@@ -440,7 +440,7 @@
 <LM>w#w-lnd92256-014-p1s2w25</LM>
 </w.rf>
 <form>rady</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92256-014-p1s2w26">
 <src.rf>manual</src.rf>

@@ -875,7 +875,7 @@
 <LM>w#w-ln94205-51-p3s2w7</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-ln94205-51-p3s2w8">
 <src.rf>manual</src.rf>

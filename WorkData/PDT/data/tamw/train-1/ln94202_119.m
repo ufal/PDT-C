@@ -190,7 +190,7 @@
 <LM>w#w-ln94202-119-p2s1Bw12</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-ln94202-119-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -360,7 +360,7 @@
 <LM>w#w-ln94202-119-p2s2w14</LM>
 </w.rf>
 <form>druhá</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS1----------</tag>
 </m>
 <m id="m-ln94202-119-p2s2w15">
 <src.rf>manual</src.rf>
@@ -418,7 +418,7 @@
 <form>Silva</form>
 <tag>
 <AM lemma="Silva_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Silva_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Silva-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-119-p2s2w22">
@@ -701,7 +701,7 @@
 <LM>w#w-ln94202-119-p2s3w24</LM>
 </w.rf>
 <form>cestě</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94202-119-p2s3w25">
 <src.rf>manual</src.rf>

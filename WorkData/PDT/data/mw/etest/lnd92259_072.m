@@ -97,7 +97,7 @@
 <LM>w#w-lnd92259-072-p3s2w4</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrIS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS4----------</tag>
 </m>
 <m id="m-lnd92259-072-p3s2w5">
 <src.rf>manual</src.rf>
@@ -554,7 +554,7 @@
 <LM>w#w-lnd92259-072-p3s5w9</LM>
 </w.rf>
 <form>vězení</form>
-<tag lemma="vězení_,a_^(místo_výkonu_trestu)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="vězení_^(místo_výkonu_trestu)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-lnd92259-072-p3s5w10">
 <src.rf>manual</src.rf>

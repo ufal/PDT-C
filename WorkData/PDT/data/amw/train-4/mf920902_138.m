@@ -229,7 +229,7 @@
 <LM>w#w-mf920902-138-p3s2w9</LM>
 </w.rf>
 <form>Hnutí</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-mf920902-138-p3s2w10">
 <src.rf>manual</src.rf>
@@ -367,7 +367,7 @@
 <LM>w#w-mf920902-138-p3s3w14</LM>
 </w.rf>
 <form>členů</form>
-<tag lemma="člen" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf920902-138-p3s3w15">
 <src.rf>manual</src.rf>
@@ -691,7 +691,7 @@
 <LM>w#w-mf920902-138-p3s5w21</LM>
 </w.rf>
 <form>ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf920902-138-p3s5w22">
 <src.rf>manual</src.rf>
@@ -824,7 +824,7 @@
 <LM>w#w-mf920902-138-p3s6w12</LM>
 </w.rf>
 <form>hnutí</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-mf920902-138-p3s6w13">
 <src.rf>manual</src.rf>
@@ -928,7 +928,7 @@
 <LM>w#w-mf920902-138-p3s6w25</LM>
 </w.rf>
 <form>politice</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-mf920902-138-p3s6w26">
 <src.rf>manual</src.rf>
@@ -1235,7 +1235,7 @@
 <LM>w#w-mf920902-138-p3s8w2</LM>
 </w.rf>
 <form>Hnutí</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-mf920902-138-p3s8w3">
 <src.rf>manual</src.rf>

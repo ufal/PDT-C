@@ -44,7 +44,7 @@
 <LM>w#w-lnd94104-012-p1s1w4</LM>
 </w.rf>
 <form>přijetí</form>
-<tag lemma="přijetí_^(*3mout)" src="auto" selected="1">NNNS2-----A----</tag>
+<tag lemma="přijetí_^(*1)_(*3mout)" src="auto" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-lnd94104-012-p1s1w5">
 <src.rf>manual</src.rf>

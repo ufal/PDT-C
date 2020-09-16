@@ -51,7 +51,7 @@
 <LM>w#w-ln94204-42-p1s1w5</LM>
 </w.rf>
 <form>strážné</form>
-<tag lemma="strážný_^(kdo_stráží,_člověk)" src="auto" selected="1">NNMP4-----A----</tag>
+<tag lemma="strážný-1_^(kdo_stráží,_člověk)" src="auto" selected="1">NNMP4-----A----</tag>
 </m>
 </s>
 <s id="m-ln94204-42-p2s1A">
@@ -106,7 +106,7 @@
 <LM>w#w-ln94204-42-p2s1Bw1</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrIS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS1----------</tag>
 </m>
 <m id="m-ln94204-42-p2s1Bw2">
 <src.rf>manual</src.rf>
@@ -957,7 +957,7 @@
 <LM>w#w-ln94204-42-p2s7w4</LM>
 </w.rf>
 <form>střežení</form>
-<tag lemma="střežení_^(hlídat)_(*3it)" src="auto" selected="1">NNNS4-----A----</tag>
+<tag lemma="střežení_^(*3it)" src="auto" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln94204-42-p2s7w5">
 <src.rf>manual</src.rf>

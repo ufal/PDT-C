@@ -590,7 +590,7 @@
 <LM>w#w-ln94203-41-p3s1w12</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln94203-41-p3s1w13">
 <src.rf>manual</src.rf>
@@ -874,7 +874,7 @@
 <LM>w#w-ln94203-41-p4s1w12</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln94203-41-p4s1w13">
 <src.rf>manual</src.rf>

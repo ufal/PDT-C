@@ -952,7 +952,7 @@
 <LM>w#w-ln95042-084-p3s5w3</LM>
 </w.rf>
 <form>dal</form>
-<tag lemma="dát" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95042-084-p3s5w4">
 <src.rf>manual</src.rf>

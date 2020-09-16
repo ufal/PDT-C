@@ -364,7 +364,7 @@
 <LM>w#w-lnd94104-040-p1s4Aw13</LM>
 </w.rf>
 <form>iniciátorem</form>
-<tag lemma="iniciátor" src="auto" selected="1">NNMS7-----A----</tag>
+<tag lemma="iniciátor-1" src="auto" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd94104-040-p1s4Aw14">
 <src.rf>manual</src.rf>
@@ -676,7 +676,7 @@
 <LM>w#w-lnd94104-040-p1s4Bw35</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd94104-040-p1s4Bw36">
 <src.rf>manual</src.rf>
@@ -726,7 +726,7 @@
 <LM>w#w-lnd94104-040-p1s5w2</LM>
 </w.rf>
 <form>Dobalova</form>
-<tag lemma="Dobalův_;Y_^(*2a)" src="orig" selected="1">AUIS2M---------</tag>
+<tag lemma="Dobalův_;Y_^(*2)_(*2a)" src="orig" selected="1">AUIS2M---------</tag>
 </m>
 <m id="m-lnd94104-040-p1s5w3">
 <src.rf>manual</src.rf>
@@ -1414,7 +1414,7 @@
 <LM>w#w-lnd94104-040-p1s8w20</LM>
 </w.rf>
 <form>členů</form>
-<tag lemma="člen" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd94104-040-p1s8w21">
 <src.rf>manual</src.rf>

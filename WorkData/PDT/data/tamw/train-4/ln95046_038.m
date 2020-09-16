@@ -444,7 +444,7 @@
 <LM>w#w-ln95046-038-p2s3w6</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-ln95046-038-p2s3w7">
 <src.rf>manual</src.rf>

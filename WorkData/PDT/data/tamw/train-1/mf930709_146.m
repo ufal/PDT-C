@@ -311,7 +311,7 @@
 <LM>w#w-mf930709-146-p2s3w2</LM>
 </w.rf>
 <form>jejích</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP2FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XP2FS3-------</tag>
 </m>
 <m id="m-mf930709-146-p2s3w3">
 <src.rf>manual</src.rf>
@@ -630,7 +630,7 @@
 </w.rf>
 <form>Blondin</form>
 <tag>
-<AM lemma="Blondin_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Blondin-2_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Blondin_;Y_^(*2a)" src="auto" recommended="1">AUIS1F---------</AM>
 <AM lemma="Blondin_;Y_^(*2a)" src="auto">AUIS4F---------</AM>
 <AM lemma="Blondin_;Y_^(*2a)" src="auto">AUIS5F---------</AM>
@@ -1518,7 +1518,7 @@
 <LM>w#w-mf930709-146-p8s1Aw2</LM>
 </w.rf>
 <form>York</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="York-2_;G_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930709-146-p8s1Aw3">
 <src.rf>manual</src.rf>
@@ -1720,7 +1720,7 @@
 <LM>w#w-mf930709-146-p8s2w6</LM>
 </w.rf>
 <form>Yorku</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="York-2_;G_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-mf930709-146-p8s2w7">
 <src.rf>manual</src.rf>

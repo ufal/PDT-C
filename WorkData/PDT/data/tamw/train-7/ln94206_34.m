@@ -1055,7 +1055,7 @@
 <LM>w#w-ln94206-34-p3s3w4</LM>
 </w.rf>
 <form>zveřejnění</form>
-<tag lemma="zveřejnění_^(*3it)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="zveřejnění_^(*2t)_(*3it)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-ln94206-34-p3s3w5">
 <src.rf>manual</src.rf>
@@ -1793,7 +1793,7 @@
 <LM>w#w-ln94206-34-p4s1w6</LM>
 </w.rf>
 <form>právo</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln94206-34-p4s1w7">
 <src.rf>manual</src.rf>
@@ -1923,7 +1923,7 @@
 <LM>w#w-ln94206-34-p4s2w3</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-34-p4s2w4">
 <src.rf>manual</src.rf>
@@ -2267,7 +2267,7 @@
 <LM>w#w-ln94206-34-p5s1w12</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-34-p5s1w13">
 <src.rf>manual</src.rf>
@@ -2336,7 +2336,7 @@
 <form>radě</form>
 <tag>
 <AM lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig">NNFS6-----A----</AM>
-<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu¬_poradní_sbor)" src="manual" selected="1">NNFS6-----A----</AM>
+<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="manual" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-34-p5s1w21">

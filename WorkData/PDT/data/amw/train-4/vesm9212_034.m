@@ -1346,7 +1346,7 @@
 <LM>w#w-vesm9212-034-p2s7w6</LM>
 </w.rf>
 <form>svá</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8NP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8NP4---------1</tag>
 </m>
 <m id="m-vesm9212-034-p2s7w7">
 <src.rf>manual</src.rf>

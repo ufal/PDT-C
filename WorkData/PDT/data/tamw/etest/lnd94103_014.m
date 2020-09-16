@@ -51,7 +51,7 @@
 <LM>w#w-lnd94103-014-p1s1w5</LM>
 </w.rf>
 <form>nestojí</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VB-P---3P-NAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VB-P---3P-NAI--</tag>
 </m>
 </s>
 <s id="m-lnd94103-014-p1s2">
@@ -511,7 +511,7 @@
 <LM>w#w-lnd94103-014-p1s4w15</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-lnd94103-014-p1s4w16">
 <src.rf>manual</src.rf>
@@ -725,7 +725,7 @@
 <LM>w#w-lnd94103-014-p1s4w41</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd94103-014-p1s4w42">
 <src.rf>manual</src.rf>
@@ -767,7 +767,7 @@
 <LM>w#w-lnd94103-014-p1s6w2</LM>
 </w.rf>
 <form>spravedlnosti</form>
-<tag lemma="spravedlnost_^(*3ý)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="spravedlnost-1_^(*5ý-1)" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94103-014-p1s6w3">
 <src.rf>manual</src.rf>
@@ -1167,7 +1167,7 @@
 <LM>w#w-lnd94103-014-p1s8w10</LM>
 </w.rf>
 <form>brání</form>
-<tag lemma="bránit_^(klást_překážky)" src="auto" selected="1">VB-P---3P-AAI--</tag>
+<tag lemma="bránit" src="auto" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd94103-014-p1s8w11">
 <src.rf>manual</src.rf>

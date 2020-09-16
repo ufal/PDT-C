@@ -27,7 +27,7 @@
 <LM>w#w-ln95043-020-p1s1w2</LM>
 </w.rf>
 <form>brání</form>
-<tag lemma="bránit_^(klást_překážky)" src="auto" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="bránit" src="auto" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95043-020-p1s1w3">
 <src.rf>manual</src.rf>
@@ -202,7 +202,7 @@
 <LM>w#w-ln95043-020-p2s1Bw14</LM>
 </w.rf>
 <form>Phoenixu</form>
-<tag lemma="Phoenix-1_;G" src="auto" selected="1">NNIS6-----A----</tag>
+<tag lemma="Phoenix-1_;G_;m" src="auto" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln95043-020-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -218,7 +218,7 @@
 <LM>w#w-ln95043-020-p2s1Bw16</LM>
 </w.rf>
 <form>nejlepším</form>
-<tag lemma="dobrý" src="orig" selected="1">AANS7----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AANS7----3A----</tag>
 </m>
 <m id="m-ln95043-020-p2s1Bw17">
 <src.rf>manual</src.rf>
@@ -448,7 +448,7 @@
 <LM>w#w-ln95043-020-p2s3w6</LM>
 </w.rf>
 <form>Phoenixem</form>
-<tag lemma="Phoenix-1_;G" src="auto" selected="1">NNIS7-----A----</tag>
+<tag lemma="Phoenix-1_;G_;m" src="auto" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-ln95043-020-p2s3w7">
 <src.rf>manual</src.rf>
@@ -637,7 +637,7 @@
 <LM>w#w-ln95043-020-p3s1w17</LM>
 </w.rf>
 <form>druhém</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-ln95043-020-p3s1w18">
 <src.rf>manual</src.rf>
@@ -682,7 +682,7 @@
 <LM>w#w-ln95043-020-p3s2w3</LM>
 </w.rf>
 <form>Yorku</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="York-2_;G_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln95043-020-p3s2w4">
 <src.rf>manual</src.rf>
@@ -757,7 +757,7 @@
 <LM>w#w-ln95043-020-p3s2w12</LM>
 </w.rf>
 <form>ač</form>
-<tag lemma="ač" src="orig" selected="1">J,-------------</tag>
+<tag lemma="ač-1" src="orig" selected="1">J,-------------</tag>
 </m>
 <m id="m-ln95043-020-p3s2w13">
 <src.rf>manual</src.rf>
@@ -847,7 +847,7 @@
 <LM>w#w-ln95043-020-p3s3w2</LM>
 </w.rf>
 <form>Orlanda</form>
-<tag lemma="Orlando_;G" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="Orlando-1_;G" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln95043-020-p3s3w3">
 <src.rf>manual</src.rf>
@@ -863,7 +863,7 @@
 <LM>w#w-ln95043-020-p3s3w4</LM>
 </w.rf>
 <form>Philadelphií</form>
-<tag lemma="Philadelphia_;G" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Philadelphie_;G_,s_^(^DD**Filadelfie)" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln95043-020-p3s3w5">
 <src.rf>manual</src.rf>
@@ -1099,7 +1099,7 @@
 <LM>w#w-ln95043-020-p4s1w15</LM>
 </w.rf>
 <form>nejlepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAFS1----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAFS1----3A----</tag>
 </m>
 <m id="m-ln95043-020-p4s1w16">
 <src.rf>manual</src.rf>

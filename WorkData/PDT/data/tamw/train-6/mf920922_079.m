@@ -111,7 +111,7 @@
 <LM>w#w-mf920922-079-p2s2w5</LM>
 </w.rf>
 <form>zpochybnění</form>
-<tag lemma="zpochybnění_,s_^(*3it)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="zpochybnění_^(*2t)_(*3it)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-mf920922-079-p2s2w6">
 <src.rf>manual</src.rf>
@@ -749,7 +749,7 @@
 <LM>w#w-mf920922-079-p2s4w9</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS7----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS7----------</tag>
 </m>
 <m id="m-mf920922-079-p2s4w10">
 <src.rf>manual</src.rf>

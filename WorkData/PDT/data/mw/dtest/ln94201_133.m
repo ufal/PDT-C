@@ -919,7 +919,7 @@
 <LM>w#w-ln94201-133-p2s7w13</LM>
 </w.rf>
 <form>zlatého</form>
-<tag lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AANS2----1A----</tag>
+<tag lemma="zlatý-1_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AANS2----1A----</tag>
 </m>
 <m id="m-ln94201-133-p2s7w14">
 <src.rf>manual</src.rf>
@@ -1155,7 +1155,7 @@
 <LM>w#w-ln94201-133-p3s2w19</LM>
 </w.rf>
 <form>druhém</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-ln94201-133-p3s2w20">
 <src.rf>manual</src.rf>
@@ -1211,7 +1211,7 @@
 <LM>w#w-ln94201-133-p3s2w26</LM>
 </w.rf>
 <form>zlatého</form>
-<tag lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AANS2----1A----</tag>
+<tag lemma="zlatý-1_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AANS2----1A----</tag>
 </m>
 <m id="m-ln94201-133-p3s2w27">
 <src.rf>manual</src.rf>
@@ -1514,7 +1514,7 @@
 <LM>w#w-ln94201-133-p3s4w17</LM>
 </w.rf>
 <form>zlatém</form>
-<tag lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AANS6----1A----</tag>
+<tag lemma="zlatý-1_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AANS6----1A----</tag>
 </m>
 <m id="m-ln94201-133-p3s4w18">
 <src.rf>manual</src.rf>

@@ -38,7 +38,7 @@
 </w.rf>
 <form>druhého</form>
 <tag>
-<AM lemma="druhý" src="auto" recommended="1">CrIS2----------</AM>
+<AM lemma="druhý`2" src="auto" recommended="1">CrIS2----------</AM>
 <AM lemma="druhý" src="auto">CrMS2----------</AM>
 <AM lemma="druhý" src="auto">CrMS4----------</AM>
 <AM lemma="druhý" src="auto">CrNS2----------</AM>
@@ -570,7 +570,7 @@
 <tag>
 <AM lemma="Pennzoil_;Y" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Pennzoil_;Y" src="auto">NNIS4-----A----</AM>
-<AM lemma="Pennzoil_;Y_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Pennzoil_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2352-001-p1s0W47-Ta">
@@ -901,7 +901,7 @@
 <tag>
 <AM lemma="Pennzoil_;Y" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Pennzoil_;Y" src="auto">NNIS4-----A----</AM>
-<AM lemma="Pennzoil_;Y_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Pennzoil_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2352-001-p1s2W4-Ta">
@@ -989,7 +989,7 @@
 <tag>
 <AM lemma="Pennzoil_;Y" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Pennzoil_;Y" src="auto">NNIS4-----A----</AM>
-<AM lemma="Pennzoil_;Y_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Pennzoil_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2352-001-p1s2W12-Ta">

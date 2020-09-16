@@ -367,7 +367,7 @@
 <LM>w#w-ln94206-104-p2s2w6</LM>
 </w.rf>
 <form>daly</form>
-<tag lemma="dát" src="orig" selected="1">VpTP----R-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln94206-104-p2s2w7">
 <src.rf>manual</src.rf>
@@ -537,7 +537,7 @@
 <LM>w#w-ln94206-104-p2s3w2</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-ln94206-104-p2s3w3">
 <src.rf>manual</src.rf>
@@ -781,7 +781,7 @@
 <LM>w#w-ln94206-104-p2s5w4</LM>
 </w.rf>
 <form>spravedlnosti</form>
-<tag lemma="spravedlnost_^(*3ý)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="spravedlnost-1_^(*5ý-1)" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94206-104-p2s5w5">
 <src.rf>manual</src.rf>
@@ -1142,7 +1142,7 @@
 <LM>w#w-ln94206-104-p3s3w8</LM>
 </w.rf>
 <form>činitelé</form>
-<tag lemma="činitel" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="činitel-1" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln94206-104-p3s3w9">
 <src.rf>manual</src.rf>
@@ -1216,7 +1216,7 @@
 <LM>w#w-ln94206-104-p3s4w6</LM>
 </w.rf>
 <form>dají</form>
-<tag lemma="dát" src="orig" selected="1">VB-P---3P-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-ln94206-104-p3s4w7">
 <src.rf>manual</src.rf>
@@ -1248,7 +1248,7 @@
 <LM>w#w-ln94206-104-p3s4w10</LM>
 </w.rf>
 <form>převzatí</form>
-<tag lemma="převzatý_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="orig" selected="1">AAMP1----1A----</tag>
+<tag lemma="převzatý_^(*3ít)" src="orig" selected="1">AAMP1----1A----</tag>
 </m>
 <m id="m-ln94206-104-p3s4w11">
 <src.rf>manual</src.rf>

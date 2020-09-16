@@ -270,7 +270,7 @@
 <LM>w#w-cmpr9415-011-p6s1w1</LM>
 </w.rf>
 <form>Dítě</form>
-<tag lemma="dítě" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="dítě-1" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-011-p6s1w2">
 <src.rf>manual</src.rf>
@@ -318,7 +318,7 @@
 <LM>w#w-cmpr9415-011-p6s1w7</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-cmpr9415-011-p6s1w8">
 <src.rf>manual</src.rf>
@@ -374,7 +374,7 @@
 <LM>w#w-cmpr9415-011-p6s1w14</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-cmpr9415-011-p6s1w15">
 <src.rf>manual</src.rf>
@@ -616,7 +616,7 @@
 <AM lemma="Halikarnass_;G" src="orig">NNIS1-----A----</AM>
 <AM lemma="Halikarnássos_;G_,x" src="auto" recommended="1">NNIS1-----A---1</AM>
 <AM lemma="Halikarnássos_;G_,x" src="auto">NNIS4-----A---1</AM>
-<AM lemma="Halikarnassos_;G_,s_^(^DD**Halikarnássos)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Halikarnass_;G_,s_^(^DD**Halikarnássos)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-011-p9s1w11">
@@ -843,7 +843,7 @@
 <LM>w#w-cmpr9415-011-p10s1w5</LM>
 </w.rf>
 <form>stojí</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9415-011-p10s1w6">
 <src.rf>manual</src.rf>
@@ -984,7 +984,7 @@
 <LM>w#w-cmpr9415-011-p10s2w7</LM>
 </w.rf>
 <form>zastaví</form>
-<tag lemma="zastavit-1_^([také_z._se];_uvést_do_klidu:_auto,...)" src="orig" selected="1">VB-P---3P-AAP--</tag>
+<tag lemma="zastavit_^(uvést_do_klidu;;zástavní_právo)" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-cmpr9415-011-p10s2w8">
 <src.rf>manual</src.rf>
@@ -1270,7 +1270,7 @@
 <LM>w#w-cmpr9415-011-p11s2w8</LM>
 </w.rf>
 <form>děti</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-cmpr9415-011-p11s2w9">
 <src.rf>manual</src.rf>
@@ -1649,7 +1649,7 @@
 <tag>
 <AM lemma="vízum_,x_^(cest._formalita)" src="orig">NNNS4-----A----</AM>
 <AM lemma="vizum_,s_^(^DD**vízum)" src="manual">NNNS4-----A----</AM>
-<AM lemma="vizum_,i_^(^DS**vízum)_^(cest._formalita)" src="manual" selected="1">NNNS4-----A----</AM>
+<AM lemma="vizum_,i_^(cest._formalita)_(^DS**vízum)" src="manual" selected="1">NNNS4-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-011-p13s1w8">
@@ -1730,7 +1730,7 @@
 <LM>w#w-cmpr9415-011-p13s1w17</LM>
 </w.rf>
 <form>stojí</form>
-<tag lemma="stát-4_^(něco_stojí_peníze)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9415-011-p13s1w18">
 <src.rf>manual</src.rf>

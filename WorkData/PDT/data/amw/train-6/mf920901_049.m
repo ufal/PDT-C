@@ -200,7 +200,7 @@
 <LM>w#w-mf920901-049-p2s1w20</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-mf920901-049-p2s1w21">
 <src.rf>manual</src.rf>

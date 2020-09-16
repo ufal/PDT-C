@@ -329,7 +329,7 @@
 <LM>w#w-ln95040-101-p2s3w1</LM>
 </w.rf>
 <form>Napadená</form>
-<tag lemma="napadený_^(*3nout)" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="napadený" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-ln95040-101-p2s3w2">
 <src.rf>manual</src.rf>

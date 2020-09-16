@@ -443,7 +443,7 @@
 <LM>w#w-ln95049-122-p2s3w8</LM>
 </w.rf>
 <form>prvních</form>
-<tag lemma="první" src="orig" selected="1">CrIP6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIP6----------</tag>
 </m>
 <m id="m-ln95049-122-p2s3w9">
 <src.rf>manual</src.rf>
@@ -459,7 +459,7 @@
 <LM>w#w-ln95049-122-p2s3w10</LM>
 </w.rf>
 <form>masových</form>
-<tag lemma="masový-2_^(velký)" src="orig" selected="1">AAIP6----1A----</tag>
+<tag lemma="masový" src="orig" selected="1">AAIP6----1A----</tag>
 </m>
 <m id="m-ln95049-122-p2s3w11">
 <src.rf>manual</src.rf>
@@ -728,7 +728,7 @@
 <LM>w#w-ln95049-122-p2s5w11</LM>
 </w.rf>
 <form>nevypadali</form>
-<tag lemma="vypadat" src="orig" selected="1">VpMP----R-NAI--</tag>
+<tag lemma="vypadat-1_^(ty_vypadáš)" src="orig" selected="1">VpMP----R-NAI--</tag>
 </m>
 <m id="m-ln95049-122-p2s5w12">
 <src.rf>manual</src.rf>

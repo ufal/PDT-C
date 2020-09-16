@@ -66,7 +66,7 @@
 <LM>w#w-lnd92258-133-p2s2w2</LM>
 </w.rf>
 <form>dny</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-lnd92258-133-p2s2w3">
 <src.rf>manual</src.rf>
@@ -341,7 +341,7 @@
 <LM>w#w-lnd92258-133-p2s3w14</LM>
 </w.rf>
 <form>viru</form>
-<tag lemma="vir" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="vir-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92258-133-p2s3w15">
 <src.rf>manual</src.rf>
@@ -349,7 +349,7 @@
 <LM>w#w-lnd92258-133-p2s3w15</LM>
 </w.rf>
 <form>nemoci</form>
-<tag lemma="nemoc_^(choroba)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="nemoc" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92258-133-p2s3w16">
 <src.rf>manual</src.rf>
@@ -708,7 +708,7 @@
 <LM>w#w-lnd92258-133-p2s6w10</LM>
 </w.rf>
 <form>nemoci</form>
-<tag lemma="nemoc_^(choroba)" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="nemoc" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-lnd92258-133-p2s6w11">
 <src.rf>manual</src.rf>
@@ -718,7 +718,7 @@
 <form>AIDS</form>
 <tag>
 <AM lemma="AIDS_:B_;U_,x_^(Syndrom_získaného_selhání_imunity)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="AIDS-2_;U_^(Syndrom_získaného_selhání_imunity)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="AIDS_;U_^(Syndrom_získaného_selhání_imunity)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-133-p2s6w12">
@@ -737,7 +737,7 @@
 <LM>w#w-lnd92258-133-p2s7w1</LM>
 </w.rf>
 <form>Můj</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSYS1-S1-------</tag>
+<tag lemma="můj" src="orig" selected="1">PSYS1-S1-------</tag>
 </m>
 <m id="m-lnd92258-133-p2s7w2">
 <src.rf>manual</src.rf>

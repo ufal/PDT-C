@@ -99,7 +99,7 @@
 <LM>w#w-mf930702-101-p1s1w11</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP6-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP6-P1-------</tag>
 </m>
 <m id="m-mf930702-101-p1s1w12">
 <src.rf>manual</src.rf>

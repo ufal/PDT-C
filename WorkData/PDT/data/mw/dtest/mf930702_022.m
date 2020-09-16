@@ -35,7 +35,7 @@
 <LM>w#w-mf930702-022-p1s1w3</LM>
 </w.rf>
 <form>Evropě</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf930702-022-p1s1w4">
 <src.rf>manual</src.rf>
@@ -192,7 +192,7 @@
 <LM>w#w-mf930702-022-p2s1w16</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FP4---------1</tag>
 </m>
 <m id="m-mf930702-022-p2s1w17">
 <src.rf>manual</src.rf>
@@ -478,7 +478,7 @@
 <LM>w#w-mf930702-022-p2s3w10</LM>
 </w.rf>
 <form>zástavě</form>
-<tag lemma="zástava-2_^(věci_jako_záruka)" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="zástava_^(prapor_záruka_dechu_zástavba)" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-mf930702-022-p2s3w11">
 <src.rf>manual</src.rf>

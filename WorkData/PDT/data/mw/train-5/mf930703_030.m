@@ -438,7 +438,7 @@
 <LM>w#w-mf930703-030-p2s4w2</LM>
 </w.rf>
 <form>rada</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930703-030-p2s4w3">
 <src.rf>manual</src.rf>
@@ -803,7 +803,7 @@
 <LM>w#w-mf930703-030-p2s5w11</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-mf930703-030-p2s5w12">
 <src.rf>manual</src.rf>

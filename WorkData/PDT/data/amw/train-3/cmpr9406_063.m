@@ -492,7 +492,7 @@
 <LM>w#w-cmpr9406-063-p8s1w5</LM>
 </w.rf>
 <form>jejího</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS2FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS2FS3-------</tag>
 </m>
 <m id="m-cmpr9406-063-p8s1w6">
 <src.rf>manual</src.rf>
@@ -1380,7 +1380,7 @@
 <tag>
 <AM lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="ČEZ-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="ČEZ-1_;m_^(České_energetické_závody)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČEZ-2_;m_^(České_energetické_závody)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-063-p11s2w7">
@@ -1611,7 +1611,7 @@
 <LM>w#w-cmpr9406-063-p11s3w9</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP3----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP3----------</tag>
 </m>
 <m id="m-cmpr9406-063-p11s3w10">
 <src.rf>manual</src.rf>
@@ -2558,7 +2558,7 @@
 <LM>w#w-cmpr9406-063-p13s3w11</LM>
 </w.rf>
 <form>prodlení</form>
-<tag lemma="prodlení_^(nebezpečí_z...;_zpoždění)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="prodlení_^(*3ít)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-cmpr9406-063-p13s3w12">
 <src.rf>manual</src.rf>
@@ -3532,7 +3532,7 @@
 <LM>w#w-cmpr9406-063-p18s1w3</LM>
 </w.rf>
 <form>rozvodu</form>
-<tag lemma="rozvod-2_^(vody,_plynu...)" src="orig" selected="1">NNIS6-----A---1</tag>
+<tag lemma="rozvod_^(manželství;vody)" src="orig" selected="1">NNIS6-----A---1</tag>
 </m>
 <m id="m-cmpr9406-063-p18s1w4">
 <src.rf>manual</src.rf>
@@ -4046,7 +4046,7 @@
 <LM>w#w-cmpr9406-063-p19s1w10</LM>
 </w.rf>
 <form>vodičů</form>
-<tag lemma="vodič" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="vodič-2" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-cmpr9406-063-p19s1w11">
 <src.rf>manual</src.rf>
@@ -4096,7 +4096,7 @@
 <LM>w#w-cmpr9406-063-p19s2w5</LM>
 </w.rf>
 <form>co</form>
-<tag lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="co-5_^(př._co_nejméně,_co_nevidět_atd.)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-cmpr9406-063-p19s2w6">
 <src.rf>manual</src.rf>
@@ -4224,7 +4224,7 @@
 <LM>w#w-cmpr9406-063-p19s2w21</LM>
 </w.rf>
 <form>vodiči</form>
-<tag lemma="vodič" src="orig" selected="1">NNIP7-----A----</tag>
+<tag lemma="vodič-2" src="orig" selected="1">NNIP7-----A----</tag>
 </m>
 <m id="m-cmpr9406-063-p19s2w22">
 <src.rf>manual</src.rf>
@@ -4396,7 +4396,7 @@
 <LM>w#w-cmpr9406-063-p20s1w6</LM>
 </w.rf>
 <form>delší</form>
-<tag lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">AAIS4----2A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAIS4----2A----</tag>
 </m>
 <m id="m-cmpr9406-063-p20s1w7">
 <src.rf>manual</src.rf>

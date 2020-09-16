@@ -345,7 +345,7 @@
 <LM>w#w-mf920923-077-p2s2w30</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FP4---------1</tag>
 </m>
 <m id="m-mf920923-077-p2s2w31">
 <src.rf>manual</src.rf>
@@ -379,7 +379,7 @@
 <LM>w#w-mf920923-077-p2s3w2</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf920923-077-p2s3w3">
 <src.rf>manual</src.rf>
@@ -876,7 +876,7 @@
 <LM>w#w-mf920923-077-p2s7w2</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf920923-077-p2s7w3">
 <src.rf>manual</src.rf>

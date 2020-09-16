@@ -74,7 +74,7 @@
 <LM>w#w-lnd92256-001-p3s1w1</LM>
 </w.rf>
 <form>ASPEN</form>
-<tag lemma="Aspen_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Aspen_;G_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92256-001-p3s1w2">
 <src.rf>manual</src.rf>
@@ -90,7 +90,7 @@
 <LM>w#w-lnd92256-001-p3s1w3</LM>
 </w.rf>
 <form>COLORADO</form>
-<tag lemma="Colorado_;G" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Colorado-1_;G" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-lnd92256-001-p3s1w4">
 <src.rf>manual</src.rf>
@@ -106,7 +106,7 @@
 <LM>w#w-lnd92256-001-p3s1w5</LM>
 </w.rf>
 <form>Miroslav</form>
-<tag lemma="Miroslav_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Miroslav-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-001-p3s1w6">
 <src.rf>manual</src.rf>
@@ -389,7 +389,7 @@
 <LM>w#w-lnd92256-001-p3s1w40</LM>
 </w.rf>
 <form>robotů</form>
-<tag lemma="robot" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="robot-1" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd92256-001-p3s1w41">
 <src.rf>manual</src.rf>

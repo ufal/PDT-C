@@ -35,7 +35,7 @@
 <LM>w#w-ln94203-33-p1s1w3</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-ln94203-33-p1s1w4">
 <src.rf>manual</src.rf>
@@ -471,7 +471,7 @@
 <LM>w#w-ln94203-33-p2s3w2</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-ln94203-33-p2s3w3">
 <src.rf>manual</src.rf>
@@ -535,7 +535,7 @@
 <LM>w#w-ln94203-33-p2s3w10</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8NS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8NS4---------1</tag>
 </m>
 <m id="m-ln94203-33-p2s3w11">
 <src.rf>manual</src.rf>
@@ -633,7 +633,7 @@
 <LM>w#w-ln94203-33-p2s4w4</LM>
 </w.rf>
 <form>naší</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS7-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS7-P1-------</tag>
 </m>
 <m id="m-ln94203-33-p2s4w5">
 <src.rf>manual</src.rf>
@@ -1275,7 +1275,7 @@
 <LM>w#w-ln94203-33-p2s6w19</LM>
 </w.rf>
 <form>faktory</form>
-<tag lemma="faktor" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="faktor-1" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-ln94203-33-p2s6w20">
 <src.rf>manual</src.rf>

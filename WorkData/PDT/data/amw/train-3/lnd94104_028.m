@@ -293,7 +293,7 @@
 <LM>w#w-lnd94104-028-p1s3w20</LM>
 </w.rf>
 <form>iniciátor</form>
-<tag lemma="iniciátor" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="iniciátor-1" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-028-p1s3w21">
 <src.rf>manual</src.rf>
@@ -601,7 +601,7 @@
 <LM>w#w-lnd94104-028-p1s5w3</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd94104-028-p1s5w4">
 <src.rf>manual</src.rf>
@@ -765,7 +765,7 @@
 <LM>w#w-lnd94104-028-p1s5w22</LM>
 </w.rf>
 <form>podaná</form>
-<tag lemma="podaný_^(něco_[někomu]_[někam])_(*2t)" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="podaný_^(*2t)" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-lnd94104-028-p1s5w23">
 <src.rf>manual</src.rf>
@@ -1029,7 +1029,7 @@
 <LM>w#w-lnd94104-028-p1s7w7</LM>
 </w.rf>
 <form>Dobalovy</form>
-<tag lemma="Dobalův_;Y_^(*2a)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Dobalův_;Y_^(*2)_(*2a)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-lnd94104-028-p1s7w8">
 <src.rf>manual</src.rf>
@@ -1053,7 +1053,7 @@
 <LM>w#w-lnd94104-028-p1s7w10</LM>
 </w.rf>
 <form>přijetím</form>
-<tag lemma="přijetí_^(*3mout)" src="auto" selected="1">NNNS7-----A----</tag>
+<tag lemma="přijetí_^(*1)_(*3mout)" src="auto" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-lnd94104-028-p1s7w11">
 <src.rf>manual</src.rf>
@@ -1159,7 +1159,7 @@
 <LM>w#w-lnd94104-028-p1s9w2</LM>
 </w.rf>
 <form>jejím</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS6FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS6FS3-------</tag>
 </m>
 <m id="m-lnd94104-028-p1s9w3">
 <src.rf>manual</src.rf>

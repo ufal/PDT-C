@@ -492,7 +492,7 @@
 <LM>w#w-cmpr9407-037-p6s4w14</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP6----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP6----------</tag>
 </m>
 <m id="m-cmpr9407-037-p6s4w15">
 <src.rf>manual</src.rf>
@@ -1033,7 +1033,7 @@
 <LM>w#w-cmpr9407-037-p11s2w4</LM>
 </w.rf>
 <form>pojatého</form>
-<tag lemma="pojatý_^(*3mout)" src="orig" selected="1">AANS2----1A----</tag>
+<tag lemma="pojatý" src="orig" selected="1">AANS2----1A----</tag>
 </m>
 <m id="m-cmpr9407-037-p11s2w5">
 <src.rf>manual</src.rf>
@@ -1105,7 +1105,7 @@
 <LM>w#w-cmpr9407-037-p11s2w13</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-cmpr9407-037-p11s2w14">
 <src.rf>manual</src.rf>
@@ -1669,7 +1669,7 @@
 <LM>w#w-cmpr9407-037-p13s1w5</LM>
 </w.rf>
 <form>zjednodušení</form>
-<tag lemma="zjednodušení_,s_^(*2t)" src="auto" selected="1">NNNS3-----A----</tag>
+<tag lemma="zjednodušení_^(*2t)_(*3it)" src="auto" selected="1">NNNS3-----A----</tag>
 </m>
 <m id="m-cmpr9407-037-p13s1w6">
 <src.rf>manual</src.rf>

@@ -366,7 +366,7 @@
 <LM>w#w-mf920925-054-p4s1w2</LM>
 </w.rf>
 <form>jezdec</form>
-<tag lemma="jezdec" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="jezdec-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-054-p4s1w3">
 <src.rf>manual</src.rf>
@@ -465,7 +465,7 @@
 <LM>w#w-mf920925-054-p4s1w14</LM>
 </w.rf>
 <form>dny</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP7-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP7-----A----</tag>
 </m>
 <m id="m-mf920925-054-p4s1w15">
 <src.rf>manual</src.rf>
@@ -662,7 +662,7 @@
 <LM>w#w-mf920925-054-p5s1w16</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-mf920925-054-p5s1w17">
 <src.rf>manual</src.rf>

@@ -204,7 +204,7 @@
 <LM>w#w-mf930703-051-p1s1w23</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-mf930703-051-p1s1w24">
 <src.rf>manual</src.rf>
@@ -637,7 +637,7 @@
 <LM>w#w-mf930703-051-p1s4w2</LM>
 </w.rf>
 <form>roli</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="role_^(svitek_poslání_pozemek)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf930703-051-p1s4w3">
 <src.rf>manual</src.rf>
@@ -751,7 +751,7 @@
 <LM>w#w-mf930703-051-p1s5w2</LM>
 </w.rf>
 <form>rada</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930703-051-p1s5w3">
 <src.rf>manual</src.rf>

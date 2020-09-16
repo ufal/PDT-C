@@ -493,7 +493,7 @@
 <LM>w#w-lnd92256-035-p3s3w4</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS2---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS2---------1</tag>
 </m>
 <m id="m-lnd92256-035-p3s3w5">
 <src.rf>manual</src.rf>
@@ -634,7 +634,7 @@
 <LM>w#w-lnd92256-035-p3s4w10</LM>
 </w.rf>
 <form>tajném</form>
-<tag lemma="tajný" src="orig" selected="1">AANS6----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AANS6----1A----</tag>
 </m>
 <m id="m-lnd92256-035-p3s4w11">
 <src.rf>manual</src.rf>

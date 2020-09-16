@@ -326,7 +326,7 @@
 <LM>w#w-lnd92256-053-p3s3w5</LM>
 </w.rf>
 <form>druhého</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS2----------</tag>
 </m>
 <m id="m-lnd92256-053-p3s3w6">
 <src.rf>manual</src.rf>
@@ -1197,7 +1197,7 @@
 <LM>w#w-lnd92256-053-p4s4w20</LM>
 </w.rf>
 <form>rukojmí</form>
-<tag lemma="rukojmí" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="rukojmí-1" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd92256-053-p4s4w21">
 <src.rf>manual</src.rf>
@@ -2095,7 +2095,7 @@
 <LM>w#w-lnd92256-053-p6s1w11</LM>
 </w.rf>
 <form>dny</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-lnd92256-053-p6s1w12">
 <src.rf>manual</src.rf>
@@ -2649,7 +2649,7 @@
 <LM>w#w-lnd92256-053-p8s1w14</LM>
 </w.rf>
 <form>politice</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd92256-053-p8s1w15">
 <src.rf>manual</src.rf>
@@ -2927,7 +2927,7 @@
 <LM>w#w-lnd92256-053-p8s2w9</LM>
 </w.rf>
 <form>Montaně</form>
-<tag lemma="Montana_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Montana-2_;G" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd92256-053-p8s2w10">
 <src.rf>manual</src.rf>

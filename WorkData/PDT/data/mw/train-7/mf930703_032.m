@@ -93,7 +93,7 @@
 <LM>w#w-mf930703-032-p2s1w4</LM>
 </w.rf>
 <form>našeho</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSZS2-P1-------</tag>
 </m>
 <m id="m-mf930703-032-p2s1w5">
 <src.rf>manual</src.rf>
@@ -219,7 +219,7 @@
 <LM>w#w-mf930703-032-p2s1w19</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XP1FS3-------</tag>
 </m>
 <m id="m-mf930703-032-p2s1w20">
 <src.rf>manual</src.rf>
@@ -251,7 +251,7 @@
 <LM>w#w-mf930703-032-p2s1w23</LM>
 </w.rf>
 <form>nalezení</form>
-<tag lemma="nalezení-2_^(*7ézt-2)" src="auto" selected="1">NNNS4-----A----</tag>
+<tag lemma="nalezení" src="auto" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-mf930703-032-p2s1w24">
 <src.rf>manual</src.rf>
@@ -1452,7 +1452,7 @@
 <LM>w#w-mf930703-032-p5s1w18</LM>
 </w.rf>
 <form>co</form>
-<tag lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="co-5_^(př._co_nejméně,_co_nevidět_atd.)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf930703-032-p5s1w19">
 <src.rf>manual</src.rf>

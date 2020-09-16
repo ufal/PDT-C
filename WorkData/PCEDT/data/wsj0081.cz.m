@@ -100,7 +100,7 @@
 </w.rf>
 <form>Pensylvánskou</form>
 <tag>
-<AM lemma="pennsylvánský" src="auto" recommended="1">AAFS4----1A----</AM>
+<AM lemma="pensylvánský_,s_^(^DD**pennsylvánský)" src="auto" recommended="1">AAFS4----1A----</AM>
 <AM lemma="pennsylvánský" src="auto">AAFS7----1A----</AM>
 </tag>
 </m>
@@ -141,7 +141,7 @@
 <form>svého</form>
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8MS4----------</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8ZS2----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8ZS2----------</AM>
 </tag>
 </m>
 <m id="m-wsj0081-001-p1s0W9-Ta">
@@ -866,7 +866,7 @@
 <tag>
 <AM lemma="práv_^(oprávněný)" src="auto">ACNS------A----</AM>
 <AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto">NNNS1-----A----</AM>
-<AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto" recommended="1">NNNS4-----A----</AM>
+<AM lemma="právo" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto">NNNS5-----A----</AM>
 </tag>
 </m>
@@ -1086,7 +1086,7 @@
 <tag>
 <AM lemma="Filadelfie" src="auto">NNFS3-----A----</AM>
 <AM lemma="Filadelfie" src="auto">NNFS4-----A----</AM>
-<AM lemma="Filadelfie" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="Filadelfie_;G" src="auto" recommended="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0081-001-p1s2W12-Ta">
@@ -1262,7 +1262,7 @@
 <AM lemma="pennsylvánský" src="auto">AAFP1----1A----</AM>
 <AM lemma="pennsylvánský" src="auto">AAFP4----1A----</AM>
 <AM lemma="pennsylvánský" src="auto">AAFP5----1A----</AM>
-<AM lemma="pennsylvánský" src="auto" recommended="1">AAFS2----1A----</AM>
+<AM lemma="pensylvánský_,s_^(^DD**pennsylvánský)" src="auto" recommended="1">AAFS2----1A----</AM>
 <AM lemma="pennsylvánský" src="auto">AAFS3----1A----</AM>
 <AM lemma="pennsylvánský" src="auto">AAFS6----1A----</AM>
 <AM lemma="pennsylvánský" src="auto">AAIP1----1A----</AM>
@@ -1351,7 +1351,7 @@
 <form>letech</form>
 <tag>
 <AM lemma="let" src="auto">NNIP6-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP6-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0081-001-p1s2W33-Ta">
@@ -1476,7 +1476,7 @@
 </w.rf>
 <form>dal</form>
 <tag>
-<AM lemma="dát" src="auto" recommended="1">VpYS----R-AAP--</AM>
+<AM lemma="dát-1" src="auto" recommended="1">VpYS----R-AAP--</AM>
 <AM lemma="dát-2_^(dá_se_očekávat)" src="auto">VpYS----R-AAI--</AM>
 </tag>
 </m>

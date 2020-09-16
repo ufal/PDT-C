@@ -364,7 +364,7 @@
 <LM>w#w-ln95043-104-p4s1w3</LM>
 </w.rf>
 <form>členů</form>
-<tag lemma="člen" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln95043-104-p4s1w4">
 <src.rf>manual</src.rf>
@@ -1591,7 +1591,7 @@
 <LM>w#w-ln95043-104-p7s1w2</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-ln95043-104-p7s1w3">
 <src.rf>manual</src.rf>
@@ -2144,7 +2144,7 @@
 <LM>w#w-ln95043-104-p8s1w8</LM>
 </w.rf>
 <form>Inter</form>
-<tag lemma="inter" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="inter-1" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-ln95043-104-p8s1w9">
 <src.rf>manual</src.rf>
@@ -2743,7 +2743,7 @@
 <LM>w#w-ln95043-104-p9s1w29</LM>
 </w.rf>
 <form>Yorku</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="York-2_;G_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln95043-104-p9s1w30">
 <src.rf>manual</src.rf>
@@ -3078,7 +3078,7 @@
 <LM>w#w-ln95043-104-p10s2w5</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-ln95043-104-p10s2w6">
 <src.rf>manual</src.rf>
@@ -3411,7 +3411,7 @@
 <LM>w#w-ln95043-104-p11s1w6</LM>
 </w.rf>
 <form>naši</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS4-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS4-P1-------</tag>
 </m>
 <m id="m-ln95043-104-p11s1w7">
 <src.rf>manual</src.rf>

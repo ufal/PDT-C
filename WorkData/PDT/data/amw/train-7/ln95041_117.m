@@ -713,7 +713,7 @@
 <LM>w#w-ln95041-117-p3s1w15</LM>
 </w.rf>
 <form>mluvčího</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95041-117-p3s1w16">
 <src.rf>manual</src.rf>
@@ -916,7 +916,7 @@
 <LM>w#w-ln95041-117-p3s2w15</LM>
 </w.rf>
 <form>zastavením</form>
-<tag lemma="zastavení-1_^([také_z._se];_uvést_do_klidu:_auto,...)_(*5it-1)" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="zastavení_^(*3it)" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-ln95041-117-p3s2w16">
 <src.rf>manual</src.rf>
@@ -1022,7 +1022,7 @@
 <LM>w#w-ln95041-117-p3s3w3</LM>
 </w.rf>
 <form>druhém</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-ln95041-117-p3s3w4">
 <src.rf>manual</src.rf>
@@ -2192,7 +2192,7 @@
 <LM>w#w-ln95041-117-p5s5w1</LM>
 </w.rf>
 <form>Mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95041-117-p5s5w2">
 <src.rf>manual</src.rf>
@@ -2304,7 +2304,7 @@
 <LM>w#w-ln95041-117-p5s5w15</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln95041-117-p5s5w16">
 <src.rf>manual</src.rf>
@@ -3044,7 +3044,7 @@
 <LM>w#w-ln95041-117-p7s1w7</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-ln95041-117-p7s1w8">
 <src.rf>manual</src.rf>
@@ -3226,7 +3226,7 @@
 <LM>w#w-ln95041-117-p7s2w18</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-ln95041-117-p7s2w19">
 <src.rf>manual</src.rf>
@@ -3562,7 +3562,7 @@
 <AM lemma="kotovaný_^(*2t)" src="auto">AAIP4----1A---6</AM>
 <AM lemma="kotovaný_^(*2t)" src="auto">AAIP5----1A---6</AM>
 <AM lemma="kotovaný_^(*2t)" src="auto">AAIS1----1A----</AM>
-<AM lemma="kotovaný_^(*2t)" src="auto" recommended="1" selected="1">AAIS4----1A----</AM>
+<AM lemma="kotovaný_^(^DD**kótovaný)_(*2t)" src="auto" recommended="1" selected="1">AAIS4----1A----</AM>
 <AM lemma="kotovaný_^(*2t)" src="auto">AAIS5----1A----</AM>
 <AM lemma="kotovaný_^(*2t)" src="auto">AAMP1----1A---6</AM>
 <AM lemma="kotovaný_^(*2t)" src="auto">AAMP4----1A---6</AM>
@@ -3625,7 +3625,7 @@
 <LM>w#w-ln95041-117-p8s2w4</LM>
 </w.rf>
 <form>stojí</form>
-<tag lemma="stát-4_^(něco_stojí_peníze)" src="orig" selected="1">VB-P---3P-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln95041-117-p8s2w5">
 <src.rf>manual</src.rf>

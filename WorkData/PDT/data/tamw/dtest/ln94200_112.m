@@ -888,7 +888,7 @@
 <LM>w#w-ln94200-112-p3s4w3</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-ln94200-112-p3s4w4">
 <src.rf>manual</src.rf>
@@ -1300,7 +1300,7 @@
 <LM>w#w-ln94200-112-p4s2w9</LM>
 </w.rf>
 <form>zmírnění</form>
-<tag lemma="zmírnění_^(*3it)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="zmírnění_^(*2t)_(*3it)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln94200-112-p4s2w10">
 <src.rf>manual</src.rf>
@@ -1606,7 +1606,7 @@
 <LM>w#w-ln94200-112-p4s3w27</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-ln94200-112-p4s3w28">
 <src.rf>manual</src.rf>
@@ -1728,7 +1728,7 @@
 <LM>w#w-ln94200-112-p4s4w13</LM>
 </w.rf>
 <form>ztížených</form>
-<tag lemma="ztížený_,s_^(*2t)" src="auto" selected="1">AAFP6----1A----</tag>
+<tag lemma="ztížený_^(*2t)_(*3it)" src="auto" selected="1">AAFP6----1A----</tag>
 </m>
 <m id="m-ln94200-112-p4s4w14">
 <src.rf>manual</src.rf>

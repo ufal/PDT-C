@@ -159,7 +159,7 @@
 <LM>w#w-mf920924-045-p2s2w3</LM>
 </w.rf>
 <form>dlouhé</form>
-<tag lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">AAFS6----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFS6----1A----</tag>
 </m>
 <m id="m-mf920924-045-p2s2w4">
 <src.rf>manual</src.rf>
@@ -519,7 +519,7 @@
 <LM>w#w-mf920924-045-p4s1w4</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-mf920924-045-p4s1w5">
 <src.rf>manual</src.rf>
@@ -559,7 +559,7 @@
 <LM>w#w-mf920924-045-p4s1w9</LM>
 </w.rf>
 <form>lepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAFS4----2A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAFS4----2A----</tag>
 </m>
 <m id="m-mf920924-045-p4s1w10">
 <src.rf>manual</src.rf>

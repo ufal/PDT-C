@@ -45,7 +45,7 @@
 <LM>w#w-ln94209-68-p2s1w3</LM>
 </w.rf>
 <form>Pavlíčkova</form>
-<tag lemma="Pavlíčkův_;Y_^(*3ek)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Pavlíčkův_;Y_^(*2o)_(*3ek)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-ln94209-68-p2s1w4">
 <src.rf>manual</src.rf>
@@ -125,7 +125,7 @@
 <LM>w#w-ln94209-68-p2s1w13</LM>
 </w.rf>
 <form>roli</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="role_^(svitek_poslání_pozemek)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94209-68-p2s1w14">
 <src.rf>manual</src.rf>
@@ -409,7 +409,7 @@
 <LM>w#w-ln94209-68-p2s3w4</LM>
 </w.rf>
 <form>dostání</form>
-<tag lemma="dostání_^(*3at)" src="orig" selected="1">NNNS3-----A----</tag>
+<tag lemma="dostání_^(*2t)_(*3at)" src="orig" selected="1">NNNS3-----A----</tag>
 </m>
 <m id="m-ln94209-68-p2s3w5">
 <src.rf>manual</src.rf>
@@ -587,7 +587,7 @@
 <LM>w#w-ln94209-68-p3s1w14</LM>
 </w.rf>
 <form>umění</form>
-<tag lemma="umění_^(mít_schopnost_něco_dělat)_(*2t)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="umění_^(*2t)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln94209-68-p3s1w15">
 <src.rf>manual</src.rf>
@@ -741,7 +741,7 @@
 <LM>w#w-ln94209-68-p3s2w10</LM>
 </w.rf>
 <form>prostředek</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94209-68-p3s2w11">
 <src.rf>manual</src.rf>
@@ -1137,7 +1137,7 @@
 <LM>w#w-ln94209-68-p4s1w13</LM>
 </w.rf>
 <form>umění</form>
-<tag lemma="umění_^(mít_schopnost_něco_dělat)_(*2t)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="umění_^(*2t)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln94209-68-p4s1w14">
 <src.rf>manual</src.rf>

@@ -224,7 +224,7 @@
 <LM>w#w-cmpr9415-008-p6s1w1</LM>
 </w.rf>
 <form>Dítě</form>
-<tag lemma="dítě" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="dítě-1" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-008-p6s1w2">
 <src.rf>manual</src.rf>
@@ -862,7 +862,7 @@
 <LM>w#w-cmpr9415-008-p9s5w13</LM>
 </w.rf>
 <form>uvítací</form>
-<tag lemma="uvítací_^(př._proslov)" src="auto" selected="1">AAIS1----1A----</tag>
+<tag lemma="uvítací_^(*2t)" src="auto" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-cmpr9415-008-p9s5w14">
 <src.rf>manual</src.rf>
@@ -1135,7 +1135,7 @@
 <LM>w#w-cmpr9415-008-p9s6w25</LM>
 </w.rf>
 <form>dítě</form>
-<tag lemma="dítě" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="dítě-1" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-cmpr9415-008-p9s6w26">
 <src.rf>manual</src.rf>

@@ -98,7 +98,7 @@
 <LM>w#w-cmpr9406-031-p3s2w2</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS6---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS6---------1</tag>
 </m>
 <m id="m-cmpr9406-031-p3s2w3">
 <src.rf>manual</src.rf>
@@ -695,7 +695,7 @@
 <LM>w#w-cmpr9406-031-p3s6w2</LM>
 </w.rf>
 <form>nesprávných</form>
-<tag lemma="správný_^(podle_něj._měřítek;_př._chlap,_míra,...)" src="orig" selected="1">AAIP2----1N----</tag>
+<tag lemma="správný" src="orig" selected="1">AAIP2----1N----</tag>
 </m>
 <m id="m-cmpr9406-031-p3s6w3">
 <src.rf>manual</src.rf>

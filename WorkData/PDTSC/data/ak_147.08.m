@@ -145,7 +145,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="třeba-3" src="auto" selected="1">TT-------------</AM>
+<AM lemma="třeba-2_^(například)" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m147-d1t782-11">
@@ -1026,7 +1026,7 @@
 <LM>w#w-d1t800-8</LM>
 </w.rf>
 <form>dala</form>
-<tag lemma="dát" src="auto" recommended="1">VpQW----R-AAP--</tag>
+<tag lemma="dát-1" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m147-d1t800-9">
 <w.rf>
@@ -1270,7 +1270,7 @@
 <AM lemma="nadšení_^(*4chnout)" src="auto">NNNP4-----A----</AM>
 <AM lemma="nadšení_^(*4chnout)" src="auto">NNNP5-----A----</AM>
 <AM lemma="nadšení_^(*4chnout)" src="auto">NNNS1-----A----</AM>
-<AM lemma="nadšení_^(*4chnout)" src="auto" selected="1">NNNS2-----A----</AM>
+<AM lemma="nadšení" src="auto" selected="1">NNNS2-----A----</AM>
 <AM lemma="nadšení_^(*4chnout)" src="auto">NNNS3-----A----</AM>
 <AM lemma="nadšení_^(*4chnout)" src="auto">NNNS4-----A----</AM>
 <AM lemma="nadšení_^(*4chnout)" src="auto">NNNS5-----A----</AM>
@@ -1906,7 +1906,7 @@
 </w.rf>
 <form>postižení</form>
 <tag>
-<AM lemma="postižený_^(*4hnout)" src="auto" recommended="1">AAMP1----1A----</AM>
+<AM lemma="postižený" src="auto" recommended="1">AAMP1----1A----</AM>
 <AM lemma="postižený_^(*4hnout)" src="auto">AAMP5----1A----</AM>
 <AM lemma="postižení_^(*4hnout)" src="auto">NNNP1-----A----</AM>
 <AM lemma="postižení_^(*4hnout)" src="auto">NNNP2-----A----</AM>
@@ -2578,7 +2578,7 @@
 <form>letech</form>
 <tag>
 <AM lemma="let" src="auto">NNIP6-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP6-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP6-----A----</AM>
 </tag>
 </m>
 <m id="m147-d1t815-5">
@@ -3950,7 +3950,7 @@
 <AM lemma="vysoká_^(zvěř)" src="auto">NNFS2-----A----</AM>
 <AM lemma="vysoká_^(zvěř)" src="auto">NNFS3-----A----</AM>
 <AM lemma="vysoká_^(zvěř)" src="auto">NNFS6-----A----</AM>
-<AM lemma="vysoká_^(zvěř;škola)" src="manual" selected="1">NNFS6-----A----</AM>
+<AM lemma="vysoká_^(zvěř)" src="manual" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m147-d1t856-5">
@@ -4108,7 +4108,7 @@
 <form>spořitelně</form>
 <tag>
 <AM lemma="spořitelna_^(místo;_př._Česká_spořitelna)" src="auto">NNFS3-----A----</AM>
-<AM lemma="spořitelna_^(místo;_př._Česká_spořitelna)" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="spořitelna" src="auto" recommended="1">NNFS6-----A----</AM>
 <AM lemma="spořitelně_^(*1ý)" src="auto">Dg-------1A----</AM>
 </tag>
 </m>
@@ -4550,7 +4550,7 @@
 </w.rf>
 <form>Ne</form>
 <tag>
-<AM lemma="ne" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ne-1" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="neděle_:B" src="auto">NNFXX-----A---8</AM>
 </tag>
 </m>

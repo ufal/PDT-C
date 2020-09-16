@@ -632,7 +632,7 @@
 <LM>w#w-mf920924-033-p2s5w2</LM>
 </w.rf>
 <form>mluvčího</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920924-033-p2s5w3">
 <src.rf>manual</src.rf>

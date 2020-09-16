@@ -507,7 +507,7 @@
 <form>Whitea</form>
 <tag>
 <AM lemma="White_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="White_;Y" src="auto" selected="1">NNMS4-----A----</AM>
+<AM lemma="White-1_;Y" src="auto" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2137-001-p1s0W39-Ta">

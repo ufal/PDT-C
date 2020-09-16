@@ -216,7 +216,7 @@
 <LM>w#w-ln94205-23-p2s1Bw16</LM>
 </w.rf>
 <form>Česká</form>
-<tag lemma="Český-1_;G_^(používá_se_i_pro_jména_org.,_výrobků_atd.)" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="český" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-ln94205-23-p2s1Bw17">
 <src.rf>manual</src.rf>
@@ -357,7 +357,7 @@
 <LM>w#w-ln94205-23-p3s1w6</LM>
 </w.rf>
 <form>Česká</form>
-<tag lemma="Český-1_;G_^(používá_se_i_pro_jména_org.,_výrobků_atd.)" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="český" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-ln94205-23-p3s1w7">
 <src.rf>manual</src.rf>
@@ -677,7 +677,7 @@
 <LM>w#w-ln94205-23-p3s4w5</LM>
 </w.rf>
 <form>naše</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP4-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP4-P1-------</tag>
 </m>
 <m id="m-ln94205-23-p3s4w6">
 <src.rf>manual</src.rf>
@@ -963,7 +963,7 @@
 <LM>w#w-ln94205-23-p4s1w6</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-ln94205-23-p4s1w7">
 <src.rf>manual</src.rf>
@@ -1240,7 +1240,7 @@
 <LM>w#w-ln94205-23-p4s4w3</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1ZS1FS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1ZS1FS3-------</tag>
 </m>
 <m id="m-ln94205-23-p4s4w4">
 <src.rf>manual</src.rf>
@@ -1340,7 +1340,7 @@
 <LM>w#w-ln94205-23-p4s4w15</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-ln94205-23-p4s4w16">
 <src.rf>manual</src.rf>

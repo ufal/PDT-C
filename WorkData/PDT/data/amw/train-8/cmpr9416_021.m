@@ -270,7 +270,7 @@
 <LM>w#w-cmpr9416-021-p4s2w3</LM>
 </w.rf>
 <form>měřič</form>
-<tag lemma="měřič" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="měřič-2" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-021-p4s2w4">
 <src.rf>manual</src.rf>
@@ -647,7 +647,7 @@
 <LM>w#w-cmpr9416-021-p4s3w24</LM>
 </w.rf>
 <form>kolos</form>
-<tag lemma="kolos" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="kolos-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-021-p4s3w25">
 <src.rf>manual</src.rf>

@@ -50,7 +50,7 @@
 <form>Glasse</form>
 <tag>
 <AM lemma="Glass_;Y" src="auto">NNMP4-----A----</AM>
-<AM lemma="Glass_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Glass-1_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Glass_;Y" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>
@@ -138,7 +138,7 @@
 <form>lidi</form>
 <tag>
 <AM lemma="člověk" src="auto">NNMP1-----A----</AM>
-<AM lemma="člověk" src="auto" recommended="1">NNMP4-----A----</AM>
+<AM lemma="lidé" src="auto" recommended="1">NNMP4-----A----</AM>
 <AM lemma="člověk" src="auto">NNMP5-----A----</AM>
 </tag>
 </m>
@@ -413,7 +413,7 @@
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8IP1----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8IP5----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS4----------</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8XP4----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8XP4----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOFP----------1</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOFS----------1</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOIP----------1</AM>
@@ -854,7 +854,7 @@
 <AM lemma="Glassův_;Y_^(*2)" src="auto">AUFP2M---------</AM>
 <AM lemma="Glassův_;Y_^(*2)" src="auto">AUFP6M---------</AM>
 <AM lemma="Glassův_;Y_^(*2)" src="auto">AUIP2M---------</AM>
-<AM lemma="Glassův_;Y_^(*2)" src="auto" recommended="1">AUIP6M---------</AM>
+<AM lemma="Glassův-1_;Y_^(*4-1)" src="auto" recommended="1">AUIP6M---------</AM>
 <AM lemma="Glassův_;Y_^(*2)" src="auto">AUMP2M---------</AM>
 <AM lemma="Glassův_;Y_^(*2)" src="auto">AUMP6M---------</AM>
 <AM lemma="Glassův_;Y_^(*2)" src="auto">AUNP2M---------</AM>
@@ -1270,7 +1270,7 @@
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS1---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS4---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS5---------1</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8YP4---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8YP4---------1</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOFP-----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOIP-----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AONS-----------</AM>
@@ -1399,7 +1399,7 @@
 <tag>
 <AM lemma="Glass-1_;m_,t_^(Moravia_Glass)" src="auto">NNIXX-----A----</AM>
 <AM lemma="Glass-77" src="auto" recommended="1">F%-------------</AM>
-<AM lemma="Glass_;Y" src="auto" selected="1">NNMS1-----A----</AM>
+<AM lemma="Glass-1_;Y" src="auto" selected="1">NNMS1-----A----</AM>
 <AM lemma="glass-77_,t" src="auto">F%-------------</AM>
 </tag>
 </m>
@@ -1647,7 +1647,7 @@
 </w.rf>
 <form>svých</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8XP2----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8XP2----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8XP6----------</AM>
 </tag>
 </m>
@@ -1925,7 +1925,7 @@
 <tag>
 <AM lemma="lid_^(naší_země)" src="auto">NNIS7-----A----</AM>
 <AM lemma="lido" src="auto">NNNS7-----A----</AM>
-<AM lemma="člověk" src="auto" recommended="1">NNMP3-----A----</AM>
+<AM lemma="lidé" src="auto" recommended="1">NNMP3-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2106-001-p1s8W6-Ta">
@@ -1954,7 +1954,7 @@
 </w.rf>
 <form>ne</form>
 <tag>
-<AM lemma="ne" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ne-1" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="neděle" src="auto">NNFXX-----A---8</AM>
 </tag>
 </m>
@@ -1992,7 +1992,7 @@
 <AM lemma="Glassův_;Y_^(*2)" src="auto">AUIS6M--------1</AM>
 <AM lemma="Glassův_;Y_^(*2)" src="auto">AUMS3M---------</AM>
 <AM lemma="Glassův_;Y_^(*2)" src="auto">AUMS6M--------1</AM>
-<AM lemma="Glassův_;Y_^(*2)" src="auto" recommended="1">AUNS3M---------</AM>
+<AM lemma="Glassův-1_;Y_^(*4-1)" src="auto" recommended="1">AUNS3M---------</AM>
 <AM lemma="Glassův_;Y_^(*2)" src="auto">AUNS6M--------1</AM>
 </tag>
 </m>
@@ -2331,7 +2331,7 @@
 <tag>
 <AM lemma="Glass-1_;m_,t_^(Moravia_Glass)" src="auto">NNIXX-----A----</AM>
 <AM lemma="Glass-77" src="auto">F%-------------</AM>
-<AM lemma="Glass_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Glass-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="glass-77_,t" src="auto">F%-------------</AM>
 </tag>
 </m>
@@ -2529,7 +2529,7 @@
 <tag>
 <AM lemma="Glass-1_;m_,t_^(Moravia_Glass)" src="auto">NNIXX-----A----</AM>
 <AM lemma="Glass-77" src="auto" recommended="1">F%-------------</AM>
-<AM lemma="Glass_;Y" src="auto" selected="1">NNMS1-----A----</AM>
+<AM lemma="Glass-1_;Y" src="auto" selected="1">NNMS1-----A----</AM>
 <AM lemma="glass-77_,t" src="auto">F%-------------</AM>
 </tag>
 </m>
@@ -2589,7 +2589,7 @@
 <form>své</form>
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FP1---------1</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8FP4---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8FP4---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS2---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS3---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS6---------1</AM>
@@ -2637,7 +2637,7 @@
 <LM>w#w-wsj2106-001-p1s13W9</LM>
 </w.rf>
 <form>vypadá</form>
-<tag lemma="vypadat" src="auto" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="vypadat-1_^(ty_vypadáš)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-wsj2106-001-p1s13W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2779,7 +2779,7 @@
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8IP1---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8IP5---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS1---------1</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8NS4---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8NS4---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS5---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8YP4---------1</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOFP-----------</AM>
@@ -2902,7 +2902,7 @@
 </w.rf>
 <form>svůj</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8IS4----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8IS4----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8YS1----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8YS5----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOYS-----------</AM>
@@ -3807,7 +3807,7 @@
 <form>lidi</form>
 <tag>
 <AM lemma="člověk" src="auto">NNMP1-----A----</AM>
-<AM lemma="člověk" src="auto" recommended="1">NNMP4-----A----</AM>
+<AM lemma="lidé" src="auto" recommended="1">NNMP4-----A----</AM>
 <AM lemma="člověk" src="auto">NNMP5-----A----</AM>
 </tag>
 </m>
@@ -4098,7 +4098,7 @@
 <tag>
 <AM lemma="Glass-1_;m_,t_^(Moravia_Glass)" src="auto">NNIXX-----A----</AM>
 <AM lemma="Glass-77" src="auto">F%-------------</AM>
-<AM lemma="Glass_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Glass-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="glass-77_,t" src="auto">F%-------------</AM>
 </tag>
 </m>
@@ -4395,7 +4395,7 @@
 <form>nás</form>
 <tag>
 <AM lemma="já" src="auto">PP-P2--1-------</AM>
-<AM lemma="já" src="auto" recommended="1">PP-P4--1-------</AM>
+<AM lemma="my" src="auto" recommended="1">PP-P4--1-------</AM>
 <AM lemma="já" src="auto">PP-P6--1-------</AM>
 </tag>
 </m>
@@ -4763,7 +4763,7 @@
 <AM lemma="ča_^(ča-ča)" src="auto">NNFS2-----A----</AM>
 <AM lemma="ča_^(ča-ča)" src="auto">NNFS3-----A---1</AM>
 <AM lemma="ča_^(ča-ča)" src="auto">NNFS6-----A---1</AM>
-<AM lemma="či" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="či-1" src="auto" recommended="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2106-001-p1s19W36-Ta">
@@ -4843,7 +4843,7 @@
 </w.rf>
 <form>svůj</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8IS4----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8IS4----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8YS1----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8YS5----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOYS-----------</AM>
@@ -4883,7 +4883,7 @@
 <tag>
 <AM lemma="Glass-1_;m_,t_^(Moravia_Glass)" src="auto">NNIXX-----A----</AM>
 <AM lemma="Glass-77" src="auto">F%-------------</AM>
-<AM lemma="Glass_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Glass-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="glass-77_,t" src="auto">F%-------------</AM>
 </tag>
 </m>
@@ -4902,7 +4902,7 @@
 </w.rf>
 <form>svůj</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8IS4----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8IS4----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8YS1----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8YS5----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOYS-----------</AM>
@@ -5207,7 +5207,7 @@
 <tag>
 <AM lemma="Glass-1_;m_,t_^(Moravia_Glass)" src="auto">NNIXX-----A----</AM>
 <AM lemma="Glass-77" src="auto" recommended="1">F%-------------</AM>
-<AM lemma="Glass_;Y" src="auto" selected="1">NNMS1-----A----</AM>
+<AM lemma="Glass-1_;Y" src="auto" selected="1">NNMS1-----A----</AM>
 <AM lemma="glass-77_,t" src="auto">F%-------------</AM>
 </tag>
 </m>
@@ -5623,7 +5623,7 @@
 </w.rf>
 <form>ne</form>
 <tag>
-<AM lemma="ne" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ne-1" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="neděle" src="auto">NNFXX-----A---8</AM>
 </tag>
 </m>
@@ -6321,7 +6321,7 @@
 <tag>
 <AM lemma="Glass-1_;m_,t_^(Moravia_Glass)" src="auto">NNIXX-----A----</AM>
 <AM lemma="Glass-77" src="auto">F%-------------</AM>
-<AM lemma="Glass_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Glass-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="glass-77_,t" src="auto">F%-------------</AM>
 </tag>
 </m>
@@ -6371,7 +6371,7 @@
 <form>svého</form>
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8MS4----------</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8ZS2----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8ZS2----------</AM>
 </tag>
 </m>
 <m id="m-wsj2106-001-p1s26W6-Ta">
@@ -7970,7 +7970,7 @@
 <tag>
 <AM lemma="Glass-1_;m_,t_^(Moravia_Glass)" src="auto">NNIXX-----A----</AM>
 <AM lemma="Glass-77" src="auto">F%-------------</AM>
-<AM lemma="Glass_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Glass-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="glass-77_,t" src="auto">F%-------------</AM>
 </tag>
 </m>
@@ -8245,7 +8245,7 @@
 <form>svých</form>
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8XP2----------</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8XP6----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8XP6----------</AM>
 </tag>
 </m>
 <m id="m-wsj2106-001-p1s33W7-Ta">
@@ -8575,7 +8575,7 @@
 <tag>
 <AM lemma="Glass-1_;m_,t_^(Moravia_Glass)" src="auto">NNIXX-----A----</AM>
 <AM lemma="Glass-77" src="auto" recommended="1">F%-------------</AM>
-<AM lemma="Glass_;Y" src="auto" selected="1">NNMS1-----A----</AM>
+<AM lemma="Glass-1_;Y" src="auto" selected="1">NNMS1-----A----</AM>
 <AM lemma="glass-77_,t" src="auto">F%-------------</AM>
 </tag>
 </m>
@@ -8951,7 +8951,7 @@
 </w.rf>
 <form>Glassovo</form>
 <tag>
-<AM lemma="Glassův_;Y_^(*2)" src="auto" recommended="1">AUNS1M---------</AM>
+<AM lemma="Glassův-1_;Y_^(*4-1)" src="auto" recommended="1">AUNS1M---------</AM>
 <AM lemma="Glassův_;Y_^(*2)" src="auto">AUNS4M---------</AM>
 <AM lemma="Glassův_;Y_^(*2)" src="auto">AUNS5M---------</AM>
 <AM lemma="Glassův_;Y_^(*2)" src="auto">AUXXXM--------7</AM>
@@ -9322,7 +9322,7 @@
 </w.rf>
 <form>prvního</form>
 <tag>
-<AM lemma="první" src="auto" recommended="1">CrIS2----------</AM>
+<AM lemma="první-1" src="auto" recommended="1">CrIS2----------</AM>
 <AM lemma="první" src="auto">CrMS2----------</AM>
 <AM lemma="první" src="auto">CrMS4----------</AM>
 <AM lemma="první" src="auto">CrNS2----------</AM>
@@ -9443,7 +9443,7 @@
 <tag>
 <AM lemma="Glass-1_;m_,t_^(Moravia_Glass)" src="auto">NNIXX-----A----</AM>
 <AM lemma="Glass-77" src="auto">F%-------------</AM>
-<AM lemma="Glass_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Glass-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="glass-77_,t" src="auto">F%-------------</AM>
 </tag>
 </m>
@@ -9475,7 +9475,7 @@
 <form>varhany</form>
 <tag>
 <AM lemma="varhany" src="auto">NNFP1-----A----</AM>
-<AM lemma="varhany" src="auto" recommended="1">NNFP4-----A----</AM>
+<AM lemma="varhany-1" src="auto" recommended="1">NNFP4-----A----</AM>
 <AM lemma="varhany" src="auto">NNFP5-----A----</AM>
 <AM lemma="varhany" src="auto">NNIP1-----A----</AM>
 <AM lemma="varhany" src="auto">NNIP4-----A----</AM>
@@ -9802,7 +9802,7 @@
 </w.rf>
 <form>svých</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8XP2----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8XP2----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8XP6----------</AM>
 </tag>
 </m>
@@ -10861,7 +10861,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-2" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="třeba-3" src="auto" selected="1">TT-------------</AM>
+<AM lemma="třeba-2_^(například)" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2106-001-p1s42W18-Ta">
@@ -11288,7 +11288,7 @@
 <AM lemma="podání_^(něco_[někomu]_[někam])_(*3at)" src="auto">NNNS3-----A----</AM>
 <AM lemma="podání_^(něco_[někomu]_[někam])_(*3at)" src="auto">NNNS4-----A----</AM>
 <AM lemma="podání_^(něco_[někomu]_[někam])_(*3at)" src="auto">NNNS5-----A----</AM>
-<AM lemma="podání_^(něco_[někomu]_[někam])_(*3at)" src="auto" recommended="1">NNNS6-----A----</AM>
+<AM lemma="podání_^(*3at)" src="auto" recommended="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2106-001-p1s43W4-Ta">
@@ -11493,7 +11493,7 @@
 <form>Glasse</form>
 <tag>
 <AM lemma="Glass_;Y" src="auto">NNMP4-----A----</AM>
-<AM lemma="Glass_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Glass-1_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Glass_;Y" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>
@@ -12145,7 +12145,7 @@
 <AM lemma="Glassův_;Y_^(*2)" src="auto">AUFP1M---------</AM>
 <AM lemma="Glassův_;Y_^(*2)" src="auto">AUFP4M---------</AM>
 <AM lemma="Glassův_;Y_^(*2)" src="auto">AUFP5M---------</AM>
-<AM lemma="Glassův_;Y_^(*2)" src="auto" recommended="1">AUFS2M---------</AM>
+<AM lemma="Glassův-1_;Y_^(*4-1)" src="auto" recommended="1">AUFS2M---------</AM>
 <AM lemma="Glassův_;Y_^(*2)" src="auto">AUIP1M---------</AM>
 <AM lemma="Glassův_;Y_^(*2)" src="auto">AUIP4M---------</AM>
 <AM lemma="Glassův_;Y_^(*2)" src="auto">AUIP5M---------</AM>

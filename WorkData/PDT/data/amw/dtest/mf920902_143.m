@@ -208,7 +208,7 @@
 <LM>w#w-mf920902-143-p2s1w13</LM>
 </w.rf>
 <form>činiteli</form>
-<tag lemma="činitel" src="orig" selected="1">NNMP7-----A----</tag>
+<tag lemma="činitel-1" src="orig" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-mf920902-143-p2s1w14">
 <src.rf>manual</src.rf>
@@ -370,7 +370,7 @@
 <LM>w#w-mf920902-143-p2s3w6</LM>
 </w.rf>
 <form>prvního</form>
-<tag lemma="první" src="orig" selected="1">CrMS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrMS2----------</tag>
 </m>
 <m id="m-mf920902-143-p2s3w7">
 <src.rf>manual</src.rf>
@@ -490,7 +490,7 @@
 <LM>w#w-mf920902-143-p2s3w21</LM>
 </w.rf>
 <form>činiteli</form>
-<tag lemma="činitel" src="orig" selected="1">NNMP7-----A----</tag>
+<tag lemma="činitel-1" src="orig" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-mf920902-143-p2s3w22">
 <src.rf>manual</src.rf>
@@ -580,7 +580,7 @@
 <LM>w#w-mf920902-143-p3s1w1</LM>
 </w.rf>
 <form>Rukojmí</form>
-<tag lemma="rukojmí" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="rukojmí-1" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf920902-143-p3s1w2">
 <src.rf>manual</src.rf>
@@ -1372,7 +1372,7 @@
 <LM>w#w-mf920902-143-p7s1w14</LM>
 </w.rf>
 <form>zostření</form>
-<tag lemma="zostření_^(*2t)" src="auto" selected="1">NNNS3-----A----</tag>
+<tag lemma="zostření_^(*2t)_(*3it)" src="auto" selected="1">NNNS3-----A----</tag>
 </m>
 <m id="m-mf920902-143-p7s1w15">
 <src.rf>manual</src.rf>
@@ -1932,7 +1932,7 @@
 <LM>w#w-mf920902-143-p8s2w11</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP3----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP3----------</tag>
 </m>
 <m id="m-mf920902-143-p8s2w12">
 <src.rf>manual</src.rf>

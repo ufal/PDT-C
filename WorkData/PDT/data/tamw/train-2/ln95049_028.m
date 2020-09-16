@@ -175,7 +175,7 @@
 <LM>w#w-ln95049-028-p2s1w16</LM>
 </w.rf>
 <form>Silva</form>
-<tag lemma="Silva_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Silva-2_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-028-p2s1w17">
 <src.rf>manual</src.rf>
@@ -691,7 +691,7 @@
 <LM>w#w-ln95049-028-p3s3w13</LM>
 </w.rf>
 <form>achillovky</form>
-<tag lemma="achilovka" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="achillovka_,s_^(^DD**achilovka)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95049-028-p3s3w14">
 <src.rf>manual</src.rf>

@@ -79,7 +79,7 @@
 </w.rf>
 <form>zasažená</form>
 <tag>
-<AM lemma="zasažený_^(*5áhnout)" src="auto" recommended="1">AAFS1----1A----</AM>
+<AM lemma="zasažený" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="zasažený_^(*5áhnout)" src="auto">AAFS5----1A----</AM>
 <AM lemma="zasažený_^(*5áhnout)" src="auto">AANP1----1A----</AM>
 <AM lemma="zasažený_^(*5áhnout)" src="auto">AANP4----1A----</AM>
@@ -2240,7 +2240,7 @@
 <AM lemma="převzetí_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="auto">NNNS1-----A----</AM>
 <AM lemma="převzetí_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="auto">NNNS2-----A----</AM>
 <AM lemma="převzetí_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="auto">NNNS3-----A----</AM>
-<AM lemma="převzetí_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="auto" recommended="1">NNNS4-----A----</AM>
+<AM lemma="převzetí_^(*3ít)" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="převzetí_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="auto">NNNS5-----A----</AM>
 <AM lemma="převzetí_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="auto">NNNS6-----A----</AM>
 </tag>

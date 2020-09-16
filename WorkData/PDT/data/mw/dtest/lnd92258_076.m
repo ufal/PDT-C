@@ -847,7 +847,7 @@
 <LM>w#w-lnd92258-076-p11s1w2</LM>
 </w.rf>
 <form>ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-lnd92258-076-p11s1w3">
 <src.rf>manual</src.rf>
@@ -1225,7 +1225,7 @@
 <LM>w#w-lnd92258-076-p16s1w10</LM>
 </w.rf>
 <form>promyšlenou</form>
-<tag lemma="promyšlený_^(*5slet)" src="orig" selected="1">AAFS4----1A----</tag>
+<tag lemma="promyšlený_^(*5slit)" src="orig" selected="1">AAFS4----1A----</tag>
 </m>
 </s>
 <s id="m-lnd92258-076-p17s1">
@@ -1617,7 +1617,7 @@
 <LM>w#w-lnd92258-076-p22s1w2</LM>
 </w.rf>
 <form>potřeby</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-lnd92258-076-p22s1w3">
 <src.rf>manual</src.rf>
@@ -2425,7 +2425,7 @@
 <LM>w#w-lnd92258-076-p37s1w3</LM>
 </w.rf>
 <form>stanovená</form>
-<tag lemma="stanovený_^(určit)_(*3it)" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="stanovený_^(*3it)" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-lnd92258-076-p37s1w4">
 <src.rf>manual</src.rf>
@@ -2561,7 +2561,7 @@
 <LM>w#w-lnd92258-076-p41s1w2</LM>
 </w.rf>
 <form>černé</form>
-<tag lemma="černý" src="auto" selected="1">AAFP1----1A----</tag>
+<tag lemma="černý_;o" src="auto" selected="1">AAFP1----1A----</tag>
 </m>
 <m id="m-lnd92258-076-p41s1w3">
 <src.rf>manual</src.rf>
@@ -2721,7 +2721,7 @@
 <LM>w#w-lnd92258-076-p47s1w3</LM>
 </w.rf>
 <form>T</form>
-<tag lemma="t-1`tuna" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="tuna" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-lnd92258-076-p47s1w4">
 <src.rf>manual</src.rf>
@@ -3285,7 +3285,7 @@
 <LM>w#w-lnd92258-076-p49s1w3</LM>
 </w.rf>
 <form>T</form>
-<tag lemma="t-1`tuna" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="tuna" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-lnd92258-076-p49s1w4">
 <src.rf>manual</src.rf>
@@ -5099,7 +5099,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>nestandartních</form>
-<tag lemma="standardní_,h" src="auto" selected="1">AAFP2----1N----</tag>
+<tag lemma="standartní_,i_^(^DS**standardní)" src="auto" selected="1">AAFP2----1N----</tag>
 </m>
 <m id="m-lnd92258-076-p75s1w5">
 <src.rf>manual</src.rf>

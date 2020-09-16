@@ -149,7 +149,7 @@
 <LM>w#w-ln95047-012-p2s1Aw12</LM>
 </w.rf>
 <form>polních</form>
-<tag lemma="polní-1" src="orig" selected="1">AAFP6----1A----</tag>
+<tag lemma="polní" src="orig" selected="1">AAFP6----1A----</tag>
 </m>
 <m id="m-ln95047-012-p2s1Aw13">
 <src.rf>manual</src.rf>
@@ -460,7 +460,7 @@
 <LM>w#w-ln95047-012-p2s2w10</LM>
 </w.rf>
 <form>BESIP</form>
-<tag lemma="BESIP_;m" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Besip_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95047-012-p2s2w11">
 <src.rf>manual</src.rf>
@@ -922,7 +922,7 @@
 <LM>w#w-ln95047-012-p2s5w19</LM>
 </w.rf>
 <form>tajnosti</form>
-<tag lemma="tajnost_^(*3ý)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="tajnost-1_^(*5ý-1)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln95047-012-p2s5w20">
 <src.rf>manual</src.rf>
@@ -1796,7 +1796,7 @@
 <LM>w#w-ln95047-012-p3s1w5</LM>
 </w.rf>
 <form>Prouza</form>
-<tag lemma="Prouza_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Prouza-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-012-p3s1w6">
 <src.rf>manual</src.rf>
@@ -2111,7 +2111,7 @@
 <LM>w#w-ln95047-012-p3s3w7</LM>
 </w.rf>
 <form>orgány</form>
-<tag lemma="orgán" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-ln95047-012-p3s3w8">
 <src.rf>manual</src.rf>
@@ -2127,7 +2127,7 @@
 <LM>w#w-ln95047-012-p3s3w9</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9NS4FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9NS4FS3-------</tag>
 </m>
 <m id="m-ln95047-012-p3s3w10">
 <src.rf>manual</src.rf>
@@ -2265,7 +2265,7 @@
 <LM>w#w-ln95047-012-p3s4w11</LM>
 </w.rf>
 <form>Prouza</form>
-<tag lemma="Prouza_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Prouza-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-012-p3s4w12">
 <src.rf>manual</src.rf>
@@ -2523,7 +2523,7 @@
 <LM>w#w-ln95047-012-p3s5w31</LM>
 </w.rf>
 <form>polních</form>
-<tag lemma="polní-1" src="orig" selected="1">AAFP6----1A----</tag>
+<tag lemma="polní" src="orig" selected="1">AAFP6----1A----</tag>
 </m>
 <m id="m-ln95047-012-p3s5w32">
 <src.rf>manual</src.rf>
@@ -2733,7 +2733,7 @@
 <LM>w#w-ln95047-012-p3s6w22</LM>
 </w.rf>
 <form>Prouza</form>
-<tag lemma="Prouza_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Prouza-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-012-p3s6w23">
 <src.rf>manual</src.rf>

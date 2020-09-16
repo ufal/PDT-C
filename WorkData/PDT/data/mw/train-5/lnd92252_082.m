@@ -548,7 +548,7 @@
 <LM>w#w-lnd92252-082-p1s1Bw62</LM>
 </w.rf>
 <form>Loko</form>
-<tag lemma="Loko_;G" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Loko_;G_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-lnd92252-082-p1s1Bw63">
 <src.rf>manual</src.rf>
@@ -1142,7 +1142,7 @@
 <LM>w#w-lnd92252-082-p11s1w3</LM>
 </w.rf>
 <form>Loko</form>
-<tag lemma="Loko_;G" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Loko_;G_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-lnd92252-082-p11s1w4">
 <src.rf>manual</src.rf>

@@ -591,7 +591,7 @@
 <LM>w#w-mf930709-136-p3s1w1</LM>
 </w.rf>
 <form>Mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="mluvčí-2" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930709-136-p3s1w2">
 <src.rf>manual</src.rf>
@@ -949,7 +949,7 @@
 <LM>w#w-mf930709-136-p4s1w17</LM>
 </w.rf>
 <form>modré</form>
-<tag lemma="modrý" src="orig" selected="1">AAFP4----1A----</tag>
+<tag lemma="modrý_;o" src="orig" selected="1">AAFP4----1A----</tag>
 </m>
 <m id="m-mf930709-136-p4s1w18">
 <src.rf>manual</src.rf>
@@ -1111,7 +1111,7 @@
 <LM>w#w-mf930709-136-p5s1w5</LM>
 </w.rf>
 <form>člen</form>
-<tag lemma="člen" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-136-p5s1w6">
 <src.rf>manual</src.rf>

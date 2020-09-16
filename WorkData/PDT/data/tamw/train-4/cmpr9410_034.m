@@ -202,7 +202,7 @@
 <LM>w#w-cmpr9410-034-p2s2w3</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-cmpr9410-034-p2s2w4">
 <src.rf>manual</src.rf>
@@ -553,7 +553,7 @@
 <LM>w#w-cmpr9410-034-p2s5w1</LM>
 </w.rf>
 <form>Obžalovací</form>
-<tag lemma="obžalovací" src="auto" selected="1">AAIS1----1A----</tag>
+<tag lemma="obžalovací_^(*2t)" src="auto" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-cmpr9410-034-p2s5w2">
 <src.rf>manual</src.rf>
@@ -867,7 +867,7 @@
 <LM>w#w-cmpr9410-034-p3s2w4</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8MS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8MS4----------</tag>
 </m>
 <m id="m-cmpr9410-034-p3s2w5">
 <src.rf>manual</src.rf>
@@ -1403,7 +1403,7 @@
 <LM>w#w-cmpr9410-034-p4s3w18</LM>
 </w.rf>
 <form>dostání</form>
-<tag lemma="dostání_^(*3at)" src="orig" selected="1">NNNS3-----A----</tag>
+<tag lemma="dostání_^(*2t)_(*3at)" src="orig" selected="1">NNNS3-----A----</tag>
 </m>
 <m id="m-cmpr9410-034-p4s3w19">
 <src.rf>manual</src.rf>
@@ -2210,7 +2210,7 @@
 <LM>w#w-cmpr9410-034-p5s3w19</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-cmpr9410-034-p5s3w20">
 <src.rf>manual</src.rf>
@@ -2263,7 +2263,7 @@
 <LM>w#w-cmpr9410-034-p5s4w1</LM>
 </w.rf>
 <form>Wackerova</form>
-<tag lemma="Wackerův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Wackerův-1_;Y_^(*4-1)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-cmpr9410-034-p5s4w2">
 <src.rf>manual</src.rf>
@@ -2287,7 +2287,7 @@
 <LM>w#w-cmpr9410-034-p5s4w4</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-cmpr9410-034-p5s4w5">
 <src.rf>manual</src.rf>
@@ -2593,7 +2593,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-2" src="auto">Db-------------</AM>
-<AM lemma="třeba-3" src="manual" selected="1">TT-------------</AM>
+<AM lemma="třeba-2_^(například)" src="manual" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-034-p6s1w29">

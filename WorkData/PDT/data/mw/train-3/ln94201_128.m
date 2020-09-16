@@ -37,7 +37,7 @@
 <LM>w#w-ln94201-128-p2s1w2</LM>
 </w.rf>
 <form>umění</form>
-<tag lemma="umění_^(mít_schopnost_něco_dělat)_(*2t)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="umění_^(*2t)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln94201-128-p2s1w3">
 <src.rf>manual</src.rf>
@@ -95,7 +95,7 @@
 <form>konkurz</form>
 <tag>
 <AM lemma="konkurs_^(úpadek;;soutěž)" src="auto">NNIS4-----A----</AM>
-<AM lemma="konkurz_^(úpadek;;soutěž)" src="manual" selected="1">NNIS4-----A----</AM>
+<AM lemma="konkurz" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-128-p2s1w10">
@@ -354,7 +354,7 @@
 <form>konkurzu</form>
 <tag>
 <AM lemma="konkurs_^(úpadek;;soutěž)" src="auto">NNIS2-----A----</AM>
-<AM lemma="konkurz_^(úpadek;;soutěž)" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="konkurz" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-128-p2s2w3">
@@ -429,7 +429,7 @@
 <LM>w#w-ln94201-128-p2s3w3</LM>
 </w.rf>
 <form>stanovené</form>
-<tag lemma="stanovený_^(určit)_(*3it)" src="orig" selected="1">AAFP1----1A----</tag>
+<tag lemma="stanovený_^(*3it)" src="orig" selected="1">AAFP1----1A----</tag>
 </m>
 <m id="m-ln94201-128-p2s3w4">
 <src.rf>manual</src.rf>
@@ -533,7 +533,7 @@
 <LM>w#w-ln94201-128-p2s3w16</LM>
 </w.rf>
 <form>umění</form>
-<tag lemma="umění_^(mít_schopnost_něco_dělat)_(*2t)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="umění_^(*2t)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln94201-128-p2s3w17">
 <src.rf>manual</src.rf>

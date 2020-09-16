@@ -333,7 +333,7 @@
 <LM>w#w-lnd92252-037-p3s3w9</LM>
 </w.rf>
 <form>Radě</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-lnd92252-037-p3s3w10">
 <src.rf>manual</src.rf>
@@ -698,7 +698,7 @@
 <LM>w#w-lnd92252-037-p3s5w10</LM>
 </w.rf>
 <form>zjednodušení</form>
-<tag lemma="zjednodušení_,s_^(*2t)" src="auto" selected="1">NNNS4-----A----</tag>
+<tag lemma="zjednodušení_^(*2t)_(*3it)" src="auto" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-lnd92252-037-p3s5w11">
 <src.rf>manual</src.rf>
@@ -714,7 +714,7 @@
 <LM>w#w-lnd92252-037-p3s5w12</LM>
 </w.rf>
 <form>mechanismu</form>
-<tag lemma="mechanismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="mechanismus_,s_^(^DD**mechanizmus)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92252-037-p3s5w13">
 <src.rf>manual</src.rf>

@@ -43,7 +43,7 @@
 <LM>w#w-ln95048-081-p1s1w4</LM>
 </w.rf>
 <form>černém</form>
-<tag lemma="černý" src="auto" selected="1">AAMS6----1A----</tag>
+<tag lemma="černý_;o" src="auto" selected="1">AAMS6----1A----</tag>
 </m>
 <m id="m-ln95048-081-p1s1w5">
 <src.rf>manual</src.rf>
@@ -544,7 +544,7 @@
 <LM>w#w-ln95048-081-p3s2w11</LM>
 </w.rf>
 <form>manažer</form>
-<tag lemma="manažer" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="manažer-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-081-p3s2w12">
 <src.rf>manual</src.rf>
@@ -738,7 +738,7 @@
 <LM>w#w-ln95048-081-p3s3w11</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln95048-081-p3s3w12">
 <src.rf>manual</src.rf>
@@ -770,7 +770,7 @@
 <LM>w#w-ln95048-081-p3s3w15</LM>
 </w.rf>
 <form>kádr</form>
-<tag lemma="kádr" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="kádr-1" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln95048-081-p3s3w16">
 <src.rf>manual</src.rf>
@@ -1023,7 +1023,7 @@
 <LM>w#w-ln95048-081-p3s4w20</LM>
 </w.rf>
 <form>kádru</form>
-<tag lemma="kádr" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="kádr-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95048-081-p3s4w21">
 <src.rf>manual</src.rf>
@@ -1446,7 +1446,7 @@
 <LM>w#w-ln95048-081-p4s1w34</LM>
 </w.rf>
 <form>lety</form>
-<tag lemma="rok" src="orig" selected="1">NNNP7-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP7-----A----</tag>
 </m>
 <m id="m-ln95048-081-p4s1w35">
 <src.rf>manual</src.rf>
@@ -1582,7 +1582,7 @@
 <LM>w#w-ln95048-081-p4s1w51</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-ln95048-081-p4s1w52">
 <src.rf>manual</src.rf>
@@ -1688,7 +1688,7 @@
 <LM>w#w-ln95048-081-p4s2w10</LM>
 </w.rf>
 <form>černého</form>
-<tag lemma="černý" src="auto" selected="1">AAMS2----1A----</tag>
+<tag lemma="černý_;o" src="auto" selected="1">AAMS2----1A----</tag>
 </m>
 <m id="m-ln95048-081-p4s2w11">
 <src.rf>manual</src.rf>
@@ -1768,7 +1768,7 @@
 <LM>w#w-ln95048-081-p4s2w20</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-ln95048-081-p4s2w21">
 <src.rf>manual</src.rf>

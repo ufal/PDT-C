@@ -702,7 +702,7 @@
 <LM>w#w-mf930703-043-p3s1w17</LM>
 </w.rf>
 <form>Evropě</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf930703-043-p3s1w18">
 <src.rf>manual</src.rf>
@@ -1165,7 +1165,7 @@
 <LM>w#w-mf930703-043-p4s1w11</LM>
 </w.rf>
 <form>nezaměstnanost</form>
-<tag lemma="nezaměstnanost-2_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="nezaměstnanost_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930703-043-p4s1w12">
 <src.rf>manual</src.rf>
@@ -1534,7 +1534,7 @@
 <LM>w#w-mf930703-043-p4s3w17</LM>
 </w.rf>
 <form>delší</form>
-<tag lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">AANS4----2A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AANS4----2A----</tag>
 </m>
 <m id="m-mf930703-043-p4s3w18">
 <src.rf>manual</src.rf>
@@ -1600,7 +1600,7 @@
 <LM>w#w-mf930703-043-p5s1w5</LM>
 </w.rf>
 <form>Evropě</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-mf930703-043-p5s1w6">
 <src.rf>manual</src.rf>
@@ -1739,7 +1739,7 @@
 <LM>w#w-mf930703-043-p5s1w22</LM>
 </w.rf>
 <form>horší</form>
-<tag lemma="špatný" src="orig" selected="1">AAFS1----2A----</tag>
+<tag lemma="horší" src="orig" selected="1">AAFS1----2A----</tag>
 </m>
 <m id="m-mf930703-043-p5s1w23">
 <src.rf>manual</src.rf>
@@ -3091,7 +3091,7 @@
 <LM>w#w-mf930703-043-p8s2w23</LM>
 </w.rf>
 <form>politice</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-mf930703-043-p8s2w24">
 <src.rf>manual</src.rf>
@@ -3208,7 +3208,7 @@
 <LM>w#w-mf930703-043-p9s1w7</LM>
 </w.rf>
 <form>málo</form>
-<tag lemma="málo-1_^(málo_+_2._p.,_málo_peněz)" src="orig" selected="1">Ca--4----------</tag>
+<tag lemma="málo-1_^(málo_peněz)" src="orig" selected="1">Ca--4----------</tag>
 </m>
 <m id="m-mf930703-043-p9s1w8">
 <src.rf>manual</src.rf>
@@ -3431,7 +3431,7 @@
 <LM>w#w-mf930703-043-p9s3w17</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-mf930703-043-p9s3w18">
 <src.rf>manual</src.rf>
@@ -3996,7 +3996,7 @@
 <LM>w#w-mf930703-043-p10s2w1</LM>
 </w.rf>
 <form>Nezaměstnanost</form>
-<tag lemma="nezaměstnanost-2_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="nezaměstnanost_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930703-043-p10s2w2">
 <src.rf>manual</src.rf>
@@ -4292,7 +4292,7 @@
 <LM>w#w-mf930703-043-p11s2w1</LM>
 </w.rf>
 <form>Neschopnost</form>
-<tag lemma="neschopnost_;U_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="neschopnost_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930703-043-p11s2w2">
 <src.rf>manual</src.rf>
@@ -4580,7 +4580,7 @@
 <LM>w#w-mf930703-043-p11s4w4</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-mf930703-043-p11s4w5">
 <src.rf>manual</src.rf>
@@ -4628,7 +4628,7 @@
 <LM>w#w-mf930703-043-p11s4w10</LM>
 </w.rf>
 <form>politice</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-mf930703-043-p11s4w11">
 <src.rf>manual</src.rf>
@@ -4791,7 +4791,7 @@
 <LM>w#w-mf930703-043-p12s1w10</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-mf930703-043-p12s1w11">
 <src.rf>manual</src.rf>

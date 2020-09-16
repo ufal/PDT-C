@@ -143,7 +143,7 @@
 <AM lemma="blade_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Blade_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Blade_;Y" src="auto">NNMS5-----A----</AM>
-<AM lemma="Blade-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="blade-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-089-p1s1w15">
@@ -405,7 +405,7 @@
 <LM>w#w-lnd92255-089-p1s2w8</LM>
 </w.rf>
 <form>člena</form>
-<tag lemma="člen" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd92255-089-p1s2w9">
 <src.rf>manual</src.rf>
@@ -520,7 +520,7 @@
 <LM>w#w-lnd92255-089-p1s2w22</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-lnd92255-089-p1s2w23">
 <src.rf>manual</src.rf>
@@ -919,7 +919,7 @@
 <LM>w#w-lnd92255-089-p1s4w22</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XP1FS3-------</tag>
 </m>
 <m id="m-lnd92255-089-p1s4w23">
 <src.rf>manual</src.rf>
@@ -1543,7 +1543,7 @@
 <LM>w#w-lnd92255-089-p1s8w21</LM>
 </w.rf>
 <form>Marie</form>
-<tag lemma="Marie-1_;Y" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Marie_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92255-089-p1s8w22">
 <src.rf>manual</src.rf>

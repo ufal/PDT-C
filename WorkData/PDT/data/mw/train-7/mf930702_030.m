@@ -420,7 +420,7 @@
 <LM>w#w-mf930702-030-p2s3w4</LM>
 </w.rf>
 <form>zveřejněná</form>
-<tag lemma="zveřejněný_^(*3it)" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="zveřejněný_^(*2t)_(*3it)" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-mf930702-030-p2s3w5">
 <src.rf>manual</src.rf>

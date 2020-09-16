@@ -745,7 +745,7 @@
 <AM lemma="navržený_^(*4hnout)" src="auto">AAFP1----1A----</AM>
 <AM lemma="navržený_^(*4hnout)" src="auto">AAFP4----1A----</AM>
 <AM lemma="navržený_^(*4hnout)" src="auto">AAFP5----1A----</AM>
-<AM lemma="navržený_^(*4hnout)" src="auto" recommended="1">AAFS2----1A----</AM>
+<AM lemma="navržený" src="auto" recommended="1">AAFS2----1A----</AM>
 <AM lemma="navržený_^(*4hnout)" src="auto">AAFS3----1A----</AM>
 <AM lemma="navržený_^(*4hnout)" src="auto">AAFS6----1A----</AM>
 <AM lemma="navržený_^(*4hnout)" src="auto">AAIP1----1A----</AM>
@@ -1054,7 +1054,7 @@
 </w.rf>
 <form>výboru</form>
 <tag>
-<AM lemma="výbor" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="výbor-1" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="výbor" src="auto">NNIS3-----A----</AM>
 <AM lemma="výbor" src="auto">NNIS6-----A----</AM>
 <AM lemma="výbor" src="auto">NNMS3-----A---1</AM>

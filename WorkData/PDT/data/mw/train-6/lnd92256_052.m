@@ -422,7 +422,7 @@
 <LM>w#w-lnd92256-052-p2s3w14</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FP4---------1</tag>
 </m>
 <m id="m-lnd92256-052-p2s3w15">
 <src.rf>manual</src.rf>
@@ -430,7 +430,7 @@
 <LM>w#w-lnd92256-052-p2s3w15</LM>
 </w.rf>
 <form>nedotknutelné</form>
-<tag lemma="dotknutelný_^(fyz._i_abstr.,_př._drátů,_práv,_citů)_(*6out)" src="orig" selected="1">AAFP4----1N----</tag>
+<tag lemma="dotknutelný_^(*6out)" src="orig" selected="1">AAFP4----1N----</tag>
 </m>
 <m id="m-lnd92256-052-p2s3w16">
 <src.rf>manual</src.rf>
@@ -672,7 +672,7 @@
 <LM>w#w-lnd92256-052-p2s4w20</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-lnd92256-052-p2s4w21">
 <src.rf>manual</src.rf>

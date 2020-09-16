@@ -375,7 +375,7 @@
 <LM>w#w-ln94205-125-p2s2w8</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-ln94205-125-p2s2w9">
 <src.rf>manual</src.rf>
@@ -428,7 +428,7 @@
 <LM>w#w-ln94205-125-p2s3w4</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-ln94205-125-p2s3w5">
 <src.rf>manual</src.rf>
@@ -492,7 +492,7 @@
 <LM>w#w-ln94205-125-p2s3w12</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-ln94205-125-p2s3w13">
 <src.rf>manual</src.rf>
@@ -532,7 +532,7 @@
 <LM>w#w-ln94205-125-p2s3w17</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-ln94205-125-p2s3w18">
 <src.rf>manual</src.rf>
@@ -721,7 +721,7 @@
 <LM>w#w-ln94205-125-p2s4w16</LM>
 </w.rf>
 <form>manažer</form>
-<tag lemma="manažer" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="manažer-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-125-p2s4w17">
 <src.rf>manual</src.rf>
@@ -1024,7 +1024,7 @@
 <AM lemma="stání-3_^(někdo/něco_stojí,_např._na_nohou)" src="auto">NNNP5-----A----</AM>
 <AM lemma="stání-3_^(někdo/něco_stojí,_např._na_nohou)" src="auto">NNNS1-----A----</AM>
 <AM lemma="stání-3_^(někdo/něco_stojí,_např._na_nohou)" src="auto">NNNS2-----A----</AM>
-<AM lemma="stání-3_^(někdo/něco_stojí,_např._na_nohou)" src="auto" recommended="1" selected="1">NNNS3-----A----</AM>
+<AM lemma="stání" src="auto" recommended="1" selected="1">NNNS3-----A----</AM>
 <AM lemma="stání-3_^(někdo/něco_stojí,_např._na_nohou)" src="auto">NNNS4-----A----</AM>
 <AM lemma="stání-3_^(někdo/něco_stojí,_např._na_nohou)" src="auto">NNNS5-----A----</AM>
 <AM lemma="stání-3_^(někdo/něco_stojí,_např._na_nohou)" src="auto">NNNS6-----A----</AM>
@@ -1062,7 +1062,7 @@
 <LM>w#w-ln94205-125-p3s1Bw12</LM>
 </w.rf>
 <form>náš</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSYS1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSYS1-P1-------</tag>
 </m>
 <m id="m-ln94205-125-p3s1Bw13">
 <src.rf>manual</src.rf>
@@ -1788,7 +1788,7 @@
 <LM>w#w-ln94205-125-p4s1w16</LM>
 </w.rf>
 <form>cestě</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-ln94205-125-p4s1w17">
 <src.rf>manual</src.rf>

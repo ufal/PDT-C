@@ -35,7 +35,7 @@
 <LM>w#w-mf930702-077-p1s1w3</LM>
 </w.rf>
 <form>Novotné</form>
-<tag lemma="Novotná_;Y_^(*1ý)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Novotná_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930702-077-p1s1w4">
 <src.rf>manual</src.rf>
@@ -75,7 +75,7 @@
 <LM>w#w-mf930702-077-p1s1w8</LM>
 </w.rf>
 <form>Wimbledonu</form>
-<tag lemma="Wimbledon-2_^(tenis._turnaj)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Wimbledon" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 </s>
 </mdata>

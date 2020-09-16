@@ -396,7 +396,7 @@
 <LM>w#w-lnd91301-039-p3s2w17</LM>
 </w.rf>
 <form>správním</form>
-<tag lemma="správní_^(např._poplatek;_rada;_řád;...)" src="orig" selected="1">AANS6----1A----</tag>
+<tag lemma="správní_^(správní_rada;_řád)" src="orig" selected="1">AANS6----1A----</tag>
 </m>
 <m id="m-lnd91301-039-p3s2w18">
 <src.rf>manual</src.rf>

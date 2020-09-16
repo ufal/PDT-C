@@ -1524,7 +1524,7 @@
 <LM>w#w-ln95047-058-p4s3w2</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-ln95047-058-p4s3w3">
 <src.rf>manual</src.rf>
@@ -2136,7 +2136,7 @@
 <LM>w#w-ln95047-058-p5s3w10</LM>
 </w.rf>
 <form>málo</form>
-<tag lemma="málo-2_^(př._to_málo_co_měl)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="málo-2_^(to_málo_co_měl)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln95047-058-p5s3w11">
 <src.rf>manual</src.rf>
@@ -2216,7 +2216,7 @@
 <form>jen</form>
 <tag>
 <AM lemma="jen-1" src="auto">TT-------------</AM>
-<AM lemma="jen_^(pouze)-" src="manual" selected="1">Db-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln95047-058-p5s3w20">
@@ -2299,7 +2299,7 @@
 <form>události</form>
 <tag>
 <AM lemma="událost_,a_^(*3ý)" src="orig">NNFP4-----A----</AM>
-<AM lemma="událost_^(*3ý)" src="manual" selected="1">NNFP4-----A----</AM>
+<AM lemma="událost" src="manual" selected="1">NNFP4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-058-p5s3w30">

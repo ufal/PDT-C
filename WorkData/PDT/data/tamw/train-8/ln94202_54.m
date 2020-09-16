@@ -223,7 +223,7 @@
 <LM>w#w-ln94202-54-p2s1Cw12</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-ln94202-54-p2s1Cw13">
 <src.rf>manual</src.rf>
@@ -676,7 +676,7 @@
 <LM>w#w-ln94202-54-p2s3w24</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrIS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS4----------</tag>
 </m>
 <m id="m-ln94202-54-p2s3w25">
 <src.rf>manual</src.rf>

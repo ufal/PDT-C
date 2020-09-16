@@ -503,7 +503,7 @@
 <LM>w#w-ln94202-91-p2s2w23</LM>
 </w.rf>
 <form>Hall</form>
-<tag lemma="Hall_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hall-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-91-p2s2w24">
 <src.rf>manual</src.rf>
@@ -1582,7 +1582,7 @@
 <LM>w#w-ln94202-91-p4s2w2</LM>
 </w.rf>
 <form>maxi</form>
-<tag lemma="maxi" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="maxi-1" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-ln94202-91-p4s2w3">
 <src.rf>manual</src.rf>
@@ -2071,7 +2071,7 @@
 <AM lemma="nine_,t" src="auto" recommended="1">XX-------------</AM>
 <AM lemma="nine_,t" src="manual">ClXXX----------</AM>
 <AM lemma="nine_,t" src="manual">Cn-XX----------</AM>
-<AM lemma="Nine-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="nine-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94202-91-p4s4w16">

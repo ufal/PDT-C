@@ -2469,7 +2469,7 @@
 <form>Jánský</form>
 <tag>
 <AM lemma="Jánský_;G" src="orig">AAMS1----1A----</AM>
-<AM lemma="Jánský_;G_;Y" src="manual" selected="1">AAMS1----1A----</AM>
+<AM lemma="jánský" src="manual" selected="1">AAMS1----1A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-008-p10s1w7">

@@ -357,7 +357,7 @@
 <LM>w#w-mf920925-069-p2s2w31</LM>
 </w.rf>
 <form>tajných</form>
-<tag lemma="tajný" src="orig" selected="1">AAFP2----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AAFP2----1A----</tag>
 </m>
 <m id="m-mf920925-069-p2s2w32">
 <src.rf>manual</src.rf>

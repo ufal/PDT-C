@@ -79,7 +79,7 @@
 <LM>w#w-ln95041-025-p2s1Bw3</LM>
 </w.rf>
 <form>Amsterdam</form>
-<tag lemma="Amsterodam_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Amsterdam_;G_,s_^(^DD**Amsterodam)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95041-025-p2s1Bw4">
 <src.rf>manual</src.rf>

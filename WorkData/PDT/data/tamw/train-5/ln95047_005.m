@@ -508,7 +508,7 @@
 <LM>w#w-ln95047-005-p3s1w16</LM>
 </w.rf>
 <form>vydaný</form>
-<tag lemma="vydaný-2_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)_(*4t-2)" src="orig" selected="1">AAIS4----1A----</tag>
+<tag lemma="vydaný_^(*2t)" src="orig" selected="1">AAIS4----1A----</tag>
 </m>
 <m id="m-ln95047-005-p3s1w17">
 <src.rf>manual</src.rf>
@@ -633,7 +633,7 @@
 <LM>w#w-ln95047-005-p3s2w11</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP2-P1-------</tag>
 </m>
 <m id="m-ln95047-005-p3s2w12">
 <src.rf>manual</src.rf>
@@ -742,7 +742,7 @@
 <LM>w#w-ln95047-005-p4s1w4</LM>
 </w.rf>
 <form>jejímž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1ZS7FS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1ZS7FS3-------</tag>
 </m>
 <m id="m-ln95047-005-p4s1w5">
 <src.rf>manual</src.rf>

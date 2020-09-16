@@ -43,7 +43,7 @@
 <LM>w#w-mf930701-170-p1s1w4</LM>
 </w.rf>
 <form>děti</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-mf930701-170-p1s1w5">
 <src.rf>manual</src.rf>

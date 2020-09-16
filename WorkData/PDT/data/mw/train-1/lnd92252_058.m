@@ -19,7 +19,7 @@
 <LM>w#w-lnd92252-058-p1s1w1</LM>
 </w.rf>
 <form>RADA</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92252-058-p1s1w2">
 <src.rf>manual</src.rf>
@@ -263,7 +263,7 @@
 <LM>w#w-lnd92252-058-p3s2w7</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd92252-058-p3s2w8">
 <src.rf>manual</src.rf>
@@ -367,7 +367,7 @@
 <LM>w#w-lnd92252-058-p3s2w20</LM>
 </w.rf>
 <form>orgán</form>
-<tag lemma="orgán" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-lnd92252-058-p3s2w21">
 <src.rf>manual</src.rf>
@@ -383,7 +383,7 @@
 <LM>w#w-lnd92252-058-p3s2w22</LM>
 </w.rf>
 <form>málo</form>
-<tag lemma="málo-3_^(málo_+_příd._jm.,_př._byl_málo_důsledný)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="málo-3_^(málo_důsledný)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd92252-058-p3s2w23">
 <src.rf>manual</src.rf>
@@ -499,7 +499,7 @@
 <LM>w#w-lnd92252-058-p3s4w2</LM>
 </w.rf>
 <form>nechť</form>
-<tag lemma="nechť" src="orig" selected="1">TT-------------</tag>
+<tag lemma="nechť-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-lnd92252-058-p3s4w3">
 <src.rf>manual</src.rf>
@@ -566,7 +566,7 @@
 <LM>w#w-lnd92252-058-p3s4w10</LM>
 </w.rf>
 <form>právo</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-lnd92252-058-p3s4w11">
 <src.rf>manual</src.rf>

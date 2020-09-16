@@ -109,7 +109,7 @@
 <LM>w#w-ln95046-070-p2s1w8</LM>
 </w.rf>
 <form>dni</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS3-----A---1</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS3-----A---1</tag>
 </m>
 <m id="m-ln95046-070-p2s1w9">
 <src.rf>manual</src.rf>
@@ -299,7 +299,7 @@
 <LM>w#w-ln95046-070-p2s2w13</LM>
 </w.rf>
 <form>provizoria</form>
-<tag lemma="provizórium" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="provizorium_,s_^(^DD**provizórium)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln95046-070-p2s2w14">
 <src.rf>manual</src.rf>
@@ -759,7 +759,7 @@
 <LM>w#w-ln95046-070-p3s1w11</LM>
 </w.rf>
 <form>tajné</form>
-<tag lemma="tajný" src="orig" selected="1">AAFS2----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-ln95046-070-p3s1w12">
 <src.rf>manual</src.rf>

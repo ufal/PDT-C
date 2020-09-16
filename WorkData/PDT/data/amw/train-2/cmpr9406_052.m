@@ -27,7 +27,7 @@
 <LM>w#w-cmpr9406-052-p2s1w2</LM>
 </w.rf>
 <form>práva</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNP1-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNP1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9406-052-p3s1">
@@ -343,7 +343,7 @@
 <LM>w#w-cmpr9406-052-p3s2w9</LM>
 </w.rf>
 <form>správní</form>
-<tag lemma="správní_^(např._poplatek;_rada;_řád;...)" src="orig" selected="1">AAFS6----1A----</tag>
+<tag lemma="správní_^(správní_rada;_řád)" src="orig" selected="1">AAFS6----1A----</tag>
 </m>
 <m id="m-cmpr9406-052-p3s2w10">
 <src.rf>manual</src.rf>
@@ -612,7 +612,7 @@
 <LM>w#w-cmpr9406-052-p4s1w22</LM>
 </w.rf>
 <form>Bubeneč</form>
-<tag lemma="Bubeneč_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Bubeneč-1_;G" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-052-p4s1w23">
 <src.rf>manual</src.rf>

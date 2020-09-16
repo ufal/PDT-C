@@ -474,7 +474,7 @@
 <LM>w#w-mf920901-047-p2s2w2</LM>
 </w.rf>
 <form>bílý</form>
-<tag lemma="bílý" src="orig" selected="1">AAIS1----1A----</tag>
+<tag lemma="bílý_;o" src="orig" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-mf920901-047-p2s2w3">
 <src.rf>manual</src.rf>
@@ -862,7 +862,7 @@
 <LM>w#w-mf920901-047-p3s1w3</LM>
 </w.rf>
 <form>km</form>
-<tag lemma="km-1`kilometr" src="orig" selected="1">NNIXX-----A---b</tag>
+<tag lemma="kilometr" src="orig" selected="1">NNIXX-----A---b</tag>
 </m>
 <m id="m-mf920901-047-p3s1w4">
 <src.rf>manual</src.rf>
@@ -870,7 +870,7 @@
 <LM>w#w-mf920901-047-p3s1w4</LM>
 </w.rf>
 <form>dlouhý</form>
-<tag lemma="dlouhý-1_^(fyz._délka;_př._dlouhá_tyč)" src="orig" selected="1">AAIS1----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-mf920901-047-p3s1w5">
 <src.rf>manual</src.rf>
@@ -1420,7 +1420,7 @@
 <LM>w#w-mf920901-047-p4s1w8</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1XP1FS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XP1FS3-------</tag>
 </m>
 <m id="m-mf920901-047-p4s1w9">
 <src.rf>manual</src.rf>
@@ -1428,7 +1428,7 @@
 <LM>w#w-mf920901-047-p4s1w9</LM>
 </w.rf>
 <form>žluté</form>
-<tag lemma="žlutý" src="orig" selected="1">AAIP1----1A----</tag>
+<tag lemma="žlutý_;o" src="orig" selected="1">AAIP1----1A----</tag>
 </m>
 <m id="m-mf920901-047-p4s1w10">
 <src.rf>manual</src.rf>
@@ -1468,7 +1468,7 @@
 <LM>w#w-mf920901-047-p4s1w14</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrNP4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNP4----------</tag>
 </m>
 <m id="m-mf920901-047-p4s1w15">
 <src.rf>manual</src.rf>
@@ -1508,7 +1508,7 @@
 <LM>w#w-mf920901-047-p4s1w19</LM>
 </w.rf>
 <form>nejlepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AANS1----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AANS1----3A----</tag>
 </m>
 <m id="m-mf920901-047-p4s1w20">
 <src.rf>manual</src.rf>
@@ -1750,7 +1750,7 @@
 <LM>w#w-mf920901-047-p4s1w47</LM>
 </w.rf>
 <form>Švéda</form>
-<tag lemma="Švéd_;E" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Švéd_;E_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920901-047-p4s1w48">
 <src.rf>manual</src.rf>
@@ -2006,7 +2006,7 @@
 <LM>w#w-mf920901-047-p4s2w29</LM>
 </w.rf>
 <form>zpestřené</form>
-<tag lemma="zpestřený_,s_^(*2t)" src="auto" selected="1">AAFS6----1A----</tag>
+<tag lemma="zpestřený_^(*2t)_(*3it)" src="auto" selected="1">AAFS6----1A----</tag>
 </m>
 <m id="m-mf920901-047-p4s2w30">
 <src.rf>manual</src.rf>
@@ -2675,7 +2675,7 @@
 <LM>w#w-mf920901-047-p6s2w1</LM>
 </w.rf>
 <form>Nejlepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAIP1----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAIP1----3A----</tag>
 </m>
 <m id="m-mf920901-047-p6s2w2">
 <src.rf>manual</src.rf>
@@ -2723,7 +2723,7 @@
 <LM>w#w-mf920901-047-p6s2w7</LM>
 </w.rf>
 <form>kamiony</form>
-<tag lemma="kamión" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="kamion_,s_^(^DD**kamión)" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-mf920901-047-p6s2w8">
 <src.rf>manual</src.rf>
@@ -2904,7 +2904,7 @@
 <LM>w#w-mf920901-047-p6s3w1</LM>
 </w.rf>
 <form>Naši</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSMP1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSMP1-P1-------</tag>
 </m>
 <m id="m-mf920901-047-p6s3w2">
 <src.rf>manual</src.rf>
@@ -3008,7 +3008,7 @@
 <LM>w#w-mf920901-047-p6s3w14</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS4----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS4----------</tag>
 </m>
 <m id="m-mf920901-047-p6s3w15">
 <src.rf>manual</src.rf>
@@ -3335,7 +3335,7 @@
 <LM>w#w-mf920901-047-p7s2w10</LM>
 </w.rf>
 <form>jezdcům</form>
-<tag lemma="jezdec" src="orig" selected="1">NNMP3-----A----</tag>
+<tag lemma="jezdec-1" src="orig" selected="1">NNMP3-----A----</tag>
 </m>
 <m id="m-mf920901-047-p7s2w11">
 <src.rf>manual</src.rf>

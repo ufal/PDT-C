@@ -1145,7 +1145,7 @@
 <LM>w#w-cmpr9406-037-p10s2w5</LM>
 </w.rf>
 <form>dalo</form>
-<tag lemma="dát" src="orig" selected="1">VpNS----R-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-cmpr9406-037-p10s2w6">
 <src.rf>manual</src.rf>
@@ -1381,7 +1381,7 @@
 <LM>w#w-cmpr9406-037-p11s1w1</LM>
 </w.rf>
 <form>Své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8NS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8NS4---------1</tag>
 </m>
 <m id="m-cmpr9406-037-p11s1w2">
 <src.rf>manual</src.rf>
@@ -2376,7 +2376,7 @@
 <AM lemma="chemička-1_^(továrna)" src="auto">NNFP1-----A----</AM>
 <AM lemma="chemička-1_^(továrna)" src="auto">NNFP4-----A----</AM>
 <AM lemma="chemička-1_^(továrna)" src="auto">NNFP5-----A----</AM>
-<AM lemma="chemička-1_^(továrna)" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
+<AM lemma="chemička-2" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
 <AM lemma="chemička-2_^(^FM*5k)" src="auto">NNFP1-----A----</AM>
 <AM lemma="chemička-2_^(^FM*5k)" src="auto">NNFP4-----A----</AM>
 <AM lemma="chemička-2_^(^FM*5k)" src="auto">NNFP5-----A----</AM>
@@ -2920,7 +2920,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-037-p15s1w16">
@@ -3248,7 +3248,7 @@
 <LM>w#w-cmpr9406-037-p15s1w55</LM>
 </w.rf>
 <form>ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-cmpr9406-037-p15s1w56">
 <src.rf>manual</src.rf>
@@ -3396,7 +3396,7 @@
 <LM>w#w-cmpr9406-037-p17s1w5</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS7----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS7----------</tag>
 </m>
 <m id="m-cmpr9406-037-p17s1w6">
 <src.rf>manual</src.rf>
@@ -3944,7 +3944,7 @@
 <LM>w#w-cmpr9406-037-p17s5w6</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-cmpr9406-037-p17s5w7">
 <src.rf>manual</src.rf>
@@ -4140,7 +4140,7 @@
 <LM>w#w-cmpr9406-037-p18s3w1</LM>
 </w.rf>
 <form>Dali</form>
-<tag lemma="dát" src="orig" selected="1">VpMP----R-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-cmpr9406-037-p18s3w2">
 <src.rf>manual</src.rf>
@@ -4294,7 +4294,7 @@
 <LM>w#w-cmpr9406-037-p18s4w9</LM>
 </w.rf>
 <form>lety</form>
-<tag lemma="rok" src="orig" selected="1">NNNP7-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP7-----A----</tag>
 </m>
 <m id="m-cmpr9406-037-p18s4w10">
 <src.rf>manual</src.rf>
@@ -5288,7 +5288,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-037-p23s1w3">
@@ -5563,7 +5563,7 @@
 <LM>w#w-cmpr9406-037-p23s2w30</LM>
 </w.rf>
 <form>ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-cmpr9406-037-p23s2w31">
 <src.rf>manual</src.rf>
@@ -6149,7 +6149,7 @@
 <LM>w#w-cmpr9406-037-p25s1w13</LM>
 </w.rf>
 <form>Sb</form>
-<tag lemma="Sb-1_^(Sbírka,_např._zákonů)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="sbírka" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-cmpr9406-037-p25s1w14">
 <src.rf>manual</src.rf>
@@ -6329,7 +6329,7 @@
 <LM>w#w-cmpr9406-037-p25s3w2</LM>
 </w.rf>
 <form>pana</form>
-<tag lemma="pan_^(oslovení)" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="pan" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9406-037-p25s3w3">
 <src.rf>manual</src.rf>

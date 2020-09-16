@@ -178,7 +178,7 @@
 <LM>w#w-lnd94103-152-p1s3w11</LM>
 </w.rf>
 <form>dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd94103-152-p1s3w12">
 <src.rf>manual</src.rf>

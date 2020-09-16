@@ -51,7 +51,7 @@
 <LM>w#w-ln94201-46-p1s1w5</LM>
 </w.rf>
 <form>Rudými</form>
-<tag lemma="rudý" src="orig" selected="1">AAMP7----1A----</tag>
+<tag lemma="rudý_;o" src="orig" selected="1">AAMP7----1A----</tag>
 </m>
 <m id="m-ln94201-46-p1s1w6">
 <src.rf>manual</src.rf>
@@ -59,7 +59,7 @@
 <LM>w#w-ln94201-46-p1s1w6</LM>
 </w.rf>
 <form>Khmery</form>
-<tag lemma="Khmer" src="orig" selected="1">NNMP7-----A----</tag>
+<tag lemma="Khmer_;E_,s_^(^DD**Khmér)" src="orig" selected="1">NNMP7-----A----</tag>
 </m>
 </s>
 <s id="m-ln94201-46-p2s1">
@@ -304,7 +304,7 @@
 <LM>w#w-ln94201-46-p2s1w30</LM>
 </w.rf>
 <form>činitelem</form>
-<tag lemma="činitel" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="činitel-1" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94201-46-p2s1w31">
 <src.rf>manual</src.rf>
@@ -312,7 +312,7 @@
 <LM>w#w-ln94201-46-p2s1w31</LM>
 </w.rf>
 <form>Rudých</form>
-<tag lemma="rudý" src="orig" selected="1">AAMP2----1A----</tag>
+<tag lemma="rudý_;o" src="orig" selected="1">AAMP2----1A----</tag>
 </m>
 <m id="m-ln94201-46-p2s1w32">
 <src.rf>manual</src.rf>
@@ -362,7 +362,7 @@
 <LM>w#w-ln94201-46-p2s2w4</LM>
 </w.rf>
 <form>Rudí</form>
-<tag lemma="rudý" src="orig" selected="1">AAMP1----1A----</tag>
+<tag lemma="rudý_;o" src="orig" selected="1">AAMP1----1A----</tag>
 </m>
 <m id="m-ln94201-46-p2s2w5">
 <src.rf>manual</src.rf>
@@ -370,7 +370,7 @@
 <LM>w#w-ln94201-46-p2s2w5</LM>
 </w.rf>
 <form>Khmerové</form>
-<tag lemma="Khmer" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="Khmer_;E_,s_^(^DD**Khmér)" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln94201-46-p2s2w6">
 <src.rf>manual</src.rf>
@@ -484,7 +484,7 @@
 <LM>w#w-ln94201-46-p2s3w13</LM>
 </w.rf>
 <form>členů</form>
-<tag lemma="člen" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94201-46-p2s3w14">
 <src.rf>manual</src.rf>
@@ -585,7 +585,7 @@
 <LM>w#w-ln94201-46-p2s4w8</LM>
 </w.rf>
 <form>člen</form>
-<tag lemma="člen" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-46-p2s4w9">
 <src.rf>manual</src.rf>
@@ -673,7 +673,7 @@
 <LM>w#w-ln94201-46-p2s4w19</LM>
 </w.rf>
 <form>Rudé</form>
-<tag lemma="rudý" src="orig" selected="1">AAMP4----1A----</tag>
+<tag lemma="rudý_;o" src="orig" selected="1">AAMP4----1A----</tag>
 </m>
 <m id="m-ln94201-46-p2s4w20">
 <src.rf>manual</src.rf>
@@ -681,7 +681,7 @@
 <LM>w#w-ln94201-46-p2s4w20</LM>
 </w.rf>
 <form>Khmery</form>
-<tag lemma="Khmer" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="Khmer_;E_,s_^(^DD**Khmér)" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-ln94201-46-p2s4w21">
 <src.rf>manual</src.rf>

@@ -287,7 +287,7 @@
 <LM>w#w-mf930708-111-p2s2w9</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP2-P1-------</tag>
 </m>
 <m id="m-mf930708-111-p2s2w10">
 <src.rf>manual</src.rf>
@@ -503,7 +503,7 @@
 <LM>w#w-mf930708-111-p2s3w10</LM>
 </w.rf>
 <form>druhý</form>
-<tag lemma="druhý" src="orig" selected="1">CrMS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrMS1----------</tag>
 </m>
 <m id="m-mf930708-111-p2s3w11">
 <src.rf>manual</src.rf>
@@ -639,7 +639,7 @@
 <LM>w#w-mf930708-111-p2s3w27</LM>
 </w.rf>
 <form>sekretář</form>
-<tag lemma="sekretář" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="sekretář-2" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-111-p2s3w28">
 <src.rf>manual</src.rf>

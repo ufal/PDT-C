@@ -120,7 +120,7 @@
 <LM>w#w-mf920923-050-p2s1w10</LM>
 </w.rf>
 <form>dlouhou</form>
-<tag lemma="dlouhý-1_^(fyz._délka;_př._dlouhá_tyč)" src="orig" selected="1">AAFS7----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFS7----1A----</tag>
 </m>
 <m id="m-mf920923-050-p2s1w11">
 <src.rf>manual</src.rf>
@@ -148,7 +148,7 @@
 <AM lemma="Hami_;G" src="orig">NNNXX-----A----</AM>
 <AM lemma="Hami_;m" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="Hami-2_;G" src="manual">NNNXX-----A----</AM>
-<AM lemma="Hami_;G_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Hami-1_;G_;m" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-050-p2s1w14">
@@ -631,7 +631,7 @@
 <LM>w#w-mf920923-050-p2s6w7</LM>
 </w.rf>
 <form>Perlini</form>
-<tag lemma="Perlini_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Perlini-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-050-p2s6w8">
 <src.rf>manual</src.rf>
@@ -695,7 +695,7 @@
 <LM>w#w-mf920923-050-p2s6w15</LM>
 </w.rf>
 <form>Perlini</form>
-<tag lemma="Perlini_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Perlini-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-050-p2s6w16">
 <src.rf>manual</src.rf>

@@ -283,7 +283,7 @@
 <LM>w#w-mf920902-157-p4s2w19</LM>
 </w.rf>
 <form>hodině</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf920902-157-p4s2w20">
 <src.rf>manual</src.rf>
@@ -359,7 +359,7 @@
 <form>Alfred</form>
 <tag>
 <AM lemma="Alfréd_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Alfred_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Alfred_;Y_,s_^(^DD**Alfréd)" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-157-p4s3w9">
@@ -416,7 +416,7 @@
 <LM>w#w-mf920902-157-p4s3w15</LM>
 </w.rf>
 <form>odpovědnosti</form>
-<tag lemma="odpovědnost_^(kdo_za_něco_odpovídá)_(*3ý)" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="odpovědnost_^(*3ý)" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-mf920902-157-p4s3w16">
 <src.rf>manual</src.rf>
@@ -496,7 +496,7 @@
 <LM>w#w-mf920902-157-p4s3w25</LM>
 </w.rf>
 <form>Evropě</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf920902-157-p4s3w26">
 <src.rf>manual</src.rf>

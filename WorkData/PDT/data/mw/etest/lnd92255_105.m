@@ -113,7 +113,7 @@
 <LM>w#w-lnd92255-105-p4s1w6</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd92255-105-p4s1w7">
 <src.rf>manual</src.rf>
@@ -338,7 +338,7 @@
 <LM>w#w-lnd92255-105-p4s2w4</LM>
 </w.rf>
 <form>málo</form>
-<tag lemma="málo-2_^(př._to_málo_co_měl)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="málo-2_^(to_málo_co_měl)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-lnd92255-105-p4s2w5">
 <src.rf>manual</src.rf>
@@ -909,7 +909,7 @@
 <LM>w#w-lnd92255-105-p8s4w9</LM>
 </w.rf>
 <form>umí</form>
-<tag lemma="umět_^(mít_schopnost_něco_dělat)" src="auto" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="umět" src="auto" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92255-105-p8s4w10">
 <src.rf>manual</src.rf>
@@ -997,7 +997,7 @@
 <LM>w#w-lnd92255-105-p8s4w20</LM>
 </w.rf>
 <form>lidi</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-lnd92255-105-p8s4w21">
 <src.rf>manual</src.rf>

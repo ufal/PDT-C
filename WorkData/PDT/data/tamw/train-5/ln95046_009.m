@@ -83,7 +83,7 @@
 <LM>w#w-ln95046-009-p1s1w9</LM>
 </w.rf>
 <form>nebojí</form>
-<tag lemma="bát" src="orig" selected="1">VB-S---3P-NAI--</tag>
+<tag lemma="bát-1" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-ln95046-009-p1s1w10">
 <src.rf>manual</src.rf>

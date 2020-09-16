@@ -72,7 +72,7 @@
 </w.rf>
 <form>svou</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8FS4---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8FS4---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS7---------1</AM>
 </tag>
 </m>
@@ -1242,7 +1242,7 @@
 <form>Gubera</form>
 <tag>
 <AM lemma="Gubera" src="auto">X@-------------</AM>
-<AM lemma="Guber_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Guber-2_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0175-001-p1s3W14-Ta">

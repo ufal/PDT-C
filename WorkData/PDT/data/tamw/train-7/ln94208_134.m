@@ -657,7 +657,7 @@
 <LM>w#w-ln94208-134-p2s4w20</LM>
 </w.rf>
 <form>politiky</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94208-134-p2s4w21">
 <src.rf>manual</src.rf>

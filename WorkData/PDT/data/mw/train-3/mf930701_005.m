@@ -173,7 +173,7 @@
 <LM>w#w-mf930701-005-p2s1w14</LM>
 </w.rf>
 <form>dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930701-005-p2s1w15">
 <src.rf>manual</src.rf>
@@ -239,7 +239,7 @@
 <LM>w#w-mf930701-005-p2s2w5</LM>
 </w.rf>
 <form>jejím</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS6FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS6FS3-------</tag>
 </m>
 <m id="m-mf930701-005-p2s2w6">
 <src.rf>manual</src.rf>
@@ -630,7 +630,7 @@
 <LM>w#w-mf930701-005-p2s4w16</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8YP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8YP4---------1</tag>
 </m>
 <m id="m-mf930701-005-p2s4w17">
 <src.rf>manual</src.rf>
@@ -1677,7 +1677,7 @@
 <LM>w#w-mf930701-005-p4s1w5</LM>
 </w.rf>
 <form>Kovo</form>
-<tag lemma="Kovo_;Y_;m" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Kovo_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf930701-005-p4s1w6">
 <src.rf>manual</src.rf>

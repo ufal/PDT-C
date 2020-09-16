@@ -87,7 +87,7 @@
 <LM>w#w-ln94211-12-p2s1Bw2</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-ln94211-12-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -193,7 +193,7 @@
 <LM>w#w-ln94211-12-p2s2w5</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-12-p2s2w6">
 <src.rf>manual</src.rf>
@@ -382,7 +382,7 @@
 </w.rf>
 <form>Stayer</form>
 <tag>
-<AM lemma="Stayer_;m" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Stayer-2_;m" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="Stayer_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -891,7 +891,7 @@
 </w.rf>
 <form>Stayer</form>
 <tag>
-<AM lemma="Stayer_;m" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Stayer-2_;m" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="Stayer_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -957,7 +957,7 @@
 <LM>w#w-ln94211-12-p3s4w12</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-ln94211-12-p3s4w13">
 <src.rf>manual</src.rf>

@@ -426,7 +426,7 @@
 <LM>w#w-ln94207-111-p1s3w9</LM>
 </w.rf>
 <form>Štěpán</form>
-<tag lemma="Štěpán_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Štěpán-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-111-p1s3w10">
 <src.rf>manual</src.rf>
@@ -434,7 +434,7 @@
 <LM>w#w-ln94207-111-p1s3w10</LM>
 </w.rf>
 <form>Palovi</form>
-<tag lemma="Palův_;Y_^(*2a)" src="orig" selected="1">AUMP1M---------</tag>
+<tag lemma="Palův_;Y_^(*2a)_(*2o-2)" src="orig" selected="1">AUMP1M---------</tag>
 </m>
 <m id="m-ln94207-111-p1s3w11">
 <src.rf>manual</src.rf>

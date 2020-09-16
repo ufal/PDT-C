@@ -1296,7 +1296,7 @@
 <LM>w#w-mf930702-089-p2s8w20</LM>
 </w.rf>
 <form>lepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAFS4----2A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAFS4----2A----</tag>
 </m>
 <m id="m-mf930702-089-p2s8w21">
 <src.rf>manual</src.rf>
@@ -1587,7 +1587,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-2" src="auto">Db-------------</AM>
-<AM lemma="třeba-3" src="manual" selected="1">TT-------------</AM>
+<AM lemma="třeba-2_^(například)" src="manual" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf930702-089-p3s1w32">
@@ -1744,7 +1744,7 @@
 <LM>w#w-mf930702-089-p3s3w2</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf930702-089-p3s3w3">
 <src.rf>manual</src.rf>
@@ -2342,7 +2342,7 @@
 <LM>w#w-mf930702-089-p4s2w35</LM>
 </w.rf>
 <form>jezdce</form>
-<tag lemma="jezdec" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="jezdec-1" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf930702-089-p4s2w36">
 <src.rf>manual</src.rf>

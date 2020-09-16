@@ -146,7 +146,7 @@
 <LM>w#w-lnd91303-020-p2s1w12</LM>
 </w.rf>
 <form>člen</form>
-<tag lemma="člen" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91303-020-p2s1w13">
 <src.rf>manual</src.rf>
@@ -541,7 +541,7 @@
 <LM>w#w-lnd91303-020-p2s5w4</LM>
 </w.rf>
 <form>Panoráma</form>
-<tag lemma="panoráma" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="panoráma-2" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-lnd91303-020-p2s5w5">
 <src.rf>manual</src.rf>
@@ -605,7 +605,7 @@
 <LM>w#w-lnd91303-020-p2s5w12</LM>
 </w.rf>
 <form>hodiny</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd91303-020-p2s5w13">
 <src.rf>manual</src.rf>
@@ -687,7 +687,7 @@
 <LM>w#w-lnd91303-020-p2s6w3</LM>
 </w.rf>
 <form>směně</form>
-<tag lemma="směna-1_^(výměna_za_něco)" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="směna_^(výměna_za_něco;pracovní)" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-lnd91303-020-p2s6w4">
 <src.rf>manual</src.rf>
@@ -1019,7 +1019,7 @@
 <LM>w#w-lnd91303-020-p2s8w13</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd91303-020-p2s8w14">
 <src.rf>manual</src.rf>

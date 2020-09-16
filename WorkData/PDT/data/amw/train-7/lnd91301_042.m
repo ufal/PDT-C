@@ -684,7 +684,7 @@
 <LM>w#w-lnd91301-042-p3s5w1</LM>
 </w.rf>
 <form>Dopadení</form>
-<tag lemma="dopadení_^(*3nout)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="dopadení_,s_^(^DD**dopadnutí)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-lnd91301-042-p3s5w2">
 <src.rf>manual</src.rf>
@@ -777,7 +777,7 @@
 <LM>w#w-lnd91301-042-p3s6w3</LM>
 </w.rf>
 <form>málo</form>
-<tag lemma="málo-1_^(málo_+_2._p.,_málo_peněz)" src="orig" selected="1">Ca--4----------</tag>
+<tag lemma="málo-1_^(málo_peněz)" src="orig" selected="1">Ca--4----------</tag>
 </m>
 <m id="m-lnd91301-042-p3s6w4">
 <src.rf>manual</src.rf>
@@ -964,7 +964,7 @@
 <LM>w#w-lnd91301-042-p3s6w26</LM>
 </w.rf>
 <form>dlouhou</form>
-<tag lemma="dlouhý-1_^(fyz._délka;_př._dlouhá_tyč)" src="orig" selected="1">AAFS7----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFS7----1A----</tag>
 </m>
 <m id="m-lnd91301-042-p3s6w27">
 <src.rf>manual</src.rf>
@@ -1094,7 +1094,7 @@
 <LM>w#w-lnd91301-042-p3s7w10</LM>
 </w.rf>
 <form>prostředek</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-lnd91301-042-p3s7w11">
 <src.rf>manual</src.rf>
@@ -1314,7 +1314,7 @@
 <LM>w#w-lnd91301-042-p3s9w9</LM>
 </w.rf>
 <form>druhý</form>
-<tag lemma="druhý" src="orig" selected="1">CrMS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrMS1----------</tag>
 </m>
 <m id="m-lnd91301-042-p3s9w10">
 <src.rf>manual</src.rf>
@@ -1486,7 +1486,7 @@
 <LM>w#w-lnd91301-042-p3s11w3</LM>
 </w.rf>
 <form>hodiny</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd91301-042-p3s11w4">
 <src.rf>manual</src.rf>

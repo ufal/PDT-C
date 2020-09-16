@@ -88,7 +88,7 @@
 <LM>w#w-ln94203-114-p2s1Aw4</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-ln94203-114-p2s1Aw5">
 <src.rf>manual</src.rf>
@@ -584,7 +584,7 @@
 <AM lemma="pas-2_^(na_lidském_těle)" src="auto">NNIS1-----A----</AM>
 <AM lemma="pas-2_^(na_lidském_těle)" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="pas-3_^(přihrávka,_př._v_kopané)" src="auto">NNIS1-----A----</AM>
-<AM lemma="pas-3_^(přihrávka,_př._v_kopané)" src="auto" selected="1">NNIS4-----A----</AM>
+<AM lemma="pas-1_^(přihrávka,_př._v_kopané,na_lidském_těle;;cestovní)" src="auto" selected="1">NNIS4-----A----</AM>
 <AM lemma="paso_,t_^(passo_doble)" src="auto">NNNP2-----A----</AM>
 <AM lemma="pást_^(se,např._koně,_husy)" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="pást_^(se,např._koně,_husy)" src="auto">Vi-S---3--A-I-4</AM>
@@ -753,7 +753,7 @@
 <LM>w#w-ln94203-114-p3s2w9</LM>
 </w.rf>
 <form>dlouhé</form>
-<tag lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">AAFP4----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFP4----1A----</tag>
 </m>
 <m id="m-ln94203-114-p3s2w10">
 <src.rf>manual</src.rf>
@@ -1064,7 +1064,7 @@
 <LM>w#w-ln94203-114-p3s4w10</LM>
 </w.rf>
 <form>jehož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P1XXXZS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXZS3-------</tag>
 </m>
 <m id="m-ln94203-114-p3s4w11">
 <src.rf>manual</src.rf>
@@ -2930,7 +2930,7 @@
 <LM>w#w-ln94203-114-p5s3w12</LM>
 </w.rf>
 <form>roli</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="role_^(svitek_poslání_pozemek)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94203-114-p5s3w13">
 <src.rf>manual</src.rf>
@@ -3118,7 +3118,7 @@
 <LM>w#w-ln94203-114-p6s2w8</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-ln94203-114-p6s2w9">
 <src.rf>manual</src.rf>
@@ -3176,7 +3176,7 @@
 <AM lemma="Viktorka-2_;m_,l_^(jméno_sport.klubu)" src="auto">NNFP4-----A----</AM>
 <AM lemma="Viktorka-2_;m_,l_^(jméno_sport.klubu)" src="auto">NNFP5-----A----</AM>
 <AM lemma="Viktorka-2_;m_,l_^(jméno_sport.klubu)" src="auto">NNFS2-----A----</AM>
-<AM lemma="Viktorka-2_;m_^(jméno_sport.klubu)" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="Viktorka-1_;Y_;m" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-114-p6s2w15">
@@ -3251,7 +3251,7 @@
 <LM>w#w-ln94203-114-p6s4w8</LM>
 </w.rf>
 <form>proto</form>
-<tag lemma="proto-2_^(dal_mu_co_proto,_tak_proto!)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="proto-2_^(proto_že)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94203-114-p6s4w9">
 <src.rf>manual</src.rf>

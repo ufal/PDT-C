@@ -630,7 +630,7 @@
 <form>Ottawa</form>
 <tag>
 <AM lemma="Ottawa_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ottawa_;G" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Ottawa-1_;G" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1612-001-p1s1W14-Ta">
@@ -1597,7 +1597,7 @@
 <AM lemma="první" src="auto">CrMS6----------</AM>
 <AM lemma="první" src="auto">CrMS7----------</AM>
 <AM lemma="první" src="auto">CrNP3----------</AM>
-<AM lemma="první" src="auto" recommended="1">CrNS6----------</AM>
+<AM lemma="první-1" src="auto" recommended="1">CrNS6----------</AM>
 <AM lemma="první" src="auto">CrNS7----------</AM>
 </tag>
 </m>

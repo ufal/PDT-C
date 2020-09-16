@@ -51,7 +51,7 @@
 <LM>w#w-cmpr9410-031-p2s1w5</LM>
 </w.rf>
 <form>nezaměstnanost</form>
-<tag lemma="nezaměstnanost-2_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="nezaměstnanost_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9410-031-p3s1">
@@ -208,7 +208,7 @@
 <LM>w#w-cmpr9410-031-p4s1w6</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-cmpr9410-031-p4s1w7">
 <src.rf>manual</src.rf>
@@ -264,7 +264,7 @@
 <LM>w#w-cmpr9410-031-p4s1w13</LM>
 </w.rf>
 <form>zaměstnanosti</form>
-<tag lemma="zaměstnanost-2_^(politika_z.;_přednost_před_odvoz.)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="zaměstnanost_^(*3ý)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-cmpr9410-031-p4s1w14">
 <src.rf>manual</src.rf>
@@ -686,7 +686,7 @@
 <LM>w#w-cmpr9410-031-p8s1w29</LM>
 </w.rf>
 <form>politice</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-cmpr9410-031-p8s1w30">
 <src.rf>manual</src.rf>
@@ -2865,7 +2865,7 @@
 <LM>w#w-cmpr9410-031-p17s2w11</LM>
 </w.rf>
 <form>prostředky</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP7-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP7-----A----</tag>
 </m>
 <m id="m-cmpr9410-031-p17s2w12">
 <src.rf>manual</src.rf>
@@ -3067,7 +3067,7 @@
 <LM>w#w-cmpr9410-031-p18s1w10</LM>
 </w.rf>
 <form>dané</form>
-<tag lemma="daný_^(*3át)" src="auto" selected="1">AAFS3----1A----</tag>
+<tag lemma="daný-1_^(*5át-1)" src="auto" selected="1">AAFS3----1A----</tag>
 </m>
 <m id="m-cmpr9410-031-p18s1w11">
 <src.rf>manual</src.rf>
@@ -3341,7 +3341,7 @@
 <form>Aeskulap</form>
 <tag>
 <AM lemma="Aeskulap" src="auto">NNIS1-----A----</AM>
-<AM lemma="Aeskulap_,m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Aeskulap-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-031-p19s2w7">
@@ -5476,7 +5476,7 @@
 <LM>w#w-cmpr9410-031-p26s3w22</LM>
 </w.rf>
 <form>nezaměstnanosti</form>
-<tag lemma="nezaměstnanost-2_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="nezaměstnanost_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-cmpr9410-031-p26s3w23">
 <src.rf>manual</src.rf>
@@ -5638,7 +5638,7 @@
 <LM>w#w-cmpr9410-031-p26s4w16</LM>
 </w.rf>
 <form>nezaměstnanost</form>
-<tag lemma="nezaměstnanost-2_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="nezaměstnanost_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-031-p26s4w17">
 <src.rf>manual</src.rf>
@@ -5654,7 +5654,7 @@
 <LM>w#w-cmpr9410-031-p26s4w18</LM>
 </w.rf>
 <form>daném</form>
-<tag lemma="daný_^(*3át)" src="auto" selected="1">AAIS6----1A----</tag>
+<tag lemma="daný-1_^(*5át-1)" src="auto" selected="1">AAIS6----1A----</tag>
 </m>
 <m id="m-cmpr9410-031-p26s4w19">
 <src.rf>manual</src.rf>
@@ -5760,7 +5760,7 @@
 <LM>w#w-cmpr9410-031-p26s5w11</LM>
 </w.rf>
 <form>naší</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS2-P1-------</tag>
 </m>
 <m id="m-cmpr9410-031-p26s5w12">
 <src.rf>manual</src.rf>

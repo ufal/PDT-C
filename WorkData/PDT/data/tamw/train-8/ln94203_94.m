@@ -127,7 +127,7 @@
 <LM>w#w-ln94203-94-p1s1w13</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FXXFS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1FXXFS3-------</tag>
 </m>
 <m id="m-ln94203-94-p1s1w14">
 <src.rf>manual</src.rf>
@@ -423,7 +423,7 @@
 <LM>w#w-ln94203-94-p1s2w13</LM>
 </w.rf>
 <form>antropomorfismu</form>
-<tag lemma="antropomorfismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="antropomorfismus_,s_^(^DD**antropomorfizmus)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94203-94-p1s2w14">
 <src.rf>manual</src.rf>
@@ -455,7 +455,7 @@
 <LM>w#w-ln94203-94-p1s2w17</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-ln94203-94-p1s2w18">
 <src.rf>manual</src.rf>
@@ -495,7 +495,7 @@
 <LM>w#w-ln94203-94-p1s2w22</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94203-94-p1s2w23">
 <src.rf>manual</src.rf>
@@ -556,7 +556,7 @@
 <LM>w#w-ln94203-94-p1s3w5</LM>
 </w.rf>
 <form>cestě</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94203-94-p1s3w6">
 <src.rf>manual</src.rf>
@@ -700,7 +700,7 @@
 <LM>w#w-ln94203-94-p1s3w23</LM>
 </w.rf>
 <form>děti</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-ln94203-94-p1s3w24">
 <src.rf>manual</src.rf>
@@ -1107,7 +1107,7 @@
 <LM>w#w-ln94203-94-p1s5w26</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-ln94203-94-p1s5w27">
 <src.rf>manual</src.rf>
@@ -1123,7 +1123,7 @@
 <LM>w#w-ln94203-94-p1s5w28</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln94203-94-p1s5w29">
 <src.rf>manual</src.rf>
@@ -1186,7 +1186,7 @@
 <LM>w#w-ln94203-94-p1s6w5</LM>
 </w.rf>
 <form>Falcon</form>
-<tag lemma="Falcon_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Falcon-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 </mdata>

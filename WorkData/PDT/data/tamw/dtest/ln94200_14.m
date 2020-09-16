@@ -232,7 +232,7 @@
 <LM>w#w-ln94200-14-p2s1w26</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-ln94200-14-p2s1w27">
 <src.rf>manual</src.rf>
@@ -288,7 +288,7 @@
 <LM>w#w-ln94200-14-p2s1w33</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94200-14-p2s1w34">
 <src.rf>manual</src.rf>
@@ -378,7 +378,7 @@
 <LM>w#w-ln94200-14-p3s1w2</LM>
 </w.rf>
 <form>laděný</form>
-<tag lemma="laděný_^(*3it)" src="orig" selected="1">AAIS4----1A----</tag>
+<tag lemma="laděný" src="orig" selected="1">AAIS4----1A----</tag>
 </m>
 <m id="m-ln94200-14-p3s1w3">
 <src.rf>manual</src.rf>
@@ -516,7 +516,7 @@
 <LM>w#w-ln94200-14-p3s2w3</LM>
 </w.rf>
 <form>role</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="role_^(svitek_poslání_pozemek)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94200-14-p3s2w4">
 <src.rf>manual</src.rf>

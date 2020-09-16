@@ -101,7 +101,7 @@
 <LM>w#w-cmpr9406-012-p3s1w9</LM>
 </w.rf>
 <form>černou</form>
-<tag lemma="černý" src="auto" selected="1">AAFS4----1A----</tag>
+<tag lemma="černý_;o" src="auto" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-cmpr9406-012-p3s1w10">
 <src.rf>manual</src.rf>
@@ -255,7 +255,7 @@
 <LM>w#w-cmpr9406-012-p3s2w17</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-cmpr9406-012-p3s2w18">
 <src.rf>manual</src.rf>

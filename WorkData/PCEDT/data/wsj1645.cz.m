@@ -20,7 +20,7 @@
 <AM lemma="Sheldon_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Sheldon_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Sheldon_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Sheldon_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Sheldon-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1645-001-p1s0W2-Ta">
@@ -199,7 +199,7 @@
 </w.rf>
 <form>Murray</form>
 <tag>
-<AM lemma="Murray_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Murray-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Murray_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Murray_;Y" src="auto">NNMXX-----A----</AM>
 </tag>
@@ -502,7 +502,7 @@
 <tag>
 <AM lemma="John_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="John_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="John_;Y_:Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="John_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1645-001-p1s1W9-Ta">

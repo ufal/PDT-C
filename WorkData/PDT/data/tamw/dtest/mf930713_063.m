@@ -146,7 +146,7 @@
 <LM>w#w-mf930713-063-p2s1Bw7</LM>
 </w.rf>
 <form>hodině</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf930713-063-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -261,7 +261,7 @@
 <LM>w#w-mf930713-063-p2s1Bw21</LM>
 </w.rf>
 <form>naše</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSNS4-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSNS4-P1-------</tag>
 </m>
 <m id="m-mf930713-063-p2s1Bw22">
 <src.rf>manual</src.rf>
@@ -388,7 +388,7 @@
 <form>mercedes</form>
 <tag>
 <AM lemma="Mercedes-2_;m_^(vozidlo)" src="orig">NNIS4-----A----</AM>
-<AM lemma="mercedes_;m_^(vozidlo)" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
+<AM lemma="mercedes_^(vozidlo)" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="mercedes_;m_^(vozidlo)" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -592,7 +592,7 @@
 <LM>w#w-mf930713-063-p2s3w9</LM>
 </w.rf>
 <form>celnici</form>
-<tag lemma="celnice-2_^(místo_výkonu_služby)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="celnice_^(*3ík-1)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf930713-063-p2s3w10">
 <src.rf>manual</src.rf>
@@ -640,7 +640,7 @@
 <LM>w#w-mf930713-063-p2s3w15</LM>
 </w.rf>
 <form>zastavení</form>
-<tag lemma="zastavení-1_^([také_z._se];_uvést_do_klidu:_auto,...)_(*5it-1)" src="orig" selected="1">NNNS3-----A----</tag>
+<tag lemma="zastavení_^(*3it)" src="orig" selected="1">NNNS3-----A----</tag>
 </m>
 <m id="m-mf930713-063-p2s3w16">
 <src.rf>manual</src.rf>
@@ -759,7 +759,7 @@
 <form>mercedes</form>
 <tag>
 <AM lemma="Mercedes-2_;m_^(vozidlo)" src="orig">NNIS1-----A----</AM>
-<AM lemma="mercedes_;m_^(vozidlo)" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
+<AM lemma="mercedes_^(vozidlo)" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="mercedes_;m_^(vozidlo)" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -1189,7 +1189,7 @@
 <form>fordu</form>
 <tag>
 <AM lemma="Ford-2_;m_^(vozidlo)" src="orig">NNIS2-----A----</AM>
-<AM lemma="ford_;m" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
+<AM lemma="ford" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
 <AM lemma="ford_;m" src="auto">NNIS3-----A----</AM>
 <AM lemma="ford_;m" src="auto">NNIS6-----A----</AM>
 </tag>
@@ -1253,7 +1253,7 @@
 <form>mercedesu</form>
 <tag>
 <AM lemma="Mercedes-2_;m_^(vozidlo)" src="orig">NNIS2-----A----</AM>
-<AM lemma="mercedes_;m_^(vozidlo)" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
+<AM lemma="mercedes_^(vozidlo)" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
 <AM lemma="mercedes_;m_^(vozidlo)" src="auto">NNIS3-----A----</AM>
 <AM lemma="mercedes_;m_^(vozidlo)" src="auto">NNIS6-----A----</AM>
 </tag>
@@ -1322,7 +1322,7 @@
 <LM>w#w-mf930713-063-p2s8w5</LM>
 </w.rf>
 <form>převážených</form>
-<tag lemma="převážený_^(něco_někam_např._autem)_(*2t)" src="orig" selected="1">AAIP2----1A----</tag>
+<tag lemma="převážený_^(*2t)_(*3it)" src="orig" selected="1">AAIP2----1A----</tag>
 </m>
 <m id="m-mf930713-063-p2s8w6">
 <src.rf>manual</src.rf>
@@ -1421,7 +1421,7 @@
 <LM>w#w-mf930713-063-p2s8w17</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf930713-063-p2s8w18">
 <src.rf>manual</src.rf>
@@ -1445,7 +1445,7 @@
 <LM>w#w-mf930713-063-p2s8w20</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP3----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP3----------</tag>
 </m>
 <m id="m-mf930713-063-p2s8w21">
 <src.rf>manual</src.rf>
@@ -1633,7 +1633,7 @@
 <form>mercedes</form>
 <tag>
 <AM lemma="Mercedes-2_;m_^(vozidlo)" src="orig">NNIS1-----A----</AM>
-<AM lemma="mercedes_;m_^(vozidlo)" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
+<AM lemma="mercedes_^(vozidlo)" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="mercedes_;m_^(vozidlo)" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>

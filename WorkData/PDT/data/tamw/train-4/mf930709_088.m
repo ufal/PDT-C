@@ -107,7 +107,7 @@
 <LM>w#w-mf930709-088-p1s1w12</LM>
 </w.rf>
 <form>nejlepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAIS4----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAIS4----3A----</tag>
 </m>
 <m id="m-mf930709-088-p1s1w13">
 <src.rf>manual</src.rf>

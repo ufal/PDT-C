@@ -19,7 +19,7 @@
 <LM>w#w-lnd92256-077-p1s1w1</LM>
 </w.rf>
 <form>Rozvod</form>
-<tag lemma="rozvod-1_^(manželství)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="rozvod_^(manželství;vody)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92256-077-p1s1w2">
 <src.rf>manual</src.rf>
@@ -249,7 +249,7 @@
 <LM>w#w-lnd92256-077-p2s3w7</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrIS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS4----------</tag>
 </m>
 <m id="m-lnd92256-077-p2s3w8">
 <src.rf>manual</src.rf>
@@ -265,7 +265,7 @@
 <LM>w#w-lnd92256-077-p2s3w9</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-lnd92256-077-p2s3w10">
 <src.rf>manual</src.rf>
@@ -433,7 +433,7 @@
 <LM>w#w-lnd92256-077-p2s4w3</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1ZS1FS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1ZS1FS3-------</tag>
 </m>
 <m id="m-lnd92256-077-p2s4w4">
 <src.rf>manual</src.rf>
@@ -505,7 +505,7 @@
 <LM>w#w-lnd92256-077-p2s4w12</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-lnd92256-077-p2s4w13">
 <src.rf>manual</src.rf>
@@ -545,7 +545,7 @@
 <LM>w#w-lnd92256-077-p2s4w17</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9NS4FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9NS4FS3-------</tag>
 </m>
 <m id="m-lnd92256-077-p2s4w18">
 <src.rf>manual</src.rf>
@@ -553,7 +553,7 @@
 <LM>w#w-lnd92256-077-p2s4w18</LM>
 </w.rf>
 <form>právo</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-lnd92256-077-p2s4w19">
 <src.rf>manual</src.rf>
@@ -659,7 +659,7 @@
 <LM>w#w-lnd92256-077-p2s5w8</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-lnd92256-077-p2s5w9">
 <src.rf>manual</src.rf>
@@ -903,7 +903,7 @@
 <LM>w#w-lnd92256-077-p2s7w6</LM>
 </w.rf>
 <form>rozvodu</form>
-<tag lemma="rozvod-1_^(manželství)" src="orig" selected="1">NNIS6-----A---1</tag>
+<tag lemma="rozvod_^(manželství;vody)" src="orig" selected="1">NNIS6-----A---1</tag>
 </m>
 <m id="m-lnd92256-077-p2s7w7">
 <src.rf>manual</src.rf>

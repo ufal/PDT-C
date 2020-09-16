@@ -113,7 +113,7 @@
 <form>Alfredo</form>
 <tag>
 <AM lemma="Alfredo_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Alfredo_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Alfredo_;Y_,s_^(^DD**Alfrédo)" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-065-p3s2w4">
@@ -206,7 +206,7 @@
 <LM>w#w-lnd92255-065-p3s2w14</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS2---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS2---------1</tag>
 </m>
 <m id="m-lnd92255-065-p3s2w15">
 <src.rf>manual</src.rf>
@@ -214,7 +214,7 @@
 <LM>w#w-lnd92255-065-p3s2w15</LM>
 </w.rf>
 <form>výzbroje</form>
-<tag lemma="výzbroj" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="výzbroj-1" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92255-065-p3s2w16">
 <src.rf>manual</src.rf>

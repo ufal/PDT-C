@@ -19,7 +19,7 @@
 <LM>w#w-ln95048-160-p1s1w1</LM>
 </w.rf>
 <form>Dumpingová</form>
-<tag lemma="dumpingový" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="dumpingový_,s_^(^DD**dampingový)" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-ln95048-160-p1s1w2">
 <src.rf>manual</src.rf>
@@ -323,7 +323,7 @@
 <LM>w#w-ln95048-160-p2s2w6</LM>
 </w.rf>
 <form>dumpingových</form>
-<tag lemma="dumpingový" src="orig" selected="1">AAFP2----1A----</tag>
+<tag lemma="dumpingový_,s_^(^DD**dampingový)" src="orig" selected="1">AAFP2----1A----</tag>
 </m>
 <m id="m-ln95048-160-p2s2w7">
 <src.rf>manual</src.rf>

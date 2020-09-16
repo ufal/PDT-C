@@ -662,7 +662,7 @@
 <LM>w#w-ln94208-96-p2s3w13</LM>
 </w.rf>
 <form>postižený</form>
-<tag lemma="postižený_^(*4hnout)" src="orig" selected="1">AAMS1----1A----</tag>
+<tag lemma="postižený" src="orig" selected="1">AAMS1----1A----</tag>
 </m>
 <m id="m-ln94208-96-p2s3w14">
 <src.rf>manual</src.rf>
@@ -678,7 +678,7 @@
 <LM>w#w-ln94208-96-p2s3w15</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-ln94208-96-p2s3w16">
 <src.rf>manual</src.rf>
@@ -702,7 +702,7 @@
 <LM>w#w-ln94208-96-p2s3w18</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-ln94208-96-p2s3w19">
 <src.rf>manual</src.rf>
@@ -2386,7 +2386,7 @@
 <LM>w#w-ln94208-96-p3s8w15</LM>
 </w.rf>
 <form>náš</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSYS1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSYS1-P1-------</tag>
 </m>
 <m id="m-ln94208-96-p3s8w16">
 <src.rf>manual</src.rf>

@@ -67,7 +67,7 @@
 <LM>w#w-ln95045-021-p1s1w7</LM>
 </w.rf>
 <form>Orlanda</form>
-<tag lemma="Orlando_;G" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="Orlando-1_;G" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 </s>
 </mdata>

@@ -959,7 +959,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Walensovy</form>
-<tag lemma="Walensův_;Y_^(Lech_Walesa)_(*2a)" src="auto" selected="1">AUMP4M---------</tag>
+<tag lemma="Walensův_;Y_^(*2a)" src="auto" selected="1">AUMP4M---------</tag>
 </m>
 <m id="m-ln95043-049-p2s6w5">
 <src.rf>manual</src.rf>
@@ -1073,7 +1073,7 @@
 <LM>w#w-ln95043-049-p2s7w6</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8YP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8YP4---------1</tag>
 </m>
 <m id="m-ln95043-049-p2s7w7">
 <src.rf>manual</src.rf>

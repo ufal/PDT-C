@@ -868,7 +868,7 @@
 <LM>w#w-lnd94103-072-p1s8w2</LM>
 </w.rf>
 <form>faktorem</form>
-<tag lemma="faktor" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="faktor-1" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-lnd94103-072-p1s8w3">
 <src.rf>manual</src.rf>

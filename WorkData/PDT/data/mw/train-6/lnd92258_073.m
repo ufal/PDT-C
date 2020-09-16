@@ -35,7 +35,7 @@
 <LM>w#w-lnd92258-073-p1s1w3</LM>
 </w.rf>
 <form>NEZAMĚSTNANOST</form>
-<tag lemma="nezaměstnanost-2_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="nezaměstnanost_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92258-073-p1s1w4">
 <src.rf>manual</src.rf>
@@ -69,7 +69,7 @@
 <LM>w#w-lnd92258-073-p2s1w1</LM>
 </w.rf>
 <form>Potřeba</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92258-073-p2s1w2">
 <src.rf>manual</src.rf>
@@ -143,7 +143,7 @@
 <LM>w#w-lnd92258-073-p3s1w8</LM>
 </w.rf>
 <form>nezaměstnanosti</form>
-<tag lemma="nezaměstnanost-2_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="nezaměstnanost_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92258-073-p3s1w9">
 <src.rf>manual</src.rf>
@@ -364,7 +364,7 @@
 <LM>w#w-lnd92258-073-p3s3w11</LM>
 </w.rf>
 <form>druhý</form>
-<tag lemma="druhý" src="orig" selected="1">CrMS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrMS1----------</tag>
 </m>
 <m id="m-lnd92258-073-p3s3w12">
 <src.rf>manual</src.rf>
@@ -1046,7 +1046,7 @@
 <LM>w#w-lnd92258-073-p5s2w5</LM>
 </w.rf>
 <form>kriteria</form>
-<tag lemma="kritérium" src="orig" selected="1">NNNP1-----A----</tag>
+<tag lemma="kriterium_,s_^(^DD**kritérium)" src="orig" selected="1">NNNP1-----A----</tag>
 </m>
 <m id="m-lnd92258-073-p5s2w6">
 <src.rf>manual</src.rf>
@@ -1227,7 +1227,7 @@
 <LM>w#w-lnd92258-073-p5s3w10</LM>
 </w.rf>
 <form>nalezení</form>
-<tag lemma="nalezení-2_^(*7ézt-2)" src="auto" selected="1">NNNS3-----A----</tag>
+<tag lemma="nalezení" src="auto" selected="1">NNNS3-----A----</tag>
 </m>
 <m id="m-lnd92258-073-p5s3w11">
 <src.rf>manual</src.rf>
@@ -2044,7 +2044,7 @@
 <LM>w#w-lnd92258-073-p7s1w5</LM>
 </w.rf>
 <form>nezaměstnanosti</form>
-<tag lemma="nezaměstnanost-2_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="nezaměstnanost_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92258-073-p7s1w6">
 <src.rf>manual</src.rf>
@@ -2570,7 +2570,7 @@
 <LM>w#w-lnd92258-073-p7s6w6</LM>
 </w.rf>
 <form>Jejího</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS2FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS2FS3-------</tag>
 </m>
 <m id="m-lnd92258-073-p7s6w7">
 <src.rf>manual</src.rf>
@@ -2708,7 +2708,7 @@
 <LM>w#w-lnd92258-073-p8s1w7</LM>
 </w.rf>
 <form>potřeba</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92258-073-p8s1w8">
 <src.rf>manual</src.rf>
@@ -2751,7 +2751,7 @@
 <LM>w#w-lnd92258-073-p8s1w12</LM>
 </w.rf>
 <form>nezaměstnanosti</form>
-<tag lemma="nezaměstnanost-2_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="nezaměstnanost_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92258-073-p8s1w13">
 <src.rf>manual</src.rf>
@@ -2775,7 +2775,7 @@
 <LM>w#w-lnd92258-073-p8s1w15</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS1FS3-------</tag>
 </m>
 <m id="m-lnd92258-073-p8s1w16">
 <src.rf>manual</src.rf>
@@ -3061,7 +3061,7 @@
 <LM>w#w-lnd92258-073-p8s4w13</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-lnd92258-073-p8s4w14">
 <src.rf>manual</src.rf>
@@ -3069,7 +3069,7 @@
 <LM>w#w-lnd92258-073-p8s4w14</LM>
 </w.rf>
 <form>nemocí</form>
-<tag lemma="nemoc_^(choroba)" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="nemoc" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-lnd92258-073-p8s4w15">
 <src.rf>manual</src.rf>
@@ -3135,7 +3135,7 @@
 <LM>w#w-lnd92258-073-p8s5w7</LM>
 </w.rf>
 <form>zaměstnání</form>
-<tag lemma="zaměstnání-1_^(všeob._význam:_činnost,_zaměstnání)_(*5at-1)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="zaměstnání_^(*3at)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-lnd92258-073-p8s5w8">
 <src.rf>manual</src.rf>
@@ -3646,7 +3646,7 @@
 <LM>w#w-lnd92258-073-p9s2w9</LM>
 </w.rf>
 <form>zaměstnání</form>
-<tag lemma="zaměstnání-1_^(všeob._význam:_činnost,_zaměstnání)_(*5at-1)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="zaměstnání_^(*3at)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-lnd92258-073-p9s2w10">
 <src.rf>manual</src.rf>
@@ -3839,7 +3839,7 @@
 <form>nehledí</form>
 <tag>
 <AM lemma="hledět_^(dívat_se;_hledět_si_něčeho)" src="orig">VB-P---3P-NA---</AM>
-<AM lemma="hledět_^(dívat_se;_hledět_si_něčeho)" src="manual" selected="1">VB-S---3P-NAI--</AM>
+<AM lemma="hledět" src="manual" selected="1">VB-S---3P-NAI--</AM>
 </tag>
 </m>
 <m id="m-lnd92258-073-p10s1w4">
@@ -3938,7 +3938,7 @@
 <LM>w#w-lnd92258-073-p10s2w3</LM>
 </w.rf>
 <form>ukazateli</form>
-<tag lemma="ukazatel" src="orig" selected="1">NNIP7-----A----</tag>
+<tag lemma="ukazatel-1" src="orig" selected="1">NNIP7-----A----</tag>
 </m>
 <m id="m-lnd92258-073-p10s2w4">
 <src.rf>manual</src.rf>
@@ -4002,7 +4002,7 @@
 <LM>w#w-lnd92258-073-p10s2w11</LM>
 </w.rf>
 <form>nezaměstnanosti</form>
-<tag lemma="nezaměstnanost-2_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="nezaměstnanost_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92258-073-p10s2w12">
 <src.rf>manual</src.rf>
@@ -4036,7 +4036,7 @@
 <form>nezaměstnaných</form>
 <tag>
 <AM lemma="zaměstnaný-1_^(všeob._význam:_činnost,_zaměstnání)_(*4t-1)" src="orig">AAMP2----1N----</AM>
-<AM lemma="nezaměstnaný-2_^(člověk_bez_zaměstnání)" src="manual" selected="1">AAMP2----1N----</AM>
+<AM lemma="zaměstnaný_^(*2t)" src="manual" selected="1">AAMP2----1N----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-073-p10s2w16">
@@ -4151,7 +4151,7 @@
 <LM>w#w-lnd92258-073-p10s3w10</LM>
 </w.rf>
 <form>nezaměstnanosti</form>
-<tag lemma="nezaměstnanost-2_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="nezaměstnanost_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92258-073-p10s3w11">
 <src.rf>manual</src.rf>
@@ -4185,7 +4185,7 @@
 <LM>w#w-lnd92258-073-p10s4w2</LM>
 </w.rf>
 <form>delší</form>
-<tag lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">AAFS1----2A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFS1----2A----</tag>
 </m>
 <m id="m-lnd92258-073-p10s4w3">
 <src.rf>manual</src.rf>
@@ -4217,7 +4217,7 @@
 <LM>w#w-lnd92258-073-p10s4w6</LM>
 </w.rf>
 <form>nezaměstnanosti</form>
-<tag lemma="nezaměstnanost-2_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="nezaměstnanost_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92258-073-p10s4w7">
 <src.rf>manual</src.rf>
@@ -4315,7 +4315,7 @@
 <LM>w#w-lnd92258-073-p10s5w3</LM>
 </w.rf>
 <form>nalezení</form>
-<tag lemma="nalezení-2_^(*7ézt-2)" src="auto" selected="1">NNNS4-----A----</tag>
+<tag lemma="nalezení" src="auto" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-lnd92258-073-p10s5w4">
 <src.rf>manual</src.rf>
@@ -4359,7 +4359,7 @@
 <LM>w#w-lnd92258-073-p10s5w8</LM>
 </w.rf>
 <form>nezaměstnanosti</form>
-<tag lemma="nezaměstnanost-2_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="nezaměstnanost_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92258-073-p10s5w9">
 <src.rf>manual</src.rf>
@@ -4420,7 +4420,7 @@
 <LM>w#w-lnd92258-073-p10s6w5</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-lnd92258-073-p10s6w6">
 <src.rf>manual</src.rf>
@@ -4428,7 +4428,7 @@
 <LM>w#w-lnd92258-073-p10s6w6</LM>
 </w.rf>
 <form>nezaměstnanosti</form>
-<tag lemma="nezaměstnanost-2_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="nezaměstnanost_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92258-073-p10s6w7">
 <src.rf>manual</src.rf>

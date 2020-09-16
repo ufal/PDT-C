@@ -120,7 +120,7 @@
 <LM>w#w-mf930703-010-p2s1w7</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrMP4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrMP4----------</tag>
 </m>
 <m id="m-mf930703-010-p2s1w8">
 <src.rf>manual</src.rf>

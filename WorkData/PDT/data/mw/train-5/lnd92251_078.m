@@ -879,7 +879,7 @@
 <LM>w#w-lnd92251-078-p4s3w11</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-lnd92251-078-p4s3w12">
 <src.rf>manual</src.rf>
@@ -1465,7 +1465,7 @@
 <LM>w#w-lnd92251-078-p5s4w5</LM>
 </w.rf>
 <form>vysílatele</form>
-<tag lemma="vysílatel_,s" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="vysílatel" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-lnd92251-078-p5s4w6">
 <src.rf>manual</src.rf>
@@ -1566,7 +1566,7 @@
 <LM>w#w-lnd92251-078-p6s1w1</LM>
 </w.rf>
 <form>Ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-lnd92251-078-p6s1w2">
 <src.rf>manual</src.rf>
@@ -1598,7 +1598,7 @@
 <LM>w#w-lnd92251-078-p6s1w5</LM>
 </w.rf>
 <form>nedalo</form>
-<tag lemma="dát" src="orig" selected="1">VpNS----R-NAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VpNS----R-NAP--</tag>
 </m>
 <m id="m-lnd92251-078-p6s1w6">
 <src.rf>manual</src.rf>
@@ -2334,7 +2334,7 @@
 <LM>w#w-lnd92251-078-p7s2w22</LM>
 </w.rf>
 <form>co</form>
-<tag lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="co-5_^(př._co_nejméně,_co_nevidět_atd.)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd92251-078-p7s2w23">
 <src.rf>manual</src.rf>
@@ -3414,7 +3414,7 @@
 <form>hodně</form>
 <tag>
 <AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="hodně_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-078-p10s2w10">
@@ -3967,7 +3967,7 @@
 <LM>w#w-lnd92251-078-p10s8w4</LM>
 </w.rf>
 <form>delší</form>
-<tag lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">AAIS4----2A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAIS4----2A----</tag>
 </m>
 <m id="m-lnd92251-078-p10s8w5">
 <src.rf>manual</src.rf>

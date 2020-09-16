@@ -27,7 +27,7 @@
 <LM>w#w-ln95049-140-p1s1w2</LM>
 </w.rf>
 <form>odpovědnosti</form>
-<tag lemma="odpovědnost_^(kdo_za_něco_odpovídá)_(*3ý)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="odpovědnost_^(*3ý)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95049-140-p1s1w3">
 <src.rf>manual</src.rf>
@@ -1043,7 +1043,7 @@
 <LM>w#w-ln95049-140-p4s1w12</LM>
 </w.rf>
 <form>právo</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln95049-140-p4s1w13">
 <src.rf>manual</src.rf>
@@ -1381,7 +1381,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1657,7 +1657,7 @@
 <LM>w#w-ln95049-140-p6s2w6</LM>
 </w.rf>
 <form>Chemopetrolu</form>
-<tag lemma="Chemopetrol" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Chemopetrol_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln95049-140-p6s2w7">
 <src.rf>manual</src.rf>

@@ -33,7 +33,7 @@
 <form>nestojí</form>
 <tag>
 <AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig">VB-S---3P-NA---</AM>
-<AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="manual" selected="1">VB-S---3P-NAI--</AM>
+<AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">VB-S---3P-NAI--</AM>
 </tag>
 </m>
 <m id="m-ln94203-63-p1s1w3">
@@ -255,7 +255,7 @@
 <form>Warren</form>
 <tag>
 <AM lemma="Warren_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Warren_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Warren-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-63-p2s2w9">
@@ -545,7 +545,7 @@
 <LM>w#w-ln94203-63-p2s5w10</LM>
 </w.rf>
 <form>ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94203-63-p2s5w11">
 <src.rf>manual</src.rf>
@@ -1053,7 +1053,7 @@
 <LM>w#w-ln94203-63-p3s2w13</LM>
 </w.rf>
 <form>masového</form>
-<tag lemma="masový-2_^(velký)" src="orig" selected="1">AAIS2----1A----</tag>
+<tag lemma="masový" src="orig" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-ln94203-63-p3s2w14">
 <src.rf>manual</src.rf>
@@ -1263,7 +1263,7 @@
 <LM>w#w-ln94203-63-p4s1w23</LM>
 </w.rf>
 <form>pozornost</form>
-<tag lemma="pozornost-1_^(všímavý,_milý,_soustředěný)_(*5ý-1)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="pozornost-1_^(*5ý-1)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94203-63-p4s1w24">
 <src.rf>manual</src.rf>

@@ -210,7 +210,7 @@
 <LM>w#w-ln95049-075-p2s1Bw17</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln95049-075-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -226,7 +226,7 @@
 <LM>w#w-ln95049-075-p2s1Bw19</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln95049-075-p2s1Bw20">
 <src.rf>manual</src.rf>
@@ -848,7 +848,7 @@
 <LM>w#w-ln95049-075-p2s4w8</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-ln95049-075-p2s4w9">
 <src.rf>manual</src.rf>
@@ -864,7 +864,7 @@
 <LM>w#w-ln95049-075-p2s4w10</LM>
 </w.rf>
 <form>dal</form>
-<tag lemma="dát" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95049-075-p2s4w11">
 <src.rf>manual</src.rf>

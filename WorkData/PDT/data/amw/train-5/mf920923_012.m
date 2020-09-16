@@ -357,7 +357,7 @@
 <LM>w#w-mf920923-012-p1s2w2</LM>
 </w.rf>
 <form>mluvčího</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920923-012-p1s2w3">
 <src.rf>manual</src.rf>
@@ -435,7 +435,7 @@
 <LM>w#w-mf920923-012-p1s2w11</LM>
 </w.rf>
 <form>dal</form>
-<tag lemma="dát" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920923-012-p1s2w12">
 <src.rf>manual</src.rf>
@@ -451,7 +451,7 @@
 <LM>w#w-mf920923-012-p1s2w13</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-mf920923-012-p1s2w14">
 <src.rf>manual</src.rf>

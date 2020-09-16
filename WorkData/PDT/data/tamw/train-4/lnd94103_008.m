@@ -75,7 +75,7 @@
 <LM>w#w-lnd94103-008-p1s1w8</LM>
 </w.rf>
 <form>cestě</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd94103-008-p1s1w9">
 <src.rf>manual</src.rf>
@@ -342,7 +342,7 @@
 <LM>w#w-lnd94103-008-p1s2w4</LM>
 </w.rf>
 <form>datum</form>
-<tag lemma="datum_^(kalendářní)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="datum-1_^(kalendářní)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-lnd94103-008-p1s2w5">
 <src.rf>manual</src.rf>

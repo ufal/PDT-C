@@ -59,7 +59,7 @@
 <LM>w#w-mf930701-012-p1s1w6</LM>
 </w.rf>
 <form>nebojí</form>
-<tag lemma="bát" src="orig" selected="1">VB-P---3P-NAI--</tag>
+<tag lemma="bát-1" src="orig" selected="1">VB-P---3P-NAI--</tag>
 </m>
 </s>
 <s id="m-mf930701-012-p2s1">
@@ -141,7 +141,7 @@
 <LM>w#w-mf930701-012-p2s1w10</LM>
 </w.rf>
 <form>ohlášených</form>
-<tag lemma="ohlášený_,a_^(*4sit)" src="auto" selected="1">AAIP2----1A----</tag>
+<tag lemma="ohlášený_^(*2t)_(*4sit)" src="auto" selected="1">AAIP2----1A----</tag>
 </m>
 <m id="m-mf930701-012-p2s1w11">
 <src.rf>manual</src.rf>
@@ -839,7 +839,7 @@
 <LM>w#w-mf930701-012-p3s2w7</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-mf930701-012-p3s2w8">
 <src.rf>manual</src.rf>

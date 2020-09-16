@@ -120,7 +120,7 @@
 <LM>w#w-ln94200-7-p2s1w10</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-ln94200-7-p2s1w11">
 <src.rf>manual</src.rf>
@@ -168,7 +168,7 @@
 <LM>w#w-ln94200-7-p2s1w16</LM>
 </w.rf>
 <form>naše</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP4-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP4-P1-------</tag>
 </m>
 <m id="m-ln94200-7-p2s1w17">
 <src.rf>manual</src.rf>

@@ -456,7 +456,7 @@
 </w.rf>
 <form>Bond</form>
 <tag>
-<AM lemma="Bond_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Bond-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Bondo_;G" src="auto">NNNP2-----A----</AM>
 <AM lemma="bond" src="auto">NNIS1-----A----</AM>
 <AM lemma="bond" src="auto">NNIS4-----A----</AM>
@@ -1221,7 +1221,7 @@
 </w.rf>
 <form>Bond</form>
 <tag>
-<AM lemma="Bond_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Bond-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Bondo_;G" src="auto">NNNP2-----A----</AM>
 <AM lemma="bond" src="auto">NNIS1-----A----</AM>
 <AM lemma="bond" src="auto">NNIS4-----A----</AM>
@@ -1577,7 +1577,7 @@
 </w.rf>
 <form>Bond</form>
 <tag>
-<AM lemma="Bond_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Bond-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Bondo_;G" src="auto">NNNP2-----A----</AM>
 <AM lemma="bond" src="auto">NNIS1-----A----</AM>
 <AM lemma="bond" src="auto">NNIS4-----A----</AM>
@@ -2516,7 +2516,7 @@
 </w.rf>
 <form>Bond</form>
 <tag>
-<AM lemma="Bond_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Bond-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Bondo_;G" src="auto">NNNP2-----A----</AM>
 <AM lemma="bond" src="auto">NNIS1-----A----</AM>
 <AM lemma="bond" src="auto">NNIS4-----A----</AM>
@@ -2863,7 +2863,7 @@
 </w.rf>
 <form>našich</form>
 <tag>
-<AM lemma="můj_^(přivlast.)" src="auto" recommended="1">PSXP2-P1-------</AM>
+<AM lemma="náš" src="auto" recommended="1">PSXP2-P1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSXP6-P1-------</AM>
 </tag>
 </m>
@@ -2924,7 +2924,7 @@
 </w.rf>
 <form>Bond</form>
 <tag>
-<AM lemma="Bond_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Bond-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Bondo_;G" src="auto">NNNP2-----A----</AM>
 <AM lemma="bond" src="auto">NNIS1-----A----</AM>
 <AM lemma="bond" src="auto">NNIS4-----A----</AM>
@@ -3583,7 +3583,7 @@
 </w.rf>
 <form>Bond</form>
 <tag>
-<AM lemma="Bond_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Bond-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Bondo_;G" src="auto">NNNP2-----A----</AM>
 <AM lemma="bond" src="auto">NNIS1-----A----</AM>
 <AM lemma="bond" src="auto">NNIS4-----A----</AM>
@@ -3786,7 +3786,7 @@
 </w.rf>
 <form>Bond</form>
 <tag>
-<AM lemma="Bond_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Bond-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Bondo_;G" src="auto">NNNP2-----A----</AM>
 <AM lemma="bond" src="auto">NNIS1-----A----</AM>
 <AM lemma="bond" src="auto">NNIS4-----A----</AM>
@@ -4184,7 +4184,7 @@
 </w.rf>
 <form>Bond</form>
 <tag>
-<AM lemma="Bond_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Bond-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Bondo_;G" src="auto">NNNP2-----A----</AM>
 <AM lemma="bond" src="auto">NNIS1-----A----</AM>
 <AM lemma="bond" src="auto">NNIS4-----A----</AM>

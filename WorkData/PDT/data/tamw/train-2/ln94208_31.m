@@ -515,7 +515,7 @@
 <LM>w#w-ln94208-31-p2s3w21</LM>
 </w.rf>
 <form>Bílým</form>
-<tag lemma="bílý" src="orig" selected="1">AANS7----1A----</tag>
+<tag lemma="bílý_;o" src="orig" selected="1">AANS7----1A----</tag>
 </m>
 <m id="m-ln94208-31-p2s3w22">
 <src.rf>manual</src.rf>
@@ -992,7 +992,7 @@
 <LM>w#w-ln94208-31-p2s6w19</LM>
 </w.rf>
 <form>jejím</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS6FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS6FS3-------</tag>
 </m>
 <m id="m-ln94208-31-p2s6w20">
 <src.rf>manual</src.rf>

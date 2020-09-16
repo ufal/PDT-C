@@ -550,7 +550,7 @@
 <LM>w#w-mf930713-008-p1s4w2</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS2---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS2---------1</tag>
 </m>
 <m id="m-mf930713-008-p1s4w3">
 <src.rf>manual</src.rf>
@@ -649,7 +649,7 @@
 <tag>
 <AM lemma="Panton_;Y" src="orig">NNIS1-----A----</AM>
 <AM lemma="Panton_;m" src="manual">NNIS1-----A----</AM>
-<AM lemma="Panton-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Panton_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-008-p1s4w15">
@@ -1097,7 +1097,7 @@
 <LM>w#w-mf930713-008-p2s4w1</LM>
 </w.rf>
 <form>Představení</form>
-<tag lemma="představení-2_^(divadelní,_filmové_apod.)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="představení-1_^(*5it-1)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf930713-008-p2s4w2">
 <src.rf>manual</src.rf>

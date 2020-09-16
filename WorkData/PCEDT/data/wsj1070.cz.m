@@ -265,7 +265,7 @@
 <form>jejího</form>
 <tag>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSMS4FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9ZS2FS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9ZS2FS3-------</AM>
 </tag>
 </m>
 <m id="m-wsj1070-001-p1s0W23-Ta">
@@ -464,7 +464,7 @@
 <AM lemma="správný_^(správný_chlap)" src="auto">AAIP4----1N---6</AM>
 <AM lemma="správný_^(správný_chlap)" src="auto">AAIP5----1N---6</AM>
 <AM lemma="správný_^(správný_chlap)" src="auto">AAIS1----1N----</AM>
-<AM lemma="správný_^(správný_chlap)" src="auto" recommended="1">AAIS4----1N----</AM>
+<AM lemma="správný" src="auto" recommended="1">AAIS4----1N----</AM>
 <AM lemma="správný_^(správný_chlap)" src="auto">AAIS5----1N----</AM>
 <AM lemma="správný_^(správný_chlap)" src="auto">AAMP1----1N---6</AM>
 <AM lemma="správný_^(správný_chlap)" src="auto">AAMP4----1N---6</AM>
@@ -515,7 +515,7 @@
 <AM lemma="převzatý_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="auto">AAIP4----1A---6</AM>
 <AM lemma="převzatý_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="auto">AAIP5----1A---6</AM>
 <AM lemma="převzatý_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="auto">AAIS1----1A----</AM>
-<AM lemma="převzatý_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="auto" recommended="1">AAIS4----1A----</AM>
+<AM lemma="převzatý_^(*3ít)" src="auto" recommended="1">AAIS4----1A----</AM>
 <AM lemma="převzatý_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="auto">AAIS5----1A----</AM>
 <AM lemma="převzatý_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="auto">AAMP1----1A---6</AM>
 <AM lemma="převzatý_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="auto">AAMP4----1A---6</AM>

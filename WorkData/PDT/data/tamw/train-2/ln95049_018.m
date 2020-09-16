@@ -364,7 +364,7 @@
 <form>Romů</form>
 <tag>
 <AM lemma="Rom-4_;E" src="orig">NNMP2-----A----</AM>
-<AM lemma="Rom-_;E_;Y" src="manual" selected="1">NNMP2-----A----</AM>
+<AM lemma="Rom_;E_;Y" src="manual" selected="1">NNMP2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-018-p1s3w5">
@@ -376,7 +376,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-018-p1s3w6">

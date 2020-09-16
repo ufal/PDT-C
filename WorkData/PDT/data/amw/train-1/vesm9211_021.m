@@ -528,7 +528,7 @@
 <LM>w#w-vesm9211-021-p6s1w7</LM>
 </w.rf>
 <form>součinitel</form>
-<tag lemma="součinitel" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="součinitel-1" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-vesm9211-021-p6s1w8">
 <src.rf>manual</src.rf>

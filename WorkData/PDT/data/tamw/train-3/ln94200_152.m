@@ -77,7 +77,7 @@
 <LM>w#w-ln94200-152-p2s1w5</LM>
 </w.rf>
 <form>Slavie</form>
-<tag lemma="Slavia_;m" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Slavie_;m_,s_^(^DD**Slávie)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94200-152-p2s1w6">
 <src.rf>manual</src.rf>
@@ -356,7 +356,7 @@
 <LM>w#w-ln94200-152-p4s1w1</LM>
 </w.rf>
 <form>Miroslav</form>
-<tag lemma="Miroslav_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Miroslav-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-152-p4s1w2">
 <src.rf>manual</src.rf>

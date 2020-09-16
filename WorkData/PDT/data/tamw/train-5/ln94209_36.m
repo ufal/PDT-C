@@ -122,7 +122,7 @@
 <LM>w#w-ln94209-36-p2s1Bw4</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-ln94209-36-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -138,7 +138,7 @@
 <LM>w#w-ln94209-36-p2s1Bw6</LM>
 </w.rf>
 <form>průvodkyně</form>
-<tag lemma="průvodkyně_^(*4ce)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="průvodkyně-1_^(*6ce-1)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94209-36-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -454,7 +454,7 @@
 <LM>w#w-ln94209-36-p2s2w11</LM>
 </w.rf>
 <form>hodiny</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94209-36-p2s2w12">
 <src.rf>manual</src.rf>
@@ -528,7 +528,7 @@
 <LM>w#w-ln94209-36-p2s3w4</LM>
 </w.rf>
 <form>dlouhém</form>
-<tag lemma="dlouhý-1_^(fyz._délka;_př._dlouhá_tyč)" src="orig" selected="1">AAIS6----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAIS6----1A----</tag>
 </m>
 <m id="m-ln94209-36-p2s3w5">
 <src.rf>manual</src.rf>

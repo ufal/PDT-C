@@ -35,7 +35,7 @@
 <LM>w#w-lnd92255-116-p1s1w3</LM>
 </w.rf>
 <form>SUDÍHO</form>
-<tag lemma="sudí" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="sudí-1" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92255-116-p2s1">
@@ -316,7 +316,7 @@
 <LM>w#w-lnd92255-116-p3s2w7</LM>
 </w.rf>
 <form>Slovanu</form>
-<tag lemma="Slovan-2_;m" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Slovan-2_;G_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92255-116-p3s2w8">
 <src.rf>manual</src.rf>
@@ -356,7 +356,7 @@
 <LM>w#w-lnd92255-116-p3s2w12</LM>
 </w.rf>
 <form>žlutou</form>
-<tag lemma="žlutý" src="orig" selected="1">AAFS4----1A----</tag>
+<tag lemma="žlutý_;o" src="orig" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-lnd92255-116-p3s2w13">
 <src.rf>manual</src.rf>
@@ -785,7 +785,7 @@
 <LM>w#w-lnd92255-116-p4s2w15</LM>
 </w.rf>
 <form>Luzern</form>
-<tag lemma="Lucern_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Luzern_;G_,s_^(^DD**Lucern)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92255-116-p4s2w16">
 <src.rf>manual</src.rf>

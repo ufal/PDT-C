@@ -162,7 +162,7 @@
 <LM>w#w-mf920901-041-p2s1Bw8</LM>
 </w.rf>
 <form>vyvážejících</form>
-<tag lemma="vyvážející_^(zboží_přes_hranice)_(*4t)" src="orig" selected="1">AGIP2-----A----</tag>
+<tag lemma="vyvážející_^(*4t)" src="orig" selected="1">AGIP2-----A----</tag>
 </m>
 <m id="m-mf920901-041-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -566,7 +566,7 @@
 <LM>w#w-mf920901-041-p2s3w8</LM>
 </w.rf>
 <form>vyváženého</form>
-<tag lemma="vyvážený_^(zboží_přes_hranice)_(*2t)" src="orig" selected="1">AAIS2----1A----</tag>
+<tag lemma="vyvážený_^(*2t)_(*3it)" src="orig" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-mf920901-041-p2s3w9">
 <src.rf>manual</src.rf>
@@ -834,7 +834,7 @@
 <LM>w#w-mf920901-041-p2s5w1</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrIS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS4----------</tag>
 </m>
 <m id="m-mf920901-041-p2s5w2">
 <src.rf>manual</src.rf>

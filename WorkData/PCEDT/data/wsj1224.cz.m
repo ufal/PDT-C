@@ -536,7 +536,7 @@
 </w.rf>
 <form>Whiteovi</form>
 <tag>
-<AM lemma="White_;Y" src="auto" recommended="1">NNMS3-----A----</AM>
+<AM lemma="White-1_;Y" src="auto" recommended="1">NNMS3-----A----</AM>
 <AM lemma="White_;Y" src="auto">NNMS6-----A----</AM>
 <AM lemma="Whiteův_;Y_^(*2)" src="auto">AUMP1M---------</AM>
 <AM lemma="Whiteův_;Y_^(*2)" src="auto">AUMP5M---------</AM>

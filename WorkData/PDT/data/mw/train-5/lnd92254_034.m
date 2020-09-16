@@ -291,7 +291,7 @@
 <LM>w#w-lnd92254-034-p3s2w14</LM>
 </w.rf>
 <form>výbory</form>
-<tag lemma="výbor" src="orig" selected="1">NNIP7-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIP7-----A----</tag>
 </m>
 <m id="m-lnd92254-034-p3s2w15">
 <src.rf>manual</src.rf>
@@ -384,7 +384,7 @@
 <LM>w#w-lnd92254-034-p3s3w8</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-lnd92254-034-p3s3w9">
 <src.rf>manual</src.rf>

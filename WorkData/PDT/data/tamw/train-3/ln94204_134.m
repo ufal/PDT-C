@@ -516,7 +516,7 @@
 <LM>w#w-ln94204-134-p3s1w18</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS7----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS7----------</tag>
 </m>
 <m id="m-ln94204-134-p3s1w19">
 <src.rf>manual</src.rf>
@@ -564,7 +564,7 @@
 <LM>w#w-ln94204-134-p3s1w24</LM>
 </w.rf>
 <form>Jitky</form>
-<tag lemma="Jitka-1_;Y" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Jitka-1_;Y_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94204-134-p3s1w25">
 <src.rf>manual</src.rf>
@@ -1373,7 +1373,7 @@
 <LM>w#w-ln94204-134-p6s1w3</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS6---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS6---------1</tag>
 </m>
 <m id="m-ln94204-134-p6s1w4">
 <src.rf>manual</src.rf>
@@ -1537,7 +1537,7 @@
 <LM>w#w-ln94204-134-p6s1w23</LM>
 </w.rf>
 <form>zveřejnění</form>
-<tag lemma="zveřejnění_^(*3it)" src="orig" selected="1">NNNS3-----A----</tag>
+<tag lemma="zveřejnění_^(*2t)_(*3it)" src="orig" selected="1">NNNS3-----A----</tag>
 </m>
 <m id="m-ln94204-134-p6s1w24">
 <src.rf>manual</src.rf>
@@ -1627,7 +1627,7 @@
 <LM>w#w-ln94204-134-p6s2w9</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-ln94204-134-p6s2w10">
 <src.rf>manual</src.rf>
@@ -1789,7 +1789,7 @@
 <LM>w#w-ln94204-134-p6s3w12</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS7----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS7----------</tag>
 </m>
 <m id="m-ln94204-134-p6s3w13">
 <src.rf>manual</src.rf>
@@ -1949,7 +1949,7 @@
 <LM>w#w-ln94204-134-p6s3w33</LM>
 </w.rf>
 <form>zveřejnění</form>
-<tag lemma="zveřejnění_^(*3it)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="zveřejnění_^(*2t)_(*3it)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-ln94204-134-p6s3w34">
 <src.rf>manual</src.rf>
@@ -2031,7 +2031,7 @@
 <LM>w#w-ln94204-134-p6s4w4</LM>
 </w.rf>
 <form>soudkyně</form>
-<tag lemma="soudkyně_^(člověk,_který_soudí)_(*4ce)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="soudkyně_^(*4ce)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94204-134-p6s4w5">
 <src.rf>manual</src.rf>

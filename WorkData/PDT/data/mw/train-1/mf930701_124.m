@@ -184,7 +184,7 @@
 <LM>w#w-mf930701-124-p2s1w17</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-mf930701-124-p2s1w18">
 <src.rf>manual</src.rf>
@@ -200,7 +200,7 @@
 <LM>w#w-mf930701-124-p2s1w19</LM>
 </w.rf>
 <form>nejlepším</form>
-<tag lemma="dobrý" src="orig" selected="1">AAMP3----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAMP3----3A----</tag>
 </m>
 <m id="m-mf930701-124-p2s1w20">
 <src.rf>manual</src.rf>

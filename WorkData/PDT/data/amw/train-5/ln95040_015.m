@@ -295,7 +295,7 @@
 <LM>w#w-ln95040-015-p2s1Bw26</LM>
 </w.rf>
 <form>letounu</form>
-<tag lemma="letoun" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="letoun-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95040-015-p2s1Bw27">
 <src.rf>manual</src.rf>
@@ -1533,7 +1533,7 @@
 <LM>w#w-ln95040-015-p4s1w17</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln95040-015-p4s1w18">
 <src.rf>manual</src.rf>
@@ -1829,7 +1829,7 @@
 <LM>w#w-ln95040-015-p4s2w5</LM>
 </w.rf>
 <form>letounu</form>
-<tag lemma="letoun" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="letoun-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95040-015-p4s2w6">
 <src.rf>manual</src.rf>
@@ -1911,7 +1911,7 @@
 <LM>w#w-ln95040-015-p4s3w5</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-ln95040-015-p4s3w6">
 <src.rf>manual</src.rf>
@@ -2757,7 +2757,7 @@
 <form>Rockwellu</form>
 <tag>
 <AM lemma="Rockwell_;G" src="orig">NNIS2-----A----</AM>
-<AM lemma="Rockwell-2_;G_;m" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Rockwell_;G_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-015-p5s6w12">
@@ -2838,7 +2838,7 @@
 <LM>w#w-ln95040-015-p5s6w21</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln95040-015-p5s6w22">
 <src.rf>manual</src.rf>

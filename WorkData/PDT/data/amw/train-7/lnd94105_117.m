@@ -43,7 +43,7 @@
 <LM>w#w-lnd94105-117-p1s1w4</LM>
 </w.rf>
 <form>km</form>
-<tag lemma="km-1`kilometr" src="orig" selected="1">NNIXX-----A---b</tag>
+<tag lemma="kilometr" src="orig" selected="1">NNIXX-----A---b</tag>
 </m>
 <m id="m-lnd94105-117-p1s1w5">
 <src.rf>manual</src.rf>
@@ -87,7 +87,7 @@
 <LM>w#w-lnd94105-117-p1s3w1</LM>
 </w.rf>
 <form>Miroslav</form>
-<tag lemma="Miroslav_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Miroslav-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-117-p1s3w2">
 <src.rf>manual</src.rf>
@@ -111,7 +111,7 @@
 <LM>w#w-lnd94105-117-p1s3w4</LM>
 </w.rf>
 <form>jedenáctinásobný</form>
-<tag lemma="jedenáctinásobný`11" src="auto" selected="1">AAMS1----1A----</tag>
+<tag lemma="jedenáctinásobný" src="auto" selected="1">AAMS1----1A----</tag>
 </m>
 <m id="m-lnd94105-117-p1s3w5">
 <src.rf>manual</src.rf>
@@ -263,7 +263,7 @@
 <LM>w#w-lnd94105-117-p1s3w23</LM>
 </w.rf>
 <form>km</form>
-<tag lemma="km-1`kilometr" src="orig" selected="1">NNIXX-----A---b</tag>
+<tag lemma="kilometr" src="orig" selected="1">NNIXX-----A---b</tag>
 </m>
 <m id="m-lnd94105-117-p1s3w24">
 <src.rf>manual</src.rf>
@@ -489,7 +489,7 @@
 <LM>w#w-lnd94105-117-p1s4w9</LM>
 </w.rf>
 <form>třeba</form>
-<tag lemma="třeba-2" src="auto" selected="1">Db-------------</tag>
+<tag lemma="třeba-1" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd94105-117-p1s4w10">
 <src.rf>manual</src.rf>
@@ -671,7 +671,7 @@
 <LM>w#w-lnd94105-117-p1s5w13</LM>
 </w.rf>
 <form>jet</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="orig" selected="1">Vf--------A-I--</tag>
+<tag lemma="jet-1" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-lnd94105-117-p1s5w14">
 <src.rf>manual</src.rf>
@@ -703,7 +703,7 @@
 <LM>w#w-lnd94105-117-p1s5w17</LM>
 </w.rf>
 <form>km</form>
-<tag lemma="km-1`kilometr" src="orig" selected="1">NNIXX-----A---b</tag>
+<tag lemma="kilometr" src="orig" selected="1">NNIXX-----A---b</tag>
 </m>
 <m id="m-lnd94105-117-p1s5w18">
 <src.rf>manual</src.rf>
@@ -761,7 +761,7 @@
 <LM>w#w-lnd94105-117-p1s6w4</LM>
 </w.rf>
 <form>km</form>
-<tag lemma="km-1`kilometr" src="orig" selected="1">NNIXX-----A---b</tag>
+<tag lemma="kilometr" src="orig" selected="1">NNIXX-----A---b</tag>
 </m>
 <m id="m-lnd94105-117-p1s6w5">
 <src.rf>manual</src.rf>

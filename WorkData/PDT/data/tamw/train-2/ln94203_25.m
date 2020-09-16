@@ -27,7 +27,7 @@
 <LM>w#w-ln94203-25-p1s1w2</LM>
 </w.rf>
 <form>správným</form>
-<tag lemma="správný_^(podle_něj._měřítek;_př._chlap,_míra,...)" src="orig" selected="1">AAIS7----1A----</tag>
+<tag lemma="správný" src="orig" selected="1">AAIS7----1A----</tag>
 </m>
 <m id="m-ln94203-25-p1s1w3">
 <src.rf>manual</src.rf>
@@ -448,7 +448,7 @@
 <LM>w#w-ln94203-25-p2s2w34</LM>
 </w.rf>
 <form>diskuse</form>
-<tag lemma="diskuse" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="diskuse_,s_^(^DD**diskuze)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94203-25-p2s2w35">
 <src.rf>manual</src.rf>
@@ -464,7 +464,7 @@
 <LM>w#w-ln94203-25-p2s2w36</LM>
 </w.rf>
 <form>nepříjemných</form>
-<tag lemma="příjemný-1_^(všeob.,_poz._emoce)" src="orig" selected="1">AAFP6----1N----</tag>
+<tag lemma="příjemný_^(všeob.,_poz._emoce)" src="orig" selected="1">AAFP6----1N----</tag>
 </m>
 <m id="m-ln94203-25-p2s2w37">
 <src.rf>manual</src.rf>
@@ -1311,7 +1311,7 @@
 <LM>w#w-ln94203-25-p3s3w16</LM>
 </w.rf>
 <form>dalo</form>
-<tag lemma="dát" src="orig" selected="1">VpNS----R-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln94203-25-p3s3w17">
 <src.rf>manual</src.rf>
@@ -1477,7 +1477,7 @@
 <LM>w#w-ln94203-25-p4s1w12</LM>
 </w.rf>
 <form>diskuse</form>
-<tag lemma="diskuse" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="diskuse_,s_^(^DD**diskuze)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94203-25-p4s1w13">
 <src.rf>manual</src.rf>
@@ -1643,7 +1643,7 @@
 <LM>w#w-ln94203-25-p4s2w15</LM>
 </w.rf>
 <form>třeba</form>
-<tag lemma="třeba-2" src="auto" selected="1">Db-------------</tag>
+<tag lemma="třeba-1" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94203-25-p4s2w16">
 <src.rf>manual</src.rf>
@@ -1667,7 +1667,7 @@
 <LM>w#w-ln94203-25-p4s2w18</LM>
 </w.rf>
 <form>děti</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-ln94203-25-p4s2w19">
 <src.rf>manual</src.rf>
@@ -1765,7 +1765,7 @@
 <LM>w#w-ln94203-25-p4s3w4</LM>
 </w.rf>
 <form>politice</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94203-25-p4s3w5">
 <src.rf>manual</src.rf>
@@ -1853,7 +1853,7 @@
 <LM>w#w-ln94203-25-p4s3w15</LM>
 </w.rf>
 <form>proto</form>
-<tag lemma="proto-2_^(dal_mu_co_proto,_tak_proto!)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="proto-2_^(proto_že)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94203-25-p4s3w16">
 <src.rf>manual</src.rf>
@@ -2109,7 +2109,7 @@
 <LM>w#w-ln94203-25-p5s1w24</LM>
 </w.rf>
 <form>diskusi</form>
-<tag lemma="diskuse" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="diskuse_,s_^(^DD**diskuze)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94203-25-p5s1w25">
 <src.rf>manual</src.rf>
@@ -2652,7 +2652,7 @@
 <LM>w#w-ln94203-25-p6s1w9</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="mluvčí-2" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94203-25-p6s1w10">
 <src.rf>manual</src.rf>
@@ -2841,7 +2841,7 @@
 <LM>w#w-ln94203-25-p6s2w10</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-ln94203-25-p6s2w11">
 <src.rf>manual</src.rf>
@@ -2945,7 +2945,7 @@
 <LM>w#w-ln94203-25-p6s2w23</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS7---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS7---------1</tag>
 </m>
 <m id="m-ln94203-25-p6s2w24">
 <src.rf>manual</src.rf>

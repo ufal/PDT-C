@@ -659,7 +659,7 @@
 <LM>w#w-ln94209-19-p2s4w12</LM>
 </w.rf>
 <form>právo</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln94209-19-p2s4w13">
 <src.rf>manual</src.rf>
@@ -803,7 +803,7 @@
 <LM>w#w-ln94209-19-p2s4w30</LM>
 </w.rf>
 <form>nemravnost</form>
-<tag lemma="mravnost_^(mající_dobré_mravy)_(*3ý)" src="orig" selected="1">NNFS1-----N----</tag>
+<tag lemma="mravnost_^(*3ý)" src="orig" selected="1">NNFS1-----N----</tag>
 </m>
 <m id="m-ln94209-19-p2s4w31">
 <src.rf>manual</src.rf>

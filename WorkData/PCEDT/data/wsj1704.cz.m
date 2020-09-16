@@ -427,7 +427,7 @@
 <form>pensylvánské</form>
 <tag>
 <AM lemma="pennsylvánský" src="auto">AAFP1----1A----</AM>
-<AM lemma="pennsylvánský" src="auto" recommended="1">AAFP4----1A----</AM>
+<AM lemma="pensylvánský_,s_^(^DD**pennsylvánský)" src="auto" recommended="1">AAFP4----1A----</AM>
 <AM lemma="pennsylvánský" src="auto">AAFP5----1A----</AM>
 <AM lemma="pennsylvánský" src="auto">AAFS2----1A----</AM>
 <AM lemma="pennsylvánský" src="auto">AAFS3----1A----</AM>
@@ -876,7 +876,7 @@
 </w.rf>
 <form>Columbusu</form>
 <tag>
-<AM lemma="Columbus_;G" src="auto" selected="1">NNIS2-----A---6</AM>
+<AM lemma="Columbus-2_;G_;m" src="auto" selected="1">NNIS2-----A---6</AM>
 <AM lemma="Columbus_;G" src="auto">NNIS3-----A---6</AM>
 <AM lemma="Columbus_;G" src="auto">NNIS6-----A---6</AM>
 <AM lemma="Columbus_;m" src="auto" recommended="1">NNIS2-----A----</AM>

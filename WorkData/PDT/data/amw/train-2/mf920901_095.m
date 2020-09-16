@@ -769,7 +769,7 @@
 <LM>w#w-mf920901-095-p2s5w11</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrNS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS1----------</tag>
 </m>
 <m id="m-mf920901-095-p2s5w12">
 <src.rf>manual</src.rf>
@@ -979,7 +979,7 @@
 <LM>w#w-mf920901-095-p2s6w10</LM>
 </w.rf>
 <form>my</form>
-<tag lemma="já" src="orig" selected="1">PP-P1--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P1--1-------</tag>
 </m>
 <m id="m-mf920901-095-p2s6w11">
 <src.rf>manual</src.rf>

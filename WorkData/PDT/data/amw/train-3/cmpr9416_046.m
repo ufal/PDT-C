@@ -35,7 +35,7 @@
 <LM>w#w-cmpr9416-046-p2s1w3</LM>
 </w.rf>
 <form>ukazatelů</form>
-<tag lemma="ukazatel" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="ukazatel-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9416-046-p3s1">

@@ -493,7 +493,7 @@
 <LM>w#w-ln95047-072-p2s2w21</LM>
 </w.rf>
 <form>ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln95047-072-p2s2w22">
 <src.rf>manual</src.rf>
@@ -900,7 +900,7 @@
 <LM>w#w-ln95047-072-p3s2w7</LM>
 </w.rf>
 <form>Gyula</form>
-<tag lemma="Gyula_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Gyula-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95047-072-p3s2w8">
 <src.rf>manual</src.rf>
@@ -942,7 +942,7 @@
 <LM>w#w-ln95047-072-p4s1w3</LM>
 </w.rf>
 <form>hnutí</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln95047-072-p4s1w4">
 <src.rf>manual</src.rf>
@@ -1009,7 +1009,7 @@
 <LM>w#w-ln95047-072-p4s1w11</LM>
 </w.rf>
 <form>členy</form>
-<tag lemma="člen" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-ln95047-072-p4s1w12">
 <src.rf>manual</src.rf>
@@ -1140,7 +1140,7 @@
 <LM>w#w-ln95047-072-p4s1w28</LM>
 </w.rf>
 <form>hnutí</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln95047-072-p4s1w29">
 <src.rf>manual</src.rf>
@@ -1812,7 +1812,7 @@
 <LM>w#w-ln95047-072-p6s1w14</LM>
 </w.rf>
 <form>Rady</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95047-072-p6s1w15">
 <src.rf>manual</src.rf>
@@ -2595,7 +2595,7 @@
 <LM>w#w-ln95047-072-p8s1w7</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95047-072-p8s1w8">
 <src.rf>manual</src.rf>
@@ -2715,7 +2715,7 @@
 <LM>w#w-ln95047-072-p8s1w22</LM>
 </w.rf>
 <form>jehož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P1XXXZS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXZS3-------</tag>
 </m>
 <m id="m-ln95047-072-p8s1w23">
 <src.rf>manual</src.rf>

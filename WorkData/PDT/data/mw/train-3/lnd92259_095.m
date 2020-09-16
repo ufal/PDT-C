@@ -130,7 +130,7 @@
 <LM>w#w-lnd92259-095-p2s2w9</LM>
 </w.rf>
 <form>Slovanu</form>
-<tag lemma="Slovan-2_;m" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Slovan-2_;G_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92259-095-p2s2w10">
 <src.rf>manual</src.rf>
@@ -154,7 +154,7 @@
 <LM>w#w-lnd92259-095-p2s2w12</LM>
 </w.rf>
 <form>druhém</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-lnd92259-095-p2s2w13">
 <src.rf>manual</src.rf>
@@ -197,7 +197,7 @@
 <LM>w#w-lnd92259-095-p2s2w17</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8NS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8NS4---------1</tag>
 </m>
 <m id="m-lnd92259-095-p2s2w18">
 <src.rf>manual</src.rf>

@@ -75,7 +75,7 @@
 </w.rf>
 <form>expertízy</form>
 <tag>
-<AM lemma="expertíza" src="orig" selected="1">NNFP4-----A----</AM>
+<AM lemma="expertíza_,s_^(^DD**expertiza)" src="orig" selected="1">NNFP4-----A----</AM>
 <AM lemma="expertiza_,x" src="auto">NNFP1-----A----</AM>
 <AM lemma="expertiza_,x" src="auto" recommended="1">NNFP4-----A----</AM>
 <AM lemma="expertiza_,x" src="auto">NNFP5-----A----</AM>
@@ -498,7 +498,7 @@
 <LM>w#w-lnd92255-015-p3s3w13</LM>
 </w.rf>
 <form>jehož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P1XXXZS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXZS3-------</tag>
 </m>
 <m id="m-lnd92255-015-p3s3w14">
 <src.rf>manual</src.rf>
@@ -833,7 +833,7 @@
 </w.rf>
 <form>expertízy</form>
 <tag>
-<AM lemma="expertíza" src="orig" selected="1">NNFP4-----A----</AM>
+<AM lemma="expertíza_,s_^(^DD**expertiza)" src="orig" selected="1">NNFP4-----A----</AM>
 <AM lemma="expertiza_,x" src="auto">NNFP1-----A----</AM>
 <AM lemma="expertiza_,x" src="auto" recommended="1">NNFP4-----A----</AM>
 <AM lemma="expertiza_,x" src="auto">NNFP5-----A----</AM>

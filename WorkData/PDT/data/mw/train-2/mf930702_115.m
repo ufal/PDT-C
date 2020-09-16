@@ -83,7 +83,7 @@
 <LM>w#w-mf930702-115-p1s1w9</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-mf930702-115-p1s1w10">
 <src.rf>manual</src.rf>
@@ -165,7 +165,7 @@
 <LM>w#w-mf930702-115-p3s1w9</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-mf930702-115-p3s1w10">
 <src.rf>manual</src.rf>
@@ -297,7 +297,7 @@
 <LM>w#w-mf930702-115-p4s2w1</LM>
 </w.rf>
 <form>Její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS1FS3-------</tag>
 </m>
 <m id="m-mf930702-115-p4s2w2">
 <src.rf>manual</src.rf>
@@ -590,7 +590,7 @@
 <LM>w#w-mf930702-115-p5s1w7</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrIS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS4----------</tag>
 </m>
 <m id="m-mf930702-115-p5s1w8">
 <src.rf>manual</src.rf>
@@ -1311,7 +1311,7 @@
 <LM>w#w-mf930702-115-p6s1w11</LM>
 </w.rf>
 <form>dlouhého</form>
-<tag lemma="dlouhý-1_^(fyz._délka;_př._dlouhá_tyč)" src="orig" selected="1">AAIS2----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-mf930702-115-p6s1w12">
 <src.rf>manual</src.rf>
@@ -1742,7 +1742,7 @@
 <LM>w#w-mf930702-115-p6s4w1</LM>
 </w.rf>
 <form>Její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XP1FS3-------</tag>
 </m>
 <m id="m-mf930702-115-p6s4w2">
 <src.rf>manual</src.rf>
@@ -1916,7 +1916,7 @@
 <LM>w#w-mf930702-115-p6s4w22</LM>
 </w.rf>
 <form>dalo</form>
-<tag lemma="dát" src="orig" selected="1">VpNS----R-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf930702-115-p6s4w23">
 <src.rf>manual</src.rf>
@@ -2001,7 +2001,7 @@
 <LM>w#w-mf930702-115-p6s5w8</LM>
 </w.rf>
 <form>naší</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS2-P1-------</tag>
 </m>
 <m id="m-mf930702-115-p6s5w9">
 <src.rf>manual</src.rf>
@@ -2187,7 +2187,7 @@
 <LM>w#w-mf930702-115-p7s2w9</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-mf930702-115-p7s2w10">
 <src.rf>manual</src.rf>
@@ -2271,7 +2271,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-2" src="auto">Db-------------</AM>
-<AM lemma="třeba-3" src="manual" selected="1">TT-------------</AM>
+<AM lemma="třeba-2_^(například)" src="manual" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-mf930702-115-p7s3w8">
@@ -2328,7 +2328,7 @@
 <LM>w#w-mf930702-115-p7s3w14</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS6---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS6---------1</tag>
 </m>
 <m id="m-mf930702-115-p7s3w15">
 <src.rf>manual</src.rf>
@@ -2470,7 +2470,7 @@
 <LM>w#w-mf930702-115-p7s3w32</LM>
 </w.rf>
 <form>vlastnících</form>
-<tag lemma="vlastnící_^(někdo_má_něco_ve_vlastnictví)_(*3it)" src="orig" selected="1">AGIP2-----A----</tag>
+<tag lemma="vlastnící_^(*3it)" src="orig" selected="1">AGIP2-----A----</tag>
 </m>
 <m id="m-mf930702-115-p7s3w33">
 <src.rf>manual</src.rf>
@@ -2520,7 +2520,7 @@
 <LM>w#w-mf930702-115-p8s1w3</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-mf930702-115-p8s1w4">
 <src.rf>manual</src.rf>
@@ -2685,7 +2685,7 @@
 <LM>w#w-mf930702-115-p8s2w7</LM>
 </w.rf>
 <form>příjemným</form>
-<tag lemma="příjemný-1_^(všeob.,_poz._emoce)" src="orig" selected="1">AAFP3----1A----</tag>
+<tag lemma="příjemný_^(všeob.,_poz._emoce)" src="orig" selected="1">AAFP3----1A----</tag>
 </m>
 <m id="m-mf930702-115-p8s2w8">
 <src.rf>manual</src.rf>

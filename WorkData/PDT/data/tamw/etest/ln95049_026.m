@@ -284,7 +284,7 @@
 <LM>w#w-ln95049-026-p2s1Cw15</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS6---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS6---------1</tag>
 </m>
 <m id="m-ln95049-026-p2s1Cw16">
 <src.rf>manual</src.rf>
@@ -292,7 +292,7 @@
 <LM>w#w-ln95049-026-p2s1Cw16</LM>
 </w.rf>
 <form>cestě</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln95049-026-p2s1Cw17">
 <src.rf>manual</src.rf>
@@ -566,7 +566,7 @@
 <LM>w#w-ln95049-026-p3s2w11</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-ln95049-026-p3s2w12">
 <src.rf>manual</src.rf>
@@ -768,7 +768,7 @@
 <LM>w#w-ln95049-026-p3s3w12</LM>
 </w.rf>
 <form>Argentinci</form>
-<tag lemma="argentinec" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Argentinec_;E" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95049-026-p3s3w13">
 <src.rf>manual</src.rf>
@@ -922,7 +922,7 @@
 <LM>w#w-ln95049-026-p3s4w16</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS7---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS7---------1</tag>
 </m>
 <m id="m-ln95049-026-p3s4w17">
 <src.rf>manual</src.rf>
@@ -1075,7 +1075,7 @@
 <AM lemma="Cremonese_;m_,t" src="orig">NNIXX-----A----</AM>
 <AM lemma="Cremonese_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Cremonese_;m" src="manual">NNIS1-----A----</AM>
-<AM lemma="Cremonese_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Cremonese-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-026-p3s5w12">
@@ -2073,7 +2073,7 @@
 <LM>w#w-ln95049-026-p4s7w13</LM>
 </w.rf>
 <form>Kaiserslauternu</form>
-<tag lemma="Kaiserslautern" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Kaiserslautern_;G_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95049-026-p4s7w14">
 <src.rf>manual</src.rf>
@@ -2187,7 +2187,7 @@
 <LM>w#w-ln95049-026-p4s8w6</LM>
 </w.rf>
 <form>druhý</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS1----------</tag>
 </m>
 <m id="m-ln95049-026-p4s8w7">
 <src.rf>manual</src.rf>
@@ -2267,7 +2267,7 @@
 <LM>w#w-ln95049-026-p4s8w16</LM>
 </w.rf>
 <form>Leverkusenu</form>
-<tag lemma="Leverkusen_;G" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Leverkusen_;G_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95049-026-p4s8w17">
 <src.rf>manual</src.rf>
@@ -2445,7 +2445,7 @@
 <LM>w#w-ln95049-026-p4s9w14</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS7----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS7----------</tag>
 </m>
 <m id="m-ln95049-026-p4s9w15">
 <src.rf>manual</src.rf>
@@ -2453,7 +2453,7 @@
 <LM>w#w-ln95049-026-p4s9w15</LM>
 </w.rf>
 <form>druhým</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS7----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS7----------</tag>
 </m>
 <m id="m-ln95049-026-p4s9w16">
 <src.rf>manual</src.rf>
@@ -2738,7 +2738,7 @@
 <LM>w#w-ln95049-026-p5s1Bw24</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-ln95049-026-p5s1Bw25">
 <src.rf>manual</src.rf>
@@ -2762,7 +2762,7 @@
 <LM>w#w-ln95049-026-p5s1Bw27</LM>
 </w.rf>
 <form>druhým</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS7----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS7----------</tag>
 </m>
 <m id="m-ln95049-026-p5s1Bw28">
 <src.rf>manual</src.rf>
@@ -2883,7 +2883,7 @@
 <LM>w#w-ln95049-026-p5s2w6</LM>
 </w.rf>
 <form>cestě</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln95049-026-p5s2w7">
 <src.rf>manual</src.rf>
@@ -3060,7 +3060,7 @@
 <LM>w#w-ln95049-026-p5s3w6</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS1----------</tag>
 </m>
 <m id="m-ln95049-026-p5s3w7">
 <src.rf>manual</src.rf>
@@ -3167,7 +3167,7 @@
 <LM>w#w-ln95049-026-p5s3w19</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-ln95049-026-p5s3w20">
 <src.rf>manual</src.rf>
@@ -4054,7 +4054,7 @@
 <LM>w#w-ln95049-026-p6s3w8</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS4----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS4----------</tag>
 </m>
 <m id="m-ln95049-026-p6s3w9">
 <src.rf>manual</src.rf>
@@ -4139,7 +4139,7 @@
 <LM>w#w-ln95049-026-p6s4w7</LM>
 </w.rf>
 <form>Coruňa</form>
-<tag lemma="Coruňa_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Coruňa_;G_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95049-026-p6s4w8">
 <src.rf>manual</src.rf>
@@ -4381,7 +4381,7 @@
 <LM>w#w-ln95049-026-p6s5w24</LM>
 </w.rf>
 <form>nejlepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAMS1----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAMS1----3A----</tag>
 </m>
 <m id="m-ln95049-026-p6s5w25">
 <src.rf>manual</src.rf>
@@ -4405,7 +4405,7 @@
 <LM>w#w-ln95049-026-p6s5w27</LM>
 </w.rf>
 <form>Zamorano</form>
-<tag lemma="Zamorano_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zamorano-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-026-p6s5w28">
 <src.rf>manual</src.rf>

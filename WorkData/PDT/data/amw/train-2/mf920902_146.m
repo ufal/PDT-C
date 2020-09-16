@@ -103,7 +103,7 @@
 <LM>w#w-mf920902-146-p2s1w2</LM>
 </w.rf>
 <form>dlouhém</form>
-<tag lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">AANS6----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AANS6----1A----</tag>
 </m>
 <m id="m-mf920902-146-p2s1w3">
 <src.rf>manual</src.rf>
@@ -772,7 +772,7 @@
 <LM>w#w-mf920902-146-p3s2w17</LM>
 </w.rf>
 <form>masové</form>
-<tag lemma="masový-2_^(velký)" src="orig" selected="1">AAFP1----1A----</tag>
+<tag lemma="masový" src="orig" selected="1">AAFP1----1A----</tag>
 </m>
 <m id="m-mf920902-146-p3s2w18">
 <src.rf>manual</src.rf>
@@ -909,7 +909,7 @@
 <LM>w#w-mf920902-146-p3s2w33</LM>
 </w.rf>
 <form>nejhorší</form>
-<tag lemma="špatný" src="orig" selected="1">AAFS2----3A----</tag>
+<tag lemma="horší" src="orig" selected="1">AAFS2----3A----</tag>
 </m>
 <m id="m-mf920902-146-p3s2w34">
 <src.rf>manual</src.rf>
@@ -984,7 +984,7 @@
 <LM>w#w-mf920902-146-p3s2w42</LM>
 </w.rf>
 <form>vězení</form>
-<tag lemma="vězení_,a_^(místo_výkonu_trestu)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="vězení_^(místo_výkonu_trestu)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-mf920902-146-p3s2w43">
 <src.rf>manual</src.rf>
@@ -1254,7 +1254,7 @@
 <LM>w#w-mf920902-146-p3s5w4</LM>
 </w.rf>
 <form>nejhorší</form>
-<tag lemma="špatný" src="orig" selected="1">AANS1----3A----</tag>
+<tag lemma="horší" src="orig" selected="1">AANS1----3A----</tag>
 </m>
 <m id="m-mf920902-146-p3s5w5">
 <src.rf>manual</src.rf>

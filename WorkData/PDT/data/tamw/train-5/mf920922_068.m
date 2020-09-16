@@ -671,7 +671,7 @@
 </w.rf>
 <form>Tempo</form>
 <tag>
-<AM lemma="Tempo_;m" src="orig" selected="1">NNNS1-----A----</AM>
+<AM lemma="tempo" src="orig" selected="1">NNNS1-----A----</AM>
 <AM lemma="tempo" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="tempo" src="auto">NNNS4-----A----</AM>
 <AM lemma="tempo" src="auto">NNNS5-----A----</AM>
@@ -699,7 +699,7 @@
 <LM>w#w-mf920922-068-p3s1w37</LM>
 </w.rf>
 <form>Krč</form>
-<tag lemma="Krč_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Krč-2_;G" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920922-068-p3s1w38">
 <src.rf>manual</src.rf>
@@ -925,7 +925,7 @@
 <LM>w#w-mf920922-068-p3s2w22</LM>
 </w.rf>
 <form>Krč</form>
-<tag lemma="Krč_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Krč-2_;G" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920922-068-p3s2w23">
 <src.rf>manual</src.rf>
@@ -959,7 +959,7 @@
 <LM>w#w-mf920922-068-p4s1w3</LM>
 </w.rf>
 <form>postižených</form>
-<tag lemma="postižený_^(*4hnout)" src="orig" selected="1">AAMP2----1A----</tag>
+<tag lemma="postižený" src="orig" selected="1">AAMP2----1A----</tag>
 </m>
 <m id="m-mf920922-068-p4s1w4">
 <src.rf>manual</src.rf>
@@ -2337,7 +2337,7 @@
 <LM>w#w-mf920922-068-p7s1w1</LM>
 </w.rf>
 <form>Výbor</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920922-068-p7s1w2">
 <src.rf>manual</src.rf>

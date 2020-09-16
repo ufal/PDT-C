@@ -43,7 +43,7 @@
 <LM>w#w-ln95043-101-p1s1w4</LM>
 </w.rf>
 <form>vaše</form>
-<tag lemma="tvůj_^(přivlast.)" src="orig" selected="1">PSXP4-P2-------</tag>
+<tag lemma="váš" src="orig" selected="1">PSXP4-P2-------</tag>
 </m>
 <m id="m-ln95043-101-p1s1w5">
 <src.rf>manual</src.rf>
@@ -157,7 +157,7 @@
 <LM>w#w-ln95043-101-p1s2w7</LM>
 </w.rf>
 <form>nedají</form>
-<tag lemma="dát" src="orig" selected="1">VB-P---3P-NAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VB-P---3P-NAP--</tag>
 </m>
 <m id="m-ln95043-101-p1s2w8">
 <src.rf>manual</src.rf>

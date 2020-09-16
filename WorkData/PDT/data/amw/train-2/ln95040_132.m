@@ -300,7 +300,7 @@
 <LM>w#w-ln95040-132-p2s2w8</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS3-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS3-----A----</tag>
 </m>
 <m id="m-ln95040-132-p2s2w9">
 <src.rf>manual</src.rf>

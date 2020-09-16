@@ -701,7 +701,7 @@
 <LM>w#w-ln95040-104-p3s2w20</LM>
 </w.rf>
 <form>jejím</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS6FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS6FS3-------</tag>
 </m>
 <m id="m-ln95040-104-p3s2w21">
 <src.rf>manual</src.rf>

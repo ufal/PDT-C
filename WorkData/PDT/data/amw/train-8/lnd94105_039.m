@@ -19,7 +19,7 @@
 <LM>w#w-lnd94105-039-p1s1w1</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrFS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS1----------</tag>
 </m>
 <m id="m-lnd94105-039-p1s1w2">
 <src.rf>manual</src.rf>
@@ -154,7 +154,7 @@
 <LM>w#w-lnd94105-039-p1s3w4</LM>
 </w.rf>
 <form>spravedlnosti</form>
-<tag lemma="spravedlnost_^(*3ý)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="spravedlnost-1_^(*5ý-1)" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94105-039-p1s3w5">
 <src.rf>manual</src.rf>
@@ -439,7 +439,7 @@
 <LM>w#w-lnd94105-039-p1s4w22</LM>
 </w.rf>
 <form>našeho</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSZS2-P1-------</tag>
 </m>
 <m id="m-lnd94105-039-p1s4w23">
 <src.rf>manual</src.rf>
@@ -471,7 +471,7 @@
 <LM>w#w-lnd94105-039-p1s4w26</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS1----------</tag>
 </m>
 <m id="m-lnd94105-039-p1s4w27">
 <src.rf>manual</src.rf>
@@ -827,7 +827,7 @@
 <LM>w#w-lnd94105-039-p1s6w19</LM>
 </w.rf>
 <form>obsažených</form>
-<tag lemma="obsažený_^(*5áhnout)" src="orig" selected="1">AAFP2----1A----</tag>
+<tag lemma="obsažený" src="orig" selected="1">AAFP2----1A----</tag>
 </m>
 <m id="m-lnd94105-039-p1s6w20">
 <src.rf>manual</src.rf>

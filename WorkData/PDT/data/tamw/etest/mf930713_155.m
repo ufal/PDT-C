@@ -210,7 +210,7 @@
 <LM>w#w-mf930713-155-p2s1Bw12</LM>
 </w.rf>
 <form>tajnosti</form>
-<tag lemma="tajnost_^(*3ý)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="tajnost-1_^(*5ý-1)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf930713-155-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -364,7 +364,7 @@
 <LM>w#w-mf930713-155-p2s2w5</LM>
 </w.rf>
 <form>známost</form>
-<tag lemma="známost-2_^(co_známe)_(*5ý-2)" src="auto" selected="1">NNFS4-----A----</tag>
+<tag lemma="známost-2_^(*5ý-2)" src="auto" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf930713-155-p2s2w6">
 <src.rf>manual</src.rf>

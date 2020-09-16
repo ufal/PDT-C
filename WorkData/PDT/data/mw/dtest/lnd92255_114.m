@@ -290,7 +290,7 @@
 <LM>w#w-lnd92255-114-p3s1w1</LM>
 </w.rf>
 <form>David</form>
-<tag lemma="David_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="David-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-114-p3s1w2">
 <src.rf>manual</src.rf>
@@ -923,7 +923,7 @@
 <LM>w#w-lnd92255-114-p8s1w28</LM>
 </w.rf>
 <form>Mansdorf</form>
-<tag lemma="Mansdorf_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mansdorf-2_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-114-p8s1w29">
 <src.rf>manual</src.rf>

@@ -338,7 +338,7 @@
 <LM>w#w-ln94207-93-p8s1w4</LM>
 </w.rf>
 <form>nerozvití</form>
-<tag lemma="rozvití_^(*2nout)" src="orig" selected="1">NNNS4-----N----</tag>
+<tag lemma="rozvití_^(*3ít)" src="orig" selected="1">NNNS4-----N----</tag>
 </m>
 <m id="m-ln94207-93-p8s1w5">
 <src.rf>manual</src.rf>

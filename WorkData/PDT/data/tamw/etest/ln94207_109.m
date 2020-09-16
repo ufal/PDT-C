@@ -173,7 +173,7 @@
 <LM>w#w-ln94207-109-p2s1w16</LM>
 </w.rf>
 <form>Kleina</form>
-<tag lemma="Klein_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Klein-1_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94207-109-p2s1w17">
 <src.rf>manual</src.rf>
@@ -731,7 +731,7 @@
 <LM>w#w-ln94207-109-p2s4w10</LM>
 </w.rf>
 <form>Jean</form>
-<tag lemma="Jean_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jean-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-109-p2s4w11">
 <src.rf>manual</src.rf>
@@ -851,7 +851,7 @@
 <LM>w#w-ln94207-109-p2s5w9</LM>
 </w.rf>
 <form>Abrahama</form>
-<tag lemma="Abraham_;Y" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Abraham_;Y_,s_^(^DD**Abrahám)" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94207-109-p2s5w10">
 <src.rf>manual</src.rf>

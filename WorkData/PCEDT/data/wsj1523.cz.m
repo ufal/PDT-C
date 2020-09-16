@@ -59,7 +59,7 @@
 <tag>
 <AM lemma="David_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="David_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="David_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="David-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1523-001-p1s0W3-Ta">
@@ -370,7 +370,7 @@
 <AM lemma="Virginie_;G" src="auto">NNFP4-----A----</AM>
 <AM lemma="Virginie_;G" src="auto">NNFP5-----A----</AM>
 <AM lemma="Virginie_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Virginie_;G" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="Virginie_;G_;Y" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="Virginie_;G" src="auto">NNFS5-----A----</AM>
 </tag>
 </m>

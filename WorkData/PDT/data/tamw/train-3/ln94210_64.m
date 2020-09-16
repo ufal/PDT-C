@@ -301,7 +301,7 @@
 <LM>w#w-ln94210-64-p2s1Bw25</LM>
 </w.rf>
 <form>Turci</form>
-<tag lemma="Turek_;E" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="Turek_;E_;Y" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln94210-64-p2s1Bw26">
 <src.rf>manual</src.rf>
@@ -341,7 +341,7 @@
 <LM>w#w-ln94210-64-p2s1Bw30</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94210-64-p2s1Bw31">
 <src.rf>manual</src.rf>
@@ -567,7 +567,7 @@
 <LM>w#w-ln94210-64-p2s2w19</LM>
 </w.rf>
 <form>vydání</form>
-<tag lemma="vydání-2_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)_(*5at-2)" src="orig" selected="1">NNNS3-----A----</tag>
+<tag lemma="vydání_^(*3at)" src="orig" selected="1">NNNS3-----A----</tag>
 </m>
 <m id="m-ln94210-64-p2s2w20">
 <src.rf>manual</src.rf>
@@ -703,7 +703,7 @@
 <LM>w#w-ln94210-64-p2s3w7</LM>
 </w.rf>
 <form>Turci</form>
-<tag lemma="Turek_;E" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="Turek_;E_;Y" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln94210-64-p2s3w8">
 <src.rf>manual</src.rf>

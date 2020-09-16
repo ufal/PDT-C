@@ -252,7 +252,7 @@
 <LM>w#w-mf930713-046-p2s2w5</LM>
 </w.rf>
 <form>mluvčího</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930713-046-p2s2w6">
 <src.rf>manual</src.rf>
@@ -830,7 +830,7 @@
 <LM>w#w-mf930713-046-p2s7w10</LM>
 </w.rf>
 <form>zaměstnání</form>
-<tag lemma="zaměstnání-1_^(všeob._význam:_činnost,_zaměstnání)_(*5at-1)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="zaměstnání_^(*3at)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-mf930713-046-p2s7w11">
 <src.rf>manual</src.rf>

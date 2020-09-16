@@ -51,7 +51,7 @@
 <LM>w#w-mf930708-001-p1s1w5</LM>
 </w.rf>
 <form>sarinu</form>
-<tag lemma="sarin_;U" src="orig" selected="1">NNIS6-----A---1</tag>
+<tag lemma="sarin" src="orig" selected="1">NNIS6-----A---1</tag>
 </m>
 <m id="m-mf930708-001-p1s1w6">
 <src.rf>manual</src.rf>
@@ -93,7 +93,7 @@
 <LM>w#w-mf930708-001-p2s1w3</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf930708-001-p2s1w4">
 <src.rf>manual</src.rf>
@@ -306,7 +306,7 @@
 <LM>w#w-mf930708-001-p2s3w3</LM>
 </w.rf>
 <form>naše</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSHP1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSHP1-P1-------</tag>
 </m>
 <m id="m-mf930708-001-p2s3w4">
 <src.rf>manual</src.rf>
@@ -428,7 +428,7 @@
 <LM>w#w-mf930708-001-p3s1w1</LM>
 </w.rf>
 <form>Mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-001-p3s1w2">
 <src.rf>manual</src.rf>
@@ -671,7 +671,7 @@
 <LM>w#w-mf930708-001-p3s1w31</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS7---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS7---------1</tag>
 </m>
 <m id="m-mf930708-001-p3s1w32">
 <src.rf>manual</src.rf>
@@ -785,7 +785,7 @@
 <LM>w#w-mf930708-001-p3s2w7</LM>
 </w.rf>
 <form>veteránů</form>
-<tag lemma="veterán" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="veterán-1" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf930708-001-p3s2w8">
 <src.rf>manual</src.rf>
@@ -979,7 +979,7 @@
 <LM>w#w-mf930708-001-p4s1w7</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-mf930708-001-p4s1w8">
 <src.rf>manual</src.rf>
@@ -1199,7 +1199,7 @@
 <LM>w#w-mf930708-001-p4s3w6</LM>
 </w.rf>
 <form>Mikových</form>
-<tag lemma="Mikův_;Y_^(*2a)" src="orig" selected="1">AUNP2M---------</tag>
+<tag lemma="Mikův_;Y_^(*2a)_(*2e)_(*2o)" src="orig" selected="1">AUNP2M---------</tag>
 </m>
 <m id="m-mf930708-001-p4s3w7">
 <src.rf>manual</src.rf>

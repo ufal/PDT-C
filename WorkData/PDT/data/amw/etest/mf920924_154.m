@@ -671,7 +671,7 @@
 <LM>w#w-mf920924-154-p3s3w16</LM>
 </w.rf>
 <form>stadiu</form>
-<tag lemma="stadium" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="stadium_,s_^(^DD**stádium)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-mf920924-154-p3s3w17">
 <src.rf>manual</src.rf>

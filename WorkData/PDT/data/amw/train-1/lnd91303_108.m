@@ -59,7 +59,7 @@
 <LM>w#w-lnd91303-108-p1s1w6</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-lnd91303-108-p1s1w7">
 <src.rf>manual</src.rf>

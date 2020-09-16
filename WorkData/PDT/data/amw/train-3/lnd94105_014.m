@@ -770,7 +770,7 @@
 <LM>w#w-lnd94105-014-p1s6w8</LM>
 </w.rf>
 <form>výborům</form>
-<tag lemma="výbor" src="orig" selected="1">NNIP3-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIP3-----A----</tag>
 </m>
 <m id="m-lnd94105-014-p1s6w9">
 <src.rf>manual</src.rf>
@@ -818,7 +818,7 @@
 <LM>w#w-lnd94105-014-p1s6w14</LM>
 </w.rf>
 <form>právo</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-lnd94105-014-p1s6w15">
 <src.rf>manual</src.rf>

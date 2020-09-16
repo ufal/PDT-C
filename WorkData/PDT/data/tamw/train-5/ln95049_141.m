@@ -143,7 +143,7 @@
 <LM>w#w-ln95049-141-p2s2w1</LM>
 </w.rf>
 <form>Dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95049-141-p2s2w2">
 <src.rf>manual</src.rf>
@@ -1393,7 +1393,7 @@
 <LM>w#w-ln95049-141-p3s5w18</LM>
 </w.rf>
 <form>Veleslavínova</form>
-<tag lemma="Veleslavínův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Veleslavínův-1_;Y_^(*4-1)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-ln95049-141-p3s5w19">
 <src.rf>manual</src.rf>

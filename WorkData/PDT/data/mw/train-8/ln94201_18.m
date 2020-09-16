@@ -1204,7 +1204,7 @@
 <LM>w#w-ln94201-18-p4s1w4</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS6---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS6---------1</tag>
 </m>
 <m id="m-ln94201-18-p4s1w5">
 <src.rf>manual</src.rf>
@@ -1324,7 +1324,7 @@
 <LM>w#w-ln94201-18-p4s1w19</LM>
 </w.rf>
 <form>letouny</form>
-<tag lemma="letoun" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="letoun-1" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-ln94201-18-p4s1w20">
 <src.rf>manual</src.rf>

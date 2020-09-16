@@ -457,7 +457,7 @@
 </w.rf>
 <form>dala</form>
 <tag>
-<AM lemma="dát" src="auto" recommended="1">VpQW----R-AAP--</AM>
+<AM lemma="dát-1" src="auto" recommended="1">VpQW----R-AAP--</AM>
 <AM lemma="dát-2_^(dá_se_očekávat)" src="auto">VpQW----R-AAI--</AM>
 </tag>
 </m>
@@ -912,7 +912,7 @@
 <form>Kao</form>
 <tag>
 <AM lemma="Kao" src="auto">X@-------------</AM>
-<AM lemma="Kao_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Kao-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2320-001-p1s3W18-Ta">
@@ -948,7 +948,7 @@
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS1---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS4---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS5---------1</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8YP4---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8YP4---------1</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOFP-----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOIP-----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AONS-----------</AM>
@@ -1175,7 +1175,7 @@
 <AM lemma="let" src="auto">NNIP4-----A----</AM>
 <AM lemma="let" src="auto">NNIP5-----A----</AM>
 <AM lemma="let" src="auto">NNIP7-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP7-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2320-001-p1s4W11-Ta">
@@ -1236,7 +1236,7 @@
 <form>Kao</form>
 <tag>
 <AM lemma="Kao" src="auto">X@-------------</AM>
-<AM lemma="Kao_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Kao-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2320-001-p1s4W17-Ta">
@@ -3832,7 +3832,7 @@
 </w.rf>
 <form>svůj</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8IS4----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8IS4----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8YS1----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8YS5----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOYS-----------</AM>
@@ -4526,7 +4526,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2320-001-p1s16W5-Ta">
@@ -4746,7 +4746,7 @@
 <form>Evropě</form>
 <tag>
 <AM lemma="Evropa_;G" src="auto">NNFS3-----A----</AM>
-<AM lemma="Evropa_;G" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="Evropa_;G_;Y" src="auto" recommended="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2320-001-p1s16W23-Ta">
@@ -5798,7 +5798,7 @@
 <form>proto</form>
 <tag>
 <AM lemma="proto-1_^(proto;_a_proto,_ale_proto,...)" src="auto">J^-------------</AM>
-<AM lemma="proto-2_^(dal_mu_co_proto,_tak_proto!)" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="proto-2_^(proto_že)" src="auto" recommended="1">Db-------------</AM>
 <AM lemma="proto-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -6067,7 +6067,7 @@
 <AM lemma="dobrý" src="auto">AANP1----2A----</AM>
 <AM lemma="dobrý" src="auto">AANP4----2A----</AM>
 <AM lemma="dobrý" src="auto">AANP5----2A----</AM>
-<AM lemma="dobrý" src="auto" recommended="1">AANS1----2A----</AM>
+<AM lemma="lepší" src="auto" recommended="1">AANS1----2A----</AM>
 <AM lemma="dobrý" src="auto">AANS4----2A----</AM>
 <AM lemma="dobrý" src="auto">AANS5----2A----</AM>
 <AM lemma="lepšit" src="auto">VB-P---3P-AAI--</AM>
@@ -6933,7 +6933,7 @@
 <form>Kao</form>
 <tag>
 <AM lemma="Kao" src="auto">X@-------------</AM>
-<AM lemma="Kao_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Kao-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2320-001-p1s25W10-Ta">
@@ -7074,7 +7074,7 @@
 <form>Kao</form>
 <tag>
 <AM lemma="Kao" src="auto">X@-------------</AM>
-<AM lemma="Kao_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Kao-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2320-001-p1s26W6-Ta">
@@ -7378,7 +7378,7 @@
 <form>Kao</form>
 <tag>
 <AM lemma="Kao" src="auto">X@-------------</AM>
-<AM lemma="Kao_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Kao-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2320-001-p1s27W4-Ta">
@@ -8336,7 +8336,7 @@
 <form>Kao</form>
 <tag>
 <AM lemma="Kao" src="auto">X@-------------</AM>
-<AM lemma="Kao_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Kao-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2320-001-p1s30W17-Ta">

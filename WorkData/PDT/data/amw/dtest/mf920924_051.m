@@ -589,7 +589,7 @@
 <LM>w#w-mf920924-051-p4s3w13</LM>
 </w.rf>
 <form>piloty</form>
-<tag lemma="pilot" src="orig" selected="1">NNMP7-----A----</tag>
+<tag lemma="pilot-1" src="orig" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-mf920924-051-p4s3w14">
 <src.rf>manual</src.rf>
@@ -897,7 +897,7 @@
 <LM>w#w-mf920924-051-p5s2w1</LM>
 </w.rf>
 <form>Pilot</form>
-<tag lemma="pilot" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="pilot-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-051-p5s2w2">
 <src.rf>manual</src.rf>
@@ -1241,7 +1241,7 @@
 <LM>w#w-mf920924-051-p5s3w17</LM>
 </w.rf>
 <form>hodině</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf920924-051-p5s3w18">
 <src.rf>manual</src.rf>
@@ -1249,7 +1249,7 @@
 <LM>w#w-mf920924-051-p5s3w18</LM>
 </w.rf>
 <form>míří</form>
-<tag lemma="mířit_^(např._pistolí;_směřovat;_tvar_slovesa)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="mířit" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920924-051-p5s3w19">
 <src.rf>manual</src.rf>
@@ -1363,7 +1363,7 @@
 <LM>w#w-mf920924-051-p5s4w11</LM>
 </w.rf>
 <form>postiženým</form>
-<tag lemma="postižený_^(*4hnout)" src="orig" selected="1">AAMS7----1A----</tag>
+<tag lemma="postižený" src="orig" selected="1">AAMS7----1A----</tag>
 </m>
 <m id="m-mf920924-051-p5s4w12">
 <src.rf>manual</src.rf>
@@ -1651,7 +1651,7 @@
 <LM>w#w-mf920924-051-p6s1w23</LM>
 </w.rf>
 <form>stojící</form>
-<tag lemma="stojící-3_^(někdo/něco_stojí,_např._na_nohou)_(*7át-3)" src="orig" selected="1">AGMP1-----A----</tag>
+<tag lemma="stojící-3_^(*7át-3)" src="orig" selected="1">AGMP1-----A----</tag>
 </m>
 <m id="m-mf920924-051-p6s1w24">
 <src.rf>manual</src.rf>
@@ -2041,7 +2041,7 @@
 <LM>w#w-mf920924-051-p6s4w12</LM>
 </w.rf>
 <form>podání</form>
-<tag lemma="podání_^(něco_[někomu]_[někam])_(*3at)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="podání_^(*3at)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-mf920924-051-p6s4w13">
 <src.rf>manual</src.rf>
@@ -2689,7 +2689,7 @@
 <LM>w#w-mf920924-051-p7s3w12</LM>
 </w.rf>
 <form>prvních</form>
-<tag lemma="první" src="orig" selected="1">CrIP6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIP6----------</tag>
 </m>
 <m id="m-mf920924-051-p7s3w13">
 <src.rf>manual</src.rf>

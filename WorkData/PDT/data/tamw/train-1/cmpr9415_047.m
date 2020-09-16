@@ -975,7 +975,7 @@
 <LM>w#w-cmpr9415-047-p10s3w13</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrIS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS4----------</tag>
 </m>
 <m id="m-cmpr9415-047-p10s3w14">
 <src.rf>manual</src.rf>
@@ -1172,7 +1172,7 @@
 <LM>w#w-cmpr9415-047-p11s2w1</LM>
 </w.rf>
 <form>Naše</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSHS1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSHS1-P1-------</tag>
 </m>
 <m id="m-cmpr9415-047-p11s2w2">
 <src.rf>manual</src.rf>
@@ -1236,7 +1236,7 @@
 <LM>w#w-cmpr9415-047-p11s2w9</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-cmpr9415-047-p11s2w10">
 <src.rf>manual</src.rf>
@@ -1545,7 +1545,7 @@
 <LM>w#w-cmpr9415-047-p11s4w15</LM>
 </w.rf>
 <form>Miroslav</form>
-<tag lemma="Miroslav_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Miroslav-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-047-p11s4w16">
 <src.rf>manual</src.rf>
@@ -1921,7 +1921,7 @@
 <LM>w#w-cmpr9415-047-p13s3w5</LM>
 </w.rf>
 <form>prostředky</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-cmpr9415-047-p13s3w6">
 <src.rf>manual</src.rf>
@@ -1969,7 +1969,7 @@
 <LM>w#w-cmpr9415-047-p13s3w11</LM>
 </w.rf>
 <form>Sedlci</form>
-<tag lemma="Sedlec_;G" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Sedlec-1_;G" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-cmpr9415-047-p13s3w12">
 <src.rf>manual</src.rf>
@@ -2139,7 +2139,7 @@
 <LM>w#w-cmpr9415-047-p13s4Aw12</LM>
 </w.rf>
 <form>satelitů</form>
-<tag lemma="satelit" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="satelit-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-cmpr9415-047-p13s4Aw13">
 <src.rf>manual</src.rf>
@@ -2959,7 +2959,7 @@
 <LM>w#w-cmpr9415-047-p16s3w2</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9IS4FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9IS4FS3-------</tag>
 </m>
 <m id="m-cmpr9415-047-p16s3w3">
 <src.rf>manual</src.rf>
@@ -3340,7 +3340,7 @@
 <LM>w#w-cmpr9415-047-p16s5w11</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP4FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XP4FS3-------</tag>
 </m>
 <m id="m-cmpr9415-047-p16s5w12">
 <src.rf>manual</src.rf>
@@ -3781,7 +3781,7 @@
 <LM>w#w-cmpr9415-047-p17s2w26</LM>
 </w.rf>
 <form>Miroslav</form>
-<tag lemma="Miroslav_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Miroslav-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-047-p17s2w27">
 <src.rf>manual</src.rf>
@@ -3894,7 +3894,7 @@
 <LM>w#w-cmpr9415-047-p18s1w11</LM>
 </w.rf>
 <form>Olšanská</form>
-<tag lemma="Olšanský_;G" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="olšanský" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-cmpr9415-047-p18s1w12">
 <src.rf>manual</src.rf>

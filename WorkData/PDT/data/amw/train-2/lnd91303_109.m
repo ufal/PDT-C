@@ -574,7 +574,7 @@
 <LM>w#w-lnd91303-109-p7s1w5</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrMP1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrMP1----------</tag>
 </m>
 <m id="m-lnd91303-109-p7s1w6">
 <src.rf>manual</src.rf>
@@ -802,7 +802,7 @@
 <LM>w#w-lnd91303-109-p10s1w1</LM>
 </w.rf>
 <form>Naši</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSMP1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSMP1-P1-------</tag>
 </m>
 <m id="m-lnd91303-109-p10s1w2">
 <src.rf>manual</src.rf>

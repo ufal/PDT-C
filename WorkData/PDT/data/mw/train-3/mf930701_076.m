@@ -19,7 +19,7 @@
 <LM>w#w-mf930701-076-p1s1w1</LM>
 </w.rf>
 <form>Nejlepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAMS1----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAMS1----3A----</tag>
 </m>
 <m id="m-mf930701-076-p1s1w2">
 <src.rf>manual</src.rf>
@@ -51,7 +51,7 @@
 <LM>w#w-mf930701-076-p1s1w5</LM>
 </w.rf>
 <form>míří</form>
-<tag lemma="mířit_^(např._pistolí;_směřovat;_tvar_slovesa)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="mířit" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930701-076-p1s1w6">
 <src.rf>manual</src.rf>
@@ -319,7 +319,7 @@
 <LM>w#w-mf930701-076-p2s2w7</LM>
 </w.rf>
 <form>manažer</form>
-<tag lemma="manažer" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="manažer-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-076-p2s2w8">
 <src.rf>manual</src.rf>
@@ -523,7 +523,7 @@
 <LM>w#w-mf930701-076-p2s4w1</LM>
 </w.rf>
 <form>Výbor</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930701-076-p2s4w2">
 <src.rf>manual</src.rf>
@@ -621,7 +621,7 @@
 <form>konkurs</form>
 <tag>
 <AM lemma="konkurs_^(úpadek;;soutěž)" src="auto">NNIS4-----A----</AM>
-<AM lemma="konkurs_,s_^(^DD**konkurz)_^(úpadek;;soutěž)" src="manual" selected="1">NNIS4-----A----</AM>
+<AM lemma="konkurs_,s_^(^DD**konkurz)" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-076-p2s4w14">
@@ -1383,7 +1383,7 @@
 <LM>w#w-mf930701-076-p2s8w23</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf930701-076-p2s8w24">
 <src.rf>manual</src.rf>
@@ -1391,7 +1391,7 @@
 <LM>w#w-mf930701-076-p2s8w24</LM>
 </w.rf>
 <form>manažer</form>
-<tag lemma="manažer" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="manažer-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-076-p2s8w25">
 <src.rf>manual</src.rf>
@@ -1595,7 +1595,7 @@
 <LM>w#w-mf930701-076-p2s10w12</LM>
 </w.rf>
 <form>nejlepším</form>
-<tag lemma="dobrý" src="orig" selected="1">AAMS7----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAMS7----3A----</tag>
 </m>
 <m id="m-mf930701-076-p2s10w13">
 <src.rf>manual</src.rf>
@@ -1643,7 +1643,7 @@
 <LM>w#w-mf930701-076-p2s10w18</LM>
 </w.rf>
 <form>Banské</form>
-<tag lemma="Banský_;G" src="orig" selected="1">AAFS2----1A----</tag>
+<tag lemma="banský" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-mf930701-076-p2s10w19">
 <src.rf>manual</src.rf>

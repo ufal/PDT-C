@@ -429,7 +429,7 @@
 <LM>w#w-ln94207-131-p2s3w14</LM>
 </w.rf>
 <form>zmírnění</form>
-<tag lemma="zmírnění_^(*3it)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="zmírnění_^(*2t)_(*3it)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln94207-131-p2s3w15">
 <src.rf>manual</src.rf>
@@ -485,7 +485,7 @@
 <LM>w#w-ln94207-131-p2s3w21</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FP4---------1</tag>
 </m>
 <m id="m-ln94207-131-p2s3w22">
 <src.rf>manual</src.rf>
@@ -809,7 +809,7 @@
 <form>vyhlášení</form>
 <tag>
 <AM lemma="vyhlášení_,a_^(*4sit)" src="orig">NNNS2-----A----</AM>
-<AM lemma="vyhlášení_^(*4sit)" src="manual" selected="1">NNNS2-----A----</AM>
+<AM lemma="vyhlášení_^(*2t)_(*4sit)" src="manual" selected="1">NNNS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-131-p2s5w7">

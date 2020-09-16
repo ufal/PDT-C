@@ -673,7 +673,7 @@
 <LM>w#w-lnd94101-056-p1s6w9</LM>
 </w.rf>
 <form>NATO</form>
-<tag lemma="NATO_;m_^(North_Atlantic_Treaty_Organization)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="NATO-2_;m_^(North_Atlantic_Treaty_Organization)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-lnd94101-056-p1s6w10">
 <src.rf>manual</src.rf>
@@ -1008,7 +1008,7 @@
 <LM>w#w-lnd94101-056-p1s8w18</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-056-p1s8w19">
 <src.rf>manual</src.rf>
@@ -1454,7 +1454,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1660,7 +1660,7 @@
 <form>UNICEF</form>
 <tag>
 <AM lemma="UNICEF_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="UNICEF-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="UNICEF-2_;m_^(United_Nations_Children_s_Fund)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-056-p1s12w9">

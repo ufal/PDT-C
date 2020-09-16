@@ -172,7 +172,7 @@
 <LM>w#w-lnd92251-094-p3s2w9</LM>
 </w.rf>
 <form>vytištěné</form>
-<tag lemma="vytištěný_^(*5sknout)" src="orig" selected="1">AAFP1----1A----</tag>
+<tag lemma="vytištěný" src="orig" selected="1">AAFP1----1A----</tag>
 </m>
 <m id="m-lnd92251-094-p3s2w10">
 <src.rf>manual</src.rf>
@@ -548,7 +548,7 @@
 <LM>w#w-lnd92251-094-p3s4w14</LM>
 </w.rf>
 <form>naše</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSIP1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSIP1-P1-------</tag>
 </m>
 <m id="m-lnd92251-094-p3s4w15">
 <src.rf>manual</src.rf>
@@ -670,7 +670,7 @@
 <LM>w#w-lnd92251-094-p3s5w7</LM>
 </w.rf>
 <form>dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92251-094-p3s5w8">
 <src.rf>manual</src.rf>

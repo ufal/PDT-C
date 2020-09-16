@@ -101,7 +101,7 @@
 <LM>w#w-ln95047-034-p2s1Aw7</LM>
 </w.rf>
 <form>Slováky</form>
-<tag lemma="Slovák_;E" src="orig" selected="1">NNMP7-----A----</tag>
+<tag lemma="Slovák_;E_;Y" src="orig" selected="1">NNMP7-----A----</tag>
 </m>
 </s>
 <s id="m-ln95047-034-p2s1B">
@@ -137,7 +137,7 @@
 <LM>w#w-ln95047-034-p2s1Cw2</LM>
 </w.rf>
 <form>výbor</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95047-034-p2s1Cw3">
 <src.rf>manual</src.rf>
@@ -225,7 +225,7 @@
 <LM>w#w-ln95047-034-p2s1Cw13</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9IS4FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9IS4FS3-------</tag>
 </m>
 <m id="m-ln95047-034-p2s1Cw14">
 <src.rf>manual</src.rf>
@@ -249,7 +249,7 @@
 <LM>w#w-ln95047-034-p2s1Cw16</LM>
 </w.rf>
 <form>výtržnosti</form>
-<tag lemma="výtržnost_,a_^(*3ý)" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="výtržnost_^(*3ý)" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-ln95047-034-p2s1Cw17">
 <src.rf>manual</src.rf>
@@ -1021,7 +1021,7 @@
 <LM>w#w-ln95047-034-p4s3w11</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-ln95047-034-p4s3w12">
 <src.rf>manual</src.rf>
@@ -1189,7 +1189,7 @@
 <LM>w#w-ln95047-034-p4s4w7</LM>
 </w.rf>
 <form>jehož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P1XXXZS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXZS3-------</tag>
 </m>
 <m id="m-ln95047-034-p4s4w8">
 <src.rf>manual</src.rf>
@@ -1237,7 +1237,7 @@
 <LM>w#w-ln95047-034-p4s4w13</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrNP1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNP1----------</tag>
 </m>
 <m id="m-ln95047-034-p4s4w14">
 <src.rf>manual</src.rf>
@@ -1279,7 +1279,7 @@
 <LM>w#w-ln95047-034-p4s5w1</LM>
 </w.rf>
 <form>Úvodní</form>
-<tag lemma="úvodní_,s" src="orig" selected="1">AANS1----1A----</tag>
+<tag lemma="úvodní" src="orig" selected="1">AANS1----1A----</tag>
 </m>
 <m id="m-ln95047-034-p4s5w2">
 <src.rf>manual</src.rf>

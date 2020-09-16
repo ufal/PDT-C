@@ -446,7 +446,7 @@
 <LM>w#w-ln95040-030-p2s2w21</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8NS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8NS4---------1</tag>
 </m>
 <m id="m-ln95040-030-p2s2w22">
 <src.rf>manual</src.rf>
@@ -621,7 +621,7 @@
 <LM>w#w-ln95040-030-p2s2w42</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-ln95040-030-p2s2w43">
 <src.rf>manual</src.rf>
@@ -696,7 +696,7 @@
 <LM>w#w-ln95040-030-p2s2w51</LM>
 </w.rf>
 <form>sekretář</form>
-<tag lemma="sekretář" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="sekretář-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95040-030-p2s2w52">
 <src.rf>manual</src.rf>

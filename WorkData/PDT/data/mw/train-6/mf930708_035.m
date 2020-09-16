@@ -1543,7 +1543,7 @@
 <form>nesmyslnými</form>
 <tag>
 <AM lemma="smyslný" src="orig">AAIP7----1N----</AM>
-<AM lemma="nesmyslný" src="manual" selected="1">AAIP7----1A----</AM>
+<AM lemma="nesmyslný_^(nedávající_smysl)" src="manual" selected="1">AAIP7----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-035-p5s1w20">
@@ -2137,7 +2137,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf930708-035-p6s3w4">

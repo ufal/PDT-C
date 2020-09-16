@@ -78,7 +78,7 @@
 </w.rf>
 <form>zasažená</form>
 <tag>
-<AM lemma="zasažený_^(*5áhnout)" src="auto" recommended="1">AAFS1----1A----</AM>
+<AM lemma="zasažený" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="zasažený_^(*5áhnout)" src="auto">AAFS5----1A----</AM>
 <AM lemma="zasažený_^(*5áhnout)" src="auto">AANP1----1A----</AM>
 <AM lemma="zasažený_^(*5áhnout)" src="auto">AANP4----1A----</AM>
@@ -235,7 +235,7 @@
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP1FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP5FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9ZS1FS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9ZS1FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSZS5FS3-------</AM>
 </tag>
 </m>
@@ -1685,7 +1685,7 @@
 <form>Evropě</form>
 <tag>
 <AM lemma="Evropa_;G" src="auto">NNFS3-----A----</AM>
-<AM lemma="Evropa_;G" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="Evropa_;G_;Y" src="auto" recommended="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1740-001-p1s4W15-Ta">

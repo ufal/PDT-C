@@ -147,7 +147,7 @@
 <LM>w#w-lnd92256-117-p3s1w8</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS6---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS6---------1</tag>
 </m>
 <m id="m-lnd92256-117-p3s1w9">
 <src.rf>manual</src.rf>
@@ -309,7 +309,7 @@
 <LM>w#w-lnd92256-117-p3s2w3</LM>
 </w.rf>
 <form>Jean</form>
-<tag lemma="Jean_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jean-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-117-p3s2w4">
 <src.rf>manual</src.rf>
@@ -357,7 +357,7 @@
 <LM>w#w-lnd92256-117-p3s2w9</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-lnd92256-117-p3s2w10">
 <src.rf>manual</src.rf>
@@ -461,7 +461,7 @@
 <LM>w#w-lnd92256-117-p3s2w22</LM>
 </w.rf>
 <form>nejlepšího</form>
-<tag lemma="dobrý" src="orig" selected="1">AAMS4----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAMS4----3A----</tag>
 </m>
 <m id="m-lnd92256-117-p3s2w23">
 <src.rf>manual</src.rf>
@@ -591,7 +591,7 @@
 <LM>w#w-lnd92256-117-p3s3w10</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-lnd92256-117-p3s3w11">
 <src.rf>manual</src.rf>
@@ -599,7 +599,7 @@
 <LM>w#w-lnd92256-117-p3s3w11</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-4_^(v_knize,_rukopise,...)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd92256-117-p3s3w12">
 <src.rf>manual</src.rf>
@@ -841,7 +841,7 @@
 <LM>w#w-lnd92256-117-p3s4w15</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS2---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS2---------1</tag>
 </m>
 <m id="m-lnd92256-117-p3s4w16">
 <src.rf>manual</src.rf>
@@ -937,7 +937,7 @@
 <LM>w#w-lnd92256-117-p3s4w27</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS6---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS6---------1</tag>
 </m>
 <m id="m-lnd92256-117-p3s4w28">
 <src.rf>manual</src.rf>

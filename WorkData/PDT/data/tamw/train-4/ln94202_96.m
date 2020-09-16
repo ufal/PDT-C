@@ -94,7 +94,7 @@
 <LM>w#w-ln94202-96-p2s1Bw2</LM>
 </w.rf>
 <form>pilot</form>
-<tag lemma="pilot" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="pilot-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-96-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -581,7 +581,7 @@
 <LM>w#w-ln94202-96-p2s2w24</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP3----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP3----------</tag>
 </m>
 <m id="m-ln94202-96-p2s2w25">
 <src.rf>manual</src.rf>
@@ -655,7 +655,7 @@
 <LM>w#w-ln94202-96-p2s3w5</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-96-p2s3w6">
 <src.rf>manual</src.rf>

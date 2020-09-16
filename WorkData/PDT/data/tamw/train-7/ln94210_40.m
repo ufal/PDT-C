@@ -202,7 +202,7 @@
 <LM>w#w-ln94210-40-p2s1Bw16</LM>
 </w.rf>
 <form>hnutí</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln94210-40-p2s1Bw17">
 <src.rf>manual</src.rf>
@@ -308,7 +308,7 @@
 <LM>w#w-ln94210-40-p2s2w5</LM>
 </w.rf>
 <form>správní</form>
-<tag lemma="správní_^(např._poplatek;_rada;_řád;...)" src="orig" selected="1">AAFS4----1A----</tag>
+<tag lemma="správní_^(správní_rada;_řád)" src="orig" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-ln94210-40-p2s2w6">
 <src.rf>manual</src.rf>
@@ -601,7 +601,7 @@
 <LM>w#w-ln94210-40-p2s3w8</LM>
 </w.rf>
 <form>vydání</form>
-<tag lemma="vydání-2_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)_(*5at-2)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="vydání_^(*3at)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln94210-40-p2s3w9">
 <src.rf>manual</src.rf>
@@ -625,7 +625,7 @@
 <LM>w#w-ln94210-40-p2s3w11</LM>
 </w.rf>
 <form>bránícího</form>
-<tag lemma="bránící_^(klást_překážky,přechodník)_(*3it)" src="auto" selected="1">AGNS2-----A----</tag>
+<tag lemma="bránící_^(*3it)" src="auto" selected="1">AGNS2-----A----</tag>
 </m>
 <m id="m-ln94210-40-p2s3w12">
 <src.rf>manual</src.rf>
@@ -774,7 +774,7 @@
 <LM>w#w-ln94210-40-p2s4w12</LM>
 </w.rf>
 <form>jejímž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1ZS6FS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1ZS6FS3-------</tag>
 </m>
 <m id="m-ln94210-40-p2s4w13">
 <src.rf>manual</src.rf>
@@ -931,7 +931,7 @@
 <LM>w#w-ln94210-40-p2s5w6</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-ln94210-40-p2s5w7">
 <src.rf>manual</src.rf>
@@ -1035,7 +1035,7 @@
 <LM>w#w-ln94210-40-p2s5w19</LM>
 </w.rf>
 <form>členové</form>
-<tag lemma="člen" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln94210-40-p2s5w20">
 <src.rf>manual</src.rf>

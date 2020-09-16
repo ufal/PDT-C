@@ -60,7 +60,7 @@
 <AM lemma="Eugene-1_;Y" src="auto">NNMXX-----A----</AM>
 <AM lemma="Eugene-1_;Y_^(žena)" src="auto">NNFXX-----A----</AM>
 <AM lemma="Eugene-2_;G" src="auto">NNIXX-----A----</AM>
-<AM lemma="Eugene-2_;Y_^(muž)" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Eugene-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Eugene-2_;Y_^(muž)" src="auto">NNMS5-----A----</AM>
 <AM lemma="Eugene-2_;Y_^(muž)" src="auto">NNMXX-----A----</AM>
 <AM lemma="Eugene-3_;G_^(univerzitní_město)" src="auto">NNNXX-----A----</AM>

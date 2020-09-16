@@ -345,7 +345,7 @@
 <LM>w#w-ln95044-121-p3s1w3</LM>
 </w.rf>
 <form>jejímž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1ZS7FS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1ZS7FS3-------</tag>
 </m>
 <m id="m-ln95044-121-p3s1w4">
 <src.rf>manual</src.rf>
@@ -2101,7 +2101,7 @@
 <LM>w#w-ln95044-121-p5s3w26</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-ln95044-121-p5s3w27">
 <src.rf>manual</src.rf>

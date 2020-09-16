@@ -177,7 +177,7 @@
 <LM>w#w-lnd92257-048-p1s2w9</LM>
 </w.rf>
 <form>okénku</form>
-<tag lemma="okénko_,e" src="orig" selected="1">NNNS3-----A----</tag>
+<tag lemma="okénko" src="orig" selected="1">NNNS3-----A----</tag>
 </m>
 <m id="m-lnd92257-048-p1s2w10">
 <src.rf>manual</src.rf>

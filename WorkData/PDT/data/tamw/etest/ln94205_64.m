@@ -229,7 +229,7 @@
 <LM>w#w-ln94205-64-p2s1Bw14</LM>
 </w.rf>
 <form>Davida</form>
-<tag lemma="David_;Y" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="David-1_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94205-64-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -783,7 +783,7 @@
 <LM>w#w-ln94205-64-p4s1w10</LM>
 </w.rf>
 <form>David</form>
-<tag lemma="David_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="David-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-64-p4s1w11">
 <src.rf>manual</src.rf>
@@ -1015,7 +1015,7 @@
 <LM>w#w-ln94205-64-p4s1w39</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94205-64-p4s1w40">
 <src.rf>manual</src.rf>
@@ -1731,7 +1731,7 @@
 <LM>w#w-ln94205-64-p4s5w13</LM>
 </w.rf>
 <form>David</form>
-<tag lemma="David_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="David-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-64-p4s5w14">
 <src.rf>manual</src.rf>
@@ -2219,7 +2219,7 @@
 <LM>w#w-ln94205-64-p5s3w13</LM>
 </w.rf>
 <form>činitele</form>
-<tag lemma="činitel" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="činitel-1" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94205-64-p5s3w14">
 <src.rf>manual</src.rf>
@@ -2405,7 +2405,7 @@
 <LM>w#w-ln94205-64-p5s4w10</LM>
 </w.rf>
 <form>Davida</form>
-<tag lemma="David_;Y" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="David-1_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94205-64-p5s4w11">
 <src.rf>manual</src.rf>
@@ -2647,7 +2647,7 @@
 <LM>w#w-ln94205-64-p6s1w25</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94205-64-p6s1w26">
 <src.rf>manual</src.rf>
@@ -2907,7 +2907,7 @@
 <LM>w#w-ln94205-64-p6s3w8</LM>
 </w.rf>
 <form>David</form>
-<tag lemma="David_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="David-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-64-p6s3w9">
 <src.rf>manual</src.rf>
@@ -2997,7 +2997,7 @@
 <LM>w#w-ln94205-64-p6s4w5</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-ln94205-64-p6s4w6">
 <src.rf>manual</src.rf>

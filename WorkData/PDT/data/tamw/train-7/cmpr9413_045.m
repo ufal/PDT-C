@@ -243,7 +243,7 @@
 <LM>w#w-cmpr9413-045-p3s2w11</LM>
 </w.rf>
 <form>co</form>
-<tag lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="co-5_^(př._co_nejméně,_co_nevidět_atd.)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-cmpr9413-045-p3s2w12">
 <src.rf>manual</src.rf>
@@ -953,7 +953,7 @@
 <LM>w#w-cmpr9413-045-p7s2w8</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrMP4----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrMP4----------</tag>
 </m>
 <m id="m-cmpr9413-045-p7s2w9">
 <src.rf>manual</src.rf>
@@ -977,7 +977,7 @@
 <LM>w#w-cmpr9413-045-p7s2w11</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8NS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8NS4---------1</tag>
 </m>
 <m id="m-cmpr9413-045-p7s2w12">
 <src.rf>manual</src.rf>
@@ -1423,7 +1423,7 @@
 <LM>w#w-cmpr9413-045-p8s2w35</LM>
 </w.rf>
 <form>potřeby</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-cmpr9413-045-p8s2w36">
 <src.rf>manual</src.rf>
@@ -2202,7 +2202,7 @@
 <LM>w#w-cmpr9413-045-p9s12w1</LM>
 </w.rf>
 <form>stanovené</form>
-<tag lemma="stanovený_^(určit)_(*3it)" src="orig" selected="1">AAIP1----1A----</tag>
+<tag lemma="stanovený_^(*3it)" src="orig" selected="1">AAIP1----1A----</tag>
 </m>
 <m id="m-cmpr9413-045-p9s12w2">
 <src.rf>manual</src.rf>
@@ -2284,7 +2284,7 @@
 <LM>w#w-cmpr9413-045-p9s13w6</LM>
 </w.rf>
 <form>nejlepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAFS1----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAFS1----3A----</tag>
 </m>
 <m id="m-cmpr9413-045-p9s13w7">
 <src.rf>manual</src.rf>
@@ -2318,7 +2318,7 @@
 <LM>w#w-cmpr9413-045-p9s14w3</LM>
 </w.rf>
 <form>události</form>
-<tag lemma="událost_,a_^(*3ý)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="událost" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-cmpr9413-045-p9s14w4">
 <src.rf>manual</src.rf>
@@ -2416,7 +2416,7 @@
 <LM>w#w-cmpr9413-045-p9s16w9</LM>
 </w.rf>
 <form>potřeby</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-cmpr9413-045-p9s16w10">
 <src.rf>manual</src.rf>

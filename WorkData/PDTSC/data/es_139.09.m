@@ -497,7 +497,7 @@
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS4---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8FS7---------1</AM>
-<AM lemma="svůj-1_^(přivlast.)_(*2)" src="manual" selected="1">P8FS7---------1</AM>
+<AM lemma="svůj-1" src="manual" selected="1">P8FS7---------1</AM>
 </tag>
 </m>
 <m id="m139-d1t3982-1">
@@ -698,7 +698,7 @@
 <AM lemma="kasino" src="auto">NNNS4-----A----</AM>
 <AM lemma="kasino" src="auto">NNNS5-----A----</AM>
 <AM lemma="kasino" src="manual">NNNS4-----A----</AM>
-<AM lemma="kasíno" src="manual" selected="1">NNNS4-----A----</AM>
+<AM lemma="kasíno_,s_^(^DD**kasino)" src="manual" selected="1">NNNS4-----A----</AM>
 </tag>
 </m>
 <m id="m139-d1t3997-2">
@@ -1048,7 +1048,7 @@
 <AM lemma="můj_^(přivlast.)" src="auto">PSFS3-S1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSFS4-S1------6</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSFS6-S1-------</AM>
-<AM lemma="můj_^(přivlast.)" src="auto" recommended="1">PSFS7-S1-------</AM>
+<AM lemma="můj" src="auto" recommended="1">PSFS7-S1-------</AM>
 </tag>
 </m>
 <m id="m139-d1t4033-1">
@@ -1065,7 +1065,7 @@
 <form>Marií</form>
 <tag>
 <AM lemma="Marie-1_;Y" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="Marie-1_;Y" src="auto" selected="1">NNFS7-----A----</AM>
+<AM lemma="Marie_;Y" src="auto" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m139-d1t4044-5">
@@ -1286,7 +1286,7 @@
 <form>naše</form>
 <tag>
 <AM lemma="můj_^(přivlast.)" src="auto">PSHP1-P1-------</AM>
-<AM lemma="můj_^(přivlast.)" src="auto" recommended="1">PSHS1-P1-------</AM>
+<AM lemma="náš" src="auto" recommended="1">PSHS1-P1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSHS5-P1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSIP1-P1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSNS4-P1-------</AM>
@@ -1364,7 +1364,7 @@
 <AM lemma="ty" src="auto">PP-P2--2-------</AM>
 <AM lemma="ty" src="auto" recommended="1">PP-P4--2-------</AM>
 <AM lemma="ty" src="auto">PP-P6--2-------</AM>
-<AM lemma="ty_^(**já)" src="manual" selected="1">PP-P4--2-------</AM>
+<AM lemma="vy" src="manual" selected="1">PP-P4--2-------</AM>
 </tag>
 </m>
 <m id="m139-d1t4063-5">
@@ -1538,7 +1538,7 @@
 </w.rf>
 <form>nám</form>
 <tag>
-<AM lemma="já" src="auto" recommended="1">PP-P3--1-------</AM>
+<AM lemma="my" src="auto" recommended="1">PP-P3--1-------</AM>
 <AM lemma="náměstí_:B" src="auto">NNNXX-----A---8</AM>
 </tag>
 </m>
@@ -1756,7 +1756,7 @@
 </w.rf>
 <form>nám</form>
 <tag>
-<AM lemma="já" src="auto" recommended="1">PP-P3--1-------</AM>
+<AM lemma="my" src="auto" recommended="1">PP-P3--1-------</AM>
 <AM lemma="náměstí_:B" src="auto">NNNXX-----A---8</AM>
 </tag>
 </m>

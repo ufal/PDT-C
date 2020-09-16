@@ -85,7 +85,7 @@
 <LM>w#w-mf920923-015-p2s1w1</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrIP4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIP4----------</tag>
 </m>
 <m id="m-mf920923-015-p2s1w2">
 <src.rf>manual</src.rf>
@@ -365,7 +365,7 @@
 <form>Thyssen</form>
 <tag>
 <AM lemma="Thyssen_;m" src="orig">NNIS1-----A----</AM>
-<AM lemma="Thyssen_;Y" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
+<AM lemma="Thyssen-1_;Y" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 <AM lemma="Thyssen_;m" src="manual">NNXXX-----A----</AM>
 <AM lemma="Thyssen-2_;m" src="manual">NNIS1-----A----</AM>
 </tag>

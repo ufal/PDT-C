@@ -87,7 +87,7 @@
 <LM>w#w-mf920922-037-p2s2w5</LM>
 </w.rf>
 <form>Zlatá</form>
-<tag lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="zlatý-1_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-mf920922-037-p2s2w6">
 <src.rf>manual</src.rf>
@@ -484,7 +484,7 @@
 <LM>w#w-mf920922-037-p2s4w17</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-mf920922-037-p2s4w18">
 <src.rf>manual</src.rf>
@@ -600,7 +600,7 @@
 <LM>w#w-mf920922-037-p2s6Aw7</LM>
 </w.rf>
 <form>recepční</form>
-<tag lemma="recepční-1" src="auto" selected="1">NNFS6-----A----</tag>
+<tag lemma="recepční-3" src="auto" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf920922-037-p2s6Aw8">
 <src.rf>manual</src.rf>
@@ -688,7 +688,7 @@
 <LM>w#w-mf920922-037-p2s6Aw18</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS1FS3-------</tag>
 </m>
 <m id="m-mf920922-037-p2s6Aw19">
 <src.rf>manual</src.rf>
@@ -765,7 +765,7 @@
 <LM>w#w-mf920922-037-p2s6Bw1</LM>
 </w.rf>
 <form>Její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9NS4FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9NS4FS3-------</tag>
 </m>
 <m id="m-mf920922-037-p2s6Bw2">
 <src.rf>manual</src.rf>
@@ -957,7 +957,7 @@
 <LM>w#w-mf920922-037-p2s6Bw25</LM>
 </w.rf>
 <form>hodiny</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920922-037-p2s6Bw26">
 <src.rf>manual</src.rf>

@@ -27,7 +27,7 @@
 <LM>w#w-ln95043-050-p1s1w2</LM>
 </w.rf>
 <form>přisátím</form>
-<tag lemma="přisátí_^(*1)" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="přisátí" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-ln95043-050-p1s1w3">
 <src.rf>manual</src.rf>

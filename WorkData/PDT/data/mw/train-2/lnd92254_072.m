@@ -60,7 +60,7 @@
 <LM>w#w-lnd92254-072-p1s1w6</LM>
 </w.rf>
 <form>faktory</form>
-<tag lemma="faktor" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="faktor-1" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-lnd92254-072-p1s1w7">
 <src.rf>manual</src.rf>

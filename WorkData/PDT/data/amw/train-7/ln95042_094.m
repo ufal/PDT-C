@@ -53,7 +53,7 @@
 <LM>w#w-ln95042-094-p2s1Aw1</LM>
 </w.rf>
 <form>Karlovy</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUIP1M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUIP1M---------</tag>
 </m>
 <m id="m-ln95042-094-p2s1Aw2">
 <src.rf>manual</src.rf>
@@ -242,7 +242,7 @@
 <LM>w#w-ln95042-094-p2s2w2</LM>
 </w.rf>
 <form>právo</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln95042-094-p2s2w3">
 <src.rf>manual</src.rf>
@@ -560,7 +560,7 @@
 <LM>w#w-ln95042-094-p3s2w11</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-ln95042-094-p3s2w12">
 <src.rf>manual</src.rf>
@@ -685,7 +685,7 @@
 <LM>w#w-ln95042-094-p4s1w11</LM>
 </w.rf>
 <form>potřeby</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-ln95042-094-p4s1w12">
 <src.rf>manual</src.rf>
@@ -855,7 +855,7 @@
 <LM>w#w-ln95042-094-p4s2w15</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-ln95042-094-p4s2w16">
 <src.rf>manual</src.rf>

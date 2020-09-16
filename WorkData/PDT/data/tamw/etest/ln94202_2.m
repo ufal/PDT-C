@@ -27,7 +27,7 @@
 <LM>w#w-ln94202-2-p1s1w2</LM>
 </w.rf>
 <form>ukazatele</form>
-<tag lemma="ukazatel" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="ukazatel-1" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-ln94202-2-p1s1w3">
 <src.rf>manual</src.rf>
@@ -77,7 +77,7 @@
 <LM>w#w-ln94202-2-p2s1w1</LM>
 </w.rf>
 <form>Ukazatel</form>
-<tag lemma="ukazatel" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="ukazatel-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94202-2-p2s1w2">
 <src.rf>manual</src.rf>

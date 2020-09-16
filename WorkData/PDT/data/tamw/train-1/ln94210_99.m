@@ -19,7 +19,7 @@
 <LM>w#w-ln94210-99-p1s1Aw1</LM>
 </w.rf>
 <form>David</form>
-<tag lemma="David_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="David-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-99-p1s1Aw2">
 <src.rf>manual</src.rf>

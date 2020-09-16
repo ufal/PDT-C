@@ -59,7 +59,7 @@
 <LM>w#w-ln94205-65-p1s1w6</LM>
 </w.rf>
 <form>vězení</form>
-<tag lemma="vězení_,a_^(místo_výkonu_trestu)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="vězení_^(místo_výkonu_trestu)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 </s>
 <s id="m-ln94205-65-p2s1A">
@@ -523,7 +523,7 @@
 <LM>w#w-ln94205-65-p3s1w7</LM>
 </w.rf>
 <form>dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94205-65-p3s1w8">
 <src.rf>manual</src.rf>
@@ -566,7 +566,7 @@
 <LM>w#w-ln94205-65-p3s1w12</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-ln94205-65-p3s1w13">
 <src.rf>manual</src.rf>
@@ -638,7 +638,7 @@
 <LM>w#w-ln94205-65-p3s1w21</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-ln94205-65-p3s1w22">
 <src.rf>manual</src.rf>
@@ -742,7 +742,7 @@
 <LM>w#w-ln94205-65-p3s1w34</LM>
 </w.rf>
 <form>stojícího</form>
-<tag lemma="stojící-3_^(někdo/něco_stojí,_např._na_nohou)_(*7át-3)" src="orig" selected="1">AGMS4-----A----</tag>
+<tag lemma="stojící-3_^(*7át-3)" src="orig" selected="1">AGMS4-----A----</tag>
 </m>
 <m id="m-ln94205-65-p3s1w35">
 <src.rf>manual</src.rf>
@@ -888,7 +888,7 @@
 <LM>w#w-ln94205-65-p3s2w16</LM>
 </w.rf>
 <form>události</form>
-<tag lemma="událost_,a_^(*3ý)" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="událost" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-ln94205-65-p3s2w17">
 <src.rf>manual</src.rf>

@@ -337,7 +337,7 @@
 <LM>w#w-ln95047-147-p2s3w7</LM>
 </w.rf>
 <form>zlatou</form>
-<tag lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAFS7----1A----</tag>
+<tag lemma="zlatý-1_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAFS7----1A----</tag>
 </m>
 <m id="m-ln95047-147-p2s3w8">
 <src.rf>manual</src.rf>

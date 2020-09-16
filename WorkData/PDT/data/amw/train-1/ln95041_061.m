@@ -227,7 +227,7 @@
 <LM>w#w-ln95041-061-p2s1w26</LM>
 </w.rf>
 <form>extremisty</form>
-<tag lemma="extremista" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="extremista_,s_^(^DD**extrémista)" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95041-061-p2s1w27">
 <src.rf>manual</src.rf>
@@ -1000,7 +1000,7 @@
 <tag>
 <AM lemma="Ir_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="Ir_;E" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Ir-2_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Ir-2_;Y_^(Kim_Ir_Sen)" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-061-p5s1w10">
@@ -1020,7 +1020,7 @@
 <form>Sena</form>
 <tag>
 <AM lemma="Sen_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Sen-2_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Sen-1_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-061-p5s1w12">
@@ -1069,7 +1069,7 @@
 <tag>
 <AM lemma="Čong_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="Čong_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Čong-2_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Čong_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-061-p5s1w17">
@@ -1392,7 +1392,7 @@
 <LM>w#w-ln95041-061-p6s2w5</LM>
 </w.rf>
 <form>činitelé</form>
-<tag lemma="činitel" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="činitel-1" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln95041-061-p6s2w6">
 <src.rf>manual</src.rf>
@@ -2350,7 +2350,7 @@
 <LM>w#w-ln95041-061-p10s1w7</LM>
 </w.rf>
 <form>Zapatovy</form>
-<tag lemma="Zapatův_;Y_^(*2a)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Zapatův-1_;Y_^(*4a-1)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-ln95041-061-p10s1w8">
 <src.rf>manual</src.rf>

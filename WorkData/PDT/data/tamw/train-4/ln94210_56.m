@@ -252,7 +252,7 @@
 <LM>w#w-ln94210-56-p2s2w6</LM>
 </w.rf>
 <form>činitel</form>
-<tag lemma="činitel" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="činitel-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-56-p2s2w7">
 <src.rf>manual</src.rf>
@@ -1100,7 +1100,7 @@
 <LM>w#w-ln94210-56-p4s1w30</LM>
 </w.rf>
 <form>dané</form>
-<tag lemma="daný_^(*3át)" src="auto" selected="1">AAFP1----1A----</tag>
+<tag lemma="daný-1_^(*5át-1)" src="auto" selected="1">AAFP1----1A----</tag>
 </m>
 <m id="m-ln94210-56-p4s1w31">
 <src.rf>manual</src.rf>

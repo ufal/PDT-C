@@ -175,7 +175,7 @@
 <AM lemma="konsorcium" src="auto">NNNS1-----A----</AM>
 <AM lemma="konsorcium" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="konsorcium" src="auto">NNNS5-----A----</AM>
-<AM lemma="konsorcium_,s_^(^DD**konzorcium)" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="konsorcium" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1173-001-p1s0W12-Ta">
@@ -672,7 +672,7 @@
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FP1---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FP4---------1</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8FS2---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8FS2---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS3---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS6---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8IP1---------1</AM>

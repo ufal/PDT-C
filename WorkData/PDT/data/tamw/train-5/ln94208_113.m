@@ -144,7 +144,7 @@
 <LM>w#w-ln94208-113-p2s1w15</LM>
 </w.rf>
 <form>nejlepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAIS1----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAIS1----3A----</tag>
 </m>
 <m id="m-ln94208-113-p2s1w16">
 <src.rf>manual</src.rf>
@@ -234,7 +234,7 @@
 <LM>w#w-ln94208-113-p3s1w5</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS7---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS7---------1</tag>
 </m>
 <m id="m-ln94208-113-p3s1w6">
 <src.rf>manual</src.rf>

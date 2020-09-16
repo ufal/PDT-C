@@ -232,7 +232,7 @@
 <LM>w#w-lnd94104-118-p1s3w18</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS4----------</tag>
 </m>
 <m id="m-lnd94104-118-p1s3w19">
 <src.rf>manual</src.rf>
@@ -429,7 +429,7 @@
 <LM>w#w-lnd94104-118-p1s4w15</LM>
 </w.rf>
 <form>druhou</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS4----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS4----------</tag>
 </m>
 <m id="m-lnd94104-118-p1s4w16">
 <src.rf>manual</src.rf>

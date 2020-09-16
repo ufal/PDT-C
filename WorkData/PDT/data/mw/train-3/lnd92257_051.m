@@ -131,7 +131,7 @@
 <form>intenzívní</form>
 <tag>
 <AM lemma="intenzívní" src="orig">AAIP1----1A----</AM>
-<AM lemma="intenzívní_,s_^(^DD**intenzivní)" src="manual" selected="1">AAIP1----1A----</AM>
+<AM lemma="intenzívní" src="manual" selected="1">AAIP1----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-051-p3s2w3">
@@ -797,7 +797,7 @@
 <LM>w#w-lnd92257-051-p4s2w19</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrNS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS1----------</tag>
 </m>
 <m id="m-lnd92257-051-p4s2w20">
 <src.rf>manual</src.rf>
@@ -959,7 +959,7 @@
 <LM>w#w-lnd92257-051-p4s3w15</LM>
 </w.rf>
 <form>svrženého</form>
-<tag lemma="svržený_^(*4hnout)" src="orig" selected="1">AAMS2----1A----</tag>
+<tag lemma="svržený" src="orig" selected="1">AAMS2----1A----</tag>
 </m>
 <m id="m-lnd92257-051-p4s3w16">
 <src.rf>manual</src.rf>

@@ -842,7 +842,7 @@
 <LM>w#w-ln95043-072-p4s2w14</LM>
 </w.rf>
 <form>vyhlášené</form>
-<tag lemma="vyhlášený_,a_^(*4sit)" src="orig" selected="1">AAFP1----1A----</tag>
+<tag lemma="vyhlášený_^(*2t)_(*4sit)" src="orig" selected="1">AAFP1----1A----</tag>
 </m>
 <m id="m-ln95043-072-p4s2w15">
 <src.rf>manual</src.rf>
@@ -1554,7 +1554,7 @@
 <LM>w#w-ln95043-072-p5s3w22</LM>
 </w.rf>
 <form>děti</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-ln95043-072-p5s3w23">
 <src.rf>manual</src.rf>
@@ -2049,7 +2049,7 @@
 <LM>w#w-ln95043-072-p5s6w7</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-ln95043-072-p5s6w8">
 <src.rf>manual</src.rf>
@@ -2380,7 +2380,7 @@
 <LM>w#w-ln95043-072-p6s1w6</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln95043-072-p6s1w7">
 <src.rf>manual</src.rf>
@@ -2487,7 +2487,7 @@
 <LM>w#w-ln95043-072-p6s1w19</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln95043-072-p6s1w20">
 <src.rf>manual</src.rf>

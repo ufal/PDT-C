@@ -27,7 +27,7 @@
 <LM>w#w-lnd94103-028-p1s1w2</LM>
 </w.rf>
 <form>tragedie</form>
-<tag lemma="tragedie" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="tragedie_,s_^(^DD**tragédie)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94103-028-p1s1w3">
 <src.rf>manual</src.rf>
@@ -343,7 +343,7 @@
 <LM>w#w-lnd94103-028-p1s4w9</LM>
 </w.rf>
 <form>tragedie</form>
-<tag lemma="tragedie" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="tragedie_,s_^(^DD**tragédie)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94103-028-p1s4w10">
 <src.rf>manual</src.rf>

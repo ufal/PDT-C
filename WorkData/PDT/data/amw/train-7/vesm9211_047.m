@@ -280,7 +280,7 @@
 <LM>w#w-vesm9211-047-p3s1w11</LM>
 </w.rf>
 <form>fantomy</form>
-<tag lemma="fantom" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="fantom-1_,s_^(^DD**fantóm-1)" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-vesm9211-047-p3s1w12">
 <src.rf>manual</src.rf>
@@ -479,7 +479,7 @@
 <LM>w#w-vesm9211-047-p7s1w9</LM>
 </w.rf>
 <form>žlutém</form>
-<tag lemma="žlutý" src="orig" selected="1">AAIS6----1A----</tag>
+<tag lemma="žlutý_;o" src="orig" selected="1">AAIS6----1A----</tag>
 </m>
 <m id="m-vesm9211-047-p7s1w10">
 <src.rf>manual</src.rf>

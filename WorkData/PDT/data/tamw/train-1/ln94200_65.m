@@ -27,7 +27,7 @@
 <LM>w#w-ln94200-65-p1s1w2</LM>
 </w.rf>
 <form>našeho</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSMS4-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSMS4-P1-------</tag>
 </m>
 <m id="m-ln94200-65-p1s1w3">
 <src.rf>manual</src.rf>
@@ -436,7 +436,7 @@
 <LM>w#w-ln94200-65-p2s2w6</LM>
 </w.rf>
 <form>vězení</form>
-<tag lemma="vězení_,a_^(místo_výkonu_trestu)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="vězení_^(místo_výkonu_trestu)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-ln94200-65-p2s2w7">
 <src.rf>manual</src.rf>
@@ -454,7 +454,7 @@
 <LM>w#w-ln94200-65-p2s3w1</LM>
 </w.rf>
 <form>Vydání</form>
-<tag lemma="vydání-2_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)_(*5at-2)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="vydání_^(*3at)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln94200-65-p2s3w2">
 <src.rf>manual</src.rf>
@@ -462,7 +462,7 @@
 <LM>w#w-ln94200-65-p2s3w2</LM>
 </w.rf>
 <form>našeho</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSZS2-P1-------</tag>
 </m>
 <m id="m-ln94200-65-p2s3w3">
 <src.rf>manual</src.rf>
@@ -646,7 +646,7 @@
 <LM>w#w-ln94200-65-p2s4w9</LM>
 </w.rf>
 <form>tajnými</form>
-<tag lemma="tajný" src="orig" selected="1">AAFP7----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AAFP7----1A----</tag>
 </m>
 <m id="m-ln94200-65-p2s4w10">
 <src.rf>manual</src.rf>

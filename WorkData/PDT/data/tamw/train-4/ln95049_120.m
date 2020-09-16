@@ -400,7 +400,7 @@
 <LM>w#w-ln95049-120-p2s2w7</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="mluvčí-2" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95049-120-p2s2w8">
 <src.rf>manual</src.rf>
@@ -408,7 +408,7 @@
 <LM>w#w-ln95049-120-p2s2w8</LM>
 </w.rf>
 <form>Bílého</form>
-<tag lemma="bílý" src="orig" selected="1">AAIS2----1A----</tag>
+<tag lemma="bílý_;o" src="orig" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-ln95049-120-p2s2w9">
 <src.rf>manual</src.rf>
@@ -685,7 +685,7 @@
 <LM>w#w-ln95049-120-p2s3w31</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8NS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8NS4---------1</tag>
 </m>
 <m id="m-ln95049-120-p2s3w32">
 <src.rf>manual</src.rf>
@@ -870,7 +870,7 @@
 <LM>w#w-ln95049-120-p3s1w5</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-4_^(v_knize,_rukopise,...)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln95049-120-p3s1w6">
 <src.rf>manual</src.rf>

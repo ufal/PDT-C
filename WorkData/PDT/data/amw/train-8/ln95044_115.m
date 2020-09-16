@@ -707,7 +707,7 @@
 <LM>w#w-ln95044-115-p2s3w9</LM>
 </w.rf>
 <form>ducha</form>
-<tag lemma="duch" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="duch-1" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95044-115-p2s3w10">
 <src.rf>manual</src.rf>

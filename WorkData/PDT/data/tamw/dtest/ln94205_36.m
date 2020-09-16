@@ -163,7 +163,7 @@
 <LM>w#w-ln94205-36-p2s1w17</LM>
 </w.rf>
 <form>druhou</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS4----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS4----------</tag>
 </m>
 <m id="m-ln94205-36-p2s1w18">
 <src.rf>manual</src.rf>
@@ -195,7 +195,7 @@
 <LM>w#w-ln94205-36-p2s1w21</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1ZS1FS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1ZS1FS3-------</tag>
 </m>
 <m id="m-ln94205-36-p2s1w22">
 <src.rf>manual</src.rf>

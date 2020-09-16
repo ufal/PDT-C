@@ -29,7 +29,7 @@
 <form>Rovná</form>
 <tag>
 <AM lemma="Rovná_;Y_^(*1ý)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Rovná-2_;G" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Rovná_;G_;Y_^(*1ý)" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-017-p1s1w3">
@@ -90,7 +90,7 @@
 <form>Rovná</form>
 <tag>
 <AM lemma="Rovná_;Y_^(*1ý)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Rovná-2_;G" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Rovná_;G_;Y_^(*1ý)" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-017-p2s1w2">
@@ -208,7 +208,7 @@
 <form>Rovná</form>
 <tag>
 <AM lemma="Rovná_;Y_^(*1ý)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Rovná-2_;G" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Rovná_;G_;Y_^(*1ý)" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-017-p2s1w16">
@@ -550,7 +550,7 @@
 <form>Rovné</form>
 <tag>
 <AM lemma="Rovná_;Y_^(*1ý)" src="auto">NNFS2-----A----</AM>
-<AM lemma="Rovná-2_;G" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="Rovná_;G_;Y_^(*1ý)" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-017-p3s1w6">
@@ -684,7 +684,7 @@
 <LM>w#w-mf930703-017-p3s2w10</LM>
 </w.rf>
 <form>Rovná</form>
-<tag lemma="Rovná_;Y_^(*1ý)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Rovná_;G_;Y_^(*1ý)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930703-017-p3s2w11">
 <src.rf>manual</src.rf>
@@ -848,7 +848,7 @@
 <form>Rovné</form>
 <tag>
 <AM lemma="Rovná_;Y_^(*1ý)" src="auto">NNFS2-----A----</AM>
-<AM lemma="Rovná-2_;G" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="Rovná_;G_;Y_^(*1ý)" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-017-p3s3w5">
@@ -857,7 +857,7 @@
 <LM>w#w-mf930703-017-p3s3w5</LM>
 </w.rf>
 <form>Miroslav</form>
-<tag lemma="Miroslav_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Miroslav-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-017-p3s3w6">
 <src.rf>manual</src.rf>
@@ -960,7 +960,7 @@
 <form>Rovná</form>
 <tag>
 <AM lemma="Rovná_;Y_^(*1ý)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Rovná-2_;G" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Rovná_;G_;Y_^(*1ý)" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-017-p3s4w6">
@@ -1217,7 +1217,7 @@
 <LM>w#w-mf930703-017-p4s1w21</LM>
 </w.rf>
 <form>měřičů</form>
-<tag lemma="měřič" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="měřič-2" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf930703-017-p4s1w22">
 <src.rf>manual</src.rf>
@@ -1317,7 +1317,7 @@
 <form>Rovná</form>
 <tag>
 <AM lemma="Rovná_;Y_^(*1ý)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Rovná-2_;G" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Rovná_;G_;Y_^(*1ý)" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-017-p4s2w2">

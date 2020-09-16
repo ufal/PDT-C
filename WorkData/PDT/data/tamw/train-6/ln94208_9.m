@@ -271,7 +271,7 @@
 <LM>w#w-ln94208-9-p1s3w2</LM>
 </w.rf>
 <form>nadáním</form>
-<tag lemma="nadání_^(talent)" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="nadání_^(*3at)" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-ln94208-9-p1s3w3">
 <src.rf>manual</src.rf>
@@ -417,7 +417,7 @@
 <LM>w#w-ln94208-9-p1s4w9</LM>
 </w.rf>
 <form>jehož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P1XXXZS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXZS3-------</tag>
 </m>
 <m id="m-ln94208-9-p1s4w10">
 <src.rf>manual</src.rf>
@@ -823,7 +823,7 @@
 <LM>w#w-ln94208-9-p1s5w19</LM>
 </w.rf>
 <form>nejlepších</form>
-<tag lemma="dobrý" src="orig" selected="1">AAFP2----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAFP2----3A----</tag>
 </m>
 <m id="m-ln94208-9-p1s5w20">
 <src.rf>manual</src.rf>
@@ -894,7 +894,7 @@
 <LM>w#w-ln94208-9-p1s6w4</LM>
 </w.rf>
 <form>nadání</form>
-<tag lemma="nadání_^(talent)" src="orig" selected="1">NNNS3-----A----</tag>
+<tag lemma="nadání_^(*3at)" src="orig" selected="1">NNNS3-----A----</tag>
 </m>
 <m id="m-ln94208-9-p1s6w5">
 <src.rf>manual</src.rf>

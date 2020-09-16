@@ -106,7 +106,7 @@
 <LM>w#w-ln95048-132-p2s1Bw3</LM>
 </w.rf>
 <form>Kovo</form>
-<tag lemma="Kovo_;Y_;m" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Kovo_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95048-132-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -343,7 +343,7 @@
 <LM>w#w-ln95048-132-p2s2w7</LM>
 </w.rf>
 <form>Kovo</form>
-<tag lemma="Kovo_;Y_;m" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Kovo_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95048-132-p2s2w8">
 <src.rf>manual</src.rf>
@@ -1015,7 +1015,7 @@
 <LM>w#w-ln95048-132-p2s6w14</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8YP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8YP4---------1</tag>
 </m>
 <m id="m-ln95048-132-p2s6w15">
 <src.rf>manual</src.rf>

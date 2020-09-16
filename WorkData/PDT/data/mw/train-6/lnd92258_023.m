@@ -212,7 +212,7 @@
 <LM>w#w-lnd92258-023-p3s2w16</LM>
 </w.rf>
 <form>spořitelny</form>
-<tag lemma="spořitelna_^(místo;_př._Česká_spořitelna)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="spořitelna" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92258-023-p3s2w17">
 <src.rf>manual</src.rf>
@@ -276,7 +276,7 @@
 <LM>w#w-lnd92258-023-p3s2w24</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd92258-023-p3s2w25">
 <src.rf>manual</src.rf>
@@ -608,7 +608,7 @@
 <LM>w#w-lnd92258-023-p3s4w7</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd92258-023-p3s4w8">
 <src.rf>manual</src.rf>

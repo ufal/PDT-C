@@ -128,7 +128,7 @@
 <LM>w#w-mf930703-113-p2s1w8</LM>
 </w.rf>
 <form>tažený</form>
-<tag lemma="tažený_^(*5áhnout)" src="orig" selected="1">AAIS4----1A----</tag>
+<tag lemma="tažený" src="orig" selected="1">AAIS4----1A----</tag>
 </m>
 <m id="m-mf930703-113-p2s1w9">
 <src.rf>manual</src.rf>
@@ -434,7 +434,7 @@
 <LM>w#w-mf930703-113-p2s2w23</LM>
 </w.rf>
 <form>Černé</form>
-<tag lemma="Černá_;Y_^(*1ý)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="Černá_;G_;Y_^(*1ý)" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930703-113-p2s2w24">
 <src.rf>manual</src.rf>
@@ -574,7 +574,7 @@
 <LM>w#w-mf930703-113-p2s4w13</LM>
 </w.rf>
 <form>děti</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-mf930703-113-p2s4w14">
 <src.rf>manual</src.rf>

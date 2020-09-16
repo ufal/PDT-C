@@ -523,7 +523,7 @@
 <LM>w#w-mf920901-026-p2s5w1</LM>
 </w.rf>
 <form>Duch</form>
-<tag lemma="duch" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="duch-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-026-p2s5w2">
 <src.rf>manual</src.rf>
@@ -664,7 +664,7 @@
 <LM>w#w-mf920901-026-p2s6w2</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8NS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8NS4---------1</tag>
 </m>
 <m id="m-mf920901-026-p2s6w3">
 <src.rf>manual</src.rf>
@@ -804,7 +804,7 @@
 <form>Hard</form>
 <tag>
 <AM lemma="Harda_;G" src="orig">NNFP2-----A----</AM>
-<AM lemma="Hard-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="hard-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf920901-026-p2s6w19">
@@ -972,7 +972,7 @@
 <AM lemma="Ronnie_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="Ronnie_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Ronnie_;Y" src="auto">NNMS5-----A----</AM>
-<AM lemma="Ronnie-2_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Ronnie_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-026-p2s8w18">
@@ -991,7 +991,7 @@
 <form>Diem</form>
 <tag>
 <AM lemma="Zeus_;Y" src="orig">NNMS7-----A----</AM>
-<AM lemma="Dio_;Y" src="manual" selected="1">NNMS7-----A----</AM>
+<AM lemma="Zeus_;Y" src="manual" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-026-p2s8w20">
@@ -1352,7 +1352,7 @@
 <LM>w#w-mf920901-026-p2s10w19</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-mf920901-026-p2s10w20">
 <src.rf>manual</src.rf>

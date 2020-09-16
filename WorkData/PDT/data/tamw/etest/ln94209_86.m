@@ -109,7 +109,7 @@
 <LM>w#w-ln94209-86-p2s1w9</LM>
 </w.rf>
 <form>stadionu</form>
-<tag lemma="stadión" src="orig" selected="1">NNIS6-----A---1</tag>
+<tag lemma="stadion_,s_^(^DD**stadión)" src="orig" selected="1">NNIS6-----A---1</tag>
 </m>
 <m id="m-ln94209-86-p2s1w10">
 <src.rf>manual</src.rf>

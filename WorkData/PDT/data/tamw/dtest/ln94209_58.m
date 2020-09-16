@@ -75,7 +75,7 @@
 <LM>w#w-ln94209-58-p1s1Aw8</LM>
 </w.rf>
 <form>knížete</form>
-<tag lemma="kníže" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="kníže-1" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94209-58-p1s1Aw9">
 <src.rf>manual</src.rf>

@@ -753,7 +753,7 @@
 <LM>w#w-ln95040-088-p2s5w2</LM>
 </w.rf>
 <form>nejnapjatější</form>
-<tag lemma="napjatý_^(*4nout)" src="orig" selected="1">AAFS4----3A----</tag>
+<tag lemma="napjatý" src="orig" selected="1">AAFS4----3A----</tag>
 </m>
 <m id="m-ln95040-088-p2s5w3">
 <src.rf>manual</src.rf>
@@ -837,7 +837,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Bihače</form>
-<tag lemma="Bihač_;G" src="auto" selected="1">NNIS2-----A----</tag>
+<tag lemma="Bihač-2_;G" src="auto" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95040-088-p2s5w13">
 <src.rf>manual</src.rf>
@@ -1163,7 +1163,7 @@
 <LM>w#w-ln95040-088-p3s2w6</LM>
 </w.rf>
 <form>činitel</form>
-<tag lemma="činitel" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="činitel-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-088-p3s2w7">
 <src.rf>manual</src.rf>

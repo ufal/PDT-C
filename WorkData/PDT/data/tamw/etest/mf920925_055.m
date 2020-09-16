@@ -362,7 +362,7 @@
 <LM>w#w-mf920925-055-p3s1w1</LM>
 </w.rf>
 <form>Druhým</form>
-<tag lemma="druhý" src="orig" selected="1">CrMS7----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrMS7----------</tag>
 </m>
 <m id="m-mf920925-055-p3s1w2">
 <src.rf>manual</src.rf>
@@ -815,7 +815,7 @@
 <LM>w#w-mf920925-055-p7s1w19</LM>
 </w.rf>
 <form>Slovanem</form>
-<tag lemma="Slovan-2_;m" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="Slovan-2_;G_;m" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-mf920925-055-p7s1w20">
 <src.rf>manual</src.rf>
@@ -881,7 +881,7 @@
 <LM>w#w-mf920925-055-p8s2w6</LM>
 </w.rf>
 <form>Slavií</form>
-<tag lemma="Slavia_;m" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Slavie_;m_,s_^(^DD**Slávie)" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-mf920925-055-p8s2w7">
 <src.rf>manual</src.rf>

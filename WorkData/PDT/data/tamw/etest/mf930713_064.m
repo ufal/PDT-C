@@ -1070,7 +1070,7 @@
 <LM>w#w-mf930713-064-p3s5w5</LM>
 </w.rf>
 <form>hektaru</form>
-<tag lemma="ha-1`hektar" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="hektar" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930713-064-p3s5w6">
 <src.rf>manual</src.rf>
@@ -1818,7 +1818,7 @@
 <LM>w#w-mf930713-064-p4s3w6</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP2-P1-------</tag>
 </m>
 <m id="m-mf930713-064-p4s3w7">
 <src.rf>manual</src.rf>
@@ -1996,7 +1996,7 @@
 <LM>w#w-mf930713-064-p4s4w20</LM>
 </w.rf>
 <form>právo</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-mf930713-064-p4s4w21">
 <src.rf>manual</src.rf>
@@ -2022,7 +2022,7 @@
 <LM>w#w-mf930713-064-p4s5w2</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf930713-064-p4s5w3">
 <src.rf>manual</src.rf>

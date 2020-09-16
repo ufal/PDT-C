@@ -398,7 +398,7 @@
 <LM>w#w-lnd92254-030-p3s4w7</LM>
 </w.rf>
 <form>Roma</form>
-<tag lemma="Rom-4_;E" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Rom_;E_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd92254-030-p3s4w8">
 <src.rf>manual</src.rf>
@@ -592,7 +592,7 @@
 <LM>w#w-lnd92254-030-p3s5w14</LM>
 </w.rf>
 <form>Romy</form>
-<tag lemma="Rom-4_;E" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="Rom_;E_;Y" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-lnd92254-030-p3s5w15">
 <src.rf>manual</src.rf>

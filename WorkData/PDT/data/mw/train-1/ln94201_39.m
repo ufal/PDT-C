@@ -385,7 +385,7 @@
 <LM>w#w-ln94201-39-p2s4w6</LM>
 </w.rf>
 <form>pana</form>
-<tag lemma="pan_^(oslovení)" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="pan" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94201-39-p2s4w7">
 <src.rf>manual</src.rf>
@@ -545,7 +545,7 @@
 <LM>w#w-ln94201-39-p2s4w26</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln94201-39-p2s4w27">
 <src.rf>manual</src.rf>
@@ -667,7 +667,7 @@
 <LM>w#w-ln94201-39-p3s1w13</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-ln94201-39-p3s1w14">
 <src.rf>manual</src.rf>
@@ -1604,7 +1604,7 @@
 <LM>w#w-ln94201-39-p3s9w8</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln94201-39-p3s9w9">
 <src.rf>manual</src.rf>
@@ -2040,7 +2040,7 @@
 <LM>w#w-ln94201-39-p4s1w24</LM>
 </w.rf>
 <form>panské</form>
-<tag lemma="panský" src="auto" selected="1">AANS4----1A----</tag>
+<tag lemma="panský-1" src="auto" selected="1">AANS4----1A----</tag>
 </m>
 <m id="m-ln94201-39-p4s1w25">
 <src.rf>manual</src.rf>

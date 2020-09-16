@@ -35,7 +35,7 @@
 <LM>w#w-lnd92254-054-p1s1w3</LM>
 </w.rf>
 <form>hnutí</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-lnd92254-054-p1s1w4">
 <src.rf>manual</src.rf>
@@ -54,7 +54,7 @@
 <LM>w#w-lnd92254-054-p1s1w5</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS7---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS7---------1</tag>
 </m>
 <m id="m-lnd92254-054-p1s1w6">
 <src.rf>manual</src.rf>
@@ -273,7 +273,7 @@
 <LM>w#w-lnd92254-054-p1s1w32</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="mluvčí-2" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92254-054-p1s1w33">
 <src.rf>manual</src.rf>
@@ -577,7 +577,7 @@
 <LM>w#w-lnd92254-054-p1s2w33</LM>
 </w.rf>
 <form>Evropě</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd92254-054-p1s2w34">
 <src.rf>manual</src.rf>
@@ -742,7 +742,7 @@
 <LM>w#w-lnd92254-054-p2s1w19</LM>
 </w.rf>
 <form>extremistický</form>
-<tag lemma="extremistický" src="orig" selected="1">AAIS4----1A----</tag>
+<tag lemma="extremistický_,s_^(^DD**extrémistický)" src="orig" selected="1">AAIS4----1A----</tag>
 </m>
 <m id="m-lnd92254-054-p2s1w20">
 <src.rf>manual</src.rf>
@@ -771,7 +771,7 @@
 <LM>w#w-lnd92254-054-p2s1w22</LM>
 </w.rf>
 <form>Evropě</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd92254-054-p2s1w23">
 <src.rf>manual</src.rf>
@@ -1039,7 +1039,7 @@
 <form>antisemitismu</form>
 <tag>
 <AM lemma="antisemitismus" src="orig">NNIS2-----A----</AM>
-<AM lemma="antisemitismus_,s_^(^DD*antisemitizmus)" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="antisemitismus_,s_^(^DD**antisemitizmus)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-054-p2s2w33">
@@ -1327,7 +1327,7 @@
 <LM>w#w-lnd92254-054-p3s2w3</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92254-054-p3s2w4">
 <src.rf>manual</src.rf>
@@ -1545,7 +1545,7 @@
 <LM>w#w-lnd92254-054-p3s2w29</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-lnd92254-054-p3s2w30">
 <src.rf>manual</src.rf>
@@ -1683,7 +1683,7 @@
 <LM>w#w-lnd92254-054-p4s1w4</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92254-054-p4s1w5">
 <src.rf>manual</src.rf>
@@ -1979,7 +1979,7 @@
 <LM>w#w-lnd92254-054-p4s2w10</LM>
 </w.rf>
 <form>člen</form>
-<tag lemma="člen" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-054-p4s2w11">
 <src.rf>manual</src.rf>
@@ -1987,7 +1987,7 @@
 <LM>w#w-lnd92254-054-p4s2w11</LM>
 </w.rf>
 <form>Rady</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92254-054-p4s2w12">
 <src.rf>manual</src.rf>
@@ -2043,7 +2043,7 @@
 <LM>w#w-lnd92254-054-p4s2w18</LM>
 </w.rf>
 <form>roli</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="role_^(svitek_poslání_pozemek)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-lnd92254-054-p4s2w19">
 <src.rf>manual</src.rf>

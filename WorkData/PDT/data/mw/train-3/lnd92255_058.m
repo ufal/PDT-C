@@ -536,7 +536,7 @@
 <LM>w#w-lnd92255-058-p4s2w15</LM>
 </w.rf>
 <form>Dobrinji</form>
-<tag lemma="Dobrinj_;G" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Dobrinj-2_;G" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-lnd92255-058-p4s2w16">
 <src.rf>manual</src.rf>
@@ -838,7 +838,7 @@
 <LM>w#w-lnd92255-058-p4s4w9</LM>
 </w.rf>
 <form>dal</form>
-<tag lemma="dát" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92255-058-p4s4w10">
 <src.rf>manual</src.rf>
@@ -1011,7 +1011,7 @@
 <LM>w#w-lnd92255-058-p4s5w14</LM>
 </w.rf>
 <form>David</form>
-<tag lemma="David_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="David-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-058-p4s5w15">
 <src.rf>manual</src.rf>
@@ -1168,7 +1168,7 @@
 <LM>w#w-lnd92255-058-p5s1w17</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-lnd92255-058-p5s1w18">
 <src.rf>manual</src.rf>

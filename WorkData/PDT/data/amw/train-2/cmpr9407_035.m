@@ -113,7 +113,7 @@
 <LM>w#w-cmpr9407-035-p4s1w7</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FXXFS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1FXXFS3-------</tag>
 </m>
 <m id="m-cmpr9407-035-p4s1w8">
 <src.rf>manual</src.rf>

@@ -53,7 +53,7 @@
 <LM>w#w-cmpr9413-041-p2s1w2</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-4_^(v_knize,_rukopise,...)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-cmpr9413-041-p2s1w3">
 <src.rf>manual</src.rf>

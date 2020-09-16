@@ -201,7 +201,7 @@
 <LM>w#w-lnd92254-008-p3s2w12</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-lnd92254-008-p3s2w13">
 <src.rf>manual</src.rf>
@@ -233,7 +233,7 @@
 <LM>w#w-lnd92254-008-p3s2w16</LM>
 </w.rf>
 <form>členů</form>
-<tag lemma="člen" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd92254-008-p3s2w17">
 <src.rf>manual</src.rf>
@@ -493,7 +493,7 @@
 <LM>w#w-lnd92254-008-p4s1w3</LM>
 </w.rf>
 <form>podání</form>
-<tag lemma="podání_^(něco_[někomu]_[někam])_(*3at)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="podání_^(*3at)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-lnd92254-008-p4s1w4">
 <src.rf>manual</src.rf>
@@ -501,7 +501,7 @@
 <LM>w#w-lnd92254-008-p4s1w4</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-lnd92254-008-p4s1w5">
 <src.rf>manual</src.rf>
@@ -509,7 +509,7 @@
 <LM>w#w-lnd92254-008-p4s1w5</LM>
 </w.rf>
 <form>nepodání</form>
-<tag lemma="podání_^(něco_[někomu]_[někam])_(*3at)" src="orig" selected="1">NNNS6-----N----</tag>
+<tag lemma="podání_^(*3at)" src="orig" selected="1">NNNS6-----N----</tag>
 </m>
 <m id="m-lnd92254-008-p4s1w6">
 <src.rf>manual</src.rf>
@@ -826,7 +826,7 @@
 <LM>w#w-lnd92254-008-p4s2w13</LM>
 </w.rf>
 <form>členové</form>
-<tag lemma="člen" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd92254-008-p4s2w14">
 <src.rf>manual</src.rf>
@@ -1018,7 +1018,7 @@
 <LM>w#w-lnd92254-008-p4s2w37</LM>
 </w.rf>
 <form>mechanismus</form>
-<tag lemma="mechanismus" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="mechanismus_,s_^(^DD**mechanizmus)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-lnd92254-008-p4s2w38">
 <src.rf>manual</src.rf>
@@ -1063,7 +1063,7 @@
 <LM>w#w-lnd92254-008-p4s3w3</LM>
 </w.rf>
 <form>členů</form>
-<tag lemma="člen" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd92254-008-p4s3w4">
 <src.rf>manual</src.rf>
@@ -1202,7 +1202,7 @@
 <LM>w#w-lnd92254-008-p4s3w20</LM>
 </w.rf>
 <form>členů</form>
-<tag lemma="člen" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd92254-008-p4s3w21">
 <src.rf>manual</src.rf>
@@ -2101,7 +2101,7 @@
 <LM>w#w-lnd92254-008-p5s2w18</LM>
 </w.rf>
 <form>odpovědnost</form>
-<tag lemma="odpovědnost_^(kdo_za_něco_odpovídá)_(*3ý)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="odpovědnost_^(*3ý)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-lnd92254-008-p5s2w19">
 <src.rf>manual</src.rf>
@@ -2141,7 +2141,7 @@
 <LM>w#w-lnd92254-008-p5s2w24</LM>
 </w.rf>
 <form>co</form>
-<tag lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="co-5_^(př._co_nejméně,_co_nevidět_atd.)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd92254-008-p5s2w25">
 <src.rf>manual</src.rf>
@@ -2205,7 +2205,7 @@
 <LM>w#w-lnd92254-008-p5s2w32</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-lnd92254-008-p5s2w33">
 <src.rf>manual</src.rf>
@@ -3425,7 +3425,7 @@
 <LM>w#w-lnd92254-008-p9s1w20</LM>
 </w.rf>
 <form>rovnosti</form>
-<tag lemma="rovnost_^(přímý,_stejný,_spravedlivý)_(*3ý)" src="auto" selected="1">NNFS6-----A----</tag>
+<tag lemma="rovnost_^(*3ý)" src="auto" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd92254-008-p9s1w21">
 <src.rf>manual</src.rf>
@@ -3433,7 +3433,7 @@
 <LM>w#w-lnd92254-008-p9s1w21</LM>
 </w.rf>
 <form>rovnosti</form>
-<tag lemma="rovnost_^(přímý,_stejný,_spravedlivý)_(*3ý)" src="auto" selected="1">NNFS6-----A----</tag>
+<tag lemma="rovnost_^(*3ý)" src="auto" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd92254-008-p9s1w22">
 <src.rf>manual</src.rf>

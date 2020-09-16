@@ -786,7 +786,7 @@
 <LM>w#w-cmpr9417-026-p8s2w3</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-cmpr9417-026-p8s2w4">
 <src.rf>manual</src.rf>

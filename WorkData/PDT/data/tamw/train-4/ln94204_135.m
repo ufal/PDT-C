@@ -348,7 +348,7 @@
 <LM>w#w-ln94204-135-p3s1w2</LM>
 </w.rf>
 <form>Rada</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94204-135-p3s1w3">
 <src.rf>manual</src.rf>
@@ -412,7 +412,7 @@
 <LM>w#w-ln94204-135-p3s1w10</LM>
 </w.rf>
 <form>prostředky</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-ln94204-135-p3s1w11">
 <src.rf>manual</src.rf>

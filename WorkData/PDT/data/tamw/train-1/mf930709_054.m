@@ -27,7 +27,7 @@
 <LM>w#w-mf930709-054-p1s1w2</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-mf930709-054-p1s1w3">
 <src.rf>manual</src.rf>
@@ -109,7 +109,7 @@
 <LM>w#w-mf930709-054-p2s1w5</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-mf930709-054-p2s1w6">
 <src.rf>manual</src.rf>
@@ -431,7 +431,7 @@
 <LM>w#w-mf930709-054-p2s2w24</LM>
 </w.rf>
 <form>mého</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS2-S1-------</tag>
+<tag lemma="můj" src="orig" selected="1">PSZS2-S1-------</tag>
 </m>
 <m id="m-mf930709-054-p2s2w25">
 <src.rf>manual</src.rf>
@@ -553,7 +553,7 @@
 <LM>w#w-mf930709-054-p2s3w9</LM>
 </w.rf>
 <form>zjednodušením</form>
-<tag lemma="zjednodušení_,s_^(*2t)" src="auto" selected="1">NNNS7-----A----</tag>
+<tag lemma="zjednodušení_^(*2t)_(*3it)" src="auto" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-mf930709-054-p2s3w10">
 <src.rf>manual</src.rf>
@@ -901,7 +901,7 @@
 <LM>w#w-mf930709-054-p2s5w25</LM>
 </w.rf>
 <form>pana</form>
-<tag lemma="pan_^(oslovení)" src="auto" selected="1">NNMS4-----A----</tag>
+<tag lemma="pan" src="auto" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf930709-054-p2s5w26">
 <src.rf>manual</src.rf>
@@ -1225,7 +1225,7 @@
 <LM>w#w-mf930709-054-p2s7w2</LM>
 </w.rf>
 <form>mne</form>
-<tag lemma="já_^(2./4.pád)" src="orig" selected="1">PP-S4--1-------</tag>
+<tag lemma="já" src="orig" selected="1">PP-S4--1-------</tag>
 </m>
 <m id="m-mf930709-054-p2s7w3">
 <src.rf>manual</src.rf>

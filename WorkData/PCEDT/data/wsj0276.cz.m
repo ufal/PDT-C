@@ -659,7 +659,7 @@
 </w.rf>
 <form>jejího</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9MS4FS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9MS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSZS2FS3-------</AM>
 </tag>
 </m>
@@ -1807,7 +1807,7 @@
 <form>své</form>
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FP1---------1</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8FP4---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8FP4---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS2---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS3---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS6---------1</AM>
@@ -1971,7 +1971,7 @@
 <form>jejího</form>
 <tag>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSMS4FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9ZS2FS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9ZS2FS3-------</AM>
 </tag>
 </m>
 <m id="m-wsj0276-001-p1s6W18-Ta">
@@ -2307,7 +2307,7 @@
 <tag>
 <AM lemma="Manfréd_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Manfréd_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Manfred_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Manfred_;Y_,s_^(^DD**Manfréd)" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0276-001-p1s7W21-Ta">

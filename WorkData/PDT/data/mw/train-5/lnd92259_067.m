@@ -260,7 +260,7 @@
 <LM>w#w-lnd92259-067-p3s2w21</LM>
 </w.rf>
 <form>členem</form>
-<tag lemma="člen" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd92259-067-p3s2w22">
 <src.rf>manual</src.rf>
@@ -474,7 +474,7 @@
 <LM>w#w-lnd92259-067-p3s2w47</LM>
 </w.rf>
 <form>brání</form>
-<tag lemma="bránit_^(klást_překážky)" src="auto" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="bránit" src="auto" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92259-067-p3s2w48">
 <src.rf>manual</src.rf>
@@ -637,7 +637,7 @@
 <LM>w#w-lnd92259-067-p3s2w67</LM>
 </w.rf>
 <form>politiky</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92259-067-p3s2w68">
 <src.rf>manual</src.rf>
@@ -730,7 +730,7 @@
 <LM>w#w-lnd92259-067-p3s3w10</LM>
 </w.rf>
 <form>přijetí</form>
-<tag lemma="přijetí_^(*3mout)" src="auto" selected="1">NNNS4-----A----</tag>
+<tag lemma="přijetí_^(*1)_(*3mout)" src="auto" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-lnd92259-067-p3s3w11">
 <src.rf>manual</src.rf>

@@ -116,7 +116,7 @@
 </w.rf>
 <form>expertízy</form>
 <tag>
-<AM lemma="expertíza" src="orig" selected="1">NNFS2-----A----</AM>
+<AM lemma="expertíza_,s_^(^DD**expertiza)" src="orig" selected="1">NNFS2-----A----</AM>
 <AM lemma="expertiza_,x" src="auto">NNFP1-----A----</AM>
 <AM lemma="expertiza_,x" src="auto">NNFP4-----A----</AM>
 <AM lemma="expertiza_,x" src="auto">NNFP5-----A----</AM>
@@ -291,7 +291,7 @@
 <LM>w#w-lnd92255-123-p1s2w18</LM>
 </w.rf>
 <form>prvních</form>
-<tag lemma="první" src="orig" selected="1">CrIP2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIP2----------</tag>
 </m>
 <m id="m-lnd92255-123-p1s2w19">
 <src.rf>manual</src.rf>

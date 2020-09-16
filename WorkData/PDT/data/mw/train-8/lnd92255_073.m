@@ -408,7 +408,7 @@
 <LM>w#w-lnd92255-073-p1s3w18</LM>
 </w.rf>
 <form>převzetí</form>
-<tag lemma="převzetí_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="převzetí_^(*3ít)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-lnd92255-073-p1s3w19">
 <src.rf>manual</src.rf>

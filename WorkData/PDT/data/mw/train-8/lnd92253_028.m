@@ -175,7 +175,7 @@
 <LM>w#w-lnd92253-028-p2s2w13</LM>
 </w.rf>
 <form>prostředky</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP7-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP7-----A----</tag>
 </m>
 <m id="m-lnd92253-028-p2s2w14">
 <src.rf>manual</src.rf>
@@ -277,7 +277,7 @@
 <LM>w#w-lnd92253-028-p2s3w10</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd92253-028-p2s3w11">
 <src.rf>manual</src.rf>
@@ -333,7 +333,7 @@
 <LM>w#w-lnd92253-028-p2s3w17</LM>
 </w.rf>
 <form>Miroslav</form>
-<tag lemma="Miroslav_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Miroslav-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92253-028-p2s3w18">
 <src.rf>manual</src.rf>
@@ -357,7 +357,7 @@
 <LM>w#w-lnd92253-028-p2s3w20</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrIS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS6----------</tag>
 </m>
 <m id="m-lnd92253-028-p2s3w21">
 <src.rf>manual</src.rf>
@@ -421,7 +421,7 @@
 <LM>w#w-lnd92253-028-p2s3w28</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92253-028-p2s3w29">
 <src.rf>manual</src.rf>

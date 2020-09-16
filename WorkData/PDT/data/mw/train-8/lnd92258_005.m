@@ -55,7 +55,7 @@
 <LM>w#w-lnd92258-005-p1s1w5</LM>
 </w.rf>
 <form>svoji</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4----------</tag>
 </m>
 <m id="m-lnd92258-005-p1s1w6">
 <src.rf>manual</src.rf>
@@ -291,7 +291,7 @@
 <LM>w#w-lnd92258-005-p1s2w26</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-lnd92258-005-p1s2w27">
 <src.rf>manual</src.rf>

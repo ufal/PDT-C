@@ -114,7 +114,7 @@
 <LM>w#w-ln95040-105-p2s1Bw6</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-ln95040-105-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -389,7 +389,7 @@
 <LM>w#w-ln95040-105-p2s3w5</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95040-105-p2s3w6">
 <src.rf>manual</src.rf>
@@ -447,7 +447,7 @@
 <LM>w#w-ln95040-105-p2s4w1</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrIS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS1----------</tag>
 </m>
 <m id="m-ln95040-105-p2s4w2">
 <src.rf>manual</src.rf>
@@ -569,7 +569,7 @@
 <LM>w#w-ln95040-105-p3s1w8</LM>
 </w.rf>
 <form>nakladači</form>
-<tag lemma="nakladač" src="orig" selected="1">NNIP7-----A----</tag>
+<tag lemma="nakladač-2" src="orig" selected="1">NNIP7-----A----</tag>
 </m>
 <m id="m-ln95040-105-p3s1w9">
 <src.rf>manual</src.rf>
@@ -681,7 +681,7 @@
 <LM>w#w-ln95040-105-p3s1w22</LM>
 </w.rf>
 <form>zkvalitnění</form>
-<tag lemma="zkvalitnění_^(*3it)" src="orig" selected="1">NNNS3-----A----</tag>
+<tag lemma="zkvalitnění_^(*2t)_(*3it)" src="orig" selected="1">NNNS3-----A----</tag>
 </m>
 <m id="m-ln95040-105-p3s1w23">
 <src.rf>manual</src.rf>

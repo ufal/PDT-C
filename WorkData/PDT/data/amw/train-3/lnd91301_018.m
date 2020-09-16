@@ -919,7 +919,7 @@
 <form>tisíc</form>
 <tag>
 <AM lemma="tisíc-1`1000" src="orig">ClXS2----------</AM>
-<AM lemma="tisíc-1`1000" src="manual" selected="1">CzIXX----------</AM>
+<AM lemma="tisíc`1000" src="manual" selected="1">CzIXX----------</AM>
 </tag>
 </m>
 <m id="m-lnd91301-018-p3s7w8">
@@ -952,7 +952,7 @@
 <LM>w#w-lnd91301-018-p3s7w11</LM>
 </w.rf>
 <form>černém</form>
-<tag lemma="černý" src="auto" selected="1">AAIS6----1A----</tag>
+<tag lemma="černý_;o" src="auto" selected="1">AAIS6----1A----</tag>
 </m>
 <m id="m-lnd91301-018-p3s7w12">
 <src.rf>manual</src.rf>

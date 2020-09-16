@@ -51,7 +51,7 @@
 <LM>w#w-ln95042-037-p1s1w5</LM>
 </w.rf>
 <form>nejdelší</form>
-<tag lemma="dlouhý-1_^(fyz._délka;_př._dlouhá_tyč)" src="orig" selected="1">AAFS6----3A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFS6----3A----</tag>
 </m>
 <m id="m-ln95042-037-p1s1w6">
 <src.rf>manual</src.rf>
@@ -59,7 +59,7 @@
 <LM>w#w-ln95042-037-p1s1w6</LM>
 </w.rf>
 <form>cestě</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 </s>
 <s id="m-ln95042-037-p2s1A">
@@ -151,7 +151,7 @@
 <LM>w#w-ln95042-037-p2s1Bw9</LM>
 </w.rf>
 <form>nejdelší</form>
-<tag lemma="dlouhý-1_^(fyz._délka;_př._dlouhá_tyč)" src="orig" selected="1">AAFS1----3A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFS1----3A----</tag>
 </m>
 <m id="m-ln95042-037-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -217,7 +217,7 @@
 <LM>w#w-ln95042-037-p2s2w2</LM>
 </w.rf>
 <form>výbor</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95042-037-p2s2w3">
 <src.rf>manual</src.rf>
@@ -297,7 +297,7 @@
 <LM>w#w-ln95042-037-p2s2w12</LM>
 </w.rf>
 <form>Olympie</form>
-<tag lemma="Olympie_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Olympie_;G_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95042-037-p2s2w13">
 <src.rf>manual</src.rf>

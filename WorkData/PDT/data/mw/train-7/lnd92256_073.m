@@ -170,7 +170,7 @@
 <LM>w#w-lnd92256-073-p1s1w19</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FP4---------1</tag>
 </m>
 <m id="m-lnd92256-073-p1s1w20">
 <src.rf>manual</src.rf>
@@ -178,7 +178,7 @@
 <LM>w#w-lnd92256-073-p1s1w20</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFP4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFP4----------</tag>
 </m>
 <m id="m-lnd92256-073-p1s1w21">
 <src.rf>manual</src.rf>
@@ -186,7 +186,7 @@
 <LM>w#w-lnd92256-073-p1s1w21</LM>
 </w.rf>
 <form>děti</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-lnd92256-073-p1s1w22">
 <src.rf>manual</src.rf>

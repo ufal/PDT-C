@@ -241,7 +241,7 @@
 </w.rf>
 <form>tajnému</form>
 <tag>
-<AM lemma="tajný" src="auto" recommended="1">AAIS3----1A----</AM>
+<AM lemma="tajný-1" src="auto" recommended="1">AAIS3----1A----</AM>
 <AM lemma="tajný" src="auto">AAMS3----1A----</AM>
 <AM lemma="tajný" src="auto">AANS3----1A----</AM>
 <AM lemma="tajný-2" src="auto">NNMS3-----A----</AM>
@@ -692,7 +692,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1983-001-p1s1W25-Ta">
@@ -812,7 +812,7 @@
 <tag>
 <AM lemma="data_^(údaje,_např._v_databázi)" src="auto">NNNP3-----A---6</AM>
 <AM lemma="datum_^(kalendářní)" src="auto">NNNP3-----A---6</AM>
-<AM lemma="datum_^(kalendářní)" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="datum-1_^(kalendářní)" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="datum_^(kalendářní)" src="auto">NNNS4-----A----</AM>
 <AM lemma="datum_^(kalendářní)" src="auto">NNNS5-----A----</AM>
 <AM lemma="datum_,h_,x" src="auto">NNIS1-----A----</AM>

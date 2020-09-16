@@ -54,7 +54,7 @@
 <LM>w#w-ln95049-116-p1s1w5</LM>
 </w.rf>
 <form>zostřením</form>
-<tag lemma="zostření_^(*2t)" src="auto" selected="1">NNNS7-----A----</tag>
+<tag lemma="zostření_^(*2t)_(*3it)" src="auto" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-ln95049-116-p1s1w6">
 <src.rf>manual</src.rf>
@@ -90,7 +90,7 @@
 <LM>w#w-ln95049-116-p2s1Bw1</LM>
 </w.rf>
 <form>Mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-116-p2s1Bw2">
 <src.rf>manual</src.rf>
@@ -280,7 +280,7 @@
 <LM>w#w-ln95049-116-p2s1Bw24</LM>
 </w.rf>
 <form>dlouhý</form>
-<tag lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">AAIS1----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-ln95049-116-p2s1Bw25">
 <src.rf>manual</src.rf>
@@ -564,7 +564,7 @@
 <LM>w#w-ln95049-116-p2s3w14</LM>
 </w.rf>
 <form>zkrácení</form>
-<tag lemma="zkrácení_,a_^(*2t)" src="auto" selected="1">NNNS2-----A----</tag>
+<tag lemma="zkrácení_^(*4tit)" src="auto" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln95049-116-p2s3w15">
 <src.rf>manual</src.rf>
@@ -1020,7 +1020,7 @@
 <LM>w#w-ln95049-116-p2s6w29</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS2---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS2---------1</tag>
 </m>
 <m id="m-ln95049-116-p2s6w30">
 <src.rf>manual</src.rf>

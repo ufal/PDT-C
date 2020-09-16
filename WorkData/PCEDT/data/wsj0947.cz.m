@@ -367,7 +367,7 @@
 <form>satelit</form>
 <tag>
 <AM lemma="satelit" src="auto">NNIS1-----A----</AM>
-<AM lemma="satelit" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="satelit-1" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="satelit" src="auto">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -581,7 +581,7 @@
 </w.rf>
 <form>satelit</form>
 <tag>
-<AM lemma="satelit" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="satelit-1" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="satelit" src="auto">NNIS4-----A----</AM>
 <AM lemma="satelit" src="auto">NNMS1-----A----</AM>
 </tag>
@@ -872,7 +872,7 @@
 <form>satelit</form>
 <tag>
 <AM lemma="satelit" src="auto">NNIS1-----A----</AM>
-<AM lemma="satelit" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="satelit-1" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="satelit" src="auto">NNMS1-----A----</AM>
 </tag>
 </m>

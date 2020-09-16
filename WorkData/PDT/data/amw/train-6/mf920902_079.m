@@ -115,7 +115,7 @@
 <LM>w#w-mf920902-079-p1s1w13</LM>
 </w.rf>
 <form>Matějková</form>
-<tag lemma="Matějková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Matějková_;Y_^(*3a)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920902-079-p1s1w14">
 <src.rf>manual</src.rf>
@@ -123,7 +123,7 @@
 <LM>w#w-mf920902-079-p1s1w14</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS4----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS4----------</tag>
 </m>
 <m id="m-mf920902-079-p1s1w15">
 <src.rf>manual</src.rf>
@@ -214,7 +214,7 @@
 <LM>w#w-mf920902-079-p1s2w1</LM>
 </w.rf>
 <form>Boxeři</form>
-<tag lemma="boxer" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="boxer-1" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf920902-079-p1s2w2">
 <src.rf>manual</src.rf>
@@ -387,7 +387,7 @@
 <LM>w#w-mf920902-079-p1s4w5</LM>
 </w.rf>
 <form>drezuře</form>
-<tag lemma="drezura" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="drezura_,s_^(^DD**drezúra)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf920902-079-p1s4w6">
 <src.rf>manual</src.rf>
@@ -478,7 +478,7 @@
 <LM>w#w-mf920902-079-p1s4w16</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920902-079-p1s4w17">
 <src.rf>manual</src.rf>
@@ -494,7 +494,7 @@
 <LM>w#w-mf920902-079-p1s4w18</LM>
 </w.rf>
 <form>jehož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P1XXXZS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXZS3-------</tag>
 </m>
 <m id="m-mf920902-079-p1s4w19">
 <src.rf>manual</src.rf>

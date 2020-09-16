@@ -675,7 +675,7 @@
 <LM>w#w-ln94207-9-p3s2w1</LM>
 </w.rf>
 <form>Ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94207-9-p3s2w2">
 <src.rf>manual</src.rf>
@@ -694,7 +694,7 @@
 <LM>w#w-ln94207-9-p3s2w3</LM>
 </w.rf>
 <form>proto</form>
-<tag lemma="proto-2_^(dal_mu_co_proto,_tak_proto!)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="proto-2_^(proto_že)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94207-9-p3s2w4">
 <src.rf>manual</src.rf>
@@ -798,7 +798,7 @@
 <LM>w#w-ln94207-9-p3s2w16</LM>
 </w.rf>
 <form>právu</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-ln94207-9-p3s2w17">
 <src.rf>manual</src.rf>
@@ -1147,7 +1147,7 @@
 <LM>w#w-ln94207-9-p3s4w18</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS1FS3-------</tag>
 </m>
 <m id="m-ln94207-9-p3s4w19">
 <src.rf>manual</src.rf>
@@ -1211,7 +1211,7 @@
 <LM>w#w-ln94207-9-p3s4w26</LM>
 </w.rf>
 <form>napadení</form>
-<tag lemma="napadení_^(*3nout)" src="orig" selected="1">NNNS3-----A----</tag>
+<tag lemma="napadení" src="orig" selected="1">NNNS3-----A----</tag>
 </m>
 <m id="m-ln94207-9-p3s4w27">
 <src.rf>manual</src.rf>
@@ -1421,7 +1421,7 @@
 <LM>w#w-ln94207-9-p3s5w24</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP6----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP6----------</tag>
 </m>
 <m id="m-ln94207-9-p3s5w25">
 <src.rf>manual</src.rf>
@@ -1749,7 +1749,7 @@
 <LM>w#w-ln94207-9-p4s2w5</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-ln94207-9-p4s2w6">
 <src.rf>manual</src.rf>
@@ -2119,7 +2119,7 @@
 <form>spíš</form>
 <tag>
 <AM lemma="spíše" src="orig">Dg-------2A----</AM>
-<AM lemma="spíše" src="manual" selected="1">TT-------------</AM>
+<AM lemma="spíš" src="manual" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-9-p4s4w23">

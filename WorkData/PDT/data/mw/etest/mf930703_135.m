@@ -346,7 +346,7 @@
 <LM>w#w-mf930703-135-p2s2w7</LM>
 </w.rf>
 <form>pas</form>
-<tag lemma="pas-1_^(př._cestovní)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="pas-1_^(přihrávka,_př._v_kopané,na_lidském_těle;;cestovní)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-mf930703-135-p2s2w8">
 <src.rf>manual</src.rf>
@@ -674,7 +674,7 @@
 <LM>w#w-mf930703-135-p2s2w48</LM>
 </w.rf>
 <form>pas</form>
-<tag lemma="pas-1_^(př._cestovní)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="pas-1_^(přihrávka,_př._v_kopané,na_lidském_těle;;cestovní)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-mf930703-135-p2s2w49">
 <src.rf>manual</src.rf>
@@ -828,7 +828,7 @@
 <LM>w#w-mf930703-135-p2s3w17</LM>
 </w.rf>
 <form>děti</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-mf930703-135-p2s3w18">
 <src.rf>manual</src.rf>
@@ -1196,7 +1196,7 @@
 <LM>w#w-mf930703-135-p3s3w2</LM>
 </w.rf>
 <form>děti</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-mf930703-135-p3s3w3">
 <src.rf>manual</src.rf>

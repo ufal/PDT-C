@@ -104,7 +104,7 @@
 <LM>w#w-cmpr9417-015-p3s1w8</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1XP4FS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XP4FS3-------</tag>
 </m>
 <m id="m-cmpr9417-015-p3s1w9">
 <src.rf>manual</src.rf>
@@ -316,7 +316,7 @@
 <LM>w#w-cmpr9417-015-p3s3w12</LM>
 </w.rf>
 <form>Zlatých</form>
-<tag lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAFP6----1A----</tag>
+<tag lemma="zlatý-1_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAFP6----1A----</tag>
 </m>
 <m id="m-cmpr9417-015-p3s3w13">
 <src.rf>manual</src.rf>
@@ -449,7 +449,7 @@
 <LM>w#w-cmpr9417-015-p3s4w2</LM>
 </w.rf>
 <form>dlouhém</form>
-<tag lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">AANS6----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AANS6----1A----</tag>
 </m>
 <m id="m-cmpr9417-015-p3s4w3">
 <src.rf>manual</src.rf>

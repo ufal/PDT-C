@@ -199,7 +199,7 @@
 <LM>w#w-ln94208-109-p2s1Bw15</LM>
 </w.rf>
 <form>nejlepším</form>
-<tag lemma="dobrý" src="orig" selected="1">AAMP3----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAMP3----3A----</tag>
 </m>
 <m id="m-ln94208-109-p2s1Bw16">
 <src.rf>manual</src.rf>
@@ -432,7 +432,7 @@
 <LM>w#w-ln94208-109-p2s2w24</LM>
 </w.rf>
 <form>prvních</form>
-<tag lemma="první" src="orig" selected="1">CrIP6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIP6----------</tag>
 </m>
 <m id="m-ln94208-109-p2s2w25">
 <src.rf>manual</src.rf>
@@ -546,7 +546,7 @@
 <LM>w#w-ln94208-109-p2s4w6</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS7----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS7----------</tag>
 </m>
 <m id="m-ln94208-109-p2s4w7">
 <src.rf>manual</src.rf>

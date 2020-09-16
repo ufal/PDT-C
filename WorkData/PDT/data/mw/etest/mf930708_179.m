@@ -801,7 +801,7 @@
 <LM>w#w-mf930708-179-p5s1w3</LM>
 </w.rf>
 <form>míří</form>
-<tag lemma="mířit_^(např._pistolí;_směřovat;_tvar_slovesa)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="mířit" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930708-179-p5s1w4">
 <src.rf>manual</src.rf>
@@ -1567,7 +1567,7 @@
 <LM>w#w-mf930708-179-p10s1w1</LM>
 </w.rf>
 <form>Šahy</form>
-<tag lemma="Šahy_;G" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="Šahy-1_;G" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-mf930708-179-p10s1w2">
 <src.rf>manual</src.rf>
@@ -1688,7 +1688,7 @@
 <LM>w#w-mf930708-179-p10s1w15</LM>
 </w.rf>
 <form>Šahách</form>
-<tag lemma="Šahy_;G" src="orig" selected="1">NNFP6-----A----</tag>
+<tag lemma="Šahy-1_;G" src="orig" selected="1">NNFP6-----A----</tag>
 </m>
 <m id="m-mf930708-179-p10s1w16">
 <src.rf>manual</src.rf>

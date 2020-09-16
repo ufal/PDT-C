@@ -247,7 +247,7 @@
 <LM>w#w-mf930701-054-p2s2w10</LM>
 </w.rf>
 <form>Penzionu</form>
-<tag lemma="penzión" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="penzion_,s_^(^DD**penzión)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930701-054-p2s2w11">
 <src.rf>manual</src.rf>
@@ -486,7 +486,7 @@
 <LM>w#w-mf930701-054-p2s4w4</LM>
 </w.rf>
 <form>Miroslava</form>
-<tag lemma="Miroslav_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Miroslav-1_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930701-054-p2s4w5">
 <src.rf>manual</src.rf>
@@ -584,7 +584,7 @@
 <LM>w#w-mf930701-054-p2s5w7</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-mf930701-054-p2s5w8">
 <src.rf>manual</src.rf>
@@ -983,7 +983,7 @@
 <LM>w#w-mf930701-054-p2s10w3</LM>
 </w.rf>
 <form>vypadat</form>
-<tag lemma="vypadat" src="orig" selected="1">Vf--------A-I--</tag>
+<tag lemma="vypadat-1_^(ty_vypadáš)" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-mf930701-054-p2s10w4">
 <src.rf>manual</src.rf>

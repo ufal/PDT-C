@@ -702,7 +702,7 @@
 <LM>w#w-ln95047-006-p3s2w13</LM>
 </w.rf>
 <form>lahví</form>
-<tag lemma="lahev" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="lahev_,s_^(^DD**láhev)" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln95047-006-p3s2w14">
 <src.rf>manual</src.rf>
@@ -798,7 +798,7 @@
 <LM>w#w-ln95047-006-p3s2w25</LM>
 </w.rf>
 <form>lahvi</form>
-<tag lemma="lahev" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="lahev_,s_^(^DD**láhev)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln95047-006-p3s2w26">
 <src.rf>manual</src.rf>

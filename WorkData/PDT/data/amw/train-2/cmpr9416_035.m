@@ -69,7 +69,7 @@
 <LM>w#w-cmpr9416-035-p3s1w3</LM>
 </w.rf>
 <form>práva</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNP1-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNP1-----A----</tag>
 </m>
 <m id="m-cmpr9416-035-p3s1w4">
 <src.rf>manual</src.rf>
@@ -289,7 +289,7 @@
 <LM>w#w-cmpr9416-035-p4s3w3</LM>
 </w.rf>
 <form>druzí</form>
-<tag lemma="druhý" src="orig" selected="1">CrMP1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrMP1----------</tag>
 </m>
 <m id="m-cmpr9416-035-p4s3w4">
 <src.rf>manual</src.rf>
@@ -329,7 +329,7 @@
 <LM>w#w-cmpr9416-035-p4s3w8</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8NS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8NS4---------1</tag>
 </m>
 <m id="m-cmpr9416-035-p4s3w9">
 <src.rf>manual</src.rf>
@@ -353,7 +353,7 @@
 <LM>w#w-cmpr9416-035-p4s3w11</LM>
 </w.rf>
 <form>ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-cmpr9416-035-p4s3w12">
 <src.rf>manual</src.rf>
@@ -525,7 +525,7 @@
 <LM>w#w-cmpr9416-035-p5s1w2</LM>
 </w.rf>
 <form>právo</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-035-p5s1w3">
 <src.rf>manual</src.rf>
@@ -557,7 +557,7 @@
 <LM>w#w-cmpr9416-035-p5s1w6</LM>
 </w.rf>
 <form>odpovědnosti</form>
-<tag lemma="odpovědnost_^(kdo_za_něco_odpovídá)_(*3ý)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="odpovědnost_^(*3ý)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-cmpr9416-035-p5s1w7">
 <src.rf>manual</src.rf>
@@ -632,7 +632,7 @@
 <LM>w#w-cmpr9416-035-p5s1w15</LM>
 </w.rf>
 <form>odpovědnosti</form>
-<tag lemma="odpovědnost_^(kdo_za_něco_odpovídá)_(*3ý)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="odpovědnost_^(*3ý)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-cmpr9416-035-p5s1w16">
 <src.rf>manual</src.rf>
@@ -714,7 +714,7 @@
 <LM>w#w-cmpr9416-035-p5s2w6</LM>
 </w.rf>
 <form>Odpovědnost</form>
-<tag lemma="odpovědnost_^(kdo_za_něco_odpovídá)_(*3ý)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="odpovědnost_^(*3ý)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-035-p5s2w7">
 <src.rf>manual</src.rf>
@@ -778,7 +778,7 @@
 <LM>w#w-cmpr9416-035-p5s2w14</LM>
 </w.rf>
 <form>odpovědnost</form>
-<tag lemma="odpovědnost_^(kdo_za_něco_odpovídá)_(*3ý)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="odpovědnost_^(*3ý)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-035-p5s2w15">
 <src.rf>manual</src.rf>
@@ -858,7 +858,7 @@
 <LM>w#w-cmpr9416-035-p5s2w24</LM>
 </w.rf>
 <form>odpovědnost</form>
-<tag lemma="odpovědnost_^(kdo_za_něco_odpovídá)_(*3ý)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="odpovědnost_^(*3ý)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-035-p5s2w25">
 <src.rf>manual</src.rf>
@@ -1037,7 +1037,7 @@
 <LM>w#w-cmpr9416-035-p9s1w10</LM>
 </w.rf>
 <form>odpovědnosti</form>
-<tag lemma="odpovědnost_^(kdo_za_něco_odpovídá)_(*3ý)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="odpovědnost_^(*3ý)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-cmpr9416-035-p9s1w11">
 <src.rf>manual</src.rf>
@@ -1094,7 +1094,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>odpovědnosti</form>
-<tag lemma="odpovědnost_^(kdo_za_něco_odpovídá)_(*3ý)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="odpovědnost_^(*3ý)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-cmpr9416-035-p9s1w18">
 <src.rf>manual</src.rf>
@@ -1470,7 +1470,7 @@
 <LM>w#w-cmpr9416-035-p10s1w14</LM>
 </w.rf>
 <form>odpovědnosti</form>
-<tag lemma="odpovědnost_^(kdo_za_něco_odpovídá)_(*3ý)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="odpovědnost_^(*3ý)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-cmpr9416-035-p10s1w15">
 <src.rf>manual</src.rf>
@@ -1494,7 +1494,7 @@
 <LM>w#w-cmpr9416-035-p10s1w17</LM>
 </w.rf>
 <form>odpovědnost</form>
-<tag lemma="odpovědnost_^(kdo_za_něco_odpovídá)_(*3ý)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="odpovědnost_^(*3ý)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-cmpr9416-035-p10s1w18">
 <src.rf>manual</src.rf>
@@ -1702,7 +1702,7 @@
 <LM>w#w-cmpr9416-035-p10s1w45</LM>
 </w.rf>
 <form>odpovědnost</form>
-<tag lemma="odpovědnost_^(kdo_za_něco_odpovídá)_(*3ý)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="odpovědnost_^(*3ý)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-cmpr9416-035-p10s1w46">
 <src.rf>manual</src.rf>
@@ -1744,7 +1744,7 @@
 <LM>w#w-cmpr9416-035-p11s1w4</LM>
 </w.rf>
 <form>odpovědnosti</form>
-<tag lemma="odpovědnost_^(kdo_za_něco_odpovídá)_(*3ý)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="odpovědnost_^(*3ý)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9416-035-p12s1">
@@ -1778,7 +1778,7 @@
 <LM>w#w-cmpr9416-035-p12s1w4</LM>
 </w.rf>
 <form>odpovědnosti</form>
-<tag lemma="odpovědnost_^(kdo_za_něco_odpovídá)_(*3ý)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="odpovědnost_^(*3ý)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-cmpr9416-035-p12s1w5">
 <src.rf>manual</src.rf>
@@ -1826,7 +1826,7 @@
 <LM>w#w-cmpr9416-035-p12s1w10</LM>
 </w.rf>
 <form>odpovědnosti</form>
-<tag lemma="odpovědnost_^(kdo_za_něco_odpovídá)_(*3ý)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="odpovědnost_^(*3ý)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-cmpr9416-035-p12s1w11">
 <src.rf>manual</src.rf>
@@ -2422,7 +2422,7 @@
 <LM>w#w-cmpr9416-035-p12s4w14</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-cmpr9416-035-p12s4w15">
 <src.rf>manual</src.rf>
@@ -2858,7 +2858,7 @@
 <LM>w#w-cmpr9416-035-p14s1w50</LM>
 </w.rf>
 <form>brání</form>
-<tag lemma="bránit_^(klást_překážky)" src="auto" selected="1">VB-P---3P-AAI--</tag>
+<tag lemma="bránit" src="auto" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9416-035-p14s1w51">
 <src.rf>manual</src.rf>
@@ -2996,7 +2996,7 @@
 <LM>w#w-cmpr9416-035-p15s1w11</LM>
 </w.rf>
 <form>odpovědnosti</form>
-<tag lemma="odpovědnost_^(kdo_za_něco_odpovídá)_(*3ý)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="odpovědnost_^(*3ý)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-cmpr9416-035-p15s1w12">
 <src.rf>manual</src.rf>
@@ -3368,7 +3368,7 @@
 <LM>w#w-cmpr9416-035-p15s3w7</LM>
 </w.rf>
 <form>odpovědnosti</form>
-<tag lemma="odpovědnost_^(kdo_za_něco_odpovídá)_(*3ý)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="odpovědnost_^(*3ý)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-cmpr9416-035-p15s3w8">
 <src.rf>manual</src.rf>
@@ -3737,7 +3737,7 @@
 <LM>w#w-cmpr9416-035-p17s2w10</LM>
 </w.rf>
 <form>odpovědnosti</form>
-<tag lemma="odpovědnost_^(kdo_za_něco_odpovídá)_(*3ý)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="odpovědnost_^(*3ý)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-cmpr9416-035-p17s2w11">
 <src.rf>manual</src.rf>
@@ -3956,7 +3956,7 @@
 <LM>w#w-cmpr9416-035-p18s1w5</LM>
 </w.rf>
 <form>odpovědnosti</form>
-<tag lemma="odpovědnost_^(kdo_za_něco_odpovídá)_(*3ý)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="odpovědnost_^(*3ý)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-cmpr9416-035-p18s1w6">
 <src.rf>manual</src.rf>
@@ -4004,7 +4004,7 @@
 <LM>w#w-cmpr9416-035-p18s1w11</LM>
 </w.rf>
 <form>odpovědnosti</form>
-<tag lemma="odpovědnost_^(kdo_za_něco_odpovídá)_(*3ý)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="odpovědnost_^(*3ý)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-cmpr9416-035-p18s1w12">
 <src.rf>manual</src.rf>
@@ -4406,7 +4406,7 @@
 <LM>w#w-cmpr9416-035-p19s1w38</LM>
 </w.rf>
 <form>odpovědnosti</form>
-<tag lemma="odpovědnost_^(kdo_za_něco_odpovídá)_(*3ý)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="odpovědnost_^(*3ý)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-cmpr9416-035-p19s1w39">
 <src.rf>manual</src.rf>
@@ -4780,7 +4780,7 @@
 <LM>w#w-cmpr9416-035-p21s1w8</LM>
 </w.rf>
 <form>Olšanská</form>
-<tag lemma="Olšanský_;G" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="olšanský" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-cmpr9416-035-p21s1w9">
 <src.rf>manual</src.rf>
@@ -4987,7 +4987,7 @@
 <LM>w#w-cmpr9416-035-p23s1w1</LM>
 </w.rf>
 <form>PRÁVO</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-035-p23s1w2">
 <src.rf>manual</src.rf>

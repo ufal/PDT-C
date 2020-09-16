@@ -239,7 +239,7 @@
 <LM>w#w-ln95049-002-p2s1Bw21</LM>
 </w.rf>
 <form>prvních</form>
-<tag lemma="první" src="orig" selected="1">CrIP6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIP6----------</tag>
 </m>
 <m id="m-ln95049-002-p2s1Bw22">
 <src.rf>manual</src.rf>
@@ -597,7 +597,7 @@
 <LM>w#w-ln95049-002-p3s2w9</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln95049-002-p3s2w10">
 <src.rf>manual</src.rf>
@@ -1037,7 +1037,7 @@
 <LM>w#w-ln95049-002-p4s2w12</LM>
 </w.rf>
 <form>depozitáře</form>
-<tag lemma="depozitář_^(povolání)" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="depozitář-2_^(povolání)" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95049-002-p4s2w13">
 <src.rf>manual</src.rf>

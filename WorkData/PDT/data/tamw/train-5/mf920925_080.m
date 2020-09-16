@@ -19,7 +19,7 @@
 <LM>w#w-mf920925-080-p1s1w1</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrMP1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrMP1----------</tag>
 </m>
 <m id="m-mf920925-080-p1s1w2">
 <src.rf>manual</src.rf>
@@ -100,7 +100,7 @@
 <LM>w#w-mf920925-080-p2s2w1</LM>
 </w.rf>
 <form>Prvním</form>
-<tag lemma="první" src="orig" selected="1">CrMS7----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrMS7----------</tag>
 </m>
 <m id="m-mf920925-080-p2s2w2">
 <src.rf>manual</src.rf>
@@ -295,7 +295,7 @@
 <LM>w#w-mf920925-080-p2s3w9</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-mf920925-080-p2s3w10">
 <src.rf>manual</src.rf>
@@ -385,7 +385,7 @@
 <LM>w#w-mf920925-080-p2s4w2</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrIP3----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIP3----------</tag>
 </m>
 <m id="m-mf920925-080-p2s4w3">
 <src.rf>manual</src.rf>

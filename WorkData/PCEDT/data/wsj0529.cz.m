@@ -170,7 +170,7 @@
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8IP1---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8IP5---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS1---------1</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8NS4---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8NS4---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS5---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8YP4---------1</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOFP-----------</AM>
@@ -265,7 +265,7 @@
 <form>Albertě</form>
 <tag>
 <AM lemma="Alberta-1_;G" src="auto">NNFS3-----A----</AM>
-<AM lemma="Alberta-1_;G" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="Alberta_;G_;Y_;m" src="auto" recommended="1">NNFS6-----A----</AM>
 <AM lemma="Alberta-2_;Y" src="auto">NNFS3-----A----</AM>
 <AM lemma="Alberta-2_;Y" src="auto">NNFS6-----A----</AM>
 </tag>
@@ -1248,7 +1248,7 @@
 <form>nás</form>
 <tag>
 <AM lemma="já" src="auto">PP-P2--1-------</AM>
-<AM lemma="já" src="auto" recommended="1">PP-P4--1-------</AM>
+<AM lemma="my" src="auto" recommended="1">PP-P4--1-------</AM>
 <AM lemma="já" src="auto">PP-P6--1-------</AM>
 </tag>
 </m>
@@ -1458,7 +1458,7 @@
 <AM lemma="Alberta-1_;G" src="auto">NNFP1-----A----</AM>
 <AM lemma="Alberta-1_;G" src="auto">NNFP4-----A----</AM>
 <AM lemma="Alberta-1_;G" src="auto">NNFP5-----A----</AM>
-<AM lemma="Alberta-1_;G" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="Alberta_;G_;Y_;m" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="Alberta-2_;Y" src="auto">NNFP1-----A----</AM>
 <AM lemma="Alberta-2_;Y" src="auto">NNFP4-----A----</AM>
 <AM lemma="Alberta-2_;Y" src="auto">NNFP5-----A----</AM>
@@ -1636,7 +1636,7 @@
 <AM lemma="Quebec_;G_,s" src="auto">NNIS2-----A----</AM>
 <AM lemma="Quebec_;G_,s" src="auto">NNIS3-----A----</AM>
 <AM lemma="Quebec_;G_,s" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="Quebec_;G_,s_^(^DD**Québec)" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Quebec_;G" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0529-001-p1s5W10-Ta">

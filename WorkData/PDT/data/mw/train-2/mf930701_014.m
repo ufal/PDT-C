@@ -383,7 +383,7 @@
 <LM>w#w-mf930701-014-p2s2w8</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-mf930701-014-p2s2w9">
 <src.rf>manual</src.rf>
@@ -522,7 +522,7 @@
 <LM>w#w-mf930701-014-p2s3w8</LM>
 </w.rf>
 <form>vedoucí</form>
-<tag lemma="vedoucí-2" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="vedoucí-3" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930701-014-p2s3w9">
 <src.rf>manual</src.rf>

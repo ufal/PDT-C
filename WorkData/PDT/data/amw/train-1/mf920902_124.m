@@ -121,7 +121,7 @@
 <LM>w#w-mf920902-124-p4s1w2</LM>
 </w.rf>
 <form>Události</form>
-<tag lemma="událost_,a_^(*3ý)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="událost" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-mf920902-124-p4s1w3">
 <src.rf>manual</src.rf>
@@ -164,7 +164,7 @@
 <LM>w#w-mf920902-124-p5s1w3</LM>
 </w.rf>
 <form>dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 </s>
 <s id="m-mf920902-124-p6s1">
@@ -270,7 +270,7 @@
 <LM>w#w-mf920902-124-p9s1w3</LM>
 </w.rf>
 <form>dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 </s>
 <s id="m-mf920902-124-p12s1">
@@ -501,7 +501,7 @@
 <LM>w#w-mf920902-124-p22s1w3</LM>
 </w.rf>
 <form>STRÁŽNÝ</form>
-<tag lemma="strážný" src="orig" selected="1">AAMS1----1A----</tag>
+<tag lemma="strážný-2" src="orig" selected="1">AAMS1----1A----</tag>
 </m>
 </s>
 <s id="m-mf920902-124-p23s1">
@@ -616,7 +616,7 @@
 <LM>w#w-mf920902-124-p25s1w5</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 </s>
 <s id="m-mf920902-124-p27s1">
@@ -732,7 +732,7 @@
 <LM>w#w-mf920902-124-p29s1w3</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP2-P1-------</tag>
 </m>
 <m id="m-mf920902-124-p29s1w4">
 <src.rf>manual</src.rf>
@@ -844,7 +844,7 @@
 <LM>w#w-mf920902-124-p34s1w2</LM>
 </w.rf>
 <form>Náš</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSYS1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSYS1-P1-------</tag>
 </m>
 <m id="m-mf920902-124-p34s1w3">
 <src.rf>manual</src.rf>
@@ -961,7 +961,7 @@
 <LM>w#w-mf920902-124-p37s1w4</LM>
 </w.rf>
 <form>vy</form>
-<tag lemma="ty" src="orig" selected="1">PP-P1--2-------</tag>
+<tag lemma="vy" src="orig" selected="1">PP-P1--2-------</tag>
 </m>
 </s>
 <s id="m-mf920902-124-p38s1">
@@ -981,7 +981,7 @@
 <form>Starosti</form>
 <tag>
 <AM lemma="starost" src="orig">NNFP1-----A----</AM>
-<AM lemma="starost-1" src="auto" recommended="1" selected="1">NNFP1-----A----</AM>
+<AM lemma="starost-2_^(*5ý-2)" src="auto" recommended="1" selected="1">NNFP1-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFP4-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFP5-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFS2-----A----</AM>
@@ -1110,7 +1110,7 @@
 <LM>w#w-mf920902-124-p42s1w2</LM>
 </w.rf>
 <form>NÁŠ</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSYS1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSYS1-P1-------</tag>
 </m>
 <m id="m-mf920902-124-p42s1w3">
 <src.rf>manual</src.rf>
@@ -1223,7 +1223,7 @@
 <LM>w#w-mf920902-124-p45s1w5</LM>
 </w.rf>
 <form>děti</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP5-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP5-----A----</tag>
 </m>
 </s>
 <s id="m-mf920902-124-p46s1">

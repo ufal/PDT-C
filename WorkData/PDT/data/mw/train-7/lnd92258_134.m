@@ -141,7 +141,7 @@
 <LM>w#w-lnd92258-134-p2s1w14</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS6---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS6---------1</tag>
 </m>
 <m id="m-lnd92258-134-p2s1w15">
 <src.rf>manual</src.rf>
@@ -181,7 +181,7 @@
 <LM>w#w-lnd92258-134-p2s1w19</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-lnd92258-134-p2s1w20">
 <src.rf>manual</src.rf>

@@ -415,7 +415,7 @@
 <LM>w#w-lnd92251-026-p2s2w7</LM>
 </w.rf>
 <form>vydání</form>
-<tag lemma="vydání-4_^(platit,_př._vydat_peníze,_v._se_ze_všeho)_(*5at-4)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="vydání_^(*3at)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-lnd92251-026-p2s2w8">
 <src.rf>manual</src.rf>

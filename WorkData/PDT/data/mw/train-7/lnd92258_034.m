@@ -461,7 +461,7 @@
 <LM>w#w-lnd92258-034-p1s3w13</LM>
 </w.rf>
 <form>vyhlášení</form>
-<tag lemma="vyhlášení_,a_^(*4sit)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="vyhlášení_^(*2t)_(*4sit)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-lnd92258-034-p1s3w14">
 <src.rf>manual</src.rf>

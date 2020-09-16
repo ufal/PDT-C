@@ -352,7 +352,7 @@
 <form>Jeana</form>
 <tag>
 <AM lemma="Jean_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Jean_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
+<AM lemma="Jean-1_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1871-001-p1s1W20-Ta">

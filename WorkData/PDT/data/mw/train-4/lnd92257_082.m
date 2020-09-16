@@ -27,7 +27,7 @@
 <LM>w#w-lnd92257-082-p1s1Aw2</LM>
 </w.rf>
 <form>Události</form>
-<tag lemma="událost_,a_^(*3ý)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="událost" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-lnd92257-082-p1s1Aw3">
 <src.rf>manual</src.rf>
@@ -685,7 +685,7 @@
 <LM>w#w-lnd92257-082-p6s1Aw1</LM>
 </w.rf>
 <form>Události</form>
-<tag lemma="událost_,a_^(*3ý)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="událost" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-lnd92257-082-p6s1Aw2">
 <src.rf>manual</src.rf>
@@ -2065,7 +2065,7 @@
 <LM>w#w-lnd92257-082-p13s1Aw9</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92257-082-p14s1A">
@@ -2171,7 +2171,7 @@
 <LM>w#w-lnd92257-082-p14s1Aw13</LM>
 </w.rf>
 <form>komunismu</form>
-<tag lemma="komunismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="komunismus_,s_^(^DD**komunizmus)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92257-082-p14s1Aw14">
 <src.rf>manual</src.rf>
@@ -3151,7 +3151,7 @@
 <form>Tutanchamóna</form>
 <tag>
 <AM lemma="Tutanchamón_;Y" src="orig">NNMS2-----A----</AM>
-<AM lemma="Tutanchamón_;Y_,s_^(^DD**Tutanchamon)" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Tutanchamón_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-082-p9s1Bw20">
@@ -3527,7 +3527,7 @@
 <LM>w#w-lnd92257-082-p18s1w2</LM>
 </w.rf>
 <form>MIROSLAV</form>
-<tag lemma="Miroslav_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Miroslav-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92257-082-p18s1w3">
 <src.rf>manual</src.rf>
@@ -4024,7 +4024,7 @@
 <LM>w#w-lnd92257-082-p27s1w2</LM>
 </w.rf>
 <form>EUGENE</form>
-<tag lemma="Eugene-2_;Y_^(muž)" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Eugene-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92257-082-p27s1w3">
 <src.rf>manual</src.rf>
@@ -4178,7 +4178,7 @@
 <LM>w#w-lnd92257-082-p31s2w2</LM>
 </w.rf>
 <form>MARIE</form>
-<tag lemma="Marie-1_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Marie_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92257-082-p31s2w3">
 <src.rf>manual</src.rf>
@@ -4207,7 +4207,7 @@
 <form>SKLODOWSKÁ</form>
 <tag>
 <AM lemma="Sklodowský_;Y" src="orig">NNFS1-----A----</AM>
-<AM lemma="Sklodowská_;Y" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
+<AM lemma="Sklodowská_;Y_^(*1ý)" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 <AM lemma="Sklodowská_;Y" src="auto">NNFS5-----A----</AM>
 </tag>
 </m>
@@ -4290,7 +4290,7 @@
 <LM>w#w-lnd92257-082-p32s1w9</LM>
 </w.rf>
 <form>Nobelova</form>
-<tag lemma="Nobelův_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Nobelův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-lnd92257-082-p32s1w10">
 <src.rf>manual</src.rf>
@@ -4831,7 +4831,7 @@
 <LM>w#w-lnd92257-082-p41s1w3</LM>
 </w.rf>
 <form>BARNARD</form>
-<tag lemma="Barnard_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Barnard-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92257-082-p42s1">

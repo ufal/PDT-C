@@ -402,7 +402,7 @@
 <LM>w#w-ln95045-112-p3s1w3</LM>
 </w.rf>
 <form>Evropě</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln95045-112-p3s1w4">
 <src.rf>manual</src.rf>
@@ -806,7 +806,7 @@
 <LM>w#w-ln95045-112-p5s1w3</LM>
 </w.rf>
 <form>Evropě</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln95045-112-p5s1w4">
 <src.rf>manual</src.rf>

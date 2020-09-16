@@ -97,7 +97,7 @@
 <LM>w#w-lnd92258-064-p3s2w3</LM>
 </w.rf>
 <form>Výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92258-064-p3s2w4">
 <src.rf>manual</src.rf>
@@ -284,7 +284,7 @@
 <tag>
 <AM lemma="Tchung_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Tchung_;Y" src="manual">NNMS1-----A----</AM>
-<AM lemma="Tchung_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Tchung-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-064-p3s2w27">
@@ -293,7 +293,7 @@
 <LM>w#w-lnd92258-064-p3s2w27</LM>
 </w.rf>
 <form>Čeng</form>
-<tag lemma="Čeng_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čeng-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-064-p3s2w28">
 <src.rf>manual</src.rf>

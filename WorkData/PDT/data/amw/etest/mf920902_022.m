@@ -101,7 +101,7 @@
 <LM>w#w-mf920902-022-p2s1w7</LM>
 </w.rf>
 <form>delší</form>
-<tag lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">AAFS1----2A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFS1----2A----</tag>
 </m>
 <m id="m-mf920902-022-p2s1w8">
 <src.rf>manual</src.rf>
@@ -361,7 +361,7 @@
 <LM>w#w-mf920902-022-p2s3w4</LM>
 </w.rf>
 <form>nezaměstnanost</form>
-<tag lemma="nezaměstnanost-2_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="nezaměstnanost_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920902-022-p2s3w5">
 <src.rf>manual</src.rf>
@@ -591,7 +591,7 @@
 <LM>w#w-mf920902-022-p2s4w16</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-mf920902-022-p2s4w17">
 <src.rf>manual</src.rf>
@@ -942,7 +942,7 @@
 <LM>w#w-mf920902-022-p2s7w9</LM>
 </w.rf>
 <form>nezaměstnaností</form>
-<tag lemma="nezaměstnanost-2_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="nezaměstnanost_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-mf920902-022-p2s7w10">
 <src.rf>manual</src.rf>

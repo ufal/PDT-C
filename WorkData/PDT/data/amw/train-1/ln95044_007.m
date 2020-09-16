@@ -553,7 +553,7 @@
 <LM>w#w-ln95044-007-p3s2w12</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-ln95044-007-p3s2w13">
 <src.rf>manual</src.rf>

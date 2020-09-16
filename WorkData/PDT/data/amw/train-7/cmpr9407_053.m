@@ -264,7 +264,7 @@
 <LM>w#w-cmpr9407-053-p4s1w18</LM>
 </w.rf>
 <form>vypadat</form>
-<tag lemma="vypadat" src="orig" selected="1">Vf--------A-I--</tag>
+<tag lemma="vypadat-1_^(ty_vypadáš)" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-cmpr9407-053-p4s1w19">
 <src.rf>manual</src.rf>
@@ -434,7 +434,7 @@
 <LM>w#w-cmpr9407-053-p4s2w14</LM>
 </w.rf>
 <form>ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-cmpr9407-053-p4s2w15">
 <src.rf>manual</src.rf>
@@ -588,7 +588,7 @@
 <LM>w#w-cmpr9407-053-p5s1w12</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-cmpr9407-053-p5s1w13">
 <src.rf>manual</src.rf>
@@ -1080,7 +1080,7 @@
 <LM>w#w-cmpr9407-053-p5s4Bw12</LM>
 </w.rf>
 <form>zveřejněné</form>
-<tag lemma="zveřejněný_^(*3it)" src="orig" selected="1">AANS1----1A----</tag>
+<tag lemma="zveřejněný_^(*2t)_(*3it)" src="orig" selected="1">AANS1----1A----</tag>
 </m>
 <m id="m-cmpr9407-053-p5s4Bw13">
 <src.rf>manual</src.rf>
@@ -1157,7 +1157,7 @@
 <LM>w#w-cmpr9407-053-p6s1w5</LM>
 </w.rf>
 <form>správnou</form>
-<tag lemma="správný_^(podle_něj._měřítek;_př._chlap,_míra,...)" src="orig" selected="1">AAFS4----1A----</tag>
+<tag lemma="správný" src="orig" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-cmpr9407-053-p6s1w6">
 <src.rf>manual</src.rf>
@@ -1361,7 +1361,7 @@
 <LM>w#w-cmpr9407-053-p6s3Aw12</LM>
 </w.rf>
 <form>ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-cmpr9407-053-p6s3Aw13">
 <src.rf>manual</src.rf>
@@ -1387,7 +1387,7 @@
 <LM>w#w-cmpr9407-053-p6s3Bw2</LM>
 </w.rf>
 <form>vydání</form>
-<tag lemma="vydání-4_^(platit,_př._vydat_peníze,_v._se_ze_všeho)_(*5at-4)" src="orig" selected="1">NNNP1-----A----</tag>
+<tag lemma="vydání_^(*3at)" src="orig" selected="1">NNNP1-----A----</tag>
 </m>
 <m id="m-cmpr9407-053-p6s3Bw3">
 <src.rf>manual</src.rf>

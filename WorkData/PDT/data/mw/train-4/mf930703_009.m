@@ -734,7 +734,7 @@
 <LM>w#w-mf930703-009-p6s3w10</LM>
 </w.rf>
 <form>přisátí</form>
-<tag lemma="přisátí_^(*1)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="přisátí" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 </s>
 <s id="m-mf930703-009-p6s4">
@@ -956,7 +956,7 @@
 <LM>w#w-mf930703-009-p6s6w1</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrNS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS1----------</tag>
 </m>
 <m id="m-mf930703-009-p6s6w2">
 <src.rf>manual</src.rf>
@@ -975,7 +975,7 @@
 <LM>w#w-mf930703-009-p6s6w3</LM>
 </w.rf>
 <form>nemoci</form>
-<tag lemma="nemoc_^(choroba)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="nemoc" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930703-009-p6s6w4">
 <src.rf>manual</src.rf>

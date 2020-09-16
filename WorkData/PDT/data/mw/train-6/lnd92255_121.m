@@ -91,7 +91,7 @@
 <LM>w#w-lnd92255-121-p1s1w10</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-lnd92255-121-p1s1w11">
 <src.rf>manual</src.rf>

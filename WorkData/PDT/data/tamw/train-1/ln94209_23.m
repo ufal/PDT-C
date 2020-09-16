@@ -264,7 +264,7 @@
 <LM>w#w-ln94209-23-p2s1Bw15</LM>
 </w.rf>
 <form>nejlepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAFS7----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAFS7----3A----</tag>
 </m>
 <m id="m-ln94209-23-p2s1Bw16">
 <src.rf>manual</src.rf>

@@ -457,7 +457,7 @@
 <LM>w#w-mf920901-024-p2s4w1</LM>
 </w.rf>
 <form>Iniciátoři</form>
-<tag lemma="iniciátor" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="iniciátor-1" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf920901-024-p2s4w2">
 <src.rf>manual</src.rf>
@@ -940,7 +940,7 @@
 <LM>w#w-mf920901-024-p2s6w23</LM>
 </w.rf>
 <form>výbory</form>
-<tag lemma="výbor" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-mf920901-024-p2s6w24">
 <src.rf>manual</src.rf>
@@ -1396,7 +1396,7 @@
 <LM>w#w-mf920901-024-p2s9w5</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf920901-024-p2s9w6">
 <src.rf>manual</src.rf>
@@ -1420,7 +1420,7 @@
 <LM>w#w-mf920901-024-p2s9w8</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-mf920901-024-p2s9w9">
 <src.rf>manual</src.rf>

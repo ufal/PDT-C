@@ -105,7 +105,7 @@
 <LM>w#w-mf930701-137-p2s1w7</LM>
 </w.rf>
 <form>výbor</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930701-137-p2s1w8">
 <src.rf>manual</src.rf>
@@ -335,7 +335,7 @@
 <LM>w#w-mf930701-137-p2s2w3</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930701-137-p2s2w4">
 <src.rf>manual</src.rf>
@@ -521,7 +521,7 @@
 <LM>w#w-mf930701-137-p3s1w3</LM>
 </w.rf>
 <form>rovnost</form>
-<tag lemma="rovnost_^(přímý,_stejný,_spravedlivý)_(*3ý)" src="auto" selected="1">NNFS4-----A----</tag>
+<tag lemma="rovnost_^(*3ý)" src="auto" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf930701-137-p3s1w4">
 <src.rf>manual</src.rf>
@@ -569,7 +569,7 @@
 <LM>w#w-mf930701-137-p3s1w9</LM>
 </w.rf>
 <form>celnici</form>
-<tag lemma="celnice-2_^(místo_výkonu_služby)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="celnice_^(*3ík-1)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf930701-137-p3s1w10">
 <src.rf>manual</src.rf>

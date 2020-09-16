@@ -428,7 +428,7 @@
 <LM>w#w-vesm9303-037-p1s2w10</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-vesm9303-037-p1s2w11">
 <src.rf>manual</src.rf>
@@ -656,7 +656,7 @@
 <LM>w#w-vesm9303-037-p1s2w38</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-vesm9303-037-p1s2w39">
 <src.rf>manual</src.rf>
@@ -714,7 +714,7 @@
 <LM>w#w-vesm9303-037-p1s3w2</LM>
 </w.rf>
 <form>mne</form>
-<tag lemma="já_^(2./4.pád)" src="orig" selected="1">PP-S4--1-------</tag>
+<tag lemma="já" src="orig" selected="1">PP-S4--1-------</tag>
 </m>
 <m id="m-vesm9303-037-p1s3w3">
 <src.rf>manual</src.rf>
@@ -935,7 +935,7 @@
 <LM>w#w-vesm9303-037-p1s4w23</LM>
 </w.rf>
 <form>odpovědnosti</form>
-<tag lemma="odpovědnost_^(kdo_za_něco_odpovídá)_(*3ý)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="odpovědnost_^(*3ý)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-vesm9303-037-p1s4w24">
 <src.rf>manual</src.rf>

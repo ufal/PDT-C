@@ -233,7 +233,7 @@
 <LM>w#w-lnd92252-038-p3s3w3</LM>
 </w.rf>
 <form>zostření</form>
-<tag lemma="zostření_^(*2t)" src="auto" selected="1">NNNS4-----A----</tag>
+<tag lemma="zostření_^(*2t)_(*3it)" src="auto" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-lnd92252-038-p3s3w4">
 <src.rf>manual</src.rf>
@@ -723,7 +723,7 @@
 <LM>w#w-lnd92252-038-p3s5w4</LM>
 </w.rf>
 <form>události</form>
-<tag lemma="událost_,a_^(*3ý)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="událost" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92252-038-p3s5w5">
 <src.rf>manual</src.rf>
@@ -848,7 +848,7 @@
 <LM>w#w-lnd92252-038-p3s6w2</LM>
 </w.rf>
 <form>jmenovatelem</form>
-<tag lemma="jmenovatel" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="jmenovatel-1" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-lnd92252-038-p3s6w3">
 <src.rf>manual</src.rf>

@@ -46,7 +46,7 @@
 <LM>w#w-lnd91303-093-p1s1w4</LM>
 </w.rf>
 <form>jezdce</form>
-<tag lemma="jezdec" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="jezdec-1" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd91303-093-p1s1w5">
 <src.rf>manual</src.rf>
@@ -134,7 +134,7 @@
 <LM>w#w-lnd91303-093-p1s1w15</LM>
 </w.rf>
 <form>Kapské</form>
-<tag lemma="kapský_;G" src="orig" selected="1">AANS1----1A----</tag>
+<tag lemma="kapský" src="orig" selected="1">AANS1----1A----</tag>
 </m>
 <m id="m-lnd91303-093-p1s1w16">
 <src.rf>manual</src.rf>

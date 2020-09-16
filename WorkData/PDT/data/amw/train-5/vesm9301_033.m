@@ -155,7 +155,7 @@
 <LM>w#w-vesm9301-033-p2s1w11</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-vesm9301-033-p2s1w12">
 <src.rf>manual</src.rf>
@@ -497,7 +497,7 @@
 <LM>w#w-vesm9301-033-p3s1w14</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8YP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8YP4---------1</tag>
 </m>
 <m id="m-vesm9301-033-p3s1w15">
 <src.rf>manual</src.rf>

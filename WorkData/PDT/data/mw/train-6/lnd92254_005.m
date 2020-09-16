@@ -57,7 +57,7 @@
 <LM>w#w-lnd92254-005-p2s1w4</LM>
 </w.rf>
 <form>nevypadala</form>
-<tag lemma="vypadat" src="orig" selected="1">VpQW----R-NAI--</tag>
+<tag lemma="vypadat-1_^(ty_vypadáš)" src="orig" selected="1">VpQW----R-NAI--</tag>
 </m>
 <m id="m-lnd92254-005-p2s1w5">
 <src.rf>manual</src.rf>
@@ -464,7 +464,7 @@
 <LM>w#w-lnd92254-005-p2s3w19</LM>
 </w.rf>
 <form>nedala</form>
-<tag lemma="dát" src="orig" selected="1">VpQW----R-NAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VpQW----R-NAP--</tag>
 </m>
 <m id="m-lnd92254-005-p2s3w20">
 <src.rf>manual</src.rf>
@@ -1345,7 +1345,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1592,7 +1592,7 @@
 <LM>w#w-lnd92254-005-p3s6w10</LM>
 </w.rf>
 <form>Evropě</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd92254-005-p3s6w11">
 <src.rf>manual</src.rf>
@@ -1951,7 +1951,7 @@
 <LM>w#w-lnd92254-005-p4s1w18</LM>
 </w.rf>
 <form>roli</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="role_^(svitek_poslání_pozemek)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-lnd92254-005-p4s1w19">
 <src.rf>manual</src.rf>
@@ -2232,7 +2232,7 @@
 <LM>w#w-lnd92254-005-p4s4w10</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92254-005-p4s4w11">
 <src.rf>manual</src.rf>
@@ -2477,7 +2477,7 @@
 <LM>w#w-lnd92254-005-p4s5w12</LM>
 </w.rf>
 <form>naší</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS6-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS6-P1-------</tag>
 </m>
 <m id="m-lnd92254-005-p4s5w13">
 <src.rf>manual</src.rf>

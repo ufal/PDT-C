@@ -641,7 +641,7 @@
 <form>Subito</form>
 <tag>
 <AM lemma="subito_,t" src="auto">Db-------------</AM>
-<AM lemma="Subito_:K" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="Subito_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-090-p3s1w9">
@@ -933,7 +933,7 @@
 <LM>w#w-mf930702-090-p3s2w21</LM>
 </w.rf>
 <form>naši</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSMP1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSMP1-P1-------</tag>
 </m>
 <m id="m-mf930702-090-p3s2w22">
 <src.rf>manual</src.rf>
@@ -1207,7 +1207,7 @@
 <LM>w#w-mf930702-090-p3s3w23</LM>
 </w.rf>
 <form>nedá</form>
-<tag lemma="dát" src="orig" selected="1">VB-S---3P-NAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VB-S---3P-NAP--</tag>
 </m>
 <m id="m-mf930702-090-p3s3w24">
 <src.rf>manual</src.rf>

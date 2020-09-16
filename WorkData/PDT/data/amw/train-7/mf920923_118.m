@@ -681,7 +681,7 @@
 <LM>w#w-mf920923-118-p3s2w14</LM>
 </w.rf>
 <form>vytváření</form>
-<tag lemma="vytváření_,a_^(*2t)" src="auto" selected="1">NNNS2-----A----</tag>
+<tag lemma="vytváření_^(*2t)_(*3it)" src="auto" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-mf920923-118-p3s2w15">
 <src.rf>manual</src.rf>
@@ -947,7 +947,7 @@
 <LM>w#w-mf920923-118-p4s1w29</LM>
 </w.rf>
 <form>Evropě</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf920923-118-p4s1w30">
 <src.rf>manual</src.rf>
@@ -1061,7 +1061,7 @@
 <LM>w#w-mf920923-118-p4s2w5</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920923-118-p4s2w6">
 <src.rf>manual</src.rf>

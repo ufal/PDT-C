@@ -739,7 +739,7 @@
 <LM>w#w-lnd92258-145-p4s1w35</LM>
 </w.rf>
 <form>Krefeld</form>
-<tag lemma="Krefeld_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Krefeld-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-145-p4s1w36">
 <src.rf>manual</src.rf>
@@ -1012,7 +1012,7 @@
 </w.rf>
 <form>Weisswasseru</form>
 <tag>
-<AM lemma="Weisswasser-2_;G" src="orig" selected="1">NNIS2-----A----</AM>
+<AM lemma="Weisswasser_;G" src="orig" selected="1">NNIS2-----A----</AM>
 <AM lemma="Weisswasser_;Y" src="auto" recommended="1">NNMS3-----A---1</AM>
 <AM lemma="Weisswasser_;Y" src="auto">NNMS6-----A---1</AM>
 </tag>
@@ -1254,7 +1254,7 @@
 <LM>w#w-lnd92258-145-p7s1w26</LM>
 </w.rf>
 <form>jezdec</form>
-<tag lemma="jezdec" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="jezdec-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-145-p7s1w27">
 <src.rf>manual</src.rf>
@@ -1294,7 +1294,7 @@
 <LM>w#w-lnd92258-145-p7s1w31</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-lnd92258-145-p7s1w32">
 <src.rf>manual</src.rf>
@@ -2702,7 +2702,7 @@
 <LM>w#w-lnd92258-145-p13s3w19</LM>
 </w.rf>
 <form>Eger</form>
-<tag lemma="Eger_;G" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Eger-2_;G" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92258-145-p13s3w20">
 <src.rf>manual</src.rf>

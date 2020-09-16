@@ -21,7 +21,7 @@
 <form>Ohlášená</form>
 <tag>
 <AM lemma="ohlášený_,a_^(*4sit)" src="auto">AAFS1----1A----</AM>
-<AM lemma="ohlášený_^(*4sit)" src="manual" selected="1">AAFS1----1A----</AM>
+<AM lemma="ohlášený_^(*2t)_(*4sit)" src="manual" selected="1">AAFS1----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-021-p1s1w2">

@@ -43,7 +43,7 @@
 <LM>w#w-ln95046-061-p1s1w4</LM>
 </w.rf>
 <form>rozvodu</form>
-<tag lemma="rozvod-1_^(manželství)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="rozvod_^(manželství;vody)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95046-061-p1s1w5">
 <src.rf>manual</src.rf>
@@ -287,7 +287,7 @@
 <LM>w#w-ln95046-061-p2s2w5</LM>
 </w.rf>
 <form>rozvodovém</form>
-<tag lemma="rozvodový-1_^(souv._s_rozvodem_manželství)" src="orig" selected="1">AANS6----1A----</tag>
+<tag lemma="rozvodový_^(manželství;vody)" src="orig" selected="1">AANS6----1A----</tag>
 </m>
 <m id="m-ln95046-061-p2s2w6">
 <src.rf>manual</src.rf>
@@ -447,7 +447,7 @@
 <LM>w#w-ln95046-061-p2s2w25</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8NS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8NS4---------1</tag>
 </m>
 <m id="m-ln95046-061-p2s2w26">
 <src.rf>manual</src.rf>
@@ -731,7 +731,7 @@
 <LM>w#w-ln95046-061-p2s4w14</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln95046-061-p2s4w15">
 <src.rf>manual</src.rf>
@@ -765,7 +765,7 @@
 <LM>w#w-ln95046-061-p2s5w3</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95046-061-p2s5w4">
 <src.rf>manual</src.rf>
@@ -917,7 +917,7 @@
 <LM>w#w-ln95046-061-p2s5w22</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln95046-061-p2s5w23">
 <src.rf>manual</src.rf>

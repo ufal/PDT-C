@@ -61,7 +61,7 @@
 <LM>w#w-ln95041-056-p2s1Aw1</LM>
 </w.rf>
 <form>Norfolk</form>
-<tag lemma="Norfolk_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Norfolk_;G_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95041-056-p2s1Aw2">
 <src.rf>manual</src.rf>
@@ -175,7 +175,7 @@
 <LM>w#w-ln95041-056-p2s1Bw13</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-ln95041-056-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -318,7 +318,7 @@
 <LM>w#w-ln95041-056-p2s1Bw30</LM>
 </w.rf>
 <form>Norfolku</form>
-<tag lemma="Norfolk_;G" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Norfolk_;G_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln95041-056-p2s1Bw31">
 <src.rf>manual</src.rf>
@@ -384,7 +384,7 @@
 <LM>w#w-ln95041-056-p2s2w4</LM>
 </w.rf>
 <form>Norfolku</form>
-<tag lemma="Norfolk_;G" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Norfolk_;G_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln95041-056-p2s2w5">
 <src.rf>manual</src.rf>
@@ -620,7 +620,7 @@
 <LM>w#w-ln95041-056-p2s3w11</LM>
 </w.rf>
 <form>Norfolku</form>
-<tag lemma="Norfolk_;G" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Norfolk_;G_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95041-056-p2s3w12">
 <src.rf>manual</src.rf>

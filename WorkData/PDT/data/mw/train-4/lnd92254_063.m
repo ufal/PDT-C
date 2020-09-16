@@ -43,7 +43,7 @@
 <LM>w#w-lnd92254-063-p1s1w4</LM>
 </w.rf>
 <form>tchýní</form>
-<tag lemma="tchýně" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="tchýně_,s_^(^DD**tchyně)" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92254-063-p2s1">
@@ -271,7 +271,7 @@
 <LM>w#w-lnd92254-063-p2s2w9</LM>
 </w.rf>
 <form>dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92254-063-p2s2w10">
 <src.rf>manual</src.rf>
@@ -409,7 +409,7 @@
 <LM>w#w-lnd92254-063-p2s3w3</LM>
 </w.rf>
 <form>Jang</form>
-<tag lemma="Jang_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jang-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-063-p2s3w4">
 <src.rf>manual</src.rf>
@@ -522,7 +522,7 @@
 <LM>w#w-lnd92254-063-p2s3w16</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS7---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS7---------1</tag>
 </m>
 <m id="m-lnd92254-063-p2s3w17">
 <src.rf>manual</src.rf>
@@ -530,7 +530,7 @@
 <LM>w#w-lnd92254-063-p2s3w17</LM>
 </w.rf>
 <form>tchýní</form>
-<tag lemma="tchýně" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="tchýně_,s_^(^DD**tchyně)" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-lnd92254-063-p2s3w18">
 <src.rf>manual</src.rf>
@@ -594,7 +594,7 @@
 <LM>w#w-lnd92254-063-p2s3w26</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9NS4FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9NS4FS3-------</tag>
 </m>
 <m id="m-lnd92254-063-p2s3w27">
 <src.rf>manual</src.rf>
@@ -634,7 +634,7 @@
 <LM>w#w-lnd92254-063-p2s3w31</LM>
 </w.rf>
 <form>události</form>
-<tag lemma="událost_,a_^(*3ý)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="událost" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd92254-063-p2s3w32">
 <src.rf>manual</src.rf>
@@ -668,7 +668,7 @@
 <LM>w#w-lnd92254-063-p2s4w3</LM>
 </w.rf>
 <form>dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92254-063-p2s4w4">
 <src.rf>manual</src.rf>
@@ -1039,7 +1039,7 @@
 <LM>w#w-lnd92254-063-p2s6w15</LM>
 </w.rf>
 <form>masové</form>
-<tag lemma="masový-2_^(velký)" src="orig" selected="1">AAFP4----1A----</tag>
+<tag lemma="masový" src="orig" selected="1">AAFP4----1A----</tag>
 </m>
 <m id="m-lnd92254-063-p2s6w16">
 <src.rf>manual</src.rf>

@@ -412,7 +412,7 @@
 <LM>w#w-mf920922-075-p2s2w20</LM>
 </w.rf>
 <form>dál</form>
-<tag lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="dál-3_,s_^(také,_za_další)_(^DD**dále-3)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf920922-075-p2s2w21">
 <src.rf>manual</src.rf>
@@ -773,7 +773,7 @@
 <LM>w#w-mf920922-075-p2s5w5</LM>
 </w.rf>
 <form>druhý</form>
-<tag lemma="druhý" src="orig" selected="1">CrMS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrMS1----------</tag>
 </m>
 <m id="m-mf920922-075-p2s5w6">
 <src.rf>manual</src.rf>
@@ -869,7 +869,7 @@
 <LM>w#w-mf920922-075-p2s5w17</LM>
 </w.rf>
 <form>směny</form>
-<tag lemma="směna-2_^(pracovní;...)" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="směna_^(výměna_za_něco;pracovní)" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-mf920922-075-p2s5w18">
 <src.rf>manual</src.rf>

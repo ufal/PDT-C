@@ -195,7 +195,7 @@
 <LM>w#w-lnd92258-092-p2s2w2</LM>
 </w.rf>
 <form>události</form>
-<tag lemma="událost_,a_^(*3ý)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="událost" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-lnd92258-092-p2s2w3">
 <src.rf>manual</src.rf>

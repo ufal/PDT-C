@@ -609,7 +609,7 @@
 <tag>
 <AM lemma="Hammond_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Hammond_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Hammond_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Hammond-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="hammond_^(varhany)" src="auto">NNIS1-----A----</AM>
 <AM lemma="hammond_^(varhany)" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -707,7 +707,7 @@
 <AM lemma="první" src="auto">CrFP3----------</AM>
 <AM lemma="první" src="auto">CrIP3----------</AM>
 <AM lemma="první" src="auto">CrIS6----------</AM>
-<AM lemma="první" src="auto" recommended="1">CrIS7----------</AM>
+<AM lemma="první-1" src="auto" recommended="1">CrIS7----------</AM>
 <AM lemma="první" src="auto">CrMP3----------</AM>
 <AM lemma="první" src="auto">CrMS6----------</AM>
 <AM lemma="první" src="auto">CrMS7----------</AM>
@@ -2678,7 +2678,7 @@
 <tag>
 <AM lemma="práv_^(oprávněný)" src="auto">ACFS4-----A----</AM>
 <AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto">NNNS3-----A----</AM>
-<AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto" recommended="1">NNNS6-----A----</AM>
+<AM lemma="právo" src="auto" recommended="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2208-001-p1s10W6-Ta">
@@ -2922,7 +2922,7 @@
 <form>jejím</form>
 <tag>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP3FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9ZS6FS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9ZS6FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSZS7FS3-------</AM>
 </tag>
 </m>

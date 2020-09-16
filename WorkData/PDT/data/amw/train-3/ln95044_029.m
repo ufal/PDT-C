@@ -191,7 +191,7 @@
 <LM>w#w-ln95044-029-p2s1Bw18</LM>
 </w.rf>
 <form>nejlepšími</form>
-<tag lemma="dobrý" src="orig" selected="1">AAIP7----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAIP7----3A----</tag>
 </m>
 <m id="m-ln95044-029-p2s1Bw19">
 <src.rf>manual</src.rf>
@@ -353,7 +353,7 @@
 <LM>w#w-ln95044-029-p2s2w9</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-ln95044-029-p2s2w10">
 <src.rf>manual</src.rf>

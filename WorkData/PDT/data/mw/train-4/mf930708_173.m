@@ -506,7 +506,7 @@
 <LM>w#w-mf930708-173-p3s2w3</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf930708-173-p3s2w4">
 <src.rf>manual</src.rf>
@@ -602,7 +602,7 @@
 <LM>w#w-mf930708-173-p3s2w15</LM>
 </w.rf>
 <form>km</form>
-<tag lemma="km-1`kilometr" src="orig" selected="1">NNIXX-----A---b</tag>
+<tag lemma="kilometr" src="orig" selected="1">NNIXX-----A---b</tag>
 </m>
 <m id="m-mf930708-173-p3s2w16">
 <src.rf>manual</src.rf>
@@ -658,7 +658,7 @@
 <LM>w#w-mf930708-173-p3s2w22</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-mf930708-173-p3s2w23">
 <src.rf>manual</src.rf>
@@ -805,7 +805,7 @@
 <LM>w#w-mf930708-173-p3s2w40</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930708-173-p3s2w41">
 <src.rf>manual</src.rf>
@@ -823,7 +823,7 @@
 <LM>w#w-mf930708-173-p4s1w1</LM>
 </w.rf>
 <form>Mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-173-p4s1w2">
 <src.rf>manual</src.rf>
@@ -994,7 +994,7 @@
 <LM>w#w-mf930708-173-p4s1w22</LM>
 </w.rf>
 <form>jet</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="orig" selected="1">Vf--------A-I--</tag>
+<tag lemma="jet-1" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-mf930708-173-p4s1w23">
 <src.rf>manual</src.rf>
@@ -1376,7 +1376,7 @@
 <LM>w#w-mf930708-173-p5s1w13</LM>
 </w.rf>
 <form>Vyšném</form>
-<tag lemma="Vyšný_;G" src="orig" selected="1">AANS6----1A----</tag>
+<tag lemma="vyšný" src="orig" selected="1">AANS6----1A----</tag>
 </m>
 <m id="m-mf930708-173-p5s1w14">
 <src.rf>manual</src.rf>
@@ -1397,7 +1397,7 @@
 <LM>w#w-mf930708-173-p5s1w15</LM>
 </w.rf>
 <form>tajný</form>
-<tag lemma="tajný" src="orig" selected="1">AAIS4----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AAIS4----1A----</tag>
 </m>
 <m id="m-mf930708-173-p5s1w16">
 <src.rf>manual</src.rf>

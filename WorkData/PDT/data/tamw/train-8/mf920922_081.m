@@ -27,7 +27,7 @@
 <LM>w#w-mf920922-081-p1s1w2</LM>
 </w.rf>
 <form>Ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf920922-081-p1s1w3">
 <src.rf>manual</src.rf>
@@ -43,7 +43,7 @@
 <LM>w#w-mf920922-081-p1s1w4</LM>
 </w.rf>
 <form>zpochybněný</form>
-<tag lemma="zpochybněný_,s_^(*3it)" src="orig" selected="1">AAIS1----1A----</tag>
+<tag lemma="zpochybněný_^(*2t)_(*3it)" src="orig" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-mf920922-081-p1s1w5">
 <src.rf>manual</src.rf>

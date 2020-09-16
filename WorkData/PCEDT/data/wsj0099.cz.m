@@ -585,7 +585,7 @@
 <form>letoun</form>
 <tag>
 <AM lemma="letoun" src="auto">NNIS1-----A----</AM>
-<AM lemma="letoun" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="letoun-1" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="letoun" src="auto">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -1251,7 +1251,7 @@
 <tag>
 <AM lemma="tajná-2_^(*3ý-2)" src="auto">NNFP2-----A----</AM>
 <AM lemma="tajná-2_^(*3ý-2)" src="auto">NNFP6-----A----</AM>
-<AM lemma="tajný" src="auto" recommended="1">AAFP2----1A----</AM>
+<AM lemma="tajný-1" src="auto" recommended="1">AAFP2----1A----</AM>
 <AM lemma="tajný" src="auto">AAFP6----1A----</AM>
 <AM lemma="tajný" src="auto">AAIP2----1A----</AM>
 <AM lemma="tajný" src="auto">AAIP6----1A----</AM>

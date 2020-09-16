@@ -84,7 +84,7 @@
 <LM>w#w-ln95042-021-p1s1w9</LM>
 </w.rf>
 <form>umění</form>
-<tag lemma="umění_^(mít_schopnost_něco_dělat)_(*2t)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="umění_^(*2t)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln95042-021-p1s1w10">
 <src.rf>manual</src.rf>
@@ -228,7 +228,7 @@
 <LM>w#w-ln95042-021-p1s1w27</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln95042-021-p1s1w28">
 <src.rf>manual</src.rf>
@@ -398,7 +398,7 @@
 <LM>w#w-ln95042-021-p1s2w9</LM>
 </w.rf>
 <form>umění</form>
-<tag lemma="umění_^(mít_schopnost_něco_dělat)_(*2t)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="umění_^(*2t)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln95042-021-p1s2w10">
 <src.rf>manual</src.rf>
@@ -536,7 +536,7 @@
 <LM>w#w-ln95042-021-p1s3w14</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-ln95042-021-p1s3w15">
 <src.rf>manual</src.rf>
@@ -714,7 +714,7 @@
 <LM>w#w-ln95042-021-p1s4w3</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln95042-021-p1s4w4">
 <src.rf>manual</src.rf>
@@ -764,7 +764,7 @@
 <form>Odeon</form>
 <tag>
 <AM lemma="Odeon_;Y" src="orig">NNIS1-----A----</AM>
-<AM lemma="Odeon-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Odeon_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-021-p1s4w10">
@@ -799,7 +799,7 @@
 <LM>w#w-ln95042-021-p1s5w3</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-ln95042-021-p1s5w4">
 <src.rf>manual</src.rf>
@@ -823,7 +823,7 @@
 <LM>w#w-ln95042-021-p1s5w6</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FP4---------1</tag>
 </m>
 <m id="m-ln95042-021-p1s5w7">
 <src.rf>manual</src.rf>
@@ -1359,7 +1359,7 @@
 <LM>w#w-ln95042-021-p1s5w73</LM>
 </w.rf>
 <form>lety</form>
-<tag lemma="rok" src="orig" selected="1">NNNP7-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP7-----A----</tag>
 </m>
 <m id="m-ln95042-021-p1s5w74">
 <src.rf>manual</src.rf>

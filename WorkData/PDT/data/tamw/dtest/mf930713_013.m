@@ -112,7 +112,7 @@
 <LM>w#w-mf930713-013-p2s1w7</LM>
 </w.rf>
 <form>Breda</form>
-<tag lemma="Breda_;G" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Breda-2_;G_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930713-013-p2s1w8">
 <src.rf>manual</src.rf>
@@ -905,7 +905,7 @@
 <LM>w#w-mf930713-013-p4s4w20</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-mf930713-013-p4s4w21">
 <src.rf>manual</src.rf>
@@ -985,7 +985,7 @@
 <LM>w#w-mf930713-013-p4s4w30</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS7---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS7---------1</tag>
 </m>
 <m id="m-mf930713-013-p4s4w31">
 <src.rf>manual</src.rf>

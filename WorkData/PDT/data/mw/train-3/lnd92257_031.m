@@ -604,7 +604,7 @@
 <LM>w#w-lnd92257-031-p3s4w9</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd92257-031-p3s4w10">
 <src.rf>manual</src.rf>
@@ -688,7 +688,7 @@
 <LM>w#w-lnd92257-031-p3s4w19</LM>
 </w.rf>
 <form>modré</form>
-<tag lemma="modrý" src="orig" selected="1">AAFP4----1A----</tag>
+<tag lemma="modrý_;o" src="orig" selected="1">AAFP4----1A----</tag>
 </m>
 <m id="m-lnd92257-031-p3s4w20">
 <src.rf>manual</src.rf>
@@ -696,7 +696,7 @@
 <LM>w#w-lnd92257-031-p3s4w20</LM>
 </w.rf>
 <form>oči</form>
-<tag lemma="oko" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="oko-2" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-lnd92257-031-p3s4w21">
 <src.rf>manual</src.rf>
@@ -826,7 +826,7 @@
 <LM>w#w-lnd92257-031-p3s5w9</LM>
 </w.rf>
 <form>kořene</form>
-<tag lemma="kořen" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="kořen-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92257-031-p3s5w10">
 <src.rf>manual</src.rf>
@@ -932,7 +932,7 @@
 <LM>w#w-lnd92257-031-p3s6w5</LM>
 </w.rf>
 <form>modré</form>
-<tag lemma="modrý" src="orig" selected="1">AAFP4----1A----</tag>
+<tag lemma="modrý_;o" src="orig" selected="1">AAFP4----1A----</tag>
 </m>
 <m id="m-lnd92257-031-p3s6w6">
 <src.rf>manual</src.rf>
@@ -972,7 +972,7 @@
 <LM>w#w-lnd92257-031-p3s6w10</LM>
 </w.rf>
 <form>bílé</form>
-<tag lemma="bílý" src="orig" selected="1">AANS4----1A----</tag>
+<tag lemma="bílý_;o" src="orig" selected="1">AANS4----1A----</tag>
 </m>
 <m id="m-lnd92257-031-p3s6w11">
 <src.rf>manual</src.rf>
@@ -1004,7 +1004,7 @@
 <LM>w#w-lnd92257-031-p3s6w14</LM>
 </w.rf>
 <form>žlutou</form>
-<tag lemma="žlutý" src="orig" selected="1">AAFS4----1A----</tag>
+<tag lemma="žlutý_;o" src="orig" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-lnd92257-031-p3s6w15">
 <src.rf>manual</src.rf>
@@ -1028,7 +1028,7 @@
 <LM>w#w-lnd92257-031-p3s6w17</LM>
 </w.rf>
 <form>černošedý</form>
-<tag lemma="černošedý" src="orig" selected="1">AAIS4----1A----</tag>
+<tag lemma="černošedý_;o" src="orig" selected="1">AAIS4----1A----</tag>
 </m>
 <m id="m-lnd92257-031-p3s6w18">
 <src.rf>manual</src.rf>

@@ -244,7 +244,7 @@
 <LM>w#w-ln94204-46-p3s1w2</LM>
 </w.rf>
 <form>kurzy</form>
-<tag lemma="kurs" src="auto" selected="1">NNIP4-----A----</tag>
+<tag lemma="kurz" src="auto" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-ln94204-46-p3s1w3">
 <src.rf>manual</src.rf>
@@ -722,7 +722,7 @@
 <LM>w#w-ln94204-46-p5s1w4</LM>
 </w.rf>
 <form>vystavenou</form>
-<tag lemma="vystavený_^(např._potvrzení)_(*3it)" src="orig" selected="1">AAFS4----1A----</tag>
+<tag lemma="vystavený_^(*3it)" src="orig" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-ln94204-46-p5s1w5">
 <src.rf>manual</src.rf>
@@ -834,7 +834,7 @@
 <LM>w#w-ln94204-46-p5s1w18</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS1FS3-------</tag>
 </m>
 <m id="m-ln94204-46-p5s1w19">
 <src.rf>manual</src.rf>

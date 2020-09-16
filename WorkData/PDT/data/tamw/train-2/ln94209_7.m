@@ -119,7 +119,7 @@
 <LM>w#w-ln94209-7-p2s1Bw5</LM>
 </w.rf>
 <form>epoxidových</form>
-<tag lemma="epoxydový" src="orig" selected="1">AAFP2----1A----</tag>
+<tag lemma="epoxidový_,s_^(^DD**epoxydový)" src="orig" selected="1">AAFP2----1A----</tag>
 </m>
 <m id="m-ln94209-7-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -305,7 +305,7 @@
 <LM>w#w-ln94209-7-p2s2w7</LM>
 </w.rf>
 <form>potřeby</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-ln94209-7-p2s2w8">
 <src.rf>manual</src.rf>
@@ -549,7 +549,7 @@
 <LM>w#w-ln94209-7-p3s2w5</LM>
 </w.rf>
 <form>epoxidových</form>
-<tag lemma="epoxydový" src="orig" selected="1">AAFP2----1A----</tag>
+<tag lemma="epoxidový_,s_^(^DD**epoxydový)" src="orig" selected="1">AAFP2----1A----</tag>
 </m>
 <m id="m-ln94209-7-p3s2w6">
 <src.rf>manual</src.rf>
@@ -881,7 +881,7 @@
 <LM>w#w-ln94209-7-p4s2w1</LM>
 </w.rf>
 <form>Jejím</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS7FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS7FS3-------</tag>
 </m>
 <m id="m-ln94209-7-p4s2w2">
 <src.rf>manual</src.rf>
@@ -1634,7 +1634,7 @@
 <LM>w#w-ln94209-7-p6s1w4</LM>
 </w.rf>
 <form>epoxidových</form>
-<tag lemma="epoxydový" src="orig" selected="1">AAFP2----1A----</tag>
+<tag lemma="epoxidový_,s_^(^DD**epoxydový)" src="orig" selected="1">AAFP2----1A----</tag>
 </m>
 <m id="m-ln94209-7-p6s1w5">
 <src.rf>manual</src.rf>

@@ -968,7 +968,7 @@
 <LM>w#w-ln95042-093-p4s2w24</LM>
 </w.rf>
 <form>lepších</form>
-<tag lemma="dobrý" src="orig" selected="1">AAFP6----2A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAFP6----2A----</tag>
 </m>
 <m id="m-ln95042-093-p4s2w25">
 <src.rf>manual</src.rf>

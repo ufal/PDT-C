@@ -698,7 +698,7 @@
 <LM>w#w-mf930702-078-p3s4w3</LM>
 </w.rf>
 <form>Slovan</form>
-<tag lemma="Slovan-2_;m" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Slovan-2_;G_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930702-078-p3s4w4">
 <src.rf>manual</src.rf>
@@ -1234,7 +1234,7 @@
 <tag>
 <AM lemma="Bochum_;G" src="orig">NNXXX-----A----</AM>
 <AM lemma="Boch_;Y" src="auto">NNMP3-----A---6</AM>
-<AM lemma="Bochum_;G" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
+<AM lemma="Bochum-1_;G" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 <AM lemma="Bochum_;G" src="auto">NNFS4-----A----</AM>
 <AM lemma="Bochum_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Bochum_;G" src="auto">NNIS4-----A----</AM>

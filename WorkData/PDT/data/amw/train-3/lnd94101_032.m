@@ -277,7 +277,7 @@
 <LM>w#w-lnd94101-032-p1s3Aw18</LM>
 </w.rf>
 <form>dovážené</form>
-<tag lemma="dovážený_^(dokončit_vážení)_(*2t)" src="auto" selected="1">AAFP4----1A----</tag>
+<tag lemma="dovážený_^(*2t)_(*3it)" src="auto" selected="1">AAFP4----1A----</tag>
 </m>
 <m id="m-lnd94101-032-p1s3Aw19">
 <src.rf>manual</src.rf>
@@ -613,7 +613,7 @@
 <LM>w#w-lnd94101-032-p1s4w6</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS7----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS7----------</tag>
 </m>
 <m id="m-lnd94101-032-p1s4w7">
 <src.rf>manual</src.rf>

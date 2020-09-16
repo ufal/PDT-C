@@ -87,7 +87,7 @@
 <LM>w#w-ln95047-104-p2s1Bw2</LM>
 </w.rf>
 <form>druhý</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS4----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS4----------</tag>
 </m>
 <m id="m-ln95047-104-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -201,7 +201,7 @@
 <form>optimismus</form>
 <tag>
 <AM lemma="optimismus" src="orig">NNIS4-----A----</AM>
-<AM lemma="optimismus,s_^(^DD**optimizmus)" src="manual" selected="1">NNIS4-----A----</AM>
+<AM lemma="optimismus_,s_^(^DD**optimizmus)" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-104-p2s1Bw17">
@@ -338,7 +338,7 @@
 <LM>w#w-ln95047-104-p2s1Bw33</LM>
 </w.rf>
 <form>oka</form>
-<tag lemma="oko" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="oko-1" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln95047-104-p2s1Bw34">
 <src.rf>manual</src.rf>
@@ -824,7 +824,7 @@
 <LM>w#w-ln95047-104-p2s4w19</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-ln95047-104-p2s4w20">
 <src.rf>manual</src.rf>
@@ -946,7 +946,7 @@
 <LM>w#w-ln95047-104-p2s5w10</LM>
 </w.rf>
 <form>oka</form>
-<tag lemma="oko" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="oko-1" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln95047-104-p2s5w11">
 <src.rf>manual</src.rf>

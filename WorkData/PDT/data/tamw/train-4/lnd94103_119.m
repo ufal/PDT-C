@@ -246,7 +246,7 @@
 <LM>w#w-lnd94103-119-p1s1w29</LM>
 </w.rf>
 <form>naší</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS6-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS6-P1-------</tag>
 </m>
 <m id="m-lnd94103-119-p1s1w30">
 <src.rf>manual</src.rf>

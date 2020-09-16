@@ -259,7 +259,7 @@
 <LM>w#w-ln94201-30-p2s1w20</LM>
 </w.rf>
 <form>správních</form>
-<tag lemma="správní_^(např._poplatek;_rada;_řád;...)" src="orig" selected="1">AAIP2----1A----</tag>
+<tag lemma="správní_^(správní_rada;_řád)" src="orig" selected="1">AAIP2----1A----</tag>
 </m>
 <m id="m-ln94201-30-p2s1w21">
 <src.rf>manual</src.rf>
@@ -1767,7 +1767,7 @@
 <LM>w#w-ln94201-30-p4s1w2</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94201-30-p4s1w3">
 <src.rf>manual</src.rf>
@@ -2076,7 +2076,7 @@
 <LM>w#w-ln94201-30-p4s2w16</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrIS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS4----------</tag>
 </m>
 <m id="m-ln94201-30-p4s2w17">
 <src.rf>manual</src.rf>

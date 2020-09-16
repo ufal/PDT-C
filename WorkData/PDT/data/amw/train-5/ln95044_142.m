@@ -191,7 +191,7 @@
 <LM>w#w-ln95044-142-p1s3w1</LM>
 </w.rf>
 <form>Nobelovu</form>
-<tag lemma="Nobelův_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
+<tag lemma="Nobelův_;Y_^(*2)" src="orig" selected="1">AUFS4M---------</tag>
 </m>
 <m id="m-ln95044-142-p1s3w2">
 <src.rf>manual</src.rf>
@@ -315,7 +315,7 @@
 <LM>w#w-ln95044-142-p1s5w1</LM>
 </w.rf>
 <form>Prvním</form>
-<tag lemma="první" src="orig" selected="1">CrIS7----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS7----------</tag>
 </m>
 <m id="m-ln95044-142-p1s5w2">
 <src.rf>manual</src.rf>
@@ -980,7 +980,7 @@
 <LM>w#w-ln95044-142-p1s8w6</LM>
 </w.rf>
 <form>členové</form>
-<tag lemma="člen" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln95044-142-p1s8w7">
 <src.rf>manual</src.rf>
@@ -1092,7 +1092,7 @@
 <LM>w#w-ln95044-142-p1s8w20</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-ln95044-142-p1s8w21">
 <src.rf>manual</src.rf>
@@ -1148,7 +1148,7 @@
 <LM>w#w-ln95044-142-p1s8w27</LM>
 </w.rf>
 <form>členy</form>
-<tag lemma="člen" src="orig" selected="1">NNMP7-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-ln95044-142-p1s8w28">
 <src.rf>manual</src.rf>

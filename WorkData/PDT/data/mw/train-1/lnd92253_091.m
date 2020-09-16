@@ -218,7 +218,7 @@
 <LM>w#w-lnd92253-091-p3s1w19</LM>
 </w.rf>
 <form>Rákocziho</form>
-<tag lemma="Rákóczi_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Rákoczi_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92253-091-p3s1w20">
 <src.rf>manual</src.rf>

@@ -150,7 +150,7 @@
 <LM>w#w-lnd94101-115-p1s1w17</LM>
 </w.rf>
 <form>markraběte</form>
-<tag lemma="markrabě" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="markrabě-1" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-lnd94101-115-p1s1w18">
 <src.rf>manual</src.rf>

@@ -522,7 +522,7 @@
 <LM>w#w-ln95045-034-p2s4w6</LM>
 </w.rf>
 <form>vězením</form>
-<tag lemma="vězení_,a_^(místo_výkonu_trestu)" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="vězení_^(místo_výkonu_trestu)" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-ln95045-034-p2s4w7">
 <src.rf>manual</src.rf>

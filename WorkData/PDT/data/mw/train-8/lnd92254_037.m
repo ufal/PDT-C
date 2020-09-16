@@ -367,7 +367,7 @@
 <LM>w#w-lnd92254-037-p2s3w9</LM>
 </w.rf>
 <form>zastavení</form>
-<tag lemma="zastavení-1_^([také_z._se];_uvést_do_klidu:_auto,...)_(*5it-1)" src="orig" selected="1">NNNS3-----A----</tag>
+<tag lemma="zastavení_^(*3it)" src="orig" selected="1">NNNS3-----A----</tag>
 </m>
 <m id="m-lnd92254-037-p2s3w10">
 <src.rf>manual</src.rf>
@@ -441,7 +441,7 @@
 <LM>w#w-lnd92254-037-p2s4w6</LM>
 </w.rf>
 <form>moje</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSHP1-S1-------</tag>
+<tag lemma="můj" src="orig" selected="1">PSHP1-S1-------</tag>
 </m>
 <m id="m-lnd92254-037-p2s4w7">
 <src.rf>manual</src.rf>
@@ -473,7 +473,7 @@
 <LM>w#w-lnd92254-037-p2s4w10</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd92254-037-p2s4w11">
 <src.rf>manual</src.rf>
@@ -489,7 +489,7 @@
 <LM>w#w-lnd92254-037-p2s4w12</LM>
 </w.rf>
 <form>členů</form>
-<tag lemma="člen" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd92254-037-p2s4w13">
 <src.rf>manual</src.rf>

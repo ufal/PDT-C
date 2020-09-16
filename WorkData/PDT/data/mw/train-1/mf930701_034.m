@@ -29,7 +29,7 @@
 <form>konsorcium</form>
 <tag>
 <AM lemma="konsorcium" src="orig">NNNS1-----A----</AM>
-<AM lemma="konsorcium_,s_^(^DD**konzorcium)" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="konsorcium" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-034-p1s1w3">
@@ -162,7 +162,7 @@
 <form>konsorcium</form>
 <tag>
 <AM lemma="konsorcium" src="orig">NNNS1-----A----</AM>
-<AM lemma="konsorcium_,s_^(^DD**konzorcium)" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="konsorcium" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-034-p2s1w14">
@@ -531,7 +531,7 @@
 <LM>w#w-mf930701-034-p2s3w14</LM>
 </w.rf>
 <form>dlouhého</form>
-<tag lemma="dlouhý-1_^(fyz._délka;_př._dlouhá_tyč)" src="orig" selected="1">AAIS2----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-mf930701-034-p2s3w15">
 <src.rf>manual</src.rf>
@@ -925,7 +925,7 @@
 <form>konsorciu</form>
 <tag>
 <AM lemma="konsorcium" src="orig">NNNS6-----A----</AM>
-<AM lemma="konsorcium_,s_^(^DD**konzorcium)" src="manual" selected="1">NNNS6-----A----</AM>
+<AM lemma="konsorcium" src="manual" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-034-p2s6w3">

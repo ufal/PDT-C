@@ -380,7 +380,7 @@
 <LM>w#w-lnd94101-003-p1s5w4</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS1FS3-------</tag>
 </m>
 <m id="m-lnd94101-003-p1s5w5">
 <src.rf>manual</src.rf>
@@ -388,7 +388,7 @@
 <LM>w#w-lnd94101-003-p1s5w5</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-003-p1s5w6">
 <src.rf>manual</src.rf>
@@ -492,7 +492,7 @@
 <LM>w#w-lnd94101-003-p1s6w8</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-lnd94101-003-p1s6w9">
 <src.rf>manual</src.rf>

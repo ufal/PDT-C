@@ -273,7 +273,7 @@
 <LM>w#w-lnd92252-093-p2s2w5</LM>
 </w.rf>
 <form>prvního</form>
-<tag lemma="první" src="orig" selected="1">CrIS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS2----------</tag>
 </m>
 <m id="m-lnd92252-093-p2s2w6">
 <src.rf>manual</src.rf>
@@ -836,7 +836,7 @@
 <LM>w#w-lnd92252-093-p2s4w41</LM>
 </w.rf>
 <form>centru</form>
-<tag lemma="centr_^(sport:_přihrávka)" src="auto" selected="1">NNIS6-----A----</tag>
+<tag lemma="centr-1_^(sport_přihrávka)" src="auto" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-lnd92252-093-p2s4w42">
 <src.rf>manual</src.rf>
@@ -1351,7 +1351,7 @@
 <LM>w#w-lnd92252-093-p4s1w7</LM>
 </w.rf>
 <form>Čihák</form>
-<tag lemma="Čihák_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čihák-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-093-p4s1w8">
 <src.rf>manual</src.rf>

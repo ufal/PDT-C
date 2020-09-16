@@ -480,7 +480,7 @@
 <LM>w#w-lnd92259-050-p4s3w27</LM>
 </w.rf>
 <form>Boby</form>
-<tag lemma="Boby_;m" src="orig" selected="1">NNXXX-----A----</tag>
+<tag lemma="Boby-2_;m" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-lnd92259-050-p4s3w28">
 <src.rf>manual</src.rf>

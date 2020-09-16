@@ -139,7 +139,7 @@
 <LM>w#w-mf930703-015-p2s1w10</LM>
 </w.rf>
 <form>zelené</form>
-<tag lemma="zelený" src="orig" selected="1">AAFS6----1A----</tag>
+<tag lemma="zelený_;o" src="orig" selected="1">AAFS6----1A----</tag>
 </m>
 <m id="m-mf930703-015-p2s1w11">
 <src.rf>manual</src.rf>
@@ -345,7 +345,7 @@
 <LM>w#w-mf930703-015-p2s2w6</LM>
 </w.rf>
 <form>přijetím</form>
-<tag lemma="přijetí_^(*3mout)" src="auto" selected="1">NNNS7-----A----</tag>
+<tag lemma="přijetí_^(*1)_(*3mout)" src="auto" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-mf930703-015-p2s2w7">
 <src.rf>manual</src.rf>
@@ -353,7 +353,7 @@
 <LM>w#w-mf930703-015-p2s2w7</LM>
 </w.rf>
 <form>zpřísněného</form>
-<tag lemma="zpřísněný_^(*3it)" src="orig" selected="1">AAIS2----1A----</tag>
+<tag lemma="zpřísněný_^(*2t)_(*3it)" src="orig" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-mf930703-015-p2s2w8">
 <src.rf>manual</src.rf>

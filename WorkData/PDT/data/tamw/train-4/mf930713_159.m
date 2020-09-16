@@ -505,7 +505,7 @@
 <LM>w#w-mf930713-159-p3s1w34</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-mf930713-159-p3s1w35">
 <src.rf>manual</src.rf>

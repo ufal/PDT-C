@@ -1208,7 +1208,7 @@
 <LM>w#w-mf920922-129-p3s2w30</LM>
 </w.rf>
 <form>jakkoliv</form>
-<tag lemma="jakkoliv-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="jakkoliv-1_,s_^(^DD**jakkoli-1)" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf920922-129-p3s2w31">
 <src.rf>manual</src.rf>
@@ -1514,7 +1514,7 @@
 <LM>w#w-mf920922-129-p4s1w37</LM>
 </w.rf>
 <form>správným</form>
-<tag lemma="správný_^(podle_něj._měřítek;_př._chlap,_míra,...)" src="orig" selected="1">AAIS7----1A----</tag>
+<tag lemma="správný" src="orig" selected="1">AAIS7----1A----</tag>
 </m>
 <m id="m-mf920922-129-p4s1w38">
 <src.rf>manual</src.rf>
@@ -1586,7 +1586,7 @@
 <LM>w#w-mf920922-129-p4s1w46</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP6----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP6----------</tag>
 </m>
 <m id="m-mf920922-129-p4s1w47">
 <src.rf>manual</src.rf>
@@ -1610,7 +1610,7 @@
 <LM>w#w-mf920922-129-p4s1w49</LM>
 </w.rf>
 <form>hubenost</form>
-<tag lemma="hubenost_^([příliš]_štíhlý)_(*3ý)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="hubenost_^(*3ý)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf920922-129-p4s1w50">
 <src.rf>manual</src.rf>
@@ -1700,7 +1700,7 @@
 <LM>w#w-mf920922-129-p5s1w5</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920922-129-p5s1w6">
 <src.rf>manual</src.rf>
@@ -2336,7 +2336,7 @@
 <LM>w#w-mf920922-129-p5s5w6</LM>
 </w.rf>
 <form>Yorku</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="York-2_;G_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-mf920922-129-p5s5w7">
 <src.rf>manual</src.rf>
@@ -2344,7 +2344,7 @@
 <LM>w#w-mf920922-129-p5s5w7</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-129-p5s5w8">
 <src.rf>manual</src.rf>

@@ -38,7 +38,7 @@
 <LM>w#w-ln95048-105-p1s1w3</LM>
 </w.rf>
 <form>extremní</form>
-<tag lemma="extremní" src="orig" selected="1">AAIP4----1A----</tag>
+<tag lemma="extremní_,s_^(^DD**extrémní)" src="orig" selected="1">AAIP4----1A----</tag>
 </m>
 <m id="m-ln95048-105-p1s1w4">
 <src.rf>manual</src.rf>
@@ -142,7 +142,7 @@
 <LM>w#w-ln95048-105-p2s1Bw9</LM>
 </w.rf>
 <form>extremistickou</form>
-<tag lemma="extremistický" src="orig" selected="1">AAFS4----1A----</tag>
+<tag lemma="extremistický_,s_^(^DD**extrémistický)" src="orig" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-ln95048-105-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -833,7 +833,7 @@
 <LM>w#w-ln95048-105-p2s5w8</LM>
 </w.rf>
 <form>převzetí</form>
-<tag lemma="převzetí_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="převzetí_^(*3ít)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-ln95048-105-p2s5w9">
 <src.rf>manual</src.rf>
@@ -891,7 +891,7 @@
 <LM>w#w-ln95048-105-p2s6w2</LM>
 </w.rf>
 <form>orgány</form>
-<tag lemma="orgán" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-ln95048-105-p2s6w3">
 <src.rf>manual</src.rf>
@@ -939,7 +939,7 @@
 <LM>w#w-ln95048-105-p2s6w8</LM>
 </w.rf>
 <form>extremistickou</form>
-<tag lemma="extremistický" src="orig" selected="1">AAFS4----1A----</tag>
+<tag lemma="extremistický_,s_^(^DD**extrémistický)" src="orig" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-ln95048-105-p2s6w9">
 <src.rf>manual</src.rf>
@@ -1042,7 +1042,7 @@
 <LM>w#w-ln95048-105-p2s7w5</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln95048-105-p2s7w6">
 <src.rf>manual</src.rf>
@@ -1136,7 +1136,7 @@
 <LM>w#w-ln95048-105-p2s7w16</LM>
 </w.rf>
 <form>extremistických</form>
-<tag lemma="extremistický" src="orig" selected="1">AAFP2----1A----</tag>
+<tag lemma="extremistický_,s_^(^DD**extrémistický)" src="orig" selected="1">AAFP2----1A----</tag>
 </m>
 <m id="m-ln95048-105-p2s7w17">
 <src.rf>manual</src.rf>

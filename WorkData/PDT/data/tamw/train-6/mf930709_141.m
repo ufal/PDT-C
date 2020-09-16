@@ -298,7 +298,7 @@
 <LM>w#w-mf930709-141-p3s1w25</LM>
 </w.rf>
 <form>dny</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-mf930709-141-p3s1w26">
 <src.rf>manual</src.rf>
@@ -340,7 +340,7 @@
 <LM>w#w-mf930709-141-p3s2w4</LM>
 </w.rf>
 <form>bojí</form>
-<tag lemma="bát" src="orig" selected="1">VB-P---3P-AAI--</tag>
+<tag lemma="bát-1" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf930709-141-p3s2w5">
 <src.rf>manual</src.rf>
@@ -957,7 +957,7 @@
 <LM>w#w-mf930709-141-p4s3w9</LM>
 </w.rf>
 <form>obležení</form>
-<tag lemma="obležení_^(*4hnout)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="obležení" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf930709-141-p4s3w10">
 <src.rf>manual</src.rf>
@@ -1106,7 +1106,7 @@
 <LM>w#w-mf930709-141-p5s1w11</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-mf930709-141-p5s1w12">
 <src.rf>manual</src.rf>
@@ -1295,7 +1295,7 @@
 <LM>w#w-mf930709-141-p5s2w10</LM>
 </w.rf>
 <form>plazmy</form>
-<tag lemma="plazma" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="plazma-1" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930709-141-p5s2w11">
 <src.rf>manual</src.rf>
@@ -1411,7 +1411,7 @@
 <LM>w#w-mf930709-141-p6s1w2</LM>
 </w.rf>
 <form>zastavení</form>
-<tag lemma="zastavení-1_^([také_z._se];_uvést_do_klidu:_auto,...)_(*5it-1)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="zastavení_^(*3it)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf930709-141-p6s1w3">
 <src.rf>manual</src.rf>

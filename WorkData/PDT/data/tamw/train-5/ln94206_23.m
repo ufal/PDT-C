@@ -284,7 +284,7 @@
 <LM>w#w-ln94206-23-p2s2w7</LM>
 </w.rf>
 <form>mluvčího</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94206-23-p2s2w8">
 <src.rf>manual</src.rf>
@@ -316,7 +316,7 @@
 <LM>w#w-ln94206-23-p2s2w11</LM>
 </w.rf>
 <form>převzetí</form>
-<tag lemma="převzetí_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="převzetí_^(*3ít)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94206-23-p2s2w12">
 <src.rf>manual</src.rf>
@@ -430,7 +430,7 @@
 <LM>w#w-ln94206-23-p3s1w2</LM>
 </w.rf>
 <form>převzetí</form>
-<tag lemma="převzetí_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="orig" selected="1">NNNS3-----A----</tag>
+<tag lemma="převzetí_^(*3ít)" src="orig" selected="1">NNNS3-----A----</tag>
 </m>
 <m id="m-ln94206-23-p3s1w3">
 <src.rf>manual</src.rf>
@@ -2072,7 +2072,7 @@
 <LM>w#w-ln94206-23-p6s2w7</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94206-23-p6s2w8">
 <src.rf>manual</src.rf>

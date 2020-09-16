@@ -381,7 +381,7 @@
 <LM>w#w-ln94208-98-p2s1Cw29</LM>
 </w.rf>
 <form>správní</form>
-<tag lemma="správní_^(např._poplatek;_rada;_řád;...)" src="orig" selected="1">AAFS7----1A----</tag>
+<tag lemma="správní_^(správní_rada;_řád)" src="orig" selected="1">AAFS7----1A----</tag>
 </m>
 <m id="m-ln94208-98-p2s1Cw30">
 <src.rf>manual</src.rf>
@@ -389,7 +389,7 @@
 <LM>w#w-ln94208-98-p2s1Cw30</LM>
 </w.rf>
 <form>radou</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln94208-98-p2s1Cw31">
 <src.rf>manual</src.rf>
@@ -586,7 +586,7 @@
 <LM>w#w-ln94208-98-p2s2w12</LM>
 </w.rf>
 <form>jejímž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1ZS6FS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1ZS6FS3-------</tag>
 </m>
 <m id="m-ln94208-98-p2s2w13">
 <src.rf>manual</src.rf>
@@ -673,7 +673,7 @@
 <form>Cup</form>
 <tag>
 <AM lemma="Cup-1_;m_,t_^(pohár,_soutěž;_v_názvech)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Cup-1_;m_^(pohár,_soutěž;_v_názvech)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="cup-1_^(pohár)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-98-p2s2w23">
@@ -968,7 +968,7 @@
 <LM>w#w-ln94208-98-p3s1w5</LM>
 </w.rf>
 <form>mluvčími</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMP7-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-ln94208-98-p3s1w6">
 <src.rf>manual</src.rf>
@@ -1210,7 +1210,7 @@
 <LM>w#w-ln94208-98-p3s2w14</LM>
 </w.rf>
 <form>proto</form>
-<tag lemma="proto-2_^(dal_mu_co_proto,_tak_proto!)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="proto-2_^(proto_že)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94208-98-p3s2w15">
 <src.rf>manual</src.rf>
@@ -1250,7 +1250,7 @@
 <LM>w#w-ln94208-98-p3s2w20</LM>
 </w.rf>
 <form>image</form>
-<tag lemma="image" src="orig" selected="1">NNIXX-----A----</tag>
+<tag lemma="image-2" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln94208-98-p3s2w21">
 <src.rf>manual</src.rf>
@@ -1414,7 +1414,7 @@
 <LM>w#w-ln94208-98-p3s4w10</LM>
 </w.rf>
 <form>beranů</form>
-<tag lemma="beran" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="beran-1" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94208-98-p3s4w11">
 <src.rf>manual</src.rf>
@@ -1878,7 +1878,7 @@
 <LM>w#w-ln94208-98-p3s10w7</LM>
 </w.rf>
 <form>člena</form>
-<tag lemma="člen" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94208-98-p3s10w8">
 <src.rf>manual</src.rf>
@@ -1886,7 +1886,7 @@
 <LM>w#w-ln94208-98-p3s10w8</LM>
 </w.rf>
 <form>správní</form>
-<tag lemma="správní_^(např._poplatek;_rada;_řád;...)" src="orig" selected="1">AAFS2----1A----</tag>
+<tag lemma="správní_^(správní_rada;_řád)" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-ln94208-98-p3s10w9">
 <src.rf>manual</src.rf>
@@ -1894,7 +1894,7 @@
 <LM>w#w-ln94208-98-p3s10w9</LM>
 </w.rf>
 <form>rady</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94208-98-p3s10w10">
 <src.rf>manual</src.rf>

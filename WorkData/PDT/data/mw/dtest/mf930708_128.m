@@ -160,7 +160,7 @@
 <LM>w#w-mf930708-128-p2s1w17</LM>
 </w.rf>
 <form>stání</form>
-<tag lemma="stání_^(vyhrazené_místo,_př._pro_koně,_auta,...)" src="orig" selected="1">NNNS3-----A----</tag>
+<tag lemma="stání" src="orig" selected="1">NNNS3-----A----</tag>
 </m>
 <m id="m-mf930708-128-p2s1w18">
 <src.rf>manual</src.rf>
@@ -434,7 +434,7 @@
 <LM>w#w-mf930708-128-p4s1w6</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-mf930708-128-p4s1w7">
 <src.rf>manual</src.rf>
@@ -639,7 +639,7 @@
 <LM>w#w-mf930708-128-p4s2w11</LM>
 </w.rf>
 <form>druhým</form>
-<tag lemma="druhý" src="orig" selected="1">CrMS7----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrMS7----------</tag>
 </m>
 <m id="m-mf930708-128-p4s2w12">
 <src.rf>manual</src.rf>
@@ -873,7 +873,7 @@
 <LM>w#w-mf930708-128-p5s1w1</LM>
 </w.rf>
 <form>Lazio</form>
-<tag lemma="Lazio-2_;G" src="auto" selected="1">NNNS1-----A----</tag>
+<tag lemma="Lazio-2_;G_;m" src="auto" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf930708-128-p5s1w2">
 <src.rf>manual</src.rf>
@@ -1056,7 +1056,7 @@
 <form>hodně</form>
 <tag>
 <AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="hodně_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-128-p5s2w12">

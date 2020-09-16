@@ -200,7 +200,7 @@
 <LM>w#w-lnd91303-072-p1s2w6</LM>
 </w.rf>
 <form>Vy</form>
-<tag lemma="ty" src="orig" selected="1">PP-P1--2-------</tag>
+<tag lemma="vy" src="orig" selected="1">PP-P1--2-------</tag>
 </m>
 <m id="m-lnd91303-072-p1s2w7">
 <src.rf>manual</src.rf>
@@ -448,7 +448,7 @@
 <LM>w#w-lnd91303-072-p1s3w21</LM>
 </w.rf>
 <form>zaměstnání</form>
-<tag lemma="zaměstnání-1_^(všeob._význam:_činnost,_zaměstnání)_(*5at-1)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="zaměstnání_^(*3at)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-lnd91303-072-p1s3w22">
 <src.rf>manual</src.rf>

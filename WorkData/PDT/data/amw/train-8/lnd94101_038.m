@@ -409,7 +409,7 @@
 <LM>w#w-lnd94101-038-p1s2w12</LM>
 </w.rf>
 <form>správné</form>
-<tag lemma="správný_^(podle_něj._měřítek;_př._chlap,_míra,...)" src="orig" selected="1">AANS1----1A----</tag>
+<tag lemma="správný" src="orig" selected="1">AANS1----1A----</tag>
 </m>
 <m id="m-lnd94101-038-p1s2w13">
 <src.rf>manual</src.rf>
@@ -741,7 +741,7 @@
 <LM>w#w-lnd94101-038-p1s4w13</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-lnd94101-038-p1s4w14">
 <src.rf>manual</src.rf>

@@ -221,7 +221,7 @@
 <LM>w#w-lnd94104-134-p1s2w4</LM>
 </w.rf>
 <form>dlouhých</form>
-<tag lemma="dlouhý-1_^(fyz._délka;_př._dlouhá_tyč)" src="orig" selected="1">AAFP2----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFP2----1A----</tag>
 </m>
 <m id="m-lnd94104-134-p1s2w5">
 <src.rf>manual</src.rf>

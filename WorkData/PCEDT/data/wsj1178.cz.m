@@ -471,7 +471,7 @@
 <tag>
 <AM lemma="Lea_;Y" src="auto">NNFS1-----A----</AM>
 <AM lemma="Leo_;G" src="auto">NNNS2-----A----</AM>
-<AM lemma="Leo_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Leo-1_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Leo_;Y" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>
@@ -1492,7 +1492,7 @@
 <AM lemma="převzetí_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="auto">NNNS1-----A----</AM>
 <AM lemma="převzetí_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="auto">NNNS2-----A----</AM>
 <AM lemma="převzetí_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="auto">NNNS3-----A----</AM>
-<AM lemma="převzetí_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="auto" recommended="1">NNNS4-----A----</AM>
+<AM lemma="převzetí_^(*3ít)" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="převzetí_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="auto">NNNS5-----A----</AM>
 <AM lemma="převzetí_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="auto">NNNS6-----A----</AM>
 </tag>
@@ -2287,7 +2287,7 @@
 </w.rf>
 <form>třeba</form>
 <tag>
-<AM lemma="třeba-2" src="auto" selected="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto" recommended="1">TT-------------</AM>
 </tag>
 </m>
@@ -3102,7 +3102,7 @@
 <tag>
 <AM lemma="Illinois_;G" src="auto">NNIS2-----A----</AM>
 <AM lemma="Illinois_;G" src="auto">NNIS3-----A----</AM>
-<AM lemma="Illinois_;G" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="Illinois_;G_;m" src="auto" recommended="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1178-001-p1s7W24-Ta">
@@ -4871,7 +4871,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1178-001-p1s13W19-Ta">

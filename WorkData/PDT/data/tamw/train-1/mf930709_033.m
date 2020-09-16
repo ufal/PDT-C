@@ -163,7 +163,7 @@
 <LM>w#w-mf930709-033-p2s1Bw6</LM>
 </w.rf>
 <form>vydání</form>
-<tag lemma="vydání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="vydání_^(*3at)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-mf930709-033-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -333,7 +333,7 @@
 <LM>w#w-mf930709-033-p2s2w15</LM>
 </w.rf>
 <form>vydání</form>
-<tag lemma="vydání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="orig" selected="1">NNNS3-----A----</tag>
+<tag lemma="vydání_^(*3at)" src="orig" selected="1">NNNS3-----A----</tag>
 </m>
 <m id="m-mf930709-033-p2s2w16">
 <src.rf>manual</src.rf>
@@ -459,7 +459,7 @@
 <LM>w#w-mf930709-033-p2s3w12</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-mf930709-033-p2s3w13">
 <src.rf>manual</src.rf>
@@ -988,7 +988,7 @@
 <LM>w#w-mf930709-033-p3s2w14</LM>
 </w.rf>
 <form>vydání</form>
-<tag lemma="vydání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="vydání_^(*3at)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-mf930709-033-p3s2w15">
 <src.rf>manual</src.rf>
@@ -1086,7 +1086,7 @@
 <LM>w#w-mf930709-033-p3s3w7</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FP4---------1</tag>
 </m>
 <m id="m-mf930709-033-p3s3w8">
 <src.rf>manual</src.rf>
@@ -1356,7 +1356,7 @@
 <LM>w#w-mf930709-033-p4s1w27</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP3----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP3----------</tag>
 </m>
 <m id="m-mf930709-033-p4s1w28">
 <src.rf>manual</src.rf>
@@ -1580,7 +1580,7 @@
 <LM>w#w-mf930709-033-p4s2w25</LM>
 </w.rf>
 <form>stanovené</form>
-<tag lemma="stanovený_^(určit)_(*3it)" src="orig" selected="1">AAFS2----1A----</tag>
+<tag lemma="stanovený_^(*3it)" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-mf930709-033-p4s2w26">
 <src.rf>manual</src.rf>
@@ -1688,7 +1688,7 @@
 <form>datum</form>
 <tag>
 <AM lemma="datum_,h_,x" src="auto">NNIS1-----A----</AM>
-<AM lemma="datum_^(kalendářní)" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="datum-1_^(kalendářní)" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-033-p4s3w9">
@@ -1844,7 +1844,7 @@
 <LM>w#w-mf930709-033-p4s3w27</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf930709-033-p4s3w28">
 <src.rf>manual</src.rf>

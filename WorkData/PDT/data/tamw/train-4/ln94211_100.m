@@ -297,7 +297,7 @@
 <LM>w#w-ln94211-100-p2s2w12</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FXXFS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1FXXFS3-------</tag>
 </m>
 <m id="m-ln94211-100-p2s2w13">
 <src.rf>manual</src.rf>
@@ -419,7 +419,7 @@
 <LM>w#w-ln94211-100-p2s3w7</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-ln94211-100-p2s3w8">
 <src.rf>manual</src.rf>
@@ -467,7 +467,7 @@
 <LM>w#w-ln94211-100-p2s3w13</LM>
 </w.rf>
 <form>Smetanova</form>
-<tag lemma="Smetanův_;Y_^(*2a)" src="orig" selected="1">AUNS2M---------</tag>
+<tag lemma="Smetanův_;Y_^(*2)_(*2a)" src="orig" selected="1">AUNS2M---------</tag>
 </m>
 <m id="m-ln94211-100-p2s3w14">
 <src.rf>manual</src.rf>
@@ -528,7 +528,7 @@
 <LM>w#w-ln94211-100-p2s4w5</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94211-100-p2s4w6">
 <src.rf>manual</src.rf>
@@ -634,7 +634,7 @@
 <LM>w#w-ln94211-100-p3s1w9</LM>
 </w.rf>
 <form>podání</form>
-<tag lemma="podání_^(něco_[někomu]_[někam])_(*3at)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="podání_^(*3at)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-ln94211-100-p3s1w10">
 <src.rf>manual</src.rf>
@@ -642,7 +642,7 @@
 <LM>w#w-ln94211-100-p3s1w10</LM>
 </w.rf>
 <form>nejlepších</form>
-<tag lemma="dobrý" src="orig" selected="1">AAMP2----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAMP2----3A----</tag>
 </m>
 <m id="m-ln94211-100-p3s1w11">
 <src.rf>manual</src.rf>
@@ -1126,7 +1126,7 @@
 <LM>w#w-ln94211-100-p3s4w21</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-ln94211-100-p3s4w22">
 <src.rf>manual</src.rf>
@@ -1208,7 +1208,7 @@
 <LM>w#w-ln94211-100-p3s5w1</LM>
 </w.rf>
 <form>Svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-ln94211-100-p3s5w2">
 <src.rf>manual</src.rf>
@@ -1338,7 +1338,7 @@
 <LM>w#w-ln94211-100-p3s6w9</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-ln94211-100-p3s6w10">
 <src.rf>manual</src.rf>
@@ -1708,7 +1708,7 @@
 <LM>w#w-ln94211-100-p3s8w11</LM>
 </w.rf>
 <form>masové</form>
-<tag lemma="masový-2_^(velký)" src="orig" selected="1">AAFP1----1A----</tag>
+<tag lemma="masový" src="orig" selected="1">AAFP1----1A----</tag>
 </m>
 <m id="m-ln94211-100-p3s8w12">
 <src.rf>manual</src.rf>
@@ -1780,7 +1780,7 @@
 <LM>w#w-ln94211-100-p3s8w20</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln94211-100-p3s8w21">
 <src.rf>manual</src.rf>
@@ -1862,7 +1862,7 @@
 <LM>w#w-ln94211-100-p3s9w4</LM>
 </w.rf>
 <form>dané</form>
-<tag lemma="daný_^(*3át)" src="auto" selected="1">AAFS6----1A----</tag>
+<tag lemma="daný-1_^(*5át-1)" src="auto" selected="1">AAFS6----1A----</tag>
 </m>
 <m id="m-ln94211-100-p3s9w5">
 <src.rf>manual</src.rf>
@@ -1920,7 +1920,7 @@
 <form>Anthony</form>
 <tag>
 <AM lemma="Anthony_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Anthony_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Anthony_;Y_,s_^(^DD**Antony)" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-100-p3s9w12">
@@ -2351,7 +2351,7 @@
 <LM>w#w-ln94211-100-p4s2w10</LM>
 </w.rf>
 <form>nejlepším</form>
-<tag lemma="dobrý" src="orig" selected="1">AANS6----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AANS6----3A----</tag>
 </m>
 <m id="m-ln94211-100-p4s2w11">
 <src.rf>manual</src.rf>

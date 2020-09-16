@@ -117,7 +117,7 @@
 <LM>w#w-ln95047-017-p2s1Aw9</LM>
 </w.rf>
 <form>Boby</form>
-<tag lemma="Boby_;m" src="auto" selected="1">NNXXX-----A----</tag>
+<tag lemma="Boby-2_;m" src="auto" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln95047-017-p2s1Aw10">
 <src.rf>manual</src.rf>
@@ -379,7 +379,7 @@
 <LM>w#w-ln95047-017-p2s2w4</LM>
 </w.rf>
 <form>Boby</form>
-<tag lemma="Boby_;m" src="auto" selected="1">NNXXX-----A----</tag>
+<tag lemma="Boby-2_;m" src="auto" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln95047-017-p2s2w5">
 <src.rf>manual</src.rf>
@@ -507,7 +507,7 @@
 <LM>w#w-ln95047-017-p2s2w20</LM>
 </w.rf>
 <form>Slavii</form>
-<tag lemma="Slavia_;m" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Slavie_;m_,s_^(^DD**Slávie)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95047-017-p2s2w21">
 <src.rf>manual</src.rf>
@@ -1201,7 +1201,7 @@
 <LM>w#w-ln95047-017-p4s2w2</LM>
 </w.rf>
 <form>Slavie</form>
-<tag lemma="Slavia_;m" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Slavie_;m_,s_^(^DD**Slávie)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95047-017-p4s2w3">
 <src.rf>manual</src.rf>
@@ -2066,7 +2066,7 @@
 <LM>w#w-ln95047-017-p4s6w8</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-ln95047-017-p4s6w9">
 <src.rf>manual</src.rf>
@@ -2551,7 +2551,7 @@
 <LM>w#w-ln95047-017-p4s8w36</LM>
 </w.rf>
 <form>Boby</form>
-<tag lemma="Boby_;m" src="auto" selected="1">NNXXX-----A----</tag>
+<tag lemma="Boby-2_;m" src="auto" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln95047-017-p4s8w37">
 <src.rf>manual</src.rf>
@@ -2593,7 +2593,7 @@
 <LM>w#w-ln95047-017-p4s9w3</LM>
 </w.rf>
 <form>Slavie</form>
-<tag lemma="Slavia_;m" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Slavie_;m_,s_^(^DD**Slávie)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95047-017-p4s9w4">
 <src.rf>manual</src.rf>
@@ -2743,7 +2743,7 @@
 <LM>w#w-ln95047-017-p4s10w8</LM>
 </w.rf>
 <form>naši</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSMP1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSMP1-P1-------</tag>
 </m>
 <m id="m-ln95047-017-p4s10w9">
 <src.rf>manual</src.rf>
@@ -2892,7 +2892,7 @@
 <LM>w#w-ln95047-017-p4s11w6</LM>
 </w.rf>
 <form>mne</form>
-<tag lemma="já_^(2./4.pád)" src="orig" selected="1">PP-S4--1-------</tag>
+<tag lemma="já" src="orig" selected="1">PP-S4--1-------</tag>
 </m>
 <m id="m-ln95047-017-p4s11w7">
 <src.rf>manual</src.rf>

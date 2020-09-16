@@ -460,7 +460,7 @@
 <LM>w#w-ln94207-38-p2s3w6</LM>
 </w.rf>
 <form>kurzy</form>
-<tag lemma="kurs" src="auto" selected="1">NNIP1-----A----</tag>
+<tag lemma="kurz" src="auto" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-ln94207-38-p2s3w7">
 <src.rf>manual</src.rf>
@@ -625,7 +625,7 @@
 <LM>w#w-ln94207-38-p2s4w11</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94207-38-p2s4w12">
 <src.rf>manual</src.rf>

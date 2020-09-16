@@ -255,7 +255,7 @@
 <LM>w#w-ln94202-108-p2s2w8</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP3----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP3----------</tag>
 </m>
 <m id="m-ln94202-108-p2s2w9">
 <src.rf>manual</src.rf>
@@ -423,7 +423,7 @@
 <LM>w#w-ln94202-108-p3s1w9</LM>
 </w.rf>
 <form>jehož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P1XXXZS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXZS3-------</tag>
 </m>
 <m id="m-ln94202-108-p3s1w10">
 <src.rf>manual</src.rf>
@@ -705,7 +705,7 @@
 <form>Ajanty</form>
 <tag>
 <AM lemma="Ajanta_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="Ajanta-2_;Y" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="Ajanta_;G_;Y" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-108-p3s2w28">
@@ -1298,7 +1298,7 @@
 <LM>w#w-ln94202-108-p3s5w1</LM>
 </w.rf>
 <form>Nejlepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAFS1----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAFS1----3A----</tag>
 </m>
 <m id="m-ln94202-108-p3s5w2">
 <src.rf>manual</src.rf>
@@ -1508,7 +1508,7 @@
 <form>Ajanty</form>
 <tag>
 <AM lemma="Ajanta_;G" src="auto">NNFS2-----A----</AM>
-<AM lemma="Ajanta-2_;Y" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="Ajanta_;G_;Y" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-108-p4s2w10">

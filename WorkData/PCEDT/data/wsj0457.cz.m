@@ -1450,7 +1450,7 @@
 <AM lemma="stanovený_^(určit)_(*3it)" src="auto" recommended="1">AAFS2----1A----</AM>
 <AM lemma="stanovený_^(určit)_(*3it)" src="auto">AAFS3----1A----</AM>
 <AM lemma="stanovený_^(určit)_(*3it)" src="auto">AAFS6----1A----</AM>
-<AM lemma="stanovený_^(určit)_(*3it)" src="auto" selected="1">AAIP1----1A----</AM>
+<AM lemma="stanovený_^(*3it)" src="auto" selected="1">AAIP1----1A----</AM>
 <AM lemma="stanovený_^(určit)_(*3it)" src="auto">AAIP4----1A----</AM>
 <AM lemma="stanovený_^(určit)_(*3it)" src="auto">AAIP5----1A----</AM>
 <AM lemma="stanovený_^(určit)_(*3it)" src="auto">AAMP4----1A----</AM>
@@ -4537,7 +4537,7 @@
 <AM lemma="pozdní-2_^(v_roce,_ročním_období)" src="auto">AAFS5----1A----</AM>
 <AM lemma="pozdní-2_^(v_roce,_ročním_období)" src="auto">AAFS6----1A----</AM>
 <AM lemma="pozdní-2_^(v_roce,_ročním_období)" src="auto">AAFS7----1A----</AM>
-<AM lemma="pozdní-2_^(v_roce,_ročním_období)" src="auto" recommended="1">AAIP1----1A----</AM>
+<AM lemma="pozdní" src="auto" recommended="1">AAIP1----1A----</AM>
 <AM lemma="pozdní-2_^(v_roce,_ročním_období)" src="auto">AAIP4----1A----</AM>
 <AM lemma="pozdní-2_^(v_roce,_ročním_období)" src="auto">AAIP5----1A----</AM>
 <AM lemma="pozdní-2_^(v_roce,_ročním_období)" src="auto">AAIS1----1A----</AM>
@@ -6284,7 +6284,7 @@
 </w.rf>
 <form>indikátory</form>
 <tag>
-<AM lemma="indikátor" src="auto" recommended="1">NNIP1-----A----</AM>
+<AM lemma="indikátor-1" src="auto" recommended="1">NNIP1-----A----</AM>
 <AM lemma="indikátor" src="auto">NNIP4-----A----</AM>
 <AM lemma="indikátor" src="auto">NNIP5-----A----</AM>
 <AM lemma="indikátor" src="auto">NNIP7-----A----</AM>
@@ -7195,7 +7195,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0457-001-p1s25W20-Ta">
@@ -7860,7 +7860,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0457-001-p1s28W18-Ta">

@@ -35,7 +35,7 @@
 <LM>w#w-mf930709-024-p1s1w3</LM>
 </w.rf>
 <form>strážného</form>
-<tag lemma="strážný" src="orig" selected="1">AAMS4----1A----</tag>
+<tag lemma="strážný-2" src="orig" selected="1">AAMS4----1A----</tag>
 </m>
 </s>
 <s id="m-mf930709-024-p2s1A">
@@ -138,7 +138,7 @@
 <LM>w#w-mf930709-024-p2s1Bw7</LM>
 </w.rf>
 <form>strážného</form>
-<tag lemma="strážný" src="orig" selected="1">AAMS2----1A----</tag>
+<tag lemma="strážný-2" src="orig" selected="1">AAMS2----1A----</tag>
 </m>
 <m id="m-mf930709-024-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -390,7 +390,7 @@
 <LM>w#w-mf930709-024-p2s3w1</LM>
 </w.rf>
 <form>Strážnému</form>
-<tag lemma="strážný" src="orig" selected="1">AAMS3----1A----</tag>
+<tag lemma="strážný-2" src="orig" selected="1">AAMS3----1A----</tag>
 </m>
 <m id="m-mf930709-024-p2s3w2">
 <src.rf>manual</src.rf>

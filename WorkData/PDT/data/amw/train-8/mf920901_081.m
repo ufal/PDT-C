@@ -216,7 +216,7 @@
 <LM>w#w-mf920901-081-p2s2w15</LM>
 </w.rf>
 <form>Miroslav</form>
-<tag lemma="Miroslav_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Miroslav-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-081-p2s2w16">
 <src.rf>manual</src.rf>

@@ -844,7 +844,7 @@
 <LM>w#w-mf920923-133-p3s2w4</LM>
 </w.rf>
 <form>zastavením</form>
-<tag lemma="zastavení-1_^([také_z._se];_uvést_do_klidu:_auto,...)_(*5it-1)" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="zastavení_^(*3it)" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-mf920923-133-p3s2w5">
 <src.rf>manual</src.rf>
@@ -916,7 +916,7 @@
 <LM>w#w-mf920923-133-p3s2w13</LM>
 </w.rf>
 <form>pilotům</form>
-<tag lemma="pilot" src="orig" selected="1">NNMP3-----A----</tag>
+<tag lemma="pilot-1" src="orig" selected="1">NNMP3-----A----</tag>
 </m>
 <m id="m-mf920923-133-p3s2w14">
 <src.rf>manual</src.rf>

@@ -609,7 +609,7 @@
 <LM>w#w-mf930703-107-p2s4w14</LM>
 </w.rf>
 <form>faktorů</form>
-<tag lemma="faktor" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="faktor-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf930703-107-p2s4w15">
 <src.rf>manual</src.rf>
@@ -1004,7 +1004,7 @@
 <LM>w#w-mf930703-107-p2s5w21</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FP4---------1</tag>
 </m>
 <m id="m-mf930703-107-p2s5w22">
 <src.rf>manual</src.rf>

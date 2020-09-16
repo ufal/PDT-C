@@ -1010,7 +1010,7 @@
 <LM>w#w-lnd92257-033-p3s8w5</LM>
 </w.rf>
 <form>nesprávným</form>
-<tag lemma="správný_^(podle_něj._měřítek;_př._chlap,_míra,...)" src="orig" selected="1">AAIP3----1N----</tag>
+<tag lemma="správný" src="orig" selected="1">AAIP3----1N----</tag>
 </m>
 <m id="m-lnd92257-033-p3s8w6">
 <src.rf>manual</src.rf>

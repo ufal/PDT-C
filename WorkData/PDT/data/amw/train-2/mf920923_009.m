@@ -426,7 +426,7 @@
 <LM>w#w-mf920923-009-p2s1w34</LM>
 </w.rf>
 <form>gigantu</form>
-<tag lemma="gigant" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="gigant-1" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-mf920923-009-p2s1w35">
 <src.rf>manual</src.rf>
@@ -1059,7 +1059,7 @@
 <LM>w#w-mf920923-009-p3s3w9</LM>
 </w.rf>
 <form>třeba</form>
-<tag lemma="třeba-2" src="auto" selected="1">Db-------------</tag>
+<tag lemma="třeba-1" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf920923-009-p3s3w10">
 <src.rf>manual</src.rf>
@@ -1166,7 +1166,7 @@
 <LM>w#w-mf920923-009-p3s3w22</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf920923-009-p3s3w23">
 <src.rf>manual</src.rf>
@@ -1700,7 +1700,7 @@
 <LM>w#w-mf920923-009-p4s3w26</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920923-009-p4s3w27">
 <src.rf>manual</src.rf>
@@ -1801,7 +1801,7 @@
 <LM>w#w-mf920923-009-p4s4w6</LM>
 </w.rf>
 <form>lidem</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP3-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP3-----A----</tag>
 </m>
 <m id="m-mf920923-009-p4s4w7">
 <src.rf>manual</src.rf>
@@ -2295,7 +2295,7 @@
 <LM>w#w-mf920923-009-p5s1w17</LM>
 </w.rf>
 <form>gigantu</form>
-<tag lemma="gigant" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="gigant-1" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-mf920923-009-p5s1w18">
 <src.rf>manual</src.rf>

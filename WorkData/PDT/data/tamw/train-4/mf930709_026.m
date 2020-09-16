@@ -202,7 +202,7 @@
 <LM>w#w-mf930709-026-p2s1Bw14</LM>
 </w.rf>
 <form>stanovený</form>
-<tag lemma="stanovený_^(určit)_(*3it)" src="orig" selected="1">AAIS4----1A----</tag>
+<tag lemma="stanovený_^(*3it)" src="orig" selected="1">AAIS4----1A----</tag>
 </m>
 <m id="m-mf930709-026-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -322,7 +322,7 @@
 <LM>w#w-mf930709-026-p2s2w4</LM>
 </w.rf>
 <form>člen</form>
-<tag lemma="člen" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-026-p2s2w5">
 <src.rf>manual</src.rf>
@@ -713,7 +713,7 @@
 <LM>w#w-mf930709-026-p2s4w20</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS7----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS7----------</tag>
 </m>
 <m id="m-mf930709-026-p2s4w21">
 <src.rf>manual</src.rf>

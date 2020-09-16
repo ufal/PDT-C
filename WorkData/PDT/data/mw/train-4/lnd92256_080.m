@@ -91,7 +91,7 @@
 <LM>w#w-lnd92256-080-p2s1w4</LM>
 </w.rf>
 <form>představení</form>
-<tag lemma="představení-2_^(divadelní,_filmové_apod.)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="představení-1_^(*5it-1)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-lnd92256-080-p2s1w5">
 <src.rf>manual</src.rf>
@@ -144,7 +144,7 @@
 <LM>w#w-lnd92256-080-p2s1w10</LM>
 </w.rf>
 <form>nejlepších</form>
-<tag lemma="dobrý" src="orig" selected="1">AAIP2----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAIP2----3A----</tag>
 </m>
 <m id="m-lnd92256-080-p2s1w11">
 <src.rf>manual</src.rf>
@@ -240,7 +240,7 @@
 <LM>w#w-lnd92256-080-p2s1w22</LM>
 </w.rf>
 <form>Smetanovo</form>
-<tag lemma="Smetanův_;Y_^(*2a)" src="orig" selected="1">AUNS1M---------</tag>
+<tag lemma="Smetanův_;Y_^(*2)_(*2a)" src="orig" selected="1">AUNS1M---------</tag>
 </m>
 <m id="m-lnd92256-080-p2s1w23">
 <src.rf>manual</src.rf>
@@ -436,7 +436,7 @@
 <LM>w#w-lnd92256-080-p3s1w15</LM>
 </w.rf>
 <form>interpreta</form>
-<tag lemma="interpret" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="interpret-1" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92256-080-p3s1w16">
 <src.rf>manual</src.rf>
@@ -795,7 +795,7 @@
 <LM>w#w-lnd92256-080-p4s2w6</LM>
 </w.rf>
 <form>nemoci</form>
-<tag lemma="nemoc_^(choroba)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="nemoc" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd92256-080-p4s2w7">
 <src.rf>manual</src.rf>

@@ -135,7 +135,7 @@
 <LM>w#w-mf930713-015-p2s1Bw10</LM>
 </w.rf>
 <form>pilot</form>
-<tag lemma="pilot" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="pilot-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-015-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -562,7 +562,7 @@
 <LM>w#w-mf930713-015-p2s2w38</LM>
 </w.rf>
 <form>druhým</form>
-<tag lemma="druhý" src="orig" selected="1">CrMS7----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrMS7----------</tag>
 </m>
 <m id="m-mf930713-015-p2s2w39">
 <src.rf>manual</src.rf>
@@ -671,7 +671,7 @@
 <LM>w#w-mf930713-015-p2s3w8</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrNS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS4----------</tag>
 </m>
 <m id="m-mf930713-015-p2s3w9">
 <src.rf>manual</src.rf>

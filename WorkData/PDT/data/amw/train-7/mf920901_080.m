@@ -87,7 +87,7 @@
 <LM>w#w-mf920901-080-p2s2w5</LM>
 </w.rf>
 <form>činitele</form>
-<tag lemma="činitel" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="činitel-1" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf920901-080-p2s2w6">
 <src.rf>manual</src.rf>
@@ -265,7 +265,7 @@
 <LM>w#w-mf920901-080-p2s3w8</LM>
 </w.rf>
 <form>výtržnost</form>
-<tag lemma="výtržnost_,a_^(*3ý)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="výtržnost_^(*3ý)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf920901-080-p2s3w9">
 <src.rf>manual</src.rf>

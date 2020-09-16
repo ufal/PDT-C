@@ -321,7 +321,7 @@
 <LM>w#w-lnd92255-049-p2s3w4</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-049-p2s3w5">
 <src.rf>manual</src.rf>
@@ -573,7 +573,7 @@
 <LM>w#w-lnd92255-049-p2s6w2</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP2-P1-------</tag>
 </m>
 <m id="m-lnd92255-049-p2s6w3">
 <src.rf>manual</src.rf>
@@ -653,7 +653,7 @@
 <LM>w#w-lnd92255-049-p2s6w12</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92255-049-p2s6w13">
 <src.rf>manual</src.rf>

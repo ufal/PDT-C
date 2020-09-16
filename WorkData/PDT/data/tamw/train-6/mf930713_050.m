@@ -75,7 +75,7 @@
 <LM>w#w-mf930713-050-p1s1w8</LM>
 </w.rf>
 <form>hnutí</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf930713-050-p1s1w9">
 <src.rf>manual</src.rf>
@@ -439,7 +439,7 @@
 <LM>w#w-mf930713-050-p2s3w4</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-mf930713-050-p2s3w5">
 <src.rf>manual</src.rf>
@@ -604,7 +604,7 @@
 <LM>w#w-mf930713-050-p2s4w3</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-mf930713-050-p2s4w4">
 <src.rf>manual</src.rf>

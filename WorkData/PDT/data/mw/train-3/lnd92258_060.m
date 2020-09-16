@@ -19,7 +19,7 @@
 <LM>w#w-lnd92258-060-p1s1w1</LM>
 </w.rf>
 <form>Koka</form>
-<tag lemma="koka" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="koka-2" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92258-060-p1s1w2">
 <src.rf>manual</src.rf>
@@ -235,7 +235,7 @@
 <LM>w#w-lnd92258-060-p2s2w22</LM>
 </w.rf>
 <form>koky</form>
-<tag lemma="koka" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="koka-2" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92258-060-p2s2w23">
 <src.rf>manual</src.rf>
@@ -438,7 +438,7 @@
 <LM>w#w-lnd92258-060-p2s3w5</LM>
 </w.rf>
 <form>Zamora</form>
-<tag lemma="Zamora_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Zamora-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-060-p2s3w6">
 <src.rf>manual</src.rf>
@@ -582,7 +582,7 @@
 <LM>w#w-lnd92258-060-p2s3w24</LM>
 </w.rf>
 <form>koky</form>
-<tag lemma="koka" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="koka-2" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92258-060-p2s3w25">
 <src.rf>manual</src.rf>

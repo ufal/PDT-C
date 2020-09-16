@@ -180,7 +180,7 @@
 <AM lemma="handicapovaný_^(^GC**hendikepovat)_(*2t)" src="auto">AAIP2----1A----</AM>
 <AM lemma="handicapovaný_^(^GC**hendikepovat)_(*2t)" src="auto">AAIP6----1A----</AM>
 <AM lemma="handicapovaný_^(^GC**hendikepovat)_(*2t)" src="auto">AAMP2----1A----</AM>
-<AM lemma="handicapovaný_^(^GC**hendikepovat)_(*2t)" src="auto" recommended="1">AAMP6----1A----</AM>
+<AM lemma="handicapovaný_^(^DD**hendikepovaný)_(*2t)" src="auto" recommended="1">AAMP6----1A----</AM>
 <AM lemma="handicapovaný_^(^GC**hendikepovat)_(*2t)" src="auto">AANP2----1A----</AM>
 <AM lemma="handicapovaný_^(^GC**hendikepovat)_(*2t)" src="auto">AANP6----1A----</AM>
 </tag>
@@ -1203,7 +1203,7 @@
 <AM lemma="handicapovaný_^(^GC**hendikepovat)_(*2t)" src="auto">AAIP1----1A----</AM>
 <AM lemma="handicapovaný_^(^GC**hendikepovat)_(*2t)" src="auto">AAIP4----1A----</AM>
 <AM lemma="handicapovaný_^(^GC**hendikepovat)_(*2t)" src="auto">AAIP5----1A----</AM>
-<AM lemma="handicapovaný_^(^GC**hendikepovat)_(*2t)" src="auto" recommended="1">AAMP4----1A----</AM>
+<AM lemma="handicapovaný_^(^DD**hendikepovaný)_(*2t)" src="auto" recommended="1">AAMP4----1A----</AM>
 <AM lemma="handicapovaný_^(^GC**hendikepovat)_(*2t)" src="auto">AANP1----1A---6</AM>
 <AM lemma="handicapovaný_^(^GC**hendikepovat)_(*2t)" src="auto">AANP4----1A---6</AM>
 <AM lemma="handicapovaný_^(^GC**hendikepovat)_(*2t)" src="auto">AANP5----1A---6</AM>
@@ -1890,7 +1890,7 @@
 <AM lemma="handicapovaný_^(^GC**hendikepovat)_(*2t)" src="auto">AAIP2----1A----</AM>
 <AM lemma="handicapovaný_^(^GC**hendikepovat)_(*2t)" src="auto">AAIP6----1A----</AM>
 <AM lemma="handicapovaný_^(^GC**hendikepovat)_(*2t)" src="auto">AAMP2----1A----</AM>
-<AM lemma="handicapovaný_^(^GC**hendikepovat)_(*2t)" src="auto" recommended="1">AAMP6----1A----</AM>
+<AM lemma="handicapovaný_^(^DD**hendikepovaný)_(*2t)" src="auto" recommended="1">AAMP6----1A----</AM>
 <AM lemma="handicapovaný_^(^GC**hendikepovat)_(*2t)" src="auto">AANP2----1A----</AM>
 <AM lemma="handicapovaný_^(^GC**hendikepovat)_(*2t)" src="auto">AANP6----1A----</AM>
 </tag>
@@ -2117,7 +2117,7 @@
 </w.rf>
 <form>handicapovaní</form>
 <tag>
-<AM lemma="handicapovaný_^(^GC**hendikepovat)_(*2t)" src="auto" recommended="1">AAMP1----1A----</AM>
+<AM lemma="handicapovaný_^(^DD**hendikepovaný)_(*2t)" src="auto" recommended="1">AAMP1----1A----</AM>
 <AM lemma="handicapovaný_^(^GC**hendikepovat)_(*2t)" src="auto">AAMP5----1A----</AM>
 </tag>
 </m>
@@ -2157,7 +2157,7 @@
 </w.rf>
 <form>handicapovaných</form>
 <tag>
-<AM lemma="handicapovaný_^(^GC**hendikepovat)_(*2t)" src="auto" recommended="1">AAFP2----1A----</AM>
+<AM lemma="handicapovaný_^(^DD**hendikepovaný)_(*2t)" src="auto" recommended="1">AAFP2----1A----</AM>
 <AM lemma="handicapovaný_^(^GC**hendikepovat)_(*2t)" src="auto">AAFP6----1A----</AM>
 <AM lemma="handicapovaný_^(^GC**hendikepovat)_(*2t)" src="auto">AAIP2----1A----</AM>
 <AM lemma="handicapovaný_^(^GC**hendikepovat)_(*2t)" src="auto">AAIP6----1A----</AM>
@@ -2298,7 +2298,7 @@
 <AM lemma="první" src="auto">CrFP4----------</AM>
 <AM lemma="první" src="auto">CrFP5----------</AM>
 <AM lemma="první" src="auto">CrFS1----------</AM>
-<AM lemma="první" src="auto" recommended="1">CrFS2----------</AM>
+<AM lemma="první-1" src="auto" recommended="1">CrFS2----------</AM>
 <AM lemma="první" src="auto">CrFS3----------</AM>
 <AM lemma="první" src="auto">CrFS4----------</AM>
 <AM lemma="první" src="auto">CrFS5----------</AM>
@@ -2393,7 +2393,7 @@
 <AM lemma="tvůj_^(přivlast.)" src="auto">PSHS1-P2-------</AM>
 <AM lemma="tvůj_^(přivlast.)" src="auto">PSHS5-P2-------</AM>
 <AM lemma="tvůj_^(přivlast.)" src="auto">PSIP1-P2-------</AM>
-<AM lemma="tvůj_^(přivlast.)" src="auto" recommended="1">PSNS4-P2-------</AM>
+<AM lemma="váš" src="auto" recommended="1">PSNS4-P2-------</AM>
 <AM lemma="tvůj_^(přivlast.)" src="auto">PSXP4-P2-------</AM>
 <AM lemma="vacha_,a" src="auto">NNFS3-----A----</AM>
 <AM lemma="vacha_,a" src="auto">NNFS6-----A----</AM>
@@ -2407,7 +2407,7 @@
 <form>dítě</form>
 <tag>
 <AM lemma="dítě" src="auto">NNNS1-----A----</AM>
-<AM lemma="dítě" src="auto" recommended="1">NNNS4-----A----</AM>
+<AM lemma="dítě-1" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="dítě" src="auto">NNNS5-----A----</AM>
 </tag>
 </m>
@@ -2713,7 +2713,7 @@
 </w.rf>
 <form>postižení</form>
 <tag>
-<AM lemma="postižený_^(*4hnout)" src="auto" selected="1">AAMP1----1A----</AM>
+<AM lemma="postižený" src="auto" selected="1">AAMP1----1A----</AM>
 <AM lemma="postižený_^(*4hnout)" src="auto">AAMP5----1A----</AM>
 <AM lemma="postižení_^(*4hnout)" src="auto">NNNP1-----A----</AM>
 <AM lemma="postižení_^(*4hnout)" src="auto">NNNP2-----A----</AM>
@@ -2745,7 +2745,7 @@
 <form>Váš</form>
 <tag>
 <AM lemma="tvůj_^(přivlast.)" src="auto">PSIS4-P2-------</AM>
-<AM lemma="tvůj_^(přivlast.)" src="auto" recommended="1">PSYS1-P2-------</AM>
+<AM lemma="váš" src="auto" recommended="1">PSYS1-P2-------</AM>
 <AM lemma="tvůj_^(přivlast.)" src="auto">PSYS5-P2-------</AM>
 </tag>
 </m>
@@ -2922,7 +2922,7 @@
 <AM lemma="handicapovaný_^(^GC**hendikepovat)_(*2t)" src="auto">AAFP6----1A----</AM>
 <AM lemma="handicapovaný_^(^GC**hendikepovat)_(*2t)" src="auto">AAIP2----1A----</AM>
 <AM lemma="handicapovaný_^(^GC**hendikepovat)_(*2t)" src="auto">AAIP6----1A----</AM>
-<AM lemma="handicapovaný_^(^GC**hendikepovat)_(*2t)" src="auto" recommended="1">AAMP2----1A----</AM>
+<AM lemma="handicapovaný_^(^DD**hendikepovaný)_(*2t)" src="auto" recommended="1">AAMP2----1A----</AM>
 <AM lemma="handicapovaný_^(^GC**hendikepovat)_(*2t)" src="auto">AAMP6----1A----</AM>
 <AM lemma="handicapovaný_^(^GC**hendikepovat)_(*2t)" src="auto">AANP2----1A----</AM>
 <AM lemma="handicapovaný_^(^GC**hendikepovat)_(*2t)" src="auto">AANP6----1A----</AM>
@@ -3189,7 +3189,7 @@
 <AM lemma="handicapovaný_^(^GC**hendikepovat)_(*2t)" src="auto">AAIP1----1A----</AM>
 <AM lemma="handicapovaný_^(^GC**hendikepovat)_(*2t)" src="auto">AAIP4----1A----</AM>
 <AM lemma="handicapovaný_^(^GC**hendikepovat)_(*2t)" src="auto">AAIP5----1A----</AM>
-<AM lemma="handicapovaný_^(^GC**hendikepovat)_(*2t)" src="auto" recommended="1">AAMP4----1A----</AM>
+<AM lemma="handicapovaný_^(^DD**hendikepovaný)_(*2t)" src="auto" recommended="1">AAMP4----1A----</AM>
 <AM lemma="handicapovaný_^(^GC**hendikepovat)_(*2t)" src="auto">AANP1----1A---6</AM>
 <AM lemma="handicapovaný_^(^GC**hendikepovat)_(*2t)" src="auto">AANP4----1A---6</AM>
 <AM lemma="handicapovaný_^(^GC**hendikepovat)_(*2t)" src="auto">AANP5----1A---6</AM>

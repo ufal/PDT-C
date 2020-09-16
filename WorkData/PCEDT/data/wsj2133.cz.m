@@ -134,7 +134,7 @@
 <AM lemma="první" src="auto">CrNP4----------</AM>
 <AM lemma="první" src="auto">CrNP5----------</AM>
 <AM lemma="první" src="auto">CrNS1----------</AM>
-<AM lemma="první" src="auto" recommended="1">CrNS4----------</AM>
+<AM lemma="první-1" src="auto" recommended="1">CrNS4----------</AM>
 <AM lemma="první" src="auto">CrNS5----------</AM>
 </tag>
 </m>
@@ -425,7 +425,7 @@
 <AM lemma="point" src="auto" recommended="1">NNIS6-----A----</AM>
 <AM lemma="pointa" src="auto">NNFS4-----A----</AM>
 <AM lemma="Point_;G" src="manual">NNIS6-----A----</AM>
-<AM lemma="Point-2_;G" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="point" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2133-001-p1s0W32-Ta">
@@ -1032,7 +1032,7 @@
 <tag>
 <AM lemma="Lon_;Y" src="auto">NNMP1-----A---1</AM>
 <AM lemma="Lon_;Y" src="auto">NNMP5-----A---1</AM>
-<AM lemma="vloni_,s_^(^DD**vloni)" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="loni" src="auto" recommended="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2133-001-p1s3W2-Ta">
@@ -1152,7 +1152,7 @@
 <AM lemma="první" src="auto">CrNP4----------</AM>
 <AM lemma="první" src="auto">CrNP5----------</AM>
 <AM lemma="první" src="auto">CrNS1----------</AM>
-<AM lemma="první" src="auto" recommended="1">CrNS4----------</AM>
+<AM lemma="první-1" src="auto" recommended="1">CrNS4----------</AM>
 <AM lemma="první" src="auto">CrNS5----------</AM>
 </tag>
 </m>

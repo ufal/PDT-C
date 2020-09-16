@@ -281,7 +281,7 @@
 <LM>w#w-ln94203-92-p2s1w22</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln94203-92-p2s1w23">
 <src.rf>manual</src.rf>

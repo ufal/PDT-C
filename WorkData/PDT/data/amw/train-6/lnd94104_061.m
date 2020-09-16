@@ -256,7 +256,7 @@
 <LM>w#w-lnd94104-061-p1s4w2</LM>
 </w.rf>
 <form>zveřejněné</form>
-<tag lemma="zveřejněný_^(*3it)" src="orig" selected="1">AAIP1----1A----</tag>
+<tag lemma="zveřejněný_^(*2t)_(*3it)" src="orig" selected="1">AAIP1----1A----</tag>
 </m>
 <m id="m-lnd94104-061-p1s4w3">
 <src.rf>manual</src.rf>
@@ -853,7 +853,7 @@
 <LM>w#w-lnd94104-061-p1s6w16</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94104-061-p1s6w17">
 <src.rf>manual</src.rf>
@@ -1175,7 +1175,7 @@
 <LM>w#w-lnd94104-061-p1s8w7</LM>
 </w.rf>
 <form>Kapském</form>
-<tag lemma="kapský_;G" src="orig" selected="1">AANS6----1A----</tag>
+<tag lemma="kapský" src="orig" selected="1">AANS6----1A----</tag>
 </m>
 <m id="m-lnd94104-061-p1s8w8">
 <src.rf>manual</src.rf>
@@ -1199,7 +1199,7 @@
 <LM>w#w-lnd94104-061-p1s8w10</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrIS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS1----------</tag>
 </m>
 <m id="m-lnd94104-061-p1s8w11">
 <src.rf>manual</src.rf>
@@ -1281,7 +1281,7 @@
 <LM>w#w-lnd94104-061-p1s9w5</LM>
 </w.rf>
 <form>prvního</form>
-<tag lemma="první" src="orig" selected="1">CrMS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrMS4----------</tag>
 </m>
 <m id="m-lnd94104-061-p1s9w6">
 <src.rf>manual</src.rf>
@@ -2069,7 +2069,7 @@
 <LM>w#w-lnd94104-061-p1s15w4</LM>
 </w.rf>
 <form>Strany</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94104-061-p1s15w5">
 <src.rf>manual</src.rf>
@@ -2509,7 +2509,7 @@
 <LM>w#w-lnd94104-061-p1s16w31</LM>
 </w.rf>
 <form>lidi</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-lnd94104-061-p1s16w32">
 <src.rf>manual</src.rf>

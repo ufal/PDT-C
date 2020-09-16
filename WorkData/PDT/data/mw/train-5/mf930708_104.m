@@ -265,7 +265,7 @@
 <LM>w#w-mf930708-104-p2s1w28</LM>
 </w.rf>
 <form>ohlášených</form>
-<tag lemma="ohlášený_,a_^(*4sit)" src="auto" selected="1">AAFP2----1A----</tag>
+<tag lemma="ohlášený_^(*2t)_(*4sit)" src="auto" selected="1">AAFP2----1A----</tag>
 </m>
 <m id="m-mf930708-104-p2s1w29">
 <src.rf>manual</src.rf>
@@ -305,7 +305,7 @@
 <LM>w#w-mf930708-104-p2s1w33</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-mf930708-104-p2s1w34">
 <src.rf>manual</src.rf>
@@ -909,7 +909,7 @@
 <LM>w#w-mf930708-104-p2s5w4</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-mf930708-104-p2s5w5">
 <src.rf>manual</src.rf>

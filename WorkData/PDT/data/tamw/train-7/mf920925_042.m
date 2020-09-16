@@ -973,7 +973,7 @@
 <form>ohlášenou</form>
 <tag>
 <AM lemma="ohlášený_,a_^(*4sit)" src="auto">AAFS7----1A----</AM>
-<AM lemma="ohlášený_^(*4sit)" src="manual" selected="1">AAFS7----1A----</AM>
+<AM lemma="ohlášený_^(*2t)_(*4sit)" src="manual" selected="1">AAFS7----1A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-042-p3s3w4">

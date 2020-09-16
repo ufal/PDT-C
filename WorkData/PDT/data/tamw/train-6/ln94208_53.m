@@ -624,7 +624,7 @@
 <LM>w#w-ln94208-53-p2s4w5</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94208-53-p2s4w6">
 <src.rf>manual</src.rf>

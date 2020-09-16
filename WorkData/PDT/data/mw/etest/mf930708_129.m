@@ -125,7 +125,7 @@
 <LM>w#w-mf930708-129-p2s1w11</LM>
 </w.rf>
 <form>orgánů</form>
-<tag lemma="orgán" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf930708-129-p2s1w12">
 <src.rf>manual</src.rf>
@@ -239,7 +239,7 @@
 <LM>w#w-mf930708-129-p2s2w5</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="mluvčí-2" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930708-129-p2s2w6">
 <src.rf>manual</src.rf>

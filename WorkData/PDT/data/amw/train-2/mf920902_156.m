@@ -129,7 +129,7 @@
 <LM>w#w-mf920902-156-p2s2w2</LM>
 </w.rf>
 <form>nejhorší</form>
-<tag lemma="špatný" src="orig" selected="1">AAFS4----3A----</tag>
+<tag lemma="horší" src="orig" selected="1">AAFS4----3A----</tag>
 </m>
 <m id="m-mf920902-156-p2s2w3">
 <src.rf>manual</src.rf>
@@ -528,7 +528,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -991,7 +991,7 @@
 <LM>w#w-mf920902-156-p3s2w22</LM>
 </w.rf>
 <form>lepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAIP1----2A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAIP1----2A----</tag>
 </m>
 <m id="m-mf920902-156-p3s2w23">
 <src.rf>manual</src.rf>
@@ -1015,7 +1015,7 @@
 <LM>w#w-mf920902-156-p3s2w25</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-mf920902-156-p3s2w26">
 <src.rf>manual</src.rf>

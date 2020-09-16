@@ -40,7 +40,7 @@
 <tag>
 <AM lemma="Perca_;m" src="orig">NNFS1-----A----</AM>
 <AM lemma="Perca_;U_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Perca-2_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Perca-1_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-74-p2s1w3">

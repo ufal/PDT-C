@@ -348,7 +348,7 @@
 <LM>w#w-ln95045-113-p2s2w15</LM>
 </w.rf>
 <form>agresívní</form>
-<tag lemma="agresívní" src="orig" selected="1">AAFS3----1A----</tag>
+<tag lemma="agresívní_,s_^(^DD**agresivní)" src="orig" selected="1">AAFS3----1A----</tag>
 </m>
 <m id="m-ln95045-113-p2s2w16">
 <src.rf>manual</src.rf>
@@ -380,7 +380,7 @@
 <LM>w#w-ln95045-113-p2s2w19</LM>
 </w.rf>
 <form>politice</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-ln95045-113-p2s2w20">
 <src.rf>manual</src.rf>

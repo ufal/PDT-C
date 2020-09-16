@@ -659,7 +659,7 @@
 <LM>w#w-mf930708-175-p3s3w5</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FP4---------1</tag>
 </m>
 <m id="m-mf930708-175-p3s3w6">
 <src.rf>manual</src.rf>

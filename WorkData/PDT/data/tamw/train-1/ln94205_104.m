@@ -19,7 +19,7 @@
 <LM>w#w-ln94205-104-p1s1w1</LM>
 </w.rf>
 <form>Dny</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-ln94205-104-p1s1w2">
 <src.rf>manual</src.rf>
@@ -149,7 +149,7 @@
 <LM>w#w-ln94205-104-p2s1w12</LM>
 </w.rf>
 <form>Dny</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-ln94205-104-p2s1w13">
 <src.rf>manual</src.rf>
@@ -251,7 +251,7 @@
 <LM>w#w-ln94205-104-p2s2w9</LM>
 </w.rf>
 <form>umění</form>
-<tag lemma="umění_^(mít_schopnost_něco_dělat)_(*2t)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="umění_^(*2t)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln94205-104-p2s2w10">
 <src.rf>manual</src.rf>

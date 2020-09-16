@@ -59,7 +59,7 @@
 <LM>w#w-lnd92256-055-p1s1w6</LM>
 </w.rf>
 <form>nosič</form>
-<tag lemma="nosič" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="nosič-2" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92256-055-p1s1w7">
 <src.rf>manual</src.rf>

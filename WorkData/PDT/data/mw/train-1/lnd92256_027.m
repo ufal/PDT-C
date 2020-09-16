@@ -139,7 +139,7 @@
 <LM>w#w-lnd92256-027-p1s1w16</LM>
 </w.rf>
 <form>modelů</form>
-<tag lemma="model" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="model-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-lnd92256-027-p1s1w17">
 <src.rf>manual</src.rf>
@@ -171,7 +171,7 @@
 <LM>w#w-lnd92256-027-p1s1w20</LM>
 </w.rf>
 <form>MODEL</form>
-<tag lemma="model" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="model-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92256-027-p1s1w21">
 <src.rf>manual</src.rf>
@@ -349,7 +349,7 @@
 <LM>w#w-lnd92256-027-p1s2w19</LM>
 </w.rf>
 <form>modely</form>
-<tag lemma="model" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="model-1" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-lnd92256-027-p1s2w20">
 <src.rf>manual</src.rf>

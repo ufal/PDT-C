@@ -611,7 +611,7 @@
 <LM>w#w-mf930702-050-p3s2w10</LM>
 </w.rf>
 <form>datum</form>
-<tag lemma="datum_^(kalendářní)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="datum-1_^(kalendářní)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-mf930702-050-p3s2w11">
 <src.rf>manual</src.rf>
@@ -1500,7 +1500,7 @@
 <LM>w#w-mf930702-050-p4s6w19</LM>
 </w.rf>
 <form>práva</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNP4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNP4-----A----</tag>
 </m>
 <m id="m-mf930702-050-p4s6w20">
 <src.rf>manual</src.rf>

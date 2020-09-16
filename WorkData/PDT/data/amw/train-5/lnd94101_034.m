@@ -245,7 +245,7 @@
 <LM>w#w-lnd94101-034-p1s2w4</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS1FS3-------</tag>
 </m>
 <m id="m-lnd94101-034-p1s2w5">
 <src.rf>manual</src.rf>
@@ -253,7 +253,7 @@
 <LM>w#w-lnd94101-034-p1s2w5</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-034-p1s2w6">
 <src.rf>manual</src.rf>

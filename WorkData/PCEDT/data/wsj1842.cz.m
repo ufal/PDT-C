@@ -35,7 +35,7 @@
 <tag>
 <AM lemma="Warren_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Warren_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Warren_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Warren-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1842-001-p1s0W3-Ta">

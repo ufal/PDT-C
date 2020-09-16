@@ -57,7 +57,7 @@
 <LM>w#w-mf920924-027-p1s1w5</LM>
 </w.rf>
 <form>PRVNÍ</form>
-<tag lemma="první" src="orig" selected="1">CrIS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS1----------</tag>
 </m>
 <m id="m-mf920924-027-p1s1w6">
 <src.rf>manual</src.rf>
@@ -956,7 +956,7 @@
 <LM>w#w-mf920924-027-p2s4w2</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-mf920924-027-p2s4w3">
 <src.rf>manual</src.rf>

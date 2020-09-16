@@ -54,7 +54,7 @@
 <LM>w#w-lnd92258-021-p1s1w5</LM>
 </w.rf>
 <form>NE</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-lnd92258-021-p1s1w6">
 <src.rf>manual</src.rf>

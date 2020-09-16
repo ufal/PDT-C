@@ -1340,7 +1340,7 @@
 <tag>
 <AM lemma="Odeon_;Y" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Odeon_;Y" src="auto">NNIS4-----A----</AM>
-<AM lemma="Odeon-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Odeon_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1894-001-p1s3W4-Ta">
@@ -1814,7 +1814,7 @@
 <tag>
 <AM lemma="Odeon_;Y" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Odeon_;Y" src="auto">NNIS4-----A----</AM>
-<AM lemma="Odeon-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Odeon_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1894-001-p1s4W21-Ta">
@@ -2255,7 +2255,7 @@
 <tag>
 <AM lemma="Odeon_;Y" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Odeon_;Y" src="auto">NNIS4-----A----</AM>
-<AM lemma="Odeon-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Odeon_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1894-001-p1s5W7-Ta">
@@ -2292,7 +2292,7 @@
 </w.rf>
 <form>svůj</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8IS4----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8IS4----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8YS1----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8YS5----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOYS-----------</AM>

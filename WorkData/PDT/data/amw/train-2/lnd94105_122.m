@@ -54,7 +54,7 @@
 <LM>w#w-lnd94105-122-p1s1w5</LM>
 </w.rf>
 <form>Nejlepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAIP1----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAIP1----3A----</tag>
 </m>
 <m id="m-lnd94105-122-p1s1w6">
 <src.rf>manual</src.rf>

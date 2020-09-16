@@ -472,7 +472,7 @@
 <LM>w#w-ln95049-003-p2s2w8</LM>
 </w.rf>
 <form>představení</form>
-<tag lemma="představení-1_^(si_něco;_něco/někoho_někomu)_(*5it-1)" src="orig" selected="1">NNNS3-----A----</tag>
+<tag lemma="představení-1_^(*5it-1)" src="orig" selected="1">NNNS3-----A----</tag>
 </m>
 <m id="m-ln95049-003-p2s2w9">
 <src.rf>manual</src.rf>
@@ -756,7 +756,7 @@
 <LM>w#w-ln95049-003-p2s4w4</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln95049-003-p2s4w5">
 <src.rf>manual</src.rf>
@@ -852,7 +852,7 @@
 <LM>w#w-ln95049-003-p2s4w16</LM>
 </w.rf>
 <form>jejího</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS2FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS2FS3-------</tag>
 </m>
 <m id="m-ln95049-003-p2s4w17">
 <src.rf>manual</src.rf>
@@ -2334,7 +2334,7 @@
 <LM>w#w-ln95049-003-p5s2w2</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-ln95049-003-p5s2w3">
 <src.rf>manual</src.rf>
@@ -2651,7 +2651,7 @@
 <LM>w#w-ln95049-003-p6s1w16</LM>
 </w.rf>
 <form>našeho</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSZS2-P1-------</tag>
 </m>
 <m id="m-ln95049-003-p6s1w17">
 <src.rf>manual</src.rf>
@@ -2999,7 +2999,7 @@
 <LM>w#w-ln95049-003-p6s3w19</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln95049-003-p6s3w20">
 <src.rf>manual</src.rf>
@@ -3137,7 +3137,7 @@
 <LM>w#w-ln95049-003-p7s1w12</LM>
 </w.rf>
 <form>vypadat</form>
-<tag lemma="vypadat" src="orig" selected="1">Vf--------A-I--</tag>
+<tag lemma="vypadat-1_^(ty_vypadáš)" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln95049-003-p7s1w13">
 <src.rf>manual</src.rf>
@@ -3335,7 +3335,7 @@
 <LM>w#w-ln95049-003-p7s2w21</LM>
 </w.rf>
 <form>Halifaxu</form>
-<tag lemma="Halifax_;G" src="orig" selected="1">NNIS6-----A---1</tag>
+<tag lemma="Halifax-2_;G" src="orig" selected="1">NNIS6-----A---1</tag>
 </m>
 <m id="m-ln95049-003-p7s2w22">
 <src.rf>manual</src.rf>

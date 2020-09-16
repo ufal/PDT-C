@@ -166,7 +166,7 @@
 <LM>w#w-lnd92251-022-p2s2w11</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92251-022-p2s2w12">
 <src.rf>manual</src.rf>
@@ -174,7 +174,7 @@
 <LM>w#w-lnd92251-022-p2s2w12</LM>
 </w.rf>
 <form>členem</form>
-<tag lemma="člen" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd92251-022-p2s2w13">
 <src.rf>manual</src.rf>
@@ -190,7 +190,7 @@
 <LM>w#w-lnd92251-022-p2s2w14</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92251-022-p2s2w15">
 <src.rf>manual</src.rf>
@@ -312,7 +312,7 @@
 <LM>w#w-lnd92251-022-p2s3w6</LM>
 </w.rf>
 <form>roli</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="role_^(svitek_poslání_pozemek)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-lnd92251-022-p2s3w7">
 <src.rf>manual</src.rf>
@@ -442,7 +442,7 @@
 <LM>w#w-lnd92251-022-p2s4w2</LM>
 </w.rf>
 <form>členy</form>
-<tag lemma="člen" src="orig" selected="1">NNMP7-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-lnd92251-022-p2s4w3">
 <src.rf>manual</src.rf>
@@ -450,7 +450,7 @@
 <LM>w#w-lnd92251-022-p2s4w3</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92251-022-p2s4w4">
 <src.rf>manual</src.rf>
@@ -466,7 +466,7 @@
 <LM>w#w-lnd92251-022-p2s4w5</LM>
 </w.rf>
 <form>Hnutí</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-lnd92251-022-p2s4w6">
 <src.rf>manual</src.rf>
@@ -673,7 +673,7 @@
 <LM>w#w-lnd92251-022-p2s5w7</LM>
 </w.rf>
 <form>výbor</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92251-022-p2s5w8">
 <src.rf>manual</src.rf>

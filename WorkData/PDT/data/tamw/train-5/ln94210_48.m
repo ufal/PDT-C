@@ -798,7 +798,7 @@
 <form>Pražačce</form>
 <tag>
 <AM lemma="Pražačka_;G" src="orig">NNFS6-----A----</AM>
-<AM lemma="Pražačka-1_;G_^(Na_Pražačce)" src="manual" selected="1">NNFS6-----A----</AM>
+<AM lemma="Pražačka_;E_;G" src="manual" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-48-p4s1w6">
@@ -1181,7 +1181,7 @@
 <LM>w#w-ln94210-48-p4s5w2</LM>
 </w.rf>
 <form>my</form>
-<tag lemma="já" src="orig" selected="1">PP-P1--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P1--1-------</tag>
 </m>
 <m id="m-ln94210-48-p4s5w3">
 <src.rf>manual</src.rf>
@@ -1413,7 +1413,7 @@
 <LM>w#w-ln94210-48-p4s7w6</LM>
 </w.rf>
 <form>dá</form>
-<tag lemma="dát" src="orig" selected="1">VB-S---3P-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln94210-48-p4s7w7">
 <src.rf>manual</src.rf>
@@ -1960,7 +1960,7 @@
 <LM>w#w-ln94210-48-p4s11w6</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94210-48-p4s11w7">
 <src.rf>manual</src.rf>
@@ -2207,7 +2207,7 @@
 <LM>w#w-ln94210-48-p4s13w8</LM>
 </w.rf>
 <form>mužským</form>
-<tag lemma="mužský" src="orig" selected="1">AAMP3----1A----</tag>
+<tag lemma="mužský-1" src="orig" selected="1">AAMP3----1A----</tag>
 </m>
 <m id="m-ln94210-48-p4s13w9">
 <src.rf>manual</src.rf>
@@ -2339,7 +2339,7 @@
 <LM>w#w-ln94210-48-p5s2w3</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-ln94210-48-p5s2w4">
 <src.rf>manual</src.rf>

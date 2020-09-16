@@ -330,7 +330,7 @@
 <LM>w#w-lnd91301-049-p3s2w5</LM>
 </w.rf>
 <form>modely</form>
-<tag lemma="model" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="model-1" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-lnd91301-049-p3s2w6">
 <src.rf>manual</src.rf>

@@ -128,7 +128,7 @@
 <LM>w#w-vesm9301-037-p2s1w10</LM>
 </w.rf>
 <form>naší</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS2-P1-------</tag>
 </m>
 <m id="m-vesm9301-037-p2s1w11">
 <src.rf>manual</src.rf>
@@ -160,7 +160,7 @@
 <LM>w#w-vesm9301-037-p2s1w14</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-vesm9301-037-p2s1w15">
 <src.rf>manual</src.rf>
@@ -941,7 +941,7 @@
 <LM>w#w-vesm9301-037-p2s6w7</LM>
 </w.rf>
 <form>antisemitismu</form>
-<tag lemma="antisemitismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="antisemitismus_,s_^(^DD**antisemitizmus)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-vesm9301-037-p2s6w8">
 <src.rf>manual</src.rf>
@@ -1018,7 +1018,7 @@
 <LM>w#w-vesm9301-037-p2s7w5</LM>
 </w.rf>
 <form>členy</form>
-<tag lemma="člen" src="orig" selected="1">NNMP7-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-vesm9301-037-p2s7w6">
 <src.rf>manual</src.rf>
@@ -1232,7 +1232,7 @@
 <LM>w#w-vesm9301-037-p2s7w31</LM>
 </w.rf>
 <form>členem</form>
-<tag lemma="člen" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-vesm9301-037-p2s7w32">
 <src.rf>manual</src.rf>
@@ -1276,7 +1276,7 @@
 <form>Koryta</form>
 <tag>
 <AM lemma="koryto" src="orig">NNNS2-----A----</AM>
-<AM lemma="Koryta_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Koryta-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 </s>

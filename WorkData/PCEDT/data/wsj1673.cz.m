@@ -469,7 +469,7 @@
 </w.rf>
 <form>výborech</form>
 <tag>
-<AM lemma="výbor" src="auto" recommended="1">NNIP6-----A----</AM>
+<AM lemma="výbor-1" src="auto" recommended="1">NNIP6-----A----</AM>
 <AM lemma="výbor" src="auto">NNMP6-----A----</AM>
 </tag>
 </m>
@@ -643,7 +643,7 @@
 <form>výbory</form>
 <tag>
 <AM lemma="výbor" src="auto">NNIP1-----A----</AM>
-<AM lemma="výbor" src="auto" recommended="1">NNIP4-----A----</AM>
+<AM lemma="výbor-1" src="auto" recommended="1">NNIP4-----A----</AM>
 <AM lemma="výbor" src="auto">NNIP5-----A----</AM>
 <AM lemma="výbor" src="auto">NNIP7-----A----</AM>
 <AM lemma="výbor" src="auto">NNMP4-----A----</AM>
@@ -1316,7 +1316,7 @@
 <tag>
 <AM lemma="Virginie_;G" src="auto">NNFS3-----A----</AM>
 <AM lemma="Virginie_;G" src="auto">NNFS4-----A----</AM>
-<AM lemma="Virginie_;G" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="Virginie_;G_;Y" src="auto" recommended="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1673-001-p1s2W55-Ta">
@@ -1952,7 +1952,7 @@
 <form>stanovením</form>
 <tag>
 <AM lemma="stanovení_^(určit)_(*3it)" src="auto">NNNP3-----A----</AM>
-<AM lemma="stanovení_^(určit)_(*3it)" src="auto" recommended="1">NNNS7-----A----</AM>
+<AM lemma="stanovení_^(*3it)" src="auto" recommended="1">NNNS7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1673-001-p1s4W12-Ta">
@@ -3213,7 +3213,7 @@
 </w.rf>
 <form>výborů</form>
 <tag>
-<AM lemma="výbor" src="auto" recommended="1">NNIP2-----A----</AM>
+<AM lemma="výbor-1" src="auto" recommended="1">NNIP2-----A----</AM>
 <AM lemma="výbor" src="auto">NNMP2-----A----</AM>
 </tag>
 </m>

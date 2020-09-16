@@ -401,7 +401,7 @@
 <LM>w#w-cmpr9406-055-p4s1w5</LM>
 </w.rf>
 <form>intenzivní</form>
-<tag lemma="intenzívní" src="orig" selected="1">AAIS1----1A----</tag>
+<tag lemma="intenzivní_,s_^(^DD**intenzívní)" src="orig" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-cmpr9406-055-p4s1w6">
 <src.rf>manual</src.rf>
@@ -696,7 +696,7 @@
 <LM>w#w-cmpr9406-055-p4s3w16</LM>
 </w.rf>
 <form>Slávy</form>
-<tag lemma="Sláva-1_;Y_,h" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Sláva-1_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9406-055-p4s3w17">
 <src.rf>manual</src.rf>
@@ -1153,7 +1153,7 @@
 <LM>w#w-cmpr9406-055-p5s3w16</LM>
 </w.rf>
 <form>Slávy</form>
-<tag lemma="Sláva-1_;Y_,h" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Sláva-1_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9406-055-p5s3w17">
 <src.rf>manual</src.rf>
@@ -1606,7 +1606,7 @@
 <LM>w#w-cmpr9406-055-p6s3w16</LM>
 </w.rf>
 <form>Slávy</form>
-<tag lemma="Sláva-1_;Y_,h" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Sláva-1_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9406-055-p6s3w17">
 <src.rf>manual</src.rf>
@@ -1785,7 +1785,7 @@
 <LM>w#w-cmpr9406-055-p7s1Aw6</LM>
 </w.rf>
 <form>manažera</form>
-<tag lemma="manažer" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="manažer-1" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9406-055-p7s1Aw7">
 <src.rf>manual</src.rf>
@@ -1809,7 +1809,7 @@
 <LM>w#w-cmpr9406-055-p7s1Aw9</LM>
 </w.rf>
 <form>kurz</form>
-<tag lemma="kurs" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="kurz" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-055-p7s1Aw10">
 <src.rf>manual</src.rf>
@@ -2930,7 +2930,7 @@
 <LM>w#w-cmpr9406-055-p9s1w19</LM>
 </w.rf>
 <form>práva</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-cmpr9406-055-p9s1w20">
 <src.rf>manual</src.rf>
@@ -3026,7 +3026,7 @@
 <LM>w#w-cmpr9406-055-p9s1w31</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-cmpr9406-055-p9s1w32">
 <src.rf>manual</src.rf>
@@ -3034,7 +3034,7 @@
 <LM>w#w-cmpr9406-055-p9s1w32</LM>
 </w.rf>
 <form>spořitelny</form>
-<tag lemma="spořitelna_^(místo;_př._Česká_spořitelna)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="spořitelna" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-cmpr9406-055-p9s1w33">
 <src.rf>manual</src.rf>
@@ -3896,7 +3896,7 @@
 <LM>w#w-cmpr9406-055-p11s4w12</LM>
 </w.rf>
 <form>Milíčova</form>
-<tag lemma="Milíčův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Milíčův-1_;Y_^(*4-1)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-cmpr9406-055-p11s4w13">
 <src.rf>manual</src.rf>
@@ -4303,7 +4303,7 @@
 <LM>w#w-cmpr9406-055-p13s1w10</LM>
 </w.rf>
 <form>Milíčova</form>
-<tag lemma="Milíčův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Milíčův-1_;Y_^(*4-1)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-cmpr9406-055-p13s1w11">
 <src.rf>manual</src.rf>
@@ -4516,7 +4516,7 @@
 <LM>w#w-cmpr9406-055-p15s1w6</LM>
 </w.rf>
 <form>manažera</form>
-<tag lemma="manažer" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="manažer-1" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9406-055-p15s1w7">
 <src.rf>manual</src.rf>
@@ -4620,7 +4620,7 @@
 <LM>w#w-cmpr9406-055-p15s1w19</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-cmpr9406-055-p15s1w20">
 <src.rf>manual</src.rf>
@@ -4878,7 +4878,7 @@
 <LM>w#w-cmpr9406-055-p15s5w12</LM>
 </w.rf>
 <form>Milíčova</form>
-<tag lemma="Milíčův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Milíčův-1_;Y_^(*4-1)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-cmpr9406-055-p15s5w13">
 <src.rf>manual</src.rf>
@@ -5434,7 +5434,7 @@
 <LM>w#w-cmpr9406-055-p16s4w12</LM>
 </w.rf>
 <form>Milíčova</form>
-<tag lemma="Milíčův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Milíčův-1_;Y_^(*4-1)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-cmpr9406-055-p16s4w13">
 <src.rf>manual</src.rf>
@@ -5763,7 +5763,7 @@
 <LM>w#w-cmpr9406-055-p17s1w20</LM>
 </w.rf>
 <form>interview</form>
-<tag lemma="interview" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="interview-1" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-cmpr9406-055-p17s1w21">
 <src.rf>manual</src.rf>
@@ -5935,7 +5935,7 @@
 <LM>w#w-cmpr9406-055-p17s6w12</LM>
 </w.rf>
 <form>Milíčova</form>
-<tag lemma="Milíčův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Milíčův-1_;Y_^(*4-1)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-cmpr9406-055-p17s6w13">
 <src.rf>manual</src.rf>
@@ -6212,7 +6212,7 @@
 <LM>w#w-cmpr9406-055-p18s2w6</LM>
 </w.rf>
 <form>management</form>
-<tag lemma="management_^(vedení,_manažment;_angl.)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="management_,s_^(^DD**manažment)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-055-p18s2w7">
 <src.rf>manual</src.rf>
@@ -6268,7 +6268,7 @@
 <LM>w#w-cmpr9406-055-p18s2w13</LM>
 </w.rf>
 <form>management</form>
-<tag lemma="management_^(vedení,_manažment;_angl.)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="management_,s_^(^DD**manažment)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-055-p18s2w14">
 <src.rf>manual</src.rf>
@@ -6374,7 +6374,7 @@
 <LM>w#w-cmpr9406-055-p18s4w12</LM>
 </w.rf>
 <form>Milíčova</form>
-<tag lemma="Milíčův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Milíčův-1_;Y_^(*4-1)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-cmpr9406-055-p18s4w13">
 <src.rf>manual</src.rf>

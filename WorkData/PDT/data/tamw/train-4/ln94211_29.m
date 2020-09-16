@@ -1618,7 +1618,7 @@
 <LM>w#w-ln94211-29-p3s7w7</LM>
 </w.rf>
 <form>mluvčím</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94211-29-p3s7w8">
 <src.rf>manual</src.rf>

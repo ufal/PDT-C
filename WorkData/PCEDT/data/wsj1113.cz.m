@@ -139,7 +139,7 @@
 <form>převzetím</form>
 <tag>
 <AM lemma="převzetí_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="auto">NNNP3-----A----</AM>
-<AM lemma="převzetí_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="auto" recommended="1">NNNS7-----A----</AM>
+<AM lemma="převzetí_^(*3ít)" src="auto" recommended="1">NNNS7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1113-001-p1s0W13-Ta">
@@ -526,7 +526,7 @@
 <tag>
 <AM lemma="Georgias_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Georgias_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Georgia_;G" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Georgia_;G_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1113-001-p1s1W10-Ta">
@@ -597,7 +597,7 @@
 <LM>w#w-wsj1113-001-p1s2W2</LM>
 </w.rf>
 <form>Falcon</form>
-<tag lemma="Falcon_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="Falcon-1_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj1113-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -771,7 +771,7 @@
 <LM>w#w-wsj1113-001-p1s3W2</LM>
 </w.rf>
 <form>Falcon</form>
-<tag lemma="Falcon_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="Falcon-1_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj1113-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -884,7 +884,7 @@
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FP1---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FP4---------1</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8FS2---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8FS2---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS3---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS6---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8IP1---------1</AM>
@@ -1323,7 +1323,7 @@
 <LM>w#w-wsj1113-001-p1s4W11</LM>
 </w.rf>
 <form>Falcon</form>
-<tag lemma="Falcon_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag lemma="Falcon-1_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj1113-001-p1s4W12-Ta">
 <src.rf>tagger-a</src.rf>

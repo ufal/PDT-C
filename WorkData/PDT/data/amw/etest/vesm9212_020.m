@@ -483,7 +483,7 @@
 <LM>w#w-vesm9212-020-p4s1w7</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8MS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8MS4----------</tag>
 </m>
 <m id="m-vesm9212-020-p4s1w8">
 <src.rf>manual</src.rf>
@@ -1749,7 +1749,7 @@
 <LM>w#w-vesm9212-020-p7s1w24</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8YP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8YP4---------1</tag>
 </m>
 <m id="m-vesm9212-020-p7s1w25">
 <src.rf>manual</src.rf>
@@ -1857,7 +1857,7 @@
 <LM>w#w-vesm9212-020-p7s1w36</LM>
 </w.rf>
 <form>Tan</form>
-<tag lemma="Tan_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Tan-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9212-020-p7s1w37">
 <src.rf>manual</src.rf>
@@ -2019,7 +2019,7 @@
 <LM>w#w-vesm9212-020-p7s2w6</LM>
 </w.rf>
 <form>příjemný</form>
-<tag lemma="příjemný-1_^(všeob.,_poz._emoce)" src="orig" selected="1">AAIS4----1A----</tag>
+<tag lemma="příjemný_^(všeob.,_poz._emoce)" src="orig" selected="1">AAIS4----1A----</tag>
 </m>
 <m id="m-vesm9212-020-p7s2w7">
 <src.rf>manual</src.rf>
@@ -2583,7 +2583,7 @@
 <LM>w#w-vesm9212-020-p8s1w6</LM>
 </w.rf>
 <form>lidem</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP3-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP3-----A----</tag>
 </m>
 <m id="m-vesm9212-020-p8s1w7">
 <src.rf>manual</src.rf>
@@ -3182,7 +3182,7 @@
 <LM>w#w-vesm9212-020-p8s5w13</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-vesm9212-020-p8s5w14">
 <src.rf>manual</src.rf>
@@ -3323,7 +3323,7 @@
 <tag>
 <AM lemma="isoprinosin_;U" src="orig">NNIS4-----A----</AM>
 <AM lemma="izoprinosin_;U_,x" src="auto">NNIS1-----A----</AM>
-<AM lemma="izoprinosin_;U" src="auto" recommended="1" selected="1">NNIS4-----A----</AM>
+<AM lemma="isoprinosin_,s_^(^DD**izoprinosin)" src="auto" recommended="1" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-020-p8s6w11">
@@ -3522,7 +3522,7 @@
 <LM>w#w-vesm9212-020-p9s1w1</LM>
 </w.rf>
 <form>Stojí</form>
-<tag lemma="stát-4_^(něco_stojí_peníze)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-vesm9212-020-p9s1w2">
 <src.rf>manual</src.rf>
@@ -3634,7 +3634,7 @@
 <LM>w#w-vesm9212-020-p9s1w15</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-vesm9212-020-p9s1w16">
 <src.rf>manual</src.rf>

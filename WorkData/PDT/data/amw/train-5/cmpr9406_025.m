@@ -294,7 +294,7 @@
 <LM>w#w-cmpr9406-025-p5s1w7</LM>
 </w.rf>
 <form>ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 </s>
 <s id="m-cmpr9406-025-p6s1">
@@ -320,7 +320,7 @@
 <LM>w#w-cmpr9406-025-p6s1w3</LM>
 </w.rf>
 <form>mm</form>
-<tag lemma="mm-1`milimetr" src="orig" selected="1">NNIXX-----A---b</tag>
+<tag lemma="milimetr" src="orig" selected="1">NNIXX-----A---b</tag>
 </m>
 <m id="m-cmpr9406-025-p6s1w4">
 <src.rf>manual</src.rf>
@@ -718,7 +718,7 @@
 <LM>w#w-cmpr9406-025-p8s3w2</LM>
 </w.rf>
 <form>vaší</form>
-<tag lemma="tvůj_^(přivlast.)" src="orig" selected="1">PSFS6-P2-------</tag>
+<tag lemma="váš" src="orig" selected="1">PSFS6-P2-------</tag>
 </m>
 <m id="m-cmpr9406-025-p8s3w3">
 <src.rf>manual</src.rf>
@@ -766,7 +766,7 @@
 <LM>w#w-cmpr9406-025-p8s3w8</LM>
 </w.rf>
 <form>vaši</form>
-<tag lemma="tvůj_^(přivlast.)" src="orig" selected="1">PSFS4-P2-------</tag>
+<tag lemma="váš" src="orig" selected="1">PSFS4-P2-------</tag>
 </m>
 <m id="m-cmpr9406-025-p8s3w9">
 <src.rf>manual</src.rf>
@@ -896,7 +896,7 @@
 <LM>w#w-cmpr9406-025-p8s4w14</LM>
 </w.rf>
 <form>zkrácenou</form>
-<tag lemma="zkrácený_,a_^(*2t)" src="auto" selected="1">AAFS4----1A----</tag>
+<tag lemma="zkrácený_^(*4tit)" src="auto" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-cmpr9406-025-p8s4w15">
 <src.rf>manual</src.rf>
@@ -996,7 +996,7 @@
 <LM>w#w-cmpr9406-025-p8s6Aw3</LM>
 </w.rf>
 <form>druhého</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS2----------</tag>
 </m>
 <m id="m-cmpr9406-025-p8s6Aw4">
 <src.rf>manual</src.rf>

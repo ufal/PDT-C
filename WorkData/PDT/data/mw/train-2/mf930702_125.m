@@ -477,7 +477,7 @@
 <LM>w#w-mf930702-125-p4s1w5</LM>
 </w.rf>
 <form>zatčení</form>
-<tag lemma="zatčení_^(*4knout)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="zatčení" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-mf930702-125-p4s1w6">
 <src.rf>manual</src.rf>
@@ -557,7 +557,7 @@
 <LM>w#w-mf930702-125-p4s1w15</LM>
 </w.rf>
 <form>vězení</form>
-<tag lemma="vězení_,a_^(místo_výkonu_trestu)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="vězení_^(místo_výkonu_trestu)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-mf930702-125-p4s1w16">
 <src.rf>manual</src.rf>
@@ -1186,7 +1186,7 @@
 <LM>w#w-mf930702-125-p5s2w5</LM>
 </w.rf>
 <form>lety</form>
-<tag lemma="rok" src="orig" selected="1">NNNP7-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP7-----A----</tag>
 </m>
 <m id="m-mf930702-125-p5s2w6">
 <src.rf>manual</src.rf>

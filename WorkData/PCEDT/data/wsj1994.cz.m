@@ -557,7 +557,7 @@
 <AM lemma="druhý" src="auto">CrFP3----------</AM>
 <AM lemma="druhý" src="auto">CrIP3----------</AM>
 <AM lemma="druhý" src="auto">CrIS6---------7</AM>
-<AM lemma="druhý" src="auto" recommended="1">CrIS7----------</AM>
+<AM lemma="druhý`2" src="auto" recommended="1">CrIS7----------</AM>
 <AM lemma="druhý" src="auto">CrMP3----------</AM>
 <AM lemma="druhý" src="auto">CrMS6---------7</AM>
 <AM lemma="druhý" src="auto">CrMS7----------</AM>
@@ -595,7 +595,7 @@
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AAFP3----1A----</AM>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AAIP3----1A----</AM>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AAIS6----1A----</AM>
-<AM lemma="měsíční_^(lhůta;svit)" src="auto" recommended="1">AAIS7----1A----</AM>
+<AM lemma="měsíční" src="auto" recommended="1">AAIS7----1A----</AM>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AAMP3----1A----</AM>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AAMS6----1A----</AM>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AAMS7----1A----</AM>
@@ -2038,7 +2038,7 @@
 <tag>
 <AM lemma="první" src="auto">CrFP2----------</AM>
 <AM lemma="první" src="auto">CrFP6----------</AM>
-<AM lemma="první" src="auto" recommended="1">CrIP2----------</AM>
+<AM lemma="první-1" src="auto" recommended="1">CrIP2----------</AM>
 <AM lemma="první" src="auto">CrIP6----------</AM>
 <AM lemma="první" src="auto">CrMP2----------</AM>
 <AM lemma="první" src="auto">CrMP6----------</AM>

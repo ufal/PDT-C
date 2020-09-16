@@ -118,7 +118,7 @@
 <LM>w#w-vesm9301-011-p1s1w13</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-vesm9301-011-p1s1w14">
 <src.rf>manual</src.rf>
@@ -190,7 +190,7 @@
 <LM>w#w-vesm9301-011-p1s1w22</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-vesm9301-011-p1s1w23">
 <src.rf>manual</src.rf>

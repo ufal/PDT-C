@@ -280,7 +280,7 @@
 <LM>w#w-ln94210-23-p2s7w8</LM>
 </w.rf>
 <form>alikvotní</form>
-<tag lemma="alikvótní" src="orig" selected="1">AAIS1----1A----</tag>
+<tag lemma="alikvotní_,s_^(^DD**alikvótní)" src="orig" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-ln94210-23-p2s7w9">
 <src.rf>manual</src.rf>

@@ -596,7 +596,7 @@
 <LM>w#w-mf930701-097-p2s3w22</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-mf930701-097-p2s3w23">
 <src.rf>manual</src.rf>
@@ -1128,7 +1128,7 @@
 <LM>w#w-mf930701-097-p2s6w6</LM>
 </w.rf>
 <form>předané</form>
-<tag lemma="předaný-3_^(někomu_něco)_(*4t-3)" src="orig" selected="1">AAIP1----1A----</tag>
+<tag lemma="předaný_^(*2t)" src="orig" selected="1">AAIP1----1A----</tag>
 </m>
 <m id="m-mf930701-097-p2s6w7">
 <src.rf>manual</src.rf>
@@ -1160,7 +1160,7 @@
 <LM>w#w-mf930701-097-p2s6w10</LM>
 </w.rf>
 <form>Svazarmu</form>
-<tag lemma="Svazarm" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Svazarm_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930701-097-p2s6w11">
 <src.rf>manual</src.rf>

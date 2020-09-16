@@ -1048,7 +1048,7 @@
 <LM>w#w-mf920924-115-p2s6w3</LM>
 </w.rf>
 <form>nalezení</form>
-<tag lemma="nalezení-2_^(*7ézt-2)" src="auto" selected="1">NNNS1-----A----</tag>
+<tag lemma="nalezení" src="auto" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf920924-115-p2s6w4">
 <src.rf>manual</src.rf>

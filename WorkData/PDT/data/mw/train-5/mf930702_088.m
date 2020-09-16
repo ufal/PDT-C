@@ -152,7 +152,7 @@
 <LM>w#w-mf930702-088-p2s1w14</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrIS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS6----------</tag>
 </m>
 <m id="m-mf930702-088-p2s1w15">
 <src.rf>manual</src.rf>
@@ -391,7 +391,7 @@
 <form>Voda</form>
 <tag>
 <AM lemma="voda" src="orig">NNFS1-----A----</AM>
-<AM lemma="Voda-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Voda-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-088-p2s2w15">
@@ -909,7 +909,7 @@
 <LM>w#w-mf930702-088-p2s5w10</LM>
 </w.rf>
 <form>pana</form>
-<tag lemma="pan_^(oslovení)" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="pan" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930702-088-p2s5w11">
 <src.rf>manual</src.rf>
@@ -919,7 +919,7 @@
 <form>Vody</form>
 <tag>
 <AM lemma="Voda-1_;Y" src="orig">NNMS2-----A----</AM>
-<AM lemma="Voda-2_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Voda-1_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-088-p2s5w12">

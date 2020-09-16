@@ -221,7 +221,7 @@
 <LM>w#w-cmpr9416-028-p5s1w23</LM>
 </w.rf>
 <form>zdanitelných</form>
-<tag lemma="zdanitelný_^(vypočítat_daň)_(*4)" src="auto" selected="1">AAIP2----1A----</tag>
+<tag lemma="zdanitelný_^(*4)" src="auto" selected="1">AAIP2----1A----</tag>
 </m>
 <m id="m-cmpr9416-028-p5s1w24">
 <src.rf>manual</src.rf>
@@ -327,7 +327,7 @@
 <LM>w#w-cmpr9416-028-p6s1w9</LM>
 </w.rf>
 <form>podání</form>
-<tag lemma="podání_^(něco_[někomu]_[někam])_(*3at)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="podání_^(*3at)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-cmpr9416-028-p6s1w10">
 <src.rf>manual</src.rf>
@@ -442,7 +442,7 @@
 <LM>w#w-cmpr9416-028-p6s1w23</LM>
 </w.rf>
 <form>jehož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P1XXXZS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXZS3-------</tag>
 </m>
 <m id="m-cmpr9416-028-p6s1w24">
 <src.rf>manual</src.rf>
@@ -590,7 +590,7 @@
 <LM>w#w-cmpr9416-028-p6s1w41</LM>
 </w.rf>
 <form>jehož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P1XXXZS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXZS3-------</tag>
 </m>
 <m id="m-cmpr9416-028-p6s1w42">
 <src.rf>manual</src.rf>

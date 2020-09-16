@@ -439,7 +439,7 @@
 <LM>w#w-ln94201-12-p4s1w14</LM>
 </w.rf>
 <form>postižených</form>
-<tag lemma="postižený_^(*4hnout)" src="orig" selected="1">AAMP2----1A----</tag>
+<tag lemma="postižený" src="orig" selected="1">AAMP2----1A----</tag>
 </m>
 <m id="m-ln94201-12-p4s1w15">
 <src.rf>manual</src.rf>

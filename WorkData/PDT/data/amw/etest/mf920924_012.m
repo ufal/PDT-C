@@ -111,7 +111,7 @@
 <LM>w#w-mf920924-012-p63s1w6</LM>
 </w.rf>
 <form>Regina</form>
-<tag lemma="Regina_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Regina_;G_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-mf920924-012-p65s1">
@@ -153,7 +153,7 @@
 <LM>w#w-mf920924-012-p65s1w5</LM>
 </w.rf>
 <form>dny</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-mf920924-012-p65s1w6">
 <src.rf>manual</src.rf>
@@ -171,7 +171,7 @@
 <LM>w#w-mf920924-012-p85s1w1</LM>
 </w.rf>
 <form>Radio</form>
-<tag lemma="rádio_,a" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="radio-1_,s_^(^DD**rádio)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf920924-012-p85s1w2">
 <src.rf>manual</src.rf>

@@ -1160,7 +1160,7 @@
 <LM>w#w-ln95049-008-p4s1w15</LM>
 </w.rf>
 <form>podávání</form>
-<tag lemma="podávání_^(něco_[někomu]_[někam])_(*3at)" src="auto" selected="1">NNNS6-----A----</tag>
+<tag lemma="podávání_^(*3at)" src="auto" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-ln95049-008-p4s1w16">
 <src.rf>manual</src.rf>
@@ -1469,7 +1469,7 @@
 <LM>w#w-ln95049-008-p4s2w30</LM>
 </w.rf>
 <form>nezdanitelný</form>
-<tag lemma="zdanitelný_^(vypočítat_daň)_(*4)" src="auto" selected="1">AAIS1----1N----</tag>
+<tag lemma="zdanitelný_^(*4)" src="auto" selected="1">AAIS1----1N----</tag>
 </m>
 <m id="m-ln95049-008-p4s2w31">
 <src.rf>manual</src.rf>
@@ -1611,7 +1611,7 @@
 <LM>w#w-ln95049-008-p4s3w12</LM>
 </w.rf>
 <form>zaměstnání</form>
-<tag lemma="zaměstnání-1_^(všeob._význam:_činnost,_zaměstnání)_(*5at-1)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="zaměstnání_^(*3at)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-ln95049-008-p4s3w13">
 <src.rf>manual</src.rf>
@@ -1635,7 +1635,7 @@
 <LM>w#w-ln95049-008-p4s3w15</LM>
 </w.rf>
 <form>nezdanitelný</form>
-<tag lemma="zdanitelný_^(vypočítat_daň)_(*4)" src="auto" selected="1">AAIS4----1N----</tag>
+<tag lemma="zdanitelný_^(*4)" src="auto" selected="1">AAIS4----1N----</tag>
 </m>
 <m id="m-ln95049-008-p4s3w16">
 <src.rf>manual</src.rf>
@@ -1739,7 +1739,7 @@
 <LM>w#w-ln95049-008-p4s3w28</LM>
 </w.rf>
 <form>nezdanitelný</form>
-<tag lemma="zdanitelný_^(vypočítat_daň)_(*4)" src="auto" selected="1">AAIS1----1N----</tag>
+<tag lemma="zdanitelný_^(*4)" src="auto" selected="1">AAIS1----1N----</tag>
 </m>
 <m id="m-ln95049-008-p4s3w29">
 <src.rf>manual</src.rf>
@@ -2026,7 +2026,7 @@
 <LM>w#w-ln95049-008-p5s2w13</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln95049-008-p5s2w14">
 <src.rf>manual</src.rf>
@@ -2066,7 +2066,7 @@
 <LM>w#w-ln95049-008-p5s2w18</LM>
 </w.rf>
 <form>práva</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln95049-008-p5s2w19">
 <src.rf>manual</src.rf>
@@ -2409,7 +2409,7 @@
 <LM>w#w-ln95049-008-p6s1w10</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln95049-008-p6s1w11">
 <src.rf>manual</src.rf>
@@ -2563,7 +2563,7 @@
 <LM>w#w-ln95049-008-p6s2w11</LM>
 </w.rf>
 <form>nezaměstnanosti</form>
-<tag lemma="nezaměstnanost-2_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="nezaměstnanost_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln95049-008-p6s2w12">
 <src.rf>manual</src.rf>
@@ -2661,7 +2661,7 @@
 <LM>w#w-ln95049-008-p7s1w11</LM>
 </w.rf>
 <form>zaměstnání</form>
-<tag lemma="zaměstnání-1_^(všeob._význam:_činnost,_zaměstnání)_(*5at-1)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="zaměstnání_^(*3at)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln95049-008-p7s1w12">
 <src.rf>manual</src.rf>
@@ -2949,7 +2949,7 @@
 <LM>w#w-ln95049-008-p8s1w14</LM>
 </w.rf>
 <form>pozdní</form>
-<tag lemma="pozdní-2_^(v_roce,_ročním_období)" src="orig" selected="1">AAFS6----1A----</tag>
+<tag lemma="pozdní" src="orig" selected="1">AAFS6----1A----</tag>
 </m>
 <m id="m-ln95049-008-p8s1w15">
 <src.rf>manual</src.rf>

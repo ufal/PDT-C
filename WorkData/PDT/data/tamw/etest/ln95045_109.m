@@ -35,7 +35,7 @@
 <LM>w#w-ln95045-109-p1s1w3</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS1----------</tag>
 </m>
 <m id="m-ln95045-109-p1s1w4">
 <src.rf>manual</src.rf>

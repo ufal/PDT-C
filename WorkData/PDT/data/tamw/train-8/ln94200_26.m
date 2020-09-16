@@ -120,7 +120,7 @@
 <LM>w#w-ln94200-26-p2s1Aw10</LM>
 </w.rf>
 <form>politiky</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 </s>
 <s id="m-ln94200-26-p2s1B">
@@ -388,7 +388,7 @@
 <LM>w#w-ln94200-26-p2s3w7</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-ln94200-26-p2s3w8">
 <src.rf>manual</src.rf>
@@ -1483,7 +1483,7 @@
 <LM>w#w-ln94200-26-p6s1w2</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-ln94200-26-p6s1w3">
 <src.rf>manual</src.rf>
@@ -1651,7 +1651,7 @@
 <LM>w#w-ln94200-26-p6s2w6</LM>
 </w.rf>
 <form>prvních</form>
-<tag lemma="první" src="orig" selected="1">CrIP6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIP6----------</tag>
 </m>
 <m id="m-ln94200-26-p6s2w7">
 <src.rf>manual</src.rf>
@@ -2802,7 +2802,7 @@
 <LM>w#w-ln94200-26-p9s1w25</LM>
 </w.rf>
 <form>politiky</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94200-26-p9s1w26">
 <src.rf>manual</src.rf>
@@ -2908,7 +2908,7 @@
 <LM>w#w-ln94200-26-p9s2w12</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94200-26-p9s2w13">
 <src.rf>manual</src.rf>
@@ -3954,7 +3954,7 @@
 <form>zaměstnanosti</form>
 <tag>
 <AM lemma="zaměstnanost-2_^(politika_z.;_přednost_před_odvoz.)" src="orig">NNFS6-----A----</AM>
-<AM lemma="zaměstnanost-1_^(všeob._význam:_činnost,_zaměstnání)_(*5ý-1)" src="manual" selected="1">NNFS6-----A----</AM>
+<AM lemma="zaměstnanost_^(*3ý)" src="manual" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-26-p11s2w14">

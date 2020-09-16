@@ -266,7 +266,7 @@
 <LM>w#w-ln94203-91-p2s1w28</LM>
 </w.rf>
 <form>Dny</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-ln94203-91-p2s1w29">
 <src.rf>manual</src.rf>

@@ -371,7 +371,7 @@
 <LM>w#w-lnd92251-064-p3s3w1</LM>
 </w.rf>
 <form>Druhý</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS1----------</tag>
 </m>
 <m id="m-lnd92251-064-p3s3w2">
 <src.rf>manual</src.rf>
@@ -579,7 +579,7 @@
 <LM>w#w-lnd92251-064-p3s4w12</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd92251-064-p3s4w13">
 <src.rf>manual</src.rf>

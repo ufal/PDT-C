@@ -277,7 +277,7 @@
 <LM>w#w-cmpr9415-013-p6s1w1</LM>
 </w.rf>
 <form>Dítě</form>
-<tag lemma="dítě" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="dítě-1" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-013-p6s1w2">
 <src.rf>manual</src.rf>
@@ -837,7 +837,7 @@
 <LM>w#w-cmpr9415-013-p9s3w14</LM>
 </w.rf>
 <form>market</form>
-<tag lemma="market" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="market-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-013-p9s3w15">
 <src.rf>manual</src.rf>

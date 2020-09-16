@@ -109,7 +109,7 @@
 <form>hodně</form>
 <tag>
 <AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="hodně_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-038-p2s1w10">
@@ -176,7 +176,7 @@
 <LM>w#w-vesm9212-038-p2s2w4</LM>
 </w.rf>
 <form>Indianě</form>
-<tag lemma="Indiana_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Indiana-1_;G" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-vesm9212-038-p2s2w5">
 <src.rf>manual</src.rf>
@@ -345,7 +345,7 @@
 <LM>w#w-vesm9212-038-p2s3w5</LM>
 </w.rf>
 <form>dlouhá</form>
-<tag lemma="dlouhý-1_^(fyz._délka;_př._dlouhá_tyč)" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-vesm9212-038-p2s3w6">
 <src.rf>manual</src.rf>
@@ -973,7 +973,7 @@
 <LM>w#w-vesm9212-038-p2s7w6</LM>
 </w.rf>
 <form>příbuznost</form>
-<tag lemma="příbuznost-2_^(podobný)_(*5ý-2)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="příbuznost-2_^(*5ý-2)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-vesm9212-038-p2s7w7">
 <src.rf>manual</src.rf>
@@ -1139,7 +1139,7 @@
 <LM>w#w-vesm9212-038-p3s1w14</LM>
 </w.rf>
 <form>nalezený</form>
-<tag lemma="nalezený-2_^(*7ézt-2)" src="auto" selected="1">AAIS1----1A----</tag>
+<tag lemma="nalezený" src="auto" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-vesm9212-038-p3s1w15">
 <src.rf>manual</src.rf>

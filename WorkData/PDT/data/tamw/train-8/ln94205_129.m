@@ -19,7 +19,7 @@
 <LM>w#w-ln94205-129-p1s1w1</LM>
 </w.rf>
 <form>Zlatý</form>
-<tag lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAIS1----1A----</tag>
+<tag lemma="zlatý-1_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-ln94205-129-p1s1w2">
 <src.rf>manual</src.rf>
@@ -565,7 +565,7 @@
 <LM>w#w-ln94205-129-p3s2w3</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94205-129-p3s2w4">
 <src.rf>manual</src.rf>
@@ -597,7 +597,7 @@
 <LM>w#w-ln94205-129-p3s2w7</LM>
 </w.rf>
 <form>zlatých</form>
-<tag lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAFP6----1A----</tag>
+<tag lemma="zlatý-1_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAFP6----1A----</tag>
 </m>
 <m id="m-ln94205-129-p3s2w8">
 <src.rf>manual</src.rf>
@@ -1810,7 +1810,7 @@
 <LM>w#w-ln94205-129-p4s1w19</LM>
 </w.rf>
 <form>skokanky</form>
-<tag lemma="skokanka_^(*2)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="skokanka" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-ln94205-129-p4s1w20">
 <src.rf>manual</src.rf>

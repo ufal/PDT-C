@@ -179,7 +179,7 @@
 <LM>w#w-mf930708-172-p3s1w9</LM>
 </w.rf>
 <form>létech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A---2</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A---2</tag>
 </m>
 <m id="m-mf930708-172-p3s1w10">
 <src.rf>manual</src.rf>
@@ -617,7 +617,7 @@
 <LM>w#w-mf930708-172-p3s4w19</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-mf930708-172-p3s4w20">
 <src.rf>manual</src.rf>
@@ -774,7 +774,7 @@
 <LM>w#w-mf930708-172-p3s5w18</LM>
 </w.rf>
 <form>třeba</form>
-<tag lemma="třeba-2" src="auto" selected="1">Db-------------</tag>
+<tag lemma="třeba-1" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf930708-172-p3s5w19">
 <src.rf>manual</src.rf>
@@ -920,7 +920,7 @@
 <LM>w#w-mf930708-172-p3s6w14</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-mf930708-172-p3s6w15">
 <src.rf>manual</src.rf>
@@ -1180,7 +1180,7 @@
 <LM>w#w-mf930708-172-p4s2w10</LM>
 </w.rf>
 <form>hledí</form>
-<tag lemma="hledět_^(dívat_se;_hledět_si_něčeho)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="hledět" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930708-172-p4s2w11">
 <src.rf>manual</src.rf>

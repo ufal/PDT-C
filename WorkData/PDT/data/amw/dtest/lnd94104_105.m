@@ -682,7 +682,7 @@
 <LM>w#w-lnd94104-105-p1s6w5</LM>
 </w.rf>
 <form>nejlepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAMP4----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAMP4----3A----</tag>
 </m>
 <m id="m-lnd94104-105-p1s6w6">
 <src.rf>manual</src.rf>

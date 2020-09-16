@@ -27,7 +27,7 @@
 <LM>w#w-ln94204-12-p1s1w2</LM>
 </w.rf>
 <form>favoritů</form>
-<tag lemma="favorit-1_;m" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="favorit-1_^(vozidlo)" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94204-12-p1s1w3">
 <src.rf>manual</src.rf>
@@ -143,7 +143,7 @@
 <LM>w#w-ln94204-12-p2s1Bw9</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-ln94204-12-p2s1Bw10">
 <src.rf>manual</src.rf>

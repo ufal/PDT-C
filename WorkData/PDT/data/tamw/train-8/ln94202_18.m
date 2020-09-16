@@ -151,7 +151,7 @@
 <LM>w#w-ln94202-18-p2s1w14</LM>
 </w.rf>
 <form>vlastněnou</form>
-<tag lemma="vlastněný_^(někdo_má_něco_ve_vlastnictví)_(*3it)" src="orig" selected="1">AAFS4----1A----</tag>
+<tag lemma="vlastněný_^(*3it)" src="orig" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-ln94202-18-p2s1w15">
 <src.rf>manual</src.rf>
@@ -259,7 +259,7 @@
 <LM>w#w-ln94202-18-p2s3w3</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP2-P1-------</tag>
 </m>
 <m id="m-ln94202-18-p2s3w4">
 <src.rf>manual</src.rf>
@@ -439,7 +439,7 @@
 <LM>w#w-ln94202-18-p2s3w25</LM>
 </w.rf>
 <form>prostředky</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-ln94202-18-p2s3w26">
 <src.rf>manual</src.rf>

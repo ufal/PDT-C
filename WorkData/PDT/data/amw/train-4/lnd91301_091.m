@@ -77,7 +77,7 @@
 <LM>w#w-lnd91301-091-p2s1w5</LM>
 </w.rf>
 <form>manažerem</form>
-<tag lemma="manažer" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="manažer-1" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd91301-091-p2s1w6">
 <src.rf>manual</src.rf>
@@ -93,7 +93,7 @@
 <LM>w#w-lnd91301-091-p2s1w7</LM>
 </w.rf>
 <form>Slavie</form>
-<tag lemma="Slavia_;m" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Slavie_;m_,s_^(^DD**Slávie)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd91301-091-p2s1w8">
 <src.rf>manual</src.rf>
@@ -232,7 +232,7 @@
 <LM>w#w-lnd91301-091-p2s1w24</LM>
 </w.rf>
 <form>Slavie</form>
-<tag lemma="Slavia_;m" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Slavie_;m_,s_^(^DD**Slávie)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd91301-091-p2s1w25">
 <src.rf>manual</src.rf>
@@ -315,7 +315,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91301-091-p2s1w35">
@@ -358,7 +358,7 @@
 <LM>w#w-lnd91301-091-p2s2w2</LM>
 </w.rf>
 <form>sekretář</form>
-<tag lemma="sekretář" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="sekretář-2" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd91301-091-p2s2w3">
 <src.rf>manual</src.rf>
@@ -414,7 +414,7 @@
 <LM>w#w-lnd91301-091-p2s2w9</LM>
 </w.rf>
 <form>My</form>
-<tag lemma="já" src="orig" selected="1">PP-P1--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P1--1-------</tag>
 </m>
 <m id="m-lnd91301-091-p2s2w10">
 <src.rf>manual</src.rf>
@@ -789,7 +789,7 @@
 <LM>w#w-lnd91301-091-p2s4w2</LM>
 </w.rf>
 <form>Slavií</form>
-<tag lemma="Slavia_;m" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Slavie_;m_,s_^(^DD**Slávie)" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-lnd91301-091-p2s4w3">
 <src.rf>manual</src.rf>

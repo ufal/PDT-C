@@ -1871,7 +1871,7 @@
 </w.rf>
 <form>Bonda</form>
 <tag>
-<AM lemma="Bond_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Bond-1_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Bond_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="Bondo_;G" src="auto">NNNP1-----A----</AM>
 <AM lemma="Bondo_;G" src="auto">NNNP4-----A----</AM>
@@ -4001,7 +4001,7 @@
 <LM>w#w-wsj0373-001-p1s14W8</LM>
 </w.rf>
 <form>show</form>
-<tag lemma="show" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="show-1" src="auto" recommended="1">NNXXX-----A----</tag>
 </m>
 <m id="m-wsj0373-001-p1s14W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4307,7 +4307,7 @@
 <LM>w#w-wsj0373-001-p1s15W3</LM>
 </w.rf>
 <form>show</form>
-<tag lemma="show" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="show-1" src="auto" recommended="1">NNXXX-----A----</tag>
 </m>
 <m id="m-wsj0373-001-p1s15W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4365,7 +4365,7 @@
 <AM lemma="první" src="auto">CrFP6----------</AM>
 <AM lemma="první" src="auto">CrIP2----------</AM>
 <AM lemma="první" src="auto">CrIP6----------</AM>
-<AM lemma="první" src="auto" recommended="1">CrMP2----------</AM>
+<AM lemma="první-1" src="auto" recommended="1">CrMP2----------</AM>
 <AM lemma="první" src="auto">CrMP6----------</AM>
 <AM lemma="první" src="auto">CrNP2----------</AM>
 <AM lemma="první" src="auto">CrNP6----------</AM>
@@ -5356,7 +5356,7 @@
 <tag>
 <AM lemma="práv_^(oprávněný)" src="auto">ACQW------A----</AM>
 <AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto">NNNP1-----A----</AM>
-<AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto" recommended="1">NNNP4-----A----</AM>
+<AM lemma="právo" src="auto" recommended="1">NNNP4-----A----</AM>
 <AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto">NNNP5-----A----</AM>
 <AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto">NNNS2-----A----</AM>
 </tag>

@@ -268,7 +268,7 @@
 <LM>w#w-lnd94104-104-p1s4w6</LM>
 </w.rf>
 <form>sezoně</form>
-<tag lemma="sezóna" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="sezona_,s_^(^DD**sezóna)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd94104-104-p1s4w7">
 <src.rf>manual</src.rf>
@@ -316,7 +316,7 @@
 <LM>w#w-lnd94104-104-p1s4w12</LM>
 </w.rf>
 <form>jejímž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1ZS6FS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1ZS6FS3-------</tag>
 </m>
 <m id="m-lnd94104-104-p1s4w13">
 <src.rf>manual</src.rf>
@@ -420,7 +420,7 @@
 <LM>w#w-lnd94104-104-p1s4w25</LM>
 </w.rf>
 <form>Pražáka</form>
-<tag lemma="Pražák_;E" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Pražák_;E_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd94104-104-p1s4w26">
 <src.rf>manual</src.rf>

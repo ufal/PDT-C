@@ -765,7 +765,7 @@
 <LM>w#w-lnd94101-059-p1s6w17</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="mluvčí-2" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-lnd94101-059-p1s6w18">
 <src.rf>manual</src.rf>
@@ -824,7 +824,7 @@
 <LM>w#w-lnd94101-059-p1s6w24</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd94101-059-p1s6w25">
 <src.rf>manual</src.rf>
@@ -973,7 +973,7 @@
 <LM>w#w-lnd94101-059-p1s7w17</LM>
 </w.rf>
 <form>vězení</form>
-<tag lemma="vězení_,a_^(místo_výkonu_trestu)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="vězení_^(místo_výkonu_trestu)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-lnd94101-059-p1s7w18">
 <src.rf>manual</src.rf>
@@ -1378,7 +1378,7 @@
 <LM>w#w-lnd94101-059-p1s10w15</LM>
 </w.rf>
 <form>hnutí</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-lnd94101-059-p1s10w16">
 <src.rf>manual</src.rf>

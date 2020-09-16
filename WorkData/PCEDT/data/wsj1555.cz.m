@@ -1840,7 +1840,7 @@
 <form>modelu</form>
 <tag>
 <AM lemma="model" src="auto">NNIS2-----A----</AM>
-<AM lemma="model" src="auto" recommended="1">NNIS3-----A----</AM>
+<AM lemma="model-1" src="auto" recommended="1">NNIS3-----A----</AM>
 <AM lemma="model" src="auto">NNIS6-----A----</AM>
 <AM lemma="model" src="auto">NNMS3-----A---1</AM>
 <AM lemma="model" src="auto">NNMS6-----A---1</AM>
@@ -2888,7 +2888,7 @@
 <AM lemma="Apollo_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Apollo_;Y_,t" src="auto">NNMS5-----A----</AM>
 <AM lemma="apollo_;U_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Apollo-2_;m" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="Apollo-1_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1555-001-p1s10W15-Ta">
@@ -3788,7 +3788,7 @@
 <AM lemma="Apollo_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Apollo_;Y_,t" src="auto">NNMS5-----A----</AM>
 <AM lemma="apollo_;U_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Apollo-2_;m" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="Apollo-1_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1555-001-p1s13W13-Ta">

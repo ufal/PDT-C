@@ -388,7 +388,7 @@
 <form>Mansfielda</form>
 <tag>
 <AM lemma="Mansfield_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Mansfield_;Y" src="auto" selected="1">NNMS4-----A----</AM>
+<AM lemma="Mansfield-1_;Y" src="auto" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1134-001-p1s1W7-Ta">

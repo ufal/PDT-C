@@ -1180,7 +1180,7 @@
 <LM>w#w-ln94203-50-p2s5Aw16</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-ln94203-50-p2s5Aw17">
 <src.rf>manual</src.rf>
@@ -1350,7 +1350,7 @@
 <LM>w#w-ln94203-50-p2s5Bw19</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-ln94203-50-p2s5Bw20">
 <src.rf>manual</src.rf>
@@ -1414,7 +1414,7 @@
 <LM>w#w-ln94203-50-p2s5Bw27</LM>
 </w.rf>
 <form>rysy</form>
-<tag lemma="rys" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="rys-2" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-ln94203-50-p2s5Bw28">
 <src.rf>manual</src.rf>
@@ -1422,7 +1422,7 @@
 <LM>w#w-ln94203-50-p2s5Bw28</LM>
 </w.rf>
 <form>fanatismu</form>
-<tag lemma="fanatismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="fanatismus_,s_^(^DD**fanatizmus)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94203-50-p2s5Bw29">
 <src.rf>manual</src.rf>
@@ -1887,7 +1887,7 @@
 <LM>w#w-ln94203-50-p3s2w19</LM>
 </w.rf>
 <form>fašismus</form>
-<tag lemma="fašismus" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="fašismus_,s_^(^DD**fašizmus)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln94203-50-p3s2w20">
 <src.rf>manual</src.rf>
@@ -1903,7 +1903,7 @@
 <LM>w#w-ln94203-50-p3s2w21</LM>
 </w.rf>
 <form>komunismus</form>
-<tag lemma="komunismus" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="komunismus_,s_^(^DD**komunizmus)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln94203-50-p3s2w22">
 <src.rf>manual</src.rf>

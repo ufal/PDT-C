@@ -138,7 +138,7 @@
 <LM>w#w-ln95047-112-p2s1Bw9</LM>
 </w.rf>
 <form>prvního</form>
-<tag lemma="první" src="orig" selected="1">CrIS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS2----------</tag>
 </m>
 <m id="m-ln95047-112-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -212,7 +212,7 @@
 <LM>w#w-ln95047-112-p2s2w7</LM>
 </w.rf>
 <form>dohodovacího</form>
-<tag lemma="dohodovací" src="auto" selected="1">AANS2----1A----</tag>
+<tag lemma="dohodovací_^(*2t)" src="auto" selected="1">AANS2----1A----</tag>
 </m>
 <m id="m-ln95047-112-p2s2w8">
 <src.rf>manual</src.rf>
@@ -544,7 +544,7 @@
 <LM>w#w-ln95047-112-p2s4w11</LM>
 </w.rf>
 <form>prvních</form>
-<tag lemma="první" src="orig" selected="1">CrIP6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIP6----------</tag>
 </m>
 <m id="m-ln95047-112-p2s4w12">
 <src.rf>manual</src.rf>
@@ -1068,7 +1068,7 @@
 <LM>w#w-ln95047-112-p2s7w11</LM>
 </w.rf>
 <form>dají</form>
-<tag lemma="dát" src="orig" selected="1">VB-P---3P-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-ln95047-112-p2s7w12">
 <src.rf>manual</src.rf>

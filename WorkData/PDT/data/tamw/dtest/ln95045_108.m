@@ -1024,7 +1024,7 @@
 <LM>w#w-ln95045-108-p3s2w19</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-ln95045-108-p3s2w20">
 <src.rf>manual</src.rf>
@@ -1066,7 +1066,7 @@
 <LM>w#w-ln95045-108-p3s3w2</LM>
 </w.rf>
 <form>jejím</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP3FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XP3FS3-------</tag>
 </m>
 <m id="m-ln95045-108-p3s3w3">
 <src.rf>manual</src.rf>
@@ -1098,7 +1098,7 @@
 <LM>w#w-ln95045-108-p3s3w6</LM>
 </w.rf>
 <form>Chemopetrol</form>
-<tag lemma="Chemopetrol" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Chemopetrol_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95045-108-p3s3w7">
 <src.rf>manual</src.rf>
@@ -1148,7 +1148,7 @@
 <form>ČEZ</form>
 <tag>
 <AM lemma="ČEZ-1_:B_;m_^(České_energetické_závody)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ČEZ-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČEZ-2_;m_^(České_energetické_závody)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-108-p3s3w13">
@@ -1292,7 +1292,7 @@
 <LM>w#w-ln95045-108-p3s5w3</LM>
 </w.rf>
 <form>naše</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSIP1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSIP1-P1-------</tag>
 </m>
 <m id="m-ln95045-108-p3s5w4">
 <src.rf>manual</src.rf>
@@ -1698,7 +1698,7 @@
 <LM>w#w-ln95045-108-p3s8w10</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-ln95045-108-p3s8w11">
 <src.rf>manual</src.rf>
@@ -1746,7 +1746,7 @@
 <LM>w#w-ln95045-108-p3s8w16</LM>
 </w.rf>
 <form>dumpingové</form>
-<tag lemma="dumpingový" src="orig" selected="1">AAFP4----1A----</tag>
+<tag lemma="dumpingový_,s_^(^DD**dampingový)" src="orig" selected="1">AAFP4----1A----</tag>
 </m>
 <m id="m-ln95045-108-p3s8w17">
 <src.rf>manual</src.rf>
@@ -2493,7 +2493,7 @@
 <LM>w#w-ln95045-108-p6s1w2</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-ln95045-108-p6s1w3">
 <src.rf>manual</src.rf>
@@ -2629,7 +2629,7 @@
 <LM>w#w-ln95045-108-p6s1w19</LM>
 </w.rf>
 <form>správné</form>
-<tag lemma="správný_^(podle_něj._měřítek;_př._chlap,_míra,...)" src="orig" selected="1">AAFS2----1A----</tag>
+<tag lemma="správný" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-ln95045-108-p6s1w20">
 <src.rf>manual</src.rf>

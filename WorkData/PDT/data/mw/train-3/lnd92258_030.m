@@ -966,7 +966,7 @@
 <LM>w#w-lnd92258-030-p2s2w24</LM>
 </w.rf>
 <form>hnutím</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-lnd92258-030-p2s2w25">
 <src.rf>manual</src.rf>

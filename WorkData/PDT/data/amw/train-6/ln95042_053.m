@@ -89,7 +89,7 @@
 <form>Jün</form>
 <tag>
 <AM lemma="Jün_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Jün_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Jün-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-053-p2s1Bw4">
@@ -148,7 +148,7 @@
 <form>deoxyribonukleovou</form>
 <tag>
 <AM lemma="deoxyribonukleová_;U_^(*1ý)" src="orig">NNFS4-----A----</AM>
-<AM lemma="deoxyribonukleový_;U" src="auto" recommended="1" selected="1">AAFS4----1A----</AM>
+<AM lemma="deoxyribonukleový" src="auto" recommended="1" selected="1">AAFS4----1A----</AM>
 <AM lemma="deoxyribonukleový_;U" src="auto">AAFS7----1A----</AM>
 </tag>
 </m>
@@ -198,7 +198,7 @@
 <LM>w#w-ln95042-053-p2s1Bw16</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln95042-053-p2s1Bw17">
 <src.rf>manual</src.rf>

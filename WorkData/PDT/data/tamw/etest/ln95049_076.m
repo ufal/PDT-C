@@ -46,7 +46,7 @@
 <LM>w#w-ln95049-076-p1s1w4</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 </s>
 <s id="m-ln95049-076-p2s1A">
@@ -157,7 +157,7 @@
 <LM>w#w-ln95049-076-p2s1Bw11</LM>
 </w.rf>
 <form>lety</form>
-<tag lemma="rok" src="orig" selected="1">NNNP7-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP7-----A----</tag>
 </m>
 <m id="m-ln95049-076-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -173,7 +173,7 @@
 <LM>w#w-ln95049-076-p2s1Bw13</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-ln95049-076-p2s1Bw14">
 <src.rf>manual</src.rf>

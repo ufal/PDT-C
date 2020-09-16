@@ -43,7 +43,7 @@
 <LM>w#w-ln94207-67-p1s1w4</LM>
 </w.rf>
 <form>taxikáři</form>
-<tag lemma="taxikář" src="orig" selected="1">NNMP7-----A----</tag>
+<tag lemma="taxikář_,s_^(^DD**taxíkář)" src="orig" selected="1">NNMP7-----A----</tag>
 </m>
 </s>
 <s id="m-ln94207-67-p2s1A">
@@ -408,7 +408,7 @@
 <LM>w#w-ln94207-67-p2s1Bw37</LM>
 </w.rf>
 <form>šedé</form>
-<tag lemma="šedý" src="orig" selected="1">AAFS6----1A----</tag>
+<tag lemma="šedý_;o" src="orig" selected="1">AAFS6----1A----</tag>
 </m>
 <m id="m-ln94207-67-p2s1Bw38">
 <src.rf>manual</src.rf>
@@ -790,7 +790,7 @@
 <LM>w#w-ln94207-67-p2s5w24</LM>
 </w.rf>
 <form>taxikáři</form>
-<tag lemma="taxikář" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="taxikář_,s_^(^DD**taxíkář)" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln94207-67-p2s5w25">
 <src.rf>manual</src.rf>

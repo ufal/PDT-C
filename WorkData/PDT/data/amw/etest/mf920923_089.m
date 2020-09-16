@@ -45,7 +45,7 @@
 <LM>w#w-mf920923-089-p2s1w1</LM>
 </w.rf>
 <form>Karlovy</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUIP1M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUIP1M---------</tag>
 </m>
 <m id="m-mf920923-089-p2s1w2">
 <src.rf>manual</src.rf>

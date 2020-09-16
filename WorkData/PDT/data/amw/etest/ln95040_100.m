@@ -295,7 +295,7 @@
 <LM>w#w-ln95040-100-p2s1Bw27</LM>
 </w.rf>
 <form>ukazatelů</form>
-<tag lemma="ukazatel" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="ukazatel-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln95040-100-p2s1Bw28">
 <src.rf>manual</src.rf>
@@ -613,7 +613,7 @@
 <LM>w#w-ln95040-100-p3s1w38</LM>
 </w.rf>
 <form>zveřejněné</form>
-<tag lemma="zveřejněný_^(*3it)" src="orig" selected="1">AAIP4----1A----</tag>
+<tag lemma="zveřejněný_^(*2t)_(*3it)" src="orig" selected="1">AAIP4----1A----</tag>
 </m>
 <m id="m-ln95040-100-p3s1w39">
 <src.rf>manual</src.rf>
@@ -621,7 +621,7 @@
 <LM>w#w-ln95040-100-p3s1w39</LM>
 </w.rf>
 <form>ukazatele</form>
-<tag lemma="ukazatel" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="ukazatel-1" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-ln95040-100-p3s1w40">
 <src.rf>manual</src.rf>
@@ -989,7 +989,7 @@
 <LM>w#w-ln95040-100-p4s3w8</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-ln95040-100-p4s3w9">
 <src.rf>manual</src.rf>

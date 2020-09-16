@@ -45,7 +45,7 @@
 <LM>w#w-lnd92255-047-p2s1w2</LM>
 </w.rf>
 <form>Miroslava</form>
-<tag lemma="Miroslav_;Y" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Miroslav-1_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd92255-047-p2s1w3">
 <src.rf>manual</src.rf>
@@ -253,7 +253,7 @@
 <LM>w#w-lnd92255-047-p4s1w15</LM>
 </w.rf>
 <form>práva</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNP4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNP4-----A----</tag>
 </m>
 <m id="m-lnd92255-047-p4s1w16">
 <src.rf>manual</src.rf>
@@ -1218,7 +1218,7 @@
 <LM>w#w-lnd92255-047-p6s1w2</LM>
 </w.rf>
 <form>mot</form>
-<tag lemma="motto" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="moto-1_,s_^(heslo)_(^DD**motto-1)" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd92255-047-p6s1w3">
 <src.rf>manual</src.rf>

@@ -205,7 +205,7 @@
 <LM>w#w-lnd92253-085-p2s2w18</LM>
 </w.rf>
 <form>prostředek</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-lnd92253-085-p2s2w19">
 <src.rf>manual</src.rf>
@@ -319,7 +319,7 @@
 <LM>w#w-lnd92253-085-p2s3w4</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92253-085-p2s3w5">
 <src.rf>manual</src.rf>

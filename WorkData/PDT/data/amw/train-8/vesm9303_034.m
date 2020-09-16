@@ -85,7 +85,7 @@
 <LM>w#w-vesm9303-034-p2s1w3</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-vesm9303-034-p2s1w4">
 <src.rf>manual</src.rf>
@@ -787,7 +787,7 @@
 <LM>w#w-vesm9303-034-p3s1w5</LM>
 </w.rf>
 <form>jejích</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP6FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XP6FS3-------</tag>
 </m>
 <m id="m-vesm9303-034-p3s1w6">
 <src.rf>manual</src.rf>
@@ -1635,7 +1635,7 @@
 <LM>w#w-vesm9303-034-p4s2w6</LM>
 </w.rf>
 <form>zajatých</form>
-<tag lemma="zajatý_^(zajatce)_(*3mout)" src="orig" selected="1">AAIP6----1A----</tag>
+<tag lemma="zajatý_^(*3mout)" src="orig" selected="1">AAIP6----1A----</tag>
 </m>
 <m id="m-vesm9303-034-p4s2w7">
 <src.rf>manual</src.rf>
@@ -2751,7 +2751,7 @@
 <LM>w#w-vesm9303-034-p5s4w25</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-vesm9303-034-p5s4w26">
 <src.rf>manual</src.rf>

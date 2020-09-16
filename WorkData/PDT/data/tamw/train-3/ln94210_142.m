@@ -551,7 +551,7 @@
 <LM>w#w-ln94210-142-p2s4w4</LM>
 </w.rf>
 <form>zpřísnění</form>
-<tag lemma="zpřísnění_^(*3it)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="zpřísnění_^(*2t)_(*3it)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-ln94210-142-p2s4w5">
 <src.rf>manual</src.rf>

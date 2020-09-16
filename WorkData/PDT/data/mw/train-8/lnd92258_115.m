@@ -396,7 +396,7 @@
 <LM>w#w-lnd92258-115-p3s2w10</LM>
 </w.rf>
 <form>našeho</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSZS2-P1-------</tag>
 </m>
 <m id="m-lnd92258-115-p3s2w11">
 <src.rf>manual</src.rf>
@@ -516,7 +516,7 @@
 <LM>w#w-lnd92258-115-p3s2w25</LM>
 </w.rf>
 <form>editorem</form>
-<tag lemma="editor" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="editor-1" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd92258-115-p3s2w26">
 <src.rf>manual</src.rf>
@@ -1401,7 +1401,7 @@
 <LM>w#w-lnd92258-115-p6s4w9</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP2-P1-------</tag>
 </m>
 <m id="m-lnd92258-115-p6s4w10">
 <src.rf>manual</src.rf>
@@ -1505,7 +1505,7 @@
 <LM>w#w-lnd92258-115-p6s4w22</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP2-P1-------</tag>
 </m>
 <m id="m-lnd92258-115-p6s4w23">
 <src.rf>manual</src.rf>
@@ -2018,7 +2018,7 @@
 <LM>w#w-lnd92258-115-p8s2w23</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-lnd92258-115-p8s2w24">
 <src.rf>manual</src.rf>
@@ -2575,7 +2575,7 @@
 <LM>w#w-lnd92258-115-p10s2w18</LM>
 </w.rf>
 <form>Martinů</form>
-<tag lemma="Martinů_;Y" src="orig" selected="1">NNMXX-----A----</tag>
+<tag lemma="Martinů-1_;Y" src="orig" selected="1">NNMXX-----A----</tag>
 </m>
 <m id="m-lnd92258-115-p10s2w19">
 <src.rf>manual</src.rf>
@@ -2815,7 +2815,7 @@
 <LM>w#w-lnd92258-115-p10s3w26</LM>
 </w.rf>
 <form>podání</form>
-<tag lemma="podání_^(něco_[někomu]_[někam])_(*3at)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="podání_^(*3at)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-lnd92258-115-p10s3w27">
 <src.rf>manual</src.rf>
@@ -3082,7 +3082,7 @@
 <LM>w#w-lnd92258-115-p10s6w3</LM>
 </w.rf>
 <form>dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92258-115-p10s6w4">
 <src.rf>manual</src.rf>
@@ -3327,7 +3327,7 @@
 <LM>w#w-lnd92258-115-p11s1w20</LM>
 </w.rf>
 <form>nejlepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAFS4----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAFS4----3A----</tag>
 </m>
 <m id="m-lnd92258-115-p11s1w21">
 <src.rf>manual</src.rf>
@@ -3359,7 +3359,7 @@
 <LM>w#w-lnd92258-115-p11s1w24</LM>
 </w.rf>
 <form>Smetanovy</form>
-<tag lemma="Smetanův_;Y_^(*2a)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Smetanův_;Y_^(*2)_(*2a)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-lnd92258-115-p11s1w25">
 <src.rf>manual</src.rf>
@@ -3367,7 +3367,7 @@
 <LM>w#w-lnd92258-115-p11s1w25</LM>
 </w.rf>
 <form>Mé</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS2-S1------1</tag>
+<tag lemma="můj" src="orig" selected="1">PSFS2-S1------1</tag>
 </m>
 <m id="m-lnd92258-115-p11s1w26">
 <src.rf>manual</src.rf>
@@ -3447,7 +3447,7 @@
 <LM>w#w-lnd92258-115-p11s1w35</LM>
 </w.rf>
 <form>třeba</form>
-<tag lemma="třeba-2" src="auto" selected="1">Db-------------</tag>
+<tag lemma="třeba-1" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd92258-115-p11s1w36">
 <src.rf>manual</src.rf>
@@ -3701,7 +3701,7 @@
 <LM>w#w-lnd92258-115-p12s2w16</LM>
 </w.rf>
 <form>Mé</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS2-S1------1</tag>
+<tag lemma="můj" src="orig" selected="1">PSFS2-S1------1</tag>
 </m>
 <m id="m-lnd92258-115-p12s2w17">
 <src.rf>manual</src.rf>
@@ -4799,7 +4799,7 @@
 <LM>w#w-lnd92258-115-p15s1w1</LM>
 </w.rf>
 <form>LEO</form>
-<tag lemma="Leo_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Leo-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92258-115-p15s1w2">
 <src.rf>manual</src.rf>

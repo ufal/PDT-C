@@ -43,7 +43,7 @@
 <LM>w#w-mf930702-052-p1s1w4</LM>
 </w.rf>
 <form>zaměstnaných</form>
-<tag lemma="zaměstnaný-1_^(všeob._význam:_činnost,_zaměstnání)_(*4t-1)" src="orig" selected="1">AAMP2----1A----</tag>
+<tag lemma="zaměstnaný_^(*2t)" src="orig" selected="1">AAMP2----1A----</tag>
 </m>
 <m id="m-mf930702-052-p1s1w5">
 <src.rf>manual</src.rf>
@@ -67,7 +67,7 @@
 <LM>w#w-mf930702-052-p1s1w7</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP6-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP6-P1-------</tag>
 </m>
 <m id="m-mf930702-052-p1s1w8">
 <src.rf>manual</src.rf>

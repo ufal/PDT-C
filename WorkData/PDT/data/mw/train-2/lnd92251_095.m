@@ -169,7 +169,7 @@
 <LM>w#w-lnd92251-095-p1s1w19</LM>
 </w.rf>
 <form>málo</form>
-<tag lemma="málo-3_^(málo_+_příd._jm.,_př._byl_málo_důsledný)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="málo-3_^(málo_důsledný)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd92251-095-p1s1w20">
 <src.rf>manual</src.rf>

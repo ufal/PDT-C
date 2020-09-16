@@ -819,7 +819,7 @@
 <LM>w#w-lnd92256-103-p2s6w1</LM>
 </w.rf>
 <form>Naše</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSHS1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSHS1-P1-------</tag>
 </m>
 <m id="m-lnd92256-103-p2s6w2">
 <src.rf>manual</src.rf>

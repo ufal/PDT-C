@@ -607,7 +607,7 @@
 <LM>w#w-mf920901-059-p3s2w6</LM>
 </w.rf>
 <form>Mauritius</form>
-<tag lemma="Mauritius_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Mauritius-2_;G_;m_,s_^(^DD**Mauricius-2)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920901-059-p3s2w7">
 <src.rf>manual</src.rf>
@@ -777,7 +777,7 @@
 <LM>w#w-mf920901-059-p4s1w12</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-mf920901-059-p4s1w13">
 <src.rf>manual</src.rf>

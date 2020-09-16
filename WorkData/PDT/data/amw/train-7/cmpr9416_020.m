@@ -226,7 +226,7 @@
 <LM>w#w-cmpr9416-020-p4s1w11</LM>
 </w.rf>
 <form>Sb</form>
-<tag lemma="Sb-1_^(Sbírka,_např._zákonů)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="sbírka" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-cmpr9416-020-p4s1w12">
 <src.rf>manual</src.rf>
@@ -574,7 +574,7 @@
 <LM>w#w-cmpr9416-020-p5s1w6</LM>
 </w.rf>
 <form>jehož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P1XXXZS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXZS3-------</tag>
 </m>
 <m id="m-cmpr9416-020-p5s1w7">
 <src.rf>manual</src.rf>
@@ -886,7 +886,7 @@
 <LM>w#w-cmpr9416-020-p5s1w45</LM>
 </w.rf>
 <form>zpřesnění</form>
-<tag lemma="zpřesnění_^(*3it)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="zpřesnění_^(*2t)_(*3it)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-cmpr9416-020-p5s1w46">
 <src.rf>manual</src.rf>
@@ -942,7 +942,7 @@
 <LM>w#w-cmpr9416-020-p5s1w52</LM>
 </w.rf>
 <form>odpovědnosti</form>
-<tag lemma="odpovědnost_^(kdo_za_něco_odpovídá)_(*3ý)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="odpovědnost_^(*3ý)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-cmpr9416-020-p5s1w53">
 <src.rf>manual</src.rf>
@@ -998,7 +998,7 @@
 <LM>w#w-cmpr9416-020-p5s1w59</LM>
 </w.rf>
 <form>zpřesnění</form>
-<tag lemma="zpřesnění_^(*3it)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="zpřesnění_^(*2t)_(*3it)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-cmpr9416-020-p5s1w60">
 <src.rf>manual</src.rf>
@@ -1102,7 +1102,7 @@
 <LM>w#w-cmpr9416-020-p5s1w72</LM>
 </w.rf>
 <form>stanovení</form>
-<tag lemma="stanovení_^(určit)_(*3it)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="stanovení_^(*3it)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-cmpr9416-020-p5s1w73">
 <src.rf>manual</src.rf>
@@ -1126,7 +1126,7 @@
 <LM>w#w-cmpr9416-020-p5s1w75</LM>
 </w.rf>
 <form>orgánů</form>
-<tag lemma="orgán" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-cmpr9416-020-p5s1w76">
 <src.rf>manual</src.rf>
@@ -2516,7 +2516,7 @@
 <LM>w#w-cmpr9416-020-p18s2w7</LM>
 </w.rf>
 <form>zaměstnávání</form>
-<tag lemma="zaměstnávání-1_^(všeob._význam:_činnost,_zaměstnání)_(*5at-1)" src="auto" selected="1">NNNS2-----A----</tag>
+<tag lemma="zaměstnávání_^(*3at)" src="auto" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-cmpr9416-020-p18s2w8">
 <src.rf>manual</src.rf>
@@ -2524,7 +2524,7 @@
 <LM>w#w-cmpr9416-020-p18s2w8</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP2-P1-------</tag>
 </m>
 <m id="m-cmpr9416-020-p18s2w9">
 <src.rf>manual</src.rf>
@@ -3181,7 +3181,7 @@
 <LM>w#w-cmpr9416-020-p21s1w3</LM>
 </w.rf>
 <form>rysem</form>
-<tag lemma="rys" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="rys-2" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-cmpr9416-020-p21s1w4">
 <src.rf>manual</src.rf>
@@ -3408,7 +3408,7 @@
 <AM lemma="vydávání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="auto">NNNS1-----A----</AM>
 <AM lemma="vydávání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="auto">NNNS2-----A----</AM>
 <AM lemma="vydávání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="auto">NNNS3-----A----</AM>
-<AM lemma="vydávání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="auto" selected="1">NNNS4-----A----</AM>
+<AM lemma="vydávání_^(*3at)" src="auto" selected="1">NNNS4-----A----</AM>
 <AM lemma="vydávání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="auto">NNNS5-----A----</AM>
 <AM lemma="vydávání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="auto">NNNS6-----A----</AM>
 <AM lemma="vydávání-2_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)_(*5at-2)" src="auto">NNNP1-----A----</AM>
@@ -3708,7 +3708,7 @@
 <AM lemma="vydávání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="auto">NNNS1-----A----</AM>
 <AM lemma="vydávání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="auto">NNNS2-----A----</AM>
 <AM lemma="vydávání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="auto">NNNS3-----A----</AM>
-<AM lemma="vydávání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="auto" recommended="1" selected="1">NNNS4-----A----</AM>
+<AM lemma="vydávání_^(*3at)" src="auto" recommended="1" selected="1">NNNS4-----A----</AM>
 <AM lemma="vydávání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="auto">NNNS5-----A----</AM>
 <AM lemma="vydávání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="auto">NNNS6-----A----</AM>
 <AM lemma="vydávání-2_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)_(*5at-2)" src="auto">NNNP1-----A----</AM>
@@ -4312,7 +4312,7 @@
 <LM>w#w-cmpr9416-020-p24s1w19</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-cmpr9416-020-p24s1w20">
 <src.rf>manual</src.rf>
@@ -4320,7 +4320,7 @@
 <LM>w#w-cmpr9416-020-p24s1w20</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-cmpr9416-020-p24s1w21">
 <src.rf>manual</src.rf>
@@ -4440,7 +4440,7 @@
 <LM>w#w-cmpr9416-020-p24s1w35</LM>
 </w.rf>
 <form>členů</form>
-<tag lemma="člen" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-cmpr9416-020-p24s1w36">
 <src.rf>manual</src.rf>
@@ -4456,7 +4456,7 @@
 <LM>w#w-cmpr9416-020-p24s1w37</LM>
 </w.rf>
 <form>orgánu</form>
-<tag lemma="orgán" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-cmpr9416-020-p24s1w38">
 <src.rf>manual</src.rf>
@@ -4848,7 +4848,7 @@
 <form>starosti</form>
 <tag>
 <AM lemma="starost" src="orig">NNFP1-----A----</AM>
-<AM lemma="starost-1" src="auto" recommended="1" selected="1">NNFP1-----A----</AM>
+<AM lemma="starost-2_^(*5ý-2)" src="auto" recommended="1" selected="1">NNFP1-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFP4-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFP5-----A----</AM>
 <AM lemma="starost-1" src="auto">NNFS2-----A----</AM>
@@ -5325,7 +5325,7 @@
 <LM>w#w-cmpr9416-020-p27s2w16</LM>
 </w.rf>
 <form>vázaných</form>
-<tag lemma="vázaný_^(např._provazem;_se_k_čemu)_(*2t)" src="auto" selected="1">AAFP2----1A----</tag>
+<tag lemma="vázaný_^(*2t)" src="auto" selected="1">AAFP2----1A----</tag>
 </m>
 <m id="m-cmpr9416-020-p27s2w17">
 <src.rf>manual</src.rf>
@@ -5512,7 +5512,7 @@
 <LM>w#w-cmpr9416-020-p27s3w19</LM>
 </w.rf>
 <form>orgánu</form>
-<tag lemma="orgán" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-cmpr9416-020-p27s3w20">
 <src.rf>manual</src.rf>
@@ -5560,7 +5560,7 @@
 <AM lemma="vydávaný-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*4t-1)" src="auto">AANP4----1A---6</AM>
 <AM lemma="vydávaný-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*4t-1)" src="auto">AANP5----1A---6</AM>
 <AM lemma="vydávaný-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*4t-1)" src="auto">AANS1----1A----</AM>
-<AM lemma="vydávaný-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*4t-1)" src="auto" selected="1">AANS4----1A----</AM>
+<AM lemma="vydávaný_^(*2t)" src="auto" selected="1">AANS4----1A----</AM>
 <AM lemma="vydávaný-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*4t-1)" src="auto">AANS5----1A----</AM>
 <AM lemma="vydávaný-2_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)_(*4t-2)" src="auto">AAFP1----1A----</AM>
 <AM lemma="vydávaný-2_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)_(*4t-2)" src="auto">AAFP4----1A----</AM>
@@ -5676,7 +5676,7 @@
 <LM>w#w-cmpr9416-020-p27s4w3</LM>
 </w.rf>
 <form>vázanými</form>
-<tag lemma="vázaný_^(např._provazem;_se_k_čemu)_(*2t)" src="auto" selected="1">AAFP7----1A----</tag>
+<tag lemma="vázaný_^(*2t)" src="auto" selected="1">AAFP7----1A----</tag>
 </m>
 <m id="m-cmpr9416-020-p27s4w4">
 <src.rf>manual</src.rf>
@@ -5860,7 +5860,7 @@
 <LM>w#w-cmpr9416-020-p27s4w26</LM>
 </w.rf>
 <form>stanovené</form>
-<tag lemma="stanovený_^(určit)_(*3it)" src="orig" selected="1">AAFS2----1A----</tag>
+<tag lemma="stanovený_^(*3it)" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-cmpr9416-020-p27s4w27">
 <src.rf>manual</src.rf>
@@ -5932,7 +5932,7 @@
 <LM>w#w-cmpr9416-020-p27s4w35</LM>
 </w.rf>
 <form>nesprávném</form>
-<tag lemma="správný_^(podle_něj._měřítek;_př._chlap,_míra,...)" src="orig" selected="1">AANS6----1N----</tag>
+<tag lemma="správný" src="orig" selected="1">AANS6----1N----</tag>
 </m>
 <m id="m-cmpr9416-020-p27s4w36">
 <src.rf>manual</src.rf>
@@ -6048,7 +6048,7 @@
 <LM>w#w-cmpr9416-020-p28s1w2</LM>
 </w.rf>
 <form>rovnosti</form>
-<tag lemma="rovnost_^(přímý,_stejný,_spravedlivý)_(*3ý)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="rovnost_^(*3ý)" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9416-020-p29s1">
@@ -6178,7 +6178,7 @@
 <LM>w#w-cmpr9416-020-p29s1w16</LM>
 </w.rf>
 <form>rovnosti</form>
-<tag lemma="rovnost_^(přímý,_stejný,_spravedlivý)_(*3ý)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="rovnost_^(*3ý)" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-cmpr9416-020-p29s1w17">
 <src.rf>manual</src.rf>
@@ -6696,7 +6696,7 @@
 <LM>w#w-cmpr9416-020-p30s2w23</LM>
 </w.rf>
 <form>orgány</form>
-<tag lemma="orgán" src="orig" selected="1">NNIP7-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIP7-----A----</tag>
 </m>
 <m id="m-cmpr9416-020-p30s2w24">
 <src.rf>manual</src.rf>
@@ -6850,7 +6850,7 @@
 <LM>w#w-cmpr9416-020-p30s3w16</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-cmpr9416-020-p30s3w17">
 <src.rf>manual</src.rf>

@@ -744,7 +744,7 @@
 <LM>w#w-ln94210-81-p2s4w9</LM>
 </w.rf>
 <form>nejhorší</form>
-<tag lemma="špatný" src="orig" selected="1">AANS4----3A----</tag>
+<tag lemma="horší" src="orig" selected="1">AANS4----3A----</tag>
 </m>
 <m id="m-ln94210-81-p2s4w10">
 <src.rf>manual</src.rf>

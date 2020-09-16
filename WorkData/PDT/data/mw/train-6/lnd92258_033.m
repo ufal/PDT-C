@@ -182,7 +182,7 @@
 <LM>w#w-lnd92258-033-p1s1w21</LM>
 </w.rf>
 <form>vymyšlenou</form>
-<tag lemma="vymyšlený_^(*5slet)" src="orig" selected="1">AAFS4----1A----</tag>
+<tag lemma="vymyšlený_^(*5slit)" src="orig" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-lnd92258-033-p1s1w22">
 <src.rf>manual</src.rf>

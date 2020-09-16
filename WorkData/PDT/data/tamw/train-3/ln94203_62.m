@@ -334,7 +334,7 @@
 <LM>w#w-ln94203-62-p2s3w4</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-62-p2s3w5">
 <src.rf>manual</src.rf>
@@ -350,7 +350,7 @@
 <LM>w#w-ln94203-62-p2s3w6</LM>
 </w.rf>
 <form>spravedlnosti</form>
-<tag lemma="spravedlnost_^(*3ý)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="spravedlnost-1_^(*5ý-1)" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94203-62-p2s3w7">
 <src.rf>manual</src.rf>

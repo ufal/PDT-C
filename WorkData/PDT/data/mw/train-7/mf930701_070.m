@@ -469,7 +469,7 @@
 <LM>w#w-mf930701-070-p3s2w47</LM>
 </w.rf>
 <form>Poruba</form>
-<tag lemma="Poruba_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Poruba-1_;G" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930701-070-p3s2w48">
 <src.rf>manual</src.rf>
@@ -487,7 +487,7 @@
 <LM>w#w-mf930701-070-p3s3w1</LM>
 </w.rf>
 <form>Ač</form>
-<tag lemma="ač" src="orig" selected="1">J,-------------</tag>
+<tag lemma="ač-1" src="orig" selected="1">J,-------------</tag>
 </m>
 <m id="m-mf930701-070-p3s3w2">
 <src.rf>manual</src.rf>
@@ -605,7 +605,7 @@
 <LM>w#w-mf930701-070-p3s3w15</LM>
 </w.rf>
 <form>členů</form>
-<tag lemma="člen" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf930701-070-p3s3w16">
 <src.rf>manual</src.rf>
@@ -1014,7 +1014,7 @@
 <LM>w#w-mf930701-070-p3s6w2</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-mf930701-070-p3s6w3">
 <src.rf>manual</src.rf>
@@ -1554,7 +1554,7 @@
 <LM>w#w-mf930701-070-p3s10w11</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS7----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS7----------</tag>
 </m>
 <m id="m-mf930701-070-p3s10w12">
 <src.rf>manual</src.rf>
@@ -1952,7 +1952,7 @@
 <LM>w#w-mf930701-070-p3s14w5</LM>
 </w.rf>
 <form>dál</form>
-<tag lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="dál-3_,s_^(také,_za_další)_(^DD**dále-3)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf930701-070-p3s14w6">
 <src.rf>manual</src.rf>
@@ -2075,7 +2075,7 @@
 <LM>w#w-mf930701-070-p3s15w2</LM>
 </w.rf>
 <form>nejhorším</form>
-<tag lemma="špatný" src="orig" selected="1">AAIS6----3A----</tag>
+<tag lemma="horší" src="orig" selected="1">AAIS6----3A----</tag>
 </m>
 <m id="m-mf930701-070-p3s15w3">
 <src.rf>manual</src.rf>
@@ -2425,7 +2425,7 @@
 <LM>w#w-mf930701-070-p3s17w6</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP6----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP6----------</tag>
 </m>
 <m id="m-mf930701-070-p3s17w7">
 <src.rf>manual</src.rf>

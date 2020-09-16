@@ -380,7 +380,7 @@
 <LM>w#w-lnd91303-018-p4s2w20</LM>
 </w.rf>
 <form>postižený</form>
-<tag lemma="postižený_^(*4hnout)" src="orig" selected="1">AAIS1----1A----</tag>
+<tag lemma="postižený" src="orig" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-lnd91303-018-p4s2w21">
 <src.rf>manual</src.rf>

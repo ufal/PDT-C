@@ -181,7 +181,7 @@
 <AM lemma="Roxa_;G" src="auto">NNFS2-----A----</AM>
 <AM lemma="Roxy_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Roxy_;Y_,t" src="auto">NNMS5-----A----</AM>
-<AM lemma="Roxy-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Roxy-1_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-041-p2s1w20">

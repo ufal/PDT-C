@@ -704,7 +704,7 @@
 <tag>
 <AM lemma="zdaněný_^(vypočítat_daň)_(*3it)" src="auto">AAFP2----1N----</AM>
 <AM lemma="zdaněný_^(vypočítat_daň)_(*3it)" src="auto">AAFP6----1N----</AM>
-<AM lemma="zdaněný_^(vypočítat_daň)_(*3it)" src="auto" recommended="1">AAIP2----1N----</AM>
+<AM lemma="zdaněný_^(*3it)" src="auto" recommended="1">AAIP2----1N----</AM>
 <AM lemma="zdaněný_^(vypočítat_daň)_(*3it)" src="auto">AAIP6----1N----</AM>
 <AM lemma="zdaněný_^(vypočítat_daň)_(*3it)" src="auto">AAMP2----1N----</AM>
 <AM lemma="zdaněný_^(vypočítat_daň)_(*3it)" src="auto">AAMP6----1N----</AM>
@@ -1639,7 +1639,7 @@
 </w.rf>
 <form>Kentucky</form>
 <tag>
-<AM lemma="Kentucky_;G" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="Kentucky_;G_;m" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="kentucky" src="auto">Dg-------1A----</AM>
 </tag>
 </m>
@@ -1843,7 +1843,7 @@
 </w.rf>
 <form>Tucsonu</form>
 <tag>
-<AM lemma="Tucson_;G" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="Tucson_;G_;m" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="Tucson_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="Tucson_;G" src="auto">NNIS6-----A----</AM>
 </tag>
@@ -2440,7 +2440,7 @@
 <tag>
 <AM lemma="práv_^(oprávněný)" src="auto">ACNS------A----</AM>
 <AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto">NNNS1-----A----</AM>
-<AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto" recommended="1">NNNS4-----A----</AM>
+<AM lemma="právo" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto">NNNS5-----A----</AM>
 </tag>
 </m>
@@ -2571,7 +2571,7 @@
 </w.rf>
 <form>stanovenou</form>
 <tag>
-<AM lemma="stanovený_^(určit)_(*3it)" src="auto" recommended="1">AAFS4----1A----</AM>
+<AM lemma="stanovený_^(*3it)" src="auto" recommended="1">AAFS4----1A----</AM>
 <AM lemma="stanovený_^(určit)_(*3it)" src="auto">AAFS7----1A----</AM>
 </tag>
 </m>
@@ -2601,7 +2601,7 @@
 </w.rf>
 <form>stanoveném</form>
 <tag>
-<AM lemma="stanovený_^(určit)_(*3it)" src="auto" recommended="1">AAIS6----1A----</AM>
+<AM lemma="stanovený_^(*3it)" src="auto" recommended="1">AAIS6----1A----</AM>
 <AM lemma="stanovený_^(určit)_(*3it)" src="auto">AAMS6----1A----</AM>
 <AM lemma="stanovený_^(určit)_(*3it)" src="auto">AANS6----1A----</AM>
 </tag>

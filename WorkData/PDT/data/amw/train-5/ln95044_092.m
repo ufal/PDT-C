@@ -63,7 +63,7 @@
 <LM>w#w-ln95044-092-p2s1Bw1</LM>
 </w.rf>
 <form>Roztržení</form>
-<tag lemma="roztržení_^(*4hnout)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="roztržení" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln95044-092-p2s1Bw2">
 <src.rf>manual</src.rf>
@@ -289,7 +289,7 @@
 <LM>w#w-ln95044-092-p2s2w2</LM>
 </w.rf>
 <form>mluvčího</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95044-092-p2s2w3">
 <src.rf>manual</src.rf>
@@ -365,7 +365,7 @@
 <LM>w#w-ln95044-092-p2s2w11</LM>
 </w.rf>
 <form>dlouhé</form>
-<tag lemma="dlouhý-1_^(fyz._délka;_př._dlouhá_tyč)" src="orig" selected="1">AAFP1----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFP1----1A----</tag>
 </m>
 <m id="m-ln95044-092-p2s2w12">
 <src.rf>manual</src.rf>
@@ -421,7 +421,7 @@
 <LM>w#w-ln95044-092-p2s2w18</LM>
 </w.rf>
 <form>bílých</form>
-<tag lemma="bílý" src="orig" selected="1">AAFP6----1A----</tag>
+<tag lemma="bílý_;o" src="orig" selected="1">AAFP6----1A----</tag>
 </m>
 <m id="m-ln95044-092-p2s2w19">
 <src.rf>manual</src.rf>

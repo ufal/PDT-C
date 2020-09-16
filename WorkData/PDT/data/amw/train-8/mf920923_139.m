@@ -161,7 +161,7 @@
 <LM>w#w-mf920923-139-p4s2w9</LM>
 </w.rf>
 <form>prvnímu</form>
-<tag lemma="první" src="orig" selected="1">CrNS3----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS3----------</tag>
 </m>
 <m id="m-mf920923-139-p4s2w10">
 <src.rf>manual</src.rf>
@@ -429,7 +429,7 @@
 <LM>w#w-mf920923-139-p4s4w3</LM>
 </w.rf>
 <form>interview</form>
-<tag lemma="interview" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="interview-1" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-mf920923-139-p4s4w4">
 <src.rf>manual</src.rf>
@@ -575,7 +575,7 @@
 <LM>w#w-mf920923-139-p4s5w5</LM>
 </w.rf>
 <form>Bílého</form>
-<tag lemma="bílý" src="orig" selected="1">AAIS2----1A----</tag>
+<tag lemma="bílý_;o" src="orig" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-mf920923-139-p4s5w6">
 <src.rf>manual</src.rf>

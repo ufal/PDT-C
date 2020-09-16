@@ -35,7 +35,7 @@
 <LM>w#w-lnd92251-053-p1s1w3</LM>
 </w.rf>
 <form>nevidomé</form>
-<tag lemma="nevidomý" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="nevidomý-2" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92251-053-p2s1">
@@ -133,7 +133,7 @@
 <LM>w#w-lnd92251-053-p2s2w8</LM>
 </w.rf>
 <form>druhým</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS7----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS7----------</tag>
 </m>
 <m id="m-lnd92251-053-p2s2w9">
 <src.rf>manual</src.rf>
@@ -189,7 +189,7 @@
 <LM>w#w-lnd92251-053-p2s2w15</LM>
 </w.rf>
 <form>nevidomí</form>
-<tag lemma="nevidomý" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="nevidomý-2" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd92251-053-p2s2w16">
 <src.rf>manual</src.rf>
@@ -541,7 +541,7 @@
 <LM>w#w-lnd92251-053-p2s4w5</LM>
 </w.rf>
 <form>nevidomých</form>
-<tag lemma="nevidomý" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="nevidomý-2" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd92251-053-p2s4w6">
 <src.rf>manual</src.rf>

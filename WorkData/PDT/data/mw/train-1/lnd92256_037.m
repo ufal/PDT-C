@@ -523,7 +523,7 @@
 <LM>w#w-lnd92256-037-p2s3w39</LM>
 </w.rf>
 <form>zaměstnání</form>
-<tag lemma="zaměstnání-1_^(všeob._význam:_činnost,_zaměstnání)_(*5at-1)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="zaměstnání_^(*3at)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-lnd92256-037-p2s3w40">
 <src.rf>manual</src.rf>
@@ -1261,7 +1261,7 @@
 <LM>w#w-lnd92256-037-p2s9w27</LM>
 </w.rf>
 <form>župany</form>
-<tag lemma="župan" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="župan-2" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-lnd92256-037-p2s9w28">
 <src.rf>manual</src.rf>

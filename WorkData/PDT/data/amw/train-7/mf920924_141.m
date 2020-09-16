@@ -106,7 +106,7 @@
 <tag>
 <AM lemma="Alma_;Y" src="orig">NNFS1-----A----</AM>
 <AM lemma="Alma_;G_^(Alma-Ata)" src="manual">NNFXX-----A----</AM>
-<AM lemma="Alma-2_^(Alma-Ata)" src="manual" selected="1">S2--------A----</AM>
+<AM lemma="Alma-2" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-141-p3s1Aw6">
@@ -396,7 +396,7 @@
 <LM>w#w-mf920924-141-p3s3w5</LM>
 </w.rf>
 <form>jeřáb</form>
-<tag lemma="jeřáb-3_^(stroj)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="jeřáb-2_^(strom;;stroj)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-mf920924-141-p3s3w6">
 <src.rf>manual</src.rf>
@@ -786,7 +786,7 @@
 <LM>w#w-mf920924-141-p3s6w3</LM>
 </w.rf>
 <form>horší</form>
-<tag lemma="špatný" src="orig" selected="1">AAFS4----2A----</tag>
+<tag lemma="horší" src="orig" selected="1">AAFS4----2A----</tag>
 </m>
 <m id="m-mf920924-141-p3s6w4">
 <src.rf>manual</src.rf>

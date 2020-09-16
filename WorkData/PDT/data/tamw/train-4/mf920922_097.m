@@ -43,7 +43,7 @@
 <LM>w#w-mf920922-097-p1s1w4</LM>
 </w.rf>
 <form>Slovanu</form>
-<tag lemma="Slovan-2_;m" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Slovan-2_;G_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-mf920922-097-p1s1w5">
 <src.rf>manual</src.rf>
@@ -173,7 +173,7 @@
 <LM>w#w-mf920922-097-p2s2w5</LM>
 </w.rf>
 <form>Slovanu</form>
-<tag lemma="Slovan-2_;m" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Slovan-2_;G_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920922-097-p2s2w6">
 <src.rf>manual</src.rf>
@@ -362,7 +362,7 @@
 <LM>w#w-mf920922-097-p2s3w4</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920922-097-p2s3w5">
 <src.rf>manual</src.rf>
@@ -621,7 +621,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1740,7 +1740,7 @@
 <LM>w#w-mf920922-097-p2s9w18</LM>
 </w.rf>
 <form>lahví</form>
-<tag lemma="lahev" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="lahev_,s_^(^DD**láhev)" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-mf920922-097-p2s9w19">
 <src.rf>manual</src.rf>

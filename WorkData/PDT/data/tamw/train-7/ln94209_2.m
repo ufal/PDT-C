@@ -69,7 +69,7 @@
 <LM>w#w-ln94209-2-p2s1w2</LM>
 </w.rf>
 <form>našeho</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSZS2-P1-------</tag>
 </m>
 <m id="m-ln94209-2-p2s1w3">
 <src.rf>manual</src.rf>
@@ -346,7 +346,7 @@
 <LM>w#w-ln94209-2-p3s1w13</LM>
 </w.rf>
 <form>stanovenou</form>
-<tag lemma="stanovený_^(určit)_(*3it)" src="orig" selected="1">AAFS4----1A----</tag>
+<tag lemma="stanovený_^(*3it)" src="orig" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-ln94209-2-p3s1w14">
 <src.rf>manual</src.rf>
@@ -1027,7 +1027,7 @@
 <LM>w#w-ln94209-2-p4s3w16</LM>
 </w.rf>
 <form>dovážené</form>
-<tag lemma="dovážený_^(dokončit_vážení)_(*2t)" src="auto" selected="1">AANS4----1A----</tag>
+<tag lemma="dovážený_^(*2t)_(*3it)" src="auto" selected="1">AANS4----1A----</tag>
 </m>
 <m id="m-ln94209-2-p4s3w17">
 <src.rf>manual</src.rf>

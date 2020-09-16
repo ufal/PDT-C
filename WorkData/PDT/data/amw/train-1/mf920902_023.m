@@ -452,7 +452,7 @@
 <LM>w#w-mf920902-023-p2s4w4</LM>
 </w.rf>
 <form>Benzinol</form>
-<tag lemma="benzinol" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Benzinol_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920902-023-p2s4w5">
 <src.rf>manual</src.rf>
@@ -574,7 +574,7 @@
 <LM>w#w-mf920902-023-p2s5w4</LM>
 </w.rf>
 <form>prostředky</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-mf920902-023-p2s5w5">
 <src.rf>manual</src.rf>
@@ -1090,7 +1090,7 @@
 <LM>w#w-mf920902-023-p2s7w10</LM>
 </w.rf>
 <form>stanovená</form>
-<tag lemma="stanovený_^(určit)_(*3it)" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="stanovený_^(*3it)" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-mf920902-023-p2s7w11">
 <src.rf>manual</src.rf>
@@ -1332,7 +1332,7 @@
 <LM>w#w-mf920902-023-p2s8w2</LM>
 </w.rf>
 <form>našeho</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSZS2-P1-------</tag>
 </m>
 <m id="m-mf920902-023-p2s8w3">
 <src.rf>manual</src.rf>
@@ -1835,7 +1835,7 @@
 <LM>w#w-mf920902-023-p2s12w12</LM>
 </w.rf>
 <form>stanovením</form>
-<tag lemma="stanovení_^(určit)_(*3it)" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="stanovení_^(*3it)" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-mf920902-023-p2s12w13">
 <src.rf>manual</src.rf>
@@ -1885,7 +1885,7 @@
 <LM>w#w-mf920902-023-p2s13w2</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP2-P1-------</tag>
 </m>
 <m id="m-mf920902-023-p2s13w3">
 <src.rf>manual</src.rf>
@@ -2211,7 +2211,7 @@
 <LM>w#w-mf920902-023-p2s13w41</LM>
 </w.rf>
 <form>rafinérií</form>
-<tag lemma="rafinérie" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="rafinérie_,s_^(^DD**rafinerie)" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-mf920902-023-p2s13w42">
 <src.rf>manual</src.rf>
@@ -2581,7 +2581,7 @@
 <LM>w#w-mf920902-023-p2s16w5</LM>
 </w.rf>
 <form>vedoucí</form>
-<tag lemma="vedoucí-2" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="vedoucí-3" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920902-023-p2s16w6">
 <src.rf>manual</src.rf>
@@ -3114,7 +3114,7 @@
 <LM>w#w-mf920902-023-p2s21w3</LM>
 </w.rf>
 <form>orgány</form>
-<tag lemma="orgán" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-mf920902-023-p2s21w4">
 <src.rf>manual</src.rf>
@@ -3248,7 +3248,7 @@
 <LM>w#w-mf920902-023-p2s22w3</LM>
 </w.rf>
 <form>náš</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSIS4-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSIS4-P1-------</tag>
 </m>
 <m id="m-mf920902-023-p2s22w4">
 <src.rf>manual</src.rf>

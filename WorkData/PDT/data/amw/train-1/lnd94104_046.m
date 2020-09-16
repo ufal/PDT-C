@@ -438,7 +438,7 @@
 <LM>w#w-lnd94104-046-p1s4w1</LM>
 </w.rf>
 <form>My</form>
-<tag lemma="já" src="orig" selected="1">PP-P1--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P1--1-------</tag>
 </m>
 <m id="m-lnd94104-046-p1s4w2">
 <src.rf>manual</src.rf>
@@ -608,7 +608,7 @@
 <LM>w#w-lnd94104-046-p1s5w10</LM>
 </w.rf>
 <form>orgány</form>
-<tag lemma="orgán" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-lnd94104-046-p1s5w11">
 <src.rf>manual</src.rf>
@@ -624,7 +624,7 @@
 <LM>w#w-lnd94104-046-p1s5w12</LM>
 </w.rf>
 <form>správní</form>
-<tag lemma="správní_^(např._poplatek;_rada;_řád;...)" src="orig" selected="1">AAFP1----1A----</tag>
+<tag lemma="správní_^(správní_rada;_řád)" src="orig" selected="1">AAFP1----1A----</tag>
 </m>
 <m id="m-lnd94104-046-p1s5w13">
 <src.rf>manual</src.rf>
@@ -887,7 +887,7 @@
 <LM>w#w-lnd94104-046-p1s7w6</LM>
 </w.rf>
 <form>dlouhý</form>
-<tag lemma="dlouhý-1_^(fyz._délka;_př._dlouhá_tyč)" src="orig" selected="1">AAIS1----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-lnd94104-046-p1s7w7">
 <src.rf>manual</src.rf>
@@ -1304,7 +1304,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1442,7 +1442,7 @@
 <LM>w#w-lnd94104-046-p1s11w24</LM>
 </w.rf>
 <form>nejsprávnější</form>
-<tag lemma="správný_^(podle_něj._měřítek;_př._chlap,_míra,...)" src="orig" selected="1">AAIS1----3A----</tag>
+<tag lemma="správný" src="orig" selected="1">AAIS1----3A----</tag>
 </m>
 <m id="m-lnd94104-046-p1s11w25">
 <src.rf>manual</src.rf>
@@ -1548,7 +1548,7 @@
 <LM>w#w-lnd94104-046-p1s12w3</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-lnd94104-046-p1s12w4">
 <src.rf>manual</src.rf>

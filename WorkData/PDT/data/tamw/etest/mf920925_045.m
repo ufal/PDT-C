@@ -865,7 +865,7 @@
 <LM>w#w-mf920925-045-p2s6w11</LM>
 </w.rf>
 <form>černého</form>
-<tag lemma="černý" src="auto" selected="1">AAMS4----1A----</tag>
+<tag lemma="černý_;o" src="auto" selected="1">AAMS4----1A----</tag>
 </m>
 <m id="m-mf920925-045-p2s6w12">
 <src.rf>manual</src.rf>
@@ -1032,7 +1032,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf920925-045-p2s8w7">
@@ -1291,7 +1291,7 @@
 <LM>w#w-mf920925-045-p2s10w6</LM>
 </w.rf>
 <form>druhý</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS1----------</tag>
 </m>
 <m id="m-mf920925-045-p2s10w7">
 <src.rf>manual</src.rf>

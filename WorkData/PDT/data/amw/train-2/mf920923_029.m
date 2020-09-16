@@ -434,7 +434,7 @@
 <LM>w#w-mf920923-029-p2s2w25</LM>
 </w.rf>
 <form>prvního</form>
-<tag lemma="první" src="orig" selected="1">CrMS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrMS2----------</tag>
 </m>
 <m id="m-mf920923-029-p2s2w26">
 <src.rf>manual</src.rf>
@@ -469,7 +469,7 @@
 <LM>w#w-mf920923-029-p2s2w29</LM>
 </w.rf>
 <form>Nobelovy</form>
-<tag lemma="Nobelův_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Nobelův_;Y_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-mf920923-029-p2s2w30">
 <src.rf>manual</src.rf>
@@ -623,7 +623,7 @@
 <LM>w#w-mf920923-029-p2s3w15</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-mf920923-029-p2s3w16">
 <src.rf>manual</src.rf>

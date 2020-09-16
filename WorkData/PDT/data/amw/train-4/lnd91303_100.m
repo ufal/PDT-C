@@ -205,7 +205,7 @@
 <LM>w#w-lnd91303-100-p2s1w20</LM>
 </w.rf>
 <form>dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd91303-100-p2s1w21">
 <src.rf>manual</src.rf>
@@ -317,7 +317,7 @@
 <LM>w#w-lnd91303-100-p2s1w34</LM>
 </w.rf>
 <form>dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd91303-100-p2s1w35">
 <src.rf>manual</src.rf>
@@ -589,7 +589,7 @@
 <LM>w#w-lnd91303-100-p2s1w67</LM>
 </w.rf>
 <form>práva</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-lnd91303-100-p2s1w68">
 <src.rf>manual</src.rf>
@@ -677,7 +677,7 @@
 <LM>w#w-lnd91303-100-p2s1w78</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-lnd91303-100-p2s1w79">
 <src.rf>manual</src.rf>

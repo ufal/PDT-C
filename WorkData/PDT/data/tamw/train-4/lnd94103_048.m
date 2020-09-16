@@ -19,7 +19,7 @@
 <LM>w#w-lnd94103-048-p1s1w1</LM>
 </w.rf>
 <form>Česko</form>
-<tag lemma="český" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="česko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-lnd94103-048-p1s1w2">
 <src.rf>manual</src.rf>
@@ -229,7 +229,7 @@
 <LM>w#w-lnd94103-048-p1s4w2</LM>
 </w.rf>
 <form>Naše</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSHS1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSHS1-P1-------</tag>
 </m>
 <m id="m-lnd94103-048-p1s4w3">
 <src.rf>manual</src.rf>

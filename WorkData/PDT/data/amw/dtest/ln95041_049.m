@@ -231,7 +231,7 @@
 <LM>w#w-ln95041-049-p2s2w7</LM>
 </w.rf>
 <form>Juventus</form>
-<tag lemma="Juventus" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Juventus_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95041-049-p2s2w8">
 <src.rf>manual</src.rf>
@@ -306,7 +306,7 @@
 <LM>w#w-ln95041-049-p2s2w16</LM>
 </w.rf>
 <form>mužského</form>
-<tag lemma="mužský" src="orig" selected="1">AAIS2----1A----</tag>
+<tag lemma="mužský-1" src="orig" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-ln95041-049-p2s2w17">
 <src.rf>manual</src.rf>
@@ -429,7 +429,7 @@
 <LM>w#w-ln95041-049-p2s3w12</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95041-049-p2s3w13">
 <src.rf>manual</src.rf>
@@ -559,7 +559,7 @@
 <LM>w#w-ln95041-049-p2s4w15</LM>
 </w.rf>
 <form>mužských</form>
-<tag lemma="mužský" src="orig" selected="1">AAIP2----1A----</tag>
+<tag lemma="mužský-1" src="orig" selected="1">AAIP2----1A----</tag>
 </m>
 <m id="m-ln95041-049-p2s4w16">
 <src.rf>manual</src.rf>
@@ -809,7 +809,7 @@
 <LM>w#w-ln95041-049-p2s5w8</LM>
 </w.rf>
 <form>vyhlášení</form>
-<tag lemma="vyhlášení_,a_^(*4sit)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="vyhlášení_^(*2t)_(*4sit)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln95041-049-p2s5w9">
 <src.rf>manual</src.rf>
@@ -966,7 +966,7 @@
 <LM>w#w-ln95041-049-p2s6w17</LM>
 </w.rf>
 <form>Má</form>
-<tag lemma="můj_^(má_kniha;_přivlast.)" src="orig" selected="1">PSFS1-S1------1</tag>
+<tag lemma="můj" src="orig" selected="1">PSFS1-S1------1</tag>
 </m>
 <m id="m-ln95041-049-p2s6w18">
 <src.rf>manual</src.rf>
@@ -1193,7 +1193,7 @@
 <LM>w#w-ln95041-049-p2s7w21</LM>
 </w.rf>
 <form>člena</form>
-<tag lemma="člen" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95041-049-p2s7w22">
 <src.rf>manual</src.rf>

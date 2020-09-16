@@ -817,7 +817,7 @@
 <LM>w#w-ln95044-004-p4s1w17</LM>
 </w.rf>
 <form>vydaný</form>
-<tag lemma="vydaný-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*4t-1)" src="orig" selected="1">AAIS1----1A----</tag>
+<tag lemma="vydaný_^(*2t)" src="orig" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-ln95044-004-p4s1w18">
 <src.rf>manual</src.rf>
@@ -1391,7 +1391,7 @@
 <LM>w#w-ln95044-004-p6s1w1</LM>
 </w.rf>
 <form>Zveřejněné</form>
-<tag lemma="zveřejněný_^(*3it)" src="orig" selected="1">AAIP1----1A----</tag>
+<tag lemma="zveřejněný_^(*2t)_(*3it)" src="orig" selected="1">AAIP1----1A----</tag>
 </m>
 <m id="m-ln95044-004-p6s1w2">
 <src.rf>manual</src.rf>

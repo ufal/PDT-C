@@ -1193,7 +1193,7 @@
 <LM>w#w-lnd94103-146-p1s8w9</LM>
 </w.rf>
 <form>proto</form>
-<tag lemma="proto-2_^(dal_mu_co_proto,_tak_proto!)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="proto-2_^(proto_že)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd94103-146-p1s8w10">
 <src.rf>manual</src.rf>

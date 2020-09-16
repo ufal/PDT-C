@@ -108,7 +108,7 @@
 <LM>w#w-lnd92258-066-p3s2w4</LM>
 </w.rf>
 <form>orgán</form>
-<tag lemma="orgán" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92258-066-p3s2w5">
 <src.rf>manual</src.rf>

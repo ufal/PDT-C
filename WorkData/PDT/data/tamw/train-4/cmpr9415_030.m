@@ -151,7 +151,7 @@
 <LM>w#w-cmpr9415-030-p3s1w15</LM>
 </w.rf>
 <form>pana</form>
-<tag lemma="pan_^(oslovení)" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="pan" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9415-030-p3s1w16">
 <src.rf>manual</src.rf>
@@ -297,7 +297,7 @@
 <LM>w#w-cmpr9415-030-p3s2w11</LM>
 </w.rf>
 <form>nesprávnou</form>
-<tag lemma="správný_^(podle_něj._měřítek;_př._chlap,_míra,...)" src="orig" selected="1">AAFS4----1N----</tag>
+<tag lemma="správný" src="orig" selected="1">AAFS4----1N----</tag>
 </m>
 <m id="m-cmpr9415-030-p3s2w12">
 <src.rf>manual</src.rf>

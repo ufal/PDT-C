@@ -137,7 +137,7 @@
 </w.rf>
 <form>svých</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8XP2----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8XP2----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8XP6----------</AM>
 </tag>
 </m>
@@ -580,7 +580,7 @@
 <AM lemma="Hanson_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Hanson_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Hanson_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hanson_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Hanson-2_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1832-001-p1s2W3-Ta">
@@ -1135,7 +1135,7 @@
 </w.rf>
 <form>dalo</form>
 <tag>
-<AM lemma="dát" src="auto" recommended="1">VpNS----R-AAP--</AM>
+<AM lemma="dát-1" src="auto" recommended="1">VpNS----R-AAP--</AM>
 <AM lemma="dát-2_^(dá_se_očekávat)" src="auto">VpNS----R-AAI--</AM>
 </tag>
 </m>

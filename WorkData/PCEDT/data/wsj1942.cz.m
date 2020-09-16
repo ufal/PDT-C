@@ -720,7 +720,7 @@
 <AM lemma="program-1" src="auto" recommended="1">NNIP4-----A----</AM>
 <AM lemma="program-1" src="auto">NNIP5-----A----</AM>
 <AM lemma="program-1" src="auto">NNIP7-----A----</AM>
-<AM lemma="program" src="manual" selected="1">NNIP4-----A----</AM>
+<AM lemma="program-1" src="manual" selected="1">NNIP4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1942-001-p1s2W13-Ta">
@@ -1306,7 +1306,7 @@
 </w.rf>
 <form>letounu</form>
 <tag>
-<AM lemma="letoun" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="letoun-1" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="letoun" src="auto">NNIS3-----A----</AM>
 <AM lemma="letoun" src="auto">NNIS6-----A----</AM>
 <AM lemma="letoun" src="auto">NNMS3-----A---1</AM>

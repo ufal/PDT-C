@@ -776,7 +776,7 @@
 <LM>w#w-ln95047-134-p2s5w7</LM>
 </w.rf>
 <form>Veleslavínova</form>
-<tag lemma="Veleslavínův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Veleslavínův-1_;Y_^(*4-1)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-ln95047-134-p2s5w8">
 <src.rf>manual</src.rf>
@@ -1318,7 +1318,7 @@
 <LM>w#w-ln95047-134-p2s9w5</LM>
 </w.rf>
 <form>Milíčova</form>
-<tag lemma="Milíčův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Milíčův-1_;Y_^(*4-1)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-ln95047-134-p2s9w6">
 <src.rf>manual</src.rf>

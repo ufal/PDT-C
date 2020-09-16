@@ -213,7 +213,7 @@
 <LM>w#w-mf920902-040-p1s1Bw15</LM>
 </w.rf>
 <form>umění</form>
-<tag lemma="umění_^(mít_schopnost_něco_dělat)_(*2t)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="umění_^(*2t)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-mf920902-040-p1s1Bw16">
 <src.rf>manual</src.rf>
@@ -491,7 +491,7 @@
 <LM>w#w-mf920902-040-p1s2w8</LM>
 </w.rf>
 <form>umění</form>
-<tag lemma="umění_^(mít_schopnost_něco_dělat)_(*2t)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="umění_^(*2t)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-mf920902-040-p1s2w9">
 <src.rf>manual</src.rf>
@@ -693,7 +693,7 @@
 <LM>w#w-mf920902-040-p1s3w18</LM>
 </w.rf>
 <form>naší</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS3-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS3-P1-------</tag>
 </m>
 <m id="m-mf920902-040-p1s3w19">
 <src.rf>manual</src.rf>
@@ -789,7 +789,7 @@
 <form>sice</form>
 <tag>
 <AM lemma="sice-2" src="auto">Db-------------</AM>
-<AM lemma="sice-1" src="manual" selected="1">J^-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-mf920902-040-p1s4w10">
@@ -878,7 +878,7 @@
 <LM>w#w-mf920902-040-p1s4w20</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-mf920902-040-p1s4w21">
 <src.rf>manual</src.rf>
@@ -918,7 +918,7 @@
 <LM>w#w-mf920902-040-p1s4w25</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-mf920902-040-p1s4w26">
 <src.rf>manual</src.rf>
@@ -960,7 +960,7 @@
 <form>Carmen</form>
 <tag>
 <AM lemma="Carmen_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Carmen_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Carmen_;Y_;m" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-040-p1s4w31">

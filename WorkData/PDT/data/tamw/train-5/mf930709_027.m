@@ -27,7 +27,7 @@
 <LM>w#w-mf930709-027-p1s1w2</LM>
 </w.rf>
 <form>skot</form>
-<tag lemma="skot" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="skot-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930709-027-p1s1w3">
 <src.rf>manual</src.rf>
@@ -122,7 +122,7 @@
 <LM>w#w-mf930709-027-p2s1Bw1</LM>
 </w.rf>
 <form>Skot</form>
-<tag lemma="skot" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="skot-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930709-027-p2s1Bw2">
 <src.rf>manual</src.rf>
@@ -637,7 +637,7 @@
 <LM>w#w-mf930709-027-p2s6w1</LM>
 </w.rf>
 <form>Vakcinování</form>
-<tag lemma="vakcinování_;U_^(*3at)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="vakcinování_^(*3at)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf930709-027-p2s6w2">
 <src.rf>manual</src.rf>

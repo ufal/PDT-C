@@ -192,7 +192,7 @@
 <LM>w#w-ln94200-144-p2s1w20</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS7---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS7---------1</tag>
 </m>
 <m id="m-ln94200-144-p2s1w21">
 <src.rf>manual</src.rf>
@@ -699,7 +699,7 @@
 <LM>w#w-ln94200-144-p3s3w5</LM>
 </w.rf>
 <form>my</form>
-<tag lemma="já" src="orig" selected="1">PP-P1--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P1--1-------</tag>
 </m>
 <m id="m-ln94200-144-p3s3w6">
 <src.rf>manual</src.rf>
@@ -823,7 +823,7 @@
 <LM>w#w-ln94200-144-p3s4w5</LM>
 </w.rf>
 <form>dostání</form>
-<tag lemma="dostání_^(*3at)" src="orig" selected="1">NNNS3-----A----</tag>
+<tag lemma="dostání_^(*2t)_(*3at)" src="orig" selected="1">NNNS3-----A----</tag>
 </m>
 <m id="m-ln94200-144-p3s4w6">
 <src.rf>manual</src.rf>
@@ -1182,7 +1182,7 @@
 <LM>w#w-ln94200-144-p4s3w15</LM>
 </w.rf>
 <form>zavěšeným</form>
-<tag lemma="zavěšený_,s_^(*4sit)" src="orig" selected="1">AAIS7----1A----</tag>
+<tag lemma="zavěšený_^(*2t)_(*4sit)" src="orig" selected="1">AAIS7----1A----</tag>
 </m>
 <m id="m-ln94200-144-p4s3w16">
 <src.rf>manual</src.rf>
@@ -1339,7 +1339,7 @@
 <LM>w#w-ln94200-144-p4s4w16</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-ln94200-144-p4s4w17">
 <src.rf>manual</src.rf>
@@ -1574,7 +1574,7 @@
 <LM>w#w-ln94200-144-p5s1w26</LM>
 </w.rf>
 <form>my</form>
-<tag lemma="já" src="orig" selected="1">PP-P1--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P1--1-------</tag>
 </m>
 <m id="m-ln94200-144-p5s1w27">
 <src.rf>manual</src.rf>
@@ -1736,7 +1736,7 @@
 <LM>w#w-ln94200-144-p5s2w13</LM>
 </w.rf>
 <form>zašlou</form>
-<tag lemma="zašlý_^(starý,_neudržovaný)" src="orig" selected="1">AAFS4----1A----</tag>
+<tag lemma="zašlý_^(*3jít)" src="orig" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-ln94200-144-p5s2w14">
 <src.rf>manual</src.rf>
@@ -1863,7 +1863,7 @@
 <LM>w#w-ln94200-144-p6s1w7</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94200-144-p6s1w8">
 <src.rf>manual</src.rf>

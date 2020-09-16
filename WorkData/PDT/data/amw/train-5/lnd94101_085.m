@@ -55,7 +55,7 @@
 <LM>w#w-lnd94101-085-p1s3w1</LM>
 </w.rf>
 <form>Nejlepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAMS1----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAMS1----3A----</tag>
 </m>
 <m id="m-lnd94101-085-p1s3w2">
 <src.rf>manual</src.rf>
@@ -87,7 +87,7 @@
 <LM>w#w-lnd94101-085-p1s3w5</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd94101-085-p1s3w6">
 <src.rf>manual</src.rf>

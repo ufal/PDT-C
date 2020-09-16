@@ -104,7 +104,7 @@
 <LM>w#w-mf930703-146-p2s1w5</LM>
 </w.rf>
 <form>spravedlnosti</form>
-<tag lemma="spravedlnost_^(*3ý)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="spravedlnost-1_^(*5ý-1)" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930703-146-p2s1w6">
 <src.rf>manual</src.rf>
@@ -184,7 +184,7 @@
 <LM>w#w-mf930703-146-p2s1w15</LM>
 </w.rf>
 <form>jehož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P1XXXZS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXZS3-------</tag>
 </m>
 <m id="m-mf930703-146-p2s1w16">
 <src.rf>manual</src.rf>
@@ -291,7 +291,7 @@
 <LM>w#w-mf930703-146-p2s1w28</LM>
 </w.rf>
 <form>Yorku</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="York-2_;G_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-mf930703-146-p2s1w29">
 <src.rf>manual</src.rf>

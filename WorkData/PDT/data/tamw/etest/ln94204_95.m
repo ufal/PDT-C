@@ -95,7 +95,7 @@
 <LM>w#w-ln94204-95-p2s1Bw6</LM>
 </w.rf>
 <form>Miroslava</form>
-<tag lemma="Miroslav_;Y" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Miroslav-1_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94204-95-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -207,7 +207,7 @@
 <LM>w#w-ln94204-95-p2s1Bw20</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94204-95-p2s1Bw21">
 <src.rf>manual</src.rf>
@@ -596,7 +596,7 @@
 <LM>w#w-ln94204-95-p2s6w5</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-ln94204-95-p2s6w6">
 <src.rf>manual</src.rf>
@@ -1112,7 +1112,7 @@
 <LM>w#w-ln94204-95-p3s3w6</LM>
 </w.rf>
 <form>členů</form>
-<tag lemma="člen" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94204-95-p3s3w7">
 <src.rf>manual</src.rf>
@@ -1395,7 +1395,7 @@
 <LM>w#w-ln94204-95-p4s1w3</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS7----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS7----------</tag>
 </m>
 <m id="m-ln94204-95-p4s1w4">
 <src.rf>manual</src.rf>
@@ -1639,7 +1639,7 @@
 <form>Milese</form>
 <tag>
 <AM lemma="Miles_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Miles_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Miles-1_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-95-p4s1w33">
@@ -1736,7 +1736,7 @@
 <LM>w#w-ln94204-95-p4s1w44</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94204-95-p4s1w45">
 <src.rf>manual</src.rf>
@@ -1922,7 +1922,7 @@
 <LM>w#w-ln94204-95-p4s3w13</LM>
 </w.rf>
 <form>tenor</form>
-<tag lemma="tenor_^(zpěvák)" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="tenor-1_^(zpěvák)" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-95-p4s3w14">
 <src.rf>manual</src.rf>
@@ -2264,7 +2264,7 @@
 <LM>w#w-ln94204-95-p5s1w24</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94204-95-p5s1w25">
 <src.rf>manual</src.rf>
@@ -2579,7 +2579,7 @@
 <LM>w#w-ln94204-95-p5s3w6</LM>
 </w.rf>
 <form>míří</form>
-<tag lemma="mířit_^(např._pistolí;_směřovat;_tvar_slovesa)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="mířit" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94204-95-p5s3w7">
 <src.rf>manual</src.rf>

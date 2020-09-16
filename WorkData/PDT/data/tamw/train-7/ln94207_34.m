@@ -53,7 +53,7 @@
 <LM>w#w-ln94207-34-p2s1w4</LM>
 </w.rf>
 <form>právo</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln94207-34-p2s1w5">
 <src.rf>manual</src.rf>
@@ -127,7 +127,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -206,7 +206,7 @@
 <LM>w#w-ln94207-34-p2s2w6</LM>
 </w.rf>
 <form>Yorku</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="York-2_;G_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln94207-34-p2s2w7">
 <src.rf>manual</src.rf>
@@ -429,7 +429,7 @@
 <form>Rady</form>
 <tag>
 <AM lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig">NNFS2-----A----</AM>
-<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu_poradní_sbor)" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-34-p2s3w18">
@@ -566,7 +566,7 @@
 <LM>w#w-ln94207-34-p3s1w13</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrIP1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIP1----------</tag>
 </m>
 <m id="m-ln94207-34-p3s1w14">
 <src.rf>manual</src.rf>
@@ -983,7 +983,7 @@
 <LM>w#w-ln94207-34-p4s2w5</LM>
 </w.rf>
 <form>daný</form>
-<tag lemma="daný_^(*3át)" src="auto" selected="1">AAIS4----1A----</tag>
+<tag lemma="daný-1_^(*5át-1)" src="auto" selected="1">AAIS4----1A----</tag>
 </m>
 <m id="m-ln94207-34-p4s2w6">
 <src.rf>manual</src.rf>
@@ -1384,7 +1384,7 @@
 <form>NATO</form>
 <tag>
 <AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="NATO_;m_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="NATO-1_;m_^(Northtlantic_Treaty_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-34-p5s2w20">
@@ -1419,7 +1419,7 @@
 <LM>w#w-ln94207-34-p6s1w3</LM>
 </w.rf>
 <form>Ťiang</form>
-<tag lemma="Ťiang_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ťiang-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-34-p6s1w4">
 <src.rf>manual</src.rf>
@@ -1432,7 +1432,7 @@
 <AM lemma="Ce-1_:B_;U_^(cerium,_cer)" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="Ce-3_:B_,t_^(compagnie,_vojenská_rota,_obch._společnost)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="ce-2_:B_,t_^(compass_error,_deklinač._a_deviační_odchylka)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Ce_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Ce-4_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-34-p6s1w5">
@@ -1550,7 +1550,7 @@
 <LM>w#w-ln94207-34-p6s2w3</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS4----------</tag>
 </m>
 <m id="m-ln94207-34-p6s2w4">
 <src.rf>manual</src.rf>

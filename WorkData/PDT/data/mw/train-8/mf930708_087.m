@@ -195,7 +195,7 @@
 <LM>w#w-mf930708-087-p4s2w1</LM>
 </w.rf>
 <form>Beskydy</form>
-<tag lemma="Beskydy_;G" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="Beskydy-2_;G" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-mf930708-087-p4s2w2">
 <src.rf>manual</src.rf>
@@ -583,7 +583,7 @@
 <LM>w#w-mf930708-087-p5s2w4</LM>
 </w.rf>
 <form>příjemném</form>
-<tag lemma="příjemný-1_^(všeob.,_poz._emoce)" src="orig" selected="1">AAIS6----1A----</tag>
+<tag lemma="příjemný_^(všeob.,_poz._emoce)" src="orig" selected="1">AAIS6----1A----</tag>
 </m>
 <m id="m-mf930708-087-p5s2w5">
 <src.rf>manual</src.rf>
@@ -854,7 +854,7 @@
 <LM>w#w-mf930708-087-p5s4w7</LM>
 </w.rf>
 <form>Beskydy</form>
-<tag lemma="Beskydy_;G" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="Beskydy-2_;G" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-mf930708-087-p5s4w8">
 <src.rf>manual</src.rf>
@@ -920,7 +920,7 @@
 <LM>w#w-mf930708-087-p5s5w4</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS1----------</tag>
 </m>
 <m id="m-mf930708-087-p5s5w5">
 <src.rf>manual</src.rf>
@@ -1069,7 +1069,7 @@
 <LM>w#w-mf930708-087-p5s6w2</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS1----------</tag>
 </m>
 <m id="m-mf930708-087-p5s6w3">
 <src.rf>manual</src.rf>
@@ -1255,7 +1255,7 @@
 <LM>w#w-mf930708-087-p6s1w11</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-mf930708-087-p6s1w12">
 <src.rf>manual</src.rf>
@@ -1811,7 +1811,7 @@
 <LM>w#w-mf930708-087-p6s6w8</LM>
 </w.rf>
 <form>nedá</form>
-<tag lemma="dát" src="orig" selected="1">VB-S---3P-NAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VB-S---3P-NAP--</tag>
 </m>
 <m id="m-mf930708-087-p6s6w9">
 <src.rf>manual</src.rf>
@@ -1903,7 +1903,7 @@
 <LM>w#w-mf930708-087-p7s1w4</LM>
 </w.rf>
 <form>Beskydy</form>
-<tag lemma="Beskydy_;G" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="Beskydy-2_;G" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-mf930708-087-p7s1w5">
 <src.rf>manual</src.rf>
@@ -2164,7 +2164,7 @@
 <LM>w#w-mf930708-087-p7s2w26</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-mf930708-087-p7s2w27">
 <src.rf>manual</src.rf>
@@ -2246,7 +2246,7 @@
 <LM>w#w-mf930708-087-p7s3w5</LM>
 </w.rf>
 <form>líp</form>
-<tag lemma="dobře" src="orig" selected="1">Dg-------2A---1</tag>
+<tag lemma="lépe" src="orig" selected="1">Dg-------2A---1</tag>
 </m>
 <m id="m-mf930708-087-p7s3w6">
 <src.rf>manual</src.rf>
@@ -2622,7 +2622,7 @@
 <LM>w#w-mf930708-087-p8s1w4</LM>
 </w.rf>
 <form>Beskydy</form>
-<tag lemma="Beskydy_;G" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="Beskydy-2_;G" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-mf930708-087-p8s1w5">
 <src.rf>manual</src.rf>
@@ -2686,7 +2686,7 @@
 <LM>w#w-mf930708-087-p8s1w12</LM>
 </w.rf>
 <form>Beskydy</form>
-<tag lemma="Beskydy_;G" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="Beskydy-2_;G" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-mf930708-087-p8s1w13">
 <src.rf>manual</src.rf>

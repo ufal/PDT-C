@@ -139,7 +139,7 @@
 <LM>w#w-ln94211-27-p2s1Bw8</LM>
 </w.rf>
 <form>Zelenými</form>
-<tag lemma="zelený" src="orig" selected="1">AAMP7----1A----</tag>
+<tag lemma="zelený_;o" src="orig" selected="1">AAMP7----1A----</tag>
 </m>
 <m id="m-ln94211-27-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -155,7 +155,7 @@
 <LM>w#w-ln94211-27-p2s1Bw10</LM>
 </w.rf>
 <form>Sasku</form>
-<tag lemma="Sasko_;G" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="Sasko-2_;G" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-ln94211-27-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -343,7 +343,7 @@
 <LM>w#w-ln94211-27-p2s1Bw33</LM>
 </w.rf>
 <form>extremisty</form>
-<tag lemma="extremista" src="orig" selected="1">NNMP7-----A----</tag>
+<tag lemma="extremista_,s_^(^DD**extrémista)" src="orig" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-ln94211-27-p2s1Bw34">
 <src.rf>manual</src.rf>
@@ -369,7 +369,7 @@
 <LM>w#w-ln94211-27-p3s1w2</LM>
 </w.rf>
 <form>druhý</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS4----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS4----------</tag>
 </m>
 <m id="m-ln94211-27-p3s1w3">
 <src.rf>manual</src.rf>

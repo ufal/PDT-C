@@ -244,7 +244,7 @@
 <LM>w#w-mf920922-010-p1s3w11</LM>
 </w.rf>
 <form>děti</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-mf920922-010-p1s3w12">
 <src.rf>manual</src.rf>
@@ -488,7 +488,7 @@
 <LM>w#w-mf920922-010-p2s2w2</LM>
 </w.rf>
 <form>vaší</form>
-<tag lemma="tvůj_^(přivlast.)" src="orig" selected="1">PSFS6-P2-------</tag>
+<tag lemma="váš" src="orig" selected="1">PSFS6-P2-------</tag>
 </m>
 <m id="m-mf920922-010-p2s2w3">
 <src.rf>manual</src.rf>

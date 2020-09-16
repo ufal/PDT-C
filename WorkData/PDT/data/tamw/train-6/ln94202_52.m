@@ -148,7 +148,7 @@
 <LM>w#w-ln94202-52-p2s1Cw4</LM>
 </w.rf>
 <form>politiky</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94202-52-p2s1Cw5">
 <src.rf>manual</src.rf>
@@ -329,7 +329,7 @@
 <LM>w#w-ln94202-52-p2s2w5</LM>
 </w.rf>
 <form>obsažené</form>
-<tag lemma="obsažený_^(*5áhnout)" src="orig" selected="1">AAFP1----1A----</tag>
+<tag lemma="obsažený" src="orig" selected="1">AAFP1----1A----</tag>
 </m>
 <m id="m-ln94202-52-p2s2w6">
 <src.rf>manual</src.rf>

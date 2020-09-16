@@ -98,7 +98,7 @@
 <LM>w#w-lnd91301-025-p2s1Bw1</LM>
 </w.rf>
 <form>Vsetínské</form>
-<tag lemma="vsetínský_;G" src="orig" selected="1">AANS1----1A----</tag>
+<tag lemma="vsetínský" src="orig" selected="1">AANS1----1A----</tag>
 </m>
 <m id="m-lnd91301-025-p2s1Bw2">
 <src.rf>manual</src.rf>
@@ -165,7 +165,7 @@
 <LM>w#w-lnd91301-025-p2s1Bw9</LM>
 </w.rf>
 <form>rozvod</form>
-<tag lemma="rozvod-2_^(vody,_plynu...)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="rozvod_^(manželství;vody)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-lnd91301-025-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -654,7 +654,7 @@
 <LM>w#w-lnd91301-025-p2s3w30</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-lnd91301-025-p2s3w31">
 <src.rf>manual</src.rf>
@@ -917,7 +917,7 @@
 <LM>w#w-lnd91301-025-p2s5w11</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrNS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS1----------</tag>
 </m>
 <m id="m-lnd91301-025-p2s5w12">
 <src.rf>manual</src.rf>

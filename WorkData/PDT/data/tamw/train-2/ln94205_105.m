@@ -75,7 +75,7 @@
 <LM>w#w-ln94205-105-p1s1w8</LM>
 </w.rf>
 <form>Zlatého</form>
-<tag lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAMS4----1A----</tag>
+<tag lemma="zlatý-1_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAMS4----1A----</tag>
 </m>
 <m id="m-ln94205-105-p1s1w9">
 <src.rf>manual</src.rf>
@@ -101,7 +101,7 @@
 <LM>w#w-ln94205-105-p2s1w2</LM>
 </w.rf>
 <form>představením</form>
-<tag lemma="představení-2_^(divadelní,_filmové_apod.)" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="představení-1_^(*5it-1)" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-ln94205-105-p2s1w3">
 <src.rf>manual</src.rf>
@@ -150,7 +150,7 @@
 <LM>w#w-ln94205-105-p2s1w8</LM>
 </w.rf>
 <form>Radforda</form>
-<tag lemma="Radford_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Radford-1_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94205-105-p2s1w9">
 <src.rf>manual</src.rf>
@@ -419,7 +419,7 @@
 <LM>w#w-ln94205-105-p2s2w20</LM>
 </w.rf>
 <form>Zlatého</form>
-<tag lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAMS2----1A----</tag>
+<tag lemma="zlatý-1_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAMS2----1A----</tag>
 </m>
 <m id="m-ln94205-105-p2s2w21">
 <src.rf>manual</src.rf>
@@ -1004,7 +1004,7 @@
 <LM>w#w-ln94205-105-p2s5w12</LM>
 </w.rf>
 <form>naší</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS2-P1-------</tag>
 </m>
 <m id="m-ln94205-105-p2s5w13">
 <src.rf>manual</src.rf>
@@ -1068,7 +1068,7 @@
 <LM>w#w-ln94205-105-p2s5w20</LM>
 </w.rf>
 <form>panoráma</form>
-<tag lemma="panoráma" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="panoráma-1" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94205-105-p2s5w21">
 <src.rf>manual</src.rf>

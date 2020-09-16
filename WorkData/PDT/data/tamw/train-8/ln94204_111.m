@@ -293,7 +293,7 @@
 <LM>w#w-ln94204-111-p2s1Bw29</LM>
 </w.rf>
 <form>vydání</form>
-<tag lemma="vydání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="vydání_^(*3at)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln94204-111-p2s1Bw30">
 <src.rf>manual</src.rf>

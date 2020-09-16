@@ -91,7 +91,7 @@
 <LM>w#w-ln95049-052-p2s1Aw2</LM>
 </w.rf>
 <form>York</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="York-2_;G_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95049-052-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -125,7 +125,7 @@
 <LM>w#w-ln95049-052-p2s1Bw3</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-ln95049-052-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -176,7 +176,7 @@
 <LM>w#w-ln95049-052-p2s1Bw9</LM>
 </w.rf>
 <form>Orlando</form>
-<tag lemma="Orlando_;G" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Orlando-1_;G" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95049-052-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -648,7 +648,7 @@
 <LM>w#w-ln95049-052-p2s2w30</LM>
 </w.rf>
 <form>my</form>
-<tag lemma="já" src="orig" selected="1">PP-P1--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P1--1-------</tag>
 </m>
 <m id="m-ln95049-052-p2s2w31">
 <src.rf>manual</src.rf>
@@ -730,7 +730,7 @@
 <LM>w#w-ln95049-052-p2s3w1</LM>
 </w.rf>
 <form>Orlando</form>
-<tag lemma="Orlando_;G" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Orlando-1_;G" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95049-052-p2s3w2">
 <src.rf>manual</src.rf>

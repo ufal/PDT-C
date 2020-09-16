@@ -498,7 +498,7 @@
 <LM>w#w-ln94208-130-p2s3w6</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrIS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS1----------</tag>
 </m>
 <m id="m-ln94208-130-p2s3w7">
 <src.rf>manual</src.rf>
@@ -1130,7 +1130,7 @@
 <LM>w#w-ln94208-130-p5s1w7</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS1----------</tag>
 </m>
 <m id="m-ln94208-130-p5s1w8">
 <src.rf>manual</src.rf>
@@ -2590,7 +2590,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94208-130-p9s1w4">
@@ -3208,7 +3208,7 @@
 <LM>w#w-ln94208-130-p9s6w19</LM>
 </w.rf>
 <form>Turky</form>
-<tag lemma="Turek_;E" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="Turek_;E_;Y" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-ln94208-130-p9s6w20">
 <src.rf>manual</src.rf>
@@ -3364,7 +3364,7 @@
 <LM>w#w-ln94208-130-p11s1w9</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS4----------</tag>
 </m>
 <m id="m-ln94208-130-p11s1w10">
 <src.rf>manual</src.rf>
@@ -3566,7 +3566,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94208-130-p13s2w4">
@@ -4211,7 +4211,7 @@
 <form>Norové</form>
 <tag>
 <AM lemma="Nor_;E" src="orig">NNMP1-----A----</AM>
-<AM lemma="Nor_;E" src="auto" selected="1">NNMP1-----A---1</AM>
+<AM lemma="Nor_;E_;Y" src="auto" selected="1">NNMP1-----A---1</AM>
 <AM lemma="Nor_;E" src="auto">NNMP5-----A---1</AM>
 <AM lemma="Noro_;Y" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="Noro_;Y" src="auto">NNMP5-----A----</AM>
@@ -4924,7 +4924,7 @@
 <LM>w#w-ln94208-130-p15s5w4</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FP4---------1</tag>
 </m>
 <m id="m-ln94208-130-p15s5w5">
 <src.rf>manual</src.rf>
@@ -6299,7 +6299,7 @@
 <LM>w#w-ln94208-130-p19s4w15</LM>
 </w.rf>
 <form>Faerské</form>
-<tag lemma="faerský_;G" src="orig" selected="1">AAIP1----1A----</tag>
+<tag lemma="faerský" src="orig" selected="1">AAIP1----1A----</tag>
 </m>
 <m id="m-ln94208-130-p19s4w16">
 <src.rf>manual</src.rf>

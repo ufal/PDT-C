@@ -77,7 +77,7 @@
 <LM>w#w-mf930709-089-p2s1w6</LM>
 </w.rf>
 <form>Santosu</form>
-<tag lemma="Santos_;G" src="orig" selected="1">NNIS6-----A---1</tag>
+<tag lemma="Santos-2_;G" src="orig" selected="1">NNIS6-----A---1</tag>
 </m>
 <m id="m-mf930709-089-p2s1w7">
 <src.rf>manual</src.rf>
@@ -568,7 +568,7 @@
 <LM>w#w-mf930709-089-p4s1w1</LM>
 </w.rf>
 <form>Druhou</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS4----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS4----------</tag>
 </m>
 <m id="m-mf930709-089-p4s1w2">
 <src.rf>manual</src.rf>
@@ -1227,7 +1227,7 @@
 </w.rf>
 <form>Xerox</form>
 <tag>
-<AM lemma="Xerox_;m" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="xerox" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="xerox" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="xerox" src="auto">NNIS4-----A----</AM>
 </tag>

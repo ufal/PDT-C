@@ -43,7 +43,7 @@
 <LM>w#w-ln94209-35-p1s1w4</LM>
 </w.rf>
 <form>lidech</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP6-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP6-----A----</tag>
 </m>
 </s>
 <s id="m-ln94209-35-p2s1A">
@@ -266,7 +266,7 @@
 <LM>w#w-ln94209-35-p2s1Bw22</LM>
 </w.rf>
 <form>lidech</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP6-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP6-----A----</tag>
 </m>
 <m id="m-ln94209-35-p2s1Bw23">
 <src.rf>manual</src.rf>
@@ -411,7 +411,7 @@
 <LM>w#w-ln94209-35-p2s4w3</LM>
 </w.rf>
 <form>druhý</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS4----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS4----------</tag>
 </m>
 <m id="m-ln94209-35-p2s4w4">
 <src.rf>manual</src.rf>
@@ -654,7 +654,7 @@
 <LM>w#w-ln94209-35-p2s5w27</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-35-p2s5w28">
 <src.rf>manual</src.rf>

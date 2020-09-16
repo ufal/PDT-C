@@ -110,7 +110,7 @@
 <LM>w#w-lnd92255-022-p1s2w4</LM>
 </w.rf>
 <form>Yorku</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="York-2_;G_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-lnd92255-022-p1s2w5">
 <src.rf>manual</src.rf>
@@ -350,7 +350,7 @@
 <LM>w#w-lnd92255-022-p1s2w35</LM>
 </w.rf>
 <form>tragédie</form>
-<tag lemma="tragedie" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="tragédie" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92255-022-p1s2w36">
 <src.rf>manual</src.rf>
@@ -392,7 +392,7 @@
 <LM>w#w-lnd92255-022-p1s3w4</LM>
 </w.rf>
 <form>prvních</form>
-<tag lemma="první" src="orig" selected="1">CrIP6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIP6----------</tag>
 </m>
 <m id="m-lnd92255-022-p1s3w5">
 <src.rf>manual</src.rf>

@@ -262,7 +262,7 @@
 <LM>w#w-lnd94101-049-p1s3w15</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS6---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS6---------1</tag>
 </m>
 <m id="m-lnd94101-049-p1s3w16">
 <src.rf>manual</src.rf>
@@ -354,7 +354,7 @@
 <form>Martin</form>
 <tag>
 <AM lemma="Martin-1_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Martin_;G_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Martin-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-049-p1s4w4">
@@ -1017,7 +1017,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94101-049-p1s9w12">
@@ -1657,7 +1657,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-2" src="auto">Db-------------</AM>
-<AM lemma="třeba-3" src="manual" selected="1">TT-------------</AM>
+<AM lemma="třeba-2_^(například)" src="manual" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94101-049-p1s14w5">
@@ -1682,7 +1682,7 @@
 <LM>w#w-lnd94101-049-p1s14w7</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1XP1FS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XP1FS3-------</tag>
 </m>
 <m id="m-lnd94101-049-p1s14w8">
 <src.rf>manual</src.rf>

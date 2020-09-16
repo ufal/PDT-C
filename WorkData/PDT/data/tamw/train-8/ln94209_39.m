@@ -845,7 +845,7 @@
 <LM>w#w-ln94209-39-p2s6w11</LM>
 </w.rf>
 <form>napadený</form>
-<tag lemma="napadený_^(*3nout)" src="orig" selected="1">AAMS1----1A----</tag>
+<tag lemma="napadený" src="orig" selected="1">AAMS1----1A----</tag>
 </m>
 <m id="m-ln94209-39-p2s6w12">
 <src.rf>manual</src.rf>
@@ -987,7 +987,7 @@
 <AM lemma="citroen_;m_,h" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="citroen_;m_,h" src="auto">NNIS3-----A----</AM>
 <AM lemma="citroen_;m_,h" src="auto">NNIS6-----A----</AM>
-<AM lemma="citroen_;m_^(vozidlo)" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="citroen_^(vozidlo)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-39-p2s7w12">
@@ -1140,7 +1140,7 @@
 <LM>w#w-ln94209-39-p2s9w6</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-ln94209-39-p2s9w7">
 <src.rf>manual</src.rf>
@@ -1725,7 +1725,7 @@
 <LM>w#w-ln94209-39-p2s14w13</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94209-39-p2s14w14">
 <src.rf>manual</src.rf>

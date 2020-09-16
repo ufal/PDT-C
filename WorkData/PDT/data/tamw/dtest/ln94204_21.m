@@ -40,7 +40,7 @@
 <LM>w#w-ln94204-21-p2s1w2</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrFS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS1----------</tag>
 </m>
 <m id="m-ln94204-21-p2s1w3">
 <src.rf>manual</src.rf>

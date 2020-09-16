@@ -313,7 +313,7 @@
 <LM>w#w-cmpr9406-041-p4s1w2</LM>
 </w.rf>
 <form>prostředky</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-cmpr9406-041-p4s1w3">
 <src.rf>manual</src.rf>

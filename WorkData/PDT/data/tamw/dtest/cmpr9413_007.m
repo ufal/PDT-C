@@ -2207,7 +2207,7 @@
 <AM lemma="holovský" src="auto">AANP1----1A----</AM>
 <AM lemma="holovský" src="auto">AANP4----1A----</AM>
 <AM lemma="holovský" src="auto">AANP5----1A----</AM>
-<AM lemma="Holovská_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Holovská_;Y_^(*1ý)" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-007-p8s1w30">
@@ -2855,7 +2855,7 @@
 <LM>w#w-cmpr9413-007-p9s2w21</LM>
 </w.rf>
 <form>pana</form>
-<tag lemma="pan_^(oslovení)" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="pan" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9413-007-p9s2w22">
 <src.rf>manual</src.rf>
@@ -3754,7 +3754,7 @@
 <LM>w#w-cmpr9413-007-p12s3w10</LM>
 </w.rf>
 <form>radu</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-cmpr9413-007-p12s3w11">
 <src.rf>manual</src.rf>

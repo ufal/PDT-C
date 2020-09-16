@@ -420,7 +420,7 @@
 <LM>w#w-lnd94101-108-p1s5w9</LM>
 </w.rf>
 <form>rada</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94101-108-p1s5w10">
 <src.rf>manual</src.rf>
@@ -656,7 +656,7 @@
 <LM>w#w-lnd94101-108-p1s6w6</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP4FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XP4FS3-------</tag>
 </m>
 <m id="m-lnd94101-108-p1s6w7">
 <src.rf>manual</src.rf>
@@ -698,7 +698,7 @@
 <LM>w#w-lnd94101-108-p1s7w2</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP2-P1-------</tag>
 </m>
 <m id="m-lnd94101-108-p1s7w3">
 <src.rf>manual</src.rf>

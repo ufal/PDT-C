@@ -139,7 +139,7 @@
 <LM>w#w-mf930708-042-p2s1w12</LM>
 </w.rf>
 <form>dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930708-042-p2s1w13">
 <src.rf>manual</src.rf>
@@ -381,7 +381,7 @@
 <LM>w#w-mf930708-042-p2s2w19</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-mf930708-042-p2s2w20">
 <src.rf>manual</src.rf>

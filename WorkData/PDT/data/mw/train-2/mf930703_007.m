@@ -410,7 +410,7 @@
 <LM>w#w-mf930703-007-p2s2w28</LM>
 </w.rf>
 <form>Evropě</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf930703-007-p2s2w29">
 <src.rf>manual</src.rf>
@@ -468,7 +468,7 @@
 <LM>w#w-mf930703-007-p2s3w1</LM>
 </w.rf>
 <form>Mockův</form>
-<tag lemma="Mockův_;Y_^(*3ek)" src="orig" selected="1">AUMS1M---------</tag>
+<tag lemma="Mockův_;Y_^(*2)_(*3ek)" src="orig" selected="1">AUMS1M---------</tag>
 </m>
 <m id="m-mf930703-007-p2s3w2">
 <src.rf>manual</src.rf>
@@ -476,7 +476,7 @@
 <LM>w#w-mf930703-007-p2s3w2</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-007-p2s3w3">
 <src.rf>manual</src.rf>

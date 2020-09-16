@@ -228,7 +228,7 @@
 <LM>w#w-ln95042-040-p2s2w5</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrIP4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIP4----------</tag>
 </m>
 <m id="m-ln95042-040-p2s2w6">
 <src.rf>manual</src.rf>
@@ -327,7 +327,7 @@
 <LM>w#w-ln95042-040-p2s2w17</LM>
 </w.rf>
 <form>zatčením</form>
-<tag lemma="zatčení_^(*4knout)" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="zatčení" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-ln95042-040-p2s2w18">
 <src.rf>manual</src.rf>

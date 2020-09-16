@@ -112,7 +112,7 @@
 <LM>w#w-cmpr9417-018-p4s1w6</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-cmpr9417-018-p4s1w7">
 <src.rf>manual</src.rf>
@@ -136,7 +136,7 @@
 <LM>w#w-cmpr9417-018-p4s1w9</LM>
 </w.rf>
 <form>druhých</form>
-<tag lemma="druhý" src="orig" selected="1">CrIP2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIP2----------</tag>
 </m>
 <m id="m-cmpr9417-018-p4s1w10">
 <src.rf>manual</src.rf>
@@ -350,7 +350,7 @@
 <LM>w#w-cmpr9417-018-p4s4w8</LM>
 </w.rf>
 <form>lepším</form>
-<tag lemma="dobrý" src="orig" selected="1">AAIS6----2A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAIS6----2A----</tag>
 </m>
 <m id="m-cmpr9417-018-p4s4w9">
 <src.rf>manual</src.rf>
@@ -422,7 +422,7 @@
 <LM>w#w-cmpr9417-018-p4s4w17</LM>
 </w.rf>
 <form>horším</form>
-<tag lemma="špatný" src="orig" selected="1">AAIS6----2A----</tag>
+<tag lemma="horší" src="orig" selected="1">AAIS6----2A----</tag>
 </m>
 <m id="m-cmpr9417-018-p4s4w18">
 <src.rf>manual</src.rf>
@@ -631,7 +631,7 @@
 <LM>w#w-cmpr9417-018-p5s3w7</LM>
 </w.rf>
 <form>příjemnou</form>
-<tag lemma="příjemný-1_^(všeob.,_poz._emoce)" src="orig" selected="1">AAFS7----1A----</tag>
+<tag lemma="příjemný_^(všeob.,_poz._emoce)" src="orig" selected="1">AAFS7----1A----</tag>
 </m>
 <m id="m-cmpr9417-018-p5s3w8">
 <src.rf>manual</src.rf>
@@ -881,7 +881,7 @@
 <LM>w#w-cmpr9417-018-p5s4w14</LM>
 </w.rf>
 <form>ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-cmpr9417-018-p5s4w15">
 <src.rf>manual</src.rf>
@@ -1061,7 +1061,7 @@
 <LM>w#w-cmpr9417-018-p7s1w3</LM>
 </w.rf>
 <form>zveřejněné</form>
-<tag lemma="zveřejněný_^(*3it)" src="orig" selected="1">AAIP4----1A----</tag>
+<tag lemma="zveřejněný_^(*2t)_(*3it)" src="orig" selected="1">AAIP4----1A----</tag>
 </m>
 <m id="m-cmpr9417-018-p7s1w4">
 <src.rf>manual</src.rf>

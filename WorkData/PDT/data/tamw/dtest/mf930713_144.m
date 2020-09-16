@@ -1354,7 +1354,7 @@
 <LM>w#w-mf930713-144-p2s11w8</LM>
 </w.rf>
 <form>tragédie</form>
-<tag lemma="tragedie" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="tragédie" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930713-144-p2s11w9">
 <src.rf>manual</src.rf>

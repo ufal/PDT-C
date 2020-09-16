@@ -159,7 +159,7 @@
 <LM>w#w-ln95044-129-p2s1Bw10</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-ln95044-129-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -306,7 +306,7 @@
 <LM>w#w-ln95044-129-p2s2w13</LM>
 </w.rf>
 <form>duch</form>
-<tag lemma="duch" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="duch-2" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln95044-129-p2s2w14">
 <src.rf>manual</src.rf>

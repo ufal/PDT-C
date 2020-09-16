@@ -410,7 +410,7 @@
 <LM>w#w-mf920924-029-p2s3w11</LM>
 </w.rf>
 <form>mechanismu</form>
-<tag lemma="mechanismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="mechanismus_,s_^(^DD**mechanizmus)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920924-029-p2s3w12">
 <src.rf>manual</src.rf>
@@ -525,7 +525,7 @@
 <LM>w#w-mf920924-029-p2s4w6</LM>
 </w.rf>
 <form>zveřejněná</form>
-<tag lemma="zveřejněný_^(*3it)" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="zveřejněný_^(*2t)_(*3it)" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-mf920924-029-p2s4w7">
 <src.rf>manual</src.rf>
@@ -1217,7 +1217,7 @@
 <LM>w#w-mf920924-029-p2s7w3</LM>
 </w.rf>
 <form>zveřejnění</form>
-<tag lemma="zveřejnění_^(*3it)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="zveřejnění_^(*2t)_(*3it)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-mf920924-029-p2s7w4">
 <src.rf>manual</src.rf>
@@ -1400,7 +1400,7 @@
 <LM>w#w-mf920924-029-p2s8w11</LM>
 </w.rf>
 <form>masovými</form>
-<tag lemma="masový-2_^(velký)" src="orig" selected="1">AAIP7----1A----</tag>
+<tag lemma="masový" src="orig" selected="1">AAIP7----1A----</tag>
 </m>
 <m id="m-mf920924-029-p2s8w12">
 <src.rf>manual</src.rf>
@@ -2676,7 +2676,7 @@
 <LM>w#w-mf920924-029-p2s15w10</LM>
 </w.rf>
 <form>mechanismu</form>
-<tag lemma="mechanismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="mechanismus_,s_^(^DD**mechanizmus)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920924-029-p2s15w11">
 <src.rf>manual</src.rf>
@@ -2897,7 +2897,7 @@
 <LM>w#w-mf920924-029-p2s16w7</LM>
 </w.rf>
 <form>svoji</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4----------</tag>
 </m>
 <m id="m-mf920924-029-p2s16w8">
 <src.rf>manual</src.rf>
@@ -3127,7 +3127,7 @@
 <LM>w#w-mf920924-029-p2s17w10</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP3----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP3----------</tag>
 </m>
 <m id="m-mf920924-029-p2s17w11">
 <src.rf>manual</src.rf>

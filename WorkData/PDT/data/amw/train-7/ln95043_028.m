@@ -375,7 +375,7 @@
 <LM>w#w-ln95043-028-p2s2w22</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS4----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS4----------</tag>
 </m>
 <m id="m-ln95043-028-p2s2w23">
 <src.rf>manual</src.rf>
@@ -506,7 +506,7 @@
 <LM>w#w-ln95043-028-p2s3w13</LM>
 </w.rf>
 <form>motýlek</form>
-<tag lemma="motýlek" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="motýlek-2" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln95043-028-p2s3w14">
 <src.rf>manual</src.rf>
@@ -563,7 +563,7 @@
 <LM>w#w-ln95043-028-p2s3w20</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln95043-028-p2s3w21">
 <src.rf>manual</src.rf>
@@ -1137,7 +1137,7 @@
 <form>Černá</form>
 <tag>
 <AM lemma="Černá_;Y_^(*1ý)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Černá_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Černá_;G_;Y_^(*1ý)" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-028-p2s5w5">

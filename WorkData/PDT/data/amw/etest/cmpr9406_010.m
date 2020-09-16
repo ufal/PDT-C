@@ -1204,7 +1204,7 @@
 <LM>w#w-cmpr9406-010-p8s1w10</LM>
 </w.rf>
 <form>dodacích</form>
-<tag lemma="dodací_^(list,_termín,...)" src="auto" selected="1">AAIP6----1A----</tag>
+<tag lemma="dodací_^(*2t)" src="auto" selected="1">AAIP6----1A----</tag>
 </m>
 <m id="m-cmpr9406-010-p8s1w11">
 <src.rf>manual</src.rf>
@@ -2698,7 +2698,7 @@
 <LM>w#w-cmpr9406-010-p24s1w10</LM>
 </w.rf>
 <form>správné</form>
-<tag lemma="správný_^(podle_něj._měřítek;_př._chlap,_míra,...)" src="orig" selected="1">AAFS6----1A----</tag>
+<tag lemma="správný" src="orig" selected="1">AAFS6----1A----</tag>
 </m>
 <m id="m-cmpr9406-010-p24s1w11">
 <src.rf>manual</src.rf>
@@ -3544,7 +3544,7 @@
 <LM>w#w-cmpr9406-010-p27s2w3</LM>
 </w.rf>
 <form>právo</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-cmpr9406-010-p27s2w4">
 <src.rf>manual</src.rf>

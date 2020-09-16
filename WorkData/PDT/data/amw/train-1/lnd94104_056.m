@@ -175,7 +175,7 @@
 <LM>w#w-lnd94104-056-p1s3w14</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd94104-056-p1s3w15">
 <src.rf>manual</src.rf>
@@ -199,7 +199,7 @@
 <LM>w#w-lnd94104-056-p1s3w17</LM>
 </w.rf>
 <form>orgány</form>
-<tag lemma="orgán" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-lnd94104-056-p1s3w18">
 <src.rf>manual</src.rf>
@@ -265,7 +265,7 @@
 <LM>w#w-lnd94104-056-p1s4w2</LM>
 </w.rf>
 <form>postiženými</form>
-<tag lemma="postižený_^(*4hnout)" src="orig" selected="1">AAMP7----1A----</tag>
+<tag lemma="postižený" src="orig" selected="1">AAMP7----1A----</tag>
 </m>
 <m id="m-lnd94104-056-p1s4w3">
 <src.rf>manual</src.rf>
@@ -594,7 +594,7 @@
 <LM>w#w-lnd94104-056-p1s5w11</LM>
 </w.rf>
 <form>pas</form>
-<tag lemma="pas-1_^(př._cestovní)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="pas-1_^(přihrávka,_př._v_kopané,na_lidském_těle;;cestovní)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94104-056-p1s5w12">
 <src.rf>manual</src.rf>

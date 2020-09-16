@@ -221,7 +221,7 @@
 <LM>w#w-mf920923-058-p2s1w22</LM>
 </w.rf>
 <form>km</form>
-<tag lemma="km-1`kilometr" src="orig" selected="1">NNIXX-----A---b</tag>
+<tag lemma="kilometr" src="orig" selected="1">NNIXX-----A---b</tag>
 </m>
 <m id="m-mf920923-058-p2s1w23">
 <src.rf>manual</src.rf>
@@ -253,7 +253,7 @@
 <LM>w#w-mf920923-058-p2s1w26</LM>
 </w.rf>
 <form>km</form>
-<tag lemma="km-1`kilometr" src="orig" selected="1">NNIXX-----A---b</tag>
+<tag lemma="kilometr" src="orig" selected="1">NNIXX-----A---b</tag>
 </m>
 <m id="m-mf920923-058-p2s1w27">
 <src.rf>manual</src.rf>
@@ -285,7 +285,7 @@
 <LM>w#w-mf920923-058-p2s1w30</LM>
 </w.rf>
 <form>km</form>
-<tag lemma="km-1`kilometr" src="orig" selected="1">NNIXX-----A---b</tag>
+<tag lemma="kilometr" src="orig" selected="1">NNIXX-----A---b</tag>
 </m>
 <m id="m-mf920923-058-p2s1w31">
 <src.rf>manual</src.rf>
@@ -317,7 +317,7 @@
 <LM>w#w-mf920923-058-p2s1w34</LM>
 </w.rf>
 <form>km</form>
-<tag lemma="km-1`kilometr" src="orig" selected="1">NNIXX-----A---b</tag>
+<tag lemma="kilometr" src="orig" selected="1">NNIXX-----A---b</tag>
 </m>
 <m id="m-mf920923-058-p2s1w35">
 <src.rf>manual</src.rf>
@@ -567,7 +567,7 @@
 <LM>w#w-mf920923-058-p2s3w17</LM>
 </w.rf>
 <form>žraloků</form>
-<tag lemma="žralok" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="žralok-1" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf920923-058-p2s3w18">
 <src.rf>manual</src.rf>
@@ -665,7 +665,7 @@
 <LM>w#w-mf920923-058-p2s4w7</LM>
 </w.rf>
 <form>naše</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSHS1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSHS1-P1-------</tag>
 </m>
 <m id="m-mf920923-058-p2s4w8">
 <src.rf>manual</src.rf>
@@ -1019,7 +1019,7 @@
 <LM>w#w-mf920923-058-p2s6w5</LM>
 </w.rf>
 <form>lepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAIS1----2A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAIS1----2A----</tag>
 </m>
 <m id="m-mf920923-058-p2s6w6">
 <src.rf>manual</src.rf>
@@ -1257,7 +1257,7 @@
 <LM>w#w-mf920923-058-p2s8Bw8</LM>
 </w.rf>
 <form>Polívková</form>
-<tag lemma="Polívková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Polívková_;Y_^(*3a)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920923-058-p2s8Bw9">
 <src.rf>manual</src.rf>

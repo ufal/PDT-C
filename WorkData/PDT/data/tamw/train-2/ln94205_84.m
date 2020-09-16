@@ -220,7 +220,7 @@
 <LM>w#w-ln94205-84-p2s1Bw18</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-ln94205-84-p2s1Bw19">
 <src.rf>manual</src.rf>
@@ -292,7 +292,7 @@
 <LM>w#w-ln94205-84-p2s1Bw27</LM>
 </w.rf>
 <form>kádrů</form>
-<tag lemma="kádr" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="kádr-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94205-84-p2s1Bw28">
 <src.rf>manual</src.rf>
@@ -478,7 +478,7 @@
 <LM>w#w-ln94205-84-p2s2w12</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-ln94205-84-p2s2w13">
 <src.rf>manual</src.rf>

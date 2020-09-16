@@ -512,7 +512,7 @@
 <LM>w#w-mf920924-124-p2s4w7</LM>
 </w.rf>
 <form>naše</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSIP1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSIP1-P1-------</tag>
 </m>
 <m id="m-mf920924-124-p2s4w8">
 <src.rf>manual</src.rf>

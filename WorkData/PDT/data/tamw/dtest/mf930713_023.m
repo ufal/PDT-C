@@ -328,7 +328,7 @@
 <LM>w#w-mf930713-023-p3s2w1</LM>
 </w.rf>
 <form>Druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS1----------</tag>
 </m>
 <m id="m-mf930713-023-p3s2w2">
 <src.rf>manual</src.rf>
@@ -502,7 +502,7 @@
 <LM>w#w-mf930713-023-p4s1w14</LM>
 </w.rf>
 <form>druhá</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS1----------</tag>
 </m>
 <m id="m-mf930713-023-p4s1w15">
 <src.rf>manual</src.rf>
@@ -782,7 +782,7 @@
 <LM>w#w-mf930713-023-p5s1w28</LM>
 </w.rf>
 <form>jezdcem</form>
-<tag lemma="jezdec" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="jezdec-1" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf930713-023-p5s1w29">
 <src.rf>manual</src.rf>
@@ -1288,7 +1288,7 @@
 <LM>w#w-mf930713-023-p8s1w7</LM>
 </w.rf>
 <form>Krč</form>
-<tag lemma="Krč_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Krč-2_;G" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930713-023-p8s1w8">
 <src.rf>manual</src.rf>
@@ -1395,7 +1395,7 @@
 <LM>w#w-mf930713-023-p8s1w19</LM>
 </w.rf>
 <form>Suchá</form>
-<tag lemma="Suchá_;Y_^(*1ý)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Suchá_;G_;Y_^(*1ý)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930713-023-p8s1w20">
 <src.rf>manual</src.rf>
@@ -1403,7 +1403,7 @@
 <LM>w#w-mf930713-023-p8s1w20</LM>
 </w.rf>
 <form>skreč</form>
-<tag lemma="skreč" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="skreč-1" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930713-023-p8s1w21">
 <src.rf>manual</src.rf>
@@ -1427,7 +1427,7 @@
 <LM>w#w-mf930713-023-p8s1w23</LM>
 </w.rf>
 <form>Suchou</form>
-<tag lemma="Suchá_;Y_^(*1ý)" src="auto" selected="1">NNFS4-----A----</tag>
+<tag lemma="Suchá_;G_;Y_^(*1ý)" src="auto" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf930713-023-p8s1w24">
 <src.rf>manual</src.rf>
@@ -1459,7 +1459,7 @@
 <LM>w#w-mf930713-023-p8s1w27</LM>
 </w.rf>
 <form>Kovo</form>
-<tag lemma="Kovo_;Y_;m" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Kovo_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf930713-023-p8s1w28">
 <src.rf>manual</src.rf>
@@ -1627,7 +1627,7 @@
 <LM>w#w-mf930713-023-p8s1w48</LM>
 </w.rf>
 <form>Kovo</form>
-<tag lemma="Kovo_;Y_;m" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Kovo_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf930713-023-p8s1w49">
 <src.rf>manual</src.rf>

@@ -55,7 +55,7 @@
 <LM>w#w-lnd92251-040-p2s2w1</LM>
 </w.rf>
 <form>Saúdská</form>
-<tag lemma="saudský" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="saúdský" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-lnd92251-040-p2s2w2">
 <src.rf>manual</src.rf>
@@ -87,7 +87,7 @@
 <LM>w#w-lnd92251-040-p2s2w5</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-lnd92251-040-p2s2w6">
 <src.rf>manual</src.rf>
@@ -289,7 +289,7 @@
 <LM>w#w-lnd92251-040-p2s3w1</LM>
 </w.rf>
 <form>Saúdský</form>
-<tag lemma="saudský" src="orig" selected="1">AAMS1----1A----</tag>
+<tag lemma="saúdský" src="orig" selected="1">AAMS1----1A----</tag>
 </m>
 <m id="m-lnd92251-040-p2s3w2">
 <src.rf>manual</src.rf>

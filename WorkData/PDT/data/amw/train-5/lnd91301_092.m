@@ -98,7 +98,7 @@
 <LM>w#w-lnd91301-092-p4s1w1</LM>
 </w.rf>
 <form>Druhá</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS1----------</tag>
 </m>
 <m id="m-lnd91301-092-p4s1w2">
 <src.rf>manual</src.rf>
@@ -138,7 +138,7 @@
 <LM>w#w-lnd91301-092-p4s1w6</LM>
 </w.rf>
 <form>Kapské</form>
-<tag lemma="kapský_;G" src="orig" selected="1">AANS1----1A----</tag>
+<tag lemma="kapský" src="orig" selected="1">AANS1----1A----</tag>
 </m>
 <m id="m-lnd91301-092-p4s1w7">
 <src.rf>manual</src.rf>
@@ -202,7 +202,7 @@
 <LM>w#w-lnd91301-092-p4s1w14</LM>
 </w.rf>
 <form>km</form>
-<tag lemma="km-1`kilometr" src="orig" selected="1">NNIXX-----A---b</tag>
+<tag lemma="kilometr" src="orig" selected="1">NNIXX-----A---b</tag>
 </m>
 <m id="m-lnd91301-092-p4s1w15">
 <src.rf>manual</src.rf>
@@ -226,7 +226,7 @@
 <LM>w#w-lnd91301-092-p4s1w17</LM>
 </w.rf>
 <form>Lybii</form>
-<tag lemma="Libye_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Lybie_;G_,i_^(^DS**Libye)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd91301-092-p4s1w18">
 <src.rf>manual</src.rf>
@@ -308,7 +308,7 @@
 <LM>w#w-lnd91301-092-p4s2w4</LM>
 </w.rf>
 <form>jezdce</form>
-<tag lemma="jezdec" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="jezdec-1" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd91301-092-p4s2w5">
 <src.rf>manual</src.rf>

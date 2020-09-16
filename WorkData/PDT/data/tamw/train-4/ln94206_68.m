@@ -322,7 +322,7 @@
 <form>Strobe</form>
 <tag>
 <AM lemma="Strobe_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Strobe_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Strobe-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-68-p2s2w10">
@@ -913,7 +913,7 @@
 <LM>w#w-ln94206-68-p2s7w8</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-ln94206-68-p2s7w9">
 <src.rf>manual</src.rf>

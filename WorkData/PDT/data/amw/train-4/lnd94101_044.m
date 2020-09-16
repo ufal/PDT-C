@@ -424,7 +424,7 @@
 <LM>w#w-lnd94101-044-p1s4w20</LM>
 </w.rf>
 <form>dovážených</form>
-<tag lemma="dovážený_^(dokončit_vážení)_(*2t)" src="auto" selected="1">AAIP2----1A----</tag>
+<tag lemma="dovážený_^(*2t)_(*3it)" src="auto" selected="1">AAIP2----1A----</tag>
 </m>
 <m id="m-lnd94101-044-p1s4w21">
 <src.rf>manual</src.rf>
@@ -905,7 +905,7 @@
 <LM>w#w-lnd94101-044-p1s8Aw2</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-lnd94101-044-p1s8Aw3">
 <src.rf>manual</src.rf>

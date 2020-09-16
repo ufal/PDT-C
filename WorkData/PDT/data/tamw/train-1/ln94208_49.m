@@ -19,7 +19,7 @@
 <LM>w#w-ln94208-49-p1s1w1</LM>
 </w.rf>
 <form>Druhý</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS1----------</tag>
 </m>
 <m id="m-ln94208-49-p1s1w2">
 <src.rf>manual</src.rf>
@@ -159,7 +159,7 @@
 <LM>w#w-ln94208-49-p2s1Bw11</LM>
 </w.rf>
 <form>druhém</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS6----------</tag>
 </m>
 <m id="m-ln94208-49-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -420,7 +420,7 @@
 <LM>w#w-ln94208-49-p2s2w16</LM>
 </w.rf>
 <form>zastupitelé</form>
-<tag lemma="zastupitel_,a" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="zastupitel" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln94208-49-p2s2w17">
 <src.rf>manual</src.rf>
@@ -502,7 +502,7 @@
 <LM>w#w-ln94208-49-p2s3w2</LM>
 </w.rf>
 <form>druhý</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS4----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS4----------</tag>
 </m>
 <m id="m-ln94208-49-p2s3w3">
 <src.rf>manual</src.rf>
@@ -582,7 +582,7 @@
 <LM>w#w-ln94208-49-p2s3w12</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94208-49-p2s3w13">
 <src.rf>manual</src.rf>
@@ -614,7 +614,7 @@
 <LM>w#w-ln94208-49-p2s3w16</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94208-49-p2s3w17">
 <src.rf>manual</src.rf>

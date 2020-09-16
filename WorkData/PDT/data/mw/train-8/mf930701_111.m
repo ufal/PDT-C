@@ -192,7 +192,7 @@
 <LM>w#w-mf930701-111-p2s1w17</LM>
 </w.rf>
 <form>Slovanu</form>
-<tag lemma="Slovan-2_;m" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Slovan-2_;G_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930701-111-p2s1w18">
 <src.rf>manual</src.rf>
@@ -334,7 +334,7 @@
 <LM>w#w-mf930701-111-p2s1w34</LM>
 </w.rf>
 <form>achillovky</form>
-<tag lemma="achilovka" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="achillovka_,s_^(^DD**achilovka)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930701-111-p2s1w35">
 <src.rf>manual</src.rf>
@@ -2057,7 +2057,7 @@
 <LM>w#w-mf930701-111-p10s1w3</LM>
 </w.rf>
 <form>Mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-111-p10s1w4">
 <src.rf>manual</src.rf>

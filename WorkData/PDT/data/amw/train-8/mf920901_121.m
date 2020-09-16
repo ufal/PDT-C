@@ -2191,7 +2191,7 @@
 <LM>w#w-mf920901-121-p5s3w10</LM>
 </w.rf>
 <form>dlouhé</form>
-<tag lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">AAFP4----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFP4----1A----</tag>
 </m>
 <m id="m-mf920901-121-p5s3w11">
 <src.rf>manual</src.rf>
@@ -3414,7 +3414,7 @@
 <LM>w#w-mf920901-121-p7s2w4</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrIS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS1----------</tag>
 </m>
 <m id="m-mf920901-121-p7s2w5">
 <src.rf>manual</src.rf>
@@ -3598,7 +3598,7 @@
 <LM>w#w-mf920901-121-p7s2w28</LM>
 </w.rf>
 <form>oči</form>
-<tag lemma="oko" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="oko-2" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-mf920901-121-p7s2w29">
 <src.rf>manual</src.rf>
@@ -4188,7 +4188,7 @@
 <LM>w#w-mf920901-121-p9s2w7</LM>
 </w.rf>
 <form>svoje</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8NS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8NS4----------</tag>
 </m>
 <m id="m-mf920901-121-p9s2w8">
 <src.rf>manual</src.rf>
@@ -4196,7 +4196,7 @@
 <LM>w#w-mf920901-121-p9s2w8</LM>
 </w.rf>
 <form>dopadení</form>
-<tag lemma="dopadení_^(*3nout)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="dopadení_,s_^(^DD**dopadnutí)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-mf920901-121-p9s2w9">
 <src.rf>manual</src.rf>

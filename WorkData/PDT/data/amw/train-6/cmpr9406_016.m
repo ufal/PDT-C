@@ -312,7 +312,7 @@
 <LM>w#w-cmpr9406-016-p5s1w7</LM>
 </w.rf>
 <form>ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 </s>
 <s id="m-cmpr9406-016-p6s1">
@@ -346,7 +346,7 @@
 <LM>w#w-cmpr9406-016-p6s1w4</LM>
 </w.rf>
 <form>mm</form>
-<tag lemma="mm-1`milimetr" src="orig" selected="1">NNIXX-----A---b</tag>
+<tag lemma="milimetr" src="orig" selected="1">NNIXX-----A---b</tag>
 </m>
 <m id="m-cmpr9406-016-p6s1w5">
 <src.rf>manual</src.rf>
@@ -535,7 +535,7 @@
 <LM>w#w-cmpr9406-016-p8s1Cw3</LM>
 </w.rf>
 <form>role</form>
-<tag lemma="role-1_^(kotouč;_svitek)" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="role_^(svitek_poslání_pozemek)" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-cmpr9406-016-p8s1Cw4">
 <src.rf>manual</src.rf>
@@ -632,7 +632,7 @@
 <AM lemma="display_,t" src="auto">NNIS3-----A----</AM>
 <AM lemma="display_,t" src="auto">NNIS5-----A----</AM>
 <AM lemma="display_,t" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="display" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="display_,s_^(^DD**displej)" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-016-p8s2w5">
@@ -757,7 +757,7 @@
 <LM>w#w-cmpr9406-016-p8s4w2</LM>
 </w.rf>
 <form>zkrácené</form>
-<tag lemma="zkrácený_,a_^(*2t)" src="auto" selected="1">AAFS2----1A----</tag>
+<tag lemma="zkrácený_^(*4tit)" src="auto" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-cmpr9406-016-p8s4w3">
 <src.rf>manual</src.rf>
@@ -1040,7 +1040,7 @@
 <LM>w#w-cmpr9406-016-p9s3w3</LM>
 </w.rf>
 <form>role</form>
-<tag lemma="role-1_^(kotouč;_svitek)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="role_^(svitek_poslání_pozemek)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-016-p9s3w4">
 <src.rf>manual</src.rf>
@@ -1072,7 +1072,7 @@
 <LM>w#w-cmpr9406-016-p9s3w7</LM>
 </w.rf>
 <form>dlouhé</form>
-<tag lemma="dlouhý-1_^(fyz._délka;_př._dlouhá_tyč)" src="orig" selected="1">AAFP4----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFP4----1A----</tag>
 </m>
 <m id="m-cmpr9406-016-p9s3w8">
 <src.rf>manual</src.rf>
@@ -1080,7 +1080,7 @@
 <LM>w#w-cmpr9406-016-p9s3w8</LM>
 </w.rf>
 <form>serie</form>
-<tag lemma="série" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="serie_,s_^(^DD**série)" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-cmpr9406-016-p9s3w9">
 <src.rf>manual</src.rf>

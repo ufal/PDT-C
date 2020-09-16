@@ -472,7 +472,7 @@
 <LM>w#w-ln94202-89-p2s3w6</LM>
 </w.rf>
 <form>editor</form>
-<tag lemma="editor" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="editor-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-89-p2s3w7">
 <src.rf>manual</src.rf>
@@ -504,7 +504,7 @@
 <LM>w#w-ln94202-89-p2s3w10</LM>
 </w.rf>
 <form>Prométheova</form>
-<tag lemma="Prométheův_;Y_^(*2us)" src="auto" selected="1">AUNP1M---------</tag>
+<tag lemma="Prométheův_;Y_^(^DD**Prométeův)_(*2us)" src="auto" selected="1">AUNP1M---------</tag>
 </m>
 <m id="m-ln94202-89-p2s3w11">
 <src.rf>manual</src.rf>
@@ -552,7 +552,7 @@
 <LM>w#w-ln94202-89-p2s3w16</LM>
 </w.rf>
 <form>vydání</form>
-<tag lemma="vydání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="vydání_^(*3at)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94202-89-p2s3w17">
 <src.rf>manual</src.rf>
@@ -1134,7 +1134,7 @@
 <LM>w#w-ln94202-89-p3s2w8</LM>
 </w.rf>
 <form>talentu</form>
-<tag lemma="talent" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="talent-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94202-89-p3s2w9">
 <src.rf>manual</src.rf>
@@ -1176,7 +1176,7 @@
 <LM>w#w-ln94202-89-p3s3w4</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94202-89-p3s3w5">
 <src.rf>manual</src.rf>

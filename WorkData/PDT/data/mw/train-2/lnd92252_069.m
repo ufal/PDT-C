@@ -425,7 +425,7 @@
 <LM>w#w-lnd92252-069-p3s3w22</LM>
 </w.rf>
 <form>postižené</form>
-<tag lemma="postižený_^(*4hnout)" src="orig" selected="1">AAFP4----1A----</tag>
+<tag lemma="postižený" src="orig" selected="1">AAFP4----1A----</tag>
 </m>
 <m id="m-lnd92252-069-p3s3w23">
 <src.rf>manual</src.rf>
@@ -1156,7 +1156,7 @@
 <LM>w#w-lnd92252-069-p3s8w9</LM>
 </w.rf>
 <form>masovými</form>
-<tag lemma="masový-2_^(velký)" src="orig" selected="1">AAIP7----1A----</tag>
+<tag lemma="masový" src="orig" selected="1">AAIP7----1A----</tag>
 </m>
 <m id="m-lnd92252-069-p3s8w10">
 <src.rf>manual</src.rf>

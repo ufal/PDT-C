@@ -484,7 +484,7 @@
 <LM>w#w-ln95042-045-p2s2w12</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-ln95042-045-p2s2w13">
 <src.rf>manual</src.rf>
@@ -688,7 +688,7 @@
 <LM>w#w-ln95042-045-p3s1w17</LM>
 </w.rf>
 <form>navrženého</form>
-<tag lemma="navržený_^(*4hnout)" src="orig" selected="1">AAIS2----1A----</tag>
+<tag lemma="navržený" src="orig" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-ln95042-045-p3s1w18">
 <src.rf>manual</src.rf>
@@ -1106,7 +1106,7 @@
 <LM>w#w-ln95042-045-p4s1w19</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95042-045-p4s1w20">
 <src.rf>manual</src.rf>
@@ -1537,7 +1537,7 @@
 <form>FED</form>
 <tag>
 <AM lemma="Fed_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="FED-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Fed-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-045-p4s3w8">
@@ -1750,7 +1750,7 @@
 <LM>w#w-ln95042-045-p5s1w10</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrIS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS6----------</tag>
 </m>
 <m id="m-ln95042-045-p5s1w11">
 <src.rf>manual</src.rf>
@@ -1830,7 +1830,7 @@
 <LM>w#w-ln95042-045-p5s1w20</LM>
 </w.rf>
 <form>přijetí</form>
-<tag lemma="přijetí_^(*3mout)" src="auto" selected="1">NNNS6-----A----</tag>
+<tag lemma="přijetí_^(*1)_(*3mout)" src="auto" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-ln95042-045-p5s1w21">
 <src.rf>manual</src.rf>
@@ -1862,7 +1862,7 @@
 <LM>w#w-ln95042-045-p5s1w24</LM>
 </w.rf>
 <form>člena</form>
-<tag lemma="člen" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95042-045-p5s1w25">
 <src.rf>manual</src.rf>

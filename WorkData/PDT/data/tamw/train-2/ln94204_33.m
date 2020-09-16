@@ -123,7 +123,7 @@
 <LM>w#w-ln94204-33-p2s1Bw4</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-ln94204-33-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -139,7 +139,7 @@
 <LM>w#w-ln94204-33-p2s1Bw6</LM>
 </w.rf>
 <form>kuponové</form>
-<tag lemma="kuponový" src="orig" selected="1">AAFS2----1A----</tag>
+<tag lemma="kuponový_,s_^(^DD**kupónový)" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-ln94204-33-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -318,7 +318,7 @@
 <LM>w#w-ln94204-33-p2s2w9</LM>
 </w.rf>
 <form>kupony</form>
-<tag lemma="kupón" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="kupon_,s_^(^DD**kupón)" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-ln94204-33-p2s2w10">
 <src.rf>manual</src.rf>
@@ -595,7 +595,7 @@
 <LM>w#w-ln94204-33-p2s4w18</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-ln94204-33-p2s4w19">
 <src.rf>manual</src.rf>
@@ -643,7 +643,7 @@
 <LM>w#w-ln94204-33-p2s4w24</LM>
 </w.rf>
 <form>prvních</form>
-<tag lemma="první" src="orig" selected="1">CrNP6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNP6----------</tag>
 </m>
 <m id="m-ln94204-33-p2s4w25">
 <src.rf>manual</src.rf>

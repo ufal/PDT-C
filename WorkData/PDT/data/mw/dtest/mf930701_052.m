@@ -310,7 +310,7 @@
 <LM>w#w-mf930701-052-p2s2w4</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS6---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS6---------1</tag>
 </m>
 <m id="m-mf930701-052-p2s2w5">
 <src.rf>manual</src.rf>
@@ -444,7 +444,7 @@
 <LM>w#w-mf930701-052-p2s3w2</LM>
 </w.rf>
 <form>dlouhého</form>
-<tag lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">AANS2----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AANS2----1A----</tag>
 </m>
 <m id="m-mf930701-052-p2s3w3">
 <src.rf>manual</src.rf>
@@ -508,7 +508,7 @@
 <LM>w#w-mf930701-052-p2s3w10</LM>
 </w.rf>
 <form>koupí</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="orig" selected="1">VB-S---3P-AAP--</tag>
+<tag lemma="koupit" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-mf930701-052-p2s3w11">
 <src.rf>manual</src.rf>

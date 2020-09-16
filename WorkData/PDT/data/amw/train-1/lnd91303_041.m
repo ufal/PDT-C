@@ -107,7 +107,7 @@
 <LM>w#w-lnd91303-041-p1s1Aw12</LM>
 </w.rf>
 <form>zpřístupnění</form>
-<tag lemma="zpřístupnění_^(*3it)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="zpřístupnění_^(*2t)_(*3it)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-lnd91303-041-p1s1Aw13">
 <src.rf>manual</src.rf>
@@ -222,7 +222,7 @@
 <LM>w#w-lnd91303-041-p1s1Aw25</LM>
 </w.rf>
 <form>právo</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-lnd91303-041-p1s1Aw26">
 <src.rf>manual</src.rf>
@@ -365,7 +365,7 @@
 <LM>w#w-lnd91303-041-p1s2w6</LM>
 </w.rf>
 <form>právo</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-lnd91303-041-p1s2w7">
 <src.rf>manual</src.rf>

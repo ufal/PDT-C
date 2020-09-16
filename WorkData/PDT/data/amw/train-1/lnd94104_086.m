@@ -420,7 +420,7 @@
 <LM>w#w-lnd94104-086-p1s2w16</LM>
 </w.rf>
 <form>Roučka</form>
-<tag lemma="Rouček_;G" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Rouček_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94104-086-p1s2w17">
 <src.rf>manual</src.rf>
@@ -514,7 +514,7 @@
 <LM>w#w-lnd94104-086-p1s2w27</LM>
 </w.rf>
 <form>roli</form>
-<tag lemma="role-1_^(kotouč;_svitek)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="role_^(svitek_poslání_pozemek)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd94104-086-p1s2w28">
 <src.rf>manual</src.rf>
@@ -757,7 +757,7 @@
 <LM>w#w-lnd94104-086-p1s4w3</LM>
 </w.rf>
 <form>hnutí</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-lnd94104-086-p1s4w4">
 <src.rf>manual</src.rf>
@@ -821,7 +821,7 @@
 <LM>w#w-lnd94104-086-p1s4w11</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-lnd94104-086-p1s4w12">
 <src.rf>manual</src.rf>

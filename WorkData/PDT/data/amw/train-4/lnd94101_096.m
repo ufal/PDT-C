@@ -225,7 +225,7 @@
 <LM>w#w-lnd94101-096-p1s4w4</LM>
 </w.rf>
 <form>můj</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSYS1-S1-------</tag>
+<tag lemma="můj" src="orig" selected="1">PSYS1-S1-------</tag>
 </m>
 <m id="m-lnd94101-096-p1s4w5">
 <src.rf>manual</src.rf>

@@ -43,7 +43,7 @@
 <LM>w#w-lnd92258-151-p1s1w4</LM>
 </w.rf>
 <form>Moto</form>
-<tag lemma="moto_^(spojitost_s_motory;_auto-moto,...)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="moto-2_^(spojitost_s_motory;_auto-moto,...)" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-lnd92258-151-p1s1w5">
 <src.rf>manual</src.rf>
@@ -172,7 +172,7 @@
 <LM>w#w-lnd92258-151-p1s1w18</LM>
 </w.rf>
 <form>Evropě</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd92258-151-p1s1w19">
 <src.rf>manual</src.rf>
@@ -294,7 +294,7 @@
 <LM>w#w-lnd92258-151-p1s2w2</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP2-P1-------</tag>
 </m>
 <m id="m-lnd92258-151-p1s2w3">
 <src.rf>manual</src.rf>

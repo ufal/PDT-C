@@ -105,7 +105,7 @@
 <LM>w#w-lnd92251-008-p2s2w5</LM>
 </w.rf>
 <form>vydání</form>
-<tag lemma="vydání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="vydání_^(*3at)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-lnd92251-008-p2s2w6">
 <src.rf>manual</src.rf>
@@ -113,7 +113,7 @@
 <LM>w#w-lnd92251-008-p2s2w6</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-lnd92251-008-p2s2w7">
 <src.rf>manual</src.rf>
@@ -163,7 +163,7 @@
 <LM>w#w-lnd92251-008-p2s2w11</LM>
 </w.rf>
 <form>rada</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92251-008-p2s2w12">
 <src.rf>manual</src.rf>
@@ -299,7 +299,7 @@
 <LM>w#w-lnd92251-008-p2s2w28</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-lnd92251-008-p2s2w29">
 <src.rf>manual</src.rf>
@@ -331,7 +331,7 @@
 <LM>w#w-lnd92251-008-p2s2w32</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-lnd92251-008-p2s2w33">
 <src.rf>manual</src.rf>
@@ -469,7 +469,7 @@
 <LM>w#w-lnd92251-008-p2s3w7</LM>
 </w.rf>
 <form>rady</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92251-008-p2s3w8">
 <src.rf>manual</src.rf>

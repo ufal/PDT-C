@@ -1755,7 +1755,7 @@
 <LM>w#w-ln94200-21-p6s2w16</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS3---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS3---------1</tag>
 </m>
 <m id="m-ln94200-21-p6s2w17">
 <src.rf>manual</src.rf>

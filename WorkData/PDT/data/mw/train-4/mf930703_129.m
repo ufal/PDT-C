@@ -311,7 +311,7 @@
 <LM>w#w-mf930703-129-p1s3w18</LM>
 </w.rf>
 <form>správního</form>
-<tag lemma="správní_^(např._poplatek;_rada;_řád;...)" src="orig" selected="1">AANS2----1A----</tag>
+<tag lemma="správní_^(správní_rada;_řád)" src="orig" selected="1">AANS2----1A----</tag>
 </m>
 <m id="m-mf930703-129-p1s3w19">
 <src.rf>manual</src.rf>
@@ -563,7 +563,7 @@
 <LM>w#w-mf930703-129-p1s5w8</LM>
 </w.rf>
 <form>správního</form>
-<tag lemma="správní_^(např._poplatek;_rada;_řád;...)" src="orig" selected="1">AANS2----1A----</tag>
+<tag lemma="správní_^(správní_rada;_řád)" src="orig" selected="1">AANS2----1A----</tag>
 </m>
 <m id="m-mf930703-129-p1s5w9">
 <src.rf>manual</src.rf>

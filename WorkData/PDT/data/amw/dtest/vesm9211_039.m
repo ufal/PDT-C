@@ -112,7 +112,7 @@
 <LM>w#w-vesm9211-039-p2s1w10</LM>
 </w.rf>
 <form>oko</form>
-<tag lemma="oko" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="oko-1" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-vesm9211-039-p2s1w11">
 <src.rf>manual</src.rf>
@@ -306,7 +306,7 @@
 <LM>w#w-vesm9211-039-p2s2w17</LM>
 </w.rf>
 <form>oči</form>
-<tag lemma="oko" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="oko-2" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-vesm9211-039-p2s2w18">
 <src.rf>manual</src.rf>

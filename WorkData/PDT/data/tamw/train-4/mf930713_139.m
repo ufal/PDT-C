@@ -181,7 +181,7 @@
 <LM>w#w-mf930713-139-p2s1w17</LM>
 </w.rf>
 <form>datum</form>
-<tag lemma="datum_^(kalendářní)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="datum-1_^(kalendářní)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf930713-139-p2s1w18">
 <src.rf>manual</src.rf>
@@ -431,7 +431,7 @@
 <LM>w#w-mf930713-139-p2s2w29</LM>
 </w.rf>
 <form>členové</form>
-<tag lemma="člen" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf930713-139-p2s2w30">
 <src.rf>manual</src.rf>
@@ -447,7 +447,7 @@
 <LM>w#w-mf930713-139-p2s2w31</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930713-139-p2s2w32">
 <src.rf>manual</src.rf>
@@ -455,7 +455,7 @@
 <LM>w#w-mf930713-139-p2s2w32</LM>
 </w.rf>
 <form>Inkatha</form>
-<tag lemma="Inkatha_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Inkatha_;G_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930713-139-p2s2w33">
 <src.rf>manual</src.rf>

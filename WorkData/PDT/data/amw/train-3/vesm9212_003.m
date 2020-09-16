@@ -311,7 +311,7 @@
 <form>vytvářená</form>
 <tag>
 <AM lemma="vytvářený_,a_^(*2t)" src="auto">AANP1----1A----</AM>
-<AM lemma="vytvářený_^(*2t)" src="manual" selected="1">AANP1----1A----</AM>
+<AM lemma="vytvářený_^(*2t)_(*3it)" src="manual" selected="1">AANP1----1A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-003-p2s3w4">
@@ -1426,7 +1426,7 @@
 <LM>w#w-vesm9212-003-p4s2w22</LM>
 </w.rf>
 <form>stanovení</form>
-<tag lemma="stanovení_^(určit)_(*3it)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="stanovení_^(*3it)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-vesm9212-003-p4s2w23">
 <src.rf>manual</src.rf>
@@ -1599,7 +1599,7 @@
 <LM>w#w-vesm9212-003-p4s3w18</LM>
 </w.rf>
 <form>daného</form>
-<tag lemma="daný_^(*3át)" src="auto" selected="1">AAIS2----1A----</tag>
+<tag lemma="daný-1_^(*5át-1)" src="auto" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-vesm9212-003-p4s3w19">
 <src.rf>manual</src.rf>
@@ -1727,7 +1727,7 @@
 <LM>w#w-vesm9212-003-p4s3w34</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-vesm9212-003-p4s3w35">
 <src.rf>manual</src.rf>

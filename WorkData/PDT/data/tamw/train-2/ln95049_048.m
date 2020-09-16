@@ -192,7 +192,7 @@
 <LM>w#w-ln95049-048-p1s2w5</LM>
 </w.rf>
 <form>boxer</form>
-<tag lemma="boxer" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="boxer-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95049-048-p1s2w6">
 <src.rf>manual</src.rf>

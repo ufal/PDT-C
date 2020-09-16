@@ -122,7 +122,7 @@
 <LM>w#w-mf920901-043-p2s2w4</LM>
 </w.rf>
 <form>napadením</form>
-<tag lemma="napadení_^(*3nout)" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="napadení" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-mf920901-043-p2s2w5">
 <src.rf>manual</src.rf>
@@ -234,7 +234,7 @@
 <LM>w#w-mf920901-043-p2s2w18</LM>
 </w.rf>
 <form>člen</form>
-<tag lemma="člen" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-043-p2s2w19">
 <src.rf>manual</src.rf>

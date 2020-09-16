@@ -173,7 +173,7 @@
 <LM>w#w-lnd92252-014-p1s2w8</LM>
 </w.rf>
 <form>dítě</form>
-<tag lemma="dítě" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="dítě-1" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-lnd92252-014-p1s2w9">
 <src.rf>manual</src.rf>

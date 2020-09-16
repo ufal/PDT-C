@@ -240,7 +240,7 @@
 <AM lemma="zasílatelský" src="auto">AAIP4----1A---6</AM>
 <AM lemma="zasílatelský" src="auto">AAIP5----1A---6</AM>
 <AM lemma="zasílatelský" src="auto">AAIS1----1A----</AM>
-<AM lemma="zasílatelský" src="auto" recommended="1">AAIS4----1A----</AM>
+<AM lemma="zasilatelský_,s_^(^DD**zasílatelský)" src="auto" recommended="1">AAIS4----1A----</AM>
 <AM lemma="zasílatelský" src="auto">AAIS5----1A----</AM>
 <AM lemma="zasílatelský" src="auto">AAMP1----1A---6</AM>
 <AM lemma="zasílatelský" src="auto">AAMP4----1A---6</AM>
@@ -1016,7 +1016,7 @@
 </w.rf>
 <form>Hartfordu</form>
 <tag>
-<AM lemma="Hartford_;G" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="Hartford_;G_;m" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="Hartford_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="Hartford_;G" src="auto">NNIS6-----A----</AM>
 </tag>

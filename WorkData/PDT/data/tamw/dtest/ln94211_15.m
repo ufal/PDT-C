@@ -1265,7 +1265,7 @@
 <LM>w#w-ln94211-15-p4s2w15</LM>
 </w.rf>
 <form>koníčkem</form>
-<tag lemma="koníček" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="koníček-1" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-ln94211-15-p4s2w16">
 <src.rf>manual</src.rf>

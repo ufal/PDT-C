@@ -135,7 +135,7 @@
 <LM>w#w-mf920923-030-p2s2w2</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-mf920923-030-p2s2w3">
 <src.rf>manual</src.rf>
@@ -167,7 +167,7 @@
 <LM>w#w-mf920923-030-p2s2w6</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP6----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP6----------</tag>
 </m>
 <m id="m-mf920923-030-p2s2w7">
 <src.rf>manual</src.rf>
@@ -248,7 +248,7 @@
 <LM>w#w-mf920923-030-p2s2w15</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-mf920923-030-p2s2w16">
 <src.rf>manual</src.rf>
@@ -511,7 +511,7 @@
 <LM>w#w-mf920923-030-p3s1w11</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-mf920923-030-p3s1w12">
 <src.rf>manual</src.rf>
@@ -789,7 +789,7 @@
 <LM>w#w-mf920923-030-p3s1w45</LM>
 </w.rf>
 <form>jehož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P1XXXZS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXZS3-------</tag>
 </m>
 <m id="m-mf920923-030-p3s1w46">
 <src.rf>manual</src.rf>
@@ -968,7 +968,7 @@
 <LM>w#w-mf920923-030-p3s1w67</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS7----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS7----------</tag>
 </m>
 <m id="m-mf920923-030-p3s1w68">
 <src.rf>manual</src.rf>
@@ -1504,7 +1504,7 @@
 <LM>w#w-mf920923-030-p4s1w7</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1ZS1FS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1ZS1FS3-------</tag>
 </m>
 <m id="m-mf920923-030-p4s1w8">
 <src.rf>manual</src.rf>
@@ -1895,7 +1895,7 @@
 <LM>w#w-mf920923-030-p4s3w4</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-mf920923-030-p4s3w5">
 <src.rf>manual</src.rf>

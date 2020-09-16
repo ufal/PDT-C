@@ -422,7 +422,7 @@
 <LM>w#w-lnd94105-115-p1s4w13</LM>
 </w.rf>
 <form>Chemopetrol</form>
-<tag lemma="Chemopetrol" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="Chemopetrol_;m" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-lnd94105-115-p1s4w14">
 <src.rf>manual</src.rf>

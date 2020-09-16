@@ -447,7 +447,7 @@
 <LM>w#w-mf930702-075-p2s4w12</LM>
 </w.rf>
 <form>jezdce</form>
-<tag lemma="jezdec" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="jezdec-1" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-mf930702-075-p2s4w13">
 <src.rf>manual</src.rf>
@@ -527,7 +527,7 @@
 <LM>w#w-mf930702-075-p2s4w22</LM>
 </w.rf>
 <form>nejlepších</form>
-<tag lemma="dobrý" src="orig" selected="1">AAIP2----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAIP2----3A----</tag>
 </m>
 <m id="m-mf930702-075-p2s4w23">
 <src.rf>manual</src.rf>
@@ -1373,7 +1373,7 @@
 <LM>w#w-mf930702-075-p3s2w46</LM>
 </w.rf>
 <form>Roche</form>
-<tag lemma="Roche_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Roche-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-075-p3s2w47">
 <src.rf>manual</src.rf>

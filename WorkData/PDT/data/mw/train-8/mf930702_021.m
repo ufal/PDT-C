@@ -287,7 +287,7 @@
 <LM>w#w-mf930702-021-p2s2w6</LM>
 </w.rf>
 <form>zveřejněné</form>
-<tag lemma="zveřejněný_^(*3it)" src="orig" selected="1">AAFS6----1A----</tag>
+<tag lemma="zveřejněný_^(*2t)_(*3it)" src="orig" selected="1">AAFS6----1A----</tag>
 </m>
 <m id="m-mf930702-021-p2s2w7">
 <src.rf>manual</src.rf>

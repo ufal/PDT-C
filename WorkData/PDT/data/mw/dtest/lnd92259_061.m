@@ -35,7 +35,7 @@
 <LM>w#w-lnd92259-061-p1s1w3</LM>
 </w.rf>
 <form>duch</form>
-<tag lemma="duch" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="duch-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-061-p1s1w4">
 <src.rf>manual</src.rf>
@@ -117,7 +117,7 @@
 <LM>w#w-lnd92259-061-p2s2w5</LM>
 </w.rf>
 <form>mluvčího</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92259-061-p2s2w6">
 <src.rf>manual</src.rf>
@@ -141,7 +141,7 @@
 <LM>w#w-lnd92259-061-p2s2w8</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92259-061-p2s2w9">
 <src.rf>manual</src.rf>
@@ -430,7 +430,7 @@
 <LM>w#w-lnd92259-061-p2s3w10</LM>
 </w.rf>
 <form>duch</form>
-<tag lemma="duch" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="duch-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-061-p2s3w11">
 <src.rf>manual</src.rf>

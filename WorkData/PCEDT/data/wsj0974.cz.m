@@ -120,7 +120,7 @@
 <AM lemma="mobile-1_^(t-mobile)" src="auto">NNIS5-----A----</AM>
 <AM lemma="mobile-1_^(t-mobile)" src="auto">NNIXX-----A----</AM>
 <AM lemma="mobile-77" src="auto" recommended="1">F%-------------</AM>
-<AM lemma="Mobile-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="mobile-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0974-001-p1s0W10-Ta">
@@ -672,7 +672,7 @@
 <AM lemma="správný_^(správný_chlap)" src="auto">AAFP5----1N----</AM>
 <AM lemma="správný_^(správný_chlap)" src="auto">AAFS2----1N----</AM>
 <AM lemma="správný_^(správný_chlap)" src="auto">AAFS3----1N----</AM>
-<AM lemma="správný_^(správný_chlap)" src="auto" recommended="1">AAFS6----1N----</AM>
+<AM lemma="správný" src="auto" recommended="1">AAFS6----1N----</AM>
 <AM lemma="správný_^(správný_chlap)" src="auto">AAIP1----1N----</AM>
 <AM lemma="správný_^(správný_chlap)" src="auto">AAIP4----1N----</AM>
 <AM lemma="správný_^(správný_chlap)" src="auto">AAIP5----1N----</AM>

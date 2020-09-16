@@ -480,7 +480,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-2" src="auto">Db-------------</AM>
-<AM lemma="třeba-3" src="manual" selected="1">TT-------------</AM>
+<AM lemma="třeba-2_^(například)" src="manual" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94205-143-p3s1w14">
@@ -500,7 +500,7 @@
 <tag>
 <AM lemma="Mercedes-2_;m_^(vozidlo)" src="orig">NNIP4-----A----</AM>
 <AM lemma="mercedes_;m_^(vozidlo)" src="auto">NNIP1-----A----</AM>
-<AM lemma="mercedes_;m_^(vozidlo)" src="auto" recommended="1" selected="1">NNIP4-----A----</AM>
+<AM lemma="mercedes_^(vozidlo)" src="auto" recommended="1" selected="1">NNIP4-----A----</AM>
 <AM lemma="mercedes_;m_^(vozidlo)" src="auto">NNIP5-----A----</AM>
 <AM lemma="mercedes_;m_^(vozidlo)" src="auto">NNIP7-----A----</AM>
 </tag>
@@ -580,7 +580,7 @@
 <LM>w#w-ln94205-143-p3s2w8</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-ln94205-143-p3s2w9">
 <src.rf>manual</src.rf>
@@ -1020,7 +1020,7 @@
 <LM>w#w-ln94205-143-p4s1w17</LM>
 </w.rf>
 <form>modelů</form>
-<tag lemma="model" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="model-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94205-143-p4s1w18">
 <src.rf>manual</src.rf>

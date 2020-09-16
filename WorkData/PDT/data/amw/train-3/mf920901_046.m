@@ -40,7 +40,7 @@
 <LM>w#w-mf920901-046-p2s1w1</LM>
 </w.rf>
 <form>DEVIZY</form>
-<tag lemma="deviza" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="deviza_^(v_peněžnictví)" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-mf920901-046-p2s1w2">
 <src.rf>manual</src.rf>

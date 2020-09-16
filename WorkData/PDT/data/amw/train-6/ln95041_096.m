@@ -67,7 +67,7 @@
 <LM>w#w-ln95041-096-p1s1w7</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 </s>
 <s id="m-ln95041-096-p2s1A">
@@ -111,7 +111,7 @@
 <LM>w#w-ln95041-096-p2s1Bw3</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln95041-096-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -269,7 +269,7 @@
 <LM>w#w-ln95041-096-p2s1Bw22</LM>
 </w.rf>
 <form>jejím</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS6FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS6FS3-------</tag>
 </m>
 <m id="m-ln95041-096-p2s1Bw23">
 <src.rf>manual</src.rf>
@@ -675,7 +675,7 @@
 <LM>w#w-ln95041-096-p2s4w10</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln95041-096-p2s4w11">
 <src.rf>manual</src.rf>
@@ -1058,7 +1058,7 @@
 <LM>w#w-ln95041-096-p2s6w8</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95041-096-p2s6w9">
 <src.rf>manual</src.rf>

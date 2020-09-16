@@ -268,7 +268,7 @@
 <AM lemma="Boba_;G" src="auto">NNFS2-----A----</AM>
 <AM lemma="Bobo_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Bobo_;Y" src="auto">NNMP7-----A----</AM>
-<AM lemma="Boby_;m" src="auto" recommended="1" selected="1">NNXXX-----A----</AM>
+<AM lemma="Boby-2_;m" src="auto" recommended="1" selected="1">NNXXX-----A----</AM>
 <AM lemma="Boby_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Boby_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="bob" src="auto">NNIP1-----A----</AM>
@@ -307,7 +307,7 @@
 <LM>w#w-ln95045-035-p2s1Bw28</LM>
 </w.rf>
 <form>Slavií</form>
-<tag lemma="Slavia_;m" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Slavie_;m_,s_^(^DD**Slávie)" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln95045-035-p2s1Bw29">
 <src.rf>manual</src.rf>
@@ -521,7 +521,7 @@
 <LM>w#w-ln95045-035-p2s2w24</LM>
 </w.rf>
 <form>manažer</form>
-<tag lemma="manažer" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="manažer-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-035-p2s2w25">
 <src.rf>manual</src.rf>
@@ -571,7 +571,7 @@
 <LM>w#w-ln95045-035-p2s3w3</LM>
 </w.rf>
 <form>stojí</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95045-035-p2s3w4">
 <src.rf>manual</src.rf>
@@ -736,7 +736,7 @@
 <LM>w#w-ln95045-035-p2s4w10</LM>
 </w.rf>
 <form>lety</form>
-<tag lemma="rok" src="orig" selected="1">NNNP7-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP7-----A----</tag>
 </m>
 <m id="m-ln95045-035-p2s4w11">
 <src.rf>manual</src.rf>
@@ -824,7 +824,7 @@
 <LM>w#w-ln95045-035-p2s4w21</LM>
 </w.rf>
 <form>Slavií</form>
-<tag lemma="Slavia_;m" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Slavie_;m_,s_^(^DD**Slávie)" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln95045-035-p2s4w22">
 <src.rf>manual</src.rf>

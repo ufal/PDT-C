@@ -120,7 +120,7 @@
 <form>stojí</form>
 <tag>
 <AM lemma="stát-4_^(něco_stojí_peníze)" src="orig">VB-P---3P-AA---</AM>
-<AM lemma="stát-4_^(něco_stojí_peníze)" src="manual" selected="1">VB-S---3P-AAI--</AM>
+<AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m-ln95043-001-p2s1w8">
@@ -941,7 +941,7 @@
 <LM>w#w-ln95043-001-p2s4w6</LM>
 </w.rf>
 <form>kozačky</form>
-<tag lemma="kozačka_^(bota)" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="kozačka_^(bota_i_žena)" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-ln95043-001-p2s4w7">
 <src.rf>manual</src.rf>
@@ -1534,7 +1534,7 @@
 <LM>w#w-ln95043-001-p2s7w21</LM>
 </w.rf>
 <form>zaměstnání</form>
-<tag lemma="zaměstnání-1_^(všeob._význam:_činnost,_zaměstnání)_(*5at-1)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="zaměstnání_^(*3at)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln95043-001-p2s7w22">
 <src.rf>manual</src.rf>
@@ -1945,7 +1945,7 @@
 <LM>w#w-ln95043-001-p3s4w4</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln95043-001-p3s4w5">
 <src.rf>manual</src.rf>
@@ -2494,7 +2494,7 @@
 <LM>w#w-ln95043-001-p4s5w10</LM>
 </w.rf>
 <form>vážící</form>
-<tag lemma="vážící_^(např._provazem;_se_k_čemu)_(*4zat)" src="auto" selected="1">AGFP1-----A----</tag>
+<tag lemma="vážící_^(*3it)" src="auto" selected="1">AGFP1-----A----</tag>
 </m>
 <m id="m-ln95043-001-p4s5w11">
 <src.rf>manual</src.rf>
@@ -2526,7 +2526,7 @@
 <LM>w#w-ln95043-001-p4s5w14</LM>
 </w.rf>
 <form>designéra</form>
-<tag lemma="designer" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="designér_,s_^(^DD**designer)" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95043-001-p4s5w15">
 <src.rf>manual</src.rf>
@@ -2790,7 +2790,7 @@
 <LM>w#w-ln95043-001-p4s7w5</LM>
 </w.rf>
 <form>buvolí</form>
-<tag lemma="bůvolí" src="orig" selected="1">AAFP1----1A----</tag>
+<tag lemma="buvolí_,s_^(^DD**bůvolí)" src="orig" selected="1">AAFP1----1A----</tag>
 </m>
 <m id="m-ln95043-001-p4s7w6">
 <src.rf>manual</src.rf>
@@ -2798,7 +2798,7 @@
 <LM>w#w-ln95043-001-p4s7w6</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln95043-001-p4s7w7">
 <src.rf>manual</src.rf>

@@ -575,7 +575,7 @@
 <LM>w#w-mf920924-153-p2s4w11</LM>
 </w.rf>
 <form>tajné</form>
-<tag lemma="tajný" src="orig" selected="1">AAFS6----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AAFS6----1A----</tag>
 </m>
 <m id="m-mf920924-153-p2s4w12">
 <src.rf>manual</src.rf>
@@ -915,7 +915,7 @@
 <LM>w#w-mf920924-153-p2s6w3</LM>
 </w.rf>
 <form>zastavení</form>
-<tag lemma="zastavení-1_^([také_z._se];_uvést_do_klidu:_auto,...)_(*5it-1)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="zastavení_^(*3it)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-mf920924-153-p2s6w4">
 <src.rf>manual</src.rf>
@@ -1117,7 +1117,7 @@
 <LM>w#w-mf920924-153-p2s7w12</LM>
 </w.rf>
 <form>dají</form>
-<tag lemma="dát" src="orig" selected="1">VB-P---3P-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-mf920924-153-p2s7w13">
 <src.rf>manual</src.rf>

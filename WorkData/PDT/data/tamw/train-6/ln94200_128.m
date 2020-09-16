@@ -245,7 +245,7 @@
 <LM>w#w-ln94200-128-p2s1w20</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94200-128-p2s1w21">
 <src.rf>manual</src.rf>
@@ -870,7 +870,7 @@
 <LM>w#w-ln94200-128-p3s1w30</LM>
 </w.rf>
 <form>proto</form>
-<tag lemma="proto-2_^(dal_mu_co_proto,_tak_proto!)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="proto-2_^(proto_že)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94200-128-p3s1w31">
 <src.rf>manual</src.rf>
@@ -1602,7 +1602,7 @@
 <LM>w#w-ln94200-128-p4s4w16</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln94200-128-p4s4w17">
 <src.rf>manual</src.rf>

@@ -80,7 +80,7 @@
 <tag>
 <AM lemma="Jackson_;Y" src="auto">NNMS3-----A---1</AM>
 <AM lemma="Jackson_;Y" src="auto" recommended="1">NNMS6-----A---1</AM>
-<AM lemma="Jackson-2_;G" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Jackson-2_;G_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2273-001-p1s1W8-Ta">

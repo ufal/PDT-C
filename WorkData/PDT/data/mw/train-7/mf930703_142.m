@@ -141,7 +141,7 @@
 <LM>w#w-mf930703-142-p2s1w10</LM>
 </w.rf>
 <form>výzbroje</form>
-<tag lemma="výzbroj" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="výzbroj-1" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930703-142-p2s1w11">
 <src.rf>manual</src.rf>
@@ -643,7 +643,7 @@
 <LM>w#w-mf930703-142-p2s4w5</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-mf930703-142-p2s4w6">
 <src.rf>manual</src.rf>

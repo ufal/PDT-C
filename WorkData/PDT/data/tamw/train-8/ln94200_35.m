@@ -57,7 +57,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>PETRŮ</form>
-<tag lemma="Petrů_;Y" src="orig" selected="1">NNMXX-----A----</tag>
+<tag lemma="Petrů-1_;Y" src="orig" selected="1">NNMXX-----A----</tag>
 </m>
 <m id="m-ln94200-35-p2s1w5">
 <src.rf>manual</src.rf>
@@ -97,7 +97,7 @@
 <LM>w#w-ln94200-35-p2s1w9</LM>
 </w.rf>
 <form>prvních</form>
-<tag lemma="první" src="orig" selected="1">CrIP6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIP6----------</tag>
 </m>
 <m id="m-ln94200-35-p2s1w10">
 <src.rf>manual</src.rf>
@@ -458,7 +458,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -784,7 +784,7 @@
 <LM>w#w-ln94200-35-p4s3w2</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94200-35-p4s3w3">
 <src.rf>manual</src.rf>
@@ -824,7 +824,7 @@
 <LM>w#w-ln94200-35-p4s3w7</LM>
 </w.rf>
 <form>svoji</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4----------</tag>
 </m>
 <m id="m-ln94200-35-p4s3w8">
 <src.rf>manual</src.rf>
@@ -1060,7 +1060,7 @@
 <LM>w#w-ln94200-35-p5s1w3</LM>
 </w.rf>
 <form>člen</form>
-<tag lemma="člen" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-35-p5s1w4">
 <src.rf>manual</src.rf>

@@ -35,7 +35,7 @@
 <LM>w#w-cmpr9417-039-p2s1w3</LM>
 </w.rf>
 <form>Náš</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSYS1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSYS1-P1-------</tag>
 </m>
 <m id="m-cmpr9417-039-p2s1w4">
 <src.rf>manual</src.rf>
@@ -305,7 +305,7 @@
 <LM>w#w-cmpr9417-039-p4s2w4</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-cmpr9417-039-p4s2w5">
 <src.rf>manual</src.rf>
@@ -2235,7 +2235,7 @@
 <form>prostřednictvím</form>
 <tag>
 <AM lemma="prostřednictví" src="orig">NNNS7-----A----</AM>
-<AM lemma="prostřednictví-2" src="manual" selected="1">RR--2----------</AM>
+<AM lemma="prostřednictvím" src="manual" selected="1">RR--2----------</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-039-p7s2w14">
@@ -2246,7 +2246,7 @@
 <form>Rady</form>
 <tag>
 <AM lemma="rada-2_^(člověk;_např._soudní_rada)" src="orig">NNMS2-----A----</AM>
-<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu_poradní_sbor)" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-039-p7s2w15">
@@ -2297,7 +2297,7 @@
 <form>prostřednictvím</form>
 <tag>
 <AM lemma="prostřednictví" src="orig">NNNS7-----A----</AM>
-<AM lemma="prostřednictví-2" src="manual" selected="1">RR--2----------</AM>
+<AM lemma="prostřednictvím" src="manual" selected="1">RR--2----------</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-039-p7s2w21">
@@ -2467,7 +2467,7 @@
 <form>vizum</form>
 <tag>
 <AM lemma="vízum_,x_^(cest._formalita)" src="orig">NNNS4-----A----</AM>
-<AM lemma="vizum_,i_^(^DS**vízum)_^(cest._formalita)" src="manual" selected="1">NNNS4-----A----</AM>
+<AM lemma="vizum_,i_^(cest._formalita)_(^DS**vízum)" src="manual" selected="1">NNNS4-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-039-p9s1w15">
@@ -2733,7 +2733,7 @@
 <form>prostřednictvím</form>
 <tag>
 <AM lemma="prostřednictví" src="orig">NNNS7-----A----</AM>
-<AM lemma="prostřednictví-2" src="manual" selected="1">RR--2----------</AM>
+<AM lemma="prostřednictvím" src="manual" selected="1">RR--2----------</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-039-p10s1w11">

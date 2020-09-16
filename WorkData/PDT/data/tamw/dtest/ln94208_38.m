@@ -456,7 +456,7 @@
 <LM>w#w-ln94208-38-p3s1w8</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8YP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8YP4---------1</tag>
 </m>
 <m id="m-ln94208-38-p3s1w9">
 <src.rf>manual</src.rf>
@@ -904,7 +904,7 @@
 <AM lemma="kout_^(př._dát_něco_do_kouta)" src="orig">NNIS2-----A----</AM>
 <AM lemma="kout_^(př._dát_něco_do_kouta)" src="auto">NNIS3-----A----</AM>
 <AM lemma="kout_^(př._dát_něco_do_kouta)" src="auto">NNIS6-----A---1</AM>
-<AM lemma="kout" src="auto" recommended="1" selected="1">NNIS2-----A---1</AM>
+<AM lemma="kout-1" src="auto" recommended="1" selected="1">NNIS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln94208-38-p3s3w19">
@@ -1025,7 +1025,7 @@
 <LM>w#w-ln94208-38-p3s3w33</LM>
 </w.rf>
 <form>rozvodu</form>
-<tag lemma="rozvod-2_^(vody,_plynu...)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="rozvod_^(manželství;vody)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94208-38-p3s3w34">
 <src.rf>manual</src.rf>
@@ -1365,7 +1365,7 @@
 <LM>w#w-ln94208-38-p3s5w11</LM>
 </w.rf>
 <form>potřeba</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94208-38-p3s5w12">
 <src.rf>manual</src.rf>

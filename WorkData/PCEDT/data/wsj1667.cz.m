@@ -1198,7 +1198,7 @@
 </w.rf>
 <form>spodku</form>
 <tag>
-<AM lemma="spodek" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="spodek-1" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="spodek" src="auto">NNIS3-----A----</AM>
 <AM lemma="spodek" src="auto">NNIS5-----A----</AM>
 <AM lemma="spodek" src="auto">NNIS6-----A----</AM>
@@ -1360,7 +1360,7 @@
 <AM lemma="špatný" src="auto">AAFP3----3A----</AM>
 <AM lemma="špatný" src="auto">AAIP3----3A----</AM>
 <AM lemma="špatný" src="auto">AAIS6----3A----</AM>
-<AM lemma="špatný" src="auto" recommended="1">AAIS7----3A----</AM>
+<AM lemma="horší" src="auto" recommended="1">AAIS7----3A----</AM>
 <AM lemma="špatný" src="auto">AAMP3----3A----</AM>
 <AM lemma="špatný" src="auto">AAMS6----3A----</AM>
 <AM lemma="špatný" src="auto">AAMS7----3A----</AM>
@@ -3412,7 +3412,7 @@
 <AM lemma="let" src="auto">NNIP4-----A----</AM>
 <AM lemma="let" src="auto">NNIP5-----A----</AM>
 <AM lemma="let" src="auto">NNIP7-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP7-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1667-001-p1s10W29-Ta">
@@ -4595,7 +4595,7 @@
 </w.rf>
 <form>svým</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8XP3----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8XP3----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8ZS6---------7</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8ZS7----------</AM>
 </tag>
@@ -5051,7 +5051,7 @@
 <form>spodku</form>
 <tag>
 <AM lemma="spodek" src="auto">NNIS2-----A----</AM>
-<AM lemma="spodek" src="auto" recommended="1">NNIS3-----A----</AM>
+<AM lemma="spodek-1" src="auto" recommended="1">NNIS3-----A----</AM>
 <AM lemma="spodek" src="auto">NNIS5-----A----</AM>
 <AM lemma="spodek" src="auto">NNIS6-----A----</AM>
 <AM lemma="spodek" src="auto">NNMS3-----A---1</AM>
@@ -7573,7 +7573,7 @@
 <LM>w#w-wsj1667-001-p1s26W8</LM>
 </w.rf>
 <form>vypadalo</form>
-<tag lemma="vypadat" src="auto" recommended="1">VpNS----R-AAI--</tag>
+<tag lemma="vypadat-1_^(ty_vypadáš)" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-wsj1667-001-p1s26W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7761,7 +7761,7 @@
 <form>jenom</form>
 <tag>
 <AM lemma="jenom-1_,s_^(^DD**jen-1)" src="auto">TT-------------</AM>
-<AM lemma="jenom-2_,s_^(pouze)_(^DD**jen-4)" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="jenom-2_^(pouze)" src="auto" recommended="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1667-001-p1s27W5-Ta">
@@ -8261,7 +8261,7 @@
 </w.rf>
 <form>nám</form>
 <tag>
-<AM lemma="já" src="auto" recommended="1">PP-P3--1-------</AM>
+<AM lemma="my" src="auto" recommended="1">PP-P3--1-------</AM>
 <AM lemma="náměstí_:B" src="auto">NNNXX-----A---8</AM>
 </tag>
 </m>

@@ -35,7 +35,7 @@
 <LM>w#w-ln94205-35-p1s1w3</LM>
 </w.rf>
 <form>letounu</form>
-<tag lemma="letoun" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="letoun-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94205-35-p1s1w4">
 <src.rf>manual</src.rf>
@@ -122,7 +122,7 @@
 <LM>w#w-ln94205-35-p2s1Aw6</LM>
 </w.rf>
 <form>tragédií</form>
-<tag lemma="tragedie" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="tragédie" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln94205-35-p2s1Aw7">
 <src.rf>manual</src.rf>
@@ -246,7 +246,7 @@
 <LM>w#w-ln94205-35-p2s1Cw2</LM>
 </w.rf>
 <form>letoun</form>
-<tag lemma="letoun" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="letoun-1" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln94205-35-p2s1Cw3">
 <src.rf>manual</src.rf>
@@ -963,7 +963,7 @@
 <LM>w#w-ln94205-35-p3s2w11</LM>
 </w.rf>
 <form>co</form>
-<tag lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="co-5_^(př._co_nejméně,_co_nevidět_atd.)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94205-35-p3s2w12">
 <src.rf>manual</src.rf>
@@ -1959,7 +1959,7 @@
 <form>NATO</form>
 <tag>
 <AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="NATO_;m_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="NATO-1_;m_^(Northtlantic_Treaty_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-35-p3s7w18">
@@ -2149,7 +2149,7 @@
 <LM>w#w-ln94205-35-p3s8w20</LM>
 </w.rf>
 <form>gigant</form>
-<tag lemma="gigant" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="gigant-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94205-35-p3s8w21">
 <src.rf>manual</src.rf>
@@ -2213,7 +2213,7 @@
 <LM>w#w-ln94205-35-p3s8w28</LM>
 </w.rf>
 <form>letounů</form>
-<tag lemma="letoun" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="letoun-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94205-35-p3s8w29">
 <src.rf>manual</src.rf>
@@ -2500,7 +2500,7 @@
 <form>NATO</form>
 <tag>
 <AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="NATO_;m_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="NATO-1_;m_^(Northtlantic_Treaty_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-35-p3s10w13">
@@ -2746,7 +2746,7 @@
 <LM>w#w-ln94205-35-p3s11w5</LM>
 </w.rf>
 <form>tragédií</form>
-<tag lemma="tragedie" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="tragédie" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln94205-35-p3s11w6">
 <src.rf>manual</src.rf>
@@ -2847,7 +2847,7 @@
 <LM>w#w-ln94205-35-p3s12w2</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-ln94205-35-p3s12w3">
 <src.rf>manual</src.rf>
@@ -2855,7 +2855,7 @@
 <LM>w#w-ln94205-35-p3s12w3</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94205-35-p3s12w4">
 <src.rf>manual</src.rf>
@@ -2999,7 +2999,7 @@
 <LM>w#w-ln94205-35-p3s12w21</LM>
 </w.rf>
 <form>ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94205-35-p3s12w22">
 <src.rf>manual</src.rf>
@@ -3015,7 +3015,7 @@
 <LM>w#w-ln94205-35-p3s12w23</LM>
 </w.rf>
 <form>nezaujaté</form>
-<tag lemma="zaujatý_^(proti_někomu/něčemu)_(*3mout)" src="auto" selected="1">AAFS6----1N----</tag>
+<tag lemma="zaujatý_^(upoutat_pozornost)" src="auto" selected="1">AAFS6----1N----</tag>
 </m>
 <m id="m-ln94205-35-p3s12w24">
 <src.rf>manual</src.rf>
@@ -3145,7 +3145,7 @@
 <LM>w#w-ln94205-35-p4s1w5</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-4_^(v_knize,_rukopise,...)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94205-35-p4s1w6">
 <src.rf>manual</src.rf>

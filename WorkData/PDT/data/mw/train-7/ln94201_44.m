@@ -53,7 +53,7 @@
 <LM>w#w-ln94201-44-p2s1w1</LM>
 </w.rf>
 <form>Dillí</form>
-<tag lemma="dillí" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Dillí_;G" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94201-44-p2s1w2">
 <src.rf>manual</src.rf>
@@ -237,7 +237,7 @@
 <LM>w#w-ln94201-44-p2s1w24</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94201-44-p2s1w25">
 <src.rf>manual</src.rf>
@@ -463,7 +463,7 @@
 <LM>w#w-ln94201-44-p2s3w13</LM>
 </w.rf>
 <form>nevyhlášené</form>
-<tag lemma="vyhlášený_,a_^(*4sit)" src="orig" selected="1">AAFS2----1N----</tag>
+<tag lemma="vyhlášený_^(*2t)_(*4sit)" src="orig" selected="1">AAFS2----1N----</tag>
 </m>
 <m id="m-ln94201-44-p2s3w14">
 <src.rf>manual</src.rf>
@@ -687,7 +687,7 @@
 </w.rf>
 <form>Nájaka</form>
 <tag>
-<AM lemma="Naják_;Y" src="orig" selected="1">NNMS4-----A----</AM>
+<AM lemma="Nájak_;Y" src="orig" selected="1">NNMS4-----A----</AM>
 <AM lemma="nájak_,t" src="auto">NNMS2-----A----</AM>
 <AM lemma="nájak_,t" src="auto" recommended="1">NNMS4-----A----</AM>
 </tag>
@@ -754,7 +754,7 @@
 <LM>w#w-ln94201-44-p2s5w11</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94201-44-p2s5w12">
 <src.rf>manual</src.rf>
@@ -832,7 +832,7 @@
 <LM>w#w-ln94201-44-p2s5w20</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1XP1FS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XP1FS3-------</tag>
 </m>
 <m id="m-ln94201-44-p2s5w21">
 <src.rf>manual</src.rf>
@@ -840,7 +840,7 @@
 <LM>w#w-ln94201-44-p2s5w21</LM>
 </w.rf>
 <form>členové</form>
-<tag lemma="člen" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln94201-44-p2s5w22">
 <src.rf>manual</src.rf>
@@ -1224,7 +1224,7 @@
 <LM>w#w-ln94201-44-p2s7w23</LM>
 </w.rf>
 <form>právo</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln94201-44-p2s7w24">
 <src.rf>manual</src.rf>
@@ -1314,7 +1314,7 @@
 <LM>w#w-ln94201-44-p2s8w7</LM>
 </w.rf>
 <form>Dillí</form>
-<tag lemma="dillí" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="Dillí_;G" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-ln94201-44-p2s8w8">
 <src.rf>manual</src.rf>

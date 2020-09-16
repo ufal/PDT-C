@@ -768,7 +768,7 @@
 <LM>w#w-lnd92251-071-p4s2w6</LM>
 </w.rf>
 <form>děti</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-lnd92251-071-p4s2w7">
 <src.rf>manual</src.rf>
@@ -880,7 +880,7 @@
 <LM>w#w-lnd92251-071-p4s2w20</LM>
 </w.rf>
 <form>děti</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-lnd92251-071-p4s2w21">
 <src.rf>manual</src.rf>
@@ -1066,7 +1066,7 @@
 <LM>w#w-lnd92251-071-p5s1w17</LM>
 </w.rf>
 <form>děti</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-lnd92251-071-p5s1w18">
 <src.rf>manual</src.rf>
@@ -1300,7 +1300,7 @@
 <LM>w#w-lnd92251-071-p5s2w26</LM>
 </w.rf>
 <form>ADA</form>
-<tag lemma="Ada_;m" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Ada_;G_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92251-071-p5s2w27">
 <src.rf>manual</src.rf>
@@ -1318,7 +1318,7 @@
 <form>box</form>
 <tag>
 <AM lemma="box-1" src="auto">NNIS1-----A----</AM>
-<AM lemma="box-2_^(krabice,_schránka)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="box-1" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-071-p5s2w29">

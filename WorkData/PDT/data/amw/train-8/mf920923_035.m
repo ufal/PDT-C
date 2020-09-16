@@ -776,7 +776,7 @@
 <AM lemma="Drop_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="drop_;U" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="drop_,t" src="manual">NNXXX-----A----</AM>
-<AM lemma="Drop-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="drop-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf920923-035-p3s1w23">
@@ -975,7 +975,7 @@
 <LM>w#w-mf920923-035-p3s3w3</LM>
 </w.rf>
 <form>potřeba</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920923-035-p3s3w4">
 <src.rf>manual</src.rf>
@@ -1130,7 +1130,7 @@
 <LM>w#w-mf920923-035-p3s3w22</LM>
 </w.rf>
 <form>ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf920923-035-p3s3w23">
 <src.rf>manual</src.rf>
@@ -1190,7 +1190,7 @@
 <form>dalo</form>
 <tag>
 <AM lemma="dát" src="orig">VpNS----R-AAP--</AM>
-<AM lemma="dát" src="manual" selected="1">VpNS----R-AAP--</AM>
+<AM lemma="dát-1" src="manual" selected="1">VpNS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf920923-035-p3s4w6">
@@ -2260,7 +2260,7 @@
 <LM>w#w-mf920923-035-p5s1w16</LM>
 </w.rf>
 <form>mluvčího</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920923-035-p5s1w17">
 <src.rf>manual</src.rf>
@@ -2337,7 +2337,7 @@
 <LM>w#w-mf920923-035-p5s2w3</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-mf920923-035-p5s2w4">
 <src.rf>manual</src.rf>
@@ -3069,7 +3069,7 @@
 <LM>w#w-mf920923-035-p6s2w18</LM>
 </w.rf>
 <form>třeba</form>
-<tag lemma="třeba-2" src="auto" selected="1">Db-------------</tag>
+<tag lemma="třeba-1" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf920923-035-p6s2w19">
 <src.rf>manual</src.rf>

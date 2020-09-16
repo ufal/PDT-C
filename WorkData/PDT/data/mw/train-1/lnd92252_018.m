@@ -19,7 +19,7 @@
 <LM>w#w-lnd92252-018-p1s1w1</LM>
 </w.rf>
 <form>ROMOVÉ</form>
-<tag lemma="Rom-4_;E" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="Rom_;E_;Y" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd92252-018-p1s1w2">
 <src.rf>manual</src.rf>
@@ -97,7 +97,7 @@
 <LM>w#w-lnd92252-018-p3s2w3</LM>
 </w.rf>
 <form>Romové</form>
-<tag lemma="Rom-4_;E" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="Rom_;E_;Y" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd92252-018-p3s2w4">
 <src.rf>manual</src.rf>
@@ -153,7 +153,7 @@
 <LM>w#w-lnd92252-018-p3s2w10</LM>
 </w.rf>
 <form>pozornosti</form>
-<tag lemma="pozornost-1_^(všímavý,_milý,_soustředěný)_(*5ý-1)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="pozornost-1_^(*5ý-1)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92252-018-p3s2w11">
 <src.rf>manual</src.rf>
@@ -429,7 +429,7 @@
 <LM>w#w-lnd92252-018-p3s4w1</LM>
 </w.rf>
 <form>Romové</form>
-<tag lemma="Rom-4_;E" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="Rom_;E_;Y" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd92252-018-p3s4w2">
 <src.rf>manual</src.rf>

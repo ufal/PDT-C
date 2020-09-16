@@ -260,7 +260,7 @@
 <LM>w#w-ln94204-61-p2s1Cw21</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94204-61-p2s1Cw22">
 <src.rf>manual</src.rf>
@@ -308,7 +308,7 @@
 <LM>w#w-ln94204-61-p2s1Cw27</LM>
 </w.rf>
 <form>politiky</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94204-61-p2s1Cw28">
 <src.rf>manual</src.rf>

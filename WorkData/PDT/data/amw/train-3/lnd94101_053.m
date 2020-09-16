@@ -748,7 +748,7 @@
 <LM>w#w-lnd94101-053-p1s6w13</LM>
 </w.rf>
 <form>Yorku</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="York-2_;G_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-lnd94101-053-p1s6w14">
 <src.rf>manual</src.rf>

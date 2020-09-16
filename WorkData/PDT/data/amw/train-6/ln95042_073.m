@@ -297,7 +297,7 @@
 <LM>w#w-ln95042-073-p3s1w6</LM>
 </w.rf>
 <form>Karlových</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUIP6M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUIP6M---------</tag>
 </m>
 <m id="m-ln95042-073-p3s1w7">
 <src.rf>manual</src.rf>

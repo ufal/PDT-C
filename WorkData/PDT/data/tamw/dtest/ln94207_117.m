@@ -343,7 +343,7 @@
 <LM>w#w-ln94207-117-p2s3w4</LM>
 </w.rf>
 <form>pavilonu</form>
-<tag lemma="pavilon" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="pavilon_,s_^(^DD**pavilón)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94207-117-p2s3w5">
 <src.rf>manual</src.rf>
@@ -362,7 +362,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-117-p2s3w7">
@@ -537,7 +537,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-117-p2s4w6">
@@ -1183,7 +1183,7 @@
 <LM>w#w-ln94207-117-p2s6w23</LM>
 </w.rf>
 <form>Jeana</form>
-<tag lemma="Jean_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Jean-1_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94207-117-p2s6w24">
 <src.rf>manual</src.rf>
@@ -1223,7 +1223,7 @@
 <LM>w#w-ln94207-117-p2s6w28</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94207-117-p2s6w29">
 <src.rf>manual</src.rf>
@@ -1493,7 +1493,7 @@
 <LM>w#w-ln94207-117-p2s7w18</LM>
 </w.rf>
 <form>výtvarnice</form>
-<tag lemma="výtvarnice-1_^(výtvarný_umělec)_(*5ík-1)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="výtvarnice-1_^(*5ík-1)" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-ln94207-117-p2s7w19">
 <src.rf>manual</src.rf>

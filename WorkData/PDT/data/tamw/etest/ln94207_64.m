@@ -207,7 +207,7 @@
 <LM>w#w-ln94207-64-p2s1Bw14</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-ln94207-64-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -636,7 +636,7 @@
 <LM>w#w-ln94207-64-p3s1w15</LM>
 </w.rf>
 <form>nejhorší</form>
-<tag lemma="špatný" src="orig" selected="1">AANS4----3A----</tag>
+<tag lemma="horší" src="orig" selected="1">AANS4----3A----</tag>
 </m>
 <m id="m-ln94207-64-p3s1w16">
 <src.rf>manual</src.rf>
@@ -830,7 +830,7 @@
 <LM>w#w-ln94207-64-p4s1w13</LM>
 </w.rf>
 <form>stadionu</form>
-<tag lemma="stadión" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="stadion_,s_^(^DD**stadión)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94207-64-p4s1w14">
 <src.rf>manual</src.rf>
@@ -858,7 +858,7 @@
 <AM lemma="obchodní" src="orig">A2--------A----</AM>
 <AM lemma="obchodně_^(*1í)" src="auto" recommended="1">Dg-------1A----</AM>
 <AM lemma="obchodní-2" src="manual">A2--------A----</AM>
-<AM lemma="obchodní" src="manual" selected="1">S2--------A----</AM>
+<AM lemma="obchodně-2" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-64-p4s1w17">
@@ -1302,7 +1302,7 @@
 <LM>w#w-ln94207-64-p5s2w8</LM>
 </w.rf>
 <form>desetimilionového</form>
-<tag lemma="desetimilionový" src="orig" selected="1">AAIS2----1A----</tag>
+<tag lemma="desetimilionový_,s_^(^DD**desetimiliónový)" src="orig" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-ln94207-64-p5s2w9">
 <src.rf>manual</src.rf>

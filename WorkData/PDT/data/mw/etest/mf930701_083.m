@@ -176,7 +176,7 @@
 <LM>w#w-mf930701-083-p2s1w12</LM>
 </w.rf>
 <form>dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930701-083-p2s1w13">
 <src.rf>manual</src.rf>
@@ -763,7 +763,7 @@
 <LM>w#w-mf930701-083-p2s5w6</LM>
 </w.rf>
 <form>dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930701-083-p2s5w7">
 <src.rf>manual</src.rf>
@@ -975,7 +975,7 @@
 <form>Davida</form>
 <tag>
 <AM lemma="David_;Y" src="orig">NNMS2-----A----</AM>
-<AM lemma="David_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="David-1_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-083-p2s6w10">
@@ -1024,7 +1024,7 @@
 <LM>w#w-mf930701-083-p2s6w15</LM>
 </w.rf>
 <form>vytištěním</form>
-<tag lemma="vytištění_^(*5sknout)" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="vytištění" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-mf930701-083-p2s6w16">
 <src.rf>manual</src.rf>
@@ -1156,7 +1156,7 @@
 <LM>w#w-mf930701-083-p2s8w2</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP2-P1-------</tag>
 </m>
 <m id="m-mf930701-083-p2s8w3">
 <src.rf>manual</src.rf>
@@ -1376,7 +1376,7 @@
 <form>David</form>
 <tag>
 <AM lemma="David_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="David_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="David-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-083-p2s9w16">

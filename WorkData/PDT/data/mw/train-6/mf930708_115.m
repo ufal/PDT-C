@@ -358,7 +358,7 @@
 <LM>w#w-mf930708-115-p1s2w3</LM>
 </w.rf>
 <form>kádru</form>
-<tag lemma="kádr" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="kádr-1" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-mf930708-115-p1s2w4">
 <src.rf>manual</src.rf>

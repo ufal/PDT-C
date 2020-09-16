@@ -159,7 +159,7 @@
 <LM>w#w-cmpr9410-021-p4s2w8</LM>
 </w.rf>
 <form>vinici</form>
-<tag lemma="vinice_^(místo_pro_pěstování_vína)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="vinice_^(*3ík)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-cmpr9410-021-p4s2w9">
 <src.rf>manual</src.rf>
@@ -1544,7 +1544,7 @@
 <LM>w#w-cmpr9410-021-p9s2w14</LM>
 </w.rf>
 <form>Legerova</form>
-<tag lemma="Legerův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Legerův-1_;Y_^(*4-1)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-cmpr9410-021-p9s2w15">
 <src.rf>manual</src.rf>

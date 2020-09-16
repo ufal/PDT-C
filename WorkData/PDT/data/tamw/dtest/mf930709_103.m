@@ -254,7 +254,7 @@
 <LM>w#w-mf930709-103-p7s1w5</LM>
 </w.rf>
 <form>Vyšném</form>
-<tag lemma="Vyšný_;G" src="orig" selected="1">AANS6----1A----</tag>
+<tag lemma="vyšný" src="orig" selected="1">AANS6----1A----</tag>
 </m>
 <m id="m-mf930709-103-p7s1w6">
 <src.rf>manual</src.rf>

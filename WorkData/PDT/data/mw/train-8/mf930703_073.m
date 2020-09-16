@@ -555,7 +555,7 @@
 <LM>w#w-mf930703-073-p3s2w10</LM>
 </w.rf>
 <form>spjatý</form>
-<tag lemma="spjatý_^(*5epnout)" src="orig" selected="1">AAMS1----1A----</tag>
+<tag lemma="spjatý" src="orig" selected="1">AAMS1----1A----</tag>
 </m>
 <m id="m-mf930703-073-p3s2w11">
 <src.rf>manual</src.rf>
@@ -718,7 +718,7 @@
 <LM>w#w-mf930703-073-p4s1w4</LM>
 </w.rf>
 <form>jejího</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS2FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS2FS3-------</tag>
 </m>
 <m id="m-mf930703-073-p4s1w5">
 <src.rf>manual</src.rf>
@@ -1047,7 +1047,7 @@
 <LM>w#w-mf930703-073-p5s1w8</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8MS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8MS4----------</tag>
 </m>
 <m id="m-mf930703-073-p5s1w9">
 <src.rf>manual</src.rf>
@@ -1055,7 +1055,7 @@
 <LM>w#w-mf930703-073-p5s1w9</LM>
 </w.rf>
 <form>člena</form>
-<tag lemma="člen" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf930703-073-p5s1w10">
 <src.rf>manual</src.rf>

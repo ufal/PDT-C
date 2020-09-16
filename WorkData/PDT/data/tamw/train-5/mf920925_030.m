@@ -355,7 +355,7 @@
 <LM>w#w-mf920925-030-p2s3w3</LM>
 </w.rf>
 <form>ftalát</form>
-<tag lemma="ftalát_;U" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="ftalát" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920925-030-p2s3w4">
 <src.rf>manual</src.rf>
@@ -363,7 +363,7 @@
 <LM>w#w-mf920925-030-p2s3w4</LM>
 </w.rf>
 <form>dibutylnatý</form>
-<tag lemma="dibutylnatý_;U" src="orig" selected="1">AAIS1----1A----</tag>
+<tag lemma="dibutylnatý" src="orig" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-mf920925-030-p2s3w5">
 <src.rf>manual</src.rf>
@@ -454,7 +454,7 @@
 <LM>w#w-mf920925-030-p2s3w15</LM>
 </w.rf>
 <form>hydroxytoluen</form>
-<tag lemma="hydroxytoluen_;U" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="hydroxytoluen" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920925-030-p2s3w16">
 <src.rf>manual</src.rf>
@@ -776,7 +776,7 @@
 <LM>w#w-mf920925-030-p3s1w19</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf920925-030-p3s1w20">
 <src.rf>manual</src.rf>
@@ -803,7 +803,7 @@
 <LM>w#w-mf920925-030-p3s1w22</LM>
 </w.rf>
 <form>vedoucí</form>
-<tag lemma="vedoucí-2" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="vedoucí-3" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920925-030-p3s1w23">
 <src.rf>manual</src.rf>
@@ -1757,7 +1757,7 @@
 <LM>w#w-mf920925-030-p4s5w32</LM>
 </w.rf>
 <form>jejích</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP2FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XP2FS3-------</tag>
 </m>
 <m id="m-mf920925-030-p4s5w33">
 <src.rf>manual</src.rf>
@@ -2064,7 +2064,7 @@
 <LM>w#w-mf920925-030-p4s7w14</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP2-P1-------</tag>
 </m>
 <m id="m-mf920925-030-p4s7w15">
 <src.rf>manual</src.rf>

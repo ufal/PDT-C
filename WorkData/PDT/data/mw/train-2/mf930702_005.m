@@ -51,7 +51,7 @@
 <LM>w#w-mf930702-005-p1s1w5</LM>
 </w.rf>
 <form>členy</form>
-<tag lemma="člen" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-mf930702-005-p1s1w6">
 <src.rf>manual</src.rf>
@@ -250,7 +250,7 @@
 <LM>w#w-mf930702-005-p2s2w2</LM>
 </w.rf>
 <form>navrženými</form>
-<tag lemma="navržený_^(*4hnout)" src="orig" selected="1">AAMP7----1A----</tag>
+<tag lemma="navržený" src="orig" selected="1">AAMP7----1A----</tag>
 </m>
 <m id="m-mf930702-005-p2s2w3">
 <src.rf>manual</src.rf>
@@ -703,7 +703,7 @@
 <LM>w#w-mf930702-005-p2s3w3</LM>
 </w.rf>
 <form>navrženými</form>
-<tag lemma="navržený_^(*4hnout)" src="orig" selected="1">AAMP7----1A----</tag>
+<tag lemma="navržený" src="orig" selected="1">AAMP7----1A----</tag>
 </m>
 <m id="m-mf930702-005-p2s3w4">
 <src.rf>manual</src.rf>
@@ -1041,7 +1041,7 @@
 <LM>w#w-mf930702-005-p2s4w10</LM>
 </w.rf>
 <form>navržených</form>
-<tag lemma="navržený_^(*4hnout)" src="orig" selected="1">AANP2----1A----</tag>
+<tag lemma="navržený" src="orig" selected="1">AANP2----1A----</tag>
 </m>
 <m id="m-mf930702-005-p2s4w11">
 <src.rf>manual</src.rf>
@@ -1097,7 +1097,7 @@
 <LM>w#w-mf930702-005-p2s4w17</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-mf930702-005-p2s4w18">
 <src.rf>manual</src.rf>

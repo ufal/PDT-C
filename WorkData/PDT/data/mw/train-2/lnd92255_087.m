@@ -522,7 +522,7 @@
 </w.rf>
 <form>Otty</form>
 <tag>
-<AM lemma="Otto_;Y" src="orig" selected="1">NNMS2-----A----</AM>
+<AM lemma="Otta-1_;Y" src="orig" selected="1">NNMS2-----A----</AM>
 <AM lemma="Ott_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Ott_;Y" src="auto">NNMP7-----A----</AM>
 <AM lemma="Otta_;G" src="auto">NNFP1-----A----</AM>
@@ -550,7 +550,7 @@
 <form>Hajka</form>
 <tag>
 <AM lemma="Hajko_;Y" src="orig">NNMS2-----A----</AM>
-<AM lemma="Hajek_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Hajko_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-087-p4s1w5">
@@ -1214,7 +1214,7 @@
 <LM>w#w-lnd92255-087-p6s1w4</LM>
 </w.rf>
 <form>lety</form>
-<tag lemma="rok" src="orig" selected="1">NNNP7-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP7-----A----</tag>
 </m>
 <m id="m-lnd92255-087-p6s1w5">
 <src.rf>manual</src.rf>

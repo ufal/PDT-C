@@ -489,7 +489,7 @@
 <LM>w#w-cmpr9413-015-p4s2w17</LM>
 </w.rf>
 <form>dovážené</form>
-<tag lemma="dovážený_^(dokončit_vážení)_(*2t)" src="auto" selected="1">AAIP4----1A----</tag>
+<tag lemma="dovážený_^(*2t)_(*3it)" src="auto" selected="1">AAIP4----1A----</tag>
 </m>
 <m id="m-cmpr9413-015-p4s2w18">
 <src.rf>manual</src.rf>
@@ -553,7 +553,7 @@
 <LM>w#w-cmpr9413-015-p4s2w25</LM>
 </w.rf>
 <form>orgány</form>
-<tag lemma="orgán" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-cmpr9413-015-p4s2w26">
 <src.rf>manual</src.rf>
@@ -715,7 +715,7 @@
 <LM>w#w-cmpr9413-015-p5s1w6</LM>
 </w.rf>
 <form>jehož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P1XXXZS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXZS3-------</tag>
 </m>
 <m id="m-cmpr9413-015-p5s1w7">
 <src.rf>manual</src.rf>
@@ -1814,7 +1814,7 @@
 <LM>w#w-cmpr9413-015-p6s4w16</LM>
 </w.rf>
 <form>členy</form>
-<tag lemma="člen" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-cmpr9413-015-p6s4w17">
 <src.rf>manual</src.rf>
@@ -1824,7 +1824,7 @@
 <form>Rady</form>
 <tag>
 <AM lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig">NNFS2-----A----</AM>
-<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu_poradní_sbor)" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-015-p6s4w18">

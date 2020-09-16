@@ -171,7 +171,7 @@
 <LM>w#w-ln95042-027-p1s1w20</LM>
 </w.rf>
 <form>Francouzky</form>
-<tag lemma="Francouzka_;E" src="auto" selected="1">NNFP1-----A----</tag>
+<tag lemma="Francouzka_;E_^(*2)" src="auto" selected="1">NNFP1-----A----</tag>
 </m>
 </s>
 </mdata>

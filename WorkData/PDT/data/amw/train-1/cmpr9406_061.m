@@ -547,7 +547,7 @@
 <LM>w#w-cmpr9406-061-p6s1w7</LM>
 </w.rf>
 <form>Sezimovo</form>
-<tag lemma="Sezimův-2_;G" src="orig" selected="1">AUNS1M---------</tag>
+<tag lemma="Sezimův-1_;Y_^(*4a-1)" src="orig" selected="1">AUNS1M---------</tag>
 </m>
 <m id="m-cmpr9406-061-p6s1w8">
 <src.rf>manual</src.rf>
@@ -717,7 +717,7 @@
 <LM>w#w-cmpr9406-061-p8s2w6</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-cmpr9406-061-p8s2w7">
 <src.rf>manual</src.rf>
@@ -1528,7 +1528,7 @@
 <LM>w#w-cmpr9406-061-p9s1w5</LM>
 </w.rf>
 <form>Husovo</form>
-<tag lemma="Husův_;Y_^(*2o)" src="auto" selected="1">AUNS1M---------</tag>
+<tag lemma="Husův_;Y_^(*2-1)_(*2o)" src="auto" selected="1">AUNS1M---------</tag>
 </m>
 <m id="m-cmpr9406-061-p9s1w6">
 <src.rf>manual</src.rf>
@@ -1659,7 +1659,7 @@
 <LM>w#w-cmpr9406-061-p9s1w21</LM>
 </w.rf>
 <form>Valdštejnovo</form>
-<tag lemma="Valdštejnův_;Y_^(*2)" src="orig" selected="1">AUNS1M---------</tag>
+<tag lemma="Valdštejnův-2_;Y_^(*4-2)" src="orig" selected="1">AUNS1M---------</tag>
 </m>
 <m id="m-cmpr9406-061-p9s1w22">
 <src.rf>manual</src.rf>
@@ -2056,7 +2056,7 @@
 <LM>w#w-cmpr9406-061-p9s1w69</LM>
 </w.rf>
 <form>Žižkovo</form>
-<tag lemma="Žižkův_;Y_^(*3ek)" src="auto" selected="1">AUNS1M---------</tag>
+<tag lemma="Žižkův_;Y_^(*2a)_(*3ek)" src="auto" selected="1">AUNS1M---------</tag>
 </m>
 <m id="m-cmpr9406-061-p9s1w70">
 <src.rf>manual</src.rf>
@@ -2341,7 +2341,7 @@
 <LM>w#w-cmpr9406-061-p12s1w6</LM>
 </w.rf>
 <form>Karlovy</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUIP1M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUIP1M---------</tag>
 </m>
 <m id="m-cmpr9406-061-p12s1w7">
 <src.rf>manual</src.rf>
@@ -3751,7 +3751,7 @@
 <LM>w#w-cmpr9406-061-p21s1w6</LM>
 </w.rf>
 <form>Husovo</form>
-<tag lemma="Husův_;Y_^(*2o)" src="auto" selected="1">AUNS1M---------</tag>
+<tag lemma="Husův_;Y_^(*2-1)_(*2o)" src="auto" selected="1">AUNS1M---------</tag>
 </m>
 <m id="m-cmpr9406-061-p21s1w7">
 <src.rf>manual</src.rf>
@@ -4079,7 +4079,7 @@
 <LM>w#w-cmpr9406-061-p23s2w19</LM>
 </w.rf>
 <form>Legerova</form>
-<tag lemma="Legerův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Legerův-1_;Y_^(*4-1)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-cmpr9406-061-p23s2w20">
 <src.rf>manual</src.rf>

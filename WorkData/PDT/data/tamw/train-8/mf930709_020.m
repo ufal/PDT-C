@@ -69,7 +69,7 @@
 <LM>w#w-mf930709-020-p2s1Aw3</LM>
 </w.rf>
 <form>DALI</form>
-<tag lemma="dát" src="orig" selected="1">VpMP----R-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930709-020-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -112,7 +112,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Koloděje</form>
-<tag lemma="Koloděje_;G_;Y" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="Koloděje_;G" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-mf930709-020-p2s1Bw2">
 <src.rf>manual</src.rf>
@@ -130,7 +130,7 @@
 <LM>w#w-mf930709-020-p2s1Cw1</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrFS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS4----------</tag>
 </m>
 <m id="m-mf930709-020-p2s1Cw2">
 <src.rf>manual</src.rf>
@@ -234,7 +234,7 @@
 <LM>w#w-mf930709-020-p2s1Cw14</LM>
 </w.rf>
 <form>Koloděje</form>
-<tag lemma="Koloděje_;G_;Y" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="Koloděje_;G" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-mf930709-020-p2s1Cw15">
 <src.rf>manual</src.rf>
@@ -882,7 +882,7 @@
 <LM>w#w-mf930709-020-p2s6w9</LM>
 </w.rf>
 <form>nepříjemný</form>
-<tag lemma="příjemný-1_^(všeob.,_poz._emoce)" src="orig" selected="1">AAIS4----1N----</tag>
+<tag lemma="příjemný_^(všeob.,_poz._emoce)" src="orig" selected="1">AAIS4----1N----</tag>
 </m>
 <m id="m-mf930709-020-p2s6w10">
 <src.rf>manual</src.rf>
@@ -1245,7 +1245,7 @@
 <LM>w#w-mf930709-020-p2s9w2</LM>
 </w.rf>
 <form>Evropě</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf930709-020-p2s9w3">
 <src.rf>manual</src.rf>
@@ -1363,7 +1363,7 @@
 <LM>w#w-mf930709-020-p2s9w16</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrNS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS1----------</tag>
 </m>
 <m id="m-mf930709-020-p2s9w17">
 <src.rf>manual</src.rf>

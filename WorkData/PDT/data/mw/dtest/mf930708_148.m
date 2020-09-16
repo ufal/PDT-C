@@ -122,7 +122,7 @@
 <LM>w#w-mf930708-148-p2s1w8</LM>
 </w.rf>
 <form>ukradeného</form>
-<tag lemma="ukradený_^(*5ást)" src="auto" selected="1">AAIS2----1A----</tag>
+<tag lemma="ukradený" src="auto" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-mf930708-148-p2s1w9">
 <src.rf>manual</src.rf>
@@ -252,7 +252,7 @@
 <LM>w#w-mf930708-148-p2s2w4</LM>
 </w.rf>
 <form>ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf930708-148-p2s2w5">
 <src.rf>manual</src.rf>
@@ -788,7 +788,7 @@
 <LM>w#w-mf930708-148-p2s6w6</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP6----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP6----------</tag>
 </m>
 <m id="m-mf930708-148-p2s6w7">
 <src.rf>manual</src.rf>

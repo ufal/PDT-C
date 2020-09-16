@@ -466,7 +466,7 @@
 <LM>w#w-ln95041-055-p2s2w25</LM>
 </w.rf>
 <form>člena</form>
-<tag lemma="člen" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95041-055-p2s2w26">
 <src.rf>manual</src.rf>
@@ -823,7 +823,7 @@
 <LM>w#w-ln95041-055-p2s4w17</LM>
 </w.rf>
 <form>nepříjemné</form>
-<tag lemma="příjemný-1_^(všeob.,_poz._emoce)" src="orig" selected="1">AAIP4----1N----</tag>
+<tag lemma="příjemný_^(všeob.,_poz._emoce)" src="orig" selected="1">AAIP4----1N----</tag>
 </m>
 <m id="m-ln95041-055-p2s4w18">
 <src.rf>manual</src.rf>
@@ -961,7 +961,7 @@
 <LM>w#w-ln95041-055-p2s5w11</LM>
 </w.rf>
 <form>hnutí</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln95041-055-p2s5w12">
 <src.rf>manual</src.rf>

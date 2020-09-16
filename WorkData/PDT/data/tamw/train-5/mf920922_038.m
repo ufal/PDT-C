@@ -453,7 +453,7 @@
 <LM>w#w-mf920922-038-p2s4w7</LM>
 </w.rf>
 <form>Pavlova</form>
-<tag lemma="Pavlov_;Y" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Pavlov-1_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920922-038-p2s4w8">
 <src.rf>manual</src.rf>
@@ -514,7 +514,7 @@
 <form>Čechovo</form>
 <tag>
 <AM lemma="Čechův-2_;Y_^(*4-2)" src="orig">AUNS1M---------</AM>
-<AM lemma="Čechův-2_;Y_^(*4o-2)" src="auto" recommended="1" selected="1">AUNS1M---------</AM>
+<AM lemma="Čechův_;E_;Y_^(*2)_(*2o-2)" src="auto" recommended="1" selected="1">AUNS1M---------</AM>
 <AM lemma="Čechův-2_;Y_^(*4o-2)" src="auto">AUNS4M---------</AM>
 <AM lemma="Čechův-2_;Y_^(*4o-2)" src="auto">AUNS5M---------</AM>
 <AM lemma="Čechův-2_;Y_^(*4o-2)" src="auto">AUXXXM--------7</AM>
@@ -742,7 +742,7 @@
 <LM>w#w-mf920922-038-p2s5w19</LM>
 </w.rf>
 <form>prvního</form>
-<tag lemma="první" src="orig" selected="1">CrIS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS2----------</tag>
 </m>
 <m id="m-mf920922-038-p2s5w20">
 <src.rf>manual</src.rf>
@@ -750,7 +750,7 @@
 <LM>w#w-mf920922-038-p2s5w20</LM>
 </w.rf>
 <form>prostředku</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920922-038-p2s5w21">
 <src.rf>manual</src.rf>
@@ -808,7 +808,7 @@
 <LM>w#w-mf920922-038-p2s6w2</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrIS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS6----------</tag>
 </m>
 <m id="m-mf920922-038-p2s6w3">
 <src.rf>manual</src.rf>

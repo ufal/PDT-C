@@ -517,7 +517,7 @@
 <LM>w#w-lnd94101-986-p1s3w3</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrIS7----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS7----------</tag>
 </m>
 <m id="m-lnd94101-986-p1s3w4">
 <src.rf>manual</src.rf>
@@ -690,7 +690,7 @@
 <LM>w#w-lnd94101-986-p1s3w24</LM>
 </w.rf>
 <form>handicapu</form>
-<tag lemma="handicap" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="handicap_,s_^(^DD**hendikep)" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-lnd94101-986-p1s3w25">
 <src.rf>manual</src.rf>

@@ -660,7 +660,7 @@
 <LM>w#w-lnd92251-052-p2s5w12</LM>
 </w.rf>
 <form>orgánů</form>
-<tag lemma="orgán" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-lnd92251-052-p2s5w13">
 <src.rf>manual</src.rf>
@@ -708,7 +708,7 @@
 <LM>w#w-lnd92251-052-p2s5w18</LM>
 </w.rf>
 <form>jehož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P1XXXZS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXZS3-------</tag>
 </m>
 <m id="m-lnd92251-052-p2s5w19">
 <src.rf>manual</src.rf>

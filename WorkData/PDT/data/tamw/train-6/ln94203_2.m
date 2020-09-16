@@ -149,7 +149,7 @@
 <LM>w#w-ln94203-2-p1s2w11</LM>
 </w.rf>
 <form>prostředku</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94203-2-p1s2w12">
 <src.rf>manual</src.rf>

@@ -255,7 +255,7 @@
 <LM>w#w-mf930701-105-p2s2w2</LM>
 </w.rf>
 <form>sekretáře</form>
-<tag lemma="sekretář" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="sekretář-2" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930701-105-p2s2w3">
 <src.rf>manual</src.rf>
@@ -881,7 +881,7 @@
 <LM>w#w-mf930701-105-p3s2w24</LM>
 </w.rf>
 <form>Slavii</form>
-<tag lemma="Slavia_;m" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Slavie_;m_,s_^(^DD**Slávie)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf930701-105-p3s2w25">
 <src.rf>manual</src.rf>
@@ -961,7 +961,7 @@
 <LM>w#w-mf930701-105-p3s2w34</LM>
 </w.rf>
 <form>sekretář</form>
-<tag lemma="sekretář" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="sekretář-2" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-105-p3s2w35">
 <src.rf>manual</src.rf>

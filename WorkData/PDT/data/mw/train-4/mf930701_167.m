@@ -997,7 +997,7 @@
 <LM>w#w-mf930701-167-p2s7w1</LM>
 </w.rf>
 <form>Orgány</form>
-<tag lemma="orgán" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-mf930701-167-p2s7w2">
 <src.rf>manual</src.rf>
@@ -1133,7 +1133,7 @@
 <LM>w#w-mf930701-167-p2s7w18</LM>
 </w.rf>
 <form>tajné</form>
-<tag lemma="tajný" src="orig" selected="1">AAIP1----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AAIP1----1A----</tag>
 </m>
 <m id="m-mf930701-167-p2s7w19">
 <src.rf>manual</src.rf>
@@ -1173,7 +1173,7 @@
 <LM>w#w-mf930701-167-p2s7w23</LM>
 </w.rf>
 <form>tajné</form>
-<tag lemma="tajný" src="orig" selected="1">AAIP1----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AAIP1----1A----</tag>
 </m>
 <m id="m-mf930701-167-p2s7w24">
 <src.rf>manual</src.rf>

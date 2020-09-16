@@ -676,7 +676,7 @@
 <AM lemma="jedoucí-1_^(pohybovat_se,_ne_však_chůzí)_(*7t-1)" src="auto">AGMP1-----A----</AM>
 <AM lemma="jedoucí-1_^(pohybovat_se,_ne_však_chůzí)_(*7t-1)" src="auto">AGMP4-----A----</AM>
 <AM lemma="jedoucí-1_^(pohybovat_se,_ne_však_chůzí)_(*7t-1)" src="auto">AGMP5-----A----</AM>
-<AM lemma="jedoucí-1_^(pohybovat_se,_ne_však_chůzí)_(*7t-1)" src="auto" selected="1">AGMS1-----A----</AM>
+<AM lemma="jedoucí-1_^(*7t-1)" src="auto" selected="1">AGMS1-----A----</AM>
 <AM lemma="jedoucí-1_^(pohybovat_se,_ne_však_chůzí)_(*7t-1)" src="auto">AGMS5-----A----</AM>
 <AM lemma="jedoucí-1_^(pohybovat_se,_ne_však_chůzí)_(*7t-1)" src="auto">AGNP1-----A----</AM>
 <AM lemma="jedoucí-1_^(pohybovat_se,_ne_však_chůzí)_(*7t-1)" src="auto">AGNP4-----A----</AM>
@@ -758,7 +758,7 @@
 <AM lemma="Mercedes-2_;m_^(vozidlo)" src="orig">NNIS6-----A---1</AM>
 <AM lemma="mercedes_;m_^(vozidlo)" src="auto">NNIS2-----A----</AM>
 <AM lemma="mercedes_;m_^(vozidlo)" src="auto">NNIS3-----A----</AM>
-<AM lemma="mercedes_;m_^(vozidlo)" src="auto" recommended="1" selected="1">NNIS6-----A----</AM>
+<AM lemma="mercedes_^(vozidlo)" src="auto" recommended="1" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-71-p3s2w9">
@@ -777,7 +777,7 @@
 <form>nedal</form>
 <tag>
 <AM lemma="dát" src="orig">VpYS----R-NAP--</AM>
-<AM lemma="dát" src="manual" selected="1">VpYS----R-NAP--</AM>
+<AM lemma="dát-1" src="manual" selected="1">VpYS----R-NAP--</AM>
 </tag>
 </m>
 <m id="m-ln94204-71-p3s2w11">
@@ -1055,7 +1055,7 @@
 <LM>w#w-ln94204-71-p3s4w4</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-71-p3s4w5">
 <src.rf>manual</src.rf>
@@ -1366,7 +1366,7 @@
 <form>mercedesu</form>
 <tag>
 <AM lemma="Mercedes-2_;m_^(vozidlo)" src="orig">NNIS2-----A----</AM>
-<AM lemma="mercedes_;m_^(vozidlo)" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
+<AM lemma="mercedes_^(vozidlo)" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
 <AM lemma="mercedes_;m_^(vozidlo)" src="auto">NNIS3-----A----</AM>
 <AM lemma="mercedes_;m_^(vozidlo)" src="auto">NNIS6-----A----</AM>
 </tag>
@@ -1785,7 +1785,7 @@
 <LM>w#w-ln94204-71-p4s3w2</LM>
 </w.rf>
 <form>Miroslav</form>
-<tag lemma="Miroslav_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Miroslav-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-71-p4s3w3">
 <src.rf>manual</src.rf>

@@ -396,7 +396,7 @@
 <LM>w#w-lnd92255-090-p2s3w3</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS7---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS7---------1</tag>
 </m>
 <m id="m-lnd92255-090-p2s3w4">
 <src.rf>manual</src.rf>
@@ -752,7 +752,7 @@
 <LM>w#w-lnd92255-090-p2s6w2</LM>
 </w.rf>
 <form>vězení</form>
-<tag lemma="vězení_,a_^(místo_výkonu_trestu)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="vězení_^(místo_výkonu_trestu)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-lnd92255-090-p2s6w3">
 <src.rf>manual</src.rf>
@@ -1339,7 +1339,7 @@
 <LM>w#w-lnd92255-090-p3s3w17</LM>
 </w.rf>
 <form>utváření</form>
-<tag lemma="utváření_^(expr._od_'tvářit_se')_(*2t)" src="auto" selected="1">NNNS3-----A----</tag>
+<tag lemma="utváření_^(*2t)" src="auto" selected="1">NNNS3-----A----</tag>
 </m>
 <m id="m-lnd92255-090-p3s3w18">
 <src.rf>manual</src.rf>

@@ -560,7 +560,7 @@
 <LM>w#w-ln94201-20-p3s1w11</LM>
 </w.rf>
 <form>nesprávné</form>
-<tag lemma="správný_^(podle_něj._měřítek;_př._chlap,_míra,...)" src="orig" selected="1">AANS1----1N----</tag>
+<tag lemma="správný" src="orig" selected="1">AANS1----1N----</tag>
 </m>
 <m id="m-ln94201-20-p3s1w12">
 <src.rf>manual</src.rf>
@@ -789,7 +789,7 @@
 <LM>w#w-ln94201-20-p3s2w10</LM>
 </w.rf>
 <form>prošlou</form>
-<tag lemma="prošlý_^(i_uplynout_[o_čase])_(*3jít)" src="auto" selected="1">AAFS7----1A----</tag>
+<tag lemma="prošlý_^(*3jít)" src="auto" selected="1">AAFS7----1A----</tag>
 </m>
 <m id="m-ln94201-20-p3s2w11">
 <src.rf>manual</src.rf>
@@ -1391,7 +1391,7 @@
 <LM>w#w-ln94201-20-p4s3w15</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94201-20-p4s3w16">
 <src.rf>manual</src.rf>

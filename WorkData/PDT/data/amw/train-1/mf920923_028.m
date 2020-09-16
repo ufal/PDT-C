@@ -43,7 +43,7 @@
 <LM>w#w-mf920923-028-p1s1w4</LM>
 </w.rf>
 <form>dávno</form>
-<tag lemma="dávno" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="dávno-1" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf920923-028-p1s1w5">
 <src.rf>manual</src.rf>
@@ -134,7 +134,7 @@
 <LM>w#w-mf920923-028-p1s1w15</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-mf920923-028-p1s1w16">
 <src.rf>manual</src.rf>
@@ -328,7 +328,7 @@
 <LM>w#w-mf920923-028-p1s2w17</LM>
 </w.rf>
 <form>brání</form>
-<tag lemma="bránit_^(klást_překážky)" src="auto" selected="1">VB-P---3P-AAI--</tag>
+<tag lemma="bránit" src="auto" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf920923-028-p1s2w18">
 <src.rf>manual</src.rf>
@@ -746,7 +746,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf920923-028-p1s6w3">
@@ -1288,7 +1288,7 @@
 <LM>w#w-mf920923-028-p2s1w14</LM>
 </w.rf>
 <form>vystřižení</form>
-<tag lemma="vystřižení_^(*4hnout)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="vystřižení" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-mf920923-028-p2s1w15">
 <src.rf>manual</src.rf>
@@ -1392,7 +1392,7 @@
 <LM>w#w-mf920923-028-p2s1w28</LM>
 </w.rf>
 <form>průvodce</form>
-<tag lemma="průvodce" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="průvodce-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-028-p2s1w29">
 <src.rf>manual</src.rf>
@@ -1416,7 +1416,7 @@
 <LM>w#w-mf920923-028-p2s1w31</LM>
 </w.rf>
 <form>co</form>
-<tag lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="co-5_^(př._co_nejméně,_co_nevidět_atd.)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf920923-028-p2s1w32">
 <src.rf>manual</src.rf>
@@ -2444,7 +2444,7 @@
 <LM>w#w-mf920923-028-p3s2w2</LM>
 </w.rf>
 <form>proto</form>
-<tag lemma="proto-2_^(dal_mu_co_proto,_tak_proto!)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="proto-2_^(proto_že)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf920923-028-p3s2w3">
 <src.rf>manual</src.rf>
@@ -2500,7 +2500,7 @@
 <LM>w#w-mf920923-028-p3s2w9</LM>
 </w.rf>
 <form>ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf920923-028-p3s2w10">
 <src.rf>manual</src.rf>

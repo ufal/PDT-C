@@ -53,7 +53,7 @@
 <form>zajetí</form>
 <tag>
 <AM lemma="zajetí_^(např._autem)_(*3mout)" src="auto">NNNS6-----A----</AM>
-<AM lemma="zajetí_^(zajmout)_(*3mout)" src="manual" selected="1">NNNS6-----A----</AM>
+<AM lemma="zajetí_^(*1)_(*3mout)" src="manual" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>
 </s>
@@ -436,7 +436,7 @@
 <LM>w#w-mf920922-138-p2s2w40</LM>
 </w.rf>
 <form>pilot</form>
-<tag lemma="pilot" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="pilot-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-138-p2s2w41">
 <src.rf>manual</src.rf>
@@ -502,7 +502,7 @@
 <LM>w#w-mf920922-138-p2s3w5</LM>
 </w.rf>
 <form>pilotovi</form>
-<tag lemma="pilot" src="orig" selected="1">NNMS6-----A----</tag>
+<tag lemma="pilot-1" src="orig" selected="1">NNMS6-----A----</tag>
 </m>
 <m id="m-mf920922-138-p2s3w6">
 <src.rf>manual</src.rf>
@@ -704,7 +704,7 @@
 <form>zajetí</form>
 <tag>
 <AM lemma="zajetí_^(např._autem)_(*3mout)" src="auto">NNNS2-----A----</AM>
-<AM lemma="zajetí_^(zajmout)_(*3mout)" src="manual" selected="1">NNNS2-----A----</AM>
+<AM lemma="zajetí_^(*1)_(*3mout)" src="manual" selected="1">NNNS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-138-p2s3w31">

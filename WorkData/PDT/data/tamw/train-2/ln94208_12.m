@@ -377,7 +377,7 @@
 <LM>w#w-ln94208-12-p3s1w7</LM>
 </w.rf>
 <form>Bundesbanky</form>
-<tag lemma="Bundesbanka" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="Bundesbanka_;m" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94208-12-p3s1w8">
 <src.rf>manual</src.rf>
@@ -433,7 +433,7 @@
 <LM>w#w-ln94208-12-p3s1w14</LM>
 </w.rf>
 <form>zaměstnanosti</form>
-<tag lemma="zaměstnanost-2_^(politika_z.;_přednost_před_odvoz.)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="zaměstnanost_^(*3ý)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94208-12-p3s1w15">
 <src.rf>manual</src.rf>
@@ -924,7 +924,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>manažerů</form>
-<tag lemma="manažer" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="manažer-1" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94208-12-p3s5w15">
 <src.rf>manual</src.rf>
@@ -1182,7 +1182,7 @@
 <LM>w#w-ln94208-12-p4s1w8</LM>
 </w.rf>
 <form>zaměstnanosti</form>
-<tag lemma="zaměstnanost-2_^(politika_z.;_přednost_před_odvoz.)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="zaměstnanost_^(*3ý)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94208-12-p4s1w9">
 <src.rf>manual</src.rf>

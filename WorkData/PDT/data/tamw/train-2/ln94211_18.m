@@ -499,7 +499,7 @@
 <LM>w#w-ln94211-18-p3s1w16</LM>
 </w.rf>
 <form>Miroslav</form>
-<tag lemma="Miroslav_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Miroslav-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94211-18-p3s1w17">
 <src.rf>manual</src.rf>
@@ -1205,7 +1205,7 @@
 <LM>w#w-ln94211-18-p5s1w37</LM>
 </w.rf>
 <form>zkrácením</form>
-<tag lemma="zkrácení_,a_^(*2t)" src="auto" selected="1">NNNS7-----A----</tag>
+<tag lemma="zkrácení_^(*4tit)" src="auto" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-ln94211-18-p5s1w38">
 <src.rf>manual</src.rf>
@@ -1213,7 +1213,7 @@
 <LM>w#w-ln94211-18-p5s1w38</LM>
 </w.rf>
 <form>dodacích</form>
-<tag lemma="dodací_^(list,_termín,...)" src="auto" selected="1">AAFP2----1A----</tag>
+<tag lemma="dodací_^(*2t)" src="auto" selected="1">AAFP2----1A----</tag>
 </m>
 <m id="m-ln94211-18-p5s1w39">
 <src.rf>manual</src.rf>
@@ -2230,7 +2230,7 @@
 <LM>w#w-ln94211-18-p8s2w13</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFP4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFP4----------</tag>
 </m>
 <m id="m-ln94211-18-p8s2w14">
 <src.rf>manual</src.rf>

@@ -126,7 +126,7 @@
 <LM>w#w-mf920925-063-p1s2w7</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS7----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS7----------</tag>
 </m>
 <m id="m-mf920925-063-p1s2w8">
 <src.rf>manual</src.rf>
@@ -483,7 +483,7 @@
 <LM>w#w-mf920925-063-p1s5w4</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS4----------</tag>
 </m>
 <m id="m-mf920925-063-p1s5w5">
 <src.rf>manual</src.rf>
@@ -655,7 +655,7 @@
 <LM>w#w-mf920925-063-p1s7w2</LM>
 </w.rf>
 <form>manažer</form>
-<tag lemma="manažer" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="manažer-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-063-p1s7w3">
 <src.rf>manual</src.rf>
@@ -679,7 +679,7 @@
 <LM>w#w-mf920925-063-p1s7w5</LM>
 </w.rf>
 <form>Esposito</form>
-<tag lemma="Espozito_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Esposito_;Y_,s_^(^DD**Espozito)" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-063-p1s7w6">
 <src.rf>manual</src.rf>
@@ -878,7 +878,7 @@
 <LM>w#w-mf920925-063-p1s9w6</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-mf920925-063-p1s9w7">
 <src.rf>manual</src.rf>
@@ -1085,7 +1085,7 @@
 <LM>w#w-mf920925-063-p2s1Aw1</LM>
 </w.rf>
 <form>Hartford</form>
-<tag lemma="Hartford_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Hartford_;G_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920925-063-p2s1Aw2">
 <src.rf>manual</src.rf>
@@ -1135,7 +1135,7 @@
 <LM>w#w-mf920925-063-p2s1Bw5</LM>
 </w.rf>
 <form>Hartford</form>
-<tag lemma="Hartford_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Hartford_;G_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920925-063-p2s1Bw6">
 <src.rf>manual</src.rf>

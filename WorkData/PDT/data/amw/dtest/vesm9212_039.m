@@ -429,7 +429,7 @@
 <LM>w#w-vesm9212-039-p2s3w20</LM>
 </w.rf>
 <form>mikroorganismu</form>
-<tag lemma="mikroorganismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="mikroorganismus_,s_^(^DD**mikroorganizmus)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-vesm9212-039-p2s3w21">
 <src.rf>manual</src.rf>
@@ -596,7 +596,7 @@
 <LM>w#w-vesm9212-039-p3s1w15</LM>
 </w.rf>
 <form>brání</form>
-<tag lemma="bránit_^(klást_překážky)" src="auto" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="bránit" src="auto" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-vesm9212-039-p3s1w16">
 <src.rf>manual</src.rf>
@@ -648,7 +648,7 @@
 <form>Mikroorganismus</form>
 <tag>
 <AM lemma="mikroorganismus" src="orig">NNIS1-----A----</AM>
-<AM lemma="mikroorganismus_^(^DD**mikroorganizmus)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="mikroorganismus_,s_^(^DD**mikroorganizmus)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-039-p3s2w2">
@@ -1354,7 +1354,7 @@
 <LM>w#w-vesm9212-039-p5s1w16</LM>
 </w.rf>
 <form>Worthingtonem</form>
-<tag lemma="Worthington_;Y" src="auto" selected="1">NNMS7-----A----</tag>
+<tag lemma="Worthington-1_;Y" src="auto" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-vesm9212-039-p5s1w17">
 <src.rf>manual</src.rf>

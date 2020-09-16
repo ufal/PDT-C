@@ -350,7 +350,7 @@
 </w.rf>
 <form>zmražených</form>
 <tag>
-<AM lemma="zmražený_^(*4zit)" src="auto" recommended="1">AAFP2----1A----</AM>
+<AM lemma="zmražený" src="auto" recommended="1">AAFP2----1A----</AM>
 <AM lemma="zmražený_^(*4zit)" src="auto">AAFP6----1A----</AM>
 <AM lemma="zmražený_^(*4zit)" src="auto">AAIP2----1A----</AM>
 <AM lemma="zmražený_^(*4zit)" src="auto">AAIP6----1A----</AM>

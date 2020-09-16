@@ -214,7 +214,7 @@
 <LM>w#w-cmpr9415-006-p6s1w1</LM>
 </w.rf>
 <form>Dítě</form>
-<tag lemma="dítě" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="dítě-1" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-006-p6s1w2">
 <src.rf>manual</src.rf>
@@ -246,7 +246,7 @@
 <LM>w#w-cmpr9415-006-p6s1w5</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-cmpr9415-006-p6s1w6">
 <src.rf>manual</src.rf>
@@ -676,7 +676,7 @@
 <LM>w#w-cmpr9415-006-p9s1w21</LM>
 </w.rf>
 <form>km</form>
-<tag lemma="km-1`kilometr" src="orig" selected="1">NNIXX-----A---b</tag>
+<tag lemma="kilometr" src="orig" selected="1">NNIXX-----A---b</tag>
 </m>
 <m id="m-cmpr9415-006-p9s1w22">
 <src.rf>manual</src.rf>

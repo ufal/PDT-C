@@ -691,7 +691,7 @@
 <LM>w#w-mf920925-003-p1s5w1</LM>
 </w.rf>
 <form>Rozčilení</form>
-<tag lemma="rozčilený_^(*3it)" src="auto" selected="1">AAMP1----1A----</tag>
+<tag lemma="rozčilený_,s_^(^DD**rozčílený)" src="auto" selected="1">AAMP1----1A----</tag>
 </m>
 <m id="m-mf920925-003-p1s5w2">
 <src.rf>manual</src.rf>
@@ -731,7 +731,7 @@
 <LM>w#w-mf920925-003-p1s5w6</LM>
 </w.rf>
 <form>hození</form>
-<tag lemma="hození_^(*4dit)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="hození-1_^(*6dit-1)_(*6dit-2)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-mf920925-003-p1s5w7">
 <src.rf>manual</src.rf>
@@ -1048,7 +1048,7 @@
 <LM>w#w-mf920925-003-p1s6w6</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920925-003-p1s6w7">
 <src.rf>manual</src.rf>
@@ -1410,7 +1410,7 @@
 <LM>w#w-mf920925-003-p1s8w3</LM>
 </w.rf>
 <form>co</form>
-<tag lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="co-5_^(př._co_nejméně,_co_nevidět_atd.)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf920925-003-p1s8w4">
 <src.rf>manual</src.rf>
@@ -1554,7 +1554,7 @@
 <LM>w#w-mf920925-003-p1s8w21</LM>
 </w.rf>
 <form>odpovědnosti</form>
-<tag lemma="odpovědnost_^(kdo_za_něco_odpovídá)_(*3ý)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="odpovědnost_^(*3ý)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920925-003-p1s8w22">
 <src.rf>manual</src.rf>

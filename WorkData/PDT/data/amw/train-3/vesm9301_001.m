@@ -664,7 +664,7 @@
 <LM>w#w-vesm9301-001-p4s3w5</LM>
 </w.rf>
 <form>neznámou</form>
-<tag lemma="neznámá_^(potkat_neznámého_[člověka])_(*1ý)" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="neznámá_^(*1ý)" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-vesm9301-001-p4s3w6">
 <src.rf>manual</src.rf>
@@ -688,7 +688,7 @@
 <LM>w#w-vesm9301-001-p4s3w8</LM>
 </w.rf>
 <form>modelů</form>
-<tag lemma="model" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="model-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-vesm9301-001-p4s3w9">
 <src.rf>manual</src.rf>
@@ -808,7 +808,7 @@
 <LM>w#w-vesm9301-001-p4s3w23</LM>
 </w.rf>
 <form>proudění</form>
-<tag lemma="proudění-2_^(pohyb_kap.,_plynu)_(*5it-2)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="proudění-2_^(*5it-2)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-vesm9301-001-p4s3w24">
 <src.rf>manual</src.rf>
@@ -932,7 +932,7 @@
 <LM>w#w-vesm9301-001-p4s3w38</LM>
 </w.rf>
 <form>málo</form>
-<tag lemma="málo-3_^(málo_+_příd._jm.,_př._byl_málo_důsledný)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="málo-3_^(málo_důsledný)" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-vesm9301-001-p4s3w39">
 <src.rf>manual</src.rf>
@@ -990,7 +990,7 @@
 <LM>w#w-vesm9301-001-p4s4w2</LM>
 </w.rf>
 <form>modely</form>
-<tag lemma="model" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="model-1" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-vesm9301-001-p4s4w3">
 <src.rf>manual</src.rf>
@@ -1038,7 +1038,7 @@
 <LM>w#w-vesm9301-001-p4s4w8</LM>
 </w.rf>
 <form>roli</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="role_^(svitek_poslání_pozemek)" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-vesm9301-001-p4s4w9">
 <src.rf>manual</src.rf>
@@ -1118,7 +1118,7 @@
 <LM>w#w-vesm9301-001-p4s4w18</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1IS4FS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1IS4FS3-------</tag>
 </m>
 <m id="m-vesm9301-001-p4s4w19">
 <src.rf>manual</src.rf>
@@ -2307,7 +2307,7 @@
 <LM>w#w-vesm9301-001-p10s4w21</LM>
 </w.rf>
 <form>dál</form>
-<tag lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="dál-3_,s_^(také,_za_další)_(^DD**dále-3)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-vesm9301-001-p10s4w22">
 <src.rf>manual</src.rf>
@@ -2957,7 +2957,7 @@
 <LM>w#w-vesm9301-001-p10s7w13</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-vesm9301-001-p10s7w14">
 <src.rf>manual</src.rf>
@@ -3130,7 +3130,7 @@
 <LM>w#w-vesm9301-001-p11s1w20</LM>
 </w.rf>
 <form>termitů</form>
-<tag lemma="termit" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="termit-1" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-vesm9301-001-p11s1w21">
 <src.rf>manual</src.rf>
@@ -3956,7 +3956,7 @@
 <LM>w#w-vesm9301-001-p13s2w11</LM>
 </w.rf>
 <form>prvních</form>
-<tag lemma="první" src="orig" selected="1">CrFP2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFP2----------</tag>
 </m>
 <m id="m-vesm9301-001-p13s2w12">
 <src.rf>manual</src.rf>
@@ -3972,7 +3972,7 @@
 <LM>w#w-vesm9301-001-p13s2w13</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-vesm9301-001-p13s2w14">
 <src.rf>manual</src.rf>
@@ -4306,7 +4306,7 @@
 <LM>w#w-vesm9301-001-p14s2w3</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-vesm9301-001-p14s2w4">
 <src.rf>manual</src.rf>
@@ -4740,7 +4740,7 @@
 <LM>w#w-vesm9301-001-p14s5w3</LM>
 </w.rf>
 <form>modelů</form>
-<tag lemma="model" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="model-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-vesm9301-001-p14s5w4">
 <src.rf>manual</src.rf>

@@ -1308,7 +1308,7 @@
 <LM>w#w-ln94204-45-p2s10w1</LM>
 </w.rf>
 <form>Zasažené</form>
-<tag lemma="zasažený_^(*5áhnout)" src="orig" selected="1">AANS1----1A----</tag>
+<tag lemma="zasažený" src="orig" selected="1">AANS1----1A----</tag>
 </m>
 <m id="m-ln94204-45-p2s10w2">
 <src.rf>manual</src.rf>

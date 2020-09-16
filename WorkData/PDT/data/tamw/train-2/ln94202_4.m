@@ -43,7 +43,7 @@
 <LM>w#w-ln94202-4-p1s1w4</LM>
 </w.rf>
 <form>modelem</form>
-<tag lemma="model" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="model-1" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-ln94202-4-p1s1w5">
 <src.rf>manual</src.rf>
@@ -654,7 +654,7 @@
 <LM>w#w-ln94202-4-p4s1w22</LM>
 </w.rf>
 <form>nezaměstnanosti</form>
-<tag lemma="nezaměstnanost-2_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="nezaměstnanost_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94202-4-p4s1w23">
 <src.rf>manual</src.rf>
@@ -946,7 +946,7 @@
 <LM>w#w-ln94202-4-p5s1w5</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8NS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8NS4---------1</tag>
 </m>
 <m id="m-ln94202-4-p5s1w6">
 <src.rf>manual</src.rf>
@@ -1180,7 +1180,7 @@
 <LM>w#w-ln94202-4-p6s1w11</LM>
 </w.rf>
 <form>kurz</form>
-<tag lemma="kurs" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="kurz" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94202-4-p6s1w12">
 <src.rf>manual</src.rf>
@@ -1635,7 +1635,7 @@
 <LM>w#w-ln94202-4-p6s3w23</LM>
 </w.rf>
 <form>kurzu</form>
-<tag lemma="kurs" src="auto" selected="1">NNIS6-----A---1</tag>
+<tag lemma="kurz" src="auto" selected="1">NNIS6-----A---1</tag>
 </m>
 <m id="m-ln94202-4-p6s3w24">
 <src.rf>manual</src.rf>
@@ -2244,7 +2244,7 @@
 <LM>w#w-ln94202-4-p8s1w7</LM>
 </w.rf>
 <form>nejlepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAIP4----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAIP4----3A----</tag>
 </m>
 <m id="m-ln94202-4-p8s1w8">
 <src.rf>manual</src.rf>
@@ -2384,7 +2384,7 @@
 <LM>w#w-ln94202-4-p8s3w3</LM>
 </w.rf>
 <form>prvního</form>
-<tag lemma="první" src="orig" selected="1">CrNS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS2----------</tag>
 </m>
 <m id="m-ln94202-4-p8s3w4">
 <src.rf>manual</src.rf>
@@ -2551,7 +2551,7 @@
 <LM>w#w-ln94202-4-p9s2w2</LM>
 </w.rf>
 <form>ukazateli</form>
-<tag lemma="ukazatel" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="ukazatel-1" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln94202-4-p9s2w3">
 <src.rf>manual</src.rf>
@@ -2774,7 +2774,7 @@
 <LM>w#w-ln94202-4-p9s3w7</LM>
 </w.rf>
 <form>ukazateli</form>
-<tag lemma="ukazatel" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="ukazatel-1" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln94202-4-p9s3w8">
 <src.rf>manual</src.rf>
@@ -3851,7 +3851,7 @@
 <LM>w#w-ln94202-4-p13s1w2</LM>
 </w.rf>
 <form>nezaměstnanosti</form>
-<tag lemma="nezaměstnanost-2_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="nezaměstnanost_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94202-4-p13s1w3">
 <src.rf>manual</src.rf>
@@ -4236,7 +4236,7 @@
 <LM>w#w-ln94202-4-p14s1w6</LM>
 </w.rf>
 <form>ukazatel</form>
-<tag lemma="ukazatel" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="ukazatel-1" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln94202-4-p14s1w7">
 <src.rf>manual</src.rf>
@@ -4983,7 +4983,7 @@
 <LM>w#w-ln94202-4-p15s1w19</LM>
 </w.rf>
 <form>ukazatelů</form>
-<tag lemma="ukazatel" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="ukazatel-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln94202-4-p15s1w20">
 <src.rf>manual</src.rf>
@@ -5018,7 +5018,7 @@
 <LM>w#w-ln94202-4-p15s1w23</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8YP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8YP4---------1</tag>
 </m>
 <m id="m-ln94202-4-p15s1w24">
 <src.rf>manual</src.rf>
@@ -5374,7 +5374,7 @@
 <LM>w#w-ln94202-4-p15s3w13</LM>
 </w.rf>
 <form>nezaměstnanost</form>
-<tag lemma="nezaměstnanost-2_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="nezaměstnanost_^(n._v_regionu;_přednost_před_odvoz.)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94202-4-p15s3w14">
 <src.rf>manual</src.rf>
@@ -5702,7 +5702,7 @@
 <LM>w#w-ln94202-4-p15s6w4</LM>
 </w.rf>
 <form>modelem</form>
-<tag lemma="model" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="model-1" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-ln94202-4-p15s6w5">
 <src.rf>manual</src.rf>

@@ -630,7 +630,7 @@
 <LM>w#w-ln94203-108-p3s1w27</LM>
 </w.rf>
 <form>výbor</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94203-108-p3s1w28">
 <src.rf>manual</src.rf>
@@ -837,7 +837,7 @@
 <LM>w#w-ln94203-108-p3s3w6</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94203-108-p3s3w7">
 <src.rf>manual</src.rf>

@@ -193,7 +193,7 @@
 <LM>w#w-ln94204-85-p2s1Bw11</LM>
 </w.rf>
 <form>Brasílii</form>
-<tag lemma="Brasília_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Brasílie_;G_,h_^(^GC**Brazílie)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94204-85-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -702,7 +702,7 @@
 <LM>w#w-ln94204-85-p2s4w4</LM>
 </w.rf>
 <form>Brasílii</form>
-<tag lemma="Brasília_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Brasílie_;G_,h_^(^GC**Brazílie)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94204-85-p2s4w5">
 <src.rf>manual</src.rf>

@@ -624,7 +624,7 @@
 <form>Minově</form>
 <tag>
 <AM lemma="Minův_;Y_^(*2o)" src="auto">AUNS6M---------</AM>
-<AM lemma="Minův_;Y" src="manual" selected="1">AUNS6M---------</AM>
+<AM lemma="Minův_;Y_^(*2)_(*2o)" src="manual" selected="1">AUNS6M---------</AM>
 </tag>
 </m>
 <m id="m-ln94202-9-p4s1w11">

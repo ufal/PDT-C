@@ -27,7 +27,7 @@
 <LM>w#w-lnd92259-051-p1s1w2</LM>
 </w.rf>
 <form>Štěpán</form>
-<tag lemma="Štěpán_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Štěpán-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92259-051-p2s1">
@@ -170,7 +170,7 @@
 <form>Štěpánovi</form>
 <tag>
 <AM lemma="Štěpán_;Y" src="orig">NNMS3-----A----</AM>
-<AM lemma="Štěpán_;Y" src="manual" selected="1">NNMS3-----A----</AM>
+<AM lemma="Štěpán-1_;Y" src="manual" selected="1">NNMS3-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-051-p2s2w15">
@@ -363,7 +363,7 @@
 <LM>w#w-lnd92259-051-p2s3w8</LM>
 </w.rf>
 <form>mým</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS7-S1-------</tag>
+<tag lemma="můj" src="orig" selected="1">PSZS7-S1-------</tag>
 </m>
 <m id="m-lnd92259-051-p2s3w9">
 <src.rf>manual</src.rf>
@@ -389,7 +389,7 @@
 <form>Štěpán</form>
 <tag>
 <AM lemma="Štěpán_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Štěpán_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Štěpán-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-051-p2s3w12">
@@ -565,7 +565,7 @@
 <form>Štěpán</form>
 <tag>
 <AM lemma="Štěpán_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Štěpán_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Štěpán-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-051-p2s4w4">

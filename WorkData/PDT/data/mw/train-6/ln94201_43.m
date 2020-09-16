@@ -43,7 +43,7 @@
 <LM>w#w-ln94201-43-p1s1w4</LM>
 </w.rf>
 <form>modré</form>
-<tag lemma="modrý" src="orig" selected="1">AAFP1----1A----</tag>
+<tag lemma="modrý_;o" src="orig" selected="1">AAFP1----1A----</tag>
 </m>
 <m id="m-ln94201-43-p1s1w5">
 <src.rf>manual</src.rf>
@@ -211,7 +211,7 @@
 <LM>w#w-ln94201-43-p2s1w19</LM>
 </w.rf>
 <form>Rada</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94201-43-p2s1w20">
 <src.rf>manual</src.rf>
@@ -672,7 +672,7 @@
 <LM>w#w-ln94201-43-p2s4w16</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS2---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS2---------1</tag>
 </m>
 <m id="m-ln94201-43-p2s4w17">
 <src.rf>manual</src.rf>

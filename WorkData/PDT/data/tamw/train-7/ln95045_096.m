@@ -273,7 +273,7 @@
 <LM>w#w-ln95045-096-p2s2w7</LM>
 </w.rf>
 <form>celnice</form>
-<tag lemma="celnice-2_^(místo_výkonu_služby)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="celnice_^(*3ík-1)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95045-096-p2s2w8">
 <src.rf>manual</src.rf>
@@ -539,7 +539,7 @@
 <LM>w#w-ln95045-096-p2s3w20</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln95045-096-p2s3w21">
 <src.rf>manual</src.rf>
@@ -587,7 +587,7 @@
 <LM>w#w-ln95045-096-p2s3w26</LM>
 </w.rf>
 <form>celnici</form>
-<tag lemma="celnice-2_^(místo_výkonu_služby)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="celnice_^(*3ík-1)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln95045-096-p2s3w27">
 <src.rf>manual</src.rf>
@@ -664,7 +664,7 @@
 <LM>w#w-ln95045-096-p2s4w8</LM>
 </w.rf>
 <form>avií</form>
-<tag lemma="Avia_;m_^(vozidlo)" src="auto" selected="1">NNFP2-----A----</tag>
+<tag lemma="avia_^(vozidlo)" src="auto" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln95045-096-p2s4w9">
 <src.rf>manual</src.rf>

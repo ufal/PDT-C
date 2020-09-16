@@ -159,7 +159,7 @@
 <LM>w#w-lnd94103-006-p1s3w9</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-lnd94103-006-p1s3w10">
 <src.rf>manual</src.rf>
@@ -305,7 +305,7 @@
 <LM>w#w-lnd94103-006-p1s4w7</LM>
 </w.rf>
 <form>převzatých</form>
-<tag lemma="převzatý_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="orig" selected="1">AAIP2----1A----</tag>
+<tag lemma="převzatý_^(*3ít)" src="orig" selected="1">AAIP2----1A----</tag>
 </m>
 <m id="m-lnd94103-006-p1s4w8">
 <src.rf>manual</src.rf>
@@ -990,7 +990,7 @@
 <LM>w#w-lnd94103-006-p1s9w6</LM>
 </w.rf>
 <form>předání</form>
-<tag lemma="předání-3_^(někomu_něco)_(*5at-3)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="předání_^(*3at)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-lnd94103-006-p1s9w7">
 <src.rf>manual</src.rf>

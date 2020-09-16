@@ -27,7 +27,7 @@
 <LM>w#w-lnd92253-004-p1s1w2</LM>
 </w.rf>
 <form>PRVNÍ</form>
-<tag lemma="první" src="orig" selected="1">CrFS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS1----------</tag>
 </m>
 <m id="m-lnd92253-004-p1s1w3">
 <src.rf>manual</src.rf>

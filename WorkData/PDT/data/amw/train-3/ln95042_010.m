@@ -96,7 +96,7 @@
 <LM>w#w-ln95042-010-p2s1w7</LM>
 </w.rf>
 <form>vypadá</form>
-<tag lemma="vypadat" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="vypadat-1_^(ty_vypadáš)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95042-010-p2s1w8">
 <src.rf>manual</src.rf>
@@ -928,7 +928,7 @@
 <form>viru</form>
 <tag>
 <AM lemma="vir" src="orig">NNIS2-----A----</AM>
-<AM lemma="virus" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="vir-1" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-010-p2s5w16">
@@ -1027,7 +1027,7 @@
 <LM>w#w-ln95042-010-p3s1w4</LM>
 </w.rf>
 <form>nemoc</form>
-<tag lemma="nemoc_^(choroba)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="nemoc" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95042-010-p3s1w5">
 <src.rf>manual</src.rf>
@@ -1331,7 +1331,7 @@
 <LM>w#w-ln95042-010-p3s3w10</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95042-010-p3s3w11">
 <src.rf>manual</src.rf>
@@ -1655,7 +1655,7 @@
 <LM>w#w-ln95042-010-p3s5w15</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8YP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8YP4---------1</tag>
 </m>
 <m id="m-ln95042-010-p3s5w16">
 <src.rf>manual</src.rf>
@@ -2137,7 +2137,7 @@
 <LM>w#w-ln95042-010-p5s1w2</LM>
 </w.rf>
 <form>vypadá</form>
-<tag lemma="vypadat" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="vypadat-1_^(ty_vypadáš)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95042-010-p5s1w3">
 <src.rf>manual</src.rf>
@@ -2187,7 +2187,7 @@
 <LM>w#w-ln95042-010-p5s2w1</LM>
 </w.rf>
 <form>Ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln95042-010-p5s2w2">
 <src.rf>manual</src.rf>
@@ -2477,7 +2477,7 @@
 <LM>w#w-ln95042-010-p5s3w15</LM>
 </w.rf>
 <form>zduření</form>
-<tag lemma="zduření_^(*2t)" src="auto" selected="1">NNNS4-----A----</tag>
+<tag lemma="zduření_^(*2t)_(*3it)" src="auto" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln95042-010-p5s3w16">
 <src.rf>manual</src.rf>
@@ -2493,7 +2493,7 @@
 <LM>w#w-ln95042-010-p5s3w17</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln95042-010-p5s3w18">
 <src.rf>manual</src.rf>
@@ -2663,7 +2663,7 @@
 <LM>w#w-ln95042-010-p5s4w9</LM>
 </w.rf>
 <form>nemoc</form>
-<tag lemma="nemoc_^(choroba)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="nemoc" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95042-010-p5s4w10">
 <src.rf>manual</src.rf>
@@ -2814,7 +2814,7 @@
 <form>virem</form>
 <tag>
 <AM lemma="vir" src="orig">NNIS7-----A----</AM>
-<AM lemma="virus" src="manual" selected="1">NNIS7-----A----</AM>
+<AM lemma="vir-1" src="manual" selected="1">NNIS7-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-010-p6s1w4">
@@ -2850,7 +2850,7 @@
 <LM>w#w-ln95042-010-p6s1w7</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln95042-010-p6s1w8">
 <src.rf>manual</src.rf>
@@ -3270,7 +3270,7 @@
 <LM>w#w-ln95042-010-p6s4w8</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln95042-010-p6s4w9">
 <src.rf>manual</src.rf>
@@ -3788,7 +3788,7 @@
 <LM>w#w-ln95042-010-p7s1w7</LM>
 </w.rf>
 <form>antibiotika</form>
-<tag lemma="antibiotikum_;U" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="antibiotikum" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln95042-010-p7s1w8">
 <src.rf>manual</src.rf>
@@ -3968,7 +3968,7 @@
 <LM>w#w-ln95042-010-p8s1w1</LM>
 </w.rf>
 <form>Nemoc</form>
-<tag lemma="nemoc_^(choroba)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="nemoc" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95042-010-p8s1w2">
 <src.rf>manual</src.rf>
@@ -4428,7 +4428,7 @@
 <LM>w#w-ln95042-010-p9s1w1</LM>
 </w.rf>
 <form>Podání</form>
-<tag lemma="podání_^(něco_[někomu]_[někam])_(*3at)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="podání_^(*3at)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95042-010-p9s1w2">
 <src.rf>manual</src.rf>
@@ -4452,7 +4452,7 @@
 <LM>w#w-ln95042-010-p9s1w4</LM>
 </w.rf>
 <form>acylpyrin</form>
-<tag lemma="acylpyrin_;m" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="acylpyrin" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95042-010-p9s1w5">
 <src.rf>manual</src.rf>
@@ -4540,7 +4540,7 @@
 <LM>w#w-ln95042-010-p9s1w15</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln95042-010-p9s1w16">
 <src.rf>manual</src.rf>
@@ -4649,7 +4649,7 @@
 <form>paralen</form>
 <tag>
 <AM lemma="paralen" src="orig">NNIS4-----A----</AM>
-<AM lemma="paralen_;U" src="manual" selected="1">NNIS4-----A----</AM>
+<AM lemma="paralen" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-010-p9s1w29">
@@ -4658,7 +4658,7 @@
 <LM>w#w-ln95042-010-p9s1w29</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln95042-010-p9s1w30">
 <src.rf>manual</src.rf>
@@ -4666,7 +4666,7 @@
 <LM>w#w-ln95042-010-p9s1w30</LM>
 </w.rf>
 <form>brufen</form>
-<tag lemma="brufen_;m" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="brufen" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln95042-010-p9s1w31">
 <src.rf>manual</src.rf>
@@ -5072,7 +5072,7 @@
 <LM>w#w-ln95042-010-p9s4w25</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS7---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS7---------1</tag>
 </m>
 <m id="m-ln95042-010-p9s4w26">
 <src.rf>manual</src.rf>
@@ -5080,7 +5080,7 @@
 <LM>w#w-ln95042-010-p9s4w26</LM>
 </w.rf>
 <form>nemocí</form>
-<tag lemma="nemoc_^(choroba)" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="nemoc" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln95042-010-p9s4w27">
 <src.rf>manual</src.rf>

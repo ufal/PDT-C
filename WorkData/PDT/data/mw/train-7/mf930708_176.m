@@ -496,7 +496,7 @@
 <LM>w#w-mf930708-176-p3s1w1</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrFS3----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS3----------</tag>
 </m>
 <m id="m-mf930708-176-p3s1w2">
 <src.rf>manual</src.rf>
@@ -544,7 +544,7 @@
 <LM>w#w-mf930708-176-p3s1w7</LM>
 </w.rf>
 <form>diskuse</form>
-<tag lemma="diskuse" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="diskuse_,s_^(^DD**diskuze)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930708-176-p3s1w8">
 <src.rf>manual</src.rf>

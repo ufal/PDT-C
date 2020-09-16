@@ -43,7 +43,7 @@
 <LM>w#w-mf930702-023-p1s1w4</LM>
 </w.rf>
 <form>vypadají</form>
-<tag lemma="vypadat" src="orig" selected="1">VB-P---3P-AAI--</tag>
+<tag lemma="vypadat-1_^(ty_vypadáš)" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf930702-023-p1s1w5">
 <src.rf>manual</src.rf>
@@ -420,7 +420,7 @@
 <LM>w#w-mf930702-023-p2s3w8</LM>
 </w.rf>
 <form>cestě</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf930702-023-p2s3w9">
 <src.rf>manual</src.rf>

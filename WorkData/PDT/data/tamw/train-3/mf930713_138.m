@@ -63,7 +63,7 @@
 <form>Datum</form>
 <tag>
 <AM lemma="datum_,h_,x" src="auto">NNIS1-----A----</AM>
-<AM lemma="datum_^(kalendářní)" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="datum-1_^(kalendářní)" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-138-p2s1w2">
@@ -516,7 +516,7 @@
 <LM>w#w-mf930713-138-p3s1w1</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrMP1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrMP1----------</tag>
 </m>
 <m id="m-mf930713-138-p3s1w2">
 <src.rf>manual</src.rf>
@@ -524,7 +524,7 @@
 <LM>w#w-mf930713-138-p3s1w2</LM>
 </w.rf>
 <form>zatčení</form>
-<tag lemma="zatčení_^(*4knout)" src="orig" selected="1">NNNP1-----A----</tag>
+<tag lemma="zatčení" src="orig" selected="1">NNNP1-----A----</tag>
 </m>
 <m id="m-mf930713-138-p3s1w3">
 <src.rf>manual</src.rf>
@@ -540,7 +540,7 @@
 <LM>w#w-mf930713-138-p3s1w4</LM>
 </w.rf>
 <form>napadení</form>
-<tag lemma="napadení_^(*3nout)" src="orig" selected="1">NNNP1-----A----</tag>
+<tag lemma="napadení" src="orig" selected="1">NNNP1-----A----</tag>
 </m>
 <m id="m-mf930713-138-p3s1w5">
 <src.rf>manual</src.rf>
@@ -1102,7 +1102,7 @@
 <form>napjatější</form>
 <tag>
 <AM lemma="napjatý_,x_^(*4nout)" src="orig">AAFS1----2A----</AM>
-<AM lemma="napjatý-1" src="manual" selected="1">AAFS1----2A----</AM>
+<AM lemma="napjatý" src="manual" selected="1">AAFS1----2A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-138-p4s1w15">
@@ -1127,7 +1127,7 @@
 <LM>w#w-mf930713-138-p4s1w17</LM>
 </w.rf>
 <form>léta</form>
-<tag lemma="rok" src="orig" selected="1">NNNP4-----A---2</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP4-----A---2</tag>
 </m>
 <m id="m-mf930713-138-p4s1w18">
 <src.rf>manual</src.rf>
@@ -1707,7 +1707,7 @@
 <LM>w#w-mf930713-138-p4s3w18</LM>
 </w.rf>
 <form>rady</form>
-<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930713-138-p4s3w19">
 <src.rf>manual</src.rf>
@@ -1845,7 +1845,7 @@
 <LM>w#w-mf930713-138-p5s1w4</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-mf930713-138-p5s1w5">
 <src.rf>manual</src.rf>
@@ -2125,7 +2125,7 @@
 <LM>w#w-mf930713-138-p5s2w17</LM>
 </w.rf>
 <form>ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf930713-138-p5s2w18">
 <src.rf>manual</src.rf>
@@ -2247,7 +2247,7 @@
 <LM>w#w-mf930713-138-p6s1w4</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf930713-138-p6s1w5">
 <src.rf>manual</src.rf>
@@ -2337,7 +2337,7 @@
 <LM>w#w-mf930713-138-p6s2w5</LM>
 </w.rf>
 <form>dal</form>
-<tag lemma="dát" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930713-138-p6s2w6">
 <src.rf>manual</src.rf>
@@ -3294,7 +3294,7 @@
 <LM>w#w-mf930713-138-p8s1w1</LM>
 </w.rf>
 <form>Defétismus</form>
-<tag lemma="defétismus" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="defétismus_,s_^(^DD**defétizmus)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930713-138-p8s1w2">
 <src.rf>manual</src.rf>
@@ -3444,7 +3444,7 @@
 <LM>w#w-mf930713-138-p8s2w3</LM>
 </w.rf>
 <form>nedá</form>
-<tag lemma="dát" src="orig" selected="1">VB-S---3P-NAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VB-S---3P-NAP--</tag>
 </m>
 <m id="m-mf930713-138-p8s2w4">
 <src.rf>manual</src.rf>
@@ -3796,7 +3796,7 @@
 <LM>w#w-mf930713-138-p8s4w7</LM>
 </w.rf>
 <form>nadšení</form>
-<tag lemma="nadšení_^(*4chnout)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="nadšení" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-mf930713-138-p8s4w8">
 <src.rf>manual</src.rf>
@@ -4147,7 +4147,7 @@
 <LM>w#w-mf930713-138-p9s2w1</LM>
 </w.rf>
 <form>Její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS1FS3-------</tag>
 </m>
 <m id="m-mf930713-138-p9s2w2">
 <src.rf>manual</src.rf>
@@ -4235,7 +4235,7 @@
 <LM>w#w-mf930713-138-p9s2w12</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8YP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8YP4---------1</tag>
 </m>
 <m id="m-mf930713-138-p9s2w13">
 <src.rf>manual</src.rf>
@@ -4285,7 +4285,7 @@
 <LM>w#w-mf930713-138-p9s3w2</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-mf930713-138-p9s3w3">
 <src.rf>manual</src.rf>
@@ -4581,7 +4581,7 @@
 <LM>w#w-mf930713-138-p9s5w8</LM>
 </w.rf>
 <form>lepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAMP1----2A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAMP1----2A----</tag>
 </m>
 <m id="m-mf930713-138-p9s5w9">
 <src.rf>manual</src.rf>
@@ -4639,7 +4639,7 @@
 <LM>w#w-mf930713-138-p9s5w14</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8NS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8NS4---------1</tag>
 </m>
 <m id="m-mf930713-138-p9s5w15">
 <src.rf>manual</src.rf>
@@ -4911,7 +4911,7 @@
 <LM>w#w-mf930713-138-p9s7w6</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-mf930713-138-p9s7w7">
 <src.rf>manual</src.rf>
@@ -5336,7 +5336,7 @@
 <LM>w#w-mf930713-138-p12s1w5</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS6---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS6---------1</tag>
 </m>
 <m id="m-mf930713-138-p12s1w6">
 <src.rf>manual</src.rf>

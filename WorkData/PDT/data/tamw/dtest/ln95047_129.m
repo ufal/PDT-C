@@ -807,7 +807,7 @@
 <LM>w#w-ln95047-129-p4s1w12</LM>
 </w.rf>
 <form>stojí</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95047-129-p4s1w13">
 <src.rf>manual</src.rf>
@@ -1011,7 +1011,7 @@
 <LM>w#w-ln95047-129-p5s1w4</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS7----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS7----------</tag>
 </m>
 <m id="m-ln95047-129-p5s1w5">
 <src.rf>manual</src.rf>
@@ -1304,7 +1304,7 @@
 <LM>w#w-ln95047-129-p6s1Aw17</LM>
 </w.rf>
 <form>konkursního</form>
-<tag lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto" selected="1">AANS2----1A----</tag>
+<tag lemma="konkursní_,s_^(^DD**konkurzní)" src="auto" selected="1">AANS2----1A----</tag>
 </m>
 <m id="m-ln95047-129-p6s1Aw18">
 <src.rf>manual</src.rf>

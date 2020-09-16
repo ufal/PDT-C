@@ -74,7 +74,7 @@
 <LM>w#w-mf920924-071-p3s1w3</LM>
 </w.rf>
 <form>UMĚNÍ</form>
-<tag lemma="umění_^(mít_schopnost_něco_dělat)_(*2t)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="umění_^(*2t)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-mf920924-071-p3s1w4">
 <src.rf>manual</src.rf>
@@ -233,7 +233,7 @@
 <LM>w#w-mf920924-071-p5s1w6</LM>
 </w.rf>
 <form>PORUBA</form>
-<tag lemma="Poruba_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Poruba-1_;G" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920924-071-p5s1w7">
 <src.rf>manual</src.rf>
@@ -474,7 +474,7 @@
 <tag>
 <AM lemma="Della_;Y" src="orig">NNFS1-----A----</AM>
 <AM lemma="DELLA-77" src="manual">F%-------------</AM>
-<AM lemma="Della_;Y_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Della-1_;Y_;m" src="manual" selected="1">NNFS1-----A----</AM>
 <AM lemma="Della-2_;m" src="manual">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -2138,7 +2138,7 @@
 <LM>w#w-mf920924-071-p21s2w2</LM>
 </w.rf>
 <form>Zlatej</form>
-<tag lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAMS1----1A---6</tag>
+<tag lemma="zlatý-1_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAMS1----1A---6</tag>
 </m>
 <m id="m-mf920924-071-p21s2w3">
 <src.rf>manual</src.rf>
@@ -2605,7 +2605,7 @@
 <form>Videostop</form>
 <tag>
 <AM lemma="videostopa" src="orig">NNFP2-----A----</AM>
-<AM lemma="videostop" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Videostop_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-071-p26s1w8">

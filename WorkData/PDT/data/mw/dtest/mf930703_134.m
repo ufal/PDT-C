@@ -101,7 +101,7 @@
 <LM>w#w-mf930703-134-p2s1w4</LM>
 </w.rf>
 <form>našeho</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSZS2-P1-------</tag>
 </m>
 <m id="m-mf930703-134-p2s1w5">
 <src.rf>manual</src.rf>
@@ -1711,7 +1711,7 @@
 <LM>w#w-mf930703-134-p6s1w8</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930703-134-p6s1w9">
 <src.rf>manual</src.rf>

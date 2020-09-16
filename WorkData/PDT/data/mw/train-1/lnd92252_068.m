@@ -617,7 +617,7 @@
 <LM>w#w-lnd92252-068-p3s3w25</LM>
 </w.rf>
 <form>vystavení</form>
-<tag lemma="vystavení_^(např._potvrzení)_(*3it)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="vystavení_^(*3it)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-lnd92252-068-p3s3w26">
 <src.rf>manual</src.rf>

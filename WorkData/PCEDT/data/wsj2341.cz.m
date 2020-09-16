@@ -1956,7 +1956,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2341-001-p1s4W19-Ta">
@@ -2010,7 +2010,7 @@
 </w.rf>
 <form>svých</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8XP2----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8XP2----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8XP6----------</AM>
 </tag>
 </m>
@@ -2165,7 +2165,7 @@
 <form>konzolidaci</form>
 <tag>
 <AM lemma="konzolidace" src="auto">NNFS3-----A----</AM>
-<AM lemma="konzolidace" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="konzolidace_,i_^(^DS**konsolidace)" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="konzolidace" src="auto">NNFS6-----A----</AM>
 </tag>
 </m>
@@ -3082,7 +3082,7 @@
 <LM>w#w-wsj2341-001-p1s7W31</LM>
 </w.rf>
 <form>vypadat</form>
-<tag lemma="vypadat" src="auto" recommended="1">Vf--------A-I--</tag>
+<tag lemma="vypadat-1_^(ty_vypadáš)" src="auto" recommended="1">Vf--------A-I--</tag>
 </m>
 <m id="m-wsj2341-001-p1s7W32-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3735,7 +3735,7 @@
 <tag>
 <AM lemma="antibiotikum_;U" src="auto">NNNP3-----A---6</AM>
 <AM lemma="antibiotikum_;U" src="auto">NNNS1-----A----</AM>
-<AM lemma="antibiotikum_;U" src="auto" recommended="1">NNNS4-----A----</AM>
+<AM lemma="antibiotikum" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="antibiotikum_;U" src="auto">NNNS5-----A----</AM>
 </tag>
 </m>
@@ -4751,7 +4751,7 @@
 <AM lemma="antidepresivum_;U" src="auto">NNNP1-----A----</AM>
 <AM lemma="antidepresivum_;U" src="auto">NNNP4-----A----</AM>
 <AM lemma="antidepresivum_;U" src="auto">NNNP5-----A----</AM>
-<AM lemma="antidepresivum_;U" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="antidepresivum" src="auto" recommended="1">NNNS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2341-001-p1s12W19-Ta">
@@ -5989,7 +5989,7 @@
 <form>letech</form>
 <tag>
 <AM lemma="let" src="auto">NNIP6-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP6-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2341-001-p1s18W9-Ta">
@@ -7062,7 +7062,7 @@
 <AM lemma="ča_^(ča-ča)" src="auto">NNFS2-----A----</AM>
 <AM lemma="ča_^(ča-ča)" src="auto">NNFS3-----A---1</AM>
 <AM lemma="ča_^(ča-ča)" src="auto">NNFS6-----A---1</AM>
-<AM lemma="či" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="či-1" src="auto" recommended="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2341-001-p1s22W17-Ta">
@@ -8206,7 +8206,7 @@
 <form>proto</form>
 <tag>
 <AM lemma="proto-1_^(proto;_a_proto,_ale_proto,...)" src="auto">J^-------------</AM>
-<AM lemma="proto-2_^(dal_mu_co_proto,_tak_proto!)" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="proto-2_^(proto_že)" src="auto" recommended="1">Db-------------</AM>
 <AM lemma="proto-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -9074,7 +9074,7 @@
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP1FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP5FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9ZS1FS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9ZS1FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSZS5FS3-------</AM>
 </tag>
 </m>
@@ -10592,7 +10592,7 @@
 <AM lemma="York-2_;G" src="auto">NNIS2-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS5-----A----</AM>
-<AM lemma="York-2_;G" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="York-2_;G_;m" src="auto" recommended="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2341-001-p1s33W7-Ta">

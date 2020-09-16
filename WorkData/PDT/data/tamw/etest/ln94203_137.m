@@ -225,7 +225,7 @@
 <LM>w#w-ln94203-137-p2s1Bw17</LM>
 </w.rf>
 <form>Karlovy</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-ln94203-137-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -370,7 +370,7 @@
 <LM>w#w-ln94203-137-p2s1Bw33</LM>
 </w.rf>
 <form>manažérské</form>
-<tag lemma="manažerský" src="orig" selected="1">AANS1----1A----</tag>
+<tag lemma="manažérský_,s_^(^DD**manažerský)" src="orig" selected="1">AANS1----1A----</tag>
 </m>
 <m id="m-ln94203-137-p2s1Bw34">
 <src.rf>manual</src.rf>

@@ -312,7 +312,7 @@
 <LM>w#w-mf930703-104-p2s1w34</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-mf930703-104-p2s1w35">
 <src.rf>manual</src.rf>
@@ -410,7 +410,7 @@
 <LM>w#w-mf930703-104-p2s2w11</LM>
 </w.rf>
 <form>cestě</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf930703-104-p2s2w12">
 <src.rf>manual</src.rf>

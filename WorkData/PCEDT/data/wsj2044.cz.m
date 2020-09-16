@@ -1021,7 +1021,7 @@
 <AM lemma="druhý" src="auto">CrNP1---------6</AM>
 <AM lemma="druhý" src="auto">CrNP4---------6</AM>
 <AM lemma="druhý" src="auto">CrNP5---------6</AM>
-<AM lemma="druhý" src="auto" recommended="1">CrNS1----------</AM>
+<AM lemma="druhý`2" src="auto" recommended="1">CrNS1----------</AM>
 <AM lemma="druhý" src="auto">CrNS4----------</AM>
 <AM lemma="druhý" src="auto">CrNS5----------</AM>
 </tag>
@@ -4602,7 +4602,7 @@
 <tag>
 <AM lemma="Warren_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Warren_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Warren_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Warren-1_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2044-001-p1s12W31-Ta">
@@ -5670,7 +5670,7 @@
 <AM lemma="druhý" src="auto">CrFP3----------</AM>
 <AM lemma="druhý" src="auto">CrIP3----------</AM>
 <AM lemma="druhý" src="auto">CrIS6---------7</AM>
-<AM lemma="druhý" src="auto" selected="1">CrIS7----------</AM>
+<AM lemma="druhý`2" src="auto" selected="1">CrIS7----------</AM>
 <AM lemma="druhý" src="auto">CrMP3----------</AM>
 <AM lemma="druhý" src="auto">CrMS6---------7</AM>
 <AM lemma="druhý" src="auto" recommended="1">CrMS7----------</AM>
@@ -5874,7 +5874,7 @@
 <AM lemma="veterán" src="auto">NNIP7-----A----</AM>
 <AM lemma="veterán" src="auto">NNMP4-----A----</AM>
 <AM lemma="veterán" src="auto">NNMP7-----A----</AM>
-<AM lemma="veterán-2" src="manual" selected="1">NNMP4-----A----</AM>
+<AM lemma="veterán-1" src="manual" selected="1">NNMP4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2044-001-p1s15W28-Ta">
@@ -9655,7 +9655,7 @@
 <AM lemma="veterán" src="auto">NNIP7-----A----</AM>
 <AM lemma="veterán" src="auto">NNMP4-----A----</AM>
 <AM lemma="veterán" src="auto">NNMP7-----A----</AM>
-<AM lemma="veterán-2" src="manual" selected="1">NNMP4-----A----</AM>
+<AM lemma="veterán-1" src="manual" selected="1">NNMP4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2044-001-p1s25W17-Ta">
@@ -10431,7 +10431,7 @@
 <AM lemma="druhý" src="auto">CrFP3----------</AM>
 <AM lemma="druhý" src="auto">CrIP3----------</AM>
 <AM lemma="druhý" src="auto">CrIS6---------7</AM>
-<AM lemma="druhý" src="auto" recommended="1">CrIS7----------</AM>
+<AM lemma="druhý`2" src="auto" recommended="1">CrIS7----------</AM>
 <AM lemma="druhý" src="auto">CrMP3----------</AM>
 <AM lemma="druhý" src="auto">CrMS6---------7</AM>
 <AM lemma="druhý" src="auto">CrMS7----------</AM>
@@ -13043,7 +13043,7 @@
 <tag>
 <AM lemma="David_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="David_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="David_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="David-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2044-001-p1s34W9-Ta">

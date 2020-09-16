@@ -595,7 +595,7 @@
 <LM>w#w-ln94203-13-p3s2w1</LM>
 </w.rf>
 <form>Naše</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSIP1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSIP1-P1-------</tag>
 </m>
 <m id="m-ln94203-13-p3s2w2">
 <src.rf>manual</src.rf>
@@ -912,7 +912,7 @@
 <LM>w#w-ln94203-13-p4s1w6</LM>
 </w.rf>
 <form>vsetínské</form>
-<tag lemma="vsetínský_;G" src="orig" selected="1">AAFS6----1A----</tag>
+<tag lemma="vsetínský" src="orig" selected="1">AAFS6----1A----</tag>
 </m>
 <m id="m-ln94203-13-p4s1w7">
 <src.rf>manual</src.rf>
@@ -1339,7 +1339,7 @@
 <LM>w#w-ln94203-13-p4s3w20</LM>
 </w.rf>
 <form>naší</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS2-P1-------</tag>
 </m>
 <m id="m-ln94203-13-p4s3w21">
 <src.rf>manual</src.rf>
@@ -1520,7 +1520,7 @@
 <LM>w#w-ln94203-13-p4s5w3</LM>
 </w.rf>
 <form>náš</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSYS1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSYS1-P1-------</tag>
 </m>
 <m id="m-ln94203-13-p4s5w4">
 <src.rf>manual</src.rf>

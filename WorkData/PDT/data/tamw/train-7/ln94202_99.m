@@ -35,7 +35,7 @@
 <LM>w#w-ln94202-99-p1s1w3</LM>
 </w.rf>
 <form>přistiženými</form>
-<tag lemma="přistižený_^(*4hnout)" src="orig" selected="1">AAMP7----1A----</tag>
+<tag lemma="přistižený" src="orig" selected="1">AAMP7----1A----</tag>
 </m>
 </s>
 <s id="m-ln94202-99-p2s1A">
@@ -463,7 +463,7 @@
 <LM>w#w-ln94202-99-p2s2w30</LM>
 </w.rf>
 <form>prostředku</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94202-99-p2s2w31">
 <src.rf>manual</src.rf>
@@ -1005,7 +1005,7 @@
 <LM>w#w-ln94202-99-p3s2w14</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94202-99-p3s2w15">
 <src.rf>manual</src.rf>
@@ -1058,7 +1058,7 @@
 <LM>w#w-ln94202-99-p3s2w20</LM>
 </w.rf>
 <form>Bugna</form>
-<tag lemma="Bugno_;Y" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Bugno-2_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94202-99-p3s2w21">
 <src.rf>manual</src.rf>
@@ -1154,7 +1154,7 @@
 <LM>w#w-ln94202-99-p3s2w32</LM>
 </w.rf>
 <form>Bugnově</form>
-<tag lemma="Bugnův_;Y_^(*2a)" src="auto" selected="1">AUIS6M---------</tag>
+<tag lemma="Bugnův_;Y_^(*2a)_(*2o-2)" src="auto" selected="1">AUIS6M---------</tag>
 </m>
 <m id="m-ln94202-99-p3s2w33">
 <src.rf>manual</src.rf>
@@ -1296,7 +1296,7 @@
 <LM>w#w-ln94202-99-p3s3w11</LM>
 </w.rf>
 <form>druhý</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS4----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS4----------</tag>
 </m>
 <m id="m-ln94202-99-p3s3w12">
 <src.rf>manual</src.rf>
@@ -1314,7 +1314,7 @@
 <form>Bugnova</form>
 <tag>
 <AM lemma="Bugnův_;Y_^(*2a)" src="auto">AUIS2M---------</AM>
-<AM lemma="Bugnův_;Y_^(*2o)" src="manual" selected="1">AUIS2M---------</AM>
+<AM lemma="Bugnův_;Y_^(*2a)_(*2o-2)" src="manual" selected="1">AUIS2M---------</AM>
 </tag>
 </m>
 <m id="m-ln94202-99-p3s3w14">

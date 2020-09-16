@@ -523,7 +523,7 @@
 <LM>w#w-mf920924-025-p2s3w12</LM>
 </w.rf>
 <form>orgán</form>
-<tag lemma="orgán" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-mf920924-025-p2s3w13">
 <src.rf>manual</src.rf>

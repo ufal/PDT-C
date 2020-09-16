@@ -720,7 +720,7 @@
 <tag>
 <AM lemma="první" src="auto">CrFP2----------</AM>
 <AM lemma="první" src="auto">CrFP6----------</AM>
-<AM lemma="první" src="auto" recommended="1">CrIP2----------</AM>
+<AM lemma="první-1" src="auto" recommended="1">CrIP2----------</AM>
 <AM lemma="první" src="auto">CrIP6----------</AM>
 <AM lemma="první" src="auto">CrMP2----------</AM>
 <AM lemma="první" src="auto">CrMP6----------</AM>
@@ -1578,7 +1578,7 @@
 <AM lemma="dodací_^(list,_termín,...)_(*2t)" src="auto">AAFP4----1A----</AM>
 <AM lemma="dodací_^(list,_termín,...)_(*2t)" src="auto">AAFP5----1A----</AM>
 <AM lemma="dodací_^(list,_termín,...)_(*2t)" src="auto">AAFS1----1A----</AM>
-<AM lemma="dodací_^(list,_termín,...)_(*2t)" src="auto" recommended="1">AAFS2----1A----</AM>
+<AM lemma="dodací_^(*2t)" src="auto" recommended="1">AAFS2----1A----</AM>
 <AM lemma="dodací_^(list,_termín,...)_(*2t)" src="auto">AAFS3----1A----</AM>
 <AM lemma="dodací_^(list,_termín,...)_(*2t)" src="auto">AAFS4----1A----</AM>
 <AM lemma="dodací_^(list,_termín,...)_(*2t)" src="auto">AAFS5----1A----</AM>

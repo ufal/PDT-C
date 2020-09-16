@@ -142,7 +142,7 @@
 <tag>
 <AM lemma="sympózium" src="orig">NNNS1-----A----</AM>
 <AM lemma="sympozium" src="manual">NNNS1-----A----</AM>
-<AM lemma="sympozium_,s_^(^DD**sympózium)" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="sympozium" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-126-p2s1Bw7">
@@ -424,7 +424,7 @@
 <form>sympozia</form>
 <tag>
 <AM lemma="sympózium" src="orig">NNNS2-----A----</AM>
-<AM lemma="sympozium_,s_^(^DD**sympózium)" src="manual" selected="1">NNNS2-----A----</AM>
+<AM lemma="sympozium" src="manual" selected="1">NNNS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-126-p2s3w5">
@@ -556,7 +556,7 @@
 <LM>w#w-ln94211-126-p2s3w20</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-ln94211-126-p2s3w21">
 <src.rf>manual</src.rf>
@@ -726,7 +726,7 @@
 <LM>w#w-ln94211-126-p2s4w9</LM>
 </w.rf>
 <form>my</form>
-<tag lemma="já" src="orig" selected="1">PP-P1--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P1--1-------</tag>
 </m>
 <m id="m-ln94211-126-p2s4w10">
 <src.rf>manual</src.rf>
@@ -806,7 +806,7 @@
 <LM>w#w-ln94211-126-p2s4w19</LM>
 </w.rf>
 <form>Evropě</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94211-126-p2s4w20">
 <src.rf>manual</src.rf>
@@ -838,7 +838,7 @@
 <LM>w#w-ln94211-126-p2s4w23</LM>
 </w.rf>
 <form>my</form>
-<tag lemma="já" src="orig" selected="1">PP-P1--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P1--1-------</tag>
 </m>
 <m id="m-ln94211-126-p2s4w24">
 <src.rf>manual</src.rf>
@@ -878,7 +878,7 @@
 <LM>w#w-ln94211-126-p2s4w28</LM>
 </w.rf>
 <form>sympozia</form>
-<tag lemma="sympózium" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="sympozium" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln94211-126-p2s4w29">
 <src.rf>manual</src.rf>
@@ -944,7 +944,7 @@
 <LM>w#w-ln94211-126-p2s5w6</LM>
 </w.rf>
 <form>Bati</form>
-<tag lemma="Baťa_;Y_;m" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Baťa_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94211-126-p2s5w7">
 <src.rf>manual</src.rf>

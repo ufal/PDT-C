@@ -101,7 +101,7 @@
 <AM lemma="prostřednictví" src="auto">NNNP3-----A----</AM>
 <AM lemma="prostřednictví" src="auto" recommended="1">NNNS7-----A----</AM>
 <AM lemma="prostřednictvím" src="auto">RR--2----------</AM>
-<AM lemma="prostřednictví-2" src="manual" selected="1">RR--2----------</AM>
+<AM lemma="prostřednictvím" src="manual" selected="1">RR--2----------</AM>
 </tag>
 </m>
 <m id="m-wsj1710-001-p1s0W10-Ta">
@@ -1155,7 +1155,7 @@
 </w.rf>
 <form>jejích</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XP2FS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9XP2FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP6FS3-------</AM>
 </tag>
 </m>

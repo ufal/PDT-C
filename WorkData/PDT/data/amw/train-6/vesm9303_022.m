@@ -131,7 +131,7 @@
 <LM>w#w-vesm9303-022-p1s1w15</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-vesm9303-022-p1s1w16">
 <src.rf>manual</src.rf>
@@ -499,7 +499,7 @@
 <LM>w#w-vesm9303-022-p1s3w12</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS7----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS7----------</tag>
 </m>
 <m id="m-vesm9303-022-p1s3w13">
 <src.rf>manual</src.rf>
@@ -595,7 +595,7 @@
 <LM>w#w-vesm9303-022-p1s3w24</LM>
 </w.rf>
 <form>lepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAIS1----2A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAIS1----2A----</tag>
 </m>
 <m id="m-vesm9303-022-p1s3w25">
 <src.rf>manual</src.rf>

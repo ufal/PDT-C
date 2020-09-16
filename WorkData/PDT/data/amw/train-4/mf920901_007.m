@@ -193,7 +193,7 @@
 <LM>w#w-mf920901-007-p4s1w9</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf920901-007-p4s1w10">
 <src.rf>manual</src.rf>
@@ -1152,7 +1152,7 @@
 <LM>w#w-mf920901-007-p7s2w18</LM>
 </w.rf>
 <form>rafinérií</form>
-<tag lemma="rafinérie" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="rafinérie_,s_^(^DD**rafinerie)" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-mf920901-007-p7s2w19">
 <src.rf>manual</src.rf>

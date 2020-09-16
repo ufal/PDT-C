@@ -37,7 +37,7 @@
 <LM>w#w-lnd94101-084-p1s2w1</LM>
 </w.rf>
 <form>Marseille</form>
-<tag lemma="Marseille_;G" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="Marseille-2_;G" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-lnd94101-084-p1s2w2">
 <src.rf>manual</src.rf>
@@ -236,7 +236,7 @@
 <LM>w#w-lnd94101-084-p1s4w10</LM>
 </w.rf>
 <form>Marseille</form>
-<tag lemma="Marseille_;G" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="Marseille-2_;G" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-lnd94101-084-p1s4w11">
 <src.rf>manual</src.rf>

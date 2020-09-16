@@ -127,7 +127,7 @@
 <LM>w#w-ln94206-92-p2s1Bw2</LM>
 </w.rf>
 <form>Vetkovská</form>
-<tag lemma="Vetkovská_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Vetkovská_;Y_^(*1ý)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94206-92-p2s1C">
@@ -193,7 +193,7 @@
 <LM>w#w-ln94206-92-p2s1Cw8</LM>
 </w.rf>
 <form>Karlovy</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUIP1M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUIP1M---------</tag>
 </m>
 <m id="m-ln94206-92-p2s1Cw9">
 <src.rf>manual</src.rf>
@@ -548,7 +548,7 @@
 <LM>w#w-ln94206-92-p2s5w8</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln94206-92-p2s5w9">
 <src.rf>manual</src.rf>
@@ -1087,7 +1087,7 @@
 <LM>w#w-ln94206-92-p4s1w2</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-ln94206-92-p4s1w3">
 <src.rf>manual</src.rf>
@@ -3162,7 +3162,7 @@
 <LM>w#w-ln94206-92-p5s5w11</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-ln94206-92-p5s5w12">
 <src.rf>manual</src.rf>
@@ -3498,7 +3498,7 @@
 <LM>w#w-ln94206-92-p6s1Bw3</LM>
 </w.rf>
 <form>Karlových</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUIP6M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUIP6M---------</tag>
 </m>
 <m id="m-ln94206-92-p6s1Bw4">
 <src.rf>manual</src.rf>
@@ -3718,7 +3718,7 @@
 <LM>w#w-ln94206-92-p6s3w4</LM>
 </w.rf>
 <form>životadárným</form>
-<tag lemma="životadárný_,s" src="orig" selected="1">AAIS7----1A----</tag>
+<tag lemma="životadárný" src="orig" selected="1">AAIS7----1A----</tag>
 </m>
 <m id="m-ln94206-92-p6s3w5">
 <src.rf>manual</src.rf>
@@ -4397,7 +4397,7 @@
 <LM>w#w-ln94206-92-p8s2w18</LM>
 </w.rf>
 <form>Karlových</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUIP6M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUIP6M---------</tag>
 </m>
 <m id="m-ln94206-92-p8s2w19">
 <src.rf>manual</src.rf>

@@ -226,7 +226,7 @@
 <LM>w#w-cmpr9410-025-p4s2w5</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-cmpr9410-025-p4s2w6">
 <src.rf>manual</src.rf>
@@ -412,7 +412,7 @@
 <LM>w#w-cmpr9410-025-p5s1w13</LM>
 </w.rf>
 <form>sojové</form>
-<tag lemma="sojový" src="orig" selected="1">AAIP4----1A----</tag>
+<tag lemma="sojový_,s_^(^DD**sójový)" src="orig" selected="1">AAIP4----1A----</tag>
 </m>
 <m id="m-cmpr9410-025-p5s1w14">
 <src.rf>manual</src.rf>
@@ -702,7 +702,7 @@
 <LM>w#w-cmpr9410-025-p5s2w34</LM>
 </w.rf>
 <form>dají</form>
-<tag lemma="dát" src="orig" selected="1">VB-P---3P-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-cmpr9410-025-p5s2w35">
 <src.rf>manual</src.rf>
@@ -1073,7 +1073,7 @@
 <LM>w#w-cmpr9410-025-p6s4w1</LM>
 </w.rf>
 <form>Dlouhý</form>
-<tag lemma="dlouhý-1_^(fyz._délka;_př._dlouhá_tyč)" src="orig" selected="1">AAIS1----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-cmpr9410-025-p6s4w2">
 <src.rf>manual</src.rf>
@@ -1097,7 +1097,7 @@
 <LM>w#w-cmpr9410-025-p6s4w4</LM>
 </w.rf>
 <form>třeba</form>
-<tag lemma="třeba-2" src="auto" selected="1">Db-------------</tag>
+<tag lemma="třeba-1" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-cmpr9410-025-p6s4w5">
 <src.rf>manual</src.rf>
@@ -1337,7 +1337,7 @@
 <LM>w#w-cmpr9410-025-p8s1w3</LM>
 </w.rf>
 <form>zveřejněné</form>
-<tag lemma="zveřejněný_^(*3it)" src="orig" selected="1">AAIP4----1A----</tag>
+<tag lemma="zveřejněný_^(*2t)_(*3it)" src="orig" selected="1">AAIP4----1A----</tag>
 </m>
 <m id="m-cmpr9410-025-p8s1w4">
 <src.rf>manual</src.rf>
@@ -1595,7 +1595,7 @@
 <LM>w#w-cmpr9410-025-p8s3w9</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS6---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS6---------1</tag>
 </m>
 <m id="m-cmpr9410-025-p8s3w10">
 <src.rf>manual</src.rf>

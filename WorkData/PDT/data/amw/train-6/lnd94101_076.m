@@ -133,7 +133,7 @@
 <LM>w#w-lnd94101-076-p1s1Bw12</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FP4---------1</tag>
 </m>
 <m id="m-lnd94101-076-p1s1Bw13">
 <src.rf>manual</src.rf>
@@ -423,7 +423,7 @@
 <LM>w#w-lnd94101-076-p1s3w2</LM>
 </w.rf>
 <form>neschopnost</form>
-<tag lemma="neschopnost_;U_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="neschopnost_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94101-076-p1s3w3">
 <src.rf>manual</src.rf>
@@ -512,7 +512,7 @@
 <LM>w#w-lnd94101-076-p1s3w13</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-lnd94101-076-p1s3w14">
 <src.rf>manual</src.rf>

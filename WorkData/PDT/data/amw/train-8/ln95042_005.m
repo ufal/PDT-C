@@ -769,7 +769,7 @@
 <LM>w#w-ln95042-005-p4s1w7</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-ln95042-005-p4s1w8">
 <src.rf>manual</src.rf>

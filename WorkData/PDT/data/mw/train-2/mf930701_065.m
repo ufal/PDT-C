@@ -127,7 +127,7 @@
 <LM>w#w-mf930701-065-p2s1w12</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-mf930701-065-p2s1w13">
 <src.rf>manual</src.rf>
@@ -135,7 +135,7 @@
 <LM>w#w-mf930701-065-p2s1w13</LM>
 </w.rf>
 <form>druhou</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS4----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS4----------</tag>
 </m>
 <m id="m-mf930701-065-p2s1w14">
 <src.rf>manual</src.rf>
@@ -322,7 +322,7 @@
 <LM>w#w-mf930701-065-p2s2w17</LM>
 </w.rf>
 <form>jehož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P1XXXZS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXZS3-------</tag>
 </m>
 <m id="m-mf930701-065-p2s2w18">
 <src.rf>manual</src.rf>
@@ -340,7 +340,7 @@
 <form>stojí</form>
 <tag>
 <AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig">VB-S---3P-AA---</AM>
-<AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="manual" selected="1">VB-S---3P-AAI--</AM>
+<AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m-mf930701-065-p2s2w20">
@@ -570,7 +570,7 @@
 <LM>w#w-mf930701-065-p3s3w2</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-mf930701-065-p3s3w3">
 <src.rf>manual</src.rf>
@@ -807,7 +807,7 @@
 <LM>w#w-mf930701-065-p3s4w20</LM>
 </w.rf>
 <form>prvnímu</form>
-<tag lemma="první" src="orig" selected="1">CrNS3----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS3----------</tag>
 </m>
 <m id="m-mf930701-065-p3s4w21">
 <src.rf>manual</src.rf>

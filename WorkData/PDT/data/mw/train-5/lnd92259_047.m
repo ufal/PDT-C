@@ -496,7 +496,7 @@
 <LM>w#w-lnd92259-047-p3s4w12</LM>
 </w.rf>
 <form>členů</form>
-<tag lemma="člen" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd92259-047-p3s4w13">
 <src.rf>manual</src.rf>
@@ -685,7 +685,7 @@
 <LM>w#w-lnd92259-047-p3s5w15</LM>
 </w.rf>
 <form>šedá</form>
-<tag lemma="šedý" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="šedý_;o" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-lnd92259-047-p3s5w16">
 <src.rf>manual</src.rf>

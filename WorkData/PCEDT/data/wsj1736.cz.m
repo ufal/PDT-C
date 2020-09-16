@@ -1176,7 +1176,7 @@
 <tag>
 <AM lemma="Dayton_;G" src="auto">NNIS2-----A----</AM>
 <AM lemma="Dayton_;G" src="auto">NNIS3-----A----</AM>
-<AM lemma="Dayton_;G" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="Dayton_;G_;m" src="auto" recommended="1">NNIS6-----A----</AM>
 <AM lemma="Daytona_;G" src="auto">NNFS4-----A----</AM>
 </tag>
 </m>
@@ -1374,7 +1374,7 @@
 <form>své</form>
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FP1---------1</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" selected="1">P8FP4---------1</AM>
+<AM lemma="svůj-1" src="auto" selected="1">P8FP4---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8FS2---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS3---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS6---------1</AM>
@@ -2260,7 +2260,7 @@
 <AM lemma="navržený_^(*4hnout)" src="auto">AAIP4----1A---6</AM>
 <AM lemma="navržený_^(*4hnout)" src="auto">AAIP5----1A---6</AM>
 <AM lemma="navržený_^(*4hnout)" src="auto">AAIS1----1A----</AM>
-<AM lemma="navržený_^(*4hnout)" src="auto" recommended="1">AAIS4----1A----</AM>
+<AM lemma="navržený" src="auto" recommended="1">AAIS4----1A----</AM>
 <AM lemma="navržený_^(*4hnout)" src="auto">AAIS5----1A----</AM>
 <AM lemma="navržený_^(*4hnout)" src="auto">AAMP1----1A---6</AM>
 <AM lemma="navržený_^(*4hnout)" src="auto">AAMP4----1A---6</AM>

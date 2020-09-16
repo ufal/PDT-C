@@ -206,7 +206,7 @@
 <LM>w#w-ln94206-109-p1s3w2</LM>
 </w.rf>
 <form>správností</form>
-<tag lemma="správnost_^(podle_něj._měřítek;_př._chlap,_míra,...)_(*3ý)" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="správnost_^(*3ý)" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln94206-109-p1s3w3">
 <src.rf>manual</src.rf>

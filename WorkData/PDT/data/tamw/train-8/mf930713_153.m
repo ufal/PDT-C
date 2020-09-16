@@ -51,7 +51,7 @@
 <LM>w#w-mf930713-153-p1s1w5</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FP4---------1</tag>
 </m>
 <m id="m-mf930713-153-p1s1w6">
 <src.rf>manual</src.rf>
@@ -260,7 +260,7 @@
 <LM>w#w-mf930713-153-p2s2w4</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-153-p2s2w5">
 <src.rf>manual</src.rf>
@@ -546,7 +546,7 @@
 <LM>w#w-mf930713-153-p2s3w32</LM>
 </w.rf>
 <form>Rada</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930713-153-p2s3w33">
 <src.rf>manual</src.rf>

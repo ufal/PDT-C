@@ -598,7 +598,7 @@
 <LM>w#w-mf930708-076-p2s4w11</LM>
 </w.rf>
 <form>Veselá</form>
-<tag lemma="Veselá_;Y_^(*1ý)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Veselá_;G_;Y_^(*1ý)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930708-076-p2s4w12">
 <src.rf>manual</src.rf>
@@ -858,7 +858,7 @@
 <LM>w#w-mf930708-076-p2s6w15</LM>
 </w.rf>
 <form>Procházková</form>
-<tag lemma="Procházková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Procházková_;Y_^(*3a)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930708-076-p2s6w16">
 <src.rf>manual</src.rf>

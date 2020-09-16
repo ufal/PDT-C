@@ -314,7 +314,7 @@
 <LM>w#w-ln94205-112-p2s2w10</LM>
 </w.rf>
 <form>nesprávné</form>
-<tag lemma="správný_^(podle_něj._měřítek;_př._chlap,_míra,...)" src="orig" selected="1">AANS1----1N----</tag>
+<tag lemma="správný" src="orig" selected="1">AANS1----1N----</tag>
 </m>
 <m id="m-ln94205-112-p2s2w11">
 <src.rf>manual</src.rf>
@@ -512,7 +512,7 @@
 <LM>w#w-ln94205-112-p2s4w3</LM>
 </w.rf>
 <form>právo</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln94205-112-p2s4w4">
 <src.rf>manual</src.rf>

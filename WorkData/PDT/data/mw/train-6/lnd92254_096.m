@@ -345,7 +345,7 @@
 <LM>w#w-lnd92254-096-p2s2w37</LM>
 </w.rf>
 <form>Příbram</form>
-<tag lemma="Příbram_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Příbram-2_;G" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92254-096-p2s2w38">
 <src.rf>manual</src.rf>
@@ -532,7 +532,7 @@
 <LM>w#w-lnd92254-096-p2s2w60</LM>
 </w.rf>
 <form>Ml</form>
-<tag lemma="ml-1`mililitr" src="orig" selected="1">NNIXX-----A---b</tag>
+<tag lemma="mililitr" src="orig" selected="1">NNIXX-----A---b</tag>
 </m>
 <m id="m-lnd92254-096-p2s2w61">
 <src.rf>manual</src.rf>
@@ -673,7 +673,7 @@
 <LM>w#w-lnd92254-096-p2s3w16</LM>
 </w.rf>
 <form>Loko</form>
-<tag lemma="Loko_;G" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Loko_;G_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-lnd92254-096-p2s3w17">
 <src.rf>manual</src.rf>
@@ -862,7 +862,7 @@
 <LM>w#w-lnd92254-096-p2s4w13</LM>
 </w.rf>
 <form>Karlovy</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUIP1M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUIP1M---------</tag>
 </m>
 <m id="m-lnd92254-096-p2s4w14">
 <src.rf>manual</src.rf>
@@ -1909,7 +1909,7 @@
 <LM>w#w-lnd92254-096-p5s2w12</LM>
 </w.rf>
 <form>úvodní</form>
-<tag lemma="úvodní_,s" src="orig" selected="1">AAIS1----1A----</tag>
+<tag lemma="úvodní" src="orig" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-lnd92254-096-p5s2w13">
 <src.rf>manual</src.rf>
@@ -2584,7 +2584,7 @@
 </w.rf>
 <form>Woodbridge</form>
 <tag>
-<AM lemma="Woodbridge-2_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Woodbridge-1_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Woodbridge_;G" src="auto">NNFP1-----A----</AM>
 <AM lemma="Woodbridge_;G" src="auto">NNFP4-----A----</AM>
 <AM lemma="Woodbridge_;G" src="auto">NNFP5-----A----</AM>

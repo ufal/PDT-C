@@ -895,7 +895,7 @@
 <LM>w#w-mf930708-038-p3s3w2</LM>
 </w.rf>
 <form>prostředky</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-mf930708-038-p3s3w3">
 <src.rf>manual</src.rf>
@@ -1459,7 +1459,7 @@
 <form>milion</form>
 <tag>
 <AM lemma="milión`1000000" src="orig">NNIS4-----A----</AM>
-<AM lemma="milión`1000000" src="manual" selected="1">CzIS4----------</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">CzIS4----------</AM>
 </tag>
 </m>
 <m id="m-mf930708-038-p4s3w12">
@@ -1593,7 +1593,7 @@
 <LM>w#w-mf930708-038-p4s4w4</LM>
 </w.rf>
 <form>manažera</form>
-<tag lemma="manažer" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="manažer-1" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930708-038-p4s4w5">
 <src.rf>manual</src.rf>
@@ -1814,7 +1814,7 @@
 <LM>w#w-mf930708-038-p4s5w14</LM>
 </w.rf>
 <form>potištěné</form>
-<tag lemma="potištěný_^(*5sknout)" src="orig" selected="1">AANS1----1A----</tag>
+<tag lemma="potištěný" src="orig" selected="1">AANS1----1A----</tag>
 </m>
 <m id="m-mf930708-038-p4s5w15">
 <src.rf>manual</src.rf>
@@ -2045,7 +2045,7 @@
 <LM>w#w-mf930708-038-p5s1w7</LM>
 </w.rf>
 <form>Evropě</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf930708-038-p5s1w8">
 <src.rf>manual</src.rf>
@@ -2426,7 +2426,7 @@
 <LM>w#w-mf930708-038-p5s3w1</LM>
 </w.rf>
 <form>Náš</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSYS1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSYS1-P1-------</tag>
 </m>
 <m id="m-mf930708-038-p5s3w2">
 <src.rf>manual</src.rf>
@@ -2604,7 +2604,7 @@
 <LM>w#w-mf930708-038-p5s4w7</LM>
 </w.rf>
 <form>co</form>
-<tag lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="co-5_^(př._co_nejméně,_co_nevidět_atd.)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf930708-038-p5s4w8">
 <src.rf>manual</src.rf>
@@ -3033,7 +3033,7 @@
 <LM>w#w-mf930708-038-p5s5w24</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930708-038-p5s5w25">
 <src.rf>manual</src.rf>

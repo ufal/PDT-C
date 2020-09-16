@@ -71,7 +71,7 @@
 <LM>w#w-ln94209-10-p2s1Bw1</LM>
 </w.rf>
 <form>Extremistická</form>
-<tag lemma="extremistický" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="extremistický_,s_^(^DD**extrémistický)" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-ln94209-10-p2s1Bw2">
 <src.rf>manual</src.rf>
@@ -159,7 +159,7 @@
 <LM>w#w-ln94209-10-p2s1Bw12</LM>
 </w.rf>
 <form>odpovědnosti</form>
-<tag lemma="odpovědnost_^(kdo_za_něco_odpovídá)_(*3ý)" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="odpovědnost_^(*3ý)" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-ln94209-10-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -677,7 +677,7 @@
 <LM>w#w-ln94209-10-p2s4w3</LM>
 </w.rf>
 <form>extremistické</form>
-<tag lemma="extremistický" src="orig" selected="1">AAFS2----1A----</tag>
+<tag lemma="extremistický_,s_^(^DD**extrémistický)" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-ln94209-10-p2s4w4">
 <src.rf>manual</src.rf>
@@ -735,7 +735,7 @@
 <form>jedoucího</form>
 <tag>
 <AM lemma="jedoucí_^(pohybovat_se,_ne_však_chůzí)_(*5t)" src="orig">AGIS2-----A----</AM>
-<AM lemma="jedoucí-1_^(pohybovat_se,_ne_však_chůzí)_(*7t-1)" src="auto" selected="1">AGIS2-----A----</AM>
+<AM lemma="jedoucí-1_^(*7t-1)" src="auto" selected="1">AGIS2-----A----</AM>
 <AM lemma="jedoucí-1_^(pohybovat_se,_ne_však_chůzí)_(*7t-1)" src="auto">AGMS2-----A----</AM>
 <AM lemma="jedoucí-1_^(pohybovat_se,_ne_však_chůzí)_(*7t-1)" src="auto">AGMS4-----A----</AM>
 <AM lemma="jedoucí-1_^(pohybovat_se,_ne_však_chůzí)_(*7t-1)" src="auto">AGNS2-----A----</AM>
@@ -945,7 +945,7 @@
 <LM>w#w-ln94209-10-p2s5w1</LM>
 </w.rf>
 <form>Mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94209-10-p2s5w2">
 <src.rf>manual</src.rf>

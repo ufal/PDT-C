@@ -164,7 +164,7 @@
 <LM>w#w-lnd92257-050-p3s2w8</LM>
 </w.rf>
 <form>Strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92257-050-p3s2w9">
 <src.rf>manual</src.rf>
@@ -532,7 +532,7 @@
 <LM>w#w-lnd92257-050-p3s3w26</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8YP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8YP4---------1</tag>
 </m>
 <m id="m-lnd92257-050-p3s3w27">
 <src.rf>manual</src.rf>
@@ -1108,7 +1108,7 @@
 <LM>w#w-lnd92257-050-p3s6w5</LM>
 </w.rf>
 <form>hájící</form>
-<tag lemma="hájící_^(bránit,_obhajovat)_(*3it)" src="orig" selected="1">AGFS1-----A----</tag>
+<tag lemma="hájící_^(*3it)" src="orig" selected="1">AGFS1-----A----</tag>
 </m>
 <m id="m-lnd92257-050-p3s6w6">
 <src.rf>manual</src.rf>

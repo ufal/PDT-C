@@ -251,7 +251,7 @@
 <LM>w#w-mf920923-113-p4s3w11</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920923-113-p4s3w12">
 <src.rf>manual</src.rf>

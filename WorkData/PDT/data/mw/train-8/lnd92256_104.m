@@ -61,7 +61,7 @@
 <LM>w#w-lnd92256-104-p2s1w3</LM>
 </w.rf>
 <form>událost</form>
-<tag lemma="událost_,a_^(*3ý)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="událost" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92256-104-p2s1w4">
 <src.rf>manual</src.rf>
@@ -238,7 +238,7 @@
 <LM>w#w-lnd92256-104-p2s2w1</LM>
 </w.rf>
 <form>Nejlepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAMP1----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAMP1----3A----</tag>
 </m>
 <m id="m-lnd92256-104-p2s2w2">
 <src.rf>manual</src.rf>

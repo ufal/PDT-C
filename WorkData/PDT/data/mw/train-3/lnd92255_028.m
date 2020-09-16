@@ -168,7 +168,7 @@
 <LM>w#w-lnd92255-028-p2s1w17</LM>
 </w.rf>
 <form>Porubě</form>
-<tag lemma="Poruba_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Poruba-1_;G" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd92255-028-p2s1w18">
 <src.rf>manual</src.rf>

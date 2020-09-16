@@ -19,7 +19,7 @@
 <LM>w#w-mf930709-143-p1s1w1</LM>
 </w.rf>
 <form>Orgány</form>
-<tag lemma="orgán" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-mf930709-143-p1s1w2">
 <src.rf>manual</src.rf>
@@ -95,7 +95,7 @@
 <LM>w#w-mf930709-143-p2s1Bw2</LM>
 </w.rf>
 <form>orgány</form>
-<tag lemma="orgán" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-mf930709-143-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -459,7 +459,7 @@
 <LM>w#w-mf930709-143-p3s2w2</LM>
 </w.rf>
 <form>orgány</form>
-<tag lemma="orgán" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-mf930709-143-p3s2w3">
 <src.rf>manual</src.rf>

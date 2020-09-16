@@ -1449,7 +1449,7 @@
 <tag>
 <AM lemma="Harlow_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Harlow_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Harlow_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Harlow-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2099-001-p1s3W16-Ta">
@@ -1810,7 +1810,7 @@
 </w.rf>
 <form>Harlowa</form>
 <tag>
-<AM lemma="Harlow_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Harlow-1_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Harlow_;Y" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>

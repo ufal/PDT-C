@@ -288,7 +288,7 @@
 <LM>w#w-mf930713-031-p2s1Bw21</LM>
 </w.rf>
 <form>jezdce</form>
-<tag lemma="jezdec" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="jezdec-1" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930713-031-p2s1Bw22">
 <src.rf>manual</src.rf>
@@ -314,7 +314,7 @@
 <LM>w#w-mf930713-031-p2s2w2</LM>
 </w.rf>
 <form>druhým</form>
-<tag lemma="druhý" src="orig" selected="1">CrMS7----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrMS7----------</tag>
 </m>
 <m id="m-mf930713-031-p2s2w3">
 <src.rf>manual</src.rf>
@@ -608,7 +608,7 @@
 <LM>w#w-mf930713-031-p2s3w27</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-mf930713-031-p2s3w28">
 <src.rf>manual</src.rf>
@@ -632,7 +632,7 @@
 <LM>w#w-mf930713-031-p2s3w30</LM>
 </w.rf>
 <form>Bugnem</form>
-<tag lemma="Bugno_;G" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="Bugno-1_;G" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-mf930713-031-p2s3w31">
 <src.rf>manual</src.rf>

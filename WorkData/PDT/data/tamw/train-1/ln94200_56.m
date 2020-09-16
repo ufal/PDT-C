@@ -22,7 +22,7 @@
 <tag>
 <AM lemma="stock_,t_^(stock_list)" src="orig">AAXXX----1A----</AM>
 <AM lemma="Stock_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Stock_;m" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
+<AM lemma="Stock-2_;m" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="Stock_;m" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -343,7 +343,7 @@
 <LM>w#w-ln94200-56-p2s7w8</LM>
 </w.rf>
 <form>alikvotní</form>
-<tag lemma="alikvótní" src="orig" selected="1">AAIS1----1A----</tag>
+<tag lemma="alikvotní_,s_^(^DD**alikvótní)" src="orig" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-ln94200-56-p2s7w9">
 <src.rf>manual</src.rf>
@@ -678,7 +678,7 @@
 <LM>w#w-ln94200-56-p2s9w10</LM>
 </w.rf>
 <form>datum</form>
-<tag lemma="datum_^(kalendářní)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="datum-1_^(kalendářní)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94200-56-p2s9w11">
 <src.rf>manual</src.rf>

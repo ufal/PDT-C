@@ -341,7 +341,7 @@
 <LM>w#w-mf920901-122-p4s3w4</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS6---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS6---------1</tag>
 </m>
 <m id="m-mf920901-122-p4s3w5">
 <src.rf>manual</src.rf>
@@ -437,7 +437,7 @@
 <LM>w#w-mf920901-122-p4s3w16</LM>
 </w.rf>
 <form>faktorů</form>
-<tag lemma="faktor" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="faktor-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf920901-122-p4s3w17">
 <src.rf>manual</src.rf>
@@ -623,7 +623,7 @@
 <LM>w#w-mf920901-122-p4s4w15</LM>
 </w.rf>
 <form>my</form>
-<tag lemma="já" src="orig" selected="1">PP-P1--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P1--1-------</tag>
 </m>
 <m id="m-mf920901-122-p4s4w16">
 <src.rf>manual</src.rf>
@@ -665,7 +665,7 @@
 <LM>w#w-mf920901-122-p4s5w4</LM>
 </w.rf>
 <form>faktory</form>
-<tag lemma="faktor" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="faktor-1" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-mf920901-122-p4s5w5">
 <src.rf>manual</src.rf>
@@ -697,7 +697,7 @@
 <LM>w#w-mf920901-122-p4s5w8</LM>
 </w.rf>
 <form>faktory</form>
-<tag lemma="faktor" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="faktor-1" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-mf920901-122-p4s5w9">
 <src.rf>manual</src.rf>

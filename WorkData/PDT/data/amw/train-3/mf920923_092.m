@@ -192,7 +192,7 @@
 <LM>w#w-mf920923-092-p2s2w14</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-mf920923-092-p2s2w15">
 <src.rf>manual</src.rf>

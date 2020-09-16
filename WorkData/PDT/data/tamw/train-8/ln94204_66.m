@@ -37,7 +37,7 @@
 <LM>w#w-ln94204-66-p2s1Aw1</LM>
 </w.rf>
 <form>Karlovy</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUIP1M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUIP1M---------</tag>
 </m>
 <m id="m-ln94204-66-p2s1Aw2">
 <src.rf>manual</src.rf>
@@ -214,7 +214,7 @@
 <LM>w#w-ln94204-66-p2s1Bw16</LM>
 </w.rf>
 <form>elektro</form>
-<tag lemma="elektro_,h_,l_^(elektrospotřebič;_prodejna_elektro)" src="auto" selected="1">NNNS1-----A----</tag>
+<tag lemma="elektro-1_^(elektrospotřebič;_prodejna_elektro)" src="auto" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94204-66-p2s1Bw17">
 <src.rf>manual</src.rf>

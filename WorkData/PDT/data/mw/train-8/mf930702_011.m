@@ -184,7 +184,7 @@
 <LM>w#w-mf930702-011-p2s1w15</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS1----------</tag>
 </m>
 <m id="m-mf930702-011-p2s1w16">
 <src.rf>manual</src.rf>
@@ -452,7 +452,7 @@
 <LM>w#w-mf930702-011-p3s1w8</LM>
 </w.rf>
 <form>vyhlášeném</form>
-<tag lemma="vyhlášený_,a_^(*4sit)" src="orig" selected="1">AANS6----1A----</tag>
+<tag lemma="vyhlášený_^(*2t)_(*4sit)" src="orig" selected="1">AANS6----1A----</tag>
 </m>
 <m id="m-mf930702-011-p3s1w9">
 <src.rf>manual</src.rf>
@@ -704,7 +704,7 @@
 <LM>w#w-mf930702-011-p3s3w12</LM>
 </w.rf>
 <form>nejlepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAIS4----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAIS4----3A----</tag>
 </m>
 </s>
 <s id="m-mf930702-011-p3s4">
@@ -1580,7 +1580,7 @@
 <LM>w#w-mf930702-011-p5s4w3</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-mf930702-011-p5s4w4">
 <src.rf>manual</src.rf>
@@ -2281,7 +2281,7 @@
 <LM>w#w-mf930702-011-p6s3w5</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-mf930702-011-p6s3w6">
 <src.rf>manual</src.rf>

@@ -27,7 +27,7 @@
 <LM>w#w-mf920902-049-p1s1w2</LM>
 </w.rf>
 <form>tmavomodré</form>
-<tag lemma="tmavomodrý" src="orig" selected="1">AANS1----1A----</tag>
+<tag lemma="tmavomodrý_;o" src="orig" selected="1">AANS1----1A----</tag>
 </m>
 <m id="m-mf920902-049-p1s1w3">
 <src.rf>manual</src.rf>

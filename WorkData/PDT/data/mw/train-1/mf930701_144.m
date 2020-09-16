@@ -197,7 +197,7 @@
 <LM>w#w-mf930701-144-p2s1w20</LM>
 </w.rf>
 <form>Oči</form>
-<tag lemma="oko" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="oko-2" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-mf930701-144-p2s1w21">
 <src.rf>manual</src.rf>
@@ -452,7 +452,7 @@
 <LM>w#w-mf930701-144-p4s1w26</LM>
 </w.rf>
 <form>Bílý</form>
-<tag lemma="bílý" src="orig" selected="1">AAIS1----1A----</tag>
+<tag lemma="bílý_;o" src="orig" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-mf930701-144-p4s1w27">
 <src.rf>manual</src.rf>
@@ -492,7 +492,7 @@
 <LM>w#w-mf930701-144-p4s1w31</LM>
 </w.rf>
 <form>děti</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-mf930701-144-p4s1w32">
 <src.rf>manual</src.rf>
@@ -532,7 +532,7 @@
 <LM>w#w-mf930701-144-p4s1w36</LM>
 </w.rf>
 <form>civilu</form>
-<tag lemma="civil_^(nevoják)" src="auto" selected="1">NNMS6-----A---1</tag>
+<tag lemma="civil-2_^(nevoják)" src="auto" selected="1">NNMS6-----A---1</tag>
 </m>
 <m id="m-mf930701-144-p4s1w37">
 <src.rf>manual</src.rf>

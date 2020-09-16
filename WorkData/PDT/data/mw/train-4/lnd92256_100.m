@@ -93,7 +93,7 @@
 <LM>w#w-lnd92256-100-p2s1w1</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrFS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS1----------</tag>
 </m>
 <m id="m-lnd92256-100-p2s1w2">
 <src.rf>manual</src.rf>
@@ -151,7 +151,7 @@
 <LM>w#w-lnd92256-100-p3s2w1</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrFS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS4----------</tag>
 </m>
 <m id="m-lnd92256-100-p3s2w2">
 <src.rf>manual</src.rf>
@@ -474,7 +474,7 @@
 <LM>w#w-lnd92256-100-p3s4w14</LM>
 </w.rf>
 <form>Hull</form>
-<tag lemma="Hull_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Hull-2_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-100-p3s4w15">
 <src.rf>manual</src.rf>
@@ -718,7 +718,7 @@
 <LM>w#w-lnd92256-100-p4s1w6</LM>
 </w.rf>
 <form>Philadelphií</form>
-<tag lemma="Philadelphia_;G" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Philadelphie_;G_,s_^(^DD**Filadelfie)" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-lnd92256-100-p4s1w7">
 <src.rf>manual</src.rf>
@@ -766,7 +766,7 @@
 <LM>w#w-lnd92256-100-p4s1w12</LM>
 </w.rf>
 <form>dal</form>
-<tag lemma="dát" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92256-100-p4s1w13">
 <src.rf>manual</src.rf>
@@ -974,7 +974,7 @@
 <LM>w#w-lnd92256-100-p4s2w12</LM>
 </w.rf>
 <form>černého</form>
-<tag lemma="černý" src="auto" selected="1">AANS2----1A----</tag>
+<tag lemma="černý_;o" src="auto" selected="1">AANS2----1A----</tag>
 </m>
 <m id="m-lnd92256-100-p4s2w13">
 <src.rf>manual</src.rf>
@@ -1171,7 +1171,7 @@
 <LM>w#w-lnd92256-100-p4s3w12</LM>
 </w.rf>
 <form>Yorku</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="York-2_;G_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-lnd92256-100-p4s3w13">
 <src.rf>manual</src.rf>
@@ -1213,7 +1213,7 @@
 <form>Quebeku</form>
 <tag>
 <AM lemma="Quebek_;G" src="orig">NNIS2-----A----</AM>
-<AM lemma="Quebek_;G_,s_^(^DD**Québec)" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Quebek_;G_,s_^(^DD**Quebec)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-100-p4s3w18">
@@ -1275,7 +1275,7 @@
 <LM>w#w-lnd92256-100-p4s4w3</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrIS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS1----------</tag>
 </m>
 <m id="m-lnd92256-100-p4s4w4">
 <src.rf>manual</src.rf>
@@ -1339,7 +1339,7 @@
 <LM>w#w-lnd92256-100-p4s4w11</LM>
 </w.rf>
 <form>Jezdců</form>
-<tag lemma="jezdec" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="jezdec-1" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd92256-100-p4s4w12">
 <src.rf>manual</src.rf>
@@ -1532,7 +1532,7 @@
 <LM>w#w-lnd92256-100-p5s1w17</LM>
 </w.rf>
 <form>Quebec</form>
-<tag lemma="Québec_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Quebec_;G" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92256-100-p5s1w18">
 <src.rf>manual</src.rf>
@@ -1588,7 +1588,7 @@
 <LM>w#w-lnd92256-100-p5s1w24</LM>
 </w.rf>
 <form>Philadelphia</form>
-<tag lemma="Philadelphia_;G" src="orig" selected="1">NNFS1-----A---1</tag>
+<tag lemma="Philadelphie_;G_,s_^(^DD**Filadelfie)" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-lnd92256-100-p5s1w25">
 <src.rf>manual</src.rf>

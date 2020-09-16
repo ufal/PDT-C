@@ -274,7 +274,7 @@
 <LM>w#w-ln94208-42-p2s1Bw25</LM>
 </w.rf>
 <form>výbor</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94208-42-p2s1Bw26">
 <src.rf>manual</src.rf>
@@ -290,7 +290,7 @@
 <LM>w#w-ln94208-42-p2s1Bw27</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94208-42-p2s1Bw28">
 <src.rf>manual</src.rf>
@@ -549,7 +549,7 @@
 <LM>w#w-ln94208-42-p2s3w1</LM>
 </w.rf>
 <form>Svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS7----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS7----------</tag>
 </m>
 <m id="m-ln94208-42-p2s3w2">
 <src.rf>manual</src.rf>
@@ -955,7 +955,7 @@
 <LM>w#w-ln94208-42-p2s6w9</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94208-42-p2s6w10">
 <src.rf>manual</src.rf>
@@ -998,7 +998,7 @@
 <LM>w#w-ln94208-42-p2s6w14</LM>
 </w.rf>
 <form>Inge</form>
-<tag lemma="Inge_;Y" src="auto" selected="1">NNFXX-----A----</tag>
+<tag lemma="Inge-2_;Y" src="auto" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94208-42-p2s6w15">
 <src.rf>manual</src.rf>

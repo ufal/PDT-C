@@ -208,7 +208,7 @@
 <LM>w#w-mf930713-033-p2s1Bw14</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS4----------</tag>
 </m>
 <m id="m-mf930713-033-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -333,7 +333,7 @@
 <LM>w#w-mf930713-033-p2s2w11</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrNS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS4----------</tag>
 </m>
 <m id="m-mf930713-033-p2s2w12">
 <src.rf>manual</src.rf>
@@ -1017,7 +1017,7 @@
 <LM>w#w-mf930713-033-p3s3w5</LM>
 </w.rf>
 <form>lidem</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP3-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP3-----A----</tag>
 </m>
 <m id="m-mf930713-033-p3s3w6">
 <src.rf>manual</src.rf>
@@ -1097,7 +1097,7 @@
 <LM>w#w-mf930713-033-p3s3w15</LM>
 </w.rf>
 <form>lidem</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP3-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP3-----A----</tag>
 </m>
 <m id="m-mf930713-033-p3s3w16">
 <src.rf>manual</src.rf>
@@ -1155,7 +1155,7 @@
 <LM>w#w-mf930713-033-p3s4w3</LM>
 </w.rf>
 <form>postiženými</form>
-<tag lemma="postižený_^(*4hnout)" src="orig" selected="1">AAMP7----1A----</tag>
+<tag lemma="postižený" src="orig" selected="1">AAMP7----1A----</tag>
 </m>
 <m id="m-mf930713-033-p3s4w4">
 <src.rf>manual</src.rf>

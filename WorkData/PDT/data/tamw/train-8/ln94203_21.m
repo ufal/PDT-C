@@ -91,7 +91,7 @@
 <LM>w#w-ln94203-21-p1s1w10</LM>
 </w.rf>
 <form>model</form>
-<tag lemma="model" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="model-1" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln94203-21-p1s1w11">
 <src.rf>manual</src.rf>

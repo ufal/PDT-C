@@ -883,7 +883,7 @@
 <LM>w#w-mf920925-099-p4s1w14</LM>
 </w.rf>
 <form>paternalismu</form>
-<tag lemma="paternalismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="paternalismus_,s_^(^DD**paternalizmus)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920925-099-p4s1w15">
 <src.rf>manual</src.rf>
@@ -1247,7 +1247,7 @@
 <LM>w#w-mf920925-099-p5s1w8</LM>
 </w.rf>
 <form>socialismus</form>
-<tag lemma="socialismus" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="socialismus_,s_^(^DD**socializmus)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920925-099-p5s1w9">
 <src.rf>manual</src.rf>

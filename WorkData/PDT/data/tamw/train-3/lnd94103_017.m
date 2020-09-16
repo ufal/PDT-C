@@ -27,7 +27,7 @@
 <LM>w#w-lnd94103-017-p1s1w2</LM>
 </w.rf>
 <form>antibiotika</form>
-<tag lemma="antibiotikum_;U" src="orig" selected="1">NNNP1-----A----</tag>
+<tag lemma="antibiotikum" src="orig" selected="1">NNNP1-----A----</tag>
 </m>
 <m id="m-lnd94103-017-p1s1w3">
 <src.rf>manual</src.rf>
@@ -130,7 +130,7 @@
 <LM>w#w-lnd94103-017-p1s3w4</LM>
 </w.rf>
 <form>penicilinu</form>
-<tag lemma="penicilin" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="penicilin_,s_^(^DD**penicilín)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd94103-017-p1s3w5">
 <src.rf>manual</src.rf>
@@ -628,7 +628,7 @@
 <LM>w#w-lnd94103-017-p1s6w6</LM>
 </w.rf>
 <form>penicilin</form>
-<tag lemma="penicilin" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="penicilin_,s_^(^DD**penicilín)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94103-017-p1s6w7">
 <src.rf>manual</src.rf>
@@ -839,7 +839,7 @@
 <LM>w#w-lnd94103-017-p1s7w9</LM>
 </w.rf>
 <form>antibiotikum</form>
-<tag lemma="antibiotikum_;U" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="antibiotikum" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-lnd94103-017-p1s7w10">
 <src.rf>manual</src.rf>
@@ -961,7 +961,7 @@
 <LM>w#w-lnd94103-017-p1s8w14</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-lnd94103-017-p1s8w15">
 <src.rf>manual</src.rf>

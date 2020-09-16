@@ -35,7 +35,7 @@
 <LM>w#w-mf920925-051-p1s1w3</LM>
 </w.rf>
 <form>druhý</form>
-<tag lemma="druhý" src="orig" selected="1">CrMS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrMS1----------</tag>
 </m>
 </s>
 <s id="m-mf920925-051-p2s1">
@@ -80,7 +80,7 @@
 <LM>w#w-mf920925-051-p2s1w5</LM>
 </w.rf>
 <form>dlouhé</form>
-<tag lemma="dlouhý-1_^(fyz._délka;_př._dlouhá_tyč)" src="orig" selected="1">AAFS6----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFS6----1A----</tag>
 </m>
 <m id="m-mf920925-051-p2s1w6">
 <src.rf>manual</src.rf>
@@ -275,7 +275,7 @@
 <LM>w#w-mf920925-051-p2s1w29</LM>
 </w.rf>
 <form>nejlepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAIS4----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAIS4----3A----</tag>
 </m>
 <m id="m-mf920925-051-p2s1w30">
 <src.rf>manual</src.rf>
@@ -433,7 +433,7 @@
 <LM>w#w-mf920925-051-p2s1w48</LM>
 </w.rf>
 <form>Perlini</form>
-<tag lemma="Perlini_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Perlini-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-051-p2s1w49">
 <src.rf>manual</src.rf>
@@ -497,7 +497,7 @@
 <LM>w#w-mf920925-051-p2s1w56</LM>
 </w.rf>
 <form>Perlini</form>
-<tag lemma="Perlini_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Perlini-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-051-p2s1w57">
 <src.rf>manual</src.rf>
@@ -569,7 +569,7 @@
 <LM>w#w-mf920925-051-p2s1w65</LM>
 </w.rf>
 <form>druhou</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS4----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS4----------</tag>
 </m>
 <m id="m-mf920925-051-p2s1w66">
 <src.rf>manual</src.rf>
@@ -609,7 +609,7 @@
 <LM>w#w-mf920925-051-p2s1w70</LM>
 </w.rf>
 <form>Perlinim</form>
-<tag lemma="Perlini_;Y" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Perlini-1_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920925-051-p2s1w71">
 <src.rf>manual</src.rf>
@@ -839,7 +839,7 @@
 <LM>w#w-mf920925-051-p2s4w24</LM>
 </w.rf>
 <form>jezdcem</form>
-<tag lemma="jezdec" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="jezdec-1" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920925-051-p2s4w25">
 <src.rf>manual</src.rf>

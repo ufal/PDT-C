@@ -160,7 +160,7 @@
 <LM>w#w-ln95048-146-p2s1w15</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln95048-146-p2s1w16">
 <src.rf>manual</src.rf>

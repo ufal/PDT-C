@@ -1633,7 +1633,7 @@
 <LM>w#w-mf930709-021-p2s10w26</LM>
 </w.rf>
 <form>stanovenými</form>
-<tag lemma="stanovený_^(určit)_(*3it)" src="orig" selected="1">AAFP7----1A----</tag>
+<tag lemma="stanovený_^(*3it)" src="orig" selected="1">AAFP7----1A----</tag>
 </m>
 <m id="m-mf930709-021-p2s10w27">
 <src.rf>manual</src.rf>
@@ -2634,7 +2634,7 @@
 <LM>w#w-mf930709-021-p2s17w7</LM>
 </w.rf>
 <form>správního</form>
-<tag lemma="správní_^(např._poplatek;_rada;_řád;...)" src="orig" selected="1">AANS2----1A----</tag>
+<tag lemma="správní_^(správní_rada;_řád)" src="orig" selected="1">AANS2----1A----</tag>
 </m>
 <m id="m-mf930709-021-p2s17w8">
 <src.rf>manual</src.rf>

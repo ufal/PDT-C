@@ -19,7 +19,7 @@
 <LM>w#w-ln94201-89-p1s1w1</LM>
 </w.rf>
 <form>Žluté</form>
-<tag lemma="žlutý" src="orig" selected="1">AAFP1----1A----</tag>
+<tag lemma="žlutý_;o" src="orig" selected="1">AAFP1----1A----</tag>
 </m>
 <m id="m-ln94201-89-p1s1w2">
 <src.rf>manual</src.rf>
@@ -102,7 +102,7 @@
 <LM>w#w-ln94201-89-p1s1w11</LM>
 </w.rf>
 <form>žlutí</form>
-<tag lemma="žlutý" src="orig" selected="1">AAMP1----1A----</tag>
+<tag lemma="žlutý_;o" src="orig" selected="1">AAMP1----1A----</tag>
 </m>
 <m id="m-ln94201-89-p1s1w12">
 <src.rf>manual</src.rf>

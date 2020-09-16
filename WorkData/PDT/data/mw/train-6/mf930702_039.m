@@ -644,7 +644,7 @@
 <LM>w#w-mf930702-039-p26s1w1</LM>
 </w.rf>
 <form>Kuřecí</form>
-<tag lemma="kuřecí" src="orig" selected="1">AANS1----1A----</tag>
+<tag lemma="kuřecí-2" src="orig" selected="1">AANS1----1A----</tag>
 </m>
 <m id="m-mf930702-039-p26s1w2">
 <src.rf>manual</src.rf>

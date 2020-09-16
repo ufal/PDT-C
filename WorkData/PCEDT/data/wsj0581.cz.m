@@ -621,7 +621,7 @@
 <form>svou</form>
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS4---------1</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8FS7---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8FS7---------1</AM>
 </tag>
 </m>
 <m id="m-wsj0581-001-p1s1W24-Ta">
@@ -789,7 +789,7 @@
 <form>jejíhož</form>
 <tag>
 <AM lemma="jenž_^(který...[ve_vedl._větě])" src="auto">P1MS4FS3-------</AM>
-<AM lemma="jenž_^(který...[ve_vedl._větě])" src="auto" recommended="1">P1ZS2FS3-------</AM>
+<AM lemma="jehož" src="auto" recommended="1">P1ZS2FS3-------</AM>
 </tag>
 </m>
 <m id="m-wsj0581-001-p1s1W39-Ta">

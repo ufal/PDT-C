@@ -303,7 +303,7 @@
 <LM>w#w-ln95048-088-p2s2w12</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-ln95048-088-p2s2w13">
 <src.rf>manual</src.rf>
@@ -389,7 +389,7 @@
 <LM>w#w-ln95048-088-p2s2w22</LM>
 </w.rf>
 <form>Jesus</form>
-<tag lemma="Jesus_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jesus_;Y_,s_^(^DD**Jezus)" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-088-p2s2w23">
 <src.rf>manual</src.rf>
@@ -477,7 +477,7 @@
 <LM>w#w-ln95048-088-p2s2w33</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-ln95048-088-p2s2w34">
 <src.rf>manual</src.rf>

@@ -246,7 +246,7 @@
 <LM>w#w-lnd92254-015-p1s3w11</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-lnd92254-015-p1s3w12">
 <src.rf>manual</src.rf>

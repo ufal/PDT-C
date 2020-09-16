@@ -87,7 +87,7 @@
 <LM>w#w-ln95045-020-p2s1Bw2</LM>
 </w.rf>
 <form>nepříjemné</form>
-<tag lemma="příjemný-1_^(všeob.,_poz._emoce)" src="orig" selected="1">AAFS2----1N----</tag>
+<tag lemma="příjemný_^(všeob.,_poz._emoce)" src="orig" selected="1">AAFS2----1N----</tag>
 </m>
 <m id="m-ln95045-020-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -143,7 +143,7 @@
 <LM>w#w-ln95045-020-p2s1Bw9</LM>
 </w.rf>
 <form>David</form>
-<tag lemma="David_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="David-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95045-020-p2s1Bw10">
 <src.rf>manual</src.rf>

@@ -74,7 +74,7 @@
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FP1---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FP4---------1</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8FS2---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8FS2---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS3---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS6---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8IP1---------1</AM>
@@ -368,7 +368,7 @@
 <LM>w#w-wsj0808-001-p1s1W20</LM>
 </w.rf>
 <form>vypadá</form>
-<tag lemma="vypadat" src="auto" recommended="1">VB-S---3P-AAI--</tag>
+<tag lemma="vypadat-1_^(ty_vypadáš)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-wsj0808-001-p1s1W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -849,7 +849,7 @@
 <AM lemma="Scottův_;Y_^(*2)" src="auto">AUFS1M---------</AM>
 <AM lemma="Scottův_;Y_^(*2)" src="auto">AUFS5M---------</AM>
 <AM lemma="Scottův_;Y_^(*2)" src="auto">AUIS2M---------</AM>
-<AM lemma="Scottův_;Y_^(*2)" src="auto" selected="1">AUMS2M---------</AM>
+<AM lemma="Scottův-1_;Y_^(*4-1)" src="auto" selected="1">AUMS2M---------</AM>
 <AM lemma="Scottův_;Y_^(*2)" src="auto" recommended="1">AUMS4M---------</AM>
 <AM lemma="Scottův_;Y_^(*2)" src="auto">AUNP1M---------</AM>
 <AM lemma="Scottův_;Y_^(*2)" src="auto">AUNP4M---------</AM>
@@ -1420,7 +1420,7 @@
 <tag>
 <AM lemma="Scottův_;Y_^(*2)" src="auto">AUFS1M---------</AM>
 <AM lemma="Scottův_;Y_^(*2)" src="auto">AUFS5M---------</AM>
-<AM lemma="Scottův_;Y_^(*2)" src="auto" recommended="1">AUIS2M---------</AM>
+<AM lemma="Scottův-1_;Y_^(*4-1)" src="auto" recommended="1">AUIS2M---------</AM>
 <AM lemma="Scottův_;Y_^(*2)" src="auto">AUMS2M---------</AM>
 <AM lemma="Scottův_;Y_^(*2)" src="auto">AUMS4M---------</AM>
 <AM lemma="Scottův_;Y_^(*2)" src="auto">AUNP1M---------</AM>
@@ -1606,7 +1606,7 @@
 </w.rf>
 <form>Scottův</form>
 <tag>
-<AM lemma="Scottův_;Y_^(*2)" src="auto" recommended="1">AUIS1M---------</AM>
+<AM lemma="Scottův-1_;Y_^(*4-1)" src="auto" recommended="1">AUIS1M---------</AM>
 <AM lemma="Scottův_;Y_^(*2)" src="auto">AUIS4M---------</AM>
 <AM lemma="Scottův_;Y_^(*2)" src="auto">AUIS5M---------</AM>
 <AM lemma="Scottův_;Y_^(*2)" src="auto">AUMS1M---------</AM>
@@ -2510,7 +2510,7 @@
 <AM lemma="spravedlnost_^(*3ý)" src="auto">NNFP1-----A----</AM>
 <AM lemma="spravedlnost_^(*3ý)" src="auto">NNFP4-----A----</AM>
 <AM lemma="spravedlnost_^(*3ý)" src="auto">NNFP5-----A----</AM>
-<AM lemma="spravedlnost_^(*3ý)" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="spravedlnost-1_^(*5ý-1)" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="spravedlnost_^(*3ý)" src="auto">NNFS3-----A----</AM>
 <AM lemma="spravedlnost_^(*3ý)" src="auto">NNFS5-----A----</AM>
 <AM lemma="spravedlnost_^(*3ý)" src="auto">NNFS6-----A----</AM>

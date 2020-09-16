@@ -282,7 +282,7 @@
 <LM>w#w-lnd94103-021-p1s3w21</LM>
 </w.rf>
 <form>členy</form>
-<tag lemma="člen" src="orig" selected="1">NNMP7-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-lnd94103-021-p1s3w22">
 <src.rf>manual</src.rf>
@@ -414,7 +414,7 @@
 <LM>w#w-lnd94103-021-p1s5w2</LM>
 </w.rf>
 <form>mluvčího</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94103-021-p1s5w3">
 <src.rf>manual</src.rf>
@@ -708,7 +708,7 @@
 <LM>w#w-lnd94103-021-p1s6w18</LM>
 </w.rf>
 <form>tažení</form>
-<tag lemma="tažení_^(*5áhnout)" src="orig" selected="1">NNNS3-----A----</tag>
+<tag lemma="tažení" src="orig" selected="1">NNNS3-----A----</tag>
 </m>
 <m id="m-lnd94103-021-p1s6w19">
 <src.rf>manual</src.rf>

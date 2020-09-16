@@ -558,7 +558,7 @@
 <LM>w#w-lnd94103-069-p1s5w7</LM>
 </w.rf>
 <form>model</form>
-<tag lemma="model" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="model-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94103-069-p1s5w8">
 <src.rf>manual</src.rf>
@@ -1123,7 +1123,7 @@
 <LM>w#w-lnd94103-069-p1s8w10</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-lnd94103-069-p1s8w11">
 <src.rf>manual</src.rf>
@@ -1150,7 +1150,7 @@
 <LM>w#w-lnd94103-069-p1s8w13</LM>
 </w.rf>
 <form>ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-lnd94103-069-p1s8w14">
 <src.rf>manual</src.rf>
@@ -1275,7 +1275,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>šedému</form>
-<tag lemma="šedý" src="orig" selected="1">AAIS3----1A----</tag>
+<tag lemma="šedý_;o" src="orig" selected="1">AAIS3----1A----</tag>
 </m>
 <m id="m-lnd94103-069-p1s8w29">
 <src.rf>manual</src.rf>

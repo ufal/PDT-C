@@ -93,7 +93,7 @@
 <LM>w#w-lnd94103-047-p1s1Bw7</LM>
 </w.rf>
 <form>lety</form>
-<tag lemma="rok" src="orig" selected="1">NNNP7-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP7-----A----</tag>
 </m>
 <m id="m-lnd94103-047-p1s1Bw8">
 <src.rf>manual</src.rf>
@@ -149,7 +149,7 @@
 <LM>w#w-lnd94103-047-p1s1Bw14</LM>
 </w.rf>
 <form>veteránů</form>
-<tag lemma="veterán" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="veterán-1" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd94103-047-p1s1Bw15">
 <src.rf>manual</src.rf>
@@ -414,7 +414,7 @@
 <LM>w#w-lnd94103-047-p1s2w18</LM>
 </w.rf>
 <form>lety</form>
-<tag lemma="rok" src="orig" selected="1">NNNP7-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP7-----A----</tag>
 </m>
 <m id="m-lnd94103-047-p1s2w19">
 <src.rf>manual</src.rf>
@@ -702,7 +702,7 @@
 <LM>w#w-lnd94103-047-p1s4w10</LM>
 </w.rf>
 <form>veteráni</form>
-<tag lemma="veterán" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="veterán-1" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd94103-047-p1s4w11">
 <src.rf>manual</src.rf>
@@ -856,7 +856,7 @@
 <LM>w#w-lnd94103-047-p1s5w13</LM>
 </w.rf>
 <form>veteránů</form>
-<tag lemma="veterán" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="veterán-1" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd94103-047-p1s5w14">
 <src.rf>manual</src.rf>

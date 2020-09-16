@@ -937,7 +937,7 @@
 <LM>w#w-lnd92257-002-p7s1w16</LM>
 </w.rf>
 <form>stanovené</form>
-<tag lemma="stanovený_^(určit)_(*3it)" src="orig" selected="1">AAFS2----1A----</tag>
+<tag lemma="stanovený_^(*3it)" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-lnd92257-002-p7s1w17">
 <src.rf>manual</src.rf>

@@ -112,7 +112,7 @@
 <LM>w#w-mf930709-082-p2s1Bw4</LM>
 </w.rf>
 <form>našeho</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSZS2-P1-------</tag>
 </m>
 <m id="m-mf930709-082-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -401,7 +401,7 @@
 <LM>w#w-mf930709-082-p2s3w2</LM>
 </w.rf>
 <form>naší</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS2-P1-------</tag>
 </m>
 <m id="m-mf930709-082-p2s3w3">
 <src.rf>manual</src.rf>
@@ -521,7 +521,7 @@
 <LM>w#w-mf930709-082-p2s3w17</LM>
 </w.rf>
 <form>můj</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSYS1-S1-------</tag>
+<tag lemma="můj" src="orig" selected="1">PSYS1-S1-------</tag>
 </m>
 <m id="m-mf930709-082-p2s3w18">
 <src.rf>manual</src.rf>

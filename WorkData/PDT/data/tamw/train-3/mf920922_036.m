@@ -211,7 +211,7 @@
 <LM>w#w-mf920922-036-p2s2w16</LM>
 </w.rf>
 <form>členové</form>
-<tag lemma="člen" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf920922-036-p2s2w17">
 <src.rf>manual</src.rf>
@@ -464,7 +464,7 @@
 <LM>w#w-mf920922-036-p2s4w10</LM>
 </w.rf>
 <form>vytváření</form>
-<tag lemma="vytváření_,a_^(*2t)" src="auto" selected="1">NNNS4-----A----</tag>
+<tag lemma="vytváření_^(*2t)_(*3it)" src="auto" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-mf920922-036-p2s4w11">
 <src.rf>manual</src.rf>
@@ -480,7 +480,7 @@
 <LM>w#w-mf920922-036-p2s4w12</LM>
 </w.rf>
 <form>zelených</form>
-<tag lemma="zelený" src="orig" selected="1">AAFP2----1A----</tag>
+<tag lemma="zelený_;o" src="orig" selected="1">AAFP2----1A----</tag>
 </m>
 <m id="m-mf920922-036-p2s4w13">
 <src.rf>manual</src.rf>
@@ -670,7 +670,7 @@
 <LM>w#w-mf920922-036-p2s5w10</LM>
 </w.rf>
 <form>potřeby</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920922-036-p2s5w11">
 <src.rf>manual</src.rf>

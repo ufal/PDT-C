@@ -1050,7 +1050,7 @@
 <LM>w#w-mf920924-077-p9s1w2</LM>
 </w.rf>
 <form>managementu</form>
-<tag lemma="management_^(vedení,_manažment;_angl.)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="management_,s_^(^DD**manažment)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920924-077-p9s1w3">
 <src.rf>manual</src.rf>
@@ -1173,7 +1173,7 @@
 <LM>w#w-mf920924-077-p9s1w17</LM>
 </w.rf>
 <form>management</form>
-<tag lemma="management_^(vedení,_manažment;_angl.)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="management_,s_^(^DD**manažment)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920924-077-p9s1w18">
 <src.rf>manual</src.rf>
@@ -1529,7 +1529,7 @@
 <LM>w#w-mf920924-077-p13s1w2</LM>
 </w.rf>
 <form>průvodce</form>
-<tag lemma="průvodce" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="průvodce-1" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920924-077-p13s1w3">
 <src.rf>manual</src.rf>
@@ -1561,7 +1561,7 @@
 <LM>w#w-mf920924-077-p13s1w6</LM>
 </w.rf>
 <form>management</form>
-<tag lemma="management_^(vedení,_manažment;_angl.)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="management_,s_^(^DD**manažment)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920924-077-p13s1w7">
 <src.rf>manual</src.rf>
@@ -1660,7 +1660,7 @@
 <LM>w#w-mf920924-077-p13s1w18</LM>
 </w.rf>
 <form>členy</form>
-<tag lemma="člen" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-mf920924-077-p13s1w19">
 <src.rf>manual</src.rf>
@@ -1767,7 +1767,7 @@
 <LM>w#w-mf920924-077-p13s1w31</LM>
 </w.rf>
 <form>krejčí</form>
-<tag lemma="krejčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="krejčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-077-p13s1w32">
 <src.rf>manual</src.rf>

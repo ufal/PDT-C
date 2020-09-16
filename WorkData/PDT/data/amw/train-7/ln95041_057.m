@@ -362,7 +362,7 @@
 <LM>w#w-ln95041-057-p2s1Bw37</LM>
 </w.rf>
 <form>hnutí</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln95041-057-p2s1Bw38">
 <src.rf>manual</src.rf>
@@ -580,7 +580,7 @@
 <LM>w#w-ln95041-057-p3s1w26</LM>
 </w.rf>
 <form>orgán</form>
-<tag lemma="orgán" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln95041-057-p3s1w27">
 <src.rf>manual</src.rf>

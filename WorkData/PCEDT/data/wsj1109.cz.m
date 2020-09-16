@@ -776,7 +776,7 @@
 <AM lemma="daný_^(*3át)" src="auto">AANP4----1A---6</AM>
 <AM lemma="daný_^(*3át)" src="auto">AANP5----1A---6</AM>
 <AM lemma="daný_^(*3át)" src="auto">AANS1----1A----</AM>
-<AM lemma="daný_^(*3át)" src="auto" recommended="1">AANS4----1A----</AM>
+<AM lemma="daný-1_^(*5át-1)" src="auto" recommended="1">AANS4----1A----</AM>
 <AM lemma="daný_^(*3át)" src="auto">AANS5----1A----</AM>
 </tag>
 </m>
@@ -1306,7 +1306,7 @@
 <AM lemma="xerox" src="auto">NNIS1-----A----</AM>
 <AM lemma="xerox" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="Xerox_;m" src="manual">NNIS1-----A----</AM>
-<AM lemma="Xerox_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="xerox" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1109-001-p1s3W12-Ta">
@@ -1690,7 +1690,7 @@
 <tag>
 <AM lemma="xerox" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="xerox" src="auto">NNIS4-----A----</AM>
-<AM lemma="Xerox_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="xerox" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1109-001-p1s4W16-Ta">
@@ -1986,7 +1986,7 @@
 <tag>
 <AM lemma="xerox" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="xerox" src="auto">NNIS4-----A----</AM>
-<AM lemma="Xerox_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="xerox" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1109-001-p1s5W5-Ta">
@@ -2801,7 +2801,7 @@
 <tag>
 <AM lemma="xerox" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="xerox" src="auto">NNIS4-----A----</AM>
-<AM lemma="Xerox_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="xerox" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1109-001-p1s7W28-Ta">
@@ -2834,7 +2834,7 @@
 <AM lemma="Eugene-1_;Y" src="auto">NNMXX-----A----</AM>
 <AM lemma="Eugene-1_;Y_^(žena)" src="auto">NNFXX-----A----</AM>
 <AM lemma="Eugene-2_;G" src="auto">NNIXX-----A----</AM>
-<AM lemma="Eugene-2_;Y_^(muž)" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Eugene-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Eugene-2_;Y_^(muž)" src="auto">NNMS5-----A----</AM>
 <AM lemma="Eugene-2_;Y_^(muž)" src="auto">NNMXX-----A----</AM>
 <AM lemma="Eugene-3_;G_^(univerzitní_město)" src="auto">NNNXX-----A----</AM>
@@ -3003,7 +3003,7 @@
 </w.rf>
 <form>svou</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8FS4---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8FS4---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS7---------1</AM>
 </tag>
 </m>
@@ -3103,7 +3103,7 @@
 <AM lemma="David_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="David_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="David_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="David-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="David-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1109-001-p1s9W2-Ta">
@@ -3239,7 +3239,7 @@
 <tag>
 <AM lemma="xerox" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="xerox" src="auto">NNIS4-----A----</AM>
-<AM lemma="Xerox_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="xerox" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1109-001-p1s9W12-Ta">
@@ -3542,7 +3542,7 @@
 <tag>
 <AM lemma="xerox" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="xerox" src="auto">NNIS4-----A----</AM>
-<AM lemma="Xerox_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="xerox" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1109-001-p1s10W8-Ta">
@@ -3858,7 +3858,7 @@
 <AM lemma="daný_^(*3át)" src="auto">AANP4----1A---6</AM>
 <AM lemma="daný_^(*3át)" src="auto">AANP5----1A---6</AM>
 <AM lemma="daný_^(*3át)" src="auto">AANS1----1A----</AM>
-<AM lemma="daný_^(*3át)" src="auto" recommended="1">AANS4----1A----</AM>
+<AM lemma="daný-1_^(*5át-1)" src="auto" recommended="1">AANS4----1A----</AM>
 <AM lemma="daný_^(*3át)" src="auto">AANS5----1A----</AM>
 </tag>
 </m>
@@ -4103,7 +4103,7 @@
 <form>zdaněním</form>
 <tag>
 <AM lemma="zdanění_^(vypočítat_daň)_(*3it)" src="auto">NNNP3-----A----</AM>
-<AM lemma="zdanění_^(vypočítat_daň)_(*3it)" src="auto" recommended="1">NNNS7-----A----</AM>
+<AM lemma="zdanění_^(*3it)" src="auto" recommended="1">NNNS7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1109-001-p1s11W22-Ta">
@@ -4256,7 +4256,7 @@
 </w.rf>
 <form>dala</form>
 <tag>
-<AM lemma="dát" src="auto" recommended="1">VpQW----R-AAP--</AM>
+<AM lemma="dát-1" src="auto" recommended="1">VpQW----R-AAP--</AM>
 <AM lemma="dát-2_^(dá_se_očekávat)" src="auto">VpQW----R-AAI--</AM>
 </tag>
 </m>
@@ -4439,7 +4439,7 @@
 </w.rf>
 <form>Hugo</form>
 <tag>
-<AM lemma="Hugo-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Hugo_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Hugo-1_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Hugo-2_;G" src="auto">NNNS1-----A----</AM>
 <AM lemma="Hugo-2_;G" src="auto">NNNS4-----A----</AM>
@@ -4534,7 +4534,7 @@
 <tag>
 <AM lemma="xerox" src="auto">NNIS1-----A----</AM>
 <AM lemma="xerox" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="Xerox_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="xerox" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1109-001-p1s13W8-Ta">

@@ -106,7 +106,7 @@
 <LM>w#w-lnd94103-084-p1s3w4</LM>
 </w.rf>
 <form>prokvašeného</form>
-<tag lemma="prokvašený_^(*4sit)" src="orig" selected="1">AANS2----1A----</tag>
+<tag lemma="prokvašený" src="orig" selected="1">AANS2----1A----</tag>
 </m>
 <m id="m-lnd94103-084-p1s3w5">
 <src.rf>manual</src.rf>
@@ -472,7 +472,7 @@
 <LM>w#w-lnd94103-084-p1s5w2</LM>
 </w.rf>
 <form>Náš</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSYS1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSYS1-P1-------</tag>
 </m>
 <m id="m-lnd94103-084-p1s5w3">
 <src.rf>manual</src.rf>
@@ -760,7 +760,7 @@
 <LM>w#w-lnd94103-084-p1s6w4</LM>
 </w.rf>
 <form>jehož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P1XXXZS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXZS3-------</tag>
 </m>
 <m id="m-lnd94103-084-p1s6w5">
 <src.rf>manual</src.rf>

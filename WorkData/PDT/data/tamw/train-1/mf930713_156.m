@@ -515,7 +515,7 @@
 <LM>w#w-mf930713-156-p2s2w35</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XP1FS3-------</tag>
 </m>
 <m id="m-mf930713-156-p2s2w36">
 <src.rf>manual</src.rf>
@@ -824,7 +824,7 @@
 <LM>w#w-mf930713-156-p3s1w27</LM>
 </w.rf>
 <form>raketometu</form>
-<tag lemma="raketomet_;m" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="raketomet" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930713-156-p3s1w28">
 <src.rf>manual</src.rf>

@@ -114,7 +114,7 @@
 <LM>w#w-ln95048-099-p2s1Bw3</LM>
 </w.rf>
 <form>nejlepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAFS2----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAFS2----3A----</tag>
 </m>
 <m id="m-ln95048-099-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -154,7 +154,7 @@
 <LM>w#w-ln95048-099-p2s1Bw8</LM>
 </w.rf>
 <form>Martiny</form>
-<tag lemma="Martina_;Y" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Martina_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95048-099-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -405,7 +405,7 @@
 <LM>w#w-ln95048-099-p2s2w19</LM>
 </w.rf>
 <form>Novotnou</form>
-<tag lemma="Novotná_;Y_^(*1ý)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Novotná_;Y" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95048-099-p2s2w20">
 <src.rf>manual</src.rf>
@@ -760,7 +760,7 @@
 <LM>w#w-ln95048-099-p2s3w37</LM>
 </w.rf>
 <form>Martiny</form>
-<tag lemma="Martina_;Y" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Martina_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95048-099-p2s3w38">
 <src.rf>manual</src.rf>
@@ -994,7 +994,7 @@
 <form>Cupu</form>
 <tag>
 <AM lemma="Cup-1_;m_,t_^(pohár,_soutěž;_v_názvech)" src="auto">NNIS6-----A----</AM>
-<AM lemma="Cup-1_;m_^(pohár,_soutěž;_v_názvech)" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="cup-1_^(pohár)" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-099-p2s4w28">

@@ -620,7 +620,7 @@
 <LM>w#w-mf930708-146-p3s1w22</LM>
 </w.rf>
 <form>členů</form>
-<tag lemma="člen" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf930708-146-p3s1w23">
 <src.rf>manual</src.rf>

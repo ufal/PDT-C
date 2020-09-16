@@ -1312,7 +1312,7 @@
 <LM>w#w-lnd92252-096-p6s2w13</LM>
 </w.rf>
 <form>Olymp</form>
-<tag lemma="Olymp_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Olymp_;G_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92252-096-p6s2w14">
 <src.rf>manual</src.rf>

@@ -109,7 +109,7 @@
 <LM>w#w-ln94210-53-p2s1Bw1</LM>
 </w.rf>
 <form>Masovou</form>
-<tag lemma="masový-2_^(velký)" src="orig" selected="1">AAFS4----1A----</tag>
+<tag lemma="masový" src="orig" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-ln94210-53-p2s1Bw2">
 <src.rf>manual</src.rf>
@@ -224,7 +224,7 @@
 <LM>w#w-ln94210-53-p2s1Bw15</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1IS4FS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1IS4FS3-------</tag>
 </m>
 <m id="m-ln94210-53-p2s1Bw16">
 <src.rf>manual</src.rf>
@@ -264,7 +264,7 @@
 <LM>w#w-ln94210-53-p2s1Bw20</LM>
 </w.rf>
 <form>rada</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94210-53-p2s1Bw21">
 <src.rf>manual</src.rf>
@@ -486,7 +486,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -658,7 +658,7 @@
 <LM>w#w-ln94210-53-p2s4w6</LM>
 </w.rf>
 <form>rada</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94210-53-p2s4w7">
 <src.rf>manual</src.rf>
@@ -1168,7 +1168,7 @@
 <LM>w#w-ln94210-53-p2s6w26</LM>
 </w.rf>
 <form>zpřísnění</form>
-<tag lemma="zpřísnění_^(*3it)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="zpřísnění_^(*2t)_(*3it)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94210-53-p2s6w27">
 <src.rf>manual</src.rf>

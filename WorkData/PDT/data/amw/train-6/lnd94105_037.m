@@ -275,7 +275,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Jean</form>
-<tag lemma="Jean_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jean-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-037-p1s19w6">
 <src.rf>manual</src.rf>
@@ -880,7 +880,7 @@
 <LM>w#w-lnd94105-037-p1s26w7</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd94105-037-p1s26w8">
 <src.rf>manual</src.rf>
@@ -1015,7 +1015,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94105-037-p1s28w9">
@@ -1612,7 +1612,7 @@
 <LM>w#w-lnd94105-037-p1s33w10</LM>
 </w.rf>
 <form>málo</form>
-<tag lemma="málo-1_^(málo_+_2._p.,_málo_peněz)" src="orig" selected="1">Ca--1----------</tag>
+<tag lemma="málo-1_^(málo_peněz)" src="orig" selected="1">Ca--1----------</tag>
 </m>
 <m id="m-lnd94105-037-p1s33w11">
 <src.rf>manual</src.rf>
@@ -1686,7 +1686,7 @@
 <LM>w#w-lnd94105-037-p1s34w6</LM>
 </w.rf>
 <form>fenomén</form>
-<tag lemma="fenomén" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="fenomén-2" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-037-p1s34w7">
 <src.rf>manual</src.rf>

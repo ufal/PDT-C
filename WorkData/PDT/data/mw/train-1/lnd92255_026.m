@@ -45,7 +45,7 @@
 <LM>w#w-lnd92255-026-p2s1w1</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrIS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS1----------</tag>
 </m>
 <m id="m-lnd92255-026-p2s1w2">
 <src.rf>manual</src.rf>
@@ -428,7 +428,7 @@
 <LM>w#w-lnd92255-026-p3s4w12</LM>
 </w.rf>
 <form>Prior</form>
-<tag lemma="Prior_;Y" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Prior_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92255-026-p3s4w13">
 <src.rf>manual</src.rf>
@@ -444,7 +444,7 @@
 <LM>w#w-lnd92255-026-p3s4w14</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS1FS3-------</tag>
 </m>
 <m id="m-lnd92255-026-p3s4w15">
 <src.rf>manual</src.rf>
@@ -519,7 +519,7 @@
 <LM>w#w-lnd92255-026-p3s4w23</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrIS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS1----------</tag>
 </m>
 <m id="m-lnd92255-026-p3s4w24">
 <src.rf>manual</src.rf>

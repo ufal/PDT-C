@@ -412,7 +412,7 @@
 <LM>w#w-ln94207-139-p1s3w20</LM>
 </w.rf>
 <form>stadionu</form>
-<tag lemma="stadión" src="orig" selected="1">NNIS6-----A---1</tag>
+<tag lemma="stadion_,s_^(^DD**stadión)" src="orig" selected="1">NNIS6-----A---1</tag>
 </m>
 <m id="m-ln94207-139-p1s3w21">
 <src.rf>manual</src.rf>

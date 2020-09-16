@@ -839,7 +839,7 @@
 <LM>w#w-mf920902-144-p3s1w41</LM>
 </w.rf>
 <form>svrženého</form>
-<tag lemma="svržený_^(*4hnout)" src="orig" selected="1">AAMS2----1A----</tag>
+<tag lemma="svržený" src="orig" selected="1">AAMS2----1A----</tag>
 </m>
 <m id="m-mf920902-144-p3s1w42">
 <src.rf>manual</src.rf>
@@ -932,7 +932,7 @@
 <LM>w#w-mf920902-144-p3s2w7</LM>
 </w.rf>
 <form>rady</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920902-144-p3s2w8">
 <src.rf>manual</src.rf>

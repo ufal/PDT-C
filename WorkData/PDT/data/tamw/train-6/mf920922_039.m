@@ -422,7 +422,7 @@
 <LM>w#w-mf920922-039-p2s4w13</LM>
 </w.rf>
 <form>ftalátu</form>
-<tag lemma="ftalát_;U" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="ftalát" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920922-039-p2s4w14">
 <src.rf>manual</src.rf>
@@ -430,7 +430,7 @@
 <LM>w#w-mf920922-039-p2s4w14</LM>
 </w.rf>
 <form>dibutylnatého</form>
-<tag lemma="dibutylnatý_;U" src="orig" selected="1">AAIS2----1A----</tag>
+<tag lemma="dibutylnatý" src="orig" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-mf920922-039-p2s4w15">
 <src.rf>manual</src.rf>

@@ -360,7 +360,7 @@
 <LM>w#w-lnd92259-109-p1s2w18</LM>
 </w.rf>
 <form>ztvárnění</form>
-<tag lemma="ztvárnění_^(*3it)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="ztvárnění_^(*2t)_(*3it)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-lnd92259-109-p1s2w19">
 <src.rf>manual</src.rf>
@@ -426,7 +426,7 @@
 <LM>w#w-lnd92259-109-p1s3w2</LM>
 </w.rf>
 <form>Můj</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSYS1-S1-------</tag>
+<tag lemma="můj" src="orig" selected="1">PSYS1-S1-------</tag>
 </m>
 <m id="m-lnd92259-109-p1s3w3">
 <src.rf>manual</src.rf>

@@ -351,7 +351,7 @@
 <LM>w#w-mf920924-066-p2s2w17</LM>
 </w.rf>
 <form>prvních</form>
-<tag lemma="první" src="orig" selected="1">CrFP2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFP2----------</tag>
 </m>
 <m id="m-mf920924-066-p2s2w18">
 <src.rf>manual</src.rf>

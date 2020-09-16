@@ -299,7 +299,7 @@
 <LM>w#w-ln94205-43-p2s1Bw26</LM>
 </w.rf>
 <form>koupeného</form>
-<tag lemma="koupený_^(něco_sobě/někomu)_(*3it)" src="orig" selected="1">AAIS2----1A----</tag>
+<tag lemma="koupený_^(*3it)" src="orig" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-ln94205-43-p2s1Bw27">
 <src.rf>manual</src.rf>
@@ -546,7 +546,7 @@
 <LM>w#w-ln94205-43-p2s3w9</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94205-43-p2s3w10">
 <src.rf>manual</src.rf>
@@ -562,7 +562,7 @@
 <LM>w#w-ln94205-43-p2s3w11</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1XP1FS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XP1FS3-------</tag>
 </m>
 <m id="m-ln94205-43-p2s3w12">
 <src.rf>manual</src.rf>

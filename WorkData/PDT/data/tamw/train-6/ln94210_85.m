@@ -99,7 +99,7 @@
 <LM>w#w-ln94210-85-p1s1w11</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-ln94210-85-p1s1w12">
 <src.rf>manual</src.rf>
@@ -149,7 +149,7 @@
 <LM>w#w-ln94210-85-p1s2w1</LM>
 </w.rf>
 <form>Mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-85-p1s2w2">
 <src.rf>manual</src.rf>
@@ -317,7 +317,7 @@
 <LM>w#w-ln94210-85-p1s2w22</LM>
 </w.rf>
 <form>masového</form>
-<tag lemma="masový-2_^(velký)" src="orig" selected="1">AANS2----1A----</tag>
+<tag lemma="masový" src="orig" selected="1">AANS2----1A----</tag>
 </m>
 <m id="m-ln94210-85-p1s2w23">
 <src.rf>manual</src.rf>

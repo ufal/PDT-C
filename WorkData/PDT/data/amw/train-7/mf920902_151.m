@@ -43,7 +43,7 @@
 <LM>w#w-mf920902-151-p1s1Aw4</LM>
 </w.rf>
 <form>roli</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="role_^(svitek_poslání_pozemek)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf920902-151-p1s1Aw5">
 <src.rf>manual</src.rf>
@@ -460,7 +460,7 @@
 <LM>w#w-mf920902-151-p2s4w23</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-mf920902-151-p2s4w24">
 <src.rf>manual</src.rf>
@@ -967,7 +967,7 @@
 <LM>w#w-mf920902-151-p2s9w2</LM>
 </w.rf>
 <form>postiženými</form>
-<tag lemma="postižený_^(*4hnout)" src="orig" selected="1">AAMP7----1A----</tag>
+<tag lemma="postižený" src="orig" selected="1">AAMP7----1A----</tag>
 </m>
 <m id="m-mf920902-151-p2s9w3">
 <src.rf>manual</src.rf>

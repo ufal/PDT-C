@@ -120,7 +120,7 @@
 <LM>w#w-lnd94103-120-p1s2w9</LM>
 </w.rf>
 <form>naši</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSMP1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSMP1-P1-------</tag>
 </m>
 <m id="m-lnd94103-120-p1s2w10">
 <src.rf>manual</src.rf>
@@ -242,7 +242,7 @@
 <form>Norové</form>
 <tag>
 <AM lemma="Nor_;E" src="orig">NNMP1-----A----</AM>
-<AM lemma="Nor_;E" src="auto" selected="1">NNMP1-----A---1</AM>
+<AM lemma="Nor_;E_;Y" src="auto" selected="1">NNMP1-----A---1</AM>
 <AM lemma="Nor_;E" src="auto">NNMP5-----A---1</AM>
 <AM lemma="Noro_;Y" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="Noro_;Y" src="auto">NNMP5-----A----</AM>
@@ -311,7 +311,7 @@
 <LM>w#w-lnd94103-120-p1s2w32</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-lnd94103-120-p1s2w33">
 <src.rf>manual</src.rf>
@@ -873,7 +873,7 @@
 <LM>w#w-lnd94103-120-p1s11w12</LM>
 </w.rf>
 <form>Murray</form>
-<tag lemma="Murray_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Murray-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-120-p1s11w13">
 <src.rf>manual</src.rf>

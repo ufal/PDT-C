@@ -215,7 +215,7 @@
 <LM>w#w-ln95046-031-p2s1Bw19</LM>
 </w.rf>
 <form>Slavie</form>
-<tag lemma="Slavia_;m" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Slavie_;m_,s_^(^DD**Slávie)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95046-031-p2s1Bw20">
 <src.rf>manual</src.rf>
@@ -748,7 +748,7 @@
 <LM>w#w-ln95046-031-p2s6w13</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8MS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8MS4----------</tag>
 </m>
 <m id="m-ln95046-031-p2s6w14">
 <src.rf>manual</src.rf>
@@ -788,7 +788,7 @@
 <LM>w#w-ln95046-031-p2s6w18</LM>
 </w.rf>
 <form>vyhlášení</form>
-<tag lemma="vyhlášení_,a_^(*4sit)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="vyhlášení_^(*2t)_(*4sit)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln95046-031-p2s6w19">
 <src.rf>manual</src.rf>

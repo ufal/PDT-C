@@ -1536,7 +1536,7 @@
 <LM>w#w-ln94206-60-p3s11w15</LM>
 </w.rf>
 <form>právo</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln94206-60-p3s11w16">
 <src.rf>manual</src.rf>
@@ -2320,7 +2320,7 @@
 <LM>w#w-ln94206-60-p3s17w27</LM>
 </w.rf>
 <form>můj</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSIS4-S1-------</tag>
+<tag lemma="můj" src="orig" selected="1">PSIS4-S1-------</tag>
 </m>
 <m id="m-ln94206-60-p3s17w28">
 <src.rf>manual</src.rf>

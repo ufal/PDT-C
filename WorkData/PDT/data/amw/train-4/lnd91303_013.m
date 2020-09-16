@@ -127,7 +127,7 @@
 <LM>w#w-lnd91303-013-p2s1w9</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8YP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8YP4---------1</tag>
 </m>
 <m id="m-lnd91303-013-p2s1w10">
 <src.rf>manual</src.rf>
@@ -813,7 +813,7 @@
 <LM>w#w-lnd91303-013-p2s4w20</LM>
 </w.rf>
 <form>tmavohnědého</form>
-<tag lemma="tmavohnědý" src="orig" selected="1">AAIS2----1A----</tag>
+<tag lemma="tmavohnědý_;o" src="orig" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-lnd91303-013-p2s4w21">
 <src.rf>manual</src.rf>
@@ -1331,7 +1331,7 @@
 <LM>w#w-lnd91303-013-p3s2w25</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-lnd91303-013-p3s2w26">
 <src.rf>manual</src.rf>
@@ -1745,7 +1745,7 @@
 <LM>w#w-lnd91303-013-p4s1w12</LM>
 </w.rf>
 <form>jehož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P1XXXZS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXZS3-------</tag>
 </m>
 <m id="m-lnd91303-013-p4s1w13">
 <src.rf>manual</src.rf>
@@ -3853,7 +3853,7 @@
 <LM>w#w-lnd91303-013-p6s1w13</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd91303-013-p6s1w14">
 <src.rf>manual</src.rf>
@@ -3999,7 +3999,7 @@
 <LM>w#w-lnd91303-013-p6s2w9</LM>
 </w.rf>
 <form>Saúdská</form>
-<tag lemma="saudský" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="saúdský" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-lnd91303-013-p6s2w10">
 <src.rf>manual</src.rf>
@@ -4081,7 +4081,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -4717,7 +4717,7 @@
 <LM>w#w-lnd91303-013-p7s5w6</LM>
 </w.rf>
 <form>léta</form>
-<tag lemma="rok" src="orig" selected="1">NNNP4-----A---2</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP4-----A---2</tag>
 </m>
 <m id="m-lnd91303-013-p7s5w7">
 <src.rf>manual</src.rf>
@@ -5419,7 +5419,7 @@
 <LM>w#w-lnd91303-013-p8s3w20</LM>
 </w.rf>
 <form>ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-lnd91303-013-p8s3w21">
 <src.rf>manual</src.rf>

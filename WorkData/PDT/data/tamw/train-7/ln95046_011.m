@@ -51,7 +51,7 @@
 <LM>w#w-ln95046-011-p1s1w5</LM>
 </w.rf>
 <form>rafinérii</form>
-<tag lemma="rafinérie" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="rafinérie_,s_^(^DD**rafinerie)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln95046-011-p1s1w6">
 <src.rf>manual</src.rf>

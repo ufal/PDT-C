@@ -281,7 +281,7 @@
 <LM>w#w-mf920902-041-p5s1w12</LM>
 </w.rf>
 <form>Zlatém</form>
-<tag lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAIS6----1A----</tag>
+<tag lemma="zlatý-1_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAIS6----1A----</tag>
 </m>
 <m id="m-mf920902-041-p5s1w13">
 <src.rf>manual</src.rf>

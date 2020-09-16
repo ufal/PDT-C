@@ -557,7 +557,7 @@
 <LM>w#w-lnd92256-095-p3s4w2</LM>
 </w.rf>
 <form>dlouhé</form>
-<tag lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">AAFS6----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFS6----1A----</tag>
 </m>
 <m id="m-lnd92256-095-p3s4w3">
 <src.rf>manual</src.rf>
@@ -2889,7 +2889,7 @@
 <LM>w#w-lnd92256-095-p10s1w1</LM>
 </w.rf>
 <form>Slovan</form>
-<tag lemma="Slovan-2_;m" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Slovan-2_;G_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92256-095-p10s1w2">
 <src.rf>manual</src.rf>
@@ -3146,7 +3146,7 @@
 <LM>w#w-lnd92256-095-p11s6w7</LM>
 </w.rf>
 <form>Lipina</form>
-<tag lemma="Lipina_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Lipina-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-095-p11s6w8">
 <src.rf>manual</src.rf>
@@ -3308,7 +3308,7 @@
 <LM>w#w-lnd92256-095-p11s7w19</LM>
 </w.rf>
 <form>Slovan</form>
-<tag lemma="Slovan-2_;m" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Slovan-2_;G_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92256-095-p11s7w20">
 <src.rf>manual</src.rf>
@@ -4636,7 +4636,7 @@
 <LM>w#w-lnd92256-095-p15s8w3</LM>
 </w.rf>
 <form>Bolina</form>
-<tag lemma="Bolina_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bolina-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-095-p15s8w4">
 <src.rf>manual</src.rf>
@@ -5076,7 +5076,7 @@
 <LM>w#w-lnd92256-095-p16s6w1</LM>
 </w.rf>
 <form>Petrovka</form>
-<tag lemma="Petrovka_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Petrovka-2_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92256-095-p16s6w2">
 <src.rf>manual</src.rf>
@@ -6043,7 +6043,7 @@
 <LM>w#w-lnd92256-095-p27s2w1</LM>
 </w.rf>
 <form>Slovan</form>
-<tag lemma="Slovan-2_;m" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Slovan-2_;G_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92256-095-p27s2w2">
 <src.rf>manual</src.rf>

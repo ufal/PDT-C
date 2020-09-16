@@ -136,7 +136,7 @@
 <LM>w#w-ln94208-99-p2s1Bw9</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94208-99-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -168,7 +168,7 @@
 <LM>w#w-ln94208-99-p2s1Bw13</LM>
 </w.rf>
 <form>zlatou</form>
-<tag lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAFS4----1A----</tag>
+<tag lemma="zlatý-1_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-ln94208-99-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -322,7 +322,7 @@
 <LM>w#w-ln94208-99-p2s2w14</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-ln94208-99-p2s2w15">
 <src.rf>manual</src.rf>

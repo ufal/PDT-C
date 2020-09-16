@@ -255,7 +255,7 @@
 <LM>w#w-lnd92255-074-p3s1w18</LM>
 </w.rf>
 <form>příjemnějších</form>
-<tag lemma="příjemný-1_^(všeob.,_poz._emoce)" src="orig" selected="1">AAFP2----2A----</tag>
+<tag lemma="příjemný_^(všeob.,_poz._emoce)" src="orig" selected="1">AAFP2----2A----</tag>
 </m>
 <m id="m-lnd92255-074-p3s1w19">
 <src.rf>manual</src.rf>
@@ -329,7 +329,7 @@
 <LM>w#w-lnd92255-074-p3s2w5</LM>
 </w.rf>
 <form>ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-lnd92255-074-p3s2w6">
 <src.rf>manual</src.rf>
@@ -827,7 +827,7 @@
 <LM>w#w-lnd92255-074-p4s1w3</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1ZS1FS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1ZS1FS3-------</tag>
 </m>
 <m id="m-lnd92255-074-p4s1w4">
 <src.rf>manual</src.rf>
@@ -835,7 +835,7 @@
 <LM>w#w-lnd92255-074-p4s1w4</LM>
 </w.rf>
 <form>datum</form>
-<tag lemma="datum_^(kalendářní)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="datum-1_^(kalendářní)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-lnd92255-074-p4s1w5">
 <src.rf>manual</src.rf>
@@ -1079,7 +1079,7 @@
 <LM>w#w-lnd92255-074-p4s2w7</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-lnd92255-074-p4s2w8">
 <src.rf>manual</src.rf>
@@ -1299,7 +1299,7 @@
 <LM>w#w-lnd92255-074-p5s2w6</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd92255-074-p5s2w7">
 <src.rf>manual</src.rf>
@@ -1403,7 +1403,7 @@
 <LM>w#w-lnd92255-074-p5s2w19</LM>
 </w.rf>
 <form>antisemitismu</form>
-<tag lemma="antisemitismus" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="antisemitismus_,s_^(^DD**antisemitizmus)" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-lnd92255-074-p5s2w20">
 <src.rf>manual</src.rf>
@@ -1477,7 +1477,7 @@
 <LM>w#w-lnd92255-074-p5s3w2</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-lnd92255-074-p5s3w3">
 <src.rf>manual</src.rf>
@@ -1485,7 +1485,7 @@
 <LM>w#w-lnd92255-074-p5s3w3</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd92255-074-p5s3w4">
 <src.rf>manual</src.rf>
@@ -1711,7 +1711,7 @@
 <LM>w#w-lnd92255-074-p5s4w15</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-lnd92255-074-p5s4w16">
 <src.rf>manual</src.rf>
@@ -2187,7 +2187,7 @@
 <LM>w#w-lnd92255-074-p6s1w11</LM>
 </w.rf>
 <form>roli</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="role_^(svitek_poslání_pozemek)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-lnd92255-074-p6s1w12">
 <src.rf>manual</src.rf>
@@ -2575,7 +2575,7 @@
 <LM>w#w-lnd92255-074-p6s3w20</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP3----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP3----------</tag>
 </m>
 <m id="m-lnd92255-074-p6s3w21">
 <src.rf>manual</src.rf>
@@ -2779,7 +2779,7 @@
 <LM>w#w-lnd92255-074-p6s5w2</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP6----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP6----------</tag>
 </m>
 <m id="m-lnd92255-074-p6s5w3">
 <src.rf>manual</src.rf>
@@ -3403,7 +3403,7 @@
 <LM>w#w-lnd92255-074-p7s3w12</LM>
 </w.rf>
 <form>jehož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P1XXXZS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXZS3-------</tag>
 </m>
 <m id="m-lnd92255-074-p7s3w13">
 <src.rf>manual</src.rf>
@@ -3712,7 +3712,7 @@
 <LM>w#w-lnd92255-074-p8s1w25</LM>
 </w.rf>
 <form>třeba</form>
-<tag lemma="třeba-2" src="auto" selected="1">Db-------------</tag>
+<tag lemma="třeba-1" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd92255-074-p8s1w26">
 <src.rf>manual</src.rf>
@@ -3918,7 +3918,7 @@
 <LM>w#w-lnd92255-074-p8s2w9</LM>
 </w.rf>
 <form>roli</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="role_^(svitek_poslání_pozemek)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd92255-074-p8s2w10">
 <src.rf>manual</src.rf>
@@ -4082,7 +4082,7 @@
 <LM>w#w-lnd92255-074-p8s4w2</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-lnd92255-074-p8s4w3">
 <src.rf>manual</src.rf>
@@ -4178,7 +4178,7 @@
 <LM>w#w-lnd92255-074-p8s4w14</LM>
 </w.rf>
 <form>cesty</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92255-074-p8s4w15">
 <src.rf>manual</src.rf>
@@ -4428,7 +4428,7 @@
 <LM>w#w-lnd92255-074-p9s1w26</LM>
 </w.rf>
 <form>n</form>
-<tag lemma="můj_^(přivlast.,jen_př._n._l.,_před_naším_letopočtem,_našeho_letopočtu)" src="auto" selected="1">PSZS7-P1------b</tag>
+<tag lemma="náš" src="auto" selected="1">PSZS7-P1------b</tag>
 </m>
 <m id="m-lnd92255-074-p9s1w27">
 <src.rf>manual</src.rf>
@@ -4449,7 +4449,7 @@
 <AM lemma="l-33" src="auto">Q3-------------</AM>
 <AM lemma="l-4_^(graf._oddělovač)" src="auto">Z:-------------</AM>
 <AM lemma="l-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
-<AM lemma="letopočet_^(jen_př._n._l.,_před_naším_letopočtem)" src="auto" selected="1">NNIS7-----A---b</AM>
+<AM lemma="letopočet" src="auto" selected="1">NNIS7-----A---b</AM>
 <AM lemma="litr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 </tag>
 </m>

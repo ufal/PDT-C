@@ -167,7 +167,7 @@
 <AM lemma="Hami_;G" src="orig">NNNXX-----A----</AM>
 <AM lemma="Hami_;m" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="Hami-2_;G" src="manual">NNNXX-----A----</AM>
-<AM lemma="Hami_;G_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Hami-1_;G_;m" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-059-p2s1w16">
@@ -379,7 +379,7 @@
 <LM>w#w-mf920922-059-p2s4w2</LM>
 </w.rf>
 <form>jezdec</form>
-<tag lemma="jezdec" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="jezdec-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-059-p2s4w3">
 <src.rf>manual</src.rf>
@@ -908,7 +908,7 @@
 <LM>w#w-mf920922-059-p2s6w2</LM>
 </w.rf>
 <form>druhým</form>
-<tag lemma="druhý" src="orig" selected="1">CrMS7----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrMS7----------</tag>
 </m>
 <m id="m-mf920922-059-p2s6w3">
 <src.rf>manual</src.rf>
@@ -1489,7 +1489,7 @@
 <LM>w#w-mf920922-059-p3s2w17</LM>
 </w.rf>
 <form>Perlini</form>
-<tag lemma="Perlini_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Perlini-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-059-p3s2w18">
 <src.rf>manual</src.rf>
@@ -2011,7 +2011,7 @@
 <AM lemma="Hami_;G" src="orig">NNNXX-----A----</AM>
 <AM lemma="Hami_;m" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="Hami-2_;G" src="manual">NNNXX-----A----</AM>
-<AM lemma="Hami_;G_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Hami-1_;G_;m" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-059-p4s1w5">
@@ -2030,7 +2030,7 @@
 <LM>w#w-mf920922-059-p4s2w1</LM>
 </w.rf>
 <form>Perlini</form>
-<tag lemma="Perlini_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Perlini-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920922-059-p4s2w2">
 <src.rf>manual</src.rf>

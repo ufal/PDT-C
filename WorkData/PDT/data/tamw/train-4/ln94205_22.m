@@ -111,7 +111,7 @@
 <form>osmdesátimilionový</form>
 <tag>
 <AM lemma="osmdesátimilionový" src="orig">AAIS4----1A----</AM>
-<AM lemma="osmdesátimilionový_,s_^(^DD**osmdesátimilónový)" src="manual" selected="1">AAIS4----1A----</AM>
+<AM lemma="osmdesátimilionový_,s_^(^DD**osmdesátimiliónový)" src="manual" selected="1">AAIS4----1A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-22-p2s1Aw9">
@@ -505,7 +505,7 @@
 <LM>w#w-ln94205-22-p2s2w23</LM>
 </w.rf>
 <form>jejího</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS2FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS2FS3-------</tag>
 </m>
 <m id="m-ln94205-22-p2s2w24">
 <src.rf>manual</src.rf>

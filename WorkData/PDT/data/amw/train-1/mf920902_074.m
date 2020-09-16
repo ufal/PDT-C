@@ -72,7 +72,7 @@
 <LM>w#w-mf920902-074-p1s1Bw4</LM>
 </w.rf>
 <form>SVÉHO</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8MS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8MS4----------</tag>
 </m>
 <m id="m-mf920902-074-p1s1Bw5">
 <src.rf>manual</src.rf>
@@ -146,7 +146,7 @@
 <LM>w#w-mf920902-074-p2s1w7</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920902-074-p2s1w8">
 <src.rf>manual</src.rf>
@@ -381,7 +381,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf920902-074-p2s2w3">
@@ -593,7 +593,7 @@
 <LM>w#w-mf920902-074-p2s2w28</LM>
 </w.rf>
 <form>Lubiny</form>
-<tag lemma="Lubina_;Y" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Lubina-2_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920902-074-p2s2w29">
 <src.rf>manual</src.rf>
@@ -1107,7 +1107,7 @@
 <LM>w#w-mf920902-074-p3s2w12</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8NS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8NS4---------1</tag>
 </m>
 <m id="m-mf920902-074-p3s2w13">
 <src.rf>manual</src.rf>
@@ -1390,7 +1390,7 @@
 <LM>w#w-mf920902-074-p3s3w20</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-mf920902-074-p3s3w21">
 <src.rf>manual</src.rf>
@@ -2274,7 +2274,7 @@
 <LM>w#w-mf920902-074-p4s2w14</LM>
 </w.rf>
 <form>pana</form>
-<tag lemma="pan_^(oslovení)" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="pan" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920902-074-p4s2w15">
 <src.rf>manual</src.rf>

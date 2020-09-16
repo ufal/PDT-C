@@ -51,7 +51,7 @@
 <LM>w#w-vesm9301-009-p1s1w5</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-vesm9301-009-p1s1w6">
 <src.rf>manual</src.rf>

@@ -185,7 +185,7 @@
 <LM>w#w-lnd92253-043-p1s1w21</LM>
 </w.rf>
 <form>druhého</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS2----------</tag>
 </m>
 <m id="m-lnd92253-043-p1s1w22">
 <src.rf>manual</src.rf>

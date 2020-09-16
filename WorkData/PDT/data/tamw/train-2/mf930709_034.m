@@ -324,7 +324,7 @@
 <LM>w#w-mf930709-034-p2s2w6</LM>
 </w.rf>
 <form>kuponové</form>
-<tag lemma="kuponový" src="orig" selected="1">AAFS2----1A----</tag>
+<tag lemma="kuponový_,s_^(^DD**kupónový)" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-mf930709-034-p2s2w7">
 <src.rf>manual</src.rf>
@@ -398,7 +398,7 @@
 <LM>w#w-mf930709-034-p2s3w7</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS1----------</tag>
 </m>
 <m id="m-mf930709-034-p2s3w8">
 <src.rf>manual</src.rf>
@@ -414,7 +414,7 @@
 <LM>w#w-mf930709-034-p2s3w9</LM>
 </w.rf>
 <form>kuponové</form>
-<tag lemma="kuponový" src="orig" selected="1">AAFS2----1A----</tag>
+<tag lemma="kuponový_,s_^(^DD**kupónový)" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-mf930709-034-p2s3w10">
 <src.rf>manual</src.rf>

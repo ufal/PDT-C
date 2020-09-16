@@ -313,7 +313,7 @@
 <LM>w#w-lnd92258-026-p2s3w18</LM>
 </w.rf>
 <form>delší</form>
-<tag lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">AAFS4----2A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFS4----2A----</tag>
 </m>
 <m id="m-lnd92258-026-p2s3w19">
 <src.rf>manual</src.rf>
@@ -613,7 +613,7 @@
 <LM>w#w-lnd92258-026-p2s6w4</LM>
 </w.rf>
 <form>správního</form>
-<tag lemma="správní_^(např._poplatek;_rada;_řád;...)" src="orig" selected="1">AANS2----1A----</tag>
+<tag lemma="správní_^(správní_rada;_řád)" src="orig" selected="1">AANS2----1A----</tag>
 </m>
 <m id="m-lnd92258-026-p2s6w5">
 <src.rf>manual</src.rf>

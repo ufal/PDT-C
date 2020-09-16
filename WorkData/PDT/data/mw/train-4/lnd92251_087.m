@@ -61,7 +61,7 @@
 <LM>w#w-lnd92251-087-p2s1w2</LM>
 </w.rf>
 <form>YORK</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="York-2_;G_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92251-087-p2s1w3">
 <src.rf>manual</src.rf>
@@ -260,7 +260,7 @@
 <LM>w#w-lnd92251-087-p2s3w1</LM>
 </w.rf>
 <form>Hnědého</form>
-<tag lemma="hnědý" src="orig" selected="1">AAMS4----1A----</tag>
+<tag lemma="hnědý_;o" src="orig" selected="1">AAMS4----1A----</tag>
 </m>
 <m id="m-lnd92251-087-p2s3w2">
 <src.rf>manual</src.rf>
@@ -424,7 +424,7 @@
 <LM>w#w-lnd92251-087-p2s3w21</LM>
 </w.rf>
 <form>výbor</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92251-087-p2s3w22">
 <src.rf>manual</src.rf>
@@ -496,7 +496,7 @@
 <LM>w#w-lnd92251-087-p2s4w6</LM>
 </w.rf>
 <form>navrženými</form>
-<tag lemma="navržený_^(*4hnout)" src="orig" selected="1">AANP7----1A----</tag>
+<tag lemma="navržený" src="orig" selected="1">AANP7----1A----</tag>
 </m>
 <m id="m-lnd92251-087-p2s4w7">
 <src.rf>manual</src.rf>

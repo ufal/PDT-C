@@ -334,7 +334,7 @@
 <LM>w#w-ln94204-29-p2s1Bw30</LM>
 </w.rf>
 <form>Yorku</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="York-2_;G_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln94204-29-p2s1Bw31">
 <src.rf>manual</src.rf>
@@ -677,7 +677,7 @@
 <LM>w#w-ln94204-29-p2s3w13</LM>
 </w.rf>
 <form>činitelé</form>
-<tag lemma="činitel" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="činitel-1" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln94204-29-p2s3w14">
 <src.rf>manual</src.rf>
@@ -693,7 +693,7 @@
 <LM>w#w-ln94204-29-p2s3w15</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrMS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrMS1----------</tag>
 </m>
 <m id="m-ln94204-29-p2s3w16">
 <src.rf>manual</src.rf>
@@ -727,7 +727,7 @@
 <form>Strobe</form>
 <tag>
 <AM lemma="Strobe_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Strobe_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Strobe-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-29-p2s3w20">
@@ -752,7 +752,7 @@
 <LM>w#w-ln94204-29-p2s3w22</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrMS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrMS1----------</tag>
 </m>
 <m id="m-ln94204-29-p2s3w23">
 <src.rf>manual</src.rf>

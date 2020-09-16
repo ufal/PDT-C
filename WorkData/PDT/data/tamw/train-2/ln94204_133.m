@@ -354,7 +354,7 @@
 <LM>w#w-ln94204-133-p2s1Bw33</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94204-133-p2s1Bw34">
 <src.rf>manual</src.rf>
@@ -1969,7 +1969,7 @@
 <LM>w#w-ln94204-133-p4s9w14</LM>
 </w.rf>
 <form>zostřený</form>
-<tag lemma="zostřený_^(*2t)" src="auto" selected="1">AAIS1----1A----</tag>
+<tag lemma="zostřený_^(*2t)_(*3it)" src="auto" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-ln94204-133-p4s9w15">
 <src.rf>manual</src.rf>
@@ -1977,7 +1977,7 @@
 <LM>w#w-ln94204-133-p4s9w15</LM>
 </w.rf>
 <form>třídní</form>
-<tag lemma="třídní" src="orig" selected="1">AAIS1----1A----</tag>
+<tag lemma="třídní-1" src="orig" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-ln94204-133-p4s9w16">
 <src.rf>manual</src.rf>
@@ -2099,7 +2099,7 @@
 <LM>w#w-ln94204-133-p4s10w13</LM>
 </w.rf>
 <form>prvních</form>
-<tag lemma="první" src="orig" selected="1">CrMP2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrMP2----------</tag>
 </m>
 <m id="m-ln94204-133-p4s10w14">
 <src.rf>manual</src.rf>

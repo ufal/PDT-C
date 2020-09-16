@@ -797,7 +797,7 @@
 <LM>w#w-ln95041-120-p5s2w2</LM>
 </w.rf>
 <form>potřeby</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-ln95041-120-p5s2w3">
 <src.rf>manual</src.rf>

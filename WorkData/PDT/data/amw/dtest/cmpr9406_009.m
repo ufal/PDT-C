@@ -140,7 +140,7 @@
 <LM>w#w-cmpr9406-009-p5s3w1</LM>
 </w.rf>
 <form>Váš</form>
-<tag lemma="tvůj_^(přivlast.)" src="orig" selected="1">PSIS4-P2-------</tag>
+<tag lemma="váš" src="orig" selected="1">PSIS4-P2-------</tag>
 </m>
 <m id="m-cmpr9406-009-p5s3w2">
 <src.rf>manual</src.rf>
@@ -358,7 +358,7 @@
 <LM>w#w-cmpr9406-009-p5s4w18</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-cmpr9406-009-p5s4w19">
 <src.rf>manual</src.rf>
@@ -617,7 +617,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-009-p7s2w3">
@@ -682,7 +682,7 @@
 <LM>w#w-cmpr9406-009-p7s2w10</LM>
 </w.rf>
 <form>mého</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS2-S1-------</tag>
+<tag lemma="můj" src="orig" selected="1">PSZS2-S1-------</tag>
 </m>
 <m id="m-cmpr9406-009-p7s2w11">
 <src.rf>manual</src.rf>
@@ -756,7 +756,7 @@
 <LM>w#w-cmpr9406-009-p7s3w5</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-cmpr9406-009-p7s3w6">
 <src.rf>manual</src.rf>
@@ -788,7 +788,7 @@
 <LM>w#w-cmpr9406-009-p7s3w9</LM>
 </w.rf>
 <form>nemoci</form>
-<tag lemma="nemoc_^(choroba)" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="nemoc" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-cmpr9406-009-p7s3w10">
 <src.rf>manual</src.rf>
@@ -990,7 +990,7 @@
 <form>AIDS</form>
 <tag>
 <AM lemma="AIDS_:B_;U_,x_^(Syndrom_získaného_selhání_imunity)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="AIDS-2_;U_^(Syndrom_získaného_selhání_imunity)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="AIDS_;U_^(Syndrom_získaného_selhání_imunity)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-009-p7s3w35">
@@ -1516,7 +1516,7 @@
 <form>události</form>
 <tag>
 <AM lemma="událost_,a_^(*3ý)" src="orig">NNFS2-----A----</AM>
-<AM lemma="událost_^(*3ý)" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="událost" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-009-p9s2w22">

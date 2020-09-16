@@ -269,7 +269,7 @@
 <LM>w#w-mf930702-079-p2s1w28</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrIS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS6----------</tag>
 </m>
 <m id="m-mf930702-079-p2s1w29">
 <src.rf>manual</src.rf>

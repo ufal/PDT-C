@@ -191,7 +191,7 @@
 <LM>w#w-mf920922-063-p2s4w1</LM>
 </w.rf>
 <form>Peterková</form>
-<tag lemma="Peterková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Peterková_;Y_^(*3a)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920922-063-p2s4w2">
 <src.rf>manual</src.rf>

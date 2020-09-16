@@ -114,7 +114,7 @@
 <LM>w#w-lnd92251-088-p2s2w2</LM>
 </w.rf>
 <form>prvního</form>
-<tag lemma="první" src="orig" selected="1">CrMS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrMS2----------</tag>
 </m>
 <m id="m-lnd92251-088-p2s2w3">
 <src.rf>manual</src.rf>
@@ -717,7 +717,7 @@
 <LM>w#w-lnd92251-088-p2s6w16</LM>
 </w.rf>
 <form>černobílých</form>
-<tag lemma="černobílý" src="orig" selected="1">AAFP6----1A----</tag>
+<tag lemma="černobílý_;o" src="orig" selected="1">AAFP6----1A----</tag>
 </m>
 <m id="m-lnd92251-088-p2s6w17">
 <src.rf>manual</src.rf>
@@ -975,7 +975,7 @@
 <LM>w#w-lnd92251-088-p2s7w19</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92251-088-p2s7w20">
 <src.rf>manual</src.rf>

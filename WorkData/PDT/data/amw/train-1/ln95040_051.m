@@ -80,7 +80,7 @@
 <LM>w#w-ln95040-051-p2s1w6</LM>
 </w.rf>
 <form>umění</form>
-<tag lemma="umění_^(mít_schopnost_něco_dělat)_(*2t)" src="orig" selected="1">NNNS3-----A----</tag>
+<tag lemma="umění_^(*2t)" src="orig" selected="1">NNNS3-----A----</tag>
 </m>
 <m id="m-ln95040-051-p2s1w7">
 <src.rf>manual</src.rf>
@@ -128,7 +128,7 @@
 <LM>w#w-ln95040-051-p2s1w12</LM>
 </w.rf>
 <form>nezveřejněných</form>
-<tag lemma="zveřejněný_^(*3it)" src="orig" selected="1">AAIP2----1N----</tag>
+<tag lemma="zveřejněný_^(*2t)_(*3it)" src="orig" selected="1">AAIP2----1N----</tag>
 </m>
 <m id="m-ln95040-051-p2s1w13">
 <src.rf>manual</src.rf>
@@ -241,7 +241,7 @@
 <LM>w#w-ln95040-051-p2s1w25</LM>
 </w.rf>
 <form>umění</form>
-<tag lemma="umění_^(mít_schopnost_něco_dělat)_(*2t)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="umění_^(*2t)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95040-051-p2s1w26">
 <src.rf>manual</src.rf>
@@ -545,7 +545,7 @@
 <LM>w#w-ln95040-051-p2s3w17</LM>
 </w.rf>
 <form>prvního</form>
-<tag lemma="první" src="orig" selected="1">CrMS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrMS2----------</tag>
 </m>
 <m id="m-ln95040-051-p2s3w18">
 <src.rf>manual</src.rf>
@@ -763,7 +763,7 @@
 <LM>w#w-ln95040-051-p2s4w24</LM>
 </w.rf>
 <form>umění</form>
-<tag lemma="umění_^(mít_schopnost_něco_dělat)_(*2t)" src="orig" selected="1">NNNS3-----A----</tag>
+<tag lemma="umění_^(*2t)" src="orig" selected="1">NNNS3-----A----</tag>
 </m>
 <m id="m-ln95040-051-p2s4w25">
 <src.rf>manual</src.rf>

@@ -323,7 +323,7 @@
 <LM>w#w-ln95049-057-p2s2w5</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln95049-057-p2s2w6">
 <src.rf>manual</src.rf>
@@ -826,7 +826,7 @@
 <LM>w#w-ln95049-057-p3s2w20</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8YP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8YP4---------1</tag>
 </m>
 <m id="m-ln95049-057-p3s2w21">
 <src.rf>manual</src.rf>

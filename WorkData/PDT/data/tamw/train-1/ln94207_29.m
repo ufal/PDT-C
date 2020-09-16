@@ -35,7 +35,7 @@
 <LM>w#w-ln94207-29-p1s1w3</LM>
 </w.rf>
 <form>Falklandy</form>
-<tag lemma="Falklandy_;G" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="Falklandy-2_;G" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-ln94207-29-p1s1w4">
 <src.rf>manual</src.rf>

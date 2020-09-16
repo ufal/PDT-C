@@ -321,7 +321,7 @@
 <LM>w#w-ln94210-20-p2s2w10</LM>
 </w.rf>
 <form>dny</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-ln94210-20-p2s2w11">
 <src.rf>manual</src.rf>
@@ -427,7 +427,7 @@
 <LM>w#w-ln94210-20-p2s3w1</LM>
 </w.rf>
 <form>Delší</form>
-<tag lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">AAIS1----2A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAIS1----2A----</tag>
 </m>
 <m id="m-ln94210-20-p2s3w2">
 <src.rf>manual</src.rf>

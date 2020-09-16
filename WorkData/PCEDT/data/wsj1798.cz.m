@@ -82,7 +82,7 @@
 </w.rf>
 <form>dítě</form>
 <tag>
-<AM lemma="dítě" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="dítě-1" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="dítě" src="auto">NNNS4-----A----</AM>
 <AM lemma="dítě" src="auto">NNNS5-----A----</AM>
 </tag>
@@ -574,7 +574,7 @@
 </w.rf>
 <form>Pat</form>
 <tag>
-<AM lemma="Pat_;Y" src="auto" selected="1">NNMS1-----A----</AM>
+<AM lemma="Pat-1_;Y" src="auto" selected="1">NNMS1-----A----</AM>
 <AM lemma="Pat_;Y" src="auto">NNFXX-----A----</AM>
 <AM lemma="pat" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="pat" src="auto">NNIS4-----A----</AM>

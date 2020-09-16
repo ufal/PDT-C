@@ -100,7 +100,7 @@
 <LM>w#w-mf930713-136-p2s1Bw2</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-mf930713-136-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -214,7 +214,7 @@
 <LM>w#w-mf930713-136-p2s2w2</LM>
 </w.rf>
 <form>výbor</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930713-136-p2s2w3">
 <src.rf>manual</src.rf>
@@ -289,7 +289,7 @@
 <tag>
 <AM lemma="Horka_;G" src="orig">NNFS6-----A----</AM>
 <AM lemma="horka_;G_^(menší_hora)" src="auto">NNFS3-----A----</AM>
-<AM lemma="horka_;G_^(menší_hora)" src="auto" recommended="1" selected="1">NNFS6-----A----</AM>
+<AM lemma="horka_^(menší_hora)" src="auto" recommended="1" selected="1">NNFS6-----A----</AM>
 <AM lemma="horce" src="auto">Db-------------</AM>
 </tag>
 </m>
@@ -655,7 +655,7 @@
 <tag>
 <AM lemma="Horka_;G" src="orig">NNFS6-----A----</AM>
 <AM lemma="horka_;G_^(menší_hora)" src="auto">NNFS3-----A----</AM>
-<AM lemma="horka_;G_^(menší_hora)" src="auto" recommended="1" selected="1">NNFS6-----A----</AM>
+<AM lemma="horka_^(menší_hora)" src="auto" recommended="1" selected="1">NNFS6-----A----</AM>
 <AM lemma="horce" src="auto">Db-------------</AM>
 </tag>
 </m>
@@ -814,7 +814,7 @@
 <LM>w#w-mf930713-136-p2s6w6</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930713-136-p2s6w7">
 <src.rf>manual</src.rf>

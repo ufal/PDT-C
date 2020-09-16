@@ -77,7 +77,7 @@
 <LM>w#w-lnd92259-100-p2s1w6</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFP1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFP1----------</tag>
 </m>
 <m id="m-lnd92259-100-p2s1w7">
 <src.rf>manual</src.rf>
@@ -376,7 +376,7 @@
 <LM>w#w-lnd92259-100-p4s6w1</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrNS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS1----------</tag>
 </m>
 <m id="m-lnd92259-100-p4s6w2">
 <src.rf>manual</src.rf>
@@ -688,7 +688,7 @@
 <LM>w#w-lnd92259-100-p4s12w1</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrNS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS1----------</tag>
 </m>
 <m id="m-lnd92259-100-p4s12w2">
 <src.rf>manual</src.rf>
@@ -1077,7 +1077,7 @@
 <LM>w#w-lnd92259-100-p4s17w3</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrNS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS1----------</tag>
 </m>
 <m id="m-lnd92259-100-p4s17w4">
 <src.rf>manual</src.rf>

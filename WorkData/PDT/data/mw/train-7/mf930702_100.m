@@ -273,7 +273,7 @@
 <LM>w#w-mf930702-100-p10s1w2</LM>
 </w.rf>
 <form>Cesty</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-mf930702-100-p10s1w3">
 <src.rf>manual</src.rf>
@@ -437,7 +437,7 @@
 <LM>w#w-mf930702-100-p12s1w4</LM>
 </w.rf>
 <form>vás</form>
-<tag lemma="ty" src="orig" selected="1">PP-P4--2-------</tag>
+<tag lemma="vy" src="orig" selected="1">PP-P4--2-------</tag>
 </m>
 </s>
 <s id="m-mf930702-100-p13s1">
@@ -619,7 +619,7 @@
 <LM>w#w-mf930702-100-p19s1w2</LM>
 </w.rf>
 <form>Druhá</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS1----------</tag>
 </m>
 <m id="m-mf930702-100-p19s1w3">
 <src.rf>manual</src.rf>
@@ -884,7 +884,7 @@
 <LM>w#w-mf930702-100-p25s1w4</LM>
 </w.rf>
 <form>aerobic</form>
-<tag lemma="aerobic" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="aerobic_,s_^(^DD**aerobik)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 </s>
 <s id="m-mf930702-100-p26s1">
@@ -1012,7 +1012,7 @@
 <LM>w#w-mf930702-100-p29s1w2</LM>
 </w.rf>
 <form>Události</form>
-<tag lemma="událost_,a_^(*3ý)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="událost" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-mf930702-100-p29s1w3">
 <src.rf>manual</src.rf>
@@ -1133,7 +1133,7 @@
 <LM>w#w-mf930702-100-p32s1w2</LM>
 </w.rf>
 <form>Události</form>
-<tag lemma="událost_,a_^(*3ý)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="událost" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-mf930702-100-p32s1w3">
 <src.rf>manual</src.rf>
@@ -1477,7 +1477,7 @@
 <LM>w#w-mf930702-100-p41s1w2</LM>
 </w.rf>
 <form>Události</form>
-<tag lemma="událost_,a_^(*3ý)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="událost" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-mf930702-100-p41s1w3">
 <src.rf>manual</src.rf>
@@ -1531,7 +1531,7 @@
 <LM>w#w-mf930702-100-p43s1w2</LM>
 </w.rf>
 <form>Oko</form>
-<tag lemma="oko" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="oko-1" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf930702-100-p43s1w3">
 <src.rf>manual</src.rf>
@@ -1614,7 +1614,7 @@
 <LM>w#w-mf930702-100-p44s1w6</LM>
 </w.rf>
 <form>pilotech</form>
-<tag lemma="pilot" src="orig" selected="1">NNMP6-----A----</tag>
+<tag lemma="pilot-1" src="orig" selected="1">NNMP6-----A----</tag>
 </m>
 <m id="m-mf930702-100-p44s1w7">
 <src.rf>manual</src.rf>
@@ -1672,7 +1672,7 @@
 <LM>w#w-mf930702-100-p45s1w3</LM>
 </w.rf>
 <form>dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 </s>
 <s id="m-mf930702-100-p46s1">
@@ -1690,7 +1690,7 @@
 <LM>w#w-mf930702-100-p46s1w2</LM>
 </w.rf>
 <form>Fantom</form>
-<tag lemma="fantom" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="fantom-2_,s_^(^DD**fantóm-2)" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-100-p46s1w3">
 <src.rf>manual</src.rf>
@@ -2089,7 +2089,7 @@
 <LM>w#w-mf930702-100-p57s1w3</LM>
 </w.rf>
 <form>dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 </s>
 <s id="m-mf930702-100-p58s1">
@@ -2326,7 +2326,7 @@
 <LM>w#w-mf930702-100-p66s1w4</LM>
 </w.rf>
 <form>vás</form>
-<tag lemma="ty" src="orig" selected="1">PP-P2--2-------</tag>
+<tag lemma="vy" src="orig" selected="1">PP-P2--2-------</tag>
 </m>
 <m id="m-mf930702-100-p66s1w5">
 <src.rf>manual</src.rf>
@@ -2717,7 +2717,7 @@
 <LM>w#w-mf930702-100-p77s1w2</LM>
 </w.rf>
 <form>Wimbledon</form>
-<tag lemma="Wimbledon-2_^(tenis._turnaj)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Wimbledon" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930702-100-p77s1w3">
 <src.rf>manual</src.rf>
@@ -3383,7 +3383,7 @@
 <LM>w#w-mf930702-100-p86s1w23</LM>
 </w.rf>
 <form>Bílý</form>
-<tag lemma="bílý" src="orig" selected="1">AAMS1----1A----</tag>
+<tag lemma="bílý_;o" src="orig" selected="1">AAMS1----1A----</tag>
 </m>
 <m id="m-mf930702-100-p86s1w24">
 <src.rf>manual</src.rf>
@@ -3423,7 +3423,7 @@
 <LM>w#w-mf930702-100-p86s1w28</LM>
 </w.rf>
 <form>děti</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-mf930702-100-p86s1w29">
 <src.rf>manual</src.rf>
@@ -3538,7 +3538,7 @@
 <LM>w#w-mf930702-100-p86s1w42</LM>
 </w.rf>
 <form>Yorku</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="York-2_;G_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 </s>
 </mdata>

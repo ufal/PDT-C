@@ -274,7 +274,7 @@
 <LM>w#w-mf920925-005-p2s2w1</LM>
 </w.rf>
 <form>Druhý</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS4----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS4----------</tag>
 </m>
 <m id="m-mf920925-005-p2s2w2">
 <src.rf>manual</src.rf>
@@ -476,7 +476,7 @@
 <LM>w#w-mf920925-005-p3s1w13</LM>
 </w.rf>
 <form>právo</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-mf920925-005-p3s1w14">
 <src.rf>manual</src.rf>
@@ -1013,7 +1013,7 @@
 <LM>w#w-mf920925-005-p5s1w21</LM>
 </w.rf>
 <form>vyhlášením</form>
-<tag lemma="vyhlášení_,a_^(*4sit)" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="vyhlášení_^(*2t)_(*4sit)" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-mf920925-005-p5s1w22">
 <src.rf>manual</src.rf>
@@ -1191,7 +1191,7 @@
 <LM>w#w-mf920925-005-p5s2w8</LM>
 </w.rf>
 <form>činitel</form>
-<tag lemma="činitel" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="činitel-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-005-p5s2w9">
 <src.rf>manual</src.rf>
@@ -1478,7 +1478,7 @@
 <LM>w#w-mf920925-005-p6s2w8</LM>
 </w.rf>
 <form>napjaté</form>
-<tag lemma="napjatý_^(*4nout)" src="orig" selected="1">AAIP1----1A----</tag>
+<tag lemma="napjatý" src="orig" selected="1">AAIP1----1A----</tag>
 </m>
 <m id="m-mf920925-005-p6s2w9">
 <src.rf>manual</src.rf>
@@ -1526,7 +1526,7 @@
 <LM>w#w-mf920925-005-p6s2w14</LM>
 </w.rf>
 <form>dlouhé</form>
-<tag lemma="dlouhý-1_^(fyz._délka;_př._dlouhá_tyč)" src="orig" selected="1">AAFS2----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-mf920925-005-p6s2w15">
 <src.rf>manual</src.rf>
@@ -2055,7 +2055,7 @@
 <LM>w#w-mf920925-005-p7s2w9</LM>
 </w.rf>
 <form>vypjatá</form>
-<tag lemma="vypjatý_^(*4nout)" src="auto" selected="1">AANP1----1A----</tag>
+<tag lemma="vypjatý" src="auto" selected="1">AANP1----1A----</tag>
 </m>
 <m id="m-mf920925-005-p7s2w10">
 <src.rf>manual</src.rf>
@@ -2473,7 +2473,7 @@
 <LM>w#w-mf920925-005-p7s3w38</LM>
 </w.rf>
 <form>neschopnosti</form>
-<tag lemma="neschopnost_;U_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="neschopnost_^(odb._termín:_pracovní_n.)" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920925-005-p7s3w39">
 <src.rf>manual</src.rf>

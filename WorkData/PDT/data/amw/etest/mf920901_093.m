@@ -110,7 +110,7 @@
 <LM>w#w-mf920901-093-p3s1w2</LM>
 </w.rf>
 <form>Události</form>
-<tag lemma="událost_,a_^(*3ý)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="událost" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-mf920901-093-p3s1w3">
 <src.rf>manual</src.rf>
@@ -153,7 +153,7 @@
 <LM>w#w-mf920901-093-p4s1w3</LM>
 </w.rf>
 <form>dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 </s>
 <s id="m-mf920901-093-p5s1">
@@ -304,7 +304,7 @@
 <LM>w#w-mf920901-093-p9s1w3</LM>
 </w.rf>
 <form>dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 </s>
 <s id="m-mf920901-093-p10s1">
@@ -372,7 +372,7 @@
 <LM>w#w-mf920901-093-p11s1w3</LM>
 </w.rf>
 <form>dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 </s>
 <s id="m-mf920901-093-p12s1">
@@ -459,7 +459,7 @@
 <LM>w#w-mf920901-093-p13s1w3</LM>
 </w.rf>
 <form>dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 </s>
 <s id="m-mf920901-093-p14s1">
@@ -793,7 +793,7 @@
 <LM>w#w-mf920901-093-p24s1w2</LM>
 </w.rf>
 <form>Události</form>
-<tag lemma="událost_,a_^(*3ý)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="událost" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-mf920901-093-p24s1w3">
 <src.rf>manual</src.rf>
@@ -1279,7 +1279,7 @@
 <LM>w#w-mf920901-093-p40s1w2</LM>
 </w.rf>
 <form>Vega</form>
-<tag lemma="Vega-1_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Vega-2_;G" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-mf920901-093-p41s1">
@@ -1355,7 +1355,7 @@
 <LM>w#w-mf920901-093-p42s1w5</LM>
 </w.rf>
 <form>děti</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP5-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP5-----A----</tag>
 </m>
 </s>
 <s id="m-mf920901-093-p43s1">

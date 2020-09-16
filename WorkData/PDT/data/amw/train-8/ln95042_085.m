@@ -226,7 +226,7 @@
 <LM>w#w-ln95042-085-p2s1Bw18</LM>
 </w.rf>
 <form>Karolinu</form>
-<tag lemma="Karolínum" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="Karolinum_;G_;m" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-ln95042-085-p2s1Bw19">
 <src.rf>manual</src.rf>
@@ -786,7 +786,7 @@
 <LM>w#w-ln95042-085-p2s6w8</LM>
 </w.rf>
 <form>Karlova</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-ln95042-085-p2s6w9">
 <src.rf>manual</src.rf>
@@ -922,7 +922,7 @@
 <LM>w#w-ln95042-085-p2s6w25</LM>
 </w.rf>
 <form>členové</form>
-<tag lemma="člen" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln95042-085-p2s6w26">
 <src.rf>manual</src.rf>
@@ -1163,7 +1163,7 @@
 <LM>w#w-ln95042-085-p2s8w4</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-4_^(v_knize,_rukopise,...)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln95042-085-p2s8w5">
 <src.rf>manual</src.rf>

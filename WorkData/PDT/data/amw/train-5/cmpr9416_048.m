@@ -1337,7 +1337,7 @@
 <LM>w#w-cmpr9416-048-p7s1w7</LM>
 </w.rf>
 <form>MŮJ</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSYS1-S1-------</tag>
+<tag lemma="můj" src="orig" selected="1">PSYS1-S1-------</tag>
 </m>
 <m id="m-cmpr9416-048-p7s1w8">
 <src.rf>manual</src.rf>
@@ -1361,7 +1361,7 @@
 <LM>w#w-cmpr9416-048-p7s1w10</LM>
 </w.rf>
 <form>MŮJ</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSYS1-S1-------</tag>
+<tag lemma="můj" src="orig" selected="1">PSYS1-S1-------</tag>
 </m>
 <m id="m-cmpr9416-048-p7s1w11">
 <src.rf>manual</src.rf>
@@ -1627,7 +1627,7 @@
 <LM>w#w-cmpr9416-048-p7s3w10</LM>
 </w.rf>
 <form>vinici</form>
-<tag lemma="vinice_^(místo_pro_pěstování_vína)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="vinice_^(*3ík)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-cmpr9416-048-p7s3w11">
 <src.rf>manual</src.rf>
@@ -2460,7 +2460,7 @@
 <LM>w#w-cmpr9416-048-p10s1w34</LM>
 </w.rf>
 <form>stadion</form>
-<tag lemma="stadión" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="stadion_,s_^(^DD**stadión)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-048-p10s1w35">
 <src.rf>manual</src.rf>
@@ -2511,7 +2511,7 @@
 <LM>w#w-cmpr9416-048-p10s1w40</LM>
 </w.rf>
 <form>Černá</form>
-<tag lemma="černý" src="auto" selected="1">AAFS1----1A----</tag>
+<tag lemma="černý_;o" src="auto" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-cmpr9416-048-p10s1w41">
 <src.rf>manual</src.rf>
@@ -3061,7 +3061,7 @@
 <LM>w#w-cmpr9416-048-p13s1w7</LM>
 </w.rf>
 <form>Karlovy</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUFP1M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUFP1M---------</tag>
 </m>
 <m id="m-cmpr9416-048-p13s1w8">
 <src.rf>manual</src.rf>
@@ -3256,7 +3256,7 @@
 <LM>w#w-cmpr9416-048-p13s1w31</LM>
 </w.rf>
 <form>stadionu</form>
-<tag lemma="stadión" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="stadion_,s_^(^DD**stadión)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-cmpr9416-048-p13s1w32">
 <src.rf>manual</src.rf>
@@ -3288,7 +3288,7 @@
 <LM>w#w-cmpr9416-048-p13s1w35</LM>
 </w.rf>
 <form>Černá</form>
-<tag lemma="černý" src="auto" selected="1">AAFS1----1A----</tag>
+<tag lemma="černý_;o" src="auto" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-cmpr9416-048-p13s1w36">
 <src.rf>manual</src.rf>
@@ -3467,7 +3467,7 @@
 <LM>w#w-cmpr9416-048-p13s1w57</LM>
 </w.rf>
 <form>Valy</form>
-<tag lemma="Vala_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Vala-1_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9416-048-p13s1w58">
 <src.rf>manual</src.rf>

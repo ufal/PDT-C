@@ -33,7 +33,7 @@
 <form>Paj</form>
 <tag>
 <AM lemma="Paj_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="Paj-2_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Paj_;E_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-112-p1s1w3">
@@ -257,7 +257,7 @@
 <LM>w#w-ln94201-112-p2s1w24</LM>
 </w.rf>
 <form>tu</form>
-<tag lemma="tu" src="auto" selected="1">Db-------------</tag>
+<tag lemma="tu-1" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94201-112-p2s1w25">
 <src.rf>manual</src.rf>
@@ -521,7 +521,7 @@
 <LM>w#w-ln94201-112-p2s1w57</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94201-112-p2s1w58">
 <src.rf>manual</src.rf>
@@ -545,7 +545,7 @@
 <LM>w#w-ln94201-112-p2s1w60</LM>
 </w.rf>
 <form>žlutých</form>
-<tag lemma="žlutý" src="orig" selected="1">AAIP2----1A----</tag>
+<tag lemma="žlutý_;o" src="orig" selected="1">AAIP2----1A----</tag>
 </m>
 <m id="m-ln94201-112-p2s1w61">
 <src.rf>manual</src.rf>
@@ -609,7 +609,7 @@
 <LM>w#w-ln94201-112-p2s1w68</LM>
 </w.rf>
 <form>můj</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSYS1-S1-------</tag>
+<tag lemma="můj" src="orig" selected="1">PSYS1-S1-------</tag>
 </m>
 <m id="m-ln94201-112-p2s1w69">
 <src.rf>manual</src.rf>
@@ -843,7 +843,7 @@
 <LM>w#w-ln94201-112-p2s2w4</LM>
 </w.rf>
 <form>sympozia</form>
-<tag lemma="sympózium" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="sympozium" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln94201-112-p2s2w5">
 <src.rf>manual</src.rf>
@@ -875,7 +875,7 @@
 <LM>w#w-ln94201-112-p2s2w8</LM>
 </w.rf>
 <form>umění</form>
-<tag lemma="umění_^(mít_schopnost_něco_dělat)_(*2t)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="umění_^(*2t)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-ln94201-112-p2s2w9">
 <src.rf>manual</src.rf>
@@ -987,7 +987,7 @@
 <tag>
 <AM lemma="Paj_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="Paj_;E" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Paj-2_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Paj_;E_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-112-p2s2w22">

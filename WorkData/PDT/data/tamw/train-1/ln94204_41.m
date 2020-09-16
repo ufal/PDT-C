@@ -874,7 +874,7 @@
 <LM>w#w-ln94204-41-p2s5w5</LM>
 </w.rf>
 <form>vsetínské</form>
-<tag lemma="vsetínský_;G" src="orig" selected="1">AAFS2----1A----</tag>
+<tag lemma="vsetínský" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-ln94204-41-p2s5w6">
 <src.rf>manual</src.rf>
@@ -910,7 +910,7 @@
 <AM lemma="Jirků-1_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="Jirka_;Y" src="auto" recommended="1">NNMP2-----A----</AM>
 <AM lemma="Jirků_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Jirků_;Y" src="auto" selected="1">NNMXX-----A----</AM>
+<AM lemma="Jirků-1_;Y" src="auto" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-41-p2s5w10">

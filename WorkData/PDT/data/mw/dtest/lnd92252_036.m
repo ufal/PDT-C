@@ -655,7 +655,7 @@
 <LM>w#w-lnd92252-036-p5s2w14</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-lnd92252-036-p5s2w15">
 <src.rf>manual</src.rf>
@@ -995,7 +995,7 @@
 <LM>w#w-lnd92252-036-p6s1w13</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8YP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8YP4---------1</tag>
 </m>
 <m id="m-lnd92252-036-p6s1w14">
 <src.rf>manual</src.rf>
@@ -1189,7 +1189,7 @@
 <LM>w#w-lnd92252-036-p6s2w4</LM>
 </w.rf>
 <form>dal</form>
-<tag lemma="dát" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92252-036-p6s2w5">
 <src.rf>manual</src.rf>
@@ -1554,7 +1554,7 @@
 <LM>w#w-lnd92252-036-p7s1w26</LM>
 </w.rf>
 <form>agresívnímu</form>
-<tag lemma="agresívní" src="orig" selected="1">AAIS3----1A----</tag>
+<tag lemma="agresívní_,s_^(^DD**agresivní)" src="orig" selected="1">AAIS3----1A----</tag>
 </m>
 <m id="m-lnd92252-036-p7s1w27">
 <src.rf>manual</src.rf>

@@ -185,7 +185,7 @@
 <LM>w#w-mf920901-100-p2s2w6</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FP4---------1</tag>
 </m>
 <m id="m-mf920901-100-p2s2w7">
 <src.rf>manual</src.rf>

@@ -689,7 +689,7 @@
 <LM>w#w-mf920922-115-p3s3w14</LM>
 </w.rf>
 <form>Evropě</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf920922-115-p3s3w15">
 <src.rf>manual</src.rf>
@@ -1043,7 +1043,7 @@
 <LM>w#w-mf920922-115-p3s4w23</LM>
 </w.rf>
 <form>extremistickou</form>
-<tag lemma="extremistický" src="orig" selected="1">AAFS4----1A----</tag>
+<tag lemma="extremistický_,s_^(^DD**extrémistický)" src="orig" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-mf920922-115-p3s4w24">
 <src.rf>manual</src.rf>

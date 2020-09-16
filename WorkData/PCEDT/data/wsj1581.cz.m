@@ -1103,7 +1103,7 @@
 <form>Foley</form>
 <tag>
 <AM lemma="Foley-1_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Foley-2_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Foley-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Foley-2_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Foley-2_;Y" src="auto">NNMXX-----A----</AM>
 <AM lemma="Foley-3_;G_,t_^(v_názvu_Foley_Island)" src="auto">AAXXX----1A----</AM>
@@ -2057,7 +2057,7 @@
 <AM lemma="první" src="auto">CrFP3----------</AM>
 <AM lemma="první" src="auto">CrIP3----------</AM>
 <AM lemma="první" src="auto">CrIS6----------</AM>
-<AM lemma="první" src="auto" recommended="1">CrIS7----------</AM>
+<AM lemma="první-1" src="auto" recommended="1">CrIS7----------</AM>
 <AM lemma="první" src="auto">CrMP3----------</AM>
 <AM lemma="první" src="auto">CrMS6----------</AM>
 <AM lemma="první" src="auto">CrMS7----------</AM>

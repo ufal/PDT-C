@@ -473,7 +473,7 @@
 <LM>w#w-ln95040-147-p4s1w8</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-ln95040-147-p4s1w9">
 <src.rf>manual</src.rf>
@@ -777,7 +777,7 @@
 <LM>w#w-ln95040-147-p4s2w4</LM>
 </w.rf>
 <form>Doubrava</form>
-<tag lemma="Doubrava_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Doubrava-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-147-p4s2w5">
 <src.rf>manual</src.rf>
@@ -984,7 +984,7 @@
 <LM>w#w-ln95040-147-p5s1w7</LM>
 </w.rf>
 <form>orgánu</form>
-<tag lemma="orgán" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln95040-147-p5s1w8">
 <src.rf>manual</src.rf>
@@ -1064,7 +1064,7 @@
 <LM>w#w-ln95040-147-p5s1w17</LM>
 </w.rf>
 <form>Doubrava</form>
-<tag lemma="Doubrava_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Doubrava-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-147-p5s1w18">
 <src.rf>manual</src.rf>
@@ -1072,7 +1072,7 @@
 <LM>w#w-ln95040-147-p5s1w18</LM>
 </w.rf>
 <form>Maškův</form>
-<tag lemma="Maškův_;Y_^(*3ek)" src="orig" selected="1">AUIS4M---------</tag>
+<tag lemma="Maškův_;Y_^(*2a)_(*3ek)" src="orig" selected="1">AUIS4M---------</tag>
 </m>
 <m id="m-ln95040-147-p5s1w19">
 <src.rf>manual</src.rf>
@@ -1088,7 +1088,7 @@
 <LM>w#w-ln95040-147-p5s1w20</LM>
 </w.rf>
 <form>Severův</form>
-<tag lemma="Severův_;Y_^(*2a)" src="orig" selected="1">AUIS4M---------</tag>
+<tag lemma="Severův_;Y_^(*2a)_(*2us)" src="orig" selected="1">AUIS4M---------</tag>
 </m>
 <m id="m-ln95040-147-p5s1w21">
 <src.rf>manual</src.rf>
@@ -1400,7 +1400,7 @@
 <LM>w#w-ln95040-147-p5s4w3</LM>
 </w.rf>
 <form>členů</form>
-<tag lemma="člen" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln95040-147-p5s4w4">
 <src.rf>manual</src.rf>
@@ -1408,7 +1408,7 @@
 <LM>w#w-ln95040-147-p5s4w4</LM>
 </w.rf>
 <form>orgánu</form>
-<tag lemma="orgán" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95040-147-p5s4w5">
 <src.rf>manual</src.rf>
@@ -1448,7 +1448,7 @@
 <LM>w#w-ln95040-147-p5s4w9</LM>
 </w.rf>
 <form>stadiu</form>
-<tag lemma="stadium" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="stadium_,s_^(^DD**stádium)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-ln95040-147-p5s4w10">
 <src.rf>manual</src.rf>
@@ -1536,7 +1536,7 @@
 <LM>w#w-ln95040-147-p5s4w20</LM>
 </w.rf>
 <form>Doubrava</form>
-<tag lemma="Doubrava_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Doubrava-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-147-p5s4w21">
 <src.rf>manual</src.rf>
@@ -1743,7 +1743,7 @@
 <form>extrémistických</form>
 <tag>
 <AM lemma="extrémistický" src="orig">AAFP6----1A----</AM>
-<AM lemma="extrémistický_,s_^(^DD**extremistický)" src="manual" selected="1">AAFP6----1A----</AM>
+<AM lemma="extrémistický" src="manual" selected="1">AAFP6----1A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-147-p5s5w26">

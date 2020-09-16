@@ -77,7 +77,7 @@
 <LM>w#w-ln95044-053-p2s1w3</LM>
 </w.rf>
 <form>Marie</form>
-<tag lemma="Marie-1_;Y" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Marie_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95044-053-p2s1w4">
 <src.rf>manual</src.rf>
@@ -231,7 +231,7 @@
 <LM>w#w-ln95044-053-p3s1w1</LM>
 </w.rf>
 <form>Svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-ln95044-053-p3s1w2">
 <src.rf>manual</src.rf>
@@ -566,7 +566,7 @@
 <LM>w#w-ln95044-053-p4s1w4</LM>
 </w.rf>
 <form>tapisérií</form>
-<tag lemma="tapisérie" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="tapisérie_,s_^(^DD**tapiserie)" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-ln95044-053-p4s1w5">
 <src.rf>manual</src.rf>

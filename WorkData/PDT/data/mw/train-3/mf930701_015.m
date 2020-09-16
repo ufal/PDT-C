@@ -498,7 +498,7 @@
 <LM>w#w-mf930701-015-p2s1w2</LM>
 </w.rf>
 <form>trabantu</form>
-<tag lemma="trabant_;m" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="trabant" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930701-015-p2s1w3">
 <src.rf>manual</src.rf>
@@ -645,7 +645,7 @@
 <LM>w#w-mf930701-015-p2s1w20</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS7----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS7----------</tag>
 </m>
 <m id="m-mf930701-015-p2s1w21">
 <src.rf>manual</src.rf>
@@ -858,7 +858,7 @@
 <AM lemma="Trabant-2_;m_^(vozidlo)" src="orig">NNIS6-----A----</AM>
 <AM lemma="trabant_;m" src="auto">NNIS2-----A----</AM>
 <AM lemma="trabant_;m" src="auto">NNIS3-----A----</AM>
-<AM lemma="trabant_;m" src="auto" recommended="1" selected="1">NNIS6-----A----</AM>
+<AM lemma="trabant" src="auto" recommended="1" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-015-p2s4w4">

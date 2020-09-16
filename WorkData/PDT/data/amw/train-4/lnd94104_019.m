@@ -98,7 +98,7 @@
 <LM>w#w-lnd94104-019-p1s3w3</LM>
 </w.rf>
 <form>pozornost</form>
-<tag lemma="pozornost-1_^(všímavý,_milý,_soustředěný)_(*5ý-1)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="pozornost-1_^(*5ý-1)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-lnd94104-019-p1s3w4">
 <src.rf>manual</src.rf>
@@ -106,7 +106,7 @@
 <LM>w#w-lnd94104-019-p1s3w4</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP3----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP3----------</tag>
 </m>
 <m id="m-lnd94104-019-p1s3w5">
 <src.rf>manual</src.rf>
@@ -218,7 +218,7 @@
 <LM>w#w-lnd94104-019-p1s3w18</LM>
 </w.rf>
 <form>Hnutí</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-lnd94104-019-p1s3w19">
 <src.rf>manual</src.rf>
@@ -850,7 +850,7 @@
 <form>Haliburton</form>
 <tag>
 <AM lemma="Haliburton_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Haliburton_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Haliburton-2_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-019-p1s5w33">

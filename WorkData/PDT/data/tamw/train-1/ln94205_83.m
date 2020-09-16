@@ -393,7 +393,7 @@
 <LM>w#w-ln94205-83-p2s3w2</LM>
 </w.rf>
 <form>soudkyně</form>
-<tag lemma="soudkyně_^(člověk,_který_soudí)_(*4ce)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="soudkyně_^(*4ce)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94205-83-p2s3w3">
 <src.rf>manual</src.rf>
@@ -417,7 +417,7 @@
 <LM>w#w-ln94205-83-p2s3w5</LM>
 </w.rf>
 <form>zatčené</form>
-<tag lemma="zatčený_^(*4knout)" src="orig" selected="1">AAFS3----1A----</tag>
+<tag lemma="zatčený" src="orig" selected="1">AAFS3----1A----</tag>
 </m>
 <m id="m-ln94205-83-p2s3w6">
 <src.rf>manual</src.rf>
@@ -851,7 +851,7 @@
 <LM>w#w-ln94205-83-p2s5w10</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-ln94205-83-p2s5w11">
 <src.rf>manual</src.rf>
@@ -867,7 +867,7 @@
 <LM>w#w-ln94205-83-p2s5w12</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94205-83-p2s5w13">
 <src.rf>manual</src.rf>

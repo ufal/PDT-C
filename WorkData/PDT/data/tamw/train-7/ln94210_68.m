@@ -420,7 +420,7 @@
 <LM>w#w-ln94210-68-p3s1w4</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS6---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS6---------1</tag>
 </m>
 <m id="m-ln94210-68-p3s1w5">
 <src.rf>manual</src.rf>
@@ -1003,7 +1003,7 @@
 <LM>w#w-ln94210-68-p3s4w1</LM>
 </w.rf>
 <form>Miroslav</form>
-<tag lemma="Miroslav_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Miroslav-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-68-p3s4w2">
 <src.rf>manual</src.rf>
@@ -1247,7 +1247,7 @@
 <LM>w#w-ln94210-68-p3s4w30</LM>
 </w.rf>
 <form>členové</form>
-<tag lemma="člen" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln94210-68-p3s4w31">
 <src.rf>manual</src.rf>
@@ -1690,7 +1690,7 @@
 </w.rf>
 <form>Dejvická</form>
 <tag>
-<AM lemma="Dejvická_;G" src="orig" selected="1">AAFS1----1A----</AM>
+<AM lemma="dejvický" src="orig" selected="1">AAFS1----1A----</AM>
 <AM lemma="dejvický" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="dejvický" src="auto">AAFS5----1A----</AM>
 <AM lemma="dejvický" src="auto">AANP1----1A----</AM>
@@ -2000,7 +2000,7 @@
 <LM>w#w-ln94210-68-p3s8w36</LM>
 </w.rf>
 <form>lahví</form>
-<tag lemma="lahev" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="lahev_,s_^(^DD**láhev)" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln94210-68-p3s8w37">
 <src.rf>manual</src.rf>

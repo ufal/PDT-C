@@ -241,7 +241,7 @@
 <LM>w#w-lnd94105-023-p1s4w7</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd94105-023-p1s4w8">
 <src.rf>manual</src.rf>

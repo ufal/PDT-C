@@ -718,7 +718,7 @@
 </w.rf>
 <form>Basta</form>
 <tag>
-<AM lemma="Basta_;G" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="Basta-1_;G" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="basta" src="auto" recommended="1">II-------------</AM>
 </tag>
 </m>
@@ -776,7 +776,7 @@
 <LM>w#w-lnd91303-105-p4s5w12</LM>
 </w.rf>
 <form>hodně</form>
-<tag lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto" selected="1">Dg-------1A----</tag>
+<tag lemma="hodně_^(*1ý)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd91303-105-p4s5w13">
 <src.rf>manual</src.rf>

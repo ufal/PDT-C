@@ -718,7 +718,7 @@
 <form>Laska</form>
 <tag>
 <AM lemma="Laska-1_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Laska-1_;Y_;m" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Laska-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-019-p3s2w34">
@@ -761,7 +761,7 @@
 <form>Berkel</form>
 <tag>
 <AM lemma="Berkel_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Berkel_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Berkel-2_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-019-p3s2w39">

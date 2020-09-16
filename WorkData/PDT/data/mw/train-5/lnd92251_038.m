@@ -134,7 +134,7 @@
 <LM>w#w-lnd92251-038-p1s1w15</LM>
 </w.rf>
 <form>co</form>
-<tag lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="co-5_^(př._co_nejméně,_co_nevidět_atd.)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd92251-038-p1s1w16">
 <src.rf>manual</src.rf>
@@ -498,7 +498,7 @@
 <LM>w#w-lnd92251-038-p2s1w20</LM>
 </w.rf>
 <form>wehrmachtu</form>
-<tag lemma="wehrmacht_,s" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="wehrmacht" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92251-038-p2s1w21">
 <src.rf>manual</src.rf>
@@ -645,7 +645,7 @@
 <LM>w#w-lnd92251-038-p2s1w38</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-lnd92251-038-p2s1w39">
 <src.rf>manual</src.rf>
@@ -911,7 +911,7 @@
 <LM>w#w-lnd92251-038-p3s1w30</LM>
 </w.rf>
 <form>Dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92251-038-p3s1w31">
 <src.rf>manual</src.rf>

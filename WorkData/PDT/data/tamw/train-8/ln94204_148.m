@@ -250,7 +250,7 @@
 <LM>w#w-ln94204-148-p2s1w24</LM>
 </w.rf>
 <form>druhým</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS7----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS7----------</tag>
 </m>
 <m id="m-ln94204-148-p2s1w25">
 <src.rf>manual</src.rf>
@@ -404,7 +404,7 @@
 <LM>w#w-ln94204-148-p2s3w7</LM>
 </w.rf>
 <form>člen</form>
-<tag lemma="člen" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-148-p2s3w8">
 <src.rf>manual</src.rf>
@@ -495,7 +495,7 @@
 <LM>w#w-ln94204-148-p2s3w17</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS7---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS7---------1</tag>
 </m>
 <m id="m-ln94204-148-p2s3w18">
 <src.rf>manual</src.rf>
@@ -805,7 +805,7 @@
 <LM>w#w-ln94204-148-p2s5w24</LM>
 </w.rf>
 <form>Szarvas</form>
-<tag lemma="Szarvas_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Szarvas-1_;G" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94204-148-p2s5w25">
 <src.rf>manual</src.rf>

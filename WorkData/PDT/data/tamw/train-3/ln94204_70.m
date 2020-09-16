@@ -280,7 +280,7 @@
 <LM>w#w-ln94204-70-p2s1Bw21</LM>
 </w.rf>
 <form>Vysokého</form>
-<tag lemma="Vysoký-2_;G" src="orig" selected="1">AANS2----1A----</tag>
+<tag lemma="vysoký" src="orig" selected="1">AANS2----1A----</tag>
 </m>
 <m id="m-ln94204-70-p2s1Bw22">
 <src.rf>manual</src.rf>
@@ -913,7 +913,7 @@
 <LM>w#w-ln94204-70-p2s5w22</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94204-70-p2s5w23">
 <src.rf>manual</src.rf>
@@ -975,7 +975,7 @@
 <LM>w#w-ln94204-70-p2s5w29</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-70-p2s5w30">
 <src.rf>manual</src.rf>

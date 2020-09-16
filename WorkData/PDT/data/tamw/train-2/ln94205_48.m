@@ -1840,7 +1840,7 @@
 <LM>w#w-ln94205-48-p5s4w22</LM>
 </w.rf>
 <form>lidem</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP3-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP3-----A----</tag>
 </m>
 <m id="m-ln94205-48-p5s4w23">
 <src.rf>manual</src.rf>
@@ -2153,7 +2153,7 @@
 <LM>w#w-ln94205-48-p6s2w7</LM>
 </w.rf>
 <form>zpomalením</form>
-<tag lemma="zpomalení_,s_^(*2t)" src="auto" selected="1">NNNS7-----A----</tag>
+<tag lemma="zpomalení_^(*2t)_(*3it)" src="auto" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-ln94205-48-p6s2w8">
 <src.rf>manual</src.rf>

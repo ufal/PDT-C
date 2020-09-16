@@ -340,7 +340,7 @@
 <LM>w#w-lnd92251-045-p4s1w2</LM>
 </w.rf>
 <form>Výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92251-045-p4s1w3">
 <src.rf>manual</src.rf>
@@ -1008,7 +1008,7 @@
 <LM>w#w-lnd92251-045-p5s1w3</LM>
 </w.rf>
 <form>prostředky</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-lnd92251-045-p5s1w4">
 <src.rf>manual</src.rf>
@@ -1288,7 +1288,7 @@
 <LM>w#w-lnd92251-045-p5s2w14</LM>
 </w.rf>
 <form>tajné</form>
-<tag lemma="tajný" src="orig" selected="1">AAFS6----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AAFS6----1A----</tag>
 </m>
 <m id="m-lnd92251-045-p5s2w15">
 <src.rf>manual</src.rf>

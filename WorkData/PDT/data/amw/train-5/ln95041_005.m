@@ -1186,7 +1186,7 @@
 <LM>w#w-ln95041-005-p3s1w10</LM>
 </w.rf>
 <form>impulsu</form>
-<tag lemma="impuls" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="impuls_,s_^(^DD**impulz)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95041-005-p3s1w11">
 <src.rf>manual</src.rf>
@@ -2156,7 +2156,7 @@
 <LM>w#w-ln95041-005-p5s2w12</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS2---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS2---------1</tag>
 </m>
 <m id="m-ln95041-005-p5s2w13">
 <src.rf>manual</src.rf>
@@ -2172,7 +2172,7 @@
 <LM>w#w-ln95041-005-p5s2w14</LM>
 </w.rf>
 <form>politiky</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95041-005-p5s2w15">
 <src.rf>manual</src.rf>
@@ -2252,7 +2252,7 @@
 <LM>w#w-ln95041-005-p5s2w24</LM>
 </w.rf>
 <form>prvních</form>
-<tag lemma="první" src="orig" selected="1">CrIP2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIP2----------</tag>
 </m>
 <m id="m-ln95041-005-p5s2w25">
 <src.rf>manual</src.rf>
@@ -2683,7 +2683,7 @@
 <LM>w#w-ln95041-005-p6s2w20</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95041-005-p6s2w21">
 <src.rf>manual</src.rf>

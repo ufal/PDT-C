@@ -219,7 +219,7 @@
 <LM>w#w-mf930701-067-p1s1w26</LM>
 </w.rf>
 <form>členy</form>
-<tag lemma="člen" src="orig" selected="1">NNMP7-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-mf930701-067-p1s1w27">
 <src.rf>manual</src.rf>
@@ -458,7 +458,7 @@
 <LM>w#w-mf930701-067-p1s3w3</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-mf930701-067-p1s3w4">
 <src.rf>manual</src.rf>

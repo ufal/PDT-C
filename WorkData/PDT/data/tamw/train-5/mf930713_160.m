@@ -247,7 +247,7 @@
 <LM>w#w-mf930713-160-p2s1Bw21</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-mf930713-160-p2s1Bw22">
 <src.rf>manual</src.rf>
@@ -380,7 +380,7 @@
 <LM>w#w-mf930713-160-p2s2w13</LM>
 </w.rf>
 <form>nebrání</form>
-<tag lemma="bránit_^(klást_překážky)" src="auto" selected="1">VB-S---3P-NAI--</tag>
+<tag lemma="bránit" src="auto" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-mf930713-160-p2s2w14">
 <src.rf>manual</src.rf>
@@ -646,7 +646,7 @@
 <LM>w#w-mf930713-160-p2s3w27</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-mf930713-160-p2s3w28">
 <src.rf>manual</src.rf>

@@ -35,7 +35,7 @@
 <LM>w#w-lnd94103-065-p1s1w3</LM>
 </w.rf>
 <form>ukazatele</form>
-<tag lemma="ukazatel" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="ukazatel-1" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-lnd94103-065-p1s1w4">
 <src.rf>manual</src.rf>

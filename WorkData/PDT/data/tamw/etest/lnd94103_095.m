@@ -19,7 +19,7 @@
 <LM>w#w-lnd94103-095-p1s1w1</LM>
 </w.rf>
 <form>Zlaté</form>
-<tag lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAFP1----1A----</tag>
+<tag lemma="zlatý-1_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAFP1----1A----</tag>
 </m>
 <m id="m-lnd94103-095-p1s1w2">
 <src.rf>manual</src.rf>
@@ -701,7 +701,7 @@
 <LM>w#w-lnd94103-095-p1s1w80</LM>
 </w.rf>
 <form>Sophie</form>
-<tag lemma="Sofie-2_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sophie_;Y_,s_^(^DD**Sofie)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94103-095-p1s1w81">
 <src.rf>manual</src.rf>
@@ -1147,7 +1147,7 @@
 <LM>w#w-lnd94103-095-p1s1w131</LM>
 </w.rf>
 <form>varhany</form>
-<tag lemma="varhany" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="varhany-1" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-lnd94103-095-p1s1w132">
 <src.rf>manual</src.rf>

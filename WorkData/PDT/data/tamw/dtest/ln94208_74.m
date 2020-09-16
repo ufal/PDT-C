@@ -255,7 +255,7 @@
 <LM>w#w-ln94208-74-p2s1Bw23</LM>
 </w.rf>
 <form>Čchien</form>
-<tag lemma="Čchien_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Čchien-2_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-74-p2s1Bw24">
 <src.rf>manual</src.rf>
@@ -618,7 +618,7 @@
 <LM>w#w-ln94208-74-p2s2w39</LM>
 </w.rf>
 <form>Ťiang</form>
-<tag lemma="Ťiang_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ťiang-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94208-74-p2s2w40">
 <src.rf>manual</src.rf>

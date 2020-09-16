@@ -59,7 +59,7 @@
 <LM>w#w-lnd92257-038-p1s1w6</LM>
 </w.rf>
 <form>prvních</form>
-<tag lemma="první" src="orig" selected="1">CrFP6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFP6----------</tag>
 </m>
 <m id="m-lnd92257-038-p1s1w7">
 <src.rf>manual</src.rf>
@@ -107,7 +107,7 @@
 <LM>w#w-lnd92257-038-p1s1w12</LM>
 </w.rf>
 <form>děti</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-lnd92257-038-p1s1w13">
 <src.rf>manual</src.rf>

@@ -19,7 +19,7 @@
 <LM>w#w-ln95046-042-p1s1w1</LM>
 </w.rf>
 <form>Zatčení</form>
-<tag lemma="zatčení_^(*4knout)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="zatčení" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95046-042-p1s1w2">
 <src.rf>manual</src.rf>

@@ -79,7 +79,7 @@
 <LM>w#w-mf920901-044-p2s2w3</LM>
 </w.rf>
 <form>mluvčího</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920901-044-p2s2w4">
 <src.rf>manual</src.rf>
@@ -122,7 +122,7 @@
 <LM>w#w-mf920901-044-p2s2w8</LM>
 </w.rf>
 <form>Ventury</form>
-<tag lemma="Ventura_;Y" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Ventura-2_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920901-044-p2s2w9">
 <src.rf>manual</src.rf>
@@ -146,7 +146,7 @@
 <LM>w#w-mf920901-044-p2s2w11</LM>
 </w.rf>
 <form>činitelů</form>
-<tag lemma="činitel" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="činitel-1" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf920901-044-p2s2w12">
 <src.rf>manual</src.rf>

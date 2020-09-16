@@ -71,7 +71,7 @@
 <LM>w#w-ln94204-109-p2s1Bw2</LM>
 </w.rf>
 <form>jezdec</form>
-<tag lemma="jezdec" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="jezdec-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-109-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -151,7 +151,7 @@
 <LM>w#w-ln94204-109-p2s1Bw12</LM>
 </w.rf>
 <form>pilot</form>
-<tag lemma="pilot" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="pilot-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-109-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -223,7 +223,7 @@
 <LM>w#w-ln94204-109-p2s1Bw21</LM>
 </w.rf>
 <form>druhého</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS2----------</tag>
 </m>
 <m id="m-ln94204-109-p2s1Bw22">
 <src.rf>manual</src.rf>
@@ -714,7 +714,7 @@
 <LM>w#w-ln94204-109-p2s2w41</LM>
 </w.rf>
 <form>daný</form>
-<tag lemma="daný_^(*3át)" src="auto" selected="1">AAIS4----1A----</tag>
+<tag lemma="daný-1_^(*5át-1)" src="auto" selected="1">AAIS4----1A----</tag>
 </m>
 <m id="m-ln94204-109-p2s2w42">
 <src.rf>manual</src.rf>
@@ -722,7 +722,7 @@
 <LM>w#w-ln94204-109-p2s2w42</LM>
 </w.rf>
 <form>černou</form>
-<tag lemma="černý" src="auto" selected="1">AAFS7----1A----</tag>
+<tag lemma="černý_;o" src="auto" selected="1">AAFS7----1A----</tag>
 </m>
 <m id="m-ln94204-109-p2s2w43">
 <src.rf>manual</src.rf>

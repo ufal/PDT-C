@@ -99,7 +99,7 @@
 <LM>w#w-lnd91301-010-p1s1w11</LM>
 </w.rf>
 <form>tajné</form>
-<tag lemma="tajný" src="orig" selected="1">AAFS2----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-lnd91301-010-p1s1w12">
 <src.rf>manual</src.rf>

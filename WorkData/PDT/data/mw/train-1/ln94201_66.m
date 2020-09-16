@@ -157,7 +157,7 @@
 <LM>w#w-ln94201-66-p2s1w15</LM>
 </w.rf>
 <form>prostředky</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-ln94201-66-p2s1w16">
 <src.rf>manual</src.rf>
@@ -260,7 +260,7 @@
 <LM>w#w-ln94201-66-p2s3w5</LM>
 </w.rf>
 <form>orgán</form>
-<tag lemma="orgán" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94201-66-p2s3w6">
 <src.rf>manual</src.rf>

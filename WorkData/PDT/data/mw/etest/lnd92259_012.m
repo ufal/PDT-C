@@ -710,7 +710,7 @@
 <LM>w#w-lnd92259-012-p3s5w14</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-lnd92259-012-p3s5w15">
 <src.rf>manual</src.rf>

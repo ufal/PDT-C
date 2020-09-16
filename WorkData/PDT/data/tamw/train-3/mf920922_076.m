@@ -503,7 +503,7 @@
 <LM>w#w-mf920922-076-p2s3w6</LM>
 </w.rf>
 <form>našeho</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSZS2-P1-------</tag>
 </m>
 <m id="m-mf920922-076-p2s3w7">
 <src.rf>manual</src.rf>
@@ -511,7 +511,7 @@
 <LM>w#w-mf920922-076-p2s3w7</LM>
 </w.rf>
 <form>člena</form>
-<tag lemma="člen" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920922-076-p2s3w8">
 <src.rf>manual</src.rf>
@@ -690,7 +690,7 @@
 <LM>w#w-mf920922-076-p2s4w5</LM>
 </w.rf>
 <form>dal</form>
-<tag lemma="dát" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920922-076-p2s4w6">
 <src.rf>manual</src.rf>

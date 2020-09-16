@@ -137,7 +137,7 @@
 <LM>w#w-mf920925-008-p2s1w13</LM>
 </w.rf>
 <form>prvních</form>
-<tag lemma="první" src="orig" selected="1">CrIP2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIP2----------</tag>
 </m>
 <m id="m-mf920925-008-p2s1w14">
 <src.rf>manual</src.rf>
@@ -492,7 +492,7 @@
 <LM>w#w-mf920925-008-p2s3w15</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-mf920925-008-p2s3w16">
 <src.rf>manual</src.rf>
@@ -650,7 +650,7 @@
 <LM>w#w-mf920925-008-p2s4w11</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-mf920925-008-p2s4w12">
 <src.rf>manual</src.rf>
@@ -802,7 +802,7 @@
 <LM>w#w-mf920925-008-p2s5w6</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-mf920925-008-p2s5w7">
 <src.rf>manual</src.rf>
@@ -922,7 +922,7 @@
 <LM>w#w-mf920925-008-p2s5w21</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-mf920925-008-p2s5w22">
 <src.rf>manual</src.rf>
@@ -1349,7 +1349,7 @@
 <form>favoritů</form>
 <tag>
 <AM lemma="Favorit-2_;m_^(vozidlo)" src="orig">NNIP2-----A----</AM>
-<AM lemma="favorit-1_;m" src="auto" recommended="1" selected="1">NNIP2-----A----</AM>
+<AM lemma="favorit-1_^(vozidlo)" src="auto" recommended="1" selected="1">NNIP2-----A----</AM>
 <AM lemma="favorit-2" src="auto">NNMP2-----A----</AM>
 </tag>
 </m>
@@ -1370,7 +1370,7 @@
 <tag>
 <AM lemma="Forman-2_;m_^(vozidlo)" src="orig">NNIP2-----A----</AM>
 <AM lemma="forman" src="auto" recommended="1">NNMP2-----A----</AM>
-<AM lemma="forman-2_;m_^(vozidlo)" src="manual" selected="1">NNIP2-----A----</AM>
+<AM lemma="forman-2_^(vozidlo)" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-008-p2s8w15">

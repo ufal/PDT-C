@@ -75,7 +75,7 @@
 <LM>w#w-ln94202-94-p1s1Aw8</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS6---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS6---------1</tag>
 </m>
 <m id="m-ln94202-94-p1s1Aw9">
 <src.rf>manual</src.rf>

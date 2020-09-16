@@ -315,7 +315,7 @@
 <LM>w#w-mf930709-128-p2s1w35</LM>
 </w.rf>
 <form>Sex</form>
-<tag lemma="sex" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="sex-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930709-128-p2s1w36">
 <src.rf>manual</src.rf>
@@ -530,7 +530,7 @@
 <LM>w#w-mf930709-128-p4s1w23</LM>
 </w.rf>
 <form>Bílý</form>
-<tag lemma="bílý" src="orig" selected="1">AAIS1----1A----</tag>
+<tag lemma="bílý_;o" src="orig" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-mf930709-128-p4s1w24">
 <src.rf>manual</src.rf>
@@ -685,7 +685,7 @@
 <LM>w#w-mf930709-128-p4s1w42</LM>
 </w.rf>
 <form>Yorku</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="York-2_;G_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-mf930709-128-p4s1w43">
 <src.rf>manual</src.rf>

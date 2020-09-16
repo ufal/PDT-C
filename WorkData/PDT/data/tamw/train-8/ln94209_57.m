@@ -59,7 +59,7 @@
 <LM>w#w-ln94209-57-p1s1w6</LM>
 </w.rf>
 <form>zlaté</form>
-<tag lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAFP4----1A----</tag>
+<tag lemma="zlatý-1_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAFP4----1A----</tag>
 </m>
 <m id="m-ln94209-57-p1s1w7">
 <src.rf>manual</src.rf>

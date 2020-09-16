@@ -1417,7 +1417,7 @@
 <form>letech</form>
 <tag>
 <AM lemma="let" src="auto">NNIP6-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP6-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP6-----A----</AM>
 </tag>
 </m>
 <m id="m104-d1t643-1">
@@ -2014,7 +2014,7 @@
 <AM lemma="postižený_^(*4hnout)" src="auto">AAMP1----1A---6</AM>
 <AM lemma="postižený_^(*4hnout)" src="auto">AAMP4----1A---6</AM>
 <AM lemma="postižený_^(*4hnout)" src="auto">AAMP5----1A---6</AM>
-<AM lemma="postižený_^(*4hnout)" src="auto" recommended="1">AAMS1----1A----</AM>
+<AM lemma="postižený" src="auto" recommended="1">AAMS1----1A----</AM>
 <AM lemma="postižený_^(*4hnout)" src="auto">AAMS5----1A----</AM>
 <AM lemma="postižený_^(*4hnout)" src="auto">AANP1----1A---6</AM>
 <AM lemma="postižený_^(*4hnout)" src="auto">AANP4----1A---6</AM>
@@ -2587,7 +2587,7 @@
 <LM>w#w-d1t665-1</LM>
 </w.rf>
 <form>dala</form>
-<tag lemma="dát" src="auto" recommended="1">VpQW----R-AAP--</tag>
+<tag lemma="dát-1" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m104-d1t665-2">
 <w.rf>
@@ -2823,7 +2823,7 @@
 <form>letech</form>
 <tag>
 <AM lemma="let" src="auto">NNIP6-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP6-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP6-----A----</AM>
 </tag>
 </m>
 <m id="m104-d1t667-15">
@@ -3373,7 +3373,7 @@
 <form>tu</form>
 <tag>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" recommended="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m104-d1t673-8">
@@ -3887,7 +3887,7 @@
 <form>letech</form>
 <tag>
 <AM lemma="let" src="auto">NNIP6-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP6-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP6-----A----</AM>
 </tag>
 </m>
 <m id="m104-d-id109793-punct">
@@ -4411,7 +4411,7 @@
 <tag>
 <AM lemma="hodně-1" src="auto">Ca--X----------</AM>
 <AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------1A----</AM>
+<AM lemma="hodně_^(*1ý)" src="auto" recommended="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m104-d1t710-12">

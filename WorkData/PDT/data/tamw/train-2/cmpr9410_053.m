@@ -43,7 +43,7 @@
 <LM>w#w-cmpr9410-053-p2s1w4</LM>
 </w.rf>
 <form>my</form>
-<tag lemma="já" src="orig" selected="1">PP-P1--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P1--1-------</tag>
 </m>
 </s>
 <s id="m-cmpr9410-053-p3s1">
@@ -112,7 +112,7 @@
 <LM>w#w-cmpr9410-053-p3s1w8</LM>
 </w.rf>
 <form>lety</form>
-<tag lemma="rok" src="orig" selected="1">NNNP7-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP7-----A----</tag>
 </m>
 <m id="m-cmpr9410-053-p3s1w9">
 <src.rf>manual</src.rf>

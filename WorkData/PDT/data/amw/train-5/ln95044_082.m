@@ -43,7 +43,7 @@
 <LM>w#w-ln95044-082-p1s1w4</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FP4---------1</tag>
 </m>
 <m id="m-ln95044-082-p1s1w5">
 <src.rf>manual</src.rf>
@@ -401,7 +401,7 @@
 <LM>w#w-ln95044-082-p2s2w15</LM>
 </w.rf>
 <form>tažení</form>
-<tag lemma="tažení_^(*5áhnout)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="tažení" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln95044-082-p2s2w16">
 <src.rf>manual</src.rf>

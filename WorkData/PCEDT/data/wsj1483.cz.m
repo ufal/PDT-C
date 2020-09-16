@@ -1159,7 +1159,7 @@
 <AM lemma="data_^(údaje,_např._v_databázi)" src="auto">NNNP3-----A---6</AM>
 <AM lemma="datum_^(kalendářní)" src="auto">NNNP3-----A---6</AM>
 <AM lemma="datum_^(kalendářní)" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="datum_^(kalendářní)" src="auto" selected="1">NNNS4-----A----</AM>
+<AM lemma="datum-1_^(kalendářní)" src="auto" selected="1">NNNS4-----A----</AM>
 <AM lemma="datum_^(kalendářní)" src="auto">NNNS5-----A----</AM>
 <AM lemma="datum_,h_,x" src="auto">NNIS1-----A----</AM>
 <AM lemma="datum_,h_,x" src="auto">NNIS4-----A----</AM>

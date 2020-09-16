@@ -447,7 +447,7 @@
 <LM>w#w-lnd92257-030-p1s2w32</LM>
 </w.rf>
 <form>právo</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-lnd92257-030-p1s2w33">
 <src.rf>manual</src.rf>

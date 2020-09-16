@@ -451,7 +451,7 @@
 <LM>w#w-mf920901-038-p2s4w4</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-038-p2s4w5">
 <src.rf>manual</src.rf>
@@ -991,7 +991,7 @@
 <LM>w#w-mf920901-038-p2s7w12</LM>
 </w.rf>
 <form>střežení</form>
-<tag lemma="střežení_^(hlídat)_(*3it)" src="auto" selected="1">NNNS2-----A----</tag>
+<tag lemma="střežení_^(*3it)" src="auto" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-mf920901-038-p2s7w13">
 <src.rf>manual</src.rf>
@@ -1033,7 +1033,7 @@
 <LM>w#w-mf920901-038-p2s8w4</LM>
 </w.rf>
 <form>vězení</form>
-<tag lemma="vězení_,a_^(místo_výkonu_trestu)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="vězení_^(místo_výkonu_trestu)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-mf920901-038-p2s8w5">
 <src.rf>manual</src.rf>

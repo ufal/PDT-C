@@ -75,7 +75,7 @@
 <form>Francisku</form>
 <tag>
 <AM lemma="Francisko_;G" src="orig">NNNS6-----A----</AM>
-<AM lemma="Francisko-2_;G_,s_^(^DD**Francisco)" src="manual" selected="1">NNNS6-----A----</AM>
+<AM lemma="Francisko-2_;G_,s_^(^DD**Francisco-2)" src="manual" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-058-p2s1w8">
@@ -262,7 +262,7 @@
 <LM>w#w-mf920901-058-p2s2w15</LM>
 </w.rf>
 <form>hodiny</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920901-058-p2s2w16">
 <src.rf>manual</src.rf>

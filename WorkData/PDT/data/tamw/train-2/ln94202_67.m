@@ -59,7 +59,7 @@
 <LM>w#w-ln94202-67-p1s1w6</LM>
 </w.rf>
 <form>extremisty</form>
-<tag lemma="extremista" src="orig" selected="1">NNMP7-----A----</tag>
+<tag lemma="extremista_,s_^(^DD**extrémista)" src="orig" selected="1">NNMP7-----A----</tag>
 </m>
 </s>
 <s id="m-ln94202-67-p2s1A">
@@ -390,7 +390,7 @@
 <LM>w#w-ln94202-67-p2s3w12</LM>
 </w.rf>
 <form>nalezená</form>
-<tag lemma="nalezený-2_^(*7ézt-2)" src="auto" selected="1">AANP1----1A----</tag>
+<tag lemma="nalezený" src="auto" selected="1">AANP1----1A----</tag>
 </m>
 <m id="m-ln94202-67-p2s3w13">
 <src.rf>manual</src.rf>
@@ -646,7 +646,7 @@
 <LM>w#w-ln94202-67-p3s1w14</LM>
 </w.rf>
 <form>Casablanky</form>
-<tag lemma="Casablanca_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Casablanca_;G_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94202-67-p3s1w15">
 <src.rf>manual</src.rf>

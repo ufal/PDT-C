@@ -81,7 +81,7 @@
 <LM>w#w-ln94209-42-p2s1Cw4</LM>
 </w.rf>
 <form>rady</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94209-42-p2s1Cw5">
 <src.rf>manual</src.rf>
@@ -246,7 +246,7 @@
 <LM>w#w-ln94209-42-p2s2w10</LM>
 </w.rf>
 <form>členové</form>
-<tag lemma="člen" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln94209-42-p2s2w11">
 <src.rf>manual</src.rf>
@@ -254,7 +254,7 @@
 <LM>w#w-ln94209-42-p2s2w11</LM>
 </w.rf>
 <form>orgánu</form>
-<tag lemma="orgán" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94209-42-p2s2w12">
 <src.rf>manual</src.rf>
@@ -914,7 +914,7 @@
 <LM>w#w-ln94209-42-p4s1w11</LM>
 </w.rf>
 <form>moje</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSHS1-S1-------</tag>
+<tag lemma="můj" src="orig" selected="1">PSHS1-S1-------</tag>
 </m>
 <m id="m-ln94209-42-p4s1w12">
 <src.rf>manual</src.rf>
@@ -1159,7 +1159,7 @@
 <LM>w#w-ln94209-42-p4s2w28</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94209-42-p4s2w29">
 <src.rf>manual</src.rf>
@@ -1614,7 +1614,7 @@
 <LM>w#w-ln94209-42-p4s6w1</LM>
 </w.rf>
 <form>Ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94209-42-p4s6w2">
 <src.rf>manual</src.rf>
@@ -1891,7 +1891,7 @@
 <LM>w#w-ln94209-42-p4s7w9</LM>
 </w.rf>
 <form>proto</form>
-<tag lemma="proto-2_^(dal_mu_co_proto,_tak_proto!)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="proto-2_^(proto_že)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94209-42-p4s7w10">
 <src.rf>manual</src.rf>
@@ -2003,7 +2003,7 @@
 <LM>w#w-ln94209-42-p4s7w23</LM>
 </w.rf>
 <form>panské</form>
-<tag lemma="panský" src="auto" selected="1">AAFS2----1A----</tag>
+<tag lemma="panský-1" src="auto" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-ln94209-42-p4s7w24">
 <src.rf>manual</src.rf>

@@ -319,7 +319,7 @@
 <LM>w#w-mf930708-028-p2s2w9</LM>
 </w.rf>
 <form>orgán</form>
-<tag lemma="orgán" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930708-028-p2s2w10">
 <src.rf>manual</src.rf>
@@ -458,7 +458,7 @@
 <LM>w#w-mf930708-028-p2s2w26</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-mf930708-028-p2s2w27">
 <src.rf>manual</src.rf>
@@ -476,7 +476,7 @@
 <LM>w#w-mf930708-028-p2s3w1</LM>
 </w.rf>
 <form>Orgán</form>
-<tag lemma="orgán" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930708-028-p2s3w2">
 <src.rf>manual</src.rf>
@@ -516,7 +516,7 @@
 <LM>w#w-mf930708-028-p2s3w6</LM>
 </w.rf>
 <form>právo</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-mf930708-028-p2s3w7">
 <src.rf>manual</src.rf>

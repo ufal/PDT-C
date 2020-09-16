@@ -35,7 +35,7 @@
 <LM>w#w-cmpr9406-008-p2s1w3</LM>
 </w.rf>
 <form>talenty</form>
-<tag lemma="talent" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="talent-1" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9406-008-p3s1">
@@ -133,7 +133,7 @@
 <LM>w#w-cmpr9406-008-p3s1w12</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1FXXFS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1FXXFS3-------</tag>
 </m>
 <m id="m-cmpr9406-008-p3s1w13">
 <src.rf>manual</src.rf>
@@ -479,7 +479,7 @@
 <LM>w#w-cmpr9406-008-p4s2w7</LM>
 </w.rf>
 <form>třeba</form>
-<tag lemma="třeba-2" src="auto" selected="1">Db-------------</tag>
+<tag lemma="třeba-1" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-cmpr9406-008-p4s2w8">
 <src.rf>manual</src.rf>

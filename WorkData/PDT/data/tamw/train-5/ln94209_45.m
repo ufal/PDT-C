@@ -103,7 +103,7 @@
 <LM>w#w-ln94209-45-p2s1Bw6</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-ln94209-45-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -559,7 +559,7 @@
 <LM>w#w-ln94209-45-p3s1w7</LM>
 </w.rf>
 <form>masového</form>
-<tag lemma="masový-2_^(velký)" src="orig" selected="1">AAIS2----1A----</tag>
+<tag lemma="masový" src="orig" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-ln94209-45-p3s1w8">
 <src.rf>manual</src.rf>
@@ -1729,7 +1729,7 @@
 <LM>w#w-ln94209-45-p6s1w1</LM>
 </w.rf>
 <form>Handicap</form>
-<tag lemma="handicap" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="handicap_,s_^(^DD**hendikep)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94209-45-p6s1w2">
 <src.rf>manual</src.rf>
@@ -1952,7 +1952,7 @@
 <LM>w#w-ln94209-45-p6s3w6</LM>
 </w.rf>
 <form>zjednodušenou</form>
-<tag lemma="zjednodušený_,s_^(*2t)" src="auto" selected="1">AAFS4----1A----</tag>
+<tag lemma="zjednodušený_^(*2t)_(*3it)" src="auto" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-ln94209-45-p6s3w7">
 <src.rf>manual</src.rf>
@@ -2922,7 +2922,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -3312,7 +3312,7 @@
 <LM>w#w-ln94209-45-p9s1w6</LM>
 </w.rf>
 <form>spořitelny</form>
-<tag lemma="spořitelna_^(místo;_př._Česká_spořitelna)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="spořitelna" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94209-45-p9s1w7">
 <src.rf>manual</src.rf>

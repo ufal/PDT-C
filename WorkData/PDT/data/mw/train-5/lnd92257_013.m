@@ -259,7 +259,7 @@
 <LM>w#w-lnd92257-013-p3s3w9</LM>
 </w.rf>
 <form>druhém</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS6----------</tag>
 </m>
 <m id="m-lnd92257-013-p3s3w10">
 <src.rf>manual</src.rf>
@@ -1333,7 +1333,7 @@
 <LM>w#w-lnd92257-013-p4s5w11</LM>
 </w.rf>
 <form>lety</form>
-<tag lemma="rok" src="orig" selected="1">NNNP7-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP7-----A----</tag>
 </m>
 <m id="m-lnd92257-013-p4s5w12">
 <src.rf>manual</src.rf>
@@ -1786,7 +1786,7 @@
 <LM>w#w-lnd92257-013-p4s7w14</LM>
 </w.rf>
 <form>nevypadalo</form>
-<tag lemma="vypadat" src="orig" selected="1">VpNS----R-NAI--</tag>
+<tag lemma="vypadat-1_^(ty_vypadáš)" src="orig" selected="1">VpNS----R-NAI--</tag>
 </m>
 <m id="m-lnd92257-013-p4s7w15">
 <src.rf>manual</src.rf>
@@ -1935,7 +1935,7 @@
 <LM>w#w-lnd92257-013-p4s8w7</LM>
 </w.rf>
 <form>tajné</form>
-<tag lemma="tajný" src="orig" selected="1">AAFS6----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AAFS6----1A----</tag>
 </m>
 <m id="m-lnd92257-013-p4s8w8">
 <src.rf>manual</src.rf>
@@ -2058,7 +2058,7 @@
 <LM>w#w-lnd92257-013-p4s8w22</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92257-013-p4s8w23">
 <src.rf>manual</src.rf>

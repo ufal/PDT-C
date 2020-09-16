@@ -221,7 +221,7 @@
 <AM lemma="druhý" src="auto">CrIS7----------</AM>
 <AM lemma="druhý" src="auto">CrMP3----------</AM>
 <AM lemma="druhý" src="auto">CrMS6---------7</AM>
-<AM lemma="druhý" src="auto" recommended="1">CrMS7----------</AM>
+<AM lemma="druhý`2" src="auto" recommended="1">CrMS7----------</AM>
 <AM lemma="druhý" src="auto">CrNP3----------</AM>
 <AM lemma="druhý" src="auto">CrNS6---------7</AM>
 <AM lemma="druhý" src="auto">CrNS7----------</AM>
@@ -418,7 +418,7 @@
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FP1---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FP4---------1</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8FS2---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8FS2---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS3---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS6---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8IP1---------1</AM>
@@ -803,7 +803,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0782-001-p1s1W25-Ta">
@@ -932,7 +932,7 @@
 <AM lemma="druhý" src="auto">CrIP1---------6</AM>
 <AM lemma="druhý" src="auto">CrIP4---------6</AM>
 <AM lemma="druhý" src="auto">CrIP5---------6</AM>
-<AM lemma="druhý" src="auto" recommended="1">CrIS1----------</AM>
+<AM lemma="druhý`2" src="auto" recommended="1">CrIS1----------</AM>
 <AM lemma="druhý" src="auto">CrIS4----------</AM>
 <AM lemma="druhý" src="auto">CrIS5----------</AM>
 <AM lemma="druhý" src="auto">CrMP1---------6</AM>
@@ -1387,7 +1387,7 @@
 <AM lemma="Bethlehem-2_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Bethlehem_;G_,s_^(^DD**Betlém)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Bethlehem_;G_,s_^(^DD**Betlém)" src="auto">NNIS4-----A----</AM>
-<AM lemma="Bethlehem-3_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Bethlehem_;G_,s_^(^DD**Betlém)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0782-001-p1s4W14-Ta">
@@ -1500,7 +1500,7 @@
 <AM lemma="druhý" src="auto">CrMP1---------6</AM>
 <AM lemma="druhý" src="auto">CrMP4---------6</AM>
 <AM lemma="druhý" src="auto">CrMP5---------6</AM>
-<AM lemma="druhý" src="auto" recommended="1">CrMS1----------</AM>
+<AM lemma="druhý`2" src="auto" recommended="1">CrMS1----------</AM>
 <AM lemma="druhý" src="auto">CrMS5----------</AM>
 <AM lemma="druhý" src="auto">CrNP1---------6</AM>
 <AM lemma="druhý" src="auto">CrNP4---------6</AM>
@@ -1751,7 +1751,7 @@
 <AM lemma="Bethlehem-2_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Bethlehem_;G_,s_^(^DD**Betlém)" src="auto">NNIS1-----A----</AM>
 <AM lemma="Bethlehem_;G_,s_^(^DD**Betlém)" src="auto">NNIS4-----A----</AM>
-<AM lemma="Bethlehem-3_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Bethlehem_;G_,s_^(^DD**Betlém)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0782-001-p1s5W8-Ta">
@@ -1827,7 +1827,7 @@
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS1---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS4---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS5---------1</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8YP4---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8YP4---------1</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOFP-----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOIP-----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AONS-----------</AM>
@@ -2228,7 +2228,7 @@
 </w.rf>
 <form>My</form>
 <tag>
-<AM lemma="já" src="auto" recommended="1">PP-P1--1-------</AM>
+<AM lemma="my" src="auto" recommended="1">PP-P1--1-------</AM>
 <AM lemma="já" src="auto">PP-P5--1-------</AM>
 <AM lemma="my-77" src="auto">F%-------------</AM>
 </tag>
@@ -2332,7 +2332,7 @@
 <AM lemma="Bethlehem-2_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Bethlehem_;G_,s_^(^DD**Betlém)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Bethlehem_;G_,s_^(^DD**Betlém)" src="auto">NNIS4-----A----</AM>
-<AM lemma="Bethlehem-3_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Bethlehem_;G_,s_^(^DD**Betlém)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0782-001-p1s6W12-Ta">
@@ -2356,7 +2356,7 @@
 <AM lemma="správný_^(správný_chlap)" src="auto">AAFP3----1A----</AM>
 <AM lemma="správný_^(správný_chlap)" src="auto">AAIP3----1A----</AM>
 <AM lemma="správný_^(správný_chlap)" src="auto">AAIS6----1A---7</AM>
-<AM lemma="správný_^(správný_chlap)" src="auto" recommended="1">AAIS7----1A----</AM>
+<AM lemma="správný" src="auto" recommended="1">AAIS7----1A----</AM>
 <AM lemma="správný_^(správný_chlap)" src="auto">AAMP3----1A----</AM>
 <AM lemma="správný_^(správný_chlap)" src="auto">AAMS6----1A---7</AM>
 <AM lemma="správný_^(správný_chlap)" src="auto">AAMS7----1A----</AM>
@@ -2920,7 +2920,7 @@
 <AM lemma="Bethlehem-2_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Bethlehem_;G_,s_^(^DD**Betlém)" src="auto">NNIS1-----A----</AM>
 <AM lemma="Bethlehem_;G_,s_^(^DD**Betlém)" src="auto">NNIS4-----A----</AM>
-<AM lemma="Bethlehem-3_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Bethlehem_;G_,s_^(^DD**Betlém)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0782-001-p1s8W20-Ta">
@@ -3008,7 +3008,7 @@
 <AM lemma="Bethlehem-2_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Bethlehem_;G_,s_^(^DD**Betlém)" src="auto">NNIS1-----A----</AM>
 <AM lemma="Bethlehem_;G_,s_^(^DD**Betlém)" src="auto">NNIS4-----A----</AM>
-<AM lemma="Bethlehem-3_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Bethlehem_;G_,s_^(^DD**Betlém)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0782-001-p1s9W3-Ta">
@@ -3181,7 +3181,7 @@
 <AM lemma="jeho_^(přivlast.)" src="auto">PSFXXFS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSIS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSNS4FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9XP1FS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9XP1FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP5FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSZS1FS3-------</AM>
@@ -3571,7 +3571,7 @@
 <AM lemma="Bethlehem-2_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Bethlehem_;G_,s_^(^DD**Betlém)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Bethlehem_;G_,s_^(^DD**Betlém)" src="auto">NNIS4-----A----</AM>
-<AM lemma="Bethlehem-3_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Bethlehem_;G_,s_^(^DD**Betlém)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0782-001-p1s10W13-Ta">
@@ -4657,7 +4657,7 @@
 <AM lemma="Bethlehem-2_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Bethlehem_;G_,s_^(^DD**Betlém)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Bethlehem_;G_,s_^(^DD**Betlém)" src="auto">NNIS4-----A----</AM>
-<AM lemma="Bethlehem-3_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Bethlehem_;G_,s_^(^DD**Betlém)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0782-001-p1s14W3-Ta">
@@ -5020,7 +5020,7 @@
 <AM lemma="Bethlehem-2_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Bethlehem_;G_,s_^(^DD**Betlém)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Bethlehem_;G_,s_^(^DD**Betlém)" src="auto">NNIS4-----A----</AM>
-<AM lemma="Bethlehem-3_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Bethlehem_;G_,s_^(^DD**Betlém)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0782-001-p1s15W6-Ta">
@@ -5452,7 +5452,7 @@
 <AM lemma="Bethlehem-2_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Bethlehem_;G_,s_^(^DD**Betlém)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Bethlehem_;G_,s_^(^DD**Betlém)" src="auto">NNIS4-----A----</AM>
-<AM lemma="Bethlehem-3_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Bethlehem_;G_,s_^(^DD**Betlém)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0782-001-p1s16W3-Ta">
@@ -5640,7 +5640,7 @@
 <AM lemma="Bethlehem-2_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Bethlehem_;G_,s_^(^DD**Betlém)" src="auto">NNIS1-----A----</AM>
 <AM lemma="Bethlehem_;G_,s_^(^DD**Betlém)" src="auto">NNIS4-----A----</AM>
-<AM lemma="Bethlehem-3_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Bethlehem_;G_,s_^(^DD**Betlém)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0782-001-p1s17W3-Ta">
@@ -5676,7 +5676,7 @@
 <AM lemma="druhý" src="auto">CrNP4---------6</AM>
 <AM lemma="druhý" src="auto">CrNP5---------6</AM>
 <AM lemma="druhý" src="auto">CrNS1----------</AM>
-<AM lemma="druhý" src="auto" recommended="1">CrNS4----------</AM>
+<AM lemma="druhý`2" src="auto" recommended="1">CrNS4----------</AM>
 <AM lemma="druhý" src="auto">CrNS5----------</AM>
 </tag>
 </m>

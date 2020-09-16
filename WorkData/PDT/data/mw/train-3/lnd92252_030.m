@@ -51,7 +51,7 @@
 <LM>w#w-lnd92252-030-p1s1w5</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-lnd92252-030-p1s1w6">
 <src.rf>manual</src.rf>
@@ -67,7 +67,7 @@
 <LM>w#w-lnd92252-030-p1s1w7</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8NS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8NS4---------1</tag>
 </m>
 <m id="m-lnd92252-030-p1s1w8">
 <src.rf>manual</src.rf>

@@ -340,7 +340,7 @@
 <LM>w#w-lnd94104-141-p1s4w5</LM>
 </w.rf>
 <form>orgán</form>
-<tag lemma="orgán" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94104-141-p1s4w6">
 <src.rf>manual</src.rf>
@@ -765,7 +765,7 @@
 <LM>w#w-lnd94104-141-p1s6w7</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94104-141-p1s6w8">
 <src.rf>manual</src.rf>

@@ -297,7 +297,7 @@
 <AM lemma="Fed_:B" src="auto">Xx-------------</AM>
 <AM lemma="Fed_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Fed-3_;m_^(Federální_rezervní_banka)" src="manual">NNIS1-----A----</AM>
-<AM lemma="Fed-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Fed-1_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0598-001-p1s1W7-Ta">
@@ -307,7 +307,7 @@
 </w.rf>
 <form>dá</form>
 <tag>
-<AM lemma="dát" src="auto" recommended="1">VB-S---3P-AAP--</AM>
+<AM lemma="dát-1" src="auto" recommended="1">VB-S---3P-AAP--</AM>
 <AM lemma="dát-2_^(dá_se_očekávat)" src="auto">VB-S---3P-AAI--</AM>
 </tag>
 </m>
@@ -432,7 +432,7 @@
 </w.rf>
 <form>dá</form>
 <tag>
-<AM lemma="dát" src="auto" recommended="1">VB-S---3P-AAP--</AM>
+<AM lemma="dát-1" src="auto" recommended="1">VB-S---3P-AAP--</AM>
 <AM lemma="dát-2_^(dá_se_očekávat)" src="auto">VB-S---3P-AAI--</AM>
 </tag>
 </m>
@@ -713,7 +713,7 @@
 <AM lemma="Fed_;Y" src="auto">NNMS3-----A---1</AM>
 <AM lemma="Fed_;Y" src="auto">NNMS6-----A---1</AM>
 <AM lemma="Feda_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Fed-2_;m" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Fed-1_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0598-001-p1s3W8-Ta">
@@ -1715,7 +1715,7 @@
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS1---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS4---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS5---------1</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8YP4---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8YP4---------1</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOFP-----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOIP-----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AONS-----------</AM>
@@ -2166,7 +2166,7 @@
 <AM lemma="Fed_;Y" src="auto">NNMS3-----A---1</AM>
 <AM lemma="Fed_;Y" src="auto">NNMS6-----A---1</AM>
 <AM lemma="Feda_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Fed-2_;m" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Fed-1_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0598-001-p1s10W11-Ta">
@@ -2256,7 +2256,7 @@
 <AM lemma="Fed_;Y" src="auto">NNMS3-----A---1</AM>
 <AM lemma="Fed_;Y" src="auto">NNMS6-----A---1</AM>
 <AM lemma="Feda_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Fed-2_;m" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Fed-1_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0598-001-p1s11W6-Ta">
@@ -2547,7 +2547,7 @@
 <tag>
 <AM lemma="Fed_:B" src="auto">Xx-------------</AM>
 <AM lemma="Fed_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Fed-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Fed-1_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0598-001-p1s11W30-Ta">
@@ -2998,7 +2998,7 @@
 <AM lemma="Fed_;Y" src="auto">NNMS3-----A---1</AM>
 <AM lemma="Fed_;Y" src="auto">NNMS6-----A---1</AM>
 <AM lemma="Feda_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Fed-2_;m" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Fed-1_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0598-001-p1s13W7-Ta">
@@ -3114,7 +3114,7 @@
 <AM lemma="Fed_;Y" src="auto">NNMS3-----A---1</AM>
 <AM lemma="Fed_;Y" src="auto">NNMS6-----A---1</AM>
 <AM lemma="Feda_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Fed-2_;m" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Fed-1_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0598-001-p1s13W18-Ta">
@@ -4238,7 +4238,7 @@
 <AM lemma="ča_^(ča-ča)" src="auto">NNFS2-----A----</AM>
 <AM lemma="ča_^(ča-ča)" src="auto">NNFS3-----A---1</AM>
 <AM lemma="ča_^(ča-ča)" src="auto">NNFS6-----A---1</AM>
-<AM lemma="či" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="či-1" src="auto" recommended="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0598-001-p1s16W18-Ta">
@@ -4336,7 +4336,7 @@
 <AM lemma="Fed_;Y" src="auto" recommended="1">NNMS3-----A---1</AM>
 <AM lemma="Fed_;Y" src="auto">NNMS6-----A---1</AM>
 <AM lemma="Feda_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Fed-2_;m" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Fed-1_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0598-001-p1s17W4-Ta">
@@ -4920,7 +4920,7 @@
 <tag>
 <AM lemma="Fed_:B" src="auto">Xx-------------</AM>
 <AM lemma="Fed_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Fed-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Fed-1_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0598-001-p1s19W18-Ta">
@@ -5289,7 +5289,7 @@
 <AM lemma="daleko-1" src="auto" recommended="1">Dg-------2A----</AM>
 <AM lemma="dál" src="auto">NNFS1-----A----</AM>
 <AM lemma="dál" src="auto">NNFS4-----A----</AM>
-<AM lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="auto" selected="1">Db-------------</AM>
+<AM lemma="dál-3_,s_^(také,_za_další)_(^DD**dále-3)" src="auto" selected="1">Db-------------</AM>
 <AM lemma="dít-1_^(dít_se)" src="auto">VpYS----R-AAI-1</AM>
 </tag>
 </m>
@@ -5772,7 +5772,7 @@
 <AM lemma="Fed_;Y" src="auto">NNMS3-----A---1</AM>
 <AM lemma="Fed_;Y" src="auto">NNMS6-----A---1</AM>
 <AM lemma="Feda_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Fed-2_;m" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Fed-1_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0598-001-p1s21W27-Ta">
@@ -5947,7 +5947,7 @@
 <tag>
 <AM lemma="Fed_:B" src="auto">Xx-------------</AM>
 <AM lemma="Fed_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Fed-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Fed-1_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0598-001-p1s23W4-Ta">
@@ -6055,7 +6055,7 @@
 <AM lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto">NNFP1-----A----</AM>
 <AM lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto">NNFP4-----A----</AM>
 <AM lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto">NNFP5-----A----</AM>
-<AM lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="cesta" src="auto" recommended="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0598-001-p1s23W13-Ta">
@@ -6342,7 +6342,7 @@
 <form>Fedem</form>
 <tag>
 <AM lemma="Fed_;Y" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="Fedem-2_;m" src="manual" selected="1">NNIS7-----A----</AM>
+<AM lemma="Fed-1_;m" src="manual" selected="1">NNIS7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0598-001-p1s23W38-Ta">
@@ -6425,7 +6425,7 @@
 <form>tu</form>
 <tag>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" recommended="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0598-001-p1s24W4-Ta">
@@ -6793,7 +6793,7 @@
 <form>letech</form>
 <tag>
 <AM lemma="let" src="auto">NNIP6-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP6-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0598-001-p1s27W16-Ta">
@@ -7194,7 +7194,7 @@
 <form>proto</form>
 <tag>
 <AM lemma="proto-1_^(proto;_a_proto,_ale_proto,...)" src="auto">J^-------------</AM>
-<AM lemma="proto-2_^(dal_mu_co_proto,_tak_proto!)" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="proto-2_^(proto_že)" src="auto" recommended="1">Db-------------</AM>
 <AM lemma="proto-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -7288,7 +7288,7 @@
 <AM lemma="Fed_;Y" src="auto" recommended="1">NNMS3-----A---1</AM>
 <AM lemma="Fed_;Y" src="auto">NNMS6-----A---1</AM>
 <AM lemma="Feda_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Fed-2_;m" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Fed-1_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0598-001-p1s29W19-Ta">
@@ -7698,7 +7698,7 @@
 <tag>
 <AM lemma="Fed_:B" src="auto">Xx-------------</AM>
 <AM lemma="Fed_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Fed-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Fed-1_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0598-001-p1s32W4-Ta">
@@ -7744,7 +7744,7 @@
 <form>bojí</form>
 <tag>
 <AM lemma="bát" src="auto">VB-P---3P-AAI--</AM>
-<AM lemma="bát" src="auto" recommended="1">VB-S---3P-AAI--</AM>
+<AM lemma="bát-1" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m-wsj0598-001-p1s32W9-Ta">
@@ -7953,7 +7953,7 @@
 <tag>
 <AM lemma="Fed_:B" src="auto">Xx-------------</AM>
 <AM lemma="Fed_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Fed-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Fed-1_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0598-001-p1s33W7-Ta">
@@ -8216,7 +8216,7 @@
 <AM lemma="Fed_;Y" src="auto">NNMS3-----A---1</AM>
 <AM lemma="Fed_;Y" src="auto">NNMS6-----A---1</AM>
 <AM lemma="Feda_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Fed-2_;m" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Fed-1_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0598-001-p1s33W31-Ta">
@@ -9126,7 +9126,7 @@
 <tag>
 <AM lemma="David_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="David_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="David_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="David-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0598-001-p1s36W20-Ta">
@@ -9416,7 +9416,7 @@
 <AM lemma="Fed_;Y" src="auto" recommended="1">NNMS3-----A---1</AM>
 <AM lemma="Fed_;Y" src="auto">NNMS6-----A---1</AM>
 <AM lemma="Feda_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Fed-2_;m" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Fed-1_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0598-001-p1s39W3-Ta">
@@ -9918,7 +9918,7 @@
 <AM lemma="Fed_;Y" src="auto">NNMS3-----A---1</AM>
 <AM lemma="Fed_;Y" src="auto">NNMS6-----A---1</AM>
 <AM lemma="Feda_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Fed-2_;m" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Fed-1_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0598-001-p1s41W13-Ta">

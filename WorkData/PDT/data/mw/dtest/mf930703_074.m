@@ -85,7 +85,7 @@
 <LM>w#w-mf930703-074-p2s1w8</LM>
 </w.rf>
 <form>lidem</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP3-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP3-----A----</tag>
 </m>
 <m id="m-mf930703-074-p2s1w9">
 <src.rf>manual</src.rf>
@@ -298,7 +298,7 @@
 <AM lemma="vydávání-2_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)_(*5at-2)" src="auto">NNNS1-----A----</AM>
 <AM lemma="vydávání-2_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)_(*5at-2)" src="auto">NNNS2-----A----</AM>
 <AM lemma="vydávání-2_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)_(*5at-2)" src="auto">NNNS3-----A----</AM>
-<AM lemma="vydávání-2_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)_(*5at-2)" src="auto" recommended="1" selected="1">NNNS4-----A----</AM>
+<AM lemma="vydávání_^(*3at)" src="auto" recommended="1" selected="1">NNNS4-----A----</AM>
 <AM lemma="vydávání-2_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)_(*5at-2)" src="auto">NNNS5-----A----</AM>
 <AM lemma="vydávání-2_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)_(*5at-2)" src="auto">NNNS6-----A----</AM>
 <AM lemma="vydávání-3_^(se,_př._na_cestu)_(*5at-3)" src="auto">NNNP1-----A----</AM>
@@ -392,7 +392,7 @@
 <AM lemma="vydávání-2_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)_(*5at-2)" src="auto">NNNS3-----A----</AM>
 <AM lemma="vydávání-2_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)_(*5at-2)" src="auto">NNNS4-----A----</AM>
 <AM lemma="vydávání-2_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)_(*5at-2)" src="auto">NNNS5-----A----</AM>
-<AM lemma="vydávání-2_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)_(*5at-2)" src="auto" recommended="1" selected="1">NNNS6-----A----</AM>
+<AM lemma="vydávání_^(*3at)" src="auto" recommended="1" selected="1">NNNS6-----A----</AM>
 <AM lemma="vydávání-3_^(se,_př._na_cestu)_(*5at-3)" src="auto">NNNP1-----A----</AM>
 <AM lemma="vydávání-3_^(se,_př._na_cestu)_(*5at-3)" src="auto">NNNP2-----A----</AM>
 <AM lemma="vydávání-3_^(se,_př._na_cestu)_(*5at-3)" src="auto">NNNP4-----A----</AM>
@@ -699,7 +699,7 @@
 <LM>w#w-mf930703-074-p2s4w10</LM>
 </w.rf>
 <form>lidem</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP3-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP3-----A----</tag>
 </m>
 <m id="m-mf930703-074-p2s4w11">
 <src.rf>manual</src.rf>
@@ -853,7 +853,7 @@
 <LM>w#w-mf930703-074-p2s5w12</LM>
 </w.rf>
 <form>rada</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930703-074-p2s5w13">
 <src.rf>manual</src.rf>

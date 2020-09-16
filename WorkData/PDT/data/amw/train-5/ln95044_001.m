@@ -644,7 +644,7 @@
 <LM>w#w-ln95044-001-p4s2w10</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-ln95044-001-p4s2w11">
 <src.rf>manual</src.rf>
@@ -954,7 +954,7 @@
 <LM>w#w-ln95044-001-p6s1w11</LM>
 </w.rf>
 <form>Černá</form>
-<tag lemma="černý" src="auto" selected="1">AAFS1----1A----</tag>
+<tag lemma="černý_;o" src="auto" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-ln95044-001-p6s1w12">
 <src.rf>manual</src.rf>

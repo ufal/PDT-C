@@ -469,7 +469,7 @@
 <LM>w#w-lnd94104-039-p1s4w24</LM>
 </w.rf>
 <form>kandidátky</form>
-<tag lemma="kandidátka_^(seznam_kandidátů)" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="kandidátka_^(*2)" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-lnd94104-039-p1s4w25">
 <src.rf>manual</src.rf>
@@ -538,7 +538,7 @@
 <LM>w#w-lnd94104-039-p1s5w7</LM>
 </w.rf>
 <form>rozladění</form>
-<tag lemma="rozladění_^(*3it)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="rozladění" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-lnd94104-039-p1s5w8">
 <src.rf>manual</src.rf>
@@ -1092,7 +1092,7 @@
 <LM>w#w-lnd94104-039-p1s7w19</LM>
 </w.rf>
 <form>členů</form>
-<tag lemma="člen" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd94104-039-p1s7w20">
 <src.rf>manual</src.rf>
@@ -1208,7 +1208,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1237,7 +1237,7 @@
 <LM>w#w-lnd94104-039-p1s8w14</LM>
 </w.rf>
 <form>kandidátky</form>
-<tag lemma="kandidátka_^(seznam_kandidátů)" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="kandidátka_^(*2)" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-lnd94104-039-p1s8w15">
 <src.rf>manual</src.rf>

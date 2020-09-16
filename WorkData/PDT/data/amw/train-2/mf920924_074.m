@@ -1052,7 +1052,7 @@
 <LM>w#w-mf920924-074-p3s7w6</LM>
 </w.rf>
 <form>Markova</form>
-<tag lemma="Markův_;Y_^(*3ek)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Markův_;Y_^(*2)_(*2o)_(*3ek)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-mf920924-074-p3s7w7">
 <src.rf>manual</src.rf>
@@ -1248,7 +1248,7 @@
 <LM>w#w-mf920924-074-p3s9w2</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf920924-074-p3s9w3">
 <src.rf>manual</src.rf>
@@ -1320,7 +1320,7 @@
 <LM>w#w-mf920924-074-p3s9w11</LM>
 </w.rf>
 <form>vás</form>
-<tag lemma="ty" src="orig" selected="1">PP-P4--2-------</tag>
+<tag lemma="vy" src="orig" selected="1">PP-P4--2-------</tag>
 </m>
 <m id="m-mf920924-074-p3s9w12">
 <src.rf>manual</src.rf>

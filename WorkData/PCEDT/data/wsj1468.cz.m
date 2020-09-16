@@ -204,7 +204,7 @@
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP1FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP5FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9ZS1FS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9ZS1FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSZS5FS3-------</AM>
 </tag>
 </m>
@@ -1129,7 +1129,7 @@
 </w.rf>
 <form>svoji</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8FS4----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8FS4----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8MP1----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8MP5----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOMP----------1</AM>
@@ -4066,7 +4066,7 @@
 <AM lemma="hubení_^(např._hmyz)_(*3it)" src="auto">NNNS1-----A----</AM>
 <AM lemma="hubení_^(např._hmyz)_(*3it)" src="auto">NNNS2-----A----</AM>
 <AM lemma="hubení_^(např._hmyz)_(*3it)" src="auto">NNNS3-----A----</AM>
-<AM lemma="hubení_^(např._hmyz)_(*3it)" src="auto" recommended="1">NNNS4-----A----</AM>
+<AM lemma="hubení_^(*3it)" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="hubení_^(např._hmyz)_(*3it)" src="auto">NNNS5-----A----</AM>
 <AM lemma="hubení_^(např._hmyz)_(*3it)" src="auto">NNNS6-----A----</AM>
 </tag>
@@ -6725,7 +6725,7 @@
 </w.rf>
 <form>svých</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8XP2----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8XP2----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8XP6----------</AM>
 </tag>
 </m>
@@ -8013,7 +8013,7 @@
 <form>proto</form>
 <tag>
 <AM lemma="proto-1_^(proto;_a_proto,_ale_proto,...)" src="auto">J^-------------</AM>
-<AM lemma="proto-2_^(dal_mu_co_proto,_tak_proto!)" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="proto-2_^(proto_že)" src="auto" recommended="1">Db-------------</AM>
 <AM lemma="proto-3" src="auto">TT-------------</AM>
 </tag>
 </m>

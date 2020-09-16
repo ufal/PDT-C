@@ -162,7 +162,7 @@
 <form>Úmrtnost</form>
 <tag>
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFS1-----A----</AM>
-<AM lemma="úmrtnost_^(*3í)" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="úmrtnost" src="auto" recommended="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2029-001-p1s0W17-Ta">
@@ -784,7 +784,7 @@
 </w.rf>
 <form>svých</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8XP2----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8XP2----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8XP6----------</AM>
 </tag>
 </m>
@@ -1121,7 +1121,7 @@
 <form>úmrtnost</form>
 <tag>
 <AM lemma="úmrtnost_^(*3í)" src="auto">NNFS1-----A----</AM>
-<AM lemma="úmrtnost_^(*3í)" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="úmrtnost" src="auto" recommended="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2029-001-p1s4W8-Ta">
@@ -1546,7 +1546,7 @@
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS1---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS4---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS5---------1</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8YP4---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8YP4---------1</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOFP-----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOIP-----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AONS-----------</AM>
@@ -1754,7 +1754,7 @@
 <AM lemma="dobrý" src="auto">AAIS2----2A----</AM>
 <AM lemma="dobrý" src="auto">AAMS2----2A----</AM>
 <AM lemma="dobrý" src="auto">AAMS4----2A----</AM>
-<AM lemma="dobrý" src="auto" recommended="1">AANS2----2A----</AM>
+<AM lemma="lepší" src="auto" recommended="1">AANS2----2A----</AM>
 </tag>
 </m>
 <m id="m-wsj2029-001-p1s6W28-Ta">
@@ -1775,7 +1775,7 @@
 <form>Má</form>
 <tag>
 <AM lemma="mít" src="auto" recommended="1">VB-S---3P-AAI--</AM>
-<AM lemma="můj_^(má_kniha;_přivlast.)" src="auto" selected="1">PSFS1-S1------1</AM>
+<AM lemma="můj" src="auto" selected="1">PSFS1-S1------1</AM>
 <AM lemma="můj_^(má_kniha;_přivlast.)" src="auto">PSFS5-S1------1</AM>
 <AM lemma="můj_^(má_kniha;_přivlast.)" src="auto">PSNP1-S1------1</AM>
 <AM lemma="můj_^(má_kniha;_přivlast.)" src="auto">PSNP4-S1------1</AM>
@@ -2330,7 +2330,7 @@
 <AM lemma="dobrý" src="auto">AAFS1----3A----</AM>
 <AM lemma="dobrý" src="auto">AAFS2----3A----</AM>
 <AM lemma="dobrý" src="auto">AAFS3----3A----</AM>
-<AM lemma="dobrý" src="auto" recommended="1">AAFS4----3A----</AM>
+<AM lemma="lepší" src="auto" recommended="1">AAFS4----3A----</AM>
 <AM lemma="dobrý" src="auto">AAFS5----3A----</AM>
 <AM lemma="dobrý" src="auto">AAFS6----3A----</AM>
 <AM lemma="dobrý" src="auto">AAFS7----3A----</AM>
@@ -2527,7 +2527,7 @@
 <AM lemma="dobrý" src="auto">AAIS2----2A----</AM>
 <AM lemma="dobrý" src="auto">AAMS2----2A----</AM>
 <AM lemma="dobrý" src="auto">AAMS4----2A----</AM>
-<AM lemma="dobrý" src="auto" recommended="1">AANS2----2A----</AM>
+<AM lemma="lepší" src="auto" recommended="1">AANS2----2A----</AM>
 </tag>
 </m>
 <m id="m-wsj2029-001-p1s8W24-Ta">
@@ -2847,7 +2847,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2029-001-p1s10W4-Ta">
@@ -3220,7 +3220,7 @@
 <tag>
 <AM lemma="fluorouracil" src="auto">NNIS1-----A----</AM>
 <AM lemma="fluorouracil" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="fluorouracil_;U" src="manual" selected="1">NNIS4-----A----</AM>
+<AM lemma="fluorouracil" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2029-001-p1s11W17-Ta">

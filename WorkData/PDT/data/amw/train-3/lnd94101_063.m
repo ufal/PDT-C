@@ -605,7 +605,7 @@
 <LM>w#w-lnd94101-063-p1s5w36</LM>
 </w.rf>
 <form>spravedlnosti</form>
-<tag lemma="spravedlnost_^(*3ý)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="spravedlnost-1_^(*5ý-1)" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94101-063-p1s5w37">
 <src.rf>manual</src.rf>

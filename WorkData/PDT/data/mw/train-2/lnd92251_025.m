@@ -611,7 +611,7 @@
 <LM>w#w-lnd92251-025-p3s6w11</LM>
 </w.rf>
 <form>zelená</form>
-<tag lemma="zelený" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="zelený_;o" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-lnd92251-025-p3s6w12">
 <src.rf>manual</src.rf>

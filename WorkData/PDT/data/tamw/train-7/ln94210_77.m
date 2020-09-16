@@ -217,7 +217,7 @@
 <LM>w#w-ln94210-77-p2s2w1</LM>
 </w.rf>
 <form>Zatčení</form>
-<tag lemma="zatčený_^(*4knout)" src="orig" selected="1">AAMP1----1A----</tag>
+<tag lemma="zatčený" src="orig" selected="1">AAMP1----1A----</tag>
 </m>
 <m id="m-ln94210-77-p2s2w2">
 <src.rf>manual</src.rf>
@@ -525,7 +525,7 @@
 <LM>w#w-ln94210-77-p2s4w4</LM>
 </w.rf>
 <form>zatčenými</form>
-<tag lemma="zatčený_^(*4knout)" src="orig" selected="1">AAMP7----1A----</tag>
+<tag lemma="zatčený" src="orig" selected="1">AAMP7----1A----</tag>
 </m>
 <m id="m-ln94210-77-p2s4w5">
 <src.rf>manual</src.rf>
@@ -660,7 +660,7 @@
 </w.rf>
 <form>Lulua</form>
 <tag>
-<AM lemma="Lulu_;Y" src="orig" selected="1">NNMS4-----A----</AM>
+<AM lemma="Lulu-2_;Y" src="orig" selected="1">NNMS4-----A----</AM>
 <AM lemma="Lulua_;G" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -795,7 +795,7 @@
 <LM>w#w-ln94210-77-p2s5w12</LM>
 </w.rf>
 <form>extremisty</form>
-<tag lemma="extremista" src="orig" selected="1">NNMP7-----A----</tag>
+<tag lemma="extremista_,s_^(^DD**extrémista)" src="orig" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-ln94210-77-p2s5w13">
 <src.rf>manual</src.rf>

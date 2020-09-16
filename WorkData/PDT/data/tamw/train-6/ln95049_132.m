@@ -107,7 +107,7 @@
 <LM>w#w-ln95049-132-p1s1w12</LM>
 </w.rf>
 <form>představení</form>
-<tag lemma="představení-1_^(si_něco;_něco/někoho_někomu)_(*5it-1)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="představení-1_^(*5it-1)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95049-132-p1s1w13">
 <src.rf>manual</src.rf>
@@ -170,7 +170,7 @@
 <form>spider</form>
 <tag>
 <AM lemma="spider_,t_^(typ_automobilu)" src="orig">NNIS1-----A----</AM>
-<AM lemma="spider_^(typ_automobilu)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="spider" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-132-p1s2w4">
@@ -211,7 +211,7 @@
 <LM>w#w-ln95049-132-p1s2w8</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln95049-132-p1s2w9">
 <src.rf>manual</src.rf>

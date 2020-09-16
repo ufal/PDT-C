@@ -51,7 +51,7 @@
 <LM>w#w-lnd94103-068-p1s1w5</LM>
 </w.rf>
 <form>dovážené</form>
-<tag lemma="dovážený_^(dokončit_vážení)_(*2t)" src="auto" selected="1">AANS4----1A----</tag>
+<tag lemma="dovážený_^(*2t)_(*3it)" src="auto" selected="1">AANS4----1A----</tag>
 </m>
 <m id="m-lnd94103-068-p1s1w6">
 <src.rf>manual</src.rf>

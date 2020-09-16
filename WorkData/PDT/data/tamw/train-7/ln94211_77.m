@@ -163,7 +163,7 @@
 <LM>w#w-ln94211-77-p1s1Aw19</LM>
 </w.rf>
 <form>vyhlášení</form>
-<tag lemma="vyhlášení_,a_^(*4sit)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="vyhlášení_^(*2t)_(*4sit)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln94211-77-p1s1Aw20">
 <src.rf>manual</src.rf>

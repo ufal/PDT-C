@@ -268,7 +268,7 @@
 <LM>w#w-ln94204-69-p2s2w8</LM>
 </w.rf>
 <form>druhý</form>
-<tag lemma="druhý" src="orig" selected="1">CrMS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrMS1----------</tag>
 </m>
 <m id="m-ln94204-69-p2s2w9">
 <src.rf>manual</src.rf>

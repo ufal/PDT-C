@@ -455,7 +455,7 @@
 <tag>
 <AM lemma="Steyer_;G" src="orig">NNIS1-----A----</AM>
 <AM lemma="Steyer_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Steyer-2_;G" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Steyer-2_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-118-p3s1w30">
@@ -667,7 +667,7 @@
 <tag>
 <AM lemma="Steyer_;G" src="orig">NNIS1-----A----</AM>
 <AM lemma="Steyer_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Steyer-2_;G" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Steyer-2_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-118-p3s1w56">
@@ -827,7 +827,7 @@
 <LM>w#w-lnd92255-118-p5s1w9</LM>
 </w.rf>
 <form>zastavením</form>
-<tag lemma="zastavení-1_^([také_z._se];_uvést_do_klidu:_auto,...)_(*5it-1)" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="zastavení_^(*3it)" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-lnd92255-118-p5s1w10">
 <src.rf>manual</src.rf>

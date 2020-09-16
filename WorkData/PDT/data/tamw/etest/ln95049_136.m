@@ -151,7 +151,7 @@
 <LM>w#w-ln95049-136-p2s1Bw9</LM>
 </w.rf>
 <form>modelů</form>
-<tag lemma="model" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="model-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-ln95049-136-p2s1Bw10">
 <src.rf>manual</src.rf>

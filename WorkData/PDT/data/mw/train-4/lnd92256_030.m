@@ -179,7 +179,7 @@
 <LM>w#w-lnd92256-030-p1s1w21</LM>
 </w.rf>
 <form>události</form>
-<tag lemma="událost_,a_^(*3ý)" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="událost" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-lnd92256-030-p1s1w22">
 <src.rf>manual</src.rf>
@@ -203,7 +203,7 @@
 <LM>w#w-lnd92256-030-p1s1w24</LM>
 </w.rf>
 <form>Marie</form>
-<tag lemma="Marie-1_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Marie_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92256-030-p1s1w25">
 <src.rf>manual</src.rf>
@@ -277,7 +277,7 @@
 <LM>w#w-lnd92256-030-p1s2w6</LM>
 </w.rf>
 <form>Marie</form>
-<tag lemma="Marie-1_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Marie_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92256-030-p1s2w7">
 <src.rf>manual</src.rf>
@@ -583,7 +583,7 @@
 <LM>w#w-lnd92256-030-p1s3w6</LM>
 </w.rf>
 <form>stojí</form>
-<tag lemma="stát-4_^(něco_stojí_peníze)" src="orig" selected="1">VB-P---3P-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd92256-030-p1s3w7">
 <src.rf>manual</src.rf>
@@ -668,7 +668,7 @@
 <LM>w#w-lnd92256-030-p1s4w7</LM>
 </w.rf>
 <form>Marii</form>
-<tag lemma="Marie-1_;Y" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Marie_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd92256-030-p1s4w8">
 <src.rf>manual</src.rf>

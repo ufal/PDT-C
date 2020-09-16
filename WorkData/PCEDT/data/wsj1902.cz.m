@@ -85,7 +85,7 @@
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP1FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP5FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9ZS1FS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9ZS1FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSZS5FS3-------</AM>
 </tag>
 </m>
@@ -928,7 +928,7 @@
 </w.rf>
 <form>spořitelně</form>
 <tag>
-<AM lemma="spořitelna_^(místo;_př._Česká_spořitelna)" src="auto" recommended="1">NNFS3-----A----</AM>
+<AM lemma="spořitelna" src="auto" recommended="1">NNFS3-----A----</AM>
 <AM lemma="spořitelna_^(místo;_př._Česká_spořitelna)" src="auto">NNFS6-----A----</AM>
 <AM lemma="spořitelně_^(*1ý)" src="auto">Dg-------1A----</AM>
 </tag>
@@ -1460,7 +1460,7 @@
 <tag>
 <AM lemma="Tucson_;G" src="auto">NNIS2-----A----</AM>
 <AM lemma="Tucson_;G" src="auto">NNIS3-----A----</AM>
-<AM lemma="Tucson_;G" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="Tucson_;G_;m" src="auto" recommended="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1902-001-p1s5W19-Ta">

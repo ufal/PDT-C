@@ -992,7 +992,7 @@
 <LM>w#w-mf930713-086-p2s7w3</LM>
 </w.rf>
 <form>civilu</form>
-<tag lemma="civil_^(nevoják)" src="auto" selected="1">NNMS6-----A---1</tag>
+<tag lemma="civil-2_^(nevoják)" src="auto" selected="1">NNMS6-----A---1</tag>
 </m>
 <m id="m-mf930713-086-p2s7w4">
 <src.rf>manual</src.rf>
@@ -1248,7 +1248,7 @@
 <LM>w#w-mf930713-086-p2s9w9</LM>
 </w.rf>
 <form>výtržnosti</form>
-<tag lemma="výtržnost_,a_^(*3ý)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="výtržnost_^(*3ý)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930713-086-p2s9w10">
 <src.rf>manual</src.rf>
@@ -1320,7 +1320,7 @@
 <LM>w#w-mf930713-086-p2s9w18</LM>
 </w.rf>
 <form>zkrácení</form>
-<tag lemma="zkrácení_,a_^(*2t)" src="auto" selected="1">NNNS2-----A----</tag>
+<tag lemma="zkrácení_^(*4tit)" src="auto" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-mf930713-086-p2s9w19">
 <src.rf>manual</src.rf>

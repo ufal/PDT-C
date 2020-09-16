@@ -69,7 +69,7 @@
 <LM>w#w-lnd92255-096-p2s1w5</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-lnd92255-096-p2s1w6">
 <src.rf>manual</src.rf>
@@ -260,7 +260,7 @@
 <LM>w#w-lnd92255-096-p2s3w13</LM>
 </w.rf>
 <form>dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92255-096-p2s3w14">
 <src.rf>manual</src.rf>
@@ -380,7 +380,7 @@
 <LM>w#w-lnd92255-096-p2s4w2</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-lnd92255-096-p2s4w3">
 <src.rf>manual</src.rf>
@@ -856,7 +856,7 @@
 <LM>w#w-lnd92255-096-p3s3w3</LM>
 </w.rf>
 <form>oficielní</form>
-<tag lemma="oficiální" src="orig" selected="1">AAFS4----1A----</tag>
+<tag lemma="oficielní_,s_^(^DD**oficiální)" src="orig" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-lnd92255-096-p3s3w4">
 <src.rf>manual</src.rf>
@@ -1191,7 +1191,7 @@
 <LM>w#w-lnd92255-096-p3s5w20</LM>
 </w.rf>
 <form>delší</form>
-<tag lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">AAFS1----2A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFS1----2A----</tag>
 </m>
 <m id="m-lnd92255-096-p3s5w21">
 <src.rf>manual</src.rf>
@@ -1435,7 +1435,7 @@
 <LM>w#w-lnd92255-096-p3s7w16</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-lnd92255-096-p3s7w17">
 <src.rf>manual</src.rf>
@@ -1525,7 +1525,7 @@
 <LM>w#w-lnd92255-096-p3s8w2</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-lnd92255-096-p3s8w3">
 <src.rf>manual</src.rf>
@@ -1661,7 +1661,7 @@
 <LM>w#w-lnd92255-096-p3s8w19</LM>
 </w.rf>
 <form>dávno</form>
-<tag lemma="dávno" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="dávno-1" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd92255-096-p3s8w20">
 <src.rf>manual</src.rf>

@@ -756,7 +756,7 @@
 <LM>w#w-ln94204-161-p3s2w14</LM>
 </w.rf>
 <form>Široký</form>
-<tag lemma="Široký" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Široký_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-161-p3s2w15">
 <src.rf>manual</src.rf>
@@ -852,7 +852,7 @@
 <LM>w#w-ln94204-161-p3s2w26</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-ln94204-161-p3s2w27">
 <src.rf>manual</src.rf>
@@ -1051,7 +1051,7 @@
 <LM>w#w-ln94204-161-p4s2w7</LM>
 </w.rf>
 <form>stanoveného</form>
-<tag lemma="stanovený_^(určit)_(*3it)" src="orig" selected="1">AAIS2----1A----</tag>
+<tag lemma="stanovený_^(*3it)" src="orig" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-ln94204-161-p4s2w8">
 <src.rf>manual</src.rf>
@@ -1540,7 +1540,7 @@
 <LM>w#w-ln94204-161-p6s2w10</LM>
 </w.rf>
 <form>satelit</form>
-<tag lemma="satelit" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="satelit-1" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln94204-161-p6s2w11">
 <src.rf>manual</src.rf>
@@ -1778,7 +1778,7 @@
 <LM>w#w-ln94204-161-p6s5w8</LM>
 </w.rf>
 <form>rozvody</form>
-<tag lemma="rozvod-2_^(vody,_plynu...)" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="rozvod_^(manželství;vody)" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-ln94204-161-p6s5w9">
 <src.rf>manual</src.rf>

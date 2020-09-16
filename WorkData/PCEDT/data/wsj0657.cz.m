@@ -124,7 +124,7 @@
 <AM lemma="první" src="auto">CrNP4----------</AM>
 <AM lemma="první" src="auto">CrNP5----------</AM>
 <AM lemma="první" src="auto">CrNS1----------</AM>
-<AM lemma="první" src="auto" recommended="1">CrNS4----------</AM>
+<AM lemma="první-1" src="auto" recommended="1">CrNS4----------</AM>
 <AM lemma="první" src="auto">CrNS5----------</AM>
 </tag>
 </m>
@@ -245,7 +245,7 @@
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP1FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP5FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9ZS1FS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9ZS1FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSZS5FS3-------</AM>
 </tag>
 </m>
@@ -311,7 +311,7 @@
 <form>zdaněním</form>
 <tag>
 <AM lemma="zdanění_^(vypočítat_daň)_(*3it)" src="auto">NNNP3-----A----</AM>
-<AM lemma="zdanění_^(vypočítat_daň)_(*3it)" src="auto" recommended="1">NNNS7-----A----</AM>
+<AM lemma="zdanění_^(*3it)" src="auto" recommended="1">NNNS7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0657-001-p1s0W23-Ta">
@@ -926,7 +926,7 @@
 </w.rf>
 <form>Nikon</form>
 <tag>
-<AM lemma="Nikon_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Nikon-2_;m" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Nikon_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="Nikon_;Y" src="auto">NNMS1-----A----</AM>
 </tag>
@@ -1286,7 +1286,7 @@
 </w.rf>
 <form>Nikon</form>
 <tag>
-<AM lemma="Nikon_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Nikon-2_;m" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Nikon_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="Nikon_;Y" src="auto">NNMS1-----A----</AM>
 </tag>
@@ -1597,7 +1597,7 @@
 </w.rf>
 <form>Nikon</form>
 <tag>
-<AM lemma="Nikon_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Nikon-2_;m" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Nikon_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="Nikon_;Y" src="auto">NNMS1-----A----</AM>
 </tag>
@@ -2276,7 +2276,7 @@
 </w.rf>
 <form>Nikon</form>
 <tag>
-<AM lemma="Nikon_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Nikon-2_;m" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Nikon_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="Nikon_;Y" src="auto">NNMS1-----A----</AM>
 </tag>
@@ -2582,7 +2582,7 @@
 <form>zdaněním</form>
 <tag>
 <AM lemma="zdanění_^(vypočítat_daň)_(*3it)" src="auto">NNNP3-----A----</AM>
-<AM lemma="zdanění_^(vypočítat_daň)_(*3it)" src="auto" recommended="1">NNNS7-----A----</AM>
+<AM lemma="zdanění_^(*3it)" src="auto" recommended="1">NNNS7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0657-001-p1s9W8-Ta">

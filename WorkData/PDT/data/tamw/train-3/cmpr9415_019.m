@@ -63,7 +63,7 @@
 <LM>w#w-cmpr9415-019-p4s1w2</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrIP4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIP4----------</tag>
 </m>
 <m id="m-cmpr9415-019-p4s1w3">
 <src.rf>manual</src.rf>
@@ -356,7 +356,7 @@
 <LM>w#w-cmpr9415-019-p4s2w14</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-cmpr9415-019-p4s2w15">
 <src.rf>manual</src.rf>

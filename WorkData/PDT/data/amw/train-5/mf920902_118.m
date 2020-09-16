@@ -45,7 +45,7 @@
 <LM>w#w-mf920902-118-p2s1w1</LM>
 </w.rf>
 <form>Karlovy</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUIP1M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUIP1M---------</tag>
 </m>
 <m id="m-mf920902-118-p2s1w2">
 <src.rf>manual</src.rf>
@@ -183,7 +183,7 @@
 <LM>w#w-mf920902-118-p2s2w12</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP6-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP6-P1-------</tag>
 </m>
 <m id="m-mf920902-118-p2s2w13">
 <src.rf>manual</src.rf>
@@ -427,7 +427,7 @@
 <LM>w#w-mf920902-118-p2s4w6</LM>
 </w.rf>
 <form>vytváření</form>
-<tag lemma="vytváření_,a_^(*2t)" src="auto" selected="1">NNNS6-----A----</tag>
+<tag lemma="vytváření_^(*2t)_(*3it)" src="auto" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-mf920902-118-p2s4w7">
 <src.rf>manual</src.rf>
@@ -443,7 +443,7 @@
 <LM>w#w-mf920902-118-p2s4w8</LM>
 </w.rf>
 <form>image</form>
-<tag lemma="image" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="image-3" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-mf920902-118-p2s4w9">
 <src.rf>manual</src.rf>
@@ -725,7 +725,7 @@
 <LM>w#w-mf920902-118-p2s6w9</LM>
 </w.rf>
 <form>Karlových</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUIP2M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUIP2M---------</tag>
 </m>
 <m id="m-mf920902-118-p2s6w10">
 <src.rf>manual</src.rf>

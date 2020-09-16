@@ -237,7 +237,7 @@
 <LM>w#w-lnd91301-002-p3s1Bw13</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd91301-002-p3s1Bw14">
 <src.rf>manual</src.rf>
@@ -387,7 +387,7 @@
 <LM>w#w-lnd91301-002-p4s1w14</LM>
 </w.rf>
 <form>lidech</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP6-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP6-----A----</tag>
 </m>
 <m id="m-lnd91301-002-p4s1w15">
 <src.rf>manual</src.rf>

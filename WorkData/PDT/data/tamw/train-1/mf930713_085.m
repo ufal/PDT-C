@@ -1293,7 +1293,7 @@
 <LM>w#w-mf930713-085-p4s3w6</LM>
 </w.rf>
 <form>duchu</form>
-<tag lemma="duch" src="orig" selected="1">NNMS6-----A---1</tag>
+<tag lemma="duch-1" src="orig" selected="1">NNMS6-----A---1</tag>
 </m>
 <m id="m-mf930713-085-p4s3w7">
 <src.rf>manual</src.rf>

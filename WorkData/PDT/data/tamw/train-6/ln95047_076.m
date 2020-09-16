@@ -199,7 +199,7 @@
 <LM>w#w-ln95047-076-p2s1Bw14</LM>
 </w.rf>
 <form>dny</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP7-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP7-----A----</tag>
 </m>
 <m id="m-ln95047-076-p2s1Bw15">
 <src.rf>manual</src.rf>

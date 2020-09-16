@@ -44,7 +44,7 @@
 <AM lemma="druhý" src="auto">CrMP1---------6</AM>
 <AM lemma="druhý" src="auto">CrMP4---------6</AM>
 <AM lemma="druhý" src="auto">CrMP5---------6</AM>
-<AM lemma="druhý" src="auto" recommended="1" selected="1">CrMS1----------</AM>
+<AM lemma="druhý`2" src="auto" recommended="1" selected="1">CrMS1----------</AM>
 <AM lemma="druhý" src="auto">CrMS5----------</AM>
 <AM lemma="druhý" src="auto">CrNP1---------6</AM>
 <AM lemma="druhý" src="auto">CrNP4---------6</AM>
@@ -76,7 +76,7 @@
 <LM>w#w-mf920922-070-p1s1w5</LM>
 </w.rf>
 <form>Evropě</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 </s>
 <s id="m-mf920922-070-p2s1">
@@ -177,7 +177,7 @@
 <LM>w#w-mf920922-070-p2s1w12</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP2-P1-------</tag>
 </m>
 <m id="m-mf920922-070-p2s1w13">
 <src.rf>manual</src.rf>
@@ -185,7 +185,7 @@
 <LM>w#w-mf920922-070-p2s1w13</LM>
 </w.rf>
 <form>jezdců</form>
-<tag lemma="jezdec" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="jezdec-1" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf920922-070-p2s1w14">
 <src.rf>manual</src.rf>
@@ -550,7 +550,7 @@
 <LM>w#w-mf920922-070-p2s4w6</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS4----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS4----------</tag>
 </m>
 <m id="m-mf920922-070-p2s4w7">
 <src.rf>manual</src.rf>
@@ -872,7 +872,7 @@
 <AM lemma="porsche_;m" src="auto">NNNS2-----A----</AM>
 <AM lemma="porsche_;m" src="auto">NNNS4-----A----</AM>
 <AM lemma="porsche_;m" src="auto">NNNS5-----A----</AM>
-<AM lemma="porsche_;m" src="auto" recommended="1" selected="1">NNXXX-----A----</AM>
+<AM lemma="Porsche-1_;m" src="auto" recommended="1" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-070-p2s5w30">
@@ -1209,7 +1209,7 @@
 <AM lemma="porsche_;m" src="auto">NNNS2-----A----</AM>
 <AM lemma="porsche_;m" src="auto">NNNS4-----A----</AM>
 <AM lemma="porsche_;m" src="auto">NNNS5-----A----</AM>
-<AM lemma="porsche_;m" src="auto" recommended="1" selected="1">NNXXX-----A----</AM>
+<AM lemma="Porsche-1_;m" src="auto" recommended="1" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-070-p2s5w68">

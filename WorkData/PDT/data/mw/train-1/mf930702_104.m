@@ -377,7 +377,7 @@
 <LM>w#w-mf930702-104-p2s4w3</LM>
 </w.rf>
 <form>vydaném</form>
-<tag lemma="vydaný-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*4t-1)" src="orig" selected="1">AANS6----1A----</tag>
+<tag lemma="vydaný_^(*2t)" src="orig" selected="1">AANS6----1A----</tag>
 </m>
 <m id="m-mf930702-104-p2s4w4">
 <src.rf>manual</src.rf>
@@ -627,7 +627,7 @@
 <LM>w#w-mf930702-104-p2s5w10</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-mf930702-104-p2s5w11">
 <src.rf>manual</src.rf>

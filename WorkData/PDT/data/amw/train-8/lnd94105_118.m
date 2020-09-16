@@ -19,7 +19,7 @@
 <LM>w#w-lnd94105-118-p1s1w1</LM>
 </w.rf>
 <form>Ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-lnd94105-118-p1s1w2">
 <src.rf>manual</src.rf>
@@ -122,7 +122,7 @@
 <LM>w#w-lnd94105-118-p1s3w3</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP2-P1-------</tag>
 </m>
 <m id="m-lnd94105-118-p1s3w4">
 <src.rf>manual</src.rf>
@@ -589,7 +589,7 @@
 <LM>w#w-lnd94105-118-p1s5w25</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-lnd94105-118-p1s5w26">
 <src.rf>manual</src.rf>
@@ -605,7 +605,7 @@
 <LM>w#w-lnd94105-118-p1s5w27</LM>
 </w.rf>
 <form>manažer</form>
-<tag lemma="manažer" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="manažer-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94105-118-p1s5w28">
 <src.rf>manual</src.rf>

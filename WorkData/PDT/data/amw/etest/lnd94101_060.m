@@ -377,7 +377,7 @@
 <LM>w#w-lnd94101-060-p1s4w1</LM>
 </w.rf>
 <form>Mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94101-060-p1s4w2">
 <src.rf>manual</src.rf>
@@ -622,7 +622,7 @@
 <LM>w#w-lnd94101-060-p1s5w16</LM>
 </w.rf>
 <form>Alího</form>
-<tag lemma="Alí_;Y" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Alí-1_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd94101-060-p1s5w17">
 <src.rf>manual</src.rf>

@@ -101,7 +101,7 @@
 <LM>w#w-mf920925-081-p2s2w2</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-mf920925-081-p2s2w3">
 <src.rf>manual</src.rf>
@@ -235,7 +235,7 @@
 <LM>w#w-mf920925-081-p2s2w18</LM>
 </w.rf>
 <form>činitelů</form>
-<tag lemma="činitel" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="činitel-1" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf920925-081-p2s2w19">
 <src.rf>manual</src.rf>

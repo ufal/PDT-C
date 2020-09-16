@@ -500,7 +500,7 @@
 <LM>w#w-mf930701-153-p2s2w8</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS7----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS7----------</tag>
 </m>
 <m id="m-mf930701-153-p2s2w9">
 <src.rf>manual</src.rf>

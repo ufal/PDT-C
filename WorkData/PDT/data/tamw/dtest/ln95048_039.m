@@ -447,7 +447,7 @@
 <LM>w#w-ln95048-039-p2s4w2</LM>
 </w.rf>
 <form>děti</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-ln95048-039-p2s4w3">
 <src.rf>manual</src.rf>

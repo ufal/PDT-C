@@ -19,7 +19,7 @@
 <LM>w#w-lnd94101-026-p1s1w1</LM>
 </w.rf>
 <form>Mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="mluvčí-2" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94101-026-p1s1w2">
 <src.rf>manual</src.rf>

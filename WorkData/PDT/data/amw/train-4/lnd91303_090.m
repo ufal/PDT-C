@@ -134,7 +134,7 @@
 <LM>w#w-lnd91303-090-p3s1w2</LM>
 </w.rf>
 <form>úvodních</form>
-<tag lemma="úvodní_,s" src="auto" selected="1">AAIP6----1A----</tag>
+<tag lemma="úvodní" src="auto" selected="1">AAIP6----1A----</tag>
 </m>
 <m id="m-lnd91303-090-p3s1w3">
 <src.rf>manual</src.rf>
@@ -502,7 +502,7 @@
 <LM>w#w-lnd91303-090-p4s2w1</LM>
 </w.rf>
 <form>Nejlepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAMS1----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAMS1----3A----</tag>
 </m>
 <m id="m-lnd91303-090-p4s2w2">
 <src.rf>manual</src.rf>
@@ -534,7 +534,7 @@
 <LM>w#w-lnd91303-090-p4s2w5</LM>
 </w.rf>
 <form>pelotonu</form>
-<tag lemma="peloton" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="peloton_,s_^(^DD**peleton)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd91303-090-p4s2w6">
 <src.rf>manual</src.rf>
@@ -550,7 +550,7 @@
 <LM>w#w-lnd91303-090-p4s2w7</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrIS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS6----------</tag>
 </m>
 <m id="m-lnd91303-090-p4s2w8">
 <src.rf>manual</src.rf>
@@ -1350,7 +1350,7 @@
 <LM>w#w-lnd91303-090-p6s3w33</LM>
 </w.rf>
 <form>dál</form>
-<tag lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="dál-3_,s_^(také,_za_další)_(^DD**dále-3)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd91303-090-p6s3w34">
 <src.rf>manual</src.rf>

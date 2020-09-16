@@ -167,7 +167,7 @@
 <LM>w#w-ln94210-57-p2s1Bw14</LM>
 </w.rf>
 <form>hnutí</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln94210-57-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -268,7 +268,7 @@
 <LM>w#w-ln94210-57-p2s2w6</LM>
 </w.rf>
 <form>napadení</form>
-<tag lemma="napadení_^(*3nout)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="napadení" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln94210-57-p2s2w7">
 <src.rf>manual</src.rf>
@@ -517,7 +517,7 @@
 <LM>w#w-ln94210-57-p2s4w5</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS7----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS7----------</tag>
 </m>
 <m id="m-ln94210-57-p2s4w6">
 <src.rf>manual</src.rf>

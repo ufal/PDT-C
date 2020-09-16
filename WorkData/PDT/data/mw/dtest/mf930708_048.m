@@ -19,7 +19,7 @@
 <LM>w#w-mf930708-048-p1s1w1</LM>
 </w.rf>
 <form>Průvodce</form>
-<tag lemma="průvodce" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="průvodce-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-048-p1s1w2">
 <src.rf>manual</src.rf>
@@ -338,7 +338,7 @@
 <LM>w#w-mf930708-048-p2s2w23</LM>
 </w.rf>
 <form>průvodce</form>
-<tag lemma="průvodce" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="průvodce-1" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf930708-048-p2s2w24">
 <src.rf>manual</src.rf>

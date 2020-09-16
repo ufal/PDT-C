@@ -155,7 +155,7 @@
 <LM>w#w-ln94203-129-p1s2w6</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-ln94203-129-p1s2w7">
 <src.rf>manual</src.rf>

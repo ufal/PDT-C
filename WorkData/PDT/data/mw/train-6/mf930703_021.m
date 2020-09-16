@@ -46,7 +46,7 @@
 <LM>w#w-mf930703-021-p1s1w4</LM>
 </w.rf>
 <form>ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf930703-021-p1s1w5">
 <src.rf>manual</src.rf>

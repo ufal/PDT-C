@@ -69,7 +69,7 @@
 <LM>w#w-mf920902-065-p2s1w5</LM>
 </w.rf>
 <form>Boby</form>
-<tag lemma="Boby_;m" src="auto" selected="1">NNXXX-----A----</tag>
+<tag lemma="Boby-2_;m" src="auto" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-mf920902-065-p2s1w6">
 <src.rf>manual</src.rf>

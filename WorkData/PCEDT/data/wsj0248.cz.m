@@ -18,7 +18,7 @@
 <form>Váš</form>
 <tag>
 <AM lemma="tvůj_^(přivlast.)" src="auto">PSIS4-P2-------</AM>
-<AM lemma="tvůj_^(přivlast.)" src="auto" recommended="1">PSYS1-P2-------</AM>
+<AM lemma="váš" src="auto" recommended="1">PSYS1-P2-------</AM>
 <AM lemma="tvůj_^(přivlast.)" src="auto">PSYS5-P2-------</AM>
 </tag>
 </m>
@@ -49,7 +49,7 @@
 <AM lemma="otištěný_^(*5sknout)" src="auto">AAIP1----1A---6</AM>
 <AM lemma="otištěný_^(*5sknout)" src="auto">AAIP4----1A---6</AM>
 <AM lemma="otištěný_^(*5sknout)" src="auto">AAIP5----1A---6</AM>
-<AM lemma="otištěný_^(*5sknout)" src="auto" recommended="1">AAIS1----1A----</AM>
+<AM lemma="otištěný" src="auto" recommended="1">AAIS1----1A----</AM>
 <AM lemma="otištěný_^(*5sknout)" src="auto">AAIS4----1A----</AM>
 <AM lemma="otištěný_^(*5sknout)" src="auto">AAIS5----1A----</AM>
 <AM lemma="otištěný_^(*5sknout)" src="auto">AAMP1----1A---6</AM>
@@ -92,7 +92,7 @@
 <AM lemma="první" src="auto">CrFS3----------</AM>
 <AM lemma="první" src="auto">CrFS4----------</AM>
 <AM lemma="první" src="auto">CrFS5----------</AM>
-<AM lemma="první" src="auto" recommended="1">CrFS6----------</AM>
+<AM lemma="první-1" src="auto" recommended="1">CrFS6----------</AM>
 <AM lemma="první" src="auto">CrFS7----------</AM>
 <AM lemma="první" src="auto">CrIP1----------</AM>
 <AM lemma="první" src="auto">CrIP4----------</AM>
@@ -173,7 +173,7 @@
 <form>lidech</form>
 <tag>
 <AM lemma="lido" src="auto">NNNP6-----A----</AM>
-<AM lemma="člověk" src="auto" recommended="1">NNMP6-----A----</AM>
+<AM lemma="lidé" src="auto" recommended="1">NNMP6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0248-001-p1s0W12-Ta">
@@ -360,7 +360,7 @@
 </w.rf>
 <form>vašim</form>
 <tag>
-<AM lemma="tvůj_^(přivlast.)" src="auto" recommended="1">PSXP3-P2-------</AM>
+<AM lemma="váš" src="auto" recommended="1">PSXP3-P2-------</AM>
 <AM lemma="tvůj_^(přivlast.)" src="auto">PSZS7-P2------6</AM>
 </tag>
 </m>

@@ -656,7 +656,7 @@
 <LM>w#w-ln95046-116-p3s1w29</LM>
 </w.rf>
 <form>potřeby</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-ln95046-116-p3s1w30">
 <src.rf>manual</src.rf>

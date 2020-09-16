@@ -208,7 +208,7 @@
 <LM>w#w-mf930703-033-p2s1w17</LM>
 </w.rf>
 <form>benzinu</form>
-<tag lemma="benzín" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="benzin_,s_^(^DD**benzín)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930703-033-p2s1w18">
 <src.rf>manual</src.rf>
@@ -261,7 +261,7 @@
 <LM>w#w-mf930703-033-p2s2w4</LM>
 </w.rf>
 <form>benzinu</form>
-<tag lemma="benzín" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="benzin_,s_^(^DD**benzín)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930703-033-p2s2w5">
 <src.rf>manual</src.rf>
@@ -333,7 +333,7 @@
 <LM>w#w-mf930703-033-p2s2w13</LM>
 </w.rf>
 <form>zelená</form>
-<tag lemma="zelený" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="zelený_;o" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-mf930703-033-p2s2w14">
 <src.rf>manual</src.rf>
@@ -429,7 +429,7 @@
 <LM>w#w-mf930703-033-p2s2w25</LM>
 </w.rf>
 <form>benzin</form>
-<tag lemma="benzín" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="benzin_,s_^(^DD**benzín)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930703-033-p2s2w26">
 <src.rf>manual</src.rf>
@@ -506,7 +506,7 @@
 <LM>w#w-mf930703-033-p2s3w1</LM>
 </w.rf>
 <form>Dovážený</form>
-<tag lemma="dovážený_^(dokončit_vážení)_(*2t)" src="auto" selected="1">AAIS1----1A----</tag>
+<tag lemma="dovážený_^(*2t)_(*3it)" src="auto" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-mf930703-033-p2s3w2">
 <src.rf>manual</src.rf>
@@ -859,7 +859,7 @@
 <LM>w#w-mf930703-033-p2s5w8</LM>
 </w.rf>
 <form>benzinu</form>
-<tag lemma="benzín" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="benzin_,s_^(^DD**benzín)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930703-033-p2s5w9">
 <src.rf>manual</src.rf>

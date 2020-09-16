@@ -127,7 +127,7 @@
 <LM>w#w-mf920923-034-p2s2w6</LM>
 </w.rf>
 <form>jejímž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1ZS7FS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1ZS7FS3-------</tag>
 </m>
 <m id="m-mf920923-034-p2s2w7">
 <src.rf>manual</src.rf>
@@ -329,7 +329,7 @@
 <LM>w#w-mf920923-034-p2s3w1</LM>
 </w.rf>
 <form>Její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XP1FS3-------</tag>
 </m>
 <m id="m-mf920923-034-p2s3w2">
 <src.rf>manual</src.rf>
@@ -872,7 +872,7 @@
 <LM>w#w-mf920923-034-p2s5w12</LM>
 </w.rf>
 <form>stojí</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920923-034-p2s5w13">
 <src.rf>manual</src.rf>
@@ -896,7 +896,7 @@
 <LM>w#w-mf920923-034-p2s5w15</LM>
 </w.rf>
 <form>správního</form>
-<tag lemma="správní_^(např._poplatek;_rada;_řád;...)" src="orig" selected="1">AAIS2----1A----</tag>
+<tag lemma="správní_^(správní_rada;_řád)" src="orig" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-mf920923-034-p2s5w16">
 <src.rf>manual</src.rf>
@@ -904,7 +904,7 @@
 <LM>w#w-mf920923-034-p2s5w16</LM>
 </w.rf>
 <form>orgánu</form>
-<tag lemma="orgán" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920923-034-p2s5w17">
 <src.rf>manual</src.rf>

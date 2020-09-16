@@ -170,7 +170,7 @@
 <AM lemma="první" src="auto">CrIP4----------</AM>
 <AM lemma="první" src="auto">CrIP5----------</AM>
 <AM lemma="první" src="auto">CrIS1----------</AM>
-<AM lemma="první" src="auto" recommended="1">CrIS4----------</AM>
+<AM lemma="první-1" src="auto" recommended="1">CrIS4----------</AM>
 <AM lemma="první" src="auto">CrIS5----------</AM>
 <AM lemma="první" src="auto">CrMP1----------</AM>
 <AM lemma="první" src="auto">CrMP4----------</AM>
@@ -215,7 +215,7 @@
 </w.rf>
 <form>dá</form>
 <tag>
-<AM lemma="dát" src="auto" recommended="1">VB-S---3P-AAP--</AM>
+<AM lemma="dát-1" src="auto" recommended="1">VB-S---3P-AAP--</AM>
 <AM lemma="dát-2_^(dá_se_očekávat)" src="auto">VB-S---3P-AAI--</AM>
 </tag>
 </m>
@@ -611,7 +611,7 @@
 <AM lemma="Hugo-2_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Hugo-2_;G" src="auto">NNNS5-----A----</AM>
 <AM lemma="Hugo-1_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Hugo-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Hugo_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0627-001-p1s2W21-Ta">
@@ -1585,7 +1585,7 @@
 </w.rf>
 <form>ukazatelů</form>
 <tag>
-<AM lemma="ukazatel" src="auto" selected="1">NNIP2-----A----</AM>
+<AM lemma="ukazatel-1" src="auto" selected="1">NNIP2-----A----</AM>
 <AM lemma="ukazatel" src="auto" recommended="1">NNMP2-----A----</AM>
 </tag>
 </m>
@@ -2687,7 +2687,7 @@
 <AM lemma="York-2_;G" src="auto">NNIS2-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS5-----A----</AM>
-<AM lemma="York-2_;G" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="York-2_;G_;m" src="auto" recommended="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0627-001-p1s7W33-Ta">
@@ -2834,7 +2834,7 @@
 <AM lemma="dobrý" src="auto">AAFS5----2A----</AM>
 <AM lemma="dobrý" src="auto">AAFS6----2A----</AM>
 <AM lemma="dobrý" src="auto">AAFS7----2A----</AM>
-<AM lemma="dobrý" src="auto" selected="1">AAIP1----2A----</AM>
+<AM lemma="lepší" src="auto" selected="1">AAIP1----2A----</AM>
 <AM lemma="dobrý" src="auto">AAIP4----2A----</AM>
 <AM lemma="dobrý" src="auto">AAIP5----2A----</AM>
 <AM lemma="dobrý" src="auto">AAIS1----2A----</AM>
@@ -4539,7 +4539,7 @@
 <AM lemma="první" src="auto">CrFS6----------</AM>
 <AM lemma="první" src="auto">CrFS7----------</AM>
 <AM lemma="první" src="auto">CrIP1----------</AM>
-<AM lemma="první" src="auto" recommended="1">CrIP4----------</AM>
+<AM lemma="první-1" src="auto" recommended="1">CrIP4----------</AM>
 <AM lemma="první" src="auto">CrIP5----------</AM>
 <AM lemma="první" src="auto">CrIS1----------</AM>
 <AM lemma="první" src="auto">CrIS4----------</AM>
@@ -4819,7 +4819,7 @@
 <form>indikátor</form>
 <tag>
 <AM lemma="indikátor" src="auto">NNIS1-----A----</AM>
-<AM lemma="indikátor" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="indikátor-1" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="indikátor" src="auto">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -4895,7 +4895,7 @@
 <form>indikátor</form>
 <tag>
 <AM lemma="indikátor" src="auto">NNIS1-----A----</AM>
-<AM lemma="indikátor" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="indikátor-1" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="indikátor" src="auto">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -4975,7 +4975,7 @@
 </w.rf>
 <form>ukazatel</form>
 <tag>
-<AM lemma="ukazatel" src="auto" selected="1">NNIS1-----A----</AM>
+<AM lemma="ukazatel-1" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="ukazatel" src="auto">NNIS4-----A----</AM>
 <AM lemma="ukazatel" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
@@ -5223,7 +5223,7 @@
 <tag>
 <AM lemma="David_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="David_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="David_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="David-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0627-001-p1s15W2-Ta">
@@ -5841,7 +5841,7 @@
 <form>ukazatele</form>
 <tag>
 <AM lemma="ukazatel" src="auto">NNIP1-----A----</AM>
-<AM lemma="ukazatel" src="auto" selected="1">NNIP4-----A----</AM>
+<AM lemma="ukazatel-1" src="auto" selected="1">NNIP4-----A----</AM>
 <AM lemma="ukazatel" src="auto">NNIP5-----A----</AM>
 <AM lemma="ukazatel" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="ukazatel" src="auto">NNMP4-----A----</AM>
@@ -7795,7 +7795,7 @@
 </w.rf>
 <form>faktory</form>
 <tag>
-<AM lemma="faktor" src="auto" recommended="1">NNIP1-----A----</AM>
+<AM lemma="faktor-1" src="auto" recommended="1">NNIP1-----A----</AM>
 <AM lemma="faktor" src="auto">NNIP4-----A----</AM>
 <AM lemma="faktor" src="auto">NNIP5-----A----</AM>
 <AM lemma="faktor" src="auto">NNIP7-----A----</AM>

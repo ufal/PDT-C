@@ -19,7 +19,7 @@
 <LM>w#w-ln94208-39-p1s1Aw1</LM>
 </w.rf>
 <form>Model</form>
-<tag lemma="model" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="model-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94208-39-p1s1Aw2">
 <src.rf>manual</src.rf>

@@ -264,7 +264,7 @@
 <LM>w#w-ln95040-107-p2s2w4</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="mluvčí-2" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95040-107-p2s2w5">
 <src.rf>manual</src.rf>
@@ -301,7 +301,7 @@
 <form>Nikolská</form>
 <tag>
 <AM lemma="Nikolský_;Y" src="orig">NNFS1-----A----</AM>
-<AM lemma="Nikolská_;Y" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
+<AM lemma="Nikolská_;Y_^(*1ý)" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 <AM lemma="Nikolská_;Y" src="auto">NNFS5-----A----</AM>
 </tag>
 </m>
@@ -361,7 +361,7 @@
 <LM>w#w-ln95040-107-p2s3w6</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrIP1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIP1----------</tag>
 </m>
 <m id="m-ln95040-107-p2s3w7">
 <src.rf>manual</src.rf>
@@ -741,7 +741,7 @@
 <LM>w#w-ln95040-107-p2s5w15</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS7---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS7---------1</tag>
 </m>
 <m id="m-ln95040-107-p2s5w16">
 <src.rf>manual</src.rf>

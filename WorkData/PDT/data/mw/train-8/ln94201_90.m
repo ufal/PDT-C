@@ -964,7 +964,7 @@
 <LM>w#w-ln94201-90-p2s6w11</LM>
 </w.rf>
 <form>tajný</form>
-<tag lemma="tajný" src="orig" selected="1">AAMS1----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AAMS1----1A----</tag>
 </m>
 <m id="m-ln94201-90-p2s6w12">
 <src.rf>manual</src.rf>

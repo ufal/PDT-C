@@ -956,7 +956,7 @@
 <AM lemma="program-1" src="auto" recommended="1">NNIP4-----A----</AM>
 <AM lemma="program-1" src="auto">NNIP5-----A----</AM>
 <AM lemma="program-1" src="auto">NNIP7-----A----</AM>
-<AM lemma="program" src="manual" selected="1">NNIP4-----A----</AM>
+<AM lemma="program-1" src="manual" selected="1">NNIP4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1827-001-p1s1W36-Ta">
@@ -2581,7 +2581,7 @@
 <form>stadiu</form>
 <tag>
 <AM lemma="stadium" src="auto">NNNS3-----A----</AM>
-<AM lemma="stadium" src="auto" recommended="1">NNNS6-----A----</AM>
+<AM lemma="stadium_,s_^(^DD**stádium)" src="auto" recommended="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1827-001-p1s7W27-Ta">
@@ -3790,7 +3790,7 @@
 <form>letech</form>
 <tag>
 <AM lemma="let" src="auto">NNIP6-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP6-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1827-001-p1s10W36-Ta">
@@ -3976,7 +3976,7 @@
 <form>letoun</form>
 <tag>
 <AM lemma="letoun" src="auto">NNIS1-----A----</AM>
-<AM lemma="letoun" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="letoun-1" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="letoun" src="auto">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -5278,7 +5278,7 @@
 <tag>
 <AM lemma="Faktor_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Faktor_;Y" src="auto">NNMP7-----A----</AM>
-<AM lemma="faktor" src="auto" recommended="1">NNIP1-----A----</AM>
+<AM lemma="faktor-1" src="auto" recommended="1">NNIP1-----A----</AM>
 <AM lemma="faktor" src="auto">NNIP4-----A----</AM>
 <AM lemma="faktor" src="auto">NNIP5-----A----</AM>
 <AM lemma="faktor" src="auto">NNIP7-----A----</AM>

@@ -43,7 +43,7 @@
 <LM>w#w-cmpr9407-003-p2s1w4</LM>
 </w.rf>
 <form>ukazatelů</form>
-<tag lemma="ukazatel" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="ukazatel-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-cmpr9407-003-p2s1w5">
 <src.rf>manual</src.rf>

@@ -71,7 +71,7 @@
 <LM>w#w-ln95042-032-p2s1Bw2</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-ln95042-032-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -79,7 +79,7 @@
 <LM>w#w-ln95042-032-p2s1Bw3</LM>
 </w.rf>
 <form>nejlepšího</form>
-<tag lemma="dobrý" src="orig" selected="1">AAMS2----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAMS2----3A----</tag>
 </m>
 <m id="m-ln95042-032-p2s1Bw4">
 <src.rf>manual</src.rf>

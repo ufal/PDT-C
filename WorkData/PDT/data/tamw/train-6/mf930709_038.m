@@ -193,7 +193,7 @@
 <LM>w#w-mf930709-038-p2s2w1</LM>
 </w.rf>
 <form>Její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS1FS3-------</tag>
 </m>
 <m id="m-mf930709-038-p2s2w2">
 <src.rf>manual</src.rf>
@@ -295,7 +295,7 @@
 <LM>w#w-mf930709-038-p2s2w13</LM>
 </w.rf>
 <form>prvních</form>
-<tag lemma="první" src="orig" selected="1">CrIP2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIP2----------</tag>
 </m>
 <m id="m-mf930709-038-p2s2w14">
 <src.rf>manual</src.rf>

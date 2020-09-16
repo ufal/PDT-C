@@ -157,7 +157,7 @@
 <LM>w#w-ln94200-115-p2s1w16</LM>
 </w.rf>
 <form>černé</form>
-<tag lemma="černý" src="auto" selected="1">AAFS2----1A----</tag>
+<tag lemma="černý_;o" src="auto" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-ln94200-115-p2s1w17">
 <src.rf>manual</src.rf>
@@ -181,7 +181,7 @@
 <LM>w#w-ln94200-115-p2s1w19</LM>
 </w.rf>
 <form>bílé</form>
-<tag lemma="bílý" src="orig" selected="1">AAFS2----1A----</tag>
+<tag lemma="bílý_;o" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-ln94200-115-p2s1w20">
 <src.rf>manual</src.rf>
@@ -335,7 +335,7 @@
 <LM>w#w-ln94200-115-p2s2w17</LM>
 </w.rf>
 <form>bílé</form>
-<tag lemma="bílý" src="orig" selected="1">AAFS3----1A----</tag>
+<tag lemma="bílý_;o" src="orig" selected="1">AAFS3----1A----</tag>
 </m>
 <m id="m-ln94200-115-p2s2w18">
 <src.rf>manual</src.rf>
@@ -375,7 +375,7 @@
 <LM>w#w-ln94200-115-p2s2w22</LM>
 </w.rf>
 <form>černé</form>
-<tag lemma="černý" src="auto" selected="1">AAFS2----1A----</tag>
+<tag lemma="černý_;o" src="auto" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-ln94200-115-p2s2w23">
 <src.rf>manual</src.rf>
@@ -801,7 +801,7 @@
 <LM>w#w-ln94200-115-p2s4w28</LM>
 </w.rf>
 <form>černé</form>
-<tag lemma="černý" src="auto" selected="1">AAIP4----1A----</tag>
+<tag lemma="černý_;o" src="auto" selected="1">AAIP4----1A----</tag>
 </m>
 <m id="m-ln94200-115-p2s4w29">
 <src.rf>manual</src.rf>
@@ -889,7 +889,7 @@
 <LM>w#w-ln94200-115-p2s4w38</LM>
 </w.rf>
 <form>bílá</form>
-<tag lemma="bílý" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="bílý_;o" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-ln94200-115-p2s4w39">
 <src.rf>manual</src.rf>
@@ -926,7 +926,7 @@
 <AM lemma="Marion_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Marion_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Marion_;Y_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Marion_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Marion-1_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-115-p2s4w43">

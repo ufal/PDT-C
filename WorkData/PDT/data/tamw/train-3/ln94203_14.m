@@ -758,7 +758,7 @@
 <form>prostřednictvím</form>
 <tag>
 <AM lemma="prostřednictví" src="orig">NNNS7-----A----</AM>
-<AM lemma="prostřednictví-2" src="manual" selected="1">RR--2----------</AM>
+<AM lemma="prostřednictvím" src="manual" selected="1">RR--2----------</AM>
 </tag>
 </m>
 <m id="m-ln94203-14-p3s3w7">
@@ -944,7 +944,7 @@
 <LM>w#w-ln94203-14-p4s1w2</LM>
 </w.rf>
 <form>dali</form>
-<tag lemma="dát" src="orig" selected="1">VpMP----R-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94203-14-p4s1w3">
 <src.rf>manual</src.rf>

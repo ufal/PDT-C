@@ -43,7 +43,7 @@
 <LM>w#w-ln95044-039-p1s1w4</LM>
 </w.rf>
 <form>nepříjemný</form>
-<tag lemma="příjemný-1_^(všeob.,_poz._emoce)" src="orig" selected="1">AAIS1----1N----</tag>
+<tag lemma="příjemný_^(všeob.,_poz._emoce)" src="orig" selected="1">AAIS1----1N----</tag>
 </m>
 <m id="m-ln95044-039-p1s1w5">
 <src.rf>manual</src.rf>
@@ -213,7 +213,7 @@
 <LM>w#w-ln95044-039-p2s1Bw17</LM>
 </w.rf>
 <form>nepříjemný</form>
-<tag lemma="příjemný-1_^(všeob.,_poz._emoce)" src="orig" selected="1">AAIS1----1N----</tag>
+<tag lemma="příjemný_^(všeob.,_poz._emoce)" src="orig" selected="1">AAIS1----1N----</tag>
 </m>
 <m id="m-ln95044-039-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -473,7 +473,7 @@
 <LM>w#w-ln95044-039-p2s3w3</LM>
 </w.rf>
 <form>Cantonův</form>
-<tag lemma="Cantonův_;Y_^(*2a)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Cantonův_;Y_^(*2-2)_(*2a)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-ln95044-039-p2s3w4">
 <src.rf>manual</src.rf>
@@ -597,7 +597,7 @@
 <LM>w#w-ln95044-039-p2s3w17</LM>
 </w.rf>
 <form>uměním</form>
-<tag lemma="umění_^(mít_schopnost_něco_dělat)_(*2t)" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="umění_^(*2t)" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-ln95044-039-p2s3w18">
 <src.rf>manual</src.rf>

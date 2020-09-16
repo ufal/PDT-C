@@ -43,7 +43,7 @@
 <LM>w#w-lnd92251-039-p1s1w4</LM>
 </w.rf>
 <form>druhého</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS2----------</tag>
 </m>
 <m id="m-lnd92251-039-p1s1w5">
 <src.rf>manual</src.rf>
@@ -51,7 +51,7 @@
 <LM>w#w-lnd92251-039-p1s1w5</LM>
 </w.rf>
 <form>vydání</form>
-<tag lemma="vydání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="vydání_^(*3at)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92251-039-p2s1">
@@ -274,7 +274,7 @@
 <LM>w#w-lnd92251-039-p2s2w7</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS7---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS7---------1</tag>
 </m>
 <m id="m-lnd92251-039-p2s2w8">
 <src.rf>manual</src.rf>
@@ -452,7 +452,7 @@
 <LM>w#w-lnd92251-039-p3s1w2</LM>
 </w.rf>
 <form>Spirituál</form>
-<tag lemma="spirituál" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="spirituál-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92251-039-p3s1w3">
 <src.rf>manual</src.rf>
@@ -484,7 +484,7 @@
 <LM>w#w-lnd92251-039-p3s1w6</LM>
 </w.rf>
 <form>dlouhé</form>
-<tag lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">AAFS6----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFS6----1A----</tag>
 </m>
 <m id="m-lnd92251-039-p3s1w7">
 <src.rf>manual</src.rf>

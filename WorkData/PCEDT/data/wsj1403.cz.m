@@ -110,7 +110,7 @@
 <AM lemma="první" src="auto">CrFS3----------</AM>
 <AM lemma="první" src="auto">CrFS4----------</AM>
 <AM lemma="první" src="auto">CrFS5----------</AM>
-<AM lemma="první" src="auto" recommended="1">CrFS6----------</AM>
+<AM lemma="první-1" src="auto" recommended="1">CrFS6----------</AM>
 <AM lemma="první" src="auto">CrFS7----------</AM>
 <AM lemma="první" src="auto">CrIP1----------</AM>
 <AM lemma="první" src="auto">CrIP4----------</AM>
@@ -708,7 +708,7 @@
 </w.rf>
 <form>měsíčních</form>
 <tag>
-<AM lemma="měsíční_^(lhůta;svit)" src="auto" recommended="1">AAFP2----1A----</AM>
+<AM lemma="měsíční" src="auto" recommended="1">AAFP2----1A----</AM>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AAFP6----1A----</AM>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AAIP2----1A----</AM>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AAIP6----1A----</AM>

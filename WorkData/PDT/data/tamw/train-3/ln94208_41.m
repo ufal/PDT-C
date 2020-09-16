@@ -61,7 +61,7 @@
 <LM>w#w-ln94208-41-p2s1w5</LM>
 </w.rf>
 <form>dlouhá</form>
-<tag lemma="dlouhý-1_^(fyz._délka;_př._dlouhá_tyč)" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-ln94208-41-p2s1w6">
 <src.rf>manual</src.rf>
@@ -261,7 +261,7 @@
 <LM>w#w-ln94208-41-p2s2w6</LM>
 </w.rf>
 <form>směny</form>
-<tag lemma="směna-2_^(pracovní;...)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="směna_^(výměna_za_něco;pracovní)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94208-41-p2s2w7">
 <src.rf>manual</src.rf>

@@ -117,7 +117,7 @@
 <LM>w#w-lnd94105-099-p1s3w3</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-lnd94105-099-p1s3w4">
 <src.rf>manual</src.rf>
@@ -266,7 +266,7 @@
 <tag>
 <AM lemma="sice-2" src="auto">Db-------------</AM>
 <AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual">J^-------------</AM>
-<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="sice-2" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94105-099-p1s4w5">
@@ -368,7 +368,7 @@
 <form>hodně</form>
 <tag>
 <AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
-<AM lemma="hodně-3" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="hodně_^(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-099-p1s4w17">
@@ -733,7 +733,7 @@
 <LM>w#w-lnd94105-099-p1s16w2</LM>
 </w.rf>
 <form>druhém</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-lnd94105-099-p1s16w3">
 <src.rf>manual</src.rf>
@@ -765,7 +765,7 @@
 <LM>w#w-lnd94105-099-p1s16w6</LM>
 </w.rf>
 <form>roli</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="role_^(svitek_poslání_pozemek)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-lnd94105-099-p1s16w7">
 <src.rf>manual</src.rf>
@@ -847,7 +847,7 @@
 <LM>w#w-lnd94105-099-p1s17w8</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-lnd94105-099-p1s17w9">
 <src.rf>manual</src.rf>

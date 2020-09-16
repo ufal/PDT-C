@@ -140,7 +140,7 @@
 <LM>w#w-ln94205-89-p1s1w15</LM>
 </w.rf>
 <form>druhou</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS4----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS4----------</tag>
 </m>
 <m id="m-ln94205-89-p1s1w16">
 <src.rf>manual</src.rf>

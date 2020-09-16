@@ -144,7 +144,7 @@
 <LM>w#w-lnd92252-090-p2s1w13</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1ZS1FS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1ZS1FS3-------</tag>
 </m>
 <m id="m-lnd92252-090-p2s1w14">
 <src.rf>manual</src.rf>
@@ -195,7 +195,7 @@
 <LM>w#w-lnd92252-090-p2s1w19</LM>
 </w.rf>
 <form>hubenou</form>
-<tag lemma="hubený_^([příliš]_štíhlý)_(*3it)" src="auto" selected="1">AAFS7----1A----</tag>
+<tag lemma="hubený_^(*3it)" src="auto" selected="1">AAFS7----1A----</tag>
 </m>
 <m id="m-lnd92252-090-p2s1w20">
 <src.rf>manual</src.rf>
@@ -473,7 +473,7 @@
 <LM>w#w-lnd92252-090-p2s4w4</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd92252-090-p2s4w5">
 <src.rf>manual</src.rf>

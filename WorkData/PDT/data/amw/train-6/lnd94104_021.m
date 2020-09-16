@@ -150,7 +150,7 @@
 <LM>w#w-lnd94104-021-p1s1Aw17</LM>
 </w.rf>
 <form>zatčeným</form>
-<tag lemma="zatčený_^(*4knout)" src="orig" selected="1">AAMP3----1A----</tag>
+<tag lemma="zatčený" src="orig" selected="1">AAMP3----1A----</tag>
 </m>
 <m id="m-lnd94104-021-p1s1Aw18">
 <src.rf>manual</src.rf>
@@ -182,7 +182,7 @@
 <LM>w#w-lnd94104-021-p1s1Aw21</LM>
 </w.rf>
 <form>předání</form>
-<tag lemma="předání-3_^(někomu_něco)_(*5at-3)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="předání_^(*3at)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-lnd94104-021-p1s1Aw22">
 <src.rf>manual</src.rf>
@@ -504,7 +504,7 @@
 <LM>w#w-lnd94104-021-p1s1Bw11</LM>
 </w.rf>
 <form>Dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd94104-021-p1s1Bw12">
 <src.rf>manual</src.rf>

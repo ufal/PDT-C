@@ -492,7 +492,7 @@
 <LM>w#w-mf920901-085-p2s4w16</LM>
 </w.rf>
 <form>Karlových</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUIP6M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUIP6M---------</tag>
 </m>
 <m id="m-mf920901-085-p2s4w17">
 <src.rf>manual</src.rf>
@@ -857,7 +857,7 @@
 <LM>w#w-mf920901-085-p3s2w6</LM>
 </w.rf>
 <form>proudění</form>
-<tag lemma="proudění-2_^(pohyb_kap.,_plynu)_(*5it-2)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="proudění-2_^(*5it-2)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-mf920901-085-p3s2w7">
 <src.rf>manual</src.rf>

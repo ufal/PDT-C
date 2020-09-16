@@ -125,7 +125,7 @@
 <LM>w#w-mf930708-017-p2s1w8</LM>
 </w.rf>
 <form>bílou</form>
-<tag lemma="bílý" src="orig" selected="1">AAFS4----1A----</tag>
+<tag lemma="bílý_;o" src="orig" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-mf930708-017-p2s1w9">
 <src.rf>manual</src.rf>
@@ -261,7 +261,7 @@
 <AM lemma="mazda_;m" src="auto">NNFP1-----A----</AM>
 <AM lemma="mazda_;m" src="auto">NNFP4-----A----</AM>
 <AM lemma="mazda_;m" src="auto">NNFP5-----A----</AM>
-<AM lemma="mazda_;m" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
+<AM lemma="mazda" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-017-p2s1w25">
@@ -384,7 +384,7 @@
 <LM>w#w-mf930708-017-p2s2w5</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-mf930708-017-p2s2w6">
 <src.rf>manual</src.rf>
@@ -1193,7 +1193,7 @@
 <AM lemma="jedoucí-1_^(pohybovat_se,_ne_však_chůzí)_(*7t-1)" src="auto">AGFS1-----A----</AM>
 <AM lemma="jedoucí-1_^(pohybovat_se,_ne_však_chůzí)_(*7t-1)" src="auto">AGFS2-----A----</AM>
 <AM lemma="jedoucí-1_^(pohybovat_se,_ne_však_chůzí)_(*7t-1)" src="auto">AGFS3-----A----</AM>
-<AM lemma="jedoucí-1_^(pohybovat_se,_ne_však_chůzí)_(*7t-1)" src="auto" selected="1">AGFS4-----A----</AM>
+<AM lemma="jedoucí-1_^(*7t-1)" src="auto" selected="1">AGFS4-----A----</AM>
 <AM lemma="jedoucí-1_^(pohybovat_se,_ne_však_chůzí)_(*7t-1)" src="auto">AGFS5-----A----</AM>
 <AM lemma="jedoucí-1_^(pohybovat_se,_ne_však_chůzí)_(*7t-1)" src="auto">AGFS6-----A----</AM>
 <AM lemma="jedoucí-1_^(pohybovat_se,_ne_však_chůzí)_(*7t-1)" src="auto">AGFS7-----A----</AM>
@@ -1281,7 +1281,7 @@
 <LM>w#w-mf930708-017-p4s3w12</LM>
 </w.rf>
 <form>najatá</form>
-<tag lemma="najatý_^(*3mout)" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="najatý" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-mf930708-017-p4s3w13">
 <src.rf>manual</src.rf>

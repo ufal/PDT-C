@@ -117,7 +117,7 @@
 <LM>w#w-mf930713-108-p2s1w9</LM>
 </w.rf>
 <form>našeho</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSZS2-P1-------</tag>
 </m>
 <m id="m-mf930713-108-p2s1w10">
 <src.rf>manual</src.rf>
@@ -875,7 +875,7 @@
 <LM>w#w-mf930713-108-p2s6w17</LM>
 </w.rf>
 <form>naši</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSMP1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSMP1-P1-------</tag>
 </m>
 <m id="m-mf930713-108-p2s6w18">
 <src.rf>manual</src.rf>
@@ -925,7 +925,7 @@
 <form>jen</form>
 <tag>
 <AM lemma="jen-1" src="auto">TT-------------</AM>
-<AM lemma="jen-4_(pouze)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf930713-108-p2s6w24">
@@ -1154,7 +1154,7 @@
 <form>protekcionalismus</form>
 <tag>
 <AM lemma="protekcionalizmus" src="orig">NNIS4-----A----</AM>
-<AM lemma="protekcionalismus_,s_^(^DD**perfekcionalizmus)" src="manual" selected="1">NNIS4-----A----</AM>
+<AM lemma="protekcionalismus_,s_^(^DD**protekcionalizmus)" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-108-p2s8w9">
@@ -1203,7 +1203,7 @@
 <LM>w#w-mf930713-108-p2s8w14</LM>
 </w.rf>
 <form>naše</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP4-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP4-P1-------</tag>
 </m>
 <m id="m-mf930713-108-p2s8w15">
 <src.rf>manual</src.rf>
@@ -1605,7 +1605,7 @@
 <LM>w#w-mf930713-108-p2s11w7</LM>
 </w.rf>
 <form>právo</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-mf930713-108-p2s11w8">
 <src.rf>manual</src.rf>
@@ -1793,7 +1793,7 @@
 <LM>w#w-mf930713-108-p2s13w1</LM>
 </w.rf>
 <form>Ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf930713-108-p2s13w2">
 <src.rf>manual</src.rf>
@@ -2229,7 +2229,7 @@
 <LM>w#w-mf930713-108-p2s15w17</LM>
 </w.rf>
 <form>koupeného</form>
-<tag lemma="koupený_^(něco_sobě/někomu)_(*3it)" src="orig" selected="1">AANS2----1A----</tag>
+<tag lemma="koupený_^(*3it)" src="orig" selected="1">AANS2----1A----</tag>
 </m>
 <m id="m-mf930713-108-p2s15w18">
 <src.rf>manual</src.rf>
@@ -2327,7 +2327,7 @@
 <LM>w#w-mf930713-108-p2s16w1</LM>
 </w.rf>
 <form>Naše</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSHS1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSHS1-P1-------</tag>
 </m>
 <m id="m-mf930713-108-p2s16w2">
 <src.rf>manual</src.rf>
@@ -2552,7 +2552,7 @@
 <LM>w#w-mf930713-108-p2s19w2</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS7----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS7----------</tag>
 </m>
 <m id="m-mf930713-108-p2s19w3">
 <src.rf>manual</src.rf>
@@ -2659,7 +2659,7 @@
 <LM>w#w-mf930713-108-p2s19w15</LM>
 </w.rf>
 <form>svoji</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4----------</tag>
 </m>
 <m id="m-mf930713-108-p2s19w16">
 <src.rf>manual</src.rf>

@@ -359,7 +359,7 @@
 <form>Fantu</form>
 <tag>
 <AM lemma="Fanta_;Y" src="orig">NNMS4-----A----</AM>
-<AM lemma="Fanta_;m" src="manual" selected="1">NNFS4-----A----</AM>
+<AM lemma="Fanta-1_;m" src="manual" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-077-p1s2w17">
@@ -913,7 +913,7 @@
 <LM>w#w-lnd94103-077-p1s5w8</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS1----------</tag>
 </m>
 <m id="m-lnd94103-077-p1s5w9">
 <src.rf>manual</src.rf>

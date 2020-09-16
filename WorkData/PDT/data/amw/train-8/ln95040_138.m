@@ -228,7 +228,7 @@
 <LM>w#w-ln95040-138-p3s1Bw14</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8NS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8NS4---------1</tag>
 </m>
 <m id="m-ln95040-138-p3s1Bw15">
 <src.rf>manual</src.rf>
@@ -276,7 +276,7 @@
 <LM>w#w-ln95040-138-p3s1Bw20</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS7----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS7----------</tag>
 </m>
 <m id="m-ln95040-138-p3s1Bw21">
 <src.rf>manual</src.rf>
@@ -508,7 +508,7 @@
 <LM>w#w-ln95040-138-p4s2w13</LM>
 </w.rf>
 <form>zatčení</form>
-<tag lemma="zatčení_^(*4knout)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="zatčení" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-ln95040-138-p4s2w14">
 <src.rf>manual</src.rf>
@@ -810,7 +810,7 @@
 <LM>w#w-ln95040-138-p5s1w15</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS7----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS7----------</tag>
 </m>
 <m id="m-ln95040-138-p5s1w16">
 <src.rf>manual</src.rf>
@@ -1112,7 +1112,7 @@
 <LM>w#w-ln95040-138-p5s3w9</LM>
 </w.rf>
 <form>otištění</form>
-<tag lemma="otištění_^(*5sknout)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="otištění" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln95040-138-p5s3w10">
 <src.rf>manual</src.rf>
@@ -1210,7 +1210,7 @@
 <LM>w#w-ln95040-138-p5s4w6</LM>
 </w.rf>
 <form>jejího</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS2FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS2FS3-------</tag>
 </m>
 <m id="m-ln95040-138-p5s4w7">
 <src.rf>manual</src.rf>
@@ -1504,7 +1504,7 @@
 <LM>w#w-ln95040-138-p5s6w8</LM>
 </w.rf>
 <form>vězení</form>
-<tag lemma="vězení_,a_^(místo_výkonu_trestu)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="vězení_^(místo_výkonu_trestu)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln95040-138-p5s6w9">
 <src.rf>manual</src.rf>
@@ -1594,7 +1594,7 @@
 <LM>w#w-ln95040-138-p6s1w1</LM>
 </w.rf>
 <form>Soudkyně</form>
-<tag lemma="soudkyně_^(člověk,_který_soudí)_(*4ce)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="soudkyně_^(*4ce)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95040-138-p6s1w2">
 <src.rf>manual</src.rf>
@@ -1890,7 +1890,7 @@
 <LM>w#w-ln95040-138-p6s3w4</LM>
 </w.rf>
 <form>tajné</form>
-<tag lemma="tajný" src="orig" selected="1">AAIP1----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AAIP1----1A----</tag>
 </m>
 <m id="m-ln95040-138-p6s3w5">
 <src.rf>manual</src.rf>
@@ -2031,7 +2031,7 @@
 <LM>w#w-ln95040-138-p6s4w10</LM>
 </w.rf>
 <form>Koecherovi</form>
-<tag lemma="Koecherův_;Y_,s_^(*2)" src="orig" selected="1">AUMP1M---------</tag>
+<tag lemma="Koecherův_;Y_^(*2)" src="orig" selected="1">AUMP1M---------</tag>
 </m>
 <m id="m-ln95040-138-p6s4w11">
 <src.rf>manual</src.rf>
@@ -2270,7 +2270,7 @@
 <LM>w#w-ln95040-138-p6s7w1</LM>
 </w.rf>
 <form>Soudkyně</form>
-<tag lemma="soudkyně_^(člověk,_který_soudí)_(*4ce)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="soudkyně_^(*4ce)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95040-138-p6s7w2">
 <src.rf>manual</src.rf>
@@ -2608,7 +2608,7 @@
 <LM>w#w-ln95040-138-p7s1w1</LM>
 </w.rf>
 <form>Koecherovi</form>
-<tag lemma="Koecherův_;Y_,s_^(*2)" src="orig" selected="1">AUMP1M---------</tag>
+<tag lemma="Koecherův_;Y_^(*2)" src="orig" selected="1">AUMP1M---------</tag>
 </m>
 <m id="m-ln95040-138-p7s1w2">
 <src.rf>manual</src.rf>
@@ -2838,7 +2838,7 @@
 <LM>w#w-ln95040-138-p7s2w12</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-ln95040-138-p7s2w13">
 <src.rf>manual</src.rf>
@@ -2878,7 +2878,7 @@
 <LM>w#w-ln95040-138-p7s2w17</LM>
 </w.rf>
 <form>tajné</form>
-<tag lemma="tajný" src="orig" selected="1">AAIP4----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AAIP4----1A----</tag>
 </m>
 <m id="m-ln95040-138-p7s2w18">
 <src.rf>manual</src.rf>

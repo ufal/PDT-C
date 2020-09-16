@@ -93,7 +93,7 @@
 <LM>w#w-mf920902-130-p1s1Bw1</LM>
 </w.rf>
 <form>STOJÍ</form>
-<tag lemma="stát-4_^(něco_stojí_peníze)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920902-130-p1s1Bw2">
 <src.rf>manual</src.rf>
@@ -164,7 +164,7 @@
 <LM>w#w-mf920902-130-p2s2w1</LM>
 </w.rf>
 <form>Děti</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-mf920902-130-p2s2w2">
 <src.rf>manual</src.rf>
@@ -244,7 +244,7 @@
 <LM>w#w-mf920902-130-p2s2w11</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS6---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS6---------1</tag>
 </m>
 <m id="m-mf920902-130-p2s2w12">
 <src.rf>manual</src.rf>
@@ -252,7 +252,7 @@
 <LM>w#w-mf920902-130-p2s2w12</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-mf920902-130-p2s2w13">
 <src.rf>manual</src.rf>
@@ -268,7 +268,7 @@
 <LM>w#w-mf920902-130-p2s2w14</LM>
 </w.rf>
 <form>cestě</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf920902-130-p2s2w15">
 <src.rf>manual</src.rf>
@@ -560,7 +560,7 @@
 <LM>w#w-mf920902-130-p3s1w14</LM>
 </w.rf>
 <form>Heathrow</form>
-<tag lemma="Heathrow_;G" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="Heathrow-1_;G" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-mf920902-130-p3s1w15">
 <src.rf>manual</src.rf>
@@ -1048,7 +1048,7 @@
 <LM>w#w-mf920902-130-p4s1w17</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8MS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8MS4----------</tag>
 </m>
 <m id="m-mf920902-130-p4s1w18">
 <src.rf>manual</src.rf>
@@ -1178,7 +1178,7 @@
 <LM>w#w-mf920902-130-p4s2w13</LM>
 </w.rf>
 <form>rovnost</form>
-<tag lemma="rovnost_^(přímý,_stejný,_spravedlivý)_(*3ý)" src="auto" selected="1">NNFS4-----A----</tag>
+<tag lemma="rovnost_^(*3ý)" src="auto" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf920902-130-p4s2w14">
 <src.rf>manual</src.rf>
@@ -1266,7 +1266,7 @@
 <LM>w#w-mf920902-130-p4s2w24</LM>
 </w.rf>
 <form>mužskému</form>
-<tag lemma="mužský" src="orig" selected="1">AANS3----1A----</tag>
+<tag lemma="mužský-1" src="orig" selected="1">AANS3----1A----</tag>
 </m>
 <m id="m-mf920902-130-p4s2w25">
 <src.rf>manual</src.rf>

@@ -369,7 +369,7 @@
 <LM>w#w-lnd91303-083-p3s3w9</LM>
 </w.rf>
 <form>léta</form>
-<tag lemma="rok" src="orig" selected="1">NNNP1-----A---2</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP1-----A---2</tag>
 </m>
 <m id="m-lnd91303-083-p3s3w10">
 <src.rf>manual</src.rf>
@@ -953,7 +953,7 @@
 <LM>w#w-lnd91303-083-p5s2w23</LM>
 </w.rf>
 <form>zaměstnání</form>
-<tag lemma="zaměstnání-1_^(všeob._význam:_činnost,_zaměstnání)_(*5at-1)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="zaměstnání_^(*3at)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-lnd91303-083-p5s2w24">
 <src.rf>manual</src.rf>
@@ -1273,7 +1273,7 @@
 <LM>w#w-lnd91303-083-p6s2w12</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd91303-083-p6s2w13">
 <src.rf>manual</src.rf>
@@ -2022,7 +2022,7 @@
 <LM>w#w-lnd91303-083-p9s1w4</LM>
 </w.rf>
 <form>naší</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS2-P1-------</tag>
 </m>
 <m id="m-lnd91303-083-p9s1w5">
 <src.rf>manual</src.rf>
@@ -2197,7 +2197,7 @@
 <LM>w#w-lnd91303-083-p9s1w25</LM>
 </w.rf>
 <form>rudé</form>
-<tag lemma="rudý" src="orig" selected="1">AAFP4----1A----</tag>
+<tag lemma="rudý_;o" src="orig" selected="1">AAFP4----1A----</tag>
 </m>
 <m id="m-lnd91303-083-p9s1w26">
 <src.rf>manual</src.rf>
@@ -2854,7 +2854,7 @@
 <LM>w#w-lnd91303-083-p11s1w32</LM>
 </w.rf>
 <form>mého</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS2-S1-------</tag>
+<tag lemma="můj" src="orig" selected="1">PSZS2-S1-------</tag>
 </m>
 <m id="m-lnd91303-083-p11s1w33">
 <src.rf>manual</src.rf>
@@ -2880,7 +2880,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -3108,7 +3108,7 @@
 <LM>w#w-lnd91303-083-p12s2w11</LM>
 </w.rf>
 <form>druhému</form>
-<tag lemma="druhý" src="orig" selected="1">CrMS3----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrMS3----------</tag>
 </m>
 <m id="m-lnd91303-083-p12s2w12">
 <src.rf>manual</src.rf>

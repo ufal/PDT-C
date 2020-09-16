@@ -1421,7 +1421,7 @@
 <tag>
 <AM lemma="Terry_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Terry_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Terry_;Y_Y" src="manual" selected="1">NNMS4-----A----</AM>
+<AM lemma="Terry_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1518-001-p1s3W9-Ta">

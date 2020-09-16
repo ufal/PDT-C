@@ -322,7 +322,7 @@
 <LM>w#w-ln94207-123-p2s2w10</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94207-123-p2s2w11">
 <src.rf>manual</src.rf>
@@ -547,7 +547,7 @@
 <LM>w#w-ln94207-123-p2s4w2</LM>
 </w.rf>
 <form>odpovědnosti</form>
-<tag lemma="odpovědnost_^(kdo_za_něco_odpovídá)_(*3ý)" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="odpovědnost_^(*3ý)" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-ln94207-123-p2s4w3">
 <src.rf>manual</src.rf>

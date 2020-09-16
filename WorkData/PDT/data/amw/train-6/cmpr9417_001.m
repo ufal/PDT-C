@@ -759,7 +759,7 @@
 <LM>w#w-cmpr9417-001-p5s1w16</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-cmpr9417-001-p5s1w17">
 <src.rf>manual</src.rf>
@@ -998,7 +998,7 @@
 <LM>w#w-cmpr9417-001-p6s2w2</LM>
 </w.rf>
 <form>čističů</form>
-<tag lemma="čistič_^(prostředek)" src="auto" selected="1">NNIP2-----A----</tag>
+<tag lemma="čistič-2_^(prostředek)" src="auto" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-cmpr9417-001-p6s2w3">
 <src.rf>manual</src.rf>

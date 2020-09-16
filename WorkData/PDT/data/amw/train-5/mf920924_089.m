@@ -35,7 +35,7 @@
 <LM>w#w-mf920924-089-p2s1w3</LM>
 </w.rf>
 <form>km</form>
-<tag lemma="km-1`kilometr" src="orig" selected="1">NNIXX-----A---b</tag>
+<tag lemma="kilometr" src="orig" selected="1">NNIXX-----A---b</tag>
 </m>
 <m id="m-mf920924-089-p2s1w4">
 <src.rf>manual</src.rf>
@@ -43,7 +43,7 @@
 <LM>w#w-mf920924-089-p2s1w4</LM>
 </w.rf>
 <form>dlouhou</form>
-<tag lemma="dlouhý-1_^(fyz._délka;_př._dlouhá_tyč)" src="orig" selected="1">AAFS4----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-mf920924-089-p2s1w5">
 <src.rf>manual</src.rf>
@@ -427,7 +427,7 @@
 <LM>w#w-mf920924-089-p2s4w7</LM>
 </w.rf>
 <form>Perlini</form>
-<tag lemma="Perlini_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Perlini-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-089-p2s4w8">
 <src.rf>manual</src.rf>
@@ -491,7 +491,7 @@
 <LM>w#w-mf920924-089-p2s4w15</LM>
 </w.rf>
 <form>Perlini</form>
-<tag lemma="Perlini_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Perlini-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-089-p2s4w16">
 <src.rf>manual</src.rf>
@@ -573,7 +573,7 @@
 <LM>w#w-mf920924-089-p2s7w1</LM>
 </w.rf>
 <form>Naši</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSMP1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSMP1-P1-------</tag>
 </m>
 <m id="m-mf920924-089-p2s7w2">
 <src.rf>manual</src.rf>
@@ -717,7 +717,7 @@
 <LM>w#w-mf920924-089-p2s7w19</LM>
 </w.rf>
 <form>druhou</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS4----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS4----------</tag>
 </m>
 <m id="m-mf920924-089-p2s7w20">
 <src.rf>manual</src.rf>

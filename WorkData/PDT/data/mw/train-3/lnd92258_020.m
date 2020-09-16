@@ -30,7 +30,7 @@
 <tag>
 <AM lemma="Mercedes-2_;m_^(vozidlo)" src="orig">NNIP4-----A----</AM>
 <AM lemma="mercedes_;m_^(vozidlo)" src="auto">NNIP1-----A----</AM>
-<AM lemma="mercedes_;m_^(vozidlo)" src="auto" recommended="1" selected="1">NNIP4-----A----</AM>
+<AM lemma="mercedes_^(vozidlo)" src="auto" recommended="1" selected="1">NNIP4-----A----</AM>
 <AM lemma="mercedes_;m_^(vozidlo)" src="auto">NNIP5-----A----</AM>
 <AM lemma="mercedes_;m_^(vozidlo)" src="auto">NNIP7-----A----</AM>
 </tag>
@@ -891,7 +891,7 @@
 <form>mercedes</form>
 <tag>
 <AM lemma="Mercedes-2_;m_^(vozidlo)" src="orig">NNIS1-----A----</AM>
-<AM lemma="mercedes_;m_^(vozidlo)" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
+<AM lemma="mercedes_^(vozidlo)" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="mercedes_;m_^(vozidlo)" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>

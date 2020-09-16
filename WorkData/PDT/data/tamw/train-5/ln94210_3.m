@@ -302,7 +302,7 @@
 <LM>w#w-ln94210-3-p2s2w8</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-ln94210-3-p2s2w9">
 <src.rf>manual</src.rf>

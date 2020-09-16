@@ -219,7 +219,7 @@
 <LM>w#w-cmpr9410-026-p4s1w9</LM>
 </w.rf>
 <form>děti</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-cmpr9410-026-p4s1w10">
 <src.rf>manual</src.rf>

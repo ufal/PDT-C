@@ -51,7 +51,7 @@
 <LM>w#w-mf930708-002-p1s1w5</LM>
 </w.rf>
 <form>sarinu</form>
-<tag lemma="sarin_;U" src="orig" selected="1">NNIS6-----A---1</tag>
+<tag lemma="sarin" src="orig" selected="1">NNIS6-----A---1</tag>
 </m>
 <m id="m-mf930708-002-p1s1w6">
 <src.rf>manual</src.rf>
@@ -289,7 +289,7 @@
 <LM>w#w-mf930708-002-p2s1w27</LM>
 </w.rf>
 <form>sarinu</form>
-<tag lemma="sarin_;U" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="sarin" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930708-002-p2s1w28">
 <src.rf>manual</src.rf>
@@ -446,7 +446,7 @@
 <LM>w#w-mf930708-002-p2s2w18</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf930708-002-p2s2w19">
 <src.rf>manual</src.rf>
@@ -509,7 +509,7 @@
 <LM>w#w-mf930708-002-p3s1w1</LM>
 </w.rf>
 <form>Mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-002-p3s1w2">
 <src.rf>manual</src.rf>
@@ -970,7 +970,7 @@
 <LM>w#w-mf930708-002-p4s1w24</LM>
 </w.rf>
 <form>sarin</form>
-<tag lemma="sarin_;U" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="sarin" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-mf930708-002-p4s1w25">
 <src.rf>manual</src.rf>
@@ -1148,7 +1148,7 @@
 <LM>w#w-mf930708-002-p5s1w8</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf930708-002-p5s1w9">
 <src.rf>manual</src.rf>
@@ -1247,7 +1247,7 @@
 <LM>w#w-mf930708-002-p5s1w20</LM>
 </w.rf>
 <form>sarinu</form>
-<tag lemma="sarin_;U" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="sarin" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930708-002-p5s1w21">
 <src.rf>manual</src.rf>
@@ -1507,7 +1507,7 @@
 <LM>w#w-mf930708-002-p5s3w11</LM>
 </w.rf>
 <form>tajná</form>
-<tag lemma="tajný" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-mf930708-002-p5s3w12">
 <src.rf>manual</src.rf>
@@ -1755,7 +1755,7 @@
 <LM>w#w-mf930708-002-p6s1w28</LM>
 </w.rf>
 <form>veteránů</form>
-<tag lemma="veterán" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="veterán-1" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf930708-002-p6s1w29">
 <src.rf>manual</src.rf>

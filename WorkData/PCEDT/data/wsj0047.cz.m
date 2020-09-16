@@ -709,7 +709,7 @@
 </w.rf>
 <form>Huntingtonova</form>
 <tag>
-<AM lemma="Huntingtonův_;Y_^(*2)" src="auto" recommended="1">AUFS1M---------</AM>
+<AM lemma="Huntingtonův-1_;Y_^(*4-1)" src="auto" recommended="1">AUFS1M---------</AM>
 <AM lemma="Huntingtonův_;Y_^(*2)" src="auto">AUFS5M---------</AM>
 <AM lemma="Huntingtonův_;Y_^(*2)" src="auto">AUIS2M---------</AM>
 <AM lemma="Huntingtonův_;Y_^(*2)" src="auto">AUMS2M---------</AM>
@@ -1723,7 +1723,7 @@
 <tag>
 <AM lemma="činitel" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="činitel" src="auto">NNMP5-----A----</AM>
-<AM lemma="činitel-2" src="manual" selected="1">NNMP1-----A----</AM>
+<AM lemma="činitel-1" src="manual" selected="1">NNMP1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0047-001-p1s5W2-Ta">
@@ -2695,7 +2695,7 @@
 <form>svého</form>
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8MS4----------</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8ZS2----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8ZS2----------</AM>
 </tag>
 </m>
 <m id="m-wsj0047-001-p1s7W20-Ta">
@@ -3995,7 +3995,7 @@
 <form>své</form>
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FP1---------1</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8FP4---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8FP4---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS2---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS3---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS6---------1</AM>
@@ -4125,7 +4125,7 @@
 <tag>
 <AM lemma="činitel" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="činitel" src="auto">NNMP5-----A----</AM>
-<AM lemma="činitel-2" src="manual" selected="1">NNMP1-----A----</AM>
+<AM lemma="činitel-1" src="manual" selected="1">NNMP1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0047-001-p1s11W13-Ta">
@@ -5070,7 +5070,7 @@
 <AM lemma="nařčený_^(*4knout)" src="auto">AAMP5----1A----</AM>
 <AM lemma="nařčení_^(*4knout)" src="auto">NNNP1-----A----</AM>
 <AM lemma="nařčení_^(*4knout)" src="auto">NNNP2-----A----</AM>
-<AM lemma="nařčení_^(*4knout)" src="auto" recommended="1">NNNP4-----A----</AM>
+<AM lemma="nařčení" src="auto" recommended="1">NNNP4-----A----</AM>
 <AM lemma="nařčení_^(*4knout)" src="auto">NNNP5-----A----</AM>
 <AM lemma="nařčení_^(*4knout)" src="auto">NNNS1-----A----</AM>
 <AM lemma="nařčení_^(*4knout)" src="auto">NNNS2-----A----</AM>

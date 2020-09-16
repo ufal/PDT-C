@@ -350,7 +350,7 @@
 <LM>w#w-mf930708-095-p2s2w4</LM>
 </w.rf>
 <form>dne</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930708-095-p2s2w5">
 <src.rf>manual</src.rf>
@@ -516,7 +516,7 @@
 <LM>w#w-mf930708-095-p2s2w26</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-mf930708-095-p2s2w27">
 <src.rf>manual</src.rf>
@@ -581,7 +581,7 @@
 <LM>w#w-mf930708-095-p2s3w2</LM>
 </w.rf>
 <form>jejích</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP2FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XP2FS3-------</tag>
 </m>
 <m id="m-mf930708-095-p2s3w3">
 <src.rf>manual</src.rf>

@@ -109,7 +109,7 @@
 <LM>w#w-mf920922-107-p1s2w9</LM>
 </w.rf>
 <form>představení</form>
-<tag lemma="představení-1_^(si_něco;_něco/někoho_někomu)_(*5it-1)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="představení-1_^(*5it-1)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-mf920922-107-p1s2w10">
 <src.rf>manual</src.rf>

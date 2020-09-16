@@ -308,7 +308,7 @@
 <LM>w#w-ln94209-106-p1s2w3</LM>
 </w.rf>
 <form>Vopálková</form>
-<tag lemma="Vopálková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Vopálková_;Y_^(*3a)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94209-106-p1s2w4">
 <src.rf>manual</src.rf>

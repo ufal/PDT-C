@@ -175,7 +175,7 @@
 <form>sympoziu</form>
 <tag>
 <AM lemma="sympózium" src="orig">NNNS6-----A----</AM>
-<AM lemma="sympozium_,s_^(^DD**sympózium)" src="manual" selected="1">NNNS6-----A----</AM>
+<AM lemma="sympozium" src="manual" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-101-p2s2w4">
@@ -363,7 +363,7 @@
 <LM>w#w-ln94204-101-p2s2w26</LM>
 </w.rf>
 <form>umění</form>
-<tag lemma="umění_^(mít_schopnost_něco_dělat)_(*2t)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="umění_^(*2t)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln94204-101-p2s2w27">
 <src.rf>manual</src.rf>
@@ -418,7 +418,7 @@
 <form>sympozium</form>
 <tag>
 <AM lemma="sympózium" src="orig">NNNS1-----A----</AM>
-<AM lemma="sympozium_,s_^(^DD**sympózium)" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="sympozium" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-101-p2s3w3">
@@ -527,7 +527,7 @@
 <LM>w#w-ln94204-101-p2s3w15</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94204-101-p2s3w16">
 <src.rf>manual</src.rf>
@@ -816,7 +816,7 @@
 <LM>w#w-ln94204-101-p2s6w9</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94204-101-p2s6w10">
 <src.rf>manual</src.rf>

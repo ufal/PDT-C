@@ -101,7 +101,7 @@
 <LM>w#w-ln95048-011-p2s1Aw5</LM>
 </w.rf>
 <form>potřeba</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95048-011-p2s1Aw6">
 <src.rf>manual</src.rf>

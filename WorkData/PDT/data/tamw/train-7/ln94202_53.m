@@ -252,7 +252,7 @@
 <LM>w#w-ln94202-53-p2s1Cw15</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94202-53-p2s1Cw16">
 <src.rf>manual</src.rf>
@@ -276,7 +276,7 @@
 <LM>w#w-ln94202-53-p2s1Cw18</LM>
 </w.rf>
 <form>pozdní</form>
-<tag lemma="pozdní-2_^(v_roce,_ročním_období)" src="orig" selected="1">AANS4----1A----</tag>
+<tag lemma="pozdní" src="orig" selected="1">AANS4----1A----</tag>
 </m>
 <m id="m-ln94202-53-p2s1Cw19">
 <src.rf>manual</src.rf>
@@ -432,7 +432,7 @@
 <LM>w#w-ln94202-53-p2s3w6</LM>
 </w.rf>
 <form>pozdní</form>
-<tag lemma="pozdní-2_^(v_roce,_ročním_období)" src="orig" selected="1">AANS1----1A----</tag>
+<tag lemma="pozdní" src="orig" selected="1">AANS1----1A----</tag>
 </m>
 <m id="m-ln94202-53-p2s3w7">
 <src.rf>manual</src.rf>
@@ -802,7 +802,7 @@
 <LM>w#w-ln94202-53-p2s4w30</LM>
 </w.rf>
 <form>jejím</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS6FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS6FS3-------</tag>
 </m>
 <m id="m-ln94202-53-p2s4w31">
 <src.rf>manual</src.rf>

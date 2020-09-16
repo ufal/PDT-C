@@ -646,7 +646,7 @@
 <LM>w#w-ln94206-100-p2s4w6</LM>
 </w.rf>
 <form>Hronovi</form>
-<tag lemma="Hron_;Y" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Hron-1_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln94206-100-p2s4w7">
 <src.rf>manual</src.rf>
@@ -904,7 +904,7 @@
 <LM>w#w-ln94206-100-p2s5w17</LM>
 </w.rf>
 <form>nesprávném</form>
-<tag lemma="správný_^(podle_něj._měřítek;_př._chlap,_míra,...)" src="orig" selected="1">AANS6----1N----</tag>
+<tag lemma="správný" src="orig" selected="1">AANS6----1N----</tag>
 </m>
 <m id="m-ln94206-100-p2s5w18">
 <src.rf>manual</src.rf>
@@ -1130,7 +1130,7 @@
 <LM>w#w-ln94206-100-p2s6w26</LM>
 </w.rf>
 <form>rady</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94206-100-p2s6w27">
 <src.rf>manual</src.rf>

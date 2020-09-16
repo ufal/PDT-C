@@ -258,7 +258,7 @@
 <LM>w#w-ln94207-3-p2s2w3</LM>
 </w.rf>
 <form>prezidia</form>
-<tag lemma="prezídium" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="prezidium_,s_^(^DD**prezídium)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln94207-3-p2s2w4">
 <src.rf>manual</src.rf>
@@ -835,7 +835,7 @@
 <LM>w#w-ln94207-3-p3s1w4</LM>
 </w.rf>
 <form>prezidia</form>
-<tag lemma="prezídium" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="prezidium_,s_^(^DD**prezídium)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln94207-3-p3s1w5">
 <src.rf>manual</src.rf>
@@ -851,7 +851,7 @@
 <LM>w#w-ln94207-3-p3s1w6</LM>
 </w.rf>
 <form>druhým</form>
-<tag lemma="druhý" src="orig" selected="1">CrMS7----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrMS7----------</tag>
 </m>
 <m id="m-ln94207-3-p3s1w7">
 <src.rf>manual</src.rf>
@@ -875,7 +875,7 @@
 <LM>w#w-ln94207-3-p3s1w9</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94207-3-p3s1w10">
 <src.rf>manual</src.rf>

@@ -1549,7 +1549,7 @@
 <LM>w#w-ln94210-65-p3s8w6</LM>
 </w.rf>
 <form>potřeby</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94210-65-p3s8w7">
 <src.rf>manual</src.rf>
@@ -1685,7 +1685,7 @@
 </w.rf>
 <form>Muzeum</form>
 <tag>
-<AM lemma="Muzeum_;G" src="orig" selected="1">NNNS1-----A----</AM>
+<AM lemma="muzeum" src="orig" selected="1">NNNS1-----A----</AM>
 <AM lemma="muzeum" src="auto">NNNP3-----A---6</AM>
 <AM lemma="muzeum" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="muzeum" src="auto">NNNS4-----A----</AM>

@@ -1450,7 +1450,7 @@
 <LM>w#w-ln94209-71-p3s2w15</LM>
 </w.rf>
 <form>dala</form>
-<tag lemma="dát" src="orig" selected="1">VpQW----R-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94209-71-p3s2w16">
 <src.rf>manual</src.rf>
@@ -1982,7 +1982,7 @@
 <LM>w#w-ln94209-71-p4s3w5</LM>
 </w.rf>
 <form>proto</form>
-<tag lemma="proto-2_^(dal_mu_co_proto,_tak_proto!)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="proto-2_^(proto_že)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94209-71-p4s3w6">
 <src.rf>manual</src.rf>

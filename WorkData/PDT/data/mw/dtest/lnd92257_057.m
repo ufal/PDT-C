@@ -268,7 +268,7 @@
 <LM>w#w-lnd92257-057-p3s2w9</LM>
 </w.rf>
 <form>ne</form>
-<tag lemma="ne" src="orig" selected="1">TT-------------</tag>
+<tag lemma="ne-1" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-lnd92257-057-p3s2w10">
 <src.rf>manual</src.rf>
@@ -659,7 +659,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -1800,7 +1800,7 @@
 <LM>w#w-lnd92257-057-p5s3w30</LM>
 </w.rf>
 <form>Pennsylvánie</form>
-<tag lemma="Pennsylvánie_;G_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Pennsylvánie_;G" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92257-057-p5s3w31">
 <src.rf>manual</src.rf>
@@ -1840,7 +1840,7 @@
 <LM>w#w-lnd92257-057-p5s3w35</LM>
 </w.rf>
 <form>Illinois</form>
-<tag lemma="Illinois_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Illinois_;G_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92257-057-p5s3w36">
 <src.rf>manual</src.rf>
@@ -1890,7 +1890,7 @@
 <LM>w#w-lnd92257-057-p5s4w2</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-lnd92257-057-p5s4w3">
 <src.rf>manual</src.rf>
@@ -1898,7 +1898,7 @@
 <LM>w#w-lnd92257-057-p5s4w3</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd92257-057-p5s4w4">
 <src.rf>manual</src.rf>
@@ -2631,7 +2631,7 @@
 <LM>w#w-lnd92257-057-p5s6w12</LM>
 </w.rf>
 <form>třeba</form>
-<tag lemma="třeba-2" src="auto" selected="1">Db-------------</tag>
+<tag lemma="třeba-1" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd92257-057-p5s6w13">
 <src.rf>manual</src.rf>
@@ -2855,7 +2855,7 @@
 <LM>w#w-lnd92257-057-p6s1w14</LM>
 </w.rf>
 <form>vypadá</form>
-<tag lemma="vypadat" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="vypadat-1_^(ty_vypadáš)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92257-057-p6s1w15">
 <src.rf>manual</src.rf>
@@ -3218,7 +3218,7 @@
 <LM>w#w-lnd92257-057-p6s1w59</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-lnd92257-057-p6s1w60">
 <src.rf>manual</src.rf>
@@ -3310,7 +3310,7 @@
 <LM>w#w-lnd92257-057-p6s2w5</LM>
 </w.rf>
 <form>Yorku</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="York-2_;G_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-lnd92257-057-p6s2w6">
 <src.rf>manual</src.rf>
@@ -3350,7 +3350,7 @@
 <LM>w#w-lnd92257-057-p6s2w10</LM>
 </w.rf>
 <form>Illinoisu</form>
-<tag lemma="Illinois_;G" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Illinois_;G_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-lnd92257-057-p6s2w11">
 <src.rf>manual</src.rf>
@@ -3464,7 +3464,7 @@
 <LM>w#w-lnd92257-057-p6s3w6</LM>
 </w.rf>
 <form>zveřejněného</form>
-<tag lemma="zveřejněný_^(*3it)" src="orig" selected="1">AAIS2----1A----</tag>
+<tag lemma="zveřejněný_^(*2t)_(*3it)" src="orig" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-lnd92257-057-p6s3w7">
 <src.rf>manual</src.rf>
@@ -4179,7 +4179,7 @@
 <LM>w#w-lnd92257-057-p7s3w4</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-lnd92257-057-p7s3w5">
 <src.rf>manual</src.rf>
@@ -4280,7 +4280,7 @@
 <form>Streetu</form>
 <tag>
 <AM lemma="Street_;G_,t" src="auto">NNIS2-----A----</AM>
-<AM lemma="Street_;G" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Street-1_;G_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-057-p7s3w17">
@@ -4925,7 +4925,7 @@
 <LM>w#w-lnd92257-057-p7s5w25</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS4----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS4----------</tag>
 </m>
 <m id="m-lnd92257-057-p7s5w26">
 <src.rf>manual</src.rf>
@@ -5683,7 +5683,7 @@
 <LM>w#w-lnd92257-057-p8s2w9</LM>
 </w.rf>
 <form>faktorem</form>
-<tag lemma="faktor" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="faktor-1" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-lnd92257-057-p8s2w10">
 <src.rf>manual</src.rf>
@@ -5771,7 +5771,7 @@
 <LM>w#w-lnd92257-057-p8s2w20</LM>
 </w.rf>
 <form>nedají</form>
-<tag lemma="dát" src="orig" selected="1">VB-P---3P-NAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VB-P---3P-NAP--</tag>
 </m>
 <m id="m-lnd92257-057-p8s2w21">
 <src.rf>manual</src.rf>
@@ -5885,7 +5885,7 @@
 <LM>w#w-lnd92257-057-p8s3w10</LM>
 </w.rf>
 <form>lety</form>
-<tag lemma="rok" src="orig" selected="1">NNNP7-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP7-----A----</tag>
 </m>
 <m id="m-lnd92257-057-p8s3w11">
 <src.rf>manual</src.rf>
@@ -5917,7 +5917,7 @@
 <LM>w#w-lnd92257-057-p8s3w14</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd92257-057-p8s3w15">
 <src.rf>manual</src.rf>
@@ -5949,7 +5949,7 @@
 <LM>w#w-lnd92257-057-p8s3w18</LM>
 </w.rf>
 <form>Bílý</form>
-<tag lemma="bílý" src="orig" selected="1">AAIS4----1A----</tag>
+<tag lemma="bílý_;o" src="orig" selected="1">AAIS4----1A----</tag>
 </m>
 <m id="m-lnd92257-057-p8s3w19">
 <src.rf>manual</src.rf>

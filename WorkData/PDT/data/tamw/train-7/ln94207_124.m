@@ -114,7 +114,7 @@
 <LM>w#w-ln94207-124-p2s1Bw4</LM>
 </w.rf>
 <form>Progress</form>
-<tag lemma="Progress-1_;m_^(ruská_kosmická_loď)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Progress_;m_^(ruská_kosmická_loď)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94207-124-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -338,7 +338,7 @@
 <LM>w#w-ln94207-124-p2s2w16</LM>
 </w.rf>
 <form>Progress</form>
-<tag lemma="Progress-1_;m_^(ruská_kosmická_loď)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Progress_;m_^(ruská_kosmická_loď)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94207-124-p2s2w17">
 <src.rf>manual</src.rf>
@@ -1054,7 +1054,7 @@
 <LM>w#w-ln94207-124-p3s1w3</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-4_^(v_knize,_rukopise,...)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94207-124-p3s1w4">
 <src.rf>manual</src.rf>
@@ -1078,7 +1078,7 @@
 <LM>w#w-ln94207-124-p3s1w6</LM>
 </w.rf>
 <form>Progress</form>
-<tag lemma="Progress-1_;m_^(ruská_kosmická_loď)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Progress_;m_^(ruská_kosmická_loď)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94207-124-p3s1w7">
 <src.rf>manual</src.rf>

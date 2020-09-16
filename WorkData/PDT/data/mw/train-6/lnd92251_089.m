@@ -295,7 +295,7 @@
 <LM>w#w-lnd92251-089-p2s2w31</LM>
 </w.rf>
 <form>Guinnessovy</form>
-<tag lemma="Guinnessův_;Y_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Guinnessův-1_;Y_^(*4-1)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-lnd92251-089-p2s2w32">
 <src.rf>manual</src.rf>

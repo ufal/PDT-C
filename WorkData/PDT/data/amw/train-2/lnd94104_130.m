@@ -247,7 +247,7 @@
 <LM>w#w-lnd94104-130-p1s4w11</LM>
 </w.rf>
 <form>sezoně</form>
-<tag lemma="sezóna" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="sezona_,s_^(^DD**sezóna)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd94104-130-p1s4w12">
 <src.rf>manual</src.rf>
@@ -547,7 +547,7 @@
 <LM>w#w-lnd94104-130-p1s6w10</LM>
 </w.rf>
 <form>Schenku</form>
-<tag lemma="Schenk_;Y" src="orig" selected="1">NNMS3-----A---1</tag>
+<tag lemma="Schenk-1_;Y" src="orig" selected="1">NNMS3-----A---1</tag>
 </m>
 <m id="m-lnd94104-130-p1s6w11">
 <src.rf>manual</src.rf>

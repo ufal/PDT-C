@@ -130,7 +130,7 @@
 <LM>w#w-mf930701-146-p3s1w10</LM>
 </w.rf>
 <form>Waltonovi</form>
-<tag lemma="Waltonův_;Y_^(*2)" src="orig" selected="1">AUMP1M---------</tag>
+<tag lemma="Waltonův-1_;Y_^(*4-1)" src="orig" selected="1">AUMP1M---------</tag>
 </m>
 <m id="m-mf930701-146-p3s1w11">
 <src.rf>manual</src.rf>
@@ -651,7 +651,7 @@
 <form>Trailer</form>
 <tag>
 <AM lemma="trajler_,x" src="orig">NNIS1-----A----</AM>
-<AM lemma="Trailer-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="trailer-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-146-p5s1w19">
@@ -1325,7 +1325,7 @@
 <form>události</form>
 <tag>
 <AM lemma="událost_,a_^(*3ý)" src="orig">NNFP1-----A----</AM>
-<AM lemma="událost_^(*3ý)" src="manual" selected="1">NNFP1-----A----</AM>
+<AM lemma="událost" src="manual" selected="1">NNFP1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-146-p7s1w55">
@@ -1556,7 +1556,7 @@
 <LM>w#w-mf930701-146-p7s1w82</LM>
 </w.rf>
 <form>Zlatá</form>
-<tag lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="zlatý-1_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-mf930701-146-p7s1w83">
 <src.rf>manual</src.rf>
@@ -2066,7 +2066,7 @@
 <LM>w#w-mf930701-146-p9s1w17</LM>
 </w.rf>
 <form>děti</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-mf930701-146-p9s1w18">
 <src.rf>manual</src.rf>
@@ -2178,7 +2178,7 @@
 <LM>w#w-mf930701-146-p9s1w31</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930701-146-p9s1w32">
 <src.rf>manual</src.rf>

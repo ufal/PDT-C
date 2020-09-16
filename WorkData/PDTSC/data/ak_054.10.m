@@ -163,7 +163,7 @@
 <AM lemma="můj_^(přivlast.)" src="auto">PSFS3-S1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSFS4-S1------6</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSFS6-S1-------</AM>
-<AM lemma="můj_^(přivlast.)" src="auto" recommended="1">PSFS7-S1-------</AM>
+<AM lemma="můj" src="auto" recommended="1">PSFS7-S1-------</AM>
 </tag>
 </m>
 <m id="m054-d1t2251-7">
@@ -428,7 +428,7 @@
 <AM lemma="moc-1_^(nad_někým;_politická,_vojenská;_plná,...)" src="auto">NNFS1-----A----</AM>
 <AM lemma="moc-1_^(nad_někým;_politická,_vojenská;_plná,...)" src="auto">NNFS4-----A----</AM>
 <AM lemma="moc-2_^(mnoho_něčeho_[se_subst._v_gen.])" src="auto">Ca--X----------</AM>
-<AM lemma="moc-3_^(velmi,_ve_spojení_s_adj.,_př._moc_hezká)" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="moc-3_^(moc_hezká,_moc_peněz)" src="auto" recommended="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m054-d1t2263-2">
@@ -758,7 +758,7 @@
 <AM lemma="moc-1_^(nad_někým;_politická,_vojenská;_plná,...)" src="auto">NNFS1-----A----</AM>
 <AM lemma="moc-1_^(nad_někým;_politická,_vojenská;_plná,...)" src="auto">NNFS4-----A----</AM>
 <AM lemma="moc-2_^(mnoho_něčeho_[se_subst._v_gen.])" src="auto">Ca--X----------</AM>
-<AM lemma="moc-3_^(velmi,_ve_spojení_s_adj.,_př._moc_hezká)" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="moc-3_^(moc_hezká,_moc_peněz)" src="auto" recommended="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m054-d1t2277-3">
@@ -876,7 +876,7 @@
 <AM lemma="Moja_;Y" src="auto">NNFS6-----A----</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSHP1-S1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSHP5-S1-------</AM>
-<AM lemma="můj_^(přivlast.)" src="auto" recommended="1">PSHS1-S1-------</AM>
+<AM lemma="můj" src="auto" recommended="1">PSHS1-S1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSHS5-S1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSIP1-S1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSIP5-S1-------</AM>
@@ -2035,7 +2035,7 @@
 <form>žolíky</form>
 <tag>
 <AM lemma="žolík" src="auto">NNIP1-----A----</AM>
-<AM lemma="žolík" src="auto" recommended="1">NNIP4-----A----</AM>
+<AM lemma="žolík-1" src="auto" recommended="1">NNIP4-----A----</AM>
 <AM lemma="žolík" src="auto">NNIP5-----A----</AM>
 <AM lemma="žolík" src="auto">NNIP7-----A----</AM>
 <AM lemma="žolík" src="auto">NNMP4-----A----</AM>
@@ -3022,7 +3022,7 @@
 </w.rf>
 <form>ne</form>
 <tag>
-<AM lemma="ne" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ne-1" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="neděle_:B" src="auto">NNFXX-----A---8</AM>
 </tag>
 </m>
@@ -3288,7 +3288,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m054-d1t2442-11">
@@ -3380,7 +3380,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m054-d-id162329-punct">
@@ -3831,7 +3831,7 @@
 <form>můj</form>
 <tag>
 <AM lemma="můj_^(přivlast.)" src="auto">PSIS4-S1-------</AM>
-<AM lemma="můj_^(přivlast.)" src="auto" recommended="1">PSYS1-S1-------</AM>
+<AM lemma="můj" src="auto" recommended="1">PSYS1-S1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSYS5-S1-------</AM>
 </tag>
 </m>
@@ -4224,7 +4224,7 @@
 </w.rf>
 <form>vinice</form>
 <tag>
-<AM lemma="vinice_^(místo_pro_pěstování_vína)" src="auto" recommended="1">NNFP1-----A----</AM>
+<AM lemma="vinice_^(*3ík)" src="auto" recommended="1">NNFP1-----A----</AM>
 <AM lemma="vinice_^(místo_pro_pěstování_vína)" src="auto">NNFP4-----A----</AM>
 <AM lemma="vinice_^(místo_pro_pěstování_vína)" src="auto">NNFP5-----A----</AM>
 <AM lemma="vinice_^(místo_pro_pěstování_vína)" src="auto">NNFS1-----A----</AM>
@@ -4297,7 +4297,7 @@
 <form>zologické</form>
 <tag>
 <AM lemma="zologické" src="auto">X@-------------</AM>
-<AM lemma="zologický_,h_^(^GC**zoologický)" src="manual" selected="1">AAFS2----1A----</AM>
+<AM lemma="zologický_,i_^(^DS**zoologický)" src="manual" selected="1">AAFS2----1A----</AM>
 </tag>
 </m>
 <m id="m054-637-647">
@@ -4520,7 +4520,7 @@
 <tag>
 <AM lemma="kilometrovka_,n_^(místní_komunikace)" src="auto">NNFS3-----A----</AM>
 <AM lemma="kilometrovka_,n_^(místní_komunikace)" src="auto" recommended="1">NNFS6-----A----</AM>
-<AM lemma="kilometrovka_^(místní_komunikace)" src="manual" selected="1">NNFS6-----A----</AM>
+<AM lemma="kilometrovka_,n_^(místní_komunikace)" src="manual" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m054-d1t2507-1">
@@ -4590,7 +4590,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m054-d1e2504-x2-659">

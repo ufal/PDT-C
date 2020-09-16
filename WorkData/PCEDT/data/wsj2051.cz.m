@@ -388,7 +388,7 @@
 </w.rf>
 <form>navrženou</form>
 <tag>
-<AM lemma="navržený_^(*4hnout)" src="auto" recommended="1">AAFS4----1A----</AM>
+<AM lemma="navržený" src="auto" recommended="1">AAFS4----1A----</AM>
 <AM lemma="navržený_^(*4hnout)" src="auto">AAFS7----1A----</AM>
 </tag>
 </m>
@@ -1114,7 +1114,7 @@
 </w.rf>
 <form>navržená</form>
 <tag>
-<AM lemma="navržený_^(*4hnout)" src="auto" recommended="1">AAFS1----1A----</AM>
+<AM lemma="navržený" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="navržený_^(*4hnout)" src="auto">AAFS5----1A----</AM>
 <AM lemma="navržený_^(*4hnout)" src="auto">AANP1----1A----</AM>
 <AM lemma="navržený_^(*4hnout)" src="auto">AANP4----1A----</AM>
@@ -1199,7 +1199,7 @@
 </w.rf>
 <form>svůj</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8IS4----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8IS4----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8YS1----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8YS5----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOYS-----------</AM>
@@ -1643,7 +1643,7 @@
 <AM lemma="Beatrice-2_;G" src="auto">NNFS1-----A----</AM>
 <AM lemma="Beatrice-2_;G" src="auto">NNFS2-----A----</AM>
 <AM lemma="Beatrice-2_;G" src="auto">NNFS5-----A----</AM>
-<AM lemma="Beatrice-2_;G_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Beatrice_;G_;Y_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2051-001-p1s3W8-Ta">
@@ -1694,7 +1694,7 @@
 <AM lemma="Beatrice-2_;G" src="auto">NNFS1-----A----</AM>
 <AM lemma="Beatrice-2_;G" src="auto">NNFS2-----A----</AM>
 <AM lemma="Beatrice-2_;G" src="auto">NNFS5-----A----</AM>
-<AM lemma="Beatrice-2_;G_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Beatrice_;G_;Y_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2051-001-p1s4W3-Ta">

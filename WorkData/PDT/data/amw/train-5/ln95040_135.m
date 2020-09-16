@@ -603,7 +603,7 @@
 <LM>w#w-ln95040-135-p3s4w16</LM>
 </w.rf>
 <form>Prioru</form>
-<tag lemma="Prior_;Y" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Prior_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95040-135-p3s4w17">
 <src.rf>manual</src.rf>
@@ -717,7 +717,7 @@
 <LM>w#w-ln95040-135-p3s5w4</LM>
 </w.rf>
 <form>zaměstnání</form>
-<tag lemma="zaměstnání-1_^(všeob._význam:_činnost,_zaměstnání)_(*5at-1)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="zaměstnání_^(*3at)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln95040-135-p3s5w5">
 <src.rf>manual</src.rf>

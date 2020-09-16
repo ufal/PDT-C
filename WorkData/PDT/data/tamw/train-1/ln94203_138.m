@@ -503,7 +503,7 @@
 <LM>w#w-ln94203-138-p3s3w6</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrIS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS4----------</tag>
 </m>
 <m id="m-ln94203-138-p3s3w7">
 <src.rf>manual</src.rf>

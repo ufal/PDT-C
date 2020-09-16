@@ -569,7 +569,7 @@
 <LM>w#w-mf930708-006-p3s1w16</LM>
 </w.rf>
 <form>členů</form>
-<tag lemma="člen" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf930708-006-p3s1w17">
 <src.rf>manual</src.rf>
@@ -883,7 +883,7 @@
 <LM>w#w-mf930708-006-p3s4w12</LM>
 </w.rf>
 <form>člen</form>
-<tag lemma="člen" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-006-p3s4w13">
 <src.rf>manual</src.rf>
@@ -947,7 +947,7 @@
 <LM>w#w-mf930708-006-p3s5w3</LM>
 </w.rf>
 <form>orgánem</form>
-<tag lemma="orgán" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-mf930708-006-p3s5w4">
 <src.rf>manual</src.rf>
@@ -1269,7 +1269,7 @@
 <LM>w#w-mf930708-006-p3s7w17</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-mf930708-006-p3s7w18">
 <src.rf>manual</src.rf>

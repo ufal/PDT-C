@@ -59,7 +59,7 @@
 <LM>w#w-mf930708-082-p1s1w6</LM>
 </w.rf>
 <form>postižených</form>
-<tag lemma="postižený_^(*4hnout)" src="orig" selected="1">AAMP2----1A----</tag>
+<tag lemma="postižený" src="orig" selected="1">AAMP2----1A----</tag>
 </m>
 <m id="m-mf930708-082-p1s1w7">
 <src.rf>manual</src.rf>

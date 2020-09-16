@@ -186,7 +186,7 @@
 <LM>w#w-ln94207-49-p2s2w5</LM>
 </w.rf>
 <form>Benfiky</form>
-<tag lemma="Benfica_;m" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Benfika_;m_,s_^(^DD**Benfica)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94207-49-p2s2w6">
 <src.rf>manual</src.rf>

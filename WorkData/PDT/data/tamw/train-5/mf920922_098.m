@@ -590,7 +590,7 @@
 </w.rf>
 <form>Hubertus</form>
 <tag>
-<AM lemma="Hubertus_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Hubertus-2_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="hubertus" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="hubertus" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -1088,7 +1088,7 @@
 </w.rf>
 <form>Hubertuse</form>
 <tag>
-<AM lemma="Hubertus_;Y" src="orig" selected="1">NNMS4-----A----</AM>
+<AM lemma="Hubertus-2_;Y" src="orig" selected="1">NNMS4-----A----</AM>
 <AM lemma="hubertus" src="auto">NNIS5-----A----</AM>
 <AM lemma="hubertus" src="auto" recommended="1">NNIS6-----A----</AM>
 </tag>

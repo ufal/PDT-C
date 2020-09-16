@@ -71,7 +71,7 @@
 <LM>w#w-mf920902-092-p2s1Bw3</LM>
 </w.rf>
 <form>stíhačky</form>
-<tag lemma="stíhačka_^(letadlo)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="stíhačka_^(*2)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920902-092-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -154,7 +154,7 @@
 <LM>w#w-mf920902-092-p2s1Bw13</LM>
 </w.rf>
 <form>pilotovi</form>
-<tag lemma="pilot" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="pilot-1" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-mf920902-092-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -436,7 +436,7 @@
 <LM>w#w-mf920902-092-p2s4w5</LM>
 </w.rf>
 <form>pilotech</form>
-<tag lemma="pilot" src="orig" selected="1">NNMP6-----A----</tag>
+<tag lemma="pilot-1" src="orig" selected="1">NNMP6-----A----</tag>
 </m>
 <m id="m-mf920902-092-p2s4w6">
 <src.rf>manual</src.rf>
@@ -948,7 +948,7 @@
 <LM>w#w-mf920902-092-p2s8w4</LM>
 </w.rf>
 <form>černou</form>
-<tag lemma="černý" src="auto" selected="1">AAFS7----1A----</tag>
+<tag lemma="černý_;o" src="auto" selected="1">AAFS7----1A----</tag>
 </m>
 <m id="m-mf920902-092-p2s8w5">
 <src.rf>manual</src.rf>
@@ -1081,7 +1081,7 @@
 <LM>w#w-mf920902-092-p2s9w5</LM>
 </w.rf>
 <form>pilotů</form>
-<tag lemma="pilot" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="pilot-1" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-mf920902-092-p2s9w6">
 <src.rf>manual</src.rf>
@@ -1315,7 +1315,7 @@
 <LM>w#w-mf920902-092-p2s10w27</LM>
 </w.rf>
 <form>piloty</form>
-<tag lemma="pilot" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="pilot-1" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-mf920902-092-p2s10w28">
 <src.rf>manual</src.rf>

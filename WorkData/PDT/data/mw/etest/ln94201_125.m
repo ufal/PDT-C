@@ -123,7 +123,7 @@
 <LM>w#w-ln94201-125-p2s1w12</LM>
 </w.rf>
 <form>stadionu</form>
-<tag lemma="stadión" src="orig" selected="1">NNIS6-----A---1</tag>
+<tag lemma="stadion_,s_^(^DD**stadión)" src="orig" selected="1">NNIS6-----A---1</tag>
 </m>
 <m id="m-ln94201-125-p2s1w13">
 <src.rf>manual</src.rf>
@@ -147,7 +147,7 @@
 <LM>w#w-ln94201-125-p2s1w15</LM>
 </w.rf>
 <form>David</form>
-<tag lemma="David_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="David-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-125-p2s1w16">
 <src.rf>manual</src.rf>
@@ -478,7 +478,7 @@
 <form>Gary</form>
 <tag>
 <AM lemma="Gary_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Gary_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Gary-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-125-p2s2w23">
@@ -487,7 +487,7 @@
 <LM>w#w-ln94201-125-p2s2w23</LM>
 </w.rf>
 <form>Wallis</form>
-<tag lemma="Wallis_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Wallis-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-125-p2s2w24">
 <src.rf>manual</src.rf>
@@ -773,7 +773,7 @@
 <LM>w#w-ln94201-125-p2s5w1</LM>
 </w.rf>
 <form>Své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8NS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8NS4---------1</tag>
 </m>
 <m id="m-ln94201-125-p2s5w2">
 <src.rf>manual</src.rf>

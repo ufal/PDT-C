@@ -193,7 +193,7 @@
 <LM>w#w-lnd92253-025-p2s2w12</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS7----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS7----------</tag>
 </m>
 <m id="m-lnd92253-025-p2s2w13">
 <src.rf>manual</src.rf>
@@ -460,7 +460,7 @@
 <LM>w#w-lnd92253-025-p2s3w4</LM>
 </w.rf>
 <form>dá</form>
-<tag lemma="dát" src="orig" selected="1">VB-S---3P-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-lnd92253-025-p2s3w5">
 <src.rf>manual</src.rf>

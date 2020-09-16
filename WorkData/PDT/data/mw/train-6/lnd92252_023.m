@@ -19,7 +19,7 @@
 <LM>w#w-lnd92252-023-p1s1w1</LM>
 </w.rf>
 <form>DRUHÝ</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS1----------</tag>
 </m>
 <m id="m-lnd92252-023-p1s1w2">
 <src.rf>manual</src.rf>
@@ -251,7 +251,7 @@
 <LM>w#w-lnd92252-023-p3s3w2</LM>
 </w.rf>
 <form>sekretáře</form>
-<tag lemma="sekretář" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="sekretář-2" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92252-023-p3s3w3">
 <src.rf>manual</src.rf>

@@ -258,7 +258,7 @@
 <LM>w#w-lnd92255-057-p3s3w13</LM>
 </w.rf>
 <form>vydání</form>
-<tag lemma="vydání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="vydání_^(*3at)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-lnd92255-057-p3s3w14">
 <src.rf>manual</src.rf>
@@ -410,7 +410,7 @@
 <LM>w#w-lnd92255-057-p3s4w8</LM>
 </w.rf>
 <form>cestě</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd92255-057-p3s4w9">
 <src.rf>manual</src.rf>
@@ -832,7 +832,7 @@
 <LM>w#w-lnd92255-057-p3s6w21</LM>
 </w.rf>
 <form>svržený</form>
-<tag lemma="svržený_^(*4hnout)" src="orig" selected="1">AAMS1----1A----</tag>
+<tag lemma="svržený" src="orig" selected="1">AAMS1----1A----</tag>
 </m>
 <m id="m-lnd92255-057-p3s6w22">
 <src.rf>manual</src.rf>

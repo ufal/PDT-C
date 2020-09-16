@@ -398,7 +398,7 @@
 <form>on</form>
 <tag>
 <AM lemma="on-2_,t_^(angl._předl._na_aj.)" src="orig">RR--X----------</AM>
-<AM lemma="on_^(on-line)" src="manual" selected="1">S2--------A----</AM>
+<AM lemma="on-2_^(on-line)" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-002-p2s1Bw34">
@@ -812,7 +812,7 @@
 <LM>w#w-ln95040-002-p4s1w7</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-ln95040-002-p4s1w8">
 <src.rf>manual</src.rf>
@@ -846,7 +846,7 @@
 <form>on</form>
 <tag>
 <AM lemma="on-2_,t_^(angl._předl._na_aj.)" src="orig">RR--X----------</AM>
-<AM lemma="on_^(on-line)" src="manual" selected="1">S2--------A----</AM>
+<AM lemma="on-2_^(on-line)" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-002-p4s1w12">

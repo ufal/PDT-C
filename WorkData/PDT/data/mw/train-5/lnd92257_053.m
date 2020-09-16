@@ -79,7 +79,7 @@
 <LM>w#w-lnd92257-053-p3s1w2</LM>
 </w.rf>
 <form>SALVADOR</form>
-<tag lemma="Salvador_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Salvador-2_;G" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92257-053-p3s1w3">
 <src.rf>manual</src.rf>
@@ -233,7 +233,7 @@
 <LM>w#w-lnd92257-053-p3s2w17</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8MS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8MS4----------</tag>
 </m>
 <m id="m-lnd92257-053-p3s2w18">
 <src.rf>manual</src.rf>
@@ -479,7 +479,7 @@
 <LM>w#w-lnd92257-053-p3s3w9</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8MS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8MS4----------</tag>
 </m>
 <m id="m-lnd92257-053-p3s3w10">
 <src.rf>manual</src.rf>

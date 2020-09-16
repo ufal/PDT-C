@@ -135,7 +135,7 @@
 <LM>w#w-mf920902-128-p2s2w6</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920902-128-p2s2w7">
 <src.rf>manual</src.rf>
@@ -308,7 +308,7 @@
 <LM>w#w-mf920902-128-p2s2w26</LM>
 </w.rf>
 <form>práva</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-mf920902-128-p2s2w27">
 <src.rf>manual</src.rf>

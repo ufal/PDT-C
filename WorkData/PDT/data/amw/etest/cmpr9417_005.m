@@ -77,7 +77,7 @@
 <LM>w#w-cmpr9417-005-p3s1w4</LM>
 </w.rf>
 <form>naši</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS4-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS4-P1-------</tag>
 </m>
 <m id="m-cmpr9417-005-p3s1w5">
 <src.rf>manual</src.rf>
@@ -399,7 +399,7 @@
 <LM>w#w-cmpr9417-005-p4s3w2</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-cmpr9417-005-p4s3w3">
 <src.rf>manual</src.rf>
@@ -527,7 +527,7 @@
 <LM>w#w-cmpr9417-005-p4s3w18</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-cmpr9417-005-p4s3w19">
 <src.rf>manual</src.rf>
@@ -577,7 +577,7 @@
 <LM>w#w-cmpr9417-005-p5s1w5</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP6-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP6-P1-------</tag>
 </m>
 <m id="m-cmpr9417-005-p5s1w6">
 <src.rf>manual</src.rf>
@@ -1413,7 +1413,7 @@
 <LM>w#w-cmpr9417-005-p6s2w7</LM>
 </w.rf>
 <form>našeho</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSZS2-P1-------</tag>
 </m>
 <m id="m-cmpr9417-005-p6s2w8">
 <src.rf>manual</src.rf>
@@ -1975,7 +1975,7 @@
 <LM>w#w-cmpr9417-005-p6s5w18</LM>
 </w.rf>
 <form>rafinerských</form>
-<tag lemma="rafinérský" src="orig" selected="1">AAFP2----1A----</tag>
+<tag lemma="rafinerský_,s_^(^DD**rafinérský)" src="orig" selected="1">AAFP2----1A----</tag>
 </m>
 <m id="m-cmpr9417-005-p6s5w19">
 <src.rf>manual</src.rf>
@@ -2421,7 +2421,7 @@
 <LM>w#w-cmpr9417-005-p9s1w8</LM>
 </w.rf>
 <form>našeho</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSZS2-P1-------</tag>
 </m>
 <m id="m-cmpr9417-005-p9s1w9">
 <src.rf>manual</src.rf>
@@ -2591,7 +2591,7 @@
 <LM>w#w-cmpr9417-005-p9s2w5</LM>
 </w.rf>
 <form>rafinerských</form>
-<tag lemma="rafinérský" src="orig" selected="1">AAIP2----1A----</tag>
+<tag lemma="rafinerský_,s_^(^DD**rafinérský)" src="orig" selected="1">AAIP2----1A----</tag>
 </m>
 <m id="m-cmpr9417-005-p9s2w6">
 <src.rf>manual</src.rf>
@@ -2607,7 +2607,7 @@
 <LM>w#w-cmpr9417-005-p9s2w7</LM>
 </w.rf>
 <form>Chemopetrolu</form>
-<tag lemma="Chemopetrol" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Chemopetrol_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-cmpr9417-005-p9s2w8">
 <src.rf>manual</src.rf>
@@ -3412,7 +3412,7 @@
 <LM>w#w-cmpr9417-005-p11s1w9</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP6-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP6-P1-------</tag>
 </m>
 <m id="m-cmpr9417-005-p11s1w10">
 <src.rf>manual</src.rf>
@@ -4024,7 +4024,7 @@
 <LM>w#w-cmpr9417-005-p11s2w45</LM>
 </w.rf>
 <form>Chemopetrol</form>
-<tag lemma="Chemopetrol" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Chemopetrol_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9417-005-p11s2w46">
 <src.rf>manual</src.rf>
@@ -4050,7 +4050,7 @@
 <LM>w#w-cmpr9417-005-p11s3w1</LM>
 </w.rf>
 <form>Naše</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSHP1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSHP1-P1-------</tag>
 </m>
 <m id="m-cmpr9417-005-p11s3w2">
 <src.rf>manual</src.rf>
@@ -4060,7 +4060,7 @@
 <form>chemičky</form>
 <tag>
 <AM lemma="chemička_^(továrna)" src="orig">NNFP1-----A----</AM>
-<AM lemma="chemička-1_^(továrna)" src="auto" recommended="1" selected="1">NNFP1-----A----</AM>
+<AM lemma="chemička-2" src="auto" recommended="1" selected="1">NNFP1-----A----</AM>
 <AM lemma="chemička-1_^(továrna)" src="auto">NNFP4-----A----</AM>
 <AM lemma="chemička-1_^(továrna)" src="auto">NNFP5-----A----</AM>
 <AM lemma="chemička-1_^(továrna)" src="auto">NNFS2-----A----</AM>
@@ -4262,7 +4262,7 @@
 <LM>w#w-cmpr9417-005-p11s4w12</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS2---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS2---------1</tag>
 </m>
 <m id="m-cmpr9417-005-p11s4w13">
 <src.rf>manual</src.rf>
@@ -5275,7 +5275,7 @@
 <LM>w#w-cmpr9417-005-p13s5w21</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-cmpr9417-005-p13s5w22">
 <src.rf>manual</src.rf>
@@ -5413,7 +5413,7 @@
 <LM>w#w-cmpr9417-005-p13s6w11</LM>
 </w.rf>
 <form>giganty</form>
-<tag lemma="gigant" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="gigant-2" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-cmpr9417-005-p13s6w12">
 <src.rf>manual</src.rf>
@@ -5561,7 +5561,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -5611,7 +5611,7 @@
 <LM>w#w-cmpr9417-005-p13s7w14</LM>
 </w.rf>
 <form>správné</form>
-<tag lemma="správný_^(podle_něj._měřítek;_př._chlap,_míra,...)" src="orig" selected="1">AAFS2----1A----</tag>
+<tag lemma="správný" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-cmpr9417-005-p13s7w15">
 <src.rf>manual</src.rf>
@@ -6418,7 +6418,7 @@
 <LM>w#w-cmpr9417-005-p16s2w4</LM>
 </w.rf>
 <form>kurzy</form>
-<tag lemma="kurs" src="auto" selected="1">NNIP1-----A----</tag>
+<tag lemma="kurz" src="auto" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-cmpr9417-005-p16s2w5">
 <src.rf>manual</src.rf>
@@ -6817,7 +6817,7 @@
 <form>kotované</form>
 <tag>
 <AM lemma="kótovaný_^(*2t)" src="orig">AAFP1----1A----</AM>
-<AM lemma="kotovaný_^(*2t)" src="auto" recommended="1" selected="1">AAFP1----1A----</AM>
+<AM lemma="kotovaný_^(^DD**kótovaný)_(*2t)" src="auto" recommended="1" selected="1">AAFP1----1A----</AM>
 <AM lemma="kotovaný_^(*2t)" src="auto">AAFP4----1A----</AM>
 <AM lemma="kotovaný_^(*2t)" src="auto">AAFP5----1A----</AM>
 <AM lemma="kotovaný_^(*2t)" src="auto">AAFS2----1A----</AM>

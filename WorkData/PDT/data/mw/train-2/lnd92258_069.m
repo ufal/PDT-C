@@ -224,7 +224,7 @@
 <LM>w#w-lnd92258-069-p2s2w18</LM>
 </w.rf>
 <form>přijetí</form>
-<tag lemma="přijetí_^(*3mout)" src="auto" selected="1">NNNS3-----A----</tag>
+<tag lemma="přijetí_^(*1)_(*3mout)" src="auto" selected="1">NNNS3-----A----</tag>
 </m>
 <m id="m-lnd92258-069-p2s2w19">
 <src.rf>manual</src.rf>

@@ -46,7 +46,7 @@
 <LM>w#w-ln95044-020-p1s1w4</LM>
 </w.rf>
 <form>Jennings</form>
-<tag lemma="Jennings_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jennings-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95044-020-p1s1w5">
 <src.rf>manual</src.rf>
@@ -110,7 +110,7 @@
 <LM>w#w-ln95044-020-p1s1w12</LM>
 </w.rf>
 <form>Buffala</form>
-<tag lemma="Buffalo-2_;m_^(sport.:_souč._názvu)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="Buffalo-1_;G_;m_^(město_sport._klub)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln95044-020-p1s1w13">
 <src.rf>manual</src.rf>

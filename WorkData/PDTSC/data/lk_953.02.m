@@ -2094,7 +2094,7 @@
 <form>našeho</form>
 <tag>
 <AM lemma="můj_^(přivlast.)" src="auto">PSMS4-P1-------</AM>
-<AM lemma="můj_^(přivlast.)" src="auto" recommended="1">PSZS2-P1-------</AM>
+<AM lemma="náš" src="auto" recommended="1">PSZS2-P1-------</AM>
 </tag>
 </m>
 <m id="m953-d1t1060-3">
@@ -2442,7 +2442,7 @@
 <LM>w#w-d1t1097-2</LM>
 </w.rf>
 <form>dali</form>
-<tag lemma="dát" src="auto" recommended="1">VpMP----R-AAP--</tag>
+<tag lemma="dát-1" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m953-d1t1097-3">
 <w.rf>
@@ -2450,7 +2450,7 @@
 </w.rf>
 <form>nám</form>
 <tag>
-<AM lemma="já" src="auto" recommended="1">PP-P3--1-------</AM>
+<AM lemma="my" src="auto" recommended="1">PP-P3--1-------</AM>
 <AM lemma="náměstí_:B" src="auto">NNNXX-----A---8</AM>
 </tag>
 </m>
@@ -2654,7 +2654,7 @@
 <AM lemma="Podolský_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="Podolski_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Podolski_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="podolský_;G" src="auto" recommended="1">AAIS2----1A----</AM>
+<AM lemma="podolský" src="auto" recommended="1">AAIS2----1A----</AM>
 <AM lemma="podolský_;G" src="auto">AAMS2----1A----</AM>
 <AM lemma="podolský_;G" src="auto">AAMS4----1A----</AM>
 <AM lemma="podolský_;G" src="auto">AANS2----1A----</AM>
@@ -2737,7 +2737,7 @@
 </w.rf>
 <form>Ne</form>
 <tag>
-<AM lemma="ne" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ne-1" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="neděle_:B" src="auto">NNFXX-----A---8</AM>
 </tag>
 </m>
@@ -2778,7 +2778,7 @@
 <form>nás</form>
 <tag>
 <AM lemma="já" src="auto">PP-P2--1-------</AM>
-<AM lemma="já" src="auto" recommended="1">PP-P4--1-------</AM>
+<AM lemma="my" src="auto" recommended="1">PP-P4--1-------</AM>
 <AM lemma="já" src="auto">PP-P6--1-------</AM>
 </tag>
 </m>
@@ -2831,7 +2831,7 @@
 <AM lemma="Podolský_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="Podolski_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Podolski_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="podolský_;G" src="auto" recommended="1">AAIS2----1A----</AM>
+<AM lemma="podolský" src="auto" recommended="1">AAIS2----1A----</AM>
 <AM lemma="podolský_;G" src="auto">AAMS2----1A----</AM>
 <AM lemma="podolský_;G" src="auto">AAMS4----1A----</AM>
 <AM lemma="podolský_;G" src="auto">AANS2----1A----</AM>
@@ -2983,7 +2983,7 @@
 <tag>
 <AM lemma="hodně-1" src="auto">Ca--X----------</AM>
 <AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------1A----</AM>
+<AM lemma="hodně_^(*1ý)" src="auto" recommended="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m953-339-2737">
@@ -3263,7 +3263,7 @@
 </w.rf>
 <form>druhá</form>
 <tag>
-<AM lemma="druhý" src="auto" recommended="1">CrFS1----------</AM>
+<AM lemma="druhý`2" src="auto" recommended="1">CrFS1----------</AM>
 <AM lemma="druhý" src="auto">CrFS5----------</AM>
 <AM lemma="druhý" src="auto">CrNP1----------</AM>
 <AM lemma="druhý" src="auto">CrNP4----------</AM>
@@ -3331,7 +3331,7 @@
 <tag>
 <AM lemma="hodně-1" src="auto">Ca--X----------</AM>
 <AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------1A----</AM>
+<AM lemma="hodně_^(*1ý)" src="auto" recommended="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m953-d1t1178-12">
@@ -3750,7 +3750,7 @@
 <form>vás</form>
 <tag>
 <AM lemma="ty" src="auto">PP-P2--2-------</AM>
-<AM lemma="ty" src="auto" recommended="1">PP-P4--2-------</AM>
+<AM lemma="vy" src="auto" recommended="1">PP-P4--2-------</AM>
 <AM lemma="ty" src="auto">PP-P6--2-------</AM>
 </tag>
 </m>
@@ -4021,7 +4021,7 @@
 <AM lemma="Podolský_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="Podolski_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Podolski_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="podolský_;G" src="auto" recommended="1">AAIS2----1A----</AM>
+<AM lemma="podolský" src="auto" recommended="1">AAIS2----1A----</AM>
 <AM lemma="podolský_;G" src="auto">AAMS2----1A----</AM>
 <AM lemma="podolský_;G" src="auto">AAMS4----1A----</AM>
 <AM lemma="podolský_;G" src="auto">AANS2----1A----</AM>
@@ -4446,7 +4446,7 @@
 </w.rf>
 <form>ne</form>
 <tag>
-<AM lemma="ne" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ne-1" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="neděle_:B" src="auto">NNFXX-----A---8</AM>
 </tag>
 </m>
@@ -4816,7 +4816,7 @@
 </w.rf>
 <form>vy</form>
 <tag>
-<AM lemma="ty" src="auto" recommended="1">PP-P1--2-------</AM>
+<AM lemma="vy" src="auto" recommended="1">PP-P1--2-------</AM>
 <AM lemma="ty" src="auto">PP-P5--2-------</AM>
 </tag>
 </m>
@@ -4868,7 +4868,7 @@
 </w.rf>
 <form>Ne</form>
 <tag>
-<AM lemma="ne" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ne-1" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="neděle_:B" src="auto">NNFXX-----A---8</AM>
 </tag>
 </m>

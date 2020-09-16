@@ -35,7 +35,7 @@
 <LM>w#w-ln94202-64-p1s1w3</LM>
 </w.rf>
 <form>Titova</form>
-<tag lemma="Titův_;Y_^(*2o)" src="orig" selected="1">AUIS2M---------</tag>
+<tag lemma="Titův_;Y_^(*2o)_(*2us)" src="orig" selected="1">AUIS2M---------</tag>
 </m>
 <m id="m-ln94202-64-p1s1w4">
 <src.rf>manual</src.rf>

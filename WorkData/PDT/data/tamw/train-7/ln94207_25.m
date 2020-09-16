@@ -978,7 +978,7 @@
 <form>Bihač</form>
 <tag>
 <AM lemma="Bihač_;G_;Y" src="orig">NNFS1-----A----</AM>
-<AM lemma="Bihač_;G" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
+<AM lemma="Bihač-2_;G" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="Bihač_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Bihač_;Y" src="auto">NNMS1-----A----</AM>
 </tag>
@@ -1087,7 +1087,7 @@
 <LM>w#w-ln94207-25-p4s2w3</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94207-25-p4s2w4">
 <src.rf>manual</src.rf>
@@ -1178,7 +1178,7 @@
 <AM lemma="Bihač_;G" src="auto">NNIP7-----A----</AM>
 <AM lemma="Bihač_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="Bihač_;G" src="auto">NNIS5-----A----</AM>
-<AM lemma="Bihač_;G" src="auto" recommended="1" selected="1">NNIS6-----A----</AM>
+<AM lemma="Bihač-2_;G" src="auto" recommended="1" selected="1">NNIS6-----A----</AM>
 <AM lemma="Bihač_;Y" src="auto">NNMP1-----A----</AM>
 <AM lemma="Bihač_;Y" src="auto">NNMP5-----A----</AM>
 <AM lemma="Bihač_;Y" src="auto">NNMP7-----A----</AM>
@@ -1219,7 +1219,7 @@
 <LM>w#w-ln94207-25-p4s3w3</LM>
 </w.rf>
 <form>Jeana</form>
-<tag lemma="Jean_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Jean-1_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94207-25-p4s3w4">
 <src.rf>manual</src.rf>
@@ -1559,7 +1559,7 @@
 <LM>w#w-ln94207-25-p4s4w21</LM>
 </w.rf>
 <form>vyhlášené</form>
-<tag lemma="vyhlášený_,a_^(*4sit)" src="orig" selected="1">AAFS2----1A----</tag>
+<tag lemma="vyhlášený_^(*2t)_(*4sit)" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-ln94207-25-p4s4w22">
 <src.rf>manual</src.rf>

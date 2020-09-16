@@ -538,7 +538,7 @@
 <LM>w#w-lnd94103-125-p1s5w2</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrIS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS6----------</tag>
 </m>
 <m id="m-lnd94103-125-p1s5w3">
 <src.rf>manual</src.rf>
@@ -998,7 +998,7 @@
 <LM>w#w-lnd94103-125-p1s6w2</LM>
 </w.rf>
 <form>druhém</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS6----------</tag>
 </m>
 <m id="m-lnd94103-125-p1s6w3">
 <src.rf>manual</src.rf>

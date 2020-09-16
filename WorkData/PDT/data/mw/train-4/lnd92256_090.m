@@ -85,7 +85,7 @@
 <LM>w#w-lnd92256-090-p2s1w1</LM>
 </w.rf>
 <form>Vyprášená</form>
-<tag lemma="vyprášený_,s_^(*2t)" src="auto" selected="1">AANP1----1A----</tag>
+<tag lemma="vyprášený_^(*2t)_(*3it)" src="auto" selected="1">AANP1----1A----</tag>
 </m>
 <m id="m-lnd92256-090-p2s1w2">
 <src.rf>manual</src.rf>
@@ -1053,7 +1053,7 @@
 <LM>w#w-lnd92256-090-p4s5w9</LM>
 </w.rf>
 <form>dny</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-lnd92256-090-p4s5w10">
 <src.rf>manual</src.rf>
@@ -1263,7 +1263,7 @@
 <LM>w#w-lnd92256-090-p4s6w1</LM>
 </w.rf>
 <form>Banská</form>
-<tag lemma="Banský_;G" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="banský" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-lnd92256-090-p4s6w2">
 <src.rf>manual</src.rf>
@@ -1837,7 +1837,7 @@
 <LM>w#w-lnd92256-090-p5s1w1</LM>
 </w.rf>
 <form>Banská</form>
-<tag lemma="Banský_;G" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="banský" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-lnd92256-090-p5s1w2">
 <src.rf>manual</src.rf>
@@ -1992,7 +1992,7 @@
 <LM>w#w-lnd92256-090-p5s1w20</LM>
 </w.rf>
 <form>úvodních</form>
-<tag lemma="úvodní_,s" src="auto" selected="1">AAIP6----1A----</tag>
+<tag lemma="úvodní" src="auto" selected="1">AAIP6----1A----</tag>
 </m>
 <m id="m-lnd92256-090-p5s1w21">
 <src.rf>manual</src.rf>
@@ -2284,7 +2284,7 @@
 <LM>w#w-lnd92256-090-p5s2w8</LM>
 </w.rf>
 <form>nevypadají</form>
-<tag lemma="vypadat" src="orig" selected="1">VB-P---3P-NAI--</tag>
+<tag lemma="vypadat-1_^(ty_vypadáš)" src="orig" selected="1">VB-P---3P-NAI--</tag>
 </m>
 <m id="m-lnd92256-090-p5s2w9">
 <src.rf>manual</src.rf>
@@ -2587,7 +2587,7 @@
 <LM>w#w-lnd92256-090-p5s4w11</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-lnd92256-090-p5s4w12">
 <src.rf>manual</src.rf>
@@ -2595,7 +2595,7 @@
 <LM>w#w-lnd92256-090-p5s4w12</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd92256-090-p5s4w13">
 <src.rf>manual</src.rf>
@@ -3148,7 +3148,7 @@
 <LM>w#w-lnd92256-090-p5s6w24</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS6---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS6---------1</tag>
 </m>
 <m id="m-lnd92256-090-p5s6w25">
 <src.rf>manual</src.rf>

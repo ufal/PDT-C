@@ -230,7 +230,7 @@
 <form>extremismu</form>
 <tag>
 <AM lemma="extremismus" src="orig">NNIS2-----A----</AM>
-<AM lemma="extremismus_,s_^(^DD**extremizmus)" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="extremismus_,s_^(^DD**extrémizmus)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-001-p1s1Ew8">
@@ -303,7 +303,7 @@
 <LM>w#w-lnd94105-001-p1s1Ew16</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8YP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8YP4---------1</tag>
 </m>
 <m id="m-lnd94105-001-p1s1Ew17">
 <src.rf>manual</src.rf>
@@ -450,7 +450,7 @@
 <LM>w#w-lnd94105-001-p1s3w1</LM>
 </w.rf>
 <form>Naši</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS4-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS4-P1-------</tag>
 </m>
 <m id="m-lnd94105-001-p1s3w2">
 <src.rf>manual</src.rf>
@@ -580,7 +580,7 @@
 <LM>w#w-lnd94105-001-p1s4w8</LM>
 </w.rf>
 <form>jehož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P1XXXZS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1XXXZS3-------</tag>
 </m>
 <m id="m-lnd94105-001-p1s4w9">
 <src.rf>manual</src.rf>
@@ -652,7 +652,7 @@
 <LM>w#w-lnd94105-001-p1s4w17</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd94105-001-p1s4w18">
 <src.rf>manual</src.rf>
@@ -1063,7 +1063,7 @@
 <LM>w#w-lnd94105-001-p1s7Bw7</LM>
 </w.rf>
 <form>správný</form>
-<tag lemma="správný_^(podle_něj._měřítek;_př._chlap,_míra,...)" src="orig" selected="1">AAMS1----1A----</tag>
+<tag lemma="správný" src="orig" selected="1">AAMS1----1A----</tag>
 </m>
 <m id="m-lnd94105-001-p1s7Bw8">
 <src.rf>manual</src.rf>
@@ -1405,7 +1405,7 @@
 <LM>w#w-lnd94105-001-p1s9Bw3</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-4_^(v_knize,_rukopise,...)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd94105-001-p1s9Bw4">
 <src.rf>manual</src.rf>

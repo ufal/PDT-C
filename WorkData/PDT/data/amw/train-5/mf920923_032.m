@@ -644,7 +644,7 @@
 <LM>w#w-mf920923-032-p2s5w2</LM>
 </w.rf>
 <form>modely</form>
-<tag lemma="model" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="model-1" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-mf920923-032-p2s5w3">
 <src.rf>manual</src.rf>
@@ -668,7 +668,7 @@
 <LM>w#w-mf920923-032-p2s5w5</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS6---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS6---------1</tag>
 </m>
 <m id="m-mf920923-032-p2s5w6">
 <src.rf>manual</src.rf>
@@ -684,7 +684,7 @@
 <LM>w#w-mf920923-032-p2s5w7</LM>
 </w.rf>
 <form>naše</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSHS1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSHS1-P1-------</tag>
 </m>
 <m id="m-mf920923-032-p2s5w8">
 <src.rf>manual</src.rf>
@@ -896,7 +896,7 @@
 <LM>w#w-mf920923-032-p2s7w4</LM>
 </w.rf>
 <form>model</form>
-<tag lemma="model" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="model-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920923-032-p2s7w5">
 <src.rf>manual</src.rf>

@@ -928,7 +928,7 @@
 <LM>w#w-mf920924-134-p2s5w16</LM>
 </w.rf>
 <form>druhou</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS4----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS4----------</tag>
 </m>
 <m id="m-mf920924-134-p2s5w17">
 <src.rf>manual</src.rf>

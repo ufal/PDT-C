@@ -117,7 +117,7 @@
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP1FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP5FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9ZS1FS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9ZS1FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSZS5FS3-------</AM>
 </tag>
 </m>
@@ -2579,7 +2579,7 @@
 <form>polyetylén</form>
 <tag>
 <AM lemma="polyetylén" src="auto">NNIS1-----A----</AM>
-<AM lemma="polyetylén" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="polyetylén_,s_^(^DD**polyetylen)" src="auto" recommended="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1295-001-p1s7W4-Ta">
@@ -3044,7 +3044,7 @@
 </w.rf>
 <form>etylénoxidu</form>
 <tag>
-<AM lemma="etylénoxid" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="etylénoxid_,s_^(^DD**etylenoxid)" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="etylénoxid" src="auto">NNIS3-----A----</AM>
 <AM lemma="etylénoxid" src="auto">NNIS6-----A----</AM>
 </tag>
@@ -3205,7 +3205,7 @@
 </w.rf>
 <form>polyetylénu</form>
 <tag>
-<AM lemma="polyetylén" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="polyetylén_,s_^(^DD**polyetylen)" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="polyetylén" src="auto">NNIS3-----A----</AM>
 <AM lemma="polyetylén" src="auto">NNIS6-----A----</AM>
 </tag>
@@ -3408,7 +3408,7 @@
 <AM lemma="první" src="auto">CrFP1----------</AM>
 <AM lemma="první" src="auto">CrFP4----------</AM>
 <AM lemma="první" src="auto">CrFP5----------</AM>
-<AM lemma="první" src="auto" recommended="1">CrFS1----------</AM>
+<AM lemma="první-1" src="auto" recommended="1">CrFS1----------</AM>
 <AM lemma="první" src="auto">CrFS2----------</AM>
 <AM lemma="první" src="auto">CrFS3----------</AM>
 <AM lemma="první" src="auto">CrFS4----------</AM>
@@ -3804,7 +3804,7 @@
 </w.rf>
 <form>správné</form>
 <tag>
-<AM lemma="správný_^(správný_chlap)" src="auto" recommended="1">AAFP1----1A----</AM>
+<AM lemma="správný" src="auto" recommended="1">AAFP1----1A----</AM>
 <AM lemma="správný_^(správný_chlap)" src="auto">AAFP4----1A----</AM>
 <AM lemma="správný_^(správný_chlap)" src="auto">AAFP5----1A----</AM>
 <AM lemma="správný_^(správný_chlap)" src="auto">AAFS2----1A----</AM>

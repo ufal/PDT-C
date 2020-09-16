@@ -417,7 +417,7 @@
 <LM>w#w-mf920922-014-p2s4w12</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS6---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS6---------1</tag>
 </m>
 <m id="m-mf920922-014-p2s4w13">
 <src.rf>manual</src.rf>
@@ -425,7 +425,7 @@
 <LM>w#w-mf920922-014-p2s4w13</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-mf920922-014-p2s4w14">
 <src.rf>manual</src.rf>
@@ -643,7 +643,7 @@
 <LM>w#w-mf920922-014-p2s5w4</LM>
 </w.rf>
 <form>datum</form>
-<tag lemma="datum_^(kalendářní)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="datum-1_^(kalendářní)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-mf920922-014-p2s5w5">
 <src.rf>manual</src.rf>
@@ -715,7 +715,7 @@
 <LM>w#w-mf920922-014-p2s5w13</LM>
 </w.rf>
 <form>stanovené</form>
-<tag lemma="stanovený_^(určit)_(*3it)" src="orig" selected="1">AANS4----1A----</tag>
+<tag lemma="stanovený_^(*3it)" src="orig" selected="1">AANS4----1A----</tag>
 </m>
 <m id="m-mf920922-014-p2s5w14">
 <src.rf>manual</src.rf>

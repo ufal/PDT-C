@@ -119,7 +119,7 @@
 <LM>w#w-lnd91301-013-p4s1w6</LM>
 </w.rf>
 <form>svržení</form>
-<tag lemma="svržení_^(*4hnout)" src="orig" selected="1">NNNS3-----A----</tag>
+<tag lemma="svržení" src="orig" selected="1">NNNS3-----A----</tag>
 </m>
 <m id="m-lnd91301-013-p4s1w7">
 <src.rf>manual</src.rf>
@@ -169,7 +169,7 @@
 <LM>w#w-lnd91301-013-p4s2w2</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd91301-013-p4s2w3">
 <src.rf>manual</src.rf>
@@ -236,7 +236,7 @@
 <LM>w#w-lnd91301-013-p4s2w10</LM>
 </w.rf>
 <form>vydání</form>
-<tag lemma="vydání-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*5at-1)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="vydání_^(*3at)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-lnd91301-013-p4s2w11">
 <src.rf>manual</src.rf>
@@ -596,7 +596,7 @@
 <LM>w#w-lnd91301-013-p4s4w7</LM>
 </w.rf>
 <form>Kurdové</form>
-<tag lemma="Kurd" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="Kurd_;E" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd91301-013-p4s4w8">
 <src.rf>manual</src.rf>

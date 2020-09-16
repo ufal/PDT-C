@@ -67,7 +67,7 @@
 <LM>w#w-mf920924-133-p1s1w7</LM>
 </w.rf>
 <form>jejím</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS6FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS6FS3-------</tag>
 </m>
 <m id="m-mf920924-133-p1s1w8">
 <src.rf>manual</src.rf>
@@ -367,7 +367,7 @@
 <LM>w#w-mf920924-133-p2s3w19</LM>
 </w.rf>
 <form>Bihači</form>
-<tag lemma="Bihač_;G" src="auto" selected="1">NNIS6-----A----</tag>
+<tag lemma="Bihač-2_;G" src="auto" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-mf920924-133-p2s3w20">
 <src.rf>manual</src.rf>
@@ -1468,7 +1468,7 @@
 <LM>w#w-mf920924-133-p2s10w28</LM>
 </w.rf>
 <form>zasažení</form>
-<tag lemma="zasažení_^(*5áhnout)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="zasažení" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-mf920924-133-p2s10w29">
 <src.rf>manual</src.rf>

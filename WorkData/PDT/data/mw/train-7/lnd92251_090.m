@@ -43,7 +43,7 @@
 <LM>w#w-lnd92251-090-p1s1w4</LM>
 </w.rf>
 <form>Slavie</form>
-<tag lemma="Slavia_;m" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Slavie_;m_,s_^(^DD**Slávie)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92251-090-p2s1">
@@ -208,7 +208,7 @@
 <LM>w#w-lnd92251-090-p2s1w20</LM>
 </w.rf>
 <form>Slovanu</form>
-<tag lemma="Slovan-2_;m" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Slovan-2_;G_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92251-090-p2s1w21">
 <src.rf>manual</src.rf>
@@ -642,7 +642,7 @@
 <LM>w#w-lnd92251-090-p2s3w28</LM>
 </w.rf>
 <form>Slovanu</form>
-<tag lemma="Slovan-2_;m" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Slovan-2_;G_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92251-090-p2s3w29">
 <src.rf>manual</src.rf>

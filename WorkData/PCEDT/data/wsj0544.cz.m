@@ -205,7 +205,7 @@
 <tag>
 <AM lemma="Bristol_;G" src="auto">NNIS2-----A----</AM>
 <AM lemma="Bristol_;G" src="auto">NNIS3-----A----</AM>
-<AM lemma="Bristol_;G" src="auto" recommended="1">NNIS6-----A---1</AM>
+<AM lemma="Bristol_;G_;m" src="auto" recommended="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-wsj0544-001-p1s0W19-Ta">
@@ -628,7 +628,7 @@
 </w.rf>
 <form>svých</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8XP2----------</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8XP2----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8XP6----------</AM>
 </tag>
 </m>

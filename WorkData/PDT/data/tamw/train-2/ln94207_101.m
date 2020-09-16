@@ -1158,7 +1158,7 @@
 <LM>w#w-ln94207-101-p3s3Aw6</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrIS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS4----------</tag>
 </m>
 <m id="m-ln94207-101-p3s3Aw7">
 <src.rf>manual</src.rf>

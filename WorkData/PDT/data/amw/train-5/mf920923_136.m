@@ -387,7 +387,7 @@
 <LM>w#w-mf920923-136-p2s3w1</LM>
 </w.rf>
 <form>Mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-136-p2s3w2">
 <src.rf>manual</src.rf>
@@ -565,7 +565,7 @@
 <LM>w#w-mf920923-136-p2s4w4</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS1FS3-------</tag>
 </m>
 <m id="m-mf920923-136-p2s4w5">
 <src.rf>manual</src.rf>
@@ -711,7 +711,7 @@
 <LM>w#w-mf920923-136-p2s5w13</LM>
 </w.rf>
 <form>opasek</form>
-<tag lemma="opasek-2" src="auto" selected="1">NNIS4-----A----</tag>
+<tag lemma="opasek" src="auto" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-mf920923-136-p2s5w14">
 <src.rf>manual</src.rf>

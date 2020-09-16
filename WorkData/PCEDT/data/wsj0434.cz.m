@@ -69,7 +69,7 @@
 <AM lemma="dobrý" src="auto">AAFP3----3A----</AM>
 <AM lemma="dobrý" src="auto">AAIP3----3A----</AM>
 <AM lemma="dobrý" src="auto">AAIS6----3A----</AM>
-<AM lemma="dobrý" src="auto" recommended="1">AAIS7----3A----</AM>
+<AM lemma="lepší" src="auto" recommended="1">AAIS7----3A----</AM>
 <AM lemma="dobrý" src="auto">AAMP3----3A----</AM>
 <AM lemma="dobrý" src="auto">AAMS6----3A----</AM>
 <AM lemma="dobrý" src="auto">AAMS7----3A----</AM>
@@ -124,7 +124,7 @@
 </w.rf>
 <form>vaší</form>
 <tag>
-<AM lemma="tvůj_^(přivlast.)" src="auto" recommended="1">PSFS2-P2-------</AM>
+<AM lemma="váš" src="auto" recommended="1">PSFS2-P2-------</AM>
 <AM lemma="tvůj_^(přivlast.)" src="auto">PSFS3-P2-------</AM>
 <AM lemma="tvůj_^(přivlast.)" src="auto">PSFS4-P2------6</AM>
 <AM lemma="tvůj_^(přivlast.)" src="auto">PSFS6-P2-------</AM>
@@ -300,7 +300,7 @@
 <form>lepším</form>
 <tag>
 <AM lemma="dobrý" src="auto">AAFP3----2A----</AM>
-<AM lemma="dobrý" src="auto" recommended="1">AAIP3----2A----</AM>
+<AM lemma="lepší" src="auto" recommended="1">AAIP3----2A----</AM>
 <AM lemma="dobrý" src="auto">AAIS6----2A----</AM>
 <AM lemma="dobrý" src="auto">AAIS7----2A----</AM>
 <AM lemma="dobrý" src="auto">AAMP3----2A----</AM>
@@ -598,7 +598,7 @@
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS1---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS4---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS5---------1</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8YP4---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8YP4---------1</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOFP-----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOIP-----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AONS-----------</AM>
@@ -1332,7 +1332,7 @@
 <form>našeho</form>
 <tag>
 <AM lemma="můj_^(přivlast.)" src="auto">PSMS4-P1-------</AM>
-<AM lemma="můj_^(přivlast.)" src="auto" recommended="1">PSZS2-P1-------</AM>
+<AM lemma="náš" src="auto" recommended="1">PSZS2-P1-------</AM>
 </tag>
 </m>
 <m id="m-wsj0434-001-p1s5W13-Ta">
@@ -1669,7 +1669,7 @@
 <AM lemma="defenzivní" src="auto">AAFS1----1A----</AM>
 <AM lemma="defenzivní" src="auto">AAFS2----1A----</AM>
 <AM lemma="defenzivní" src="auto">AAFS3----1A----</AM>
-<AM lemma="defenzivní" src="auto" recommended="1">AAFS4----1A----</AM>
+<AM lemma="defenzivní_,s_^(^DD**defenzívní)" src="auto" recommended="1">AAFS4----1A----</AM>
 <AM lemma="defenzivní" src="auto">AAFS5----1A----</AM>
 <AM lemma="defenzivní" src="auto">AAFS6----1A----</AM>
 <AM lemma="defenzivní" src="auto">AAFS7----1A----</AM>

@@ -376,7 +376,7 @@
 <LM>w#w-ln94204-64-p2s1Bw33</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94204-64-p2s1Bw34">
 <src.rf>manual</src.rf>
@@ -434,7 +434,7 @@
 <LM>w#w-ln94204-64-p2s2w6</LM>
 </w.rf>
 <form>ukradenými</form>
-<tag lemma="ukradený_^(*5ást)" src="auto" selected="1">AANP7----1A----</tag>
+<tag lemma="ukradený" src="auto" selected="1">AANP7----1A----</tag>
 </m>
 <m id="m-ln94204-64-p2s2w7">
 <src.rf>manual</src.rf>
@@ -474,7 +474,7 @@
 <LM>w#w-ln94204-64-p2s2w11</LM>
 </w.rf>
 <form>převážející</form>
-<tag lemma="převážející_^(něco_někam_např._autem)_(*4t)" src="orig" selected="1">AGIS4-----A----</tag>
+<tag lemma="převážející_^(*4t)" src="orig" selected="1">AGIS4-----A----</tag>
 </m>
 <m id="m-ln94204-64-p2s2w12">
 <src.rf>manual</src.rf>
@@ -1120,7 +1120,7 @@
 <LM>w#w-ln94204-64-p2s5w9</LM>
 </w.rf>
 <form>členů</form>
-<tag lemma="člen" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94204-64-p2s5w10">
 <src.rf>manual</src.rf>

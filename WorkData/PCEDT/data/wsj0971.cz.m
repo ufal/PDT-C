@@ -4004,7 +4004,7 @@
 <form>hodině</form>
 <tag>
 <AM lemma="hodina_^(jednotka_času)" src="auto">NNFS3-----A----</AM>
-<AM lemma="hodina_^(jednotka_času)" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="hodina" src="auto" recommended="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0971-001-p1s15W4-Ta">
@@ -5031,7 +5031,7 @@
 <tag>
 <AM lemma="Floyd_;m_,t_^(Pink_Floyd)" src="auto">NNMXX-----A----</AM>
 <AM lemma="Floyd_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Floyd_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Floyd-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0971-001-p1s19W16-Ta">

@@ -19,7 +19,7 @@
 <LM>w#w-mf920901-087-p1s1w1</LM>
 </w.rf>
 <form>RADA</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920901-087-p1s1w2">
 <src.rf>manual</src.rf>
@@ -285,7 +285,7 @@
 <LM>w#w-mf920901-087-p1s2w6</LM>
 </w.rf>
 <form>Rady</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920901-087-p1s2w7">
 <src.rf>manual</src.rf>
@@ -349,7 +349,7 @@
 <LM>w#w-mf920901-087-p1s2w14</LM>
 </w.rf>
 <form>umění</form>
-<tag lemma="umění_^(mít_schopnost_něco_dělat)_(*2t)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="umění_^(*2t)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-mf920901-087-p1s2w15">
 <src.rf>manual</src.rf>

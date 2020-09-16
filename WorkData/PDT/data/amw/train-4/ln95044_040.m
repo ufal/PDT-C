@@ -177,7 +177,7 @@
 <LM>w#w-ln95044-040-p2s1Bw10</LM>
 </w.rf>
 <form>cestě</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln95044-040-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -363,7 +363,7 @@
 <LM>w#w-ln95044-040-p2s3w9</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln95044-040-p2s3w10">
 <src.rf>manual</src.rf>
@@ -537,7 +537,7 @@
 <LM>w#w-ln95044-040-p2s4w3</LM>
 </w.rf>
 <form>postižených</form>
-<tag lemma="postižený_^(*4hnout)" src="orig" selected="1">AAMP2----1A----</tag>
+<tag lemma="postižený" src="orig" selected="1">AAMP2----1A----</tag>
 </m>
 <m id="m-ln95044-040-p2s4w4">
 <src.rf>manual</src.rf>
@@ -569,7 +569,7 @@
 <LM>w#w-ln95044-040-p2s4w7</LM>
 </w.rf>
 <form>druhý</form>
-<tag lemma="druhý" src="orig" selected="1">CrMS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrMS1----------</tag>
 </m>
 <m id="m-ln95044-040-p2s4w8">
 <src.rf>manual</src.rf>
@@ -1120,7 +1120,7 @@
 <LM>w#w-ln95044-040-p2s8w9</LM>
 </w.rf>
 <form>napadeném</form>
-<tag lemma="napadený_^(*3nout)" src="orig" selected="1">AAIS6----1A----</tag>
+<tag lemma="napadený" src="orig" selected="1">AAIS6----1A----</tag>
 </m>
 <m id="m-ln95044-040-p2s8w10">
 <src.rf>manual</src.rf>

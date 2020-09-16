@@ -203,7 +203,7 @@
 <LM>w#w-lnd94105-121-p1s1w24</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP6-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP6-P1-------</tag>
 </m>
 <m id="m-lnd94105-121-p1s1w25">
 <src.rf>manual</src.rf>
@@ -676,7 +676,7 @@
 <LM>w#w-lnd94105-121-p1s4w8</LM>
 </w.rf>
 <form>cestě</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-lnd94105-121-p1s4w9">
 <src.rf>manual</src.rf>

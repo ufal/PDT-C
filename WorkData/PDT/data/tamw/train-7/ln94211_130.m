@@ -1285,7 +1285,7 @@
 <LM>w#w-ln94211-130-p3s4w33</LM>
 </w.rf>
 <form>prostředky</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-ln94211-130-p3s4w34">
 <src.rf>manual</src.rf>
@@ -1617,7 +1617,7 @@
 <LM>w#w-ln94211-130-p4s2w14</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln94211-130-p4s2w15">
 <src.rf>manual</src.rf>
@@ -1763,7 +1763,7 @@
 <LM>w#w-ln94211-130-p4s3w1</LM>
 </w.rf>
 <form>Prostředky</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-ln94211-130-p4s3w2">
 <src.rf>manual</src.rf>
@@ -1949,7 +1949,7 @@
 <LM>w#w-ln94211-130-p5s1w5</LM>
 </w.rf>
 <form>prostředky</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP7-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP7-----A----</tag>
 </m>
 <m id="m-ln94211-130-p5s1w6">
 <src.rf>manual</src.rf>
@@ -2243,7 +2243,7 @@
 <LM>w#w-ln94211-130-p5s2w9</LM>
 </w.rf>
 <form>hektar</form>
-<tag lemma="ha-1`hektar" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="hektar" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln94211-130-p5s2w10">
 <src.rf>manual</src.rf>
@@ -2325,7 +2325,7 @@
 <LM>w#w-ln94211-130-p5s3w9</LM>
 </w.rf>
 <form>hektar</form>
-<tag lemma="ha-1`hektar" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="hektar" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94211-130-p5s3w10">
 <src.rf>manual</src.rf>
@@ -2367,7 +2367,7 @@
 <LM>w#w-ln94211-130-p5s4w4</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-ln94211-130-p5s4w5">
 <src.rf>manual</src.rf>
@@ -2919,7 +2919,7 @@
 <LM>w#w-ln94211-130-p6s2w10</LM>
 </w.rf>
 <form>hektar</form>
-<tag lemma="ha-1`hektar" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="hektar" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln94211-130-p6s2w11">
 <src.rf>manual</src.rf>
@@ -3054,7 +3054,7 @@
 <LM>w#w-ln94211-130-p6s4w6</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln94211-130-p6s4w7">
 <src.rf>manual</src.rf>

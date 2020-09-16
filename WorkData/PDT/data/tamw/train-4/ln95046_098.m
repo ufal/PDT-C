@@ -239,7 +239,7 @@
 <LM>w#w-ln95046-098-p2s1Bw21</LM>
 </w.rf>
 <form>dlouhé</form>
-<tag lemma="dlouhý-1_^(fyz._délka;_př._dlouhá_tyč)" src="orig" selected="1">AAFS2----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-ln95046-098-p2s1Bw22">
 <src.rf>manual</src.rf>
@@ -313,7 +313,7 @@
 <LM>w#w-ln95046-098-p2s2w3</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-098-p2s2w4">
 <src.rf>manual</src.rf>
@@ -595,7 +595,7 @@
 <LM>w#w-ln95046-098-p2s5w7</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-ln95046-098-p2s5w8">
 <src.rf>manual</src.rf>
@@ -677,7 +677,7 @@
 <LM>w#w-ln95046-098-p2s6w6</LM>
 </w.rf>
 <form>zatopenou</form>
-<tag lemma="zatopený-2_^(zaplavit)_(*5it-2)" src="orig" selected="1">AAFS4----1A----</tag>
+<tag lemma="zatopený_^(*3it)" src="orig" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-ln95046-098-p2s6w7">
 <src.rf>manual</src.rf>
@@ -963,7 +963,7 @@
 <LM>w#w-ln95046-098-p2s9w7</LM>
 </w.rf>
 <form>lety</form>
-<tag lemma="rok" src="orig" selected="1">NNNP7-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP7-----A----</tag>
 </m>
 <m id="m-ln95046-098-p2s9w8">
 <src.rf>manual</src.rf>

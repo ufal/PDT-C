@@ -56,7 +56,7 @@
 <LM>w#w-lnd92258-001-p2s1w2</LM>
 </w.rf>
 <form>oka</form>
-<tag lemma="oko" src="orig" selected="1">NNNP1-----A----</tag>
+<tag lemma="oko-1" src="orig" selected="1">NNNP1-----A----</tag>
 </m>
 <m id="m-lnd92258-001-p2s1w3">
 <src.rf>manual</src.rf>

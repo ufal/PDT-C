@@ -122,7 +122,7 @@
 <LM>w#w-mf920925-017-p2s2w4</LM>
 </w.rf>
 <form>Miroslava</form>
-<tag lemma="Miroslav_;Y" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Miroslav-1_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf920925-017-p2s2w5">
 <src.rf>manual</src.rf>
@@ -283,7 +283,7 @@
 <LM>w#w-mf920925-017-p2s2w23</LM>
 </w.rf>
 <form>orgánu</form>
-<tag lemma="orgán" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920925-017-p2s2w24">
 <src.rf>manual</src.rf>

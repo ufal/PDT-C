@@ -529,7 +529,7 @@
 <LM>w#w-mf930709-074-p2s4w9</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8NS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8NS4---------1</tag>
 </m>
 <m id="m-mf930709-074-p2s4w10">
 <src.rf>manual</src.rf>

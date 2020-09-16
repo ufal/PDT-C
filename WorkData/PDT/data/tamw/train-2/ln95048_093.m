@@ -129,7 +129,7 @@
 </w.rf>
 <form>Billie</form>
 <tag>
-<AM lemma="Billie_;Y" src="orig" selected="1">NNFXX-----A----</AM>
+<AM lemma="Billie-2_;Y" src="orig" selected="1">NNFXX-----A----</AM>
 <AM lemma="Billie_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Billie_;Y_,t" src="auto">NNMS5-----A----</AM>
 </tag>
@@ -140,7 +140,7 @@
 <LM>w#w-ln95048-093-p2s1Bw7</LM>
 </w.rf>
 <form>Jean</form>
-<tag lemma="Jean_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Jean-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95048-093-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -414,7 +414,7 @@
 <LM>w#w-ln95048-093-p2s2w26</LM>
 </w.rf>
 <form>úvodním</form>
-<tag lemma="úvodní_,s" src="auto" selected="1">AANS6----1A----</tag>
+<tag lemma="úvodní" src="auto" selected="1">AANS6----1A----</tag>
 </m>
 <m id="m-ln95048-093-p2s2w27">
 <src.rf>manual</src.rf>

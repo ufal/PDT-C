@@ -439,7 +439,7 @@
 <LM>w#w-lnd94101-055-p1s4w17</LM>
 </w.rf>
 <form>zastavení</form>
-<tag lemma="zastavení-1_^([také_z._se];_uvést_do_klidu:_auto,...)_(*5it-1)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="zastavení_^(*3it)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-lnd94101-055-p1s4w18">
 <src.rf>manual</src.rf>

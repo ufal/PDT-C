@@ -1480,7 +1480,7 @@
 <tag>
 <AM lemma="Glenn_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Glenn_;Y" src="manual">NNMS1-----A----</AM>
-<AM lemma="Glenn-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Glenn_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2325-001-p1s3W21-Ta">
@@ -1882,7 +1882,7 @@
 <AM lemma="Philips_;m" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Philips_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="Phillips_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Philips-1_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Phillips-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2325-001-p1s5W5-Ta">
@@ -2025,7 +2025,7 @@
 <AM lemma="Philips_;m" src="auto">NNIS1-----A----</AM>
 <AM lemma="Philips_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="Phillips_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Philips-1_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Phillips-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2325-001-p1s6W12-Ta">
@@ -2076,7 +2076,7 @@
 </w.rf>
 <form>zasaženými</form>
 <tag>
-<AM lemma="zasažený_^(*5áhnout)" src="auto" recommended="1">AAFP7----1A----</AM>
+<AM lemma="zasažený" src="auto" recommended="1">AAFP7----1A----</AM>
 <AM lemma="zasažený_^(*5áhnout)" src="auto">AAIP7----1A----</AM>
 <AM lemma="zasažený_^(*5áhnout)" src="auto">AAMP7----1A----</AM>
 <AM lemma="zasažený_^(*5áhnout)" src="auto">AANP7----1A----</AM>
@@ -4249,7 +4249,7 @@
 </w.rf>
 <form>ne</form>
 <tag>
-<AM lemma="ne" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ne-1" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="neděle" src="auto">NNFXX-----A---8</AM>
 </tag>
 </m>
@@ -5471,7 +5471,7 @@
 </w.rf>
 <form>ne</form>
 <tag>
-<AM lemma="ne" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="ne-1" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="neděle" src="auto">NNFXX-----A---8</AM>
 </tag>
 </m>
@@ -5592,7 +5592,7 @@
 <AM lemma="druhý" src="auto">CrFP1----------</AM>
 <AM lemma="druhý" src="auto">CrFP4----------</AM>
 <AM lemma="druhý" src="auto">CrFP5----------</AM>
-<AM lemma="druhý" src="auto" recommended="1">CrFS2----------</AM>
+<AM lemma="druhý`2" src="auto" recommended="1">CrFS2----------</AM>
 <AM lemma="druhý" src="auto">CrFS3----------</AM>
 <AM lemma="druhý" src="auto">CrFS6----------</AM>
 <AM lemma="druhý" src="auto">CrIP1----------</AM>
@@ -6588,7 +6588,7 @@
 <tag>
 <AM lemma="Bryan_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Bryan_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Bryan_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Bryan-2_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2325-001-p1s25W13-Ta">
@@ -7109,7 +7109,7 @@
 </w.rf>
 <form>lepší</form>
 <tag>
-<AM lemma="dobrý" src="auto" selected="1">AAFP1----2A----</AM>
+<AM lemma="lepší" src="auto" selected="1">AAFP1----2A----</AM>
 <AM lemma="dobrý" src="auto">AAFP4----2A----</AM>
 <AM lemma="dobrý" src="auto">AAFP5----2A----</AM>
 <AM lemma="dobrý" src="auto">AAFS1----2A----</AM>
@@ -7243,7 +7243,7 @@
 <tag>
 <AM lemma="horšit" src="auto">VB-P---3P-AAI--</AM>
 <AM lemma="horšit" src="auto">VB-S---3P-AAI--</AM>
-<AM lemma="špatný" src="auto" recommended="1">AAFP1----2A----</AM>
+<AM lemma="horší" src="auto" recommended="1">AAFP1----2A----</AM>
 <AM lemma="špatný" src="auto">AAFP4----2A----</AM>
 <AM lemma="špatný" src="auto">AAFP5----2A----</AM>
 <AM lemma="špatný" src="auto">AAFS1----2A----</AM>
@@ -7969,7 +7969,7 @@
 </w.rf>
 <form>druhou</form>
 <tag>
-<AM lemma="druhý" src="auto" recommended="1">CrFS4----------</AM>
+<AM lemma="druhý`2" src="auto" recommended="1">CrFS4----------</AM>
 <AM lemma="druhý" src="auto">CrFS7----------</AM>
 </tag>
 </m>
@@ -8232,7 +8232,7 @@
 <AM lemma="Philips_;m" src="auto">NNIS1-----A----</AM>
 <AM lemma="Philips_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="Phillips_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Philips-1_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Phillips-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2325-001-p1s32W19-Ta">

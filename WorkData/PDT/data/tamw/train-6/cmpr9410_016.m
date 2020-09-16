@@ -247,7 +247,7 @@
 <LM>w#w-cmpr9410-016-p4s2w5</LM>
 </w.rf>
 <form>rady</form>
-<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-cmpr9410-016-p4s2w6">
 <src.rf>manual</src.rf>
@@ -411,7 +411,7 @@
 <LM>w#w-cmpr9410-016-p5s1w3</LM>
 </w.rf>
 <form>členem</form>
-<tag lemma="člen" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-cmpr9410-016-p5s1w4">
 <src.rf>manual</src.rf>
@@ -539,7 +539,7 @@
 <LM>w#w-cmpr9410-016-p5s1w19</LM>
 </w.rf>
 <form>práva</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-cmpr9410-016-p5s1w20">
 <src.rf>manual</src.rf>
@@ -665,7 +665,7 @@
 <LM>w#w-cmpr9410-016-p5s2w10</LM>
 </w.rf>
 <form>dají</form>
-<tag lemma="dát" src="orig" selected="1">VB-P---3P-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-cmpr9410-016-p5s2w11">
 <src.rf>manual</src.rf>
@@ -805,7 +805,7 @@
 <LM>w#w-cmpr9410-016-p6s1w8</LM>
 </w.rf>
 <form>náš</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSIS4-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSIS4-P1-------</tag>
 </m>
 <m id="m-cmpr9410-016-p6s1w9">
 <src.rf>manual</src.rf>
@@ -1083,7 +1083,7 @@
 <LM>w#w-cmpr9410-016-p6s4w9</LM>
 </w.rf>
 <form>dal</form>
-<tag lemma="dát" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-cmpr9410-016-p6s4w10">
 <src.rf>manual</src.rf>
@@ -1261,7 +1261,7 @@
 <LM>w#w-cmpr9410-016-p7s1w10</LM>
 </w.rf>
 <form>koupí</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="orig" selected="1">VB-S---3P-AAP--</tag>
+<tag lemma="koupit" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-cmpr9410-016-p7s1w11">
 <src.rf>manual</src.rf>
@@ -2543,7 +2543,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-2" src="auto">Db-------------</AM>
-<AM lemma="třeba-3" src="manual" selected="1">TT-------------</AM>
+<AM lemma="třeba-2_^(například)" src="manual" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-016-p14s2w4">
@@ -3331,7 +3331,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-2" src="auto">Db-------------</AM>
-<AM lemma="třeba-3" src="manual" selected="1">TT-------------</AM>
+<AM lemma="třeba-2_^(například)" src="manual" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-016-p16s1w23">
@@ -3505,7 +3505,7 @@
 <LM>w#w-cmpr9410-016-p16s2w11</LM>
 </w.rf>
 <form>Mánes</form>
-<tag lemma="Mánes_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mánes-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-016-p16s2w12">
 <src.rf>manual</src.rf>
@@ -3710,7 +3710,7 @@
 <LM>w#w-cmpr9410-016-p16s3w20</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-cmpr9410-016-p16s3w21">
 <src.rf>manual</src.rf>
@@ -3850,7 +3850,7 @@
 <LM>w#w-cmpr9410-016-p18s1w5</LM>
 </w.rf>
 <form>umění</form>
-<tag lemma="umění_^(mít_schopnost_něco_dělat)_(*2t)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="umění_^(*2t)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-cmpr9410-016-p18s1w6">
 <src.rf>manual</src.rf>
@@ -4196,7 +4196,7 @@
 <LM>w#w-cmpr9410-016-p18s3w13</LM>
 </w.rf>
 <form>dalo</form>
-<tag lemma="dát" src="orig" selected="1">VpNS----R-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-cmpr9410-016-p18s3w14">
 <src.rf>manual</src.rf>
@@ -4212,7 +4212,7 @@
 <LM>w#w-cmpr9410-016-p18s3w15</LM>
 </w.rf>
 <form>třeba</form>
-<tag lemma="třeba-2" src="auto" selected="1">Db-------------</tag>
+<tag lemma="třeba-1" src="auto" selected="1">Db-------------</tag>
 </m>
 <m id="m-cmpr9410-016-p18s3w16">
 <src.rf>manual</src.rf>

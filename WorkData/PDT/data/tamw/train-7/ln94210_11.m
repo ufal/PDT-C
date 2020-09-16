@@ -568,7 +568,7 @@
 <AM lemma="kótovaný_^(*2t)" src="orig">AAIP2----1N----</AM>
 <AM lemma="kotovaný_^(*2t)" src="auto">AAFP2----1N----</AM>
 <AM lemma="kotovaný_^(*2t)" src="auto">AAFP6----1N----</AM>
-<AM lemma="kotovaný_^(*2t)" src="auto" recommended="1" selected="1">AAIP2----1N----</AM>
+<AM lemma="kotovaný_^(^DD**kótovaný)_(*2t)" src="auto" recommended="1" selected="1">AAIP2----1N----</AM>
 <AM lemma="kotovaný_^(*2t)" src="auto">AAIP6----1N----</AM>
 <AM lemma="kotovaný_^(*2t)" src="auto">AAMP2----1N----</AM>
 <AM lemma="kotovaný_^(*2t)" src="auto">AAMP6----1N----</AM>
@@ -682,7 +682,7 @@
 <AM lemma="kotovaný_^(*2t)" src="auto">AAIP4----1A---6</AM>
 <AM lemma="kotovaný_^(*2t)" src="auto">AAIP5----1A---6</AM>
 <AM lemma="kotovaný_^(*2t)" src="auto">AAIS1----1A----</AM>
-<AM lemma="kotovaný_^(*2t)" src="auto" recommended="1" selected="1">AAIS4----1A----</AM>
+<AM lemma="kotovaný_^(^DD**kótovaný)_(*2t)" src="auto" recommended="1" selected="1">AAIS4----1A----</AM>
 <AM lemma="kotovaný_^(*2t)" src="auto">AAIS5----1A----</AM>
 <AM lemma="kotovaný_^(*2t)" src="auto">AAMP1----1A---6</AM>
 <AM lemma="kotovaný_^(*2t)" src="auto">AAMP4----1A---6</AM>
@@ -1638,7 +1638,7 @@
 <LM>w#w-ln94210-11-p6s1w13</LM>
 </w.rf>
 <form>vyváženost</form>
-<tag lemma="vyváženost_^(zboží_přes_hranice)_(*3ý)" src="auto" selected="1">NNFS4-----A----</tag>
+<tag lemma="vyváženost_^(*3ý)" src="auto" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94210-11-p6s1w14">
 <src.rf>manual</src.rf>
@@ -1940,7 +1940,7 @@
 <LM>w#w-ln94210-11-p8s1w7</LM>
 </w.rf>
 <form>prvního</form>
-<tag lemma="první" src="orig" selected="1">CrNS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS2----------</tag>
 </m>
 <m id="m-ln94210-11-p8s1w8">
 <src.rf>manual</src.rf>
@@ -2310,7 +2310,7 @@
 <LM>w#w-ln94210-11-p10s1w7</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-ln94210-11-p10s1w8">
 <src.rf>manual</src.rf>
@@ -3151,7 +3151,7 @@
 <LM>w#w-ln94210-11-p11s3Aw14</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-ln94210-11-p11s3Aw15">
 <src.rf>manual</src.rf>

@@ -1328,7 +1328,7 @@
 <LM>w#w-ln95043-115-p6s1w3</LM>
 </w.rf>
 <form>lety</form>
-<tag lemma="rok" src="orig" selected="1">NNNP7-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP7-----A----</tag>
 </m>
 <m id="m-ln95043-115-p6s1w4">
 <src.rf>manual</src.rf>

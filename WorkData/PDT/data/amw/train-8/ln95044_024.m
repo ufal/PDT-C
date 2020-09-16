@@ -191,7 +191,7 @@
 <LM>w#w-ln95044-024-p2s1Bw15</LM>
 </w.rf>
 <form>kádru</form>
-<tag lemma="kádr" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="kádr-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95044-024-p2s1Bw16">
 <src.rf>manual</src.rf>
@@ -367,7 +367,7 @@
 <LM>w#w-ln95044-024-p2s1Bw37</LM>
 </w.rf>
 <form>Toulouse</form>
-<tag lemma="Toulouse_;G" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="Toulouse-1_;G" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln95044-024-p2s1Bw38">
 <src.rf>manual</src.rf>
@@ -399,7 +399,7 @@
 <LM>w#w-ln95044-024-p2s1Bw41</LM>
 </w.rf>
 <form>Leverkusenu</form>
-<tag lemma="Leverkusen_;G" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Leverkusen_;G_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95044-024-p2s1Bw42">
 <src.rf>manual</src.rf>
@@ -545,7 +545,7 @@
 <LM>w#w-ln95044-024-p2s2w17</LM>
 </w.rf>
 <form>generálce</form>
-<tag lemma="generálka_^(zkouška)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="generálka_^(*2)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln95044-024-p2s2w18">
 <src.rf>manual</src.rf>

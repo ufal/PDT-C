@@ -43,7 +43,7 @@
 <LM>w#w-cmpr9416-014-p2s1w4</LM>
 </w.rf>
 <form>my</form>
-<tag lemma="já" src="orig" selected="1">PP-P1--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P1--1-------</tag>
 </m>
 </s>
 <s id="m-cmpr9416-014-p3s1">
@@ -207,7 +207,7 @@
 <LM>w#w-cmpr9416-014-p4s2w7</LM>
 </w.rf>
 <form>letouny</form>
-<tag lemma="letoun" src="orig" selected="1">NNIP7-----A----</tag>
+<tag lemma="letoun-1" src="orig" selected="1">NNIP7-----A----</tag>
 </m>
 <m id="m-cmpr9416-014-p4s2w8">
 <src.rf>manual</src.rf>
@@ -1484,7 +1484,7 @@
 <LM>w#w-cmpr9416-014-p6s5w11</LM>
 </w.rf>
 <form>cesty</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-cmpr9416-014-p6s5w12">
 <src.rf>manual</src.rf>

@@ -667,7 +667,7 @@
 <LM>w#w-mf930702-102-p3s1w11</LM>
 </w.rf>
 <form>Amsterdamu</form>
-<tag lemma="Amsterodam_;G" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Amsterdam_;G_,s_^(^DD**Amsterodam)" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-mf930702-102-p3s1w12">
 <src.rf>manual</src.rf>
@@ -709,7 +709,7 @@
 <LM>w#w-mf930702-102-p3s2w4</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-mf930702-102-p3s2w5">
 <src.rf>manual</src.rf>
@@ -1227,7 +1227,7 @@
 <LM>w#w-mf930702-102-p4s3w14</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-mf930702-102-p4s3w15">
 <src.rf>manual</src.rf>
@@ -1333,7 +1333,7 @@
 <LM>w#w-mf930702-102-p4s4w9</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-mf930702-102-p4s4w10">
 <src.rf>manual</src.rf>

@@ -324,7 +324,7 @@
 <LM>w#w-mf920922-035-p2s4w4</LM>
 </w.rf>
 <form>mluvčího</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920922-035-p2s4w5">
 <src.rf>manual</src.rf>
@@ -820,7 +820,7 @@
 <LM>w#w-mf920922-035-p2s6w12</LM>
 </w.rf>
 <form>prostředky</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-mf920922-035-p2s6w13">
 <src.rf>manual</src.rf>

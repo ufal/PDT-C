@@ -27,7 +27,7 @@
 <LM>w#w-mf920922-106-p1s1w2</LM>
 </w.rf>
 <form>vypadá</form>
-<tag lemma="vypadat" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="vypadat-1_^(ty_vypadáš)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920922-106-p1s1w3">
 <src.rf>manual</src.rf>

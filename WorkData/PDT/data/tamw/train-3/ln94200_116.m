@@ -180,7 +180,7 @@
 <LM>w#w-ln94200-116-p2s1Bw14</LM>
 </w.rf>
 <form>napjatých</form>
-<tag lemma="napjatý_^(*4nout)" src="orig" selected="1">AAIP6----1A----</tag>
+<tag lemma="napjatý" src="orig" selected="1">AAIP6----1A----</tag>
 </m>
 <m id="m-ln94200-116-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -284,7 +284,7 @@
 <LM>w#w-ln94200-116-p2s1Bw27</LM>
 </w.rf>
 <form>Evropě</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94200-116-p2s1Bw28">
 <src.rf>manual</src.rf>
@@ -329,7 +329,7 @@
 <LM>w#w-ln94200-116-p2s2w1</LM>
 </w.rf>
 <form>Mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94200-116-p2s2w2">
 <src.rf>manual</src.rf>
@@ -574,7 +574,7 @@
 <LM>w#w-ln94200-116-p2s2w31</LM>
 </w.rf>
 <form>práva</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNP4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNP4-----A----</tag>
 </m>
 <m id="m-ln94200-116-p2s2w32">
 <src.rf>manual</src.rf>
@@ -792,7 +792,7 @@
 <LM>w#w-ln94200-116-p2s4Aw1</LM>
 </w.rf>
 <form>Řecko</form>
-<tag lemma="řecký" src="orig" selected="1">S2--------A----</tag>
+<tag lemma="řecko" src="orig" selected="1">S2--------A----</tag>
 </m>
 <m id="m-ln94200-116-p2s4Aw2">
 <src.rf>manual</src.rf>
@@ -970,7 +970,7 @@
 <LM>w#w-ln94200-116-p2s5w6</LM>
 </w.rf>
 <form>tajnými</form>
-<tag lemma="tajný" src="orig" selected="1">AAFP7----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AAFP7----1A----</tag>
 </m>
 <m id="m-ln94200-116-p2s5w7">
 <src.rf>manual</src.rf>

@@ -462,7 +462,7 @@
 <LM>w#w-mf930702-091-p3s2w1</LM>
 </w.rf>
 <form>Rada</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930702-091-p3s2w2">
 <src.rf>manual</src.rf>
@@ -807,7 +807,7 @@
 <LM>w#w-mf930702-091-p3s5w2</LM>
 </w.rf>
 <form>vypjatém</form>
-<tag lemma="vypjatý_^(*4nout)" src="auto" selected="1">AAIS6----1A----</tag>
+<tag lemma="vypjatý" src="auto" selected="1">AAIS6----1A----</tag>
 </m>
 <m id="m-mf930702-091-p3s5w3">
 <src.rf>manual</src.rf>
@@ -1002,7 +1002,7 @@
 <LM>w#w-mf930702-091-p3s5w26</LM>
 </w.rf>
 <form>Miroslav</form>
-<tag lemma="Miroslav_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Miroslav-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-091-p3s5w27">
 <src.rf>manual</src.rf>
@@ -1052,7 +1052,7 @@
 <LM>w#w-mf930702-091-p3s6w4</LM>
 </w.rf>
 <form>stanoveném</form>
-<tag lemma="stanovený_^(určit)_(*3it)" src="orig" selected="1">AAIS6----1A----</tag>
+<tag lemma="stanovený_^(*3it)" src="orig" selected="1">AAIS6----1A----</tag>
 </m>
 <m id="m-mf930702-091-p3s6w5">
 <src.rf>manual</src.rf>

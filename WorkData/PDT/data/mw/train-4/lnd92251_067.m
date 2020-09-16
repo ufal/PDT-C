@@ -45,7 +45,7 @@
 <LM>w#w-lnd92251-067-p2s1w1</LM>
 </w.rf>
 <form>Tajné</form>
-<tag lemma="tajný" src="orig" selected="1">AANS1----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AANS1----1A----</tag>
 </m>
 <m id="m-lnd92251-067-p2s1w2">
 <src.rf>manual</src.rf>
@@ -129,7 +129,7 @@
 <LM>w#w-lnd92251-067-p3s2w7</LM>
 </w.rf>
 <form>Výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92251-067-p3s2w8">
 <src.rf>manual</src.rf>
@@ -217,7 +217,7 @@
 <LM>w#w-lnd92251-067-p3s2w18</LM>
 </w.rf>
 <form>cesty</form>
-<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="cesta" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-lnd92251-067-p3s2w19">
 <src.rf>manual</src.rf>
@@ -260,7 +260,7 @@
 <LM>w#w-lnd92251-067-p3s3w2</LM>
 </w.rf>
 <form>Výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92251-067-p3s3w3">
 <src.rf>manual</src.rf>
@@ -484,7 +484,7 @@
 <LM>w#w-lnd92251-067-p3s3w30</LM>
 </w.rf>
 <form>správní</form>
-<tag lemma="správní_^(např._poplatek;_rada;_řád;...)" src="orig" selected="1">AAFP4----1A----</tag>
+<tag lemma="správní_^(správní_rada;_řád)" src="orig" selected="1">AAFP4----1A----</tag>
 </m>
 <m id="m-lnd92251-067-p3s3w31">
 <src.rf>manual</src.rf>
@@ -1121,7 +1121,7 @@
 <LM>w#w-lnd92251-067-p3s8w15</LM>
 </w.rf>
 <form>tajné</form>
-<tag lemma="tajný" src="orig" selected="1">AAFS6----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AAFS6----1A----</tag>
 </m>
 <m id="m-lnd92251-067-p3s8w16">
 <src.rf>manual</src.rf>

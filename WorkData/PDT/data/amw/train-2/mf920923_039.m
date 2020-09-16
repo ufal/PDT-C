@@ -27,7 +27,7 @@
 <LM>w#w-mf920923-039-p1s1w2</LM>
 </w.rf>
 <form>Miroslav</form>
-<tag lemma="Miroslav_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Miroslav-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-039-p1s1w3">
 <src.rf>manual</src.rf>
@@ -148,7 +148,7 @@
 <LM>w#w-mf920923-039-p1s1w16</LM>
 </w.rf>
 <form>výbor</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920923-039-p1s1w17">
 <src.rf>manual</src.rf>
@@ -265,7 +265,7 @@
 <LM>w#w-mf920923-039-p1s2w3</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrIS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS6----------</tag>
 </m>
 <m id="m-mf920923-039-p1s2w4">
 <src.rf>manual</src.rf>

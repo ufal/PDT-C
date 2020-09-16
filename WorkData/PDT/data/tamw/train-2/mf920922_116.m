@@ -307,7 +307,7 @@
 <LM>w#w-mf920922-116-p4s1w11</LM>
 </w.rf>
 <form>léta</form>
-<tag lemma="rok" src="orig" selected="1">NNNP4-----A---2</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP4-----A---2</tag>
 </m>
 <m id="m-mf920922-116-p4s1w12">
 <src.rf>manual</src.rf>
@@ -708,7 +708,7 @@
 <LM>w#w-mf920922-116-p4s4w18</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf920922-116-p4s4w19">
 <src.rf>manual</src.rf>
@@ -1500,7 +1500,7 @@
 <LM>w#w-mf920922-116-p4s9w15</LM>
 </w.rf>
 <form>událostí</form>
-<tag lemma="událost_,a_^(*3ý)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="událost" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-mf920922-116-p4s9w16">
 <src.rf>manual</src.rf>
@@ -1611,7 +1611,7 @@
 <form>NATO</form>
 <tag>
 <AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="NATO_;m_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="NATO-1_;m_^(Northtlantic_Treaty_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-116-p4s10w11">
@@ -1812,7 +1812,7 @@
 <LM>w#w-mf920922-116-p4s11w11</LM>
 </w.rf>
 <form>postižené</form>
-<tag lemma="postižený_^(*4hnout)" src="orig" selected="1">AAFS6----1A----</tag>
+<tag lemma="postižený" src="orig" selected="1">AAFS6----1A----</tag>
 </m>
 <m id="m-mf920922-116-p4s11w12">
 <src.rf>manual</src.rf>
@@ -1844,7 +1844,7 @@
 <LM>w#w-mf920922-116-p4s11w15</LM>
 </w.rf>
 <form>Evropě</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf920922-116-p4s11w16">
 <src.rf>manual</src.rf>
@@ -2352,7 +2352,7 @@
 <LM>w#w-mf920922-116-p4s15w1</LM>
 </w.rf>
 <form>Události</form>
-<tag lemma="událost_,a_^(*3ý)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="událost" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-mf920922-116-p4s15w2">
 <src.rf>manual</src.rf>
@@ -2530,7 +2530,7 @@
 <LM>w#w-mf920922-116-p4s16w11</LM>
 </w.rf>
 <form>lepšímu</form>
-<tag lemma="dobrý" src="orig" selected="1">AANS3----2A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AANS3----2A----</tag>
 </m>
 <m id="m-mf920922-116-p4s16w12">
 <src.rf>manual</src.rf>

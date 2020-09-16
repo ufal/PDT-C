@@ -162,7 +162,7 @@
 <LM>w#w-mf930713-016-p2s1Bw12</LM>
 </w.rf>
 <form>jezdce</form>
-<tag lemma="jezdec" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="jezdec-1" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930713-016-p2s1Bw13">
 <src.rf>manual</src.rf>

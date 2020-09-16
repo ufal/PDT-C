@@ -81,7 +81,7 @@
 <LM>w#w-ln94200-133-p2s1w7</LM>
 </w.rf>
 <form>převzatých</form>
-<tag lemma="převzatý_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="orig" selected="1">AAIP2----1A----</tag>
+<tag lemma="převzatý_^(*3ít)" src="orig" selected="1">AAIP2----1A----</tag>
 </m>
 <m id="m-ln94200-133-p2s1w8">
 <src.rf>manual</src.rf>
@@ -121,7 +121,7 @@
 <LM>w#w-ln94200-133-p2s1w12</LM>
 </w.rf>
 <form>druhým</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS7----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS7----------</tag>
 </m>
 <m id="m-ln94200-133-p2s1w13">
 <src.rf>manual</src.rf>
@@ -333,7 +333,7 @@
 <LM>w#w-ln94200-133-p2s3w6</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS1----------</tag>
 </m>
 <m id="m-ln94200-133-p2s3w7">
 <src.rf>manual</src.rf>
@@ -349,7 +349,7 @@
 <LM>w#w-ln94200-133-p2s3w8</LM>
 </w.rf>
 <form>Marsyas</form>
-<tag lemma="Marsyas_;m" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Marsyas-1_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94200-133-p2s3w9">
 <src.rf>manual</src.rf>

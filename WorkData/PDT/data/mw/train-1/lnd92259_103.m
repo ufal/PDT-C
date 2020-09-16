@@ -47,7 +47,7 @@
 <LM>w#w-lnd92259-103-p3s1w1</LM>
 </w.rf>
 <form>SOFIE</form>
-<tag lemma="Sofie-1_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Sofie_;G_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92259-103-p3s1w2">
 <src.rf>manual</src.rf>
@@ -81,7 +81,7 @@
 <LM>w#w-lnd92259-103-p3s2w3</LM>
 </w.rf>
 <form>letům</form>
-<tag lemma="rok" src="orig" selected="1">NNNP3-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP3-----A----</tag>
 </m>
 <m id="m-lnd92259-103-p3s2w4">
 <src.rf>manual</src.rf>
@@ -89,7 +89,7 @@
 <LM>w#w-lnd92259-103-p3s2w4</LM>
 </w.rf>
 <form>vězení</form>
-<tag lemma="vězení_,a_^(místo_výkonu_trestu)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="vězení_^(místo_výkonu_trestu)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-lnd92259-103-p3s2w5">
 <src.rf>manual</src.rf>
@@ -233,7 +233,7 @@
 <LM>w#w-lnd92259-103-p3s2w22</LM>
 </w.rf>
 <form>Živkovovy</form>
-<tag lemma="Živkovův_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Živkovův_;Y_^(*2)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-lnd92259-103-p3s2w23">
 <src.rf>manual</src.rf>
@@ -427,7 +427,7 @@
 <LM>w#w-lnd92259-103-p3s3w20</LM>
 </w.rf>
 <form>vězení</form>
-<tag lemma="vězení_,a_^(místo_výkonu_trestu)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="vězení_^(místo_výkonu_trestu)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-lnd92259-103-p3s3w21">
 <src.rf>manual</src.rf>
@@ -443,7 +443,7 @@
 <LM>w#w-lnd92259-103-p3s3w22</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd92259-103-p3s3w23">
 <src.rf>manual</src.rf>
@@ -688,7 +688,7 @@
 <LM>w#w-lnd92259-103-p3s5w22</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-lnd92259-103-p3s5w23">
 <src.rf>manual</src.rf>

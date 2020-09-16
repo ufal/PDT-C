@@ -223,7 +223,7 @@
 <LM>w#w-ln94204-116-p2s2w6</LM>
 </w.rf>
 <form>Černá</form>
-<tag lemma="Černá_;Y_^(*1ý)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Černá_;G_;Y_^(*1ý)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94204-116-p2s2w7">
 <src.rf>manual</src.rf>
@@ -287,7 +287,7 @@
 <LM>w#w-ln94204-116-p2s2w14</LM>
 </w.rf>
 <form>Libánská</form>
-<tag lemma="Libánská_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Libánská_;Y_^(*1ý)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94204-116-p2s2w15">
 <src.rf>manual</src.rf>

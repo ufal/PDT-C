@@ -137,7 +137,7 @@
 <LM>w#w-mf920923-044-p2s1w13</LM>
 </w.rf>
 <form>dlouhém</form>
-<tag lemma="dlouhý-1_^(fyz._délka;_př._dlouhá_tyč)" src="orig" selected="1">AAIS6----1A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAIS6----1A----</tag>
 </m>
 <m id="m-mf920923-044-p2s1w14">
 <src.rf>manual</src.rf>
@@ -539,7 +539,7 @@
 <LM>w#w-mf920923-044-p2s3w13</LM>
 </w.rf>
 <form>Pražačce</form>
-<tag lemma="Pražačka_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Pražačka_;E_;G" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf920923-044-p2s3w14">
 <src.rf>manual</src.rf>

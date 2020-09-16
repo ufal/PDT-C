@@ -1961,7 +1961,7 @@
 <LM>w#w-lnd92255-109-p5s2w14</LM>
 </w.rf>
 <form>dny</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-lnd92255-109-p5s2w15">
 <src.rf>manual</src.rf>

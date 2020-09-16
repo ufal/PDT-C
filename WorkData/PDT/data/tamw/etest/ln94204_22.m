@@ -887,7 +887,7 @@
 <LM>w#w-ln94204-22-p4s1w3</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-ln94204-22-p4s1w4">
 <src.rf>manual</src.rf>
@@ -1284,7 +1284,7 @@
 <LM>w#w-ln94204-22-p4s4w3</LM>
 </w.rf>
 <form>Evropě</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94204-22-p4s4w4">
 <src.rf>manual</src.rf>
@@ -1446,7 +1446,7 @@
 <LM>w#w-ln94204-22-p5s1w12</LM>
 </w.rf>
 <form>etylen</form>
-<tag lemma="etylen_;U" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="etylen" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln94204-22-p5s1w13">
 <src.rf>manual</src.rf>
@@ -1735,7 +1735,7 @@
 <LM>w#w-ln94204-22-p5s3w5</LM>
 </w.rf>
 <form>Evropě</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94204-22-p5s3w6">
 <src.rf>manual</src.rf>

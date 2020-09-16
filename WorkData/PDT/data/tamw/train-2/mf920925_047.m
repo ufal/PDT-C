@@ -19,7 +19,7 @@
 <LM>w#w-mf920925-047-p1s1w1</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrIS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS1----------</tag>
 </m>
 <m id="m-mf920925-047-p1s1w2">
 <src.rf>manual</src.rf>
@@ -35,7 +35,7 @@
 <LM>w#w-mf920925-047-p1s1w3</LM>
 </w.rf>
 <form>Krče</form>
-<tag lemma="Krč_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Krč-2_;G" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 </s>
 <s id="m-mf920925-047-p2s1">
@@ -79,7 +79,7 @@
 <LM>w#w-mf920925-047-p2s2Aw3</LM>
 </w.rf>
 <form>našeho</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSZS2-P1-------</tag>
 </m>
 <m id="m-mf920925-047-p2s2Aw4">
 <src.rf>manual</src.rf>
@@ -129,7 +129,7 @@
 <LM>w#w-mf920925-047-p2s2Bw4</LM>
 </w.rf>
 <form>Krč</form>
-<tag lemma="Krč_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Krč-2_;G" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920925-047-p2s2Bw5">
 <src.rf>manual</src.rf>
@@ -153,7 +153,7 @@
 <LM>w#w-mf920925-047-p2s2Bw7</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrIS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS4----------</tag>
 </m>
 <m id="m-mf920925-047-p2s2Bw8">
 <src.rf>manual</src.rf>
@@ -329,7 +329,7 @@
 <LM>w#w-mf920925-047-p2s3w4</LM>
 </w.rf>
 <form>Krč</form>
-<tag lemma="Krč_;G" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Krč-2_;G" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf920925-047-p2s3w5">
 <src.rf>manual</src.rf>

@@ -116,7 +116,7 @@
 <LM>w#w-lnd92254-026-p3s2w1</LM>
 </w.rf>
 <form>Představení</form>
-<tag lemma="představení-2_^(divadelní,_filmové_apod.)" src="orig" selected="1">NNNP1-----A----</tag>
+<tag lemma="představení-1_^(*5it-1)" src="orig" selected="1">NNNP1-----A----</tag>
 </m>
 <m id="m-lnd92254-026-p3s2w2">
 <src.rf>manual</src.rf>
@@ -351,7 +351,7 @@
 <LM>w#w-lnd92254-026-p3s3w13</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-lnd92254-026-p3s3w14">
 <src.rf>manual</src.rf>
@@ -790,7 +790,7 @@
 <LM>w#w-lnd92254-026-p3s5w5</LM>
 </w.rf>
 <form>Čapkových</form>
-<tag lemma="Čapkův_;Y_^(*3ek)" src="orig" selected="1">AUIP2M---------</tag>
+<tag lemma="Čapkův_;Y_^(*2a)_(*3ek)" src="orig" selected="1">AUIP2M---------</tag>
 </m>
 <m id="m-lnd92254-026-p3s5w6">
 <src.rf>manual</src.rf>

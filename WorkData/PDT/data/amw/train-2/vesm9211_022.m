@@ -277,7 +277,7 @@
 <LM>w#w-vesm9211-022-p6s2w2</LM>
 </w.rf>
 <form>tajným</form>
-<tag lemma="tajný" src="orig" selected="1">AAIS7----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AAIS7----1A----</tag>
 </m>
 <m id="m-vesm9211-022-p6s2w3">
 <src.rf>manual</src.rf>

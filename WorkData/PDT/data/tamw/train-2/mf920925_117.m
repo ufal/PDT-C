@@ -63,7 +63,7 @@
 <LM>w#w-mf920925-117-p3s1w3</LM>
 </w.rf>
 <form>Rady</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920925-117-p3s1w4">
 <src.rf>manual</src.rf>
@@ -1351,7 +1351,7 @@
 <tag>
 <AM lemma="Želiv_;G" src="orig">NNIS6-----A----</AM>
 <AM lemma="Želiv_;G" src="auto">NNIS3-----A----</AM>
-<AM lemma="Želiv_;G" src="auto" recommended="1" selected="1">NNIS6-----A---1</AM>
+<AM lemma="Želiv-1_;G" src="auto" recommended="1" selected="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-mf920925-117-p9s1w39">
@@ -1701,7 +1701,7 @@
 <LM>w#w-mf920925-117-p11s1w34</LM>
 </w.rf>
 <form>tajných</form>
-<tag lemma="tajný" src="orig" selected="1">AAFP2----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AAFP2----1A----</tag>
 </m>
 <m id="m-mf920925-117-p11s1w35">
 <src.rf>manual</src.rf>

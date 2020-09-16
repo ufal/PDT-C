@@ -416,7 +416,7 @@
 <LM>w#w-mf920902-107-p2s3w18</LM>
 </w.rf>
 <form>hnutí</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-mf920902-107-p2s3w19">
 <src.rf>manual</src.rf>
@@ -496,7 +496,7 @@
 <LM>w#w-mf920902-107-p2s3w28</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf920902-107-p2s3w29">
 <src.rf>manual</src.rf>
@@ -851,7 +851,7 @@
 <LM>w#w-mf920902-107-p2s4Bw3</LM>
 </w.rf>
 <form>vystavení</form>
-<tag lemma="vystavení_^(např._potvrzení)_(*3it)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="vystavení_^(*3it)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-mf920902-107-p2s4Bw4">
 <src.rf>manual</src.rf>

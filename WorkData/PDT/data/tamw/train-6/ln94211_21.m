@@ -257,7 +257,7 @@
 <LM>w#w-ln94211-21-p2s2w10</LM>
 </w.rf>
 <form>potřebě</form>
-<tag lemma="potřeba" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="potřeba-1" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94211-21-p2s2w11">
 <src.rf>manual</src.rf>
@@ -568,7 +568,7 @@
 <LM>w#w-ln94211-21-p2s4w5</LM>
 </w.rf>
 <form>právo</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln94211-21-p2s4w6">
 <src.rf>manual</src.rf>

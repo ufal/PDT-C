@@ -147,7 +147,7 @@
 <LM>w#w-lnd91303-097-p2s1w13</LM>
 </w.rf>
 <form>nejlepšího</form>
-<tag lemma="dobrý" src="orig" selected="1">AAMS4----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAMS4----3A----</tag>
 </m>
 <m id="m-lnd91303-097-p2s1w14">
 <src.rf>manual</src.rf>

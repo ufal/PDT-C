@@ -281,7 +281,7 @@
 <tag>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP3FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSZS6FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">P9ZS7FS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9ZS7FS3-------</AM>
 </tag>
 </m>
 <m id="m-wsj0744-001-p1s0W19-Ta">
@@ -316,7 +316,7 @@
 <tag>
 <AM lemma="činitel" src="auto">NNIP3-----A----</AM>
 <AM lemma="činitel" src="auto" recommended="1">NNMP3-----A----</AM>
-<AM lemma="činitel-2" src="manual" selected="1">NNMP3-----A----</AM>
+<AM lemma="činitel-1" src="manual" selected="1">NNMP3-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0744-001-p1s0W21-Ta">
@@ -1096,7 +1096,7 @@
 <AM lemma="první" src="auto">CrFP4----------</AM>
 <AM lemma="první" src="auto">CrFP5----------</AM>
 <AM lemma="první" src="auto">CrFS1----------</AM>
-<AM lemma="první" src="auto" recommended="1">CrFS2----------</AM>
+<AM lemma="první-1" src="auto" recommended="1">CrFS2----------</AM>
 <AM lemma="první" src="auto">CrFS3----------</AM>
 <AM lemma="první" src="auto">CrFS4----------</AM>
 <AM lemma="první" src="auto">CrFS5----------</AM>
@@ -2288,7 +2288,7 @@
 <tag>
 <AM lemma="činitel" src="auto">NNIP2-----A----</AM>
 <AM lemma="činitel" src="auto" recommended="1">NNMP2-----A----</AM>
-<AM lemma="činitel-2" src="manual" selected="1">NNMP2-----A----</AM>
+<AM lemma="činitel-1" src="manual" selected="1">NNMP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0744-001-p1s6W6-Ta">
@@ -2374,7 +2374,7 @@
 <tag>
 <AM lemma="činitel" src="auto">NNIP3-----A----</AM>
 <AM lemma="činitel" src="auto" recommended="1">NNMP3-----A----</AM>
-<AM lemma="činitel-2" src="manual" selected="1">NNMP3-----A----</AM>
+<AM lemma="činitel-1" src="manual" selected="1">NNMP3-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0744-001-p1s7W3-Ta">
@@ -2457,7 +2457,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0744-001-p1s7W10-Ta">
@@ -2474,7 +2474,7 @@
 <AM lemma="vězení_^(místo_výkonu_trestu)_(*3it)" src="auto">NNNP4-----A----</AM>
 <AM lemma="vězení_^(místo_výkonu_trestu)_(*3it)" src="auto">NNNP5-----A----</AM>
 <AM lemma="vězení_^(místo_výkonu_trestu)_(*3it)" src="auto">NNNS1-----A----</AM>
-<AM lemma="vězení_^(místo_výkonu_trestu)_(*3it)" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="vězení_^(místo_výkonu_trestu)" src="auto" recommended="1">NNNS2-----A----</AM>
 <AM lemma="vězení_^(místo_výkonu_trestu)_(*3it)" src="auto">NNNS3-----A----</AM>
 <AM lemma="vězení_^(místo_výkonu_trestu)_(*3it)" src="auto">NNNS4-----A----</AM>
 <AM lemma="vězení_^(místo_výkonu_trestu)_(*3it)" src="auto">NNNS5-----A----</AM>

@@ -59,7 +59,7 @@
 <LM>w#w-mf930708-007-p1s1w6</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-mf930708-007-p1s1w7">
 <src.rf>manual</src.rf>
@@ -83,7 +83,7 @@
 <LM>w#w-mf930708-007-p1s1w9</LM>
 </w.rf>
 <form>Sudet</form>
-<tag lemma="Sudety_;G" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="Sudety-1_;G" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 </s>
 <s id="m-mf930708-007-p2s1">
@@ -428,7 +428,7 @@
 <LM>w#w-mf930708-007-p2s3w7</LM>
 </w.rf>
 <form>Sudety</form>
-<tag lemma="Sudety_;G" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="Sudety-1_;G" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-mf930708-007-p2s3w8">
 <src.rf>manual</src.rf>
@@ -606,7 +606,7 @@
 <LM>w#w-mf930708-007-p2s4w3</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930708-007-p2s4w4">
 <src.rf>manual</src.rf>
@@ -614,7 +614,7 @@
 <LM>w#w-mf930708-007-p2s4w4</LM>
 </w.rf>
 <form>Sudety</form>
-<tag lemma="Sudety_;G" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="Sudety-1_;G" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-mf930708-007-p2s4w5">
 <src.rf>manual</src.rf>
@@ -808,7 +808,7 @@
 <LM>w#w-mf930708-007-p3s1w4</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf930708-007-p3s1w5">
 <src.rf>manual</src.rf>
@@ -896,7 +896,7 @@
 <LM>w#w-mf930708-007-p3s1w15</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930708-007-p3s1w16">
 <src.rf>manual</src.rf>
@@ -904,7 +904,7 @@
 <LM>w#w-mf930708-007-p3s1w16</LM>
 </w.rf>
 <form>Sudety</form>
-<tag lemma="Sudety_;G" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="Sudety-1_;G" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-mf930708-007-p3s1w17">
 <src.rf>manual</src.rf>
@@ -970,7 +970,7 @@
 <LM>w#w-mf930708-007-p3s2w7</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-mf930708-007-p3s2w8">
 <src.rf>manual</src.rf>

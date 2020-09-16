@@ -513,7 +513,7 @@
 <tag>
 <AM lemma="Stamford_;G" src="auto">NNIS2-----A----</AM>
 <AM lemma="Stamford_;G" src="auto">NNIS3-----A----</AM>
-<AM lemma="Stamford_;G" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="Stamford_;G_;m" src="auto" recommended="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0160-001-p1s1W8-Ta">

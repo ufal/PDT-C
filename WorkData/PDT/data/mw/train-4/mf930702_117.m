@@ -102,7 +102,7 @@
 <LM>w#w-mf930702-117-p2s1w6</LM>
 </w.rf>
 <form>York</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="York-2_;G_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930702-117-p2s1w7">
 <src.rf>manual</src.rf>
@@ -134,7 +134,7 @@
 <LM>w#w-mf930702-117-p2s1w10</LM>
 </w.rf>
 <form>Joela</form>
-<tag lemma="Joel_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Joel-1_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930702-117-p2s1w11">
 <src.rf>manual</src.rf>
@@ -222,7 +222,7 @@
 <LM>w#w-mf930702-117-p2s1w21</LM>
 </w.rf>
 <form>klenotů</form>
-<tag lemma="klenot" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="klenot-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-mf930702-117-p2s1w22">
 <src.rf>manual</src.rf>
@@ -410,7 +410,7 @@
 <LM>w#w-mf930702-117-p3s1w7</LM>
 </w.rf>
 <form>Joel</form>
-<tag lemma="Joel_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Joel-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-117-p3s1w8">
 <src.rf>manual</src.rf>
@@ -645,7 +645,7 @@
 <form>upu</form>
 <tag>
 <AM lemma="up_,t_^(pick-up)" src="orig">NNIS6-----A----</AM>
-<AM lemma="up_^(pick-up)" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="up-1_^(make_up;pick_up)" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-117-p4s1w20">
@@ -1237,7 +1237,7 @@
 <LM>w#w-mf930702-117-p5s3w16</LM>
 </w.rf>
 <form>Yorku</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="York-2_;G_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930702-117-p5s3w17">
 <src.rf>manual</src.rf>
@@ -1285,7 +1285,7 @@
 <LM>w#w-mf930702-117-p5s3w22</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS7---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS7---------1</tag>
 </m>
 <m id="m-mf930702-117-p5s3w23">
 <src.rf>manual</src.rf>
@@ -1540,7 +1540,7 @@
 <LM>w#w-mf930702-117-p6s1w10</LM>
 </w.rf>
 <form>Yorku</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="York-2_;G_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-mf930702-117-p6s1w11">
 <src.rf>manual</src.rf>
@@ -1822,7 +1822,7 @@
 <LM>w#w-mf930702-117-p6s3w8</LM>
 </w.rf>
 <form>vyvádí</form>
-<tag lemma="vyvádět-1_^(vězně,koně)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="vyvádět" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930702-117-p6s3w9">
 <src.rf>manual</src.rf>

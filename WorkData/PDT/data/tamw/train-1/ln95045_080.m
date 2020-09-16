@@ -117,7 +117,7 @@
 <LM>w#w-ln95045-080-p2s1Cw2</LM>
 </w.rf>
 <form>obsažené</form>
-<tag lemma="obsažený_^(*5áhnout)" src="orig" selected="1">AAFP1----1A----</tag>
+<tag lemma="obsažený" src="orig" selected="1">AAFP1----1A----</tag>
 </m>
 <m id="m-ln95045-080-p2s1Cw3">
 <src.rf>manual</src.rf>
@@ -213,7 +213,7 @@
 <LM>w#w-ln95045-080-p2s1Cw14</LM>
 </w.rf>
 <form>Straně</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-ln95045-080-p2s1Cw15">
 <src.rf>manual</src.rf>
@@ -370,7 +370,7 @@
 <LM>w#w-ln95045-080-p2s2w6</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95045-080-p2s2w7">
 <src.rf>manual</src.rf>
@@ -527,7 +527,7 @@
 <LM>w#w-ln95045-080-p3s1w12</LM>
 </w.rf>
 <form>ústavnosti</form>
-<tag lemma="ústavnost_,a_^(adjektivum_k_ústava;;ustavičný)_(*3ý)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="ústavnost" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95045-080-p3s1w13">
 <src.rf>manual</src.rf>

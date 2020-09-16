@@ -116,7 +116,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Evropě</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 </s>
 <s id="m-ln94200-129-p1s1B">

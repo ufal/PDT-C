@@ -805,7 +805,7 @@
 <AM lemma="převzetí_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="auto">NNNP4-----A----</AM>
 <AM lemma="převzetí_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="auto">NNNP5-----A----</AM>
 <AM lemma="převzetí_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="auto">NNNS1-----A----</AM>
-<AM lemma="převzetí_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="převzetí_^(*3ít)" src="auto" recommended="1">NNNS2-----A----</AM>
 <AM lemma="převzetí_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="auto">NNNS3-----A----</AM>
 <AM lemma="převzetí_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="auto">NNNS4-----A----</AM>
 <AM lemma="převzetí_^(př._od_někoho_věc,_zodpovědnost...)_(*3ít)" src="auto">NNNS5-----A----</AM>
@@ -854,7 +854,7 @@
 <AM lemma="Sharon_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Sharon_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Sharon_;Y_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Sharon-1_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Sharon-2_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0930-001-p1s1W26-Ta">
@@ -1085,7 +1085,7 @@
 <AM lemma="Sharon_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Sharon_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Sharon_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Sharon-1_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Sharon-2_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0930-001-p1s2W19-Ta">
@@ -1621,7 +1621,7 @@
 <form>podáním</form>
 <tag>
 <AM lemma="podání_^(něco_[někomu]_[někam])_(*3at)" src="auto">NNNP3-----A----</AM>
-<AM lemma="podání_^(něco_[někomu]_[někam])_(*3at)" src="auto" recommended="1">NNNS7-----A----</AM>
+<AM lemma="podání_^(*3at)" src="auto" recommended="1">NNNS7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0930-001-p1s4W12-Ta">
@@ -1672,7 +1672,7 @@
 <AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AAMS2----1A----</AM>
 <AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AAMS4----1A----</AM>
 <AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AANS2----1A----</AM>
-<AM lemma="konkurzní_^(týkající_se_úpadku,_soutěže)" src="manual" selected="1">AAIS2----1A----</AM>
+<AM lemma="konkurzní" src="manual" selected="1">AAIS2----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0930-001-p1s4W16-Ta">
@@ -2118,7 +2118,7 @@
 <AM lemma="Sharon_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Sharon_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Sharon_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Sharon-1_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Sharon-2_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0930-001-p1s6W21-Ta">
@@ -2245,7 +2245,7 @@
 <AM lemma="Sharon_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Sharon_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Sharon_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Sharon-1_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Sharon-2_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0930-001-p1s6W32-Ta">
@@ -2331,7 +2331,7 @@
 <AM lemma="Sharon_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Sharon_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Sharon_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Sharon-1_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Sharon-2_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0930-001-p1s7W3-Ta">
@@ -2825,7 +2825,7 @@
 <AM lemma="Sharon_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Sharon_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Sharon_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Sharon-1_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Sharon-2_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0930-001-p1s9W11-Ta">
@@ -3122,7 +3122,7 @@
 <AM lemma="York-2_;G" src="auto">NNIS2-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS5-----A----</AM>
-<AM lemma="York-2_;G" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="York-2_;G_;m" src="auto" recommended="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0930-001-p1s11W8-Ta">
@@ -3448,7 +3448,7 @@
 <AM lemma="Sharon_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Sharon_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Sharon_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Sharon-1_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Sharon-2_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0930-001-p1s12W9-Ta">
@@ -3659,7 +3659,7 @@
 <AM lemma="Sharon_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Sharon_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Sharon_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Sharon-1_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Sharon-2_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0930-001-p1s13W14-Ta">
@@ -3875,7 +3875,7 @@
 <AM lemma="Sharon_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Sharon_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Sharon_;Y_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="Sharon-1_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Sharon-2_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0930-001-p1s14W5-Ta">
@@ -4003,7 +4003,7 @@
 <tag>
 <AM lemma="Agnew_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Agnew_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Agnew_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Agnew-2_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0930-001-p1s15W8-Ta">

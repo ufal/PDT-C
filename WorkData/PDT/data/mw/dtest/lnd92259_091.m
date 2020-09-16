@@ -103,7 +103,7 @@
 <LM>w#w-lnd92259-091-p2s2w3</LM>
 </w.rf>
 <form>výbor</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92259-091-p2s2w4">
 <src.rf>manual</src.rf>
@@ -143,7 +143,7 @@
 <LM>w#w-lnd92259-091-p2s2w8</LM>
 </w.rf>
 <form>gigantismu</form>
-<tag lemma="gigantismus" src="orig" selected="1">NNIS3-----A----</tag>
+<tag lemma="gigantismus_,s_^(^DD**gigantizmus)" src="orig" selected="1">NNIS3-----A----</tag>
 </m>
 <m id="m-lnd92259-091-p2s2w9">
 <src.rf>manual</src.rf>
@@ -667,7 +667,7 @@
 <LM>w#w-lnd92259-091-p2s6w6</LM>
 </w.rf>
 <form>výborů</form>
-<tag lemma="výbor" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-lnd92259-091-p2s6w7">
 <src.rf>manual</src.rf>

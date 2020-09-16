@@ -441,7 +441,7 @@
 <LM>w#w-ln95041-100-p2s3w4</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrMP1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrMP1----------</tag>
 </m>
 <m id="m-ln95041-100-p2s3w5">
 <src.rf>manual</src.rf>

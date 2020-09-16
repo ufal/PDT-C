@@ -160,7 +160,7 @@
 <LM>w#w-mf930703-067-p2s1w8</LM>
 </w.rf>
 <form>zpřísněných</form>
-<tag lemma="zpřísněný_^(*3it)" src="orig" selected="1">AAFP2----1A----</tag>
+<tag lemma="zpřísněný_^(*2t)_(*3it)" src="orig" selected="1">AAFP2----1A----</tag>
 </m>
 <m id="m-mf930703-067-p2s1w9">
 <src.rf>manual</src.rf>
@@ -232,7 +232,7 @@
 <LM>w#w-mf930703-067-p2s1w17</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930703-067-p2s1w18">
 <src.rf>manual</src.rf>
@@ -1103,7 +1103,7 @@
 <LM>w#w-mf930703-067-p2s5w4</LM>
 </w.rf>
 <form>členem</form>
-<tag lemma="člen" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf930703-067-p2s5w5">
 <src.rf>manual</src.rf>

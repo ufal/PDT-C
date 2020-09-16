@@ -27,7 +27,7 @@
 <LM>w#w-lnd94101-058-p1s1w2</LM>
 </w.rf>
 <form>veteráni</form>
-<tag lemma="veterán" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="veterán-1" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd94101-058-p1s1w3">
 <src.rf>manual</src.rf>
@@ -43,7 +43,7 @@
 <LM>w#w-lnd94101-058-p1s1w4</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8MS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8MS4----------</tag>
 </m>
 <m id="m-lnd94101-058-p1s1w5">
 <src.rf>manual</src.rf>
@@ -123,7 +123,7 @@
 <LM>w#w-lnd94101-058-p1s1w14</LM>
 </w.rf>
 <form>dalo</form>
-<tag lemma="dát" src="orig" selected="1">VpNS----R-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-lnd94101-058-p1s1w15">
 <src.rf>manual</src.rf>
@@ -149,7 +149,7 @@
 <form>kurs</form>
 <tag>
 <AM lemma="kurs" src="auto">NNIS4-----A----</AM>
-<AM lemma="kurz" src="manual" selected="1">NNIS4-----A----</AM>
+<AM lemma="kurs_,s_^(^DD**kurz)" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-058-p1s1w18">
@@ -182,7 +182,7 @@
 <LM>w#w-lnd94101-058-p1s1w21</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-lnd94101-058-p1s1w22">
 <src.rf>manual</src.rf>

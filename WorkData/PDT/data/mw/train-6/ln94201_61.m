@@ -35,7 +35,7 @@
 <LM>w#w-ln94201-61-p1s1w3</LM>
 </w.rf>
 <form>kamiony</form>
-<tag lemma="kamión" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="kamion_,s_^(^DD**kamión)" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-ln94201-61-p1s1w4">
 <src.rf>manual</src.rf>
@@ -224,7 +224,7 @@
 <LM>w#w-ln94201-61-p2s1w21</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln94201-61-p2s1w22">
 <src.rf>manual</src.rf>
@@ -551,7 +551,7 @@
 <LM>w#w-ln94201-61-p2s3w14</LM>
 </w.rf>
 <form>kamiony</form>
-<tag lemma="kamión" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="kamion_,s_^(^DD**kamión)" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-ln94201-61-p2s3w15">
 <src.rf>manual</src.rf>
@@ -1395,7 +1395,7 @@
 <LM>w#w-ln94201-61-p3s2w32</LM>
 </w.rf>
 <form>Druhá</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS1----------</tag>
 </m>
 <m id="m-ln94201-61-p3s2w33">
 <src.rf>manual</src.rf>

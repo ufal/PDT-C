@@ -187,7 +187,7 @@
 <LM>w#w-mf930703-028-p2s1w15</LM>
 </w.rf>
 <form>radu</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf930703-028-p2s1w16">
 <src.rf>manual</src.rf>
@@ -495,7 +495,7 @@
 <form>causy</form>
 <tag>
 <AM lemma="kauza_,x" src="orig">NNFS2-----A----</AM>
-<AM lemma="causa_,i_^(^DS**kauza)" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="causa_,s_^(^DD**kauza)" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-028-p2s2w19">
@@ -1404,7 +1404,7 @@
 <LM>w#w-mf930703-028-p4s5w5</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930703-028-p4s5w6">
 <src.rf>manual</src.rf>
@@ -1420,7 +1420,7 @@
 <LM>w#w-mf930703-028-p4s5w7</LM>
 </w.rf>
 <form>rady</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930703-028-p4s5w8">
 <src.rf>manual</src.rf>
@@ -1691,7 +1691,7 @@
 <LM>w#w-mf930703-028-p5s2w8</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P4--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P4--1-------</tag>
 </m>
 <m id="m-mf930703-028-p5s2w9">
 <src.rf>manual</src.rf>
@@ -2065,7 +2065,7 @@
 <LM>w#w-mf930703-028-p6s2w11</LM>
 </w.rf>
 <form>prostředky</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-mf930703-028-p6s2w12">
 <src.rf>manual</src.rf>
@@ -2219,7 +2219,7 @@
 <LM>w#w-mf930703-028-p6s3w4</LM>
 </w.rf>
 <form>Valík</form>
-<tag lemma="Valík_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Valík-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930703-028-p6s3w5">
 <src.rf>manual</src.rf>
@@ -2302,7 +2302,7 @@
 <LM>w#w-mf930703-028-p6s3w14</LM>
 </w.rf>
 <form>rady</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930703-028-p6s3w15">
 <src.rf>manual</src.rf>

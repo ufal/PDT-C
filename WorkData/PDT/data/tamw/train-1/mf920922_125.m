@@ -294,7 +294,7 @@
 <LM>w#w-mf920922-125-p1s4w12</LM>
 </w.rf>
 <form>Yorku</form>
-<tag lemma="York-2_;G" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="York-2_;G_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-mf920922-125-p1s4w13">
 <src.rf>manual</src.rf>
@@ -571,7 +571,7 @@
 <LM>w#w-mf920922-125-p2s3w6</LM>
 </w.rf>
 <form>mluvčí</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="mluvčí-2" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920922-125-p2s3w7">
 <src.rf>manual</src.rf>

@@ -298,7 +298,7 @@
 <LM>w#w-mf930708-080-p2s2w2</LM>
 </w.rf>
 <form>Naše</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSHS1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSHS1-P1-------</tag>
 </m>
 <m id="m-mf930708-080-p2s2w3">
 <src.rf>manual</src.rf>
@@ -588,7 +588,7 @@
 <LM>w#w-mf930708-080-p2s3w11</LM>
 </w.rf>
 <form>Zelené</form>
-<tag lemma="zelený" src="orig" selected="1">AAFS6----1A----</tag>
+<tag lemma="zelený_;o" src="orig" selected="1">AAFS6----1A----</tag>
 </m>
 <m id="m-mf930708-080-p2s3w12">
 <src.rf>manual</src.rf>
@@ -870,7 +870,7 @@
 <LM>w#w-mf930708-080-p2s6w3</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-mf930708-080-p2s6w4">
 <src.rf>manual</src.rf>
@@ -1048,7 +1048,7 @@
 <LM>w#w-mf930708-080-p2s7w18</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-mf930708-080-p2s7w19">
 <src.rf>manual</src.rf>
@@ -1325,7 +1325,7 @@
 <LM>w#w-mf930708-080-p3s1w20</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-mf930708-080-p3s1w21">
 <src.rf>manual</src.rf>
@@ -1593,7 +1593,7 @@
 <LM>w#w-mf930708-080-p3s3w8</LM>
 </w.rf>
 <form>druhém</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS6----------</tag>
 </m>
 <m id="m-mf930708-080-p3s3w9">
 <src.rf>manual</src.rf>
@@ -1965,7 +1965,7 @@
 <LM>w#w-mf930708-080-p4s2w1</LM>
 </w.rf>
 <form>Děti</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-mf930708-080-p4s2w2">
 <src.rf>manual</src.rf>
@@ -2263,7 +2263,7 @@
 <LM>w#w-mf930708-080-p5s1w8</LM>
 </w.rf>
 <form>dá</form>
-<tag lemma="dát" src="orig" selected="1">VB-S---3P-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-mf930708-080-p5s1w9">
 <src.rf>manual</src.rf>
@@ -2561,7 +2561,7 @@
 <LM>w#w-mf930708-080-p5s2w24</LM>
 </w.rf>
 <form>faktorech</form>
-<tag lemma="faktor" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="faktor-1" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-mf930708-080-p5s2w25">
 <src.rf>manual</src.rf>

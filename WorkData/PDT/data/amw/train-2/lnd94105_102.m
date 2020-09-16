@@ -19,7 +19,7 @@
 <LM>w#w-lnd94105-102-p1s1w1</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrNS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS4----------</tag>
 </m>
 <m id="m-lnd94105-102-p1s1w2">
 <src.rf>manual</src.rf>
@@ -35,7 +35,7 @@
 <LM>w#w-lnd94105-102-p1s1w3</LM>
 </w.rf>
 <form>Turkovi</form>
-<tag lemma="Turek_;E" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Turek_;E_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 </s>
 <s id="m-lnd94105-102-p1s2">
@@ -63,7 +63,7 @@
 <LM>w#w-lnd94105-102-p1s3w1</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrFS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS4----------</tag>
 </m>
 <m id="m-lnd94105-102-p1s3w2">
 <src.rf>manual</src.rf>
@@ -71,7 +71,7 @@
 <LM>w#w-lnd94105-102-p1s3w2</LM>
 </w.rf>
 <form>zlatou</form>
-<tag lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAFS4----1A----</tag>
+<tag lemma="zlatý-1_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-lnd94105-102-p1s3w3">
 <src.rf>manual</src.rf>
@@ -119,7 +119,7 @@
 <LM>w#w-lnd94105-102-p1s3w8</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94105-102-p1s3w9">
 <src.rf>manual</src.rf>
@@ -297,7 +297,7 @@
 <LM>w#w-lnd94105-102-p1s5w1</LM>
 </w.rf>
 <form>Druhý</form>
-<tag lemma="druhý" src="orig" selected="1">CrMS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrMS1----------</tag>
 </m>
 <m id="m-lnd94105-102-p1s5w2">
 <src.rf>manual</src.rf>

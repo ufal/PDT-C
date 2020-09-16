@@ -59,7 +59,7 @@
 <LM>w#w-lnd92255-023-p1s1w6</LM>
 </w.rf>
 <form>POSTIŽENÉ</form>
-<tag lemma="postižený_^(*4hnout)" src="orig" selected="1">AAMP4----1A----</tag>
+<tag lemma="postižený" src="orig" selected="1">AAMP4----1A----</tag>
 </m>
 </s>
 <s id="m-lnd92255-023-p2s1">
@@ -356,7 +356,7 @@
 <LM>w#w-lnd92255-023-p3s2w12</LM>
 </w.rf>
 <form>druhého</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS2----------</tag>
 </m>
 <m id="m-lnd92255-023-p3s2w13">
 <src.rf>manual</src.rf>
@@ -592,7 +592,7 @@
 <LM>w#w-lnd92255-023-p3s4w16</LM>
 </w.rf>
 <form>nevidomé</form>
-<tag lemma="nevidomý" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="nevidomý-2" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-lnd92255-023-p3s4w17">
 <src.rf>manual</src.rf>
@@ -850,7 +850,7 @@
 <LM>w#w-lnd92255-023-p4s1w29</LM>
 </w.rf>
 <form>handicapovaným</form>
-<tag lemma="handicapovaný_^(*2t)" src="orig" selected="1">AAMP3----1A----</tag>
+<tag lemma="handicapovaný_^(^DD**hendikepovaný)_(*2t)" src="orig" selected="1">AAMP3----1A----</tag>
 </m>
 <m id="m-lnd92255-023-p4s1w30">
 <src.rf>manual</src.rf>
@@ -940,7 +940,7 @@
 <LM>w#w-lnd92255-023-p5s1w6</LM>
 </w.rf>
 <form>nevidomých</form>
-<tag lemma="nevidomý" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="nevidomý-2" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd92255-023-p5s1w7">
 <src.rf>manual</src.rf>
@@ -1030,7 +1030,7 @@
 <LM>w#w-lnd92255-023-p5s2w1</LM>
 </w.rf>
 <form>Prostředky</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-lnd92255-023-p5s2w2">
 <src.rf>manual</src.rf>
@@ -1427,7 +1427,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-2" src="auto">Db-------------</AM>
-<AM lemma="třeba-3" src="manual" selected="1">TT-------------</AM>
+<AM lemma="třeba-2_^(například)" src="manual" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-023-p6s1w13">
@@ -1535,7 +1535,7 @@
 <LM>w#w-lnd92255-023-p6s1w25</LM>
 </w.rf>
 <form>Dryden</form>
-<tag lemma="Dryden_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dryden-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-023-p6s1w26">
 <src.rf>manual</src.rf>
@@ -1583,7 +1583,7 @@
 <LM>w#w-lnd92255-023-p6s1w31</LM>
 </w.rf>
 <form>nevidomé</form>
-<tag lemma="nevidomý" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="nevidomý-2" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-lnd92255-023-p6s1w32">
 <src.rf>manual</src.rf>
@@ -1743,7 +1743,7 @@
 <LM>w#w-lnd92255-023-p6s1w51</LM>
 </w.rf>
 <form>postižených</form>
-<tag lemma="postižený_^(*4hnout)" src="orig" selected="1">AAMP2----1A----</tag>
+<tag lemma="postižený" src="orig" selected="1">AAMP2----1A----</tag>
 </m>
 <m id="m-lnd92255-023-p6s1w52">
 <src.rf>manual</src.rf>
@@ -1979,7 +1979,7 @@
 <LM>w#w-lnd92255-023-p6s3w5</LM>
 </w.rf>
 <form>postižení</form>
-<tag lemma="postižený_^(*4hnout)" src="orig" selected="1">AAMP1----1A----</tag>
+<tag lemma="postižený" src="orig" selected="1">AAMP1----1A----</tag>
 </m>
 <m id="m-lnd92255-023-p6s3w6">
 <src.rf>manual</src.rf>

@@ -623,7 +623,7 @@
 <LM>w#w-mf920924-120-p3s1w10</LM>
 </w.rf>
 <form>přijetí</form>
-<tag lemma="přijetí_^(*3mout)" src="auto" selected="1">NNNS6-----A----</tag>
+<tag lemma="přijetí_^(*1)_(*3mout)" src="auto" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-mf920924-120-p3s1w11">
 <src.rf>manual</src.rf>
@@ -695,7 +695,7 @@
 <LM>w#w-mf920924-120-p3s1w19</LM>
 </w.rf>
 <form>hnutí</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-mf920924-120-p3s1w20">
 <src.rf>manual</src.rf>

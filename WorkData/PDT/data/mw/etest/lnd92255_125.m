@@ -711,7 +711,7 @@
 <LM>w#w-lnd92255-125-p4s1w4</LM>
 </w.rf>
 <form>vytištěný</form>
-<tag lemma="vytištěný_^(*5sknout)" src="orig" selected="1">AAIS1----1A----</tag>
+<tag lemma="vytištěný" src="orig" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-lnd92255-125-p4s1w5">
 <src.rf>manual</src.rf>
@@ -942,7 +942,7 @@
 <LM>w#w-lnd92255-125-p4s3w4</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrIS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS1----------</tag>
 </m>
 <m id="m-lnd92255-125-p4s3w5">
 <src.rf>manual</src.rf>
@@ -1197,7 +1197,7 @@
 <LM>w#w-lnd92255-125-p4s5w4</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrIS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS1----------</tag>
 </m>
 <m id="m-lnd92255-125-p4s5w5">
 <src.rf>manual</src.rf>
@@ -1261,7 +1261,7 @@
 <LM>w#w-lnd92255-125-p4s5w12</LM>
 </w.rf>
 <form>Juventus</form>
-<tag lemma="Juventus" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Juventus_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92255-125-p4s5w13">
 <src.rf>manual</src.rf>
@@ -1585,7 +1585,7 @@
 <LM>w#w-lnd92255-125-p4s11w4</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrIS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS1----------</tag>
 </m>
 <m id="m-lnd92255-125-p4s11w5">
 <src.rf>manual</src.rf>
@@ -1633,7 +1633,7 @@
 <LM>w#w-lnd92255-125-p4s11w10</LM>
 </w.rf>
 <form>Lazio</form>
-<tag lemma="Lazio-2_;G" src="auto" selected="1">NNNS1-----A----</tag>
+<tag lemma="Lazio-2_;G_;m" src="auto" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-lnd92255-125-p4s11w11">
 <src.rf>manual</src.rf>
@@ -1889,7 +1889,7 @@
 <LM>w#w-lnd92255-125-p4s15w4</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrIS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS1----------</tag>
 </m>
 <m id="m-lnd92255-125-p4s15w5">
 <src.rf>manual</src.rf>
@@ -2004,7 +2004,7 @@
 <LM>w#w-lnd92255-125-p4s15w18</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrIS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS1----------</tag>
 </m>
 <m id="m-lnd92255-125-p4s15w19">
 <src.rf>manual</src.rf>
@@ -2079,7 +2079,7 @@
 <LM>w#w-lnd92255-125-p4s15w27</LM>
 </w.rf>
 <form>Bari</form>
-<tag lemma="Bari_;G" src="auto" selected="1">NNNXX-----A----</tag>
+<tag lemma="Bari-2_;G" src="auto" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-lnd92255-125-p4s15w28">
 <src.rf>manual</src.rf>
@@ -2209,7 +2209,7 @@
 <LM>w#w-lnd92255-125-p4s16w4</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrIS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS1----------</tag>
 </m>
 <m id="m-lnd92255-125-p4s16w5">
 <src.rf>manual</src.rf>
@@ -2523,7 +2523,7 @@
 <LM>w#w-lnd92255-125-p4s19w4</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrIS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS1----------</tag>
 </m>
 <m id="m-lnd92255-125-p4s19w5">
 <src.rf>manual</src.rf>
@@ -2726,7 +2726,7 @@
 <LM>w#w-lnd92255-125-p5s1w19</LM>
 </w.rf>
 <form>Lazio</form>
-<tag lemma="Lazio-2_;G" src="auto" selected="1">NNNS1-----A----</tag>
+<tag lemma="Lazio-2_;G_;m" src="auto" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-lnd92255-125-p5s1w20">
 <src.rf>manual</src.rf>
@@ -2750,7 +2750,7 @@
 <LM>w#w-lnd92255-125-p5s1w22</LM>
 </w.rf>
 <form>Juventus</form>
-<tag lemma="Juventus" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Juventus_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92255-125-p5s1w23">
 <src.rf>manual</src.rf>
@@ -2850,7 +2850,7 @@
 <LM>w#w-lnd92255-125-p6s2w2</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrIS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS6----------</tag>
 </m>
 <m id="m-lnd92255-125-p6s2w3">
 <src.rf>manual</src.rf>
@@ -4148,7 +4148,7 @@
 <LM>w#w-lnd92255-125-p7s5w25</LM>
 </w.rf>
 <form>dal</form>
-<tag lemma="dát" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92255-125-p7s5w26">
 <src.rf>manual</src.rf>
@@ -4601,7 +4601,7 @@
 <LM>w#w-lnd92255-125-p8s2w35</LM>
 </w.rf>
 <form>Wimbledon</form>
-<tag lemma="Wimbledon-1_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Wimbledon" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92255-125-p8s2w36">
 <src.rf>manual</src.rf>

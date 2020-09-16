@@ -432,7 +432,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto">PDFS4----------</AM>
-<AM lemma="tu" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94206-138-p2s1Cw25">
@@ -505,7 +505,7 @@
 <LM>w#w-ln94206-138-p2s1Cw33</LM>
 </w.rf>
 <form>Benčovi</form>
-<tag lemma="Benčův_;Y_^(*2o)" src="orig" selected="1">AUMP1M---------</tag>
+<tag lemma="Benčův_;Y_^(*2)_(*2o)" src="orig" selected="1">AUMP1M---------</tag>
 </m>
 <m id="m-ln94206-138-p2s1Cw34">
 <src.rf>manual</src.rf>
@@ -816,7 +816,7 @@
 <LM>w#w-ln94206-138-p3s2w6</LM>
 </w.rf>
 <form>orgán</form>
-<tag lemma="orgán" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94206-138-p3s2w7">
 <src.rf>manual</src.rf>
@@ -834,7 +834,7 @@
 <LM>w#w-ln94206-138-p3s3w1</LM>
 </w.rf>
 <form>Benčovi</form>
-<tag lemma="Benčův_;Y_^(*2o)" src="orig" selected="1">AUMP1M---------</tag>
+<tag lemma="Benčův_;Y_^(*2)_(*2o)" src="orig" selected="1">AUMP1M---------</tag>
 </m>
 <m id="m-ln94206-138-p3s3w2">
 <src.rf>manual</src.rf>
@@ -2047,7 +2047,7 @@
 <LM>w#w-ln94206-138-p4s2w8</LM>
 </w.rf>
 <form>Veselá</form>
-<tag lemma="Veselá_;Y_^(*1ý)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Veselá_;G_;Y_^(*1ý)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94206-138-p4s2w9">
 <src.rf>manual</src.rf>
@@ -2074,7 +2074,7 @@
 <tag>
 <AM lemma="tady" src="orig">Db------------1</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
-<AM lemma="tu" src="auto" selected="1">Db-------------</AM>
+<AM lemma="tu-1" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94206-138-p4s2w12">
@@ -2123,7 +2123,7 @@
 <LM>w#w-ln94206-138-p4s2w17</LM>
 </w.rf>
 <form>lety</form>
-<tag lemma="rok" src="orig" selected="1">NNNP7-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP7-----A----</tag>
 </m>
 <m id="m-ln94206-138-p4s2w18">
 <src.rf>manual</src.rf>
@@ -2476,7 +2476,7 @@
 <LM>w#w-ln94206-138-p4s5w16</LM>
 </w.rf>
 <form>Veselá</form>
-<tag lemma="Veselá_;Y_^(*1ý)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Veselá_;G_;Y_^(*1ý)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94206-138-p4s5w17">
 <src.rf>manual</src.rf>
@@ -2615,7 +2615,7 @@
 <LM>w#w-ln94206-138-p4s5w33</LM>
 </w.rf>
 <form>Ringo</form>
-<tag lemma="Ringo_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Ringo-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94206-138-p4s5w34">
 <src.rf>manual</src.rf>
@@ -3016,7 +3016,7 @@
 <LM>w#w-ln94206-138-p4s8w7</LM>
 </w.rf>
 <form>zastavení</form>
-<tag lemma="zastavení-1_^([také_z._se];_uvést_do_klidu:_auto,...)_(*5it-1)" src="orig" selected="1">NNNS3-----A----</tag>
+<tag lemma="zastavení_^(*3it)" src="orig" selected="1">NNNS3-----A----</tag>
 </m>
 <m id="m-ln94206-138-p4s8w8">
 <src.rf>manual</src.rf>
@@ -3064,7 +3064,7 @@
 <LM>w#w-ln94206-138-p4s8w13</LM>
 </w.rf>
 <form>dál</form>
-<tag lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="dál-3_,s_^(také,_za_další)_(^DD**dále-3)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94206-138-p4s8w14">
 <src.rf>manual</src.rf>

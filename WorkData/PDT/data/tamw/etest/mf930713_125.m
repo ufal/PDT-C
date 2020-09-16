@@ -179,7 +179,7 @@
 <LM>w#w-mf930713-125-p2s1Bw11</LM>
 </w.rf>
 <form>vyhlášení</form>
-<tag lemma="vyhlášení_,a_^(*4sit)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="vyhlášení_^(*2t)_(*4sit)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-mf930713-125-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -189,7 +189,7 @@
 <form>konkursního</form>
 <tag>
 <AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AANS2----1A----</AM>
-<AM lemma="konkursní_,s_^(^DD**konkurzní)_(týkající_se_úpadku,_soutěže)" src="manual" selected="1">AANS2----1A----</AM>
+<AM lemma="konkursní_,s_^(^DD**konkurzní)" src="manual" selected="1">AANS2----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-125-p2s1Bw13">
@@ -421,7 +421,7 @@
 <LM>w#w-mf930713-125-p2s3w2</LM>
 </w.rf>
 <form>navržených</form>
-<tag lemma="navržený_^(*4hnout)" src="orig" selected="1">AAFP2----1A----</tag>
+<tag lemma="navržený" src="orig" selected="1">AAFP2----1A----</tag>
 </m>
 <m id="m-mf930713-125-p2s3w3">
 <src.rf>manual</src.rf>

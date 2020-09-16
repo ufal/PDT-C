@@ -649,7 +649,7 @@
 <LM>w#w-ln95046-033-p2s3w6</LM>
 </w.rf>
 <form>léta</form>
-<tag lemma="rok" src="orig" selected="1">NNNP4-----A---2</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP4-----A---2</tag>
 </m>
 <m id="m-ln95046-033-p2s3w7">
 <src.rf>manual</src.rf>
@@ -705,7 +705,7 @@
 <LM>w#w-ln95046-033-p2s3w13</LM>
 </w.rf>
 <form>lepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AANS1----2A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AANS1----2A----</tag>
 </m>
 <m id="m-ln95046-033-p2s3w14">
 <src.rf>manual</src.rf>
@@ -1057,7 +1057,7 @@
 <LM>w#w-ln95046-033-p3s1w33</LM>
 </w.rf>
 <form>Rusky</form>
-<tag lemma="Ruska-1_;E" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="Ruska-1_;E_^(*4-1)" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-ln95046-033-p3s1w34">
 <src.rf>manual</src.rf>
@@ -1105,7 +1105,7 @@
 <LM>w#w-ln95046-033-p3s1w39</LM>
 </w.rf>
 <form>Znamenská</form>
-<tag lemma="Znamenský_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Znamenská_;Y_^(*1ý)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95046-033-p3s1w40">
 <src.rf>manual</src.rf>
@@ -1129,7 +1129,7 @@
 <LM>w#w-ln95046-033-p3s1w42</LM>
 </w.rf>
 <form>Janků</form>
-<tag lemma="Janků_;Y" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="Janků-2_;Y" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln95046-033-p3s1w43">
 <src.rf>manual</src.rf>
@@ -2214,7 +2214,7 @@
 <LM>w#w-ln95046-033-p5s2w31</LM>
 </w.rf>
 <form>Valík</form>
-<tag lemma="Valík_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Valík-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95046-033-p5s2w32">
 <src.rf>manual</src.rf>
@@ -2926,7 +2926,7 @@
 <LM>w#w-ln95046-033-p5s5w11</LM>
 </w.rf>
 <form>jejím</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS6FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS6FS3-------</tag>
 </m>
 <m id="m-ln95046-033-p5s5w12">
 <src.rf>manual</src.rf>
@@ -2950,7 +2950,7 @@
 <LM>w#w-ln95046-033-p5s5w14</LM>
 </w.rf>
 <form>výborem</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-ln95046-033-p5s5w15">
 <src.rf>manual</src.rf>

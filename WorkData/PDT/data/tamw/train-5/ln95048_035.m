@@ -597,7 +597,7 @@
 <LM>w#w-ln95048-035-p1s4w20</LM>
 </w.rf>
 <form>vyhlášeném</form>
-<tag lemma="vyhlášený_,a_^(*4sit)" src="orig" selected="1">AAIS6----1A----</tag>
+<tag lemma="vyhlášený_^(*2t)_(*4sit)" src="orig" selected="1">AAIS6----1A----</tag>
 </m>
 <m id="m-ln95048-035-p1s4w21">
 <src.rf>manual</src.rf>

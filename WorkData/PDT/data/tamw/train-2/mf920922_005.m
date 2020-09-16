@@ -95,7 +95,7 @@
 <LM>w#w-mf920922-005-p2s1w1</LM>
 </w.rf>
 <form>Český</form>
-<tag lemma="Český-1_;G_^(používá_se_i_pro_jména_org.,_výrobků_atd.)" src="auto" selected="1">AAIS1----1A----</tag>
+<tag lemma="český" src="auto" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-mf920922-005-p2s1w2">
 <src.rf>manual</src.rf>
@@ -233,7 +233,7 @@
 <LM>w#w-mf920922-005-p2s2w10</LM>
 </w.rf>
 <form>Český</form>
-<tag lemma="Český-1_;G_^(používá_se_i_pro_jména_org.,_výrobků_atd.)" src="auto" selected="1">AAIS4----1A----</tag>
+<tag lemma="český" src="auto" selected="1">AAIS4----1A----</tag>
 </m>
 <m id="m-mf920922-005-p2s2w11">
 <src.rf>manual</src.rf>
@@ -435,7 +435,7 @@
 <LM>w#w-mf920922-005-p2s3w2</LM>
 </w.rf>
 <form>navrženého</form>
-<tag lemma="navržený_^(*4hnout)" src="orig" selected="1">AANS2----1A----</tag>
+<tag lemma="navržený" src="orig" selected="1">AANS2----1A----</tag>
 </m>
 <m id="m-mf920922-005-p2s3w3">
 <src.rf>manual</src.rf>
@@ -467,7 +467,7 @@
 <LM>w#w-mf920922-005-p2s3w6</LM>
 </w.rf>
 <form>zpochybnění</form>
-<tag lemma="zpochybnění_,s_^(*3it)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="zpochybnění_^(*2t)_(*3it)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf920922-005-p2s3w7">
 <src.rf>manual</src.rf>
@@ -733,7 +733,7 @@
 <LM>w#w-mf920922-005-p2s4w19</LM>
 </w.rf>
 <form>co</form>
-<tag lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="co-5_^(př._co_nejméně,_co_nevidět_atd.)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf920922-005-p2s4w20">
 <src.rf>manual</src.rf>
@@ -988,7 +988,7 @@
 <LM>w#w-mf920922-005-p2s6w2</LM>
 </w.rf>
 <form>diskusi</form>
-<tag lemma="diskuse" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="diskuse_,s_^(^DD**diskuze)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf920922-005-p2s6w3">
 <src.rf>manual</src.rf>
@@ -1257,7 +1257,7 @@
 <LM>w#w-mf920922-005-p2s7w21</LM>
 </w.rf>
 <form>navrženými</form>
-<tag lemma="navržený_^(*4hnout)" src="orig" selected="1">AAFP7----1A----</tag>
+<tag lemma="navržený" src="orig" selected="1">AAFP7----1A----</tag>
 </m>
 <m id="m-mf920922-005-p2s7w22">
 <src.rf>manual</src.rf>

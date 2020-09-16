@@ -436,7 +436,7 @@
 <LM>w#w-lnd94101-006-p1s4w5</LM>
 </w.rf>
 <form>prezidia</form>
-<tag lemma="prezídium" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="prezidium_,s_^(^DD**prezídium)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-lnd94101-006-p1s4w6">
 <src.rf>manual</src.rf>
@@ -556,7 +556,7 @@
 <LM>w#w-lnd94101-006-p1s5w6</LM>
 </w.rf>
 <form>prezidium</form>
-<tag lemma="prezídium" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="prezidium_,s_^(^DD**prezídium)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-lnd94101-006-p1s5w7">
 <src.rf>manual</src.rf>
@@ -721,7 +721,7 @@
 <LM>w#w-lnd94101-006-p1s7w2</LM>
 </w.rf>
 <form>členů</form>
-<tag lemma="člen" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd94101-006-p1s7w3">
 <src.rf>manual</src.rf>
@@ -768,7 +768,7 @@
 <LM>w#w-lnd94101-006-p1s7w7</LM>
 </w.rf>
 <form>delší</form>
-<tag lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">AAFS4----2A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFS4----2A----</tag>
 </m>
 <m id="m-lnd94101-006-p1s7w8">
 <src.rf>manual</src.rf>
@@ -1228,7 +1228,7 @@
 <LM>w#w-lnd94101-006-p1s9w15</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrFS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS1----------</tag>
 </m>
 <m id="m-lnd94101-006-p1s9w16">
 <src.rf>manual</src.rf>
@@ -1398,7 +1398,7 @@
 <LM>w#w-lnd94101-006-p1s10w8</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS1FS3-------</tag>
 </m>
 <m id="m-lnd94101-006-p1s10w9">
 <src.rf>manual</src.rf>
@@ -1642,7 +1642,7 @@
 <LM>w#w-lnd94101-006-p1s11w26</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrFS3----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS3----------</tag>
 </m>
 <m id="m-lnd94101-006-p1s11w27">
 <src.rf>manual</src.rf>
@@ -2453,7 +2453,7 @@
 <LM>w#w-lnd94101-006-p1s16w11</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-lnd94101-006-p1s16w12">
 <src.rf>manual</src.rf>
@@ -2533,7 +2533,7 @@
 <LM>w#w-lnd94101-006-p1s16w21</LM>
 </w.rf>
 <form>odpovědnost</form>
-<tag lemma="odpovědnost_^(kdo_za_něco_odpovídá)_(*3ý)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="odpovědnost_^(*3ý)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-lnd94101-006-p1s16w22">
 <src.rf>manual</src.rf>

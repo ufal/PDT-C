@@ -27,7 +27,7 @@
 <LM>w#w-ln94204-87-p1s1w2</LM>
 </w.rf>
 <form>extremisté</form>
-<tag lemma="extremista" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="extremista_,s_^(^DD**extrémista)" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln94204-87-p1s1w3">
 <src.rf>manual</src.rf>
@@ -367,7 +367,7 @@
 <LM>w#w-ln94204-87-p2s2w10</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1ZS1FS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1ZS1FS3-------</tag>
 </m>
 <m id="m-ln94204-87-p2s2w11">
 <src.rf>manual</src.rf>
@@ -529,7 +529,7 @@
 <LM>w#w-ln94204-87-p2s3w5</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-ln94204-87-p2s3w6">
 <src.rf>manual</src.rf>
@@ -699,7 +699,7 @@
 <LM>w#w-ln94204-87-p2s4w6</LM>
 </w.rf>
 <form>Marrákeši</form>
-<tag lemma="Marrákeš_;G" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Marrákeš-1_;G" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln94204-87-p2s4w7">
 <src.rf>manual</src.rf>
@@ -731,7 +731,7 @@
 <LM>w#w-ln94204-87-p2s4w10</LM>
 </w.rf>
 <form>správní</form>
-<tag lemma="správní_^(např._poplatek;_rada;_řád;...)" src="orig" selected="1">AAFS4----1A----</tag>
+<tag lemma="správní_^(správní_rada;_řád)" src="orig" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-ln94204-87-p2s4w11">
 <src.rf>manual</src.rf>
@@ -872,7 +872,7 @@
 <LM>w#w-ln94204-87-p2s5w3</LM>
 </w.rf>
 <form>extremisté</form>
-<tag lemma="extremista" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="extremista_,s_^(^DD**extrémista)" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln94204-87-p2s5w4">
 <src.rf>manual</src.rf>

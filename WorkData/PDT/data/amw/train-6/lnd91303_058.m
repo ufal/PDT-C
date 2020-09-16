@@ -51,7 +51,7 @@
 <LM>w#w-lnd91303-058-p1s1w5</LM>
 </w.rf>
 <form>NAŠICH</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP6-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP6-P1-------</tag>
 </m>
 <m id="m-lnd91303-058-p1s1w6">
 <src.rf>manual</src.rf>
@@ -151,7 +151,7 @@
 <LM>w#w-lnd91303-058-p3s1w9</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-lnd91303-058-p3s1w10">
 <src.rf>manual</src.rf>
@@ -387,7 +387,7 @@
 <form>Denyse</form>
 <tag>
 <AM lemma="Denys_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Denys_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Denys_;Y_,s_^(^DD**Denis)" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-058-p3s1w38">
@@ -531,7 +531,7 @@
 <LM>w#w-lnd91303-058-p4s1w6</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP6-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP6-P1-------</tag>
 </m>
 <m id="m-lnd91303-058-p4s1w7">
 <src.rf>manual</src.rf>
@@ -1211,7 +1211,7 @@
 <LM>w#w-lnd91303-058-p5s1w38</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS7----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS7----------</tag>
 </m>
 <m id="m-lnd91303-058-p5s1w39">
 <src.rf>manual</src.rf>
@@ -1455,7 +1455,7 @@
 <LM>w#w-lnd91303-058-p6s2w14</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP3----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP3----------</tag>
 </m>
 <m id="m-lnd91303-058-p6s2w15">
 <src.rf>manual</src.rf>
@@ -1466,7 +1466,7 @@
 <tag>
 <AM lemma="bližní" src="orig">AAMP3----1A----</AM>
 <AM lemma="bližní" src="auto">NNFP3-----A----</AM>
-<AM lemma="bližní" src="auto" recommended="1" selected="1">NNMP3-----A----</AM>
+<AM lemma="bližní-1" src="auto" recommended="1" selected="1">NNMP3-----A----</AM>
 <AM lemma="bližní" src="auto">NNMS6-----A----</AM>
 <AM lemma="bližní" src="auto">NNMS7-----A----</AM>
 </tag>
@@ -1683,7 +1683,7 @@
 <LM>w#w-lnd91303-058-p6s3w11</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-lnd91303-058-p6s3w12">
 <src.rf>manual</src.rf>
@@ -1699,7 +1699,7 @@
 <LM>w#w-lnd91303-058-p6s3w13</LM>
 </w.rf>
 <form>dají</form>
-<tag lemma="dát" src="orig" selected="1">VB-P---3P-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-lnd91303-058-p6s3w14">
 <src.rf>manual</src.rf>
@@ -1971,7 +1971,7 @@
 <LM>w#w-lnd91303-058-p6s4w28</LM>
 </w.rf>
 <form>představení</form>
-<tag lemma="představení-2_^(divadelní,_filmové_apod.)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="představení-1_^(*5it-1)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-lnd91303-058-p6s4w29">
 <src.rf>manual</src.rf>
@@ -2423,7 +2423,7 @@
 <LM>w#w-lnd91303-058-p7s2w10</LM>
 </w.rf>
 <form>rysy</form>
-<tag lemma="rys" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="rys-2" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-lnd91303-058-p7s2w11">
 <src.rf>manual</src.rf>
@@ -2583,7 +2583,7 @@
 <LM>w#w-lnd91303-058-p7s2w30</LM>
 </w.rf>
 <form>dávno</form>
-<tag lemma="dávno" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="dávno-1" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd91303-058-p7s2w31">
 <src.rf>manual</src.rf>
@@ -2847,7 +2847,7 @@
 <LM>w#w-lnd91303-058-p8s1w12</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP6-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP6-P1-------</tag>
 </m>
 <m id="m-lnd91303-058-p8s1w13">
 <src.rf>manual</src.rf>
@@ -2988,7 +2988,7 @@
 <LM>w#w-lnd91303-058-p8s2w13</LM>
 </w.rf>
 <form>biografů</form>
-<tag lemma="biograf" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="biograf-1" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-lnd91303-058-p8s2w14">
 <src.rf>manual</src.rf>

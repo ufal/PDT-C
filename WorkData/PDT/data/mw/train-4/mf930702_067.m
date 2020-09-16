@@ -35,7 +35,7 @@
 <LM>w#w-mf930702-067-p1s1w3</LM>
 </w.rf>
 <form>Zlatý</form>
-<tag lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAIS4----1A----</tag>
+<tag lemma="zlatý-1_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAIS4----1A----</tag>
 </m>
 <m id="m-mf930702-067-p1s1w4">
 <src.rf>manual</src.rf>
@@ -343,7 +343,7 @@
 <LM>w#w-mf930702-067-p2s2w8</LM>
 </w.rf>
 <form>Zlatý</form>
-<tag lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAIS4----1A----</tag>
+<tag lemma="zlatý-1_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAIS4----1A----</tag>
 </m>
 <m id="m-mf930702-067-p2s2w9">
 <src.rf>manual</src.rf>
@@ -965,7 +965,7 @@
 <LM>w#w-mf930702-067-p3s1w1</LM>
 </w.rf>
 <form>Naše</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSHS1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSHS1-P1-------</tag>
 </m>
 <m id="m-mf930702-067-p3s1w2">
 <src.rf>manual</src.rf>
@@ -1042,7 +1042,7 @@
 <LM>w#w-mf930702-067-p3s2w5</LM>
 </w.rf>
 <form>Pascal</form>
-<tag lemma="Pascal_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Pascal-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-067-p3s2w6">
 <src.rf>manual</src.rf>

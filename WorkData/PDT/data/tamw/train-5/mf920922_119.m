@@ -80,7 +80,7 @@
 <LM>w#w-mf920922-119-p2s1w3</LM>
 </w.rf>
 <form>ZASTAVENÍ</form>
-<tag lemma="zastavení-1_^([také_z._se];_uvést_do_klidu:_auto,...)_(*5it-1)" src="orig" selected="1">NNNS3-----A----</tag>
+<tag lemma="zastavení_^(*3it)" src="orig" selected="1">NNNS3-----A----</tag>
 </m>
 <m id="m-mf920922-119-p2s1w4">
 <src.rf>manual</src.rf>
@@ -164,7 +164,7 @@
 <LM>w#w-mf920922-119-p3s2w2</LM>
 </w.rf>
 <form>zastavení</form>
-<tag lemma="zastavení-1_^([také_z._se];_uvést_do_klidu:_auto,...)_(*5it-1)" src="orig" selected="1">NNNS3-----A----</tag>
+<tag lemma="zastavení_^(*3it)" src="orig" selected="1">NNNS3-----A----</tag>
 </m>
 <m id="m-mf920922-119-p3s2w3">
 <src.rf>manual</src.rf>

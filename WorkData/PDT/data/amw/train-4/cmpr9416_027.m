@@ -112,7 +112,7 @@
 <LM>w#w-cmpr9416-027-p3s1w10</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrNS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS4----------</tag>
 </m>
 <m id="m-cmpr9416-027-p3s1w11">
 <src.rf>manual</src.rf>
@@ -128,7 +128,7 @@
 <LM>w#w-cmpr9416-027-p3s1w12</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-cmpr9416-027-p3s1w13">
 <src.rf>manual</src.rf>
@@ -367,7 +367,7 @@
 <LM>w#w-cmpr9416-027-p4s1w6</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrNS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS6----------</tag>
 </m>
 <m id="m-cmpr9416-027-p4s1w7">
 <src.rf>manual</src.rf>
@@ -569,7 +569,7 @@
 <LM>w#w-cmpr9416-027-p4s2w14</LM>
 </w.rf>
 <form>horších</form>
-<tag lemma="špatný" src="orig" selected="1">AAIP2----2A----</tag>
+<tag lemma="horší" src="orig" selected="1">AAIP2----2A----</tag>
 </m>
 <m id="m-cmpr9416-027-p4s2w15">
 <src.rf>manual</src.rf>
@@ -601,7 +601,7 @@
 <LM>w#w-cmpr9416-027-p4s2w18</LM>
 </w.rf>
 <form>dají</form>
-<tag lemma="dát" src="orig" selected="1">VB-P---3P-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-cmpr9416-027-p4s2w19">
 <src.rf>manual</src.rf>
@@ -811,7 +811,7 @@
 <LM>w#w-cmpr9416-027-p4s3w22</LM>
 </w.rf>
 <form>prvního</form>
-<tag lemma="první" src="orig" selected="1">CrNS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS2----------</tag>
 </m>
 <m id="m-cmpr9416-027-p4s3w23">
 <src.rf>manual</src.rf>
@@ -893,7 +893,7 @@
 <LM>w#w-cmpr9416-027-p4s4w3</LM>
 </w.rf>
 <form>prvního</form>
-<tag lemma="první" src="orig" selected="1">CrNS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrNS2----------</tag>
 </m>
 <m id="m-cmpr9416-027-p4s4w4">
 <src.rf>manual</src.rf>
@@ -949,7 +949,7 @@
 <LM>w#w-cmpr9416-027-p4s4w10</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-cmpr9416-027-p4s4w11">
 <src.rf>manual</src.rf>
@@ -1047,7 +1047,7 @@
 <LM>w#w-cmpr9416-027-p4s5w2</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-cmpr9416-027-p4s5w3">
 <src.rf>manual</src.rf>

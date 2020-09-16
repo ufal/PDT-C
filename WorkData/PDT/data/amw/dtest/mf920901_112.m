@@ -129,7 +129,7 @@
 <LM>w#w-mf920901-112-p2s2w3</LM>
 </w.rf>
 <form>postižených</form>
-<tag lemma="postižený_^(*4hnout)" src="orig" selected="1">AAMP2----1A----</tag>
+<tag lemma="postižený" src="orig" selected="1">AAMP2----1A----</tag>
 </m>
 <m id="m-mf920901-112-p2s2w4">
 <src.rf>manual</src.rf>
@@ -424,7 +424,7 @@
 <LM>w#w-mf920901-112-p3s1w7</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-mf920901-112-p3s1w8">
 <src.rf>manual</src.rf>
@@ -528,7 +528,7 @@
 <LM>w#w-mf920901-112-p3s1w20</LM>
 </w.rf>
 <form>nepříjemným</form>
-<tag lemma="příjemný-1_^(všeob.,_poz._emoce)" src="orig" selected="1">AAIS7----1N----</tag>
+<tag lemma="příjemný_^(všeob.,_poz._emoce)" src="orig" selected="1">AAIS7----1N----</tag>
 </m>
 <m id="m-mf920901-112-p3s1w21">
 <src.rf>manual</src.rf>
@@ -698,7 +698,7 @@
 <LM>w#w-mf920901-112-p3s2w16</LM>
 </w.rf>
 <form>postižených</form>
-<tag lemma="postižený_^(*4hnout)" src="orig" selected="1">AAFP6----1A----</tag>
+<tag lemma="postižený" src="orig" selected="1">AAFP6----1A----</tag>
 </m>
 <m id="m-mf920901-112-p3s2w17">
 <src.rf>manual</src.rf>
@@ -823,7 +823,7 @@
 <LM>w#w-mf920901-112-p4s1w9</LM>
 </w.rf>
 <form>zasažených</form>
-<tag lemma="zasažený_^(*5áhnout)" src="orig" selected="1">AANP2----1A----</tag>
+<tag lemma="zasažený" src="orig" selected="1">AANP2----1A----</tag>
 </m>
 <m id="m-mf920901-112-p4s1w10">
 <src.rf>manual</src.rf>
@@ -1349,7 +1349,7 @@
 <LM>w#w-mf920901-112-p6s2w7</LM>
 </w.rf>
 <form>nejhorších</form>
-<tag lemma="špatný" src="orig" selected="1">AAFP2----3A----</tag>
+<tag lemma="horší" src="orig" selected="1">AAFP2----3A----</tag>
 </m>
 <m id="m-mf920901-112-p6s2w8">
 <src.rf>manual</src.rf>

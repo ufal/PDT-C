@@ -137,7 +137,7 @@
 <LM>w#w-vesm9303-024-p4s1w6</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-vesm9303-024-p4s1w7">
 <src.rf>manual</src.rf>
@@ -193,7 +193,7 @@
 <LM>w#w-vesm9303-024-p4s1w13</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-vesm9303-024-p4s1w14">
 <src.rf>manual</src.rf>
@@ -1097,7 +1097,7 @@
 <LM>w#w-vesm9303-024-p4s6w23</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p4s6w24">
 <src.rf>manual</src.rf>
@@ -1121,7 +1121,7 @@
 <LM>w#w-vesm9303-024-p4s6w26</LM>
 </w.rf>
 <form>úmrtnosti</form>
-<tag lemma="úmrtnost_,s_^(*3í)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="úmrtnost" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p4s6w27">
 <src.rf>manual</src.rf>
@@ -1161,7 +1161,7 @@
 <LM>w#w-vesm9303-024-p4s6w31</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p4s6w32">
 <src.rf>manual</src.rf>
@@ -1193,7 +1193,7 @@
 <LM>w#w-vesm9303-024-p4s6w35</LM>
 </w.rf>
 <form>úmrtnosti</form>
-<tag lemma="úmrtnost_,s_^(*3í)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="úmrtnost" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p4s6w36">
 <src.rf>manual</src.rf>
@@ -1209,7 +1209,7 @@
 <LM>w#w-vesm9303-024-p4s6w37</LM>
 </w.rf>
 <form>nemoci</form>
-<tag lemma="nemoc_^(choroba)" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="nemoc" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p4s6w38">
 <src.rf>manual</src.rf>
@@ -1534,7 +1534,7 @@
 <LM>w#w-vesm9303-024-p5s1w12</LM>
 </w.rf>
 <form>naše</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSHS1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSHS1-P1-------</tag>
 </m>
 <m id="m-vesm9303-024-p5s1w13">
 <src.rf>manual</src.rf>
@@ -1688,7 +1688,7 @@
 <LM>w#w-vesm9303-024-p5s2w17</LM>
 </w.rf>
 <form>politiky</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p5s2w18">
 <src.rf>manual</src.rf>
@@ -1862,7 +1862,7 @@
 <AM lemma="vydávaný-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*4t-1)" src="auto">AAIP1----1A---6</AM>
 <AM lemma="vydávaný-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*4t-1)" src="auto">AAIP4----1A---6</AM>
 <AM lemma="vydávaný-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*4t-1)" src="auto">AAIP5----1A---6</AM>
-<AM lemma="vydávaný-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*4t-1)" src="auto" recommended="1" selected="1">AAIS1----1A----</AM>
+<AM lemma="vydávaný_^(*2t)" src="auto" recommended="1" selected="1">AAIS1----1A----</AM>
 <AM lemma="vydávaný-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*4t-1)" src="auto">AAIS4----1A----</AM>
 <AM lemma="vydávaný-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*4t-1)" src="auto">AAIS5----1A----</AM>
 <AM lemma="vydávaný-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*4t-1)" src="auto">AAMP1----1A---6</AM>
@@ -2087,7 +2087,7 @@
 <LM>w#w-vesm9303-024-p5s2w54</LM>
 </w.rf>
 <form>výbor</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p5s2w55">
 <src.rf>manual</src.rf>
@@ -2383,7 +2383,7 @@
 <LM>w#w-vesm9303-024-p5s3w31</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p5s3w32">
 <src.rf>manual</src.rf>
@@ -2401,7 +2401,7 @@
 <LM>w#w-vesm9303-024-p5s4w1</LM>
 </w.rf>
 <form>Náš</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSYS1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSYS1-P1-------</tag>
 </m>
 <m id="m-vesm9303-024-p5s4w2">
 <src.rf>manual</src.rf>
@@ -2523,7 +2523,7 @@
 <form>vydávaného</form>
 <tag>
 <AM lemma="vydávaný-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*7at-1)" src="orig">AAIS2----1A----</AM>
-<AM lemma="vydávaný-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*4t-1)" src="auto" recommended="1" selected="1">AAIS2----1A----</AM>
+<AM lemma="vydávaný_^(*2t)" src="auto" recommended="1" selected="1">AAIS2----1A----</AM>
 <AM lemma="vydávaný-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*4t-1)" src="auto">AAMS2----1A----</AM>
 <AM lemma="vydávaný-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*4t-1)" src="auto">AAMS4----1A----</AM>
 <AM lemma="vydávaný-1_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*4t-1)" src="auto">AANS2----1A----</AM>
@@ -2611,7 +2611,7 @@
 <LM>w#w-vesm9303-024-p5s4w25</LM>
 </w.rf>
 <form>úmrtnosti</form>
-<tag lemma="úmrtnost_,s_^(*3í)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="úmrtnost" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p5s4w26">
 <src.rf>manual</src.rf>
@@ -2645,7 +2645,7 @@
 <LM>w#w-vesm9303-024-p5s5w1</LM>
 </w.rf>
 <form>Svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS7----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS7----------</tag>
 </m>
 <m id="m-vesm9303-024-p5s5w2">
 <src.rf>manual</src.rf>
@@ -2792,7 +2792,7 @@
 <LM>w#w-vesm9303-024-p5s5w19</LM>
 </w.rf>
 <form>úmrtnosti</form>
-<tag lemma="úmrtnost_,s_^(*3í)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="úmrtnost" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p5s5w20">
 <src.rf>manual</src.rf>
@@ -2974,7 +2974,7 @@
 <LM>w#w-vesm9303-024-p5s5w41</LM>
 </w.rf>
 <form>ukazatele</form>
-<tag lemma="ukazatel" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="ukazatel-1" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p5s5w42">
 <src.rf>manual</src.rf>
@@ -3102,7 +3102,7 @@
 <LM>w#w-vesm9303-024-p5s5w57</LM>
 </w.rf>
 <form>úmrtnost</form>
-<tag lemma="úmrtnost_,s_^(*3í)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="úmrtnost" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p5s5w58">
 <src.rf>manual</src.rf>
@@ -3202,7 +3202,7 @@
 <LM>w#w-vesm9303-024-p7s1w4</LM>
 </w.rf>
 <form>úmrtnosti</form>
-<tag lemma="úmrtnost_,s_^(*3í)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="úmrtnost" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p7s1w5">
 <src.rf>manual</src.rf>
@@ -3333,7 +3333,7 @@
 <LM>w#w-vesm9303-024-p7s1w20</LM>
 </w.rf>
 <form>správními</form>
-<tag lemma="správní_^(např._poplatek;_rada;_řád;...)" src="orig" selected="1">AAFP7----1A----</tag>
+<tag lemma="správní_^(správní_rada;_řád)" src="orig" selected="1">AAFP7----1A----</tag>
 </m>
 <m id="m-vesm9303-024-p7s1w21">
 <src.rf>manual</src.rf>
@@ -3450,7 +3450,7 @@
 <LM>w#w-vesm9303-024-p7s2w2</LM>
 </w.rf>
 <form>úmrtnosti</form>
-<tag lemma="úmrtnost_,s_^(*3í)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="úmrtnost" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p7s2w3">
 <src.rf>manual</src.rf>
@@ -3650,7 +3650,7 @@
 <LM>w#w-vesm9303-024-p7s2w27</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p7s2w28">
 <src.rf>manual</src.rf>
@@ -3700,7 +3700,7 @@
 <LM>w#w-vesm9303-024-p7s3w5</LM>
 </w.rf>
 <form>úmrtnosti</form>
-<tag lemma="úmrtnost_,s_^(*3í)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="úmrtnost" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p7s3w6">
 <src.rf>manual</src.rf>
@@ -3800,7 +3800,7 @@
 <LM>w#w-vesm9303-024-p7s3w17</LM>
 </w.rf>
 <form>úmrtnosti</form>
-<tag lemma="úmrtnost_,s_^(*3í)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="úmrtnost" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p7s3w18">
 <src.rf>manual</src.rf>
@@ -3930,7 +3930,7 @@
 <LM>w#w-vesm9303-024-p7s4w14</LM>
 </w.rf>
 <form>nemoci</form>
-<tag lemma="nemoc_^(choroba)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="nemoc" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p7s4w15">
 <src.rf>manual</src.rf>
@@ -4042,7 +4042,7 @@
 <LM>w#w-vesm9303-024-p7s4w28</LM>
 </w.rf>
 <form>nemoci</form>
-<tag lemma="nemoc_^(choroba)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="nemoc" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p7s4w29">
 <src.rf>manual</src.rf>
@@ -4122,7 +4122,7 @@
 <LM>w#w-vesm9303-024-p7s4w38</LM>
 </w.rf>
 <form>otravy</form>
-<tag lemma="otrava" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="otrava-1" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p7s4w39">
 <src.rf>manual</src.rf>
@@ -4284,7 +4284,7 @@
 <LM>w#w-vesm9303-024-p7s5w16</LM>
 </w.rf>
 <form>nemoci</form>
-<tag lemma="nemoc_^(choroba)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="nemoc" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p7s5w17">
 <src.rf>manual</src.rf>
@@ -4380,7 +4380,7 @@
 <LM>w#w-vesm9303-024-p7s5w28</LM>
 </w.rf>
 <form>otravy</form>
-<tag lemma="otrava" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="otrava-1" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p7s5w29">
 <src.rf>manual</src.rf>
@@ -4412,7 +4412,7 @@
 <LM>w#w-vesm9303-024-p7s5w32</LM>
 </w.rf>
 <form>nemoci</form>
-<tag lemma="nemoc_^(choroba)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="nemoc" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p7s5w33">
 <src.rf>manual</src.rf>
@@ -4494,7 +4494,7 @@
 <LM>w#w-vesm9303-024-p8s1w6</LM>
 </w.rf>
 <form>úmrtnosti</form>
-<tag lemma="úmrtnost_,s_^(*3í)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="úmrtnost" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p8s1w7">
 <src.rf>manual</src.rf>
@@ -4616,7 +4616,7 @@
 <LM>w#w-vesm9303-024-p9s1w4</LM>
 </w.rf>
 <form>úmrtnosti</form>
-<tag lemma="úmrtnost_,s_^(*3í)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="úmrtnost" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p9s1w5">
 <src.rf>manual</src.rf>
@@ -4962,7 +4962,7 @@
 <LM>w#w-vesm9303-024-p10s1w38</LM>
 </w.rf>
 <form>ukazatelích</form>
-<tag lemma="ukazatel" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="ukazatel-1" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p10s1w39">
 <src.rf>manual</src.rf>
@@ -5052,7 +5052,7 @@
 <LM>w#w-vesm9303-024-p10s2w8</LM>
 </w.rf>
 <form>ukazatele</form>
-<tag lemma="ukazatel" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="ukazatel-1" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p10s2w9">
 <src.rf>manual</src.rf>
@@ -5158,7 +5158,7 @@
 <LM>w#w-vesm9303-024-p10s3w10</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-vesm9303-024-p10s3w11">
 <src.rf>manual</src.rf>
@@ -5296,7 +5296,7 @@
 <LM>w#w-vesm9303-024-p11s1w1</LM>
 </w.rf>
 <form>Nemoci</form>
-<tag lemma="nemoc_^(choroba)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="nemoc" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p11s1w2">
 <src.rf>manual</src.rf>
@@ -5322,7 +5322,7 @@
 <LM>w#w-vesm9303-024-p12s1w1</LM>
 </w.rf>
 <form>Nemoci</form>
-<tag lemma="nemoc_^(choroba)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="nemoc" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p12s1w2">
 <src.rf>manual</src.rf>
@@ -5556,7 +5556,7 @@
 <LM>w#w-vesm9303-024-p12s2w19</LM>
 </w.rf>
 <form>úmrtnosti</form>
-<tag lemma="úmrtnost_,s_^(*3í)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="úmrtnost" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p12s2w20">
 <src.rf>manual</src.rf>
@@ -5966,7 +5966,7 @@
 <LM>w#w-vesm9303-024-p13s1w19</LM>
 </w.rf>
 <form>úmrtnosti</form>
-<tag lemma="úmrtnost_,s_^(*3í)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="úmrtnost" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p13s1w20">
 <src.rf>manual</src.rf>
@@ -6129,7 +6129,7 @@
 <LM>w#w-vesm9303-024-p13s1w39</LM>
 </w.rf>
 <form>úmrtnosti</form>
-<tag lemma="úmrtnost_,s_^(*3í)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="úmrtnost" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p13s1w40">
 <src.rf>manual</src.rf>
@@ -6153,7 +6153,7 @@
 <LM>w#w-vesm9303-024-p13s1w42</LM>
 </w.rf>
 <form>našich</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSXP2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSXP2-P1-------</tag>
 </m>
 <m id="m-vesm9303-024-p13s1w43">
 <src.rf>manual</src.rf>
@@ -6630,7 +6630,7 @@
 <LM>w#w-vesm9303-024-p13s3w20</LM>
 </w.rf>
 <form>úmrtnosti</form>
-<tag lemma="úmrtnost_,s_^(*3í)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="úmrtnost" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p13s3w21">
 <src.rf>manual</src.rf>
@@ -7131,7 +7131,7 @@
 <LM>w#w-vesm9303-024-p14s1w9</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p14s1w10">
 <src.rf>manual</src.rf>
@@ -7187,7 +7187,7 @@
 <LM>w#w-vesm9303-024-p14s1w16</LM>
 </w.rf>
 <form>úmrtnost</form>
-<tag lemma="úmrtnost_,s_^(*3í)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="úmrtnost" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p14s1w17">
 <src.rf>manual</src.rf>
@@ -7203,7 +7203,7 @@
 <LM>w#w-vesm9303-024-p14s1w18</LM>
 </w.rf>
 <form>nemoci</form>
-<tag lemma="nemoc_^(choroba)" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="nemoc" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p14s1w19">
 <src.rf>manual</src.rf>
@@ -7299,7 +7299,7 @@
 <LM>w#w-vesm9303-024-p14s1w30</LM>
 </w.rf>
 <form>Karlovy</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUIP1M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUIP1M---------</tag>
 </m>
 <m id="m-vesm9303-024-p14s1w31">
 <src.rf>manual</src.rf>
@@ -7653,7 +7653,7 @@
 <LM>w#w-vesm9303-024-p14s2w21</LM>
 </w.rf>
 <form>Považská</form>
-<tag lemma="Považský_;G" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="považský" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-vesm9303-024-p14s2w22">
 <src.rf>manual</src.rf>
@@ -7703,7 +7703,7 @@
 <LM>w#w-vesm9303-024-p14s3w4</LM>
 </w.rf>
 <form>úmrtnosti</form>
-<tag lemma="úmrtnost_,s_^(*3í)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="úmrtnost" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p14s3w5">
 <src.rf>manual</src.rf>
@@ -8288,7 +8288,7 @@
 <LM>w#w-vesm9303-024-p16s2w3</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p16s2w4">
 <src.rf>manual</src.rf>
@@ -8478,7 +8478,7 @@
 <LM>w#w-vesm9303-024-p16s3w4</LM>
 </w.rf>
 <form>úmrtnosti</form>
-<tag lemma="úmrtnost_,s_^(*3í)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="úmrtnost" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p16s3w5">
 <src.rf>manual</src.rf>
@@ -8592,7 +8592,7 @@
 <LM>w#w-vesm9303-024-p17s1w1</LM>
 </w.rf>
 <form>Úmrtnost</form>
-<tag lemma="úmrtnost_,s_^(*3í)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="úmrtnost" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p17s1w2">
 <src.rf>manual</src.rf>
@@ -8640,7 +8640,7 @@
 <LM>w#w-vesm9303-024-p17s1w7</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS2----------</tag>
 </m>
 <m id="m-vesm9303-024-p17s1w8">
 <src.rf>manual</src.rf>
@@ -8829,7 +8829,7 @@
 <LM>w#w-vesm9303-024-p17s2w7</LM>
 </w.rf>
 <form>nemocí</form>
-<tag lemma="nemoc_^(choroba)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="nemoc" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p17s2w8">
 <src.rf>manual</src.rf>
@@ -8877,7 +8877,7 @@
 <LM>w#w-vesm9303-024-p17s2w13</LM>
 </w.rf>
 <form>úmrtnosti</form>
-<tag lemma="úmrtnost_,s_^(*3í)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="úmrtnost" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p17s2w14">
 <src.rf>manual</src.rf>
@@ -9082,7 +9082,7 @@
 <LM>w#w-vesm9303-024-p17s3w8</LM>
 </w.rf>
 <form>úmrtnosti</form>
-<tag lemma="úmrtnost_,s_^(*3í)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="úmrtnost" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p17s3w9">
 <src.rf>manual</src.rf>
@@ -9435,7 +9435,7 @@
 <LM>w#w-vesm9303-024-p17s4w4</LM>
 </w.rf>
 <form>úmrtnosti</form>
-<tag lemma="úmrtnost_,s_^(*3í)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="úmrtnost" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p17s4w5">
 <src.rf>manual</src.rf>
@@ -9531,7 +9531,7 @@
 <LM>w#w-vesm9303-024-p17s4w16</LM>
 </w.rf>
 <form>úmrtnosti</form>
-<tag lemma="úmrtnost_,s_^(*3í)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="úmrtnost" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p17s4w17">
 <src.rf>manual</src.rf>
@@ -9768,7 +9768,7 @@
 <LM>w#w-vesm9303-024-p17s5w7</LM>
 </w.rf>
 <form>úmrtnosti</form>
-<tag lemma="úmrtnost_,s_^(*3í)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="úmrtnost" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p17s5w8">
 <src.rf>manual</src.rf>
@@ -9912,7 +9912,7 @@
 <LM>w#w-vesm9303-024-p17s5w25</LM>
 </w.rf>
 <form>nemoci</form>
-<tag lemma="nemoc_^(choroba)" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="nemoc" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p17s5w26">
 <src.rf>manual</src.rf>
@@ -10320,7 +10320,7 @@
 <LM>w#w-vesm9303-024-p18s1w40</LM>
 </w.rf>
 <form>Spišská</form>
-<tag lemma="Spišský_;G" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="spišský" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-vesm9303-024-p18s1w41">
 <src.rf>manual</src.rf>
@@ -10370,7 +10370,7 @@
 <LM>w#w-vesm9303-024-p19s1w3</LM>
 </w.rf>
 <form>otravy</form>
-<tag lemma="otrava" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="otrava-1" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 </s>
 <s id="m-vesm9303-024-p20s1">
@@ -10396,7 +10396,7 @@
 <LM>w#w-vesm9303-024-p20s1w3</LM>
 </w.rf>
 <form>úmrtnosti</form>
-<tag lemma="úmrtnost_,s_^(*3í)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="úmrtnost" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p20s1w4">
 <src.rf>manual</src.rf>
@@ -10492,7 +10492,7 @@
 <LM>w#w-vesm9303-024-p20s1w15</LM>
 </w.rf>
 <form>otravy</form>
-<tag lemma="otrava" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="otrava-1" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p20s1w16">
 <src.rf>manual</src.rf>
@@ -10556,7 +10556,7 @@
 <LM>w#w-vesm9303-024-p20s1w23</LM>
 </w.rf>
 <form>úmrtnosti</form>
-<tag lemma="úmrtnost_,s_^(*3í)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="úmrtnost" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p20s1w24">
 <src.rf>manual</src.rf>
@@ -10572,7 +10572,7 @@
 <LM>w#w-vesm9303-024-p20s1w25</LM>
 </w.rf>
 <form>nemoci</form>
-<tag lemma="nemoc_^(choroba)" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="nemoc" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p20s1w26">
 <src.rf>manual</src.rf>
@@ -10713,7 +10713,7 @@
 <LM>w#w-vesm9303-024-p20s2w11</LM>
 </w.rf>
 <form>úmrtnosti</form>
-<tag lemma="úmrtnost_,s_^(*3í)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="úmrtnost" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p20s2w12">
 <src.rf>manual</src.rf>
@@ -10875,7 +10875,7 @@
 <LM>w#w-vesm9303-024-p20s3w1</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrIS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS1----------</tag>
 </m>
 <m id="m-vesm9303-024-p20s3w2">
 <src.rf>manual</src.rf>
@@ -11304,7 +11304,7 @@
 <LM>w#w-vesm9303-024-p20s5w2</LM>
 </w.rf>
 <form>úmrtnost</form>
-<tag lemma="úmrtnost_,s_^(*3í)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="úmrtnost" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p20s5w3">
 <src.rf>manual</src.rf>
@@ -11336,7 +11336,7 @@
 <LM>w#w-vesm9303-024-p20s5w6</LM>
 </w.rf>
 <form>otravy</form>
-<tag lemma="otrava" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="otrava-1" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p20s5w7">
 <src.rf>manual</src.rf>
@@ -11344,7 +11344,7 @@
 <LM>w#w-vesm9303-024-p20s5w7</LM>
 </w.rf>
 <form>druhého</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS2----------</tag>
 </m>
 <m id="m-vesm9303-024-p20s5w8">
 <src.rf>manual</src.rf>
@@ -11448,7 +11448,7 @@
 <LM>w#w-vesm9303-024-p20s5w20</LM>
 </w.rf>
 <form>rozvodovost</form>
-<tag lemma="rozvodovost-1_^(souv._s_rozvodem_manželství)_(*5ý-1)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="rozvodovost_^(*3ý)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p20s5w21">
 <src.rf>manual</src.rf>
@@ -11541,7 +11541,7 @@
 <LM>w#w-vesm9303-024-p21s1w1</LM>
 </w.rf>
 <form>Nemoci</form>
-<tag lemma="nemoc_^(choroba)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="nemoc" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p21s1w2">
 <src.rf>manual</src.rf>
@@ -11658,7 +11658,7 @@
 <LM>w#w-vesm9303-024-p22s1w12</LM>
 </w.rf>
 <form>úmrtnosti</form>
-<tag lemma="úmrtnost_,s_^(*3í)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="úmrtnost" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p22s1w13">
 <src.rf>manual</src.rf>
@@ -11674,7 +11674,7 @@
 <LM>w#w-vesm9303-024-p22s1w14</LM>
 </w.rf>
 <form>nemoci</form>
-<tag lemma="nemoc_^(choroba)" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="nemoc" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p22s1w15">
 <src.rf>manual</src.rf>
@@ -11892,7 +11892,7 @@
 <LM>w#w-vesm9303-024-p22s2w18</LM>
 </w.rf>
 <form>úmrtnosti</form>
-<tag lemma="úmrtnost_,s_^(*3í)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="úmrtnost" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p22s2w19">
 <src.rf>manual</src.rf>
@@ -11959,7 +11959,7 @@
 <LM>w#w-vesm9303-024-p22s3w3</LM>
 </w.rf>
 <form>úmrtnosti</form>
-<tag lemma="úmrtnost_,s_^(*3í)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="úmrtnost" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p22s3w4">
 <src.rf>manual</src.rf>
@@ -11975,7 +11975,7 @@
 <LM>w#w-vesm9303-024-p22s3w5</LM>
 </w.rf>
 <form>nemoci</form>
-<tag lemma="nemoc_^(choroba)" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="nemoc" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p22s3w6">
 <src.rf>manual</src.rf>
@@ -12162,7 +12162,7 @@
 <LM>w#w-vesm9303-024-p22s3w28</LM>
 </w.rf>
 <form>úmrtnosti</form>
-<tag lemma="úmrtnost_,s_^(*3í)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="úmrtnost" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p22s3w29">
 <src.rf>manual</src.rf>
@@ -12236,7 +12236,7 @@
 <LM>w#w-vesm9303-024-p23s1w4</LM>
 </w.rf>
 <form>úmrtnosti</form>
-<tag lemma="úmrtnost_,s_^(*3í)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="úmrtnost" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p23s1w5">
 <src.rf>manual</src.rf>
@@ -12311,7 +12311,7 @@
 <LM>w#w-vesm9303-024-p23s1w13</LM>
 </w.rf>
 <form>úmrtnosti</form>
-<tag lemma="úmrtnost_,s_^(*3í)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="úmrtnost" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p23s1w14">
 <src.rf>manual</src.rf>
@@ -12519,7 +12519,7 @@
 <LM>w#w-vesm9303-024-p23s2w8</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8YP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8YP4---------1</tag>
 </m>
 <m id="m-vesm9303-024-p23s2w9">
 <src.rf>manual</src.rf>
@@ -12535,7 +12535,7 @@
 <LM>w#w-vesm9303-024-p23s2w10</LM>
 </w.rf>
 <form>rysy</form>
-<tag lemma="rys" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="rys-2" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p23s2w11">
 <src.rf>manual</src.rf>
@@ -12577,7 +12577,7 @@
 <LM>w#w-vesm9303-024-p23s3w4</LM>
 </w.rf>
 <form>úmrtnosti</form>
-<tag lemma="úmrtnost_,s_^(*3í)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="úmrtnost" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p23s3w5">
 <src.rf>manual</src.rf>
@@ -12593,7 +12593,7 @@
 <LM>w#w-vesm9303-024-p23s3w6</LM>
 </w.rf>
 <form>nemoci</form>
-<tag lemma="nemoc_^(choroba)" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="nemoc" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p23s3w7">
 <src.rf>manual</src.rf>
@@ -12876,7 +12876,7 @@
 <LM>w#w-vesm9303-024-p23s3w41</LM>
 </w.rf>
 <form>úmrtnosti</form>
-<tag lemma="úmrtnost_,s_^(*3í)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="úmrtnost" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p23s3w42">
 <src.rf>manual</src.rf>
@@ -13014,7 +13014,7 @@
 <LM>w#w-vesm9303-024-p23s4w6</LM>
 </w.rf>
 <form>úmrtnosti</form>
-<tag lemma="úmrtnost_,s_^(*3í)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="úmrtnost" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p23s4w7">
 <src.rf>manual</src.rf>
@@ -13195,7 +13195,7 @@
 <LM>w#w-vesm9303-024-p23s5w16</LM>
 </w.rf>
 <form>úmrtnost</form>
-<tag lemma="úmrtnost_,s_^(*3í)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="úmrtnost" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p23s5w17">
 <src.rf>manual</src.rf>
@@ -13513,7 +13513,7 @@
 <LM>w#w-vesm9303-024-p26s1w7</LM>
 </w.rf>
 <form>úmrtnosti</form>
-<tag lemma="úmrtnost_,s_^(*3í)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="úmrtnost" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p26s1w8">
 <src.rf>manual</src.rf>
@@ -13699,7 +13699,7 @@
 <LM>w#w-vesm9303-024-p26s2w7</LM>
 </w.rf>
 <form>úmrtnosti</form>
-<tag lemma="úmrtnost_,s_^(*3í)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="úmrtnost" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p26s2w8">
 <src.rf>manual</src.rf>
@@ -13715,7 +13715,7 @@
 <LM>w#w-vesm9303-024-p26s2w9</LM>
 </w.rf>
 <form>nemoci</form>
-<tag lemma="nemoc_^(choroba)" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="nemoc" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p26s2w10">
 <src.rf>manual</src.rf>
@@ -13835,7 +13835,7 @@
 <LM>w#w-vesm9303-024-p26s2w24</LM>
 </w.rf>
 <form>nemoci</form>
-<tag lemma="nemoc_^(choroba)" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="nemoc" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p26s2w25">
 <src.rf>manual</src.rf>
@@ -14103,7 +14103,7 @@
 <LM>w#w-vesm9303-024-p26s4w13</LM>
 </w.rf>
 <form>otravy</form>
-<tag lemma="otrava" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="otrava-1" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p26s4w14">
 <src.rf>manual</src.rf>
@@ -15000,7 +15000,7 @@
 <LM>w#w-vesm9303-024-p27s1w2</LM>
 </w.rf>
 <form>rysy</form>
-<tag lemma="rys" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="rys-2" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p27s1w3">
 <src.rf>manual</src.rf>
@@ -15034,7 +15034,7 @@
 <LM>w#w-vesm9303-024-p28s1w2</LM>
 </w.rf>
 <form>úmrtnosti</form>
-<tag lemma="úmrtnost_,s_^(*3í)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="úmrtnost" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p28s1w3">
 <src.rf>manual</src.rf>
@@ -15175,7 +15175,7 @@
 <LM>w#w-vesm9303-024-p29s1w14</LM>
 </w.rf>
 <form>úmrtnosti</form>
-<tag lemma="úmrtnost_,s_^(*3í)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="úmrtnost" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p29s1w15">
 <src.rf>manual</src.rf>
@@ -15295,7 +15295,7 @@
 <LM>w#w-vesm9303-024-p29s1w29</LM>
 </w.rf>
 <form>úmrtnosti</form>
-<tag lemma="úmrtnost_,s_^(*3í)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="úmrtnost" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p29s1w30">
 <src.rf>manual</src.rf>
@@ -15614,7 +15614,7 @@
 <LM>w#w-vesm9303-024-p29s3w8</LM>
 </w.rf>
 <form>otravy</form>
-<tag lemma="otrava" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="otrava-1" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p29s3w9">
 <src.rf>manual</src.rf>
@@ -15806,7 +15806,7 @@
 <LM>w#w-vesm9303-024-p29s3w32</LM>
 </w.rf>
 <form>nemoci</form>
-<tag lemma="nemoc_^(choroba)" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="nemoc" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p29s3w33">
 <src.rf>manual</src.rf>
@@ -15944,7 +15944,7 @@
 <LM>w#w-vesm9303-024-p29s4w14</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p29s4w15">
 <src.rf>manual</src.rf>
@@ -15976,7 +15976,7 @@
 <LM>w#w-vesm9303-024-p29s4w18</LM>
 </w.rf>
 <form>úmrtnost</form>
-<tag lemma="úmrtnost_,s_^(*3í)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="úmrtnost" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p29s4w19">
 <src.rf>manual</src.rf>
@@ -16040,7 +16040,7 @@
 <LM>w#w-vesm9303-024-p29s4w26</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p29s4w27">
 <src.rf>manual</src.rf>
@@ -16144,7 +16144,7 @@
 <LM>w#w-vesm9303-024-p29s4w39</LM>
 </w.rf>
 <form>úmrtnosti</form>
-<tag lemma="úmrtnost_,s_^(*3í)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="úmrtnost" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p29s4w40">
 <src.rf>manual</src.rf>
@@ -16176,7 +16176,7 @@
 <LM>w#w-vesm9303-024-p29s4w43</LM>
 </w.rf>
 <form>úmrtnosti</form>
-<tag lemma="úmrtnost_,s_^(*3í)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="úmrtnost" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p29s4w44">
 <src.rf>manual</src.rf>
@@ -16242,7 +16242,7 @@
 <LM>w#w-vesm9303-024-p30s1w4</LM>
 </w.rf>
 <form>úmrtnosti</form>
-<tag lemma="úmrtnost_,s_^(*3í)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="úmrtnost" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p30s1w5">
 <src.rf>manual</src.rf>
@@ -16404,7 +16404,7 @@
 <LM>w#w-vesm9303-024-p30s2w2</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS1----------</tag>
 </m>
 <m id="m-vesm9303-024-p30s2w3">
 <src.rf>manual</src.rf>
@@ -16556,7 +16556,7 @@
 <LM>w#w-vesm9303-024-p30s2w21</LM>
 </w.rf>
 <form>úmrtnosti</form>
-<tag lemma="úmrtnost_,s_^(*3í)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="úmrtnost" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p30s2w22">
 <src.rf>manual</src.rf>
@@ -16612,7 +16612,7 @@
 <LM>w#w-vesm9303-024-p30s2w28</LM>
 </w.rf>
 <form>úmrtnosti</form>
-<tag lemma="úmrtnost_,s_^(*3í)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="úmrtnost" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p30s2w29">
 <src.rf>manual</src.rf>
@@ -16660,7 +16660,7 @@
 <LM>w#w-vesm9303-024-p30s2w34</LM>
 </w.rf>
 <form>druhý</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS1----------</tag>
 </m>
 <m id="m-vesm9303-024-p30s2w35">
 <src.rf>manual</src.rf>
@@ -16740,7 +16740,7 @@
 <LM>w#w-vesm9303-024-p30s2w44</LM>
 </w.rf>
 <form>úmrtnosti</form>
-<tag lemma="úmrtnost_,s_^(*3í)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="úmrtnost" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p30s2w45">
 <src.rf>manual</src.rf>
@@ -16820,7 +16820,7 @@
 <LM>w#w-vesm9303-024-p30s2w54</LM>
 </w.rf>
 <form>úmrtností</form>
-<tag lemma="úmrtnost_,s_^(*3í)" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="úmrtnost" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p30s2w55">
 <src.rf>manual</src.rf>
@@ -16836,7 +16836,7 @@
 <LM>w#w-vesm9303-024-p30s2w56</LM>
 </w.rf>
 <form>nemoci</form>
-<tag lemma="nemoc_^(choroba)" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="nemoc" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p30s2w57">
 <src.rf>manual</src.rf>
@@ -16884,7 +16884,7 @@
 <LM>w#w-vesm9303-024-p30s2w62</LM>
 </w.rf>
 <form>otravy</form>
-<tag lemma="otrava" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="otrava-1" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p30s2w63">
 <src.rf>manual</src.rf>
@@ -16928,7 +16928,7 @@
 <LM>w#w-vesm9303-024-p32s1w3</LM>
 </w.rf>
 <form>úmrtnosti</form>
-<tag lemma="úmrtnost_,s_^(*3í)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="úmrtnost" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p32s1w4">
 <src.rf>manual</src.rf>
@@ -16960,7 +16960,7 @@
 <LM>w#w-vesm9303-024-p32s1w7</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p32s1w8">
 <src.rf>manual</src.rf>
@@ -17056,7 +17056,7 @@
 <LM>w#w-vesm9303-024-p32s1w19</LM>
 </w.rf>
 <form>úmrtnost</form>
-<tag lemma="úmrtnost_,s_^(*3í)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="úmrtnost" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p32s1w20">
 <src.rf>manual</src.rf>
@@ -17072,7 +17072,7 @@
 <LM>w#w-vesm9303-024-p32s1w21</LM>
 </w.rf>
 <form>nemoci</form>
-<tag lemma="nemoc_^(choroba)" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="nemoc" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p32s1w22">
 <src.rf>manual</src.rf>
@@ -17210,7 +17210,7 @@
 <LM>w#w-vesm9303-024-p32s2w14</LM>
 </w.rf>
 <form>Evropy</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p32s2w15">
 <src.rf>manual</src.rf>
@@ -17250,7 +17250,7 @@
 <LM>w#w-vesm9303-024-p32s2w19</LM>
 </w.rf>
 <form>úmrtnosti</form>
-<tag lemma="úmrtnost_,s_^(*3í)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="úmrtnost" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p32s2w20">
 <src.rf>manual</src.rf>
@@ -17282,7 +17282,7 @@
 <LM>w#w-vesm9303-024-p32s2w23</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p32s2w24">
 <src.rf>manual</src.rf>
@@ -17338,7 +17338,7 @@
 <LM>w#w-vesm9303-024-p32s2w30</LM>
 </w.rf>
 <form>úmrtností</form>
-<tag lemma="úmrtnost_,s_^(*3í)" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="úmrtnost" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p32s2w31">
 <src.rf>manual</src.rf>
@@ -17373,7 +17373,7 @@
 <LM>w#w-vesm9303-024-p32s2w34</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-vesm9303-024-p32s2w35">
 <src.rf>manual</src.rf>
@@ -17536,7 +17536,7 @@
 <LM>w#w-vesm9303-024-p32s2w54</LM>
 </w.rf>
 <form>úmrtnosti</form>
-<tag lemma="úmrtnost_,s_^(*3í)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="úmrtnost" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p32s2w55">
 <src.rf>manual</src.rf>
@@ -17552,7 +17552,7 @@
 <LM>w#w-vesm9303-024-p32s2w56</LM>
 </w.rf>
 <form>nemoci</form>
-<tag lemma="nemoc_^(choroba)" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="nemoc" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p32s2w57">
 <src.rf>manual</src.rf>
@@ -17696,7 +17696,7 @@
 <LM>w#w-vesm9303-024-p32s3w9</LM>
 </w.rf>
 <form>Evropě</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-vesm9303-024-p32s3w10">
 <src.rf>manual</src.rf>

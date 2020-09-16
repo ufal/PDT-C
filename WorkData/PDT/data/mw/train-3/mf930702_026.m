@@ -447,7 +447,7 @@
 <LM>w#w-mf930702-026-p2s4w4</LM>
 </w.rf>
 <form>druhou</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS4----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS4----------</tag>
 </m>
 <m id="m-mf930702-026-p2s4w5">
 <src.rf>manual</src.rf>
@@ -497,7 +497,7 @@
 <LM>w#w-mf930702-026-p2s5w1</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrFS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS1----------</tag>
 </m>
 <m id="m-mf930702-026-p2s5w2">
 <src.rf>manual</src.rf>

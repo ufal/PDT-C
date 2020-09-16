@@ -181,7 +181,7 @@
 <LM>w#w-lnd91303-034-p3s1w12</LM>
 </w.rf>
 <form>členy</form>
-<tag lemma="člen" src="orig" selected="1">NNMP7-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-lnd91303-034-p3s1w13">
 <src.rf>manual</src.rf>
@@ -189,7 +189,7 @@
 <LM>w#w-lnd91303-034-p3s1w13</LM>
 </w.rf>
 <form>hnutí</form>
-<tag lemma="hnutí_^(mysli,politické,...)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="hnutí_^(*3out)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-lnd91303-034-p3s1w14">
 <src.rf>manual</src.rf>

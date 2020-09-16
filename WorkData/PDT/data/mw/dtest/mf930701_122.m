@@ -93,7 +93,7 @@
 <LM>w#w-mf930701-122-p1s2w5</LM>
 </w.rf>
 <form>WIMBLEDONU</form>
-<tag lemma="Wimbledon-2_^(tenis._turnaj)" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Wimbledon" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-mf930701-122-p1s2w6">
 <src.rf>manual</src.rf>
@@ -167,7 +167,7 @@
 <LM>w#w-mf930701-122-p2s1w4</LM>
 </w.rf>
 <form>našeho</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSZS2-P1-------</tag>
 </m>
 <m id="m-mf930701-122-p2s1w5">
 <src.rf>manual</src.rf>
@@ -1293,7 +1293,7 @@
 <LM>w#w-mf930701-122-p4s1w35</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrIP1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIP1----------</tag>
 </m>
 <m id="m-mf930701-122-p4s1w36">
 <src.rf>manual</src.rf>
@@ -1423,7 +1423,7 @@
 <LM>w#w-mf930701-122-p4s2w13</LM>
 </w.rf>
 <form>podání</form>
-<tag lemma="podání_^(něco_[někomu]_[někam])_(*3at)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="podání_^(*3at)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-mf930701-122-p4s2w14">
 <src.rf>manual</src.rf>
@@ -1807,7 +1807,7 @@
 <LM>w#w-mf930701-122-p4s6w17</LM>
 </w.rf>
 <form>podání</form>
-<tag lemma="podání_^(něco_[někomu]_[někam])_(*3at)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="podání_^(*3at)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-mf930701-122-p4s6w18">
 <src.rf>manual</src.rf>
@@ -1873,7 +1873,7 @@
 <LM>w#w-mf930701-122-p4s7w7</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-mf930701-122-p4s7w8">
 <src.rf>manual</src.rf>
@@ -1945,7 +1945,7 @@
 <LM>w#w-mf930701-122-p4s7w16</LM>
 </w.rf>
 <form>podání</form>
-<tag lemma="podání_^(něco_[někomu]_[někam])_(*3at)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="podání_^(*3at)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-mf930701-122-p4s7w17">
 <src.rf>manual</src.rf>
@@ -2352,7 +2352,7 @@
 <LM>w#w-mf930701-122-p4s9w12</LM>
 </w.rf>
 <form>game</form>
-<tag lemma="game_^(hra)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="game-1" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-mf930701-122-p4s9w13">
 <src.rf>manual</src.rf>
@@ -2408,7 +2408,7 @@
 <LM>w#w-mf930701-122-p4s9w19</LM>
 </w.rf>
 <form>dal</form>
-<tag lemma="dát" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930701-122-p4s9w20">
 <src.rf>manual</src.rf>
@@ -2650,7 +2650,7 @@
 <LM>w#w-mf930701-122-p5s1w20</LM>
 </w.rf>
 <form>Nejlepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAIS1----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAIS1----3A----</tag>
 </m>
 <m id="m-mf930701-122-p5s1w21">
 <src.rf>manual</src.rf>
@@ -2918,7 +2918,7 @@
 <LM>w#w-mf930701-122-p5s3w4</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-mf930701-122-p5s3w5">
 <src.rf>manual</src.rf>
@@ -3282,7 +3282,7 @@
 <LM>w#w-mf930701-122-p6s2w3</LM>
 </w.rf>
 <form>lepším</form>
-<tag lemma="dobrý" src="orig" selected="1">AAIS7----2A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAIS7----2A----</tag>
 </m>
 <m id="m-mf930701-122-p6s2w4">
 <src.rf>manual</src.rf>
@@ -3710,7 +3710,7 @@
 <LM>w#w-mf930701-122-p7s1w41</LM>
 </w.rf>
 <form>hodiny</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930701-122-p7s1w42">
 <src.rf>manual</src.rf>
@@ -3758,7 +3758,7 @@
 <LM>w#w-mf930701-122-p7s1w47</LM>
 </w.rf>
 <form>podání</form>
-<tag lemma="podání_^(něco_[někomu]_[někam])_(*3at)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="podání_^(*3at)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-mf930701-122-p7s1w48">
 <src.rf>manual</src.rf>
@@ -3774,7 +3774,7 @@
 <LM>w#w-mf930701-122-p7s1w49</LM>
 </w.rf>
 <form>prvnímu</form>
-<tag lemma="první" src="orig" selected="1">CrIS3----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS3----------</tag>
 </m>
 <m id="m-mf930701-122-p7s1w50">
 <src.rf>manual</src.rf>
@@ -3920,7 +3920,7 @@
 <LM>w#w-mf930701-122-p7s2w8</LM>
 </w.rf>
 <form>podávající</form>
-<tag lemma="podávající_^(něco_[někomu]_[někam])_(*4t)" src="auto" selected="1">AGMS1-----A----</tag>
+<tag lemma="podávající_^(*4t)" src="auto" selected="1">AGMS1-----A----</tag>
 </m>
 <m id="m-mf930701-122-p7s2w9">
 <src.rf>manual</src.rf>
@@ -4525,7 +4525,7 @@
 <LM>w#w-mf930701-122-p8s2w9</LM>
 </w.rf>
 <form>Novotná</form>
-<tag lemma="Novotná_;Y_^(*1ý)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Novotná_;Y" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930701-122-p8s2w10">
 <src.rf>manual</src.rf>

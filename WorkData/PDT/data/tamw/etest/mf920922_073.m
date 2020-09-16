@@ -104,7 +104,7 @@
 <LM>w#w-mf920922-073-p2s1w7</LM>
 </w.rf>
 <form>Leverkusen</form>
-<tag lemma="Leverkusen_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Leverkusen_;G_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920922-073-p2s1w8">
 <src.rf>manual</src.rf>
@@ -168,7 +168,7 @@
 <LM>w#w-mf920922-073-p2s1w15</LM>
 </w.rf>
 <form>Bochumi</form>
-<tag lemma="Bochum_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Bochum-1_;G" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf920922-073-p2s1w16">
 <src.rf>manual</src.rf>
@@ -709,7 +709,7 @@
 <LM>w#w-mf920922-073-p2s5w4</LM>
 </w.rf>
 <form>vypadalo</form>
-<tag lemma="vypadat" src="orig" selected="1">VpNS----R-AAI--</tag>
+<tag lemma="vypadat-1_^(ty_vypadáš)" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf920922-073-p2s5w5">
 <src.rf>manual</src.rf>

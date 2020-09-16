@@ -1378,7 +1378,7 @@
 <LM>w#w-ln94200-97-p4s4w13</LM>
 </w.rf>
 <form>práva</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln94200-97-p4s4w14">
 <src.rf>manual</src.rf>

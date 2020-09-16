@@ -77,7 +77,7 @@
 <LM>w#w-ln94203-86-p2s1Aw2</LM>
 </w.rf>
 <form>sympozium</form>
-<tag lemma="sympózium" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="sympozium" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94203-86-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -93,7 +93,7 @@
 <LM>w#w-ln94203-86-p2s1Aw4</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8YP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8YP4---------1</tag>
 </m>
 <m id="m-ln94203-86-p2s1Aw5">
 <src.rf>manual</src.rf>
@@ -169,7 +169,7 @@
 <LM>w#w-ln94203-86-p2s1Cw1</LM>
 </w.rf>
 <form>Druhý</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS1----------</tag>
 </m>
 <m id="m-ln94203-86-p2s1Cw2">
 <src.rf>manual</src.rf>
@@ -193,7 +193,7 @@
 <LM>w#w-ln94203-86-p2s1Cw4</LM>
 </w.rf>
 <form>sympozia</form>
-<tag lemma="sympózium" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="sympozium" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln94203-86-p2s1Cw5">
 <src.rf>manual</src.rf>
@@ -653,7 +653,7 @@
 <LM>w#w-ln94203-86-p2s4w8</LM>
 </w.rf>
 <form>nadšení</form>
-<tag lemma="nadšení_^(*4chnout)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="nadšení" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94203-86-p2s4w9">
 <src.rf>manual</src.rf>
@@ -759,7 +759,7 @@
 <LM>w#w-ln94203-86-p2s5w6</LM>
 </w.rf>
 <form>sympozia</form>
-<tag lemma="sympózium" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="sympozium" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln94203-86-p2s5w7">
 <src.rf>manual</src.rf>
@@ -1281,7 +1281,7 @@
 <LM>w#w-ln94203-86-p3s2w4</LM>
 </w.rf>
 <form>druhého</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS2----------</tag>
 </m>
 <m id="m-ln94203-86-p3s2w5">
 <src.rf>manual</src.rf>
@@ -1289,7 +1289,7 @@
 <LM>w#w-ln94203-86-p3s2w5</LM>
 </w.rf>
 <form>sympozia</form>
-<tag lemma="sympózium" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="sympozium" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln94203-86-p3s2w6">
 <src.rf>manual</src.rf>
@@ -1433,7 +1433,7 @@
 <LM>w#w-ln94203-86-p3s2w24</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln94203-86-p3s2w25">
 <src.rf>manual</src.rf>
@@ -1457,7 +1457,7 @@
 <LM>w#w-ln94203-86-p3s2w27</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS7---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS7---------1</tag>
 </m>
 <m id="m-ln94203-86-p3s2w28">
 <src.rf>manual</src.rf>
@@ -1694,7 +1694,7 @@
 <LM>w#w-ln94203-86-p4s1w12</LM>
 </w.rf>
 <form>sympozium</form>
-<tag lemma="sympózium" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="sympozium" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln94203-86-p4s1w13">
 <src.rf>manual</src.rf>
@@ -1806,7 +1806,7 @@
 <LM>w#w-ln94203-86-p4s1w26</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS2---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS2---------1</tag>
 </m>
 <m id="m-ln94203-86-p4s1w27">
 <src.rf>manual</src.rf>
@@ -1856,7 +1856,7 @@
 <LM>w#w-ln94203-86-p4s2w2</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP3----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP3----------</tag>
 </m>
 <m id="m-ln94203-86-p4s2w3">
 <src.rf>manual</src.rf>
@@ -1872,7 +1872,7 @@
 <LM>w#w-ln94203-86-p4s2w4</LM>
 </w.rf>
 <form>vypadajícím</form>
-<tag lemma="vypadající_^(*4t)" src="orig" selected="1">AGFP3-----A----</tag>
+<tag lemma="vypadající-1_^(*6t-1)" src="orig" selected="1">AGFP3-----A----</tag>
 </m>
 <m id="m-ln94203-86-p4s2w5">
 <src.rf>manual</src.rf>
@@ -2422,7 +2422,7 @@
 <LM>w#w-ln94203-86-p5s2w7</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-ln94203-86-p5s2w8">
 <src.rf>manual</src.rf>
@@ -2592,7 +2592,7 @@
 <LM>w#w-ln94203-86-p6s1w4</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS3---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS3---------1</tag>
 </m>
 <m id="m-ln94203-86-p6s1w5">
 <src.rf>manual</src.rf>
@@ -2884,7 +2884,7 @@
 <LM>w#w-ln94203-86-p6s3w11</LM>
 </w.rf>
 <form>orgán</form>
-<tag lemma="orgán" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln94203-86-p6s3w12">
 <src.rf>manual</src.rf>
@@ -2950,7 +2950,7 @@
 <LM>w#w-ln94203-86-p6s4w2</LM>
 </w.rf>
 <form>naše</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSHS1-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSHS1-P1-------</tag>
 </m>
 <m id="m-ln94203-86-p6s4w3">
 <src.rf>manual</src.rf>
@@ -3480,7 +3480,7 @@
 <LM>w#w-ln94203-86-p7s2w11</LM>
 </w.rf>
 <form>sympozia</form>
-<tag lemma="sympózium" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="sympozium" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln94203-86-p7s2w12">
 <src.rf>manual</src.rf>
@@ -3599,7 +3599,7 @@
 <LM>w#w-ln94203-86-p7s4w1</LM>
 </w.rf>
 <form>Svoji</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4----------</tag>
 </m>
 <m id="m-ln94203-86-p7s4w2">
 <src.rf>manual</src.rf>
@@ -4151,7 +4151,7 @@
 <LM>w#w-ln94203-86-p8s1w11</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP6----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP6----------</tag>
 </m>
 <m id="m-ln94203-86-p8s1w12">
 <src.rf>manual</src.rf>

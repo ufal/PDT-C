@@ -19,7 +19,7 @@
 <LM>w#w-ln95045-024-p1s1w1</LM>
 </w.rf>
 <form>Orlando</form>
-<tag lemma="Orlando_;G" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Orlando-1_;G" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln95045-024-p1s1w2">
 <src.rf>manual</src.rf>
@@ -203,7 +203,7 @@
 <LM>w#w-ln95045-024-p2s2w5</LM>
 </w.rf>
 <form>Philadelphií</form>
-<tag lemma="Philadelphia_;G" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Philadelphie_;G_,s_^(^DD**Filadelfie)" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln95045-024-p2s2w6">
 <src.rf>manual</src.rf>
@@ -713,7 +713,7 @@
 <LM>w#w-ln95045-024-p3s3w6</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8NS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8NS4---------1</tag>
 </m>
 <m id="m-ln95045-024-p3s3w7">
 <src.rf>manual</src.rf>

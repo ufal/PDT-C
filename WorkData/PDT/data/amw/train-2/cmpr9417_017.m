@@ -298,7 +298,7 @@
 <LM>w#w-cmpr9417-017-p3s2w16</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-cmpr9417-017-p3s2w17">
 <src.rf>manual</src.rf>
@@ -667,7 +667,7 @@
 <LM>w#w-cmpr9417-017-p4s3w6</LM>
 </w.rf>
 <form>našeho</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSZS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSZS2-P1-------</tag>
 </m>
 <m id="m-cmpr9417-017-p4s3w7">
 <src.rf>manual</src.rf>
@@ -865,7 +865,7 @@
 <LM>w#w-cmpr9417-017-p4s4w12</LM>
 </w.rf>
 <form>zveřejněného</form>
-<tag lemma="zveřejněný_^(*3it)" src="orig" selected="1">AAIS2----1A----</tag>
+<tag lemma="zveřejněný_^(*2t)_(*3it)" src="orig" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-cmpr9417-017-p4s4w13">
 <src.rf>manual</src.rf>

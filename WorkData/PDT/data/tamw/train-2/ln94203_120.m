@@ -53,7 +53,7 @@
 <LM>w#w-ln94203-120-p2s1w1</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrFS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS1----------</tag>
 </m>
 <m id="m-ln94203-120-p2s1w2">
 <src.rf>manual</src.rf>
@@ -738,7 +738,7 @@
 <LM>w#w-ln94203-120-p2s3w13</LM>
 </w.rf>
 <form>úvodním</form>
-<tag lemma="úvodní_,s" src="auto" selected="1">AAIS7----1A----</tag>
+<tag lemma="úvodní" src="auto" selected="1">AAIS7----1A----</tag>
 </m>
 <m id="m-ln94203-120-p2s3w14">
 <src.rf>manual</src.rf>

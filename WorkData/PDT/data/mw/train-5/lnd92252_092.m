@@ -691,7 +691,7 @@
 <LM>w#w-lnd92252-092-p4s2w34</LM>
 </w.rf>
 <form>Matějková</form>
-<tag lemma="Matějková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Matějková_;Y_^(*3a)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92252-092-p4s2w35">
 <src.rf>manual</src.rf>
@@ -766,7 +766,7 @@
 <LM>w#w-lnd92252-092-p4s2w43</LM>
 </w.rf>
 <form>Slovan</form>
-<tag lemma="Slovan-2_;m" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Slovan-2_;G_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92252-092-p4s2w44">
 <src.rf>manual</src.rf>
@@ -1090,7 +1090,7 @@
 <LM>w#w-lnd92252-092-p4s2w83</LM>
 </w.rf>
 <form>Slovan</form>
-<tag lemma="Slovan-2_;m" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Slovan-2_;G_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92252-092-p4s2w84">
 <src.rf>manual</src.rf>
@@ -1349,7 +1349,7 @@
 <LM>w#w-lnd92252-092-p4s2w115</LM>
 </w.rf>
 <form>Vodičková</form>
-<tag lemma="Vodičková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Vodičková_;Y_^(*3a)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92252-092-p4s2w116">
 <src.rf>manual</src.rf>
@@ -2128,7 +2128,7 @@
 <LM>w#w-lnd92252-092-p12s1w3</LM>
 </w.rf>
 <form>Slovan</form>
-<tag lemma="Slovan-2_;m" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Slovan-2_;G_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92252-092-p12s1w4">
 <src.rf>manual</src.rf>

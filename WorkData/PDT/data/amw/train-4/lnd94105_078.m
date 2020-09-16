@@ -851,7 +851,7 @@
 <LM>w#w-lnd94105-078-p1s9w12</LM>
 </w.rf>
 <form>naší</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS2-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS2-P1-------</tag>
 </m>
 <m id="m-lnd94105-078-p1s9w13">
 <src.rf>manual</src.rf>
@@ -904,7 +904,7 @@
 <LM>w#w-lnd94105-078-p1s10w4</LM>
 </w.rf>
 <form>spořitelny</form>
-<tag lemma="spořitelna_^(místo;_př._Česká_spořitelna)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="spořitelna" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94105-078-p1s10w5">
 <src.rf>manual</src.rf>

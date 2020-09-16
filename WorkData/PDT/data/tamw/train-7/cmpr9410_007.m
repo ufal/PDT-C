@@ -533,7 +533,7 @@
 <LM>w#w-cmpr9410-007-p5s1w5</LM>
 </w.rf>
 <form>Umění</form>
-<tag lemma="umění_^(mít_schopnost_něco_dělat)_(*2t)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="umění_^(*2t)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-cmpr9410-007-p5s1w6">
 <src.rf>manual</src.rf>

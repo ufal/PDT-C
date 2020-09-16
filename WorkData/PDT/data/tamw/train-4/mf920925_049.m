@@ -406,7 +406,7 @@
 <form>Cupu</form>
 <tag>
 <AM lemma="Cup-1_;m_,t_^(pohár,_soutěž;_v_názvech)" src="auto">NNIS2-----A----</AM>
-<AM lemma="Cup-1_;m_^(pohár,_soutěž;_v_názvech)" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="cup-1_^(pohár)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-049-p2s3w30">
@@ -583,7 +583,7 @@
 <LM>w#w-mf920925-049-p2s5w2</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrIS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS1----------</tag>
 </m>
 <m id="m-mf920925-049-p2s5w3">
 <src.rf>manual</src.rf>
@@ -599,7 +599,7 @@
 <LM>w#w-mf920925-049-p2s5w4</LM>
 </w.rf>
 <form>dal</form>
-<tag lemma="dát" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920925-049-p2s5w5">
 <src.rf>manual</src.rf>
@@ -647,7 +647,7 @@
 <LM>w#w-mf920925-049-p2s5w10</LM>
 </w.rf>
 <form>centr</form>
-<tag lemma="centr_^(sport:_hráč)" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="centr-2_^(sport_hráč)" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920925-049-p2s5w11">
 <src.rf>manual</src.rf>

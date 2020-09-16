@@ -486,7 +486,7 @@
 <LM>w#w-mf920902-032-p2s2w16</LM>
 </w.rf>
 <form>dotčených</form>
-<tag lemma="dotčený_^(fyz._i_abstr.,_př._drátů,_práv,_citů)_(*4knout)" src="orig" selected="1">AAFP2----1A----</tag>
+<tag lemma="dotčený" src="orig" selected="1">AAFP2----1A----</tag>
 </m>
 <m id="m-mf920902-032-p2s2w17">
 <src.rf>manual</src.rf>
@@ -604,7 +604,7 @@
 <LM>w#w-mf920902-032-p2s2w30</LM>
 </w.rf>
 <form>tajné</form>
-<tag lemma="tajný" src="orig" selected="1">AAFS2----1A----</tag>
+<tag lemma="tajný-1" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-mf920902-032-p2s2w31">
 <src.rf>manual</src.rf>
@@ -1004,7 +1004,7 @@
 <LM>w#w-mf920902-032-p2s4w19</LM>
 </w.rf>
 <form>archívu</form>
-<tag lemma="archív" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="archív_,s_^(^DD**archiv)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920902-032-p2s4w20">
 <src.rf>manual</src.rf>

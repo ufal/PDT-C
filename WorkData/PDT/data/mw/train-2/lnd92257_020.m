@@ -423,7 +423,7 @@
 <LM>w#w-lnd92257-020-p2s1w4</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FP4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FP4---------1</tag>
 </m>
 <m id="m-lnd92257-020-p2s1w5">
 <src.rf>manual</src.rf>
@@ -463,7 +463,7 @@
 <LM>w#w-lnd92257-020-p2s1w9</LM>
 </w.rf>
 <form>Smetanově</form>
-<tag lemma="Smetanův_;Y_^(*2a)" src="orig" selected="1">AUFS6M---------</tag>
+<tag lemma="Smetanův_;Y_^(*2)_(*2a)" src="orig" selected="1">AUFS6M---------</tag>
 </m>
 <m id="m-lnd92257-020-p2s1w10">
 <src.rf>manual</src.rf>

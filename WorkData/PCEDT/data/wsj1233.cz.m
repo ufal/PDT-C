@@ -289,7 +289,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1233-001-p1s1W7-Ta">
@@ -546,7 +546,7 @@
 <AM lemma="Barr_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Barr_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Barro_;G" src="auto">NNNP2-----A----</AM>
-<AM lemma="Barr_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Barr-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1233-001-p1s2W4-Ta">
@@ -605,7 +605,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1233-001-p1s2W10-Ta">
@@ -966,7 +966,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1233-001-p1s3W10-Ta">

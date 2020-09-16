@@ -199,7 +199,7 @@
 <LM>w#w-mf930709-131-p2s1Bw14</LM>
 </w.rf>
 <form>jejímž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1ZS7FS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1ZS7FS3-------</tag>
 </m>
 <m id="m-mf930709-131-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -207,7 +207,7 @@
 <LM>w#w-mf930709-131-p2s1Bw15</LM>
 </w.rf>
 <form>správním</form>
-<tag lemma="správní_^(např._poplatek;_rada;_řád;...)" src="orig" selected="1">AANS7----1A----</tag>
+<tag lemma="správní_^(správní_rada;_řád)" src="orig" selected="1">AANS7----1A----</tag>
 </m>
 <m id="m-mf930709-131-p2s1Bw16">
 <src.rf>manual</src.rf>
@@ -484,7 +484,7 @@
 <LM>w#w-mf930709-131-p4s1w11</LM>
 </w.rf>
 <form>vyhlášení</form>
-<tag lemma="vyhlášení_,a_^(*4sit)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="vyhlášení_^(*2t)_(*4sit)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf930709-131-p4s1w12">
 <src.rf>manual</src.rf>

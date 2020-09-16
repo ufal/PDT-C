@@ -182,7 +182,7 @@
 <LM>w#w-ln94210-70-p2s2w2</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrIS6----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS6----------</tag>
 </m>
 <m id="m-ln94210-70-p2s2w3">
 <src.rf>manual</src.rf>
@@ -406,7 +406,7 @@
 <LM>w#w-ln94210-70-p2s4w1</LM>
 </w.rf>
 <form>Druhý</form>
-<tag lemma="druhý" src="orig" selected="1">CrMS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrMS1----------</tag>
 </m>
 <m id="m-ln94210-70-p2s4w2">
 <src.rf>manual</src.rf>

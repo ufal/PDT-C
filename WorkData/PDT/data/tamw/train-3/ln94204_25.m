@@ -128,7 +128,7 @@
 <LM>w#w-ln94204-25-p2s1Aw9</LM>
 </w.rf>
 <form>favorit</form>
-<tag lemma="favorit-1_;m" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="favorit-1_^(vozidlo)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94204-25-p2s1B">
@@ -756,7 +756,7 @@
 <LM>w#w-ln94204-25-p4s1w9</LM>
 </w.rf>
 <form>málo</form>
-<tag lemma="málo-1_^(málo_+_2._p.,_málo_peněz)" src="orig" selected="1">Ca--4----------</tag>
+<tag lemma="málo-1_^(málo_peněz)" src="orig" selected="1">Ca--4----------</tag>
 </m>
 <m id="m-ln94204-25-p4s1w10">
 <src.rf>manual</src.rf>
@@ -808,7 +808,7 @@
 <LM>w#w-ln94204-25-p4s1w15</LM>
 </w.rf>
 <form>Evropě</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94204-25-p4s1w16">
 <src.rf>manual</src.rf>
@@ -1974,7 +1974,7 @@
 <LM>w#w-ln94204-25-p7s1w6</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94204-25-p7s1w7">
 <src.rf>manual</src.rf>
@@ -2049,7 +2049,7 @@
 <LM>w#w-ln94204-25-p7s1w15</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94204-25-p7s1w16">
 <src.rf>manual</src.rf>

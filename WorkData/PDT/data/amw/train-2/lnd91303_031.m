@@ -103,7 +103,7 @@
 <LM>w#w-lnd91303-031-p3s1w5</LM>
 </w.rf>
 <form>lahví</form>
-<tag lemma="lahev" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="lahev_,s_^(^DD**láhev)" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-lnd91303-031-p3s1w6">
 <src.rf>manual</src.rf>
@@ -448,7 +448,7 @@
 <LM>w#w-lnd91303-031-p3s4w1</LM>
 </w.rf>
 <form>Šampaňské</form>
-<tag lemma="šampaňské_^(víno)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="šampaňské-2_^(víno)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-lnd91303-031-p3s4w2">
 <src.rf>manual</src.rf>
@@ -1043,7 +1043,7 @@
 <LM>w#w-lnd91303-031-p3s6w30</LM>
 </w.rf>
 <form>šampaňské</form>
-<tag lemma="šampaňské_^(víno)" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="šampaňské-2_^(víno)" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-lnd91303-031-p3s6w31">
 <src.rf>manual</src.rf>

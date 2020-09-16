@@ -188,7 +188,7 @@
 <LM>w#w-ln94210-113-p2s1Cw2</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrIS7----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS7----------</tag>
 </m>
 <m id="m-ln94210-113-p2s1Cw3">
 <src.rf>manual</src.rf>
@@ -612,7 +612,7 @@
 <LM>w#w-ln94210-113-p2s3w4</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první" src="orig" selected="1">CrIS7----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS7----------</tag>
 </m>
 <m id="m-ln94210-113-p2s3w5">
 <src.rf>manual</src.rf>
@@ -858,7 +858,7 @@
 <LM>w#w-ln94210-113-p3s1w10</LM>
 </w.rf>
 <form>vrhačů</form>
-<tag lemma="vrhač" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="vrhač-2" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94210-113-p3s1w11">
 <src.rf>manual</src.rf>
@@ -1196,7 +1196,7 @@
 <LM>w#w-ln94210-113-p3s3w2</LM>
 </w.rf>
 <form>druhém</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS6----------</tag>
 </m>
 <m id="m-ln94210-113-p3s3w3">
 <src.rf>manual</src.rf>
@@ -1725,7 +1725,7 @@
 <form>eufórii</form>
 <tag>
 <AM lemma="euforie_,x" src="auto">NNFS6-----A----</AM>
-<AM lemma="eufórie_s_^(^DD**euforie)" src="manual" selected="1">NNFS6-----A----</AM>
+<AM lemma="eufórie_,s_^(^DD**euforie)" src="manual" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-113-p3s6w9">
@@ -1790,7 +1790,7 @@
 <LM>w#w-ln94210-113-p3s6w16</LM>
 </w.rf>
 <form>můj</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSYS1-S1-------</tag>
+<tag lemma="můj" src="orig" selected="1">PSYS1-S1-------</tag>
 </m>
 <m id="m-ln94210-113-p3s6w17">
 <src.rf>manual</src.rf>

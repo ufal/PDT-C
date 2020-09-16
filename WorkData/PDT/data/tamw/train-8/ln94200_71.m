@@ -244,7 +244,7 @@
 <form>Karolina</form>
 <tag>
 <AM lemma="Karolínum" src="orig">NNNS2-----A----</AM>
-<AM lemma="Karolinum" src="manual" selected="1">NNNS2-----A----</AM>
+<AM lemma="Karolinum_;G_;m" src="manual" selected="1">NNNS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-71-p2s1Bw21">
@@ -269,7 +269,7 @@
 <LM>w#w-ln94200-71-p2s1Bw23</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS7----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS7----------</tag>
 </m>
 <m id="m-ln94200-71-p2s1Bw24">
 <src.rf>manual</src.rf>
@@ -591,7 +591,7 @@
 <LM>w#w-ln94200-71-p2s3w19</LM>
 </w.rf>
 <form>Karlovy</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-ln94200-71-p2s3w20">
 <src.rf>manual</src.rf>
@@ -641,7 +641,7 @@
 <LM>w#w-ln94200-71-p2s4w5</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-ln94200-71-p2s4w6">
 <src.rf>manual</src.rf>

@@ -120,7 +120,7 @@
 <LM>w#w-ln94203-45-p2s1Aw8</LM>
 </w.rf>
 <form>nedá</form>
-<tag lemma="dát" src="orig" selected="1">VB-S---3P-NAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VB-S---3P-NAP--</tag>
 </m>
 <m id="m-ln94203-45-p2s1Aw9">
 <src.rf>manual</src.rf>
@@ -428,7 +428,7 @@
 <LM>w#w-ln94203-45-p2s2w4</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94203-45-p2s2w5">
 <src.rf>manual</src.rf>
@@ -1035,7 +1035,7 @@
 <LM>w#w-ln94203-45-p3s3w19</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-ln94203-45-p3s3w20">
 <src.rf>manual</src.rf>
@@ -1753,7 +1753,7 @@
 <LM>w#w-ln94203-45-p4s3w12</LM>
 </w.rf>
 <form>duch</form>
-<tag lemma="duch" src="auto" selected="1">NNIS4-----A----</tag>
+<tag lemma="duch-2" src="auto" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln94203-45-p4s3w13">
 <src.rf>manual</src.rf>
@@ -2357,7 +2357,7 @@
 <LM>w#w-ln94203-45-p5s3w5</LM>
 </w.rf>
 <form>managerskými</form>
-<tag lemma="manažerský" src="orig" selected="1">AAFP7----1A----</tag>
+<tag lemma="managerský_,s_^(^DD**manažerský)" src="orig" selected="1">AAFP7----1A----</tag>
 </m>
 <m id="m-ln94203-45-p5s3w6">
 <src.rf>manual</src.rf>
@@ -2535,7 +2535,7 @@
 <LM>w#w-ln94203-45-p5s4w6</LM>
 </w.rf>
 <form>civila</form>
-<tag lemma="civil_^(nevoják)" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="civil-2_^(nevoják)" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94203-45-p5s4w7">
 <src.rf>manual</src.rf>

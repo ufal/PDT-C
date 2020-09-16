@@ -359,7 +359,7 @@
 <LM>w#w-ln95047-130-p3s1w10</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS1FS3-------</tag>
 </m>
 <m id="m-ln95047-130-p3s1w11">
 <src.rf>manual</src.rf>
@@ -439,7 +439,7 @@
 <LM>w#w-ln95047-130-p3s1w20</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-3_^(u_soudu,_na_úřadě,_smluvní_strany;_na_něčí_straně)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95047-130-p3s1w21">
 <src.rf>manual</src.rf>

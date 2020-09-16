@@ -258,7 +258,7 @@
 <LM>w#w-ln95042-041-p2s1Bw22</LM>
 </w.rf>
 <form>členové</form>
-<tag lemma="člen" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln95042-041-p2s1Bw23">
 <src.rf>manual</src.rf>
@@ -290,7 +290,7 @@
 <LM>w#w-ln95042-041-p2s1Bw26</LM>
 </w.rf>
 <form>Miroslav</form>
-<tag lemma="Miroslav_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Miroslav-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-041-p2s1Bw27">
 <src.rf>manual</src.rf>

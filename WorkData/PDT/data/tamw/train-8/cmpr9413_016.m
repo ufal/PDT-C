@@ -3658,7 +3658,7 @@
 <LM>w#w-cmpr9413-016-p19s1w2</LM>
 </w.rf>
 <form>UMĚNÍ</form>
-<tag lemma="umění_^(mít_schopnost_něco_dělat)_(*2t)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="umění_^(*2t)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-cmpr9413-016-p19s1w3">
 <src.rf>manual</src.rf>

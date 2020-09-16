@@ -469,7 +469,7 @@
 <LM>w#w-ln94206-7-p2s3Bw11</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrIS1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS1----------</tag>
 </m>
 <m id="m-ln94206-7-p2s3Bw12">
 <src.rf>manual</src.rf>

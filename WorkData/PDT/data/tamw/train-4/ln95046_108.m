@@ -1336,7 +1336,7 @@
 <LM>w#w-ln95046-108-p4s4w18</LM>
 </w.rf>
 <form>archívu</form>
-<tag lemma="archív" src="orig" selected="1">NNIS6-----A---1</tag>
+<tag lemma="archív_,s_^(^DD**archiv)" src="orig" selected="1">NNIS6-----A---1</tag>
 </m>
 <m id="m-ln95046-108-p4s4w19">
 <src.rf>manual</src.rf>
@@ -2474,7 +2474,7 @@
 <LM>w#w-ln95046-108-p7s3w4</LM>
 </w.rf>
 <form>nesprávný</form>
-<tag lemma="správný_^(podle_něj._měřítek;_př._chlap,_míra,...)" src="orig" selected="1">AAIS1----1N----</tag>
+<tag lemma="správný" src="orig" selected="1">AAIS1----1N----</tag>
 </m>
 <m id="m-ln95046-108-p7s3w5">
 <src.rf>manual</src.rf>
@@ -2729,7 +2729,7 @@
 <form>třeba</form>
 <tag>
 <AM lemma="třeba-1" src="orig">ACNS------A----</AM>
-<AM lemma="třeba-2" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="třeba-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="třeba-3" src="auto">TT-------------</AM>
 </tag>
 </m>

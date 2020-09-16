@@ -93,7 +93,7 @@
 <LM>w#w-ln95043-036-p2s1w3</LM>
 </w.rf>
 <form>Bílá</form>
-<tag lemma="bílý" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="bílý_;o" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-ln95043-036-p2s1w4">
 <src.rf>manual</src.rf>
@@ -101,7 +101,7 @@
 <LM>w#w-ln95043-036-p2s1w4</LM>
 </w.rf>
 <form>nemoc</form>
-<tag lemma="nemoc_^(choroba)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="nemoc" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95043-036-p2s1w5">
 <src.rf>manual</src.rf>
@@ -168,7 +168,7 @@
 <tag>
 <AM lemma="Hugo-2_;G" src="auto">NNNS1-----A----</AM>
 <AM lemma="Hugo-1_;Y" src="manual">NNMS1-----A----</AM>
-<AM lemma="Hugo-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Hugo_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-036-p2s1w13">
@@ -639,7 +639,7 @@
 <LM>w#w-ln95043-036-p2s3w7</LM>
 </w.rf>
 <form>Mayor</form>
-<tag lemma="Mayor_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mayor-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-036-p2s3w8">
 <src.rf>manual</src.rf>
@@ -807,7 +807,7 @@
 <LM>w#w-ln95043-036-p2s3w28</LM>
 </w.rf>
 <form>druhá</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS1----------</tag>
 </m>
 <m id="m-ln95043-036-p2s3w29">
 <src.rf>manual</src.rf>
@@ -1067,7 +1067,7 @@
 <LM>w#w-ln95043-036-p2s5w4</LM>
 </w.rf>
 <form>mluvčího</form>
-<tag lemma="mluvčí" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="mluvčí-1" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95043-036-p2s5w5">
 <src.rf>manual</src.rf>
@@ -1206,7 +1206,7 @@
 <LM>w#w-ln95043-036-p2s5w21</LM>
 </w.rf>
 <form>archívu</form>
-<tag lemma="archív" src="orig" selected="1">NNIS3-----A----</tag>
+<tag lemma="archív_,s_^(^DD**archiv)" src="orig" selected="1">NNIS3-----A----</tag>
 </m>
 <m id="m-ln95043-036-p2s5w22">
 <src.rf>manual</src.rf>

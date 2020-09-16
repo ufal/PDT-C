@@ -950,7 +950,7 @@
 <LM>w#w-mf920924-138-p2s7w10</LM>
 </w.rf>
 <form>delší</form>
-<tag lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)" src="orig" selected="1">AAFS4----2A----</tag>
+<tag lemma="dlouhý_^(tyč;doba)" src="orig" selected="1">AAFS4----2A----</tag>
 </m>
 <m id="m-mf920924-138-p2s7w11">
 <src.rf>manual</src.rf>

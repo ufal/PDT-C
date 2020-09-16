@@ -339,7 +339,7 @@
 <LM>w#w-mf920924-092-p2s3w11</LM>
 </w.rf>
 <form>sekretáře</form>
-<tag lemma="sekretář" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="sekretář-2" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920924-092-p2s3w12">
 <src.rf>manual</src.rf>

@@ -402,7 +402,7 @@
 <AM lemma="Jong_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Jong_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Jong_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Jong_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Jong-2_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-046-p1s5w6">
@@ -569,7 +569,7 @@
 <LM>w#w-lnd94103-046-p1s5w25</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8MS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8MS4----------</tag>
 </m>
 <m id="m-lnd94103-046-p1s5w26">
 <src.rf>manual</src.rf>

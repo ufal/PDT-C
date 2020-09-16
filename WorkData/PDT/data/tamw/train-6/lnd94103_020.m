@@ -432,7 +432,7 @@
 <LM>w#w-lnd94103-020-p1s4w9</LM>
 </w.rf>
 <form>celnice</form>
-<tag lemma="celnice-2_^(místo_výkonu_služby)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="celnice_^(*3ík-1)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94103-020-p1s4w10">
 <src.rf>manual</src.rf>

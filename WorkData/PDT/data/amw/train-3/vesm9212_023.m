@@ -77,7 +77,7 @@
 <LM>w#w-vesm9212-023-p1s2w4</LM>
 </w.rf>
 <form>hraběte</form>
-<tag lemma="hrabě" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="hrabě-2" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-vesm9212-023-p1s2w5">
 <src.rf>manual</src.rf>
@@ -1465,7 +1465,7 @@
 <LM>w#w-vesm9212-023-p3s6w3</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-vesm9212-023-p3s6w4">
 <src.rf>manual</src.rf>
@@ -2123,7 +2123,7 @@
 <form>Neziderského</form>
 <tag>
 <AM lemma="Neziderský" src="orig">AANS2----1A----</AM>
-<AM lemma="neziderský" src="manual" selected="1">AANS2----1A----</AM>
+<AM lemma="Neziderský" src="manual" selected="1">AANS2----1A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-023-p5s1w4">
@@ -2152,7 +2152,7 @@
 <form>Neziderské</form>
 <tag>
 <AM lemma="Neziderský" src="orig">AANS1----1A----</AM>
-<AM lemma="neziderský" src="manual" selected="1">AANS1----1A----</AM>
+<AM lemma="Neziderský" src="manual" selected="1">AANS1----1A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-023-p5s2w3">
@@ -2217,7 +2217,7 @@
 <LM>w#w-vesm9212-023-p5s2w10</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-vesm9212-023-p5s2w11">
 <src.rf>manual</src.rf>
@@ -2305,7 +2305,7 @@
 <LM>w#w-vesm9212-023-p5s2w21</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-vesm9212-023-p5s2w22">
 <src.rf>manual</src.rf>
@@ -2329,7 +2329,7 @@
 <LM>w#w-vesm9212-023-p5s2w24</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS2---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS2---------1</tag>
 </m>
 <m id="m-vesm9212-023-p5s2w25">
 <src.rf>manual</src.rf>
@@ -2717,7 +2717,7 @@
 <LM>w#w-vesm9212-023-p5s4w18</LM>
 </w.rf>
 <form>Rábu</form>
-<tag lemma="Ráb_;G" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Ráb-2_;G" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-vesm9212-023-p5s4w19">
 <src.rf>manual</src.rf>
@@ -2743,7 +2743,7 @@
 <form>Neziderské</form>
 <tag>
 <AM lemma="Neziderský" src="orig">AANS4----1A----</AM>
-<AM lemma="neziderský" src="manual" selected="1">AANS1----1A----</AM>
+<AM lemma="Neziderský" src="manual" selected="1">AANS1----1A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-023-p5s4w22">
@@ -3180,7 +3180,7 @@
 <LM>w#w-vesm9212-023-p7s1w3</LM>
 </w.rf>
 <form>petrolej</form>
-<tag lemma="petrolej" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="petrolej-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-vesm9212-023-p7s1w4">
 <src.rf>manual</src.rf>
@@ -3332,7 +3332,7 @@
 <LM>w#w-vesm9212-023-p7s2w17</LM>
 </w.rf>
 <form>petrolej</form>
-<tag lemma="petrolej" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="petrolej-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-vesm9212-023-p7s2w18">
 <src.rf>manual</src.rf>

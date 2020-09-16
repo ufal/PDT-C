@@ -1014,7 +1014,7 @@
 <LM>w#w-cmpr9407-026-p22s12w12</LM>
 </w.rf>
 <form>Milíčova</form>
-<tag lemma="Milíčův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Milíčův-1_;Y_^(*4-1)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-cmpr9407-026-p22s12w13">
 <src.rf>manual</src.rf>
@@ -1288,7 +1288,7 @@
 <LM>w#w-cmpr9407-026-p23s1w13</LM>
 </w.rf>
 <form>manažera</form>
-<tag lemma="manažer" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="manažer-1" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-cmpr9407-026-p23s1w14">
 <src.rf>manual</src.rf>
@@ -1444,7 +1444,7 @@
 <tag>
 <AM lemma="management_,t_^(vedení,_manažment;_angl.)" src="orig">NNIS1-----A----</AM>
 <AM lemma="management_^(vedení,_manažment;_angl.)" src="manual">NNIS1-----A----</AM>
-<AM lemma="management" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="management_,s_^(^DD**manažment)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-026-p23s1w33">
@@ -1543,7 +1543,7 @@
 <form>management</form>
 <tag>
 <AM lemma="management_,t_^(vedení,_manažment;_angl.)" src="orig">NNIS1-----A----</AM>
-<AM lemma="management" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="management_,s_^(^DD**manažment)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-026-p23s1w45">
@@ -1677,7 +1677,7 @@
 <LM>w#w-cmpr9407-026-p23s5w12</LM>
 </w.rf>
 <form>Milíčova</form>
-<tag lemma="Milíčův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Milíčův-1_;Y_^(*4-1)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-cmpr9407-026-p23s5w13">
 <src.rf>manual</src.rf>

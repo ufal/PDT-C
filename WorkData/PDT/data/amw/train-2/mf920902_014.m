@@ -591,7 +591,7 @@
 <LM>w#w-mf920902-014-p2s4w8</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-mf920902-014-p2s4w9">
 <src.rf>manual</src.rf>

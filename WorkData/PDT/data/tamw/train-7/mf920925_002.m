@@ -35,7 +35,7 @@
 <LM>w#w-mf920925-002-p1s1w3</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-mf920925-002-p1s1w4">
 <src.rf>manual</src.rf>

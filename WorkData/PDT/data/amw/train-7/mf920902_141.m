@@ -570,7 +570,7 @@
 <LM>w#w-mf920902-141-p2s4w3</LM>
 </w.rf>
 <form>Dobrinji</form>
-<tag lemma="Dobrinj_;G" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Dobrinj-2_;G" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-mf920902-141-p2s4w4">
 <src.rf>manual</src.rf>
@@ -608,7 +608,7 @@
 <AM lemma="raněný_^(poranit)_(*3it)" src="auto">AAFP6----1A----</AM>
 <AM lemma="raněný_^(poranit)_(*3it)" src="auto">AAIP2----1A----</AM>
 <AM lemma="raněný_^(poranit)_(*3it)" src="auto">AAIP6----1A----</AM>
-<AM lemma="raněný_^(poranit)_(*3it)" src="auto" recommended="1" selected="1">AAMP2----1A----</AM>
+<AM lemma="raněný_^(*3it)" src="auto" recommended="1" selected="1">AAMP2----1A----</AM>
 <AM lemma="raněný_^(poranit)_(*3it)" src="auto">AAMP6----1A----</AM>
 <AM lemma="raněný_^(poranit)_(*3it)" src="auto">AANP2----1A----</AM>
 <AM lemma="raněný_^(poranit)_(*3it)" src="auto">AANP6----1A----</AM>
@@ -2647,7 +2647,7 @@
 <LM>w#w-mf920902-141-p2s18w13</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS2---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS2---------1</tag>
 </m>
 <m id="m-mf920902-141-p2s18w14">
 <src.rf>manual</src.rf>
@@ -2671,7 +2671,7 @@
 <LM>w#w-mf920902-141-p2s18w16</LM>
 </w.rf>
 <form>výbor</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-mf920902-141-p2s18w17">
 <src.rf>manual</src.rf>

@@ -795,7 +795,7 @@
 <LM>w#w-ln94201-47-p3s1w37</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94201-47-p3s1w38">
 <src.rf>manual</src.rf>
@@ -1154,7 +1154,7 @@
 <LM>w#w-ln94201-47-p4s2w20</LM>
 </w.rf>
 <form>politiky</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94201-47-p4s2w21">
 <src.rf>manual</src.rf>
@@ -1316,7 +1316,7 @@
 <LM>w#w-ln94201-47-p5s1w16</LM>
 </w.rf>
 <form>Bílého</form>
-<tag lemma="bílý" src="orig" selected="1">AAIS2----1A----</tag>
+<tag lemma="bílý_;o" src="orig" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-ln94201-47-p5s1w17">
 <src.rf>manual</src.rf>
@@ -1356,7 +1356,7 @@
 <LM>w#w-ln94201-47-p5s1w21</LM>
 </w.rf>
 <form>Warrena</form>
-<tag lemma="Warren_;Y" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Warren-1_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94201-47-p5s1w22">
 <src.rf>manual</src.rf>
@@ -1415,7 +1415,7 @@
 <LM>w#w-ln94201-47-p5s1w28</LM>
 </w.rf>
 <form>Barbaře</form>
-<tag lemma="Barbara_;Y" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Barbara_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94201-47-p5s1w29">
 <src.rf>manual</src.rf>
@@ -1810,7 +1810,7 @@
 <LM>w#w-ln94201-47-p7s1w1</LM>
 </w.rf>
 <form>Zostřená</form>
-<tag lemma="zostřený_^(*2t)" src="auto" selected="1">AANP1----1A----</tag>
+<tag lemma="zostřený_^(*2t)_(*3it)" src="auto" selected="1">AANP1----1A----</tag>
 </m>
 <m id="m-ln94201-47-p7s1w2">
 <src.rf>manual</src.rf>
@@ -2104,7 +2104,7 @@
 <LM>w#w-ln94201-47-p7s1w35</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94201-47-p7s1w36">
 <src.rf>manual</src.rf>

@@ -471,7 +471,7 @@
 <LM>w#w-cmpr9413-040-p5s1w8</LM>
 </w.rf>
 <form>indikátor</form>
-<tag lemma="indikátor" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="indikátor-1" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-cmpr9413-040-p5s1w9">
 <src.rf>manual</src.rf>
@@ -641,7 +641,7 @@
 <LM>w#w-cmpr9413-040-p5s2w2</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS7----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS7----------</tag>
 </m>
 <m id="m-cmpr9413-040-p5s2w3">
 <src.rf>manual</src.rf>
@@ -928,7 +928,7 @@
 <LM>w#w-cmpr9413-040-p7s1w3</LM>
 </w.rf>
 <form>rysem</form>
-<tag lemma="rys" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="rys-2" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-cmpr9413-040-p7s1w4">
 <src.rf>manual</src.rf>
@@ -3541,7 +3541,7 @@
 <LM>w#w-cmpr9413-040-p11s4w25</LM>
 </w.rf>
 <form>kaolinu</form>
-<tag lemma="kaolín" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="kaolin_,s_^(^DD**kaolín)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-cmpr9413-040-p11s4w26">
 <src.rf>manual</src.rf>
@@ -4597,7 +4597,7 @@
 <LM>w#w-cmpr9413-040-p15s1w2</LM>
 </w.rf>
 <form>Veverková</form>
-<tag lemma="Veverková_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Veverková_;Y_^(*3a)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9413-040-p15s1w3">
 <src.rf>manual</src.rf>

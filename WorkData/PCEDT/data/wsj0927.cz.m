@@ -591,7 +591,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0927-001-p1s1W20-Ta">
@@ -1156,7 +1156,7 @@
 <AM lemma="starost-2_^(člověk,_věc)_(péče,_neklid)_(*5ý-2)" src="auto">NNFS2-----A----</AM>
 <AM lemma="starost-2_^(člověk,_věc)_(péče,_neklid)_(*5ý-2)" src="auto">NNFS3-----A----</AM>
 <AM lemma="starost-2_^(člověk,_věc)_(péče,_neklid)_(*5ý-2)" src="auto">NNFS5-----A----</AM>
-<AM lemma="starost-2_^(člověk,_věc)_(péče,_neklid)_(*5ý-2)" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="starost-2_^(*5ý-2)" src="auto" recommended="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0927-001-p1s2W32-Ta">
@@ -1304,7 +1304,7 @@
 <tag>
 <AM lemma="let" src="auto">NNIS1-----A----</AM>
 <AM lemma="let" src="auto">NNIS4-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="léta" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0927-001-p1s3W10-Ta">
@@ -1402,7 +1402,7 @@
 </w.rf>
 <form>prvních</form>
 <tag>
-<AM lemma="první" src="auto" recommended="1">CrFP2----------</AM>
+<AM lemma="první-1" src="auto" recommended="1">CrFP2----------</AM>
 <AM lemma="první" src="auto">CrFP6----------</AM>
 <AM lemma="první" src="auto">CrIP2----------</AM>
 <AM lemma="první" src="auto">CrIP6----------</AM>
@@ -1706,7 +1706,7 @@
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS1---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS4---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS5---------1</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8YP4---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8YP4---------1</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOFP-----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOIP-----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AONS-----------</AM>
@@ -2334,7 +2334,7 @@
 </w.rf>
 <form>našich</form>
 <tag>
-<AM lemma="můj_^(přivlast.)" src="auto" recommended="1">PSXP2-P1-------</AM>
+<AM lemma="náš" src="auto" recommended="1">PSXP2-P1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSXP6-P1-------</AM>
 </tag>
 </m>
@@ -3378,7 +3378,7 @@
 <form>nás</form>
 <tag>
 <AM lemma="já" src="auto">PP-P2--1-------</AM>
-<AM lemma="já" src="auto" recommended="1">PP-P4--1-------</AM>
+<AM lemma="my" src="auto" recommended="1">PP-P4--1-------</AM>
 <AM lemma="já" src="auto">PP-P6--1-------</AM>
 </tag>
 </m>
@@ -5249,7 +5249,7 @@
 <AM lemma="York-2_;G" src="auto">NNIS2-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS5-----A----</AM>
-<AM lemma="York-2_;G" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="York-2_;G_;m" src="auto" recommended="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0927-001-p1s19W7-Ta">
@@ -6285,7 +6285,7 @@
 <AM lemma="starající_^(se)_(*4t)" src="auto">AGFS1-----A----</AM>
 <AM lemma="starající_^(se)_(*4t)" src="auto">AGFS2-----A----</AM>
 <AM lemma="starající_^(se)_(*4t)" src="auto">AGFS3-----A----</AM>
-<AM lemma="starající_^(se)_(*4t)" src="auto" recommended="1">AGFS4-----A----</AM>
+<AM lemma="starající_^(*4t)" src="auto" recommended="1">AGFS4-----A----</AM>
 <AM lemma="starající_^(se)_(*4t)" src="auto">AGFS5-----A----</AM>
 <AM lemma="starající_^(se)_(*4t)" src="auto">AGFS6-----A----</AM>
 <AM lemma="starající_^(se)_(*4t)" src="auto">AGFS7-----A----</AM>
@@ -7486,7 +7486,7 @@
 <AM lemma="starající_^(se)_(*4t)" src="auto">AGFS1-----A----</AM>
 <AM lemma="starající_^(se)_(*4t)" src="auto">AGFS2-----A----</AM>
 <AM lemma="starající_^(se)_(*4t)" src="auto">AGFS3-----A----</AM>
-<AM lemma="starající_^(se)_(*4t)" src="auto" recommended="1">AGFS4-----A----</AM>
+<AM lemma="starající_^(*4t)" src="auto" recommended="1">AGFS4-----A----</AM>
 <AM lemma="starající_^(se)_(*4t)" src="auto">AGFS5-----A----</AM>
 <AM lemma="starající_^(se)_(*4t)" src="auto">AGFS6-----A----</AM>
 <AM lemma="starající_^(se)_(*4t)" src="auto">AGFS7-----A----</AM>

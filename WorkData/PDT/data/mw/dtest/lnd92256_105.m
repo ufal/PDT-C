@@ -101,7 +101,7 @@
 <LM>w#w-lnd92256-105-p2s1w8</LM>
 </w.rf>
 <form>míří</form>
-<tag lemma="mířit_^(např._pistolí;_směřovat;_tvar_slovesa)" src="orig" selected="1">VB-P---3P-AAI--</tag>
+<tag lemma="mířit" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd92256-105-p2s1w9">
 <src.rf>manual</src.rf>
@@ -777,7 +777,7 @@
 <LM>w#w-lnd92256-105-p2s4w13</LM>
 </w.rf>
 <form>Mattu</form>
-<tag lemma="Matta_;Y" src="auto" selected="1">NNMS4-----A----</tag>
+<tag lemma="Matta-1_;Y" src="auto" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd92256-105-p2s4w14">
 <src.rf>manual</src.rf>

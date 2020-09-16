@@ -53,7 +53,7 @@
 <LM>w#w-ln95042-046-p2s1Aw1</LM>
 </w.rf>
 <form>Kapské</form>
-<tag lemma="kapský_;G" src="orig" selected="1">AANS1----1A----</tag>
+<tag lemma="kapský" src="orig" selected="1">AANS1----1A----</tag>
 </m>
 <m id="m-ln95042-046-p2s1Aw2">
 <src.rf>manual</src.rf>
@@ -183,7 +183,7 @@
 <LM>w#w-ln95042-046-p2s1Bw14</LM>
 </w.rf>
 <form>Kapském</form>
-<tag lemma="kapský_;G" src="orig" selected="1">AANS6----1A----</tag>
+<tag lemma="kapský" src="orig" selected="1">AANS6----1A----</tag>
 </m>
 <m id="m-ln95042-046-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -199,7 +199,7 @@
 <LM>w#w-ln95042-046-p2s1Bw16</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrNS4----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrNS4----------</tag>
 </m>
 <m id="m-ln95042-046-p2s1Bw17">
 <src.rf>manual</src.rf>
@@ -215,7 +215,7 @@
 <LM>w#w-ln95042-046-p2s1Bw18</LM>
 </w.rf>
 <form>prvního</form>
-<tag lemma="první" src="orig" selected="1">CrIS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS2----------</tag>
 </m>
 <m id="m-ln95042-046-p2s1Bw19">
 <src.rf>manual</src.rf>

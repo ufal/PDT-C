@@ -126,7 +126,7 @@
 <LM>w#w-mf930713-132-p1s1w14</LM>
 </w.rf>
 <form>Černých</form>
-<tag lemma="černý" src="auto" selected="1">AANP6----1A----</tag>
+<tag lemma="černý_;o" src="auto" selected="1">AANP6----1A----</tag>
 </m>
 <m id="m-mf930713-132-p1s1w15">
 <src.rf>manual</src.rf>

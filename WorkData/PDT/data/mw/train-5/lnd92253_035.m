@@ -500,7 +500,7 @@
 <LM>w#w-lnd92253-035-p1s2w41</LM>
 </w.rf>
 <form>práva</form>
-<tag lemma="právo_^(právo_na_něco;_také_jako_obor)" src="orig" selected="1">NNNP4-----A----</tag>
+<tag lemma="právo" src="orig" selected="1">NNNP4-----A----</tag>
 </m>
 <m id="m-lnd92253-035-p1s2w42">
 <src.rf>manual</src.rf>

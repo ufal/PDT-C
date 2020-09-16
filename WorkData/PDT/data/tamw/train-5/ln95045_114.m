@@ -217,7 +217,7 @@
 <LM>w#w-ln95045-114-p2s2w1</LM>
 </w.rf>
 <form>Její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9ZS1FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9ZS1FS3-------</tag>
 </m>
 <m id="m-ln95045-114-p2s2w2">
 <src.rf>manual</src.rf>
@@ -346,7 +346,7 @@
 <LM>w#w-ln95045-114-p2s2w17</LM>
 </w.rf>
 <form>zdaněním</form>
-<tag lemma="zdanění_^(vypočítat_daň)_(*3it)" src="auto" selected="1">NNNS7-----A----</tag>
+<tag lemma="zdanění_^(*3it)" src="auto" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-ln95045-114-p2s2w18">
 <src.rf>manual</src.rf>

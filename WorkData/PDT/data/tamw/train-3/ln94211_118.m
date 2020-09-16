@@ -165,7 +165,7 @@
 <LM>w#w-ln94211-118-p2s1Bw6</LM>
 </w.rf>
 <form>podaných</form>
-<tag lemma="podaný_^(něco_[někomu]_[někam])_(*2t)" src="orig" selected="1">AAFP2----1A----</tag>
+<tag lemma="podaný_^(*2t)" src="orig" selected="1">AAFP2----1A----</tag>
 </m>
 <m id="m-ln94211-118-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -232,7 +232,7 @@
 <LM>w#w-ln94211-118-p2s1Bw14</LM>
 </w.rf>
 <form>prvních</form>
-<tag lemma="první" src="orig" selected="1">CrIP2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIP2----------</tag>
 </m>
 <m id="m-ln94211-118-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -671,7 +671,7 @@
 <LM>w#w-ln94211-118-p3s1w16</LM>
 </w.rf>
 <form>zasilatelských</form>
-<tag lemma="zasílatelský" src="orig" selected="1">AAFP2----1A----</tag>
+<tag lemma="zasilatelský_,s_^(^DD**zasílatelský)" src="orig" selected="1">AAFP2----1A----</tag>
 </m>
 <m id="m-ln94211-118-p3s1w17">
 <src.rf>manual</src.rf>
@@ -1425,7 +1425,7 @@
 <LM>w#w-ln94211-118-p4s5w1</LM>
 </w.rf>
 <form>První</form>
-<tag lemma="první" src="orig" selected="1">CrIS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIS4----------</tag>
 </m>
 <m id="m-ln94211-118-p4s5w2">
 <src.rf>manual</src.rf>

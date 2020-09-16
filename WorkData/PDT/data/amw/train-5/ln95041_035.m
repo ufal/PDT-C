@@ -77,7 +77,7 @@
 <LM>w#w-ln95041-035-p2s1w3</LM>
 </w.rf>
 <form>dala</form>
-<tag lemma="dát" src="orig" selected="1">VpQW----R-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95041-035-p2s1w4">
 <src.rf>manual</src.rf>

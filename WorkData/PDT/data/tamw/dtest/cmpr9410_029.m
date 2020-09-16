@@ -276,7 +276,7 @@
 <LM>w#w-cmpr9410-029-p3s2w9</LM>
 </w.rf>
 <form>zvýraznění</form>
-<tag lemma="zvýraznění_^(*3it)" src="orig" selected="1">NNNS3-----A----</tag>
+<tag lemma="zvýraznění_^(*2t)_(*3it)" src="orig" selected="1">NNNS3-----A----</tag>
 </m>
 <m id="m-cmpr9410-029-p3s2w10">
 <src.rf>manual</src.rf>
@@ -777,7 +777,7 @@
 <LM>w#w-cmpr9410-029-p7s1w5</LM>
 </w.rf>
 <form>jejíž</form>
-<tag lemma="jenž_^(který...[ve_vedl._větě])" src="orig" selected="1">P1ZS1FS3-------</tag>
+<tag lemma="jehož" src="orig" selected="1">P1ZS1FS3-------</tag>
 </m>
 <m id="m-cmpr9410-029-p7s1w6">
 <src.rf>manual</src.rf>
@@ -1003,7 +1003,7 @@
 <LM>w#w-cmpr9410-029-p7s2w15</LM>
 </w.rf>
 <form>dá</form>
-<tag lemma="dát" src="orig" selected="1">VB-S---3P-AAP--</tag>
+<tag lemma="dát-1" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-cmpr9410-029-p7s2w16">
 <src.rf>manual</src.rf>
@@ -1601,7 +1601,7 @@
 <LM>w#w-cmpr9410-029-p11s1w19</LM>
 </w.rf>
 <form>Zlatá</form>
-<tag lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="zlatý-1_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-cmpr9410-029-p11s1w20">
 <src.rf>manual</src.rf>
@@ -2024,7 +2024,7 @@
 <LM>w#w-cmpr9410-029-p12s1w10</LM>
 </w.rf>
 <form>Pavelkova</form>
-<tag lemma="Pavelkův_;Y_^(*3ek)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Pavelkův_;Y_^(*2a)_(*3ek)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-cmpr9410-029-p12s1w11">
 <src.rf>manual</src.rf>

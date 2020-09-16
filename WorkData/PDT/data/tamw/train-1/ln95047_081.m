@@ -326,7 +326,7 @@
 <LM>w#w-ln95047-081-p2s2w11</LM>
 </w.rf>
 <form>Sofie</form>
-<tag lemma="Sofie-1_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Sofie_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95047-081-p2s2w12">
 <src.rf>manual</src.rf>
@@ -502,7 +502,7 @@
 <LM>w#w-ln95047-081-p2s3w17</LM>
 </w.rf>
 <form>zlatých</form>
-<tag lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAMP2----1A----</tag>
+<tag lemma="zlatý-1_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAMP2----1A----</tag>
 </m>
 <m id="m-ln95047-081-p2s3w18">
 <src.rf>manual</src.rf>
@@ -510,7 +510,7 @@
 <LM>w#w-ln95047-081-p2s3w18</LM>
 </w.rf>
 <form>bažantů</form>
-<tag lemma="bažant" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="bažant-1" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln95047-081-p2s3w19">
 <src.rf>manual</src.rf>

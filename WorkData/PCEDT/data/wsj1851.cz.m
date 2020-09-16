@@ -266,7 +266,7 @@
 <tag>
 <AM lemma="Kenton_;G" src="auto">NNIS2-----A----</AM>
 <AM lemma="Kenton_;G" src="auto">NNIS3-----A----</AM>
-<AM lemma="Kenton_;G" src="auto" recommended="1">NNIS6-----A---1</AM>
+<AM lemma="Kenton-2_;G" src="auto" recommended="1">NNIS6-----A---1</AM>
 <AM lemma="Kenton_;Y" src="auto">NNMS3-----A---1</AM>
 <AM lemma="Kenton_;Y" src="auto">NNMS6-----A---1</AM>
 </tag>
@@ -358,7 +358,7 @@
 </w.rf>
 <form>jehož</form>
 <tag>
-<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">P1XXXZS3-------</AM>
+<AM lemma="jehož" src="auto" recommended="1">P1XXXZS3-------</AM>
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">PJMS4----------</AM>
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">PJZS2----------</AM>
 </tag>

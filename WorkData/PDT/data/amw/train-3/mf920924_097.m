@@ -51,7 +51,7 @@
 <LM>w#w-mf920924-097-p1s1w5</LM>
 </w.rf>
 <form>míří</form>
-<tag lemma="mířit_^(např._pistolí;_směřovat;_tvar_slovesa)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="mířit" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920924-097-p1s1w6">
 <src.rf>manual</src.rf>

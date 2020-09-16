@@ -161,7 +161,7 @@
 </w.rf>
 <form>svou</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8FS4---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8FS4---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS7---------1</AM>
 </tag>
 </m>
@@ -2341,7 +2341,7 @@
 </w.rf>
 <form>navržená</form>
 <tag>
-<AM lemma="navržený_^(*4hnout)" src="auto" recommended="1">AAFS1----1A----</AM>
+<AM lemma="navržený" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="navržený_^(*4hnout)" src="auto">AAFS5----1A----</AM>
 <AM lemma="navržený_^(*4hnout)" src="auto">AANP1----1A----</AM>
 <AM lemma="navržený_^(*4hnout)" src="auto">AANP4----1A----</AM>
@@ -2568,7 +2568,7 @@
 <form>Ottawě</form>
 <tag>
 <AM lemma="Ottawa_;G" src="auto">NNFS3-----A----</AM>
-<AM lemma="Ottawa_;G" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="Ottawa-1_;G" src="auto" recommended="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1938-001-p1s8W13-Ta">

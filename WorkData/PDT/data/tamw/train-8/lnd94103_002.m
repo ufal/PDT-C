@@ -242,7 +242,7 @@
 <LM>w#w-lnd94103-002-p1s3w17</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS7----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS7----------</tag>
 </m>
 <m id="m-lnd94103-002-p1s3w18">
 <src.rf>manual</src.rf>
@@ -274,7 +274,7 @@
 <LM>w#w-lnd94103-002-p1s3w21</LM>
 </w.rf>
 <form>diskusí</form>
-<tag lemma="diskuse" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="diskuse_,s_^(^DD**diskuze)" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-lnd94103-002-p1s3w22">
 <src.rf>manual</src.rf>

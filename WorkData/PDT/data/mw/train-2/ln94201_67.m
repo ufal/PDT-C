@@ -19,7 +19,7 @@
 <LM>w#w-ln94201-67-p1s1w1</LM>
 </w.rf>
 <form>Bugno</form>
-<tag lemma="Bugno_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bugno-2_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-67-p1s1w2">
 <src.rf>manual</src.rf>
@@ -109,7 +109,7 @@
 <LM>w#w-ln94201-67-p2s1w10</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94201-67-p2s1w11">
 <src.rf>manual</src.rf>
@@ -152,7 +152,7 @@
 <LM>w#w-ln94201-67-p2s1w15</LM>
 </w.rf>
 <form>Bugno</form>
-<tag lemma="Bugno_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bugno-2_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-67-p2s1w16">
 <src.rf>manual</src.rf>
@@ -208,7 +208,7 @@
 <LM>w#w-ln94201-67-p2s1w22</LM>
 </w.rf>
 <form>prostředku</form>
-<tag lemma="prostředek-2_^(způsob,_nástroj)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="prostředek_^(střed,způsob,_nástroj)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94201-67-p2s1w23">
 <src.rf>manual</src.rf>
@@ -385,7 +385,7 @@
 <LM>w#w-ln94201-67-p2s4w1</LM>
 </w.rf>
 <form>Bugno</form>
-<tag lemma="Bugno_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bugno-2_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-67-p2s4w2">
 <src.rf>manual</src.rf>
@@ -409,7 +409,7 @@
 <LM>w#w-ln94201-67-p2s4w4</LM>
 </w.rf>
 <form>dopinkový</form>
-<tag lemma="dopinkový" src="orig" selected="1">AAIS4----1A----</tag>
+<tag lemma="dopinkový_,s_^(^DD**dopingový)" src="orig" selected="1">AAIS4----1A----</tag>
 </m>
 <m id="m-ln94201-67-p2s4w5">
 <src.rf>manual</src.rf>
@@ -574,7 +574,7 @@
 <LM>w#w-ln94201-67-p2s5w9</LM>
 </w.rf>
 <form>Bugno</form>
-<tag lemma="Bugno_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Bugno-2_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-67-p2s5w10">
 <src.rf>manual</src.rf>

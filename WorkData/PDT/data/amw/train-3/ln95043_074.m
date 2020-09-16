@@ -83,7 +83,7 @@
 <LM>w#w-ln95043-074-p1s1w9</LM>
 </w.rf>
 <form>koblížky</form>
-<tag lemma="koblížek" src="orig" selected="1">NNIP7-----A----</tag>
+<tag lemma="koblížek-1" src="orig" selected="1">NNIP7-----A----</tag>
 </m>
 <m id="m-ln95043-074-p1s1w10">
 <src.rf>manual</src.rf>

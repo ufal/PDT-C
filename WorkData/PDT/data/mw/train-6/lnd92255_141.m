@@ -772,7 +772,7 @@
 <LM>w#w-lnd92255-141-p3s3w53</LM>
 </w.rf>
 <form>správní</form>
-<tag lemma="správní_^(např._poplatek;_rada;_řád;...)" src="orig" selected="1">AAIS4----1A----</tag>
+<tag lemma="správní_^(správní_rada;_řád)" src="orig" selected="1">AAIS4----1A----</tag>
 </m>
 <m id="m-lnd92255-141-p3s3w54">
 <src.rf>manual</src.rf>

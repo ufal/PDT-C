@@ -130,7 +130,7 @@
 <AM lemma="YMCA_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="YMCA_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="YMCA_:B_;m_,t_^(Young_Men`s_Christian_Association)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="YMCA-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="YMCA-2_;m_^(Young_Men's_Christian_Association)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-88-p1s1Aw15">

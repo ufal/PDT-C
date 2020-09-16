@@ -211,7 +211,7 @@
 <LM>w#w-ln95041-019-p2s2w1</LM>
 </w.rf>
 <form>Druhá</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS1----------</tag>
 </m>
 <m id="m-ln95041-019-p2s2w2">
 <src.rf>manual</src.rf>
@@ -344,7 +344,7 @@
 <LM>w#w-ln95041-019-p3s1w1</LM>
 </w.rf>
 <form>Druhý</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS1----------</tag>
 </m>
 <m id="m-ln95041-019-p3s1w2">
 <src.rf>manual</src.rf>

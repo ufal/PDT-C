@@ -301,7 +301,7 @@
 <LM>w#w-mf920901-117-p4s3w7</LM>
 </w.rf>
 <form>rukojmí</form>
-<tag lemma="rukojmí" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="rukojmí-1" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-mf920901-117-p4s3w8">
 <src.rf>manual</src.rf>
@@ -537,7 +537,7 @@
 <LM>w#w-mf920901-117-p5s1w8</LM>
 </w.rf>
 <form>Kurgan</form>
-<tag lemma="Kurgan_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kurgan-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-117-p5s1w9">
 <src.rf>manual</src.rf>
@@ -853,7 +853,7 @@
 <LM>w#w-mf920901-117-p5s3w6</LM>
 </w.rf>
 <form>granátomety</form>
-<tag lemma="granátomet_;m" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="granátomet" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-mf920901-117-p5s3w7">
 <src.rf>manual</src.rf>

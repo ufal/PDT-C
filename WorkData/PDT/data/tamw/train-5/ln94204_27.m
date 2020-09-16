@@ -948,7 +948,7 @@
 <LM>w#w-ln94204-27-p3s2w4</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-ln94204-27-p3s2w5">
 <src.rf>manual</src.rf>
@@ -2188,7 +2188,7 @@
 <LM>w#w-ln94204-27-p5s5w6</LM>
 </w.rf>
 <form>druhý</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS1----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS1----------</tag>
 </m>
 <m id="m-ln94204-27-p5s5w7">
 <src.rf>manual</src.rf>
@@ -2383,7 +2383,7 @@
 <LM>w#w-ln94204-27-p6s1w8</LM>
 </w.rf>
 <form>nebojí</form>
-<tag lemma="bát" src="orig" selected="1">VB-P---3P-NAI--</tag>
+<tag lemma="bát-1" src="orig" selected="1">VB-P---3P-NAI--</tag>
 </m>
 <m id="m-ln94204-27-p6s1w9">
 <src.rf>manual</src.rf>
@@ -2949,7 +2949,7 @@
 <LM>w#w-ln94204-27-p7s2w22</LM>
 </w.rf>
 <form>spořitelně</form>
-<tag lemma="spořitelna_^(místo;_př._Česká_spořitelna)" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="spořitelna" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-ln94204-27-p7s2w23">
 <src.rf>manual</src.rf>
@@ -3787,7 +3787,7 @@
 <LM>w#w-ln94204-27-p9s1w11</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-ln94204-27-p9s1w12">
 <src.rf>manual</src.rf>
@@ -4119,7 +4119,7 @@
 <LM>w#w-ln94204-27-p10s1w17</LM>
 </w.rf>
 <form>zlatými</form>
-<tag lemma="zlatý_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAIP7----1A----</tag>
+<tag lemma="zlatý-1_^(atribut;_z._řetízek,_poklad,...)" src="orig" selected="1">AAIP7----1A----</tag>
 </m>
 <m id="m-ln94204-27-p10s1w18">
 <src.rf>manual</src.rf>

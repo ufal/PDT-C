@@ -426,7 +426,7 @@
 <LM>w#w-ln95043-108-p3s1w6</LM>
 </w.rf>
 <form>ukazatel</form>
-<tag lemma="ukazatel" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="ukazatel-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95043-108-p3s1w7">
 <src.rf>manual</src.rf>

@@ -1037,7 +1037,7 @@
 <LM>w#w-ln94205-32-p3s4w14</LM>
 </w.rf>
 <form>zpřesněním</form>
-<tag lemma="zpřesnění_^(*3it)" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="zpřesnění_^(*2t)_(*3it)" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-ln94205-32-p3s4w15">
 <src.rf>manual</src.rf>

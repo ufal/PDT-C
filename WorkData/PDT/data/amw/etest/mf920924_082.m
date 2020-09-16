@@ -287,7 +287,7 @@
 <LM>w#w-mf920924-082-p2s2w9</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8NS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8NS4---------1</tag>
 </m>
 <m id="m-mf920924-082-p2s2w10">
 <src.rf>manual</src.rf>
@@ -510,7 +510,7 @@
 <LM>w#w-mf920924-082-p2s4w10</LM>
 </w.rf>
 <form>sekretář</form>
-<tag lemma="sekretář" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="sekretář-2" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-082-p2s4w11">
 <src.rf>manual</src.rf>
@@ -726,7 +726,7 @@
 <LM>w#w-mf920924-082-p2s5w19</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf920924-082-p2s5w20">
 <src.rf>manual</src.rf>
@@ -864,7 +864,7 @@
 <LM>w#w-mf920924-082-p2s6Aw14</LM>
 </w.rf>
 <form>naši</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS4-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS4-P1-------</tag>
 </m>
 <m id="m-mf920924-082-p2s6Aw15">
 <src.rf>manual</src.rf>
@@ -978,7 +978,7 @@
 <LM>w#w-mf920924-082-p2s6Bw9</LM>
 </w.rf>
 <form>sekretáře</form>
-<tag lemma="sekretář" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="sekretář-2" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920924-082-p2s6Bw10">
 <src.rf>manual</src.rf>
@@ -1309,7 +1309,7 @@
 <LM>w#w-mf920924-082-p2s9w4</LM>
 </w.rf>
 <form>nám</form>
-<tag lemma="já" src="orig" selected="1">PP-P3--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P3--1-------</tag>
 </m>
 <m id="m-mf920924-082-p2s9w5">
 <src.rf>manual</src.rf>
@@ -1448,7 +1448,7 @@
 <LM>w#w-mf920924-082-p2s10w11</LM>
 </w.rf>
 <form>my</form>
-<tag lemma="já" src="orig" selected="1">PP-P1--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P1--1-------</tag>
 </m>
 <m id="m-mf920924-082-p2s10w12">
 <src.rf>manual</src.rf>
@@ -1887,7 +1887,7 @@
 <form>Voda</form>
 <tag>
 <AM lemma="voda" src="orig">NNFS1-----A----</AM>
-<AM lemma="Voda_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Voda-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-082-p2s13w19">

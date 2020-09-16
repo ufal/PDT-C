@@ -27,7 +27,7 @@
 <LM>w#w-mf920924-011-p1s1w2</LM>
 </w.rf>
 <form>ZAMĚSTNÁNÍ</form>
-<tag lemma="zaměstnání-1_^(všeob._význam:_činnost,_zaměstnání)_(*5at-1)" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="zaměstnání_^(*3at)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-mf920924-011-p1s1w3">
 <src.rf>manual</src.rf>
@@ -256,7 +256,7 @@
 <LM>w#w-mf920924-011-p1s3w5</LM>
 </w.rf>
 <form>lidi</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-mf920924-011-p1s3w6">
 <src.rf>manual</src.rf>
@@ -360,7 +360,7 @@
 <LM>w#w-mf920924-011-p1s4w10</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-mf920924-011-p1s4w11">
 <src.rf>manual</src.rf>
@@ -434,7 +434,7 @@
 <LM>w#w-mf920924-011-p1s6w6</LM>
 </w.rf>
 <form>nestojí</form>
-<tag lemma="stát-4_^(něco_stojí_peníze)" src="orig" selected="1">VB-P---3P-NAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VB-P---3P-NAI--</tag>
 </m>
 <m id="m-mf920924-011-p1s6w7">
 <src.rf>manual</src.rf>

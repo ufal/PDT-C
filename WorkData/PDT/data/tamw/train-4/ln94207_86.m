@@ -354,7 +354,7 @@
 <LM>w#w-ln94207-86-p1s2Aw11</LM>
 </w.rf>
 <form>Karlově</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUFS6M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUFS6M---------</tag>
 </m>
 <m id="m-ln94207-86-p1s2Aw12">
 <src.rf>manual</src.rf>

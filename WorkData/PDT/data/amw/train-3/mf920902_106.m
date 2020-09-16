@@ -280,7 +280,7 @@
 <LM>w#w-mf920902-106-p2s2w24</LM>
 </w.rf>
 <form>postižené</form>
-<tag lemma="postižený_^(*4hnout)" src="orig" selected="1">AAFP4----1A----</tag>
+<tag lemma="postižený" src="orig" selected="1">AAFP4----1A----</tag>
 </m>
 <m id="m-mf920902-106-p2s2w25">
 <src.rf>manual</src.rf>
@@ -288,7 +288,7 @@
 <LM>w#w-mf920902-106-p2s2w25</LM>
 </w.rf>
 <form>děti</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-mf920902-106-p2s2w26">
 <src.rf>manual</src.rf>
@@ -306,7 +306,7 @@
 <LM>w#w-mf920902-106-p2s3w1</LM>
 </w.rf>
 <form>Výbor</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920902-106-p2s3w2">
 <src.rf>manual</src.rf>
@@ -455,7 +455,7 @@
 <LM>w#w-mf920902-106-p2s4w7</LM>
 </w.rf>
 <form>postiženou</form>
-<tag lemma="postižený_^(*4hnout)" src="orig" selected="1">AAFS4----1A----</tag>
+<tag lemma="postižený" src="orig" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-mf920902-106-p2s4w8">
 <src.rf>manual</src.rf>
@@ -543,7 +543,7 @@
 <LM>w#w-mf920902-106-p2s4w18</LM>
 </w.rf>
 <form>nevidomé</form>
-<tag lemma="nevidomý" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="nevidomý-2" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-mf920902-106-p2s4w19">
 <src.rf>manual</src.rf>
@@ -609,7 +609,7 @@
 <LM>w#w-mf920902-106-p2s5w3</LM>
 </w.rf>
 <form>postižené</form>
-<tag lemma="postižený_^(*4hnout)" src="orig" selected="1">AAFP4----1A----</tag>
+<tag lemma="postižený" src="orig" selected="1">AAFP4----1A----</tag>
 </m>
 <m id="m-mf920902-106-p2s5w4">
 <src.rf>manual</src.rf>
@@ -617,7 +617,7 @@
 <LM>w#w-mf920902-106-p2s5w4</LM>
 </w.rf>
 <form>děti</form>
-<tag lemma="dítě" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="dítě-2" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-mf920902-106-p2s5w5">
 <src.rf>manual</src.rf>

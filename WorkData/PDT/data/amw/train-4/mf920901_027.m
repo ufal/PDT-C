@@ -207,7 +207,7 @@
 <LM>w#w-mf920901-027-p2s1Bw12</LM>
 </w.rf>
 <form>podání</form>
-<tag lemma="podání_^(něco_[někomu]_[někam])_(*3at)" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="podání_^(*3at)" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-mf920901-027-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -302,7 +302,7 @@
 <LM>w#w-mf920901-027-p3s1w4</LM>
 </w.rf>
 <form>Reni</form>
-<tag lemma="Reni_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Reni-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-027-p3s1w5">
 <src.rf>manual</src.rf>
@@ -418,7 +418,7 @@
 <LM>w#w-mf920901-027-p3s1w18</LM>
 </w.rf>
 <form>Reniho</form>
-<tag lemma="Reni_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Reni-1_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920901-027-p3s1w19">
 <src.rf>manual</src.rf>
@@ -498,7 +498,7 @@
 <LM>w#w-mf920901-027-p3s1w28</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-mf920901-027-p3s1w29">
 <src.rf>manual</src.rf>
@@ -864,7 +864,7 @@
 <LM>w#w-mf920901-027-p4s3w4</LM>
 </w.rf>
 <form>letech</form>
-<tag lemma="rok" src="orig" selected="1">NNNP6-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP6-----A----</tag>
 </m>
 <m id="m-mf920901-027-p4s3w5">
 <src.rf>manual</src.rf>
@@ -904,7 +904,7 @@
 <LM>w#w-mf920901-027-p4s3w9</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">P9XP4FS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9XP4FS3-------</tag>
 </m>
 <m id="m-mf920901-027-p4s3w10">
 <src.rf>manual</src.rf>
@@ -912,7 +912,7 @@
 <LM>w#w-mf920901-027-p4s3w10</LM>
 </w.rf>
 <form>nejlepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAFP4----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAFP4----3A----</tag>
 </m>
 <m id="m-mf920901-027-p4s3w11">
 <src.rf>manual</src.rf>

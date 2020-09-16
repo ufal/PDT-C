@@ -298,7 +298,7 @@
 <LM>w#w-ln94203-46-p2s1Bw26</LM>
 </w.rf>
 <form>podání</form>
-<tag lemma="podání_^(něco_[někomu]_[někam])_(*3at)" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="podání_^(*3at)" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln94203-46-p2s1Bw27">
 <src.rf>manual</src.rf>

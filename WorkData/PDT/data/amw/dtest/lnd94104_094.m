@@ -74,7 +74,7 @@
 <LM>w#w-lnd94104-094-p1s5w3</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrIP1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIP1----------</tag>
 </m>
 <m id="m-lnd94104-094-p1s5w4">
 <src.rf>manual</src.rf>

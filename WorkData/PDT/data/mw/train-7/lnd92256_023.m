@@ -241,7 +241,7 @@
 <LM>w#w-lnd92256-023-p1s2w19</LM>
 </w.rf>
 <form>Karlových</form>
-<tag lemma="Karlův_;Y_^(*3el)" src="orig" selected="1">AUIP2M---------</tag>
+<tag lemma="Karlův_;Y_^(*2)_(*3el)" src="orig" selected="1">AUIP2M---------</tag>
 </m>
 <m id="m-lnd92256-023-p1s2w20">
 <src.rf>manual</src.rf>

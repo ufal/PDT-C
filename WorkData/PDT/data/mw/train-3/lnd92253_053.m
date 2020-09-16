@@ -130,7 +130,7 @@
 <LM>w#w-lnd92253-053-p3s2w5</LM>
 </w.rf>
 <form>Evropě</form>
-<tag lemma="Evropa_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Evropa_;G_;Y" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd92253-053-p3s2w6">
 <src.rf>manual</src.rf>
@@ -186,7 +186,7 @@
 <LM>w#w-lnd92253-053-p3s2w12</LM>
 </w.rf>
 <form>zaměstnanosti</form>
-<tag lemma="zaměstnanost-2_^(politika_z.;_přednost_před_odvoz.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="zaměstnanost_^(*3ý)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92253-053-p3s2w13">
 <src.rf>manual</src.rf>
@@ -361,7 +361,7 @@
 <LM>w#w-lnd92253-053-p3s3w13</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92253-053-p3s3w14">
 <src.rf>manual</src.rf>
@@ -543,7 +543,7 @@
 <LM>w#w-lnd92253-053-p3s4w10</LM>
 </w.rf>
 <form>své</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS2---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS2---------1</tag>
 </m>
 <m id="m-lnd92253-053-p3s4w11">
 <src.rf>manual</src.rf>
@@ -551,7 +551,7 @@
 <LM>w#w-lnd92253-053-p3s4w11</LM>
 </w.rf>
 <form>politiky</form>
-<tag lemma="politika_^(věda)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="politika" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92253-053-p3s4w12">
 <src.rf>manual</src.rf>
@@ -585,7 +585,7 @@
 <LM>w#w-lnd92253-053-p3s5w3</LM>
 </w.rf>
 <form>strany</form>
-<tag lemma="strana-2_^(politická)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92253-053-p3s5w4">
 <src.rf>manual</src.rf>

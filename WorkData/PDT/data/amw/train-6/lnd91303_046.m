@@ -378,7 +378,7 @@
 <LM>w#w-lnd91303-046-p4s1w14</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-lnd91303-046-p4s1w15">
 <src.rf>manual</src.rf>
@@ -950,7 +950,7 @@
 <LM>w#w-lnd91303-046-p6s1w8</LM>
 </w.rf>
 <form>modelu</form>
-<tag lemma="model" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="model-1" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-lnd91303-046-p6s1w9">
 <src.rf>manual</src.rf>

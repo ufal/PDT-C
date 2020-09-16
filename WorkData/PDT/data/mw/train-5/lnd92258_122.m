@@ -101,7 +101,7 @@
 <LM>w#w-lnd92258-122-p2s1w9</LM>
 </w.rf>
 <form>druhém</form>
-<tag lemma="druhý" src="orig" selected="1">CrIS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrIS6----------</tag>
 </m>
 <m id="m-lnd92258-122-p2s1w10">
 <src.rf>manual</src.rf>
@@ -543,7 +543,7 @@
 </w.rf>
 <form>Abeele</form>
 <tag>
-<AM lemma="Abeele_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Abeele-2_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Abeele_;G" src="auto" recommended="1">NNNXX-----A----</AM>
 </tag>
 </m>

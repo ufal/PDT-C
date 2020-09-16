@@ -802,7 +802,7 @@
 <LM>w#w-ln94208-72-p2s3w39</LM>
 </w.rf>
 <form>prvních</form>
-<tag lemma="první" src="orig" selected="1">CrIP2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrIP2----------</tag>
 </m>
 <m id="m-ln94208-72-p2s3w40">
 <src.rf>manual</src.rf>

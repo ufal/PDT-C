@@ -190,7 +190,7 @@
 <AM lemma="Evropa_;G" src="auto">NNFP1-----A----</AM>
 <AM lemma="Evropa_;G" src="auto">NNFP4-----A----</AM>
 <AM lemma="Evropa_;G" src="auto">NNFP5-----A----</AM>
-<AM lemma="Evropa_;G" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="Evropa_;G_;Y" src="auto" recommended="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2326-001-p1s0W13-Ta">
@@ -729,7 +729,7 @@
 </w.rf>
 <form>výboru</form>
 <tag>
-<AM lemma="výbor" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="výbor-1" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="výbor" src="auto">NNIS3-----A----</AM>
 <AM lemma="výbor" src="auto">NNIS6-----A----</AM>
 <AM lemma="výbor" src="auto">NNMS3-----A---1</AM>
@@ -854,7 +854,7 @@
 </w.rf>
 <form>jehož</form>
 <tag>
-<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">P1XXXZS3-------</AM>
+<AM lemma="jehož" src="auto" recommended="1">P1XXXZS3-------</AM>
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">PJMS4----------</AM>
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">PJZS2----------</AM>
 </tag>
@@ -933,7 +933,7 @@
 </w.rf>
 <form>svou</form>
 <tag>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8FS4---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8FS4---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS7---------1</AM>
 </tag>
 </m>
@@ -1922,7 +1922,7 @@
 <form>Olivetti</form>
 <tag>
 <AM lemma="Olivetti_;m" src="auto">NNXXX-----A----</AM>
-<AM lemma="Olivetti_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Olivetti-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Olivetti_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Olivetti_;Y" src="auto">NNMXX-----A----</AM>
 </tag>
@@ -2237,7 +2237,7 @@
 <AM lemma="první" src="auto">CrIP1----------</AM>
 <AM lemma="první" src="auto">CrIP4----------</AM>
 <AM lemma="první" src="auto">CrIP5----------</AM>
-<AM lemma="první" src="auto" selected="1">CrIS1----------</AM>
+<AM lemma="první-1" src="auto" selected="1">CrIS1----------</AM>
 <AM lemma="první" src="auto">CrIS4----------</AM>
 <AM lemma="první" src="auto">CrIS5----------</AM>
 <AM lemma="první" src="auto">CrMP1----------</AM>
@@ -2343,7 +2343,7 @@
 <AM lemma="tajný" src="auto">AAIS2----1A----</AM>
 <AM lemma="tajný" src="auto">AAMS2----1A----</AM>
 <AM lemma="tajný" src="auto">AAMS4----1A----</AM>
-<AM lemma="tajný" src="auto" recommended="1">AANS2----1A----</AM>
+<AM lemma="tajný-1" src="auto" recommended="1">AANS2----1A----</AM>
 <AM lemma="tajný-2" src="auto">NNMS2-----A----</AM>
 <AM lemma="tajný-2" src="auto">NNMS4-----A----</AM>
 </tag>
@@ -2444,7 +2444,7 @@
 </w.rf>
 <form>Olivetti</form>
 <tag>
-<AM lemma="Olivetti_;m" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="Olivetti-2_;m" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="Olivetti_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Olivetti_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Olivetti_;Y" src="auto">NNMXX-----A----</AM>
@@ -2817,7 +2817,7 @@
 </w.rf>
 <form>Olivetti</form>
 <tag>
-<AM lemma="Olivetti_;m" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="Olivetti-2_;m" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="Olivetti_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Olivetti_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Olivetti_;Y" src="auto">NNMXX-----A----</AM>
@@ -3393,7 +3393,7 @@
 </w.rf>
 <form>Olivetti</form>
 <tag>
-<AM lemma="Olivetti_;m" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="Olivetti-2_;m" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="Olivetti_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Olivetti_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Olivetti_;Y" src="auto">NNMXX-----A----</AM>
@@ -3753,7 +3753,7 @@
 </w.rf>
 <form>Olivetti</form>
 <tag>
-<AM lemma="Olivetti_;m" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="Olivetti-2_;m" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="Olivetti_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Olivetti_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Olivetti_;Y" src="auto">NNMXX-----A----</AM>
@@ -4336,7 +4336,7 @@
 <AM lemma="tajný" src="auto">AAFP5----1A----</AM>
 <AM lemma="tajný" src="auto">AAFS2----1A----</AM>
 <AM lemma="tajný" src="auto">AAFS3----1A----</AM>
-<AM lemma="tajný" src="auto" recommended="1">AAFS6----1A----</AM>
+<AM lemma="tajný-1" src="auto" recommended="1">AAFS6----1A----</AM>
 <AM lemma="tajný" src="auto">AAIP1----1A----</AM>
 <AM lemma="tajný" src="auto">AAIP4----1A----</AM>
 <AM lemma="tajný" src="auto">AAIP5----1A----</AM>
@@ -4828,7 +4828,7 @@
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FP4---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS2---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS3---------1</AM>
-<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8FS6---------1</AM>
+<AM lemma="svůj-1" src="auto" recommended="1">P8FS6---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8IP1---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8IP5---------1</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS1---------1</AM>
@@ -4848,7 +4848,7 @@
 <form>politice</form>
 <tag>
 <AM lemma="politika_^(věda)" src="auto">NNFS3-----A----</AM>
-<AM lemma="politika_^(věda)" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="politika" src="auto" recommended="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2326-001-p1s13W9-Ta">
@@ -6151,7 +6151,7 @@
 <tag>
 <AM lemma="program-1" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="program-1" src="auto">NNIS4-----A----</AM>
-<AM lemma="program" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="program-1" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2326-001-p1s17W11-Ta">

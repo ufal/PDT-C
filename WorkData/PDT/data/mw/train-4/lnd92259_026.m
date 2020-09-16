@@ -121,7 +121,7 @@
 <LM>w#w-lnd92259-026-p3s2w6</LM>
 </w.rf>
 <form>svých</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8XP2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8XP2----------</tag>
 </m>
 <m id="m-lnd92259-026-p3s2w7">
 <src.rf>manual</src.rf>
@@ -808,7 +808,7 @@
 <LM>w#w-lnd92259-026-p3s6w11</LM>
 </w.rf>
 <form>litovelských</form>
-<tag lemma="litovelský_;G" src="orig" selected="1">AAIP6----1A----</tag>
+<tag lemma="litovelský" src="orig" selected="1">AAIP6----1A----</tag>
 </m>
 <m id="m-lnd92259-026-p3s6w12">
 <src.rf>manual</src.rf>
@@ -898,7 +898,7 @@
 <LM>w#w-lnd92259-026-p3s7w7</LM>
 </w.rf>
 <form>Litovelské</form>
-<tag lemma="litovelský_;G" src="orig" selected="1">AANS1----1A----</tag>
+<tag lemma="litovelský" src="orig" selected="1">AANS1----1A----</tag>
 </m>
 <m id="m-lnd92259-026-p3s7w8">
 <src.rf>manual</src.rf>

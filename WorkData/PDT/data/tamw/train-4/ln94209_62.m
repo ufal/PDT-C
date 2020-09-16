@@ -107,7 +107,7 @@
 <LM>w#w-ln94209-62-p1s1w12</LM>
 </w.rf>
 <form>miminko</form>
-<tag lemma="miminko_,e" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="miminko" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94209-62-p1s1w13">
 <src.rf>manual</src.rf>
@@ -163,7 +163,7 @@
 <LM>w#w-ln94209-62-p1s1w19</LM>
 </w.rf>
 <form>stojí</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94209-62-p1s1w20">
 <src.rf>manual</src.rf>
@@ -181,7 +181,7 @@
 <LM>w#w-ln94209-62-p2s1w1</LM>
 </w.rf>
 <form>Tematická</form>
-<tag lemma="tematický" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="tematický_,s_^(^DD**tématický)" src="orig" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-ln94209-62-p2s1w2">
 <src.rf>manual</src.rf>
@@ -361,7 +361,7 @@
 <LM>w#w-ln94209-62-p3s2w7</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-ln94209-62-p3s2w8">
 <src.rf>manual</src.rf>

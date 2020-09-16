@@ -636,7 +636,7 @@
 <LM>w#w-ln95048-049-p1s3w58</LM>
 </w.rf>
 <form>absolutismu</form>
-<tag lemma="absolutismus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="absolutismus_,s_^(^DD**absolutizmus)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95048-049-p1s3w59">
 <src.rf>manual</src.rf>

@@ -419,7 +419,7 @@
 <LM>w#w-mf920925-087-p2s4w2</LM>
 </w.rf>
 <form>daný</form>
-<tag lemma="daný_^(*3át)" src="auto" selected="1">AAIS1----1A----</tag>
+<tag lemma="daný-1_^(*5át-1)" src="auto" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-mf920925-087-p2s4w3">
 <src.rf>manual</src.rf>
@@ -605,7 +605,7 @@
 <LM>w#w-mf920925-087-p2s5w8</LM>
 </w.rf>
 <form>naší</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS3-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS3-P1-------</tag>
 </m>
 <m id="m-mf920925-087-p2s5w9">
 <src.rf>manual</src.rf>
@@ -621,7 +621,7 @@
 <LM>w#w-mf920925-087-p2s5w10</LM>
 </w.rf>
 <form>prestiži</form>
-<tag lemma="prestiž" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="prestiž-1" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-mf920925-087-p2s5w11">
 <src.rf>manual</src.rf>
@@ -645,7 +645,7 @@
 <LM>w#w-mf920925-087-p2s5w13</LM>
 </w.rf>
 <form>prvního</form>
-<tag lemma="první" src="orig" selected="1">CrMS2----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrMS2----------</tag>
 </m>
 <m id="m-mf920925-087-p2s5w14">
 <src.rf>manual</src.rf>
@@ -1498,7 +1498,7 @@
 <LM>w#w-mf920925-087-p2s12w5</LM>
 </w.rf>
 <form>naší</form>
-<tag lemma="můj_^(přivlast.)" src="orig" selected="1">PSFS3-P1-------</tag>
+<tag lemma="náš" src="orig" selected="1">PSFS3-P1-------</tag>
 </m>
 <m id="m-mf920925-087-p2s12w6">
 <src.rf>manual</src.rf>
@@ -1514,7 +1514,7 @@
 <LM>w#w-mf920925-087-p2s12w7</LM>
 </w.rf>
 <form>prestiži</form>
-<tag lemma="prestiž" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="prestiž-1" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-mf920925-087-p2s12w8">
 <src.rf>manual</src.rf>
@@ -1588,7 +1588,7 @@
 <LM>w#w-mf920925-087-p2s13w2</LM>
 </w.rf>
 <form>druhé</form>
-<tag lemma="druhý" src="orig" selected="1">CrFS6----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrFS6----------</tag>
 </m>
 <m id="m-mf920925-087-p2s13w3">
 <src.rf>manual</src.rf>
@@ -1596,7 +1596,7 @@
 <LM>w#w-mf920925-087-p2s13w3</LM>
 </w.rf>
 <form>straně</form>
-<tag lemma="strana-1_^(v_prostoru)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="strana" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf920925-087-p2s13w4">
 <src.rf>manual</src.rf>
@@ -1735,7 +1735,7 @@
 <LM>w#w-mf920925-087-p2s13w20</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-mf920925-087-p2s13w21">
 <src.rf>manual</src.rf>

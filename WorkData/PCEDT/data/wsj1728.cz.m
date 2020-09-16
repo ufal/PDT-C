@@ -54,7 +54,7 @@
 <AM lemma="druhý" src="auto">CrIS2----------</AM>
 <AM lemma="druhý" src="auto">CrMS2----------</AM>
 <AM lemma="druhý" src="auto">CrMS4----------</AM>
-<AM lemma="druhý" src="auto" recommended="1">CrNS2----------</AM>
+<AM lemma="druhý`2" src="auto" recommended="1">CrNS2----------</AM>
 </tag>
 </m>
 <m id="m-wsj1728-001-p1s0W4-Ta">
@@ -2390,7 +2390,7 @@
 <AM lemma="ča_^(ča-ča)" src="auto">NNFS2-----A----</AM>
 <AM lemma="ča_^(ča-ča)" src="auto">NNFS3-----A---1</AM>
 <AM lemma="ča_^(ča-ča)" src="auto">NNFS6-----A---1</AM>
-<AM lemma="či" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="či-1" src="auto" recommended="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1728-001-p1s10W11-Ta">
@@ -2508,7 +2508,7 @@
 <AM lemma="lobbistický" src="auto">AANS1----1A----</AM>
 <AM lemma="lobbistický" src="auto">AANS4----1A----</AM>
 <AM lemma="lobbistický" src="auto">AANS5----1A----</AM>
-<AM lemma="lobbistický_,s_^(^DD**lobistický)" src="manual" selected="1">AAFP1----1A----</AM>
+<AM lemma="lobbistický" src="manual" selected="1">AAFP1----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj1728-001-p1s10W18-Ta">
@@ -4622,7 +4622,7 @@
 <AM lemma="program-1" src="auto" recommended="1">NNIP4-----A----</AM>
 <AM lemma="program-1" src="auto">NNIP5-----A----</AM>
 <AM lemma="program-1" src="auto">NNIP7-----A----</AM>
-<AM lemma="program" src="manual" selected="1">NNIP4-----A----</AM>
+<AM lemma="program-1" src="manual" selected="1">NNIP4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1728-001-p1s18W15-Ta">
@@ -5379,7 +5379,7 @@
 <AM lemma="druhý" src="auto">CrIP1---------6</AM>
 <AM lemma="druhý" src="auto">CrIP4---------6</AM>
 <AM lemma="druhý" src="auto">CrIP5---------6</AM>
-<AM lemma="druhý" src="auto" recommended="1">CrIS1----------</AM>
+<AM lemma="druhý`2" src="auto" recommended="1">CrIS1----------</AM>
 <AM lemma="druhý" src="auto">CrIS4----------</AM>
 <AM lemma="druhý" src="auto">CrIS5----------</AM>
 <AM lemma="druhý" src="auto">CrMP1---------6</AM>
@@ -7109,7 +7109,7 @@
 <AM lemma="pokladní" src="auto">AAIP1----1A----</AM>
 <AM lemma="pokladní" src="auto">AAIP4----1A----</AM>
 <AM lemma="pokladní" src="auto">AAIP5----1A----</AM>
-<AM lemma="pokladní" src="auto" selected="1">AAIS1----1A----</AM>
+<AM lemma="pokladní-1" src="auto" selected="1">AAIS1----1A----</AM>
 <AM lemma="pokladní" src="auto" recommended="1">AAIS4----1A----</AM>
 <AM lemma="pokladní" src="auto">AAIS5----1A----</AM>
 <AM lemma="pokladní" src="auto">AAMP1----1A----</AM>

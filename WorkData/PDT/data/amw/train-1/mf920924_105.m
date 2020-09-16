@@ -183,7 +183,7 @@
 <LM>w#w-mf920924-105-p3s1w5</LM>
 </w.rf>
 <form>Toulouse</form>
-<tag lemma="Toulouse_;G" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="Toulouse-1_;G" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-mf920924-105-p3s1w6">
 <src.rf>manual</src.rf>
@@ -397,7 +397,7 @@
 <LM>w#w-mf920924-105-p4s2w1</LM>
 </w.rf>
 <form>Chesterfield</form>
-<tag lemma="Chesterfield_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Chesterfield-2_;G" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920924-105-p4s2w2">
 <src.rf>manual</src.rf>
@@ -743,7 +743,7 @@
 <LM>w#w-mf920924-105-p5s1w4</LM>
 </w.rf>
 <form>Argentince</form>
-<tag lemma="argentinec" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Argentinec_;E" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf920924-105-p5s1w5">
 <src.rf>manual</src.rf>

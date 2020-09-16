@@ -19,7 +19,7 @@
 <LM>w#w-ln94204-55-p1s1w1</LM>
 </w.rf>
 <form>Lepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AAFS1----2A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AAFS1----2A----</tag>
 </m>
 <m id="m-ln94204-55-p1s1w2">
 <src.rf>manual</src.rf>
@@ -382,7 +382,7 @@
 <LM>w#w-ln94204-55-p2s2w4</LM>
 </w.rf>
 <form>Petrov</form>
-<tag lemma="Petrov_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Petrov-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-55-p2s2w5">
 <src.rf>manual</src.rf>
@@ -876,7 +876,7 @@
 <LM>w#w-ln94204-55-p2s5w3</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFS4----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFS4----------</tag>
 </m>
 <m id="m-ln94204-55-p2s5w4">
 <src.rf>manual</src.rf>

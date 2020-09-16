@@ -339,7 +339,7 @@
 <LM>w#w-ln95041-111-p2s3w6</LM>
 </w.rf>
 <form>výbor</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95041-111-p2s3w7">
 <src.rf>manual</src.rf>

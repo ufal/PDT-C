@@ -70,7 +70,7 @@
 <LM>w#w-ln94203-66-p1s1w7</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS7---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS7---------1</tag>
 </m>
 <m id="m-ln94203-66-p1s1w8">
 <src.rf>manual</src.rf>
@@ -211,7 +211,7 @@
 <LM>w#w-ln94203-66-p1s2w3</LM>
 </w.rf>
 <form>David</form>
-<tag lemma="David_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="David-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94203-66-p1s2w4">
 <src.rf>manual</src.rf>

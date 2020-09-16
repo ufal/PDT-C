@@ -83,7 +83,7 @@
 <LM>w#w-ln95046-104-p1s1w9</LM>
 </w.rf>
 <form>svého</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS2----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS2----------</tag>
 </m>
 <m id="m-ln95046-104-p1s1w10">
 <src.rf>manual</src.rf>
@@ -99,7 +99,7 @@
 <LM>w#w-ln95046-104-p1s1w11</LM>
 </w.rf>
 <form>Interview</form>
-<tag lemma="interview" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="interview-1" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln95046-104-p1s1w12">
 <src.rf>manual</src.rf>

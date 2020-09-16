@@ -77,7 +77,7 @@
 <LM>w#w-cmpr9415-041-p3s1w6</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-cmpr9415-041-p3s1w7">
 <src.rf>manual</src.rf>
@@ -144,7 +144,7 @@
 <LM>w#w-cmpr9415-041-p3s1w14</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-cmpr9415-041-p3s1w15">
 <src.rf>manual</src.rf>
@@ -232,7 +232,7 @@
 <LM>w#w-cmpr9415-041-p3s1w25</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-cmpr9415-041-p3s1w26">
 <src.rf>manual</src.rf>
@@ -1525,7 +1525,7 @@
 <LM>w#w-cmpr9415-041-p6s1w14</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-cmpr9415-041-p6s1w15">
 <src.rf>manual</src.rf>
@@ -1800,7 +1800,7 @@
 <LM>w#w-cmpr9415-041-p7s1w2</LM>
 </w.rf>
 <form>druhého</form>
-<tag lemma="druhý" src="orig" selected="1">CrMS2----------</tag>
+<tag lemma="druhý`2" src="orig" selected="1">CrMS2----------</tag>
 </m>
 <m id="m-cmpr9415-041-p7s1w3">
 <src.rf>manual</src.rf>
@@ -1934,7 +1934,7 @@
 <LM>w#w-cmpr9415-041-p7s2w6</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-cmpr9415-041-p7s2w7">
 <src.rf>manual</src.rf>
@@ -1984,7 +1984,7 @@
 <LM>w#w-cmpr9415-041-p7s3w3</LM>
 </w.rf>
 <form>proto</form>
-<tag lemma="proto-2_^(dal_mu_co_proto,_tak_proto!)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="proto-2_^(proto_že)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-cmpr9415-041-p7s3w4">
 <src.rf>manual</src.rf>
@@ -2638,7 +2638,7 @@
 <LM>w#w-cmpr9415-041-p8s2w3</LM>
 </w.rf>
 <form>proto</form>
-<tag lemma="proto-2_^(dal_mu_co_proto,_tak_proto!)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="proto-2_^(proto_že)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-cmpr9415-041-p8s2w4">
 <src.rf>manual</src.rf>
@@ -2987,7 +2987,7 @@
 <LM>w#w-cmpr9415-041-p8s3w21</LM>
 </w.rf>
 <form>či</form>
-<tag lemma="či" src="orig" selected="1">J^-------------</tag>
+<tag lemma="či-1" src="orig" selected="1">J^-------------</tag>
 </m>
 <m id="m-cmpr9415-041-p8s3w22">
 <src.rf>manual</src.rf>
@@ -3364,7 +3364,7 @@
 <LM>w#w-cmpr9415-041-p9s1w13</LM>
 </w.rf>
 <form>nejlepší</form>
-<tag lemma="dobrý" src="orig" selected="1">AANS1----3A----</tag>
+<tag lemma="lepší" src="orig" selected="1">AANS1----3A----</tag>
 </m>
 <m id="m-cmpr9415-041-p9s1w14">
 <src.rf>manual</src.rf>
@@ -3460,7 +3460,7 @@
 <LM>w#w-cmpr9415-041-p9s1w25</LM>
 </w.rf>
 <form>horší</form>
-<tag lemma="špatný" src="orig" selected="1">AANS1----2A----</tag>
+<tag lemma="horší" src="orig" selected="1">AANS1----2A----</tag>
 </m>
 <m id="m-cmpr9415-041-p9s1w26">
 <src.rf>manual</src.rf>
@@ -3526,7 +3526,7 @@
 <LM>w#w-cmpr9415-041-p9s2w5</LM>
 </w.rf>
 <form>nás</form>
-<tag lemma="já" src="orig" selected="1">PP-P2--1-------</tag>
+<tag lemma="my" src="orig" selected="1">PP-P2--1-------</tag>
 </m>
 <m id="m-cmpr9415-041-p9s2w6">
 <src.rf>manual</src.rf>
@@ -3574,7 +3574,7 @@
 <LM>w#w-cmpr9415-041-p9s2w11</LM>
 </w.rf>
 <form>proto</form>
-<tag lemma="proto-2_^(dal_mu_co_proto,_tak_proto!)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="proto-2_^(proto_že)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-cmpr9415-041-p9s2w12">
 <src.rf>manual</src.rf>
@@ -3688,7 +3688,7 @@
 <LM>w#w-cmpr9415-041-p9s3w7</LM>
 </w.rf>
 <form>vysvědčením</form>
-<tag lemma="vysvědčení_,a_^(ve_škole)" src="orig" selected="1">NNNS7-----A----</tag>
+<tag lemma="vysvědčení_^(*3it)" src="orig" selected="1">NNNS7-----A----</tag>
 </m>
 <m id="m-cmpr9415-041-p9s3w8">
 <src.rf>manual</src.rf>
@@ -3821,7 +3821,7 @@
 <LM>w#w-cmpr9415-041-p9s4w13</LM>
 </w.rf>
 <form>první</form>
-<tag lemma="první" src="orig" selected="1">CrFP1----------</tag>
+<tag lemma="první-1" src="orig" selected="1">CrFP1----------</tag>
 </m>
 <m id="m-cmpr9415-041-p9s4w14">
 <src.rf>manual</src.rf>

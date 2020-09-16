@@ -353,7 +353,7 @@
 <LM>w#w-mf930713-096-p2s2w8</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-mf930713-096-p2s2w9">
 <src.rf>manual</src.rf>
@@ -513,7 +513,7 @@
 <LM>w#w-mf930713-096-p2s2w28</LM>
 </w.rf>
 <form>let</form>
-<tag lemma="rok" src="orig" selected="1">NNNP2-----A----</tag>
+<tag lemma="léta" src="orig" selected="1">NNNP2-----A----</tag>
 </m>
 <m id="m-mf930713-096-p2s2w29">
 <src.rf>manual</src.rf>

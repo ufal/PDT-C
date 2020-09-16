@@ -335,7 +335,7 @@
 <LM>w#w-lnd92259-056-p6s2w17</LM>
 </w.rf>
 <form>výboru</form>
-<tag lemma="výbor" src="orig" selected="1">NNIS3-----A----</tag>
+<tag lemma="výbor-1" src="orig" selected="1">NNIS3-----A----</tag>
 </m>
 <m id="m-lnd92259-056-p6s2w18">
 <src.rf>manual</src.rf>
@@ -359,7 +359,7 @@
 <LM>w#w-lnd92259-056-p6s2w20</LM>
 </w.rf>
 <form>rady</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92259-056-p6s2w21">
 <src.rf>manual</src.rf>
@@ -503,7 +503,7 @@
 <LM>w#w-lnd92259-056-p6s2w39</LM>
 </w.rf>
 <form>ústavnosti</form>
-<tag lemma="ústavnost_,a_^(adjektivum_k_ústava;;ustavičný)_(*3ý)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="ústavnost" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92259-056-p6s2w40">
 <src.rf>manual</src.rf>
@@ -775,7 +775,7 @@
 <LM>w#w-lnd92259-056-p7s1w10</LM>
 </w.rf>
 <form>navržených</form>
-<tag lemma="navržený_^(*4hnout)" src="orig" selected="1">AAMP2----1A----</tag>
+<tag lemma="navržený" src="orig" selected="1">AAMP2----1A----</tag>
 </m>
 <m id="m-lnd92259-056-p7s1w11">
 <src.rf>manual</src.rf>
@@ -1350,7 +1350,7 @@
 <LM>w#w-lnd92259-056-p7s3w23</LM>
 </w.rf>
 <form>proto</form>
-<tag lemma="proto-2_^(dal_mu_co_proto,_tak_proto!)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="proto-2_^(proto_že)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd92259-056-p7s3w24">
 <src.rf>manual</src.rf>
@@ -1406,7 +1406,7 @@
 <LM>w#w-lnd92259-056-p7s3w30</LM>
 </w.rf>
 <form>orgán</form>
-<tag lemma="orgán" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="orgán-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92259-056-p7s3w31">
 <src.rf>manual</src.rf>
@@ -1526,7 +1526,7 @@
 <LM>w#w-lnd92259-056-p7s3w45</LM>
 </w.rf>
 <form>členů</form>
-<tag lemma="člen" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd92259-056-p7s3w46">
 <src.rf>manual</src.rf>
@@ -1640,7 +1640,7 @@
 <LM>w#w-lnd92259-056-p7s4w9</LM>
 </w.rf>
 <form>provizoria</form>
-<tag lemma="provizórium" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="provizorium_,s_^(^DD**provizórium)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-lnd92259-056-p7s4w10">
 <src.rf>manual</src.rf>
@@ -1672,7 +1672,7 @@
 <LM>w#w-lnd92259-056-p7s4w13</LM>
 </w.rf>
 <form>radou</form>
-<tag lemma="rada-3_^(poradní_sbor;_př._Česká_národní_r.)" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="rada-1_^(př._dát_někomu_dobrou_radu;poradní_sbor)" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-lnd92259-056-p7s4w14">
 <src.rf>manual</src.rf>

@@ -94,7 +94,7 @@
 <LM>w#w-ln94201-42-p1s1w10</LM>
 </w.rf>
 <form>Tallinu</form>
-<tag lemma="Tallin_;G" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Tallin_;G_,s_^(^DD**Tallinn)" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln94201-42-p1s1w11">
 <src.rf>manual</src.rf>
@@ -186,7 +186,7 @@
 <LM>w#w-ln94201-42-p1s2w8</LM>
 </w.rf>
 <form>svůj</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8IS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8IS4----------</tag>
 </m>
 <m id="m-ln94201-42-p1s2w9">
 <src.rf>manual</src.rf>

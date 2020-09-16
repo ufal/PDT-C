@@ -233,7 +233,7 @@
 <LM>w#w-mf930709-048-p2s2w10</LM>
 </w.rf>
 <form>Hannu</form>
-<tag lemma="Hanna_;Y" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Hanna-2_;Y" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf930709-048-p2s2w11">
 <src.rf>manual</src.rf>

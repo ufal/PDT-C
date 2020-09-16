@@ -27,7 +27,7 @@
 <LM>w#w-ln94207-70-p1s1w2</LM>
 </w.rf>
 <form>nevidomých</form>
-<tag lemma="nevidomý" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="nevidomý-2" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94207-70-p1s1w3">
 <src.rf>manual</src.rf>
@@ -107,7 +107,7 @@
 <LM>w#w-ln94207-70-p1s1w12</LM>
 </w.rf>
 <form>svoji</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4----------</tag>
 </m>
 <m id="m-ln94207-70-p1s1w13">
 <src.rf>manual</src.rf>
@@ -139,7 +139,7 @@
 <LM>w#w-ln94207-70-p1s1w16</LM>
 </w.rf>
 <form>Miroslava</form>
-<tag lemma="Miroslav_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Miroslav-1_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94207-70-p1s1w17">
 <src.rf>manual</src.rf>
@@ -235,7 +235,7 @@
 <LM>w#w-ln94207-70-p1s1w28</LM>
 </w.rf>
 <form>nevidomé</form>
-<tag lemma="nevidomý" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="nevidomý-2" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-ln94207-70-p1s1w29">
 <src.rf>manual</src.rf>

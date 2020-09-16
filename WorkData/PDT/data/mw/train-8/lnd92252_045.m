@@ -526,7 +526,7 @@
 <LM>w#w-lnd92252-045-p3s2w10</LM>
 </w.rf>
 <form>svým</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8ZS7----------</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8ZS7----------</tag>
 </m>
 <m id="m-lnd92252-045-p3s2w11">
 <src.rf>manual</src.rf>
@@ -1084,7 +1084,7 @@
 <LM>w#w-lnd92252-045-p5s1w3</LM>
 </w.rf>
 <form>Kamenec</form>
-<tag lemma="Kamenec_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kamenec-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-045-p5s1w4">
 <src.rf>manual</src.rf>
@@ -1180,7 +1180,7 @@
 <LM>w#w-lnd92252-045-p5s1w15</LM>
 </w.rf>
 <form>svou</form>
-<tag lemma="svůj-1_^(přivlast.)" src="orig" selected="1">P8FS4---------1</tag>
+<tag lemma="svůj-1" src="orig" selected="1">P8FS4---------1</tag>
 </m>
 <m id="m-lnd92252-045-p5s1w16">
 <src.rf>manual</src.rf>
