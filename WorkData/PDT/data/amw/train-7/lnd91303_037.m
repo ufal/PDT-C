@@ -3950,7 +3950,7 @@
 <LM>w#w-lnd91303-037-p11s2w10</LM>
 </w.rf>
 <form>již</form>
-<tag lemma="jenž_^(kterou_[ve_vedl.větě])" src="orig" selected="1">P4FS4----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4FS4----------</tag>
 </m>
 <m id="m-lnd91303-037-p11s2w11">
 <src.rf>manual</src.rf>

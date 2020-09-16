@@ -3507,7 +3507,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>již</form>
-<tag lemma="jenž_^(kteří_[ve_vedl.větě])" src="auto" selected="1">P4MP1----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" selected="1">P4MP1----------</tag>
 </m>
 <m id="m-lnd91303-092-p6s3w15">
 <src.rf>manual</src.rf>

@@ -7892,7 +7892,7 @@
 <LM>w#w-ln94206-66-p8s6w20</LM>
 </w.rf>
 <form>již</form>
-<tag lemma="jenž_^(kteří_[ve_vedl.větě])" src="auto" selected="1">P4MP1----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" selected="1">P4MP1----------</tag>
 </m>
 <m id="m-ln94206-66-p8s6w21">
 <src.rf>manual</src.rf>

@@ -21366,7 +21366,7 @@
 <LM>w#w-vesm9301-046-p32s2w32</LM>
 </w.rf>
 <form>již</form>
-<tag lemma="jenž_^(kterou_[ve_vedl.větě])" src="orig" selected="1">P4FS4----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4FS4----------</tag>
 </m>
 <m id="m-vesm9301-046-p32s2w33">
 <src.rf>manual</src.rf>
