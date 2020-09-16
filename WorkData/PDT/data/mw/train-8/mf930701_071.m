@@ -51,7 +51,7 @@
 <LM>w#w-mf930701-071-p1s1w5</LM>
 </w.rf>
 <form>nichž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJXP6----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4XP6----------</tag>
 </m>
 <m id="m-mf930701-071-p1s1w6">
 <src.rf>manual</src.rf>
@@ -646,7 +646,7 @@
 <LM>w#w-mf930701-071-p1s5w4</LM>
 </w.rf>
 <form>nichž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJXP6----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4XP6----------</tag>
 </m>
 <m id="m-mf930701-071-p1s5w5">
 <src.rf>manual</src.rf>
@@ -852,7 +852,7 @@
 <LM>w#w-mf930701-071-p1s6w17</LM>
 </w.rf>
 <form>nichž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJXP6----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4XP6----------</tag>
 </m>
 <m id="m-mf930701-071-p1s6w18">
 <src.rf>manual</src.rf>

@@ -3370,7 +3370,7 @@
 <form>xxx</form>
 <tag>
 <AM lemma="xxx">X@-------------</AM>
-<AM lemma="xxx-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="xxx-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_18-SCzechM-p1887-s1-w52">

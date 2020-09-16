@@ -709,7 +709,7 @@
 <LM>w#w-vesm9303-030-p2s3w34</LM>
 </w.rf>
 <form>jež</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJNS4----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4NS4----------</tag>
 </m>
 <m id="m-vesm9303-030-p2s3w35">
 <src.rf>manual</src.rf>
@@ -3228,7 +3228,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>jíž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJFS3---------1</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4FS3---------1</tag>
 </m>
 <m id="m-vesm9303-030-p2s13w15">
 <src.rf>manual</src.rf>

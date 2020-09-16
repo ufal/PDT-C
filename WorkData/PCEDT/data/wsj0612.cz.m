@@ -2166,7 +2166,7 @@
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJFS2----------</AM>
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">PJFS3----------</AM>
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">PJFS7----------</AM>
-<AM lemma="jenž_^(který_[ve_vedl.větě])" src="manual" selected="1">PJFS4---------6</AM>
+<AM lemma="jenž_^(který_[ve_vedl.větě])" src="manual" selected="1">P4FS4---------6</AM>
 </tag>
 </m>
 <m id="m-wsj0612-001-p1s5W6-Ta">

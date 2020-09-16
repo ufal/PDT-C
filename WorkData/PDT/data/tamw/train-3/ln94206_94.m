@@ -837,7 +837,7 @@
 <LM>w#w-ln94206-94-p2s5w8</LM>
 </w.rf>
 <form>jehož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJZS2----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS2----------</tag>
 </m>
 <m id="m-ln94206-94-p2s5w9">
 <src.rf>manual</src.rf>

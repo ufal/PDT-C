@@ -3239,7 +3239,7 @@
 <LM>w#w-lnd92255-145-p7s12w16</LM>
 </w.rf>
 <form>nichž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJXP2----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4XP2----------</tag>
 </m>
 <m id="m-lnd92255-145-p7s12w17">
 <src.rf>manual</src.rf>
@@ -3987,7 +3987,7 @@
 <LM>w#w-lnd92255-145-p7s15w17</LM>
 </w.rf>
 <form>níž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJFS2----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4FS2----------</tag>
 </m>
 <m id="m-lnd92255-145-p7s15w18">
 <src.rf>manual</src.rf>

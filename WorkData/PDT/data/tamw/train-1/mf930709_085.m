@@ -383,7 +383,7 @@
 <LM>w#w-mf930709-085-p1s1Dw30</LM>
 </w.rf>
 <form>jenž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJYS1----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4YS1----------</tag>
 </m>
 <m id="m-mf930709-085-p1s1Dw31">
 <src.rf>manual</src.rf>

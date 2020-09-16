@@ -2371,7 +2371,7 @@
 <tag>
 <AM lemma="AAA-88" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="aaa_,x" src="auto">II-------------</AM>
-<AM lemma="AAA-33_^(označení_pomocí_písmen)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="AAA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1253-001-p1s10W6-Ta">

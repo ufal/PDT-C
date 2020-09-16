@@ -278,7 +278,7 @@
 </w.rf>
 <form>něhož</form>
 <tag>
-<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJZS2----------</AM>
+<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">P4ZS2----------</AM>
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">P9ZS4----------</AM>
 </tag>
 </m>
@@ -4819,7 +4819,7 @@
 <form>nějž</form>
 <tag>
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">P9ZS2---------1</AM>
-<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJZS4---------2</AM>
+<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">P4ZS4---------2</AM>
 </tag>
 </m>
 <m id="m-wsj0788-001-p1s10W21-Ta">
@@ -5172,7 +5172,7 @@
 <LM>w#w-wsj0788-001-p1s12W15</LM>
 </w.rf>
 <form>jenž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJYS1----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">P4YS1----------</tag>
 </m>
 <m id="m-wsj0788-001-p1s12W16-Ta">
 <src.rf>tagger-a</src.rf>

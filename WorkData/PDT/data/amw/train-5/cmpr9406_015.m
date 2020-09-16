@@ -5745,7 +5745,7 @@
 <LM>w#w-cmpr9406-015-p20s1w4</LM>
 </w.rf>
 <form>níž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJFS2----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4FS2----------</tag>
 </m>
 <m id="m-cmpr9406-015-p20s1w5">
 <src.rf>manual</src.rf>
@@ -6826,7 +6826,7 @@
 <LM>w#w-cmpr9406-015-p20s3w72</LM>
 </w.rf>
 <form>jehož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJZS2----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS2----------</tag>
 </m>
 <m id="m-cmpr9406-015-p20s3w73">
 <src.rf>manual</src.rf>

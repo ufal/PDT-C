@@ -2669,7 +2669,7 @@
 <LM>w#w-cmpr9416-025-p13s3w9</LM>
 </w.rf>
 <form>níž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJFS6----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4FS6----------</tag>
 </m>
 <m id="m-cmpr9416-025-p13s3w10">
 <src.rf>manual</src.rf>

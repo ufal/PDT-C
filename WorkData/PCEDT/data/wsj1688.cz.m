@@ -564,7 +564,7 @@
 <form>nějž</form>
 <tag>
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">P9ZS2---------1</AM>
-<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJZS4---------2</AM>
+<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">P4ZS4---------2</AM>
 </tag>
 </m>
 <m id="m-wsj1688-001-p1s1W27-Ta">

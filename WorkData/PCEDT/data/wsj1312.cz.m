@@ -3861,7 +3861,7 @@
 <tag>
 <AM lemma="AA-88" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="Aa_;G_^(řeka)" src="auto">NNFXX-----A----</AM>
-<AM lemma="AA-33_^(označení_pomocí_písmen)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="AA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1312-001-p1s11W23-Ta">
@@ -5295,7 +5295,7 @@
 <tag>
 <AM lemma="AA-88" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="Aa_;G_^(řeka)" src="auto">NNFXX-----A----</AM>
-<AM lemma="AA-33_^(označení_pomocí_písmen)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="AA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1312-001-p1s15W11-Ta">
@@ -5390,7 +5390,7 @@
 <tag>
 <AM lemma="AA-88" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="Aa_;G_^(řeka)" src="auto">NNFXX-----A----</AM>
-<AM lemma="AA-33_^(označení_pomocí_písmen)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="AA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1312-001-p1s15W18-Ta">
@@ -13076,7 +13076,7 @@
 <tag>
 <AM lemma="AA-88" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="Aa_;G_^(řeka)" src="auto">NNFXX-----A----</AM>
-<AM lemma="AA-33_^(označení_pomocí_písmen)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="AA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1312-001-p1s41W10-Ta">
@@ -13179,7 +13179,7 @@
 <tag>
 <AM lemma="AA-88" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="Aa_;G_^(řeka)" src="auto">NNFXX-----A----</AM>
-<AM lemma="AA-33_^(označení_pomocí_písmen)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="AA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1312-001-p1s41W18-Ta">

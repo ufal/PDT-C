@@ -166,7 +166,7 @@
 <LM>w#w-wsj2408-001-p1s0W13</LM>
 </w.rf>
 <form>jenž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJYS1----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">P4YS1----------</tag>
 </m>
 <m id="m-wsj2408-001-p1s0W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -490,7 +490,7 @@
 <LM>w#w-wsj2408-001-p1s1W11</LM>
 </w.rf>
 <form>jenž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJYS1----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">P4YS1----------</tag>
 </m>
 <m id="m-wsj2408-001-p1s1W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -651,7 +651,7 @@
 <LM>w#w-wsj2408-001-p1s2W8</LM>
 </w.rf>
 <form>jenž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJYS1----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">P4YS1----------</tag>
 </m>
 <m id="m-wsj2408-001-p1s2W9-Ta">
 <src.rf>tagger-a</src.rf>

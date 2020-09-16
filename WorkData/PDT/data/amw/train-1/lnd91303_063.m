@@ -1007,7 +1007,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>jež</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJFS1----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4FS1----------</tag>
 </m>
 <m id="m-lnd91303-063-p6s3w7">
 <src.rf>manual</src.rf>
@@ -1862,7 +1862,7 @@
 <LM>w#w-lnd91303-063-p6s10w13</LM>
 </w.rf>
 <form>jež</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJFS1----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4FS1----------</tag>
 </m>
 <m id="m-lnd91303-063-p6s10w14">
 <src.rf>manual</src.rf>
@@ -2889,7 +2889,7 @@
 <LM>w#w-lnd91303-063-p6s17w8</LM>
 </w.rf>
 <form>jež</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJFS1----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4FS1----------</tag>
 </m>
 <m id="m-lnd91303-063-p6s17w9">
 <src.rf>manual</src.rf>
@@ -11630,7 +11630,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>jež</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJFS1----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4FS1----------</tag>
 </m>
 <m id="m-lnd91303-063-p22s10w7">
 <src.rf>manual</src.rf>

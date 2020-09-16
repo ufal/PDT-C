@@ -941,7 +941,7 @@
 <LM>w#w-lnd92253-033-p4s1w25</LM>
 </w.rf>
 <form>jehož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJZS2----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS2----------</tag>
 </m>
 <m id="m-lnd92253-033-p4s1w26">
 <src.rf>manual</src.rf>
@@ -1348,7 +1348,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>již</form>
-<tag lemma="jenž_^(kterou_[ve_vedl.větě])" src="orig" selected="1">PJFS4----------</tag>
+<tag lemma="jenž_^(kterou_[ve_vedl.větě])" src="orig" selected="1">P4FS4----------</tag>
 </m>
 <m id="m-lnd92253-033-p4s4w9">
 <src.rf>manual</src.rf>
@@ -1731,7 +1731,7 @@
 <LM>w#w-lnd92253-033-p4s6w23</LM>
 </w.rf>
 <form>nichž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJXP6----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4XP6----------</tag>
 </m>
 <m id="m-lnd92253-033-p4s6w24">
 <src.rf>manual</src.rf>
@@ -2464,7 +2464,7 @@
 <LM>w#w-lnd92253-033-p5s2w7</LM>
 </w.rf>
 <form>jež</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJNP1----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4NP1----------</tag>
 </m>
 <m id="m-lnd92253-033-p5s2w8">
 <src.rf>manual</src.rf>
@@ -2749,7 +2749,7 @@
 <LM>w#w-lnd92253-033-p5s3w24</LM>
 </w.rf>
 <form>jehož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJZS2----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS2----------</tag>
 </m>
 <m id="m-lnd92253-033-p5s3w25">
 <src.rf>manual</src.rf>
@@ -2954,7 +2954,7 @@
 <LM>w#w-lnd92253-033-p5s4w11</LM>
 </w.rf>
 <form>jež</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJFS1----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4FS1----------</tag>
 </m>
 <m id="m-lnd92253-033-p5s4w12">
 <src.rf>manual</src.rf>
@@ -4556,7 +4556,7 @@
 <LM>w#w-lnd92253-033-p7s2w13</LM>
 </w.rf>
 <form>jež</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJXP4----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4XP4----------</tag>
 </m>
 <m id="m-lnd92253-033-p7s2w14">
 <src.rf>manual</src.rf>

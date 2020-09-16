@@ -19644,7 +19644,7 @@
 <form>nichž</form>
 <tag>
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">P9XP2----------</AM>
-<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJXP6----------</AM>
+<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">P4XP6----------</AM>
 </tag>
 </m>
 <m id="m-wsj1037-001-p1s62W14-Ta">
@@ -21909,7 +21909,7 @@
 <form>nichž</form>
 <tag>
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">P9XP2----------</AM>
-<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJXP6----------</AM>
+<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">P4XP6----------</AM>
 </tag>
 </m>
 <m id="m-wsj1037-001-p1s69W16-Ta">

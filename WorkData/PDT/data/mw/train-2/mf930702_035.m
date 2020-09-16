@@ -942,7 +942,7 @@
 <LM>w#w-mf930702-035-p3s1w31</LM>
 </w.rf>
 <form>jež</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJXP4----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4XP4----------</tag>
 </m>
 <m id="m-mf930702-035-p3s1w32">
 <src.rf>manual</src.rf>
@@ -1353,7 +1353,7 @@
 <LM>w#w-mf930702-035-p4s2w14</LM>
 </w.rf>
 <form>jež</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJXP4----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4XP4----------</tag>
 </m>
 <m id="m-mf930702-035-p4s2w15">
 <src.rf>manual</src.rf>

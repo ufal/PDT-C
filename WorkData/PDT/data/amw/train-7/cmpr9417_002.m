@@ -2768,7 +2768,7 @@
 <LM>w#w-cmpr9417-002-p10s6w23</LM>
 </w.rf>
 <form>něž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJXP4----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4XP4----------</tag>
 </m>
 <m id="m-cmpr9417-002-p10s6w24">
 <src.rf>manual</src.rf>
@@ -5228,7 +5228,7 @@
 <LM>w#w-cmpr9417-002-p16s2w8</LM>
 </w.rf>
 <form>něž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJXP4----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4XP4----------</tag>
 </m>
 <m id="m-cmpr9417-002-p16s2w9">
 <src.rf>manual</src.rf>
@@ -6832,7 +6832,7 @@
 <LM>w#w-cmpr9417-002-p18s2w9</LM>
 </w.rf>
 <form>níž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJFS6----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4FS6----------</tag>
 </m>
 <m id="m-cmpr9417-002-p18s2w10">
 <src.rf>manual</src.rf>

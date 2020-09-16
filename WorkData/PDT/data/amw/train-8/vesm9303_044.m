@@ -601,7 +601,7 @@
 <LM>w#w-vesm9303-044-p2s2w6</LM>
 </w.rf>
 <form>jež</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJFS1----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4FS1----------</tag>
 </m>
 <m id="m-vesm9303-044-p2s2w7">
 <src.rf>manual</src.rf>
@@ -731,7 +731,7 @@
 <form>IIIB</form>
 <tag>
 <AM lemma="IIIB-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="IIIB-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="IIIB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-044-p2s2w20">
@@ -1062,7 +1062,7 @@
 <LM>w#w-vesm9303-044-p3s1w10</LM>
 </w.rf>
 <form>nějž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJZS2---------2</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS2---------2</tag>
 </m>
 <m id="m-vesm9303-044-p3s1w11">
 <src.rf>manual</src.rf>
@@ -1120,7 +1120,7 @@
 <form>IIIB</form>
 <tag>
 <AM lemma="IIIB-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="IIIB-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="IIIB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-044-p3s1w18">
@@ -1347,7 +1347,7 @@
 <form>IIIB</form>
 <tag>
 <AM lemma="IIIB-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="IIIB-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="IIIB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-044-p3s2w18">
@@ -1931,7 +1931,7 @@
 <LM>w#w-vesm9303-044-p3s5w25</LM>
 </w.rf>
 <form>nichž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJXP2----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4XP2----------</tag>
 </m>
 <m id="m-vesm9303-044-p3s5w26">
 <src.rf>manual</src.rf>

@@ -2009,7 +2009,7 @@
 <LM>w#w-vesm9301-026-p7s3w7</LM>
 </w.rf>
 <form>nichž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJXP6----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4XP6----------</tag>
 </m>
 <m id="m-vesm9301-026-p7s3w8">
 <src.rf>manual</src.rf>
@@ -2766,7 +2766,7 @@
 <LM>w#w-vesm9301-026-p8s1w15</LM>
 </w.rf>
 <form>nějž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJZS4---------2</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS4---------2</tag>
 </m>
 <m id="m-vesm9301-026-p8s1w16">
 <src.rf>manual</src.rf>

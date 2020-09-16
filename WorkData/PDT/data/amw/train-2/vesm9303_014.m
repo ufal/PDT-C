@@ -795,7 +795,7 @@
 <LM>w#w-vesm9303-014-p1s6w15</LM>
 </w.rf>
 <form>jež</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJIP1----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4IP1----------</tag>
 </m>
 <m id="m-vesm9303-014-p1s6w16">
 <src.rf>manual</src.rf>

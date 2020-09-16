@@ -1416,7 +1416,7 @@
 <LM>w#w-lnd92257-006-p5s4w12</LM>
 </w.rf>
 <form>jež</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJNS4----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4NS4----------</tag>
 </m>
 <m id="m-lnd92257-006-p5s4w13">
 <src.rf>manual</src.rf>

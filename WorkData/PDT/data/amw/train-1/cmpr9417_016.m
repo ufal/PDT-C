@@ -4779,7 +4779,7 @@
 <LM>w#w-cmpr9417-016-p19s3w4</LM>
 </w.rf>
 <form>něhož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJZS2----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS2----------</tag>
 </m>
 <m id="m-cmpr9417-016-p19s3w5">
 <src.rf>manual</src.rf>

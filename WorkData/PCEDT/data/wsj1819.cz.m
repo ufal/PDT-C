@@ -370,7 +370,7 @@
 <LM>w#w-wsj1819-001-p1s0W27</LM>
 </w.rf>
 <form>jenž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJYS1----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">P4YS1----------</tag>
 </m>
 <m id="m-wsj1819-001-p1s0W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6784,7 +6784,7 @@
 <form>nějž</form>
 <tag>
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">P9ZS2---------1</AM>
-<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJZS4---------2</AM>
+<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">P4ZS4---------2</AM>
 </tag>
 </m>
 <m id="m-wsj1819-001-p1s18W17-Ta">
@@ -14714,7 +14714,7 @@
 <LM>w#w-wsj1819-001-p1s41W31</LM>
 </w.rf>
 <form>jenž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJYS1----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">P4YS1----------</tag>
 </m>
 <m id="m-wsj1819-001-p1s41W32-Ta">
 <src.rf>tagger-a</src.rf>

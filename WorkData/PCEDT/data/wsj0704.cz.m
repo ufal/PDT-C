@@ -1033,7 +1033,7 @@
 <form>Baa</form>
 <tag>
 <AM lemma="Bao-1_;G" src="auto" recommended="1">NNNS2-----A----</AM>
-<AM lemma="Baa-33_^(označení_pomocí_písmen)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Baa-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0704-001-p1s3W6-Ta">
@@ -1188,7 +1188,7 @@
 <form>Bbb</form>
 <tag>
 <AM lemma="Bbb" src="auto">X@-------------</AM>
-<AM lemma="Bbb-33_^(označení_pomocí_písmen)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Bbb-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0704-001-p1s3W19-Ta">
@@ -3438,7 +3438,7 @@
 <form>Aa</form>
 <tag>
 <AM lemma="Aa_;G_^(řeka)" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Aa-33_^(označení_pomocí_písmen)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Aa-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0704-001-p1s11W15-Ta">
@@ -12871,7 +12871,7 @@
 <form>Aaa</form>
 <tag>
 <AM lemma="aaa_,x" src="auto" recommended="1">II-------------</AM>
-<AM lemma="Aaa-33_^(označení_pomocí_písmen)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Aaa-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0704-001-p1s42W17-Ta">

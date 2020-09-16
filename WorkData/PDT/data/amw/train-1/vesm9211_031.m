@@ -21809,7 +21809,7 @@
 <LM>w#w-vesm9211-031-p55s1w27</LM>
 </w.rf>
 <form>jehož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJZS2----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS2----------</tag>
 </m>
 <m id="m-vesm9211-031-p55s1w28">
 <src.rf>manual</src.rf>

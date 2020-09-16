@@ -3309,7 +3309,7 @@
 <LM>w#w-vesm9303-024-p7s1w17</LM>
 </w.rf>
 <form>jež</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJIP1----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4IP1----------</tag>
 </m>
 <m id="m-vesm9303-024-p7s1w18">
 <src.rf>manual</src.rf>
@@ -3365,7 +3365,7 @@
 <LM>w#w-vesm9303-024-p7s1w24</LM>
 </w.rf>
 <form>něž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJXP4----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4XP4----------</tag>
 </m>
 <m id="m-vesm9303-024-p7s1w25">
 <src.rf>manual</src.rf>

@@ -2630,7 +2630,7 @@
 <LM>w#w-vesm9303-004-p6s1w9</LM>
 </w.rf>
 <form>něhož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJZS2----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS2----------</tag>
 </m>
 <m id="m-vesm9303-004-p6s1w10">
 <src.rf>manual</src.rf>

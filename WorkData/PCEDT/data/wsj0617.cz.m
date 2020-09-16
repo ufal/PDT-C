@@ -1687,7 +1687,7 @@
 </w.rf>
 <form>nichž</form>
 <tag>
-<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJXP2----------</AM>
+<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">P4XP2----------</AM>
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">P9XP6----------</AM>
 </tag>
 </m>
@@ -3908,7 +3908,7 @@
 <tag>
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJFS2----------</AM>
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">PJFS3----------</AM>
-<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" selected="1">PJFS7---------1</AM>
+<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" selected="1">P4FS7---------1</AM>
 </tag>
 </m>
 <m id="m-wsj0617-001-p1s10W35-Ta">
@@ -8810,7 +8810,7 @@
 </w.rf>
 <form>nichž</form>
 <tag>
-<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJXP2----------</AM>
+<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">P4XP2----------</AM>
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">P9XP6----------</AM>
 </tag>
 </m>
@@ -15411,7 +15411,7 @@
 <form>nichž</form>
 <tag>
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">P9XP2----------</AM>
-<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJXP6----------</AM>
+<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">P4XP6----------</AM>
 </tag>
 </m>
 <m id="m-wsj0617-001-p1s46W45-Ta">

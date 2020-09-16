@@ -2027,7 +2027,7 @@
 <LM>w#w-lnd92258-078-p27s1w8</LM>
 </w.rf>
 <form>jež</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJNS1----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4NS1----------</tag>
 </m>
 <m id="m-lnd92258-078-p27s1w9">
 <src.rf>manual</src.rf>
@@ -2230,7 +2230,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>jenž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJYS1----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4YS1----------</tag>
 </m>
 <m id="m-lnd92258-078-p27s2w18">
 <src.rf>manual</src.rf>

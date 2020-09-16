@@ -1044,7 +1044,7 @@
 <LM>w#w-mf920901-008-p5s3w9</LM>
 </w.rf>
 <form>jež</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJFS1----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4FS1----------</tag>
 </m>
 <m id="m-mf920901-008-p5s3w10">
 <src.rf>manual</src.rf>
@@ -1148,7 +1148,7 @@
 <LM>w#w-mf920901-008-p5s3w22</LM>
 </w.rf>
 <form>již</form>
-<tag lemma="jenž_^(kterou_[ve_vedl.větě])" src="orig" selected="1">PJFS4----------</tag>
+<tag lemma="jenž_^(kterou_[ve_vedl.větě])" src="orig" selected="1">P4FS4----------</tag>
 </m>
 <m id="m-mf920901-008-p5s3w23">
 <src.rf>manual</src.rf>

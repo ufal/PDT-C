@@ -793,7 +793,7 @@
 <LM>w#w-mf920922-115-p3s3w27</LM>
 </w.rf>
 <form>jež</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJFP1----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4FP1----------</tag>
 </m>
 <m id="m-mf920922-115-p3s3w28">
 <src.rf>manual</src.rf>

@@ -59,7 +59,7 @@
 <LM>w#w-ln95041-076-p1s1w6</LM>
 </w.rf>
 <form>jejž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJZS4---------1</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS4---------1</tag>
 </m>
 <m id="m-ln95041-076-p1s1w7">
 <src.rf>manual</src.rf>

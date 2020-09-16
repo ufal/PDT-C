@@ -545,7 +545,7 @@
 <LM>w#w-ln94208-134-p2s4w6</LM>
 </w.rf>
 <form>jíž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJFS3---------1</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4FS3---------1</tag>
 </m>
 <m id="m-ln94208-134-p2s4w7">
 <src.rf>manual</src.rf>

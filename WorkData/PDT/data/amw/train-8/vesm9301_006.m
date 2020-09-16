@@ -2159,7 +2159,7 @@
 <LM>w#w-vesm9301-006-p5s4w27</LM>
 </w.rf>
 <form>nichž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJXP6----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4XP6----------</tag>
 </m>
 <m id="m-vesm9301-006-p5s4w28">
 <src.rf>manual</src.rf>
@@ -12175,7 +12175,7 @@
 <AM lemma="IA" src="orig">NNNXX-----A----</AM>
 <AM lemma="Iowa_:B_;G_,t" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="IA_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="IA-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="IA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-006-p15s2w45">

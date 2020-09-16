@@ -1618,7 +1618,7 @@
 <AM lemma="MB_:B" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="megabit_:B" src="auto">NNIXX-----A---8</AM>
 <AM lemma="MB-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="MB-33_^(označení_pomocí_písmen)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="MB-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2426-001-p1s4W16-Ta">

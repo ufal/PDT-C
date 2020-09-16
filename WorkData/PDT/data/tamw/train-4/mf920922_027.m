@@ -1943,7 +1943,7 @@
 <LM>w#w-mf920922-027-p3s1Bw26</LM>
 </w.rf>
 <form>něhož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJZS2----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS2----------</tag>
 </m>
 <m id="m-mf920922-027-p3s1Bw27">
 <src.rf>manual</src.rf>

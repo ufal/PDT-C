@@ -4586,7 +4586,7 @@
 <LM>w#w-ln94205-136-p5s11w8</LM>
 </w.rf>
 <form>již</form>
-<tag lemma="jenž_^(kterou_[ve_vedl.větě])" src="orig" selected="1">PJFS4----------</tag>
+<tag lemma="jenž_^(kterou_[ve_vedl.větě])" src="orig" selected="1">P4FS4----------</tag>
 </m>
 <m id="m-ln94205-136-p5s11w9">
 <src.rf>manual</src.rf>

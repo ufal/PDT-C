@@ -396,7 +396,7 @@
 <LM>w#w-wsj2270-001-p1s1W29</LM>
 </w.rf>
 <form>jenž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJYS1----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">P4YS1----------</tag>
 </m>
 <m id="m-wsj2270-001-p1s1W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -639,7 +639,7 @@
 <LM>w#w-wsj2270-001-p1s2W19</LM>
 </w.rf>
 <form>jenž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1" selected="1">PJYS1----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1" selected="1">P4YS1----------</tag>
 </m>
 <m id="m-wsj2270-001-p1s2W20-Ta">
 <src.rf>tagger-a</src.rf>

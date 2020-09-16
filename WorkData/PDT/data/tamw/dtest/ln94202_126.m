@@ -1004,7 +1004,7 @@
 <LM>w#w-ln94202-126-p3s1w11</LM>
 </w.rf>
 <form>jenž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJYS1----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4YS1----------</tag>
 </m>
 <m id="m-ln94202-126-p3s1w12">
 <src.rf>manual</src.rf>

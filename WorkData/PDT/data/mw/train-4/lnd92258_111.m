@@ -440,7 +440,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>jejž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJZS4---------1</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS4---------1</tag>
 </m>
 <m id="m-lnd92258-111-p3s2w22">
 <src.rf>manual</src.rf>

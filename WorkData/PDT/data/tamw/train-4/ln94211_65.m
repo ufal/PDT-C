@@ -851,7 +851,7 @@
 <LM>w#w-ln94211-65-p3s1w20</LM>
 </w.rf>
 <form>jenž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJYS1----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4YS1----------</tag>
 </m>
 <m id="m-ln94211-65-p3s1w21">
 <src.rf>manual</src.rf>

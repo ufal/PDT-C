@@ -1191,7 +1191,7 @@
 <LM>w#w-ln94211-82-p3s5w11</LM>
 </w.rf>
 <form>níž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJFS6----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4FS6----------</tag>
 </m>
 <m id="m-ln94211-82-p3s5w12">
 <src.rf>manual</src.rf>

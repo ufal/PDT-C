@@ -3123,7 +3123,7 @@
 <LM>w#w-wsj1271-001-p1s9W12</LM>
 </w.rf>
 <form>jenž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJYS1----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">P4YS1----------</tag>
 </m>
 <m id="m-wsj1271-001-p1s9W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8145,7 +8145,7 @@
 </w.rf>
 <form>něhož</form>
 <tag>
-<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJZS2----------</AM>
+<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">P4ZS2----------</AM>
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">P9ZS4----------</AM>
 </tag>
 </m>

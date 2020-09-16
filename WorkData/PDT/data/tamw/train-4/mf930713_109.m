@@ -85,7 +85,7 @@
 <LM>w#w-mf930713-109-p2s1w6</LM>
 </w.rf>
 <form>níž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJFS6----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4FS6----------</tag>
 </m>
 <m id="m-mf930713-109-p2s1w7">
 <src.rf>manual</src.rf>
@@ -251,7 +251,7 @@
 <LM>w#w-mf930713-109-p2s1w26</LM>
 </w.rf>
 <form>nějž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJZS2---------2</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS2---------2</tag>
 </m>
 <m id="m-mf930713-109-p2s1w27">
 <src.rf>manual</src.rf>

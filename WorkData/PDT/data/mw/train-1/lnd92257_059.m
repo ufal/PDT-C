@@ -2842,7 +2842,7 @@
 <LM>w#w-lnd92257-059-p5s5w22</LM>
 </w.rf>
 <form>níž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJFS7----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4FS7----------</tag>
 </m>
 <m id="m-lnd92257-059-p5s5w23">
 <src.rf>manual</src.rf>

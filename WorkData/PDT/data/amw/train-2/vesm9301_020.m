@@ -1191,7 +1191,7 @@
 <LM>w#w-vesm9301-020-p2s7w10</LM>
 </w.rf>
 <form>nichž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJXP6----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4XP6----------</tag>
 </m>
 <m id="m-vesm9301-020-p2s7w11">
 <src.rf>manual</src.rf>

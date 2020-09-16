@@ -1839,7 +1839,7 @@
 <LM>w#w-ln94204-159-p8s1w17</LM>
 </w.rf>
 <form>nichž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJXP2----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4XP2----------</tag>
 </m>
 <m id="m-ln94204-159-p8s1w18">
 <src.rf>manual</src.rf>

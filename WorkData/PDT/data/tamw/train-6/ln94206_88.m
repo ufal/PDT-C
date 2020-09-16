@@ -226,7 +226,7 @@
 <LM>w#w-ln94206-88-p2s1Bw17</LM>
 </w.rf>
 <form>nichž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJXP6----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4XP6----------</tag>
 </m>
 <m id="m-ln94206-88-p2s1Bw18">
 <src.rf>manual</src.rf>

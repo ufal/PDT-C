@@ -2107,7 +2107,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>jíž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJFS2---------1</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4FS2---------1</tag>
 </m>
 <m id="m-ln94205-71-p4s6w27">
 <src.rf>manual</src.rf>

@@ -780,7 +780,7 @@
 <LM>w#w-ln94200-119-p4s1w15</LM>
 </w.rf>
 <form>níž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJFS6----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4FS6----------</tag>
 </m>
 <m id="m-ln94200-119-p4s1w16">
 <src.rf>manual</src.rf>

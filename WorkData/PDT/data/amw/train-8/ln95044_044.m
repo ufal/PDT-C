@@ -10203,7 +10203,7 @@
 <LM>w#w-ln95044-044-p15s13w10</LM>
 </w.rf>
 <form>jehož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJMS4----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4MS4----------</tag>
 </m>
 <m id="m-ln95044-044-p15s13w11">
 <src.rf>manual</src.rf>

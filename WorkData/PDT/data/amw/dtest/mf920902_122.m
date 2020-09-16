@@ -4224,7 +4224,7 @@
 <LM>w#w-mf920902-122-p9s3w4</LM>
 </w.rf>
 <form>jenž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJYS1----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4YS1----------</tag>
 </m>
 <m id="m-mf920902-122-p9s3w5">
 <src.rf>manual</src.rf>

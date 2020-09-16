@@ -3721,7 +3721,7 @@
 <form>již</form>
 <tag>
 <AM lemma="jenž_^(kterou_[ve_vedl.větě])" src="auto">PJFS4----------</AM>
-<AM lemma="jenž_^(kteří_[ve_vedl.větě])" src="auto" recommended="1">PJMP1----------</AM>
+<AM lemma="jenž_^(kteří_[ve_vedl.větě])" src="auto" recommended="1">P4MP1----------</AM>
 <AM lemma="již-1" src="auto">Db-------------</AM>
 <AM lemma="již-2" src="auto">TT-------------</AM>
 </tag>

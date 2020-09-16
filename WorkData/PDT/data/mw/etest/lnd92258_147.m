@@ -3266,7 +3266,7 @@
 <LM>w#w-lnd92258-147-p6s8w30</LM>
 </w.rf>
 <form>níž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJFS6----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4FS6----------</tag>
 </m>
 <m id="m-lnd92258-147-p6s8w31">
 <src.rf>manual</src.rf>

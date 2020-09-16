@@ -1007,7 +1007,7 @@
 <LM>w#w-lnd94101-106-p1s8w7</LM>
 </w.rf>
 <form>nichž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJXP2----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4XP2----------</tag>
 </m>
 <m id="m-lnd94101-106-p1s8w8">
 <src.rf>manual</src.rf>

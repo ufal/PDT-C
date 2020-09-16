@@ -206,7 +206,7 @@
 <AM lemma="CC-88" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="Cc-88" src="auto">BNXXX-----A----</AM>
 <AM lemma="cc-88" src="auto">BNXXX-----A----</AM>
-<AM lemma="CC-33_^(označení_pomocí_písmen)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="CC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0143-001-p1s0W19-Ta">

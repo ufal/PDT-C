@@ -888,7 +888,7 @@
 <LM>w#w-lnd92256-056-p4s3w14</LM>
 </w.rf>
 <form>jež</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJXP4----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4XP4----------</tag>
 </m>
 <m id="m-lnd92256-056-p4s3w15">
 <src.rf>manual</src.rf>

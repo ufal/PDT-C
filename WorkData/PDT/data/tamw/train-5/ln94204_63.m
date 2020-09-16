@@ -450,7 +450,7 @@
 <LM>w#w-ln94204-63-p2s2w15</LM>
 </w.rf>
 <form>jíž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJFS3---------1</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4FS3---------1</tag>
 </m>
 <m id="m-ln94204-63-p2s2w16">
 <src.rf>manual</src.rf>

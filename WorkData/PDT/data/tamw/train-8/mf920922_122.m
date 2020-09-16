@@ -3956,7 +3956,7 @@
 <LM>w#w-mf920922-122-p2s26w34</LM>
 </w.rf>
 <form>jež</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJIP1----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4IP1----------</tag>
 </m>
 <m id="m-mf920922-122-p2s26w35">
 <src.rf>manual</src.rf>

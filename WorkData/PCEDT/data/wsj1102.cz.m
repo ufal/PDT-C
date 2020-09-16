@@ -4367,7 +4367,7 @@
 </w.rf>
 <form>něž</form>
 <tag>
-<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" selected="1">PJNS4----------</AM>
+<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" selected="1">P4NS4----------</AM>
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">P9XP4----------</AM>
 </tag>
 </m>

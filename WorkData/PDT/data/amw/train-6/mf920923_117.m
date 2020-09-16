@@ -220,7 +220,7 @@
 <LM>w#w-mf920923-117-p4s2w14</LM>
 </w.rf>
 <form>jehož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJMS4----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4MS4----------</tag>
 </m>
 <m id="m-mf920923-117-p4s2w15">
 <src.rf>manual</src.rf>

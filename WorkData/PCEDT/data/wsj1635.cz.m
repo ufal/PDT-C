@@ -18653,7 +18653,7 @@
 <form>něž</form>
 <tag>
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">P9NS4----------</AM>
-<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJXP4----------</AM>
+<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">P4XP4----------</AM>
 </tag>
 </m>
 <m id="m-wsj1635-001-p1s75W13-Ta">
@@ -20350,7 +20350,7 @@
 <tag>
 <AM lemma="AAA-88" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="aaa_,x" src="auto">II-------------</AM>
-<AM lemma="AAA-33_^(označení_pomocí_písmen)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="AAA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1635-001-p1s82W9-Ta">

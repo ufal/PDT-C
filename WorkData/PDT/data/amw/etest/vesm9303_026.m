@@ -14725,7 +14725,7 @@
 <tag>
 <AM lemma="pc-3_^(označení_pomocí_písmene)" src="orig">NNXXX-----A----</AM>
 <AM lemma="parsek_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="pc-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="pc-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-026-p18s2w20">
@@ -16311,7 +16311,7 @@
 <tag>
 <AM lemma="pc-3_^(označení_pomocí_písmene)" src="orig">NNXXX-----A----</AM>
 <AM lemma="parsek_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="pc-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="pc-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-026-p21s3Bw6">
@@ -16420,7 +16420,7 @@
 <tag>
 <AM lemma="pc-3_^(označení_pomocí_písmene)" src="orig">NNXXX-----A----</AM>
 <AM lemma="parsek_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="pc-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="pc-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-026-p21s4w7">
@@ -18694,7 +18694,7 @@
 <AM lemma="pc-3_^(označení_pomocí_písmene)" src="orig">NNXXX-----A----</AM>
 <AM lemma="parsek_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="pc-33_^(označení_pomocí_písmene)" src="manual">NNXXX-----A----</AM>
-<AM lemma="pc-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="pc-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-026-p31s1w34">
@@ -18824,7 +18824,7 @@
 <tag>
 <AM lemma="pc-3_^(označení_pomocí_písmene)" src="orig">NNXXX-----A----</AM>
 <AM lemma="parsek_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="pc-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="pc-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-026-p31s1w49">
@@ -19418,7 +19418,7 @@
 <tag>
 <AM lemma="pc-3_^(označení_pomocí_písmene)" src="orig">NNXXX-----A----</AM>
 <AM lemma="parsek_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="pc-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="pc-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-026-p31s6w12">

@@ -1073,7 +1073,7 @@
 <LM>w#w-lnd92251-075-p4s1w46</LM>
 </w.rf>
 <form>jež</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJIP1----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4IP1----------</tag>
 </m>
 <m id="m-lnd92251-075-p4s1w47">
 <src.rf>manual</src.rf>

@@ -708,7 +708,7 @@
 <LM>w#w-wsj1591-001-p1s2W22</LM>
 </w.rf>
 <form>jenž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJYS1----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">P4YS1----------</tag>
 </m>
 <m id="m-wsj1591-001-p1s2W23-Ta">
 <src.rf>tagger-a</src.rf>

@@ -1163,7 +1163,7 @@
 <LM>w#w-mf930713-012-p2s4w34</LM>
 </w.rf>
 <form>níž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJFS3----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4FS3----------</tag>
 </m>
 <m id="m-mf930713-012-p2s4w35">
 <src.rf>manual</src.rf>

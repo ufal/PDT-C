@@ -576,7 +576,7 @@
 <LM>w#w-lnd94104-070-p1s20w24</LM>
 </w.rf>
 <form>jež</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJNS1----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4NS1----------</tag>
 </m>
 <m id="m-lnd94104-070-p1s20w25">
 <src.rf>manual</src.rf>

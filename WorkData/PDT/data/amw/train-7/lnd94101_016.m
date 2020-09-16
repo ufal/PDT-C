@@ -271,7 +271,7 @@
 <LM>w#w-lnd94101-016-p1s3w22</LM>
 </w.rf>
 <form>jenž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJYS1----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4YS1----------</tag>
 </m>
 <m id="m-lnd94101-016-p1s3w23">
 <src.rf>manual</src.rf>

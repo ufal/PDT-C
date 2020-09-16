@@ -657,7 +657,7 @@
 <LM>w#w-lnd94103-021-p1s6w12</LM>
 </w.rf>
 <form>jíž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJFS7---------1</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4FS7---------1</tag>
 </m>
 <m id="m-lnd94103-021-p1s6w13">
 <src.rf>manual</src.rf>

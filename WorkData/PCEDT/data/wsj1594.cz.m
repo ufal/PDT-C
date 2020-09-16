@@ -5428,7 +5428,7 @@
 <form>jenž</form>
 <tag>
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJYS1----------</AM>
-<AM lemma="jenž_^(který_[ve_vedl.větě])" src="manual" selected="1">PJFP1---------6</AM>
+<AM lemma="jenž_^(který_[ve_vedl.větě])" src="manual" selected="1">P4FP1---------6</AM>
 </tag>
 </m>
 <m id="m-wsj1594-001-p1s19W6-Ta">

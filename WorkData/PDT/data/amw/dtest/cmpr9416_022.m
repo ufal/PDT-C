@@ -6642,7 +6642,7 @@
 <LM>w#w-cmpr9416-022-p13s1w9</LM>
 </w.rf>
 <form>nichž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJXP2----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4XP2----------</tag>
 </m>
 <m id="m-cmpr9416-022-p13s1w10">
 <src.rf>manual</src.rf>

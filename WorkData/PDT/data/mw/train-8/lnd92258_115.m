@@ -2378,7 +2378,7 @@
 <LM>w#w-lnd92258-115-p10s1w12</LM>
 </w.rf>
 <form>nějž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJZS4---------2</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS4---------2</tag>
 </m>
 <m id="m-lnd92258-115-p10s1w13">
 <src.rf>manual</src.rf>

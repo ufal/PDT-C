@@ -1448,7 +1448,7 @@
 <LM>w#w-mf930701-121-p2s13w5</LM>
 </w.rf>
 <form>něž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJNS4----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4NS4----------</tag>
 </m>
 <m id="m-mf930701-121-p2s13w6">
 <src.rf>manual</src.rf>

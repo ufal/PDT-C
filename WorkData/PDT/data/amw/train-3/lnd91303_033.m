@@ -1605,7 +1605,7 @@
 <LM>w#w-lnd91303-033-p4s3w82</LM>
 </w.rf>
 <form>nějž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJZS2---------2</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS2---------2</tag>
 </m>
 <m id="m-lnd91303-033-p4s3w83">
 <src.rf>manual</src.rf>

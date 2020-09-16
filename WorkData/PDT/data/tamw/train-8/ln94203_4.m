@@ -3607,7 +3607,7 @@
 <LM>w#w-ln94203-4-p8s2w36</LM>
 </w.rf>
 <form>níž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJFS3----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4FS3----------</tag>
 </m>
 <m id="m-ln94203-4-p8s2w37">
 <src.rf>manual</src.rf>

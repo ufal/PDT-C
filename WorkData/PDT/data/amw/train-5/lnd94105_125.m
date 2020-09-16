@@ -1337,7 +1337,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>jež</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJFP1----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4FP1----------</tag>
 </m>
 <m id="m-lnd94105-125-p1s8w17">
 <src.rf>manual</src.rf>

@@ -549,7 +549,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>jenž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJYS1----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4YS1----------</tag>
 </m>
 <m id="m-ln95048-046-p2s5w14">
 <src.rf>manual</src.rf>
@@ -1287,7 +1287,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>jíž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJFS2---------1</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4FS2---------1</tag>
 </m>
 <m id="m-ln95048-046-p2s14w5">
 <src.rf>manual</src.rf>

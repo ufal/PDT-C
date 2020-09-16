@@ -4519,7 +4519,7 @@
 <LM>w#w-mf920901-031-p8s2Bw13</LM>
 </w.rf>
 <form>níž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJFS2----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4FS2----------</tag>
 </m>
 <m id="m-mf920901-031-p8s2Bw14">
 <src.rf>manual</src.rf>

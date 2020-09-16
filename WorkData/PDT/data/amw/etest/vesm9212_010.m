@@ -1450,7 +1450,7 @@
 <LM>w#w-vesm9212-010-p3s1Aw20</LM>
 </w.rf>
 <form>níž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJFS7----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4FS7----------</tag>
 </m>
 <m id="m-vesm9212-010-p3s1Aw21">
 <src.rf>manual</src.rf>

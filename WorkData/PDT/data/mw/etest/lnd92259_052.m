@@ -167,7 +167,7 @@
 <LM>w#w-lnd92259-052-p3s3w3</LM>
 </w.rf>
 <form>jež</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJIP1----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4IP1----------</tag>
 </m>
 <m id="m-lnd92259-052-p3s3w4">
 <src.rf>manual</src.rf>

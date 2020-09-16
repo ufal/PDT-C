@@ -2343,7 +2343,7 @@
 <LM>w#w-mf930708-157-p7s2w23</LM>
 </w.rf>
 <form>jehož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJZS2----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS2----------</tag>
 </m>
 <m id="m-mf930708-157-p7s2w24">
 <src.rf>manual</src.rf>

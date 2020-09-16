@@ -4322,7 +4322,7 @@
 <LM>w#w-lnd92254-066-p9s2w13</LM>
 </w.rf>
 <form>jehož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJMS4----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4MS4----------</tag>
 </m>
 <m id="m-lnd92254-066-p9s2w14">
 <src.rf>manual</src.rf>

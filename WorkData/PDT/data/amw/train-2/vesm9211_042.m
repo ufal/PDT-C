@@ -6093,7 +6093,7 @@
 <LM>w#w-vesm9211-042-p7s2w9</LM>
 </w.rf>
 <form>jíž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJFS7---------1</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4FS7---------1</tag>
 </m>
 <m id="m-vesm9211-042-p7s2w10">
 <src.rf>manual</src.rf>

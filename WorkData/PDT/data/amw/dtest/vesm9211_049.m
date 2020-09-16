@@ -265,7 +265,7 @@
 <LM>w#w-vesm9211-049-p1s2w20</LM>
 </w.rf>
 <form>jenž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJYS1----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4YS1----------</tag>
 </m>
 <m id="m-vesm9211-049-p1s2w21">
 <src.rf>manual</src.rf>

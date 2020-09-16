@@ -5178,7 +5178,7 @@
 <LM>w#w-mf920925-089-p5s8w11</LM>
 </w.rf>
 <form>jež</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJFS1----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4FS1----------</tag>
 </m>
 <m id="m-mf920925-089-p5s8w12">
 <src.rf>manual</src.rf>

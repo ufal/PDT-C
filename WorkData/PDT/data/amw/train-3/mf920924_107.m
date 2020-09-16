@@ -3715,7 +3715,7 @@
 <LM>w#w-mf920924-107-p15s1w23</LM>
 </w.rf>
 <form>níž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJFS6----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4FS6----------</tag>
 </m>
 <m id="m-mf920924-107-p15s1w24">
 <src.rf>manual</src.rf>

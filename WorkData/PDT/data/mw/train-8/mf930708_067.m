@@ -5547,7 +5547,7 @@
 <LM>w#w-mf930708-067-p12s5w23</LM>
 </w.rf>
 <form>nichž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJXP6----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4XP6----------</tag>
 </m>
 <m id="m-mf930708-067-p12s5w24">
 <src.rf>manual</src.rf>

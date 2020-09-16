@@ -10034,7 +10034,7 @@
 <LM>w#w-lnd92258-077-p47s3w10</LM>
 </w.rf>
 <form>nichž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJXP6----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4XP6----------</tag>
 </m>
 <m id="m-lnd92258-077-p47s3w11">
 <src.rf>manual</src.rf>
@@ -30908,7 +30908,7 @@
 <LM>w#w-lnd92258-077-p37s1Bw7</LM>
 </w.rf>
 <form>jehož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJZS2----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS2----------</tag>
 </m>
 <m id="m-lnd92258-077-p37s1Bw8">
 <src.rf>manual</src.rf>
@@ -32554,7 +32554,7 @@
 <LM>w#w-lnd92258-077-p41s2w5</LM>
 </w.rf>
 <form>jehož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJZS2----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS2----------</tag>
 </m>
 <m id="m-lnd92258-077-p41s2w6">
 <src.rf>manual</src.rf>

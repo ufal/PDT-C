@@ -1006,7 +1006,7 @@
 <LM>w#w-mf920902-075-p2s5w13</LM>
 </w.rf>
 <form>jež</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJNS1----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4NS1----------</tag>
 </m>
 <m id="m-mf920902-075-p2s5w14">
 <src.rf>manual</src.rf>

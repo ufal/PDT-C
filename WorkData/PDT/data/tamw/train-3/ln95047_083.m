@@ -1079,7 +1079,7 @@
 <LM>w#w-ln95047-083-p2s6w15</LM>
 </w.rf>
 <form>níž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJFS2----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4FS2----------</tag>
 </m>
 <m id="m-ln95047-083-p2s6w16">
 <src.rf>manual</src.rf>

@@ -1060,7 +1060,7 @@
 <LM>w#w-mf920925-119-p4s3w14</LM>
 </w.rf>
 <form>jenž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJYS1----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4YS1----------</tag>
 </m>
 <m id="m-mf920925-119-p4s3w15">
 <src.rf>manual</src.rf>
@@ -3285,7 +3285,7 @@
 <LM>w#w-mf920925-119-p9s3w3</LM>
 </w.rf>
 <form>jež</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJFP1----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4FP1----------</tag>
 </m>
 <m id="m-mf920925-119-p9s3w4">
 <src.rf>manual</src.rf>
@@ -5882,7 +5882,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>již</form>
-<tag lemma="jenž_^(kteří_[ve_vedl.větě])" src="auto" selected="1">PJMP1----------</tag>
+<tag lemma="jenž_^(kteří_[ve_vedl.větě])" src="auto" selected="1">P4MP1----------</tag>
 </m>
 <m id="m-mf920925-119-p13s2w42">
 <src.rf>manual</src.rf>

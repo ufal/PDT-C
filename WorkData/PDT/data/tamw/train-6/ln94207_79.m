@@ -11216,7 +11216,7 @@
 <LM>w#w-ln94207-79-p26s1w7</LM>
 </w.rf>
 <form>jež</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJFS1----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4FS1----------</tag>
 </m>
 <m id="m-ln94207-79-p26s1w8">
 <src.rf>manual</src.rf>
@@ -22473,7 +22473,7 @@
 <LM>w#w-ln94207-79-p46s3w17</LM>
 </w.rf>
 <form>něhož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJZS2----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS2----------</tag>
 </m>
 <m id="m-ln94207-79-p46s3w18">
 <src.rf>manual</src.rf>

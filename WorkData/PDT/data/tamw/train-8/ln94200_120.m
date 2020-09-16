@@ -3519,7 +3519,7 @@
 <LM>w#w-ln94200-120-p8s3w20</LM>
 </w.rf>
 <form>nichž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJXP6----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4XP6----------</tag>
 </m>
 <m id="m-ln94200-120-p8s3w21">
 <src.rf>manual</src.rf>

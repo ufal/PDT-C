@@ -1051,7 +1051,7 @@
 <LM>w#w-vesm9303-054-p5s4w17</LM>
 </w.rf>
 <form>jež</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJIP1----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4IP1----------</tag>
 </m>
 <m id="m-vesm9303-054-p5s4w18">
 <src.rf>manual</src.rf>
@@ -11003,7 +11003,7 @@
 <LM>w#w-vesm9303-054-p13s1w68</LM>
 </w.rf>
 <form>jež</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJFS1----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4FS1----------</tag>
 </m>
 <m id="m-vesm9303-054-p13s1w69">
 <src.rf>manual</src.rf>
@@ -14745,7 +14745,7 @@
 <LM>w#w-vesm9303-054-p16s5w18</LM>
 </w.rf>
 <form>níž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJFS6----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4FS6----------</tag>
 </m>
 <m id="m-vesm9303-054-p16s5w19">
 <src.rf>manual</src.rf>
@@ -14987,7 +14987,7 @@
 <LM>w#w-vesm9303-054-p16s6w15</LM>
 </w.rf>
 <form>jež</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJFP1----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4FP1----------</tag>
 </m>
 <m id="m-vesm9303-054-p16s6w16">
 <src.rf>manual</src.rf>

@@ -1019,7 +1019,7 @@
 <LM>w#w-lnd92258-101-p3s5w7</LM>
 </w.rf>
 <form>jež</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJFS1----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4FS1----------</tag>
 </m>
 <m id="m-lnd92258-101-p3s5w8">
 <src.rf>manual</src.rf>

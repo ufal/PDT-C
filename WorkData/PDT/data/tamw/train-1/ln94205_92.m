@@ -3180,7 +3180,7 @@
 <LM>w#w-ln94205-92-p5s7w11</LM>
 </w.rf>
 <form>něž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJXP4----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4XP4----------</tag>
 </m>
 <m id="m-ln94205-92-p5s7w12">
 <src.rf>manual</src.rf>

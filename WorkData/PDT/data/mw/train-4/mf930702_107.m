@@ -1302,7 +1302,7 @@
 <LM>w#w-mf930702-107-p5s3w18</LM>
 </w.rf>
 <form>jež</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJIP1----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4IP1----------</tag>
 </m>
 <m id="m-mf930702-107-p5s3w19">
 <src.rf>manual</src.rf>

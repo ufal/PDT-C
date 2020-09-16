@@ -4445,7 +4445,7 @@
 <tag>
 <AM lemma="AA-88" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="Aa_;G_^(řeka)" src="auto">NNFXX-----A----</AM>
-<AM lemma="AA-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="AA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2387-001-p1s15W34-Ta">
@@ -9399,7 +9399,7 @@
 <LM>w#w-wsj2387-001-p1s35W26</LM>
 </w.rf>
 <form>jenž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJYS1----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">P4YS1----------</tag>
 </m>
 <m id="m-wsj2387-001-p1s35W27-Ta">
 <src.rf>tagger-a</src.rf>

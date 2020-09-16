@@ -736,7 +736,7 @@
 <LM>w#w-ln94202-76-p3s1w32</LM>
 </w.rf>
 <form>níž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJFS7----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4FS7----------</tag>
 </m>
 <m id="m-ln94202-76-p3s1w33">
 <src.rf>manual</src.rf>

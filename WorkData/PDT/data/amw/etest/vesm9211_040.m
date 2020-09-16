@@ -1063,7 +1063,7 @@
 <LM>w#w-vesm9211-040-p5s2w28</LM>
 </w.rf>
 <form>nichž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJXP6----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4XP6----------</tag>
 </m>
 <m id="m-vesm9211-040-p5s2w29">
 <src.rf>manual</src.rf>

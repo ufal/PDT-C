@@ -3033,7 +3033,7 @@
 <LM>w#w-ln94204-35-p4s9w20</LM>
 </w.rf>
 <form>nějž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJZS4---------2</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS4---------2</tag>
 </m>
 <m id="m-ln94204-35-p4s9w21">
 <src.rf>manual</src.rf>

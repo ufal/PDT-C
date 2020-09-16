@@ -526,7 +526,7 @@
 <LM>w#w-ln94203-16-p2s4w6</LM>
 </w.rf>
 <form>jenž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJYS1----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4YS1----------</tag>
 </m>
 <m id="m-ln94203-16-p2s4w7">
 <src.rf>manual</src.rf>

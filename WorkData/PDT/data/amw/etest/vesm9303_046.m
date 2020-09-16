@@ -1679,7 +1679,7 @@
 <LM>w#w-vesm9303-046-p9s5w5</LM>
 </w.rf>
 <form>něž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJXP4----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4XP4----------</tag>
 </m>
 <m id="m-vesm9303-046-p9s5w6">
 <src.rf>manual</src.rf>
@@ -13952,7 +13952,7 @@
 <LM>w#w-vesm9303-046-p59s6w7</LM>
 </w.rf>
 <form>jež</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJFS1----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4FS1----------</tag>
 </m>
 <m id="m-vesm9303-046-p59s6w8">
 <src.rf>manual</src.rf>
@@ -19545,7 +19545,7 @@
 <LM>w#w-vesm9303-046-p106s1w6</LM>
 </w.rf>
 <form>níž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJFS6----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4FS6----------</tag>
 </m>
 <m id="m-vesm9303-046-p106s1w7">
 <src.rf>manual</src.rf>
@@ -20479,7 +20479,7 @@
 <form>XY</form>
 <tag>
 <AM lemma="XY-3_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="XY-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="XY-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-046-p111s1w17">

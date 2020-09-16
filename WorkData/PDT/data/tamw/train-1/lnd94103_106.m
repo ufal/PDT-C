@@ -613,7 +613,7 @@
 <LM>w#w-lnd94103-106-p1s21w8</LM>
 </w.rf>
 <form>něhož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJZS2----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS2----------</tag>
 </m>
 <m id="m-lnd94103-106-p1s21w9">
 <src.rf>manual</src.rf>

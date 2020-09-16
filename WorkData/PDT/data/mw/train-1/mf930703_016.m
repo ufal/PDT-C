@@ -933,7 +933,7 @@
 <LM>w#w-mf930703-016-p3s5w18</LM>
 </w.rf>
 <form>jež</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJNS1----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4NS1----------</tag>
 </m>
 <m id="m-mf930703-016-p3s5w19">
 <src.rf>manual</src.rf>

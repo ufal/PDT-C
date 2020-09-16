@@ -111,7 +111,7 @@
 <form>rho</form>
 <tag>
 <AM lemma="rho-3_^(označení_pomocí_písmene)" src="orig">NNXXX-----A----</AM>
-<AM lemma="rho-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="rho-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-025-p3s1w11">
@@ -157,7 +157,7 @@
 <form>rho</form>
 <tag>
 <AM lemma="rho-3_^(označení_pomocí_písmene)" src="orig">NNXXX-----A----</AM>
-<AM lemma="rho-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="rho-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-025-p3s1w16">
@@ -746,7 +746,7 @@
 <form>rho</form>
 <tag>
 <AM lemma="rho-3_^(označení_pomocí_písmene)" src="orig">NNXXX-----A----</AM>
-<AM lemma="rho-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="rho-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-025-p3s5w18">
@@ -1739,7 +1739,7 @@
 <form>rho</form>
 <tag>
 <AM lemma="rho-3_^(označení_pomocí_písmene)" src="orig">NNXXX-----A----</AM>
-<AM lemma="rho-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="rho-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-025-p5s1w5">
@@ -1828,7 +1828,7 @@
 <form>rho</form>
 <tag>
 <AM lemma="rho-3_^(označení_pomocí_písmene)" src="orig">NNXXX-----A----</AM>
-<AM lemma="rho-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="rho-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-025-p5s1w15">
@@ -1847,7 +1847,7 @@
 <form>rho</form>
 <tag>
 <AM lemma="rho-3_^(označení_pomocí_písmene)" src="orig">NNXXX-----A----</AM>
-<AM lemma="rho-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="rho-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-025-p5s1w17">
@@ -2016,7 +2016,7 @@
 <form>rho</form>
 <tag>
 <AM lemma="rho-3_^(označení_pomocí_písmene)" src="orig">NNXXX-----A----</AM>
-<AM lemma="rho-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="rho-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-025-p5s1w37">
@@ -2035,7 +2035,7 @@
 <form>rho</form>
 <tag>
 <AM lemma="rho-3_^(označení_pomocí_písmene)" src="orig">NNXXX-----A----</AM>
-<AM lemma="rho-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="rho-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-025-p5s1w39">
@@ -2806,7 +2806,7 @@
 <form>rho</form>
 <tag>
 <AM lemma="rho-3_^(označení_pomocí_písmene)" src="orig">NNXXX-----A----</AM>
-<AM lemma="rho-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="rho-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-025-p7s2w5">
@@ -3789,7 +3789,7 @@
 <AM lemma="pc-3_^(označení_pomocí_písmene)" src="orig">NNXXX-----A----</AM>
 <AM lemma="parsek_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="pc_^(označení_pomocí_písmene)" src="manual">NNXXX-----A----</AM>
-<AM lemma="pc-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="pc-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-025-p11s5w9">
@@ -3850,7 +3850,7 @@
 <AM lemma="pc-3_^(označení_pomocí_písmene)" src="orig">NNXXX-----A----</AM>
 <AM lemma="parsek_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="pc_^(označení_pomocí_písmene)" src="manual">NNXXX-----A----</AM>
-<AM lemma="pc-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="pc-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-025-p11s6w5">
@@ -4122,7 +4122,7 @@
 <AM lemma="pc-3_^(označení_pomocí_písmene)" src="orig">NNXXX-----A----</AM>
 <AM lemma="parsek_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="pc_^(označení_pomocí_písmene)" src="manual">NNXXX-----A----</AM>
-<AM lemma="pc-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="pc-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-025-p11s6w38">
@@ -4301,7 +4301,7 @@
 <AM lemma="pc-3_^(označení_pomocí_písmene)" src="orig">NNXXX-----A----</AM>
 <AM lemma="parsek_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="pc_^(označení_pomocí_písmene)" src="manual">NNXXX-----A----</AM>
-<AM lemma="pc-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="pc-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-025-p11s6w59">
@@ -4408,7 +4408,7 @@
 <AM lemma="pc-3_^(označení_pomocí_písmene)" src="orig">NNXXX-----A----</AM>
 <AM lemma="parsek_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="pc_^(označení_pomocí_písmene)" src="manual">NNXXX-----A----</AM>
-<AM lemma="pc-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="pc-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-025-p11s7w5">
@@ -4663,7 +4663,7 @@
 <AM lemma="pc-3_^(označení_pomocí_písmene)" src="orig">NNXXX-----A----</AM>
 <AM lemma="parsek_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="pc_^(označení_pomocí_písmene)" src="manual">NNXXX-----A----</AM>
-<AM lemma="pc-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="pc-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-025-p11s9w13">

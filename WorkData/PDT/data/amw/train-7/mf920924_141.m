@@ -420,7 +420,7 @@
 <LM>w#w-mf920924-141-p3s3w8</LM>
 </w.rf>
 <form>jehož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJZS2----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS2----------</tag>
 </m>
 <m id="m-mf920924-141-p3s3w9">
 <src.rf>manual</src.rf>

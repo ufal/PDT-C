@@ -2633,7 +2633,7 @@
 <LM>w#w-ln94210-97-p4s4w16</LM>
 </w.rf>
 <form>nichž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJXP6----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4XP6----------</tag>
 </m>
 <m id="m-ln94210-97-p4s4w17">
 <src.rf>manual</src.rf>

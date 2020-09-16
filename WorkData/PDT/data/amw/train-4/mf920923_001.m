@@ -227,7 +227,7 @@
 <LM>w#w-mf920923-001-p1s1Cw18</LM>
 </w.rf>
 <form>níž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJFS3----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4FS3----------</tag>
 </m>
 <m id="m-mf920923-001-p1s1Cw19">
 <src.rf>manual</src.rf>

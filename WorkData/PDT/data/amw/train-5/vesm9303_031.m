@@ -5126,7 +5126,7 @@
 <LM>w#w-vesm9303-031-p5s7w17</LM>
 </w.rf>
 <form>jež</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJNS1----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4NS1----------</tag>
 </m>
 <m id="m-vesm9303-031-p5s7w18">
 <src.rf>manual</src.rf>

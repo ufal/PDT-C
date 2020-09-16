@@ -930,7 +930,7 @@
 <LM>w#w-ln95044-035-p3s2w19</LM>
 </w.rf>
 <form>jež</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJNS4----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4NS4----------</tag>
 </m>
 <m id="m-ln95044-035-p3s2w20">
 <src.rf>manual</src.rf>

@@ -3610,7 +3610,7 @@
 <LM>w#w-ln94207-99-p5s5w4</LM>
 </w.rf>
 <form>nichž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJXP6----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4XP6----------</tag>
 </m>
 <m id="m-ln94207-99-p5s5w5">
 <src.rf>manual</src.rf>

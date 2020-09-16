@@ -1212,7 +1212,7 @@
 <LM>w#w-vesm9211-017-p5s4w41</LM>
 </w.rf>
 <form>nichž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJXP6----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4XP6----------</tag>
 </m>
 <m id="m-vesm9211-017-p5s4w42">
 <src.rf>manual</src.rf>
@@ -9717,7 +9717,7 @@
 <LM>w#w-vesm9211-017-p13s1w13</LM>
 </w.rf>
 <form>něhož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJZS2----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS2----------</tag>
 </m>
 <m id="m-vesm9211-017-p13s1w14">
 <src.rf>manual</src.rf>

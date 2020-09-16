@@ -3047,7 +3047,7 @@
 <form>jehož</form>
 <tag>
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">P1XXXZS3-------</AM>
-<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" selected="1">PJMS4----------</AM>
+<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" selected="1">P4MS4----------</AM>
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">PJZS2----------</AM>
 </tag>
 </m>
@@ -12772,7 +12772,7 @@
 <form>jenž</form>
 <tag>
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJYS1----------</AM>
-<AM lemma="jenž_^(který_[ve_vedl.větě])" src="manual" selected="1">PJYP1---------6</AM>
+<AM lemma="jenž_^(který_[ve_vedl.větě])" src="manual" selected="1">P4YP1---------6</AM>
 </tag>
 </m>
 <m id="m-wsj1586-001-p1s53W5-Ta">
@@ -13323,7 +13323,7 @@
 <form>jenž</form>
 <tag>
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJYS1----------</AM>
-<AM lemma="jenž_^(který_[ve_vedl.větě])" src="manual" selected="1">PJYP1---------6</AM>
+<AM lemma="jenž_^(který_[ve_vedl.větě])" src="manual" selected="1">P4YP1---------6</AM>
 </tag>
 </m>
 <m id="m-wsj1586-001-p1s55W7-Ta">

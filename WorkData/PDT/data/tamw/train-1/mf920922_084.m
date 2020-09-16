@@ -1472,7 +1472,7 @@
 <form>jíž</form>
 <tag>
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="orig">PJFS7----------</AM>
-<AM lemma="jenž_^(který_[ve_vedl.větě])" src="manual" selected="1">PJFS2---------1</AM>
+<AM lemma="jenž_^(který_[ve_vedl.větě])" src="manual" selected="1">P4FS2---------1</AM>
 </tag>
 </m>
 <m id="m-mf920922-084-p4s2w18">
@@ -1516,7 +1516,7 @@
 <LM>w#w-mf920922-084-p4s2w22</LM>
 </w.rf>
 <form>jež</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJFS1----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4FS1----------</tag>
 </m>
 <m id="m-mf920922-084-p4s2w23">
 <src.rf>manual</src.rf>

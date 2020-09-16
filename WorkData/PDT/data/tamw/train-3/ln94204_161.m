@@ -1367,7 +1367,7 @@
 <LM>w#w-ln94204-161-p5s2w11</LM>
 </w.rf>
 <form>nichž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJXP6----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4XP6----------</tag>
 </m>
 <m id="m-ln94204-161-p5s2w12">
 <src.rf>manual</src.rf>

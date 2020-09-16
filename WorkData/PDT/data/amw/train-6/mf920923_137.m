@@ -3263,7 +3263,7 @@
 <LM>w#w-mf920923-137-p6s5w9</LM>
 </w.rf>
 <form>jíž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJFS7---------1</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4FS7---------1</tag>
 </m>
 <m id="m-mf920923-137-p6s5w10">
 <src.rf>manual</src.rf>

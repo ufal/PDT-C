@@ -1664,7 +1664,7 @@
 <LM>w#w-ln95044-091-p3s8w5</LM>
 </w.rf>
 <form>jež</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJFP1----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4FP1----------</tag>
 </m>
 <m id="m-ln95044-091-p3s8w6">
 <src.rf>manual</src.rf>

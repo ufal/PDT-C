@@ -1093,7 +1093,7 @@
 <form>Baa</form>
 <tag>
 <AM lemma="Bao-1_;G" src="auto" recommended="1">NNNS2-----A----</AM>
-<AM lemma="Baa-33_^(označení_pomocí_písmen)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Baa-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1676-001-p1s3W15-Ta">

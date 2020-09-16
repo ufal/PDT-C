@@ -5230,7 +5230,7 @@
 <LM>w#w-lnd92255-035-p9s3w10</LM>
 </w.rf>
 <form>jež</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJNS4----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4NS4----------</tag>
 </m>
 <m id="m-lnd92255-035-p9s3w11">
 <src.rf>manual</src.rf>

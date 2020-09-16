@@ -1214,7 +1214,7 @@
 <LM>w#w-ln95042-024-p2s5w13</LM>
 </w.rf>
 <form>jež</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJIP1----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4IP1----------</tag>
 </m>
 <m id="m-ln95042-024-p2s5w14">
 <src.rf>manual</src.rf>

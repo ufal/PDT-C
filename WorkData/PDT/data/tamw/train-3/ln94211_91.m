@@ -2850,7 +2850,7 @@
 <LM>w#w-ln94211-91-p6s1w29</LM>
 </w.rf>
 <form>jež</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJFP1----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4FP1----------</tag>
 </m>
 <m id="m-ln94211-91-p6s1w30">
 <src.rf>manual</src.rf>

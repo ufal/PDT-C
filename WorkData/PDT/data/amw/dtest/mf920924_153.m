@@ -275,7 +275,7 @@
 <LM>w#w-mf920924-153-p2s2w16</LM>
 </w.rf>
 <form>jež</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJNS1----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4NS1----------</tag>
 </m>
 <m id="m-mf920924-153-p2s2w17">
 <src.rf>manual</src.rf>

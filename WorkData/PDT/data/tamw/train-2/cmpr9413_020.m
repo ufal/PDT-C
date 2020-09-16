@@ -192,7 +192,7 @@
 <LM>w#w-cmpr9413-020-p4s1w10</LM>
 </w.rf>
 <form>jež</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJXP4----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4XP4----------</tag>
 </m>
 <m id="m-cmpr9413-020-p4s1w11">
 <src.rf>manual</src.rf>

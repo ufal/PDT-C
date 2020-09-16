@@ -689,7 +689,7 @@
 <LM>w#w-vesm9211-038-p2s5w34</LM>
 </w.rf>
 <form>níž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJFS6----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4FS6----------</tag>
 </m>
 <m id="m-vesm9211-038-p2s5w35">
 <src.rf>manual</src.rf>

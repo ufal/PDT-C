@@ -705,7 +705,7 @@
 <tag>
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJYS1----------</AM>
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="manual">PJYP1---------6</AM>
-<AM lemma="jenž_^(který_[ve_vedl.větě])" src="manual" selected="1">PJNP1---------6</AM>
+<AM lemma="jenž_^(který_[ve_vedl.větě])" src="manual" selected="1">P4NP1---------6</AM>
 </tag>
 </m>
 <m id="m-wsj1822-001-p1s2W14-Ta">
@@ -11038,7 +11038,7 @@
 <LM>w#w-wsj1822-001-p1s36W7</LM>
 </w.rf>
 <form>jenž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJYS1----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">P4YS1----------</tag>
 </m>
 <m id="m-wsj1822-001-p1s36W8-Ta">
 <src.rf>tagger-a</src.rf>

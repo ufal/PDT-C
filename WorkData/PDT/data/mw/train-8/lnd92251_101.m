@@ -1182,7 +1182,7 @@
 <LM>w#w-lnd92251-101-p7s1w32</LM>
 </w.rf>
 <form>jenž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">PJYS1----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4YS1----------</tag>
 </m>
 <m id="m-lnd92251-101-p7s1w33">
 <src.rf>manual</src.rf>

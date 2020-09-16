@@ -1587,7 +1587,7 @@
 <form>XY</form>
 <tag>
 <AM lemma="XY_:B_;Y" src="orig">NNMXX-----A----</AM>
-<AM lemma="XY-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="XY-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-077-p2s10w21">
