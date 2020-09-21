@@ -443,7 +443,10 @@
 <LM>w#w-ln94207-79-p3s1Cw26</LM>
 </w.rf>
 <form>Berliner</form>
-<tag lemma="Berliner_;m" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Berliner_;m" src="orig">AAXXX----1A----</AM>
+<AM lemma="Berliner-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-79-p3s1Cw27">
 <src.rf>manual</src.rf>
@@ -451,7 +454,10 @@
 <LM>w#w-ln94207-79-p3s1Cw27</LM>
 </w.rf>
 <form>Zeitung</form>
-<tag lemma="Zeitung-1_;m_^(souč._názvu_něm._novin)" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Zeitung-1_;m_^(souč._názvu_něm._novin)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Zeitung-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-79-p3s1Cw28">
 <src.rf>manual</src.rf>
@@ -2796,7 +2802,10 @@
 <LM>w#w-ln94207-79-p8s3w2</LM>
 </w.rf>
 <form>Berliner</form>
-<tag lemma="Berliner_;m" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Berliner_;m" src="orig">AAXXX----1A----</AM>
+<AM lemma="Berliner-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-79-p8s3w3">
 <src.rf>manual</src.rf>
@@ -2804,7 +2813,10 @@
 <LM>w#w-ln94207-79-p8s3w3</LM>
 </w.rf>
 <form>Zeitung</form>
-<tag lemma="Zeitung-1_;m_^(souč._názvu_něm._novin)" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Zeitung-1_;m_^(souč._názvu_něm._novin)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Zeitung-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-79-p8s3w4">
 <src.rf>manual</src.rf>

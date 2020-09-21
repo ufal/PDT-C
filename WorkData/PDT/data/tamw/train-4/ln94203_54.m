@@ -854,7 +854,10 @@
 <LM>w#w-ln94203-54-p3s2w23</LM>
 </w.rf>
 <form>A</form>
-<tag lemma="A-0_;Y" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag>
+<AM lemma="A-0_;Y" src="orig">NNFXX-----A---b</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
+</tag>
 </m>
 <m id="m-ln94203-54-p3s2w24">
 <src.rf>manual</src.rf>

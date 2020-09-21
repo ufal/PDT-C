@@ -1846,7 +1846,8 @@
 <AM lemma="budit" src="auto">Vi-S---3--A-I-2</AM>
 <AM lemma="budiž" src="auto">TT-------------</AM>
 <AM lemma="být" src="auto">Vi-S---2--A----</AM>
-<AM lemma="být" src="auto" recommended="1" selected="1">Vi-S---3--A----</AM>
+<AM lemma="být" src="auto" recommended="1">Vi-S---3--A----</AM>
+<AM lemma="být" src="manual" selected="1">Vi-S---3--A-I-2</AM>
 </tag>
 </m>
 <m id="m-ln94206-130-p2s13w6">

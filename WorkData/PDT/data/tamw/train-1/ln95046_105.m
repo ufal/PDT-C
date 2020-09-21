@@ -264,7 +264,8 @@
 <AM lemma="Baden_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="baden_;U_^(geologické_období)" src="auto">NNIS1-----A----</AM>
 <AM lemma="baden_;U_^(geologické_období)" src="auto">NNIS4-----A----</AM>
-<AM lemma="Baden_;Y" src="manual" selected="1">S2--------A----</AM>
+<AM lemma="Baden_;Y" src="manual">S2--------A----</AM>
+<AM lemma="Baden-2_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-105-p2s1Bw23">

@@ -15438,7 +15438,10 @@
 <LM>w#w-cmpr9417-010-p64s1w2</LM>
 </w.rf>
 <form>Brillant</form>
-<tag lemma="Brillant_;m" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Brillant_;m" src="orig">AAXXX----1A----</AM>
+<AM lemma="Brillant-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9417-010-p64s1w3">
 <src.rf>manual</src.rf>
@@ -15448,7 +15451,8 @@
 <form>service</form>
 <tag>
 <AM lemma="service_;m_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="service" src="auto" recommended="1" selected="1">NNXXX-----A----</AM>
+<AM lemma="service" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="service-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-010-p64s1w4">

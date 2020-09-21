@@ -70,10 +70,11 @@
 </w.rf>
 <form>bod</form>
 <tag>
-<AM lemma="bod-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
+<AM lemma="bod-99_;Y" src="orig">NNXXX-----A---b</AM>
 <AM lemma="bod" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="bod" src="auto">NNIS4-----A----</AM>
 <AM lemma="bodnout" src="auto">VpYS----R-AAP-6</AM>
+<AM lemma="bod-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-124-p2s1w5">

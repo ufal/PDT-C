@@ -70,8 +70,9 @@
 </w.rf>
 <form>am</form>
 <tag>
-<AM lemma="am-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
+<AM lemma="am-99_;Y" src="orig">NNXXX-----A---b</AM>
 <AM lemma="be_,t_^(angl._jsem,_v_názvech_apod.)" src="auto" recommended="1">VB-S---1P-AA---</AM>
+<AM lemma="am-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-13-p2s1Aw4">

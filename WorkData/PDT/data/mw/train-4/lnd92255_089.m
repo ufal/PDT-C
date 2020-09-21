@@ -143,7 +143,8 @@
 <AM lemma="blade_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Blade_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Blade_;Y" src="auto">NNMS5-----A----</AM>
-<AM lemma="blade-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="blade-77" src="manual">F%-------------</AM>
+<AM lemma="Blade-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-089-p1s1w15">
@@ -1852,9 +1853,10 @@
 </w.rf>
 <form>bič</form>
 <tag>
-<AM lemma="bič-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
+<AM lemma="bič-99_;Y" src="orig">NNXXX-----A---b</AM>
 <AM lemma="bič" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="bič" src="auto">NNIS4-----A----</AM>
+<AM lemma="bič-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-089-p2s1w3">

@@ -4287,7 +4287,10 @@
 <LM>w#w-cmpr9416-048-p17s2w2</LM>
 </w.rf>
 <form>Agnar</form>
-<tag lemma="Agnar_;m" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Agnar_;m" src="orig">AAXXX----1A----</AM>
+<AM lemma="Agnar-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-048-p17s2w3">
 <src.rf>manual</src.rf>
@@ -4365,7 +4368,11 @@
 <LM>w#w-cmpr9416-048-p17s2w11</LM>
 </w.rf>
 <form>Teronnská</form>
-<tag lemma="Teronnský_;G" src="orig" selected="1">AAFS1----1A----</tag>
+<tag>
+<AM lemma="Teronnský_;G" src="orig">AAFS1----1A----</AM>
+<AM lemma="Teronnský_;G" src="manual">NNFS1-----A----</AM>
+<AM lemma="Teronnská_;G" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-048-p17s2w12">
 <src.rf>manual</src.rf>

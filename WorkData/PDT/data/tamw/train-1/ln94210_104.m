@@ -2006,7 +2006,10 @@
 <LM>w#w-ln94210-104-p2s16w2</LM>
 </w.rf>
 <form>aku</form>
-<tag lemma="aku-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag>
+<AM lemma="aku-99_;Y" src="orig">NNXXX-----A---b</AM>
+<AM lemma="aku-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-104-p2s16w3">
 <src.rf>manual</src.rf>

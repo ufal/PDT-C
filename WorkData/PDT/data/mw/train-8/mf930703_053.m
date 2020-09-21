@@ -59,7 +59,10 @@
 <LM>w#w-mf930703-053-p1s1w6</LM>
 </w.rf>
 <form>aš</form>
-<tag lemma="aš-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag>
+<AM lemma="aš-99_;Y" src="orig">NNXXX-----A---b</AM>
+<AM lemma="aš-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-053-p1s1w7">
 <src.rf>manual</src.rf>

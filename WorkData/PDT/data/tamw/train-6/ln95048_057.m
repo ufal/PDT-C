@@ -659,7 +659,10 @@
 <LM>w#w-ln95048-057-p2s4w9</LM>
 </w.rf>
 <form>A</form>
-<tag lemma="A-0_;Y" src="orig" selected="1">NNMXX-----A---b</tag>
+<tag>
+<AM lemma="A-0_;Y" src="orig">NNMXX-----A---b</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-057-p2s4w10">
 <src.rf>manual</src.rf>

@@ -391,7 +391,8 @@
 <form>US</form>
 <tag>
 <AM lemma="US-2_:B_,t_^(americký)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="Us-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Us-77" src="manual">F%-------------</AM>
+<AM lemma="US-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-7-p2s2w18">
@@ -653,7 +654,10 @@
 <LM>w#w-ln94200-7-p2s4w2</LM>
 </w.rf>
 <form>ář</form>
-<tag lemma="ář-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag>
+<AM lemma="ář-99_;Y" src="orig">NNXXX-----A---b</AM>
+<AM lemma="ář-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-7-p2s4w3">
 <src.rf>manual</src.rf>

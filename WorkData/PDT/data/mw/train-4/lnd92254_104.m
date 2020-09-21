@@ -2754,7 +2754,8 @@
 <tag>
 <AM lemma="back_,t" src="orig">Db-------------</AM>
 <AM lemma="back" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="back-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="back-77" src="manual">F%-------------</AM>
+<AM lemma="Back-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92254-104-p2s12w30">

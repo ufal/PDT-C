@@ -4978,7 +4978,10 @@
 <LM>w#w-lnd94103-086-p1s33w33</LM>
 </w.rf>
 <form>Beningtonské</form>
-<tag lemma="Beningtonský_;m" src="orig" selected="1">AAFS2----1A----</tag>
+<tag>
+<AM lemma="Beningtonský_;m" src="orig">AAFS2----1A----</AM>
+<AM lemma="beningtonský" src="manual" selected="1">AAFS2----1A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-086-p1s33w34">
 <src.rf>manual</src.rf>

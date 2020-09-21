@@ -141,7 +141,10 @@
 <LM>w#w-mf930708-011-p2s1w4</LM>
 </w.rf>
 <form>bar</form>
-<tag lemma="bar-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag>
+<AM lemma="bar-99_;Y" src="orig">NNXXX-----A---b</AM>
+<AM lemma="bar-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-011-p2s1w5">
 <src.rf>manual</src.rf>

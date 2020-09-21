@@ -2615,15 +2615,17 @@
 <AM lemma="a-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="a-77_,t" src="auto">F%-------------</AM>
 <AM lemma="a-88_:B" src="auto">NNXXX-----A----</AM>
-<AM lemma="akciový" src="auto">AAXXX----1A---8</AM></tag>
-</m><m id="m104-d1t1267-4-sw1">
+<AM lemma="akciový" src="auto">AAXXX----1A---8</AM>
+</tag>
+</m>
+<m id="m104-d1t1267-4-sw1">
 <w.rf>
 <LM>w#w-d1t1267-4</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>4</form>
-<tag>
-<AM lemma="4" src="auto" recommended="1">C=-------------</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="4" src="auto" recommended="1">C=-------------</tag>
+</m>
 <m id="m104-d1t1267-6">
 <w.rf>
 <LM>w#w-d1t1267-6</LM>
@@ -5154,6 +5156,7 @@
 <AM lemma="budiž" src="auto">TT-------------</AM>
 <AM lemma="být" src="auto">Vi-S---2--A----</AM>
 <AM lemma="být" src="auto" recommended="1">Vi-S---3--A----</AM>
+<AM lemma="být" src="manual" selected="1">Vi-S---3--A-I-2</AM>
 </tag>
 </m>
 <m id="m104-d1t1303-9">

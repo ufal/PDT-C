@@ -1990,7 +1990,8 @@
 <AM lemma="Blade_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Blade_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="blade_,t" src="manual">NNXXX-----A----</AM>
-<AM lemma="blade-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="blade-77" src="manual">F%-------------</AM>
+<AM lemma="Blade-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94206-102-p4s3w14">

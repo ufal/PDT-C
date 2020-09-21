@@ -11213,7 +11213,10 @@
 <LM>w#w-vesm9303-047-p18s3w25</LM>
 </w.rf>
 <form>bifurkují</form>
-<tag lemma="bifurkovat" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag>
+<AM lemma="bifurkovat" src="orig">VB-P---3P-AA---</AM>
+<AM lemma="bifurkovat" src="manual" selected="1">VB-P---3P-AAI--</AM>
+</tag>
 </m>
 <m id="m-vesm9303-047-p18s3w26">
 <src.rf>manual</src.rf>

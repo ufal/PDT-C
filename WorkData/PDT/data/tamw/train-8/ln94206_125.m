@@ -64,7 +64,10 @@
 <LM>w#w-ln94206-125-p2s1Aw2</LM>
 </w.rf>
 <form>York</form>
-<tag lemma="York-2_;G_;m" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="York-2_;G_;m" src="orig">NNIS1-----A----</AM>
+<AM lemma="York-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94206-125-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -81,9 +84,10 @@
 </w.rf>
 <form>ad</form>
 <tag>
-<AM lemma="ad-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
+<AM lemma="ad-99_;Y" src="orig">NNXXX-----A---b</AM>
 <AM lemma="ad_,t" src="auto">RR--1----------</AM>
 <AM lemma="adalší_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
+<AM lemma="ad-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-125-p2s1Aw5">
@@ -176,7 +180,8 @@
 <form>US</form>
 <tag>
 <AM lemma="US-3_:B_;m_,t_^(americký)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="US-2_^(americký)" src="manual" selected="1">BAXXX----1A----</AM>
+<AM lemma="US-2_^(americký)" src="manual">BAXXX----1A----</AM>
+<AM lemma="US-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-125-p2s1Bw10">

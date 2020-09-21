@@ -80,7 +80,10 @@
 <LM>w#w-ln94200-23-p2s1Aw3</LM>
 </w.rf>
 <form>ali</form>
-<tag lemma="ali-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag>
+<AM lemma="ali-99_;Y" src="orig">NNXXX-----A---b</AM>
+<AM lemma="ali-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-23-p2s1Aw4">
 <src.rf>manual</src.rf>

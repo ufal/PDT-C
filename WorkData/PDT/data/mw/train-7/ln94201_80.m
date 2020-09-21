@@ -186,7 +186,8 @@
 <AM lemma="ad_:B" src="orig">NNMS1-----A---8</AM>
 <AM lemma="ad_,t" src="auto" recommended="1">RR--1----------</AM>
 <AM lemma="adalší_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="ad-99_;Y" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="ad-99_;Y" src="manual">NNXXX-----A---b</AM>
+<AM lemma="ad-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-80-p2s1w15">

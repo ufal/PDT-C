@@ -15649,7 +15649,8 @@
 <form>Back</form>
 <tag>
 <AM lemma="back" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="back-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="back-77" src="manual">F%-------------</AM>
+<AM lemma="Back-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0689-001-p1s53W24-Ta">

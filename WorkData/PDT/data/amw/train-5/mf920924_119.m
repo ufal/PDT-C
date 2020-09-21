@@ -80,7 +80,10 @@
 <LM>w#w-mf920924-119-p2s1w3</LM>
 </w.rf>
 <form>ben</form>
-<tag lemma="ben-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag>
+<AM lemma="ben-99_;Y" src="orig">NNXXX-----A---b</AM>
+<AM lemma="ben-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-119-p2s1w4">
 <src.rf>manual</src.rf>

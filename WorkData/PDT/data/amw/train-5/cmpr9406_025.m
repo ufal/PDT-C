@@ -185,7 +185,10 @@
 <LM>w#w-cmpr9406-025-p4s1w4</LM>
 </w.rf>
 <form>A</form>
-<tag lemma="A-0_;Y" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag>
+<AM lemma="A-0_;Y" src="orig">NNFXX-----A---b</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-025-p4s1w5">
 <src.rf>manual</src.rf>
@@ -209,7 +212,10 @@
 <LM>w#w-cmpr9406-025-p4s1w7</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="s-2`sekunda" src="orig" selected="1">BNFXX-----A---1</tag>
+<tag>
+<AM lemma="s-2`sekunda" src="orig">BNFXX-----A---1</AM>
+<AM lemma="sekunda" src="manual" selected="1">NNFXX-----A---b</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-025-p4s1w8">
 <src.rf>manual</src.rf>

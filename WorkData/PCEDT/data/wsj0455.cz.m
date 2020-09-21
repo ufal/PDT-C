@@ -12737,7 +12737,8 @@
 <form>Agent</form>
 <tag>
 <AM lemma="agent" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="agent-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="agent-77" src="manual">F%-------------</AM>
+<AM lemma="Agent-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0455-001-p1s36W31-Ta">
@@ -13197,7 +13198,8 @@
 <form>Agent</form>
 <tag>
 <AM lemma="agent" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="agent-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="agent-77" src="manual">F%-------------</AM>
+<AM lemma="Agent-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0455-001-p1s37W34-Ta">

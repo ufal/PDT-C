@@ -1731,7 +1731,8 @@
 <AM lemma="Bauma_;m" src="orig">NNXXX-----A----</AM>
 <AM lemma="Baum_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Baum_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Bauma_,m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Bauma_,m" src="manual">NNXXX-----A----</AM>
+<AM lemma="Bauma_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-004-p9s3w11">

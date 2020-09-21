@@ -3271,7 +3271,10 @@
 <LM>w#w-ln94205-99-p7s2w7</LM>
 </w.rf>
 <form>A</form>
-<tag lemma="A-0_;Y" src="orig" selected="1">NNMXX-----A---b</tag>
+<tag>
+<AM lemma="A-0_;Y" src="orig">NNMXX-----A---b</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
+</tag>
 </m>
 <m id="m-ln94205-99-p7s2w8">
 <src.rf>manual</src.rf>
@@ -3303,7 +3306,10 @@
 <LM>w#w-ln94205-99-p7s2w11</LM>
 </w.rf>
 <form>A</form>
-<tag lemma="A-0_;Y" src="orig" selected="1">NNMXX-----A---b</tag>
+<tag>
+<AM lemma="A-0_;Y" src="orig">NNMXX-----A---b</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
+</tag>
 </m>
 <m id="m-ln94205-99-p7s2w12">
 <src.rf>manual</src.rf>
@@ -3335,7 +3341,10 @@
 <LM>w#w-ln94205-99-p7s2w15</LM>
 </w.rf>
 <form>U</form>
-<tag lemma="U-0_;Y" src="orig" selected="1">NNMXX-----A---b</tag>
+<tag>
+<AM lemma="U-0_;Y" src="orig">NNMXX-----A---b</AM>
+<AM lemma="U-33" src="manual" selected="1">Q3-------------</AM>
+</tag>
 </m>
 <m id="m-ln94205-99-p7s2w16">
 <src.rf>manual</src.rf>
@@ -3375,7 +3384,10 @@
 <LM>w#w-ln94205-99-p7s2w20</LM>
 </w.rf>
 <form>A</form>
-<tag lemma="A-0_;Y" src="orig" selected="1">NNMXX-----A---b</tag>
+<tag>
+<AM lemma="A-0_;Y" src="orig">NNMXX-----A---b</AM>
+<AM lemma="A-33" src="manual" selected="1">Q3-------------</AM>
+</tag>
 </m>
 <m id="m-ln94205-99-p7s2w21">
 <src.rf>manual</src.rf>
@@ -3415,7 +3427,10 @@
 <LM>w#w-ln94205-99-p7s2w25</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="M-0_;Y" src="orig" selected="1">NNMXX-----A---b</tag>
+<tag>
+<AM lemma="M-0_;Y" src="orig">NNMXX-----A---b</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
+</tag>
 </m>
 <m id="m-ln94205-99-p7s2w26">
 <src.rf>manual</src.rf>

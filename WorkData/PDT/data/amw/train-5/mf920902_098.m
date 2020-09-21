@@ -111,7 +111,10 @@
 <LM>w#w-mf920902-098-p1s1Cw3</LM>
 </w.rf>
 <form>bk</form>
-<tag lemma="bk-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag>
+<AM lemma="bk-99_;Y" src="orig">NNXXX-----A---b</AM>
+<AM lemma="bk-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-098-p1s1Cw4">
 <src.rf>manual</src.rf>

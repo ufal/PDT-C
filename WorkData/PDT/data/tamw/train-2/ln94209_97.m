@@ -72,10 +72,10 @@
 </w.rf>
 <form>Al</form>
 <tag>
-<AM lemma="Al-3_;Y_^(Al_Gore_apod._jm.)" src="orig">NNMS1-----A----</AM>
+<AM lemma="Al-3_;Y_^(Al_Gore_apod._jm.)" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Al-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="Al-77" src="manual">F%-------------</AM>
-<AM lemma="al-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="al-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94209-97-p2s1Bw2">

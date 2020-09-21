@@ -10186,7 +10186,10 @@
 <LM>w#w-vesm9212-012-p24s4w3</LM>
 </w.rf>
 <form>Austrális</form>
-<tag lemma="Austrális_;G_;U" src="orig" selected="1">AAFXX----1A----</tag>
+<tag>
+<AM lemma="Austrális_;G_;U" src="orig">AAFXX----1A----</AM>
+<AM lemma="Austrális_;G" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9212-012-p24s4w4">
 <src.rf>manual</src.rf>
@@ -10202,7 +10205,10 @@
 <LM>w#w-vesm9212-012-p24s4w5</LM>
 </w.rf>
 <form>Kapensis</form>
-<tag lemma="Kapensis_;G_;U" src="orig" selected="1">AAFXX----1A----</tag>
+<tag>
+<AM lemma="Kapensis_;G_;U" src="orig">AAFXX----1A----</AM>
+<AM lemma="Kapensis_;G" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9212-012-p24s4w6">
 <src.rf>manual</src.rf>

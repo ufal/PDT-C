@@ -1616,7 +1616,10 @@
 <LM>w#w-lnd92259-101-p8s2w38</LM>
 </w.rf>
 <form>B</form>
-<tag lemma="B-0_;Y" src="orig" selected="1">NNMXX-----A---b</tag>
+<tag>
+<AM lemma="B-0_;Y" src="orig">NNMXX-----A---b</AM>
+<AM lemma="B-33" src="manual" selected="1">Q3-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92259-101-p8s2w39">
 <src.rf>manual</src.rf>

@@ -963,8 +963,8 @@
 <AM lemma="Apple_;m" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Apple_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="Apple_;m" src="auto">NNIS5-----A----</AM>
-<AM lemma="Apple_;m" src="auto">NNIXX-----A----</AM>
-<AM lemma="Apple_;m" src="manual" selected="1">AAXXX----1A----</AM>
+<AM lemma="Apple_;m" src="auto" selected="1">NNIXX-----A----</AM>
+<AM lemma="Apple_;m" src="manual">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj2434-001-p1s1W57-Ta">

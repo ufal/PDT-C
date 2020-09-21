@@ -1565,7 +1565,8 @@
 <AM lemma="Bena_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="ben-2_;m" src="auto" recommended="1">NNMXX-----A----</AM>
 <AM lemma="ben-99_:B_;Y" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Ben-2_;Y" src="manual" selected="1">S2--------A----</AM>
+<AM lemma="Ben-2_;Y" src="manual">S2--------A----</AM>
+<AM lemma="Ben-1_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-84-p3s3w13">

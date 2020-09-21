@@ -760,7 +760,8 @@
 <form>Alipašin</form>
 <tag>
 <AM lemma="Alipašin_;G_,t" src="orig">AAIS1----1A----</AM>
-<AM lemma="Alipašin_;G" src="manual" selected="1">AAIS1----1A----</AM>
+<AM lemma="Alipašin_;G" src="manual">AAIS1----1A----</AM>
+<AM lemma="Alipašin_;Y" src="manual" selected="1">AUIS1F---------</AM>
 </tag>
 </m>
 <m id="m-mf920902-141-p2s5w15">

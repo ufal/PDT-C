@@ -952,7 +952,10 @@
 <LM>w#w-lnd94104-066-p1s5w2</LM>
 </w.rf>
 <form>ag</form>
-<tag lemma="ag-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag>
+<AM lemma="ag-99_;Y" src="orig">NNXXX-----A---b</AM>
+<AM lemma="ag-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-066-p1s5w3">
 <src.rf>manual</src.rf>
