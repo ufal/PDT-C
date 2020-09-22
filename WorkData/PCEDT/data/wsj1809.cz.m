@@ -1404,14 +1404,14 @@
 <LM>w#w-wsj1809-001-p1s6W5</LM>
 </w.rf>
 <form>40</form>
-<tag>
-<AM lemma="40" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="40" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj1809-001-p1s6W5-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1809-001-p1s6W5</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>miliardový</form>
 <tag>
 <AM lemma="miliardový" src="auto">AAFP1----1A---6</AM>
@@ -1436,8 +1436,9 @@
 <AM lemma="miliardový" src="auto">AANP5----1A---6</AM>
 <AM lemma="miliardový" src="auto">AANS1----1A---6</AM>
 <AM lemma="miliardový" src="auto">AANS4----1A---6</AM>
-<AM lemma="miliardový" src="auto">AANS5----1A---6</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="miliardový" src="auto">AANS5----1A---6</AM>
+</tag>
+</m>
 <m id="m-wsj1809-001-p1s6W6-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -10508,9 +10509,10 @@
 <AM lemma="C-3`100" src="auto">C}-------------</AM>
 <AM lemma="C-33" src="auto">Q3-------------</AM>
 <AM lemma="Celsius" src="auto">NNMXX-----A---8</AM>
-<AM lemma="C-33" src="auto">Q3-------------</AM>
+<AM lemma="C-33" src="auto" selected="1">Q3-------------</AM>
 <AM lemma="c-88" src="auto" recommended="1">BNXXX-----A----</AM>
-<AM lemma="c-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="c-77" src="manual">F%-------------</AM>
+<AM lemma="C-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1809-001-p1s44W11-Ta">

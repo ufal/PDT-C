@@ -40,7 +40,8 @@
 <form>EKOL</form>
 <tag>
 <AM lemma="Ekol_:B_;m" src="orig">NNXXX-----A---8</AM>
-<AM lemma="Ekol_:m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Ekol_:m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Ekol_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-062-p1s1w4">

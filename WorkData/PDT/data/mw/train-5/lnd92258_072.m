@@ -6899,8 +6899,9 @@
 <form>dozví</form>
 <tag>
 <AM lemma="dozvědět" src="orig">VB-P---3P-AA---</AM>
-<AM lemma="dozvědět" src="auto" selected="1">VB-P---3P-AA--6</AM>
+<AM lemma="dozvědět" src="auto">VB-P---3P-AA--6</AM>
 <AM lemma="dozvědět" src="auto" recommended="1">VB-S---3P-AAP--</AM>
+<AM lemma="dozvědět" src="manual" selected="1">VB-P---3P-AAP-7</AM>
 </tag>
 </m>
 <m id="m-lnd92258-072-p11s4w8">

@@ -2078,7 +2078,8 @@
 <form>budiž</form>
 <tag>
 <AM lemma="být" src="orig">Vi-S---3--A----</AM>
-<AM lemma="být" src="manual" selected="1">Vi-S---3--A-I-2</AM>
+<AM lemma="být" src="manual">Vi-S---3--A-I-2</AM>
+<AM lemma="budiž" src="manual" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-006-p7s4w29">

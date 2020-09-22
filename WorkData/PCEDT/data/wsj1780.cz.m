@@ -1288,7 +1288,8 @@
 <AM lemma="Chao_;G" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="Chao_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Chao_;G" src="auto">NNNS5-----A----</AM>
-<AM lemma="Chao-2_S" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Chao-2_S" src="manual">NNMXX-----A----</AM>
+<AM lemma="Chao-2_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1780-001-p1s4W8-Ta">

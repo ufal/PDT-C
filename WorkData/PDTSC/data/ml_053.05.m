@@ -135,7 +135,8 @@
 <form>Das</form>
 <tag>
 <AM lemma="das-77_,t" src="auto" recommended="1">F%-------------</AM>
-<AM lemma="das-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="das-77" src="manual">F%-------------</AM>
+<AM lemma="Das-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m053-d1t1655-7">
@@ -3433,7 +3434,7 @@
 <form>Telemannovi</form>
 <tag>
 <AM lemma="Telemann_;Y" src="auto">NNMS6-----A----</AM>
-<AM lemma="Telemannův_;Y_^(*2)" selected="1" src="auto">AUMP1M---------</AM>
+<AM lemma="Telemannův_;Y_^(*2)" src="auto" selected="1">AUMP1M---------</AM>
 <AM lemma="Telemannův_;Y_^(*2)" src="auto">AUMP5M---------</AM>
 <AM lemma="Telemann_;Y" src="auto" recommended="1">NNMS3-----A----</AM>
 </tag>

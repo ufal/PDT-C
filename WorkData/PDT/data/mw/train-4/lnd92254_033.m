@@ -61,7 +61,10 @@
 <LM>w#w-lnd92254-033-p2s1w3</LM>
 </w.rf>
 <form>dos</form>
-<tag lemma="dos-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag>
+<AM lemma="dos-99_;Y" src="orig">NNXXX-----A---b</AM>
+<AM lemma="dos-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92254-033-p2s1w4">
 <src.rf>manual</src.rf>

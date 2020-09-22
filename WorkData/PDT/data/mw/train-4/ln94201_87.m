@@ -355,13 +355,14 @@
 </w.rf>
 <form>č</form>
 <tag>
-<AM lemma="č-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
+<AM lemma="č-99_;Y" src="orig">NNXXX-----A---b</AM>
 <AM lemma="č-33" src="auto">Q3-------------</AM>
 <AM lemma="č-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="ča_^(ča-ča)" src="auto">NNFP2-----A----</AM>
 <AM lemma="čas_:B_^(př._t._č.)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="český_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="číslo_:B" src="auto" recommended="1">NNNXX-----A---8</AM>
+<AM lemma="č-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-87-p2s1w34">

@@ -3871,7 +3871,8 @@
 <form>dopřipraví</form>
 <tag>
 <AM lemma="dopřipraví" src="auto">X@-------------</AM>
-<AM lemma="dopřipravit" src="manual" selected="1">VB-S---3P-AA---</AM>
+<AM lemma="dopřipravit" src="manual">VB-S---3P-AA---</AM>
+<AM lemma="dopřipravit" src="manual" selected="1">VB-S---3P-AAP--</AM>
 </tag>
 </m>
 <m id="m133-d-id93393-punct">
@@ -3894,7 +3895,8 @@
 <form>dooblíkne</form>
 <tag>
 <AM lemma="dooblíkne" src="auto">X@-------------</AM>
-<AM lemma="dooblíknout_,h_^(^GC**doobléknout)" src="manual" selected="1">VB-S---3P-AA---</AM>
+<AM lemma="dooblíknout_,h_^(^GC**doobléknout)" src="manual">VB-S---3P-AA---</AM>
+<AM lemma="dooblíknout_,h_^(^GC**doobléknout)" src="manual" selected="1">VB-S---3P-AAP--</AM>
 </tag>
 </m>
 <m id="m133-136-138">

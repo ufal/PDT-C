@@ -1980,10 +1980,10 @@
 </w.rf>
 <form>De</form>
 <tag>
-<AM lemma="De-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="De-77" src="auto" recommended="1" selected="1">F%-------------</AM>
 <AM lemma="jít" src="auto">VB-S---3P-AAI-6</AM>
 <AM lemma="de-77_,t" src="auto">F%-------------</AM>
-<AM lemma="de-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="de-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m147-d1t339-38">

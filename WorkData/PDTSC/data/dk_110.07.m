@@ -4452,7 +4452,8 @@
 <form>Company</form>
 <tag>
 <AM lemma="company-77_;m_,t" src="auto" recommended="1">F%-------------</AM>
-<AM lemma="company-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="company-77" src="manual">F%-------------</AM>
+<AM lemma="Company-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m110-d1e2125-x2-7">

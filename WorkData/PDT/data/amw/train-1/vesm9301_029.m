@@ -11796,7 +11796,10 @@
 <LM>w#w-vesm9301-029-p16s9w11</LM>
 </w.rf>
 <form>detektovat</form>
-<tag lemma="detekovat" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="detekovat" src="orig">Vf--------A----</AM>
+<AM lemma="detektovat" src="manual" selected="1">Vf--------A-B--</AM>
+</tag>
 </m>
 <m id="m-vesm9301-029-p16s9w12">
 <src.rf>manual</src.rf>

@@ -1615,7 +1615,8 @@
 <AM lemma="Drop_;m_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="drop_;U" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="drop_,t" src="manual">NNXXX-----A----</AM>
-<AM lemma="drop-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="drop-77" src="manual">F%-------------</AM>
+<AM lemma="Drop-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf920924-065-p2s9w7">

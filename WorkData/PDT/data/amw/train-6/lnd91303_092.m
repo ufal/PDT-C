@@ -3131,7 +3131,8 @@
 <AM lemma="Celsius_:B" src="auto">NNMXX-----A---8</AM>
 <AM lemma="C-33" src="auto" recommended="1">Q3-------------</AM>
 <AM lemma="c-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
-<AM lemma="c-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="c-77" src="manual">F%-------------</AM>
+<AM lemma="C-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91303-092-p6s2Aw10">

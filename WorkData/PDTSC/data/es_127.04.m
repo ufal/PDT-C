@@ -464,6 +464,7 @@
 <AM lemma="dom-1_,t_^(šlechtický_titul)" src="auto">NNMS5-----A----</AM>
 <AM lemma="dům" src="auto">NNIS5-----A----</AM>
 <AM lemma="dome-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Dome-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m127-73-75">
@@ -1125,6 +1126,7 @@
 <AM lemma="dom-1_,t_^(šlechtický_titul)" src="auto">NNMS5-----A----</AM>
 <AM lemma="dům" src="auto">NNIS5-----A----</AM>
 <AM lemma="dome-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Dome-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m127-96-124">

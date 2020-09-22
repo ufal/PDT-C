@@ -889,7 +889,10 @@
 <LM>w#w-lnd91303-118-p7s1w2</LM>
 </w.rf>
 <form>črk</form>
-<tag lemma="črk-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag>
+<AM lemma="črk-99_;Y" src="orig">NNXXX-----A---b</AM>
+<AM lemma="črk-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91303-118-p7s1w3">
 <src.rf>manual</src.rf>

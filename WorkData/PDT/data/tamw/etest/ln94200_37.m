@@ -1201,7 +1201,10 @@
 <LM>w#w-ln94200-37-p3s3w9</LM>
 </w.rf>
 <form>Coca</form>
-<tag lemma="Coca_;m" src="auto" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Coca_;m" src="auto">AAXXX----1A----</AM>
+<AM lemma="Coca-1" src="manual" selected="1">S2--------A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-37-p3s3w10">
 <src.rf>manual</src.rf>

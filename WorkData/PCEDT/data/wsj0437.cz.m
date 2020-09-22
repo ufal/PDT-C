@@ -3915,7 +3915,8 @@
 <form>Demlera</form>
 <tag>
 <AM lemma="Demlera" src="auto">X@-------------</AM>
-<AM lemma="Demler_S" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Demler_S" src="manual">NNMS2-----A----</AM>
+<AM lemma="Demler_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0437-001-p1s16W4-Ta">
@@ -5637,7 +5638,8 @@
 <form>Demlera</form>
 <tag>
 <AM lemma="Demlera" src="auto">X@-------------</AM>
-<AM lemma="Demler_S" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Demler_S" src="manual">NNMS2-----A----</AM>
+<AM lemma="Demler_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0437-001-p1s23W3-Ta">
@@ -7809,7 +7811,8 @@
 <form>Demlera</form>
 <tag>
 <AM lemma="Demlera" src="auto">X@-------------</AM>
-<AM lemma="Demler_S" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Demler_S" src="manual">NNMS2-----A----</AM>
+<AM lemma="Demler_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0437-001-p1s30W3-Ta">

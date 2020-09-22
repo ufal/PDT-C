@@ -101,7 +101,10 @@
 <LM>w#w-ln94206-2-p2s1Aw3</LM>
 </w.rf>
 <form>ev</form>
-<tag lemma="ev-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag>
+<AM lemma="ev-99_;Y" src="orig">NNXXX-----A---b</AM>
+<AM lemma="ev-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-2-p2s1Aw4">
 <src.rf>manual</src.rf>

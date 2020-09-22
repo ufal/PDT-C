@@ -214,7 +214,8 @@
 <form>doštráchal</form>
 <tag>
 <AM lemma="doštráchal" src="auto">X@-------------</AM>
-<AM lemma="doštráchat" src="manual" selected="1">Vf--------A----</AM>
+<AM lemma="doštráchat" src="manual">Vf--------A----</AM>
+<AM lemma="doštráchat" src="manual" selected="1">Vf--------A-P--</AM>
 </tag>
 </m>
 <m id="m020-205-90">
@@ -3448,7 +3449,7 @@
 <tag lemma="?" src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m020-456"/>
+<s id="m020-456"></s>
 <s id="m020-455">
 <m id="m020-d1t375-2">
 <w.rf>

@@ -2548,7 +2548,8 @@
 <AM lemma="Dano_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="dan-1_^(mistr_a_učitel_japon._sportů)" src="auto">NNMS2-----A----</AM>
 <AM lemma="dan-1_^(mistr_a_učitel_japon._sportů)" src="auto">NNMS4-----A----</AM>
-<AM lemma="Dana-2_;Y_Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Dana-2_;Y_Y" src="manual">NNMXX-----A----</AM>
+<AM lemma="Dana-2_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0003-001-p1s8W24-Ta">

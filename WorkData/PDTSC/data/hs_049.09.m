@@ -1725,7 +1725,8 @@
 <form>fajrá</form>
 <tag>
 <AM lemma="fajrá" src="auto">X@-------------</AM>
-<AM lemma="fajrat_,h" src="manual" selected="1">VB-S---3P-AA---</AM>
+<AM lemma="fajrat_,h" src="manual">VB-S---3P-AA---</AM>
+<AM lemma="fajrat_,h" src="manual" selected="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m049-795-74">

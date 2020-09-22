@@ -121,8 +121,9 @@
 </w.rf>
 <form>ce</form>
 <tag>
-<AM lemma="ce-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
+<AM lemma="ce-99_;Y" src="orig">NNXXX-----A---b</AM>
 <AM lemma="ce-2_:B_,t_^(compass_error,_deklinač._a_deviační_odchylka)" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="ce-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-20-p2s1Aw7">

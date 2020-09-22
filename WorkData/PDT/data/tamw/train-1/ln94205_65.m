@@ -103,7 +103,10 @@
 <LM>w#w-ln94205-65-p2s1Bw3</LM>
 </w.rf>
 <form>dan</form>
-<tag lemma="dan-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag>
+<AM lemma="dan-99_;Y" src="orig">NNXXX-----A---b</AM>
+<AM lemma="dan-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-65-p2s1Bw4">
 <src.rf>manual</src.rf>

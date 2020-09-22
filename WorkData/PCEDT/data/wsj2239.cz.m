@@ -15968,8 +15968,7 @@
 <LM>w#w-wsj2239-001-p1s60W1</LM>
 </w.rf>
 <form>13</form>
-<tag>
-<AM lemma="13" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="13" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj2239-001-p1s60W1-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -16004,7 +16003,8 @@
 <AM lemma="týdenní" src="auto">AANP5----1A----</AM>
 <AM lemma="týdenní" src="auto">AANS1----1A----</AM>
 <AM lemma="týdenní" src="auto">AANS4----1A----</AM>
-<AM lemma="týdenní" src="auto">AANS5----1A----</AM></tag>
+<AM lemma="týdenní" src="auto">AANS5----1A----</AM>
+</tag>
 </m>
 <m id="m-wsj2239-001-p1s60W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -16106,14 +16106,14 @@
 <LM>w#w-wsj2239-001-p1s60W10</LM>
 </w.rf>
 <form>26</form>
-<tag>
-<AM lemma="26" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="26" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj2239-001-p1s60W10-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj2239-001-p1s60W10</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>týdenní</form>
 <tag>
 <AM lemma="týdenní" src="auto" recommended="1">AAFP1----1A----</AM>
@@ -16142,8 +16142,9 @@
 <AM lemma="týdenní" src="auto">AANP5----1A----</AM>
 <AM lemma="týdenní" src="auto">AANS1----1A----</AM>
 <AM lemma="týdenní" src="auto">AANS4----1A----</AM>
-<AM lemma="týdenní" src="auto">AANS5----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="týdenní" src="auto">AANS5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj2239-001-p1s60W11-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -22316,7 +22317,8 @@
 <AM lemma="Dow-1_;Y" src="auto">NNMXX-----A----</AM>
 <AM lemma="Dow_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Dowa_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Dow_;Y" src="manual" selected="1">S2--------A----</AM>
+<AM lemma="Dow_;Y" src="manual">S2--------A----</AM>
+<AM lemma="Dow_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2239-001-p1s82W17-Ta">

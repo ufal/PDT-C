@@ -66,7 +66,8 @@
 <AM lemma="Čo_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Čo_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="ča_^(ča-ča)" src="auto">NNFS5-----A----</AM>
-<AM lemma="čo-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="čo-77" src="manual">F%-------------</AM>
+<AM lemma="Čo-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-071-p1s1Bw2">

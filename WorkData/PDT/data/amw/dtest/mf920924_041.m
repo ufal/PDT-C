@@ -581,7 +581,10 @@
 <LM>w#w-mf920924-041-p1s3w31</LM>
 </w.rf>
 <form>Firkušného</form>
-<tag lemma="Firkušný_;Y" src="orig" selected="1">AAMS2----1A----</tag>
+<tag>
+<AM lemma="Firkušný_;Y" src="orig">AAMS2----1A----</AM>
+<AM lemma="Firkušný_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-041-p1s3w32">
 <src.rf>manual</src.rf>

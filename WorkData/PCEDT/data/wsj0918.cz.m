@@ -2589,10 +2589,10 @@
 <w.rf>
 <LM>w#w-wsj0918-001-p1s8W3</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>jsme</form>
-<tag>
-<AM lemma="být" src="auto" recommended="1">VB-P---1P-AAI--</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="být" src="auto" recommended="1">VB-P---1P-AAI--</tag>
+</m>
 <m id="m-wsj0918-001-p1s8W4-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -2799,6 +2799,7 @@
 <tag>
 <AM lemma="jít" src="auto">VB-S---1P-AAI-6</AM>
 <AM lemma="du-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Du-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0918-001-p1s8W23-Ta">

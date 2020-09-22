@@ -2428,7 +2428,8 @@
 <AM lemma="di_;G_;Y_,t" src="auto" recommended="1">RR--X----------</AM>
 <AM lemma="jít_,x" src="auto">Vi-S---2--A---6</AM>
 <AM lemma="jít_,x" src="auto">Vi-S---3--A---6</AM>
-<AM lemma="di_;G_;Y" src="manual" selected="1">RR--X----------</AM>
+<AM lemma="di_;G_;Y" src="manual">RR--X----------</AM>
+<AM lemma="di-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m013-d1e2162-x2-1104">

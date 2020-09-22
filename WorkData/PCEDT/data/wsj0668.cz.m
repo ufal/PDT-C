@@ -498,7 +498,8 @@
 <form>Energieproduktiebedrijf</form>
 <tag>
 <AM lemma="Energieproduktiebedrijf" src="auto">X@-------------</AM>
-<AM lemma="Energieproduktiebedrijf" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Energieproduktiebedrijf" src="manual">F%-------------</AM>
+<AM lemma="Energieproduktiebedrijf-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0668-001-p1s1W20-Ta">

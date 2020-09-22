@@ -1517,7 +1517,10 @@
 <LM>w#w-lnd92257-034-p4s1w29</LM>
 </w.rf>
 <form>E</form>
-<tag lemma="E-0_;Y" src="orig" selected="1">NNMXX-----A---b</tag>
+<tag>
+<AM lemma="E-0_;Y" src="orig">NNMXX-----A---b</AM>
+<AM lemma="E-33" src="manual" selected="1">Q3-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92257-034-p4s1w30">
 <src.rf>manual</src.rf>

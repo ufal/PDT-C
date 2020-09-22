@@ -864,7 +864,10 @@
 <LM>w#w-mf920901-099-p3s2w11</LM>
 </w.rf>
 <form>Budiž</form>
-<tag lemma="být" src="orig" selected="1">Vi-S---3--A----</tag>
+<tag>
+<AM lemma="být" src="orig">Vi-S---3--A----</AM>
+<AM lemma="budiž" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-mf920901-099-p3s2w12">
 <src.rf>manual</src.rf>

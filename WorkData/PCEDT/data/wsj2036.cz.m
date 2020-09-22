@@ -6027,7 +6027,10 @@
 <LM>w#w-wsj2036-001-p1s21W43</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2036-001-p1s21W44-Ta">
 <src.rf>tagger-a</src.rf>

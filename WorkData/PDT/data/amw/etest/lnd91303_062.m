@@ -1628,7 +1628,7 @@
 <tag>
 <AM lemma="ČNR-1_:B_;m_^(Česká_národní_rada)" src="orig">NNFXX-----A---8</AM>
 <AM lemma="ČNR-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="	ČNR_;m_^(Česká_národní_rada)" src="manual">BNXXX-----A----</AM>
+<AM lemma=" ČNR_;m_^(Česká_národní_rada)" src="manual">BNXXX-----A----</AM>
 <AM lemma="ČNR_;m_^(Česká_národní_rada)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
@@ -5149,7 +5149,10 @@
 <LM>w#w-lnd91303-062-p6s3w20</LM>
 </w.rf>
 <form>budiž</form>
-<tag lemma="být" src="orig" selected="1">Vi-S---3--A----</tag>
+<tag>
+<AM lemma="být" src="orig">Vi-S---3--A----</AM>
+<AM lemma="být" src="manual" selected="1">Vi-S---3--A-I-2</AM>
+</tag>
 </m>
 <m id="m-lnd91303-062-p6s3w21">
 <src.rf>manual</src.rf>

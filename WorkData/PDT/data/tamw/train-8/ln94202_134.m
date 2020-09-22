@@ -825,7 +825,8 @@
 <form>Corp</form>
 <tag>
 <AM lemma="Corporation_:B_;m_,t_^(přev._v_názvech_cizích_firem)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Corporation-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Corporation-77" src="manual">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94202-134-p4s1w5">

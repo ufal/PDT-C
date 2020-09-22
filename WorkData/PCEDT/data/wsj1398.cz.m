@@ -877,7 +877,8 @@
 <tag>
 <AM lemma="Dafinice" src="auto">X@-------------</AM>
 <AM lemma="Dafinice-77" src="manual">F%-------------</AM>
-<AM lemma="dafinice_,i__^(^DS**definice)" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="dafinice_,i__^(^DS**definice)" src="manual">NNFS1-----A----</AM>
+<AM lemma="dafinice_,i_^(^DS**definice)" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 </s>

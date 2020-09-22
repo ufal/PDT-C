@@ -6776,7 +6776,9 @@
 <AM lemma="bulla_,a_^(^DD**bula)" src="auto">NNFP2-----A----</AM>
 <AM lemma="Bull-77" src="manual">F%-------------</AM>
 <AM lemma="Bull_,K" src="manual">NNIXX-----A----</AM>
-<AM lemma="Bull_,K" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Bull_,K" src="manual">NNIS1-----A----</AM>
+<AM lemma="Bull_;K" src="manual">NNIS1-----A----</AM>
+<AM lemma="Bull_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0258-001-p1s21W5-Ta">

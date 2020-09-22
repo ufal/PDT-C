@@ -53,7 +53,10 @@
 <LM>w#w-wsj0462-001-p1s0W4</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0462-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>

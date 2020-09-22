@@ -592,7 +592,10 @@
 <LM>w#w-d1t1847-17</LM>
 </w.rf>
 <form>Das</form>
-<tag lemma="das-77" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="das-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Das-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m991-d1t1847-18">
 <w.rf>

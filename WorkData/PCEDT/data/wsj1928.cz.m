@@ -681,7 +681,8 @@
 <AM lemma="Dorranceův_;Y_(^2)" src="manual">NNMP2-----A----</AM>
 <AM lemma="Dorranceův_;Y_(^2)" src="manual">NNMP3-----A----</AM>
 <AM lemma="Dorranceův_;Y_(^2)" src="manual">AUMP3M---------</AM>
-<AM lemma="Dorranceův_;Y_(*2)" src="manual" selected="1">AUMP3M---------</AM>
+<AM lemma="Dorranceův_;Y_(*2)" src="manual">AUMP3M---------</AM>
+<AM lemma="Dorranceův_;Y" src="manual" selected="1">AUMP3M---------</AM>
 </tag>
 </m>
 <m id="m-wsj1928-001-p1s1W12-Ta">
@@ -3925,7 +3926,8 @@
 <tag>
 <AM lemma="Dorranceovým" src="auto">X@-------------</AM>
 <AM lemma="Dorranceův_;Y_(^2)" src="manual">AUMP3M---------</AM>
-<AM lemma="Dorranceův_;Y_(*2)" src="manual" selected="1">AUMP3M---------</AM>
+<AM lemma="Dorranceův_;Y_(*2)" src="manual">AUMP3M---------</AM>
+<AM lemma="Dorranceův_;Y" src="manual" selected="1">AUMP3M---------</AM>
 </tag>
 </m>
 <m id="m-wsj1928-001-p1s11W21-Ta">

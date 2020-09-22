@@ -21,6 +21,7 @@
 <AM lemma="fanda" src="auto">NNMS6-----A----</AM>
 <AM lemma="fandův_^(*2a)" src="auto">AUMP1M---------</AM>
 <AM lemma="fandův_^(*2a)" src="auto">AUMP5M---------</AM>
+<AM lemma="Fanda_;Y" src="manual" selected="1">NNMS3-----A----</AM>
 </tag>
 </m>
 <m id="m038-d1t3391-4">

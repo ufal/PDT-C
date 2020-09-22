@@ -295,7 +295,10 @@
 <LM>w#w-mf920902-129-p2s2w4</LM>
 </w.rf>
 <form>crossmaglenské</form>
-<tag lemma="crossmaglenský_;G" src="orig" selected="1">AANS4----1A----</tag>
+<tag>
+<AM lemma="crossmaglenský_;G" src="orig">AANS4----1A----</AM>
+<AM lemma="crossmaglenský" src="manual" selected="1">AANS4----1A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-129-p2s2w5">
 <src.rf>manual</src.rf>

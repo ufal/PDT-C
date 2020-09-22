@@ -1748,7 +1748,10 @@
 <LM>w#w-lnd91301-076-p2s3Aw13</LM>
 </w.rf>
 <form>Firkušný</form>
-<tag lemma="Firkušný_;Y" src="orig" selected="1">AAMS1----1A----</tag>
+<tag>
+<AM lemma="Firkušný_;Y" src="orig">AAMS1----1A----</AM>
+<AM lemma="Firkušný_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-076-p2s3Aw14">
 <src.rf>manual</src.rf>

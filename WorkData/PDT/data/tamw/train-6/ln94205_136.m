@@ -2993,7 +2993,10 @@
 <LM>w#w-ln94205-136-p4s10w27</LM>
 </w.rf>
 <form>claimovali</form>
-<tag lemma="claimovat" src="orig" selected="1">VpMP----R-AA---</tag>
+<tag>
+<AM lemma="claimovat" src="orig">VpMP----R-AA---</AM>
+<AM lemma="claimovat" src="manual" selected="1">VpMP----R-AAI--</AM>
+</tag>
 </m>
 <m id="m-ln94205-136-p4s10w28">
 <src.rf>manual</src.rf>

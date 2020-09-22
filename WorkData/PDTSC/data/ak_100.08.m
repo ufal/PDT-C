@@ -3320,6 +3320,7 @@
 <AM lemma="dál-2" src="auto">NNFS2-----A----</AM>
 <AM lemma="daleko-1" src="auto">Dg-------2A---1</AM>
 <AM lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="auto" recommended="1">Db------------1</AM>
+<AM lemma="dále-3_^(také,_za_další)" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m100-d1t1980-3">
@@ -3395,6 +3396,7 @@
 <tag>
 <AM lemma="Carus_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="care-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Care-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m100-34-35">

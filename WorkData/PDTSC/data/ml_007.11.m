@@ -1870,7 +1870,8 @@
 <form>dožalo</form>
 <tag>
 <AM lemma="dožalo" src="auto">X@-------------</AM>
-<AM lemma="dožít-2_^(obilí)" src="manual" selected="1">VpNS----R-AA---</AM>
+<AM lemma="dožít-2_^(obilí)" src="manual">VpNS----R-AA---</AM>
+<AM lemma="dožnout" src="manual" selected="1">VpNS----R-AAP-1</AM>
 </tag>
 </m>
 <m id="m007-d1t3356-5">

@@ -16146,7 +16146,10 @@
 <LM>w#w-mf920924-128-p14s8w28</LM>
 </w.rf>
 <form>desintegrován</form>
-<tag lemma="desintegrovat" src="orig" selected="1">VsYS----X-AP---</tag>
+<tag>
+<AM lemma="desintegrovat" src="orig">VsYS----X-AP---</AM>
+<AM lemma="desintegrovat" src="manual" selected="1">VsYS----X-APB--</AM>
+</tag>
 </m>
 <m id="m-mf920924-128-p14s8w29">
 <src.rf>manual</src.rf>

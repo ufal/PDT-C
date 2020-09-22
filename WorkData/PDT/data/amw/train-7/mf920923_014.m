@@ -739,7 +739,10 @@
 <LM>w#w-mf920923-014-p2s4w15</LM>
 </w.rf>
 <form>Compar</form>
-<tag lemma="Compar_;m" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Compar_;m" src="orig">AAXXX----1A----</AM>
+<AM lemma="Compar-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920923-014-p2s4w16">
 <src.rf>manual</src.rf>
@@ -747,7 +750,10 @@
 <LM>w#w-mf920923-014-p2s4w16</LM>
 </w.rf>
 <form>Bata</form>
-<tag lemma="Bata-2_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Bata-2_;G" src="orig">NNFS1-----A----</AM>
+<AM lemma="Bata-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920923-014-p2s4w17">
 <src.rf>manual</src.rf>

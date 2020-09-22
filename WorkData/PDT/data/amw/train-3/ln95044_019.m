@@ -2109,7 +2109,11 @@
 <LM>w#w-ln95044-019-p3s9w29</LM>
 </w.rf>
 <form>Coca</form>
-<tag lemma="Coca_;m" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Coca_;m" src="orig">AAXXX----1A----</AM>
+<AM lemma="Coca-2" src="manual">AAXXX----1A----</AM>
+<AM lemma="Coca-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-019-p3s9w30">
 <src.rf>manual</src.rf>
@@ -2117,7 +2121,10 @@
 <LM>w#w-ln95044-019-p3s9w30</LM>
 </w.rf>
 <form>Cola</form>
-<tag lemma="Cola_;m" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Cola_;m" src="orig">NNFS1-----A----</AM>
+<AM lemma="Cola-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-019-p3s9w31">
 <src.rf>manual</src.rf>
@@ -2127,7 +2134,8 @@
 <form>Cup</form>
 <tag>
 <AM lemma="Cup-1_;m_,t_^(pohár,_soutěž;_v_názvech)" src="auto">NNIS1-----A----</AM>
-<AM lemma="cup-1_^(pohár)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="cup-1_^(pohár)" src="manual">NNIS1-----A----</AM>
+<AM lemma="Cup-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95044-019-p3s9w32">

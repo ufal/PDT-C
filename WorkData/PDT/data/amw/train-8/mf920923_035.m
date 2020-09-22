@@ -776,7 +776,9 @@
 <AM lemma="Drop_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="drop_;U" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="drop_,t" src="manual">NNXXX-----A----</AM>
-<AM lemma="drop-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="drop-77" src="manual">F%-------------</AM>
+<AM lemma="Drop" src="manual">S2--------A----</AM>
+<AM lemma="Drop-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf920923-035-p3s1w23">
@@ -799,6 +801,7 @@
 <AM lemma="in-1_,t_^(angl._v)" src="auto" recommended="1">RR--X----------</AM>
 <AM lemma="in-2_,h_,t" src="auto">AAXXX----1A----</AM>
 <AM lemma="In-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="in-2" src="manual">SNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-035-p3s1w25">

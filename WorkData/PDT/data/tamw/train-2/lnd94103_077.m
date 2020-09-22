@@ -27,7 +27,10 @@
 <LM>w#w-lnd94103-077-p1s1w2</LM>
 </w.rf>
 <form>Coca</form>
-<tag lemma="Coca_;m" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Coca_;m" src="orig">AAXXX----1A----</AM>
+<AM lemma="Coca-1" src="manual" selected="1">S2--------A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-077-p1s1w3">
 <src.rf>manual</src.rf>
@@ -197,7 +200,10 @@
 <LM>w#w-lnd94103-077-p1s1w22</LM>
 </w.rf>
 <form>Coca</form>
-<tag lemma="Coca_;m" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Coca_;m" src="orig">AAXXX----1A----</AM>
+<AM lemma="Coca-1" src="manual" selected="1">S2--------A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-077-p1s1w23">
 <src.rf>manual</src.rf>
@@ -255,7 +261,10 @@
 <LM>w#w-lnd94103-077-p1s2w4</LM>
 </w.rf>
 <form>Coca</form>
-<tag lemma="Coca_;m" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Coca_;m" src="orig">AAXXX----1A----</AM>
+<AM lemma="Coca-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94103-077-p1s2w5">
 <src.rf>manual</src.rf>
@@ -271,7 +280,10 @@
 <LM>w#w-lnd94103-077-p1s2w6</LM>
 </w.rf>
 <form>Cola</form>
-<tag lemma="Cola_;m" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Cola_;m" src="orig">NNFS1-----A----</AM>
+<AM lemma="Cola-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94103-077-p1s2w7">
 <src.rf>manual</src.rf>
@@ -325,7 +337,10 @@
 <LM>w#w-lnd94103-077-p1s2w12</LM>
 </w.rf>
 <form>Coca</form>
-<tag lemma="Coca_;m" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Coca_;m" src="orig">AAXXX----1A----</AM>
+<AM lemma="Coca-1" src="manual" selected="1">S2--------A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-077-p1s2w13">
 <src.rf>manual</src.rf>

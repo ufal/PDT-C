@@ -4239,7 +4239,9 @@
 <tag>
 <AM lemma="for_,t" src="orig">RR--X----------</AM>
 <AM lemma="fórum" src="auto" recommended="1">NNNP2-----A----</AM>
-<AM lemma="for-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="for-77" src="manual">F%-------------</AM>
+<AM lemma="FOR-77" src="manual">F%-------------</AM>
+<AM lemma="For-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-042-p41s2w30">
@@ -4255,7 +4257,8 @@
 <AM lemma="Sala_;G" src="auto">NNFS6-----A----</AM>
 <AM lemma="Sale_;G" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="sale_,t" src="manual">NNXXX-----A----</AM>
-<AM lemma="sale-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="sale-77" src="manual">F%-------------</AM>
+<AM lemma="Sale-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-042-p41s2w31">
@@ -6171,7 +6174,8 @@
 <tag>
 <AM lemma="for_,t" src="orig">RR--X----------</AM>
 <AM lemma="fórum" src="auto" recommended="1">NNNP2-----A----</AM>
-<AM lemma="for-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="for-77" src="manual">F%-------------</AM>
+<AM lemma="For-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-042-p46s4w8">

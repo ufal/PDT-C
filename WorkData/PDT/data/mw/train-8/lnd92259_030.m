@@ -246,7 +246,11 @@
 <LM>w#w-lnd92259-030-p2s2w21</LM>
 </w.rf>
 <form>FESTO</form>
-<tag lemma="Festo_;m" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Festo_;m" src="orig">NNNS1-----A----</AM>
+<AM lemma="FESTO-77" src="manual">F%-------------</AM>
+<AM lemma="Festo-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92259-030-p2s2w22">
 <src.rf>manual</src.rf>
@@ -254,7 +258,11 @@
 <LM>w#w-lnd92259-030-p2s2w22</LM>
 </w.rf>
 <form>DIDACTIC</form>
-<tag lemma="Didactic_;m" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Didactic_;m" src="orig">AAXXX----1A----</AM>
+<AM lemma="DIDACTIC-77" src="manual">F%-------------</AM>
+<AM lemma="Didactic-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92259-030-p2s2w23">
 <src.rf>manual</src.rf>

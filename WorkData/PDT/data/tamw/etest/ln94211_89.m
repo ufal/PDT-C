@@ -4355,8 +4355,8 @@
 <form>Da</form>
 <tag>
 <AM lemma="da_,t_^(šp.)" src="orig">RR--X----------</AM>
-<AM lemma="Da-77" src="manual">F%-------------</AM>
-<AM lemma="da-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Da-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="da-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-89-p8s5w2">

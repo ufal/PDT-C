@@ -330,8 +330,8 @@
 <tag>
 <AM lemma="Danka_;Y_,h_^(*2)" src="auto">NNFS3-----A----</AM>
 <AM lemma="Danka_;Y_,h_^(*2)" src="auto">NNFS6-----A----</AM>
-<AM lemma="dance-77" src="auto" recommended="1" selected="1">F%-------------</AM>
-<AM lemma="Dance-77" src="manual">F%-------------</AM>
+<AM lemma="dance-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Dance-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m129-307-333">
@@ -2641,10 +2641,10 @@
 <w.rf>
 <LM>w#w-d1t2280-6</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>2.5</form>
-<tag>
-<AM lemma="2.5" src="auto" recommended="1">C=-------------</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="2.5" src="auto" recommended="1">C=-------------</tag>
+</m>
 <m id="m129-d1t2280-9">
 <w.rf>
 <LM>w#w-d1t2280-9</LM>

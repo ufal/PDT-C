@@ -1106,7 +1106,10 @@
 <LM>w#w-lnd92255-003-p3s5w1</LM>
 </w.rf>
 <form>Budiž</form>
-<tag lemma="být" src="orig" selected="1">Vi-S---3--A----</tag>
+<tag>
+<AM lemma="být" src="orig">Vi-S---3--A----</AM>
+<AM lemma="budiž" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-003-p3s5w2">
 <src.rf>manual</src.rf>

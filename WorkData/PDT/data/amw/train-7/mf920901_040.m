@@ -85,7 +85,10 @@
 <LM>w#w-mf920901-040-p2s1w3</LM>
 </w.rf>
 <form>mtn</form>
-<tag lemma="mtn-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag>
+<AM lemma="mtn-99_;Y" src="orig">NNXXX-----A---b</AM>
+<AM lemma="mtn-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-040-p2s1w4">
 <src.rf>manual</src.rf>
@@ -101,7 +104,10 @@
 <LM>w#w-mf920901-040-p2s1w5</LM>
 </w.rf>
 <form>čstk</form>
-<tag lemma="čstk-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag>
+<AM lemma="čstk-99_;Y" src="orig">NNXXX-----A---b</AM>
+<AM lemma="čstk-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-040-p2s1w6">
 <src.rf>manual</src.rf>

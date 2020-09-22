@@ -95,7 +95,8 @@
 <form>diskuse</form>
 <tag>
 <AM lemma="diskuse" src="orig">NNFP1-----A----</AM>
-<AM lemma="diskuse_,s" src="manual" selected="1">_^(^DD**diskuze)</AM>
+<AM lemma="diskuse_,s" src="manual">_^(^DD**diskuze)</AM>
+<AM lemma="diskuse_,s_^(^DD**diskuze)" src="manual" selected="1">NNFP1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-042-p2s1w6">

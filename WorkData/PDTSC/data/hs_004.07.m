@@ -2504,7 +2504,9 @@
 <AM lemma="dál-2" src="auto">NNFS4-----A----</AM>
 <AM lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="auto">Db-------------</AM>
 <AM lemma="dít-1_^(dít_se)" src="auto">VpYS----R-AAI-1</AM>
-<AM lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="manual" selected="1" />
+<AM lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="manual"/>
+<AM lemma="	dál-3_,s_^(také,_za_další)_(^DD**dále-3)" src="manual">Db-------------</AM>
+<AM lemma="dál-3_,s_^(také,_za_další)_(^DD**dále-3)" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m004-d1e2976-x2-1842">

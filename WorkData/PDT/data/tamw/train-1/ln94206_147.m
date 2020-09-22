@@ -88,7 +88,10 @@
 <LM>w#w-ln94206-147-p2s1Aw4</LM>
 </w.rf>
 <form>dan</form>
-<tag lemma="dan-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag>
+<AM lemma="dan-99_;Y" src="orig">NNXXX-----A---b</AM>
+<AM lemma="dan-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-147-p2s1Aw5">
 <src.rf>manual</src.rf>
@@ -384,7 +387,8 @@
 <form>Č</form>
 <tag>
 <AM lemma="Český_:B_;G" src="orig">AAXXX----1A---8</AM>
-<AM lemma="Český_;G" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="Český_;G" src="manual">AAXXX----1A---8</AM>
+<AM lemma="český" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-ln94206-147-p3s1w7">

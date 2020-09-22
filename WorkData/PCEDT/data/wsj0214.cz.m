@@ -5743,7 +5743,8 @@
 <form>Campanerisových</form>
 <tag>
 <AM lemma="Campanerisových" src="auto">X@-------------</AM>
-<AM lemma="Campanerisův_;Y_^(*2)" src="manual" selected="1">AAFP2----1A----</AM>
+<AM lemma="Campanerisův_;Y_^(*2)" src="manual">AAFP2----1A----</AM>
+<AM lemma="Campanerisův_;Y" src="manual" selected="1">AUFP2M---------</AM>
 </tag>
 </m>
 <m id="m-wsj0214-001-p1s21W30-Ta">

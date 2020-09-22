@@ -90,7 +90,10 @@
 <LM>w#w-lnd91301-022-p3s1w3</LM>
 </w.rf>
 <form>ert</form>
-<tag lemma="ert-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag>
+<AM lemma="ert-99_;Y" src="orig">NNXXX-----A---b</AM>
+<AM lemma="ert-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-022-p3s1w4">
 <src.rf>manual</src.rf>

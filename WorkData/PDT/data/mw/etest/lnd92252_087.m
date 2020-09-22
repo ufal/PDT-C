@@ -4102,7 +4102,8 @@
 <form>DM</form>
 <tag>
 <AM lemma="DM_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="DM-99_;Y" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="DM-99_;Y" src="manual">NNXXX-----A---b</AM>
+<AM lemma="DM-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-087-p7s1w3">

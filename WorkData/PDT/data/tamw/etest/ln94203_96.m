@@ -3686,7 +3686,10 @@
 <LM>w#w-ln94203-96-p5s4w28</LM>
 </w.rf>
 <form>Dr</form>
-<tag lemma="doktor_^(doktor,_akad._titul)" src="orig" selected="1">NNMXX-----A---b</tag>
+<tag>
+<AM lemma="doktor_^(doktor,_akad._titul)" src="orig">NNMXX-----A---b</AM>
+<AM lemma="Dr_^(doktor,_akad._titul)" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-96-p5s4w29">
 <src.rf>manual</src.rf>
@@ -3710,7 +3713,10 @@
 <LM>w#w-ln94203-96-p5s4w31</LM>
 </w.rf>
 <form>Di</form>
-<tag lemma="di_;G_;Y" src="auto" selected="1">RR--X----------</tag>
+<tag>
+<AM lemma="di_;G_;Y" src="auto">RR--X----------</AM>
+<AM lemma="Di-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94203-96-p5s4w32">
 <src.rf>manual</src.rf>

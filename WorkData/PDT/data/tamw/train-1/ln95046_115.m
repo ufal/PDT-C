@@ -141,7 +141,9 @@
 <form>Coca</form>
 <tag>
 <AM lemma="Coca_;m" src="orig">AAXXX----1A----</AM>
-<AM lemma="Coca_;m" src="manual" selected="1">AAXXX----1A----</AM>
+<AM lemma="Coca_;m" src="manual">AAXXX----1A----</AM>
+<AM lemma="Coca-2" src="manual">AAXXX----1A----</AM>
+<AM lemma="Coca-1" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-115-p2s1Bw7">
@@ -820,7 +822,8 @@
 <form>Coca</form>
 <tag>
 <AM lemma="Coca_;m" src="orig">AAXXX----1A----</AM>
-<AM lemma="Coca_;m" src="manual" selected="1">AAXXX----1A----</AM>
+<AM lemma="Coca_;m" src="manual">AAXXX----1A----</AM>
+<AM lemma="Coca-1" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-115-p3s5w5">

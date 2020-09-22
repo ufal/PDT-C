@@ -4240,7 +4240,8 @@
 <form>Dun</form>
 <tag>
 <AM lemma="duna" src="orig">NNFP2-----A----</AM>
-<AM lemma="dunajský_;G" src="manual" selected="1">BAFP2----1A----</AM>
+<AM lemma="dunajský_;G" src="manual">BAFP2----1A----</AM>
+<AM lemma="dunajský" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92251-110-p9s5w21">

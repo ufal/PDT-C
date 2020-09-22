@@ -118,8 +118,8 @@
 </w.rf>
 <form>Čen</form>
 <tag>
-<AM lemma="Čen_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Čen_;_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Čen_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Čen_;_;Y" src="manual">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-035-p3s2w4">

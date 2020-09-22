@@ -93,7 +93,10 @@
 <LM>w#w-mf930709-051-p2s1Aw3</LM>
 </w.rf>
 <form>spa</form>
-<tag lemma="spa-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag>
+<AM lemma="spa-99_;Y" src="orig">NNXXX-----A---b</AM>
+<AM lemma="spa-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-051-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -109,7 +112,10 @@
 <LM>w#w-mf930709-051-p2s1Aw5</LM>
 </w.rf>
 <form>dap</form>
-<tag lemma="dap-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag>
+<AM lemma="dap-99_;Y" src="orig">NNXXX-----A---b</AM>
+<AM lemma="dap-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-051-p2s1Aw6">
 <src.rf>manual</src.rf>

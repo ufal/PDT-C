@@ -1973,7 +1973,8 @@
 <form>Congres</form>
 <tag>
 <AM lemma="Congress_;m_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Congress-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Congress-77" src="manual">F%-------------</AM>
+<AM lemma="Congres-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-040-p9s3w6">

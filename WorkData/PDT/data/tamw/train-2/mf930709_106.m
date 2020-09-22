@@ -107,9 +107,10 @@
 </w.rf>
 <form>do</form>
 <tag>
-<AM lemma="do-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
+<AM lemma="do-99_;Y" src="orig">NNXXX-----A---b</AM>
 <AM lemma="do-1" src="auto" recommended="1">RR--2----------</AM>
 <AM lemma="do-7_^(předpona,_sam.)" src="auto">A2--------A----</AM>
+<AM lemma="do-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-106-p2s1Aw4">

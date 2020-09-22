@@ -65,10 +65,11 @@
 </w.rf>
 <form>dr</form>
 <tag>
-<AM lemma="dr-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
+<AM lemma="dr-99_;Y" src="orig">NNXXX-----A---b</AM>
 <AM lemma="doktor_:B_^(doktor,_akad._titul)" src="auto">NNMXX-----A---8</AM>
 <AM lemma="doktor_:B_^(doktor,_akad._titul)" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="doktorka_:B_^(doktorka,_akad._titul)" src="auto">NNFXX-----A---8</AM>
+<AM lemma="dr-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-049-p2s1w4">

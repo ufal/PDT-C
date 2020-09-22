@@ -413,7 +413,8 @@
 <form>Coca</form>
 <tag>
 <AM lemma="Coca_;m" src="orig">AAXXX----1A----</AM>
-<AM lemma="Coca_;m" src="manual" selected="1">AAXXX----1A----</AM>
+<AM lemma="Coca_;m" src="manual">AAXXX----1A----</AM>
+<AM lemma="Coca-1" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-161-p3s1w22">

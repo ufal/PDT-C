@@ -2288,9 +2288,10 @@
 </w.rf>
 <form>Colloredo</form>
 <tag>
-<AM lemma="Colloredo_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Colloredo_;Y" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 <AM lemma="Colloredo_;Y" src="auto">NNMS5-----A----</AM>
-<AM lemma="Colloredo_;Y_^(Colloredo-Mansfeld)" src="auto" selected="1">S2--------A----</AM>
+<AM lemma="Colloredo_;Y_^(Colloredo-Mansfeld)" src="auto">S2--------A----</AM>
+<AM lemma="Colloredo_;Y" src="manual">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m134-d1t294-2">

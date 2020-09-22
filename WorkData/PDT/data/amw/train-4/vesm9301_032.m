@@ -2670,7 +2670,10 @@
 <LM>w#w-vesm9301-032-p6s1w1</LM>
 </w.rf>
 <form>Budiž</form>
-<tag lemma="být" src="orig" selected="1">Vi-S---3--A----</tag>
+<tag>
+<AM lemma="být" src="orig">Vi-S---3--A----</AM>
+<AM lemma="být" src="manual" selected="1">Vi-S---3--A-I-2</AM>
+</tag>
 </m>
 <m id="m-vesm9301-032-p6s1w2">
 <src.rf>manual</src.rf>

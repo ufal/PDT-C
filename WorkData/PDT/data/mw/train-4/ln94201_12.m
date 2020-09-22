@@ -217,7 +217,8 @@
 <form>Daiwa</form>
 <tag>
 <AM lemma="Daiwa_;m_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="Daiwa_;m" src="manual" selected="1">AAXXX----1A----</AM>
+<AM lemma="Daiwa_;m" src="manual">AAXXX----1A----</AM>
+<AM lemma="Daiwa-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-12-p3s1w4">
@@ -335,7 +336,10 @@
 <LM>w#w-ln94201-12-p4s1w1</LM>
 </w.rf>
 <form>Abilympics</form>
-<tag lemma="Abilympics_;m" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="Abilympics_;m" src="orig">NNXXX-----A----</AM>
+<AM lemma="Abilympics-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-12-p4s1w2">
 <src.rf>manual</src.rf>

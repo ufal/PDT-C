@@ -6550,7 +6550,10 @@
 <LM>w#w-vesm9211-006-p11s1w1</LM>
 </w.rf>
 <form>Dš</form>
-<tag lemma="Dš-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag>
+<AM lemma="Dš-99_;Y" src="orig">NNXXX-----A---b</AM>
+<AM lemma="Dš-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 </s>
 </mdata>

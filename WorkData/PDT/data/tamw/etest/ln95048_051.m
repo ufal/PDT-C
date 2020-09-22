@@ -3140,7 +3140,8 @@
 <AM lemma="Džambo_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Džambo_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="džambo_,t" src="manual">NNXXX-----A----</AM>
-<AM lemma="džambo-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="džambo-77" src="manual">F%-------------</AM>
+<AM lemma="Džambo-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-051-p3s8w2">

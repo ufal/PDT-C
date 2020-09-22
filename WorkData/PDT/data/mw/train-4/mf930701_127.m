@@ -1361,7 +1361,8 @@
 <form>D</form>
 <tag>
 <AM lemma="D-3`500" src="orig">C}-------------</AM>
-<AM lemma="Dunajský_;G" src="manual" selected="1">BAXXX----1A----</AM>
+<AM lemma="Dunajský_;G" src="manual">BAXXX----1A----</AM>
+<AM lemma="D-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-127-p2s8w17">

@@ -130,7 +130,10 @@
 <LM>w#w-mf930703-089-p2s1w7</LM>
 </w.rf>
 <form>čen</form>
-<tag lemma="čen-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag>
+<AM lemma="čen-99_;Y" src="orig">NNXXX-----A---b</AM>
+<AM lemma="čen-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-089-p2s1w8">
 <src.rf>manual</src.rf>

@@ -2687,7 +2687,8 @@
 <form>Č</form>
 <tag>
 <AM lemma="Český_:B_;G" src="orig">AAXXX----1A---8</AM>
-<AM lemma="Český_;G" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="Český_;G" src="manual">AAXXX----1A---8</AM>
+<AM lemma="český" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-mf930703-099-p6s2w19">

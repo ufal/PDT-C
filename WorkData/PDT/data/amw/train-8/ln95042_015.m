@@ -2054,7 +2054,10 @@
 <LM>w#w-ln95042-015-p2s9Aw51</LM>
 </w.rf>
 <form>dokadeřováno</form>
-<tag lemma="dokadeřovat" src="orig" selected="1">VsNS----X-AP---</tag>
+<tag>
+<AM lemma="dokadeřovat" src="orig">VsNS----X-AP---</AM>
+<AM lemma="dokadeřovat" src="manual" selected="1">VsNS----X-APP--</AM>
+</tag>
 </m>
 <m id="m-ln95042-015-p2s9Aw52">
 <src.rf>manual</src.rf>

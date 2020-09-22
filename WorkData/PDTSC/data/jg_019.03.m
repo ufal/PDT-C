@@ -159,6 +159,7 @@
 <AM lemma="elektro_,h_,l_^(elektrospotřebič;_prodejna_elektro)" src="auto" recommended="1">NNNS6-----A----</AM>
 <AM lemma="elektrum_;U" src="auto">NNNS3-----A----</AM>
 <AM lemma="elektrum_;U" src="auto">NNNS6-----A----</AM>
+<AM lemma="elektro-1_^(elektrospotřebič;_prodejna_elektro)" src="manual" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m019-d1e1061-x3-368">
