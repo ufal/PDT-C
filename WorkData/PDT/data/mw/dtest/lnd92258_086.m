@@ -12196,7 +12196,10 @@
 <LM>w#w-lnd92258-086-p13s5w12</LM>
 </w.rf>
 <form>hodil</form>
-<tag lemma="hodit" src="orig" selected="1">VpYS----R-AA---</tag>
+<tag>
+<AM lemma="hodit" src="orig">VpYS----R-AA---</AM>
+<AM lemma="hodit-1" src="manual" selected="1">VpYS----R-AAP--</AM>
+</tag>
 </m>
 <m id="m-lnd92258-086-p13s5w13">
 <src.rf>manual</src.rf>

@@ -2866,7 +2866,10 @@
 <LM>w#w-lnd92254-099-p7s4w5</LM>
 </w.rf>
 <form>hodilo</form>
-<tag lemma="hodit" src="orig" selected="1">VpNS----R-AA---</tag>
+<tag>
+<AM lemma="hodit" src="orig">VpNS----R-AA---</AM>
+<AM lemma="hodit-2_^(bude_se_hodit)" src="manual" selected="1">VpNS----R-AAI--</AM>
+</tag>
 </m>
 <m id="m-lnd92254-099-p7s4w6">
 <src.rf>manual</src.rf>

@@ -2779,7 +2779,8 @@
 <AM lemma="Habitat_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="habitat" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="habitat" src="auto">NNIS4-----A----</AM>
-<AM lemma="Habitat_;m_,m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Habitat_;m_,m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Habitat_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-017-p10s1w2">

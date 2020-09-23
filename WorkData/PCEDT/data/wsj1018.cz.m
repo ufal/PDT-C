@@ -99,7 +99,8 @@
 <AM lemma="grupa" src="auto">NNFS5-----A----</AM>
 <AM lemma="grupo_,t" src="auto">NNFXX-----A----</AM>
 <AM lemma="grupo_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="grupo-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="grupo-77" src="manual">F%-------------</AM>
+<AM lemma="Grupo-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1018-001-p1s0W10-Ta">

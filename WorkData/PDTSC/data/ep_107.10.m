@@ -2009,7 +2009,10 @@
 <LM>w#w-d1t1889-19</LM>
 </w.rf>
 <form>hodily</form>
-<tag lemma="hodit" src="auto" recommended="1">VpTP----R-AA---</tag>
+<tag>
+<AM lemma="hodit" src="auto" recommended="1">VpTP----R-AA---</AM>
+<AM lemma="hodit-1" src="manual" selected="1">VpTP----R-AAP--</AM>
+</tag>
 </m>
 <m id="m107-d-id179704-punct">
 <w.rf>

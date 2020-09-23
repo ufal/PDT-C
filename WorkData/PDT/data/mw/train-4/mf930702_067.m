@@ -1439,7 +1439,10 @@
 <LM>w#w-mf930702-067-p3s12w3</LM>
 </w.rf>
 <form>Grand</form>
-<tag lemma="Grand-1_;m_^(v_názvech)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Grand-1_;m_^(v_názvech)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Grand-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930702-067-p3s12w4">
 <src.rf>manual</src.rf>
@@ -1447,7 +1450,10 @@
 <LM>w#w-mf930702-067-p3s12w4</LM>
 </w.rf>
 <form>Prix</form>
-<tag lemma="Prix-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Prix-1_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Prix-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930702-067-p3s12w5">
 <src.rf>manual</src.rf>

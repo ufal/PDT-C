@@ -85,7 +85,10 @@
 <LM>w#w-ln94207-9-p2s1Aw3</LM>
 </w.rf>
 <form>ljď</form>
-<tag lemma="ljď-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag>
+<AM lemma="ljď-99_;Y" src="orig">NNXXX-----A---b</AM>
+<AM lemma="ljď-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-9-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -101,7 +104,10 @@
 <LM>w#w-ln94207-9-p2s1Aw5</LM>
 </w.rf>
 <form>haš</form>
-<tag lemma="haš-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag>
+<AM lemma="haš-99_;Y" src="orig">NNXXX-----A---b</AM>
+<AM lemma="haš-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-9-p2s1Aw6">
 <src.rf>manual</src.rf>

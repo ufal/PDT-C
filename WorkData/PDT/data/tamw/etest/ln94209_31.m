@@ -1481,7 +1481,10 @@
 <LM>w#w-ln94209-31-p3s8w2</LM>
 </w.rf>
 <form>haš</form>
-<tag lemma="haš-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag>
+<AM lemma="haš-99_;Y" src="orig">NNXXX-----A---b</AM>
+<AM lemma="haš-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94209-31-p3s8w3">
 <src.rf>manual</src.rf>

@@ -151,7 +151,10 @@
 <LM>w#w-ln94209-28-p2s1Bw3</LM>
 </w.rf>
 <form>haš</form>
-<tag lemma="haš-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag>
+<AM lemma="haš-99_;Y" src="orig">NNXXX-----A---b</AM>
+<AM lemma="haš-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94209-28-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -1724,7 +1727,10 @@
 <LM>w#w-ln94209-28-p3s7w9</LM>
 </w.rf>
 <form>hodí</form>
-<tag lemma="hodit" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="hodit" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="hodit-2_^(bude_se_hodit)" src="manual" selected="1">VB-S---3P-AAI--</AM>
+</tag>
 </m>
 <m id="m-ln94209-28-p3s7w10">
 <src.rf>manual</src.rf>

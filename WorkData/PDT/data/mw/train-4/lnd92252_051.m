@@ -1241,7 +1241,10 @@
 <LM>w#w-lnd92252-051-p4s1w2</LM>
 </w.rf>
 <form>gk</form>
-<tag lemma="gk-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag>
+<AM lemma="gk-99_;Y" src="orig">NNXXX-----A---b</AM>
+<AM lemma="gk-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92252-051-p4s1w3">
 <src.rf>manual</src.rf>

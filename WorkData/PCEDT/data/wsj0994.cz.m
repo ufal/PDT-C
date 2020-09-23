@@ -10275,7 +10275,8 @@
 <AM lemma="frontier_,t" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="frontier_,t" src="auto">NNIS4-----A----</AM>
 <AM lemma="Frontier_,G_;m" src="manual">NNIS1-----A----</AM>
-<AM lemma="Frontier_,G_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Frontier_,G_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Frontier_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0994-001-p1s36W11-Ta">

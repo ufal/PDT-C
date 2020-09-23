@@ -679,7 +679,10 @@
 <LM>w#w-lnd92252-018-p3s5w18</LM>
 </w.rf>
 <form>hodit</form>
-<tag lemma="hodit" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="hodit" src="orig">Vf--------A----</AM>
+<AM lemma="hodit-1" src="manual" selected="1">Vf--------A-P--</AM>
+</tag>
 </m>
 <m id="m-lnd92252-018-p3s5w19">
 <src.rf>manual</src.rf>

@@ -887,7 +887,10 @@
 <LM>w#w-lnd92258-076-p11s1w7</LM>
 </w.rf>
 <form>hodí</form>
-<tag lemma="hodit" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="hodit" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="hodit-2_^(bude_se_hodit)" src="manual" selected="1">VB-S---3P-AAI--</AM>
+</tag>
 </m>
 </s>
 <s id="m-lnd92258-076-p12s1">
@@ -3605,8 +3608,8 @@
 <w.rf>
 <LM>w#w-lnd92258-076-p50s1w36</LM>
 </w.rf>
-<form>&gt;</form>
-<tag lemma="&gt;" src="orig" selected="1">Z:-------------</tag>
+<form>></form>
+<tag lemma=">" src="orig" selected="1">Z:-------------</tag>
 </m>
 </s>
 <s id="m-lnd92258-076-p51s1">
@@ -3631,8 +3634,8 @@
 <w.rf>
 <LM>w#w-lnd92258-076-p51s1w3</LM>
 </w.rf>
-<form>&gt;</form>
-<tag lemma="&gt;" src="orig" selected="1">Z:-------------</tag>
+<form>></form>
+<tag lemma=">" src="orig" selected="1">Z:-------------</tag>
 </m>
 </s>
 <s id="m-lnd92258-076-p52s1">
@@ -3657,8 +3660,8 @@
 <w.rf>
 <LM>w#w-lnd92258-076-p52s1w3</LM>
 </w.rf>
-<form>&gt;</form>
-<tag lemma="&gt;" src="orig" selected="1">Z:-------------</tag>
+<form>></form>
+<tag lemma=">" src="orig" selected="1">Z:-------------</tag>
 </m>
 </s>
 <s id="m-lnd92258-076-p53s1">

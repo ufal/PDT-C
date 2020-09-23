@@ -11889,7 +11889,10 @@
 <LM>w#w-vesm9211-001-p25s1w16</LM>
 </w.rf>
 <form>hodí</form>
-<tag lemma="hodit" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="hodit" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="hodit-2_^(bude_se_hodit)" src="manual" selected="1">VB-S---3P-AAI--</AM>
+</tag>
 </m>
 <m id="m-vesm9211-001-p25s1w17">
 <src.rf>manual</src.rf>
@@ -11972,7 +11975,10 @@
 <LM>w#w-vesm9211-001-p25s1w26</LM>
 </w.rf>
 <form>nehodí</form>
-<tag lemma="hodit" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag>
+<AM lemma="hodit" src="orig">VB-S---3P-NA---</AM>
+<AM lemma="hodit-2_^(bude_se_hodit)" src="manual" selected="1">VB-S---3P-NAI--</AM>
+</tag>
 </m>
 <m id="m-vesm9211-001-p25s1w27">
 <src.rf>manual</src.rf>

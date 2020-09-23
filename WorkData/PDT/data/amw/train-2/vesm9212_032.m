@@ -11452,7 +11452,10 @@
 <LM>w#w-vesm9212-032-p10s3w3</LM>
 </w.rf>
 <form>hodí</form>
-<tag lemma="hodit" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="hodit" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="hodit-1" src="manual" selected="1">VB-S---3P-AAP--</AM>
+</tag>
 </m>
 <m id="m-vesm9212-032-p10s3w4">
 <src.rf>manual</src.rf>
@@ -12021,7 +12024,10 @@
 <LM>w#w-vesm9212-032-p10s6w9</LM>
 </w.rf>
 <form>hodím</form>
-<tag lemma="hodit" src="orig" selected="1">VB-S---1P-AA---</tag>
+<tag>
+<AM lemma="hodit" src="orig">VB-S---1P-AA---</AM>
+<AM lemma="hodit-1" src="manual" selected="1">VB-S---1P-AAP--</AM>
+</tag>
 </m>
 <m id="m-vesm9212-032-p10s6w10">
 <src.rf>manual</src.rf>
@@ -12551,7 +12557,10 @@
 <LM>w#w-vesm9212-032-p10s9w20</LM>
 </w.rf>
 <form>hodím</form>
-<tag lemma="hodit" src="orig" selected="1">VB-S---1P-AA---</tag>
+<tag>
+<AM lemma="hodit" src="orig">VB-S---1P-AA---</AM>
+<AM lemma="hodit-1" src="manual" selected="1">VB-S---1P-AAP--</AM>
+</tag>
 </m>
 <m id="m-vesm9212-032-p10s9w21">
 <src.rf>manual</src.rf>
@@ -14669,8 +14678,8 @@
 <w.rf>
 <LM>w#w-vesm9212-032-p12s1w11</LM>
 </w.rf>
-<form>&gt;</form>
-<tag lemma="&gt;" src="orig" selected="1">Z:-------------</tag>
+<form>></form>
+<tag lemma=">" src="orig" selected="1">Z:-------------</tag>
 </m>
 <m id="m-vesm9212-032-p12s1w12">
 <src.rf>manual</src.rf>

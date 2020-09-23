@@ -402,7 +402,8 @@
 <form>Hard</form>
 <tag>
 <AM lemma="hard_,t_^(tvrdý,_pevný)" src="orig">AAXXX----1A----</AM>
-<AM lemma="hard-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="hard-77" src="manual">F%-------------</AM>
+<AM lemma="Hard-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf920922-109-p17s1w4">

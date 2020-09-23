@@ -1737,7 +1737,10 @@
 <LM>w#w-cmpr9416-025-p10s4w14</LM>
 </w.rf>
 <form>hodí</form>
-<tag lemma="hodit" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="hodit" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="hodit-2_^(bude_se_hodit)" src="manual" selected="1">VB-S---3P-AAI--</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-025-p10s4w15">
 <src.rf>manual</src.rf>

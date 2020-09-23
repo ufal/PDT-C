@@ -1501,7 +1501,8 @@
 <AM lemma="Harley_;G" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="harley_;m_,t_^(motorka)" src="auto">NNIS1-----A----</AM>
 <AM lemma="harley_;m_,t_^(motorka)" src="auto">NNIS4-----A----</AM>
-<AM lemma="Harley_;m^(motorka)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Harley_;m^(motorka)" src="manual">NNIS1-----A----</AM>
+<AM lemma="Harley-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1620-001-p1s3W5-Ta">

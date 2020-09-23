@@ -2872,13 +2872,14 @@
 <LM>w#w-wsj1789-001-p1s9W1</LM>
 </w.rf>
 <form>61</form>
-<tag>
-<AM lemma="61" src="auto" recommended="1">C=-------------</AM></tag>
-</m><m id="m-wsj1789-001-p1s9W1-Ta-sw1">
+<tag lemma="61" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m-wsj1789-001-p1s9W1-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1789-001-p1s9W1</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>letý</form>
 <tag>
 <AM lemma="letý" src="auto">AAFP1----1A---6</AM>
@@ -2903,8 +2904,9 @@
 <AM lemma="letý" src="auto">AANP5----1A---6</AM>
 <AM lemma="letý" src="auto">AANS1----1A---6</AM>
 <AM lemma="letý" src="auto">AANS4----1A---6</AM>
-<AM lemma="letý" src="auto">AANS5----1A---6</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="letý" src="auto">AANS5----1A---6</AM>
+</tag>
+</m>
 <m id="m-wsj1789-001-p1s9W2-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -7288,13 +7290,14 @@
 <LM>w#w-wsj1789-001-p1s28W5</LM>
 </w.rf>
 <form>15</form>
-<tag>
-<AM lemma="15" src="auto" recommended="1">C=-------------</AM></tag>
-</m><m id="m-wsj1789-001-p1s28W5-Ta-sw1">
+<tag lemma="15" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m-wsj1789-001-p1s28W5-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1789-001-p1s28W5</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>dolarový</form>
 <tag>
 <AM lemma="dolarový" src="auto">AAFP1----1A---6</AM>
@@ -7319,8 +7322,9 @@
 <AM lemma="dolarový" src="auto">AANP5----1A---6</AM>
 <AM lemma="dolarový" src="auto">AANS1----1A---6</AM>
 <AM lemma="dolarový" src="auto">AANS4----1A---6</AM>
-<AM lemma="dolarový" src="auto">AANS5----1A---6</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="dolarový" src="auto">AANS5----1A---6</AM>
+</tag>
+</m>
 <m id="m-wsj1789-001-p1s28W6-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -9213,7 +9217,8 @@
 <AM lemma="grupa" src="auto">NNFS5-----A----</AM>
 <AM lemma="grupo_,t" src="auto">NNFXX-----A----</AM>
 <AM lemma="grupo_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="grupo-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="grupo-77" src="manual">F%-------------</AM>
+<AM lemma="Grupo-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1789-001-p1s36W5-Ta">
@@ -9865,7 +9870,8 @@
 <AM lemma="grupa" src="auto">NNFS5-----A----</AM>
 <AM lemma="grupo_,t" src="auto">NNFXX-----A----</AM>
 <AM lemma="grupo_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="grupo-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="grupo-77" src="manual">F%-------------</AM>
+<AM lemma="Grupo-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1789-001-p1s38W20-Ta">

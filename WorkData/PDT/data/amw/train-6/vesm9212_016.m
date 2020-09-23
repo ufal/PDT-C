@@ -520,7 +520,8 @@
 <AM lemma="game_,t_^(hra)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="game_,t_^(hra)" src="auto">NNIS4-----A----</AM>
 <AM lemma="game_,t_^(hra)" src="auto">NNIS5-----A----</AM>
-<AM lemma="game-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="game-77" src="manual">F%-------------</AM>
+<AM lemma="Game-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 </s>
@@ -23447,7 +23448,8 @@
 <AM lemma="game_,t_^(hra)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="game_,t_^(hra)" src="auto">NNIS4-----A----</AM>
 <AM lemma="game_,t_^(hra)" src="auto">NNIS5-----A----</AM>
-<AM lemma="game-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="game-77" src="manual">F%-------------</AM>
+<AM lemma="Game-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9212-016-p35s3w12">

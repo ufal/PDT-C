@@ -54,9 +54,10 @@
 </w.rf>
 <form>gap</form>
 <tag>
-<AM lemma="gap-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
+<AM lemma="gap-99_;Y" src="orig">NNXXX-----A---b</AM>
 <AM lemma="gap" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="gap" src="auto">NNIS4-----A----</AM>
+<AM lemma="gap-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-041-p2s1w4">

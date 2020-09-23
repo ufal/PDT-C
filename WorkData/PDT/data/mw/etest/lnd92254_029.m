@@ -3217,7 +3217,10 @@
 <LM>w#w-lnd92254-029-p7s5w2</LM>
 </w.rf>
 <form>Global</form>
-<tag lemma="Global_;m" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Global_;m" src="orig">AAXXX----1A----</AM>
+<AM lemma="Global_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92254-029-p7s5w3">
 <src.rf>manual</src.rf>

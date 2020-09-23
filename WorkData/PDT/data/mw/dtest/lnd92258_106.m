@@ -4763,7 +4763,10 @@
 <LM>w#w-lnd92258-106-p6s4w19</LM>
 </w.rf>
 <form>hodily</form>
-<tag lemma="hodit" src="orig" selected="1">VpTP----R-AA---</tag>
+<tag>
+<AM lemma="hodit" src="orig">VpTP----R-AA---</AM>
+<AM lemma="hodit-2_^(bude_se_hodit)" src="manual" selected="1">VpTP----R-AAI--</AM>
+</tag>
 </m>
 <m id="m-lnd92258-106-p6s4w20">
 <src.rf>manual</src.rf>

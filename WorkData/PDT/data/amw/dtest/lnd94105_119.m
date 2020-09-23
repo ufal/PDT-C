@@ -168,9 +168,10 @@
 </w.rf>
 <form>ha</form>
 <tag>
-<AM lemma="ha-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
+<AM lemma="ha-99_;Y" src="orig">NNXXX-----A---b</AM>
 <AM lemma="ha-1`hektar_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="ha-2" src="auto">II-------------</AM>
+<AM lemma="ha-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-119-p1s2w4">

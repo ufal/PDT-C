@@ -2681,7 +2681,10 @@
 <LM>w#w-ln94201-86-p4s4w21</LM>
 </w.rf>
 <form>hodil</form>
-<tag lemma="hodit" src="orig" selected="1">VpYS----R-AA---</tag>
+<tag>
+<AM lemma="hodit" src="orig">VpYS----R-AA---</AM>
+<AM lemma="hodit-2_^(bude_se_hodit)" src="manual" selected="1">VpYS----R-AAI--</AM>
+</tag>
 </m>
 <m id="m-ln94201-86-p4s4w22">
 <src.rf>manual</src.rf>

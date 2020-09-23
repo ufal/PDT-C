@@ -4491,7 +4491,10 @@
 <LM>w#w-d1t3770-6</LM>
 </w.rf>
 <form>hodili</form>
-<tag lemma="hodit" src="auto" recommended="1">VpMP----R-AA---</tag>
+<tag>
+<AM lemma="hodit" src="auto" recommended="1">VpMP----R-AA---</AM>
+<AM lemma="hodit-1" src="manual" selected="1">VpMP----R-AAP--</AM>
+</tag>
 </m>
 <m id="m053-d1t3770-7">
 <w.rf>

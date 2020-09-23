@@ -755,7 +755,11 @@
 <LM>w#w-ln94209-19-p2s4w24</LM>
 </w.rf>
 <form>glajšaltovat</form>
-<tag lemma="glajchšaltovat_,e" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="glajchšaltovat_,e" src="orig">Vf--------A----</AM>
+<AM lemma="glajšaltovat_,e" src="manual">Vf--------A-I--</AM>
+<AM lemma="glajšaltovat_,i_^(^DS**glajchšaltovat)" src="manual" selected="1">Vf--------A-I--</AM>
+</tag>
 </m>
 <m id="m-ln94209-19-p2s4w25">
 <src.rf>manual</src.rf>

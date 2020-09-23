@@ -3198,7 +3198,8 @@
 <form>Goupila</form>
 <tag>
 <AM lemma="Goupila" src="auto">X@-------------</AM>
-<AM lemma="Goupil_S" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Goupil_S" src="manual">NNMS2-----A----</AM>
+<AM lemma="Goupil_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1429-001-p1s10W4-Ta">

@@ -109,7 +109,10 @@
 <LM>w#w-mf930708-140-p2s1w4</LM>
 </w.rf>
 <form>hai</form>
-<tag lemma="hai-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag>
+<AM lemma="hai-99_;Y" src="orig">NNXXX-----A---b</AM>
+<AM lemma="hai-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-140-p2s1w5">
 <src.rf>manual</src.rf>

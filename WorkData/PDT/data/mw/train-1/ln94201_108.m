@@ -4746,7 +4746,10 @@
 <LM>w#w-ln94201-108-p32s9w16</LM>
 </w.rf>
 <form>hodil</form>
-<tag lemma="hodit" src="orig" selected="1">VpYS----R-AA---</tag>
+<tag>
+<AM lemma="hodit" src="orig">VpYS----R-AA---</AM>
+<AM lemma="hodit-1" src="manual" selected="1">VpYS----R-AAP--</AM>
+</tag>
 </m>
 <m id="m-ln94201-108-p32s9w17">
 <src.rf>manual</src.rf>
@@ -6852,7 +6855,10 @@
 <LM>w#w-ln94201-108-p40s8w16</LM>
 </w.rf>
 <form>hodíte</form>
-<tag lemma="hodit" src="orig" selected="1">VB-P---2P-AA---</tag>
+<tag>
+<AM lemma="hodit" src="orig">VB-P---2P-AA---</AM>
+<AM lemma="hodit-1" src="manual" selected="1">VB-P---2P-AAP--</AM>
+</tag>
 </m>
 <m id="m-ln94201-108-p40s8w17">
 <src.rf>manual</src.rf>
@@ -16692,7 +16698,10 @@
 <LM>w#w-ln94201-108-p68s7w3</LM>
 </w.rf>
 <form>hodili</form>
-<tag lemma="hodit" src="orig" selected="1">VpMP----R-AA---</tag>
+<tag>
+<AM lemma="hodit" src="orig">VpMP----R-AA---</AM>
+<AM lemma="hodit-1" src="manual" selected="1">VpMP----R-AAP--</AM>
+</tag>
 </m>
 <m id="m-ln94201-108-p68s7w4">
 <src.rf>manual</src.rf>
@@ -19598,7 +19607,10 @@
 <LM>w#w-ln94201-108-p80s11w7</LM>
 </w.rf>
 <form>hodím</form>
-<tag lemma="hodit" src="orig" selected="1">VB-S---1P-AA---</tag>
+<tag>
+<AM lemma="hodit" src="orig">VB-S---1P-AA---</AM>
+<AM lemma="hodit-1" src="manual" selected="1">VB-S---1P-AAP--</AM>
+</tag>
 </m>
 <m id="m-ln94201-108-p80s11w8">
 <src.rf>manual</src.rf>
@@ -21425,7 +21437,10 @@
 <LM>w#w-ln94201-108-p84s11w16</LM>
 </w.rf>
 <form>hoděj</form>
-<tag lemma="hodit" src="orig" selected="1">VB-P---3P-AA--6</tag>
+<tag>
+<AM lemma="hodit" src="orig">VB-P---3P-AA--6</AM>
+<AM lemma="hodit-1" src="manual" selected="1">VB-P---3P-AAP-6</AM>
+</tag>
 </m>
 <m id="m-ln94201-108-p84s11w17">
 <src.rf>manual</src.rf>

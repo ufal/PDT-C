@@ -2345,7 +2345,10 @@
 <LM>w#w-d1t465-36</LM>
 </w.rf>
 <form>hodilo</form>
-<tag lemma="hodit" src="auto" recommended="1">VpNS----R-AA---</tag>
+<tag>
+<AM lemma="hodit" src="auto" recommended="1">VpNS----R-AA---</AM>
+<AM lemma="hodit-2_^(bude_se_hodit)" src="manual" selected="1">VpNS----R-AAI--</AM>
+</tag>
 </m>
 <m id="m131-d1t465-37">
 <w.rf>

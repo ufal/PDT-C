@@ -2606,7 +2606,10 @@
 <LM>w#w-d1t2189-1</LM>
 </w.rf>
 <form>Hodila</form>
-<tag lemma="hodit" src="auto" recommended="1">VpQW----R-AA---</tag>
+<tag>
+<AM lemma="hodit" src="auto" recommended="1">VpQW----R-AA---</AM>
+<AM lemma="hodit-1" src="manual" selected="1">VpQW----R-AAP--</AM>
+</tag>
 </m>
 <m id="m013-d1t2189-2">
 <w.rf>
@@ -2649,7 +2652,10 @@
 <LM>w#w-d1t2194-1</LM>
 </w.rf>
 <form>Hodila</form>
-<tag lemma="hodit" src="auto" recommended="1">VpQW----R-AA---</tag>
+<tag>
+<AM lemma="hodit" src="auto" recommended="1">VpQW----R-AA---</AM>
+<AM lemma="hodit-1" src="manual" selected="1">VpQW----R-AAP--</AM>
+</tag>
 </m>
 <m id="m013-d1t2194-2">
 <w.rf>

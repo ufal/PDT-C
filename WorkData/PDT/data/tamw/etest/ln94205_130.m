@@ -1296,7 +1296,10 @@
 <LM>w#w-ln94205-130-p3s3w1</LM>
 </w.rf>
 <form>Hodí</form>
-<tag lemma="hodit" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="hodit" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="hodit-1" src="manual" selected="1">VB-S---3P-AAP--</AM>
+</tag>
 </m>
 <m id="m-ln94205-130-p3s3w2">
 <src.rf>manual</src.rf>

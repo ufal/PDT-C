@@ -3412,7 +3412,10 @@
 <LM>w#w-d1t3730-3</LM>
 </w.rf>
 <form>hodili</form>
-<tag lemma="hodit" src="auto" recommended="1">VpMP----R-AA---</tag>
+<tag>
+<AM lemma="hodit" src="auto" recommended="1">VpMP----R-AA---</AM>
+<AM lemma="hodit-1" src="manual" selected="1">VpMP----R-AAP--</AM>
+</tag>
 </m>
 <m id="m061-d1t3730-4">
 <w.rf>
@@ -3949,23 +3952,23 @@
 <LM>w#w-1049-1052</LM>
 </w.rf>
 <form>.</form>
-<tag>
-<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-</m><m id="m061-1049-1052-sw1">
+<tag lemma="." src="auto" recommended="1">Z:-------------</tag>
+</m>
+<m id="m061-1049-1052-sw1">
 <w.rf>
 <LM>w#w-1049-1052</LM>
 </w.rf>
 <form>.</form>
-<tag>
-<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-</m><m id="m061-1049-1052-sw2">
+<tag lemma="." src="auto" recommended="1">Z:-------------</tag>
+</m>
+<m id="m061-1049-1052-sw2">
 <w.rf>
 <LM>w#w-1049-1052</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>.</form>
-<tag>
-<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="." src="auto" recommended="1">Z:-------------</tag>
+</m>
 </s>
 <s id="m061-1051">
 <m id="m061-d1t3761-1">

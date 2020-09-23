@@ -3545,6 +3545,7 @@
 <tag>
 <AM lemma="hodit_:T_:W" src="auto">VB-P---3P-AA---</AM>
 <AM lemma="hodit" src="auto" recommended="1">VB-S---3P-AA---</AM>
+<AM lemma="hodit-2_^(bude_se_hodit)" src="manual" selected="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m109-d1t389-2">

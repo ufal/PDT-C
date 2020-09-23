@@ -6836,7 +6836,8 @@
 <form>Good</form>
 <tag>
 <AM lemma="good_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="good-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="good-77" src="manual">F%-------------</AM>
+<AM lemma="Good-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-051-p4s17w2">

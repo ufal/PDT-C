@@ -540,7 +540,10 @@
 <LM>w#w-lnd92259-078-p4s1w12</LM>
 </w.rf>
 <form>hodí</form>
-<tag lemma="hodit" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag>
+<AM lemma="hodit" src="orig">VB-P---3P-AA---</AM>
+<AM lemma="hodit-2_^(bude_se_hodit)" src="manual" selected="1">VB-P---3P-AAI--</AM>
+</tag>
 </m>
 <m id="m-lnd92259-078-p4s1w13">
 <src.rf>manual</src.rf>

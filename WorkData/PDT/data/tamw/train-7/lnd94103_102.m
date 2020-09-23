@@ -2554,7 +2554,10 @@
 <LM>w#w-lnd94103-102-p1s18w16</LM>
 </w.rf>
 <form>hodila</form>
-<tag lemma="hodit" src="orig" selected="1">VpQW----R-AA---</tag>
+<tag>
+<AM lemma="hodit" src="orig">VpQW----R-AA---</AM>
+<AM lemma="hodit-2_^(bude_se_hodit)" src="manual" selected="1">VpQW----R-AAI--</AM>
+</tag>
 </m>
 <m id="m-lnd94103-102-p1s18w17">
 <src.rf>manual</src.rf>

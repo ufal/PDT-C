@@ -9805,10 +9805,10 @@
 </w.rf>
 <form>Nintendo</form>
 <tag>
-<AM lemma="Nintendo_;m" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="Nintendo_;m" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
 <AM lemma="Nintendo_;m" src="auto">NNNS4-----A----</AM>
 <AM lemma="Nintendo_;m" src="auto">NNNS5-----A----</AM>
-<AM lemma="Nintendo-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Nintendo-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1193-001-p1s38W15-Ta">
@@ -9829,7 +9829,8 @@
 <AM lemma="game_,t_^(hra)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="game_,t_^(hra)" src="auto">NNIS4-----A----</AM>
 <AM lemma="game_,t_^(hra)" src="auto">NNIS5-----A----</AM>
-<AM lemma="game-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="game-77" src="manual">F%-------------</AM>
+<AM lemma="Game-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1193-001-p1s38W17-Ta">

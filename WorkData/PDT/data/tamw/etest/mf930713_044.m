@@ -9630,7 +9630,10 @@
 <LM>w#w-mf930713-044-p23s4w30</LM>
 </w.rf>
 <form>hodím</form>
-<tag lemma="hodit" src="orig" selected="1">VB-S---1P-AA---</tag>
+<tag>
+<AM lemma="hodit" src="orig">VB-S---1P-AA---</AM>
+<AM lemma="hodit-1" src="manual" selected="1">VB-S---1P-AAP--</AM>
+</tag>
 </m>
 <m id="m-mf930713-044-p23s4w31">
 <src.rf>manual</src.rf>

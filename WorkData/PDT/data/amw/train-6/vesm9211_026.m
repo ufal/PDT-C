@@ -2325,7 +2325,10 @@
 <LM>w#w-vesm9211-026-p4s4w14</LM>
 </w.rf>
 <form>hodí</form>
-<tag lemma="hodit" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="hodit" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="hodit-1" src="manual" selected="1">VB-S---3P-AAP--</AM>
+</tag>
 </m>
 <m id="m-vesm9211-026-p4s4w15">
 <src.rf>manual</src.rf>

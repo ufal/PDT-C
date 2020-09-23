@@ -70,7 +70,10 @@
 <LM>w#w-ln95045-026-p1s1w7</LM>
 </w.rf>
 <form>hodil</form>
-<tag lemma="hodit" src="orig" selected="1">VpYS----R-AA---</tag>
+<tag>
+<AM lemma="hodit" src="orig">VpYS----R-AA---</AM>
+<AM lemma="hodit-2_^(bude_se_hodit)" src="manual" selected="1">VpYS----R-AAI--</AM>
+</tag>
 </m>
 </s>
 <s id="m-ln95045-026-p2s1A">

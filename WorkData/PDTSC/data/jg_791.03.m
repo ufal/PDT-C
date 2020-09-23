@@ -4087,7 +4087,10 @@
 <LM>w#w-d1t859-6</LM>
 </w.rf>
 <form>hodil</form>
-<tag lemma="hodit" src="auto" recommended="1">VpYS----R-AA---</tag>
+<tag>
+<AM lemma="hodit" src="auto" recommended="1">VpYS----R-AA---</AM>
+<AM lemma="hodit-1" src="manual" selected="1">VpYS----R-AAP--</AM>
+</tag>
 </m>
 <m id="m791-d1t859-7">
 <w.rf>

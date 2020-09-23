@@ -665,7 +665,10 @@
 <LM>w#w-ln94200-156-p2s3w1</LM>
 </w.rf>
 <form>Hodil</form>
-<tag lemma="hodit" src="orig" selected="1">VpYS----R-AA---</tag>
+<tag>
+<AM lemma="hodit" src="orig">VpYS----R-AA---</AM>
+<AM lemma="hodit-1" src="manual" selected="1">VpYS----R-AAP--</AM>
+</tag>
 </m>
 <m id="m-ln94200-156-p2s3w2">
 <src.rf>manual</src.rf>

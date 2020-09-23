@@ -3613,7 +3613,10 @@
 <LM>w#w-d1t894-1</LM>
 </w.rf>
 <form>hodila</form>
-<tag lemma="hodit" src="auto" recommended="1">VpQW----R-AA---</tag>
+<tag>
+<AM lemma="hodit" src="auto" recommended="1">VpQW----R-AA---</AM>
+<AM lemma="hodit-1" src="manual" selected="1">VpQW----R-AAP--</AM>
+</tag>
 </m>
 <m id="m129-d1t894-3">
 <w.rf>

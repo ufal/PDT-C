@@ -4745,7 +4745,10 @@
 <LM>w#w-d1t1923-5</LM>
 </w.rf>
 <form>hodit</form>
-<tag lemma="hodit" src="auto" recommended="1">Vf--------A----</tag>
+<tag>
+<AM lemma="hodit" src="auto" recommended="1">Vf--------A----</AM>
+<AM lemma="hodit-2_^(bude_se_hodit)" src="manual" selected="1">Vf--------A-I--</AM>
+</tag>
 </m>
 <m id="m001-d1t1921-9">
 <w.rf>

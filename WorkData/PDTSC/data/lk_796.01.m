@@ -5000,7 +5000,10 @@
 <LM>w#w-id59707-12</LM>
 </w.rf>
 <form>hodilo</form>
-<tag lemma="hodit" src="auto" recommended="1">VpNS----R-AA---</tag>
+<tag>
+<AM lemma="hodit" src="auto" recommended="1">VpNS----R-AA---</AM>
+<AM lemma="hodit-2_^(bude_se_hodit)" src="manual" selected="1">VpNS----R-AAI--</AM>
+</tag>
 </m>
 <m id="m796-id59354-x16-2838">
 <w.rf>

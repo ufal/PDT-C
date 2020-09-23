@@ -1737,7 +1737,10 @@
 <LM>w#w-mf930702-125-p6s1w13</LM>
 </w.rf>
 <form>hodili</form>
-<tag lemma="hodit" src="orig" selected="1">VpMP----R-AA---</tag>
+<tag>
+<AM lemma="hodit" src="orig">VpMP----R-AA---</AM>
+<AM lemma="hodit-1" src="manual" selected="1">VpMP----R-AAP--</AM>
+</tag>
 </m>
 <m id="m-mf930702-125-p6s1w14">
 <src.rf>manual</src.rf>

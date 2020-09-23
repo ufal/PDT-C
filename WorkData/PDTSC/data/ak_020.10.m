@@ -5048,7 +5048,10 @@
 <LM>w#w-d1t2458-13</LM>
 </w.rf>
 <form>hodit</form>
-<tag lemma="hodit" src="auto" recommended="1">Vf--------A----</tag>
+<tag>
+<AM lemma="hodit" src="auto" recommended="1">Vf--------A----</AM>
+<AM lemma="hodit-1" src="manual" selected="1">Vf--------A-P--</AM>
+</tag>
 </m>
 <m id="m020-d1e2453-x2-464">
 <w.rf>

@@ -5885,7 +5885,11 @@
 <LM>w#w-cmpr9415-026-p15s5w10</LM>
 </w.rf>
 <form>hodit</form>
-<tag lemma="hodit" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="hodit" src="orig">Vf--------A----</AM>
+<AM lemma="hodit" src="manual">Vf--------A-I--</AM>
+<AM lemma="hodit-2_^(bude_se_hodit)" src="manual" selected="1">Vf--------A-I--</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-026-p15s5w11">
 <src.rf>manual</src.rf>

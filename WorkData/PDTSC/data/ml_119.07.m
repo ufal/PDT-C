@@ -1608,7 +1608,10 @@
 <LM>w#w-d1t1495-22</LM>
 </w.rf>
 <form>hodit</form>
-<tag lemma="hodit" src="auto" recommended="1">Vf--------A----</tag>
+<tag>
+<AM lemma="hodit" src="auto" recommended="1">Vf--------A----</AM>
+<AM lemma="hodit-1" src="manual" selected="1">Vf--------A-P--</AM>
+</tag>
 </m>
 <m id="m119-d1t1495-23">
 <w.rf>
@@ -3498,7 +3501,7 @@
 <tag lemma="?" src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m119-811"/>
+<s id="m119-811"></s>
 <s id="m119-417">
 <m id="m119-d1t1590-5">
 <w.rf>

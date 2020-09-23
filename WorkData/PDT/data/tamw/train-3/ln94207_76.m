@@ -13647,7 +13647,10 @@
 <LM>w#w-ln94207-76-p9s11w28</LM>
 </w.rf>
 <form>hodí</form>
-<tag lemma="hodit" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag>
+<AM lemma="hodit" src="orig">VB-P---3P-AA---</AM>
+<AM lemma="hodit-1" src="manual" selected="1">VB-P---3P-AAP--</AM>
+</tag>
 </m>
 <m id="m-ln94207-76-p9s11w29">
 <src.rf>manual</src.rf>

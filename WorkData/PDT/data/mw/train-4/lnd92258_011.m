@@ -95,7 +95,10 @@
 <LM>w#w-lnd92258-011-p3s1w3</LM>
 </w.rf>
 <form>ge</form>
-<tag lemma="ge-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag>
+<AM lemma="ge-99_;Y" src="orig">NNXXX-----A---b</AM>
+<AM lemma="ge-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92258-011-p3s1w4">
 <src.rf>manual</src.rf>

@@ -2728,7 +2728,10 @@
 <LM>w#w-d1t1687-1</LM>
 </w.rf>
 <form>Hodila</form>
-<tag lemma="hodit" src="auto" recommended="1">VpQW----R-AA---</tag>
+<tag>
+<AM lemma="hodit" src="auto" recommended="1">VpQW----R-AA---</AM>
+<AM lemma="hodit-2_^(bude_se_hodit)" src="manual" selected="1">VpQW----R-AAI--</AM>
+</tag>
 </m>
 <m id="m138-d1t1689-1">
 <w.rf>

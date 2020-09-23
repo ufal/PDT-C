@@ -123,7 +123,10 @@
 <LM>w#w-ln94206-139-p2s1Aw3</LM>
 </w.rf>
 <form>gag</form>
-<tag lemma="gag-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag>
+<AM lemma="gag-99_;Y" src="orig">NNXXX-----A---b</AM>
+<AM lemma="gag-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-139-p2s1Aw4">
 <src.rf>manual</src.rf>

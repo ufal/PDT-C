@@ -2954,7 +2954,10 @@
 <LM>w#w-lnd91301-085-p7s4w10</LM>
 </w.rf>
 <form>G</form>
-<tag lemma="G-0_;Y" src="orig" selected="1">NNMXX-----A---b</tag>
+<tag>
+<AM lemma="G-0_;Y" src="orig">NNMXX-----A---b</AM>
+<AM lemma="G-33" src="manual" selected="1">Q3-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91301-085-p7s4w11">
 <src.rf>manual</src.rf>
@@ -3018,7 +3021,10 @@
 <LM>w#w-lnd91301-085-p7s4w18</LM>
 </w.rf>
 <form>Mnichov</form>
-<tag lemma="Mnichov_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Mnichov_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Mnichov_;G" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91301-085-p7s4w19">
 <src.rf>manual</src.rf>

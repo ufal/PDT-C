@@ -2860,7 +2860,8 @@
 <AM lemma="Tutt_;Y" src="auto">NNMP5-----A---1</AM>
 <AM lemma="tutti-1_,t" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="tutti-2_,t_^(tutti-frutti)" src="auto">A2--------A----</AM>
-<AM lemma="tutti-2_^(tutti-frutti)" src="manual" selected="1">S2--------A----</AM>
+<AM lemma="tutti-2_^(tutti-frutti)" src="manual">S2--------A----</AM>
+<AM lemma="Tutti-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf920923-102-p85s1w3">
@@ -2871,7 +2872,8 @@
 <form>Frutti</form>
 <tag>
 <AM lemma="frutti_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="frutti-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="frutti-77" src="manual">F%-------------</AM>
+<AM lemma="Frutti-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf920923-102-p85s1w4">

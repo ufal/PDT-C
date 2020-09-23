@@ -4993,7 +4993,10 @@
 <LM>w#w-vesm9301-030-p7s5w17</LM>
 </w.rf>
 <form>fosforyluje</form>
-<tag lemma="fosforylovat" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="fosforylovat" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="fosforylovat" src="manual" selected="1">VB-S---3P-AAI--</AM>
+</tag>
 </m>
 <m id="m-vesm9301-030-p7s5w18">
 <src.rf>manual</src.rf>

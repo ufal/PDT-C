@@ -722,7 +722,7 @@
 <AM lemma="pohostinný" src="auto">AAMP1----1A---6</AM>
 <AM lemma="pohostinný" src="auto">AAMP4----1A---6</AM>
 <AM lemma="pohostinný" src="auto">AAMP5----1A---6</AM>
-<AM lemma="pohostinný" selected="1" src="auto">AAMS1----1A----</AM>
+<AM lemma="pohostinný" src="auto" selected="1">AAMS1----1A----</AM>
 <AM lemma="pohostinný" src="auto">AAMS5----1A----</AM>
 <AM lemma="pohostinný" src="auto">AANP1----1A---6</AM>
 <AM lemma="pohostinný" src="auto">AANP4----1A---6</AM>
@@ -5214,7 +5214,10 @@
 <LM>w#w-id64643-24</LM>
 </w.rf>
 <form>hodit</form>
-<tag lemma="hodit" src="auto" recommended="1">Vf--------A----</tag>
+<tag>
+<AM lemma="hodit" src="auto" recommended="1">Vf--------A----</AM>
+<AM lemma="hodit-2_^(bude_se_hodit)" src="manual" selected="1">Vf--------A-I--</AM>
+</tag>
 </m>
 <m id="m973-d-id113274">
 <w.rf>

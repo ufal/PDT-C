@@ -747,7 +747,8 @@
 <tag>
 <AM lemma="doktor_:B_^(doktor,_akad._titul)" src="orig">NNMXX-----A---8</AM>
 <AM lemma="Dr_:B_^(doktor)" src="manual">NNXXX-----A----</AM>
-<AM lemma="Dr-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Dr-77" src="manual">F%-------------</AM>
+<AM lemma="Dr_^(doktor,_akad._titul)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-026-p2s6w13">
@@ -765,8 +766,8 @@
 </w.rf>
 <form>Heavy</form>
 <tag>
-<AM lemma="Heavy_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Heavy-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Heavy_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Heavy-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf920901-026-p2s6w15">
@@ -804,7 +805,8 @@
 <form>Hard</form>
 <tag>
 <AM lemma="Harda_;G" src="orig">NNFP2-----A----</AM>
-<AM lemma="hard-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="hard-77" src="manual">F%-------------</AM>
+<AM lemma="Hard-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf920901-026-p2s6w19">

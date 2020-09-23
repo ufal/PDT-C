@@ -7686,7 +7686,10 @@
 <LM>w#w-vesm9211-015-p7s6w11</LM>
 </w.rf>
 <form>hodit</form>
-<tag lemma="hodit" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="hodit" src="orig">Vf--------A----</AM>
+<AM lemma="hodit-2_^(bude_se_hodit)" src="manual" selected="1">Vf--------A-I--</AM>
+</tag>
 </m>
 <m id="m-vesm9211-015-p7s6w12">
 <src.rf>manual</src.rf>

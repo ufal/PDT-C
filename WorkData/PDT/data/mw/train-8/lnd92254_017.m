@@ -399,7 +399,10 @@
 <LM>w#w-lnd92254-017-p3s3w13</LM>
 </w.rf>
 <form>Hehvizdské</form>
-<tag lemma="Hehvizdský_;G" src="orig" selected="1">AAFS6----1A----</tag>
+<tag>
+<AM lemma="Hehvizdský_;G" src="orig">AAFS6----1A----</AM>
+<AM lemma="hehvizdský" src="manual" selected="1">AAFS6----1A----</AM>
+</tag>
 </m>
 <m id="m-lnd92254-017-p3s3w14">
 <src.rf>manual</src.rf>

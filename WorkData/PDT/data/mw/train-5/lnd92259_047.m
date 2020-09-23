@@ -883,7 +883,10 @@
 <LM>w#w-lnd92259-047-p3s6w7</LM>
 </w.rf>
 <form>hodila</form>
-<tag lemma="hodit" src="orig" selected="1">VpQW----R-AA---</tag>
+<tag>
+<AM lemma="hodit" src="orig">VpQW----R-AA---</AM>
+<AM lemma="hodit-2_^(bude_se_hodit)" src="manual" selected="1">VpQW----R-AAI--</AM>
+</tag>
 </m>
 <m id="m-lnd92259-047-p3s6w8">
 <src.rf>manual</src.rf>

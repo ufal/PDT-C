@@ -426,7 +426,8 @@
 <form>Hewlett</form>
 <tag>
 <AM lemma="Hewlett-2_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Hewlett-1_;m_^(Hewlett-Packard)" src="manual" selected="1">S2--------A----</AM>
+<AM lemma="Hewlett-1_;m_^(Hewlett-Packard)" src="manual">S2--------A----</AM>
+<AM lemma="Hewlett-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95047-123-p3s1w5">
@@ -443,7 +444,10 @@
 <LM>w#w-ln95047-123-p3s1w6</LM>
 </w.rf>
 <form>Packard</form>
-<tag lemma="Packard-1_;m" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Packard-1_;m" src="auto">NNIS1-----A----</AM>
+<AM lemma="Packard-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-123-p3s1w7">
 <src.rf>manual</src.rf>
