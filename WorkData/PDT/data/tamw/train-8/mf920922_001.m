@@ -189,7 +189,10 @@
 <LM>w#w-mf920922-001-p1s2w18</LM>
 </w.rf>
 <form>Horní</form>
-<tag lemma="Horní_;G" src="orig" selected="1">AAFP1----1A----</tag>
+<tag>
+<AM lemma="Horní_;G" src="orig">AAFP1----1A----</AM>
+<AM lemma="horní-1_^(vrchní)" src="manual" selected="1">AAFP1----1A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-001-p1s2w19">
 <src.rf>manual</src.rf>

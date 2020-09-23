@@ -11172,7 +11172,8 @@
 <AM lemma="on-1" src="auto">P5FS4--3------6</AM>
 <AM lemma="on-1" src="auto" recommended="1">P5FS6--3-------</AM>
 <AM lemma="on-1" src="auto">P5FS7--3-------</AM>
-<AM lemma="ní_,i_(12%-ní)" src="manual" selected="1">AAIS4----1A----</AM>
+<AM lemma="ní_,i_(12%-ní)" src="manual">AAIS4----1A----</AM>
+<AM lemma="ní_,i_^(12%-ní)" src="manual" selected="1">SAIS4----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0109-001-p1s40W24-Ta">
@@ -11261,7 +11262,8 @@
 <AM lemma="on-1" src="auto">P5FS4--3------6</AM>
 <AM lemma="on-1" src="auto" recommended="1">P5FS6--3-------</AM>
 <AM lemma="on-1" src="auto">P5FS7--3-------</AM>
-<AM lemma="ní_,i_(12%-ní)" src="manual" selected="1">AANS4----1A----</AM>
+<AM lemma="ní_,i_(12%-ní)" src="manual">AANS4----1A----</AM>
+<AM lemma="ní_,i_^(12%-ní)" src="manual" selected="1">SANS4----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0109-001-p1s40W32-Ta">

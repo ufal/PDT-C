@@ -7712,7 +7712,8 @@
 <form>přeloděni</form>
 <tag>
 <AM lemma="přeloděni" src="auto">X@-------------</AM>
-<AM lemma="přelodit" src="manual" selected="1">VsMP----X-AP---</AM>
+<AM lemma="přelodit" src="manual">VsMP----X-AP---</AM>
+<AM lemma="přelodit" src="manual" selected="1">VsMP----X-APP--</AM>
 </tag>
 </m>
 <m id="m913-d1e757-x4-6649">
@@ -7745,7 +7746,8 @@
 <form>přeloděni</form>
 <tag>
 <AM lemma="přeloděni" src="auto">X@-------------</AM>
-<AM lemma="přelodit" src="manual" selected="1">VsMP----X-AP---</AM>
+<AM lemma="přelodit" src="manual">VsMP----X-AP---</AM>
+<AM lemma="přelodit" src="manual" selected="1">VsMP----X-APP--</AM>
 </tag>
 </m>
 <m id="m913-6650-3913">

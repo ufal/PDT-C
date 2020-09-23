@@ -15472,8 +15472,8 @@
 </w.rf>
 <form>Kúúl</form>
 <tag>
-<AM lemma="kúúl" src="orig">II-------------</AM>
-<AM lemma="kúúl_,i_^(^DS**cool)" src="manual" selected="1">F%-------------</AM>
+<AM lemma="kúúl" src="orig" selected="1">II-------------</AM>
+<AM lemma="kúúl_,i_^(^DS**cool)" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-102-p26s1w3">

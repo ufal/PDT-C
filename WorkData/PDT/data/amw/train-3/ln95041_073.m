@@ -95,7 +95,10 @@
 <LM>w#w-ln95041-073-p2s1Bw5</LM>
 </w.rf>
 <form>přepadli</form>
-<tag lemma="přepadnout" src="auto" selected="1">VpMP----R-AA---</tag>
+<tag>
+<AM lemma="přepadnout" src="auto">VpMP----R-AA---</AM>
+<AM lemma="přepadnout" src="manual" selected="1">VpMP----R-AAP-1</AM>
+</tag>
 </m>
 <m id="m-ln95041-073-p2s1Bw6">
 <src.rf>manual</src.rf>

@@ -398,7 +398,10 @@
 <LM>w#w-ln94203-86-p2s2w8</LM>
 </w.rf>
 <form>přílepovském</form>
-<tag lemma="přílepovský_;G" src="orig" selected="1">AAIS6----1A----</tag>
+<tag>
+<AM lemma="přílepovský_;G" src="orig">AAIS6----1A----</AM>
+<AM lemma="přílepovský" src="manual" selected="1">AAIS6----1A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-86-p2s2w9">
 <src.rf>manual</src.rf>

@@ -2039,6 +2039,7 @@
 <tag>
 <AM lemma="ohlásit" src="auto" recommended="1">Vi-P---2--A----</AM>
 <AM lemma="ohlásit" src="auto">Vi-P---3--A---4</AM>
+<AM lemma="ohlásit" src="manual" selected="1">Vi-P---2--A-P-1</AM>
 </tag>
 </m>
 <m id="m138-d1t3424-1">

@@ -6892,7 +6892,8 @@
 <form>IN</form>
 <tag>
 <AM lemma="in-1_,t_^(angl._v)" src="orig">RR--X----------</AM>
-<AM lemma="in-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="in-77" src="manual">F%-------------</AM>
+<AM lemma="In-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-040-p30s1w32">
@@ -7080,7 +7081,8 @@
 <form>Services</form>
 <tag>
 <AM lemma="Service_;m_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Service-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Service-77" src="manual">F%-------------</AM>
+<AM lemma="Services-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-040-p30s3w11">

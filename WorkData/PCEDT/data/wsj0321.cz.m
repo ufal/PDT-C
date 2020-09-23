@@ -1328,7 +1328,8 @@
 <form>ních</form>
 <tag>
 <AM lemma="ních" src="auto">X@-------------</AM>
-<AM lemma="ní_,i_(12%-ní)" src="manual" selected="1">AAFP2----1A----</AM>
+<AM lemma="ní_,i_(12%-ní)" src="manual">AAFP2----1A----</AM>
+<AM lemma="ní_,i_^(12%-ní)" src="manual" selected="1">SAFP2----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0321-001-p1s3W25-Ta">

@@ -3074,7 +3074,10 @@
 <LM>w#w-ln94207-90-p4s8w12</LM>
 </w.rf>
 <form>přivrhnouti</form>
-<tag lemma="přivrhnout_,a" src="orig" selected="1">Vf--------A---2</tag>
+<tag>
+<AM lemma="přivrhnout_,a" src="orig">Vf--------A---2</AM>
+<AM lemma="přivrhnout_,a" src="manual" selected="1">Vf--------A-P-2</AM>
+</tag>
 </m>
 <m id="m-ln94207-90-p4s8w13">
 <src.rf>manual</src.rf>
@@ -3580,7 +3583,10 @@
 <LM>w#w-ln94207-90-p4s9w25</LM>
 </w.rf>
 <form>předčijí</form>
-<tag lemma="předčít" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag>
+<AM lemma="předčít" src="orig">VB-P---3P-AA---</AM>
+<AM lemma="předčit" src="manual" selected="1">VB-P---3P-AAP-6</AM>
+</tag>
 </m>
 <m id="m-ln94207-90-p4s9w26">
 <src.rf>manual</src.rf>
@@ -4195,7 +4201,10 @@
 <LM>w#w-ln94207-90-p4s9w98</LM>
 </w.rf>
 <form>proukázati</form>
-<tag lemma="proukázat_,a" src="orig" selected="1">Vf--------A---2</tag>
+<tag>
+<AM lemma="proukázat_,a" src="orig">Vf--------A---2</AM>
+<AM lemma="proukázat_,a" src="manual" selected="1">Vf--------A-P-2</AM>
+</tag>
 </m>
 <m id="m-ln94207-90-p4s9w99">
 <src.rf>manual</src.rf>
@@ -6551,7 +6560,10 @@
 <LM>w#w-ln94207-90-p6s5w30</LM>
 </w.rf>
 <form>neokázala</form>
-<tag lemma="okázat" src="orig" selected="1">VpQW----R-NA---</tag>
+<tag>
+<AM lemma="okázat" src="orig">VpQW----R-NA---</AM>
+<AM lemma="okázat" src="manual" selected="1">VpQW----R-NAP--</AM>
+</tag>
 </m>
 <m id="m-ln94207-90-p6s5w31">
 <src.rf>manual</src.rf>

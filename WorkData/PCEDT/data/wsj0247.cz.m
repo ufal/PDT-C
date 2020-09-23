@@ -6147,7 +6147,10 @@
 <LM>w#w-wsj0247-001-p1s15W2</LM>
 </w.rf>
 <form>Mediobanca</form>
-<tag lemma="Mediobanca_;m" src="auto" recommended="1">XX-------------</tag>
+<tag>
+<AM lemma="Mediobanca_;m" src="auto" recommended="1">XX-------------</AM>
+<AM lemma="Mediobanca_;m" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0247-001-p1s15W3-Ta">
 <src.rf>tagger-a</src.rf>

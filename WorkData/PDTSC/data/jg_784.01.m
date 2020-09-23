@@ -353,7 +353,10 @@
 <LM>w#w-d1t405-17</LM>
 </w.rf>
 <form>nehodilo</form>
-<tag lemma="hodit" src="auto" recommended="1">VpNS----R-NA---</tag>
+<tag>
+<AM lemma="hodit" src="auto" recommended="1">VpNS----R-NA---</AM>
+<AM lemma="hodit-2_^(bude_se_hodit)" src="manual" selected="1">VpNS----R-NAI--</AM>
+</tag>
 </m>
 <m id="m784-d-id67577">
 <w.rf>

@@ -760,7 +760,10 @@
 <LM>w#w-ln94200-37-p3s1w12</LM>
 </w.rf>
 <form>Pepsi</form>
-<tag lemma="Pepsi_;m" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Pepsi_;m" src="orig">AAXXX----1A----</AM>
+<AM lemma="Pepsi-2_;m" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-37-p3s1w13">
 <src.rf>manual</src.rf>
@@ -1332,7 +1335,11 @@
 <LM>w#w-ln94200-37-p3s3w25</LM>
 </w.rf>
 <form>Pepsi</form>
-<tag lemma="Pepsi_;m" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Pepsi_;m" src="orig">AAXXX----1A----</AM>
+<AM lemma="Pepsi-3" src="manual">AAXXX----1A----</AM>
+<AM lemma="pepsi-1" src="manual" selected="1">AAXXX----1A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-37-p3s3w26">
 <src.rf>manual</src.rf>

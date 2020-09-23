@@ -2309,9 +2309,9 @@
 </w.rf>
 <form>Le</form>
 <tag>
-<AM lemma="Le-77" src="auto">F%-------------</AM>
+<AM lemma="Le-77" src="auto" selected="1">F%-------------</AM>
 <AM lemma="le-77_,t" src="auto" recommended="1">F%-------------</AM>
-<AM lemma="le-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="le-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="a_tree-cs-s15-n266">
@@ -2323,7 +2323,8 @@
 <AM lemma="Havre_;G_^(Le_Havre)" src="auto">NNIS1-----A----</AM>
 <AM lemma="Havre_;G_^(Le_Havre)" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="Havre_;G_^(Le_Havre)" src="auto">NNIS5-----A----</AM>
-<AM lemma="Havre_;G_^(Le_Havre)" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="Havre_;G_^(Le_Havre)" src="manual">NNIXX-----A----</AM>
+<AM lemma="Havre-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="a_tree-cs-s15-n267">

@@ -3935,7 +3935,8 @@
 <tag>
 <AM lemma="hrát_,a_,x" src="auto" recommended="1">Vi-S---2--A----</AM>
 <AM lemma="hrát_,a_,x" src="auto">Vi-S---3--A---4</AM>
-<AM lemma="hrát" src="manual" selected="1">Vi-S---2--A----</AM>
+<AM lemma="hrát" src="manual">Vi-S---2--A----</AM>
+<AM lemma="hrát" src="manual" selected="1">Vi-S---2--A-I-1</AM>
 </tag>
 </m>
 <m id="m791-d1t391-8">

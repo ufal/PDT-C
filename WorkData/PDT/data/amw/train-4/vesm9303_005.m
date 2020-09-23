@@ -117,7 +117,10 @@
 <LM>w#w-vesm9303-005-p2s1w9</LM>
 </w.rf>
 <form>nespadají</form>
-<tag lemma="spadat" src="orig" selected="1">VB-P---3P-NA---</tag>
+<tag>
+<AM lemma="spadat" src="orig">VB-P---3P-NA---</AM>
+<AM lemma="spadat-1_^(do_kategorie)" src="manual" selected="1">VB-P---3P-NAI--</AM>
+</tag>
 </m>
 <m id="m-vesm9303-005-p2s1w10">
 <src.rf>manual</src.rf>

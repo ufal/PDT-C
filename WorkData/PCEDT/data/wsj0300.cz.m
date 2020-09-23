@@ -10621,7 +10621,8 @@
 <form>nímu</form>
 <tag>
 <AM lemma="nímu" src="auto">X@-------------</AM>
-<AM lemma="ní_,i_(12%-ní)" src="manual" selected="1">AANS3----1A----</AM>
+<AM lemma="ní_,i_(12%-ní)" src="manual">AANS3----1A----</AM>
+<AM lemma="ní_,i_^(12%-ní)" src="manual" selected="1">SANS3----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0300-001-p1s40W40-Ta">

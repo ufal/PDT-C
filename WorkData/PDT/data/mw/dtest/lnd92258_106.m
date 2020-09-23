@@ -4003,7 +4003,10 @@
 <LM>w#w-lnd92258-106-p5s4w15</LM>
 </w.rf>
 <form>kup</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="orig" selected="1">Vi-S---2--A----</tag>
+<tag>
+<AM lemma="koupit_^(něco_sobě/někomu)" src="orig">Vi-S---2--A----</AM>
+<AM lemma="koupit" src="manual" selected="1">Vi-S---2--A-P--</AM>
+</tag>
 </m>
 <m id="m-lnd92258-106-p5s4w16">
 <src.rf>manual</src.rf>

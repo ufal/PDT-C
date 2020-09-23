@@ -3808,8 +3808,9 @@
 <form>neví</form>
 <tag>
 <AM lemma="vědět" src="orig">VB-P---3P-NA---</AM>
-<AM lemma="vědět" src="auto" selected="1">VB-P---3P-NA--6</AM>
+<AM lemma="vědět" src="auto">VB-P---3P-NA--6</AM>
 <AM lemma="vědět" src="auto" recommended="1">VB-S---3P-NAI--</AM>
+<AM lemma="vědět" src="manual" selected="1">VB-P---3P-NAI-7</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-024-p15s1w21">

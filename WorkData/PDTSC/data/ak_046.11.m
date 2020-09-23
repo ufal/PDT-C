@@ -1157,8 +1157,8 @@
 <form>Som</form>
 <tag>
 <AM lemma="Som" src="auto">X@-------------</AM>
-<AM lemma="Som-77" src="manual">F%-------------</AM>
-<AM lemma="som-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Som-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="som-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m046-d1t3016-5">

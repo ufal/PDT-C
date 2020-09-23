@@ -3447,7 +3447,10 @@
 <LM>w#w-mf930703-130-p1s23w9</LM>
 </w.rf>
 <form>Horním</form>
-<tag lemma="Horní_;G" src="orig" selected="1">AANS6----1A----</tag>
+<tag>
+<AM lemma="Horní_;G" src="orig">AANS6----1A----</AM>
+<AM lemma="horní-1_^(vrchní)" src="manual" selected="1">AANS6----1A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-130-p1s23w10">
 <src.rf>manual</src.rf>

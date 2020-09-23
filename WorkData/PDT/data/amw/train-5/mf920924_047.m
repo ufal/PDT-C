@@ -149,7 +149,8 @@
 <form>Records</form>
 <tag>
 <AM lemma="Record_;m_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Record-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Record-77" src="manual">F%-------------</AM>
+<AM lemma="Records-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf920924-047-p2s1w13">

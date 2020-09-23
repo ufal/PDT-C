@@ -585,7 +585,10 @@
 <LM>w#w-mf930709-113-p2s3w26</LM>
 </w.rf>
 <form>Horní</form>
-<tag lemma="Horní_;G" src="orig" selected="1">AAFS6----1A----</tag>
+<tag>
+<AM lemma="Horní_;G" src="orig">AAFS6----1A----</AM>
+<AM lemma="horní-1_^(vrchní)" src="manual" selected="1">AAFS6----1A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-113-p2s3w27">
 <src.rf>manual</src.rf>
@@ -3005,7 +3008,10 @@
 <LM>w#w-mf930709-113-p2s22w7</LM>
 </w.rf>
 <form>Horní</form>
-<tag lemma="Horní_;G" src="orig" selected="1">AAFS1----1A----</tag>
+<tag>
+<AM lemma="Horní_;G" src="orig">AAFS1----1A----</AM>
+<AM lemma="horní-1_^(vrchní)" src="manual" selected="1">AAFS1----1A----</AM>
+</tag>
 </m>
 <m id="m-mf930709-113-p2s22w8">
 <src.rf>manual</src.rf>

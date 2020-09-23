@@ -6187,7 +6187,10 @@
 <LM>w#w-d1t298-9</LM>
 </w.rf>
 <form>spadalo</form>
-<tag lemma="spadat" src="auto" recommended="1">VpNS----R-AA---</tag>
+<tag>
+<AM lemma="spadat" src="auto" recommended="1">VpNS----R-AA---</AM>
+<AM lemma="spadat-1_^(do_kategorie)" src="manual" selected="1">VpNS----R-AAI--</AM>
+</tag>
 </m>
 <m id="m916-d1t298-10">
 <w.rf>

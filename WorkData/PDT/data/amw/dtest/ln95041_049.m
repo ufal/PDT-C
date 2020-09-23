@@ -239,7 +239,10 @@
 <LM>w#w-ln95041-049-p2s2w8</LM>
 </w.rf>
 <form>paedagogika</form>
-<tag lemma="paedagogika_;m" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="paedagogika_;m" src="orig">AAXXX----1A----</AM>
+<AM lemma="paedagogika" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95041-049-p2s2w9">
 <src.rf>manual</src.rf>

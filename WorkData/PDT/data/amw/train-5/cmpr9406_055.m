@@ -5615,7 +5615,8 @@
 <form>Public</form>
 <tag>
 <AM lemma="Public_;m_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="public-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="public-77" src="manual">F%-------------</AM>
+<AM lemma="Public-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-055-p17s1w3">

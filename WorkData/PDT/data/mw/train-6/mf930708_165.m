@@ -492,10 +492,11 @@
 </w.rf>
 <form>Slov</form>
 <tag>
-<AM lemma="slovenský_;m" src="orig" selected="1">AAXXX----1A---b</AM>
+<AM lemma="slovenský_;m" src="orig">AAXXX----1A---b</AM>
 <AM lemma="slovit" src="auto">Vi-S---2--A-P--</AM>
 <AM lemma="slovit" src="auto">Vi-S---3--A-P-4</AM>
 <AM lemma="slovo" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="slovenský" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-mf930708-165-p14s1w2">
@@ -512,7 +513,10 @@
 <LM>w#w-mf930708-165-p14s1w3</LM>
 </w.rf>
 <form>št</form>
-<tag lemma="štátný" src="orig" selected="1">AAXXX----1A---b</tag>
+<tag>
+<AM lemma="štátný" src="orig">AAXXX----1A---b</AM>
+<AM lemma="št-88" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-165-p14s1w4">
 <src.rf>manual</src.rf>
@@ -528,7 +532,10 @@
 <LM>w#w-mf930708-165-p14s1w5</LM>
 </w.rf>
 <form>sporiteľna</form>
-<tag lemma="sporiteľna_;m" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="sporiteľna_;m" src="orig">NNFS1-----A----</AM>
+<AM lemma="sporiteľna" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-165-p14s1w6">
 <src.rf>manual</src.rf>
@@ -600,10 +607,11 @@
 </w.rf>
 <form>Slov</form>
 <tag>
-<AM lemma="slovenský_;m" src="orig" selected="1">AAXXX----1A---b</AM>
+<AM lemma="slovenský_;m" src="orig">AAXXX----1A---b</AM>
 <AM lemma="slovit" src="auto">Vi-S---2--A-P--</AM>
 <AM lemma="slovit" src="auto">Vi-S---3--A-P-4</AM>
 <AM lemma="slovo" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="slovenský" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-mf930708-165-p16s1w2">
@@ -620,7 +628,10 @@
 <LM>w#w-mf930708-165-p16s1w3</LM>
 </w.rf>
 <form>poľ</form>
-<tag lemma="poľnohospodárský_;m" src="orig" selected="1">AAXXX----1A---b</tag>
+<tag>
+<AM lemma="poľnohospodárský_;m" src="orig">AAXXX----1A---b</AM>
+<AM lemma="poľ-88" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-165-p16s1w4">
 <src.rf>manual</src.rf>

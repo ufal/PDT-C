@@ -3052,7 +3052,10 @@
 <LM>w#w-ln95048-067-p10s1w16</LM>
 </w.rf>
 <form>nechte</form>
-<tag lemma="nechat" src="orig" selected="1">Vi-P---2--A----</tag>
+<tag>
+<AM lemma="nechat" src="orig">Vi-P---2--A----</AM>
+<AM lemma="nechat" src="manual" selected="1">Vi-P---2--A-P-1</AM>
+</tag>
 </m>
 <m id="m-ln95048-067-p10s1w17">
 <src.rf>manual</src.rf>

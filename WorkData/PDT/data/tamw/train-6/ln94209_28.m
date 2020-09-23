@@ -2599,7 +2599,10 @@
 <LM>w#w-ln94209-28-p4s1w30</LM>
 </w.rf>
 <form>spadají</form>
-<tag lemma="spadat" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag>
+<AM lemma="spadat" src="orig">VB-P---3P-AA---</AM>
+<AM lemma="spadat-1_^(do_kategorie)" src="manual" selected="1">VB-P---3P-AAI--</AM>
+</tag>
 </m>
 <m id="m-ln94209-28-p4s1w31">
 <src.rf>manual</src.rf>

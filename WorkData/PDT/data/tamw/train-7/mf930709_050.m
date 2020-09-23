@@ -306,7 +306,10 @@
 <LM>w#w-mf930709-050-p3s3w1</LM>
 </w.rf>
 <form>Spoluzahájil</form>
-<tag lemma="spoluzahájit" src="orig" selected="1">VpYS----R-AA---</tag>
+<tag>
+<AM lemma="spoluzahájit" src="orig">VpYS----R-AA---</AM>
+<AM lemma="spoluzahájit" src="manual" selected="1">VpYS----R-AAP--</AM>
+</tag>
 </m>
 <m id="m-mf930709-050-p3s3w2">
 <src.rf>manual</src.rf>

@@ -2674,7 +2674,10 @@
 <LM>w#w-ln95042-016-p4s7w20</LM>
 </w.rf>
 <form>karnevalizuje</form>
-<tag lemma="karnevalizovat" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="karnevalizovat" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="karnevalizovat" src="manual" selected="1">VB-S---3P-AAI--</AM>
+</tag>
 </m>
 <m id="m-ln95042-016-p4s7w21">
 <src.rf>manual</src.rf>

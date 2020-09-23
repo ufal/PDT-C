@@ -4040,7 +4040,8 @@
 <form>Novaja</form>
 <tag>
 <AM lemma="Novaja_;G_,t" src="orig">AAFS1----1A----</AM>
-<AM lemma="Novaja_77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Novaja_77" src="manual">F%-------------</AM>
+<AM lemma="Novaja-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94203-1-p8s2w13">
@@ -4051,7 +4052,8 @@
 <form>Zemlja</form>
 <tag>
 <AM lemma="Zemlja_;G_,t" src="orig">NNFS1-----A----</AM>
-<AM lemma="Zemlja_77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Zemlja_77" src="manual">F%-------------</AM>
+<AM lemma="Zemlja-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94203-1-p8s2w14">

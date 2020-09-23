@@ -210,7 +210,10 @@
 <LM>w#w-ln95042-081-p2s1Bw17</LM>
 </w.rf>
 <form>Horní</form>
-<tag lemma="Horní_;G" src="orig" selected="1">AAFS2----1A----</tag>
+<tag>
+<AM lemma="Horní_;G" src="orig">AAFS2----1A----</AM>
+<AM lemma="horní-1_^(vrchní)" src="manual" selected="1">AAFS2----1A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-081-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -1120,7 +1123,10 @@
 <LM>w#w-ln95042-081-p2s8w6</LM>
 </w.rf>
 <form>Horní</form>
-<tag lemma="Horní_;G" src="orig" selected="1">AAFS1----1A----</tag>
+<tag>
+<AM lemma="Horní_;G" src="orig">AAFS1----1A----</AM>
+<AM lemma="horní-1_^(vrchní)" src="manual" selected="1">AAFS1----1A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-081-p2s8w7">
 <src.rf>manual</src.rf>

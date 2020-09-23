@@ -14,7 +14,8 @@
 <form>Přelarvuje</form>
 <tag>
 <AM lemma="Přelarvuje" src="auto">X@-------------</AM>
-<AM lemma="přelarvovat" src="manual" selected="1">VB-S---3P-AA---</AM>
+<AM lemma="přelarvovat" src="manual">VB-S---3P-AA---</AM>
+<AM lemma="přelarvovat" src="manual" selected="1">VB-S---3P-AAP--</AM>
 </tag>
 </m>
 <m id="m056-d1t309-12">
@@ -3151,10 +3152,10 @@
 <w.rf>
 <LM>w#w-d1t520-4</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>3.6</form>
-<tag>
-<AM lemma="3.6" src="auto" recommended="1">C=-------------</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="3.6" src="auto" recommended="1">C=-------------</tag>
+</m>
 <m id="m056-d1t520-5">
 <w.rf>
 <LM>w#w-d1t520-5</LM>

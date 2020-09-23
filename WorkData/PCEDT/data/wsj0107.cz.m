@@ -1638,6 +1638,7 @@
 <w.rf>
 <LM>w#w-wsj0107-001-p1s5W7</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>zahrnujících</form>
 <tag>
 <AM lemma="zahrnující_^(*5ovat)" src="auto" recommended="1">AGFP2-----A----</AM>
@@ -1647,8 +1648,9 @@
 <AM lemma="zahrnující_^(*5ovat)" src="auto">AGMP2-----A----</AM>
 <AM lemma="zahrnující_^(*5ovat)" src="auto">AGMP6-----A----</AM>
 <AM lemma="zahrnující_^(*5ovat)" src="auto">AGNP2-----A----</AM>
-<AM lemma="zahrnující_^(*5ovat)" src="auto">AGNP6-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="zahrnující_^(*5ovat)" src="auto">AGNP6-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0107-001-p1s5W8-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -2664,7 +2666,8 @@
 <form>ního</form>
 <tag>
 <AM lemma="ního" src="auto">X@-------------</AM>
-<AM lemma="ní_,i_(12%-ní)" src="manual" selected="1">AAIS2----1A----</AM>
+<AM lemma="ní_,i_(12%-ní)" src="manual">AAIS2----1A----</AM>
+<AM lemma="ní_,i_^(12%-ní)" src="manual" selected="1">SAIS2----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0107-001-p1s7W29-Ta">

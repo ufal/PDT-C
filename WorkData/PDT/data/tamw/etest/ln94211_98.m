@@ -7182,7 +7182,10 @@
 <LM>w#w-ln94211-98-p3s38w20</LM>
 </w.rf>
 <form>nehodí</form>
-<tag lemma="hodit" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag>
+<AM lemma="hodit" src="orig">VB-S---3P-NA---</AM>
+<AM lemma="hodit-2_^(bude_se_hodit)" src="manual" selected="1">VB-S---3P-NAI--</AM>
+</tag>
 </m>
 <m id="m-ln94211-98-p3s38w21">
 <src.rf>manual</src.rf>

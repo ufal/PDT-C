@@ -16402,7 +16402,10 @@
 <LM>w#w-cmpr9410-028-p48s3w2</LM>
 </w.rf>
 <form>nenechte</form>
-<tag lemma="nechat" src="orig" selected="1">Vi-P---2--N----</tag>
+<tag>
+<AM lemma="nechat" src="orig">Vi-P---2--N----</AM>
+<AM lemma="nechat" src="manual" selected="1">Vi-P---2--N-P-1</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-028-p48s3w3">
 <src.rf>manual</src.rf>

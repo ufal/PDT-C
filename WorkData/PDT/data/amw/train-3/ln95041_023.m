@@ -272,7 +272,10 @@
 <LM>w#w-ln95041-023-p2s2w4</LM>
 </w.rf>
 <form>spadal</form>
-<tag lemma="spadat" src="orig" selected="1">VpYS----R-AA---</tag>
+<tag>
+<AM lemma="spadat" src="orig">VpYS----R-AA---</AM>
+<AM lemma="spadat-1_^(do_kategorie)" src="manual" selected="1">VpYS----R-AAI--</AM>
+</tag>
 </m>
 <m id="m-ln95041-023-p2s2w5">
 <src.rf>manual</src.rf>

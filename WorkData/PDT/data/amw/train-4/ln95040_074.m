@@ -158,7 +158,10 @@
 <LM>w#w-ln95040-074-p2s1w12</LM>
 </w.rf>
 <form>obhání</form>
-<tag lemma="obhánět" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="obhánět" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="obhánět" src="manual" selected="1">VB-S---3P-AAI--</AM>
+</tag>
 </m>
 <m id="m-ln95040-074-p2s1w13">
 <src.rf>manual</src.rf>
@@ -1765,7 +1768,10 @@
 <LM>w#w-ln95040-074-p5s3w13</LM>
 </w.rf>
 <form>obhání</form>
-<tag lemma="obhánět" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="obhánět" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="obhánět" src="manual" selected="1">VB-S---3P-AAI--</AM>
+</tag>
 </m>
 <m id="m-ln95040-074-p5s3w14">
 <src.rf>manual</src.rf>

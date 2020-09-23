@@ -1250,7 +1250,10 @@
 <LM>w#w-lnd92255-124-p4s1w15</LM>
 </w.rf>
 <form>nebou</form>
-<tag lemma="být" src="orig" selected="1">VB-P---3F-NA---</tag>
+<tag>
+<AM lemma="být" src="orig">VB-P---3F-NA---</AM>
+<AM lemma="být" src="manual" selected="1">VB-P---3F-NAI--</AM>
+</tag>
 </m>
 <m id="m-lnd92255-124-p4s1w16">
 <src.rf>manual</src.rf>

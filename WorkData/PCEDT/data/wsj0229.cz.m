@@ -269,14 +269,14 @@
 <LM>w#w-wsj0229-001-p1s1W1</LM>
 </w.rf>
 <form>45</form>
-<tag>
-<AM lemma="45" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="45" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj0229-001-p1s1W1-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0229-001-p1s1W1</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>letý</form>
 <tag>
 <AM lemma="letý" src="auto">AAFP1----1A---6</AM>
@@ -301,8 +301,9 @@
 <AM lemma="letý" src="auto">AANP5----1A---6</AM>
 <AM lemma="letý" src="auto">AANS1----1A---6</AM>
 <AM lemma="letý" src="auto">AANS4----1A---6</AM>
-<AM lemma="letý" src="auto">AANS5----1A---6</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="letý" src="auto">AANS5----1A---6</AM>
+</tag>
+</m>
 <m id="m-wsj0229-001-p1s1W2-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -698,7 +699,8 @@
 <form>Rubendall</form>
 <tag>
 <AM lemma="Rubendall" src="auto">X@-------------</AM>
-<AM lemma="Rubendall_S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Rubendall_S" src="manual">NNMS1-----A----</AM>
+<AM lemma="Rubendall_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0229-001-p1s2W14-Ta">
@@ -970,7 +972,8 @@
 <form>Rubendall</form>
 <tag>
 <AM lemma="Rubendall" src="auto">X@-------------</AM>
-<AM lemma="Rubendall_S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Rubendall_S" src="manual">NNMS1-----A----</AM>
+<AM lemma="Rubendall_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0229-001-p1s4W2-Ta">

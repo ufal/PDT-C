@@ -674,10 +674,10 @@
 <w.rf>
 <LM>w#w-d1t1652-8</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>34.5</form>
-<tag>
-<AM lemma="34.5" src="auto" recommended="1">C=-------------</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="34.5" src="auto" recommended="1">C=-------------</tag>
+</m>
 <m id="m149-d-m-d1e1649-x2-punct-punct">
 <w.rf>
 <LM>w#w-d-m-d1e1649-x2-punct-punct</LM>
@@ -2877,9 +2877,9 @@
 </w.rf>
 <form>New</form>
 <tag>
-<AM lemma="New-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="New-77" src="auto" recommended="1" selected="1">F%-------------</AM>
 <AM lemma="new-77_,t" src="auto">F%-------------</AM>
-<AM lemma="New-1_;G_^(součást_míst._jmen)" src="manual" selected="1">AAXXX----1A----</AM>
+<AM lemma="New-1_;G_^(součást_míst._jmen)" src="manual">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m149-d1t1741-2">
@@ -2891,6 +2891,7 @@
 <AM lemma="York-1_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="York-2_;G_;m" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="York-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m149-442-960">

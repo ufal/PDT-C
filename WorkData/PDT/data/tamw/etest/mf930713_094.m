@@ -895,7 +895,10 @@
 <LM>w#w-mf930713-094-p2s8w4</LM>
 </w.rf>
 <form>spadá</form>
-<tag lemma="spadat" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="spadat" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="spadat-1_^(do_kategorie)" src="manual" selected="1">VB-S---3P-AAI--</AM>
+</tag>
 </m>
 <m id="m-mf930713-094-p2s8w5">
 <src.rf>manual</src.rf>

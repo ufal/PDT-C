@@ -277,7 +277,10 @@
 <LM>w#w-lnd92255-038-p2s1w29</LM>
 </w.rf>
 <form>Lite</form>
-<tag lemma="Lite_;m" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Lite_;m" src="orig">AAXXX----1A----</AM>
+<AM lemma="Lite-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-038-p2s1w30">
 <src.rf>manual</src.rf>
@@ -293,7 +296,10 @@
 <LM>w#w-lnd92255-038-p2s1w31</LM>
 </w.rf>
 <form>licht</form>
-<tag lemma="licht_;m" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="licht_;m" src="orig">NNIS1-----A----</AM>
+<AM lemma="licht-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-038-p2s1w32">
 <src.rf>manual</src.rf>

@@ -1065,7 +1065,10 @@
 <LM>w#w-d1t918-1</LM>
 </w.rf>
 <form>Přepadli</form>
-<tag lemma="přepadnout" src="auto" recommended="1">VpMP----R-AA---</tag>
+<tag>
+<AM lemma="přepadnout" src="auto" recommended="1">VpMP----R-AA---</AM>
+<AM lemma="přepadnout" src="manual" selected="1">VpMP----R-AAP-1</AM>
+</tag>
 </m>
 <m id="m046-d1t918-2">
 <w.rf>

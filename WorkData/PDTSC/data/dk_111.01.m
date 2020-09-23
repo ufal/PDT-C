@@ -5306,7 +5306,8 @@
 <form>připozastaví</form>
 <tag>
 <AM lemma="připozastaví" src="auto">X@-------------</AM>
-<AM lemma="připozastavit" src="manual" selected="1">VB-S---3P-AA---</AM>
+<AM lemma="připozastavit" src="manual">VB-S---3P-AA---</AM>
+<AM lemma="připozastavit" src="manual" selected="1">VB-S---3P-AAP--</AM>
 </tag>
 </m>
 <m id="m111-251-348">

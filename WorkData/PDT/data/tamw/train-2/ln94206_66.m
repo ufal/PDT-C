@@ -4346,7 +4346,10 @@
 <LM>w#w-ln94206-66-p6s9w40</LM>
 </w.rf>
 <form>nehodí</form>
-<tag lemma="hodit" src="orig" selected="1">VB-P---3P-NA---</tag>
+<tag>
+<AM lemma="hodit" src="orig">VB-P---3P-NA---</AM>
+<AM lemma="hodit-2_^(bude_se_hodit)" src="manual" selected="1">VB-P---3P-NAI--</AM>
+</tag>
 </m>
 <m id="m-ln94206-66-p6s9w41">
 <src.rf>manual</src.rf>

@@ -842,7 +842,8 @@
 <form>rozštipovaly</form>
 <tag>
 <AM lemma="rozštipovaly" src="auto">X@-------------</AM>
-<AM lemma="rozštipovat_,s_^(*DD**rozštěpovat)" src="manual" selected="1">VpTP----R-AA---</AM>
+<AM lemma="rozštipovat_,s_^(*DD**rozštěpovat)" src="manual">VpTP----R-AA---</AM>
+<AM lemma="rozštipovat_,s_^(*DD**rozštěpovat)" src="manual" selected="1">VpTP----R-AAI--</AM>
 </tag>
 </m>
 <m id="m023-d1t985-16">

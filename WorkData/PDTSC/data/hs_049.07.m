@@ -1220,7 +1220,8 @@
 <form>protavila</form>
 <tag>
 <AM lemma="protavila" src="auto">X@-------------</AM>
-<AM lemma="protavit" src="manual" selected="1">VpQW----R-AA---</AM>
+<AM lemma="protavit" src="manual">VpQW----R-AA---</AM>
+<AM lemma="protavit" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m049-d1t1842-10">

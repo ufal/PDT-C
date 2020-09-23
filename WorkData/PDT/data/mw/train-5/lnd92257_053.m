@@ -71,7 +71,11 @@
 <LM>w#w-lnd92257-053-p3s1w1</LM>
 </w.rf>
 <form>SAN</form>
-<tag lemma="San-2_;G" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="San-2_;G" src="orig">AAXXX----1A----</AM>
+<AM lemma="SAN-77" src="manual">F%-------------</AM>
+<AM lemma="San-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92257-053-p3s1w2">
 <src.rf>manual</src.rf>

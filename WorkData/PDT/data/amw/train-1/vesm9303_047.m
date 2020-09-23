@@ -12231,7 +12231,10 @@
 <LM>w#w-vesm9303-047-p20s3w20</LM>
 </w.rf>
 <form>mimikrují</form>
-<tag lemma="mimikrovat" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag>
+<AM lemma="mimikrovat" src="orig">VB-P---3P-AA---</AM>
+<AM lemma="mimikrovat" src="manual" selected="1">VB-P---3P-AAB--</AM>
+</tag>
 </m>
 <m id="m-vesm9303-047-p20s3w21">
 <src.rf>manual</src.rf>

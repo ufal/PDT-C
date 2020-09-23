@@ -1803,7 +1803,10 @@
 <LM>w#w-d1t2108-2</LM>
 </w.rf>
 <form>spadalo</form>
-<tag lemma="spadat" src="auto" recommended="1">VpNS----R-AA---</tag>
+<tag>
+<AM lemma="spadat" src="auto" recommended="1">VpNS----R-AA---</AM>
+<AM lemma="spadat-1_^(do_kategorie)" src="manual" selected="1">VpNS----R-AAI--</AM>
+</tag>
 </m>
 <m id="m140-d1t2108-5">
 <w.rf>
@@ -4497,7 +4500,10 @@
 <LM>w#w-d1t2190-6</LM>
 </w.rf>
 <form>Spadala</form>
-<tag lemma="spadat" src="auto" recommended="1">VpQW----R-AA---</tag>
+<tag>
+<AM lemma="spadat" src="auto" recommended="1">VpQW----R-AA---</AM>
+<AM lemma="spadat-1_^(do_kategorie)" src="manual" selected="1">VpQW----R-AAI--</AM>
+</tag>
 </m>
 <m id="m140-d1t2190-7">
 <w.rf>

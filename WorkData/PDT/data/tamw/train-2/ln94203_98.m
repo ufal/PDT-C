@@ -2681,7 +2681,10 @@
 <LM>w#w-ln94203-98-p5s2w6</LM>
 </w.rf>
 <form>spadá</form>
-<tag lemma="spadat" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="spadat" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="spadat-1_^(do_kategorie)" src="manual" selected="1">VB-S---3P-AAI--</AM>
+</tag>
 </m>
 <m id="m-ln94203-98-p5s2w7">
 <src.rf>manual</src.rf>
@@ -3061,7 +3064,10 @@
 <LM>w#w-ln94203-98-p5s4w29</LM>
 </w.rf>
 <form>spadají</form>
-<tag lemma="spadat" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag>
+<AM lemma="spadat" src="orig">VB-P---3P-AA---</AM>
+<AM lemma="spadat-1_^(do_kategorie)" src="manual" selected="1">VB-P---3P-AAI--</AM>
+</tag>
 </m>
 <m id="m-ln94203-98-p5s4w30">
 <src.rf>manual</src.rf>

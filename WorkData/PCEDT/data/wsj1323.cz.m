@@ -7029,7 +7029,8 @@
 <form>Lantana</form>
 <tag>
 <AM lemma="lantana_;U_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="lantana-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="lantana-77" src="manual">F%-------------</AM>
+<AM lemma="Lantana_;U" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1323-001-p1s38W6-Ta">
@@ -7185,7 +7186,8 @@
 <tag>
 <AM lemma="Palamedes" src="auto">X@-------------</AM>
 <AM lemma="Palamedes_;U" src="manual">NNXXX-----A----</AM>
-<AM lemma="palamedes_;U" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="palamedes_;U" src="manual">NNXXX-----A----</AM>
+<AM lemma="Palamedes-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1323-001-p1s38W19-Ta">

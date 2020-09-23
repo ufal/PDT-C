@@ -1399,7 +1399,8 @@
 <AM lemma="proplela" src="auto">X@-------------</AM>
 <AM lemma="propllít" src="manual">VpQW---XR-AA---</AM>
 <AM lemma="propllt" src="manual">VpQW---XR-AA---</AM>
-<AM lemma="proplít" src="manual" selected="1">VpQW----R-AA---</AM>
+<AM lemma="proplít" src="manual">VpQW----R-AA---</AM>
+<AM lemma="proplít" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m014-d1t3631-8">

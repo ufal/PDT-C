@@ -2801,7 +2801,8 @@
 <form>nenaskautoval</form>
 <tag>
 <AM lemma="nenaskautoval" src="auto">X@-------------</AM>
-<AM lemma="naskautovat" src="manual" selected="1">VpYS----R-NA---</AM>
+<AM lemma="naskautovat" src="manual">VpYS----R-NA---</AM>
+<AM lemma="naskautovat" src="manual" selected="1">VpYS----R-NAP--</AM>
 </tag>
 </m>
 <m id="m111-d-id97422-punct">

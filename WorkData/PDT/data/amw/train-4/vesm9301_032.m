@@ -9297,7 +9297,8 @@
 <form>MECHANÉ</form>
 <tag>
 <AM lemma="mechané_,t" src="orig">NNFS4-----A----</AM>
-<AM lemma="mechané-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="mechané-77" src="manual">F%-------------</AM>
+<AM lemma="mechané" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-032-p10s9w3">

@@ -6366,7 +6366,8 @@
 <form>Mutchinova</form>
 <tag>
 <AM lemma="Mutchinova" src="auto">X@-------------</AM>
-<AM lemma="Mutchinův_;Y_^(*2)" src="manual" selected="1">AAIS2----1A----</AM>
+<AM lemma="Mutchinův_;Y_^(*2)" src="manual">AAIS2----1A----</AM>
+<AM lemma="Mutchinův_;Y" src="manual" selected="1">AUIS2M---------</AM>
 </tag>
 </m>
 <m id="m-wsj0102-001-p1s30W21-Ta">

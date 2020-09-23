@@ -1996,7 +1996,10 @@
 <LM>w#w-cmpr9407-039-p11s1w10</LM>
 </w.rf>
 <form>stát</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">Vf--------A----</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">Vf--------A-P--</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-039-p11s1w11">
 <src.rf>manual</src.rf>

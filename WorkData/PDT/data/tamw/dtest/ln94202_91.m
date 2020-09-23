@@ -2071,7 +2071,8 @@
 <AM lemma="nine_,t" src="auto" recommended="1">XX-------------</AM>
 <AM lemma="nine_,t" src="manual">ClXXX----------</AM>
 <AM lemma="nine_,t" src="manual">Cn-XX----------</AM>
-<AM lemma="nine-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="nine-77" src="manual">F%-------------</AM>
+<AM lemma="Nine-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94202-91-p4s4w16">

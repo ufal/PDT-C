@@ -4051,8 +4051,9 @@
 <form>řek</form>
 <tag>
 <AM lemma="řeka" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="říci" src="auto" selected="1">VpYS----R-AA--6</AM>
+<AM lemma="říci" src="auto">VpYS----R-AA--6</AM>
 <AM lemma="říci" src="auto">VmYS------A-P--</AM>
+<AM lemma="říci" src="manual" selected="1">VpYS----R-AAP-7</AM>
 </tag>
 </m>
 <m id="m116-d1t639-13">

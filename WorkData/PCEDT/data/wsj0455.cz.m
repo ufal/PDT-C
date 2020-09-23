@@ -7545,7 +7545,8 @@
 <form>Hymowitzová</form>
 <tag>
 <AM lemma="Hymowitzová" src="auto">X@-------------</AM>
-<AM lemma="Hymowitzová_S" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Hymowitzová_S" src="manual">NNFS1-----A----</AM>
+<AM lemma="Hymowitzová_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0455-001-p1s19W23-Ta">
@@ -7654,7 +7655,8 @@
 <form>Hymowitzová</form>
 <tag>
 <AM lemma="Hymowitzová" src="auto">X@-------------</AM>
-<AM lemma="Hymowitzová_S" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Hymowitzová_S" src="manual">NNFS1-----A----</AM>
+<AM lemma="Hymowitzová_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0455-001-p1s19W32-Ta">

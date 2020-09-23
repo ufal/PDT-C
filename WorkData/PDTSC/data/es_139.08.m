@@ -1880,7 +1880,8 @@
 <form>naštívím</form>
 <tag>
 <AM lemma="naštívím" src="auto">X@-------------</AM>
-<AM lemma="naštívit_h_^(^GC**navštívit)" src="manual" selected="1">VB-S---1P-AA---</AM>
+<AM lemma="naštívit_h_^(^GC**navštívit)" src="manual">VB-S---1P-AA---</AM>
+<AM lemma="naštívit_h_^(^GC**navštívit)" src="manual" selected="1">VB-S---1P-AAP--</AM>
 </tag>
 </m>
 <m id="m139-d-m-d1e3382-x3-punct-punct">

@@ -4175,7 +4175,7 @@
 <tag lemma="?" src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m791-16379_01-551"/>
+<s id="m791-16379_01-551"></s>
 <s id="m791-16379_01-d1e645-x2">
 <m id="m791-d1t648-1">
 <w.rf>
@@ -6314,8 +6314,9 @@
 </w.rf>
 <form>neví</form>
 <tag>
-<AM lemma="vědět" src="auto" selected="1">VB-P---3P-NA--6</AM>
+<AM lemma="vědět" src="auto">VB-P---3P-NA--6</AM>
 <AM lemma="vědět" src="auto" recommended="1">VB-S---3P-NAI--</AM>
+<AM lemma="vědět" src="manual" selected="1">VB-P---3P-NAI-7</AM>
 </tag>
 </m>
 <m id="m791-d1e704-x2-1800">

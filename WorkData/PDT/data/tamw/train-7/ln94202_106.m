@@ -1537,7 +1537,10 @@
 <LM>w#w-ln94202-106-p5s1w17</LM>
 </w.rf>
 <form>spadá</form>
-<tag lemma="spadat" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="spadat" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="spadat-1_^(do_kategorie)" src="manual" selected="1">VB-S---3P-AAI--</AM>
+</tag>
 </m>
 <m id="m-ln94202-106-p5s1w18">
 <src.rf>manual</src.rf>

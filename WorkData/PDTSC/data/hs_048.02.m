@@ -2737,7 +2737,10 @@
 <LM>w#w-d1t763-17</LM>
 </w.rf>
 <form>nepřepadl</form>
-<tag lemma="přepadnout" src="auto" recommended="1">VpYS----R-NA---</tag>
+<tag>
+<AM lemma="přepadnout" src="auto" recommended="1">VpYS----R-NA---</AM>
+<AM lemma="přepadnout" src="manual" selected="1">VpYS----R-NAP-1</AM>
+</tag>
 </m>
 <m id="m048-107-108">
 <w.rf>
@@ -3809,7 +3812,8 @@
 <tag>
 <AM lemma="Kokotským" src="auto">X@-------------</AM>
 <AM lemma="Kokotský_;G_^(Kokotské_rybníky)" src="manual">AAMP3----1A----</AM>
-<AM lemma="Kokotský_;G_^(Kokotské_rybníky)" src="manual" selected="1">AAIP3----1A----</AM>
+<AM lemma="Kokotský_;G_^(Kokotské_rybníky)" src="manual">AAIP3----1A----</AM>
+<AM lemma="kokotský" src="manual" selected="1">AAIP3----1A----</AM>
 </tag>
 </m>
 <m id="m048-d1t829-4">

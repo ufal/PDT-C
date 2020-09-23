@@ -2268,7 +2268,8 @@
 <form>ního</form>
 <tag>
 <AM lemma="ního" src="auto">X@-------------</AM>
-<AM lemma="ní_,i_(12%-ní)" src="manual" selected="1">AAIS2----1A----</AM>
+<AM lemma="ní_,i_(12%-ní)" src="manual">AAIS2----1A----</AM>
+<AM lemma="ní_,i_^(12%-ní)" src="manual" selected="1">SAIS2----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0542-001-p1s4W52-Ta">

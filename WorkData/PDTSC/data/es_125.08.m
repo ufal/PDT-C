@@ -1827,6 +1827,7 @@
 <tag>
 <AM lemma="hodit_:T_:W" src="auto">VB-P---3P-NA---</AM>
 <AM lemma="hodit" src="auto" recommended="1">VB-S---3P-NA---</AM>
+<AM lemma="hodit-2_^(bude_se_hodit)" src="manual" selected="1">VB-S---3P-NAI--</AM>
 </tag>
 </m>
 <m id="m125-d-id141387-punct">

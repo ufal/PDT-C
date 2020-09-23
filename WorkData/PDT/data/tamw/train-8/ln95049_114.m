@@ -904,7 +904,10 @@
 <LM>w#w-ln95049-114-p2s5w14</LM>
 </w.rf>
 <form>pololžou</form>
-<tag lemma="pololhát" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag>
+<AM lemma="pololhát" src="orig">VB-P---3P-AA---</AM>
+<AM lemma="pololhát" src="manual" selected="1">VB-P---3P-AAI--</AM>
+</tag>
 </m>
 <m id="m-ln95049-114-p2s5w15">
 <src.rf>manual</src.rf>
@@ -2321,7 +2324,11 @@
 <LM>w#w-ln95049-114-p4s4w9</LM>
 </w.rf>
 <form>odviní</form>
-<tag lemma="odvinit" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag>
+<AM lemma="odvinit" src="orig">VB-P---3P-AA---</AM>
+<AM lemma="odvinit" src="manual">Vf--------A-P--</AM>
+<AM lemma="odvinit" src="manual" selected="1">VB-P---3P-AAP--</AM>
+</tag>
 </m>
 <m id="m-ln95049-114-p4s4w10">
 <src.rf>manual</src.rf>

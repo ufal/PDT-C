@@ -4789,9 +4789,11 @@
 </w.rf>
 <form>NEMO</form>
 <tag>
-<AM lemma="Nemo_;m" src="orig" selected="1">AAXXX----1A----</AM>
+<AM lemma="Nemo_;m" src="orig">AAXXX----1A----</AM>
 <AM lemma="Nemo_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Nemo_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="NEMO-77" src="manual">F%-------------</AM>
+<AM lemma="Nemo-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94204-2-p13s1Aw2">

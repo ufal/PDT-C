@@ -1185,7 +1185,10 @@
 <LM>w#w-ln94202-19-p3s5w11</LM>
 </w.rf>
 <form>shanonských</form>
-<tag lemma="shanonský_;G" src="orig" selected="1">AAMP2----1A----</tag>
+<tag>
+<AM lemma="shanonský_;G" src="orig">AAMP2----1A----</AM>
+<AM lemma="shanonský" src="manual" selected="1">AAMP2----1A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-19-p3s5w12">
 <src.rf>manual</src.rf>

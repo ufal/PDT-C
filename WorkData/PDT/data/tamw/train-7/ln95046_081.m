@@ -2419,7 +2419,10 @@
 <LM>w#w-ln95046-081-p5s5w19</LM>
 </w.rf>
 <form>nepřísluší</form>
-<tag lemma="příslušet" src="auto" selected="1">VB-P---3P-NA---</tag>
+<tag>
+<AM lemma="příslušet" src="auto">VB-P---3P-NA---</AM>
+<AM lemma="příslušet" src="manual" selected="1">VB-P---3P-NAI-1</AM>
+</tag>
 </m>
 <m id="m-ln95046-081-p5s5w20">
 <src.rf>manual</src.rf>

@@ -2613,7 +2613,10 @@
 <LM>w#w-ln95047-070-p5s5w13</LM>
 </w.rf>
 <form>pokydali</form>
-<tag lemma="pokydat" src="orig" selected="1">VpMP----R-AA---</tag>
+<tag>
+<AM lemma="pokydat" src="orig">VpMP----R-AA---</AM>
+<AM lemma="pokydat" src="manual" selected="1">VpMP----R-AAP--</AM>
+</tag>
 </m>
 <m id="m-ln95047-070-p5s5w14">
 <src.rf>manual</src.rf>

@@ -2957,10 +2957,10 @@
 <w.rf>
 <LM>w#w-d1t924-3</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>4.5</form>
-<tag>
-<AM lemma="4.5" src="auto" recommended="1">C=-------------</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="4.5" src="auto" recommended="1">C=-------------</tag>
+</m>
 <m id="m114-d1t924-6">
 <w.rf>
 <LM>w#w-d1t924-6</LM>
@@ -3798,7 +3798,8 @@
 <form>podhlodat</form>
 <tag>
 <AM lemma="podhlodat" src="auto">X@-------------</AM>
-<AM lemma="podhlodat" src="manual" selected="1">Vf--------A----</AM>
+<AM lemma="podhlodat" src="manual">Vf--------A----</AM>
+<AM lemma="podhlodat" src="manual" selected="1">Vf--------A-P--</AM>
 </tag>
 </m>
 <m id="m114-d1t973-3">
@@ -7051,10 +7052,10 @@
 <w.rf>
 <LM>w#w-d1t1090-7</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>2.5</form>
-<tag>
-<AM lemma="2.5" src="auto" recommended="1">C=-------------</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="2.5" src="auto" recommended="1">C=-------------</tag>
+</m>
 <m id="m114-d1t1090-10">
 <w.rf>
 <LM>w#w-d1t1090-10</LM>

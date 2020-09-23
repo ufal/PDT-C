@@ -5738,7 +5738,10 @@
 <LM>w#w-vesm9211-030-p11s4w8</LM>
 </w.rf>
 <form>spadá</form>
-<tag lemma="spadat" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="spadat" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="spadat-1_^(do_kategorie)" src="manual" selected="1">VB-S---3P-AAI--</AM>
+</tag>
 </m>
 <m id="m-vesm9211-030-p11s4w9">
 <src.rf>manual</src.rf>
@@ -6082,7 +6085,10 @@
 <LM>w#w-vesm9211-030-p11s6w17</LM>
 </w.rf>
 <form>Krivého</form>
-<tag lemma="Krivoj_;G_^(názvu_Krivoj_Rog)" src="orig" selected="1">AAIS2----1A----</tag>
+<tag>
+<AM lemma="Krivoj_;G_^(názvu_Krivoj_Rog)" src="orig">AAIS2----1A----</AM>
+<AM lemma="krivý" src="manual" selected="1">AAIS2----1A----</AM>
+</tag>
 </m>
 <m id="m-vesm9211-030-p11s6w18">
 <src.rf>manual</src.rf>

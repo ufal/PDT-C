@@ -3044,7 +3044,10 @@
 <LM>w#w-ln94207-50-p5s3w20</LM>
 </w.rf>
 <form>Sliemy</form>
-<tag lemma="Sliema_;m" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Sliema_;m" src="orig">AAXXX----1A----</AM>
+<AM lemma="Sliema_;m" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-50-p5s3w21">
 <src.rf>manual</src.rf>

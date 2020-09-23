@@ -9780,7 +9780,10 @@
 <LM>w#w-vesm9301-025-p28s4Aw7</LM>
 </w.rf>
 <form>nehodila</form>
-<tag lemma="hodit" src="orig" selected="1">VpQW----R-NA---</tag>
+<tag>
+<AM lemma="hodit" src="orig">VpQW----R-NA---</AM>
+<AM lemma="hodit-2_^(bude_se_hodit)" src="manual" selected="1">VpQW----R-NAI--</AM>
+</tag>
 </m>
 <m id="m-vesm9301-025-p28s4Aw8">
 <src.rf>manual</src.rf>

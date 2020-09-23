@@ -1387,7 +1387,10 @@
 <LM>w#w-mf930713-023-p8s1w18</LM>
 </w.rf>
 <form>Horní</form>
-<tag lemma="Horní_;G" src="auto" selected="1">AAFS1----1A----</tag>
+<tag>
+<AM lemma="Horní_;G" src="auto">AAFS1----1A----</AM>
+<AM lemma="horní-1_^(vrchní)" src="manual" selected="1">AAFS1----1A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-023-p8s1w19">
 <src.rf>manual</src.rf>
@@ -1419,7 +1422,10 @@
 <LM>w#w-mf930713-023-p8s1w22</LM>
 </w.rf>
 <form>Horní</form>
-<tag lemma="Horní_;G" src="auto" selected="1">AAFS4----1A----</tag>
+<tag>
+<AM lemma="Horní_;G" src="auto">AAFS4----1A----</AM>
+<AM lemma="horní-1_^(vrchní)" src="manual" selected="1">AAFS4----1A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-023-p8s1w23">
 <src.rf>manual</src.rf>

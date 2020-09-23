@@ -4190,7 +4190,10 @@
 <LM>w#w-lnd92251-116-p5s18w34</LM>
 </w.rf>
 <form>nehodila</form>
-<tag lemma="hodit" src="orig" selected="1">VpQW----R-NA---</tag>
+<tag>
+<AM lemma="hodit" src="orig">VpQW----R-NA---</AM>
+<AM lemma="hodit-2_^(bude_se_hodit)" src="manual" selected="1">VpQW----R-NAI--</AM>
+</tag>
 </m>
 <m id="m-lnd92251-116-p5s18w35">
 <src.rf>manual</src.rf>

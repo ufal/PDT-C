@@ -689,6 +689,7 @@
 <tag>
 <AM lemma="nechat" src="auto" recommended="1">Vi-S---2--A----</AM>
 <AM lemma="nechat" src="auto">Vi-S---3--A---4</AM>
+<AM lemma="nechat" src="manual" selected="1">Vi-S---2--A-P-1</AM>
 </tag>
 </m>
 <m id="m119-d1t1486-7">
@@ -769,6 +770,7 @@
 <tag>
 <AM lemma="hodit" src="auto" recommended="1">Vi-S---2--A----</AM>
 <AM lemma="hodit_:T_:W" src="auto">Vi-S---3--A---4</AM>
+<AM lemma="hodit-1" src="manual" selected="1">Vi-S---2--A-P--</AM>
 </tag>
 </m>
 <m id="m119-d1t1488-2">

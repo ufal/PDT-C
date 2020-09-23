@@ -2473,7 +2473,10 @@
 <LM>w#w-vesm9303-054-p6s4w4</LM>
 </w.rf>
 <form>spadá</form>
-<tag lemma="spadat" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="spadat" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="spadat-1_^(do_kategorie)" src="manual" selected="1">VB-S---3P-AAI--</AM>
+</tag>
 </m>
 <m id="m-vesm9303-054-p6s4w5">
 <src.rf>manual</src.rf>
@@ -13805,7 +13808,10 @@
 <LM>w#w-vesm9303-054-p16s2w14</LM>
 </w.rf>
 <form>hodit</form>
-<tag lemma="hodit" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="hodit" src="orig">Vf--------A----</AM>
+<AM lemma="hodit-2_^(bude_se_hodit)" src="manual" selected="1">Vf--------A-I--</AM>
+</tag>
 </m>
 <m id="m-vesm9303-054-p16s2w15">
 <src.rf>manual</src.rf>

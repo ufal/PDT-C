@@ -9535,7 +9535,10 @@
 <LM>w#w-mf930703-090-p37s2w37</LM>
 </w.rf>
 <form>nechte</form>
-<tag lemma="nechat" src="orig" selected="1">Vi-P---2--A----</tag>
+<tag>
+<AM lemma="nechat" src="orig">Vi-P---2--A----</AM>
+<AM lemma="nechat" src="manual" selected="1">Vi-P---2--A-P-1</AM>
+</tag>
 </m>
 <m id="m-mf930703-090-p37s2w38">
 <src.rf>manual</src.rf>

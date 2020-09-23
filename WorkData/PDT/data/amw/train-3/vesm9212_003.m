@@ -1753,7 +1753,8 @@
 <form>stadiu</form>
 <tag>
 <AM lemma="stadium" src="orig">NNNS6-----A----</AM>
-<AM lemma="stadium_,s" src="manual" selected="1">_^(^DD**stádium)</AM>
+<AM lemma="stadium_,s" src="manual">_^(^DD**stádium)</AM>
+<AM lemma="stadium_,s_^(^DD**stádium)" src="manual" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-003-p4s3w38">

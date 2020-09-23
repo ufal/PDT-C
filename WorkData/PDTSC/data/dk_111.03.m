@@ -171,7 +171,7 @@
 </w.rf>
 <form>Saint</form>
 <tag>
-<AM lemma="Saint-77" src="auto">F%-------------</AM>
+<AM lemma="Saint-77" src="auto" selected="1">F%-------------</AM>
 <AM lemma="Saint_;G_,t_^(Saint-Trinité)" src="auto">A2--------A----</AM>
 <AM lemma="saint-77" src="auto" recommended="1">F%-------------</AM>
 </tag>
@@ -188,7 +188,10 @@
 <LM>w#w-d1t418-9</LM>
 </w.rf>
 <form>Tropez</form>
-<tag lemma="Tropez_;G_^(Saint_Tropez)" src="auto" recommended="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Tropez_;G_^(Saint_Tropez)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Tropez-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m111-477-491">
 <w.rf>
@@ -687,7 +690,7 @@
 </w.rf>
 <form>Saint</form>
 <tag>
-<AM lemma="Saint-77" src="auto">F%-------------</AM>
+<AM lemma="Saint-77" src="auto" selected="1">F%-------------</AM>
 <AM lemma="Saint_;G_,t_^(Saint-Trinité)" src="auto">A2--------A----</AM>
 <AM lemma="saint-77" src="auto" recommended="1">F%-------------</AM>
 </tag>
@@ -704,7 +707,10 @@
 <LM>w#w-d1t437-6</LM>
 </w.rf>
 <form>Tropez</form>
-<tag lemma="Tropez_;G_^(Saint_Tropez)" src="auto" recommended="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Tropez_;G_^(Saint_Tropez)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Tropez-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m111-d1t431-2">
 <w.rf>
@@ -1948,7 +1954,7 @@
 </w.rf>
 <form>Saint</form>
 <tag>
-<AM lemma="Saint-77" src="auto">F%-------------</AM>
+<AM lemma="Saint-77" src="auto" selected="1">F%-------------</AM>
 <AM lemma="Saint_;G_,t_^(Saint-Trinité)" src="auto">A2--------A----</AM>
 <AM lemma="saint-77" src="auto" recommended="1">F%-------------</AM>
 </tag>
@@ -1965,7 +1971,10 @@
 <LM>w#w-d1t480-8</LM>
 </w.rf>
 <form>Tropez</form>
-<tag lemma="Tropez_;G_^(Saint_Tropez)" src="auto" recommended="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Tropez_;G_^(Saint_Tropez)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Tropez-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m111-d1t482-2">
 <w.rf>
@@ -2006,7 +2015,7 @@
 </w.rf>
 <form>Saint</form>
 <tag>
-<AM lemma="Saint-77" src="auto">F%-------------</AM>
+<AM lemma="Saint-77" src="auto" selected="1">F%-------------</AM>
 <AM lemma="Saint_;G_,t_^(Saint-Trinité)" src="auto">A2--------A----</AM>
 <AM lemma="saint-77" src="auto" recommended="1">F%-------------</AM>
 </tag>
@@ -2023,7 +2032,10 @@
 <LM>w#w-d1t486-5</LM>
 </w.rf>
 <form>Tropez</form>
-<tag lemma="Tropez_;G_^(Saint_Tropez)" src="auto" recommended="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Tropez_;G_^(Saint_Tropez)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Tropez-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m111-d1t488-2">
 <w.rf>
@@ -3126,6 +3138,7 @@
 <tag>
 <AM lemma="Mont_;m" src="auto">NNIS5-----A----</AM>
 <AM lemma="Monte_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Monte-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m111-d1t525-1">
@@ -4811,6 +4824,7 @@
 <tag>
 <AM lemma="Mont_;m" src="auto">NNIS5-----A----</AM>
 <AM lemma="Monte_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Monte-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m111-d1t566-1">

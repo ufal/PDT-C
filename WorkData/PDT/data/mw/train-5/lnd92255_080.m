@@ -5464,7 +5464,10 @@
 <LM>w#w-lnd92255-080-p12s2w9</LM>
 </w.rf>
 <form>nehodí</form>
-<tag lemma="hodit" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag>
+<AM lemma="hodit" src="orig">VB-S---3P-NA---</AM>
+<AM lemma="hodit-2_^(bude_se_hodit)" src="manual" selected="1">VB-S---3P-NAI--</AM>
+</tag>
 </m>
 <m id="m-lnd92255-080-p12s2w10">
 <src.rf>manual</src.rf>

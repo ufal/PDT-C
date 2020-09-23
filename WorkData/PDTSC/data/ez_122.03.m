@@ -3181,6 +3181,8 @@
 <AM lemma="horní-2_^(důlní)" src="auto">AANS1----1A----</AM>
 <AM lemma="horní-2_^(důlní)" src="auto">AANS4----1A----</AM>
 <AM lemma="horní-2_^(důlní)" src="auto">AANS5----1A----</AM>
+<AM lemma="	horní-1_^(vrchní)" src="manual">AAFS1----1A----</AM>
+<AM lemma="horní-1_^(vrchní)" src="manual" selected="1">AAFS1----1A----</AM>
 </tag>
 </m>
 <m id="m122-d1t860-6">

@@ -725,7 +725,8 @@
 <form>klepetaly</form>
 <tag>
 <AM lemma="klepetaly" src="auto">X@-------------</AM>
-<AM lemma="klepetat" src="manual" selected="1">VpTP----R-AA---</AM>
+<AM lemma="klepetat" src="manual">VpTP----R-AA---</AM>
+<AM lemma="klepetat" src="manual" selected="1">VpTP----R-AAI--</AM>
 </tag>
 </m>
 <m id="m040-d1t2633-8">

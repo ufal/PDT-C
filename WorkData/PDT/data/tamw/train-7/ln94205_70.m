@@ -1114,7 +1114,10 @@
 <LM>w#w-ln94205-70-p3s5w1</LM>
 </w.rf>
 <form>nech</form>
-<tag lemma="nechat" src="orig" selected="1">Vi-S---2--A----</tag>
+<tag>
+<AM lemma="nechat" src="orig">Vi-S---2--A----</AM>
+<AM lemma="nechat" src="manual" selected="1">Vi-S---2--A-P-1</AM>
+</tag>
 </m>
 <m id="m-ln94205-70-p3s5w2">
 <src.rf>manual</src.rf>

@@ -5936,7 +5936,8 @@
 <form>schytla</form>
 <tag>
 <AM lemma="schytla" src="auto">X@-------------</AM>
-<AM lemma="schytnout_,h" src="manual" selected="1">VpQW----R-AA---</AM>
+<AM lemma="schytnout_,h" src="manual">VpQW----R-AA---</AM>
+<AM lemma="schytnout_,h" src="manual" selected="1">VpQW----R-AAP-1</AM>
 </tag>
 </m>
 <m id="m773-d1t1460-22">

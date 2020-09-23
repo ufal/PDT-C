@@ -2352,7 +2352,10 @@
 <LM>w#w-mf920923-102-p71s1w2</LM>
 </w.rf>
 <form>Holky</form>
-<tag lemma="holka" src="orig" selected="1">NNFP1-----A----</tag>
+<tag>
+<AM lemma="holka" src="orig">NNFP1-----A----</AM>
+<AM lemma="holka" src="manual" selected="1">NNFP5-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-102-p71s1w3">
 <src.rf>manual</src.rf>
@@ -2368,7 +2371,10 @@
 <LM>w#w-mf920923-102-p71s1w4</LM>
 </w.rf>
 <form>kluci</form>
-<tag lemma="kluk" src="orig" selected="1">NNMP1-----A----</tag>
+<tag>
+<AM lemma="kluk" src="orig">NNMP1-----A----</AM>
+<AM lemma="kluk" src="manual" selected="1">NNMP5-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-102-p71s1w5">
 <src.rf>manual</src.rf>
@@ -2384,7 +2390,10 @@
 <LM>w#w-mf920923-102-p71s1w6</LM>
 </w.rf>
 <form>kupte</form>
-<tag lemma="koupit_^(něco_sobě/někomu)" src="orig" selected="1">Vi-P---2--A----</tag>
+<tag>
+<AM lemma="koupit_^(něco_sobě/někomu)" src="orig">Vi-P---2--A----</AM>
+<AM lemma="koupit" src="manual" selected="1">Vi-P---2--A-P--</AM>
+</tag>
 </m>
 <m id="m-mf920923-102-p71s1w7">
 <src.rf>manual</src.rf>

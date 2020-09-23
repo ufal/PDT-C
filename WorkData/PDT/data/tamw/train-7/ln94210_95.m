@@ -14358,7 +14358,10 @@
 <LM>w#w-ln94210-95-p12s10w8</LM>
 </w.rf>
 <form>nehodí</form>
-<tag lemma="hodit" src="orig" selected="1">VB-P---3P-NA---</tag>
+<tag>
+<AM lemma="hodit" src="orig">VB-P---3P-NA---</AM>
+<AM lemma="hodit-2_^(bude_se_hodit)" src="manual" selected="1">VB-P---3P-NAI--</AM>
+</tag>
 </m>
 <m id="m-ln94210-95-p12s10w9">
 <src.rf>manual</src.rf>
@@ -17668,7 +17671,10 @@
 <LM>w#w-ln94210-95-p13s10w5</LM>
 </w.rf>
 <form>Pětikostelním</form>
-<tag lemma="pětikostelní_;G" src="orig" selected="1">AANS7----1A----</tag>
+<tag>
+<AM lemma="pětikostelní_;G" src="orig">AANS7----1A----</AM>
+<AM lemma="pětikostelní" src="manual" selected="1">AANS7----1A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-95-p13s10w6">
 <src.rf>manual</src.rf>

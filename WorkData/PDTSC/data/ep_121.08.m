@@ -2026,7 +2026,8 @@
 <form>převelili</form>
 <tag>
 <AM lemma="převelili" src="auto">X@-------------</AM>
-<AM lemma="převelit" src="manual" selected="1">VpMP----R-AA---</AM>
+<AM lemma="převelit" src="manual">VpMP----R-AA---</AM>
+<AM lemma="převelet" src="manual" selected="1">VpMP----R-AAP-1</AM>
 </tag>
 </m>
 <m id="m121-d1e1728-x2-24">

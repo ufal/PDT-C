@@ -498,7 +498,10 @@
 <LM>w#w-lnd94101-008-p1s5w17</LM>
 </w.rf>
 <form>nespadal</form>
-<tag lemma="spadat" src="orig" selected="1">VpYS----R-NA---</tag>
+<tag>
+<AM lemma="spadat" src="orig">VpYS----R-NA---</AM>
+<AM lemma="spadat-1_^(do_kategorie)" src="manual" selected="1">VpYS----R-NAI--</AM>
+</tag>
 </m>
 <m id="m-lnd94101-008-p1s5w18">
 <src.rf>manual</src.rf>

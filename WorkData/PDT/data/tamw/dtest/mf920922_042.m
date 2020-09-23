@@ -509,7 +509,10 @@
 <LM>w#w-mf920922-042-p2s3w24</LM>
 </w.rf>
 <form>nepřísluší</form>
-<tag lemma="příslušet" src="auto" selected="1">VB-P---3P-NA---</tag>
+<tag>
+<AM lemma="příslušet" src="auto">VB-P---3P-NA---</AM>
+<AM lemma="příslušet" src="manual" selected="1">VB-P---3P-NAI-1</AM>
+</tag>
 </m>
 <m id="m-mf920922-042-p2s3w25">
 <src.rf>manual</src.rf>

@@ -215,7 +215,10 @@
 <LM>w#w-ln94202-81-p2s1Bw10</LM>
 </w.rf>
 <form>O</form>
-<tag lemma="O-0_;Y" src="orig" selected="1">NNMXX-----A---b</tag>
+<tag>
+<AM lemma="O-0_;Y" src="orig">NNMXX-----A---b</AM>
+<AM lemma="O-33" src="manual" selected="1">Q3-------------</AM>
+</tag>
 </m>
 <m id="m-ln94202-81-p2s1Bw11">
 <src.rf>manual</src.rf>

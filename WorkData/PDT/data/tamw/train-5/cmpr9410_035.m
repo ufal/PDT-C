@@ -368,7 +368,10 @@
 <LM>w#w-cmpr9410-035-p3s5w2</LM>
 </w.rf>
 <form>nechte</form>
-<tag lemma="nechat" src="orig" selected="1">Vi-P---2--A----</tag>
+<tag>
+<AM lemma="nechat" src="orig">Vi-P---2--A----</AM>
+<AM lemma="nechat" src="manual" selected="1">Vi-P---2--A-P-1</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-035-p3s5w3">
 <src.rf>manual</src.rf>

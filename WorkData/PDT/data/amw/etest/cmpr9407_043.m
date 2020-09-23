@@ -586,7 +586,8 @@
 <form>KRUMLESCO</form>
 <tag>
 <AM lemma="Krumlesco" src="orig">NNNS1-----A----</AM>
-<AM lemma="Krumlesco_,m" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="Krumlesco_,m" src="manual">NNNS1-----A----</AM>
+<AM lemma="Krumlesco_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-043-p3s3Bw15">

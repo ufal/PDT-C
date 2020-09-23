@@ -1148,7 +1148,10 @@
 <LM>w#w-ln94204-151-p3s3w12</LM>
 </w.rf>
 <form>Marszalkowské</form>
-<tag lemma="Marszalkowský_;G" src="orig" selected="1">AAFS6----1A----</tag>
+<tag>
+<AM lemma="Marszalkowský_;G" src="orig">AAFS6----1A----</AM>
+<AM lemma="marszalkowský" src="manual" selected="1">AAFS6----1A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-151-p3s3w13">
 <src.rf>manual</src.rf>

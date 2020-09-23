@@ -4145,8 +4145,8 @@
 <form>Nicht</form>
 <tag>
 <AM lemma="Nicht" src="auto">X@-------------</AM>
-<AM lemma="Nicht-77" src="manual">F%-------------</AM>
-<AM lemma="nicht-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Nicht-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="nicht-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m053-d-id106699-punct">
@@ -4539,8 +4539,8 @@
 <form>Nein</form>
 <tag>
 <AM lemma="Nein" src="auto">X@-------------</AM>
-<AM lemma="Nein-77" src="manual">F%-------------</AM>
-<AM lemma="nein-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Nein-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="nein-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m053-d-id107632-punct">

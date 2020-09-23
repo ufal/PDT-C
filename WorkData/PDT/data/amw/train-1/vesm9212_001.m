@@ -3709,7 +3709,8 @@
 <form>mechanismu</form>
 <tag>
 <AM lemma="mechanismus" src="orig">NNIS2-----A----</AM>
-<AM lemma="mechanismus_,s" src="manual" selected="1">_^(^DD**mechanizmus)</AM>
+<AM lemma="mechanismus_,s" src="manual">_^(^DD**mechanizmus)</AM>
+<AM lemma="mechanismus_,s_^(^DD**mechanizmus)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-001-p5s7w4">

@@ -449,7 +449,10 @@
 <LM>w#w-ln95047-090-p2s2w15</LM>
 </w.rf>
 <form>přepadl</form>
-<tag lemma="přepadnout" src="auto" selected="1">VpYS----R-AA---</tag>
+<tag>
+<AM lemma="přepadnout" src="auto">VpYS----R-AA---</AM>
+<AM lemma="přepadnout" src="manual" selected="1">VpYS----R-AAP-1</AM>
+</tag>
 </m>
 <m id="m-ln95047-090-p2s2w16">
 <src.rf>manual</src.rf>

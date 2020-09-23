@@ -1028,7 +1028,8 @@
 <form>onosily</form>
 <tag>
 <AM lemma="onosily" src="auto">X@-------------</AM>
-<AM lemma="onosit" src="manual" selected="1">VpTP----R-AA---</AM>
+<AM lemma="onosit" src="manual">VpTP----R-AA---</AM>
+<AM lemma="onosit" src="manual" selected="1">VpTP----R-AAP--</AM>
 </tag>
 </m>
 <m id="m126-d1t1314-24">
@@ -1153,7 +1154,8 @@
 <tag>
 <AM lemma="scvakali" src="auto">X@-------------</AM>
 <AM lemma="scvakat" src="manual">VpTP---XR-AA---</AM>
-<AM lemma="scvakat" src="manual" selected="1">VpMP----R-AA---</AM>
+<AM lemma="scvakat" src="manual">VpMP----R-AA---</AM>
+<AM lemma="scvakat" src="manual" selected="1">VpMP----R-AAP--</AM>
 </tag>
 </m>
 <m id="m126-d1t1317-6">
@@ -2170,7 +2172,8 @@
 <form>posestřily</form>
 <tag>
 <AM lemma="posestřily" src="auto">X@-------------</AM>
-<AM lemma="posestřit_,h" src="manual" selected="1">VpTP----R-AA---</AM>
+<AM lemma="posestřit_,h" src="manual">VpTP----R-AA---</AM>
+<AM lemma="posestřit_,h" src="manual" selected="1">VpTP----R-AAP--</AM>
 </tag>
 </m>
 <m id="m126-d1t1354-26">

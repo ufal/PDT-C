@@ -7729,7 +7729,8 @@
 <form>Nakupenda</form>
 <tag>
 <AM lemma="nakupenda_,t" src="orig">NNXXX-----A----</AM>
-<AM lemma="nakupenda-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="nakupenda-77" src="manual">F%-------------</AM>
+<AM lemma="Nakupenda-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-051-p6s1w2">

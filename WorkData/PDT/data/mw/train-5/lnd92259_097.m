@@ -634,7 +634,10 @@
 <LM>w#w-lnd92259-097-p3s2w51</LM>
 </w.rf>
 <form>San</form>
-<tag lemma="San-2_;G" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="San-2_;G" src="orig">AAXXX----1A----</AM>
+<AM lemma="San-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92259-097-p3s2w52">
 <src.rf>manual</src.rf>
@@ -643,10 +646,11 @@
 </w.rf>
 <form>Siru</form>
 <tag>
-<AM lemma="Siro_;G" src="orig" selected="1">NNNS6-----A----</AM>
+<AM lemma="Siro_;G" src="orig">NNNS6-----A----</AM>
 <AM lemma="Sira_;G" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="sir" src="auto">NNMS3-----A---1</AM>
 <AM lemma="sir" src="auto">NNMS6-----A---1</AM>
+<AM lemma="Siro_;m" src="manual" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-097-p3s2w53">
@@ -6767,7 +6771,10 @@
 <LM>w#w-lnd92259-097-p10s2w12</LM>
 </w.rf>
 <form>San</form>
-<tag lemma="San-2_;G" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="San-2_;G" src="orig">AAXXX----1A----</AM>
+<AM lemma="San-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92259-097-p10s2w13">
 <src.rf>manual</src.rf>
@@ -6776,10 +6783,11 @@
 </w.rf>
 <form>Siru</form>
 <tag>
-<AM lemma="Siro_;G" src="orig" selected="1">NNNS6-----A----</AM>
+<AM lemma="Siro_;G" src="orig">NNNS6-----A----</AM>
 <AM lemma="Sira_;G" src="auto">NNFS4-----A----</AM>
 <AM lemma="sir" src="auto">NNMS3-----A---1</AM>
 <AM lemma="sir" src="auto" recommended="1">NNMS6-----A---1</AM>
+<AM lemma="Siro_;m" src="manual" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-097-p10s2w14">

@@ -19380,7 +19380,10 @@
 <LM>w#w-vesm9212-049-p28s3w1</LM>
 </w.rf>
 <form>Ötztálský</form>
-<tag lemma="ötztálský_;G" src="orig" selected="1">AAMS1----1A----</tag>
+<tag>
+<AM lemma="ötztálský_;G" src="orig">AAMS1----1A----</AM>
+<AM lemma="ötztálský" src="manual" selected="1">AAMS1----1A----</AM>
+</tag>
 </m>
 <m id="m-vesm9212-049-p28s3w2">
 <src.rf>manual</src.rf>

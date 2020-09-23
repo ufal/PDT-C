@@ -10884,7 +10884,10 @@
 <LM>w#w-vesm9301-044-p13s5w3</LM>
 </w.rf>
 <form>kompaktovány</form>
-<tag lemma="kompaktovat" src="orig" selected="1">VsTP----X-AP---</tag>
+<tag>
+<AM lemma="kompaktovat" src="orig">VsTP----X-AP---</AM>
+<AM lemma="kompaktovat" src="manual" selected="1">VsTP----X-APB--</AM>
+</tag>
 </m>
 <m id="m-vesm9301-044-p13s5w4">
 <src.rf>manual</src.rf>

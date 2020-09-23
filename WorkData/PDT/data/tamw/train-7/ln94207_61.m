@@ -1147,7 +1147,11 @@
 <LM>w#w-ln94207-61-p5s2w16</LM>
 </w.rf>
 <form>nepřepadla</form>
-<tag lemma="přepadnout" src="auto" selected="1">VpQW----R-NA---</tag>
+<tag>
+<AM lemma="přepadnout" src="auto">VpQW----R-NA---</AM>
+<AM lemma="přepadnout" src="manual">VpQW----R-AAP-1</AM>
+<AM lemma="přepadnout" src="manual" selected="1">VpQW----R-NAP-1</AM>
+</tag>
 </m>
 <m id="m-ln94207-61-p5s2w17">
 <src.rf>manual</src.rf>

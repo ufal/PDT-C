@@ -2008,7 +2008,10 @@
 <LM>w#w-ln95044-069-p4s3w28</LM>
 </w.rf>
 <form>náleží</form>
-<tag lemma="náležet" src="auto" selected="1">VB-P---3P-AA---</tag>
+<tag>
+<AM lemma="náležet" src="auto">VB-P---3P-AA---</AM>
+<AM lemma="náležet" src="manual" selected="1">VB-P---3P-AAI-1</AM>
+</tag>
 </m>
 <m id="m-ln95044-069-p4s3w29">
 <src.rf>manual</src.rf>

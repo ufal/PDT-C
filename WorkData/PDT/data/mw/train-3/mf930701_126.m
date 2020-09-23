@@ -552,7 +552,8 @@
 <AM lemma="Mladý_:B_;G_^(např._Ml._Boleslav)" src="orig">AAXXX----1A---8</AM>
 <AM lemma="ml-1`mililitr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="mladý_:B" src="auto">AAXXX----2A---8</AM>
-<AM lemma="mladý_;G_^(např._Ml._Boleslav)" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="mladý_;G_^(např._Ml._Boleslav)" src="manual">AAXXX----1A---8</AM>
+<AM lemma="mladý" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-mf930701-126-p2s5w4">
@@ -825,7 +826,8 @@
 <AM lemma="Labe_:B_;G" src="orig">NNNS7-----A---8</AM>
 <AM lemma="Labe_;G" src="manual">NNNS7-----A---8</AM>
 <AM lemma="L-88_:B" src="manual">NNXXX-----A----</AM>
-<AM lemma="L-33" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="L-33" src="manual">NNXXX-----A----</AM>
+<AM lemma="L-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-126-p2s8w2">

@@ -5030,7 +5030,10 @@
 <LM>w#w-ln94208-130-p15s6w5</LM>
 </w.rf>
 <form>spadají</form>
-<tag lemma="spadat" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag>
+<AM lemma="spadat" src="orig">VB-P---3P-AA---</AM>
+<AM lemma="spadat-1_^(do_kategorie)" src="manual" selected="1">VB-P---3P-AAI--</AM>
+</tag>
 </m>
 <m id="m-ln94208-130-p15s6w6">
 <src.rf>manual</src.rf>
@@ -6323,7 +6326,10 @@
 <LM>w#w-ln94208-130-p19s4w18</LM>
 </w.rf>
 <form>San</form>
-<tag lemma="San-2_;G" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="San-2_;G" src="orig">AAXXX----1A----</AM>
+<AM lemma="San-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94208-130-p19s4w19">
 <src.rf>manual</src.rf>

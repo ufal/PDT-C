@@ -2883,7 +2883,10 @@
 <LM>w#w-ln94211-3-p5s6w1</LM>
 </w.rf>
 <form>Nehodí</form>
-<tag lemma="hodit" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag>
+<AM lemma="hodit" src="orig">VB-S---3P-NA---</AM>
+<AM lemma="hodit-2_^(bude_se_hodit)" src="manual" selected="1">VB-S---3P-NAI--</AM>
+</tag>
 </m>
 <m id="m-ln94211-3-p5s6w2">
 <src.rf>manual</src.rf>
@@ -3069,7 +3072,10 @@
 <LM>w#w-ln94211-3-p5s7w13</LM>
 </w.rf>
 <form>nehodí</form>
-<tag lemma="hodit" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag>
+<AM lemma="hodit" src="orig">VB-S---3P-NA---</AM>
+<AM lemma="hodit-2_^(bude_se_hodit)" src="manual" selected="1">VB-S---3P-NAI--</AM>
+</tag>
 </m>
 <m id="m-ln94211-3-p5s7w14">
 <src.rf>manual</src.rf>

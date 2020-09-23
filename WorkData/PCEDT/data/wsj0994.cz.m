@@ -5647,6 +5647,7 @@
 <AM lemma="Las-88" src="auto">BNXXX-----A----</AM>
 <AM lemma="las-77" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="laso" src="auto">NNNP2-----A----</AM>
+<AM lemma="Las-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0994-001-p1s20W11-Ta">

@@ -88,7 +88,10 @@
 <LM>w#w-mf930701-083-p2s1w1</LM>
 </w.rf>
 <form>Střelná</form>
-<tag lemma="střelný" src="orig" selected="1">AAFS1----1A----</tag>
+<tag>
+<AM lemma="střelný" src="orig">AAFS1----1A----</AM>
+<AM lemma="Střelná_;G" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-083-p2s1w2">
 <src.rf>manual</src.rf>
@@ -479,7 +482,10 @@
 <LM>w#w-mf930701-083-p2s3w5</LM>
 </w.rf>
 <form>Střelná</form>
-<tag lemma="střelný" src="orig" selected="1">AAFS1----1A----</tag>
+<tag>
+<AM lemma="střelný" src="orig">AAFS1----1A----</AM>
+<AM lemma="Střelná_;G" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-083-p2s3w6">
 <src.rf>manual</src.rf>
@@ -591,7 +597,10 @@
 <LM>w#w-mf930701-083-p2s3w19</LM>
 </w.rf>
 <form>Horní</form>
-<tag lemma="Horní_;G" src="orig" selected="1">AAFS1----1A----</tag>
+<tag>
+<AM lemma="Horní_;G" src="orig">AAFS1----1A----</AM>
+<AM lemma="horní-1_^(vrchní)" src="manual" selected="1">AAFS1----1A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-083-p2s3w20">
 <src.rf>manual</src.rf>
@@ -649,7 +658,10 @@
 <LM>w#w-mf930701-083-p2s4w2</LM>
 </w.rf>
 <form>cestující</form>
-<tag lemma="cestující_^(*5ovat)" src="orig" selected="1">AGMS1-----A----</tag>
+<tag>
+<AM lemma="cestující_^(*5ovat)" src="orig">AGMS1-----A----</AM>
+<AM lemma="cestující-2" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-083-p2s4w3">
 <src.rf>manual</src.rf>
@@ -731,7 +743,10 @@
 <LM>w#w-mf930701-083-p2s5w2</LM>
 </w.rf>
 <form>Střelné</form>
-<tag lemma="střelný" src="orig" selected="1">AAFS6----1A----</tag>
+<tag>
+<AM lemma="střelný" src="orig">AAFS6----1A----</AM>
+<AM lemma="Střelná_;G" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-083-p2s5w3">
 <src.rf>manual</src.rf>
@@ -819,7 +834,10 @@
 <LM>w#w-mf930701-083-p2s5w13</LM>
 </w.rf>
 <form>cestující</form>
-<tag lemma="cestující_^(*5ovat)" src="orig" selected="1">AGMP1-----A----</tag>
+<tag>
+<AM lemma="cestující_^(*5ovat)" src="orig">AGMP1-----A----</AM>
+<AM lemma="cestující-2" src="manual" selected="1">NNMP1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-083-p2s5w14">
 <src.rf>manual</src.rf>
@@ -883,7 +901,10 @@
 <LM>w#w-mf930701-083-p2s5w21</LM>
 </w.rf>
 <form>Horní</form>
-<tag lemma="Horní_;G" src="orig" selected="1">AAFS2----1A----</tag>
+<tag>
+<AM lemma="Horní_;G" src="orig">AAFS2----1A----</AM>
+<AM lemma="horní-1_^(vrchní)" src="manual" selected="1">AAFS2----1A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-083-p2s5w22">
 <src.rf>manual</src.rf>
@@ -949,7 +970,10 @@
 <LM>w#w-mf930701-083-p2s6w6</LM>
 </w.rf>
 <form>Horní</form>
-<tag lemma="Horní_;G" src="orig" selected="1">AAFS6----1A----</tag>
+<tag>
+<AM lemma="Horní_;G" src="orig">AAFS6----1A----</AM>
+<AM lemma="horní-1_^(vrchní)" src="manual" selected="1">AAFS6----1A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-083-p2s6w7">
 <src.rf>manual</src.rf>
@@ -1066,7 +1090,10 @@
 <LM>w#w-mf930701-083-p2s7w2</LM>
 </w.rf>
 <form>Střelná</form>
-<tag lemma="střelný" src="orig" selected="1">AAFS1----1A----</tag>
+<tag>
+<AM lemma="střelný" src="orig">AAFS1----1A----</AM>
+<AM lemma="Střelná_;G" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-083-p2s7w3">
 <src.rf>manual</src.rf>
@@ -1122,7 +1149,10 @@
 <LM>w#w-mf930701-083-p2s7w9</LM>
 </w.rf>
 <form>Horní</form>
-<tag lemma="Horní_;G" src="orig" selected="1">AAFS1----1A----</tag>
+<tag>
+<AM lemma="Horní_;G" src="orig">AAFS1----1A----</AM>
+<AM lemma="horní-1_^(vrchní)" src="manual" selected="1">AAFS1----1A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-083-p2s7w10">
 <src.rf>manual</src.rf>
@@ -1244,7 +1274,10 @@
 <LM>w#w-mf930701-083-p2s8w13</LM>
 </w.rf>
 <form>Střelné</form>
-<tag lemma="střelný" src="orig" selected="1">AAFS6----1A----</tag>
+<tag>
+<AM lemma="střelný" src="orig">AAFS6----1A----</AM>
+<AM lemma="Střelná_;G" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-083-p2s8w14">
 <src.rf>manual</src.rf>
@@ -1403,7 +1436,11 @@
 <LM>w#w-mf930701-083-p2s10w2</LM>
 </w.rf>
 <form>Střelné</form>
-<tag lemma="střelný" src="orig" selected="1">AAFS2----1A----</tag>
+<tag>
+<AM lemma="střelný" src="orig">AAFS2----1A----</AM>
+<AM lemma="Střelná" src="manual">NNFS2-----A----</AM>
+<AM lemma="Střelná_;G" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-083-p2s10w3">
 <src.rf>manual</src.rf>

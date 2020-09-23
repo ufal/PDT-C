@@ -5305,7 +5305,8 @@
 <form>Koskotasově</form>
 <tag>
 <AM lemma="Koskotasově" src="auto">X@-------------</AM>
-<AM lemma="Koskotasův_;Y_(*2)" src="manual" selected="1">AUFS6M---------</AM>
+<AM lemma="Koskotasův_;Y_(*2)" src="manual">AUFS6M---------</AM>
+<AM lemma="Koskotasův_;Y" src="manual" selected="1">AUFS6M---------</AM>
 </tag>
 </m>
 <m id="m-wsj2431-001-p1s14W10-Ta">
@@ -8308,7 +8309,8 @@
 <form>Papandreouův</form>
 <tag>
 <AM lemma="Papandreouův" src="auto">X@-------------</AM>
-<AM lemma="Papandreouův_;Y_(^*2)" src="manual" selected="1">AUIS4M---------</AM>
+<AM lemma="Papandreouův_;Y_(^*2)" src="manual">AUIS4M---------</AM>
+<AM lemma="Papandreouův_;Y" src="manual" selected="1">AUIS4M---------</AM>
 </tag>
 </m>
 <m id="m-wsj2431-001-p1s22W48-Ta">

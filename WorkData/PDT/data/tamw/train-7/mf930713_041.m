@@ -635,7 +635,10 @@
 <LM>w#w-mf930713-041-p2s1Cw7</LM>
 </w.rf>
 <form>přepadli</form>
-<tag lemma="přepadnout" src="auto" selected="1">VpMP----R-AA---</tag>
+<tag>
+<AM lemma="přepadnout" src="auto">VpMP----R-AA---</AM>
+<AM lemma="přepadnout" src="manual" selected="1">VpMP----R-AAP-1</AM>
+</tag>
 </m>
 <m id="m-mf930713-041-p2s1Cw8">
 <src.rf>manual</src.rf>
@@ -1173,7 +1176,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>přepadl</form>
-<tag lemma="přepadnout" src="auto" selected="1">VpYS----R-AA---</tag>
+<tag>
+<AM lemma="přepadnout" src="auto">VpYS----R-AA---</AM>
+<AM lemma="přepadnout" src="manual" selected="1">VpYS----R-AAP-1</AM>
+</tag>
 </m>
 <m id="m-mf930713-041-p3s1Cw4">
 <src.rf>manual</src.rf>

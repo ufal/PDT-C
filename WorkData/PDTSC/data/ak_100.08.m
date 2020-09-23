@@ -3384,8 +3384,8 @@
 <form>Medical</form>
 <tag>
 <AM lemma="Medical" src="auto">X@-------------</AM>
-<AM lemma="Medical-77" src="manual">F%-------------</AM>
-<AM lemma="medical-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Medical-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="medical-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m100-31-32">

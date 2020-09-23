@@ -4926,13 +4926,14 @@
 </w.rf>
 <form>kup</form>
 <tag>
-<AM lemma="koupit_^(něco_sobě/někomu)" src="auto" selected="1">Vi-S---2--A----</AM>
+<AM lemma="koupit_^(něco_sobě/někomu)" src="auto">Vi-S---2--A----</AM>
 <AM lemma="koupit_^(něco_sobě/někomu)" src="auto">Vi-S---3--A---4</AM>
 <AM lemma="kup" src="auto">NNIS1-----A----</AM>
 <AM lemma="kup" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="kupa" src="auto">NNFP2-----A----</AM>
 <AM lemma="kupit" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="kupit" src="auto">Vi-S---3--A-I-4</AM>
+<AM lemma="koupit" src="manual" selected="1">Vi-S---2--A-P--</AM>
 </tag>
 </m>
 <m id="m014-d1t2145-8">
@@ -5024,6 +5025,7 @@
 <AM lemma="kupa" src="auto">NNFP2-----A----</AM>
 <AM lemma="kupit" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="kupit" src="auto">Vi-S---3--A-I-4</AM>
+<AM lemma="koupit" src="manual" selected="1">Vi-S---2--A-P--</AM>
 </tag>
 </m>
 <m id="m014-d-id125811-punct">

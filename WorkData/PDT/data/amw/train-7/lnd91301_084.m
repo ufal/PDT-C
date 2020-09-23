@@ -45,7 +45,11 @@
 <LM>w#w-lnd91301-084-p2s1w1</LM>
 </w.rf>
 <form>NEW</form>
-<tag lemma="New-1_;G_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="NEW-77" src="manual">F%-------------</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91301-084-p2s1w2">
 <src.rf>manual</src.rf>
@@ -53,7 +57,11 @@
 <LM>w#w-lnd91301-084-p2s1w2</LM>
 </w.rf>
 <form>YORK</form>
-<tag lemma="York-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="York-1_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="YORK-77" src="manual">F%-------------</AM>
+<AM lemma="York-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91301-084-p2s1w3">
 <src.rf>manual</src.rf>

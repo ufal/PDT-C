@@ -1888,7 +1888,10 @@
 <LM>w#w-lnd92259-010-p4s2w14</LM>
 </w.rf>
 <form>New</form>
-<tag lemma="New-1_;G_^(součást_míst._jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="New-1_;G_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92259-010-p4s2w15">
 <src.rf>manual</src.rf>

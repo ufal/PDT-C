@@ -401,7 +401,10 @@
 <LM>w#w-mf930713-084-p1s3w14</LM>
 </w.rf>
 <form>odlétal</form>
-<tag lemma="odlétat" src="orig" selected="1">VpYS----R-AA---</tag>
+<tag>
+<AM lemma="odlétat" src="orig">VpYS----R-AA---</AM>
+<AM lemma="odlétat-1_^(letem_se_vzdalovat)" src="manual" selected="1">VpYS----R-AAI--</AM>
+</tag>
 </m>
 <m id="m-mf930713-084-p1s3w15">
 <src.rf>manual</src.rf>

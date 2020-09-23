@@ -3390,7 +3390,8 @@
 <form>New</form>
 <tag>
 <AM lemma="New-1_;G_,t_^(součást_míst._jmen)" src="orig">AAXXX----1A----</AM>
-<AM lemma="New-1_;G_^(součást_míst._jmen)" src="manual" selected="1">AAXXX----1A----</AM>
+<AM lemma="New-1_;G_^(součást_míst._jmen)" src="manual">AAXXX----1A----</AM>
+<AM lemma="New-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92257-003-p8s2w35">
@@ -3399,7 +3400,10 @@
 <LM>w#w-lnd92257-003-p8s2w35</LM>
 </w.rf>
 <form>Jersey</form>
-<tag lemma="Jersey_;G" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Jersey_;G" src="orig">NNNXX-----A----</AM>
+<AM lemma="Jersey-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92257-003-p8s2w36">
 <src.rf>manual</src.rf>

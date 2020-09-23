@@ -3437,7 +3437,10 @@
 <LM>w#w-d1t2893-9</LM>
 </w.rf>
 <form>nehodím</form>
-<tag lemma="hodit" src="auto" recommended="1">VB-S---1P-NA---</tag>
+<tag>
+<AM lemma="hodit" src="auto" recommended="1">VB-S---1P-NA---</AM>
+<AM lemma="hodit-2_^(bude_se_hodit)" src="manual" selected="1">VB-S---1P-NAI--</AM>
+</tag>
 </m>
 <m id="m148-d1e2886-x2-1456">
 <w.rf>

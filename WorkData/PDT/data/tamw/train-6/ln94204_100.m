@@ -3791,7 +3791,8 @@
 <tag>
 <AM lemma="smrt" src="orig">NNFS3-----A----</AM>
 <AM lemma="Smrti-77" src="manual">F%-------------</AM>
-<AM lemma="smrti-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="smrti-77" src="manual">F%-------------</AM>
+<AM lemma="smrt" src="manual" selected="1">NNFP1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-100-p5s1w21">

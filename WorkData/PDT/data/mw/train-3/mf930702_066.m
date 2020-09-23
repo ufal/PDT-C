@@ -95,7 +95,8 @@
 <form>a</form>
 <tag>
 <AM lemma="akciový_:B_^(jen_akciová_společnost)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="akciový_^(jen_akciová_společnost)" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="akciový_^(jen_akciová_společnost)" src="manual">AAXXX----1A---8</AM>
+<AM lemma="akciový" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-mf930702-066-p2s1w8">

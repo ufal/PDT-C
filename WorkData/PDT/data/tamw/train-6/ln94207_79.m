@@ -20380,7 +20380,10 @@
 <LM>w#w-ln94207-79-p42s2w18</LM>
 </w.rf>
 <form>hozeni</form>
-<tag lemma="hodit" src="orig" selected="1">VsMP----X-AP---</tag>
+<tag>
+<AM lemma="hodit" src="orig">VsMP----X-AP---</AM>
+<AM lemma="hodit-1" src="manual" selected="1">VsMP----X-APP--</AM>
+</tag>
 </m>
 <m id="m-ln94207-79-p42s2w19">
 <src.rf>manual</src.rf>
@@ -21062,7 +21065,10 @@
 <LM>w#w-ln94207-79-p43s1Bw19</LM>
 </w.rf>
 <form>Nenechte</form>
-<tag lemma="nechat" src="orig" selected="1">Vi-P---2--N----</tag>
+<tag>
+<AM lemma="nechat" src="orig">Vi-P---2--N----</AM>
+<AM lemma="nechat" src="manual" selected="1">Vi-P---2--N-P-1</AM>
+</tag>
 </m>
 <m id="m-ln94207-79-p43s1Bw20">
 <src.rf>manual</src.rf>

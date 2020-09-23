@@ -2316,7 +2316,8 @@
 <form>odlepkovávají</form>
 <tag>
 <AM lemma="odlepkovávají" src="auto">X@-------------</AM>
-<AM lemma="odlepkovávat" src="manual" selected="1">VB-P---3P-AA---</AM>
+<AM lemma="odlepkovávat" src="manual">VB-P---3P-AA---</AM>
+<AM lemma="odlepkovávat" src="manual" selected="1">VB-P---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m049-d1t4606-6">

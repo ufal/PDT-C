@@ -6732,7 +6732,8 @@
 <form>Newhousově</form>
 <tag>
 <AM lemma="Newhousově" src="auto">X@-------------</AM>
-<AM lemma="Newhousův_;Y_(^*2e)" src="manual" selected="1">AUFS6M---------</AM>
+<AM lemma="Newhousův_;Y_(^*2e)" src="manual">AUFS6M---------</AM>
+<AM lemma="Newhousův_;Y" src="manual" selected="1">AUFS6M---------</AM>
 </tag>
 </m>
 <m id="m-wsj0453-001-p1s24W46-Ta">

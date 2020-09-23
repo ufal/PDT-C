@@ -3367,7 +3367,8 @@
 <form>pobalíme</form>
 <tag>
 <AM lemma="pobalíme" src="auto">X@-------------</AM>
-<AM lemma="pobalít" src="manual" selected="1">VB-P---1P-AA---</AM>
+<AM lemma="pobalít" src="manual">VB-P---1P-AA---</AM>
+<AM lemma="pobalít" src="manual" selected="1">VB-P---1P-AAP--</AM>
 </tag>
 </m>
 <m id="m796-2057-2073">

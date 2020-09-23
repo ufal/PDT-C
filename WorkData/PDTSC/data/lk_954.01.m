@@ -2662,7 +2662,8 @@
 <AM lemma="socialismus_,s_^(^DD**socializmus)" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="socialismus_,s_^(^DD**socializmus)" src="auto">NNIS3-----A----</AM>
 <AM lemma="socialismus_,s_^(^DD**socializmus)" src="auto">NNIS6-----A----</AM>
-<AM lemma="socialismus_,s" src="manual" selected="1">_^(^DD**socializmus)</AM>
+<AM lemma="socialismus_,s" src="manual">_^(^DD**socializmus)</AM>
+<AM lemma="socialismus_,s_^(^DD**socializmus)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m954-d-id73854">

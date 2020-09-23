@@ -5742,7 +5742,10 @@
 <LM>w#w-cmpr9406-065-p21s1w1</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="M-0_;Y" src="orig" selected="1">NNMXX-----A---b</tag>
+<tag>
+<AM lemma="M-0_;Y" src="orig">NNMXX-----A---b</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-065-p21s1w2">
 <src.rf>manual</src.rf>

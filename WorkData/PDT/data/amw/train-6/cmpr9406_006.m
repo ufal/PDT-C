@@ -4556,7 +4556,10 @@
 <LM>w#w-cmpr9406-006-p15s2w8</LM>
 </w.rf>
 <form>stát</form>
-<tag lemma="stát-4_^(něco_stojí_peníze)" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="stát-4_^(něco_stojí_peníze)" src="orig">Vf--------A----</AM>
+<AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">Vf--------A-I--</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-006-p15s2w9">
 <src.rf>manual</src.rf>

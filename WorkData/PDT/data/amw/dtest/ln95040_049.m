@@ -2740,7 +2740,10 @@
 <LM>w#w-ln95040-049-p6s2w54</LM>
 </w.rf>
 <form>Los</form>
-<tag lemma="Los-1_;G_^(součást_cizích_jmen)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Los-1_;G_^(součást_cizích_jmen)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Los-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-049-p6s2w55">
 <src.rf>manual</src.rf>
@@ -2748,7 +2751,10 @@
 <LM>w#w-ln95040-049-p6s2w55</LM>
 </w.rf>
 <form>Angeles</form>
-<tag lemma="Angeles_;G" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Angeles_;G" src="orig">NNNXX-----A----</AM>
+<AM lemma="Angeles-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-049-p6s2w56">
 <src.rf>manual</src.rf>

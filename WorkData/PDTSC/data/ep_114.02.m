@@ -759,7 +759,8 @@
 <form>navzdouvala</form>
 <tag>
 <AM lemma="navzdouvala" src="auto">X@-------------</AM>
-<AM lemma="navzdouvat" src="manual" selected="1">VpQW----R-AA---</AM>
+<AM lemma="navzdouvat" src="manual">VpQW----R-AA---</AM>
+<AM lemma="navzdouvat" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m114-d1t583-12">
@@ -6911,10 +6912,10 @@
 <w.rf>
 <LM>w#w-d1t781-3</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>1.20</form>
-<tag>
-<AM lemma="1.20" src="auto" recommended="1">C=-------------</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="1.20" src="auto" recommended="1">C=-------------</tag>
+</m>
 <m id="m114-d1e770-x2-438">
 <w.rf>
 <LM>w#w-d1e770-x2-438</LM>

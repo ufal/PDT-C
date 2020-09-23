@@ -465,7 +465,10 @@
 <LM>w#w-ln95040-042-p2s2w25</LM>
 </w.rf>
 <form>spadá</form>
-<tag lemma="spadat" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="spadat" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="spadat-1_^(do_kategorie)" src="manual" selected="1">VB-S---3P-AAI--</AM>
+</tag>
 </m>
 <m id="m-ln95040-042-p2s2w26">
 <src.rf>manual</src.rf>
@@ -3734,12 +3737,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>nemusej'</form>
-<tag lemma="muset" src="orig" selected="1">VB-P---3P-NA--6</tag>
-<comment>
-<LM type="Other">
-<text>2v1: nemusej '</text>
-</LM>
-</comment>
+<tag>
+<AM lemma="muset" src="orig">VB-P---3P-NA--6</AM>
+<AM lemma="muset" src="manual" selected="1">VB-P---3P-NAI-6</AM>
+</tag>
 </m>
 <m id="m-ln95040-042-p5s5w14">
 <src.rf>manual</src.rf>

@@ -326,7 +326,10 @@
 <LM>w#w-lnd94101-068-p1s3w3</LM>
 </w.rf>
 <form>Legruti</form>
-<tag lemma="legrut" src="orig" selected="1">NNMP1-----A----</tag>
+<tag>
+<AM lemma="legrut" src="orig">NNMP1-----A----</AM>
+<AM lemma="Legruti-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94101-068-p1s3w4">
 <src.rf>manual</src.rf>
@@ -334,7 +337,10 @@
 <LM>w#w-lnd94101-068-p1s3w4</LM>
 </w.rf>
 <form>jedú</form>
-<tag lemma="jedú" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag>
+<AM lemma="jedú" src="orig">VB-P---3P-AA---</AM>
+<AM lemma="jedú-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94101-068-p1s3w5">
 <src.rf>manual</src.rf>

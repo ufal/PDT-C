@@ -2832,7 +2832,10 @@
 <LM>w#w-d1t665-17</LM>
 </w.rf>
 <form>odlétali</form>
-<tag lemma="odlétat" src="auto" recommended="1">VpMP----R-AA---</tag>
+<tag>
+<AM lemma="odlétat" src="auto" recommended="1">VpMP----R-AA---</AM>
+<AM lemma="odlétat-1_^(letem_se_vzdalovat)" src="manual" selected="1">VpMP----R-AAI--</AM>
+</tag>
 </m>
 <m id="m118-d1t665-18">
 <w.rf>

@@ -3970,7 +3970,10 @@
 <LM>w#w-lnd91301-064-p11s4w2</LM>
 </w.rf>
 <form>Sovětskaja</form>
-<tag lemma="Sovětskij_;m" src="orig" selected="1">AAFS1----1A----</tag>
+<tag>
+<AM lemma="Sovětskij_;m" src="orig">AAFS1----1A----</AM>
+<AM lemma="Sovětskaja-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91301-064-p11s4w3">
 <src.rf>manual</src.rf>
@@ -3978,7 +3981,10 @@
 <LM>w#w-lnd91301-064-p11s4w3</LM>
 </w.rf>
 <form>Rosija</form>
-<tag lemma="Rosija_;m" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Rosija_;m" src="orig">NNFS1-----A----</AM>
+<AM lemma="Rosija-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd91301-064-p11s4w4">
 <src.rf>manual</src.rf>

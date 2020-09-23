@@ -21,7 +21,8 @@
 <form>Karoshi</form>
 <tag>
 <AM lemma="karoshi_,t" src="orig">NNNS1-----A----</AM>
-<AM lemma="karoshi-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="karoshi-77" src="manual">F%-------------</AM>
+<AM lemma="karoshi" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-023-p1s1w2">
@@ -563,7 +564,8 @@
 <form>karoshi</form>
 <tag>
 <AM lemma="karoshi_,t" src="orig">NNNS1-----A----</AM>
-<AM lemma="karoshi-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="karoshi-77" src="manual">F%-------------</AM>
+<AM lemma="karoshi" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-023-p3s1w4">
@@ -2067,7 +2069,8 @@
 <form>karoshi</form>
 <tag>
 <AM lemma="karoshi_,t" src="orig">NNNS4-----A----</AM>
-<AM lemma="karoshi-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="karoshi-77" src="manual">F%-------------</AM>
+<AM lemma="karoshi" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-023-p4s2w30">

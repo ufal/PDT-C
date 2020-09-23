@@ -1830,7 +1830,10 @@
 <LM>w#w-ln95049-066-p6s1w5</LM>
 </w.rf>
 <form>spadá</form>
-<tag lemma="spadat" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="spadat" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="spadat-1_^(do_kategorie)" src="manual" selected="1">VB-S---3P-AAI--</AM>
+</tag>
 </m>
 <m id="m-ln95049-066-p6s1w6">
 <src.rf>manual</src.rf>
@@ -4503,7 +4506,10 @@
 <LM>w#w-ln95049-066-p12s1w43</LM>
 </w.rf>
 <form>Poklonné</form>
-<tag lemma="Poklonný_;G" src="orig" selected="1">AAFS6----1A----</tag>
+<tag>
+<AM lemma="Poklonný_;G" src="orig">AAFS6----1A----</AM>
+<AM lemma="poklonný" src="manual" selected="1">AAFS6----1A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-066-p12s1w44">
 <src.rf>manual</src.rf>

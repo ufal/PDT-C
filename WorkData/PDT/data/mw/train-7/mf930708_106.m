@@ -221,7 +221,10 @@
 <LM>w#w-mf930708-106-p2s1w22</LM>
 </w.rf>
 <form>Wimbledonu</form>
-<tag lemma="Wimbledon" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="Wimbledon" src="orig">NNIS2-----A----</AM>
+<AM lemma="Wimbledon_;m" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-106-p2s1w23">
 <src.rf>manual</src.rf>
@@ -237,7 +240,10 @@
 <LM>w#w-mf930708-106-p2s1w24</LM>
 </w.rf>
 <form>spadá</form>
-<tag lemma="spadat" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="spadat" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="spadat-1_^(do_kategorie)" src="manual" selected="1">VB-S---3P-AAI--</AM>
+</tag>
 </m>
 <m id="m-mf930708-106-p2s1w25">
 <src.rf>manual</src.rf>

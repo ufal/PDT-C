@@ -5963,7 +5963,8 @@
 <form>Podolskij</form>
 <tag>
 <AM lemma="Podolskij" src="auto">X@-------------</AM>
-<AM lemma="Podolský-2_;G" src="manual" selected="1">AAIS1----1A---1</AM>
+<AM lemma="Podolský-2_;G" src="manual">AAIS1----1A---1</AM>
+<AM lemma="Podolskij-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m975-id61099-x2-217">

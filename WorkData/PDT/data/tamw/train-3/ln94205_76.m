@@ -1615,7 +1615,10 @@
 <LM>w#w-ln94205-76-p4s2w10</LM>
 </w.rf>
 <form>přepadlo</form>
-<tag lemma="přepadnout" src="auto" selected="1">VpNS----R-AA---</tag>
+<tag>
+<AM lemma="přepadnout" src="auto">VpNS----R-AA---</AM>
+<AM lemma="přepadnout" src="manual" selected="1">VpNS----R-AAP-1</AM>
+</tag>
 </m>
 <m id="m-ln94205-76-p4s2w11">
 <src.rf>manual</src.rf>

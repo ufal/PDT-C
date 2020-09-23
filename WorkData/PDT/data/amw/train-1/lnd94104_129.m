@@ -211,7 +211,10 @@
 <LM>w#w-lnd94104-129-p1s2w3</LM>
 </w.rf>
 <form>odlétám</form>
-<tag lemma="odlétat" src="orig" selected="1">VB-S---1P-AA---</tag>
+<tag>
+<AM lemma="odlétat" src="orig">VB-S---1P-AA---</AM>
+<AM lemma="odlétat-1_^(letem_se_vzdalovat)" src="manual" selected="1">VB-S---1P-AAI--</AM>
+</tag>
 </m>
 <m id="m-lnd94104-129-p1s2w4">
 <src.rf>manual</src.rf>

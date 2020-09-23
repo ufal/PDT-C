@@ -1751,7 +1751,10 @@
 <LM>w#w-cmpr9406-037-p11s4w9</LM>
 </w.rf>
 <form>Půhoný</form>
-<tag lemma="Půhoný_;Y" src="orig" selected="1">AAMS1----1A----</tag>
+<tag>
+<AM lemma="Půhoný_;Y" src="orig">AAMS1----1A----</AM>
+<AM lemma="Půhoný_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-037-p11s4w10">
 <src.rf>manual</src.rf>
@@ -3894,7 +3897,10 @@
 <LM>w#w-cmpr9406-037-p17s4w13</LM>
 </w.rf>
 <form>Půhoný</form>
-<tag lemma="Půhoný_;Y" src="orig" selected="1">AAMS1----1A----</tag>
+<tag>
+<AM lemma="Půhoný_;Y" src="orig">AAMS1----1A----</AM>
+<AM lemma="Půhoný_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-037-p17s4w14">
 <src.rf>manual</src.rf>
@@ -4522,7 +4528,10 @@
 <LM>w#w-cmpr9406-037-p18s6w14</LM>
 </w.rf>
 <form>Půhoný</form>
-<tag lemma="Půhoný_;Y" src="orig" selected="1">AAMS1----1A----</tag>
+<tag>
+<AM lemma="Půhoný_;Y" src="orig">AAMS1----1A----</AM>
+<AM lemma="Půhoný_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-037-p18s6w15">
 <src.rf>manual</src.rf>
@@ -6025,7 +6034,10 @@
 <LM>w#w-cmpr9406-037-p23s5w21</LM>
 </w.rf>
 <form>Půhoný</form>
-<tag lemma="Půhoný_;Y" src="orig" selected="1">AAMS1----1A----</tag>
+<tag>
+<AM lemma="Půhoný_;Y" src="orig">AAMS1----1A----</AM>
+<AM lemma="Půhoný_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-037-p23s5w22">
 <src.rf>manual</src.rf>
@@ -6428,7 +6440,10 @@
 <LM>w#w-cmpr9406-037-p25s3w14</LM>
 </w.rf>
 <form>nespadá</form>
-<tag lemma="spadat" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag>
+<AM lemma="spadat" src="orig">VB-S---3P-NA---</AM>
+<AM lemma="spadat-1_^(do_kategorie)" src="manual" selected="1">VB-S---3P-NAI--</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-037-p25s3w15">
 <src.rf>manual</src.rf>

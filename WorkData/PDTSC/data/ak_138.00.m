@@ -2143,7 +2143,7 @@
 <AM lemma="Horní_;G" src="auto">AAMS2----1A----</AM>
 <AM lemma="Horní_;G" src="auto">AAMS4----1A----</AM>
 <AM lemma="Horní_;G" src="auto">AANS2----1A----</AM>
-<AM lemma="horní-1_^(vrchní)" src="auto">AAIS2----1A----</AM>
+<AM lemma="horní-1_^(vrchní)" src="auto" selected="1">AAIS2----1A----</AM>
 <AM lemma="horní-1_^(vrchní)" src="auto">AAMS2----1A----</AM>
 <AM lemma="horní-1_^(vrchní)" src="auto">AAMS4----1A----</AM>
 <AM lemma="horní-1_^(vrchní)" src="auto">AANS2----1A----</AM>
@@ -2845,6 +2845,7 @@
 <AM lemma="horní-2_^(důlní)" src="auto">AANS1----1A----</AM>
 <AM lemma="horní-2_^(důlní)" src="auto">AANS4----1A----</AM>
 <AM lemma="horní-2_^(důlní)" src="auto">AANS5----1A----</AM>
+<AM lemma="horní-1_^(vrchní)" src="manual" selected="1">AAIS1----1A----</AM>
 </tag>
 </m>
 <m id="m138-d1t273-16">

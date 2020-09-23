@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_36_schema.xml"></schema>
+<schema href="mdata_36_schema.xml" />
 <references>
-<reffile id="w" name="wdata" href="dk_111.06.w"></reffile>
+<reffile id="w" name="wdata" href="dk_111.06.w" />
 </references>
 </head>
 <s id="m111-235">
@@ -70,23 +70,23 @@
 <LM>w#w-d1t881-14</LM>
 </w.rf>
 <form>100</form>
-<tag>
-<AM lemma="100" src="auto" recommended="1">C=-------------</AM></tag>
-</m><m id="m111-d1t881-14-sw1">
+<tag lemma="100" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m111-d1t881-14-sw1">
 <w.rf>
 <LM>w#w-d1t881-14</LM>
 </w.rf>
 <form>+</form>
-<tag>
-<AM lemma="+" src="auto" recommended="1">Z:-------------</AM></tag>
-</m><m id="m111-d1t881-14-sw2">
+<tag lemma="+" src="auto" recommended="1">Z:-------------</tag>
+</m>
+<m id="m111-d1t881-14-sw2">
 <w.rf>
 <LM>w#w-d1t881-14</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>1</form>
-<tag>
-<AM lemma="1" src="auto" recommended="1">C=-------------</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="1" src="auto" recommended="1">C=-------------</tag>
+</m>
 <m id="m111-d1t883-2">
 <w.rf>
 <LM>w#w-d1t883-2</LM>
@@ -2595,7 +2595,7 @@
 </w.rf>
 <form>Saint</form>
 <tag>
-<AM lemma="Saint-77" src="auto">F%-------------</AM>
+<AM lemma="Saint-77" src="auto" selected="1">F%-------------</AM>
 <AM lemma="Saint_;G_,t_^(Saint-Trinité)" src="auto">A2--------A----</AM>
 <AM lemma="saint-77" src="auto" recommended="1">F%-------------</AM>
 </tag>
@@ -2612,7 +2612,10 @@
 <LM>w#w-d1t963-14</LM>
 </w.rf>
 <form>Tropez</form>
-<tag lemma="Tropez_;G_^(Saint_Tropez)" src="auto" recommended="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Tropez_;G_^(Saint_Tropez)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Tropez-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m111-400-402">
 <w.rf>

@@ -3007,7 +3007,10 @@
 <LM>w#w-ln95044-118-p4s3w15</LM>
 </w.rf>
 <form>nepřepadl</form>
-<tag lemma="přepadnout" src="auto" selected="1">VpYS----R-NA---</tag>
+<tag>
+<AM lemma="přepadnout" src="auto">VpYS----R-NA---</AM>
+<AM lemma="přepadnout" src="manual" selected="1">VpYS----R-NAP-1</AM>
+</tag>
 </m>
 <m id="m-ln95044-118-p4s3w16">
 <src.rf>manual</src.rf>

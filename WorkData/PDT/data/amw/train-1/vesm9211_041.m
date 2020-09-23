@@ -2219,7 +2219,10 @@
 <LM>w#w-vesm9211-041-p6s2w1</LM>
 </w.rf>
 <form>Nepoškrabte</form>
-<tag lemma="poškrabat" src="orig" selected="1">Vi-P---2--N----</tag>
+<tag>
+<AM lemma="poškrabat" src="orig">Vi-P---2--N----</AM>
+<AM lemma="poškrabat" src="manual" selected="1">Vi-P---2--N-P-1</AM>
+</tag>
 </m>
 <m id="m-vesm9211-041-p6s2w2">
 <src.rf>manual</src.rf>

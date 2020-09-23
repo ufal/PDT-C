@@ -490,7 +490,10 @@
 <LM>w#w-ln94200-101-p3s1w10</LM>
 </w.rf>
 <form>odlétá</form>
-<tag lemma="odlétat" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="odlétat" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="odlétat-1_^(letem_se_vzdalovat)" src="manual" selected="1">VB-S---3P-AAI--</AM>
+</tag>
 </m>
 <m id="m-ln94200-101-p3s1w11">
 <src.rf>manual</src.rf>

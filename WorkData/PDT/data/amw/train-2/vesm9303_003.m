@@ -1448,7 +1448,8 @@
 <form>mechanismu</form>
 <tag>
 <AM lemma="mechanismus" src="orig">NNIS2-----A----</AM>
-<AM lemma="mechanismus_,s" src="manual" selected="1">_^(^DD**mechanizmus)</AM>
+<AM lemma="mechanismus_,s" src="manual">_^(^DD**mechanizmus)</AM>
+<AM lemma="mechanismus_,s_^(^DD**mechanizmus)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-003-p2s4w22">
@@ -2826,7 +2827,10 @@
 <LM>w#w-vesm9303-003-p5s3w7</LM>
 </w.rf>
 <form>čtyř</form>
-<tag lemma="čtyři`4" src="orig" selected="1">Cl-P2----------</tag>
+<tag>
+<AM lemma="čtyři`4" src="orig">Cl-P2----------</AM>
+<AM lemma="čtyř`4" src="manual" selected="1">S2--------A----</AM>
+</tag>
 </m>
 <m id="m-vesm9303-003-p5s3w8">
 <src.rf>manual</src.rf>
@@ -2842,7 +2846,10 @@
 <LM>w#w-vesm9303-003-p5s3w9</LM>
 </w.rf>
 <form>tří</form>
-<tag lemma="tři`3" src="orig" selected="1">Cl-P2----------</tag>
+<tag>
+<AM lemma="tři`3" src="orig">Cl-P2----------</AM>
+<AM lemma="tří`3" src="manual" selected="1">S2--------A----</AM>
+</tag>
 </m>
 <m id="m-vesm9303-003-p5s3w10">
 <src.rf>manual</src.rf>
@@ -2954,7 +2961,10 @@
 <LM>w#w-vesm9303-003-p5s3w23</LM>
 </w.rf>
 <form>kompaktifikují</form>
-<tag lemma="kompaktifikovat" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag>
+<AM lemma="kompaktifikovat" src="orig">VB-P---3P-AA---</AM>
+<AM lemma="kompaktifikovat" src="manual" selected="1">VB-P---3P-AAB--</AM>
+</tag>
 </m>
 <m id="m-vesm9303-003-p5s3w24">
 <src.rf>manual</src.rf>

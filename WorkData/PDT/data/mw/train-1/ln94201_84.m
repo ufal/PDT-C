@@ -1739,7 +1739,10 @@
 <LM>w#w-ln94201-84-p3s5w17</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="M-0_;Y" src="orig" selected="1">NNMXX-----A---b</tag>
+<tag>
+<AM lemma="M-0_;Y" src="orig">NNMXX-----A---b</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-84-p3s5w18">
 <src.rf>manual</src.rf>

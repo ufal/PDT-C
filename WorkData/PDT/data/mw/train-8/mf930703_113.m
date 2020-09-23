@@ -386,7 +386,10 @@
 <LM>w#w-mf930703-113-p2s2w17</LM>
 </w.rf>
 <form>Pec</form>
-<tag lemma="pec" src="orig" selected="1">NNFS4-----A----</tag>
+<tag>
+<AM lemma="pec" src="orig">NNFS4-----A----</AM>
+<AM lemma="Pec_;G" src="manual" selected="1">NNFS4-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-113-p2s2w18">
 <src.rf>manual</src.rf>
@@ -402,7 +405,10 @@
 <LM>w#w-mf930703-113-p2s2w19</LM>
 </w.rf>
 <form>Horní</form>
-<tag lemma="Horní_;G" src="orig" selected="1">AAFS4----1A----</tag>
+<tag>
+<AM lemma="Horní_;G" src="orig">AAFS4----1A----</AM>
+<AM lemma="horní-1_^(vrchní)" src="manual" selected="1">AAFS4----1A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-113-p2s2w20">
 <src.rf>manual</src.rf>

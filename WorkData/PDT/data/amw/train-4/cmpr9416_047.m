@@ -539,7 +539,10 @@
 <LM>w#w-cmpr9416-047-p4s7w4</LM>
 </w.rf>
 <form>hřát</form>
-<tag lemma="hřát" src="orig" selected="1">VsYS----X-AP---</tag>
+<tag>
+<AM lemma="hřát" src="orig">VsYS----X-AP---</AM>
+<AM lemma="hřát" src="manual" selected="1">Vf--------A-I--</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-047-p4s7w5">
 <src.rf>manual</src.rf>

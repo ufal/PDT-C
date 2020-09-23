@@ -4094,9 +4094,9 @@
 </w.rf>
 <form>Husajního</form>
 <tag>
-<AM lemma="Husajní_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Husajní_;Y" src="orig" selected="1">NNMS2-----A----</AM>
 <AM lemma="Husajní_;Y" src="auto">AAIS2----1A----</AM>
-<AM lemma="Husajní_;Y" src="auto" recommended="1" selected="1">AAMS2----1A----</AM>
+<AM lemma="Husajní_;Y" src="auto" recommended="1">AAMS2----1A----</AM>
 <AM lemma="Husajní_;Y" src="auto">AAMS4----1A----</AM>
 <AM lemma="Husajní_;Y" src="auto">AANS2----1A----</AM>
 </tag>

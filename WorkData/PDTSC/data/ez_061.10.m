@@ -1193,7 +1193,8 @@
 <form>ošplouchnout</form>
 <tag>
 <AM lemma="ošplouchnout" src="auto">X@-------------</AM>
-<AM lemma="ošplouchnout_,h" src="manual" selected="1">Vf--------A----</AM>
+<AM lemma="ošplouchnout_,h" src="manual">Vf--------A----</AM>
+<AM lemma="ošplouchnout_,h" src="manual" selected="1">Vf--------A-P--</AM>
 </tag>
 </m>
 <m id="m061-882-894">

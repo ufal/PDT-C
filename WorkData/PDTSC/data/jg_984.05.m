@@ -3319,7 +3319,10 @@
 <LM>w#w-d1t1802-11</LM>
 </w.rf>
 <form>nespadali</form>
-<tag lemma="spadat" src="auto" recommended="1">VpMP----R-NA---</tag>
+<tag>
+<AM lemma="spadat" src="auto" recommended="1">VpMP----R-NA---</AM>
+<AM lemma="spadat-1_^(do_kategorie)" src="manual" selected="1">VpMP----R-NAI--</AM>
+</tag>
 </m>
 <m id="m984-419-638">
 <w.rf>

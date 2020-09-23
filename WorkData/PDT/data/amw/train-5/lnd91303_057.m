@@ -568,7 +568,10 @@
 <LM>w#w-lnd91303-057-p3s3w10</LM>
 </w.rf>
 <form>pochybělo</form>
-<tag lemma="pochybět" src="orig" selected="1">VpNS----R-AA---</tag>
+<tag>
+<AM lemma="pochybět" src="orig">VpNS----R-AA---</AM>
+<AM lemma="pochybět" src="manual" selected="1">VpNS----R-AAI--</AM>
+</tag>
 </m>
 <m id="m-lnd91303-057-p3s3w11">
 <src.rf>manual</src.rf>

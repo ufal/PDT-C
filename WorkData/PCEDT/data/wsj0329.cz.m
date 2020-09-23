@@ -455,6 +455,7 @@
 <w.rf>
 <LM>w#w-wsj0329-001-p1s1W1</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Dallaský</form>
 <tag>
 <AM lemma="dallaský" src="auto">AAFP1----1A---6</AM>
@@ -479,8 +480,9 @@
 <AM lemma="dallaský" src="auto">AANP5----1A---6</AM>
 <AM lemma="dallaský" src="auto">AANS1----1A---6</AM>
 <AM lemma="dallaský" src="auto">AANS4----1A---6</AM>
-<AM lemma="dallaský" src="auto">AANS5----1A---6</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="dallaský" src="auto">AANS5----1A---6</AM>
+</tag>
+</m>
 <m id="m-wsj0329-001-p1s1W2-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -1128,7 +1130,8 @@
 <AM lemma="on-1" src="auto">P5FS4--3------6</AM>
 <AM lemma="on-1" src="auto" recommended="1">P5FS6--3-------</AM>
 <AM lemma="on-1" src="auto">P5FS7--3-------</AM>
-<AM lemma="ní_,i_(12%-ní)" src="manual" selected="1">AAIP4----1A----</AM>
+<AM lemma="ní_,i_(12%-ní)" src="manual">AAIP4----1A----</AM>
+<AM lemma="ní_,i_^(12%-ní)" src="manual" selected="1">SAIP4----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0329-001-p1s1W55-Ta">

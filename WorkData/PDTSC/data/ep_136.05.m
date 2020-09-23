@@ -2278,7 +2278,10 @@
 <LM>w#w-d1t2399-13</LM>
 </w.rf>
 <form>přepadla</form>
-<tag lemma="přepadnout" src="auto" recommended="1">VpQW----R-AA---</tag>
+<tag>
+<AM lemma="přepadnout" src="auto" recommended="1">VpQW----R-AA---</AM>
+<AM lemma="přepadnout" src="manual" selected="1">VpQW----R-AAP-1</AM>
+</tag>
 </m>
 <m id="m136-d1t2399-11">
 <w.rf>

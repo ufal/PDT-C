@@ -315,7 +315,10 @@
 <LM>w#w-ln95042-052-p2s2w12</LM>
 </w.rf>
 <form>setlo</form>
-<tag lemma="setnout" src="orig" selected="1">VpNS----R-AA---</tag>
+<tag>
+<AM lemma="setnout" src="orig">VpNS----R-AA---</AM>
+<AM lemma="setnout" src="manual" selected="1">VpNS----R-AAP-6</AM>
+</tag>
 </m>
 <m id="m-ln95042-052-p2s2w13">
 <src.rf>manual</src.rf>

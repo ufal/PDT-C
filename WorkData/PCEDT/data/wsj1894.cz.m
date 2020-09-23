@@ -149,7 +149,8 @@
 <form>Parrettiovi</form>
 <tag>
 <AM lemma="Parrettiovi" src="auto">X@-------------</AM>
-<AM lemma="Parretti_S" src="manual" selected="1">NNMS3-----A----</AM>
+<AM lemma="Parretti_S" src="manual">NNMS3-----A----</AM>
+<AM lemma="Parretti_;Y" src="manual" selected="1">NNMS3-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1894-001-p1s0W12-Ta">
@@ -450,12 +451,14 @@
 <w.rf>
 <LM>w#w-wsj1894-001-p1s0W33</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>která</form>
 <tag>
 <AM lemma="který" src="auto" recommended="1">P4FS1----------</AM>
 <AM lemma="který" src="auto">P4NP1----------</AM>
-<AM lemma="který" src="auto">P4NP4----------</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="který" src="auto">P4NP4----------</AM>
+</tag>
+</m>
 <m id="m-wsj1894-001-p1s0W34-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -1156,6 +1159,7 @@
 <w.rf>
 <LM>w#w-wsj1894-001-p1s2W17</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>bankrotový</form>
 <tag>
 <AM lemma="bankrotový" src="auto">AAFP1----1A---6</AM>
@@ -1180,8 +1184,9 @@
 <AM lemma="bankrotový" src="auto">AANP5----1A---6</AM>
 <AM lemma="bankrotový" src="auto">AANS1----1A---6</AM>
 <AM lemma="bankrotový" src="auto">AANS4----1A---6</AM>
-<AM lemma="bankrotový" src="auto">AANS5----1A---6</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="bankrotový" src="auto">AANS5----1A---6</AM>
+</tag>
+</m>
 <m id="m-wsj1894-001-p1s2W18-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

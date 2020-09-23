@@ -6311,7 +6311,8 @@
 <tag>
 <AM lemma="Monoceros_;G_,t" src="orig">NNMS1-----A----</AM>
 <AM lemma="monoceros_;U_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="monoceros-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="monoceros-77" src="manual">F%-------------</AM>
+<AM lemma="Monoceros-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9301-019-p13s2w19">

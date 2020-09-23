@@ -14281,7 +14281,10 @@
 <LM>w#w-vesm9301-036-p21s1w86</LM>
 </w.rf>
 <form>státi</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">Vf--------A---2</tag>
+<tag>
+<AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">Vf--------A---2</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">Vf--------A-P-2</AM>
+</tag>
 </m>
 <m id="m-vesm9301-036-p21s1w87">
 <src.rf>manual</src.rf>

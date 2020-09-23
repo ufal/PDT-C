@@ -120,7 +120,8 @@
 <AM lemma="mobile-1_^(t-mobile)" src="auto">NNIS5-----A----</AM>
 <AM lemma="mobile-1_^(t-mobile)" src="auto">NNIXX-----A----</AM>
 <AM lemma="mobile-77" src="auto" recommended="1">F%-------------</AM>
-<AM lemma="mobile-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="mobile-77" src="manual">F%-------------</AM>
+<AM lemma="Mobile-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0974-001-p1s0W10-Ta">

@@ -357,7 +357,8 @@
 <tag>
 <AM lemma="Ninos_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="nine-77" src="auto" recommended="1">F%-------------</AM>
-<AM lemma="nine-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="nine-77" src="manual">F%-------------</AM>
+<AM lemma="Nine-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0089-001-p1s1W10-Ta">

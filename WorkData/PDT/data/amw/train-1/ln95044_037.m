@@ -452,7 +452,10 @@
 <LM>w#w-ln95044-037-p3s1w2</LM>
 </w.rf>
 <form>Nehodí</form>
-<tag lemma="hodit" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag>
+<AM lemma="hodit" src="orig">VB-S---3P-NA---</AM>
+<AM lemma="hodit-2_^(bude_se_hodit)" src="manual" selected="1">VB-S---3P-NAI--</AM>
+</tag>
 </m>
 <m id="m-ln95044-037-p3s1w3">
 <src.rf>manual</src.rf>

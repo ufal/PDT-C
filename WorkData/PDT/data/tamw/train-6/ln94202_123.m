@@ -11156,7 +11156,10 @@
 <LM>w#w-ln94202-123-p20s5w7</LM>
 </w.rf>
 <form>R</form>
-<tag lemma="R-0_;Y" src="orig" selected="1">NNMXX-----A---b</tag>
+<tag>
+<AM lemma="R-0_;Y" src="orig">NNMXX-----A---b</AM>
+<AM lemma="R-33" src="manual" selected="1">Q3-------------</AM>
+</tag>
 </m>
 <m id="m-ln94202-123-p20s5w8">
 <src.rf>manual</src.rf>

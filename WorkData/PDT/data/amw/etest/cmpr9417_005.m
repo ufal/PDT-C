@@ -192,7 +192,10 @@
 <LM>w#w-cmpr9417-005-p4s1w11</LM>
 </w.rf>
 <form>t</form>
-<tag lemma="ten" src="orig" selected="1">PDNS1---------b</tag>
+<tag>
+<AM lemma="ten" src="orig">PDNS1---------b</AM>
+<AM lemma="t-33" src="manual" selected="1">Q3-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9417-005-p4s1w12">
 <src.rf>manual</src.rf>
@@ -208,7 +211,10 @@
 <LM>w#w-cmpr9417-005-p4s1w13</LM>
 </w.rf>
 <form>j</form>
-<tag lemma="být_^(jen_ve_spojení_t._j.,_to_jest)" src="orig" selected="1">VB-S---3P-AA--b</tag>
+<tag>
+<AM lemma="být_^(jen_ve_spojení_t._j.,_to_jest)" src="orig">VB-S---3P-AA--b</AM>
+<AM lemma="j-33" src="manual" selected="1">Q3-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9417-005-p4s1w14">
 <src.rf>manual</src.rf>

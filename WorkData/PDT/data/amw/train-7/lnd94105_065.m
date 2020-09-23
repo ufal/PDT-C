@@ -250,7 +250,10 @@
 <LM>w#w-lnd94105-065-p1s2w21</LM>
 </w.rf>
 <form>semnuvše</form>
-<tag lemma="semnout" src="orig" selected="1">VmXP------A----</tag>
+<tag>
+<AM lemma="semnout" src="orig">VmXP------A----</AM>
+<AM lemma="semnout" src="manual" selected="1">VmXP------A-P--</AM>
+</tag>
 </m>
 <m id="m-lnd94105-065-p1s2w22">
 <src.rf>manual</src.rf>

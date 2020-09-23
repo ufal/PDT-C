@@ -4452,7 +4452,8 @@
 <form>odstaršit</form>
 <tag>
 <AM lemma="odstaršit" src="auto">X@-------------</AM>
-<AM lemma="odstaršit" src="manual" selected="1">Vf--------A----</AM>
+<AM lemma="odstaršit" src="manual">Vf--------A----</AM>
+<AM lemma="odstaršit" src="manual" selected="1">Vf--------A-P--</AM>
 </tag>
 </m>
 <m id="m051-356-363">

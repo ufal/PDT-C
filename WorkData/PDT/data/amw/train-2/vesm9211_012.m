@@ -19054,7 +19054,10 @@
 <LM>w#w-vesm9211-012-p28s5w9</LM>
 </w.rf>
 <form>ocharakterizovat</form>
-<tag lemma="ocharakterizovat" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="ocharakterizovat" src="orig">Vf--------A----</AM>
+<AM lemma="ocharakterizovat" src="manual" selected="1">Vf--------A-P--</AM>
+</tag>
 </m>
 <m id="m-vesm9211-012-p28s5w10">
 <src.rf>manual</src.rf>

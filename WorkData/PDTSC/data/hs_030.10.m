@@ -4280,7 +4280,8 @@
 <form>nesbuchl</form>
 <tag>
 <AM lemma="nesbuchl" src="auto">X@-------------</AM>
-<AM lemma="sbuchnout_,h" src="manual" selected="1">VpYS----R-NA--1</AM>
+<AM lemma="sbuchnout_,h" src="manual">VpYS----R-NA--1</AM>
+<AM lemma="sbuchnout_,h" src="manual" selected="1">VpYS----R-NAP-1</AM>
 </tag>
 </m>
 <m id="m030-d1e3227-x2-309">

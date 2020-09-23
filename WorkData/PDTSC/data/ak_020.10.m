@@ -4362,6 +4362,7 @@
 <tag>
 <AM lemma="hodit" src="auto" recommended="1">Vi-P---2--A----</AM>
 <AM lemma="hodit_:T_:W" src="auto">Vi-P---3--A---4</AM>
+<AM lemma="hodit-1" src="manual" selected="1">Vi-P---2--A-P--</AM>
 </tag>
 </m>
 <m id="m020-432-436">

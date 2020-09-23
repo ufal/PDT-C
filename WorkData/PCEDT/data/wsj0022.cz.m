@@ -2260,7 +2260,8 @@
 <AM lemma="sol-3_^(měna_v_Peru)" src="auto">NNIS4-----A----</AM>
 <AM lemma="solit" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="solit" src="auto">Vi-S---3--A-I-4</AM>
-<AM lemma="Sol-1_;G_R" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Sol-1_;G_R" src="manual">NNNXX-----A----</AM>
+<AM lemma="Sol-1_;G_;m" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0022-001-p1s9W21-Ta">

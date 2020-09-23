@@ -225,7 +225,10 @@
 <LM>w#w-mf930701-037-p2s1w23</LM>
 </w.rf>
 <form>Kea</form>
-<tag lemma="Kea_;m" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Kea_;m" src="orig">AAXXX----1A----</AM>
+<AM lemma="Kea-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-037-p2s1w24">
 <src.rf>manual</src.rf>
@@ -241,7 +244,10 @@
 <LM>w#w-mf930701-037-p2s1w25</LM>
 </w.rf>
 <form>tons</form>
-<tag lemma="tons_;m" src="orig" selected="1">NNMXX-----A----</tag>
+<tag>
+<AM lemma="tons_;m" src="orig">NNMXX-----A----</AM>
+<AM lemma="tons-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930701-037-p2s1w26">
 <src.rf>manual</src.rf>

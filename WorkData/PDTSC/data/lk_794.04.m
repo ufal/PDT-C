@@ -2090,6 +2090,7 @@
 <AM lemma="Kleine-1_;Y" src="auto">NNMXX-----A----</AM>
 <AM lemma="Kleine-2_;m" src="auto">NNIXX-----A----</AM>
 <AM lemma="kleine-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Kleine-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m794-d1t1069-1">

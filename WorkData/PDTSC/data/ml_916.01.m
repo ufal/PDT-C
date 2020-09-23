@@ -2553,7 +2553,10 @@
 <LM>w#w-d1t496-9</LM>
 </w.rf>
 <form>spadá</form>
-<tag lemma="spadat" src="auto" recommended="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="spadat" src="auto" recommended="1">VB-S---3P-AA---</AM>
+<AM lemma="spadat-1_^(do_kategorie)" src="manual" selected="1">VB-S---3P-AAI--</AM>
+</tag>
 </m>
 <m id="m916-d1t496-10">
 <w.rf>

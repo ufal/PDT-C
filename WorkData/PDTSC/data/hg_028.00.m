@@ -1779,7 +1779,7 @@
 <tag lemma="?" src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m028-61"/>
+<s id="m028-61"></s>
 <s id="m028-d1e159-x2">
 <m id="m028-d1t174-1">
 <w.rf>
@@ -3519,7 +3519,10 @@
 <LM>w#w-d1t255-2</LM>
 </w.rf>
 <form>spadáme</form>
-<tag lemma="spadat" src="auto" recommended="1">VB-P---1P-AA---</tag>
+<tag>
+<AM lemma="spadat" src="auto" recommended="1">VB-P---1P-AA---</AM>
+<AM lemma="spadat-1_^(do_kategorie)" src="manual" selected="1">VB-P---1P-AAI--</AM>
+</tag>
 </m>
 <m id="m028-d1t255-4">
 <w.rf>

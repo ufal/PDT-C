@@ -1156,7 +1156,10 @@
 <LM>w#w-ln94211-36-p4s1w19</LM>
 </w.rf>
 <form>spadali</form>
-<tag lemma="spadat" src="orig" selected="1">VpMP----R-AA---</tag>
+<tag>
+<AM lemma="spadat" src="orig">VpMP----R-AA---</AM>
+<AM lemma="spadat-1_^(do_kategorie)" src="manual" selected="1">VpMP----R-AAI--</AM>
+</tag>
 </m>
 <m id="m-ln94211-36-p4s1w20">
 <src.rf>manual</src.rf>

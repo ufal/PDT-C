@@ -2953,6 +2953,7 @@
 <tag>
 <AM lemma="nechat" src="auto" recommended="1">Vi-S---2--A----</AM>
 <AM lemma="nechat" src="auto">Vi-S---3--A---4</AM>
+<AM lemma="nechat" src="manual" selected="1">Vi-S---2--A-P-1</AM>
 </tag>
 </m>
 <m id="m043-d1t2441-14">

@@ -3921,7 +3921,8 @@
 <form>skejsla</form>
 <tag>
 <AM lemma="skejsla" src="auto">X@-------------</AM>
-<AM lemma="skejsnout" src="manual" selected="1">VpQW----R-AA---</AM>
+<AM lemma="skejsnout" src="manual">VpQW----R-AA---</AM>
+<AM lemma="skejsnout_,h" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m133-d1t1539-8">

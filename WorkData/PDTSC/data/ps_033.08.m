@@ -4471,7 +4471,8 @@
 <form>potočit</form>
 <tag>
 <AM lemma="potočit" src="auto">X@-------------</AM>
-<AM lemma="potočit_,h" src="manual" selected="1">Vf--------A----</AM>
+<AM lemma="potočit_,h" src="manual">Vf--------A----</AM>
+<AM lemma="potočit_,h" src="manual" selected="1">Vf--------A-P--</AM>
 </tag>
 </m>
 <m id="m033-d1t2754-2">
