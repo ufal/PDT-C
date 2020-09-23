@@ -2396,7 +2396,10 @@
 <LM>w#w-ln94209-4-p6s1w24</LM>
 </w.rf>
 <form>V</form>
-<tag lemma="Velký_;m" src="orig" selected="1">AAXXX----1A---b</tag>
+<tag>
+<AM lemma="Velký_;m" src="orig">AAXXX----1A---b</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
+</tag>
 </m>
 <m id="m-ln94209-4-p6s1w25">
 <src.rf>manual</src.rf>

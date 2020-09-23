@@ -306,7 +306,10 @@
 <LM>w#w-ln95047-082-p2s2w13</LM>
 </w.rf>
 <form>Velika</form>
-<tag lemma="Velika_;G" src="orig" selected="1">AAFS1----1A----</tag>
+<tag>
+<AM lemma="Velika_;G" src="orig">AAFS1----1A----</AM>
+<AM lemma="Velika-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-082-p2s2w14">
 <src.rf>manual</src.rf>

@@ -10728,7 +10728,10 @@
 <LM>w#w-cmpr9417-010-p55s1w12</LM>
 </w.rf>
 <form>váží</form>
-<tag lemma="vázat_^(např._provazem;_se_k_čemu)" src="auto" selected="1">VB-P---3P-AA--1</tag>
+<tag>
+<AM lemma="vázat_^(např._provazem;_se_k_čemu)" src="auto">VB-P---3P-AA--1</AM>
+<AM lemma="vázat" src="manual" selected="1">VB-P---3P-AAI-2</AM>
+</tag>
 </m>
 <m id="m-cmpr9417-010-p55s1w13">
 <src.rf>manual</src.rf>

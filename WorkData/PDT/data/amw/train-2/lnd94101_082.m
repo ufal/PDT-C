@@ -2532,7 +2532,10 @@
 <LM>w#w-lnd94101-082-p1s20w13</LM>
 </w.rf>
 <form>Tchaj</form>
-<tag lemma="Tchaj_;G" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Tchaj_;G" src="orig">AAXXX----1A----</AM>
+<AM lemma="Tchaj" src="manual" selected="1">S2--------A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-082-p1s20w14">
 <src.rf>manual</src.rf>
@@ -2542,8 +2545,9 @@
 <form>wan</form>
 <tag>
 <AM lemma="wan_;G" src="orig">NNIXX-----A----</AM>
-<AM lemma="wan_;G" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
+<AM lemma="wan_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="wan_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="wan" src="manual" selected="1">SNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-082-p1s20w15">

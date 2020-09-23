@@ -914,7 +914,9 @@
 <form>US</form>
 <tag>
 <AM lemma="US-3_:B_;m_,t_^(americký)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="US-2_;m_^(americký)" src="manual" selected="1">AAXXX----1A---b</AM>
+<AM lemma="US-2_;m_^(americký)" src="manual">AAXXX----1A---b</AM>
+<AM lemma="US-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="US-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-081-p4s2w8">

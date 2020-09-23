@@ -136,8 +136,9 @@
 </w.rf>
 <form>Ví</form>
 <tag>
-<AM lemma="vědět" src="auto" selected="1">VB-P---3P-AA--6</AM>
+<AM lemma="vědět" src="auto">VB-P---3P-AA--6</AM>
 <AM lemma="vědět" src="auto" recommended="1">VB-S---3P-AAI--</AM>
+<AM lemma="vědět" src="manual" selected="1">VB-P---3P-AAI-7</AM>
 </tag>
 </m>
 <m id="m048-d-id90917-punct">

@@ -537,7 +537,10 @@
 <LM>w#w-mf920901-117-p5s1w8</LM>
 </w.rf>
 <form>Kurgan</form>
-<tag lemma="Kurgan-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Kurgan-1_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Kurgan-2_;G" src="manual" selected="1">NNIXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-117-p5s1w9">
 <src.rf>manual</src.rf>
@@ -553,7 +556,10 @@
 <LM>w#w-mf920901-117-p5s1w10</LM>
 </w.rf>
 <form>ťubinské</form>
-<tag lemma="ťubinský_;G" src="orig" selected="1">AAFS2----1A----</tag>
+<tag>
+<AM lemma="ťubinský_;G" src="orig">AAFS2----1A----</AM>
+<AM lemma="ťubinský" src="manual" selected="1">AAFS2----1A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-117-p5s1w11">
 <src.rf>manual</src.rf>

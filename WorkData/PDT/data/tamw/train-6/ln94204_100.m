@@ -2478,8 +2478,8 @@
 <tag>
 <AM lemma="vracať_,t" src="orig">VB-P---3P-AA---</AM>
 <AM lemma="vracaja_,t" src="manual">NNXXX-----A----</AM>
-<AM lemma="Vracaja-77" src="manual">F%-------------</AM>
-<AM lemma="vracaja-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Vracaja-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="vracaja-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94204-100-p4s2w27">

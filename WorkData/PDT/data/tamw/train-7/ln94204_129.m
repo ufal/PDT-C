@@ -1539,7 +1539,11 @@
 <LM>w#w-ln94204-129-p3s4w24</LM>
 </w.rf>
 <form>US</form>
-<tag lemma="US-3_;m_^(americký)" src="orig" selected="1">AAXXX----1A---b</tag>
+<tag>
+<AM lemma="US-3_;m_^(americký)" src="orig">AAXXX----1A---b</AM>
+<AM lemma="US-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="US-88" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-129-p3s4w25">
 <src.rf>manual</src.rf>

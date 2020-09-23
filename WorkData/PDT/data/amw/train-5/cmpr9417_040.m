@@ -896,7 +896,10 @@
 <LM>w#w-cmpr9417-040-p7s3w11</LM>
 </w.rf>
 <form>Teronnská</form>
-<tag lemma="Teronnská_;G" src="orig" selected="1">AAFS1----1A----</tag>
+<tag>
+<AM lemma="Teronnská_;G" src="orig">AAFS1----1A----</AM>
+<AM lemma="teronnská" src="manual" selected="1">AAFS1----1A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9417-040-p7s3w12">
 <src.rf>manual</src.rf>

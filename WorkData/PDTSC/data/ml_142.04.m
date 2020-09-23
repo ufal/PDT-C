@@ -2215,7 +2215,8 @@
 <form>turistovali</form>
 <tag>
 <AM lemma="turistovali" src="auto">X@-------------</AM>
-<AM lemma="turistovat" src="manual" selected="1">VpMP----R-AA---</AM>
+<AM lemma="turistovat" src="manual">VpMP----R-AA---</AM>
+<AM lemma="turistovat" src="manual" selected="1">VpMP----R-AAI--</AM>
 </tag>
 </m>
 <m id="m142-d1e544-x2-111">

@@ -534,7 +534,10 @@
 <LM>w#w-ln94207-34-p3s1w9</LM>
 </w.rf>
 <form>Tocké</form>
-<tag lemma="Tocký_;G_;m" src="orig" selected="1">AAFS6----1A----</tag>
+<tag>
+<AM lemma="Tocký_;G_;m" src="orig">AAFS6----1A----</AM>
+<AM lemma="tocký" src="manual" selected="1">AAFS6----1A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-34-p3s1w10">
 <src.rf>manual</src.rf>

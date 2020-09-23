@@ -689,7 +689,9 @@
 <form>TOURFILM</form>
 <tag>
 <AM lemma="Tourfilm_;m" src="orig">NNIS1-----A----</AM>
-<AM lemma="Tourfilm" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Tourfilm" src="manual">F%-------------</AM>
+<AM lemma="TOURFILM-77" src="manual">F%-------------</AM>
+<AM lemma="Tourfilm-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf920925-095-p25s1w4">

@@ -406,7 +406,10 @@
 <LM>w#w-mf920901-049-p2s4w3</LM>
 </w.rf>
 <form>V</form>
-<tag lemma="V-5_;G" src="orig" selected="1">AAXXX----1A---b</tag>
+<tag>
+<AM lemma="V-5_;G" src="orig">AAXXX----1A---b</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
+</tag>
 </m>
 <m id="m-mf920901-049-p2s4w4">
 <src.rf>manual</src.rf>
@@ -636,7 +639,10 @@
 <LM>w#w-mf920901-049-p2s6w3</LM>
 </w.rf>
 <form>V</form>
-<tag lemma="V-5_;G" src="orig" selected="1">AAXXX----1A---b</tag>
+<tag>
+<AM lemma="V-5_;G" src="orig">AAXXX----1A---b</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
+</tag>
 </m>
 <m id="m-mf920901-049-p2s6w4">
 <src.rf>manual</src.rf>

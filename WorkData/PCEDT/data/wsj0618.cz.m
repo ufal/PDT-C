@@ -2410,7 +2410,8 @@
 <tag>
 <AM lemma="Tonkinovým" src="auto">X@-------------</AM>
 <AM lemma="Tonkinův-2_;Y_^(*4-2)" src="manual">AAIS7----1A----</AM>
-<AM lemma="Tonkinův-2_;Y_^(*4-2)" src="manual" selected="1">AAIS7----1A----</AM>
+<AM lemma="Tonkinův-2_;Y_^(*4-2)" src="manual">AAIS7----1A----</AM>
+<AM lemma="Tonkinův-2_;Y" src="manual" selected="1">AUIS7M---------</AM>
 </tag>
 </m>
 <m id="m-wsj0618-001-p1s6W5-Ta">
@@ -2653,7 +2654,8 @@
 <form>Tonkinův</form>
 <tag>
 <AM lemma="Tonkinův" src="auto">X@-------------</AM>
-<AM lemma="Tonkinův-2_;Y_^(*4-2)" src="manual" selected="1">AAIS4----1A----</AM>
+<AM lemma="Tonkinův-2_;Y_^(*4-2)" src="manual">AAIS4----1A----</AM>
+<AM lemma="Tonkinův-2_;Y" src="manual" selected="1">AUIS4M---------</AM>
 </tag>
 </m>
 <m id="m-wsj0618-001-p1s7W13-Ta">
@@ -2874,14 +2876,14 @@
 <LM>w#w-wsj0618-001-p1s8W16</LM>
 </w.rf>
 <form>15</form>
-<tag>
-<AM lemma="15" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="15" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj0618-001-p1s8W16-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0618-001-p1s8W16</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>denní</form>
 <tag>
 <AM lemma="denní" src="auto">AAFP1----1A----</AM>
@@ -2910,8 +2912,9 @@
 <AM lemma="denní" src="auto">AANP5----1A----</AM>
 <AM lemma="denní" src="auto">AANS1----1A----</AM>
 <AM lemma="denní" src="auto">AANS4----1A----</AM>
-<AM lemma="denní" src="auto">AANS5----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="denní" src="auto">AANS5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj0618-001-p1s8W17-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

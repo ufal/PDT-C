@@ -3553,7 +3553,10 @@
 <LM>w#w-lnd92255-137-p7s8w5</LM>
 </w.rf>
 <form>U</form>
-<tag lemma="United-2_;m_^(United,_spojený)" src="orig" selected="1">AAXXX----1A---b</tag>
+<tag>
+<AM lemma="United-2_;m_^(United,_spojený)" src="orig">AAXXX----1A---b</AM>
+<AM lemma="U-33" src="manual" selected="1">Q3-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-137-p7s8w6">
 <src.rf>manual</src.rf>

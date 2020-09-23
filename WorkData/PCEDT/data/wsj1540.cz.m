@@ -363,7 +363,10 @@
 <LM>w#w-wsj1540-001-p1s1W13</LM>
 </w.rf>
 <form>United</form>
-<tag lemma="united-77" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="united-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="United-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1540-001-p1s1W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -780,6 +783,7 @@
 <w.rf>
 <LM>w#w-wsj1540-001-p1s2W4</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>společnosti</form>
 <tag>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFP1-----A----</AM>
@@ -788,8 +792,9 @@
 <AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS3-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS5-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFS6-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="společnost_^(*3ý)" src="auto">NNFS6-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj1540-001-p1s2W5-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

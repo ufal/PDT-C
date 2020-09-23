@@ -8702,7 +8702,10 @@
 <LM>w#w-ln94207-90-p8s3Bw41</LM>
 </w.rf>
 <form>sypěti</form>
-<tag lemma="sypět" src="orig" selected="1">Vf--------A----</tag>
+<tag>
+<AM lemma="sypět" src="orig">Vf--------A----</AM>
+<AM lemma="sypět" src="manual" selected="1">Vf--------A-I-2</AM>
+</tag>
 </m>
 <m id="m-ln94207-90-p8s3Bw42">
 <src.rf>manual</src.rf>

@@ -2716,8 +2716,9 @@
 </w.rf>
 <form>ví</form>
 <tag>
-<AM lemma="vědět" src="auto" selected="1">VB-P---3P-AA--6</AM>
+<AM lemma="vědět" src="auto">VB-P---3P-AA--6</AM>
 <AM lemma="vědět" src="auto" recommended="1">VB-S---3P-AAI--</AM>
+<AM lemma="vědět" src="manual" selected="1">VB-P---3P-AAI-7</AM>
 </tag>
 </m>
 <m id="m058-d1e1030-x3-406">
@@ -3085,8 +3086,9 @@
 </w.rf>
 <form>Ví</form>
 <tag>
-<AM lemma="vědět" src="auto" selected="1">VB-P---3P-AA--6</AM>
+<AM lemma="vědět" src="auto">VB-P---3P-AA--6</AM>
 <AM lemma="vědět" src="auto" recommended="1">VB-S---3P-AAI--</AM>
+<AM lemma="vědět" src="manual" selected="1">VB-P---3P-AAI-7</AM>
 </tag>
 </m>
 <m id="m058-428-434">

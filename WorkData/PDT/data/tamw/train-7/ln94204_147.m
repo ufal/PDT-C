@@ -665,7 +665,10 @@
 <LM>w#w-ln94204-147-p2s4w5</LM>
 </w.rf>
 <form>tabanské</form>
-<tag lemma="tabanský_;G" src="orig" selected="1">AAFS6----1A----</tag>
+<tag>
+<AM lemma="tabanský_;G" src="orig">AAFS6----1A----</AM>
+<AM lemma="tabanský" src="manual" selected="1">AAFS6----1A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-147-p2s4w6">
 <src.rf>manual</src.rf>

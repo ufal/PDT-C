@@ -4565,7 +4565,7 @@
 <form>váží</form>
 <tag>
 <AM lemma="vázat_^(např._provazem;_se_k_čemu)" src="auto" recommended="1">VB-P---3P-AA--1</AM>
-<AM lemma="vážit" src="auto">VB-P---3P-AAI--</AM>
+<AM lemma="vážit" src="auto" selected="1">VB-P---3P-AAI--</AM>
 <AM lemma="vážit" src="auto">VB-S---3P-AAI--</AM>
 </tag>
 </m>

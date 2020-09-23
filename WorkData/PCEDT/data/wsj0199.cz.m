@@ -223,7 +223,8 @@
 <AM lemma="trailer-77" src="auto">F%-------------</AM>
 <AM lemma="trailer_,s_^(^DD**trajler)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="trailer_,s_^(^DD**trajler)" src="auto">NNIS4-----A----</AM>
-<AM lemma="trailer-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="trailer-77" src="manual">F%-------------</AM>
+<AM lemma="Trailer-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0199-001-p1s0W19-Ta">

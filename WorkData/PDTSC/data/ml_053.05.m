@@ -508,8 +508,8 @@
 <form>Trinken</form>
 <tag>
 <AM lemma="Trinken" src="auto">X@-------------</AM>
-<AM lemma="Trinken-77" src="manual">F%-------------</AM>
-<AM lemma="trinken-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Trinken-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="trinken-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m053-d-id108876-punct">

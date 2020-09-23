@@ -2787,7 +2787,10 @@
 <LM>w#w-lnd92258-007-p4s2w49</LM>
 </w.rf>
 <form>V</form>
-<tag lemma="V-0_;Y" src="orig" selected="1">NNMXX-----A---b</tag>
+<tag>
+<AM lemma="V-0_;Y" src="orig">NNMXX-----A---b</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92258-007-p4s2w50">
 <src.rf>manual</src.rf>

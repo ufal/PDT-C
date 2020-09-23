@@ -296,7 +296,9 @@
 <form>THE</form>
 <tag>
 <AM lemma="the-1_,t_^(obv._souč._anglických_názvů,_urč._člen)" src="orig">AAXXX----1A----</AM>
-<AM lemma="the-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="the-77" src="manual">F%-------------</AM>
+<AM lemma="THE-77" src="manual">F%-------------</AM>
+<AM lemma="The-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf920924-047-p2s1w29">

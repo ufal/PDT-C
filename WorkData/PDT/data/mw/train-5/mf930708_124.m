@@ -3387,7 +3387,10 @@
 <LM>w#w-mf930708-124-p6s2w24</LM>
 </w.rf>
 <form>U</form>
-<tag lemma="United-1_;G_^(United,_spojený)" src="orig" selected="1">AAXXX----1A---b</tag>
+<tag>
+<AM lemma="United-1_;G_^(United,_spojený)" src="orig">AAXXX----1A---b</AM>
+<AM lemma="U-33" src="manual" selected="1">Q3-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-124-p6s2w25">
 <src.rf>manual</src.rf>
@@ -3403,7 +3406,10 @@
 <LM>w#w-mf930708-124-p6s2w26</LM>
 </w.rf>
 <form>S</form>
-<tag lemma="States_;G_^(United_States_ve_zkr._apod.)" src="orig" selected="1">NNIXX-----A---b</tag>
+<tag>
+<AM lemma="States_;G_^(United_States_ve_zkr._apod.)" src="orig">NNIXX-----A---b</AM>
+<AM lemma="S-33" src="manual" selected="1">Q3-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-124-p6s2w27">
 <src.rf>manual</src.rf>

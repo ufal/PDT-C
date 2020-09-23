@@ -203,7 +203,10 @@
 <LM>w#w-lnd94101-065-p1s3w16</LM>
 </w.rf>
 <form>Tchaj</form>
-<tag lemma="Tchaj_;G" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Tchaj_;G" src="orig">AAXXX----1A----</AM>
+<AM lemma="Tchaj" src="manual" selected="1">S2--------A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-065-p1s3w17">
 <src.rf>manual</src.rf>
@@ -223,7 +226,8 @@
 <AM lemma="wan_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="wan_;G" src="auto">NNIS2-----A----</AM>
 <AM lemma="wan_;G" src="auto">NNIS3-----A----</AM>
-<AM lemma="wan_;G" src="auto" recommended="1" selected="1">NNIS6-----A----</AM>
+<AM lemma="wan_;G" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="wan" src="manual" selected="1">SNIS3-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-065-p1s3w19">
@@ -696,7 +700,10 @@
 <LM>w#w-lnd94101-065-p1s5w30</LM>
 </w.rf>
 <form>Tchaj</form>
-<tag lemma="Tchaj_;G" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Tchaj_;G" src="orig">AAXXX----1A----</AM>
+<AM lemma="Tchaj" src="manual" selected="1">S2--------A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-065-p1s5w31">
 <src.rf>manual</src.rf>
@@ -715,8 +722,9 @@
 <tag>
 <AM lemma="wan_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="wan_;G" src="auto">NNIS2-----A----</AM>
-<AM lemma="wan_;G" src="auto" selected="1">NNIS3-----A----</AM>
+<AM lemma="wan_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="wan_;G" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="wan" src="manual" selected="1">SNIS3-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-065-p1s5w33">

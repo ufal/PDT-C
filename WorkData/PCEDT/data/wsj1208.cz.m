@@ -164,7 +164,10 @@
 <LM>w#w-wsj1208-001-p1s0W14</LM>
 </w.rf>
 <form>United</form>
-<tag lemma="united-77" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="united-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="United-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1208-001-p1s0W15-Ta">
 <src.rf>tagger-a</src.rf>

@@ -89,7 +89,10 @@
 <LM>w#w-wsj0960-001-p1s0W6</LM>
 </w.rf>
 <form>United</form>
-<tag lemma="united-77" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="united-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="United-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0960-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>

@@ -2883,7 +2883,10 @@
 <LM>w#w-mf920901-089-p7s5w35</LM>
 </w.rf>
 <form>Vládnime</form>
-<tag lemma="vládnút" src="orig" selected="1">Vi-P---1--A----</tag>
+<tag>
+<AM lemma="vládnút" src="orig">Vi-P---1--A----</AM>
+<AM lemma="Vládnime-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920901-089-p7s5w36">
 <src.rf>manual</src.rf>

@@ -1547,7 +1547,10 @@
 <LM>w#w-mf920901-040-p4s1w17</LM>
 </w.rf>
 <form>Važecké</form>
-<tag lemma="Važecký_;G" src="orig" selected="1">AAFS2----1A----</tag>
+<tag>
+<AM lemma="Važecký_;G" src="orig">AAFS2----1A----</AM>
+<AM lemma="važecký" src="manual" selected="1">AAFS2----1A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-040-p4s1w18">
 <src.rf>manual</src.rf>

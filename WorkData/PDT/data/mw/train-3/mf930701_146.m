@@ -651,7 +651,8 @@
 <form>Trailer</form>
 <tag>
 <AM lemma="trajler_,x" src="orig">NNIS1-----A----</AM>
-<AM lemma="trailer-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="trailer-77" src="manual">F%-------------</AM>
+<AM lemma="Trailer-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-146-p5s1w19">

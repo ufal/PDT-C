@@ -5875,7 +5875,11 @@
 <LM>w#w-cmpr9416-017-p17s1w1</LM>
 </w.rf>
 <form>UNITED</form>
-<tag lemma="United_;m_^(souč._angl._názvu)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="United_;m_^(souč._angl._názvu)" src="orig">AAXXX----1A----</AM>
+<AM lemma="UNITED-77" src="manual">F%-------------</AM>
+<AM lemma="United-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-017-p17s1w2">
 <src.rf>manual</src.rf>
@@ -5883,7 +5887,11 @@
 <LM>w#w-cmpr9416-017-p17s1w2</LM>
 </w.rf>
 <form>GAMES</form>
-<tag lemma="Game_;m" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Game_;m" src="orig">NNFXX-----A----</AM>
+<AM lemma="GAMES-77" src="manual">F%-------------</AM>
+<AM lemma="Games-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-017-p17s1w3">
 <src.rf>manual</src.rf>
@@ -6013,7 +6021,10 @@
 <LM>w#w-cmpr9416-017-p17s3w2</LM>
 </w.rf>
 <form>United</form>
-<tag lemma="United_;m_^(souč._angl._názvu)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="United_;m_^(souč._angl._názvu)" src="orig">AAXXX----1A----</AM>
+<AM lemma="United-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-017-p17s3w3">
 <src.rf>manual</src.rf>
@@ -6021,7 +6032,10 @@
 <LM>w#w-cmpr9416-017-p17s3w3</LM>
 </w.rf>
 <form>Games</form>
-<tag lemma="Game_;m" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Game_;m" src="orig">NNFXX-----A----</AM>
+<AM lemma="Games-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-017-p17s3w4">
 <src.rf>manual</src.rf>

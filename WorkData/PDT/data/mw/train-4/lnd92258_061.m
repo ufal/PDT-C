@@ -764,7 +764,10 @@
 <LM>w#w-lnd92258-061-p3s2w4</LM>
 </w.rf>
 <form>Sudetendeutsche</form>
-<tag lemma="Sudetendeutsche_;m" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Sudetendeutsche_;m" src="orig">AAXXX----1A----</AM>
+<AM lemma="Sudetendeutsche-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92258-061-p3s2w5">
 <src.rf>manual</src.rf>
@@ -772,7 +775,10 @@
 <LM>w#w-lnd92258-061-p3s2w5</LM>
 </w.rf>
 <form>Zeitung</form>
-<tag lemma="Zeitung-1_;m_^(souč._názvu_něm._novin)" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Zeitung-1_;m_^(souč._názvu_něm._novin)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Zeitung-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92258-061-p3s2w6">
 <src.rf>manual</src.rf>

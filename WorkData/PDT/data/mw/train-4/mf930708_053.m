@@ -1127,7 +1127,10 @@
 <LM>w#w-mf930708-053-p4s1w8</LM>
 </w.rf>
 <form>T</form>
-<tag lemma="T-0_;Y" src="orig" selected="1">NNMXX-----A---b</tag>
+<tag>
+<AM lemma="T-0_;Y" src="orig">NNMXX-----A---b</AM>
+<AM lemma="T-33" src="manual" selected="1">Q3-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-053-p4s1w9">
 <src.rf>manual</src.rf>

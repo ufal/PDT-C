@@ -4371,7 +4371,9 @@
 <tag>
 <AM lemma="Teronnský_;G" src="orig">AAFS1----1A----</AM>
 <AM lemma="Teronnský_;G" src="manual">NNFS1-----A----</AM>
-<AM lemma="Teronnská_;G" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Teronnská_;G" src="manual">NNFS1-----A----</AM>
+<AM lemma="teronnská" src="manual">AAFS1----1A----</AM>
+<AM lemma="teronnská" src="manual" selected="1">AAFS1----1A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-048-p17s2w12">

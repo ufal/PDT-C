@@ -934,7 +934,10 @@
 <LM>w#w-lnd92253-047-p3s1w8</LM>
 </w.rf>
 <form>Sullom</form>
-<tag lemma="Sullom_;m" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Sullom_;m" src="orig">AAXXX----1A----</AM>
+<AM lemma="Sullom-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92253-047-p3s1w9">
 <src.rf>manual</src.rf>
@@ -942,7 +945,10 @@
 <LM>w#w-lnd92253-047-p3s1w9</LM>
 </w.rf>
 <form>Voe</form>
-<tag lemma="Voe_;G" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Voe_;G" src="orig">NNNXX-----A----</AM>
+<AM lemma="Voe-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92253-047-p3s1w10">
 <src.rf>manual</src.rf>

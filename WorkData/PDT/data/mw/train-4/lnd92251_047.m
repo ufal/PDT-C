@@ -1036,7 +1036,10 @@
 <LM>w#w-lnd92251-047-p3s1w43</LM>
 </w.rf>
 <form>váže</form>
-<tag lemma="vázat_^(např._provazem;_se_k_čemu)" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="vázat_^(např._provazem;_se_k_čemu)" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="vázat" src="manual" selected="1">VB-S---3P-AAI-1</AM>
+</tag>
 </m>
 <m id="m-lnd92251-047-p3s1w44">
 <src.rf>manual</src.rf>

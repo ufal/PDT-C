@@ -53,7 +53,10 @@
 <LM>w#w-mf920922-062-p2s1w3</LM>
 </w.rf>
 <form>Sveti</form>
-<tag lemma="Sveti_;G" src="orig" selected="1">AAMS1----1A----</tag>
+<tag>
+<AM lemma="Sveti_;G" src="orig">AAMS1----1A----</AM>
+<AM lemma="Sveti-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920922-062-p2s1w4">
 <src.rf>manual</src.rf>

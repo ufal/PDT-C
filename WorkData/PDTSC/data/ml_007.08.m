@@ -684,6 +684,7 @@
 <AM lemma="vázat_^(např._provazem;_se_k_čemu)" src="auto" recommended="1">VB-S---3P-AA---</AM>
 <AM lemma="vázat_:T_^(např._provazem;_se_k_čemu)" src="auto">VeYS------A----</AM>
 <AM lemma="vážit" src="auto">VeYS------A-I--</AM>
+<AM lemma="vázat" src="manual" selected="1">VB-S---3P-AAI-1</AM>
 </tag>
 </m>
 <m id="m007-d1t2463-6">
@@ -3016,7 +3017,7 @@
 <form_change>spell</form_change>
 <form>ještě</form>
 <tag>
-<AM lemma="ještě-2" selected="1" src="auto">TT-------------</AM>
+<AM lemma="ještě-2" src="auto" selected="1">TT-------------</AM>
 <AM lemma="ještě-1" src="auto" recommended="1">Db-------------</AM>
 </tag>
 </m>
