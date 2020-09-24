@@ -3387,7 +3387,8 @@
 <form>Vykopte</form>
 <tag>
 <AM lemma="Vykopte" src="auto">X@-------------</AM>
-<AM lemma="vykopat" src="manual" selected="1">Vi-P---2--A---6</AM>
+<AM lemma="vykopat" src="manual">Vi-P---2--A---6</AM>
+<AM lemma="vykopat" src="manual" selected="1">Vi-P---2--A-P-6</AM>
 </tag>
 </m>
 <m id="m062-d1t2776-2">

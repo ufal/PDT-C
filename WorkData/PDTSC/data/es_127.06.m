@@ -4184,7 +4184,8 @@
 <form>zavává</form>
 <tag>
 <AM lemma="zavává" src="auto">X@-------------</AM>
-<AM lemma="zavávat" src="manual" selected="1">VB-S---3P-AA---</AM>
+<AM lemma="zavávat" src="manual">VB-S---3P-AA---</AM>
+<AM lemma="zavávat" src="manual" selected="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m127-357-131">

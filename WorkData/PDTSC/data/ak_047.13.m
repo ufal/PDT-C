@@ -2247,7 +2247,8 @@
 <form>zbankal</form>
 <tag>
 <AM lemma="zbankal" src="auto">X@-------------</AM>
-<AM lemma="zbankat_,h" src="manual" selected="1">VpYS----R-AA---</AM>
+<AM lemma="zbankat_,h" src="manual">VpYS----R-AA---</AM>
+<AM lemma="zbankat_,h" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m047-d1e3397-x2-336">

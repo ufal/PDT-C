@@ -1199,7 +1199,10 @@
 <LM>w#w-mf930708-043-p2s7w11</LM>
 </w.rf>
 <form>zašokuje</form>
-<tag lemma="zašokovat" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="zašokovat" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="zašokovat" src="manual" selected="1">VB-S---3P-AAP--</AM>
+</tag>
 </m>
 <m id="m-mf930708-043-p2s7w12">
 <src.rf>manual</src.rf>

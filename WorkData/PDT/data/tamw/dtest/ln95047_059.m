@@ -1782,7 +1782,10 @@
 <LM>w#w-ln95047-059-p4s4w19</LM>
 </w.rf>
 <form>zmalířštěly</form>
-<tag lemma="zmalířštět" src="orig" selected="1">VpTP----R-AA---</tag>
+<tag>
+<AM lemma="zmalířštět" src="orig">VpTP----R-AA---</AM>
+<AM lemma="zmalířštět" src="manual" selected="1">VpTP----R-AAP--</AM>
+</tag>
 </m>
 <m id="m-ln95047-059-p4s4w20">
 <src.rf>manual</src.rf>

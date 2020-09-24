@@ -5227,7 +5227,10 @@
 <LM>w#w-cmpr9407-042-p44s2w21</LM>
 </w.rf>
 <form>vylíže</form>
-<tag lemma="vylízat" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="vylízat" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="vylízat" src="manual" selected="1">VB-S---3P-AAP-1</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-042-p44s2w22">
 <src.rf>manual</src.rf>

@@ -982,7 +982,10 @@
 <LM>w#w-d1t2560-1</LM>
 </w.rf>
 <form>zapáchala</form>
-<tag lemma="zapáchat" src="auto" recommended="1">VpQW----R-AA---</tag>
+<tag>
+<AM lemma="zapáchat" src="auto" recommended="1">VpQW----R-AA---</AM>
+<AM lemma="zapáchat-1_^(smrdět)" src="manual" selected="1">VpQW----R-AAI--</AM>
+</tag>
 </m>
 <m id="m045-d1e2555-x2-296">
 <w.rf>

@@ -7283,7 +7283,8 @@
 <form>φ</form>
 <tag>
 <AM lemma="φ_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="φ-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="φ-33_^(označení_pomocí_písmene)" src="manual">NNNXX-----A----</AM>
+<AM lemma="φ-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-020-p17s1w2">
@@ -7725,7 +7726,8 @@
 <form>φ</form>
 <tag>
 <AM lemma="φ_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="φ-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="φ-33_^(označení_pomocí_písmene)" src="manual">NNNXX-----A----</AM>
+<AM lemma="φ-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-020-p18s2w20">
@@ -8133,7 +8135,8 @@
 <form>φ</form>
 <tag>
 <AM lemma="φ_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="φ-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="φ-33_^(označení_pomocí_písmene)" src="manual">NNNXX-----A----</AM>
+<AM lemma="φ-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-020-p18s3w22">
@@ -8294,7 +8297,8 @@
 <form>φ</form>
 <tag>
 <AM lemma="φ_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="φ-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="φ-33_^(označení_pomocí_písmene)" src="manual">NNNXX-----A----</AM>
+<AM lemma="φ-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-020-p18s3w41">
@@ -8888,7 +8892,8 @@
 <form>φ</form>
 <tag>
 <AM lemma="φ_^(označení_pomocí_písmene)" src="orig">NNNXX-----A----</AM>
-<AM lemma="φ-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="φ-33_^(označení_pomocí_písmene)" src="manual">NNNXX-----A----</AM>
+<AM lemma="φ-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-020-p20s2w17">

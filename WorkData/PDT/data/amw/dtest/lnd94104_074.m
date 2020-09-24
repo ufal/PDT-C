@@ -1219,7 +1219,10 @@
 <LM>w#w-lnd94104-074-p1s5w30</LM>
 </w.rf>
 <form>Witwatersrandské</form>
-<tag lemma="Witwatersrandský_;G" src="orig" selected="1">AAFS6----1A----</tag>
+<tag>
+<AM lemma="Witwatersrandský_;G" src="orig">AAFS6----1A----</AM>
+<AM lemma="witwatersrandský" src="manual" selected="1">AAFS6----1A----</AM>
+</tag>
 </m>
 <m id="m-lnd94104-074-p1s5w31">
 <src.rf>manual</src.rf>

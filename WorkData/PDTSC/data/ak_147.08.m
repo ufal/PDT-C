@@ -2315,7 +2315,8 @@
 <form>zbandala</form>
 <tag>
 <AM lemma="zbandala" src="auto">X@-------------</AM>
-<AM lemma="zbandat_,h" src="manual" selected="1">VpQW----R-AA---</AM>
+<AM lemma="zbandat_,h" src="manual">VpQW----R-AA---</AM>
+<AM lemma="zbandat_,h" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m147-1215-1222">

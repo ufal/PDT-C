@@ -1138,7 +1138,10 @@
 <LM>w#w-mf930713-095-p2s8w7</LM>
 </w.rf>
 <form>zhrudkovatí</form>
-<tag lemma="zhrudkovatět" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="zhrudkovatět" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="zhrudkovatět" src="manual" selected="1">VB-S---3P-AAP--</AM>
+</tag>
 </m>
 <m id="m-mf930713-095-p2s8w8">
 <src.rf>manual</src.rf>

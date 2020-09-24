@@ -2338,7 +2338,10 @@
 <LM>w#w-vesm9301-015-p5s5w9</LM>
 </w.rf>
 <form>vymizejí</form>
-<tag lemma="vymizet" src="auto" selected="1">VB-P---3P-AA--3</tag>
+<tag>
+<AM lemma="vymizet" src="auto">VB-P---3P-AA--3</AM>
+<AM lemma="vymizet" src="manual" selected="1">VB-P---3P-AAP-1</AM>
+</tag>
 </m>
 <m id="m-vesm9301-015-p5s5w10">
 <src.rf>manual</src.rf>

@@ -475,7 +475,8 @@
 <form>zbankala</form>
 <tag>
 <AM lemma="zbankala" src="auto">X@-------------</AM>
-<AM lemma="zbankat_,h" src="manual" selected="1">VpQW----R-AA---</AM>
+<AM lemma="zbankat_,h" src="manual">VpQW----R-AA---</AM>
+<AM lemma="zbankat_,h" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m049-d1e4030-x2-362">

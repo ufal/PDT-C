@@ -4714,7 +4714,8 @@
 <form>Wooa</form>
 <tag>
 <AM lemma="Wooa" src="auto">X@-------------</AM>
-<AM lemma="Wooa_:Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Wooa_:Y" src="manual">NNMS2-----A----</AM>
+<AM lemma="Woo_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0761-001-p1s19W6-Ta">

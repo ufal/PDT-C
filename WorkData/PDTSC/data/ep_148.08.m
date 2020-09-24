@@ -3511,6 +3511,7 @@
 <AM lemma="Las-88" src="auto">BNXXX-----A----</AM>
 <AM lemma="las-77" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="laso" src="auto">NNNP2-----A----</AM>
+<AM lemma="Las-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m148-d1t3822-2">
@@ -3518,7 +3519,10 @@
 <LM>w#w-d1t3822-2</LM>
 </w.rf>
 <form>Vegas</form>
-<tag lemma="Vegas_;G" src="auto" recommended="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Vegas_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Vegas-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m148-d-id157002-punct">
 <w.rf>

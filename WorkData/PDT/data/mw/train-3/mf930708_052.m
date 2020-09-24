@@ -1023,7 +1023,10 @@
 <LM>w#w-mf930708-052-p5s2w14</LM>
 </w.rf>
 <form>Yo</form>
-<tag lemma="Yo_;m" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Yo_;m" src="orig">AAXXX----1A----</AM>
+<AM lemma="Yo-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-052-p5s2w15">
 <src.rf>manual</src.rf>
@@ -1031,7 +1034,10 @@
 <LM>w#w-mf930708-052-p5s2w15</LM>
 </w.rf>
 <form>Yo</form>
-<tag lemma="Yo_;m" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Yo_;m" src="orig">AAXXX----1A----</AM>
+<AM lemma="Yo-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-052-p5s2w16">
 <src.rf>manual</src.rf>

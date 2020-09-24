@@ -626,7 +626,10 @@
 <LM>w#w-ln94204-94-p4s1w3</LM>
 </w.rf>
 <form>Yandim</form>
-<tag lemma="Yandim_;m" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Yandim_;m" src="orig">AAXXX----1A----</AM>
+<AM lemma="Yandim-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-94-p4s1w4">
 <src.rf>manual</src.rf>
@@ -634,7 +637,10 @@
 <LM>w#w-ln94204-94-p4s1w4</LM>
 </w.rf>
 <form>Band</form>
-<tag lemma="Band_;m" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Band_;m" src="auto">NNIS1-----A----</AM>
+<AM lemma="Band-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94204-94-p4s1w5">
 <src.rf>manual</src.rf>

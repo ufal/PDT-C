@@ -773,23 +773,23 @@
 <LM>w#w-d-m-d1e204-x2-punct-punct</LM>
 </w.rf>
 <form>.</form>
-<tag>
-<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-</m><m id="m130-d-m-d1e204-x2-punct-punct-sw1">
+<tag lemma="." src="auto" recommended="1">Z:-------------</tag>
+</m>
+<m id="m130-d-m-d1e204-x2-punct-punct-sw1">
 <w.rf>
 <LM>w#w-d-m-d1e204-x2-punct-punct</LM>
 </w.rf>
 <form>.</form>
-<tag>
-<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-</m><m id="m130-d-m-d1e204-x2-punct-punct-sw2">
+<tag lemma="." src="auto" recommended="1">Z:-------------</tag>
+</m>
+<m id="m130-d-m-d1e204-x2-punct-punct-sw2">
 <w.rf>
 <LM>w#w-d-m-d1e204-x2-punct-punct</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>.</form>
-<tag>
-<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="." src="auto" recommended="1">Z:-------------</tag>
+</m>
 </s>
 <s id="m130-d1e204-x3">
 <m id="m130-d1t213-1">
@@ -1801,7 +1801,7 @@
 <tag>
 <AM lemma="zapnout_,h" src="auto" recommended="1">VqQW---XR-AA--2</AM>
 <AM lemma="zaplatit" src="auto">Vi-S---2--A-P--</AM>
-<AM lemma="zaplatit" src="auto">Vi-S---3--A-P-4</AM>
+<AM lemma="zaplatit" src="auto" selected="1">Vi-S---3--A-P-4</AM>
 </tag>
 </m>
 <m id="m130-d1t232-27">

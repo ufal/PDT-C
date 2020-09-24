@@ -1174,7 +1174,8 @@
 <form>zaplavčíkovat</form>
 <tag>
 <AM lemma="zaplavčíkovat" src="auto">X@-------------</AM>
-<AM lemma="zaplavčíkovat_,h" src="manual" selected="1">Vf--------A----</AM>
+<AM lemma="zaplavčíkovat_,h" src="manual">Vf--------A----</AM>
+<AM lemma="zaplavčíkovat_,h" src="manual" selected="1">Vf--------A-P--</AM>
 </tag>
 </m>
 <m id="m052-d1t2710-13">

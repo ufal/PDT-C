@@ -479,7 +479,8 @@
 <form>workaholismem</form>
 <tag>
 <AM lemma="workaholismus" src="orig">NNIS7-----A----</AM>
-<AM lemma="workaholismus_i_^(^DS**workoholismus)" src="manual" selected="1">NNIS7-----A----</AM>
+<AM lemma="workaholismus_i_^(^DS**workoholismus)" src="manual">NNIS7-----A----</AM>
+<AM lemma="workaholismus_,i_^(^DS**workoholismus)" src="manual" selected="1">NNIS7-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-023-p2s3w12">
@@ -1534,7 +1535,8 @@
 <form>workaholismu</form>
 <tag>
 <AM lemma="workaholismus" src="orig">NNIS3-----A----</AM>
-<AM lemma="workaholismus_i_^(^DS**workoholismus)" src="manual" selected="1">NNIS3-----A----</AM>
+<AM lemma="workaholismus_i_^(^DS**workoholismus)" src="manual">NNIS3-----A----</AM>
+<AM lemma="workaholismus_,i_^(^DS**workoholismus)" src="manual" selected="1">NNIS3-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-023-p3s4w16">

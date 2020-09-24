@@ -2670,7 +2670,10 @@
 <LM>w#w-vesm9212-033-p3s2w20</LM>
 </w.rf>
 <form>vtípí</form>
-<tag lemma="vtípit" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag>
+<AM lemma="vtípit" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="vtípit" src="manual" selected="1">VB-S---3P-AAP--</AM>
+</tag>
 </m>
 <m id="m-vesm9212-033-p3s2w21">
 <src.rf>manual</src.rf>

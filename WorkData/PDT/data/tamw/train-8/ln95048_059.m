@@ -1939,7 +1939,10 @@
 <LM>w#w-ln95048-059-p5s2w25</LM>
 </w.rf>
 <form>zhůřské</form>
-<tag lemma="zhůřský_;G" src="orig" selected="1">AAFS2----1A----</tag>
+<tag>
+<AM lemma="zhůřský_;G" src="orig">AAFS2----1A----</AM>
+<AM lemma="zhůřský" src="manual" selected="1">AAFS2----1A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-059-p5s2w26">
 <src.rf>manual</src.rf>

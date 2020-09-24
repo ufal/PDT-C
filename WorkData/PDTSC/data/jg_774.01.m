@@ -1297,7 +1297,10 @@
 <form>zplizovali</form>
 <tag>
 <AM lemma="zplizovali" src="auto">X@-------------</AM>
-<AM lemma="zplizovat" src="manual" selected="1">VpMP----R-AA---</AM>
+<AM lemma="zplizovat" src="manual">VpMP----R-AA---</AM>
+<AM lemma="zplizovat" src="manual">VpMP----R-AAP--</AM>
+<AM lemma="zplizovat_,i_^(^DS**zplisovat)" src="manual">VpMP----R-AAP--</AM>
+<AM lemma="zplizovat_,s_^(^DD**zplisovat)" src="manual" selected="1">VpMP----R-AAP--</AM>
 </tag>
 </m>
 <m id="m774-2952-2969">
