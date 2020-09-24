@@ -3296,7 +3296,8 @@
 <tag>
 <AM lemma="Zřud_^(masokombinát)" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Zřud_88" src="manual">NNXXX-----A----</AM>
-<AM lemma="Zřud_^(masokombinát)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Zřud_^(masokombinát)" src="manual">NNIS1-----A----</AM>
+<AM lemma="Zřud_;m_^(masokombinát)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m015-d-id134942-punct">
