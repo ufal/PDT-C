@@ -11,7 +11,7 @@ perl ../consistency_vertical.pl "$@" <pdt-c.tsv >pdt-c.consistency-overview.txt
 (
   echo
   echo "Error_type Number_of_error_classes Number_of_error_instances"
-  for f in multiple*.txt unique*.txt; do
+  for f in multiple*.txt no_analysis*.txt unique*.txt; do
     echo -n "${f%.txt} "
     awk '{print $1}' $f | st -nh -N -s
   done
