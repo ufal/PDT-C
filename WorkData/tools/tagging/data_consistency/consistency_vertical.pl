@@ -30,6 +30,7 @@ if (@ARGV) {
 }
 
 my $lemmas = Ufal::MorphoDiTa::TaggedLemmas->new();
+my $lemmas_forms = Ufal::MorphoDiTa::TaggedLemmasForms->new();
 
 my $group_script = "python3 " . dirname($0) . "/consistency_vertical_grouper.py";
 open (my $f_unique, "|-", "$group_script unique.txt") or die;
@@ -37,6 +38,7 @@ open (my $f_multiple_uniquetag, "|-", "$group_script multiple_uniquetag.txt") or
 open (my $f_multiple_nonuniquetag, "|-", "$group_script multiple_non-uniquetag.txt") or die;
 open (my $f_no_analysis, "|-", "$group_script no_analysis.txt") or die;
 open (my $f_no_analysis_filtered, "|-", "$group_script no_analysis-without_77_88_G_Y_m.txt") or die;
+open (my $f_no_analysis_dictionary_lemmas, "|-", "$group_script no_analysis-dictionary_lemmas.txt") or die;
 
 my ($total, $full_matches, $unique, $multiple_uniquetag, $multiple_nonuniquetag, $no_analysis) = (0, 0, 0, 0, 0, 0);
 my %no_analysis = ();
@@ -120,9 +122,11 @@ foreach my $lemma (keys %no_analysis) {
   foreach my $formtag (sort {$no_analysis{$lemma}->{"formtag"}->{$b} <=> $no_analysis{$lemma}->{"formtag"}->{$a} } keys %{$no_analysis{$lemma}->{"formtag"}}) {
     $message .= "; $no_analysis{$lemma}->{'formtag'}->{$formtag} $formtag";
   }
+  my $known_lemma = $dictionary->generate($lemma, "", $Ufal::MorphoDiTa::Morpho::NO_GUESSER, $lemmas_forms) ge 0;
   foreach my $node (@{$no_analysis{$lemma}->{"nodes"}}) {
     print $f_no_analysis "$node $message\n";
     print $f_no_analysis_filtered "$node $message\n" unless $lemma =~ /-77|-88|_;G|_;Y|_;m/;
+    print $f_no_analysis_dictionary_lemmas "$node $message\n" if $known_lemma;
   }
 }
 
