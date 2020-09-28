@@ -1249,11 +1249,9 @@
 <w.rf>
 <LM>w#w-lnd92255-124-p4s1w15</LM>
 </w.rf>
-<form>nebou</form>
-<tag>
-<AM lemma="být" src="orig">VB-P---3F-NA---</AM>
-<AM lemma="být" src="manual" selected="1">VB-P---3F-NAI--</AM>
-</tag>
+<form_change>spell</form_change>
+<form>nebudou</form>
+<tag lemma="být" src="auto" recommended="1" selected="1">VB-P---3F-NAI--</tag>
 </m>
 <m id="m-lnd92255-124-p4s1w16">
 <src.rf>manual</src.rf>

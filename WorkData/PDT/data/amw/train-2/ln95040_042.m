@@ -3736,11 +3736,17 @@
 <LM>w#w-ln95040-042-p5s5w13</LM>
 </w.rf>
 <form_change>spell</form_change>
-<form>nemusej'</form>
-<tag>
-<AM lemma="muset" src="orig">VB-P---3P-NA--6</AM>
-<AM lemma="muset" src="manual" selected="1">VB-P---3P-NAI-6</AM>
-</tag>
+<form>nemusej</form>
+<tag lemma="muset" src="auto" recommended="1" selected="1">VB-P---3P-NAI-6</tag>
+</m>
+<m id="m-ln95040-042-p5s5w13-sw1">
+<src.rf>manual</src.rf>
+<w.rf>
+<LM>w#w-ln95040-042-p5s5w13</LM>
+</w.rf>
+<form_change>spell</form_change>
+<form>'</form>
+<tag lemma="'" src="auto" recommended="1" selected="1">Z:-------------</tag>
 </m>
 <m id="m-ln95040-042-p5s5w14">
 <src.rf>manual</src.rf>
