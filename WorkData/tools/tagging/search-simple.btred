@@ -2,12 +2,33 @@
 # -*- mode: cperl -*-
 use warnings;
 use strict;
+use utf8;
 
-my $input = '200910-lemmata.txt';
-open my $in, '<:encoding(UTF-8)', $input or die $!;
-chomp( my @lemmas = <$in> );
+my @lemmas = qw(
+    image
+    NATO
+    HNP
+    United
+    Lawrence
+    Tchaj
+    Alexander );
+
+my @forms = qw(
+    nalézt
+    nalezl
+    nalezla
+    nalezli
+    nalezly
+    nenalezla
+    Nalezl
+    Nalézt
+    nenalezli );
+
 my $lemmas_re = join '|', map quotemeta, @lemmas;
 $lemmas_re = qr/^($lemmas_re)(?:\b|_)/;
+
+my %forms;
+@forms{@forms} = ();
 
 sub search_mu {
     return if $this == $root;
@@ -24,7 +45,12 @@ sub search_mu {
 
     my $lemma = $tag->{lemma};
     if ($lemma =~ /$lemmas_re/) {
-        print "$lemma\t";
+        print "L:$lemma\t";
+        FPosition();
+    }
+
+    if (exists $forms{$form}) {
+        print "F:$form\t";
         FPosition();
     }
 }
