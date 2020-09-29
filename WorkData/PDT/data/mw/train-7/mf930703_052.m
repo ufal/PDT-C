@@ -5473,7 +5473,10 @@
 <LM>w#w-mf930703-052-p3s29w11</LM>
 </w.rf>
 <form>image</form>
-<tag lemma="image" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="image" src="orig">NNXXX-----A----</AM>
+<AM lemma="image-1" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-052-p3s29w12">
 <src.rf>manual</src.rf>

@@ -5053,7 +5053,7 @@
 <form>nenalezli</form>
 <tag>
 <AM lemma="nalézt_^(někam;naleznout)" src="auto" recommended="1">VpMP----R-NAP--</AM>
-<AM lemma="naleznout" src="auto">VpMP----R-NAP-1</AM>
+<AM lemma="naleznout" src="auto" selected="1">VpMP----R-NAP-1</AM>
 </tag>
 </m>
 <m id="m-wsj1803-001-p1s15W20-Ta">

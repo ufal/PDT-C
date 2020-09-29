@@ -536,7 +536,8 @@
 <form>ALEXANDRA</form>
 <tag>
 <AM lemma="Alexandr_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Alexander_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Alexander_;Y" src="manual">NNMS2-----A----</AM>
+<AM lemma="Alexander_;Y" src="manual" selected="1">NNMS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-lnd92255-085-p3s1w12">

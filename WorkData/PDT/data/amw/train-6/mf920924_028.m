@@ -242,7 +242,8 @@
 <tag>
 <AM lemma="HNP_:B_^(hrubý_národní_produkt)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="HNP_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="HNP-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="HNP-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="HNP-1_^(hrubý_národní_produkt)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-028-p2s1Bw24">
@@ -474,7 +475,8 @@
 <tag>
 <AM lemma="HNP_:B_^(hrubý_národní_produkt)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="HNP_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="HNP-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="HNP-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="HNP-1_^(hrubý_národní_produkt)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-028-p2s2w10">

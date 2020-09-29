@@ -596,7 +596,10 @@
 <LM>w#w-ln94210-67-p2s3w11</LM>
 </w.rf>
 <form>zemřelého</form>
-<tag lemma="zemřelý_^(*3ít)" src="auto" selected="1">AAMS4----1A----</tag>
+<tag>
+<AM lemma="zemřelý_^(*3ít)" src="auto">AAMS4----1A----</AM>
+<AM lemma="zemřelý-2" src="manual" selected="1">NNMS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-67-p2s3w12">
 <src.rf>manual</src.rf>
@@ -623,7 +626,8 @@
 <tag>
 <AM lemma="nalézt" src="orig">Vf--------A----</AM>
 <AM lemma="nalézt-1_^(někam)" src="auto" recommended="1">Vf--------A----</AM>
-<AM lemma="nalézt_^(někam)" src="auto" selected="1">Vf--------A-I--</AM>
+<AM lemma="nalézt_^(někam)" src="auto">Vf--------A-I--</AM>
+<AM lemma="naleznout" src="manual" selected="1">Vf--------A-P-1</AM>
 </tag>
 </m>
 <m id="m-ln94210-67-p2s3w15">

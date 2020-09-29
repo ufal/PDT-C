@@ -2600,21 +2600,22 @@
 <LM>w#w-wsj2376-001-p1s12W19</LM>
 </w.rf>
 <form>52</form>
-<tag>
-<AM lemma="52" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="52" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj2376-001-p1s12W19-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj2376-001-p1s12W19</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>týdenního</form>
 <tag>
 <AM lemma="týdenní" src="auto">AAIS2----1A----</AM>
 <AM lemma="týdenní" src="auto">AAMS2----1A----</AM>
 <AM lemma="týdenní" src="auto">AAMS4----1A----</AM>
-<AM lemma="týdenní" src="auto" recommended="1">AANS2----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="týdenní" src="auto" recommended="1">AANS2----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj2376-001-p1s12W20-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -4717,19 +4718,20 @@
 <LM>w#w-wsj2376-001-p1s24W11</LM>
 </w.rf>
 <form>12.5</form>
-<tag>
-<AM lemma="12.5" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="12.5" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj2376-001-p1s24W12-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj2376-001-p1s24W12</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>násobek</form>
 <tag>
 <AM lemma="násobek" src="auto">NNIS1-----A----</AM>
-<AM lemma="násobek" src="auto" recommended="1">NNIS4-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="násobek" src="auto" recommended="1">NNIS4-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj2376-001-p1s24W13-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -8835,7 +8837,10 @@
 <LM>w#w-wsj2376-001-p1s47W15</LM>
 </w.rf>
 <form>nalézt</form>
-<tag lemma="nalézt_^(někam;naleznout)" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag>
+<AM lemma="nalézt_^(někam;naleznout)" src="auto" recommended="1">Vf--------A-P--</AM>
+<AM lemma="naleznout" src="manual" selected="1">Vf--------A-P-1</AM>
+</tag>
 </m>
 <m id="m-wsj2376-001-p1s47W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10932,7 +10937,8 @@
 <AM lemma="finanční" src="auto">AANP5----1A----</AM>
 <AM lemma="finanční" src="auto">AANS1----1A----</AM>
 <AM lemma="finanční" src="auto">AANS4----1A----</AM>
-<AM lemma="finanční" src="auto">AANS5----1A----</AM></tag>
+<AM lemma="finanční" src="auto">AANS5----1A----</AM>
+</tag>
 </m>
 <m id="m-wsj2376-001-p1s59W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11065,10 +11071,10 @@
 <w.rf>
 <LM>w#w-wsj2376-001-p1s59W17</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Galbraith</form>
-<tag>
-<AM lemma="Galbraith_;Y" src="auto" recommended="1">NNMS1-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="Galbraith_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
+</m>
 <m id="m-wsj2376-001-p1s59W18-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

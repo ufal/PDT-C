@@ -577,7 +577,10 @@
 <LM>w#w-wsj1512-001-p1s1W17</LM>
 </w.rf>
 <form>HNP</form>
-<tag lemma="HNP" src="auto" recommended="1">BNXXX-----A----</tag>
+<tag>
+<AM lemma="HNP" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="HNP-1_^(hrubý_národní_produkt)" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1512-001-p1s1W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1084,7 +1087,10 @@
 <LM>w#w-wsj1512-001-p1s2W10</LM>
 </w.rf>
 <form>HNP</form>
-<tag lemma="HNP" src="auto" recommended="1">BNXXX-----A----</tag>
+<tag>
+<AM lemma="HNP" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="HNP-1_^(hrubý_národní_produkt)" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1512-001-p1s2W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2667,7 +2673,10 @@
 <LM>w#w-wsj1512-001-p1s7W11</LM>
 </w.rf>
 <form>HNP</form>
-<tag lemma="HNP" src="auto" recommended="1">BNXXX-----A----</tag>
+<tag>
+<AM lemma="HNP" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="HNP-1_^(hrubý_národní_produkt)" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1512-001-p1s7W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4515,7 +4524,10 @@
 <LM>w#w-wsj1512-001-p1s12W17</LM>
 </w.rf>
 <form>HNP</form>
-<tag lemma="HNP" src="auto" recommended="1">BNXXX-----A----</tag>
+<tag>
+<AM lemma="HNP" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="HNP-1_^(hrubý_národní_produkt)" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1512-001-p1s12W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4672,7 +4684,10 @@
 <LM>w#w-wsj1512-001-p1s13W5</LM>
 </w.rf>
 <form>HNP</form>
-<tag lemma="HNP" src="auto" recommended="1">BNXXX-----A----</tag>
+<tag>
+<AM lemma="HNP" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="HNP-1_^(hrubý_národní_produkt)" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1512-001-p1s13W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6461,7 +6476,10 @@
 <LM>w#w-wsj1512-001-p1s18W6</LM>
 </w.rf>
 <form>HNP</form>
-<tag lemma="HNP" src="auto" recommended="1">BNXXX-----A----</tag>
+<tag>
+<AM lemma="HNP" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="HNP-1_^(hrubý_národní_produkt)" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1512-001-p1s18W7-Ta">
 <src.rf>tagger-a</src.rf>

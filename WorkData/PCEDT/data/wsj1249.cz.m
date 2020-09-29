@@ -513,11 +513,13 @@
 <w.rf>
 <LM>w#w-wsj1249-001-p1s1W29</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>kterou</form>
 <tag>
 <AM lemma="který" src="auto" recommended="1">P4FS4----------</AM>
-<AM lemma="který" src="auto">P4FS7----------</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="který" src="auto">P4FS7----------</AM>
+</tag>
+</m>
 <m id="m-wsj1249-001-p1s1W30-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -4820,10 +4822,10 @@
 <w.rf>
 <LM>w#w-wsj1249-001-p1s20W14</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Američanů</form>
-<tag>
-<AM lemma="Američan_;E" src="auto" recommended="1">NNMP2-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="Američan_;E" src="auto" recommended="1">NNMP2-----A----</tag>
+</m>
 <m id="m-wsj1249-001-p1s20W15-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -8489,7 +8491,10 @@
 <LM>w#w-wsj1249-001-p1s34W16</LM>
 </w.rf>
 <form>nalézt</form>
-<tag lemma="nalézt_^(někam;naleznout)" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag>
+<AM lemma="nalézt_^(někam;naleznout)" src="auto" recommended="1">Vf--------A-P--</AM>
+<AM lemma="naleznout" src="manual" selected="1">Vf--------A-P-1</AM>
+</tag>
 </m>
 <m id="m-wsj1249-001-p1s34W17-Ta">
 <src.rf>tagger-a</src.rf>

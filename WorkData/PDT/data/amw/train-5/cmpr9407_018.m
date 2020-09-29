@@ -10018,7 +10018,10 @@
 <LM>w#w-cmpr9407-018-p30s4w1</LM>
 </w.rf>
 <form>O</form>
-<tag lemma="o-1" src="orig" selected="1">RR--4----------</tag>
+<tag>
+<AM lemma="o-1" src="orig">RR--4----------</AM>
+<AM lemma="o-1" src="manual" selected="1">RR--6----------</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-018-p30s4w2">
 <src.rf>manual</src.rf>
@@ -10026,7 +10029,10 @@
 <LM>w#w-cmpr9407-018-p30s4w2</LM>
 </w.rf>
 <form>image</form>
-<tag lemma="image" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="image" src="orig">NNXXX-----A----</AM>
+<AM lemma="image-1" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-018-p30s4w3">
 <src.rf>manual</src.rf>

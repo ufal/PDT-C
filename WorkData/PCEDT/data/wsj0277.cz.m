@@ -6529,7 +6529,7 @@
 </w.rf>
 <form>nalezly</form>
 <tag>
-<AM lemma="naleznout" src="auto">VpTP----R-AAP-1</AM>
+<AM lemma="naleznout" src="auto" selected="1">VpTP----R-AAP-1</AM>
 <AM lemma="nalézt_^(někam;naleznout)" src="auto" recommended="1">VpTP----R-AAP--</AM>
 </tag>
 </m>

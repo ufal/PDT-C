@@ -3532,6 +3532,8 @@
 <AM lemma="image" src="auto">NNIXX-----A----</AM>
 <AM lemma="image" src="auto">NNNXX-----A----</AM>
 <AM lemma="image" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="image-2" src="manual">NNFS2-----A----</AM>
+<AM lemma="image-1" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1377-001-p1s13W22-Ta">

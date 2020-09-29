@@ -1250,7 +1250,10 @@
 <LM>w#w-ln94208-98-p3s2w20</LM>
 </w.rf>
 <form>image</form>
-<tag lemma="image-2" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="image-2" src="orig">NNIXX-----A----</AM>
+<AM lemma="image-2" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-98-p3s2w21">
 <src.rf>manual</src.rf>

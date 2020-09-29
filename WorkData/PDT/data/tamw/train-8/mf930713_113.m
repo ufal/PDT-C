@@ -4859,7 +4859,8 @@
 <form>HNP</form>
 <tag>
 <AM lemma="HNP_:B_^(hrubý_národní_produkt)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="HNP" src="auto" recommended="1" selected="1">NNXXX-----A---b</AM>
+<AM lemma="HNP" src="auto" recommended="1">NNXXX-----A---b</AM>
+<AM lemma="HNP-1_^(hrubý_národní_produkt)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-113-p2s32w52">

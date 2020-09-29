@@ -1694,7 +1694,8 @@
 <AM lemma="nalézt" src="orig">Vf--------A----</AM>
 <AM lemma="nalézt-1_^(někam)" src="auto" recommended="1">Vf--------A----</AM>
 <AM lemma="nalézt-2" src="auto">Vf--------A----</AM>
-<AM lemma="nalézt-2" src="manual" selected="1">Vf--------A-P--</AM>
+<AM lemma="nalézt-2" src="manual">Vf--------A-P--</AM>
+<AM lemma="naleznout" src="manual" selected="1">Vf--------A-P-1</AM>
 </tag>
 </m>
 <m id="m-ln94209-64-p5s2w6">

@@ -1673,7 +1673,10 @@
 <LM>w#w-wsj2451-001-p1s5W6</LM>
 </w.rf>
 <form>nalézt</form>
-<tag lemma="nalézt_^(někam;naleznout)" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag>
+<AM lemma="nalézt_^(někam;naleznout)" src="auto" recommended="1">Vf--------A-P--</AM>
+<AM lemma="naleznout" src="manual" selected="1">Vf--------A-P-1</AM>
+</tag>
 </m>
 <m id="m-wsj2451-001-p1s5W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3150,7 +3153,10 @@
 <LM>w#w-wsj2451-001-p1s10W4</LM>
 </w.rf>
 <form>nalézt</form>
-<tag lemma="nalézt_^(někam;naleznout)" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag>
+<AM lemma="nalézt_^(někam;naleznout)" src="auto" recommended="1">Vf--------A-P--</AM>
+<AM lemma="naleznout" src="manual" selected="1">Vf--------A-P-1</AM>
+</tag>
 </m>
 <m id="m-wsj2451-001-p1s10W5-Ta">
 <src.rf>tagger-a</src.rf>

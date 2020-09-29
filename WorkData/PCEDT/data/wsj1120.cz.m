@@ -871,7 +871,10 @@
 <LM>w#w-wsj1120-001-p1s2W13</LM>
 </w.rf>
 <form>HNP</form>
-<tag lemma="HNP" src="auto" recommended="1">BNXXX-----A----</tag>
+<tag>
+<AM lemma="HNP" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="HNP-1_^(hrubý_národní_produkt)" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1120-001-p1s2W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4522,10 +4525,10 @@
 <w.rf>
 <LM>w#w-wsj1120-001-p1s20W11</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>konferencích</form>
-<tag>
-<AM lemma="konference" src="auto" recommended="1">NNFP6-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="konference" src="auto" recommended="1">NNFP6-----A----</tag>
+</m>
 <m id="m-wsj1120-001-p1s20W12-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -5577,21 +5577,23 @@
 <LM>w#w-wsj2161-001-p1s19W4</LM>
 </w.rf>
 <form>35</form>
-<tag>
-<AM lemma="35" src="auto" recommended="1">C=-------------</AM></tag>
-</m><m id="m-wsj2161-001-p1s19W4-Ta-sw1">
+<tag lemma="35" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m-wsj2161-001-p1s19W4-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj2161-001-p1s19W4</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>letá</form>
 <tag>
 <AM lemma="letý" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="letý" src="auto">AAFS5----1A----</AM>
 <AM lemma="letý" src="auto">AANP1----1A----</AM>
 <AM lemma="letý" src="auto">AANP4----1A----</AM>
-<AM lemma="letý" src="auto">AANP5----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="letý" src="auto">AANP5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj2161-001-p1s19W5-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -14866,7 +14868,10 @@
 <LM>w#w-wsj2161-001-p1s57W61</LM>
 </w.rf>
 <form>nalézt</form>
-<tag lemma="nalézt_^(někam;naleznout)" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag>
+<AM lemma="nalézt_^(někam;naleznout)" src="auto" recommended="1">Vf--------A-P--</AM>
+<AM lemma="naleznout" src="manual" selected="1">Vf--------A-P-1</AM>
+</tag>
 </m>
 <m id="m-wsj2161-001-p1s57W62-Ta">
 <src.rf>tagger-a</src.rf>

@@ -1079,14 +1079,14 @@
 <LM>w#w-wsj1335-001-p1s3W5</LM>
 </w.rf>
 <form>26</form>
-<tag>
-<AM lemma="26" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="26" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj1335-001-p1s3W5-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1335-001-p1s3W5</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>bodový</form>
 <tag>
 <AM lemma="bodový" src="auto">AAFP1----1A---6</AM>
@@ -1111,8 +1111,9 @@
 <AM lemma="bodový" src="auto">AANP5----1A---6</AM>
 <AM lemma="bodový" src="auto">AANS1----1A---6</AM>
 <AM lemma="bodový" src="auto">AANS4----1A---6</AM>
-<AM lemma="bodový" src="auto">AANS5----1A---6</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="bodový" src="auto">AANS5----1A---6</AM>
+</tag>
+</m>
 <m id="m-wsj1335-001-p1s3W6-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -2784,7 +2785,10 @@
 <LM>w#w-wsj1335-001-p1s8W5</LM>
 </w.rf>
 <form>HNP</form>
-<tag lemma="HNP" src="auto" recommended="1">BNXXX-----A----</tag>
+<tag>
+<AM lemma="HNP" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="HNP-1_^(hrubý_národní_produkt)" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1335-001-p1s8W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3885,7 +3889,10 @@
 <LM>w#w-wsj1335-001-p1s11W3</LM>
 </w.rf>
 <form>HNP</form>
-<tag lemma="HNP" src="auto" recommended="1">BNXXX-----A----</tag>
+<tag>
+<AM lemma="HNP" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="HNP-1_^(hrubý_národní_produkt)" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1335-001-p1s11W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4784,7 +4791,10 @@
 <LM>w#w-wsj1335-001-p1s14W9</LM>
 </w.rf>
 <form>HNP</form>
-<tag lemma="HNP" src="auto" recommended="1">BNXXX-----A----</tag>
+<tag>
+<AM lemma="HNP" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="HNP-1_^(hrubý_národní_produkt)" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1335-001-p1s14W10-Ta">
 <src.rf>tagger-a</src.rf>

@@ -3202,8 +3202,7 @@
 </w.rf>
 <form_change>num_normalization</form_change>
 <form>1.8353</form>
-<tag>
-<AM lemma="1.8353" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="1.8353" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj1007-001-p1s9W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3329,11 +3328,10 @@
 <w.rf>
 <LM>w#w-wsj1007-001-p1s9W20</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
+<form_change>spell</form_change>
 <form>1.8355</form>
-<tag>
-<AM lemma="1.8355" src="auto" recommended="1">C=-------------</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="1.8355" src="auto" recommended="1">C=-------------</tag>
+</m>
 <m id="m-wsj1007-001-p1s9W21-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -3585,8 +3583,7 @@
 </w.rf>
 <form_change>num_normalization</form_change>
 <form>1.6145</form>
-<tag>
-<AM lemma="1.6145" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="1.6145" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj1007-001-p1s10W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3719,11 +3716,10 @@
 <w.rf>
 <LM>w#w-wsj1007-001-p1s10W14</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
+<form_change>spell</form_change>
 <form>1.6055</form>
-<tag>
-<AM lemma="1.6055" src="auto" recommended="1">C=-------------</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="1.6055" src="auto" recommended="1">C=-------------</tag>
+</m>
 <m id="m-wsj1007-001-p1s10W15-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -5492,7 +5488,8 @@
 <form>HNP</form>
 <tag>
 <AM lemma="HNP_:B" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="HNP-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="HNP-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="HNP-1_^(hrubý_národní_produkt)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1007-001-p1s15W10-Ta">
@@ -7306,10 +7303,10 @@
 <w.rf>
 <LM>w#w-wsj1007-001-p1s18W31</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>akciích</form>
-<tag>
-<AM lemma="akcie" src="auto" recommended="1">NNFP6-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="akcie" src="auto" recommended="1">NNFP6-----A----</tag>
+</m>
 <m id="m-wsj1007-001-p1s18W32-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -5026,7 +5026,10 @@
 <LM>w#w-wsj1269-001-p1s15W26</LM>
 </w.rf>
 <form>nalézt</form>
-<tag lemma="nalézt_^(někam;naleznout)" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag>
+<AM lemma="nalézt_^(někam;naleznout)" src="auto" recommended="1">Vf--------A-P--</AM>
+<AM lemma="naleznout" src="manual" selected="1">Vf--------A-P-1</AM>
+</tag>
 </m>
 <m id="m-wsj1269-001-p1s15W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11046,6 +11049,7 @@
 <w.rf>
 <LM>w#w-wsj1269-001-p1s37W18</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>ubývání</form>
 <tag>
 <AM lemma="ubývání_^(*3at)" src="auto">NNNP1-----A----</AM>
@@ -11057,8 +11061,9 @@
 <AM lemma="ubývání_^(*3at)" src="auto">NNNS3-----A----</AM>
 <AM lemma="ubývání_^(*3at)" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="ubývání_^(*3at)" src="auto">NNNS5-----A----</AM>
-<AM lemma="ubývání_^(*3at)" src="auto">NNNS6-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="ubývání_^(*3at)" src="auto">NNNS6-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj1269-001-p1s37W19-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

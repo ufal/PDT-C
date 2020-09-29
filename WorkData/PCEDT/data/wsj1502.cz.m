@@ -786,12 +786,14 @@
 <w.rf>
 <LM>w#w-wsj1502-001-p1s1W29</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>po</form>
 <tag>
 <AM lemma="po-1" src="auto">RR--4----------</AM>
 <AM lemma="po-1" src="auto" recommended="1">RR--6----------</AM>
-<AM lemma="pondělí" src="auto">NNNXX-----A---8</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="pondělí" src="auto">NNNXX-----A---8</AM>
+</tag>
+</m>
 <m id="m-wsj1502-001-p1s1W30-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -4082,7 +4084,10 @@
 <LM>w#w-wsj1502-001-p1s10W34</LM>
 </w.rf>
 <form>HNP</form>
-<tag lemma="HNP" src="auto" recommended="1">BNXXX-----A----</tag>
+<tag>
+<AM lemma="HNP" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="HNP-1_^(hrubý_národní_produkt)" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1502-001-p1s10W35-Ta">
 <src.rf>tagger-a</src.rf>

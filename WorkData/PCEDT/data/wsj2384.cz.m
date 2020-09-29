@@ -335,7 +335,7 @@
 </w.rf>
 <form>nalezl</form>
 <tag>
-<AM lemma="naleznout" src="auto">VpYS----R-AAP-1</AM>
+<AM lemma="naleznout" src="auto" selected="1">VpYS----R-AAP-1</AM>
 <AM lemma="nalézt_^(někam;naleznout)" src="auto" recommended="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
@@ -2882,12 +2882,14 @@
 <w.rf>
 <LM>w#w-wsj2384-001-p1s10W42</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>stanici</form>
 <tag>
 <AM lemma="stanice" src="auto">NNFS3-----A----</AM>
 <AM lemma="stanice" src="auto">NNFS4-----A----</AM>
-<AM lemma="stanice" src="auto" recommended="1">NNFS6-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="stanice" src="auto" recommended="1">NNFS6-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj2384-001-p1s10W43-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -10454,21 +10456,22 @@
 <LM>w#w-wsj2384-001-p1s33W8</LM>
 </w.rf>
 <form>190</form>
-<tag>
-<AM lemma="190" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="190" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj2384-001-p1s33W8-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj2384-001-p1s33W8</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>bodového</form>
 <tag>
 <AM lemma="bodový" src="auto" recommended="1">AAIS2----1A----</AM>
 <AM lemma="bodový" src="auto">AAMS2----1A----</AM>
 <AM lemma="bodový" src="auto">AAMS4----1A----</AM>
-<AM lemma="bodový" src="auto">AANS2----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="bodový" src="auto">AANS2----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj2384-001-p1s33W9-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

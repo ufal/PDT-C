@@ -113,7 +113,8 @@
 <form>Giants</form>
 <tag>
 <AM lemma="Giants" src="auto">X@-------------</AM>
-<AM lemma="Giants-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Giants-77" src="manual">F%-------------</AM>
+<AM lemma="Giants_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0126-001-p1s0W11-Ta">
@@ -2123,7 +2124,7 @@
 </w.rf>
 <form>nalezl</form>
 <tag>
-<AM lemma="naleznout" src="auto">VpYS----R-AAP-1</AM>
+<AM lemma="naleznout" src="auto" selected="1">VpYS----R-AAP-1</AM>
 <AM lemma="nalézt_^(někam;naleznout)" src="auto" recommended="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
@@ -2210,7 +2211,8 @@
 <form>Dodger</form>
 <tag>
 <AM lemma="Dodger" src="auto">X@-------------</AM>
-<AM lemma="Dodger-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Dodger-77" src="manual">F%-------------</AM>
+<AM lemma="Dodger_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0126-001-p1s9W15-Ta">
@@ -4331,7 +4333,8 @@
 <form>Giants</form>
 <tag>
 <AM lemma="Giants" src="auto">X@-------------</AM>
-<AM lemma="Giants-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Giants-77" src="manual">F%-------------</AM>
+<AM lemma="Giants_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0126-001-p1s17W18-Ta">
@@ -4481,7 +4484,8 @@
 <form>Candlestick</form>
 <tag>
 <AM lemma="Candlestick" src="auto">X@-------------</AM>
-<AM lemma="Candlestick-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Candlestick-77" src="manual">F%-------------</AM>
+<AM lemma="Candlestick_;m" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0126-001-p1s18W6-Ta">
@@ -4508,7 +4512,8 @@
 <form>Giants</form>
 <tag>
 <AM lemma="Giants" src="auto">X@-------------</AM>
-<AM lemma="Giants-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Giants-77" src="manual">F%-------------</AM>
+<AM lemma="Giants_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0126-001-p1s18W9-Ta">
@@ -5208,7 +5213,8 @@
 <tag>
 <AM lemma="Dolphins_;m" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Dolphins_;m" src="auto">NNIS4-----A----</AM>
-<AM lemma="Dolphins-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Dolphins-77" src="manual">F%-------------</AM>
+<AM lemma="Dolphins_;m" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0126-001-p1s21W4-Ta">
@@ -6443,7 +6449,8 @@
 <tag>
 <AM lemma="Superdome_;G" src="auto">NNFXX-----A----</AM>
 <AM lemma="Superdome_;G" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Superdome-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Superdome-77" src="manual">F%-------------</AM>
+<AM lemma="Superdome_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0126-001-p1s25W18-Ta">
@@ -6695,7 +6702,8 @@
 <tag>
 <AM lemma="Superdome_;G" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="Superdome_;G" src="auto">NNIXX-----A----</AM>
-<AM lemma="Superdome-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Superdome-77" src="manual">F%-------------</AM>
+<AM lemma="Superdome_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0126-001-p1s26W3-Ta">

@@ -2289,7 +2289,8 @@
 <form>Haagen</form>
 <tag>
 <AM lemma="Haagen" src="auto">X@-------------</AM>
-<AM lemma="Haagen_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Haagen_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Haagen-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1436-001-p1s6W7-Ta">
@@ -4188,6 +4189,7 @@
 <AM lemma="image" src="auto">NNIXX-----A----</AM>
 <AM lemma="image" src="auto">NNNXX-----A----</AM>
 <AM lemma="image" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="image-1" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1436-001-p1s12W5-Ta">
@@ -11238,7 +11240,8 @@
 <form>Haagen</form>
 <tag>
 <AM lemma="Haagen" src="auto">X@-------------</AM>
-<AM lemma="Haagen_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Haagen_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Haagen-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1436-001-p1s36W3-Ta">

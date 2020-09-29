@@ -2292,7 +2292,7 @@
 <form>nenalezla</form>
 <tag>
 <AM lemma="nalézt_^(někam;naleznout)" src="auto" recommended="1">VpQW----R-NAP--</AM>
-<AM lemma="naleznout" src="auto">VpQW----R-NAP-1</AM>
+<AM lemma="naleznout" src="auto" selected="1">VpQW----R-NAP-1</AM>
 </tag>
 </m>
 <m id="m-wsj0552-001-p1s9W6-Ta">
@@ -4695,6 +4695,7 @@
 <w.rf>
 <LM>w#w-wsj0552-001-p1s17W20</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>odhadovaných</form>
 <tag>
 <AM lemma="odhadovaný_^(*2t)" src="auto">AAFP2----1A----</AM>
@@ -4704,8 +4705,9 @@
 <AM lemma="odhadovaný_^(*2t)" src="auto">AAMP2----1A----</AM>
 <AM lemma="odhadovaný_^(*2t)" src="auto">AAMP6----1A----</AM>
 <AM lemma="odhadovaný_^(*2t)" src="auto">AANP2----1A----</AM>
-<AM lemma="odhadovaný_^(*2t)" src="auto">AANP6----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="odhadovaný_^(*2t)" src="auto">AANP6----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj0552-001-p1s17W21-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

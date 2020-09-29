@@ -2072,7 +2072,7 @@
 <form>nenalezla</form>
 <tag>
 <AM lemma="nalézt_^(někam;naleznout)" src="auto" recommended="1">VpQW----R-NAP--</AM>
-<AM lemma="naleznout" src="auto">VpQW----R-NAP-1</AM>
+<AM lemma="naleznout" src="auto" selected="1">VpQW----R-NAP-1</AM>
 </tag>
 </m>
 <m id="m-wsj1768-001-p1s5W19-Ta">

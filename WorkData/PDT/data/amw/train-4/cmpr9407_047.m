@@ -2427,7 +2427,8 @@
 <tag>
 <AM lemma="nalézt" src="orig">Vf--------A----</AM>
 <AM lemma="nalézt-1_^(někam)" src="auto" recommended="1">Vf--------A----</AM>
-<AM lemma="nalézt_^(někam)" src="auto" selected="1">Vf--------A-I--</AM>
+<AM lemma="nalézt_^(někam)" src="auto">Vf--------A-I--</AM>
+<AM lemma="naleznout" src="manual" selected="1">Vf--------A-P-1</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-047-p9s5w8">
@@ -2731,7 +2732,8 @@
 <tag>
 <AM lemma="nalézt" src="orig">Vf--------A----</AM>
 <AM lemma="nalézt-1_^(někam)" src="auto" recommended="1">Vf--------A----</AM>
-<AM lemma="nalézt_^(někam)" src="auto" selected="1">Vf--------A-I--</AM>
+<AM lemma="nalézt_^(někam)" src="auto">Vf--------A-I--</AM>
+<AM lemma="naleznout" src="manual" selected="1">Vf--------A-P-1</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-047-p10s2w6">
@@ -2905,7 +2907,8 @@
 <tag>
 <AM lemma="nalézt" src="orig">VpTP---XR-AA---</AM>
 <AM lemma="nalézt-1_^(někam)" src="auto" recommended="1">VpTP---XR-AA---</AM>
-<AM lemma="nalézt_^(někam)" src="auto" selected="1">VpTP----R-AAI--</AM>
+<AM lemma="nalézt_^(někam)" src="auto">VpTP----R-AAI--</AM>
+<AM lemma="naleznout" src="manual" selected="1">VpTP----R-AAP-1</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-047-p10s3w4">

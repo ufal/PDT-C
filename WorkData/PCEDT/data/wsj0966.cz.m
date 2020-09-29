@@ -170,7 +170,8 @@
 <form>imagi</form>
 <tag>
 <AM lemma="imagi" src="auto">X@-------------</AM>
-<AM lemma="image" src="manual" selected="1">NNFS6-----A---6</AM>
+<AM lemma="image" src="manual">NNFS6-----A---6</AM>
+<AM lemma="image-1" src="manual" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0966-001-p1s0W16-Ta">

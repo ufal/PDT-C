@@ -304,7 +304,8 @@
 <AM lemma="nalézt" src="orig">Vf--------A----</AM>
 <AM lemma="nalézt-1_^(někam)" src="auto" recommended="1">Vf--------A----</AM>
 <AM lemma="nalézt-2" src="auto">Vf--------A----</AM>
-<AM lemma="nalézt-2" src="manual" selected="1">Vf--------A-P--</AM>
+<AM lemma="nalézt-2" src="manual">Vf--------A-P--</AM>
+<AM lemma="naleznout" src="manual" selected="1">Vf--------A-P-1</AM>
 </tag>
 </m>
 <m id="m-ln94206-86-p2s1Cw19">
@@ -1434,7 +1435,8 @@
 <AM lemma="nalézt" src="orig">VpQW---XR-NA---</AM>
 <AM lemma="nalézt-1_^(někam)" src="auto" recommended="1">VpQW---XR-NA---</AM>
 <AM lemma="nalézt-2" src="auto">VpQW---XR-NA---</AM>
-<AM lemma="nalézt-2" src="manual" selected="1">VpQW----R-NAP--</AM>
+<AM lemma="nalézt-2" src="manual">VpQW----R-NAP--</AM>
+<AM lemma="naleznout" src="manual" selected="1">VpQW----R-NAP-1</AM>
 </tag>
 </m>
 <m id="m-ln94206-86-p5s2w16">

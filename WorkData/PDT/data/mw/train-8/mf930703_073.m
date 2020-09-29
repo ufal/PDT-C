@@ -803,7 +803,8 @@
 <AM lemma="nalézt-1_^(někam)" src="auto" recommended="1">VpQW---XR-NA---</AM>
 <AM lemma="nalézt-2" src="auto">VpQW---XR-NA---</AM>
 <AM lemma="nalézt-2_:T" src="manual">VpQW---XR-NA---</AM>
-<AM lemma="nalézt-2" src="manual" selected="1">VpQW----R-NAP--</AM>
+<AM lemma="nalézt-2" src="manual">VpQW----R-NAP--</AM>
+<AM lemma="naleznout" src="manual" selected="1">VpQW----R-NAP-1</AM>
 </tag>
 </m>
 <m id="m-mf930703-073-p4s1w15">

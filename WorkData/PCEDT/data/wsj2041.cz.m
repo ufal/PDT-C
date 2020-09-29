@@ -2447,20 +2447,22 @@
 <LM>w#w-wsj2041-001-p1s8W4</LM>
 </w.rf>
 <form>45</form>
-<tag>
-<AM lemma="45" src="auto" recommended="1">C=-------------</AM></tag>
-</m><m id="m-wsj2041-001-p1s8W4-Ta-sw1">
+<tag lemma="45" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m-wsj2041-001-p1s8W4-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj2041-001-p1s8W4</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>letého</form>
 <tag>
 <AM lemma="letý" src="auto">AAIS2----1A----</AM>
 <AM lemma="letý" src="auto">AAMS2----1A----</AM>
 <AM lemma="letý" src="auto" recommended="1">AAMS4----1A----</AM>
-<AM lemma="letý" src="auto">AANS2----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="letý" src="auto">AANS2----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj2041-001-p1s8W5-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -3657,10 +3659,11 @@
 </w.rf>
 <form>image</form>
 <tag>
-<AM lemma="image-1" src="auto" selected="1">NNFXX-----A----</AM>
+<AM lemma="image-1" src="auto">NNFXX-----A----</AM>
 <AM lemma="image" src="auto">NNIXX-----A----</AM>
 <AM lemma="image" src="auto">NNNXX-----A----</AM>
 <AM lemma="image" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="image-1" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2041-001-p1s12W3-Ta">

@@ -2424,7 +2424,7 @@
 </w.rf>
 <form>Nalezl</form>
 <tag>
-<AM lemma="naleznout" src="auto">VpYS----R-AAP-1</AM>
+<AM lemma="naleznout" src="auto" selected="1">VpYS----R-AAP-1</AM>
 <AM lemma="nalézt_^(někam;naleznout)" src="auto" recommended="1">VpYS----R-AAP--</AM>
 </tag>
 </m>

@@ -4536,10 +4536,10 @@
 </w.rf>
 <form>uhlazeného</form>
 <tag>
-<AM lemma="uhlazený_^(*4dit)" src="auto" recommended="1">AAIS2----1A----</AM>
+<AM lemma="uhlazený_^(*4dit)" src="auto" recommended="1" selected="1">AAIS2----1A----</AM>
 <AM lemma="uhlazený_^(*4dit)" src="auto">AAMS2----1A----</AM>
 <AM lemma="uhlazený_^(*4dit)" src="auto">AAMS4----1A----</AM>
-<AM lemma="uhlazený_^(*4dit)" src="auto" selected="1">AANS2----1A----</AM>
+<AM lemma="uhlazený_^(*4dit)" src="auto">AANS2----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0530-001-p1s14W19-Ta">
@@ -4551,8 +4551,9 @@
 <tag>
 <AM lemma="image" src="auto">NNFXX-----A----</AM>
 <AM lemma="image" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="image-3" src="auto" selected="1">NNNXX-----A----</AM>
+<AM lemma="image-3" src="auto">NNNXX-----A----</AM>
 <AM lemma="image" src="auto">NNXXX-----A----</AM>
+<AM lemma="image-2" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0530-001-p1s14W20-Ta">
@@ -8835,10 +8836,10 @@
 <w.rf>
 <LM>w#w-wsj0530-001-p1s28W18</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>specialistka</form>
-<tag>
-<AM lemma="specialistka_^(*2a)" src="auto" recommended="1">NNFS1-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="specialistka_^(*2a)" src="auto" recommended="1">NNFS1-----A----</tag>
+</m>
 <m id="m-wsj0530-001-p1s28W19-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

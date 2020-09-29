@@ -1112,7 +1112,10 @@
 <LM>w#w-wsj1294-001-p1s2W38</LM>
 </w.rf>
 <form>HNP</form>
-<tag lemma="HNP" src="auto" recommended="1">BNXXX-----A----</tag>
+<tag>
+<AM lemma="HNP" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="HNP-1_^(hrubý_národní_produkt)" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1294-001-p1s2W39-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5195,7 +5198,10 @@
 <LM>w#w-wsj1294-001-p1s15W28</LM>
 </w.rf>
 <form>HNP</form>
-<tag lemma="HNP" src="auto" recommended="1">BNXXX-----A----</tag>
+<tag>
+<AM lemma="HNP" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="HNP-1_^(hrubý_národní_produkt)" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1294-001-p1s15W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5868,12 +5874,14 @@
 <w.rf>
 <LM>w#w-wsj1294-001-p1s17W14</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Ministerstvo</form>
 <tag>
 <AM lemma="ministerstvo" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="ministerstvo" src="auto">NNNS4-----A----</AM>
-<AM lemma="ministerstvo" src="auto">NNNS5-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="ministerstvo" src="auto">NNNS5-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj1294-001-p1s17W15-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -8432,7 +8440,10 @@
 <LM>w#w-wsj1294-001-p1s24W9</LM>
 </w.rf>
 <form>HNP</form>
-<tag lemma="HNP" src="auto" recommended="1">BNXXX-----A----</tag>
+<tag>
+<AM lemma="HNP" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="HNP-1_^(hrubý_národní_produkt)" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1294-001-p1s24W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8760,7 +8771,10 @@
 <LM>w#w-wsj1294-001-p1s26W6</LM>
 </w.rf>
 <form>HNP</form>
-<tag lemma="HNP" src="auto" recommended="1">BNXXX-----A----</tag>
+<tag>
+<AM lemma="HNP" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="HNP-1_^(hrubý_národní_produkt)" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1294-001-p1s26W7-Ta">
 <src.rf>tagger-a</src.rf>

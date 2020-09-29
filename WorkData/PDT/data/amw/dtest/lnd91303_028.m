@@ -528,7 +528,8 @@
 <AM lemma="nalézt" src="orig">VpTP---XR-AA---</AM>
 <AM lemma="nalézt-1_^(někam)" src="auto" recommended="1">VpTP---XR-AA---</AM>
 <AM lemma="nalézt-2" src="auto">VpTP---XR-AA---</AM>
-<AM lemma="nalézt-2" src="manual" selected="1">VpTP----R-AAP--</AM>
+<AM lemma="nalézt-2" src="manual">VpTP----R-AAP--</AM>
+<AM lemma="naleznout" src="manual" selected="1">VpTP----R-AAP-1</AM>
 </tag>
 </m>
 <m id="m-lnd91303-028-p4s3w13">

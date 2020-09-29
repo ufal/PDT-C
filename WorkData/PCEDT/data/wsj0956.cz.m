@@ -1318,7 +1318,10 @@
 <LM>w#w-wsj0956-001-p1s5W3</LM>
 </w.rf>
 <form>nalézt</form>
-<tag lemma="nalézt_^(někam;naleznout)" src="auto" recommended="1">Vf--------A-P--</tag>
+<tag>
+<AM lemma="nalézt_^(někam;naleznout)" src="auto" recommended="1">Vf--------A-P--</AM>
+<AM lemma="naleznout" src="manual" selected="1">Vf--------A-P-1</AM>
+</tag>
 </m>
 <m id="m-wsj0956-001-p1s5W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6172,16 +6175,18 @@
 <AM lemma="Q-33" src="auto" recommended="1">Q3-------------</AM>
 <AM lemma="Q-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="q-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="q-88_:B" src="auto">NNXXX-----A----</AM></tag>
-</m><m id="m-wsj0956-001-p1s20W16-Ta-sw1">
+<AM lemma="q-88_:B" src="auto">NNXXX-----A----</AM>
+</tag>
+</m>
+<m id="m-wsj0956-001-p1s20W16-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0956-001-p1s20W16</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>45</form>
-<tag>
-<AM lemma="45" src="auto" recommended="1">C=-------------</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="45" src="auto" recommended="1">C=-------------</tag>
+</m>
 <m id="m-wsj0956-001-p1s20W17-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

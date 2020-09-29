@@ -3413,6 +3413,8 @@
 <AM lemma="image-2" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="image" src="auto">NNNXX-----A----</AM>
 <AM lemma="image" src="auto">NNXXX-----A----</AM>
+<AM lemma="image-1" src="manual">NNFXX-----A----</AM>
+<AM lemma="image-2" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1856-001-p1s14W23-Ta">
@@ -7368,9 +7370,11 @@
 <form>Image</form>
 <tag>
 <AM lemma="image" src="auto">NNFXX-----A----</AM>
-<AM lemma="image-2" src="auto" selected="1">NNIXX-----A----</AM>
+<AM lemma="image-2" src="auto">NNIXX-----A----</AM>
 <AM lemma="image" src="auto">NNNXX-----A----</AM>
 <AM lemma="image" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="image-1" src="manual">NNFS1-----A----</AM>
+<AM lemma="image-2" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1856-001-p1s31W2-Ta">
@@ -7702,6 +7706,7 @@
 <AM lemma="image-2" src="auto" selected="1">NNIXX-----A----</AM>
 <AM lemma="image" src="auto">NNNXX-----A----</AM>
 <AM lemma="image" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="image-1" src="manual">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1856-001-p1s32W14-Ta">
@@ -9784,6 +9789,7 @@
 <AM lemma="image-2" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="image" src="auto">NNNXX-----A----</AM>
 <AM lemma="image" src="auto">NNXXX-----A----</AM>
+<AM lemma="image-2" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1856-001-p1s38W13-Ta">
@@ -15899,6 +15905,7 @@
 <AM lemma="image-2" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="image" src="auto">NNNXX-----A----</AM>
 <AM lemma="image" src="auto">NNXXX-----A----</AM>
+<AM lemma="image-2" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1856-001-p1s61W5-Ta">
@@ -16278,9 +16285,10 @@
 <form>image</form>
 <tag>
 <AM lemma="image" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="image-2" src="auto" selected="1">NNIXX-----A----</AM>
+<AM lemma="image-2" src="auto">NNIXX-----A----</AM>
 <AM lemma="image" src="auto">NNNXX-----A----</AM>
 <AM lemma="image" src="auto">NNXXX-----A----</AM>
+<AM lemma="image-2" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1856-001-p1s62W18-Ta">

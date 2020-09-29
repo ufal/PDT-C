@@ -53,7 +53,10 @@
 <LM>w#w-cmpr9406-027-p3s1w1</LM>
 </w.rf>
 <form>Image</form>
-<tag lemma="image" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="image" src="orig">NNXXX-----A----</AM>
+<AM lemma="image-1" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-027-p3s1w2">
 <src.rf>manual</src.rf>
@@ -2315,7 +2318,10 @@
 <LM>w#w-cmpr9406-027-p9s3w4</LM>
 </w.rf>
 <form>image</form>
-<tag lemma="image-2" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="image-2" src="orig">NNIXX-----A----</AM>
+<AM lemma="image-2" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-027-p9s3w5">
 <src.rf>manual</src.rf>

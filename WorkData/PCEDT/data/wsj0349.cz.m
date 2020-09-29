@@ -2103,6 +2103,7 @@
 <w.rf>
 <LM>w#w-wsj0349-001-p1s6W24</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>který</form>
 <tag>
 <AM lemma="který" src="auto">P4FS2---------6</AM>
@@ -2113,8 +2114,9 @@
 <AM lemma="který" src="auto">P4NS4---------6</AM>
 <AM lemma="který" src="auto">P4XP1---------6</AM>
 <AM lemma="který" src="auto">P4XP4---------6</AM>
-<AM lemma="který" src="auto">P4YS1----------</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="který" src="auto">P4YS1----------</AM>
+</tag>
+</m>
 <m id="m-wsj0349-001-p1s6W25-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -4368,7 +4370,7 @@
 </w.rf>
 <form>nalezly</form>
 <tag>
-<AM lemma="naleznout" src="auto">VpTP----R-AAP-1</AM>
+<AM lemma="naleznout" src="auto" selected="1">VpTP----R-AAP-1</AM>
 <AM lemma="nalézt_^(někam;naleznout)" src="auto" recommended="1">VpTP----R-AAP--</AM>
 </tag>
 </m>
@@ -12297,10 +12299,10 @@
 <w.rf>
 <LM>w#w-wsj0349-001-p1s39W29</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>dolarů</form>
-<tag>
-<AM lemma="dolar" src="auto" recommended="1">NNIP2-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="dolar" src="auto" recommended="1">NNIP2-----A----</tag>
+</m>
 <m id="m-wsj0349-001-p1s39W30-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

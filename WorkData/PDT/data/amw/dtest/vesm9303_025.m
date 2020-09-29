@@ -1836,8 +1836,8 @@
 <w.rf>
 <LM>w#w-vesm9303-025-p5s1w15</LM>
 </w.rf>
-<form>&gt;</form>
-<tag lemma="&gt;" src="orig" selected="1">Z:-------------</tag>
+<form>></form>
+<tag lemma=">" src="orig" selected="1">Z:-------------</tag>
 </m>
 <m id="m-vesm9303-025-p5s1w16">
 <src.rf>manual</src.rf>
@@ -3837,8 +3837,8 @@
 <w.rf>
 <LM>w#w-vesm9303-025-p11s6w3</LM>
 </w.rf>
-<form>&gt;</form>
-<tag lemma="&gt;" src="orig" selected="1">Z:-------------</tag>
+<form>></form>
+<tag lemma=">" src="orig" selected="1">Z:-------------</tag>
 </m>
 <m id="m-vesm9303-025-p11s6w4">
 <src.rf>manual</src.rf>
@@ -4379,7 +4379,8 @@
 <tag>
 <AM lemma="nalézt" src="orig">Vf--------A----</AM>
 <AM lemma="nalézt-1_^(někam)" src="auto" recommended="1">Vf--------A----</AM>
-<AM lemma="nalézt_^(někam)" src="auto" selected="1">Vf--------A-I--</AM>
+<AM lemma="nalézt_^(někam)" src="auto">Vf--------A-I--</AM>
+<AM lemma="naleznout" src="manual" selected="1">Vf--------A-P-1</AM>
 </tag>
 </m>
 <m id="m-vesm9303-025-p11s7w2">

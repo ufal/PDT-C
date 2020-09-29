@@ -3232,7 +3232,7 @@
 </w.rf>
 <form>nalezla</form>
 <tag>
-<AM lemma="naleznout" src="auto">VpQW----R-AAP-1</AM>
+<AM lemma="naleznout" src="auto" selected="1">VpQW----R-AAP-1</AM>
 <AM lemma="nalézt_^(někam;naleznout)" src="auto" recommended="1">VpQW----R-AAP--</AM>
 </tag>
 </m>

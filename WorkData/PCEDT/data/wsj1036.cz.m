@@ -5305,7 +5305,10 @@
 <LM>w#w-wsj1036-001-p1s14W16</LM>
 </w.rf>
 <form>HNP</form>
-<tag lemma="HNP" src="auto" recommended="1">BNXXX-----A----</tag>
+<tag>
+<AM lemma="HNP" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="HNP-1_^(hrubý_národní_produkt)" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1036-001-p1s14W17-Ta">
 <src.rf>tagger-a</src.rf>

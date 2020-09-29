@@ -956,7 +956,8 @@
 <AM lemma="alexandr_^(pták)" src="auto">NNMS6-----A----</AM>
 <AM lemma="alexandrův_^(pták)_(*2)" src="auto">AUMP1M---------</AM>
 <AM lemma="alexandrův_^(pták)_(*2)" src="auto">AUMP5M---------</AM>
-<AM lemma="Alexander_;Y" src="manual" selected="1">NNMS3-----A---1</AM>
+<AM lemma="Alexander_;Y" src="manual">NNMS3-----A---1</AM>
+<AM lemma="Alexander_;Y" src="manual" selected="1">NNMS3-----A---2</AM>
 </tag>
 </m>
 <m id="m-wsj2167-001-p1s4W8-Ta">

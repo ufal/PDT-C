@@ -143,7 +143,8 @@
 <AM lemma="nalézt" src="orig">VpYS---XR-AA---</AM>
 <AM lemma="nalézt-1_^(někam)" src="auto" recommended="1">VpYS---XR-AA---</AM>
 <AM lemma="nalézt-2" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="nalézt-2" src="manual" selected="1">VpYS----R-AAP--</AM>
+<AM lemma="nalézt-2" src="manual">VpYS----R-AAP--</AM>
+<AM lemma="naleznout" src="manual" selected="1">VpYS----R-AAP-1</AM>
 </tag>
 </m>
 <m id="m-mf930708-085-p2s1w11">
@@ -831,7 +832,8 @@
 <AM lemma="nalézt" src="orig">VpMP---XR-AA---</AM>
 <AM lemma="nalézt-1_^(někam)" src="auto" recommended="1">VpMP---XR-AA---</AM>
 <AM lemma="nalézt-2" src="auto">VpMP---XR-AA---</AM>
-<AM lemma="nalézt-2" src="manual" selected="1">VpMP----R-AAP--</AM>
+<AM lemma="nalézt-2" src="manual">VpMP----R-AAP--</AM>
+<AM lemma="naleznout" src="manual" selected="1">VpMP----R-AAP-1</AM>
 </tag>
 </m>
 <m id="m-mf930708-085-p3s4w3">

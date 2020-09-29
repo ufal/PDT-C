@@ -37,7 +37,10 @@
 <LM>w#w-ln95048-070-p2s1Aw1</LM>
 </w.rf>
 <form>Image</form>
-<tag lemma="image" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="image" src="orig">NNXXX-----A----</AM>
+<AM lemma="image-2" src="manual" selected="1">NNIP1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-070-p2s1Aw2">
 <src.rf>manual</src.rf>
@@ -2046,7 +2049,11 @@
 <LM>w#w-ln95048-070-p3s5w8</LM>
 </w.rf>
 <form>image</form>
-<tag lemma="image" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="image" src="orig">NNXXX-----A----</AM>
+<AM lemma="image-2" src="manual">NNIS4-----A----</AM>
+<AM lemma="image-1" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-070-p3s5w9">
 <src.rf>manual</src.rf>
@@ -2511,7 +2518,11 @@
 <LM>w#w-ln95048-070-p3s9w5</LM>
 </w.rf>
 <form>image</form>
-<tag lemma="image" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="image" src="orig">NNXXX-----A----</AM>
+<AM lemma="image-2" src="manual">NNIXX-----A----</AM>
+<AM lemma="image-1" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-070-p3s9w6">
 <src.rf>manual</src.rf>
@@ -2839,7 +2850,11 @@
 <LM>w#w-ln95048-070-p4s1w2</LM>
 </w.rf>
 <form>image</form>
-<tag lemma="image" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="image" src="orig">NNXXX-----A----</AM>
+<AM lemma="image-1" src="manual">NNIP1-----A----</AM>
+<AM lemma="image-2" src="manual" selected="1">NNIP1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-070-p4s1w3">
 <src.rf>manual</src.rf>
@@ -4302,7 +4317,10 @@
 <LM>w#w-ln95048-070-p5s11w15</LM>
 </w.rf>
 <form>image</form>
-<tag lemma="image" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="image" src="orig">NNXXX-----A----</AM>
+<AM lemma="image-2" src="manual" selected="1">NNIXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-070-p5s11w16">
 <src.rf>manual</src.rf>
@@ -4392,7 +4410,10 @@
 <LM>w#w-ln95048-070-p5s12w8</LM>
 </w.rf>
 <form>image</form>
-<tag lemma="image" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="image" src="orig">NNXXX-----A----</AM>
+<AM lemma="image-2" src="manual" selected="1">NNIXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-070-p5s12w9">
 <src.rf>manual</src.rf>
@@ -5004,7 +5025,10 @@
 <LM>w#w-ln95048-070-p5s18w5</LM>
 </w.rf>
 <form>image</form>
-<tag lemma="image" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="image" src="orig">NNXXX-----A----</AM>
+<AM lemma="image-2" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-070-p5s18w6">
 <src.rf>manual</src.rf>
@@ -5455,7 +5479,10 @@
 <LM>w#w-ln95048-070-p5s22w8</LM>
 </w.rf>
 <form>image</form>
-<tag lemma="image" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="image" src="orig">NNXXX-----A----</AM>
+<AM lemma="image" src="manual" selected="1">NNIP1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-070-p5s22w9">
 <src.rf>manual</src.rf>
@@ -5808,7 +5835,10 @@
 <LM>w#w-ln95048-070-p5s25w9</LM>
 </w.rf>
 <form>image</form>
-<tag lemma="image" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="image" src="orig">NNXXX-----A----</AM>
+<AM lemma="image-2" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-070-p5s25w10">
 <src.rf>manual</src.rf>
@@ -6205,7 +6235,10 @@
 <LM>w#w-ln95048-070-p6s1w7</LM>
 </w.rf>
 <form>image</form>
-<tag lemma="image" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="image" src="orig">NNXXX-----A----</AM>
+<AM lemma="image-2" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-070-p6s1w8">
 <src.rf>manual</src.rf>
@@ -6231,7 +6264,10 @@
 <LM>w#w-ln95048-070-p6s2w1</LM>
 </w.rf>
 <form>Image</form>
-<tag lemma="image" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="image" src="orig">NNXXX-----A----</AM>
+<AM lemma="image-2" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-070-p6s2w2">
 <src.rf>manual</src.rf>
@@ -6617,7 +6653,10 @@
 <LM>w#w-ln95048-070-p6s6Bw2</LM>
 </w.rf>
 <form>image</form>
-<tag lemma="image-2" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="image-2" src="orig">NNIXX-----A----</AM>
+<AM lemma="image-2" src="manual" selected="1">NNIP1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-070-p6s6Bw3">
 <src.rf>manual</src.rf>
@@ -6883,7 +6922,10 @@
 <LM>w#w-ln95048-070-p6s8w3</LM>
 </w.rf>
 <form>image</form>
-<tag lemma="image" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="image" src="orig">NNXXX-----A----</AM>
+<AM lemma="image-2" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-070-p6s8w4">
 <src.rf>manual</src.rf>
@@ -7585,7 +7627,10 @@
 <LM>w#w-ln95048-070-p6s12w9</LM>
 </w.rf>
 <form>všechny</form>
-<tag lemma="všechen" src="orig" selected="1">PLFP1----------</tag>
+<tag>
+<AM lemma="všechen" src="orig">PLFP1----------</AM>
+<AM lemma="všechen" src="manual" selected="1">PLIP1----------</AM>
+</tag>
 </m>
 <m id="m-ln95048-070-p6s12w10">
 <src.rf>manual</src.rf>
@@ -7593,7 +7638,10 @@
 <LM>w#w-ln95048-070-p6s12w10</LM>
 </w.rf>
 <form>image</form>
-<tag lemma="image-2" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="image-2" src="orig">NNIXX-----A----</AM>
+<AM lemma="image-2" src="manual" selected="1">NNIP1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-070-p6s12w11">
 <src.rf>manual</src.rf>
@@ -7790,7 +7838,10 @@
 <LM>w#w-ln95048-070-p6s13w6</LM>
 </w.rf>
 <form>image</form>
-<tag lemma="image" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="image" src="orig">NNXXX-----A----</AM>
+<AM lemma="image-2" src="manual" selected="1">NNIP1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-070-p6s13w7">
 <src.rf>manual</src.rf>
@@ -8036,7 +8087,10 @@
 <LM>w#w-ln95048-070-p6s14w20</LM>
 </w.rf>
 <form>image</form>
-<tag lemma="image" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="image" src="orig">NNXXX-----A----</AM>
+<AM lemma="image-2" src="manual" selected="1">NNIP1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-070-p6s14w21">
 <src.rf>manual</src.rf>
@@ -8147,7 +8201,11 @@
 <LM>w#w-ln95048-070-p6s16w2</LM>
 </w.rf>
 <form>image</form>
-<tag lemma="image" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="image" src="orig">NNXXX-----A----</AM>
+<AM lemma="image-2" src="manual">NNIS1-----A----</AM>
+<AM lemma="image-2" src="manual" selected="1">NNIP1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-070-p6s16w3">
 <src.rf>manual</src.rf>
@@ -8466,7 +8524,10 @@
 <LM>w#w-ln95048-070-p7s1w2</LM>
 </w.rf>
 <form>image</form>
-<tag lemma="image-2" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="image-2" src="orig">NNIXX-----A----</AM>
+<AM lemma="image-2" src="manual" selected="1">NNIP1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-070-p7s1w3">
 <src.rf>manual</src.rf>
@@ -8490,7 +8551,10 @@
 <LM>w#w-ln95048-070-p7s1w5</LM>
 </w.rf>
 <form>image</form>
-<tag lemma="image-2" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="image-2" src="orig">NNIXX-----A----</AM>
+<AM lemma="image-2" src="manual" selected="1">NNIP1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-070-p7s1w6">
 <src.rf>manual</src.rf>
@@ -8798,7 +8862,10 @@
 <LM>w#w-ln95048-070-p7s4w2</LM>
 </w.rf>
 <form>image</form>
-<tag lemma="image" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="image" src="orig">NNXXX-----A----</AM>
+<AM lemma="image-2" src="manual" selected="1">NNIXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-070-p7s4w3">
 <src.rf>manual</src.rf>
@@ -8822,7 +8889,10 @@
 <LM>w#w-ln95048-070-p7s4w5</LM>
 </w.rf>
 <form>Image</form>
-<tag lemma="image" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="image" src="orig">NNXXX-----A----</AM>
+<AM lemma="image-2" src="manual" selected="1">NNIP1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-070-p7s4w6">
 <src.rf>manual</src.rf>
@@ -8928,7 +8998,11 @@
 <LM>w#w-ln95048-070-p7s5w12</LM>
 </w.rf>
 <form>image</form>
-<tag lemma="image" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="image" src="orig">NNXXX-----A----</AM>
+<AM lemma="image-1" src="manual">NNFS2-----A----</AM>
+<AM lemma="image-2" src="manual" selected="1">NNIXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-070-p7s5w13">
 <src.rf>manual</src.rf>
@@ -8992,7 +9066,11 @@
 <LM>w#w-ln95048-070-p7s5w20</LM>
 </w.rf>
 <form>image</form>
-<tag lemma="image-1" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="image-1" src="orig">NNFXX-----A----</AM>
+<AM lemma="image-1" src="manual">NNFP1-----A----</AM>
+<AM lemma="image-2" src="manual" selected="1">NNIP1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-070-p7s5w21">
 <src.rf>manual</src.rf>
@@ -9336,7 +9414,10 @@
 <LM>w#w-ln95048-070-p7s9w1</LM>
 </w.rf>
 <form>Image</form>
-<tag lemma="image" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="image" src="orig">NNXXX-----A----</AM>
+<AM lemma="image-2" src="manual" selected="1">NNIP1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-070-p7s9w2">
 <src.rf>manual</src.rf>
@@ -9371,7 +9452,10 @@
 <LM>w#w-ln95048-070-p7s9w5</LM>
 </w.rf>
 <form>image</form>
-<tag lemma="image" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="image" src="orig">NNXXX-----A----</AM>
+<AM lemma="image-2" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-070-p7s9w6">
 <src.rf>manual</src.rf>
@@ -9543,7 +9627,10 @@
 <LM>w#w-ln95048-070-p7s10Bw5</LM>
 </w.rf>
 <form>image</form>
-<tag lemma="image" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="image" src="orig">NNXXX-----A----</AM>
+<AM lemma="image-2" src="manual" selected="1">NNIP1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-070-p7s10Bw6">
 <src.rf>manual</src.rf>
@@ -9683,7 +9770,10 @@
 <LM>w#w-ln95048-070-p7s12w6</LM>
 </w.rf>
 <form>moc</form>
-<tag lemma="moc-2_^(mnoho_něčeho_[se_subst._v_gen.])" src="orig" selected="1">Ca--X----------</tag>
+<tag>
+<AM lemma="moc-2_^(mnoho_něčeho_[se_subst._v_gen.])" src="orig">Ca--X----------</AM>
+<AM lemma="moc-3_^(moc_hezká,_moc_peněz)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln95048-070-p7s12w7">
 <src.rf>manual</src.rf>
@@ -9995,7 +10085,10 @@
 <LM>w#w-ln95048-070-p8s1w2</LM>
 </w.rf>
 <form>image</form>
-<tag lemma="image" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="image" src="orig">NNXXX-----A----</AM>
+<AM lemma="image-2" src="manual" selected="1">NNIXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-070-p8s1w3">
 <src.rf>manual</src.rf>
@@ -10069,7 +10162,10 @@
 <LM>w#w-ln95048-070-p8s2w2</LM>
 </w.rf>
 <form>o</form>
-<tag lemma="o-1" src="orig" selected="1">RR--4----------</tag>
+<tag>
+<AM lemma="o-1" src="orig">RR--4----------</AM>
+<AM lemma="o-1" src="manual" selected="1">RR--6----------</AM>
+</tag>
 </m>
 <m id="m-ln95048-070-p8s2w3">
 <src.rf>manual</src.rf>
@@ -10077,7 +10173,11 @@
 <LM>w#w-ln95048-070-p8s2w3</LM>
 </w.rf>
 <form>image</form>
-<tag lemma="image" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="image" src="orig">NNXXX-----A----</AM>
+<AM lemma="image-2" src="manual">NNIXX-----A----</AM>
+<AM lemma="image-2" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-070-p8s2w4">
 <src.rf>manual</src.rf>
@@ -10095,7 +10195,10 @@
 <LM>w#w-ln95048-070-p8s3w1</LM>
 </w.rf>
 <form>Image</form>
-<tag lemma="image" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="image" src="orig">NNXXX-----A----</AM>
+<AM lemma="image" src="manual" selected="1">NNIP1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-070-p8s3w2">
 <src.rf>manual</src.rf>

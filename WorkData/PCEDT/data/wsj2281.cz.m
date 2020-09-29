@@ -1910,7 +1910,7 @@
 <AM lemma="americký" src="auto">AAFS1----2A----</AM>
 <AM lemma="americký" src="auto">AAFS2----2A----</AM>
 <AM lemma="americký" src="auto">AAFS3----2A----</AM>
-<AM lemma="americký" src="auto">AAFS4----2A----</AM>
+<AM lemma="americký" src="auto" selected="1">AAFS4----2A----</AM>
 <AM lemma="americký" src="auto">AAFS5----2A----</AM>
 <AM lemma="americký" src="auto">AAFS6----2A----</AM>
 <AM lemma="americký" src="auto">AAFS7----2A----</AM>
@@ -1944,6 +1944,7 @@
 <AM lemma="image-2" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="image" src="auto">NNNXX-----A----</AM>
 <AM lemma="image" src="auto">NNXXX-----A----</AM>
+<AM lemma="image-1" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2281-001-p1s3W29-Ta">
@@ -8527,13 +8528,14 @@
 <LM>w#w-wsj2281-001-p1s22W28</LM>
 </w.rf>
 <form>12</form>
-<tag>
-<AM lemma="12" src="auto" recommended="1">C=-------------</AM></tag>
-</m><m id="m-wsj2281-001-p1s22W28-Ta-sw1">
+<tag lemma="12" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m-wsj2281-001-p1s22W28-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj2281-001-p1s22W28</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>měsíční</form>
 <tag>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AAFP1----1A----</AM>
@@ -8564,8 +8566,9 @@
 <AM lemma="měsíční" src="auto" recommended="1">AANS4----1A----</AM>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AANS5----1A----</AM>
 <AM lemma="měsíčný_^(arch.;_př._měsíčná_noc)" src="auto">AAMP1----1A----</AM>
-<AM lemma="měsíčný_^(arch.;_př._měsíčná_noc)" src="auto">AAMP5----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="měsíčný_^(arch.;_př._měsíčná_noc)" src="auto">AAMP5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj2281-001-p1s22W29-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

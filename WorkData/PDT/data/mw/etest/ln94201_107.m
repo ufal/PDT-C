@@ -7206,7 +7206,10 @@
 <LM>w#w-ln94201-107-p10s3w6</LM>
 </w.rf>
 <form>pozůstalé</form>
-<tag lemma="pozůstalý_^(*2t)" src="auto" selected="1">AAMP4----1A----</tag>
+<tag>
+<AM lemma="pozůstalý_^(*2t)" src="auto">AAMP4----1A----</AM>
+<AM lemma="pozůstalý-2" src="manual" selected="1">NNMP4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-107-p10s3w7">
 <src.rf>manual</src.rf>
@@ -7234,7 +7237,8 @@
 <AM lemma="nalézt" src="orig">Vf--------A----</AM>
 <AM lemma="nalézt-1_^(někam)" src="auto" recommended="1">Vf--------A----</AM>
 <AM lemma="nalézt-2" src="auto">Vf--------A----</AM>
-<AM lemma="nalézt-2" src="manual" selected="1">Vf--------A-P--</AM>
+<AM lemma="nalézt-2" src="manual">Vf--------A-P--</AM>
+<AM lemma="naleznout" src="manual" selected="1">Vf--------A-P-1</AM>
 </tag>
 </m>
 <m id="m-ln94201-107-p10s3w10">

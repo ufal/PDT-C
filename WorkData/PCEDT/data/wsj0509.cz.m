@@ -4914,10 +4914,11 @@
 </w.rf>
 <form>image</form>
 <tag>
-<AM lemma="image-1" src="auto" selected="1">NNFXX-----A----</AM>
+<AM lemma="image-1" src="auto">NNFXX-----A----</AM>
 <AM lemma="image" src="auto">NNIXX-----A----</AM>
 <AM lemma="image" src="auto">NNNXX-----A----</AM>
 <AM lemma="image" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="image-1" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0509-001-p1s19W36-Ta">
