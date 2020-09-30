@@ -2051,7 +2051,8 @@
 <AM lemma="nato" src="auto">Db-------------</AM>
 <AM lemma="NATO_;m_^(North_Atlantic_Treaty_Organization)" src="manual">NNNXX-----A----</AM>
 <AM lemma="NATO_;m_^(North_Atlantic_Treaty_Organization)" src="manual">BNXXX-----A----</AM>
-<AM lemma="Nato_;m_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Nato_;m_^(North_Atlantic_Treaty_Organization)" src="manual">BNXXX-----A----</AM>
+<AM lemma="Nato_;m_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-118-p3s5w3">
