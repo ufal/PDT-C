@@ -3581,8 +3581,8 @@
 </w.rf>
 <form>Aston</form>
 <tag>
-<AM lemma="Aston_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Aston-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Aston_;G" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Aston-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-125-p7s2w20">

@@ -2051,8 +2051,8 @@
 <form>image</form>
 <tag>
 <AM lemma="image" src="orig">NNXXX-----A----</AM>
-<AM lemma="image-2" src="manual">NNIS4-----A----</AM>
-<AM lemma="image-1" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="image-2" src="manual" selected="1">NNIS4-----A----</AM>
+<AM lemma="image-1" src="manual">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-070-p3s5w9">
@@ -2521,7 +2521,8 @@
 <tag>
 <AM lemma="image" src="orig">NNXXX-----A----</AM>
 <AM lemma="image-2" src="manual">NNIXX-----A----</AM>
-<AM lemma="image-1" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="image-1" src="manual">NNFS2-----A----</AM>
+<AM lemma="image-2" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-070-p3s9w6">
@@ -8089,7 +8090,8 @@
 <form>image</form>
 <tag>
 <AM lemma="image" src="orig">NNXXX-----A----</AM>
-<AM lemma="image-2" src="manual" selected="1">NNIP1-----A----</AM>
+<AM lemma="image-2" src="manual">NNIP1-----A----</AM>
+<AM lemma="image-2" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-070-p6s14w21">
@@ -9001,7 +9003,8 @@
 <tag>
 <AM lemma="image" src="orig">NNXXX-----A----</AM>
 <AM lemma="image-1" src="manual">NNFS2-----A----</AM>
-<AM lemma="image-2" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="image-2" src="manual">NNIXX-----A----</AM>
+<AM lemma="image-2" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-070-p7s5w13">
@@ -10087,7 +10090,8 @@
 <form>image</form>
 <tag>
 <AM lemma="image" src="orig">NNXXX-----A----</AM>
-<AM lemma="image-2" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="image-2" src="manual">NNIXX-----A----</AM>
+<AM lemma="image-2" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-070-p8s1w3">
@@ -10197,7 +10201,8 @@
 <form>Image</form>
 <tag>
 <AM lemma="image" src="orig">NNXXX-----A----</AM>
-<AM lemma="image" src="manual" selected="1">NNIP1-----A----</AM>
+<AM lemma="image" src="manual">NNIP1-----A----</AM>
+<AM lemma="image-2" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-070-p8s3w2">

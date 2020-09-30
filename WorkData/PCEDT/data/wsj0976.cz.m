@@ -5155,10 +5155,10 @@
 <w.rf>
 <LM>w#w-wsj0976-001-p1s16W39</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Trojka</form>
-<tag>
-<AM lemma="trojka" src="auto" recommended="1">NNFS1-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="trojka" src="auto" recommended="1">NNFS1-----A----</tag>
+</m>
 <m id="m-wsj0976-001-p1s16W40-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -6114,6 +6114,7 @@
 <tag>
 <AM lemma="wan_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="wan_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="wan" src="manual" selected="1">SNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0976-001-p1s19W29-Ta">

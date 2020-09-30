@@ -1967,8 +1967,9 @@
 </w.rf>
 <form>wan</form>
 <tag>
-<AM lemma="wan_;G" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
+<AM lemma="wan_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="wan_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="wan" src="manual" selected="1">SNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0245-001-p1s6W9-Ta">

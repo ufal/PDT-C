@@ -10456,7 +10456,8 @@
 <tag>
 <AM lemma="wan_;G" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="wan_;G" src="auto">NNIS3-----A----</AM>
-<AM lemma="wan_;G" src="auto" selected="1">NNIS6-----A----</AM>
+<AM lemma="wan_;G" src="auto">NNIS6-----A----</AM>
+<AM lemma="wan" src="manual" selected="1">SNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0761-001-p1s37W25-Ta">

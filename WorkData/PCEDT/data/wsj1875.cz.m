@@ -11759,7 +11759,8 @@
 <AM lemma="image" src="auto">NNIXX-----A----</AM>
 <AM lemma="image" src="auto">NNNXX-----A----</AM>
 <AM lemma="image" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="image-1" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="image-1" src="manual">NNFXX-----A----</AM>
+<AM lemma="image-2" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1875-001-p1s45W5-Ta">
@@ -12058,7 +12059,8 @@
 <AM lemma="image" src="auto">NNIXX-----A----</AM>
 <AM lemma="image" src="auto">NNNXX-----A----</AM>
 <AM lemma="image" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="image-1" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="image-1" src="manual">NNFXX-----A----</AM>
+<AM lemma="image-2" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1875-001-p1s46W6-Ta">
@@ -12206,7 +12208,8 @@
 <AM lemma="image" src="auto">NNIXX-----A----</AM>
 <AM lemma="image" src="auto">NNNXX-----A----</AM>
 <AM lemma="image" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="image-1" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="image-1" src="manual">NNFS2-----A----</AM>
+<AM lemma="image-2" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1875-001-p1s47W9-Ta">

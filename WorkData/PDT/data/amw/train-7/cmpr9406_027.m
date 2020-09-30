@@ -55,7 +55,8 @@
 <form>Image</form>
 <tag>
 <AM lemma="image" src="orig">NNXXX-----A----</AM>
-<AM lemma="image-1" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="image-1" src="manual">NNFXX-----A----</AM>
+<AM lemma="image-2" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-027-p3s1w2">

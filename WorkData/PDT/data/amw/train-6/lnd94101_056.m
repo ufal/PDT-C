@@ -1216,7 +1216,10 @@
 <LM>w#w-lnd94101-056-p1s9w19</LM>
 </w.rf>
 <form>NATO</form>
-<tag lemma="NATO_;m_^(North_Atlantic_Treaty_Organization)" src="auto" selected="1">NNNXX-----A---b</tag>
+<tag>
+<AM lemma="NATO_;m_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---b</AM>
+<AM lemma="NATO-1_;m_^(Northtlantic_Treaty_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-056-p1s9w20">
 <src.rf>manual</src.rf>

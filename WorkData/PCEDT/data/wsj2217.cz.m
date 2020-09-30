@@ -117,7 +117,8 @@
 <AM lemma="Lawrence_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Lawrence_;Y" src="auto">NNMXX-----A----</AM>
 <AM lemma="Lawrence-77" src="manual">F%-------------</AM>
-<AM lemma="Lawrence_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Lawrence_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Lawrence-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2217-001-p1s0W7-Ta">

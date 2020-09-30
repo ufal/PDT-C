@@ -156,7 +156,8 @@
 <form>United</form>
 <tag>
 <AM lemma="United_;m_,t_^(souč._angl._názvu)" src="orig">AAXXX----1A----</AM>
-<AM lemma="United-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="United-77" src="manual">F%-------------</AM>
+<AM lemma="United_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-039-p2s1Bw11">

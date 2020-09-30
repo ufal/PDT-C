@@ -6573,7 +6573,10 @@
 <LM>w#w-ln95048-117-p9s2w13</LM>
 </w.rf>
 <form>image</form>
-<tag lemma="image" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="image" src="orig">NNXXX-----A----</AM>
+<AM lemma="image-2" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-117-p9s2w14">
 <src.rf>manual</src.rf>
@@ -6615,7 +6618,10 @@
 <LM>w#w-ln95048-117-p9s3w1</LM>
 </w.rf>
 <form>Image</form>
-<tag lemma="image" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="image" src="orig">NNXXX-----A----</AM>
+<AM lemma="image-2" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-117-p9s3w2">
 <src.rf>manual</src.rf>

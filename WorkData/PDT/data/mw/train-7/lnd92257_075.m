@@ -1134,7 +1134,8 @@
 <form>Lawrence</form>
 <tag>
 <AM lemma="Lawrence_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Lawrence_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Lawrence_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Lawrence-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-075-p4s4w11">

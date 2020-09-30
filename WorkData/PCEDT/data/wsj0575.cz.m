@@ -1997,7 +1997,8 @@
 <AM lemma="Lawrence_;Y" src="auto">NNMS4-----A---1</AM>
 <AM lemma="Lawrence_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Lawrence_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Lawrence_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Lawrence_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Lawrence-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0575-001-p1s7W13-Ta">
@@ -2636,7 +2637,8 @@
 <AM lemma="Lawrence_;Y" src="auto">NNMS4-----A---1</AM>
 <AM lemma="Lawrence_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Lawrence_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Lawrence_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Lawrence_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Lawrence-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0575-001-p1s10W2-Ta">
@@ -3607,7 +3609,8 @@
 <AM lemma="Lawrence_;Y" src="auto">NNMS4-----A---1</AM>
 <AM lemma="Lawrence_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Lawrence_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Lawrence_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Lawrence_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Lawrence-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0575-001-p1s12W17-Ta">
@@ -5748,7 +5751,8 @@
 <AM lemma="Lawrence_;Y" src="auto">NNMS4-----A---1</AM>
 <AM lemma="Lawrence_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Lawrence_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Lawrence_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Lawrence_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Lawrence-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0575-001-p1s20W2-Ta">
@@ -5996,10 +6000,10 @@
 <w.rf>
 <LM>w#w-wsj0575-001-p1s20W21</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Minnesotou</form>
-<tag>
-<AM lemma="Minnesota_;G" src="auto" recommended="1">NNFS7-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="Minnesota_;G" src="auto" recommended="1">NNFS7-----A----</tag>
+</m>
 <m id="m-wsj0575-001-p1s20W22-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -10212,7 +10216,8 @@
 <AM lemma="Lawrence_;Y" src="auto">NNMS4-----A---1</AM>
 <AM lemma="Lawrence_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Lawrence_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Lawrence_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Lawrence_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Lawrence-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0575-001-p1s36W16-Ta">

@@ -582,7 +582,10 @@
 <LM>w#w-lnd94103-040-p1s6w1</LM>
 </w.rf>
 <form>Image</form>
-<tag lemma="image" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="image" src="orig">NNXXX-----A----</AM>
+<AM lemma="image-1" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-040-p1s6w2">
 <src.rf>manual</src.rf>

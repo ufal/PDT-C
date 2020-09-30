@@ -530,7 +530,8 @@
 <AM lemma="Lawrence_;Y" src="auto">NNMS4-----A---1</AM>
 <AM lemma="Lawrence_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Lawrence-3_;Y" src="manual">NNMS2-----A----</AM>
-<AM lemma="Lawrence_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Lawrence_;Y" src="manual">NNMXX-----A----</AM>
+<AM lemma="Lawrence-1_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-105-p3s2w9">

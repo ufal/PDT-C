@@ -901,7 +901,8 @@
 <AM lemma="Dundee_;m" src="orig">NNIXX-----A----</AM>
 <AM lemma="Dundee_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Dundee_;Y" src="auto">NNMS5-----A----</AM>
-<AM lemma="Dundee-2_;m" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="Dundee-2_;m" src="manual">NNIXX-----A----</AM>
+<AM lemma="Dundee-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-081-p2s6w13">

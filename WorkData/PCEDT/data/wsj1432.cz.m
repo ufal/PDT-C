@@ -4631,16 +4631,18 @@
 <AM lemma="a-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="a-77_,t" src="auto">F%-------------</AM>
 <AM lemma="a-88_:B" src="auto">NNXXX-----A----</AM>
-<AM lemma="akciový" src="auto">AAXXX----1A---8</AM></tag>
-</m><m id="m-wsj1432-001-p1s14W21-Ta-sw1">
+<AM lemma="akciový" src="auto">AAXXX----1A---8</AM>
+</tag>
+</m>
+<m id="m-wsj1432-001-p1s14W21-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1432-001-p1s14W21</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>330</form>
-<tag>
-<AM lemma="330" src="auto" recommended="1">C=-------------</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="330" src="auto" recommended="1">C=-------------</tag>
+</m>
 <m id="m-wsj1432-001-p1s14W22-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -7945,9 +7947,10 @@
 </w.rf>
 <form>wanu</form>
 <tag>
-<AM lemma="wan_;G" src="auto" selected="1">NNIS2-----A----</AM>
+<AM lemma="wan_;G" src="auto">NNIS2-----A----</AM>
 <AM lemma="wan_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="wan_;G" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="wan" src="manual" selected="1">SNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1432-001-p1s23W19-Ta">

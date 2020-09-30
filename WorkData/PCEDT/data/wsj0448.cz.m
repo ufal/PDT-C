@@ -685,7 +685,8 @@
 <form>United</form>
 <tag>
 <AM lemma="united-77" src="auto" recommended="1">F%-------------</AM>
-<AM lemma="United-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="United-77" src="manual">F%-------------</AM>
+<AM lemma="United_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0448-001-p1s1W22-Ta">

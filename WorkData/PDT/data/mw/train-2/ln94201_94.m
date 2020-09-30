@@ -1887,7 +1887,8 @@
 <form>image</form>
 <tag>
 <AM lemma="image" src="orig">NNXXX-----A----</AM>
-<AM lemma="image-1" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="image-1" src="manual">NNFS1-----A----</AM>
+<AM lemma="image-2" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-94-p3s3w9">

@@ -2305,7 +2305,8 @@
 <form>Tchaj</form>
 <tag>
 <AM lemma="Tchaj_;G" src="orig">AAXXX----1A----</AM>
-<AM lemma="Tchaj-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Tchaj-77" src="manual">F%-------------</AM>
+<AM lemma="Tchaj" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-081-p9s1w8">
@@ -2326,7 +2327,8 @@
 <AM lemma="wan_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="wan_;G" src="auto">NNIS2-----A----</AM>
 <AM lemma="wan_;G" src="auto">NNIS3-----A----</AM>
-<AM lemma="wan_;G" src="auto" recommended="1" selected="1">NNIS6-----A----</AM>
+<AM lemma="wan_;G" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="wan" src="manual" selected="1">SNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-081-p9s1w10">
@@ -2491,7 +2493,8 @@
 <form>Tchaj</form>
 <tag>
 <AM lemma="Tchaj_;G" src="orig">AAXXX----1A----</AM>
-<AM lemma="Tchaj-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Tchaj-77" src="manual">F%-------------</AM>
+<AM lemma="Tchaj" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-081-p9s2w12">
@@ -2511,7 +2514,8 @@
 <tag>
 <AM lemma="čung_;G_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="čung_;G" src="manual">NNIS1-----A----</AM>
-<AM lemma="čung-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="čung-77" src="manual">F%-------------</AM>
+<AM lemma="čung" src="manual" selected="1">SNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-081-p9s2w14">
@@ -2562,7 +2566,8 @@
 <form>Tchaj</form>
 <tag>
 <AM lemma="Tchaj_;G" src="orig">AAXXX----1A----</AM>
-<AM lemma="Tchaj-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Tchaj-77" src="manual">F%-------------</AM>
+<AM lemma="Tchaj" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-081-p9s2w20">
@@ -2583,7 +2588,8 @@
 <AM lemma="wan_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="wan_;G" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="wan_;G" src="auto">NNIS3-----A----</AM>
-<AM lemma="wan_;G" src="auto" selected="1">NNIS6-----A----</AM>
+<AM lemma="wan_;G" src="auto">NNIS6-----A----</AM>
+<AM lemma="wan" src="manual" selected="1">SNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-081-p9s2w22">

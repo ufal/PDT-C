@@ -438,7 +438,10 @@
 <LM>w#w-mf920902-118-p2s4w7</LM>
 </w.rf>
 <form>celkového</form>
-<tag lemma="celkový" src="orig" selected="1">AANS2----1A----</tag>
+<tag>
+<AM lemma="celkový" src="orig">AANS2----1A----</AM>
+<AM lemma="celkový" src="manual" selected="1">AAIS2----1A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-118-p2s4w8">
 <src.rf>manual</src.rf>
@@ -446,7 +449,10 @@
 <LM>w#w-mf920902-118-p2s4w8</LM>
 </w.rf>
 <form>image</form>
-<tag lemma="image-3" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="image-3" src="orig">NNNXX-----A----</AM>
+<AM lemma="image-2" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-118-p2s4w9">
 <src.rf>manual</src.rf>

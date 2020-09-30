@@ -87,7 +87,8 @@
 <form>Tchaj</form>
 <tag>
 <AM lemma="Tchaj_;G" src="orig">AAXXX----1A----</AM>
-<AM lemma="Tchaj-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Tchaj-77" src="manual">F%-------------</AM>
+<AM lemma="Tchaj" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-039-p3s1w5">
@@ -108,7 +109,8 @@
 <AM lemma="wan_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="wan_;G" src="auto">NNIS2-----A----</AM>
 <AM lemma="wan_;G" src="auto">NNIS3-----A----</AM>
-<AM lemma="wan_;G" src="auto" recommended="1" selected="1">NNIS6-----A----</AM>
+<AM lemma="wan_;G" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="wan" src="manual" selected="1">SNIS6-----A----</AM>
 </tag>
 </m>
 </s>
@@ -233,7 +235,8 @@
 <form>Tchaj</form>
 <tag>
 <AM lemma="Tchaj_;G" src="orig">AAXXX----1A----</AM>
-<AM lemma="Tchaj-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Tchaj-77" src="manual">F%-------------</AM>
+<AM lemma="Tchaj" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-039-p4s1w16">
@@ -254,7 +257,8 @@
 <AM lemma="wan_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="wan_;G" src="auto">NNIS2-----A----</AM>
 <AM lemma="wan_;G" src="auto">NNIS3-----A----</AM>
-<AM lemma="wan_;G" src="auto" recommended="1" selected="1">NNIS6-----A----</AM>
+<AM lemma="wan_;G" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="wan" src="manual" selected="1">SNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-039-p4s1w18">
@@ -891,7 +895,8 @@
 <form>Tchaj</form>
 <tag>
 <AM lemma="Tchaj_;G" src="orig">AAXXX----1A----</AM>
-<AM lemma="Tchaj-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Tchaj-77" src="manual">F%-------------</AM>
+<AM lemma="Tchaj" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-039-p5s1w2">
@@ -910,8 +915,9 @@
 <form>wan</form>
 <tag>
 <AM lemma="wan_;G" src="orig">NNIXX-----A----</AM>
-<AM lemma="wan_;G" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
+<AM lemma="wan_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="wan_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="wan" src="manual" selected="1">SNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-039-p5s1w4">
@@ -1198,7 +1204,8 @@
 <form>Tchaj</form>
 <tag>
 <AM lemma="Tchaj_;G" src="orig">AAXXX----1A----</AM>
-<AM lemma="Tchaj-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Tchaj-77" src="manual">F%-------------</AM>
+<AM lemma="Tchaj" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-039-p5s3w10">
@@ -1217,7 +1224,8 @@
 <form>pei</form>
 <tag>
 <AM lemma="pei_;G" src="orig">NNXXX-----A----</AM>
-<AM lemma="pei-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="pei-77" src="manual">F%-------------</AM>
+<AM lemma="pei" src="manual" selected="1">SNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-039-p5s3w12">
@@ -2384,7 +2392,8 @@
 <form>Tchaj</form>
 <tag>
 <AM lemma="Tchaj_;G" src="orig">AAXXX----1A----</AM>
-<AM lemma="Tchaj-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Tchaj-77" src="manual">F%-------------</AM>
+<AM lemma="Tchaj" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-039-p9s1w6">
@@ -2405,7 +2414,8 @@
 <AM lemma="wan_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="wan_;G" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="wan_;G" src="auto">NNIS3-----A----</AM>
-<AM lemma="wan_;G" src="auto" selected="1">NNIS6-----A----</AM>
+<AM lemma="wan_;G" src="auto">NNIS6-----A----</AM>
+<AM lemma="wan" src="manual" selected="1">SNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-039-p9s1w8">

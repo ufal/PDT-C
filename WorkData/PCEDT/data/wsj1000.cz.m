@@ -9770,7 +9770,8 @@
 <AM lemma="Lawrence_;Y" src="auto">NNMS4-----A---1</AM>
 <AM lemma="Lawrence_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Lawrence_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Lawrence_;Y" src="manual" selected="1">NNMS2-----A---1</AM>
+<AM lemma="Lawrence_;Y" src="manual">NNMS2-----A---1</AM>
+<AM lemma="Lawrence-1_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1000-001-p1s30W3-Ta">

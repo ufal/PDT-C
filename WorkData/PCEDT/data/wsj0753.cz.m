@@ -31,8 +31,8 @@
 <w.rf>
 <LM>w#w-wsj0753-001-p1s0W3</LM>
 </w.rf>
-<form>&gt;</form>
-<tag lemma="&gt;" src="auto" recommended="1">Z:-------------</tag>
+<form>></form>
+<tag lemma=">" src="auto" recommended="1">Z:-------------</tag>
 </m>
 <m id="m-wsj0753-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -365,14 +365,14 @@
 <LM>w#w-wsj0753-001-p1s1W9</LM>
 </w.rf>
 <form>41</form>
-<tag>
-<AM lemma="41" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="41" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj0753-001-p1s1W9-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0753-001-p1s1W9</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>letý</form>
 <tag>
 <AM lemma="letý" src="auto">AAFP1----1A---6</AM>
@@ -397,8 +397,9 @@
 <AM lemma="letý" src="auto">AANP5----1A---6</AM>
 <AM lemma="letý" src="auto">AANS1----1A---6</AM>
 <AM lemma="letý" src="auto">AANS4----1A---6</AM>
-<AM lemma="letý" src="auto">AANS5----1A---6</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="letý" src="auto">AANS5----1A---6</AM>
+</tag>
+</m>
 <m id="m-wsj0753-001-p1s1W10-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -416,7 +417,8 @@
 <AM lemma="Lawrence_;Y" src="auto">NNMS4-----A---1</AM>
 <AM lemma="Lawrence_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Lawrence_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Lawrence_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Lawrence_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Lawrence-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0753-001-p1s1W11-Ta">

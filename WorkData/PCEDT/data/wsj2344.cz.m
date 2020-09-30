@@ -3472,6 +3472,7 @@
 <AM lemma="Lawrence_;Y" src="auto">NNMS4-----A---1</AM>
 <AM lemma="Lawrence_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Lawrence_;Y" src="auto">NNMXX-----A----</AM>
+<AM lemma="Lawrence-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2344-001-p1s10W22-Ta">

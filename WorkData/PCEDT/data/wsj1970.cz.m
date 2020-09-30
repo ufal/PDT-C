@@ -5899,11 +5899,13 @@
 <w.rf>
 <LM>w#w-wsj1970-001-p1s18W30</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>podstatě</form>
 <tag>
 <AM lemma="podstata" src="auto">NNFS3-----A----</AM>
-<AM lemma="podstata" src="auto" recommended="1">NNFS6-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="podstata" src="auto" recommended="1">NNFS6-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj1970-001-p1s18W31-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -10280,6 +10282,7 @@
 <tag>
 <AM lemma="wan_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="wan_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="wan" src="manual" selected="1">SNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1970-001-p1s37W13-Ta">

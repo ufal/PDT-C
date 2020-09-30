@@ -5862,6 +5862,8 @@
 <AM lemma="Lawrence_;Y" src="auto">NNMS4-----A---1</AM>
 <AM lemma="Lawrence_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Lawrence_;Y" src="auto">NNMXX-----A----</AM>
+<AM lemma="Lawrence-1_;Y" src="manual">NNMS4-----A---1</AM>
+<AM lemma="Lawrence-1_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0633-001-p1s28W19-Ta">
@@ -5872,7 +5874,8 @@
 <form>Jenca</form>
 <tag>
 <AM lemma="Jenca" src="auto">X@-------------</AM>
-<AM lemma="Jenco_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Jenco_;Y" src="manual">NNMS2-----A----</AM>
+<AM lemma="Jenco_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0633-001-p1s28W20-Ta">
@@ -14089,13 +14092,14 @@
 <LM>w#w-wsj0633-001-p1s54W2</LM>
 </w.rf>
 <form>10</form>
-<tag>
-<AM lemma="10" src="auto" recommended="1">C=-------------</AM></tag>
-</m><m id="m-wsj0633-001-p1s54W2-Ta-sw1">
+<tag lemma="10" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m-wsj0633-001-p1s54W2-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0633-001-p1s54W2</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>tisícové</form>
 <tag>
 <AM lemma="tisícový" src="auto">AAFP1----1A----</AM>
@@ -14113,8 +14117,9 @@
 <AM lemma="tisícový" src="auto">AANP5----1A---6</AM>
 <AM lemma="tisícový" src="auto">AANS1----1A----</AM>
 <AM lemma="tisícový" src="auto" recommended="1">AANS4----1A----</AM>
-<AM lemma="tisícový" src="auto">AANS5----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="tisícový" src="auto">AANS5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj0633-001-p1s54W3-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -18778,13 +18783,14 @@
 <LM>w#w-wsj0633-001-p1s74W17</LM>
 </w.rf>
 <form>36</form>
-<tag>
-<AM lemma="36" src="auto" recommended="1">C=-------------</AM></tag>
-</m><m id="m-wsj0633-001-p1s74W17-Ta-sw1">
+<tag lemma="36" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m-wsj0633-001-p1s74W17-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0633-001-p1s74W17</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>stránkový</form>
 <tag>
 <AM lemma="stránkový" src="auto">AAFP1----1A---6</AM>
@@ -18809,8 +18815,9 @@
 <AM lemma="stránkový" src="auto">AANP5----1A---6</AM>
 <AM lemma="stránkový" src="auto">AANS1----1A---6</AM>
 <AM lemma="stránkový" src="auto">AANS4----1A---6</AM>
-<AM lemma="stránkový" src="auto">AANS5----1A---6</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="stránkový" src="auto">AANS5----1A---6</AM>
+</tag>
+</m>
 <m id="m-wsj0633-001-p1s74W18-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -5497,7 +5497,8 @@
 <AM lemma="Lawrence_;Y" src="auto">NNMS4-----A---1</AM>
 <AM lemma="Lawrence_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Lawrence_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Lawrence_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Lawrence_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Lawrence-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1822-001-p1s17W16-Ta">
@@ -7442,6 +7443,7 @@
 <w.rf>
 <LM>w#w-wsj1822-001-p1s23W4</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>odkupující</form>
 <tag>
 <AM lemma="odkupující_^(*5ovat)" src="auto">AGFP1-----A----</AM>
@@ -7470,8 +7472,9 @@
 <AM lemma="odkupující_^(*5ovat)" src="auto">AGNP5-----A----</AM>
 <AM lemma="odkupující_^(*5ovat)" src="auto">AGNS1-----A----</AM>
 <AM lemma="odkupující_^(*5ovat)" src="auto">AGNS4-----A----</AM>
-<AM lemma="odkupující_^(*5ovat)" src="auto">AGNS5-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="odkupující_^(*5ovat)" src="auto">AGNS5-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj1822-001-p1s23W5-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

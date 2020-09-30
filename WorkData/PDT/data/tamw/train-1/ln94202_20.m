@@ -5435,7 +5435,10 @@
 <LM>w#w-ln94202-20-p9s3w28</LM>
 </w.rf>
 <form>image</form>
-<tag lemma="image" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="image" src="orig">NNXXX-----A----</AM>
+<AM lemma="image-2" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-20-p9s3w29">
 <src.rf>manual</src.rf>

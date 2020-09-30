@@ -3864,7 +3864,10 @@
 <LM>w#w-cmpr9413-012-p14s2w7</LM>
 </w.rf>
 <form>image</form>
-<tag lemma="image" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="image" src="orig">NNXXX-----A----</AM>
+<AM lemma="image-1" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9413-012-p14s2w8">
 <src.rf>manual</src.rf>

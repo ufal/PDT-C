@@ -942,8 +942,8 @@
 </w.rf>
 <form>Manchester</form>
 <tag>
-<AM lemma="Manchester_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Manchester-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Manchester_;G" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Manchester-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94200-159-p2s4w9">
@@ -954,7 +954,8 @@
 <form>United</form>
 <tag>
 <AM lemma="United_;m_,t_^(souč._angl._názvu)" src="orig">AAXXX----1A----</AM>
-<AM lemma="United-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="United-77" src="manual">F%-------------</AM>
+<AM lemma="United_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-159-p2s4w10">

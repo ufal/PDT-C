@@ -442,17 +442,18 @@
 <AM lemma="R-33" src="auto" recommended="1">Q3-------------</AM>
 <AM lemma="R-33" src="auto">Q3-------------</AM>
 <AM lemma="r-88" src="auto">BNXXX-----A----</AM>
-<AM lemma="rok_:B" src="auto">NNIXX-----A---8</AM></tag>
+<AM lemma="rok_:B" src="auto">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-wsj0317-001-p1s1W2-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0317-001-p1s1W2</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>.</form>
-<tag>
-<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="." src="auto" recommended="1">Z:-------------</tag>
+</m>
 <m id="m-wsj0317-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -2462,8 +2463,7 @@
 </w.rf>
 <form_change>num_normalization</form_change>
 <form>62.875</form>
-<tag>
-<AM lemma="62.875" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="62.875" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj0317-001-p1s6W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2541,11 +2541,10 @@
 <w.rf>
 <LM>w#w-wsj0317-001-p1s6W23</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
+<form_change>spell</form_change>
 <form>20.125</form>
-<tag>
-<AM lemma="20.125" src="auto" recommended="1">C=-------------</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="20.125" src="auto" recommended="1">C=-------------</tag>
+</m>
 <m id="m-wsj0317-001-p1s6W24-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -2843,11 +2842,10 @@
 <w.rf>
 <LM>w#w-wsj0317-001-p1s7W16</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
+<form_change>spell</form_change>
 <form>50.875</form>
-<tag>
-<AM lemma="50.875" src="auto" recommended="1">C=-------------</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="50.875" src="auto" recommended="1">C=-------------</tag>
+</m>
 <m id="m-wsj0317-001-p1s7W17-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -5903,10 +5901,10 @@
 <w.rf>
 <LM>w#w-wsj0317-001-p1s17W16</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>dolarů</form>
-<tag>
-<AM lemma="dolar" src="auto" recommended="1">NNIP2-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="dolar" src="auto" recommended="1">NNIP2-----A----</tag>
+</m>
 <m id="m-wsj0317-001-p1s17W17-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -15959,11 +15957,13 @@
 <w.rf>
 <LM>w#w-wsj0317-001-p1s52W6</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>kandidáty</form>
 <tag>
 <AM lemma="kandidát" src="auto" recommended="1">NNMP4-----A----</AM>
-<AM lemma="kandidát" src="auto">NNMP7-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="kandidát" src="auto">NNMP7-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0317-001-p1s52W7-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -16642,8 +16642,7 @@
 </w.rf>
 <form_change>num_normalization</form_change>
 <form>27.875</form>
-<tag>
-<AM lemma="27.875" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="27.875" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj0317-001-p1s53W39-Ta">
 <src.rf>tagger-a</src.rf>
@@ -16734,11 +16733,10 @@
 <w.rf>
 <LM>w#w-wsj0317-001-p1s53W46</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
+<form_change>spell</form_change>
 <form>2.375</form>
-<tag>
-<AM lemma="2.375" src="auto" recommended="1">C=-------------</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="2.375" src="auto" recommended="1">C=-------------</tag>
+</m>
 <m id="m-wsj0317-001-p1s53W47-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -18021,7 +18019,8 @@
 <AM lemma="Lawrence_;Y" src="auto">NNMS4-----A---1</AM>
 <AM lemma="Lawrence_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Lawrence_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Lawrence_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Lawrence_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Lawrence-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0317-001-p1s57W10-Ta">

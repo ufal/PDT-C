@@ -2183,7 +2183,10 @@
 <LM>w#w-mf930713-002-p14s1w3</LM>
 </w.rf>
 <form>Image</form>
-<tag lemma="image" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="image" src="orig">NNXXX-----A----</AM>
+<AM lemma="image-1" src="manual" selected="1">NNFP1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-002-p14s1w4">
 <src.rf>manual</src.rf>

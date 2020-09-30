@@ -1495,11 +1495,11 @@
 <AM lemma="Ser_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Sera_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="Sero_;G" src="auto">NNNP2-----A----</AM>
-<AM lemma="srát" src="auto">Vi-S---2--A-I--</AM>
+<AM lemma="srát" src="auto" selected="1">Vi-S---2--A-I--</AM>
 <AM lemma="srát" src="auto">Vi-S---3--A-I-4</AM>
 <AM lemma="sérum" src="auto">NNNP2-----A----</AM>
 <AM lemma="SER-1_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="SER-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="SER-88" src="manual">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-091-p6s3w5">
@@ -1511,7 +1511,8 @@
 <tag>
 <AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="manual">NNXXX-----A----</AM>
-<AM lemma="NATO-1_;m_^(Northtlantic_Treaty_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="NATO-1_;m_^(Northtlantic_Treaty_Organization)" src="manual">BNXXX-----A----</AM>
+<AM lemma="nato" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf920925-091-p6s3w6">

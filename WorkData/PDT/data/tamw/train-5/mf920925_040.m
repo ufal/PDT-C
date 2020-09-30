@@ -1340,7 +1340,10 @@
 <LM>w#w-mf920925-040-p4s5w20</LM>
 </w.rf>
 <form>novému</form>
-<tag lemma="nový" src="orig" selected="1">AAIS3----1A----</tag>
+<tag>
+<AM lemma="nový" src="orig">AAIS3----1A----</AM>
+<AM lemma="nový" src="manual" selected="1">AANS3----1A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-040-p4s5w21">
 <src.rf>manual</src.rf>
@@ -1348,7 +1351,10 @@
 <LM>w#w-mf920925-040-p4s5w21</LM>
 </w.rf>
 <form>image</form>
-<tag lemma="image-2" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="image-2" src="orig">NNIXX-----A----</AM>
+<AM lemma="image-3" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-040-p4s5w22">
 <src.rf>manual</src.rf>

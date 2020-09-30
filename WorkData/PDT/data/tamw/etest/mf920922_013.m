@@ -1269,7 +1269,10 @@
 <LM>w#w-mf920922-013-p2s9w16</LM>
 </w.rf>
 <form>Benetton</form>
-<tag lemma="Benetton_;m" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Benetton_;m" src="auto">NNIS1-----A----</AM>
+<AM lemma="Benetton-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920922-013-p2s9w17">
 <src.rf>manual</src.rf>
