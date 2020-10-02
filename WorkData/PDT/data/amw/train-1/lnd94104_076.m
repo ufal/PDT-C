@@ -1410,7 +1410,8 @@
 <tag>
 <AM lemma="nalézt" src="orig">VpNS---XR-NA---</AM>
 <AM lemma="nalézt-1_^(někam)" src="auto" recommended="1">VpNS---XR-NA---</AM>
-<AM lemma="nalézt_^(někam)" src="auto" selected="1">VpNS----R-NAI--</AM>
+<AM lemma="nalézt_^(někam)" src="auto">VpNS----R-NAI--</AM>
+<AM lemma="naleznout" src="manual" selected="1">VpNS----R-NAP-1</AM>
 </tag>
 </m>
 <m id="m-lnd94104-076-p1s12w10">

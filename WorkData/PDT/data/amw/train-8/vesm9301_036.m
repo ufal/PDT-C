@@ -13853,7 +13853,8 @@
 <tag>
 <AM lemma="nalézt" src="orig">Vf--------A---2</AM>
 <AM lemma="nalézt-1_^(někam)" src="auto" recommended="1">Vf--------A---2</AM>
-<AM lemma="nalézt_^(někam)" src="auto" selected="1">Vf--------A-I-2</AM>
+<AM lemma="nalézt_^(někam)" src="auto">Vf--------A-I-2</AM>
+<AM lemma="naleznout" src="manual" selected="1">Vf--------A-P-3</AM>
 </tag>
 </m>
 <m id="m-vesm9301-036-p21s1w34">

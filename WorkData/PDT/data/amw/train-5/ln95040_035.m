@@ -2160,7 +2160,8 @@
 <tag>
 <AM lemma="nalézt" src="orig">VpYS---XR-NA---</AM>
 <AM lemma="nalézt-1_^(někam)" src="auto" recommended="1">VpYS---XR-NA---</AM>
-<AM lemma="nalézt_^(někam)" src="auto" selected="1">VpYS----R-NAI--</AM>
+<AM lemma="nalézt_^(někam)" src="auto">VpYS----R-NAI--</AM>
+<AM lemma="naleznout" src="manual" selected="1">VpYS----R-NAP-1</AM>
 </tag>
 </m>
 <m id="m-ln95040-035-p2s16w14">

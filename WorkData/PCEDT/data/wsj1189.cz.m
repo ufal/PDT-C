@@ -6894,6 +6894,7 @@
 <tag>
 <AM lemma="nalézt_^(někam;naleznout)" src="auto" recommended="1">VpYS----R-NAP--</AM>
 <AM lemma="naleznout" src="auto">VpYS----R-NAP-1</AM>
+<AM lemma="naleznout" src="manual" selected="1">VpYS----R-NAP-1</AM>
 </tag>
 </m>
 <m id="m-wsj1189-001-p1s19W15-Ta">
@@ -7429,7 +7430,7 @@
 <form>nenalezl</form>
 <tag>
 <AM lemma="nalézt_^(někam;naleznout)" src="auto" recommended="1">VpYS----R-NAP--</AM>
-<AM lemma="naleznout" src="auto">VpYS----R-NAP-1</AM>
+<AM lemma="naleznout" src="auto" selected="1">VpYS----R-NAP-1</AM>
 </tag>
 </m>
 <m id="m-wsj1189-001-p1s21W10-Ta">
