@@ -1085,8 +1085,9 @@
 <form>Mesartim</form>
 <tag>
 <AM lemma="Mesartim_;m_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Mesartim_;G" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Mesartim_;G" src="manual">NNXXX-----A----</AM>
 <AM lemma="Mesartim_;G_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Mesartim_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-018-p4s3w11">
@@ -1104,9 +1105,9 @@
 </w.rf>
 <form>gama</form>
 <tag>
-<AM lemma="gama-2" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="gama-2" src="orig">NNFS1-----A----</AM>
 <AM lemma="gama-3_,t" src="manual">NNXXX-----A----</AM>
-<AM lemma="gama-77" src="manual">F%-------------</AM>
+<AM lemma="gama-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9301-018-p4s3w13">
@@ -1117,9 +1118,9 @@
 <form>Arietis</form>
 <tag>
 <AM lemma="Aries_;m_,t" src="orig">NNMS2-----A----</AM>
-<AM lemma="Aries_;G" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Aries_;G" src="manual">NNXXX-----A----</AM>
 <AM lemma="Aries_;G_,t" src="manual">NNXXX-----A----</AM>
-<AM lemma="Arietis-77" src="manual">F%-------------</AM>
+<AM lemma="Arietis-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9301-018-p4s3w14">
@@ -1180,7 +1181,8 @@
 <AM lemma="Alshain_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Alshain_;G" src="manual">NNXXX-----A----</AM>
 <AM lemma="Alshain_;G_,t" src="manual">NNXXX-----A----</AM>
-<AM lemma="Alshain_;G" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Alshain_;G" src="manual">NNXXX-----A----</AM>
+<AM lemma="Alshain_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-018-p4s3w21">
@@ -1198,8 +1200,9 @@
 </w.rf>
 <form>beta</form>
 <tag>
-<AM lemma="beta" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="beta" src="orig">NNFS1-----A----</AM>
 <AM lemma="beta-2_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="beta-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9301-018-p4s3w23">
@@ -1210,8 +1213,9 @@
 <form>Aquilae</form>
 <tag>
 <AM lemma="Aquila_;m_,t" src="orig">NNMS2-----A----</AM>
-<AM lemma="Aquila_;G" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Aquila_;G" src="manual">NNXXX-----A----</AM>
 <AM lemma="Aquila_;G_,t" src="manual">NNXXX-----A----</AM>
+<AM lemma="Aquilae-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9301-018-p4s3w24">
@@ -1279,7 +1283,8 @@
 <tag>
 <AM lemma="Yildun_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="Yildun_;G_,t" src="manual">NNXXX-----A----</AM>
-<AM lemma="Yildun_;G" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Yildun_;G" src="manual">NNXXX-----A----</AM>
+<AM lemma="Yildun_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-018-p4s3w32">

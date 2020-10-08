@@ -807,7 +807,11 @@
 <LM>w#w-ln95040-046-p3s4w9</LM>
 </w.rf>
 <form>Hob</form>
-<tag lemma="hoboj" src="orig" selected="1">NNIXX-----A---b</tag>
+<tag>
+<AM lemma="hoboj" src="orig">NNIXX-----A---b</AM>
+<AM lemma="Hob-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="Hob-88" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-046-p3s4w10">
 <src.rf>manual</src.rf>

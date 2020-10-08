@@ -367,7 +367,10 @@
 <LM>w#w-ln95047-021-p2s2w28</LM>
 </w.rf>
 <form>Čunderlíkoví</form>
-<tag lemma="Čunderlík_;Y" src="orig" selected="1">NNMS3-----A----</tag>
+<tag>
+<AM lemma="Čunderlík_;Y" src="orig">NNMS3-----A----</AM>
+<AM lemma="Čunderlík_;Y" src="manual" selected="1">NNMS3-----A---7</AM>
+</tag>
 </m>
 <m id="m-ln95047-021-p2s2w29">
 <src.rf>manual</src.rf>

@@ -560,7 +560,11 @@
 <LM>w#w-ln94201-75-p2s4w3</LM>
 </w.rf>
 <form>Joz</form>
-<tag lemma="Jozef_;Y" src="orig" selected="1">NNMXX-----A---b</tag>
+<tag>
+<AM lemma="Jozef_;Y" src="orig">NNMXX-----A---b</AM>
+<AM lemma="Joz-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="Joz-88" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-75-p2s4w4">
 <src.rf>manual</src.rf>

@@ -6581,7 +6581,12 @@
 <LM>w#w-ln94207-90-p6s6w1</LM>
 </w.rf>
 <form>Jistěť</form>
-<tag lemma="jistě_^(*1ý)" src="orig" selected="1">Dg-------1A---3</tag>
+<tag>
+<AM lemma="jistě_^(*1ý)" src="orig">Dg-------1A---3</AM>
+<AM lemma="jistěť" src="manual">TT-------------</AM>
+<AM lemma="jistěť_,a_^(^DD**jistě-2l)" src="manual">TT-------------</AM>
+<AM lemma="jistěť_,a_^(^DD**jistě-2)" src="manual" selected="1">TT-------------</AM>
+</tag>
 </m>
 <m id="m-ln94207-90-p6s6w2">
 <src.rf>manual</src.rf>

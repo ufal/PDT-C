@@ -2860,7 +2860,10 @@
 <LM>w#w-cmpr9410-019-p12s3w4</LM>
 </w.rf>
 <form>diskretance</form>
-<tag lemma="diskrepance" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="diskrepance" src="orig">NNFS1-----A----</AM>
+<AM lemma="diskretance_,i_^(^DS**diskrepance)" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-019-p12s3w5">
 <src.rf>manual</src.rf>

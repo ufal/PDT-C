@@ -1243,7 +1243,10 @@
 <LM>w#w-ln95043-089-p2s7w17</LM>
 </w.rf>
 <form>companies</form>
-<tag lemma="company" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="company" src="orig">NNFXX-----A----</AM>
+<AM lemma="companies-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95043-089-p2s7w18">
 <src.rf>manual</src.rf>

@@ -1911,7 +1911,10 @@
 <LM>w#w-ln95040-078-p4s3w19</LM>
 </w.rf>
 <form>khmerové</form>
-<tag lemma="Khmer_;E" src="orig" selected="1">NNMP1-----A----</tag>
+<tag>
+<AM lemma="Khmer_;E" src="orig">NNMP1-----A----</AM>
+<AM lemma="khmer" src="manual" selected="1">NNMP1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-078-p4s3w20">
 <src.rf>manual</src.rf>

@@ -296,7 +296,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>bihaćské</form>
-<tag lemma="bihačský" src="orig" selected="1">AAFS2----1A----</tag>
+<tag>
+<AM lemma="bihačský" src="orig">AAFS2----1A----</AM>
+<AM lemma="bihaćský_,s_^(^DD**bihačský)" src="manual" selected="1">AAFS2----1A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-088-p2s1Bw24">
 <src.rf>manual</src.rf>

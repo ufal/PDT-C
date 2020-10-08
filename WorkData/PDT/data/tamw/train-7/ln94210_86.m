@@ -1622,7 +1622,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Bihać</form>
-<tag lemma="Bihač_;G_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Bihač_;G_;Y" src="orig">NNFS1-----A----</AM>
+<AM lemma="Bihać_;G_,s_^(^DD**Bihač)" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-86-p4s3w11">
 <src.rf>manual</src.rf>

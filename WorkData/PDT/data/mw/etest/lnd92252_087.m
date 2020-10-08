@@ -3479,7 +3479,9 @@
 <form>fotb</form>
 <tag>
 <AM lemma="fotbalový_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="fotbalový" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="fotbalový" src="manual">AAXXX----1A---8</AM>
+<AM lemma="fotb-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="fotb-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-087-p5s2w16">

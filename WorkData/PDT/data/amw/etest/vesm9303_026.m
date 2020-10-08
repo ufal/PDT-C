@@ -10559,7 +10559,12 @@
 <LM>w#w-vesm9303-026-p13s4w15</LM>
 </w.rf>
 <form>Courieově</form>
-<tag lemma="Courierův_;Y_^(*2)" src="orig" selected="1">AUFS6M---------</tag>
+<tag>
+<AM lemma="Courierův_;Y_^(*2)" src="orig">AUFS6M---------</AM>
+<AM lemma="Courieův_;Y_^(*2)" src="manual">AUFS6M---------</AM>
+<AM lemma="Courieův_;Y_,i_^(^DS**Courireův)" src="manual">AUFS6M---------</AM>
+<AM lemma="Courieův_;Y_,i_^(^DS**Courierův)" src="manual" selected="1">AUFS6M---------</AM>
+</tag>
 </m>
 <m id="m-vesm9303-026-p13s4w16">
 <src.rf>manual</src.rf>
@@ -14713,8 +14718,8 @@
 <w.rf>
 <LM>w#w-vesm9303-026-p18s2w18</LM>
 </w.rf>
-<form>&gt;</form>
-<tag lemma="&gt;" src="orig" selected="1">Z:-------------</tag>
+<form>></form>
+<tag lemma=">" src="orig" selected="1">Z:-------------</tag>
 </m>
 <m id="m-vesm9303-026-p18s2w19">
 <src.rf>manual</src.rf>
@@ -16299,8 +16304,8 @@
 <w.rf>
 <LM>w#w-vesm9303-026-p21s3Bw4</LM>
 </w.rf>
-<form>&gt;</form>
-<tag lemma="&gt;" src="orig" selected="1">Z:-------------</tag>
+<form>></form>
+<tag lemma=">" src="orig" selected="1">Z:-------------</tag>
 </m>
 <m id="m-vesm9303-026-p21s3Bw5">
 <src.rf>manual</src.rf>

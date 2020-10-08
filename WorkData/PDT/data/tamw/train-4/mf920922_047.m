@@ -318,7 +318,8 @@
 <form>fran</form>
 <tag>
 <AM lemma="francouzský_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="francouzský" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="francouzský" src="manual">AAXXX----1A---8</AM>
+<AM lemma="francouzský" src="manual" selected="1">AAXXX----1A---a</AM>
 </tag>
 </m>
 <m id="m-mf920922-047-p9s1w2">

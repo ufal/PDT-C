@@ -10863,7 +10863,8 @@
 <form>Livermora</form>
 <tag>
 <AM lemma="Livermora" src="auto">X@-------------</AM>
-<AM lemma="Livermore_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Livermore_;Y" src="manual">NNMS2-----A----</AM>
+<AM lemma="Livermore-2_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1829-001-p1s35W9-Ta">

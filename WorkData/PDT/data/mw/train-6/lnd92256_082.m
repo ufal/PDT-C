@@ -4520,7 +4520,11 @@
 <LM>w#w-lnd92256-082-p5s5w53</LM>
 </w.rf>
 <form>Běsích</form>
-<tag lemma="běs" src="orig" selected="1">NNMP6-----A---1</tag>
+<tag>
+<AM lemma="běs" src="orig">NNMP6-----A---1</AM>
+<AM lemma="běs-2" src="manual">NNMP6-----A---1</AM>
+<AM lemma="běs-1" src="manual" selected="1">NNMP6-----A---1</AM>
+</tag>
 </m>
 <m id="m-lnd92256-082-p5s5w54">
 <src.rf>manual</src.rf>

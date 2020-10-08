@@ -786,7 +786,10 @@
 <LM>w#w-ln94206-135-p2s4w11</LM>
 </w.rf>
 <form>barrandiensko</form>
-<tag lemma="barrandienský" src="orig" selected="1">S2--------A----</tag>
+<tag>
+<AM lemma="barrandienský" src="orig">S2--------A----</AM>
+<AM lemma="barrandiensko" src="manual" selected="1">S2--------A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-135-p2s4w12">
 <src.rf>manual</src.rf>

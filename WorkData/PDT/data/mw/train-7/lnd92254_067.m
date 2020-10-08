@@ -351,7 +351,10 @@
 <LM>w#w-lnd92254-067-p2s1w11</LM>
 </w.rf>
 <form>Abchazců</form>
-<tag lemma="Abcházec_;E" src="orig" selected="1">NNMP2-----A----</tag>
+<tag>
+<AM lemma="Abcházec_;E" src="orig">NNMP2-----A----</AM>
+<AM lemma="Abchazec_;E_,s_^(^DD**Abcházec)" src="manual" selected="1">NNMP2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92254-067-p2s1w12">
 <src.rf>manual</src.rf>

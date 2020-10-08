@@ -1050,7 +1050,11 @@
 <LM>w#w-mf920924-070-p2s6w21</LM>
 </w.rf>
 <form>Ferencvároszu</form>
-<tag lemma="Ferencváros_;m" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="Ferencváros_;m" src="orig">NNIS2-----A----</AM>
+<AM lemma="Ferencvárosz_;m_,i_^(^DS**Ferencváros)" src="manual">NNIS2-----A---1</AM>
+<AM lemma="Ferencvárosz_;m_,s_^(^DD**Ferencváros)" src="manual" selected="1">NNIS2-----A---1</AM>
+</tag>
 </m>
 <m id="m-mf920924-070-p2s6w22">
 <src.rf>manual</src.rf>

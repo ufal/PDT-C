@@ -1800,7 +1800,10 @@
 <LM>w#w-lnd92256-097-p5s4w7</LM>
 </w.rf>
 <form>Bonaliovou</form>
-<tag lemma="Bonalyová_;Y" src="orig" selected="1">NNFS7-----A----</tag>
+<tag>
+<AM lemma="Bonalyová_;Y" src="orig">NNFS7-----A----</AM>
+<AM lemma="Bonaliová_;Y" src="manual" selected="1">NNFS7-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-097-p5s4w8">
 <src.rf>manual</src.rf>

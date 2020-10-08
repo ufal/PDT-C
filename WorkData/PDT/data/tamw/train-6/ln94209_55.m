@@ -2521,7 +2521,10 @@
 <LM>w#w-ln94209-55-p6s1w38</LM>
 </w.rf>
 <form>§§</form>
-<tag lemma="§_^(paragraf)" src="orig" selected="1">NNIXX-----A---1</tag>
+<tag>
+<AM lemma="§_^(paragraf)" src="orig">NNIXX-----A---1</AM>
+<AM lemma="§§" src="manual" selected="1">Z:-------------</AM>
+</tag>
 </m>
 <m id="m-ln94209-55-p6s1w39">
 <src.rf>manual</src.rf>
@@ -4975,7 +4978,10 @@
 <LM>w#w-ln94209-55-p9s4w17</LM>
 </w.rf>
 <form>§§</form>
-<tag lemma="§_^(paragraf)" src="orig" selected="1">NNIXX-----A---1</tag>
+<tag>
+<AM lemma="§_^(paragraf)" src="orig">NNIXX-----A---1</AM>
+<AM lemma="§§" src="manual" selected="1">Z:-------------</AM>
+</tag>
 </m>
 <m id="m-ln94209-55-p9s4w18">
 <src.rf>manual</src.rf>
@@ -7349,7 +7355,10 @@
 <LM>w#w-ln94209-55-p12s3w19</LM>
 </w.rf>
 <form>§§</form>
-<tag lemma="§_^(paragraf)" src="orig" selected="1">NNIXX-----A---1</tag>
+<tag>
+<AM lemma="§_^(paragraf)" src="orig">NNIXX-----A---1</AM>
+<AM lemma="§§" src="manual" selected="1">Z:-------------</AM>
+</tag>
 </m>
 <m id="m-ln94209-55-p12s3w20">
 <src.rf>manual</src.rf>

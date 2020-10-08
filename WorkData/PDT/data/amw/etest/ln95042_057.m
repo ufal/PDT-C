@@ -713,7 +713,10 @@
 <LM>w#w-ln95042-057-p2s4w31</LM>
 </w.rf>
 <form>jezuitsko</form>
-<tag lemma="jezuitský" src="orig" selected="1">S2--------A----</tag>
+<tag>
+<AM lemma="jezuitský" src="orig">S2--------A----</AM>
+<AM lemma="jezuitsko" src="manual" selected="1">S2--------A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-057-p2s4w32">
 <src.rf>manual</src.rf>
@@ -1023,7 +1026,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Konijáši</form>
-<tag lemma="Koniáš_;Y" src="orig" selected="1">NNMS6-----A----</tag>
+<tag>
+<AM lemma="Koniáš_;Y" src="orig">NNMS6-----A----</AM>
+<AM lemma="Konijáš_;Y" src="manual" selected="1">NNMS6-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-057-p2s5w14">
 <src.rf>manual</src.rf>
@@ -6301,7 +6307,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Konijášovi</form>
-<tag lemma="Koniáš_;Y" src="orig" selected="1">NNMS6-----A----</tag>
+<tag>
+<AM lemma="Koniáš_;Y" src="orig">NNMS6-----A----</AM>
+<AM lemma="Konijáš_;Y" src="manual" selected="1">NNMS6-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-057-p6s4w13">
 <src.rf>manual</src.rf>

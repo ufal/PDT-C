@@ -2297,7 +2297,10 @@
 <LM>w#w-lnd92259-065-p6s2w17</LM>
 </w.rf>
 <form>jikokorejsko</form>
-<tag lemma="jihokorejský" src="orig" selected="1">S2--------A----</tag>
+<tag>
+<AM lemma="jihokorejský" src="orig">S2--------A----</AM>
+<AM lemma="jihokorejsko" src="manual" selected="1">S2--------A----</AM>
+</tag>
 </m>
 <m id="m-lnd92259-065-p6s2w18">
 <src.rf>manual</src.rf>
@@ -3366,7 +3369,10 @@
 <LM>w#w-lnd92259-065-p8s2w13</LM>
 </w.rf>
 <form>homofiliků</form>
-<tag lemma="hemofilik" src="orig" selected="1">NNMP2-----A----</tag>
+<tag>
+<AM lemma="hemofilik" src="orig">NNMP2-----A----</AM>
+<AM lemma="homofilik_,i_^(^DS**hemofilik)" src="manual" selected="1">NNMP2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92259-065-p8s2w14">
 <src.rf>manual</src.rf>

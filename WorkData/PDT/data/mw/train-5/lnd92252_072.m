@@ -222,7 +222,10 @@
 <LM>w#w-lnd92252-072-p1s2w16</LM>
 </w.rf>
 <form>Künnla</form>
-<tag lemma="Kühnl_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Kühnl_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Künnl_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92252-072-p1s2w17">
 <src.rf>manual</src.rf>

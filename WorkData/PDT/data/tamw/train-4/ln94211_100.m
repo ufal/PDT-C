@@ -2098,7 +2098,10 @@
 <LM>w#w-ln94211-100-p3s10w9</LM>
 </w.rf>
 <form>amsterodamsko</form>
-<tag lemma="amsterodamský" src="orig" selected="1">S2--------A----</tag>
+<tag>
+<AM lemma="amsterodamský" src="orig">S2--------A----</AM>
+<AM lemma="amsterodamsko" src="manual" selected="1">S2--------A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-100-p3s10w10">
 <src.rf>manual</src.rf>

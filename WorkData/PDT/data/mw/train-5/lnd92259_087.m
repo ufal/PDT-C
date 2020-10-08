@@ -1732,7 +1732,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Düsseledorfu</form>
-<tag lemma="Düsseldorf_;G" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="Düsseldorf_;G" src="orig">NNIS2-----A----</AM>
+<AM lemma="Düsseledorf_;G_,i_^(^DS**Düsseldorf)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92259-087-p5s4w6">
 <src.rf>manual</src.rf>

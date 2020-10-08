@@ -3609,7 +3609,10 @@
 <LM>w#w-ln95042-014-p2s18Bw4</LM>
 </w.rf>
 <form>eschalogických</form>
-<tag lemma="eschatologický" src="orig" selected="1">AAFP2----1A----</tag>
+<tag>
+<AM lemma="eschatologický" src="orig">AAFP2----1A----</AM>
+<AM lemma="eschalogický_,i_^(^DS**eschatologický)" src="manual" selected="1">AAFP2----1A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-014-p2s18Bw5">
 <src.rf>manual</src.rf>

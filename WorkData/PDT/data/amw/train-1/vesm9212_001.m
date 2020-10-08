@@ -784,7 +784,9 @@
 <form>ev</form>
 <tag>
 <AM lemma="eventuelně_:B" src="orig">Db------------8</AM>
-<AM lemma="eventuálně" src="manual" selected="1">Db------------8</AM>
+<AM lemma="eventuálně" src="manual">Db------------8</AM>
+<AM lemma="ev-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="ev-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-001-p3s3w26">

@@ -52,7 +52,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>geopolitké</form>
-<tag lemma="geopolitický" src="orig" selected="1">AAIP1----1A----</tag>
+<tag>
+<AM lemma="geopolitický" src="orig">AAIP1----1A----</AM>
+<AM lemma="geopolitký_,i_^(^DS**geopolitický)" src="manual" selected="1">AAIP1----1A----</AM>
+</tag>
 </m>
 <m id="m-lnd92254-072-p1s1w6">
 <src.rf>manual</src.rf>

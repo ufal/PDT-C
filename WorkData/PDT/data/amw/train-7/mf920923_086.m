@@ -963,7 +963,9 @@
 <form>geomag</form>
 <tag>
 <AM lemma="geomagnetický_:B" src="orig">AAXXX----1A----</AM>
-<AM lemma="geomagnetický" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="geomagnetický" src="manual">AAXXX----1A---8</AM>
+<AM lemma="geomag-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="geomag-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-086-p5s1Bw7">

@@ -680,7 +680,10 @@
 <LM>w#w-lnd92255-115-p3s4w12</LM>
 </w.rf>
 <form>Bonaliovou</form>
-<tag lemma="Bonalyová_;Y" src="orig" selected="1">NNFS7-----A----</tag>
+<tag>
+<AM lemma="Bonalyová_;Y" src="orig">NNFS7-----A----</AM>
+<AM lemma="Bonaliová_;Y" src="manual" selected="1">NNFS7-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-115-p3s4w13">
 <src.rf>manual</src.rf>
@@ -825,7 +828,10 @@
 <LM>w#w-lnd92255-115-p3s5w9</LM>
 </w.rf>
 <form>axela</form>
-<tag lemma="axel" src="orig" selected="1">NNMS4-----A----</tag>
+<tag>
+<AM lemma="axel" src="orig">NNMS4-----A----</AM>
+<AM lemma="axel-1" src="manual" selected="1">NNMS4-----A---1</AM>
+</tag>
 </m>
 <m id="m-lnd92255-115-p3s5w10">
 <src.rf>manual</src.rf>

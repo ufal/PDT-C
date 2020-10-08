@@ -1296,7 +1296,9 @@
 <form>kvalifik</form>
 <tag>
 <AM lemma="kvalifikační_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="kvalifikační" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="kvalifikační" src="manual">AAXXX----1A---8</AM>
+<AM lemma="kvalifik-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="kvalifik-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-124-p47s1w5">

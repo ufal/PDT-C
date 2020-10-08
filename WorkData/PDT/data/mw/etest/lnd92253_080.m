@@ -1254,7 +1254,10 @@
 <LM>w#w-lnd92253-080-p7s2w3</LM>
 </w.rf>
 <form>Düssseldorf</form>
-<tag lemma="Düsseldorf_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Düsseldorf_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Düsseledorf_;G_,i_^(^DS**Düsseldorf)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-080-p7s2w4">
 <src.rf>manual</src.rf>

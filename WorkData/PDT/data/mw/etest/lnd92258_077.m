@@ -13814,7 +13814,9 @@
 <form>dálk</form>
 <tag>
 <AM lemma="dálkový_:B" src="orig">AAXXX----1A----</AM>
-<AM lemma="dálkový" src="manual" selected="1">AAXXX----1A----</AM>
+<AM lemma="dálkový" src="manual">AAXXX----1A----</AM>
+<AM lemma="dálk-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="dálk-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-077-p59s11w15">
@@ -13834,7 +13836,9 @@
 <tag>
 <AM lemma="vytápění_:B" src="orig">NNNXX-----A---8</AM>
 <AM lemma="výt" src="auto" recommended="1">VsYS----X-API--</AM>
-<AM lemma="vytápění" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="vytápění" src="manual">NNNXX-----A---8</AM>
+<AM lemma="vyt-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="vyt-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-077-p59s11w17">

@@ -1152,7 +1152,10 @@
 <LM>w#w-ln94200-128-p4s1w13</LM>
 </w.rf>
 <form>anorganicko</form>
-<tag lemma="anorganický" src="orig" selected="1">S2--------A----</tag>
+<tag>
+<AM lemma="anorganický" src="orig">S2--------A----</AM>
+<AM lemma="anorganicko" src="manual" selected="1">S2--------A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-128-p4s1w14">
 <src.rf>manual</src.rf>

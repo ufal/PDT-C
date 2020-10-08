@@ -3992,7 +3992,8 @@
 <tag>
 <AM lemma="Kolekovci" src="auto">X@-------------</AM>
 <AM lemma="Kolekovec_;Y_,h" src="manual">NNMP1-----A----</AM>
-<AM lemma="Kolek_;Y" src="manual" selected="1">NNMP1-----A---6</AM>
+<AM lemma="Kolek_;Y" src="manual">NNMP1-----A---6</AM>
+<AM lemma="Kolekovec_;Y" src="manual" selected="1">NNMP1-----A----</AM>
 </tag>
 </m>
 <m id="m981-d1e1162-x2-1389">

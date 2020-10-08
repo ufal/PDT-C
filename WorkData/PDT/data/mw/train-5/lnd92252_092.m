@@ -775,7 +775,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Brartislava</form>
-<tag lemma="Bratislava_;m" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Bratislava_;m" src="orig">NNFS1-----A----</AM>
+<AM lemma="Brartislava_;G_,i_^(^DS**Bratislava)" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92252-092-p4s2w45">
 <src.rf>manual</src.rf>

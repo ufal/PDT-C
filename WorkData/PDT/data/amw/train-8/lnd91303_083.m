@@ -3224,7 +3224,10 @@
 <form>JUDR</form>
 <tag>
 <AM lemma="JUDr-1_:B_^(doktor_práv)" src="orig">NNMXX-----A---8</AM>
-<AM lemma="JUDr_^(doktor_práv)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="JUDr_^(doktor_práv)" src="manual">BNXXX-----A----</AM>
+<AM lemma="JUDR_^(doktor_práv)" src="manual">BNXXX-----A----</AM>
+<AM lemma="JUDR_,i_^(doktor_práv)_(^DS**JUDr)" src="manual">BNXXX-----A----</AM>
+<AM lemma="JUDR_,i_^(doktor_práv)_(^DS**JUDr)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-083-p13s1w2">

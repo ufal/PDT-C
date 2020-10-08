@@ -239,7 +239,8 @@
 <tag>
 <AM lemma="Litohlavi" src="auto">X@-------------</AM>
 <AM lemma="Litohlavy_;G" src="manual">NNIP6-----A---6</AM>
-<AM lemma="Litohlavy_;G" src="manual" selected="1">NNIP6-----A----</AM>
+<AM lemma="Litohlavy_;G" src="manual">NNIP6-----A----</AM>
+<AM lemma="Litohlav_;G" src="manual" selected="1">NNIP6-----A----</AM>
 </tag>
 </m>
 <m id="m009-d1e272-x2-97">

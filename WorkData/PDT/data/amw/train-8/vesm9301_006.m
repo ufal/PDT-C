@@ -1495,7 +1495,10 @@
 <LM>w#w-vesm9301-006-p5s1w43</LM>
 </w.rf>
 <form>anaeróbních</form>
-<tag lemma="anaerobní" src="orig" selected="1">AAIP2----1A----</tag>
+<tag>
+<AM lemma="anaerobní" src="orig">AAIP2----1A----</AM>
+<AM lemma="anaeróbní_,s_^(^DD**anaerobní)" src="manual" selected="1">AAIP2----1A----</AM>
+</tag>
 </m>
 <m id="m-vesm9301-006-p5s1w44">
 <src.rf>manual</src.rf>

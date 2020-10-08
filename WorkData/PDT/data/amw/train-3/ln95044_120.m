@@ -1534,7 +1534,10 @@
 <LM>w#w-ln95044-120-p5s2w13</LM>
 </w.rf>
 <form>Coopers</form>
-<tag lemma="Cooper_;m" src="orig" selected="1">NNMXX-----A----</tag>
+<tag>
+<AM lemma="Cooper_;m" src="orig">NNMXX-----A----</AM>
+<AM lemma="Coopers-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-120-p5s2w14">
 <src.rf>manual</src.rf>
@@ -1550,7 +1553,10 @@
 <LM>w#w-ln95044-120-p5s2w15</LM>
 </w.rf>
 <form>Lybrand</form>
-<tag lemma="Lybrand_;m" src="orig" selected="1">NNMXX-----A----</tag>
+<tag>
+<AM lemma="Lybrand_;m" src="orig">NNMXX-----A----</AM>
+<AM lemma="Lybrand-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-120-p5s2w16">
 <src.rf>manual</src.rf>
