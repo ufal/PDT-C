@@ -5842,7 +5842,10 @@
 <LM>w#w-ln94204-150-p10s1w12</LM>
 </w.rf>
 <form>velkomoravsko</form>
-<tag lemma="velkomoravský" src="orig" selected="1">S2--------A----</tag>
+<tag>
+<AM lemma="velkomoravský" src="orig">S2--------A----</AM>
+<AM lemma="velkomoravsko" src="manual" selected="1">S2--------A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-150-p10s1w13">
 <src.rf>manual</src.rf>

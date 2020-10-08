@@ -940,7 +940,8 @@
 <form>řikávalo</form>
 <tag>
 <AM lemma="řikávalo" src="auto">X@-------------</AM>
-<AM lemma="říkávat_^(*4at)" src="manual" selected="1">VpNS----R-AAI-6</AM>
+<AM lemma="říkávat_^(*4at)" src="manual">VpNS----R-AAI-6</AM>
+<AM lemma="řikávat_,h_^(^GC**říkávat)" src="manual" selected="1">VpNS----R-AAI--</AM>
 </tag>
 </m>
 <m id="m103-123-125">

@@ -3357,7 +3357,8 @@
 <tag>
 <AM lemma="tříčtrvťové" src="auto">X@-------------</AM>
 <AM lemma="tříčtvrťový" src="manual">AAIP4----1A----</AM>
-<AM lemma="tříčtvrťový" src="manual" selected="1">AAFP4----1A----</AM>
+<AM lemma="tříčtvrťový" src="manual">AAFP4----1A----</AM>
+<AM lemma="tříčtrvťový_,i_^(^DS**tříčtvrťový)" src="manual" selected="1">AAFP4----1A----</AM>
 </tag>
 </m>
 <m id="m015-d1t2753-11">

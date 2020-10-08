@@ -4773,7 +4773,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>riskantí</form>
-<tag lemma="riskantní" src="orig" selected="1">AAFS1----1A----</tag>
+<tag>
+<AM lemma="riskantní" src="orig">AAFS1----1A----</AM>
+<AM lemma="riskantí_,i_^(^DS**riskantní)" src="manual" selected="1">AAFS1----1A----</AM>
+</tag>
 </m>
 <m id="m-lnd92258-002-p9s6w14">
 <src.rf>manual</src.rf>

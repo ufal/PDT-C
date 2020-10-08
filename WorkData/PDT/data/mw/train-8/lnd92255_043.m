@@ -2376,7 +2376,10 @@
 <LM>w#w-lnd92255-043-p6s2w16</LM>
 </w.rf>
 <form>poslaci</form>
-<tag lemma="poslanec" src="orig" selected="1">NNMP1-----A----</tag>
+<tag>
+<AM lemma="poslanec" src="orig">NNMP1-----A----</AM>
+<AM lemma="poslac_,i_^(^DS**poslanec)" src="manual" selected="1">NNMP1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-043-p6s2w17">
 <src.rf>manual</src.rf>

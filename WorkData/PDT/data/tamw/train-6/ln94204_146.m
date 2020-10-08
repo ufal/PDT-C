@@ -2860,7 +2860,10 @@
 <LM>w#w-ln94204-146-p2s13Bw19</LM>
 </w.rf>
 <form>stomatologicko</form>
-<tag lemma="stomatologický" src="orig" selected="1">S2--------A----</tag>
+<tag>
+<AM lemma="stomatologický" src="orig">S2--------A----</AM>
+<AM lemma="stomatologicko" src="manual" selected="1">S2--------A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-146-p2s13Bw20">
 <src.rf>manual</src.rf>

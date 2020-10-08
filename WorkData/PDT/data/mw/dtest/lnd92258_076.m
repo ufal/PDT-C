@@ -4759,7 +4759,11 @@
 <LM>w#w-lnd92258-076-p70s1w4</LM>
 </w.rf>
 <form>relat</form>
-<tag lemma="relativní" src="orig" selected="1">AAXXX----1A---b</tag>
+<tag>
+<AM lemma="relativní" src="orig">AAXXX----1A---b</AM>
+<AM lemma="relat-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="relat-88" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92258-076-p70s1w5">
 <src.rf>manual</src.rf>

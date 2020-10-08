@@ -1825,7 +1825,10 @@
 <LM>w#w-ln94211-122-p5s4w1</LM>
 </w.rf>
 <form>Protivahou</form>
-<tag lemma="protiváha" src="orig" selected="1">NNFS7-----A----</tag>
+<tag>
+<AM lemma="protiváha" src="orig">NNFS7-----A----</AM>
+<AM lemma="protivaha_,i_^(^DS**protiváha)" src="manual" selected="1">NNFS7-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-122-p5s4w2">
 <src.rf>manual</src.rf>

@@ -197,7 +197,10 @@
 <LM>w#w-ln94205-85-p2s1w22</LM>
 </w.rf>
 <form>London</form>
-<tag lemma="London_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="London_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="London-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94205-85-p2s1w23">
 <src.rf>manual</src.rf>
@@ -205,7 +208,10 @@
 <LM>w#w-ln94205-85-p2s1w23</LM>
 </w.rf>
 <form>Records</form>
-<tag lemma="Record_;m" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Record_;m" src="orig">NNIXX-----A----</AM>
+<AM lemma="Records-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94205-85-p2s1w24">
 <src.rf>manual</src.rf>

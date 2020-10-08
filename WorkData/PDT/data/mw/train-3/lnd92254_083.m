@@ -848,7 +848,9 @@
 <form>žk</form>
 <tag>
 <AM lemma="žokej_:B" src="orig">NNMXX-----A---8</AM>
-<AM lemma="žokej" src="manual" selected="1">NNMXX-----A---8</AM>
+<AM lemma="žokej" src="manual">NNMXX-----A---8</AM>
+<AM lemma="žk-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="žk-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-083-p1s17w4">

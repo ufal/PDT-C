@@ -2878,7 +2878,10 @@
 <LM>w#w-ln95049-077-p5s1w170</LM>
 </w.rf>
 <form>joint</form>
-<tag lemma="joint_^(j._venture;_společný_podnik)" src="auto" selected="1">AAIXX----1A----</tag>
+<tag>
+<AM lemma="joint_^(j._venture;_společný_podnik)" src="auto">AAIXX----1A----</AM>
+<AM lemma="joint-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-077-p5s1w171">
 <src.rf>manual</src.rf>
@@ -2886,7 +2889,10 @@
 <LM>w#w-ln95049-077-p5s1w171</LM>
 </w.rf>
 <form>ventures</form>
-<tag lemma="venture" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="venture" src="orig">NNFXX-----A----</AM>
+<AM lemma="ventures-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-077-p5s1w172">
 <src.rf>manual</src.rf>

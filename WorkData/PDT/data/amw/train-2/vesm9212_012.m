@@ -11900,7 +11900,10 @@
 <LM>w#w-vesm9212-012-p28s4w11</LM>
 </w.rf>
 <form>reliktnímy</form>
-<tag lemma="reliktní" src="orig" selected="1">AAIP7----1A----</tag>
+<tag>
+<AM lemma="reliktní" src="orig">AAIP7----1A----</AM>
+<AM lemma="reliktní" src="manual" selected="1">AAIP7----1A---9</AM>
+</tag>
 </m>
 <m id="m-vesm9212-012-p28s4w12">
 <src.rf>manual</src.rf>

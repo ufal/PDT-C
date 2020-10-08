@@ -187,7 +187,11 @@
 <LM>w#w-vesm9211-059-p1s2w3</LM>
 </w.rf>
 <form>vyd</form>
-<tag lemma="vydání" src="orig" selected="1">NNNXX-----A---b</tag>
+<tag>
+<AM lemma="vydání" src="orig">NNNXX-----A---b</AM>
+<AM lemma="vyd-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="vyd-88" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9211-059-p1s2w4">
 <src.rf>manual</src.rf>

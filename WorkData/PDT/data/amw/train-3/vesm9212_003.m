@@ -899,7 +899,9 @@
 <tag>
 <AM lemma="uV_:B_^(mikroVolt)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="mikroVolt" src="manual">NNIXX-----A---8</AM>
-<AM lemma="mikrovolt" src="manual" selected="1">NNIXX-----A---b</AM>
+<AM lemma="mikrovolt" src="manual">NNIXX-----A---b</AM>
+<AM lemma="uV-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="uV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-003-p3s1w11">

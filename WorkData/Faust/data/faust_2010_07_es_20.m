@@ -5278,7 +5278,9 @@
 <form>příd</form>
 <tag>
 <AM lemma="příd">X@-------------</AM>
-<AM lemma="přídavný" src="manual" selected="1">AAXXX----1A---b</AM>
+<AM lemma="přídavný" src="manual">AAXXX----1A---b</AM>
+<AM lemma="příd-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="příd-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_20-SCzechM-p2155-s1-w2">

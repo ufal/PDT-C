@@ -1457,7 +1457,8 @@
 <form>všichny</form>
 <tag>
 <AM lemma="všichny" src="auto">X@-------------</AM>
-<AM lemma="všechen" src="manual" selected="1">PLFP1---------6</AM>
+<AM lemma="všechen" src="manual">PLFP1---------6</AM>
+<AM lemma="všechen" src="manual" selected="1">PLFP1---------7</AM>
 </tag>
 </m>
 <m id="m103-d1t1100-9">

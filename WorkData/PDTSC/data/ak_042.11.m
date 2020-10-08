@@ -443,7 +443,8 @@
 <form>Škrvňanech</form>
 <tag>
 <AM lemma="Škrvňanech" src="auto">X@-------------</AM>
-<AM lemma="Škvrňany_;G_,h_^(^GC**Skvrňany)" src="manual" selected="1">NNIP6-----A----</AM>
+<AM lemma="Škvrňany_;G_,h_^(^GC**Skvrňany)" src="manual">NNIP6-----A----</AM>
+<AM lemma="Škrvňany_;G_,i_^(^DS**Skvrňany)" src="manual" selected="1">NNIP6-----A----</AM>
 </tag>
 </m>
 <m id="m042-277-308">
@@ -2162,7 +2163,8 @@
 <form>Škrvňan</form>
 <tag>
 <AM lemma="Škrvňan" src="auto">X@-------------</AM>
-<AM lemma="Škvrňany_;G_,h_^(^GC**Skvrňany)" src="manual" selected="1">NNIP2-----A----</AM>
+<AM lemma="Škvrňany_;G_,h_^(^GC**Skvrňany)" src="manual">NNIP2-----A----</AM>
+<AM lemma="Škrvňany_;G_,i_^(^DS**Skvrňany)" src="manual" selected="1">NNIP2-----A----</AM>
 </tag>
 </m>
 <m id="m042-382-383">

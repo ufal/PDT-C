@@ -31,7 +31,8 @@
 <form>Ulsterší</form>
 <tag>
 <AM lemma="Ulsterský_;G" src="orig">AAMP1----1A----</AM>
-<AM lemma="ulsterský" src="manual" selected="1">AAMP1----1A----</AM>
+<AM lemma="ulsterský" src="manual">AAMP1----1A----</AM>
+<AM lemma="ulsterský" src="manual" selected="1">AAMP1----1A---9</AM>
 </tag>
 </m>
 <m id="m-ln94204-91-p2s1w2">

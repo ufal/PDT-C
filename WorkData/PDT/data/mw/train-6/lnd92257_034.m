@@ -578,7 +578,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>užgodorské</form>
-<tag lemma="užgorodský" src="orig" selected="1">AAFS2----1A----</tag>
+<tag>
+<AM lemma="užgorodský" src="orig">AAFS2----1A----</AM>
+<AM lemma="užgodorský_,i_^(^DS**užhorodský)" src="manual" selected="1">AAFS2----1A----</AM>
+</tag>
 </m>
 <m id="m-lnd92257-034-p2s2w11">
 <src.rf>manual</src.rf>

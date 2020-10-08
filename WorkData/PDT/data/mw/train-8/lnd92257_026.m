@@ -1421,7 +1421,10 @@
 <LM>w#w-lnd92257-026-p5s1w6</LM>
 </w.rf>
 <form>zůstáva</form>
-<tag lemma="zůstávat_^(*4at)" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag>
+<AM lemma="zůstávat_^(*4at)" src="orig">VB-S---3P-AAI--</AM>
+<AM lemma="zůstávat_^(*4at)" src="manual" selected="1">VB-S---3P-AAI-9</AM>
+</tag>
 </m>
 <m id="m-lnd92257-026-p5s1w7">
 <src.rf>manual</src.rf>

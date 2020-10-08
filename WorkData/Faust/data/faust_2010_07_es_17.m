@@ -198,15 +198,17 @@
 <AM lemma="X-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="x-5_^(náhr._symbolu_krát,_mat._symbol)" src="auto">J*-------------</AM>
 <AM lemma="x-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="x-88_:B" src="auto">NNXXX-----A----</AM></tag>
-</m><m id="es_17-SCzechM-p1754-s1-w1-sw1">
+<AM lemma="x-88_:B" src="auto">NNXXX-----A----</AM>
+</tag>
+</m>
+<m id="es_17-SCzechM-p1754-s1-w1-sw1">
 <w.rf>
 <LM>w#w-es_17-SCzechM-p1754-s1-w1</LM>
 </w.rf>
 <form>1</form>
-<tag>
-<AM lemma="1" src="auto" recommended="1">C=-------------</AM></tag>
-</m><m id="es_17-SCzechM-p1754-s1-w1-sw2">
+<tag lemma="1" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="es_17-SCzechM-p1754-s1-w1-sw2">
 <w.rf>
 <LM>w#w-es_17-SCzechM-p1754-s1-w1</LM>
 </w.rf>
@@ -215,7 +217,8 @@
 <AM lemma="i-1" src="auto">J^-------------</AM>
 <AM lemma="i-2" src="auto">TT-------------</AM>
 <AM lemma="i-33" src="auto" recommended="1">Q3-------------</AM>
-<AM lemma="i-88_:B" src="auto">NNXXX-----A----</AM></tag>
+<AM lemma="i-88_:B" src="auto">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="es_17-SCzechM-p1754-s1-w2">
 <w.rf>
@@ -235,23 +238,27 @@
 <AM lemma="X-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="x-5_^(náhr._symbolu_krát,_mat._symbol)" src="auto">J*-------------</AM>
 <AM lemma="x-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="x-88_:B" src="auto">NNXXX-----A----</AM></tag>
-</m><m id="es_17-SCzechM-p1754-s1-w3-sw1">
+<AM lemma="x-88_:B" src="auto">NNXXX-----A----</AM>
+</tag>
+</m>
+<m id="es_17-SCzechM-p1754-s1-w3-sw1">
 <w.rf>
 <LM>w#w-es_17-SCzechM-p1754-s1-w3</LM>
 </w.rf>
 <form>1</form>
-<tag>
-<AM lemma="1" src="auto" recommended="1">C=-------------</AM></tag>
-</m><m id="es_17-SCzechM-p1754-s1-w3-sw2">
+<tag lemma="1" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="es_17-SCzechM-p1754-s1-w3-sw2">
 <w.rf>
 <LM>w#w-es_17-SCzechM-p1754-s1-w3</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>j</form>
 <tag>
 <AM lemma="j-33" src="auto" recommended="1">Q3-------------</AM>
-<AM lemma="j-88_:B" src="auto">NNXXX-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="j-88_:B" src="auto">NNXXX-----A----</AM>
+</tag>
+</m>
 <m id="es_17-SCzechM-p1754-s1-w4">
 <w.rf>
 <LM>w#w-es_17-SCzechM-p1754-s1-w4</LM>
@@ -930,7 +937,9 @@
 <form>příd</form>
 <tag>
 <AM lemma="příd">X@-------------</AM>
-<AM lemma="přídavný" src="manual" selected="1">AAXXX----1A---b</AM>
+<AM lemma="přídavný" src="manual">AAXXX----1A---b</AM>
+<AM lemma="příd-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="příd-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_17-SCzechM-p1756-s1-w2">

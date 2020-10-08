@@ -1580,7 +1580,9 @@
 <form>přek</form>
 <tag>
 <AM lemma="přek_:B_^(překážky)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="překážka" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="překážka" src="manual">NNFXX-----A---8</AM>
+<AM lemma="přek-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="přek-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-033-p4s3w13">
@@ -2181,7 +2183,9 @@
 <form>přek</form>
 <tag>
 <AM lemma="přek_:B_^(překážky)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="překážka" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="překážka" src="manual">NNFXX-----A---8</AM>
+<AM lemma="přek-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="přek-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-033-p5s2w28">

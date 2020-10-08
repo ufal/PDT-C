@@ -2617,7 +2617,9 @@
 <form>přesp</form>
 <tag>
 <AM lemma="přespolní_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="přespolní" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="přespolní" src="manual">AAXXX----1A---8</AM>
+<AM lemma="přesp-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="přesp-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-087-p4s8w35">

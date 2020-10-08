@@ -983,7 +983,11 @@
 <LM>w#w-cmpr9406-055-p5s1w19</LM>
 </w.rf>
 <form>rekval</form>
-<tag lemma="rekvalifikační" src="orig" selected="1">AAXXX----1A---b</tag>
+<tag>
+<AM lemma="rekvalifikační" src="orig">AAXXX----1A---b</AM>
+<AM lemma="rekval-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="rekval-88" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-055-p5s1w20">
 <src.rf>manual</src.rf>

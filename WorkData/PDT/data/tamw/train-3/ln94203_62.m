@@ -789,7 +789,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Lycie</form>
-<tag lemma="Lycie_;m" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="Lycie_;m" src="orig">NNXXX-----A----</AM>
+<AM lemma="Lycie-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94203-62-p4s1w14">
 <src.rf>manual</src.rf>
@@ -797,7 +800,10 @@
 <LM>w#w-ln94203-62-p4s1w14</LM>
 </w.rf>
 <form>Warszawy</form>
-<tag lemma="Varšava_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="Varšava_;G" src="orig">NNFS2-----A----</AM>
+<AM lemma="Warszawy-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94203-62-p4s1w15">
 <src.rf>manual</src.rf>

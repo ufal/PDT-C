@@ -4692,7 +4692,10 @@
 <LM>w#w-ln95044-030-p3s21w32</LM>
 </w.rf>
 <form>poz</form>
-<tag lemma="poznámka" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag>
+<AM lemma="poznámka" src="orig">NNFXX-----A---b</AM>
+<AM lemma="poznámka" src="manual" selected="1">NNFXX-----A---a</AM>
+</tag>
 </m>
 <m id="m-ln95044-030-p3s21w33">
 <src.rf>manual</src.rf>

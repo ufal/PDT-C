@@ -4122,7 +4122,11 @@
 <LM>w#w-ln94201-97-p11s2w11</LM>
 </w.rf>
 <form>rozh</form>
-<tag lemma="rozhodnutí" src="orig" selected="1">NNNXX-----A---b</tag>
+<tag>
+<AM lemma="rozhodnutí" src="orig">NNNXX-----A---b</AM>
+<AM lemma="rozh-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="rozh-88" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-97-p11s2w12">
 <src.rf>manual</src.rf>

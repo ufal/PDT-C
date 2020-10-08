@@ -3244,7 +3244,10 @@
 <LM>w#w-lnd91303-083-p13s1w3</LM>
 </w.rf>
 <form>TOMAŠ</form>
-<tag lemma="Tomáš_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Tomáš_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Tomaš_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91303-083-p13s1w4">
 <src.rf>manual</src.rf>

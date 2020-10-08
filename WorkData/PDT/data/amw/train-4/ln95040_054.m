@@ -4019,7 +4019,10 @@
 <LM>w#w-ln95040-054-p2s17Aw12</LM>
 </w.rf>
 <form>Fama</form>
-<tag lemma="fama" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="fama" src="orig">NNFS1-----A----</AM>
+<AM lemma="Fama-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-054-p2s17Aw13">
 <src.rf>manual</src.rf>
@@ -4027,7 +4030,10 @@
 <LM>w#w-ln95040-054-p2s17Aw13</LM>
 </w.rf>
 <form>sancta</form>
-<tag lemma="sanctus" src="orig" selected="1">AAFS1----1A----</tag>
+<tag>
+<AM lemma="sanctus" src="orig">AAFS1----1A----</AM>
+<AM lemma="sancta-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95040-054-p2s17Aw14">
 <src.rf>manual</src.rf>

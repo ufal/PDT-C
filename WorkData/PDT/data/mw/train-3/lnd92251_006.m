@@ -2068,7 +2068,10 @@
 <LM>w#w-lnd92251-006-p4s6w1</LM>
 </w.rf>
 <form>Vjádřil</form>
-<tag lemma="vyjádřit" src="orig" selected="1">VpYS----R-AAP--</tag>
+<tag>
+<AM lemma="vyjádřit" src="orig">VpYS----R-AAP--</AM>
+<AM lemma="vjádřit_,i_^(^DS**vyjádřit)" src="manual" selected="1">VpYS----R-AAP--</AM>
+</tag>
 </m>
 <m id="m-lnd92251-006-p4s6w2">
 <src.rf>manual</src.rf>

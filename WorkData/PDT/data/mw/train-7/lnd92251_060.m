@@ -4302,7 +4302,8 @@
 <form>Sumner</form>
 <tag>
 <AM lemma="Sumner" src="orig">NNMS1-----A----</AM>
-<AM lemma="Summer_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Summer_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Sumner_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-060-p13s1w22">

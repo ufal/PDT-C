@@ -2076,7 +2076,8 @@
 <form>Priamus</form>
 <tag>
 <AM lemma="Priamos_;Y" src="orig">NNMS1-----A---1</AM>
-<AM lemma="Priamos_;Y" src="manual" selected="1">NNMS1-----A---1</AM>
+<AM lemma="Priamos_;Y" src="manual">NNMS1-----A---1</AM>
+<AM lemma="Priamus_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-077-p5s3w16">

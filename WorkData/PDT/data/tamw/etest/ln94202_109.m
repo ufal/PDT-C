@@ -1253,7 +1253,11 @@
 <LM>w#w-ln94202-109-p2s56w3</LM>
 </w.rf>
 <form>přek</form>
-<tag lemma="překážka" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag>
+<AM lemma="překážka" src="orig">NNFXX-----A---b</AM>
+<AM lemma="přek-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="přek-88" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-109-p2s56w4">
 <src.rf>manual</src.rf>
@@ -1490,7 +1494,11 @@
 <LM>w#w-ln94202-109-p2s63w3</LM>
 </w.rf>
 <form>přek</form>
-<tag lemma="překážka" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag>
+<AM lemma="překážka" src="orig">NNFXX-----A---b</AM>
+<AM lemma="přek-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="přek-88" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-109-p2s63w4">
 <src.rf>manual</src.rf>

@@ -15408,7 +15408,11 @@
 <LM>w#w-vesm9303-050-p22s3w17</LM>
 </w.rf>
 <form>subst</form>
-<tag lemma="substantivum" src="orig" selected="1">NNNXX-----A---b</tag>
+<tag>
+<AM lemma="substantivum" src="orig">NNNXX-----A---b</AM>
+<AM lemma="subst-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="subst-88" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9303-050-p22s3w18">
 <src.rf>manual</src.rf>

@@ -3328,7 +3328,8 @@
 <form>Sedani</form>
 <tag>
 <AM lemma="Sedani" src="auto">X@-------------</AM>
-<AM lemma="Sedan_;m_^(vozidlo)" src="manual" selected="1">NNMP1-----A----</AM>
+<AM lemma="Sedan_;m_^(vozidlo)" src="manual">NNMP1-----A----</AM>
+<AM lemma="Sedan-2_;Y" src="manual" selected="1">NNMP1-----A----</AM>
 </tag>
 </m>
 <m id="m048-d-id135185-punct">

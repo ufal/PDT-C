@@ -1618,7 +1618,10 @@
 <LM>w#w-lnd92257-090-p4s2w2</LM>
 </w.rf>
 <form>rareagovalo</form>
-<tag lemma="zareagovat" src="orig" selected="1">VpNS----R-AAP--</tag>
+<tag>
+<AM lemma="zareagovat" src="orig">VpNS----R-AAP--</AM>
+<AM lemma="rareagovat_,i_^(^DS**zareagovat)" src="manual" selected="1">VpNS----R-AAP--</AM>
+</tag>
 </m>
 <m id="m-lnd92257-090-p4s2w3">
 <src.rf>manual</src.rf>

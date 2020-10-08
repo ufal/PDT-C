@@ -2157,7 +2157,10 @@
 <LM>w#w-lnd92257-060-p5s4w1</LM>
 </w.rf>
 <form>Zárověň</form>
-<tag lemma="zároveň" src="orig" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="zároveň" src="orig">Db-------------</AM>
+<AM lemma="zárověň_,i_^(^DS**zároveň)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92257-060-p5s4w2">
 <src.rf>manual</src.rf>

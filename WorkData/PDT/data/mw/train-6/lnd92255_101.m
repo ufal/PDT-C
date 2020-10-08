@@ -2482,7 +2482,10 @@
 <LM>w#w-lnd92255-101-p4s6w13</LM>
 </w.rf>
 <form>Votěcha</form>
-<tag lemma="Vojtěch_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Vojtěch_;Y" src="orig">NNMS2-----A----</AM>
+<AM lemma="Votěch_;Y_,i_^(^DS**Vojtěch)" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-101-p4s6w14">
 <src.rf>manual</src.rf>
