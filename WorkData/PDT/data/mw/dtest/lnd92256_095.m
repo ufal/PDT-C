@@ -2279,7 +2279,10 @@
 <LM>w#w-lnd92256-095-p8s2w1</LM>
 </w.rf>
 <form>OIomouc</form>
-<tag lemma="Olomouc_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Olomouc_;G" src="orig">NNFS1-----A----</AM>
+<AM lemma="OIomouc_;G_,i_^(^DS**Olomouc)" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-095-p8s2w2">
 <src.rf>manual</src.rf>

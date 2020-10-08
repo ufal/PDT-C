@@ -40,7 +40,9 @@
 <form>MUDR</form>
 <tag>
 <AM lemma="MUDr_:B" src="orig">NNMXX-----A---8</AM>
-<AM lemma="MUDr_^(doktor_medicíny)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="MUDr_^(doktor_medicíny)" src="manual">BNXXX-----A----</AM>
+<AM lemma="MUDR_,i_^(doktor_medicíny)_^(^DS**MUDr)" src="manual">BNXXX-----A----</AM>
+<AM lemma="MUDR_,i_^(doktor_medicíny)_(^DS**MUDr)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-025-p1s1w4">

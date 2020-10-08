@@ -1023,7 +1023,9 @@
 <form>ostr</form>
 <tag>
 <AM lemma="ostrov_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ostrov" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="ostrov" src="manual">NNIXX-----A---8</AM>
+<AM lemma="ostr-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="ostr-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-118-p3s8w9">

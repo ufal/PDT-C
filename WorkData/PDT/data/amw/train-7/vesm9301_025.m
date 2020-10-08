@@ -18604,7 +18604,11 @@
 <LM>w#w-vesm9301-025-p43s3w8</LM>
 </w.rf>
 <form>pfenik</form>
-<tag lemma="fenik" src="orig" selected="1">NNIS4-----A---6</tag>
+<tag>
+<AM lemma="fenik" src="orig">NNIS4-----A---6</AM>
+<AM lemma="pfenik_,i_^(^DS**fenik)" src="manual">NNIS4-----A---6</AM>
+<AM lemma="pfenik_,i_^(^DS**fenik)" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9301-025-p43s3w9">
 <src.rf>manual</src.rf>

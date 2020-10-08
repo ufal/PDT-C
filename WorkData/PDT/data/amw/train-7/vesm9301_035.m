@@ -3173,7 +3173,9 @@
 <form>pltč</form>
 <tag>
 <AM lemma="polotučný_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="polotučný" src="manual" selected="1">AAXXX----1A---b</AM>
+<AM lemma="polotučný" src="manual">AAXXX----1A---b</AM>
+<AM lemma="pltč-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="pltč-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-035-p18s1w11">

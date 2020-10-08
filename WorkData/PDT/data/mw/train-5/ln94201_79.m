@@ -699,7 +699,11 @@
 <LM>w#w-ln94201-79-p3s8w3</LM>
 </w.rf>
 <form>pen</form>
-<tag lemma="penalta" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag>
+<AM lemma="penalta" src="orig">NNFXX-----A---b</AM>
+<AM lemma="pen-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="pen-88" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-79-p3s8w4">
 <src.rf>manual</src.rf>

@@ -369,7 +369,8 @@
 <form>Čunderlíkoví</form>
 <tag>
 <AM lemma="Čunderlík_;Y" src="orig">NNMS3-----A----</AM>
-<AM lemma="Čunderlík_;Y" src="manual" selected="1">NNMS3-----A---7</AM>
+<AM lemma="Čunderlík_;Y" src="manual">NNMS3-----A---7</AM>
+<AM lemma="Čunderlík_;Y" src="manual" selected="1">NNMS3-----A---9</AM>
 </tag>
 </m>
 <m id="m-ln95047-021-p2s2w29">

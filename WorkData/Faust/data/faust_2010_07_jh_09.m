@@ -6339,7 +6339,9 @@
 <form>podst</form>
 <tag>
 <AM lemma="podst">X@-------------</AM>
-<AM lemma="podstatný" src="manual" selected="1">AAXXX----1A---b</AM>
+<AM lemma="podstatný" src="manual">AAXXX----1A---b</AM>
+<AM lemma="podst-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="podst-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="jh_09-SCzechM-p0966-s1-w2">

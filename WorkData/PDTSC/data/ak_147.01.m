@@ -2317,7 +2317,8 @@
 <form>ovocnářsko</form>
 <tag>
 <AM lemma="ovocnářsko" src="auto">X@-------------</AM>
-<AM lemma="ovocnářský" src="manual" selected="1">S2--------A----</AM>
+<AM lemma="ovocnářský" src="manual">S2--------A----</AM>
+<AM lemma="ovocnářsko" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m147-d1t173-8">

@@ -3097,6 +3097,7 @@
 <AM lemma="yorský" src="auto">AANS1----1N----</AM>
 <AM lemma="yorský" src="auto">AANS4----1N----</AM>
 <AM lemma="yorský" src="auto">AANS5----1N----</AM>
+<AM lemma="neyorský_,i_^(^DS**newyorský)" src="manual" selected="1">AAFS6----1N----</AM>
 </tag>
 </m>
 <m id="m-wsj2083-001-p1s9W5-Ta">

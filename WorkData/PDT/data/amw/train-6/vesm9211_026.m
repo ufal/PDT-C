@@ -917,7 +917,11 @@
 <LM>w#w-vesm9211-026-p2s6w1</LM>
 </w.rf>
 <form>Onyno</form>
-<tag lemma="onen" src="orig" selected="1">PDIP1----------</tag>
+<tag>
+<AM lemma="onen" src="orig">PDIP1----------</AM>
+<AM lemma="onyno_,i_^(^DS**onen)" src="manual">PDIP1----------</AM>
+<AM lemma="onyno_,i" src="manual" selected="1">PDIP1----------</AM>
+</tag>
 </m>
 <m id="m-vesm9211-026-p2s6w2">
 <src.rf>manual</src.rf>

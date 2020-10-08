@@ -43,7 +43,10 @@
 <LM>w#w-ln94206-86-p1s1w4</LM>
 </w.rf>
 <form>makedonsku</form>
-<tag lemma="makedonsko" src="orig" selected="1">NNNS6-----A----</tag>
+<tag>
+<AM lemma="makedonsko" src="orig">NNNS6-----A----</AM>
+<AM lemma="makedonsku" src="manual" selected="1">NNNS6-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-ln94206-86-p2s1A">

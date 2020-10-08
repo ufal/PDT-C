@@ -392,7 +392,8 @@
 <form>Plelude</form>
 <tag>
 <AM lemma="Prelude_;m_,t" src="orig">NNNXX-----A----</AM>
-<AM lemma="Prelude_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Prelude_;m" src="manual">NNNXX-----A----</AM>
+<AM lemma="Plelude_;m_,i_^(^DS**Prelude)" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-14-p2s1Bw31">

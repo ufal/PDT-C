@@ -1002,7 +1002,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Mamoriálu</form>
-<tag lemma="memoriál_;m" src="orig" selected="1">NNIS6-----A----</tag>
+<tag>
+<AM lemma="memoriál_;m" src="orig">NNIS6-----A----</AM>
+<AM lemma="mamoriál_,i_^(^DS**memoriál)" src="manual" selected="1">NNIS6-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-109-p4s3w11">
 <src.rf>manual</src.rf>

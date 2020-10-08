@@ -86,7 +86,10 @@
 <LM>w#w-mf930703-141-p1s1w9</LM>
 </w.rf>
 <form>Mogadiišo</form>
-<tag lemma="Mogadišo_;G" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Mogadišo_;G" src="orig">NNNS1-----A----</AM>
+<AM lemma="Mogadiišo_;G_,i_^(^DS**Mogadišo)" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-141-p1s1w10">
 <src.rf>manual</src.rf>

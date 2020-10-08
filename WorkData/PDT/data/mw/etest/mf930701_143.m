@@ -2666,7 +2666,11 @@
 <LM>w#w-mf930701-143-p2s15w9</LM>
 </w.rf>
 <form>ozónovu</form>
-<tag lemma="ozónový" src="orig" selected="1">BAFS4----1A----</tag>
+<tag>
+<AM lemma="ozónový" src="orig">BAFS4----1A----</AM>
+<AM lemma="ozónový" src="manual">AAFS4----1A---7</AM>
+<AM lemma="ozónový" src="manual" selected="1">AAFS4----1A---9</AM>
+</tag>
 </m>
 <m id="m-mf930701-143-p2s15w10">
 <src.rf>manual</src.rf>

@@ -1595,7 +1595,9 @@
 <form>mezin</form>
 <tag>
 <AM lemma="mezinárodní_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="mezinárodní" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="mezinárodní" src="manual">AAXXX----1A---8</AM>
+<AM lemma="mezin-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="mezin-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-126-p35s1w5">

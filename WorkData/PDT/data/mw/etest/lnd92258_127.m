@@ -1849,7 +1849,9 @@
 <form>pen</form>
 <tag>
 <AM lemma="penalta_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="penalta" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="penalta" src="manual">NNFXX-----A---8</AM>
+<AM lemma="pen-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="pen-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-127-p5s1w48">
@@ -5466,7 +5468,9 @@
 <form>pen</form>
 <tag>
 <AM lemma="penalta_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="penalta" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="penalta" src="manual">NNFXX-----A---8</AM>
+<AM lemma="pen-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="pen-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-127-p25s1w83">
@@ -6092,7 +6096,9 @@
 <form>pen</form>
 <tag>
 <AM lemma="penalta_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="penalta" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="penalta" src="manual">NNFXX-----A---8</AM>
+<AM lemma="pen-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="pen-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-127-p25s1w155">

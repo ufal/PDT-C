@@ -6505,7 +6505,8 @@
 <form>Opatii</form>
 <tag>
 <AM lemma="Opatii" src="auto">X@-------------</AM>
-<AM lemma="Opatija_;G" src="manual" selected="1">NNFS6-----A----</AM>
+<AM lemma="Opatija_;G" src="manual">NNFS6-----A----</AM>
+<AM lemma="Opatia_;G_,i_^(^DS**Opatija)" src="manual" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m714-d-id113428">

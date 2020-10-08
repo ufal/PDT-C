@@ -1104,7 +1104,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Milosevičovo</form>
-<tag lemma="Miloševičův_;Y_^(*2)" src="orig" selected="1">AUNS4M---------</tag>
+<tag>
+<AM lemma="Miloševičův_;Y_^(*2)" src="orig">AUNS4M---------</AM>
+<AM lemma="Milosevičův_;Y_,i_^(^DS**Miloševičův)" src="manual" selected="1">AUNS4M---------</AM>
+</tag>
 </m>
 <m id="m-ln94203-20-p4s2w26">
 <src.rf>manual</src.rf>

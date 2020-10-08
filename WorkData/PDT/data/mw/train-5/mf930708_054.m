@@ -45,7 +45,10 @@
 <LM>w#w-mf930708-054-p2s1w1</LM>
 </w.rf>
 <form>morava</form>
-<tag lemma="Morava_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Morava_;G" src="orig">NNFS1-----A----</AM>
+<AM lemma="morava_,i_^(^DS**Morava)" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf930708-054-p3s1">

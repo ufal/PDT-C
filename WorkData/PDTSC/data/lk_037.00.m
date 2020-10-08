@@ -3295,7 +3295,8 @@
 <form>Mileče</form>
 <tag>
 <AM lemma="Mileče" src="auto">X@-------------</AM>
-<AM lemma="Mileč_;G" src="manual" selected="1">NNFS2-----A---1</AM>
+<AM lemma="Mileč_;G" src="manual">NNFS2-----A---1</AM>
+<AM lemma="Mileč_;G" src="manual" selected="1">NNFS2-----A---2</AM>
 </tag>
 </m>
 <m id="m037-d1e222-x2-163">
