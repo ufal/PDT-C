@@ -875,7 +875,8 @@
 <form>Köln</form>
 <tag>
 <AM lemma="Köln_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Köln-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Köln-77" src="manual">F%-------------</AM>
+<AM lemma="Köln-2_;G" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-080-p7s1w7">
@@ -893,8 +894,8 @@
 </w.rf>
 <form>Landshut</form>
 <tag>
-<AM lemma="Landshut_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Landshut-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Landshut_;G" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Landshut-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92253-080-p7s1w9">
@@ -953,7 +954,8 @@
 <form>Krefeld</form>
 <tag>
 <AM lemma="Krefeld_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Krefeld-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Krefeld-77" src="manual">F%-------------</AM>
+<AM lemma="Krefeld-2_;G" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-080-p7s1w16">
@@ -1011,8 +1013,8 @@
 </w.rf>
 <form>Preussen</form>
 <tag>
-<AM lemma="Preussen_;m" src="orig">NNIS1-----A----</AM>
-<AM lemma="Preussen-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Preussen_;m" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Preussen-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92253-080-p7s1w23">
@@ -1057,7 +1059,8 @@
 <AM lemma="Eisbären_;m" src="orig">NNMXX-----A----</AM>
 <AM lemma="Eisbären_;m_,t" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Eisbären_;m_,t" src="auto">NNIS4-----A----</AM>
-<AM lemma="Eisbären-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Eisbären-77" src="manual">F%-------------</AM>
+<AM lemma="Eisbären_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-080-p7s1w28">
@@ -1075,8 +1078,8 @@
 </w.rf>
 <form>Kaufbeuren</form>
 <tag>
-<AM lemma="Kaufbeuren_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Kaufbeuren-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Kaufbeuren_;G" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Kaufbeuren-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92253-080-p7s1w30">

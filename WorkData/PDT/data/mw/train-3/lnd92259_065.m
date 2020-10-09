@@ -2299,7 +2299,8 @@
 <form>jikokorejsko</form>
 <tag>
 <AM lemma="jihokorejský" src="orig">S2--------A----</AM>
-<AM lemma="jihokorejsko" src="manual" selected="1">S2--------A----</AM>
+<AM lemma="jihokorejsko" src="manual">S2--------A----</AM>
+<AM lemma="jikokorejsko_,i_^(^DS**jihokorejsko)" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-065-p6s2w18">
