@@ -3062,7 +3062,7 @@
 <LM>w#w-ln94205-103-p6s3w2</LM>
 </w.rf>
 <form>jaf</form>
-<tag lemma="jaf-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="jaf-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94205-103-p6s3w3">
 <src.rf>manual</src.rf>

@@ -61,7 +61,7 @@
 <LM>w#w-mf920925-016-p2s1w3</LM>
 </w.rf>
 <form>jem</form>
-<tag lemma="jem-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="jem-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf920925-016-p2s1w4">
 <src.rf>manual</src.rf>

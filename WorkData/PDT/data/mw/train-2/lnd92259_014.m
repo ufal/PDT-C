@@ -119,7 +119,7 @@
 <LM>w#w-lnd92259-014-p3s1w3</LM>
 </w.rf>
 <form>ld</form>
-<tag lemma="ld-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="ld-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd92259-014-p3s1w4">
 <src.rf>manual</src.rf>

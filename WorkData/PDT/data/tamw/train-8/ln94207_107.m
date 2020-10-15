@@ -890,7 +890,7 @@
 </w.rf>
 <form>lin</form>
 <tag>
-<AM lemma="lin-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
+<AM lemma="lin-99_;Y" src="orig" selected="1">BNXXX-----A----</AM>
 <AM lemma="lino" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>

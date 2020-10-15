@@ -6106,7 +6106,7 @@
 <LM>w#w-mf920922-015-p4s1w2</LM>
 </w.rf>
 <form>ria</form>
-<tag lemma="ria-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="ria-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf920922-015-p4s1w3">
 <src.rf>manual</src.rf>

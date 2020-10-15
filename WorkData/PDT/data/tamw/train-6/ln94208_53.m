@@ -98,7 +98,7 @@
 <LM>w#w-ln94208-53-p2s1Bw3</LM>
 </w.rf>
 <form>mot</form>
-<tag lemma="mot-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="mot-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94208-53-p2s1Bw4">
 <src.rf>manual</src.rf>

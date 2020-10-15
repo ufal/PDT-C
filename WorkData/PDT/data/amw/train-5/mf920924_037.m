@@ -62,7 +62,7 @@
 </w.rf>
 <form>jet</form>
 <tag>
-<AM lemma="jet-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
+<AM lemma="jet-99_;Y" src="orig" selected="1">BNXXX-----A----</AM>
 <AM lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">Vf--------A-I--</AM>
 <AM lemma="jet-2_,h_^(letadlo_s_tryskovým_pohonem)" src="auto">NNIS1-----A----</AM>
 <AM lemma="jet-2_,h_^(letadlo_s_tryskovým_pohonem)" src="auto">NNIS4-----A----</AM>

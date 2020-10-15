@@ -205,7 +205,7 @@
 <LM>w#w-ln95047-001-p2s1Bw3</LM>
 </w.rf>
 <form>ikr</form>
-<tag lemma="ikr-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="ikr-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln95047-001-p2s1Bw4">
 <src.rf>manual</src.rf>

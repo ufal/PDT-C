@@ -2631,7 +2631,7 @@
 <LM>w#w-ln94208-128-p4s9w2</LM>
 </w.rf>
 <form>řej</form>
-<tag lemma="řej-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="řej-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94208-128-p4s9w3">
 <src.rf>manual</src.rf>

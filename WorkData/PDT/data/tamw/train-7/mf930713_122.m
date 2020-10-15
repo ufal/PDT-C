@@ -96,7 +96,7 @@
 <LM>w#w-mf930713-122-p2s1Aw5</LM>
 </w.rf>
 <form>or</form>
-<tag lemma="or-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="or-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf930713-122-p2s1Aw6">
 <src.rf>manual</src.rf>

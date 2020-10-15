@@ -51,7 +51,7 @@
 <LM>w#w-mf920902-007-p1s1Aw5</LM>
 </w.rf>
 <form>wil</form>
-<tag lemma="wil-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="wil-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf920902-007-p1s1Aw6">
 <src.rf>manual</src.rf>

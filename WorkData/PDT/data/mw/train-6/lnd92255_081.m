@@ -59,7 +59,7 @@
 <LM>w#w-lnd92255-081-p1s1w6</LM>
 </w.rf>
 <form>ivh</form>
-<tag lemma="ivh-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="ivh-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd92255-081-p1s1w7">
 <src.rf>manual</src.rf>
@@ -75,7 +75,7 @@
 <LM>w#w-lnd92255-081-p1s1w8</LM>
 </w.rf>
 <form>mlp</form>
-<tag lemma="mlp-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="mlp-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd92255-081-p1s1w9">
 <src.rf>manual</src.rf>

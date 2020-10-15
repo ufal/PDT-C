@@ -3668,7 +3668,7 @@
 <LM>w#w-ln94202-92-p6s6w2</LM>
 </w.rf>
 <form>ola</form>
-<tag lemma="ola-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="ola-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94202-92-p6s6w3">
 <src.rf>manual</src.rf>

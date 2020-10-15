@@ -77,7 +77,7 @@
 <LM>w#w-mf930703-114-p2s1w4</LM>
 </w.rf>
 <form>ria</form>
-<tag lemma="ria-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="ria-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf930703-114-p2s1w5">
 <src.rf>manual</src.rf>

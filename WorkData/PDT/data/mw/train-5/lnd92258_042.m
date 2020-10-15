@@ -260,7 +260,7 @@
 <LM>w#w-lnd92258-042-p4s1w3</LM>
 </w.rf>
 <form>mlp</form>
-<tag lemma="mlp-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="mlp-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd92258-042-p4s1w4">
 <src.rf>manual</src.rf>

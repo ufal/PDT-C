@@ -2710,7 +2710,7 @@
 <LM>w#w-mf930708-087-p8s2w2</LM>
 </w.rf>
 <form>lík</form>
-<tag lemma="lík-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="lík-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf930708-087-p8s2w3">
 <src.rf>manual</src.rf>

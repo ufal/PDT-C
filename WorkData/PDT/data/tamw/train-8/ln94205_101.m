@@ -1263,7 +1263,7 @@
 <LM>w#w-ln94205-101-p2s7w4</LM>
 </w.rf>
 <form>ola</form>
-<tag lemma="ola-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="ola-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94205-101-p2s7w5">
 <src.rf>manual</src.rf>

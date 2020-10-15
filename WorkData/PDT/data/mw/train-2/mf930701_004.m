@@ -80,7 +80,7 @@
 <LM>w#w-mf930701-004-p2s1w3</LM>
 </w.rf>
 <form>kw</form>
-<tag lemma="kw-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="kw-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf930701-004-p2s1w4">
 <src.rf>manual</src.rf>

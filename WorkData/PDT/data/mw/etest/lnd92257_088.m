@@ -421,7 +421,7 @@
 </w.rf>
 <form>jab</form>
 <tag>
-<AM lemma="jab-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
+<AM lemma="jab-99_;Y" src="orig" selected="1">BNXXX-----A----</AM>
 <AM lemma="jab_,t" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="jab_,t" src="auto">NNIS4-----A----</AM>
 </tag>

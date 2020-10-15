@@ -109,7 +109,7 @@
 <LM>w#w-mf930713-080-p2s1Aw3</LM>
 </w.rf>
 <form>jl</form>
-<tag lemma="jl-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="jl-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf930713-080-p2s1Aw4">
 <src.rf>manual</src.rf>

@@ -3972,7 +3972,7 @@
 <LM>w#w-lnd92259-060-p14s1w2</LM>
 </w.rf>
 <form>jk</form>
-<tag lemma="jk-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="jk-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd92259-060-p14s1w3">
 <src.rf>manual</src.rf>

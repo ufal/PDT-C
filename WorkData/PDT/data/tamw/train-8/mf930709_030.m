@@ -101,7 +101,7 @@
 <LM>w#w-mf930709-030-p2s1Aw3</LM>
 </w.rf>
 <form>rů</form>
-<tag lemma="rů-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="rů-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf930709-030-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -117,7 +117,7 @@
 <LM>w#w-mf930709-030-p2s1Aw5</LM>
 </w.rf>
 <form>ptp</form>
-<tag lemma="ptp-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="ptp-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf930709-030-p2s1Aw6">
 <src.rf>manual</src.rf>

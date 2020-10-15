@@ -202,7 +202,7 @@
 <LM>w#w-ln94211-117-p2s1Bw5</LM>
 </w.rf>
 <form>pú</form>
-<tag lemma="pú-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="pú-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94211-117-p2s1Bw6">
 <src.rf>manual</src.rf>

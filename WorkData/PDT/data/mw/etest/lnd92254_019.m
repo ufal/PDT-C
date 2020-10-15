@@ -4304,7 +4304,7 @@
 <form>mot</form>
 <tag>
 <AM lemma="motto_,x" src="orig">NNNP2-----A----</AM>
-<AM lemma="mot-99_;Y" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="mot-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-019-p8s1w3">

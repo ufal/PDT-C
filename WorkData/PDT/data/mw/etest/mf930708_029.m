@@ -70,7 +70,7 @@
 </w.rf>
 <form>man</form>
 <tag>
-<AM lemma="man-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
+<AM lemma="man-99_;Y" src="orig" selected="1">BNXXX-----A----</AM>
 <AM lemma="man" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="mana" src="auto">NNFP2-----A----</AM>
 </tag>

@@ -168,7 +168,7 @@
 </w.rf>
 <form>pa</form>
 <tag>
-<AM lemma="pa-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
+<AM lemma="pa-99_;Y" src="orig" selected="1">BNXXX-----A----</AM>
 <AM lemma="pa" src="auto" recommended="1">II-------------</AM>
 </tag>
 </m>

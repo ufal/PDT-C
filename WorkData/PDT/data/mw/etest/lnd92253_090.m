@@ -751,7 +751,7 @@
 </w.rf>
 <form>red</form>
 <tag>
-<AM lemma="red-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
+<AM lemma="red-99_;Y" src="orig" selected="1">BNXXX-----A----</AM>
 <AM lemma="redakce_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
 </tag>
 </m>

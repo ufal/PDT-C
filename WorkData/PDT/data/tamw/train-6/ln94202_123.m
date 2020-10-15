@@ -7999,7 +7999,7 @@
 <LM>w#w-ln94202-123-p15s5Aw2</LM>
 </w.rf>
 <form>vkl</form>
-<tag lemma="vkl-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="vkl-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94202-123-p15s5Aw3">
 <src.rf>manual</src.rf>
@@ -14719,7 +14719,7 @@
 <LM>w#w-ln94202-123-p27s6w2</LM>
 </w.rf>
 <form>hk</form>
-<tag lemma="hk-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="hk-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94202-123-p27s6w3">
 <src.rf>manual</src.rf>

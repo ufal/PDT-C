@@ -80,7 +80,7 @@
 </w.rf>
 <form>hoj</form>
 <tag>
-<AM lemma="hoj-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
+<AM lemma="hoj-99_;Y" src="orig" selected="1">BNXXX-----A----</AM>
 <AM lemma="hoj" src="auto" recommended="1">II-------------</AM>
 <AM lemma="hojit" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="hojit" src="auto">Vi-S---3--A-I-4</AM>

@@ -82,7 +82,7 @@
 </w.rf>
 <form>jak</form>
 <tag>
-<AM lemma="jak-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
+<AM lemma="jak-99_;Y" src="orig" selected="1">BNXXX-----A----</AM>
 <AM lemma="jak-1_;U_^(živočich)" src="auto">NNMS1-----A----</AM>
 <AM lemma="jak-2" src="auto">J,-------------</AM>
 <AM lemma="jak-2" src="auto">J^-------------</AM>

@@ -1700,7 +1700,7 @@
 <LM>w#w-lnd92258-142-p3s1w2</LM>
 </w.rf>
 <form>MMZ</form>
-<tag lemma="MMZ-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="MMZ-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd92258-142-p3s1w3">
 <src.rf>manual</src.rf>

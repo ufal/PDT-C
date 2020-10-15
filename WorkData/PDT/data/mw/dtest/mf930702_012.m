@@ -85,7 +85,7 @@
 <LM>w#w-mf930702-012-p2s1w3</LM>
 </w.rf>
 <form>jkl</form>
-<tag lemma="jkl-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="jkl-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf930702-012-p2s1w4">
 <src.rf>manual</src.rf>

@@ -1080,7 +1080,7 @@
 <LM>w#w-ln94203-92-p2s4w2</LM>
 </w.rf>
 <form>tse</form>
-<tag lemma="tse-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="tse-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94203-92-p2s4w3">
 <src.rf>manual</src.rf>

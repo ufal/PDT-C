@@ -125,7 +125,7 @@
 <LM>w#w-lnd92254-032-p3s1w5</LM>
 </w.rf>
 <form>woll</form>
-<tag lemma="woll-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="woll-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd92254-032-p3s1w6">
 <src.rf>manual</src.rf>

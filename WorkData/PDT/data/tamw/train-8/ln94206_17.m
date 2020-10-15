@@ -4469,7 +4469,7 @@
 </w.rf>
 <form>hm</form>
 <tag>
-<AM lemma="hm-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
+<AM lemma="hm-99_;Y" src="orig" selected="1">BNXXX-----A----</AM>
 <AM lemma="hm" src="auto" recommended="1">II-------------</AM>
 </tag>
 </m>

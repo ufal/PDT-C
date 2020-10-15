@@ -159,7 +159,7 @@
 <LM>w#w-lnd92255-039-p3s1w3</LM>
 </w.rf>
 <form>jaš</form>
-<tag lemma="jaš-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="jaš-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd92255-039-p3s1w4">
 <src.rf>manual</src.rf>
@@ -175,7 +175,7 @@
 <LM>w#w-lnd92255-039-p3s1w5</LM>
 </w.rf>
 <form>rk</form>
-<tag lemma="rk-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="rk-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd92255-039-p3s1w6">
 <src.rf>manual</src.rf>

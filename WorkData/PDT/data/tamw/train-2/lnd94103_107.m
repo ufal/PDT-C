@@ -191,7 +191,7 @@
 <LM>w#w-lnd94103-107-p1s1Dw3</LM>
 </w.rf>
 <form>šc</form>
-<tag lemma="šc-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="šc-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd94103-107-p1s1Dw4">
 <src.rf>manual</src.rf>

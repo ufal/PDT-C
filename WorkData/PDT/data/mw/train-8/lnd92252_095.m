@@ -3386,7 +3386,7 @@
 <LM>w#w-lnd92252-095-p6s1w2</LM>
 </w.rf>
 <form>šc</form>
-<tag lemma="šc-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="šc-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd92252-095-p6s1w3">
 <src.rf>manual</src.rf>
@@ -3403,7 +3403,7 @@
 </w.rf>
 <form>z</form>
 <tag>
-<AM lemma="z-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
+<AM lemma="z-99_;Y" src="orig" selected="1">BNXXX-----A----</AM>
 <AM lemma="z-1" src="auto">RR--2----------</AM>
 <AM lemma="z-33" src="auto" recommended="1">Q3-------------</AM>
 <AM lemma="z-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>

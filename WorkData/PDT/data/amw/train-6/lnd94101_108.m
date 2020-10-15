@@ -36,7 +36,7 @@
 </w.rf>
 <form>hop</form>
 <tag>
-<AM lemma="hop-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
+<AM lemma="hop-99_;Y" src="orig" selected="1">BNXXX-----A----</AM>
 <AM lemma="hop" src="auto">II-------------</AM>
 <AM lemma="hop-1" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="hop-2_^(hip_hop)" src="auto">NNIS1-----A----</AM>

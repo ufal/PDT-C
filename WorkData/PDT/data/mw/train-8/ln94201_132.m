@@ -1430,7 +1430,7 @@
 <LM>w#w-ln94201-132-p3s3w2</LM>
 </w.rf>
 <form>tse</form>
-<tag lemma="tse-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="tse-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94201-132-p3s3w3">
 <src.rf>manual</src.rf>
@@ -3207,7 +3207,7 @@
 <LM>w#w-ln94201-132-p5s5w2</LM>
 </w.rf>
 <form>tse</form>
-<tag lemma="tse-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="tse-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94201-132-p5s5w3">
 <src.rf>manual</src.rf>

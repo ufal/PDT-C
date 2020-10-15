@@ -1375,7 +1375,7 @@
 <form>hm</form>
 <tag>
 <AM lemma="hm" src="orig">II-------------</AM>
-<AM lemma="hm-99_;Y" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="hm-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-48-p4s2w21">

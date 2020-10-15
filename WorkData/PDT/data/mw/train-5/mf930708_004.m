@@ -448,7 +448,7 @@
 <form>li</form>
 <tag>
 <AM lemma="li-1" src="auto">TT-------------</AM>
-<AM lemma="li-99_;Y" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="li-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-004-p4s1w4">

@@ -517,7 +517,7 @@
 <LM>w#w-ln94205-2-p1s6w2</LM>
 </w.rf>
 <form>wig</form>
-<tag lemma="wig-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="wig-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 </s>
 </mdata>

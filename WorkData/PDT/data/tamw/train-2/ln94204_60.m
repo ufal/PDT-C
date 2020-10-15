@@ -1071,7 +1071,7 @@
 <LM>w#w-ln94204-60-p3s7w2</LM>
 </w.rf>
 <form>ljď</form>
-<tag lemma="ljď-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="ljď-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94204-60-p3s7w3">
 <src.rf>manual</src.rf>

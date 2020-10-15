@@ -152,7 +152,7 @@
 <LM>w#w-lnd94104-042-p1s2w5</LM>
 </w.rf>
 <form>il</form>
-<tag lemma="il-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="il-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd94104-042-p1s2w6">
 <src.rf>manual</src.rf>

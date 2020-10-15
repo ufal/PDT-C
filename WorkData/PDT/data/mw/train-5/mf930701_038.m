@@ -1253,7 +1253,7 @@
 </w.rf>
 <form>trn</form>
 <tag>
-<AM lemma="trn-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
+<AM lemma="trn-99_;Y" src="orig" selected="1">BNXXX-----A----</AM>
 <AM lemma="trn" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="trn" src="auto">NNIS4-----A----</AM>
 </tag>

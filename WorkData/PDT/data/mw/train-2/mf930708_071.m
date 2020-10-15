@@ -170,7 +170,7 @@
 <LM>w#w-mf930708-071-p3s1w5</LM>
 </w.rf>
 <form>lík</form>
-<tag lemma="lík-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="lík-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf930708-071-p3s1w6">
 <src.rf>manual</src.rf>

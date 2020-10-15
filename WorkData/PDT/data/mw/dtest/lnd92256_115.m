@@ -1313,7 +1313,7 @@
 </w.rf>
 <form>pš</form>
 <tag>
-<AM lemma="pš-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
+<AM lemma="pš-99_;Y" src="orig" selected="1">BNXXX-----A----</AM>
 <AM lemma="pš" src="auto" recommended="1">II-------------</AM>
 </tag>
 </m>

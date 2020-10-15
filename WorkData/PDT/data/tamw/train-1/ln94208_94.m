@@ -735,7 +735,7 @@
 <LM>w#w-ln94208-94-p2s3Bw2</LM>
 </w.rf>
 <form>ir</form>
-<tag lemma="ir-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="ir-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94208-94-p2s3Bw3">
 <src.rf>manual</src.rf>

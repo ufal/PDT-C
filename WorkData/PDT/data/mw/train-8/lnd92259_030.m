@@ -54,7 +54,7 @@
 </w.rf>
 <form>r</form>
 <tag>
-<AM lemma="r-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
+<AM lemma="r-99_;Y" src="orig" selected="1">BNXXX-----A----</AM>
 <AM lemma="r-33" src="auto">Q3-------------</AM>
 <AM lemma="r-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="režie_:B" src="auto">NNFXX-----A---8</AM>

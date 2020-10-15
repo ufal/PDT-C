@@ -54,7 +54,7 @@
 </w.rf>
 <form>sob</form>
 <tag>
-<AM lemma="sob-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
+<AM lemma="sob-99_;Y" src="orig" selected="1">BNXXX-----A----</AM>
 <AM lemma="sob" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>

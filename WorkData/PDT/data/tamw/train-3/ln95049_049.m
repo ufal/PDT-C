@@ -162,7 +162,7 @@
 </w.rf>
 <form>nov</form>
 <tag>
-<AM lemma="nov-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
+<AM lemma="nov-99_;Y" src="orig" selected="1">BNXXX-----A----</AM>
 <AM lemma="nov_^(pozice_Měsíce)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="nov_^(pozice_Měsíce)" src="auto">NNIS4-----A----</AM>
 <AM lemma="nova" src="auto">NNFP2-----A----</AM>

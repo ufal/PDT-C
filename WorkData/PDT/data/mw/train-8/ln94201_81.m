@@ -62,7 +62,7 @@
 </w.rf>
 <form>pol</form>
 <tag>
-<AM lemma="pol-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
+<AM lemma="pol-99_;Y" src="orig" selected="1">BNXXX-----A----</AM>
 <AM lemma="politický_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="polo_;m_^(vozidlo)" src="auto">NNNP2-----A----</AM>
 <AM lemma="polohový_:B" src="auto">AAXXX----1A---8</AM>

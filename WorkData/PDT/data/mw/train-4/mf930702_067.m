@@ -69,7 +69,7 @@
 <LM>w#w-mf930702-067-p2s1w3</LM>
 </w.rf>
 <form>šm</form>
-<tag lemma="šm-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="šm-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf930702-067-p2s1w4">
 <src.rf>manual</src.rf>

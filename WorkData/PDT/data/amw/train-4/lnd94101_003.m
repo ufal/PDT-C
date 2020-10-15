@@ -88,7 +88,7 @@
 <LM>w#w-lnd94101-003-p1s2w3</LM>
 </w.rf>
 <form>ip</form>
-<tag lemma="ip-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="ip-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd94101-003-p1s2w4">
 <src.rf>manual</src.rf>

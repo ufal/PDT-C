@@ -128,7 +128,7 @@
 </w.rf>
 <form>tma</form>
 <tag>
-<AM lemma="tma-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
+<AM lemma="tma-99_;Y" src="orig" selected="1">BNXXX-----A----</AM>
 <AM lemma="tma" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -146,7 +146,7 @@
 <LM>w#w-mf930701-031-p2s1w5</LM>
 </w.rf>
 <form>lh</form>
-<tag lemma="lh-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="lh-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf930701-031-p2s1w6">
 <src.rf>manual</src.rf>

@@ -129,7 +129,7 @@
 <LM>w#w-mf930701-047-p3s2w3</LM>
 </w.rf>
 <form>wil</form>
-<tag lemma="wil-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="wil-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf930701-047-p3s2w4">
 <src.rf>manual</src.rf>

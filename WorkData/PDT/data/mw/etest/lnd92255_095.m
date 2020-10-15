@@ -4082,7 +4082,7 @@
 <LM>w#w-lnd92255-095-p6s4w23</LM>
 </w.rf>
 <form>rn</form>
-<tag lemma="rn-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="rn-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd92255-095-p6s4w24">
 <src.rf>manual</src.rf>

@@ -72,7 +72,7 @@
 <LM>w#w-ln94206-119-p2s1Aw3</LM>
 </w.rf>
 <form>tse</form>
-<tag lemma="tse-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="tse-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94206-119-p2s1Aw4">
 <src.rf>manual</src.rf>

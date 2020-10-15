@@ -5175,7 +5175,7 @@
 <LM>w#w-lnd92256-082-p6s1w2</LM>
 </w.rf>
 <form>rn</form>
-<tag lemma="rn-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="rn-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd92256-082-p6s1w3">
 <src.rf>manual</src.rf>

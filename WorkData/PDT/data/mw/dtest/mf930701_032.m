@@ -79,7 +79,7 @@
 <form>tma</form>
 <tag>
 <AM lemma="tma" src="orig">NNFS1-----A----</AM>
-<AM lemma="tma-99_;Y" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="tma-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-032-p2s1w4">

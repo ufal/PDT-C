@@ -5531,7 +5531,7 @@
 <LM>w#w-ln94202-20-p9s4w2</LM>
 </w.rf>
 <form>pb</form>
-<tag lemma="pb-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="pb-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94202-20-p9s4w3">
 <src.rf>manual</src.rf>

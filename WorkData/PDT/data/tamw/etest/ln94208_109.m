@@ -61,7 +61,7 @@
 <LM>w#w-ln94208-109-p2s1Aw3</LM>
 </w.rf>
 <form>mmz</form>
-<tag lemma="mmz-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="mmz-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94208-109-p2s1Aw4">
 <src.rf>manual</src.rf>

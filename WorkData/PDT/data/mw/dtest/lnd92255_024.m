@@ -121,7 +121,7 @@
 <form>jak</form>
 <tag>
 <AM lemma="jak-3" src="orig">Db-------------</AM>
-<AM lemma="jak-99_;Y" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="jak-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-024-p3s1w4">

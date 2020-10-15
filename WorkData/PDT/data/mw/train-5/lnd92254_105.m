@@ -4690,7 +4690,7 @@
 <LM>w#w-lnd92254-105-p1s1Iw3</LM>
 </w.rf>
 <form>iťu</form>
-<tag lemma="iťu-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="iťu-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd92254-105-p1s1Iw4">
 <src.rf>manual</src.rf>

@@ -62,7 +62,7 @@
 <LM>w#w-mf920902-109-p1s1Aw6</LM>
 </w.rf>
 <form>jh</form>
-<tag lemma="jh-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="jh-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf920902-109-p1s1Aw7">
 <src.rf>manual</src.rf>

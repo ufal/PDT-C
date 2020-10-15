@@ -355,7 +355,7 @@
 <form>zda</form>
 <tag>
 <AM lemma="zda" src="orig">J,-------------</AM>
-<AM lemma="zda-99_;Y" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="zda-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-121-p3s1w4">
@@ -1086,7 +1086,7 @@
 <LM>w#w-mf930708-121-p4s3w2</LM>
 </w.rf>
 <form>rá</form>
-<tag lemma="rá-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="rá-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf930708-121-p4s3w3">
 <src.rf>manual</src.rf>

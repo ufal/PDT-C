@@ -61,7 +61,7 @@
 <LM>w#w-lnd92258-009-p2s1w3</LM>
 </w.rf>
 <form>rk</form>
-<tag lemma="rk-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="rk-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd92258-009-p2s1w4">
 <src.rf>manual</src.rf>

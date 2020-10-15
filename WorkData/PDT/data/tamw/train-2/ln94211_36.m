@@ -77,7 +77,7 @@
 <LM>w#w-ln94211-36-p2s1Aw3</LM>
 </w.rf>
 <form>mš</form>
-<tag lemma="mš-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="mš-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94211-36-p2s1Aw4">
 <src.rf>manual</src.rf>

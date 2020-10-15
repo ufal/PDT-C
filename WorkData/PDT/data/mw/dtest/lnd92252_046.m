@@ -1778,7 +1778,7 @@
 <form>lin</form>
 <tag>
 <AM lemma="lino" src="orig">NNNP2-----A----</AM>
-<AM lemma="lin-99_;Y" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="lin-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-046-p5s1w3">
@@ -2475,7 +2475,7 @@
 <LM>w#w-lnd92252-046-p8s1w2</LM>
 </w.rf>
 <form>vla</form>
-<tag lemma="vla-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="vla-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd92252-046-p8s1w3">
 <src.rf>manual</src.rf>
@@ -3324,7 +3324,7 @@
 <LM>w#w-lnd92252-046-p10s5w2</LM>
 </w.rf>
 <form>rn</form>
-<tag lemma="rn-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="rn-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd92252-046-p10s5w3">
 <src.rf>manual</src.rf>
@@ -4744,7 +4744,7 @@
 <LM>w#w-lnd92252-046-p13s1w2</LM>
 </w.rf>
 <form>jaf</form>
-<tag lemma="jaf-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="jaf-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd92252-046-p13s1w3">
 <src.rf>manual</src.rf>

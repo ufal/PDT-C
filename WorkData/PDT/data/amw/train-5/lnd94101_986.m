@@ -1022,7 +1022,7 @@
 <LM>w#w-lnd94101-986-p1s7Bw2</LM>
 </w.rf>
 <form>mmz</form>
-<tag lemma="mmz-99_;Y" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="mmz-99_;Y" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd94101-986-p1s7Bw3">
 <src.rf>manual</src.rf>
