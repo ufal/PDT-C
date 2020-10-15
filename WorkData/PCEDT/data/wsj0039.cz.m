@@ -6483,7 +6483,7 @@
 <form>Lanea</form>
 <tag>
 <AM lemma="Lanea" src="auto">X@-------------</AM>
-<AM lemma="Lane_;Y" src="manual" selected="1">NNMS4-----A----</AM>
+<AM lemma="Lane_;Y" src="manual" selected="1">NNMS4-----A---1</AM>
 </tag>
 </m>
 <m id="m-wsj0039-001-p1s25W5-Ta">

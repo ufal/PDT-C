@@ -1526,7 +1526,7 @@
 <LM>w#w-vesm9211-004-p6s2w10</LM>
 </w.rf>
 <form>doma</form>
-<tag lemma="doma" src="orig" selected="1">Db-------------</tag>
+<tag lemma="doma" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-vesm9211-004-p6s2w11">
 <src.rf>manual</src.rf>

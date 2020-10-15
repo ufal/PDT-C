@@ -1119,7 +1119,7 @@
 <form>nebrajíc</form>
 <tag>
 <AM lemma="nebrajíc" src="auto">X@-------------</AM>
-<AM lemma="brát" src="manual" selected="1">VeHS------N-I--</AM>
+<AM lemma="brát" src="manual" selected="1">VeHS------N-I-1</AM>
 </tag>
 </m>
 <m id="m-wsj2089-001-p1s3W7-Ta">

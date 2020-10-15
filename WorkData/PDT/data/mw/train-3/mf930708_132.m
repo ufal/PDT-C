@@ -1696,7 +1696,7 @@
 <AM lemma="Bělorus_;E" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="bělorus_^(zemní_stroj)" src="auto">NNIS1-----A----</AM>
 <AM lemma="bělorus_^(zemní_stroj)" src="auto">NNIS4-----A----</AM>
-<AM lemma="Bělorusko_;G" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="Bělorusko_;G" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930708-132-p3s9w4">
@@ -2525,7 +2525,7 @@
 <AM lemma="bula" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="bulit" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="bulit" src="auto">Vi-S---3--A-I-4</AM>
-<AM lemma="Bulharsko_;G" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="Bulharsko_;G" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930708-132-p3s24w4">

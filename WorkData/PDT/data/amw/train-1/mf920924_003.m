@@ -3325,7 +3325,7 @@
 <LM>w#w-mf920924-003-p7s4w4</LM>
 </w.rf>
 <form>doma</form>
-<tag lemma="doma" src="orig" selected="1">Db-------------</tag>
+<tag lemma="doma" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf920924-003-p7s4w5">
 <src.rf>manual</src.rf>
@@ -3989,7 +3989,7 @@
 <LM>w#w-mf920924-003-p8s3w6</LM>
 </w.rf>
 <form>doma</form>
-<tag lemma="doma" src="orig" selected="1">Db-------------</tag>
+<tag lemma="doma" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf920924-003-p8s3w7">
 <src.rf>manual</src.rf>
@@ -4173,7 +4173,7 @@
 <LM>w#w-mf920924-003-p8s4w9</LM>
 </w.rf>
 <form>doma</form>
-<tag lemma="doma" src="orig" selected="1">Db-------------</tag>
+<tag lemma="doma" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf920924-003-p8s4w10">
 <src.rf>manual</src.rf>

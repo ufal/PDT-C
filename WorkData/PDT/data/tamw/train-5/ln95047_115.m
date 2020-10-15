@@ -1294,7 +1294,7 @@
 <LM>w#w-ln95047-115-p5s1w9</LM>
 </w.rf>
 <form>Mácy</form>
-<tag lemma="Máca_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Máca_;Y" src="orig" selected="1">NNMS2-----A---6</tag>
 </m>
 <m id="m-ln95047-115-p5s1w10">
 <src.rf>manual</src.rf>

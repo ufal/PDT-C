@@ -540,7 +540,7 @@
 <LM>w#w-ln95040-081-p3s1w31</LM>
 </w.rf>
 <form>Mochovcích</form>
-<tag lemma="Mochovce_;G" src="orig" selected="1">NNFP6-----A----</tag>
+<tag lemma="Mochovce_;G" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-ln95040-081-p3s1w32">
 <src.rf>manual</src.rf>

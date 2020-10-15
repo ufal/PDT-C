@@ -89,7 +89,7 @@
 <LM>w#w-ln94207-85-p2s1Aw3</LM>
 </w.rf>
 <form>Possovi</form>
-<tag lemma="Posse_;Y" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Posse_;Y" src="orig" selected="1">NNMS3-----A---1</tag>
 </m>
 </s>
 <s id="m-ln94207-85-p2s1B">

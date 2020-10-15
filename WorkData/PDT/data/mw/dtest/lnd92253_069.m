@@ -1301,7 +1301,7 @@
 <LM>w#w-lnd92253-069-p4s4w6</LM>
 </w.rf>
 <form>Dobrovolskij</form>
-<tag lemma="Dobrovolskij_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Dobrovolský_;Y" src="orig" selected="1">NNMS1-----A---2</tag>
 </m>
 <m id="m-lnd92253-069-p4s4w7">
 <src.rf>manual</src.rf>
@@ -1357,7 +1357,7 @@
 <LM>w#w-lnd92253-069-p4s4w13</LM>
 </w.rf>
 <form>Pescara</form>
-<tag lemma="Pescara_;Y_;m" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Pescara_;G_;Y_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92253-069-p4s4w14">
 <src.rf>manual</src.rf>
@@ -2780,7 +2780,7 @@
 <LM>w#w-lnd92253-069-p7s1w4</LM>
 </w.rf>
 <form>Coruňu</form>
-<tag lemma="Coruňa_;G" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Coruňa_;G_;Y_;m" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92253-069-p8s1">
@@ -2866,7 +2866,7 @@
 </w.rf>
 <form>Coruni</form>
 <tag>
-<AM lemma="Coruňa_;G_;m" src="orig" selected="1">NNFS2-----A----</AM>
+<AM lemma="Coruňa_;G_;Y_;m" src="orig" selected="1">NNFS2-----A----</AM>
 <AM lemma="Coruňa_;G" src="auto" recommended="1">NNFS3-----A----</AM>
 <AM lemma="Coruňa_;G" src="auto">NNFS6-----A----</AM>
 </tag>

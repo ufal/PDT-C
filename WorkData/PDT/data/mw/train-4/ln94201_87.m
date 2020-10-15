@@ -335,7 +335,7 @@
 </w.rf>
 <form>lož</form>
 <tag>
-<AM lemma="lož-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
+<AM lemma="lož-99_;Y" src="orig" selected="1">BNXXX-----A----</AM>
 <AM lemma="ložit" src="auto" recommended="1">Vi-S---2--A-I--</AM>
 <AM lemma="ložit" src="auto">Vi-S---3--A-I-4</AM>
 </tag>
@@ -5699,7 +5699,7 @@
 <AM lemma="bula" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="bulit" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="bulit" src="auto">Vi-S---3--A-I-4</AM>
-<AM lemma="Bulharsko_;G" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="Bulharsko_;G" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94201-87-p5s1w19">
@@ -6796,7 +6796,7 @@
 <form>Portug</form>
 <tag>
 <AM lemma="Portugalsko_:B_;G" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Portugalsko_;G" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="Portugalsko_;G" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94201-87-p6s1w38">

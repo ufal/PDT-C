@@ -6893,7 +6893,7 @@
 <tag>
 <AM lemma="dom-1_,t_^(šlechtický_titul)" src="auto">NNMS2-----A----</AM>
 <AM lemma="dom-1_,t_^(šlechtický_titul)" src="auto">NNMS4-----A----</AM>
-<AM lemma="doma" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="doma" src="auto" recommended="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m-wsj2407-001-p1s19W38-Ta">
@@ -10243,7 +10243,7 @@
 <tag>
 <AM lemma="Daleho" src="auto">X@-------------</AM>
 <AM lemma="Dale_;Y" src="manual">NNMS2-----A---1</AM>
-<AM lemma="Dale_;Y" src="manual" selected="1">NNMS2-----A---1</AM>
+<AM lemma="Dale-1_;Y" src="manual" selected="1">NNMS2-----A---2</AM>
 </tag>
 </m>
 <m id="m-wsj2407-001-p1s25W89-Ta">

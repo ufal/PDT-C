@@ -50,7 +50,7 @@
 <AM lemma="NATO_;m_^(North_Atlantic_Treaty_Organization)" src="manual">NNXXX-----A----</AM>
 <AM lemma="NATO-1_;m_^(North_Atlantic_Treaty_Organization)" src="manual">BNXXX-----A----</AM>
 <AM lemma="NATO-2_;m_^(North_Atlantic_Treaty_Organization)" src="manual">NNNS1-----A----</AM>
-<AM lemma="NATO-1_;m_^(Northtlantic_Treaty_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="NATO-1_;m_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>

@@ -505,7 +505,7 @@
 <LM>w#w-lnd92255-036-p2s2w10</LM>
 </w.rf>
 <form>Júliuse</form>
-<tag lemma="Július_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Július_;Y_,s_^(^DD**Julius)" src="orig" selected="1">NNMS2-----A---1</tag>
 </m>
 <m id="m-lnd92255-036-p2s2w11">
 <src.rf>manual</src.rf>

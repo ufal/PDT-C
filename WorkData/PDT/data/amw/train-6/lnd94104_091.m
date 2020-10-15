@@ -2836,7 +2836,7 @@
 </w.rf>
 <form>pal</form>
 <tag>
-<AM lemma="pal-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
+<AM lemma="pal-99_;Y" src="orig" selected="1">BNXXX-----A----</AM>
 <AM lemma="pálit" src="auto" recommended="1">Vi-S---2--A-I--</AM>
 <AM lemma="pálit" src="auto">Vi-S---3--A-I-4</AM>
 </tag>

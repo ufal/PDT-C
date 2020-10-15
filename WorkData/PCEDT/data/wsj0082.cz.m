@@ -5028,7 +5028,7 @@
 <tag>
 <AM lemma="Boonea" src="auto">X@-------------</AM>
 <AM lemma="Boone_;Y" src="manual">NNMS1-----A----</AM>
-<AM lemma="Boone_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Boone-1_;Y" src="manual" selected="1">NNMS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-wsj0082-001-p1s14W28-Ta">

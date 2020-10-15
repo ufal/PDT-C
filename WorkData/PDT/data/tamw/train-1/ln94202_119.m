@@ -58,7 +58,7 @@
 <AM lemma="Coruňa_;G" src="orig">NNFS2-----A----</AM>
 <AM lemma="Coruňa_;G" src="auto" recommended="1">NNFS3-----A----</AM>
 <AM lemma="Coruňa_;G" src="auto">NNFS6-----A----</AM>
-<AM lemma="Coruňa_;G_;m" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="Coruňa_;G_;Y_;m" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 </s>

@@ -1852,7 +1852,7 @@
 <form>Delawaru</form>
 <tag>
 <AM lemma="Delawaru" src="auto">X@-------------</AM>
-<AM lemma="Delaware_;G" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="Delaware_;G" src="manual" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0298-001-p1s5W9-Ta">

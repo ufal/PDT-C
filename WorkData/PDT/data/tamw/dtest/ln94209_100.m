@@ -1104,7 +1104,7 @@
 <LM>w#w-ln94209-100-p2s4w34</LM>
 </w.rf>
 <form>Jonasu</form>
-<tag lemma="Jonas_;Y" src="orig" selected="1">NNMS6-----A----</tag>
+<tag lemma="Jonas_;Y" src="orig" selected="1">NNMS6-----A---2</tag>
 </m>
 <m id="m-ln94209-100-p2s4w35">
 <src.rf>manual</src.rf>

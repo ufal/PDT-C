@@ -1574,7 +1574,7 @@
 <tag>
 <AM lemma="YMCA_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="YMCA_:B_;mYMCA_:B_;m_^(Young_Men`s_Christian_Association)" src="manual">NNFS7-----A----</AM>
-<AM lemma="YMCA_;m_^(Young_Men`s_Christian_Association)" src="manual" selected="1">BNFS7-----A----</AM>
+<AM lemma="YMCA-1_;m" src="manual" selected="1">NNFS7-----A---1</AM>
 </tag>
 </m>
 <m id="m-mf920922-057-p2s9Aw6">

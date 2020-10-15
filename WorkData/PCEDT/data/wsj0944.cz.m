@@ -17501,7 +17501,7 @@
 <tag>
 <AM lemma="Kozinskiho" src="auto">X@-------------</AM>
 <AM lemma="Kozinski_;Y" src="manual">NNMS2-----A----</AM>
-<AM lemma="Kozinský_;Y" src="manual" selected="1">NNMS2-----A---1</AM>
+<AM lemma="Kozinský_;Y" src="manual" selected="1">NNMS2-----A---3</AM>
 </tag>
 </m>
 <m id="m-wsj0944-001-p1s58W15-Ta">

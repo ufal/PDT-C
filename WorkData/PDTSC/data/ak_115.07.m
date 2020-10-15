@@ -1943,7 +1943,7 @@
 <AM lemma="dno_^(např._propasti)" src="auto">NNNP4-----A----</AM>
 <AM lemma="dno_^(např._propasti)" src="auto">NNNP5-----A----</AM>
 <AM lemma="dno_^(např._propasti)" src="auto">NNNS2-----A----</AM>
-<AM lemma="DNA_;U_^(molekulaNA)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="DNA_;U_^(molekula_DNA)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m115-d1t1181-1">
@@ -3047,7 +3047,7 @@
 <AM lemma="dno_^(např._propasti)" src="auto">NNNP4-----A----</AM>
 <AM lemma="dno_^(např._propasti)" src="auto">NNNP5-----A----</AM>
 <AM lemma="dno_^(např._propasti)" src="auto">NNNS2-----A----</AM>
-<AM lemma="DNA_;U_^(molekulaNA)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="DNA_;U_^(molekula_DNA)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m115-601-614">

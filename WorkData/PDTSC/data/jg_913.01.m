@@ -881,7 +881,7 @@
 <form>Rumuné</form>
 <tag>
 <AM lemma="Rumuné" src="auto">X@-------------</AM>
-<AM lemma="Rumun_;E" src="manual" selected="1">NNMP1-----A---1</AM>
+<AM lemma="Rumun_;E" src="manual" selected="1">NNMP1-----A---2</AM>
 </tag>
 </m>
 <m id="m913-d1e515-x2-2895">

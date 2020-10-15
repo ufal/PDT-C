@@ -568,7 +568,7 @@
 <LM>w#w-lnd92256-090-p4s2w23</LM>
 </w.rf>
 <form>Akropol</form>
-<tag lemma="Akropolis_;G" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Akropole_;G_,s_^(^DD**Akropolis-1)" src="orig" selected="1">NNFS4-----A---1</tag>
 </m>
 <m id="m-lnd92256-090-p4s2w24">
 <src.rf>manual</src.rf>
@@ -1247,7 +1247,7 @@
 <LM>w#w-lnd92256-090-p4s5w33</LM>
 </w.rf>
 <form>doma</form>
-<tag lemma="doma" src="orig" selected="1">Db-------------</tag>
+<tag lemma="doma" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd92256-090-p4s5w34">
 <src.rf>manual</src.rf>
@@ -2360,7 +2360,7 @@
 <LM>w#w-lnd92256-090-p5s3w8</LM>
 </w.rf>
 <form>doma</form>
-<tag lemma="doma" src="orig" selected="1">Db-------------</tag>
+<tag lemma="doma" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd92256-090-p5s3w9">
 <src.rf>manual</src.rf>

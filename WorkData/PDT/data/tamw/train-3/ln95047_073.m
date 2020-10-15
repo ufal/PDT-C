@@ -53,7 +53,7 @@
 <LM>w#w-ln95047-073-p2s1Aw1</LM>
 </w.rf>
 <form>Nábatijá</form>
-<tag lemma="Nábatijá_;G" src="auto" selected="1">NNNXX-----A----</tag>
+<tag lemma="Nábatijá_;G" src="auto" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln95047-073-p2s1Aw2">
 <src.rf>manual</src.rf>

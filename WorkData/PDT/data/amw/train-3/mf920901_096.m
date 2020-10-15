@@ -1213,7 +1213,7 @@
 <LM>w#w-mf920901-096-p5s1w11</LM>
 </w.rf>
 <form>doma</form>
-<tag lemma="doma" src="orig" selected="1">Db-------------</tag>
+<tag lemma="doma" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf920901-096-p5s1w12">
 <src.rf>manual</src.rf>

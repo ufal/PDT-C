@@ -2334,7 +2334,7 @@
 <LM>w#w-mf930713-064-p5s1w3</LM>
 </w.rf>
 <form>Hegyie</form>
-<tag lemma="Hegyi_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Hegyi_;Y" src="orig" selected="1">NNMS2-----A---1</tag>
 </m>
 <m id="m-mf930713-064-p5s1w4">
 <src.rf>manual</src.rf>

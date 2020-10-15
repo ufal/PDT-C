@@ -3441,7 +3441,7 @@
 <LM>w#w-ln95041-103-p8s2w11</LM>
 </w.rf>
 <form>Gingriche</form>
-<tag lemma="Gingrich_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Gingrich_;Y" src="orig" selected="1">NNMS2-----A---1</tag>
 </m>
 <m id="m-ln95041-103-p8s2w12">
 <src.rf>manual</src.rf>

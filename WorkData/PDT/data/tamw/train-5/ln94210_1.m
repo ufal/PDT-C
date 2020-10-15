@@ -5585,7 +5585,7 @@
 <LM>w#w-ln94210-1-p10s5w18</LM>
 </w.rf>
 <form>nezbytně</form>
-<tag lemma="nezbytně_^(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="zbytně_^(*1ý)" src="orig" selected="1">Dg-------1N----</tag>
 </m>
 <m id="m-ln94210-1-p10s5w19">
 <src.rf>manual</src.rf>

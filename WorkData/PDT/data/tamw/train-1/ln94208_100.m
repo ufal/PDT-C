@@ -43,7 +43,7 @@
 <LM>w#w-ln94208-100-p1s1w4</LM>
 </w.rf>
 <form>doma</form>
-<tag lemma="doma" src="orig" selected="1">Db-------------</tag>
+<tag lemma="doma" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 </s>
 <s id="m-ln94208-100-p2s1A">

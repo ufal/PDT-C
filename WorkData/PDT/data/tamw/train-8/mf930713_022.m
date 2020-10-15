@@ -268,7 +268,7 @@
 <AM lemma="Argentina_:B_;G" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Arga-2_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="Argo-1_;m" src="auto" recommended="1">NNNP2-----A----</AM>
-<AM lemma="Argentina_;G" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="Argentina_;G" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930713-022-p3s1w17">

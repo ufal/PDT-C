@@ -1287,7 +1287,7 @@
 <LM>w#w-ln94201-113-p3s5w5</LM>
 </w.rf>
 <form>číšníče</form>
-<tag lemma="číšník" src="orig" selected="1">NNMS5-----A----</tag>
+<tag lemma="číšník" src="orig" selected="1">NNMS5-----A---1</tag>
 </m>
 <m id="m-ln94201-113-p3s5w6">
 <src.rf>manual</src.rf>

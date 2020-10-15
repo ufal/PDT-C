@@ -529,7 +529,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Izetbegović</form>
-<tag lemma="Izetbegovič_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Izetbegovič_;Y" src="orig" selected="1">NNMS1-----A---1</tag>
 </m>
 <m id="m-ln94210-25-p2s4w5">
 <src.rf>manual</src.rf>

@@ -4909,7 +4909,7 @@
 <LM>w#w-ln94211-3-p6s6w5</LM>
 </w.rf>
 <form>klucima</form>
-<tag lemma="kluk" src="orig" selected="1">NNMP7-----A---6</tag>
+<tag lemma="kluk" src="orig" selected="1">NNMP7-----A---7</tag>
 </m>
 <m id="m-ln94211-3-p6s6w6">
 <src.rf>manual</src.rf>

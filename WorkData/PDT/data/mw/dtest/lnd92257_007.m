@@ -386,7 +386,7 @@
 <LM>w#w-lnd92257-007-p3s3w1</LM>
 </w.rf>
 <form>Galileimu</form>
-<tag lemma="Galilei_;Y" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Galilei_;Y" src="orig" selected="1">NNMS3-----A---2</tag>
 </m>
 <m id="m-lnd92257-007-p3s3w2">
 <src.rf>manual</src.rf>

@@ -2875,7 +2875,7 @@
 <LM>w#w-vesm9212-031-p6s6Aw4</LM>
 </w.rf>
 <form>doma</form>
-<tag lemma="doma" src="orig" selected="1">Db-------------</tag>
+<tag lemma="doma" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-vesm9212-031-p6s6Aw5">
 <src.rf>manual</src.rf>

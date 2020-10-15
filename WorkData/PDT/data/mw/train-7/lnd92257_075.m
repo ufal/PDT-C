@@ -2156,7 +2156,7 @@
 </w.rf>
 <form>ros</form>
 <tag>
-<AM lemma="ros-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
+<AM lemma="ros-99_;Y" src="orig" selected="1">BNXXX-----A----</AM>
 <AM lemma="rosa" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="rosit" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="rosit" src="auto">Vi-S---3--A-I-4</AM>

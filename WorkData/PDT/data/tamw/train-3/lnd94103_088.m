@@ -4714,7 +4714,7 @@
 <LM>w#w-lnd94103-088-p1s32w10</LM>
 </w.rf>
 <form>doma</form>
-<tag lemma="doma" src="orig" selected="1">Db-------------</tag>
+<tag lemma="doma" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd94103-088-p1s32w11">
 <src.rf>manual</src.rf>

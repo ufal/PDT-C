@@ -1741,7 +1741,7 @@
 <LM>w#w-mf920925-097-p7s2w24</LM>
 </w.rf>
 <form>nezbytně</form>
-<tag lemma="nezbytně_^(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="zbytně_^(*1ý)" src="orig" selected="1">Dg-------1N----</tag>
 </m>
 <m id="m-mf920925-097-p7s2w25">
 <src.rf>manual</src.rf>

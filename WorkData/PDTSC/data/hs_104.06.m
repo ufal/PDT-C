@@ -1865,7 +1865,7 @@
 <tag>
 <AM lemma="dom-1_,t_^(šlechtický_titul)" src="auto">NNMS2-----A----</AM>
 <AM lemma="dom-1_,t_^(šlechtický_titul)" src="auto">NNMS4-----A----</AM>
-<AM lemma="doma" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="doma" src="auto" recommended="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m104-d1t770-5">
@@ -1996,7 +1996,7 @@
 <tag>
 <AM lemma="dom-1_,t_^(šlechtický_titul)" src="auto">NNMS2-----A----</AM>
 <AM lemma="dom-1_,t_^(šlechtický_titul)" src="auto">NNMS4-----A----</AM>
-<AM lemma="doma" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="doma" src="auto" recommended="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m104-97-98">
@@ -2931,7 +2931,7 @@
 <tag>
 <AM lemma="dom-1_,t_^(šlechtický_titul)" src="auto">NNMS2-----A----</AM>
 <AM lemma="dom-1_,t_^(šlechtický_titul)" src="auto">NNMS4-----A----</AM>
-<AM lemma="doma" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="doma" src="auto" recommended="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m104-d1e783-x3-131">

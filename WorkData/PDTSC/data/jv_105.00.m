@@ -1107,7 +1107,7 @@
 <form>Lízi</form>
 <tag>
 <AM lemma="Lízi" src="auto">X@-------------</AM>
-<AM lemma="Líza_;Y" src="manual" selected="1">NNFS5-----A---1</AM>
+<AM lemma="Líza_;Y" src="manual" selected="1">NNFS5-----A---6</AM>
 </tag>
 </m>
 <m id="m105-24-27">

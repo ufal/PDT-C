@@ -1401,7 +1401,7 @@
 <LM>w#w-vesm9212-023-p3s5w13</LM>
 </w.rf>
 <form>elementárné</form>
-<tag lemma="elementární" src="orig" selected="1">AAIP4----1A----</tag>
+<tag lemma="elementární" src="orig" selected="1">AAIP4----1A---6</tag>
 </m>
 <m id="m-vesm9212-023-p3s5w14">
 <src.rf>manual</src.rf>

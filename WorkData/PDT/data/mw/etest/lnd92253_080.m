@@ -1685,7 +1685,7 @@
 <AM lemma="bel" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="bel" src="auto">NNIS4-----A----</AM>
 <AM lemma="bela" src="auto">NNFP2-----A----</AM>
-<AM lemma="Belgie_;G" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="Belgie_;G" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92253-080-p9s1w46">
@@ -1839,7 +1839,7 @@
 <AM lemma="bel" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="bel" src="auto">NNIS4-----A----</AM>
 <AM lemma="bela" src="auto">NNFP2-----A----</AM>
-<AM lemma="Belgie_;G" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="Belgie_;G" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92253-080-p9s1w64">

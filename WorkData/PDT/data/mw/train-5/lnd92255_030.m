@@ -881,7 +881,7 @@
 <LM>w#w-lnd92255-030-p3s2w15</LM>
 </w.rf>
 <form>Izetbegović</form>
-<tag lemma="Izetbegović_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Izetbegovič_;Y" src="orig" selected="1">NNMS1-----A---1</tag>
 </m>
 <m id="m-lnd92255-030-p3s2w16">
 <src.rf>manual</src.rf>

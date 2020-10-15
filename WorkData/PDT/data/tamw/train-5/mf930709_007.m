@@ -1914,7 +1914,7 @@
 <LM>w#w-mf930709-007-p6s3w2</LM>
 </w.rf>
 <form>Seifra</form>
-<tag lemma="Seifer_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Seifer_;Y" src="orig" selected="1">NNMS2-----A---1</tag>
 </m>
 <m id="m-mf930709-007-p6s3w3">
 <src.rf>manual</src.rf>

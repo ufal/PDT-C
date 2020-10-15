@@ -5854,7 +5854,7 @@
 <form>Hailea</form>
 <tag>
 <AM lemma="Hailea" src="auto">X@-------------</AM>
-<AM lemma="Haile_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Haile_;Y" src="manual" selected="1">NNMS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-wsj1424-001-p1s19W6-Ta">
@@ -10226,7 +10226,7 @@
 <form>Gersonyho</form>
 <tag>
 <AM lemma="Gersonyho" src="auto">X@-------------</AM>
-<AM lemma="Gerson_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Gerson_;Y" src="manual" selected="1">NNMS2-----A---6</AM>
 </tag>
 </m>
 <m id="m-wsj1424-001-p1s32W20-Ta">

@@ -1269,7 +1269,7 @@
 <LM>w#w-ln95048-050-p6s1w1</LM>
 </w.rf>
 <form>Famu</form>
-<tag lemma="FAMU_;m" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="Famu_;m" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln95048-050-p6s1w2">
 <src.rf>manual</src.rf>
@@ -5430,7 +5430,7 @@
 <LM>w#w-ln95048-050-p21s1w7</LM>
 </w.rf>
 <form>doma</form>
-<tag lemma="doma" src="orig" selected="1">Db-------------</tag>
+<tag lemma="doma" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95048-050-p21s1w8">
 <src.rf>manual</src.rf>

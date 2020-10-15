@@ -7426,7 +7426,7 @@
 <AM lemma="bula" src="auto">NNFP2-----A----</AM>
 <AM lemma="bulit" src="auto" recommended="1">Vi-S---2--A-I--</AM>
 <AM lemma="bulit" src="auto">Vi-S---3--A-I-4</AM>
-<AM lemma="Bulharsko_;G" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="Bulharsko_;G" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94201-79-p13s5w4">
@@ -7947,7 +7947,7 @@
 <AM lemma="Bělorus_;E" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="bělorus_^(zemní_stroj)" src="auto">NNIS1-----A----</AM>
 <AM lemma="bělorus_^(zemní_stroj)" src="auto">NNIS4-----A----</AM>
-<AM lemma="Bělorusko_;G" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="Bělorusko_;G" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94201-79-p13s12w4">
@@ -8497,7 +8497,7 @@
 <form>Ázerb</form>
 <tag>
 <AM lemma="Ázerbajdžán_:B_;G" src="orig">NNIXX-----A----</AM>
-<AM lemma="Ázerbajdžán_;G" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="Ázerbajdžán_;G_,s_^(^DD**Ázerbájdžán)" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94201-79-p13s19w4">

@@ -169,7 +169,7 @@
 <form>kateg</form>
 <tag>
 <AM lemma="kategorie_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="kategorie" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="kategorie" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92252-087-p2s2w14">
@@ -596,7 +596,7 @@
 <form>kateg</form>
 <tag>
 <AM lemma="kategorie_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="kategorie" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="kategorie" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92252-087-p2s4w20">
@@ -726,7 +726,7 @@
 <form>kateg</form>
 <tag>
 <AM lemma="kategorie_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="kategorie" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="kategorie" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92252-087-p2s4w35">
@@ -2654,7 +2654,7 @@
 <form>kateg</form>
 <tag>
 <AM lemma="kategorie_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="kategorie" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="kategorie" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92252-087-p4s8w39">
@@ -2788,7 +2788,7 @@
 <form>kateg</form>
 <tag>
 <AM lemma="kategorie_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="kategorie" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="kategorie" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92252-087-p4s8w55">
@@ -2991,7 +2991,7 @@
 <form>kateg</form>
 <tag>
 <AM lemma="kategorie_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="kategorie" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="kategorie" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92252-087-p4s9w16">
@@ -3662,7 +3662,7 @@
 <form>kateg</form>
 <tag>
 <AM lemma="kategorie_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="kategorie" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="kategorie" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-lnd92252-087-p5s2w37">

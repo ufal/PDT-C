@@ -3609,7 +3609,7 @@
 <LM>w#w-lnd92258-076-p50s1w36</LM>
 </w.rf>
 <form>></form>
-<tag lemma=">" src="orig" selected="1">Z:-------------</tag>
+<tag lemma="&gt;" src="orig" selected="1">Z:-------------</tag>
 </m>
 </s>
 <s id="m-lnd92258-076-p51s1">
@@ -3635,7 +3635,7 @@
 <LM>w#w-lnd92258-076-p51s1w3</LM>
 </w.rf>
 <form>></form>
-<tag lemma=">" src="orig" selected="1">Z:-------------</tag>
+<tag lemma="&gt;" src="orig" selected="1">Z:-------------</tag>
 </m>
 </s>
 <s id="m-lnd92258-076-p52s1">
@@ -3661,7 +3661,7 @@
 <LM>w#w-lnd92258-076-p52s1w3</LM>
 </w.rf>
 <form>></form>
-<tag lemma=">" src="orig" selected="1">Z:-------------</tag>
+<tag lemma="&gt;" src="orig" selected="1">Z:-------------</tag>
 </m>
 </s>
 <s id="m-lnd92258-076-p53s1">

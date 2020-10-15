@@ -2561,7 +2561,7 @@
 <LM>w#w-ln94200-172-p4s4w8</LM>
 </w.rf>
 <form>Sergem</form>
-<tag lemma="Serge_;Y" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Serge_;Y" src="orig" selected="1">NNMS7-----A---1</tag>
 </m>
 <m id="m-ln94200-172-p4s4w9">
 <src.rf>manual</src.rf>

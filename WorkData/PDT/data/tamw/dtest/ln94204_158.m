@@ -53,7 +53,7 @@
 <form>Felicia</form>
 <tag>
 <AM lemma="Felicia-2_;m_^(vozidlo)" src="orig">NNFS1-----A---1</AM>
-<AM lemma="felicia_;m_^(vozidlo)" src="auto" recommended="1" selected="1">NNFS1-----A---1</AM>
+<AM lemma="Felicie_;Y_;m" src="auto" recommended="1" selected="1">NNFS1-----A---1</AM>
 </tag>
 </m>
 </s>
@@ -167,7 +167,7 @@
 <form>Felicia</form>
 <tag>
 <AM lemma="Felicia-2_;m_^(vozidlo)" src="orig">NNFS1-----A---1</AM>
-<AM lemma="felicia_;m_^(vozidlo)" src="auto" recommended="1" selected="1">NNFS1-----A---1</AM>
+<AM lemma="Felicie_;Y_;m" src="auto" recommended="1" selected="1">NNFS1-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln94204-158-p2s1Bw12">
@@ -657,7 +657,7 @@
 <form>Felicia</form>
 <tag>
 <AM lemma="Felicia-2_;m_^(vozidlo)" src="orig">NNFS1-----A---1</AM>
-<AM lemma="felicia_;m_^(vozidlo)" src="auto" recommended="1" selected="1">NNFS1-----A---1</AM>
+<AM lemma="Felicie_;Y_;m" src="auto" recommended="1" selected="1">NNFS1-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln94204-158-p3s2w2">
@@ -1211,7 +1211,7 @@
 <form>Felicia</form>
 <tag>
 <AM lemma="Felicia-2_;m_^(vozidlo)" src="orig">NNFS1-----A---1</AM>
-<AM lemma="felicia_;m_^(vozidlo)" src="auto" recommended="1" selected="1">NNFS1-----A---1</AM>
+<AM lemma="Felicie_;Y_;m" src="auto" recommended="1" selected="1">NNFS1-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln94204-158-p4s2w5">

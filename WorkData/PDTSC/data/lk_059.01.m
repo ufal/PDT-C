@@ -4277,7 +4277,7 @@
 <form>Babinech</form>
 <tag>
 <AM lemma="Babinech" src="auto">X@-------------</AM>
-<AM lemma="Babiny_;G" src="manual" selected="1">NNFP6-----A----</AM>
+<AM lemma="Babiny_;G" src="manual" selected="1">NNFP6-----A---1</AM>
 </tag>
 </m>
 <m id="m059-417-422">

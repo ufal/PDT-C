@@ -282,7 +282,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>nezbytně</form>
-<tag lemma="nezbytně_^(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="zbytně_^(*1ý)" src="orig" selected="1">Dg-------1N----</tag>
 </m>
 <m id="m-mf920922-134-p2s3w5">
 <src.rf>manual</src.rf>

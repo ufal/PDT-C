@@ -4967,7 +4967,7 @@
 <form>nezbytně</form>
 <tag>
 <AM lemma="nezbytně" src="auto">X@-------------</AM>
-<AM lemma="nezbytně" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="zbytně_^(*1ý)" src="manual" selected="1">Dg-------1N----</AM>
 </tag>
 </m>
 <m id="m-wsj2397-001-p1s23W12-Ta">

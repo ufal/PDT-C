@@ -1565,7 +1565,7 @@
 <form>Riegleho</form>
 <tag>
 <AM lemma="Riegleho" src="auto">X@-------------</AM>
-<AM lemma="Riegle_;Y" src="manual" selected="1">NNMS4-----A----</AM>
+<AM lemma="Riegle_;Y" src="manual" selected="1">NNMS4-----A---1</AM>
 </tag>
 </m>
 <m id="m-wsj2446-001-p1s2W48-Ta">

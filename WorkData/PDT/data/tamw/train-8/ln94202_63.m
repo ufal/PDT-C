@@ -2099,7 +2099,7 @@
 <LM>w#w-ln94202-63-p6s3w8</LM>
 </w.rf>
 <form>nezbytně</form>
-<tag lemma="nezbytně_^(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="zbytně_^(*1ý)" src="orig" selected="1">Dg-------1N----</tag>
 </m>
 <m id="m-ln94202-63-p6s3w9">
 <src.rf>manual</src.rf>

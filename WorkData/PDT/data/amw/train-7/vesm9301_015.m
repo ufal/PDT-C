@@ -6963,7 +6963,7 @@
 <LM>w#w-vesm9301-015-p11s4w16</LM>
 </w.rf>
 <form>DNA</form>
-<tag lemma="DNA_;U_^(molekula_DNA)" src="auto" selected="1">NNFXX-----A---b</tag>
+<tag lemma="DNA_;U_^(molekula_DNA)" src="auto" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-vesm9301-015-p11s4w17">
 <src.rf>manual</src.rf>

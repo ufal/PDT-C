@@ -7426,7 +7426,7 @@
 <LM>w#w-ln94202-106-p11s3w33</LM>
 </w.rf>
 <form>Manchestrem</form>
-<tag lemma="Manchester_;m" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="Manchester_;G" src="orig" selected="1">NNIS7-----A---1</tag>
 </m>
 <m id="m-ln94202-106-p11s3w34">
 <src.rf>manual</src.rf>
@@ -7950,7 +7950,7 @@
 <LM>w#w-ln94202-106-p12s3w32</LM>
 </w.rf>
 <form>Manchestrem</form>
-<tag lemma="Manchester_;m" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="Manchester_;G" src="orig" selected="1">NNIS7-----A---1</tag>
 </m>
 <m id="m-ln94202-106-p12s3w33">
 <src.rf>manual</src.rf>
@@ -11477,7 +11477,7 @@
 <LM>w#w-ln94202-106-p15s3w18</LM>
 </w.rf>
 <form>doma</form>
-<tag lemma="doma" src="orig" selected="1">Db-------------</tag>
+<tag lemma="doma" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94202-106-p15s3w19">
 <src.rf>manual</src.rf>
@@ -12146,7 +12146,7 @@
 <LM>w#w-ln94202-106-p15s7Aw3</LM>
 </w.rf>
 <form>Hoddla</form>
-<tag lemma="Hoddle_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Hoddle_;Y" src="orig" selected="1">NNMS2-----A---1</tag>
 </m>
 <m id="m-ln94202-106-p15s7Aw4">
 <src.rf>manual</src.rf>

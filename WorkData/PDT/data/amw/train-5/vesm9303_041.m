@@ -7575,7 +7575,7 @@
 <LM>w#w-vesm9303-041-p12s7w19</LM>
 </w.rf>
 <form>Pomuka</form>
-<tag lemma="Pomuk-2_;Y" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Pomuk_;G" src="orig" selected="1">NNIS2-----A---1</tag>
 </m>
 <m id="m-vesm9303-041-p12s7w20">
 <src.rf>manual</src.rf>

@@ -914,7 +914,7 @@
 <LM>w#w-ln95044-035-p3s2w17</LM>
 </w.rf>
 <form>Pescarou</form>
-<tag lemma="Pescara_;Y_;m" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Pescara_;G_;Y_;m" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln95044-035-p3s2w18">
 <src.rf>manual</src.rf>

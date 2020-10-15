@@ -1102,7 +1102,7 @@
 <LM>w#w-cmpr9406-020-p9s2w9</LM>
 </w.rf>
 <form>doma</form>
-<tag lemma="doma" src="orig" selected="1">Db-------------</tag>
+<tag lemma="doma" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-cmpr9406-020-p9s2w10">
 <src.rf>manual</src.rf>

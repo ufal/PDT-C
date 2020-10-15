@@ -5914,7 +5914,7 @@
 <AM lemma="anus" src="auto">NNIP5-----A----</AM>
 <AM lemma="anus" src="auto">NNIP7-----A----</AM>
 <AM lemma="any-77" src="auto" recommended="1">F%-------------</AM>
-<AM lemma="Any_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Any_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m916-d1e1031-x2-1557">

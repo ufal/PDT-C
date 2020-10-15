@@ -9231,7 +9231,7 @@
 <LM>w#w-wsj1547-001-p1s30W10</LM>
 </w.rf>
 <form>přepadla</form>
-<tag lemma="přepadnout" src="auto" recommended="1">VpQW----R-AAP--</tag>
+<tag lemma="přepadnout" src="auto" recommended="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-wsj1547-001-p1s30W11-Ta">
 <src.rf>tagger-a</src.rf>

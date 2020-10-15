@@ -2348,7 +2348,7 @@
 <LM>w#w-ln95041-041-p3s8w10</LM>
 </w.rf>
 <form>Zedniceka</form>
-<tag lemma="Zednicek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Zednicek_;Y" src="orig" selected="1">NNMS2-----A---1</tag>
 </m>
 <m id="m-ln95041-041-p3s8w11">
 <src.rf>manual</src.rf>

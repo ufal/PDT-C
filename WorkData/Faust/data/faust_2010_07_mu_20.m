@@ -5057,7 +5057,7 @@
 <form>adj</form>
 <tag>
 <AM lemma="adj">X@-------------</AM>
-<AM lemma="adj-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="adjektivum" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="mu_20-SCzechM-p2155-s1-w2">

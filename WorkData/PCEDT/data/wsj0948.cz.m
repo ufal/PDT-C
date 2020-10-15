@@ -1332,7 +1332,7 @@
 </w.rf>
 <form>Cranea</form>
 <tag>
-<AM lemma="Crane_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Crane-1_;Y" src="auto" recommended="1">NNMS2-----A---1</AM>
 <AM lemma="Crane_;Y" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>

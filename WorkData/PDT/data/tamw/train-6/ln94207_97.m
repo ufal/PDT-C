@@ -1163,7 +1163,7 @@
 <LM>w#w-ln94207-97-p3s3w16</LM>
 </w.rf>
 <form>Rourkea</form>
-<tag lemma="Rourke_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Rourke_;Y" src="orig" selected="1">NNMS2-----A---1</tag>
 </m>
 <m id="m-ln94207-97-p3s3w17">
 <src.rf>manual</src.rf>
@@ -2409,7 +2409,7 @@
 <form>NATO</form>
 <tag>
 <AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="NATO-1_;m_^(Northtlantic_Treaty_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="NATO-1_;m_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-97-p5s1w37">

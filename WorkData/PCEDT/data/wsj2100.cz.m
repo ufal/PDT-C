@@ -13370,7 +13370,7 @@
 <LM>w#w-wsj2100-001-p1s40W1</LM>
 </w.rf>
 <form>Diane</form>
-<tag lemma="Diane_;Y_;m" src="auto" recommended="1">NNFXX-----A----</tag>
+<tag lemma="Diane_;U_;Y_;m" src="auto" recommended="1">NNFXX-----A----</tag>
 </m>
 <m id="m-wsj2100-001-p1s40W2-Ta">
 <src.rf>tagger-a</src.rf>

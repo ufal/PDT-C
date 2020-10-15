@@ -47,7 +47,7 @@
 <LM>w#w-lnd92255-148-p1s1w4</LM>
 </w.rf>
 <form>jazzova</form>
-<tag lemma="jazzovo" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="jazzovo-2" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92255-148-p2s1">
@@ -1585,7 +1585,7 @@
 <LM>w#w-lnd92255-148-p3s7w17</LM>
 </w.rf>
 <form>jazzova</form>
-<tag lemma="jazzovo" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="jazzovo-2" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-lnd92255-148-p3s7w18">
 <src.rf>manual</src.rf>

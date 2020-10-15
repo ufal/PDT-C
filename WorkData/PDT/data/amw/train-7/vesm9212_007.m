@@ -5018,7 +5018,7 @@
 <LM>w#w-vesm9212-007-p6s4w56</LM>
 </w.rf>
 <form>popříp</form>
-<tag lemma="popřípadě" src="orig" selected="1">Db------------b</tag>
+<tag lemma="popřípadě" src="orig" selected="1">Db------------a</tag>
 </m>
 <m id="m-vesm9212-007-p6s4w57">
 <src.rf>manual</src.rf>

@@ -2076,7 +2076,7 @@
 <LM>w#w-ln94206-97-p4s4w20</LM>
 </w.rf>
 <form>Paynea</form>
-<tag lemma="Payne_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Payne_;Y" src="orig" selected="1">NNMS2-----A---2</tag>
 </m>
 <m id="m-ln94206-97-p4s4w21">
 <src.rf>manual</src.rf>

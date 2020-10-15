@@ -794,7 +794,7 @@
 <LM>w#w-ln95047-072-p3s1w25</LM>
 </w.rf>
 <form>Györgye</form>
-<tag lemma="György_;Y" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="György_;Y" src="orig" selected="1">NNMS4-----A---1</tag>
 </m>
 <m id="m-ln95047-072-p3s1w26">
 <src.rf>manual</src.rf>

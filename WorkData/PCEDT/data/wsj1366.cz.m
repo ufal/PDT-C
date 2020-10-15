@@ -8874,7 +8874,7 @@
 <form>Riegleho</form>
 <tag>
 <AM lemma="Riegleho" src="auto">X@-------------</AM>
-<AM lemma="Riegle_;Y" src="manual" selected="1">NNMS4-----A----</AM>
+<AM lemma="Riegle_;Y" src="manual" selected="1">NNMS4-----A---1</AM>
 </tag>
 </m>
 <m id="m-wsj1366-001-p1s26W46-Ta">
@@ -10842,7 +10842,7 @@
 <form>Rieglemu</form>
 <tag>
 <AM lemma="Rieglemu" src="auto">X@-------------</AM>
-<AM lemma="Riegle_;Y" src="manual" selected="1">NNMS3-----A----</AM>
+<AM lemma="Riegle_;Y" src="manual" selected="1">NNMS3-----A---2</AM>
 </tag>
 </m>
 <m id="m-wsj1366-001-p1s35W8-Ta">

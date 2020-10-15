@@ -165,7 +165,7 @@
 <LM>w#w-mf920922-049-p2s1w15</LM>
 </w.rf>
 <form>Ferencvárosu</form>
-<tag lemma="Ferencvarosz_;m" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Ferencváros_;m" src="orig" selected="1">NNIS2-----A---1</tag>
 </m>
 <m id="m-mf920922-049-p2s1w16">
 <src.rf>manual</src.rf>
@@ -1081,7 +1081,7 @@
 <LM>w#w-mf920922-049-p2s4w23</LM>
 </w.rf>
 <form>Ferencvárosu</form>
-<tag lemma="Ferencvarosz_;m" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Ferencváros_;m" src="orig" selected="1">NNIS2-----A---1</tag>
 </m>
 <m id="m-mf920922-049-p2s4w24">
 <src.rf>manual</src.rf>

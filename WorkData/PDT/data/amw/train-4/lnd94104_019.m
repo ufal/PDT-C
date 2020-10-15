@@ -1455,7 +1455,7 @@
 <LM>w#w-lnd94104-019-p1s9w6</LM>
 </w.rf>
 <form>Seifra</form>
-<tag lemma="Seifr_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Seifer_;Y" src="orig" selected="1">NNMS2-----A---1</tag>
 </m>
 <m id="m-lnd94104-019-p1s9w7">
 <src.rf>manual</src.rf>

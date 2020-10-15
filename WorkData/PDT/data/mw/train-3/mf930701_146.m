@@ -419,7 +419,7 @@
 <form>švéd</form>
 <tag>
 <AM lemma="švédský_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="švédský" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="švédský" src="manual" selected="1">AAXXX----1A---a</AM>
 </tag>
 </m>
 <m id="m-mf930701-146-p3s1w45">

@@ -1966,7 +1966,7 @@
 <tag>
 <AM lemma="dom-1_,t_^(šlechtický_titul)" src="auto">NNMS2-----A----</AM>
 <AM lemma="dom-1_,t_^(šlechtický_titul)" src="auto">NNMS4-----A----</AM>
-<AM lemma="doma" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="doma" src="auto" recommended="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m941-d1t1021-12">
@@ -5199,7 +5199,7 @@
 <tag>
 <AM lemma="baťovec_,h" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="baťovec_,h" src="auto">NNIS4-----A----</AM>
-<AM lemma="baťovec-2_,h" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="baťovec_,h" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m941-1207-1336">
@@ -7740,7 +7740,7 @@
 <tag>
 <AM lemma="dom-1_,t_^(šlechtický_titul)" src="auto">NNMS2-----A----</AM>
 <AM lemma="dom-1_,t_^(šlechtický_titul)" src="auto">NNMS4-----A----</AM>
-<AM lemma="doma" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="doma" src="auto" recommended="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m941-d1e1286-x5-3013">

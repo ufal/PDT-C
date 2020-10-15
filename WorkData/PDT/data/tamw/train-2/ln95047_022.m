@@ -1673,7 +1673,7 @@
 <LM>w#w-ln95047-022-p4s6w31</LM>
 </w.rf>
 <form>doma</form>
-<tag lemma="doma" src="orig" selected="1">Db-------------</tag>
+<tag lemma="doma" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95047-022-p4s6w32">
 <src.rf>manual</src.rf>

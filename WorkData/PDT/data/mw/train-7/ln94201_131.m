@@ -387,7 +387,7 @@
 <LM>w#w-ln94201-131-p2s2w21</LM>
 </w.rf>
 <form>Poulenca</form>
-<tag lemma="Poulenc_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Poulenc_;Y" src="orig" selected="1">NNMS2-----A---1</tag>
 </m>
 <m id="m-ln94201-131-p2s2w22">
 <src.rf>manual</src.rf>

@@ -15718,7 +15718,7 @@
 <LM>w#w-vesm9212-016-p26s3w29</LM>
 </w.rf>
 <form>protozoím</form>
-<tag lemma="protozoon" src="orig" selected="1">NNNP3-----A----</tag>
+<tag lemma="protozoon" src="orig" selected="1">NNNP3-----A---1</tag>
 </m>
 <m id="m-vesm9212-016-p26s3w30">
 <src.rf>manual</src.rf>
@@ -19797,7 +19797,7 @@
 <LM>w#w-vesm9212-016-p32s1Aw23</LM>
 </w.rf>
 <form>Raea</form>
-<tag lemma="Rae_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Rae_;Y" src="orig" selected="1">NNMS2-----A---1</tag>
 </m>
 <m id="m-vesm9212-016-p32s1Aw24">
 <src.rf>manual</src.rf>

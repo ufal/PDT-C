@@ -340,7 +340,7 @@
 <tag>
 <AM lemma="Boudreaua" src="auto">X@-------------</AM>
 <AM lemma="Boudreau_;Y" src="manual">NNMS2-----A----</AM>
-<AM lemma="Boudreau_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Boudreau_;Y" src="manual" selected="1">NNMS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-wsj2085-001-p1s1W7-Ta">

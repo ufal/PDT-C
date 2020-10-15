@@ -2440,7 +2440,7 @@
 <LM>w#w-mf930713-057-p6s7w2</LM>
 </w.rf>
 <form>Pagáča</form>
-<tag lemma="Pagáč_;Y" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Pagáč_;Y" src="orig" selected="1">NNMS4-----A---6</tag>
 </m>
 <m id="m-mf930713-057-p6s7w3">
 <src.rf>manual</src.rf>

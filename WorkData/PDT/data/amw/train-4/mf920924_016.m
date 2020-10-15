@@ -827,7 +827,7 @@
 <LM>w#w-mf920924-016-p2s6w10</LM>
 </w.rf>
 <form>doma</form>
-<tag lemma="doma" src="orig" selected="1">Db-------------</tag>
+<tag lemma="doma" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf920924-016-p2s6w11">
 <src.rf>manual</src.rf>
@@ -920,7 +920,7 @@
 <LM>w#w-mf920924-016-p2s7w10</LM>
 </w.rf>
 <form>Doma</form>
-<tag lemma="doma" src="orig" selected="1">Db-------------</tag>
+<tag lemma="doma" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf920924-016-p2s7w11">
 <src.rf>manual</src.rf>

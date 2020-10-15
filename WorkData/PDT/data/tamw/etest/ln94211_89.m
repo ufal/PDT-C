@@ -973,7 +973,7 @@
 <LM>w#w-ln94211-89-p3s1w14</LM>
 </w.rf>
 <form>Henriqua</form>
-<tag lemma="Henrique_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Henrique_;Y" src="orig" selected="1">NNMS2-----A---1</tag>
 </m>
 <m id="m-ln94211-89-p3s1w15">
 <src.rf>manual</src.rf>
@@ -4101,7 +4101,7 @@
 <LM>w#w-ln94211-89-p8s3w2</LM>
 </w.rf>
 <form>Cardosu</form>
-<tag lemma="Cardoso_;Y" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Cardoso_;Y" src="orig" selected="1">NNMS4-----A---1</tag>
 </m>
 <m id="m-ln94211-89-p8s3w3">
 <src.rf>manual</src.rf>

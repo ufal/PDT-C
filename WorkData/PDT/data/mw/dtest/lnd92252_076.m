@@ -1786,7 +1786,7 @@
 <form>Braz</form>
 <tag>
 <AM lemma="Brazílie_:B_;G" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Braz-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Brazílie_;G" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92252-076-p5s7w4">
@@ -2027,7 +2027,7 @@
 <form>Braz</form>
 <tag>
 <AM lemma="Brazílie_:B_;G" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Braz-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Brazílie_;G" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92252-076-p5s11w4">

@@ -311,7 +311,7 @@
 <LM>w#w-ln94210-120-p3s1w16</LM>
 </w.rf>
 <form>Diane</form>
-<tag lemma="Diane_;Y_;m" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="Diane_;U_;Y_;m" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94210-120-p3s1w17">
 <src.rf>manual</src.rf>

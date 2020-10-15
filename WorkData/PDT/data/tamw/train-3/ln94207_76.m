@@ -7241,7 +7241,7 @@
 <LM>w#w-ln94207-76-p6s6w11</LM>
 </w.rf>
 <form>doma</form>
-<tag lemma="doma" src="orig" selected="1">Db-------------</tag>
+<tag lemma="doma" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94207-76-p6s6w12">
 <src.rf>manual</src.rf>
@@ -13341,7 +13341,7 @@
 <LM>w#w-ln94207-76-p9s10w15</LM>
 </w.rf>
 <form>doma</form>
-<tag lemma="doma" src="orig" selected="1">Db-------------</tag>
+<tag lemma="doma" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94207-76-p9s10w16">
 <src.rf>manual</src.rf>

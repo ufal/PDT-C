@@ -3020,7 +3020,7 @@
 <LM>w#w-lnd92255-125-p6s2w22</LM>
 </w.rf>
 <form>Atleticem</form>
-<tag lemma="Atletico_;m" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="Atletico_;m" src="orig" selected="1">NNNS7-----A---1</tag>
 </m>
 <m id="m-lnd92255-125-p6s2w23">
 <src.rf>manual</src.rf>

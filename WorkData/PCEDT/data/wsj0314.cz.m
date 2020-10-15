@@ -3686,7 +3686,7 @@
 <form>Mass</form>
 <tag>
 <AM lemma="Mass" src="auto">X@-------------</AM>
-<AM lemma="Mass-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Massachusetts_;G" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-wsj0314-001-p1s9W25-Ta">

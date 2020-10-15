@@ -4016,7 +4016,7 @@
 <tag>
 <AM lemma="Foleye" src="auto">X@-------------</AM>
 <AM lemma="Foleye_;Y" src="manual">NNMS2-----A---1</AM>
-<AM lemma="Foley_;Y" src="manual" selected="1">NNMS2-----A---1</AM>
+<AM lemma="Foley-1_;Y" src="manual" selected="1">NNMS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-wsj1682-001-p1s12W16-Ta">
@@ -6904,7 +6904,7 @@
 <AM lemma="NATO_;m_^(North_Atlantic_Treaty_Organization)" src="auto">NNNS4-----A----</AM>
 <AM lemma="NATO_;m_^(North_Atlantic_Treaty_Organization)" src="auto">NNNS5-----A----</AM>
 <AM lemma="nato" src="auto">Db-------------</AM>
-<AM lemma="NATO-1_;m_^(Northtlantic_Treaty_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="NATO-1_;m_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1682-001-p1s22W15-Ta">
@@ -9755,7 +9755,7 @@
 <form>Clarenci</form>
 <tag>
 <AM lemma="Clarenci" src="auto">X@-------------</AM>
-<AM lemma="Clarence_;Y" src="manual" selected="1">NNMS3-----A----</AM>
+<AM lemma="Clarence-2_;Y" src="manual" selected="1">NNMS3-----A---2</AM>
 </tag>
 </m>
 <m id="m-wsj1682-001-p1s33W11-Ta">

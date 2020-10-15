@@ -4004,7 +4004,7 @@
 <form>Pernambucu</form>
 <tag>
 <AM lemma="Pernambucu" src="auto">X@-------------</AM>
-<AM lemma="Pernambuco_;G" src="manual" selected="1">NNNS3-----A----</AM>
+<AM lemma="Pernambuco_;G" src="manual" selected="1">NNNS3-----A---1</AM>
 </tag>
 </m>
 <m id="m914-d1e950-x7-7349">

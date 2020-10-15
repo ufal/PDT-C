@@ -3233,7 +3233,7 @@
 <LM>w#w-ln94210-34-p5s1w3</LM>
 </w.rf>
 <form>doma</form>
-<tag lemma="doma" src="orig" selected="1">Db-------------</tag>
+<tag lemma="doma" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94210-34-p5s1w4">
 <src.rf>manual</src.rf>

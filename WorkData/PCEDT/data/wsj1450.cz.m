@@ -15060,7 +15060,7 @@
 <form>Israela</form>
 <tag>
 <AM lemma="Israela" src="auto">X@-------------</AM>
-<AM lemma="Israel_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Israel-2_;Y" src="manual" selected="1">NNMS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-wsj1450-001-p1s59W8-Ta">

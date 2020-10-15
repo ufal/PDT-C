@@ -297,7 +297,7 @@
 <form>Sitnom</form>
 <tag>
 <AM lemma="Sitnom" src="auto">X@-------------</AM>
-<AM lemma="Sitno_;G" src="manual" selected="1">NNNS7-----A----</AM>
+<AM lemma="Sitno_;G" src="manual" selected="1">NNNS7-----A---6</AM>
 </tag>
 </m>
 <m id="m135-d-id122192-punct">
@@ -2006,7 +2006,7 @@
 <form>Sitnom</form>
 <tag>
 <AM lemma="Sitnom" src="auto">X@-------------</AM>
-<AM lemma="Sitno_;G" src="manual" selected="1">NNNS7-----A----</AM>
+<AM lemma="Sitno_;G" src="manual" selected="1">NNNS7-----A---6</AM>
 </tag>
 </m>
 <m id="m135-d1t1098-4">

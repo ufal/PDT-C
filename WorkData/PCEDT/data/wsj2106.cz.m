@@ -6019,7 +6019,7 @@
 <form>arpeggiy</form>
 <tag>
 <AM lemma="arpeggiy" src="auto">X@-------------</AM>
-<AM lemma="arpeggio" src="manual" selected="1">NNNP7-----A----</AM>
+<AM lemma="arpeggio_^(způsob_hraní_akordů)" src="manual" selected="1">NNNP7-----A---1</AM>
 </tag>
 </m>
 <m id="m-wsj2106-001-p1s24W10-Ta">

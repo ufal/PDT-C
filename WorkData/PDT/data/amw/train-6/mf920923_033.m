@@ -1449,7 +1449,7 @@
 <LM>w#w-mf920923-033-p3s3w14</LM>
 </w.rf>
 <form>Ferencvárosu</form>
-<tag lemma="Ferencváros_;m" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Ferencváros_;m" src="orig" selected="1">NNIS2-----A---1</tag>
 </m>
 <m id="m-mf920923-033-p3s3w15">
 <src.rf>manual</src.rf>

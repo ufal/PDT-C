@@ -1055,7 +1055,7 @@
 <LM>w#w-ln94201-49-p4s1w4</LM>
 </w.rf>
 <form>Izetbegović</form>
-<tag lemma="Izetbegović_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Izetbegovič_;Y" src="orig" selected="1">NNMS1-----A---1</tag>
 </m>
 </s>
 <s id="m-ln94201-49-p4s2">

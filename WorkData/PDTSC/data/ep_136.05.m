@@ -5153,7 +5153,7 @@
 </w.rf>
 <form>Hrebienoku</form>
 <tag>
-<AM lemma="Hrebienok_;G" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="Hrebienok_;G" src="auto" recommended="1">NNIS2-----A---1</AM>
 <AM lemma="Hrebienok_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="Hrebienok_;G" src="auto">NNIS5-----A----</AM>
 <AM lemma="Hrebienok_;G" src="auto">NNIS6-----A----</AM>

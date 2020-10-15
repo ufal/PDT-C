@@ -29,7 +29,7 @@
 <form>přepadli</form>
 <tag>
 <AM lemma="přepadnout" src="auto">VpMP---XR-AA---</AM>
-<AM lemma="přepadnout" src="manual" selected="1">VpMP----R-AAP--</AM>
+<AM lemma="přepadnout" src="manual" selected="1">VpMP----R-AAP-1</AM>
 </tag>
 </m>
 <m id="m-mf920924-122-p1s1w3">

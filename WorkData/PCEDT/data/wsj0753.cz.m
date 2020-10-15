@@ -32,7 +32,7 @@
 <LM>w#w-wsj0753-001-p1s0W3</LM>
 </w.rf>
 <form>></form>
-<tag lemma=">" src="auto" recommended="1">Z:-------------</tag>
+<tag lemma="&gt;" src="auto" recommended="1">Z:-------------</tag>
 </m>
 <m id="m-wsj0753-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>

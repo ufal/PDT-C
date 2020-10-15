@@ -313,7 +313,7 @@
 <LM>w#w-ln95046-064-p2s2w6</LM>
 </w.rf>
 <form>Farrahem</form>
-<tag lemma="Farrah_;Y" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Farrah-2_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95046-064-p2s2w7">
 <src.rf>manual</src.rf>

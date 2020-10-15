@@ -1256,7 +1256,7 @@
 <LM>w#w-ln94201-60-p3s4w22</LM>
 </w.rf>
 <form>dřevěnic</form>
-<tag lemma="dřevěnice" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="dřevěnice-2" src="orig" selected="1">NNFP2-----A---1</tag>
 </m>
 <m id="m-ln94201-60-p3s4w23">
 <src.rf>manual</src.rf>

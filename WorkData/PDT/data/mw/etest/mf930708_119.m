@@ -2192,7 +2192,7 @@
 <AM lemma="bel" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="bel" src="auto">NNIS4-----A----</AM>
 <AM lemma="bela" src="auto">NNFP2-----A----</AM>
-<AM lemma="Belgie_;G" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="Belgie_;G" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-mf930708-119-p4s6w16">
@@ -2844,7 +2844,7 @@
 <LM>w#w-mf930708-119-p5s1w29</LM>
 </w.rf>
 <form>McEnroem</form>
-<tag lemma="McEnroe_;Y" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="McEnroe_;Y" src="orig" selected="1">NNMS7-----A---1</tag>
 </m>
 <m id="m-mf930708-119-p5s1w30">
 <src.rf>manual</src.rf>

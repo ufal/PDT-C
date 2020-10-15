@@ -123,7 +123,7 @@
 <form>Mass</form>
 <tag>
 <AM lemma="Mass" src="auto">X@-------------</AM>
-<AM lemma="Massachusetts_;G" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="Massachusetts_;G" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-wsj0180-001-p1s0W12-Ta">
@@ -661,7 +661,7 @@
 </w.rf>
 <form>DNA</form>
 <tag>
-<AM lemma="DNA_;U_^(molekulaNA)" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="DNA_;U_^(molekula_DNA)" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="dna_^(nemoc)" src="auto">NNFS1-----A----</AM>
 <AM lemma="dno_^(např._propasti)" src="auto">NNNP1-----A----</AM>
 <AM lemma="dno_^(např._propasti)" src="auto">NNNP4-----A----</AM>

@@ -1985,7 +1985,7 @@
 <LM>w#w-ln94202-101-p4s2w51</LM>
 </w.rf>
 <form>Diane</form>
-<tag lemma="Diane_;Y_;m" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="Diane_;U_;Y_;m" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94202-101-p4s2w52">
 <src.rf>manual</src.rf>

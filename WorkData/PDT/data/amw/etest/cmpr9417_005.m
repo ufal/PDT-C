@@ -1143,7 +1143,7 @@
 <LM>w#w-cmpr9417-005-p5s5w5</LM>
 </w.rf>
 <form>doma</form>
-<tag lemma="doma" src="orig" selected="1">Db-------------</tag>
+<tag lemma="doma" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 </s>
 <s id="m-cmpr9417-005-p6s1">

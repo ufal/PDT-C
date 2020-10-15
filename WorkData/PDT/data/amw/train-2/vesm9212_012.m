@@ -4281,7 +4281,7 @@
 <LM>w#w-vesm9212-012-p10s8w2</LM>
 </w.rf>
 <form>glossopteridů</form>
-<tag lemma="glossopteris_;U" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="glossopteris" src="orig" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-vesm9212-012-p10s8w3">
 <src.rf>manual</src.rf>

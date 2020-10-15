@@ -21315,7 +21315,7 @@
 <LM>w#w-mf920924-128-p17s9w1</LM>
 </w.rf>
 <form>Leckdos</form>
-<tag lemma="leckdo" src="orig" selected="1">PZM-1---------1</tag>
+<tag lemma="leckdos" src="orig" selected="1">PK--1----------</tag>
 </m>
 <m id="m-mf920924-128-p17s9w2">
 <src.rf>manual</src.rf>

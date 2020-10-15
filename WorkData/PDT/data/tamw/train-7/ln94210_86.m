@@ -297,7 +297,7 @@
 <LM>w#w-ln94210-86-p2s2w17</LM>
 </w.rf>
 <form>nezbytně</form>
-<tag lemma="nezbytně_^(*1ý)" src="orig" selected="1">Dg-------1A----</tag>
+<tag lemma="zbytně_^(*1ý)" src="orig" selected="1">Dg-------1N----</tag>
 </m>
 <m id="m-ln94210-86-p2s2w18">
 <src.rf>manual</src.rf>
@@ -2479,7 +2479,7 @@
 <form>NATO</form>
 <tag>
 <AM lemma="NATO_:B_;m_^(North_Atlantic_Treaty_Organization)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="NATO-1_;m_^(Northtlantic_Treaty_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="NATO-1_;m_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-86-p6s2w6">

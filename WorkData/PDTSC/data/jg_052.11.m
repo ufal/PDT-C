@@ -3107,7 +3107,7 @@
 <tag>
 <AM lemma="dom-1_,t_^(šlechtický_titul)" src="auto">NNMS2-----A----</AM>
 <AM lemma="dom-1_,t_^(šlechtický_titul)" src="auto">NNMS4-----A----</AM>
-<AM lemma="doma" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="doma" src="auto" recommended="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m052-d1t4599-10">
@@ -3397,7 +3397,7 @@
 <tag>
 <AM lemma="dom-1_,t_^(šlechtický_titul)" src="auto">NNMS2-----A----</AM>
 <AM lemma="dom-1_,t_^(šlechtický_titul)" src="auto">NNMS4-----A----</AM>
-<AM lemma="doma" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="doma" src="auto" recommended="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m052-d-id184885-punct">

@@ -67,7 +67,7 @@
 <LM>w#w-lnd92255-115-p1s1w7</LM>
 </w.rf>
 <form>STATŮ</form>
-<tag lemma="status" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="status" src="orig" selected="1">NNIP2-----A---1</tag>
 </m>
 </s>
 <s id="m-lnd92255-115-p2s1">

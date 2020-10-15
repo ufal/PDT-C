@@ -353,7 +353,7 @@
 <LM>w#w-ln95049-027-p2s2w12</LM>
 </w.rf>
 <form>Havelangemu</form>
-<tag lemma="Havelange_;Y" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Havelange_;Y" src="orig" selected="1">NNMS3-----A---1</tag>
 </m>
 <m id="m-ln95049-027-p2s2w13">
 <src.rf>manual</src.rf>

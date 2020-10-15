@@ -317,7 +317,7 @@
 <form>setlo</form>
 <tag>
 <AM lemma="setnout" src="orig">VpNS----R-AA---</AM>
-<AM lemma="setnout" src="manual" selected="1">VpNS----R-AAP-6</AM>
+<AM lemma="setnout" src="manual" selected="1">VpNS----R-AAP-2</AM>
 </tag>
 </m>
 <m id="m-ln95042-052-p2s2w13">

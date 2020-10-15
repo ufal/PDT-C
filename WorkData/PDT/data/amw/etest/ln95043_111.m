@@ -7807,7 +7807,7 @@
 <LM>w#w-ln95043-111-p9s8w8</LM>
 </w.rf>
 <form>doma</form>
-<tag lemma="doma" src="orig" selected="1">Db-------------</tag>
+<tag lemma="doma" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln95043-111-p9s8w9">
 <src.rf>manual</src.rf>

@@ -1861,7 +1861,7 @@
 <form>NATO</form>
 <tag>
 <AM lemma="NATO_;m_^(North_Atlantic_Treaty_Organization)" src="orig">NNNS4-----A----</AM>
-<AM lemma="NATO-1_;m_^(Northtlantic_Treaty_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="NATO-1_;m_^(North_Atlantic_Treaty_Organization)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-136-p4s1w6">

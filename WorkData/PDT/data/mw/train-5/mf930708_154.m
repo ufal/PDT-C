@@ -1057,7 +1057,7 @@
 <LM>w#w-mf930708-154-p7s1w48</LM>
 </w.rf>
 <form>švéd</form>
-<tag lemma="švédský" src="orig" selected="1">AAXXX----1A---b</tag>
+<tag lemma="švédský" src="orig" selected="1">AAXXX----1A---a</tag>
 </m>
 <m id="m-mf930708-154-p7s1w49">
 <src.rf>manual</src.rf>

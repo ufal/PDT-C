@@ -159,7 +159,7 @@
 <LM>w#w-mf930702-122-p2s2w7</LM>
 </w.rf>
 <form>doma</form>
-<tag lemma="doma" src="orig" selected="1">Db-------------</tag>
+<tag lemma="doma" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf930702-122-p2s2w8">
 <src.rf>manual</src.rf>

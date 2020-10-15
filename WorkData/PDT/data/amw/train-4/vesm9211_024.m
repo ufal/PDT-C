@@ -10777,7 +10777,7 @@
 <LM>w#w-vesm9211-024-p23s4w16</LM>
 </w.rf>
 <form>Mochovcích</form>
-<tag lemma="Mochovce_;G" src="orig" selected="1">NNFP6-----A----</tag>
+<tag lemma="Mochovce_;G" src="orig" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-vesm9211-024-p23s4w17">
 <src.rf>manual</src.rf>

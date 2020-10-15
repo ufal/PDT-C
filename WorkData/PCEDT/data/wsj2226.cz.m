@@ -256,7 +256,7 @@
 <AM lemma="Antonio_;Y_,t" src="auto">NNMS6-----A---1</AM>
 <AM lemma="Antonius_;Y" src="auto">NNMS3-----A---1</AM>
 <AM lemma="Antonius_;Y" src="auto">NNMS6-----A---1</AM>
-<AM lemma="Antonia_;Y" src="manual" selected="1">NNFS4-----A----</AM>
+<AM lemma="Antonia_;Y" src="manual" selected="1">NNFS4-----A---1</AM>
 </tag>
 </m>
 <m id="m-wsj2226-001-p1s0W21-Ta">

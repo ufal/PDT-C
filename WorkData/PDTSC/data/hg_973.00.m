@@ -3551,7 +3551,7 @@
 <tag>
 <AM lemma="tovarom" src="auto">X@-------------</AM>
 <AM lemma="tovarom-77" src="manual">F%-------------</AM>
-<AM lemma="tovar" src="manual" selected="1">NNIS7-----A---2</AM>
+<AM lemma="tovar" src="manual" selected="1">NNIS7-----A---6</AM>
 </tag>
 </m>
 <m id="m973-d-id61610">

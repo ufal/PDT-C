@@ -116,7 +116,7 @@
 </w.rf>
 <form>km</form>
 <tag>
-<AM lemma="km-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
+<AM lemma="km-99_;Y" src="orig" selected="1">BNXXX-----A----</AM>
 <AM lemma="km-1`kilometr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 </tag>
 </m>

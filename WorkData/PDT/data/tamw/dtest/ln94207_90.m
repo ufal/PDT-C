@@ -10397,7 +10397,7 @@
 <LM>w#w-ln94207-90-p10s7w12</LM>
 </w.rf>
 <form>Lipsia</form>
-<tag lemma="Lipsius_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Lipsius_;Y" src="orig" selected="1">NNMS2-----A---1</tag>
 </m>
 <m id="m-ln94207-90-p10s7w13">
 <src.rf>manual</src.rf>

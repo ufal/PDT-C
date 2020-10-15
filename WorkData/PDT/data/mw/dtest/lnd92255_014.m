@@ -120,7 +120,7 @@
 </w.rf>
 <form>zla</form>
 <tag>
-<AM lemma="zla-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
+<AM lemma="zla-99_;Y" src="orig" selected="1">BNXXX-----A----</AM>
 <AM lemma="zlo" src="auto" recommended="1">NNNP1-----A----</AM>
 <AM lemma="zlo" src="auto">NNNP4-----A----</AM>
 <AM lemma="zlo" src="auto">NNNP5-----A----</AM>

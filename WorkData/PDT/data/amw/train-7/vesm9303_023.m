@@ -2023,7 +2023,7 @@
 <LM>w#w-vesm9303-023-p3s3w42</LM>
 </w.rf>
 <form>popříp</form>
-<tag lemma="popřípadě" src="orig" selected="1">Db------------b</tag>
+<tag lemma="popřípadě" src="orig" selected="1">Db------------a</tag>
 </m>
 <m id="m-vesm9303-023-p3s3w43">
 <src.rf>manual</src.rf>

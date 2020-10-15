@@ -975,7 +975,7 @@
 <LM>w#w-mf930709-059-p2s6w17</LM>
 </w.rf>
 <form>kalhota</form>
-<tag lemma="kalhoty_^(pomn.)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="kalhoty" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930709-059-p2s6w18">
 <src.rf>manual</src.rf>

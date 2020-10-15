@@ -6544,7 +6544,7 @@
 <tag>
 <AM lemma="Dale-1_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Dale-1_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Dale-1_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Dale-1_;Y" src="manual" selected="1">NNMS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-wsj1903-001-p1s28W21-Ta">

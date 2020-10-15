@@ -292,7 +292,7 @@
 <LM>w#w-cmpr9406-026-p4s2w14</LM>
 </w.rf>
 <form>Károlyho</form>
-<tag lemma="Károly_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Károly_;Y" src="orig" selected="1">NNMS2-----A---1</tag>
 </m>
 <m id="m-cmpr9406-026-p4s2w15">
 <src.rf>manual</src.rf>

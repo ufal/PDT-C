@@ -1326,7 +1326,7 @@
 <LM>w#w-mf920924-069-p2s6w16</LM>
 </w.rf>
 <form>Ferencvárosu</form>
-<tag lemma="Ferencváros_;m" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Ferencváros_;m" src="orig" selected="1">NNIS2-----A---1</tag>
 </m>
 <m id="m-mf920924-069-p2s6w17">
 <src.rf>manual</src.rf>

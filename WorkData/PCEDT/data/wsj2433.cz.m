@@ -13685,7 +13685,7 @@
 <LM>w#w-wsj2433-001-p1s42W1</LM>
 </w.rf>
 <form>Diane</form>
-<tag lemma="Diane_;Y_;m" src="auto" recommended="1">NNFXX-----A----</tag>
+<tag lemma="Diane_;U_;Y_;m" src="auto" recommended="1">NNFXX-----A----</tag>
 </m>
 <m id="m-wsj2433-001-p1s42W2-Ta">
 <src.rf>tagger-a</src.rf>

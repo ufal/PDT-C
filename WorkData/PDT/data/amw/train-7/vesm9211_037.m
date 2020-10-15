@@ -1643,7 +1643,7 @@
 </w.rf>
 <form>Sch</form>
 <tag>
-<AM lemma="Sch-99_;Y" src="orig" selected="1">NNXXX-----A---b</AM>
+<AM lemma="Sch-99_;Y" src="orig" selected="1">BNXXX-----A----</AM>
 <AM lemma="schnout" src="auto" recommended="1">VpYS----R-AAI-6</AM>
 </tag>
 </m>

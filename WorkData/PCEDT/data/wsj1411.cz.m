@@ -23554,7 +23554,7 @@
 <form>Petea</form>
 <tag>
 <AM lemma="Petea" src="auto">X@-------------</AM>
-<AM lemma="Pete_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Pete_;Y" src="manual" selected="1">NNMS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-wsj1411-001-p1s93W22-Ta">

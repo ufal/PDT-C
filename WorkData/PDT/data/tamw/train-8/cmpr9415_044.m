@@ -2010,7 +2010,7 @@
 <tag>
 <AM lemma="kuponově_^(*1ý)" src="orig">Dg-------1A----</AM>
 <AM lemma="kuponově_,s_^(^DD**kupónově)_^(*1ý)" src="manual">Dg-------1A----</AM>
-<AM lemma="kuponově_,s_^(^DD**kupónově)_(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="kuponově_^(^DD**kupónově)_(*1ý)" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-044-p15s1w11">

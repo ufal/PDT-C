@@ -578,7 +578,7 @@
 <form>vodácku</form>
 <tag>
 <AM lemma="vodácku" src="auto">X@-------------</AM>
-<AM lemma="vodácko" src="manual" selected="1">NNNS6-----A----</AM>
+<AM lemma="vodácku" src="manual" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m148-d1t2675-3">

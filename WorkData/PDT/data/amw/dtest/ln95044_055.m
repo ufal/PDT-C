@@ -510,7 +510,7 @@
 <LM>w#w-ln95044-055-p2s2w26</LM>
 </w.rf>
 <form>Dumitresca</form>
-<tag lemma="Dumitrescu_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Dumitrescu_;Y" src="orig" selected="1">NNMS2-----A---1</tag>
 </m>
 <m id="m-ln95044-055-p2s2w27">
 <src.rf>manual</src.rf>

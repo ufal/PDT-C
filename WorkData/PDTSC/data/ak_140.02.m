@@ -587,7 +587,7 @@
 <tag>
 <AM lemma="Bendového" src="auto">X@-------------</AM>
 <AM lemma="Bendův_;Y_^(*2a)" src="manual">AUMS2M--------6</AM>
-<AM lemma="Bendův_;Y_^(*2a)" src="manual" selected="1">AUMS2M--------6</AM>
+<AM lemma="Bendův_;Y" src="manual" selected="1">AUMS2M--------6</AM>
 </tag>
 </m>
 <m id="m140-d1t428-5">
@@ -624,7 +624,7 @@
 <form>Ticháčkového</form>
 <tag>
 <AM lemma="Ticháčkového" src="auto">X@-------------</AM>
-<AM lemma="Ticháčkův_;Y_^(*3ek)" src="manual" selected="1">AUMS2M--------6</AM>
+<AM lemma="Ticháčkův_;Y" src="manual" selected="1">AUMS2M--------6</AM>
 </tag>
 </m>
 <m id="m140-d1e417-x2-419">

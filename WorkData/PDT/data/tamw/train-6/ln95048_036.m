@@ -2996,7 +2996,7 @@
 <LM>w#w-ln95048-036-p5s2w8</LM>
 </w.rf>
 <form>Mapplethorpea</form>
-<tag lemma="Mapplethorpe_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Mapplethorpe_;Y" src="orig" selected="1">NNMS2-----A---1</tag>
 </m>
 <m id="m-ln95048-036-p5s2w9">
 <src.rf>manual</src.rf>
@@ -3235,7 +3235,7 @@
 <LM>w#w-ln95048-036-p5s4w7</LM>
 </w.rf>
 <form>Mapplethorpea</form>
-<tag lemma="Mapplethorpe_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Mapplethorpe_;Y" src="orig" selected="1">NNMS2-----A---1</tag>
 </m>
 <m id="m-ln95048-036-p5s4w8">
 <src.rf>manual</src.rf>

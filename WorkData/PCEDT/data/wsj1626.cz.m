@@ -10933,7 +10933,7 @@
 <tag>
 <AM lemma="Dubinskyho" src="auto">X@-------------</AM>
 <AM lemma="Dubinský_;Y" src="manual">NNMS4-----A----</AM>
-<AM lemma="Dubinský_;Y" src="manual" selected="1">NNMS4-----A---1</AM>
+<AM lemma="Dubinský_;Y" src="manual" selected="1">NNMS4-----A---7</AM>
 </tag>
 </m>
 <m id="m-wsj1626-001-p1s35W8-Ta">

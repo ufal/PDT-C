@@ -8762,7 +8762,7 @@
 <form>Hawkea</form>
 <tag>
 <AM lemma="Hawkea" src="auto">X@-------------</AM>
-<AM lemma="Hawke_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Hawke_;Y" src="manual" selected="1">NNMS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-wsj0043-001-p1s28W29-Ta">

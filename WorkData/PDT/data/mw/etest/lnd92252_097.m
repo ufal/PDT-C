@@ -346,7 +346,7 @@
 <LM>w#w-lnd92252-097-p3s1w26</LM>
 </w.rf>
 <form>Tomascheka</form>
-<tag lemma="Tomaschek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Tomaschek_;Y" src="orig" selected="1">NNMS2-----A---1</tag>
 </m>
 <m id="m-lnd92252-097-p3s1w27">
 <src.rf>manual</src.rf>

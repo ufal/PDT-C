@@ -1554,7 +1554,7 @@
 <LM>w#w-ln94211-103-p4s2w8</LM>
 </w.rf>
 <form>Sobranců</form>
-<tag lemma="Sobrance_;G" src="orig" selected="1">NNIP2-----A----</tag>
+<tag lemma="Sobrance_;G" src="orig" selected="1">NNIP2-----A---1</tag>
 </m>
 <m id="m-ln94211-103-p4s2w9">
 <src.rf>manual</src.rf>

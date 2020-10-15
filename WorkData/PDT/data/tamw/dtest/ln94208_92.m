@@ -704,7 +704,7 @@
 <LM>w#w-ln94208-92-p3s1w19</LM>
 </w.rf>
 <form>Vepřeka</form>
-<tag lemma="Vepřek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Vepřek-2_;Y" src="orig" selected="1">NNMS2-----A---1</tag>
 </m>
 <m id="m-ln94208-92-p3s1w20">
 <src.rf>manual</src.rf>

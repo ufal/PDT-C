@@ -1780,7 +1780,7 @@
 <LM>w#w-ln94208-105-p4s3w21</LM>
 </w.rf>
 <form>McEnroem</form>
-<tag lemma="McEnroe_;Y" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="McEnroe_;Y" src="orig" selected="1">NNMS7-----A---1</tag>
 </m>
 <m id="m-ln94208-105-p4s3w22">
 <src.rf>manual</src.rf>
@@ -5579,7 +5579,7 @@
 <LM>w#w-ln94208-105-p7s6w18</LM>
 </w.rf>
 <form>Aerosmithů</form>
-<tag lemma="Aerosmith_;m" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="Aerosmith-2_;m" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-ln94208-105-p7s6w19">
 <src.rf>manual</src.rf>

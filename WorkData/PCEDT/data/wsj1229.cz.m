@@ -548,7 +548,7 @@
 <form>Francisu</form>
 <tag>
 <AM lemma="Francisu" src="auto">X@-------------</AM>
-<AM lemma="Francis_;Y" src="manual" selected="1">NNMS6-----A----</AM>
+<AM lemma="Francis_;Y" src="manual" selected="1">NNMS6-----A---2</AM>
 </tag>
 </m>
 <m id="m-wsj1229-001-p1s1W26-Ta">

@@ -174,7 +174,7 @@
 <form>přepadl</form>
 <tag>
 <AM lemma="přepadnout" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="přepadnout" src="manual" selected="1">VpYS----R-AAP--</AM>
+<AM lemma="přepadnout" src="manual" selected="1">VpYS----R-AAP-1</AM>
 </tag>
 </m>
 <m id="m-lnd92256-078-p2s2w14">

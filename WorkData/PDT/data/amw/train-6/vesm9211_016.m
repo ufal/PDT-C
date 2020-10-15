@@ -101,7 +101,7 @@
 <LM>w#w-vesm9211-016-p3s2w6</LM>
 </w.rf>
 <form>DNA</form>
-<tag lemma="DNA_;U_^(molekula_DNA)" src="auto" selected="1">NNFXX-----A---b</tag>
+<tag lemma="DNA_;U_^(molekula_DNA)" src="auto" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-vesm9211-016-p3s2w7">
 <src.rf>manual</src.rf>
@@ -274,7 +274,7 @@
 <LM>w#w-vesm9211-016-p3s4w4</LM>
 </w.rf>
 <form>DNA</form>
-<tag lemma="DNA_;U_^(molekula_DNA)" src="auto" selected="1">NNFXX-----A---b</tag>
+<tag lemma="DNA_;U_^(molekula_DNA)" src="auto" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-vesm9211-016-p3s4w5">
 <src.rf>manual</src.rf>
@@ -533,7 +533,7 @@
 <LM>w#w-vesm9211-016-p5s3w9</LM>
 </w.rf>
 <form>DNA</form>
-<tag lemma="DNA_;U_^(molekula_DNA)" src="auto" selected="1">NNFXX-----A---b</tag>
+<tag lemma="DNA_;U_^(molekula_DNA)" src="auto" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-vesm9211-016-p5s3w10">
 <src.rf>manual</src.rf>
@@ -631,7 +631,7 @@
 <LM>w#w-vesm9211-016-p5s4w6</LM>
 </w.rf>
 <form>DNA</form>
-<tag lemma="DNA_;U_^(molekula_DNA)" src="auto" selected="1">NNFXX-----A---b</tag>
+<tag lemma="DNA_;U_^(molekula_DNA)" src="auto" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-vesm9211-016-p5s4w7">
 <src.rf>manual</src.rf>
@@ -759,7 +759,7 @@
 <LM>w#w-vesm9211-016-p5s4w22</LM>
 </w.rf>
 <form>DNA</form>
-<tag lemma="DNA_;U_^(molekula_DNA)" src="auto" selected="1">NNFXX-----A---b</tag>
+<tag lemma="DNA_;U_^(molekula_DNA)" src="auto" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-vesm9211-016-p5s4w23">
 <src.rf>manual</src.rf>
@@ -807,7 +807,7 @@
 <LM>w#w-vesm9211-016-p5s4w28</LM>
 </w.rf>
 <form>DNA</form>
-<tag lemma="DNA_;U_^(molekula_DNA)" src="auto" selected="1">NNFXX-----A---b</tag>
+<tag lemma="DNA_;U_^(molekula_DNA)" src="auto" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-vesm9211-016-p5s4w29">
 <src.rf>manual</src.rf>
@@ -897,7 +897,7 @@
 <LM>w#w-vesm9211-016-p5s5w6</LM>
 </w.rf>
 <form>DNA</form>
-<tag lemma="DNA_;U_^(molekula_DNA)" src="auto" selected="1">NNFXX-----A---b</tag>
+<tag lemma="DNA_;U_^(molekula_DNA)" src="auto" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-vesm9211-016-p5s5w7">
 <src.rf>manual</src.rf>
@@ -937,7 +937,7 @@
 <LM>w#w-vesm9211-016-p5s5w11</LM>
 </w.rf>
 <form>DNA</form>
-<tag lemma="DNA_;U_^(molekula_DNA)" src="auto" selected="1">NNFXX-----A---b</tag>
+<tag lemma="DNA_;U_^(molekula_DNA)" src="auto" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-vesm9211-016-p5s5w12">
 <src.rf>manual</src.rf>
@@ -953,7 +953,7 @@
 <LM>w#w-vesm9211-016-p5s5w13</LM>
 </w.rf>
 <form>DNA</form>
-<tag lemma="DNA_;U_^(molekula_DNA)" src="auto" selected="1">NNFXX-----A---b</tag>
+<tag lemma="DNA_;U_^(molekula_DNA)" src="auto" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-vesm9211-016-p5s5w14">
 <src.rf>manual</src.rf>
@@ -1019,7 +1019,7 @@
 <LM>w#w-vesm9211-016-p5s6w6</LM>
 </w.rf>
 <form>DNA</form>
-<tag lemma="DNA_;U_^(molekula_DNA)" src="auto" selected="1">NNFXX-----A---b</tag>
+<tag lemma="DNA_;U_^(molekula_DNA)" src="auto" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-vesm9211-016-p5s6w7">
 <src.rf>manual</src.rf>
@@ -1091,7 +1091,7 @@
 <LM>w#w-vesm9211-016-p5s6w15</LM>
 </w.rf>
 <form>DNA</form>
-<tag lemma="DNA_;U_^(molekula_DNA)" src="auto" selected="1">NNFXX-----A---b</tag>
+<tag lemma="DNA_;U_^(molekula_DNA)" src="auto" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-vesm9211-016-p5s6w16">
 <src.rf>manual</src.rf>
@@ -1633,7 +1633,7 @@
 <LM>w#w-vesm9211-016-p6s1w6</LM>
 </w.rf>
 <form>DNA</form>
-<tag lemma="DNA_;U_^(molekula_DNA)" src="auto" selected="1">NNFXX-----A---b</tag>
+<tag lemma="DNA_;U_^(molekula_DNA)" src="auto" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-vesm9211-016-p6s1w7">
 <src.rf>manual</src.rf>

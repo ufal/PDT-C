@@ -17463,7 +17463,7 @@
 <LM>w#w-ln94207-73-p19s2w8</LM>
 </w.rf>
 <form>Mondalea</form>
-<tag lemma="Mondale_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Mondale_;Y" src="orig" selected="1">NNMS2-----A---1</tag>
 </m>
 <m id="m-ln94207-73-p19s2w9">
 <src.rf>manual</src.rf>

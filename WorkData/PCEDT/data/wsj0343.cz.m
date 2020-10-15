@@ -5949,7 +5949,7 @@
 <form>Rostenkowskiho</form>
 <tag>
 <AM lemma="Rostenkowskiho" src="auto">X@-------------</AM>
-<AM lemma="Rostenkowski_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Rostenkowský_;Y" src="manual" selected="1">NNMS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-wsj0343-001-p1s16W13-Ta">

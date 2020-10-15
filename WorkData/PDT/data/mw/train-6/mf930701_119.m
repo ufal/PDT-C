@@ -890,7 +890,7 @@
 <LM>w#w-mf930701-119-p2s7w3</LM>
 </w.rf>
 <form>Piolina</form>
-<tag lemma="Pioline_;Y" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Pioline_;Y" src="orig" selected="1">NNMS4-----A---1</tag>
 </m>
 <m id="m-mf930701-119-p2s7w4">
 <src.rf>manual</src.rf>
@@ -2114,7 +2114,7 @@
 <LM>w#w-mf930701-119-p2s15w17</LM>
 </w.rf>
 <form>Wimbledonem</form>
-<tag lemma="Wimbledon" src="orig" selected="1">NNIS7-----A----</tag>
+<tag lemma="Wimbledon_;m" src="orig" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-mf930701-119-p2s15w18">
 <src.rf>manual</src.rf>

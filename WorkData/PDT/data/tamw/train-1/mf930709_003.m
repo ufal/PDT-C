@@ -583,7 +583,7 @@
 <LM>w#w-mf930709-003-p4s1Bw4</LM>
 </w.rf>
 <form>Haska</form>
-<tag lemma="Hasek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Hasek_;Y" src="orig" selected="1">NNMS2-----A---1</tag>
 </m>
 <m id="m-mf930709-003-p4s1Bw5">
 <src.rf>manual</src.rf>

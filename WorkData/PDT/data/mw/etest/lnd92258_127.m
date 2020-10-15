@@ -3684,7 +3684,7 @@
 <LM>w#w-lnd92258-127-p22s1w3</LM>
 </w.rf>
 <form>Pescara</form>
-<tag lemma="Pescara_;Y_;m" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Pescara_;G_;Y_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92258-127-p22s1w4">
 <src.rf>manual</src.rf>

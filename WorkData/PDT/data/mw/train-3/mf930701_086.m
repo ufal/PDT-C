@@ -1337,7 +1337,7 @@
 <LM>w#w-mf930701-086-p27s1w6</LM>
 </w.rf>
 <form>doma</form>
-<tag lemma="doma" src="orig" selected="1">Db-------------</tag>
+<tag lemma="doma" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 </s>
 <s id="m-mf930701-086-p28s1">

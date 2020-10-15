@@ -1035,7 +1035,7 @@
 <form>řikají</form>
 <tag>
 <AM lemma="řikají" src="auto">X@-------------</AM>
-<AM lemma="říkat" src="manual" selected="1">VB-P---3P-AAI-7</AM>
+<AM lemma="řikat_,h_^(^GC**říkat)" src="manual" selected="1">VB-P---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m973-id63664-x2-21853">

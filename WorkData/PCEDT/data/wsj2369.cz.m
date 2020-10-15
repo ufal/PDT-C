@@ -457,7 +457,7 @@
 <form>Jackiemu</form>
 <tag>
 <AM lemma="Jackiemu" src="auto">X@-------------</AM>
-<AM lemma="Jackie_;Y" src="manual" selected="1">NNMS3-----A----</AM>
+<AM lemma="Jackie-2_;Y" src="manual" selected="1">NNMS3-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2369-001-p1s2W8-Ta">
@@ -10451,7 +10451,7 @@
 <form>Birneyho</form>
 <tag>
 <AM lemma="Birneyho" src="auto">X@-------------</AM>
-<AM lemma="Birney_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Birney_;Y" src="manual" selected="1">NNMS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-wsj2369-001-p1s34W46-Ta">

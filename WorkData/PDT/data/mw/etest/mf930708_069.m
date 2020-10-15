@@ -1049,7 +1049,7 @@
 <LM>w#w-mf930708-069-p23s1w6</LM>
 </w.rf>
 <form>doma</form>
-<tag lemma="doma" src="orig" selected="1">Db-------------</tag>
+<tag lemma="doma" src="orig" selected="1">Dg-------1A----</tag>
 </m>
 </s>
 <s id="m-mf930708-069-p24s1">

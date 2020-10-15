@@ -2040,7 +2040,7 @@
 <form>Barrosou</form>
 <tag>
 <AM lemma="Barrosa_;Y" src="orig">NNMS7-----A----</AM>
-<AM lemma="Barroso_;Y" src="manual" selected="1">NNMS7-----A----</AM>
+<AM lemma="Barroso_;Y" src="manual" selected="1">NNMS7-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln95043-044-p5s4w9">
