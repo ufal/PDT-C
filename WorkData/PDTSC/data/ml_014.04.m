@@ -579,7 +579,7 @@
 </w.rf>
 <form>hodně</form>
 <tag>
-<AM lemma="hodně-1" src="auto" selected="1">Ca--X----------</AM>
+<AM lemma="hodně-3" src="auto" selected="1">Db-------------</AM>
 <AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto" recommended="1">Dg-------1A----</AM>
 <AM lemma="hodně-3" src="auto">Dg-------1A----</AM>
 </tag>
@@ -2022,7 +2022,7 @@
 </w.rf>
 <form>lidi</form>
 <tag>
-<AM lemma="člověk" src="auto" recommended="1">NNMP1-----A----</AM>
+<AM lemma="lidé" src="auto" recommended="1">NNMP1-----A---1</AM>
 <AM lemma="člověk" src="auto">NNMP4-----A----</AM>
 <AM lemma="člověk" src="auto">NNMP5-----A----</AM>
 </tag>

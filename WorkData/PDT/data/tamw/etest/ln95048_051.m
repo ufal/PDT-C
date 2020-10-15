@@ -1333,7 +1333,7 @@
 <LM>w#w-ln95048-051-p2s10w8</LM>
 </w.rf>
 <form>stálo</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VpNS----R-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln95048-051-p2s10w9">
 <src.rf>manual</src.rf>
@@ -2969,7 +2969,7 @@
 <LM>w#w-ln95048-051-p3s5w15</LM>
 </w.rf>
 <form>den</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln95048-051-p3s5w16">
 <src.rf>manual</src.rf>
@@ -4438,7 +4438,7 @@
 <LM>w#w-ln95048-051-p3s24w8</LM>
 </w.rf>
 <form>stál</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95048-051-p3s24w9">
 <src.rf>manual</src.rf>
@@ -5507,7 +5507,7 @@
 <LM>w#w-ln95048-051-p4s3w17</LM>
 </w.rf>
 <form>hodiny</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-ln95048-051-p4s3w18">
 <src.rf>manual</src.rf>
@@ -6491,7 +6491,7 @@
 <LM>w#w-ln95048-051-p4s13w1</LM>
 </w.rf>
 <form>Loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95048-051-p4s13w2">
 <src.rf>manual</src.rf>
@@ -7458,7 +7458,7 @@
 <LM>w#w-ln95048-051-p5s7w4</LM>
 </w.rf>
 <form>lidé</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP1-----A---1</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln95048-051-p5s7w5">
 <src.rf>manual</src.rf>
@@ -10472,7 +10472,7 @@
 <LM>w#w-ln95048-051-p8s7w4</LM>
 </w.rf>
 <form>stát</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95048-051-p8s7w5">
 <src.rf>manual</src.rf>
@@ -11954,7 +11954,7 @@
 <LM>w#w-ln95048-051-p8s23w20</LM>
 </w.rf>
 <form>stálo</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VpNS----R-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln95048-051-p8s23w21">
 <src.rf>manual</src.rf>
@@ -16397,7 +16397,7 @@
 <LM>w#w-ln95048-051-p10s2w2</LM>
 </w.rf>
 <form>den</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln95048-051-p10s2w3">
 <src.rf>manual</src.rf>
@@ -16947,7 +16947,7 @@
 <LM>w#w-ln95048-051-p11s1w1</LM>
 </w.rf>
 <form>Loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95048-051-p11s1w2">
 <src.rf>manual</src.rf>

@@ -841,7 +841,7 @@
 <LM>w#w-ln95045-043-p3s2w24</LM>
 </w.rf>
 <form>Athénách</form>
-<tag lemma="Atény_;G" src="orig" selected="1">NNFP6-----A----</tag>
+<tag lemma="Athény_;G_,s_^(^DD**Atény)" src="orig" selected="1">NNFP6-----A----</tag>
 </m>
 <m id="m-ln95045-043-p3s2w25">
 <src.rf>manual</src.rf>

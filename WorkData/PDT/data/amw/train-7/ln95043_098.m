@@ -239,7 +239,7 @@
 <LM>w#w-ln95043-098-p2s1Bw16</LM>
 </w.rf>
 <form>nedávno</form>
-<tag lemma="nedávno-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="dávno-1" src="auto" selected="1">Dg-------1N----</tag>
 </m>
 <m id="m-ln95043-098-p2s1Bw17">
 <src.rf>manual</src.rf>
@@ -2599,7 +2599,7 @@
 <LM>w#w-ln95043-098-p3s10w20</LM>
 </w.rf>
 <form>vlastně</form>
-<tag lemma="vlastně-2_^(totiž)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="vlastně-2" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln95043-098-p3s10w21">
 <src.rf>manual</src.rf>
@@ -5334,7 +5334,7 @@
 <LM>w#w-ln95043-098-p9s2w13</LM>
 </w.rf>
 <form>vlastně</form>
-<tag lemma="vlastně-2_^(totiž)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="vlastně-2" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln95043-098-p9s2w14">
 <src.rf>manual</src.rf>

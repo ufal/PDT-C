@@ -2967,7 +2967,7 @@
 <tag>
 <AM lemma="moc-1_^(nad_někým;_politická,_vojenská;_plná,...)" src="auto">NNFS1-----A----</AM>
 <AM lemma="moc-1_^(nad_někým;_politická,_vojenská;_plná,...)" src="auto">NNFS4-----A----</AM>
-<AM lemma="moc-2_^(mnoho_něčeho_[se_subst._v_gen.])" src="auto" recommended="1">Ca--X----------</AM>
+<AM lemma="moc-3_^(moc_hezká,_moc_peněz)" src="auto" recommended="1">Db-------------</AM>
 <AM lemma="moc-3_^(velmi,_ve_spojení_s_adj.,_př._moc_hezká)" src="auto">Db-------------</AM>
 </tag>
 </m>
@@ -3144,7 +3144,7 @@
 </w.rf>
 <form>lidi</form>
 <tag>
-<AM lemma="člověk" src="auto" recommended="1">NNMP1-----A----</AM>
+<AM lemma="lidé" src="auto" recommended="1">NNMP1-----A---1</AM>
 <AM lemma="člověk" src="auto">NNMP4-----A----</AM>
 <AM lemma="člověk" src="auto">NNMP5-----A----</AM>
 </tag>
@@ -3338,7 +3338,7 @@
 </w.rf>
 <form>bydlí</form>
 <tag>
-<AM lemma="bydlet" src="auto" recommended="1">VB-P---3P-AAI--</AM>
+<AM lemma="bydlet" src="auto" recommended="1">VB-P---3P-AAI-1</AM>
 <AM lemma="bydlet" src="auto">VB-S---3P-AAI--</AM>
 </tag>
 </m>
@@ -4217,7 +4217,7 @@
 </w.rf>
 <form>teda</form>
 <tag>
-<AM lemma="teda-1_,h" src="auto" recommended="1">Db------------6</AM>
+<AM lemma="teda-1_,h" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="teda-2_,h" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -4502,7 +4502,7 @@
 <form>vlastně</form>
 <tag>
 <AM lemma="vlastnit_^(někdo_má_něco_ve_vlastnictví)" src="auto">VeYS------A-I--</AM>
-<AM lemma="vlastně-2_^(totiž)" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="vlastně-2" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="vlastně-3" src="auto">TT-------------</AM>
 <AM lemma="vlastně_^(příslušný_k_něčemu)_(*1í)" src="auto">Dg-------1A----</AM>
 </tag>

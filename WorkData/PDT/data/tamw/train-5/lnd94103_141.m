@@ -342,7 +342,7 @@
 <LM>w#w-lnd94103-141-p1s1w40</LM>
 </w.rf>
 <form>Rusy</form>
-<tag lemma="Rus_;E" src="orig" selected="1">NNMP7-----A----</tag>
+<tag lemma="Rus-1_;E" src="orig" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-lnd94103-141-p1s1w41">
 <src.rf>manual</src.rf>
@@ -1585,7 +1585,7 @@
 <LM>w#w-lnd94103-141-p1s8w15</LM>
 </w.rf>
 <form>Rusové</form>
-<tag lemma="Rus_;E" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="Rus-1_;E" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd94103-141-p1s8w16">
 <src.rf>manual</src.rf>

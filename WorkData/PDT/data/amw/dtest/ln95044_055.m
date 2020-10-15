@@ -1498,7 +1498,7 @@
 <LM>w#w-ln95044-055-p3s2w7</LM>
 </w.rf>
 <form>den</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln95044-055-p3s2w8">
 <src.rf>manual</src.rf>
@@ -1530,7 +1530,7 @@
 <LM>w#w-ln95044-055-p3s2w11</LM>
 </w.rf>
 <form>den</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln95044-055-p3s2w12">
 <src.rf>manual</src.rf>
@@ -1958,7 +1958,7 @@
 <LM>w#w-ln95044-055-p3s4w26</LM>
 </w.rf>
 <form>moc</form>
-<tag lemma="moc-2_^(mnoho_něčeho_[se_subst._v_gen.])" src="orig" selected="1">Ca--X----------</tag>
+<tag lemma="moc-3_^(moc_hezká,_moc_peněz)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95044-055-p3s4w27">
 <src.rf>manual</src.rf>
@@ -3235,7 +3235,7 @@
 <LM>w#w-ln95044-055-p5s4w12</LM>
 </w.rf>
 <form>moc</form>
-<tag lemma="moc-2_^(mnoho_něčeho_[se_subst._v_gen.])" src="orig" selected="1">Ca--X----------</tag>
+<tag lemma="moc-3_^(moc_hezká,_moc_peněz)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95044-055-p5s4w13">
 <src.rf>manual</src.rf>
@@ -3379,7 +3379,7 @@
 <LM>w#w-ln95044-055-p5s5w15</LM>
 </w.rf>
 <form>den</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln95044-055-p5s5w16">
 <src.rf>manual</src.rf>
@@ -3568,7 +3568,7 @@
 <LM>w#w-ln95044-055-p5s6w17</LM>
 </w.rf>
 <form>stál</form>
-<tag lemma="stát-4_^(něco_stojí_peníze)" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95044-055-p5s6w18">
 <src.rf>manual</src.rf>
@@ -6082,7 +6082,7 @@
 <LM>w#w-ln95044-055-p11s3w11</LM>
 </w.rf>
 <form>spíš</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="spíš" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln95044-055-p11s3w12">
 <src.rf>manual</src.rf>

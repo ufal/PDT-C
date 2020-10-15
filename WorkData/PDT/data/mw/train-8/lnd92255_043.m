@@ -1976,7 +1976,7 @@
 <LM>w#w-lnd92255-043-p6s1w9</LM>
 </w.rf>
 <form>SR</form>
-<tag lemma="SR-1_;G_^(Slovenská_republika)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="SR_;G_^(Slovenská_republika)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd92255-043-p6s1w10">
 <src.rf>manual</src.rf>
@@ -2312,7 +2312,7 @@
 <LM>w#w-lnd92255-043-p6s2w8</LM>
 </w.rf>
 <form>SR</form>
-<tag lemma="SR-1_;G_^(Slovenská_republika)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="SR_;G_^(Slovenská_republika)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd92255-043-p6s2w9">
 <src.rf>manual</src.rf>
@@ -2435,7 +2435,7 @@
 <LM>w#w-lnd92255-043-p6s2w23</LM>
 </w.rf>
 <form>lidé</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP1-----A---1</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd92255-043-p6s2w24">
 <src.rf>manual</src.rf>

@@ -1222,7 +1222,7 @@
 <LM>w#w-ln94201-39-p3s6w5</LM>
 </w.rf>
 <form>dále</form>
-<tag lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="orig" selected="1">Db------------1</tag>
+<tag lemma="dále-3_^(také,_za_další)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94201-39-p3s6w6">
 <src.rf>manual</src.rf>
@@ -1713,7 +1713,7 @@
 <LM>w#w-ln94201-39-p3s10w11</LM>
 </w.rf>
 <form>panu</form>
-<tag lemma="pan_^(oslovení)" src="auto" selected="1">NNMS3-----A----</tag>
+<tag lemma="pan" src="auto" selected="1">NNMS3-----A---1</tag>
 </m>
 <m id="m-ln94201-39-p3s10w12">
 <src.rf>manual</src.rf>

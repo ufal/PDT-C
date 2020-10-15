@@ -182,7 +182,7 @@
 <LM>w#w-lnd91303-090-p3s1w8</LM>
 </w.rf>
 <form>Kanadě</form>
-<tag lemma="Kanada_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Kanada_;G_;m" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd91303-090-p3s1w9">
 <src.rf>manual</src.rf>
@@ -1198,7 +1198,7 @@
 <LM>w#w-lnd91303-090-p6s3w14</LM>
 </w.rf>
 <form>hůře</form>
-<tag lemma="špatně" src="orig" selected="1">Dg-------2A---1</tag>
+<tag lemma="hůře" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-lnd91303-090-p6s3w15">
 <src.rf>manual</src.rf>

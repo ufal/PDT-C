@@ -5078,7 +5078,7 @@
 <form>Davidem</form>
 <tag>
 <AM lemma="David_;G" src="auto">NNIS7-----A----</AM>
-<AM lemma="David_;Y" src="auto" recommended="1">NNMS7-----A----</AM>
+<AM lemma="David-1_;Y" src="auto" recommended="1">NNMS7-----A----</AM>
 <AM lemma="Davide_;Y" src="auto">NNMS6-----A----</AM>
 <AM lemma="Davide_;Y" src="auto">NNMS7-----A----</AM>
 </tag>
@@ -6187,7 +6187,7 @@
 <AM lemma="snadný" src="auto">AANP1----2A----</AM>
 <AM lemma="snadný" src="auto">AANP4----2A----</AM>
 <AM lemma="snadný" src="auto">AANP5----2A----</AM>
-<AM lemma="snadný" src="auto" recommended="1">AANS1----2A----</AM>
+<AM lemma="snadný" src="auto" recommended="1">AANS1----2A---1</AM>
 <AM lemma="snadný" src="auto">AANS4----2A----</AM>
 <AM lemma="snadný" src="auto">AANS5----2A----</AM>
 </tag>

@@ -1529,7 +1529,7 @@
 <LM>w#w-mf930709-093-p2s12w12</LM>
 </w.rf>
 <form>Kanady</form>
-<tag lemma="Kanada_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Kanada_;G_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930709-093-p2s12w13">
 <src.rf>manual</src.rf>

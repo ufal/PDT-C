@@ -1440,7 +1440,7 @@
 <LM>w#w-mf930709-052-p2s9w26</LM>
 </w.rf>
 <form>vlastně</form>
-<tag lemma="vlastně-2_^(totiž)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="vlastně-2" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf930709-052-p2s9w27">
 <src.rf>manual</src.rf>
@@ -3582,7 +3582,7 @@
 <LM>w#w-mf930709-052-p2s24w16</LM>
 </w.rf>
 <form>stát</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf930709-052-p2s24w17">
 <src.rf>manual</src.rf>
@@ -5384,7 +5384,7 @@
 <LM>w#w-mf930709-052-p2s37w8</LM>
 </w.rf>
 <form>stál</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930709-052-p2s37w9">
 <src.rf>manual</src.rf>

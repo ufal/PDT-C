@@ -2292,7 +2292,7 @@
 <LM>w#w-mf930701-094-p2s16w20</LM>
 </w.rf>
 <form>dále</form>
-<tag lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="orig" selected="1">Db------------1</tag>
+<tag lemma="dále-3_^(také,_za_další)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf930701-094-p2s16w21">
 <src.rf>manual</src.rf>
@@ -2513,7 +2513,7 @@
 <LM>w#w-mf930701-094-p2s17w18</LM>
 </w.rf>
 <form>něž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4XP4----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4XP4---------1</tag>
 </m>
 <m id="m-mf930701-094-p2s17w19">
 <src.rf>manual</src.rf>

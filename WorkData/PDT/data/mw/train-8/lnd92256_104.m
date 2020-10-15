@@ -541,7 +541,7 @@
 <LM>w#w-lnd92256-104-p2s3w18</LM>
 </w.rf>
 <form>vítězové</form>
-<tag lemma="vítěz" src="orig" selected="1">NNMP1-----A---1</tag>
+<tag lemma="vítěz" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd92256-104-p2s3w19">
 <src.rf>manual</src.rf>

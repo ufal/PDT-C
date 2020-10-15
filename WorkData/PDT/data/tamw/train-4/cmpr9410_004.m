@@ -368,7 +368,7 @@
 <LM>w#w-cmpr9410-004-p5s1w19</LM>
 </w.rf>
 <form>pozdějších</form>
-<tag lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="orig" selected="1">AAIP2----2A----</tag>
+<tag lemma="pozdější" src="orig" selected="1">AAIP2----1A----</tag>
 </m>
 <m id="m-cmpr9410-004-p5s1w20">
 <src.rf>manual</src.rf>
@@ -1377,7 +1377,7 @@
 <LM>w#w-cmpr9410-004-p7s1Bw17</LM>
 </w.rf>
 <form>dále</form>
-<tag lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="orig" selected="1">Db------------1</tag>
+<tag lemma="dále-3_^(také,_za_další)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-cmpr9410-004-p7s1Bw18">
 <src.rf>manual</src.rf>

@@ -159,7 +159,7 @@
 <LM>w#w-lnd92258-029-p3s1w9</LM>
 </w.rf>
 <form>Rusové</form>
-<tag lemma="Rus_;E" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="Rus-1_;E" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd92258-029-p3s1w10">
 <src.rf>manual</src.rf>
@@ -183,7 +183,7 @@
 <LM>w#w-lnd92258-029-p3s1w12</LM>
 </w.rf>
 <form>vlastně</form>
-<tag lemma="vlastně-2_^(totiž)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="vlastně-2" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-lnd92258-029-p3s1w13">
 <src.rf>manual</src.rf>
@@ -569,7 +569,7 @@
 <LM>w#w-lnd92258-029-p4s1w1</LM>
 </w.rf>
 <form>Loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd92258-029-p4s1w2">
 <src.rf>manual</src.rf>

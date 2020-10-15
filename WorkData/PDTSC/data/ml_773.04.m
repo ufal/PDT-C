@@ -299,7 +299,7 @@
 </w.rf>
 <form>lidi</form>
 <tag>
-<AM lemma="člověk" src="auto" recommended="1">NNMP1-----A----</AM>
+<AM lemma="lidé" src="auto" recommended="1">NNMP1-----A---1</AM>
 <AM lemma="člověk" src="auto">NNMP4-----A----</AM>
 <AM lemma="člověk" src="auto">NNMP5-----A----</AM>
 </tag>
@@ -4520,7 +4520,7 @@
 </w.rf>
 <form>Bydlí</form>
 <tag>
-<AM lemma="bydlet" src="auto" selected="1">VB-P---3P-AAI--</AM>
+<AM lemma="bydlet" src="auto" selected="1">VB-P---3P-AAI-1</AM>
 <AM lemma="bydlet" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>

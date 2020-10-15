@@ -1663,7 +1663,7 @@
 <LM>w#w-mf920923-109-p5s6w7</LM>
 </w.rf>
 <form>něž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4NS4----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4NS4---------1</tag>
 </m>
 <m id="m-mf920923-109-p5s6w8">
 <src.rf>manual</src.rf>
@@ -2166,7 +2166,7 @@
 <LM>w#w-mf920923-109-p6s2w26</LM>
 </w.rf>
 <form>bohatší</form>
-<tag lemma="bohatý" src="orig" selected="1">AAIP1----2A----</tag>
+<tag lemma="bohatý" src="orig" selected="1">AAIP1----2A---1</tag>
 </m>
 <m id="m-mf920923-109-p6s2w27">
 <src.rf>manual</src.rf>

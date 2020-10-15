@@ -818,7 +818,7 @@
 <form>Fuji</form>
 <tag>
 <AM lemma="Fuji_;m_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Fuji_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Fuji_;G_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1128-001-p1s3W6-Ta">
@@ -1521,7 +1521,7 @@
 <form>Fuji</form>
 <tag>
 <AM lemma="Fuji_;m_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Fuji_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Fuji_;G_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1128-001-p1s5W10-Ta">
@@ -2055,7 +2055,7 @@
 <form>Fuji</form>
 <tag>
 <AM lemma="Fuji_;m_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Fuji_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Fuji_;G_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1128-001-p1s7W18-Ta">
@@ -3198,7 +3198,7 @@
 <form>Fuji</form>
 <tag>
 <AM lemma="Fuji_;m_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Fuji_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Fuji_;G_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1128-001-p1s11W24-Ta">
@@ -4467,7 +4467,7 @@
 <form>Fuji</form>
 <tag>
 <AM lemma="Fuji_;m_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Fuji_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Fuji_;G_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1128-001-p1s17W4-Ta">
@@ -11084,7 +11084,7 @@
 <form>Fuji</form>
 <tag>
 <AM lemma="Fuji_;m_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Fuji_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Fuji_;G_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1128-001-p1s45W16-Ta">
@@ -11425,7 +11425,7 @@
 <form>Fuji</form>
 <tag>
 <AM lemma="Fuji_;m_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Fuji_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Fuji_;G_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1128-001-p1s46W2-Ta">
@@ -11714,7 +11714,7 @@
 <form>Fuji</form>
 <tag>
 <AM lemma="Fuji_;m_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Fuji_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Fuji_;G_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1128-001-p1s47W8-Ta">
@@ -11755,7 +11755,7 @@
 </w.rf>
 <form>její</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSFXXFS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9FXXFS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSIS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSNS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP1FS3-------</AM>
@@ -12259,7 +12259,7 @@
 <form>Fuji</form>
 <tag>
 <AM lemma="Fuji_;m_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Fuji_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Fuji_;G_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1128-001-p1s49W10-Ta">
@@ -13205,7 +13205,7 @@
 <form>Fuji</form>
 <tag>
 <AM lemma="Fuji_;m_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Fuji_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Fuji_;G_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1128-001-p1s52W3-Ta">
@@ -13519,7 +13519,7 @@
 <form>Fuji</form>
 <tag>
 <AM lemma="Fuji_;m_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Fuji_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Fuji_;G_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1128-001-p1s53W12-Ta">
@@ -13575,7 +13575,7 @@
 <form>Fuji</form>
 <tag>
 <AM lemma="Fuji_;m_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Fuji_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Fuji_;G_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1128-001-p1s53W18-Ta">
@@ -13835,7 +13835,7 @@
 <form>Fuji</form>
 <tag>
 <AM lemma="Fuji_;m_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Fuji_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Fuji_;G_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1128-001-p1s55W14-Ta">
@@ -14063,7 +14063,7 @@
 <form>Fuji</form>
 <tag>
 <AM lemma="Fuji_;m_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Fuji_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Fuji_;G_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1128-001-p1s56W8-Ta">
@@ -14435,7 +14435,7 @@
 <form>Fuji</form>
 <tag>
 <AM lemma="Fuji_;m_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Fuji_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Fuji_;G_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1128-001-p1s58W15-Ta">
@@ -14834,7 +14834,7 @@
 <form>Fuji</form>
 <tag>
 <AM lemma="Fuji_;m_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Fuji_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Fuji_;G_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1128-001-p1s60W4-Ta">
@@ -16428,7 +16428,7 @@
 <form>Fuji</form>
 <tag>
 <AM lemma="Fuji_;m_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Fuji_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Fuji_;G_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1128-001-p1s67W4-Ta">
@@ -16741,7 +16741,7 @@
 <form>Fuji</form>
 <tag>
 <AM lemma="Fuji_;m_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Fuji_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Fuji_;G_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1128-001-p1s69W5-Ta">
@@ -17744,7 +17744,7 @@
 <form>Fuji</form>
 <tag>
 <AM lemma="Fuji_;m_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Fuji_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Fuji_;G_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1128-001-p1s72W26-Ta">

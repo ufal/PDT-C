@@ -504,7 +504,7 @@
 <LM>w#w-ln94200-38-p3s1w15</LM>
 </w.rf>
 <form>den</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln94200-38-p3s1w16">
 <src.rf>manual</src.rf>
@@ -944,7 +944,7 @@
 <LM>w#w-ln94200-38-p4s2w5</LM>
 </w.rf>
 <form>den</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln94200-38-p4s2w6">
 <src.rf>manual</src.rf>
@@ -1003,7 +1003,7 @@
 <LM>w#w-ln94200-38-p4s2w12</LM>
 </w.rf>
 <form>den</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln94200-38-p4s2w13">
 <src.rf>manual</src.rf>
@@ -1161,7 +1161,7 @@
 <LM>w#w-ln94200-38-p4s3w16</LM>
 </w.rf>
 <form>den</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln94200-38-p4s3w17">
 <src.rf>manual</src.rf>
@@ -1388,7 +1388,7 @@
 <LM>w#w-ln94200-38-p4s4w16</LM>
 </w.rf>
 <form>den</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln94200-38-p4s4w17">
 <src.rf>manual</src.rf>

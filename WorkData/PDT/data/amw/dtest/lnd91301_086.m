@@ -31,7 +31,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>MS</form>
-<tag lemma="MS-3_^(mistrovství_světa)" src="orig" selected="1">NNNXX-----A---b</tag>
+<tag lemma="MS-1_^(mistrovství_světa)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd91301-086-p1s1w3">
 <src.rf>manual</src.rf>
@@ -126,7 +126,7 @@
 <LM>w#w-lnd91301-086-p3s1w5</LM>
 </w.rf>
 <form>MS</form>
-<tag lemma="MS-3_^(mistrovství_světa)" src="orig" selected="1">NNNXX-----A---b</tag>
+<tag lemma="MS-1_^(mistrovství_světa)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd91301-086-p3s1w6">
 <src.rf>manual</src.rf>
@@ -294,7 +294,7 @@
 <LM>w#w-lnd91301-086-p3s1w26</LM>
 </w.rf>
 <form>Švédy</form>
-<tag lemma="Švéd_;E" src="orig" selected="1">NNMP7-----A----</tag>
+<tag lemma="Švéd_;E_;Y" src="orig" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-lnd91301-086-p3s1w27">
 <src.rf>manual</src.rf>

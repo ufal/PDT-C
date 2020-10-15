@@ -3531,7 +3531,7 @@
 <LM>w#w-cmpr9413-036-p12s2w1</LM>
 </w.rf>
 <form>Nedávno</form>
-<tag lemma="nedávno-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="dávno-1" src="auto" selected="1">Dg-------1N----</tag>
 </m>
 <m id="m-cmpr9413-036-p12s2w2">
 <src.rf>manual</src.rf>

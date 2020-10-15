@@ -1258,7 +1258,7 @@
 <LM>w#w-vesm9303-013-p2s7Aw14</LM>
 </w.rf>
 <form>den</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-vesm9303-013-p2s7Aw15">
 <src.rf>manual</src.rf>
@@ -2284,7 +2284,7 @@
 <form>hodně</form>
 <tag>
 <AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
-<AM lemma="hodně-1" src="manual" selected="1">Ca--X----------</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-013-p2s8w100">
@@ -2888,7 +2888,7 @@
 <LM>w#w-vesm9303-013-p3s3w39</LM>
 </w.rf>
 <form>den</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-vesm9303-013-p3s3w40">
 <src.rf>manual</src.rf>
@@ -3042,7 +3042,7 @@
 <LM>w#w-vesm9303-013-p3s4w9</LM>
 </w.rf>
 <form>něž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4XP4----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4XP4---------1</tag>
 </m>
 <m id="m-vesm9303-013-p3s4w10">
 <src.rf>manual</src.rf>

@@ -5496,7 +5496,7 @@
 <LM>w#w-vesm9303-026-p7s4w28</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9FXXFS3-------</tag>
 </m>
 <m id="m-vesm9303-026-p7s4w29">
 <src.rf>manual</src.rf>
@@ -5930,7 +5930,7 @@
 <LM>w#w-vesm9303-026-p8s1w8</LM>
 </w.rf>
 <form>o</form>
-<tag lemma="o-4_^(graf._oddělovač)" src="orig" selected="1">Z:-------------</tag>
+<tag lemma="o-33" src="orig" selected="1">Q3-------------</tag>
 </m>
 <m id="m-vesm9303-026-p8s1w9">
 <src.rf>manual</src.rf>

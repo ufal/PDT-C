@@ -654,7 +654,7 @@
 <LM>w#w-mf920924-023-p2s2w39</LM>
 </w.rf>
 <form>rublu</form>
-<tag lemma="rubl" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="rubl" src="orig" selected="1">NNIS2-----A---1</tag>
 </m>
 <m id="m-mf920924-023-p2s2w40">
 <src.rf>manual</src.rf>

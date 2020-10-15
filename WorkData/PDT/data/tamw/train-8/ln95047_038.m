@@ -1023,7 +1023,7 @@
 <LM>w#w-ln95047-038-p3s2w16</LM>
 </w.rf>
 <form>bohatší</form>
-<tag lemma="bohatý" src="orig" selected="1">AAFP4----2A----</tag>
+<tag lemma="bohatý" src="orig" selected="1">AAFP4----2A---1</tag>
 </m>
 <m id="m-ln95047-038-p3s2w17">
 <src.rf>manual</src.rf>

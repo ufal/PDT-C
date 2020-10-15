@@ -35,7 +35,7 @@
 <LM>w#w-mf930709-083-p1s1w3</LM>
 </w.rf>
 <form>Spartě</form>
-<tag lemma="Sparta_;m" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Sparta_;G_;m" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf930709-083-p1s1w4">
 <src.rf>manual</src.rf>
@@ -132,7 +132,7 @@
 <LM>w#w-mf930709-083-p2s1Bw3</LM>
 </w.rf>
 <form>Sparty</form>
-<tag lemma="Sparta_;m" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Sparta_;G_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930709-083-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -209,7 +209,7 @@
 <form>MS</form>
 <tag>
 <AM lemma="MS-3_:B_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="MS-3_^(mistrovství_světa)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="MS-1_^(mistrovství_světa)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-083-p2s1Bw13">
@@ -346,7 +346,7 @@
 <form>MS</form>
 <tag>
 <AM lemma="MS-3_:B_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="MS-3_^(mistrovství_světa)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="MS-1_^(mistrovství_světa)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-083-p2s1Bw29">
@@ -857,7 +857,7 @@
 <LM>w#w-mf930709-083-p3s2w29</LM>
 </w.rf>
 <form>Sparty</form>
-<tag lemma="Sparta_;m" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Sparta_;G_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930709-083-p3s2w30">
 <src.rf>manual</src.rf>

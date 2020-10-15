@@ -489,7 +489,7 @@
 <LM>w#w-lnd92254-043-p3s4w6</LM>
 </w.rf>
 <form>SR</form>
-<tag lemma="SR-1_;G_^(Slovenská_republika)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="SR_;G_^(Slovenská_republika)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd92254-043-p3s4w7">
 <src.rf>manual</src.rf>

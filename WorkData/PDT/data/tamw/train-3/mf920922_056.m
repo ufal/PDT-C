@@ -1044,7 +1044,7 @@
 <LM>w#w-mf920922-056-p2s4w26</LM>
 </w.rf>
 <form>Sparty</form>
-<tag lemma="Sparta_;m" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Sparta_;G_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920922-056-p2s4w27">
 <src.rf>manual</src.rf>
@@ -2279,7 +2279,7 @@
 <LM>w#w-mf920922-056-p2s9Bw9</LM>
 </w.rf>
 <form>Spartě</form>
-<tag lemma="Sparta_;m" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="Sparta_;G_;m" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-mf920922-056-p2s9Bw10">
 <src.rf>manual</src.rf>

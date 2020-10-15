@@ -2018,7 +2018,7 @@
 <LM>w#w-lnd92259-057-p5s3w7</LM>
 </w.rf>
 <form>SR</form>
-<tag lemma="SR-1_;G_^(Slovenská_republika)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="SR_;G_^(Slovenská_republika)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd92259-057-p5s3w8">
 <src.rf>manual</src.rf>

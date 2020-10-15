@@ -3878,7 +3878,7 @@
 <LM>w#w-vesm9212-028-p5s3w81</LM>
 </w.rf>
 <form>spíš</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="spíš" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-vesm9212-028-p5s3w82">
 <src.rf>manual</src.rf>

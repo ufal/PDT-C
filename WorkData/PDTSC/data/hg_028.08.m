@@ -558,7 +558,7 @@
 </w.rf>
 <form>lidi</form>
 <tag>
-<AM lemma="člověk" src="auto" selected="1">NNMP1-----A----</AM>
+<AM lemma="lidé" src="auto" selected="1">NNMP1-----A---1</AM>
 <AM lemma="člověk" src="auto" recommended="1">NNMP4-----A----</AM>
 <AM lemma="člověk" src="auto">NNMP5-----A----</AM>
 </tag>
@@ -3625,7 +3625,7 @@
 <tag>
 <AM lemma="Marius_;Y_,t" src="auto">NNMS2-----A----</AM>
 <AM lemma="Marius_;Y_,t" src="auto">NNMS4-----A----</AM>
-<AM lemma="Maria_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Marie_;Y" src="auto" recommended="1">NNFS1-----A---1</AM>
 </tag>
 </m>
 <m id="m028-d-id152480-punct">

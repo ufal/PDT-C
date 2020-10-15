@@ -9037,7 +9037,7 @@
 <LM>w#w-cmpr9406-036-p18s1w18</LM>
 </w.rf>
 <form>Windows</form>
-<tag lemma="Windows" src="orig" selected="1">NNIXX-----A----</tag>
+<tag lemma="Windows_;m" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-cmpr9406-036-p18s1w19">
 <src.rf>manual</src.rf>
@@ -9288,7 +9288,7 @@
 <LM>w#w-cmpr9406-036-p18s1w48</LM>
 </w.rf>
 <form>Windows</form>
-<tag lemma="Windows" src="orig" selected="1">NNIXX-----A----</tag>
+<tag lemma="Windows_;m" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-cmpr9406-036-p18s1w49">
 <src.rf>manual</src.rf>

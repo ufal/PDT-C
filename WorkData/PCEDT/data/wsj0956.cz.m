@@ -965,7 +965,7 @@
 </w.rf>
 <form>Mazda</form>
 <tag>
-<AM lemma="Mazda_;m" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Mazda-1_;m" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="mazda_;m" src="auto">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -2952,7 +2952,7 @@
 </w.rf>
 <form>její</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSFXXFS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9FXXFS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSIS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSNS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP1FS3-------</AM>
@@ -8968,7 +8968,7 @@
 </w.rf>
 <form>Acura</form>
 <tag>
-<AM lemma="Accura_;m_^(vozidlo)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Acura_;m_,s_^(vozidlo)_(^DD**Accura)" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="accura_;m_^(vozidlo)" src="auto">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -10551,7 +10551,7 @@
 </w.rf>
 <form>Mazda</form>
 <tag>
-<AM lemma="Mazda_;m" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Mazda-1_;m" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="mazda_;m" src="auto">NNFS1-----A----</AM>
 </tag>
 </m>

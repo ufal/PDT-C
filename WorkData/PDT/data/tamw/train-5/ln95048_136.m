@@ -1456,7 +1456,7 @@
 <LM>w#w-ln95048-136-p2s8w9</LM>
 </w.rf>
 <form>lidé</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP1-----A---1</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln95048-136-p2s8w10">
 <src.rf>manual</src.rf>

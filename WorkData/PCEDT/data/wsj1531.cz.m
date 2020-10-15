@@ -1207,7 +1207,7 @@
 </w.rf>
 <form>Lidé</form>
 <tag>
-<AM lemma="člověk" src="auto" recommended="1">NNMP1-----A---1</AM>
+<AM lemma="lidé" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="člověk" src="auto">NNMP5-----A---1</AM>
 </tag>
 </m>
@@ -6802,7 +6802,7 @@
 </w.rf>
 <form>její</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSFXXFS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9FXXFS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSIS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSNS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP1FS3-------</AM>
@@ -9187,7 +9187,7 @@
 </w.rf>
 <form>lidé</form>
 <tag>
-<AM lemma="člověk" src="auto" recommended="1">NNMP1-----A---1</AM>
+<AM lemma="lidé" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="člověk" src="auto">NNMP5-----A---1</AM>
 </tag>
 </m>
@@ -11099,7 +11099,7 @@
 </w.rf>
 <form>Lidé</form>
 <tag>
-<AM lemma="člověk" src="auto" recommended="1">NNMP1-----A---1</AM>
+<AM lemma="lidé" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="člověk" src="auto">NNMP5-----A---1</AM>
 </tag>
 </m>

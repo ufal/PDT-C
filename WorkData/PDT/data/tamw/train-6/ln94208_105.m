@@ -125,7 +125,7 @@
 <LM>w#w-ln94208-105-p2s1Aw8</LM>
 </w.rf>
 <form>lidé</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP1-----A---1</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln94208-105-p2s1Aw9">
 <src.rf>manual</src.rf>
@@ -249,7 +249,7 @@
 <form>US</form>
 <tag>
 <AM lemma="US-3_:B_;m_,t_^(americký)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="US-2_^(americký)" src="manual" selected="1">AAXXX----1A---b</AM>
+<AM lemma="US-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-105-p2s1Cw5">

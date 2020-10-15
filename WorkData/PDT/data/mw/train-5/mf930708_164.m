@@ -354,7 +354,7 @@
 <LM>w#w-mf930708-164-p4s1w16</LM>
 </w.rf>
 <form>nejbohatších</form>
-<tag lemma="bohatý" src="orig" selected="1">AAIP2----3A----</tag>
+<tag lemma="bohatý" src="orig" selected="1">AAIP2----3A---1</tag>
 </m>
 <m id="m-mf930708-164-p4s1w17">
 <src.rf>manual</src.rf>

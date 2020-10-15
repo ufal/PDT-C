@@ -2389,7 +2389,7 @@
 <LM>w#w-ln95042-028-p2s10w9</LM>
 </w.rf>
 <form>Rus</form>
-<tag lemma="Rus_;E" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rus-1_;E" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95042-028-p2s10w10">
 <src.rf>manual</src.rf>
@@ -2642,7 +2642,7 @@
 <LM>w#w-ln95042-028-p2s11w21</LM>
 </w.rf>
 <form>den</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln95042-028-p2s11w22">
 <src.rf>manual</src.rf>

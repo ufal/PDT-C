@@ -1436,7 +1436,7 @@
 <LM>w#w-mf930701-017-p3s4w18</LM>
 </w.rf>
 <form>vlastně</form>
-<tag lemma="vlastně-2_^(totiž)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="vlastně-2" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf930701-017-p3s4w19">
 <src.rf>manual</src.rf>
@@ -2484,7 +2484,7 @@
 <LM>w#w-mf930701-017-p4s6w1</LM>
 </w.rf>
 <form>Nedávno</form>
-<tag lemma="nedávno-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="dávno-1" src="auto" selected="1">Dg-------1N----</tag>
 </m>
 <m id="m-mf930701-017-p4s6w2">
 <src.rf>manual</src.rf>

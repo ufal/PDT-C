@@ -101,7 +101,7 @@
 <LM>w#w-lnd94104-107-p1s1Bw6</LM>
 </w.rf>
 <form>o</form>
-<tag lemma="o-4_^(graf._oddělovač)" src="orig" selected="1">Z:-------------</tag>
+<tag lemma="o-33" src="orig" selected="1">Q3-------------</tag>
 </m>
 </s>
 <s id="m-lnd94104-107-p1s1C">
@@ -2176,7 +2176,7 @@
 <form>MS</form>
 <tag>
 <AM lemma="MS-3_:B_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="MS-3_^(mistrovství_světa)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="MS-1_^(mistrovství_světa)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-107-p1s12w5">

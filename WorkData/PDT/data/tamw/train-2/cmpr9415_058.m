@@ -4680,7 +4680,7 @@
 <LM>w#w-cmpr9415-058-p16s7w1</LM>
 </w.rf>
 <form>Nedávno</form>
-<tag lemma="nedávno-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="dávno-1" src="auto" selected="1">Dg-------1N----</tag>
 </m>
 <m id="m-cmpr9415-058-p16s7w2">
 <src.rf>manual</src.rf>

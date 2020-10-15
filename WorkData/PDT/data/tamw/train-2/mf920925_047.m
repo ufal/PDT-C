@@ -432,7 +432,7 @@
 <form>Belg</form>
 <tag>
 <AM lemma="Belg_;E" src="orig">NNMS1-----A----</AM>
-<AM lemma="Belgie" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="Belgie_;G" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf920925-047-p2s4w9">

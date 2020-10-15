@@ -111,7 +111,7 @@
 <form>MS</form>
 <tag>
 <AM lemma="MS-3_:B_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="MS-3_^(mistrovství_světa)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="MS-1_^(mistrovství_světa)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-096-p1s2w11">
@@ -410,7 +410,7 @@
 <LM>w#w-lnd94104-096-p1s4w6</LM>
 </w.rf>
 <form>Kanady</form>
-<tag lemma="Kanada_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Kanada_;G_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94104-096-p1s4w7">
 <src.rf>manual</src.rf>
@@ -565,7 +565,7 @@
 <LM>w#w-lnd94104-096-p1s5w1</LM>
 </w.rf>
 <form>Rusové</form>
-<tag lemma="Rus_;E" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="Rus-1_;E" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd94104-096-p1s5w2">
 <src.rf>manual</src.rf>

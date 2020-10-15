@@ -35,7 +35,7 @@
 <LM>w#w-mf930703-009-p1s1w3</LM>
 </w.rf>
 <form>hodiny</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-mf930703-009-p1s1w4">
 <src.rf>manual</src.rf>
@@ -193,7 +193,7 @@
 <LM>w#w-mf930703-009-p4s1w3</LM>
 </w.rf>
 <form>hodiny</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-mf930703-009-p4s1w4">
 <src.rf>manual</src.rf>

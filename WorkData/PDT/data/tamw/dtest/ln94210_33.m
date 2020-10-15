@@ -312,7 +312,7 @@
 <tag>
 <AM lemma="národní_:B" src="orig">AAXXX----1A---8</AM>
 <AM lemma="národní" src="manual">AAXXX----1A---8</AM>
-<AM lemma="národní" src="manual" selected="1">AAXXX----1A---9</AM>
+<AM lemma="n-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94210-33-p2s2Bw18">
@@ -805,7 +805,7 @@
 <form>LN</form>
 <tag>
 <AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="LN-1_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="LN-1_;m_^(Lidové_noviny)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-33-p3s2w14">
@@ -1129,7 +1129,7 @@
 <tag>
 <AM lemma="národní_:B" src="orig">AAXXX----1A---8</AM>
 <AM lemma="národní" src="manual">AAXXX----1A---8</AM>
-<AM lemma="národní" src="manual" selected="1">AAXXX----1A---9</AM>
+<AM lemma="n-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94210-33-p4s1w26">
@@ -1300,7 +1300,7 @@
 <form>n</form>
 <tag>
 <AM lemma="národní_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="národní" src="manual" selected="1">AAXXX----1A---9</AM>
+<AM lemma="n-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94210-33-p4s3w16">
@@ -1421,7 +1421,7 @@
 <form>n</form>
 <tag>
 <AM lemma="národní_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="národní" src="manual" selected="1">AAXXX----1A---9</AM>
+<AM lemma="n-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94210-33-p4s5w6">
@@ -1868,7 +1868,7 @@
 <tag>
 <AM lemma="národní_:B" src="orig">AAXXX----1A---8</AM>
 <AM lemma="národní" src="manual">AAXXX----1A---8</AM>
-<AM lemma="národní" src="manual" selected="1">AAXXX----1A---9</AM>
+<AM lemma="n-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94210-33-p5s1w10">
@@ -2151,7 +2151,7 @@
 <form>LN</form>
 <tag>
 <AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="LN-1_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="LN-1_;m_^(Lidové_noviny)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-33-p5s3w4">
@@ -2424,7 +2424,7 @@
 <form>n</form>
 <tag>
 <AM lemma="národní_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="národní" src="manual" selected="1">AAXXX----1A---9</AM>
+<AM lemma="n-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94210-33-p5s3w37">
@@ -2790,7 +2790,7 @@
 <form>n</form>
 <tag>
 <AM lemma="národní_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="národní" src="manual" selected="1">AAXXX----1A---9</AM>
+<AM lemma="n-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94210-33-p5s6w14">

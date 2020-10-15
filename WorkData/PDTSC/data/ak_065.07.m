@@ -1879,7 +1879,7 @@
 </w.rf>
 <form>lidi</form>
 <tag>
-<AM lemma="člověk" src="auto" selected="1">NNMP1-----A----</AM>
+<AM lemma="lidé" src="auto" selected="1">NNMP1-----A---1</AM>
 <AM lemma="člověk" src="auto" recommended="1">NNMP4-----A----</AM>
 <AM lemma="člověk" src="auto">NNMP5-----A----</AM>
 </tag>
@@ -2330,7 +2330,7 @@
 </w.rf>
 <form>lidi</form>
 <tag>
-<AM lemma="člověk" src="auto" recommended="1">NNMP1-----A----</AM>
+<AM lemma="lidé" src="auto" recommended="1">NNMP1-----A---1</AM>
 <AM lemma="člověk" src="auto">NNMP4-----A----</AM>
 <AM lemma="člověk" src="auto">NNMP5-----A----</AM>
 </tag>
@@ -2960,7 +2960,7 @@
 </w.rf>
 <form>Poláci</form>
 <tag>
-<AM lemma="Polák_;E" src="auto" recommended="1">NNMP1-----A----</AM>
+<AM lemma="Polák_;E_;Y" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="Polák_;E" src="auto">NNMP5-----A----</AM>
 <AM lemma="polák-1_;U" src="auto">NNMP1-----A----</AM>
 <AM lemma="polák-1_;U" src="auto">NNMP5-----A----</AM>

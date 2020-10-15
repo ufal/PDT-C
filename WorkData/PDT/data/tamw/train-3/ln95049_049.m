@@ -3544,7 +3544,7 @@
 <LM>w#w-ln95049-049-p5s1w5</LM>
 </w.rf>
 <form>Pavla</form>
-<tag lemma="Pavel-1_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Pavel_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95049-049-p5s1w6">
 <src.rf>manual</src.rf>
@@ -4666,7 +4666,7 @@
 <LM>w#w-ln95049-049-p5s6w33</LM>
 </w.rf>
 <form>Sparty</form>
-<tag lemma="Sparta_;m" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Sparta_;G_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95049-049-p5s6w34">
 <src.rf>manual</src.rf>

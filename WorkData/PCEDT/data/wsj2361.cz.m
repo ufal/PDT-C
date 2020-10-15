@@ -87,7 +87,7 @@
 <form>show</form>
 <tag>
 <AM lemma="show" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="show-2" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="show-1" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2361-001-p1s0W5-Ta">
@@ -712,7 +712,7 @@
 <form>show</form>
 <tag>
 <AM lemma="show" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="show-2" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="show-1" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2361-001-p1s2W11-Ta">
@@ -4881,7 +4881,7 @@
 <form>show</form>
 <tag>
 <AM lemma="show" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="show-2" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="show-1" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2361-001-p1s13W26-Ta">
@@ -5504,7 +5504,7 @@
 <AM lemma="den-2_,t_^(měnová_jednotka)" src="auto">NNIS4-----A----</AM>
 <AM lemma="den-77_,t" src="auto">F%-------------</AM>
 <AM lemma="den_^(jednotka_času)" src="auto">NNIS1-----A----</AM>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="dna_^(nemoc)" src="auto">NNFP2-----A----</AM>
 <AM lemma="dno_^(např._propasti)" src="auto">NNNP2-----A----</AM>
 </tag>
@@ -7200,7 +7200,7 @@
 <form>show</form>
 <tag>
 <AM lemma="show" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="show-2" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="show-1" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2361-001-p1s20W30-Ta">
@@ -12347,7 +12347,7 @@
 </w.rf>
 <form>lidé</form>
 <tag>
-<AM lemma="člověk" src="auto" recommended="1">NNMP1-----A---1</AM>
+<AM lemma="lidé" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="člověk" src="auto">NNMP5-----A---1</AM>
 </tag>
 </m>
@@ -12789,7 +12789,7 @@
 </w.rf>
 <form>její</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSFXXFS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9FXXFS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSIS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSNS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP1FS3-------</AM>

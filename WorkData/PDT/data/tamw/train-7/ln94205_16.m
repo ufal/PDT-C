@@ -619,7 +619,7 @@
 <LM>w#w-ln94205-16-p3s2w1</LM>
 </w.rf>
 <form>Loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94205-16-p3s2w2">
 <src.rf>manual</src.rf>

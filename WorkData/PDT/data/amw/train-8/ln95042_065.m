@@ -131,7 +131,7 @@
 <LM>w#w-ln95042-065-p2s1Aw6</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_;m_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="LN-1_;m_^(Lidové_noviny)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 </s>
 <s id="m-ln95042-065-p2s1B">
@@ -2405,7 +2405,7 @@
 <LM>w#w-ln95042-065-p5s4w7</LM>
 </w.rf>
 <form>vlastně</form>
-<tag lemma="vlastně-2_^(totiž)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="vlastně-2" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln95042-065-p5s4w8">
 <src.rf>manual</src.rf>

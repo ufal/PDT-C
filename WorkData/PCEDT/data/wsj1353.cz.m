@@ -1740,7 +1740,7 @@
 </w.rf>
 <form>LIDÉ</form>
 <tag>
-<AM lemma="člověk" src="auto" recommended="1">NNMP1-----A---1</AM>
+<AM lemma="lidé" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="člověk" src="auto">NNMP5-----A---1</AM>
 </tag>
 </m>
@@ -5349,7 +5349,7 @@
 <form>hodiny</form>
 <tag>
 <AM lemma="hodina_^(jednotka_času)" src="auto">NNFP1-----A----</AM>
-<AM lemma="hodina_^(jednotka_času)" src="auto" recommended="1">NNFP4-----A----</AM>
+<AM lemma="hodina" src="auto" recommended="1">NNFP4-----A----</AM>
 <AM lemma="hodina_^(jednotka_času)" src="auto">NNFP5-----A----</AM>
 <AM lemma="hodina_^(jednotka_času)" src="auto">NNFS2-----A----</AM>
 <AM lemma="hodiny_^(přístroj)" src="auto">NNFP1-----A----</AM>

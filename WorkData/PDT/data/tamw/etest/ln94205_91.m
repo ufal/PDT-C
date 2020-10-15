@@ -526,7 +526,7 @@
 <LM>w#w-ln94205-91-p2s2w1</LM>
 </w.rf>
 <form>Dále</form>
-<tag lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="orig" selected="1">Db------------1</tag>
+<tag lemma="dále-3_^(také,_za_další)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94205-91-p2s2w2">
 <src.rf>manual</src.rf>
@@ -1152,7 +1152,7 @@
 <LM>w#w-ln94205-91-p2s5w24</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_;m_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="LN-1_;m_^(Lidové_noviny)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94205-91-p2s5w25">
 <src.rf>manual</src.rf>
@@ -1599,7 +1599,7 @@
 <LM>w#w-ln94205-91-p4s1w3</LM>
 </w.rf>
 <form>dále</form>
-<tag lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="orig" selected="1">Db------------1</tag>
+<tag lemma="dále-3_^(také,_za_další)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94205-91-p4s1w4">
 <src.rf>manual</src.rf>
@@ -3891,7 +3891,7 @@
 <LM>w#w-ln94205-91-p6s2w32</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9FXXFS3-------</tag>
 </m>
 <m id="m-ln94205-91-p6s2w33">
 <src.rf>manual</src.rf>

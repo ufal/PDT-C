@@ -2793,7 +2793,7 @@
 <LM>w#w-cmpr9415-046-p13s1w29</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9FXXFS3-------</tag>
 </m>
 <m id="m-cmpr9415-046-p13s1w30">
 <src.rf>manual</src.rf>

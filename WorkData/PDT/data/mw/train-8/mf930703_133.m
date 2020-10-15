@@ -436,7 +436,7 @@
 <LM>w#w-mf930703-133-p2s3w11</LM>
 </w.rf>
 <form>pasy</form>
-<tag lemma="pas-1_^(př._cestovní)" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="pas-1_^(přihrávka,_př._v_kopané,na_lidském_těle;;cestovní)" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-mf930703-133-p2s3w12">
 <src.rf>manual</src.rf>
@@ -1145,7 +1145,7 @@
 <LM>w#w-mf930703-133-p3s5w1</LM>
 </w.rf>
 <form>dále</form>
-<tag lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="orig" selected="1">Db------------1</tag>
+<tag lemma="dále-3_^(také,_za_další)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf930703-133-p3s5w2">
 <src.rf>manual</src.rf>

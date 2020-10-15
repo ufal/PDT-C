@@ -2359,7 +2359,7 @@
 <form>r</form>
 <tag>
 <AM lemma="režie_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="režie" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="r-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-050-p5s4w32">
@@ -2889,7 +2889,7 @@
 <form>r</form>
 <tag>
 <AM lemma="režie_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="režie" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="r-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-050-p6s1w15">

@@ -671,7 +671,7 @@
 <LM>w#w-mf930713-071-p2s3w28</LM>
 </w.rf>
 <form>lidé</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP1-----A---1</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf930713-071-p2s3w29">
 <src.rf>manual</src.rf>

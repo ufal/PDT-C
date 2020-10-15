@@ -431,7 +431,7 @@
 <tag>
 <AM lemma="přece" src="orig">Db------------1</AM>
 <AM lemma="přece-1" src="auto" recommended="1">J^------------1</AM>
-<AM lemma="přece-2" src="auto" selected="1">TT------------1</AM>
+<AM lemma="přeci-2_,h_^(^GC**přece-2)" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92251-115-p2s3w22">

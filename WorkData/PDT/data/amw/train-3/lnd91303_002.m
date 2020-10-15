@@ -999,7 +999,7 @@
 <LM>w#w-lnd91303-002-p4s1w2</LM>
 </w.rf>
 <form>Pavla</form>
-<tag lemma="Pavel-1_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Pavel_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd91303-002-p4s1w3">
 <src.rf>manual</src.rf>

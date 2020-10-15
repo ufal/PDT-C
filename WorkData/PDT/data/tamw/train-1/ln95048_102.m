@@ -993,7 +993,7 @@
 <LM>w#w-ln95048-102-p2s4w28</LM>
 </w.rf>
 <form>stál</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95048-102-p2s4w29">
 <src.rf>manual</src.rf>
@@ -4138,7 +4138,7 @@
 <LM>w#w-ln95048-102-p6s1Aw9</LM>
 </w.rf>
 <form>spíš</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="spíš" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln95048-102-p6s1Aw10">
 <src.rf>manual</src.rf>
@@ -8660,7 +8660,7 @@
 <form>dr</form>
 <tag>
 <AM lemma="doktor_:B_^(doktor,_akad._titul)" src="orig">NNMXX-----A---8</AM>
-<AM lemma="dr_^(doktor)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="dr_^(doktor,_akad._titul)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-102-p10s6w32">

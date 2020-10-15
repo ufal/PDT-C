@@ -313,7 +313,7 @@
 <LM>w#w-ln95045-020-p2s2w19</LM>
 </w.rf>
 <form>Dublinu</form>
-<tag lemma="Dublin_;G" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Dublin_;G" src="orig" selected="1">NNIS6-----A---1</tag>
 </m>
 <m id="m-ln95045-020-p2s2w20">
 <src.rf>manual</src.rf>
@@ -680,7 +680,7 @@
 <LM>w#w-ln95045-020-p2s4w9</LM>
 </w.rf>
 <form>Dublinu</form>
-<tag lemma="Dublin_;G" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Dublin_;G" src="orig" selected="1">NNIS6-----A---1</tag>
 </m>
 <m id="m-ln95045-020-p2s4w10">
 <src.rf>manual</src.rf>

@@ -1226,7 +1226,7 @@
 <LM>w#w-vesm9303-051-p4s3w24</LM>
 </w.rf>
 <form>stálo</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VpNS----R-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-vesm9303-051-p4s3w25">
 <src.rf>manual</src.rf>
@@ -5780,7 +5780,7 @@
 <LM>w#w-vesm9303-051-p11s3w21</LM>
 </w.rf>
 <form>AV</form>
-<tag lemma="AV_;m_^(Akademie_věd)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="AV_;m_^(Akademie_věd)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-vesm9303-051-p11s3w22">
 <src.rf>manual</src.rf>

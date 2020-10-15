@@ -1943,7 +1943,7 @@
 <form>Virginia</form>
 <tag>
 <AM lemma="Virginia_;G" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Virginia-2_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Virginie_;G_;Y" src="manual" selected="1">NNFS1-----A---1</AM>
 </tag>
 </m>
 <m id="m-wsj0269-001-p1s5W2-Ta">

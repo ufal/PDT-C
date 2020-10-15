@@ -711,7 +711,7 @@
 <LM>w#w-ln95049-140-p3s1w32</LM>
 </w.rf>
 <form>Kanadě</form>
-<tag lemma="Kanada_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Kanada_;G_;m" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln95049-140-p3s1w33">
 <src.rf>manual</src.rf>

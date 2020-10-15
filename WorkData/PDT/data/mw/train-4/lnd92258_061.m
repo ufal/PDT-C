@@ -314,7 +314,7 @@
 <form>Boeing</form>
 <tag>
 <AM lemma="boeing_;m_,t_^(letadlo)" src="auto">NNIS1-----A----</AM>
-<AM lemma="boeing_;m_^(letadlo)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Boeing_;m_^(letadlo)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-061-p2s1w4">

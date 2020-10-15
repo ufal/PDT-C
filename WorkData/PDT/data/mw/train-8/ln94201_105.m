@@ -3180,7 +3180,7 @@
 <LM>w#w-ln94201-105-p6s3w19</LM>
 </w.rf>
 <form>panu</form>
-<tag lemma="pan_^(oslovení)" src="auto" selected="1">NNMS3-----A----</tag>
+<tag lemma="pan" src="auto" selected="1">NNMS3-----A---1</tag>
 </m>
 <m id="m-ln94201-105-p6s3w20">
 <src.rf>manual</src.rf>

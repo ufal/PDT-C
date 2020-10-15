@@ -2304,7 +2304,7 @@
 <LM>w#w-mu_11-SCzechM-p1114-s1-w15</LM>
 </w.rf>
 <form>show</form>
-<tag lemma="show" recommended="1">NNFXX-----A----</tag>
+<tag lemma="show-1" recommended="1">NNXXX-----A----</tag>
 </m>
 <m id="mu_11-SCzechM-p1114-s1-w16">
 <w.rf>
@@ -4114,7 +4114,7 @@
 <AM lemma="den_^(jednotka_času)" recommended="1">NNIS1-----A----</AM>
 <AM lemma="den-2_,t_^(měnová_jednotka)">NNIS1-----A----</AM>
 <AM lemma="den-2_,t_^(měnová_jednotka)">NNIS4-----A----</AM>
-<AM lemma="den_^(jednotka_času)" selected="1">NNIS4-----A----</AM>
+<AM lemma="den-1_^(jednotka_času)" selected="1">NNIS4-----A----</AM>
 <AM lemma="dna_^(nemoc)">NNFP2-----A----</AM>
 <AM lemma="dno_^(např._propasti)">NNNP2-----A----</AM>
 </tag>

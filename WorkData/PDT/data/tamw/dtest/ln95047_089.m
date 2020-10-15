@@ -682,7 +682,7 @@
 <LM>w#w-ln95047-089-p2s5w9</LM>
 </w.rf>
 <form>Poláci</form>
-<tag lemma="Polák_;E" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="Polák_;E_;Y" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln95047-089-p2s5w10">
 <src.rf>manual</src.rf>

@@ -21,7 +21,7 @@
 <form>US</form>
 <tag>
 <AM lemma="US-1_:B_;m_,t_^(letecká_společnost_Usair)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="US-2_^(americký)" src="manual" selected="1">BAXXX----1A----</AM>
+<AM lemma="US-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-095-p1s1w2">

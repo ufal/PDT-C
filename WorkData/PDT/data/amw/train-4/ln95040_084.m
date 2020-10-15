@@ -385,7 +385,7 @@
 <LM>w#w-ln95040-084-p2s2w2</LM>
 </w.rf>
 <form>dále</form>
-<tag lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="orig" selected="1">Db------------1</tag>
+<tag lemma="dále-3_^(také,_za_další)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95040-084-p2s2w3">
 <src.rf>manual</src.rf>
@@ -683,7 +683,7 @@
 <LM>w#w-ln95040-084-p2s3w11</LM>
 </w.rf>
 <form>Dublinu</form>
-<tag lemma="Dublin_;G" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Dublin_;G" src="orig" selected="1">NNIS6-----A---1</tag>
 </m>
 <m id="m-ln95040-084-p2s3w12">
 <src.rf>manual</src.rf>

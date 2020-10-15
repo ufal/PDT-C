@@ -19,7 +19,7 @@
 <LM>w#w-ln95043-004-p1s1w1</LM>
 </w.rf>
 <form>Člen</form>
-<tag lemma="člen" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95043-004-p1s1w2">
 <src.rf>manual</src.rf>

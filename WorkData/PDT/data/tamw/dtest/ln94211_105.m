@@ -279,7 +279,7 @@
 <LM>w#w-ln94211-105-p2s2w1</LM>
 </w.rf>
 <form>Role</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="role_^(svitek_poslání_pozemek)" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-ln94211-105-p2s2w2">
 <src.rf>manual</src.rf>
@@ -880,7 +880,7 @@
 <LM>w#w-ln94211-105-p3s3w9</LM>
 </w.rf>
 <form>spíš</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="spíš" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94211-105-p3s3w10">
 <src.rf>manual</src.rf>

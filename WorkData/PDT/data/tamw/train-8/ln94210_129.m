@@ -934,7 +934,7 @@
 <LM>w#w-ln94210-129-p3s4w4</LM>
 </w.rf>
 <form>vlastně</form>
-<tag lemma="vlastně-2_^(totiž)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="vlastně-2" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94210-129-p3s4w5">
 <src.rf>manual</src.rf>
@@ -1557,7 +1557,7 @@
 <LM>w#w-ln94210-129-p4s2w9</LM>
 </w.rf>
 <form>Rus</form>
-<tag lemma="Rus_;E" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rus-1_;E" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94210-129-p4s2w10">
 <src.rf>manual</src.rf>

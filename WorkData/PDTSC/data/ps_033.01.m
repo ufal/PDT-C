@@ -1073,7 +1073,7 @@
 <AM lemma="Ambra_;m" src="auto" recommended="1">NNFS6-----A----</AM>
 <AM lemma="ambra" src="auto">NNFS3-----A----</AM>
 <AM lemma="ambra" src="auto">NNFS6-----A----</AM>
-<AM lemma="Ambra_;G_;m" src="manual" selected="1">NNFS6-----A----</AM>
+<AM lemma="Ambra-1_;G_;Y_;m" src="manual" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m033-d1t384-16">
@@ -1357,7 +1357,7 @@
 </w.rf>
 <form>lidi</form>
 <tag>
-<AM lemma="člověk" src="auto" recommended="1">NNMP1-----A----</AM>
+<AM lemma="lidé" src="auto" recommended="1">NNMP1-----A---1</AM>
 <AM lemma="člověk" src="auto">NNMP4-----A----</AM>
 <AM lemma="člověk" src="auto">NNMP5-----A----</AM>
 </tag>

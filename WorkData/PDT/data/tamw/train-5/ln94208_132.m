@@ -239,7 +239,7 @@
 <LM>w#w-ln94208-132-p2s1Dw3</LM>
 </w.rf>
 <form>hodiny</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-ln94208-132-p2s1Dw4">
 <src.rf>manual</src.rf>

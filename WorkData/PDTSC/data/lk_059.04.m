@@ -1501,7 +1501,7 @@
 <AM lemma="Kanada_;G" src="auto">NNFP1-----A----</AM>
 <AM lemma="Kanada_;G" src="auto">NNFP4-----A----</AM>
 <AM lemma="Kanada_;G" src="auto">NNFP5-----A----</AM>
-<AM lemma="Kanada_;G" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="Kanada_;G_;m" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="kanada_^(voj._bota)" src="auto">NNFP1-----A----</AM>
 <AM lemma="kanada_^(voj._bota)" src="auto">NNFP4-----A----</AM>
 <AM lemma="kanada_^(voj._bota)" src="auto">NNFP5-----A----</AM>
@@ -2956,7 +2956,7 @@
 <AM lemma="Kanada_;G" src="auto">NNFP1-----A----</AM>
 <AM lemma="Kanada_;G" src="auto">NNFP4-----A----</AM>
 <AM lemma="Kanada_;G" src="auto">NNFP5-----A----</AM>
-<AM lemma="Kanada_;G" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="Kanada_;G_;m" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="kanada_^(voj._bota)" src="auto">NNFP1-----A----</AM>
 <AM lemma="kanada_^(voj._bota)" src="auto">NNFP4-----A----</AM>
 <AM lemma="kanada_^(voj._bota)" src="auto">NNFP5-----A----</AM>
@@ -3126,7 +3126,7 @@
 <AM lemma="Kanada_;G" src="auto">NNFP1-----A----</AM>
 <AM lemma="Kanada_;G" src="auto">NNFP4-----A----</AM>
 <AM lemma="Kanada_;G" src="auto">NNFP5-----A----</AM>
-<AM lemma="Kanada_;G" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="Kanada_;G_;m" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="kanada_^(voj._bota)" src="auto">NNFP1-----A----</AM>
 <AM lemma="kanada_^(voj._bota)" src="auto">NNFP4-----A----</AM>
 <AM lemma="kanada_^(voj._bota)" src="auto">NNFP5-----A----</AM>
@@ -3630,7 +3630,7 @@
 <form>vlastně</form>
 <tag>
 <AM lemma="vlastnit_^(někdo_má_něco_ve_vlastnictví)" src="auto">VeYS------A-I--</AM>
-<AM lemma="vlastně-2_^(totiž)" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="vlastně-2" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="vlastně-3" src="auto">TT-------------</AM>
 <AM lemma="vlastně_^(příslušný_k_něčemu)_(*1í)" src="auto">Dg-------1A----</AM>
 </tag>

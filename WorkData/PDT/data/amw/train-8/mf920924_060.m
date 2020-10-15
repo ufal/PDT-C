@@ -378,7 +378,7 @@
 <LM>w#w-mf920924-060-p2s2w30</LM>
 </w.rf>
 <form>Show</form>
-<tag lemma="show" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="show-1" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-mf920924-060-p2s2w31">
 <src.rf>manual</src.rf>
@@ -1842,7 +1842,7 @@
 <LM>w#w-mf920924-060-p2s11w18</LM>
 </w.rf>
 <form>Show</form>
-<tag lemma="show" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="show-1" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-mf920924-060-p2s11w19">
 <src.rf>manual</src.rf>

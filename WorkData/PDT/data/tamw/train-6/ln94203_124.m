@@ -2778,7 +2778,7 @@
 <LM>w#w-ln94203-124-p4s6w12</LM>
 </w.rf>
 <form>Spartě</form>
-<tag lemma="Sparta_;m" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Sparta_;G_;m" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94203-124-p4s6w13">
 <src.rf>manual</src.rf>
@@ -3254,7 +3254,7 @@
 <LM>w#w-ln94203-124-p4s9w5</LM>
 </w.rf>
 <form>stát</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94203-124-p4s9w6">
 <src.rf>manual</src.rf>

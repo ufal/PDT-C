@@ -1732,7 +1732,7 @@
 <LM>w#w-cmpr9416-022-p7s4w8</LM>
 </w.rf>
 <form>stál</form>
-<tag lemma="stát-4_^(něco_stojí_peníze)" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-cmpr9416-022-p7s4w9">
 <src.rf>manual</src.rf>

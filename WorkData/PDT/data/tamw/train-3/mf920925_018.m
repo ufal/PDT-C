@@ -566,7 +566,7 @@
 <LM>w#w-mf920925-018-p2s4Aw9</LM>
 </w.rf>
 <form>lidi</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP1-----A---1</tag>
 </m>
 <m id="m-mf920925-018-p2s4Aw10">
 <src.rf>manual</src.rf>
@@ -964,7 +964,7 @@
 <LM>w#w-mf920925-018-p2s7w16</LM>
 </w.rf>
 <form>Lidi</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP1-----A---1</tag>
 </m>
 <m id="m-mf920925-018-p2s7w17">
 <src.rf>manual</src.rf>

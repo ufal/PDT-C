@@ -19,7 +19,7 @@
 <LM>w#w-ln94200-132-p1s1w1</LM>
 </w.rf>
 <form>Show</form>
-<tag lemma="show" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="show-1" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln94200-132-p1s1w2">
 <src.rf>manual</src.rf>

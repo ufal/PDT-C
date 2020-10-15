@@ -1132,7 +1132,7 @@
 <LM>w#w-lnd92252-067-p6s1Aw9</LM>
 </w.rf>
 <form>SR</form>
-<tag lemma="SR-1_;G_^(Slovenská_republika)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="SR_;G_^(Slovenská_republika)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd92252-067-p6s1Aw10">
 <src.rf>manual</src.rf>
@@ -2778,7 +2778,7 @@
 <LM>w#w-lnd92252-067-p18s1w8</LM>
 </w.rf>
 <form>Den</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92252-067-p18s1w9">
 <src.rf>manual</src.rf>

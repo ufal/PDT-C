@@ -4555,7 +4555,7 @@
 </w.rf>
 <form>bydlí</form>
 <tag>
-<AM lemma="bydlet" src="auto" selected="1">VB-P---3P-AAI--</AM>
+<AM lemma="bydlet" src="auto" selected="1">VB-P---3P-AAI-1</AM>
 <AM lemma="bydlet" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
@@ -4724,7 +4724,7 @@
 </w.rf>
 <form>Vánoce</form>
 <tag>
-<AM lemma="Vánoce" src="auto" recommended="1">NNFP1-----A----</AM>
+<AM lemma="Vánoce_;m" src="auto" recommended="1">NNFP1-----A----</AM>
 <AM lemma="Vánoce" src="auto">NNFP4-----A----</AM>
 <AM lemma="Vánoce" src="auto">NNFP5-----A----</AM>
 <AM lemma="Vánoce" src="auto">NNFP6-----A---6</AM>

@@ -534,7 +534,7 @@
 <AM lemma="Vánoce_,x" src="auto" recommended="1">NNFP4-----A----</AM>
 <AM lemma="Vánoce_,x" src="auto">NNFP5-----A----</AM>
 <AM lemma="Vánoce_,x" src="auto">NNFP6-----A---6</AM>
-<AM lemma="Vánoce" src="manual" selected="1">NNFP4-----A----</AM>
+<AM lemma="Vánoce_;m" src="manual" selected="1">NNFP4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-61-p3s1w12">
@@ -647,7 +647,7 @@
 <LM>w#w-ln94205-61-p3s1w26</LM>
 </w.rf>
 <form>lidé</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP1-----A---1</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln94205-61-p3s1w27">
 <src.rf>manual</src.rf>

@@ -47,7 +47,7 @@
 <LM>w#w-lnd92258-058-p1s1w4</LM>
 </w.rf>
 <form>Den</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92258-058-p1s1w5">
 <src.rf>manual</src.rf>
@@ -206,7 +206,7 @@
 <LM>w#w-lnd92258-058-p3s1w7</LM>
 </w.rf>
 <form>den</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-lnd92258-058-p3s1w8">
 <src.rf>manual</src.rf>
@@ -1074,7 +1074,7 @@
 <LM>w#w-lnd92258-058-p4s2w31</LM>
 </w.rf>
 <form>hodiny</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-lnd92258-058-p4s2w32">
 <src.rf>manual</src.rf>
@@ -1652,7 +1652,7 @@
 <form>George</form>
 <tag>
 <AM lemma="George_;Y_,t" src="orig">NNMS2-----A----</AM>
-<AM lemma="George_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="George_;Y" src="manual" selected="1">NNMS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-lnd92258-058-p5s2w5">
@@ -4395,7 +4395,7 @@
 <LM>w#w-lnd92258-058-p7s4w5</LM>
 </w.rf>
 <form>den</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-lnd92258-058-p7s4w6">
 <src.rf>manual</src.rf>
@@ -5824,7 +5824,7 @@
 <form>George</form>
 <tag>
 <AM lemma="George_;Y_,t" src="orig">NNMS4-----A----</AM>
-<AM lemma="George_;Y" src="manual" selected="1">NNMS4-----A----</AM>
+<AM lemma="George_;Y" src="manual" selected="1">NNMS4-----A---1</AM>
 </tag>
 </m>
 <m id="m-lnd92258-058-p9s2w25">
@@ -6805,7 +6805,7 @@
 <form>George</form>
 <tag>
 <AM lemma="George_;Y_,t" src="orig">NNMS2-----A----</AM>
-<AM lemma="George_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="George_;Y" src="manual" selected="1">NNMS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-lnd92258-058-p10s3w20">
@@ -8193,7 +8193,7 @@
 <form>LN</form>
 <tag>
 <AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="LN-1_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="LN-1_;m_^(Lidové_noviny)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-058-p12s2w7">
@@ -8295,7 +8295,7 @@
 <form>George</form>
 <tag>
 <AM lemma="George_;Y_,t" src="orig">NNMS2-----A----</AM>
-<AM lemma="George_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="George_;Y" src="manual" selected="1">NNMS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-lnd92258-058-p12s2w19">

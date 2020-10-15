@@ -2906,7 +2906,7 @@
 <form>Vánoce</form>
 <tag>
 <AM lemma="Vánoce" src="auto">NNFP1-----A----</AM>
-<AM lemma="Vánoce" src="auto" recommended="1">NNFP4-----A----</AM>
+<AM lemma="Vánoce_;m" src="auto" recommended="1">NNFP4-----A----</AM>
 <AM lemma="Vánoce" src="auto">NNFP5-----A----</AM>
 <AM lemma="Vánoce" src="auto">NNFP6-----A---6</AM>
 <AM lemma="vánoce_^(^DS**Vánoce)" src="auto">NNFP1-----A----</AM>
@@ -4159,7 +4159,7 @@
 <form>Vánoce</form>
 <tag>
 <AM lemma="Vánoce" src="auto">NNFP1-----A----</AM>
-<AM lemma="Vánoce" src="auto" recommended="1">NNFP4-----A----</AM>
+<AM lemma="Vánoce_;m" src="auto" recommended="1">NNFP4-----A----</AM>
 <AM lemma="Vánoce" src="auto">NNFP5-----A----</AM>
 <AM lemma="Vánoce" src="auto">NNFP6-----A---6</AM>
 <AM lemma="vánoce_^(^DS**Vánoce)" src="auto">NNFP1-----A----</AM>
@@ -5030,7 +5030,7 @@
 </w.rf>
 <form>Vánocům</form>
 <tag>
-<AM lemma="Vánoce" src="auto" recommended="1">NNIP3-----A----</AM>
+<AM lemma="Vánoce_;m" src="auto" recommended="1">NNFP3-----A----</AM>
 <AM lemma="vánoce_^(^DS**Vánoce)" src="auto">NNIP3-----A----</AM>
 </tag>
 </m>
@@ -5945,7 +5945,7 @@
 </w.rf>
 <form>Vánoce</form>
 <tag>
-<AM lemma="Vánoce" src="auto" recommended="1">NNFP1-----A----</AM>
+<AM lemma="Vánoce_;m" src="auto" recommended="1">NNFP1-----A----</AM>
 <AM lemma="Vánoce" src="auto">NNFP4-----A----</AM>
 <AM lemma="Vánoce" src="auto">NNFP5-----A----</AM>
 <AM lemma="Vánoce" src="auto">NNFP6-----A---6</AM>

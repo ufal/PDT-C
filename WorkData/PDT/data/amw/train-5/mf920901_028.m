@@ -842,7 +842,7 @@
 <LM>w#w-mf920901-028-p3s2w12</LM>
 </w.rf>
 <form>lidé</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP1-----A---1</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf920901-028-p3s2w13">
 <src.rf>manual</src.rf>
@@ -1050,7 +1050,7 @@
 <LM>w#w-mf920901-028-p3s2w38</LM>
 </w.rf>
 <form>kostele</form>
-<tag lemma="kostel" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="kostel" src="orig" selected="1">NNIS6-----A---1</tag>
 </m>
 <m id="m-mf920901-028-p3s2w39">
 <src.rf>manual</src.rf>

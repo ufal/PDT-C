@@ -679,7 +679,7 @@
 <tag>
 <AM lemma="Akropolis_;G" src="auto">NNFS3-----A----</AM>
 <AM lemma="Akropolis_;G" src="auto">NNFS4-----A----</AM>
-<AM lemma="Akropolis_;G" src="auto" selected="1">NNFS6-----A----</AM>
+<AM lemma="Akropole_;G_,s_^(^DD**Akropolis-1)" src="auto" selected="1">NNFS6-----A----</AM>
 <AM lemma="akropole" src="auto">NNFS3-----A----</AM>
 <AM lemma="akropole" src="auto">NNFS4-----A----</AM>
 <AM lemma="akropole" src="auto" recommended="1">NNFS6-----A----</AM>
@@ -3802,7 +3802,7 @@
 <form>hodiny</form>
 <tag>
 <AM lemma="hodina_^(jednotka_času)" src="auto">NNFP1-----A----</AM>
-<AM lemma="hodina_^(jednotka_času)" src="auto" recommended="1">NNFP4-----A----</AM>
+<AM lemma="hodina" src="auto" recommended="1">NNFP4-----A----</AM>
 <AM lemma="hodina_^(jednotka_času)" src="auto">NNFP5-----A----</AM>
 <AM lemma="hodina_^(jednotka_času)" src="auto">NNFS2-----A----</AM>
 <AM lemma="hodiny_^(přístroj)" src="auto">NNFP1-----A----</AM>

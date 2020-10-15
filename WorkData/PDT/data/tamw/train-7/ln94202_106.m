@@ -59,7 +59,7 @@
 <LM>w#w-ln94202-106-p1s1w6</LM>
 </w.rf>
 <form>Viktorie</form>
-<tag lemma="Viktoria-2_;m_^(jméno_sport.klubu)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Viktoria_;Y_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 </s>
 <s id="m-ln94202-106-p2s1">
@@ -3748,7 +3748,7 @@
 <LM>w#w-ln94202-106-p7s6w4</LM>
 </w.rf>
 <form>Švédové</form>
-<tag lemma="Švéd_;E" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="Švéd_;E_;Y" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln94202-106-p7s6w5">
 <src.rf>manual</src.rf>
@@ -4059,7 +4059,7 @@
 <LM>w#w-ln94202-106-p7s7w13</LM>
 </w.rf>
 <form>Rus</form>
-<tag lemma="Rus_;E" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rus-1_;E" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94202-106-p7s7w14">
 <src.rf>manual</src.rf>
@@ -4680,7 +4680,7 @@
 <form>MS</form>
 <tag>
 <AM lemma="MS-3_:B_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="MS-3_^(mistrovství_světa)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="MS-1_^(mistrovství_světa)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-106-p8s4w8">
@@ -5037,7 +5037,7 @@
 <LM>w#w-ln94202-106-p8s7w3</LM>
 </w.rf>
 <form>Spartě</form>
-<tag lemma="Sparta_;m" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="Sparta_;G_;m" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-ln94202-106-p8s7w4">
 <src.rf>manual</src.rf>
@@ -5112,7 +5112,7 @@
 <LM>w#w-ln94202-106-p8s7w12</LM>
 </w.rf>
 <form>Sparty</form>
-<tag lemma="Sparta_;m" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Sparta_;G_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94202-106-p8s7w13">
 <src.rf>manual</src.rf>
@@ -5128,7 +5128,7 @@
 <LM>w#w-ln94202-106-p8s7w14</LM>
 </w.rf>
 <form>Viktorie</form>
-<tag lemma="Viktoria-2_;m_^(jméno_sport.klubu)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Viktoria_;Y_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94202-106-p8s7w15">
 <src.rf>manual</src.rf>

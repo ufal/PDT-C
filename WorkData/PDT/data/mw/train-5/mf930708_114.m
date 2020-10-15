@@ -256,7 +256,7 @@
 <LM>w#w-mf930708-114-p2s1w25</LM>
 </w.rf>
 <form>panu</form>
-<tag lemma="pan_^(oslovení)" src="auto" selected="1">NNMS3-----A----</tag>
+<tag lemma="pan" src="auto" selected="1">NNMS3-----A---1</tag>
 </m>
 <m id="m-mf930708-114-p2s1w26">
 <src.rf>manual</src.rf>

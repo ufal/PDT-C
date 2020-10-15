@@ -1979,7 +1979,7 @@
 </w.rf>
 <form>Vánocům</form>
 <tag>
-<AM lemma="Vánoce" src="auto" recommended="1" selected="1">NNIP3-----A----</AM>
+<AM lemma="Vánoce_;m" src="auto" recommended="1" selected="1">NNFP3-----A----</AM>
 <AM lemma="vánoce_^(^DS**Vánoce)" src="auto">NNIP3-----A----</AM>
 </tag>
 </m>

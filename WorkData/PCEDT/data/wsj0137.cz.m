@@ -4635,7 +4635,7 @@
 <AM lemma="den-2_,t_^(měnová_jednotka)" src="auto">NNIS4-----A----</AM>
 <AM lemma="den-77_,t" src="auto">F%-------------</AM>
 <AM lemma="den_^(jednotka_času)" src="auto">NNIS1-----A----</AM>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="dna_^(nemoc)" src="auto">NNFP2-----A----</AM>
 <AM lemma="dno_^(např._propasti)" src="auto">NNNP2-----A----</AM>
 </tag>
@@ -7023,7 +7023,7 @@
 <AM lemma="den-2_,t_^(měnová_jednotka)" src="auto">NNIS4-----A----</AM>
 <AM lemma="den-77_,t" src="auto">F%-------------</AM>
 <AM lemma="den_^(jednotka_času)" src="auto">NNIS1-----A----</AM>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="dna_^(nemoc)" src="auto">NNFP2-----A----</AM>
 <AM lemma="dno_^(např._propasti)" src="auto">NNNP2-----A----</AM>
 </tag>
@@ -9388,7 +9388,7 @@
 </w.rf>
 <form>Jaguár</form>
 <tag>
-<AM lemma="Jaguár_;m" src="auto" selected="1">NNIS1-----A----</AM>
+<AM lemma="Jaguár_;m_^(vozidlo)" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="Jaguár_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="jaguár-1_^(zvíře)" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="jaguár-2_;m_^(vozidlo)" src="auto">NNIS1-----A----</AM>
@@ -10297,7 +10297,7 @@
 </w.rf>
 <form>její</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSFXXFS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9FXXFS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSIS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSNS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP1FS3-------</AM>
@@ -11600,7 +11600,7 @@
 </w.rf>
 <form>Jaguár</form>
 <tag>
-<AM lemma="Jaguár_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Jaguár_;m_^(vozidlo)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Jaguár_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="jaguár-1_^(zvíře)" src="auto">NNMS1-----A----</AM>
 <AM lemma="jaguár-2_;m_^(vozidlo)" src="auto">NNIS1-----A----</AM>

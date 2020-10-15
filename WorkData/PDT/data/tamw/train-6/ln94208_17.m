@@ -5894,7 +5894,7 @@
 <LM>w#w-ln94208-17-p14s2w22</LM>
 </w.rf>
 <form>den</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln94208-17-p14s2w23">
 <src.rf>manual</src.rf>

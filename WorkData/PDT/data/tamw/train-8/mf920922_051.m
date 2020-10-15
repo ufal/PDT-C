@@ -267,7 +267,7 @@
 <LM>w#w-mf920922-051-p2s1w19</LM>
 </w.rf>
 <form>autokrosu</form>
-<tag lemma="autokros" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="autokros" src="orig" selected="1">NNIS6-----A---1</tag>
 </m>
 <m id="m-mf920922-051-p2s1w20">
 <src.rf>manual</src.rf>

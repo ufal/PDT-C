@@ -222,7 +222,7 @@
 <form>Hodně</form>
 <tag>
 <AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
-<AM lemma="hodně-1_^(hodně_+_2._p.,_hodně_peněz)" src="manual" selected="1">Ca--1----------</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln95044-125-p2s2w3">

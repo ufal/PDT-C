@@ -289,7 +289,7 @@
 <LM>w#w-ln95047-086-p2s2w20</LM>
 </w.rf>
 <form>moc</form>
-<tag lemma="moc-2_^(mnoho_něčeho_[se_subst._v_gen.])" src="orig" selected="1">Ca--X----------</tag>
+<tag lemma="moc-3_^(moc_hezká,_moc_peněz)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95047-086-p2s2w21">
 <src.rf>manual</src.rf>
@@ -2122,7 +2122,7 @@
 <LM>w#w-ln95047-086-p5s2w20</LM>
 </w.rf>
 <form>Pavla</form>
-<tag lemma="Pavel-1_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Pavel_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95047-086-p5s2w21">
 <src.rf>manual</src.rf>
@@ -2540,7 +2540,7 @@
 <LM>w#w-ln95047-086-p5s4w7</LM>
 </w.rf>
 <form>lidé</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP1-----A---1</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln95047-086-p5s4w8">
 <src.rf>manual</src.rf>

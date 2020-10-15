@@ -586,7 +586,7 @@
 <LM>w#w-lnd92254-016-p2s2w3</LM>
 </w.rf>
 <form>Mazda</form>
-<tag lemma="Mazda_;m" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Mazda-1_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92254-016-p2s2w4">
 <src.rf>manual</src.rf>

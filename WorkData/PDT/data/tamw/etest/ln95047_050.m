@@ -611,7 +611,7 @@
 <LM>w#w-ln95047-050-p2s4w10</LM>
 </w.rf>
 <form>Davidem</form>
-<tag lemma="David_;Y" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="David-1_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95047-050-p2s4w11">
 <src.rf>manual</src.rf>

@@ -887,7 +887,7 @@
 <form>ml</form>
 <tag>
 <AM lemma="mladý_:B" src="orig">AAXXX----2A---8</AM>
-<AM lemma="mladý" src="manual" selected="1">AAXXX----2A---8</AM>
+<AM lemma="mladý" src="manual" selected="1">AAXXX----2A---b</AM>
 </tag>
 </m>
 <m id="m-mf930701-046-p2s3w27">
@@ -1221,7 +1221,7 @@
 <LM>w#w-mf930701-046-p2s4w2</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9FXXFS3-------</tag>
 </m>
 <m id="m-mf930701-046-p2s4w3">
 <src.rf>manual</src.rf>

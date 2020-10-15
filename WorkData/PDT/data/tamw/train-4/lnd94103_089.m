@@ -1065,7 +1065,7 @@
 <LM>w#w-lnd94103-089-p1s10w4</LM>
 </w.rf>
 <form>hodiny</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-lnd94103-089-p1s10w5">
 <src.rf>manual</src.rf>

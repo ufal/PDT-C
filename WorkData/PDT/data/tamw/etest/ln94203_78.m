@@ -19,7 +19,7 @@
 <LM>w#w-ln94203-78-p1s1w1</LM>
 </w.rf>
 <form>IRA</form>
-<tag lemma="IRA-1_;m_^(Irská_republikánská_armáda)" src="auto" selected="1">NNFXX-----A---b</tag>
+<tag lemma="IRA-88" src="auto" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94203-78-p1s1w2">
 <src.rf>manual</src.rf>
@@ -151,7 +151,7 @@
 <LM>w#w-ln94203-78-p2s1Bw8</LM>
 </w.rf>
 <form>IRA</form>
-<tag lemma="IRA-1_;m_^(Irská_republikánská_armáda)" src="auto" selected="1">NNFXX-----A---b</tag>
+<tag lemma="IRA-88" src="auto" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94203-78-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -387,7 +387,7 @@
 <LM>w#w-ln94203-78-p2s3w1</LM>
 </w.rf>
 <form>IRA</form>
-<tag lemma="IRA-1_;m_^(Irská_republikánská_armáda)" src="auto" selected="1">NNFXX-----A---b</tag>
+<tag lemma="IRA-88" src="auto" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94203-78-p2s3w2">
 <src.rf>manual</src.rf>
@@ -1047,7 +1047,7 @@
 <LM>w#w-ln94203-78-p3s1w7</LM>
 </w.rf>
 <form>IRA</form>
-<tag lemma="IRA-1_;m_^(Irská_republikánská_armáda)" src="auto" selected="1">NNFXX-----A---b</tag>
+<tag lemma="IRA-88" src="auto" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94203-78-p3s1w8">
 <src.rf>manual</src.rf>
@@ -1670,7 +1670,7 @@
 <LM>w#w-ln94203-78-p3s3w31</LM>
 </w.rf>
 <form>IRA</form>
-<tag lemma="IRA-1_;m_^(Irská_republikánská_armáda)" src="auto" selected="1">NNFXX-----A---b</tag>
+<tag lemma="IRA-88" src="auto" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94203-78-p3s3w32">
 <src.rf>manual</src.rf>
@@ -2045,7 +2045,7 @@
 <LM>w#w-ln94203-78-p4s1w23</LM>
 </w.rf>
 <form>IRA</form>
-<tag lemma="IRA-1_;m_^(Irská_republikánská_armáda)" src="auto" selected="1">NNFXX-----A---b</tag>
+<tag lemma="IRA-88" src="auto" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94203-78-p4s1w24">
 <src.rf>manual</src.rf>
@@ -2531,7 +2531,7 @@
 <LM>w#w-ln94203-78-p4s4w7</LM>
 </w.rf>
 <form>den</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln94203-78-p4s4w8">
 <src.rf>manual</src.rf>
@@ -2991,7 +2991,7 @@
 <LM>w#w-ln94203-78-p5s3w6</LM>
 </w.rf>
 <form>IRA</form>
-<tag lemma="IRA-1_;m_^(Irská_republikánská_armáda)" src="auto" selected="1">NNFXX-----A---b</tag>
+<tag lemma="IRA-88" src="auto" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94203-78-p5s3w7">
 <src.rf>manual</src.rf>
@@ -3104,7 +3104,7 @@
 <LM>w#w-ln94203-78-p6s1Aw2</LM>
 </w.rf>
 <form>IRA</form>
-<tag lemma="IRA-1_;m_^(Irská_republikánská_armáda)" src="auto" selected="1">NNFXX-----A---b</tag>
+<tag lemma="IRA-88" src="auto" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94203-78-p6s1Aw3">
 <src.rf>manual</src.rf>
@@ -3710,7 +3710,7 @@
 <LM>w#w-ln94203-78-p6s2w38</LM>
 </w.rf>
 <form>IRA</form>
-<tag lemma="IRA-1_;m_^(Irská_republikánská_armáda)" src="auto" selected="1">NNFXX-----A---b</tag>
+<tag lemma="IRA-88" src="auto" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94203-78-p6s2w39">
 <src.rf>manual</src.rf>
@@ -3796,7 +3796,7 @@
 <LM>w#w-ln94203-78-p7s1w4</LM>
 </w.rf>
 <form>IRA</form>
-<tag lemma="IRA-1_;m_^(Irská_republikánská_armáda)" src="auto" selected="1">NNFXX-----A---b</tag>
+<tag lemma="IRA-88" src="auto" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94203-78-p7s1w5">
 <src.rf>manual</src.rf>

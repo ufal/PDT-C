@@ -650,7 +650,7 @@
 <LM>w#w-cmpr9413-035-p4s2w3</LM>
 </w.rf>
 <form>vlastně</form>
-<tag lemma="vlastně-2_^(totiž)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="vlastně-2" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-cmpr9413-035-p4s2w4">
 <src.rf>manual</src.rf>

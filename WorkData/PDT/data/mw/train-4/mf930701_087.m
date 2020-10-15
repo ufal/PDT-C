@@ -1400,7 +1400,7 @@
 <LM>w#w-mf930701-087-p6s3w25</LM>
 </w.rf>
 <form>den</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930701-087-p6s3w26">
 <src.rf>manual</src.rf>

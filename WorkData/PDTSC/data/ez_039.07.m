@@ -2549,7 +2549,7 @@
 <tag>
 <AM lemma="nedostatek" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="nedostatek" src="auto">NNIS4-----A----</AM>
-<AM lemma="dostatek" src="manual" selected="1">NNIS1-----N----</AM>
+<AM lemma="nedostatek" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m039-d1t2998-7">
@@ -4151,7 +4151,7 @@
 <AM lemma="dál-2" src="auto">NNFP5-----A----</AM>
 <AM lemma="dál-2" src="auto">NNFS2-----A----</AM>
 <AM lemma="daleko-1" src="auto">Dg-------2A---1</AM>
-<AM lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="auto" recommended="1">Db------------1</AM>
+<AM lemma="dále-3_^(také,_za_další)" src="auto" recommended="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m039-d-m-d1e3106-x2-punct-punct">
@@ -6350,7 +6350,7 @@
 <AM lemma="dál-2" src="auto">NNFP5-----A----</AM>
 <AM lemma="dál-2" src="auto">NNFS2-----A----</AM>
 <AM lemma="daleko-1" src="auto">Dg-------2A---1</AM>
-<AM lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="auto" recommended="1">Db------------1</AM>
+<AM lemma="dále-3_^(také,_za_další)" src="auto" recommended="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m039-626-639">

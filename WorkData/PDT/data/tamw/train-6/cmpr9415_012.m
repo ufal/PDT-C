@@ -836,7 +836,7 @@
 <LM>w#w-cmpr9415-012-p9s3w14</LM>
 </w.rf>
 <form>Athén</form>
-<tag lemma="Atény_;G" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="Athény_;G_,s_^(^DD**Atény)" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-cmpr9415-012-p9s3w15">
 <src.rf>manual</src.rf>

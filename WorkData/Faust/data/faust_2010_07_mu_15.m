@@ -949,7 +949,7 @@
 </w.rf>
 <form>Vánoce</form>
 <tag>
-<AM lemma="Vánoce" recommended="1">NNFP4-----A----</AM>
+<AM lemma="Vánoce_;m" recommended="1">NNFP4-----A----</AM>
 <AM lemma="Vánoce">NNFP1-----A----</AM>
 <AM lemma="Vánoce">NNFP4-----A----</AM>
 <AM lemma="Vánoce">NNFP5-----A----</AM>
@@ -3179,7 +3179,7 @@
 </w.rf>
 <form>den</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" recommended="1">NNIS4-----A----</AM>
+<AM lemma="den-1_^(jednotka_času)" recommended="1">NNIS4-----A----</AM>
 <AM lemma="den-2_,t_^(měnová_jednotka)">NNIS1-----A----</AM>
 <AM lemma="den-2_,t_^(měnová_jednotka)">NNIS4-----A----</AM>
 <AM lemma="den_^(jednotka_času)">NNIS1-----A----</AM>

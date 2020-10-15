@@ -543,7 +543,7 @@
 <LM>w#w-cmpr9413-013-p10s1w11</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9FXXFS3-------</tag>
 </m>
 <m id="m-cmpr9413-013-p10s1w12">
 <src.rf>manual</src.rf>
@@ -2186,7 +2186,7 @@
 <LM>w#w-cmpr9413-013-p15s2w9</LM>
 </w.rf>
 <form>Kanadě</form>
-<tag lemma="Kanada_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Kanada_;G_;m" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-cmpr9413-013-p15s2w10">
 <src.rf>manual</src.rf>

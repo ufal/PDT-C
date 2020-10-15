@@ -80,7 +80,7 @@
 <LM>w#w-lnd92251-070-p2s1w6</LM>
 </w.rf>
 <form>den</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-lnd92251-070-p2s1w7">
 <src.rf>manual</src.rf>

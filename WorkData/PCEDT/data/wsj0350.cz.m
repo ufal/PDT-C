@@ -3609,7 +3609,7 @@
 <AM lemma="son_^(jednotka_hlasitosti)" src="auto">NNIP5-----A----</AM>
 <AM lemma="son_^(jednotka_hlasitosti)" src="auto">NNIP7-----A----</AM>
 <AM lemma="sono_,l_^(sonografie)" src="auto">NNNP7-----A----</AM>
-<AM lemma="Sony_;m" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Sony_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0350-001-p1s14W6-Ta">
@@ -3978,7 +3978,7 @@
 </w.rf>
 <form>Jaguar</form>
 <tag>
-<AM lemma="Jaguar_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Jaguar_;m_,s_^(vozidlo)_(^DD**Jaguár)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Jaguar_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="jaguar_;m_^(vozidlo)" src="auto">NNIS1-----A----</AM>
 <AM lemma="jaguar_;m_^(vozidlo)" src="auto">NNIS4-----A----</AM>

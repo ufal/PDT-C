@@ -821,7 +821,7 @@
 <LM>w#w-ln95049-064-p2s3w28</LM>
 </w.rf>
 <form>Kanady</form>
-<tag lemma="Kanada_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Kanada_;G_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95049-064-p2s3w29">
 <src.rf>manual</src.rf>

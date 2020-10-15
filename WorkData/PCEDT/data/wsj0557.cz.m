@@ -1555,7 +1555,7 @@
 <tag>
 <AM lemma="Illinois" src="auto">NNIS2-----A---1</AM>
 <AM lemma="Illinois" src="auto">NNIS3-----A---1</AM>
-<AM lemma="Illinois" src="auto" recommended="1">NNIS6-----A---1</AM>
+<AM lemma="Illinois_;G_;m" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="Illinois" src="auto">NNIS7-----A---1</AM>
 <AM lemma="Illinois_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Illinois_;G" src="auto">NNIS4-----A----</AM>

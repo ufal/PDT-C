@@ -989,7 +989,7 @@
 <LM>w#w-cmpr9415-017-p6s2w38</LM>
 </w.rf>
 <form>pozdějších</form>
-<tag lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="orig" selected="1">AAIP2----2A----</tag>
+<tag lemma="pozdější" src="orig" selected="1">AAIP2----1A----</tag>
 </m>
 <m id="m-cmpr9415-017-p6s2w39">
 <src.rf>manual</src.rf>
@@ -1148,7 +1148,7 @@
 <LM>w#w-cmpr9415-017-p7s2w5</LM>
 </w.rf>
 <form>něhož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS2----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS2---------3</tag>
 </m>
 <m id="m-cmpr9415-017-p7s2w6">
 <src.rf>manual</src.rf>
@@ -3626,7 +3626,7 @@
 <LM>w#w-cmpr9415-017-p27s2w32</LM>
 </w.rf>
 <form>pozdějších</form>
-<tag lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="orig" selected="1">AAIP2----2A----</tag>
+<tag lemma="pozdější" src="orig" selected="1">AAIP2----1A----</tag>
 </m>
 <m id="m-cmpr9415-017-p27s2w33">
 <src.rf>manual</src.rf>

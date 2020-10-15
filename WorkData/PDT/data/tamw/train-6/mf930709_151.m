@@ -59,7 +59,7 @@
 <LM>w#w-mf930709-151-p1s1w6</LM>
 </w.rf>
 <form>AIDS</form>
-<tag lemma="AIDS_;U_^(Syndrom_získaného_selhání_imunity)" src="orig" selected="1">NNIXX-----A---b</tag>
+<tag lemma="AIDS_;U_^(Syndrom_získaného_selhání_imunity)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 </s>
 <s id="m-mf930709-151-p2s1A">
@@ -183,7 +183,7 @@
 <LM>w#w-mf930709-151-p2s1Bw13</LM>
 </w.rf>
 <form>AIDS</form>
-<tag lemma="AIDS_;U_^(Syndrom_získaného_selhání_imunity)" src="orig" selected="1">NNIXX-----A---b</tag>
+<tag lemma="AIDS_;U_^(Syndrom_získaného_selhání_imunity)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf930709-151-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -305,7 +305,7 @@
 <LM>w#w-mf930709-151-p2s2w14</LM>
 </w.rf>
 <form>AIDS</form>
-<tag lemma="AIDS_;U_^(Syndrom_získaného_selhání_imunity)" src="orig" selected="1">NNIXX-----A---b</tag>
+<tag lemma="AIDS_;U_^(Syndrom_získaného_selhání_imunity)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf930709-151-p2s2w15">
 <src.rf>manual</src.rf>

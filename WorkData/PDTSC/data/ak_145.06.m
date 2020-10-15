@@ -3611,7 +3611,7 @@
 <form>Přeci</form>
 <tag>
 <AM lemma="přece-1" src="auto">J^------------1</AM>
-<AM lemma="přece-2" src="auto" recommended="1">TT------------1</AM>
+<AM lemma="přeci-2_,h_^(^GC**přece-2)" src="auto" recommended="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m145-d1t1231-22">

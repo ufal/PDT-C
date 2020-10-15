@@ -477,7 +477,7 @@
 <LM>w#w-mf930701-040-p2s3w14</LM>
 </w.rf>
 <form>den</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 </s>
 <s id="m-mf930701-040-p2s4">

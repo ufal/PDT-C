@@ -27,7 +27,7 @@
 <LM>w#w-mf920923-056-p1s1w2</LM>
 </w.rf>
 <form>Sparty</form>
-<tag lemma="Sparta_;m" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Sparta_;G_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920923-056-p1s1w3">
 <src.rf>manual</src.rf>

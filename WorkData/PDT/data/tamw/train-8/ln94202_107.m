@@ -315,7 +315,7 @@
 <LM>w#w-ln94202-107-p2s3w15</LM>
 </w.rf>
 <form>MS</form>
-<tag lemma="MS-3_^(mistrovství_světa)" src="orig" selected="1">NNNXX-----A---b</tag>
+<tag lemma="MS-1_^(mistrovství_světa)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94202-107-p2s3w16">
 <src.rf>manual</src.rf>
@@ -371,7 +371,7 @@
 <LM>w#w-ln94202-107-p2s3w22</LM>
 </w.rf>
 <form>MS</form>
-<tag lemma="MS-3_^(mistrovství_světa)" src="orig" selected="1">NNNXX-----A---b</tag>
+<tag lemma="MS-1_^(mistrovství_světa)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94202-107-p2s3w23">
 <src.rf>manual</src.rf>
@@ -801,7 +801,7 @@
 <LM>w#w-ln94202-107-p3s1w8</LM>
 </w.rf>
 <form>MS</form>
-<tag lemma="MS-3_^(mistrovství_světa)" src="orig" selected="1">NNNXX-----A---b</tag>
+<tag lemma="MS-1_^(mistrovství_světa)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94202-107-p3s1w9">
 <src.rf>manual</src.rf>
@@ -4772,7 +4772,7 @@
 <LM>w#w-ln94202-107-p6s6w1</LM>
 </w.rf>
 <form>Lidé</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP1-----A---1</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln94202-107-p6s6w2">
 <src.rf>manual</src.rf>
@@ -5032,7 +5032,7 @@
 <LM>w#w-ln94202-107-p6s8w10</LM>
 </w.rf>
 <form>lidé</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP1-----A---1</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln94202-107-p6s8w11">
 <src.rf>manual</src.rf>

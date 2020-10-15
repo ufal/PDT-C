@@ -1806,7 +1806,7 @@
 </w.rf>
 <form>lidé</form>
 <tag>
-<AM lemma="člověk" src="auto" recommended="1">NNMP1-----A---1</AM>
+<AM lemma="lidé" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="člověk" src="auto">NNMP5-----A---1</AM>
 </tag>
 </m>
@@ -4198,7 +4198,7 @@
 <AM lemma="ala-1_,t_^(místnost_v_starořím._obydlí;;vojenská_jednotka_ve_st._Římě;;boční_loď_v_bazilice)" src="auto">NNFS3-----A----</AM>
 <AM lemma="ala-1_,t_^(místnost_v_starořím._obydlí;;vojenská_jednotka_ve_st._Římě;;boční_loď_v_bazilice)" src="auto">NNFS6-----A----</AM>
 <AM lemma="ale" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="ale-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="ale" src="manual" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1555-001-p1s14W11-Ta">

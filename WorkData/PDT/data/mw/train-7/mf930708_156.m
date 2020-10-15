@@ -2612,7 +2612,7 @@
 <LM>w#w-mf930708-156-p8s3w8</LM>
 </w.rf>
 <form>sen</form>
-<tag lemma="sen" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="sen-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930708-156-p8s3w9">
 <src.rf>manual</src.rf>

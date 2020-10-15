@@ -142,7 +142,7 @@
 <LM>w#w-vesm9211-037-p2s1Aw1</LM>
 </w.rf>
 <form>Nedávno</form>
-<tag lemma="nedávno-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="dávno-1" src="auto" selected="1">Dg-------1N----</tag>
 </m>
 <m id="m-vesm9211-037-p2s1Aw2">
 <src.rf>manual</src.rf>
@@ -792,7 +792,7 @@
 <LM>w#w-vesm9211-037-p2s3w24</LM>
 </w.rf>
 <form>virus</form>
-<tag lemma="vir" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="vir-1" src="orig" selected="1">NNIS4-----A---1</tag>
 </m>
 <m id="m-vesm9211-037-p2s3w25">
 <src.rf>manual</src.rf>

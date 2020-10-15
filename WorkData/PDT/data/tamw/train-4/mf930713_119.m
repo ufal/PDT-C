@@ -992,7 +992,7 @@
 <form>Shell</form>
 <tag>
 <AM lemma="shell" src="orig">NNIS1-----A----</AM>
-<AM lemma="Shell_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Shell-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-119-p3s1w24">

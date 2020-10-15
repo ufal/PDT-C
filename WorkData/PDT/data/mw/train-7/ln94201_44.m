@@ -1045,7 +1045,7 @@
 <LM>w#w-ln94201-44-p2s7w1</LM>
 </w.rf>
 <form>Člen</form>
-<tag lemma="člen" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-44-p2s7w2">
 <src.rf>manual</src.rf>

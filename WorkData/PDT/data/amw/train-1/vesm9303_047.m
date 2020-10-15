@@ -6777,7 +6777,7 @@
 <LM>w#w-vesm9303-047-p12s4w7</LM>
 </w.rf>
 <form>Rus</form>
-<tag lemma="Rus_;E" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rus-1_;E" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-vesm9303-047-p12s4w8">
 <src.rf>manual</src.rf>
@@ -7579,7 +7579,7 @@
 <LM>w#w-vesm9303-047-p13s2w5</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9FXXFS3-------</tag>
 </m>
 <m id="m-vesm9303-047-p13s2w6">
 <src.rf>manual</src.rf>
@@ -8447,7 +8447,7 @@
 <LM>w#w-vesm9303-047-p13s8w3</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9FXXFS3-------</tag>
 </m>
 <m id="m-vesm9303-047-p13s8w4">
 <src.rf>manual</src.rf>

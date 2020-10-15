@@ -1658,7 +1658,7 @@
 <LM>w#w-lnd91303-077-p3s14w8</LM>
 </w.rf>
 <form>Spartě</form>
-<tag lemma="Sparta_;m" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="Sparta_;G_;m" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-lnd91303-077-p3s14w9">
 <src.rf>manual</src.rf>

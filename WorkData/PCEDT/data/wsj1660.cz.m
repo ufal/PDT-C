@@ -1439,7 +1439,7 @@
 <tag>
 <AM lemma="mililitr" src="auto">NNIXX-----A---8</AM>
 <AM lemma="mladý_:B" src="auto" recommended="1">AAXXX----2A---8</AM>
-<AM lemma="mladý" src="manual" selected="1">AAXXX----2A---8</AM>
+<AM lemma="mladý" src="manual" selected="1">AAXXX----2A---b</AM>
 </tag>
 </m>
 <m id="m-wsj1660-001-p1s6W8-Ta">
@@ -3179,7 +3179,7 @@
 <AM lemma="bohatý" src="auto">AAFS1----2A----</AM>
 <AM lemma="bohatý" src="auto">AAFS2----2A----</AM>
 <AM lemma="bohatý" src="auto">AAFS3----2A----</AM>
-<AM lemma="bohatý" src="auto" recommended="1">AAFS4----2A----</AM>
+<AM lemma="bohatý" src="auto" recommended="1">AAFS4----2A---1</AM>
 <AM lemma="bohatý" src="auto">AAFS5----2A----</AM>
 <AM lemma="bohatý" src="auto">AAFS6----2A----</AM>
 <AM lemma="bohatý" src="auto">AAFS7----2A----</AM>

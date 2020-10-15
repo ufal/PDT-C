@@ -167,7 +167,7 @@
 <LM>w#w-ln94209-33-p2s1Bw10</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9FXXFS3-------</tag>
 </m>
 <m id="m-ln94209-33-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -225,7 +225,7 @@
 <form>tis</form>
 <tag>
 <AM lemma="tisíc-2`1000_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="tisíc-2`1000" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="tisíc`1000" src="manual" selected="1">CzIXX---------b</AM>
 </tag>
 </m>
 <m id="m-ln94209-33-p2s1Bw18">

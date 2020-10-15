@@ -578,7 +578,7 @@
 <LM>w#w-mf930701-009-p2s3w19</LM>
 </w.rf>
 <form>SR</form>
-<tag lemma="SR-1_;G_^(Slovenská_republika)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="SR_;G_^(Slovenská_republika)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf930701-009-p2s3w20">
 <src.rf>manual</src.rf>

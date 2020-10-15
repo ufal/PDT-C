@@ -1646,7 +1646,7 @@
 <AM lemma="dál" src="auto">NNFS1-----A---1</AM>
 <AM lemma="dál" src="auto">NNFS2-----A----</AM>
 <AM lemma="daleko-1" src="auto">Dg-------2A---1</AM>
-<AM lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="auto" recommended="1">Db------------1</AM>
+<AM lemma="dále-3_^(také,_za_další)" src="auto" recommended="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2346-001-p1s5W4-Ta">
@@ -4574,7 +4574,7 @@
 </w.rf>
 <form>bydlí</form>
 <tag>
-<AM lemma="bydlet" src="auto" recommended="1">VB-P---3P-AAI--</AM>
+<AM lemma="bydlet" src="auto" recommended="1">VB-P---3P-AAI-1</AM>
 <AM lemma="bydlet" src="auto">VB-S---3P-AAI--</AM>
 </tag>
 </m>
@@ -5218,7 +5218,7 @@
 <AM lemma="dál" src="auto">NNFS1-----A---1</AM>
 <AM lemma="dál" src="auto">NNFS2-----A----</AM>
 <AM lemma="daleko-1" src="auto">Dg-------2A---1</AM>
-<AM lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="auto" recommended="1">Db------------1</AM>
+<AM lemma="dále-3_^(také,_za_další)" src="auto" recommended="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2346-001-p1s19W14-Ta">

@@ -1201,7 +1201,7 @@
 <LM>w#w-lnd94105-001-p1s8w12</LM>
 </w.rf>
 <form>stát</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd94105-001-p1s8w13">
 <src.rf>manual</src.rf>

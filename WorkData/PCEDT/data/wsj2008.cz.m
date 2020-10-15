@@ -1339,7 +1339,7 @@
 <form>Colgate</form>
 <tag>
 <AM lemma="Colgate_;m_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Colgate_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Colgate_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2008-001-p1s3W13-Ta">
@@ -1773,7 +1773,7 @@
 <tag>
 <AM lemma="Colgate_;m_,t" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="Colgate_;m" src="manual">NNNXX-----A----</AM>
-<AM lemma="Colgate_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Colgate_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2008-001-p1s5W16-Ta">
@@ -1926,7 +1926,7 @@
 <form>Colgate</form>
 <tag>
 <AM lemma="Colgate_;m_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Colgate_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Colgate_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2008-001-p1s6W5-Ta">
@@ -2574,7 +2574,7 @@
 <form>Colgate</form>
 <tag>
 <AM lemma="Colgate_;m_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Colgate_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Colgate_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2008-001-p1s8W6-Ta">
@@ -2713,7 +2713,7 @@
 <form>Colgate</form>
 <tag>
 <AM lemma="Colgate_;m_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Colgate_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Colgate_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2008-001-p1s9W4-Ta">
@@ -3125,7 +3125,7 @@
 <form>Colgate</form>
 <tag>
 <AM lemma="Colgate_;m_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Colgate_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Colgate_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2008-001-p1s10W8-Ta">
@@ -4151,7 +4151,7 @@
 <form>Colgate</form>
 <tag>
 <AM lemma="Colgate_;m_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Colgate_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Colgate_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2008-001-p1s13W9-Ta">
@@ -4190,7 +4190,7 @@
 </w.rf>
 <form>její</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSFXXFS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9FXXFS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSIS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSNS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP1FS3-------</AM>
@@ -4864,7 +4864,7 @@
 <form>Colgate</form>
 <tag>
 <AM lemma="Colgate_;m_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Colgate_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Colgate_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2008-001-p1s16W13-Ta">

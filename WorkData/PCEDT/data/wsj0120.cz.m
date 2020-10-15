@@ -2830,7 +2830,7 @@
 </w.rf>
 <form>Alfreda</form>
 <tag>
-<AM lemma="Alfréd_;Y" src="auto" selected="1">NNMS2-----A----</AM>
+<AM lemma="Alfred_;Y_,s_^(^DD**Alfréd)" src="auto" selected="1">NNMS2-----A----</AM>
 <AM lemma="Alfréd_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="Alfredo_;Y_,t" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Alfredo_;Y_,t" src="auto">NNMS4-----A----</AM>

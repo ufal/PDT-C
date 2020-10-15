@@ -2314,7 +2314,7 @@
 <form>dr</form>
 <tag>
 <AM lemma="doktor_:B_^(doktor,_akad._titul)" src="orig">NNMXX-----A---8</AM>
-<AM lemma="dr_^(doktor)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="dr_^(doktor,_akad._titul)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-036-p11s1w5">
@@ -3213,7 +3213,7 @@
 <form>dr</form>
 <tag>
 <AM lemma="doktor_:B_^(doktor,_akad._titul)" src="orig">NNMXX-----A---8</AM>
-<AM lemma="dr_^(doktor)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="dr_^(doktor,_akad._titul)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-036-p12s1w17">
@@ -5093,7 +5093,7 @@
 <LM>w#w-vesm9303-036-p16s3w15</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9FXXFS3-------</tag>
 </m>
 <m id="m-vesm9303-036-p16s3w16">
 <src.rf>manual</src.rf>
@@ -11124,7 +11124,7 @@
 <LM>w#w-vesm9303-036-p37s4w29</LM>
 </w.rf>
 <form>Kanady</form>
-<tag lemma="Kanada_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Kanada_;G_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-vesm9303-036-p37s4w30">
 <src.rf>manual</src.rf>
@@ -12225,7 +12225,7 @@
 <form>stálo</form>
 <tag>
 <AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig">VpNS---XR-AA---</AM>
-<AM lemma="stát-4_^(něco_stojí_peníze)" src="manual" selected="1">VpNS----R-AAI--</AM>
+<AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">VpNS----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-vesm9303-036-p40s5w9">
@@ -14243,7 +14243,7 @@
 <LM>w#w-vesm9303-036-p46s3w1</LM>
 </w.rf>
 <form>Dále</form>
-<tag lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="orig" selected="1">Db------------1</tag>
+<tag lemma="dále-3_^(také,_za_další)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-vesm9303-036-p46s3w2">
 <src.rf>manual</src.rf>
@@ -14675,7 +14675,7 @@
 <LM>w#w-vesm9303-036-p47s1w3</LM>
 </w.rf>
 <form>dále</form>
-<tag lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="orig" selected="1">Db------------1</tag>
+<tag lemma="dále-3_^(také,_za_další)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-vesm9303-036-p47s1w4">
 <src.rf>manual</src.rf>
@@ -15399,7 +15399,7 @@
 <LM>w#w-vesm9303-036-p49s2w9</LM>
 </w.rf>
 <form>spíš</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="spíš" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-vesm9303-036-p49s2w10">
 <src.rf>manual</src.rf>
@@ -15927,7 +15927,7 @@
 <LM>w#w-vesm9303-036-p51s2w33</LM>
 </w.rf>
 <form>spíš</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="spíš" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-vesm9303-036-p51s2w34">
 <src.rf>manual</src.rf>
@@ -25456,7 +25456,7 @@
 <form>stálo</form>
 <tag>
 <AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig">VpNS---XR-AA---</AM>
-<AM lemma="stát-4_^(něco_stojí_peníze)" src="manual" selected="1">VpNS----R-AAI--</AM>
+<AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">VpNS----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-vesm9303-036-p64s7w18">
@@ -26410,7 +26410,7 @@
 <LM>w#w-vesm9303-036-p67s2w18</LM>
 </w.rf>
 <form>stála</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-vesm9303-036-p67s2w19">
 <src.rf>manual</src.rf>

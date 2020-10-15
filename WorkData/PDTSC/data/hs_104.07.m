@@ -1276,7 +1276,7 @@
 <AM lemma="mladit" src="auto">VB-S---3P-AAI--</AM>
 <AM lemma="mladý" src="auto" recommended="1">AAMP1----1A----</AM>
 <AM lemma="mladý" src="auto">AAMP5----1A----</AM>
-<AM lemma="mladý-2" src="manual" selected="1">NNMP1-----A----</AM>
+<AM lemma="mladý" src="manual" selected="1">AAMP1----1A----</AM>
 </tag>
 </m>
 <m id="m104-d1e884-x2-388">
@@ -3375,7 +3375,7 @@
 </w.rf>
 <form>hodiny</form>
 <tag>
-<AM lemma="hodina_^(jednotka_času)" src="auto" recommended="1">NNFP1-----A----</AM>
+<AM lemma="hodina" src="auto" recommended="1">NNFP1-----A----</AM>
 <AM lemma="hodina_^(jednotka_času)" src="auto">NNFP4-----A----</AM>
 <AM lemma="hodina_^(jednotka_času)" src="auto">NNFP5-----A----</AM>
 <AM lemma="hodina_^(jednotka_času)" src="auto">NNFS2-----A----</AM>

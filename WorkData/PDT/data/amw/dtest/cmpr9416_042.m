@@ -544,7 +544,7 @@
 <LM>w#w-cmpr9416-042-p8s2w11</LM>
 </w.rf>
 <form>něhož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS2----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS2---------3</tag>
 </m>
 <m id="m-cmpr9416-042-p8s2w12">
 <src.rf>manual</src.rf>
@@ -1627,7 +1627,7 @@
 <LM>w#w-cmpr9416-042-p12s3w5</LM>
 </w.rf>
 <form>vlastně</form>
-<tag lemma="vlastně-2_^(totiž)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="vlastně-2" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-cmpr9416-042-p12s3w6">
 <src.rf>manual</src.rf>
@@ -2122,7 +2122,7 @@
 <LM>w#w-cmpr9416-042-p15s1w1</LM>
 </w.rf>
 <form>Nedávno</form>
-<tag lemma="nedávno-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="dávno-1" src="auto" selected="1">Dg-------1N----</tag>
 </m>
 <m id="m-cmpr9416-042-p15s1w2">
 <src.rf>manual</src.rf>
@@ -3472,7 +3472,7 @@
 <form>tis</form>
 <tag>
 <AM lemma="tisíc-2`1000_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="tisíc-2`1000" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="tisíc`1000" src="manual" selected="1">CzIXX---------b</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-042-p20s1w5">
@@ -3546,7 +3546,7 @@
 <form>tis</form>
 <tag>
 <AM lemma="tisíc-2`1000_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="tisíc-2`1000" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="tisíc`1000" src="manual" selected="1">CzIXX---------b</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-042-p21s1w5">

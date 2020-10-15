@@ -4940,7 +4940,7 @@
 <LM>w#w-ln95045-048-p6s1w17</LM>
 </w.rf>
 <form>spíš</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="spíš" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln95045-048-p6s1w18">
 <src.rf>manual</src.rf>
@@ -6496,7 +6496,7 @@
 <LM>w#w-ln95045-048-p7s4w11</LM>
 </w.rf>
 <form>Pavla</form>
-<tag lemma="Pavel-1_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Pavel_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95045-048-p7s4w12">
 <src.rf>manual</src.rf>

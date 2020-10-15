@@ -844,7 +844,7 @@
 <LM>w#w-mf920923-035-p3s2w2</LM>
 </w.rf>
 <form>Lidé</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP1-----A---1</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf920923-035-p3s2w3">
 <src.rf>manual</src.rf>

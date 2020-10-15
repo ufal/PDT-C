@@ -304,7 +304,7 @@
 <AM lemma="bohatý">AAMP1----2A----</AM>
 <AM lemma="bohatý">AAMP4----2A----</AM>
 <AM lemma="bohatý">AAMP5----2A----</AM>
-<AM lemma="bohatý" selected="1">AAMS1----2A----</AM>
+<AM lemma="bohatý" selected="1">AAMS1----2A---1</AM>
 <AM lemma="bohatý">AAMS5----2A----</AM>
 <AM lemma="bohatý">AANP1----2A----</AM>
 <AM lemma="bohatý">AANP4----2A----</AM>
@@ -4669,7 +4669,7 @@
 </w.rf>
 <form>den</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" recommended="1">NNIS4-----A----</AM>
+<AM lemma="den-1_^(jednotka_času)" recommended="1">NNIS4-----A----</AM>
 <AM lemma="den-2_,t_^(měnová_jednotka)">NNIS1-----A----</AM>
 <AM lemma="den-2_,t_^(měnová_jednotka)">NNIS4-----A----</AM>
 <AM lemma="den_^(jednotka_času)">NNIS1-----A----</AM>
@@ -4727,7 +4727,7 @@
 </w.rf>
 <form>den</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" recommended="1">NNIS4-----A----</AM>
+<AM lemma="den-1_^(jednotka_času)" recommended="1">NNIS4-----A----</AM>
 <AM lemma="den-2_,t_^(měnová_jednotka)">NNIS1-----A----</AM>
 <AM lemma="den-2_,t_^(měnová_jednotka)">NNIS4-----A----</AM>
 <AM lemma="den_^(jednotka_času)">NNIS1-----A----</AM>

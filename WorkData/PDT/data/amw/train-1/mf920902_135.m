@@ -668,7 +668,7 @@
 <LM>w#w-mf920902-135-p2s3w1</LM>
 </w.rf>
 <form>Bohatší</form>
-<tag lemma="bohatý" src="orig" selected="1">AAMP1----2A----</tag>
+<tag lemma="bohatý" src="orig" selected="1">AAMP1----2A---1</tag>
 </m>
 <m id="m-mf920902-135-p2s3w2">
 <src.rf>manual</src.rf>
@@ -974,7 +974,7 @@
 <LM>w#w-mf920902-135-p2s4w14</LM>
 </w.rf>
 <form>něhož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS2----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS2---------3</tag>
 </m>
 <m id="m-mf920902-135-p2s4w15">
 <src.rf>manual</src.rf>
@@ -1867,7 +1867,7 @@
 <LM>w#w-mf920902-135-p2s8w30</LM>
 </w.rf>
 <form>snazší</form>
-<tag lemma="snadný" src="orig" selected="1">AANS1----2A----</tag>
+<tag lemma="snadný" src="orig" selected="1">AANS1----2A---1</tag>
 </m>
 <m id="m-mf920902-135-p2s8w31">
 <src.rf>manual</src.rf>
@@ -2000,7 +2000,7 @@
 <LM>w#w-mf920902-135-p2s9w5</LM>
 </w.rf>
 <form>bohatší</form>
-<tag lemma="bohatý" src="orig" selected="1">AAMP1----2A----</tag>
+<tag lemma="bohatý" src="orig" selected="1">AAMP1----2A---1</tag>
 </m>
 <m id="m-mf920902-135-p2s9w6">
 <src.rf>manual</src.rf>

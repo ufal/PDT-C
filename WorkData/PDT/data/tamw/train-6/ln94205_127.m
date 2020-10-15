@@ -3107,7 +3107,7 @@
 <LM>w#w-ln94205-127-p4s7w2</LM>
 </w.rf>
 <form>vítězové</form>
-<tag lemma="vítěz" src="orig" selected="1">NNMP1-----A---1</tag>
+<tag lemma="vítěz" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln94205-127-p4s7w3">
 <src.rf>manual</src.rf>

@@ -1030,7 +1030,7 @@
 <LM>w#w-lnd92258-036-p3s2w26</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9FXXFS3-------</tag>
 </m>
 <m id="m-lnd92258-036-p3s2w27">
 <src.rf>manual</src.rf>

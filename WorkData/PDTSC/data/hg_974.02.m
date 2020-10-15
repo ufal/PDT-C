@@ -391,7 +391,7 @@
 </w.rf>
 <form>Lidi</form>
 <tag>
-<AM lemma="člověk" src="auto" recommended="1">NNMP1-----A----</AM>
+<AM lemma="lidé" src="auto" recommended="1">NNMP1-----A---1</AM>
 <AM lemma="člověk" src="auto">NNMP4-----A----</AM>
 <AM lemma="člověk" src="auto">NNMP5-----A----</AM>
 </tag>
@@ -685,7 +685,7 @@
 <form>Rusy</form>
 <tag>
 <AM lemma="Rus_;E" src="auto">NNMP4-----A----</AM>
-<AM lemma="Rus_;E" src="auto" recommended="1">NNMP7-----A----</AM>
+<AM lemma="Rus-1_;E" src="auto" recommended="1">NNMP7-----A----</AM>
 <AM lemma="rus_^(druh_švába)" src="auto">NNMP4-----A----</AM>
 <AM lemma="rus_^(druh_švába)" src="auto">NNMP7-----A----</AM>
 </tag>
@@ -906,7 +906,7 @@
 </w.rf>
 <form>Lidi</form>
 <tag>
-<AM lemma="člověk" src="auto" recommended="1">NNMP1-----A----</AM>
+<AM lemma="lidé" src="auto" recommended="1">NNMP1-----A---1</AM>
 <AM lemma="člověk" src="auto">NNMP4-----A----</AM>
 <AM lemma="člověk" src="auto">NNMP5-----A----</AM>
 </tag>
@@ -5581,7 +5581,7 @@
 <tag>
 <AM lemma="Rus-2_;G_^(Rusko)" src="auto">NNFS1-----A----</AM>
 <AM lemma="Rus-2_;G_^(Rusko)" src="auto">NNFS4-----A----</AM>
-<AM lemma="Rus_;E" src="auto" selected="1">NNMS1-----A----</AM>
+<AM lemma="Rus-1_;E" src="auto" selected="1">NNMS1-----A----</AM>
 <AM lemma="Rusko_:B_;G" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="rus_^(druh_švába)" src="auto">NNMS1-----A----</AM>
 </tag>
@@ -5708,7 +5708,7 @@
 </w.rf>
 <form>Rusové</form>
 <tag>
-<AM lemma="Rus_;E" src="auto" recommended="1">NNMP1-----A----</AM>
+<AM lemma="Rus-1_;E" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="Rus_;E" src="auto">NNMP5-----A----</AM>
 <AM lemma="Rusová_;G_^(obec)" src="auto">NNFP1-----A----</AM>
 <AM lemma="Rusová_;G_^(obec)" src="auto">NNFP4-----A----</AM>
@@ -6181,7 +6181,7 @@
 <AM lemma="dál-2" src="auto">NNFP5-----A----</AM>
 <AM lemma="dál-2" src="auto">NNFS2-----A----</AM>
 <AM lemma="daleko-1" src="auto">Dg-------2A---1</AM>
-<AM lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="auto" recommended="1">Db------------1</AM>
+<AM lemma="dále-3_^(také,_za_další)" src="auto" recommended="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m974-d-id91505">

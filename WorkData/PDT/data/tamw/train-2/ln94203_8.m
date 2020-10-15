@@ -78,7 +78,7 @@
 <tag>
 <AM lemma="shell" src="orig">NNIS1-----A----</AM>
 <AM lemma="Shell-77" src="manual">F%-------------</AM>
-<AM lemma="Shell_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Shell-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-8-p2s1w7">

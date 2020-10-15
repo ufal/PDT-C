@@ -1562,7 +1562,7 @@
 <LM>w#w-vesm9212-038-p3s4w8</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9FXXFS3-------</tag>
 </m>
 <m id="m-vesm9212-038-p3s4w9">
 <src.rf>manual</src.rf>

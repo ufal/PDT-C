@@ -1612,7 +1612,7 @@
 <form>Reliance</form>
 <tag>
 <AM lemma="Reliance_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Reliance_;G_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Reliance_;G_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0149-001-p1s4W10-Ta">
@@ -2657,7 +2657,7 @@
 <form>Reliance</form>
 <tag>
 <AM lemma="Reliance_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Reliance_;G_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Reliance_;G_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0149-001-p1s8W3-Ta">
@@ -3116,7 +3116,7 @@
 <form>Reliance</form>
 <tag>
 <AM lemma="Reliance_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Reliance_;G_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Reliance_;G_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0149-001-p1s9W3-Ta">
@@ -3649,7 +3649,7 @@
 <form>Reliance</form>
 <tag>
 <AM lemma="Reliance_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Reliance_;G_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Reliance_;G_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0149-001-p1s10W9-Ta">
@@ -4063,7 +4063,7 @@
 <form>Reliance</form>
 <tag>
 <AM lemma="Reliance_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Reliance_;G_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Reliance_;G_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0149-001-p1s11W8-Ta">
@@ -5227,7 +5227,7 @@
 <form>Reliance</form>
 <tag>
 <AM lemma="Reliance_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Reliance_;G_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Reliance_;G_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0149-001-p1s16W14-Ta">
@@ -5256,7 +5256,7 @@
 <form>Reliance</form>
 <tag>
 <AM lemma="Reliance_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Reliance_;G_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Reliance_;G_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0149-001-p1s17W3-Ta">
@@ -5685,7 +5685,7 @@
 <form>Reliance</form>
 <tag>
 <AM lemma="Reliance_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Reliance_;G_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Reliance_;G_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0149-001-p1s18W33-Ta">

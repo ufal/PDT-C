@@ -9280,7 +9280,7 @@
 <AM lemma="Angela_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="angel_,a" src="auto">NNMS1-----A----</AM>
 <AM lemma="Angel_;Y" src="manual">NNMS1-----A----</AM>
-<AM lemma="Angel-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Angel-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2136-001-p1s31W2-Ta">
@@ -10343,7 +10343,7 @@
 <form>show</form>
 <tag>
 <AM lemma="show" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="show-2" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="show-1" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2136-001-p1s33W24-Ta">
@@ -10896,7 +10896,7 @@
 <AM lemma="Angela_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="angel_,a" src="auto">NNMS1-----A----</AM>
 <AM lemma="Angel_;Y" src="manual">NNMS1-----A----</AM>
-<AM lemma="Angel-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Angel-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2136-001-p1s34W35-Ta">

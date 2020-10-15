@@ -2095,7 +2095,7 @@
 <LM>w#w-ln95043-073-p5s2w3</LM>
 </w.rf>
 <form>stál</form>
-<tag lemma="stát-4_^(něco_stojí_peníze)" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95043-073-p5s2w4">
 <src.rf>manual</src.rf>

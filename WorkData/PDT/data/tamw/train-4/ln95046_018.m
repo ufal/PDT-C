@@ -97,7 +97,7 @@
 <LM>w#w-ln95046-018-p1s1w10</LM>
 </w.rf>
 <form>Spartě</form>
-<tag lemma="Sparta_;m" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Sparta_;G_;m" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 </s>
 <s id="m-ln95046-018-p2s1A">
@@ -1073,7 +1073,7 @@
 <LM>w#w-ln95046-018-p3s3w5</LM>
 </w.rf>
 <form>Spartě</form>
-<tag lemma="Sparta_;m" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Sparta_;G_;m" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln95046-018-p3s3w6">
 <src.rf>manual</src.rf>

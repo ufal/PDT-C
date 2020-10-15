@@ -1619,7 +1619,7 @@
 <LM>w#w-mf920902-129-p2s11w2</LM>
 </w.rf>
 <form>bydlí</form>
-<tag lemma="bydlet" src="orig" selected="1">VB-P---3P-AAI--</tag>
+<tag lemma="bydlet" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-mf920902-129-p2s11w3">
 <src.rf>manual</src.rf>

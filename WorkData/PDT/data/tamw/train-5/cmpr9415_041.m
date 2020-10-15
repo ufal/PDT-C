@@ -2539,7 +2539,7 @@
 <form>Hodně</form>
 <tag>
 <AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
-<AM lemma="hodně-1_^(hodně_+_2._p.,_hodně_peněz)" src="manual" selected="1">Ca--1----------</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-041-p8s1w2">
@@ -3606,7 +3606,7 @@
 <LM>w#w-cmpr9415-041-p9s2w15</LM>
 </w.rf>
 <form>lidé</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP1-----A---1</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-cmpr9415-041-p9s2w16">
 <src.rf>manual</src.rf>

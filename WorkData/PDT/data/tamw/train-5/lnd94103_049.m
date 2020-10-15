@@ -5350,7 +5350,7 @@
 <LM>w#w-lnd94103-049-p1s27w29</LM>
 </w.rf>
 <form>Den</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94103-049-p1s27w30">
 <src.rf>manual</src.rf>

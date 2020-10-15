@@ -401,7 +401,7 @@
 <form>Arbese</form>
 <tag>
 <AM lemma="Arbes_;Y" src="auto">NNMS5-----A----</AM>
-<AM lemma="Arbes_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Arbes_;Y" src="manual" selected="1">NNMS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln95048-049-p1s3w30">

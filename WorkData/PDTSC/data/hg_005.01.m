@@ -2177,7 +2177,7 @@
 <AM lemma="mladit" src="auto">VB-S---3P-AAI--</AM>
 <AM lemma="mladý" src="auto" recommended="1">AAMP1----1A----</AM>
 <AM lemma="mladý" src="auto">AAMP5----1A----</AM>
-<AM lemma="mladý-2" src="manual" selected="1">NNMP1-----A----</AM>
+<AM lemma="mladý" src="manual" selected="1">AAMP1----1A----</AM>
 </tag>
 </m>
 <m id="m005-d1t564-10">

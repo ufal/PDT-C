@@ -1679,7 +1679,7 @@
 <LM>w#w-vesm9303-046-p9s5w5</LM>
 </w.rf>
 <form>něž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4XP4----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4XP4---------1</tag>
 </m>
 <m id="m-vesm9303-046-p9s5w6">
 <src.rf>manual</src.rf>
@@ -3046,7 +3046,7 @@
 <LM>w#w-vesm9303-046-p12s3w18</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9FXXFS3-------</tag>
 </m>
 <m id="m-vesm9303-046-p12s3w19">
 <src.rf>manual</src.rf>
@@ -3726,7 +3726,7 @@
 <LM>w#w-vesm9303-046-p14s1w7</LM>
 </w.rf>
 <form>str</form>
-<tag lemma="strana-4" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="strana" src="orig" selected="1">NNFXX-----A---a</tag>
 </m>
 <m id="m-vesm9303-046-p14s1w8">
 <src.rf>manual</src.rf>
@@ -10184,7 +10184,7 @@
 <form>ap</form>
 <tag>
 <AM lemma="apod-1_:B_^(a_podobně)" src="orig">Db------------8</AM>
-<AM lemma="apod_^(a_podobně)" src="auto" recommended="1" selected="1">Bb------------9</AM>
+<AM lemma="ap_^(a_podobně)" src="auto" recommended="1" selected="1">Bb-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-046-p45s8w36">
@@ -13608,7 +13608,7 @@
 <LM>w#w-vesm9303-046-p59s3w10</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9FXXFS3-------</tag>
 </m>
 <m id="m-vesm9303-046-p59s3w11">
 <src.rf>manual</src.rf>
@@ -14415,7 +14415,7 @@
 <LM>w#w-vesm9303-046-p59s9w8</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9FXXFS3-------</tag>
 </m>
 <m id="m-vesm9303-046-p59s9w9">
 <src.rf>manual</src.rf>

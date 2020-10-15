@@ -4249,7 +4249,7 @@
 </w.rf>
 <form>její</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSFXXFS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9FXXFS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSIS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSNS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP1FS3-------</AM>
@@ -6309,7 +6309,7 @@
 <form>něž</form>
 <tag>
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">P9NS4----------</AM>
-<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">P4XP4----------</AM>
+<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">P4XP4---------1</AM>
 </tag>
 </m>
 <m id="m-wsj2282-001-p1s19W27-Ta">
@@ -6884,7 +6884,7 @@
 <AM lemma="snadný" src="auto">AANP1----2A----</AM>
 <AM lemma="snadný" src="auto">AANP4----2A----</AM>
 <AM lemma="snadný" src="auto">AANP5----2A----</AM>
-<AM lemma="snadný" src="auto" recommended="1">AANS1----2A----</AM>
+<AM lemma="snadný" src="auto" recommended="1">AANS1----2A---1</AM>
 <AM lemma="snadný" src="auto">AANS4----2A----</AM>
 <AM lemma="snadný" src="auto">AANS5----2A----</AM>
 </tag>

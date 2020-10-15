@@ -1276,7 +1276,7 @@
 <AM lemma="mladit" src="auto">VB-S---3P-AAI--</AM>
 <AM lemma="mladý" src="auto" recommended="1">AAMP1----1A----</AM>
 <AM lemma="mladý" src="auto">AAMP5----1A----</AM>
-<AM lemma="mladý-2" src="manual" selected="1">NNMP1-----A----</AM>
+<AM lemma="mladý" src="manual" selected="1">AAMP1----1A----</AM>
 </tag>
 </m>
 <m id="m007-d1t481-1">
@@ -3538,7 +3538,7 @@
 </w.rf>
 <form>hodně</form>
 <tag>
-<AM lemma="hodně-1" src="auto" selected="1">Ca--X----------</AM>
+<AM lemma="hodně-3" src="auto" selected="1">Db-------------</AM>
 <AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto" recommended="1">Dg-------1A----</AM>
 <AM lemma="hodně-3" src="auto">Dg-------1A----</AM>
 </tag>
@@ -3578,7 +3578,7 @@
 </w.rf>
 <form>Hodně</form>
 <tag>
-<AM lemma="hodně-1" src="auto" selected="1">Ca--X----------</AM>
+<AM lemma="hodně-3" src="auto" selected="1">Db-------------</AM>
 <AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
 <AM lemma="hodně-3" src="auto" recommended="1">Dg-------1A----</AM>
 </tag>
@@ -3701,7 +3701,7 @@
 </w.rf>
 <form>hodně</form>
 <tag>
-<AM lemma="hodně-1" src="auto" selected="1">Ca--X----------</AM>
+<AM lemma="hodně-3" src="auto" selected="1">Db-------------</AM>
 <AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto" recommended="1">Dg-------1A----</AM>
 <AM lemma="hodně-3" src="auto">Dg-------1A----</AM>
 </tag>
@@ -4143,7 +4143,7 @@
 <AM lemma="Blatnička_;G" src="auto">NNFP1-----A----</AM>
 <AM lemma="Blatnička_;G" src="auto">NNFP4-----A----</AM>
 <AM lemma="Blatnička_;G" src="auto">NNFP5-----A----</AM>
-<AM lemma="Blatnička_;G" src="auto" selected="1">NNFS2-----A----</AM>
+<AM lemma="Blatnička-2_;G" src="auto" selected="1">NNFS2-----A----</AM>
 <AM lemma="Blatnička_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Blatnička_;Y" src="auto">NNMP7-----A----</AM>
 <AM lemma="Blatnička_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
@@ -4644,7 +4644,7 @@
 <AM lemma="mladit" src="auto">VB-S---3P-AAI--</AM>
 <AM lemma="mladý" src="auto" recommended="1">AAMP1----1A----</AM>
 <AM lemma="mladý" src="auto">AAMP5----1A----</AM>
-<AM lemma="mladý-2" src="manual" selected="1">NNMP1-----A----</AM>
+<AM lemma="mladý" src="manual" selected="1">AAMP1----1A----</AM>
 </tag>
 </m>
 <m id="m007-d1t699-24">

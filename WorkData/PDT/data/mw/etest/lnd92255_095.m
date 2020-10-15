@@ -615,7 +615,7 @@
 <LM>w#w-lnd92255-095-p3s2w42</LM>
 </w.rf>
 <form>nedávno</form>
-<tag lemma="nedávno-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="dávno-1" src="auto" selected="1">Dg-------1N----</tag>
 </m>
 <m id="m-lnd92255-095-p3s2w43">
 <src.rf>manual</src.rf>
@@ -3670,7 +3670,7 @@
 <LM>w#w-lnd92255-095-p6s2w13</LM>
 </w.rf>
 <form>bydlí</form>
-<tag lemma="bydlet" src="orig" selected="1">VB-P---3P-AAI--</tag>
+<tag lemma="bydlet" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-lnd92255-095-p6s2w14">
 <src.rf>manual</src.rf>
@@ -4314,7 +4314,7 @@
 <form>LN</form>
 <tag>
 <AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="LN-1_;m_^(Lidové_noviny,_deník)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="LN-1_;m_^(Lidové_noviny)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>

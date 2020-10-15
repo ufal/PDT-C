@@ -1890,7 +1890,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>něž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4XP4----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4XP4---------1</tag>
 </m>
 <m id="m-cmpr9406-064-p13s2w7">
 <src.rf>manual</src.rf>
@@ -3645,7 +3645,7 @@
 <LM>w#w-cmpr9406-064-p14s6w2</LM>
 </w.rf>
 <form>hodiny</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-cmpr9406-064-p14s6w3">
 <src.rf>manual</src.rf>

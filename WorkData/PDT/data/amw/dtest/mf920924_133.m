@@ -795,7 +795,7 @@
 <LM>w#w-mf920924-133-p2s7w4</LM>
 </w.rf>
 <form>dále</form>
-<tag lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="orig" selected="1">Db------------1</tag>
+<tag lemma="dále-3_^(také,_za_další)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf920924-133-p2s7w5">
 <src.rf>manual</src.rf>
@@ -988,7 +988,7 @@
 <form>hodně</form>
 <tag>
 <AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
-<AM lemma="hodně-1_^(hodně_+_2._p.,_hodně_peněz)" src="manual" selected="1">Ca--2----------</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-mf920924-133-p2s7w28">

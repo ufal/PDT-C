@@ -1013,7 +1013,7 @@
 <LM>w#w-ln94207-84-p3s2w1</LM>
 </w.rf>
 <form>Lidi</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP1-----A---1</tag>
 </m>
 <m id="m-ln94207-84-p3s2w2">
 <src.rf>manual</src.rf>
@@ -6202,7 +6202,7 @@
 <LM>w#w-ln94207-84-p8s5w8</LM>
 </w.rf>
 <form>vlastně</form>
-<tag lemma="vlastně-2_^(totiž)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="vlastně-2" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94207-84-p8s5w9">
 <src.rf>manual</src.rf>
@@ -6622,7 +6622,7 @@
 <LM>w#w-ln94207-84-p9s2w2</LM>
 </w.rf>
 <form>den</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln94207-84-p9s2w3">
 <src.rf>manual</src.rf>
@@ -11096,7 +11096,7 @@
 <LM>w#w-ln94207-84-p13s9w2</LM>
 </w.rf>
 <form>den</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln94207-84-p13s9w3">
 <src.rf>manual</src.rf>

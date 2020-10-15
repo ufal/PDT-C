@@ -2213,7 +2213,7 @@
 <LM>w#w-cmpr9415-050-p11s2w19</LM>
 </w.rf>
 <form>nejbohatších</form>
-<tag lemma="bohatý" src="orig" selected="1">AAMP2----3A----</tag>
+<tag lemma="bohatý" src="orig" selected="1">AAMP2----3A---1</tag>
 </m>
 <m id="m-cmpr9415-050-p11s2w20">
 <src.rf>manual</src.rf>

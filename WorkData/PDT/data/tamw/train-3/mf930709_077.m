@@ -143,7 +143,7 @@
 <LM>w#w-mf930709-077-p2s1Bw10</LM>
 </w.rf>
 <form>vítězové</form>
-<tag lemma="vítěz" src="orig" selected="1">NNMP1-----A---1</tag>
+<tag lemma="vítěz" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf930709-077-p2s1Bw11">
 <src.rf>manual</src.rf>

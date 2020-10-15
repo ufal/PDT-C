@@ -2027,7 +2027,7 @@
 <LM>w#w-mf930702-126-p6s3w5</LM>
 </w.rf>
 <form>sen</form>
-<tag lemma="sen" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="sen-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930702-126-p6s3w6">
 <src.rf>manual</src.rf>

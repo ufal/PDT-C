@@ -644,7 +644,7 @@
 <LM>w#w-mf930713-042-p3s1w24</LM>
 </w.rf>
 <form>stát</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-mf930713-042-p3s1w25">
 <src.rf>manual</src.rf>

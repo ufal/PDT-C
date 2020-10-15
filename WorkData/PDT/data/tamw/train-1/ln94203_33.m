@@ -53,7 +53,7 @@
 <form>hodně</form>
 <tag>
 <AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
-<AM lemma="hodně-1_^(hodně_+_2._p.,_hodně_peněz)" src="manual" selected="1">Ca--4----------</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94203-33-p1s1w6">
@@ -250,7 +250,7 @@
 <form>agrosalonu</form>
 <tag>
 <AM lemma="agrosalon" src="orig">NNIS6-----A---1</AM>
-<AM lemma="agrosalon_,s_^(^DD**agrosalón)" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="agrosalon_,s_^(^DD**agrosalón)" src="manual" selected="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln94203-33-p2s1Bw17">
@@ -503,7 +503,7 @@
 <LM>w#w-ln94203-33-p2s3w6</LM>
 </w.rf>
 <form>lidé</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP1-----A---1</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln94203-33-p2s3w7">
 <src.rf>manual</src.rf>

@@ -5704,7 +5704,7 @@
 <LM>w#w-ln95044-084-p8s2w8</LM>
 </w.rf>
 <form>nejbohatším</form>
-<tag lemma="bohatý" src="orig" selected="1">AAFP3----3A----</tag>
+<tag lemma="bohatý" src="orig" selected="1">AAFP3----3A---1</tag>
 </m>
 <m id="m-ln95044-084-p8s2w9">
 <src.rf>manual</src.rf>

@@ -120,7 +120,7 @@
 </w.rf>
 <form>den</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" recommended="1">NNIS1-----A----</AM>
+<AM lemma="den-1_^(jednotka_času)" recommended="1">NNIS1-----A----</AM>
 <AM lemma="den-2_,t_^(měnová_jednotka)">NNIS1-----A----</AM>
 <AM lemma="den-2_,t_^(měnová_jednotka)">NNIS4-----A----</AM>
 <AM lemma="den_^(jednotka_času)">NNIS4-----A----</AM>
@@ -2392,7 +2392,7 @@
 <form>Windows</form>
 <tag>
 <AM lemma="Windows" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Windows_;m" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="Windows_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_18-SCzechM-p1883-s1-w18">
@@ -2480,7 +2480,7 @@
 <form>Windows</form>
 <tag>
 <AM lemma="Windows" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Windows_;m" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="Windows_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_18-SCzechM-p1883-s1-w26">
@@ -2702,7 +2702,7 @@
 <form>Windows</form>
 <tag>
 <AM lemma="Windows" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Windows_;m" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="Windows_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_18-SCzechM-p1883-s1-w46">
@@ -4358,7 +4358,7 @@
 </w.rf>
 <form>den</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" recommended="1">NNIS4-----A----</AM>
+<AM lemma="den-1_^(jednotka_času)" recommended="1">NNIS4-----A----</AM>
 <AM lemma="den-2_,t_^(měnová_jednotka)">NNIS1-----A----</AM>
 <AM lemma="den-2_,t_^(měnová_jednotka)">NNIS4-----A----</AM>
 <AM lemma="den_^(jednotka_času)">NNIS1-----A----</AM>
@@ -5062,7 +5062,7 @@
 </w.rf>
 <form>lidi</form>
 <tag>
-<AM lemma="člověk" recommended="1">NNMP1-----A----</AM>
+<AM lemma="lidé" recommended="1">NNMP1-----A---1</AM>
 <AM lemma="člověk">NNMP4-----A----</AM>
 <AM lemma="člověk">NNMP5-----A----</AM>
 </tag>
@@ -6173,7 +6173,7 @@
 </w.rf>
 <form>den</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" recommended="1">NNIS4-----A----</AM>
+<AM lemma="den-1_^(jednotka_času)" recommended="1">NNIS4-----A----</AM>
 <AM lemma="den-2_,t_^(měnová_jednotka)">NNIS1-----A----</AM>
 <AM lemma="den-2_,t_^(měnová_jednotka)">NNIS4-----A----</AM>
 <AM lemma="den_^(jednotka_času)">NNIS1-----A----</AM>

@@ -1034,7 +1034,7 @@
 <LM>w#w-ln95045-113-p4s2w7</LM>
 </w.rf>
 <form>Mazda</form>
-<tag lemma="Mazda_;m" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Mazda-1_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95045-113-p4s2w8">
 <src.rf>manual</src.rf>

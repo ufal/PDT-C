@@ -1008,7 +1008,7 @@
 <form>Spartě</form>
 <tag>
 <AM lemma="Sparta_;m" src="auto">NNFS3-----A----</AM>
-<AM lemma="Sparta_;m" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="Sparta_;G_;m" src="auto" recommended="1">NNFS6-----A----</AM>
 <AM lemma="sparta" src="auto">NNFS3-----A----</AM>
 <AM lemma="sparta" src="auto">NNFS6-----A----</AM>
 </tag>

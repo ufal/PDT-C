@@ -1030,7 +1030,7 @@
 <LM>w#w-mf930708-126-p3s9w6</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="s-2`sekunda" src="orig" selected="1">BNFXX-----A---1</tag>
+<tag lemma="sekunda" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-mf930708-126-p3s9w7">
 <src.rf>manual</src.rf>
@@ -1282,7 +1282,7 @@
 <LM>w#w-mf930708-126-p3s13w8</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="s-2`sekunda" src="orig" selected="1">BNFXX-----A---1</tag>
+<tag lemma="sekunda" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-mf930708-126-p3s13w9">
 <src.rf>manual</src.rf>

@@ -59,7 +59,7 @@
 <LM>w#w-lnd91301-065-p1s1Aw6</LM>
 </w.rf>
 <form>o</form>
-<tag lemma="o-4_^(graf._oddělovač)" src="orig" selected="1">Z:-------------</tag>
+<tag lemma="o-33" src="orig" selected="1">Q3-------------</tag>
 </m>
 </s>
 <s id="m-lnd91301-065-p1s1B">
@@ -607,7 +607,7 @@
 <LM>w#w-lnd91301-065-p3s4w15</LM>
 </w.rf>
 <form>něž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4NS4----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4NS4---------1</tag>
 </m>
 <m id="m-lnd91301-065-p3s4w16">
 <src.rf>manual</src.rf>

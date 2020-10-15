@@ -433,7 +433,7 @@
 <form>US</form>
 <tag>
 <AM lemma="US-2_:B_,t_^(americký)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="US-2_^(americký)" src="manual" selected="1">BAXXX----1A----</AM>
+<AM lemma="US-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-011-p2s2w12">

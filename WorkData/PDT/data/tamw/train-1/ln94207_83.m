@@ -1253,7 +1253,7 @@
 <LM>w#w-ln94207-83-p4s1w4</LM>
 </w.rf>
 <form>nejbohatší</form>
-<tag lemma="bohatý" src="orig" selected="1">AAMP1----3A----</tag>
+<tag lemma="bohatý" src="orig" selected="1">AAMP1----3A---1</tag>
 </m>
 <m id="m-ln94207-83-p4s1w5">
 <src.rf>manual</src.rf>
@@ -1868,7 +1868,7 @@
 <LM>w#w-ln94207-83-p4s7w3</LM>
 </w.rf>
 <form>stáli</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VpMP----R-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln94207-83-p4s7w4">
 <src.rf>manual</src.rf>
@@ -3607,7 +3607,7 @@
 <LM>w#w-ln94207-83-p7s3w4</LM>
 </w.rf>
 <form>stát</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94207-83-p7s3w5">
 <src.rf>manual</src.rf>

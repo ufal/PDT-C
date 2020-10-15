@@ -822,7 +822,7 @@
 <LM>w#w-ln94210-12-p2s4w41</LM>
 </w.rf>
 <form>dále</form>
-<tag lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="orig" selected="1">Db------------1</tag>
+<tag lemma="dále-3_^(také,_za_další)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94210-12-p2s4w42">
 <src.rf>manual</src.rf>

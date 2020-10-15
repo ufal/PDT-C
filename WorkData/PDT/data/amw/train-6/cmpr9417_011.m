@@ -1815,7 +1815,7 @@
 <LM>w#w-cmpr9417-011-p12s1w15</LM>
 </w.rf>
 <form>stálo</form>
-<tag lemma="stát-4_^(něco_stojí_peníze)" src="orig" selected="1">VpNS----R-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-cmpr9417-011-p12s1w16">
 <src.rf>manual</src.rf>

@@ -255,7 +255,7 @@
 <form>MS</form>
 <tag>
 <AM lemma="MS-3_:B_^(mistrovství_světa)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="MS-3_^(mistrovství_světa)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="MS-1_^(mistrovství_světa)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-114-p1s5w21">
@@ -500,7 +500,7 @@
 <LM>w#w-lnd94103-114-p1s7w12</LM>
 </w.rf>
 <form>Švédy</form>
-<tag lemma="Švéd_;E" src="orig" selected="1">NNMP7-----A----</tag>
+<tag lemma="Švéd_;E_;Y" src="orig" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-lnd94103-114-p1s7w13">
 <src.rf>manual</src.rf>

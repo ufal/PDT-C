@@ -381,7 +381,7 @@
 <form>C</form>
 <tag>
 <AM lemma="Celsius_:B" src="orig">NNMXX-----A---8</AM>
-<AM lemma="Celsius" src="manual" selected="1">NNMXX-----A---8</AM>
+<AM lemma="Celsius_;Y" src="manual" selected="1">NNMXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92255-109-p2s4w2">
@@ -1865,7 +1865,7 @@
 <LM>w#w-lnd92255-109-p5s2w2</LM>
 </w.rf>
 <form>den</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-lnd92255-109-p5s2w3">
 <src.rf>manual</src.rf>

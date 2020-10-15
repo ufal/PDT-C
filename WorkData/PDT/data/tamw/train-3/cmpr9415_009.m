@@ -371,7 +371,7 @@
 <LM>w#w-cmpr9415-009-p7s1w11</LM>
 </w.rf>
 <form>den</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9415-009-p8s1">

@@ -610,7 +610,7 @@
 <form>nedostatek</form>
 <tag>
 <AM lemma="nedostatek" src="orig">NNIS1-----A----</AM>
-<AM lemma="dostatek" src="manual" selected="1">NNIS1-----N----</AM>
+<AM lemma="nedostatek" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-002-p2s5w16">
@@ -924,7 +924,7 @@
 <LM>w#w-mf920922-002-p2s8Aw2</LM>
 </w.rf>
 <form>spíš</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="spíš" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf920922-002-p2s8Aw3">
 <src.rf>manual</src.rf>

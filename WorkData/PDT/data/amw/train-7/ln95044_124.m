@@ -566,7 +566,7 @@
 <LM>w#w-ln95044-124-p2s3w14</LM>
 </w.rf>
 <form>r</form>
-<tag lemma="režie" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="r-33" src="orig" selected="1">Q3-------------</tag>
 </m>
 <m id="m-ln95044-124-p2s3w15">
 <src.rf>manual</src.rf>

@@ -118,7 +118,7 @@
 <LM>w#w-ln94211-56-p1s1w13</LM>
 </w.rf>
 <form>o</form>
-<tag lemma="o-4_^(graf._oddělovač)" src="orig" selected="1">Z:-------------</tag>
+<tag lemma="o-33" src="orig" selected="1">Q3-------------</tag>
 </m>
 </s>
 <s id="m-ln94211-56-p2s1">

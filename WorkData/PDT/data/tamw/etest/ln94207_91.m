@@ -1847,7 +1847,7 @@
 <LM>w#w-ln94207-91-p1s10w5</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_;m_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="LN-1_;m_^(Lidové_noviny)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 </s>
 </mdata>

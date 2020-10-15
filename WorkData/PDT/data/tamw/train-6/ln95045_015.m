@@ -597,7 +597,7 @@
 <LM>w#w-ln95045-015-p3s1w15</LM>
 </w.rf>
 <form>něhož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS2----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS2---------3</tag>
 </m>
 <m id="m-ln95045-015-p3s1w16">
 <src.rf>manual</src.rf>

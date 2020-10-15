@@ -2167,7 +2167,7 @@
 <form>Přeci</form>
 <tag>
 <AM lemma="přece-1" src="auto">J^------------1</AM>
-<AM lemma="přece-2" src="auto" recommended="1">TT------------1</AM>
+<AM lemma="přeci-2_,h_^(^GC**přece-2)" src="auto" recommended="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m128-d1t2663-2">
@@ -4011,7 +4011,7 @@
 </w.rf>
 <form>Vánoce</form>
 <tag>
-<AM lemma="Vánoce" src="auto" recommended="1">NNFP1-----A----</AM>
+<AM lemma="Vánoce_;m" src="auto" recommended="1">NNFP1-----A----</AM>
 <AM lemma="Vánoce" src="auto">NNFP4-----A----</AM>
 <AM lemma="Vánoce" src="auto">NNFP5-----A----</AM>
 <AM lemma="Vánoce" src="auto">NNFP6-----A---6</AM>

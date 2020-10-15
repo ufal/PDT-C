@@ -919,7 +919,7 @@
 <LM>w#w-mf920923-137-p3s2w11</LM>
 </w.rf>
 <form>spíš</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="spíš" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf920923-137-p3s2w12">
 <src.rf>manual</src.rf>

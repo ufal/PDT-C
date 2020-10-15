@@ -507,7 +507,7 @@
 <LM>w#w-lnd92251-110-p4s1w13</LM>
 </w.rf>
 <form>Sparty</form>
-<tag lemma="Sparta_;m" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Sparta_;G_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92251-110-p4s1w14">
 <src.rf>manual</src.rf>
@@ -1954,7 +1954,7 @@
 <LM>w#w-lnd92251-110-p6s2w11</LM>
 </w.rf>
 <form>stát</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-lnd92251-110-p6s2w12">
 <src.rf>manual</src.rf>

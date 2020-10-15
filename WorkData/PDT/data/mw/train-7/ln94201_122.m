@@ -75,7 +75,7 @@
 <LM>w#w-ln94201-122-p1s1w8</LM>
 </w.rf>
 <form>Pavla</form>
-<tag lemma="Pavel-1_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Pavel_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94201-122-p1s1w9">
 <src.rf>manual</src.rf>

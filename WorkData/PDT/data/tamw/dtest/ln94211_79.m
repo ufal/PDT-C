@@ -2028,7 +2028,7 @@
 <LM>w#w-ln94211-79-p7s1w19</LM>
 </w.rf>
 <form>nejbohatším</form>
-<tag lemma="bohatý" src="orig" selected="1">AANP3----3A----</tag>
+<tag lemma="bohatý" src="orig" selected="1">AANP3----3A---1</tag>
 </m>
 <m id="m-ln94211-79-p7s1w20">
 <src.rf>manual</src.rf>
@@ -2321,7 +2321,7 @@
 <LM>w#w-ln94211-79-p8s1w10</LM>
 </w.rf>
 <form>Pavla</form>
-<tag lemma="Pavel-1_;Y" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Pavel_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94211-79-p8s1w11">
 <src.rf>manual</src.rf>

@@ -1495,7 +1495,7 @@
 <LM>w#w-ln95043-012-p4s5w23</LM>
 </w.rf>
 <form>show</form>
-<tag lemma="show" src="auto" selected="1">NNFXX-----A----</tag>
+<tag lemma="show-1" src="auto" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln95043-012-p4s5w24">
 <src.rf>manual</src.rf>

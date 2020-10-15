@@ -3075,7 +3075,7 @@
 <LM>w#w-ln95040-071-p4s14w16</LM>
 </w.rf>
 <form>Kanadě</form>
-<tag lemma="Kanada_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Kanada_;G_;m" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln95040-071-p4s14w17">
 <src.rf>manual</src.rf>

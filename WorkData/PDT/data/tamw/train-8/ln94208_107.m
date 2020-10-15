@@ -378,7 +378,7 @@
 <LM>w#w-ln94208-107-p2s1Bw35</LM>
 </w.rf>
 <form>Švédy</form>
-<tag lemma="Švéd_;E" src="orig" selected="1">NNMP7-----A----</tag>
+<tag lemma="Švéd_;E_;Y" src="orig" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-ln94208-107-p2s1Bw36">
 <src.rf>manual</src.rf>

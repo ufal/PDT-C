@@ -788,7 +788,7 @@
 <LM>w#w-mf920923-099-p1s7w17</LM>
 </w.rf>
 <form>bydlí</form>
-<tag lemma="bydlet" src="orig" selected="1">VB-P---3P-AAI--</tag>
+<tag lemma="bydlet" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-mf920923-099-p1s7w18">
 <src.rf>manual</src.rf>

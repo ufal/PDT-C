@@ -2191,7 +2191,7 @@
 <AM lemma="aero_;m_^(letadlo)" src="auto">NNNS1-----A----</AM>
 <AM lemma="aero_;m_^(letadlo)" src="auto">NNNS4-----A----</AM>
 <AM lemma="aero_;m_^(letadlo)" src="auto">NNNS5-----A----</AM>
-<AM lemma="aero_;m_^(letadlo;automobil)" src="manual" selected="1">NNNS4-----A----</AM>
+<AM lemma="aero_^(letadlo)" src="manual" selected="1">NNNS4-----A----</AM>
 </tag>
 </m>
 <m id="m100-d1t1750-18">

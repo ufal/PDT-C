@@ -994,7 +994,7 @@
 <LM>w#w-lnd92254-105-p4s3Aw19</LM>
 </w.rf>
 <form>AIDS</form>
-<tag lemma="AIDS_;U_^(Syndrom_získaného_selhání_imunity)" src="orig" selected="1">NNIXX-----A---b</tag>
+<tag lemma="AIDS_;U_^(Syndrom_získaného_selhání_imunity)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd92254-105-p4s3Aw20">
 <src.rf>manual</src.rf>

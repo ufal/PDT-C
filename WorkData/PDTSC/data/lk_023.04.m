@@ -996,7 +996,7 @@
 </w.rf>
 <form>hodně</form>
 <tag>
-<AM lemma="hodně-1" src="auto" selected="1">Ca--X----------</AM>
+<AM lemma="hodně-3" src="auto" selected="1">Db-------------</AM>
 <AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto" recommended="1">Dg-------1A----</AM>
 <AM lemma="hodně-3" src="auto">Dg-------1A----</AM>
 </tag>
@@ -1640,7 +1640,7 @@
 </w.rf>
 <form>hodně</form>
 <tag>
-<AM lemma="hodně-1" src="auto" selected="1">Ca--X----------</AM>
+<AM lemma="hodně-3" src="auto" selected="1">Db-------------</AM>
 <AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto" recommended="1">Dg-------1A----</AM>
 <AM lemma="hodně-3" src="auto">Dg-------1A----</AM>
 </tag>
@@ -4847,7 +4847,7 @@
 </w.rf>
 <form>Hodně</form>
 <tag>
-<AM lemma="hodně-1" src="auto" selected="1">Ca--X----------</AM>
+<AM lemma="hodně-3" src="auto" selected="1">Db-------------</AM>
 <AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
 <AM lemma="hodně-3" src="auto" recommended="1">Dg-------1A----</AM>
 </tag>
@@ -5014,7 +5014,7 @@
 </w.rf>
 <form>bydlí</form>
 <tag>
-<AM lemma="bydlet" src="auto" recommended="1">VB-P---3P-AAI--</AM>
+<AM lemma="bydlet" src="auto" recommended="1">VB-P---3P-AAI-1</AM>
 <AM lemma="bydlet" src="auto">VB-S---3P-AAI--</AM>
 </tag>
 </m>
@@ -5324,7 +5324,7 @@
 </w.rf>
 <form>hodně</form>
 <tag>
-<AM lemma="hodně-1" src="auto" selected="1">Ca--X----------</AM>
+<AM lemma="hodně-3" src="auto" selected="1">Db-------------</AM>
 <AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
 <AM lemma="hodně-3" src="auto" recommended="1">Dg-------1A----</AM>
 </tag>

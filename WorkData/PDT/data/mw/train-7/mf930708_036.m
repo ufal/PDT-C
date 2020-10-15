@@ -1442,7 +1442,7 @@
 <LM>w#w-mf930708-036-p6s1w10</LM>
 </w.rf>
 <form>str</form>
-<tag lemma="strana-4" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="strana" src="orig" selected="1">NNFXX-----A---a</tag>
 </m>
 <m id="m-mf930708-036-p6s1w11">
 <src.rf>manual</src.rf>

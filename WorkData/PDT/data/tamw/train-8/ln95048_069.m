@@ -457,7 +457,7 @@
 <AM lemma="armageddon" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="armageddon" src="auto">NNIS3-----A----</AM>
 <AM lemma="armageddon" src="auto">NNIS6-----A---1</AM>
-<AM lemma="armagedon_,i_^(^DS**armageddon)" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="armagedon_,s_^(^DD**armageddon)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-069-p2s2w21">
@@ -3504,7 +3504,7 @@
 <LM>w#w-ln95048-069-p6s1w11</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9FXXFS3-------</tag>
 </m>
 <m id="m-ln95048-069-p6s1w12">
 <src.rf>manual</src.rf>
@@ -3714,7 +3714,7 @@
 <LM>w#w-ln95048-069-p6s2w19</LM>
 </w.rf>
 <form>vlastně</form>
-<tag lemma="vlastně-2_^(totiž)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="vlastně-2" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln95048-069-p6s2w20">
 <src.rf>manual</src.rf>
@@ -4041,7 +4041,7 @@
 <LM>w#w-ln95048-069-p6s4w1</LM>
 </w.rf>
 <form>Její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9FXXFS3-------</tag>
 </m>
 <m id="m-ln95048-069-p6s4w2">
 <src.rf>manual</src.rf>

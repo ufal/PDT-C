@@ -1259,7 +1259,7 @@
 <LM>w#w-ln94206-36-p4s1w11</LM>
 </w.rf>
 <form>Dublinu</form>
-<tag lemma="Dublin_;G" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Dublin_;G" src="orig" selected="1">NNIS6-----A---1</tag>
 </m>
 <m id="m-ln94206-36-p4s1w12">
 <src.rf>manual</src.rf>
@@ -2298,7 +2298,7 @@
 <LM>w#w-ln94206-36-p5s6w5</LM>
 </w.rf>
 <form>lidé</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP1-----A---1</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln94206-36-p5s6w6">
 <src.rf>manual</src.rf>
@@ -3749,7 +3749,7 @@
 <LM>w#w-ln94206-36-p8s1w21</LM>
 </w.rf>
 <form>vlastně</form>
-<tag lemma="vlastně-2_^(totiž)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="vlastně-2" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94206-36-p8s1w22">
 <src.rf>manual</src.rf>

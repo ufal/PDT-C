@@ -950,7 +950,7 @@
 <LM>w#w-ln95046-020-p2s4w24</LM>
 </w.rf>
 <form>nedávno</form>
-<tag lemma="nedávno-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="dávno-1" src="auto" selected="1">Dg-------1N----</tag>
 </m>
 <m id="m-ln95046-020-p2s4w25">
 <src.rf>manual</src.rf>

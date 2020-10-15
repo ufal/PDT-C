@@ -1057,7 +1057,7 @@
 <LM>w#w-mf930713-013-p4s4w39</LM>
 </w.rf>
 <form>stáli</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VpMP----R-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf930713-013-p4s4w40">
 <src.rf>manual</src.rf>

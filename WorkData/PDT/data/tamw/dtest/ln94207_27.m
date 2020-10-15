@@ -273,7 +273,7 @@
 <LM>w#w-ln94207-27-p2s2w1</LM>
 </w.rf>
 <form>Členové</form>
-<tag lemma="člen" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln94207-27-p2s2w2">
 <src.rf>manual</src.rf>

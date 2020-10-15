@@ -535,7 +535,7 @@
 <LM>w#w-mf930702-053-p1s6w11</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="s-2`sekunda" src="orig" selected="1">BNFXX-----A---1</tag>
+<tag lemma="sekunda" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-mf930702-053-p1s6w12">
 <src.rf>manual</src.rf>

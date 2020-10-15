@@ -1211,7 +1211,7 @@
 <AM lemma="taka-1_;U" src="auto">NNFP5-----A----</AM>
 <AM lemma="taka-1_;U" src="auto">NNFS2-----A----</AM>
 <AM lemma="taky" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="taky-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="taky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m797-1319-10105">
@@ -3853,7 +3853,7 @@
 </w.rf>
 <form>Její</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSFXXFS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9FXXFS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSIS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSNS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP1FS3-------</AM>

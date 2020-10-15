@@ -218,7 +218,7 @@
 <LM>w#w-ln94207-92-p2s1Bw6</LM>
 </w.rf>
 <form>o</form>
-<tag lemma="o-4_^(graf._oddělovač)" src="orig" selected="1">Z:-------------</tag>
+<tag lemma="o-33" src="orig" selected="1">Q3-------------</tag>
 </m>
 </s>
 <s id="m-ln94207-92-p2s1C">
@@ -868,7 +868,7 @@
 <LM>w#w-ln94207-92-p3s3w9</LM>
 </w.rf>
 <form>lidé</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP1-----A---1</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln94207-92-p3s3w10">
 <src.rf>manual</src.rf>
@@ -2043,7 +2043,7 @@
 <LM>w#w-ln94207-92-p4s1w1</LM>
 </w.rf>
 <form>o</form>
-<tag lemma="o-4_^(graf._oddělovač)" src="orig" selected="1">Z:-------------</tag>
+<tag lemma="o-33" src="orig" selected="1">Q3-------------</tag>
 </m>
 <m id="m-ln94207-92-p4s1w2">
 <src.rf>manual</src.rf>
@@ -2992,7 +2992,7 @@
 <LM>w#w-ln94207-92-p6s1w1</LM>
 </w.rf>
 <form>o</form>
-<tag lemma="o-4_^(graf._oddělovač)" src="orig" selected="1">Z:-------------</tag>
+<tag lemma="o-33" src="orig" selected="1">Q3-------------</tag>
 </m>
 <m id="m-ln94207-92-p6s1w2">
 <src.rf>manual</src.rf>
@@ -3386,7 +3386,7 @@
 <LM>w#w-ln94207-92-p7s2w5</LM>
 </w.rf>
 <form>stát</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94207-92-p7s2w6">
 <src.rf>manual</src.rf>
@@ -3936,7 +3936,7 @@
 <LM>w#w-ln94207-92-p8s1w1</LM>
 </w.rf>
 <form>o</form>
-<tag lemma="o-4_^(graf._oddělovač)" src="orig" selected="1">Z:-------------</tag>
+<tag lemma="o-33" src="orig" selected="1">Q3-------------</tag>
 </m>
 <m id="m-ln94207-92-p8s1w2">
 <src.rf>manual</src.rf>
@@ -4012,7 +4012,7 @@
 <LM>w#w-ln94207-92-p10s1w1</LM>
 </w.rf>
 <form>o</form>
-<tag lemma="o-4_^(graf._oddělovač)" src="orig" selected="1">Z:-------------</tag>
+<tag lemma="o-33" src="orig" selected="1">Q3-------------</tag>
 </m>
 <m id="m-ln94207-92-p10s1w2">
 <src.rf>manual</src.rf>
@@ -4081,7 +4081,7 @@
 <LM>w#w-ln94207-92-p11s1w3</LM>
 </w.rf>
 <form>lidé</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP1-----A---1</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln94207-92-p11s1w4">
 <src.rf>manual</src.rf>
@@ -4211,7 +4211,7 @@
 <LM>w#w-ln94207-92-p12s1w1</LM>
 </w.rf>
 <form>o</form>
-<tag lemma="o-4_^(graf._oddělovač)" src="orig" selected="1">Z:-------------</tag>
+<tag lemma="o-33" src="orig" selected="1">Q3-------------</tag>
 </m>
 <m id="m-ln94207-92-p12s1w2">
 <src.rf>manual</src.rf>
@@ -5162,7 +5162,7 @@
 <LM>w#w-ln94207-92-p14s1w1</LM>
 </w.rf>
 <form>o</form>
-<tag lemma="o-4_^(graf._oddělovač)" src="orig" selected="1">Z:-------------</tag>
+<tag lemma="o-33" src="orig" selected="1">Q3-------------</tag>
 </m>
 <m id="m-ln94207-92-p14s1w2">
 <src.rf>manual</src.rf>
@@ -6299,7 +6299,7 @@
 <LM>w#w-ln94207-92-p16s1w1</LM>
 </w.rf>
 <form>o</form>
-<tag lemma="o-4_^(graf._oddělovač)" src="orig" selected="1">Z:-------------</tag>
+<tag lemma="o-33" src="orig" selected="1">Q3-------------</tag>
 </m>
 <m id="m-ln94207-92-p16s1w2">
 <src.rf>manual</src.rf>
@@ -7583,7 +7583,7 @@
 <LM>w#w-ln94207-92-p18s1w1</LM>
 </w.rf>
 <form>o</form>
-<tag lemma="o-4_^(graf._oddělovač)" src="orig" selected="1">Z:-------------</tag>
+<tag lemma="o-33" src="orig" selected="1">Q3-------------</tag>
 </m>
 <m id="m-ln94207-92-p18s1w2">
 <src.rf>manual</src.rf>
@@ -8474,7 +8474,7 @@
 <LM>w#w-ln94207-92-p20s1w1</LM>
 </w.rf>
 <form>o</form>
-<tag lemma="o-4_^(graf._oddělovač)" src="orig" selected="1">Z:-------------</tag>
+<tag lemma="o-33" src="orig" selected="1">Q3-------------</tag>
 </m>
 <m id="m-ln94207-92-p20s1w2">
 <src.rf>manual</src.rf>
@@ -9113,7 +9113,7 @@
 <LM>w#w-ln94207-92-p22s1w1</LM>
 </w.rf>
 <form>o</form>
-<tag lemma="o-4_^(graf._oddělovač)" src="orig" selected="1">Z:-------------</tag>
+<tag lemma="o-33" src="orig" selected="1">Q3-------------</tag>
 </m>
 <m id="m-ln94207-92-p22s1w2">
 <src.rf>manual</src.rf>
@@ -10044,7 +10044,7 @@
 <LM>w#w-ln94207-92-p23s5w14</LM>
 </w.rf>
 <form>den</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln94207-92-p23s5w15">
 <src.rf>manual</src.rf>
@@ -10078,7 +10078,7 @@
 <LM>w#w-ln94207-92-p24s1w1</LM>
 </w.rf>
 <form>o</form>
-<tag lemma="o-4_^(graf._oddělovač)" src="orig" selected="1">Z:-------------</tag>
+<tag lemma="o-33" src="orig" selected="1">Q3-------------</tag>
 </m>
 <m id="m-ln94207-92-p24s1w2">
 <src.rf>manual</src.rf>

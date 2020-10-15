@@ -600,7 +600,7 @@
 <LM>w#w-mf930702-044-p5s1w2</LM>
 </w.rf>
 <form>show</form>
-<tag lemma="show" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="show-1" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-mf930702-044-p5s1w3">
 <src.rf>manual</src.rf>

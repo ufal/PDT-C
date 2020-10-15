@@ -118,7 +118,7 @@
 <AM lemma="Mercury_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Mercury_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Mercury_;Y" src="auto" recommended="1">NNMXX-----A----</AM>
-<AM lemma="Mercury-2_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Mercury-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1697-001-p1s0W6-Ta">
@@ -514,7 +514,7 @@
 <AM lemma="Mercury_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Mercury_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Mercury_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Mercury-2_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Mercury-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1697-001-p1s1W3-Ta">
@@ -1092,7 +1092,7 @@
 <AM lemma="Mercury_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Mercury_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Mercury_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Mercury-2_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Mercury-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1697-001-p1s2W3-Ta">
@@ -1511,7 +1511,7 @@
 <AM lemma="Mercury_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Mercury_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Mercury_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Mercury-2_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Mercury-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1697-001-p1s3W14-Ta">

@@ -69,7 +69,7 @@
 <LM>w#w-mf930703-086-p2s1w5</LM>
 </w.rf>
 <form>SR</form>
-<tag lemma="SR-1_;G_^(Slovenská_republika)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="SR_;G_^(Slovenská_republika)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf930703-086-p2s1w6">
 <src.rf>manual</src.rf>
@@ -93,7 +93,7 @@
 <LM>w#w-mf930703-086-p2s1w8</LM>
 </w.rf>
 <form>ME</form>
-<tag lemma="ME-1_^(mistrovství_Evropy)" src="orig" selected="1">NNNXX-----A---b</tag>
+<tag lemma="ME_^(mistrovství_Evropy)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf930703-086-p2s1w9">
 <src.rf>manual</src.rf>

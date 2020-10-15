@@ -1959,7 +1959,7 @@
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP5FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSZS1FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSZS5FS3-------</AM>
-<AM lemma="jeho_^(**můj)_(přivlast.)" src="manual" selected="1">PSFXXFS3-------</AM>
+<AM lemma="jeho" src="manual" selected="1">P9FXXFS3-------</AM>
 </tag>
 </m>
 <m id="m108-d1t278-5">
@@ -3408,7 +3408,7 @@
 <form>přeci</form>
 <tag>
 <AM lemma="přece-1" src="auto">J^------------1</AM>
-<AM lemma="přece-2" src="auto" recommended="1">TT------------1</AM>
+<AM lemma="přeci-2_,h_^(^GC**přece-2)" src="auto" recommended="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m108-d1t332-8">

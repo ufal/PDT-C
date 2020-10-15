@@ -162,7 +162,7 @@
 <LM>w#w-ln95040-093-p2s1Bw10</LM>
 </w.rf>
 <form>nejbohatších</form>
-<tag lemma="bohatý" src="orig" selected="1">AAIP2----3A----</tag>
+<tag lemma="bohatý" src="orig" selected="1">AAIP2----3A---1</tag>
 </m>
 <m id="m-ln95040-093-p2s1Bw11">
 <src.rf>manual</src.rf>

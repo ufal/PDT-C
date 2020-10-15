@@ -4386,7 +4386,7 @@
 <LM>w#w-cmpr9407-046-p19s2w7</LM>
 </w.rf>
 <form>lidé</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP1-----A---1</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-cmpr9407-046-p19s2w8">
 <src.rf>manual</src.rf>
@@ -6935,7 +6935,7 @@
 <form>hodně</form>
 <tag>
 <AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
-<AM lemma="hodně-1" src="manual" selected="1">Ca--X----------</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-046-p24s4w12">

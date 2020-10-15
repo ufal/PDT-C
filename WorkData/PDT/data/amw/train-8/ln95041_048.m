@@ -878,7 +878,7 @@
 <form>nedostatek</form>
 <tag>
 <AM lemma="nedostatek" src="orig">NNIS1-----A----</AM>
-<AM lemma="dostatek" src="manual" selected="1">NNIS1-----N----</AM>
+<AM lemma="nedostatek" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-048-p2s6w10">
@@ -2988,7 +2988,7 @@
 <LM>w#w-ln95041-048-p4s3w7</LM>
 </w.rf>
 <form>stát</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95041-048-p4s3w8">
 <src.rf>manual</src.rf>

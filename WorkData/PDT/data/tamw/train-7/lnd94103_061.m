@@ -1033,7 +1033,7 @@
 <form>pár</form>
 <tag>
 <AM lemma="pár" src="orig">Cn-S4----------</AM>
-<AM lemma="pár-1" src="manual" selected="1">ClXP4----------</AM>
+<AM lemma="pár-1" src="manual" selected="1">Ca--X----------</AM>
 </tag>
 </m>
 <m id="m-lnd94103-061-p1s5w26">

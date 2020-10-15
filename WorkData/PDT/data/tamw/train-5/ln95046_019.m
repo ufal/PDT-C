@@ -696,7 +696,7 @@
 <LM>w#w-ln95046-019-p3s2w10</LM>
 </w.rf>
 <form>Spartě</form>
-<tag lemma="Sparta_;m" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Sparta_;G_;m" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln95046-019-p3s2w11">
 <src.rf>manual</src.rf>

@@ -27,7 +27,7 @@
 <LM>w#w-ln95040-031-p1s1w2</LM>
 </w.rf>
 <form>Dublinu</form>
-<tag lemma="Dublin_;G" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Dublin_;G" src="orig" selected="1">NNIS6-----A---1</tag>
 </m>
 <m id="m-ln95040-031-p1s1w3">
 <src.rf>manual</src.rf>
@@ -659,7 +659,7 @@
 <tag>
 <AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
 <AM lemma="hodně-1_^(hodně_+_2._p.,_hodně_peněz)" src="manual">Ca--1----------</AM>
-<AM lemma="hodně-1" src="manual" selected="1">Ca--X----------</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-031-p2s5w6">

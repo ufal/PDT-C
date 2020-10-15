@@ -1542,7 +1542,7 @@
 </w.rf>
 <form>bydlí</form>
 <tag>
-<AM lemma="bydlet" src="auto" recommended="1">VB-P---3P-AAI--</AM>
+<AM lemma="bydlet" src="auto" recommended="1">VB-P---3P-AAI-1</AM>
 <AM lemma="bydlet" src="auto">VB-S---3P-AAI--</AM>
 </tag>
 </m>
@@ -4162,7 +4162,7 @@
 <AM lemma="snadný" src="auto">AANP1----2A----</AM>
 <AM lemma="snadný" src="auto">AANP4----2A----</AM>
 <AM lemma="snadný" src="auto">AANP5----2A----</AM>
-<AM lemma="snadný" src="auto" recommended="1">AANS1----2A----</AM>
+<AM lemma="snadný" src="auto" recommended="1">AANS1----2A---1</AM>
 <AM lemma="snadný" src="auto">AANS4----2A----</AM>
 <AM lemma="snadný" src="auto">AANS5----2A----</AM>
 </tag>

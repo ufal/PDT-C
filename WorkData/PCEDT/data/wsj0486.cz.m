@@ -112,7 +112,7 @@
 <LM>w#w-wsj0486-001-p1s0W10</LM>
 </w.rf>
 <form>Virginia</form>
-<tag lemma="Virginia_;G" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="Virginie_;G_;Y" src="auto" recommended="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-wsj0486-001-p1s0W11-Ta">
 <src.rf>tagger-a</src.rf>

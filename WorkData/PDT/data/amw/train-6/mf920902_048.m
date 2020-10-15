@@ -1052,7 +1052,7 @@
 <LM>w#w-mf920902-048-p3s3w5</LM>
 </w.rf>
 <form>stát</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-mf920902-048-p3s3w6">
 <src.rf>manual</src.rf>
@@ -2890,7 +2890,7 @@
 <LM>w#w-mf920902-048-p7s1w5</LM>
 </w.rf>
 <form>str</form>
-<tag lemma="strana-4" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="strana" src="orig" selected="1">NNFXX-----A---a</tag>
 </m>
 <m id="m-mf920902-048-p7s1w6">
 <src.rf>manual</src.rf>

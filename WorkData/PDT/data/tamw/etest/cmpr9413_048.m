@@ -1343,7 +1343,7 @@
 <LM>w#w-cmpr9413-048-p7s3w13</LM>
 </w.rf>
 <form>den</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-cmpr9413-048-p7s3w14">
 <src.rf>manual</src.rf>

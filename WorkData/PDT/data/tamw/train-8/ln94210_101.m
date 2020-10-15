@@ -6260,7 +6260,7 @@
 <LM>w#w-ln94210-101-p26s1w7</LM>
 </w.rf>
 <form>show</form>
-<tag lemma="show" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="show-1" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln94210-101-p26s1w8">
 <src.rf>manual</src.rf>
@@ -6685,7 +6685,7 @@
 <LM>w#w-ln94210-101-p27s1w14</LM>
 </w.rf>
 <form>vlastně</form>
-<tag lemma="vlastně-2_^(totiž)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="vlastně-2" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94210-101-p27s1w15">
 <src.rf>manual</src.rf>
@@ -8058,7 +8058,7 @@
 <LM>w#w-ln94210-101-p33s3w4</LM>
 </w.rf>
 <form>show</form>
-<tag lemma="show" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="show-1" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln94210-101-p33s3w5">
 <src.rf>manual</src.rf>
@@ -11001,7 +11001,7 @@
 <LM>w#w-ln94210-101-p43s1w16</LM>
 </w.rf>
 <form>stála</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln94210-101-p43s1w17">
 <src.rf>manual</src.rf>

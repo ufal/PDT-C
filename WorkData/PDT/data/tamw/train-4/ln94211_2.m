@@ -145,7 +145,7 @@
 <LM>w#w-ln94211-2-p1s1w16</LM>
 </w.rf>
 <form>Windows</form>
-<tag lemma="Windows" src="orig" selected="1">NNIXX-----A----</tag>
+<tag lemma="Windows_;m" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln94211-2-p1s1w17">
 <src.rf>manual</src.rf>
@@ -225,7 +225,7 @@
 <LM>w#w-ln94211-2-p1s1w26</LM>
 </w.rf>
 <form>Windows</form>
-<tag lemma="Windows" src="orig" selected="1">NNIXX-----A----</tag>
+<tag lemma="Windows_;m" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln94211-2-p1s1w27">
 <src.rf>manual</src.rf>

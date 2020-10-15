@@ -269,7 +269,7 @@
 <form>Davidem</form>
 <tag>
 <AM lemma="David_;Y" src="orig">NNMS7-----A----</AM>
-<AM lemma="David_;Y" src="manual" selected="1">NNMS7-----A----</AM>
+<AM lemma="David-1_;Y" src="manual" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-061-p2s2w14">
@@ -2190,7 +2190,7 @@
 <LM>w#w-mf930713-061-p5s1w9</LM>
 </w.rf>
 <form>něhož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS2----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS2---------3</tag>
 </m>
 <m id="m-mf930713-061-p5s1w10">
 <src.rf>manual</src.rf>
@@ -2709,7 +2709,7 @@
 <form>ml</form>
 <tag>
 <AM lemma="mladý_:B" src="orig">AAXXX----2A---8</AM>
-<AM lemma="mladý" src="manual" selected="1">AAXXX----2A---8</AM>
+<AM lemma="mladý" src="manual" selected="1">AAXXX----2A---b</AM>
 </tag>
 </m>
 <m id="m-mf930713-061-p5s4w24">

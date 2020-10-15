@@ -303,7 +303,7 @@
 <LM>w#w-vesm9211-031-p4s1w19</LM>
 </w.rf>
 <form>Alfreda</form>
-<tag lemma="Alfréd_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Alfred_;Y_,s_^(^DD**Alfréd)" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-vesm9211-031-p4s1w20">
 <src.rf>manual</src.rf>
@@ -2993,7 +2993,7 @@
 <tag>
 <AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
 <AM lemma="hodně-1_^(hodně_+_2._p.,_hodně_peněz)" src="manual">Ca--4----------</AM>
-<AM lemma="hodně-1" src="manual" selected="1">Ca--X----------</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-031-p11s1w5">
@@ -5025,7 +5025,7 @@
 <LM>w#w-vesm9211-031-p13s5w16</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9FXXFS3-------</tag>
 </m>
 <m id="m-vesm9211-031-p13s5w17">
 <src.rf>manual</src.rf>
@@ -6136,7 +6136,7 @@
 <form>C</form>
 <tag>
 <AM lemma="Celsius_:B" src="orig">NNMXX-----A---8</AM>
-<AM lemma="Celsius" src="manual" selected="1">NNMXX-----A---8</AM>
+<AM lemma="Celsius_;Y" src="manual" selected="1">NNMXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-vesm9211-031-p17s1w25">
@@ -9134,7 +9134,7 @@
 <LM>w#w-vesm9211-031-p28s1w1</LM>
 </w.rf>
 <form>Anglo</form>
-<tag lemma="anglický" src="auto" selected="1">A2--------A---1</tag>
+<tag lemma="anglo" src="auto" selected="1">S2--------A----</tag>
 </m>
 <m id="m-vesm9211-031-p28s1w2">
 <src.rf>manual</src.rf>
@@ -11483,7 +11483,7 @@
 <form>aidsu</form>
 <tag>
 <AM lemma="AIDS_:B_;U_,x_^(Syndrom_získaného_selhání_imunity)" src="orig">NNIS2-----A----</AM>
-<AM lemma="aids_;U_,s_^(^DD**AIDS)" src="manual" selected="1">BNIS2-----A----</AM>
+<AM lemma="aids_,s_^(^DD**AIDS-1)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-031-p34s2w9">
@@ -13551,7 +13551,7 @@
 <LM>w#w-vesm9211-031-p39s1w3</LM>
 </w.rf>
 <form>vlastně</form>
-<tag lemma="vlastně-2_^(totiž)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="vlastně-2" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-vesm9211-031-p39s1w4">
 <src.rf>manual</src.rf>
@@ -17627,7 +17627,7 @@
 <LM>w#w-vesm9211-031-p47s4w7</LM>
 </w.rf>
 <form>Rusové</form>
-<tag lemma="Rus_;E" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="Rus-1_;E" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-vesm9211-031-p47s4w8">
 <src.rf>manual</src.rf>
@@ -19815,7 +19815,7 @@
 <LM>w#w-vesm9211-031-p52s1w40</LM>
 </w.rf>
 <form>den</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-vesm9211-031-p52s1w41">
 <src.rf>manual</src.rf>

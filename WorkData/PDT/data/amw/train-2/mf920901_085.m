@@ -230,7 +230,7 @@
 <form>C</form>
 <tag>
 <AM lemma="C-33" src="orig">Q3-------------</AM>
-<AM lemma="Celsius" src="manual" selected="1">NNMXX-----A---8</AM>
+<AM lemma="Celsius_;Y" src="manual" selected="1">NNMXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf920901-085-p2s2w9">
@@ -636,7 +636,7 @@
 <form>C</form>
 <tag>
 <AM lemma="C-33" src="orig">Q3-------------</AM>
-<AM lemma="Celsius" src="manual" selected="1">NNMXX-----A---8</AM>
+<AM lemma="Celsius_;Y" src="manual" selected="1">NNMXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf920901-085-p2s4w34">

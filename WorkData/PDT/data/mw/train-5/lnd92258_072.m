@@ -1869,7 +1869,7 @@
 <LM>w#w-lnd92258-072-p5s5w12</LM>
 </w.rf>
 <form>stát</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-lnd92258-072-p5s5w13">
 <src.rf>manual</src.rf>
@@ -3036,7 +3036,7 @@
 <LM>w#w-lnd92258-072-p7s3w3</LM>
 </w.rf>
 <form>nejbohatších</form>
-<tag lemma="bohatý" src="orig" selected="1">AAIP2----3A----</tag>
+<tag lemma="bohatý" src="orig" selected="1">AAIP2----3A---1</tag>
 </m>
 <m id="m-lnd92258-072-p7s3w4">
 <src.rf>manual</src.rf>

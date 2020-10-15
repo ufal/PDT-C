@@ -2038,7 +2038,7 @@
 <LM>w#w-ln94204-113-p5s3w5</LM>
 </w.rf>
 <form>Rus</form>
-<tag lemma="Rus_;E" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Rus-1_;E" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94204-113-p5s3w6">
 <src.rf>manual</src.rf>

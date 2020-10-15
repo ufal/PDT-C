@@ -167,7 +167,7 @@
 <LM>w#w-ln94204-109-p2s1Bw14</LM>
 </w.rf>
 <form>Benetton</form>
-<tag lemma="Benetton_;m" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Benetton-1_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94204-109-p2s1Bw15">
 <src.rf>manual</src.rf>

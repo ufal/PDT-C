@@ -93,7 +93,7 @@
 <LM>w#w-vesm9303-015-p1s2w1</LM>
 </w.rf>
 <form>Lidé</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP1-----A---1</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-vesm9303-015-p1s2w2">
 <src.rf>manual</src.rf>
@@ -355,7 +355,7 @@
 <LM>w#w-vesm9303-015-p1s3w6</LM>
 </w.rf>
 <form>lidé</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP1-----A---1</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-vesm9303-015-p1s3w7">
 <src.rf>manual</src.rf>

@@ -1170,7 +1170,7 @@
 </w.rf>
 <form>Boulderu</form>
 <tag>
-<AM lemma="Boulder_;G" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="Boulder_;G_;m" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="Boulder_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="Boulder_;G" src="auto">NNIS6-----A---1</AM>
 <AM lemma="boulder_,l_,t_^(lezecká_stěna)" src="auto">NNIS2-----A----</AM>

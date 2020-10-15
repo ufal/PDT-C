@@ -16283,7 +16283,7 @@
 <AM lemma="mladý" src="auto">AAMP6----1A----</AM>
 <AM lemma="mladý" src="auto">AANP2----1A----</AM>
 <AM lemma="mladý" src="auto">AANP6----1A----</AM>
-<AM lemma="mladý-2" src="manual" selected="1">NNMP2-----A----</AM>
+<AM lemma="mladý" src="manual" selected="1">AAMP2----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj2407-001-p1s46W17-Ta">

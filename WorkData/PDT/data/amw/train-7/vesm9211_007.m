@@ -5927,7 +5927,7 @@
 <LM>w#w-vesm9211-007-p5s5w7</LM>
 </w.rf>
 <form>stát</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-vesm9211-007-p5s5w8">
 <src.rf>manual</src.rf>
@@ -11572,7 +11572,7 @@
 <LM>w#w-vesm9211-007-p10s4w37</LM>
 </w.rf>
 <form>vlastně</form>
-<tag lemma="vlastně-2_^(totiž)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="vlastně-2" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-vesm9211-007-p10s4w38">
 <src.rf>manual</src.rf>
@@ -12919,7 +12919,7 @@
 <LM>w#w-vesm9211-007-p11s5w16</LM>
 </w.rf>
 <form>stál</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-vesm9211-007-p11s5w17">
 <src.rf>manual</src.rf>
@@ -14480,7 +14480,7 @@
 <LM>w#w-vesm9211-007-p14s1w21</LM>
 </w.rf>
 <form>hůře</form>
-<tag lemma="špatně" src="orig" selected="1">Dg-------2A---1</tag>
+<tag lemma="hůře" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-vesm9211-007-p14s1w22">
 <src.rf>manual</src.rf>
@@ -17103,7 +17103,7 @@
 <LM>w#w-vesm9211-007-p18s1w3</LM>
 </w.rf>
 <form>str</form>
-<tag lemma="strana-4" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="strana" src="orig" selected="1">NNFXX-----A---a</tag>
 </m>
 <m id="m-vesm9211-007-p18s1w4">
 <src.rf>manual</src.rf>
@@ -17424,7 +17424,7 @@
 <LM>w#w-vesm9211-007-p18s1w37</LM>
 </w.rf>
 <form>str</form>
-<tag lemma="strana-4" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="strana" src="orig" selected="1">NNFXX-----A---a</tag>
 </m>
 <m id="m-vesm9211-007-p18s1w38">
 <src.rf>manual</src.rf>

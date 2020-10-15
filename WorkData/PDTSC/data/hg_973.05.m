@@ -649,7 +649,7 @@
 </w.rf>
 <form>lidi</form>
 <tag>
-<AM lemma="člověk" src="auto" recommended="1">NNMP1-----A----</AM>
+<AM lemma="lidé" src="auto" recommended="1">NNMP1-----A---1</AM>
 <AM lemma="člověk" src="auto">NNMP4-----A----</AM>
 <AM lemma="člověk" src="auto">NNMP5-----A----</AM>
 </tag>
@@ -1047,7 +1047,7 @@
 </w.rf>
 <form>lidi</form>
 <tag>
-<AM lemma="člověk" src="auto" selected="1">NNMP1-----A----</AM>
+<AM lemma="lidé" src="auto" selected="1">NNMP1-----A---1</AM>
 <AM lemma="člověk" src="auto" recommended="1">NNMP4-----A----</AM>
 <AM lemma="člověk" src="auto">NNMP5-----A----</AM>
 </tag>
@@ -2435,7 +2435,7 @@
 </w.rf>
 <form>Lidi</form>
 <tag>
-<AM lemma="člověk" src="auto" recommended="1">NNMP1-----A----</AM>
+<AM lemma="lidé" src="auto" recommended="1">NNMP1-----A---1</AM>
 <AM lemma="člověk" src="auto">NNMP4-----A----</AM>
 <AM lemma="člověk" src="auto">NNMP5-----A----</AM>
 </tag>
@@ -2874,7 +2874,7 @@
 </w.rf>
 <form>stáli</form>
 <tag>
-<AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="auto" recommended="1">VpMP----R-AAI--</AM>
+<AM lemma="stát-3_^(stojím_stojíš)" src="auto" recommended="1">VpMP----R-AAI--</AM>
 <AM lemma="stát-5_^(sníh)" src="auto">VpMP----R-AAI--</AM>
 </tag>
 </m>
@@ -2971,7 +2971,7 @@
 </w.rf>
 <form>Rusové</form>
 <tag>
-<AM lemma="Rus_;E" src="auto" recommended="1">NNMP1-----A----</AM>
+<AM lemma="Rus-1_;E" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="Rus_;E" src="auto">NNMP5-----A----</AM>
 <AM lemma="Rusová_;G_^(obec)" src="auto">NNFP1-----A----</AM>
 <AM lemma="Rusová_;G_^(obec)" src="auto">NNFP4-----A----</AM>
@@ -4570,7 +4570,7 @@
 <AM lemma="ala-1_,t_^(místnost_v_starořím._obydlí;;vojenská_jednotka_ve_st._Římě;;boční_loď_v_bazilice)" src="auto">NNFS3-----A----</AM>
 <AM lemma="ala-1_,t_^(místnost_v_starořím._obydlí;;vojenská_jednotka_ve_st._Římě;;boční_loď_v_bazilice)" src="auto">NNFS6-----A----</AM>
 <AM lemma="ale" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="ale-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="ale" src="manual" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m973-id65906-7">

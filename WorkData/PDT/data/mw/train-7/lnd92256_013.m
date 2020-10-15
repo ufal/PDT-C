@@ -35,7 +35,7 @@
 <LM>w#w-lnd92256-013-p1s1w3</LM>
 </w.rf>
 <form>den</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92256-013-p2s1">
@@ -520,7 +520,7 @@
 <LM>w#w-lnd92256-013-p2s4w6</LM>
 </w.rf>
 <form>den</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-lnd92256-013-p2s4w7">
 <src.rf>manual</src.rf>

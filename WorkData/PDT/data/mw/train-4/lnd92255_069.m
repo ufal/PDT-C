@@ -8166,7 +8166,7 @@
 <LM>w#w-lnd92255-069-p16s1w22</LM>
 </w.rf>
 <form>lidé</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP1-----A---1</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd92255-069-p16s1w23">
 <src.rf>manual</src.rf>
@@ -8623,7 +8623,7 @@
 <LM>w#w-lnd92255-069-p17s1w19</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9FXXFS3-------</tag>
 </m>
 <m id="m-lnd92255-069-p17s1w20">
 <src.rf>manual</src.rf>

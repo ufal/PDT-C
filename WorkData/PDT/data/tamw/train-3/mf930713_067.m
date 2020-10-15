@@ -714,7 +714,7 @@
 <LM>w#w-mf930713-067-p2s4w9</LM>
 </w.rf>
 <form>stála</form>
-<tag lemma="stát-4_^(něco_stojí_peníze)" src="orig" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf930713-067-p2s4w10">
 <src.rf>manual</src.rf>

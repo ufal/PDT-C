@@ -3005,7 +3005,7 @@
 <AM lemma="Ana_;Y" src="auto" recommended="1">NNFS6-----A----</AM>
 <AM lemma="Aňa_;Y" src="auto">NNFS3-----A----</AM>
 <AM lemma="Aňa_;Y" src="auto">NNFS6-----A----</AM>
-<AM lemma="Ana-2_;G" src="manual" selected="1">NNFS6-----A----</AM>
+<AM lemma="Ana_;G_;Y" src="manual" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0125-001-p1s11W8-Ta">

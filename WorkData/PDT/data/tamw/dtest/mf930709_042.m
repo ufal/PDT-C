@@ -520,7 +520,7 @@
 <LM>w#w-mf930709-042-p2s4w1</LM>
 </w.rf>
 <form>Loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf930709-042-p2s4w2">
 <src.rf>manual</src.rf>

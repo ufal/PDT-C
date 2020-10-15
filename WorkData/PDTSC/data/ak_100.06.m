@@ -2034,7 +2034,7 @@
 <AM lemma="taka-1_;U" src="auto">NNFP5-----A----</AM>
 <AM lemma="taka-1_;U" src="auto">NNFS2-----A----</AM>
 <AM lemma="taky" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="taky-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="taky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m100-d1t1464-16">
@@ -3620,7 +3620,7 @@
 <form>Vánoce</form>
 <tag>
 <AM lemma="Vánoce" src="auto">NNFP1-----A----</AM>
-<AM lemma="Vánoce" src="auto" recommended="1">NNFP4-----A----</AM>
+<AM lemma="Vánoce_;m" src="auto" recommended="1">NNFP4-----A----</AM>
 <AM lemma="Vánoce" src="auto">NNFP5-----A----</AM>
 <AM lemma="Vánoce" src="auto">NNFP6-----A---6</AM>
 <AM lemma="vánoce_^(^DS**Vánoce)" src="auto">NNFP1-----A----</AM>

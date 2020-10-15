@@ -53,7 +53,7 @@
 <LM>w#w-ln94200-116-p2s1Aw1</LM>
 </w.rf>
 <form>Athény</form>
-<tag lemma="Atény_;G" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="Athény_;G_,s_^(^DD**Atény)" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-ln94200-116-p2s1Aw2">
 <src.rf>manual</src.rf>
@@ -385,7 +385,7 @@
 <LM>w#w-ln94200-116-p2s2w8</LM>
 </w.rf>
 <form>Athény</form>
-<tag lemma="Atény_;G" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="Athény_;G_,s_^(^DD**Atény)" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-ln94200-116-p2s2w9">
 <src.rf>manual</src.rf>
@@ -494,7 +494,7 @@
 <LM>w#w-ln94200-116-p2s2w21</LM>
 </w.rf>
 <form>zastaví</form>
-<tag lemma="zastavit-1_^([také_z._se];_uvést_do_klidu:_auto,...)" src="orig" selected="1">VB-S---3P-AAP--</tag>
+<tag lemma="zastavit_^(uvést_do_klidu;;zástavní_právo)" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln94200-116-p2s2w22">
 <src.rf>manual</src.rf>

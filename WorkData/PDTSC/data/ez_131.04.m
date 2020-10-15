@@ -4389,7 +4389,7 @@
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP5FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSZS1FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSZS5FS3-------</AM>
-<AM lemma="jeho_^(**můj)_(přivlast.)" src="manual" selected="1">PSFXXFS3-------</AM>
+<AM lemma="jeho" src="manual" selected="1">P9FXXFS3-------</AM>
 </tag>
 </m>
 <m id="m131-d1t914-17">
@@ -4467,7 +4467,7 @@
 </w.rf>
 <form>Vlasta</form>
 <tag>
-<AM lemma="Vlasta-1_;Y_^(žena)" src="auto" selected="1">NNFS1-----A----</AM>
+<AM lemma="Vlasta_;Y_;m" src="auto" selected="1">NNFS1-----A----</AM>
 <AM lemma="Vlasta-2_;Y_,e_^(muž)" src="auto">NNMS1-----A----</AM>
 <AM lemma="Vlasta-3_;m_^(časopis)" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Vlasta-4_;m_^(cigareta)" src="auto">NNFS1-----A----</AM>
@@ -4754,7 +4754,7 @@
 <AM lemma="Kanada_;G" src="auto">NNFP1-----A----</AM>
 <AM lemma="Kanada_;G" src="auto">NNFP4-----A----</AM>
 <AM lemma="Kanada_;G" src="auto">NNFP5-----A----</AM>
-<AM lemma="Kanada_;G" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="Kanada_;G_;m" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="kanada_^(voj._bota)" src="auto">NNFP1-----A----</AM>
 <AM lemma="kanada_^(voj._bota)" src="auto">NNFP4-----A----</AM>
 <AM lemma="kanada_^(voj._bota)" src="auto">NNFP5-----A----</AM>

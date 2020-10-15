@@ -2375,7 +2375,7 @@
 <LM>w#w-mf930703-119-p15s1w23</LM>
 </w.rf>
 <form>lidi</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP1-----A---1</tag>
 </m>
 <m id="m-mf930703-119-p15s1w24">
 <src.rf>manual</src.rf>

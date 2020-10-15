@@ -2230,7 +2230,7 @@
 <form>show</form>
 <tag>
 <AM lemma="show" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="show-2" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="show-1" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1551-001-p1s8W5-Ta">

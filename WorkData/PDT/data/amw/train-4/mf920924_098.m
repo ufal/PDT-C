@@ -109,7 +109,7 @@
 <LM>w#w-mf920924-098-p2s1w10</LM>
 </w.rf>
 <form>MS</form>
-<tag lemma="MS-3_^(mistrovství_světa)" src="orig" selected="1">NNNXX-----A---b</tag>
+<tag lemma="MS-1_^(mistrovství_světa)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf920924-098-p2s1w11">
 <src.rf>manual</src.rf>

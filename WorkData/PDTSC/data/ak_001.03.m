@@ -6436,7 +6436,7 @@
 <tag>
 <AM lemma="Marius_;Y_,t" src="auto">NNMS2-----A----</AM>
 <AM lemma="Marius_;Y_,t" src="auto">NNMS4-----A----</AM>
-<AM lemma="Maria_;Y" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
+<AM lemma="Marie_;Y" src="auto" recommended="1" selected="1">NNFS1-----A---1</AM>
 </tag>
 </m>
 <m id="m001-d1t1121-8">
@@ -6767,7 +6767,7 @@
 <tag>
 <AM lemma="pan_,x" src="auto">NNMS3-----A---1</AM>
 <AM lemma="pan_,x" src="auto">NNMS6-----A---1</AM>
-<AM lemma="pan_^(oslovení)" src="auto" recommended="1" selected="1">NNMS3-----A----</AM>
+<AM lemma="pan" src="auto" recommended="1" selected="1">NNMS3-----A---1</AM>
 <AM lemma="pan_^(oslovení)" src="auto">NNMS6-----A----</AM>
 </tag>
 </m>

@@ -2044,7 +2044,7 @@
 <LM>w#w-lnd92252-084-p4s12w1</LM>
 </w.rf>
 <form>Spíš</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="spíš" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-lnd92252-084-p4s12w2">
 <src.rf>manual</src.rf>

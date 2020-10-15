@@ -144,7 +144,7 @@
 <LM>w#w-ln95047-080-p2s1Aw10</LM>
 </w.rf>
 <form>SR</form>
-<tag lemma="SR-1_;G_^(Slovenská_republika)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="SR_;G_^(Slovenská_republika)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 </s>
 <s id="m-ln95047-080-p2s1B">
@@ -404,7 +404,7 @@
 <LM>w#w-ln95047-080-p2s2w17</LM>
 </w.rf>
 <form>vlastně</form>
-<tag lemma="vlastně-2_^(totiž)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="vlastně-2" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln95047-080-p2s2w18">
 <src.rf>manual</src.rf>

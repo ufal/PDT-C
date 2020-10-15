@@ -195,7 +195,7 @@
 <LM>w#w-mf930701-045-p2s1w18</LM>
 </w.rf>
 <form>nedávno</form>
-<tag lemma="nedávno-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="dávno-1" src="auto" selected="1">Dg-------1N----</tag>
 </m>
 <m id="m-mf930701-045-p2s1w19">
 <src.rf>manual</src.rf>

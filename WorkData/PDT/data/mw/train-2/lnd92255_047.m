@@ -728,7 +728,7 @@
 <LM>w#w-lnd92255-047-p5s3w9</LM>
 </w.rf>
 <form>vlastně</form>
-<tag lemma="vlastně-2_^(totiž)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="vlastně-2" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-lnd92255-047-p5s3w10">
 <src.rf>manual</src.rf>

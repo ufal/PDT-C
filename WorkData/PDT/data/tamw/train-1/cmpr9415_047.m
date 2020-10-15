@@ -1087,7 +1087,7 @@
 <form>SR</form>
 <tag>
 <AM lemma="SR-1_:B_;G_^(Slovenská_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="SR-1_;G_^(Slovenská_republika)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="SR_;G_^(Slovenská_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-047-p10s4w10">
@@ -1326,7 +1326,7 @@
 <LM>w#w-cmpr9415-047-p11s3w9</LM>
 </w.rf>
 <form>stála</form>
-<tag lemma="stát-4_^(něco_stojí_peníze)" src="orig" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-cmpr9415-047-p11s3w10">
 <src.rf>manual</src.rf>
@@ -4197,7 +4197,7 @@
 <form>tis</form>
 <tag>
 <AM lemma="tisíc-2`1000_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="tisíc-2`1000" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="tisíc`1000" src="manual" selected="1">CzIXX---------b</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-047-p21s1w5">
@@ -4270,7 +4270,7 @@
 <form>tis</form>
 <tag>
 <AM lemma="tisíc-2`1000_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="tisíc-2`1000" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="tisíc`1000" src="manual" selected="1">CzIXX---------b</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-047-p22s1w5">

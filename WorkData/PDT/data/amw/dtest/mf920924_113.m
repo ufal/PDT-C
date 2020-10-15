@@ -1657,7 +1657,7 @@
 <LM>w#w-mf920924-113-p2s9w19</LM>
 </w.rf>
 <form>panu</form>
-<tag lemma="pan_^(oslovení)" src="auto" selected="1">NNMS3-----A----</tag>
+<tag lemma="pan" src="auto" selected="1">NNMS3-----A---1</tag>
 </m>
 <m id="m-mf920924-113-p2s9w20">
 <src.rf>manual</src.rf>

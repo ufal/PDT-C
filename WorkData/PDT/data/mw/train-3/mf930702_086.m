@@ -1552,7 +1552,7 @@
 <LM>w#w-mf930702-086-p2s11w18</LM>
 </w.rf>
 <form>Pavla</form>
-<tag lemma="Pavel-1_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Pavel_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930702-086-p2s11w19">
 <src.rf>manual</src.rf>

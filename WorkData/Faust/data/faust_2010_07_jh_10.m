@@ -4270,7 +4270,7 @@
 </w.rf>
 <form>Vánocům</form>
 <tag>
-<AM lemma="Vánoce" recommended="1">NNIP3-----A----</AM>
+<AM lemma="Vánoce_;m" recommended="1">NNFP3-----A----</AM>
 <AM lemma="Vánoce_,x">NNIP3-----A----</AM>
 </tag>
 </m>

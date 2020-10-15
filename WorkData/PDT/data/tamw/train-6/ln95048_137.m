@@ -1506,7 +1506,7 @@
 <LM>w#w-ln95048-137-p3s8w26</LM>
 </w.rf>
 <form>spíš</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="spíš" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln95048-137-p3s8w27">
 <src.rf>manual</src.rf>

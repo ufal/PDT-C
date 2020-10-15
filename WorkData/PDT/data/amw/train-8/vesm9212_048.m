@@ -102,7 +102,7 @@
 <LM>w#w-vesm9212-048-p1s1w11</LM>
 </w.rf>
 <form>nejbohatším</form>
-<tag lemma="bohatý" src="orig" selected="1">AAIS7----3A----</tag>
+<tag lemma="bohatý" src="orig" selected="1">AAIS7----3A---1</tag>
 </m>
 <m id="m-vesm9212-048-p1s1w12">
 <src.rf>manual</src.rf>

@@ -2719,7 +2719,7 @@
 </w.rf>
 <form>Lidé</form>
 <tag>
-<AM lemma="člověk" src="auto" recommended="1">NNMP1-----A---1</AM>
+<AM lemma="lidé" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="člověk" src="auto">NNMP5-----A---1</AM>
 </tag>
 </m>
@@ -9748,7 +9748,7 @@
 </w.rf>
 <form>lidé</form>
 <tag>
-<AM lemma="člověk" src="auto" recommended="1">NNMP1-----A---1</AM>
+<AM lemma="lidé" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="člověk" src="auto">NNMP5-----A---1</AM>
 </tag>
 </m>
@@ -11957,7 +11957,7 @@
 </w.rf>
 <form>nejbohatších</form>
 <tag>
-<AM lemma="bohatý" src="auto" recommended="1">AAFP2----3A----</AM>
+<AM lemma="bohatý" src="auto" recommended="1">AAFP2----3A---1</AM>
 <AM lemma="bohatý" src="auto">AAFP6----3A----</AM>
 <AM lemma="bohatý" src="auto">AAIP2----3A----</AM>
 <AM lemma="bohatý" src="auto">AAIP6----3A----</AM>

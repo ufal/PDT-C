@@ -4985,7 +4985,7 @@
 <form>George</form>
 <tag>
 <AM lemma="George_;Y_,t" src="orig">NNMS2-----A----</AM>
-<AM lemma="George_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="George_;Y" src="manual" selected="1">NNMS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-vesm9212-015-p22s1w31">

@@ -1997,7 +1997,7 @@
 </w.rf>
 <form>lidi</form>
 <tag>
-<AM lemma="člověk" src="auto" selected="1">NNMP1-----A----</AM>
+<AM lemma="lidé" src="auto" selected="1">NNMP1-----A---1</AM>
 <AM lemma="člověk" src="auto" recommended="1">NNMP4-----A----</AM>
 <AM lemma="člověk" src="auto">NNMP5-----A----</AM>
 </tag>
@@ -3116,7 +3116,7 @@
 <AM lemma="Kanada_;G" src="auto">NNFP1-----A----</AM>
 <AM lemma="Kanada_;G" src="auto">NNFP4-----A----</AM>
 <AM lemma="Kanada_;G" src="auto">NNFP5-----A----</AM>
-<AM lemma="Kanada_;G" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="Kanada_;G_;m" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="kanada_^(voj._bota)" src="auto">NNFP1-----A----</AM>
 <AM lemma="kanada_^(voj._bota)" src="auto">NNFP4-----A----</AM>
 <AM lemma="kanada_^(voj._bota)" src="auto">NNFP5-----A----</AM>
@@ -4618,7 +4618,7 @@
 </w.rf>
 <form>Lidi</form>
 <tag>
-<AM lemma="člověk" src="auto" recommended="1">NNMP1-----A----</AM>
+<AM lemma="lidé" src="auto" recommended="1">NNMP1-----A---1</AM>
 <AM lemma="člověk" src="auto">NNMP4-----A----</AM>
 <AM lemma="člověk" src="auto">NNMP5-----A----</AM>
 </tag>

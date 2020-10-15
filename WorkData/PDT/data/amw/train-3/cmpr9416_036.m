@@ -1401,7 +1401,7 @@
 <form>Sony</form>
 <tag>
 <AM lemma="Sono_;G" src="orig">NNNP7-----A----</AM>
-<AM lemma="Sony_;m" src="manual" selected="1">BNFXX-----A----</AM>
+<AM lemma="Sony_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-036-p7s7w11">
@@ -2566,7 +2566,7 @@
 <form>hodně</form>
 <tag>
 <AM lemma="hodně-2_^(nezlobivý)_(*3ý-2)" src="auto">Dg-------1A----</AM>
-<AM lemma="hodně-1" src="manual" selected="1">Ca--X----------</AM>
+<AM lemma="hodně-3" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-036-p8s6w14">

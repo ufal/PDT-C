@@ -1033,7 +1033,7 @@
 <LM>w#w-vesm9212-019-p6s2w25</LM>
 </w.rf>
 <form>str</form>
-<tag lemma="strana-4" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="strana" src="orig" selected="1">NNFXX-----A---a</tag>
 </m>
 <m id="m-vesm9212-019-p6s2w26">
 <src.rf>manual</src.rf>

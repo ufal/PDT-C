@@ -2033,7 +2033,7 @@
 </w.rf>
 <form>Kanadě</form>
 <tag>
-<AM lemma="Kanada_;G" recommended="1">NNFS6-----A----</AM>
+<AM lemma="Kanada_;G_;m" recommended="1">NNFS6-----A----</AM>
 <AM lemma="Kanada_;G">NNFS3-----A----</AM>
 <AM lemma="kanada_^(voj._bota)">NNFS3-----A----</AM>
 <AM lemma="kanada_^(voj._bota)">NNFS6-----A----</AM>
@@ -4255,7 +4255,7 @@
 </w.rf>
 <form>Lidé</form>
 <tag>
-<AM lemma="člověk" recommended="1">NNMP1-----A---1</AM>
+<AM lemma="lidé" recommended="1">NNMP1-----A----</AM>
 <AM lemma="člověk">NNMP5-----A---1</AM>
 </tag>
 </m>

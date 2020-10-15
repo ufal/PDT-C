@@ -1333,7 +1333,7 @@
 <LM>w#w-cmpr9406-007-p6s3w1</LM>
 </w.rf>
 <form>Loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-cmpr9406-007-p6s3w2">
 <src.rf>manual</src.rf>

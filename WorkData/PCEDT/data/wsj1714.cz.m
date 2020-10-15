@@ -511,7 +511,7 @@
 <form>Fuji</form>
 <tag>
 <AM lemma="Fuji_;m_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Fuji_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Fuji_;G_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1714-001-p1s0W40-Ta">

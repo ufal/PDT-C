@@ -1942,7 +1942,7 @@
 <LM>w#w-lnd92258-114-p4s1w5</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_;m_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="LN-1_;m_^(Lidové_noviny)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd92258-114-p4s1w6">
 <src.rf>manual</src.rf>

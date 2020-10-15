@@ -2851,7 +2851,7 @@
 <LM>w#w-ln94201-70-p7s3w8</LM>
 </w.rf>
 <form>moc</form>
-<tag lemma="moc-2_^(mnoho_něčeho_[se_subst._v_gen.])" src="orig" selected="1">Ca--X----------</tag>
+<tag lemma="moc-3_^(moc_hezká,_moc_peněz)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94201-70-p7s3w9">
 <src.rf>manual</src.rf>

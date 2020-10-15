@@ -1846,7 +1846,7 @@
 <AM lemma="Babylón_;G">NNIS4-----A----</AM>
 <AM lemma="babylon_^(zmatek,_směsice)">NNIS1-----A----</AM>
 <AM lemma="babylon_^(zmatek,_směsice)">NNIS4-----A----</AM>
-<AM lemma="Babylon-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Babylon_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="mu_04-SCzechM-p0335-s1-w2">
@@ -4079,7 +4079,7 @@
 </w.rf>
 <form>stát</form>
 <tag>
-<AM lemma="stát-2_^(něco_se_přihodilo)" recommended="1">Vf--------A----</AM>
+<AM lemma="stát-2_^(stanu_staneš)" recommended="1">Vf--------A-P--</AM>
 <AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)">Vf--------A----</AM>
 <AM lemma="stát-4_^(něco_stojí_peníze)">Vf--------A----</AM>
 <AM lemma="stát-5_^(sníh)">Vf--------A-I--</AM>

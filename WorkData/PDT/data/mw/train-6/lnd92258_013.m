@@ -671,7 +671,7 @@
 <LM>w#w-lnd92258-013-p4s2w14</LM>
 </w.rf>
 <form>aj</form>
-<tag lemma="aj-1_^(a_jiný/á/é)" src="orig" selected="1">AAXXX----1A---b</tag>
+<tag lemma="aj-1_^(a_jiný/á/é)" src="orig" selected="1">BAXXX----1A----</tag>
 </m>
 <m id="m-lnd92258-013-p4s2w15">
 <src.rf>manual</src.rf>

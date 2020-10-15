@@ -292,7 +292,7 @@
 <LM>w#w-ln94202-90-p2s2w8</LM>
 </w.rf>
 <form>lidé</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP1-----A---1</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln94202-90-p2s2w9">
 <src.rf>manual</src.rf>
@@ -618,7 +618,7 @@
 <LM>w#w-ln94202-90-p3s1w10</LM>
 </w.rf>
 <form>kostele</form>
-<tag lemma="kostel" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="kostel" src="orig" selected="1">NNIS6-----A---1</tag>
 </m>
 <m id="m-ln94202-90-p3s1w11">
 <src.rf>manual</src.rf>
@@ -3793,7 +3793,7 @@
 <LM>w#w-ln94202-90-p5s2w22</LM>
 </w.rf>
 <form>kostele</form>
-<tag lemma="kostel" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="kostel" src="orig" selected="1">NNIS6-----A---1</tag>
 </m>
 <m id="m-ln94202-90-p5s2w23">
 <src.rf>manual</src.rf>
@@ -5110,7 +5110,7 @@
 <LM>w#w-ln94202-90-p7s1w21</LM>
 </w.rf>
 <form>něž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4XP4----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4XP4---------1</tag>
 </m>
 <m id="m-ln94202-90-p7s1w22">
 <src.rf>manual</src.rf>

@@ -549,7 +549,7 @@
 <LM>w#w-ln94209-56-p2s7w2</LM>
 </w.rf>
 <form>lidé</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP1-----A---1</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln94209-56-p2s7w3">
 <src.rf>manual</src.rf>
@@ -5176,7 +5176,7 @@
 <form>pár</form>
 <tag>
 <AM lemma="pár-2" src="orig">NNIS4-----A----</AM>
-<AM lemma="pár-1" src="manual" selected="1">ClXP4----------</AM>
+<AM lemma="pár-1" src="manual" selected="1">Ca--X----------</AM>
 </tag>
 </m>
 <m id="m-ln94209-56-p5s26w11">
@@ -7434,7 +7434,7 @@
 <LM>w#w-ln94209-56-p7s13w5</LM>
 </w.rf>
 <form>moc</form>
-<tag lemma="moc-2_^(mnoho_něčeho_[se_subst._v_gen.])" src="orig" selected="1">Ca--X----------</tag>
+<tag lemma="moc-3_^(moc_hezká,_moc_peněz)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94209-56-p7s13w6">
 <src.rf>manual</src.rf>
@@ -8027,7 +8027,7 @@
 <LM>w#w-ln94209-56-p7s18w21</LM>
 </w.rf>
 <form>den</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln94209-56-p7s18w22">
 <src.rf>manual</src.rf>
@@ -10130,7 +10130,7 @@
 <LM>w#w-ln94209-56-p7s41w12</LM>
 </w.rf>
 <form>lidé</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP1-----A---1</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln94209-56-p7s41w13">
 <src.rf>manual</src.rf>
@@ -11125,7 +11125,7 @@
 <LM>w#w-ln94209-56-p9s3w9</LM>
 </w.rf>
 <form>lidé</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP1-----A---1</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln94209-56-p9s3w10">
 <src.rf>manual</src.rf>

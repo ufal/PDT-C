@@ -93,7 +93,7 @@
 <LM>w#w-ln95043-091-p2s1Aw6</LM>
 </w.rf>
 <form>nejbohatší</form>
-<tag lemma="bohatý" src="orig" selected="1">AAFP1----3A----</tag>
+<tag lemma="bohatý" src="orig" selected="1">AAFP1----3A---1</tag>
 </m>
 <m id="m-ln95043-091-p2s1Aw7">
 <src.rf>manual</src.rf>

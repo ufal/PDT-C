@@ -726,7 +726,7 @@
 <LM>w#w-mf930701-043-p3s3w10</LM>
 </w.rf>
 <form>Babylón</form>
-<tag lemma="Babylón_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Babylón_;G_,s_^(^DD**Babylon)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930701-043-p3s3w11">
 <src.rf>manual</src.rf>

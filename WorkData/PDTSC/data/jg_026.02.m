@@ -1756,7 +1756,7 @@
 <AM lemma="Bora_;Y" src="auto">NNFP5-----A----</AM>
 <AM lemma="Bora_;Y" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="Boro_;G" src="auto">NNNP7-----A----</AM>
-<AM lemma="Bory_;G" src="auto" selected="1">NNIP1-----A----</AM>
+<AM lemma="Bory-2_;G" src="auto" selected="1">NNIP1-----A----</AM>
 <AM lemma="Bory_;G" src="auto">NNIP4-----A----</AM>
 <AM lemma="Bory_;G" src="auto">NNIP5-----A----</AM>
 <AM lemma="Bory_;G" src="auto">NNIP7-----A----</AM>
@@ -2189,7 +2189,7 @@
 </w.rf>
 <form>lidé</form>
 <tag>
-<AM lemma="člověk" src="auto" recommended="1">NNMP1-----A---1</AM>
+<AM lemma="lidé" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="člověk" src="auto">NNMP5-----A---1</AM>
 </tag>
 </m>

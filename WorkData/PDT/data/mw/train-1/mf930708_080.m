@@ -440,7 +440,7 @@
 <LM>w#w-mf930708-080-p2s2w19</LM>
 </w.rf>
 <form>hodiny</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-mf930708-080-p2s2w20">
 <src.rf>manual</src.rf>

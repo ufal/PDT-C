@@ -1573,7 +1573,7 @@
 </w.rf>
 <form>lidé</form>
 <tag>
-<AM lemma="člověk" src="auto" recommended="1">NNMP1-----A---1</AM>
+<AM lemma="lidé" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="člověk" src="auto">NNMP5-----A---1</AM>
 </tag>
 </m>
@@ -2344,7 +2344,7 @@
 <tag>
 <AM lemma="pan_,x" src="auto">NNMS3-----A---1</AM>
 <AM lemma="pan_,x" src="auto">NNMS6-----A---1</AM>
-<AM lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS3-----A----</AM>
+<AM lemma="pan" src="auto" recommended="1">NNMS3-----A---1</AM>
 <AM lemma="pan_^(oslovení)" src="auto">NNMS6-----A----</AM>
 </tag>
 </m>

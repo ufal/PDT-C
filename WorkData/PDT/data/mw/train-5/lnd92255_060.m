@@ -764,7 +764,7 @@
 <LM>w#w-lnd92255-060-p3s6w3</LM>
 </w.rf>
 <form>Bougainvillu</form>
-<tag lemma="Bougainville-1_;G" src="orig" selected="1">NNIS2-----A---1</tag>
+<tag lemma="Bougainville-1_;G" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92255-060-p3s6w4">
 <src.rf>manual</src.rf>

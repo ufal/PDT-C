@@ -71,7 +71,7 @@
 </w.rf>
 <form>Show</form>
 <tag>
-<AM lemma="show" src="orig" selected="1">NNFXX-----A----</AM>
+<AM lemma="show-1" src="orig" selected="1">NNXXX-----A----</AM>
 <AM lemma="Show-77" src="manual">F%-------------</AM>
 </tag>
 </m>

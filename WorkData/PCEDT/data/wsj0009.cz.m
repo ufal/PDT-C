@@ -615,7 +615,7 @@
 </w.rf>
 <form>Mazda</form>
 <tag>
-<AM lemma="Mazda_;m" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Mazda-1_;m" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="mazda_;m" src="auto">NNFS1-----A----</AM>
 </tag>
 </m>

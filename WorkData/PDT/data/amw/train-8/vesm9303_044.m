@@ -961,7 +961,7 @@
 <LM>w#w-vesm9303-044-p2s3w22</LM>
 </w.rf>
 <form>virus</form>
-<tag lemma="vir" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="vir-1" src="orig" selected="1">NNIS4-----A---1</tag>
 </m>
 <m id="m-vesm9303-044-p2s3w23">
 <src.rf>manual</src.rf>

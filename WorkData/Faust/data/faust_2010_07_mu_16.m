@@ -343,7 +343,7 @@
 <AM lemma="bohatý">AAMP1----2A----</AM>
 <AM lemma="bohatý">AAMP4----2A----</AM>
 <AM lemma="bohatý">AAMP5----2A----</AM>
-<AM lemma="bohatý" selected="1">AAMS1----2A----</AM>
+<AM lemma="bohatý" selected="1">AAMS1----2A---1</AM>
 <AM lemma="bohatý">AAMS5----2A----</AM>
 <AM lemma="bohatý">AANP1----2A----</AM>
 <AM lemma="bohatý">AANP4----2A----</AM>

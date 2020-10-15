@@ -1674,7 +1674,7 @@
 <LM>w#w-vesm9212-024-p3s9w24</LM>
 </w.rf>
 <form>Acylpirin</form>
-<tag lemma="Acylpirin" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Acylpirin_;U" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-vesm9212-024-p3s9w25">
 <src.rf>manual</src.rf>
@@ -1698,7 +1698,7 @@
 <LM>w#w-vesm9212-024-p3s9w27</LM>
 </w.rf>
 <form>aj</form>
-<tag lemma="aj-1_^(a_jiný/á/é)" src="orig" selected="1">AAXXX----1A---b</tag>
+<tag lemma="aj-1_^(a_jiný/á/é)" src="orig" selected="1">BAXXX----1A----</tag>
 </m>
 <m id="m-vesm9212-024-p3s9w28">
 <src.rf>manual</src.rf>

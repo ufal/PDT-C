@@ -19,7 +19,7 @@
 <LM>w#w-ln94206-1-p1s1w1</LM>
 </w.rf>
 <form>Lidé</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP1-----A---1</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94206-1-p2s1">

@@ -3158,7 +3158,7 @@
 <tag>
 <AM lemma="bohatý" src="auto">AAFP7----2A----</AM>
 <AM lemma="bohatý" src="auto">AAIP7----2A----</AM>
-<AM lemma="bohatý" src="auto" recommended="1">AAMP7----2A----</AM>
+<AM lemma="bohatý" src="auto" recommended="1">AAMP7----2A---1</AM>
 <AM lemma="bohatý" src="auto">AANP7----2A----</AM>
 </tag>
 </m>
@@ -6232,7 +6232,7 @@
 </w.rf>
 <form>její</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto" selected="1">PSFXXFS3-------</AM>
+<AM lemma="jeho" src="auto" selected="1">P9FXXFS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSIS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSNS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP1FS3-------</AM>

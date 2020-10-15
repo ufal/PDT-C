@@ -7779,7 +7779,7 @@
 <tag>
 <AM lemma="Atari_;m" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="Atari_;m" src="manual">NNNXX-----A----</AM>
-<AM lemma="Atari_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Atari_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2387-001-p1s30W9-Ta">

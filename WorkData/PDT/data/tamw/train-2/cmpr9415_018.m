@@ -2479,7 +2479,7 @@
 <LM>w#w-cmpr9415-018-p9s3w3</LM>
 </w.rf>
 <form>lidé</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP1-----A---1</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-cmpr9415-018-p9s3w4">
 <src.rf>manual</src.rf>

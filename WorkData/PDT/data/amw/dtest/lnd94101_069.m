@@ -35,7 +35,7 @@
 <LM>w#w-lnd94101-069-p1s1Aw3</LM>
 </w.rf>
 <form>Kanady</form>
-<tag lemma="Kanada_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Kanada_;G_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94101-069-p1s1Aw4">
 <src.rf>manual</src.rf>

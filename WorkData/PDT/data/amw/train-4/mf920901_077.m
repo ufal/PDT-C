@@ -82,7 +82,7 @@
 <LM>w#w-mf920901-077-p2s2w1</LM>
 </w.rf>
 <form>Člen</form>
-<tag lemma="člen" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920901-077-p2s2w2">
 <src.rf>manual</src.rf>

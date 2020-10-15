@@ -1345,7 +1345,7 @@
 </w.rf>
 <form>Airbus</form>
 <tag>
-<AM lemma="Airbus_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Airbus-1_;m" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Airbus_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="airbus_;m" src="auto">NNIS1-----A----</AM>
 <AM lemma="airbus_;m" src="auto">NNIS4-----A----</AM>
@@ -4609,7 +4609,7 @@
 </w.rf>
 <form>Airbus</form>
 <tag>
-<AM lemma="Airbus_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Airbus-1_;m" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Airbus_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="airbus_;m" src="auto">NNIS1-----A----</AM>
 <AM lemma="airbus_;m" src="auto">NNIS4-----A----</AM>
@@ -5777,7 +5777,7 @@
 </w.rf>
 <form>Airbus</form>
 <tag>
-<AM lemma="Airbus_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Airbus-1_;m" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Airbus_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="airbus_;m" src="auto">NNIS1-----A----</AM>
 <AM lemma="airbus_;m" src="auto">NNIS4-----A----</AM>

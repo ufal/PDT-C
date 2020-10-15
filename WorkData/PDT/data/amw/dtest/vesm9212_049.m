@@ -1473,7 +1473,7 @@
 <LM>w#w-vesm9212-049-p2s9w11</LM>
 </w.rf>
 <form>spíš</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="spíš" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-vesm9212-049-p2s9w12">
 <src.rf>manual</src.rf>
@@ -5812,7 +5812,7 @@
 <LM>w#w-vesm9212-049-p7s1w10</LM>
 </w.rf>
 <form>Maria</form>
-<tag lemma="Maria_;Y" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Marie_;Y" src="auto" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-vesm9212-049-p7s1w11">
 <src.rf>manual</src.rf>
@@ -8860,7 +8860,7 @@
 <LM>w#w-vesm9212-049-p11s3w24</LM>
 </w.rf>
 <form>vlastně</form>
-<tag lemma="vlastně-2_^(totiž)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="vlastně-2" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-vesm9212-049-p11s3w25">
 <src.rf>manual</src.rf>
@@ -12207,7 +12207,7 @@
 <LM>w#w-vesm9212-049-p16s3w1</LM>
 </w.rf>
 <form>Její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9FXXFS3-------</tag>
 </m>
 <m id="m-vesm9212-049-p16s3w2">
 <src.rf>manual</src.rf>
@@ -13400,7 +13400,7 @@
 <LM>w#w-vesm9212-049-p17s1w23</LM>
 </w.rf>
 <form>den</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-vesm9212-049-p17s1w24">
 <src.rf>manual</src.rf>
@@ -22915,7 +22915,7 @@
 <LM>w#w-vesm9212-049-p34s3w30</LM>
 </w.rf>
 <form>str</form>
-<tag lemma="strana-4" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="strana" src="orig" selected="1">NNFXX-----A---a</tag>
 </m>
 <m id="m-vesm9212-049-p34s3w31">
 <src.rf>manual</src.rf>
@@ -23938,7 +23938,7 @@
 <LM>w#w-vesm9212-049-p36s1w2</LM>
 </w.rf>
 <form>Akropolis</form>
-<tag lemma="Akropolis_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Akropolis-1_;G" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-vesm9212-049-p36s1w3">
 <src.rf>manual</src.rf>
@@ -24772,7 +24772,7 @@
 <form>dr</form>
 <tag>
 <AM lemma="doktor_:B_^(doktor,_akad._titul)" src="orig">NNMXX-----A---8</AM>
-<AM lemma="dr_^(doktor)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="dr_^(doktor,_akad._titul)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-049-p37s7w4">
@@ -25200,7 +25200,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Akropole</form>
-<tag lemma="Akropolis_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Akropole_;G_,s_^(^DD**Akropolis-1)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-vesm9212-049-p37s9w17">
 <src.rf>manual</src.rf>

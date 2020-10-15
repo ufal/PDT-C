@@ -2051,7 +2051,7 @@
 <LM>w#w-mf930713-002-p13s1w10</LM>
 </w.rf>
 <form>Vlasta</form>
-<tag lemma="Vlasta-1_;Y_^(žena)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Vlasta_;Y_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930713-002-p13s1w11">
 <src.rf>manual</src.rf>
@@ -7113,7 +7113,7 @@
 <LM>w#w-mf930713-002-p40s1Bw7</LM>
 </w.rf>
 <form>lidé</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP1-----A---1</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf930713-002-p40s1Bw8">
 <src.rf>manual</src.rf>

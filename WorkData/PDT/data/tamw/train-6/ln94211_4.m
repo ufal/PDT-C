@@ -1147,7 +1147,7 @@
 <LM>w#w-ln94211-4-p4s2w16</LM>
 </w.rf>
 <form>Windows</form>
-<tag lemma="Windows" src="auto" selected="1">NNIXX-----A----</tag>
+<tag lemma="Windows_;m" src="auto" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln94211-4-p4s2w17">
 <src.rf>manual</src.rf>

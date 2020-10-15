@@ -127,7 +127,7 @@
 <LM>w#w-mf920925-044-p2s2w4</LM>
 </w.rf>
 <form>autokrosu</form>
-<tag lemma="autokros" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="autokros" src="orig" selected="1">NNIS6-----A---1</tag>
 </m>
 <m id="m-mf920925-044-p2s2w5">
 <src.rf>manual</src.rf>
@@ -924,7 +924,7 @@
 <LM>w#w-mf920925-044-p2s8Aw8</LM>
 </w.rf>
 <form>moc</form>
-<tag lemma="moc-2_^(mnoho_něčeho_[se_subst._v_gen.])" src="orig" selected="1">Ca--X----------</tag>
+<tag lemma="moc-3_^(moc_hezká,_moc_peněz)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf920925-044-p2s8Aw9">
 <src.rf>manual</src.rf>
@@ -3517,7 +3517,7 @@
 <LM>w#w-mf920925-044-p2s33w1</LM>
 </w.rf>
 <form>Lidé</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP1-----A---1</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf920925-044-p2s33w2">
 <src.rf>manual</src.rf>

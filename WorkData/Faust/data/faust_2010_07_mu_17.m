@@ -3978,7 +3978,7 @@
 </w.rf>
 <form>její</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" recommended="1">PSFXXFS3-------</AM>
+<AM lemma="jeho" recommended="1">P9FXXFS3-------</AM>
 <AM lemma="jeho_^(přivlast.)">PSIS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)">PSNS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)">PSXP1FS3-------</AM>

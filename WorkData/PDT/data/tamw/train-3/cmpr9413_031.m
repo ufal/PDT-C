@@ -1446,7 +1446,7 @@
 <LM>w#w-cmpr9413-031-p7s5w16</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9FXXFS3-------</tag>
 </m>
 <m id="m-cmpr9413-031-p7s5w17">
 <src.rf>manual</src.rf>
@@ -1909,7 +1909,7 @@
 <form>vlastně</form>
 <tag>
 <AM lemma="vlastně_^(příslušný_k_něčemu)_(*1í)" src="auto">Dg-------1A----</AM>
-<AM lemma="vlastně-2_^(totiž)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="vlastně-2" src="manual" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-031-p9s4w3">

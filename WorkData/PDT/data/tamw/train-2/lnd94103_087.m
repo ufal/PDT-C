@@ -1275,7 +1275,7 @@
 <LM>w#w-lnd94103-087-p1s13w5</LM>
 </w.rf>
 <form>vítězové</form>
-<tag lemma="vítěz" src="orig" selected="1">NNMP1-----A---1</tag>
+<tag lemma="vítěz" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd94103-087-p1s13w6">
 <src.rf>manual</src.rf>
@@ -2655,7 +2655,7 @@
 <LM>w#w-lnd94103-087-p1s28w12</LM>
 </w.rf>
 <form>vlastně</form>
-<tag lemma="vlastně-2_^(totiž)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="vlastně-2" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-lnd94103-087-p1s28w13">
 <src.rf>manual</src.rf>
@@ -5838,7 +5838,7 @@
 <LM>w#w-lnd94103-087-p1s61w4</LM>
 </w.rf>
 <form>bohatší</form>
-<tag lemma="bohatý" src="orig" selected="1">AAMS1----2A----</tag>
+<tag lemma="bohatý" src="orig" selected="1">AAMS1----2A---1</tag>
 </m>
 <m id="m-lnd94103-087-p1s61w5">
 <src.rf>manual</src.rf>
@@ -8370,7 +8370,7 @@
 <LM>w#w-lnd94103-087-p1s86w4</LM>
 </w.rf>
 <form>spíš</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="spíš" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-lnd94103-087-p1s86w5">
 <src.rf>manual</src.rf>
@@ -10160,7 +10160,7 @@
 <LM>w#w-lnd94103-087-p1s107Cw3</LM>
 </w.rf>
 <form>teda</form>
-<tag lemma="teda-1_,h" src="auto" selected="1">Db------------6</tag>
+<tag lemma="teda-1_,h" src="auto" selected="1">TT-------------</tag>
 </m>
 <m id="m-lnd94103-087-p1s107Cw4">
 <src.rf>manual</src.rf>

@@ -785,7 +785,7 @@
 </w.rf>
 <form>sen</form>
 <tag>
-<AM lemma="sen" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="sen-1" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="sen" src="auto">NNIS4-----A----</AM>
 <AM lemma="sen-1_,t_^(měnová_jednotka)" src="auto">NNIS1-----A----</AM>
 <AM lemma="sen-1_,t_^(měnová_jednotka)" src="auto">NNIS4-----A----</AM>
@@ -837,7 +837,7 @@
 </w.rf>
 <form>sen</form>
 <tag>
-<AM lemma="sen" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="sen-1" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="sen" src="auto">NNIS4-----A----</AM>
 <AM lemma="sen-1_,t_^(měnová_jednotka)" src="auto">NNIS1-----A----</AM>
 <AM lemma="sen-1_,t_^(měnová_jednotka)" src="auto">NNIS4-----A----</AM>

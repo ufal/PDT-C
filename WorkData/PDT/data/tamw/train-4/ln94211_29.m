@@ -381,7 +381,7 @@
 </w.rf>
 <form>Shell</form>
 <tag>
-<AM lemma="Shell_;m" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Shell-2_;m" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="Shell-1_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="shell" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="shell" src="auto">NNIS4-----A----</AM>
@@ -427,7 +427,7 @@
 <form>a</form>
 <tag>
 <AM lemma="akciový_:B_^(jen_akciová_společnost)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="akciový_^(jen_akciová_společnost)" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="akciový" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-ln94211-29-p2s2w25">

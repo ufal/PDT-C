@@ -3347,7 +3347,7 @@
 <LM>w#w-ln94210-97-p5s3w28</LM>
 </w.rf>
 <form>spíš</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="spíš" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94210-97-p5s3w29">
 <src.rf>manual</src.rf>

@@ -10270,7 +10270,7 @@
 <AM lemma="bohatý" src="auto">AANP3----1A----</AM>
 <AM lemma="bohatý" src="auto">AANS6----1A---7</AM>
 <AM lemma="bohatý" src="auto">AANS7----1A----</AM>
-<AM lemma="bohatý-2" src="manual" selected="1">NNMP3-----A----</AM>
+<AM lemma="bohatý" src="manual" selected="1">AAMP3----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj1647-001-p1s35W17-Ta">

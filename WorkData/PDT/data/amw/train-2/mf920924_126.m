@@ -149,7 +149,7 @@
 <LM>w#w-mf920924-126-p2s1w2</LM>
 </w.rf>
 <form>vlastně</form>
-<tag lemma="vlastně-2_^(totiž)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="vlastně-2" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf920924-126-p2s1w3">
 <src.rf>manual</src.rf>
@@ -247,7 +247,7 @@
 <LM>w#w-mf920924-126-p2s2w5</LM>
 </w.rf>
 <form>bohatší</form>
-<tag lemma="bohatý" src="orig" selected="1">AAIS1----2A----</tag>
+<tag lemma="bohatý" src="orig" selected="1">AAIS1----2A---1</tag>
 </m>
 <m id="m-mf920924-126-p2s2w6">
 <src.rf>manual</src.rf>
@@ -643,7 +643,7 @@
 <LM>w#w-mf920924-126-p2s4w2</LM>
 </w.rf>
 <form>lidé</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP1-----A---1</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf920924-126-p2s4w3">
 <src.rf>manual</src.rf>
@@ -3022,7 +3022,7 @@
 <form>pár</form>
 <tag>
 <AM lemma="pár-2" src="orig">NNIS4-----A----</AM>
-<AM lemma="pár-1" src="manual" selected="1">ClXP4----------</AM>
+<AM lemma="pár-1" src="manual" selected="1">Ca--X----------</AM>
 </tag>
 </m>
 <m id="m-mf920924-126-p3s12Bw20">

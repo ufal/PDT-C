@@ -886,7 +886,7 @@
 <form>ml</form>
 <tag>
 <AM lemma="mladý_:B" src="orig">AAXXX----2A---8</AM>
-<AM lemma="mladý" src="manual" selected="1">AAXXX----2A---8</AM>
+<AM lemma="mladý" src="manual" selected="1">AAXXX----2A---b</AM>
 </tag>
 </m>
 <m id="m-ln95047-045-p4s1w7">
@@ -1119,7 +1119,7 @@
 <LM>w#w-ln95047-045-p4s1w35</LM>
 </w.rf>
 <form>Vlasta</form>
-<tag lemma="Vlasta-1_;Y_^(žena)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Vlasta_;Y_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95047-045-p4s1w36">
 <src.rf>manual</src.rf>

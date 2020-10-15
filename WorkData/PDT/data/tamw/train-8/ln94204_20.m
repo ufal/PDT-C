@@ -1782,7 +1782,7 @@
 <LM>w#w-ln94204-20-p6s1w25</LM>
 </w.rf>
 <form>dále</form>
-<tag lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="orig" selected="1">Db------------1</tag>
+<tag lemma="dále-3_^(také,_za_další)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94204-20-p6s1w26">
 <src.rf>manual</src.rf>

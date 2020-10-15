@@ -2320,7 +2320,7 @@
 </w.rf>
 <form>Acura</form>
 <tag>
-<AM lemma="Accura_;m_^(vozidlo)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Acura_;m_,s_^(vozidlo)_(^DD**Accura)" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="accura_;m_^(vozidlo)" src="auto">NNFS1-----A----</AM>
 </tag>
 </m>

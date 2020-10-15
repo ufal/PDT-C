@@ -71,7 +71,7 @@
 <form>Vánoce</form>
 <tag>
 <AM lemma="vánoce" src="orig">NNFP1-----A----</AM>
-<AM lemma="Vánoce" src="auto" selected="1">NNFP1-----A----</AM>
+<AM lemma="Vánoce_;m" src="auto" selected="1">NNFP1-----A----</AM>
 <AM lemma="Vánoce" src="auto">NNFP4-----A----</AM>
 <AM lemma="Vánoce" src="auto">NNFP5-----A----</AM>
 <AM lemma="Vánoce" src="auto">NNFP6-----A---6</AM>
@@ -635,7 +635,7 @@
 <LM>w#w-ln95047-070-p3s2w15</LM>
 </w.rf>
 <form>stát</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95047-070-p3s2w16">
 <src.rf>manual</src.rf>

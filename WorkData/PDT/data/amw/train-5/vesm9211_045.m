@@ -141,7 +141,7 @@
 <LM>w#w-vesm9211-045-p2s1w5</LM>
 </w.rf>
 <form>vlastně</form>
-<tag lemma="vlastně-2_^(totiž)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="vlastně-2" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-vesm9211-045-p2s1w6">
 <src.rf>manual</src.rf>
@@ -401,7 +401,7 @@
 <LM>w#w-vesm9211-045-p2s3w5</LM>
 </w.rf>
 <form>spíš</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="spíš" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-vesm9211-045-p2s3w6">
 <src.rf>manual</src.rf>
@@ -778,7 +778,7 @@
 <form>nedostatek</form>
 <tag>
 <AM lemma="nedostatek" src="orig">NNIS1-----A----</AM>
-<AM lemma="dostatek" src="manual" selected="1">NNIS1-----N----</AM>
+<AM lemma="nedostatek" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-045-p3s1w24">
@@ -1885,7 +1885,7 @@
 <tag>
 <AM lemma="přece" src="orig">Db------------1</AM>
 <AM lemma="přece-1" src="auto" recommended="1">J^------------1</AM>
-<AM lemma="přece-2" src="auto" selected="1">TT------------1</AM>
+<AM lemma="přeci-2_,h_^(^GC**přece-2)" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-045-p3s4Aw3">

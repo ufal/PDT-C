@@ -148,7 +148,7 @@
 <LM>w#w-ln95041-075-p3s1Bw1</LM>
 </w.rf>
 <form>Členové</form>
-<tag lemma="člen" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln95041-075-p3s1Bw2">
 <src.rf>manual</src.rf>

@@ -5903,7 +5903,7 @@
 <LM>w#w-vesm9301-030-p8s4w24</LM>
 </w.rf>
 <form>vlastně</form>
-<tag lemma="vlastně-2_^(totiž)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="vlastně-2" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-vesm9301-030-p8s4w25">
 <src.rf>manual</src.rf>

@@ -1682,7 +1682,7 @@
 <LM>w#w-mf930702-047-p3s3w47</LM>
 </w.rf>
 <form>aj</form>
-<tag lemma="aj-1_^(a_jiný/á/é)" src="orig" selected="1">AAXXX----1A---b</tag>
+<tag lemma="aj-1_^(a_jiný/á/é)" src="orig" selected="1">BAXXX----1A----</tag>
 </m>
 <m id="m-mf930702-047-p3s3w48">
 <src.rf>manual</src.rf>

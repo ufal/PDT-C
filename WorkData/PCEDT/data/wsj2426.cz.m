@@ -1532,7 +1532,7 @@
 <form>Aermacchi</form>
 <tag>
 <AM lemma="Aermacchi_;m_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Aermacchi_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Aermacchi_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2426-001-p1s4W9-Ta">

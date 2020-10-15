@@ -2027,7 +2027,7 @@
 <LM>w#w-ln95041-068-p4s5w1</LM>
 </w.rf>
 <form>Loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95041-068-p4s5w2">
 <src.rf>manual</src.rf>
@@ -2923,7 +2923,7 @@
 <tag>
 <AM lemma="přece" src="orig">Db------------1</AM>
 <AM lemma="přece-1" src="auto" recommended="1">J^------------1</AM>
-<AM lemma="přece-2" src="auto" selected="1">TT------------1</AM>
+<AM lemma="přeci-2_,h_^(^GC**přece-2)" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln95041-068-p5s4w26">

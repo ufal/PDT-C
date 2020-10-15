@@ -895,7 +895,7 @@
 <LM>w#w-mf920925-025-p3s5w5</LM>
 </w.rf>
 <form>bohatší</form>
-<tag lemma="bohatý" src="orig" selected="1">AAIS1----2A----</tag>
+<tag lemma="bohatý" src="orig" selected="1">AAIS1----2A---1</tag>
 </m>
 <m id="m-mf920925-025-p3s5w6">
 <src.rf>manual</src.rf>
@@ -927,7 +927,7 @@
 <LM>w#w-mf920925-025-p3s5w9</LM>
 </w.rf>
 <form>lidé</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP1-----A---1</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf920925-025-p3s5w10">
 <src.rf>manual</src.rf>

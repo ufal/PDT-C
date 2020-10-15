@@ -778,7 +778,7 @@
 <AM lemma="taka-1_;U" src="auto">NNFP5-----A----</AM>
 <AM lemma="taka-1_;U" src="auto">NNFS2-----A----</AM>
 <AM lemma="taky" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="taky-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="taky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m794-d1t802-6">
@@ -3185,7 +3185,7 @@
 </w.rf>
 <form>lidi</form>
 <tag>
-<AM lemma="člověk" src="auto" recommended="1">NNMP1-----A----</AM>
+<AM lemma="lidé" src="auto" recommended="1">NNMP1-----A---1</AM>
 <AM lemma="člověk" src="auto">NNMP4-----A----</AM>
 <AM lemma="člověk" src="auto">NNMP5-----A----</AM>
 </tag>

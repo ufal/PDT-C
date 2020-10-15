@@ -67,7 +67,7 @@
 <LM>w#w-lnd92258-135-p1s1w7</LM>
 </w.rf>
 <form>ME</form>
-<tag lemma="ME-1_^(mistrovství_Evropy)" src="orig" selected="1">NNNXX-----A---b</tag>
+<tag lemma="ME_^(mistrovství_Evropy)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd92258-135-p1s1w8">
 <src.rf>manual</src.rf>
@@ -385,7 +385,7 @@
 <LM>w#w-lnd92258-135-p4s1w1</LM>
 </w.rf>
 <form>Loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd92258-135-p4s1w2">
 <src.rf>manual</src.rf>
@@ -2927,7 +2927,7 @@
 <LM>w#w-lnd92258-135-p4s8w22</LM>
 </w.rf>
 <form>den</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-lnd92258-135-p4s8w23">
 <src.rf>manual</src.rf>

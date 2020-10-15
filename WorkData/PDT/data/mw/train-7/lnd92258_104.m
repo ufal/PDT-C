@@ -4960,7 +4960,7 @@
 </w.rf>
 <form>bal</form>
 <tag>
-<AM lemma="balení" src="orig" selected="1">NNNXX-----A---b</AM>
+<AM lemma="bal-88" src="orig" selected="1">BNXXX-----A----</AM>
 <AM lemma="bal" src="auto">NNIS1-----A----</AM>
 <AM lemma="bal" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="balit" src="auto">Vi-S---2--A-I--</AM>
@@ -5042,7 +5042,7 @@
 </w.rf>
 <form>bal</form>
 <tag>
-<AM lemma="balení" src="orig" selected="1">NNNXX-----A---b</AM>
+<AM lemma="bal-88" src="orig" selected="1">BNXXX-----A----</AM>
 <AM lemma="bal" src="auto">NNIS1-----A----</AM>
 <AM lemma="bal" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="balit" src="auto">Vi-S---2--A-I--</AM>
@@ -5124,7 +5124,7 @@
 </w.rf>
 <form>bal</form>
 <tag>
-<AM lemma="balení" src="orig" selected="1">NNNXX-----A---b</AM>
+<AM lemma="bal-88" src="orig" selected="1">BNXXX-----A----</AM>
 <AM lemma="bal" src="auto">NNIS1-----A----</AM>
 <AM lemma="bal" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="balit" src="auto">Vi-S---2--A-I--</AM>
@@ -5214,7 +5214,7 @@
 </w.rf>
 <form>bal</form>
 <tag>
-<AM lemma="balení" src="orig" selected="1">NNNXX-----A---b</AM>
+<AM lemma="bal-88" src="orig" selected="1">BNXXX-----A----</AM>
 <AM lemma="bal" src="auto">NNIS1-----A----</AM>
 <AM lemma="bal" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="balit" src="auto">Vi-S---2--A-I--</AM>
@@ -5296,7 +5296,7 @@
 </w.rf>
 <form>bal</form>
 <tag>
-<AM lemma="balení" src="orig" selected="1">NNNXX-----A---b</AM>
+<AM lemma="bal-88" src="orig" selected="1">BNXXX-----A----</AM>
 <AM lemma="bal" src="auto">NNIS1-----A----</AM>
 <AM lemma="bal" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="balit" src="auto">Vi-S---2--A-I--</AM>
@@ -5378,7 +5378,7 @@
 </w.rf>
 <form>bal</form>
 <tag>
-<AM lemma="balení" src="orig" selected="1">NNNXX-----A---b</AM>
+<AM lemma="bal-88" src="orig" selected="1">BNXXX-----A----</AM>
 <AM lemma="bal" src="auto">NNIS1-----A----</AM>
 <AM lemma="bal" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="balit" src="auto">Vi-S---2--A-I--</AM>
@@ -5470,7 +5470,7 @@
 </w.rf>
 <form>bal</form>
 <tag>
-<AM lemma="balení" src="orig" selected="1">NNNXX-----A---b</AM>
+<AM lemma="bal-88" src="orig" selected="1">BNXXX-----A----</AM>
 <AM lemma="bal" src="auto">NNIS1-----A----</AM>
 <AM lemma="bal" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="balit" src="auto">Vi-S---2--A-I--</AM>
@@ -5678,7 +5678,7 @@
 <LM>w#w-lnd92258-104-p4s5w20</LM>
 </w.rf>
 <form>den</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-lnd92258-104-p4s5w21">
 <src.rf>manual</src.rf>

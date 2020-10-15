@@ -88,7 +88,7 @@
 <LM>w#w-mf930701-048-p2s1w7</LM>
 </w.rf>
 <form>kostele</form>
-<tag lemma="kostel" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="kostel" src="orig" selected="1">NNIS6-----A---1</tag>
 </m>
 <m id="m-mf930701-048-p2s1w8">
 <src.rf>manual</src.rf>

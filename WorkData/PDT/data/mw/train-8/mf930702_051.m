@@ -2457,7 +2457,7 @@
 <LM>w#w-mf930702-051-p4s3w17</LM>
 </w.rf>
 <form>vlastně</form>
-<tag lemma="vlastně-2_^(totiž)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="vlastně-2" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf930702-051-p4s3w18">
 <src.rf>manual</src.rf>

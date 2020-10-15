@@ -723,7 +723,7 @@
 <form>tis</form>
 <tag>
 <AM lemma="tisíc-2`1000_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="tisíc-2`1000" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="tisíc`1000" src="manual" selected="1">CzIXX---------b</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-040-p5s2w13">

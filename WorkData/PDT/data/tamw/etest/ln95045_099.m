@@ -681,7 +681,7 @@
 <LM>w#w-ln95045-099-p2s6w4</LM>
 </w.rf>
 <form>Pavla</form>
-<tag lemma="Pavel-1_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Pavel_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95045-099-p2s6w5">
 <src.rf>manual</src.rf>
@@ -747,7 +747,7 @@
 <form>TV</form>
 <tag>
 <AM lemma="televize_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="TV_^(televize)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="televize" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln95045-099-p2s6w13">

@@ -879,7 +879,7 @@
 <LM>w#w-lnd94101-065-p1s6w18</LM>
 </w.rf>
 <form>Barmy</form>
-<tag lemma="Barma_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Barma_;G_;Y" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94101-065-p1s6w19">
 <src.rf>manual</src.rf>

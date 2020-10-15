@@ -4785,7 +4785,7 @@
 <form>Windows</form>
 <tag>
 <AM lemma="Windows" src="orig">NNIXX-----A----</AM>
-<AM lemma="Windows_;m" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="Windows_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-027-p9s3w11">
@@ -5058,7 +5058,7 @@
 <LM>w#w-cmpr9410-027-p11s3w1</LM>
 </w.rf>
 <form>Dále</form>
-<tag lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="orig" selected="1">Db------------1</tag>
+<tag lemma="dále-3_^(také,_za_další)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-cmpr9410-027-p11s3w2">
 <src.rf>manual</src.rf>

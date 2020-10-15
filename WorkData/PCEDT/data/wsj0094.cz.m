@@ -1159,7 +1159,7 @@
 <AM lemma="mladý" src="auto">AAIP7----1A----</AM>
 <AM lemma="mladý" src="auto" recommended="1">AAMP7----1A----</AM>
 <AM lemma="mladý" src="auto">AANP7----1A----</AM>
-<AM lemma="mladý-2" src="manual" selected="1">NNMP7-----A----</AM>
+<AM lemma="mladý" src="manual" selected="1">AAMP7----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0094-001-p1s3W28-Ta">
@@ -2887,7 +2887,7 @@
 </w.rf>
 <form>lidi</form>
 <tag>
-<AM lemma="člověk" src="auto" recommended="1">NNMP1-----A----</AM>
+<AM lemma="lidé" src="auto" recommended="1">NNMP1-----A---1</AM>
 <AM lemma="člověk" src="auto">NNMP4-----A----</AM>
 <AM lemma="člověk" src="auto">NNMP5-----A----</AM>
 </tag>

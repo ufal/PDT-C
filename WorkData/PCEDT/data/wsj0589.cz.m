@@ -894,7 +894,7 @@
 </w.rf>
 <form>Lidé</form>
 <tag>
-<AM lemma="člověk" src="auto" recommended="1">NNMP1-----A---1</AM>
+<AM lemma="lidé" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="člověk" src="auto">NNMP5-----A---1</AM>
 </tag>
 </m>
@@ -17496,7 +17496,7 @@
 <form>Colgate</form>
 <tag>
 <AM lemma="Colgate_;m_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Colgate_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Colgate_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0589-001-p1s57W3-Ta">

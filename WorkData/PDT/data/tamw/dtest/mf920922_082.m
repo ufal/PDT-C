@@ -1230,7 +1230,7 @@
 <LM>w#w-mf920922-082-p2s9w4</LM>
 </w.rf>
 <form>stát</form>
-<tag lemma="stát-4_^(něco_stojí_peníze)" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-mf920922-082-p2s9w5">
 <src.rf>manual</src.rf>

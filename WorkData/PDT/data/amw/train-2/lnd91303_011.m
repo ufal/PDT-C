@@ -196,7 +196,7 @@
 <LM>w#w-lnd91303-011-p3s1w13</LM>
 </w.rf>
 <form>Alfredem</form>
-<tag lemma="Alfréd_;Y" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Alfred_;Y_,s_^(^DD**Alfréd)" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd91303-011-p3s1w14">
 <src.rf>manual</src.rf>

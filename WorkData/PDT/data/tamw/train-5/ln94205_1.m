@@ -877,7 +877,7 @@
 <form>Windows</form>
 <tag>
 <AM lemma="Windows" src="orig">NNIXX-----A----</AM>
-<AM lemma="Windows_;m" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="Windows_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-1-p4s1w21">

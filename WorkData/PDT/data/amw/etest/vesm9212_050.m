@@ -12339,7 +12339,7 @@
 <LM>w#w-vesm9212-050-p40s1w3</LM>
 </w.rf>
 <form>virus</form>
-<tag lemma="vir" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="vir-1" src="orig" selected="1">NNIS4-----A---1</tag>
 </m>
 <m id="m-vesm9212-050-p40s1w4">
 <src.rf>manual</src.rf>
@@ -13208,7 +13208,7 @@
 <LM>w#w-vesm9212-050-p41s1w20</LM>
 </w.rf>
 <form>virus</form>
-<tag lemma="vir" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="vir-1" src="orig" selected="1">NNIS4-----A---1</tag>
 </m>
 <m id="m-vesm9212-050-p41s1w21">
 <src.rf>manual</src.rf>

@@ -157,7 +157,7 @@
 <LM>w#w-lnd94103-062-p1s1Bw3</LM>
 </w.rf>
 <form>panu</form>
-<tag lemma="pan_^(oslovení)" src="auto" selected="1">NNMS3-----A----</tag>
+<tag lemma="pan" src="auto" selected="1">NNMS3-----A---1</tag>
 </m>
 <m id="m-lnd94103-062-p1s1Bw4">
 <src.rf>manual</src.rf>
@@ -720,7 +720,7 @@
 <LM>w#w-lnd94103-062-p1s6w1</LM>
 </w.rf>
 <form>Vlastně</form>
-<tag lemma="vlastně-2_^(totiž)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="vlastně-2" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-lnd94103-062-p1s6w2">
 <src.rf>manual</src.rf>

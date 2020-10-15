@@ -155,7 +155,7 @@
 <LM>w#w-vesm9211-008-p1s2w10</LM>
 </w.rf>
 <form>UK</form>
-<tag lemma="UK-1_;m_^(Univerzita_Karlova_Praha)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="UK-1_;m_^(Univerzita_Karlova_Praha)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-vesm9211-008-p1s2w11">
 <src.rf>manual</src.rf>
@@ -407,7 +407,7 @@
 <LM>w#w-vesm9211-008-p2s2w8</LM>
 </w.rf>
 <form>UK</form>
-<tag lemma="UK-1_;m_^(Univerzita_Karlova_Praha)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="UK-1_;m_^(Univerzita_Karlova_Praha)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-vesm9211-008-p2s2w9">
 <src.rf>manual</src.rf>
@@ -627,7 +627,7 @@
 <LM>w#w-vesm9211-008-p3s2w8</LM>
 </w.rf>
 <form>UK</form>
-<tag lemma="UK-1_;m_^(Univerzita_Karlova_Praha)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="UK-1_;m_^(Univerzita_Karlova_Praha)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-vesm9211-008-p3s2w9">
 <src.rf>manual</src.rf>
@@ -754,7 +754,7 @@
 <LM>w#w-vesm9211-008-p3s3w12</LM>
 </w.rf>
 <form>UK</form>
-<tag lemma="UK-1_;m_^(Univerzita_Karlova_Praha)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="UK-1_;m_^(Univerzita_Karlova_Praha)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-vesm9211-008-p3s3w13">
 <src.rf>manual</src.rf>
@@ -1212,7 +1212,7 @@
 <LM>w#w-vesm9211-008-p5s1w12</LM>
 </w.rf>
 <form>UK</form>
-<tag lemma="UK-1_;m_^(Univerzita_Karlova_Praha)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="UK-1_;m_^(Univerzita_Karlova_Praha)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-vesm9211-008-p5s1w13">
 <src.rf>manual</src.rf>
@@ -1455,7 +1455,7 @@
 <LM>w#w-vesm9211-008-p6s2w7</LM>
 </w.rf>
 <form>UK</form>
-<tag lemma="UK-1_;m_^(Univerzita_Karlova_Praha)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="UK-1_;m_^(Univerzita_Karlova_Praha)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-vesm9211-008-p6s2w8">
 <src.rf>manual</src.rf>
@@ -1751,7 +1751,7 @@
 <LM>w#w-vesm9211-008-p7s2w14</LM>
 </w.rf>
 <form>UK</form>
-<tag lemma="UK-1_;m_^(Univerzita_Karlova_Praha)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="UK-1_;m_^(Univerzita_Karlova_Praha)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-vesm9211-008-p7s2w15">
 <src.rf>manual</src.rf>
@@ -2569,7 +2569,7 @@
 <LM>w#w-vesm9211-008-p10s1w18</LM>
 </w.rf>
 <form>UK</form>
-<tag lemma="UK-1_;m_^(Univerzita_Karlova_Praha)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="UK-1_;m_^(Univerzita_Karlova_Praha)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-vesm9211-008-p10s1w19">
 <src.rf>manual</src.rf>

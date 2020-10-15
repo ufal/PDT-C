@@ -2225,7 +2225,7 @@
 <LM>w#w-mf920902-099-p2s14w8</LM>
 </w.rf>
 <form>kostele</form>
-<tag lemma="kostel" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="kostel" src="orig" selected="1">NNIS6-----A---1</tag>
 </m>
 <m id="m-mf920902-099-p2s14w9">
 <src.rf>manual</src.rf>

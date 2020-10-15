@@ -72,7 +72,7 @@
 <LM>w#w-cmpr9407-018-p3s1w2</LM>
 </w.rf>
 <form>bohatší</form>
-<tag lemma="bohatý" src="orig" selected="1">AAFS2----2A----</tag>
+<tag lemma="bohatý" src="orig" selected="1">AAFS2----2A---1</tag>
 </m>
 <m id="m-cmpr9407-018-p3s1w3">
 <src.rf>manual</src.rf>
@@ -721,7 +721,7 @@
 <LM>w#w-cmpr9407-018-p5s1w17</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9FXXFS3-------</tag>
 </m>
 <m id="m-cmpr9407-018-p5s1w18">
 <src.rf>manual</src.rf>

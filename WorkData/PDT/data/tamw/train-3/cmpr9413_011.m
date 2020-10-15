@@ -2976,7 +2976,7 @@
 <LM>w#w-cmpr9413-011-p15s2w14</LM>
 </w.rf>
 <form>spíš</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="spíš" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-cmpr9413-011-p15s2w15">
 <src.rf>manual</src.rf>
@@ -3043,7 +3043,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>snazší</form>
-<tag lemma="snadný" src="orig" selected="1">AANS1----2A----</tag>
+<tag lemma="snadný" src="orig" selected="1">AANS1----2A---1</tag>
 </m>
 <m id="m-cmpr9413-011-p15s3w5">
 <src.rf>manual</src.rf>

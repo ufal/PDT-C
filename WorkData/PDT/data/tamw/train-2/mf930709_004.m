@@ -1568,7 +1568,7 @@
 <LM>w#w-mf930709-004-p2s14w1</LM>
 </w.rf>
 <form>Členové</form>
-<tag lemma="člen" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf930709-004-p2s14w2">
 <src.rf>manual</src.rf>

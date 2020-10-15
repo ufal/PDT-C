@@ -527,7 +527,7 @@
 <LM>w#w-vesm9303-008-p1s4w1</LM>
 </w.rf>
 <form>AV</form>
-<tag lemma="AV_;m_^(Akademie_věd)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="AV_;m_^(Akademie_věd)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-vesm9303-008-p1s4w2">
 <src.rf>manual</src.rf>

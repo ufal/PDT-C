@@ -8250,7 +8250,7 @@
 <AM lemma="dál" src="auto">NNFS1-----A---1</AM>
 <AM lemma="dál" src="auto">NNFS2-----A----</AM>
 <AM lemma="daleko-1" src="auto">Dg-------2A---1</AM>
-<AM lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="auto" recommended="1">Db------------1</AM>
+<AM lemma="dále-3_^(také,_za_další)" src="auto" recommended="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1569-001-p1s38W6-Ta">
@@ -9336,7 +9336,7 @@
 </w.rf>
 <form>Lidé</form>
 <tag>
-<AM lemma="člověk" src="auto" recommended="1">NNMP1-----A---1</AM>
+<AM lemma="lidé" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="člověk" src="auto">NNMP5-----A---1</AM>
 </tag>
 </m>
@@ -12145,7 +12145,7 @@
 <LM>w#w-wsj1569-001-p1s55W23</LM>
 </w.rf>
 <form>Virginia</form>
-<tag lemma="Virginia_;G" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="Virginie_;G_;Y" src="auto" recommended="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-wsj1569-001-p1s55W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -13884,7 +13884,7 @@
 <LM>w#w-wsj1569-001-p1s61W5</LM>
 </w.rf>
 <form>Virginia</form>
-<tag lemma="Virginia_;G" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="Virginie_;G_;Y" src="auto" recommended="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-wsj1569-001-p1s61W6-Ta">
 <src.rf>tagger-a</src.rf>

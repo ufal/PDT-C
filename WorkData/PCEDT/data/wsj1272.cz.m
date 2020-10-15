@@ -7968,7 +7968,7 @@
 <tag>
 <AM lemma="hůra" src="auto">NNFS3-----A----</AM>
 <AM lemma="hůra" src="auto">NNFS6-----A----</AM>
-<AM lemma="špatně" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="hůře" src="auto" recommended="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-wsj1272-001-p1s28W27-Ta">
@@ -8214,7 +8214,7 @@
 </w.rf>
 <form>lidé</form>
 <tag>
-<AM lemma="člověk" src="auto" recommended="1">NNMP1-----A---1</AM>
+<AM lemma="lidé" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="člověk" src="auto">NNMP5-----A---1</AM>
 </tag>
 </m>

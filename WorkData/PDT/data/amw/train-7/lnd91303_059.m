@@ -2890,7 +2890,7 @@
 <LM>w#w-lnd91303-059-p4s2w27</LM>
 </w.rf>
 <form>aj</form>
-<tag lemma="aj-1_^(a_jiný/á/é)" src="orig" selected="1">AAXXX----1A---b</tag>
+<tag lemma="aj-1_^(a_jiný/á/é)" src="orig" selected="1">BAXXX----1A----</tag>
 </m>
 <m id="m-lnd91303-059-p4s2w28">
 <src.rf>manual</src.rf>

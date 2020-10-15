@@ -2437,7 +2437,7 @@
 <LM>w#w-lnd94103-116-p1s12w14</LM>
 </w.rf>
 <form>Benettonu</form>
-<tag lemma="Benetton_;m" src="auto" selected="1">NNIS3-----A----</tag>
+<tag lemma="Benetton-1_;m" src="auto" selected="1">NNIS3-----A----</tag>
 </m>
 <m id="m-lnd94103-116-p1s12w15">
 <src.rf>manual</src.rf>
@@ -3340,7 +3340,7 @@
 <LM>w#w-lnd94103-116-p1s14w3</LM>
 </w.rf>
 <form>Benettonu</form>
-<tag lemma="Benetton_;m" src="auto" selected="1">NNIS2-----A----</tag>
+<tag lemma="Benetton-1_;m" src="auto" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd94103-116-p1s14w4">
 <src.rf>manual</src.rf>
@@ -5439,7 +5439,7 @@
 <LM>w#w-lnd94103-116-p1s27w5</LM>
 </w.rf>
 <form>lidé</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP1-----A---1</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd94103-116-p1s27w6">
 <src.rf>manual</src.rf>

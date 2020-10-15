@@ -1280,7 +1280,7 @@
 <LM>w#w-lnd94104-135-p1s6w9</LM>
 </w.rf>
 <form>lidé</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP1-----A---1</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd94104-135-p1s6w10">
 <src.rf>manual</src.rf>

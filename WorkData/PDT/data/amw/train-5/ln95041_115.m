@@ -284,7 +284,7 @@
 <LM>w#w-ln95041-115-p2s2w3</LM>
 </w.rf>
 <form>Pavla</form>
-<tag lemma="Pavel-1_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Pavel_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95041-115-p2s2w4">
 <src.rf>manual</src.rf>

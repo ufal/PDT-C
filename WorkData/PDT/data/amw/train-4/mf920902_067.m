@@ -736,7 +736,7 @@
 <LM>w#w-mf920902-067-p2s3w13</LM>
 </w.rf>
 <form>MS</form>
-<tag lemma="MS-3_^(mistrovství_světa)" src="orig" selected="1">NNNXX-----A---b</tag>
+<tag lemma="MS-1_^(mistrovství_světa)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf920902-067-p2s3w14">
 <src.rf>manual</src.rf>
@@ -752,7 +752,7 @@
 <LM>w#w-mf920902-067-p2s3w15</LM>
 </w.rf>
 <form>ME</form>
-<tag lemma="ME-1_^(mistrovství_Evropy)" src="orig" selected="1">NNNXX-----A---b</tag>
+<tag lemma="ME_^(mistrovství_Evropy)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf920902-067-p2s3w16">
 <src.rf>manual</src.rf>
@@ -3938,7 +3938,7 @@
 <LM>w#w-mf920902-067-p2s15w23</LM>
 </w.rf>
 <form>ME</form>
-<tag lemma="ME-1_^(mistrovství_Evropy)" src="orig" selected="1">NNNXX-----A---b</tag>
+<tag lemma="ME_^(mistrovství_Evropy)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf920902-067-p2s15w24">
 <src.rf>manual</src.rf>

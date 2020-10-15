@@ -2158,7 +2158,7 @@
 <LM>w#w-vesm9211-011-p8s7w3</LM>
 </w.rf>
 <form>vlastně</form>
-<tag lemma="vlastně-2_^(totiž)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="vlastně-2" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-vesm9211-011-p8s7w4">
 <src.rf>manual</src.rf>

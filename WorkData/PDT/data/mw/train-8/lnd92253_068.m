@@ -2293,7 +2293,7 @@
 <form>ATP</form>
 <tag>
 <AM lemma="ATP-1_:B_;m_,t_^(Prof._sv._asociace_tenisových_hráčů)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ATP-1_;m_^(Prof._sv._asociace_tenisových_hráčů)" src="manual" selected="1">NNNXX-----A---b</AM>
+<AM lemma="ATP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-068-p4s5w36">
@@ -2627,7 +2627,7 @@
 <form>ATP</form>
 <tag>
 <AM lemma="ATP-1_:B_;m_,t_^(Prof._sv._asociace_tenisových_hráčů)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ATP-1_;m_^(Prof._sv._asociace_tenisových_hráčů)" src="manual" selected="1">NNNXX-----A---b</AM>
+<AM lemma="ATP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-068-p4s6w36">
@@ -3045,7 +3045,7 @@
 <LM>w#w-lnd92253-068-p5s3w1</LM>
 </w.rf>
 <form>Loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd92253-068-p5s3w2">
 <src.rf>manual</src.rf>
@@ -3802,7 +3802,7 @@
 <form>ATP</form>
 <tag>
 <AM lemma="ATP-1_:B_;m_,t_^(Prof._sv._asociace_tenisových_hráčů)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ATP-1_;m_^(Prof._sv._asociace_tenisových_hráčů)" src="manual" selected="1">NNNXX-----A---b</AM>
+<AM lemma="ATP-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-068-p7s2w3">

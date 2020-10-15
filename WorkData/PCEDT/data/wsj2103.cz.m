@@ -2188,7 +2188,7 @@
 <LM>w#w-wsj2103-001-p1s5W2</LM>
 </w.rf>
 <form>Alpine</form>
-<tag lemma="Alpine_;m" src="auto" recommended="1">NNNXX-----A----</tag>
+<tag lemma="Alpine-1_;m" src="auto" recommended="1">NNXXX-----A----</tag>
 </m>
 <m id="m-wsj2103-001-p1s5W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2261,7 +2261,7 @@
 <AM lemma="dál" src="auto">NNFS1-----A---1</AM>
 <AM lemma="dál" src="auto">NNFS2-----A----</AM>
 <AM lemma="daleko-1" src="auto">Dg-------2A---1</AM>
-<AM lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="auto" recommended="1">Db------------1</AM>
+<AM lemma="dále-3_^(také,_za_další)" src="auto" recommended="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2103-001-p1s5W10-Ta">

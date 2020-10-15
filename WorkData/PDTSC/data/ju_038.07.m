@@ -3105,7 +3105,7 @@
 <AM lemma="mladý" src="auto">AANP3----1A----</AM>
 <AM lemma="mladý" src="auto">AANS6----1A---7</AM>
 <AM lemma="mladý" src="auto">AANS7----1A----</AM>
-<AM lemma="mladý-2" src="manual" selected="1">NNMP3-----A----</AM>
+<AM lemma="mladý" src="manual" selected="1">AAMP3----1A----</AM>
 </tag>
 </m>
 <m id="m038-d-id133674-punct">

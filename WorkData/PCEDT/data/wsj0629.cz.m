@@ -12317,7 +12317,7 @@
 </w.rf>
 <form>její</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSFXXFS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9FXXFS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSIS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSNS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP1FS3-------</AM>
@@ -14260,7 +14260,7 @@
 <form>Reliance</form>
 <tag>
 <AM lemma="Reliance_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Reliance_;G_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Reliance_;G_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0629-001-p1s54W15-Ta">
@@ -14618,7 +14618,7 @@
 <form>Reliance</form>
 <tag>
 <AM lemma="Reliance_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Reliance_;G_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Reliance_;G_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0629-001-p1s56W3-Ta">
@@ -17768,7 +17768,7 @@
 </w.rf>
 <form>její</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSFXXFS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9FXXFS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSIS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSNS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP1FS3-------</AM>

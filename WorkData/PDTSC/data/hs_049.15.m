@@ -2427,7 +2427,7 @@
 <form>Kanadě</form>
 <tag>
 <AM lemma="Kanada_;G" src="auto">NNFS3-----A----</AM>
-<AM lemma="Kanada_;G" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="Kanada_;G_;m" src="auto" recommended="1">NNFS6-----A----</AM>
 <AM lemma="kanada_^(voj._bota)" src="auto">NNFS3-----A----</AM>
 <AM lemma="kanada_^(voj._bota)" src="auto">NNFS6-----A----</AM>
 </tag>

@@ -2350,7 +2350,7 @@
 <LM>w#w-lnd91303-049-p7s1w1</LM>
 </w.rf>
 <form>BERANOVI</form>
-<tag lemma="beran" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="beran-1" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-lnd91303-049-p7s1w2">
 <src.rf>manual</src.rf>

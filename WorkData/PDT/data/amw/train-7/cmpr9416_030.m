@@ -520,7 +520,7 @@
 <LM>w#w-cmpr9416-030-p5s1w14</LM>
 </w.rf>
 <form>Blatnička</form>
-<tag lemma="Blatnička_;G" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Blatnička-2_;G" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-030-p5s1w15">
 <src.rf>manual</src.rf>

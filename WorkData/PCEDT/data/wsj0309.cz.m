@@ -541,7 +541,7 @@
 <AM lemma="bohatý" src="auto">AANS1----1A----</AM>
 <AM lemma="bohatý" src="auto">AANS4----1A----</AM>
 <AM lemma="bohatý" src="auto">AANS5----1A----</AM>
-<AM lemma="bohatý-2" src="manual" selected="1">NNMP4-----A----</AM>
+<AM lemma="bohatý" src="manual" selected="1">AAMP4----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0309-001-p1s2W6-Ta">
@@ -4824,7 +4824,7 @@
 <tag>
 <AM lemma="pan_,x" src="auto">NNMS3-----A---1</AM>
 <AM lemma="pan_,x" src="auto">NNMS6-----A---1</AM>
-<AM lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS3-----A----</AM>
+<AM lemma="pan" src="auto" recommended="1">NNMS3-----A---1</AM>
 <AM lemma="pan_^(oslovení)" src="auto">NNMS6-----A----</AM>
 </tag>
 </m>
@@ -7372,7 +7372,7 @@
 <AM lemma="sun" src="auto">NNIS1-----A----</AM>
 <AM lemma="sun" src="auto">NNIS4-----A----</AM>
 <AM lemma="sunna_,t_,x_^(ústní_podání_Mohamedových_činů)" src="auto">NNFP2-----A----</AM>
-<AM lemma="Sun-1_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Sun-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0309-001-p1s25W3-Ta">

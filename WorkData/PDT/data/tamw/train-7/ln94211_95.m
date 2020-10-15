@@ -2282,7 +2282,7 @@
 <LM>w#w-ln94211-95-p4s5w9</LM>
 </w.rf>
 <form>den</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln94211-95-p4s5w10">
 <src.rf>manual</src.rf>
@@ -12085,7 +12085,7 @@
 <LM>w#w-ln94211-95-p16s3w13</LM>
 </w.rf>
 <form>Kanady</form>
-<tag lemma="Kanada_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Kanada_;G_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94211-95-p16s3w14">
 <src.rf>manual</src.rf>
@@ -13719,7 +13719,7 @@
 <form>George</form>
 <tag>
 <AM lemma="George_;Y_,t" src="orig">NNMS2-----A----</AM>
-<AM lemma="George_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="George_;Y" src="manual" selected="1">NNMS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln94211-95-p18s3w29">
@@ -14441,7 +14441,7 @@
 <LM>w#w-ln94211-95-p18s8w9</LM>
 </w.rf>
 <form>den</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln94211-95-p18s8w10">
 <src.rf>manual</src.rf>
@@ -15736,7 +15736,7 @@
 <LM>w#w-ln94211-95-p20s6w1</LM>
 </w.rf>
 <form>Její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9FXXFS3-------</tag>
 </m>
 <m id="m-ln94211-95-p20s6w2">
 <src.rf>manual</src.rf>

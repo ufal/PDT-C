@@ -101,7 +101,7 @@
 <LM>w#w-ln94204-76-p2s1Aw8</LM>
 </w.rf>
 <form>AV</form>
-<tag lemma="AV_;m_^(Akademie_věd)" src="auto" selected="1">NNFXX-----A---b</tag>
+<tag lemma="AV_;m_^(Akademie_věd)" src="auto" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94204-76-p2s1Aw9">
 <src.rf>manual</src.rf>

@@ -125,7 +125,7 @@
 <LM>w#w-ln95048-064-p2s1w5</LM>
 </w.rf>
 <form>Benettonu</form>
-<tag lemma="Benetton_;m" src="auto" selected="1">NNIS6-----A----</tag>
+<tag lemma="Benetton-1_;m" src="auto" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln95048-064-p2s1w6">
 <src.rf>manual</src.rf>
@@ -5444,7 +5444,7 @@
 <LM>w#w-ln95048-064-p7s6Bw10</LM>
 </w.rf>
 <form>lidé</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP1-----A---1</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln95048-064-p7s6Bw11">
 <src.rf>manual</src.rf>
@@ -6617,7 +6617,7 @@
 <LM>w#w-ln95048-064-p7s15w5</LM>
 </w.rf>
 <form>lidé</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP1-----A---1</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln95048-064-p7s15w6">
 <src.rf>manual</src.rf>
@@ -8140,7 +8140,7 @@
 <LM>w#w-ln95048-064-p9s1w19</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9FXXFS3-------</tag>
 </m>
 <m id="m-ln95048-064-p9s1w20">
 <src.rf>manual</src.rf>
@@ -10186,7 +10186,7 @@
 <LM>w#w-ln95048-064-p10s8Bw5</LM>
 </w.rf>
 <form>lidé</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP1-----A---1</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln95048-064-p10s8Bw6">
 <src.rf>manual</src.rf>
@@ -10685,7 +10685,7 @@
 <LM>w#w-ln95048-064-p10s12w18</LM>
 </w.rf>
 <form>lidé</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP1-----A---1</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln95048-064-p10s12w19">
 <src.rf>manual</src.rf>

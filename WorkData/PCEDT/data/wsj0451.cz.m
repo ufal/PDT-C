@@ -661,7 +661,7 @@
 </w.rf>
 <form>Mazda</form>
 <tag>
-<AM lemma="Mazda_;m" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Mazda-1_;m" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="mazda_;m" src="auto">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -975,7 +975,7 @@
 </w.rf>
 <form>Mazda</form>
 <tag>
-<AM lemma="Mazda_;m" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Mazda-1_;m" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="mazda_;m" src="auto">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -2246,7 +2246,7 @@
 </w.rf>
 <form>Mazda</form>
 <tag>
-<AM lemma="Mazda_;m" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Mazda-1_;m" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="mazda_;m" src="auto">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -2504,7 +2504,7 @@
 </w.rf>
 <form>Mazda</form>
 <tag>
-<AM lemma="Mazda_;m" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Mazda-1_;m" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="mazda_;m" src="auto">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -3515,7 +3515,7 @@
 </w.rf>
 <form>Mazda</form>
 <tag>
-<AM lemma="Mazda_;m" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Mazda-1_;m" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="mazda_;m" src="auto">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -4940,7 +4940,7 @@
 <AM lemma="dál" src="auto">NNFS1-----A---1</AM>
 <AM lemma="dál" src="auto">NNFS2-----A----</AM>
 <AM lemma="daleko-1" src="auto">Dg-------2A---1</AM>
-<AM lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="auto" recommended="1">Db------------1</AM>
+<AM lemma="dále-3_^(také,_za_další)" src="auto" recommended="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0451-001-p1s16W3-Ta">

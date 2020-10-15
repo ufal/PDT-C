@@ -255,7 +255,7 @@
 <LM>w#w-ln95044-053-p3s1w4</LM>
 </w.rf>
 <form>sen</form>
-<tag lemma="sen" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="sen-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95044-053-p3s1w5">
 <src.rf>manual</src.rf>

@@ -3243,7 +3243,7 @@
 <LM>w#w-ln94208-79-p6s2w31</LM>
 </w.rf>
 <form>bohatších</form>
-<tag lemma="bohatý" src="orig" selected="1">AAFP6----2A----</tag>
+<tag lemma="bohatý" src="orig" selected="1">AAFP6----2A---1</tag>
 </m>
 <m id="m-ln94208-79-p6s2w32">
 <src.rf>manual</src.rf>

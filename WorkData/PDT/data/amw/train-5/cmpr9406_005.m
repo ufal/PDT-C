@@ -10600,7 +10600,7 @@
 <LM>w#w-cmpr9406-005-p34s3w3</LM>
 </w.rf>
 <form>lidé</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP1-----A---1</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-cmpr9406-005-p34s3w4">
 <src.rf>manual</src.rf>
@@ -11243,7 +11243,7 @@
 <LM>w#w-cmpr9406-005-p35s1w11</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9FXXFS3-------</tag>
 </m>
 <m id="m-cmpr9406-005-p35s1w12">
 <src.rf>manual</src.rf>
@@ -16399,7 +16399,7 @@
 <LM>w#w-cmpr9406-005-p53s1w5</LM>
 </w.rf>
 <form>spíš</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="spíš" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-cmpr9406-005-p53s1w6">
 <src.rf>manual</src.rf>
@@ -17536,7 +17536,7 @@
 <LM>w#w-cmpr9406-005-p56s7w2</LM>
 </w.rf>
 <form>snazší</form>
-<tag lemma="snadný" src="orig" selected="1">AANS1----2A----</tag>
+<tag lemma="snadný" src="orig" selected="1">AANS1----2A---1</tag>
 </m>
 <m id="m-cmpr9406-005-p56s7w3">
 <src.rf>manual</src.rf>

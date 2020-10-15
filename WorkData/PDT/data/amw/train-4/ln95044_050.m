@@ -1557,7 +1557,7 @@
 <LM>w#w-ln95044-050-p4s2w12</LM>
 </w.rf>
 <form>r</form>
-<tag lemma="režie" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="r-33" src="orig" selected="1">Q3-------------</tag>
 </m>
 <m id="m-ln95044-050-p4s2w13">
 <src.rf>manual</src.rf>
@@ -1653,7 +1653,7 @@
 <LM>w#w-ln95044-050-p4s2w23</LM>
 </w.rf>
 <form>r</form>
-<tag lemma="režie" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="r-33" src="orig" selected="1">Q3-------------</tag>
 </m>
 <m id="m-ln95044-050-p4s2w24">
 <src.rf>manual</src.rf>

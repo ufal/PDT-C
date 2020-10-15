@@ -2488,7 +2488,7 @@
 <LM>w#w-ln94205-96-p5s2w6</LM>
 </w.rf>
 <form>lidé</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP1-----A---1</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln94205-96-p5s2w7">
 <src.rf>manual</src.rf>

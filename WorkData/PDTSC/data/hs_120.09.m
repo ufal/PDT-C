@@ -320,7 +320,7 @@
 </w.rf>
 <form>teda</form>
 <tag>
-<AM lemma="teda-1_,h" src="auto" recommended="1">Db------------6</AM>
+<AM lemma="teda-1_,h" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="teda-2_,h" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -896,7 +896,7 @@
 </w.rf>
 <form>teda</form>
 <tag>
-<AM lemma="teda-1_,h" src="auto" recommended="1">Db------------6</AM>
+<AM lemma="teda-1_,h" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="teda-2_,h" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -3478,7 +3478,7 @@
 <form>vlastně</form>
 <tag>
 <AM lemma="vlastnit_^(někdo_má_něco_ve_vlastnictví)" src="auto">VeYS------A-I--</AM>
-<AM lemma="vlastně-2_^(totiž)" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="vlastně-2" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="vlastně-3" src="auto">TT-------------</AM>
 <AM lemma="vlastně_^(příslušný_k_něčemu)_(*1í)" src="auto">Dg-------1A----</AM>
 </tag>

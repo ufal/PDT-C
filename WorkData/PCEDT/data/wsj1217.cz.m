@@ -1549,7 +1549,7 @@
 </w.rf>
 <form>Jaguar</form>
 <tag>
-<AM lemma="Jaguar_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Jaguar_;m_,s_^(vozidlo)_(^DD**Jaguár)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Jaguar_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="jaguar_;m_^(vozidlo)" src="auto">NNIS1-----A----</AM>
 <AM lemma="jaguar_;m_^(vozidlo)" src="auto">NNIS4-----A----</AM>
@@ -1704,7 +1704,7 @@
 </w.rf>
 <form>Jaguar</form>
 <tag>
-<AM lemma="Jaguar_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Jaguar_;m_,s_^(vozidlo)_(^DD**Jaguár)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Jaguar_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="jaguar_;m_^(vozidlo)" src="auto">NNIS1-----A----</AM>
 <AM lemma="jaguar_;m_^(vozidlo)" src="auto">NNIS4-----A----</AM>

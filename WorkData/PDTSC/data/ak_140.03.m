@@ -601,7 +601,7 @@
 <AM lemma="broďák_,l_^(oblek_rybáře)" src="auto" recommended="1">NNIS3-----A----</AM>
 <AM lemma="broďák_,l_^(oblek_rybáře)" src="auto">NNIS5-----A----</AM>
 <AM lemma="broďák_,l_^(oblek_rybáře)" src="auto">NNIS6-----A----</AM>
-<AM lemma="Broďák-2_;G" src="manual" selected="1">NNIS3-----A----</AM>
+<AM lemma="Broďák-2_;G_,h" src="manual" selected="1">NNIS3-----A----</AM>
 </tag>
 </m>
 <m id="m140-692-693">

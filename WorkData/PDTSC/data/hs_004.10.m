@@ -1751,7 +1751,7 @@
 <AM lemma="Viktoria-2_;m_^(jméno_sport.klubu)" src="auto">NNFP4-----A----</AM>
 <AM lemma="Viktoria-2_;m_^(jméno_sport.klubu)" src="auto">NNFP5-----A----</AM>
 <AM lemma="Viktoria-2_;m_^(jméno_sport.klubu)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Viktoria-2_;m_^(jméno_sport.klubu)" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="Viktoria_;Y_;m" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="Viktoria-2_;m_^(jméno_sport.klubu)" src="auto">NNFS5-----A----</AM>
 <AM lemma="Viktorie_;Y" src="auto">NNFP1-----A----</AM>
 <AM lemma="Viktorie_;Y" src="auto">NNFP4-----A----</AM>

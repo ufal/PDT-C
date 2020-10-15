@@ -387,7 +387,7 @@
 <LM>w#w-ln94211-22-p2s1Cw24</LM>
 </w.rf>
 <form>show</form>
-<tag lemma="show" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="show-1" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln94211-22-p2s1Cw25">
 <src.rf>manual</src.rf>

@@ -3482,7 +3482,7 @@
 <LM>w#w-vesm9303-010-p1s16Bw6</LM>
 </w.rf>
 <form>str</form>
-<tag lemma="strana-4" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="strana" src="orig" selected="1">NNFXX-----A---a</tag>
 </m>
 <m id="m-vesm9303-010-p1s16Bw7">
 <src.rf>manual</src.rf>

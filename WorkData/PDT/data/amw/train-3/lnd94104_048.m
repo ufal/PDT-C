@@ -1200,7 +1200,7 @@
 <form>vlastně</form>
 <tag>
 <AM lemma="vlastnit_^(někdo_má_něco_ve_vlastnictví)" src="orig">VeYS------A-I--</AM>
-<AM lemma="vlastně-2_^(totiž)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="vlastně-2" src="manual" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94104-048-p1s8w15">
@@ -1732,7 +1732,7 @@
 <LM>w#w-lnd94104-048-p1s11w23</LM>
 </w.rf>
 <form>něhož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS2----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS2---------3</tag>
 </m>
 <m id="m-lnd94104-048-p1s11w24">
 <src.rf>manual</src.rf>

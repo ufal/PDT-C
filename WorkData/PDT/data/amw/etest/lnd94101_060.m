@@ -557,7 +557,7 @@
 <form>Abdalláhu</form>
 <tag>
 <AM lemma="Abdalláh_;Y" src="auto">NNMS3-----A----</AM>
-<AM lemma="Abdalláh_;Y" src="manual" selected="1">NNMS3-----A----</AM>
+<AM lemma="Abdalláh_;Y" src="manual" selected="1">NNMS3-----A---1</AM>
 </tag>
 </m>
 <m id="m-lnd94101-060-p1s5w9">

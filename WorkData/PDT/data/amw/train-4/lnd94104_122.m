@@ -234,7 +234,7 @@
 <form>C</form>
 <tag>
 <AM lemma="C-33" src="orig">Q3-------------</AM>
-<AM lemma="Celsius" src="manual" selected="1">NNMXX-----A---8</AM>
+<AM lemma="Celsius_;Y" src="manual" selected="1">NNMXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd94104-122-p1s2w16">

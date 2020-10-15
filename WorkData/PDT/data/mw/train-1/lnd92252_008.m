@@ -2323,7 +2323,7 @@
 <LM>w#w-lnd92252-008-p5s4w25</LM>
 </w.rf>
 <form>lidé</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP1-----A---1</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd92252-008-p5s4w26">
 <src.rf>manual</src.rf>

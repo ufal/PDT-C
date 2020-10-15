@@ -780,7 +780,7 @@
 <LM>w#w-ln95040-145-p4s3w9</LM>
 </w.rf>
 <form>hodiny</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-ln95040-145-p4s3w10">
 <src.rf>manual</src.rf>

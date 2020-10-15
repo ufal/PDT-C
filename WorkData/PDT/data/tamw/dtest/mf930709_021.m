@@ -472,7 +472,7 @@
 <LM>w#w-mf930709-021-p2s3w1</LM>
 </w.rf>
 <form>Lidé</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP1-----A---1</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf930709-021-p2s3w2">
 <src.rf>manual</src.rf>
@@ -496,7 +496,7 @@
 <LM>w#w-mf930709-021-p2s3w4</LM>
 </w.rf>
 <form>bydlí</form>
-<tag lemma="bydlet" src="orig" selected="1">VB-P---3P-AAI--</tag>
+<tag lemma="bydlet" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-mf930709-021-p2s3w5">
 <src.rf>manual</src.rf>

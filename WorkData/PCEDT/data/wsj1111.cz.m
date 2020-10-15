@@ -737,7 +737,7 @@
 <LM>w#w-wsj1111-001-p1s2W9</LM>
 </w.rf>
 <form>Virginia</form>
-<tag lemma="Virginia_;G" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="Virginie_;G_;Y" src="auto" recommended="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-wsj1111-001-p1s2W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3559,7 +3559,7 @@
 <form>něž</form>
 <tag>
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">P9NS4----------</AM>
-<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">P4XP4----------</AM>
+<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">P4XP4---------1</AM>
 </tag>
 </m>
 <m id="m-wsj1111-001-p1s13W18-Ta">

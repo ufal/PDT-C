@@ -591,7 +591,7 @@
 <form>nedostatek</form>
 <tag>
 <AM lemma="nedostatek" src="orig">NNIS1-----A----</AM>
-<AM lemma="dostatek" src="manual" selected="1">NNIS1-----N----</AM>
+<AM lemma="nedostatek" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-099-p1s5w14">

@@ -428,7 +428,7 @@
 <tag>
 <AM lemma="George_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="George_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="George_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="George_;Y" src="auto" recommended="1">NNMS2-----A---1</AM>
 <AM lemma="George_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="George-77" src="auto">F%-------------</AM>
 <AM lemma="George_;Y_,t" src="auto">NNMXX-----A----</AM>

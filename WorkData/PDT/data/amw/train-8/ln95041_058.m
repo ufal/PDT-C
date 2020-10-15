@@ -2131,7 +2131,7 @@
 <LM>w#w-ln95041-058-p6s3w6</LM>
 </w.rf>
 <form>rublu</form>
-<tag lemma="rubl" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="rubl" src="orig" selected="1">NNIS2-----A---1</tag>
 </m>
 <m id="m-ln95041-058-p6s3w7">
 <src.rf>manual</src.rf>
@@ -2522,7 +2522,7 @@
 <LM>w#w-ln95041-058-p6s6w4</LM>
 </w.rf>
 <form>lidé</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP1-----A---1</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln95041-058-p6s6w5">
 <src.rf>manual</src.rf>

@@ -1118,7 +1118,7 @@
 </w.rf>
 <form>Rusové</form>
 <tag>
-<AM lemma="Rus_;E" src="auto" recommended="1">NNMP1-----A----</AM>
+<AM lemma="Rus-1_;E" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="Rus_;E" src="auto">NNMP5-----A----</AM>
 <AM lemma="Rusová_;G_^(obec)" src="auto">NNFP1-----A----</AM>
 <AM lemma="Rusová_;G_^(obec)" src="auto">NNFP4-----A----</AM>
@@ -1170,7 +1170,7 @@
 </w.rf>
 <form>lidé</form>
 <tag>
-<AM lemma="člověk" src="auto" recommended="1">NNMP1-----A---1</AM>
+<AM lemma="lidé" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="člověk" src="auto">NNMP5-----A---1</AM>
 </tag>
 </m>
@@ -9118,7 +9118,7 @@
 </w.rf>
 <form>lidé</form>
 <tag>
-<AM lemma="člověk" src="auto" recommended="1">NNMP1-----A---1</AM>
+<AM lemma="lidé" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="člověk" src="auto">NNMP5-----A---1</AM>
 </tag>
 </m>
@@ -15619,7 +15619,7 @@
 </w.rf>
 <form>Lidé</form>
 <tag>
-<AM lemma="člověk" src="auto" recommended="1">NNMP1-----A---1</AM>
+<AM lemma="lidé" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="člověk" src="auto">NNMP5-----A---1</AM>
 </tag>
 </m>

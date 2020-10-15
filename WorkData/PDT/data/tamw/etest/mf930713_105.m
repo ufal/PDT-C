@@ -949,7 +949,7 @@
 <LM>w#w-mf930713-105-p2s7w5</LM>
 </w.rf>
 <form>Beranova</form>
-<tag lemma="beranův_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="beranův-1_^(*4-1)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-mf930713-105-p2s7w6">
 <src.rf>manual</src.rf>

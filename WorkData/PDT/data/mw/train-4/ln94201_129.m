@@ -647,7 +647,7 @@
 <LM>w#w-ln94201-129-p3s1w15</LM>
 </w.rf>
 <form>aj</form>
-<tag lemma="aj-1_^(a_jiný/á/é)" src="orig" selected="1">AAXXX----1A---b</tag>
+<tag lemma="aj-1_^(a_jiný/á/é)" src="orig" selected="1">BAXXX----1A----</tag>
 </m>
 <m id="m-ln94201-129-p3s1w16">
 <src.rf>manual</src.rf>

@@ -8188,7 +8188,7 @@
 <LM>w#w-vesm9211-020-p18s3w27</LM>
 </w.rf>
 <form>něž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4NS4----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4NS4---------1</tag>
 </m>
 <m id="m-vesm9211-020-p18s3w28">
 <src.rf>manual</src.rf>

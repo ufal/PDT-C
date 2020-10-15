@@ -2047,7 +2047,7 @@
 <AM lemma="Babylón_;G">NNIS1-----A----</AM>
 <AM lemma="babylon_^(zmatek,_směsice)">NNIS1-----A----</AM>
 <AM lemma="babylon_^(zmatek,_směsice)">NNIS4-----A----</AM>
-<AM lemma="Babylon-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Babylon_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="es_04-SCzechM-p0335-s1-w3">

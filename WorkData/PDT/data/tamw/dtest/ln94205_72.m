@@ -1291,7 +1291,7 @@
 <LM>w#w-ln94205-72-p3s6w10</LM>
 </w.rf>
 <form>stála</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln94205-72-p3s6w11">
 <src.rf>manual</src.rf>

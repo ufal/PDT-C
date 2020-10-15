@@ -1312,7 +1312,7 @@
 <LM>w#w-mf920925-095-p50s1w3</LM>
 </w.rf>
 <form>show</form>
-<tag lemma="show" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="show-1" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 </s>
 <s id="m-mf920925-095-p52s1">

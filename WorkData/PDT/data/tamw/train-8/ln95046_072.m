@@ -302,7 +302,7 @@
 <LM>w#w-ln95046-072-p2s1Bw28</LM>
 </w.rf>
 <form>Davidem</form>
-<tag lemma="David_;Y" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="David-1_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95046-072-p2s1Bw29">
 <src.rf>manual</src.rf>
@@ -621,7 +621,7 @@
 <LM>w#w-ln95046-072-p2s3w19</LM>
 </w.rf>
 <form>Kanadě</form>
-<tag lemma="Kanada_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Kanada_;G_;m" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln95046-072-p2s3w20">
 <src.rf>manual</src.rf>

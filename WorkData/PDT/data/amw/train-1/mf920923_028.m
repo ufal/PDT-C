@@ -2221,7 +2221,7 @@
 <LM>w#w-mf920923-028-p2s3w30</LM>
 </w.rf>
 <form>Davidem</form>
-<tag lemma="David_;Y" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="David-1_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920923-028-p2s3w31">
 <src.rf>manual</src.rf>

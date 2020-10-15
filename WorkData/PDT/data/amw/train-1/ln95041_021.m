@@ -1241,7 +1241,7 @@
 <LM>w#w-ln95041-021-p3s4w8</LM>
 </w.rf>
 <form>Dublinu</form>
-<tag lemma="Dublin_;G" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Dublin_;G" src="orig" selected="1">NNIS6-----A---1</tag>
 </m>
 <m id="m-ln95041-021-p3s4w9">
 <src.rf>manual</src.rf>
@@ -3559,7 +3559,7 @@
 <LM>w#w-ln95041-021-p4s3w2</LM>
 </w.rf>
 <form>lidé</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP1-----A---1</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln95041-021-p4s3w3">
 <src.rf>manual</src.rf>
@@ -4364,7 +4364,7 @@
 <LM>w#w-ln95041-021-p5s4w3</LM>
 </w.rf>
 <form>Dublinu</form>
-<tag lemma="Dublin_;G" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Dublin_;G" src="orig" selected="1">NNIS6-----A---1</tag>
 </m>
 <m id="m-ln95041-021-p5s4w4">
 <src.rf>manual</src.rf>

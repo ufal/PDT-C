@@ -857,7 +857,7 @@
 <LM>w#w-mf920925-012-p3s4w10</LM>
 </w.rf>
 <form>stál</form>
-<tag lemma="stát-4_^(něco_stojí_peníze)" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920925-012-p3s4w11">
 <src.rf>manual</src.rf>

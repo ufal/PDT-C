@@ -711,7 +711,7 @@
 <LM>w#w-ln94206-140-p2s3w4</LM>
 </w.rf>
 <form>vlastně</form>
-<tag lemma="vlastně-2_^(totiž)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="vlastně-2" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94206-140-p2s3w5">
 <src.rf>manual</src.rf>
@@ -1857,7 +1857,7 @@
 <LM>w#w-ln94206-140-p5s1w18</LM>
 </w.rf>
 <form>pozdějších</form>
-<tag lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="orig" selected="1">AAIP2----2A----</tag>
+<tag lemma="pozdější" src="orig" selected="1">AAIP2----1A----</tag>
 </m>
 <m id="m-ln94206-140-p5s1w19">
 <src.rf>manual</src.rf>

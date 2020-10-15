@@ -2823,7 +2823,7 @@
 <LM>w#w-ln94201-101-p8s2w10</LM>
 </w.rf>
 <form>den</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln94201-101-p8s2w11">
 <src.rf>manual</src.rf>

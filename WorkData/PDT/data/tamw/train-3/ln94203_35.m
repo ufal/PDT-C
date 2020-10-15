@@ -2484,7 +2484,7 @@
 <LM>w#w-ln94203-35-p5s1w12</LM>
 </w.rf>
 <form>bydlí</form>
-<tag lemma="bydlet" src="orig" selected="1">VB-P---3P-AAI--</tag>
+<tag lemma="bydlet" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-ln94203-35-p5s1w13">
 <src.rf>manual</src.rf>

@@ -3877,7 +3877,7 @@
 <LM>w#w-vesm9211-017-p8s4w35</LM>
 </w.rf>
 <form>spíš</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="spíš" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-vesm9211-017-p8s4w36">
 <src.rf>manual</src.rf>
@@ -8745,7 +8745,7 @@
 <LM>w#w-vesm9211-017-p12s2w15</LM>
 </w.rf>
 <form>spíš</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="spíš" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-vesm9211-017-p12s2w16">
 <src.rf>manual</src.rf>
@@ -9717,7 +9717,7 @@
 <LM>w#w-vesm9211-017-p13s1w13</LM>
 </w.rf>
 <form>něhož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS2----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS2---------3</tag>
 </m>
 <m id="m-vesm9211-017-p13s1w14">
 <src.rf>manual</src.rf>

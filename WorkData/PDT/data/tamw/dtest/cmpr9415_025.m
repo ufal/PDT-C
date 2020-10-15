@@ -481,7 +481,7 @@
 <LM>w#w-cmpr9415-025-p3s3w8</LM>
 </w.rf>
 <form>vlastně</form>
-<tag lemma="vlastně-2_^(totiž)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="vlastně-2" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-cmpr9415-025-p3s3w9">
 <src.rf>manual</src.rf>
@@ -10483,7 +10483,7 @@
 <LM>w#w-cmpr9415-025-p24s3w4</LM>
 </w.rf>
 <form>lidé</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP1-----A---1</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-cmpr9415-025-p24s3w5">
 <src.rf>manual</src.rf>

@@ -511,7 +511,7 @@
 <LM>w#w-lnd94101-989-p1s4Bw3</LM>
 </w.rf>
 <form>Rusové</form>
-<tag lemma="Rus_;E" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="Rus-1_;E" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd94101-989-p1s4Bw4">
 <src.rf>manual</src.rf>

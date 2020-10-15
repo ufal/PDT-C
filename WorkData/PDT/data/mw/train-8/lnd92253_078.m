@@ -1486,7 +1486,7 @@
 <LM>w#w-lnd92253-078-p2s6w12</LM>
 </w.rf>
 <form>show</form>
-<tag lemma="show" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="show-1" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-lnd92253-078-p2s6w13">
 <src.rf>manual</src.rf>

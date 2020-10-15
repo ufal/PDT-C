@@ -1426,7 +1426,7 @@
 <LM>w#w-ln94208-129-p3s3Bw1</LM>
 </w.rf>
 <form>o</form>
-<tag lemma="o-4_^(graf._oddělovač)" src="orig" selected="1">Z:-------------</tag>
+<tag lemma="o-33" src="orig" selected="1">Q3-------------</tag>
 </m>
 <m id="m-ln94208-129-p3s3Bw2">
 <src.rf>manual</src.rf>
@@ -2290,7 +2290,7 @@
 <LM>w#w-ln94208-129-p4s4Bw1</LM>
 </w.rf>
 <form>o</form>
-<tag lemma="o-4_^(graf._oddělovač)" src="orig" selected="1">Z:-------------</tag>
+<tag lemma="o-33" src="orig" selected="1">Q3-------------</tag>
 </m>
 <m id="m-ln94208-129-p4s4Bw2">
 <src.rf>manual</src.rf>

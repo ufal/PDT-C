@@ -849,7 +849,7 @@
 <LM>w#w-lnd92259-093-p3s5w16</LM>
 </w.rf>
 <form>ME</form>
-<tag lemma="ME-1_^(mistrovství_Evropy)" src="orig" selected="1">NNNXX-----A---b</tag>
+<tag lemma="ME_^(mistrovství_Evropy)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd92259-093-p3s5w17">
 <src.rf>manual</src.rf>
@@ -1063,7 +1063,7 @@
 <LM>w#w-lnd92259-093-p3s7w14</LM>
 </w.rf>
 <form>ME</form>
-<tag lemma="ME-1_^(mistrovství_Evropy)" src="orig" selected="1">NNNXX-----A---b</tag>
+<tag lemma="ME_^(mistrovství_Evropy)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd92259-093-p3s7w15">
 <src.rf>manual</src.rf>

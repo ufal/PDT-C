@@ -1953,7 +1953,7 @@
 <LM>w#w-cmpr9406-026-p12s2w17</LM>
 </w.rf>
 <form>ap</form>
-<tag lemma="apod_^(a_podobně)" src="auto" selected="1">Bb------------9</tag>
+<tag lemma="ap_^(a_podobně)" src="auto" selected="1">Bb-------------</tag>
 </m>
 <m id="m-cmpr9406-026-p12s2w18">
 <src.rf>manual</src.rf>

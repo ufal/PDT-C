@@ -506,7 +506,7 @@
 <LM>w#w-ln95047-048-p2s2w27</LM>
 </w.rf>
 <form>kostele</form>
-<tag lemma="kostel" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="kostel" src="orig" selected="1">NNIS6-----A---1</tag>
 </m>
 <m id="m-ln95047-048-p2s2w28">
 <src.rf>manual</src.rf>

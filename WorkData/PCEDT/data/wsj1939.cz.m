@@ -1852,7 +1852,7 @@
 <AM lemma="George_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="George_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="George_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="George_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
+<AM lemma="George_;Y" src="auto" recommended="1">NNMS4-----A---1</AM>
 <AM lemma="George-77" src="auto">F%-------------</AM>
 <AM lemma="George_;Y_,t" src="auto">NNMXX-----A----</AM>
 </tag>
@@ -3907,7 +3907,7 @@
 <form>hodiny</form>
 <tag>
 <AM lemma="hodina_^(jednotka_času)" src="auto">NNFP1-----A----</AM>
-<AM lemma="hodina_^(jednotka_času)" src="auto" recommended="1">NNFP4-----A----</AM>
+<AM lemma="hodina" src="auto" recommended="1">NNFP4-----A----</AM>
 <AM lemma="hodina_^(jednotka_času)" src="auto">NNFP5-----A----</AM>
 <AM lemma="hodina_^(jednotka_času)" src="auto">NNFS2-----A----</AM>
 <AM lemma="hodiny_^(přístroj)" src="auto">NNFP1-----A----</AM>
@@ -8628,7 +8628,7 @@
 <AM lemma="bohatit" src="auto">VB-S---3P-AAI--</AM>
 <AM lemma="bohatý" src="auto" recommended="1">AAMP1----1A----</AM>
 <AM lemma="bohatý" src="auto">AAMP5----1A----</AM>
-<AM lemma="bohatý-2" src="manual" selected="1">NNMP1-----A----</AM>
+<AM lemma="bohatý" src="manual" selected="1">AAMP1----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj1939-001-p1s31W22-Ta">

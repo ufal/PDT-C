@@ -1250,7 +1250,7 @@
 <LM>w#w-mf920922-011-p1s8w11</LM>
 </w.rf>
 <form>rublu</form>
-<tag lemma="rubl" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="rubl" src="orig" selected="1">NNIS2-----A---1</tag>
 </m>
 <m id="m-mf920922-011-p1s8w12">
 <src.rf>manual</src.rf>
@@ -2917,7 +2917,7 @@
 <LM>w#w-mf920922-011-p1s20w5</LM>
 </w.rf>
 <form>dále</form>
-<tag lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="orig" selected="1">Db------------1</tag>
+<tag lemma="dále-3_^(také,_za_další)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf920922-011-p1s20w6">
 <src.rf>manual</src.rf>

@@ -186,7 +186,7 @@
 <LM>w#w-mf920923-012-p1s1Cw16</LM>
 </w.rf>
 <form>rublu</form>
-<tag lemma="rubl" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="rubl" src="orig" selected="1">NNIS2-----A---1</tag>
 </m>
 <m id="m-mf920923-012-p1s1Cw17">
 <src.rf>manual</src.rf>
@@ -307,7 +307,7 @@
 <LM>w#w-mf920923-012-p1s1Cw31</LM>
 </w.rf>
 <form>rublu</form>
-<tag lemma="rubl" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="rubl" src="orig" selected="1">NNIS2-----A---1</tag>
 </m>
 <m id="m-mf920923-012-p1s1Cw32">
 <src.rf>manual</src.rf>
@@ -427,7 +427,7 @@
 <LM>w#w-mf920923-012-p1s2w10</LM>
 </w.rf>
 <form>rublu</form>
-<tag lemma="rubl" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="rubl" src="orig" selected="1">NNIS2-----A---1</tag>
 </m>
 <m id="m-mf920923-012-p1s2w11">
 <src.rf>manual</src.rf>

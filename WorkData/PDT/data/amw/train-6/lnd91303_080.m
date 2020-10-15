@@ -450,7 +450,7 @@
 <LM>w#w-lnd91303-080-p1s2w27</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="s-2`sekunda" src="orig" selected="1">BNFXX-----A---1</tag>
+<tag lemma="sekunda" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-lnd91303-080-p1s2w28">
 <src.rf>manual</src.rf>
@@ -531,7 +531,7 @@
 <LM>w#w-lnd91303-080-p1s2w36</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="s-2`sekunda" src="orig" selected="1">BNFXX-----A---1</tag>
+<tag lemma="sekunda" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-lnd91303-080-p1s2w37">
 <src.rf>manual</src.rf>
@@ -653,7 +653,7 @@
 <LM>w#w-lnd91303-080-p2s1w14</LM>
 </w.rf>
 <form>den</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-lnd91303-080-p2s1w15">
 <src.rf>manual</src.rf>
@@ -923,7 +923,7 @@
 <LM>w#w-lnd91303-080-p2s4w4</LM>
 </w.rf>
 <form>den</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-lnd91303-080-p2s4w5">
 <src.rf>manual</src.rf>
@@ -1158,7 +1158,7 @@
 <LM>w#w-lnd91303-080-p3s1w14</LM>
 </w.rf>
 <form>den</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-lnd91303-080-p3s1w15">
 <src.rf>manual</src.rf>
@@ -1562,7 +1562,7 @@
 <LM>w#w-lnd91303-080-p3s5w8</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="s-2`sekunda" src="orig" selected="1">BNFXX-----A---1</tag>
+<tag lemma="sekunda" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-lnd91303-080-p3s5w9">
 <src.rf>manual</src.rf>
@@ -1643,7 +1643,7 @@
 <LM>w#w-lnd91303-080-p3s5w17</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="s-2`sekunda" src="orig" selected="1">BNFXX-----A---1</tag>
+<tag lemma="sekunda" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-lnd91303-080-p3s5w18">
 <src.rf>manual</src.rf>
@@ -1867,7 +1867,7 @@
 <LM>w#w-lnd91303-080-p4s1w8</LM>
 </w.rf>
 <form>SR</form>
-<tag lemma="SR-1_;G_^(Slovenská_republika)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="SR_;G_^(Slovenská_republika)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd91303-080-p4s1w9">
 <src.rf>manual</src.rf>

@@ -133,7 +133,7 @@
 <LM>w#w-mf930708-030-p2s1w7</LM>
 </w.rf>
 <form>Avie</form>
-<tag lemma="Avia_;m_^(vozidlo)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Avia_;m_^(vozidlo)" src="auto" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-mf930708-030-p2s1w8">
 <src.rf>manual</src.rf>
@@ -774,7 +774,7 @@
 <LM>w#w-mf930708-030-p3s1w2</LM>
 </w.rf>
 <form>dále</form>
-<tag lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="orig" selected="1">Db------------1</tag>
+<tag lemma="dále-3_^(také,_za_další)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf930708-030-p3s1w3">
 <src.rf>manual</src.rf>
@@ -1626,7 +1626,7 @@
 <LM>w#w-mf930708-030-p4s1w1</LM>
 </w.rf>
 <form>Avie</form>
-<tag lemma="Avia_;m_^(vozidlo)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Avia_;m_^(vozidlo)" src="auto" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-mf930708-030-p4s1w2">
 <src.rf>manual</src.rf>

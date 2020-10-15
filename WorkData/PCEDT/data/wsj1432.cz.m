@@ -4610,7 +4610,7 @@
 </w.rf>
 <form>Airbus</form>
 <tag>
-<AM lemma="Airbus_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Airbus-1_;m" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Airbus_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="airbus_;m" src="auto">NNIS1-----A----</AM>
 <AM lemma="airbus_;m" src="auto">NNIS4-----A----</AM>
@@ -5227,7 +5227,7 @@
 </w.rf>
 <form>Airbus</form>
 <tag>
-<AM lemma="Airbus_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Airbus-1_;m" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Airbus_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="airbus_;m" src="auto">NNIS1-----A----</AM>
 <AM lemma="airbus_;m" src="auto">NNIS4-----A----</AM>
@@ -10554,7 +10554,7 @@
 <AM lemma="dál" src="auto">NNFS1-----A---1</AM>
 <AM lemma="dál" src="auto">NNFS2-----A----</AM>
 <AM lemma="daleko-1" src="auto">Dg-------2A---1</AM>
-<AM lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="auto" recommended="1">Db------------1</AM>
+<AM lemma="dále-3_^(také,_za_další)" src="auto" recommended="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1432-001-p1s32W38-Ta">

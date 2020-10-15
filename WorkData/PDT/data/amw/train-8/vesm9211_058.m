@@ -1610,7 +1610,7 @@
 <LM>w#w-vesm9211-058-p3s8w14</LM>
 </w.rf>
 <form>spíš</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="spíš" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-vesm9211-058-p3s8w15">
 <src.rf>manual</src.rf>

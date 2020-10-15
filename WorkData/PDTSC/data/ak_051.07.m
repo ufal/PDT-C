@@ -3871,7 +3871,7 @@
 <AM lemma="ala-1_,t_^(místnost_v_starořím._obydlí;;vojenská_jednotka_ve_st._Římě;;boční_loď_v_bazilice)" src="auto">NNFS3-----A----</AM>
 <AM lemma="ala-1_,t_^(místnost_v_starořím._obydlí;;vojenská_jednotka_ve_st._Římě;;boční_loď_v_bazilice)" src="auto">NNFS6-----A----</AM>
 <AM lemma="ale" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="ale-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="ale" src="manual" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m051-d1t2826-5">
@@ -4149,7 +4149,7 @@
 <AM lemma="ala-1_,t_^(místnost_v_starořím._obydlí;;vojenská_jednotka_ve_st._Římě;;boční_loď_v_bazilice)" src="auto">NNFS3-----A----</AM>
 <AM lemma="ala-1_,t_^(místnost_v_starořím._obydlí;;vojenská_jednotka_ve_st._Římě;;boční_loď_v_bazilice)" src="auto">NNFS6-----A----</AM>
 <AM lemma="ale" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="ale-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="ale" src="manual" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m051-d1t2841-5">

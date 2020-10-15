@@ -9753,7 +9753,7 @@
 <LM>w#w-wsj0041-001-p1s38W27</LM>
 </w.rf>
 <form>Virginia</form>
-<tag lemma="Virginia_;G" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag lemma="Virginie_;G_;Y" src="auto" recommended="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-wsj0041-001-p1s38W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -12896,7 +12896,7 @@
 </w.rf>
 <form>Lidé</form>
 <tag>
-<AM lemma="člověk" src="auto" recommended="1">NNMP1-----A---1</AM>
+<AM lemma="lidé" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="člověk" src="auto">NNMP5-----A---1</AM>
 </tag>
 </m>

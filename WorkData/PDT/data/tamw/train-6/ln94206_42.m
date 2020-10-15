@@ -303,7 +303,7 @@
 <LM>w#w-ln94206-42-p2s2w8</LM>
 </w.rf>
 <form>stát</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94206-42-p2s2w9">
 <src.rf>manual</src.rf>

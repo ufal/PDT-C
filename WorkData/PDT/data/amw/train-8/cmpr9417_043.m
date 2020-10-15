@@ -1809,7 +1809,7 @@
 <LM>w#w-cmpr9417-043-p11s2w17</LM>
 </w.rf>
 <form>bohatších</form>
-<tag lemma="bohatý" src="orig" selected="1">AAMP2----2A----</tag>
+<tag lemma="bohatý" src="orig" selected="1">AAMP2----2A---1</tag>
 </m>
 <m id="m-cmpr9417-043-p11s2w18">
 <src.rf>manual</src.rf>

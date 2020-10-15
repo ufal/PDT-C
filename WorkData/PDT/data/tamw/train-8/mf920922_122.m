@@ -966,7 +966,7 @@
 <LM>w#w-mf920922-122-p2s8w3</LM>
 </w.rf>
 <form>hůře</form>
-<tag lemma="špatně" src="orig" selected="1">Dg-------2A---1</tag>
+<tag lemma="hůře" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-mf920922-122-p2s8w4">
 <src.rf>manual</src.rf>

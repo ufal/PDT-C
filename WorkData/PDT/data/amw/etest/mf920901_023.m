@@ -1458,7 +1458,7 @@
 <LM>w#w-mf920901-023-p4s1w5</LM>
 </w.rf>
 <form>stála</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf920901-023-p4s1w6">
 <src.rf>manual</src.rf>

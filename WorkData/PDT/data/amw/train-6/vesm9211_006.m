@@ -2146,7 +2146,7 @@
 <LM>w#w-vesm9211-006-p5s2w20</LM>
 </w.rf>
 <form>aj</form>
-<tag lemma="aj-1_^(a_jiný/á/é)" src="orig" selected="1">AAXXX----1A---b</tag>
+<tag lemma="aj-1_^(a_jiný/á/é)" src="orig" selected="1">BAXXX----1A----</tag>
 </m>
 <m id="m-vesm9211-006-p5s2w21">
 <src.rf>manual</src.rf>

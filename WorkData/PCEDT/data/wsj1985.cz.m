@@ -1181,7 +1181,7 @@
 <form>Davidem</form>
 <tag>
 <AM lemma="David_;G" src="auto">NNIS7-----A----</AM>
-<AM lemma="David_;Y" src="auto" recommended="1">NNMS7-----A----</AM>
+<AM lemma="David-1_;Y" src="auto" recommended="1">NNMS7-----A----</AM>
 <AM lemma="Davide_;Y" src="auto">NNMS6-----A----</AM>
 <AM lemma="Davide_;Y" src="auto">NNMS7-----A----</AM>
 </tag>

@@ -906,7 +906,7 @@
 </w.rf>
 <form>lidi</form>
 <tag>
-<AM lemma="člověk" src="auto" recommended="1">NNMP1-----A----</AM>
+<AM lemma="lidé" src="auto" recommended="1">NNMP1-----A---1</AM>
 <AM lemma="člověk" src="auto">NNMP4-----A----</AM>
 <AM lemma="člověk" src="auto">NNMP5-----A----</AM>
 </tag>
@@ -4658,7 +4658,7 @@
 </w.rf>
 <form>teda</form>
 <tag>
-<AM lemma="teda-1_,h" src="auto" recommended="1">Db------------6</AM>
+<AM lemma="teda-1_,h" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="teda-2_,h" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -5902,7 +5902,7 @@
 </w.rf>
 <form>teda</form>
 <tag>
-<AM lemma="teda-1_,h" src="auto" recommended="1">Db------------6</AM>
+<AM lemma="teda-1_,h" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="teda-2_,h" src="auto">TT-------------</AM>
 </tag>
 </m>

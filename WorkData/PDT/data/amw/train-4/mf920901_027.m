@@ -191,7 +191,7 @@
 <LM>w#w-mf920901-027-p2s1Bw10</LM>
 </w.rf>
 <form>CD</form>
-<tag lemma="CD-1_^(Audio/Data,_Compact_Disc)" src="auto" selected="1">NNNXX-----A---b</tag>
+<tag lemma="CD-1_^(Audio/Data,_Compactisc)" src="auto" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf920901-027-p2s1Bw11">
 <src.rf>manual</src.rf>

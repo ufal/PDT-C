@@ -162,7 +162,7 @@
 <LM>w#w-mf920901-063-p2s1w4</LM>
 </w.rf>
 <form>ME</form>
-<tag lemma="ME-1_^(mistrovství_Evropy)" src="orig" selected="1">NNNXX-----A---b</tag>
+<tag lemma="ME_^(mistrovství_Evropy)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf920901-063-p2s1w5">
 <src.rf>manual</src.rf>

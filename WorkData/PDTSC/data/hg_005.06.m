@@ -3278,7 +3278,7 @@
 <AM lemma="dál-2" src="auto">NNFP5-----A----</AM>
 <AM lemma="dál-2" src="auto">NNFS2-----A----</AM>
 <AM lemma="daleko-1" src="auto">Dg-------2A---1</AM>
-<AM lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="auto" recommended="1">Db------------1</AM>
+<AM lemma="dále-3_^(také,_za_další)" src="auto" recommended="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m005-d1e2298-x2-1586">
@@ -3328,7 +3328,7 @@
 <AM lemma="den-2_,t_^(měnová_jednotka)" src="auto">NNIS4-----A----</AM>
 <AM lemma="den-77_,t" src="auto">F%-------------</AM>
 <AM lemma="den_^(jednotka_času)" src="auto">NNIS1-----A----</AM>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="dna_^(nemoc)" src="auto">NNFP2-----A----</AM>
 <AM lemma="dno_^(např._propasti)" src="auto">NNNP2-----A----</AM>
 </tag>
@@ -4222,7 +4222,7 @@
 <AM lemma="Bora_;Y" src="auto">NNFS2-----A----</AM>
 <AM lemma="Boro_;G" src="auto">NNNP7-----A----</AM>
 <AM lemma="Bory_;G" src="auto">NNIP1-----A----</AM>
-<AM lemma="Bory_;G" src="auto" selected="1">NNIP4-----A----</AM>
+<AM lemma="Bor-2_;G" src="auto" selected="1">NNIP4-----A----</AM>
 <AM lemma="Bory_;G" src="auto">NNIP5-----A----</AM>
 <AM lemma="Bory_;G" src="auto">NNIP7-----A----</AM>
 <AM lemma="Bory_;Y" src="auto">NNMS1-----A----</AM>

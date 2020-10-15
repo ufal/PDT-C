@@ -655,7 +655,7 @@
 <LM>w#w-cmpr9416-005-p6s2w17</LM>
 </w.rf>
 <form>pozdějších</form>
-<tag lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="orig" selected="1">AAIP2----2A----</tag>
+<tag lemma="pozdější" src="orig" selected="1">AAIP2----1A----</tag>
 </m>
 <m id="m-cmpr9416-005-p6s2w18">
 <src.rf>manual</src.rf>
@@ -1212,7 +1212,7 @@
 <LM>w#w-cmpr9416-005-p8s2w40</LM>
 </w.rf>
 <form>pozdějších</form>
-<tag lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="orig" selected="1">AAIP2----2A----</tag>
+<tag lemma="pozdější" src="orig" selected="1">AAIP2----1A----</tag>
 </m>
 <m id="m-cmpr9416-005-p8s2w41">
 <src.rf>manual</src.rf>

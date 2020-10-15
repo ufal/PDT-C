@@ -2342,7 +2342,7 @@
 <LM>w#w-mf930703-105-p8s1w7</LM>
 </w.rf>
 <form>str</form>
-<tag lemma="strana-4" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="strana" src="orig" selected="1">NNFXX-----A---a</tag>
 </m>
 <m id="m-mf930703-105-p8s1w8">
 <src.rf>manual</src.rf>

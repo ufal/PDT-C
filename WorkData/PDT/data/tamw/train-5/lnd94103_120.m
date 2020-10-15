@@ -160,7 +160,7 @@
 <LM>w#w-lnd94103-120-p1s2w14</LM>
 </w.rf>
 <form>Švédy</form>
-<tag lemma="Švéd_;E" src="orig" selected="1">NNMP7-----A----</tag>
+<tag lemma="Švéd_;E_;Y" src="orig" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-lnd94103-120-p1s2w15">
 <src.rf>manual</src.rf>

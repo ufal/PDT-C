@@ -307,7 +307,7 @@
 <LM>w#w-mf920923-055-p4s1w4</LM>
 </w.rf>
 <form>MS</form>
-<tag lemma="MS-3_^(mistrovství_světa)" src="orig" selected="1">NNNXX-----A---b</tag>
+<tag lemma="MS-1_^(mistrovství_světa)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf920923-055-p4s1w5">
 <src.rf>manual</src.rf>
@@ -2518,7 +2518,7 @@
 <LM>w#w-mf920923-055-p16s1w9</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="s-2`sekunda" src="orig" selected="1">BNFXX-----A---1</tag>
+<tag lemma="sekunda" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-mf920923-055-p16s1w10">
 <src.rf>manual</src.rf>
@@ -2842,7 +2842,7 @@
 <LM>w#w-mf920923-055-p16s3w13</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="s-2`sekunda" src="orig" selected="1">BNFXX-----A---1</tag>
+<tag lemma="sekunda" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-mf920923-055-p16s3w14">
 <src.rf>manual</src.rf>
@@ -3320,7 +3320,7 @@
 <LM>w#w-mf920923-055-p16s6w11</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="s-2`sekunda" src="orig" selected="1">BNFXX-----A---1</tag>
+<tag lemma="sekunda" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-mf920923-055-p16s6w12">
 <src.rf>manual</src.rf>
@@ -5602,7 +5602,7 @@
 <LM>w#w-mf920923-055-p32s5w13</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="s-2`sekunda" src="orig" selected="1">BNFXX-----A---1</tag>
+<tag lemma="sekunda" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-mf920923-055-p32s5w14">
 <src.rf>manual</src.rf>
@@ -5938,7 +5938,7 @@
 <LM>w#w-mf920923-055-p32s7w20</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="s-2`sekunda" src="orig" selected="1">BNFXX-----A---1</tag>
+<tag lemma="sekunda" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-mf920923-055-p32s7w21">
 <src.rf>manual</src.rf>

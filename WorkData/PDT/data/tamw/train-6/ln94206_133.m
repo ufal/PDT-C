@@ -444,7 +444,7 @@
 <LM>w#w-ln94206-133-p2s2w9</LM>
 </w.rf>
 <form>o</form>
-<tag lemma="o-4_^(graf._oddělovač)" src="orig" selected="1">Z:-------------</tag>
+<tag lemma="o-33" src="orig" selected="1">Q3-------------</tag>
 </m>
 </s>
 <s id="m-ln94206-133-p3s1">
@@ -1873,7 +1873,7 @@
 <LM>w#w-ln94206-133-p7s1w9</LM>
 </w.rf>
 <form>moc</form>
-<tag lemma="moc-2_^(mnoho_něčeho_[se_subst._v_gen.])" src="orig" selected="1">Ca--X----------</tag>
+<tag lemma="moc-3_^(moc_hezká,_moc_peněz)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln94206-133-p7s1w10">
 <src.rf>manual</src.rf>

@@ -3135,7 +3135,7 @@
 <LM>w#w-ln95040-068-p7s5w7</LM>
 </w.rf>
 <form>show</form>
-<tag lemma="show" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="show-1" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln95040-068-p7s5w8">
 <src.rf>manual</src.rf>

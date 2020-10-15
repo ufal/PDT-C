@@ -5527,7 +5527,7 @@
 <LM>w#w-ln95048-034-p4s6w9</LM>
 </w.rf>
 <form>Vlasta</form>
-<tag lemma="Vlasta-1_;Y_^(žena)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Vlasta_;Y_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95048-034-p4s6w10">
 <src.rf>manual</src.rf>
@@ -5652,7 +5652,7 @@
 <LM>w#w-ln95048-034-p4s7w13</LM>
 </w.rf>
 <form>Vlasta</form>
-<tag lemma="Vlasta-1_;Y_^(žena)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Vlasta_;Y_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95048-034-p4s7w14">
 <src.rf>manual</src.rf>

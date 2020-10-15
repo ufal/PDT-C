@@ -387,7 +387,7 @@
 <LM>w#w-ln94206-142-p2s3w9</LM>
 </w.rf>
 <form>nedávno</form>
-<tag lemma="nedávno-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="dávno-1" src="auto" selected="1">Dg-------1N----</tag>
 </m>
 <m id="m-ln94206-142-p2s3w10">
 <src.rf>manual</src.rf>

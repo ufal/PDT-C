@@ -1567,7 +1567,7 @@
 <LM>w#w-ln94207-85-p6s2w7</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9FXXFS3-------</tag>
 </m>
 <m id="m-ln94207-85-p6s2w8">
 <src.rf>manual</src.rf>
@@ -2835,7 +2835,7 @@
 <LM>w#w-ln94207-85-p7s4w10</LM>
 </w.rf>
 <form>stát</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94207-85-p7s4w11">
 <src.rf>manual</src.rf>
@@ -2851,7 +2851,7 @@
 <LM>w#w-ln94207-85-p7s4w12</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9FXXFS3-------</tag>
 </m>
 <m id="m-ln94207-85-p7s4w13">
 <src.rf>manual</src.rf>
@@ -8568,7 +8568,7 @@
 <LM>w#w-ln94207-85-p15s5w5</LM>
 </w.rf>
 <form>hodiny</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-ln94207-85-p15s5w6">
 <src.rf>manual</src.rf>
@@ -8908,7 +8908,7 @@
 <LM>w#w-ln94207-85-p15s7w5</LM>
 </w.rf>
 <form>hodiny</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-ln94207-85-p15s7w6">
 <src.rf>manual</src.rf>
@@ -10625,7 +10625,7 @@
 <LM>w#w-ln94207-85-p16s10w1</LM>
 </w.rf>
 <form>Její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9FXXFS3-------</tag>
 </m>
 <m id="m-ln94207-85-p16s10w2">
 <src.rf>manual</src.rf>
@@ -13355,7 +13355,7 @@
 <LM>w#w-ln94207-85-p18s3w2</LM>
 </w.rf>
 <form>lidé</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP1-----A---1</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln94207-85-p18s3w3">
 <src.rf>manual</src.rf>
@@ -15955,7 +15955,7 @@
 <LM>w#w-ln94207-85-p21s5w6</LM>
 </w.rf>
 <form>hodiny</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-ln94207-85-p21s5w7">
 <src.rf>manual</src.rf>

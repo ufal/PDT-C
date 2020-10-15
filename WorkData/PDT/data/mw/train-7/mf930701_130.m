@@ -1382,7 +1382,7 @@
 <LM>w#w-mf930701-130-p4s3w15</LM>
 </w.rf>
 <form>spíš</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="spíš" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf930701-130-p4s3w16">
 <src.rf>manual</src.rf>

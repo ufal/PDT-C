@@ -2011,7 +2011,7 @@
 <LM>w#w-ln94200-143-p3s7w22</LM>
 </w.rf>
 <form>Poláci</form>
-<tag lemma="Polák_;E" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="Polák_;E_;Y" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln94200-143-p3s7w23">
 <src.rf>manual</src.rf>

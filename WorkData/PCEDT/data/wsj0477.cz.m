@@ -397,7 +397,7 @@
 <AM lemma="Allianz_:B_;m_,t" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="Allianza_;m" src="auto">NNFP2-----A----</AM>
 <AM lemma="Allianz-77" src="manual">F%-------------</AM>
-<AM lemma="Allianz_;m" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Allianz_;m" src="manual" selected="1">NNXXX-----A----</AM>
 <AM lemma="Allianz_;m" src="manual">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -1134,7 +1134,7 @@
 <AM lemma="Allianz_:B_;m_,t" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="Allianza_;m" src="auto">NNFP2-----A----</AM>
 <AM lemma="Allianz_;m" src="manual">NNFS1-----A----</AM>
-<AM lemma="Allianz_;m" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Allianz_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0477-001-p1s3W7-Ta">
@@ -1594,7 +1594,7 @@
 <AM lemma="Allianz_:B_;m_,t" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="Allianza_;m" src="auto">NNFP2-----A----</AM>
 <AM lemma="Allianz_;m" src="manual">NNFS1-----A----</AM>
-<AM lemma="Allianz_;m" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Allianz_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0477-001-p1s5W6-Ta">
@@ -1872,7 +1872,7 @@
 <tag>
 <AM lemma="Allianz_:B_;m_,t" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="Allianza_;m" src="auto">NNFP2-----A----</AM>
-<AM lemma="Allianz_;m" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Allianz_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0477-001-p1s6W4-Ta">
@@ -2485,7 +2485,7 @@
 <tag>
 <AM lemma="Allianz_:B_;m_,t" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="Allianza_;m" src="auto">NNFP2-----A----</AM>
-<AM lemma="Allianz_;m" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Allianz_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0477-001-p1s8W4-Ta">
@@ -5109,7 +5109,7 @@
 <tag>
 <AM lemma="Allianz_:B_;m_,t" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="Allianza_;m" src="auto">NNFP2-----A----</AM>
-<AM lemma="Allianz_;m" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Allianz_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0477-001-p1s16W4-Ta">
@@ -5227,7 +5227,7 @@
 <tag>
 <AM lemma="Allianz_:B_;m_,t" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="Allianza_;m" src="auto">NNFP2-----A----</AM>
-<AM lemma="Allianz_;m" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Allianz_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0477-001-p1s16W15-Ta">
@@ -5750,7 +5750,7 @@
 <tag>
 <AM lemma="Allianz_:B_;m_,t" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="Allianza_;m" src="auto">NNFP2-----A----</AM>
-<AM lemma="Allianz_;m" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Allianz_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0477-001-p1s17W13-Ta">
@@ -6103,7 +6103,7 @@
 <AM lemma="den-2_,t_^(měnová_jednotka)" src="auto">NNIS1-----A----</AM>
 <AM lemma="den-2_,t_^(měnová_jednotka)" src="auto">NNIS4-----A----</AM>
 <AM lemma="den-77_,t" src="auto">F%-------------</AM>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="den_^(jednotka_času)" src="auto">NNIS4-----A----</AM>
 <AM lemma="dna_^(nemoc)" src="auto">NNFP2-----A----</AM>
 <AM lemma="dno_^(např._propasti)" src="auto">NNNP2-----A----</AM>
@@ -6486,7 +6486,7 @@
 <tag>
 <AM lemma="Allianz_:B_;m_,t" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="Allianza_;m" src="auto">NNFP2-----A----</AM>
-<AM lemma="Allianz_;m" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Allianz_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0477-001-p1s19W3-Ta">
@@ -7032,7 +7032,7 @@
 <tag>
 <AM lemma="Allianz_:B_;m_,t" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="Allianza_;m" src="auto">NNFP2-----A----</AM>
-<AM lemma="Allianz_;m" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Allianz_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0477-001-p1s21W3-Ta">
@@ -7345,7 +7345,7 @@
 <AM lemma="Allianz_:B_;m_,t" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="Allianza_;m" src="auto">NNFP2-----A----</AM>
 <AM lemma="Allianz_;m" src="manual">NNFS1-----A----</AM>
-<AM lemma="Allianz_;m" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Allianz_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0477-001-p1s22W4-Ta">
@@ -7569,7 +7569,7 @@
 <tag>
 <AM lemma="Allianz_:B_;m_,t" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="Allianza_;m" src="auto">NNFP2-----A----</AM>
-<AM lemma="Allianz_;m" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Allianz_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0477-001-p1s23W3-Ta">
@@ -8156,7 +8156,7 @@
 <tag>
 <AM lemma="Allianz_:B_;m_,t" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="Allianza_;m" src="auto">NNFP2-----A----</AM>
-<AM lemma="Allianz_;m" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Allianz_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0477-001-p1s25W11-Ta">
@@ -8430,7 +8430,7 @@
 <tag>
 <AM lemma="Allianz_:B_;m_,t" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="Allianza_;m" src="auto">NNFP2-----A----</AM>
-<AM lemma="Allianz_;m" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Allianz_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0477-001-p1s26W4-Ta">
@@ -8527,7 +8527,7 @@
 <tag>
 <AM lemma="Allianz_:B_;m_,t" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="Allianza_;m" src="auto">NNFP2-----A----</AM>
-<AM lemma="Allianz_;m" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Allianz_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0477-001-p1s26W14-Ta">
@@ -8857,7 +8857,7 @@
 <tag>
 <AM lemma="Allianz_:B_;m_,t" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="Allianza_;m" src="auto">NNFP2-----A----</AM>
-<AM lemma="Allianz_;m" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Allianz_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0477-001-p1s27W22-Ta">
@@ -8928,7 +8928,7 @@
 <tag>
 <AM lemma="Allianz_:B_;m_,t" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="Allianza_;m" src="auto">NNFP2-----A----</AM>
-<AM lemma="Allianz_;m" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Allianz_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0477-001-p1s28W3-Ta">
@@ -9808,7 +9808,7 @@
 <form>něž</form>
 <tag>
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">P9NS4----------</AM>
-<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">P4XP4----------</AM>
+<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">P4XP4---------1</AM>
 </tag>
 </m>
 <m id="m-wsj0477-001-p1s31W10-Ta">

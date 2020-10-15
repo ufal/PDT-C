@@ -523,7 +523,7 @@
 <LM>w#w-lnd92251-089-p2s4w7</LM>
 </w.rf>
 <form>hůře</form>
-<tag lemma="špatně" src="orig" selected="1">Dg-------2A---1</tag>
+<tag lemma="hůře" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-lnd92251-089-p2s4w8">
 <src.rf>manual</src.rf>

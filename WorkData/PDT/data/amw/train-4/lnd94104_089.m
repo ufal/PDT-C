@@ -633,7 +633,7 @@
 <LM>w#w-lnd94104-089-p1s3w25</LM>
 </w.rf>
 <form>r</form>
-<tag lemma="režie" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="r-33" src="orig" selected="1">Q3-------------</tag>
 </m>
 <m id="m-lnd94104-089-p1s3w26">
 <src.rf>manual</src.rf>
@@ -873,7 +873,7 @@
 <LM>w#w-lnd94104-089-p1s5w15</LM>
 </w.rf>
 <form>Pavla</form>
-<tag lemma="Pavel-1_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Pavel_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94104-089-p1s5w16">
 <src.rf>manual</src.rf>
@@ -3091,7 +3091,7 @@
 <form>LN</form>
 <tag>
 <AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="LN-1_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="LN-1_;m_^(Lidové_noviny)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-089-p1s17w17">

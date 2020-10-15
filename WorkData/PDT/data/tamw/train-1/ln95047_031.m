@@ -1942,7 +1942,7 @@
 <LM>w#w-ln95047-031-p4s7w10</LM>
 </w.rf>
 <form>virus</form>
-<tag lemma="vir" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="vir-1" src="orig" selected="1">NNIS4-----A---1</tag>
 </m>
 <m id="m-ln95047-031-p4s7w11">
 <src.rf>manual</src.rf>

@@ -1332,7 +1332,7 @@
 <LM>w#w-lnd92251-036-p6s2w11</LM>
 </w.rf>
 <form>Abchazy</form>
-<tag lemma="Abchaz_;E" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="Abchaz_;E" src="orig" selected="1">NNMP4-----A---1</tag>
 </m>
 <m id="m-lnd92251-036-p6s2w12">
 <src.rf>manual</src.rf>

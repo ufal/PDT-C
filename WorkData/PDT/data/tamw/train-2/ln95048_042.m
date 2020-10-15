@@ -118,7 +118,7 @@
 <LM>w#w-ln95048-042-p2s1w9</LM>
 </w.rf>
 <form>sen</form>
-<tag lemma="sen" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="sen-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95048-042-p2s1w10">
 <src.rf>manual</src.rf>
@@ -469,7 +469,7 @@
 <LM>w#w-ln95048-042-p3s2w8</LM>
 </w.rf>
 <form>George</form>
-<tag lemma="George_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="George_;Y" src="orig" selected="1">NNMS2-----A---1</tag>
 </m>
 <m id="m-ln95048-042-p3s2w9">
 <src.rf>manual</src.rf>

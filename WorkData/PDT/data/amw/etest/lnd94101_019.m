@@ -611,7 +611,7 @@
 <LM>w#w-lnd94101-019-p1s5w18</LM>
 </w.rf>
 <form>lidi</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP1-----A---1</tag>
 </m>
 <m id="m-lnd94101-019-p1s5w19">
 <src.rf>manual</src.rf>

@@ -1537,7 +1537,7 @@
 <LM>w#w-ln94211-1-p4s1w25</LM>
 </w.rf>
 <form>den</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln94211-1-p4s1w26">
 <src.rf>manual</src.rf>
@@ -2498,7 +2498,7 @@
 <LM>w#w-ln94211-1-p5s2w22</LM>
 </w.rf>
 <form>Windows</form>
-<tag lemma="Windows" src="orig" selected="1">NNIXX-----A----</tag>
+<tag lemma="Windows_;m" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln94211-1-p5s2w23">
 <src.rf>manual</src.rf>

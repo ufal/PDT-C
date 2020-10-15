@@ -1597,7 +1597,7 @@
 <tag>
 <AM lemma="ad-2_:B_^(a_další)" src="orig">AAXXX----1A---8</AM>
 <AM lemma="ad_,t" src="auto">RR--1----------</AM>
-<AM lemma="adalší" src="auto" recommended="1" selected="1">AAXXX----1A---b</AM>
+<AM lemma="ad-1_^(a_další)" src="auto" recommended="1" selected="1">BAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-087-p6s3w22">

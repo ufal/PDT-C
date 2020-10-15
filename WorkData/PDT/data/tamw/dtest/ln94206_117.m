@@ -1689,7 +1689,7 @@
 <LM>w#w-ln94206-117-p7s1w5</LM>
 </w.rf>
 <form>Sparty</form>
-<tag lemma="Sparta_;m" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Sparta_;G_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94206-117-p7s1w6">
 <src.rf>manual</src.rf>

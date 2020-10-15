@@ -250,7 +250,7 @@
 <LM>w#w-lnd94104-081-p1s2w11</LM>
 </w.rf>
 <form>stát</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd94104-081-p1s2w12">
 <src.rf>manual</src.rf>

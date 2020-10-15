@@ -1168,7 +1168,7 @@
 <LM>w#w-vesm9212-034-p2s6w4</LM>
 </w.rf>
 <form>den</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-vesm9212-034-p2s6w5">
 <src.rf>manual</src.rf>

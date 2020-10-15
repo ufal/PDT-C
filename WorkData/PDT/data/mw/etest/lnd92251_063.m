@@ -315,7 +315,7 @@
 <form>George</form>
 <tag>
 <AM lemma="George_;Y_,t" src="orig">NNMS2-----A----</AM>
-<AM lemma="George_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="George_;Y" src="manual" selected="1">NNMS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-lnd92251-063-p3s2w13">
@@ -1503,7 +1503,7 @@
 <LM>w#w-lnd92251-063-p4s4w16</LM>
 </w.rf>
 <form>nejbohatším</form>
-<tag lemma="bohatý" src="orig" selected="1">AAFP3----3A----</tag>
+<tag lemma="bohatý" src="orig" selected="1">AAFP3----3A---1</tag>
 </m>
 <m id="m-lnd92251-063-p4s4w17">
 <src.rf>manual</src.rf>
@@ -3423,7 +3423,7 @@
 <form>LN</form>
 <tag>
 <AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="LN-1_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="LN-1_;m_^(Lidové_noviny)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-063-p7s1w7">

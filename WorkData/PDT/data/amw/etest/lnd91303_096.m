@@ -491,7 +491,7 @@
 <LM>w#w-lnd91303-096-p2s4w4</LM>
 </w.rf>
 <form>panu</form>
-<tag lemma="pan_^(oslovení)" src="auto" selected="1">NNMS3-----A----</tag>
+<tag lemma="pan" src="auto" selected="1">NNMS3-----A---1</tag>
 </m>
 <m id="m-lnd91303-096-p2s4w5">
 <src.rf>manual</src.rf>

@@ -2800,7 +2800,7 @@
 <LM>w#w-ln94204-137-p5s4w15</LM>
 </w.rf>
 <form>stálo</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VpNS----R-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln94204-137-p5s4w16">
 <src.rf>manual</src.rf>

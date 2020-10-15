@@ -1014,7 +1014,7 @@
 <LM>w#w-ln95045-101-p4s1w13</LM>
 </w.rf>
 <form>den</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln95045-101-p4s1w14">
 <src.rf>manual</src.rf>

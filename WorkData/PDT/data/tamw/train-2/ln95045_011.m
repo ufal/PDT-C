@@ -1545,7 +1545,7 @@
 <LM>w#w-ln95045-011-p4s1w5</LM>
 </w.rf>
 <form>stál</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95045-011-p4s1w6">
 <src.rf>manual</src.rf>
@@ -2052,7 +2052,7 @@
 <LM>w#w-ln95045-011-p5s1w3</LM>
 </w.rf>
 <form>nejbohatší</form>
-<tag lemma="bohatý" src="orig" selected="1">AAIS4----3A----</tag>
+<tag lemma="bohatý" src="orig" selected="1">AAIS4----3A---1</tag>
 </m>
 <m id="m-ln95045-011-p5s1w4">
 <src.rf>manual</src.rf>

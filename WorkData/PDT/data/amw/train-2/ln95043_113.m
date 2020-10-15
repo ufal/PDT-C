@@ -2530,7 +2530,7 @@
 <form>ARD</form>
 <tag>
 <AM lemma="ARD_:B_;m_,t" src="orig">NNNXX-----A---8</AM>
-<AM lemma="ARD_;m" src="auto" recommended="1" selected="1">NNXXX-----A---b</AM>
+<AM lemma="ARD_;m_^(televizní_stanice)" src="auto" recommended="1" selected="1">BNXXX-----A----</AM>
 <AM lemma="Arda_;G" src="auto">NNFP2-----A----</AM>
 </tag>
 </m>

@@ -637,7 +637,7 @@
 <LM>w#w-mf920901-033-p2s6w8</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="s-2`sekunda" src="orig" selected="1">BNFXX-----A---1</tag>
+<tag lemma="sekunda" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-mf920901-033-p2s6w9">
 <src.rf>manual</src.rf>
@@ -758,7 +758,7 @@
 <LM>w#w-mf920901-033-p2s6w22</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="s-2`sekunda" src="orig" selected="1">BNFXX-----A---1</tag>
+<tag lemma="sekunda" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-mf920901-033-p2s6w23">
 <src.rf>manual</src.rf>
@@ -792,7 +792,7 @@
 <LM>w#w-mf920901-033-p2s7w3</LM>
 </w.rf>
 <form>SR</form>
-<tag lemma="SR-1_;G_^(Slovenská_republika)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="SR_;G_^(Slovenská_republika)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf920901-033-p2s7w4">
 <src.rf>manual</src.rf>

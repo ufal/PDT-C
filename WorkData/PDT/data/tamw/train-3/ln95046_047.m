@@ -1899,7 +1899,7 @@
 <LM>w#w-ln95046-047-p3s8w4</LM>
 </w.rf>
 <form>vlastně</form>
-<tag lemma="vlastně-2_^(totiž)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="vlastně-2" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln95046-047-p3s8w5">
 <src.rf>manual</src.rf>

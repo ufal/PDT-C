@@ -620,7 +620,7 @@
 <LM>w#w-lnd92253-017-p2s5w6</LM>
 </w.rf>
 <form>bydlí</form>
-<tag lemma="bydlet" src="orig" selected="1">VB-P---3P-AAI--</tag>
+<tag lemma="bydlet" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-lnd92253-017-p2s5w7">
 <src.rf>manual</src.rf>

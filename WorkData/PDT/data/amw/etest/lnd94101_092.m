@@ -2703,7 +2703,7 @@
 <LM>w#w-lnd94101-092-p1s17w10</LM>
 </w.rf>
 <form>spíš</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="spíš" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-lnd94101-092-p1s17w11">
 <src.rf>manual</src.rf>

@@ -3647,7 +3647,7 @@
 <LM>w#w-lnd91303-009-p8s5w4</LM>
 </w.rf>
 <form>rublu</form>
-<tag lemma="rubl" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="rubl" src="orig" selected="1">NNIS2-----A---1</tag>
 </m>
 <m id="m-lnd91303-009-p8s5w5">
 <src.rf>manual</src.rf>

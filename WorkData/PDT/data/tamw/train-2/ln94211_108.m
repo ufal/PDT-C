@@ -1818,7 +1818,7 @@
 <LM>w#w-ln94211-108-p4s2w33</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9FXXFS3-------</tag>
 </m>
 <m id="m-ln94211-108-p4s2w34">
 <src.rf>manual</src.rf>
@@ -2574,7 +2574,7 @@
 <LM>w#w-ln94211-108-p5s1w46</LM>
 </w.rf>
 <form>show</form>
-<tag lemma="show" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="show-1" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln94211-108-p5s1w47">
 <src.rf>manual</src.rf>
@@ -3065,7 +3065,7 @@
 <LM>w#w-ln94211-108-p6s2w28</LM>
 </w.rf>
 <form>Akropolis</form>
-<tag lemma="Akropolis_;G" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Akropolis-1_;G" src="auto" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94211-108-p6s2w29">
 <src.rf>manual</src.rf>

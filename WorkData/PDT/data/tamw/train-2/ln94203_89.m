@@ -420,7 +420,7 @@
 <form>Sony</form>
 <tag>
 <AM lemma="Sony_:B_;m" src="orig">NNFXX-----A----</AM>
-<AM lemma="Sony_;m" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Sony_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-89-p2s2w26">
@@ -437,7 +437,7 @@
 <LM>w#w-ln94203-89-p2s2w27</LM>
 </w.rf>
 <form>Columbia</form>
-<tag lemma="Columbia_;G" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Columbie_;G_;m_,s_^(^DD**Kolumbie)" src="auto" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-ln94203-89-p2s2w28">
 <src.rf>manual</src.rf>
@@ -2057,7 +2057,7 @@
 <form>Sony</form>
 <tag>
 <AM lemma="Sony_:B_;m" src="orig">NNFXX-----A----</AM>
-<AM lemma="Sony_;m" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Sony_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-89-p3s7w16">
@@ -2074,7 +2074,7 @@
 <LM>w#w-ln94203-89-p3s7w17</LM>
 </w.rf>
 <form>Columbia</form>
-<tag lemma="Columbia_;G" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Columbie_;G_;m_,s_^(^DD**Kolumbie)" src="auto" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-ln94203-89-p3s7w18">
 <src.rf>manual</src.rf>

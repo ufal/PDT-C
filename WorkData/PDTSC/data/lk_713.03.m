@@ -2746,7 +2746,7 @@
 </w.rf>
 <form>bydlí</form>
 <tag>
-<AM lemma="bydlet" src="auto" recommended="1">VB-P---3P-AAI--</AM>
+<AM lemma="bydlet" src="auto" recommended="1">VB-P---3P-AAI-1</AM>
 <AM lemma="bydlet" src="auto">VB-S---3P-AAI--</AM>
 </tag>
 </m>
@@ -4030,7 +4030,7 @@
 </w.rf>
 <form>Rusové</form>
 <tag>
-<AM lemma="Rus_;E" src="auto" recommended="1">NNMP1-----A----</AM>
+<AM lemma="Rus-1_;E" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="Rus_;E" src="auto">NNMP5-----A----</AM>
 <AM lemma="Rusová_;G_^(obec)" src="auto">NNFP1-----A----</AM>
 <AM lemma="Rusová_;G_^(obec)" src="auto">NNFP4-----A----</AM>
@@ -4585,7 +4585,7 @@
 <AM lemma="dál-2" src="auto">NNFP5-----A----</AM>
 <AM lemma="dál-2" src="auto">NNFS2-----A----</AM>
 <AM lemma="daleko-1" src="auto">Dg-------2A---1</AM>
-<AM lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="auto" recommended="1">Db------------1</AM>
+<AM lemma="dále-3_^(také,_za_další)" src="auto" recommended="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m713-d-id99375">

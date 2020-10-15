@@ -899,7 +899,7 @@
 <LM>w#w-vesm9212-045-p1s7w2</LM>
 </w.rf>
 <form>lidé</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP1-----A---1</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-vesm9212-045-p1s7w3">
 <src.rf>manual</src.rf>

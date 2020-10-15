@@ -261,7 +261,7 @@
 <LM>w#w-ln95041-121-p3s2w2</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_;m_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="LN-1_;m_^(Lidové_noviny)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln95041-121-p3s2w3">
 <src.rf>manual</src.rf>
@@ -861,7 +861,7 @@
 <LM>w#w-ln95041-121-p4s4w13</LM>
 </w.rf>
 <form>BIS</form>
-<tag lemma="BIS_^(Bezp._informační_služba)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="BIS-88" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln95041-121-p4s4w14">
 <src.rf>manual</src.rf>

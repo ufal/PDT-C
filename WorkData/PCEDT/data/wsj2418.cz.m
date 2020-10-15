@@ -5466,7 +5466,7 @@
 <tag>
 <AM lemma="hůra" src="auto">NNFS3-----A----</AM>
 <AM lemma="hůra" src="auto">NNFS6-----A----</AM>
-<AM lemma="špatně" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="hůře" src="auto" recommended="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-wsj2418-001-p1s20W3-Ta">
@@ -13071,7 +13071,7 @@
 <AM lemma="son_^(jednotka_hlasitosti)" src="auto">NNIP5-----A----</AM>
 <AM lemma="son_^(jednotka_hlasitosti)" src="auto">NNIP7-----A----</AM>
 <AM lemma="sono_,l_^(sonografie)" src="auto">NNNP7-----A----</AM>
-<AM lemma="Sony-2_;m" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Sony_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2418-001-p1s49W39-Ta">

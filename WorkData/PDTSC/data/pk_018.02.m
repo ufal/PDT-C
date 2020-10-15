@@ -479,7 +479,7 @@
 <AM lemma="ČEZ_^(České_energetické_závody)" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Čez_;m" src="auto">NNIS1-----A----</AM>
 <AM lemma="Čez_;m" src="auto">NNIS4-----A----</AM>
-<AM lemma="ČEZ_^(České_energetické_závody)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="ČEZ-2_;m_^(České_energetické_závody)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m018-d-m-d1e482-x2-punct-punct">
@@ -734,7 +734,7 @@
 </w.rf>
 <form>Lidé</form>
 <tag>
-<AM lemma="člověk" src="auto" recommended="1">NNMP1-----A---1</AM>
+<AM lemma="lidé" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="člověk" src="auto">NNMP5-----A---1</AM>
 </tag>
 </m>
@@ -960,7 +960,7 @@
 </w.rf>
 <form>lidé</form>
 <tag>
-<AM lemma="člověk" src="auto" recommended="1">NNMP1-----A---1</AM>
+<AM lemma="lidé" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="člověk" src="auto">NNMP5-----A---1</AM>
 </tag>
 </m>
@@ -1634,7 +1634,7 @@
 </w.rf>
 <form>lidi</form>
 <tag>
-<AM lemma="člověk" src="auto" selected="1">NNMP1-----A----</AM>
+<AM lemma="lidé" src="auto" selected="1">NNMP1-----A---1</AM>
 <AM lemma="člověk" src="auto" recommended="1">NNMP4-----A----</AM>
 <AM lemma="člověk" src="auto">NNMP5-----A----</AM>
 </tag>

@@ -443,7 +443,7 @@
 <LM>w#w-ln94205-106-p2s2w6</LM>
 </w.rf>
 <form>show</form>
-<tag lemma="show" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="show-1" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln94205-106-p2s2w7">
 <src.rf>manual</src.rf>
@@ -755,7 +755,7 @@
 <form>TV</form>
 <tag>
 <AM lemma="televize_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="TV_^(televize)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="televize" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94205-106-p3s1w20">
@@ -772,7 +772,7 @@
 <LM>w#w-ln94205-106-p3s1w21</LM>
 </w.rf>
 <form>nedávno</form>
-<tag lemma="nedávno-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="dávno-1" src="auto" selected="1">Dg-------1N----</tag>
 </m>
 <m id="m-ln94205-106-p3s1w22">
 <src.rf>manual</src.rf>

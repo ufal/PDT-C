@@ -1156,7 +1156,7 @@
 <AM lemma="dál-2" src="auto">NNFP5-----A----</AM>
 <AM lemma="dál-2" src="auto">NNFS2-----A----</AM>
 <AM lemma="daleko-1" src="auto">Dg-------2A---1</AM>
-<AM lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="auto" recommended="1">Db------------1</AM>
+<AM lemma="dále-3_^(také,_za_další)" src="auto" recommended="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m984-d1t1707-5">
@@ -1196,7 +1196,7 @@
 <AM lemma="dál-2" src="auto">NNFP5-----A----</AM>
 <AM lemma="dál-2" src="auto">NNFS2-----A----</AM>
 <AM lemma="daleko-1" src="auto">Dg-------2A---1</AM>
-<AM lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="auto" recommended="1">Db------------1</AM>
+<AM lemma="dále-3_^(také,_za_další)" src="auto" recommended="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m984-d1e1531-x16-10059">
@@ -2084,7 +2084,7 @@
 <AM lemma="dál-2" src="auto">NNFP5-----A----</AM>
 <AM lemma="dál-2" src="auto">NNFS2-----A----</AM>
 <AM lemma="daleko-1" src="auto">Dg-------2A---1</AM>
-<AM lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="auto" recommended="1">Db------------1</AM>
+<AM lemma="dále-3_^(také,_za_další)" src="auto" recommended="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m984-d-id118285">
@@ -3630,7 +3630,7 @@
 <tag>
 <AM lemma="Baden_;G" src="auto">NNIS2-----A----</AM>
 <AM lemma="Baden_;G" src="auto">NNIS3-----A----</AM>
-<AM lemma="Baden_;G" src="auto" selected="1">NNIS6-----A----</AM>
+<AM lemma="Baden-1_;G" src="auto" selected="1">NNIS6-----A----</AM>
 <AM lemma="Baden_;Y" src="auto">NNMS3-----A---1</AM>
 <AM lemma="Baden_;Y" src="auto">NNMS6-----A---1</AM>
 <AM lemma="baden_;U_^(geologické_období)" src="auto">NNIS2-----A----</AM>

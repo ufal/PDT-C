@@ -125,7 +125,7 @@
 <LM>w#w-lnd94101-080-p1s1Bw8</LM>
 </w.rf>
 <form>MS</form>
-<tag lemma="MS-3_^(mistrovství_světa)" src="auto" selected="1">NNNXX-----A---b</tag>
+<tag lemma="MS-1_^(mistrovství_světa)" src="auto" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd94101-080-p1s1Bw9">
 <src.rf>manual</src.rf>
@@ -484,7 +484,7 @@
 <form>LN</form>
 <tag>
 <AM lemma="LN-1_:B_;m_^(Lidové_noviny,_deník)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="LN-1_;m_^(Lidové_noviny)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="LN-1_;m_^(Lidové_noviny)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-080-p1s2Aw4">
@@ -3650,7 +3650,7 @@
 <LM>w#w-lnd94101-080-p1s23w5</LM>
 </w.rf>
 <form>ME</form>
-<tag lemma="ME-1_^(mistrovství_Evropy)" src="orig" selected="1">NNNXX-----A---b</tag>
+<tag lemma="ME_^(mistrovství_Evropy)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd94101-080-p1s23w6">
 <src.rf>manual</src.rf>
@@ -4304,7 +4304,7 @@
 <LM>w#w-lnd94101-080-p1s27w5</LM>
 </w.rf>
 <form>MS</form>
-<tag lemma="MS-3_^(mistrovství_světa)" src="auto" selected="1">NNNXX-----A---b</tag>
+<tag lemma="MS-1_^(mistrovství_světa)" src="auto" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd94101-080-p1s27w6">
 <src.rf>manual</src.rf>
@@ -4907,7 +4907,7 @@
 <LM>w#w-lnd94101-080-p1s31w13</LM>
 </w.rf>
 <form>MS</form>
-<tag lemma="MS-3_^(mistrovství_světa)" src="auto" selected="1">NNNXX-----A---b</tag>
+<tag lemma="MS-1_^(mistrovství_světa)" src="auto" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd94101-080-p1s31w14">
 <src.rf>manual</src.rf>

@@ -1028,7 +1028,7 @@
 <LM>w#w-ln95043-109-p4s2w12</LM>
 </w.rf>
 <form>Airbus</form>
-<tag lemma="Airbus_;m" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Airbus-1_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95043-109-p4s2w13">
 <src.rf>manual</src.rf>

@@ -140,7 +140,7 @@
 <LM>w#w-vesm9212-002-p4s1w4</LM>
 </w.rf>
 <form>lidé</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP1-----A---1</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-vesm9212-002-p4s1w5">
 <src.rf>manual</src.rf>
@@ -8143,7 +8143,7 @@
 <LM>w#w-vesm9212-002-p14s4w22</LM>
 </w.rf>
 <form>vlastně</form>
-<tag lemma="vlastně-2_^(totiž)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="vlastně-2" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-vesm9212-002-p14s4w23">
 <src.rf>manual</src.rf>
@@ -10579,7 +10579,7 @@
 <LM>w#w-vesm9212-002-p16s3w11</LM>
 </w.rf>
 <form>vlastně</form>
-<tag lemma="vlastně-2_^(totiž)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="vlastně-2" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-vesm9212-002-p16s3w12">
 <src.rf>manual</src.rf>
@@ -12604,7 +12604,7 @@
 <LM>w#w-vesm9212-002-p18s8w1</LM>
 </w.rf>
 <form>Dále</form>
-<tag lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="orig" selected="1">Db------------1</tag>
+<tag lemma="dále-3_^(také,_za_další)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-vesm9212-002-p18s8w2">
 <src.rf>manual</src.rf>
@@ -13903,7 +13903,7 @@
 <LM>w#w-vesm9212-002-p19s6w15</LM>
 </w.rf>
 <form>vlastně</form>
-<tag lemma="vlastně-2_^(totiž)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="vlastně-2" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-vesm9212-002-p19s6w16">
 <src.rf>manual</src.rf>

@@ -894,7 +894,7 @@
 <LM>w#w-mf930703-135-p2s4w7</LM>
 </w.rf>
 <form>pasy</form>
-<tag lemma="pas-1_^(př._cestovní)" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="pas-1_^(přihrávka,_př._v_kopané,na_lidském_těle;;cestovní)" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-mf930703-135-p2s4w8">
 <src.rf>manual</src.rf>

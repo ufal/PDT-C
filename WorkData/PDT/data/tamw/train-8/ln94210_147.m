@@ -3014,7 +3014,7 @@
 <LM>w#w-ln94210-147-p7s2w10</LM>
 </w.rf>
 <form>lidé</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP1-----A---1</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln94210-147-p7s2w11">
 <src.rf>manual</src.rf>

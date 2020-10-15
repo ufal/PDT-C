@@ -6883,7 +6883,7 @@
 <LM>w#w-wsj1657-001-p1s21W11</LM>
 </w.rf>
 <form>Alfredem</form>
-<tag lemma="Alfréd_;Y" src="auto" recommended="1">NNMS7-----A----</tag>
+<tag lemma="Alfred_;Y_,s_^(^DD**Alfréd)" src="auto" recommended="1">NNMS7-----A----</tag>
 </m>
 <m id="m-wsj1657-001-p1s21W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -13257,7 +13257,7 @@
 </w.rf>
 <form>její</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSFXXFS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9FXXFS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSIS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSNS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP1FS3-------</AM>

@@ -949,7 +949,7 @@
 <LM>w#w-lnd92258-123-p2s5w7</LM>
 </w.rf>
 <form>Spartě</form>
-<tag lemma="Sparta_;m" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Sparta_;G_;m" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd92258-123-p2s5w8">
 <src.rf>manual</src.rf>

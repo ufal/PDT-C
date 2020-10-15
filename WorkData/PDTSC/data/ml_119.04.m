@@ -2583,7 +2583,7 @@
 <AM lemma="Ambra_;m" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Ambra_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="ambra" src="auto">NNFS1-----A----</AM>
-<AM lemma="Ambra-2_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Ambra-1_;G_;Y_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m119-d-id97513-punct">

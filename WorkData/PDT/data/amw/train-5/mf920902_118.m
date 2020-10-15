@@ -244,7 +244,7 @@
 <LM>w#w-mf920902-118-p2s3w4</LM>
 </w.rf>
 <form>stát</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf920902-118-p2s3w5">
 <src.rf>manual</src.rf>

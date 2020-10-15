@@ -706,7 +706,7 @@
 <LM>w#w-lnd94101-089-p1s3Bw7</LM>
 </w.rf>
 <form>stát</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-lnd94101-089-p1s3Bw8">
 <src.rf>manual</src.rf>

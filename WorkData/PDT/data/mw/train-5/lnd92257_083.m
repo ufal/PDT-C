@@ -361,7 +361,7 @@
 <LM>w#w-lnd92257-083-p3s2w37</LM>
 </w.rf>
 <form>pasy</form>
-<tag lemma="pas-1_^(př._cestovní)" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="pas-1_^(přihrávka,_př._v_kopané,na_lidském_těle;;cestovní)" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-lnd92257-083-p3s2w38">
 <src.rf>manual</src.rf>
@@ -533,7 +533,7 @@
 <LM>w#w-lnd92257-083-p3s4w2</LM>
 </w.rf>
 <form>dále</form>
-<tag lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="orig" selected="1">Db------------1</tag>
+<tag lemma="dále-3_^(také,_za_další)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-lnd92257-083-p3s4w3">
 <src.rf>manual</src.rf>
@@ -672,7 +672,7 @@
 <LM>w#w-lnd92257-083-p3s4w19</LM>
 </w.rf>
 <form>pasy</form>
-<tag lemma="pas-1_^(př._cestovní)" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="pas-1_^(přihrávka,_př._v_kopané,na_lidském_těle;;cestovní)" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-lnd92257-083-p3s4w20">
 <src.rf>manual</src.rf>

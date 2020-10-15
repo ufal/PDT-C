@@ -954,7 +954,7 @@
 <LM>w#w-ln94204-40-p2s6w2</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_;m_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="LN-1_;m_^(Lidové_noviny)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94204-40-p2s6w3">
 <src.rf>manual</src.rf>

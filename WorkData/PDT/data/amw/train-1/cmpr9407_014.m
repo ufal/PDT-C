@@ -3441,7 +3441,7 @@
 <LM>w#w-cmpr9407-014-p16s1w9</LM>
 </w.rf>
 <form>hodiny</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP4-----A----</tag>
 </m>
 <m id="m-cmpr9407-014-p16s1w10">
 <src.rf>manual</src.rf>

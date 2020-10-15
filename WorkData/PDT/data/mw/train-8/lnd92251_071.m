@@ -1986,7 +1986,7 @@
 <tag>
 <AM lemma="bří_:B" src="orig">NNMXX-----A----</AM>
 <AM lemma="bratr" src="auto">NNMP1-----A---1</AM>
-<AM lemma="bratr" src="auto" recommended="1" selected="1">NNMP2-----A---1</AM>
+<AM lemma="bratr" src="auto" recommended="1" selected="1">NNMP2-----A---b</AM>
 <AM lemma="bratr" src="auto">NNMP4-----A---1</AM>
 </tag>
 </m>

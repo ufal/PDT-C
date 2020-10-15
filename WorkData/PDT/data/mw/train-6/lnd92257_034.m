@@ -43,7 +43,7 @@
 <LM>w#w-lnd92257-034-p1s1w4</LM>
 </w.rf>
 <form>Columbia</form>
-<tag lemma="Columbia_;G" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Columbie_;G_;m_,s_^(^DD**Kolumbie)" src="auto" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-lnd92257-034-p1s1w5">
 <src.rf>manual</src.rf>

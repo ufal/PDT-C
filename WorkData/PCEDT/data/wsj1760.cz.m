@@ -2467,7 +2467,7 @@
 <tag>
 <AM lemma="mililitr" src="auto">NNIXX-----A---8</AM>
 <AM lemma="mladý_:B" src="auto" recommended="1">AAXXX----2A---8</AM>
-<AM lemma="mladý" src="manual" selected="1">AAXXX----2A---8</AM>
+<AM lemma="mladý" src="manual" selected="1">AAXXX----2A---b</AM>
 </tag>
 </m>
 <m id="m-wsj1760-001-p1s10W22-Ta">
@@ -3090,7 +3090,7 @@
 <AM lemma="bílý_;o" src="auto">AANP3----1A----</AM>
 <AM lemma="bílý_;o" src="auto">AANS6----1A---7</AM>
 <AM lemma="bílý_;o" src="auto">AANS7----1A----</AM>
-<AM lemma="bílý-2" src="manual" selected="1">NNMP3-----A----</AM>
+<AM lemma="bílý_;o" src="manual" selected="1">AAMP3----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj1760-001-p1s12W29-Ta">
@@ -7269,7 +7269,7 @@
 <AM lemma="bílit" src="auto">VB-S---3P-AAI--</AM>
 <AM lemma="bílý_;o" src="auto" recommended="1">AAMP1----1A----</AM>
 <AM lemma="bílý_;o" src="auto">AAMP5----1A----</AM>
-<AM lemma="bílý-2" src="manual" selected="1">NNMP1-----A----</AM>
+<AM lemma="bílý_;o" src="manual" selected="1">AAMP1----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj1760-001-p1s29W3-Ta">
@@ -9307,7 +9307,7 @@
 <AM lemma="bílit" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 <AM lemma="bílý_;o" src="auto">AAMP1----1A----</AM>
 <AM lemma="bílý_;o" src="auto">AAMP5----1A----</AM>
-<AM lemma="bílý-2" src="manual" selected="1">NNMP1-----A----</AM>
+<AM lemma="bílý_;o" src="manual" selected="1">AAMP1----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj1760-001-p1s35W13-Ta">
@@ -9481,7 +9481,7 @@
 </w.rf>
 <form>Lidé</form>
 <tag>
-<AM lemma="člověk" src="auto" recommended="1">NNMP1-----A---1</AM>
+<AM lemma="lidé" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="člověk" src="auto">NNMP5-----A---1</AM>
 </tag>
 </m>
@@ -10653,7 +10653,7 @@
 </w.rf>
 <form>lidé</form>
 <tag>
-<AM lemma="člověk" src="auto" recommended="1">NNMP1-----A---1</AM>
+<AM lemma="lidé" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="člověk" src="auto">NNMP5-----A---1</AM>
 </tag>
 </m>
@@ -11054,7 +11054,7 @@
 <AM lemma="bílit" src="auto">VB-S---3P-AAI--</AM>
 <AM lemma="bílý_;o" src="auto" recommended="1">AAMP1----1A----</AM>
 <AM lemma="bílý_;o" src="auto">AAMP5----1A----</AM>
-<AM lemma="bílý-2" src="manual" selected="1">NNMP1-----A----</AM>
+<AM lemma="bílý_;o" src="manual" selected="1">AAMP1----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj1760-001-p1s43W23-Ta">
@@ -13490,7 +13490,7 @@
 <AM lemma="bílý_;o" src="auto">AAMP6----1A----</AM>
 <AM lemma="bílý_;o" src="auto">AANP2----1A----</AM>
 <AM lemma="bílý_;o" src="auto">AANP6----1A----</AM>
-<AM lemma="bílý-2" src="manual" selected="1">NNMP2-----A----</AM>
+<AM lemma="bílý_;o" src="manual" selected="1">AAMP2----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj1760-001-p1s53W8-Ta">
@@ -15345,7 +15345,7 @@
 <tag>
 <AM lemma="mililitr" src="auto">NNIXX-----A---8</AM>
 <AM lemma="mladý_:B" src="auto" recommended="1">AAXXX----2A---8</AM>
-<AM lemma="mladý" src="manual" selected="1">AAXXX----2A---8</AM>
+<AM lemma="mladý" src="manual" selected="1">AAXXX----2A---b</AM>
 </tag>
 </m>
 <m id="m-wsj1760-001-p1s63W18-Ta">

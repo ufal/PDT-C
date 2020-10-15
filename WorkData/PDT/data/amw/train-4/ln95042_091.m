@@ -2171,7 +2171,7 @@
 <LM>w#w-ln95042-091-p7s3w12</LM>
 </w.rf>
 <form>den</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln95042-091-p7s3w13">
 <src.rf>manual</src.rf>
@@ -2977,7 +2977,7 @@
 <LM>w#w-ln95042-091-p9s2w4</LM>
 </w.rf>
 <form>stál</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95042-091-p9s2w5">
 <src.rf>manual</src.rf>
@@ -3527,7 +3527,7 @@
 <LM>w#w-ln95042-091-p11s1w4</LM>
 </w.rf>
 <form>ČEZ</form>
-<tag lemma="ČEZ-1_;m_^(České_energetické_závody)" src="orig" selected="1">NNIXX-----A---b</tag>
+<tag lemma="ČEZ-2_;m_^(České_energetické_závody)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln95042-091-p11s1w5">
 <src.rf>manual</src.rf>
@@ -3741,7 +3741,7 @@
 <LM>w#w-ln95042-091-p11s3w5</LM>
 </w.rf>
 <form>ČEZ</form>
-<tag lemma="ČEZ-1_;m_^(České_energetické_závody)" src="orig" selected="1">NNIXX-----A---b</tag>
+<tag lemma="ČEZ-2_;m_^(České_energetické_závody)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln95042-091-p11s3w6">
 <src.rf>manual</src.rf>

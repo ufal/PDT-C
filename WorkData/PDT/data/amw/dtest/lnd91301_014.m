@@ -59,7 +59,7 @@
 <LM>w#w-lnd91301-014-p1s1Aw6</LM>
 </w.rf>
 <form>o</form>
-<tag lemma="o-4_^(graf._oddělovač)" src="orig" selected="1">Z:-------------</tag>
+<tag lemma="o-33" src="orig" selected="1">Q3-------------</tag>
 </m>
 </s>
 <s id="m-lnd91301-014-p1s1B">

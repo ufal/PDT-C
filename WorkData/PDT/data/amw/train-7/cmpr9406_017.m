@@ -204,7 +204,7 @@
 <LM>w#w-cmpr9406-017-p4s1w7</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="s-2`sekunda" src="orig" selected="1">BNFXX-----A---1</tag>
+<tag lemma="sekunda" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-cmpr9406-017-p4s1w8">
 <src.rf>manual</src.rf>

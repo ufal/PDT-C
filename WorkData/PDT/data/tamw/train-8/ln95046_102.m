@@ -1410,7 +1410,7 @@
 <LM>w#w-ln95046-102-p4s2w15</LM>
 </w.rf>
 <form>Bela</form>
-<tag lemma="Bela_;Y" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Bela-1_;Y" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95046-102-p4s2w16">
 <src.rf>manual</src.rf>
@@ -1880,7 +1880,7 @@
 <LM>w#w-ln95046-102-p5s1w1</LM>
 </w.rf>
 <form>Loni</form>
-<tag lemma="vloni_,h" src="orig" selected="1">Db------------1</tag>
+<tag lemma="loni" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-ln95046-102-p5s1w2">
 <src.rf>manual</src.rf>
@@ -2066,7 +2066,7 @@
 <LM>w#w-ln95046-102-p5s2w8</LM>
 </w.rf>
 <form>stál</form>
-<tag lemma="stát-4_^(něco_stojí_peníze)" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95046-102-p5s2w9">
 <src.rf>manual</src.rf>
@@ -2198,7 +2198,7 @@
 <LM>w#w-ln95046-102-p5s3w12</LM>
 </w.rf>
 <form>Bela</form>
-<tag lemma="Bela_;Y" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Bela-1_;Y" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95046-102-p5s3w13">
 <src.rf>manual</src.rf>

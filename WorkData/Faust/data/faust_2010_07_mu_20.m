@@ -2226,7 +2226,7 @@
 </w.rf>
 <form>den</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" recommended="1">NNIS4-----A----</AM>
+<AM lemma="den-1_^(jednotka_času)" recommended="1">NNIS4-----A----</AM>
 <AM lemma="den-2_,t_^(měnová_jednotka)">NNIS1-----A----</AM>
 <AM lemma="den-2_,t_^(měnová_jednotka)">NNIS4-----A----</AM>
 <AM lemma="den_^(jednotka_času)">NNIS1-----A----</AM>
@@ -2271,7 +2271,7 @@
 </w.rf>
 <form>den</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" recommended="1">NNIS4-----A----</AM>
+<AM lemma="den-1_^(jednotka_času)" recommended="1">NNIS4-----A----</AM>
 <AM lemma="den-2_,t_^(měnová_jednotka)">NNIS1-----A----</AM>
 <AM lemma="den-2_,t_^(měnová_jednotka)">NNIS4-----A----</AM>
 <AM lemma="den_^(jednotka_času)">NNIS1-----A----</AM>
@@ -2324,7 +2324,7 @@
 </w.rf>
 <form>den</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" recommended="1">NNIS4-----A----</AM>
+<AM lemma="den-1_^(jednotka_času)" recommended="1">NNIS4-----A----</AM>
 <AM lemma="den-2_,t_^(měnová_jednotka)">NNIS1-----A----</AM>
 <AM lemma="den-2_,t_^(měnová_jednotka)">NNIS4-----A----</AM>
 <AM lemma="den_^(jednotka_času)">NNIS1-----A----</AM>
@@ -4437,7 +4437,7 @@
 </w.rf>
 <form>dále</form>
 <tag>
-<AM lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" recommended="1">Db------------1</AM>
+<AM lemma="dále-3_^(také,_za_další)" recommended="1">Db-------------</AM>
 <AM lemma="dál">NNFS1-----A---1</AM>
 <AM lemma="dál-2">NNFP1-----A----</AM>
 <AM lemma="dál-2">NNFP4-----A----</AM>
@@ -5293,7 +5293,7 @@
 </w.rf>
 <form>lidé</form>
 <tag>
-<AM lemma="člověk" recommended="1">NNMP1-----A---1</AM>
+<AM lemma="lidé" recommended="1">NNMP1-----A----</AM>
 <AM lemma="člověk">NNMP5-----A---1</AM>
 </tag>
 </m>

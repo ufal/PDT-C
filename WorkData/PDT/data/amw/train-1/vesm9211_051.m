@@ -2675,7 +2675,7 @@
 <LM>w#w-vesm9211-051-p4s4w17</LM>
 </w.rf>
 <form>lidé</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP1-----A---1</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-vesm9211-051-p4s4w18">
 <src.rf>manual</src.rf>

@@ -4058,7 +4058,7 @@
 <LM>w#w-mf930713-040-p101s1w13</LM>
 </w.rf>
 <form>show</form>
-<tag lemma="show" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="show-1" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-mf930713-040-p101s1w14">
 <src.rf>manual</src.rf>

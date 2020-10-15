@@ -668,7 +668,7 @@
 <LM>w#w-ln95044-056-p2s4w13</LM>
 </w.rf>
 <form>Lidé</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP1-----A---1</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln95044-056-p2s4w14">
 <src.rf>manual</src.rf>

@@ -571,7 +571,7 @@
 <AM lemma="dál-2">NNFP4-----A----</AM>
 <AM lemma="dál-2">NNFP5-----A----</AM>
 <AM lemma="dál-2">NNFS2-----A----</AM>
-<AM lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" selected="1">Db------------1</AM>
+<AM lemma="dále-3_^(také,_za_další)" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="jh_17-SCzechM-p1754-s1-w34">
@@ -7730,7 +7730,7 @@
 </w.rf>
 <form>den</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" recommended="1">NNIS4-----A----</AM>
+<AM lemma="den-1_^(jednotka_času)" recommended="1">NNIS4-----A----</AM>
 <AM lemma="den-2_,t_^(měnová_jednotka)">NNIS1-----A----</AM>
 <AM lemma="den-2_,t_^(měnová_jednotka)">NNIS4-----A----</AM>
 <AM lemma="den_^(jednotka_času)">NNIS1-----A----</AM>

@@ -3017,7 +3017,7 @@
 <LM>w#w-ln94206-91-p5s5w19</LM>
 </w.rf>
 <form>stála</form>
-<tag lemma="stát-4_^(něco_stojí_peníze)" src="orig" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln94206-91-p5s5w20">
 <src.rf>manual</src.rf>

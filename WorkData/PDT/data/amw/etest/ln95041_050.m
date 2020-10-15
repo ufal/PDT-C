@@ -2105,7 +2105,7 @@
 <form>CD</form>
 <tag>
 <AM lemma="CD-1_:B_,t_^(Audio/Data,_Compact_Disc)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="CD-1_^(Audio/Data,_Compact_Disc)" src="manual" selected="1">NNNXX-----A---b</AM>
+<AM lemma="CD-1_^(Audio/Data,_Compactisc)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-050-p4s5w2">
@@ -2226,7 +2226,7 @@
 <LM>w#w-ln95041-050-p4s7w5</LM>
 </w.rf>
 <form>Sony</form>
-<tag lemma="Sony_;m" src="orig" selected="1">BNFXX-----A----</tag>
+<tag lemma="Sony_;m" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln95041-050-p4s7w6">
 <src.rf>manual</src.rf>

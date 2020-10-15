@@ -2511,7 +2511,7 @@
 <AM lemma="babylon_^(zmatek,_směsice)">NNIS3-----A----</AM>
 <AM lemma="babylon_^(zmatek,_směsice)">NNIS6-----A---1</AM>
 <AM lemma="Babylon_;G_,s_^(^DD**Babylón)" src="manual">NNIS2-----A----</AM>
-<AM lemma="Babylon-2_;m" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Babylon_;G_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="mu_08-SCzechM-p0796-s1-w3">
@@ -2754,7 +2754,7 @@
 </w.rf>
 <form>den</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" recommended="1">NNIS4-----A----</AM>
+<AM lemma="den-1_^(jednotka_času)" recommended="1">NNIS4-----A----</AM>
 <AM lemma="den-2_,t_^(měnová_jednotka)">NNIS1-----A----</AM>
 <AM lemma="den-2_,t_^(měnová_jednotka)">NNIS4-----A----</AM>
 <AM lemma="den_^(jednotka_času)">NNIS1-----A----</AM>
@@ -4177,7 +4177,7 @@
 </w.rf>
 <form>den</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" recommended="1">NNIS4-----A----</AM>
+<AM lemma="den-1_^(jednotka_času)" recommended="1">NNIS4-----A----</AM>
 <AM lemma="den-2_,t_^(měnová_jednotka)">NNIS1-----A----</AM>
 <AM lemma="den-2_,t_^(měnová_jednotka)">NNIS4-----A----</AM>
 <AM lemma="den_^(jednotka_času)">NNIS1-----A----</AM>

@@ -1187,7 +1187,7 @@
 <LM>w#w-cmpr9406-063-p9s2w19</LM>
 </w.rf>
 <form>ČEZu</form>
-<tag lemma="ČEZ_^(České_energetické_závody)" src="auto" selected="1">NNIS2-----A----</tag>
+<tag lemma="ČEZ_;m_^(České_energetické_závody)" src="auto" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-cmpr9406-063-p9s2w20">
 <src.rf>manual</src.rf>

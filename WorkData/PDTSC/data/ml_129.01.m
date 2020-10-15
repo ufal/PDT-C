@@ -311,7 +311,7 @@
 </w.rf>
 <form>Rusové</form>
 <tag>
-<AM lemma="Rus_;E" src="auto" recommended="1">NNMP1-----A----</AM>
+<AM lemma="Rus-1_;E" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="Rus_;E" src="auto">NNMP5-----A----</AM>
 <AM lemma="Rusová_;G_^(obec)" src="auto">NNFP1-----A----</AM>
 <AM lemma="Rusová_;G_^(obec)" src="auto">NNFP4-----A----</AM>
@@ -4929,7 +4929,7 @@
 <tag>
 <AM lemma="pan_,x" src="auto">NNMS3-----A---1</AM>
 <AM lemma="pan_,x" src="auto">NNMS6-----A---1</AM>
-<AM lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS3-----A----</AM>
+<AM lemma="pan" src="auto" recommended="1">NNMS3-----A---1</AM>
 <AM lemma="pan_^(oslovení)" src="auto">NNMS6-----A----</AM>
 </tag>
 </m>

@@ -363,7 +363,7 @@
 <LM>w#w-ln94207-53-p2s2w12</LM>
 </w.rf>
 <form>Pavla</form>
-<tag lemma="Pavel-1_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Pavel_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94207-53-p2s2w13">
 <src.rf>manual</src.rf>

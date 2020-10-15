@@ -1051,7 +1051,7 @@
 <LM>w#w-lnd92256-081-p4s3w1</LM>
 </w.rf>
 <form>r</form>
-<tag lemma="režie" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="r-33" src="orig" selected="1">Q3-------------</tag>
 </m>
 <m id="m-lnd92256-081-p4s3w2">
 <src.rf>manual</src.rf>
@@ -2538,7 +2538,7 @@
 <LM>w#w-lnd92256-081-p5s11w1</LM>
 </w.rf>
 <form>r</form>
-<tag lemma="režie" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="r-33" src="orig" selected="1">Q3-------------</tag>
 </m>
 <m id="m-lnd92256-081-p5s11w2">
 <src.rf>manual</src.rf>
@@ -3461,7 +3461,7 @@
 <LM>w#w-lnd92256-081-p6s3w12</LM>
 </w.rf>
 <form>r</form>
-<tag lemma="režie" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="r-33" src="orig" selected="1">Q3-------------</tag>
 </m>
 <m id="m-lnd92256-081-p6s3w13">
 <src.rf>manual</src.rf>
@@ -3533,7 +3533,7 @@
 <LM>w#w-lnd92256-081-p6s4w8</LM>
 </w.rf>
 <form>stáli</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VpMP----R-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd92256-081-p6s4w9">
 <src.rf>manual</src.rf>
@@ -3847,7 +3847,7 @@
 <LM>w#w-lnd92256-081-p6s7w1</LM>
 </w.rf>
 <form>r</form>
-<tag lemma="režie" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="r-33" src="orig" selected="1">Q3-------------</tag>
 </m>
 <m id="m-lnd92256-081-p6s7w2">
 <src.rf>manual</src.rf>
@@ -4343,7 +4343,7 @@
 <LM>w#w-lnd92256-081-p6s12w1</LM>
 </w.rf>
 <form>r</form>
-<tag lemma="režie" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="r-33" src="orig" selected="1">Q3-------------</tag>
 </m>
 <m id="m-lnd92256-081-p6s12w2">
 <src.rf>manual</src.rf>
@@ -4703,7 +4703,7 @@
 <LM>w#w-lnd92256-081-p6s17w1</LM>
 </w.rf>
 <form>r</form>
-<tag lemma="režie" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="r-33" src="orig" selected="1">Q3-------------</tag>
 </m>
 <m id="m-lnd92256-081-p6s17w2">
 <src.rf>manual</src.rf>
@@ -4916,7 +4916,7 @@
 <AM lemma="fiction-2_:B_,t_^(angl._fantastický,_sci-fi)" src="orig">AAXXX----1A---8</AM>
 <AM lemma="fi-1" src="auto">II-------------</AM>
 <AM lemma="fi-2_:B_,t_^(fiction,_angl._fantastický,_sci-fi)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="fi-2_^(jen_ve_spojení_sci-fi)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="fi-2_^(sci-fi;wi-fi)" src="manual" selected="1">SNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-081-p6s19w5">
@@ -5025,7 +5025,7 @@
 <LM>w#w-lnd92256-081-p6s20w1</LM>
 </w.rf>
 <form>r</form>
-<tag lemma="režie" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="r-33" src="orig" selected="1">Q3-------------</tag>
 </m>
 <m id="m-lnd92256-081-p6s20w2">
 <src.rf>manual</src.rf>
@@ -5447,7 +5447,7 @@
 <LM>w#w-lnd92256-081-p6s24w1</LM>
 </w.rf>
 <form>r</form>
-<tag lemma="režie" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="r-33" src="orig" selected="1">Q3-------------</tag>
 </m>
 <m id="m-lnd92256-081-p6s24w2">
 <src.rf>manual</src.rf>
@@ -6026,7 +6026,7 @@
 <LM>w#w-lnd92256-081-p7s3w1</LM>
 </w.rf>
 <form>r</form>
-<tag lemma="režie" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="r-33" src="orig" selected="1">Q3-------------</tag>
 </m>
 <m id="m-lnd92256-081-p7s3w2">
 <src.rf>manual</src.rf>
@@ -6363,7 +6363,7 @@
 <LM>w#w-lnd92256-081-p7s6w1</LM>
 </w.rf>
 <form>r</form>
-<tag lemma="režie" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="r-33" src="orig" selected="1">Q3-------------</tag>
 </m>
 <m id="m-lnd92256-081-p7s6w2">
 <src.rf>manual</src.rf>

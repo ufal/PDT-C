@@ -1267,7 +1267,7 @@
 <LM>w#w-ln94201-58-p4s2w15</LM>
 </w.rf>
 <form>bohatší</form>
-<tag lemma="bohatý" src="orig" selected="1">AAFP4----2A----</tag>
+<tag lemma="bohatý" src="orig" selected="1">AAFP4----2A---1</tag>
 </m>
 <m id="m-ln94201-58-p4s2w16">
 <src.rf>manual</src.rf>
@@ -1481,7 +1481,7 @@
 <LM>w#w-ln94201-58-p4s4w6</LM>
 </w.rf>
 <form>den</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94201-58-p4s4w7">
 <src.rf>manual</src.rf>

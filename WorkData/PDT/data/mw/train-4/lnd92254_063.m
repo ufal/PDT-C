@@ -393,7 +393,7 @@
 <LM>w#w-lnd92254-063-p2s3w1</LM>
 </w.rf>
 <form>Člen</form>
-<tag lemma="člen" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-063-p2s3w2">
 <src.rf>manual</src.rf>

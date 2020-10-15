@@ -223,7 +223,7 @@
 <LM>w#w-ln94201-60-p2s2w1</LM>
 </w.rf>
 <form>Lidé</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP1-----A---1</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln94201-60-p2s2w2">
 <src.rf>manual</src.rf>
@@ -2904,7 +2904,7 @@
 <LM>w#w-ln94201-60-p5s6w8</LM>
 </w.rf>
 <form>Rusy</form>
-<tag lemma="Rus_;E" src="orig" selected="1">NNMP7-----A----</tag>
+<tag lemma="Rus-1_;E" src="orig" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-ln94201-60-p5s6w9">
 <src.rf>manual</src.rf>
@@ -3456,7 +3456,7 @@
 <LM>w#w-ln94201-60-p5s10w1</LM>
 </w.rf>
 <form>Lidi</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP1-----A---1</tag>
 </m>
 <m id="m-ln94201-60-p5s10w2">
 <src.rf>manual</src.rf>
@@ -6536,7 +6536,7 @@
 <LM>w#w-ln94201-60-p8s2w2</LM>
 </w.rf>
 <form>den</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln94201-60-p8s2w3">
 <src.rf>manual</src.rf>

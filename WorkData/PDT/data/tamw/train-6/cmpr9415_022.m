@@ -3093,7 +3093,7 @@
 <LM>w#w-cmpr9415-022-p12s2w21</LM>
 </w.rf>
 <form>pozdějších</form>
-<tag lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="orig" selected="1">AAIP2----2A----</tag>
+<tag lemma="pozdější" src="orig" selected="1">AAIP2----1A----</tag>
 </m>
 <m id="m-cmpr9415-022-p12s2w22">
 <src.rf>manual</src.rf>

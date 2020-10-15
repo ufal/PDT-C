@@ -51,7 +51,7 @@
 <LM>w#w-mf930709-081-p1s1Aw5</LM>
 </w.rf>
 <form>spíš</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="spíš" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf930709-081-p1s1Aw6">
 <src.rf>manual</src.rf>

@@ -1008,7 +1008,7 @@
 <LM>w#w-ln94205-5-p3s1w3</LM>
 </w.rf>
 <form>Windows</form>
-<tag lemma="Windows" src="orig" selected="1">NNIXX-----A----</tag>
+<tag lemma="Windows_;m" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln94205-5-p3s1w4">
 <src.rf>manual</src.rf>
@@ -1126,7 +1126,7 @@
 <LM>w#w-ln94205-5-p3s1w17</LM>
 </w.rf>
 <form>Windows</form>
-<tag lemma="Windows" src="orig" selected="1">NNIXX-----A----</tag>
+<tag lemma="Windows_;m" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln94205-5-p3s1w18">
 <src.rf>manual</src.rf>
@@ -2086,7 +2086,7 @@
 <LM>w#w-ln94205-5-p4s1w3</LM>
 </w.rf>
 <form>Windows</form>
-<tag lemma="Windows" src="orig" selected="1">NNIXX-----A----</tag>
+<tag lemma="Windows_;m" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln94205-5-p4s1w4">
 <src.rf>manual</src.rf>

@@ -1018,7 +1018,7 @@
 <form>Adobe</form>
 <tag>
 <AM lemma="Adobe_;m_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Adobe_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Adobe_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1516-001-p1s2W6-Ta">
@@ -1813,7 +1813,7 @@
 <form>Adobe</form>
 <tag>
 <AM lemma="Adobe_;m_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Adobe_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Adobe_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1516-001-p1s5W7-Ta">
@@ -2323,7 +2323,7 @@
 <form>Adobe</form>
 <tag>
 <AM lemma="Adobe_;m_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Adobe_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Adobe_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1516-001-p1s6W7-Ta">

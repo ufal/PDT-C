@@ -167,7 +167,7 @@
 <LM>w#w-ln94203-6-p3s1w3</LM>
 </w.rf>
 <form>LN</form>
-<tag lemma="LN-1_;m_^(Lidové_noviny,_deník)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="LN-1_;m_^(Lidové_noviny)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94203-6-p3s1w4">
 <src.rf>manual</src.rf>

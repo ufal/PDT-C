@@ -2743,7 +2743,7 @@
 <LM>w#w-vesm9303-034-p5s4w24</LM>
 </w.rf>
 <form>Kanadě</form>
-<tag lemma="Kanada_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Kanada_;G_;m" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-vesm9303-034-p5s4w25">
 <src.rf>manual</src.rf>

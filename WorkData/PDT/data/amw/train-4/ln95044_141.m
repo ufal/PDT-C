@@ -1697,7 +1697,7 @@
 <LM>w#w-ln95044-141-p3s7w25</LM>
 </w.rf>
 <form>Virginia</form>
-<tag lemma="Virginia_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Virginie_;G_;Y" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-ln95044-141-p3s7w26">
 <src.rf>manual</src.rf>
@@ -3780,7 +3780,7 @@
 <LM>w#w-ln95044-141-p6s5w40</LM>
 </w.rf>
 <form>lidé</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP1-----A---1</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln95044-141-p6s5w41">
 <src.rf>manual</src.rf>
@@ -4394,7 +4394,7 @@
 <LM>w#w-ln95044-141-p8s1w27</LM>
 </w.rf>
 <form>snazší</form>
-<tag lemma="snadný" src="orig" selected="1">AANS1----2A----</tag>
+<tag lemma="snadný" src="orig" selected="1">AANS1----2A---1</tag>
 </m>
 <m id="m-ln95044-141-p8s1w28">
 <src.rf>manual</src.rf>

@@ -928,7 +928,7 @@
 </w.rf>
 <form>Její</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSFXXFS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9FXXFS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSIS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSNS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP1FS3-------</AM>
@@ -1986,7 +1986,7 @@
 <tag>
 <AM lemma="Allianz_:B_;m_,t" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="Allianza_;m" src="auto">NNFP2-----A----</AM>
-<AM lemma="Allianz_;m" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Allianz_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1319-001-p1s6W3-Ta">
@@ -2523,7 +2523,7 @@
 <tag>
 <AM lemma="Allianz_:B_;m_,t" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="Allianza_;m" src="auto">NNFP2-----A----</AM>
-<AM lemma="Allianz_;m" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Allianz_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1319-001-p1s8W20-Ta">
@@ -2792,7 +2792,7 @@
 <AM lemma="Allianz_:B_;m_,t" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="Allianza_;m" src="auto">NNFP2-----A----</AM>
 <AM lemma="Allianz_;m" src="manual">NNFS1-----A----</AM>
-<AM lemma="Allianz_;m" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Allianz_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1319-001-p1s10W9-Ta">
@@ -6320,7 +6320,7 @@
 <tag>
 <AM lemma="Allianz_:B_;m_,t" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="Allianza_;m" src="auto">NNFP2-----A----</AM>
-<AM lemma="Allianz_;m" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Allianz_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1319-001-p1s22W22-Ta">
@@ -7205,7 +7205,7 @@
 <tag>
 <AM lemma="Allianz_:B_;m_,t" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="Allianza_;m" src="auto">NNFP2-----A----</AM>
-<AM lemma="Allianz_;m" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Allianz_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1319-001-p1s26W4-Ta">

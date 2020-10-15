@@ -2515,7 +2515,7 @@
 </w.rf>
 <form>bohatší</form>
 <tag>
-<AM lemma="bohatý" recommended="1">AANS4----2A----</AM>
+<AM lemma="bohatý" recommended="1">AANS4----2A---1</AM>
 <AM lemma="bohatý">AAFP1----2A----</AM>
 <AM lemma="bohatý">AAFP4----2A----</AM>
 <AM lemma="bohatý">AAFP5----2A----</AM>
@@ -3779,7 +3779,7 @@
 </w.rf>
 <form>její</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" recommended="1">PSFXXFS3-------</AM>
+<AM lemma="jeho" recommended="1">P9FXXFS3-------</AM>
 <AM lemma="jeho_^(přivlast.)">PSIS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)">PSNS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)">PSXP1FS3-------</AM>

@@ -1396,7 +1396,7 @@
 <LM>w#w-lnd92253-061-p5s2w1</LM>
 </w.rf>
 <form>Lidé</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP1-----A---1</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd92253-061-p5s2w2">
 <src.rf>manual</src.rf>
@@ -4196,7 +4196,7 @@
 <LM>w#w-lnd92253-061-p9s7w21</LM>
 </w.rf>
 <form>vlastně</form>
-<tag lemma="vlastně-2_^(totiž)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="vlastně-2" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-lnd92253-061-p9s7w22">
 <src.rf>manual</src.rf>
@@ -8046,7 +8046,7 @@
 <form>stál</form>
 <tag>
 <AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="manual" selected="1">VpYS----R-AAI--</AM>
+<AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">VpYS----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-lnd92253-061-p14s5w16">
@@ -9685,7 +9685,7 @@
 <LM>w#w-lnd92253-061-p17s2w15</LM>
 </w.rf>
 <form>vlastně</form>
-<tag lemma="vlastně-2_^(totiž)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="vlastně-2" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-lnd92253-061-p17s2w16">
 <src.rf>manual</src.rf>
@@ -10398,7 +10398,7 @@
 <LM>w#w-lnd92253-061-p17s5w6</LM>
 </w.rf>
 <form>vlastně</form>
-<tag lemma="vlastně-2_^(totiž)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="vlastně-2" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-lnd92253-061-p17s5w7">
 <src.rf>manual</src.rf>
@@ -13226,7 +13226,7 @@
 <LM>w#w-lnd92253-061-p21s1w3</LM>
 </w.rf>
 <form>vlastně</form>
-<tag lemma="vlastně-2_^(totiž)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="vlastně-2" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-lnd92253-061-p21s1w4">
 <src.rf>manual</src.rf>
@@ -14577,7 +14577,7 @@
 <LM>w#w-lnd92253-061-p22s4w19</LM>
 </w.rf>
 <form>Abelem</form>
-<tag lemma="Ábel_;Y" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Abel_;Y_,s_^(^DD**Ábel)" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd92253-061-p22s4w20">
 <src.rf>manual</src.rf>

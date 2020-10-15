@@ -711,7 +711,7 @@
 <AM lemma="Buk-1_;G" src="auto">NNIP4-----A----</AM>
 <AM lemma="Buk-1_;G" src="auto">NNIP5-----A----</AM>
 <AM lemma="Buk-1_;G" src="auto">NNIP7-----A----</AM>
-<AM lemma="buk-1_^(strom)" src="auto" recommended="1" selected="1">NNIP1-----A----</AM>
+<AM lemma="buk" src="auto" recommended="1" selected="1">NNIP1-----A----</AM>
 <AM lemma="buk-1_^(strom)" src="auto">NNIP4-----A----</AM>
 <AM lemma="buk-1_^(strom)" src="auto">NNIP5-----A----</AM>
 <AM lemma="buk-1_^(strom)" src="auto">NNIP7-----A----</AM>
@@ -990,7 +990,7 @@
 <AM lemma="Buk-1_;G" src="auto">NNIP4-----A----</AM>
 <AM lemma="Buk-1_;G" src="auto">NNIP5-----A----</AM>
 <AM lemma="Buk-1_;G" src="auto">NNIP7-----A----</AM>
-<AM lemma="buk-1_^(strom)" src="auto" recommended="1" selected="1">NNIP1-----A----</AM>
+<AM lemma="buk" src="auto" recommended="1" selected="1">NNIP1-----A----</AM>
 <AM lemma="buk-1_^(strom)" src="auto">NNIP4-----A----</AM>
 <AM lemma="buk-1_^(strom)" src="auto">NNIP5-----A----</AM>
 <AM lemma="buk-1_^(strom)" src="auto">NNIP7-----A----</AM>

@@ -239,7 +239,7 @@
 <LM>w#w-vesm9212-036-p2s2w6</LM>
 </w.rf>
 <form>virus</form>
-<tag lemma="vir" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="vir-1" src="orig" selected="1">NNIS4-----A---1</tag>
 </m>
 <m id="m-vesm9212-036-p2s2w7">
 <src.rf>manual</src.rf>

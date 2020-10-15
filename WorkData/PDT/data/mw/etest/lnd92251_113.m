@@ -358,7 +358,7 @@
 <form>km</form>
 <tag>
 <AM lemma="km-1`kilometr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="km-1`kilometr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92251-113-p2s2w22">
@@ -505,7 +505,7 @@
 <LM>w#w-lnd92251-113-p2s3w13</LM>
 </w.rf>
 <form>Bugnovi</form>
-<tag lemma="Bugno_;Y" src="orig" selected="1">NNMS6-----A----</tag>
+<tag lemma="Bugno-2_;Y" src="orig" selected="1">NNMS6-----A----</tag>
 </m>
 <m id="m-lnd92251-113-p2s3w14">
 <src.rf>manual</src.rf>

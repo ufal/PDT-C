@@ -767,7 +767,7 @@
 <form>vlastně</form>
 <tag>
 <AM lemma="vlastnit_^(někdo_má_něco_ve_vlastnictví)" src="orig">VeYS------A-I--</AM>
-<AM lemma="vlastně-2_^(totiž)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="vlastně-2" src="manual" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-039-p3s4w12">

@@ -19,7 +19,7 @@
 <LM>w#w-lnd94104-127-p1s1Aw1</LM>
 </w.rf>
 <form>Vyšehrad</form>
-<tag lemma="Vyšehrad" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Vyšehrad_;G" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94104-127-p1s1Aw2">
 <src.rf>manual</src.rf>
@@ -317,7 +317,7 @@
 <LM>w#w-lnd94104-127-p1s3w17</LM>
 </w.rf>
 <form>Vyšehrad</form>
-<tag lemma="Vyšehrad" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Vyšehrad_;G" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94104-127-p1s3w18">
 <src.rf>manual</src.rf>
@@ -847,7 +847,7 @@
 <LM>w#w-lnd94104-127-p1s4Bw17</LM>
 </w.rf>
 <form>Sparty</form>
-<tag lemma="Sparta_;m" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Sparta_;G_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94104-127-p1s4Bw18">
 <src.rf>manual</src.rf>
@@ -1316,7 +1316,7 @@
 <LM>w#w-lnd94104-127-p1s5w6</LM>
 </w.rf>
 <form>Vyšehrad</form>
-<tag lemma="Vyšehrad" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Vyšehrad_;G" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94104-127-p1s5w7">
 <src.rf>manual</src.rf>
@@ -1542,7 +1542,7 @@
 <LM>w#w-lnd94104-127-p1s6w5</LM>
 </w.rf>
 <form>Vyšehrad</form>
-<tag lemma="Vyšehrad" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Vyšehrad_;G" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94104-127-p1s6w6">
 <src.rf>manual</src.rf>
@@ -1710,7 +1710,7 @@
 <LM>w#w-lnd94104-127-p1s6w26</LM>
 </w.rf>
 <form>Sparty</form>
-<tag lemma="Sparta_;m" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Sparta_;G_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd94104-127-p1s6w27">
 <src.rf>manual</src.rf>
@@ -1984,7 +1984,7 @@
 <LM>w#w-lnd94104-127-p1s8w5</LM>
 </w.rf>
 <form>Vyšehrad</form>
-<tag lemma="Vyšehrad" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Vyšehrad_;G" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94104-127-p1s8w6">
 <src.rf>manual</src.rf>

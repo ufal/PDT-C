@@ -1938,7 +1938,7 @@
 <LM>w#w-ln95047-023-p7s1w7</LM>
 </w.rf>
 <form>Sparty</form>
-<tag lemma="Sparta_;m" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Sparta_;G_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95047-023-p7s1w8">
 <src.rf>manual</src.rf>

@@ -1714,7 +1714,7 @@
 <LM>w#w-ln94208-14-p5s3w17</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9FXXFS3-------</tag>
 </m>
 <m id="m-ln94208-14-p5s3w18">
 <src.rf>manual</src.rf>

@@ -111,7 +111,7 @@
 </w.rf>
 <form>rublu</form>
 <tag>
-<AM lemma="rubl" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="rubl" src="auto" recommended="1">NNIS2-----A---1</AM>
 <AM lemma="rubl" src="auto">NNIS3-----A----</AM>
 <AM lemma="rubl" src="auto">NNIS6-----A---1</AM>
 </tag>
@@ -791,7 +791,7 @@
 </w.rf>
 <form>rublu</form>
 <tag>
-<AM lemma="rubl" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="rubl" src="auto" recommended="1">NNIS2-----A---1</AM>
 <AM lemma="rubl" src="auto">NNIS3-----A----</AM>
 <AM lemma="rubl" src="auto">NNIS6-----A---1</AM>
 </tag>
@@ -1045,7 +1045,7 @@
 </w.rf>
 <form>rublu</form>
 <tag>
-<AM lemma="rubl" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="rubl" src="auto" recommended="1">NNIS2-----A---1</AM>
 <AM lemma="rubl" src="auto">NNIS3-----A----</AM>
 <AM lemma="rubl" src="auto">NNIS6-----A---1</AM>
 </tag>
@@ -1665,7 +1665,7 @@
 </w.rf>
 <form>rublu</form>
 <tag>
-<AM lemma="rubl" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="rubl" src="auto" recommended="1">NNIS2-----A---1</AM>
 <AM lemma="rubl" src="auto">NNIS3-----A----</AM>
 <AM lemma="rubl" src="auto">NNIS6-----A---1</AM>
 </tag>
@@ -4563,7 +4563,7 @@
 </w.rf>
 <form>rublu</form>
 <tag>
-<AM lemma="rubl" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="rubl" src="auto" recommended="1">NNIS2-----A---1</AM>
 <AM lemma="rubl" src="auto">NNIS3-----A----</AM>
 <AM lemma="rubl" src="auto">NNIS6-----A---1</AM>
 </tag>
@@ -6772,7 +6772,7 @@
 </w.rf>
 <form>její</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSFXXFS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9FXXFS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSIS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSNS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP1FS3-------</AM>
@@ -7233,7 +7233,7 @@
 </w.rf>
 <form>její</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSFXXFS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9FXXFS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSIS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSNS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP1FS3-------</AM>

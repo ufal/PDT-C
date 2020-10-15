@@ -335,7 +335,7 @@
 <LM>w#w-lnd92252-076-p3s2w27</LM>
 </w.rf>
 <form>stál</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd92252-076-p3s2w28">
 <src.rf>manual</src.rf>
@@ -556,7 +556,7 @@
 <LM>w#w-lnd92252-076-p3s3w17</LM>
 </w.rf>
 <form>Benetton</form>
-<tag lemma="Benetton_;m" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Benetton-1_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92252-076-p3s3w18">
 <src.rf>manual</src.rf>
@@ -1432,7 +1432,7 @@
 <LM>w#w-lnd92252-076-p5s3w10</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="s-2`sekunda" src="orig" selected="1">BNFXX-----A---1</tag>
+<tag lemma="sekunda" src="orig" selected="1">NNFXX-----A---b</tag>
 </m>
 <m id="m-lnd92252-076-p5s3w11">
 <src.rf>manual</src.rf>
@@ -1509,7 +1509,7 @@
 <LM>w#w-lnd92252-076-p5s4w6</LM>
 </w.rf>
 <form>Benetton</form>
-<tag lemma="Benetton_;m" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Benetton-1_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92252-076-p5s4w7">
 <src.rf>manual</src.rf>
@@ -1890,7 +1890,7 @@
 <form>MS</form>
 <tag>
 <AM lemma="MS-5_:B_;m_^(ministerstvo_spravedlnosti)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="MS-3_^(mistrovství_světa)" src="manual" selected="1">NNNXX-----A---b</AM>
+<AM lemma="MS-1_^(mistrovství_světa)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-076-p5s8w4">

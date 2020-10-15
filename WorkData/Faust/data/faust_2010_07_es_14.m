@@ -3335,7 +3335,7 @@
 <LM>w#w-es_14-SCzechM-p1471-s1-w20</LM>
 </w.rf>
 <form>show</form>
-<tag lemma="show" recommended="1">NNFXX-----A----</tag>
+<tag lemma="show-1" recommended="1">NNXXX-----A----</tag>
 </m>
 <m id="es_14-SCzechM-p1471-s1-w21">
 <w.rf>

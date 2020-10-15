@@ -5082,7 +5082,7 @@
 </w.rf>
 <form>lidé</form>
 <tag>
-<AM lemma="člověk" src="auto" recommended="1">NNMP1-----A---1</AM>
+<AM lemma="lidé" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="člověk" src="auto">NNMP5-----A---1</AM>
 </tag>
 </m>
@@ -7468,7 +7468,7 @@
 <AM lemma="bohatý" src="auto">AAMP6----1A----</AM>
 <AM lemma="bohatý" src="auto">AANP2----1A----</AM>
 <AM lemma="bohatý" src="auto">AANP6----1A----</AM>
-<AM lemma="bohatý-2" src="manual" selected="1">NNMP2-----A----</AM>
+<AM lemma="bohatý" src="manual" selected="1">AAMP2----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj2366-001-p1s35W9-Ta">
@@ -8966,7 +8966,7 @@
 <AM lemma="bohatý" src="auto">AAMP6----1A----</AM>
 <AM lemma="bohatý" src="auto">AANP2----1A----</AM>
 <AM lemma="bohatý" src="auto">AANP6----1A----</AM>
-<AM lemma="bohatý-2" src="manual" selected="1">NNMP2-----A----</AM>
+<AM lemma="bohatý" src="manual" selected="1">AAMP2----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj2366-001-p1s42W3-Ta">

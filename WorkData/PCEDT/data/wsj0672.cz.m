@@ -208,7 +208,7 @@
 </w.rf>
 <form>lidé</form>
 <tag>
-<AM lemma="člověk" src="auto" recommended="1">NNMP1-----A---1</AM>
+<AM lemma="lidé" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="člověk" src="auto">NNMP5-----A---1</AM>
 </tag>
 </m>
@@ -1431,7 +1431,7 @@
 <AM lemma="bohatý" src="auto">AAFP6----2A----</AM>
 <AM lemma="bohatý" src="auto">AAIP2----2A----</AM>
 <AM lemma="bohatý" src="auto">AAIP6----2A----</AM>
-<AM lemma="bohatý" src="auto" recommended="1">AAMP2----2A----</AM>
+<AM lemma="bohatý" src="auto" recommended="1">AAMP2----2A---1</AM>
 <AM lemma="bohatý" src="auto">AAMP6----2A----</AM>
 <AM lemma="bohatý" src="auto">AANP2----2A----</AM>
 <AM lemma="bohatý" src="auto">AANP6----2A----</AM>

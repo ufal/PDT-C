@@ -216,7 +216,7 @@
 <LM>w#w-ln94206-32-p2s1Aw16</LM>
 </w.rf>
 <form>o</form>
-<tag lemma="o-4_^(graf._oddělovač)" src="orig" selected="1">Z:-------------</tag>
+<tag lemma="o-33" src="orig" selected="1">Q3-------------</tag>
 </m>
 </s>
 <s id="m-ln94206-32-p2s1B">
@@ -1268,7 +1268,7 @@
 <LM>w#w-ln94206-32-p4s2w21</LM>
 </w.rf>
 <form>o</form>
-<tag lemma="o-4_^(graf._oddělovač)" src="orig" selected="1">Z:-------------</tag>
+<tag lemma="o-33" src="orig" selected="1">Q3-------------</tag>
 </m>
 </s>
 <s id="m-ln94206-32-p5s1">
@@ -3040,7 +3040,7 @@
 <LM>w#w-ln94206-32-p6s9w6</LM>
 </w.rf>
 <form>o</form>
-<tag lemma="o-4_^(graf._oddělovač)" src="orig" selected="1">Z:-------------</tag>
+<tag lemma="o-33" src="orig" selected="1">Q3-------------</tag>
 </m>
 </s>
 <s id="m-ln94206-32-p7s1">
@@ -3725,7 +3725,7 @@
 <LM>w#w-ln94206-32-p8s3w16</LM>
 </w.rf>
 <form>o</form>
-<tag lemma="o-4_^(graf._oddělovač)" src="orig" selected="1">Z:-------------</tag>
+<tag lemma="o-33" src="orig" selected="1">Q3-------------</tag>
 </m>
 </s>
 <s id="m-ln94206-32-p9s1">
@@ -5028,7 +5028,7 @@
 <LM>w#w-ln94206-32-p11s1w23</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9FXXFS3-------</tag>
 </m>
 <m id="m-ln94206-32-p11s1w24">
 <src.rf>manual</src.rf>

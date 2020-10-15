@@ -709,7 +709,7 @@
 <LM>w#w-mf930703-100-p3s2w11</LM>
 </w.rf>
 <form>pasy</form>
-<tag lemma="pas-1_^(př._cestovní)" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="pas-1_^(přihrávka,_př._v_kopané,na_lidském_těle;;cestovní)" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-mf930703-100-p3s2w12">
 <src.rf>manual</src.rf>
@@ -1169,7 +1169,7 @@
 <LM>w#w-mf930703-100-p4s2w18</LM>
 </w.rf>
 <form>Rusy</form>
-<tag lemma="Rus_;E" src="orig" selected="1">NNMP7-----A----</tag>
+<tag lemma="Rus-1_;E" src="orig" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-mf930703-100-p4s2w19">
 <src.rf>manual</src.rf>

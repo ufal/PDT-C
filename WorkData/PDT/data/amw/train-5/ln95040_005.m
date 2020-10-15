@@ -226,7 +226,7 @@
 <LM>w#w-ln95040-005-p2s1Bw19</LM>
 </w.rf>
 <form>Den</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95040-005-p2s1Bw20">
 <src.rf>manual</src.rf>

@@ -123,7 +123,7 @@
 <LM>w#w-lnd94104-124-p1s1w14</LM>
 </w.rf>
 <form>den</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-lnd94104-124-p1s1w15">
 <src.rf>manual</src.rf>

@@ -265,7 +265,7 @@
 <LM>w#w-lnd92255-075-p3s2w1</LM>
 </w.rf>
 <form>Lidé</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP1-----A---1</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd92255-075-p3s2w2">
 <src.rf>manual</src.rf>

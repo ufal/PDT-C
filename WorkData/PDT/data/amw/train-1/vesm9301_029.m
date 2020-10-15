@@ -4927,7 +4927,7 @@
 <LM>w#w-vesm9301-029-p11s11w11</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9FXXFS3-------</tag>
 </m>
 <m id="m-vesm9301-029-p11s11w12">
 <src.rf>manual</src.rf>
@@ -6778,7 +6778,7 @@
 <LM>w#w-vesm9301-029-p13s3w22</LM>
 </w.rf>
 <form>dále</form>
-<tag lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="orig" selected="1">Db------------1</tag>
+<tag lemma="dále-3_^(také,_za_další)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-vesm9301-029-p13s3w23">
 <src.rf>manual</src.rf>
@@ -9832,7 +9832,7 @@
 <LM>w#w-vesm9301-029-p15s7w26</LM>
 </w.rf>
 <form>dále</form>
-<tag lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="orig" selected="1">Db------------1</tag>
+<tag lemma="dále-3_^(také,_za_další)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-vesm9301-029-p15s7w27">
 <src.rf>manual</src.rf>
@@ -10734,7 +10734,7 @@
 <LM>w#w-vesm9301-029-p16s3w44</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9FXXFS3-------</tag>
 </m>
 <m id="m-vesm9301-029-p16s3w45">
 <src.rf>manual</src.rf>
@@ -16785,7 +16785,7 @@
 <LM>w#w-vesm9301-029-p21s5w4</LM>
 </w.rf>
 <form>lidé</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP1-----A---1</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-vesm9301-029-p21s5w5">
 <src.rf>manual</src.rf>

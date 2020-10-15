@@ -239,7 +239,7 @@
 <LM>w#w-cmpr9417-023-p4s1w8</LM>
 </w.rf>
 <form>nejbohatším</form>
-<tag lemma="bohatý" src="orig" selected="1">AAIP3----3A----</tag>
+<tag lemma="bohatý" src="orig" selected="1">AAIP3----3A---1</tag>
 </m>
 <m id="m-cmpr9417-023-p4s1w9">
 <src.rf>manual</src.rf>
@@ -2436,7 +2436,7 @@
 <LM>w#w-cmpr9417-023-p10s1w6</LM>
 </w.rf>
 <form>nejbohatší</form>
-<tag lemma="bohatý" src="orig" selected="1">AAIP4----3A----</tag>
+<tag lemma="bohatý" src="orig" selected="1">AAIP4----3A---1</tag>
 </m>
 <m id="m-cmpr9417-023-p10s1w7">
 <src.rf>manual</src.rf>

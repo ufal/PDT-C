@@ -9713,7 +9713,7 @@
 <AM lemma="den-2_,t_^(měnová_jednotka)" src="auto">NNIS4-----A----</AM>
 <AM lemma="den-77_,t" src="auto">F%-------------</AM>
 <AM lemma="den_^(jednotka_času)" src="auto">NNIS1-----A----</AM>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="dna_^(nemoc)" src="auto">NNFP2-----A----</AM>
 <AM lemma="dno_^(např._propasti)" src="auto">NNNP2-----A----</AM>
 </tag>
@@ -11411,7 +11411,7 @@
 <tag>
 <AM lemma="pan_,x" src="auto">NNMS3-----A---1</AM>
 <AM lemma="pan_,x" src="auto">NNMS6-----A---1</AM>
-<AM lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS3-----A----</AM>
+<AM lemma="pan" src="auto" recommended="1">NNMS3-----A---1</AM>
 <AM lemma="pan_^(oslovení)" src="auto">NNMS6-----A----</AM>
 </tag>
 </m>
@@ -11579,7 +11579,7 @@
 <tag>
 <AM lemma="pan_,x" src="auto">NNMS3-----A---1</AM>
 <AM lemma="pan_,x" src="auto">NNMS6-----A---1</AM>
-<AM lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS3-----A----</AM>
+<AM lemma="pan" src="auto" recommended="1">NNMS3-----A---1</AM>
 <AM lemma="pan_^(oslovení)" src="auto">NNMS6-----A----</AM>
 </tag>
 </m>
@@ -15224,7 +15224,7 @@
 </w.rf>
 <form>sen</form>
 <tag>
-<AM lemma="sen" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="sen-1" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="sen" src="auto">NNIS4-----A----</AM>
 <AM lemma="sen-1_,t_^(měnová_jednotka)" src="auto">NNIS1-----A----</AM>
 <AM lemma="sen-1_,t_^(měnová_jednotka)" src="auto">NNIS4-----A----</AM>
@@ -18499,7 +18499,7 @@
 <AM lemma="bohatý" src="auto">AANP1----2A----</AM>
 <AM lemma="bohatý" src="auto">AANP4----2A----</AM>
 <AM lemma="bohatý" src="auto">AANP5----2A----</AM>
-<AM lemma="bohatý" src="auto" selected="1">AANS1----2A----</AM>
+<AM lemma="bohatý" src="auto" selected="1">AANS1----2A---1</AM>
 <AM lemma="bohatý" src="auto">AANS4----2A----</AM>
 <AM lemma="bohatý" src="auto">AANS5----2A----</AM>
 </tag>

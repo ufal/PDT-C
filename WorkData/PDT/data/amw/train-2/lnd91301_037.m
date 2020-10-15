@@ -87,7 +87,7 @@
 <form>BROLNu</form>
 <tag>
 <AM lemma="BROLN_:B_;m" src="orig">NNIS2-----A----</AM>
-<AM lemma="Broln_;m_^(Brněnský_rozhlasový_orchestr_lidových_nástrojů)" src="auto" recommended="1" selected="1">BNIS2-----A----</AM>
+<AM lemma="Broln_;m_^(Brněnský_rozhlasový_orchestr_lidových_nástrojů)" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
 <AM lemma="Broln_:B_;m_^(Brněnský_rozhlasový_orchestr_lidových_nástrojů)" src="auto">NNIS3-----A----</AM>
 <AM lemma="Broln_:B_;m_^(Brněnský_rozhlasový_orchestr_lidových_nástrojů)" src="auto">NNIS6-----A----</AM>
 </tag>
@@ -382,7 +382,7 @@
 <LM>w#w-lnd91301-037-p2s3w9</LM>
 </w.rf>
 <form>den</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-lnd91301-037-p2s3w10">
 <src.rf>manual</src.rf>
@@ -825,7 +825,7 @@
 <LM>w#w-lnd91301-037-p2s7w2</LM>
 </w.rf>
 <form>den</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-lnd91301-037-p2s7w3">
 <src.rf>manual</src.rf>

@@ -269,7 +269,7 @@
 </w.rf>
 <form>lidé</form>
 <tag>
-<AM lemma="člověk" src="auto" recommended="1">NNMP1-----A---1</AM>
+<AM lemma="lidé" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="člověk" src="auto">NNMP5-----A---1</AM>
 </tag>
 </m>
@@ -2433,7 +2433,7 @@
 <LM>w#w-d1t3954-35</LM>
 </w.rf>
 <form>buřta</form>
-<tag lemma="buřt" src="auto" recommended="1">NNIS2-----A----</tag>
+<tag lemma="buřt-1" src="auto" recommended="1">NNIS2-----A---1</tag>
 </m>
 <m id="m035-674-693">
 <w.rf>
@@ -2897,7 +2897,7 @@
 <LM>w#w-d1t3987-5</LM>
 </w.rf>
 <form>buřta</form>
-<tag lemma="buřt" src="auto" recommended="1">NNIS2-----A----</tag>
+<tag lemma="buřt-1" src="auto" recommended="1">NNIS2-----A---1</tag>
 </m>
 <m id="m035-d-id200012-punct">
 <w.rf>
@@ -2981,7 +2981,7 @@
 <LM>w#w-d1t3995-5</LM>
 </w.rf>
 <form>buřta</form>
-<tag lemma="buřt" src="auto" recommended="1">NNIS2-----A----</tag>
+<tag lemma="buřt-1" src="auto" recommended="1">NNIS2-----A---1</tag>
 </m>
 <m id="m035-d1e3992-x2-829">
 <w.rf>
@@ -4583,7 +4583,7 @@
 <LM>w#w-d1t4039-8</LM>
 </w.rf>
 <form>buřta</form>
-<tag lemma="buřt" src="auto" recommended="1">NNIS2-----A----</tag>
+<tag lemma="buřt-1" src="auto" recommended="1">NNIS2-----A---1</tag>
 </m>
 <m id="m035-d1e4030-x3-826">
 <w.rf>

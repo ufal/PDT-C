@@ -27,7 +27,7 @@
 <LM>w#w-ln94210-64-p1s1w2</LM>
 </w.rf>
 <form>pasy</form>
-<tag lemma="pas-1_^(př._cestovní)" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="pas-1_^(přihrávka,_př._v_kopané,na_lidském_těle;;cestovní)" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-ln94210-64-p1s1w3">
 <src.rf>manual</src.rf>

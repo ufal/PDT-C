@@ -1757,7 +1757,7 @@
 <AM lemma="taka-1_;U" src="auto">NNFP5-----A----</AM>
 <AM lemma="taka-1_;U" src="auto">NNFS2-----A----</AM>
 <AM lemma="taky" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="taky-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="taky" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m143-d1t2575-15">

@@ -6865,7 +6865,7 @@
 <LM>w#w-vesm9301-004-p13s7w8</LM>
 </w.rf>
 <form>CO</form>
-<tag lemma="CO-1_;U_^(kysličník_uhelnatý)" src="orig" selected="1">NNIXX-----A---b</tag>
+<tag lemma="CO_;U_^(kysličník_uhelnatý)" src="orig" selected="1">BNIXX-----A----</tag>
 </m>
 <m id="m-vesm9301-004-p13s7w9">
 <src.rf>manual</src.rf>
@@ -7722,7 +7722,7 @@
 <LM>w#w-vesm9301-004-p14s3w10</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9FXXFS3-------</tag>
 </m>
 <m id="m-vesm9301-004-p14s3w11">
 <src.rf>manual</src.rf>
@@ -7762,7 +7762,7 @@
 <LM>w#w-vesm9301-004-p14s3w15</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9FXXFS3-------</tag>
 </m>
 <m id="m-vesm9301-004-p14s3w16">
 <src.rf>manual</src.rf>
@@ -11518,7 +11518,7 @@
 <LM>w#w-vesm9301-004-p20s6w27</LM>
 </w.rf>
 <form>stát</form>
-<tag lemma="stát-4_^(něco_stojí_peníze)" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-vesm9301-004-p20s6w28">
 <src.rf>manual</src.rf>
@@ -11680,7 +11680,7 @@
 <LM>w#w-vesm9301-004-p20s7w17</LM>
 </w.rf>
 <form>lidé</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP1-----A---1</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-vesm9301-004-p20s7w18">
 <src.rf>manual</src.rf>
@@ -12034,7 +12034,7 @@
 <LM>w#w-vesm9301-004-p21s1Aw29</LM>
 </w.rf>
 <form>CO</form>
-<tag lemma="CO-1_;U_^(kysličník_uhelnatý)" src="orig" selected="1">NNIXX-----A---b</tag>
+<tag lemma="CO_;U_^(kysličník_uhelnatý)" src="orig" selected="1">BNIXX-----A----</tag>
 </m>
 <m id="m-vesm9301-004-p21s1Aw30">
 <src.rf>manual</src.rf>

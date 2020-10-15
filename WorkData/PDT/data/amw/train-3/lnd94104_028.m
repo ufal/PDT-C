@@ -1095,7 +1095,7 @@
 <form>ml</form>
 <tag>
 <AM lemma="mladý_:B" src="orig">AAXXX----2A---8</AM>
-<AM lemma="mladý" src="manual" selected="1">AAXXX----2A---8</AM>
+<AM lemma="mladý" src="manual" selected="1">AAXXX----2A---b</AM>
 </tag>
 </m>
 <m id="m-lnd94104-028-p1s7w16">

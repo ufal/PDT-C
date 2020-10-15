@@ -784,7 +784,7 @@
 <LM>w#w-lnd92254-082-p2s4w29</LM>
 </w.rf>
 <form>vítězové</form>
-<tag lemma="vítěz" src="orig" selected="1">NNMP1-----A---1</tag>
+<tag lemma="vítěz" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd92254-082-p2s4w30">
 <src.rf>manual</src.rf>

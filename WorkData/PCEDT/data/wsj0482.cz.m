@@ -597,7 +597,7 @@
 <AM lemma="Mercury_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Mercury_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Mercury_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Mercury-2_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Mercury-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0482-001-p1s1W3-Ta">
@@ -1136,7 +1136,7 @@
 <AM lemma="Mercury_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Mercury_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Mercury_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Mercury-2_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Mercury-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0482-001-p1s3W2-Ta">
@@ -1805,7 +1805,7 @@
 <AM lemma="Mercury_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Mercury_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Mercury_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Mercury-2_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Mercury-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0482-001-p1s4W26-Ta">
@@ -1914,7 +1914,7 @@
 <AM lemma="Mercury_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Mercury_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Mercury_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Mercury-2_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Mercury-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0482-001-p1s5W9-Ta">
@@ -2137,7 +2137,7 @@
 <AM lemma="Mercury_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Mercury_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Mercury_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Mercury-2_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Mercury-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0482-001-p1s6W8-Ta">
@@ -2474,7 +2474,7 @@
 <AM lemma="Mercury_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Mercury_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Mercury_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Mercury-2_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Mercury-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0482-001-p1s7W4-Ta">

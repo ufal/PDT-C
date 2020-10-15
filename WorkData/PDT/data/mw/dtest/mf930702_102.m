@@ -43,7 +43,7 @@
 <LM>w#w-mf930702-102-p1s1w4</LM>
 </w.rf>
 <form>stát</form>
-<tag lemma="stát-4_^(něco_stojí_peníze)" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-mf930702-102-p1s1w5">
 <src.rf>manual</src.rf>

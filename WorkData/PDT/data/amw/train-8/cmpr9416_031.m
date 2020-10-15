@@ -139,7 +139,7 @@
 <LM>w#w-cmpr9416-031-p3s1w14</LM>
 </w.rf>
 <form>něž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4XP4----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4XP4---------1</tag>
 </m>
 <m id="m-cmpr9416-031-p3s1w15">
 <src.rf>manual</src.rf>

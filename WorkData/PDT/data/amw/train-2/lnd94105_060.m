@@ -19,7 +19,7 @@
 <LM>w#w-lnd94105-060-p1s1Aw1</LM>
 </w.rf>
 <form>Role</form>
-<tag lemma="role-2_^(herecká_úloha;_poslání)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="role_^(svitek_poslání_pozemek)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94105-060-p1s1Aw2">
 <src.rf>manual</src.rf>

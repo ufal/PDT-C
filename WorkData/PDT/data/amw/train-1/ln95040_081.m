@@ -326,7 +326,7 @@
 <LM>w#w-ln95040-081-p3s1w5</LM>
 </w.rf>
 <form>Maria</form>
-<tag lemma="Maria_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Marie_;Y" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-ln95040-081-p3s1w6">
 <src.rf>manual</src.rf>

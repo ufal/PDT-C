@@ -1808,7 +1808,7 @@
 <LM>w#w-ln94210-90-p4s3w6</LM>
 </w.rf>
 <form>stát</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94210-90-p4s3w7">
 <src.rf>manual</src.rf>
@@ -2957,7 +2957,7 @@
 <LM>w#w-ln94210-90-p5s3w17</LM>
 </w.rf>
 <form>Maria</form>
-<tag lemma="Maria_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Marie_;Y" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-ln94210-90-p5s3w18">
 <src.rf>manual</src.rf>

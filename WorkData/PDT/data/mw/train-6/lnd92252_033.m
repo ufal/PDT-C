@@ -35,7 +35,7 @@
 <LM>w#w-lnd92252-033-p1s1w3</LM>
 </w.rf>
 <form>Kanadě</form>
-<tag lemma="Kanada_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Kanada_;G_;m" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92252-033-p2s1">
@@ -548,7 +548,7 @@
 <LM>w#w-lnd92252-033-p2s4w17</LM>
 </w.rf>
 <form>Kanady</form>
-<tag lemma="Kanada_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Kanada_;G_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92252-033-p2s4w18">
 <src.rf>manual</src.rf>

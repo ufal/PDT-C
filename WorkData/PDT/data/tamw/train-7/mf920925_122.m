@@ -35,7 +35,7 @@
 <LM>w#w-mf920925-122-p1s1w3</LM>
 </w.rf>
 <form>rublu</form>
-<tag lemma="rubl" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="rubl" src="orig" selected="1">NNIS2-----A---1</tag>
 </m>
 </s>
 <s id="m-mf920925-122-p2s1">
@@ -71,7 +71,7 @@
 <LM>w#w-mf920925-122-p3s1w3</LM>
 </w.rf>
 <form>rublu</form>
-<tag lemma="rubl" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="rubl" src="orig" selected="1">NNIS2-----A---1</tag>
 </m>
 </s>
 <s id="m-mf920925-122-p4s1">
@@ -1170,7 +1170,7 @@
 <LM>w#w-mf920925-122-p5s1w9</LM>
 </w.rf>
 <form>rublu</form>
-<tag lemma="rubl" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="rubl" src="orig" selected="1">NNIS2-----A---1</tag>
 </m>
 <m id="m-mf920925-122-p5s1w10">
 <src.rf>manual</src.rf>
@@ -2242,7 +2242,7 @@
 <LM>w#w-mf920925-122-p6s2w14</LM>
 </w.rf>
 <form>rublu</form>
-<tag lemma="rubl" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="rubl" src="orig" selected="1">NNIS2-----A---1</tag>
 </m>
 <m id="m-mf920925-122-p6s2w15">
 <src.rf>manual</src.rf>

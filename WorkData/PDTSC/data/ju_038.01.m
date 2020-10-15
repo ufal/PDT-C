@@ -829,7 +829,7 @@
 <AM lemma="mladit" src="auto">VB-S---3P-AAI--</AM>
 <AM lemma="mladý" src="auto" recommended="1">AAMP1----1A----</AM>
 <AM lemma="mladý" src="auto">AAMP5----1A----</AM>
-<AM lemma="mladý-2" src="manual" selected="1">NNMP1-----A----</AM>
+<AM lemma="mladý" src="manual" selected="1">AAMP1----1A----</AM>
 </tag>
 </m>
 <m id="m038-d-id66887-punct">
@@ -1211,7 +1211,7 @@
 <AM lemma="mladý" src="auto">AAMP6----1A----</AM>
 <AM lemma="mladý" src="auto">AANP2----1A----</AM>
 <AM lemma="mladý" src="auto">AANP6----1A----</AM>
-<AM lemma="mladý-2" src="manual" selected="1">NNMP2-----A----</AM>
+<AM lemma="mladý" src="manual" selected="1">AAMP2----1A----</AM>
 </tag>
 </m>
 <m id="m038-d1t384-13">
@@ -4726,7 +4726,7 @@
 </w.rf>
 <form>lidi</form>
 <tag>
-<AM lemma="člověk" src="auto" selected="1">NNMP1-----A----</AM>
+<AM lemma="lidé" src="auto" selected="1">NNMP1-----A---1</AM>
 <AM lemma="člověk" src="auto" recommended="1">NNMP4-----A----</AM>
 <AM lemma="člověk" src="auto">NNMP5-----A----</AM>
 </tag>

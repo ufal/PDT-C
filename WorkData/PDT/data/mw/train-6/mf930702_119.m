@@ -272,7 +272,7 @@
 <LM>w#w-mf930702-119-p3s1w22</LM>
 </w.rf>
 <form>den</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-mf930702-119-p3s1w23">
 <src.rf>manual</src.rf>
@@ -641,7 +641,7 @@
 <LM>w#w-mf930702-119-p4s2w6</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9FXXFS3-------</tag>
 </m>
 <m id="m-mf930702-119-p4s2w7">
 <src.rf>manual</src.rf>
@@ -1689,7 +1689,7 @@
 <LM>w#w-mf930702-119-p6s1w22</LM>
 </w.rf>
 <form>nejbohatších</form>
-<tag lemma="bohatý" src="orig" selected="1">AAMP2----3A----</tag>
+<tag lemma="bohatý" src="orig" selected="1">AAMP2----3A---1</tag>
 </m>
 <m id="m-mf930702-119-p6s1w23">
 <src.rf>manual</src.rf>

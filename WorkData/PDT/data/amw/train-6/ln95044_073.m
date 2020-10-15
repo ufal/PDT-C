@@ -2001,7 +2001,7 @@
 <LM>w#w-ln95044-073-p3s9w5</LM>
 </w.rf>
 <form>panu</form>
-<tag lemma="pan_^(oslovení)" src="auto" selected="1">NNMS3-----A----</tag>
+<tag lemma="pan" src="auto" selected="1">NNMS3-----A---1</tag>
 </m>
 <m id="m-ln95044-073-p3s9w6">
 <src.rf>manual</src.rf>
@@ -8475,7 +8475,7 @@
 <LM>w#w-ln95044-073-p8s12w14</LM>
 </w.rf>
 <form>její</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9FXXFS3-------</tag>
 </m>
 <m id="m-ln95044-073-p8s12w15">
 <src.rf>manual</src.rf>

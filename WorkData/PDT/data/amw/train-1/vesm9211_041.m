@@ -1587,7 +1587,7 @@
 <LM>w#w-vesm9211-041-p5s1w12</LM>
 </w.rf>
 <form>lidé</form>
-<tag lemma="člověk" src="orig" selected="1">NNMP1-----A---1</tag>
+<tag lemma="lidé" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-vesm9211-041-p5s1w13">
 <src.rf>manual</src.rf>

@@ -175,7 +175,7 @@
 <LM>w#w-ln94208-109-p2s1Bw12</LM>
 </w.rf>
 <form>Blesku</form>
-<tag lemma="Blesk_;m_^(noviny)" src="auto" selected="1">NNIS2-----A----</tag>
+<tag lemma="Blesk-2_;m_^(noviny)" src="auto" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94208-109-p2s1Bw13">
 <src.rf>manual</src.rf>

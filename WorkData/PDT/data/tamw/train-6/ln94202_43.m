@@ -275,7 +275,7 @@
 <LM>w#w-ln94202-43-p2s1Bw23</LM>
 </w.rf>
 <form>kostele</form>
-<tag lemma="kostel" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="kostel" src="orig" selected="1">NNIS6-----A---1</tag>
 </m>
 <m id="m-ln94202-43-p2s1Bw24">
 <src.rf>manual</src.rf>

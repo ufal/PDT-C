@@ -2342,7 +2342,7 @@
 <LM>w#w-ln95049-037-p4s4w17</LM>
 </w.rf>
 <form>Spartě</form>
-<tag lemma="Sparta_;m" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="Sparta_;G_;m" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-ln95049-037-p4s4w18">
 <src.rf>manual</src.rf>

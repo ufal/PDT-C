@@ -2127,7 +2127,7 @@
 <tag>
 <AM lemma="C-3`100" src="auto">C}-------------</AM>
 <AM lemma="C-33" src="auto">Q3-------------</AM>
-<AM lemma="Celsius" src="auto" recommended="1">NNMXX-----A---8</AM>
+<AM lemma="Celsius_;Y" src="auto" recommended="1">NNMXX-----A---b</AM>
 <AM lemma="C-33" src="auto">Q3-------------</AM>
 <AM lemma="c-88" src="auto">BNXXX-----A----</AM>
 </tag>

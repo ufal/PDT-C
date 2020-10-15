@@ -7319,7 +7319,7 @@
 <tag>
 <AM lemma="hůra" src="auto">NNFS3-----A----</AM>
 <AM lemma="hůra" src="auto">NNFS6-----A----</AM>
-<AM lemma="špatně" src="auto" recommended="1">Dg-------2A---1</AM>
+<AM lemma="hůře" src="auto" recommended="1">Dg-------2A----</AM>
 </tag>
 </m>
 <m id="m-wsj1314-001-p1s24W13-Ta">
@@ -10307,7 +10307,7 @@
 </w.rf>
 <form>její</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSFXXFS3-------</AM>
+<AM lemma="jeho" src="auto" recommended="1">P9FXXFS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSIS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSNS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP1FS3-------</AM>

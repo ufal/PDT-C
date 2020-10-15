@@ -2399,7 +2399,7 @@
 <LM>w#w-lnd92254-012-p4s9w6</LM>
 </w.rf>
 <form>virus</form>
-<tag lemma="vir" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="vir-1" src="orig" selected="1">NNIS4-----A---1</tag>
 </m>
 <m id="m-lnd92254-012-p4s9w7">
 <src.rf>manual</src.rf>

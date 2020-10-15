@@ -1108,7 +1108,7 @@
 <LM>w#w-mf920924-091-p3s8w12</LM>
 </w.rf>
 <form>nedávno</form>
-<tag lemma="nedávno-1" src="auto" selected="1">Db-------------</tag>
+<tag lemma="dávno-1" src="auto" selected="1">Dg-------1N----</tag>
 </m>
 <m id="m-mf920924-091-p3s8w13">
 <src.rf>manual</src.rf>

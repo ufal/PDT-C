@@ -1279,7 +1279,7 @@
 <AM lemma="den-2_,t_^(měnová_jednotka)" src="auto">NNIS4-----A----</AM>
 <AM lemma="den-77_,t" src="auto">F%-------------</AM>
 <AM lemma="den_^(jednotka_času)" src="auto">NNIS1-----A----</AM>
-<AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="den-1_^(jednotka_času)" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="dna_^(nemoc)" src="auto">NNFP2-----A----</AM>
 <AM lemma="dno_^(např._propasti)" src="auto">NNNP2-----A----</AM>
 </tag>
@@ -6326,7 +6326,7 @@
 <form>Adobe</form>
 <tag>
 <AM lemma="Adobe_;m_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Adobe_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Adobe_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2365-001-p1s21W6-Ta">
@@ -6593,7 +6593,7 @@
 <form>Adobe</form>
 <tag>
 <AM lemma="Adobe_;m_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Adobe_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Adobe_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2365-001-p1s21W25-Ta">
@@ -6781,7 +6781,7 @@
 <form>Adobe</form>
 <tag>
 <AM lemma="Adobe_;m_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Adobe_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Adobe_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2365-001-p1s22W12-Ta">
@@ -7083,7 +7083,7 @@
 <form>Adobe</form>
 <tag>
 <AM lemma="Adobe_;m_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Adobe_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Adobe_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2365-001-p1s23W9-Ta">
@@ -7575,7 +7575,7 @@
 <form>Adobe</form>
 <tag>
 <AM lemma="Adobe_;m_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Adobe_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Adobe_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2365-001-p1s26W7-Ta">
@@ -12638,7 +12638,7 @@
 </w.rf>
 <form>Lidé</form>
 <tag>
-<AM lemma="člověk" src="auto" recommended="1">NNMP1-----A---1</AM>
+<AM lemma="lidé" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="člověk" src="auto">NNMP5-----A---1</AM>
 </tag>
 </m>

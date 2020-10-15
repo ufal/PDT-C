@@ -116,7 +116,7 @@
 <AM lemma="Bora_;Y" src="auto">NNFS2-----A----</AM>
 <AM lemma="Boro_;G" src="auto">NNNP7-----A----</AM>
 <AM lemma="Bory_;G" src="auto">NNIP1-----A----</AM>
-<AM lemma="Bory_;G" src="auto" selected="1">NNIP4-----A----</AM>
+<AM lemma="Bor-2_;G" src="auto" selected="1">NNIP4-----A----</AM>
 <AM lemma="Bory_;G" src="auto">NNIP5-----A----</AM>
 <AM lemma="Bory_;G" src="auto">NNIP7-----A----</AM>
 <AM lemma="Bory_;Y" src="auto">NNMS1-----A----</AM>
@@ -1033,7 +1033,7 @@
 <AM lemma="špičák" src="auto">NNIS3-----A----</AM>
 <AM lemma="špičák" src="auto">NNIS5-----A----</AM>
 <AM lemma="špičák" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="Špičák_;G" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="Špičák-2_;G" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m057-d-id120166-punct">
@@ -2116,7 +2116,7 @@
 <AM lemma="špičák" src="auto">NNIS3-----A----</AM>
 <AM lemma="špičák" src="auto">NNIS5-----A----</AM>
 <AM lemma="špičák" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="Špičák_;G" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="Špičák-2_;G" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m057-d1t2248-6">

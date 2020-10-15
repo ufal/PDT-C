@@ -401,7 +401,7 @@
 </w.rf>
 <form>lidé</form>
 <tag>
-<AM lemma="člověk" src="auto" recommended="1">NNMP1-----A---1</AM>
+<AM lemma="lidé" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="člověk" src="auto">NNMP5-----A---1</AM>
 </tag>
 </m>
@@ -1912,7 +1912,7 @@
 <form>Rusy</form>
 <tag>
 <AM lemma="Rus_;E" src="auto">NNMP4-----A----</AM>
-<AM lemma="Rus_;E" src="auto" recommended="1">NNMP7-----A----</AM>
+<AM lemma="Rus-1_;E" src="auto" recommended="1">NNMP7-----A----</AM>
 <AM lemma="rus_^(druh_švába)" src="auto">NNMP4-----A----</AM>
 <AM lemma="rus_^(druh_švába)" src="auto">NNMP7-----A----</AM>
 </tag>
@@ -2449,7 +2449,7 @@
 <form>show</form>
 <tag>
 <AM lemma="show" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="show-2" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="show-1" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0966-001-p1s8W17-Ta">

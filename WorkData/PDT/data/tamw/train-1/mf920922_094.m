@@ -2511,7 +2511,7 @@
 <LM>w#w-mf920922-094-p2s13w9</LM>
 </w.rf>
 <form>dále</form>
-<tag lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="orig" selected="1">Db------------1</tag>
+<tag lemma="dále-3_^(také,_za_další)" src="orig" selected="1">Db-------------</tag>
 </m>
 <m id="m-mf920922-094-p2s13w10">
 <src.rf>manual</src.rf>

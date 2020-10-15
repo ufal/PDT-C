@@ -475,7 +475,7 @@
 <LM>w#w-mf930713-065-p2s2w12</LM>
 </w.rf>
 <form>stát</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf930713-065-p2s2w13">
 <src.rf>manual</src.rf>

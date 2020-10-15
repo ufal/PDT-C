@@ -762,7 +762,7 @@
 <LM>w#w-mf920901-038-p2s6w12</LM>
 </w.rf>
 <form>bydlí</form>
-<tag lemma="bydlet" src="orig" selected="1">VB-P---3P-AAI--</tag>
+<tag lemma="bydlet" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-mf920901-038-p2s6w13">
 <src.rf>manual</src.rf>

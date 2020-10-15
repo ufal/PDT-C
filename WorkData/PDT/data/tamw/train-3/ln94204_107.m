@@ -8610,7 +8610,7 @@
 <LM>w#w-ln94204-107-p14s2w4</LM>
 </w.rf>
 <form>stát</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln94204-107-p14s2w5">
 <src.rf>manual</src.rf>

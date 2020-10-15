@@ -2495,7 +2495,7 @@
 <LM>w#w-ln95043-007-p2s13w57</LM>
 </w.rf>
 <form>Sparty</form>
-<tag lemma="Sparta_;m" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Sparta_;G_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95043-007-p2s13w58">
 <src.rf>manual</src.rf>

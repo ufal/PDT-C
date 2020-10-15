@@ -214,7 +214,7 @@
 <AM lemma="den_^(jednotka_času)" recommended="1">NNIS4-----A----</AM>
 <AM lemma="den-2_,t_^(měnová_jednotka)">NNIS1-----A----</AM>
 <AM lemma="den-2_,t_^(měnová_jednotka)">NNIS4-----A----</AM>
-<AM lemma="den_^(jednotka_času)" selected="1">NNIS1-----A----</AM>
+<AM lemma="den-1_^(jednotka_času)" selected="1">NNIS1-----A----</AM>
 <AM lemma="dna_^(nemoc)">NNFP2-----A----</AM>
 <AM lemma="dno_^(např._propasti)">NNNP2-----A----</AM>
 </tag>
@@ -4822,7 +4822,7 @@
 <AM lemma="son_^(jednotka_hlasitosti)">NNIP5-----A----</AM>
 <AM lemma="son_^(jednotka_hlasitosti)">NNIP7-----A----</AM>
 <AM lemma="sono_,l_^(sonografie)">NNNP7-----A----</AM>
-<AM lemma="Sony-2_;m" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Sony_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="jh_05-SCzechM-p0510-s1-w2">
@@ -5037,7 +5037,7 @@
 <tag>
 <AM lemma="Vánoce_,x" recommended="1">NNFP1-----A----</AM>
 <AM lemma="Vánoce">NNFP1-----A----</AM>
-<AM lemma="Vánoce" selected="1">NNFP4-----A----</AM>
+<AM lemma="Vánoce_;m" selected="1">NNFP4-----A----</AM>
 <AM lemma="Vánoce">NNFP5-----A----</AM>
 <AM lemma="Vánoce">NNFP6-----A---6</AM>
 <AM lemma="Vánoce_,x">NNFP4-----A----</AM>
@@ -5768,7 +5768,7 @@
 </w.rf>
 <form>den</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" recommended="1">NNIS4-----A----</AM>
+<AM lemma="den-1_^(jednotka_času)" recommended="1">NNIS4-----A----</AM>
 <AM lemma="den-2_,t_^(měnová_jednotka)">NNIS1-----A----</AM>
 <AM lemma="den-2_,t_^(měnová_jednotka)">NNIS4-----A----</AM>
 <AM lemma="den_^(jednotka_času)">NNIS1-----A----</AM>
@@ -6466,7 +6466,7 @@
 </w.rf>
 <form>den</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" recommended="1">NNIS4-----A----</AM>
+<AM lemma="den-1_^(jednotka_času)" recommended="1">NNIS4-----A----</AM>
 <AM lemma="den-2_,t_^(měnová_jednotka)">NNIS1-----A----</AM>
 <AM lemma="den-2_,t_^(měnová_jednotka)">NNIS4-----A----</AM>
 <AM lemma="den_^(jednotka_času)">NNIS1-----A----</AM>
@@ -6836,7 +6836,7 @@
 </w.rf>
 <form>Athény</form>
 <tag>
-<AM lemma="Atény_;G" recommended="1">NNFP1-----A----</AM>
+<AM lemma="Athény_;G_,s_^(^DD**Atény)" recommended="1">NNFP1-----A----</AM>
 <AM lemma="Athéna_;Y">NNFP1-----A----</AM>
 <AM lemma="Athéna_;Y">NNFP4-----A----</AM>
 <AM lemma="Athéna_;Y">NNFP5-----A----</AM>

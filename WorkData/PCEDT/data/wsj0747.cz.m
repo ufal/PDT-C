@@ -955,7 +955,7 @@
 </w.rf>
 <form>lidé</form>
 <tag>
-<AM lemma="člověk" src="auto" recommended="1">NNMP1-----A---1</AM>
+<AM lemma="lidé" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="člověk" src="auto">NNMP5-----A---1</AM>
 </tag>
 </m>
@@ -2400,7 +2400,7 @@
 </w.rf>
 <form>lidé</form>
 <tag>
-<AM lemma="člověk" src="auto" recommended="1">NNMP1-----A---1</AM>
+<AM lemma="lidé" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="člověk" src="auto">NNMP5-----A---1</AM>
 </tag>
 </m>
@@ -3871,7 +3871,7 @@
 </w.rf>
 <form>Boulder</form>
 <tag>
-<AM lemma="Boulder_;G" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Boulder_;G_;m" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Boulder_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="boulder_,l_,t_^(lezecká_stěna)" src="auto">NNIS1-----A----</AM>
 <AM lemma="boulder_,l_,t_^(lezecká_stěna)" src="auto">NNIS4-----A----</AM>
@@ -4738,7 +4738,7 @@
 </w.rf>
 <form>lidé</form>
 <tag>
-<AM lemma="člověk" src="auto" recommended="1">NNMP1-----A---1</AM>
+<AM lemma="lidé" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="člověk" src="auto">NNMP5-----A---1</AM>
 </tag>
 </m>

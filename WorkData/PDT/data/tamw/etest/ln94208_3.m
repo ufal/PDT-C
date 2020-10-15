@@ -1079,7 +1079,7 @@
 <LM>w#w-ln94208-3-p3s4w11</LM>
 </w.rf>
 <form>Mazda</form>
-<tag lemma="Mazda_;m" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Mazda-1_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94208-3-p3s4w12">
 <src.rf>manual</src.rf>
@@ -1243,7 +1243,7 @@
 <LM>w#w-ln94208-3-p4s1w1</LM>
 </w.rf>
 <form>o</form>
-<tag lemma="o-4_^(graf._oddělovač)" src="orig" selected="1">Z:-------------</tag>
+<tag lemma="o-33" src="orig" selected="1">Q3-------------</tag>
 </m>
 <m id="m-ln94208-3-p4s1w2">
 <src.rf>manual</src.rf>
@@ -2926,7 +2926,7 @@
 <LM>w#w-ln94208-3-p6s1w1</LM>
 </w.rf>
 <form>o</form>
-<tag lemma="o-4_^(graf._oddělovač)" src="orig" selected="1">Z:-------------</tag>
+<tag lemma="o-33" src="orig" selected="1">Q3-------------</tag>
 </m>
 <m id="m-ln94208-3-p6s1w2">
 <src.rf>manual</src.rf>

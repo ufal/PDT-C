@@ -3478,7 +3478,7 @@
 <LM>w#w-ln95045-070-p5s3w21</LM>
 </w.rf>
 <form>bohatší</form>
-<tag lemma="bohatý" src="orig" selected="1">AAIP1----2A----</tag>
+<tag lemma="bohatý" src="orig" selected="1">AAIP1----2A---1</tag>
 </m>
 <m id="m-ln95045-070-p5s3w22">
 <src.rf>manual</src.rf>

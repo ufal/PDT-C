@@ -2204,7 +2204,7 @@
 <AM lemma="špičák" src="auto">NNIS3-----A----</AM>
 <AM lemma="špičák" src="auto">NNIS5-----A----</AM>
 <AM lemma="špičák" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="Špičák_;G" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="Špičák-2_;G" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m018-d1t1042-5">

@@ -2816,7 +2816,7 @@
 <LM>w#w-ln95048-079-p5s6w13</LM>
 </w.rf>
 <form>den</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln95048-079-p5s6w14">
 <src.rf>manual</src.rf>

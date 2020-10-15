@@ -1128,7 +1128,7 @@
 </w.rf>
 <form>Auteuil</form>
 <tag>
-<AM lemma="Auteuil_;G" src="orig" selected="1">NNNXX-----A----</AM>
+<AM lemma="Auteuil-2_;G" src="orig" selected="1">NNXXX-----A----</AM>
 <AM lemma="Auteuil_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -1699,7 +1699,7 @@
 <LM>w#w-ln94208-5-p3s8w7</LM>
 </w.rf>
 <form>stát</form>
-<tag lemma="stát-2_^(něco_se_přihodilo)" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94208-5-p3s8w8">
 <src.rf>manual</src.rf>

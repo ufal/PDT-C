@@ -1351,7 +1351,7 @@
 <LM>w#w-mf930708-084-p4s2w1</LM>
 </w.rf>
 <form>Vlastně</form>
-<tag lemma="vlastně-2_^(totiž)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="vlastně-2" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-mf930708-084-p4s2w2">
 <src.rf>manual</src.rf>

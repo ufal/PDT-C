@@ -3138,7 +3138,7 @@
 <tag>
 <AM lemma="Rus-2_;G_^(Rusko)" src="auto">NNFS1-----A----</AM>
 <AM lemma="Rus-2_;G_^(Rusko)" src="auto">NNFS4-----A----</AM>
-<AM lemma="Rus_;E" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Rus-1_;E" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Rusko_:B_;G" src="auto">NNNXX-----A---8</AM>
 <AM lemma="rus_^(druh_švába)" src="auto">NNMS1-----A----</AM>
 </tag>

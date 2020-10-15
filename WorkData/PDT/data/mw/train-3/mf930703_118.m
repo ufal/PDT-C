@@ -3756,7 +3756,7 @@
 <LM>w#w-mf930703-118-p6s3w64</LM>
 </w.rf>
 <form>den</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-mf930703-118-p6s3w65">
 <src.rf>manual</src.rf>
@@ -15753,7 +15753,7 @@
 <LM>w#w-mf930703-118-p29s3w12</LM>
 </w.rf>
 <form>autokrosu</form>
-<tag lemma="autokros" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="autokros" src="orig" selected="1">NNIS6-----A---1</tag>
 </m>
 <m id="m-mf930703-118-p29s3w13">
 <src.rf>manual</src.rf>

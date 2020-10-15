@@ -2625,7 +2625,7 @@
 </w.rf>
 <form>den</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" recommended="1">NNIS4-----A----</AM>
+<AM lemma="den-1_^(jednotka_času)" recommended="1">NNIS4-----A----</AM>
 <AM lemma="den-2_,t_^(měnová_jednotka)">NNIS1-----A----</AM>
 <AM lemma="den-2_,t_^(měnová_jednotka)">NNIS4-----A----</AM>
 <AM lemma="den_^(jednotka_času)">NNIS1-----A----</AM>
@@ -3596,7 +3596,7 @@
 <LM>w#w-jh_14-SCzechM-p1471-s1-w24</LM>
 </w.rf>
 <form>show</form>
-<tag lemma="show" recommended="1">NNFXX-----A----</tag>
+<tag lemma="show-1" recommended="1">NNXXX-----A----</tag>
 </m>
 <m id="jh_14-SCzechM-p1471-s1-w25">
 <w.rf>

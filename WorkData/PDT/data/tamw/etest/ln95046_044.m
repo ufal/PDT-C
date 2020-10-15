@@ -5621,7 +5621,7 @@
 <LM>w#w-ln95046-044-p5s10w17</LM>
 </w.rf>
 <form>r</form>
-<tag lemma="režie" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="r-33" src="orig" selected="1">Q3-------------</tag>
 </m>
 <m id="m-ln95046-044-p5s10w18">
 <src.rf>manual</src.rf>

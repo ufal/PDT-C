@@ -158,7 +158,7 @@
 <LM>w#w-ln94200-117-p2s1Bw10</LM>
 </w.rf>
 <form>den</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln94200-117-p2s1Bw11">
 <src.rf>manual</src.rf>

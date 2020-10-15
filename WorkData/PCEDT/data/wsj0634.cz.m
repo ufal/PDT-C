@@ -362,7 +362,7 @@
 <LM>w#w-wsj0634-001-p1s1W5</LM>
 </w.rf>
 <form>Dentsu</form>
-<tag lemma="Dentsu_;m" src="auto" recommended="1">NNFXX-----A----</tag>
+<tag lemma="Dentsu_;m" src="auto" recommended="1">NNXXX-----A----</tag>
 </m>
 <m id="m-wsj0634-001-p1s1W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -693,7 +693,7 @@
 <LM>w#w-wsj0634-001-p1s2W6</LM>
 </w.rf>
 <form>Dentsu</form>
-<tag lemma="Dentsu_;m" src="auto" recommended="1">NNFXX-----A----</tag>
+<tag lemma="Dentsu_;m" src="auto" recommended="1">NNXXX-----A----</tag>
 </m>
 <m id="m-wsj0634-001-p1s2W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -947,7 +947,7 @@
 <LM>w#w-wsj0634-001-p1s3W2</LM>
 </w.rf>
 <form>Dentsu</form>
-<tag lemma="Dentsu_;m" src="auto" recommended="1">NNFXX-----A----</tag>
+<tag lemma="Dentsu_;m" src="auto" recommended="1">NNXXX-----A----</tag>
 </m>
 <m id="m-wsj0634-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1636,7 +1636,7 @@
 <LM>w#w-wsj0634-001-p1s5W6</LM>
 </w.rf>
 <form>Dentsu</form>
-<tag lemma="Dentsu_;m" src="auto" recommended="1">NNFXX-----A----</tag>
+<tag lemma="Dentsu_;m" src="auto" recommended="1">NNXXX-----A----</tag>
 </m>
 <m id="m-wsj0634-001-p1s5W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2119,7 +2119,7 @@
 <LM>w#w-wsj0634-001-p1s6W17</LM>
 </w.rf>
 <form>Dentsu</form>
-<tag lemma="Dentsu_;m" src="auto" recommended="1">NNFXX-----A----</tag>
+<tag lemma="Dentsu_;m" src="auto" recommended="1">NNXXX-----A----</tag>
 </m>
 <m id="m-wsj0634-001-p1s6W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2392,7 +2392,7 @@
 <LM>w#w-wsj0634-001-p1s8W8</LM>
 </w.rf>
 <form>Dentsu</form>
-<tag lemma="Dentsu_;m" src="auto" recommended="1">NNFXX-----A----</tag>
+<tag lemma="Dentsu_;m" src="auto" recommended="1">NNXXX-----A----</tag>
 </m>
 <m id="m-wsj0634-001-p1s8W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2821,7 +2821,7 @@
 <LM>w#w-wsj0634-001-p1s10W7</LM>
 </w.rf>
 <form>Dentsu</form>
-<tag lemma="Dentsu_;m" src="auto" recommended="1">NNFXX-----A----</tag>
+<tag lemma="Dentsu_;m" src="auto" recommended="1">NNXXX-----A----</tag>
 </m>
 <m id="m-wsj0634-001-p1s10W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3234,7 +3234,7 @@
 <LM>w#w-wsj0634-001-p1s11W6</LM>
 </w.rf>
 <form>Dentsu</form>
-<tag lemma="Dentsu_;m" src="auto" recommended="1">NNFXX-----A----</tag>
+<tag lemma="Dentsu_;m" src="auto" recommended="1">NNXXX-----A----</tag>
 </m>
 <m id="m-wsj0634-001-p1s11W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3317,7 +3317,7 @@
 <LM>w#w-wsj0634-001-p1s12W3</LM>
 </w.rf>
 <form>Dentsu</form>
-<tag lemma="Dentsu_;m" src="auto" recommended="1">NNFXX-----A----</tag>
+<tag lemma="Dentsu_;m" src="auto" recommended="1">NNXXX-----A----</tag>
 </m>
 <m id="m-wsj0634-001-p1s12W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3967,7 +3967,7 @@
 <LM>w#w-wsj0634-001-p1s14W13</LM>
 </w.rf>
 <form>Dentsu</form>
-<tag lemma="Dentsu_;m" src="auto" recommended="1">NNFXX-----A----</tag>
+<tag lemma="Dentsu_;m" src="auto" recommended="1">NNXXX-----A----</tag>
 </m>
 <m id="m-wsj0634-001-p1s14W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4324,7 +4324,7 @@
 <LM>w#w-wsj0634-001-p1s15W4</LM>
 </w.rf>
 <form>Dentsu</form>
-<tag lemma="Dentsu_;m" src="auto" recommended="1">NNFXX-----A----</tag>
+<tag lemma="Dentsu_;m" src="auto" recommended="1">NNXXX-----A----</tag>
 </m>
 <m id="m-wsj0634-001-p1s15W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4997,7 +4997,7 @@
 <LM>w#w-wsj0634-001-p1s17W4</LM>
 </w.rf>
 <form>Dentsu</form>
-<tag lemma="Dentsu_;m" src="auto" recommended="1">NNFXX-----A----</tag>
+<tag lemma="Dentsu_;m" src="auto" recommended="1">NNXXX-----A----</tag>
 </m>
 <m id="m-wsj0634-001-p1s17W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6526,7 +6526,7 @@
 <LM>w#w-wsj0634-001-p1s21W31</LM>
 </w.rf>
 <form>Dentsu</form>
-<tag lemma="Dentsu_;m" src="auto" recommended="1">NNFXX-----A----</tag>
+<tag lemma="Dentsu_;m" src="auto" recommended="1">NNXXX-----A----</tag>
 </m>
 <m id="m-wsj0634-001-p1s21W32-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6641,7 +6641,7 @@
 <LM>w#w-wsj0634-001-p1s22W7</LM>
 </w.rf>
 <form>Dentsu</form>
-<tag lemma="Dentsu_;m" src="auto" recommended="1">NNFXX-----A----</tag>
+<tag lemma="Dentsu_;m" src="auto" recommended="1">NNXXX-----A----</tag>
 </m>
 <m id="m-wsj0634-001-p1s22W8-Ta">
 <src.rf>tagger-a</src.rf>

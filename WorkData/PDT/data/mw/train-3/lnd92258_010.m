@@ -1148,7 +1148,7 @@
 <LM>w#w-lnd92258-010-p4s4w2</LM>
 </w.rf>
 <form>den</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-lnd92258-010-p4s4w3">
 <src.rf>manual</src.rf>
@@ -1516,7 +1516,7 @@
 <form>Vánoce</form>
 <tag>
 <AM lemma="vánoce" src="orig">NNFP1-----A----</AM>
-<AM lemma="Vánoce" src="auto" recommended="1" selected="1">NNFP1-----A----</AM>
+<AM lemma="Vánoce_;m" src="auto" recommended="1" selected="1">NNFP1-----A----</AM>
 <AM lemma="Vánoce" src="auto">NNFP4-----A----</AM>
 <AM lemma="Vánoce" src="auto">NNFP5-----A----</AM>
 <AM lemma="Vánoce" src="auto">NNFP6-----A---6</AM>
@@ -2732,7 +2732,7 @@
 <LM>w#w-lnd92258-010-p5s9w2</LM>
 </w.rf>
 <form>den</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-lnd92258-010-p5s9w3">
 <src.rf>manual</src.rf>
@@ -4424,7 +4424,7 @@
 <LM>w#w-lnd92258-010-p7s1w2</LM>
 </w.rf>
 <form>den</form>
-<tag lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="den-1_^(jednotka_času)" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-lnd92258-010-p7s1w3">
 <src.rf>manual</src.rf>

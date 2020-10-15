@@ -348,7 +348,7 @@
 <LM>w#w-ln95041-056-p2s1Bw33</LM>
 </w.rf>
 <form>Virginia</form>
-<tag lemma="Virginia_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Virginie_;G_;Y" src="orig" selected="1">NNFS1-----A---1</tag>
 </m>
 <m id="m-ln95041-056-p2s1Bw34">
 <src.rf>manual</src.rf>

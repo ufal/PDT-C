@@ -492,7 +492,7 @@
 <LM>w#w-lnd92252-082-p1s1Bw55</LM>
 </w.rf>
 <form>Vyšehrad</form>
-<tag lemma="Vyšehrad" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Vyšehrad_;G" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92252-082-p1s1Bw56">
 <src.rf>manual</src.rf>
@@ -680,7 +680,7 @@
 <LM>w#w-lnd92252-082-p3s1w3</LM>
 </w.rf>
 <form>Vyšehrad</form>
-<tag lemma="Vyšehrad" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Vyšehrad_;G" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92252-082-p3s1w4">
 <src.rf>manual</src.rf>

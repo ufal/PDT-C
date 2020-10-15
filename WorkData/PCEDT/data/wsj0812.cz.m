@@ -549,7 +549,7 @@
 </w.rf>
 <form>nejbohatších</form>
 <tag>
-<AM lemma="bohatý" src="auto" recommended="1">AAFP2----3A----</AM>
+<AM lemma="bohatý" src="auto" recommended="1">AAFP2----3A---1</AM>
 <AM lemma="bohatý" src="auto">AAFP6----3A----</AM>
 <AM lemma="bohatý" src="auto">AAIP2----3A----</AM>
 <AM lemma="bohatý" src="auto">AAIP6----3A----</AM>

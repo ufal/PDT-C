@@ -1440,7 +1440,7 @@
 <LM>w#w-ln94203-96-p4s1w21</LM>
 </w.rf>
 <form>vlastně</form>
-<tag lemma="vlastně-2_^(totiž)" src="orig" selected="1">Db-------------</tag>
+<tag lemma="vlastně-2" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94203-96-p4s1w22">
 <src.rf>manual</src.rf>
@@ -2787,7 +2787,7 @@
 <LM>w#w-ln94203-96-p4s6w32</LM>
 </w.rf>
 <form>spíš</form>
-<tag lemma="spíše" src="orig" selected="1">Dg-------2A----</tag>
+<tag lemma="spíš" src="orig" selected="1">TT-------------</tag>
 </m>
 <m id="m-ln94203-96-p4s6w33">
 <src.rf>manual</src.rf>
@@ -4316,7 +4316,7 @@
 <LM>w#w-ln94203-96-p5s7w1</LM>
 </w.rf>
 <form>CD</form>
-<tag lemma="CD-1_^(Audio/Data,_Compact_Disc)" src="auto" selected="1">NNNXX-----A---b</tag>
+<tag lemma="CD-1_^(Audio/Data,_Compactisc)" src="auto" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94203-96-p5s7w2">
 <src.rf>manual</src.rf>

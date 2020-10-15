@@ -511,7 +511,7 @@
 <LM>w#w-mf930702-075-p2s4w20</LM>
 </w.rf>
 <form>stát</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-mf930702-075-p2s4w21">
 <src.rf>manual</src.rf>
@@ -880,7 +880,7 @@
 <tag>
 <AM lemma="Belg_;E" src="orig">NNMS1-----A----</AM>
 <AM lemma="Belg_;G" src="manual">NNNXX-----A---8</AM>
-<AM lemma="Belg_;G" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="Belgie_;G" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930702-075-p3s1w37">
