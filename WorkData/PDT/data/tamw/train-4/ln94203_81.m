@@ -335,7 +335,7 @@
 <LM>w#w-ln94203-81-p2s1Bw29</LM>
 </w.rf>
 <form>gádžové</form>
-<tag lemma="gádža" src="auto" selected="1">NNMP1-----A----</tag>
+<tag lemma="gádža_,h" src="auto" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln94203-81-p2s1Bw30">
 <src.rf>manual</src.rf>

@@ -1112,7 +1112,7 @@
 <LM>w#w-ln95044-022-p3s4w10</LM>
 </w.rf>
 <form>Ančičkovi</form>
-<tag lemma="Ančička_;Y" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Ančička-2_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95044-022-p3s4w11">
 <src.rf>manual</src.rf>

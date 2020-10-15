@@ -1307,7 +1307,7 @@
 <LM>w#w-ln95049-083-p3s3w8</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAFS6----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAFS6----1A----</tag>
 </m>
 <m id="m-ln95049-083-p3s3w9">
 <src.rf>manual</src.rf>

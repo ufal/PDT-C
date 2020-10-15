@@ -1193,7 +1193,7 @@
 <LM>w#w-mf920901-061-p2s9w14</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAFS4----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-mf920901-061-p2s9w15">
 <src.rf>manual</src.rf>

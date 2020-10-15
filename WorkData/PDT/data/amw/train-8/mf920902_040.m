@@ -531,7 +531,7 @@
 <LM>w#w-mf920902-040-p1s2w13</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAIS4----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAIS4----1A----</tag>
 </m>
 <m id="m-mf920902-040-p1s2w14">
 <src.rf>manual</src.rf>

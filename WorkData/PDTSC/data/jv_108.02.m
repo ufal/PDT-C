@@ -215,7 +215,7 @@
 <form>karafiátky</form>
 <tag>
 <AM lemma="karafiátky" src="auto">X@-------------</AM>
-<AM lemma="karafiátek" src="manual" selected="1">NNIP1-----A----</AM>
+<AM lemma="karafiátek_,e" src="manual" selected="1">NNIP1-----A----</AM>
 </tag>
 </m>
 <m id="m108-276-279">

@@ -1053,7 +1053,7 @@
 <LM>w#w-mf930709-136-p4s1w30</LM>
 </w.rf>
 <form>Farraha</form>
-<tag lemma="Farrah_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Farrah-2_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930709-136-p4s1w31">
 <src.rf>manual</src.rf>

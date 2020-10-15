@@ -2089,7 +2089,7 @@
 <LM>w#w-mf920922-057-p2s11Aw9</LM>
 </w.rf>
 <form>vlastních</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AANP2----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AANP2----1A----</tag>
 </m>
 <m id="m-mf920922-057-p2s11Aw10">
 <src.rf>manual</src.rf>

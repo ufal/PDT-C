@@ -1594,7 +1594,7 @@
 <LM>w#w-lnd92251-096-p6s2w10</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAFS4----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-lnd92251-096-p6s2w11">
 <src.rf>manual</src.rf>

@@ -1930,7 +1930,7 @@
 <LM>w#w-mf920924-143-p2s11w25</LM>
 </w.rf>
 <form>vlastního</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AANS2----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AANS2----1A----</tag>
 </m>
 <m id="m-mf920924-143-p2s11w26">
 <src.rf>manual</src.rf>

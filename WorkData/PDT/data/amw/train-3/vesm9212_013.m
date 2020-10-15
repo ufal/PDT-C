@@ -2768,7 +2768,7 @@
 <LM>w#w-vesm9212-013-p9s1w5</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAIS4----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAIS4----1A----</tag>
 </m>
 <m id="m-vesm9212-013-p9s1w6">
 <src.rf>manual</src.rf>
@@ -3365,7 +3365,7 @@
 <LM>w#w-vesm9212-013-p10s2w2</LM>
 </w.rf>
 <form>hydrografa</form>
-<tag lemma="hydrograf" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="hydrograf-2" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-vesm9212-013-p10s2w3">
 <src.rf>manual</src.rf>
@@ -4418,7 +4418,7 @@
 <LM>w#w-vesm9212-013-p12s1w6</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAIS4----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAIS4----1A----</tag>
 </m>
 <m id="m-vesm9212-013-p12s1w7">
 <src.rf>manual</src.rf>

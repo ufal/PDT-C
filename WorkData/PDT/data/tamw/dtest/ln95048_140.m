@@ -1539,7 +1539,7 @@
 <LM>w#w-ln95048-140-p2s11w12</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAIP4----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAIP4----1A----</tag>
 </m>
 <m id="m-ln95048-140-p2s11w13">
 <src.rf>manual</src.rf>

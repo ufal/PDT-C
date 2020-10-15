@@ -109,7 +109,7 @@
 <LM>w#w-ln94209-20-p2s1Bw4</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAIS4----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAIS4----1A----</tag>
 </m>
 <m id="m-ln94209-20-p2s1Bw5">
 <src.rf>manual</src.rf>

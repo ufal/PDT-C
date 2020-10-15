@@ -680,7 +680,7 @@
 <LM>w#w-cmpr9410-009-p7s2w19</LM>
 </w.rf>
 <form>vlastním</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AANS7----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AANS7----1A----</tag>
 </m>
 <m id="m-cmpr9410-009-p7s2w20">
 <src.rf>manual</src.rf>

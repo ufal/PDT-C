@@ -302,7 +302,7 @@
 <LM>w#w-ln95043-094-p3s3w7</LM>
 </w.rf>
 <form>Benz</form>
-<tag lemma="Benz-1_;m_^(vozidlo)" src="auto" selected="1">NNIXX-----A----</tag>
+<tag lemma="Benz-2_;m" src="auto" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln95043-094-p3s3w8">
 <src.rf>manual</src.rf>
@@ -2034,7 +2034,7 @@
 <LM>w#w-ln95043-094-p5s5w27</LM>
 </w.rf>
 <form>Benz</form>
-<tag lemma="Benz-1_;m_^(vozidlo)" src="auto" selected="1">NNIXX-----A----</tag>
+<tag lemma="Benz-2_;m" src="auto" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln95043-094-p5s5w28">
 <src.rf>manual</src.rf>
@@ -2457,7 +2457,7 @@
 <LM>w#w-ln95043-094-p6s1w3</LM>
 </w.rf>
 <form>Benz</form>
-<tag lemma="Benz-1_;m_^(vozidlo)" src="auto" selected="1">NNIXX-----A----</tag>
+<tag lemma="Benz-2_;m" src="auto" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln95043-094-p6s1w4">
 <src.rf>manual</src.rf>

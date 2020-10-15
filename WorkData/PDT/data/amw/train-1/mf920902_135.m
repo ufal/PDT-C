@@ -764,7 +764,7 @@
 <LM>w#w-mf920902-135-p2s3w13</LM>
 </w.rf>
 <form>vlastního</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AANS2----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AANS2----1A----</tag>
 </m>
 <m id="m-mf920902-135-p2s3w14">
 <src.rf>manual</src.rf>

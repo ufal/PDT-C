@@ -2194,7 +2194,7 @@
 <LM>w#w-lnd92252-043-p7s1w6</LM>
 </w.rf>
 <form>Saida</form>
-<tag lemma="Said_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Said-2_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92252-043-p7s1w7">
 <src.rf>manual</src.rf>

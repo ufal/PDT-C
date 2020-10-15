@@ -1797,7 +1797,7 @@
 <LM>w#w-lnd92252-054-p4s4w42</LM>
 </w.rf>
 <form>léta</form>
-<tag lemma="rok" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="léto" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-lnd92252-054-p4s4w43">
 <src.rf>manual</src.rf>

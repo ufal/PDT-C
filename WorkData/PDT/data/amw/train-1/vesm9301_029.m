@@ -12018,7 +12018,7 @@
 <LM>w#w-vesm9301-029-p16s10w17</LM>
 </w.rf>
 <form>vlastním</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAIS7----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAIS7----1A----</tag>
 </m>
 <m id="m-vesm9301-029-p16s10w18">
 <src.rf>manual</src.rf>

@@ -1690,7 +1690,7 @@
 </w.rf>
 <form>Kingston</form>
 <tag>
-<AM lemma="Kingston_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Kingston-2_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="kingston" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="kingston" src="auto">NNIS4-----A----</AM>
 </tag>

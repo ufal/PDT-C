@@ -874,7 +874,7 @@
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFP1----1N----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFP4----1N----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFP5----1N----</AM>
-<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto" recommended="1">AAFS1----1N----</AM>
+<AM lemma="vlastní" src="auto" recommended="1">AAFS1----1N----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFS2----1N----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFS3----1N----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFS4----1N----</AM>

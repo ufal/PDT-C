@@ -84,7 +84,7 @@
 <form>Cockburna</form>
 <tag>
 <AM lemma="Cockburna" src="auto">X@-------------</AM>
-<AM lemma="Cockburn_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Cockburn-2_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0268-001-p1s0W8-Ta">
@@ -765,7 +765,7 @@
 <form>Cockburna</form>
 <tag>
 <AM lemma="Cockburna" src="auto">X@-------------</AM>
-<AM lemma="Cockburn_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Cockburn-2_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0268-001-p1s1W36-Ta">

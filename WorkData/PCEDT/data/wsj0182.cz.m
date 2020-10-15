@@ -995,7 +995,7 @@
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto" recommended="1">AAFS4----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFS5----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFS6----1A----</AM>
-<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAFS7----1A----</AM>
+<AM lemma="vlastní" src="auto" selected="1">AAFS7----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAIP1----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAIP4----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAIP5----1A----</AM>

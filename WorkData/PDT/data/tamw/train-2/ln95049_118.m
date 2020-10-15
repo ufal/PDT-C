@@ -1240,7 +1240,7 @@
 <LM>w#w-ln95049-118-p3s1w15</LM>
 </w.rf>
 <form>Newella</form>
-<tag lemma="Newell_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Newell-2_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95049-118-p3s1w16">
 <src.rf>manual</src.rf>

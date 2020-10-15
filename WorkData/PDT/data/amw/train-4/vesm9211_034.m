@@ -667,7 +667,7 @@
 <LM>w#w-vesm9211-034-p1s2w18</LM>
 </w.rf>
 <form>vlastních</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAIP2----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAIP2----1A----</tag>
 </m>
 <m id="m-vesm9211-034-p1s2w19">
 <src.rf>manual</src.rf>

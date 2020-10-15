@@ -93,7 +93,7 @@
 <LM>w#w-mf930701-122-p1s2w5</LM>
 </w.rf>
 <form>WIMBLEDONU</form>
-<tag lemma="Wimbledon" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Wimbledon_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-mf930701-122-p1s2w6">
 <src.rf>manual</src.rf>
@@ -3750,7 +3750,7 @@
 <LM>w#w-mf930701-122-p7s1w46</LM>
 </w.rf>
 <form>vlastním</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AANS6----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AANS6----1A----</tag>
 </m>
 <m id="m-mf930701-122-p7s1w47">
 <src.rf>manual</src.rf>

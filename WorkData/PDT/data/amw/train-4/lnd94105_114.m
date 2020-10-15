@@ -1154,7 +1154,7 @@
 <LM>w#w-lnd94105-114-p1s6w11</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAIS4----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAIS4----1A----</tag>
 </m>
 <m id="m-lnd94105-114-p1s6w12">
 <src.rf>manual</src.rf>
@@ -1205,7 +1205,7 @@
 <LM>w#w-lnd94105-114-p1s6w17</LM>
 </w.rf>
 <form>Coruňa</form>
-<tag lemma="Coruňa_;G_;m" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Coruňa_;G_;Y_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94105-114-p1s6w18">
 <src.rf>manual</src.rf>
@@ -1463,7 +1463,7 @@
 <LM>w#w-lnd94105-114-p1s7w16</LM>
 </w.rf>
 <form>vlastnímu</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAIS3----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAIS3----1A----</tag>
 </m>
 <m id="m-lnd94105-114-p1s7w17">
 <src.rf>manual</src.rf>

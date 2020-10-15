@@ -94,7 +94,7 @@
 </w.rf>
 <form>Brioni</form>
 <tag>
-<AM lemma="Brioni_;G" src="orig" selected="1">NNNXX-----A----</AM>
+<AM lemma="Brioni-2_;G" src="orig" selected="1">NNNXX-----A----</AM>
 <AM lemma="Brioni_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Brioni_;Y" src="auto">NNMS5-----A----</AM>
 </tag>

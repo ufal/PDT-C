@@ -1069,7 +1069,7 @@
 <LM>w#w-mf930708-077-p2s7w3</LM>
 </w.rf>
 <form>Marcusu</form>
-<tag lemma="Marcus_;m" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Marcus-2_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930708-077-p2s7w4">
 <src.rf>manual</src.rf>
@@ -4566,7 +4566,7 @@
 <LM>w#w-mf930708-077-p8s5w2</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAFS6----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAFS6----1A----</tag>
 </m>
 <m id="m-mf930708-077-p8s5w3">
 <src.rf>manual</src.rf>

@@ -1982,7 +1982,7 @@
 <LM>w#w-vesm9301-043-p5s2w19</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAIP4----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAIP4----1A----</tag>
 </m>
 <m id="m-vesm9301-043-p5s2w20">
 <src.rf>manual</src.rf>

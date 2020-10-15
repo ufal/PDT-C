@@ -56,7 +56,7 @@
 <LM>w#w-ln94200-149-p2s1Aw2</LM>
 </w.rf>
 <form>Coruňa</form>
-<tag lemma="Coruňa_;G_;m" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Coruňa_;G_;Y_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94200-149-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -192,7 +192,7 @@
 <LM>w#w-ln94200-149-p2s1Bw15</LM>
 </w.rf>
 <form>Coruňa</form>
-<tag lemma="Coruňa_;G_;m" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Coruňa_;G_;Y_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94200-149-p2s1Bw16">
 <src.rf>manual</src.rf>

@@ -3059,7 +3059,7 @@
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAIP4----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAIP5----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAIS1----1A----</AM>
-<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto" recommended="1">AAIS4----1A----</AM>
+<AM lemma="vlastní" src="auto" recommended="1">AAIS4----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAIS5----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAMP1----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAMP4----1A----</AM>
@@ -3153,7 +3153,7 @@
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAMS7----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AANP3----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AANS6----1A----</AM>
-<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto" recommended="1">AANS7----1A----</AM>
+<AM lemma="vlastní" src="auto" recommended="1">AANS7----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj1831-001-p1s10W12-Ta">

@@ -163,7 +163,7 @@
 <form>Sajaka</form>
 <tag>
 <AM lemma="Sajaka" src="auto">X@-------------</AM>
-<AM lemma="Sajak_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Sajak-2_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2395-001-p1s0W14-Ta">
@@ -1468,7 +1468,7 @@
 <form>Sajakově</form>
 <tag>
 <AM lemma="Sajakově" src="auto">X@-------------</AM>
-<AM lemma="Sajakův_;Y_^(*2)" src="manual" selected="1">AUFS6M---------</AM>
+<AM lemma="Sajakův-2_;Y_^(*4-2)" src="manual" selected="1">AUFS6M---------</AM>
 </tag>
 </m>
 <m id="m-wsj2395-001-p1s4W13-Ta">

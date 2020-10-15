@@ -43,7 +43,7 @@
 <LM>w#w-ln94211-6-p1s1w4</LM>
 </w.rf>
 <form>vlastním</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAIS7----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAIS7----1A----</tag>
 </m>
 <m id="m-ln94211-6-p1s1w5">
 <src.rf>manual</src.rf>
@@ -1105,7 +1105,7 @@
 <LM>w#w-ln94211-6-p4s1w8</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAIS4----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAIS4----1A----</tag>
 </m>
 <m id="m-ln94211-6-p4s1w9">
 <src.rf>manual</src.rf>

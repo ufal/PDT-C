@@ -3697,7 +3697,7 @@
 <LM>w#w-mf930709-101-p2s33w4</LM>
 </w.rf>
 <form>Mezzany</form>
-<tag lemma="Mezzana_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Mezzana-2_;G" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930709-101-p2s33w5">
 <src.rf>manual</src.rf>

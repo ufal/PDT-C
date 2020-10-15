@@ -2357,7 +2357,7 @@
 <AM lemma="vlastnit_^(někdo_má_něco_ve_vlastnictví)" src="auto">VB-P---3P-AAI--</AM>
 <AM lemma="vlastnit_^(někdo_má_něco_ve_vlastnictví)" src="auto">VB-S---3P-AAI--</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFP1----1A----</AM>
-<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto" recommended="1">AAFP4----1A----</AM>
+<AM lemma="vlastní" src="auto" recommended="1">AAFP4----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFP5----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFS1----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFS2----1A----</AM>
@@ -2516,7 +2516,7 @@
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFS1----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFS2----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFS3----1A----</AM>
-<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto" recommended="1">AAFS4----1A----</AM>
+<AM lemma="vlastní" src="auto" recommended="1">AAFS4----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFS5----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFS6----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFS7----1A----</AM>
@@ -2686,7 +2686,7 @@
 <AM lemma="vlastnit_^(někdo_má_něco_ve_vlastnictví)" src="auto">VB-P---3P-AAI--</AM>
 <AM lemma="vlastnit_^(někdo_má_něco_ve_vlastnictví)" src="auto">VB-S---3P-AAI--</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFP1----1A----</AM>
-<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto" recommended="1">AAFP4----1A----</AM>
+<AM lemma="vlastní" src="auto" recommended="1">AAFP4----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFP5----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFS1----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFS2----1A----</AM>

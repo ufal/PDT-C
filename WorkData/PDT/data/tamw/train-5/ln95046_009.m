@@ -868,7 +868,7 @@
 <LM>w#w-ln95046-009-p3s3w15</LM>
 </w.rf>
 <form>vlastních</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAIP2----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAIP2----1A----</tag>
 </m>
 <m id="m-ln95046-009-p3s3w16">
 <src.rf>manual</src.rf>

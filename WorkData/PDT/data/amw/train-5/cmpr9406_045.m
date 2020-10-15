@@ -1459,7 +1459,7 @@
 <LM>w#w-cmpr9406-045-p8s6w7</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AANP4----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AANP4----1A----</tag>
 </m>
 <m id="m-cmpr9406-045-p8s6w8">
 <src.rf>manual</src.rf>
@@ -3118,7 +3118,7 @@
 <LM>w#w-cmpr9406-045-p17s2w3</LM>
 </w.rf>
 <form>vlastně</form>
-<tag lemma="vlastně_^(příslušný_k_něčemu)_(*1í)" src="auto" selected="1">Dg-------1A----</tag>
+<tag lemma="vlastně_^(*1í)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-cmpr9406-045-p17s2w4">
 <src.rf>manual</src.rf>

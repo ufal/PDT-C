@@ -2217,7 +2217,7 @@
 <LM>w#w-ln94202-79-p4s3w21</LM>
 </w.rf>
 <form>vlastních</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAFP6----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAFP6----1A----</tag>
 </m>
 <m id="m-ln94202-79-p4s3w22">
 <src.rf>manual</src.rf>

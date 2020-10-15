@@ -4640,7 +4640,7 @@
 <LM>w#w-lnd92253-069-p10s2w3</LM>
 </w.rf>
 <form>Coruňa</form>
-<tag lemma="Coruňa_;G_;m" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Coruňa_;G_;Y_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92253-069-p10s2w4">
 <src.rf>manual</src.rf>

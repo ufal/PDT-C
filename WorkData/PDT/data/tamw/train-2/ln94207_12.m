@@ -524,7 +524,7 @@
 <LM>w#w-ln94207-12-p2s3w6</LM>
 </w.rf>
 <form>vlastních</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AANP2----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AANP2----1A----</tag>
 </m>
 <m id="m-ln94207-12-p2s3w7">
 <src.rf>manual</src.rf>

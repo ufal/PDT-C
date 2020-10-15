@@ -93,7 +93,7 @@
 <LM>w#w-mf930703-115-p2s1w8</LM>
 </w.rf>
 <form>Wimbledonu</form>
-<tag lemma="Wimbledon" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Wimbledon_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 </s>
 <s id="m-mf930703-115-p3s1">

@@ -10581,7 +10581,7 @@
 <LM>w#w-cmpr9417-010-p53s2w26</LM>
 </w.rf>
 <form>vlastně</form>
-<tag lemma="vlastně_^(příslušný_k_něčemu)_(*1í)" src="auto" selected="1">Dg-------1A----</tag>
+<tag lemma="vlastně_^(*1í)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-cmpr9417-010-p53s2w27">
 <src.rf>manual</src.rf>

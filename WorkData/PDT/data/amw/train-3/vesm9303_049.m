@@ -2974,7 +2974,7 @@
 <LM>w#w-vesm9303-049-p3s12w27</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAMP4----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAMP4----1A----</tag>
 </m>
 <m id="m-vesm9303-049-p3s12w28">
 <src.rf>manual</src.rf>

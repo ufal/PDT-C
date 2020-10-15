@@ -320,7 +320,7 @@
 <LM>w#w-lnd91301-004-p3s2w27</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAFS4----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-lnd91301-004-p3s2w28">
 <src.rf>manual</src.rf>

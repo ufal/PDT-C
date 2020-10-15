@@ -2480,7 +2480,7 @@
 <LM>w#w-ln95042-003-p7s1w21</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAFS7----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAFS7----1A----</tag>
 </m>
 <m id="m-ln95042-003-p7s1w22">
 <src.rf>manual</src.rf>

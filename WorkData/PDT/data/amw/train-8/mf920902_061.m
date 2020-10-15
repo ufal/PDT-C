@@ -1101,7 +1101,7 @@
 <LM>w#w-mf920902-061-p2s5w11</LM>
 </w.rf>
 <form>Adenikenovi</form>
-<tag lemma="Adeniken_;Y" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Adeniken-2_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-mf920902-061-p2s5w12">
 <src.rf>manual</src.rf>

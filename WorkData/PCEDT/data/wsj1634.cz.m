@@ -10501,7 +10501,7 @@
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AANP4----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AANP5----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AANS1----1A----</AM>
-<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto" recommended="1">AANS4----1A----</AM>
+<AM lemma="vlastní" src="auto" recommended="1">AANS4----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AANS5----1A----</AM>
 </tag>
 </m>
@@ -18450,7 +18450,7 @@
 <form>Chica</form>
 <tag>
 <AM lemma="Chica" src="auto">X@-------------</AM>
-<AM lemma="Chico_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Chico-1_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1634-001-p1s72W23-Ta">
@@ -19354,7 +19354,7 @@
 <form>Chica</form>
 <tag>
 <AM lemma="Chica" src="auto">X@-------------</AM>
-<AM lemma="Chico_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Chico-1_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1634-001-p1s77W7-Ta">
@@ -29728,7 +29728,7 @@
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAIS2----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAMS2----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAMS4----1A----</AM>
-<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto" recommended="1">AANS2----1A----</AM>
+<AM lemma="vlastní" src="auto" recommended="1">AANS2----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj1634-001-p1s114W28-Ta">
@@ -31683,7 +31683,7 @@
 <AM lemma="vlastnit_^(někdo_má_něco_ve_vlastnictví)" src="auto">VB-S---1P-AAI--</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFP3----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAIP3----1A----</AM>
-<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto" recommended="1">AAIS6----1A----</AM>
+<AM lemma="vlastní" src="auto" recommended="1">AAIS6----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAIS7----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAMP3----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAMS6----1A----</AM>

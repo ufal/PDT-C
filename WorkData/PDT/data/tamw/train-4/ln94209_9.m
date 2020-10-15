@@ -359,7 +359,7 @@
 <LM>w#w-ln94209-9-p2s1Cw18</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAIP4----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAIP4----1A----</tag>
 </m>
 <m id="m-ln94209-9-p2s1Cw19">
 <src.rf>manual</src.rf>

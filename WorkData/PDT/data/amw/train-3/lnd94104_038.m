@@ -353,7 +353,7 @@
 <LM>w#w-lnd94104-038-p1s4w3</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAIS4----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAIS4----1A----</tag>
 </m>
 <m id="m-lnd94104-038-p1s4w4">
 <src.rf>manual</src.rf>
@@ -393,7 +393,7 @@
 <LM>w#w-lnd94104-038-p1s4w8</LM>
 </w.rf>
 <form>vlastního</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAIS2----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-lnd94104-038-p1s4w9">
 <src.rf>manual</src.rf>
@@ -1063,7 +1063,7 @@
 <form>vlastní</form>
 <tag>
 <AM lemma="vlastnit_^(někdo_má_něco_ve_vlastnictví)" src="orig">VB-P---3P-AAI--</AM>
-<AM lemma="vlastní_^(příslušný_k_něčemu)" src="manual" selected="1">AAFS3----1A----</AM>
+<AM lemma="vlastní" src="manual" selected="1">AAFS3----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-038-p1s9w19">
@@ -1277,7 +1277,7 @@
 <LM>w#w-lnd94104-038-p1s10w24</LM>
 </w.rf>
 <form>vlastním</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAIP3----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAIP3----1A----</tag>
 </m>
 <m id="m-lnd94104-038-p1s10w25">
 <src.rf>manual</src.rf>

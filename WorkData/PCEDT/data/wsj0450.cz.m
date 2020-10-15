@@ -3028,7 +3028,7 @@
 <form>Chestera</form>
 <tag>
 <AM lemma="Chestera" src="auto">X@-------------</AM>
-<AM lemma="Chester_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Chester-2_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0450-001-p1s6W49-Ta">

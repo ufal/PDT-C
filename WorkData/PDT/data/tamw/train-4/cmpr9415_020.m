@@ -111,7 +111,7 @@
 <LM>w#w-cmpr9415-020-p7s1w5</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAIP1----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAIP1----1A----</tag>
 </m>
 <m id="m-cmpr9415-020-p7s1w6">
 <src.rf>manual</src.rf>

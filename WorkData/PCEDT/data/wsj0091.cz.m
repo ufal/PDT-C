@@ -650,7 +650,7 @@
 <AM lemma="Bellův-1_;Y_^(*4a-1)" src="auto">AUIS1M---------</AM>
 <AM lemma="Bellův-1_;Y_^(*4a-1)" src="auto">AUIS4M---------</AM>
 <AM lemma="Bellův-1_;Y_^(*4a-1)" src="auto">AUIS5M---------</AM>
-<AM lemma="Bellův_;Y_^(*2)_(*2a-1)" src="auto" recommended="1">AUMS1M---------</AM>
+<AM lemma="Bellův_;Y_^(*2)_(*2a-1)_(*2o-2)" src="auto" recommended="1">AUMS1M---------</AM>
 <AM lemma="Bellův-1_;Y_^(*4a-1)" src="auto">AUMS5M---------</AM>
 <AM lemma="Bellův_;Y_^(*2)" src="auto">AUIS1M---------</AM>
 <AM lemma="Bellův_;Y_^(*2)" src="auto">AUIS4M---------</AM>
@@ -1202,7 +1202,7 @@
 <AM lemma="Bellův-1_;Y_^(*4a-1)" src="auto">AUFP4M---------</AM>
 <AM lemma="Bellův-1_;Y_^(*4a-1)" src="auto">AUFP5M---------</AM>
 <AM lemma="Bellův-1_;Y_^(*4a-1)" src="auto">AUFS2M---------</AM>
-<AM lemma="Bellův_;Y_^(*2)_(*2a-1)" src="auto" recommended="1">AUIP1M---------</AM>
+<AM lemma="Bellův_;Y_^(*2)_(*2a-1)_(*2o-2)" src="auto" recommended="1">AUIP1M---------</AM>
 <AM lemma="Bellův-1_;Y_^(*4a-1)" src="auto">AUIP4M---------</AM>
 <AM lemma="Bellův-1_;Y_^(*4a-1)" src="auto">AUIP5M---------</AM>
 <AM lemma="Bellův-1_;Y_^(*4a-1)" src="auto">AUMP4M---------</AM>

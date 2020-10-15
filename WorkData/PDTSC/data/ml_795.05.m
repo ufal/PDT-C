@@ -5220,7 +5220,7 @@
 <tag>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAIS2----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAMS2----1A----</AM>
-<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto" recommended="1">AAMS4----1A----</AM>
+<AM lemma="vlastní" src="auto" recommended="1">AAMS4----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AANS2----1A----</AM>
 </tag>
 </m>

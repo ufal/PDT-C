@@ -13868,7 +13868,7 @@
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFP7----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAIP7----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAMP7----1A----</AM>
-<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto" recommended="1">AANP7----1A----</AM>
+<AM lemma="vlastní" src="auto" recommended="1">AANP7----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj1375-001-p1s39W30-Ta">

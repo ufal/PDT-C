@@ -5452,7 +5452,7 @@
 <LM>w#w-vesm9211-042-p6s3w10</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAFS2----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-vesm9211-042-p6s3w11">
 <src.rf>manual</src.rf>
@@ -9867,7 +9867,7 @@
 <LM>w#w-vesm9211-042-p9s4w22</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAFS2----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-vesm9211-042-p9s4w23">
 <src.rf>manual</src.rf>

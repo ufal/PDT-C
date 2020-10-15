@@ -23862,7 +23862,7 @@
 <LM>w#w-ln94201-95-p32s1w7</LM>
 </w.rf>
 <form>vlastními</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAFP7----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAFP7----1A----</tag>
 </m>
 <m id="m-ln94201-95-p32s1w8">
 <src.rf>manual</src.rf>
@@ -25220,7 +25220,7 @@
 <LM>w#w-ln94201-95-p36s2w10</LM>
 </w.rf>
 <form>vlastním</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAIP3----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAIP3----1A----</tag>
 </m>
 <m id="m-ln94201-95-p36s2w11">
 <src.rf>manual</src.rf>

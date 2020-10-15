@@ -3889,7 +3889,7 @@
 <LM>w#w-ln94208-100-p6s5w11</LM>
 </w.rf>
 <form>vlastního</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AANS2----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AANS2----1A----</tag>
 </m>
 <m id="m-ln94208-100-p6s5w12">
 <src.rf>manual</src.rf>

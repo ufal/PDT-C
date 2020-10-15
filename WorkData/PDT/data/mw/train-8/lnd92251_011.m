@@ -604,7 +604,7 @@
 <LM>w#w-lnd92251-011-p3s2w63</LM>
 </w.rf>
 <form>vlastního</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAIS2----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-lnd92251-011-p3s2w64">
 <src.rf>manual</src.rf>

@@ -2411,7 +2411,7 @@
 <AM lemma="Tonkinovým" src="auto">X@-------------</AM>
 <AM lemma="Tonkinův-2_;Y_^(*4-2)" src="manual">AAIS7----1A----</AM>
 <AM lemma="Tonkinův-2_;Y_^(*4-2)" src="manual">AAIS7----1A----</AM>
-<AM lemma="Tonkinův-2_;Y" src="manual" selected="1">AUIS7M---------</AM>
+<AM lemma="Tonkinův-2_;Y_^(*4-2)" src="manual" selected="1">AUIS7M---------</AM>
 </tag>
 </m>
 <m id="m-wsj0618-001-p1s6W5-Ta">
@@ -2655,7 +2655,7 @@
 <tag>
 <AM lemma="Tonkinův" src="auto">X@-------------</AM>
 <AM lemma="Tonkinův-2_;Y_^(*4-2)" src="manual">AAIS4----1A----</AM>
-<AM lemma="Tonkinův-2_;Y" src="manual" selected="1">AUIS4M---------</AM>
+<AM lemma="Tonkinův-2_;Y_^(*4-2)" src="manual" selected="1">AUIS4M---------</AM>
 </tag>
 </m>
 <m id="m-wsj0618-001-p1s7W13-Ta">

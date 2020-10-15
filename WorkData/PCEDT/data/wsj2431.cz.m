@@ -3621,7 +3621,7 @@
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAIS2----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAMS2----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAMS4----1A----</AM>
-<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto" recommended="1">AANS2----1A----</AM>
+<AM lemma="vlastní" src="auto" recommended="1">AANS2----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj2431-001-p1s9W28-Ta">

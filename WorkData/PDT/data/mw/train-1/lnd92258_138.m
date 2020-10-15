@@ -2702,7 +2702,7 @@
 <LM>w#w-lnd92258-138-p7s1w24</LM>
 </w.rf>
 <form>vlastním</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AANS6----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AANS6----1A----</tag>
 </m>
 <m id="m-lnd92258-138-p7s1w25">
 <src.rf>manual</src.rf>
@@ -4185,7 +4185,7 @@
 <LM>w#w-lnd92258-138-p8s1w18</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAIS1----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-lnd92258-138-p8s1w19">
 <src.rf>manual</src.rf>

@@ -4063,7 +4063,7 @@
 <LM>w#w-vesm9211-033-p6s2w4</LM>
 </w.rf>
 <form>Lommela</form>
-<tag lemma="Lommel_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Lommel-2_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-vesm9211-033-p6s2w5">
 <src.rf>manual</src.rf>

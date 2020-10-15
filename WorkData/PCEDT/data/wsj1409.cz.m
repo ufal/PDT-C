@@ -1127,7 +1127,7 @@
 <form>Sajaka</form>
 <tag>
 <AM lemma="Sajaka" src="auto">X@-------------</AM>
-<AM lemma="Sajak_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Sajak-2_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1409-001-p1s3W14-Ta">

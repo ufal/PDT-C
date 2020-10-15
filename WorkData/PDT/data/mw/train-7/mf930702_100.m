@@ -1918,7 +1918,7 @@
 <form>OK</form>
 <tag>
 <AM lemma="oko" src="orig">NNNP2-----A----</AM>
-<AM lemma="Ok-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="OK-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 </s>
@@ -2717,7 +2717,7 @@
 <LM>w#w-mf930702-100-p77s1w2</LM>
 </w.rf>
 <form>Wimbledon</form>
-<tag lemma="Wimbledon" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Wimbledon_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930702-100-p77s1w3">
 <src.rf>manual</src.rf>

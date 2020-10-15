@@ -3206,7 +3206,7 @@
 <LM>w#w-ln94205-130-p4s7w6</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAIS4----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAIS4----1A----</tag>
 </m>
 <m id="m-ln94205-130-p4s7w7">
 <src.rf>manual</src.rf>
@@ -4415,7 +4415,7 @@
 <LM>w#w-ln94205-130-p5s5w9</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AANS4----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AANS4----1A----</tag>
 </m>
 <m id="m-ln94205-130-p5s5w10">
 <src.rf>manual</src.rf>

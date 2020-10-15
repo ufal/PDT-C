@@ -4516,7 +4516,7 @@
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFS1----1N----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFS2----1N----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFS3----1N----</AM>
-<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto" recommended="1">AAFS4----1N----</AM>
+<AM lemma="vlastní" src="auto" recommended="1">AAFS4----1N----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFS5----1N----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFS6----1N----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFS7----1N----</AM>

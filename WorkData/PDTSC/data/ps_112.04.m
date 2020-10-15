@@ -279,7 +279,7 @@
 <tag>
 <AM lemma="vlastnit_^(někdo_má_něco_ve_vlastnictví)" src="auto">VB-P---3P-NAI--</AM>
 <AM lemma="vlastnit_^(někdo_má_něco_ve_vlastnictví)" src="auto">VB-S---3P-NAI--</AM>
-<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto" recommended="1">AAFP1----1N----</AM>
+<AM lemma="vlastní" src="auto" recommended="1">AAFP1----1N----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFP4----1N----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFP5----1N----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFS1----1N----</AM>
@@ -2375,7 +2375,7 @@
 <form>nevlastním</form>
 <tag>
 <AM lemma="vlastnit_^(někdo_má_něco_ve_vlastnictví)" src="auto">VB-S---1P-NAI--</AM>
-<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto" recommended="1">AAFP3----1N----</AM>
+<AM lemma="vlastní" src="auto" recommended="1">AAFP3----1N----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAIP3----1N----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAIS6----1N----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAIS7----1N----</AM>

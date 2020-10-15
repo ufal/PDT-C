@@ -2873,7 +2873,7 @@
 <tag>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFP2----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFP6----1A----</AM>
-<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto" recommended="1">AAIP2----1A----</AM>
+<AM lemma="vlastní" src="auto" recommended="1">AAIP2----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAIP6----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAMP2----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAMP6----1A----</AM>

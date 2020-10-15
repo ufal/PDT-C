@@ -490,7 +490,7 @@
 <LM>w#w-ln94211-53-p3s2w2</LM>
 </w.rf>
 <form>vlastních</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AANP2----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AANP2----1A----</tag>
 </m>
 <m id="m-ln94211-53-p3s2w3">
 <src.rf>manual</src.rf>

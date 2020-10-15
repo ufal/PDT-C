@@ -5638,7 +5638,7 @@
 <form>nezbytných</form>
 <tag>
 <AM lemma="zbytný" src="orig">AAFP2----1N----</AM>
-<AM lemma="nezbytný" src="manual" selected="1">AAFP2----1N----</AM>
+<AM lemma="zbytný" src="manual" selected="1">AAFP2----1N----</AM>
 </tag>
 </m>
 <m id="m-mf920922-103-p2s32Bw15">

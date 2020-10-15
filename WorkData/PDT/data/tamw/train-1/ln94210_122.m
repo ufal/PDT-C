@@ -6639,7 +6639,7 @@
 <LM>w#w-ln94210-122-p5s6w28</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAFS7----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAFS7----1A----</tag>
 </m>
 <m id="m-ln94210-122-p5s6w29">
 <src.rf>manual</src.rf>

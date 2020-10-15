@@ -1744,7 +1744,7 @@
 <LM>w#w-vesm9211-031-p6s2w30</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AANS4----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AANS4----1A----</tag>
 </m>
 <m id="m-vesm9211-031-p6s2w31">
 <src.rf>manual</src.rf>
@@ -8432,7 +8432,7 @@
 <LM>w#w-vesm9211-031-p25s2w11</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AANS1----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AANS1----1A----</tag>
 </m>
 <m id="m-vesm9211-031-p25s2w12">
 <src.rf>manual</src.rf>
@@ -10572,7 +10572,7 @@
 <LM>w#w-vesm9211-031-p31s1w15</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AANS1----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AANS1----1A----</tag>
 </m>
 <m id="m-vesm9211-031-p31s1w16">
 <src.rf>manual</src.rf>

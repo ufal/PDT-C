@@ -1636,7 +1636,7 @@
 <form>Wimbledon</form>
 <tag>
 <AM lemma="Wimbledon-2_^(tenis._turnaj)" src="orig">NNIS1-----A----</AM>
-<AM lemma="Wimbledon" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Wimbledon_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-120-p4s2w29">
@@ -3490,7 +3490,7 @@
 </w.rf>
 <form>Saidovy</form>
 <tag>
-<AM lemma="Saidův_;Y_^(*2)" src="orig" selected="1">AUFS2M---------</AM>
+<AM lemma="Saidův-2_;Y_^(*4-2)" src="orig" selected="1">AUFS2M---------</AM>
 <AM lemma="Saidov_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Saidov_;Y" src="auto" recommended="1">NNMP7-----A----</AM>
 </tag>
@@ -3626,7 +3626,7 @@
 <form>Wimbledon</form>
 <tag>
 <AM lemma="Wimbledon-2_^(tenis._turnaj)" src="orig">NNIS1-----A----</AM>
-<AM lemma="Wimbledon" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Wimbledon_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-120-p9s2w34">

@@ -2913,7 +2913,7 @@
 <LM>w#w-vesm9212-010-p5s2w9</LM>
 </w.rf>
 <form>vlastním</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AANS7----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AANS7----1A----</tag>
 </m>
 <m id="m-vesm9212-010-p5s2w10">
 <src.rf>manual</src.rf>

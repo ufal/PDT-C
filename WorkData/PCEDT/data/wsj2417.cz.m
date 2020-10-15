@@ -9156,7 +9156,7 @@
 <tag>
 <AM lemma="vilejšovi" src="auto">X@-------------</AM>
 <AM lemma="vilejš_;U" src="manual">NNIS3-----A---1</AM>
-<AM lemma="vilejš_;U" src="manual" selected="1">NNMS3-----A---1</AM>
+<AM lemma="vilejš" src="manual" selected="1">NNMS3-----A---1</AM>
 </tag>
 </m>
 <m id="m-wsj2417-001-p1s32W30-Ta">
@@ -10094,7 +10094,7 @@
 <form>superregulátora</form>
 <tag>
 <AM lemma="superregulátora" src="auto">X@-------------</AM>
-<AM lemma="superregulátor" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="superregulátor-2" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2417-001-p1s35W31-Ta">
@@ -21801,7 +21801,7 @@
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFS1----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFS2----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFS3----1A----</AM>
-<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto" recommended="1">AAFS4----1A----</AM>
+<AM lemma="vlastní" src="auto" recommended="1">AAFS4----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFS5----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFS6----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFS7----1A----</AM>

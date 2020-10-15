@@ -1300,7 +1300,7 @@
 <LM>w#w-ln94210-55-p4s5w6</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAFP4----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAFP4----1A----</tag>
 </m>
 <m id="m-ln94210-55-p4s5w7">
 <src.rf>manual</src.rf>

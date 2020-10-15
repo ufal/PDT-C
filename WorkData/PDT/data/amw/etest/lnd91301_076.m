@@ -276,7 +276,7 @@
 </w.rf>
 <form>Alfredo</form>
 <tag>
-<AM lemma="Alfredo_;Y" src="orig" selected="1">NNMXX-----A----</AM>
+<AM lemma="Alfredo_;Y_,s_^(^DD**Alfrédo)" src="orig" selected="1">NNMXX-----A----</AM>
 <AM lemma="Alfredo_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Alfredo_;Y_,t" src="auto">NNMS5-----A----</AM>
 </tag>

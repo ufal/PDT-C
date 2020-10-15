@@ -146,7 +146,7 @@
 <LM>w#w-ln95047-122-p2s1Bw10</LM>
 </w.rf>
 <form>Yorkshiru</form>
-<tag lemma="Yorkshire_;G" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Yorkshire-1_;G" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln95047-122-p2s1Bw11">
 <src.rf>manual</src.rf>

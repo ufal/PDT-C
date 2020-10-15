@@ -1003,7 +1003,7 @@
 <AM lemma="Beatrice-2_;G" src="auto">NNFS1-----A----</AM>
 <AM lemma="Beatrice-2_;G" src="auto">NNFS2-----A----</AM>
 <AM lemma="Beatrice-2_;G" src="auto">NNFS5-----A----</AM>
-<AM lemma="Beatrice-1_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Beatrice_;G_;Y_;m" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1390-001-p1s2W31-Ta">
@@ -12016,7 +12016,7 @@
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFS1----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFS2----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFS3----1A----</AM>
-<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto" recommended="1">AAFS4----1A----</AM>
+<AM lemma="vlastní" src="auto" recommended="1">AAFS4----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFS5----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFS6----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFS7----1A----</AM>

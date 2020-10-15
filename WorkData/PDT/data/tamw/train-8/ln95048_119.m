@@ -1223,7 +1223,7 @@
 <LM>w#w-ln95048-119-p3s5w8</LM>
 </w.rf>
 <form>vlastními</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AANP7----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AANP7----1A----</tag>
 </m>
 <m id="m-ln95048-119-p3s5w9">
 <src.rf>manual</src.rf>

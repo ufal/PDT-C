@@ -191,7 +191,7 @@
 <LM>w#w-cmpr9417-003-p4s1w8</LM>
 </w.rf>
 <form>vlastně</form>
-<tag lemma="vlastně_^(příslušný_k_něčemu)_(*1í)" src="auto" selected="1">Dg-------1A----</tag>
+<tag lemma="vlastně_^(*1í)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-cmpr9417-003-p4s1w9">
 <src.rf>manual</src.rf>
@@ -6036,7 +6036,7 @@
 <LM>w#w-cmpr9417-003-p28s1w15</LM>
 </w.rf>
 <form>vlastně</form>
-<tag lemma="vlastně_^(příslušný_k_něčemu)_(*1í)" src="auto" selected="1">Dg-------1A----</tag>
+<tag lemma="vlastně_^(*1í)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-cmpr9417-003-p28s1w16">
 <src.rf>manual</src.rf>

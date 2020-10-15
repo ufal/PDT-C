@@ -2001,7 +2001,7 @@
 <LM>w#w-ln94210-126-p6s4w18</LM>
 </w.rf>
 <form>vlastních</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AANP2----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AANP2----1A----</tag>
 </m>
 <m id="m-ln94210-126-p6s4w19">
 <src.rf>manual</src.rf>

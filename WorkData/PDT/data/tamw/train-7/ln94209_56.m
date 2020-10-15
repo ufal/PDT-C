@@ -4698,7 +4698,7 @@
 <LM>w#w-ln94209-56-p5s20w9</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAFS2----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-ln94209-56-p5s20w10">
 <src.rf>manual</src.rf>
@@ -10380,7 +10380,7 @@
 <LM>w#w-ln94209-56-p7s43w2</LM>
 </w.rf>
 <form>Umbovi</form>
-<tag lemma="Umba_;Y" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Umba-2_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln94209-56-p7s43w3">
 <src.rf>manual</src.rf>

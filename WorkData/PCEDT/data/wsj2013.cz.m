@@ -6638,7 +6638,7 @@
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFS4----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFS5----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFS6----1A----</AM>
-<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto" recommended="1">AAFS7----1A----</AM>
+<AM lemma="vlastní" src="auto" recommended="1">AAFS7----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAIP1----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAIP4----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAIP5----1A----</AM>
@@ -6988,7 +6988,7 @@
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AANP4----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AANP5----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AANS1----1A----</AM>
-<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto" recommended="1">AANS4----1A----</AM>
+<AM lemma="vlastní" src="auto" recommended="1">AANS4----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AANS5----1A----</AM>
 </tag>
 </m>
@@ -9448,7 +9448,7 @@
 <tag>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAIS2----1N----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto" recommended="1">AAMS2----1N----</AM>
-<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAMS4----1N----</AM>
+<AM lemma="vlastní" src="auto" selected="1">AAMS4----1N----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AANS2----1N----</AM>
 </tag>
 </m>
@@ -31407,7 +31407,7 @@
 <form>Carltona</form>
 <tag>
 <AM lemma="Carltona" src="auto">X@-------------</AM>
-<AM lemma="Carlton_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Carlton-2_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2013-001-p1s123W4-Ta">

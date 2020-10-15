@@ -5188,7 +5188,7 @@
 <LM>w#w-ln94200-155-p8s6w10</LM>
 </w.rf>
 <form>vlastními</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAFP7----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAFP7----1A----</tag>
 </m>
 <m id="m-ln94200-155-p8s6w11">
 <src.rf>manual</src.rf>

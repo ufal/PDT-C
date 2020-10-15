@@ -6718,7 +6718,7 @@
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AANP4----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AANP5----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AANS1----1A----</AM>
-<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto" recommended="1">AANS4----1A----</AM>
+<AM lemma="vlastní" src="auto" recommended="1">AANS4----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AANS5----1A----</AM>
 </tag>
 </m>
@@ -13014,7 +13014,7 @@
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAMS7----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AANP3----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AANS6----1A----</AM>
-<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto" recommended="1">AANS7----1A----</AM>
+<AM lemma="vlastní" src="auto" recommended="1">AANS7----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj2377-001-p1s54W18-Ta">

@@ -4922,7 +4922,7 @@
 <LM>w#w-vesm9301-032-p7s10Aw10</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAIS4----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAIS4----1A----</tag>
 </m>
 <m id="m-vesm9301-032-p7s10Aw11">
 <src.rf>manual</src.rf>

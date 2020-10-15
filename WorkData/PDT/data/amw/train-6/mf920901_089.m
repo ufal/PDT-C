@@ -6188,7 +6188,7 @@
 <LM>w#w-mf920901-089-p11s3w22</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAFS1----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-mf920901-089-p11s3w23">
 <src.rf>manual</src.rf>
@@ -6325,7 +6325,7 @@
 <LM>w#w-mf920901-089-p11s4w14</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAFS4----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-mf920901-089-p11s4w15">
 <src.rf>manual</src.rf>
@@ -6378,7 +6378,7 @@
 <LM>w#w-mf920901-089-p11s5w3</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAFS1----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-mf920901-089-p11s5w4">
 <src.rf>manual</src.rf>
@@ -6729,7 +6729,7 @@
 <LM>w#w-mf920901-089-p11s7w21</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAFS4----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-mf920901-089-p11s7w22">
 <src.rf>manual</src.rf>

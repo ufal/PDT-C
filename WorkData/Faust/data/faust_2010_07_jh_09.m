@@ -5930,7 +5930,7 @@
 <AM lemma="Afra_;Y">NNFS5-----A----</AM>
 <AM lemma="afro">NNNS4-----A----</AM>
 <AM lemma="afro">NNNS5-----A----</AM>
-<AM lemma="afro" src="manual" selected="1">S2--------A----</AM>
+<AM lemma="afro-2" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="jh_09-SCzechM-p0956-s1-w2">

@@ -242,7 +242,7 @@
 <LM>w#w-lnd92259-071-p3s2w19</LM>
 </w.rf>
 <form>Madana</form>
-<tag lemma="Madan_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Madan-2_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92259-071-p3s2w20">
 <src.rf>manual</src.rf>

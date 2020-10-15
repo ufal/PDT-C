@@ -693,7 +693,7 @@
 <LM>w#w-cmpr9415-048-p5s1w13</LM>
 </w.rf>
 <form>vlastních</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAIP2----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAIP2----1A----</tag>
 </m>
 <m id="m-cmpr9415-048-p5s1w14">
 <src.rf>manual</src.rf>

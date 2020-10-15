@@ -2149,7 +2149,7 @@
 <form>Canalu</form>
 <tag>
 <AM lemma="Canalu" src="auto">X@-------------</AM>
-<AM lemma="Canal_;G_^(součást_názvů)" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="Canal_;G" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m033-d1t1388-2">

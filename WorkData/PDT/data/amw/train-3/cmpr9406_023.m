@@ -1874,7 +1874,7 @@
 <LM>w#w-cmpr9406-023-p9s1Bw23</LM>
 </w.rf>
 <form>vlastních</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAFP2----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAFP2----1A----</tag>
 </m>
 <m id="m-cmpr9406-023-p9s1Bw24">
 <src.rf>manual</src.rf>

@@ -9195,7 +9195,7 @@
 <tag>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAIS3----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAMS3----1A----</AM>
-<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto" recommended="1">AANS3----1A----</AM>
+<AM lemma="vlastní" src="auto" recommended="1">AANS3----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj1328-001-p1s40W7-Ta">
@@ -9966,7 +9966,7 @@
 </w.rf>
 <form>vlastních</form>
 <tag>
-<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto" recommended="1">AAFP2----1A----</AM>
+<AM lemma="vlastní" src="auto" recommended="1">AAFP2----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFP6----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAIP2----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAIP6----1A----</AM>

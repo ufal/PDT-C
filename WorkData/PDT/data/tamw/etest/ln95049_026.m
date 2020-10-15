@@ -3122,7 +3122,7 @@
 <LM>w#w-ln95049-026-p5s3w13</LM>
 </w.rf>
 <form>vlastním</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AANS6----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AANS6----1A----</tag>
 </m>
 <m id="m-ln95049-026-p5s3w14">
 <src.rf>manual</src.rf>
@@ -4142,7 +4142,7 @@
 <LM>w#w-ln95049-026-p6s4w7</LM>
 </w.rf>
 <form>Coruňa</form>
-<tag lemma="Coruňa_;G_;m" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Coruňa_;G_;Y_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95049-026-p6s4w8">
 <src.rf>manual</src.rf>

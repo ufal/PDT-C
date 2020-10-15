@@ -1756,7 +1756,7 @@
 <LM>w#w-mf930709-052-p2s12w10</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAIS1----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-mf930709-052-p2s12w11">
 <src.rf>manual</src.rf>

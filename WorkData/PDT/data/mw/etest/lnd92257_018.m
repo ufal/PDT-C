@@ -599,7 +599,7 @@
 <LM>w#w-lnd92257-018-p3s4w14</LM>
 </w.rf>
 <form>vlastních</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAIP2----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAIP2----1A----</tag>
 </m>
 <m id="m-lnd92257-018-p3s4w15">
 <src.rf>manual</src.rf>

@@ -190,7 +190,7 @@
 <LM>w#w-lnd92258-020-p2s2w11</LM>
 </w.rf>
 <form>Benz</form>
-<tag lemma="Benz-1_;m_^(vozidlo)" src="auto" selected="1">NNIXX-----A----</tag>
+<tag lemma="Benz-2_;m" src="auto" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-lnd92258-020-p2s2w12">
 <src.rf>manual</src.rf>
@@ -785,7 +785,7 @@
 <LM>w#w-lnd92258-020-p2s4w24</LM>
 </w.rf>
 <form>Benz</form>
-<tag lemma="Benz-1_;m_^(vozidlo)" src="auto" selected="1">NNIXX-----A----</tag>
+<tag lemma="Benz-2_;m" src="auto" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-lnd92258-020-p2s4w25">
 <src.rf>manual</src.rf>

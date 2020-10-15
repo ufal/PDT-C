@@ -5919,7 +5919,7 @@
 <LM>w#w-lnd92254-003-p1s2Bw15</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AANS4----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AANS4----1A----</tag>
 </m>
 <m id="m-lnd92254-003-p1s2Bw16">
 <src.rf>manual</src.rf>

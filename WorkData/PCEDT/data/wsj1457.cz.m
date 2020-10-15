@@ -10631,7 +10631,7 @@
 <form>Jackieho</form>
 <tag>
 <AM lemma="Jackieho" src="auto">X@-------------</AM>
-<AM lemma="Jackie_;Y" src="manual" selected="1">NNMS4-----A----</AM>
+<AM lemma="Jackie-2_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1457-001-p1s41W31-Ta">
@@ -11290,7 +11290,7 @@
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAIS7----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAMP3----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAMS6----1A----</AM>
-<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto" recommended="1">AAMS7----1A----</AM>
+<AM lemma="vlastní" src="auto" recommended="1">AAMS7----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AANP3----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AANS6----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AANS7----1A----</AM>

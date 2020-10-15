@@ -3030,7 +3030,7 @@
 <LM>w#w-ln94201-135-p9s1w17</LM>
 </w.rf>
 <form>vlastních</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAIP2----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAIP2----1A----</tag>
 </m>
 <m id="m-ln94201-135-p9s1w18">
 <src.rf>manual</src.rf>

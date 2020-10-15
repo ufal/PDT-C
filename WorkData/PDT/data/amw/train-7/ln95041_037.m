@@ -51,7 +51,7 @@
 <LM>w#w-ln95041-037-p1s1w5</LM>
 </w.rf>
 <form>vlastnímu</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AANS3----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AANS3----1A----</tag>
 </m>
 <m id="m-ln95041-037-p1s1w6">
 <src.rf>manual</src.rf>

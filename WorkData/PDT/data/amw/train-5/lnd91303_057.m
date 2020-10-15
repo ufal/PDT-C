@@ -206,7 +206,7 @@
 <LM>w#w-lnd91303-057-p3s1w17</LM>
 </w.rf>
 <form>vlastně</form>
-<tag lemma="vlastně_^(příslušný_k_něčemu)_(*1í)" src="auto" selected="1">Dg-------1A----</tag>
+<tag lemma="vlastně_^(*1í)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd91303-057-p3s1w18">
 <src.rf>manual</src.rf>

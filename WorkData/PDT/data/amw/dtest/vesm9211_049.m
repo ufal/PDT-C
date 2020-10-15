@@ -281,7 +281,7 @@
 <LM>w#w-vesm9211-049-p1s2w22</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAFS7----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAFS7----1A----</tag>
 </m>
 <m id="m-vesm9211-049-p1s2w23">
 <src.rf>manual</src.rf>

@@ -1697,7 +1697,7 @@
 <form>OK</form>
 <tag>
 <AM lemma="OK-1_:B_,t_^(angl._ou_kej)" src="auto">Db------------8</AM>
-<AM lemma="Ok-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="OK-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 </s>
@@ -3247,7 +3247,7 @@
 <form>OK</form>
 <tag>
 <AM lemma="OK-1_:B_,t_^(angl._ou_kej)" src="auto">Db------------8</AM>
-<AM lemma="Ok-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="OK-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 </s>

@@ -606,7 +606,7 @@
 <LM>w#w-cmpr9413-022-p5s1w24</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAFP4----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAFP4----1A----</tag>
 </m>
 <m id="m-cmpr9413-022-p5s1w25">
 <src.rf>manual</src.rf>
@@ -3822,7 +3822,7 @@
 <LM>w#w-cmpr9413-022-p18s3w16</LM>
 </w.rf>
 <form>vlastně</form>
-<tag lemma="vlastně_^(příslušný_k_něčemu)_(*1í)" src="auto" selected="1">Dg-------1A----</tag>
+<tag lemma="vlastně_^(*1í)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-cmpr9413-022-p18s3w17">
 <src.rf>manual</src.rf>

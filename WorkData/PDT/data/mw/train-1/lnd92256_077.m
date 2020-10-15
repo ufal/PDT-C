@@ -135,7 +135,7 @@
 <LM>w#w-lnd92256-077-p2s2w10</LM>
 </w.rf>
 <form>vlastními</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAMP7----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAMP7----1A----</tag>
 </m>
 <m id="m-lnd92256-077-p2s2w11">
 <src.rf>manual</src.rf>
@@ -1031,7 +1031,7 @@
 <LM>w#w-lnd92256-077-p2s7w22</LM>
 </w.rf>
 <form>vlastními</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAMP7----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAMP7----1A----</tag>
 </m>
 <m id="m-lnd92256-077-p2s7w23">
 <src.rf>manual</src.rf>

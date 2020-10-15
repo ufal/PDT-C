@@ -941,7 +941,7 @@
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAMP2----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAMP6----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AANP2----1A----</AM>
-<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto" recommended="1">AANP6----1A----</AM>
+<AM lemma="vlastní" src="auto" recommended="1">AANP6----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj2346-001-p1s2W22-Ta">

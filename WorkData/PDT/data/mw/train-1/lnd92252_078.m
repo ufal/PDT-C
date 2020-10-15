@@ -1493,7 +1493,7 @@
 <LM>w#w-lnd92252-078-p3s12w2</LM>
 </w.rf>
 <form>vlastními</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAMP7----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAMP7----1A----</tag>
 </m>
 <m id="m-lnd92252-078-p3s12w3">
 <src.rf>manual</src.rf>

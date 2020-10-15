@@ -3146,7 +3146,7 @@
 <LM>w#w-ln94205-120-p5s1w10</LM>
 </w.rf>
 <form>Wimbledonu</form>
-<tag lemma="Wimbledon" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Wimbledon_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94205-120-p5s1w11">
 <src.rf>manual</src.rf>

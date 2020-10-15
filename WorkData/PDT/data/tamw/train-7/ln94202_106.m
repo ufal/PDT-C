@@ -5476,7 +5476,7 @@
 <LM>w#w-ln94202-106-p9s2w5</LM>
 </w.rf>
 <form>vlastních</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAIP2----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAIP2----1A----</tag>
 </m>
 <m id="m-ln94202-106-p9s2w6">
 <src.rf>manual</src.rf>
@@ -13901,7 +13901,7 @@
 <LM>w#w-ln94202-106-p16s4w12</LM>
 </w.rf>
 <form>Wimbledonu</form>
-<tag lemma="Wimbledon" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Wimbledon_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94202-106-p16s4w13">
 <src.rf>manual</src.rf>

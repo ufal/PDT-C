@@ -2194,7 +2194,7 @@
 <LM>w#w-lnd94105-086-p1s10Aw6</LM>
 </w.rf>
 <form>Kingstona</form>
-<tag lemma="Kingston_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kingston-2_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94105-086-p1s10Aw7">
 <src.rf>manual</src.rf>

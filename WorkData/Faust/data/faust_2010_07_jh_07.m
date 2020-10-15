@@ -988,7 +988,7 @@
 </w.rf>
 <form>vlastních</form>
 <tag>
-<AM lemma="vlastní_^(příslušný_k_něčemu)" recommended="1">AAMP2----1A----</AM>
+<AM lemma="vlastní" recommended="1">AAMP2----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)">AAFP2----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)">AAFP6----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)">AAIP2----1A----</AM>
@@ -6568,7 +6568,7 @@
 </w.rf>
 <form>vlastní</form>
 <tag>
-<AM lemma="vlastní_^(příslušný_k_něčemu)" recommended="1">AAIS4----1A----</AM>
+<AM lemma="vlastní" recommended="1">AAIS4----1A----</AM>
 <AM lemma="vlastnit_^(někdo_má_něco_ve_vlastnictví)">VB-P---3P-AAI--</AM>
 <AM lemma="vlastnit_^(někdo_má_něco_ve_vlastnictví)">VB-S---3P-AAI--</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)">AAFP1----1A----</AM>
@@ -6697,7 +6697,7 @@
 <AM lemma="vlastní_^(příslušný_k_něčemu)">AAIP4----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)">AAIP5----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)">AAIS1----1A----</AM>
-<AM lemma="vlastní_^(příslušný_k_něčemu)" selected="1">AAIS4----1A----</AM>
+<AM lemma="vlastní" selected="1">AAIS4----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)">AAIS5----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)">AAMP1----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)">AAMP4----1A----</AM>

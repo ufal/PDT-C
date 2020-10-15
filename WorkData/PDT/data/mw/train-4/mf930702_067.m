@@ -624,7 +624,7 @@
 </w.rf>
 <form>Amour</form>
 <tag>
-<AM lemma="Amour_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Amour-2_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Amour_;G_^(Saint-Amour)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Amour_;G_^(Saint-Amour)" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -1381,7 +1381,7 @@
 </w.rf>
 <form>Amour</form>
 <tag>
-<AM lemma="Amour_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Amour-2_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Amour_;G_^(Saint-Amour)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Amour_;G_^(Saint-Amour)" src="auto">NNIS4-----A----</AM>
 </tag>

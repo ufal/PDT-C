@@ -4754,7 +4754,7 @@
 <LM>w#w-vesm9303-001-p7s2w22</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AANS4----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AANS4----1A----</tag>
 </m>
 <m id="m-vesm9303-001-p7s2w23">
 <src.rf>manual</src.rf>

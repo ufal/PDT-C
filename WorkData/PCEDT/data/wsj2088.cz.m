@@ -105,7 +105,7 @@
 <AM lemma="any-77" src="auto">F%-------------</AM>
 <AM lemma="Ana-2_;G" src="manual">NNFS2-----A----</AM>
 <AM lemma="Ana_;G_;Y" src="manual">NNFS2-----A----</AM>
-<AM lemma="Ana_;Y" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="Ana_;G_;Y" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2088-001-p1s0W9-Ta">

@@ -3517,7 +3517,7 @@
 <LM>w#w-ln94210-127-p4s6w9</LM>
 </w.rf>
 <form>Wimbledonu</form>
-<tag lemma="Wimbledon" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Wimbledon_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln94210-127-p4s6w10">
 <src.rf>manual</src.rf>
@@ -4491,7 +4491,7 @@
 <LM>w#w-ln94210-127-p5s3w18</LM>
 </w.rf>
 <form>Wimbledonu</form>
-<tag lemma="Wimbledon" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Wimbledon_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94210-127-p5s3w19">
 <src.rf>manual</src.rf>

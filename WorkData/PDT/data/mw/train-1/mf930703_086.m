@@ -117,7 +117,7 @@
 <LM>w#w-mf930703-086-p2s1w11</LM>
 </w.rf>
 <form>Tomisu</form>
-<tag lemma="Tomis_;G" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Tomis-2_;G" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-mf930703-086-p2s1w12">
 <src.rf>manual</src.rf>

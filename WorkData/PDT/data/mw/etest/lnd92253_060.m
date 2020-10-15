@@ -1334,7 +1334,7 @@
 <LM>w#w-lnd92253-060-p4s1w1</LM>
 </w.rf>
 <form>Vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAIS1----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-lnd92253-060-p4s1w2">
 <src.rf>manual</src.rf>

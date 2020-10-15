@@ -1962,7 +1962,7 @@
 <LM>w#w-ln94211-22-p4s5w4</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAFP4----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAFP4----1A----</tag>
 </m>
 <m id="m-ln94211-22-p4s5w5">
 <src.rf>manual</src.rf>

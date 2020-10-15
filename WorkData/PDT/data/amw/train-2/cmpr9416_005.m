@@ -1347,7 +1347,7 @@
 <LM>w#w-cmpr9416-005-p9s1w7</LM>
 </w.rf>
 <form>vlastním</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAIS6----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAIS6----1A----</tag>
 </m>
 <m id="m-cmpr9416-005-p9s1w8">
 <src.rf>manual</src.rf>

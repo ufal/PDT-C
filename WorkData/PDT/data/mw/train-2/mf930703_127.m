@@ -9058,7 +9058,7 @@
 <LM>w#w-mf930703-127-p2s88w4</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAFS2----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-mf930703-127-p2s88w5">
 <src.rf>manual</src.rf>
@@ -9172,7 +9172,7 @@
 <LM>w#w-mf930703-127-p2s89w4</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAMP4----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAMP4----1A----</tag>
 </m>
 <m id="m-mf930703-127-p2s89w5">
 <src.rf>manual</src.rf>

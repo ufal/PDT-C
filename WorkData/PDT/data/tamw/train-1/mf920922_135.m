@@ -1421,7 +1421,7 @@
 <LM>w#w-mf920922-135-p2s8w30</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAFS2----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-mf920922-135-p2s8w31">
 <src.rf>manual</src.rf>

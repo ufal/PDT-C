@@ -547,7 +547,7 @@
 <LM>w#w-ln94208-121-p2s3w24</LM>
 </w.rf>
 <form>Wimbledonu</form>
-<tag lemma="Wimbledon" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Wimbledon_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94208-121-p2s3w25">
 <src.rf>manual</src.rf>

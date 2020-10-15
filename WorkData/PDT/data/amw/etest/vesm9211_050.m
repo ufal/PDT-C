@@ -119,7 +119,7 @@
 <LM>w#w-vesm9211-050-p1s1w13</LM>
 </w.rf>
 <form>nejvlastnějším</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAIS7----3A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAIS7----3A----</tag>
 </m>
 <m id="m-vesm9211-050-p1s1w14">
 <src.rf>manual</src.rf>

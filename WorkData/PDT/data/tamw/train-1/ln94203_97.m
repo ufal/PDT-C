@@ -520,7 +520,7 @@
 <LM>w#w-ln94203-97-p2s3w7</LM>
 </w.rf>
 <form>vlastními</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAIP7----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAIP7----1A----</tag>
 </m>
 <m id="m-ln94203-97-p2s3w8">
 <src.rf>manual</src.rf>

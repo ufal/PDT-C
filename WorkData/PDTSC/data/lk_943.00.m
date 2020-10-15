@@ -2328,7 +2328,7 @@
 <form>nenemoc</form>
 <tag>
 <AM lemma="nenemoc" src="auto">X@-------------</AM>
-<AM lemma="nemoc_^(choroba)" src="manual" selected="1">NNFS1-----N----</AM>
+<AM lemma="nemoc" src="manual" selected="1">NNFS1-----N----</AM>
 </tag>
 </m>
 <m id="m943-d-id59878">
@@ -3130,7 +3130,7 @@
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFP1----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFP4----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFP5----1A----</AM>
-<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAFS1----1A----</AM>
+<AM lemma="vlastní" src="auto" selected="1">AAFS1----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFS2----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFS3----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFS4----1A----</AM>
@@ -3274,7 +3274,7 @@
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFP1----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFP4----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFP5----1A----</AM>
-<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto" recommended="1">AAFS1----1A----</AM>
+<AM lemma="vlastní" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFS2----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFS3----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFS4----1A----</AM>

@@ -3758,7 +3758,7 @@
 <AM lemma="vlastnit_^(někdo_má_něco_ve_vlastnictví)" src="auto">VB-P---3P-NAI--</AM>
 <AM lemma="vlastnit_^(někdo_má_něco_ve_vlastnictví)" src="auto">VB-S---3P-NAI--</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFP1----1N----</AM>
-<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto" recommended="1">AAFP4----1N----</AM>
+<AM lemma="vlastní" src="auto" recommended="1">AAFP4----1N----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFP5----1N----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFS1----1N----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFS2----1N----</AM>

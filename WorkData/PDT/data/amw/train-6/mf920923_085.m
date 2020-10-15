@@ -290,7 +290,7 @@
 <LM>w#w-mf920923-085-p1s2w10</LM>
 </w.rf>
 <form>vlastních</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAIP2----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAIP2----1A----</tag>
 </m>
 <m id="m-mf920923-085-p1s2w11">
 <src.rf>manual</src.rf>

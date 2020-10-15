@@ -638,7 +638,7 @@
 <LM>w#w-ln94207-105-p2s3w25</LM>
 </w.rf>
 <form>vlastního</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AANS2----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AANS2----1A----</tag>
 </m>
 <m id="m-ln94207-105-p2s3w26">
 <src.rf>manual</src.rf>
@@ -806,7 +806,7 @@
 <LM>w#w-ln94207-105-p2s3w46</LM>
 </w.rf>
 <form>nejvlastnějším</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AANS7----3A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AANS7----3A----</tag>
 </m>
 <m id="m-ln94207-105-p2s3w47">
 <src.rf>manual</src.rf>
@@ -2890,7 +2890,7 @@
 <LM>w#w-ln94207-105-p3s7w6</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAFS4----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-ln94207-105-p3s7w7">
 <src.rf>manual</src.rf>
@@ -4373,7 +4373,7 @@
 <LM>w#w-ln94207-105-p4s2w28</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AANS4----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AANS4----1A----</tag>
 </m>
 <m id="m-ln94207-105-p4s2w29">
 <src.rf>manual</src.rf>
@@ -6082,7 +6082,7 @@
 <LM>w#w-ln94207-105-p6s1w16</LM>
 </w.rf>
 <form>nejvlastnějších</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAIP2----3A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAIP2----3A----</tag>
 </m>
 <m id="m-ln94207-105-p6s1w17">
 <src.rf>manual</src.rf>
@@ -6388,7 +6388,7 @@
 <LM>w#w-ln94207-105-p6s2w35</LM>
 </w.rf>
 <form>vlastním</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAIS7----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAIS7----1A----</tag>
 </m>
 <m id="m-ln94207-105-p6s2w36">
 <src.rf>manual</src.rf>
@@ -6516,7 +6516,7 @@
 <LM>w#w-ln94207-105-p6s2w51</LM>
 </w.rf>
 <form>vlastním</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAIS7----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAIS7----1A----</tag>
 </m>
 <m id="m-ln94207-105-p6s2w52">
 <src.rf>manual</src.rf>

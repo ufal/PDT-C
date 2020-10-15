@@ -441,7 +441,7 @@
 <LM>w#w-mf930703-119-p4s1w35</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAFS4----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-mf930703-119-p4s1w36">
 <src.rf>manual</src.rf>
@@ -1302,7 +1302,7 @@
 <LM>w#w-mf930703-119-p8s1w47</LM>
 </w.rf>
 <form>Wimbledon</form>
-<tag lemma="Wimbledon" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Wimbledon_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930703-119-p8s1w48">
 <src.rf>manual</src.rf>
@@ -2800,7 +2800,7 @@
 <form>Wimbledon</form>
 <tag>
 <AM lemma="Wimbledon-2_^(tenis._turnaj)" src="orig">NNIS1-----A----</AM>
-<AM lemma="Wimbledon" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Wimbledon_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-119-p17s1w33">

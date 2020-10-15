@@ -1402,7 +1402,7 @@
 <LM>w#w-cmpr9415-015-p9s8w5</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AANS4----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AANS4----1A----</tag>
 </m>
 <m id="m-cmpr9415-015-p9s8w6">
 <src.rf>manual</src.rf>

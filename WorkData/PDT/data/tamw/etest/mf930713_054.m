@@ -635,7 +635,7 @@
 <LM>w#w-mf930713-054-p2s3w19</LM>
 </w.rf>
 <form>vlastních</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAIP2----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAIP2----1A----</tag>
 </m>
 <m id="m-mf930713-054-p2s3w20">
 <src.rf>manual</src.rf>

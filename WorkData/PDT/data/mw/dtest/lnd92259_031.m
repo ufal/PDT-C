@@ -3578,7 +3578,7 @@
 <LM>w#w-lnd92259-031-p8s3w19</LM>
 </w.rf>
 <form>vlastního</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAIS2----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-lnd92259-031-p8s3w20">
 <src.rf>manual</src.rf>

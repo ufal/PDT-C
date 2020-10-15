@@ -1480,7 +1480,7 @@
 <LM>w#w-lnd91303-092-p4s1w48</LM>
 </w.rf>
 <form>vlastně</form>
-<tag lemma="vlastně_^(příslušný_k_něčemu)_(*1í)" src="auto" selected="1">Dg-------1A----</tag>
+<tag lemma="vlastně_^(*1í)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd91303-092-p4s1w49">
 <src.rf>manual</src.rf>
@@ -3767,7 +3767,7 @@
 <LM>w#w-lnd91303-092-p7s1w28</LM>
 </w.rf>
 <form>vlastně</form>
-<tag lemma="vlastně_^(příslušný_k_něčemu)_(*1í)" src="auto" selected="1">Dg-------1A----</tag>
+<tag lemma="vlastně_^(*1í)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd91303-092-p7s1w29">
 <src.rf>manual</src.rf>

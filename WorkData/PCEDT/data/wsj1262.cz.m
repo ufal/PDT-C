@@ -1771,7 +1771,7 @@
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAMS7----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AANP3----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AANS6----1A----</AM>
-<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto" recommended="1">AANS7----1A----</AM>
+<AM lemma="vlastní" src="auto" recommended="1">AANS7----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj1262-001-p1s8W13-Ta">
@@ -3348,7 +3348,7 @@
 </w.rf>
 <form>vlastních</form>
 <tag>
-<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto" recommended="1">AAFP2----1A----</AM>
+<AM lemma="vlastní" src="auto" recommended="1">AAFP2----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFP6----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAIP2----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAIP6----1A----</AM>

@@ -2890,7 +2890,7 @@
 </w.rf>
 <form>vlastním</form>
 <tag>
-<AM lemma="vlastní_^(příslušný_k_něčemu)" recommended="1">AAIS6----1A----</AM>
+<AM lemma="vlastní" recommended="1">AAIS6----1A----</AM>
 <AM lemma="vlastnit_^(někdo_má_něco_ve_vlastnictví)">VB-S---1P-AAI--</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)">AAFP3----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)">AAIP3----1A----</AM>

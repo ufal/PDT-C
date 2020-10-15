@@ -5503,7 +5503,7 @@
 <LM>w#w-vesm9301-034-p8s5w29</LM>
 </w.rf>
 <form>vlastního</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AANS2----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AANS2----1A----</tag>
 </m>
 <m id="m-vesm9301-034-p8s5w30">
 <src.rf>manual</src.rf>

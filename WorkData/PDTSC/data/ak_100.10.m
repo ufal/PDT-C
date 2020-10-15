@@ -3073,7 +3073,7 @@
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAIS1----1N----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAIS4----1N----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAIS5----1N----</AM>
-<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto" recommended="1">AAMP1----1N----</AM>
+<AM lemma="vlastní" src="auto" recommended="1">AAMP1----1N----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAMP4----1N----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAMP5----1N----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAMS1----1N----</AM>

@@ -6366,7 +6366,7 @@
 <form>prosomě</form>
 <tag>
 <AM lemma="prosomě" src="auto">X@-------------</AM>
-<AM lemma="prosoma_;U" src="manual" selected="1">NNFS6-----A----</AM>
+<AM lemma="prosoma-2" src="manual" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1158-001-p1s21W20-Ta">

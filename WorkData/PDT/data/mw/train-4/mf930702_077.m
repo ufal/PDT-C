@@ -75,7 +75,7 @@
 <LM>w#w-mf930702-077-p1s1w8</LM>
 </w.rf>
 <form>Wimbledonu</form>
-<tag lemma="Wimbledon" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Wimbledon_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 </s>
 </mdata>

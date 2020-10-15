@@ -3494,7 +3494,7 @@
 <LM>w#w-lnd92255-075-p8s6w11</LM>
 </w.rf>
 <form>vlastních</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAIP6----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAIP6----1A----</tag>
 </m>
 <m id="m-lnd92255-075-p8s6w12">
 <src.rf>manual</src.rf>

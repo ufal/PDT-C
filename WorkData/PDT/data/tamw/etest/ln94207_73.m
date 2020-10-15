@@ -21419,7 +21419,7 @@
 <LM>w#w-ln94207-73-p21s15w13</LM>
 </w.rf>
 <form>vlastním</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AANS7----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AANS7----1A----</tag>
 </m>
 <m id="m-ln94207-73-p21s15w14">
 <src.rf>manual</src.rf>

@@ -77,7 +77,7 @@
 <LM>w#w-cmpr9417-045-p3s1w3</LM>
 </w.rf>
 <form>vlastního</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAIS2----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-cmpr9417-045-p3s1w4">
 <src.rf>manual</src.rf>
@@ -6913,7 +6913,7 @@
 <LM>w#w-cmpr9417-045-p26s2w19</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAIS4----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAIS4----1A----</tag>
 </m>
 <m id="m-cmpr9417-045-p26s2w20">
 <src.rf>manual</src.rf>
@@ -7862,7 +7862,7 @@
 <LM>w#w-cmpr9417-045-p29s1w14</LM>
 </w.rf>
 <form>vlastních</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAIP2----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAIP2----1A----</tag>
 </m>
 <m id="m-cmpr9417-045-p29s1w15">
 <src.rf>manual</src.rf>

@@ -1430,7 +1430,7 @@
 <LM>w#w-lnd91301-044-p2s8w9</LM>
 </w.rf>
 <form>vlastně</form>
-<tag lemma="vlastně_^(příslušný_k_něčemu)_(*1í)" src="auto" selected="1">Dg-------1A----</tag>
+<tag lemma="vlastně_^(*1í)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd91301-044-p2s8w10">
 <src.rf>manual</src.rf>

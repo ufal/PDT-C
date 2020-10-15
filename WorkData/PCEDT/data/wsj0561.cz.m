@@ -2812,7 +2812,7 @@
 <tag>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAIS3----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAMS3----1A----</AM>
-<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto" recommended="1">AANS3----1A----</AM>
+<AM lemma="vlastní" src="auto" recommended="1">AANS3----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0561-001-p1s9W12-Ta">

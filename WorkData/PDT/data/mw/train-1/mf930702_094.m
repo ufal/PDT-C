@@ -1830,7 +1830,7 @@
 <LM>w#w-mf930702-094-p2s10w4</LM>
 </w.rf>
 <form>vlastního</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AANS2----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AANS2----1A----</tag>
 </m>
 <m id="m-mf930702-094-p2s10w5">
 <src.rf>manual</src.rf>

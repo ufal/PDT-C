@@ -453,7 +453,7 @@
 </w.rf>
 <form>Siru</form>
 <tag>
-<AM lemma="Siro_;G" src="orig" selected="1">NNNS6-----A----</AM>
+<AM lemma="Siro_;m" src="orig" selected="1">NNNS6-----A----</AM>
 <AM lemma="Sira_;G" src="auto">NNFS4-----A----</AM>
 <AM lemma="sir" src="auto">NNMS3-----A---1</AM>
 <AM lemma="sir" src="auto" recommended="1">NNMS6-----A---1</AM>
@@ -2468,7 +2468,7 @@
 <LM>w#w-lnd92258-127-p5s1w120</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAIS1----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-lnd92258-127-p5s1w121">
 <src.rf>manual</src.rf>

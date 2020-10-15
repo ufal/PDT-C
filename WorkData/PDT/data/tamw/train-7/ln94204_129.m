@@ -2627,7 +2627,7 @@
 <LM>w#w-ln94204-129-p3s10w6</LM>
 </w.rf>
 <form>Wimbledonu</form>
-<tag lemma="Wimbledon" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Wimbledon_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln94204-129-p3s10w7">
 <src.rf>manual</src.rf>

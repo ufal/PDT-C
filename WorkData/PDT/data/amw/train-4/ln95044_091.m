@@ -295,7 +295,7 @@
 <LM>w#w-ln95044-091-p2s1Bw21</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAFS2----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-ln95044-091-p2s1Bw22">
 <src.rf>manual</src.rf>

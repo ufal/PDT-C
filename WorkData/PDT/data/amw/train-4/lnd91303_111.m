@@ -2222,7 +2222,7 @@
 <LM>w#w-lnd91303-111-p10s2Bw3</LM>
 </w.rf>
 <form>vlastně</form>
-<tag lemma="vlastně_^(příslušný_k_něčemu)_(*1í)" src="auto" selected="1">Dg-------1A----</tag>
+<tag lemma="vlastně_^(*1í)" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-lnd91303-111-p10s2Bw4">
 <src.rf>manual</src.rf>

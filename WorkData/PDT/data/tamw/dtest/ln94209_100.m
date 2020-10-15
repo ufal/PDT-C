@@ -1769,7 +1769,7 @@
 <LM>w#w-ln94209-100-p3s3w13</LM>
 </w.rf>
 <form>Wimbledonu</form>
-<tag lemma="Wimbledon" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Wimbledon_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln94209-100-p3s3w14">
 <src.rf>manual</src.rf>

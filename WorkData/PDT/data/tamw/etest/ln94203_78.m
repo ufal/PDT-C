@@ -2189,7 +2189,7 @@
 <LM>w#w-ln94203-78-p4s1w41</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAFS2----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-ln94203-78-p4s1w42">
 <src.rf>manual</src.rf>
@@ -3485,7 +3485,7 @@
 <LM>w#w-ln94203-78-p6s2w10</LM>
 </w.rf>
 <form>vlastního</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AANS2----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AANS2----1A----</tag>
 </m>
 <m id="m-ln94203-78-p6s2w11">
 <src.rf>manual</src.rf>

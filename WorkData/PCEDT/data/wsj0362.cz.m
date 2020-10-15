@@ -626,7 +626,7 @@
 <form>Towera</form>
 <tag>
 <AM lemma="Towera" src="auto">X@-------------</AM>
-<AM lemma="Tower_;Y" src="manual" selected="1">NNMS4-----A----</AM>
+<AM lemma="Tower-2_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0362-001-p1s1W18-Ta">

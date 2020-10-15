@@ -43,7 +43,7 @@
 <LM>w#w-ln94207-51-p1s1w4</LM>
 </w.rf>
 <form>Sorbita</form>
-<tag lemma="Sorbit_;Y" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Sorbit-2_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94207-51-p1s1w5">
 <src.rf>manual</src.rf>

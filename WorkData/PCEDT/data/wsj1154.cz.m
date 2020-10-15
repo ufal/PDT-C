@@ -4519,7 +4519,7 @@
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAIP4----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAIP5----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAIS1----1A----</AM>
-<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto" recommended="1">AAIS4----1A----</AM>
+<AM lemma="vlastní" src="auto" recommended="1">AAIS4----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAIS5----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAMP1----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAMP4----1A----</AM>
@@ -5053,7 +5053,7 @@
 <form>Turandota</form>
 <tag>
 <AM lemma="Turandota" src="auto">X@-------------</AM>
-<AM lemma="Turandot_;Y" src="manual" selected="1">NNMS4-----A----</AM>
+<AM lemma="Turandot-2_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1154-001-p1s18W20-Ta">

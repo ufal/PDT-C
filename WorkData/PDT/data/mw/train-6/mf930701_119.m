@@ -109,7 +109,7 @@
 <LM>w#w-mf930701-119-p2s1w5</LM>
 </w.rf>
 <form>WIMBLEDONU</form>
-<tag lemma="Wimbledon" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Wimbledon_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-mf930701-119-p2s1w6">
 <src.rf>manual</src.rf>

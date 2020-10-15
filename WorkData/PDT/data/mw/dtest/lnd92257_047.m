@@ -1611,7 +1611,7 @@
 <LM>w#w-lnd92257-047-p5s2w4</LM>
 </w.rf>
 <form>Arno</form>
-<tag lemma="Arno_;G" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Arno-2_;G" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-lnd92257-047-p5s2w5">
 <src.rf>manual</src.rf>

@@ -43,7 +43,7 @@
 <LM>w#w-mf930702-070-p1s1w4</LM>
 </w.rf>
 <form>Wimbledonu</form>
-<tag lemma="Wimbledon" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Wimbledon_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 </s>
 <s id="m-mf930702-070-p2s1">
@@ -577,7 +577,7 @@
 <LM>w#w-mf930702-070-p3s3w7</LM>
 </w.rf>
 <form>Wimbledonu</form>
-<tag lemma="Wimbledon" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Wimbledon_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930702-070-p3s3w8">
 <src.rf>manual</src.rf>
@@ -1768,7 +1768,7 @@
 <LM>w#w-mf930702-070-p5s2w18</LM>
 </w.rf>
 <form>vlastním</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAIS6----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAIS6----1A----</tag>
 </m>
 <m id="m-mf930702-070-p5s2w19">
 <src.rf>manual</src.rf>
@@ -3214,7 +3214,7 @@
 <LM>w#w-mf930702-070-p7s2w24</LM>
 </w.rf>
 <form>Wimbledonu</form>
-<tag lemma="Wimbledon" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Wimbledon_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-mf930702-070-p7s2w25">
 <src.rf>manual</src.rf>
@@ -3426,7 +3426,7 @@
 <LM>w#w-mf930702-070-p8s2w4</LM>
 </w.rf>
 <form>Wimbledon</form>
-<tag lemma="Wimbledon" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="Wimbledon_;m" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-mf930702-070-p8s2w5">
 <src.rf>manual</src.rf>
@@ -4681,7 +4681,7 @@
 <LM>w#w-mf930702-070-p9s7w11</LM>
 </w.rf>
 <form>Wimbledonu</form>
-<tag lemma="Wimbledon" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Wimbledon_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-mf930702-070-p9s7w12">
 <src.rf>manual</src.rf>

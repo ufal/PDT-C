@@ -765,7 +765,7 @@
 <LM>w#w-ln95047-070-p3s3w11</LM>
 </w.rf>
 <form>neudálosti</form>
-<tag lemma="událost_,a_^(*3ý)" src="orig" selected="1">NNFS2-----N----</tag>
+<tag lemma="událost" src="orig" selected="1">NNFS2-----N----</tag>
 </m>
 <m id="m-ln95047-070-p3s3w12">
 <src.rf>manual</src.rf>
@@ -3664,7 +3664,7 @@
 <LM>w#w-ln95047-070-p7s1w34</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAFS2----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-ln95047-070-p7s1w35">
 <src.rf>manual</src.rf>

@@ -2114,7 +2114,7 @@
 <LM>w#w-cmpr9406-043-p9s4w8</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAFP4----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAFP4----1A----</tag>
 </m>
 <m id="m-cmpr9406-043-p9s4w9">
 <src.rf>manual</src.rf>

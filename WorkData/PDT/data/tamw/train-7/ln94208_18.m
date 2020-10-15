@@ -43,7 +43,7 @@
 <LM>w#w-ln94208-18-p1s1w4</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAFP1----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAFP1----1A----</tag>
 </m>
 <m id="m-ln94208-18-p1s1w5">
 <src.rf>manual</src.rf>
@@ -69,7 +69,7 @@
 <LM>w#w-ln94208-18-p2s1w1</LM>
 </w.rf>
 <form>Vlastními</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAFP7----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAFP7----1A----</tag>
 </m>
 <m id="m-ln94208-18-p2s1w2">
 <src.rf>manual</src.rf>
@@ -684,7 +684,7 @@
 <LM>w#w-ln94208-18-p3s2w9</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAFP1----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAFP1----1A----</tag>
 </m>
 <m id="m-ln94208-18-p3s2w10">
 <src.rf>manual</src.rf>
@@ -902,7 +902,7 @@
 <LM>w#w-ln94208-18-p3s3w7</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAFP4----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAFP4----1A----</tag>
 </m>
 <m id="m-ln94208-18-p3s3w8">
 <src.rf>manual</src.rf>
@@ -1353,7 +1353,7 @@
 <LM>w#w-ln94208-18-p4s4w5</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAFP1----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAFP1----1A----</tag>
 </m>
 <m id="m-ln94208-18-p4s4w6">
 <src.rf>manual</src.rf>
@@ -2092,7 +2092,7 @@
 <LM>w#w-ln94208-18-p7s1w10</LM>
 </w.rf>
 <form>vlastních</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAFP2----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAFP2----1A----</tag>
 </m>
 <m id="m-ln94208-18-p7s1w11">
 <src.rf>manual</src.rf>
@@ -2921,7 +2921,7 @@
 <LM>w#w-ln94208-18-p8s5Aw36</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAFS7----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAFS7----1A----</tag>
 </m>
 <m id="m-ln94208-18-p8s5Aw37">
 <src.rf>manual</src.rf>

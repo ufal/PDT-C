@@ -545,7 +545,7 @@
 <LM>w#w-vesm9212-031-p4s1w10</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAFS4----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-vesm9212-031-p4s1w11">
 <src.rf>manual</src.rf>

@@ -2323,7 +2323,7 @@
 <LM>w#w-cmpr9410-041-p10s4w4</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAFS4----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-cmpr9410-041-p10s4w5">
 <src.rf>manual</src.rf>

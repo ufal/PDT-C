@@ -1995,7 +1995,7 @@
 <LM>w#w-lnd92256-067-p5s1w12</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAFS2----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-lnd92256-067-p5s1w13">
 <src.rf>manual</src.rf>
@@ -5465,7 +5465,7 @@
 <LM>w#w-lnd92256-067-p8s8w7</LM>
 </w.rf>
 <form>Biedenkopfa</form>
-<tag lemma="Biedenkopf_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Biedenkopf-2_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92256-067-p8s8w8">
 <src.rf>manual</src.rf>

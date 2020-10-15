@@ -5168,7 +5168,7 @@
 <LM>w#w-vesm9301-006-p9s2w6</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAFS1----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAFS1----1A----</tag>
 </m>
 <m id="m-vesm9301-006-p9s2w7">
 <src.rf>manual</src.rf>
@@ -5865,7 +5865,7 @@
 <LM>w#w-vesm9301-006-p9s7w2</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAFS4----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-vesm9301-006-p9s7w3">
 <src.rf>manual</src.rf>
@@ -6470,7 +6470,7 @@
 <LM>w#w-vesm9301-006-p9s8w11</LM>
 </w.rf>
 <form>vlastním</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAIS6----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAIS6----1A----</tag>
 </m>
 <m id="m-vesm9301-006-p9s8w12">
 <src.rf>manual</src.rf>
@@ -12954,7 +12954,7 @@
 <LM>w#w-vesm9301-006-p15s5w28</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAFS4----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-vesm9301-006-p15s5w29">
 <src.rf>manual</src.rf>
@@ -13334,7 +13334,7 @@
 <LM>w#w-vesm9301-006-p16s2w1</LM>
 </w.rf>
 <form>Vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAIS1----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-vesm9301-006-p16s2w2">
 <src.rf>manual</src.rf>
@@ -14040,7 +14040,7 @@
 <LM>w#w-vesm9301-006-p17s1w10</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAFS2----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-vesm9301-006-p17s1w11">
 <src.rf>manual</src.rf>
@@ -16460,7 +16460,7 @@
 <LM>w#w-vesm9301-006-p19s7w21</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAFS7----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAFS7----1A----</tag>
 </m>
 <m id="m-vesm9301-006-p19s7w22">
 <src.rf>manual</src.rf>

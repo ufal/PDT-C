@@ -201,7 +201,7 @@
 <LM>w#w-lnd91301-069-p4s1w17</LM>
 </w.rf>
 <form>vlastnímu</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AANS3----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AANS3----1A----</tag>
 </m>
 <m id="m-lnd91301-069-p4s1w18">
 <src.rf>manual</src.rf>

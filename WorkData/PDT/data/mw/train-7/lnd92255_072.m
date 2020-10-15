@@ -3416,7 +3416,7 @@
 <LM>w#w-lnd92255-072-p7s7w11</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAIS4----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAIS4----1A----</tag>
 </m>
 <m id="m-lnd92255-072-p7s7w12">
 <src.rf>manual</src.rf>

@@ -4197,7 +4197,7 @@
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFP4----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFP5----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFS1----1A----</AM>
-<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto" recommended="1">AAFS2----1A----</AM>
+<AM lemma="vlastní" src="auto" recommended="1">AAFS2----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFS3----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFS4----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFS5----1A----</AM>
@@ -12033,7 +12033,7 @@
 <AM lemma="an-77" src="auto">F%-------------</AM>
 <AM lemma="anus" src="auto">NNIS1-----A---2</AM>
 <AM lemma="anus" src="auto">NNIS4-----A---2</AM>
-<AM lemma="An_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="An-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1603-001-p1s58W22-Ta">

@@ -1986,7 +1986,7 @@
 <tag>
 <AM lemma="Arnica_;m" src="orig">NNFS1-----A----</AM>
 <AM lemma="Arnica_;U_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Arnica_;U_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Arnica-1_;U_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-005-p6s2w5">

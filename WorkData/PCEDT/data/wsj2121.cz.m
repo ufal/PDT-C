@@ -54,7 +54,7 @@
 <form>Lung</form>
 <tag>
 <AM lemma="Lunga_;G" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="Lung_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Lung-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2121-001-p1s0W5-Ta">
@@ -342,7 +342,7 @@
 <form>Lung</form>
 <tag>
 <AM lemma="Lunga_;G" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="Lung_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Lung-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2121-001-p1s1W7-Ta">
@@ -451,7 +451,7 @@
 <form>Lungovi</form>
 <tag>
 <AM lemma="Lungovi" src="auto">X@-------------</AM>
-<AM lemma="Lung_;Y" src="manual" selected="1">NNMS6-----A----</AM>
+<AM lemma="Lung-1_;Y" src="manual" selected="1">NNMS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2121-001-p1s1W16-Ta">
@@ -569,7 +569,7 @@
 <form>Lung</form>
 <tag>
 <AM lemma="Lunga_;G" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="Lung_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Lung-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2121-001-p1s2W3-Ta">
@@ -660,7 +660,7 @@
 <form>Lung</form>
 <tag>
 <AM lemma="Lunga_;G" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="Lung_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Lung-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2121-001-p1s3W3-Ta">

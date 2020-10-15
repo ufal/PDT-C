@@ -490,7 +490,7 @@
 <LM>w#w-lnd92253-049-p4s2w14</LM>
 </w.rf>
 <form>Yorkshiru</form>
-<tag lemma="Yorkshir_;G" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Yorkshire-1_;G" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92253-049-p4s2w15">
 <src.rf>manual</src.rf>

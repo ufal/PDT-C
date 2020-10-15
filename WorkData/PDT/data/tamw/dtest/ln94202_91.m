@@ -1161,7 +1161,7 @@
 <LM>w#w-ln94202-91-p3s4w11</LM>
 </w.rf>
 <form>housu</form>
-<tag lemma="house" src="orig" selected="1">NNIS3-----A----</tag>
+<tag lemma="house-2" src="orig" selected="1">NNIS3-----A----</tag>
 </m>
 <m id="m-ln94202-91-p3s4w12">
 <src.rf>manual</src.rf>

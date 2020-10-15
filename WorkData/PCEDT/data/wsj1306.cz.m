@@ -441,7 +441,7 @@
 <AM lemma="Tanda_;G" src="auto">NNFP4-----A----</AM>
 <AM lemma="Tanda_;G" src="auto">NNFP5-----A----</AM>
 <AM lemma="Tanda_;G" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Tandy-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Tandy_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1306-001-p1s1W4-Ta">
@@ -1790,7 +1790,7 @@
 <AM lemma="Tanda_;G" src="auto">NNFP4-----A----</AM>
 <AM lemma="Tanda_;G" src="auto">NNFP5-----A----</AM>
 <AM lemma="Tanda_;G" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Tandy-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Tandy_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1306-001-p1s6W3-Ta">
@@ -2518,7 +2518,7 @@
 <AM lemma="Tanda_;G" src="auto">NNFP4-----A----</AM>
 <AM lemma="Tanda_;G" src="auto">NNFP5-----A----</AM>
 <AM lemma="Tanda_;G" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Tandy-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Tandy_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1306-001-p1s7W36-Ta">

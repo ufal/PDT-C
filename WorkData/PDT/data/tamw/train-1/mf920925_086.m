@@ -1036,7 +1036,7 @@
 <LM>w#w-mf920925-086-p4s5w29</LM>
 </w.rf>
 <form>vlastním</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AANS6----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AANS6----1A----</tag>
 </m>
 <m id="m-mf920925-086-p4s5w30">
 <src.rf>manual</src.rf>

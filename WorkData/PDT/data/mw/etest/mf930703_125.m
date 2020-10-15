@@ -617,7 +617,7 @@
 <LM>w#w-mf930703-125-p2s4w10</LM>
 </w.rf>
 <form>Faraha</form>
-<tag lemma="Farah_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Farah-2_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930703-125-p2s4w11">
 <src.rf>manual</src.rf>

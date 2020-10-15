@@ -169,7 +169,7 @@
 <AM lemma="rok" src="auto">NNNP1-----A---2</AM>
 <AM lemma="rok" src="auto">NNNP4-----A---2</AM>
 <AM lemma="rok" src="auto">NNNP5-----A---2</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="léto" src="auto" recommended="1">NNNS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0972-001-p1s0W11-Ta">
@@ -7191,7 +7191,7 @@
 <form>Whartona</form>
 <tag>
 <AM lemma="Whartona" src="auto">X@-------------</AM>
-<AM lemma="Wharton_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Wharton-2_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0972-001-p1s26W16-Ta">

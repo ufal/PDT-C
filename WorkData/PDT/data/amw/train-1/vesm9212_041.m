@@ -6358,7 +6358,7 @@
 <LM>w#w-vesm9212-041-p12s3w14</LM>
 </w.rf>
 <form>vlastního</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AANS2----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AANS2----1A----</tag>
 </m>
 <m id="m-vesm9212-041-p12s3w15">
 <src.rf>manual</src.rf>

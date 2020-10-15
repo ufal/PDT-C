@@ -3993,7 +3993,7 @@
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAMP1----1N----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAMP4----1N----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAMP5----1N----</AM>
-<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto" recommended="1">AAMS1----1N----</AM>
+<AM lemma="vlastní" src="auto" recommended="1">AAMS1----1N----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAMS5----1N----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AANP1----1N----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AANP4----1N----</AM>

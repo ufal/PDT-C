@@ -1760,7 +1760,7 @@
 <LM>w#w-vesm9303-054-p5s7w17</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAFS2----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-vesm9303-054-p5s7w18">
 <src.rf>manual</src.rf>
@@ -14689,7 +14689,7 @@
 <LM>w#w-vesm9303-054-p16s5w10</LM>
 </w.rf>
 <form>Lawrencovy</form>
-<tag lemma="Lawrencův_;Y_^(*2)" src="auto" selected="1">AUFS2M---------</tag>
+<tag lemma="Lawrencův_;Y_^(*2)_(*2e-1)" src="auto" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-vesm9303-054-p16s5w11">
 <src.rf>manual</src.rf>

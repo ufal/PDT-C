@@ -11924,7 +11924,7 @@
 <LM>w#w-vesm9301-047-p18s2w6</LM>
 </w.rf>
 <form>nejvlastnější</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAFS4----3A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAFS4----3A----</tag>
 </m>
 <m id="m-vesm9301-047-p18s2w7">
 <src.rf>manual</src.rf>
@@ -15598,7 +15598,7 @@
 <LM>w#w-vesm9301-047-p21s2w45</LM>
 </w.rf>
 <form>nevlastních</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAIP2----1N----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAIP2----1N----</tag>
 </m>
 <m id="m-vesm9301-047-p21s2w46">
 <src.rf>manual</src.rf>

@@ -53,7 +53,7 @@
 <LM>w#w-lnd92257-042-p2s1w2</LM>
 </w.rf>
 <form>vlastního</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAMS4----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAMS4----1A----</tag>
 </m>
 </s>
 <s id="m-lnd92257-042-p3s1">

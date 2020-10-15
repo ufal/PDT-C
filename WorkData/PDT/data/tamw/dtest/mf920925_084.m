@@ -903,7 +903,7 @@
 <LM>w#w-mf920925-084-p2s7w13</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AANS4----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AANS4----1A----</tag>
 </m>
 <m id="m-mf920925-084-p2s7w14">
 <src.rf>manual</src.rf>

@@ -1674,7 +1674,7 @@
 <LM>w#w-ln94202-11-p4s1w15</LM>
 </w.rf>
 <form>Benz</form>
-<tag lemma="Benz-1_;m_^(vozidlo)" src="auto" selected="1">NNIXX-----A----</tag>
+<tag lemma="Benz-2_;m" src="auto" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln94202-11-p4s1w16">
 <src.rf>manual</src.rf>

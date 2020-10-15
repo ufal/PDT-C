@@ -2681,7 +2681,7 @@
 <LM>w#w-lnd94101-072-p1s15w29</LM>
 </w.rf>
 <form>Lelanda</form>
-<tag lemma="Leland_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Leland-2_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94101-072-p1s15w30">
 <src.rf>manual</src.rf>

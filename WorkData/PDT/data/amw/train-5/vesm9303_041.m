@@ -28181,7 +28181,7 @@
 <LM>w#w-vesm9303-041-p49s2w8</LM>
 </w.rf>
 <form>léta</form>
-<tag lemma="rok" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="léto" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-vesm9303-041-p49s2w9">
 <src.rf>manual</src.rf>

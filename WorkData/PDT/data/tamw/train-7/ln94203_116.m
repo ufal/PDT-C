@@ -653,7 +653,7 @@
 <AM lemma="Kingston-2_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="kingston" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="kingston" src="auto">NNIS4-----A----</AM>
-<AM lemma="Kingston_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Kingston-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-116-p3s1w6">

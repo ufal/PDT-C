@@ -2709,7 +2709,7 @@
 <AM lemma="rok" src="auto">NNNP1-----A---2</AM>
 <AM lemma="rok" src="auto">NNNP4-----A---2</AM>
 <AM lemma="rok" src="auto">NNNP5-----A---2</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="léto" src="auto" recommended="1">NNNS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0439-001-p1s5W10-Ta">
@@ -14163,7 +14163,7 @@
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFS6----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFS7----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAIP1----1A----</AM>
-<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto" recommended="1">AAIP4----1A----</AM>
+<AM lemma="vlastní" src="auto" recommended="1">AAIP4----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAIP5----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAIS1----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAIS4----1A----</AM>

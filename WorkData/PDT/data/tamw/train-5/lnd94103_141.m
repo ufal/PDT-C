@@ -821,7 +821,7 @@
 <form>Wimbledonu</form>
 <tag>
 <AM lemma="Wimbledon-2_^(tenis._turnaj)" src="orig">NNIS6-----A----</AM>
-<AM lemma="Wimbledon" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="Wimbledon_;m" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-141-p1s4w21">

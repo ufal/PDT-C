@@ -2159,7 +2159,7 @@
 <LM>w#w-lnd92251-060-p7s1w10</LM>
 </w.rf>
 <form>Bangladéší</form>
-<tag lemma="Bangladéš_;G" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Bangladéš-2_;G" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-lnd92251-060-p7s1w11">
 <src.rf>manual</src.rf>

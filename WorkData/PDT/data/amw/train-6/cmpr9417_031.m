@@ -549,7 +549,7 @@
 <LM>w#w-cmpr9417-031-p6s2w16</LM>
 </w.rf>
 <form>vlastním</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AANS7----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AANS7----1A----</tag>
 </m>
 <m id="m-cmpr9417-031-p6s2w17">
 <src.rf>manual</src.rf>
@@ -581,7 +581,7 @@
 <LM>w#w-cmpr9417-031-p6s2w20</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAFS4----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-cmpr9417-031-p6s2w21">
 <src.rf>manual</src.rf>

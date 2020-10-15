@@ -1788,7 +1788,7 @@
 <LM>w#w-ln95040-130-p3s10w3</LM>
 </w.rf>
 <form>vlastních</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAMP2----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAMP2----1A----</tag>
 </m>
 <m id="m-ln95040-130-p3s10w4">
 <src.rf>manual</src.rf>

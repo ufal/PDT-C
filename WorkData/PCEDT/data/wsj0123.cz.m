@@ -40,7 +40,7 @@
 </w.rf>
 <form>Bellových</form>
 <tag>
-<AM lemma="Bellův_;Y_^(*2)_(*2a-1)" src="auto" recommended="1">AUFP2M---------</AM>
+<AM lemma="Bellův_;Y_^(*2)_(*2a-1)_(*2o-2)" src="auto" recommended="1">AUFP2M---------</AM>
 <AM lemma="Bellův-1_;Y_^(*4a-1)" src="auto">AUFP6M---------</AM>
 <AM lemma="Bellův-1_;Y_^(*4a-1)" src="auto">AUIP2M---------</AM>
 <AM lemma="Bellův-1_;Y_^(*4a-1)" src="auto">AUIP6M---------</AM>
@@ -5715,7 +5715,7 @@
 <form>Bellových</form>
 <tag>
 <AM lemma="Bellův-1_;Y_^(*4a-1)" src="auto">AUFP2M---------</AM>
-<AM lemma="Bellův_;Y_^(*2)_(*2a-1)" src="auto" recommended="1">AUFP6M---------</AM>
+<AM lemma="Bellův_;Y_^(*2)_(*2a-1)_(*2o-2)" src="auto" recommended="1">AUFP6M---------</AM>
 <AM lemma="Bellův-1_;Y_^(*4a-1)" src="auto">AUIP2M---------</AM>
 <AM lemma="Bellův-1_;Y_^(*4a-1)" src="auto">AUIP6M---------</AM>
 <AM lemma="Bellův-1_;Y_^(*4a-1)" src="auto">AUMP2M---------</AM>

@@ -654,7 +654,7 @@
 <AM lemma="rok" src="auto">NNNP1-----A---2</AM>
 <AM lemma="rok" src="auto">NNNP4-----A---2</AM>
 <AM lemma="rok" src="auto">NNNP5-----A---2</AM>
-<AM lemma="rok" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="léto" src="auto" recommended="1">NNNS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1334-001-p1s1W11-Ta">

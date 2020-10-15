@@ -2151,7 +2151,7 @@
 <AM lemma="vlastní_^(příslušný_k_něčemu)">AAIP6----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)">AAMP2----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)">AAMP6----1A----</AM>
-<AM lemma="vlastní_^(příslušný_k_něčemu)" selected="1">AANP2----1A----</AM>
+<AM lemma="vlastní" selected="1">AANP2----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)">AANP6----1A----</AM>
 </tag>
 </m>

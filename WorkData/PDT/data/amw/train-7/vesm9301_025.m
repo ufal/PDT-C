@@ -14597,7 +14597,7 @@
 <LM>w#w-vesm9301-025-p37s2w2</LM>
 </w.rf>
 <form>Livermoru</form>
-<tag lemma="Livermore_;m" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Livermore_;G_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-vesm9301-025-p37s2w3">
 <src.rf>manual</src.rf>

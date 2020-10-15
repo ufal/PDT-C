@@ -633,7 +633,7 @@
 <LM>w#w-cmpr9406-028-p4s3w17</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAFS2----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-cmpr9406-028-p4s3w18">
 <src.rf>manual</src.rf>

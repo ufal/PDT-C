@@ -1708,7 +1708,7 @@
 <form>OK</form>
 <tag>
 <AM lemma="oko" src="orig">NNNP2-----A----</AM>
-<AM lemma="Ok-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="OK-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 </s>

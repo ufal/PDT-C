@@ -779,7 +779,7 @@
 <LM>w#w-lnd92252-022-p2s5w24</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAFS4----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-lnd92252-022-p2s5w25">
 <src.rf>manual</src.rf>
@@ -1204,7 +1204,7 @@
 <LM>w#w-lnd92252-022-p2s8w29</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAFS4----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-lnd92252-022-p2s8w30">
 <src.rf>manual</src.rf>

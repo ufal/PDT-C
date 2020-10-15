@@ -541,7 +541,7 @@
 </w.rf>
 <form>Arie</form>
 <tag>
-<AM lemma="Arie_;Y" src="orig" selected="1">NNFXX-----A----</AM>
+<AM lemma="Arie-2_;Y" src="orig" selected="1">NNFXX-----A----</AM>
 <AM lemma="Arius_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Arie_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Arie_;Y" src="auto">NNMS5-----A----</AM>
@@ -1412,7 +1412,7 @@
 <LM>w#w-ln94209-64-p5s1w5</LM>
 </w.rf>
 <form>léta</form>
-<tag lemma="rok" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="léto" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-ln94209-64-p5s1w6">
 <src.rf>manual</src.rf>
@@ -5756,7 +5756,7 @@
 </w.rf>
 <form>Arie</form>
 <tag>
-<AM lemma="Arie_;Y" src="orig" selected="1">NNFXX-----A----</AM>
+<AM lemma="Arie-2_;Y" src="orig" selected="1">NNFXX-----A----</AM>
 <AM lemma="Arius_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Arie_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Arie_;Y" src="auto">NNMS5-----A----</AM>

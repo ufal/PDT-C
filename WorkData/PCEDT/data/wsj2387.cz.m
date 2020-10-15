@@ -3439,7 +3439,7 @@
 <AM lemma="Tanda_;G" src="auto">NNFP4-----A----</AM>
 <AM lemma="Tanda_;G" src="auto">NNFP5-----A----</AM>
 <AM lemma="Tanda_;G" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Tandy-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Tandy_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2387-001-p1s11W26-Ta">

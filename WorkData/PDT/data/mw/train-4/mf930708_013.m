@@ -1644,7 +1644,7 @@
 <LM>w#w-mf930708-013-p4s3w15</LM>
 </w.rf>
 <form>vlastních</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAMP2----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAMP2----1A----</tag>
 </m>
 <m id="m-mf930708-013-p4s3w16">
 <src.rf>manual</src.rf>
@@ -2686,7 +2686,7 @@
 <LM>w#w-mf930708-013-p6s3w2</LM>
 </w.rf>
 <form>vlastnímu</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AANS3----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AANS3----1A----</tag>
 </m>
 <m id="m-mf930708-013-p6s3w3">
 <src.rf>manual</src.rf>

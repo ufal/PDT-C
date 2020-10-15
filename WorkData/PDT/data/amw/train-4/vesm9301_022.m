@@ -1457,7 +1457,7 @@
 <LM>w#w-vesm9301-022-p3s5w16</LM>
 </w.rf>
 <form>vlastní</form>
-<tag lemma="vlastní_^(příslušný_k_něčemu)" src="auto" selected="1">AAMS1----1A----</tag>
+<tag lemma="vlastní" src="auto" selected="1">AAMS1----1A----</tag>
 </m>
 <m id="m-vesm9301-022-p3s5w17">
 <src.rf>manual</src.rf>

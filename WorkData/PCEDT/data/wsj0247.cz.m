@@ -342,7 +342,7 @@
 <AM lemma="Aga_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="aga" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Aga_;Y" src="manual">NNMXX-----A----</AM>
-<AM lemma="Aga-2_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Aga-1_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0247-001-p1s0W28-Ta">
@@ -1631,7 +1631,7 @@
 <AM lemma="Aga_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="aga" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Aga_;Y" src="manual">NNMXX-----A----</AM>
-<AM lemma="Aga-2_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Aga-1_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0247-001-p1s3W2-Ta">
@@ -2488,7 +2488,7 @@
 <AM lemma="Aga_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="aga" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Aga_;Y" src="manual">NNMXX-----A----</AM>
-<AM lemma="Aga-2_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Aga-1_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0247-001-p1s5W2-Ta">
@@ -4072,7 +4072,7 @@
 <AM lemma="Aga_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="aga" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Aga_;Y" src="manual">NNMXX-----A----</AM>
-<AM lemma="Aga-2_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Aga-1_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0247-001-p1s10W11-Ta">
@@ -4371,7 +4371,7 @@
 <AM lemma="Aga_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="aga" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Aga_;Y" src="manual">NNMXX-----A----</AM>
-<AM lemma="Aga-2_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Aga-1_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0247-001-p1s11W4-Ta">
@@ -4881,7 +4881,7 @@
 <AM lemma="Aga_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="aga" src="auto">NNMS1-----A----</AM>
 <AM lemma="Aga_;Y" src="manual">NNMXX-----A----</AM>
-<AM lemma="Aga-2_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Aga-1_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0247-001-p1s12W18-Ta">

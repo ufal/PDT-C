@@ -3433,7 +3433,7 @@
 <form>vlastními</form>
 <tag>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFP7----1A----</AM>
-<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto" recommended="1">AAIP7----1A----</AM>
+<AM lemma="vlastní" src="auto" recommended="1">AAIP7----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAMP7----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AANP7----1A----</AM>
 </tag>
@@ -9469,7 +9469,7 @@
 <tag>
 <AM lemma="Saidův" src="auto">X@-------------</AM>
 <AM lemma="Saidův_;Y_^(*2)" src="manual">AUIS1M---------</AM>
-<AM lemma="Saidův_;Y_^(*2)" src="manual" selected="1">AUIS1M---------</AM>
+<AM lemma="Saidův-2_;Y_^(*4-2)" src="manual" selected="1">AUIS1M---------</AM>
 </tag>
 </m>
 <m id="m-wsj0790-001-p1s34W2-Ta">
@@ -10409,7 +10409,7 @@
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFP5----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFS1----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFS2----1A----</AM>
-<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto" recommended="1">AAFS3----1A----</AM>
+<AM lemma="vlastní" src="auto" recommended="1">AAFS3----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFS4----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFS5----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFS6----1A----</AM>
