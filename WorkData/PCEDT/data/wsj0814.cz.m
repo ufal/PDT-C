@@ -14542,7 +14542,10 @@
 <LM>w#w-wsj0814-001-p1s54W16</LM>
 </w.rf>
 <form>čtyřma</form>
-<tag lemma="čtyři`4" src="auto" recommended="1">ClFD7----------</tag>
+<tag>
+<AM lemma="čtyři`4" src="auto" recommended="1">ClFD7----------</AM>
+<AM lemma="čtyři`4" src="manual" selected="1">Cl-D7----------</AM>
+</tag>
 </m>
 <m id="m-wsj0814-001-p1s54W17-Ta">
 <src.rf>tagger-a</src.rf>

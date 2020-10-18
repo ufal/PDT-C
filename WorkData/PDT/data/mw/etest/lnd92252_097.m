@@ -95,7 +95,8 @@
 <form>Dun</form>
 <tag>
 <AM lemma="duna" src="orig">NNFP2-----A----</AM>
-<AM lemma="Dun-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Dun-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="dunajský" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92252-097-p2s2w2">
@@ -1094,7 +1095,8 @@
 <form>Dun</form>
 <tag>
 <AM lemma="duna" src="orig">NNFP2-----A----</AM>
-<AM lemma="Dun-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Dun-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="dunajský" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92252-097-p6s1w2">

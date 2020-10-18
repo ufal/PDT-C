@@ -12625,7 +12625,10 @@
 <LM>w#w-vesm9211-001-p25s4w26</LM>
 </w.rf>
 <form>čtyřma</form>
-<tag lemma="čtyři`4" src="orig" selected="1">ClFD7----------</tag>
+<tag>
+<AM lemma="čtyři`4" src="orig">ClFD7----------</AM>
+<AM lemma="čtyři`4" src="manual" selected="1">Cl-D7----------</AM>
+</tag>
 </m>
 <m id="m-vesm9211-001-p25s4w27">
 <src.rf>manual</src.rf>

@@ -1819,7 +1819,10 @@
 <LM>w#w-ln95044-067-p3s6w15</LM>
 </w.rf>
 <form>ad</form>
-<tag lemma="ad" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="ad" src="orig">RR--1----------</AM>
+<AM lemma="ad-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95044-067-p3s6w16">
 <src.rf>manual</src.rf>

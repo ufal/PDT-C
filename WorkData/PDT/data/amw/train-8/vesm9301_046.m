@@ -17164,7 +17164,8 @@
 <AM lemma="daň_^(peněžní/naturální_dávka)" src="auto">NNFS6-----A----</AM>
 <AM lemma="dan-1_^(mistr_a_učitel_japon._sportů)" src="auto">NNMP1-----A---1</AM>
 <AM lemma="dan-1_^(mistr_a_učitel_japon._sportů)" src="auto">NNMP5-----A---1</AM>
-<AM lemma="Dani-2_;E" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Dani-2_;E" src="manual">NNNXX-----A----</AM>
+<AM lemma="Dani-2_;E" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-046-p28s6w5">
@@ -17426,7 +17427,8 @@
 <AM lemma="daň_^(peněžní/naturální_dávka)" src="auto">NNFS6-----A----</AM>
 <AM lemma="dan-1_^(mistr_a_učitel_japon._sportů)" src="auto">NNMP1-----A---1</AM>
 <AM lemma="dan-1_^(mistr_a_učitel_japon._sportů)" src="auto">NNMP5-----A---1</AM>
-<AM lemma="Dani-2_;E" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Dani-2_;E" src="manual">NNNXX-----A----</AM>
+<AM lemma="Dani-2_;E" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-046-p28s7w13">

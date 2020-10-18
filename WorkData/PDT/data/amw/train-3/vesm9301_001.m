@@ -1338,7 +1338,8 @@
 <form>CO</form>
 <tag>
 <AM lemma="CO-1_:B_;U_^(kysličník_uhelnatý)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="CO-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="CO-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="CO_;U_^(kysličník_uhelnatý)" src="manual" selected="1">BNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-001-p5s1w21">
@@ -1676,7 +1677,8 @@
 <form>CO</form>
 <tag>
 <AM lemma="CO-1_:B_;U_^(kysličník_uhelnatý)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="CO-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="CO-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="CO_;U_^(kysličník_uhelnatý)" src="manual" selected="1">BNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-001-p8s1w6">
@@ -2085,7 +2087,8 @@
 <form>CO</form>
 <tag>
 <AM lemma="CO-1_:B_;U_^(kysličník_uhelnatý)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="CO-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="CO-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="CO_;U_^(kysličník_uhelnatý)" src="manual" selected="1">BNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-001-p10s3w13">
@@ -2274,7 +2277,8 @@
 <form>CO</form>
 <tag>
 <AM lemma="CO-1_:B_;U_^(kysličník_uhelnatý)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="CO-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="CO-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="CO_;U_^(kysličník_uhelnatý)" src="manual" selected="1">BNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-001-p10s4w18">
@@ -2437,7 +2441,8 @@
 <form>CO</form>
 <tag>
 <AM lemma="CO-1_:B_;U_^(kysličník_uhelnatý)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="CO-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="CO-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="CO_;U_^(kysličník_uhelnatý)" src="manual" selected="1">BNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-001-p10s4w38">
@@ -2589,7 +2594,8 @@
 <form>CO</form>
 <tag>
 <AM lemma="CO-1_:B_;U_^(kysličník_uhelnatý)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="CO-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="CO-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="CO_;U_^(kysličník_uhelnatý)" src="manual" selected="1">BNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-001-p10s5w17">
@@ -2767,7 +2773,8 @@
 <form>CO</form>
 <tag>
 <AM lemma="CO-1_:B_;U_^(kysličník_uhelnatý)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="CO-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="CO-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="CO_;U_^(kysličník_uhelnatý)" src="manual" selected="1">BNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-001-p10s6Bw3">
@@ -2868,7 +2875,8 @@
 <form>CO</form>
 <tag>
 <AM lemma="CO-1_:B_;U_^(kysličník_uhelnatý)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="CO-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="CO-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="CO_;U_^(kysličník_uhelnatý)" src="manual" selected="1">BNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-001-p10s7w3">
@@ -4108,7 +4116,8 @@
 <form>CO</form>
 <tag>
 <AM lemma="CO-1_:B_;U_^(kysličník_uhelnatý)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="CO-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="CO-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="CO_;U_^(kysličník_uhelnatý)" src="manual" selected="1">BNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-001-p14s1w3">
@@ -4263,7 +4272,8 @@
 <form>CO</form>
 <tag>
 <AM lemma="CO-1_:B_;U_^(kysličník_uhelnatý)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="CO-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="CO-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="CO_;U_^(kysličník_uhelnatý)" src="manual" selected="1">BNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-001-p14s1w22">
@@ -4564,7 +4574,8 @@
 <form>CO</form>
 <tag>
 <AM lemma="CO-1_:B_;U_^(kysličník_uhelnatý)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="CO-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="CO-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="CO_;U_^(kysličník_uhelnatý)" src="manual" selected="1">BNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-001-p14s3w12">
@@ -4697,7 +4708,8 @@
 <form>CO</form>
 <tag>
 <AM lemma="CO-1_:B_;U_^(kysličník_uhelnatý)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="CO-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="CO-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="CO_;U_^(kysličník_uhelnatý)" src="manual" selected="1">BNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-001-p14s4w14">
@@ -4775,7 +4787,8 @@
 <form>CO</form>
 <tag>
 <AM lemma="CO-1_:B_;U_^(kysličník_uhelnatý)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="CO-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="CO-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="CO_;U_^(kysličník_uhelnatý)" src="manual" selected="1">BNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-001-p14s5w8">

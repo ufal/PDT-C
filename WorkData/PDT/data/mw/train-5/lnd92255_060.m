@@ -273,9 +273,10 @@
 <form>Bougainville</form>
 <tag>
 <AM lemma="Bougainville_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Bougainville-1_;G" src="auto" recommended="1" selected="1">NNNXX-----A----</AM>
+<AM lemma="Bougainville-1_;G" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="Bougainville-2_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Bougainville-2_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Bougainville-1_;G" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-060-p3s2w22">

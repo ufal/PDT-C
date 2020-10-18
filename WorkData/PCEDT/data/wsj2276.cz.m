@@ -11787,7 +11787,8 @@
 <form>Commerzbank</form>
 <tag>
 <AM lemma="Commerzbank_;m_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Commerzbank-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Commerzbank-2_;m" src="manual">NNXXX-----A----</AM>
+<AM lemma="Commerzbank_;m" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 </s>

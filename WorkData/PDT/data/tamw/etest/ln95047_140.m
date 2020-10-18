@@ -2953,7 +2953,8 @@
 <form>dvou</form>
 <tag>
 <AM lemma="dva`2" src="orig">ClXP2----------</AM>
-<AM lemma="dva`2" src="manual" selected="1">Cl-P2----------</AM>
+<AM lemma="dva`2" src="manual">Cl-P2----------</AM>
+<AM lemma="dva`2" src="manual" selected="1">CnXP2----------</AM>
 </tag>
 </m>
 <m id="m-ln95047-140-p8s2w11">

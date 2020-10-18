@@ -4182,10 +4182,10 @@
 <tag>
 <AM lemma="díky" recommended="1">RR--3----------</AM>
 <AM lemma="dík-1">NNIP1-----A----</AM>
-<AM lemma="dík-1">NNIP4-----A----</AM>
+<AM lemma="dík-1" selected="1">NNIP4-----A----</AM>
 <AM lemma="dík-1">NNIP5-----A----</AM>
 <AM lemma="dík-1">NNIP7-----A----</AM>
-<AM lemma="díky-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="díky-2" src="manual">TT-------------</AM>
 </tag>
 </m>
 <m id="es_19-SCzechM-p2034-s1-w66">
@@ -7289,7 +7289,7 @@
 <LM>w#w-es_19-SCzechM-p2080-s1-w6</LM>
 </w.rf>
 <form>></form>
-<tag lemma="&gt;" recommended="1">Z:-------------</tag>
+<tag lemma=">" recommended="1">Z:-------------</tag>
 </m>
 <m id="es_19-SCzechM-p2080-s1-w7">
 <w.rf>

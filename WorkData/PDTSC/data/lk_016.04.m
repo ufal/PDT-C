@@ -1678,7 +1678,8 @@
 <AM lemma="elektro_,h_,l_^(elektrospotřebič;_prodejna_elektro)" src="auto">NNNS4-----A----</AM>
 <AM lemma="elektro_,h_,l_^(elektrospotřebič;_prodejna_elektro)" src="auto">NNNS5-----A----</AM>
 <AM lemma="elektro" src="auto">A2--------A----</AM>
-<AM lemma="elektro_,h_^(elektrospotřebič;_prodejna_elektro)" src="manual" selected="1">NNNS2-----A---6</AM>
+<AM lemma="elektro_,h_^(elektrospotřebič;_prodejna_elektro)" src="manual">NNNS2-----A---6</AM>
+<AM lemma="elektro_,h_^(elektrospotřebič;_prodejna_elektro)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m016-d1t2079-3">
@@ -4193,11 +4194,11 @@
 <form>elektro</form>
 <tag>
 <AM lemma="elektrický" src="auto">A2--------A----</AM>
-<AM lemma="elektro_,h_,l_^(elektrospotřebič;_prodejna_elektro)" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="elektro_,h_,l_^(elektrospotřebič;_prodejna_elektro)" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
 <AM lemma="elektro_,h_,l_^(elektrospotřebič;_prodejna_elektro)" src="auto">NNNS4-----A----</AM>
 <AM lemma="elektro_,h_,l_^(elektrospotřebič;_prodejna_elektro)" src="auto">NNNS5-----A----</AM>
 <AM lemma="elektro" src="auto">A2--------A----</AM>
-<AM lemma="elektro_,h_^(elektrospotřebič;_prodejna_elektro)" src="manual" selected="1">NNNS2-----A---6</AM>
+<AM lemma="elektro_,h_^(elektrospotřebič;_prodejna_elektro)" src="manual">NNNS2-----A---6</AM>
 </tag>
 </m>
 <m id="m016-d1t2317-3">

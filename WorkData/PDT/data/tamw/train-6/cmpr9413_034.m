@@ -3673,7 +3673,8 @@
 <form>ad</form>
 <tag>
 <AM lemma="ad_,t" src="orig">RR--1----------</AM>
-<AM lemma="ad" src="manual" selected="1">RR--1----------</AM>
+<AM lemma="ad" src="manual">RR--1----------</AM>
+<AM lemma="ad-2" src="manual" selected="1">RR--1----------</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-034-p12s1w2">

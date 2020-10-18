@@ -1745,7 +1745,8 @@
 <AM lemma="důl" src="auto">NNIS5-----A----</AM>
 <AM lemma="důl" src="auto">NNIS6-----A----</AM>
 <AM lemma="dole" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="Dole-2_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Dole-2_;Y" src="manual">NNFS1-----A----</AM>
+<AM lemma="Dole-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0103-001-p1s4W5-Ta">
@@ -3122,7 +3123,8 @@
 <AM lemma="důl" src="auto">NNIS5-----A----</AM>
 <AM lemma="důl" src="auto">NNIS6-----A----</AM>
 <AM lemma="dole" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="Dole-2_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Dole-2_;Y" src="manual">NNFS1-----A----</AM>
+<AM lemma="Dole-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0103-001-p1s7W9-Ta">

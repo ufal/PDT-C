@@ -2257,8 +2257,8 @@
 <form>ducha</form>
 <tag>
 <AM lemma="duch-1" src="auto">NNMS2-----A----</AM>
-<AM lemma="duch-1" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="duch-2" src="manual" selected="1">NNIS4-----A---1</AM>
+<AM lemma="duch-1" src="auto" recommended="1" selected="1">NNMS4-----A----</AM>
+<AM lemma="duch-2" src="manual">NNIS4-----A---1</AM>
 </tag>
 </m>
 <m id="m-wsj2407-001-p1s6W25-Ta">
@@ -3334,13 +3334,15 @@
 <w.rf>
 <LM>w#w-wsj2407-001-p1s9W7</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>do</form>
 <tag>
 <AM lemma="do-1" src="auto" recommended="1">RR--2----------</AM>
 <AM lemma="do-2_^(tae-kwon-do)" src="auto">NNNXX-----A----</AM>
 <AM lemma="do-7_^(předpona,_sam.)" src="auto">A2--------A----</AM>
-<AM lemma="do-99_:B_;Y" src="auto">NNXXX-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="do-99_:B_;Y" src="auto">NNXXX-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj2407-001-p1s9W8-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -6613,14 +6615,16 @@
 <w.rf>
 <LM>w#w-wsj2407-001-p1s19W15</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>osmnáctiletá</form>
 <tag>
 <AM lemma="osmnáctiletý" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="osmnáctiletý" src="auto">AAFS5----1A----</AM>
 <AM lemma="osmnáctiletý" src="auto">AANP1----1A----</AM>
 <AM lemma="osmnáctiletý" src="auto">AANP4----1A----</AM>
-<AM lemma="osmnáctiletý" src="auto">AANP5----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="osmnáctiletý" src="auto">AANP5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj2407-001-p1s19W16-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

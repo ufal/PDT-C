@@ -33,11 +33,11 @@
 <form>Díky</form>
 <tag>
 <AM lemma="dík-1" src="auto" recommended="1">NNIP1-----A----</AM>
-<AM lemma="dík-1" src="auto">NNIP4-----A----</AM>
+<AM lemma="dík-1" src="auto" selected="1">NNIP4-----A----</AM>
 <AM lemma="dík-1" src="auto">NNIP5-----A----</AM>
 <AM lemma="dík-1" src="auto">NNIP7-----A----</AM>
 <AM lemma="díky" src="auto">RR--3----------</AM>
-<AM lemma="díky-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="díky-2" src="manual">TT-------------</AM>
 </tag>
 </m>
 <m id="m013-d-m-d1e3819-x2-punct-punct">

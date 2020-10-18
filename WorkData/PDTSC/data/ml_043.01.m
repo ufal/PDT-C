@@ -2169,7 +2169,7 @@
 <AM lemma="druhý" src="auto">CrFP5----------</AM>
 <AM lemma="druhý" src="auto">CrFS2----------</AM>
 <AM lemma="druhý" src="auto">CrFS3----------</AM>
-<AM lemma="druhý" src="auto" recommended="1">CrFS6----------</AM>
+<AM lemma="druhý" src="auto" recommended="1" selected="1">CrFS6----------</AM>
 <AM lemma="druhý" src="auto">CrIP1----------</AM>
 <AM lemma="druhý" src="auto">CrIP4----------</AM>
 <AM lemma="druhý" src="auto">CrIP5----------</AM>
@@ -2180,7 +2180,7 @@
 <AM lemma="druhý" src="auto">CrNS1----------</AM>
 <AM lemma="druhý" src="auto">CrNS4----------</AM>
 <AM lemma="druhý" src="auto">CrNS5----------</AM>
-<AM lemma="druhé" src="manual" selected="1">Cv-------------</AM>
+<AM lemma="druhé" src="manual">Cv-------------</AM>
 </tag>
 </m>
 <m id="m043-d-m-d1e479-x2-punct-punct">

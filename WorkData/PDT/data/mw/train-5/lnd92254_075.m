@@ -7126,7 +7126,10 @@
 <LM>w#w-lnd92254-075-p17s1w1</LM>
 </w.rf>
 <form>Družba</form>
-<tag lemma="družba" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="družba" src="orig">NNFS1-----A----</AM>
+<AM lemma="družba-2" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92254-075-p17s1w2">
 <src.rf>manual</src.rf>

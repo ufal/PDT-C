@@ -1095,7 +1095,8 @@
 <AM lemma="Česmad_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="Česmad_:B_;m" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Česmad_:B_;m" src="auto">NNIS4-----A----</AM>
-<AM lemma="ČESMAD-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČESMAD-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="ČESMAD_;m_^(Sdružení_automobilových_dopravců)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-169-p4s1w5">
@@ -1104,7 +1105,10 @@
 <LM>w#w-mf930708-169-p4s1w5</LM>
 </w.rf>
 <form>Slovakia</form>
-<tag lemma="Slovakia_;m" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Slovakia_;m" src="orig">NNFXX-----A----</AM>
+<AM lemma="Slovakia_;G" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-169-p4s1w6">
 <src.rf>manual</src.rf>
@@ -1355,7 +1359,9 @@
 <form>ČESMAD</form>
 <tag>
 <AM lemma="Česmad_:B_;m" src="orig">NNIS1-----A----</AM>
-<AM lemma="ČESMAD-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ČESMAD-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Česmad_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="ČESMAD_;m_^(Sdružení_automobilových_dopravců)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-169-p5s2w2">
@@ -1364,7 +1370,10 @@
 <LM>w#w-mf930708-169-p5s2w2</LM>
 </w.rf>
 <form>Slovakia</form>
-<tag lemma="Slovakia_;m" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Slovakia_;m" src="orig">NNFXX-----A----</AM>
+<AM lemma="Slovakia_;G" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930708-169-p5s2w3">
 <src.rf>manual</src.rf>

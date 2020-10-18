@@ -288,7 +288,10 @@
 <LM>w#w-mf920923-105-p2s5w7</LM>
 </w.rf>
 <form>desatera</form>
-<tag lemma="desatero" src="orig" selected="1">NNNS2-----A----</tag>
+<tag>
+<AM lemma="desatero" src="orig">NNNS2-----A----</AM>
+<AM lemma="desatero" src="manual" selected="1">CjNS2----------</AM>
+</tag>
 </m>
 <m id="m-mf920923-105-p2s5w8">
 <src.rf>manual</src.rf>

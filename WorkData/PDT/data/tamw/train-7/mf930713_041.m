@@ -259,7 +259,10 @@
 <LM>w#w-mf930713-041-p1s1Cw20</LM>
 </w.rf>
 <form>Družba</form>
-<tag lemma="družba" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="družba" src="orig">NNFS1-----A----</AM>
+<AM lemma="Družba_;m" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-041-p1s1Cw21">
 <src.rf>manual</src.rf>

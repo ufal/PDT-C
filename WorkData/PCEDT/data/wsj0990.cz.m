@@ -12588,13 +12588,14 @@
 <LM>w#w-wsj0990-001-p1s40W4</LM>
 </w.rf>
 <form>52</form>
-<tag>
-<AM lemma="52" src="auto" recommended="1">C=-------------</AM></tag>
-</m><m id="m-wsj0990-001-p1s40W4-Ta-sw1">
+<tag lemma="52" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m-wsj0990-001-p1s40W4-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0990-001-p1s40W4</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>leté</form>
 <tag>
 <AM lemma="letý" src="auto">AAFP1----1A----</AM>
@@ -12612,8 +12613,9 @@
 <AM lemma="letý" src="auto">AANP5----1A---6</AM>
 <AM lemma="letý" src="auto">AANS1----1A----</AM>
 <AM lemma="letý" src="auto">AANS4----1A----</AM>
-<AM lemma="letý" src="auto">AANS5----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="letý" src="auto">AANS5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj0990-001-p1s40W5-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -18847,7 +18849,8 @@
 <tag>
 <AM lemma="Agip_;Y" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Agip_;Y" src="auto">NNIS4-----A----</AM>
-<AM lemma="AGIP-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="AGIP-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Agip_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0990-001-p1s59W10-Ta">
@@ -19701,7 +19704,8 @@
 <tag>
 <AM lemma="Agip_;Y" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Agip_;Y" src="auto">NNIS4-----A----</AM>
-<AM lemma="AGIP-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="AGIP-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Agip_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0990-001-p1s62W12-Ta">
@@ -19912,7 +19916,8 @@
 <tag>
 <AM lemma="Agip_;Y" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Agip_;Y" src="auto">NNIS4-----A----</AM>
-<AM lemma="AGIP-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="AGIP-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Agip_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0990-001-p1s63W3-Ta">

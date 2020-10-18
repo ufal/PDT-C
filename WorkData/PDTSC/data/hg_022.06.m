@@ -3176,7 +3176,8 @@
 <AM lemma="druhý" src="auto">CrNS4----------</AM>
 <AM lemma="druhý" src="auto">CrNS5----------</AM>
 <AM lemma="druhý" src="manual">Cv-------------</AM>
-<AM lemma="druhé" src="manual" selected="1">Cv-------------</AM>
+<AM lemma="druhé" src="manual">Cv-------------</AM>
+<AM lemma="druhý" src="manual" selected="1">CrFS6----------</AM>
 </tag>
 </m>
 <m id="m022-d1e2056-x2-40">

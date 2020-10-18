@@ -909,7 +909,10 @@
 <LM>w#w-lnd92256-082-p4s2w27</LM>
 </w.rf>
 <form>čtyřma</form>
-<tag lemma="čtyři`4" src="orig" selected="1">ClFD7----------</tag>
+<tag>
+<AM lemma="čtyři`4" src="orig">ClFD7----------</AM>
+<AM lemma="čtyři`4" src="manual" selected="1">Cl-D7----------</AM>
+</tag>
 </m>
 <m id="m-lnd92256-082-p4s2w28">
 <src.rf>manual</src.rf>

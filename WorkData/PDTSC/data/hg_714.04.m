@@ -3338,7 +3338,8 @@
 <AM lemma="arma_,h" src="auto">NNFS1-----A----</AM>
 <AM lemma="Arma_;m" src="manual">NNMS1-----A----</AM>
 <AM lemma="Arma_;m" src="manual">NNFS1-----A----</AM>
-<AM lemma="Arma_;m" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Arma_;m" src="manual">NNFXX-----A----</AM>
+<AM lemma="Arma_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m714-7574-550">

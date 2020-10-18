@@ -5138,9 +5138,9 @@
 <form>černo</form>
 <tag>
 <AM lemma="černo" src="auto">NNNS1-----A----</AM>
-<AM lemma="černo" src="auto" recommended="1">NNNS4-----A----</AM>
+<AM lemma="černo" src="auto" recommended="1" selected="1">NNNS4-----A----</AM>
 <AM lemma="černo" src="auto">NNNS5-----A----</AM>
-<AM lemma="černo-2" src="manual" selected="1">Db-------------</AM>
+<AM lemma="černo-2" src="manual">Db-------------</AM>
 </tag>
 </m>
 <m id="m035-1276-876">

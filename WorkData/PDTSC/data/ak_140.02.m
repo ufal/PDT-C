@@ -1373,6 +1373,7 @@
 <tag>
 <AM lemma="družba" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="družba_^(pořadatel_svateb)" src="auto">NNMS1-----A----</AM>
+<AM lemma="Družba_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m140-d-id72877-punct">

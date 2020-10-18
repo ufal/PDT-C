@@ -130,9 +130,10 @@
 </w.rf>
 <form>Bernard</form>
 <tag>
-<AM lemma="Bernard-3_;m" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Bernard-3_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="Bernard_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Bernarda_;Y" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="Bernard-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-27-p2s1Aw11">
@@ -1647,9 +1648,10 @@
 </w.rf>
 <form>Bernard</form>
 <tag>
-<AM lemma="Bernard-3_;m" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Bernard-3_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="Bernard_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Bernarda_;Y" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="Bernard-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-27-p5s1w9">
@@ -3996,9 +3998,10 @@
 </w.rf>
 <form>Bernard</form>
 <tag>
-<AM lemma="Bernard-3_;m" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Bernard-3_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="Bernard_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Bernarda_;Y" src="auto">NNFP2-----A----</AM>
+<AM lemma="Bernard-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-27-p10s1w3">

@@ -392,7 +392,8 @@
 <AM lemma="duna" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="dunajský_:B_;G" src="manual">AAXXX----1A---8</AM>
 <AM lemma="dunajský_:B" src="manual">AAXXX----1A---8</AM>
-<AM lemma="Dun-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Dun-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="dunajský" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-ln94203-119-p2s2w3">

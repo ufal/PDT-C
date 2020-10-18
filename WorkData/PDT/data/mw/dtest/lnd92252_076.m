@@ -728,7 +728,8 @@
 <form>Brit</form>
 <tag>
 <AM lemma="Brit_;E" src="orig">NNMS1-----A----</AM>
-<AM lemma="Brit-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Brit-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Británie_;G" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92252-076-p4s1w13">
@@ -1238,7 +1239,8 @@
 <form>It</form>
 <tag>
 <AM lemma="Itálie_:B_;G" src="auto">NNFXX-----A----</AM>
-<AM lemma="It-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="It-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Itálie_;G" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92252-076-p5s2w4">
@@ -1370,7 +1372,8 @@
 <form>Rak</form>
 <tag>
 <AM lemma="rak" src="orig">NNMS1-----A----</AM>
-<AM lemma="Rak-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Rak-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Rakousko_;G" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92252-076-p5s3w4">
@@ -1484,7 +1487,8 @@
 <form>Brit</form>
 <tag>
 <AM lemma="Británie_:B_;m" src="orig">NNFXX-----A---9</AM>
-<AM lemma="Brit-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Brit-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Británie_;G" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92252-076-p5s4w4">
@@ -1613,7 +1617,8 @@
 <form>It</form>
 <tag>
 <AM lemma="Itálie_:B_;G" src="auto">NNFXX-----A----</AM>
-<AM lemma="It-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="It-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Itálie_;G" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92252-076-p5s5w7">
@@ -1701,7 +1706,8 @@
 <form>Fr</form>
 <tag>
 <AM lemma="Francie_:B_;G" src="auto">NNFXX-----A----</AM>
-<AM lemma="Fr-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Fr-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Francie_;G" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92252-076-p5s6w4">
@@ -2104,7 +2110,8 @@
 <form>Něm</form>
 <tag>
 <AM lemma="Německo_:B_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Něm-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Něm-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Německo_;G" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92252-076-p5s12w4">

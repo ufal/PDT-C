@@ -3900,12 +3900,12 @@
 </w.rf>
 <form>Díky</form>
 <tag>
-<AM lemma="dík-1" recommended="1">NNIP4-----A----</AM>
+<AM lemma="dík-1" recommended="1" selected="1">NNIP4-----A----</AM>
 <AM lemma="dík-1">NNIP1-----A----</AM>
 <AM lemma="dík-1">NNIP5-----A----</AM>
 <AM lemma="dík-1">NNIP7-----A----</AM>
 <AM lemma="díky">RR--3----------</AM>
-<AM lemma="díky-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="díky-2" src="manual">TT-------------</AM>
 </tag>
 </m>
 <m id="mu_14-SCzechM-p1473-s1-w20">

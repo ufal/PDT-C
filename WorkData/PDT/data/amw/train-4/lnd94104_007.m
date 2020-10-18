@@ -1600,7 +1600,8 @@
 <form>EGAP</form>
 <tag>
 <AM lemma="EGAP_;m" src="orig">NNIS1-----A----</AM>
-<AM lemma="EGAP-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="EGAP-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="EGAP_;m_^(Exportní_garanční_a_pojišťovací_společnost)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-007-p1s15w11">
@@ -1701,7 +1702,8 @@
 <form>EGAP</form>
 <tag>
 <AM lemma="EGAP_;m" src="orig">NNIS1-----A----</AM>
-<AM lemma="EGAP-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="EGAP-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="EGAP_;m_^(Exportní_garanční_a_pojišťovací_společnost)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-007-p1s16w5">

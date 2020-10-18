@@ -900,7 +900,10 @@
 <LM>w#w-ln94206-28-p2s6w9</LM>
 </w.rf>
 <form>Družba</form>
-<tag lemma="družba" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="družba" src="orig">NNFS1-----A----</AM>
+<AM lemma="Družba_;m" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-28-p2s6w10">
 <src.rf>manual</src.rf>

@@ -1267,7 +1267,8 @@
 <AM lemma="Dano_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="dan-1_^(mistr_a_učitel_japon._sportů)" src="auto">NNMS2-----A----</AM>
 <AM lemma="dan-1_^(mistr_a_učitel_japon._sportů)" src="auto">NNMS4-----A----</AM>
-<AM lemma="Dana-3_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Dana-3_;m" src="manual">NNXXX-----A----</AM>
+<AM lemma="Dana_;Y_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1325-001-p1s4W3-Ta">
@@ -2119,7 +2120,8 @@
 <AM lemma="Dano_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="dan-1_^(mistr_a_učitel_japon._sportů)" src="auto">NNMS2-----A----</AM>
 <AM lemma="dan-1_^(mistr_a_učitel_japon._sportů)" src="auto">NNMS4-----A----</AM>
-<AM lemma="Dana-3_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Dana-3_;m" src="manual">NNXXX-----A----</AM>
+<AM lemma="Dana_;Y_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1325-001-p1s7W9-Ta">

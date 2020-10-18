@@ -44,7 +44,8 @@
 <tag>
 <AM lemma="archiv" src="auto">NNIS5-----A----</AM>
 <AM lemma="archive-77" src="auto" recommended="1">F%-------------</AM>
-<AM lemma="Archive_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Archive_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Archive_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1361-001-p1s0W4-Ta">
@@ -1098,7 +1099,8 @@
 <tag>
 <AM lemma="archiv" src="auto">NNIS5-----A----</AM>
 <AM lemma="archive-77" src="auto" recommended="1">F%-------------</AM>
-<AM lemma="Archive_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Archive_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Archive_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1361-001-p1s2W3-Ta">

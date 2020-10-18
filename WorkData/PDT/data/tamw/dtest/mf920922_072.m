@@ -87,7 +87,8 @@
 <form>Dragon</form>
 <tag>
 <AM lemma="Dragona_;G" src="orig">NNFP2-----A----</AM>
-<AM lemma="Dragon_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Dragon_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Dragon-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-072-p2s1w8">
@@ -590,7 +591,8 @@
 <form>Dragon</form>
 <tag>
 <AM lemma="Dragona_;G" src="orig">NNFP2-----A----</AM>
-<AM lemma="Dragon_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Dragon_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Dragon-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-072-p2s3w6">

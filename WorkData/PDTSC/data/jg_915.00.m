@@ -2192,9 +2192,9 @@
 </w.rf>
 <form>Dunkerque</form>
 <tag>
-<AM lemma="Dunkerque_;G" src="auto">NNIS1-----A----</AM>
+<AM lemma="Dunkerque_;G" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="Dunkerque_;G" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="Dunkerque_;G" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Dunkerque_;G" src="manual">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m915-d1t161-2">
@@ -2611,8 +2611,8 @@
 <form>Dunkerque</form>
 <tag>
 <AM lemma="Dunkerque_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Dunkerque_;G" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="Dunkerque_;G" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Dunkerque_;G" src="auto" recommended="1" selected="1">NNIS4-----A----</AM>
+<AM lemma="Dunkerque_;G" src="manual">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m915-d1t183-3">
@@ -2698,8 +2698,8 @@
 <form>Dunkerque</form>
 <tag>
 <AM lemma="Dunkerque_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Dunkerque_;G" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="Dunkerque_;G" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Dunkerque_;G" src="auto" recommended="1" selected="1">NNIS4-----A----</AM>
+<AM lemma="Dunkerque_;G" src="manual">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m915-d1t187-9">
@@ -3781,8 +3781,8 @@
 <tag>
 <AM lemma="Dunkerque_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Dunkerque_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Dunkerque_;G" src="manual">NNIXX-----A----</AM>
-<AM lemma="Dunkerque_;G" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Dunkerque_;G" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="Dunkerque_;G" src="manual">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m915-d1t245-6">
@@ -4373,8 +4373,8 @@
 <AM lemma="Dunkerque_;G" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="Dunkerque_;G" src="manual">NNIS2-----A----</AM>
 <AM lemma="Dunkerque_;G" src="manual">NNIXX-----A----</AM>
-<AM lemma="Dunkerque_;G" src="manual">NNIXX-----A----</AM>
-<AM lemma="Dunkerque_;G" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Dunkerque_;G" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="Dunkerque_;G" src="manual">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m915-d1t266-4">
@@ -5985,7 +5985,8 @@
 <tag>
 <AM lemma="Dunkerque_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Dunkerque_;G" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="Dunkerque_;G" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Dunkerque_;G" src="manual">NNNXX-----A----</AM>
+<AM lemma="Dunkerque_;G" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m915-d1e289-x4-1909">

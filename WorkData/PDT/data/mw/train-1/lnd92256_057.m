@@ -1237,7 +1237,10 @@
 <LM>w#w-lnd92256-057-p5s4w5</LM>
 </w.rf>
 <form>ad</form>
-<tag lemma="ad" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="ad" src="orig">RR--1----------</AM>
+<AM lemma="ad-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92256-057-p5s4w6">
 <src.rf>manual</src.rf>

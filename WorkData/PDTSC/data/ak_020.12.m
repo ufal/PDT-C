@@ -2543,7 +2543,10 @@
 <LM>w#w-d1t2867-30</LM>
 </w.rf>
 <form>čtyřma</form>
-<tag lemma="čtyři`4" src="auto" recommended="1">ClFD7----------</tag>
+<tag>
+<AM lemma="čtyři`4" src="auto" recommended="1">ClFD7----------</AM>
+<AM lemma="čtyři`4" src="manual" selected="1">Cl-D7----------</AM>
+</tag>
 </m>
 <m id="m020-d1t2867-31">
 <w.rf>

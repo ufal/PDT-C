@@ -752,7 +752,10 @@
 <LM>w#w-lnd91303-090-p5s1w10</LM>
 </w.rf>
 <form>Albertville</form>
-<tag lemma="Albertville_;G" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Albertville_;G" src="orig">NNNXX-----A----</AM>
+<AM lemma="Albertville_;G" src="manual" selected="1">NNIXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd91303-090-p5s1w11">
 <src.rf>manual</src.rf>

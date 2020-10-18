@@ -1030,7 +1030,8 @@
 <tag>
 <AM lemma="ej" src="orig">NNNXX-----A----</AM>
 <AM lemma="ej" src="auto" recommended="1">II-------------</AM>
-<AM lemma="ej-2" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="ej-2" src="manual">NNNXX-----A----</AM>
+<AM lemma="ej-2" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-108-p3s4w12">
@@ -1141,7 +1142,8 @@
 <tag>
 <AM lemma="ej" src="orig">NNNXX-----A----</AM>
 <AM lemma="ej" src="auto" recommended="1">II-------------</AM>
-<AM lemma="ej-2" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="ej-2" src="manual">NNNXX-----A----</AM>
+<AM lemma="ej-2" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-108-p3s5w3">

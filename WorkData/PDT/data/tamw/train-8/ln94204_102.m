@@ -3062,7 +3062,8 @@
 <form>El</form>
 <tag>
 <AM lemma="El_;m" src="orig">AAXXX----1A----</AM>
-<AM lemma="El_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="El_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="El_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-102-p5s4w16">

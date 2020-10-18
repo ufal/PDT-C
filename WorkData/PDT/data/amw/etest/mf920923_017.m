@@ -2707,7 +2707,10 @@
 <LM>w#w-mf920923-017-p21s1w11</LM>
 </w.rf>
 <form>čtyřma</form>
-<tag lemma="čtyři`4" src="orig" selected="1">ClFD7----------</tag>
+<tag>
+<AM lemma="čtyři`4" src="orig">ClFD7----------</AM>
+<AM lemma="čtyři`4" src="manual" selected="1">Cl-D7----------</AM>
+</tag>
 </m>
 <m id="m-mf920923-017-p21s1w12">
 <src.rf>manual</src.rf>

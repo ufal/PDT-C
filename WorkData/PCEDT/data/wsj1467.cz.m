@@ -9202,9 +9202,9 @@
 </w.rf>
 <form>Bradyho</form>
 <tag>
-<AM lemma="Brady_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Brady_;Y" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
 <AM lemma="Brady_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Bradyho_;Y_^(*2)" src="manual" selected="1">AUIS2M---------</AM>
+<AM lemma="Bradyho_;Y_^(*2)" src="manual">AUIS2M---------</AM>
 </tag>
 </m>
 <m id="m-wsj1467-001-p1s28W18-Ta">

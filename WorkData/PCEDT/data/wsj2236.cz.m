@@ -788,7 +788,8 @@
 <form>Aristech</form>
 <tag>
 <AM lemma="Aristo_;Y" src="auto" recommended="1">NNMP6-----A----</AM>
-<AM lemma="Aristech_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Aristech_;m" src="manual">NNXXX-----A----</AM>
+<AM lemma="Aristech_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2236-001-p1s1W39-Ta">
@@ -1187,7 +1188,8 @@
 <form>Aristech</form>
 <tag>
 <AM lemma="Aristo_;Y" src="auto" recommended="1">NNMP6-----A----</AM>
-<AM lemma="Aristech_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Aristech_;m" src="manual">NNXXX-----A----</AM>
+<AM lemma="Aristech_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2236-001-p1s2W21-Ta">
@@ -1457,7 +1459,8 @@
 <form>Aristech</form>
 <tag>
 <AM lemma="Aristo_;Y" src="auto" recommended="1">NNMP6-----A----</AM>
-<AM lemma="Aristech_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Aristech_;m" src="manual">NNXXX-----A----</AM>
+<AM lemma="Aristech_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2236-001-p1s3W4-Ta">

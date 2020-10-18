@@ -4112,10 +4112,11 @@
 </w.rf>
 <form>Crewe</form>
 <tag>
-<AM lemma="Crewe_;G" src="orig" selected="1">NNIXX-----A----</AM>
+<AM lemma="Crewe_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="Crew_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Crewe_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Crewe_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Crewe-2_;G" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-125-p7s5w22">
@@ -4469,10 +4470,11 @@
 </w.rf>
 <form>Crewe</form>
 <tag>
-<AM lemma="Crewe_;G" src="orig" selected="1">NNIXX-----A----</AM>
+<AM lemma="Crewe_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="Crew_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Crewe_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Crewe_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Crewe-2_;G" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-125-p8s2w20">

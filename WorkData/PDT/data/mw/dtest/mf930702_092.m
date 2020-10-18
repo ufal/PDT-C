@@ -1212,11 +1212,12 @@
 </w.rf>
 <form>dvaceti</form>
 <tag>
-<AM lemma="dvacet`20" src="orig" selected="1">S2--------A----</AM>
+<AM lemma="dvacet`20" src="orig">S2--------A----</AM>
 <AM lemma="dvacet`20" src="auto">Cn-P2----------</AM>
 <AM lemma="dvacet`20" src="auto">Cn-P3----------</AM>
 <AM lemma="dvacet`20" src="auto">Cn-P6----------</AM>
 <AM lemma="dvacet`20" src="auto" recommended="1">Cn-P7----------</AM>
+<AM lemma="dvaceti`20" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-092-p4s1w19">
@@ -2195,11 +2196,12 @@
 </w.rf>
 <form>dvaceti</form>
 <tag>
-<AM lemma="dvacet`20" src="orig" selected="1">S2--------A----</AM>
+<AM lemma="dvacet`20" src="orig">S2--------A----</AM>
 <AM lemma="dvacet`20" src="auto">Cn-P2----------</AM>
 <AM lemma="dvacet`20" src="auto">Cn-P3----------</AM>
 <AM lemma="dvacet`20" src="auto" recommended="1">Cn-P6----------</AM>
 <AM lemma="dvacet`20" src="auto">Cn-P7----------</AM>
+<AM lemma="dvaceti`20" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-092-p6s5w19">

@@ -8951,6 +8951,7 @@
 <AM lemma="Bougainville-1_;G" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="Bougainville-2_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Bougainville-2_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Bougainville-1_;G" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1687-001-p1s35W19-Ta">

@@ -16727,7 +16727,10 @@
 <LM>w#w-wsj1057-001-p1s60W42</LM>
 </w.rf>
 <form>čtyřma</form>
-<tag lemma="čtyři`4" src="auto" recommended="1">ClFD7----------</tag>
+<tag>
+<AM lemma="čtyři`4" src="auto" recommended="1">ClFD7----------</AM>
+<AM lemma="čtyři`4" src="manual" selected="1">Cl-D7----------</AM>
+</tag>
 </m>
 <m id="m-wsj1057-001-p1s60W43-Ta">
 <src.rf>tagger-a</src.rf>
@@ -18214,7 +18217,7 @@
 </w.rf>
 <form>francouzském</form>
 <tag>
-<AM lemma="francouzský" src="auto">AAIS6----1A----</AM>
+<AM lemma="francouzský" src="auto" selected="1">AAIS6----1A----</AM>
 <AM lemma="francouzský" src="auto">AAMS6----1A----</AM>
 <AM lemma="francouzský" src="auto" recommended="1">AANS6----1A----</AM>
 </tag>
@@ -18225,7 +18228,10 @@
 <LM>w#w-wsj1057-001-p1s64W21</LM>
 </w.rf>
 <form>Albertville</form>
-<tag lemma="Albertville_;G" src="auto" recommended="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Albertville_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Albertville_;G" src="manual" selected="1">NNIXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1057-001-p1s64W22-Ta">
 <src.rf>tagger-a</src.rf>

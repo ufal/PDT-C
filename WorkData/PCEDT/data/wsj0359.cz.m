@@ -12076,7 +12076,8 @@
 <AM lemma="Abbo-1_;G" src="auto">NNNP7-----A----</AM>
 <AM lemma="Abbo-2_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Abbo-2_;Y" src="auto">NNMP7-----A----</AM>
-<AM lemma="Abby_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Abby_;Y" src="manual">NNFS1-----A----</AM>
+<AM lemma="Abby_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0359-001-p1s51W2-Ta">

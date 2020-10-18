@@ -1305,7 +1305,8 @@
 <form>Ames</form>
 <tag>
 <AM lemma="Ames_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Ames-2_;G_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Ames-2_;G_;m" src="manual">NNXXX-----A----</AM>
+<AM lemma="Ames-2_;G_;m" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1560-001-p1s4W24-Ta">

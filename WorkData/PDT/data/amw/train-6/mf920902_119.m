@@ -471,7 +471,8 @@
 <AM lemma="ARO_:B_;U_^(anesteziologicko-resuscitační_oddělení)" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="Ara_;m_^(obchod,_firma,_továrna)" src="auto">NNFS5-----A----</AM>
 <AM lemma="ara_,l" src="auto">NNMS5-----A----</AM>
-<AM lemma="ARO-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ARO-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="ARO_;U_^(anesteziologicko-resuscitační_oddělení)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-119-p2s3w14">

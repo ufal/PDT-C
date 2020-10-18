@@ -2473,7 +2473,8 @@
 <AM lemma="dobrý" src="auto">AANS5----2A----</AM>
 <AM lemma="lepšit" src="auto">VB-P---3P-AAI--</AM>
 <AM lemma="lepšit" src="auto">VB-S---3P-AAI--</AM>
-<AM lemma="dobře_^(*2rý)" src="manual" selected="1">Dg-------2A---6</AM>
+<AM lemma="dobře_^(*2rý)" src="manual">Dg-------2A---6</AM>
+<AM lemma="lepší" src="manual" selected="1">AANS1----2A----</AM>
 </tag>
 </m>
 <m id="m943-d1t183-19">

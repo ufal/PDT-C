@@ -2706,7 +2706,8 @@
 <tag>
 <AM lemma="Agip_;Y" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Agip_;Y" src="auto">NNIS4-----A----</AM>
-<AM lemma="AGIP-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="AGIP-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Agip_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0755-001-p1s8W24-Ta">
@@ -2915,7 +2916,8 @@
 <tag>
 <AM lemma="Agip_;Y" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Agip_;Y" src="auto">NNIS4-----A----</AM>
-<AM lemma="AGIP-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="AGIP-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Agip_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0755-001-p1s9W3-Ta">
@@ -7786,14 +7788,16 @@
 <w.rf>
 <LM>w#w-wsj0755-001-p1s26W11</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>jen</form>
 <tag>
 <AM lemma="jen-1" src="auto">TT-------------</AM>
 <AM lemma="jen-2_^(japonská_měna)" src="auto">NNIS1-----A----</AM>
 <AM lemma="jen-2_^(japonská_měna)" src="auto">NNIS4-----A----</AM>
 <AM lemma="jen-3" src="auto">J,-------------</AM>
-<AM lemma="jen-4_^(pouze)" src="auto" recommended="1">Db-------------</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="jen-4_^(pouze)" src="auto" recommended="1">Db-------------</AM>
+</tag>
+</m>
 <m id="m-wsj0755-001-p1s26W12-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -8305,14 +8309,14 @@
 <LM>w#w-wsj0755-001-p1s28W10</LM>
 </w.rf>
 <form>400</form>
-<tag>
-<AM lemma="400" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="400" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj0755-001-p1s28W10-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0755-001-p1s28W10</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>denní</form>
 <tag>
 <AM lemma="denní" src="auto">AAFP1----1A----</AM>
@@ -8341,8 +8345,9 @@
 <AM lemma="denní" src="auto">AANP5----1A----</AM>
 <AM lemma="denní" src="auto">AANS1----1A----</AM>
 <AM lemma="denní" src="auto">AANS4----1A----</AM>
-<AM lemma="denní" src="auto">AANS5----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="denní" src="auto">AANS5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj0755-001-p1s28W11-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

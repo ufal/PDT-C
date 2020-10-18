@@ -4090,7 +4090,10 @@
 <LM>w#w-vesm9212-015-p7s1w1</LM>
 </w.rf>
 <form>BOX</form>
-<tag lemma="box-2_^(krabice,_schránka)" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="box-2_^(krabice,_schránka)" src="orig">NNIXX-----A----</AM>
+<AM lemma="box-1" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9212-015-p7s1w2">
 <src.rf>manual</src.rf>
@@ -4884,7 +4887,10 @@
 <LM>w#w-vesm9212-015-p22s1w18</LM>
 </w.rf>
 <form>desatera</form>
-<tag lemma="desatero" src="orig" selected="1">NNNS2-----A----</tag>
+<tag>
+<AM lemma="desatero" src="orig">NNNS2-----A----</AM>
+<AM lemma="desatero" src="manual" selected="1">CjNS2----------</AM>
+</tag>
 </m>
 <m id="m-vesm9212-015-p22s1w19">
 <src.rf>manual</src.rf>

@@ -19,7 +19,10 @@
 <LM>w#w-lnd91301-087-p1s1w1</LM>
 </w.rf>
 <form>ad</form>
-<tag lemma="ad" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="ad" src="orig">RR--1----------</AM>
+<AM lemma="ad-2" src="manual" selected="1">RR--1----------</AM>
+</tag>
 </m>
 <m id="m-lnd91301-087-p1s1w2">
 <src.rf>manual</src.rf>

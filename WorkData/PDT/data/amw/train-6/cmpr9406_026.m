@@ -1487,7 +1487,8 @@
 <form>coca</form>
 <tag>
 <AM lemma="coca_;U_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="coca-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="coca-77" src="manual">F%-------------</AM>
+<AM lemma="coca-1" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-026-p6s4w26">

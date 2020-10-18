@@ -2202,9 +2202,9 @@
 </w.rf>
 <form>Downeyho</form>
 <tag>
-<AM lemma="Downey_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Downey_;Y" src="auto" selected="1">NNMS2-----A----</AM>
 <AM lemma="Downey_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Downeyho_;Y_^(*2)" src="manual" selected="1">AUIS1M---------</AM>
+<AM lemma="Downeyho_;Y_^(*2)" src="manual">AUIS1M---------</AM>
 </tag>
 </m>
 <m id="m-wsj1313-001-p1s9W8-Ta">
@@ -2686,9 +2686,9 @@
 </w.rf>
 <form>Downeyho</form>
 <tag>
-<AM lemma="Downey_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Downey_;Y" src="auto" selected="1">NNMS2-----A----</AM>
 <AM lemma="Downey_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Downeyho_;Y_^(*2)" src="manual" selected="1">AUIS1M---------</AM>
+<AM lemma="Downeyho_;Y_^(*2)" src="manual">AUIS1M---------</AM>
 </tag>
 </m>
 <m id="m-wsj1313-001-p1s12W3-Ta">

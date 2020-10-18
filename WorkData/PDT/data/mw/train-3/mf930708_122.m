@@ -3762,7 +3762,8 @@
 <tag>
 <AM lemma="Německo_:B_;G" src="auto">NNNXX-----A----</AM>
 <AM lemma="Německo_;G" src="manual">NNNXX-----A---8</AM>
-<AM lemma="Něm-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Něm-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Německo_;G" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930708-122-p11s3w4">
@@ -3873,7 +3874,8 @@
 <tag>
 <AM lemma="Německo_:B_;G" src="auto">NNNXX-----A----</AM>
 <AM lemma="Německo_;G" src="manual">NNNXX-----A---8</AM>
-<AM lemma="Něm-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Něm-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Německo_;G" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930708-122-p11s4w4">
@@ -4023,7 +4025,8 @@
 <form>Brit</form>
 <tag>
 <AM lemma="Brit_;E" src="orig">NNMS1-----A----</AM>
-<AM lemma="Brit-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Brit-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Británie_;G" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930708-122-p11s7w4">
