@@ -19,7 +19,10 @@
 <LM>w#w-mf930701-021-p1s1w1</LM>
 </w.rf>
 <form>Favorit</form>
-<tag lemma="favorit-1_;m" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="favorit-1_;m" src="orig">NNIS1-----A----</AM>
+<AM lemma="Favorit_;m_^(vozidlo)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-021-p1s1w2">
 <src.rf>manual</src.rf>
@@ -93,7 +96,10 @@
 <LM>w#w-mf930701-021-p2s1w6</LM>
 </w.rf>
 <form>Favorit</form>
-<tag lemma="favorit-1_;m" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="favorit-1_;m" src="orig">NNIS1-----A----</AM>
+<AM lemma="Favorit_;m_^(vozidlo)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-021-p2s1w7">
 <src.rf>manual</src.rf>
@@ -271,7 +277,10 @@
 <LM>w#w-mf930701-021-p2s2w9</LM>
 </w.rf>
 <form>Favorit</form>
-<tag lemma="favorit-1_;m" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="favorit-1_;m" src="orig">NNIS1-----A----</AM>
+<AM lemma="Favorit_;m_^(vozidlo)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-021-p2s2w10">
 <src.rf>manual</src.rf>

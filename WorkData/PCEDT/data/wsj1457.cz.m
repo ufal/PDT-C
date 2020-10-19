@@ -690,14 +690,14 @@
 <LM>w#w-wsj1457-001-p1s2W23</LM>
 </w.rf>
 <form>20</form>
-<tag>
-<AM lemma="20" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="20" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj1457-001-p1s2W23-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1457-001-p1s2W23</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>procentní</form>
 <tag>
 <AM lemma="procentní" src="auto">AAFP1----1A----</AM>
@@ -726,8 +726,9 @@
 <AM lemma="procentní" src="auto">AANP5----1A----</AM>
 <AM lemma="procentní" src="auto">AANS1----1A----</AM>
 <AM lemma="procentní" src="auto">AANS4----1A----</AM>
-<AM lemma="procentní" src="auto">AANS5----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="procentní" src="auto">AANS5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj1457-001-p1s2W24-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -3955,9 +3956,9 @@
 </w.rf>
 <form>Giulianiho</form>
 <tag>
-<AM lemma="Giuliani_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Giuliani_;Y" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
 <AM lemma="Giuliani_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Giulianiho_;Y_^(*2)" src="manual" selected="1">AUMS1M---------</AM>
+<AM lemma="Giulianiho_;Y_^(*2)" src="manual">AUMS1M---------</AM>
 </tag>
 </m>
 <m id="m-wsj1457-001-p1s15W11-Ta">
@@ -4864,9 +4865,9 @@
 </w.rf>
 <form>Giulianiho</form>
 <tag>
-<AM lemma="Giuliani_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Giuliani_;Y" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
 <AM lemma="Giuliani_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Giulianiho_;Y_^(*2)" src="manual" selected="1">AUFS2M---------</AM>
+<AM lemma="Giulianiho_;Y_^(*2)" src="manual">AUFS2M---------</AM>
 </tag>
 </m>
 <m id="m-wsj1457-001-p1s19W7-Ta">
@@ -7145,14 +7146,14 @@
 <LM>w#w-wsj1457-001-p1s27W1</LM>
 </w.rf>
 <form>62</form>
-<tag>
-<AM lemma="62" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="62" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj1457-001-p1s27W1-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1457-001-p1s27W1</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>letý</form>
 <tag>
 <AM lemma="letý" src="auto">AAFP1----1A---6</AM>
@@ -7177,8 +7178,9 @@
 <AM lemma="letý" src="auto">AANP5----1A---6</AM>
 <AM lemma="letý" src="auto">AANS1----1A---6</AM>
 <AM lemma="letý" src="auto">AANS4----1A---6</AM>
-<AM lemma="letý" src="auto">AANS5----1A---6</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="letý" src="auto">AANS5----1A---6</AM>
+</tag>
+</m>
 <m id="m-wsj1457-001-p1s27W2-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -8770,14 +8772,14 @@
 <LM>w#w-wsj1457-001-p1s33W12</LM>
 </w.rf>
 <form>45</form>
-<tag>
-<AM lemma="45" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="45" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj1457-001-p1s33W12-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1457-001-p1s33W12</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>letý</form>
 <tag>
 <AM lemma="letý" src="auto">AAFP1----1A---6</AM>
@@ -8802,8 +8804,9 @@
 <AM lemma="letý" src="auto">AANP5----1A---6</AM>
 <AM lemma="letý" src="auto">AANS1----1A---6</AM>
 <AM lemma="letý" src="auto">AANS4----1A---6</AM>
-<AM lemma="letý" src="auto">AANS5----1A---6</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="letý" src="auto">AANS5----1A---6</AM>
+</tag>
+</m>
 <m id="m-wsj1457-001-p1s33W13-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -11533,6 +11536,7 @@
 <w.rf>
 <LM>w#w-wsj1457-001-p1s46W2</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Dinkinsovy</form>
 <tag>
 <AM lemma="Dinkinsův_;Y_^(*2)" src="auto">AUFP1M---------</AM>
@@ -11542,8 +11546,9 @@
 <AM lemma="Dinkinsův_;Y_^(*2)" src="auto">AUIP1M---------</AM>
 <AM lemma="Dinkinsův_;Y_^(*2)" src="auto">AUIP4M---------</AM>
 <AM lemma="Dinkinsův_;Y_^(*2)" src="auto">AUIP5M---------</AM>
-<AM lemma="Dinkinsův_;Y_^(*2)" src="auto">AUMP4M---------</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="Dinkinsův_;Y_^(*2)" src="auto">AUMP4M---------</AM>
+</tag>
+</m>
 <m id="m-wsj1457-001-p1s46W3-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -13999,9 +14004,9 @@
 </w.rf>
 <form>Giulianiho</form>
 <tag>
-<AM lemma="Giuliani_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Giuliani_;Y" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
 <AM lemma="Giuliani_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Giulianiho_;Y_^(*2)" src="manual" selected="1">AUMS1M---------</AM>
+<AM lemma="Giulianiho_;Y_^(*2)" src="manual">AUMS1M---------</AM>
 </tag>
 </m>
 <m id="m-wsj1457-001-p1s58W12-Ta">
@@ -14554,9 +14559,9 @@
 </w.rf>
 <form>Giulianiho</form>
 <tag>
-<AM lemma="Giuliani_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Giuliani_;Y" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
 <AM lemma="Giuliani_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Giulianiho_;Y_^(*2)" src="manual" selected="1">AUFS2M---------</AM>
+<AM lemma="Giulianiho_;Y_^(*2)" src="manual">AUFS2M---------</AM>
 </tag>
 </m>
 <m id="m-wsj1457-001-p1s61W25-Ta">
@@ -15288,9 +15293,9 @@
 </w.rf>
 <form>Giulianiho</form>
 <tag>
-<AM lemma="Giuliani_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Giuliani_;Y" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
 <AM lemma="Giuliani_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Giulianiho_;Y_^(*2)" src="manual" selected="1">AUFS2M---------</AM>
+<AM lemma="Giulianiho_;Y_^(*2)" src="manual">AUFS2M---------</AM>
 </tag>
 </m>
 <m id="m-wsj1457-001-p1s64W13-Ta">

@@ -1755,7 +1755,8 @@
 <AM lemma="Harty_;G" src="auto">NNIP4-----A----</AM>
 <AM lemma="Harty_;G" src="auto">NNIP5-----A----</AM>
 <AM lemma="Harty_;G" src="auto">NNIP7-----A----</AM>
-<AM lemma="Harty_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Harty_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Harty-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1556-001-p1s4W31-Ta">
@@ -2180,7 +2181,8 @@
 <AM lemma="Harty_;G" src="auto">NNIP4-----A----</AM>
 <AM lemma="Harty_;G" src="auto">NNIP5-----A----</AM>
 <AM lemma="Harty_;G" src="auto">NNIP7-----A----</AM>
-<AM lemma="Harty_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Harty_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Harty-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1556-001-p1s5W12-Ta">
@@ -10999,7 +11001,8 @@
 <AM lemma="Harty_;G" src="auto">NNIP4-----A----</AM>
 <AM lemma="Harty_;G" src="auto">NNIP5-----A----</AM>
 <AM lemma="Harty_;G" src="auto">NNIP7-----A----</AM>
-<AM lemma="Harty_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Harty_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Harty-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1556-001-p1s34W4-Ta">

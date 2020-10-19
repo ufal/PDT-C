@@ -2901,6 +2901,7 @@
 <AM lemma="Legend_;m_^(vozidlo)" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="legend_;m_^(vozidlo)" src="auto">NNFXX-----A----</AM>
 <AM lemma="legenda" src="auto">NNFP2-----A----</AM>
+<AM lemma="Legend_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0092-001-p1s9W15-Ta">

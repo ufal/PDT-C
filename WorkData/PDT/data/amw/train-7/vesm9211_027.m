@@ -17575,7 +17575,9 @@
 <form>kol</form>
 <tag>
 <AM lemma="kolo" src="orig">NNNP2-----A----</AM>
-<AM lemma="kolektiv" src="manual" selected="1">NNIS1-----A---8</AM>
+<AM lemma="kolektiv" src="manual">NNIS1-----A---8</AM>
+<AM lemma="kol-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="kol-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-027-p66s1w6">

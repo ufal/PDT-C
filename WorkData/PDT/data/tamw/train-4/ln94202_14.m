@@ -1423,7 +1423,10 @@
 <LM>w#w-ln94202-14-p3s5w2</LM>
 </w.rf>
 <form>Legend</form>
-<tag lemma="Legend_;m_^(vozidlo)" src="auto" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Legend_;m_^(vozidlo)" src="auto">NNFXX-----A----</AM>
+<AM lemma="Legend_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-14-p3s5w3">
 <src.rf>manual</src.rf>
@@ -2788,7 +2791,10 @@
 <LM>w#w-ln94202-14-p5s1w2</LM>
 </w.rf>
 <form>Legend</form>
-<tag lemma="Legend_;m_^(vozidlo)" src="auto" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Legend_;m_^(vozidlo)" src="auto">NNFXX-----A----</AM>
+<AM lemma="Legend_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-14-p5s1w3">
 <src.rf>manual</src.rf>
@@ -3246,7 +3252,10 @@
 <LM>w#w-ln94202-14-p5s3w9</LM>
 </w.rf>
 <form>Legend</form>
-<tag lemma="Legend_;m_^(vozidlo)" src="auto" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Legend_;m_^(vozidlo)" src="auto">NNFXX-----A----</AM>
+<AM lemma="Legend_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-14-p5s3w10">
 <src.rf>manual</src.rf>

@@ -1758,7 +1758,10 @@
 <LM>w#w-ln94210-108-p3s3w32</LM>
 </w.rf>
 <form>malinko</form>
-<tag lemma="malinko-1" src="auto" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="malinko-1" src="auto">Db-------------</AM>
+<AM lemma="malinko-3" src="manual" selected="1">Dg-------1A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-108-p3s3w33">
 <src.rf>manual</src.rf>

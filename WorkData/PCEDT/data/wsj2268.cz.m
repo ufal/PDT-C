@@ -139,7 +139,8 @@
 <form>jenž</form>
 <tag>
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJYS1----------</AM>
-<AM lemma="jenž_^(který_[ve_vedl.větě])" src="manual" selected="1">P4YP1---------6</AM>
+<AM lemma="jenž_^(který_[ve_vedl.větě])" src="manual">P4YP1---------6</AM>
+<AM lemma="jenž_^(který_[ve_vedl.větě])" src="manual" selected="1">P4IP1---------6</AM>
 </tag>
 </m>
 <m id="m-wsj2268-001-p1s1W14-Ta">
@@ -1102,7 +1103,8 @@
 <form>jenž</form>
 <tag>
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJYS1----------</AM>
-<AM lemma="jenž_^(který_[ve_vedl.větě])" src="manual" selected="1">P4YP1---------6</AM>
+<AM lemma="jenž_^(který_[ve_vedl.větě])" src="manual">P4YP1---------6</AM>
+<AM lemma="jenž_^(který_[ve_vedl.větě])" src="manual" selected="1">P4IP1---------6</AM>
 </tag>
 </m>
 <m id="m-wsj2268-001-p1s3W27-Ta">

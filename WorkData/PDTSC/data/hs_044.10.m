@@ -3452,20 +3452,22 @@
 <LM>w#w-d1t3190-1</LM>
 </w.rf>
 <form>600</form>
-<tag>
-<AM lemma="600" src="auto" recommended="1">C=-------------</AM></tag>
-</m><m id="m044-d1t3190-1-sw1">
+<tag lemma="600" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m044-d1t3190-1-sw1">
 <w.rf>
 <LM>w#w-d1t3190-1</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>hektarová</form>
 <tag>
 <AM lemma="hektarový" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="hektarový" src="auto">AAFS5----1A----</AM>
 <AM lemma="hektarový" src="auto">AANP1----1A----</AM>
 <AM lemma="hektarový" src="auto">AANP4----1A----</AM>
-<AM lemma="hektarový" src="auto">AANP5----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="hektarový" src="auto">AANP5----1A----</AM>
+</tag>
+</m>
 <m id="m044-d1t3188-9">
 <w.rf>
 <LM>w#w-d1t3188-9</LM>
@@ -4883,7 +4885,8 @@
 <tag>
 <AM lemma="Furth_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Furth_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Furth_;G" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="Furth_;G" src="manual">NNIXX-----A----</AM>
+<AM lemma="Furth-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m044-d1t3276-13">

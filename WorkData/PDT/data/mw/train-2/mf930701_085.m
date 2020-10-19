@@ -278,7 +278,7 @@
 </w.rf>
 <form>Kamenité</form>
 <tag>
-<AM lemma="Kamenitá_;G" src="orig" selected="1">NNFS2-----A----</AM>
+<AM lemma="Kamenitá_;G" src="orig">NNFS2-----A----</AM>
 <AM lemma="kamenitý" src="auto">AAFP1----1A----</AM>
 <AM lemma="kamenitý" src="auto">AAFP4----1A----</AM>
 <AM lemma="kamenitý" src="auto">AAFP5----1A----</AM>
@@ -295,6 +295,7 @@
 <AM lemma="kamenitý" src="auto">AANS1----1A----</AM>
 <AM lemma="kamenitý" src="auto">AANS4----1A----</AM>
 <AM lemma="kamenitý" src="auto">AANS5----1A----</AM>
+<AM lemma="Kamenité_;G" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-085-p2s1w24">
@@ -923,7 +924,7 @@
 </w.rf>
 <form>Kamenité</form>
 <tag>
-<AM lemma="Kamenitá_;G" src="orig" selected="1">NNFS2-----A----</AM>
+<AM lemma="Kamenitá_;G" src="orig">NNFS2-----A----</AM>
 <AM lemma="kamenitý" src="auto">AAFP1----1A----</AM>
 <AM lemma="kamenitý" src="auto">AAFP4----1A----</AM>
 <AM lemma="kamenitý" src="auto">AAFP5----1A----</AM>
@@ -940,6 +941,7 @@
 <AM lemma="kamenitý" src="auto">AANS1----1A----</AM>
 <AM lemma="kamenitý" src="auto">AANS4----1A----</AM>
 <AM lemma="kamenitý" src="auto">AANS5----1A----</AM>
+<AM lemma="Kamenité_;G_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-085-p3s2w4">

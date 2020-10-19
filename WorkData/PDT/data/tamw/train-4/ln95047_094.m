@@ -2402,7 +2402,10 @@
 <LM>w#w-ln95047-094-p3s10w4</LM>
 </w.rf>
 <form>Kozel</form>
-<tag lemma="Kozel_;Y_;m" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Kozel_;Y_;m" src="auto">NNMS1-----A----</AM>
+<AM lemma="Kozel-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-094-p3s10w5">
 <src.rf>manual</src.rf>

@@ -1430,7 +1430,10 @@
 <LM>w#w-ln95048-064-p5s1w12</LM>
 </w.rf>
 <form>kápo</form>
-<tag lemma="kápo" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="kápo" src="orig">NNNS1-----A----</AM>
+<AM lemma="kápo" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-064-p5s1w13">
 <src.rf>manual</src.rf>

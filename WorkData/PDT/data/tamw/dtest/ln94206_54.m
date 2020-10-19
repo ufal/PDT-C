@@ -346,7 +346,8 @@
 <form>Kozel</form>
 <tag>
 <AM lemma="Kozel_;Y_;m" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kozel_;Y_;m" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Kozel_;Y_;m" src="manual">NNMS1-----A----</AM>
+<AM lemma="Kozel-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-54-p2s1Bw29">
@@ -858,7 +859,10 @@
 <LM>w#w-ln94206-54-p2s6w17</LM>
 </w.rf>
 <form>Kozel</form>
-<tag lemma="Kozel_;Y_;m" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Kozel_;Y_;m" src="auto">NNMS1-----A----</AM>
+<AM lemma="Kozel-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-54-p2s6w18">
 <src.rf>manual</src.rf>

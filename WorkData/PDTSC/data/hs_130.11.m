@@ -4179,8 +4179,8 @@
 <AM lemma="jiný" src="auto">AAIS2----1A----</AM>
 <AM lemma="jiný" src="auto">AAMS2----1A----</AM>
 <AM lemma="jiný" src="auto">AAMS4----1A----</AM>
-<AM lemma="jiný" src="auto" recommended="1">AANS2----1A----</AM>
-<AM lemma="jiný" src="manual" selected="1">AANS4----1A----</AM>
+<AM lemma="jiný" src="auto" recommended="1" selected="1">AANS2----1A----</AM>
+<AM lemma="jiný" src="manual">AANS4----1A----</AM>
 </tag>
 </m>
 <m id="m130-d1t1553-20">

@@ -2053,7 +2053,8 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
-<AM lemma="Inc-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Inc-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0970-001-p1s5W9-Ta">

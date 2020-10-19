@@ -7310,6 +7310,7 @@
 <tag>
 <AM lemma="KIA_;m" src="auto" recommended="1">BNFXX-----A----</AM>
 <AM lemma="KIA_:B_;m_^(vozidlo)" src="auto">NNFXX-----A----</AM>
+<AM lemma="Kia_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2140-001-p1s27W17-Ta">
@@ -7672,6 +7673,8 @@
 <tag>
 <AM lemma="KIA_;m" src="auto" recommended="1">BNFXX-----A----</AM>
 <AM lemma="KIA_:B_;m_^(vozidlo)" src="auto">NNFXX-----A----</AM>
+<AM lemma="KIA_;m" src="manual">NNFS1-----A----</AM>
+<AM lemma="Kia_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2140-001-p1s29W2-Ta">
@@ -8928,6 +8931,8 @@
 <tag>
 <AM lemma="KIA_;m" src="auto" recommended="1">BNFXX-----A----</AM>
 <AM lemma="KIA_:B_;m_^(vozidlo)" src="auto">NNFXX-----A----</AM>
+<AM lemma="KIA_;m" src="manual">NNFXX-----A----</AM>
+<AM lemma="Kia_;m" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2140-001-p1s33W15-Ta">
@@ -8949,6 +8954,7 @@
 <tag>
 <AM lemma="KIA_;m" src="auto" recommended="1">BNFXX-----A----</AM>
 <AM lemma="KIA_:B_;m_^(vozidlo)" src="auto">NNFXX-----A----</AM>
+<AM lemma="Kia_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2140-001-p1s34W2-Ta">
@@ -10152,6 +10158,7 @@
 <tag>
 <AM lemma="KIA_;m" src="auto" recommended="1">BNFXX-----A----</AM>
 <AM lemma="KIA_:B_;m_^(vozidlo)" src="auto">NNFXX-----A----</AM>
+<AM lemma="Kia_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2140-001-p1s37W33-Ta">
@@ -11501,6 +11508,7 @@
 <tag>
 <AM lemma="KIA_;m" src="auto" recommended="1">BNFXX-----A----</AM>
 <AM lemma="KIA_:B_;m_^(vozidlo)" src="auto">NNFXX-----A----</AM>
+<AM lemma="Kia_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2140-001-p1s44W10-Ta">

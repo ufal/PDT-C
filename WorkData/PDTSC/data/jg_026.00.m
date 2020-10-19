@@ -2999,7 +2999,8 @@
 <AM lemma="Kozl_;Y" src="auto">NNMS6-----A---1</AM>
 <AM lemma="kozel" src="auto">NNMS3-----A----</AM>
 <AM lemma="kozel" src="auto">NNMS6-----A----</AM>
-<AM lemma="Kozel-3_;G" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="Kozel-3_;G" src="manual">NNIS6-----A----</AM>
+<AM lemma="Kozel-2_;G_;m" src="manual" selected="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 <m id="m026-100-121">

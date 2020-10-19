@@ -5491,8 +5491,8 @@
 <tag>
 <AM lemma="Houston-1_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Houston-1_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Houston-2_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Houston-2_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Houston-2_;Y" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
+<AM lemma="Houston-2_;Y" src="manual">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1376-001-p1s21W3-Ta">
@@ -7314,8 +7314,8 @@
 <tag>
 <AM lemma="Houston-1_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Houston-1_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Houston-2_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Houston-2_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Houston-2_;Y" src="auto" selected="1">NNMS1-----A----</AM>
+<AM lemma="Houston-2_;Y" src="manual">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1376-001-p1s27W2-Ta">

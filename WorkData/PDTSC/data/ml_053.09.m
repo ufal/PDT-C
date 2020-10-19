@@ -4179,7 +4179,8 @@
 <AM lemma="málo-1_^(málo_+_2._p.,_málo_peněz)" src="auto">Ca--6----------</AM>
 <AM lemma="málo-1_^(málo_+_2._p.,_málo_peněz)" src="auto">Ca--7----------</AM>
 <AM lemma="málo-3_^(málo_+_příd._jm.,_př._byl_málo_důsledný)" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="málo-1" src="manual" selected="1">Ca--X----------</AM>
+<AM lemma="málo-1" src="manual">Ca--X----------</AM>
+<AM lemma="málo-1_^(málo_peněz)" src="manual" selected="1">Ca--4----------</AM>
 </tag>
 </m>
 <m id="m053-d-m-d1e3299-x2-punct-punct">

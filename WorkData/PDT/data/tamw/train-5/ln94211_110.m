@@ -127,7 +127,8 @@
 <form>Falcon</form>
 <tag>
 <AM lemma="Falcon_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Falcon-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Falcon-2_;m" src="manual">NNXXX-----A----</AM>
+<AM lemma="Falcon-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 </s>

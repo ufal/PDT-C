@@ -2670,19 +2670,17 @@
 </w.rf>
 <form_change>num_normalization</form_change>
 <form>-</form>
-<tag>
-<AM lemma="-" src="auto" recommended="1">Z:-------------</AM></tag>
+<tag lemma="-" src="auto" recommended="1">Z:-------------</tag>
 </m>
 <m id="m-wsj0093-001-p1s7W23-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0093-001-p1s7W23</LM>
 </w.rf>
-<form_change>num_normalization</form_change>
+<form_change>spell</form_change>
 <form>4</form>
-<tag>
-<AM lemma="4" src="auto" recommended="1">C=-------------</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="4" src="auto" recommended="1">C=-------------</tag>
+</m>
 <m id="m-wsj0093-001-p1s7W24-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -5625,7 +5623,8 @@
 <AM lemma="li-1" src="auto">TT-------------</AM>
 <AM lemma="li-2" src="auto">J,-------------</AM>
 <AM lemma="li-99_:B_;Y" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Li-2_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Li-2_;Y" src="manual">NNFS1-----A----</AM>
+<AM lemma="Li-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0093-001-p1s16W24-Ta">

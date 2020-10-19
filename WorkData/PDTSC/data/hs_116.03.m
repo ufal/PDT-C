@@ -2130,7 +2130,10 @@
 <LM>w#w-d1t703-10</LM>
 </w.rf>
 <form>Group</form>
-<tag lemma="Group-1_;m_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="auto" recommended="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Group-1_;m_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Group-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m116-d1t703-11">
 <w.rf>
@@ -2147,6 +2150,7 @@
 <tag>
 <AM lemma="Securitas_;m" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Securitas_;m" src="auto">NNIS4-----A----</AM>
+<AM lemma="Securitas-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m116-d-id85852-punct">

@@ -5315,8 +5315,8 @@
 </w.rf>
 <form>chudobný</form>
 <tag>
-<AM lemma="chudobný" src="orig">AAMS1----1A----</AM>
-<AM lemma="chudobný-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="chudobný" src="orig" selected="1">AAMS1----1A----</AM>
+<AM lemma="chudobný-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92254-075-p11s2w24">

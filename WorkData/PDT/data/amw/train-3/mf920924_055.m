@@ -5448,7 +5448,8 @@
 <form>málo</form>
 <tag>
 <AM lemma="málo-1_^(málo_+_2._p.,_málo_peněz)" src="orig">Ca--1----------</AM>
-<AM lemma="málo-1" src="manual" selected="1">Ca--X----------</AM>
+<AM lemma="málo-1" src="manual">Ca--X----------</AM>
+<AM lemma="málo-1_^(málo_peněz)" src="manual" selected="1">Ca--1----------</AM>
 </tag>
 </m>
 <m id="m-mf920924-055-p17s1w17">

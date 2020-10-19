@@ -899,6 +899,7 @@
 <w.rf>
 <LM>w#w-wsj2053-001-p1s2W24</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Strategické</form>
 <tag>
 <AM lemma="strategický" src="auto">AAFP1----1A----</AM>
@@ -913,8 +914,9 @@
 <AM lemma="strategický" src="auto">AAMP4----1A----</AM>
 <AM lemma="strategický" src="auto">AANS1----1A----</AM>
 <AM lemma="strategický" src="auto">AANS4----1A----</AM>
-<AM lemma="strategický" src="auto">AANS5----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="strategický" src="auto">AANS5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj2053-001-p1s2W25-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -1161,7 +1163,8 @@
 <AM lemma="Illinois" src="auto">NNIS7-----A---1</AM>
 <AM lemma="Illinois_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Illinois_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Illinois_;G" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Illinois_;G" src="manual">NNXXX-----A----</AM>
+<AM lemma="Illinois_;G_;m" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2053-001-p1s3W16-Ta">
@@ -5792,12 +5795,14 @@
 <w.rf>
 <LM>w#w-wsj2053-001-p1s21W17</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Senátu</form>
 <tag>
 <AM lemma="senát" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="senát" src="auto">NNIS3-----A----</AM>
-<AM lemma="senát" src="auto">NNIS6-----A---1</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="senát" src="auto">NNIS6-----A---1</AM>
+</tag>
+</m>
 <m id="m-wsj2053-001-p1s21W18-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -5975,6 +5980,7 @@
 <w.rf>
 <LM>w#w-wsj2053-001-p1s22W3</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>minulý</form>
 <tag>
 <AM lemma="minulý" src="auto">AAFP1----1A---6</AM>
@@ -5999,8 +6005,9 @@
 <AM lemma="minulý" src="auto">AANP5----1A---6</AM>
 <AM lemma="minulý" src="auto">AANS1----1A---6</AM>
 <AM lemma="minulý" src="auto">AANS4----1A---6</AM>
-<AM lemma="minulý" src="auto">AANS5----1A---6</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="minulý" src="auto">AANS5----1A---6</AM>
+</tag>
+</m>
 <m id="m-wsj2053-001-p1s22W4-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

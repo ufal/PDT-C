@@ -3512,7 +3512,10 @@
 <LM>w#w-ln94202-123-p7s6w14</LM>
 </w.rf>
 <form>Kozla</form>
-<tag lemma="Kozel_;Y_;m" src="auto" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Kozel_;Y_;m" src="auto">NNMS2-----A----</AM>
+<AM lemma="Kozel-1_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-123-p7s6w15">
 <src.rf>manual</src.rf>
@@ -3900,7 +3903,10 @@
 <LM>w#w-ln94202-123-p7s9w9</LM>
 </w.rf>
 <form>Kozel</form>
-<tag lemma="Kozel_;Y_;m" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Kozel_;Y_;m" src="auto">NNMS1-----A----</AM>
+<AM lemma="Kozel-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-123-p7s9w10">
 <src.rf>manual</src.rf>
@@ -4006,7 +4012,10 @@
 <LM>w#w-ln94202-123-p7s10w1</LM>
 </w.rf>
 <form>Kozel</form>
-<tag lemma="Kozel_;Y_;m" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Kozel_;Y_;m" src="auto">NNMS1-----A----</AM>
+<AM lemma="Kozel-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-123-p7s10w2">
 <src.rf>manual</src.rf>
@@ -5372,7 +5381,10 @@
 <LM>w#w-ln94202-123-p10s1w5</LM>
 </w.rf>
 <form>Kozel</form>
-<tag lemma="Kozel_;Y_;m" src="auto" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Kozel_;Y_;m" src="auto">NNMS1-----A----</AM>
+<AM lemma="Kozel-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-123-p10s1w6">
 <src.rf>manual</src.rf>

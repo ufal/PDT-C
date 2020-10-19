@@ -553,6 +553,7 @@
 <tag>
 <AM lemma="malinka_,e" src="auto">NNFS5-----A----</AM>
 <AM lemma="malinko-1" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="malinko-3" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m061-d1t2406-6">
@@ -3286,19 +3287,21 @@
 <LM>w#w-d1t2541-6</LM>
 </w.rf>
 <form>21</form>
-<tag>
-<AM lemma="21" src="auto" recommended="1">C=-------------</AM></tag>
-</m><m id="m061-d1t2541-6-sw1">
+<tag lemma="21" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m061-d1t2541-6-sw1">
 <w.rf>
 <LM>w#w-d1t2541-6</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>letého</form>
 <tag>
 <AM lemma="letý" src="auto">AAIS2----1A----</AM>
 <AM lemma="letý" src="auto">AAMS2----1A----</AM>
 <AM lemma="letý" src="auto" recommended="1">AAMS4----1A----</AM>
-<AM lemma="letý" src="auto">AANS2----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="letý" src="auto">AANS2----1A----</AM>
+</tag>
+</m>
 <m id="m061-d1t2541-5">
 <w.rf>
 <LM>w#w-d1t2541-5</LM>
@@ -4040,6 +4043,7 @@
 <tag>
 <AM lemma="malinka_,e" src="auto">NNFS5-----A----</AM>
 <AM lemma="malinko-1" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="malinko-3" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m061-d1t2575-5">
@@ -4277,23 +4281,23 @@
 <LM>w#w-d-id141579-punct</LM>
 </w.rf>
 <form>.</form>
-<tag>
-<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-</m><m id="m061-d-id141579-punct-sw1">
+<tag lemma="." src="auto" recommended="1">Z:-------------</tag>
+</m>
+<m id="m061-d-id141579-punct-sw1">
 <w.rf>
 <LM>w#w-d-id141579-punct</LM>
 </w.rf>
 <form>.</form>
-<tag>
-<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-</m><m id="m061-d-id141579-punct-sw2">
+<tag lemma="." src="auto" recommended="1">Z:-------------</tag>
+</m>
+<m id="m061-d-id141579-punct-sw2">
 <w.rf>
 <LM>w#w-d-id141579-punct</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>.</form>
-<tag>
-<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="." src="auto" recommended="1">Z:-------------</tag>
+</m>
 </s>
 <s id="m061-41">
 <m id="m061-d1t2593-7">
@@ -5182,23 +5186,23 @@
 <LM>w#w-84-120</LM>
 </w.rf>
 <form>.</form>
-<tag>
-<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-</m><m id="m061-84-120-sw1">
+<tag lemma="." src="auto" recommended="1">Z:-------------</tag>
+</m>
+<m id="m061-84-120-sw1">
 <w.rf>
 <LM>w#w-84-120</LM>
 </w.rf>
 <form>.</form>
-<tag>
-<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-</m><m id="m061-84-120-sw2">
+<tag lemma="." src="auto" recommended="1">Z:-------------</tag>
+</m>
+<m id="m061-84-120-sw2">
 <w.rf>
 <LM>w#w-84-120</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>.</form>
-<tag>
-<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="." src="auto" recommended="1">Z:-------------</tag>
+</m>
 </s>
 <s id="m061-127">
 <m id="m061-84-97">

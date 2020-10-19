@@ -2546,7 +2546,10 @@
 <LM>w#w-ln94201-80-p4s1w20</LM>
 </w.rf>
 <form>Melbourne</form>
-<tag lemma="Melbourne_;G" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Melbourne_;G" src="orig">NNNXX-----A----</AM>
+<AM lemma="Melbourne_;G" src="manual" selected="1">NNIXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-80-p4s1w21">
 <src.rf>manual</src.rf>

@@ -1107,7 +1107,10 @@
 <LM>w#w-ln94203-97-p3s1w12</LM>
 </w.rf>
 <form>GEN</form>
-<tag lemma="gen" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="gen" src="orig">NNIS1-----A----</AM>
+<AM lemma="Gen_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-97-p3s1w13">
 <src.rf>manual</src.rf>

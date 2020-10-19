@@ -3044,7 +3044,8 @@
 <AM lemma="ho" src="auto">II-------------</AM>
 <AM lemma="on-1" src="auto">PHZS2--3-------</AM>
 <AM lemma="on-1" src="auto" recommended="1">PHZS4--3-------</AM>
-<AM lemma="Ho_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Ho_;Y" src="manual">NNMXX-----A----</AM>
+<AM lemma="Ho-1_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-78-p5s3w13">

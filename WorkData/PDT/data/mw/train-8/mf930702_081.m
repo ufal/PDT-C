@@ -29,7 +29,10 @@
 <LM>w#w-mf930702-081-p2s1w1</LM>
 </w.rf>
 <form>Melbourne</form>
-<tag lemma="Melbourne_;G" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Melbourne_;G" src="orig">NNNXX-----A----</AM>
+<AM lemma="Melbourne_;G" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-081-p2s1w2">
 <src.rf>manual</src.rf>

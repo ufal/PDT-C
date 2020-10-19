@@ -1035,8 +1035,9 @@
 </w.rf>
 <form>Kiro</form>
 <tag>
-<AM lemma="Kiro_;Y" src="orig" selected="1">NNMXX-----A----</AM>
+<AM lemma="Kiro_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="Kira_;Y" src="auto" recommended="1">NNFS5-----A----</AM>
+<AM lemma="Kiro_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-125-p5s1w3">

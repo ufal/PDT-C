@@ -8393,7 +8393,8 @@
 <tag>
 <AM lemma="Kennedy" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Kennedy" src="auto">NNMS4-----A----</AM>
-<AM lemma="Kennedyho_;Y_^(*2)" src="manual" selected="1">AUNS2M---------</AM>
+<AM lemma="Kennedyho_;Y_^(*2)" src="manual">AUNS2M---------</AM>
+<AM lemma="Kennedy_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1817-001-p1s25W20-Ta">

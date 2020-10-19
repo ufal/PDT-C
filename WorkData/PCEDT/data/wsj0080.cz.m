@@ -7442,7 +7442,8 @@
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto">NNIS3-----A----</AM>
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto">NNIS6-----A----</AM>
-<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">CzIP2----------</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual">CzIP2----------</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">CzIS2----------</AM>
 </tag>
 </m>
 <m id="m-wsj0080-001-p1s25W10-Ta">
@@ -7809,7 +7810,8 @@
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto">NNIS3-----A----</AM>
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto">NNIS6-----A----</AM>
-<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">CzIP2----------</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual">CzIP2----------</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">CzIS2----------</AM>
 </tag>
 </m>
 <m id="m-wsj0080-001-p1s26W6-Ta">
@@ -7843,7 +7845,8 @@
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto">NNIS3-----A----</AM>
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto">NNIS6-----A----</AM>
-<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">CzIP2----------</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual">CzIP2----------</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">CzIS2----------</AM>
 </tag>
 </m>
 <m id="m-wsj0080-001-p1s26W9-Ta">

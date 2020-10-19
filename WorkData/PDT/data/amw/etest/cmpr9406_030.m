@@ -1365,13 +1365,13 @@
 <tag>
 <AM lemma="MILO_:B_;m" src="orig">NNNXX-----A---8</AM>
 <AM lemma="Mila_;m" src="auto">NNFS5-----A----</AM>
-<AM lemma="Milo-1_;m" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="Milo-1_;m" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
 <AM lemma="Milo-1_;m" src="auto">NNNS4-----A----</AM>
 <AM lemma="Milo-1_;m" src="auto">NNNS5-----A----</AM>
 <AM lemma="Milo-2_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Milo-2_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="milo" src="auto">Db-------------</AM>
-<AM lemma="MILO-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="MILO-88" src="manual">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-030-p7s1w9">
@@ -2003,13 +2003,13 @@
 <tag>
 <AM lemma="MILO_:B_;m" src="orig">NNNXX-----A---8</AM>
 <AM lemma="Mila_;m" src="auto">NNFS5-----A----</AM>
-<AM lemma="Milo-1_;m" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="Milo-1_;m" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
 <AM lemma="Milo-1_;m" src="auto">NNNS4-----A----</AM>
 <AM lemma="Milo-1_;m" src="auto">NNNS5-----A----</AM>
 <AM lemma="Milo-2_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Milo-2_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="milo" src="auto">Db-------------</AM>
-<AM lemma="MILO-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="MILO-88" src="manual">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-030-p7s6w8">

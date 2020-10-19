@@ -11442,7 +11442,8 @@
 <AM lemma="Kontra_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="kontra" src="auto">RR--1----------</AM>
 <AM lemma="Kontra_;Y" src="manual">NNMS1-----A----</AM>
-<AM lemma="Kontra-2_;m" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Kontra-2_;m" src="manual">NNFXX-----A----</AM>
+<AM lemma="Kontra-2_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1615-001-p1s35W29-Ta">

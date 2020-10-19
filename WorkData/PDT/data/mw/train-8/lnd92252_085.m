@@ -3153,8 +3153,8 @@
 </w.rf>
 <form>fitness</form>
 <tag>
-<AM lemma="fitness-1" src="auto">AAXXX----1A----</AM>
-<AM lemma="fitness-2_^(fitnesscentrum)" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="fitness-1" src="auto" selected="1">AAXXX----1A----</AM>
+<AM lemma="fitness-2_^(fitnesscentrum)" src="manual">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-085-p5s11w3">
@@ -4405,9 +4405,9 @@
 </w.rf>
 <form>fitness</form>
 <tag>
-<AM lemma="fitness-1" src="auto">AAXXX----1A----</AM>
+<AM lemma="fitness-1" src="auto" selected="1">AAXXX----1A----</AM>
 <AM lemma="fitness-2_^(fitnesscentrum)" src="manual">NNIXX-----A----</AM>
-<AM lemma="fitness-2_^(fitnesscentrum)" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="fitness-2_^(fitnesscentrum)" src="manual">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-085-p5s18w21">

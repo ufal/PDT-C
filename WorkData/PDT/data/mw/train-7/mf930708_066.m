@@ -2396,7 +2396,8 @@
 <form>Jerusalem</form>
 <tag>
 <AM lemma="Jeruzalém_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Jerusalem_;G_;m_^(^DD**Jeruzalém)" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="Jerusalem_;G_;m_^(^DD**Jeruzalém)" src="manual">NNIXX-----A----</AM>
+<AM lemma="Jerusalem_;G_;m_^(^DD**Jeruzalém)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-066-p5s1w17">
@@ -2707,7 +2708,8 @@
 <form>Jerusalem</form>
 <tag>
 <AM lemma="Jeruzalém_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Jerusalem_;G_;m_^(^DD**Jeruzalém)" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="Jerusalem_;G_;m_^(^DD**Jeruzalém)" src="manual">NNIXX-----A----</AM>
+<AM lemma="Jerusalem_;G_;m_^(^DD**Jeruzalém)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-066-p5s4w11">
@@ -2930,7 +2932,8 @@
 <form>Jerusalem</form>
 <tag>
 <AM lemma="Jeruzalém_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Jerusalem_;G_;m_^(^DD**Jeruzalém)" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="Jerusalem_;G_;m_^(^DD**Jeruzalém)" src="manual">NNIXX-----A----</AM>
+<AM lemma="Jerusalem_;G_;m_^(^DD**Jeruzalém)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-066-p6s1w3">

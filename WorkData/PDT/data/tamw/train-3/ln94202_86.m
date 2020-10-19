@@ -4888,7 +4888,7 @@
 </w.rf>
 <form>Káraný</form>
 <tag>
-<AM lemma="Káraný_;G" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Káraný_;G" src="orig">NNIS1-----A----</AM>
 <AM lemma="káraný_^(*2t)" src="auto">AAFP1----1A---6</AM>
 <AM lemma="káraný_^(*2t)" src="auto">AAFP4----1A---6</AM>
 <AM lemma="káraný_^(*2t)" src="auto">AAFP5----1A---6</AM>
@@ -4912,6 +4912,7 @@
 <AM lemma="káraný_^(*2t)" src="auto">AANS1----1A---6</AM>
 <AM lemma="káraný_^(*2t)" src="auto">AANS4----1A---6</AM>
 <AM lemma="káraný_^(*2t)" src="auto">AANS5----1A---6</AM>
+<AM lemma="Káraný_;G" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-86-p9s2w9">
@@ -5069,7 +5070,7 @@
 </w.rf>
 <form>Káraný</form>
 <tag>
-<AM lemma="Káraný_;G" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Káraný_;G" src="orig">NNIS1-----A----</AM>
 <AM lemma="káraný_^(*2t)" src="auto">AAFP1----1A---6</AM>
 <AM lemma="káraný_^(*2t)" src="auto">AAFP4----1A---6</AM>
 <AM lemma="káraný_^(*2t)" src="auto">AAFP5----1A---6</AM>
@@ -5093,6 +5094,7 @@
 <AM lemma="káraný_^(*2t)" src="auto">AANS1----1A---6</AM>
 <AM lemma="káraný_^(*2t)" src="auto">AANS4----1A---6</AM>
 <AM lemma="káraný_^(*2t)" src="auto">AANS5----1A---6</AM>
+<AM lemma="Káraný_;G" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-86-p9s4w2">

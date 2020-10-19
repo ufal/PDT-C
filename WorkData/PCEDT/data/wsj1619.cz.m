@@ -9262,7 +9262,8 @@
 <tag>
 <AM lemma="Chemical_:B_;m_,t_^(v_názvu_Chemical_Bank_apod.)" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="Chemical-77" src="manual">F%-------------</AM>
-<AM lemma="Chemical_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Chemical_;m" src="manual">NNXXX-----A----</AM>
+<AM lemma="Chemical_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1619-001-p1s22W23-Ta">

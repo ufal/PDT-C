@@ -1736,7 +1736,8 @@
 <tag>
 <AM lemma="Massachusetts_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Massachusetts_;G" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="Massachusetts_;G" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Massachusetts_;G" src="manual">NNXXX-----A----</AM>
+<AM lemma="Massachusetts_;G" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0652-001-p1s5W7-Ta">

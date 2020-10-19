@@ -386,10 +386,10 @@
 </w.rf>
 <form>Kim</form>
 <tag>
-<AM lemma="Kim-1_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Kim-1_;Y" src="auto" selected="1">NNMS1-----A----</AM>
 <AM lemma="Kim-1_;YKim-2_;Y_^(korejske_prijmeni)" src="manual">NNMS1-----A----</AM>
 <AM lemma="Kim-2_;Y_^(korejske_prijmeni)" src="manual">NNMS1-----A----</AM>
-<AM lemma="Kim-3_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Kim-3_;Y" src="manual">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-046-p1s5w5">
@@ -402,7 +402,8 @@
 <AM lemma="Jong_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Jong_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Jong_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Jong-2_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Jong-2_;Y" src="manual">NNMXX-----A----</AM>
+<AM lemma="Jong-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-046-p1s5w6">
@@ -420,8 +421,9 @@
 </w.rf>
 <form>sam</form>
 <tag>
-<AM lemma="sam-2_;Y_^(v_korejských_jménech,_např._Kim_Jong-sam)" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="sam-2_;Y_^(v_korejských_jménech,_např._Kim_Jong-sam)" src="orig">NNMS1-----A----</AM>
 <AM lemma="samostatný_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
+<AM lemma="sam_^(v_korejských_jménech,_např._Kim_Jong-sam)" src="manual" selected="1">SNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-046-p1s5w8">

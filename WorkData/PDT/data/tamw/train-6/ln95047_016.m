@@ -180,7 +180,9 @@
 <tag>
 <AM lemma="Golem_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Golem_;m" src="manual">NNIS1-----A----</AM>
-<AM lemma="Golem-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Golem-2_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="golem" src="manual">NNMS1-----A----</AM>
+<AM lemma="golem-1" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-016-p2s1Bw13">
@@ -620,7 +622,8 @@
 <tag>
 <AM lemma="Golem_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Golem-2_;m" src="manual">NNMS1-----A----</AM>
-<AM lemma="Golem-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Golem-2_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="golem-1" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-016-p2s4w17">
@@ -1220,7 +1223,8 @@
 <form>Golem</form>
 <tag>
 <AM lemma="Golem_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Golem-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Golem-2_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="golem-1" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-016-p2s7w26">

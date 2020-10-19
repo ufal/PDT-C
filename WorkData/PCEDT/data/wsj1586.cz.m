@@ -1876,14 +1876,14 @@
 <LM>w#w-wsj1586-001-p1s8W16</LM>
 </w.rf>
 <form>75</form>
-<tag>
-<AM lemma="75" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="75" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj1586-001-p1s8W16-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1586-001-p1s8W16</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>letý</form>
 <tag>
 <AM lemma="letý" src="auto">AAFP1----1A---6</AM>
@@ -1908,8 +1908,9 @@
 <AM lemma="letý" src="auto">AANP5----1A---6</AM>
 <AM lemma="letý" src="auto">AANS1----1A---6</AM>
 <AM lemma="letý" src="auto">AANS4----1A---6</AM>
-<AM lemma="letý" src="auto">AANS5----1A---6</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="letý" src="auto">AANS5----1A---6</AM>
+</tag>
+</m>
 <m id="m-wsj1586-001-p1s8W17-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -3056,11 +3057,13 @@
 <w.rf>
 <LM>w#w-wsj1586-001-p1s13W6</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>obchodníci</form>
 <tag>
 <AM lemma="obchodník" src="auto" recommended="1">NNMP1-----A----</AM>
-<AM lemma="obchodník" src="auto">NNMP5-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="obchodník" src="auto">NNMP5-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj1586-001-p1s13W7-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -9310,14 +9313,14 @@
 <LM>w#w-wsj1586-001-p1s37W4</LM>
 </w.rf>
 <form>65</form>
-<tag>
-<AM lemma="65" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="65" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj1586-001-p1s37W4-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1586-001-p1s37W4</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>letý</form>
 <tag>
 <AM lemma="letý" src="auto">AAFP1----1A---6</AM>
@@ -9342,8 +9345,9 @@
 <AM lemma="letý" src="auto">AANP5----1A---6</AM>
 <AM lemma="letý" src="auto">AANS1----1A---6</AM>
 <AM lemma="letý" src="auto">AANS4----1A---6</AM>
-<AM lemma="letý" src="auto">AANS5----1A---6</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="letý" src="auto">AANS5----1A---6</AM>
+</tag>
+</m>
 <m id="m-wsj1586-001-p1s37W5-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -12772,7 +12776,8 @@
 <form>jenž</form>
 <tag>
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJYS1----------</AM>
-<AM lemma="jenž_^(který_[ve_vedl.větě])" src="manual" selected="1">P4YP1---------6</AM>
+<AM lemma="jenž_^(který_[ve_vedl.větě])" src="manual">P4YP1---------6</AM>
+<AM lemma="jenž_^(který_[ve_vedl.větě])" src="manual" selected="1">P4MP1---------6</AM>
 </tag>
 </m>
 <m id="m-wsj1586-001-p1s53W5-Ta">
@@ -13323,7 +13328,8 @@
 <form>jenž</form>
 <tag>
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJYS1----------</AM>
-<AM lemma="jenž_^(který_[ve_vedl.větě])" src="manual" selected="1">P4YP1---------6</AM>
+<AM lemma="jenž_^(který_[ve_vedl.větě])" src="manual">P4YP1---------6</AM>
+<AM lemma="jenž_^(který_[ve_vedl.větě])" src="manual" selected="1">P4MP1---------6</AM>
 </tag>
 </m>
 <m id="m-wsj1586-001-p1s55W7-Ta">

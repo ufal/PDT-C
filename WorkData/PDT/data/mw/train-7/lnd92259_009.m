@@ -124,7 +124,10 @@
 <LM>w#w-lnd92259-009-p1s1w13</LM>
 </w.rf>
 <form>Hampshire</form>
-<tag lemma="Hampshire_;G" src="auto" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Hampshire_;G" src="auto">NNNXX-----A----</AM>
+<AM lemma="Hampshire-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92259-009-p1s1w14">
 <src.rf>manual</src.rf>

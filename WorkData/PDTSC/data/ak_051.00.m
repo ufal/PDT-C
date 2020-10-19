@@ -4050,7 +4050,8 @@
 <AM lemma="maličko-2" src="auto">NNNS1-----A----</AM>
 <AM lemma="maličko-2" src="auto">NNNS4-----A----</AM>
 <AM lemma="maličko-2" src="auto">NNNS5-----A----</AM>
-<AM lemma="maličko-1" src="auto" recommended="1" selected="1">Db-------------</AM>
+<AM lemma="maličko-1" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="maličko-3" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m051-d1t353-3">

@@ -3726,7 +3726,8 @@
 <AM lemma="meta-7_^(předpona,_sam.)" src="orig">A2--------A----</AM>
 <AM lemma="meta" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="mést" src="auto">VeYS------A-I--</AM>
-<AM lemma="meta-2_^(předpona,_sam.)" src="manual" selected="1">S2--------A----</AM>
+<AM lemma="meta-2_^(předpona,_sam.)" src="manual">S2--------A----</AM>
+<AM lemma="meta-2" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-024-p11s2w9">
@@ -3747,7 +3748,8 @@
 <AM lemma="meta-7_^(předpona,_sam.)" src="orig">A2--------A----</AM>
 <AM lemma="meta" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="mést" src="auto">VeYS------A-I--</AM>
-<AM lemma="meta-2_^(předpona,_sam.)" src="manual" selected="1">S2--------A----</AM>
+<AM lemma="meta-2_^(předpona,_sam.)" src="manual">S2--------A----</AM>
+<AM lemma="meta-2" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-024-p11s2w11">
@@ -4959,7 +4961,8 @@
 <AM lemma="meta-7_^(předpona,_sam.)" src="orig">A2--------A----</AM>
 <AM lemma="meta" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="mést" src="auto">VeYS------A-I--</AM>
-<AM lemma="meta-2_^(předpona,_sam.)" src="manual" selected="1">S2--------A----</AM>
+<AM lemma="meta-2_^(předpona,_sam.)" src="manual">S2--------A----</AM>
+<AM lemma="meta-2" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-024-p11s8w42">
@@ -4980,7 +4983,8 @@
 <AM lemma="meta-7_^(předpona,_sam.)" src="orig">A2--------A----</AM>
 <AM lemma="meta" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="mést" src="auto">VeYS------A-I--</AM>
-<AM lemma="meta-2_^(předpona,_sam.)" src="manual" selected="1">S2--------A----</AM>
+<AM lemma="meta-2_^(předpona,_sam.)" src="manual">S2--------A----</AM>
+<AM lemma="meta-2" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-024-p11s8w44">

@@ -4729,6 +4729,7 @@
 <w.rf>
 <LM>w#w-wsj1017-001-p1s13W17</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>očekávané</form>
 <tag>
 <AM lemma="očekávaný_^(*2t)" src="auto" recommended="1">AAFP1----1A----</AM>
@@ -4746,8 +4747,9 @@
 <AM lemma="očekávaný_^(*2t)" src="auto">AANP5----1A---6</AM>
 <AM lemma="očekávaný_^(*2t)" src="auto">AANS1----1A----</AM>
 <AM lemma="očekávaný_^(*2t)" src="auto">AANS4----1A----</AM>
-<AM lemma="očekávaný_^(*2t)" src="auto">AANS5----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="očekávaný_^(*2t)" src="auto">AANS5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj1017-001-p1s13W18-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -9756,7 +9758,9 @@
 <AM lemma="Illinois" src="auto">NNIS7-----A---1</AM>
 <AM lemma="Illinois_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Illinois_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Illinois_;G" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Illinois_;G" src="manual">NNXXX-----A----</AM>
+<AM lemma="Illinois_;G" src="manual">NNIXX-----A----</AM>
+<AM lemma="Illinois_;G_;m" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1017-001-p1s23W47-Ta">

@@ -2327,7 +2327,8 @@
 <AM lemma="linout" src="auto">VB-S---3P-AAI--</AM>
 <AM lemma="line_,t_^(angl._čára)" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="line-77" src="manual">F%-------------</AM>
-<AM lemma="line-2" src="manual" selected="1">AAXXX----1A----</AM>
+<AM lemma="line-2" src="manual">AAXXX----1A----</AM>
+<AM lemma="line-2" src="manual" selected="1">SAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-013-p17s1w10">

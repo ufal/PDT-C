@@ -1404,7 +1404,8 @@
 <form>Lu</form>
 <tag>
 <AM lemma="Lu-1_:B_;U_^(lutecium)" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Lu-2_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Lu-2_;Y" src="manual">NNMXX-----A----</AM>
+<AM lemma="Lu-3_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_06-SCzechM-p0568-s1-w3">

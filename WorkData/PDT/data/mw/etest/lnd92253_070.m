@@ -2513,7 +2513,10 @@
 <LM>w#w-lnd92253-070-p5s4w11</LM>
 </w.rf>
 <form>maličko</form>
-<tag lemma="maličko-1" src="orig" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="maličko-1" src="orig">Db-------------</AM>
+<AM lemma="maličko-3" src="manual" selected="1">Dg-------1A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-070-p5s4w12">
 <src.rf>manual</src.rf>

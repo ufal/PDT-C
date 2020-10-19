@@ -3524,7 +3524,7 @@
 <tag lemma="?" src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m137-d1e1669-x2"/>
+<s id="m137-d1e1669-x2"></s>
 <s id="m137-102">
 <m id="m137-d1t1672-1">
 <w.rf>
@@ -5199,6 +5199,8 @@
 <tag>
 <AM lemma="malinka_,e" src="auto">NNFS5-----A----</AM>
 <AM lemma="malinko-1" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="	malinko-1_^(málo_peněz)" src="manual">Ca--1----------</AM>
+<AM lemma="malinko-1_^(málo_peněz)" src="manual" selected="1">Ca--1----------</AM>
 </tag>
 </m>
 <m id="m137-d1t1739-10">

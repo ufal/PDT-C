@@ -152,8 +152,8 @@
 <AM lemma="horko-1" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="horko-1" src="auto">NNNS4-----A----</AM>
 <AM lemma="horko-1" src="auto">NNNS5-----A----</AM>
-<AM lemma="horko-2" src="auto">Db-------------</AM>
-<AM lemma="horko-2" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="horko-2" src="auto" selected="1">Db-------------</AM>
+<AM lemma="horko-2" src="manual">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m149-d-id123754-punct">
@@ -186,8 +186,8 @@
 <AM lemma="horko-1" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="horko-1" src="auto">NNNS4-----A----</AM>
 <AM lemma="horko-1" src="auto">NNNS5-----A----</AM>
-<AM lemma="horko-2" src="auto">Db-------------</AM>
-<AM lemma="horko-2" src="manual" selected="1">Dg-------1A----</AM>
+<AM lemma="horko-2" src="auto" selected="1">Db-------------</AM>
+<AM lemma="horko-2" src="manual">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m149-d1e1461-x2-171">

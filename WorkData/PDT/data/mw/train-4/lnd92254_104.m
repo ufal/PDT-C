@@ -1303,8 +1303,8 @@
 </w.rf>
 <form>chudobný</form>
 <tag>
-<AM lemma="chudobný" src="orig">AAMS1----1A----</AM>
-<AM lemma="chudobný-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="chudobný" src="orig" selected="1">AAMS1----1A----</AM>
+<AM lemma="chudobný-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92254-104-p2s5w19">
@@ -1322,8 +1322,8 @@
 </w.rf>
 <form>chorý</form>
 <tag>
-<AM lemma="chorý" src="orig">AAMS1----1A----</AM>
-<AM lemma="chorý-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="chorý" src="orig" selected="1">AAMS1----1A----</AM>
+<AM lemma="chorý-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92254-104-p2s5w21">

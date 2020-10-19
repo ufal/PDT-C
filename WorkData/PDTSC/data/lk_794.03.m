@@ -2969,7 +2969,7 @@
 </w.rf>
 <form>kápo</form>
 <tag>
-<AM lemma="kápo" src="auto">NNMS1-----A----</AM>
+<AM lemma="kápo" src="auto" selected="1">NNMS1-----A----</AM>
 <AM lemma="kápo" src="auto">NNMS5-----A----</AM>
 <AM lemma="kápo" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="kápo" src="auto">NNNS4-----A----</AM>
@@ -3934,7 +3934,7 @@
 </w.rf>
 <form>kápo</form>
 <tag>
-<AM lemma="kápo" src="auto">NNMS1-----A----</AM>
+<AM lemma="kápo" src="auto" selected="1">NNMS1-----A----</AM>
 <AM lemma="kápo" src="auto">NNMS5-----A----</AM>
 <AM lemma="kápo" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="kápo" src="auto">NNNS4-----A----</AM>

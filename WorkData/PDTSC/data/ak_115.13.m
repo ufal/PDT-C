@@ -433,7 +433,10 @@
 <LM>w#w-d1t1879-6</LM>
 </w.rf>
 <form>Melbourne</form>
-<tag lemma="Melbourne_;G" src="auto" recommended="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Melbourne_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Melbourne_;G" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m115-35-102">
 <w.rf>

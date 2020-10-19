@@ -16653,7 +16653,8 @@
 <form>Jon</form>
 <tag>
 <AM lemma="Jon_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Jon_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Jon_;Y" src="manual">NNMXX-----A----</AM>
+<AM lemma="Jon_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1634-001-p1s66W3-Ta">

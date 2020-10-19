@@ -625,7 +625,8 @@
 <form>Chemical</form>
 <tag>
 <AM lemma="Chemical_:B_;m_,t_^(v_názvu_Chemical_Bank_apod.)" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Chemical_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Chemical_;m" src="manual">NNXXX-----A----</AM>
+<AM lemma="Chemical_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0304-001-p1s1W3-Ta">
@@ -1004,7 +1005,8 @@
 <tag>
 <AM lemma="Chemical_:B_;m_,t_^(v_názvu_Chemical_Bank_apod.)" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="Chemical-77" src="manual">F%-------------</AM>
-<AM lemma="Chemical_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Chemical_;m" src="manual">NNXXX-----A----</AM>
+<AM lemma="Chemical_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0304-001-p1s3W5-Ta">
@@ -1331,7 +1333,8 @@
 <form>Chemical</form>
 <tag>
 <AM lemma="Chemical_:B_;m_,t_^(v_názvu_Chemical_Bank_apod.)" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Chemical_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Chemical_;m" src="manual">NNXXX-----A----</AM>
+<AM lemma="Chemical_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0304-001-p1s4W13-Ta">
@@ -1574,7 +1577,8 @@
 <form>Chemical</form>
 <tag>
 <AM lemma="Chemical_:B_;m_,t_^(v_názvu_Chemical_Bank_apod.)" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Chemical_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Chemical_;m" src="manual">NNXXX-----A----</AM>
+<AM lemma="Chemical_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0304-001-p1s6W4-Ta">
@@ -2563,7 +2567,8 @@
 <form>Chemical</form>
 <tag>
 <AM lemma="Chemical_:B_;m_,t_^(v_názvu_Chemical_Bank_apod.)" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Chemical_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Chemical_;m" src="manual">NNXXX-----A----</AM>
+<AM lemma="Chemical_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0304-001-p1s8W8-Ta">
@@ -2709,7 +2714,8 @@
 <form>Chemical</form>
 <tag>
 <AM lemma="Chemical_:B_;m_,t_^(v_názvu_Chemical_Bank_apod.)" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Chemical_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Chemical_;m" src="manual">NNXXX-----A----</AM>
+<AM lemma="Chemical_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0304-001-p1s9W6-Ta">
@@ -3214,7 +3220,8 @@
 <form>Chemical</form>
 <tag>
 <AM lemma="Chemical_:B_;m_,t_^(v_názvu_Chemical_Bank_apod.)" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Chemical_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Chemical_;m" src="manual">NNXXX-----A----</AM>
+<AM lemma="Chemical_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0304-001-p1s10W4-Ta">
@@ -5904,7 +5911,8 @@
 <form>Chemical</form>
 <tag>
 <AM lemma="Chemical_:B_;m_,t_^(v_názvu_Chemical_Bank_apod.)" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Chemical_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Chemical_;m" src="manual">NNXXX-----A----</AM>
+<AM lemma="Chemical_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0304-001-p1s17W23-Ta">
@@ -6149,7 +6157,8 @@
 <form>Chemical</form>
 <tag>
 <AM lemma="Chemical_:B_;m_,t_^(v_názvu_Chemical_Bank_apod.)" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Chemical_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Chemical_;m" src="manual">NNXXX-----A----</AM>
+<AM lemma="Chemical_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0304-001-p1s18W15-Ta">
@@ -6416,7 +6425,8 @@
 <form>Chemical</form>
 <tag>
 <AM lemma="Chemical_:B_;m_,t_^(v_názvu_Chemical_Bank_apod.)" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Chemical_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Chemical_;m" src="manual">NNXXX-----A----</AM>
+<AM lemma="Chemical_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0304-001-p1s19W14-Ta">
@@ -6842,7 +6852,8 @@
 <form>Chemical</form>
 <tag>
 <AM lemma="Chemical_:B_;m_,t_^(v_názvu_Chemical_Bank_apod.)" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Chemical_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Chemical_;m" src="manual">NNXXX-----A----</AM>
+<AM lemma="Chemical_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0304-001-p1s21W14-Ta">
@@ -7015,7 +7026,8 @@
 <form>Chemical</form>
 <tag>
 <AM lemma="Chemical_:B_;m_,t_^(v_názvu_Chemical_Bank_apod.)" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Chemical_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Chemical_;m" src="manual">NNXXX-----A----</AM>
+<AM lemma="Chemical_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0304-001-p1s22W4-Ta">

@@ -676,7 +676,10 @@
 <LM>w#w-lnd94101-029-p1s5w1</LM>
 </w.rf>
 <form>Krejčí</form>
-<tag lemma="krejčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="krejčí" src="orig">NNMS1-----A----</AM>
+<AM lemma="Krejčí-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94101-029-p1s5w2">
 <src.rf>manual</src.rf>

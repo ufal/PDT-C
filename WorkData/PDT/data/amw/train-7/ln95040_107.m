@@ -942,7 +942,8 @@
 <form>Group</form>
 <tag>
 <AM lemma="Group-1_;m_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="orig">NNFXX-----A----</AM>
-<AM lemma="Group-1_;m_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Group-1_;m_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="manual">NNFXX-----A----</AM>
+<AM lemma="Group-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95040-107-p2s7w3">

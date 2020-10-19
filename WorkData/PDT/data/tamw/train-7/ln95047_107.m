@@ -785,7 +785,7 @@
 <AM lemma="felicia_;m_^(vozidlo)" src="auto">NNFP4-----A----</AM>
 <AM lemma="felicia_;m_^(vozidlo)" src="auto">NNFP5-----A----</AM>
 <AM lemma="felicia_;m_^(vozidlo)" src="auto">NNFS1-----A----</AM>
-<AM lemma="felicia_;m_^(vozidlo)" src="auto" selected="1">NNFS2-----A----</AM>
+<AM lemma="felicia_;m_^(vozidlo)" src="auto">NNFS2-----A----</AM>
 <AM lemma="felicia_;m_^(vozidlo)" src="auto">NNFS5-----A----</AM>
 <AM lemma="felicie" src="auto">NNFP1-----A----</AM>
 <AM lemma="felicie" src="auto">NNFP4-----A----</AM>
@@ -793,6 +793,7 @@
 <AM lemma="felicie" src="auto">NNFS1-----A----</AM>
 <AM lemma="felicie" src="auto">NNFS2-----A----</AM>
 <AM lemma="felicie" src="auto">NNFS5-----A----</AM>
+<AM lemma="Felicie_;Y_;m" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-107-p3s4w14">

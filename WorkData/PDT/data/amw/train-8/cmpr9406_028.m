@@ -2824,7 +2824,10 @@
 <LM>w#w-cmpr9406-028-p10s1w22</LM>
 </w.rf>
 <form>fitness</form>
-<tag lemma="fitness-1" src="auto" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="fitness-1" src="auto">AAXXX----1A----</AM>
+<AM lemma="fitness-1" src="manual" selected="1">AAXXX----1A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-028-p10s1w23">
 <src.rf>manual</src.rf>

@@ -10476,7 +10476,8 @@
 <tag>
 <AM lemma="Kennedy" src="auto">NNMS2-----A----</AM>
 <AM lemma="Kennedy" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Kennedyho_;Y_^(*2)" src="manual" selected="1">AUIS1M---------</AM>
+<AM lemma="Kennedyho_;Y_^(*2)" src="manual">AUIS1M---------</AM>
+<AM lemma="Kennedy_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0426-001-p1s35W3-Ta">
@@ -12593,7 +12594,8 @@
 <tag>
 <AM lemma="Kennedy" src="auto">NNMS2-----A----</AM>
 <AM lemma="Kennedy" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Kennedyho_;Y_^(*2)" src="manual" selected="1">AUIS1M---------</AM>
+<AM lemma="Kennedyho_;Y_^(*2)" src="manual">AUIS1M---------</AM>
+<AM lemma="Kennedy_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0426-001-p1s43W2-Ta">

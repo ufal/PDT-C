@@ -18459,10 +18459,11 @@
 <form>J</form>
 <tag>
 <AM lemma="J-33" src="auto">Q3-------------</AM>
-<AM lemma="J-33" src="auto" recommended="1">Q3-------------</AM>
+<AM lemma="J-33" src="auto" recommended="1" selected="1">Q3-------------</AM>
 <AM lemma="J-33" src="auto">Q3-------------</AM>
 <AM lemma="j-88" src="auto">BNXXX-----A----</AM>
-<AM lemma="J-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="J-77" src="manual">F%-------------</AM>
+<AM lemma="J-88_:B" src="manual">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1844-001-p1s57W25-Ta">

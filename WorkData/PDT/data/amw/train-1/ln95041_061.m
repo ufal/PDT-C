@@ -988,7 +988,8 @@
 <AM lemma="Kim_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="Kim-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Kim-2_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Kim-3_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Kim-3_;Y" src="manual">NNMXX-----A----</AM>
+<AM lemma="Kim-1_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-061-p5s1w9">
@@ -1057,7 +1058,8 @@
 <AM lemma="Kim_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="Kim-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Kim-2_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Kim-3_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Kim-3_;Y" src="manual">NNMXX-----A----</AM>
+<AM lemma="Kim-1_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-061-p5s1w16">

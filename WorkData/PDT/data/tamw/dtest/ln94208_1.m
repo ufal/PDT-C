@@ -138,7 +138,10 @@
 <LM>w#w-ln94208-1-p1s2w5</LM>
 </w.rf>
 <form>Legend</form>
-<tag lemma="Legend_;m_^(vozidlo)" src="auto" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Legend_;m_^(vozidlo)" src="auto">NNFXX-----A----</AM>
+<AM lemma="Legend_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-1-p1s2w6">
 <src.rf>manual</src.rf>
@@ -178,7 +181,10 @@
 <LM>w#w-ln94208-1-p1s2w10</LM>
 </w.rf>
 <form>Roverem</form>
-<tag lemma="rover" src="orig" selected="1">NNMS7-----A----</tag>
+<tag>
+<AM lemma="rover" src="orig">NNMS7-----A----</AM>
+<AM lemma="Rover_;m" src="manual" selected="1">NNIS7-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-1-p1s2w11">
 <src.rf>manual</src.rf>

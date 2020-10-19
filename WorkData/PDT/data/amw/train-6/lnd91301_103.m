@@ -24,7 +24,8 @@
 <AM lemma="Pele_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Pele_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="pel" src="auto">NNIS5-----A----</AM>
-<AM lemma="pele" src="manual" selected="1">Db-------------</AM>
+<AM lemma="pele" src="manual">Db-------------</AM>
+<AM lemma="Pele-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91301-103-p1s1w2">
@@ -46,7 +47,8 @@
 <AM lemma="mela" src="auto">NNFS3-----A----</AM>
 <AM lemma="mela" src="auto">NNFS6-----A----</AM>
 <AM lemma="mlít" src="auto" recommended="1">VB-S---3P-AAI--</AM>
-<AM lemma="mele" src="manual" selected="1">Db-------------</AM>
+<AM lemma="mele" src="manual">Db-------------</AM>
+<AM lemma="mele-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 </s>

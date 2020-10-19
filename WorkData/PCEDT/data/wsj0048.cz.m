@@ -12830,7 +12830,8 @@
 <AM lemma="Huntsville_;G" src="auto">NNNS1-----A----</AM>
 <AM lemma="Huntsville_;G" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="Huntsville_;G" src="auto">NNNS5-----A----</AM>
-<AM lemma="Huntsville_;G" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Huntsville_;G" src="manual">NNNXX-----A----</AM>
+<AM lemma="Huntsville_;G" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0048-001-p1s40W9-Ta">

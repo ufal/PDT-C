@@ -413,7 +413,8 @@
 <form>Kozel</form>
 <tag>
 <AM lemma="Kozel_;Y_;m" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kozel-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Kozel-2_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Kozel-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-104-p2s3w6">

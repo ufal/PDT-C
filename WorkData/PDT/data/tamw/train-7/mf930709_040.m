@@ -850,9 +850,10 @@
 <AM lemma="Esplanade_:B_;m_^(hotel)" src="auto">NNFP1-----A----</AM>
 <AM lemma="Esplanade_:B_;m_^(hotel)" src="auto">NNFP4-----A----</AM>
 <AM lemma="Esplanade_:B_;m_^(hotel)" src="auto">NNFP5-----A----</AM>
-<AM lemma="Esplanade_;m_^(hotel)" src="auto" recommended="1" selected="1">BNFS1-----A----</AM>
+<AM lemma="Esplanade_;m_^(hotel)" src="auto" recommended="1">BNFS1-----A----</AM>
 <AM lemma="Esplanade_:B_;m_^(hotel)" src="auto">NNFS2-----A----</AM>
 <AM lemma="Esplanade_:B_;m_^(hotel)" src="auto">NNFS5-----A----</AM>
+<AM lemma="Esplanade_;m_^(hotel)" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-040-p20s1w3">

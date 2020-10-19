@@ -2110,7 +2110,8 @@
 <AM lemma="Kelso" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="Kelso" src="auto">NNNS4-----A----</AM>
 <AM lemma="Kelso" src="auto">NNNS5-----A----</AM>
-<AM lemma="Kelso_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Kelso_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Kelso-3_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m118-d1t1026-16">

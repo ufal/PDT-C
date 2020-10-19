@@ -258,7 +258,8 @@
 <AM lemma="kursovní_:B" src="orig">AAXXX----1A---8</AM>
 <AM lemma="kurs" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="kurs" src="auto">NNIS4-----A----</AM>
-<AM lemma="kursovní_,s_^(^DD**kurzovní)" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="kursovní_,s_^(^DD**kurzovní)" src="manual">AAXXX----1A---8</AM>
+<AM lemma="kursovní_,s_^(^DD**kurzovní)" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-mf930709-028-p20s1w10">

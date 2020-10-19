@@ -6877,7 +6877,9 @@
 <tag>
 <AM lemma="fax" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="fax" src="auto">NNIS4-----A----</AM>
-<AM lemma="FAX-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="FAX-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="FAX-77" src="manual">F%-------------</AM>
+<AM lemma="Fax-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1825-001-p1s28W3-Ta">
@@ -7185,7 +7187,8 @@
 <tag>
 <AM lemma="fax" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="fax" src="auto">NNIS4-----A----</AM>
-<AM lemma="FAX-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="FAX-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Fax_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1825-001-p1s29W10-Ta">
@@ -7957,8 +7960,8 @@
 <tag>
 <AM lemma="Bell_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Bella_;Y_,t" src="auto">NNFP2-----A----</AM>
-<AM lemma="Bell-2_;m" src="manual">NNIS1-----A----</AM>
-<AM lemma="Bell_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Bell-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Bell_;Y" src="manual">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1825-001-p1s32W6-Ta">

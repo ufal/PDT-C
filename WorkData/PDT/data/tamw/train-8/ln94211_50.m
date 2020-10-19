@@ -141,7 +141,10 @@
 <LM>w#w-ln94211-50-p2s1Bw5</LM>
 </w.rf>
 <form>Kozla</form>
-<tag lemma="Kozel_;Y_;m" src="auto" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="Kozel_;Y_;m" src="auto">NNMS2-----A----</AM>
+<AM lemma="Kozel-1_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-50-p2s1Bw6">
 <src.rf>manual</src.rf>

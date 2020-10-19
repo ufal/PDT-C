@@ -8839,7 +8839,8 @@
 <AM lemma="Maddie" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Maddie" src="auto">NNFS2-----A----</AM>
 <AM lemma="Maddie" src="auto">NNFS5-----A----</AM>
-<AM lemma="Maddie_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Maddie_;Y" src="manual">NNFXX-----A----</AM>
+<AM lemma="Maddie_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2369-001-p1s30W12-Ta">

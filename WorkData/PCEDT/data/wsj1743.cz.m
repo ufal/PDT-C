@@ -9877,7 +9877,8 @@
 <AM lemma="li-1" src="auto">TT-------------</AM>
 <AM lemma="li-2" src="auto">J,-------------</AM>
 <AM lemma="li-99_:B_;Y" src="auto">NNXXX-----A----</AM>
-<AM lemma="Li-2_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Li-2_;Y" src="manual">NNFS1-----A----</AM>
+<AM lemma="Li-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1743-001-p1s34W33-Ta">
@@ -9889,6 +9890,7 @@
 <tag>
 <AM lemma="Zhaoxing" src="auto">X@-------------</AM>
 <AM lemma="Zhaoxing_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Zhaoxing_;Y" src="manual">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1743-001-p1s34W34-Ta">

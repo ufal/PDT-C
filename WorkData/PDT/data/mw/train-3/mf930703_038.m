@@ -293,7 +293,8 @@
 <AM lemma="ľudový_,t_^(slov.)" src="auto">AANP1----1A----</AM>
 <AM lemma="ľudový_,t_^(slov.)" src="auto">AANP4----1A----</AM>
 <AM lemma="ľudový_,t_^(slov.)" src="auto">AANP5----1A----</AM>
-<AM lemma="Ľudová-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Ľudová-77" src="manual">F%-------------</AM>
+<AM lemma="ľudový_^(slov.)" src="manual" selected="1">AAFS1----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-038-p7s1w2">

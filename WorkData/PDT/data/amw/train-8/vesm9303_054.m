@@ -5378,7 +5378,8 @@
 <form>J</form>
 <tag>
 <AM lemma="J-1`joul_:B_^(joul,_Joule)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="joul_^(joul,_Joule)" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="joul_^(joul,_Joule)" src="manual">NNIXX-----A---8</AM>
+<AM lemma="joul_^(Joule)" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-vesm9303-054-p8s5w21">
@@ -5471,7 +5472,8 @@
 <form>J</form>
 <tag>
 <AM lemma="J-1`joul_:B_^(joul,_Joule)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="joul_^(joul,_Joule)" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="joul_^(joul,_Joule)" src="manual">NNIXX-----A---8</AM>
+<AM lemma="joul_^(Joule)" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-vesm9303-054-p8s6w11">

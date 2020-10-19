@@ -4081,9 +4081,9 @@
 </w.rf>
 <form>fitness</form>
 <tag>
-<AM lemma="fitness-2_^(fitnesscentrum)" src="auto">NNIS1-----A----</AM>
+<AM lemma="fitness-2_^(fitnesscentrum)" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="fitness-2_^(fitnesscentrum)" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="fitness-2_^(fitnesscentrum)" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="fitness-2_^(fitnesscentrum)" src="manual">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0409-001-p1s17W39-Ta">

@@ -196,7 +196,8 @@
 <form>Falcon</form>
 <tag>
 <AM lemma="Falcon_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Falcon-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Falcon-2_;m" src="manual">NNXXX-----A----</AM>
+<AM lemma="Falcon-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1394-001-p1s0W17-Ta">
@@ -6168,7 +6169,8 @@
 <AM lemma="on-1" src="auto">PHZS2--3-------</AM>
 <AM lemma="on-1" src="auto" recommended="1">PHZS4--3-------</AM>
 <AM lemma="Ho_;Y" src="manual">NNMXX-----A----</AM>
-<AM lemma="Ho_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Ho_;Y" src="manual">NNMXX-----A----</AM>
+<AM lemma="Ho-1_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1394-001-p1s23W8-Ta">

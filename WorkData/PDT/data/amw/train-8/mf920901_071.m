@@ -21,7 +21,8 @@
 <form>KOVO</form>
 <tag>
 <AM lemma="Kovo_;Y_;m" src="orig">NNNS1-----A----</AM>
-<AM lemma="KOVO-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="KOVO-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Kovo_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-071-p1s1w2">
@@ -231,7 +232,8 @@
 <form>KOVO</form>
 <tag>
 <AM lemma="Kovo_;Y_;m" src="orig">NNNS1-----A----</AM>
-<AM lemma="KOVO-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="KOVO-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Kovo_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-071-p2s2w24">
@@ -348,7 +350,8 @@
 <form>KOVO</form>
 <tag>
 <AM lemma="Kovo_;Y_;m" src="orig">NNNS1-----A----</AM>
-<AM lemma="KOVO-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="KOVO-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Kovo_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-071-p2s3w12">
@@ -699,7 +702,8 @@
 <form>KOVO</form>
 <tag>
 <AM lemma="Kovo_;Y_;m" src="orig">NNNS1-----A----</AM>
-<AM lemma="KOVO-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="KOVO-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Kovo_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-071-p2s5w15">

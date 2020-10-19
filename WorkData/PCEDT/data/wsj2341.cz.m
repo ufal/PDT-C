@@ -4675,7 +4675,8 @@
 <AM lemma="Lillo_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Lillo_;Y" src="auto">NNMP7-----A----</AM>
 <AM lemma="Lilly_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Lilly-2_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Lilly-2_;m" src="manual">NNNXX-----A----</AM>
+<AM lemma="Lilly_;Y_;m" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2341-001-p1s12W12-Ta">
@@ -5277,7 +5278,8 @@
 <AM lemma="Lillo_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Lillo_;Y" src="auto">NNMP7-----A----</AM>
 <AM lemma="Lilly_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Lilly-2_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Lilly-2_;m" src="manual">NNNXX-----A----</AM>
+<AM lemma="Lilly_;Y_;m" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2341-001-p1s15W7-Ta">
@@ -5412,7 +5414,8 @@
 <AM lemma="Lillo_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Lillo_;Y" src="auto">NNMP7-----A----</AM>
 <AM lemma="Lilly_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Lilly-2_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Lilly-2_;m" src="manual">NNNXX-----A----</AM>
+<AM lemma="Lilly_;Y_;m" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2341-001-p1s16W3-Ta">

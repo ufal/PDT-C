@@ -31,7 +31,8 @@
 <tag>
 <AM lemma="Mersey_;m" src="orig">NNXXX-----A----</AM>
 <AM lemma="Mersey_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Mersey-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Mersey-2_;m" src="manual">NNXXX-----A----</AM>
+<AM lemma="Mersey_;G_;m" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-048-p1s1w3">
@@ -619,7 +620,8 @@
 <tag>
 <AM lemma="Mersey_;m" src="orig">NNXXX-----A----</AM>
 <AM lemma="Mersey_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Mersey-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Mersey-2_;m" src="manual">NNXXX-----A----</AM>
+<AM lemma="Mersey_;G_;m" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-048-p2s5w7">
@@ -2756,7 +2758,8 @@
 <tag>
 <AM lemma="Mersey_;m" src="orig">NNXXX-----A----</AM>
 <AM lemma="Mersey_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Mersey-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Mersey-2_;m" src="manual">NNXXX-----A----</AM>
+<AM lemma="Mersey_;G_;m" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-048-p4s1w4">

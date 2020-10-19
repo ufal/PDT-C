@@ -5648,7 +5648,9 @@
 <AM lemma="ink_,t_^(ink_jet)" src="orig">AAXXX----1A----</AM>
 <AM lemma="INK-1_:B_;m_,t_^(Internationale_Nordseeschutzkonferenz)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="ink_,t_^(ink-jet,_inkoustová_tiskárna)" src="auto">A2--------A----</AM>
-<AM lemma="Ink-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Ink-77" src="manual">F%-------------</AM>
+<AM lemma="INK-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="INK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-001-p10s1w22">
@@ -5912,7 +5914,9 @@
 <AM lemma="ink_,t_^(ink_jet)" src="orig">AAXXX----1A----</AM>
 <AM lemma="INK-1_:B_;m_,t_^(Internationale_Nordseeschutzkonferenz)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="ink_,t_^(ink-jet,_inkoustová_tiskárna)" src="auto">A2--------A----</AM>
-<AM lemma="Ink-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Ink-77" src="manual">F%-------------</AM>
+<AM lemma="INK-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="INK-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-001-p10s2w23">

@@ -492,7 +492,9 @@
 <tag>
 <AM lemma="Libuš_;G" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Libuš_;G" src="auto">NNFS4-----A----</AM>
-<AM lemma="Libuše" src="manual" selected="1">NNFXX-----A---1</AM>
+<AM lemma="Libuše" src="manual">NNFXX-----A---1</AM>
+<AM lemma="Libuše" src="manual">NNFS1-----A---6</AM>
+<AM lemma="Libuše_;Y" src="manual" selected="1">NNFS1-----A---6</AM>
 </tag>
 </m>
 <m id="m005-d1t3164-4">

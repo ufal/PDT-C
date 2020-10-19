@@ -314,7 +314,10 @@
 <LM>w#w-mf920923-047-p2s2w19</LM>
 </w.rf>
 <form>Hluchý</form>
-<tag lemma="hluchý" src="orig" selected="1">AAMS1----1A----</tag>
+<tag>
+<AM lemma="hluchý" src="orig">AAMS1----1A----</AM>
+<AM lemma="Hluchý_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-047-p2s2w20">
 <src.rf>manual</src.rf>
@@ -924,7 +927,11 @@
 <LM>w#w-mf920923-047-p2s5w12</LM>
 </w.rf>
 <form>Krejčí</form>
-<tag lemma="krejčí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="krejčí" src="orig">NNMS1-----A----</AM>
+<AM lemma="Krejčí_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Krejčí-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-047-p2s5w13">
 <src.rf>manual</src.rf>
@@ -940,7 +947,10 @@
 <LM>w#w-mf920923-047-p2s5w14</LM>
 </w.rf>
 <form>Mičuda</form>
-<tag lemma="mičuda" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="mičuda" src="orig">NNFS1-----A----</AM>
+<AM lemma="Mičuda_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-047-p2s5w15">
 <src.rf>manual</src.rf>
@@ -988,7 +998,10 @@
 <LM>w#w-mf920923-047-p2s5w20</LM>
 </w.rf>
 <form>Kameník</form>
-<tag lemma="kameník" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="kameník" src="orig">NNMS1-----A----</AM>
+<AM lemma="Kameník_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-047-p2s5w21">
 <src.rf>manual</src.rf>
@@ -1138,7 +1151,10 @@
 <LM>w#w-mf920923-047-p2s5w38</LM>
 </w.rf>
 <form>Hrubý</form>
-<tag lemma="hrubý" src="orig" selected="1">AAMS1----1A----</tag>
+<tag>
+<AM lemma="hrubý" src="orig">AAMS1----1A----</AM>
+<AM lemma="Hrubý_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-047-p2s5w39">
 <src.rf>manual</src.rf>

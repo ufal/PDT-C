@@ -1605,7 +1605,10 @@
 <form>kurs</form>
 <tag>
 <AM lemma="kurs" src="auto">NNIS1-----A----</AM>
-<AM lemma="kursovní_,s_^(^DD**kurzovní)" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="kursovní_,s_^(^DD**kurzovní)" src="manual">AAXXX----1A---8</AM>
+<AM lemma="kurs-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="kurs-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="kursovní_,s_^(^DD**kurzovní)" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-mf930703-036-p20s1w10">

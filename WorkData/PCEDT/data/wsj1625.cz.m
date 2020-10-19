@@ -11805,7 +11805,8 @@
 <AM lemma="Illinois" src="auto">NNIS7-----A---1</AM>
 <AM lemma="Illinois_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Illinois_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Illinois_;G" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Illinois_;G" src="manual">NNXXX-----A----</AM>
+<AM lemma="Illinois_;G_;m" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1625-001-p1s44W8-Ta">
@@ -16095,8 +16096,8 @@
 <AM lemma="jiný" src="auto">AAIS2----1A----</AM>
 <AM lemma="jiný" src="auto">AAMS2----1A----</AM>
 <AM lemma="jiný" src="auto" recommended="1">AAMS4----1A----</AM>
-<AM lemma="jiný" src="auto">AANS2----1A----</AM>
-<AM lemma="jiný" src="manual" selected="1">AANS4----1A----</AM>
+<AM lemma="jiný" src="auto" selected="1">AANS2----1A----</AM>
+<AM lemma="jiný" src="manual">AANS4----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj1625-001-p1s58W30-Ta">

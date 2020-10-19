@@ -10444,7 +10444,10 @@
 <LM>w#w-wsj0367-001-p1s40W12</LM>
 </w.rf>
 <form>Greenville</form>
-<tag lemma="Greenville_;G" src="auto" recommended="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Greenville_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Greenville_;G" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0367-001-p1s40W13-Ta">
 <src.rf>tagger-a</src.rf>

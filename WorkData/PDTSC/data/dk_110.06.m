@@ -2955,7 +2955,7 @@
 <AM lemma="hlavní" src="auto">AAMP1----1A----</AM>
 <AM lemma="hlavní" src="auto">AAMP4----1A----</AM>
 <AM lemma="hlavní" src="auto">AAMP5----1A----</AM>
-<AM lemma="hlavní" src="auto">AAMS1----1A----</AM>
+<AM lemma="hlavní" src="auto" selected="1">AAMS1----1A----</AM>
 <AM lemma="hlavní" src="auto">AAMS5----1A----</AM>
 <AM lemma="hlavní" src="auto">AANP1----1A----</AM>
 <AM lemma="hlavní" src="auto">AANP4----1A----</AM>
@@ -2971,7 +2971,7 @@
 </w.rf>
 <form>kápo</form>
 <tag>
-<AM lemma="kápo" src="auto">NNMS1-----A----</AM>
+<AM lemma="kápo" src="auto" selected="1">NNMS1-----A----</AM>
 <AM lemma="kápo" src="auto">NNMS5-----A----</AM>
 <AM lemma="kápo" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="kápo" src="auto">NNNS4-----A----</AM>

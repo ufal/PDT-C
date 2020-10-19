@@ -11836,7 +11836,8 @@
 <AM lemma="chewa_,t_,x_^(jazyk)" src="auto">NNFP5-----A----</AM>
 <AM lemma="chewa_,t_,x_^(jazyk)" src="auto">NNFS2-----A----</AM>
 <AM lemma="Chevy_;m_,h" src="manual">NNFS1-----A----</AM>
-<AM lemma="Chevy_;m_,h_^(Chevrolet)" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Chevy_;m_,h_^(Chevrolet)" src="manual">NNFS1-----A----</AM>
+<AM lemma="Chevy_;m" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0214-001-p1s44W17-Ta">

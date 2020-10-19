@@ -419,7 +419,8 @@
 <tag>
 <AM lemma="Kontra_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="kontra" src="auto" recommended="1">RR--1----------</AM>
-<AM lemma="Kontra_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Kontra_;m" src="manual">NNFS1-----A----</AM>
+<AM lemma="Kontra-2_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1984-001-p1s1W20-Ta">
@@ -706,7 +707,8 @@
 <tag>
 <AM lemma="Kontra_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="kontra" src="auto" recommended="1">RR--1----------</AM>
-<AM lemma="Kontra_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Kontra_;m" src="manual">NNFS1-----A----</AM>
+<AM lemma="Kontra-2_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1984-001-p1s3W13-Ta">

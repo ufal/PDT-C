@@ -712,7 +712,8 @@
 <form>KRNAP</form>
 <tag>
 <AM lemma="KRNAP_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="KRNAP-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="KRNAP-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="KRNAP_^(Krkonošský_národní_park)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-31-p2s4w18">

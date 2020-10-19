@@ -20,8 +20,8 @@
 </w.rf>
 <form>JAJCE</form>
 <tag>
-<AM lemma="Jajce_;G" src="orig" selected="1">NNNS1-----A----</AM>
-<AM lemma="Jajce_;G" src="auto" recommended="1">NNIP1-----A----</AM>
+<AM lemma="Jajce_;G" src="orig">NNNS1-----A----</AM>
+<AM lemma="Jajce_;G" src="auto" recommended="1" selected="1">NNIP1-----A----</AM>
 <AM lemma="Jajce_;G" src="auto">NNIP4-----A----</AM>
 <AM lemma="Jajce_;G" src="auto">NNIP5-----A----</AM>
 <AM lemma="Jajce_;G" src="manual">NNIXX-----A----</AM>
@@ -208,8 +208,8 @@
 </w.rf>
 <form>Jajce</form>
 <tag>
-<AM lemma="Jajce_;G" src="orig" selected="1">NNNS1-----A----</AM>
-<AM lemma="Jajce_;G" src="auto" recommended="1">NNIP1-----A----</AM>
+<AM lemma="Jajce_;G" src="orig">NNNS1-----A----</AM>
+<AM lemma="Jajce_;G" src="auto" recommended="1" selected="1">NNIP1-----A----</AM>
 <AM lemma="Jajce_;G" src="auto">NNIP4-----A----</AM>
 <AM lemma="Jajce_;G" src="auto">NNIP5-----A----</AM>
 </tag>
@@ -837,8 +837,8 @@
 </w.rf>
 <form>Jajce</form>
 <tag>
-<AM lemma="Jajce_;G" src="orig" selected="1">NNNS2-----A----</AM>
-<AM lemma="Jajce_;G" src="auto">NNIP1-----A----</AM>
+<AM lemma="Jajce_;G" src="orig">NNNS2-----A----</AM>
+<AM lemma="Jajce_;G" src="auto" selected="1">NNIP1-----A----</AM>
 <AM lemma="Jajce_;G" src="auto" recommended="1">NNIP4-----A----</AM>
 <AM lemma="Jajce_;G" src="auto">NNIP5-----A----</AM>
 <AM lemma="Jajce_;G" src="manual">NNNXX-----A----</AM>
@@ -965,8 +965,8 @@
 </w.rf>
 <form>Jajce</form>
 <tag>
-<AM lemma="Jajce_;G" src="orig" selected="1">NNNS1-----A----</AM>
-<AM lemma="Jajce_;G" src="auto">NNIP1-----A----</AM>
+<AM lemma="Jajce_;G" src="orig">NNNS1-----A----</AM>
+<AM lemma="Jajce_;G" src="auto" selected="1">NNIP1-----A----</AM>
 <AM lemma="Jajce_;G" src="auto" recommended="1">NNIP4-----A----</AM>
 <AM lemma="Jajce_;G" src="auto">NNIP5-----A----</AM>
 </tag>
@@ -1376,10 +1376,11 @@
 </w.rf>
 <form>Jajce</form>
 <tag>
-<AM lemma="Jajce_;G" src="orig" selected="1">NNNS2-----A----</AM>
+<AM lemma="Jajce_;G" src="orig">NNNS2-----A----</AM>
 <AM lemma="Jajce_;G" src="auto" recommended="1">NNIP1-----A----</AM>
 <AM lemma="Jajce_;G" src="auto">NNIP4-----A----</AM>
 <AM lemma="Jajce_;G" src="auto">NNIP5-----A----</AM>
+<AM lemma="Jajce_;G" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-045-p4s7w13">

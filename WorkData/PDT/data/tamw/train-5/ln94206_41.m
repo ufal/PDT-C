@@ -135,7 +135,10 @@
 <LM>w#w-ln94206-41-p2s1Bw7</LM>
 </w.rf>
 <form>Mělnicku</form>
-<tag lemma="Mělnicko_;G_;Y" src="orig" selected="1">NNNS6-----A----</tag>
+<tag>
+<AM lemma="Mělnicko_;G_;Y" src="orig">NNNS6-----A----</AM>
+<AM lemma="Mělnicko_;G" src="manual" selected="1">NNNS6-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-41-p2s1Bw8">
 <src.rf>manual</src.rf>

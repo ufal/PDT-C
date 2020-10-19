@@ -464,6 +464,7 @@
 <tag>
 <AM lemma="malinka_,e" src="auto">NNFS5-----A----</AM>
 <AM lemma="malinko-1" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="malinko-3" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m134-d1t32-5">

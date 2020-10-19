@@ -369,7 +369,8 @@
 <AM lemma="hr-1" src="auto">Db-------------</AM>
 <AM lemma="hr-2" src="auto">II-------------</AM>
 <AM lemma="Hradec-2_;G" src="manual">NNIXX-----A---8</AM>
-<AM lemma="Hr-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Hr-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Hradec-2_;G" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92252-081-p7s1w2">

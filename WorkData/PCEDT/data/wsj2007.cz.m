@@ -6879,7 +6879,8 @@
 <AM lemma="Lillo_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Lillo_;Y" src="auto">NNMP7-----A----</AM>
 <AM lemma="Lilly_;Y" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Lilly-2_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Lilly-2_;m" src="manual">NNNXX-----A----</AM>
+<AM lemma="Lilly_;Y_;m" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2007-001-p1s23W15-Ta">
@@ -7639,7 +7640,8 @@
 <AM lemma="Lillo_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Lillo_;Y" src="auto">NNMP7-----A----</AM>
 <AM lemma="Lilly_;Y" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Lilly-2_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Lilly-2_;m" src="manual">NNNXX-----A----</AM>
+<AM lemma="Lilly_;Y_;m" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2007-001-p1s24W37-Ta">
@@ -7905,7 +7907,8 @@
 <AM lemma="Lillo_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Lillo_;Y" src="auto">NNMP7-----A----</AM>
 <AM lemma="Lilly_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Lilly-2_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Lilly-2_;m" src="manual">NNNXX-----A----</AM>
+<AM lemma="Lilly_;Y_;m" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2007-001-p1s24W59-Ta">
@@ -8616,7 +8619,8 @@
 <AM lemma="Lillo_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Lillo_;Y" src="auto">NNMP7-----A----</AM>
 <AM lemma="Lilly_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Lilly-2_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Lilly-2_;m" src="manual">NNNXX-----A----</AM>
+<AM lemma="Lilly_;Y_;m" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2007-001-p1s28W5-Ta">
@@ -9347,7 +9351,8 @@
 <AM lemma="Lillo_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Lillo_;Y" src="auto">NNMP7-----A----</AM>
 <AM lemma="Lilly_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Lilly-2_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Lilly-2_;m" src="manual">NNNXX-----A----</AM>
+<AM lemma="Lilly_;Y_;m" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2007-001-p1s30W4-Ta">

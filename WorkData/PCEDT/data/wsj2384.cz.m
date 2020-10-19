@@ -14674,7 +14674,10 @@
 <LM>w#w-wsj2384-001-p1s42W44</LM>
 </w.rf>
 <form>Hampshire</form>
-<tag lemma="Hampshire_;G" src="auto" recommended="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Hampshire_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Hampshire-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2384-001-p1s42W45-Ta">
 <src.rf>tagger-a</src.rf>

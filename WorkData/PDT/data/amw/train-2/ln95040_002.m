@@ -419,7 +419,8 @@
 <AM lemma="line_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="linout" src="auto">VB-S---3P-AAI--</AM>
 <AM lemma="line_,t_^(angl._čára)" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="line-2" src="manual" selected="1">AAXXX----1A----</AM>
+<AM lemma="line-2" src="manual">AAXXX----1A----</AM>
+<AM lemma="line-2" src="manual" selected="1">SAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-002-p2s1Bw36">
@@ -867,7 +868,8 @@
 <AM lemma="line_;m_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="linout" src="auto">VB-S---3P-AAI--</AM>
 <AM lemma="line_,t_^(angl._čára)" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="line-2" src="manual" selected="1">AAXXX----1A----</AM>
+<AM lemma="line-2" src="manual">AAXXX----1A----</AM>
+<AM lemma="line-2" src="manual" selected="1">SAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-002-p4s1w14">
