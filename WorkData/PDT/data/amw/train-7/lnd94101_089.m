@@ -2569,7 +2569,10 @@
 <LM>w#w-lnd94101-089-p1s12Bw19</LM>
 </w.rf>
 <form>play</form>
-<tag lemma="play-1" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="play-1" src="orig">NNFXX-----A----</AM>
+<AM lemma="play-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94101-089-p1s12Bw20">
 <src.rf>manual</src.rf>
@@ -2577,7 +2580,10 @@
 <LM>w#w-lnd94101-089-p1s12Bw20</LM>
 </w.rf>
 <form>off</form>
-<tag lemma="off-1_^(angl._&quot;vypnuto&quot;,_hlavně_souč._názvů)" src="orig" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="off-1_^(angl._&quot;vypnuto&quot;,_hlavně_souč._názvů)" src="orig">TT-------------</AM>
+<AM lemma="off-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94101-089-p1s12Bw21">
 <src.rf>manual</src.rf>

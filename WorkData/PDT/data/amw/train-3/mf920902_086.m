@@ -290,7 +290,10 @@
 <LM>w#w-mf920902-086-p1s1Bw31</LM>
 </w.rf>
 <form>Monte</form>
-<tag lemma="Monte_;G" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Monte_;G" src="orig">NNNXX-----A----</AM>
+<AM lemma="Monte-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920902-086-p1s1Bw32">
 <src.rf>manual</src.rf>

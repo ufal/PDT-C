@@ -430,11 +430,12 @@
 </w.rf>
 <form>Polka</form>
 <tag>
-<AM lemma="Polka_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Polka_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Polk_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Polk_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="Polka_;E" src="auto">NNFS1-----A----</AM>
 <AM lemma="polka" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Polka-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-097-p2s3w13">
@@ -497,11 +498,12 @@
 </w.rf>
 <form>Polka</form>
 <tag>
-<AM lemma="Polka_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Polka_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Polk_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Polk_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
 <AM lemma="Polka_;E" src="auto">NNFS1-----A----</AM>
 <AM lemma="polka" src="auto">NNFS1-----A----</AM>
+<AM lemma="Polka-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-097-p2s4w7">
@@ -1084,11 +1086,12 @@
 </w.rf>
 <form>Polka</form>
 <tag>
-<AM lemma="Polka_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Polka_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Polk_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Polk_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="Polka_;E" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="polka" src="auto">NNFS1-----A----</AM>
+<AM lemma="Polka-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-097-p2s6Bw3">
@@ -1904,11 +1907,12 @@
 </w.rf>
 <form>Polka</form>
 <tag>
-<AM lemma="Polka_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Polka_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Polk_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Polk_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="Polka_;E" src="auto">NNFS1-----A----</AM>
 <AM lemma="polka" src="auto">NNFS1-----A----</AM>
+<AM lemma="Polka-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-097-p2s9w39">

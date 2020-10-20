@@ -3149,7 +3149,10 @@
 <LM>w#w-ln94201-95-p3s7w9</LM>
 </w.rf>
 <form>Monte</form>
-<tag lemma="Monte_;G" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Monte_;G" src="orig">NNNXX-----A----</AM>
+<AM lemma="Monte-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-95-p3s7w10">
 <src.rf>manual</src.rf>
@@ -3157,7 +3160,10 @@
 <LM>w#w-ln94201-95-p3s7w10</LM>
 </w.rf>
 <form>Carlo</form>
-<tag lemma="Carlo-2_;G" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Carlo-2_;G" src="orig">NNNS1-----A----</AM>
+<AM lemma="Carlo-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-95-p3s7w11">
 <src.rf>manual</src.rf>

@@ -648,7 +648,10 @@
 <LM>w#w-ln94211-106-p3s1w8</LM>
 </w.rf>
 <form>Bandu</form>
-<tag lemma="band" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="band" src="orig">NNIS2-----A----</AM>
+<AM lemma="Band_;m" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-106-p3s1w9">
 <src.rf>manual</src.rf>

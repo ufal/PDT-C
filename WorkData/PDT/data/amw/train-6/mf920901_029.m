@@ -545,7 +545,10 @@
 <LM>w#w-mf920901-029-p3s4w11</LM>
 </w.rf>
 <form>Slovanech</form>
-<tag lemma="Slovan-2_;m" src="orig" selected="1">NNIP6-----A----</tag>
+<tag>
+<AM lemma="Slovan-2_;m" src="orig">NNIP6-----A----</AM>
+<AM lemma="Slovany_;G" src="manual" selected="1">NNIP6-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-029-p3s4w12">
 <src.rf>manual</src.rf>

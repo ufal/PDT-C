@@ -445,7 +445,8 @@
 <AM lemma="Sme_;m_,t_^(noviny)" src="orig">NNXXX-----A----</AM>
 <AM lemma="Sme_;m_,t" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="být" src="auto">VB-P---1P-AAI-6</AM>
-<AM lemma="Sme_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Sme_;m" src="manual">NNNXX-----A----</AM>
+<AM lemma="Sme_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-049-p1s4w24">

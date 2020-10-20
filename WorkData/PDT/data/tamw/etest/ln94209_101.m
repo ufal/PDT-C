@@ -1677,7 +1677,10 @@
 <LM>w#w-ln94209-101-p3s3w20</LM>
 </w.rf>
 <form>power</form>
-<tag lemma="power_^(angl._adj.)" src="auto" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="power_^(angl._adj.)" src="auto">AAXXX----1A----</AM>
+<AM lemma="power-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94209-101-p3s3w21">
 <src.rf>manual</src.rf>
@@ -1685,7 +1688,10 @@
 <LM>w#w-ln94209-101-p3s3w21</LM>
 </w.rf>
 <form>play</form>
-<tag lemma="play-1" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="play-1" src="orig">NNFXX-----A----</AM>
+<AM lemma="play-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94209-101-p3s3w22">
 <src.rf>manual</src.rf>

@@ -5278,7 +5278,8 @@
 <form>Oracle</form>
 <tag>
 <AM lemma="Oracle_;m_,t" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Oracle_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Oracle_;m" src="manual">NNNXX-----A----</AM>
+<AM lemma="Oracle_;m" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 </s>

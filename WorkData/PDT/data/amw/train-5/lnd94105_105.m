@@ -818,8 +818,8 @@
 </w.rf>
 <form>nad</form>
 <tag>
-<AM lemma="nad-1" src="orig">RR--4----------</AM>
-<AM lemma="nad-2" src="manual" selected="1">Db-------------</AM>
+<AM lemma="nad-1" src="orig" selected="1">RR--4----------</AM>
+<AM lemma="nad-2" src="manual">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94105-105-p1s4w23">
@@ -1714,8 +1714,8 @@
 </w.rf>
 <form>nad</form>
 <tag>
-<AM lemma="nad-1" src="orig">RR--4----------</AM>
-<AM lemma="nad-2" src="manual" selected="1">Db-------------</AM>
+<AM lemma="nad-1" src="orig" selected="1">RR--4----------</AM>
+<AM lemma="nad-2" src="manual">Db-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94105-105-p1s9w16">

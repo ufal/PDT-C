@@ -217,7 +217,9 @@
 <AM lemma="restaurace_:B" src="orig">NNFXX-----A---8</AM>
 <AM lemma="rest" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="rest" src="auto">NNIS4-----A----</AM>
-<AM lemma="restaurace" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="restaurace" src="manual">NNFXX-----A---8</AM>
+<AM lemma="rest-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="rest-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-087-p2s2w19">
@@ -3707,7 +3709,9 @@
 <AM lemma="restaurace_:B" src="orig">NNFXX-----A---8</AM>
 <AM lemma="rest" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="rest" src="auto">NNIS4-----A----</AM>
-<AM lemma="restaurace" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="restaurace" src="manual">NNFXX-----A---8</AM>
+<AM lemma="rest-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="rest-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-087-p5s2w42">

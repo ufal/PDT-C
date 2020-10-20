@@ -1164,7 +1164,7 @@
 </w.rf>
 <form>celého</form>
 <tag>
-<AM lemma="celý" src="auto">AAIS2----1A----</AM>
+<AM lemma="celý" src="auto" selected="1">AAIS2----1A----</AM>
 <AM lemma="celý" src="auto" recommended="1">AAMS2----1A----</AM>
 <AM lemma="celý" src="auto">AAMS4----1A----</AM>
 <AM lemma="celý" src="auto">AANS2----1A----</AM>
@@ -1178,7 +1178,8 @@
 <tag>
 <AM lemma="skaut" src="auto" recommended="1">NNMS3-----A---1</AM>
 <AM lemma="skaut" src="auto">NNMS6-----A---1</AM>
-<AM lemma="skaut" src="manual" selected="1">NNMS2-----A---1</AM>
+<AM lemma="skaut" src="manual">NNMS2-----A---1</AM>
+<AM lemma="skaut-2_^(organizace)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m046-d1e657-x2-279">

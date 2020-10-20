@@ -3187,7 +3187,10 @@
 <LM>w#w-ln95041-029-p2s15w8</LM>
 </w.rf>
 <form>play</form>
-<tag lemma="play-1" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="play-1" src="orig">NNFXX-----A----</AM>
+<AM lemma="play-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95041-029-p2s15w9">
 <src.rf>manual</src.rf>
@@ -3195,7 +3198,10 @@
 <LM>w#w-ln95041-029-p2s15w9</LM>
 </w.rf>
 <form>off</form>
-<tag lemma="off-1_^(angl._&quot;vypnuto&quot;,_hlavně_souč._názvů)" src="orig" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="off-1_^(angl._&quot;vypnuto&quot;,_hlavně_souč._názvů)" src="orig">TT-------------</AM>
+<AM lemma="off-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95041-029-p2s15w10">
 <src.rf>manual</src.rf>

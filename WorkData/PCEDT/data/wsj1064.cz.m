@@ -2494,7 +2494,8 @@
 <tag>
 <AM lemma="sonet" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="sonet" src="auto">NNIS4-----A----</AM>
-<AM lemma="Sonet-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Sonet-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Sonet_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1064-001-p1s6W20-Ta">
@@ -2725,7 +2726,8 @@
 <tag>
 <AM lemma="sonet" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="sonet" src="auto">NNIS4-----A----</AM>
-<AM lemma="Sonet-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Sonet-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Sonet_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1064-001-p1s7W5-Ta">
@@ -3835,7 +3837,8 @@
 <tag>
 <AM lemma="sonet" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="sonet" src="auto">NNIS4-----A----</AM>
-<AM lemma="Sonet-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Sonet-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Sonet_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1064-001-p1s10W40-Ta">

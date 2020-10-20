@@ -3300,7 +3300,8 @@
 <AM lemma="Rowland_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Rowland_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Rowland_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Rowland-2_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Rowland-2_;Y" src="manual">NNMXX-----A----</AM>
+<AM lemma="Rowland-1_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0360-001-p1s11W21-Ta">
@@ -5482,7 +5483,8 @@
 <AM lemma="Rowland_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Rowland_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Rowland_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Rowland-2_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Rowland-2_;Y" src="manual">NNMXX-----A----</AM>
+<AM lemma="Rowland-1_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0360-001-p1s17W12-Ta">

@@ -12854,7 +12854,8 @@
 <tag>
 <AM lemma="singl" src="auto">NNIS5-----A----</AM>
 <AM lemma="single-77" src="auto" recommended="1">F%-------------</AM>
-<AM lemma="single" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="single" src="manual">NNXXX-----A----</AM>
+<AM lemma="single" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj1867-001-p1s55W6-Ta">
@@ -12973,7 +12974,8 @@
 <tag>
 <AM lemma="singl" src="auto">NNIS5-----A----</AM>
 <AM lemma="single-77" src="auto" recommended="1">F%-------------</AM>
-<AM lemma="single" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="single" src="manual">NNXXX-----A----</AM>
+<AM lemma="single" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj1867-001-p1s55W16-Ta">

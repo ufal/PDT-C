@@ -1452,7 +1452,10 @@
 <LM>w#w-ln94207-34-p6s1w6</LM>
 </w.rf>
 <form>min</form>
-<tag lemma="min_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="min_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="min" src="manual" selected="1">SNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-34-p6s1w7">
 <src.rf>manual</src.rf>

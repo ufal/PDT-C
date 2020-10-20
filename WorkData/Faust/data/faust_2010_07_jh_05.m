@@ -2956,7 +2956,8 @@
 <AM lemma="mil_,t_^(měnová_jednotka)">NNIS3-----A----</AM>
 <AM lemma="mil_,t_^(měnová_jednotka)">NNIS6-----A----</AM>
 <AM lemma="milu-2" src="manual">NNXXX-----A----</AM>
-<AM lemma="milu" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="milu" src="manual">NNXXX-----A----</AM>
+<AM lemma="milu_^(druh_jelena)" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="jh_05-SCzechM-p0483-s1-w9">
@@ -4970,7 +4971,8 @@
 <AM lemma="Playstation_;m">NNIS4-----A----</AM>
 <AM lemma="playstation_,t">NNIS1-----A----</AM>
 <AM lemma="playstation_,t">NNIS4-----A----</AM>
-<AM lemma="PlayStation_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PlayStation_;m" src="manual">NNXXX-----A----</AM>
+<AM lemma="PlayStation-1_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="jh_05-SCzechM-p0510-s1-w11">

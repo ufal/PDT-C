@@ -1040,6 +1040,7 @@
 <tag>
 <AM lemma="Slovan-1_;E" src="auto">NNMP6-----A----</AM>
 <AM lemma="Slovan-2_;m" src="auto" recommended="1">NNIP6-----A----</AM>
+<AM lemma="Slovany_;G" src="manual" selected="1">NNIP6-----A----</AM>
 </tag>
 </m>
 <m id="m010-d-id56700">

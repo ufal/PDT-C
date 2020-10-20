@@ -1023,7 +1023,10 @@
 <LM>w#w-lnd94104-084-p1s7w14</LM>
 </w.rf>
 <form>místo</form>
-<tag lemma="místo-3" src="auto" selected="1">J,-------------</tag>
+<tag>
+<AM lemma="místo-3" src="auto">J,-------------</AM>
+<AM lemma="místo-3" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94104-084-p1s7w15">
 <src.rf>manual</src.rf>

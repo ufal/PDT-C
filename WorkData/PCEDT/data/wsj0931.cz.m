@@ -3152,6 +3152,7 @@
 <AM lemma="ministerský_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="ministerstvo_:B" src="auto">NNNXX-----A---8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---9</AM>
+<AM lemma="min" src="manual" selected="1">SNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0931-001-p1s10W17-Ta">

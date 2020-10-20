@@ -3090,7 +3090,8 @@
 <tag>
 <AM lemma="skaut" src="auto">NNMS3-----A---1</AM>
 <AM lemma="skaut" src="auto" recommended="1">NNMS6-----A---1</AM>
-<AM lemma="skaut" src="manual" selected="1">NNMS2-----A---1</AM>
+<AM lemma="skaut" src="manual">NNMS2-----A---1</AM>
+<AM lemma="skaut-2_^(organizace)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m105-d-id156243-punct">
@@ -3168,6 +3169,7 @@
 <tag>
 <AM lemma="pionýr" src="auto">NNMS2-----A----</AM>
 <AM lemma="pionýr" src="auto" recommended="1">NNMS4-----A----</AM>
+<AM lemma="pionýr-2_^(organizace)" src="manual" selected="1">NNIS2-----A---1</AM>
 </tag>
 </m>
 <m id="m105-d-id156415-punct">
@@ -3263,7 +3265,10 @@
 <LM>w#w-d1t2614-3</LM>
 </w.rf>
 <form>pionýr</form>
-<tag lemma="pionýr" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="pionýr" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="pionýr-2_^(organizace)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m105-d-id156630-punct">
 <w.rf>

@@ -3271,7 +3271,7 @@
 <AM lemma="Hruškův_;Y_^(*2a)" src="auto">AUFS2M---------</AM>
 <AM lemma="Hruškův_;Y_^(*2a)" src="auto">AUIP1M---------</AM>
 <AM lemma="Hruškův_;Y_^(*2a)" src="auto">AUIP5M---------</AM>
-<AM lemma="Hruškův_;Y_^(*2a)" selected="1" src="auto">AUMP4M---------</AM>
+<AM lemma="Hruškův_;Y_^(*2a)" src="auto" selected="1">AUMP4M---------</AM>
 <AM lemma="Hruškov_;G" src="auto">NNIP1-----A----</AM>
 <AM lemma="Hruškov_;G" src="auto">NNIP4-----A----</AM>
 <AM lemma="Hruškov_;G" src="auto">NNIP5-----A----</AM>
@@ -4780,9 +4780,10 @@
 <AM lemma="pár-1" src="auto">ClXP6----------</AM>
 <AM lemma="pár-1" src="auto">ClXP7----------</AM>
 <AM lemma="pár-1" src="auto">ClXS1----------</AM>
-<AM lemma="pár-1" src="auto" selected="1">ClXS4----------</AM>
+<AM lemma="pár-1" src="auto">ClXS4----------</AM>
 <AM lemma="pár-2" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="pár-2" src="auto">NNIS4-----A----</AM>
+<AM lemma="pár-1" src="manual" selected="1">Ca--X----------</AM>
 </tag>
 </m>
 <m id="m001-d1t1412-10">
@@ -5363,9 +5364,9 @@
 <form>mnoho</form>
 <tag>
 <AM lemma="mnoho-1" src="auto">Ca--1----------</AM>
-<AM lemma="mnoho-1" src="auto" recommended="1">Ca--4----------</AM>
+<AM lemma="mnoho-1" src="auto" recommended="1" selected="1">Ca--4----------</AM>
 <AM lemma="mnoho-2" src="auto">Db-------------</AM>
-<AM lemma="mnoho-1" src="manual" selected="1">Ca--X----------</AM>
+<AM lemma="mnoho-1" src="manual">Ca--X----------</AM>
 </tag>
 </m>
 <m id="m001-d1t1439-7">
@@ -6332,9 +6333,9 @@
 <form>mnoho</form>
 <tag>
 <AM lemma="mnoho-1" src="auto" recommended="1">Ca--1----------</AM>
-<AM lemma="mnoho-1" src="auto">Ca--4----------</AM>
+<AM lemma="mnoho-1" src="auto" selected="1">Ca--4----------</AM>
 <AM lemma="mnoho-2" src="auto">Db-------------</AM>
-<AM lemma="mnoho-1" src="manual" selected="1">Ca--X----------</AM>
+<AM lemma="mnoho-1" src="manual">Ca--X----------</AM>
 </tag>
 </m>
 <m id="m001-d1t1468-2">

@@ -3378,7 +3378,8 @@
 <AM lemma="rosa" src="auto">NNFS3-----A----</AM>
 <AM lemma="rosa" src="auto">NNFS6-----A----</AM>
 <AM lemma="rosit" src="auto">VeYS------A-I--</AM>
-<AM lemma="Rose-2_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Rose-2_;Y" src="manual">NNFS1-----A----</AM>
+<AM lemma="Rose-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1847-001-p1s14W22-Ta">

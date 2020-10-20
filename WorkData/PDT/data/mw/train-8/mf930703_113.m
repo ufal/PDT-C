@@ -596,7 +596,10 @@
 <LM>w#w-mf930703-113-p2s4w15</LM>
 </w.rf>
 <form>polovic</form>
-<tag lemma="polovic" src="orig" selected="1">Cn-XX----------</tag>
+<tag>
+<AM lemma="polovic" src="orig">Cn-XX----------</AM>
+<AM lemma="polovice" src="manual" selected="1">NNFS4---------1</AM>
+</tag>
 </m>
 <m id="m-mf930703-113-p2s4w16">
 <src.rf>manual</src.rf>

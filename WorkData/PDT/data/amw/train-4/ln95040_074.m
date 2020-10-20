@@ -413,7 +413,8 @@
 <form>Shannon</form>
 <tag>
 <AM lemma="Shannon_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Shannon-2_;G" src="manual" selected="1">NNXS1-----A----</AM>
+<AM lemma="Shannon-2_;G" src="manual">NNXS1-----A----</AM>
+<AM lemma="Shannon-2_;G" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-074-p2s2w11">
@@ -2047,7 +2048,8 @@
 <form>Shannon</form>
 <tag>
 <AM lemma="Shannon_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Shannon-2_;G" src="manual" selected="1">NNXS1-----A----</AM>
+<AM lemma="Shannon-2_;G" src="manual">NNXS1-----A----</AM>
+<AM lemma="Shannon-2_;G" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-074-p6s1w12">
@@ -3675,7 +3677,8 @@
 <form>Shannon</form>
 <tag>
 <AM lemma="Shannon_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Shannon-2_;G" src="manual" selected="1">NNXS1-----A----</AM>
+<AM lemma="Shannon-2_;G" src="manual">NNXS1-----A----</AM>
+<AM lemma="Shannon-2_;G" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-074-p8s2w8">

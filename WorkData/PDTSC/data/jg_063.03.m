@@ -3872,7 +3872,8 @@
 <form>opušťák</form>
 <tag>
 <AM lemma="opušťák" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="opušťák" src="manual" selected="1">NNMS4-----A---1</AM>
+<AM lemma="opušťák" src="manual">NNMS4-----A---1</AM>
+<AM lemma="opušťák" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m063-d1t1461-7">

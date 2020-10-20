@@ -1135,7 +1135,8 @@
 <form>PHARE</form>
 <tag>
 <AM lemma="Phare_;m" src="orig">NNIXX-----A----</AM>
-<AM lemma="PHARE-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="PHARE-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Phare_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-24-p3s5w19">
@@ -1392,7 +1393,8 @@
 <form>PHARE</form>
 <tag>
 <AM lemma="Phare_;m" src="orig">NNIXX-----A----</AM>
-<AM lemma="PHARE-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="PHARE-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Phare_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-24-p4s1w16">
@@ -1627,7 +1629,8 @@
 <form>PHARE</form>
 <tag>
 <AM lemma="Phare_;m" src="orig">NNIXX-----A----</AM>
-<AM lemma="PHARE-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="PHARE-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Phare_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-24-p4s4w7">

@@ -240,7 +240,10 @@
 <LM>w#w-ln95047-033-p2s2w4</LM>
 </w.rf>
 <form>fair</form>
-<tag lemma="fair" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="fair" src="orig">AAXXX----1A----</AM>
+<AM lemma="fair-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-033-p2s2w5">
 <src.rf>manual</src.rf>
@@ -248,7 +251,10 @@
 <LM>w#w-ln95047-033-p2s2w5</LM>
 </w.rf>
 <form>play</form>
-<tag lemma="play-1" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="play-1" src="orig">NNFXX-----A----</AM>
+<AM lemma="play-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95047-033-p2s2w6">
 <src.rf>manual</src.rf>

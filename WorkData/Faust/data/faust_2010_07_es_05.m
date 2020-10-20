@@ -4595,7 +4595,8 @@
 <AM lemma="Playstation_;m">NNIS4-----A----</AM>
 <AM lemma="playstation_,t">NNIS1-----A----</AM>
 <AM lemma="playstation_,t">NNIS4-----A----</AM>
-<AM lemma="PlayStation_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PlayStation_;m" src="manual">NNXXX-----A----</AM>
+<AM lemma="PlayStation-1_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="es_05-SCzechM-p0510-s1-w7">

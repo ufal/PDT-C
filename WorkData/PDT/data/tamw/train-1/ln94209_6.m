@@ -68,8 +68,9 @@
 </w.rf>
 <form>Mimi</form>
 <tag>
-<AM lemma="Mimi_;m" src="orig" selected="1">NNNXX-----A----</AM>
+<AM lemma="Mimi_;m" src="orig">NNNXX-----A----</AM>
 <AM lemma="Mimi_;Y" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Mimi-2_;m_^(limonáda)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -281,8 +282,9 @@
 </w.rf>
 <form>Mimi</form>
 <tag>
-<AM lemma="Mimi_;m" src="orig" selected="1">NNNXX-----A----</AM>
+<AM lemma="Mimi_;m" src="orig">NNNXX-----A----</AM>
 <AM lemma="Mimi_;Y" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Mimi-2_;m_^(limonáda)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-6-p2s1Bw24">

@@ -708,7 +708,8 @@
 <AM lemma="první" src="auto">CrMS2----------</AM>
 <AM lemma="první" src="auto" recommended="1">CrMS4----------</AM>
 <AM lemma="první" src="auto">CrNS2----------</AM>
-<AM lemma="první" src="manual" selected="1">CrIS4----------</AM>
+<AM lemma="první" src="manual">CrIS4----------</AM>
+<AM lemma="první-1" src="manual" selected="1">CrIS2----------</AM>
 </tag>
 </m>
 <m id="m133-d1t587-10">

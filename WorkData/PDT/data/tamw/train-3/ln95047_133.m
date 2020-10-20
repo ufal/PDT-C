@@ -400,8 +400,8 @@
 </w.rf>
 <form>mnoha</form>
 <tag>
-<AM lemma="mnoho-1" src="orig">Ca--2----------</AM>
-<AM lemma="mnoho-1" src="manual" selected="1">Ca--X----------</AM>
+<AM lemma="mnoho-1" src="orig" selected="1">Ca--2----------</AM>
+<AM lemma="mnoho-1" src="manual">Ca--X----------</AM>
 </tag>
 </m>
 <m id="m-ln95047-133-p3s1w24">

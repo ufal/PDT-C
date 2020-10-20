@@ -10879,7 +10879,8 @@
 <tag>
 <AM lemma="Monte_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Mont_;m" src="auto">NNIS5-----A----</AM>
-<AM lemma="Monte_;G" src="auto" recommended="1" selected="1">NNNXX-----A----</AM>
+<AM lemma="Monte_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Monte-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-118-p21s1w29">

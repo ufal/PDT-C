@@ -12225,7 +12225,8 @@
 <tag>
 <AM lemma="peji" src="auto">X@-------------</AM>
 <AM lemma="pej_;G" src="manual">NNIS6-----A----</AM>
-<AM lemma="pej-1" src="manual" selected="1">SNIS6-----A----</AM>
+<AM lemma="pej-1" src="manual">SNIS6-----A----</AM>
+<AM lemma="pej-1" src="manual" selected="1">SNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0586-001-p1s39W17-Ta">

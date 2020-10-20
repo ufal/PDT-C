@@ -3509,10 +3509,10 @@
 </w.rf>
 <form>plus</form>
 <tag>
-<AM lemma="plus-1_^(znaménko_plus;_vyjádření_kladné_vlastnosti)" src="auto">NNIS1-----A----</AM>
+<AM lemma="plus-1_^(znaménko_plus;_vyjádření_kladné_vlastnosti)" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="plus-1_^(znaménko_plus;_vyjádření_kladné_vlastnosti)" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="plus-2_^(mat._operace;_1_plus_1,_též_plus_dva_stupně)" src="auto">J*-------------</AM>
-<AM lemma="plus-3" src="manual" selected="1">Db-------------</AM>
+<AM lemma="plus-3" src="manual">Db-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0271-001-p1s13W19-Ta">

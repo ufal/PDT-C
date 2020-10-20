@@ -3490,8 +3490,8 @@
 </w.rf>
 <form>polovic</form>
 <tag>
-<AM lemma="polovic" src="auto" selected="1">Cn-XX----------</AM>
-<AM lemma="polovice" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="polovic" src="auto">Cn-XX----------</AM>
+<AM lemma="polovice" src="auto" recommended="1" selected="1">NNFP2-----A----</AM>
 </tag>
 </m>
 <m id="m146-d1t1253-28">

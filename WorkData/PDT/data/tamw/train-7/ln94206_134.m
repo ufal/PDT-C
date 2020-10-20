@@ -404,7 +404,8 @@
 <AM lemma="Petro_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Petro_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="petra-1_;m" src="auto">NNFS1-----A----</AM>
-<AM lemma="Petra-3_;m" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Petra-3_;m" src="manual">NNFXX-----A----</AM>
+<AM lemma="Petra_;G_;Y_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-134-p2s3w10">
@@ -850,7 +851,8 @@
 <AM lemma="Petro_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Petro_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="petra-1_;m" src="auto">NNFS1-----A----</AM>
-<AM lemma="Petra-3_;m" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Petra-3_;m" src="manual">NNFXX-----A----</AM>
+<AM lemma="Petra_;G_;Y_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-134-p2s6w9">

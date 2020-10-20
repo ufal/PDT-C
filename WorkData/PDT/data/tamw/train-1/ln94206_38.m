@@ -483,7 +483,8 @@
 <form>odsouzených</form>
 <tag>
 <AM lemma="odsouzený_^(*4dit)" src="orig">AAMP2----1A----</AM>
-<AM lemma="odsouzený-2_^(osoba)" src="manual" selected="1">NNMP2-----A---6</AM>
+<AM lemma="odsouzený-2_^(osoba)" src="manual">NNMP2-----A---6</AM>
+<AM lemma="odsouzený-2_^(osoba)" src="manual" selected="1">NNMP2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-38-p2s3w10">
@@ -640,7 +641,8 @@
 <form>odsouzených</form>
 <tag>
 <AM lemma="odsouzený_^(*4dit)" src="orig">AAMP2----1A----</AM>
-<AM lemma="odsouzený-2_^(osoba)" src="manual" selected="1">NNMP2-----A---6</AM>
+<AM lemma="odsouzený-2_^(osoba)" src="manual">NNMP2-----A---6</AM>
+<AM lemma="odsouzený-2_^(osoba)" src="manual" selected="1">NNMP2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-38-p2s4w15">

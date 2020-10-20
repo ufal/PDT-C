@@ -4243,7 +4243,10 @@
 <LM>w#w-ln94209-100-p5s3w54</LM>
 </w.rf>
 <form>French</form>
-<tag lemma="French" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="French" src="orig">AAXXX----1A----</AM>
+<AM lemma="French-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94209-100-p5s3w55">
 <src.rf>manual</src.rf>
@@ -4251,7 +4254,10 @@
 <LM>w#w-ln94209-100-p5s3w55</LM>
 </w.rf>
 <form>Open</form>
-<tag lemma="Open-1_^(v_názvu_např._sport._soutěží,_&quot;otevřený&quot;)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Open-1_^(v_názvu_např._sport._soutěží,_&quot;otevřený&quot;)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Open-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94209-100-p5s3w56">
 <src.rf>manual</src.rf>

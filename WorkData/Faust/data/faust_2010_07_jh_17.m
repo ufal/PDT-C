@@ -3498,7 +3498,9 @@
 <AM lemma="OK-3_;m_^(televizní_program_OK3)">NNXXX-----A----</AM>
 <AM lemma="Oka_;G">NNFP2-----A----</AM>
 <AM lemma="oko">NNNP2-----A----</AM>
-<AM lemma="ok" src="manual" selected="1">Db-------------</AM>
+<AM lemma="ok" src="manual">Db-------------</AM>
+<AM lemma="ok-1" src="manual">TT-------------</AM>
+<AM lemma="ok-1" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="jh_17-SCzechM-p1783-s1-w9">

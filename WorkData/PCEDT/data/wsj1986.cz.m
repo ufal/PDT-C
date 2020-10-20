@@ -1060,7 +1060,8 @@
 <AM lemma="postelový" src="auto">AAMP6----1A----</AM>
 <AM lemma="postelový" src="auto">AANP2----1A----</AM>
 <AM lemma="postelový" src="auto">AANP6----1A----</AM>
-<AM lemma="Postelův_;Y_^(*2)" src="manual" selected="1">AUMP2M---------</AM>
+<AM lemma="Postelův_;Y_^(*2)" src="manual">AUMP2M---------</AM>
+<AM lemma="Postelův_;Y" src="manual" selected="1">AUMP2M---------</AM>
 </tag>
 </m>
 <m id="m-wsj1986-001-p1s1W14-Ta">
@@ -1334,7 +1335,8 @@
 <AM lemma="postelový" src="auto">AAMP6----1A----</AM>
 <AM lemma="postelový" src="auto">AANP2----1A----</AM>
 <AM lemma="postelový" src="auto">AANP6----1A----</AM>
-<AM lemma="Postelův_;Y_^(*2)" src="manual" selected="1">AUMP2M---------</AM>
+<AM lemma="Postelův_;Y_^(*2)" src="manual">AUMP2M---------</AM>
+<AM lemma="Postelův_;Y" src="manual" selected="1">AUMP2M---------</AM>
 </tag>
 </m>
 <m id="m-wsj1986-001-p1s2W18-Ta">
@@ -2378,7 +2380,8 @@
 <AM lemma="postelový" src="auto">AANP2----1A----</AM>
 <AM lemma="postelový" src="auto">AANP6----1A----</AM>
 <AM lemma="Postelův_;Y_^(*2)" src="manual">AUMP2M---------</AM>
-<AM lemma="Postelův_;Y_^(*2)" src="manual" selected="1">AUMP2M---------</AM>
+<AM lemma="Postelův_;Y_^(*2)" src="manual">AUMP2M---------</AM>
+<AM lemma="Postelův_;Y" src="manual" selected="1">AUMP2M---------</AM>
 </tag>
 </m>
 <m id="m-wsj1986-001-p1s6W12-Ta">

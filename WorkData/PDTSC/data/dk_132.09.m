@@ -3747,8 +3747,8 @@
 <AM lemma="mnoho-1" src="auto">Ca--2----------</AM>
 <AM lemma="mnoho-1" src="auto">Ca--3----------</AM>
 <AM lemma="mnoho-1" src="auto">Ca--6----------</AM>
-<AM lemma="mnoho-1" src="auto" recommended="1">Ca--7----------</AM>
-<AM lemma="mnoho-1" src="manual" selected="1">Ca--X----------</AM>
+<AM lemma="mnoho-1" src="auto" recommended="1" selected="1">Ca--7----------</AM>
+<AM lemma="mnoho-1" src="manual">Ca--X----------</AM>
 </tag>
 </m>
 <m id="m132-d1t2709-6">

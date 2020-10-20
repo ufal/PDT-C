@@ -1147,7 +1147,11 @@
 <LM>w#w-ln94207-72-p3s4w14</LM>
 </w.rf>
 <form>pár</form>
-<tag lemma="pár" src="orig" selected="1">Cn-S1----------</tag>
+<tag>
+<AM lemma="pár" src="orig">Cn-S1----------</AM>
+<AM lemma="pár" src="manual">Ca--X----------</AM>
+<AM lemma="pár-1" src="manual" selected="1">Ca--X----------</AM>
+</tag>
 </m>
 <m id="m-ln94207-72-p3s4w15">
 <src.rf>manual</src.rf>

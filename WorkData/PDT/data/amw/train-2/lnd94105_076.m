@@ -1790,7 +1790,8 @@
 <AM lemma="Pro_;m_,t" src="orig">RR--X----------</AM>
 <AM lemma="pro-1" src="auto" recommended="1">RR--4----------</AM>
 <AM lemma="pro-7_^(předpona,_sam.)" src="auto">A2--------A----</AM>
-<AM lemma="Pro_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Pro_;m" src="manual">NNXXX-----A----</AM>
+<AM lemma="Pro-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94105-076-p1s13w3">
@@ -1799,7 +1800,10 @@
 <LM>w#w-lnd94105-076-p1s13w3</LM>
 </w.rf>
 <form>Market</form>
-<tag lemma="market-1" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="market-1" src="orig">NNIS1-----A----</AM>
+<AM lemma="Market-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94105-076-p1s13w4">
 <src.rf>manual</src.rf>

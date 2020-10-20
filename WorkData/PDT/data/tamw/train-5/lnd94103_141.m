@@ -754,7 +754,8 @@
 <AM lemma="pár-1" src="auto">ClXP7----------</AM>
 <AM lemma="pár-2" src="auto">NNIS1-----A----</AM>
 <AM lemma="pár-2" src="auto">NNIS4-----A----</AM>
-<AM lemma="pár-1" src="manual" selected="1">ClXS1----------</AM>
+<AM lemma="pár-1" src="manual">ClXS1----------</AM>
+<AM lemma="pár-1" src="manual" selected="1">Ca--X----------</AM>
 </tag>
 </m>
 <m id="m-lnd94103-141-p1s4w13">

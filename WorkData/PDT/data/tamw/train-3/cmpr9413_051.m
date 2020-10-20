@@ -3881,7 +3881,10 @@
 <LM>w#w-cmpr9413-051-p17s5w7</LM>
 </w.rf>
 <form>polovic</form>
-<tag lemma="polovic" src="orig" selected="1">Cn-XX----------</tag>
+<tag>
+<AM lemma="polovic" src="orig">Cn-XX----------</AM>
+<AM lemma="polovice" src="manual" selected="1">NNFS4---------1</AM>
+</tag>
 </m>
 <m id="m-cmpr9413-051-p17s5w8">
 <src.rf>manual</src.rf>

@@ -1355,7 +1355,8 @@
 <form>Saint</form>
 <tag>
 <AM lemma="Saint_;Y_,t_^(v_cizích_názvech)" src="orig">AAXXX----1A----</AM>
-<AM lemma="Saint_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Saint_;Y" src="manual">NNMXX-----A----</AM>
+<AM lemma="Saint_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-063-p4s2w8">

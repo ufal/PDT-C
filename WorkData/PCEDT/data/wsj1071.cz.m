@@ -1877,7 +1877,8 @@
 <form>Ryder</form>
 <tag>
 <AM lemma="Ryder_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Ryder_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Ryder_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Ryder-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1071-001-p1s5W4-Ta">
@@ -2313,7 +2314,8 @@
 <form>Ryder</form>
 <tag>
 <AM lemma="Ryder_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Ryder_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Ryder_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Ryder-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1071-001-p1s6W12-Ta">
@@ -2409,6 +2411,7 @@
 <w.rf>
 <LM>w#w-wsj1071-001-p1s6W20</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>podnikání</form>
 <tag>
 <AM lemma="podnikání_^(*3at)" src="auto">NNNP1-----A----</AM>
@@ -2420,8 +2423,9 @@
 <AM lemma="podnikání_^(*3at)" src="auto">NNNS3-----A----</AM>
 <AM lemma="podnikání_^(*3at)" src="auto">NNNS4-----A----</AM>
 <AM lemma="podnikání_^(*3at)" src="auto">NNNS5-----A----</AM>
-<AM lemma="podnikání_^(*3at)" src="auto">NNNS6-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="podnikání_^(*3at)" src="auto">NNNS6-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj1071-001-p1s6W21-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -3081,7 +3085,8 @@
 <form>Ryder</form>
 <tag>
 <AM lemma="Ryder_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Ryder_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Ryder_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Ryder-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1071-001-p1s9W12-Ta">

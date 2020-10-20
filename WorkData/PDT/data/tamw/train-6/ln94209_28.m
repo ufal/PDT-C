@@ -2098,7 +2098,10 @@
 <LM>w#w-ln94209-28-p3s11w9</LM>
 </w.rf>
 <form>místo</form>
-<tag lemma="místo-3" src="auto" selected="1">J,-------------</tag>
+<tag>
+<AM lemma="místo-3" src="auto">J,-------------</AM>
+<AM lemma="místo-3" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94209-28-p3s11w10">
 <src.rf>manual</src.rf>

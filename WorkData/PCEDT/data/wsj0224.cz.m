@@ -1308,10 +1308,10 @@
 </w.rf>
 <form>Ridleyho</form>
 <tag>
-<AM lemma="Ridley_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Ridley_;Y" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
 <AM lemma="Ridley_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="Ridleyův_;Y_^(*2)" src="manual">AUNS1M---------</AM>
-<AM lemma="Ridleyho_;Y_^(*2)" src="manual" selected="1">AUNS1M---------</AM>
+<AM lemma="Ridleyho_;Y_^(*2)" src="manual">AUNS1M---------</AM>
 </tag>
 </m>
 <m id="m-wsj0224-001-p1s4W2-Ta">
@@ -7994,10 +7994,10 @@
 </w.rf>
 <form>Ridleyho</form>
 <tag>
-<AM lemma="Ridley_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Ridley_;Y" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
 <AM lemma="Ridley_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="Ridleyův_;Y_^(*2)" src="manual">AUNS2M---------</AM>
-<AM lemma="Ridleyho_;Y_^(*2)" src="manual" selected="1">AUNS2M---------</AM>
+<AM lemma="Ridleyho_;Y_^(*2)" src="manual">AUNS2M---------</AM>
 </tag>
 </m>
 <m id="m-wsj0224-001-p1s27W18-Ta">
@@ -11718,9 +11718,9 @@
 </w.rf>
 <form>Ridleyho</form>
 <tag>
-<AM lemma="Ridley_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Ridley_;Y" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
 <AM lemma="Ridley_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Ridleyho_;Y_^(*2)" src="manual" selected="1">AUNS2M---------</AM>
+<AM lemma="Ridleyho_;Y_^(*2)" src="manual">AUNS2M---------</AM>
 </tag>
 </m>
 <m id="m-wsj0224-001-p1s37W6-Ta">
@@ -12034,9 +12034,9 @@
 </w.rf>
 <form>Ridleyho</form>
 <tag>
-<AM lemma="Ridley_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Ridley_;Y" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
 <AM lemma="Ridley_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Ridleyho_;Y_^(*2)" src="manual" selected="1">AUNS1M---------</AM>
+<AM lemma="Ridleyho_;Y_^(*2)" src="manual">AUNS1M---------</AM>
 </tag>
 </m>
 <m id="m-wsj0224-001-p1s39W2-Ta">

@@ -1413,7 +1413,8 @@
 <AM lemma="OK-88" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="Oka_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="oko-1" src="auto">NNNP2-----A----</AM>
-<AM lemma="ok" src="manual" selected="1">Db-------------</AM>
+<AM lemma="ok" src="manual">Db-------------</AM>
+<AM lemma="ok-1" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m035-d-m-d1e2147-x2-punct-punct">

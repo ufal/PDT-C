@@ -1444,7 +1444,10 @@
 <LM>w#w-mf920901-102-p4s5w1</LM>
 </w.rf>
 <form>Místo</form>
-<tag lemma="místo-3" src="auto" selected="1">J,-------------</tag>
+<tag>
+<AM lemma="místo-3" src="auto">J,-------------</AM>
+<AM lemma="místo-3" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf920901-102-p4s5w2">
 <src.rf>manual</src.rf>

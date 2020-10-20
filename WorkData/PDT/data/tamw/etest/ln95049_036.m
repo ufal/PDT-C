@@ -920,7 +920,10 @@
 <LM>w#w-ln95049-036-p3s1w37</LM>
 </w.rf>
 <form>Open</form>
-<tag lemma="Open-1_^(v_názvu_např._sport._soutěží,_&quot;otevřený&quot;)" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Open-1_^(v_názvu_např._sport._soutěží,_&quot;otevřený&quot;)" src="orig">AAXXX----1A----</AM>
+<AM lemma="Open-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-036-p3s1w38">
 <src.rf>manual</src.rf>

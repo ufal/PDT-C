@@ -966,7 +966,8 @@
 <tag>
 <AM lemma="Přemysl_;Y" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="Přemysl_;Y" src="auto">NNMP5-----A----</AM>
-<AM lemma="Přemyslův_;Y_^(*2)" src="manual" selected="1">AUFS2M--------6</AM>
+<AM lemma="Přemyslův_;Y_^(*2)" src="manual">AUFS2M--------6</AM>
+<AM lemma="přemyslový" src="manual" selected="1">AAFS2----1A----</AM>
 </tag>
 </m>
 <m id="m142-d1t276-7">
@@ -2699,7 +2700,8 @@
 <tag>
 <AM lemma="Přemysl_;Y" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="Přemysl_;Y" src="auto">NNMP5-----A----</AM>
-<AM lemma="Přemyslův_;Y_^(*2)" src="manual" selected="1">AUFS2M--------6</AM>
+<AM lemma="Přemyslův_;Y_^(*2)" src="manual">AUFS2M--------6</AM>
+<AM lemma="přemyslový" src="manual" selected="1">AAFS2----1A----</AM>
 </tag>
 </m>
 <m id="m142-d1t298-8">

@@ -342,7 +342,8 @@
 <form>Vyšné</form>
 <tag>
 <AM lemma="Vyšný_;G" src="orig">AANS4----1A----</AM>
-<AM lemma="Vyšné-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Vyšné-77" src="manual">F%-------------</AM>
+<AM lemma="vyšný" src="manual" selected="1">AANS1----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-173-p2s1w33">
@@ -366,7 +367,8 @@
 <AM lemma="mecký" src="auto">AANS1----1N----</AM>
 <AM lemma="mecký" src="auto">AANS4----1N----</AM>
 <AM lemma="mecký" src="auto">AANS5----1N----</AM>
-<AM lemma="Nemecké-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Nemecké-77" src="manual">F%-------------</AM>
+<AM lemma="Nemecké_;G" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-173-p2s1w34">

@@ -941,7 +941,8 @@
 <form>Santos</form>
 <tag>
 <AM lemma="Santos_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Santos_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Santos_;Y" src="manual">NNMXX-----A----</AM>
+<AM lemma="Santos-1_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-030-p2s2w22">

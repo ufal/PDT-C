@@ -1227,8 +1227,9 @@
 <form>Sme</form>
 <tag>
 <AM lemma="Sme_;m_,t_^(noviny)" src="orig">NNXXX-----A----</AM>
-<AM lemma="Sme_;m" src="auto" recommended="1" selected="1">NNNXX-----A----</AM>
+<AM lemma="Sme_;m" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="být" src="auto">VB-P---1P-AAI-6</AM>
+<AM lemma="Sme_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-052-p4s1w4">
@@ -1917,7 +1918,8 @@
 <AM lemma="Sme_;m_,t_^(noviny)" src="orig">NNXXX-----A----</AM>
 <AM lemma="Sme_;m_,t" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="být" src="auto">VB-P---1P-AAI-6</AM>
-<AM lemma="Sme_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Sme_;m" src="manual">NNNXX-----A----</AM>
+<AM lemma="Sme_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-052-p5s1w6">
@@ -2456,7 +2458,8 @@
 <AM lemma="Sme_;m_,t_^(noviny)" src="orig">NNXXX-----A----</AM>
 <AM lemma="Sme_;m_,t" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="být" src="auto">VB-P---1P-AAI-6</AM>
-<AM lemma="Sme_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Sme_;m" src="manual">NNNXX-----A----</AM>
+<AM lemma="Sme_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-052-p5s3w35">

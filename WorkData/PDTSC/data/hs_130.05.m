@@ -3079,10 +3079,11 @@
 <AM lemma="pár-1" src="auto">ClXP3----------</AM>
 <AM lemma="pár-1" src="auto">ClXP6----------</AM>
 <AM lemma="pár-1" src="auto">ClXP7----------</AM>
-<AM lemma="pár-1" src="auto" selected="1">ClXS1----------</AM>
+<AM lemma="pár-1" src="auto">ClXS1----------</AM>
 <AM lemma="pár-1" src="auto">ClXS4----------</AM>
 <AM lemma="pár-2" src="auto">NNIS1-----A----</AM>
 <AM lemma="pár-2" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="pár-1" src="manual" selected="1">Ca--X----------</AM>
 </tag>
 </m>
 <m id="m130-d1t787-6">

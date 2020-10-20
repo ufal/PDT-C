@@ -522,7 +522,8 @@
 <form>Petra</form>
 <tag>
 <AM lemma="Petr_;Y" src="orig">NNMS2-----A----</AM>
-<AM lemma="Peter_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Peter_;Y" src="manual">NNMS2-----A----</AM>
+<AM lemma="Peter_;Y" src="manual" selected="1">NNMS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln95044-070-p3s1w4">
@@ -2537,7 +2538,8 @@
 <form>Petra</form>
 <tag>
 <AM lemma="Petr_;Y" src="orig">NNMS2-----A----</AM>
-<AM lemma="Peter_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Peter_;Y" src="manual">NNMS2-----A----</AM>
+<AM lemma="Peter_;Y" src="manual" selected="1">NNMS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln95044-070-p5s2w9">

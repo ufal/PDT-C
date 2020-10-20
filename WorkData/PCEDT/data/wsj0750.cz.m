@@ -794,7 +794,8 @@
 <AM lemma="song" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="song" src="auto">NNIS4-----A----</AM>
 <AM lemma="song-77" src="auto">F%-------------</AM>
-<AM lemma="SONG-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="SONG-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Song_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0750-001-p1s3W23-Ta">
@@ -1677,7 +1678,8 @@
 <AM lemma="song" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="song" src="auto">NNIS4-----A----</AM>
 <AM lemma="song-77" src="auto">F%-------------</AM>
-<AM lemma="SONG-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="SONG-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Song_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0750-001-p1s5W48-Ta">
@@ -2452,7 +2454,8 @@
 <AM lemma="song" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="song" src="auto">NNIS4-----A----</AM>
 <AM lemma="song-77" src="auto">F%-------------</AM>
-<AM lemma="SONG-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="SONG-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Song_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0750-001-p1s9W5-Ta">

@@ -46,8 +46,8 @@
 </w.rf>
 <form>Silverstone</form>
 <tag>
-<AM lemma="Silverstone_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Silverstone_;G" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="Silverstone_;G" src="auto" selected="1">NNNXX-----A----</AM>
+<AM lemma="Silverstone_;G" src="manual">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-024-p2s1Aw2">
@@ -987,8 +987,8 @@
 </w.rf>
 <form>Silverstone</form>
 <tag>
-<AM lemma="Silverstone_;G" src="auto">NNNXX-----A----</AM>
-<AM lemma="Silverstone_;G" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="Silverstone_;G" src="auto" selected="1">NNNXX-----A----</AM>
+<AM lemma="Silverstone_;G" src="manual">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-024-p2s5Aw6">

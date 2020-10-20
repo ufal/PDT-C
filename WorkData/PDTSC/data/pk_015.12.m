@@ -2836,9 +2836,9 @@
 </w.rf>
 <form>originál</form>
 <tag>
-<AM lemma="originál" src="auto">NNIS1-----A----</AM>
+<AM lemma="originál" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="originál" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="originál_^(originál_kroje)" src="manual" selected="1">AAXXX----1A----</AM>
+<AM lemma="originál_^(originál_kroje)" src="manual">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m015-592-640">

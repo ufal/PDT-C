@@ -971,8 +971,8 @@
 </w.rf>
 <form>mnoho</form>
 <tag>
-<AM lemma="mnoho-1" src="orig">Ca--1----------</AM>
-<AM lemma="mnoho-1" src="manual" selected="1">Ca--X----------</AM>
+<AM lemma="mnoho-1" src="orig" selected="1">Ca--1----------</AM>
+<AM lemma="mnoho-1" src="manual">Ca--X----------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-080-p4s1w19">

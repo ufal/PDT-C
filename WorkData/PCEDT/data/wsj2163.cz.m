@@ -2934,7 +2934,8 @@
 <AM lemma="Paka_;G" src="auto">NNFS6-----A----</AM>
 <AM lemma="pac-3_^(stará_drobná_mince)" src="auto">NNIS5-----A----</AM>
 <AM lemma="pace-77" src="auto" recommended="1">F%-------------</AM>
-<AM lemma="Pace_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Pace_;m" src="manual">NNFS1-----A----</AM>
+<AM lemma="Pace_;Y_;m" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2163-001-p1s8W5-Ta">
@@ -3347,7 +3348,8 @@
 <AM lemma="Paka_;G" src="auto">NNFS6-----A----</AM>
 <AM lemma="pac-3_^(stará_drobná_mince)" src="auto">NNIS5-----A----</AM>
 <AM lemma="pace-77" src="auto" recommended="1">F%-------------</AM>
-<AM lemma="Pace_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Pace_;m" src="manual">NNFS1-----A----</AM>
+<AM lemma="Pace_;Y_;m" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2163-001-p1s10W10-Ta">
@@ -4026,7 +4028,8 @@
 <AM lemma="Paka_;G" src="auto">NNFS6-----A----</AM>
 <AM lemma="pac-3_^(stará_drobná_mince)" src="auto">NNIS5-----A----</AM>
 <AM lemma="pace-77" src="auto" recommended="1">F%-------------</AM>
-<AM lemma="Pace_;m" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Pace_;m" src="manual">NNFXX-----A----</AM>
+<AM lemma="Pace_;Y_;m" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2163-001-p1s11W27-Ta">
@@ -4444,7 +4447,8 @@
 <AM lemma="Paka_;G" src="auto">NNFS6-----A----</AM>
 <AM lemma="pac-3_^(stará_drobná_mince)" src="auto">NNIS5-----A----</AM>
 <AM lemma="pace-77" src="auto" recommended="1">F%-------------</AM>
-<AM lemma="Pace_;m" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Pace_;m" src="manual">NNFXX-----A----</AM>
+<AM lemma="Pace_;Y_;m" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2163-001-p1s13W15-Ta">
@@ -6974,7 +6978,8 @@
 <AM lemma="Paka_;G" src="auto">NNFS6-----A----</AM>
 <AM lemma="pac-3_^(stará_drobná_mince)" src="auto">NNIS5-----A----</AM>
 <AM lemma="pace-77" src="auto" recommended="1">F%-------------</AM>
-<AM lemma="Pace_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Pace_;m" src="manual">NNFS1-----A----</AM>
+<AM lemma="Pace_;Y_;m" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2163-001-p1s24W2-Ta">
@@ -7498,7 +7503,8 @@
 <AM lemma="Paka_;G" src="auto">NNFS6-----A----</AM>
 <AM lemma="pac-3_^(stará_drobná_mince)" src="auto">NNIS5-----A----</AM>
 <AM lemma="pace-77" src="auto" recommended="1">F%-------------</AM>
-<AM lemma="Pace_;m" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Pace_;m" src="manual">NNFXX-----A----</AM>
+<AM lemma="Pace_;Y_;m" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2163-001-p1s26W15-Ta">
@@ -7606,7 +7612,8 @@
 <AM lemma="Paka_;G" src="auto">NNFS6-----A----</AM>
 <AM lemma="pac-3_^(stará_drobná_mince)" src="auto">NNIS5-----A----</AM>
 <AM lemma="pace-77" src="auto" recommended="1">F%-------------</AM>
-<AM lemma="Pace_;m" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Pace_;m" src="manual">NNFXX-----A----</AM>
+<AM lemma="Pace_;Y_;m" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2163-001-p1s27W9-Ta">
@@ -7747,7 +7754,8 @@
 <AM lemma="pac-3_^(stará_drobná_mince)" src="auto">NNIS5-----A----</AM>
 <AM lemma="pace-77" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="Pace_;m" src="manual">NNFXX-----A----</AM>
-<AM lemma="Pace_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Pace_;m" src="manual">NNFS1-----A----</AM>
+<AM lemma="Pace_;Y_;m" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2163-001-p1s28W6-Ta">

@@ -1322,7 +1322,10 @@
 <LM>w#w-ln94202-82-p4s1w1</LM>
 </w.rf>
 <form>Místo</form>
-<tag lemma="místo-3" src="auto" selected="1">J,-------------</tag>
+<tag>
+<AM lemma="místo-3" src="auto">J,-------------</AM>
+<AM lemma="místo-3" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-ln94202-82-p4s1w2">
 <src.rf>manual</src.rf>

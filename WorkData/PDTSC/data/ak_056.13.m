@@ -2158,7 +2158,8 @@
 <AM lemma="první" src="auto">CrMS2----------</AM>
 <AM lemma="první" src="auto">CrMS4----------</AM>
 <AM lemma="první" src="auto">CrNS2----------</AM>
-<AM lemma="první" src="manual" selected="1">CrIS4----------</AM>
+<AM lemma="první" src="manual">CrIS4----------</AM>
+<AM lemma="první-1" src="manual" selected="1">CrIS2----------</AM>
 </tag>
 </m>
 <m id="m056-d1t3732-9">
@@ -3302,5 +3303,5 @@
 <tag lemma="?" src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m056-721"/>
+<s id="m056-721"></s>
 </mdata>

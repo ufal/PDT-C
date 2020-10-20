@@ -356,7 +356,10 @@
 <LM>w#w-mf920923-059-p2s2w19</LM>
 </w.rf>
 <form>místo</form>
-<tag lemma="místo-3" src="auto" selected="1">J,-------------</tag>
+<tag>
+<AM lemma="místo-3" src="auto">J,-------------</AM>
+<AM lemma="místo-3" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-mf920923-059-p2s2w20">
 <src.rf>manual</src.rf>

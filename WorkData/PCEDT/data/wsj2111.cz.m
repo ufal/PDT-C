@@ -5475,7 +5475,8 @@
 <AM lemma="piko-1_,h_^(pervitin)" src="auto">NNNS5-----A----</AM>
 <AM lemma="piko" src="auto">A2--------A----</AM>
 <AM lemma="piko-2_,h" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="piko-3" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="piko-3" src="manual">NNIS1-----A----</AM>
+<AM lemma="piko-1" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2111-001-p1s21W11-Ta">
@@ -5555,7 +5556,8 @@
 <AM lemma="piko-1_,h_^(pervitin)" src="auto">NNNS5-----A----</AM>
 <AM lemma="piko" src="auto">A2--------A----</AM>
 <AM lemma="piko-2_,h" src="auto">AAXXX----1A----</AM>
-<AM lemma="piko-3" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="piko-3" src="manual">NNIS1-----A----</AM>
+<AM lemma="piko-1" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2111-001-p1s22W7-Ta">
@@ -5708,7 +5710,8 @@
 <AM lemma="piko-1_,h_^(pervitin)" src="auto">NNNS5-----A----</AM>
 <AM lemma="piko" src="auto">A2--------A----</AM>
 <AM lemma="piko-2_,h" src="auto">AAXXX----1A----</AM>
-<AM lemma="piko-3" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="piko-3" src="manual">NNIXX-----A----</AM>
+<AM lemma="piko-1" src="manual" selected="1">NNNS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2111-001-p1s24W7-Ta">
@@ -6869,7 +6872,8 @@
 <AM lemma="piko-1_,h_^(pervitin)" src="auto">NNNS5-----A----</AM>
 <AM lemma="piko" src="auto">A2--------A----</AM>
 <AM lemma="piko-2_,h" src="auto">AAXXX----1A----</AM>
-<AM lemma="piko-3" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="piko-3" src="manual">NNIXX-----A----</AM>
+<AM lemma="piko-1" src="manual" selected="1">NNNS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2111-001-p1s29W21-Ta">

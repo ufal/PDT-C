@@ -8698,7 +8698,10 @@
 <LM>w#w-lnd92254-104-p8s3w35</LM>
 </w.rf>
 <form>Nebojsa</form>
-<tag lemma="nebojsa" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="nebojsa" src="orig">NNMS1-----A----</AM>
+<AM lemma="Nebojsa_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92254-104-p8s3w36">
 <src.rf>manual</src.rf>

@@ -734,7 +734,8 @@
 <AM lemma="Skopje_;G" src="auto">NNFS1-----A----</AM>
 <AM lemma="Skopje_;G" src="auto">NNFS2-----A----</AM>
 <AM lemma="Skopje_;G" src="auto">NNFS5-----A----</AM>
-<AM lemma="Skopje_;G" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Skopje_;G" src="manual">NNXXX-----A----</AM>
+<AM lemma="Skopje_;G" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-074-p5s1w18">
@@ -1080,7 +1081,8 @@
 <AM lemma="Skopje_;G" src="auto">NNFS1-----A----</AM>
 <AM lemma="Skopje_;G" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="Skopje_;G" src="auto">NNFS5-----A----</AM>
-<AM lemma="Skopje_;G" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Skopje_;G" src="manual">NNXXX-----A----</AM>
+<AM lemma="Skopje_;G" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-074-p5s4w7">

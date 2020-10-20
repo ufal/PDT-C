@@ -213,6 +213,7 @@
 <tag>
 <AM lemma="opušťák" src="auto" recommended="1">NNMP4-----A----</AM>
 <AM lemma="opušťák" src="auto">NNMP7-----A----</AM>
+<AM lemma="opušťák" src="manual" selected="1">NNIP4-----A----</AM>
 </tag>
 </m>
 <m id="m136-83-83">
