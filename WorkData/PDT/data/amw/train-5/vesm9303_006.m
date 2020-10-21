@@ -159,7 +159,8 @@
 <form>ÚSES</form>
 <tag>
 <AM lemma="ÚSES-1_:B_^(Územní_systém_ekologické_stability)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ÚSES-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ÚSES-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="ÚSES-1_;m_^(Územní_systém_ekologické_stability)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-006-p1s2w17">
@@ -664,7 +665,8 @@
 <form>ÚSES</form>
 <tag>
 <AM lemma="ÚSES-1_:B_^(Územní_systém_ekologické_stability)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ÚSES-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ÚSES-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="ÚSES-1_;m_^(Územní_systém_ekologické_stability)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-006-p2s2w5">
@@ -1157,7 +1159,8 @@
 <form>ÚSES</form>
 <tag>
 <AM lemma="ÚSES-1_:B_^(Územní_systém_ekologické_stability)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ÚSES-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ÚSES-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="ÚSES-1_;m_^(Územní_systém_ekologické_stability)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-006-p2s5w6">
@@ -1563,7 +1566,8 @@
 <form>ÚSES</form>
 <tag>
 <AM lemma="ÚSES-1_:B_^(Územní_systém_ekologické_stability)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ÚSES-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ÚSES-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="ÚSES-1_;m_^(Územní_systém_ekologické_stability)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-006-p3s2w5">
@@ -3189,7 +3193,8 @@
 <form>ÚSES</form>
 <tag>
 <AM lemma="ÚSES-1_:B_^(Územní_systém_ekologické_stability)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ÚSES-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ÚSES-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="ÚSES-1_;m_^(Územní_systém_ekologické_stability)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-006-p5s5w5">

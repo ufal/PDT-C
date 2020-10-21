@@ -996,7 +996,8 @@
 <AM lemma="Valley_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Valley_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Valley_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Valley_;G_^(např.Silicon_Valley)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Valley_;G_^(např.Silicon_Valley)" src="manual">NNNXX-----A----</AM>
+<AM lemma="Valley-2_;G" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1829-001-p1s2W21-Ta">
@@ -3480,7 +3481,8 @@
 <AM lemma="Valley_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Valley_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Valley_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Valley_;G_^(např.Silicon_Valley)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Valley_;G_^(např.Silicon_Valley)" src="manual">NNNXX-----A----</AM>
+<AM lemma="Valley-2_;G" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1829-001-p1s10W15-Ta">
@@ -4118,7 +4120,8 @@
 <AM lemma="Valley_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Valley_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Valley_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Valley_;G_^(např.Silicon_Valley)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Valley_;G_^(např.Silicon_Valley)" src="manual">NNNXX-----A----</AM>
+<AM lemma="Valley-2_;G" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1829-001-p1s12W20-Ta">
@@ -8269,7 +8272,8 @@
 <AM lemma="Valley_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Valley_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Valley_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Valley_;G_^(např.Silicon_Valley)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Valley_;G_^(např.Silicon_Valley)" src="manual">NNNXX-----A----</AM>
+<AM lemma="Valley-2_;G" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1829-001-p1s26W9-Ta">
@@ -9065,7 +9069,8 @@
 <AM lemma="Valley_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Valley_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Valley_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Valley_;G_^(např.Silicon_Valley)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Valley_;G_^(např.Silicon_Valley)" src="manual">NNNXX-----A----</AM>
+<AM lemma="Valley-2_;G" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1829-001-p1s27W38-Ta">
@@ -10526,7 +10531,8 @@
 <AM lemma="Valley_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Valley_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Valley_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Valley_;G_^(např.Silicon_Valley)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Valley_;G_^(např.Silicon_Valley)" src="manual">NNNXX-----A----</AM>
+<AM lemma="Valley-2_;G" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1829-001-p1s34W10-Ta">

@@ -3609,7 +3609,10 @@
 <LM>w#w-mf930703-118-p6s3w46</LM>
 </w.rf>
 <form>TRIP</form>
-<tag lemma="trip" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="trip" src="auto">NNIS1-----A----</AM>
+<AM lemma="Trip_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-118-p6s3w47">
 <src.rf>manual</src.rf>

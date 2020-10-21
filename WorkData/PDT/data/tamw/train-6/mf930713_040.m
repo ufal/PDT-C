@@ -990,7 +990,10 @@
 <LM>w#w-mf930713-040-p25s1w2</LM>
 </w.rf>
 <form>Večerníček</form>
-<tag lemma="večerníček" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="večerníček" src="orig">NNMS1-----A----</AM>
+<AM lemma="večerníček" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf930713-040-p26s1">
@@ -1999,7 +2002,10 @@
 <LM>w#w-mf930713-040-p52s1w2</LM>
 </w.rf>
 <form>Večerníček</form>
-<tag lemma="večerníček" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="večerníček" src="orig">NNMS1-----A----</AM>
+<AM lemma="večerníček" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf930713-040-p53s1">
@@ -3252,7 +3258,10 @@
 <LM>w#w-mf930713-040-p90s1w2</LM>
 </w.rf>
 <form>TRIP</form>
-<tag lemma="trip" src="auto" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="trip" src="auto">NNIS1-----A----</AM>
+<AM lemma="Trip_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf930713-040-p91s1">

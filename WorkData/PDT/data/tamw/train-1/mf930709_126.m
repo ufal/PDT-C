@@ -1110,7 +1110,10 @@
 <LM>w#w-mf930709-126-p25s1w2</LM>
 </w.rf>
 <form>Večerníček</form>
-<tag lemma="večerníček" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="večerníček" src="orig">NNMS1-----A----</AM>
+<AM lemma="večerníček" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf930709-126-p26s1">
@@ -2450,7 +2453,10 @@
 <LM>w#w-mf930709-126-p57s1w2</LM>
 </w.rf>
 <form>Večerníček</form>
-<tag lemma="večerníček" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="večerníček" src="orig">NNMS1-----A----</AM>
+<AM lemma="večerníček" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf930709-126-p58s1">

@@ -20567,7 +20567,8 @@
 <form>ÚSES</form>
 <tag>
 <AM lemma="ÚSES-1_:B_^(Územní_systém_ekologické_stability)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="ÚSES-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ÚSES-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="ÚSES_;m_^(Územní_systém_ekologické_stability)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-046-p113s1w3">

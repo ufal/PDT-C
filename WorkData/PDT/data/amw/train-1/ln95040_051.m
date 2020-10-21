@@ -358,7 +358,9 @@
 <tag>
 <AM lemma="ÚLUV_:B_;m" src="orig">NNXXX-----A---8</AM>
 <AM lemma="ÚLUV_:B_;m_^(Ústředí_lidové_umělecké_výroby)" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="ÚLUV-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ÚLUV-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="ÚLUV_;m_^(Ústředí_lidové_umělecké_výroby)" src="manual">BNXXX-----A----</AM>
+<AM lemma="ÚLUV-1_;m_^(Ústředí_lidové_umělecké_výroby)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-051-p2s2w14">

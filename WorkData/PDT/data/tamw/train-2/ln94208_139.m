@@ -27,7 +27,10 @@
 <LM>w#w-ln94208-139-p1s1Aw2</LM>
 </w.rf>
 <form>nevidomých</form>
-<tag lemma="vidomý_,a" src="orig" selected="1">AAMP2----1N----</tag>
+<tag>
+<AM lemma="vidomý_,a" src="orig">AAMP2----1N----</AM>
+<AM lemma="nevidomý-1" src="manual" selected="1">AAMP2----1A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-139-p1s1Aw3">
 <src.rf>manual</src.rf>

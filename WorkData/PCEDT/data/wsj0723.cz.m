@@ -638,7 +638,8 @@
 <tag>
 <AM lemma="Unika_;Y" src="auto" recommended="1">NNFS3-----A----</AM>
 <AM lemma="Unika_;Y" src="auto">NNFS6-----A----</AM>
-<AM lemma="Unice-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Unice-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Unice_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0723-001-p1s1W29-Ta">
@@ -671,7 +672,8 @@
 <tag>
 <AM lemma="Unika_;Y" src="auto" recommended="1">NNFS3-----A----</AM>
 <AM lemma="Unika_;Y" src="auto">NNFS6-----A----</AM>
-<AM lemma="Unice-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Unice-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Unice_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0723-001-p1s2W3-Ta">
@@ -1542,7 +1544,8 @@
 <tag>
 <AM lemma="Unika_;Y" src="auto" recommended="1">NNFS3-----A----</AM>
 <AM lemma="Unika_;Y" src="auto">NNFS6-----A----</AM>
-<AM lemma="Unice-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Unice-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Unice_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0723-001-p1s5W6-Ta">
@@ -3991,7 +3994,8 @@
 <tag>
 <AM lemma="Unika_;Y" src="auto" recommended="1">NNFS3-----A----</AM>
 <AM lemma="Unika_;Y" src="auto">NNFS6-----A----</AM>
-<AM lemma="Unice-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Unice-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Unice_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0723-001-p1s14W4-Ta">
@@ -5059,7 +5063,8 @@
 <tag>
 <AM lemma="Unika_;Y" src="auto" recommended="1">NNFS3-----A----</AM>
 <AM lemma="Unika_;Y" src="auto">NNFS6-----A----</AM>
-<AM lemma="Unice-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Unice-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Unice_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0723-001-p1s17W10-Ta">

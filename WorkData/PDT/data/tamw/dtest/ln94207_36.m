@@ -7194,7 +7194,10 @@
 <LM>w#w-ln94207-36-p19s1w4</LM>
 </w.rf>
 <form>nevidomý</form>
-<tag lemma="vidomý_,a" src="orig" selected="1">AAMS1----1N----</tag>
+<tag>
+<AM lemma="vidomý_,a" src="orig">AAMS1----1N----</AM>
+<AM lemma="nevidomý-1" src="manual" selected="1">AAMS1----1A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-36-p19s1w5">
 <src.rf>manual</src.rf>
@@ -7736,7 +7739,10 @@
 <LM>w#w-ln94207-36-p20s4w5</LM>
 </w.rf>
 <form>nevidomý</form>
-<tag lemma="vidomý_,a" src="orig" selected="1">AAMS1----1N----</tag>
+<tag>
+<AM lemma="vidomý_,a" src="orig">AAMS1----1N----</AM>
+<AM lemma="nevidomý-1" src="manual" selected="1">AAMS1----1A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-36-p20s4w6">
 <src.rf>manual</src.rf>
@@ -8193,7 +8199,10 @@
 <LM>w#w-ln94207-36-p21s1w7</LM>
 </w.rf>
 <form>nevidomý</form>
-<tag lemma="vidomý_,a" src="orig" selected="1">AAMS1----1N----</tag>
+<tag>
+<AM lemma="vidomý_,a" src="orig">AAMS1----1N----</AM>
+<AM lemma="nevidomý-1" src="manual" selected="1">AAMS1----1A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-36-p21s1w8">
 <src.rf>manual</src.rf>

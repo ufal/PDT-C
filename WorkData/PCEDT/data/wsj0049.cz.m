@@ -16134,12 +16134,12 @@
 <form>X</form>
 <tag>
 <AM lemma="X-3`10" src="auto">C}-------------</AM>
-<AM lemma="X-33" src="auto" recommended="1">Q3-------------</AM>
+<AM lemma="X-33" src="auto" recommended="1" selected="1">Q3-------------</AM>
 <AM lemma="X-33" src="auto">Q3-------------</AM>
 <AM lemma="x-5_^(náhr._symbolu_krát,_mat._symbol)" src="auto">J*-------------</AM>
 <AM lemma="X-33" src="auto">Q3-------------</AM>
 <AM lemma="x-88" src="auto">BNXXX-----A----</AM>
-<AM lemma="X-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="X-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0049-001-p1s55W17-Ta">
@@ -16745,12 +16745,12 @@
 <form>X</form>
 <tag>
 <AM lemma="X-3`10" src="auto">C}-------------</AM>
-<AM lemma="X-33" src="auto" recommended="1">Q3-------------</AM>
+<AM lemma="X-33" src="auto" recommended="1" selected="1">Q3-------------</AM>
 <AM lemma="X-33" src="auto">Q3-------------</AM>
 <AM lemma="x-5_^(náhr._symbolu_krát,_mat._symbol)" src="auto">J*-------------</AM>
 <AM lemma="X-33" src="auto">Q3-------------</AM>
 <AM lemma="x-88" src="auto">BNXXX-----A----</AM>
-<AM lemma="X-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="X-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0049-001-p1s57W15-Ta">

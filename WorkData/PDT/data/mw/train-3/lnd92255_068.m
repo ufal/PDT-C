@@ -4380,8 +4380,8 @@
 </w.rf>
 <form>n</form>
 <tag>
-<AM lemma="n-33" src="orig">Q3-------------</AM>
-<AM lemma="n-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="n-33" src="orig" selected="1">Q3-------------</AM>
+<AM lemma="n-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-068-p52s1w5">
@@ -4399,8 +4399,8 @@
 </w.rf>
 <form>v</form>
 <tag>
-<AM lemma="v-33" src="orig">Q3-------------</AM>
-<AM lemma="v-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="v-33" src="orig" selected="1">Q3-------------</AM>
+<AM lemma="v-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-068-p52s1w7">

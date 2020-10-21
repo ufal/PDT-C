@@ -1144,7 +1144,8 @@
 <AM lemma="Žďas_;Y" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Žďas_;Y" src="auto">NNIS4-----A----</AM>
 <AM lemma="ŽĎAS-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="ŽĎAS-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ŽĎAS-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="ŽĎAS_;m_^(Žďárské_strojírny)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-087-p3s3w2">
@@ -2243,7 +2244,8 @@
 <tag>
 <AM lemma="ŽĎAS-1_:B_;m_^(Žďárské_strojírny)" src="orig">NNIS1-----A---8</AM>
 <AM lemma="ŽĎAS-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="ŽĎAS-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ŽĎAS-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="ŽĎAS_;m_^(Žďárské_strojírny)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-087-p4s7w2">

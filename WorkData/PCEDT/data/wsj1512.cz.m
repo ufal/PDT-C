@@ -6885,7 +6885,8 @@
 <tag>
 <AM lemma="won" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="won" src="auto">NNIS4-----A----</AM>
-<AM lemma="Won_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Won_;Y" src="manual">NNMXX-----A----</AM>
+<AM lemma="Won_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1512-001-p1s19W3-Ta">

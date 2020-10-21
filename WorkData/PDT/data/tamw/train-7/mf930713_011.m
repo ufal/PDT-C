@@ -1559,8 +1559,8 @@
 </w.rf>
 <form>v</form>
 <tag>
-<AM lemma="v-1" src="orig">RR--6----------</AM>
-<AM lemma="v-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="v-1" src="orig" selected="1">RR--6----------</AM>
+<AM lemma="v-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930713-011-p2s7w22">

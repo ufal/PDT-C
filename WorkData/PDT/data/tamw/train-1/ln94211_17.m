@@ -62,8 +62,8 @@
 </w.rf>
 <form>Žiar</form>
 <tag>
-<AM lemma="Žiar_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Žiar-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Žiar_;G" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Žiar-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-17-p2s1Aw2">
@@ -82,7 +82,8 @@
 <form>Hronom</form>
 <tag>
 <AM lemma="Hron_;G" src="orig">NNIS7-----A----</AM>
-<AM lemma="Hronom-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Hronom-77" src="manual">F%-------------</AM>
+<AM lemma="Hron-2_;G" src="manual" selected="1">NNIS7-----A---3</AM>
 </tag>
 </m>
 <m id="m-ln94211-17-p2s1Aw4">
@@ -175,7 +176,8 @@
 <form>Žiar</form>
 <tag>
 <AM lemma="Žiar_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Žiar-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Žiar-77" src="manual">F%-------------</AM>
+<AM lemma="Žiar_;G" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-17-p2s1Bw11">
@@ -194,7 +196,8 @@
 <form>Hronom</form>
 <tag>
 <AM lemma="Hron_;G" src="orig">NNIS7-----A----</AM>
-<AM lemma="Hronom-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Hronom-77" src="manual">F%-------------</AM>
+<AM lemma="Hron-2_;G" src="manual" selected="1">NNIS7-----A---3</AM>
 </tag>
 </m>
 <m id="m-ln94211-17-p2s1Bw13">
@@ -971,8 +974,8 @@
 </w.rf>
 <form>Žiaru</form>
 <tag>
-<AM lemma="Žiar_;G" src="orig">NNIS2-----A----</AM>
-<AM lemma="Žiaru-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Žiar_;G" src="orig" selected="1">NNIS2-----A----</AM>
+<AM lemma="Žiaru-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-17-p4s2w11">
@@ -991,7 +994,9 @@
 <form>Hronom</form>
 <tag>
 <AM lemma="Hron_;G" src="orig">NNIS7-----A----</AM>
-<AM lemma="Hronom-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Hronom-77" src="manual">F%-------------</AM>
+<AM lemma="Hron_;G" src="manual">NNIS7-----A---1</AM>
+<AM lemma="Hron-2_;G" src="manual" selected="1">NNIS7-----A---3</AM>
 </tag>
 </m>
 <m id="m-ln94211-17-p4s2w13">
@@ -1280,8 +1285,8 @@
 </w.rf>
 <form>Žiaru</form>
 <tag>
-<AM lemma="Žiar_;G" src="orig">NNIS6-----A----</AM>
-<AM lemma="Žiaru-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Žiar_;G" src="orig" selected="1">NNIS6-----A----</AM>
+<AM lemma="Žiaru-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94211-17-p5s1w11">
@@ -1300,7 +1305,9 @@
 <form>Hronom</form>
 <tag>
 <AM lemma="Hron_;G" src="orig">NNIS7-----A----</AM>
-<AM lemma="Hronom-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Hronom-77" src="manual">F%-------------</AM>
+<AM lemma="Hron_;G" src="manual">NNIS7-----A---1</AM>
+<AM lemma="Hron-2_;G" src="manual" selected="1">NNIS7-----A---3</AM>
 </tag>
 </m>
 <m id="m-ln94211-17-p5s1w13">

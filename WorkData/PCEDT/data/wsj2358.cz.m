@@ -3988,7 +3988,8 @@
 <tag>
 <AM lemma="won" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="won" src="auto">NNIS4-----A----</AM>
-<AM lemma="Won_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Won_;Y" src="manual">NNMXX-----A----</AM>
+<AM lemma="Won_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2358-001-p1s9W4-Ta">
@@ -4110,7 +4111,7 @@
 <form>v</form>
 <tag>
 <AM lemma="v-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="v-1" src="auto">RR--6----------</AM>
+<AM lemma="v-1" src="auto" selected="1">RR--6----------</AM>
 <AM lemma="v-33" src="auto">Q3-------------</AM>
 <AM lemma="v-33" src="auto">Q3-------------</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
@@ -4125,6 +4126,7 @@
 <tag>
 <AM lemma="Minneapolis_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Minneapolis_;G" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="Minneapolis_;G" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2358-001-p1s9W14-Ta">

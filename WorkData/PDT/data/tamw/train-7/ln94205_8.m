@@ -2324,7 +2324,9 @@
 <form>TV</form>
 <tag>
 <AM lemma="televizní_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="Tv-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Tv-77" src="manual">F%-------------</AM>
+<AM lemma="TV-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="TV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-8-p6s3w4">

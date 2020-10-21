@@ -86,12 +86,12 @@
 <AM lemma="X-9_:B_;Y" src="auto">NNFXX-----A---8</AM>
 <AM lemma="X-9_:B_;Y" src="auto">NNMXX-----A---8</AM>
 <AM lemma="X-9_:B_;Y" src="auto">NNXXX-----A---8</AM>
-<AM lemma="X-33" src="auto" recommended="1">Q3-------------</AM>
+<AM lemma="X-33" src="auto" recommended="1" selected="1">Q3-------------</AM>
 <AM lemma="x-4_^(graf._oddělovač)" src="auto">Z:-------------</AM>
 <AM lemma="x-5_^(náhr._symbolu_krát,_mat._symbol)" src="auto">J*-------------</AM>
 <AM lemma="x-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="X-33" src="manual">Q3-------------</AM>
-<AM lemma="X-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="X-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930702-099-p3s1w4">
@@ -1019,12 +1019,12 @@
 <AM lemma="X-9_:B_;Y" src="auto">NNFXX-----A---8</AM>
 <AM lemma="X-9_:B_;Y" src="auto">NNMXX-----A---8</AM>
 <AM lemma="X-9_:B_;Y" src="auto">NNXXX-----A---8</AM>
-<AM lemma="X-33" src="auto" recommended="1">Q3-------------</AM>
+<AM lemma="X-33" src="auto" recommended="1" selected="1">Q3-------------</AM>
 <AM lemma="x-4_^(graf._oddělovač)" src="auto">Z:-------------</AM>
 <AM lemma="x-5_^(náhr._symbolu_krát,_mat._symbol)" src="auto">J*-------------</AM>
 <AM lemma="x-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="X-33" src="manual">Q3-------------</AM>
-<AM lemma="X-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="X-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930702-099-p5s1w37">

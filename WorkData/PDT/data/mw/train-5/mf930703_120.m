@@ -4789,7 +4789,10 @@
 <LM>w#w-mf930703-120-p10s4w51</LM>
 </w.rf>
 <form>Večerníček</form>
-<tag lemma="večerníček" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="večerníček" src="orig">NNMS1-----A----</AM>
+<AM lemma="večerníček" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-120-p10s4w52">
 <src.rf>manual</src.rf>

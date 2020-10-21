@@ -768,7 +768,9 @@
 <form>van</form>
 <tag>
 <AM lemma="van-2_,t_^(v_hol._jménech)" src="auto">RR--X----------</AM>
-<AM lemma="van_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="van_;Y" src="manual">NNXXX-----A----</AM>
+<AM lemma="van" src="manual">SNXXX-----A----</AM>
+<AM lemma="van-2" src="manual" selected="1">SNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-109-p4s2w7">
@@ -917,7 +919,8 @@
 <form>van</form>
 <tag>
 <AM lemma="van-2_,t_^(v_hol._jménech)" src="auto">RR--X----------</AM>
-<AM lemma="van_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="van_;Y" src="manual">NNXXX-----A----</AM>
+<AM lemma="van-2" src="manual" selected="1">SNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-109-p4s3w6">

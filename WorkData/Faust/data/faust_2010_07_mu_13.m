@@ -1910,7 +1910,8 @@
 <tag>
 <AM lemma="y-33" recommended="1">Q3-------------</AM>
 <AM lemma="y-8_:B_^(ost._zkratka)">XX------------8</AM>
-<AM lemma="y-2_^(položka/y)" src="manual" selected="1">SNXXX-----A----</AM>
+<AM lemma="y-2_^(položka/y)" src="manual">SNXXX-----A----</AM>
+<AM lemma="y-2_^(soubor/y)" src="manual" selected="1">SNIP4-----A----</AM>
 </tag>
 </m>
 <m id="mu_13-SCzechM-p1326-s1-w9">

@@ -9549,6 +9549,7 @@
 <tag>
 <AM lemma="VKV" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="vkv_:B_^(velmi_krátké_vlny)" src="auto">NNXXX-----A----</AM>
+<AM lemma="VKV_^(velmi_krátké_vlny)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0999-001-p1s37W18-Ta">
@@ -10466,6 +10467,7 @@
 <tag>
 <AM lemma="VKV" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="vkv_:B_^(velmi_krátké_vlny)" src="auto">NNXXX-----A----</AM>
+<AM lemma="VKV_^(velmi_krátké_vlny)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0999-001-p1s42W4-Ta">

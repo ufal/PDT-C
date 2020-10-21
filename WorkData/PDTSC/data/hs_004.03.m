@@ -875,6 +875,8 @@
 <tag>
 <AM lemma="VŠ" src="auto" recommended="1">NNXXX-----A---b</AM>
 <AM lemma="vysokoškolský_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="VŠ-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="VŠ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m004-d-id90943-punct">
@@ -1689,6 +1691,9 @@
 <tag>
 <AM lemma="VŠ" src="auto" recommended="1">NNXXX-----A---b</AM>
 <AM lemma="vysokoškolský_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="VŠ_^(vysoká_škola)" src="manual">BNXXX-----A----</AM>
+<AM lemma="VŠ-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="VŠ-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m004-d1t1225-2">

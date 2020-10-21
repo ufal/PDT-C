@@ -922,7 +922,10 @@
 <LM>w#w-mf930708-155-p26s1w2</LM>
 </w.rf>
 <form>Večerníček</form>
-<tag lemma="večerníček" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="večerníček" src="orig">NNMS1-----A----</AM>
+<AM lemma="večerníček" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf930708-155-p27s1">
@@ -2129,7 +2132,10 @@
 <LM>w#w-mf930708-155-p55s1w2</LM>
 </w.rf>
 <form>Večerníček</form>
-<tag lemma="večerníček" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="večerníček" src="orig">NNMS1-----A----</AM>
+<AM lemma="večerníček" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf930708-155-p56s1">
@@ -3516,7 +3522,9 @@
 <form>TV</form>
 <tag>
 <AM lemma="televizní_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="Tv-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Tv-77" src="manual">F%-------------</AM>
+<AM lemma="TV-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="TV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-155-p90s1w3">

@@ -415,7 +415,8 @@
 <AM lemma="Wellesley_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Wellesley_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Wellesley_;Y" src="auto" recommended="1">NNMXX-----A----</AM>
-<AM lemma="Wellesley-2_;G" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Wellesley-2_;G" src="manual">NNNXX-----A----</AM>
+<AM lemma="Wellesley-2_;G" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0272-001-p1s2W10-Ta">

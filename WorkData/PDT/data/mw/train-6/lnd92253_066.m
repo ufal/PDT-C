@@ -2983,7 +2983,8 @@
 <form>tr</form>
 <tag>
 <AM lemma="trestní_:B_^(řád,_odpovědnost)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="tr-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="tr-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="trestní_^(řád,_odpovědnost)" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92253-066-p6s1w18">
@@ -3002,7 +3003,8 @@
 <form>zák</form>
 <tag>
 <AM lemma="zákon_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="zák-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="zák-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="zákoník_^(předpis)" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92253-066-p6s1w20">
@@ -4116,7 +4118,8 @@
 <form>tr</form>
 <tag>
 <AM lemma="trestní_:B_^(řád,_odpovědnost)" src="orig">AAXXX----1A---8</AM>
-<AM lemma="tr-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="tr-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="trestní_^(řád,_odpovědnost)" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92253-066-p7s7w9">
@@ -4135,7 +4138,8 @@
 <form>zák</form>
 <tag>
 <AM lemma="zákon_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="zák-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="zák-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="zákoník_^(předpis)" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92253-066-p7s7w11">

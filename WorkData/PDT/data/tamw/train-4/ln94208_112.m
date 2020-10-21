@@ -545,7 +545,8 @@
 <tag>
 <AM lemma="trenér_:B" src="orig">NNMXX-----A---8</AM>
 <AM lemma="trestní_:B_^(řád,_odpovědnost)" src="auto" recommended="1">AAXXX----1A---8</AM>
-<AM lemma="tr-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="tr-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="trenér" src="manual" selected="1">NNMXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94208-112-p2s2w15">

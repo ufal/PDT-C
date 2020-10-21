@@ -1186,11 +1186,11 @@
 <AM lemma="zelený_;o" src="auto">AAFP6----1A----</AM>
 <AM lemma="zelený_;o" src="auto">AAIP2----1A----</AM>
 <AM lemma="zelený_;o" src="auto">AAIP6----1A----</AM>
-<AM lemma="zelený_;o" src="auto" recommended="1">AAMP2----1A----</AM>
+<AM lemma="zelený_;o" src="auto" recommended="1" selected="1">AAMP2----1A----</AM>
 <AM lemma="zelený_;o" src="auto">AAMP6----1A----</AM>
 <AM lemma="zelený_;o" src="auto">AANP2----1A----</AM>
 <AM lemma="zelený_;o" src="auto">AANP6----1A----</AM>
-<AM lemma="zelení" src="manual" selected="1">NNMP2-----A----</AM>
+<AM lemma="zelení" src="manual">NNMP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1250-001-p1s3W7-Ta">
@@ -2675,11 +2675,11 @@
 <AM lemma="zelený_;o" src="auto">AAFP6----1A----</AM>
 <AM lemma="zelený_;o" src="auto">AAIP2----1A----</AM>
 <AM lemma="zelený_;o" src="auto">AAIP6----1A----</AM>
-<AM lemma="zelený_;o" src="auto" recommended="1">AAMP2----1A----</AM>
+<AM lemma="zelený_;o" src="auto" recommended="1" selected="1">AAMP2----1A----</AM>
 <AM lemma="zelený_;o" src="auto">AAMP6----1A----</AM>
 <AM lemma="zelený_;o" src="auto">AANP2----1A----</AM>
 <AM lemma="zelený_;o" src="auto">AANP6----1A----</AM>
-<AM lemma="zelení" src="manual" selected="1">NNMP2-----A----</AM>
+<AM lemma="zelení" src="manual">NNMP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1250-001-p1s6W16-Ta">

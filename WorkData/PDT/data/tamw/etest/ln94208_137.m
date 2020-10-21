@@ -311,7 +311,10 @@
 <LM>w#w-ln94208-137-p2s1Bw23</LM>
 </w.rf>
 <form>nevidomých</form>
-<tag lemma="vidomý_,a" src="orig" selected="1">AAMP2----1N----</tag>
+<tag>
+<AM lemma="vidomý_,a" src="orig">AAMP2----1N----</AM>
+<AM lemma="nevidomý-1" src="manual" selected="1">AAMP2----1A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-137-p2s1Bw24">
 <src.rf>manual</src.rf>
@@ -1757,7 +1760,10 @@
 <LM>w#w-ln94208-137-p3s9w2</LM>
 </w.rf>
 <form>nevidomých</form>
-<tag lemma="vidomý_,a" src="orig" selected="1">AAMP2----1N----</tag>
+<tag>
+<AM lemma="vidomý_,a" src="orig">AAMP2----1N----</AM>
+<AM lemma="nevidomý-2" src="manual" selected="1">AAMP2----1A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-137-p3s9w3">
 <src.rf>manual</src.rf>

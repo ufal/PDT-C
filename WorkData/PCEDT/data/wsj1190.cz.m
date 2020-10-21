@@ -8908,7 +8908,9 @@
 <AM lemma="teravolt" src="auto">NNIXX-----A---8</AM>
 <AM lemma="televize_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="televizní_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Tv-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Tv-77" src="manual">F%-------------</AM>
+<AM lemma="TV-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="TV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1190-001-p1s24W30-Ta">
