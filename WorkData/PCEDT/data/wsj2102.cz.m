@@ -7909,10 +7909,10 @@
 <AM lemma="Tota_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Toto_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Toto_;Y" src="auto">NNMS5-----A----</AM>
-<AM lemma="toto" src="auto" selected="1">NNNS1-----A----</AM>
+<AM lemma="toto" src="auto">NNNS1-----A----</AM>
 <AM lemma="toto" src="auto">NNNS4-----A----</AM>
 <AM lemma="toto" src="auto">NNNS5-----A----</AM>
-<AM lemma="tento" src="auto">PDNS1----------</AM>
+<AM lemma="tento" src="auto" selected="1">PDNS1----------</AM>
 <AM lemma="tento" src="auto" recommended="1">PDNS4----------</AM>
 </tag>
 </m>
@@ -9002,6 +9002,7 @@
 <w.rf>
 <LM>w#w-wsj2102-001-p1s28W20</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>světové</form>
 <tag>
 <AM lemma="světový" src="auto">AAFP1----1A----</AM>
@@ -9019,8 +9020,9 @@
 <AM lemma="světový" src="auto">AANP5----1A---6</AM>
 <AM lemma="světový" src="auto">AANS1----1A----</AM>
 <AM lemma="světový" src="auto">AANS4----1A----</AM>
-<AM lemma="světový" src="auto">AANS5----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="světový" src="auto">AANS5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj2102-001-p1s28W21-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -11607,10 +11609,10 @@
 <w.rf>
 <LM>w#w-wsj2102-001-p1s37W19</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Kolumbijců</form>
-<tag>
-<AM lemma="Kolumbijec_;E" src="auto" recommended="1">NNMP2-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="Kolumbijec_;E" src="auto" recommended="1">NNMP2-----A----</tag>
+</m>
 <m id="m-wsj2102-001-p1s37W20-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

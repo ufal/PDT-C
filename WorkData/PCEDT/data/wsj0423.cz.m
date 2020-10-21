@@ -4036,11 +4036,11 @@
 </w.rf>
 <form>START</form>
 <tag>
-<AM lemma="Start_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Start_;m" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="Start_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="start" src="auto">NNIS1-----A----</AM>
 <AM lemma="start" src="auto">NNIS4-----A----</AM>
-<AM lemma="START-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="START-88" src="manual">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0423-001-p1s15W21-Ta">

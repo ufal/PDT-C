@@ -584,7 +584,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Toto</form>
-<tag lemma="toto" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="toto" src="orig">NNNS1-----A----</AM>
+<AM lemma="tento" src="manual" selected="1">PDNS1----------</AM>
+</tag>
 </m>
 <m id="m-vesm9212-043-p3s2w2">
 <src.rf>manual</src.rf>

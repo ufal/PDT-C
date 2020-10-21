@@ -241,7 +241,10 @@
 <LM>w#w-lnd92253-042-p2s2w3</LM>
 </w.rf>
 <form>Tanjug</form>
-<tag lemma="Tanjug_;m" src="orig" selected="1">BNIS1-----A----</tag>
+<tag>
+<AM lemma="Tanjug_;m" src="orig">BNIS1-----A----</AM>
+<AM lemma="Tanjug_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-042-p2s2w4">
 <src.rf>manual</src.rf>

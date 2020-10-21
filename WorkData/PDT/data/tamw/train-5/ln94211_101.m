@@ -686,7 +686,10 @@
 <LM>w#w-ln94211-101-p2s3w17</LM>
 </w.rf>
 <form>Svoboda</form>
-<tag lemma="Svoboda_;m_^(noviny)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Svoboda_;m_^(noviny)" src="auto">NNFS1-----A----</AM>
+<AM lemma="Svoboda-2_;G_;m" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94211-101-p2s3w18">
 <src.rf>manual</src.rf>

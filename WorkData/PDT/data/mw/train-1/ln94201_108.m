@@ -6087,7 +6087,8 @@
 <form>sto</form>
 <tag>
 <AM lemma="sto-2`100" src="orig">NNNS4-----A----</AM>
-<AM lemma="sto-1`100" src="manual" selected="1">CzNP4----------</AM>
+<AM lemma="sto-1`100" src="manual">CzNP4----------</AM>
+<AM lemma="sto-1`100" src="manual" selected="1">CzNS4----------</AM>
 </tag>
 </m>
 <m id="m-ln94201-108-p40s2w8">

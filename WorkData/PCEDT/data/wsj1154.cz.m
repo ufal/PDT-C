@@ -21199,7 +21199,8 @@
 <AM lemma="toto" src="auto">NNNS5-----A----</AM>
 <AM lemma="tento" src="auto">PDNS1----------</AM>
 <AM lemma="tento" src="auto" recommended="1">PDNS4----------</AM>
-<AM lemma="Toto-3_;m" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="Toto-3_;m" src="manual">NNNS1-----A----</AM>
+<AM lemma="Toto-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1154-001-p1s72W4-Ta">
@@ -21535,7 +21536,8 @@
 <AM lemma="toto" src="auto">NNNS5-----A----</AM>
 <AM lemma="tento" src="auto">PDNS1----------</AM>
 <AM lemma="tento" src="auto">PDNS4----------</AM>
-<AM lemma="Toto-3_;m" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="Toto-3_;m" src="manual">NNNS1-----A----</AM>
+<AM lemma="Toto-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1154-001-p1s73W6-Ta">

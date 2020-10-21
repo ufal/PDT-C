@@ -544,7 +544,10 @@
 <LM>w#w-ln94208-84-p3s1w8</LM>
 </w.rf>
 <form>Svoboda</form>
-<tag lemma="Svoboda_;m_^(noviny)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Svoboda_;m_^(noviny)" src="auto">NNFS1-----A----</AM>
+<AM lemma="Svoboda-2_;G_;m" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-84-p3s1w9">
 <src.rf>manual</src.rf>

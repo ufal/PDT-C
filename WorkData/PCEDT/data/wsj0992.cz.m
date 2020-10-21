@@ -1526,7 +1526,8 @@
 <AM lemma="Tribune_;m_,t" src="auto">NNFXX-----A----</AM>
 <AM lemma="tribun" src="auto">NNMS5-----A----</AM>
 <AM lemma="tribune-77" src="auto" recommended="1">F%-------------</AM>
-<AM lemma="Tribune_;m" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Tribune_;m" src="manual">NNFXX-----A----</AM>
+<AM lemma="Tribune-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0992-001-p1s4W21-Ta">

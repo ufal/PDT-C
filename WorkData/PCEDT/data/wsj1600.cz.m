@@ -15711,10 +15711,10 @@
 <form>toto</form>
 <tag>
 <AM lemma="toto" src="auto">NNNS1-----A----</AM>
-<AM lemma="toto" src="auto" selected="1">NNNS4-----A----</AM>
+<AM lemma="toto" src="auto">NNNS4-----A----</AM>
 <AM lemma="toto" src="auto">NNNS5-----A----</AM>
 <AM lemma="tento" src="auto" recommended="1">PDNS1----------</AM>
-<AM lemma="tento" src="auto">PDNS4----------</AM>
+<AM lemma="tento" src="auto" selected="1">PDNS4----------</AM>
 </tag>
 </m>
 <m id="m-wsj1600-001-p1s51W32-Ta">

@@ -1757,7 +1757,7 @@
 <tag lemma="?" src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m040-473" />
+<s id="m040-473"></s>
 <s id="m040-d1e2931-x2">
 <m id="m040-d1t2934-1">
 <w.rf>
@@ -3003,11 +3003,11 @@
 </w.rf>
 <form>toto</form>
 <tag>
-<AM lemma="toto" src="auto" selected="1">NNNS1-----A----</AM>
+<AM lemma="toto" src="auto">NNNS1-----A----</AM>
 <AM lemma="toto" src="auto">NNNS4-----A----</AM>
 <AM lemma="toto" src="auto">NNNS5-----A----</AM>
 <AM lemma="tento" src="auto">PDNS1----------</AM>
-<AM lemma="tento" src="auto" recommended="1">PDNS4----------</AM>
+<AM lemma="tento" src="auto" recommended="1" selected="1">PDNS4----------</AM>
 </tag>
 </m>
 <m id="m040-d1e2981-x2-523">
@@ -4369,10 +4369,10 @@
 <w.rf>
 <LM>w#w-d1t3061-4</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>3.20</form>
-<tag>
-<AM lemma="3.20" src="auto" recommended="1">C=-------------</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="3.20" src="auto" recommended="1">C=-------------</tag>
+</m>
 <m id="m040-d1t3061-5">
 <w.rf>
 <LM>w#w-d1t3061-5</LM>
@@ -4525,10 +4525,10 @@
 <w.rf>
 <LM>w#w-d1t3071-5</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>7.80</form>
-<tag>
-<AM lemma="7.80" src="auto" recommended="1">C=-------------</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="7.80" src="auto" recommended="1">C=-------------</tag>
+</m>
 <m id="m040-d1t3071-6">
 <w.rf>
 <LM>w#w-d1t3071-6</LM>

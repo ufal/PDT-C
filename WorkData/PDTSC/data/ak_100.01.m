@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_36_schema.xml"></schema>
+<schema href="mdata_36_schema.xml" />
 <references>
-<reffile id="w" name="wdata" href="ak_100.01.w"></reffile>
+<reffile id="w" name="wdata" href="ak_100.01.w" />
 </references>
 </head>
 <s id="m100-d1e268-x2">
@@ -2278,15 +2278,15 @@
 <AM lemma="pondělí" src="auto">NNNXX-----A---8</AM>
 <AM lemma="po-1" src="auto" recommended="1" selected="1">RR--6----------</AM>
 </tag>
-</m><m id="m100-d1t437-7-sw1">
+</m>
+<m id="m100-d1t437-7-sw1">
 <w.rf>
 <LM>w#w-d1t437-7</LM>
 </w.rf>
 <form_change>spell</form_change>
 <form>tom</form>
-<tag>
-<AM lemma="ten" src="auto" recommended="1">PDZS6----------</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="ten" src="auto" recommended="1">PDZS6----------</tag>
+</m>
 <m id="m100-d-id70352-punct">
 <w.rf>
 <LM>w#w-d-id70352-punct</LM>
@@ -3515,10 +3515,10 @@
 <AM lemma="Tota_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Toto_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Toto_;Y" src="auto">NNMS5-----A----</AM>
-<AM lemma="toto" src="auto" selected="1">NNNS1-----A----</AM>
+<AM lemma="toto" src="auto">NNNS1-----A----</AM>
 <AM lemma="toto" src="auto">NNNS4-----A----</AM>
 <AM lemma="toto" src="auto">NNNS5-----A----</AM>
-<AM lemma="tento" src="auto">PDNS1----------</AM>
+<AM lemma="tento" src="auto" selected="1">PDNS1----------</AM>
 <AM lemma="tento" src="auto" recommended="1">PDNS4----------</AM>
 </tag>
 </m>

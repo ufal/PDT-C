@@ -1845,12 +1845,12 @@
 <form>START</form>
 <tag>
 <AM lemma="START_:B_,t_^(Strategic_Arms_Reduction_Talks)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="Start_;m" src="auto">NNIS1-----A----</AM>
+<AM lemma="Start_;m" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="Start_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="start" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="start" src="auto">NNIS4-----A----</AM>
 <AM lemma="START_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="START-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="START-88" src="manual">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-056-p7s3w11">

@@ -179,13 +179,14 @@
 <form_change>spell</form_change>
 <form>srážkovači</form>
 <tag>
-<AM lemma="srážkovač" src="orig" selected="1">NNIS6-----A----</AM>
+<AM lemma="srážkovač" src="orig">NNIS6-----A----</AM>
 <AM lemma="srážkovač" src="auto">NNMP1-----A----</AM>
 <AM lemma="srážkovač" src="auto">NNMP5-----A----</AM>
 <AM lemma="srážkovač" src="auto">NNMP7-----A----</AM>
 <AM lemma="srážkovač" src="auto">NNMS3-----A----</AM>
 <AM lemma="srážkovač" src="auto">NNMS5-----A----</AM>
 <AM lemma="srážkovač" src="auto" recommended="1">NNMS6-----A----</AM>
+<AM lemma="srážkovač-2" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-041-p5s1w8">
@@ -1062,10 +1063,11 @@
 </w.rf>
 <form>srážkovače</form>
 <tag>
-<AM lemma="srážkovač" src="orig" selected="1">NNIS2-----A----</AM>
+<AM lemma="srážkovač" src="orig">NNIS2-----A----</AM>
 <AM lemma="srážkovač" src="auto">NNMP4-----A----</AM>
 <AM lemma="srážkovač" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="srážkovač" src="auto">NNMS4-----A----</AM>
+<AM lemma="srážkovač-2" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-041-p5s5w24">
@@ -1531,13 +1533,14 @@
 </w.rf>
 <form>srážkovači</form>
 <tag>
-<AM lemma="srážkovač" src="orig" selected="1">NNIS6-----A----</AM>
+<AM lemma="srážkovač" src="orig">NNIS6-----A----</AM>
 <AM lemma="srážkovač" src="auto">NNMP1-----A----</AM>
 <AM lemma="srážkovač" src="auto">NNMP5-----A----</AM>
 <AM lemma="srážkovač" src="auto">NNMP7-----A----</AM>
 <AM lemma="srážkovač" src="auto">NNMS3-----A----</AM>
 <AM lemma="srážkovač" src="auto">NNMS5-----A----</AM>
 <AM lemma="srážkovač" src="auto" recommended="1">NNMS6-----A----</AM>
+<AM lemma="srážkovač-2" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-041-p5s8w18">

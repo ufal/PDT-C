@@ -67,7 +67,8 @@
 <AM lemma="Talpa-2_;m" src="orig">NNFXX-----A----</AM>
 <AM lemma="Talpa_;G" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Talpa_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Talpa-2_;G_;m" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Talpa-2_;G_;m" src="manual">NNFXX-----A----</AM>
+<AM lemma="Talpa-1_;G_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-025-p4s1w3">
@@ -508,7 +509,8 @@
 <AM lemma="Talpa-2_;m" src="orig">NNFXX-----A----</AM>
 <AM lemma="Talpa_;G" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Talpa_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Talpa-2_;G_;m" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Talpa-2_;G_;m" src="manual">NNFXX-----A----</AM>
+<AM lemma="Talpa-1_;G_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-025-p5s1w4">

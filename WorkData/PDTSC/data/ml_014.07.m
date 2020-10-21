@@ -1067,7 +1067,7 @@
 <tag>
 <AM lemma="jeden`1" src="auto">ClFS7----------</AM>
 <AM lemma="jednou-1" src="auto" recommended="1">Cv-------------</AM>
-<AM lemma="jednou-2" src="auto">Db-------------</AM>
+<AM lemma="jednou-2" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m014-d1t2568-5">
@@ -1076,10 +1076,10 @@
 </w.rf>
 <form>toto</form>
 <tag>
-<AM lemma="toto" src="auto" selected="1">NNNS1-----A----</AM>
+<AM lemma="toto" src="auto">NNNS1-----A----</AM>
 <AM lemma="toto" src="auto">NNNS4-----A----</AM>
 <AM lemma="toto" src="auto">NNNS5-----A----</AM>
-<AM lemma="tento" src="auto">PDNS1----------</AM>
+<AM lemma="tento" src="auto" selected="1">PDNS1----------</AM>
 <AM lemma="tento" src="auto" recommended="1">PDNS4----------</AM>
 </tag>
 </m>
@@ -1098,7 +1098,7 @@
 <tag>
 <AM lemma="jeden`1" src="auto">ClFS7----------</AM>
 <AM lemma="jednou-1" src="auto" recommended="1">Cv-------------</AM>
-<AM lemma="jednou-2" src="auto">Db-------------</AM>
+<AM lemma="jednou-2" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m014-d1t2568-8">
@@ -1107,10 +1107,10 @@
 </w.rf>
 <form>toto</form>
 <tag>
-<AM lemma="toto" src="auto" selected="1">NNNS1-----A----</AM>
+<AM lemma="toto" src="auto">NNNS1-----A----</AM>
 <AM lemma="toto" src="auto">NNNS4-----A----</AM>
 <AM lemma="toto" src="auto">NNNS5-----A----</AM>
-<AM lemma="tento" src="auto">PDNS1----------</AM>
+<AM lemma="tento" src="auto" selected="1">PDNS1----------</AM>
 <AM lemma="tento" src="auto" recommended="1">PDNS4----------</AM>
 </tag>
 </m>

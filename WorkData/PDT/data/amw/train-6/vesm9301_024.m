@@ -1827,7 +1827,10 @@
 <LM>w#w-vesm9301-024-p6s3w4</LM>
 </w.rf>
 <form>toto</form>
-<tag lemma="toto" src="orig" selected="1">NNNS4-----A----</tag>
+<tag>
+<AM lemma="toto" src="orig">NNNS4-----A----</AM>
+<AM lemma="tento" src="manual" selected="1">PDNS4----------</AM>
+</tag>
 </m>
 <m id="m-vesm9301-024-p6s3w5">
 <src.rf>manual</src.rf>

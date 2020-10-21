@@ -1565,7 +1565,8 @@
 <AM lemma="Tenerife_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Tenerife_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Tenerife-2_;G" src="manual">NNIS2-----A----</AM>
-<AM lemma="Tenerife-2_;G" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="Tenerife-2_;G" src="manual">NNIXX-----A----</AM>
+<AM lemma="Tenerife-2_;G" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-095-p6s2w7">
@@ -1902,7 +1903,8 @@
 <AM lemma="Tenerife_;Y" src="orig">NNFS6-----A----</AM>
 <AM lemma="Tenerife_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Tenerife_;Y" src="auto">NNMS5-----A----</AM>
-<AM lemma="Tenerife-2_;G" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="Tenerife-2_;G" src="manual">NNIXX-----A----</AM>
+<AM lemma="Tenerife-2_;G" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-095-p6s4w30">

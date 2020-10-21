@@ -3329,7 +3329,8 @@
 <AM lemma="Stanley_;Y" src="orig">NNMP1-----A----</AM>
 <AM lemma="Stanley_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Stanley_;Y" src="auto">NNMS5-----A----</AM>
-<AM lemma="Stanley_;Y" src="auto" recommended="1" selected="1">NNXXX-----A---1</AM>
+<AM lemma="Stanley_;Y" src="auto" recommended="1">NNXXX-----A---1</AM>
+<AM lemma="Stanley-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94101-092-p1s20w13">

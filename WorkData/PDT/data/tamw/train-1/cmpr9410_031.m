@@ -4512,7 +4512,10 @@
 <LM>w#w-cmpr9410-031-p25s2w8</LM>
 </w.rf>
 <form>Special</form>
-<tag lemma="special" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="special" src="orig">NNIS1-----A----</AM>
+<AM lemma="Special_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-031-p25s2w9">
 <src.rf>manual</src.rf>

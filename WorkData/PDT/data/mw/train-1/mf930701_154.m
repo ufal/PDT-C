@@ -908,7 +908,8 @@
 <tag>
 <AM lemma="start" src="orig">NNIS1-----A----</AM>
 <AM lemma="START_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="START-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="START-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Start_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-154-p1s7w15">

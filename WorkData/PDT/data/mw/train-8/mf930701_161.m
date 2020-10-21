@@ -2217,7 +2217,10 @@
 <LM>w#w-mf930701-161-p9s2w3</LM>
 </w.rf>
 <form>Tanjug</form>
-<tag lemma="Tanjug_;m" src="orig" selected="1">BNIS1-----A----</tag>
+<tag>
+<AM lemma="Tanjug_;m" src="orig">BNIS1-----A----</AM>
+<AM lemma="Tanjug_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-161-p9s2w4">
 <src.rf>manual</src.rf>

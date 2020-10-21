@@ -1416,7 +1416,10 @@
 <LM>w#w-mf920902-023-p2s8w12</LM>
 </w.rf>
 <form>Special</form>
-<tag lemma="special" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="special" src="orig">NNIS1-----A----</AM>
+<AM lemma="Special_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-023-p2s8w13">
 <src.rf>manual</src.rf>
@@ -1708,7 +1711,10 @@
 <LM>w#w-mf920902-023-p2s11w7</LM>
 </w.rf>
 <form>Special</form>
-<tag lemma="special" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="special" src="orig">NNIS1-----A----</AM>
+<AM lemma="Special_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-023-p2s11w8">
 <src.rf>manual</src.rf>

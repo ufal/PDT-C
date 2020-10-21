@@ -969,6 +969,7 @@
 <tag>
 <AM lemma="srna" src="orig">NNFS1-----A----</AM>
 <AM lemma="SRNA-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Srna_;m" src="manual">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-152-p4s1w4">

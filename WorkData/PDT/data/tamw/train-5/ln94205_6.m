@@ -622,7 +622,8 @@
 <tag>
 <AM lemma="System_;m_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="System_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="systém" src="auto" selected="1">NNIXX-----A----</AM>
+<AM lemma="systém" src="auto">NNIXX-----A----</AM>
+<AM lemma="System-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-6-p2s3w30">
@@ -727,7 +728,8 @@
 <tag>
 <AM lemma="System_;m_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="System_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="systém" src="auto" recommended="1" selected="1">NNIXX-----A----</AM>
+<AM lemma="systém" src="auto" recommended="1">NNIXX-----A----</AM>
+<AM lemma="System-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-6-p2s4w3">
@@ -1920,7 +1922,8 @@
 <tag>
 <AM lemma="System_;m_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="System_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="systém" src="auto" recommended="1" selected="1">NNIXX-----A----</AM>
+<AM lemma="systém" src="auto" recommended="1">NNIXX-----A----</AM>
+<AM lemma="System-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-6-p3s7w8">

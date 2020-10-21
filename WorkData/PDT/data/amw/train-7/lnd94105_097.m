@@ -2606,7 +2606,11 @@
 <LM>w#w-lnd94105-097-p1s15w12</LM>
 </w.rf>
 <form>Stanley</form>
-<tag lemma="Stanley_;Y" src="orig" selected="1">NNXXX-----A---1</tag>
+<tag>
+<AM lemma="Stanley_;Y" src="orig">NNXXX-----A---1</AM>
+<AM lemma="Stanley-77" src="manual">F%-------------</AM>
+<AM lemma="Stanley_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-097-p1s15w13">
 <src.rf>manual</src.rf>

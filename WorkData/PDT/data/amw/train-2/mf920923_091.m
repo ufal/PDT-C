@@ -527,7 +527,10 @@
 <LM>w#w-mf920923-091-p2s5w4</LM>
 </w.rf>
 <form>toto</form>
-<tag lemma="toto" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="toto" src="orig">NNNS1-----A----</AM>
+<AM lemma="tento" src="manual" selected="1">PDNS1----------</AM>
+</tag>
 </m>
 <m id="m-mf920923-091-p2s5w5">
 <src.rf>manual</src.rf>
