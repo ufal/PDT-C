@@ -59,7 +59,7 @@ Bourges Bourges_;G NNIXX-----A----
 Box box-2_^(krabice,_schránka) NNIXX-----A----
 Boy Boy_;Y NNMXX-----A----
 Božíkovi Božíkův_;Y_^(*2) AUMP4M---------
-Bradyho Bradyho_;Y_^(*2) AUFS2M--------- 
+Bradyho Bradyho_;Y_^(*2) AUFS2M---------
 Bradyho Bradyho_;Y_^(*2) AUIS6M---------
 Broadway Broadway_;G NNFXX-----A----
 Brodské Brodské_;G NNNS1-----A----
@@ -71,7 +71,7 @@ Buckleyovi Buckleyův_;Y_^(*2) AUMP1M---------
 Buddy Buddy-2_;m NNXXX-----A----
 Bulla Bull_;Y NNMS2-----A----
 Burbank Burbank_;G NNIXX-----A----
-Bury Bury-2_;G NNNXX-----A---- 
+Bury Bury-2_;G NNNXX-----A----
 Bábe Bábe_;G NNNXX-----A----
 Bělorusko Bělorusko_;G NNNXX-----A---8
 COMP COMP-88 BNXXX-----A----
@@ -102,7 +102,7 @@ Clarence Clarence-2_;Y NNMXX-----A----
 Clarkeové Clarkeová_;Y NNFS2-----A----
 Claudia Claudia_;Y NNFXX-----A----
 Clive Clive-2_;G NNNXX-----A----
-Clubu club NNIS2-----A---- 
+Clubu club NNIS2-----A----
 Coky Coka_;m NNFS2-----A----
 Columba Columbus_;G_;m NNIS2-----A---1
 Como Como_;G NNNXX-----A----
@@ -113,11 +113,11 @@ Crusoe Crusoe_;Y NNMXX-----A----
 Cruzeiro Cruzeiro-2_;m NNIS1-----A----
 Césary César-2_;m NNIP4-----A----
 DEMA DEMA-88 BNXXX-----A----
-DJ DJ_^(disc_jockey) NNMXX-----A---b 
+DJ DJ_^(disc_jockey) NNMXX-----A---b
 DONA Dona_;m NNFS1-----A----
 DOS DOS-88 BNXXX-----A----
 DUHA DUHA-88 BNXXX-----A----
-Dalo dát-2_^(dá_se_očekávat) VB-S---3P-AAI—
+Dalo dát-2_^(dá_se_očekávat) VB-S---3P-AAI--
 Dalího Dalího_;Y_^(*2) AUNP2M---------
 Damu DAMU_;m BNXXX-----A----
 Dan Dan-2_;m NNIXX-----A----
@@ -167,7 +167,7 @@ Fin Fin-88 BNXXX-----A----
 Fineových Fineův_;Y_^(2*) AUFP2M---------
 Firestone Firestone_;m NNNXX-----A----
 Fitness fitness-1 AAXXX----1A----
-Flintu Flint-2_;G NNIS6-----A---- 
+Flintu Flint-2_;G NNIS6-----A----
 Flow Flow_;m NNXXX-----A----
 Floře Flora-2_;G NNFS6-----A----
 Floře Flora-2_;G_;m NNFS3-----A----
@@ -207,7 +207,7 @@ Golem Golem-2_;m NNIS4-----A----
 Golemu Golem-2_;m NNIS3-----A----
 Gorkého Gorkého_;Y_^(*3ý) AUFP2M---------
 Gorkého Gorkého_;Y_^(*3ý) AUFS2M---------
-Gorkého Gorkého_;Y_^(*3ý) AUIS4M--------- 
+Gorkého Gorkého_;Y_^(*3ý) AUIS4M---------
 Gorkého Gorkého_;Y_^(*3ý) AUNS1M---------
 Gorkého Gorkého_;Y_^(*3ý) AUNS4M---------
 Goshenu Goshen-2_;G NNIS2-----A----
@@ -261,7 +261,8 @@ Jerusalém Jeruzalém-2_;Y_,s_^(^DD**Jeruzalém) NNMS1-----A----
 Jezu Jezus_;Y_,s_^(^DD**Jesus) NNMS2-----A----
 Jimmy Jimmy-2_;m NNXXX-----A----
 Jiřský Jiřský_;Y NNIS1-----A----
-Joao Joao-2_;Y NNMS1-----A----Joao-2_;Y NNMXX-----A----
+Joao Joao-2_;Y NNMS1-----A----
+Joao Joao-2_;Y NNMXX-----A----
 Joe Joe_;Y NNMXX-----A----
 Joly Joly_;m NNXXX-----A----
 Jomo Jomo_;Y NNMXX-----A----
@@ -281,14 +282,14 @@ Kar Kar_;Y NNMXX-----A----
 Kasárna kasárna NNNP1-----A---1
 Ke Ke_;Y NNMS1-----A----
 Kelsovi Kelso_;Y NNMP1-----A----
-Kennedyho Kennedyho_;Y_^(*2) AUFS1M
+Kennedyho Kennedyho_;Y_^(*2) AUFS1M---------
 Kerry Kerry-2_;G NNNXX-----A----
-Kiko Kiko-2_;Y NNXXX-----A---- 
+Kiko Kiko-2_;Y NNXXX-----A----
 Kim Kim_;Y NNMXX-----A----
-Kinga king_;U NNMS2-----A---- 
+Kinga king_;U NNMS2-----A----
 Klekánice Klekánice_;Y NNMS1-----A----
 Kloseových Kloseův_;Y_^(*2) AUFP2M---------
-Kohoutův kohoutův-1_^(pták)_(*4-1) AUMS1M--------- 
+Kohoutův kohoutův-1_^(pták)_(*4-1) AUMS1M---------
 Kokovi Kok_;Y NNMP1-----A----
 Kolor Kolor_;m NNXXX-----A----
 Kon Kon_;Y NNMXX-----A----
@@ -474,7 +475,7 @@ Pinka Pink-2_;Y NNMS2-----A----
 Pinky Pinky_;Y NNMS1-----A----
 Pivovar Pivovar_;Y NNMS1-----A----
 Planice Planice_;G NNFS2-----A----
-Podgorici Podgorica_;G NNFS4-----A---- 
+Podgorici Podgorica_;G NNFS4-----A----
 Pointe Pointe_;G NNXXX-----A----
 Pol pol_,i NNXXX-----A----
 Poličky Polička_;G NNFS1-----A----
@@ -482,7 +483,7 @@ Polsky Polsky_;Y NNMS1-----A----
 Ponce Ponce_;G NNNXX-----A----
 Poová Poová_;Y NNMS1-----A----
 Popílková Popílková NNFS1-----A----
-Porticus Porticus_;m NNIS1-----A---- 
+Porticus Porticus_;m NNIS1-----A----
 Portu Port-2_;G NNIS6-----A----
 Posse Posse_;Y NNMXX-----A----
 Post Post-1_^(př._Washington_Post) NNIS1-----A----
@@ -494,7 +495,7 @@ Práchyňský práchyňský AAIS1----1A----
 Psycho Psycho_;m NNNXX-----A----
 Ptáčkovi ptáčkův_^(*3ek) AUMP1M---------
 Pustou Pustá_;G NNFS4-----A----
-PÁR pár Cn-S1---------- 
+PÁR pár Cn-S1----------
 Pár pár Cn-S1----------
 Queen Queen-1_;Y_;m NNFS1-----A----
 Queen Queen_;m_^(hudební_skupina) NNXXX-----A----
@@ -520,10 +521,10 @@ Riche Rich_;Y NNMS2-----A----
 Richey Richey-2_;Y NNMXX-----A----
 Rigoletto Rigoletto_;Y NNMXX-----A----
 Ringo Ringo-2_;Y NNMXX-----A----
-Ringo Ringo_;Y NNMXX-----A---- 
+Ringo Ringo_;Y NNMXX-----A----
 Rohde Rohde_;Y NNMXX-----A----
 Rony Rony_;Y NNMXX-----A----
-Roper Roper-2_;Y NNFXX-----A---- 
+Roper Roper-2_;Y NNFXX-----A----
 Ros Ros_;G NNIS1-----A----
 Ros Ros_;Y NNMXX-----A----
 Rouen Rouen_;G NNIXX-----A----
@@ -532,7 +533,7 @@ S S-8 NNXXX-----A---b
 SALON salón NNIS1-----A----
 SAME SAME-88 BNXXX-----A----
 SEN sen NNIS1-----A----
-SEN sen NNIS4-----A---- 
+SEN sen NNIS4-----A----
 SEPAP SEPAP-88 BNXXX-----A----
 SIMON Simon-2_;m NNIS1-----A----
 SISAL SISAL-88 BNXXX-----A----
