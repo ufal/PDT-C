@@ -4801,7 +4801,10 @@
 <LM>w#w-wsj1267-001-p1s14W23</LM>
 </w.rf>
 <form>Firestone</form>
-<tag lemma="Firestone_;m" src="auto" recommended="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Firestone_;m" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Firestone_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1267-001-p1s14W24-Ta">
 <src.rf>tagger-a</src.rf>

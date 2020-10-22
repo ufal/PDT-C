@@ -2467,7 +2467,8 @@
 <AM lemma="Figaro_;m" src="orig">NNNS4-----A----</AM>
 <AM lemma="Figaro_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Figaro_;Y_,t" src="auto">NNMS5-----A----</AM>
-<AM lemma="Figaro_;m" src="manual" selected="1">NNNS4-----A----</AM>
+<AM lemma="Figaro_;m" src="manual">NNNS4-----A----</AM>
+<AM lemma="Figaro-2_;m" src="manual" selected="1">NNNS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-9-p9s2w11">

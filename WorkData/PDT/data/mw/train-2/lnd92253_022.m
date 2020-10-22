@@ -1231,7 +1231,8 @@
 <AM lemma="Dam_;Y" src="auto" recommended="1">NNMS3-----A---1</AM>
 <AM lemma="Dam_;Y" src="auto">NNMS6-----A---1</AM>
 <AM lemma="DAMU_:B_;m" src="manual">NNXXX-----A---8</AM>
-<AM lemma="DAMU_;m" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="DAMU_;m" src="manual">BNXXX-----A----</AM>
+<AM lemma="Damu_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-022-p4s4w12">

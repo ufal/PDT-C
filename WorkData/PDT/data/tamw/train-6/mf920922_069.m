@@ -215,7 +215,8 @@
 <form>Fr</form>
 <tag>
 <AM lemma="Francie_:B_;G" src="auto">NNFXX-----A----</AM>
-<AM lemma="Fr-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Fr-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Francie_;G" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf920922-069-p2s1w22">
@@ -349,7 +350,8 @@
 <form>Fin</form>
 <tag>
 <AM lemma="Finsko_:B_;G" src="orig">NNNXX-----A---8</AM>
-<AM lemma="Fin-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Fin-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Finsko_;G" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf920922-069-p2s1w38">
@@ -394,7 +396,10 @@
 <LM>w#w-mf920922-069-p2s1w42</LM>
 </w.rf>
 <form>Delta</form>
-<tag lemma="delta" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="delta" src="orig">NNFS1-----A----</AM>
+<AM lemma="Delta_;m" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920922-069-p2s1w43">
 <src.rf>manual</src.rf>
@@ -503,7 +508,8 @@
 <form>Šp</form>
 <tag>
 <AM lemma="Španělsko_:B_;G" src="orig">NNNXX-----A---8</AM>
-<AM lemma="Šp-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Šp-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Španělsko_;G" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf920922-069-p2s1w56">

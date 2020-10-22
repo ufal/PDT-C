@@ -8849,7 +8849,8 @@
 <tag>
 <AM lemma="DJ_:B_,t_^(disc_jockey)" src="auto">NNMXX-----A---8</AM>
 <AM lemma="DJ-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="DJ_^(disc_jockey)" src="manual" selected="1">NNMXX-----A---b</AM>
+<AM lemma="DJ_^(disc_jockey)" src="manual">NNMXX-----A---b</AM>
+<AM lemma="DJ_^(disc_jockey)" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-036-p6s8w35">

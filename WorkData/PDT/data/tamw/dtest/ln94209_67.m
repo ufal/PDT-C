@@ -109,7 +109,10 @@
 <LM>w#w-ln94209-67-p2s1w10</LM>
 </w.rf>
 <form>Deauville</form>
-<tag lemma="Deauville_;G" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Deauville_;G" src="orig">NNNXX-----A----</AM>
+<AM lemma="Deauville_;G" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94209-67-p2s1w11">
 <src.rf>manual</src.rf>

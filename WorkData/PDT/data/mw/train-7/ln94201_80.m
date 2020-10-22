@@ -3476,7 +3476,10 @@
 <LM>w#w-ln94201-80-p5s2w18</LM>
 </w.rf>
 <form>Eastbourne</form>
-<tag lemma="Eastbourne_;G" src="auto" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Eastbourne_;G" src="auto">NNNXX-----A----</AM>
+<AM lemma="Eastbourne_;G" src="manual" selected="1">NNIXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-80-p5s2w19">
 <src.rf>manual</src.rf>

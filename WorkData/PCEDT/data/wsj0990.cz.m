@@ -12560,7 +12560,8 @@
 <AM lemma="Francois_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Francois_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Francois_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Francoise_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Francoise_;Y" src="manual">NNXXX-----A----</AM>
+<AM lemma="Francoise_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0990-001-p1s40W2-Ta">

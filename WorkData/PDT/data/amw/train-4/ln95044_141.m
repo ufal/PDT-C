@@ -1672,7 +1672,8 @@
 <tag>
 <AM lemma="Fairfaxe_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="Fairfax_;G" src="auto" recommended="1">NNIS5-----A----</AM>
-<AM lemma="Fairfaxe_;G" src="manual" selected="1">NNIS6-----A---1</AM>
+<AM lemma="Fairfaxe_;G" src="manual">NNIS6-----A---1</AM>
+<AM lemma="Fairfax_;G" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-141-p3s7w23">

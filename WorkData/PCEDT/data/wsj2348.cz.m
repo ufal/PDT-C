@@ -5495,7 +5495,8 @@
 <form>Freedom</form>
 <tag>
 <AM lemma="Freedom_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Freedom-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Freedom-2_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Freedom-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2348-001-p1s21W9-Ta">

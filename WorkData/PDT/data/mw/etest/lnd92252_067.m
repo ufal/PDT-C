@@ -4143,10 +4143,12 @@
 <form_change>spell</form_change>
 <form>FRA</form>
 <tag>
-<AM lemma="Fra_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Fra_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="FRA-2_:B_,t_^(forward_rate_agreement)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="Fra-1_:B_,t_^(bratr)" src="auto">NNMXX-----A---8</AM>
 <AM lemma="frater_:B_,t" src="auto">NNMXX-----A---8</AM>
+<AM lemma="Fra-2_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Fra-2_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-067-p39s2w3">

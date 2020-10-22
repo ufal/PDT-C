@@ -29,7 +29,8 @@
 <form>Césary</form>
 <tag>
 <AM lemma="César_;Y" src="orig">NNMP4-----A----</AM>
-<AM lemma="César-2_;m" src="manual" selected="1">NNIP4-----A----</AM>
+<AM lemma="César-2_;m" src="manual">NNIP4-----A----</AM>
+<AM lemma="césar_^(titul)" src="manual" selected="1">NNMP4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-117-p1s1w3">

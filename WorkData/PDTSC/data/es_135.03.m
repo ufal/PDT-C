@@ -4745,7 +4745,8 @@
 <AM lemma="Flora-2_;m" src="auto">NNFS6-----A----</AM>
 <AM lemma="flora_,s_^(^DD**flóra)" src="auto">NNFS3-----A----</AM>
 <AM lemma="flora_,s_^(^DD**flóra)" src="auto">NNFS6-----A----</AM>
-<AM lemma="Flora-2_;G_;m" src="manual" selected="1">NNFS3-----A----</AM>
+<AM lemma="Flora-2_;G_;m" src="manual">NNFS3-----A----</AM>
+<AM lemma="Flora_;Y_;m" src="manual" selected="1">NNFS3-----A----</AM>
 </tag>
 </m>
 <m id="m135-d-id95622-punct">

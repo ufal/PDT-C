@@ -1743,6 +1743,7 @@
 <w.rf>
 <LM>w#w-wsj1331-001-p1s4W19</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>hlavním</form>
 <tag>
 <AM lemma="hlaveň" src="auto">NNFP3-----A----</AM>
@@ -1755,8 +1756,9 @@
 <AM lemma="hlavní" src="auto">AAMS7----1A----</AM>
 <AM lemma="hlavní" src="auto">AANP3----1A----</AM>
 <AM lemma="hlavní" src="auto">AANS6----1A----</AM>
-<AM lemma="hlavní" src="auto">AANS7----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="hlavní" src="auto">AANS7----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj1331-001-p1s4W20-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -5239,13 +5241,15 @@
 <w.rf>
 <LM>w#w-wsj1331-001-p1s18W2</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>nezúčastněnými</form>
 <tag>
 <AM lemma="zúčastněný_^(*3it)" src="auto">AAFP7----1N----</AM>
 <AM lemma="zúčastněný_^(*3it)" src="auto">AAIP7----1N----</AM>
 <AM lemma="zúčastněný_^(*3it)" src="auto" recommended="1">AAMP7----1N----</AM>
-<AM lemma="zúčastněný_^(*3it)" src="auto">AANP7----1N----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="zúčastněný_^(*3it)" src="auto">AANP7----1N----</AM>
+</tag>
+</m>
 <m id="m-wsj1331-001-p1s18W3-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -19516,9 +19520,9 @@
 </w.rf>
 <form>Dalího</form>
 <tag>
-<AM lemma="Dalí_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Dalí_;Y" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
 <AM lemma="Dalí_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Dalího_;Y_^(*2)" src="manual" selected="1">AUNP2M---------</AM>
+<AM lemma="Dalího_;Y_^(*2)" src="manual">AUNP2M---------</AM>
 </tag>
 </m>
 <m id="m-wsj1331-001-p1s61W39-Ta">

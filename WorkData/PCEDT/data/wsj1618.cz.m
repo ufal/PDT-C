@@ -12654,7 +12654,8 @@
 <AM lemma="Diego_;Y" src="auto" recommended="1">NNMS7-----A----</AM>
 <AM lemma="Diegem_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Diegem_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Diego-2_;G" src="manual" selected="1">NNNS6-----A----</AM>
+<AM lemma="Diego-2_;G" src="manual">NNNS6-----A----</AM>
+<AM lemma="Diego-2_;G" src="manual" selected="1">NNNS7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1618-001-p1s52W13-Ta">

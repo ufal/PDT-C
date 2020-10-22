@@ -6007,9 +6007,10 @@
 </w.rf>
 <form>Floře</form>
 <tag>
-<AM lemma="Flora-2_;G" src="orig" selected="1">NNFS6-----A----</AM>
+<AM lemma="Flora-2_;G" src="orig">NNFS6-----A----</AM>
 <AM lemma="flóra_,x" src="auto">NNFS3-----A----</AM>
 <AM lemma="flóra_,x" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="Flora_;Y_;m" src="manual" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-86-p11s2w10">

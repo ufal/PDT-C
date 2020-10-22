@@ -253,7 +253,8 @@
 <AM lemma="Expo_;m" src="auto">NNNS4-----A----</AM>
 <AM lemma="Expo_;m" src="auto">NNNS5-----A----</AM>
 <AM lemma="Expo" src="manual">NNNXX-----A----</AM>
-<AM lemma="Expo_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Expo_;m" src="manual">NNXXX-----A----</AM>
+<AM lemma="Expo_;m" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-143-p2s2w5">

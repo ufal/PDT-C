@@ -545,7 +545,8 @@
 <AM lemma="Ema" src="auto">NNFP2-----A----</AM>
 <AM lemma="em-99_:B_;Y" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="emo-1_,h_,l_^(styl)" src="auto">NNNP2-----A----</AM>
-<AM lemma="Em_;m" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="Em_;m" src="manual">NNNS1-----A----</AM>
+<AM lemma="Em-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94204-15-p3s2w2">

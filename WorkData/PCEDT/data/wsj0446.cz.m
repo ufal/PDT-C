@@ -4285,7 +4285,8 @@
 <AM lemma="Emile_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Emile_;Y" src="auto">NNMXX-----A----</AM>
 <AM lemma="emil-1_;U" src="auto">NNIS5-----A----</AM>
-<AM lemma="Emile-2_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Emile-2_;Y" src="manual">NNFS1-----A----</AM>
+<AM lemma="Emile-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0446-001-p1s16W6-Ta">

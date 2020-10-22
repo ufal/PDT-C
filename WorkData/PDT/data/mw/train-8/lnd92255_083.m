@@ -15101,7 +15101,8 @@
 <AM lemma="Grada_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="grad" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="grad" src="auto">NNIS4-----A----</AM>
-<AM lemma="GRAD-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="GRAD-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Grad_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-083-p2s3Gw10">

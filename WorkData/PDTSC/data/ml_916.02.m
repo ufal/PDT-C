@@ -3809,7 +3809,8 @@
 <tag>
 <AM lemma="Dunkerque_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Dunkerque_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Dunkerque_;G" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Dunkerque_;G" src="manual">NNIS2-----A----</AM>
+<AM lemma="Dunkerque_;G" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m916-d-id89223">
@@ -6405,14 +6406,15 @@
 <AM lemma="v-1" src="auto">RR--6----------</AM>
 <AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="v-88_:B" src="auto">NNXXX-----A----</AM>
-<AM lemma="versus_:B" src="auto">RR--1---------9</AM></tag>
-</m><m id="m916-d1t1047-4-sw1">
+<AM lemma="versus_:B" src="auto">RR--1---------9</AM>
+</tag>
+</m>
+<m id="m916-d1t1047-4-sw1">
 <w.rf>
 <LM>w#w-d1t1047-4</LM>
 </w.rf>
 <form>1</form>
-<tag>
-<AM lemma="1" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="1" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m916-d-id93633">
 <w.rf>
@@ -6455,15 +6457,17 @@
 <AM lemma="v-1" src="auto">RR--6----------</AM>
 <AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="v-88_:B" src="auto">NNXXX-----A----</AM>
-<AM lemma="versus_:B" src="auto">RR--1---------9</AM></tag>
-</m><m id="m916-d1t1047-7-sw1">
+<AM lemma="versus_:B" src="auto">RR--1---------9</AM>
+</tag>
+</m>
+<m id="m916-d1t1047-7-sw1">
 <w.rf>
 <LM>w#w-d1t1047-7</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>2</form>
-<tag>
-<AM lemma="2" src="auto" recommended="1">C=-------------</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="2" src="auto" recommended="1">C=-------------</tag>
+</m>
 <m id="m916-3370-3373">
 <w.rf>
 <LM>w#w-3370-3373</LM>

@@ -2230,7 +2230,9 @@
 <form>Drdacká</form>
 <tag>
 <AM lemma="Drdacká" src="auto">X@-------------</AM>
-<AM lemma="Drdacká_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Drdacká_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="	Drdacká_;Y_^(*1ý)" src="manual">NNFS1-----A----</AM>
+<AM lemma="Drdacká_;Y_^(*1ý)" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m126-d-id75804-punct">

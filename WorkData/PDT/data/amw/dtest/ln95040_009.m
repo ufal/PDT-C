@@ -4026,7 +4026,8 @@
 <form>EN</form>
 <tag>
 <AM lemma="Ena_;G" src="orig">NNFP2-----A----</AM>
-<AM lemma="EN-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="EN-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="EN_^(norma)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-009-p9s2w9">

@@ -1424,7 +1424,11 @@
 <LM>w#w-ln94210-146-p4s2w12</LM>
 </w.rf>
 <form>FACE</form>
-<tag lemma="FACE_;m" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag>
+<AM lemma="FACE_;m" src="orig">NNFXX-----A---b</AM>
+<AM lemma="FACE-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="FACE-88" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-146-p4s2w13">
 <src.rf>manual</src.rf>

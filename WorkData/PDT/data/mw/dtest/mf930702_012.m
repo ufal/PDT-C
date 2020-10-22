@@ -428,7 +428,8 @@
 <AM lemma="demo_,h" src="auto">NNNP4-----A----</AM>
 <AM lemma="demo_,h" src="auto">NNNP5-----A----</AM>
 <AM lemma="demo_,h" src="auto">NNNS2-----A----</AM>
-<AM lemma="DEMA-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="DEMA-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Dema_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-012-p2s3w7">

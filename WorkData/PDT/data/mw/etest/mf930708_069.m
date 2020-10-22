@@ -4249,7 +4249,9 @@
 <form>FM</form>
 <tag>
 <AM lemma="FM-1_:B_^(frekvenční_modulace)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Fm-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Fm-77" src="manual">F%-------------</AM>
+<AM lemma="FM-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="FM-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>

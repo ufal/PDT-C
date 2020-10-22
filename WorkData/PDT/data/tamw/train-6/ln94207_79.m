@@ -14570,9 +14570,9 @@
 <form>EMNID</form>
 <tag>
 <AM lemma="EMNID_:B_;m" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Emnid_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Emnid_;m" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="Emnid_;m" src="auto">NNIS4-----A----</AM>
-<AM lemma="EMNID-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="EMNID-88" src="manual">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-79-p32s6w8">
@@ -22464,9 +22464,9 @@
 <form>Emnid</form>
 <tag>
 <AM lemma="EMNID_:B_;m" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Emnid_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Emnid_;m" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="Emnid_;m" src="auto">NNIS4-----A----</AM>
-<AM lemma="Emnid-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Emnid-88" src="manual">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-79-p46s3w15">

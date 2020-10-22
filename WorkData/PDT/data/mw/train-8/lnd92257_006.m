@@ -2394,7 +2394,7 @@
 </w.rf>
 <form>Gabčíkově</form>
 <tag>
-<AM lemma="Gabčíkovo_;G" src="orig" selected="1">NNNS6-----A----</AM>
+<AM lemma="Gabčíkovo_;G" src="orig">NNNS6-----A----</AM>
 <AM lemma="Gabčíkův_;Y_^(*2)" src="auto">AUFS3M---------</AM>
 <AM lemma="Gabčíkův_;Y_^(*2)" src="auto">AUFS6M---------</AM>
 <AM lemma="Gabčíkův_;Y_^(*2)" src="auto">AUIS3M--------6</AM>
@@ -2403,6 +2403,7 @@
 <AM lemma="Gabčíkův_;Y_^(*2)" src="auto">AUMS6M---------</AM>
 <AM lemma="Gabčíkův_;Y_^(*2)" src="auto">AUNS3M--------6</AM>
 <AM lemma="Gabčíkův_;Y_^(*2)" src="auto" recommended="1">AUNS6M---------</AM>
+<AM lemma="Gabčíkovo_;G" src="manual" selected="1">NNNS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-lnd92257-006-p7s2w32">

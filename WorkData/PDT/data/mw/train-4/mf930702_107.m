@@ -1506,7 +1506,8 @@
 <AM lemma="dan-2_^(mistrovský_stupeň_v_džudu_a_karate)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="dan-2_^(mistrovský_stupeň_v_džudu_a_karate)" src="auto">NNIS4-----A----</AM>
 <AM lemma="dan-99_:B_;Y" src="auto">NNXXX-----A---8</AM>
-<AM lemma="Dan-2_;m" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="Dan-2_;m" src="manual">NNIXX-----A----</AM>
+<AM lemma="Dan-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-107-p6s2w10">

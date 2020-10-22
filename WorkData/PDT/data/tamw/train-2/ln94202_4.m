@@ -122,7 +122,8 @@
 <form>EUROSTAT</form>
 <tag>
 <AM lemma="Eurostat_;Y" src="orig">NNIS1-----A----</AM>
-<AM lemma="EUROSTAT-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="EUROSTAT-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="EUROSTAT_;m_^(Statistický_úřad_EU)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>

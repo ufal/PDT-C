@@ -266,7 +266,8 @@
 <form>DUHA</form>
 <tag>
 <AM lemma="duha" src="orig">NNFS1-----A----</AM>
-<AM lemma="DUHA-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="DUHA-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Duha_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-015-p3s2w21">

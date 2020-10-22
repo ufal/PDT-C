@@ -349,7 +349,8 @@
 <tag>
 <AM lemma="Fo_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Fo_;Y" src="auto" recommended="1">NNMP7-----A----</AM>
-<AM lemma="Foy_;Y" src="manual" selected="1">NNMP1-----A----</AM>
+<AM lemma="Foy_;Y" src="manual">NNMP1-----A----</AM>
+<AM lemma="Foy_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1232-001-p1s2W5-Ta">

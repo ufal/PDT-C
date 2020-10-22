@@ -5058,7 +5058,10 @@
 <LM>w#w-mf930702-041-p2s24w31</LM>
 </w.rf>
 <form>královéhradeckého</form>
-<tag lemma="královéhradecký" src="orig" selected="1">AAMS2----1A----</tag>
+<tag>
+<AM lemma="královéhradecký" src="orig">AAMS2----1A----</AM>
+<AM lemma="královéhradecký" src="manual" selected="1">AAIS2----1A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-041-p2s24w32">
 <src.rf>manual</src.rf>
@@ -5075,7 +5078,8 @@
 <AM lemma="drak" src="auto">NNMS3-----A---1</AM>
 <AM lemma="drak" src="auto">NNMS5-----A----</AM>
 <AM lemma="drak" src="auto">NNMS6-----A---1</AM>
-<AM lemma="Drak_;m" src="manual" selected="1">NNIS2-----A---1</AM>
+<AM lemma="Drak_;m" src="manual">NNIS2-----A---1</AM>
+<AM lemma="Drak-2_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-041-p2s24w33">

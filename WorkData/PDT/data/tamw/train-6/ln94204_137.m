@@ -1624,13 +1624,14 @@
 </w.rf>
 <form>Ferenci</form>
 <tag>
-<AM lemma="Ferenc-2_;G" src="orig" selected="1">NNFS6-----A----</AM>
+<AM lemma="Ferenc-2_;G" src="orig">NNFS6-----A----</AM>
 <AM lemma="Ferenc_;Y" src="auto">NNMP1-----A----</AM>
 <AM lemma="Ferenc_;Y" src="auto">NNMP5-----A----</AM>
 <AM lemma="Ferenc_;Y" src="auto">NNMP7-----A----</AM>
 <AM lemma="Ferenc_;Y" src="auto">NNMS3-----A----</AM>
 <AM lemma="Ferenc_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Ferenc_;Y" src="auto" recommended="1">NNMS6-----A----</AM>
+<AM lemma="Ferenc-2_;m" src="manual" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-137-p4s1w23">
