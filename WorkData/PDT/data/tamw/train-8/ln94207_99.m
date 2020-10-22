@@ -2559,7 +2559,9 @@
 <AM lemma="Bataille_;G" src="auto">NNNXX-----A----</AM>
 <AM lemma="Bataille_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Bataille_;Y" src="auto">NNMS5-----A----</AM>
-<AM lemma="Bataille_;Y" src="manual" selected="1">NNMS4-----A---1</AM>
+<AM lemma="Bataille_;Y" src="manual">NNMS4-----A---1</AM>
+<AM lemma="Bataille_;Y" src="manual">NNMXX-----A----</AM>
+<AM lemma="Bataille-1_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-99-p4s6w10">

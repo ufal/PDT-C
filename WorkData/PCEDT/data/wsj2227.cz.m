@@ -12256,7 +12256,8 @@
 <tag>
 <AM lemma="Cata_;G" src="auto">NNFS5-----A----</AM>
 <AM lemma="Kato_;Y_,x" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Cato_;m" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="Cato_;m" src="manual">NNNS1-----A----</AM>
+<AM lemma="Cato-2_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2227-001-p1s34W7-Ta">

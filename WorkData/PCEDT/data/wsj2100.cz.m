@@ -7606,7 +7606,9 @@
 <AM lemma="bon" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="bon" src="auto">NNIS4-----A----</AM>
 <AM lemma="bona" src="auto">NNFP2-----A----</AM>
-<AM lemma="Bon-2_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Bon-2_;Y" src="manual">NNMXX-----A----</AM>
+<AM lemma="Bon_Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Bon_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2100-001-p1s23W19-Ta">

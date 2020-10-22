@@ -2305,7 +2305,8 @@
 <tag>
 <AM lemma="Bohuš_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Bohuša-1_;Y" src="auto">NNFP2-----A----</AM>
-<AM lemma="Bohuš-2_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Bohuš-2_;Y" src="manual">NNFS1-----A----</AM>
+<AM lemma="Bohuša-1_;Y" src="manual" selected="1">NNFS1-----A---1</AM>
 </tag>
 </m>
 <m id="m048-d1e2345-x3-469">

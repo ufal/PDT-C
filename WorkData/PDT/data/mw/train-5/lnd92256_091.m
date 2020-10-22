@@ -1035,7 +1035,8 @@
 <form>Boulder</form>
 <tag>
 <AM lemma="Boulder_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Boulder-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Boulder-77" src="manual">F%-------------</AM>
+<AM lemma="Boulder_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-091-p4s4w18">

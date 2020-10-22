@@ -4379,7 +4379,8 @@
 <AM lemma="Bausch_;Y" src="auto">NNFXX-----A----</AM>
 <AM lemma="Bausch_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Bausch.1_;m" src="manual">NNIS1-----A----</AM>
-<AM lemma="Bausch-1_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Bausch-1_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Bausch-3_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2144-001-p1s18W5-Ta">

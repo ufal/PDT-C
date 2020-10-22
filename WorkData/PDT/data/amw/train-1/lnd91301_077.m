@@ -208,10 +208,11 @@
 </w.rf>
 <form>Belleville</form>
 <tag>
-<AM lemma="Belleville_;G" src="orig" selected="1">NNNXX-----A----</AM>
+<AM lemma="Belleville_;G" src="orig">NNNXX-----A----</AM>
 <AM lemma="Belleville_;G" src="auto">NNNS1-----A----</AM>
 <AM lemma="Belleville_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Belleville_;G" src="auto" recommended="1">NNNS5-----A----</AM>
+<AM lemma="Belleville_;G" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-077-p3s1w10">

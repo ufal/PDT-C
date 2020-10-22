@@ -1303,10 +1303,10 @@
 <form>ACCO</form>
 <tag>
 <AM lemma="Acca_;m" src="auto">NNFS5-----A----</AM>
-<AM lemma="Acco_;m" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="Acco_;m" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
 <AM lemma="Acco_;m" src="auto">NNNS4-----A----</AM>
 <AM lemma="Acco_;m" src="auto">NNNS5-----A----</AM>
-<AM lemma="ACCO-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ACCO-88" src="manual">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2259-001-p1s3W13-Ta">

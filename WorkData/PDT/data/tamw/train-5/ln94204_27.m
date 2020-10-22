@@ -2331,12 +2331,13 @@
 </w.rf>
 <form>Bernarda</form>
 <tag>
-<AM lemma="Bernard-2_;m" src="orig" selected="1">NNIS2-----A----</AM>
+<AM lemma="Bernard-2_;m" src="orig">NNIS2-----A----</AM>
 <AM lemma="Bernard_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Bernard_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="Bernarda_;Y" src="auto">NNFS1-----A----</AM>
 <AM lemma="Bernardo_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Bernardo_;Y" src="auto">NNMS4-----A----</AM>
+<AM lemma="Bernard-2_;m" src="manual" selected="1">NNIS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln94204-27-p6s1w3">

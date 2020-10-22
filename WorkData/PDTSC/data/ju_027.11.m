@@ -2422,7 +2422,8 @@
 <tag>
 <AM lemma="Báb_;G" src="auto" recommended="1">NNIS5-----A----</AM>
 <AM lemma="báb_,t_^(honosný_dům)" src="auto">NNIS5-----A----</AM>
-<AM lemma="Bábe_;G" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Bábe_;G" src="manual">NNNXX-----A----</AM>
+<AM lemma="Bábe_;G_,i_^(^DS**Baabe)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m027-d1e3036-x2-575">

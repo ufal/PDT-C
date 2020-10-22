@@ -6816,7 +6816,8 @@
 <tag>
 <AM lemma="China_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="Chino_;G" src="auto" recommended="1">NNNP2-----A----</AM>
-<AM lemma="Chino-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Chino-2_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Chin_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1817-001-p1s19W3-Ta">

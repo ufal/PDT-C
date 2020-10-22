@@ -3633,7 +3633,9 @@
 <AM lemma="Calcio_;G" src="orig">NNNS1-----A----</AM>
 <AM lemma="Calcio_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Calcio_;Y" src="auto">NNMS5-----A----</AM>
-<AM lemma="Calcio-2_;G" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="Calcio-2_;G" src="manual">NNNS1-----A----</AM>
+<AM lemma="Calcio-2_;m" src="manual">NNXXX-----A----</AM>
+<AM lemma="Calcio-2_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-127-p21s1w10">

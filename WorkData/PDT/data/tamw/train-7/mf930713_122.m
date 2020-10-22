@@ -148,7 +148,8 @@
 <form>ADAST</form>
 <tag>
 <AM lemma="ADAST_:B_;m" src="auto">NNXXX-----A---8</AM>
-<AM lemma="ADAST-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ADAST-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="ADAST_;m_^(Adamovské_strojírny)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-122-p2s1Bw5">

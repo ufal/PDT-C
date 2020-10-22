@@ -1640,8 +1640,9 @@
 </w.rf>
 <form>Berkut</form>
 <tag>
-<AM lemma="Berkut_;m" src="orig" selected="1">NNXXX-----A----</AM>
+<AM lemma="Berkut_;m" src="orig">NNXXX-----A----</AM>
 <AM lemma="Berkut_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Berkut-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-046-p2s10w12">

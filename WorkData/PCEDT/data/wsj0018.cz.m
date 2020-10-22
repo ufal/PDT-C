@@ -1639,7 +1639,8 @@
 <form>Cray</form>
 <tag>
 <AM lemma="Cray_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Cray_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Cray_;Y" src="manual">NNMXX-----A----</AM>
+<AM lemma="Cray-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0018-001-p1s4W7-Ta">

@@ -977,12 +977,13 @@
 </w.rf>
 <form>ALEXANDRU</form>
 <tag>
-<AM lemma="Alexandru_;Y" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="Alexandru_;Y" src="orig">NNFS1-----A----</AM>
 <AM lemma="Alexandr_;Y" src="auto" recommended="1">NNMS3-----A---1</AM>
 <AM lemma="Alexandr_;Y" src="auto">NNMS6-----A---1</AM>
 <AM lemma="Alexandra_;Y_^(^FA*1)" src="auto">NNFS4-----A----</AM>
 <AM lemma="alexandr_^(pták)" src="auto">NNMS3-----A---1</AM>
 <AM lemma="alexandr_^(pták)" src="auto">NNMS6-----A---1</AM>
+<AM lemma="Alexandru_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 </s>

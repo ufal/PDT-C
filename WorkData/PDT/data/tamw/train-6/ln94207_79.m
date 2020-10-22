@@ -5685,10 +5685,10 @@
 </w.rf>
 <form>Bahnu</form>
 <tag>
-<AM lemma="Bahn_;m" src="orig">NNIS2-----A----</AM>
+<AM lemma="Bahn_;m" src="orig" selected="1">NNIS2-----A----</AM>
 <AM lemma="bahno" src="auto" recommended="1">NNNS3-----A----</AM>
 <AM lemma="bahno" src="auto">NNNS6-----A---1</AM>
-<AM lemma="Bahn" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Bahn" src="manual">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-79-p14s4w12">

@@ -2364,7 +2364,8 @@
 <tag>
 <AM lemma="Fomalhaut_;m_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="Fomalhaut_;G_,t" src="manual">NNXXX-----A----</AM>
-<AM lemma="Fomalhaut_;G" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Fomalhaut_;G" src="manual">NNXXX-----A----</AM>
+<AM lemma="Fomalhaut_;G" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-018-p5s5w32">
@@ -2386,7 +2387,8 @@
 <AM lemma="algol" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="algol" src="auto">NNIS4-----A----</AM>
 <AM lemma="Algol_;G_,t" src="manual">NNXXX-----A----</AM>
-<AM lemma="Algol_;G" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Algol_;G" src="manual">NNXXX-----A----</AM>
+<AM lemma="Algol_;G" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-018-p5s5w34">

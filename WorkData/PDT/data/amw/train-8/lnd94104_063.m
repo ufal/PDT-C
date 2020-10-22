@@ -1177,7 +1177,9 @@
 <AM lemma="Claudius_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Claudius_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="Claudia_;Y_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Claudia_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Claudia_;Y" src="manual">NNFXX-----A----</AM>
+<AM lemma="Claudie_;Y_,s_^(^DD**Klaudie)" src="manual">NNFS1-----A----</AM>
+<AM lemma="Claudie_;Y_,s_^(^DD**Klaudie)" src="manual" selected="1">NNFS1-----A---1</AM>
 </tag>
 </m>
 <m id="m-lnd94104-063-p1s8w15">

@@ -181,7 +181,8 @@
 <AM lemma="Baden_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="baden_;U_^(geologické_období)" src="auto">NNIS1-----A----</AM>
 <AM lemma="baden_;U_^(geologické_období)" src="auto">NNIS4-----A----</AM>
-<AM lemma="Baden_;G" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="Baden_;G" src="manual">NNIXX-----A----</AM>
+<AM lemma="Baden-1_;G" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1250-001-p1s0W13-Ta">

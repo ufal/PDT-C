@@ -1019,12 +1019,13 @@
 </w.rf>
 <form>Alexandra</form>
 <tag>
-<AM lemma="Alexandre_;Y" src="orig" selected="1">NNMS2-----A----</AM>
+<AM lemma="Alexandre_;Y" src="orig">NNMS2-----A----</AM>
 <AM lemma="Alexandr_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Alexandr_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="Alexandra_;Y_^(^FA*1)" src="auto">NNFS1-----A----</AM>
 <AM lemma="alexandr_^(pták)" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="alexandr_^(pták)" src="auto">NNMS4-----A----</AM>
+<AM lemma="Alexandre_;Y" src="manual" selected="1">NNMS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln94207-33-p2s5w6">

@@ -7673,7 +7673,10 @@
 <LM>w#w-wsj0450-001-p1s24W13</LM>
 </w.rf>
 <form>Charlottesville</form>
-<tag lemma="Charlottesville_;G" src="auto" recommended="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Charlottesville_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Charlottesville_;G" src="manual" selected="1">NNIXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0450-001-p1s24W14-Ta">
 <src.rf>tagger-a</src.rf>

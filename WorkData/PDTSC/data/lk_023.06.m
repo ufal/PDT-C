@@ -2899,7 +2899,8 @@
 <AM lemma="brožový" src="auto">AANS1----1A---6</AM>
 <AM lemma="brožový" src="auto">AANS4----1A---6</AM>
 <AM lemma="brožový" src="auto">AANS5----1A---6</AM>
-<AM lemma="Brož_;Y" src="manual" selected="1">NNMS1-----A---6</AM>
+<AM lemma="Brož_;Y" src="manual">NNMS1-----A---6</AM>
+<AM lemma="Brožový_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m023-2941-2950">

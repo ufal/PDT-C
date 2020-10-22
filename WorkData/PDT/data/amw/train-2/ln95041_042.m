@@ -4357,7 +4357,8 @@
 <form>Bubo</form>
 <tag>
 <AM lemma="bubo_;U" src="orig">NNIS1-----A----</AM>
-<AM lemma="Bubo_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Bubo_;Y" src="manual">NNFS1-----A----</AM>
+<AM lemma="Bubo_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-042-p10s2w12">

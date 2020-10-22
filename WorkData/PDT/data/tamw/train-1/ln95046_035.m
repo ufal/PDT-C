@@ -728,8 +728,8 @@
 </w.rf>
 <form>Chovanců</form>
 <tag>
-<AM lemma="Chovanec_;Y" src="orig">NNMP2-----A----</AM>
-<AM lemma="Chovanců_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Chovanec_;Y" src="orig" selected="1">NNMP2-----A----</AM>
+<AM lemma="Chovanců_;Y" src="manual">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-035-p3s1Aw43">

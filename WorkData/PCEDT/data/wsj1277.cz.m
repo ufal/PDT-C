@@ -521,6 +521,7 @@
 <tag>
 <AM lemma="Chesapeake_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Chesapeake_;G" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="Chesapeake_;G" src="manual">NNIXX-----A----</AM>
 <AM lemma="Chesapeake_;G" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>

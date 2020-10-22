@@ -14299,6 +14299,7 @@
 <AM lemma="Alamos_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Alamos_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Alamos_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Alamos-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1550-001-p1s45W9-Ta">

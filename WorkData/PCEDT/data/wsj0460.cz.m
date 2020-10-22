@@ -716,7 +716,8 @@
 <tag>
 <AM lemma="Cetus_;G_^(souhvězdí_Velryba)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Cetus_;G_^(souhvězdí_Velryba)" src="auto">NNIS4-----A----</AM>
-<AM lemma="Cetus_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Cetus_;m" src="manual">NNXXX-----A----</AM>
+<AM lemma="Cetus_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0460-001-p1s3W3-Ta">

@@ -3033,6 +3033,8 @@
 <AM lemma="Bory_;G" src="auto" recommended="1">NNIP2-----A----</AM>
 <AM lemma="bor" src="auto">NNIS1-----A----</AM>
 <AM lemma="bor" src="auto">NNIS4-----A----</AM>
+<AM lemma="Bory_;G" src="manual">NNIP2-----A---1</AM>
+<AM lemma="Bory-2_;G" src="manual" selected="1">NNIP2-----A---1</AM>
 </tag>
 </m>
 <m id="m025-d-id99594-punct">

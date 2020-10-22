@@ -1197,8 +1197,9 @@
 </w.rf>
 <form>Capitole</form>
 <tag>
-<AM lemma="Capitole_;m" src="orig" selected="1">NNIXX-----A----</AM>
+<AM lemma="Capitole_;m" src="orig">NNIXX-----A----</AM>
 <AM lemma="Kapitol_;G_,x" src="auto" recommended="1">NNIS5-----A----</AM>
+<AM lemma="Capitole_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-34-p3s5w19">

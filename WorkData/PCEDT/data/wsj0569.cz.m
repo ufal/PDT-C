@@ -10641,7 +10641,8 @@
 <AM lemma="aliance" src="auto">NNFS1-----A----</AM>
 <AM lemma="aliance" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="aliance" src="auto">NNFS5-----A----</AM>
-<AM lemma="Aliance_;m" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Aliance_;m" src="manual">NNFXX-----A----</AM>
+<AM lemma="Aliance_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0569-001-p1s42W12-Ta">

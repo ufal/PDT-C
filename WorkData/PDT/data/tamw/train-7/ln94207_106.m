@@ -52,7 +52,8 @@
 <AM lemma="Bilbao_;G_,x" src="auto">NNNS5-----A----</AM>
 <AM lemma="Bilbo_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Bilbo_;Y" src="auto">NNMS5-----A----</AM>
-<AM lemma="Bilbo-2_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Bilbo-2_;Y" src="manual">NNMXX-----A----</AM>
+<AM lemma="Bilbo-1_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-106-p2s1w4">

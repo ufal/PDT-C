@@ -4306,9 +4306,9 @@
 </w.rf>
 <form>Boeskyho</form>
 <tag>
-<AM lemma="Boesky_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Boesky_;Y" src="auto" selected="1">NNMS2-----A----</AM>
 <AM lemma="Boesky_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Boeskyho_;Y_^(*2)" src="manual" selected="1">AUMS1M---------</AM>
+<AM lemma="Boeskyho_;Y_^(*2)" src="manual">AUMS1M---------</AM>
 </tag>
 </m>
 <m id="m-wsj1022-001-p1s11W21-Ta">
@@ -4809,9 +4809,9 @@
 </w.rf>
 <form>Boeskyho</form>
 <tag>
-<AM lemma="Boesky_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Boesky_;Y" src="auto" selected="1">NNMS2-----A----</AM>
 <AM lemma="Boesky_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Boeskyho_;Y_^(*2)" src="manual" selected="1">AUIS4M---------</AM>
+<AM lemma="Boeskyho_;Y_^(*2)" src="manual">AUIS4M---------</AM>
 </tag>
 </m>
 <m id="m-wsj1022-001-p1s12W14-Ta">

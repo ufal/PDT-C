@@ -10770,7 +10770,8 @@
 <form>Carol</form>
 <tag>
 <AM lemma="Carola_;Y" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="Carol-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Carol-2_;m" src="manual">NNXXX-----A----</AM>
+<AM lemma="Carol_;Y_;m" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0956-001-p1s38W4-Ta">

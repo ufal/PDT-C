@@ -184,7 +184,9 @@
 <form>Bubo</form>
 <tag>
 <AM lemma="bubo_;U" src="orig">NNIS1-----A----</AM>
-<AM lemma="Bubo_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Bubo_;m" src="manual">NNNXX-----A----</AM>
+<AM lemma="Bubo_;m" src="manual">NNFXX-----A----</AM>
+<AM lemma="Bubo_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-043-p1s1w22">

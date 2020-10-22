@@ -1169,10 +1169,11 @@
 </w.rf>
 <form>Bulla</form>
 <tag>
-<AM lemma="Bull_;Y" src="orig" selected="1">NNMS2-----A----</AM>
+<AM lemma="Bull_;Y" src="orig">NNMS2-----A----</AM>
 <AM lemma="Bulla_;G" src="auto">NNFS1-----A----</AM>
 <AM lemma="Bulla_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="bula_,a_,x" src="auto">NNFS1-----A----</AM>
+<AM lemma="Bull-2_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-054-p3s1w9">

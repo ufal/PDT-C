@@ -1411,11 +1411,12 @@
 </w.rf>
 <form>Antoniu</form>
 <tag>
-<AM lemma="Antonio-2_;G" src="orig" selected="1">NNNS1-----A----</AM>
+<AM lemma="Antonio-2_;G" src="orig">NNNS1-----A----</AM>
 <AM lemma="Antonio_;Y_,t" src="auto">NNMS3-----A---1</AM>
 <AM lemma="Antonio_;Y_,t" src="auto">NNMS6-----A---1</AM>
 <AM lemma="Antonius_;Y" src="auto">NNMS3-----A---1</AM>
 <AM lemma="Antonius_;Y" src="auto" recommended="1">NNMS6-----A---1</AM>
+<AM lemma="Antonio-2_;G" src="manual" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-127-p7s1w30">

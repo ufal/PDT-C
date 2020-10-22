@@ -8140,7 +8140,8 @@
 <AM lemma="Columbo_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="Columbus_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Columbus_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Columbus_;G_;m" src="manual" selected="1">NNIS2-----A---1</AM>
+<AM lemma="Columbus_;G_;m" src="manual">NNIS2-----A---1</AM>
+<AM lemma="Columbus-2_;G_;m" src="manual" selected="1">NNIS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-wsj1556-001-p1s23W18-Ta">

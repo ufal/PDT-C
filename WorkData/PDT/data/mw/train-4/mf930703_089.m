@@ -2713,10 +2713,10 @@
 <tag>
 <AM lemma="Bělorusko_:B_;G" src="orig">NNNXX-----A---8</AM>
 <AM lemma="Běloruska_;E" src="auto">NNFS5-----A----</AM>
-<AM lemma="Bělorusko_;G" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="Bělorusko_;G" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
 <AM lemma="Bělorusko_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Bělorusko_;G" src="auto">NNNS5-----A----</AM>
-<AM lemma="Bělorusko_;G" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="Bělorusko_;G" src="manual">NNNXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-mf930703-089-p7s1w27">

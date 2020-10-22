@@ -143,7 +143,8 @@
 <form>Ben</form>
 <tag>
 <AM lemma="Ben-1_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ben-2_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Ben-2_;Y" src="manual">NNXXX-----A----</AM>
+<AM lemma="Ben-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-120-p1s1w16">

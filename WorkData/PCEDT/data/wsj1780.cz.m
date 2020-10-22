@@ -7056,7 +7056,9 @@
 <tag>
 <AM lemma="Amr_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Amra_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Amr-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Amr-77" src="manual">F%-------------</AM>
+<AM lemma="AMR-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="AMR-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1780-001-p1s23W5-Ta">

@@ -1541,8 +1541,8 @@
 </w.rf>
 <form>AIR</form>
 <tag>
-<AM lemma="Air_;m" src="orig" selected="1">NNIXX-----A----</AM>
-<AM lemma="Air_;m" src="auto">NNIS1-----A----</AM>
+<AM lemma="Air_;m" src="orig">NNIXX-----A----</AM>
+<AM lemma="Air_;m" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="Air_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="air_,t" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="air_,t" src="auto">NNIS4-----A----</AM>

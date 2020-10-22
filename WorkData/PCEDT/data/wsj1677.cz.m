@@ -10356,7 +10356,8 @@
 <AM lemma="Chantilly_;G" src="auto">NNIP4-----A----</AM>
 <AM lemma="Chantilly_;G" src="auto">NNIP5-----A----</AM>
 <AM lemma="Chantilly_;G" src="auto">NNIP7-----A----</AM>
-<AM lemma="Chantilly_;G" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Chantilly_;G" src="manual">NNXXX-----A----</AM>
+<AM lemma="Chantilly_;G" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1677-001-p1s37W8-Ta">

@@ -159,7 +159,8 @@
 <AM lemma="bill_,t" src="auto">NNIP4-----A----</AM>
 <AM lemma="bill_,t" src="auto">NNIP5-----A----</AM>
 <AM lemma="bill_,t" src="auto">NNIP7-----A----</AM>
-<AM lemma="Billy-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Billy-2_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Billy-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-020-p3s2w11">

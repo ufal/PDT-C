@@ -2248,10 +2248,11 @@
 </w.rf>
 <form>Aroma</form>
 <tag>
-<AM lemma="Aroma_;m" src="orig" selected="1">NNXXX-----A----</AM>
+<AM lemma="Aroma_;m" src="orig">NNXXX-----A----</AM>
 <AM lemma="aróma" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="aróma" src="auto">NNNS4-----A----</AM>
 <AM lemma="aróma" src="auto">NNNS5-----A----</AM>
+<AM lemma="Aroma_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-22-p7s2w17">

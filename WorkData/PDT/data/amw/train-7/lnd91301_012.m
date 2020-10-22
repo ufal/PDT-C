@@ -2970,7 +2970,8 @@
 <form>Astorové</form>
 <tag>
 <AM lemma="Astor_;Y" src="orig">NNMP1-----A----</AM>
-<AM lemma="Astorová_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Astorová_;Y" src="manual">NNFS1-----A----</AM>
+<AM lemma="Astorová_;Y" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-012-p6s3w40">

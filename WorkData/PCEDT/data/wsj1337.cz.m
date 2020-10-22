@@ -4494,7 +4494,8 @@
 <AM lemma="Aoki_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Aoki_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Aoki_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Aoki_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Aoki_;m" src="manual">NNXXX-----A----</AM>
+<AM lemma="Aoki-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1337-001-p1s17W3-Ta">

@@ -432,7 +432,8 @@
 <AM lemma="Cliv_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Clive_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Clive_;Y" src="auto">NNMS5-----A----</AM>
-<AM lemma="Clive-2_;G" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Clive-2_;G" src="manual">NNNXX-----A----</AM>
+<AM lemma="Clive-2_;G" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0076-001-p1s2W14-Ta">

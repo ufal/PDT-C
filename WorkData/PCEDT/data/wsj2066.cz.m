@@ -1766,7 +1766,8 @@
 <tag>
 <AM lemma="Carmelo_;G" src="auto" recommended="1">NNNS3-----A----</AM>
 <AM lemma="Carmelo_;G" src="auto">NNNS6-----A---1</AM>
-<AM lemma="Carmel_;G" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Carmel_;G" src="manual">NNIS2-----A----</AM>
+<AM lemma="Carmel-2_;G" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2066-001-p1s3W9-Ta">

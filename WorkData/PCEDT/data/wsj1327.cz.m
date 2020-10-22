@@ -11080,7 +11080,8 @@
 <form>Baker</form>
 <tag>
 <AM lemma="Baker_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Baker_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Baker_;Y" src="manual">NNFS1-----A----</AM>
+<AM lemma="Baker-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1327-001-p1s43W6-Ta">

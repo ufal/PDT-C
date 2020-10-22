@@ -33,7 +33,8 @@
 <form>Clarence</form>
 <tag>
 <AM lemma="Clarence_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Clarence-2_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Clarence-2_;Y" src="manual">NNMXX-----A----</AM>
+<AM lemma="Clarence-2_;Y" src="manual" selected="1">NNMS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-wsj0181-001-p1s0W3-Ta">

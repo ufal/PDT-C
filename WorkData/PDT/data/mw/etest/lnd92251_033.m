@@ -20,8 +20,9 @@
 </w.rf>
 <form>SILICIUM</form>
 <tag>
-<AM lemma="silicium" src="orig" selected="1">NNNS1-----A----</AM>
+<AM lemma="silicium" src="orig">NNNS1-----A----</AM>
 <AM lemma="SILICIUM-77" src="manual">F%-------------</AM>
+<AM lemma="Silicium-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92251-033-p1s1w2">
@@ -32,8 +33,9 @@
 <form>BOHEMICA</form>
 <tag>
 <AM lemma="Bohemica_;m" src="orig">AAXXX----1A---8</AM>
-<AM lemma="Bohemica" src="auto" recommended="1" selected="1">AAXXX----1A----</AM>
+<AM lemma="Bohemica" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="BOHEMICA-77" src="manual">F%-------------</AM>
+<AM lemma="Bohemica-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92251-033-p1s1w3">

@@ -2958,7 +2958,8 @@
 <AM lemma="Art-1_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
 <AM lemma="Arto_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Arto_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="ARTA-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="ARTA-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Arta_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-040-p2s25w8">

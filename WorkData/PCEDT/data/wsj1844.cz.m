@@ -20054,7 +20054,9 @@
 <AM lemma="aktinium_:B_;U" src="auto">NNNXX-----A---8</AM>
 <AM lemma="altocumulus_:B" src="auto">NNIXX-----A---8</AM>
 <AM lemma="acidum_:B_;U_,t" src="auto">NNNXX-----A---8</AM>
-<AM lemma="Ac-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Ac-77" src="manual">F%-------------</AM>
+<AM lemma="AC-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="AC-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1844-001-p1s66W3-Ta">
@@ -20073,11 +20075,11 @@
 <form>R</form>
 <tag>
 <AM lemma="R-33" src="auto">Q3-------------</AM>
-<AM lemma="R-33" src="auto" recommended="1">Q3-------------</AM>
+<AM lemma="R-33" src="auto" recommended="1" selected="1">Q3-------------</AM>
 <AM lemma="R-33" src="auto">Q3-------------</AM>
 <AM lemma="r-88" src="auto">BNXXX-----A----</AM>
 <AM lemma="rok_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="R-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="R-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1844-001-p1s66W5-Ta">
