@@ -2143,7 +2143,8 @@
 <form>Lucie</form>
 <tag>
 <AM lemma="Lucie-1_;Y" src="orig">NNFS1-----A----</AM>
-<AM lemma="Lucius-2_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Lucius-2_;Y" src="manual">NNMS2-----A----</AM>
+<AM lemma="Lucie-1_;Y" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-048-p2s10w4">
@@ -2163,7 +2164,10 @@
 <LM>w#w-ln95045-048-p2s10w5</LM>
 </w.rf>
 <form>Lammermoor</form>
-<tag lemma="Lammermoor_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Lammermoor_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Lammermoor_;G" src="manual" selected="1">NNIXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95045-048-p2s10w6">
 <src.rf>manual</src.rf>
@@ -3436,7 +3440,8 @@
 <AM lemma="la-1" src="auto">II-------------</AM>
 <AM lemma="la-2_,t" src="auto">AAXXX----1A----</AM>
 <AM lemma="la-3_,t" src="auto">RF-------------</AM>
-<AM lemma="la-1_^(it._člen)" src="manual" selected="1">AAXXX----1A----</AM>
+<AM lemma="la-1_^(it._člen)" src="manual">AAXXX----1A----</AM>
+<AM lemma="La-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95045-048-p3s3w24">
@@ -3445,7 +3450,10 @@
 <LM>w#w-ln95045-048-p3s3w24</LM>
 </w.rf>
 <form>serra</form>
-<tag lemma="serra" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="serra" src="orig">NNFS1-----A----</AM>
+<AM lemma="serra-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95045-048-p3s3w25">
 <src.rf>manual</src.rf>

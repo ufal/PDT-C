@@ -3929,7 +3929,8 @@
 <tag>
 <AM lemma="Pearl_;Y" src="orig">NNFS1-----A----</AM>
 <AM lemma="Pearl_;G_,t_^(Pearl_Harbor)" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Pearl-2_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Pearl-2_;Y" src="manual">NNFS1-----A----</AM>
+<AM lemma="Pearl-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-100-p8s5w9">

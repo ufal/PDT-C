@@ -403,7 +403,8 @@
 <AM lemma="Illinois" src="auto">NNIS7-----A---1</AM>
 <AM lemma="Illinois_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Illinois_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Illinois-2_;G" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Illinois-2_;G" src="manual">NNXXX-----A----</AM>
+<AM lemma="Illinois_;G_;m" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0135-001-p1s1W5-Ta">
@@ -1116,10 +1117,10 @@
 <w.rf>
 <LM>w#w-wsj0135-001-p1s3W14</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>neboli</form>
-<tag>
-<AM lemma="neboli" src="auto" recommended="1">J^-------------</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="neboli" src="auto" recommended="1">J^-------------</tag>
+</m>
 <m id="m-wsj0135-001-p1s3W15-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -988,7 +988,8 @@
 <AM lemma="Jeruzalém_;G_,x" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Jeruzalém_;G_,x" src="auto">NNIS4-----A----</AM>
 <AM lemma="Jeruzalém-2_;Y_,x" src="manual">NNMS1-----A----</AM>
-<AM lemma="Jeruzalém-2_;Y_,s_^(^DD**Jeruzalém)" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Jeruzalém-2_;Y_,s_^(^DD**Jeruzalém)" src="manual">NNMS1-----A----</AM>
+<AM lemma="Jerusalém-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-154-p11s3w2">

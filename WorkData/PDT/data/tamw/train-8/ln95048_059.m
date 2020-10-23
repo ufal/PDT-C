@@ -2445,7 +2445,8 @@
 <tag>
 <AM lemma="Hones_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="Hones_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Hones-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Hones-2_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Hones-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-059-p6s2w40">
@@ -3537,9 +3538,9 @@
 <tag>
 <AM lemma="Hones_;m" src="orig">NNIS2-----A----</AM>
 <AM lemma="Hones_;Y" src="auto">NNMP4-----A----</AM>
-<AM lemma="Hones_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Hones_;Y" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
 <AM lemma="Hones_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Hones-2_;m" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Hones-2_;m" src="manual">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-059-p8s4w24">

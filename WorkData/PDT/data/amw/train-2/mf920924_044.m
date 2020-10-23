@@ -1759,7 +1759,10 @@
 <LM>w#w-mf920924-044-p2s7w23</LM>
 </w.rf>
 <form>Qui</form>
-<tag lemma="Qui_;Y" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="Qui_;Y" src="orig">NNXXX-----A----</AM>
+<AM lemma="Qui_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-044-p2s7w24">
 <src.rf>manual</src.rf>
@@ -1768,9 +1771,10 @@
 </w.rf>
 <form>Ju</form>
 <tag>
-<AM lemma="Ju_;Y" src="orig" selected="1">NNXXX-----A----</AM>
+<AM lemma="Ju_;Y" src="orig">NNXXX-----A----</AM>
 <AM lemma="ju-1" src="auto" recommended="1">II-------------</AM>
 <AM lemma="ju-2_,a" src="auto">TT-------------</AM>
+<AM lemma="Ju_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-044-p2s7w25">

@@ -369,7 +369,10 @@
 <LM>w#w-lnd92255-111-p7s1w7</LM>
 </w.rf>
 <form>Kozlík</form>
-<tag lemma="kozlík" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="kozlík" src="orig">NNMS1-----A----</AM>
+<AM lemma="Kozlík_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-lnd92255-111-p8s1">

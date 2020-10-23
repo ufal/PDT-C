@@ -1412,10 +1412,11 @@
 </w.rf>
 <form>Marysko</form>
 <tag>
-<AM lemma="Marysko_;Y" src="orig" selected="1">NNXXX-----A----</AM>
+<AM lemma="Marysko_;Y" src="orig">NNXXX-----A----</AM>
 <AM lemma="Maryska_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Marysko_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Marysko_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Marysko-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-105-p4s3w28">

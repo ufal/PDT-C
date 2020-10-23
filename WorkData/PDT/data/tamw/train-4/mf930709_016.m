@@ -1077,10 +1077,11 @@
 </w.rf>
 <form>Koutů</form>
 <tag>
-<AM lemma="Kouty_;G" src="orig" selected="1">NNIP2-----A----</AM>
+<AM lemma="Kouty_;G" src="orig">NNIP2-----A----</AM>
 <AM lemma="Kout-1_;Y" src="auto">NNMP2-----A----</AM>
 <AM lemma="Kout_;G" src="auto" recommended="1">NNIP2-----A----</AM>
 <AM lemma="kout_^(př._dát_něco_do_kouta)" src="auto">NNIP2-----A----</AM>
+<AM lemma="Kouty_;G" src="manual" selected="1">NNIP2-----A---1</AM>
 </tag>
 </m>
 <m id="m-mf930709-016-p4s2w11">

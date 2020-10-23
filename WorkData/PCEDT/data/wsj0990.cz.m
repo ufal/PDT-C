@@ -14137,7 +14137,8 @@
 <tag>
 <AM lemma="sisal" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="sisal" src="auto">NNIS4-----A----</AM>
-<AM lemma="SISAL-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="SISAL-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Sisal_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0990-001-p1s45W6-Ta">

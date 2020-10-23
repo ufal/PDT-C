@@ -3072,7 +3072,10 @@
 <LM>w#w-mf930703-093-p16s3w3</LM>
 </w.rf>
 <form>Kristie</form>
-<tag lemma="Kristie_;Y" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Kristie_;Y" src="orig">NNFXX-----A----</AM>
+<AM lemma="Kristie_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-093-p16s3w4">
 <src.rf>manual</src.rf>
@@ -5993,7 +5996,8 @@
 <form>Lottu</form>
 <tag>
 <AM lemma="Lotta_;G" src="orig">NNFS4-----A----</AM>
-<AM lemma="Lotto_;G_;m" src="manual" selected="1">NNNS4-----A----</AM>
+<AM lemma="Lotto_;G_;m" src="manual">NNNS4-----A----</AM>
+<AM lemma="Lotto_;G_;m" src="manual" selected="1">NNNS3-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-093-p28s1w10">

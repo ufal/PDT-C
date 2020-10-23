@@ -1918,7 +1918,8 @@
 <AM lemma="Mariany_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="Marián_;Y_,x" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="marianum" src="auto">NNNP2-----A----</AM>
-<AM lemma="Marian-2_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Marian-2_;Y" src="manual">NNFS1-----A----</AM>
+<AM lemma="Marian-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1162-001-p1s7W22-Ta">

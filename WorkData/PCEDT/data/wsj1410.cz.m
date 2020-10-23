@@ -10639,7 +10639,10 @@
 <LM>w#w-wsj1410-001-p1s29W5</LM>
 </w.rf>
 <form>Joann</form>
-<tag lemma="Joanna_;Y" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="Joanna_;Y" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="Joann-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1410-001-p1s29W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10682,7 +10685,8 @@
 <tag>
 <AM lemma="Lublin_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Lublin_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Lublin-2_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Lublin-2_;Y" src="manual">NNFS1-----A----</AM>
+<AM lemma="Lublin-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1410-001-p1s29W9-Ta">

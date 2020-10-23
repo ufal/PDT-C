@@ -1064,9 +1064,10 @@
 </w.rf>
 <form>Park</form>
 <tag>
-<AM lemma="Park_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Park_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="park" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="park" src="auto">NNIS4-----A----</AM>
+<AM lemma="Park-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-54-p4s2w5">

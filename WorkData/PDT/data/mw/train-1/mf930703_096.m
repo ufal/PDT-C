@@ -701,9 +701,10 @@
 </w.rf>
 <form>Riche</form>
 <tag>
-<AM lemma="Rich_;Y" src="orig" selected="1">NNMS2-----A----</AM>
+<AM lemma="Rich_;Y" src="orig">NNMS2-----A----</AM>
 <AM lemma="Riche_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Riche_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Rich_;Y" src="manual" selected="1">NNMS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-mf930703-096-p3s1w20">

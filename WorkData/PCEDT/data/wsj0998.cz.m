@@ -8410,7 +8410,8 @@
 <AM lemma="point" src="auto">NNIS5-----A----</AM>
 <AM lemma="pointe-77" src="auto">F%-------------</AM>
 <AM lemma="pointe_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Pointe_;G" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Pointe_;G" src="manual">NNXXX-----A----</AM>
+<AM lemma="Pointe-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0998-001-p1s29W33-Ta">

@@ -8179,7 +8179,8 @@
 <tag>
 <AM lemma="Kika_;Y_,t" src="auto">NNFS5-----A----</AM>
 <AM lemma="Kiko_;Y" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Kiko-2_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Kiko-2_;Y" src="manual">NNXXX-----A----</AM>
+<AM lemma="Kiko_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0804-001-p1s38W15-Ta">
@@ -8190,7 +8191,8 @@
 <form>Matsing</form>
 <tag>
 <AM lemma="Matsing" src="auto">X@-------------</AM>
-<AM lemma="Matsing_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Matsing_;Y" src="manual">NNXXX-----A----</AM>
+<AM lemma="Matsing_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0804-001-p1s38W16-Ta">

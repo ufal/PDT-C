@@ -696,10 +696,11 @@
 </w.rf>
 <form>Ra</form>
 <tag>
-<AM lemma="Ra_;m" src="orig" selected="1">NNFXX-----A----</AM>
+<AM lemma="Ra_;m" src="orig">NNFXX-----A----</AM>
 <AM lemma="Ra-2_:B_;U_^(radium)" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="Ra_:B" src="auto">NNXXX-----A---8</AM>
 <AM lemma="ra-1_:B_,t_^(radiatus,_druh_oblaku)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="Ra_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-051-p2s5w8">

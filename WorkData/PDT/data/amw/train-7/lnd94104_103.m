@@ -367,7 +367,8 @@
 <AM lemma="Galatasaray_;G" src="auto">NNIP4-----A----</AM>
 <AM lemma="Galatasaray_;G" src="auto">NNIP5-----A----</AM>
 <AM lemma="Galatasaray_;G" src="auto">NNIP7-----A----</AM>
-<AM lemma="Galatasaray_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Galatasaray_;G_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Galatasaray_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-103-p1s4w8">

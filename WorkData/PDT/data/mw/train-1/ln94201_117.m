@@ -4316,7 +4316,10 @@
 <LM>w#w-ln94201-117-p5s5w22</LM>
 </w.rf>
 <form>Huga</form>
-<tag lemma="Hugo-2_;G" src="auto" selected="1">NNNS2-----A----</tag>
+<tag>
+<AM lemma="Hugo-2_;G" src="auto">NNNS2-----A----</AM>
+<AM lemma="Hugo_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-117-p5s5w23">
 <src.rf>manual</src.rf>

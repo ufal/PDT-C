@@ -3634,7 +3634,9 @@
 <form>Renaultka</form>
 <tag>
 <AM lemma="renaultek" src="auto" recommended="1">NNIS2-----A---6</AM>
-<AM lemma="renaultek" src="manual" selected="1">NNMS4-----A---6</AM>
+<AM lemma="renaultek" src="manual">NNMS4-----A---6</AM>
+<AM lemma="Renaultek_;m" src="manual">NNMS4-----A---1</AM>
+<AM lemma="Renaultek_;m" src="manual" selected="1">NNIS4-----A---1</AM>
 </tag>
 </m>
 <m id="m146-793-1044">

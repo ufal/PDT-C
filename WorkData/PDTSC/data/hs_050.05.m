@@ -5430,10 +5430,10 @@
 <AM lemma="Kamzík-1_;Y" src="auto" recommended="1">NNMS3-----A---1</AM>
 <AM lemma="Kamzík-1_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Kamzík-1_;Y" src="auto">NNMS6-----A---1</AM>
-<AM lemma="kamzík" src="auto">NNMS3-----A---1</AM>
+<AM lemma="kamzík" src="auto" selected="1">NNMS3-----A---1</AM>
 <AM lemma="kamzík" src="auto">NNMS5-----A----</AM>
 <AM lemma="kamzík" src="auto">NNMS6-----A---1</AM>
-<AM lemma="Kamzík-2_;G" src="manual" selected="1">NNIS3-----A----</AM>
+<AM lemma="Kamzík-2_;G" src="manual">NNIS3-----A----</AM>
 </tag>
 </m>
 <m id="m050-d1e1746-x2-793">

@@ -925,7 +925,8 @@
 <tag>
 <AM lemma="Marinos_;m_,t" src="orig">NNMXX-----A----</AM>
 <AM lemma="Marinos_;G" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Marinos_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Marinos_;m" src="manual">NNXXX-----A----</AM>
+<AM lemma="Marinos-1_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-124-p3s2w9">

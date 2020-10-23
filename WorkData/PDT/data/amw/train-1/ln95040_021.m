@@ -187,7 +187,8 @@
 <form>Queen</form>
 <tag>
 <AM lemma="Queen_;m_,t_^(hudební_skupina)" src="orig">NNFXX-----A----</AM>
-<AM lemma="Queen_;m_^(hudební_skupina)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Queen_;m_^(hudební_skupina)" src="manual">NNXXX-----A----</AM>
+<AM lemma="Queen-1_;m_^(hudební_skupina)" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-021-p2s1Cw6">

@@ -5271,7 +5271,8 @@
 <form>Ming</form>
 <tag>
 <AM lemma="Ming_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Ming-2_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Ming-2_;Y" src="manual">NNMXX-----A----</AM>
+<AM lemma="Ming_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-030-p11s2w6">

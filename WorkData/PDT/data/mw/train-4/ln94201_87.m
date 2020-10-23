@@ -6231,9 +6231,10 @@
 </w.rf>
 <form>Gloria</form>
 <tag>
-<AM lemma="Gloria_;m" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="Gloria_;m" src="orig">NNFS1-----A----</AM>
 <AM lemma="Glorie_;Y_,t" src="auto">NNFS1-----A---1</AM>
 <AM lemma="gloria" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Glorie_;Y_;m" src="manual" selected="1">NNFS1-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln94201-87-p5s3w29">

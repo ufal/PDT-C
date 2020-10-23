@@ -1492,9 +1492,10 @@
 </w.rf>
 <form>Hong</form>
 <tag>
-<AM lemma="Hong-2_;Y" src="orig" selected="1">NNMXX-----A----</AM>
+<AM lemma="Hong-2_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="Hong_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Hong_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Hong-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-091-p2s13w3">

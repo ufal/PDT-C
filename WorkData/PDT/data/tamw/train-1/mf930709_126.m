@@ -2815,7 +2815,10 @@
 <LM>w#w-mf930709-126-p66s1w2</LM>
 </w.rf>
 <form>Pár</form>
-<tag lemma="pár" src="orig" selected="1">Cn-S1----------</tag>
+<tag>
+<AM lemma="pár" src="orig">Cn-S1----------</AM>
+<AM lemma="pár-1" src="manual" selected="1">Ca--X----------</AM>
+</tag>
 </m>
 <m id="m-mf930709-126-p66s1w3">
 <src.rf>manual</src.rf>

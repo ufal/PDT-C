@@ -2440,12 +2440,13 @@
 </w.rf>
 <form>Krče</form>
 <tag>
-<AM lemma="Krč-2_;Y" src="orig" selected="1">NNMS2-----A----</AM>
+<AM lemma="Krč-2_;Y" src="orig">NNMS2-----A----</AM>
 <AM lemma="Krč_;G" src="auto">NNFP1-----A----</AM>
 <AM lemma="Krč_;G" src="auto">NNFP4-----A----</AM>
 <AM lemma="Krč_;G" src="auto">NNFP5-----A----</AM>
 <AM lemma="Krč_;G" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="krčit" src="auto">VeYS------A-I--</AM>
+<AM lemma="Krč-1_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-020-p6s2w8">

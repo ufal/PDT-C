@@ -711,7 +711,8 @@
 <AM lemma="malu_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="malo-2" src="auto" recommended="1">NNNS3-----A----</AM>
 <AM lemma="malo-2" src="auto">NNNS6-----A----</AM>
-<AM lemma="malu_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="malu_;Y" src="manual">NNMXX-----A----</AM>
+<AM lemma="malu" src="manual" selected="1">SNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-131-p2s4w5">

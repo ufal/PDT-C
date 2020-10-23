@@ -5115,7 +5115,11 @@
 <LM>w#w-lnd92255-080-p11s1w1</LM>
 </w.rf>
 <form>PÁR</form>
-<tag lemma="pár" src="orig" selected="1">Cn-S1----------</tag>
+<tag>
+<AM lemma="pár" src="orig">Cn-S1----------</AM>
+<AM lemma="pár" src="manual">Ca--X----------</AM>
+<AM lemma="pár-1" src="manual" selected="1">Ca--X----------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-080-p11s1w2">
 <src.rf>manual</src.rf>

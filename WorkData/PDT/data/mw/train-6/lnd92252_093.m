@@ -1415,7 +1415,10 @@
 <LM>w#w-lnd92252-093-p4s1w15</LM>
 </w.rf>
 <form>Kočí</form>
-<tag lemma="kočí" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="kočí" src="orig">NNMS1-----A----</AM>
+<AM lemma="Kočí-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92252-093-p4s1w16">
 <src.rf>manual</src.rf>

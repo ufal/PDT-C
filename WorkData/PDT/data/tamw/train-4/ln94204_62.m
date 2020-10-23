@@ -429,7 +429,10 @@
 <LM>w#w-ln94204-62-p3s1w11</LM>
 </w.rf>
 <form>Los</form>
-<tag lemma="Los_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Los_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Los-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-62-p3s1w12">
 <src.rf>manual</src.rf>

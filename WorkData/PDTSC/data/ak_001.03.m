@@ -1973,7 +1973,8 @@
 <tag>
 <AM lemma="Rigoletto_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Rigoletto_;Y_,t" src="auto">NNMS5-----A----</AM>
-<AM lemma="Rigoletto_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Rigoletto_;Y" src="manual">NNMXX-----A----</AM>
+<AM lemma="Rigoletto-3_;m" src="manual" selected="1">NNNS4-----A----</AM>
 </tag>
 </m>
 <m id="m001-1022-1046">

@@ -243,7 +243,10 @@
 <LM>w#w-lnd92259-072-p3s3w11</LM>
 </w.rf>
 <form>Paňdžáb</form>
-<tag lemma="Paňdžáb_;G" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Paňdžáb_;G" src="orig">NNMS1-----A----</AM>
+<AM lemma="Paňdžáb_;G" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92259-072-p3s3w12">
 <src.rf>manual</src.rf>

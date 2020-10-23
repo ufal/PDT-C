@@ -2711,7 +2711,8 @@
 <tag>
 <AM lemma="Noid_;Y" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Noid_;Y">NNMS4-----A----</AM>
-<AM lemma="Noida-2_;G" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Noida-2_;G" src="manual">NNFS1-----A----</AM>
+<AM lemma="Noida-2_;G_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="mu_20-SCzechM-p2133-s1-w28">

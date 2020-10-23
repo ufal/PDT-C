@@ -2026,7 +2026,8 @@
 <AM lemma="José_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="José_;Y" src="auto">NNMS6-----A---1</AM>
 <AM lemma="José_;Y" src="auto">NNMS7-----A---1</AM>
-<AM lemma="José_;G" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="José_;G" src="manual">NNNXX-----A----</AM>
+<AM lemma="José-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95043-024-p2s10w10">

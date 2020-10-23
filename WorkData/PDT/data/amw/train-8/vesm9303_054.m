@@ -9382,8 +9382,8 @@
 </w.rf>
 <form>Maksutova</form>
 <tag>
-<AM lemma="Maksutův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</AM>
-<AM lemma="Maksutov_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Maksutův_;Y_^(*2)" src="orig">AUFS1M---------</AM>
+<AM lemma="Maksutov_;Y" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
 <AM lemma="Maksutov_;Y" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>
@@ -14715,7 +14715,10 @@
 <LM>w#w-vesm9303-054-p16s5w13</LM>
 </w.rf>
 <form>Livermore</form>
-<tag lemma="Livermore_;G" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Livermore_;G" src="orig">NNNXX-----A----</AM>
+<AM lemma="Livermore_;G_;m" src="manual" selected="1">NNIXX-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9303-054-p16s5w14">
 <src.rf>manual</src.rf>

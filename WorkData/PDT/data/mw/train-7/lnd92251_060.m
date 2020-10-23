@@ -1664,7 +1664,9 @@
 <form>Renamo</form>
 <tag>
 <AM lemma="Renamo_:B_;m_,t_^(Resistencia_Nacional_Mocambicana)" src="auto">NNNS1-----A----</AM>
-<AM lemma="Renamo-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Renamo-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Renamo_;m_^(Resistencia_Nacional_Mocambicana)" src="manual">NNNS1-----A----</AM>
+<AM lemma="Renamo_;m_^(Resistencia_Nacional_Mocambicana)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-060-p5s2w3">

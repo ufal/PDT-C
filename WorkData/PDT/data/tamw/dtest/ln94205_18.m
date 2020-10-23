@@ -155,7 +155,8 @@
 <AM lemma="Natal_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Natal_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Natal_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Natal-2_;m" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Natal-2_;m" src="manual">NNMS1-----A----</AM>
+<AM lemma="Natal_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-18-p2s1Bw10">

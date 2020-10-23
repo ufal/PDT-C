@@ -2700,8 +2700,8 @@
 </w.rf>
 <form>Kim</form>
 <tag>
-<AM lemma="Kim_;Y" src="orig" selected="1">NNMXX-----A----</AM>
-<AM lemma="Kim-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Kim_;Y" src="orig">NNMXX-----A----</AM>
+<AM lemma="Kim-1_;Y" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 <AM lemma="Kim-2_;Y" src="auto">NNFXX-----A----</AM>
 </tag>
 </m>
@@ -2731,12 +2731,13 @@
 </w.rf>
 <form>sen</form>
 <tag>
-<AM lemma="sen-2_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="sen-2_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="sen" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="sen" src="auto">NNIS4-----A----</AM>
 <AM lemma="sen-1_,t_^(měnová_jednotka)" src="auto">NNIS1-----A----</AM>
 <AM lemma="sen-1_,t_^(měnová_jednotka)" src="auto">NNIS4-----A----</AM>
 <AM lemma="seno" src="auto">NNNP2-----A----</AM>
+<AM lemma="sen-3" src="manual" selected="1">SNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-141-p2s16w6">

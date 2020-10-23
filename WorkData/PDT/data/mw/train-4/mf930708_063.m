@@ -139,7 +139,8 @@
 <form>Kun</form>
 <tag>
 <AM lemma="kuna" src="orig">NNFP2-----A----</AM>
-<AM lemma="Kun" src="manual" selected="1">S2--------A----</AM>
+<AM lemma="Kun" src="manual">S2--------A----</AM>
+<AM lemma="Kun-2" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-063-p4s1w7">

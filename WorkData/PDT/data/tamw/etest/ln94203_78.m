@@ -980,7 +980,8 @@
 <AM lemma="Kerr_;Y" src="auto">NNMP7-----A----</AM>
 <AM lemma="Kerry_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Kerry_;Y" src="auto">NNMS5-----A----</AM>
-<AM lemma="Kerry-2_;G" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Kerry-2_;G" src="manual">NNNXX-----A----</AM>
+<AM lemma="Kerry-2_;G" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-78-p2s5w31">

@@ -1429,7 +1429,7 @@
 </w.rf>
 <form>Leo</form>
 <tag>
-<AM lemma="Leo_;Y" src="orig" selected="1">NNMXX-----A----</AM>
+<AM lemma="Leo_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="Lea_;Y" src="auto">NNFS5-----A----</AM>
 <AM lemma="Leo_;G" src="auto">NNNS1-----A----</AM>
 <AM lemma="Leo_;G" src="auto">NNNS4-----A----</AM>
@@ -1441,6 +1441,7 @@
 <AM lemma="Leo_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Leo_;Y" src="auto">NNMS6-----A---1</AM>
 <AM lemma="Leo_;Y" src="auto">NNMS7-----A---1</AM>
+<AM lemma="Leo-1_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-047-p4s1w10">

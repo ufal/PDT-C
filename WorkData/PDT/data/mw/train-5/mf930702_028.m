@@ -942,7 +942,8 @@
 <form>Hamru</form>
 <tag>
 <AM lemma="Hamr_;Y" src="auto">NNMS6-----A---1</AM>
-<AM lemma="hamr" src="manual" selected="1">NNMS6-----A----</AM>
+<AM lemma="hamr" src="manual">NNMS6-----A----</AM>
+<AM lemma="Hamr-2_;G" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-028-p3s3w9">

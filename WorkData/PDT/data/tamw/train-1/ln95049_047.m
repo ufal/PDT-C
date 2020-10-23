@@ -45,7 +45,10 @@
 <LM>w#w-ln95049-047-p2s1Aw1</LM>
 </w.rf>
 <form>Port</form>
-<tag lemma="port" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="port" src="orig">NNIS1-----A----</AM>
+<AM lemma="Port-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95049-047-p2s1Aw2">
 <src.rf>manual</src.rf>
@@ -58,7 +61,8 @@
 <AM lemma="Lauderdale_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Lauderdale_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Lauderdale_;G_,t" src="manual">NNXXX-----A----</AM>
-<AM lemma="Lauderdale_;G" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Lauderdale_;G" src="manual">NNXXX-----A----</AM>
+<AM lemma="Lauderdale-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-047-p2s1Aw3">

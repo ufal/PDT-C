@@ -2329,12 +2329,13 @@
 </w.rf>
 <form>Dnu</form>
 <tag>
-<AM lemma="den_^(jednotka_času)" src="orig" selected="1">NNIS2-----A---1</AM>
+<AM lemma="den_^(jednotka_času)" src="orig">NNIS2-----A---1</AM>
 <AM lemma="den_^(jednotka_času)" src="auto" recommended="1">NNIS3-----A----</AM>
 <AM lemma="den_^(jednotka_času)" src="auto">NNIS6-----A----</AM>
 <AM lemma="dna_^(nemoc)" src="auto">NNFS4-----A----</AM>
 <AM lemma="dno_^(např._propasti)" src="auto">NNNS3-----A----</AM>
 <AM lemma="dno_^(např._propasti)" src="auto">NNNS6-----A---1</AM>
+<AM lemma="den-1_^(jednotka_času)" src="manual" selected="1">NNIS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-lnd92259-080-p10s1w3">

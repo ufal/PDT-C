@@ -14545,9 +14545,10 @@
 </w.rf>
 <form>Mariji</form>
 <tag>
-<AM lemma="Marija_;Y" src="orig" selected="1">NNFS4-----A----</AM>
+<AM lemma="Marija_;Y" src="orig">NNFS4-----A----</AM>
 <AM lemma="Marija_;Y_,t" src="auto" recommended="1">NNFS3-----A----</AM>
 <AM lemma="Marija_;Y_,t" src="auto">NNFS6-----A----</AM>
+<AM lemma="Marija_;Y" src="manual" selected="1">NNFS4-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln94201-102-p23s5w3">

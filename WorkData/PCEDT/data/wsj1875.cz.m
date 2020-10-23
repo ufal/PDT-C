@@ -29660,7 +29660,8 @@
 <form>Ke</form>
 <tag>
 <AM lemma="k-1" src="auto" recommended="1">RV--3----------</AM>
-<AM lemma="Ke_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Ke_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Ke_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1875-001-p1s120W2-Ta">

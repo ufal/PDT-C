@@ -274,7 +274,8 @@
 <form>Lido</form>
 <tag>
 <AM lemma="Lido_;m" src="orig">NNNS1-----A----</AM>
-<AM lemma="Lido-2_;G" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Lido-2_;G" src="manual">NNIS1-----A----</AM>
+<AM lemma="Lido_;G_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-105-p2s2w3">

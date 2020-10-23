@@ -343,9 +343,9 @@
 </w.rf>
 <form>Reality</form>
 <tag>
-<AM lemma="realita" src="orig">NNFP1-----A----</AM>
+<AM lemma="realita" src="orig" selected="1">NNFP1-----A----</AM>
 <AM lemma="reality_,t" src="manual">NNXXX-----A----</AM>
-<AM lemma="reality" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="reality" src="manual">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-113-p2s2w13">

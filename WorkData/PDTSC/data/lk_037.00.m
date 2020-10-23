@@ -878,7 +878,8 @@
 <AM lemma="juka_;U" src="auto">NNFS4-----A----</AM>
 <AM lemma="juko" src="auto">NNNS3-----A----</AM>
 <AM lemma="juko" src="auto">NNNS6-----A----</AM>
-<AM lemma="JUK_;m" src="manual" selected="1">BNIS2-----A----</AM>
+<AM lemma="JUK_;m" src="manual">BNIS2-----A----</AM>
+<AM lemma="Juk_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m037-d1e71-x2-29">

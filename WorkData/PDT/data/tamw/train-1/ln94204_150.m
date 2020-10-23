@@ -187,7 +187,8 @@
 <tag>
 <AM lemma="Magyar_;m_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="Magyar_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Magyar_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Magyar_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Magyar-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94204-150-p2s1Bw5">
@@ -199,7 +200,8 @@
 <tag>
 <AM lemma="Hírlap" src="orig">NNIS1-----A----</AM>
 <AM lemma="Hírlap_;Y" src="manual">NNIS1-----A----</AM>
-<AM lemma="Hírlap_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Hírlap_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Hírlap-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 </s>

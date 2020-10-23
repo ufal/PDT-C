@@ -5846,7 +5846,10 @@
 <LM>w#w-vesm9212-002-p11s1w16</LM>
 </w.rf>
 <form>Homo</form>
-<tag lemma="Homo-1_;U_^(např._Homo_sapiens)" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Homo-1_;U_^(např._Homo_sapiens)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Homo-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9212-002-p11s1w17">
 <src.rf>manual</src.rf>

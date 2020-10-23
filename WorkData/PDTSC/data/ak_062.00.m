@@ -3450,7 +3450,8 @@
 <form>König</form>
 <tag>
 <AM lemma="König_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="König-2_;G" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="König-2_;G" src="manual">NNIS1-----A----</AM>
+<AM lemma="König-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m062-148-149">

@@ -4471,8 +4471,8 @@
 </w.rf>
 <form>Prvá</form>
 <tag>
-<AM lemma="prvý" src="orig">AAFS1----1A----</AM>
-<AM lemma="Prvá-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="prvý" src="orig" selected="1">AAFS1----1A----</AM>
+<AM lemma="Prvá-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-068-p54s1w2">

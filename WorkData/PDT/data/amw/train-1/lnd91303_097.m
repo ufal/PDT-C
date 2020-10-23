@@ -20,8 +20,8 @@
 </w.rf>
 <form>Oscar</form>
 <tag>
-<AM lemma="Oscar_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Oscar-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Oscar_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Oscar-2_;m" src="manual">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-097-p1s1w2">
@@ -105,8 +105,8 @@
 </w.rf>
 <form>Oscara</form>
 <tag>
-<AM lemma="Oscar_;Y" src="orig">NNMS4-----A----</AM>
-<AM lemma="Oscar-2_;m" src="manual" selected="1">NNIS4-----A----</AM>
+<AM lemma="Oscar_;Y" src="orig" selected="1">NNMS4-----A----</AM>
+<AM lemma="Oscar-2_;m" src="manual">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-097-p2s1w9">

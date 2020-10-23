@@ -3732,7 +3732,8 @@
 <tag>
 <AM lemma="Louvre_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Louvre_;G" src="auto">NNIXX-----A----</AM>
-<AM lemma="Louvre_;G" src="auto" selected="1">NNNS4-----A----</AM>
+<AM lemma="Louvre_;G" src="auto">NNNS4-----A----</AM>
+<AM lemma="Louvre_;G_;m" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m139-d-id154184-punct">

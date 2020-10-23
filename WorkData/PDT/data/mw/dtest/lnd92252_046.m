@@ -2519,7 +2519,10 @@
 <LM>w#w-lnd92252-046-p10s1w1</LM>
 </w.rf>
 <form>Kohoutův</form>
-<tag lemma="kohoutův-1_^(pták)_(*4-1)" src="orig" selected="1">AUMS1M---------</tag>
+<tag>
+<AM lemma="kohoutův-1_^(pták)_(*4-1)" src="orig">AUMS1M---------</AM>
+<AM lemma="Kohoutův_;Y_^(*2)" src="manual" selected="1">AUMS1M---------</AM>
+</tag>
 </m>
 <m id="m-lnd92252-046-p10s1w2">
 <src.rf>manual</src.rf>

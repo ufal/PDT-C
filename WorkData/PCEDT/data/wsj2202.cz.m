@@ -1216,8 +1216,8 @@
 </w.rf>
 <form>play</form>
 <tag>
-<AM lemma="play-77" src="auto" recommended="1">F%-------------</AM>
-<AM lemma="play-1" src="manual" selected="1">S2--------A----</AM>
+<AM lemma="play-77" src="auto" recommended="1" selected="1">F%-------------</AM>
+<AM lemma="play-1" src="manual">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-wsj2202-001-p1s3W11-Ta">
@@ -1235,8 +1235,8 @@
 </w.rf>
 <form>off</form>
 <tag>
-<AM lemma="off-77" src="auto" recommended="1">F%-------------</AM>
-<AM lemma="off_^(play-off)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="off-77" src="auto" recommended="1" selected="1">F%-------------</AM>
+<AM lemma="off_^(play-off)" src="manual">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2202-001-p1s3W13-Ta">
@@ -1593,7 +1593,8 @@
 <tag>
 <AM lemma="Orel_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="orel" src="auto">NNMS1-----A----</AM>
-<AM lemma="Orel-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Orel-77" src="manual">F%-------------</AM>
+<AM lemma="Orel_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2202-001-p1s3W43-Ta">
@@ -1604,7 +1605,9 @@
 <form>Hershiser</form>
 <tag>
 <AM lemma="Hershiser" src="auto">X@-------------</AM>
-<AM lemma="Hershiser-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Hershiser-77" src="manual">F%-------------</AM>
+<AM lemma="Hershiser-77" src="manual">F%-------------</AM>
+<AM lemma="Hershiser_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2202-001-p1s3W44-Ta">

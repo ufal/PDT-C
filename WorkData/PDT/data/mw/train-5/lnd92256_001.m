@@ -187,7 +187,10 @@
 <LM>w#w-lnd92256-001-p3s1w15</LM>
 </w.rf>
 <form>HNĚVANCE</form>
-<tag lemma="hněvance" src="orig" selected="1">NNFP1-----A----</tag>
+<tag>
+<AM lemma="hněvance" src="orig">NNFP1-----A----</AM>
+<AM lemma="hněvanec-2" src="manual" selected="1">NNIP1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-001-p3s1w16">
 <src.rf>manual</src.rf>

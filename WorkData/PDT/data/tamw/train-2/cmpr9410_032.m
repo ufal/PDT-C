@@ -3602,7 +3602,10 @@
 <LM>w#w-cmpr9410-032-p9s1w13</LM>
 </w.rf>
 <form>Box</form>
-<tag lemma="box-2_^(krabice,_schránka)" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="box-2_^(krabice,_schránka)" src="orig">NNIXX-----A----</AM>
+<AM lemma="Box-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-032-p9s1w14">
 <src.rf>manual</src.rf>

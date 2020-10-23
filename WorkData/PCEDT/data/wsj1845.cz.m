@@ -1315,7 +1315,10 @@
 <LM>w#w-wsj1845-001-p1s2W35</LM>
 </w.rf>
 <form>Marysville</form>
-<tag lemma="Marysville_;G" src="auto" recommended="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Marysville_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Marysville_;G" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1845-001-p1s2W36-Ta">
 <src.rf>tagger-a</src.rf>

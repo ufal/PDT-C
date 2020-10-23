@@ -782,7 +782,10 @@
 <LM>w#w-mf920902-061-p2s4Aw16</LM>
 </w.rf>
 <form>Kinga</form>
-<tag lemma="king_;U" src="auto" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="king_;U" src="auto">NNMS2-----A----</AM>
+<AM lemma="king" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-061-p2s4Aw17">
 <src.rf>manual</src.rf>

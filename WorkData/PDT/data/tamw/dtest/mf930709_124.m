@@ -681,7 +681,7 @@
 </w.rf>
 <form>Líních</form>
 <tag>
-<AM lemma="Líně_;G_^(obec_v_Čechách])" src="orig" selected="1">NNFP6-----A----</AM>
+<AM lemma="Líně_;G_^(obec_v_Čechách])" src="orig">NNFP6-----A----</AM>
 <AM lemma="Líní_;G" src="auto" recommended="1">NNNP6-----A----</AM>
 <AM lemma="líní_^(rybí)" src="auto">AAFP2----1A----</AM>
 <AM lemma="líní_^(rybí)" src="auto">AAFP6----1A----</AM>
@@ -691,6 +691,7 @@
 <AM lemma="líní_^(rybí)" src="auto">AAMP6----1A----</AM>
 <AM lemma="líní_^(rybí)" src="auto">AANP2----1A----</AM>
 <AM lemma="líní_^(rybí)" src="auto">AANP6----1A----</AM>
+<AM lemma="Líně_;G" src="manual" selected="1">NNFP6-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-124-p4s1Bw22">

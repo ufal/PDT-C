@@ -1140,7 +1140,8 @@
 <AM lemma="Jos_;G" src="auto">NNIS5-----A----</AM>
 <AM lemma="Jose_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Jose_;Y" src="auto">NNMS5-----A----</AM>
-<AM lemma="Jose-2_;G" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Jose-2_;G" src="manual">NNNXX-----A----</AM>
+<AM lemma="Jose-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95049-033-p3s5w4">

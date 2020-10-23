@@ -559,7 +559,8 @@
 <AM lemma="okr" src="auto">NNIS4-----A----</AM>
 <AM lemma="okres_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="okresní_:B" src="manual">AAXXX----1A---8</AM>
-<AM lemma="okresní" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="okresní" src="manual">AAXXX----1A---8</AM>
+<AM lemma="okresní" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-mf930709-040-p13s1w2">

@@ -854,10 +854,11 @@
 </w.rf>
 <form>OTTO</form>
 <tag>
-<AM lemma="OTTO_;m" src="orig" selected="1">NNNS1-----A----</AM>
+<AM lemma="OTTO_;m" src="orig">NNNS1-----A----</AM>
 <AM lemma="Otta_;G" src="auto">NNFS5-----A----</AM>
 <AM lemma="Otta_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Otto_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Otto-2_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-2-p3s1Aw2">

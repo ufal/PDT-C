@@ -1244,7 +1244,8 @@
 <form>Post</form>
 <tag>
 <AM lemma="post-1_^(pozice)" src="orig">NNIS1-----A----</AM>
-<AM lemma="Post-1_^(př._Washington_Post)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Post-1_^(př._Washington_Post)" src="manual">NNIS1-----A----</AM>
+<AM lemma="Post-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-128-p16s2w2">

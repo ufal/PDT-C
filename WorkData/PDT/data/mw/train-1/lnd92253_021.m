@@ -847,7 +847,8 @@
 <form>GiTy</form>
 <tag>
 <AM lemma="Gita_;Y" src="orig">NNFP1-----A----</AM>
-<AM lemma="Gita-2_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Gita-2_;m" src="manual">NNFS1-----A----</AM>
+<AM lemma="Gity_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-021-p4s3w4">

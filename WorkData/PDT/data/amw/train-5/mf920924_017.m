@@ -101,7 +101,10 @@
 <LM>w#w-mf920924-017-p1s1Bw7</LM>
 </w.rf>
 <form>REZ</form>
-<tag lemma="rez" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="rez" src="orig">NNFS1-----A----</AM>
+<AM lemma="rez-2" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf920924-017-p2s1">

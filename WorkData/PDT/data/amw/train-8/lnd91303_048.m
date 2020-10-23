@@ -2222,10 +2222,11 @@
 </w.rf>
 <form>Ros</form>
 <tag>
-<AM lemma="Ros_;Y" src="orig" selected="1">NNMXX-----A----</AM>
+<AM lemma="Ros_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="rosa" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="rosit" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="rosit" src="auto">Vi-S---3--A-I-4</AM>
+<AM lemma="Ros-2_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-048-p5s3w18">

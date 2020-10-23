@@ -2526,7 +2526,8 @@
 <AM lemma="Challenger_;m_^(letadlo_Challenger)" src="auto">NNIS4-----A----</AM>
 <AM lemma="challenger_,t_^(tenisový_turnaj)" src="auto">NNIS1-----A----</AM>
 <AM lemma="challenger_,t_^(tenisový_turnaj)" src="auto">NNIS4-----A----</AM>
-<AM lemma="challenger_^(tenisový_turnaj)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="challenger_^(tenisový_turnaj)" src="manual">NNIS1-----A----</AM>
+<AM lemma="challenger" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m127-d1t1680-2">

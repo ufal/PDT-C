@@ -990,7 +990,8 @@
 <AM lemma="Lux_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="lux" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="lux" src="auto">NNIS4-----A----</AM>
-<AM lemma="Lux-2_;m" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="Lux-2_;m" src="manual">NNIXX-----A----</AM>
+<AM lemma="Lux-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-097-p2s6w5">

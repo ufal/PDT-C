@@ -793,7 +793,7 @@
 </w.rf>
 <form>Planice</form>
 <tag>
-<AM lemma="Planice_;G" src="orig" selected="1">NNFS2-----A----</AM>
+<AM lemma="Planice_;G" src="orig">NNFS2-----A----</AM>
 <AM lemma="Planica_;G" src="auto">NNFP1-----A---1</AM>
 <AM lemma="Planica_;G" src="auto">NNFP4-----A---1</AM>
 <AM lemma="Planica_;G" src="auto">NNFP5-----A---1</AM>
@@ -802,6 +802,7 @@
 <AM lemma="Planice_;G" src="auto" recommended="1">NNFP1-----A----</AM>
 <AM lemma="Planice_;G" src="auto">NNFP4-----A----</AM>
 <AM lemma="Planice_;G" src="auto">NNFP5-----A----</AM>
+<AM lemma="Planica_;G" src="manual" selected="1">NNFS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-lnd91303-092-p3s8w10">

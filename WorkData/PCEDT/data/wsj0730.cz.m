@@ -10753,6 +10753,7 @@
 <AM lemma="golf-1_^(sport)" src="auto">NNIS4-----A----</AM>
 <AM lemma="golf-2_;m_^(vozidlo)" src="auto">NNIS1-----A----</AM>
 <AM lemma="golf-2_;m_^(vozidlo)" src="auto">NNIS4-----A----</AM>
+<AM lemma="golf" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0730-001-p1s46W2-Ta">

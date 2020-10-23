@@ -2918,7 +2918,10 @@
 <LM>w#w-wsj2308-001-p1s6W31</LM>
 </w.rf>
 <form>Palmdale</form>
-<tag lemma="Palmdale_;G" src="auto" recommended="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Palmdale_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Palmdale_;G" src="manual" selected="1">NNIXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2308-001-p1s6W32-Ta">
 <src.rf>tagger-a</src.rf>

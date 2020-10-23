@@ -155,7 +155,9 @@
 <AM lemma="Josef_:B_;Y" src="orig">NNMXX-----A---8</AM>
 <AM lemma="Jos_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Jos_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Josef_;Y" src="manual" selected="1">NNMXX-----A---8</AM>
+<AM lemma="Josef_;Y" src="manual">NNMXX-----A---8</AM>
+<AM lemma="Jos-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="Jos-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-141-p2s2w10">

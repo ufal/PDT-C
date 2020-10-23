@@ -120,7 +120,10 @@
 <LM>w#w-ln94202-14-p2s1Aw6</LM>
 </w.rf>
 <form>LEGEND</form>
-<tag lemma="Legend_;m_^(vozidlo)" src="auto" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Legend_;m_^(vozidlo)" src="auto">NNFXX-----A----</AM>
+<AM lemma="Legend_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-14-p2s1Aw7">
 <src.rf>manual</src.rf>

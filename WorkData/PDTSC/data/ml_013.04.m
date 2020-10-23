@@ -385,7 +385,8 @@
 <AM lemma="lido" src="auto">NNNS1-----A----</AM>
 <AM lemma="lido" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="lido" src="auto">NNNS5-----A----</AM>
-<AM lemma="Lido-2_;G" src="manual" selected="1">NNIS4-----A----</AM>
+<AM lemma="Lido-2_;G" src="manual">NNIS4-----A----</AM>
+<AM lemma="Lido_;G_;m" src="manual" selected="1">NNNS4-----A----</AM>
 </tag>
 </m>
 <m id="m013-d-id97350-punct">

@@ -5527,10 +5527,10 @@
 <form>Dík</form>
 <tag>
 <AM lemma="dík-1" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="dík-1" src="auto">NNIS4-----A----</AM>
+<AM lemma="dík-1" src="auto" selected="1">NNIS4-----A----</AM>
 <AM lemma="dík-2" src="auto">RR--3----------</AM>
 <AM lemma="dík-3" src="manual">II-------------</AM>
-<AM lemma="dík-3" src="manual" selected="1">TT-------------</AM>
+<AM lemma="dík-3" src="manual">TT-------------</AM>
 </tag>
 </m>
 <m id="m774-d-id89784">

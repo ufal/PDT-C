@@ -1381,7 +1381,7 @@
 </w.rf>
 <form>Milo</form>
 <tag>
-<AM lemma="Milo_;m" src="orig" selected="1">NNNXX-----A----</AM>
+<AM lemma="Milo_;m" src="orig">NNNXX-----A----</AM>
 <AM lemma="Mila_;m" src="auto">NNFS5-----A----</AM>
 <AM lemma="Milo-1_;m" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="Milo-1_;m" src="auto">NNNS4-----A----</AM>
@@ -1389,6 +1389,7 @@
 <AM lemma="Milo-2_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Milo-2_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="milo" src="auto">Db-------------</AM>
+<AM lemma="Milo-1_;m" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-10-p5s3w5">

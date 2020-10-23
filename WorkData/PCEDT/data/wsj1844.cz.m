@@ -159,7 +159,9 @@
 <tag>
 <AM lemma="Isuzu_;m" src="auto">NNFXX-----A----</AM>
 <AM lemma="isuzu_;m_^(vozidlo)" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Isuzu_;Y" src="manual" selected="1">NNMS4-----A----</AM>
+<AM lemma="Isuzu_;Y" src="manual">NNMS4-----A----</AM>
+<AM lemma="Isuzu_;Y" src="manual">NNMXX-----A----</AM>
+<AM lemma="Isuzu-2_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1844-001-p1s0W13-Ta">

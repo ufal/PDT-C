@@ -1757,7 +1757,8 @@
 <AM lemma="MSDOS_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="MSDOS_;m" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="MSDOS_;m" src="auto">NNIS4-----A----</AM>
-<AM lemma="MSDOS-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="MSDOS-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="MSDOS_;m" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-1-p6s2w9">

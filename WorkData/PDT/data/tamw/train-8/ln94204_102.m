@@ -20,11 +20,12 @@
 </w.rf>
 <form>Kubo</form>
 <tag>
-<AM lemma="kubo" src="orig" selected="1">S2--------A----</AM>
+<AM lemma="kubo" src="orig">S2--------A----</AM>
 <AM lemma="Kuba-1_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Kuba-2_;G" src="auto">NNFS5-----A----</AM>
 <AM lemma="kuba" src="auto">NNMS5-----A----</AM>
 <AM lemma="kubo_^(doutník)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="kubo-2" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-102-p1s1w2">

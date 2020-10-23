@@ -1236,7 +1236,8 @@
 <AM lemma="ringo_^(hra)" src="auto">NNNS1-----A----</AM>
 <AM lemma="ringo_^(hra)" src="auto">NNNS4-----A----</AM>
 <AM lemma="ringo_^(hra)" src="auto">NNNS5-----A----</AM>
-<AM lemma="Ringo-2_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Ringo-2_;Y" src="manual">NNMXX-----A----</AM>
+<AM lemma="Ringo-1_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-118-p4s4w39">

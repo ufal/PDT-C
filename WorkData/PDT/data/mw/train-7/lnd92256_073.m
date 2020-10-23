@@ -140,9 +140,10 @@
 </w.rf>
 <form>Mitta</form>
 <tag>
-<AM lemma="Mitta_;G" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="Mitta_;G" src="orig">NNFS1-----A----</AM>
 <AM lemma="Mitt_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Mitt_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
+<AM lemma="Mitta-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92256-073-p1s1w17">
@@ -162,7 +163,10 @@
 <LM>w#w-lnd92256-073-p1s1w18</LM>
 </w.rf>
 <form>Livenza</form>
-<tag lemma="Livenza_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Livenza_;G" src="orig">NNFS1-----A----</AM>
+<AM lemma="Livenza-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92256-073-p1s1w19">
 <src.rf>manual</src.rf>

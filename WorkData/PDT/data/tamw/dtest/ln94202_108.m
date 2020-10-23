@@ -1279,7 +1279,8 @@
 <AM lemma="Lauren_;Y" src="orig">NNMS4-----A---1</AM>
 <AM lemma="Lauren_;Y" src="auto" recommended="1">NNMS3-----A---1</AM>
 <AM lemma="Lauren_;Y" src="auto">NNMS6-----A---1</AM>
-<AM lemma="Laurena_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Laurena_;Y" src="manual">NNFS1-----A----</AM>
+<AM lemma="Laurena_;Y" src="manual" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-108-p3s4w32">

@@ -278,9 +278,10 @@
 </w.rf>
 <form>Galati</form>
 <tag>
-<AM lemma="Galati_;m" src="orig" selected="1">NNNS1-----A----</AM>
+<AM lemma="Galati_;m" src="orig">NNNS1-----A----</AM>
 <AM lemma="Galat_;E" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="Galat_;E" src="auto">NNMP5-----A----</AM>
+<AM lemma="Galati_;G" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-077-p2s2w9">

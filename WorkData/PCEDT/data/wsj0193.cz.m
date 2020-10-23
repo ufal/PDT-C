@@ -659,7 +659,8 @@
 <form>NetWare</form>
 <tag>
 <AM lemma="netware_;m" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="netware_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="netware_;m" src="manual">NNXXX-----A----</AM>
+<AM lemma="Netware_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0193-001-p1s1W10-Ta">

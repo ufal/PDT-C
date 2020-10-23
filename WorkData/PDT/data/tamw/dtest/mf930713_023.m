@@ -93,7 +93,10 @@
 <LM>w#w-mf930713-023-p2s1w8</LM>
 </w.rf>
 <form>Livornu</form>
-<tag lemma="Livorno_;G_;Y" src="orig" selected="1">NNNS6-----A---1</tag>
+<tag>
+<AM lemma="Livorno_;G_;Y" src="orig">NNNS6-----A---1</AM>
+<AM lemma="Livorno_;G" src="manual" selected="1">NNNS6-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-023-p2s1w9">
 <src.rf>manual</src.rf>

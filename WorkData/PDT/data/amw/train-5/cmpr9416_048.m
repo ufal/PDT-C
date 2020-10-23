@@ -93,7 +93,10 @@
 <LM>w#w-cmpr9416-048-p3s1w1</LM>
 </w.rf>
 <form>Fitness</form>
-<tag lemma="fitness-1" src="auto" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="fitness-1" src="auto">AAXXX----1A----</AM>
+<AM lemma="fitness-2_^(fitnesscentrum)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-048-p3s1w2">
 <src.rf>manual</src.rf>
@@ -257,7 +260,10 @@
 <LM>w#w-cmpr9416-048-p5s1w9</LM>
 </w.rf>
 <form>FITNESS</form>
-<tag lemma="fitness-1" src="auto" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="fitness-1" src="auto">AAXXX----1A----</AM>
+<AM lemma="fitness-2_^(fitnesscentrum)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-048-p5s1w10">
 <src.rf>manual</src.rf>

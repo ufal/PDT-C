@@ -94,7 +94,8 @@
 <tag>
 <AM lemma="Kuala_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="Kuala_;G" src="auto">NNFS1-----A----</AM>
-<AM lemma="Kuala_;G" src="auto" recommended="1" selected="1">NNXXX-----A---1</AM>
+<AM lemma="Kuala_;G" src="auto" recommended="1">NNXXX-----A---1</AM>
+<AM lemma="Kuala-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94103-058-p1s1Bw6">
@@ -103,7 +104,10 @@
 <LM>w#w-lnd94103-058-p1s1Bw6</LM>
 </w.rf>
 <form>Lumpuru</form>
-<tag lemma="Lumpur_;G" src="orig" selected="1">NNIS6-----A----</tag>
+<tag>
+<AM lemma="Lumpur_;G" src="orig">NNIS6-----A----</AM>
+<AM lemma="Lumpuru-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd94103-058-p1s1Bw7">
 <src.rf>manual</src.rf>

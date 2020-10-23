@@ -2234,7 +2234,8 @@
 <AM lemma="Henri_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Henri_;Y_,t" src="auto">NNMS5-----A----</AM>
 <AM lemma="Henri_;Y_,t" src="auto">NNMXX-----A----</AM>
-<AM lemma="Henri_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Henri_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Henri_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1465-001-p1s5W3-Ta">
@@ -2247,7 +2248,8 @@
 <AM lemma="Matiss_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Matiss_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Matiss_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Matisse_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Matisse_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Matisse_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1465-001-p1s5W4-Ta">
@@ -2274,7 +2276,7 @@
 <AM lemma="vydražený_^(*3it)" src="auto">AAIP1----1A---6</AM>
 <AM lemma="vydražený_^(*3it)" src="auto">AAIP4----1A---6</AM>
 <AM lemma="vydražený_^(*3it)" src="auto">AAIP5----1A---6</AM>
-<AM lemma="vydražený_^(*3it)" src="auto">AAIS1----1A----</AM>
+<AM lemma="vydražený_^(*3it)" src="auto" selected="1">AAIS1----1A----</AM>
 <AM lemma="vydražený_^(*3it)" src="auto">AAIS4----1A----</AM>
 <AM lemma="vydražený_^(*3it)" src="auto">AAIS5----1A----</AM>
 <AM lemma="vydražený_^(*3it)" src="auto">AAMP1----1A---6</AM>

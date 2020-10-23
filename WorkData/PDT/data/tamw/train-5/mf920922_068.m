@@ -907,7 +907,7 @@
 <tag>
 <AM lemma="Suchá_;Y_^(*1ý)" src="auto">NNFS1-----A----</AM>
 <AM lemma="Suchá-2_;G" src="manual">NNFS1-----A----</AM>
-<AM lemma="	Suchá_;G_;Y_^(*1ý)" src="manual">NNFS1-----A----</AM>
+<AM lemma=" Suchá_;G_;Y_^(*1ý)" src="manual">NNFS1-----A----</AM>
 <AM lemma="Suchá_;G_;Y_^(*1ý)" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -2676,7 +2676,8 @@
 <AM lemma="mladý_:B" src="auto">AAXXX----2A---8</AM>
 <AM lemma="mladý_:B" src="manual">AAXXX----1A---8</AM>
 <AM lemma="mladý" src="manual">AAXXX----1A---8</AM>
-<AM lemma="Ml-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Ml-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="mladý" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-mf920922-068-p8s1w16">

@@ -3312,7 +3312,8 @@
 <tag>
 <AM lemma="Moskvič_;m" src="auto" recommended="1">NNIS7-----A----</AM>
 <AM lemma="moskvič_;m_^(vozidlo)" src="auto">NNIS7-----A----</AM>
-<AM lemma="Moskvič_;E" src="manual" selected="1">NNMS7-----A----</AM>
+<AM lemma="Moskvič_;E" src="manual">NNMS7-----A----</AM>
+<AM lemma="Moskvič_;m" src="manual" selected="1">NNIS7-----A----</AM>
 </tag>
 </m>
 <m id="m149-d1e1762-x2-482">

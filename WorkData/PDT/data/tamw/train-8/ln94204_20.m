@@ -1119,10 +1119,11 @@
 </w.rf>
 <form>Linden</form>
 <tag>
-<AM lemma="Linden-2_;m" src="orig" selected="1">NNXXX-----A----</AM>
+<AM lemma="Linden-2_;m" src="orig">NNXXX-----A----</AM>
 <AM lemma="Linden-1_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Linden-1_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Linden-2_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Linden-1_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-20-p5s1w23">

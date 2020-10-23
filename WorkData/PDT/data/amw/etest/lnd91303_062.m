@@ -13116,7 +13116,8 @@
 <form>OÚNZ</form>
 <tag>
 <AM lemma="OÚNZ_:B_;m_^(Okresní_ústav_národního_zdraví)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="OÚNZ-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="OÚNZ-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="OÚNZ-1_;m_^(Okresní_ústav_národního_zdraví)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-062-p12s4w7">

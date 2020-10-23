@@ -8718,7 +8718,10 @@
 <LM>w#w-cmpr9416-047-p40s1w1</LM>
 </w.rf>
 <form>Motýlek</form>
-<tag lemma="motýlek" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="motýlek" src="orig">NNMS1-----A----</AM>
+<AM lemma="motýlek-2" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-047-p40s1w2">
 <src.rf>manual</src.rf>

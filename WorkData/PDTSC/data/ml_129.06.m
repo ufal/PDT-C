@@ -2635,7 +2635,8 @@
 <form>Kotlářku</form>
 <tag>
 <AM lemma="kotlářka_^(*2)" src="auto" recommended="1">NNFS4-----A----</AM>
-<AM lemma="Kotlářka_;Y_^(*2)" src="manual" selected="1">NNFS4-----A----</AM>
+<AM lemma="Kotlářka_;Y_^(*2)" src="manual">NNFS4-----A----</AM>
+<AM lemma="Kotlářka_;G_;Y_^(*2)" src="manual" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m129-d1t1569-3">
@@ -2672,7 +2673,8 @@
 <AM lemma="kotlářka_^(*2)" src="auto">NNFP4-----A----</AM>
 <AM lemma="kotlářka_^(*2)" src="auto">NNFP5-----A----</AM>
 <AM lemma="kotlářka_^(*2)" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Kotlářka_;G" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="Kotlářka_;G" src="manual">NNFS2-----A----</AM>
+<AM lemma="Kotlářka_;G_;Y_^(*2)" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m129-d1t1569-8">

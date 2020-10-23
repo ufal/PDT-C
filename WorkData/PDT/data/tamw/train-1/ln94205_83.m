@@ -150,10 +150,11 @@
 </w.rf>
 <form>Maríi</form>
 <tag>
-<AM lemma="María_;Y" src="orig" selected="1">NNFS4-----A----</AM>
+<AM lemma="María_;Y" src="orig">NNFS4-----A----</AM>
 <AM lemma="María_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="María_;Y" src="auto">NNMP7-----A----</AM>
 <AM lemma="María_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="María-1_;Y_,s_^(^DD**Marie)" src="manual" selected="1">NNFS4-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln94205-83-p2s1Bw11">

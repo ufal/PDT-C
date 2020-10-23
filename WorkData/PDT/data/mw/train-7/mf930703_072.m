@@ -476,7 +476,8 @@
 <AM lemma="polovina_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="poloviční_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="pólo" src="auto">NNNP2-----A----</AM>
-<AM lemma="pol_,i" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="pol_,i" src="manual">NNXXX-----A----</AM>
+<AM lemma="pol-3" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-072-p2s3w15">

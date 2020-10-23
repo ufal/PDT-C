@@ -4471,7 +4471,8 @@
 <AM lemma="Ina_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="in-2_,h_,t" src="auto">AAXXX----1A----</AM>
 <AM lemma="in-77_,t" src="auto">F%-------------</AM>
-<AM lemma="In_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="In_;Y" src="manual">NNMXX-----A----</AM>
+<AM lemma="In_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m137-d1t993-2">
@@ -4521,7 +4522,8 @@
 <AM lemma="sun" src="auto">NNIS1-----A----</AM>
 <AM lemma="sun" src="auto">NNIS4-----A----</AM>
 <AM lemma="sunna_,t_,x_^(ústní_podání_Mohamedových_činů)" src="auto">NNFP2-----A----</AM>
-<AM lemma="Sun_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Sun_;Y" src="manual">NNMXX-----A----</AM>
+<AM lemma="Sun-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m137-d1t1000-2">

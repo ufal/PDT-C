@@ -1752,7 +1752,11 @@
 <LM>w#w-mf920901-055-p6s1w1</LM>
 </w.rf>
 <form>MONTE</form>
-<tag lemma="Monte_;G" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Monte_;G" src="orig">NNNXX-----A----</AM>
+<AM lemma="MONTE-77" src="manual">F%-------------</AM>
+<AM lemma="Monte-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920901-055-p6s1w2">
 <src.rf>manual</src.rf>
@@ -1760,7 +1764,11 @@
 <LM>w#w-mf920901-055-p6s1w2</LM>
 </w.rf>
 <form>CARLO</form>
-<tag lemma="Carlo-2_;G" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="Carlo-2_;G" src="orig">NNNS1-----A----</AM>
+<AM lemma="CARLO-77" src="manual">F%-------------</AM>
+<AM lemma="Carlo-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf920901-055-p6s1w3">
 <src.rf>manual</src.rf>

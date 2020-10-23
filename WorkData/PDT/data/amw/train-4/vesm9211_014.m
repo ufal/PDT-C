@@ -1922,7 +1922,8 @@
 <form>Kaddish</form>
 <tag>
 <AM lemma="Kaddish_;m_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="kaddish_^(modlitba_za_zemřelého)" src="auto" recommended="1" selected="1">NNNXX-----A----</AM>
+<AM lemma="kaddish_^(modlitba_za_zemřelého)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="kaddish_,s_^(modlitba_za_zemřelého)_(^DD**kadiš)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 </s>

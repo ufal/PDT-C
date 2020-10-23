@@ -1164,7 +1164,8 @@
 <AM lemma="ron" src="auto">NNIP4-----A----</AM>
 <AM lemma="ron" src="auto">NNIP5-----A----</AM>
 <AM lemma="ron" src="auto">NNIP7-----A----</AM>
-<AM lemma="Rony_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Rony_;Y" src="manual">NNMXX-----A----</AM>
+<AM lemma="Rony_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m022-d-id132977-punct">

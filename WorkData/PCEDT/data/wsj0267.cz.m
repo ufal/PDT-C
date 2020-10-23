@@ -5315,7 +5315,8 @@
 <AM lemma="Huska_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="husky_;U" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="husky_;U" src="auto">NNMS5-----A----</AM>
-<AM lemma="Husky_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Husky_;Y" src="manual">NNXXX-----A----</AM>
+<AM lemma="Husky_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0267-001-p1s12W46-Ta">

@@ -5681,6 +5681,7 @@
 <AM lemma="několikerý" src="auto" recommended="1">AANS1----1A----</AM>
 <AM lemma="několikerý" src="auto">AANS4----1A----</AM>
 <AM lemma="několikerý" src="auto">AANS5----1A----</AM>
+<AM lemma="několikerý" src="manual" selected="1">ChNS1----------</AM>
 </tag>
 </m>
 <m id="m-wsj2350-001-p1s18W3-Ta">

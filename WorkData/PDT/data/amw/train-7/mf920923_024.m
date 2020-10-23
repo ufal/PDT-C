@@ -688,7 +688,8 @@
 <form>Prouzu</form>
 <tag>
 <AM lemma="Prouza_;Y" src="orig">NNMS4-----A----</AM>
-<AM lemma="Prouza-2_;m" src="manual" selected="1">NNIS4-----A----</AM>
+<AM lemma="Prouza-2_;m" src="manual">NNIS4-----A----</AM>
+<AM lemma="Prouza-1_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-024-p2s5w11">

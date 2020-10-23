@@ -537,7 +537,8 @@
 <form>Headu</form>
 <tag>
 <AM lemma="Head_;G_,t" src="orig">NNIS6-----A----</AM>
-<AM lemma="Head_;G" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="Head_;G" src="manual">NNIS6-----A----</AM>
+<AM lemma="Head-2_;G" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-098-p4s1w25">

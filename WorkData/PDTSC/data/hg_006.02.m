@@ -2095,7 +2095,8 @@
 <form>Kokovi</form>
 <tag>
 <AM lemma="Kokovi" src="auto">X@-------------</AM>
-<AM lemma="Kok_;Y" src="manual" selected="1">NNMP1-----A----</AM>
+<AM lemma="Kok_;Y" src="manual">NNMP1-----A----</AM>
+<AM lemma="Kokův_;Y_^(*2)" src="manual" selected="1">AUMP1M---------</AM>
 </tag>
 </m>
 <m id="m006-d1t766-14">

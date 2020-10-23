@@ -773,7 +773,10 @@
 <LM>w#w-ln95046-061-p2s5w4</LM>
 </w.rf>
 <form>Merec</form>
-<tag lemma="Merec_;m_^(strana)" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="Merec_;m_^(strana)" src="orig">NNXXX-----A----</AM>
+<AM lemma="Merec_;m_^(politická_strana)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-061-p2s5w5">
 <src.rf>manual</src.rf>

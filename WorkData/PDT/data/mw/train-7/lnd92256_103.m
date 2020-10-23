@@ -1081,7 +1081,10 @@
 <LM>w#w-lnd92256-103-p2s6w30</LM>
 </w.rf>
 <form>Arizona</form>
-<tag lemma="Arizona_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Arizona_;G" src="orig">NNFS1-----A----</AM>
+<AM lemma="Arizona-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92256-103-p2s6w31">
 <src.rf>manual</src.rf>
@@ -1092,7 +1095,8 @@
 <tag>
 <AM lemma="Queen_;m_,t_^(hudební_skupina)" src="orig">NNFXX-----A----</AM>
 <AM lemma="Queen-2_;Y" src="manual">NNFS1-----A----</AM>
-<AM lemma="Queen-1_;Y_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Queen-1_;Y_;m" src="manual">NNFS1-----A----</AM>
+<AM lemma="Queen-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92256-103-p2s6w32">

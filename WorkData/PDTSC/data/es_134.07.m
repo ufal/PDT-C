@@ -5946,7 +5946,8 @@
 <tag>
 <AM lemma="Petrův_;Y_^(*2o)" src="auto" recommended="1">AUXXXM--------5</AM>
 <AM lemma="Petrovice_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Petrovic_;Y" src="manual" selected="1">NNMS7-----A----</AM>
+<AM lemma="Petrovic_;Y" src="manual">NNMS7-----A----</AM>
+<AM lemma="Petrovic_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m134-1103-1192">

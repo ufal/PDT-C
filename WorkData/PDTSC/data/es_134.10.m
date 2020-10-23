@@ -6671,7 +6671,8 @@
 <AM lemma="lada-2_;m_^(vozidlo)" src="auto">NNFP5-----A----</AM>
 <AM lemma="lada-2_;m_^(vozidlo)" src="auto">NNFS2-----A----</AM>
 <AM lemma="lady_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Lady_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Lady_;Y" src="manual">NNFS1-----A----</AM>
+<AM lemma="Lady-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m134-d1t1333-15">

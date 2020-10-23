@@ -6063,7 +6063,8 @@
 <form>Lancetu</form>
 <tag>
 <AM lemma="lanceta" src="orig">NNFS4-----A----</AM>
-<AM lemma="Lancet_;m" src="manual" selected="1">NNIS4-----A----</AM>
+<AM lemma="Lancet_;m" src="manual">NNIS4-----A----</AM>
+<AM lemma="Lancet-1_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-042-p37s4w18">

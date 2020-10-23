@@ -89,7 +89,8 @@
 <AM lemma="Ponec_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Ponec_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Ponec_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Ponce_;G" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Ponce_;G" src="manual">NNNXX-----A----</AM>
+<AM lemma="Ponce-2_;G" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1530-001-p1s0W8-Ta">

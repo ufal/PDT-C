@@ -211,8 +211,8 @@
 </w.rf>
 <form>INVEX</form>
 <tag>
-<AM lemma="Invex_;m" src="orig">NNIS1-----A----</AM>
-<AM lemma="INVEX-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Invex_;m" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="INVEX-88" src="manual">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-065-p3s1w9">

@@ -2103,7 +2103,9 @@
 <tag>
 <AM lemma="Kunsthalle_;m" src="orig">NNFXX-----A----</AM>
 <AM lemma="Kunsthalle_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Kunsthalle_;G_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Kunsthalle_;G_;m" src="manual">NNXXX-----A----</AM>
+<AM lemma="Kunsthalle_;G_;m" src="manual">NNXXX-----A----</AM>
+<AM lemma="Kunsthalle_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-070-p3s7w4">

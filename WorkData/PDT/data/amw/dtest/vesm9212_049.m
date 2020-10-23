@@ -16595,7 +16595,8 @@
 <tag>
 <AM lemma="Hugo-2_;G" src="auto">NNNS1-----A----</AM>
 <AM lemma="HUGO-77" src="manual">F%-------------</AM>
-<AM lemma="HUGO-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="HUGO-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Hugo-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-049-p23s2Bw19">
@@ -23169,7 +23170,10 @@
 <LM>w#w-vesm9212-049-p35s2w15</LM>
 </w.rf>
 <form>Glossopteris</form>
-<tag lemma="Glossopteris_;U" src="auto" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Glossopteris_;U" src="auto">NNIXX-----A----</AM>
+<AM lemma="Glossopteris_;U" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9212-049-p35s2w16">
 <src.rf>manual</src.rf>

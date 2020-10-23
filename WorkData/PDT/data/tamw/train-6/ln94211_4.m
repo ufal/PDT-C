@@ -1139,7 +1139,10 @@
 <LM>w#w-ln94211-4-p4s2w15</LM>
 </w.rf>
 <form>Microsoft</form>
-<tag lemma="Microsoft_^(jako_součást_názvu)" src="auto" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Microsoft_^(jako_součást_názvu)" src="auto">AAXXX----1A----</AM>
+<AM lemma="Microsoft-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94211-4-p4s2w16">
 <src.rf>manual</src.rf>
@@ -1147,7 +1150,10 @@
 <LM>w#w-ln94211-4-p4s2w16</LM>
 </w.rf>
 <form>Windows</form>
-<tag lemma="Windows_;m" src="auto" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="Windows_;m" src="auto">NNXXX-----A----</AM>
+<AM lemma="Windows-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94211-4-p4s2w17">
 <src.rf>manual</src.rf>

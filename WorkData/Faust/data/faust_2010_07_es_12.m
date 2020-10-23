@@ -1378,9 +1378,10 @@
 <AM lemma="Kasárna_;G" recommended="1">NNNS1-----A----</AM>
 <AM lemma="Kasárna_;G">NNNS4-----A----</AM>
 <AM lemma="Kasárna_;G">NNNS5-----A----</AM>
-<AM lemma="kasárna" selected="1">NNNP1-----A---1</AM>
+<AM lemma="kasárna">NNNP1-----A---1</AM>
 <AM lemma="kasárna">NNNP4-----A---1</AM>
 <AM lemma="kasárna">NNNP5-----A---1</AM>
+<AM lemma="kasárna" src="manual" selected="1">NNNP1-----A----</AM>
 </tag>
 </m>
 <m id="es_12-SCzechM-p1224-s1-w3">

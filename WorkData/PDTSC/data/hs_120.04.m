@@ -5206,10 +5206,10 @@
 <AM lemma="ostatní" src="auto">AANP1----1A----</AM>
 <AM lemma="ostatní" src="auto">AANP4----1A----</AM>
 <AM lemma="ostatní" src="auto">AANP5----1A----</AM>
-<AM lemma="ostatní" src="auto" recommended="1">AANS1----1A----</AM>
+<AM lemma="ostatní" src="auto" recommended="1" selected="1">AANS1----1A----</AM>
 <AM lemma="ostatní" src="auto">AANS4----1A----</AM>
 <AM lemma="ostatní" src="auto">AANS5----1A----</AM>
-<AM lemma="ostatní-2" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="ostatní-2" src="manual">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m120-d1t730-2">

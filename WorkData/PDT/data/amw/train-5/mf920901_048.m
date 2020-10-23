@@ -2320,7 +2320,9 @@
 <AM lemma="Paris-1_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Paris-2_;G" src="auto">NNFXX-----A----</AM>
 <AM lemma="Paris-3_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Paris_;Y" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
+<AM lemma="Paris_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Paris-1_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Paris-3_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-048-p7s2w4">

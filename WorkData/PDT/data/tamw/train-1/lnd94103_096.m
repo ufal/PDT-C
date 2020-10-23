@@ -2404,7 +2404,8 @@
 <AM lemma="Saint-2_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="Saint_;G_,t_^(Saint-Trinité)" src="auto">A2--------A----</AM>
 <AM lemma="Saint_;Y_,t_^(v_cizích_názvech)" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Saint-2_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Saint-2_;Y" src="manual">NNXXX-----A----</AM>
+<AM lemma="Saint_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-096-p1s12w42">

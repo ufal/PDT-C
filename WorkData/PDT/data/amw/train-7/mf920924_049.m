@@ -1980,7 +1980,7 @@
 </w.rf>
 <form>Donu</form>
 <tag>
-<AM lemma="dona" src="orig" selected="1">NNFS4-----A----</AM>
+<AM lemma="dona" src="orig">NNFS4-----A----</AM>
 <AM lemma="Don-1_;Y" src="auto">NNMS3-----A---1</AM>
 <AM lemma="Don-1_;Y" src="auto">NNMS6-----A---1</AM>
 <AM lemma="Don-2_;G" src="auto" recommended="1">NNIS2-----A----</AM>
@@ -1988,6 +1988,7 @@
 <AM lemma="Don-2_;G" src="auto">NNIS6-----A----</AM>
 <AM lemma="don" src="auto">NNMS3-----A---1</AM>
 <AM lemma="don" src="auto">NNMS6-----A---1</AM>
+<AM lemma="Dona_;Y_;m" src="manual" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-049-p2s10w8">

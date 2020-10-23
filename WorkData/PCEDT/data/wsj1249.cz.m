@@ -1824,7 +1824,8 @@
 <tag>
 <AM lemma="Howard_;Y" src="auto">NNMS3-----A---1</AM>
 <AM lemma="Howard_;Y" src="auto" recommended="1">NNMS6-----A---1</AM>
-<AM lemma="Howard-2_;G" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="Howard-2_;G" src="manual">NNIS6-----A----</AM>
+<AM lemma="Howard-2_;m" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1249-001-p1s6W12-Ta">

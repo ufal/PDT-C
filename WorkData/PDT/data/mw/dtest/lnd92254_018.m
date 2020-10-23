@@ -27,7 +27,10 @@
 <LM>w#w-lnd92254-018-p1s1w2</LM>
 </w.rf>
 <form>GAMA</form>
-<tag lemma="gama" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="gama" src="orig">AAXXX----1A----</AM>
+<AM lemma="gama-3" src="manual" selected="1">AAXXX----1A----</AM>
+</tag>
 </m>
 <m id="m-lnd92254-018-p1s1w3">
 <src.rf>manual</src.rf>
@@ -180,7 +183,10 @@
 <LM>w#w-lnd92254-018-p3s2w13</LM>
 </w.rf>
 <form>Gama</form>
-<tag lemma="gama" src="orig" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="gama" src="orig">AAXXX----1A----</AM>
+<AM lemma="gama-3" src="manual" selected="1">AAXXX----1A----</AM>
+</tag>
 </m>
 <m id="m-lnd92254-018-p3s2w14">
 <src.rf>manual</src.rf>

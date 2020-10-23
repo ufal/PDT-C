@@ -291,7 +291,8 @@
 <AM lemma="Gemelli_;m" src="orig">NNNXX-----A----</AM>
 <AM lemma="Gemelli_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Gemelli_;Y" src="auto">NNMS5-----A----</AM>
-<AM lemma="Gemelli-2_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Gemelli-2_;m" src="manual">NNNXX-----A----</AM>
+<AM lemma="Gemelli-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-061-p1s3w25">

@@ -1095,7 +1095,10 @@
 <LM>w#w-mf930702-045-p2s4w1</LM>
 </w.rf>
 <form>Maličko</form>
-<tag lemma="maličko-1" src="orig" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="maličko-1" src="orig">Db-------------</AM>
+<AM lemma="maličko-3" src="manual" selected="1">Dg-------1A----</AM>
+</tag>
 </m>
 <m id="m-mf930702-045-p2s4w2">
 <src.rf>manual</src.rf>

@@ -1297,8 +1297,8 @@
 <AM lemma="Richey_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="Richey_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Richey_;Y" src="auto">NNMS5-----A----</AM>
-<AM lemma="Richey_;Y" src="manual">NNMXX-----A----</AM>
-<AM lemma="Richey-2_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Richey_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Richey-2_;Y" src="manual">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-119-p3s3w6">

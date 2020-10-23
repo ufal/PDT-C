@@ -564,8 +564,8 @@
 </w.rf>
 <form>Revolver</form>
 <tag>
-<AM lemma="revolver" src="orig" selected="1">NNIS1-----A----</AM>
-<AM lemma="Revolver-77" src="manual">F%-------------</AM>
+<AM lemma="revolver" src="orig">NNIS1-----A----</AM>
+<AM lemma="Revolver-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95046-047-p2s3w11">
@@ -582,7 +582,8 @@
 <AM lemma="revue" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="revue" src="auto">NNFS2-----A----</AM>
 <AM lemma="revue" src="auto">NNFS5-----A----</AM>
-<AM lemma="revue" src="manual" selected="1">NNFS7-----A----</AM>
+<AM lemma="revue" src="manual">NNFS7-----A----</AM>
+<AM lemma="Revue-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95046-047-p2s3w12">

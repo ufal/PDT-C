@@ -2170,7 +2170,9 @@
 <form>Kc</form>
 <tag>
 <AM lemma="Kc6-1_^(šachový_tah)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="Kc" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Kc" src="manual">NNXXX-----A----</AM>
+<AM lemma="Kc-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="Kc-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-87-p5s2w16">
@@ -2189,7 +2191,9 @@
 <form>Vb</form>
 <tag>
 <AM lemma="Vb1-1_^(šachový_tah)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="Vb" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Vb" src="manual">NNXXX-----A----</AM>
+<AM lemma="Vb-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="Vb-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-87-p5s2w18">
@@ -2233,7 +2237,9 @@
 <tag>
 <AM lemma="Ka7-1_^(šachový_tah)" src="orig">NNNXX-----A---8</AM>
 <AM lemma="Ka_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Ka" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Ka" src="manual">NNXXX-----A----</AM>
+<AM lemma="Ka-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="Ka-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-87-p5s2w23">
@@ -2252,7 +2258,9 @@
 <form>pg</form>
 <tag>
 <AM lemma="pg2-1_^(šachový_tah)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="pg" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="pg" src="manual">NNXXX-----A----</AM>
+<AM lemma="pg-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="pg-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-87-p5s2w25">

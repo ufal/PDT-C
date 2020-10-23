@@ -1357,7 +1357,8 @@
 <AM lemma="Neptune-2_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Neptune-2_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Neptune-2_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Neptune-3_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Neptune-3_;m" src="manual">NNXXX-----A----</AM>
+<AM lemma="Neptune-1_;G_;m" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1967-001-p1s4W17-Ta">

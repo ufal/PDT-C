@@ -2383,7 +2383,8 @@
 <AM lemma="rosa" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="rosit" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="rosit" src="auto">Vi-S---3--A-I-4</AM>
-<AM lemma="Ros_;G" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Ros_;G" src="manual">NNIS1-----A----</AM>
+<AM lemma="Ros_;G" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m976-d-id109399">

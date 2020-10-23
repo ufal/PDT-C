@@ -11188,7 +11188,8 @@
 <AM lemma="novum" src="auto">NNNP4-----A----</AM>
 <AM lemma="novum" src="auto">NNNP5-----A----</AM>
 <AM lemma="novum" src="auto">NNNS2-----A----</AM>
-<AM lemma="NOVA-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="NOVA-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Nova_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0976-001-p1s37W18-Ta">

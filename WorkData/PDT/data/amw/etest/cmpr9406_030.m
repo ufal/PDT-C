@@ -671,7 +671,10 @@
 <LM>w#w-cmpr9406-030-p5s2w8</LM>
 </w.rf>
 <form>M</form>
-<tag lemma="M-6_;m" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag>
+<AM lemma="M-6_;m" src="orig">NNXXX-----A---b</AM>
+<AM lemma="M-33" src="manual" selected="1">Q3-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-030-p5s2w9">
 <src.rf>manual</src.rf>
@@ -687,7 +690,10 @@
 <LM>w#w-cmpr9406-030-p5s2w10</LM>
 </w.rf>
 <form>T</form>
-<tag lemma="T-6_;m" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag>
+<AM lemma="T-6_;m" src="orig">NNXXX-----A---b</AM>
+<AM lemma="T-33" src="manual" selected="1">Q3-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9406-030-p5s2w11">
 <src.rf>manual</src.rf>

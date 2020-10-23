@@ -325,9 +325,10 @@
 </w.rf>
 <form>Oravainen</form>
 <tag>
-<AM lemma="Oravainen_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Oravainen_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Oravainen_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Oravainen_;G" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="Oravainen-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-113-p3s2w6">

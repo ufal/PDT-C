@@ -1442,7 +1442,8 @@
 <AM lemma="popílkový" src="auto">AANP1----1A----</AM>
 <AM lemma="popílkový" src="auto">AANP4----1A----</AM>
 <AM lemma="popílkový" src="auto">AANP5----1A----</AM>
-<AM lemma="Popílková" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Popílková" src="manual">NNFS1-----A----</AM>
+<AM lemma="Popílková_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m042-d-id89062-punct">
@@ -1473,7 +1474,8 @@
 <form>Frauzů</form>
 <tag>
 <AM lemma="Frauzů" src="auto">X@-------------</AM>
-<AM lemma="Frauz" src="manual" selected="1">NNMP2-----A----</AM>
+<AM lemma="Frauz" src="manual">NNMP2-----A----</AM>
+<AM lemma="Frauz_;Y" src="manual" selected="1">NNMP2-----A----</AM>
 </tag>
 </m>
 <m id="m042-d-id89137-punct">

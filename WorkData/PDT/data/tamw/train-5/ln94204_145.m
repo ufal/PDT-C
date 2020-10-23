@@ -2034,7 +2034,9 @@
 <AM lemma="Leo_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Leo_;Y" src="auto">NNMS6-----A---1</AM>
 <AM lemma="Leo_;Y" src="auto">NNMS7-----A---1</AM>
-<AM lemma="Leo_;Y" src="manual" selected="1">NNMXX-----A---1</AM>
+<AM lemma="Leo_;Y" src="manual">NNMXX-----A---1</AM>
+<AM lemma="Leo-1_;Y" src="manual">NNMXX-----A---1</AM>
+<AM lemma="Leo-1_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-145-p8s1w4">
@@ -3144,8 +3146,9 @@
 </w.rf>
 <form>Kolor</form>
 <tag>
-<AM lemma="Kolor_;m" src="orig" selected="1">NNXXX-----A----</AM>
+<AM lemma="Kolor_;m" src="orig">NNXXX-----A----</AM>
 <AM lemma="Kolora_;m" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="Kolor_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-145-p10s3w17">

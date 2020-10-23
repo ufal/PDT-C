@@ -923,7 +923,7 @@
 </w.rf>
 <form>Ringo</form>
 <tag>
-<AM lemma="Ringo_;Y" src="orig" selected="1">NNMXX-----A----</AM>
+<AM lemma="Ringo_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="Ringo_;m" src="auto">NNNS1-----A----</AM>
 <AM lemma="Ringo_;m" src="auto">NNNS4-----A----</AM>
 <AM lemma="Ringo_;m" src="auto">NNNS5-----A----</AM>
@@ -932,6 +932,7 @@
 <AM lemma="ringo_^(hra)" src="auto">NNNS1-----A----</AM>
 <AM lemma="ringo_^(hra)" src="auto">NNNS4-----A----</AM>
 <AM lemma="ringo_^(hra)" src="auto" recommended="1">NNNS5-----A----</AM>
+<AM lemma="Ringo-1_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-120-p3s4w29">
@@ -7688,9 +7689,10 @@
 </w.rf>
 <form>Monte</form>
 <tag>
-<AM lemma="Monte_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Monte_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Mont_;m" src="auto">NNIS5-----A----</AM>
 <AM lemma="Monte_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Monte-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-120-p16s1w28">

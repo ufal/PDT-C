@@ -12321,7 +12321,10 @@
 <LM>w#w-wsj1505-001-p1s45W20</LM>
 </w.rf>
 <form>Goldsmithe</form>
-<tag lemma="Goldsmith_;Y" src="auto" recommended="1">NNMS5-----A----</tag>
+<tag>
+<AM lemma="Goldsmith_;Y" src="auto" recommended="1">NNMS5-----A----</AM>
+<AM lemma="Goldsmith_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1505-001-p1s45W21-Ta">
 <src.rf>tagger-a</src.rf>

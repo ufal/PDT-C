@@ -7367,7 +7367,10 @@
 <LM>w#w-ln94205-118-p20s7w10</LM>
 </w.rf>
 <form>Kočího</form>
-<tag lemma="kočí" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="kočí" src="orig">NNMS2-----A----</AM>
+<AM lemma="Kočí-1_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94205-118-p20s7w11">
 <src.rf>manual</src.rf>

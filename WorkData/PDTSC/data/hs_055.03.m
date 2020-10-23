@@ -2616,7 +2616,8 @@
 <form>Honalovou</form>
 <tag>
 <AM lemma="Honalův_;Y_^(*2)" src="auto" recommended="1">AUFS7M---------</AM>
-<AM lemma="Honalová_;Y" src="manual" selected="1">NNMS7-----A----</AM>
+<AM lemma="Honalová_;Y" src="manual">NNMS7-----A----</AM>
+<AM lemma="Honalová_;Y" src="manual" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m055-d1e1452-x2-106">

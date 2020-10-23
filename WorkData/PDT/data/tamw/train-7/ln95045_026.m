@@ -301,10 +301,11 @@
 </w.rf>
 <form>Joao</form>
 <tag>
-<AM lemma="Joao-2_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Joao-2_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Joao_;G" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="Joao_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Joao_;G" src="auto">NNNS5-----A----</AM>
+<AM lemma="Joao-2_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-026-p2s3w14">

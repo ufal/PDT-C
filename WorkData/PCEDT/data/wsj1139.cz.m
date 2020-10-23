@@ -788,7 +788,8 @@
 <tag>
 <AM lemma="Lynn_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Lynn_;G" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="Lynn-1_;G" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="Lynn-1_;G" src="manual">NNIXX-----A----</AM>
+<AM lemma="Lynn_;G" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1139-001-p1s1W26-Ta">

@@ -894,7 +894,8 @@
 <form>Gilbertových</form>
 <tag>
 <AM lemma="Gilbertův_;Y_^(*2o)" src="auto">AUMP2M---------</AM>
-<AM lemma="Gilberto_;Y" src="manual" selected="1">NNMP2-----A----</AM>
+<AM lemma="Gilberto_;Y" src="manual">NNMP2-----A----</AM>
+<AM lemma="Gilbertův_;Y_^(*2)_(*2o)" src="manual" selected="1">AUMP2M---------</AM>
 </tag>
 </m>
 <m id="m-ln94209-66-p3s1w23">

@@ -1580,7 +1580,10 @@
 <LM>w#w-mf920923-097-p3s5Aw10</LM>
 </w.rf>
 <form>Krejčí</form>
-<tag lemma="krejčí" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="krejčí" src="orig">NNFS1-----A----</AM>
+<AM lemma="Krejčí-2_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-097-p3s5Aw11">
 <src.rf>manual</src.rf>
@@ -2760,7 +2763,10 @@
 <LM>w#w-mf920923-097-p5s2w11</LM>
 </w.rf>
 <form>Krejčí</form>
-<tag lemma="krejčí" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="krejčí" src="orig">NNFS2-----A----</AM>
+<AM lemma="Krejčí-2_;Y" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920923-097-p5s2w12">
 <src.rf>manual</src.rf>
@@ -4910,7 +4916,10 @@
 <LM>w#w-mf920923-097-p7s2w17</LM>
 </w.rf>
 <form>Ptáčkovi</form>
-<tag lemma="ptáčkův_^(*3ek)" src="orig" selected="1">AUMP1M---------</tag>
+<tag>
+<AM lemma="ptáčkův_^(*3ek)" src="orig">AUMP1M---------</AM>
+<AM lemma="Ptáčkův_;Y_^(*3ek)" src="manual" selected="1">AUMP1M---------</AM>
+</tag>
 </m>
 <m id="m-mf920923-097-p7s2w18">
 <src.rf>manual</src.rf>

@@ -699,7 +699,7 @@
 <AM lemma="mastný" src="auto">AAIP1----1A---6</AM>
 <AM lemma="mastný" src="auto">AAIP4----1A---6</AM>
 <AM lemma="mastný" src="auto">AAIP5----1A---6</AM>
-<AM lemma="mastný" src="auto">AAIS1----1A----</AM>
+<AM lemma="mastný" src="auto" selected="1">AAIS1----1A----</AM>
 <AM lemma="mastný" src="auto">AAIS4----1A----</AM>
 <AM lemma="mastný" src="auto">AAIS5----1A----</AM>
 <AM lemma="mastný" src="auto">AAMP1----1A---6</AM>
@@ -713,7 +713,7 @@
 <AM lemma="mastný" src="auto">AANS1----1A---6</AM>
 <AM lemma="mastný" src="auto">AANS4----1A---6</AM>
 <AM lemma="mastný" src="auto">AANS5----1A---6</AM>
-<AM lemma="Mastný_;G" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Mastný_;G" src="manual">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m106-d-id121938-punct">
@@ -5140,7 +5140,7 @@
 <AM lemma="úterský" src="auto">AAIP1----1A---6</AM>
 <AM lemma="úterský" src="auto">AAIP4----1A---6</AM>
 <AM lemma="úterský" src="auto">AAIP5----1A---6</AM>
-<AM lemma="úterský" src="auto" recommended="1">AAIS1----1A----</AM>
+<AM lemma="úterský" src="auto" recommended="1" selected="1">AAIS1----1A----</AM>
 <AM lemma="úterský" src="auto">AAIS4----1A----</AM>
 <AM lemma="úterský" src="auto">AAIS5----1A----</AM>
 <AM lemma="úterský" src="auto">AAMP1----1A---6</AM>
@@ -5154,7 +5154,7 @@
 <AM lemma="úterský" src="auto">AANS1----1A---6</AM>
 <AM lemma="úterský" src="auto">AANS4----1A---6</AM>
 <AM lemma="úterský" src="auto">AANS5----1A---6</AM>
-<AM lemma="Úterský_;G" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Úterský_;G" src="manual">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m106-d-id129982-punct">
@@ -5185,7 +5185,7 @@
 <AM lemma="kosový" src="auto">AAIP1----1A---6</AM>
 <AM lemma="kosový" src="auto">AAIP4----1A---6</AM>
 <AM lemma="kosový" src="auto">AAIP5----1A---6</AM>
-<AM lemma="kosový" src="auto" recommended="1">AAIS1----1A----</AM>
+<AM lemma="kosový" src="auto" recommended="1" selected="1">AAIS1----1A----</AM>
 <AM lemma="kosový" src="auto">AAIS4----1A----</AM>
 <AM lemma="kosový" src="auto">AAIS5----1A----</AM>
 <AM lemma="kosový" src="auto">AAMP1----1A---6</AM>
@@ -5199,7 +5199,7 @@
 <AM lemma="kosový" src="auto">AANS1----1A---6</AM>
 <AM lemma="kosový" src="auto">AANS4----1A---6</AM>
 <AM lemma="kosový" src="auto">AANS5----1A---6</AM>
-<AM lemma="Kosový_;G" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Kosový_;G" src="manual">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m106-d-id130024-punct">

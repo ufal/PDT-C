@@ -5523,7 +5523,10 @@
 <LM>w#w-ln94201-80-p5s15w7</LM>
 </w.rf>
 <form>Bobková</form>
-<tag lemma="bobkový" src="orig" selected="1">AAFS1----1A----</tag>
+<tag>
+<AM lemma="bobkový" src="orig">AAFS1----1A----</AM>
+<AM lemma="Bobková_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-80-p5s15w8">
 <src.rf>manual</src.rf>
@@ -5539,7 +5542,10 @@
 <LM>w#w-ln94201-80-p5s15w9</LM>
 </w.rf>
 <form>Poová</form>
-<tag lemma="Poová_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Poová_;Y" src="orig">NNMS1-----A----</AM>
+<AM lemma="Poová_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-80-p5s15w10">
 <src.rf>manual</src.rf>

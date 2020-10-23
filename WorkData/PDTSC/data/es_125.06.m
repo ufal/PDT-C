@@ -1641,7 +1641,8 @@
 <AM lemma="Jiřský_;Y" src="auto">NNMP5-----A---6</AM>
 <AM lemma="Jiřský_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Jiřský_;Y" src="auto">NNMS5-----A----</AM>
-<AM lemma="Jiřský_;Y" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Jiřský_;Y" src="manual">NNIS1-----A----</AM>
+<AM lemma="jiřský" src="manual" selected="1">AAIS1----1A----</AM>
 </tag>
 </m>
 <m id="m125-d1t1051-23">

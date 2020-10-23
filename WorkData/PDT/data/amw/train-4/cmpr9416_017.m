@@ -4017,7 +4017,10 @@
 <LM>w#w-cmpr9416-017-p13s1w1</LM>
 </w.rf>
 <form>PC</form>
-<tag lemma="PC-1_;m_^(personal_computer,_osobní_počítač)" src="orig" selected="1">NNNXX-----A---b</tag>
+<tag>
+<AM lemma="PC-1_;m_^(personal_computer,_osobní_počítač)" src="orig">NNNXX-----A---b</AM>
+<AM lemma="PC_^(personal_computer,_osobní_počítač)" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-017-p13s1w2">
 <src.rf>manual</src.rf>
@@ -4025,7 +4028,10 @@
 <LM>w#w-cmpr9416-017-p13s1w2</LM>
 </w.rf>
 <form>SALON</form>
-<tag lemma="salón" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="salón" src="orig">NNIS1-----A----</AM>
+<AM lemma="Salon-1_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-017-p13s1w3">
 <src.rf>manual</src.rf>
@@ -4369,7 +4375,10 @@
 <LM>w#w-cmpr9416-017-p13s4w3</LM>
 </w.rf>
 <form>PC</form>
-<tag lemma="PC-1_;m_^(personal_computer,_osobní_počítač)" src="orig" selected="1">NNNXX-----A---b</tag>
+<tag>
+<AM lemma="PC-1_;m_^(personal_computer,_osobní_počítač)" src="orig">NNNXX-----A---b</AM>
+<AM lemma="PC_^(personal_computer,_osobní_počítač)" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-017-p13s4w4">
 <src.rf>manual</src.rf>
@@ -4377,7 +4386,10 @@
 <LM>w#w-cmpr9416-017-p13s4w4</LM>
 </w.rf>
 <form>Salon</form>
-<tag lemma="salón" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="salón" src="orig">NNIS1-----A----</AM>
+<AM lemma="Salon-1_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-017-p13s4w5">
 <src.rf>manual</src.rf>
@@ -4425,7 +4437,10 @@
 <LM>w#w-cmpr9416-017-p13s4w10</LM>
 </w.rf>
 <form>Kotva</form>
-<tag lemma="kotva" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="kotva" src="orig">NNFS1-----A----</AM>
+<AM lemma="Kotva_;m" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-017-p13s4w11">
 <src.rf>manual</src.rf>

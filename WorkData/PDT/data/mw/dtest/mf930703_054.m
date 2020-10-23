@@ -99,7 +99,10 @@
 <LM>w#w-mf930703-054-p1s2w5</LM>
 </w.rf>
 <form>SEN</form>
-<tag lemma="sen" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="sen" src="orig">NNIS4-----A----</AM>
+<AM lemma="sen-1" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930703-054-p1s2w6">
 <src.rf>manual</src.rf>

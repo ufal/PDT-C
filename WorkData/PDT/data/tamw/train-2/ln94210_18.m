@@ -1134,7 +1134,8 @@
 <tag>
 <AM lemma="Mori_;G" src="auto">NNNXX-----A----</AM>
 <AM lemma="Mori_;m_,t" src="manual">NNXXX-----A----</AM>
-<AM lemma="Mori_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Mori_;m" src="manual">NNXXX-----A----</AM>
+<AM lemma="Mori-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-18-p5s2w3">

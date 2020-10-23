@@ -3927,7 +3927,9 @@
 <AM lemma="milisekunda" src="auto">NNFXX-----A---8</AM>
 <AM lemma="ms-99_:B_;Y" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="Ms-77" src="manual">F%-------------</AM>
-<AM lemma="Ms_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Ms_;m" src="manual">NNXXX-----A----</AM>
+<AM lemma="Ms-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="Ms-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1264-001-p1s15W42-Ta">

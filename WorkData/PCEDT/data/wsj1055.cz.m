@@ -3124,7 +3124,8 @@
 <AM lemma="Heine_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Heine_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Heine_;Y" src="auto" recommended="1">NNMXX-----A----</AM>
-<AM lemma="Heine_;G" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Heine_;G" src="manual">NNNXX-----A----</AM>
+<AM lemma="Heine-2_;G" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1055-001-p1s15W10-Ta">

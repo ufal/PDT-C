@@ -955,7 +955,9 @@
 <AM lemma="Quincy_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Quincy_;Y_,t" src="auto">NNMS5-----A----</AM>
 <AM lemma="Quincy_;Y_,t" src="auto">NNMXX-----A----</AM>
-<AM lemma="Quincy.2_;G" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Quincy.2_;G" src="manual">NNNXX-----A----</AM>
+<AM lemma="Quincy.2_;G" src="manual">NNXXX-----A----</AM>
+<AM lemma="Quincy-2_;G" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1476-001-p1s3W9-Ta">

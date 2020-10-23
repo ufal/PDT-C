@@ -1221,7 +1221,9 @@
 <form>FAN</form>
 <tag>
 <AM lemma="Fana_;G" src="orig">NNFP2-----A----</AM>
-<AM lemma="fan-2" src="manual" selected="1">AAXXX----1A----</AM>
+<AM lemma="fan-2" src="manual">AAXXX----1A----</AM>
+<AM lemma="FAN-77" src="manual">F%-------------</AM>
+<AM lemma="Fan-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92254-105-p1s1Cw2">
@@ -1230,7 +1232,11 @@
 <LM>w#w-lnd92254-105-p1s1Cw2</LM>
 </w.rf>
 <form>CENTRUM</form>
-<tag lemma="centrum" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="centrum" src="orig">NNNS1-----A----</AM>
+<AM lemma="CENTRUM-77" src="manual">F%-------------</AM>
+<AM lemma="Centrum-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92254-105-p1s1Cw3">
 <src.rf>manual</src.rf>
@@ -2604,7 +2610,11 @@
 <LM>w#w-lnd92254-105-p1s1Ew1</LM>
 </w.rf>
 <form>CAD</form>
-<tag lemma="Cad_;m" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Cad_;m" src="orig">NNIS1-----A----</AM>
+<AM lemma="CAD-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="CAD-88" src="manual" selected="1">BNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92254-105-p1s1Ew2">
 <src.rf>manual</src.rf>
@@ -2612,7 +2622,11 @@
 <LM>w#w-lnd92254-105-p1s1Ew2</LM>
 </w.rf>
 <form>PRESS</form>
-<tag lemma="Press-1_;m_^(souč._názvů,_např._tisk._agentur)" src="orig" selected="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Press-1_;m_^(souč._názvů,_např._tisk._agentur)" src="orig">NNIXX-----A----</AM>
+<AM lemma="PRESS-77" src="manual">F%-------------</AM>
+<AM lemma="Press-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92254-105-p1s1Ew3">
 <src.rf>manual</src.rf>

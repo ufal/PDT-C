@@ -112,7 +112,10 @@
 <LM>w#w-ln94208-92-p2s1w1</LM>
 </w.rf>
 <form>Lipnice</form>
-<tag lemma="Lipnice" src="auto" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Lipnice" src="auto">NNFS1-----A----</AM>
+<AM lemma="Lipnice_;G" src="manual" selected="1">NNFP1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94208-92-p2s1w2">
 <src.rf>manual</src.rf>

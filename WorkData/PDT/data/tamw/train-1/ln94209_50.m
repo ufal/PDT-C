@@ -1930,7 +1930,8 @@
 <AM lemma="Provos_:B_;m_^(Provisional_IRA)" src="orig">NNMXX-----A----</AM>
 <AM lemma="Provos_;m" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Provos_;m" src="auto">NNIS4-----A----</AM>
-<AM lemma="Provos_;m_^(Provisional_IRA)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Provos_;m_^(Provisional_IRA)" src="manual">NNXXX-----A----</AM>
+<AM lemma="Provos_;m_^(Provisional_IRA)" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-50-p4s2w18">

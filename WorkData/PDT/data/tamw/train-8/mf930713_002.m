@@ -1006,7 +1006,8 @@
 <form>Poličky</form>
 <tag>
 <AM lemma="polička" src="orig">NNFS2-----A----</AM>
-<AM lemma="Polička_;G" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Polička_;G" src="manual">NNFS1-----A----</AM>
+<AM lemma="Polička_;G" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-002-p7s1w4">

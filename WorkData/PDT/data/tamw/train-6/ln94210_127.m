@@ -3611,7 +3611,8 @@
 <AM lemma="klub" src="auto">NNIS6-----A----</AM>
 <AM lemma="club_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="club" src="manual">NNXXX-----A----</AM>
-<AM lemma="club" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="club" src="manual">NNIS2-----A----</AM>
+<AM lemma="Club_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-127-p4s6w20">

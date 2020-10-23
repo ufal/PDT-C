@@ -7771,9 +7771,10 @@
 <form>Huntsville</form>
 <tag>
 <AM lemma="Huntsville_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Huntsville_;G" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
+<AM lemma="Huntsville_;G" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="Huntsville_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Huntsville_;G" src="auto">NNNS5-----A----</AM>
+<AM lemma="Huntsville_;G" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-046-p28s6w48">

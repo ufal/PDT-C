@@ -78,11 +78,12 @@
 </w.rf>
 <form>Lipska</form>
 <tag>
-<AM lemma="Lipska_;Y" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="Lipska_;Y" src="orig">NNFS1-----A----</AM>
 <AM lemma="Lipsko_;G" src="auto">NNNP1-----A----</AM>
 <AM lemma="Lipsko_;G" src="auto">NNNP4-----A----</AM>
 <AM lemma="Lipsko_;G" src="auto">NNNP5-----A----</AM>
 <AM lemma="Lipsko_;G" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="Lipska_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-045-p2s1w4">

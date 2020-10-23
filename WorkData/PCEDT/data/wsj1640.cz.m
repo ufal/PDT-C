@@ -1701,7 +1701,8 @@
 <tag>
 <AM lemma="Michell_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Michelle_;Y_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Michelle-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Michelle-2_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Michelle_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1640-001-p1s3W31-Ta">
@@ -1716,6 +1717,7 @@
 <AM lemma="van-1_,a_^(vánek)" src="auto">NNIS4-----A----</AM>
 <AM lemma="van-77_,t" src="auto">F%-------------</AM>
 <AM lemma="vana" src="auto">NNFP2-----A----</AM>
+<AM lemma="Van-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1640-001-p1s3W32-Ta">
@@ -1726,7 +1728,8 @@
 <form>Cleave</form>
 <tag>
 <AM lemma="Cleave" src="auto">X@-------------</AM>
-<AM lemma="Cleave_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Cleave_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Cleave_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1640-001-p1s3W33-Ta">

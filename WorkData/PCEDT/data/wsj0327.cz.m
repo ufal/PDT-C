@@ -3996,7 +3996,8 @@
 <AM lemma="Lanyi_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Lanyi_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Lanyi_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Lanyi_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Lanyi_;m" src="manual">NNXXX-----A----</AM>
+<AM lemma="Lanyi-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0327-001-p1s17W34-Ta">

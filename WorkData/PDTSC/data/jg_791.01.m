@@ -1015,6 +1015,7 @@
 <tag>
 <AM lemma="internacionál" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="internacionála" src="auto">NNFP2-----A----</AM>
+<AM lemma="Internacionál_;m" src="manual">NNIS1-----A----</AM>
 <AM lemma="Internacionál_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>

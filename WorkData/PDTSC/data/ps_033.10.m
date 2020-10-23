@@ -62,8 +62,8 @@
 </w.rf>
 <form>Hornát</form>
 <tag>
-<AM lemma="Hornát_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Hornát-2_;m" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="Hornát_;Y" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
+<AM lemma="Hornát-2_;m" src="manual">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m033-d1t3201-1">

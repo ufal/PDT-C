@@ -174,11 +174,13 @@
 </w.rf>
 <form>Kon</form>
 <tag>
-<AM lemma="Kon_;Y" src="orig" selected="1">NNMXX-----A----</AM>
+<AM lemma="Kon_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="Kon_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Kon_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Kona_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="kona_,n" src="auto">NNFP2-----A----</AM>
+<AM lemma="Kon-1_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Kon-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-043-p2s1w14">

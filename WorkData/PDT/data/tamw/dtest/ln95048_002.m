@@ -3013,7 +3013,9 @@
 <AM lemma="jumbo_,h" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="jumbo_,h" src="auto">NNNS4-----A----</AM>
 <AM lemma="jumbo_,h" src="auto">NNNS5-----A----</AM>
-<AM lemma="JUMBO-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="JUMBO-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Jumbo_;m" src="manual">NNNS1-----A----</AM>
+<AM lemma="Jumbo-2_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-002-p6s3w19">

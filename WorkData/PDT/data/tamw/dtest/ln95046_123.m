@@ -4654,7 +4654,8 @@
 <form>SEPAP</form>
 <tag>
 <AM lemma="Sepap_:B_;m" src="orig">NNIS1-----A----</AM>
-<AM lemma="SEPAP-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="SEPAP-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Sepap_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-123-p8s2w8">

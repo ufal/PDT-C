@@ -792,9 +792,9 @@
 <AM lemma="Montaigne_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="Montaigne_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Montaigne_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Montaigne_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Montaigne_;Y" src="auto" selected="1">NNMS2-----A----</AM>
 <AM lemma="Montaigne_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Montaigne_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Montaigne_;Y" src="manual">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-99-p2s3w27">

@@ -2146,7 +2146,8 @@
 <AM lemma="panorama" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="panorama" src="auto">NNNS4-----A----</AM>
 <AM lemma="panorama" src="auto">NNNS5-----A----</AM>
-<AM lemma="Panorama-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Panorama-2_;m" src="manual">NNXXX-----A----</AM>
+<AM lemma="Panorama_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1018-001-p1s6W24-Ta">

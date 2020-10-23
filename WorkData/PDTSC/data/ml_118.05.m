@@ -2072,7 +2072,8 @@
 <AM lemma="Kelsos_;Y" src="auto">NNMS6-----A----</AM>
 <AM lemma="Kelsův_;Y_^(*2os)" src="auto">AUMP1M---------</AM>
 <AM lemma="Kelsův_;Y_^(*2os)" src="auto">AUMP5M---------</AM>
-<AM lemma="Kelso_;Y" src="manual" selected="1">NNMP1-----A----</AM>
+<AM lemma="Kelso_;Y" src="manual">NNMP1-----A----</AM>
+<AM lemma="Kelsův_;Y_^(*2o-3)_(*2os)" src="manual" selected="1">AUMP1M---------</AM>
 </tag>
 </m>
 <m id="m118-487-71">

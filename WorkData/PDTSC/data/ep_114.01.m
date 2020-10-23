@@ -2168,6 +2168,7 @@
 <AM lemma="larsen" src="auto">NNIP4-----A----</AM>
 <AM lemma="larsen" src="auto">NNIP5-----A----</AM>
 <AM lemma="larsen" src="auto">NNIP7-----A----</AM>
+<AM lemma="larsena" src="manual" selected="1">NNFP1-----A----</AM>
 </tag>
 </m>
 <m id="m114-d1e342-x3-268">

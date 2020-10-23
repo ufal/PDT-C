@@ -1655,7 +1655,8 @@
 <form>Hadžiči</form>
 <tag>
 <AM lemma="Hadžič_;Y" src="orig">NNMS3-----A----</AM>
-<AM lemma="Hadžič-2_;G" src="manual" selected="1">NNFS3-----A----</AM>
+<AM lemma="Hadžič-2_;G" src="manual">NNFS3-----A----</AM>
+<AM lemma="Hadžiči-2_;G" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-141-p2s13w13">

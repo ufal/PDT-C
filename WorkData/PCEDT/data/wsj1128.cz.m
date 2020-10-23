@@ -9395,7 +9395,8 @@
 <AM lemma="Liberta_;m" src="auto">NNFP4-----A----</AM>
 <AM lemma="Liberta_;m" src="auto">NNFP5-----A----</AM>
 <AM lemma="Liberta_;m" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Liberty_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Liberty_;m" src="manual">NNXXX-----A----</AM>
+<AM lemma="Liberty_;U" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1128-001-p1s36W61-Ta">
@@ -9812,20 +9813,21 @@
 <LM>w#w-wsj1128-001-p1s37W39</LM>
 </w.rf>
 <form>100</form>
-<tag>
-<AM lemma="100" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="100" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj1128-001-p1s37W39-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1128-001-p1s37W39</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>akrovém</form>
 <tag>
 <AM lemma="akrový" src="auto" recommended="1">AAIS6----1A----</AM>
 <AM lemma="akrový" src="auto">AAMS6----1A----</AM>
-<AM lemma="akrový" src="auto">AANS6----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="akrový" src="auto">AANS6----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj1128-001-p1s37W40-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -3478,7 +3478,8 @@
 <tag>
 <AM lemma="Lízl_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="líznout" src="auto" recommended="1">VpYS----R-AAP-1</AM>
-<AM lemma="Lízl-2_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Lízl-2_;Y" src="manual">NNFS1-----A----</AM>
+<AM lemma="Lízl-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m941-d1t1116-12">

@@ -15673,7 +15673,8 @@
 <form>Glendale</form>
 <tag>
 <AM lemma="Glendale" src="auto">X@-------------</AM>
-<AM lemma="Glendale_;G" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Glendale_;G" src="manual">NNXXX-----A----</AM>
+<AM lemma="Glendale_;G" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0096-001-p1s43W34-Ta">

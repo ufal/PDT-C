@@ -494,8 +494,8 @@
 </w.rf>
 <form>Ruská</form>
 <tag>
-<AM lemma="ruský" src="orig">AAFS1----1A----</AM>
-<AM lemma="Ruská_;G" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="ruský" src="orig" selected="1">AAFS1----1A----</AM>
+<AM lemma="Ruská_;G" src="manual">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-038-p2s4w13">

@@ -291,7 +291,8 @@
 <tag>
 <AM lemma="Meco_;m_,t" src="orig">NNNXX-----A----</AM>
 <AM lemma="Meca_;Y" src="auto" recommended="1">NNMS5-----A----</AM>
-<AM lemma="Meco_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Meco_;m" src="manual">NNXXX-----A----</AM>
+<AM lemma="Meco-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-139-p1s3w6">

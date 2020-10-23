@@ -234,12 +234,13 @@
 <AM lemma="Oktávie_;Y" src="auto">NNFS1-----A----</AM>
 <AM lemma="Oktávie_;Y" src="auto">NNFS2-----A----</AM>
 <AM lemma="Oktávie_;Y" src="auto">NNFS5-----A----</AM>
-<AM lemma="oktávie_;m" src="auto" selected="1">NNFP1-----A----</AM>
+<AM lemma="oktávie_;m" src="auto">NNFP1-----A----</AM>
 <AM lemma="oktávie_;m" src="auto">NNFP4-----A----</AM>
 <AM lemma="oktávie_;m" src="auto">NNFP5-----A----</AM>
 <AM lemma="oktávie_;m" src="auto">NNFS1-----A----</AM>
 <AM lemma="oktávie_;m" src="auto">NNFS2-----A----</AM>
 <AM lemma="oktávie_;m" src="auto">NNFS5-----A----</AM>
+<AM lemma="Oktávie_;Y_;m" src="manual" selected="1">NNFP1-----A----</AM>
 </tag>
 </m>
 <m id="m104-459-468">
@@ -305,7 +306,8 @@
 <tag>
 <AM lemma="Hillman_;Y" src="auto" recommended="1">NNMS3-----A---1</AM>
 <AM lemma="Hillman_;Y" src="auto">NNMS6-----A---1</AM>
-<AM lemma="Hillman_;m" src="manual" selected="1">NNIS2-----A---1</AM>
+<AM lemma="Hillman_;m" src="manual">NNIS2-----A---1</AM>
+<AM lemma="Hillman-2_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m104-d-id103018-punct">
@@ -938,7 +940,8 @@
 <tag>
 <AM lemma="Rohde_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Rohde_;Y" src="auto">NNMS5-----A----</AM>
-<AM lemma="Rohde_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Rohde_;Y" src="manual">NNMXX-----A----</AM>
+<AM lemma="Rohde-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m104-d1t632-3">
@@ -949,7 +952,8 @@
 <tag>
 <AM lemma="Schwarz_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Schwarza_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Schwarz_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Schwarz_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Schwarz-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m104-527-531">

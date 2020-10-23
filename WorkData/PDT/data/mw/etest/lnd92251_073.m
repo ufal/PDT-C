@@ -3872,9 +3872,10 @@
 </w.rf>
 <form>Julina</form>
 <tag>
-<AM lemma="Julina_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Julina_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Julin_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Julin_;Y" src="auto">NNMS4-----A----</AM>
+<AM lemma="Julina-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-073-p6s2w16">

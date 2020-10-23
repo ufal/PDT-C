@@ -1873,7 +1873,8 @@
 <tag>
 <AM lemma="Mexiko_;G_,t_,x" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="Mexico_,s_^(^DD**Mexiko)" src="manual">NNNXX-----A----</AM>
-<AM lemma="Mexico_;G_,s_^(^DD**Mexiko)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Mexico_;G_,s_^(^DD**Mexiko)" src="manual">NNNXX-----A----</AM>
+<AM lemma="Mexico_;G_,s_^(^DD**Mexiko)" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1501-001-p1s7W8-Ta">
