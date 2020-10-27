@@ -2949,7 +2949,7 @@
 <form>Generali</form>
 <tag>
 <AM lemma="Generali_;m_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Generali_;m" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Generali_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1371-001-p1s9W32-Ta">
@@ -4778,7 +4778,7 @@
 <form>Generali</form>
 <tag>
 <AM lemma="Generali_;m_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Generali_;m" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Generali_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1371-001-p1s16W3-Ta">
@@ -5409,7 +5409,7 @@
 <form>Generali</form>
 <tag>
 <AM lemma="Generali_;m_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Generali_;m" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Generali_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1371-001-p1s17W4-Ta">

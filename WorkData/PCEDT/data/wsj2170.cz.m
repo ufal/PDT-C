@@ -5956,7 +5956,7 @@
 </w.rf>
 <form>nezbytnosti</form>
 <tag>
-<AM lemma="nezbytnost_^(*3ý)" src="auto" recommended="1">NNFP1-----A----</AM>
+<AM lemma="zbytnost_^(*3ý)" src="auto" recommended="1">NNFP1-----N----</AM>
 <AM lemma="nezbytnost_^(*3ý)" src="auto">NNFP4-----A----</AM>
 <AM lemma="nezbytnost_^(*3ý)" src="auto">NNFP5-----A----</AM>
 <AM lemma="nezbytnost_^(*3ý)" src="auto">NNFS2-----A----</AM>
@@ -9158,7 +9158,7 @@
 <AM lemma="taký" src="auto">PDNS1----------</AM>
 <AM lemma="taký" src="auto">PDNS4----------</AM>
 <AM lemma="také" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="také-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="také" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2170-001-p1s31W4-Ta">

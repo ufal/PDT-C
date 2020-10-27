@@ -3203,7 +3203,7 @@
 <LM>w#w-ln95044-055-p5s4w8</LM>
 </w.rf>
 <form>neherci</form>
-<tag lemma="neherec" src="orig" selected="1">NNMP7-----A----</tag>
+<tag lemma="herec" src="orig" selected="1">NNMP7-----N----</tag>
 </m>
 <m id="m-ln95044-055-p5s4w9">
 <src.rf>manual</src.rf>
@@ -3245,7 +3245,7 @@
 <form>nestáli</form>
 <tag>
 <AM lemma="stát-4_^(něco_stojí_peníze)" src="orig">VpMP---XR-NA---</AM>
-<AM lemma="stát-4_^(něco_stojí_peníze)" src="manual" selected="1">VpMP----R-NAI--</AM>
+<AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">VpMP----R-NAI--</AM>
 </tag>
 </m>
 <m id="m-ln95044-055-p5s4w14">

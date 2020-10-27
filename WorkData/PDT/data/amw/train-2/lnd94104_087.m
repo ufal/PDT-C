@@ -123,7 +123,7 @@
 <LM>w#w-lnd94104-087-p1s1w14</LM>
 </w.rf>
 <form>HRABĚ</form>
-<tag lemma="hrabě" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="hrabě-2" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94104-087-p1s1w15">
 <src.rf>manual</src.rf>

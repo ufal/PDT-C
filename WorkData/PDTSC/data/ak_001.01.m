@@ -2396,7 +2396,7 @@
 </w.rf>
 <form>lanýže</form>
 <tag>
-<AM lemma="lanýž" src="auto" recommended="1">NNMP4-----A----</AM>
+<AM lemma="lanýž" src="auto" recommended="1">NNIP4-----A----</AM>
 <AM lemma="lanýž" src="auto">NNMS2-----A----</AM>
 <AM lemma="lanýž" src="auto">NNMS4-----A----</AM>
 </tag>

@@ -2527,7 +2527,7 @@
 <AM lemma="pár-1" src="auto">ClXP2----------</AM>
 <AM lemma="pár-1" src="auto">ClXP3----------</AM>
 <AM lemma="pár-1" src="auto">ClXP6----------</AM>
-<AM lemma="pár-1" src="auto" recommended="1">ClXP7----------</AM>
+<AM lemma="pár-1" src="auto" recommended="1">Ca--X----------</AM>
 <AM lemma="pár-1" src="auto">ClXS1----------</AM>
 <AM lemma="pár-1" src="auto">ClXS4----------</AM>
 <AM lemma="pár-2" src="auto">NNIS1-----A----</AM>

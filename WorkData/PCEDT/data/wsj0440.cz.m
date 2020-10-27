@@ -1476,7 +1476,7 @@
 <AM lemma="Dodge_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Dodge_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Dodge_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Dodge-2_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Dodge-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0440-001-p1s4W13-Ta">
@@ -2045,7 +2045,7 @@
 <AM lemma="Dodge_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Dodge_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Dodge_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Dodge-2_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Dodge-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0440-001-p1s5W4-Ta">

@@ -3816,7 +3816,7 @@
 <AM lemma="fatra_,t_^(oheň)" src="auto">NNFP5-----A----</AM>
 <AM lemma="fatra_,t_^(oheň)" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="Fatra-2_;m" src="manual">NNFS2-----A----</AM>
-<AM lemma="Fatra-2_;G_;m" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="Fatra_;G_;Y_;m" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m140-638-639">

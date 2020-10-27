@@ -4592,7 +4592,7 @@
 <AM lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="auto">AAMP2----2A----</AM>
 <AM lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="auto">AAMP6----2A----</AM>
 <AM lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="auto">AANP2----2A----</AM>
-<AM lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="auto" recommended="1">AANP6----2A----</AM>
+<AM lemma="pozdější" src="auto" recommended="1">AANP6----1A----</AM>
 </tag>
 </m>
 <m id="m911-d1t259-5">

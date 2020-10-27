@@ -5720,7 +5720,7 @@
 <LM>w#w-ln94201-98-p10s4w6</LM>
 </w.rf>
 <form>software</form>
-<tag lemma="software" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="software" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln94201-98-p10s4w7">
 <src.rf>manual</src.rf>
@@ -6208,7 +6208,7 @@
 <LM>w#w-ln94201-98-p11s1w5</LM>
 </w.rf>
 <form>software</form>
-<tag lemma="software" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="software" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln94201-98-p11s1w6">
 <src.rf>manual</src.rf>
@@ -6713,7 +6713,7 @@
 <form>nepoměr</form>
 <tag>
 <AM lemma="nepoměr" src="orig">NNIS1-----A----</AM>
-<AM lemma="poměr" src="manual" selected="1">NNIS1-----N----</AM>
+<AM lemma="nepoměr" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-98-p11s4w8">

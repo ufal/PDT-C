@@ -111,7 +111,7 @@
 <LM>w#w-ln95044-125-p2s1Bw4</LM>
 </w.rf>
 <form>Penguins</form>
-<tag lemma="Penguins_;m" src="orig" selected="1">NNIXX-----A----</tag>
+<tag lemma="Penguins_;m" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln95044-125-p2s1Bw5">
 <src.rf>manual</src.rf>

@@ -181,7 +181,7 @@
 <LM>w#w-ln95047-143-p2s1Aw15</LM>
 </w.rf>
 <form>desetitisíce</form>
-<tag lemma="desetitisíc" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="desetitisíc`10000" src="orig" selected="1">CzIP4----------</tag>
 </m>
 </s>
 <s id="m-ln95047-143-p2s1B">
@@ -722,7 +722,7 @@
 <LM>w#w-ln95047-143-p2s4w18</LM>
 </w.rf>
 <form>desetitisíce</form>
-<tag lemma="desetitisíc" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="desetitisíc`10000" src="orig" selected="1">CzIP4----------</tag>
 </m>
 <m id="m-ln95047-143-p2s4w19">
 <src.rf>manual</src.rf>

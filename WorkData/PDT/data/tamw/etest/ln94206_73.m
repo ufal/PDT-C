@@ -107,7 +107,7 @@
 <AM lemma="terorizmus" src="orig">NNIS1-----A---1</AM>
 <AM lemma="terorizmus" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="terorizmus" src="auto">NNIS4-----A----</AM>
-<AM lemma="terorismus_,s_^(^DD**terorizmus)" src="manual" selected="1">NNIS1-----A---1</AM>
+<AM lemma="terorismus_,s_^(^DD**terorizmus)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-73-p2s1Bw4">
@@ -1814,7 +1814,7 @@
 </w.rf>
 <form>Rabatu</form>
 <tag>
-<AM lemma="Rabat_;G" src="orig" selected="1">NNIS2-----A----</AM>
+<AM lemma="Rabat_;G_;m" src="orig" selected="1">NNIS2-----A----</AM>
 <AM lemma="rabat" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="rabat" src="auto">NNIS3-----A----</AM>
 <AM lemma="rabat" src="auto">NNIS6-----A----</AM>

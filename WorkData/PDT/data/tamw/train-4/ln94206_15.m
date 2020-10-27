@@ -1166,7 +1166,7 @@
 <LM>w#w-ln94206-15-p4s1w24</LM>
 </w.rf>
 <form>pavilonu</form>
-<tag lemma="pavilon" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="pavilon_,s_^(^DD**pavilón)" src="orig" selected="1">NNIS6-----A---1</tag>
 </m>
 <m id="m-ln94206-15-p4s1w25">
 <src.rf>manual</src.rf>

@@ -500,7 +500,7 @@
 <LM>w#w-ln95046-012-p3s2w14</LM>
 </w.rf>
 <form>sexu</form>
-<tag lemma="sex" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="sex-1" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln95046-012-p3s2w15">
 <src.rf>manual</src.rf>

@@ -581,7 +581,7 @@
 <AM lemma="Saab-2_;m_^(vozidlo)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Saab_;m" src="auto">NNIS1-----A----</AM>
 <AM lemma="Saab_;m" src="auto">NNIS4-----A----</AM>
-<AM lemma="saab_;m" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
+<AM lemma="Saab_;m" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="saab_;m" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>

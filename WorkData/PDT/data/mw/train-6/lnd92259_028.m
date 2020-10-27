@@ -972,7 +972,7 @@
 <form>neprofesionality</form>
 <tag>
 <AM lemma="neprofesionalita" src="orig">NNFS2-----A----</AM>
-<AM lemma="profesionalita" src="manual" selected="1">NNFS2-----N----</AM>
+<AM lemma="neprofesionalita" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-028-p2s6w12">

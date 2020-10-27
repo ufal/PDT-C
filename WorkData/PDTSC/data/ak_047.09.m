@@ -861,7 +861,7 @@
 <AM lemma="řídící_^(*3it)" src="auto">AGNS1-----A----</AM>
 <AM lemma="řídící_^(*3it)" src="auto">AGNS4-----A----</AM>
 <AM lemma="řídící_^(*3it)" src="auto">AGNS5-----A----</AM>
-<AM lemma="řídící-3" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="řídící_^(*3it)" src="manual" selected="1">AGFS1-----A----</AM>
 </tag>
 </m>
 <m id="m047-d1t2293-12">
@@ -2615,7 +2615,7 @@
 </w.rf>
 <form>pasu</form>
 <tag>
-<AM lemma="pas-2_^(na_lidském_těle;;cestovní)" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="pas-1_^(přihrávka,_př._v_kopané,na_lidském_těle;;cestovní)" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="pas-2_^(na_lidském_těle;;cestovní)" src="auto">NNIS3-----A----</AM>
 <AM lemma="pas-2_^(na_lidském_těle;;cestovní)" src="auto">NNIS6-----A---1</AM>
 <AM lemma="pas-3_^(přihrávka,_př._v_kopané)" src="auto">NNIS2-----A----</AM>
@@ -3872,7 +3872,7 @@
 <AM lemma="řídící_^(*3it)" src="auto">AGNP3-----A----</AM>
 <AM lemma="řídící_^(*3it)" src="auto">AGNS6-----A----</AM>
 <AM lemma="řídící_^(*3it)" src="auto" recommended="1">AGNS7-----A----</AM>
-<AM lemma="řídící-2" src="manual" selected="1">NNMS7-----A----</AM>
+<AM lemma="řídící_^(*3it)" src="manual" selected="1">AGMS7-----A----</AM>
 </tag>
 </m>
 <m id="m047-d1t2433-7">

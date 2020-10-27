@@ -2001,7 +2001,7 @@
 <AM lemma="nesouhlas" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="souhlasit" src="auto">Vi-S---2--N-I--</AM>
 <AM lemma="souhlasit" src="auto">Vi-S---3--N-I-4</AM>
-<AM lemma="souhlas" src="manual" selected="1">NNIS4-----N----</AM>
+<AM lemma="nesouhlas" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2207-001-p1s5W16-Ta">
@@ -5690,7 +5690,7 @@
 </w.rf>
 <form>nezbytné</form>
 <tag>
-<AM lemma="nezbytný" src="auto" recommended="1">AAFP1----1A----</AM>
+<AM lemma="zbytný" src="auto" recommended="1">AAFP1----1N----</AM>
 <AM lemma="nezbytný" src="auto">AAFP4----1A----</AM>
 <AM lemma="nezbytný" src="auto">AAFP5----1A----</AM>
 <AM lemma="nezbytný" src="auto">AAFS2----1A----</AM>
@@ -6766,7 +6766,7 @@
 <tag>
 <AM lemma="neúspěch" src="auto">NNIS1-----A----</AM>
 <AM lemma="neúspěch" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="úspěch" src="manual" selected="1">NNIS4-----N----</AM>
+<AM lemma="neúspěch" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2207-001-p1s20W17-Ta">

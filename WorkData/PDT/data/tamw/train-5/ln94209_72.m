@@ -1366,7 +1366,7 @@
 <form>st</form>
 <tag>
 <AM lemma="starší_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="starší" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="st-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-72-p3s6w4">
@@ -1700,7 +1700,7 @@
 <LM>w#w-ln94209-72-p3s7w23</LM>
 </w.rf>
 <form>Čtvero</form>
-<tag lemma="čtvero" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="čtvero`4" src="orig" selected="1">CjNS1----------</tag>
 </m>
 <m id="m-ln94209-72-p3s7w24">
 <src.rf>manual</src.rf>

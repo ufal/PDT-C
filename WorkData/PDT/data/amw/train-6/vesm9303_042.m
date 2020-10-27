@@ -1405,7 +1405,7 @@
 <LM>w#w-vesm9303-042-p39s1Aw5</LM>
 </w.rf>
 <form>HIV</form>
-<tag lemma="HIV_;U_^(lidský_virus_způsobující_AIDS)" src="orig" selected="1">NNIXX-----A---b</tag>
+<tag lemma="HIV_;U_^(lidský_virus_způsobujícíIDS)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-vesm9303-042-p39s1Aw6">
 <src.rf>manual</src.rf>

@@ -957,7 +957,7 @@
 <tag>
 <AM lemma="vhod-1" src="auto">NNIS1-----A----</AM>
 <AM lemma="vhod-1" src="auto">NNIS4-----A----</AM>
-<AM lemma="vhod-2" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="vhod-2" src="auto" recommended="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m983-d1e26-x5-402">

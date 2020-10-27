@@ -723,7 +723,7 @@
 <form>fi</form>
 <tag>
 <AM lemma="fi-1" src="auto">II-------------</AM>
-<AM lemma="fi-2_^(sci-fi;wi-fi)" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="fi-2_^(sci-fi;wi-fi)" src="auto" recommended="1">SNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0583-001-p1s1W20-Ta">

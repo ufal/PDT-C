@@ -93,7 +93,7 @@
 <LM>w#w-lnd91303-070-p2s1w7</LM>
 </w.rf>
 <form>hustší</form>
-<tag lemma="hustý" src="orig" selected="1">AAIS1----2A----</tag>
+<tag lemma="hustý" src="orig" selected="1">AAIS1----2A---1</tag>
 </m>
 <m id="m-lnd91303-070-p2s1w8">
 <src.rf>manual</src.rf>

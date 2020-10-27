@@ -187,7 +187,7 @@
 <LM>w#w-mf930708-056-p2s1w13</LM>
 </w.rf>
 <form>Quebeku</form>
-<tag lemma="Québec_;G" src="orig" selected="1">NNIS6-----A---2</tag>
+<tag lemma="Quebek_;G_,s_^(^DD**Quebec)" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-mf930708-056-p2s1w14">
 <src.rf>manual</src.rf>

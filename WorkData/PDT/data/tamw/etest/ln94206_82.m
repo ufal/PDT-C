@@ -69,7 +69,7 @@
 <LM>w#w-ln94206-82-p2s1Aw2</LM>
 </w.rf>
 <form>Skubiszewski</form>
-<tag lemma="Skubiszewski_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Skubiszewský_;Y" src="orig" selected="1">NNMS1-----A---1</tag>
 </m>
 <m id="m-ln94206-82-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -478,7 +478,7 @@
 <LM>w#w-ln94206-82-p2s2w27</LM>
 </w.rf>
 <form>Skubiszewski</form>
-<tag lemma="Skubiszewski_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Skubiszewský_;Y" src="orig" selected="1">NNMS1-----A---1</tag>
 </m>
 <m id="m-ln94206-82-p2s2w28">
 <src.rf>manual</src.rf>
@@ -584,7 +584,7 @@
 <LM>w#w-ln94206-82-p2s3w2</LM>
 </w.rf>
 <form>Skubiszewski</form>
-<tag lemma="Skubiszewski_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Skubiszewský_;Y" src="orig" selected="1">NNMS1-----A---1</tag>
 </m>
 <m id="m-ln94206-82-p2s3w3">
 <src.rf>manual</src.rf>

@@ -5557,7 +5557,7 @@
 </w.rf>
 <form>Husa</form>
 <tag>
-<AM lemma="Hus_;Y" src="auto" selected="1">NNMS2-----A----</AM>
+<AM lemma="Hus-1_;Y" src="auto" selected="1">NNMS2-----A----</AM>
 <AM lemma="Hus_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="Huso_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Huso_;Y" src="auto">NNMS4-----A----</AM>

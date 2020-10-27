@@ -6493,7 +6493,7 @@
 <LM>w#w-vesm9211-017-p11s1w1</LM>
 </w.rf>
 <form>Dinosauři</form>
-<tag lemma="dinosaur" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="dinosaurus" src="orig" selected="1">NNMP1-----A---1</tag>
 </m>
 <m id="m-vesm9211-017-p11s1w2">
 <src.rf>manual</src.rf>
@@ -6770,7 +6770,7 @@
 <LM>w#w-vesm9211-017-p11s2w13</LM>
 </w.rf>
 <form>dinosauři</form>
-<tag lemma="dinosaur" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="dinosaurus" src="orig" selected="1">NNMP1-----A---1</tag>
 </m>
 <m id="m-vesm9211-017-p11s2w14">
 <src.rf>manual</src.rf>
@@ -7665,7 +7665,7 @@
 <LM>w#w-vesm9211-017-p11s4w30</LM>
 </w.rf>
 <form>dinosauři</form>
-<tag lemma="dinosaur" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="dinosaurus" src="orig" selected="1">NNMP1-----A---1</tag>
 </m>
 <m id="m-vesm9211-017-p11s4w31">
 <src.rf>manual</src.rf>
@@ -7787,7 +7787,7 @@
 <LM>w#w-vesm9211-017-p11s5w9</LM>
 </w.rf>
 <form>dinosauři</form>
-<tag lemma="dinosaur" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="dinosaurus" src="orig" selected="1">NNMP1-----A---1</tag>
 </m>
 <m id="m-vesm9211-017-p11s5w10">
 <src.rf>manual</src.rf>

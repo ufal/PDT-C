@@ -3008,7 +3008,7 @@
 </w.rf>
 <form>s</form>
 <tag>
-<AM lemma="severní" src="orig" selected="1">AAXXX----1A---b</AM>
+<AM lemma="s-33" src="orig" selected="1">Q3-------------</AM>
 <AM lemma="s-1" src="auto">RR--2----------</AM>
 <AM lemma="s-1" src="auto">RR--4----------</AM>
 <AM lemma="s-1" src="auto">RR--7----------</AM>
@@ -12305,7 +12305,7 @@
 <LM>w#w-vesm9212-050-p39s1w4</LM>
 </w.rf>
 <form>HIV</form>
-<tag lemma="HIV_;U_^(lidský_virus_způsobující_AIDS)" src="orig" selected="1">NNIXX-----A---b</tag>
+<tag lemma="HIV_;U_^(lidský_virus_způsobujícíIDS)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-vesm9212-050-p39s1w5">
 <src.rf>manual</src.rf>
@@ -12347,7 +12347,7 @@
 <LM>w#w-vesm9212-050-p40s1w4</LM>
 </w.rf>
 <form>HIV</form>
-<tag lemma="HIV_;U_^(lidský_virus_způsobující_AIDS)" src="orig" selected="1">NNIXX-----A---b</tag>
+<tag lemma="HIV_;U_^(lidský_virus_způsobujícíIDS)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-vesm9212-050-p40s1w5">
 <src.rf>manual</src.rf>
@@ -13216,7 +13216,7 @@
 <LM>w#w-vesm9212-050-p41s1w21</LM>
 </w.rf>
 <form>HIV</form>
-<tag lemma="HIV_;U_^(lidský_virus_způsobující_AIDS)" src="orig" selected="1">NNIXX-----A---b</tag>
+<tag lemma="HIV_;U_^(lidský_virus_způsobujícíIDS)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-vesm9212-050-p41s1w22">
 <src.rf>manual</src.rf>
@@ -13410,7 +13410,7 @@
 <LM>w#w-vesm9212-050-p41s2w23</LM>
 </w.rf>
 <form>HIV</form>
-<tag lemma="HIV_;U_^(lidský_virus_způsobující_AIDS)" src="orig" selected="1">NNIXX-----A---b</tag>
+<tag lemma="HIV_;U_^(lidský_virus_způsobujícíIDS)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-vesm9212-050-p41s2w24">
 <src.rf>manual</src.rf>

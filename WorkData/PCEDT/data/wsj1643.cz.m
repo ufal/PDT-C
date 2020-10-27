@@ -10184,7 +10184,7 @@
 <AM lemma="marina" src="auto">NNFP4-----A----</AM>
 <AM lemma="marina" src="auto">NNFP5-----A----</AM>
 <AM lemma="marina" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Marina_;G" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="Marina_;G_;Y_;m" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1643-001-p1s52W21-Ta">

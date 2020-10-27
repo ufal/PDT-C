@@ -6535,7 +6535,7 @@
 <AM lemma="noční" src="auto">AANS1----1A----</AM>
 <AM lemma="noční" src="auto">AANS4----1A----</AM>
 <AM lemma="noční" src="auto">AANS5----1A----</AM>
-<AM lemma="noční-2" src="manual" selected="1">NNFS4-----A----</AM>
+<AM lemma="noční" src="manual" selected="1">AAFS4----1A----</AM>
 </tag>
 </m>
 <m id="m121-d1t885-5">

@@ -89,7 +89,7 @@
 <LM>w#w-mf920923-076-p4s1w2</LM>
 </w.rf>
 <form>několikerý</form>
-<tag lemma="několikerý" src="orig" selected="1">AAIS4----1A----</tag>
+<tag lemma="několikerý" src="orig" selected="1">ChIS4----------</tag>
 </m>
 <m id="m-mf920923-076-p4s1w3">
 <src.rf>manual</src.rf>

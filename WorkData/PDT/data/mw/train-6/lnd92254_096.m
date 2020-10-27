@@ -2049,7 +2049,7 @@
 <LM>w#w-lnd92254-096-p7s1w9</LM>
 </w.rf>
 <form>Rusa</form>
-<tag lemma="Rus_;E" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Rus-1_;E" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92254-096-p7s1w10">
 <src.rf>manual</src.rf>

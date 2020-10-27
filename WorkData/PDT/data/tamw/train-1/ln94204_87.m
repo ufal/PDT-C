@@ -837,7 +837,7 @@
 <form>Rabatu</form>
 <tag>
 <AM lemma="rabat" src="orig">NNIS6-----A----</AM>
-<AM lemma="Rabat_;G" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="Rabat_;G_;m" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-87-p2s4w24">

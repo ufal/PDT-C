@@ -722,7 +722,7 @@
 <LM>w#w-ln94208-100-p2s4w1</LM>
 </w.rf>
 <form>Švédy</form>
-<tag lemma="Švéd_;E" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="Švéd_;E_;Y" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-ln94208-100-p2s4w2">
 <src.rf>manual</src.rf>
@@ -1075,7 +1075,7 @@
 <LM>w#w-ln94208-100-p3s1Bw6</LM>
 </w.rf>
 <form>Paterův</form>
-<tag lemma="Paterův_;Y_^(*2a)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Paterův_;Y_^(*2)_(*2a)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-ln94208-100-p3s1Bw7">
 <src.rf>manual</src.rf>
@@ -2273,7 +2273,7 @@
 <LM>w#w-ln94208-100-p4s4w3</LM>
 </w.rf>
 <form>Paterově</form>
-<tag lemma="Paterův_;Y_^(*2a)" src="orig" selected="1">AUIS6M---------</tag>
+<tag lemma="Paterův_;Y_^(*2)_(*2a)" src="orig" selected="1">AUIS6M---------</tag>
 </m>
 <m id="m-ln94208-100-p4s4w4">
 <src.rf>manual</src.rf>

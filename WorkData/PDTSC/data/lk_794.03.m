@@ -2684,7 +2684,7 @@
 <LM>w#w-d1t855-10</LM>
 </w.rf>
 <form>kápy</form>
-<tag lemma="kápo" src="auto" recommended="1">NNNP7-----A----</tag>
+<tag lemma="kápo" src="auto" recommended="1">NNMP7-----A----</tag>
 </m>
 <m id="m794-d1t855-11">
 <w.rf>

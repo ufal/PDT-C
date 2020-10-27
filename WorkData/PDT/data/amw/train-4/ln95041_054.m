@@ -3027,7 +3027,7 @@
 <LM>w#w-ln95041-054-p4s8w8</LM>
 </w.rf>
 <form>pozdějších</form>
-<tag lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="orig" selected="1">AAFP6----2A----</tag>
+<tag lemma="pozdější" src="orig" selected="1">AAFP6----1A----</tag>
 </m>
 <m id="m-ln95041-054-p4s8w9">
 <src.rf>manual</src.rf>

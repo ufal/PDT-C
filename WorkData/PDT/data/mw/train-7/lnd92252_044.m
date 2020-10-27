@@ -1729,7 +1729,7 @@
 <LM>w#w-lnd92252-044-p5s1w10</LM>
 </w.rf>
 <form>j</form>
-<tag lemma="jako-1" src="auto" selected="1">J,------------b</tag>
+<tag lemma="j-33" src="auto" selected="1">Q3-------------</tag>
 </m>
 <m id="m-lnd92252-044-p5s1w11">
 <src.rf>manual</src.rf>
@@ -1746,7 +1746,7 @@
 </w.rf>
 <form>h</form>
 <tag>
-<AM lemma="host" src="orig" selected="1">NNMXX-----A---b</AM>
+<AM lemma="h-33" src="orig" selected="1">Q3-------------</AM>
 <AM lemma="h-33" src="auto">Q3-------------</AM>
 <AM lemma="h-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="hodina_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
@@ -2703,7 +2703,7 @@
 <LM>w#w-lnd92252-044-p5s6w13</LM>
 </w.rf>
 <form>j</form>
-<tag lemma="jako-1" src="auto" selected="1">J,------------b</tag>
+<tag lemma="j-33" src="auto" selected="1">Q3-------------</tag>
 </m>
 <m id="m-lnd92252-044-p5s6w14">
 <src.rf>manual</src.rf>
@@ -2720,7 +2720,7 @@
 </w.rf>
 <form>h</form>
 <tag>
-<AM lemma="host" src="orig" selected="1">NNMXX-----A---b</AM>
+<AM lemma="h-33" src="orig" selected="1">Q3-------------</AM>
 <AM lemma="h-33" src="auto">Q3-------------</AM>
 <AM lemma="h-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="hodina_:B" src="auto" recommended="1">NNFXX-----A---8</AM>

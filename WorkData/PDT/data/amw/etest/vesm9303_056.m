@@ -50957,7 +50957,7 @@
 <LM>w#w-vesm9303-056-p64s6w21</LM>
 </w.rf>
 <form>kužele</form>
-<tag lemma="kužel" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="kužel" src="orig" selected="1">NNIS2-----A---1</tag>
 </m>
 <m id="m-vesm9303-056-p64s6w22">
 <src.rf>manual</src.rf>
@@ -51296,7 +51296,7 @@
 <LM>w#w-vesm9303-056-p64s7w12</LM>
 </w.rf>
 <form>kužele</form>
-<tag lemma="kužel" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="kužel" src="orig" selected="1">NNIS2-----A---1</tag>
 </m>
 <m id="m-vesm9303-056-p64s7w13">
 <src.rf>manual</src.rf>

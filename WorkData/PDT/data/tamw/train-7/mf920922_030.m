@@ -52,7 +52,7 @@
 </w.rf>
 <form>Tarkovskij</form>
 <tag>
-<AM lemma="Tarkovský_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Tarkovský_;Y" src="orig" selected="1">NNMS1-----A---1</AM>
 <AM lemma="Tarkovský_;Y" src="auto">NNMS1-----A---1</AM>
 <AM lemma="Tarkovský_;Y" src="auto">NNMS5-----A---1</AM>
 <AM lemma="Tarkovskij_;Y" src="auto" recommended="1">NNMS1-----A----</AM>

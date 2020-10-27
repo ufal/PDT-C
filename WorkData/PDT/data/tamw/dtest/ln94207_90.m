@@ -5400,7 +5400,7 @@
 <tag>
 <AM lemma="katolík" src="orig">NNMS4-----N----</AM>
 <AM lemma="nekatolík" src="auto">NNMS2-----A----</AM>
-<AM lemma="nekatolík" src="auto" recommended="1" selected="1">NNMS4-----A----</AM>
+<AM lemma="katolík" src="auto" recommended="1" selected="1">NNMS4-----N----</AM>
 </tag>
 </m>
 <m id="m-ln94207-90-p6s2w12">

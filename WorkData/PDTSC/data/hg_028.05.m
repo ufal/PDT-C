@@ -210,7 +210,7 @@
 <AM lemma="řídící_^(*3it)" src="auto">AGNS1-----A----</AM>
 <AM lemma="řídící_^(*3it)" src="auto">AGNS4-----A----</AM>
 <AM lemma="řídící_^(*3it)" src="auto">AGNS5-----A----</AM>
-<AM lemma="řídící-2" src="manual" selected="1">NNMP1-----A----</AM>
+<AM lemma="řídící_^(*3it)" src="manual" selected="1">AGMP1-----A----</AM>
 </tag>
 </m>
 <m id="m028-d1t1610-9">

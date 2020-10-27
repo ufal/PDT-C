@@ -583,7 +583,7 @@
 <LM>w#w-ln95045-024-p3s2w8</LM>
 </w.rf>
 <form>O</form>
-<tag lemma="O-2_;Y_^(v_irských_jménech,_př._O'Connor)" src="orig" selected="1">NNXXX-----A----</tag>
+<tag lemma="O-77" src="orig" selected="1">F%-------------</tag>
 </m>
 <m id="m-ln95045-024-p3s2w9">
 <src.rf>manual</src.rf>

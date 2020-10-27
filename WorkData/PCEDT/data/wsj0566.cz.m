@@ -1682,7 +1682,7 @@
 <AM lemma="stávkující_^(*5ovat)" src="auto">AGMP6-----A----</AM>
 <AM lemma="stávkující_^(*5ovat)" src="auto">AGNP2-----A----</AM>
 <AM lemma="stávkující_^(*5ovat)" src="auto">AGNP6-----A----</AM>
-<AM lemma="stávkující-2" src="manual" selected="1">NNMP2-----A----</AM>
+<AM lemma="stávkující_^(*5ovat)" src="manual" selected="1">AGMP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0566-001-p1s6W4-Ta">

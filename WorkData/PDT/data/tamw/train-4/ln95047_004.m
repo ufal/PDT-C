@@ -29,7 +29,7 @@
 <form>Robinsonů</form>
 <tag>
 <AM lemma="robinson-1" src="orig">NNMP2-----A----</AM>
-<AM lemma="Robinson-1_;Y" src="manual" selected="1">NNMP2-----A----</AM>
+<AM lemma="Robinson_;Y" src="manual" selected="1">NNMP2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-004-p1s1w3">
@@ -132,7 +132,7 @@
 <form>Robinsonů</form>
 <tag>
 <AM lemma="robinson-1" src="orig">NNMP2-----A----</AM>
-<AM lemma="Robinson-1_;Y" src="manual" selected="1">NNMP2-----A----</AM>
+<AM lemma="Robinson_;Y" src="manual" selected="1">NNMP2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-004-p2s1Bw8">
@@ -958,7 +958,7 @@
 <form>Robinsonů</form>
 <tag>
 <AM lemma="robinson-1" src="orig">NNMP2-----A----</AM>
-<AM lemma="Robinson-1_;Y" src="manual" selected="1">NNMP2-----A----</AM>
+<AM lemma="Robinson_;Y" src="manual" selected="1">NNMP2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-004-p3s4w7">

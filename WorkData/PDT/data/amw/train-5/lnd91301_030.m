@@ -188,7 +188,7 @@
 <LM>w#w-lnd91301-030-p2s1Bw14</LM>
 </w.rf>
 <form>pár</form>
-<tag lemma="pár-1" src="orig" selected="1">ClXP2----------</tag>
+<tag lemma="pár-1" src="orig" selected="1">Ca--X----------</tag>
 </m>
 <m id="m-lnd91301-030-p2s1Bw15">
 <src.rf>manual</src.rf>

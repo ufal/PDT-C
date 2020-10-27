@@ -12009,7 +12009,7 @@
 <AM lemma="černý_;o" src="auto">AAMP6----1A----</AM>
 <AM lemma="černý_;o" src="auto">AANP2----1A----</AM>
 <AM lemma="černý_;o" src="auto">AANP6----1A----</AM>
-<AM lemma="černý-2" src="manual" selected="1">NNMP2-----A----</AM>
+<AM lemma="černý_;o" src="manual" selected="1">AAMP2----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0426-001-p1s41W20-Ta">

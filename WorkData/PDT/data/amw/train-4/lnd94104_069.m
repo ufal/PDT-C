@@ -1349,7 +1349,7 @@
 <form>tzv</form>
 <tag>
 <AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="takzvaně_^(*1ý)" src="manual" selected="1">Dg-------1A---8</AM>
+<AM lemma="takzvaně" src="manual" selected="1">Dg-------1A---b</AM>
 </tag>
 </m>
 <m id="m-lnd94104-069-p1s6w16">

@@ -15007,7 +15007,7 @@
 <form>Mars</form>
 <tag>
 <AM lemma="mars" src="orig">NNIS1-----A----</AM>
-<AM lemma="Mars-2_;m_^(planeta;;kosmická_sonda)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Mars-2_;G_;m_^(planeta;;kosmická_sonda)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-049-p19s3w2">
@@ -15127,7 +15127,7 @@
 <form>Marsu</form>
 <tag>
 <AM lemma="mars" src="orig">NNIS2-----A----</AM>
-<AM lemma="Mars-2_;m_^(planeta;;kosmická_sonda)" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Mars-2_;G_;m_^(planeta;;kosmická_sonda)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-049-p20s1w13">
@@ -15260,7 +15260,7 @@
 <form>Mars</form>
 <tag>
 <AM lemma="mars" src="orig">NNIS1-----A----</AM>
-<AM lemma="Mars-2_;m_^(planeta;;kosmická_sonda)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Mars-2_;G_;m_^(planeta;;kosmická_sonda)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-049-p20s2w3">
@@ -15529,7 +15529,7 @@
 <form>Mars</form>
 <tag>
 <AM lemma="mars" src="orig">NNIS1-----A----</AM>
-<AM lemma="Mars-2_;m_^(planeta;;kosmická_sonda)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Mars-2_;G_;m_^(planeta;;kosmická_sonda)" src="manual" selected="1">NNIS1-----A----</AM>
 <AM lemma="Mars-77" src="manual">F%-------------</AM>
 </tag>
 </m>
@@ -21280,7 +21280,7 @@
 <LM>w#w-vesm9212-049-p31s4w1</LM>
 </w.rf>
 <form>Dinosauři</form>
-<tag lemma="dinosaur" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="dinosaurus" src="orig" selected="1">NNMP1-----A---1</tag>
 </m>
 <m id="m-vesm9212-049-p31s4w2">
 <src.rf>manual</src.rf>
@@ -21314,7 +21314,7 @@
 <LM>w#w-vesm9212-049-p32s1w1</LM>
 </w.rf>
 <form>Dinosauři</form>
-<tag lemma="dinosaur" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="dinosaurus" src="orig" selected="1">NNMP1-----A---1</tag>
 </m>
 <m id="m-vesm9212-049-p32s1w2">
 <src.rf>manual</src.rf>
@@ -23113,7 +23113,7 @@
 <form>Columbusu</form>
 <tag>
 <AM lemma="Columbus_;m" src="auto">NNIS6-----A----</AM>
-<AM lemma="Columbus_;G_;m" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="Columbus-2_;G_;m" src="manual" selected="1">NNIS6-----A---6</AM>
 </tag>
 </m>
 <m id="m-vesm9212-049-p35s2w9">
@@ -25711,7 +25711,7 @@
 <form>Dr</form>
 <tag>
 <AM lemma="doktor_:B_^(doktor,_akad._titul)" src="orig">NNMXX-----A---8</AM>
-<AM lemma="dr_^(doktor)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="Dr_^(doktor,_akad._titul)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-049-p37s12w2">

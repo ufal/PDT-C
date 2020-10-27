@@ -219,7 +219,7 @@
 <LM>w#w-vesm9211-044-p2s1w4</LM>
 </w.rf>
 <form>Prof</form>
-<tag lemma="profesor" src="orig" selected="1">NNMXX-----A---b</tag>
+<tag lemma="Prof_^(profesor)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-vesm9211-044-p2s1w5">
 <src.rf>manual</src.rf>
@@ -252,7 +252,7 @@
 </w.rf>
 <form>l</form>
 <tag>
-<AM lemma="rok" src="orig" selected="1">NNNXX-----A---b</AM>
+<AM lemma="l-33" src="orig" selected="1">Q3-------------</AM>
 <AM lemma="l-33" src="auto" recommended="1">Q3-------------</AM>
 <AM lemma="l-4_^(graf._oddělovač)" src="auto">Z:-------------</AM>
 <AM lemma="l-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>

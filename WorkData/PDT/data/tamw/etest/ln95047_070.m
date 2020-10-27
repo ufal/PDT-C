@@ -3796,7 +3796,7 @@
 <LM>w#w-ln95047-070-p8s2w6</LM>
 </w.rf>
 <form>dr</form>
-<tag lemma="doktor_^(doktor,_akad._titul)" src="orig" selected="1">NNMXX-----A---b</tag>
+<tag lemma="dr_^(doktor,_akad._titul)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln95047-070-p8s2w7">
 <src.rf>manual</src.rf>

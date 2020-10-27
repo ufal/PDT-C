@@ -1713,7 +1713,7 @@
 <LM>w#w-ln94209-100-p3s3w6</LM>
 </w.rf>
 <form>Švédovi</form>
-<tag lemma="Švéd_;E" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Švéd_;E_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln94209-100-p3s3w7">
 <src.rf>manual</src.rf>

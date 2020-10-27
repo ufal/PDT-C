@@ -1820,7 +1820,7 @@
 <AM lemma="L-9_:B_;Y" src="auto">NNMXX-----A---8</AM>
 <AM lemma="L-9_:B_;Y" src="auto">NNXXX-----A---8</AM>
 <AM lemma="L-10_^(př._L'Aqua,_stažený_tvar_fr._členu)" src="auto">AAXXX----1A----</AM>
-<AM lemma="Labe_;G" src="auto" selected="1">NNNS7-----A---b</AM>
+<AM lemma="L-33" src="auto" selected="1">Q3-------------</AM>
 <AM lemma="L-33" src="auto">Q3-------------</AM>
 <AM lemma="l-4_^(graf._oddělovač)" src="auto">Z:-------------</AM>
 <AM lemma="l-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
@@ -3135,7 +3135,7 @@
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana-4_:B_^(v_knize,_rukopise,...)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="S_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="S-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-79-p6s3w20">
@@ -5810,7 +5810,7 @@
 <LM>w#w-ln94201-79-p10s2w10</LM>
 </w.rf>
 <form>Turbo</form>
-<tag lemma="Turbo-2_;m" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Turbo_;G_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94201-79-p10s2w11">
 <src.rf>manual</src.rf>

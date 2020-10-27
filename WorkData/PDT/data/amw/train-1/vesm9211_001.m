@@ -6914,7 +6914,7 @@
 <LM>w#w-vesm9211-001-p16s1w27</LM>
 </w.rf>
 <form>tolikeré</form>
-<tag lemma="tolikerý" src="orig" selected="1">AANS1----1A----</tag>
+<tag lemma="tolikerý" src="orig" selected="1">ChNS1----------</tag>
 </m>
 <m id="m-vesm9211-001-p16s1w28">
 <src.rf>manual</src.rf>
@@ -9353,7 +9353,7 @@
 <LM>w#w-vesm9211-001-p19s1w11</LM>
 </w.rf>
 <form>stamilióny</form>
-<tag lemma="stamilión" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="stamilión`100000000" src="orig" selected="1">CzIP4----------</tag>
 </m>
 <m id="m-vesm9211-001-p19s1w12">
 <src.rf>manual</src.rf>

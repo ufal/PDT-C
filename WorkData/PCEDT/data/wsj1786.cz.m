@@ -421,7 +421,7 @@
 <tag>
 <AM lemma="Hug_;Y" src="auto">NNMS3-----A----</AM>
 <AM lemma="Hug_;Y" src="auto">NNMS6-----A----</AM>
-<AM lemma="Hugo-1_;Y" src="auto" recommended="1">NNMS3-----A----</AM>
+<AM lemma="Hugo_;Y" src="auto" recommended="1">NNMS3-----A----</AM>
 <AM lemma="Hugo-1_;Y" src="auto">NNMS6-----A----</AM>
 <AM lemma="Hugův-1_;Y_^(*4o-1)" src="auto">AUMP1M---------</AM>
 <AM lemma="Hugův-1_;Y_^(*4o-1)" src="auto">AUMP5M---------</AM>

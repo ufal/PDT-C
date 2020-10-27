@@ -65,7 +65,7 @@
 <AM lemma="Renault_;m" src="auto">NNIS6-----A---1</AM>
 <AM lemma="renault_^(auto)" src="auto">NNIS3-----A----</AM>
 <AM lemma="renault_^(auto)" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Renault_;m" src="manual" selected="1">NNIS2-----A---1</AM>
+<AM lemma="Renault_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-7-p1s1w7">

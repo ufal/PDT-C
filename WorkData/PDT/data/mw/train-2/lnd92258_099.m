@@ -3054,7 +3054,7 @@
 <LM>w#w-lnd92258-099-p9s1w1</LM>
 </w.rf>
 <form>Prof</form>
-<tag lemma="profesor" src="orig" selected="1">NNMXX-----A---b</tag>
+<tag lemma="Prof_^(profesor)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd92258-099-p9s1w2">
 <src.rf>manual</src.rf>

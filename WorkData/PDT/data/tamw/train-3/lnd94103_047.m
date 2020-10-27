@@ -201,7 +201,7 @@
 </w.rf>
 <form>Caen</form>
 <tag>
-<AM lemma="Caen_;G" src="orig" selected="1">NNIS2-----A----</AM>
+<AM lemma="Caen_;G" src="orig" selected="1">NNIXX-----A----</AM>
 <AM lemma="Caen_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Caen_;G" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -691,7 +691,7 @@
 </w.rf>
 <form>Caen</form>
 <tag>
-<AM lemma="Caen_;G" src="orig" selected="1">NNIS2-----A----</AM>
+<AM lemma="Caen_;G" src="orig" selected="1">NNIXX-----A----</AM>
 <AM lemma="Caen_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Caen_;G" src="auto" recommended="1">NNIS4-----A----</AM>
 </tag>
@@ -928,7 +928,7 @@
 <LM>w#w-lnd94103-047-p1s5w22</LM>
 </w.rf>
 <form>pozdějším</form>
-<tag lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="orig" selected="1">AANS7----2A----</tag>
+<tag lemma="pozdější" src="orig" selected="1">AANS7----1A----</tag>
 </m>
 <m id="m-lnd94103-047-p1s5w23">
 <src.rf>manual</src.rf>

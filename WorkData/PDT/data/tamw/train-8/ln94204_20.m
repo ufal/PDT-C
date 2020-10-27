@@ -1173,7 +1173,7 @@
 </w.rf>
 <form>odchodu</form>
 <tag>
-<AM lemma="odchod" src="orig" selected="1">NNIS6-----A----</AM>
+<AM lemma="odchod" src="orig" selected="1">NNIS6-----A---1</AM>
 <AM lemma="odchod" src="auto">NNIS2-----A----</AM>
 <AM lemma="odchod" src="auto">NNIS3-----A----</AM>
 <AM lemma="odchod" src="auto" recommended="1">NNIS6-----A---1</AM>

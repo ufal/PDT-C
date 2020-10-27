@@ -65,7 +65,7 @@
 <AM lemma="Federiko_;Y" src="orig">NNMS2-----A----</AM>
 <AM lemma="Federik_;Y_,t" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Federik_;Y_,t" src="auto">NNMS4-----A----</AM>
-<AM lemma="Federiko_;Y_,s_^(^DD**Federico)" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Federiko_;Y_^(^DD**Federico)" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-023-p1s2w5">

@@ -895,7 +895,7 @@
 <form>Trabanta</form>
 <tag>
 <AM lemma="Trabant_;m_^(vozidlo)" src="auto">NNIS2-----A---1</AM>
-<AM lemma="Trabant_;m_^(vozidlo)" src="auto" selected="1">NNMS4-----A----</AM>
+<AM lemma="Trabant_;m_^(vozidlo)" src="auto" selected="1">NNIS4-----A---1</AM>
 <AM lemma="trabant_;m" src="auto">NNIS2-----A---1</AM>
 <AM lemma="trabant_;m" src="auto" recommended="1">NNMS4-----A----</AM>
 </tag>
@@ -937,7 +937,7 @@
 <form>žigulíka</form>
 <tag>
 <AM lemma="žigulík_,h" src="auto">NNMS2-----A----</AM>
-<AM lemma="žigulík_,h" src="auto" recommended="1">NNMS4-----A----</AM>
+<AM lemma="žigulík_,h" src="auto" recommended="1">NNIS4-----A---1</AM>
 </tag>
 </m>
 <m id="m105-d-m-d1e1215-x2-punct-punct">

@@ -223,7 +223,7 @@
 <form>machle</form>
 <tag>
 <AM lemma="machl_,h_^(pikle)" src="auto" recommended="1">NNIS5-----A----</AM>
-<AM lemma="machl_,h_^(pikle)" src="manual" selected="1">NNIP4-----A---6</AM>
+<AM lemma="machl_,h_^(pikle)" src="manual" selected="1">NNIP4-----A---1</AM>
 </tag>
 </m>
 <m id="m019-d-m-d1e1688-x2-punct-punct">

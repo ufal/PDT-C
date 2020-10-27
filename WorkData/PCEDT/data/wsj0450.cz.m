@@ -5768,7 +5768,7 @@
 <form>skicy</form>
 <tag>
 <AM lemma="skica" src="auto">NNFP1-----A----</AM>
-<AM lemma="skica" src="auto" recommended="1">NNFP4-----A----</AM>
+<AM lemma="skica" src="auto" recommended="1">NNFP4-----A---6</AM>
 <AM lemma="skica" src="auto">NNFP5-----A----</AM>
 <AM lemma="skica" src="auto">NNFS2-----A----</AM>
 </tag>
@@ -11459,7 +11459,7 @@
 <AM lemma="Woodbridge_;G" src="auto">NNFS2-----A----</AM>
 <AM lemma="Woodbridge_;G" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="Woodbridge_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Woodbridge_;G" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="Woodbridge-2_;G_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0450-001-p1s37W24-Ta">

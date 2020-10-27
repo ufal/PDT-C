@@ -3128,7 +3128,7 @@
 <LM>w#w-ln94210-139-p5s2w9</LM>
 </w.rf>
 <form>statisíce</form>
-<tag lemma="stotisíc`100000" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="statisíc`100000" src="orig" selected="1">CzIP1----------</tag>
 </m>
 <m id="m-ln94210-139-p5s2w10">
 <src.rf>manual</src.rf>

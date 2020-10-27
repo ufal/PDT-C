@@ -27,7 +27,7 @@
 <LM>w#w-lnd92254-017-p1s1w2</LM>
 </w.rf>
 <form>ČLEN</form>
-<tag lemma="člen" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92254-017-p1s1w3">
 <src.rf>manual</src.rf>

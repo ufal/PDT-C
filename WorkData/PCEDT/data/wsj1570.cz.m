@@ -7101,7 +7101,7 @@
 <form>pasy</form>
 <tag>
 <AM lemma="pas-2_^(na_lidském_těle;;cestovní)" src="auto">NNIP1-----A----</AM>
-<AM lemma="pas-2_^(na_lidském_těle;;cestovní)" src="auto" recommended="1">NNIP4-----A----</AM>
+<AM lemma="pas-1_^(přihrávka,_př._v_kopané,na_lidském_těle;;cestovní)" src="auto" recommended="1">NNIP4-----A----</AM>
 <AM lemma="pas-2_^(na_lidském_těle;;cestovní)" src="auto">NNIP5-----A----</AM>
 <AM lemma="pas-2_^(na_lidském_těle;;cestovní)" src="auto">NNIP7-----A----</AM>
 <AM lemma="pas-3_^(přihrávka,_př._v_kopané)" src="auto">NNIP1-----A----</AM>
@@ -21083,7 +21083,7 @@
 <form>stamiliony</form>
 <tag>
 <AM lemma="stamilion_,s_^(^DD**stamilión)" src="auto">NNIP1-----A----</AM>
-<AM lemma="stamilion_,s_^(^DD**stamilión)" src="auto" recommended="1">NNIP4-----A----</AM>
+<AM lemma="stamilion`100000000_,s_^(^DD**stamilión)" src="auto" recommended="1">CzIP4----------</AM>
 <AM lemma="stamilion_,s_^(^DD**stamilión)" src="auto">NNIP5-----A----</AM>
 <AM lemma="stamilion_,s_^(^DD**stamilión)" src="auto">NNIP7-----A----</AM>
 </tag>

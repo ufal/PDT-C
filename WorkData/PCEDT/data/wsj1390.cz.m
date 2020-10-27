@@ -1178,7 +1178,7 @@
 <AM lemma="mizející_^(*4t)" src="auto">AGIP1-----A----</AM>
 <AM lemma="mizející_^(*4t)" src="auto">AGIP4-----A----</AM>
 <AM lemma="mizející_^(*4t)" src="auto">AGIP5-----A----</AM>
-<AM lemma="mizející_^(*4t)" src="auto" selected="1">AGIS1-----A----</AM>
+<AM lemma="mizející" src="auto" selected="1">AAIS1----1A----</AM>
 <AM lemma="mizející_^(*4t)" src="auto">AGIS4-----A----</AM>
 <AM lemma="mizející_^(*4t)" src="auto">AGIS5-----A----</AM>
 <AM lemma="mizející_^(*4t)" src="auto">AGMP1-----A----</AM>

@@ -3005,7 +3005,7 @@
 <AM lemma="malý" src="auto" recommended="1">AAMS2----1A----</AM>
 <AM lemma="malý" src="auto">AAMS4----1A----</AM>
 <AM lemma="malý" src="auto">AANS2----1A----</AM>
-<AM lemma="malý-2_,h" src="manual" selected="1">NNMS4-----A----</AM>
+<AM lemma="malý" src="manual" selected="1">AAMS4----1A----</AM>
 </tag>
 </m>
 <m id="m004-d-id136372-punct">

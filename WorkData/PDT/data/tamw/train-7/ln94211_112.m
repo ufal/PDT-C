@@ -1003,7 +1003,7 @@
 <LM>w#w-ln94211-112-p4s2w19</LM>
 </w.rf>
 <form>Topolovi</form>
-<tag lemma="Topol_;Y" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Topol-1_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln94211-112-p4s2w20">
 <src.rf>manual</src.rf>
@@ -2293,7 +2293,7 @@
 <LM>w#w-ln94211-112-p6s1w24</LM>
 </w.rf>
 <form>vhod</form>
-<tag lemma="vhod-2" src="auto" selected="1">Db-------------</tag>
+<tag lemma="vhod-2" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94211-112-p6s1w25">
 <src.rf>manual</src.rf>

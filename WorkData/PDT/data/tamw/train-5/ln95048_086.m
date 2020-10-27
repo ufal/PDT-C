@@ -304,7 +304,7 @@
 <LM>w#w-ln95048-086-p2s2w6</LM>
 </w.rf>
 <form>Rusem</form>
-<tag lemma="Rus_;E" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Rus-1_;E" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95048-086-p2s2w7">
 <src.rf>manual</src.rf>

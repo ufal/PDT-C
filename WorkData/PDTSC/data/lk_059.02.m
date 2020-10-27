@@ -4686,7 +4686,7 @@
 <tag>
 <AM lemma="špičák" src="auto">NNIS1-----A----</AM>
 <AM lemma="špičák" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="Špičák_;G" src="manual" selected="1">NNIS4-----A----</AM>
+<AM lemma="Špičák-2_;G" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m059-d-id89997-punct">
@@ -5006,7 +5006,7 @@
 <AM lemma="vrátný-2" src="auto">AANP1----1A----</AM>
 <AM lemma="vrátný-2" src="auto">AANP4----1A----</AM>
 <AM lemma="vrátný-2" src="auto">AANP5----1A----</AM>
-<AM lemma="Vrátná-2_;G" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Vrátná_;G_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m059-217-221">
@@ -5850,7 +5850,7 @@
 <AM lemma="fatra_,t_^(oheň)" src="auto">NNFP4-----A----</AM>
 <AM lemma="fatra_,t_^(oheň)" src="auto">NNFP5-----A----</AM>
 <AM lemma="fatra_,t_^(oheň)" src="auto">NNFS2-----A----</AM>
-<AM lemma="Fatra-2_;G_;m" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="Fatra_;G_;Y_;m" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m059-d1e1520-x2-425">

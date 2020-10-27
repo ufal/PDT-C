@@ -1215,7 +1215,7 @@
 </w.rf>
 <form>Vítězové</form>
 <tag>
-<AM lemma="vítěz" src="auto" recommended="1">NNMP1-----A---1</AM>
+<AM lemma="vítěz" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="vítěz" src="auto">NNMP1-----A---6</AM>
 <AM lemma="vítěz" src="auto">NNMP5-----A---1</AM>
 <AM lemma="vítěz" src="auto">NNMP5-----A---6</AM>
@@ -8718,7 +8718,7 @@
 <form>pozdějších</form>
 <tag>
 <AM lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="auto">AAFP2----2A----</AM>
-<AM lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="auto" recommended="1">AAFP6----2A----</AM>
+<AM lemma="pozdější" src="auto" recommended="1">AAFP6----1A----</AM>
 <AM lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="auto">AAIP2----2A----</AM>
 <AM lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="auto">AAIP6----2A----</AM>
 <AM lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="auto">AAMP2----2A----</AM>

@@ -574,7 +574,7 @@
 </w.rf>
 <form>koni</form>
 <tag>
-<AM lemma="kůň" src="orig" selected="1">NNMP7-----A----</AM>
+<AM lemma="kůň" src="orig" selected="1">NNMP7-----A---5</AM>
 <AM lemma="kůň" src="auto" recommended="1">NNMS3-----A----</AM>
 <AM lemma="kůň" src="auto">NNMS5-----A----</AM>
 <AM lemma="kůň" src="auto">NNMS6-----A----</AM>

@@ -727,7 +727,7 @@
 <LM>w#w-mf930702-005-p2s3w6</LM>
 </w.rf>
 <form>Mates</form>
-<tag lemma="Mates_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mates-2_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930702-005-p2s3w7">
 <src.rf>manual</src.rf>

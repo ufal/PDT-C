@@ -958,7 +958,7 @@
 <AM lemma="sladovnický" src="auto">AANS1----1A---6</AM>
 <AM lemma="sladovnický" src="auto">AANS4----1A---6</AM>
 <AM lemma="sladovnický" src="auto">AANS5----1A---6</AM>
-<AM lemma="sladovnický-2" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="sladovnický" src="manual" selected="1">AAMS1----1A----</AM>
 </tag>
 </m>
 <m id="m029-d-m-d1e1912-x3-punct-punct">

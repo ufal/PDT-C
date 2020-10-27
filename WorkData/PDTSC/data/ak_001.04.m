@@ -5250,7 +5250,7 @@
 <AM lemma="Pan-1_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Pan-1_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="pan_^(oslovení)" src="auto">NNMS2-----A----</AM>
-<AM lemma="pan_^(oslovení)" src="auto" recommended="1" selected="1">NNMS4-----A----</AM>
+<AM lemma="pan" src="auto" recommended="1" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m001-d1t1436-5">

@@ -599,7 +599,7 @@
 <LM>w#w-ln94201-56-p2s2w28</LM>
 </w.rf>
 <form>pasu</form>
-<tag lemma="pas-1_^(př._cestovní)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="pas-1_^(přihrávka,_př._v_kopané,na_lidském_těle;;cestovní)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94201-56-p2s2w29">
 <src.rf>manual</src.rf>

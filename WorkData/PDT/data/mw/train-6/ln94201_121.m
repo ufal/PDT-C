@@ -2054,7 +2054,7 @@
 <LM>w#w-ln94201-121-p4s1w8</LM>
 </w.rf>
 <form>Fuksova</form>
-<tag lemma="Fuksův_;Y_^(*2a)" src="orig" selected="1">AUIS2M---------</tag>
+<tag lemma="Fuksův_;Y_^(*2)_(*2a)" src="orig" selected="1">AUIS2M---------</tag>
 </m>
 <m id="m-ln94201-121-p4s1w9">
 <src.rf>manual</src.rf>
@@ -2783,7 +2783,7 @@
 <LM>w#w-ln94201-121-p5s2w4</LM>
 </w.rf>
 <form>Fuksových</form>
-<tag lemma="Fuksův_;Y_^(*2a)" src="orig" selected="1">AUFP2M---------</tag>
+<tag lemma="Fuksův_;Y_^(*2)_(*2a)" src="orig" selected="1">AUFP2M---------</tag>
 </m>
 <m id="m-ln94201-121-p5s2w5">
 <src.rf>manual</src.rf>
@@ -3244,7 +3244,7 @@
 <LM>w#w-ln94201-121-p5s4w9</LM>
 </w.rf>
 <form>Fuksovy</form>
-<tag lemma="Fuksův_;Y_^(*2a)" src="orig" selected="1">AUFP1M---------</tag>
+<tag lemma="Fuksův_;Y_^(*2)_(*2a)" src="orig" selected="1">AUFP1M---------</tag>
 </m>
 <m id="m-ln94201-121-p5s4w10">
 <src.rf>manual</src.rf>
@@ -3786,7 +3786,7 @@
 <form>nejistoty</form>
 <tag>
 <AM lemma="nejistota" src="orig">NNFS2-----A----</AM>
-<AM lemma="jistota" src="manual" selected="1">NNFS2-----N----</AM>
+<AM lemma="nejistota" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-121-p6s1w30">
@@ -3989,7 +3989,7 @@
 <LM>w#w-ln94201-121-p7s1w7</LM>
 </w.rf>
 <form>Fuksovy</form>
-<tag lemma="Fuksův_;Y_^(*2a)" src="orig" selected="1">AUFP1M---------</tag>
+<tag lemma="Fuksův_;Y_^(*2)_(*2a)" src="orig" selected="1">AUFP1M---------</tag>
 </m>
 <m id="m-ln94201-121-p7s1w8">
 <src.rf>manual</src.rf>
@@ -5396,7 +5396,7 @@
 <LM>w#w-ln94201-121-p8s2w10</LM>
 </w.rf>
 <form>Fuksovy</form>
-<tag lemma="Fuksův_;Y_^(*2a)" src="orig" selected="1">AUFS2M---------</tag>
+<tag lemma="Fuksův_;Y_^(*2)_(*2a)" src="orig" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-ln94201-121-p8s2w11">
 <src.rf>manual</src.rf>
@@ -6397,7 +6397,7 @@
 <LM>w#w-ln94201-121-p8s6w1</LM>
 </w.rf>
 <form>Fuksův</form>
-<tag lemma="Fuksův_;Y_^(*2a)" src="orig" selected="1">AUIS1M---------</tag>
+<tag lemma="Fuksův_;Y_^(*2)_(*2a)" src="orig" selected="1">AUIS1M---------</tag>
 </m>
 <m id="m-ln94201-121-p8s6w2">
 <src.rf>manual</src.rf>
@@ -6735,7 +6735,7 @@
 <LM>w#w-ln94201-121-p8s6w42</LM>
 </w.rf>
 <form>Natalie</form>
-<tag lemma="Natalie_;Y" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Natalie_;Y_,s_^(^DD**Natálie)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94201-121-p8s6w43">
 <src.rf>manual</src.rf>
@@ -7818,7 +7818,7 @@
 <LM>w#w-ln94201-121-p10s1w2</LM>
 </w.rf>
 <form>Fuksovým</form>
-<tag lemma="Fuksův_;Y_^(*2a)" src="orig" selected="1">AUNS7M---------</tag>
+<tag lemma="Fuksův_;Y_^(*2)_(*2a)" src="orig" selected="1">AUNS7M---------</tag>
 </m>
 <m id="m-ln94201-121-p10s1w3">
 <src.rf>manual</src.rf>

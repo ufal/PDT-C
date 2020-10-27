@@ -35,7 +35,7 @@
 <LM>w#w-cmpr9415-052-p2s1w3</LM>
 </w.rf>
 <form>statisíce</form>
-<tag lemma="stotisíc`100000" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="statisíc`100000" src="orig" selected="1">CzIP4----------</tag>
 </m>
 </s>
 <s id="m-cmpr9415-052-p3s1">
@@ -886,7 +886,7 @@
 <LM>w#w-cmpr9415-052-p6s1w7</LM>
 </w.rf>
 <form>statisíce</form>
-<tag lemma="stotisíc`100000" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="statisíc`100000" src="orig" selected="1">CzIP4----------</tag>
 </m>
 <m id="m-cmpr9415-052-p6s1w8">
 <src.rf>manual</src.rf>

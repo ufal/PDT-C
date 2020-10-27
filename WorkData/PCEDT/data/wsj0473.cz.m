@@ -1250,7 +1250,7 @@
 <AM lemma="Mackenzie-1_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Mackenzie-2_;G" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="Mackenzie_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mackenzie-2_;G" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="Mackenzie-2_;G" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0473-001-p1s1W63-Ta">
@@ -2861,7 +2861,7 @@
 <AM lemma="Mackenzie-1_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Mackenzie-2_;G" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="Mackenzie_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mackenzie-2_;G" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="Mackenzie-2_;G" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0473-001-p1s5W34-Ta">
@@ -4399,7 +4399,7 @@
 <AM lemma="Mackenzie-1_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Mackenzie-2_;G" src="auto">NNNXX-----A----</AM>
 <AM lemma="Mackenzie_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mackenzie-2_;G" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="Mackenzie-2_;G" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0473-001-p1s8W12-Ta">
@@ -5072,7 +5072,7 @@
 <AM lemma="Mackenzie-1_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Mackenzie-2_;G" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="Mackenzie_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mackenzie-2_;G" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="Mackenzie-2_;G" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0473-001-p1s10W20-Ta">
@@ -8506,7 +8506,7 @@
 <AM lemma="Mackenzie-1_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Mackenzie-2_;G" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="Mackenzie_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mackenzie-2_;G" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="Mackenzie-2_;G" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0473-001-p1s19W43-Ta">
@@ -8749,7 +8749,7 @@
 <AM lemma="Mackenzie-2_;G" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="Mackenzie_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Mackenzie-2_;G" src="manual">NNNS1-----A----</AM>
-<AM lemma="Mackenzie-2_;G" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Mackenzie-2_;G" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0473-001-p1s20W16-Ta">
@@ -9554,7 +9554,7 @@
 <AM lemma="Mackenzie-1_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Mackenzie-2_;G" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="Mackenzie_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mackenzie-2_;G" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="Mackenzie-2_;G" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0473-001-p1s21W41-Ta">
@@ -10306,7 +10306,7 @@
 <AM lemma="Mackenzie-1_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Mackenzie-2_;G" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="Mackenzie_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Mackenzie-2_;G" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="Mackenzie-2_;G" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0473-001-p1s23W26-Ta">

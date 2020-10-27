@@ -951,7 +951,7 @@
 <tag>
 <AM lemma="Koníček_;Y" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="Koníček_;Y" src="auto">NNMP5-----A----</AM>
-<AM lemma="koníček" src="auto" selected="1">NNMP1-----A----</AM>
+<AM lemma="koníček-2" src="auto" selected="1">NNMP1-----A----</AM>
 <AM lemma="koníček" src="auto">NNMP5-----A----</AM>
 </tag>
 </m>

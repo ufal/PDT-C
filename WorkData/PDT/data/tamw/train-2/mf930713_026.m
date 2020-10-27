@@ -327,7 +327,7 @@
 <AM lemma="Niki_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="Niki_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Niki_;Y" src="auto">NNMS5-----A----</AM>
-<AM lemma="Niki_;Y" src="manual" selected="1">NNMS3-----A----</AM>
+<AM lemma="Niki_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-026-p2s1Cw20">

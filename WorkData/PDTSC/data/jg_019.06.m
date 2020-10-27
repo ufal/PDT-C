@@ -1102,7 +1102,7 @@
 <tag>
 <AM lemma="silvestr" src="auto" recommended="1">NNIS2-----A---1</AM>
 <AM lemma="silvestr" src="auto">NNIS4-----A---1</AM>
-<AM lemma="silvestr" src="manual" selected="1">NNMS4-----A---6</AM>
+<AM lemma="silvestr" src="manual" selected="1">NNIS4-----A---1</AM>
 </tag>
 </m>
 <m id="m019-d1t2057-14">

@@ -180,7 +180,7 @@
 <form>Ľ</form>
 <tag>
 <AM lemma="Ľ-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="Ľ-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Ľ-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-046-p3s2w10">
@@ -337,7 +337,7 @@
 <form>Ľ</form>
 <tag>
 <AM lemma="Ľ-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="Ľ-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Ľ-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-046-p3s3w3">

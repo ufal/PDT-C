@@ -1748,7 +1748,7 @@
 <form>pozůstalých</form>
 <tag>
 <AM lemma="pozůstalý_^(*2t)" src="auto">AAMP2----1A----</AM>
-<AM lemma="pozůstalý-2" src="manual" selected="1">NNMP2-----A---6</AM>
+<AM lemma="pozůstalý-2" src="manual" selected="1">NNMP2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-18-p3s10w9">

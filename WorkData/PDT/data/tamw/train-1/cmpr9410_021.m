@@ -1322,7 +1322,7 @@
 <LM>w#w-cmpr9410-021-p8s2w15</LM>
 </w.rf>
 <form>Háje</form>
-<tag lemma="háj_^(př._zelený_háj)" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="háj" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-cmpr9410-021-p8s2w16">
 <src.rf>manual</src.rf>

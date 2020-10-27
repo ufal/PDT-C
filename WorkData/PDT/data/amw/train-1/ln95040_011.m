@@ -5566,7 +5566,7 @@
 <LM>w#w-ln95040-011-p8s1w10</LM>
 </w.rf>
 <form>hardwaru</form>
-<tag lemma="hardware" src="orig" selected="1">NNIS2-----A---1</tag>
+<tag lemma="hardware" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95040-011-p8s1w11">
 <src.rf>manual</src.rf>

@@ -368,7 +368,7 @@
 <LM>w#w-vesm9303-003-p1s2w19</LM>
 </w.rf>
 <form>nechtě</form>
-<tag lemma="nechtě" src="orig" selected="1">Db-------------</tag>
+<tag lemma="chtě" src="orig" selected="1">Dg-------1N----</tag>
 </m>
 <m id="m-vesm9303-003-p1s2w20">
 <src.rf>manual</src.rf>

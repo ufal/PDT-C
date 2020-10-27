@@ -2367,7 +2367,7 @@
 <AM lemma="devatero" src="auto">NNNP1-----A----</AM>
 <AM lemma="devatero" src="auto">NNNP4-----A----</AM>
 <AM lemma="devatero" src="auto">NNNP5-----A----</AM>
-<AM lemma="devatero" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="devatero`9" src="auto" recommended="1">CjNS2----------</AM>
 </tag>
 </m>
 <m id="m009-d1t2339-5">

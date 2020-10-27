@@ -4153,7 +4153,7 @@
 <AM lemma="podezřelý" src="auto" recommended="1">AAMP1----1A----</AM>
 <AM lemma="podezřelý" src="auto">AAMP5----1A----</AM>
 <AM lemma="podezřelý" src="manual">NNMP2-----A----</AM>
-<AM lemma="podezřelý" src="manual" selected="1">NNMP1-----A----</AM>
+<AM lemma="podezřelý" src="manual" selected="1">AAMP1----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj1397-001-p1s16W3-Ta">

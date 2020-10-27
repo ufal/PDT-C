@@ -1199,7 +1199,7 @@
 </w.rf>
 <form>Kbele</form>
 <tag>
-<AM lemma="Kbel_;G" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="Kbel_;G" src="auto" recommended="1">NNIS6-----A---7</AM>
 <AM lemma="Kbel_;G" src="auto">NNIS5-----A----</AM>
 </tag>
 </m>

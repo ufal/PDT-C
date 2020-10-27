@@ -380,7 +380,7 @@
 <LM>w#w-ln94207-75-p2s2w17</LM>
 </w.rf>
 <form>pozdější</form>
-<tag lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="orig" selected="1">AAFS2----2A----</tag>
+<tag lemma="pozdější" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-ln94207-75-p2s2w18">
 <src.rf>manual</src.rf>
@@ -7732,7 +7732,7 @@
 </w.rf>
 <form>Ely</form>
 <tag>
-<AM lemma="Ely_;G" src="orig" selected="1">NNNXX-----A----</AM>
+<AM lemma="Ely-2_;G" src="orig" selected="1">NNXXX-----A----</AM>
 <AM lemma="Ela_;Y_,h" src="auto">NNFP1-----A----</AM>
 <AM lemma="Ela_;Y_,h" src="auto">NNFP4-----A----</AM>
 <AM lemma="Ela_;Y_,h" src="auto">NNFP5-----A----</AM>

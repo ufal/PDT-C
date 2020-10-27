@@ -6262,7 +6262,7 @@
 <form>Vernu</form>
 <tag>
 <AM lemma="Verna_;Y" src="auto" recommended="1">NNFS4-----A----</AM>
-<AM lemma="Vern_;Y" src="manual" selected="1">NNMS3-----A----</AM>
+<AM lemma="Vern_;Y" src="manual" selected="1">NNMS3-----A---1</AM>
 </tag>
 </m>
 <m id="m-wsj1184-001-p1s14W28-Ta">

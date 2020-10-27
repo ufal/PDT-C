@@ -5766,7 +5766,7 @@
 <LM>w#w-cmpr9417-040-p27s3w10</LM>
 </w.rf>
 <form>Háje</form>
-<tag lemma="háj_^(př._zelený_háj)" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="háj" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-cmpr9417-040-p27s3w11">
 <src.rf>manual</src.rf>

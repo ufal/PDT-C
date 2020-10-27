@@ -138,7 +138,7 @@
 <AM lemma="mnoho-1" src="auto">Ca--1----------</AM>
 <AM lemma="mnoho-1" src="auto" recommended="1">Ca--4----------</AM>
 <AM lemma="mnoho-2" src="auto">Dg-------1A----</AM>
-<AM lemma="mnoho-2" src="manual" selected="1">Db-------------</AM>
+<AM lemma="mnoho-2" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m-wsj2047-001-p1s0W10-Ta">

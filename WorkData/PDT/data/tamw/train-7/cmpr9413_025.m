@@ -46,7 +46,7 @@
 </w.rf>
 <form>Giga</form>
 <tag>
-<AM lemma="Giga_;m" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="Giga-2_;m" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="giga_,t_^(druh_tance;;hudební_nástroj)" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -463,7 +463,7 @@
 <AM lemma="konkurs_^(úpadek;;soutěž)" src="auto">NNIS2-----A----</AM>
 <AM lemma="konkurs_^(úpadek;;soutěž)" src="auto">NNIS3-----A----</AM>
 <AM lemma="konkurs_^(úpadek;;soutěž)" src="auto" recommended="1">NNIS6-----A---1</AM>
-<AM lemma="konkurz" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="konkurz" src="manual" selected="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-025-p4s2w17">
@@ -489,7 +489,7 @@
 </w.rf>
 <form>Giga</form>
 <tag>
-<AM lemma="Giga_;m" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="Giga-2_;m" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="giga_,t_^(druh_tance;;hudební_nástroj)" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -1586,7 +1586,7 @@
 </w.rf>
 <form>Giga</form>
 <tag>
-<AM lemma="Giga_;m" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="Giga-2_;m" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="giga_,t_^(druh_tance;;hudební_nástroj)" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -2196,7 +2196,7 @@
 </w.rf>
 <form>Giga</form>
 <tag>
-<AM lemma="Giga_;m" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="Giga-2_;m" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="giga_,t_^(druh_tance;;hudební_nástroj)" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -5473,7 +5473,7 @@
 </w.rf>
 <form>Giga</form>
 <tag>
-<AM lemma="Giga_;m" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="Giga-2_;m" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="giga_,t_^(druh_tance;;hudební_nástroj)" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -5700,7 +5700,7 @@
 </w.rf>
 <form>Giga</form>
 <tag>
-<AM lemma="Giga_;m" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="Giga-2_;m" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="giga_,t_^(druh_tance;;hudební_nástroj)" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -6263,7 +6263,7 @@
 </w.rf>
 <form>Giga</form>
 <tag>
-<AM lemma="Giga_;m" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="Giga-2_;m" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="giga_,t_^(druh_tance;;hudební_nástroj)" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>

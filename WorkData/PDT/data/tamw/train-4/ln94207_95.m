@@ -958,7 +958,7 @@
 <LM>w#w-ln94207-95-p3s1w13</LM>
 </w.rf>
 <form>pozdější</form>
-<tag lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="orig" selected="1">AAMS1----2A----</tag>
+<tag lemma="pozdější" src="orig" selected="1">AAMS1----1A----</tag>
 </m>
 <m id="m-ln94207-95-p3s1w14">
 <src.rf>manual</src.rf>
@@ -1711,7 +1711,7 @@
 <form>Radia</form>
 <tag>
 <AM lemma="rádio_,a" src="orig">NNNS2-----A----</AM>
-<AM lemma="radio_,s_^(^DD**rádio)" src="manual" selected="1">NNNS2-----A----</AM>
+<AM lemma="radio-1_,s_^(^DD**rádio)" src="manual" selected="1">NNNS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-95-p4s1w26">

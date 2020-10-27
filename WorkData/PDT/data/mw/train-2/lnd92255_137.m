@@ -6410,7 +6410,7 @@
 </w.rf>
 <form>am</form>
 <tag>
-<AM lemma="amatér" src="orig" selected="1">NNMXX-----A---b</AM>
+<AM lemma="am-88" src="orig" selected="1">BNXXX-----A----</AM>
 <AM lemma="be_,t_^(angl._jsem,_v_názvech_apod.)" src="auto" recommended="1">VB-S---1P-AA---</AM>
 </tag>
 </m>
@@ -6581,7 +6581,7 @@
 </w.rf>
 <form>am</form>
 <tag>
-<AM lemma="amatér" src="orig" selected="1">BNMS1-----A----</AM>
+<AM lemma="am-88" src="orig" selected="1">BNXXX-----A----</AM>
 <AM lemma="be_,t_^(angl._jsem,_v_názvech_apod.)" src="auto" recommended="1">VB-S---1P-AA---</AM>
 </tag>
 </m>

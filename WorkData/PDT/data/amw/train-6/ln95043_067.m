@@ -851,7 +851,7 @@
 <LM>w#w-ln95043-067-p2s4w11</LM>
 </w.rf>
 <form>pozdějšímu</form>
-<tag lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="orig" selected="1">AANS3----2A----</tag>
+<tag lemma="pozdější" src="orig" selected="1">AANS3----1A----</tag>
 </m>
 <m id="m-ln95043-067-p2s4w12">
 <src.rf>manual</src.rf>

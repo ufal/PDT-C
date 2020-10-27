@@ -189,7 +189,7 @@
 <AM lemma="RAV_:B_;m" src="orig">NNIXX-----A---8</AM>
 <AM lemma="RAV_:B_;m" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="rav_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="RAV-2_;m" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="RAV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-131-p2s1w14">
@@ -431,7 +431,7 @@
 <AM lemma="RAV_:B_;m_,t" src="orig">NNIXX-----A---8</AM>
 <AM lemma="RAV_:B_;m" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="rav_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="RAV-2_;m" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="RAV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-131-p2s3w5">
@@ -1352,7 +1352,7 @@
 <AM lemma="RAV_:B_;m_,t" src="orig">NNIXX-----A---8</AM>
 <AM lemma="RAV_:B_;m" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="rav_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="RAV-2_;m" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="RAV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-131-p2s8w16">
@@ -1995,7 +1995,7 @@
 <AM lemma="RAV_:B_;m_,t" src="orig">NNIXX-----A---8</AM>
 <AM lemma="RAV_:B_;m" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="rav_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="RAV-2_;m" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="RAV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-131-p3s2w2">
@@ -2870,7 +2870,7 @@
 <AM lemma="RAV_:B_;m_,t" src="orig">NNIXX-----A---8</AM>
 <AM lemma="RAV_:B_;m" src="auto">NNIXX-----A---8</AM>
 <AM lemma="rav_,t" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="RAV-2_;m" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="RAV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-131-p4s2w2">

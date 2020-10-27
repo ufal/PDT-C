@@ -3793,7 +3793,7 @@
 <LM>w#w-ln95040-054-p2s15w16</LM>
 </w.rf>
 <form>Husovi</form>
-<tag lemma="Hus_;Y" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Hus-1_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95040-054-p2s15w17">
 <src.rf>manual</src.rf>

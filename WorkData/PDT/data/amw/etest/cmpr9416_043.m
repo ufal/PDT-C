@@ -2731,7 +2731,7 @@
 <LM>w#w-cmpr9416-043-p11s2w20</LM>
 </w.rf>
 <form>Unionu</form>
-<tag lemma="Union" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Union_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-cmpr9416-043-p11s2w21">
 <src.rf>manual</src.rf>

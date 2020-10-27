@@ -5224,7 +5224,7 @@
 <form>pong</form>
 <tag>
 <AM lemma="pong_^(jen_ve_spojení_ping-pong)" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="pong_^(jen_ve_spojení_ping-pong)" src="auto" selected="1">NNIS4-----A----</AM>
+<AM lemma="pong" src="auto" selected="1">SNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m142-286-292">

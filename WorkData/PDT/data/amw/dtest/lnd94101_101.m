@@ -994,7 +994,7 @@
 <AM lemma="Williams-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Williams-2_;m" src="auto">NNIS1-----A----</AM>
 <AM lemma="Williams-2_;m" src="auto">NNIS4-----A----</AM>
-<AM lemma="Williams_;m_^(vozidlo)" src="auto" selected="1">NNIS1-----A----</AM>
+<AM lemma="Williams-2_;m" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="Williams_;m_^(vozidlo)" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -1238,7 +1238,7 @@
 <AM lemma="Williams-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Williams-2_;m" src="auto">NNIS1-----A----</AM>
 <AM lemma="Williams-2_;m" src="auto">NNIS4-----A----</AM>
-<AM lemma="Williams_;m_^(vozidlo)" src="auto" selected="1">NNIS1-----A----</AM>
+<AM lemma="Williams-2_;m" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="Williams_;m_^(vozidlo)" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>

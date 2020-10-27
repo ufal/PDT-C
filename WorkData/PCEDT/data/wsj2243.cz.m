@@ -804,7 +804,7 @@
 <AM lemma="Hertz_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="hertz" src="auto">NNIS1-----A----</AM>
 <AM lemma="hertz" src="auto">NNIS4-----A----</AM>
-<AM lemma="Hertz_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Hertz-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2243-001-p1s1W40-Ta">

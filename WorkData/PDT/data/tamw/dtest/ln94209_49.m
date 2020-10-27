@@ -182,7 +182,7 @@
 <form>Stáli</form>
 <tag>
 <AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig">VpMP---XR-AA---</AM>
-<AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="manual" selected="1">VpMP----R-AAI--</AM>
+<AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">VpMP----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-ln94209-49-p2s1Cw2">

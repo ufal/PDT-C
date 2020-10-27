@@ -3532,7 +3532,7 @@
 <LM>w#w-mf930709-101-p2s32w10</LM>
 </w.rf>
 <form>Ringo</form>
-<tag lemma="Ringo_;m" src="auto" selected="1">NNNS1-----A----</tag>
+<tag lemma="Ringo-2_;m" src="auto" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf930709-101-p2s32w11">
 <src.rf>manual</src.rf>

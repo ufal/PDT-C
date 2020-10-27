@@ -4716,7 +4716,7 @@
 <AM lemma="Vlasta-1_;Y_^(žena)" src="auto">NNFS3-----A----</AM>
 <AM lemma="Vlasta-1_;Y_^(žena)" src="auto" recommended="1">NNFS6-----A----</AM>
 <AM lemma="Vlasta-3_;m_^(časopis)" src="auto">NNFS3-----A----</AM>
-<AM lemma="Vlasta-3_;m_^(časopis)" src="auto" selected="1">NNFS6-----A----</AM>
+<AM lemma="Vlasta_;Y_;m" src="auto" selected="1">NNFS6-----A----</AM>
 <AM lemma="Vlasta-4_;m_^(cigareta)" src="auto">NNFS3-----A----</AM>
 <AM lemma="Vlasta-4_;m_^(cigareta)" src="auto">NNFS6-----A----</AM>
 <AM lemma="vlasta_,h_,s" src="auto">NNFS3-----A----</AM>

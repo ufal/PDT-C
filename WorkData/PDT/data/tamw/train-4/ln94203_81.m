@@ -2496,7 +2496,7 @@
 <form>stát</form>
 <tag>
 <AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig">Vf--------A----</AM>
-<AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="manual" selected="1">Vf--------A-I--</AM>
+<AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">Vf--------A-I--</AM>
 </tag>
 </m>
 <m id="m-ln94203-81-p3s8w19">

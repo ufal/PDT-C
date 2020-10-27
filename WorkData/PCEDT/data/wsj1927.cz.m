@@ -856,7 +856,7 @@
 <AM lemma="Norton_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="norton_,l_^(druh_motocyklu)" src="auto">NNIS1-----A----</AM>
 <AM lemma="norton_,l_^(druh_motocyklu)" src="auto">NNIS4-----A----</AM>
-<AM lemma="Norton_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Norton-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1927-001-p1s1W29-Ta">
@@ -9647,7 +9647,7 @@
 </w.rf>
 <form>Yale</form>
 <tag>
-<AM lemma="Yale_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Yale-2_;G" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="Yale_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Yale_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Yale_;Y" src="auto">NNMXX-----A----</AM>

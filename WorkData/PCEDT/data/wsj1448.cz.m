@@ -74,7 +74,7 @@
 <AM lemma="dojíždějící_^(*4t)" src="auto">AGMP6-----A----</AM>
 <AM lemma="dojíždějící_^(*4t)" src="auto">AGNP2-----A----</AM>
 <AM lemma="dojíždějící_^(*4t)" src="auto">AGNP6-----A----</AM>
-<AM lemma="dojíždějící-2" src="manual" selected="1">NNMP2-----A----</AM>
+<AM lemma="dojíždějící_^(*4t)" src="manual" selected="1">AGMP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1448-001-p1s0W7-Ta">
@@ -1058,7 +1058,7 @@
 <AM lemma="dojíždějící_^(*4t)" src="auto">AGMP6-----A----</AM>
 <AM lemma="dojíždějící_^(*4t)" src="auto">AGNP2-----A----</AM>
 <AM lemma="dojíždějící_^(*4t)" src="auto">AGNP6-----A----</AM>
-<AM lemma="dojíždějící-2" src="manual" selected="1">NNMP2-----A----</AM>
+<AM lemma="dojíždějící_^(*4t)" src="manual" selected="1">AGMP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1448-001-p1s4W9-Ta">
@@ -2638,7 +2638,7 @@
 <AM lemma="dojíždějící_^(*4t)" src="auto">AGNP3-----A----</AM>
 <AM lemma="dojíždějící_^(*4t)" src="auto">AGNS6-----A----</AM>
 <AM lemma="dojíždějící_^(*4t)" src="auto">AGNS7-----A----</AM>
-<AM lemma="dojíždějící-2" src="manual" selected="1">NNMP3-----A----</AM>
+<AM lemma="dojíždějící_^(*4t)" src="manual" selected="1">AGMP3-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1448-001-p1s10W30-Ta">
@@ -3543,7 +3543,7 @@
 <AM lemma="dojíždějící_^(*4t)" src="auto">AGMP6-----A----</AM>
 <AM lemma="dojíždějící_^(*4t)" src="auto">AGNP2-----A----</AM>
 <AM lemma="dojíždějící_^(*4t)" src="auto">AGNP6-----A----</AM>
-<AM lemma="dojíždějící-2" src="manual" selected="1">NNMP2-----A----</AM>
+<AM lemma="dojíždějící_^(*4t)" src="manual" selected="1">AGMP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1448-001-p1s13W13-Ta">
@@ -5942,7 +5942,7 @@
 <AM lemma="dojíždějící_^(*4t)" src="auto">AGNS1-----A----</AM>
 <AM lemma="dojíždějící_^(*4t)" src="auto">AGNS4-----A----</AM>
 <AM lemma="dojíždějící_^(*4t)" src="auto">AGNS5-----A----</AM>
-<AM lemma="dojíždějící-2" src="manual" selected="1">NNMP4-----A----</AM>
+<AM lemma="dojíždějící_^(*4t)" src="manual" selected="1">AGMP4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1448-001-p1s25W13-Ta">

@@ -2166,7 +2166,7 @@
 <LM>w#w-mf920923-124-p7s2w22</LM>
 </w.rf>
 <form>exportu</form>
-<tag lemma="export" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="export" src="orig" selected="1">NNIS6-----A---1</tag>
 </m>
 <m id="m-mf920923-124-p7s2w23">
 <src.rf>manual</src.rf>

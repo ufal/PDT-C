@@ -5083,7 +5083,7 @@
 <LM>w#w-lnd92255-124-p9s1w12</LM>
 </w.rf>
 <form>nestálo</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VpNS----R-NAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VpNS----R-NAI--</tag>
 </m>
 <m id="m-lnd92255-124-p9s1w13">
 <src.rf>manual</src.rf>

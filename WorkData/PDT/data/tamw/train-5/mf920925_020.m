@@ -92,7 +92,7 @@
 <AM lemma="FI-2_:B_;m_^(agentura_Factum_Invenio)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="fi-1" src="auto">II-------------</AM>
 <AM lemma="fi-2_:B_,t_^(fiction,_angl._fantastický,_sci-fi)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="fi-2_^(jen_ve_spojení_sci-fi)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="fi-2_^(sci-fi;wi-fi)" src="manual" selected="1">SNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-020-p1s1w10">

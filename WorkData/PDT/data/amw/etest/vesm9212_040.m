@@ -1692,7 +1692,7 @@
 <LM>w#w-vesm9212-040-p3s3w15</LM>
 </w.rf>
 <form>Kristu</form>
-<tag lemma="Kristus-3_;Y" src="orig" selected="1">NNMS6-----A----</tag>
+<tag lemma="Kristus-3_;Y" src="orig" selected="1">NNMS6-----A---1</tag>
 </m>
 <m id="m-vesm9212-040-p3s3w16">
 <src.rf>manual</src.rf>

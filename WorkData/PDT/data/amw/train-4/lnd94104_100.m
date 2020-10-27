@@ -1577,7 +1577,7 @@
 <LM>w#w-lnd94104-100-p1s6Bw16</LM>
 </w.rf>
 <form>Poláky</form>
-<tag lemma="Polák_;E" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="Polák_;E_;Y" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-lnd94104-100-p1s6Bw17">
 <src.rf>manual</src.rf>
@@ -2319,7 +2319,7 @@
 <tag>
 <AM lemma="sorry_,t" src="orig">TT-------------</AM>
 <AM lemma="sorry_,h_,t" src="auto" recommended="1">II------------6</AM>
-<AM lemma="sorry_,h" src="manual" selected="1">II------------6</AM>
+<AM lemma="sorry-1_,h" src="manual" selected="1">II-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94104-100-p1s12w2">
@@ -3471,7 +3471,7 @@
 <LM>w#w-lnd94104-100-p1s17w11</LM>
 </w.rf>
 <form>pozdějšího</form>
-<tag lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="orig" selected="1">AAMS4----2A----</tag>
+<tag lemma="pozdější" src="orig" selected="1">AAMS4----1A----</tag>
 </m>
 <m id="m-lnd94104-100-p1s17w12">
 <src.rf>manual</src.rf>
@@ -3505,7 +3505,7 @@
 <form>Ladu</form>
 <tag>
 <AM lemma="Lada-1_;m_^(vozidlo)" src="auto">NNFS4-----A----</AM>
-<AM lemma="Lada-1_;m_^(vozidlo)" src="manual" selected="1">NNFS4-----A----</AM>
+<AM lemma="Lada_;Y_;m" src="manual" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-100-p1s17w16">
@@ -3520,7 +3520,7 @@
 <AM lemma="Togliatti_;G_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Togliatti-2_;m" src="manual">NNNXX-----A----</AM>
 <AM lemma="Togliatti-2_;G_;m" src="manual">NNNXX-----A----</AM>
-<AM lemma="Togliatti-2_;G_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Togliatti-2_;G_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-100-p1s17w17">

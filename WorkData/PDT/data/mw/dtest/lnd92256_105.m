@@ -1096,7 +1096,7 @@
 <LM>w#w-lnd92256-105-p2s6w12</LM>
 </w.rf>
 <form>Viktorií</form>
-<tag lemma="Viktoria-2_;m_^(jméno_sport.klubu)" src="orig" selected="1">NNFP2-----A----</tag>
+<tag lemma="Viktoria_;Y_;m" src="orig" selected="1">NNFP2-----A----</tag>
 </m>
 <m id="m-lnd92256-105-p2s6w13">
 <src.rf>manual</src.rf>

@@ -338,7 +338,7 @@
 <form>Dobrou</form>
 <tag>
 <AM lemma="dobrá-1_^(známka_ve_škole:_3)" src="auto">NNFS7-----A----</AM>
-<AM lemma="Dobrá-2_;G" src="manual" selected="1">NNFS7-----A----</AM>
+<AM lemma="Dobrá_;G_;Y" src="manual" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-085-p2s1w29">
@@ -501,7 +501,7 @@
 <LM>w#w-mf930701-085-p2s2w12</LM>
 </w.rf>
 <form>TJ</form>
-<tag lemma="TJ-1_;m_^(tělovýchovná_jednota)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="TJ_;m_^(tělovýchovná_jednota)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf930701-085-p2s2w13">
 <src.rf>manual</src.rf>

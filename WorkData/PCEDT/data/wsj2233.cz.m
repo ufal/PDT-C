@@ -51,7 +51,7 @@
 <AM lemma="zelený_;o" src="auto">AANP2----1A----</AM>
 <AM lemma="zelený_;o" src="auto">AANP6----1A----</AM>
 <AM lemma="zelení" src="manual">NNMP2-----A----</AM>
-<AM lemma="zelení-2" src="manual" selected="1">NNMP2-----A----</AM>
+<AM lemma="zelený_;o" src="manual" selected="1">AAMP2----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj2233-001-p1s0W4-Ta">

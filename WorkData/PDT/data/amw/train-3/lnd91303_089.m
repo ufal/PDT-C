@@ -1722,7 +1722,7 @@
 <LM>w#w-lnd91303-089-p5s7w9</LM>
 </w.rf>
 <form>gólmani</form>
-<tag lemma="gólman" src="orig" selected="1">NNMP1-----A---1</tag>
+<tag lemma="gólman" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd91303-089-p5s7w10">
 <src.rf>manual</src.rf>

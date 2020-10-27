@@ -1628,7 +1628,7 @@
 <LM>w#w-ln94201-16-p4s1w18</LM>
 </w.rf>
 <form>Durhamu</form>
-<tag lemma="Durham_;G" src="orig" selected="1">NNIS6-----A---1</tag>
+<tag lemma="Durham_;G" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln94201-16-p4s1w19">
 <src.rf>manual</src.rf>

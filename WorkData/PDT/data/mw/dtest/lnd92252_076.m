@@ -1819,7 +1819,7 @@
 <form>Minardi</form>
 <tag>
 <AM lemma="Minardi_;m" src="auto">NNNXX-----A----</AM>
-<AM lemma="Minardi_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Minardi-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-076-p5s7w7">

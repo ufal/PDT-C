@@ -759,7 +759,7 @@
 <LM>w#w-cmpr9406-045-p7s4w2</LM>
 </w.rf>
 <form>několikerá</form>
-<tag lemma="několikerý" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="několikerý" src="orig" selected="1">ChFS1----------</tag>
 </m>
 <m id="m-cmpr9406-045-p7s4w3">
 <src.rf>manual</src.rf>

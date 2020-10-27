@@ -1264,7 +1264,7 @@
 <LM>w#w-lnd94105-090-p1s8w17</LM>
 </w.rf>
 <form>Robinsonovi</form>
-<tag lemma="Robinson-2_;Y" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Robinson_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-lnd94105-090-p1s8w18">
 <src.rf>manual</src.rf>

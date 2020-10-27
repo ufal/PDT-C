@@ -1756,7 +1756,7 @@
 <LM>w#w-lnd94104-055-p1s8w5</LM>
 </w.rf>
 <form>nestálo</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VpNS----R-NAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VpNS----R-NAI--</tag>
 </m>
 <m id="m-lnd94104-055-p1s8w6">
 <src.rf>manual</src.rf>

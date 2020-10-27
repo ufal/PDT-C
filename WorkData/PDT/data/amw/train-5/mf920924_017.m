@@ -871,7 +871,7 @@
 <LM>w#w-mf920924-017-p2s6w22</LM>
 </w.rf>
 <form>TJ</form>
-<tag lemma="TJ-1_;m_^(tělovýchovná_jednota)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="TJ_;m_^(tělovýchovná_jednota)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf920924-017-p2s6w23">
 <src.rf>manual</src.rf>
@@ -1944,7 +1944,7 @@
 <LM>w#w-mf920924-017-p2s13Bw7</LM>
 </w.rf>
 <form>TJ</form>
-<tag lemma="TJ-1_;m_^(tělovýchovná_jednota)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="TJ_;m_^(tělovýchovná_jednota)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf920924-017-p2s13Bw8">
 <src.rf>manual</src.rf>

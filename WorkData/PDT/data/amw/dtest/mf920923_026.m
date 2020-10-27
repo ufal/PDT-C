@@ -269,7 +269,7 @@
 <LM>w#w-mf920923-026-p2s2w7</LM>
 </w.rf>
 <form>Union</form>
-<tag lemma="Union" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Union_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920923-026-p2s2w8">
 <src.rf>manual</src.rf>
@@ -917,7 +917,7 @@
 <form>CD</form>
 <tag>
 <AM lemma="CD-1_:B_,t_^(Audio/Data,_Compact_Disc)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="CD-1_^(Audio/Data,_Compactisc)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="CD-1_^(Audio/Data,_Compact_Disc)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-026-p3s1w20">

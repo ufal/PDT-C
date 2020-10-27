@@ -2453,7 +2453,7 @@
 <tag>
 <AM lemma="Quebek_;G_,s_^(^DD**Quebec)" src="auto">NNIS2-----A---2</AM>
 <AM lemma="Quebek_;G_,s_^(^DD**Quebec)" src="auto">NNIS3-----A---2</AM>
-<AM lemma="Quebek_;G_,s_^(^DD**Quebec)" src="auto" recommended="1">NNIS6-----A---2</AM>
+<AM lemma="Quebek_;G_,s_^(^DD**Quebec)" src="auto" recommended="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m049-200-202">

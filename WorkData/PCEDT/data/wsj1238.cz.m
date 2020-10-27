@@ -1379,7 +1379,7 @@
 <LM>w#w-wsj1238-001-p1s4W9</LM>
 </w.rf>
 <form>Wachovia</form>
-<tag lemma="Wachovia_;m" src="auto" recommended="1">NNFS1-----A---1</tag>
+<tag lemma="Wachovia_;m" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m-wsj1238-001-p1s4W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2058,7 +2058,7 @@
 <LM>w#w-wsj1238-001-p1s6W8</LM>
 </w.rf>
 <form>Wachovia</form>
-<tag lemma="Wachovia_;m" src="auto" recommended="1">NNFS1-----A---1</tag>
+<tag lemma="Wachovia_;m" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m-wsj1238-001-p1s6W9-Ta">
 <src.rf>tagger-a</src.rf>

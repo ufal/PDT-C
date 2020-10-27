@@ -1451,7 +1451,7 @@
 <LM>w#w-lnd92255-074-p5s2w25</LM>
 </w.rf>
 <form>holocaustu</form>
-<tag lemma="holocaust" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="holocaust_,s_^(^DD**holokaust)" src="orig" selected="1">NNIS6-----A---1</tag>
 </m>
 <m id="m-lnd92255-074-p5s2w26">
 <src.rf>manual</src.rf>
@@ -3640,7 +3640,7 @@
 <LM>w#w-lnd92255-074-p8s1w16</LM>
 </w.rf>
 <form>snazší</form>
-<tag lemma="snadný" src="orig" selected="1">AAFS1----2A----</tag>
+<tag lemma="snadný" src="orig" selected="1">AAFS1----2A---1</tag>
 </m>
 <m id="m-lnd92255-074-p8s1w17">
 <src.rf>manual</src.rf>

@@ -1524,7 +1524,7 @@
 <form>náleží</form>
 <tag>
 <AM lemma="náležet" src="auto">VB-P---3P-AA---</AM>
-<AM lemma="náležet" src="manual" selected="1">VB-P---3P-AAI--</AM>
+<AM lemma="náležet" src="manual" selected="1">VB-P---3P-AAI-1</AM>
 </tag>
 </m>
 <m id="m-lnd92252-059-p4s3w13">

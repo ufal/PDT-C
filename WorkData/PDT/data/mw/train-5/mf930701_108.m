@@ -923,7 +923,7 @@
 <form>Clubu</form>
 <tag>
 <AM lemma="klub" src="orig">NNIS2-----A----</AM>
-<AM lemma="Club" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Club_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-108-p2s4w14">
@@ -2425,7 +2425,7 @@
 <form>Clubu</form>
 <tag>
 <AM lemma="klub" src="orig">NNIS2-----A----</AM>
-<AM lemma="Club" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Club_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-108-p2s13w4">

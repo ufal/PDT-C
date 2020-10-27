@@ -20,7 +20,7 @@
 </w.rf>
 <form>Viola</form>
 <tag>
-<AM lemma="Viola_;Y" src="auto" selected="1">NNFS1-----A----</AM>
+<AM lemma="Viola-1_;Y_;m" src="auto" selected="1">NNFS1-----A----</AM>
 <AM lemma="Viola_;Y_;m" src="manual">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -253,7 +253,7 @@
 </w.rf>
 <form>Viola</form>
 <tag>
-<AM lemma="Viola_;Y" src="auto" selected="1">NNFS1-----A----</AM>
+<AM lemma="Viola-1_;Y_;m" src="auto" selected="1">NNFS1-----A----</AM>
 <AM lemma="Viola_;Y_;m" src="manual">NNFS1-----A----</AM>
 </tag>
 </m>

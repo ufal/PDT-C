@@ -19,7 +19,7 @@
 <LM>w#w-cmpr9416-038-p2s1w1</LM>
 </w.rf>
 <form>Desatero</form>
-<tag lemma="desatero" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="desatero`10" src="orig" selected="1">CjNS1----------</tag>
 </m>
 <m id="m-cmpr9416-038-p2s1w2">
 <src.rf>manual</src.rf>

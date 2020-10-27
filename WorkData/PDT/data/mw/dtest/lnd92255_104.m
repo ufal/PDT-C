@@ -539,7 +539,7 @@
 <LM>w#w-lnd92255-104-p3s1w1</LM>
 </w.rf>
 <form>VLASTA</form>
-<tag lemma="Vlasta-1_;Y_^(žena)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Vlasta_;Y_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92255-104-p3s1w2">
 <src.rf>manual</src.rf>
@@ -819,7 +819,7 @@
 <form>sv</form>
 <tag>
 <AM lemma="svazek_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="svatý" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="svatý-1" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92255-104-p1s2w14">

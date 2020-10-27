@@ -1252,7 +1252,7 @@
 <LM>w#w-mf930713-105-p2s9w10</LM>
 </w.rf>
 <form>OH</form>
-<tag lemma="OH-2_^(Olympijské_hry)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="OH-88" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf930713-105-p2s9w11">
 <src.rf>manual</src.rf>

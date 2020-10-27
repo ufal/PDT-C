@@ -323,7 +323,7 @@
 <LM>w#w-ln95041-032-p2s2w15</LM>
 </w.rf>
 <form>Rusem</form>
-<tag lemma="Rus_;E" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Rus-1_;E" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95041-032-p2s2w16">
 <src.rf>manual</src.rf>

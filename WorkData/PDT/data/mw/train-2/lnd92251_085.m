@@ -27,7 +27,7 @@
 <LM>w#w-lnd92251-085-p1s1w2</LM>
 </w.rf>
 <form>SPARTY</form>
-<tag lemma="Sparta_;m" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Sparta_;G_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92251-085-p1s1w3">
 <src.rf>manual</src.rf>
@@ -2482,7 +2482,7 @@
 <LM>w#w-lnd92251-085-p5s5w21</LM>
 </w.rf>
 <form>Natalií</form>
-<tag lemma="Natalie_;Y" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Natalie_;Y_,s_^(^DD**Natálie)" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-lnd92251-085-p5s5w22">
 <src.rf>manual</src.rf>

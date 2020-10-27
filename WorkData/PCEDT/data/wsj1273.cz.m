@@ -14377,7 +14377,7 @@
 </w.rf>
 <form>dozví</form>
 <tag>
-<AM lemma="dozvědět" src="auto" selected="1">VB-P---3P-AAP-6</AM>
+<AM lemma="dozvědět" src="auto" selected="1">VB-P---3P-AAP-7</AM>
 <AM lemma="dozvědět" src="auto" recommended="1">VB-S---3P-AAP--</AM>
 </tag>
 </m>

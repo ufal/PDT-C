@@ -671,7 +671,7 @@
 <LM>w#w-lnd92256-065-p4s1w3</LM>
 </w.rf>
 <form>Tamaře</form>
-<tag lemma="Tamara-2_;m_^(radiolokátor)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Tamara-3_;Y_;m" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd92256-065-p4s1w4">
 <src.rf>manual</src.rf>
@@ -1364,7 +1364,7 @@
 <LM>w#w-lnd92256-065-p4s4w9</LM>
 </w.rf>
 <form>Tamary</form>
-<tag lemma="Tamara-2_;m_^(radiolokátor)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Tamara-3_;Y_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92256-065-p4s4w10">
 <src.rf>manual</src.rf>

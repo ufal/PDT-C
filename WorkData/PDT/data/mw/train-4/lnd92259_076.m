@@ -142,7 +142,7 @@
 <AM lemma="Monitor-1_;m_,t_^(souč._názvů,_např._Christian_Monitor)" src="auto">NNIS4-----A----</AM>
 <AM lemma="monitor" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="monitor" src="auto">NNIS4-----A----</AM>
-<AM lemma="Monitor-1_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Monitor_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-076-p1s2w6">
@@ -563,7 +563,7 @@
 <LM>w#w-lnd92259-076-p1s3w39</LM>
 </w.rf>
 <form>nestál</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VpYS----R-NAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m-lnd92259-076-p1s3w40">
 <src.rf>manual</src.rf>

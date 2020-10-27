@@ -606,7 +606,7 @@
 </w.rf>
 <form>Otona</form>
 <tag>
-<AM lemma="Oton_;Y" src="orig" selected="1">NNMS2-----A---2</AM>
+<AM lemma="Oton_;Y" src="orig" selected="1">NNMS2-----A----</AM>
 <AM lemma="Oton_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Oton_;Y" src="auto">NNMS4-----A----</AM>
 </tag>
@@ -7474,7 +7474,7 @@
 <LM>w#w-ln94205-99-p14s6w19</LM>
 </w.rf>
 <form>několikerého</form>
-<tag lemma="několikerý" src="orig" selected="1">AAIS2----1A----</tag>
+<tag lemma="několikerý" src="orig" selected="1">ChIS2----------</tag>
 </m>
 <m id="m-ln94205-99-p14s6w20">
 <src.rf>manual</src.rf>

@@ -1511,7 +1511,7 @@
 <LM>w#w-mf930703-089-p5s1w9</LM>
 </w.rf>
 <form>SEČ</form>
-<tag lemma="SEČ-1_^(středoevropský_čas)" src="orig" selected="1">NNIXX-----A---b</tag>
+<tag lemma="SEČ_^(středoevropský_čas)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf930703-089-p5s1w10">
 <src.rf>manual</src.rf>

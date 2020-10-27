@@ -6440,7 +6440,7 @@
 </w.rf>
 <form>Victoria</form>
 <tag>
-<AM lemma="Victoria-1_;Y" src="auto" selected="1">NNFS1-----A---1</AM>
+<AM lemma="Victoria_;G_;Y_;m_,s_^(^DD**Viktoria)" src="auto" selected="1">NNFS1-----A----</AM>
 <AM lemma="Victoria-2_;G" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>

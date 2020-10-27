@@ -1258,7 +1258,7 @@
 <LM>w#w-ln94211-122-p4s2w3</LM>
 </w.rf>
 <form>software</form>
-<tag lemma="software" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="software" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-ln94211-122-p4s2w4">
 <src.rf>manual</src.rf>

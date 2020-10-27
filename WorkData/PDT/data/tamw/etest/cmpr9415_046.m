@@ -3021,7 +3021,7 @@
 <form>nezbytné</form>
 <tag>
 <AM lemma="zbytný" src="orig">AAFS6----1N----</AM>
-<AM lemma="nezbytný" src="manual" selected="1">AAFS6----1A----</AM>
+<AM lemma="zbytný" src="manual" selected="1">AAFS6----1N----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-046-p14s1w19">

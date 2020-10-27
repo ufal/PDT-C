@@ -4018,7 +4018,7 @@
 <AM lemma="sorry_,t" src="orig">TT-------------</AM>
 <AM lemma="sorry_,h_,t" src="auto" recommended="1">II------------6</AM>
 <AM lemma="sorry-77" src="manual">F%-------------</AM>
-<AM lemma="sorry_,h" src="manual" selected="1">II------------6</AM>
+<AM lemma="sorry-1_,h" src="manual" selected="1">II-------------</AM>
 </tag>
 </m>
 <m id="m-ln94206-122-p4s4w18">

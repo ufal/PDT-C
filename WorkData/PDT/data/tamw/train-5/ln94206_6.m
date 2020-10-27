@@ -1197,7 +1197,7 @@
 <AM lemma="pluralizmus" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="pluralizmus" src="auto">NNIS3-----A----</AM>
 <AM lemma="pluralizmus" src="auto">NNIS6-----A----</AM>
-<AM lemma="pluralismus_,s_^(^DD**pluralizmus)" src="manual" selected="1">NNIS2-----A---1</AM>
+<AM lemma="pluralismus_,s_^(^DD**pluralizmus)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-6-p2s7w11">

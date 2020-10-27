@@ -704,7 +704,7 @@
 <form>Josephine</form>
 <tag>
 <AM lemma="Josephine_;Y" src="auto">NNFXX-----A----</AM>
-<AM lemma="Josephine_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Josephine_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-124-p2s3w32">

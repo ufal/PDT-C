@@ -135,7 +135,7 @@
 <LM>w#w-ln94207-64-p2s1Bw5</LM>
 </w.rf>
 <form>Union</form>
-<tag lemma="Union" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Union_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94207-64-p2s1Bw6">
 <src.rf>manual</src.rf>

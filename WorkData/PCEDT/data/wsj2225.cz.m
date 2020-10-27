@@ -8317,7 +8317,7 @@
 <tag>
 <AM lemma="Diego_;Y_,t" src="auto">NNMS3-----A---1</AM>
 <AM lemma="Diego_;Y_,t" src="auto" recommended="1">NNMS6-----A---1</AM>
-<AM lemma="Diego-2_;G" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="Diego-2_;G" src="manual" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2225-001-p1s32W13-Ta">
@@ -8836,7 +8836,7 @@
 <tag>
 <AM lemma="Diego_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Diego_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Diego-2_;G" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Diego-2_;G" src="manual" selected="1">NNNS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2225-001-p1s33W18-Ta">
@@ -9733,7 +9733,7 @@
 <LM>w#w-wsj2225-001-p1s36W15</LM>
 </w.rf>
 <form>Cascade</form>
-<tag lemma="Cascade_;G_;m" src="auto" recommended="1">NNNXX-----A----</tag>
+<tag lemma="Cascade_;G" src="auto" recommended="1">NNXXX-----A----</tag>
 </m>
 <m id="m-wsj2225-001-p1s36W16-Ta">
 <src.rf>tagger-a</src.rf>

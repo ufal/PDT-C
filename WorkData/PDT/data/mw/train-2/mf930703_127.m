@@ -9114,7 +9114,7 @@
 <LM>w#w-mf930703-127-p2s88w11</LM>
 </w.rf>
 <form>ČTK</form>
-<tag lemma="ČTK-1_;m_^(Čs./Česká_tisková_kancelář)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="ČTK_;m_^(Čs./Česká_tisková_kancelář)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf930703-127-p2s88w12">
 <src.rf>manual</src.rf>

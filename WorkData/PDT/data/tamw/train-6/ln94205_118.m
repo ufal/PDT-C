@@ -7756,7 +7756,7 @@
 <LM>w#w-ln94205-118-p24s5w5</LM>
 </w.rf>
 <form>Kočí</form>
-<tag lemma="Kočí_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kočí-1_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln94205-118-p24s5w6">
 <src.rf>manual</src.rf>

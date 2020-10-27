@@ -169,7 +169,7 @@
 <form>Tibetu</form>
 <tag>
 <AM lemma="tibet" src="orig">NNIS2-----A----</AM>
-<AM lemma="Tibet_;G_;m" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Tibet_;G" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-053-p1s3w14">
@@ -345,7 +345,7 @@
 <form>Tibet</form>
 <tag>
 <AM lemma="tibet" src="orig">NNIS1-----A----</AM>
-<AM lemma="Tibet_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Tibet_;G" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-053-p1s4w10">

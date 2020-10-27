@@ -99,7 +99,7 @@
 <LM>w#w-mf920924-055-p2s1w3</LM>
 </w.rf>
 <form>Hrabě</form>
-<tag lemma="hrabě" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="hrabě-2" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-055-p2s1w4">
 <src.rf>manual</src.rf>
@@ -150,7 +150,7 @@
 <LM>w#w-mf920924-055-p2s1w9</LM>
 </w.rf>
 <form>Hrabě</form>
-<tag lemma="hrabě" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="hrabě-2" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-055-p2s1w10">
 <src.rf>manual</src.rf>
@@ -3355,7 +3355,7 @@
 <LM>w#w-mf920924-055-p8s7w11</LM>
 </w.rf>
 <form>Hrabě</form>
-<tag lemma="hrabě" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="hrabě-2" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920924-055-p8s7w12">
 <src.rf>manual</src.rf>

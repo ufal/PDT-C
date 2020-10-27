@@ -111,7 +111,7 @@
 <LM>w#w-mf930708-154-p3s1w5</LM>
 </w.rf>
 <form>Hrabě</form>
-<tag lemma="hrabě" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="hrabě-2" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-154-p3s1w6">
 <src.rf>manual</src.rf>

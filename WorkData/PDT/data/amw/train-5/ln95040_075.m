@@ -3419,7 +3419,7 @@
 <AM lemma="Dole_;Y" src="orig">NNMS3-----A----</AM>
 <AM lemma="Doleův_;Y_^(*2)" src="auto" recommended="1">AUMP1M---------</AM>
 <AM lemma="Doleův_;Y_^(*2)" src="auto">AUMP5M---------</AM>
-<AM lemma="Dole_;Y" src="manual" selected="1">NNMS3-----A----</AM>
+<AM lemma="Dole_;Y" src="manual" selected="1">NNMS3-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln95040-075-p8s4w8">

@@ -183,7 +183,7 @@
 <AM lemma="nádražní" src="auto">AAMS2----1A----</AM>
 <AM lemma="nádražní" src="auto">AAMS4----1A----</AM>
 <AM lemma="nádražní" src="auto" recommended="1">AANS2----1A----</AM>
-<AM lemma="nádražní-2" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="nádražní" src="manual" selected="1">AAMS2----1A----</AM>
 </tag>
 </m>
 <m id="m025-d-id146674-punct">
@@ -315,7 +315,7 @@
 <AM lemma="nádražní" src="auto">AANS1----1A----</AM>
 <AM lemma="nádražní" src="auto">AANS4----1A----</AM>
 <AM lemma="nádražní" src="auto">AANS5----1A----</AM>
-<AM lemma="nádražní-2" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="nádražní" src="manual" selected="1">AAMS1----1A----</AM>
 </tag>
 </m>
 <m id="m025-d-id146959-punct">
@@ -1513,7 +1513,7 @@
 <AM lemma="nádražní" src="auto">AAIP7----1A----</AM>
 <AM lemma="nádražní" src="auto" recommended="1">AAMP7----1A----</AM>
 <AM lemma="nádražní" src="auto">AANP7----1A----</AM>
-<AM lemma="nádražní-2" src="manual" selected="1">NNMP7-----A----</AM>
+<AM lemma="nádražní" src="manual" selected="1">AAMP7----1A----</AM>
 </tag>
 </m>
 <m id="m025-d1t3593-1">
@@ -1956,7 +1956,7 @@
 <AM lemma="nádražní" src="auto">AAMP6----1A----</AM>
 <AM lemma="nádražní" src="auto">AANP2----1A----</AM>
 <AM lemma="nádražní" src="auto">AANP6----1A----</AM>
-<AM lemma="nádražní-2" src="manual" selected="1">NNMP2-----A----</AM>
+<AM lemma="nádražní" src="manual" selected="1">AAMP2----1A----</AM>
 </tag>
 </m>
 <m id="m025-d1t3637-3">

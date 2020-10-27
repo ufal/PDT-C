@@ -773,7 +773,7 @@
 <AM lemma="panský_^(člověk)" src="auto">NNMP5-----A---6</AM>
 <AM lemma="panský_^(člověk)" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="panský_^(člověk)" src="auto">NNMS5-----A----</AM>
-<AM lemma="Panský-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Panský_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m004-d-m-d1e1630-x2-punct-punct">
@@ -1286,7 +1286,7 @@
 <AM lemma="panský_^(člověk)" src="auto">NNMP5-----A---6</AM>
 <AM lemma="panský_^(člověk)" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="panský_^(člověk)" src="auto">NNMS5-----A----</AM>
-<AM lemma="Panský-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Panský_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m004-d1t1666-2">
@@ -1528,7 +1528,7 @@
 <AM lemma="panský_^(člověk)" src="auto">NNMP5-----A---6</AM>
 <AM lemma="panský_^(člověk)" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="panský_^(člověk)" src="auto">NNMS5-----A----</AM>
-<AM lemma="Panský-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Panský_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m004-d1t1693-9">
@@ -1598,7 +1598,7 @@
 <AM lemma="panský_^(člověk)" src="auto">NNMP5-----A---6</AM>
 <AM lemma="panský_^(člověk)" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="panský_^(člověk)" src="auto">NNMS5-----A----</AM>
-<AM lemma="Panský-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Panský_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m004-d1t1701-5">
@@ -2614,7 +2614,7 @@
 <AM lemma="panský" src="auto">AANP6----1A----</AM>
 <AM lemma="panský_^(člověk)" src="auto" recommended="1">NNMP2-----A----</AM>
 <AM lemma="panský_^(člověk)" src="auto">NNMP6-----A----</AM>
-<AM lemma="Panský-2_;Y" src="manual" selected="1">NNMP2-----A----</AM>
+<AM lemma="Panský_;Y" src="manual" selected="1">NNMP2-----A----</AM>
 </tag>
 </m>
 <m id="m004-d1t1749-3">
@@ -2917,7 +2917,7 @@
 <AM lemma="panský_^(člověk)" src="auto">NNMP5-----A---6</AM>
 <AM lemma="panský_^(člověk)" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="panský_^(člověk)" src="auto">NNMS5-----A----</AM>
-<AM lemma="Panský-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Panský_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m004-d-id110665-punct">
@@ -4783,7 +4783,7 @@
 <AM lemma="pong_^(jen_ve_spojení_ping-pong)" src="auto">NNIS2-----A----</AM>
 <AM lemma="pong_^(jen_ve_spojení_ping-pong)" src="auto">NNIS3-----A----</AM>
 <AM lemma="pong_^(jen_ve_spojení_ping-pong)" src="auto">NNIS5-----A----</AM>
-<AM lemma="pong_^(jen_ve_spojení_ping-pong)" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="pong" src="auto" recommended="1">SNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m004-26-244">

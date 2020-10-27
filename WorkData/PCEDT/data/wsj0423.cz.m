@@ -2908,7 +2908,7 @@
 <tag>
 <AM lemma="nesoulad" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="nesoulad" src="auto">NNIS4-----A----</AM>
-<AM lemma="soulad" src="manual" selected="1">NNIS1-----N----</AM>
+<AM lemma="nesoulad" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0423-001-p1s10W26-Ta">
@@ -7071,7 +7071,7 @@
 <tag>
 <AM lemma="nesoulad" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="nesoulad" src="auto">NNIS4-----A----</AM>
-<AM lemma="soulad" src="manual" selected="1">NNIS1-----N----</AM>
+<AM lemma="nesoulad" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0423-001-p1s25W7-Ta">

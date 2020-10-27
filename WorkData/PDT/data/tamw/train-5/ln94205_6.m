@@ -1798,7 +1798,7 @@
 <form>Burroughs</form>
 <tag>
 <AM lemma="Burroughs_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Burroughs-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Burroughs-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-6-p3s6w19">

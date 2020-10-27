@@ -548,7 +548,7 @@
 <AM lemma="taký" src="auto">PDNS1----------</AM>
 <AM lemma="taký" src="auto">PDNS4----------</AM>
 <AM lemma="také" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="také-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="také" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2208-001-p1s1W14-Ta">

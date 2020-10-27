@@ -369,7 +369,7 @@
 <LM>w#w-ln95048-063-p2s3w7</LM>
 </w.rf>
 <form>Viktorie</form>
-<tag lemma="Viktoria-1_;Y_^(ženské_jméno)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Viktoria_;Y_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95048-063-p2s3w8">
 <src.rf>manual</src.rf>
@@ -762,7 +762,7 @@
 <LM>w#w-ln95048-063-p2s6w13</LM>
 </w.rf>
 <form>Popelky</form>
-<tag lemma="Popelka-2_;Y_^(žena)" src="auto" selected="1">NNFS2-----A----</tag>
+<tag lemma="Popelka-2_;G_;Y" src="auto" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95048-063-p2s6w14">
 <src.rf>manual</src.rf>
@@ -2576,7 +2576,7 @@
 <LM>w#w-ln95048-063-p5s2w33</LM>
 </w.rf>
 <form>sexu</form>
-<tag lemma="sex" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="sex-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95048-063-p5s2w34">
 <src.rf>manual</src.rf>

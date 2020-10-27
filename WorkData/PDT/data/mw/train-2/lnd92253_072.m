@@ -259,7 +259,7 @@
 <form>nezdary</form>
 <tag>
 <AM lemma="nezdar" src="orig">NNIP1-----A----</AM>
-<AM lemma="zdar" src="manual" selected="1">NNIP1-----N----</AM>
+<AM lemma="nezdar" src="manual" selected="1">NNIP1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-072-p3s2w3">
@@ -410,7 +410,7 @@
 <AM lemma="přízeň" src="orig">NNFS7-----A----</AM>
 <AM lemma="nepřízeň" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="nepřízeň" src="auto">NNFS7-----A----</AM>
-<AM lemma="přízeň" src="manual" selected="1">NNFS7-----N----</AM>
+<AM lemma="nepřízeň" src="manual" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-072-p3s3w11">
@@ -2785,7 +2785,7 @@
 <form>nezbytné</form>
 <tag>
 <AM lemma="zbytný" src="orig">AANS1----1N----</AM>
-<AM lemma="nezbytný" src="manual" selected="1">AANS1----1A----</AM>
+<AM lemma="zbytný" src="manual" selected="1">AANS1----1N----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-072-p12s3w13">

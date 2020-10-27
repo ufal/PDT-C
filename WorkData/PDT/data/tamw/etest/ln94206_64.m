@@ -21,7 +21,7 @@
 <form>Nepravdy</form>
 <tag>
 <AM lemma="nepravda" src="orig">NNFP1-----A----</AM>
-<AM lemma="pravda-1" src="manual" selected="1">NNFP1-----N----</AM>
+<AM lemma="nepravda" src="manual" selected="1">NNFP1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-64-p1s1w2">

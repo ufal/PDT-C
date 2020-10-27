@@ -1461,7 +1461,7 @@
 <LM>w#w-vesm9212-018-p47s1w3</LM>
 </w.rf>
 <form>danausy</form>
-<tag lemma="danaus" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="danaus_^(motýl)" src="orig" selected="1">NNMP4-----A---1</tag>
 </m>
 <m id="m-vesm9212-018-p47s1w4">
 <src.rf>manual</src.rf>
@@ -2018,7 +2018,7 @@
 <form>neosoby</form>
 <tag>
 <AM lemma="neosoba" src="orig">NNFS2-----A----</AM>
-<AM lemma="osoba" src="manual" selected="1">NNFS2-----N----</AM>
+<AM lemma="neosoba" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-018-p60s1w6">

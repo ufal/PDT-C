@@ -988,7 +988,7 @@
 <form>Poláka</form>
 <tag>
 <AM lemma="Polák_;E" src="auto">NNMS2-----A----</AM>
-<AM lemma="Polák_;E" src="auto" recommended="1">NNMS4-----A----</AM>
+<AM lemma="Polák_;E_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
 <AM lemma="polák-1_;U" src="auto">NNMS2-----A----</AM>
 <AM lemma="polák-1_;U" src="auto">NNMS4-----A----</AM>
 </tag>

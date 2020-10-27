@@ -146,7 +146,7 @@
 <AM lemma="Marinos_;G" src="auto">NNMS2-----A----</AM>
 <AM lemma="Marinos_;G" src="auto">NNMS4-----A----</AM>
 <AM lemma="marina" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Marina_;G" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Marina_;G_;Y_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1435-001-p1s0W10-Ta">
@@ -2704,7 +2704,7 @@
 <AM lemma="Marinos_;G" src="auto">NNMS2-----A----</AM>
 <AM lemma="Marinos_;G" src="auto">NNMS4-----A----</AM>
 <AM lemma="marina" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Marina_;G" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Marina_;G_;Y_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1435-001-p1s11W5-Ta">
@@ -4200,7 +4200,7 @@
 <AM lemma="Marinos_;G" src="auto">NNMS2-----A----</AM>
 <AM lemma="Marinos_;G" src="auto">NNMS4-----A----</AM>
 <AM lemma="marina" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Marina_;G" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Marina_;G_;Y_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1435-001-p1s16W5-Ta">
@@ -8474,7 +8474,7 @@
 <AM lemma="Marinos_;G" src="auto">NNMS2-----A----</AM>
 <AM lemma="Marinos_;G" src="auto">NNMS4-----A----</AM>
 <AM lemma="marina" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Marina_;G" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Marina_;G_;Y_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1435-001-p1s38W4-Ta">
@@ -9016,7 +9016,7 @@
 <AM lemma="Marinos_;G" src="auto">NNMS2-----A----</AM>
 <AM lemma="Marinos_;G" src="auto">NNMS4-----A----</AM>
 <AM lemma="marina" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Marina_;G" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Marina_;G_;Y_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1435-001-p1s39W16-Ta">
@@ -10179,7 +10179,7 @@
 <AM lemma="Marinos_;G" src="auto">NNMS2-----A----</AM>
 <AM lemma="Marinos_;G" src="auto">NNMS4-----A----</AM>
 <AM lemma="marina" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Marina_;G" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Marina_;G_;Y_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1435-001-p1s42W21-Ta">

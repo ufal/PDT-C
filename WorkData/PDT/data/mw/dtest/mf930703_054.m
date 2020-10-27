@@ -517,7 +517,7 @@
 <LM>w#w-mf930703-054-p2s3w12</LM>
 </w.rf>
 <form>Effenbergera</form>
-<tag lemma="Effenberger_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Effenberger_;Y" src="orig" selected="1">NNMS2-----A---2</tag>
 </m>
 <m id="m-mf930703-054-p2s3w13">
 <src.rf>manual</src.rf>

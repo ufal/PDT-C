@@ -2609,7 +2609,7 @@
 <form>černá</form>
 <tag>
 <AM lemma="černat" src="auto">VB-S---3P-AAI--</AM>
-<AM lemma="černá_^(zvěř)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="černý_;o" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="černá_^(zvěř)" src="auto">NNFS5-----A----</AM>
 <AM lemma="černý_;o" src="auto">AAFS1----1A----</AM>
 <AM lemma="černý_;o" src="auto">AAFS5----1A----</AM>

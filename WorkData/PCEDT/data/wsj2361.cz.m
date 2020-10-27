@@ -2505,7 +2505,7 @@
 <AM lemma="několikerý" src="auto">AANP1----1A---6</AM>
 <AM lemma="několikerý" src="auto">AANP4----1A---6</AM>
 <AM lemma="několikerý" src="auto">AANP5----1A---6</AM>
-<AM lemma="několikerý" src="auto" recommended="1">AANS1----1A----</AM>
+<AM lemma="několikerý" src="auto" recommended="1">ChNS1----------</AM>
 <AM lemma="několikerý" src="auto">AANS4----1A----</AM>
 <AM lemma="několikerý" src="auto">AANS5----1A----</AM>
 </tag>
@@ -4825,7 +4825,7 @@
 <AM lemma="soutěžící_^(*3it)" src="auto">AGNS1-----A----</AM>
 <AM lemma="soutěžící_^(*3it)" src="auto" recommended="1">AGNS4-----A----</AM>
 <AM lemma="soutěžící_^(*3it)" src="auto">AGNS5-----A----</AM>
-<AM lemma="soutěžící-2" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="soutěžící_^(*3it)" src="manual" selected="1">AGMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2361-001-p1s13W21-Ta">

@@ -1008,7 +1008,7 @@
 <LM>w#w-mf930713-151-p2s8w10</LM>
 </w.rf>
 <form>statusu</form>
-<tag lemma="status" src="orig" selected="1">NNIS6-----A---1</tag>
+<tag lemma="status" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-mf930713-151-p2s8w11">
 <src.rf>manual</src.rf>

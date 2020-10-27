@@ -61,7 +61,7 @@
 <LM>w#w-ln94202-113-p2s1Aw2</LM>
 </w.rf>
 <form>Viktorii</form>
-<tag lemma="Viktoria-2_;m_^(jméno_sport.klubu)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Viktoria_;Y_;m" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94202-113-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -153,7 +153,7 @@
 <LM>w#w-ln94202-113-p2s1Cw2</LM>
 </w.rf>
 <form>Viktorii</form>
-<tag lemma="Viktoria-2_;m_^(jméno_sport.klubu)" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="Viktoria_;Y_;m" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-ln94202-113-p2s1Cw3">
 <src.rf>manual</src.rf>

@@ -508,7 +508,7 @@
 <form>Radia</form>
 <tag>
 <AM lemma="rádio_,a" src="orig">NNNS2-----A----</AM>
-<AM lemma="radio_,s_^(^DD**rádio)" src="manual" selected="1">NNNS2-----A----</AM>
+<AM lemma="radio-1_,s_^(^DD**rádio)" src="manual" selected="1">NNNS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-167-p2s2w19">

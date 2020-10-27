@@ -541,7 +541,7 @@
 <LM>w#w-lnd92258-106-p2s3w17</LM>
 </w.rf>
 <form>nejhustším</form>
-<tag lemma="hustý" src="orig" selected="1">AAFP3----3A----</tag>
+<tag lemma="hustý" src="orig" selected="1">AAFP3----3A---1</tag>
 </m>
 <m id="m-lnd92258-106-p2s3w18">
 <src.rf>manual</src.rf>

@@ -5578,7 +5578,7 @@
 <AM lemma="neúspěch" src="auto" recommended="1">NNIS3-----A----</AM>
 <AM lemma="neúspěch" src="auto">NNIS5-----A----</AM>
 <AM lemma="neúspěch" src="auto">NNIS6-----A----</AM>
-<AM lemma="úspěch" src="manual" selected="1">NNIS3-----N----</AM>
+<AM lemma="neúspěch" src="manual" selected="1">NNIS3-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0208-001-p1s16W20-Ta">

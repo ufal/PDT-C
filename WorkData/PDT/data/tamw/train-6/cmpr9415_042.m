@@ -331,7 +331,7 @@
 <form>nesolidnost</form>
 <tag>
 <AM lemma="nesolidnost" src="orig">NNFS4-----A----</AM>
-<AM lemma="solidnost" src="manual" selected="1">NNFS4-----N----</AM>
+<AM lemma="nesolidnost" src="manual" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-042-p4s2w13">

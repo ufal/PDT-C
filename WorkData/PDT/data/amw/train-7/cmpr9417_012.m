@@ -4468,7 +4468,7 @@
 <LM>w#w-cmpr9417-012-p17s1w1</LM>
 </w.rf>
 <form>Dinosauři</form>
-<tag lemma="dinosaur" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="dinosaurus" src="orig" selected="1">NNMP1-----A---1</tag>
 </m>
 <m id="m-cmpr9417-012-p17s1w2">
 <src.rf>manual</src.rf>

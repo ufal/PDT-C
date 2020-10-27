@@ -233,7 +233,7 @@
 <tag>
 <AM lemma="Blesk-2_;m" src="orig">AAXXX----1A----</AM>
 <AM lemma="Blesk_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Blesk_;m_^(noviny)" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
+<AM lemma="Blesk-2_;m_^(noviny)" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="Blesk_;m_^(noviny)" src="auto">NNIS4-----A----</AM>
 <AM lemma="blesk" src="auto">NNIS1-----A----</AM>
 <AM lemma="blesk" src="auto">NNIS4-----A----</AM>

@@ -4725,7 +4725,7 @@
 <LM>w#w-vesm9303-031-p5s5w7</LM>
 </w.rf>
 <form>Marsem</form>
-<tag lemma="Mars-2_;m_^(planeta;;kosmická_sonda)" src="auto" selected="1">NNIS7-----A----</tag>
+<tag lemma="Mars-2_;G_;m_^(planeta;;kosmická_sonda)" src="auto" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-vesm9303-031-p5s5w8">
 <src.rf>manual</src.rf>

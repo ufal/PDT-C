@@ -5339,7 +5339,7 @@
 <AM lemma="živý" src="auto">AAIP7----1A----</AM>
 <AM lemma="živý" src="auto" recommended="1">AAMP7----1A----</AM>
 <AM lemma="živý" src="auto">AANP7----1A----</AM>
-<AM lemma="živý-2" src="manual" selected="1">NNMP7-----A----</AM>
+<AM lemma="živý" src="manual" selected="1">AAMP7----1A----</AM>
 </tag>
 </m>
 <m id="m036-d-id103899-punct">

@@ -99,7 +99,7 @@
 <LM>w#w-mf930703-096-p1s2w7</LM>
 </w.rf>
 <form>RUSY</form>
-<tag lemma="Rus_;E" src="orig" selected="1">NNMP7-----A----</tag>
+<tag lemma="Rus-1_;E" src="orig" selected="1">NNMP7-----A----</tag>
 </m>
 </s>
 <s id="m-mf930703-096-p2s1">

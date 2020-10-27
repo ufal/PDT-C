@@ -335,7 +335,7 @@
 <LM>w#w-lnd94101-080-p1s1Cw23</LM>
 </w.rf>
 <form>Nory</form>
-<tag lemma="Nor_;E" src="orig" selected="1">NNMP7-----A----</tag>
+<tag lemma="Nor_;E_;Y" src="orig" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-lnd94101-080-p1s1Cw24">
 <src.rf>manual</src.rf>
@@ -1852,7 +1852,7 @@
 <LM>w#w-lnd94101-080-p1s11w20</LM>
 </w.rf>
 <form>pár</form>
-<tag lemma="pár-1" src="orig" selected="1">ClXP2----------</tag>
+<tag lemma="pár-1" src="orig" selected="1">Ca--X----------</tag>
 </m>
 <m id="m-lnd94101-080-p1s11w21">
 <src.rf>manual</src.rf>
@@ -2300,7 +2300,7 @@
 <LM>w#w-lnd94101-080-p1s14w13</LM>
 </w.rf>
 <form>Nory</form>
-<tag lemma="Nor_;E" src="orig" selected="1">NNMP7-----A----</tag>
+<tag lemma="Nor_;E_;Y" src="orig" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-lnd94101-080-p1s14w14">
 <src.rf>manual</src.rf>
@@ -5175,7 +5175,7 @@
 <LM>w#w-lnd94101-080-p1s32w31</LM>
 </w.rf>
 <form>Nory</form>
-<tag lemma="Nor_;E" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="Nor_;E_;Y" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-lnd94101-080-p1s32w32">
 <src.rf>manual</src.rf>

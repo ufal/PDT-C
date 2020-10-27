@@ -2022,7 +2022,7 @@
 <tag>
 <AM lemma="Greenville_;G" src="auto">NNIS2-----A---1</AM>
 <AM lemma="Greenville_;G" src="auto">NNIS3-----A---1</AM>
-<AM lemma="Greenville_;G" src="auto" recommended="1">NNIS6-----A---1</AM>
+<AM lemma="Greenville_;G" src="auto" recommended="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0189-001-p1s6W14-Ta">

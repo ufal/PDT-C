@@ -2188,7 +2188,7 @@
 <LM>w#w-ln94206-16-p5s1w25</LM>
 </w.rf>
 <form>stály</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VpTP----R-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln94206-16-p5s1w26">
 <src.rf>manual</src.rf>

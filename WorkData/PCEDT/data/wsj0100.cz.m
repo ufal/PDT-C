@@ -4318,7 +4318,7 @@
 <AM lemma="pan_,x" src="auto">NNMS3-----A---1</AM>
 <AM lemma="pan_,x" src="auto" recommended="1">NNMS6-----A---1</AM>
 <AM lemma="pan_^(oslovení)" src="auto">NNMS3-----A----</AM>
-<AM lemma="pan_^(oslovení)" src="auto" selected="1">NNMS6-----A----</AM>
+<AM lemma="pan" src="auto" selected="1">NNMS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-wsj0100-001-p1s14W29-Ta">

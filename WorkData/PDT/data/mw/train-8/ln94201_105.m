@@ -3819,7 +3819,7 @@
 <LM>w#w-ln94201-105-p7s2w10</LM>
 </w.rf>
 <form>statisíce</form>
-<tag lemma="stotisíc`100000" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="statisíc`100000" src="orig" selected="1">CzIP1----------</tag>
 </m>
 <m id="m-ln94201-105-p7s2w11">
 <src.rf>manual</src.rf>
@@ -4643,7 +4643,7 @@
 <LM>w#w-ln94201-105-p7s7w23</LM>
 </w.rf>
 <form>pozdějším</form>
-<tag lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="orig" selected="1">AAIS7----2A----</tag>
+<tag lemma="pozdější" src="orig" selected="1">AAIS7----1A----</tag>
 </m>
 <m id="m-ln94201-105-p7s7w24">
 <src.rf>manual</src.rf>

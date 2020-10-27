@@ -2492,7 +2492,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>stály</form>
-<tag lemma="stát-4_^(něco_stojí_peníze)" src="orig" selected="1">VpTP----R-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-lnd94105-120-p1s21w7">
 <src.rf>manual</src.rf>

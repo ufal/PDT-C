@@ -2272,7 +2272,7 @@
 <form>g</form>
 <tag>
 <AM lemma="g-1`gram_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="g-1`gram" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="gram" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-006-p16s4w13">
@@ -3143,7 +3143,7 @@
 <form>mm</form>
 <tag>
 <AM lemma="mm-1`milimetr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="mm-1`milimetr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="milimetr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-006-p18s2w7">
@@ -3300,7 +3300,7 @@
 <form>g</form>
 <tag>
 <AM lemma="g-1`gram_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="g-1`gram" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="gram" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-006-p19s1w17">
@@ -3367,7 +3367,7 @@
 <form>g</form>
 <tag>
 <AM lemma="g-1`gram_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="g-1`gram" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="gram" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-006-p19s1w25">
@@ -3517,7 +3517,7 @@
 <form>g</form>
 <tag>
 <AM lemma="g-1`gram_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="g-1`gram" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="gram" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-006-p20s1w18">

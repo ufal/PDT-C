@@ -597,7 +597,7 @@
 <AM lemma="stupeň_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="středa" src="auto">NNFXX-----A---8</AM>
-<AM lemma="starý" src="manual" selected="1">AAXXX----2A---b</AM>
+<AM lemma="st-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0516-001-p1s2W16-Ta">

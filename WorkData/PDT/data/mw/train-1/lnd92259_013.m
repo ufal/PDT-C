@@ -4282,7 +4282,7 @@
 <form>váže</form>
 <tag>
 <AM lemma="vázat_^(např._provazem;_se_k_čemu)" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="vázat_^(např._provazem;_se_k_čemu)" src="manual" selected="1">VB-S---3P-AAI--</AM>
+<AM lemma="vázat" src="manual" selected="1">VB-S---3P-AAI-1</AM>
 </tag>
 </m>
 <m id="m-lnd92259-013-p7s2w9">

@@ -8008,7 +8008,7 @@
 <LM>w#w-vesm9212-014-p15s2w20</LM>
 </w.rf>
 <form>pozdějšího</form>
-<tag lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="orig" selected="1">AAIS2----2A----</tag>
+<tag lemma="pozdější" src="orig" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-vesm9212-014-p15s2w21">
 <src.rf>manual</src.rf>

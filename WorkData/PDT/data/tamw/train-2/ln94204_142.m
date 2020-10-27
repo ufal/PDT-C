@@ -166,7 +166,7 @@
 <LM>w#w-ln94204-142-p2s1w16</LM>
 </w.rf>
 <form>Poláky</form>
-<tag lemma="Polák_;E" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="Polák_;E_;Y" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-ln94204-142-p2s1w17">
 <src.rf>manual</src.rf>
@@ -2072,7 +2072,7 @@
 <form>Mariana</form>
 <tag>
 <AM lemma="Marián_;Y_,x" src="orig">NNMS2-----A----</AM>
-<AM lemma="Marian_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Marian_;Y_,s_^(^DD**Marián)" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-142-p2s10Bw15">
@@ -2129,7 +2129,7 @@
 <tag>
 <AM lemma="Zacharský_;Y" src="orig">NNMS1-----A---1</AM>
 <AM lemma="Zacharski_;Y" src="manual">NNMS1-----A---1</AM>
-<AM lemma="Zacharski_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Zacharský_;Y" src="manual" selected="1">NNMS1-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln94204-142-p2s11w2">
@@ -2930,7 +2930,7 @@
 <form>Zacharski</form>
 <tag>
 <AM lemma="Zacharský_;Y" src="orig">NNMS1-----A---1</AM>
-<AM lemma="Zacharski_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Zacharský_;Y" src="manual" selected="1">NNMS1-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln94204-142-p2s16Aw6">

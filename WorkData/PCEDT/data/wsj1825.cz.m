@@ -9024,7 +9024,7 @@
 <tag>
 <AM lemma="Carola_;Y" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="Carol_;Y" src="manual">NNFS1-----A----</AM>
-<AM lemma="Carol-1_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Carol_;Y_;m" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1825-001-p1s36W9-Ta">

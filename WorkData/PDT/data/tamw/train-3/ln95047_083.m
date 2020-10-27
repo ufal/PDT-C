@@ -929,7 +929,7 @@
 <LM>w#w-ln95047-083-p2s5w16</LM>
 </w.rf>
 <form>správní</form>
-<tag lemma="správný_^(podle_něj._měřítek;_př._chlap,_míra,...)" src="orig" selected="1">AAMP1----1A----</tag>
+<tag lemma="správný" src="orig" selected="1">AAMP1----1A----</tag>
 </m>
 <m id="m-ln95047-083-p2s5w17">
 <src.rf>manual</src.rf>

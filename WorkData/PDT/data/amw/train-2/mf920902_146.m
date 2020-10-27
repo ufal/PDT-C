@@ -1728,7 +1728,7 @@
 </w.rf>
 <form>Pretoria</form>
 <tag>
-<AM lemma="Pretoria_;G" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="Pretorie_;G" src="orig" selected="1">NNFS1-----A---1</AM>
 <AM lemma="Pretorie_;G" src="auto" recommended="1">NNFS1-----A---1</AM>
 <AM lemma="Pretorius_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Pretorius_;Y" src="auto">NNMS4-----A----</AM>

@@ -2609,7 +2609,7 @@
 <LM>w#w-ln94200-30-p8s1w10</LM>
 </w.rf>
 <form>nezbytnou</form>
-<tag lemma="nezbytný" src="orig" selected="1">AAFS7----1A----</tag>
+<tag lemma="zbytný" src="orig" selected="1">AAFS7----1N----</tag>
 </m>
 <m id="m-ln94200-30-p8s1w11">
 <src.rf>manual</src.rf>

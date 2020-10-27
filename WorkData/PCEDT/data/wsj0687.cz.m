@@ -637,7 +637,7 @@
 <AM lemma="černý_;o" src="auto">AANS1----1A----</AM>
 <AM lemma="černý_;o" src="auto">AANS4----1A----</AM>
 <AM lemma="černý_;o" src="auto">AANS5----1A----</AM>
-<AM lemma="černý-2" src="manual" selected="1">NNMP4-----A----</AM>
+<AM lemma="černý_;o" src="manual" selected="1">AAMP4----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0687-001-p1s1W13-Ta">
@@ -5351,7 +5351,7 @@
 <AM lemma="mladistvý" src="auto">AAMP6----1A----</AM>
 <AM lemma="mladistvý" src="auto">AANP2----1A----</AM>
 <AM lemma="mladistvý" src="auto">AANP6----1A----</AM>
-<AM lemma="mladistvý-2" src="manual" selected="1">NNMP2-----A----</AM>
+<AM lemma="mladistvý" src="manual" selected="1">AAMP2----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0687-001-p1s21W6-Ta">
@@ -6368,7 +6368,7 @@
 <AM lemma="mladistvý" src="auto">AAMP6----1A----</AM>
 <AM lemma="mladistvý" src="auto">AANP2----1A----</AM>
 <AM lemma="mladistvý" src="auto">AANP6----1A----</AM>
-<AM lemma="mladistvý-2" src="manual" selected="1">NNMP2-----A----</AM>
+<AM lemma="mladistvý" src="manual" selected="1">AAMP2----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0687-001-p1s23W40-Ta">

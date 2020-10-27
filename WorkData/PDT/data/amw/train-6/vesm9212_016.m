@@ -19260,7 +19260,7 @@
 <LM>w#w-vesm9212-016-p30s1w36</LM>
 </w.rf>
 <form>softwaru</form>
-<tag lemma="software" src="orig" selected="1">NNIS2-----A---1</tag>
+<tag lemma="software" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-vesm9212-016-p30s1w37">
 <src.rf>manual</src.rf>
@@ -26169,7 +26169,7 @@
 <LM>w#w-vesm9212-016-p38s1w17</LM>
 </w.rf>
 <form>nevědce</form>
-<tag lemma="vědec" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="vědec" src="orig" selected="1">NNMP4-----N----</tag>
 </m>
 <m id="m-vesm9212-016-p38s1w18">
 <src.rf>manual</src.rf>
@@ -35667,7 +35667,7 @@
 <LM>w#w-vesm9212-016-p51s1w12</LM>
 </w.rf>
 <form>p</form>
-<tag lemma="page_^(strana,_v_cizojaz._ref.)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="p-33" src="orig" selected="1">Q3-------------</tag>
 </m>
 <m id="m-vesm9212-016-p51s1w13">
 <src.rf>manual</src.rf>

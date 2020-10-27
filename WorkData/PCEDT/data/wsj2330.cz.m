@@ -2225,7 +2225,7 @@
 <AM lemma="mizející_,h" src="auto">AANS4----1A----</AM>
 <AM lemma="mizející_,h" src="auto">AANS5----1A----</AM>
 <AM lemma="mizející_^(*4t)" src="auto">AGFP1-----A----</AM>
-<AM lemma="mizející_^(*4t)" src="auto" selected="1">AGFP4-----A----</AM>
+<AM lemma="mizející" src="auto" selected="1">AAFP4----1A----</AM>
 <AM lemma="mizející_^(*4t)" src="auto">AGFP5-----A----</AM>
 <AM lemma="mizející_^(*4t)" src="auto">AGFS1-----A----</AM>
 <AM lemma="mizející_^(*4t)" src="auto">AGFS2-----A----</AM>

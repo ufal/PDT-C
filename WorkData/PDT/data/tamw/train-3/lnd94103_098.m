@@ -1324,7 +1324,7 @@
 <LM>w#w-lnd94103-098-p1s9w3</LM>
 </w.rf>
 <form>Vlacha</form>
-<tag lemma="Vlach_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Vlach_;E_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd94103-098-p1s9w4">
 <src.rf>manual</src.rf>

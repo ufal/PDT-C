@@ -1394,7 +1394,7 @@
 </w.rf>
 <form>pozdějšího</form>
 <tag>
-<AM lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="auto" recommended="1">AAIS2----2A----</AM>
+<AM lemma="pozdější" src="auto" recommended="1">AAIS2----1A----</AM>
 <AM lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="auto">AAMS2----2A----</AM>
 <AM lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="auto">AAMS4----2A----</AM>
 <AM lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="auto">AANS2----2A----</AM>

@@ -2842,7 +2842,7 @@
 <form>Národové</form>
 <tag>
 <AM lemma="národ" src="orig">NNIP1-----A---2</AM>
-<AM lemma="národ" src="auto" recommended="1" selected="1">NNIP1-----A---1</AM>
+<AM lemma="národ" src="auto" recommended="1" selected="1">NNIP1-----A---2</AM>
 <AM lemma="národ" src="auto">NNIP4-----A---1</AM>
 <AM lemma="národ" src="auto">NNIP5-----A---1</AM>
 </tag>

@@ -4021,7 +4021,7 @@
 <tag>
 <AM lemma="kuchyně" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="kuchyně" src="auto">NNFS4-----A----</AM>
-<AM lemma="kuchyň" src="manual" selected="1">NNFS1-----A---1</AM>
+<AM lemma="kuchyň" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m109-d1t1507-21">

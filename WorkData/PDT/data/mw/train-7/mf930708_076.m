@@ -670,7 +670,7 @@
 <LM>w#w-mf930708-076-p2s4w20</LM>
 </w.rf>
 <form>Viola</form>
-<tag lemma="Viola_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Viola-1_;Y_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930708-076-p2s4w21">
 <src.rf>manual</src.rf>

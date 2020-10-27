@@ -1051,7 +1051,7 @@
 <LM>w#w-ln95041-018-p2s6w12</LM>
 </w.rf>
 <form>neúčast</form>
-<tag lemma="neúčast" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="účast" src="orig" selected="1">NNFS4-----N----</tag>
 </m>
 <m id="m-ln95041-018-p2s6w13">
 <src.rf>manual</src.rf>

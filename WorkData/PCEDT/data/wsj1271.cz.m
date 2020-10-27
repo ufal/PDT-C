@@ -42,7 +42,7 @@
 <AM lemma="dojíždějící_^(*4t)" src="auto">AGMP6-----A----</AM>
 <AM lemma="dojíždějící_^(*4t)" src="auto">AGNP2-----A----</AM>
 <AM lemma="dojíždějící_^(*4t)" src="auto">AGNP6-----A----</AM>
-<AM lemma="dojíždějící-2" src="manual" selected="1">NNMP2-----A----</AM>
+<AM lemma="dojíždějící_^(*4t)" src="manual" selected="1">AGMP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1271-001-p1s0W4-Ta">
@@ -3028,7 +3028,7 @@
 <AM lemma="dojíždějící_^(*4t)" src="auto">AGMP6-----A----</AM>
 <AM lemma="dojíždějící_^(*4t)" src="auto">AGNP2-----A----</AM>
 <AM lemma="dojíždějící_^(*4t)" src="auto">AGNP6-----A----</AM>
-<AM lemma="dojíždějící-2" src="manual" selected="1">NNMP2-----A----</AM>
+<AM lemma="dojíždějící_^(*4t)" src="manual" selected="1">AGMP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1271-001-p1s9W3-Ta">
@@ -4080,7 +4080,7 @@
 <AM lemma="dojíždějící_^(*4t)" src="auto">AGMP6-----A----</AM>
 <AM lemma="dojíždějící_^(*4t)" src="auto">AGNP2-----A----</AM>
 <AM lemma="dojíždějící_^(*4t)" src="auto">AGNP6-----A----</AM>
-<AM lemma="dojíždějící-2" src="manual" selected="1">NNMP2-----A----</AM>
+<AM lemma="dojíždějící_^(*4t)" src="manual" selected="1">AGMP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1271-001-p1s12W11-Ta">
@@ -4391,7 +4391,7 @@
 <AM lemma="dojíždějící_^(*4t)" src="auto">AGNS1-----A----</AM>
 <AM lemma="dojíždějící_^(*4t)" src="auto">AGNS4-----A----</AM>
 <AM lemma="dojíždějící_^(*4t)" src="auto">AGNS5-----A----</AM>
-<AM lemma="dojíždějící-2" src="manual" selected="1">NNMP4-----A----</AM>
+<AM lemma="dojíždějící_^(*4t)" src="manual" selected="1">AGMP4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1271-001-p1s13W9-Ta">
@@ -11158,7 +11158,7 @@
 <AM lemma="dojíždějící_^(*4t)" src="auto">AGNS1-----A----</AM>
 <AM lemma="dojíždějící_^(*4t)" src="auto">AGNS4-----A----</AM>
 <AM lemma="dojíždějící_^(*4t)" src="auto">AGNS5-----A----</AM>
-<AM lemma="dojíždějící-2" src="manual" selected="1">NNMP1-----A----</AM>
+<AM lemma="dojíždějící_^(*4t)" src="manual" selected="1">AGMP1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1271-001-p1s37W4-Ta">

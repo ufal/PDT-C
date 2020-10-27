@@ -147,7 +147,7 @@
 </w.rf>
 <form>Shannonu</form>
 <tag>
-<AM lemma="Shannon_;G" src="orig" selected="1">NNIS6-----A----</AM>
+<AM lemma="Shannon-2_;G" src="orig" selected="1">NNIS6-----A---1</AM>
 <AM lemma="Shannon_;Y" src="auto">NNMS3-----A---1</AM>
 <AM lemma="Shannon_;Y" src="auto" recommended="1">NNMS6-----A---1</AM>
 </tag>

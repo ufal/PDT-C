@@ -1676,7 +1676,7 @@
 <LM>w#w-lnd91301-014-p6s6w13</LM>
 </w.rf>
 <form>nezbytný</form>
-<tag lemma="nezbytný" src="orig" selected="1">AAIS1----1A----</tag>
+<tag lemma="zbytný" src="orig" selected="1">AAIS1----1N----</tag>
 </m>
 <m id="m-lnd91301-014-p6s6w14">
 <src.rf>manual</src.rf>

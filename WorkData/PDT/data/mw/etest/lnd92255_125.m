@@ -1937,7 +1937,7 @@
 <LM>w#w-lnd92255-125-p4s15w10</LM>
 </w.rf>
 <form>Cagliari</form>
-<tag lemma="Cagliari_;G" src="auto" selected="1">NNNXX-----A----</tag>
+<tag lemma="Cagliari-2_;G" src="auto" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-lnd92255-125-p4s15w11">
 <src.rf>manual</src.rf>

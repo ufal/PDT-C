@@ -889,7 +889,7 @@
 <LM>w#w-ln94208-11-p2s8w6</LM>
 </w.rf>
 <form>pozdější</form>
-<tag lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="orig" selected="1">AAMP1----2A----</tag>
+<tag lemma="pozdější" src="orig" selected="1">AAMP1----1A----</tag>
 </m>
 <m id="m-ln94208-11-p2s8w7">
 <src.rf>manual</src.rf>

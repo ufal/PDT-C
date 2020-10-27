@@ -709,7 +709,7 @@
 <LM>w#w-mf930702-127-p2s3w26</LM>
 </w.rf>
 <form>Hudson</form>
-<tag lemma="Hudson_;G" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Hudson-2_;G" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930702-127-p2s3w27">
 <src.rf>manual</src.rf>

@@ -2229,7 +2229,7 @@
 <AM lemma="nabízející_^(*4t)" src="auto">AGMP6-----A----</AM>
 <AM lemma="nabízející_^(*4t)" src="auto">AGNP2-----A----</AM>
 <AM lemma="nabízející_^(*4t)" src="auto">AGNP6-----A----</AM>
-<AM lemma="nabízející-2" src="manual" selected="1">NNMP2-----A----</AM>
+<AM lemma="nabízející_^(*4t)" src="manual" selected="1">AGMP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1734-001-p1s5W27-Ta">

@@ -1425,7 +1425,7 @@
 <form>Kamenskij</form>
 <tag>
 <AM lemma="Kamenskij_;Y" src="orig">NNMS1-----A---1</AM>
-<AM lemma="Kamenský_;Y" src="manual" selected="1">NNMS1-----A---2</AM>
+<AM lemma="Kamenský_;Y" src="manual" selected="1">NNMS1-----A---1</AM>
 </tag>
 </m>
 <m id="m-lnd94101-090-p1s10w9">

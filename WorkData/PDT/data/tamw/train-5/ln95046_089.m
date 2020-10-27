@@ -2064,7 +2064,7 @@
 <form>st</form>
 <tag>
 <AM lemma="starší_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="starší" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="st-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-089-p3s13w4">

@@ -265,7 +265,7 @@
 <LM>w#w-ln95042-075-p2s2w6</LM>
 </w.rf>
 <form>Tamary</form>
-<tag lemma="Tamara-3_;Y" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Tamara-3_;Y_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95042-075-p2s2w7">
 <src.rf>manual</src.rf>

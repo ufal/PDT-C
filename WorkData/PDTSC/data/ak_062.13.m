@@ -4516,7 +4516,7 @@
 <AM lemma="Rus-2_;G_^(Rusko)" src="auto">NNFS3-----A----</AM>
 <AM lemma="Rus-2_;G_^(Rusko)" src="auto">NNFS5-----A----</AM>
 <AM lemma="Rus-2_;G_^(Rusko)" src="auto">NNFS6-----A----</AM>
-<AM lemma="Rus_;E" src="auto" recommended="1">NNMP1-----A---1</AM>
+<AM lemma="Rus-1_;E" src="auto" recommended="1">NNMP1-----A---1</AM>
 <AM lemma="Rus_;E" src="auto">NNMP5-----A---1</AM>
 <AM lemma="rus_^(druh_švába)" src="auto">NNMP1-----A---1</AM>
 <AM lemma="rus_^(druh_švába)" src="auto">NNMP5-----A---1</AM>

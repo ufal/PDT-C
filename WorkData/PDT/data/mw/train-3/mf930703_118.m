@@ -14460,7 +14460,7 @@
 <LM>w#w-mf930703-118-p28s2w20</LM>
 </w.rf>
 <form>Husa</form>
-<tag lemma="Hus_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Hus-1_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930703-118-p28s2w21">
 <src.rf>manual</src.rf>
@@ -18774,7 +18774,7 @@
 <LM>w#w-mf930703-118-p34s1w43</LM>
 </w.rf>
 <form>Ringo</form>
-<tag lemma="Ringo_;m" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Ringo-2_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf930703-118-p34s1w44">
 <src.rf>manual</src.rf>

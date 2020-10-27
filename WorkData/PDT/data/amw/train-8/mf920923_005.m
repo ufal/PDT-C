@@ -978,7 +978,7 @@
 <form>nezbytná</form>
 <tag>
 <AM lemma="zbytný" src="orig">AANP4----1N----</AM>
-<AM lemma="nezbytný" src="manual" selected="1">AANP4----1A----</AM>
+<AM lemma="zbytný" src="manual" selected="1">AANP4----1N----</AM>
 </tag>
 </m>
 <m id="m-mf920923-005-p3s3w10">

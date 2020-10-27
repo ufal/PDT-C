@@ -2852,7 +2852,7 @@
 <form>pozůstalé</form>
 <tag>
 <AM lemma="pozůstalý_^(*2t)" src="auto">AAMP4----1A----</AM>
-<AM lemma="pozůstalý-2" src="manual" selected="1">NNMP4-----A---6</AM>
+<AM lemma="pozůstalý-2" src="manual" selected="1">NNMP4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-57-p3s4w20">

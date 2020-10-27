@@ -1813,7 +1813,7 @@
 <LM>w#w-lnd92259-040-p4s7w12</LM>
 </w.rf>
 <form>Tomáška</form>
-<tag lemma="Tomášek-1_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Tomášek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92259-040-p4s7w13">
 <src.rf>manual</src.rf>

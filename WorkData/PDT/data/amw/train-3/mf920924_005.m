@@ -5230,7 +5230,7 @@
 <form>t</form>
 <tag>
 <AM lemma="telefonní_:B_,x" src="auto">AAXXX----1A---8</AM>
-<AM lemma="telefonní" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="t-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920924-005-p1s33w20">

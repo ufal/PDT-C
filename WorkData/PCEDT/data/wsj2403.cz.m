@@ -559,7 +559,7 @@
 </w.rf>
 <form>Goldsmitha</form>
 <tag>
-<AM lemma="Goldsmith_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Goldsmith_;Y" src="auto" recommended="1">NNMS2-----A---1</AM>
 <AM lemma="Goldsmith_;Y" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>

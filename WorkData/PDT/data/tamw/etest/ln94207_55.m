@@ -930,7 +930,7 @@
 <AM lemma="klub" src="auto">NNIS3-----A----</AM>
 <AM lemma="klub" src="auto">NNIS6-----A----</AM>
 <AM lemma="club_,t" src="manual">NNIS2-----A----</AM>
-<AM lemma="Club" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Club_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-55-p2s3w7">
@@ -1793,7 +1793,7 @@
 <LM>w#w-ln94207-55-p3s1w49</LM>
 </w.rf>
 <form>Rusu</form>
-<tag lemma="Rus_;E" src="orig" selected="1">NNMS6-----A---1</tag>
+<tag lemma="Rus-1_;E" src="orig" selected="1">NNMS6-----A---1</tag>
 </m>
 <m id="m-ln94207-55-p3s1w50">
 <src.rf>manual</src.rf>

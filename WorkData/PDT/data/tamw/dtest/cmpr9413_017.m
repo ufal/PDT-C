@@ -777,7 +777,7 @@
 <LM>w#w-cmpr9413-017-p5s2w12</LM>
 </w.rf>
 <form>hardware</form>
-<tag lemma="hardware" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="hardware" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-cmpr9413-017-p5s2w13">
 <src.rf>manual</src.rf>
@@ -793,7 +793,7 @@
 <LM>w#w-cmpr9413-017-p5s2w14</LM>
 </w.rf>
 <form>software</form>
-<tag lemma="software" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="software" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-cmpr9413-017-p5s2w15">
 <src.rf>manual</src.rf>

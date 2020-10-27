@@ -3474,7 +3474,7 @@
 <AM lemma="MB_:B_^(Mega_Byte)" src="orig">NNIXX-----A----</AM>
 <AM lemma="MB_:B" src="auto">NNXXX-----A---8</AM>
 <AM lemma="megabit_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="MegaByte" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="megabit" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94211-1-p6s4w9">

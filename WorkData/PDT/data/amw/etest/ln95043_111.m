@@ -2296,7 +2296,7 @@
 </w.rf>
 <form>nedostižné</form>
 <tag>
-<AM lemma="dostižný" src="orig" selected="1">AAFP1----1N----</AM>
+<AM lemma="nedostižný" src="orig" selected="1">AAFP1----1A----</AM>
 <AM lemma="nedostižný" src="auto" recommended="1">AAFP1----1A----</AM>
 <AM lemma="nedostižný" src="auto">AAFP4----1A----</AM>
 <AM lemma="nedostižný" src="auto">AAFP5----1A----</AM>

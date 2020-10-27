@@ -253,7 +253,7 @@
 <form>Elite</form>
 <tag>
 <AM lemma="Elite_;m" src="auto">NNNXX-----A----</AM>
-<AM lemma="Elite_;m" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Elite_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-26-p2s1Bw22">
@@ -298,7 +298,7 @@
 <form>Elite</form>
 <tag>
 <AM lemma="Elite_;m" src="auto">NNNXX-----A----</AM>
-<AM lemma="Elite_;m" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Elite_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-26-p2s2Aw4">
@@ -627,7 +627,7 @@
 <form>Elite</form>
 <tag>
 <AM lemma="Elite_;m" src="auto">NNNXX-----A----</AM>
-<AM lemma="Elite_;m" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Elite_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-26-p3s1w2">
@@ -1123,7 +1123,7 @@
 <form>Elite</form>
 <tag>
 <AM lemma="Elite_;m" src="auto">NNNXX-----A----</AM>
-<AM lemma="Elite_;m" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Elite_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-26-p3s4w11">

@@ -6138,7 +6138,7 @@
 <LM>w#w-cmpr9417-011-p23s3w1</LM>
 </w.rf>
 <form>Zastavte</form>
-<tag lemma="zastavit-2_^(zástavní_právo)" src="orig" selected="1">Vi-P---2--A-P--</tag>
+<tag lemma="zastavit_^(uvést_do_klidu;;zástavní_právo)" src="orig" selected="1">Vi-P---2--A-P--</tag>
 </m>
 <m id="m-cmpr9417-011-p23s3w2">
 <src.rf>manual</src.rf>
@@ -7271,7 +7271,7 @@
 <LM>w#w-cmpr9417-011-p37s1w3</LM>
 </w.rf>
 <form>neexistence</form>
-<tag lemma="neexistence" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="existence" src="orig" selected="1">NNFS1-----N----</tag>
 </m>
 <m id="m-cmpr9417-011-p37s1w4">
 <src.rf>manual</src.rf>

@@ -725,7 +725,7 @@
 <LM>w#w-mf920901-030-p3s1Aw24</LM>
 </w.rf>
 <form>Hamada</form>
-<tag lemma="Hamada_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Hamada-2_;G" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920901-030-p3s1Aw25">
 <src.rf>manual</src.rf>

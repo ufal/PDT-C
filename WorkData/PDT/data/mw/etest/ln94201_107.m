@@ -5253,7 +5253,7 @@
 <LM>w#w-ln94201-107-p8s5w10</LM>
 </w.rf>
 <form>pozdějšího</form>
-<tag lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="orig" selected="1">AAIS2----2A----</tag>
+<tag lemma="pozdější" src="orig" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-ln94201-107-p8s5w11">
 <src.rf>manual</src.rf>
@@ -5811,7 +5811,7 @@
 <LM>w#w-ln94201-107-p9s1w12</LM>
 </w.rf>
 <form>data</form>
-<tag lemma="datum_^(kalendářní)" src="orig" selected="1">NNNP4-----A----</tag>
+<tag lemma="datum-1_^(kalendářní)" src="orig" selected="1">NNNP4-----A----</tag>
 </m>
 <m id="m-ln94201-107-p9s1w13">
 <src.rf>manual</src.rf>

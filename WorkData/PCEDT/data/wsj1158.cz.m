@@ -292,7 +292,7 @@
 <AM lemma="nezbytnost_^(*3ý)" src="auto">NNFP1-----A----</AM>
 <AM lemma="nezbytnost_^(*3ý)" src="auto">NNFP4-----A----</AM>
 <AM lemma="nezbytnost_^(*3ý)" src="auto">NNFP5-----A----</AM>
-<AM lemma="nezbytnost_^(*3ý)" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="zbytnost_^(*3ý)" src="auto" recommended="1">NNFS2-----N----</AM>
 <AM lemma="nezbytnost_^(*3ý)" src="auto">NNFS3-----A----</AM>
 <AM lemma="nezbytnost_^(*3ý)" src="auto">NNFS5-----A----</AM>
 <AM lemma="nezbytnost_^(*3ý)" src="auto">NNFS6-----A----</AM>
@@ -387,7 +387,7 @@
 <AM lemma="nezbytnost_^(*3ý)" src="auto">NNFP1-----A----</AM>
 <AM lemma="nezbytnost_^(*3ý)" src="auto">NNFP4-----A----</AM>
 <AM lemma="nezbytnost_^(*3ý)" src="auto">NNFP5-----A----</AM>
-<AM lemma="nezbytnost_^(*3ý)" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="zbytnost_^(*3ý)" src="auto" recommended="1">NNFS2-----N----</AM>
 <AM lemma="nezbytnost_^(*3ý)" src="auto">NNFS3-----A----</AM>
 <AM lemma="nezbytnost_^(*3ý)" src="auto">NNFS5-----A----</AM>
 <AM lemma="nezbytnost_^(*3ý)" src="auto">NNFS6-----A----</AM>
@@ -449,7 +449,7 @@
 </w.rf>
 <form>nezbytnost</form>
 <tag>
-<AM lemma="nezbytnost_^(*3ý)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="zbytnost_^(*3ý)" src="auto" recommended="1">NNFS1-----N----</AM>
 <AM lemma="nezbytnost_^(*3ý)" src="auto">NNFS4-----A----</AM>
 </tag>
 </m>
@@ -771,7 +771,7 @@
 <form>nezbytností</form>
 <tag>
 <AM lemma="nezbytnost_^(*3ý)" src="auto">NNFP2-----A----</AM>
-<AM lemma="nezbytnost_^(*3ý)" src="auto" recommended="1">NNFS7-----A----</AM>
+<AM lemma="zbytnost_^(*3ý)" src="auto" recommended="1">NNFS7-----N----</AM>
 </tag>
 </m>
 <m id="m-wsj1158-001-p1s2W21-Ta">

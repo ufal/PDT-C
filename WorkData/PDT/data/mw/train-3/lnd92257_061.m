@@ -1968,7 +1968,7 @@
 <LM>w#w-lnd92257-061-p5s1w1</LM>
 </w.rf>
 <form>Stáli</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VpMP----R-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd92257-061-p5s1w2">
 <src.rf>manual</src.rf>

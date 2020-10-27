@@ -2122,7 +2122,7 @@
 <LM>w#w-ln95040-079-p5s1w18</LM>
 </w.rf>
 <form>virus</form>
-<tag lemma="vir" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="vir-1" src="orig" selected="1">NNIS1-----A---1</tag>
 </m>
 <m id="m-ln95040-079-p5s1w19">
 <src.rf>manual</src.rf>

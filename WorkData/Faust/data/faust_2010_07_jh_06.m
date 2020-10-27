@@ -2069,7 +2069,7 @@
 <AM lemma="nabízející_^(*4t)">AGMS2-----A----</AM>
 <AM lemma="nabízející_^(*4t)">AGMS4-----A----</AM>
 <AM lemma="nabízející_^(*4t)">AGNS2-----A----</AM>
-<AM lemma="nabízející" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="nabízející_^(*4t)" src="manual" selected="1">AGMS2-----A----</AM>
 </tag>
 </m>
 <m id="jh_06-SCzechM-p0581-s1-w6">

@@ -1727,7 +1727,7 @@
 <LM>w#w-mf920925-122-p5s3w22</LM>
 </w.rf>
 <form>pár</form>
-<tag lemma="pár-1" src="orig" selected="1">ClXP2----------</tag>
+<tag lemma="pár-1" src="orig" selected="1">Ca--X----------</tag>
 </m>
 <m id="m-mf920925-122-p5s3w23">
 <src.rf>manual</src.rf>

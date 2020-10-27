@@ -2192,7 +2192,7 @@
 <form>resortu</form>
 <tag>
 <AM lemma="resort" src="orig">NNIS6-----A----</AM>
-<AM lemma="resort_,s_^(^DD**rezort)" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="resort_,s_^(^DD**rezort)" src="manual" selected="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-lnd92256-059-p5s2w32">

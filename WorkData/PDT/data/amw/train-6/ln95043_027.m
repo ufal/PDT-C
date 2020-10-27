@@ -567,7 +567,7 @@
 <LM>w#w-ln95043-027-p2s3w17</LM>
 </w.rf>
 <form>neúčasti</form>
-<tag lemma="neúčast" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="účast" src="orig" selected="1">NNFS2-----N----</tag>
 </m>
 <m id="m-ln95043-027-p2s3w18">
 <src.rf>manual</src.rf>
@@ -2597,7 +2597,7 @@
 <LM>w#w-ln95043-027-p3s12w7</LM>
 </w.rf>
 <form>Rusa</form>
-<tag lemma="Rus_;E" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Rus-1_;E" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln95043-027-p3s12w8">
 <src.rf>manual</src.rf>
@@ -2891,7 +2891,7 @@
 <form>Martinem</form>
 <tag>
 <AM lemma="Martin-1_;Y" src="orig">NNMS7-----A----</AM>
-<AM lemma="Martin_;Y" src="manual" selected="1">NNMS7-----A----</AM>
+<AM lemma="Martin-1_;Y" src="manual" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-027-p4s1Bw16">

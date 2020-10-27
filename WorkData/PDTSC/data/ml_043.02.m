@@ -1075,7 +1075,7 @@
 <tag>
 <AM lemma="malý" src="auto">AAFS4----1A----</AM>
 <AM lemma="malý" src="auto" recommended="1">AAFS7----1A----</AM>
-<AM lemma="malá-2_,h" src="manual" selected="1">NNFS4-----A----</AM>
+<AM lemma="malý" src="manual" selected="1">AAFS4----1A----</AM>
 </tag>
 </m>
 <m id="m043-d1t780-3">
@@ -1655,7 +1655,7 @@
 <tag>
 <AM lemma="malý" src="auto">AAFS4----1A----</AM>
 <AM lemma="malý" src="auto" recommended="1">AAFS7----1A----</AM>
-<AM lemma="malá-2_,h" src="manual" selected="1">NNFS7-----A----</AM>
+<AM lemma="malý" src="manual" selected="1">AAFS7----1A----</AM>
 </tag>
 </m>
 <m id="m043-d1t817-3">

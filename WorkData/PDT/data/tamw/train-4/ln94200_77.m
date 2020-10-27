@@ -280,7 +280,7 @@
 <LM>w#w-ln94200-77-p2s1Cw16</LM>
 </w.rf>
 <form>pozdější</form>
-<tag lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="orig" selected="1">AAIS4----2A----</tag>
+<tag lemma="pozdější" src="orig" selected="1">AAIS4----1A----</tag>
 </m>
 <m id="m-ln94200-77-p2s1Cw17">
 <src.rf>manual</src.rf>
@@ -690,7 +690,7 @@
 <LM>w#w-ln94200-77-p2s4w6</LM>
 </w.rf>
 <form>pozdějšího</form>
-<tag lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="orig" selected="1">AAIS2----2A----</tag>
+<tag lemma="pozdější" src="orig" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-ln94200-77-p2s4w7">
 <src.rf>manual</src.rf>

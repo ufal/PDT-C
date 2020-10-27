@@ -11006,7 +11006,7 @@
 <AM lemma="Jaguar_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="jaguar_;m_^(vozidlo)" src="auto">NNIS1-----A----</AM>
 <AM lemma="jaguar_;m_^(vozidlo)" src="auto">NNIS4-----A----</AM>
-<AM lemma="Jaguar_;m_,s_^(^DD**Jaguár)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Jaguar_;m_,s_^(vozidlo)_(^DD**Jaguár)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0137-001-p1s39W33-Ta">
@@ -11384,7 +11384,7 @@
 </w.rf>
 <form>Goldsmitha</form>
 <tag>
-<AM lemma="Goldsmith_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Goldsmith_;Y" src="auto" recommended="1">NNMS2-----A---1</AM>
 <AM lemma="Goldsmith_;Y" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>

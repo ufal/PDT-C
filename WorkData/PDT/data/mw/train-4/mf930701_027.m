@@ -1212,7 +1212,7 @@
 <LM>w#w-mf930701-027-p16s1w2</LM>
 </w.rf>
 <form>SEK</form>
-<tag lemma="SEK_^(švéd._koruna)" src="auto" selected="1">NNFXX-----A---b</tag>
+<tag lemma="SEK-88" src="auto" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf930701-027-p16s1w3">
 <src.rf>manual</src.rf>

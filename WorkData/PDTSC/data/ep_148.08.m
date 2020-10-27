@@ -1110,7 +1110,7 @@
 <AM lemma="Cortina_;m_,x_^(značka_automobilu_Ford_Mondeo)" src="auto">NNFP4-----A----</AM>
 <AM lemma="Cortina_;m_,x_^(značka_automobilu_Ford_Mondeo)" src="auto">NNFP5-----A----</AM>
 <AM lemma="Cortina_;m_,x_^(značka_automobilu_Ford_Mondeo)" src="auto">NNFS2-----A----</AM>
-<AM lemma="Cortina-2_;G" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="Cortina-2_;G_;m" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m148-d1t3655-4">

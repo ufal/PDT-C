@@ -1700,7 +1700,7 @@
 <LM>w#w-ln95046-043-p4s3w7</LM>
 </w.rf>
 <form>skví</form>
-<tag lemma="skvět" src="orig" selected="1">VB-S---3P-AAI--</tag>
+<tag lemma="skvět" src="orig" selected="1">VB-S---3P-AAI-1</tag>
 </m>
 <m id="m-ln95046-043-p4s3w8">
 <src.rf>manual</src.rf>

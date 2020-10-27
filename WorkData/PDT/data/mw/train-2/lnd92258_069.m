@@ -21,7 +21,7 @@
 <form>Skoti</form>
 <tag>
 <AM lemma="Skot_;E" src="orig">NNMP1-----A----</AM>
-<AM lemma="Skot_;E" src="auto" selected="1">NNMP1-----A---1</AM>
+<AM lemma="Skot_;E" src="auto" selected="1">NNMP1-----A----</AM>
 <AM lemma="Skot_;E" src="auto">NNMP5-----A---1</AM>
 <AM lemma="skot" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="skot" src="auto">NNMP5-----A----</AM>

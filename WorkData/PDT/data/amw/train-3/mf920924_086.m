@@ -298,7 +298,7 @@
 <LM>w#w-mf920924-086-p2s3w6</LM>
 </w.rf>
 <form>nestál</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VpYS----R-NAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m-mf920924-086-p2s3w7">
 <src.rf>manual</src.rf>

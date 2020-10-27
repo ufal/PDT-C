@@ -525,7 +525,7 @@
 <LM>w#w-mf920924-049-p2s2w18</LM>
 </w.rf>
 <form>Dekameronu</form>
-<tag lemma="Decameron" src="orig" selected="1">NNIS3-----A----</tag>
+<tag lemma="Dekameron_,s_^(^DD**Decameron)" src="orig" selected="1">NNIS3-----A----</tag>
 </m>
 <m id="m-mf920924-049-p2s2w19">
 <src.rf>manual</src.rf>
@@ -1484,7 +1484,7 @@
 <LM>w#w-mf920924-049-p2s8w9</LM>
 </w.rf>
 <form>Sen</form>
-<tag lemma="sen" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="sen-1" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-mf920924-049-p2s8w10">
 <src.rf>manual</src.rf>

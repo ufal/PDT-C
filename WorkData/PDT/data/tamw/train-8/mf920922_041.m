@@ -117,7 +117,7 @@
 <form>Clubu</form>
 <tag>
 <AM lemma="klub" src="orig">NNIS6-----A----</AM>
-<AM lemma="Club" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="Club_;m" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-041-p2s1w8">
@@ -346,7 +346,7 @@
 <LM>w#w-mf920922-041-p2s3w1</LM>
 </w.rf>
 <form>Členem</form>
-<tag lemma="člen" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-mf920922-041-p2s3w2">
 <src.rf>manual</src.rf>
@@ -367,7 +367,7 @@
 <form>Clubu</form>
 <tag>
 <AM lemma="klub" src="orig">NNIS2-----A----</AM>
-<AM lemma="Club" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Club_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-041-p2s3w4">
@@ -1194,7 +1194,7 @@
 <form>Club</form>
 <tag>
 <AM lemma="klub" src="orig">NNIS1-----A----</AM>
-<AM lemma="Club" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Club_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-041-p2s6w5">

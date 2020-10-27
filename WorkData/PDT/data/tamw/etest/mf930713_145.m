@@ -702,7 +702,7 @@
 <form>Reutera</form>
 <tag>
 <AM lemma="Reuter_;m" src="orig">NNMS2-----A----</AM>
-<AM lemma="Reuter-2_;m_,i_^(^DS**Reuters)" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Reuter-2_;m_,i_^(^DS**Reuters)" src="manual" selected="1">NNIS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-mf930713-145-p2s3w11">
@@ -762,7 +762,7 @@
 <form>Reutera</form>
 <tag>
 <AM lemma="Reuter_;m" src="orig">NNMS2-----A----</AM>
-<AM lemma="Reuter-2_;m_,i_^(^DS**Reuters)" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Reuter-2_;m_,i_^(^DS**Reuters)" src="manual" selected="1">NNIS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-mf930713-145-p2s5w4">

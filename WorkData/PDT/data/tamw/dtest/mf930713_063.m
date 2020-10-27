@@ -1728,7 +1728,7 @@
 <LM>w#w-mf930713-063-p2s10w8</LM>
 </w.rf>
 <form>Poláka</form>
-<tag lemma="Polák_;E" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Polák_;E_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-mf930713-063-p2s10w9">
 <src.rf>manual</src.rf>

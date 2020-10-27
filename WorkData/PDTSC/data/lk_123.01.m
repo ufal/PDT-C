@@ -229,7 +229,7 @@
 </w.rf>
 <form>komínu</form>
 <tag>
-<AM lemma="komín" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="komín" src="auto" recommended="1">NNIS2-----A---1</AM>
 <AM lemma="komín" src="auto">NNIS3-----A----</AM>
 <AM lemma="komín" src="auto">NNIS6-----A---1</AM>
 </tag>

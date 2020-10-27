@@ -1949,7 +1949,7 @@
 <LM>w#w-ln94206-117-p7s3w5</LM>
 </w.rf>
 <form>Unionu</form>
-<tag lemma="Union" src="auto" selected="1">NNIS2-----A----</tag>
+<tag lemma="Union_;m" src="auto" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94206-117-p7s3w6">
 <src.rf>manual</src.rf>

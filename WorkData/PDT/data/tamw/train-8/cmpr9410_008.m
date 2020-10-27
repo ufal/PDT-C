@@ -1901,7 +1901,7 @@
 <form>n</form>
 <tag>
 <AM lemma="nádraží_:B" src="orig">NNNXX-----A---9</AM>
-<AM lemma="nádraží" src="manual" selected="1">NNNXX-----A---9</AM>
+<AM lemma="n-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-008-p9s1w11">
@@ -3347,7 +3347,7 @@
 <LM>w#w-cmpr9410-008-p13s3w14</LM>
 </w.rf>
 <form>Nestálo</form>
-<tag lemma="stát-4_^(něco_stojí_peníze)" src="orig" selected="1">VpNS----R-NAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VpNS----R-NAI--</tag>
 </m>
 <m id="m-cmpr9410-008-p13s3w15">
 <src.rf>manual</src.rf>

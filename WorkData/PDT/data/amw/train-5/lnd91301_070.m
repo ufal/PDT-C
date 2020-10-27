@@ -1428,7 +1428,7 @@
 <form>Rustaveliho</form>
 <tag>
 <AM lemma="Rustaveli_;Y" src="orig">NNMS2-----A----</AM>
-<AM lemma="Rustaveliho_;Y_^(*2)" src="manual" selected="1">AUFS6M---------</AM>
+<AM lemma="Rustaveli_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-070-p5s1w14">

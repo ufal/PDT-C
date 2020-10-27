@@ -1985,7 +1985,7 @@
 </w.rf>
 <form>nech</form>
 <tag>
-<AM lemma="nechat" src="auto" recommended="1">Vi-S---2--A-I--</AM>
+<AM lemma="nechat" src="auto" recommended="1">Vi-S---2--A-P-1</AM>
 <AM lemma="nechat" src="auto">Vi-S---3--A-I-4</AM>
 </tag>
 </m>
@@ -2047,7 +2047,7 @@
 </w.rf>
 <form>nech</form>
 <tag>
-<AM lemma="nechat" src="auto" recommended="1">Vi-S---2--A-I--</AM>
+<AM lemma="nechat" src="auto" recommended="1">Vi-S---2--A-P-1</AM>
 <AM lemma="nechat" src="auto">Vi-S---3--A-I-4</AM>
 </tag>
 </m>

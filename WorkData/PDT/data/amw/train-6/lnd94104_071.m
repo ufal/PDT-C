@@ -2344,7 +2344,7 @@
 <form>PHARE</form>
 <tag>
 <AM lemma="Phare_;m" src="orig">NNIXX-----A----</AM>
-<AM lemma="PHARE_;m" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="Phare_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-071-p1s17w14">
@@ -2462,7 +2462,7 @@
 <form>PHARE</form>
 <tag>
 <AM lemma="Phare_;m" src="orig">NNIXX-----A----</AM>
-<AM lemma="PHARE_;m" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="Phare_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-071-p1s18w7">

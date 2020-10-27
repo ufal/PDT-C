@@ -43,7 +43,7 @@
 <LM>w#w-cmpr9406-039-p2s1w4</LM>
 </w.rf>
 <form>Mallorce</form>
-<tag lemma="Mallorka_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Mallorka_;G_,s_^(^DD**Mallorca)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9406-039-p3s1">
@@ -973,7 +973,7 @@
 <LM>w#w-cmpr9406-039-p4s1w15</LM>
 </w.rf>
 <form>Mallorce</form>
-<tag lemma="Mallorka_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Mallorka_;G_,s_^(^DD**Mallorca)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-cmpr9406-039-p4s1w16">
 <src.rf>manual</src.rf>

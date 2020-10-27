@@ -1003,7 +1003,7 @@
 <LM>w#w-lnd91303-101-p10s1w2</LM>
 </w.rf>
 <form>SP</form>
-<tag lemma="SP-3_^(Světový_pohár)" src="auto" selected="1">NNIXX-----A---b</tag>
+<tag lemma="SP-3_^(Světový_pohár)" src="auto" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd91303-101-p10s1w3">
 <src.rf>manual</src.rf>
@@ -1091,7 +1091,7 @@
 <LM>w#w-lnd91303-101-p10s1w13</LM>
 </w.rf>
 <form>St</form>
-<tag lemma="St-6_^(saint,_svatý)" src="orig" selected="1">BAXXX----1A----</tag>
+<tag lemma="St-77" src="orig" selected="1">F%-------------</tag>
 </m>
 <m id="m-lnd91303-101-p10s1w14">
 <src.rf>manual</src.rf>

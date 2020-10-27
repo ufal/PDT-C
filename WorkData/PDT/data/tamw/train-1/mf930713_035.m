@@ -1240,7 +1240,7 @@
 <LM>w#w-mf930713-035-p7s1w15</LM>
 </w.rf>
 <form>Hrabě</form>
-<tag lemma="hrabě" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="hrabě-2" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930713-035-p7s1w16">
 <src.rf>manual</src.rf>

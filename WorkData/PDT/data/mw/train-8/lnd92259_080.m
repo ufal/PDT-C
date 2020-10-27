@@ -1338,7 +1338,7 @@
 <LM>w#w-lnd92259-080-p6s5w24</LM>
 </w.rf>
 <form>pasu</form>
-<tag lemma="pas-1_^(př._cestovní)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="pas-1_^(přihrávka,_př._v_kopané,na_lidském_těle;;cestovní)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92259-080-p6s5w25">
 <src.rf>manual</src.rf>

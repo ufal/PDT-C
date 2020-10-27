@@ -1076,7 +1076,7 @@
 <LM>w#w-lnd94105-062-p1s5w14</LM>
 </w.rf>
 <form>holocaustu</form>
-<tag lemma="holocaust" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="holocaust_,s_^(^DD**holokaust)" src="orig" selected="1">NNIS6-----A---1</tag>
 </m>
 <m id="m-lnd94105-062-p1s5w15">
 <src.rf>manual</src.rf>

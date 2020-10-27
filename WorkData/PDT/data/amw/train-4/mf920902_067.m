@@ -696,7 +696,7 @@
 <LM>w#w-mf920902-067-p2s3w8</LM>
 </w.rf>
 <form>UEFA</form>
-<tag lemma="UEFA-1_;m_^(Evr._fotbalová_federace)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="UEFA_;m_^(Evr._fotbalová_federace)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf920902-067-p2s3w9">
 <src.rf>manual</src.rf>
@@ -3297,7 +3297,7 @@
 <LM>w#w-mf920902-067-p2s13Aw23</LM>
 </w.rf>
 <form>De</form>
-<tag lemma="de_^(z_franc._de,_zejm._ve_jménech)" src="orig" selected="1">RR--1----------</tag>
+<tag lemma="De-77" src="orig" selected="1">F%-------------</tag>
 </m>
 <m id="m-mf920902-067-p2s13Aw24">
 <src.rf>manual</src.rf>

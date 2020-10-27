@@ -559,7 +559,7 @@
 <form>Pennsylvania</form>
 <tag>
 <AM lemma="Pennsylvanie_;G" src="orig">NNFS1-----A---1</AM>
-<AM lemma="Pennsylvania_;G_^(^DD**Pennsylvanie)" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Pennsylvanie_;G" src="manual" selected="1">NNFS1-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln94202-110-p4s1w22">

@@ -4281,7 +4281,7 @@
 <LM>w#w-ln95045-057-p7s4w6</LM>
 </w.rf>
 <form>Luka</form>
-<tag lemma="Luc_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Luk_;Y_,s_^(^DD**Luc)" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95045-057-p7s4w7">
 <src.rf>manual</src.rf>

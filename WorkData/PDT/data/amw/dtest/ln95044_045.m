@@ -2016,7 +2016,7 @@
 <AM lemma="ad-2_:B_^(a_další)" src="orig">AAXXX----1A---8</AM>
 <AM lemma="ad_,t" src="auto">RR--1----------</AM>
 <AM lemma="adalší_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
-<AM lemma="ad-1_^(a_další)" src="manual" selected="1">AAXXX----1A---b</AM>
+<AM lemma="ad-1_^(a_další)" src="manual" selected="1">BAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-045-p4s2w23">

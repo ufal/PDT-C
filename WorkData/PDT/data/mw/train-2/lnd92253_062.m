@@ -436,7 +436,7 @@
 <LM>w#w-lnd92253-062-p4s1w40</LM>
 </w.rf>
 <form>statisíce</form>
-<tag lemma="stotisíc`100000" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="statisíc`100000" src="orig" selected="1">CzIP1----------</tag>
 </m>
 <m id="m-lnd92253-062-p4s1w41">
 <src.rf>manual</src.rf>

@@ -381,7 +381,7 @@
 <form>pavilonu</form>
 <tag>
 <AM lemma="pavilon" src="orig">NNIS6-----A----</AM>
-<AM lemma="pavilon_,s_^(^DD**pavilón)" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="pavilon_,s_^(^DD**pavilón)" src="manual" selected="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln94211-34-p2s2w7">

@@ -2032,7 +2032,7 @@
 </w.rf>
 <form>Softwaru</form>
 <tag>
-<AM lemma="software" recommended="1">NNIS3-----A---1</AM>
+<AM lemma="software" recommended="1">NNIS3-----A----</AM>
 <AM lemma="software">NNIS2-----A---1</AM>
 <AM lemma="software">NNIS6-----A---1</AM>
 </tag>
@@ -3235,7 +3235,7 @@
 <form>Yahoo</form>
 <tag>
 <AM lemma="Yahoo_;m_,t_^(software)" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Yahoo_;m_^(software)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Yahoo_;m_^(software)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_04-SCzechM-p0356-s1-w6">
@@ -7309,7 +7309,7 @@
 <form>Yahoo</form>
 <tag>
 <AM lemma="Yahoo_;m_,t_^(software)" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Yahoo_;m_^(software)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Yahoo_;m_^(software)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_04-SCzechM-p0414-s1-w14">

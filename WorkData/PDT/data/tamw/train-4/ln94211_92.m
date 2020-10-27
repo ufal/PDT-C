@@ -11953,7 +11953,7 @@
 <LM>w#w-ln94211-92-p13s6w3</LM>
 </w.rf>
 <form>čistší</form>
-<tag lemma="čistý" src="orig" selected="1">AAIS4----2A----</tag>
+<tag lemma="čistý" src="orig" selected="1">AAIS4----2A---1</tag>
 </m>
 <m id="m-ln94211-92-p13s6w4">
 <src.rf>manual</src.rf>
@@ -12203,7 +12203,7 @@
 <LM>w#w-ln94211-92-p13s9w7</LM>
 </w.rf>
 <form>čistší</form>
-<tag lemma="čistý" src="orig" selected="1">AAIS4----2A----</tag>
+<tag lemma="čistý" src="orig" selected="1">AAIS4----2A---1</tag>
 </m>
 <m id="m-ln94211-92-p13s9w8">
 <src.rf>manual</src.rf>

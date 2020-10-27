@@ -743,7 +743,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>nejsnazším</form>
-<tag lemma="snadný" src="orig" selected="1">AAIS7----3A----</tag>
+<tag lemma="snadný" src="orig" selected="1">AAIS7----3A---1</tag>
 </m>
 <m id="m-ln95048-046-p2s10w6">
 <src.rf>manual</src.rf>

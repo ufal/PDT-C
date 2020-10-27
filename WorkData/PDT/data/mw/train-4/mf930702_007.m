@@ -679,7 +679,7 @@
 <LM>w#w-mf930702-007-p2s3w27</LM>
 </w.rf>
 <form>nenásilí</form>
-<tag lemma="nenásilí" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="násilí" src="orig" selected="1">NNNS2-----N----</tag>
 </m>
 <m id="m-mf930702-007-p2s3w28">
 <src.rf>manual</src.rf>

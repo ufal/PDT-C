@@ -8251,7 +8251,7 @@
 <AM lemma="Lynn_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Lynn_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Lynn-2_;Y" src="manual">NNMS1-----A----</AM>
-<AM lemma="Lynn-3_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Lynn-3_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2369-001-p1s28W21-Ta">

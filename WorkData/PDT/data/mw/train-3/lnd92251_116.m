@@ -134,7 +134,7 @@
 <LM>w#w-lnd92251-116-p1s1w15</LM>
 </w.rf>
 <form>NEZASTAVÍ</form>
-<tag lemma="zastavit-1_^([také_z._se];_uvést_do_klidu:_auto,...)" src="orig" selected="1">VB-S---3P-NAP--</tag>
+<tag lemma="zastavit_^(uvést_do_klidu;;zástavní_právo)" src="orig" selected="1">VB-S---3P-NAP--</tag>
 </m>
 </s>
 <s id="m-lnd92251-116-p2s1">
@@ -3067,7 +3067,7 @@
 <LM>w#w-lnd92251-116-p5s13w3</LM>
 </w.rf>
 <form>nezastaví</form>
-<tag lemma="zastavit-1_^([také_z._se];_uvést_do_klidu:_auto,...)" src="orig" selected="1">VB-S---3P-NAP--</tag>
+<tag lemma="zastavit_^(uvést_do_klidu;;zástavní_právo)" src="orig" selected="1">VB-S---3P-NAP--</tag>
 </m>
 <m id="m-lnd92251-116-p5s13w4">
 <src.rf>manual</src.rf>

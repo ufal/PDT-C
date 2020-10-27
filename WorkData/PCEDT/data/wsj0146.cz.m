@@ -5196,7 +5196,7 @@
 </w.rf>
 <form>čistších</form>
 <tag>
-<AM lemma="čistý" src="auto" recommended="1">AAFP2----2A----</AM>
+<AM lemma="čistý" src="auto" recommended="1">AAFP2----2A---1</AM>
 <AM lemma="čistý" src="auto">AAFP6----2A----</AM>
 <AM lemma="čistý" src="auto">AAIP2----2A----</AM>
 <AM lemma="čistý" src="auto">AAIP6----2A----</AM>

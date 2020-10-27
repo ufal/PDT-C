@@ -1429,7 +1429,7 @@
 <LM>w#w-vesm9211-043-p3s5w5</LM>
 </w.rf>
 <form>nečlenům</form>
-<tag lemma="nečlen" src="orig" selected="1">NNMP3-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP3-----N----</tag>
 </m>
 <m id="m-vesm9211-043-p3s5w6">
 <src.rf>manual</src.rf>

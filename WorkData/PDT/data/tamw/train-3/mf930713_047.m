@@ -1328,7 +1328,7 @@
 <form>Matesových</form>
 <tag>
 <AM lemma="matesův_^(*2)" src="orig">AUFP2M---------</AM>
-<AM lemma="Matesův_;Y_^(*2)" src="manual" selected="1">AUFP2M---------</AM>
+<AM lemma="Matesův-2_;Y_^(*4-2)" src="manual" selected="1">AUFP2M---------</AM>
 </tag>
 </m>
 <m id="m-mf930713-047-p2s10w22">

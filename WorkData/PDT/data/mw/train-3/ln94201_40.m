@@ -2185,7 +2185,7 @@
 <LM>w#w-ln94201-40-p4s6w21</LM>
 </w.rf>
 <form>dinosauři</form>
-<tag lemma="dinosaur" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="dinosaurus" src="orig" selected="1">NNMP1-----A---1</tag>
 </m>
 <m id="m-ln94201-40-p4s6w22">
 <src.rf>manual</src.rf>
@@ -2595,7 +2595,7 @@
 <LM>w#w-ln94201-40-p5s2w6</LM>
 </w.rf>
 <form>globu</form>
-<tag lemma="glóbus" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="globus_,s_^(^DD**glóbus)" src="orig" selected="1">NNIS6-----A---1</tag>
 </m>
 <m id="m-ln94201-40-p5s2w7">
 <src.rf>manual</src.rf>

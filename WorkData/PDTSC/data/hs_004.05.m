@@ -1666,7 +1666,7 @@
 <AM lemma="kuchyně" src="auto">NNFS1-----A---1</AM>
 <AM lemma="kuchyně" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="kuchyně" src="auto">NNFS5-----A---1</AM>
-<AM lemma="kuchyň" src="manual" selected="1">NNFS2-----A---1</AM>
+<AM lemma="kuchyň" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m004-d-id120108-punct">
@@ -5495,7 +5495,7 @@
 </w.rf>
 <form>pongu</form>
 <tag>
-<AM lemma="pong_^(jen_ve_spojení_ping-pong)" src="auto" selected="1">NNIS2-----A----</AM>
+<AM lemma="pong" src="auto" selected="1">SNIS2-----A----</AM>
 <AM lemma="pong_^(jen_ve_spojení_ping-pong)" src="auto">NNIS3-----A----</AM>
 <AM lemma="pong_^(jen_ve_spojení_ping-pong)" src="auto">NNIS5-----A----</AM>
 <AM lemma="pong_^(jen_ve_spojení_ping-pong)" src="auto" recommended="1">NNIS6-----A----</AM>

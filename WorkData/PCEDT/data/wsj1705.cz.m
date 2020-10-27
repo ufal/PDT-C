@@ -14963,7 +14963,7 @@
 <AM lemma="Woodbridge_;G" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="Woodbridge_;G" src="auto">NNFS4-----A----</AM>
 <AM lemma="Woodbridge_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Woodbridge_;G_;m" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="Woodbridge-2_;G_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1705-001-p1s53W8-Ta">

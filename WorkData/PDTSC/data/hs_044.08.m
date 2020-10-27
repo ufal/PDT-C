@@ -3724,7 +3724,7 @@
 <tag>
 <AM lemma="Ted_;Y_,t" src="auto">NNMS2-----A----</AM>
 <AM lemma="Ted_;Y_,t" src="auto">NNMS4-----A----</AM>
-<AM lemma="teda-1_,h" src="auto" recommended="1">Db------------6</AM>
+<AM lemma="teda-1_,h" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="teda-2_,h" src="auto">TT-------------</AM>
 </tag>
 </m>

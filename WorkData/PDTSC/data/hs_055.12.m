@@ -4934,7 +4934,7 @@
 <AM lemma="maličký" src="auto">AANS1----1A----</AM>
 <AM lemma="maličký" src="auto" recommended="1">AANS4----1A----</AM>
 <AM lemma="maličký" src="auto">AANS5----1A----</AM>
-<AM lemma="maličký-2" src="manual" selected="1">NNMP4-----A----</AM>
+<AM lemma="maličký" src="manual" selected="1">AAMP4----1A----</AM>
 </tag>
 </m>
 <m id="m055-350-351">

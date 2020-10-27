@@ -797,7 +797,7 @@
 <LM>w#w-vesm9211-025-p15s1w11</LM>
 </w.rf>
 <form>pozdější</form>
-<tag lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="orig" selected="1">AAFS7----2A----</tag>
+<tag lemma="pozdější" src="orig" selected="1">AAFS7----1A----</tag>
 </m>
 <m id="m-vesm9211-025-p15s1w12">
 <src.rf>manual</src.rf>

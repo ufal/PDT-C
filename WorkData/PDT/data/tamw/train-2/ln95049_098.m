@@ -434,7 +434,7 @@
 <LM>w#w-ln95049-098-p2s2w9</LM>
 </w.rf>
 <form>Seat</form>
-<tag lemma="Seat-2_;m" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Seat_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln95049-098-p2s2w10">
 <src.rf>manual</src.rf>

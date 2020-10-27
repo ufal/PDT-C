@@ -516,7 +516,7 @@
 <form>Kr</form>
 <tag>
 <AM lemma="Králové_:B_;G" src="orig">NNFS2-----A---8</AM>
-<AM lemma="Králové_;G" src="manual" selected="1">NNFS2-----A---8</AM>
+<AM lemma="Králové_;G_^(Dvůr_Králové)" src="manual" selected="1">NNFS2-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf920922-048-p7s2w3">

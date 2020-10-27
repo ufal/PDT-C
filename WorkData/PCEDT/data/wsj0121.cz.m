@@ -11054,7 +11054,7 @@
 <form>Gorman</form>
 <tag>
 <AM lemma="Gorman_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Gorman_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Gorman-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0121-001-p1s45W3-Ta">

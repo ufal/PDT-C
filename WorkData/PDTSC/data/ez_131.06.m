@@ -3764,7 +3764,7 @@
 </w.rf>
 <form>Louvru</form>
 <tag>
-<AM lemma="Louvre_;G" src="auto" recommended="1">NNIS2-----A---1</AM>
+<AM lemma="Louvre_;G_;m" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="Louvre_;G" src="auto">NNIS3-----A---1</AM>
 <AM lemma="Louvre_;G" src="auto">NNIS6-----A---1</AM>
 </tag>

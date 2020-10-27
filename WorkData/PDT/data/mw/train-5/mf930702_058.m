@@ -1601,7 +1601,7 @@
 <LM>w#w-mf930702-058-p3s2w6</LM>
 </w.rf>
 <form>Turbo</form>
-<tag lemma="Turbo-2_;m" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="Turbo_;G_;m" src="orig" selected="1">NNNS1-----A----</tag>
 </m>
 </s>
 <s id="m-mf930702-058-p4s1">

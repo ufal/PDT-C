@@ -4245,7 +4245,7 @@
 <tag>
 <AM lemma="pingo_;U" recommended="1">NNNP2-----A----</AM>
 <AM lemma="ping_^(jen_ve_spojení_ping-pong)">A2--------A----</AM>
-<AM lemma="ping-2" src="manual" selected="1">NNIS4-----A----</AM>
+<AM lemma="ping_^(jen_ve_spojení_ping-pong)" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 </s>

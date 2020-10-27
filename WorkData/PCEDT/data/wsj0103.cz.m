@@ -2305,7 +2305,7 @@
 </w.rf>
 <form>nezbytné</form>
 <tag>
-<AM lemma="nezbytný" src="auto" selected="1">AAFP1----1A----</AM>
+<AM lemma="zbytný" src="auto" selected="1">AAFP1----1N----</AM>
 <AM lemma="nezbytný" src="auto">AAFP4----1A----</AM>
 <AM lemma="nezbytný" src="auto">AAFP5----1A----</AM>
 <AM lemma="nezbytný" src="auto">AAFS2----1A----</AM>
@@ -2772,7 +2772,7 @@
 </w.rf>
 <form>neví</form>
 <tag>
-<AM lemma="vědět" src="auto" selected="1">VB-P---3P-NAI-6</AM>
+<AM lemma="vědět" src="auto" selected="1">VB-P---3P-NAI-7</AM>
 <AM lemma="vědět" src="auto" recommended="1">VB-S---3P-NAI--</AM>
 </tag>
 </m>
@@ -2936,7 +2936,7 @@
 <AM lemma="nezbytný" src="auto">AAFS3----1A----</AM>
 <AM lemma="nezbytný" src="auto">AAFS6----1A----</AM>
 <AM lemma="nezbytný" src="auto">AAIP1----1A----</AM>
-<AM lemma="nezbytný" src="auto" recommended="1">AAIP4----1A----</AM>
+<AM lemma="zbytný" src="auto" recommended="1">AAIP4----1N----</AM>
 <AM lemma="nezbytný" src="auto">AAIP5----1A----</AM>
 <AM lemma="nezbytný" src="auto">AAMP4----1A----</AM>
 <AM lemma="nezbytný" src="auto">AANP1----1A---6</AM>
@@ -5479,7 +5479,7 @@
 <AM lemma="nezbytný" src="auto">AAFS3----1A----</AM>
 <AM lemma="nezbytný" src="auto">AAFS6----1A----</AM>
 <AM lemma="nezbytný" src="auto">AAIP1----1A----</AM>
-<AM lemma="nezbytný" src="auto" recommended="1">AAIP4----1A----</AM>
+<AM lemma="zbytný" src="auto" recommended="1">AAIP4----1N----</AM>
 <AM lemma="nezbytný" src="auto">AAIP5----1A----</AM>
 <AM lemma="nezbytný" src="auto">AAMP4----1A----</AM>
 <AM lemma="nezbytný" src="auto">AANP1----1A---6</AM>

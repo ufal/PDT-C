@@ -1128,7 +1128,7 @@
 <LM>w#w-lnd92251-110-p4s5w8</LM>
 </w.rf>
 <form>SK</form>
-<tag lemma="SK-1_;m_^(sportovní_klub)" src="orig" selected="1">NNIXX-----A---b</tag>
+<tag lemma="SK-88" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd92251-110-p4s5w9">
 <src.rf>manual</src.rf>
@@ -1168,7 +1168,7 @@
 <LM>w#w-lnd92251-110-p4s5w13</LM>
 </w.rf>
 <form>neúčasti</form>
-<tag lemma="neúčast" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="účast" src="orig" selected="1">NNFS6-----N----</tag>
 </m>
 <m id="m-lnd92251-110-p4s5w14">
 <src.rf>manual</src.rf>

@@ -517,7 +517,7 @@
 <tag>
 <AM lemma="Cikán_;E_,x" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="Cikán_;E_,x" src="auto">NNMP5-----A----</AM>
-<AM lemma="cikán" src="auto" selected="1">NNMP1-----A---1</AM>
+<AM lemma="cikán" src="auto" selected="1">NNMP1-----A----</AM>
 <AM lemma="cikán" src="auto">NNMP5-----A---1</AM>
 </tag>
 </m>

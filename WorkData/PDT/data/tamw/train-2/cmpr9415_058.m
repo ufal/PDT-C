@@ -2464,7 +2464,7 @@
 <tag>
 <AM lemma="Dobrá_;Y" src="auto">NNFS6-----A----</AM>
 <AM lemma="Dobrá_;G_;Y" src="manual">NNFS6-----A----</AM>
-<AM lemma="Dobrá-2_;G" src="manual" selected="1">NNFS6-----A----</AM>
+<AM lemma="Dobrá_;G_;Y" src="manual" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-058-p12s2w4">

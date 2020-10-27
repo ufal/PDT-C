@@ -635,7 +635,7 @@
 <LM>w#w-ln94202-106-p3s2w9</LM>
 </w.rf>
 <form>Viktorii</form>
-<tag lemma="Viktoria-2_;m_^(jméno_sport.klubu)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Viktoria_;Y_;m" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94202-106-p3s2w10">
 <src.rf>manual</src.rf>
@@ -13279,7 +13279,7 @@
 <AM lemma="versus_:B_,t_,x" src="auto">RR--1---------8</AM>
 <AM lemma="veřejný_:B_^(v.o.s.)" src="auto">AAXXX----1A---8</AM>
 <AM lemma="Viktorie_:B_;m" src="manual">NNFXX-----A---8</AM>
-<AM lemma="Viktorie_;m" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94202-106-p16s1w5">
@@ -13763,7 +13763,7 @@
 <LM>w#w-ln94202-106-p16s3w16</LM>
 </w.rf>
 <form>Skotové</form>
-<tag lemma="Skot_;E" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="Skot_;E" src="orig" selected="1">NNMP1-----A---1</tag>
 </m>
 <m id="m-ln94202-106-p16s3w17">
 <src.rf>manual</src.rf>

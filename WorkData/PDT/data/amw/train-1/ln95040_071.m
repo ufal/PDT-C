@@ -5738,7 +5738,7 @@
 <LM>w#w-ln95040-071-p7s5w22</LM>
 </w.rf>
 <form>pozdějších</form>
-<tag lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="orig" selected="1">AANP6----2A----</tag>
+<tag lemma="pozdější" src="orig" selected="1">AANP6----1A----</tag>
 </m>
 <m id="m-ln95040-071-p7s5w23">
 <src.rf>manual</src.rf>

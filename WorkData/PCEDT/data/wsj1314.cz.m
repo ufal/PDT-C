@@ -3488,7 +3488,7 @@
 </w.rf>
 <form>Vítězové</form>
 <tag>
-<AM lemma="vítěz" src="auto" recommended="1">NNMP1-----A---1</AM>
+<AM lemma="vítěz" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="vítěz" src="auto">NNMP1-----A---6</AM>
 <AM lemma="vítěz" src="auto">NNMP5-----A---1</AM>
 <AM lemma="vítěz" src="auto">NNMP5-----A---6</AM>

@@ -3076,7 +3076,7 @@
 <tag>
 <AM lemma="Foibos_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="Foibos_;G" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Foibos-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Foibos-2_;m" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-98-p4s3Bw5">

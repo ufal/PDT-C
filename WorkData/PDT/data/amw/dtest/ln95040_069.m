@@ -1940,7 +1940,7 @@
 <LM>w#w-ln95040-069-p5s2w10</LM>
 </w.rf>
 <form>nezbytné</form>
-<tag lemma="nezbytný" src="orig" selected="1">AAFP4----1A----</tag>
+<tag lemma="zbytný" src="orig" selected="1">AAFP4----1N----</tag>
 </m>
 <m id="m-ln95040-069-p5s2w11">
 <src.rf>manual</src.rf>

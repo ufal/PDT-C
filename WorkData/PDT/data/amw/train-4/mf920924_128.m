@@ -14788,7 +14788,7 @@
 <LM>w#w-mf920924-128-p14s1w9</LM>
 </w.rf>
 <form>ODA</form>
-<tag lemma="ODA-2_;m_^(Občanská_demokratická_aliance)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="ODA-88" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf920924-128-p14s1w10">
 <src.rf>manual</src.rf>

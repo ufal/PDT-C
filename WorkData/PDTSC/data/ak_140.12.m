@@ -4578,7 +4578,7 @@
 <AM lemma="Viola-77" src="auto">F%-------------</AM>
 <AM lemma="viola" src="auto">NNFS1-----A----</AM>
 <AM lemma="viola-77_,t" src="auto" recommended="1">F%-------------</AM>
-<AM lemma="Viola-2_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Viola-1_;Y_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m140-d-id151423-punct">

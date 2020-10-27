@@ -77,7 +77,7 @@
 <form>pong</form>
 <tag>
 <AM lemma="pong_^(jen_ve_spojení_ping-pong)" src="auto">NNIS1-----A----</AM>
-<AM lemma="pong_^(jen_ve_spojení_ping-pong)" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="pong" src="auto" recommended="1">SNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m004-d1e794-x2-956">
@@ -1155,7 +1155,7 @@
 </w.rf>
 <form>pongu</form>
 <tag>
-<AM lemma="pong_^(jen_ve_spojení_ping-pong)" src="auto" selected="1">NNIS2-----A----</AM>
+<AM lemma="pong" src="auto" selected="1">SNIS2-----A----</AM>
 <AM lemma="pong_^(jen_ve_spojení_ping-pong)" src="auto">NNIS3-----A----</AM>
 <AM lemma="pong_^(jen_ve_spojení_ping-pong)" src="auto">NNIS5-----A----</AM>
 <AM lemma="pong_^(jen_ve_spojení_ping-pong)" src="auto" recommended="1">NNIS6-----A----</AM>
@@ -1901,7 +1901,7 @@
 <AM lemma="pong_^(jen_ve_spojení_ping-pong)" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="pong_^(jen_ve_spojení_ping-pong)" src="auto">NNIS3-----A----</AM>
 <AM lemma="pong_^(jen_ve_spojení_ping-pong)" src="auto">NNIS5-----A----</AM>
-<AM lemma="pong_^(jen_ve_spojení_ping-pong)" src="auto" selected="1">NNIS6-----A----</AM>
+<AM lemma="pong" src="auto" selected="1">SNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m004-508-1188">
@@ -2949,7 +2949,7 @@
 <tag>
 <AM lemma="Ted_;Y_,t" src="auto">NNMS2-----A----</AM>
 <AM lemma="Ted_;Y_,t" src="auto">NNMS4-----A----</AM>
-<AM lemma="teda-1_,h" src="auto" recommended="1">Db------------6</AM>
+<AM lemma="teda-1_,h" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="teda-2_,h" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -4006,7 +4006,7 @@
 <AM lemma="panský_^(člověk)" src="auto">NNMP5-----A---6</AM>
 <AM lemma="panský_^(člověk)" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="panský_^(člověk)" src="auto">NNMS5-----A----</AM>
-<AM lemma="Panský-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Panský_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m004-d-id86208-punct">
@@ -4729,7 +4729,7 @@
 <AM lemma="panský" src="auto">AANS2----1A----</AM>
 <AM lemma="panský_^(člověk)" src="auto">NNMS2-----A----</AM>
 <AM lemma="panský_^(člověk)" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Panský-2_;Y" src="manual" selected="1">NNMS4-----A----</AM>
+<AM lemma="Panský_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m004-d1e1083-x2-1804">

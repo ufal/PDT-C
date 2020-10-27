@@ -2529,7 +2529,7 @@
 <LM>w#w-ln94208-19-p9s1w7</LM>
 </w.rf>
 <form>čtyřmiliardového</form>
-<tag lemma="čtyřmiliardový`4000000000" src="orig" selected="1">CrIS2----------</tag>
+<tag lemma="čtyřmiliardový`4000000000" src="orig" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-ln94208-19-p9s1w8">
 <src.rf>manual</src.rf>

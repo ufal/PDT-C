@@ -624,7 +624,7 @@
 <AM lemma="Čech-1_;E" src="orig">NNMS7-----N----</AM>
 <AM lemma="Nečech" src="auto">NNMP4-----A----</AM>
 <AM lemma="Nečech" src="auto" recommended="1">NNMP7-----A----</AM>
-<AM lemma="Čech_;E_;Y" src="manual" selected="1">NNMP7-----N----</AM>
+<AM lemma="Nečech_;E" src="manual" selected="1">NNMP7-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-011-p2s3w8">

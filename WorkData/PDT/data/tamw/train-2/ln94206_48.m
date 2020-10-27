@@ -1688,7 +1688,7 @@
 <LM>w#w-ln94206-48-p5s1w19</LM>
 </w.rf>
 <form>neúčast</form>
-<tag lemma="neúčast" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="účast" src="orig" selected="1">NNFS4-----N----</tag>
 </m>
 <m id="m-ln94206-48-p5s1w20">
 <src.rf>manual</src.rf>

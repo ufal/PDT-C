@@ -121,7 +121,7 @@
 <form>konkursu</form>
 <tag>
 <AM lemma="konkurs_^(úpadek;;soutěž)" src="auto">NNIS6-----A---1</AM>
-<AM lemma="konkurs_,s_^(^DD**konkurz)" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="konkurs_,s_^(^DD**konkurz)" src="manual" selected="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-mf920922-008-p2s1w13">

@@ -2149,7 +2149,7 @@
 <form>Lada</form>
 <tag>
 <AM lemma="Lada-1_;m_^(vozidlo)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Lada-1_;m_^(vozidlo)" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Lada_;Y_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-127-p3s8w19">

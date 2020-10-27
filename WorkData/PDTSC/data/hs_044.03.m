@@ -4840,7 +4840,7 @@
 <AM lemma="vázat_^(např._provazem;_se_k_čemu)" src="auto" recommended="1">VB-S---3P-AA---</AM>
 <AM lemma="vázat_:T_^(např._provazem;_se_k_čemu)" src="auto">VeYS------A----</AM>
 <AM lemma="vážit" src="auto">VeYS------A-I--</AM>
-<AM lemma="vázat_^(např._provazem;_se_k_čemu)" src="manual" selected="1">VB-S---3P-AAI--</AM>
+<AM lemma="vázat" src="manual" selected="1">VB-S---3P-AAI-1</AM>
 </tag>
 </m>
 <m id="m044-d1t1087-2">

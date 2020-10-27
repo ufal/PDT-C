@@ -704,7 +704,7 @@
 <LM>w#w-ln95043-019-p2s3w29</LM>
 </w.rf>
 <form>Vyšehradu</form>
-<tag lemma="Vyšehrad" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Vyšehrad_;G" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95043-019-p2s3w30">
 <src.rf>manual</src.rf>

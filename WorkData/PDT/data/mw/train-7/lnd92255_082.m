@@ -1019,7 +1019,7 @@
 <LM>w#w-lnd92255-082-p5s1w25</LM>
 </w.rf>
 <form>Kozák</form>
-<tag lemma="Kozák_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kozák-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-082-p5s1w26">
 <src.rf>manual</src.rf>

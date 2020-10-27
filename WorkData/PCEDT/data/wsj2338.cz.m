@@ -5668,7 +5668,7 @@
 <tag>
 <AM lemma="Scarborough_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Scarborough_;G" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="Scarborough_;G" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="Scarborough_;G" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2338-001-p1s13W11-Ta">
@@ -6250,7 +6250,7 @@
 <tag>
 <AM lemma="Scarborough_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Scarborough_;G" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="Scarborough_;G" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="Scarborough_;G" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2338-001-p1s15W17-Ta">

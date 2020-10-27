@@ -1053,7 +1053,7 @@
 <AM lemma="deštný" src="auto">AAMS2----1A----</AM>
 <AM lemma="deštný" src="auto">AAMS4----1A----</AM>
 <AM lemma="deštný" src="auto">AANS2----1A----</AM>
-<AM lemma="Deštná_;G" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="Deštné_;G" src="manual" selected="1">NNNS2-----A----</AM>
 </tag>
 </m>
 <m id="m148-d-id138983-punct">

@@ -4036,7 +4036,7 @@
 <form>Golf</form>
 <tag>
 <AM lemma="Golf_;m_^(vozidlo)" src="auto">NNIS1-----A----</AM>
-<AM lemma="golf-1_^(sport)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="golf" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-018-p13s4w18">

@@ -1548,7 +1548,7 @@
 <tag>
 <AM lemma="x-5_^(náhr._symbolu_krát,_mat._symbol)" recommended="1">J*-------------</AM>
 <AM lemma="x-33">Q3-------------</AM>
-<AM lemma="x-4_^(graf._oddělovač)" selected="1">Z:-------------</AM>
+<AM lemma="x-33" selected="1">Q3-------------</AM>
 <AM lemma="x-8_:B_^(ost._zkratka)">XX------------8</AM>
 </tag>
 </m>
@@ -3488,7 +3488,7 @@
 </w.rf>
 <form>nejtmavší</form>
 <tag>
-<AM lemma="tmavý" recommended="1">AAIS1----3A----</AM>
+<AM lemma="tmavý" recommended="1">AAIS1----3A---1</AM>
 <AM lemma="tmavý">AAFP1----3A----</AM>
 <AM lemma="tmavý">AAFP4----3A----</AM>
 <AM lemma="tmavý">AAFP5----3A----</AM>
@@ -4795,7 +4795,7 @@
 <AM lemma="padlý_^(*2nout)">AAMP6----1A----</AM>
 <AM lemma="padlý_^(*2nout)">AANP2----1A----</AM>
 <AM lemma="padlý_^(*2nout)">AANP6----1A----</AM>
-<AM lemma="padlý-2" src="manual" selected="1">NNMP2-----A----</AM>
+<AM lemma="padlý_^(*2nout)" src="manual" selected="1">AAMP2----1A----</AM>
 </tag>
 </m>
 </s>

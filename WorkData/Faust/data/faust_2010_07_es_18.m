@@ -2712,7 +2712,7 @@
 </w.rf>
 <form>Hodiny</form>
 <tag>
-<AM lemma="hodina_^(jednotka_času)" recommended="1">NNFP1-----A----</AM>
+<AM lemma="hodina" recommended="1">NNFP1-----A----</AM>
 <AM lemma="Hodin-2_;Y_^(*4a-2)">AUFP1F---------</AM>
 <AM lemma="Hodin-2_;Y_^(*4a-2)">AUFP4F---------</AM>
 <AM lemma="Hodin-2_;Y_^(*4a-2)">AUFP5F---------</AM>

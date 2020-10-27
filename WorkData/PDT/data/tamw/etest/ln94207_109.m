@@ -43,7 +43,7 @@
 <LM>w#w-ln94207-109-p1s1w4</LM>
 </w.rf>
 <form>Kleinem</form>
-<tag lemma="Klein_;Y" src="auto" selected="1">NNMS7-----A----</tag>
+<tag lemma="Klein-1_;Y" src="auto" selected="1">NNMS7-----A----</tag>
 </m>
 </s>
 <s id="m-ln94207-109-p2s1">

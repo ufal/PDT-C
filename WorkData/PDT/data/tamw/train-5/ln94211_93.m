@@ -7393,7 +7393,7 @@
 <form>t</form>
 <tag>
 <AM lemma="tento_:B_^(př._t._r.,_t._č.)" src="orig">PDXXX---------8</AM>
-<AM lemma="tento_^(př._t._r.,_t._č.)" src="manual" selected="1">BDXXX----------</AM>
+<AM lemma="tento" src="manual" selected="1">PDXXX---------b</AM>
 </tag>
 </m>
 <m id="m-ln94211-93-p8s6w24">

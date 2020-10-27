@@ -1213,7 +1213,7 @@
 <LM>w#w-mf920902-116-p3s1w9</LM>
 </w.rf>
 <form>Vlacha</form>
-<tag lemma="Vlach_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Vlach_;E_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf920902-116-p3s1w10">
 <src.rf>manual</src.rf>

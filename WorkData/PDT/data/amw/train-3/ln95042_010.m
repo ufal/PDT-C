@@ -63,7 +63,7 @@
 <form>Virus</form>
 <tag>
 <AM lemma="vir" src="orig">NNIS1-----A----</AM>
-<AM lemma="virus" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="vir-1" src="manual" selected="1">NNIS1-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln95042-010-p2s1w4">
@@ -633,7 +633,7 @@
 <form>virus</form>
 <tag>
 <AM lemma="vir" src="orig">NNIS1-----A----</AM>
-<AM lemma="virus" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="vir-1" src="manual" selected="1">NNIS1-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln95042-010-p2s3w19">
@@ -5481,7 +5481,7 @@
 <form>virus</form>
 <tag>
 <AM lemma="vir" src="orig">NNIS4-----A----</AM>
-<AM lemma="virus" src="manual" selected="1">NNIS4-----A----</AM>
+<AM lemma="vir-1" src="manual" selected="1">NNIS4-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln95042-010-p10s1w8">

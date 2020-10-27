@@ -22,7 +22,7 @@
 <tag>
 <AM lemma="TelSource_;m_^(konsorcium)" src="orig">NNIS1-----A----</AM>
 <AM lemma="TelSource_;m_,t_^(konsorcium)" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="TelSource_;m_^(konsorcium)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="TelSource_;m_^(konsorcium)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-003-p1s1w2">
@@ -105,7 +105,7 @@
 <tag>
 <AM lemma="TelSource_;m_^(konsorcium)" src="orig">NNIS1-----A----</AM>
 <AM lemma="TelSource_;m_,t_^(konsorcium)" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="TelSource_;m_^(konsorcium)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="TelSource_;m_^(konsorcium)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-003-p2s1Bw3">
@@ -548,7 +548,7 @@
 <tag>
 <AM lemma="TelSource_;m_^(konsorcium)" src="orig">NNIS4-----A----</AM>
 <AM lemma="TelSource_;m_,t_^(konsorcium)" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="TelSource_;m_^(konsorcium)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="TelSource_;m_^(konsorcium)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-003-p3s2w2">

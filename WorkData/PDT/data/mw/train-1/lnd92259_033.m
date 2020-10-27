@@ -1963,7 +1963,7 @@
 <LM>w#w-lnd92259-033-p7s2w18</LM>
 </w.rf>
 <form>Horka</form>
-<tag lemma="Horka_;G" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Horka-1_;G" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92259-033-p7s2w19">
 <src.rf>manual</src.rf>

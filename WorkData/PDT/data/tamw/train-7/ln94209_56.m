@@ -1487,7 +1487,7 @@
 <LM>w#w-ln94209-56-p3s9w1</LM>
 </w.rf>
 <form>Stál</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94209-56-p3s9w2">
 <src.rf>manual</src.rf>
@@ -5404,7 +5404,7 @@
 <AM lemma="trabant_;m" src="orig">NNMS4-----A----</AM>
 <AM lemma="Trabant_;m_^(vozidlo)" src="auto">NNIS2-----A---1</AM>
 <AM lemma="trabant_;m" src="auto">NNIS2-----A---1</AM>
-<AM lemma="trabant_;m" src="auto" recommended="1" selected="1">NNIS4-----A----</AM>
+<AM lemma="Trabant_;m_^(vozidlo)" src="auto" recommended="1" selected="1">NNIS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln94209-56-p6s1w2">
@@ -6072,7 +6072,7 @@
 <LM>w#w-ln94209-56-p6s9w22</LM>
 </w.rf>
 <form>žigulíka</form>
-<tag lemma="žigulík_,h" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="žigulík_,h" src="orig" selected="1">NNIS2-----A---1</tag>
 </m>
 <m id="m-ln94209-56-p6s9w23">
 <src.rf>manual</src.rf>
@@ -7202,7 +7202,7 @@
 <form>Fatře</form>
 <tag>
 <AM lemma="Fatra_;Y" src="auto">NNFS6-----A----</AM>
-<AM lemma="Fatra_;G_;Y" src="manual" selected="1">NNFS6-----A----</AM>
+<AM lemma="Fatra_;G_;Y_;m" src="manual" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-56-p7s10w8">

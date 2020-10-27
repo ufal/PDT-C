@@ -3250,7 +3250,7 @@
 <LM>w#w-mf930702-041-p2s17w8</LM>
 </w.rf>
 <form>Poláka</form>
-<tag lemma="Polák_;E" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Polák_;E_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-mf930702-041-p2s17w9">
 <src.rf>manual</src.rf>

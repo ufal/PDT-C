@@ -3773,7 +3773,7 @@
 <AM lemma="malý" src="auto">AANS1----1A---6</AM>
 <AM lemma="malý" src="auto">AANS4----1A---6</AM>
 <AM lemma="malý" src="auto">AANS5----1A---6</AM>
-<AM lemma="malý-2_,h" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="malý" src="manual" selected="1">AAMS1----1A----</AM>
 </tag>
 </m>
 <m id="m027-d1t2408-3">
@@ -4243,7 +4243,7 @@
 <form>trabanta</form>
 <tag>
 <AM lemma="trabant_;m" src="auto">NNIS2-----A---1</AM>
-<AM lemma="trabant_;m" src="auto" recommended="1" selected="1">NNMS4-----A----</AM>
+<AM lemma="trabant" src="auto" recommended="1" selected="1">NNIS4-----A---1</AM>
 </tag>
 </m>
 <m id="m027-17-18">
@@ -4698,7 +4698,7 @@
 <AM lemma="malý" src="auto">AANS1----1A---6</AM>
 <AM lemma="malý" src="auto">AANS4----1A---6</AM>
 <AM lemma="malý" src="auto">AANS5----1A---6</AM>
-<AM lemma="malý-2_,h" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="malý" src="manual" selected="1">AAMS1----1A----</AM>
 </tag>
 </m>
 <m id="m027-d1t2446-6">

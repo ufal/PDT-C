@@ -1323,7 +1323,7 @@
 <LM>w#w-ln94204-151-p3s6w9</LM>
 </w.rf>
 <form>nestály</form>
-<tag lemma="stát-4_^(něco_stojí_peníze)" src="orig" selected="1">VpTP----R-NAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VpTP----R-NAI--</tag>
 </m>
 <m id="m-ln94204-151-p3s6w10">
 <src.rf>manual</src.rf>
@@ -5168,7 +5168,7 @@
 </w.rf>
 <form>Zet</form>
 <tag>
-<AM lemma="Zet_;m" src="orig" selected="1">NNNS1-----A----</AM>
+<AM lemma="Zet-2_;m" src="orig" selected="1">NNXXX-----A----</AM>
 <AM lemma="Zet_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Zeta_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="zet" src="auto">NNNXX-----A----</AM>
@@ -5924,7 +5924,7 @@
 <form>Chojnacki</form>
 <tag>
 <AM lemma="Chojnacký_;Y" src="orig">NNMS1-----A---1</AM>
-<AM lemma="Chojnacki_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Chojnacký_;Y" src="manual" selected="1">NNMS1-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln94204-151-p11s3w3">

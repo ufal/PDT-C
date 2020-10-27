@@ -3209,7 +3209,7 @@
 <form>pozdějším</form>
 <tag>
 <AM lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="auto" recommended="1">AAFP3----2A----</AM>
-<AM lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="auto" selected="1">AAIP3----2A----</AM>
+<AM lemma="pozdější" src="auto" selected="1">AAIP3----1A----</AM>
 <AM lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="auto">AAIS6----2A----</AM>
 <AM lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="auto">AAIS7----2A----</AM>
 <AM lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="auto">AAMP3----2A----</AM>

@@ -27,7 +27,7 @@
 <LM>w#w-ln95043-024-p1s1w2</LM>
 </w.rf>
 <form>hop</form>
-<tag lemma="hop-1" src="auto" selected="1">TT-------------</tag>
+<tag lemma="hop-1" src="auto" selected="1">II-------------</tag>
 </m>
 <m id="m-ln95043-024-p1s1w3">
 <src.rf>manual</src.rf>
@@ -2634,7 +2634,7 @@
 <LM>w#w-ln95043-024-p3s3w14</LM>
 </w.rf>
 <form>neúčasti</form>
-<tag lemma="neúčast" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="účast" src="orig" selected="1">NNFS6-----N----</tag>
 </m>
 <m id="m-ln95043-024-p3s3w15">
 <src.rf>manual</src.rf>

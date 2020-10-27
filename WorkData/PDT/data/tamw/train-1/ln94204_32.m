@@ -429,7 +429,7 @@
 <AM lemma="Ĺ-9_:B_;Y" src="auto">NNXXX-----A---8</AM>
 <AM lemma="Ĺ-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="ĺ-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
-<AM lemma="Ĺ-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Ĺ-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln94204-32-p2s1Bw40">

@@ -2835,7 +2835,7 @@
 <AM lemma="místní">AANS1----1A----</AM>
 <AM lemma="místní">AANS4----1A----</AM>
 <AM lemma="místní">AANS5----1A----</AM>
-<AM lemma="místní-2" src="manual" selected="1">NNMP1-----A----</AM>
+<AM lemma="místní" src="manual" selected="1">AAMP1----1A----</AM>
 </tag>
 </m>
 <m id="mu_01-SCzechM-p0051-s1-w2">
@@ -3213,7 +3213,7 @@
 <tag>
 <AM lemma="nechat" recommended="1">Vi-S---3--N---4</AM>
 <AM lemma="nechat">Vi-S---2--N----</AM>
-<AM lemma="nechat" src="manual" selected="1">Vi-S---2--N-P--</AM>
+<AM lemma="nechat" src="manual" selected="1">Vi-S---2--N-P-1</AM>
 </tag>
 </m>
 <m id="mu_01-SCzechM-p0055-s1-w2">
@@ -4440,7 +4440,7 @@
 <tag>
 <AM lemma="nedůvěra" recommended="1">NNFS3-----A----</AM>
 <AM lemma="nedůvěra">NNFS6-----A----</AM>
-<AM lemma="důvěra" src="manual" selected="1">NNFS3-----N----</AM>
+<AM lemma="nedůvěra" src="manual" selected="1">NNFS3-----A----</AM>
 </tag>
 </m>
 <m id="mu_01-SCzechM-p0074-s1-w22">

@@ -125,7 +125,7 @@
 <AM lemma="Martin-2_;G" src="auto">NNIS7-----A----</AM>
 <AM lemma="Martino_;Y" src="auto">NNMS7-----A----</AM>
 <AM lemma="Martinus_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="Martin_;Y" src="manual" selected="1">NNMS7-----A----</AM>
+<AM lemma="Martin-1_;Y" src="manual" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2220-001-p1s0W13-Ta">

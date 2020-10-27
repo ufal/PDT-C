@@ -815,7 +815,7 @@
 <form>stát</form>
 <tag>
 <AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig">Vf--------A----</AM>
-<AM lemma="stát-3_^(stát_na_nohou_stát_peníze)" src="manual" selected="1">Vf--------A----</AM>
+<AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">Vf--------A-I--</AM>
 </tag>
 </m>
 <m id="m-mf920901-025-p2s2w59">
@@ -4732,7 +4732,7 @@
 <form>tzv</form>
 <tag>
 <AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="takzvaně_^(*1ý)" src="manual" selected="1">Dg-------1A---8</AM>
+<AM lemma="takzvaně" src="manual" selected="1">Dg-------1A---b</AM>
 </tag>
 </m>
 <m id="m-mf920901-025-p7s3w25">

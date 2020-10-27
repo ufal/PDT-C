@@ -1394,7 +1394,7 @@
 <AM lemma="l-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="letopočet_:B_^(jen_př._n._l.,_před_naším_letopočtem)" src="auto">NNIS7-----A---8</AM>
 <AM lemma="litr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="letopočet_^(jen_př._n._l.,_před_naším_letopočtem)" src="manual" selected="1">NNIS7-----A---8</AM>
+<AM lemma="letopočet" src="manual" selected="1">NNIS7-----A---b</AM>
 </tag>
 </m>
 <m id="m-vesm9211-029-p5s1w16">

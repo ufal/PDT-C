@@ -406,7 +406,7 @@
 </w.rf>
 <form>sam</form>
 <tag>
-<AM lemma="sam_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="sam_^(v_korejských_jménech,_např._Kim_Jong-sam)" src="orig" selected="1">SNMS1-----A----</AM>
 <AM lemma="samostatný_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
 </tag>
 </m>

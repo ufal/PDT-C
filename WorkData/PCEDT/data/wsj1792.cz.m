@@ -4186,7 +4186,7 @@
 <tag>
 <AM lemma="neúspěch" src="auto">NNIS1-----A----</AM>
 <AM lemma="neúspěch" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="úspěch" src="manual" selected="1">NNIS4-----N----</AM>
+<AM lemma="neúspěch" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1792-001-p1s11W20-Ta">
@@ -9045,7 +9045,7 @@
 <AM lemma="neúspěch" src="auto" recommended="1">NNIS3-----A----</AM>
 <AM lemma="neúspěch" src="auto">NNIS5-----A----</AM>
 <AM lemma="neúspěch" src="auto">NNIS6-----A----</AM>
-<AM lemma="úspěch" src="manual" selected="1">NNIS3-----N----</AM>
+<AM lemma="neúspěch" src="manual" selected="1">NNIS3-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1792-001-p1s26W3-Ta">

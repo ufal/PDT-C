@@ -139,7 +139,7 @@
 <AM lemma="Morris-2_;m_^(vozidlo;;cigarety)" src="auto">NNIS3-----A----</AM>
 <AM lemma="Morris-2_;m_^(vozidlo;;cigarety)" src="auto" recommended="1">NNIS6-----A----</AM>
 <AM lemma="Morris-2_;G_;m_^(město;vozidlo;;cigarety)" src="manual">NNIS6-----A----</AM>
-<AM lemma="Morris-2_;G_;m_^(vozidlo;;cigarety)" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="Morris-2_;G_;m_^(vozidlo;;cigarety;;město)" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0614-001-p1s0W13-Ta">

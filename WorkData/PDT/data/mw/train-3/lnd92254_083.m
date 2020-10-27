@@ -1200,7 +1200,7 @@
 <tag>
 <AM lemma="amatér_:B" src="orig">NNMXX-----A---8</AM>
 <AM lemma="be_,t_^(angl._jsem,_v_názvech_apod.)" src="auto" recommended="1">VB-S---1P-AA---</AM>
-<AM lemma="amatér" src="manual" selected="1">NNMXX-----A---8</AM>
+<AM lemma="am-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-083-p1s26w4">
@@ -1378,7 +1378,7 @@
 <tag>
 <AM lemma="amatér_:B" src="orig">NNMS1-----A----</AM>
 <AM lemma="be_,t_^(angl._jsem,_v_názvech_apod.)" src="auto" recommended="1">VB-S---1P-AA---</AM>
-<AM lemma="amatér" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="am-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-083-p1s30w4">

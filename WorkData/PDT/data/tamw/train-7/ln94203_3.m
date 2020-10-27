@@ -525,7 +525,7 @@
 <form>tlustšími</form>
 <tag>
 <AM lemma="tlustý" src="orig">AAFP7----1A----</AM>
-<AM lemma="tlustý" src="auto" recommended="1" selected="1">AAFP7----2A----</AM>
+<AM lemma="tlustý" src="auto" recommended="1" selected="1">AAFP7----2A---1</AM>
 <AM lemma="tlustý" src="auto">AAIP7----2A----</AM>
 <AM lemma="tlustý" src="auto">AAMP7----2A----</AM>
 <AM lemma="tlustý" src="auto">AANP7----2A----</AM>

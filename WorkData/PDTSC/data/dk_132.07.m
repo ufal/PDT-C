@@ -1981,7 +1981,7 @@
 <form>Vesterály</form>
 <tag>
 <AM lemma="Vesterály" src="auto">X@-------------</AM>
-<AM lemma="Vesterály_;G" src="manual" selected="1">NNFP1-----A----</AM>
+<AM lemma="Vesterály_;G" src="manual" selected="1">NNIP1-----A----</AM>
 </tag>
 </m>
 <m id="m132-134-135">

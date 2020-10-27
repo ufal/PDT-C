@@ -2917,7 +2917,7 @@
 <tag>
 <AM lemma="Herkules-3_;G" recommended="1">NNIS2-----A----</AM>
 <AM lemma="Herkules-1_;Y">NNMS2-----A----</AM>
-<AM lemma="Herkules-1_;Y" selected="1">NNMS4-----A----</AM>
+<AM lemma="Herkules-1_;Y_,s_^(^DD**Hercules-1)" selected="1">NNMS4-----A----</AM>
 <AM lemma="herkules-2">NNMS2-----A----</AM>
 <AM lemma="herkules-2">NNMS4-----A----</AM>
 </tag>

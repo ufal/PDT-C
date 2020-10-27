@@ -779,7 +779,7 @@
 <tag>
 <AM lemma="nezbytný" src="auto">AAFP2----1A----</AM>
 <AM lemma="nezbytný" src="auto">AAFP6----1A----</AM>
-<AM lemma="nezbytný" src="auto" recommended="1">AAIP2----1A----</AM>
+<AM lemma="zbytný" src="auto" recommended="1">AAIP2----1N----</AM>
 <AM lemma="nezbytný" src="auto">AAIP6----1A----</AM>
 <AM lemma="nezbytný" src="auto">AAMP2----1A----</AM>
 <AM lemma="nezbytný" src="auto">AAMP6----1A----</AM>
@@ -1577,7 +1577,7 @@
 </w.rf>
 <form>virus</form>
 <tag>
-<AM lemma="virus_,s_^(^DD**vir)" src="auto" recommended="1">NNIS1-----A---2</AM>
+<AM lemma="vir-1" src="auto" recommended="1">NNIS1-----A---1</AM>
 <AM lemma="virus_,s_^(^DD**vir)" src="auto">NNIS4-----A---2</AM>
 </tag>
 </m>
@@ -3572,7 +3572,7 @@
 </w.rf>
 <form>virus</form>
 <tag>
-<AM lemma="virus_,s_^(^DD**vir)" src="auto" recommended="1">NNIS1-----A---2</AM>
+<AM lemma="vir-1" src="auto" recommended="1">NNIS1-----A---1</AM>
 <AM lemma="virus_,s_^(^DD**vir)" src="auto">NNIS4-----A---2</AM>
 </tag>
 </m>
@@ -16023,7 +16023,7 @@
 </w.rf>
 <form>virus</form>
 <tag>
-<AM lemma="virus_,s_^(^DD**vir)" src="auto" recommended="1">NNIS1-----A---2</AM>
+<AM lemma="vir-1" src="auto" recommended="1">NNIS1-----A---1</AM>
 <AM lemma="virus_,s_^(^DD**vir)" src="auto">NNIS4-----A---2</AM>
 </tag>
 </m>

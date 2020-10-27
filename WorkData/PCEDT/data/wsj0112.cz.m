@@ -684,7 +684,7 @@
 <form>nezbytné</form>
 <tag>
 <AM lemma="nezbytný" src="auto">AAFP1----1A----</AM>
-<AM lemma="nezbytný" src="auto" recommended="1">AAFP4----1A----</AM>
+<AM lemma="zbytný" src="auto" recommended="1">AAFP4----1N----</AM>
 <AM lemma="nezbytný" src="auto">AAFP5----1A----</AM>
 <AM lemma="nezbytný" src="auto">AAFS2----1A----</AM>
 <AM lemma="nezbytný" src="auto">AAFS3----1A----</AM>

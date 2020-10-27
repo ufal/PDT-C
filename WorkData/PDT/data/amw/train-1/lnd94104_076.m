@@ -2990,7 +2990,7 @@
 <form>pár</form>
 <tag>
 <AM lemma="pár-2" src="orig">NNIS1-----A----</AM>
-<AM lemma="pár-1" src="manual" selected="1">ClXP1----------</AM>
+<AM lemma="pár-1" src="manual" selected="1">Ca--X----------</AM>
 </tag>
 </m>
 <m id="m-lnd94104-076-p1s24w6">

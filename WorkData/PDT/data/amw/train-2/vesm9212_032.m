@@ -8863,7 +8863,7 @@
 <form>paranoie</form>
 <tag>
 <AM lemma="paranoia_;U" src="auto">NNFS2-----A----</AM>
-<AM lemma="paranoia_^(řec.)" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="paranoia" src="manual" selected="1">NNFS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-vesm9212-032-p8s12w9">
@@ -8988,7 +8988,7 @@
 <form>paranoie</form>
 <tag>
 <AM lemma="paranoia_;U" src="auto">NNFS2-----A----</AM>
-<AM lemma="paranoia_^(řec.)" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="paranoia" src="manual" selected="1">NNFS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-vesm9212-032-p8s13w3">

@@ -1016,7 +1016,7 @@
 <AM lemma="dokumentární_:B" src="orig">AAXXX----1A---8</AM>
 <AM lemma="dok" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="dok" src="auto">NNIS4-----A----</AM>
-<AM lemma="dokumentární" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="dok-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-146-p7s1w17">
@@ -1068,7 +1068,7 @@
 <LM>w#w-mf930701-146-p7s1w22</LM>
 </w.rf>
 <form>dinosauři</form>
-<tag lemma="dinosaur" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="dinosaurus" src="orig" selected="1">NNMP1-----A---1</tag>
 </m>
 <m id="m-mf930701-146-p7s1w23">
 <src.rf>manual</src.rf>
@@ -1124,7 +1124,7 @@
 <LM>w#w-mf930701-146-p7s1w29</LM>
 </w.rf>
 <form>Hrabě</form>
-<tag lemma="hrabě" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="hrabě-2" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-146-p7s1w30">
 <src.rf>manual</src.rf>

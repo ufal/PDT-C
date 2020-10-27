@@ -3260,7 +3260,7 @@
 </w.rf>
 <form>Gore</form>
 <tag>
-<AM lemma="Gore-2_;G" src="orig" selected="1">NNNXX-----A----</AM>
+<AM lemma="Gore-2_;G" src="orig" selected="1">NNXXX-----A----</AM>
 <AM lemma="Gore_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Gore_;Y" src="auto">NNMS5-----A----</AM>
 </tag>

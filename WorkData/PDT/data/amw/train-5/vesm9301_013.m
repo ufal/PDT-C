@@ -2405,7 +2405,7 @@
 <LM>w#w-vesm9301-013-p5s3Bw22</LM>
 </w.rf>
 <form>Pavlovi</form>
-<tag lemma="Pavel-1_;Y" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Pavel_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-vesm9301-013-p5s3Bw23">
 <src.rf>manual</src.rf>
@@ -4371,7 +4371,7 @@
 <form>Dr</form>
 <tag>
 <AM lemma="doktor_:B_^(doktor,_akad._titul)" src="orig">NNMXX-----A---8</AM>
-<AM lemma="Dr_^(doktor)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="Dr_^(doktor,_akad._titul)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-013-p8s2w7">

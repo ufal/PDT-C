@@ -2497,7 +2497,7 @@
 <AM lemma="Schelle_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Schelle_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Schelle_;Y" src="auto" recommended="1">NNMXX-----A----</AM>
-<AM lemma="Schelle-2_;G" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="Schelle-2_;G" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m006-d-id80635">

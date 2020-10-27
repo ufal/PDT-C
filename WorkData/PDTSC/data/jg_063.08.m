@@ -4348,7 +4348,7 @@
 <form>Hradčany</form>
 <tag>
 <AM lemma="Hradčany_;G" src="auto">NNFP1-----A----</AM>
-<AM lemma="Hradčany_;G" src="auto" recommended="1">NNFP4-----A----</AM>
+<AM lemma="Hradčany_;G" src="auto" recommended="1">NNIP4-----A----</AM>
 <AM lemma="Hradčany_;G" src="auto">NNFP5-----A----</AM>
 <AM lemma="Hradčany_;G" src="auto">NNIP1-----A----</AM>
 <AM lemma="Hradčany_;G" src="auto">NNIP4-----A----</AM>

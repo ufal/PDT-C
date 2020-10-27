@@ -431,7 +431,7 @@
 <LM>w#w-mf930709-027-p2s2w9</LM>
 </w.rf>
 <form>Kozák</form>
-<tag lemma="Kozák_;Y" src="auto" selected="1">NNMS1-----A----</tag>
+<tag lemma="Kozák-1_;Y" src="auto" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-027-p2s2w10">
 <src.rf>manual</src.rf>
@@ -1149,7 +1149,7 @@
 <LM>w#w-mf930709-027-p3s2w21</LM>
 </w.rf>
 <form>Kozákovi</form>
-<tag lemma="Kozák_;Y" src="auto" selected="1">NNMS3-----A----</tag>
+<tag lemma="Kozák-1_;Y" src="auto" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-mf930709-027-p3s2w22">
 <src.rf>manual</src.rf>

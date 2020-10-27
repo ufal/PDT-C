@@ -103,7 +103,7 @@
 <form>NATURAL</form>
 <tag>
 <AM lemma="Natural_,t" src="auto">NNIS1-----A----</AM>
-<AM lemma="natural-1_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Natural_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-047-p2s1w5">

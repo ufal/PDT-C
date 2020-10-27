@@ -110,7 +110,7 @@
 </w.rf>
 <form>Rabat</form>
 <tag>
-<AM lemma="Rabat_;G" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Rabat_;G_;m" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="rabat" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="rabat" src="auto">NNIS4-----A----</AM>
 </tag>

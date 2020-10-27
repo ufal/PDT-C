@@ -700,7 +700,7 @@
 <AM lemma="petra-1_;m" src="auto">NNFP5-----A----</AM>
 <AM lemma="petra-1_;m" src="auto">NNFS2-----A----</AM>
 <AM lemma="Petra-3_;m" src="manual">NNFS2-----A----</AM>
-<AM lemma="Petra-2_;G_;m" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="Petra_;G_;Y_;m" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-044-p3s1w6">
@@ -3703,7 +3703,7 @@
 <LM>w#w-ln95044-044-p6s11w1</LM>
 </w.rf>
 <form>Hůře</form>
-<tag lemma="špatně" src="orig" selected="1">Dg-------2A---1</tag>
+<tag lemma="hůře" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-ln95044-044-p6s11w2">
 <src.rf>manual</src.rf>
@@ -5690,7 +5690,7 @@
 <form>Boby</form>
 <tag>
 <AM lemma="bob" src="orig">NNIP1-----A----</AM>
-<AM lemma="Boby_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Boby-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-044-p9s1w6">
@@ -14516,7 +14516,7 @@
 <form>Boby</form>
 <tag>
 <AM lemma="bob" src="orig">NNIP1-----A----</AM>
-<AM lemma="Boby_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Boby-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-044-p23s1w6">

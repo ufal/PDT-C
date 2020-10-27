@@ -280,7 +280,7 @@
 <tag>
 <AM lemma="mladistvý" src="auto" recommended="1">AAMP1----1A----</AM>
 <AM lemma="mladistvý" src="auto">AAMP5----1A----</AM>
-<AM lemma="mladistvý-2" src="manual" selected="1">NNMP1-----A----</AM>
+<AM lemma="mladistvý" src="manual" selected="1">AAMP1----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj2449-001-p1s0W20-Ta">
@@ -1061,7 +1061,7 @@
 <tag>
 <AM lemma="mladistvý" src="auto" recommended="1">AAMP1----1A----</AM>
 <AM lemma="mladistvý" src="auto">AAMP5----1A----</AM>
-<AM lemma="mladistvý-2" src="manual" selected="1">NNMP1-----A----</AM>
+<AM lemma="mladistvý" src="manual" selected="1">AAMP1----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj2449-001-p1s2W17-Ta">
@@ -1805,7 +1805,7 @@
 <AM lemma="zletilý" src="auto">AANS1----1N----</AM>
 <AM lemma="zletilý" src="auto">AANS4----1N----</AM>
 <AM lemma="zletilý" src="auto">AANS5----1N----</AM>
-<AM lemma="nezletilá" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="zletilý" src="manual" selected="1">AAFS2----1N----</AM>
 </tag>
 </m>
 <m id="m-wsj2449-001-p1s4W16-Ta">
@@ -3338,7 +3338,7 @@
 <AM lemma="zletilý" src="auto">AANP3----1N----</AM>
 <AM lemma="zletilý" src="auto">AANS6----1N---7</AM>
 <AM lemma="zletilý" src="auto">AANS7----1N----</AM>
-<AM lemma="zletilý-2" src="manual" selected="1">NNMP3-----A----</AM>
+<AM lemma="zletilý" src="manual" selected="1">AAMP3----1N----</AM>
 </tag>
 </m>
 <m id="m-wsj2449-001-p1s8W32-Ta">

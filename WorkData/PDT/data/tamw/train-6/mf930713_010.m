@@ -360,7 +360,7 @@
 </w.rf>
 <form>účinkujícími</form>
 <tag>
-<AM lemma="účinkující-2" src="orig" selected="1">NNMP7-----A----</AM>
+<AM lemma="účinkující_^(*5ovat)" src="orig" selected="1">AGMP7-----A----</AM>
 <AM lemma="účinkující_^(*5ovat)" src="auto">AGFP7-----A----</AM>
 <AM lemma="účinkující_^(*5ovat)" src="auto">AGIP7-----A----</AM>
 <AM lemma="účinkující_^(*5ovat)" src="auto" recommended="1">AGMP7-----A----</AM>

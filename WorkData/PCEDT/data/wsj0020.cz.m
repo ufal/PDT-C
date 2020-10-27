@@ -4120,7 +4120,7 @@
 <form>pejských</form>
 <tag>
 <AM lemma="pejských" src="auto">X@-------------</AM>
-<AM lemma="pejský_^(tchaj-pejský)" src="manual" selected="1">AAFP2----1A----</AM>
+<AM lemma="pejský" src="manual" selected="1">SAFP2----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0020-001-p1s9W12-Ta">

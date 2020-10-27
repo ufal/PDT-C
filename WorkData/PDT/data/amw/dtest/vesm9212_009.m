@@ -1929,7 +1929,7 @@
 <LM>w#w-vesm9212-009-p4s5w1</LM>
 </w.rf>
 <form>Zastaví</form>
-<tag lemma="zastavit-1_^([také_z._se];_uvést_do_klidu:_auto,...)" src="orig" selected="1">VB-S---3P-AAP--</tag>
+<tag lemma="zastavit_^(uvést_do_klidu;;zástavní_právo)" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-vesm9212-009-p4s5w2">
 <src.rf>manual</src.rf>

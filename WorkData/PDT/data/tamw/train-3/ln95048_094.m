@@ -1611,7 +1611,7 @@
 <LM>w#w-ln95048-094-p4s4w12</LM>
 </w.rf>
 <form>Rusa</form>
-<tag lemma="Rus_;E" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Rus-1_;E" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95048-094-p4s4w13">
 <src.rf>manual</src.rf>
@@ -2984,7 +2984,7 @@
 <LM>w#w-ln95048-094-p5s1w23</LM>
 </w.rf>
 <form>Viktorií</form>
-<tag lemma="Viktoria-2_;m_^(jméno_sport.klubu)" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Viktoria_;Y_;m" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln95048-094-p5s1w24">
 <src.rf>manual</src.rf>

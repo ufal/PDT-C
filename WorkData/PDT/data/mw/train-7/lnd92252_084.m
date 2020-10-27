@@ -1552,7 +1552,7 @@
 <form>Kuchař</form>
 <tag>
 <AM lemma="kuchař" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kuchař_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Kuchař-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-084-p4s7w27">

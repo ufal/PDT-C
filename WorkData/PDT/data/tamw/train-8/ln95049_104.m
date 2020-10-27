@@ -445,7 +445,7 @@
 <LM>w#w-ln95049-104-p2s4w2</LM>
 </w.rf>
 <form>virus</form>
-<tag lemma="vir" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="vir-1" src="orig" selected="1">NNIS1-----A---1</tag>
 </m>
 <m id="m-ln95049-104-p2s4w3">
 <src.rf>manual</src.rf>
@@ -1322,7 +1322,7 @@
 <LM>w#w-ln95049-104-p2s10w21</LM>
 </w.rf>
 <form>virus</form>
-<tag lemma="vir" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="vir-1" src="orig" selected="1">NNIS1-----A---1</tag>
 </m>
 <m id="m-ln95049-104-p2s10w22">
 <src.rf>manual</src.rf>
@@ -1532,7 +1532,7 @@
 <LM>w#w-ln95049-104-p2s12w1</LM>
 </w.rf>
 <form>Virus</form>
-<tag lemma="vir" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="vir-1" src="orig" selected="1">NNIS1-----A---1</tag>
 </m>
 <m id="m-ln95049-104-p2s12w2">
 <src.rf>manual</src.rf>
@@ -1712,7 +1712,7 @@
 <LM>w#w-ln95049-104-p2s12w23</LM>
 </w.rf>
 <form>virus</form>
-<tag lemma="vir" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="vir-1" src="orig" selected="1">NNIS1-----A---1</tag>
 </m>
 <m id="m-ln95049-104-p2s12w24">
 <src.rf>manual</src.rf>

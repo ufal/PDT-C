@@ -262,7 +262,7 @@
 <form>plk</form>
 <tag>
 <AM lemma="plukovník_:B" src="orig">NNMXX-----A---8</AM>
-<AM lemma="plk_^(plukovník)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="plukovník" src="manual" selected="1">NNMXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf920902-011-p1s2w5">

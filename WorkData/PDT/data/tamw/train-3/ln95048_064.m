@@ -3906,7 +3906,7 @@
 <LM>w#w-ln95048-064-p5s16w15</LM>
 </w.rf>
 <form>sen</form>
-<tag lemma="sen" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="sen-1" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln95048-064-p5s16w16">
 <src.rf>manual</src.rf>
@@ -10253,7 +10253,7 @@
 <LM>w#w-ln95048-064-p10s8Bw13</LM>
 </w.rf>
 <form>pár</form>
-<tag lemma="pár-1" src="orig" selected="1">ClXP2----------</tag>
+<tag lemma="pár-1" src="orig" selected="1">Ca--X----------</tag>
 </m>
 <m id="m-ln95048-064-p10s8Bw14">
 <src.rf>manual</src.rf>

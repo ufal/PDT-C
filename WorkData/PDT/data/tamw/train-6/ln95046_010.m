@@ -3049,7 +3049,7 @@
 <LM>w#w-ln95046-010-p5s3w31</LM>
 </w.rf>
 <form>nečlena</form>
-<tag lemma="nečlen" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS2-----N----</tag>
 </m>
 <m id="m-ln95046-010-p5s3w32">
 <src.rf>manual</src.rf>

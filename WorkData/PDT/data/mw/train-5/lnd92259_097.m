@@ -7669,7 +7669,7 @@
 <LM>w#w-lnd92259-097-p10s9w12</LM>
 </w.rf>
 <form>Cagliari</form>
-<tag lemma="Cagliari_;G" src="auto" selected="1">NNNXX-----A----</tag>
+<tag lemma="Cagliari-2_;G" src="auto" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-lnd92259-097-p10s9w13">
 <src.rf>manual</src.rf>

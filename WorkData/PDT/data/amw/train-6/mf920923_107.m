@@ -1640,7 +1640,7 @@
 <LM>w#w-mf920923-107-p5s2w6</LM>
 </w.rf>
 <form>Rusy</form>
-<tag lemma="Rus_;E" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="Rus-1_;E" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-mf920923-107-p5s2w7">
 <src.rf>manual</src.rf>

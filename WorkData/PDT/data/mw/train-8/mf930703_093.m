@@ -1643,7 +1643,7 @@
 <AM lemma="Billie_;Y" src="orig">NNFXX-----A----</AM>
 <AM lemma="Billie_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Billie_;Y_,t" src="auto">NNMS5-----A----</AM>
-<AM lemma="Billie-2_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Billie-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-093-p7s1w4">
@@ -1662,7 +1662,7 @@
 <form>Jean</form>
 <tag>
 <AM lemma="Jean_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Jean-2_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Jean-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-093-p7s1w6">
@@ -2463,7 +2463,7 @@
 <form>Harley</form>
 <tag>
 <AM lemma="Harley_;G" src="orig">NNMS1-----A----</AM>
-<AM lemma="Harley-2_;m_^(motorka)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Harley-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-093-p12s1w3">
@@ -2776,7 +2776,7 @@
 <AM lemma="Billie_;Y" src="orig">NNFXX-----A----</AM>
 <AM lemma="Billie_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Billie_;Y_,t" src="auto">NNMS5-----A----</AM>
-<AM lemma="Billie-2_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Billie-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-093-p15s1w2">
@@ -2795,7 +2795,7 @@
 <form>Jean</form>
 <tag>
 <AM lemma="Jean_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Jean-2_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Jean-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-093-p15s1w4">

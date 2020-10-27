@@ -2497,7 +2497,7 @@
 <tag>
 <AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig">VpTP---XR-AA---</AM>
 <AM lemma="stát-4_:T_^(něco_stojí_peníze)" src="manual">VpTP---XR-AA---</AM>
-<AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="manual" selected="1">VpTP----R-AAI--</AM>
+<AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">VpTP----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-ln94208-140-p4s2w18">

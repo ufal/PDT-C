@@ -35,7 +35,7 @@
 <LM>w#w-lnd92253-006-p1s1w3</LM>
 </w.rf>
 <form>Rusy</form>
-<tag lemma="Rus_;E" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="Rus-1_;E" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92253-006-p2s1">

@@ -75,7 +75,7 @@
 <LM>w#w-ln94202-120-p1s1Aw8</LM>
 </w.rf>
 <form>Sharpem</form>
-<tag lemma="Sharp_;Y" src="auto" selected="1">NNMS7-----A----</tag>
+<tag lemma="Sharp-1_;Y" src="auto" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94202-120-p1s1Aw9">
 <src.rf>manual</src.rf>

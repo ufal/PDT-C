@@ -604,7 +604,7 @@
 <LM>w#w-lnd92256-049-p2s3w9</LM>
 </w.rf>
 <form>virus</form>
-<tag lemma="vir" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="vir-1" src="orig" selected="1">NNIS1-----A---1</tag>
 </m>
 <m id="m-lnd92256-049-p2s3w10">
 <src.rf>manual</src.rf>

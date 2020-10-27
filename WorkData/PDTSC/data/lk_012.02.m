@@ -2751,7 +2751,7 @@
 <AM lemma="pár-1" src="auto">ClXP2----------</AM>
 <AM lemma="pár-1" src="auto">ClXP3----------</AM>
 <AM lemma="pár-1" src="auto">ClXP6----------</AM>
-<AM lemma="pár-1" src="auto" recommended="1">ClXP7----------</AM>
+<AM lemma="pár-1" src="auto" recommended="1">Ca--X----------</AM>
 <AM lemma="pár-1" src="auto">ClXS1----------</AM>
 <AM lemma="pár-1" src="auto">ClXS4----------</AM>
 <AM lemma="pár-2" src="auto">NNIS1-----A----</AM>
@@ -3690,7 +3690,7 @@
 <AM lemma="pár-1" src="auto">ClXS4----------</AM>
 <AM lemma="pár-2" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="pár-2" src="auto">NNIS4-----A----</AM>
-<AM lemma="pár-1" src="manual" selected="1">ClXP1----------</AM>
+<AM lemma="pár-1" src="manual" selected="1">Ca--X----------</AM>
 </tag>
 </m>
 <m id="m012-d1t1096-6">
@@ -6556,7 +6556,7 @@
 <AM lemma="chmel" src="auto">NNIP1-----A----</AM>
 <AM lemma="chmel" src="auto">NNIP4-----A----</AM>
 <AM lemma="chmel" src="auto">NNIP5-----A----</AM>
-<AM lemma="chmel" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="chmel" src="auto" recommended="1">NNIS2-----A---1</AM>
 <AM lemma="chmel" src="auto">NNIS5-----A----</AM>
 <AM lemma="chmelit" src="auto">VeYS------A-I--</AM>
 </tag>

@@ -4053,7 +4053,7 @@
 </w.rf>
 <form>nezbytná</form>
 <tag>
-<AM lemma="nezbytný" src="auto" recommended="1">AAFS1----1A----</AM>
+<AM lemma="zbytný" src="auto" recommended="1">AAFS1----1N----</AM>
 <AM lemma="nezbytný" src="auto">AAFS5----1A----</AM>
 <AM lemma="nezbytný" src="auto">AANP1----1A----</AM>
 <AM lemma="nezbytný" src="auto">AANP4----1A----</AM>
@@ -5293,7 +5293,7 @@
 <form>Nikaragui</form>
 <tag>
 <AM lemma="Nikaragua_;G" src="auto">NNFS2-----A---2</AM>
-<AM lemma="Nikaragua_;G" src="auto" recommended="1">NNFS3-----A---2</AM>
+<AM lemma="Nikaragua_;G" src="auto" recommended="1">NNFS3-----A---3</AM>
 </tag>
 </m>
 <m id="m-wsj0748-001-p1s14W10-Ta">
@@ -7090,7 +7090,7 @@
 <AM lemma="nesouhlas" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="souhlasit" src="auto">Vi-S---2--N-I--</AM>
 <AM lemma="souhlasit" src="auto">Vi-S---3--N-I-4</AM>
-<AM lemma="souhlas" src="manual" selected="1">NNIS4-----N----</AM>
+<AM lemma="nesouhlas" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0748-001-p1s20W11-Ta">

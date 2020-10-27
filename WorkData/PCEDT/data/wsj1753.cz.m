@@ -306,7 +306,7 @@
 <tag>
 <AM lemma="Mackenzie-1_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Mackenzie-1_;Y" src="auto">NNMS5-----A----</AM>
-<AM lemma="Mackenzie-2_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Mackenzie-2_;G" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="Mackenzie_;Y" src="auto">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -948,7 +948,7 @@
 <tag>
 <AM lemma="Mackenzie-1_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Mackenzie-1_;Y" src="auto">NNMS5-----A----</AM>
-<AM lemma="Mackenzie-2_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Mackenzie-2_;G" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="Mackenzie_;Y" src="auto">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -1319,7 +1319,7 @@
 <AM lemma="nezbytný" src="auto">AANP1----1A---6</AM>
 <AM lemma="nezbytný" src="auto">AANP4----1A---6</AM>
 <AM lemma="nezbytný" src="auto">AANP5----1A---6</AM>
-<AM lemma="nezbytný" src="auto" selected="1">AANS1----1A----</AM>
+<AM lemma="zbytný" src="auto" selected="1">AANS1----1N----</AM>
 <AM lemma="nezbytný" src="auto">AANS4----1A----</AM>
 <AM lemma="nezbytný" src="auto">AANS5----1A----</AM>
 </tag>
@@ -2001,7 +2001,7 @@
 <tag>
 <AM lemma="Mackenzie-1_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Mackenzie-1_;Y" src="auto">NNMS5-----A----</AM>
-<AM lemma="Mackenzie-2_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Mackenzie-2_;G" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="Mackenzie_;Y" src="auto">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -3115,7 +3115,7 @@
 <tag>
 <AM lemma="Mackenzie-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Mackenzie-1_;Y" src="auto">NNMS5-----A----</AM>
-<AM lemma="Mackenzie-2_;G" src="auto" selected="1">NNNXX-----A----</AM>
+<AM lemma="Mackenzie-2_;G" src="auto" selected="1">NNXXX-----A----</AM>
 <AM lemma="Mackenzie_;Y" src="auto">NNMS1-----A----</AM>
 </tag>
 </m>

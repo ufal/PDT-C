@@ -3647,7 +3647,7 @@
 <form>něhož</form>
 <tag>
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">P9ZS2----------</AM>
-<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">P4ZS4----------</AM>
+<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">P4ZS4---------3</AM>
 </tag>
 </m>
 <m id="m-wsj0633-001-p1s20W15-Ta">
@@ -7483,7 +7483,7 @@
 </w.rf>
 <form>Scarborough</form>
 <tag>
-<AM lemma="Scarborough_;G" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Scarborough_;G" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="Scarborough_;G" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -9988,7 +9988,7 @@
 <form>Lowea</form>
 <tag>
 <AM lemma="Lowea" src="auto">X@-------------</AM>
-<AM lemma="Lowe_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Lowe_;Y" src="manual" selected="1">NNMS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-wsj0633-001-p1s41W37-Ta">
@@ -15379,7 +15379,7 @@
 </w.rf>
 <form>Hudsonem</form>
 <tag>
-<AM lemma="Hudson_;G" src="auto" recommended="1">NNIS7-----A----</AM>
+<AM lemma="Hudson-2_;G" src="auto" recommended="1">NNIS7-----A----</AM>
 <AM lemma="Hudson_;Y" src="auto">NNMS7-----A----</AM>
 <AM lemma="hudson_^(dopravní_prostředek)" src="auto">NNIS7-----A----</AM>
 </tag>

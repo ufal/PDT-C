@@ -6915,7 +6915,7 @@
 <AM lemma="čistý" src="auto">AANP1----2A----</AM>
 <AM lemma="čistý" src="auto">AANP4----2A----</AM>
 <AM lemma="čistý" src="auto">AANP5----2A----</AM>
-<AM lemma="čistý" src="auto" selected="1">AANS1----2A----</AM>
+<AM lemma="čistý" src="auto" selected="1">AANS1----2A---1</AM>
 <AM lemma="čistý" src="auto">AANS4----2A----</AM>
 <AM lemma="čistý" src="auto">AANS5----2A----</AM>
 </tag>

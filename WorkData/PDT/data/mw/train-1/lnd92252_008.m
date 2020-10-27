@@ -19,7 +19,7 @@
 <LM>w#w-lnd92252-008-p1s1w1</LM>
 </w.rf>
 <form>VYŠEHRAD</form>
-<tag lemma="Vyšehrad" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Vyšehrad_;G" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92252-008-p1s1w2">
 <src.rf>manual</src.rf>

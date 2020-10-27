@@ -3027,7 +3027,7 @@
 <AM lemma="ranní" src="auto">AANS4----1A----</AM>
 <AM lemma="ranní" src="auto">AANS5----1A----</AM>
 <AM lemma="ranní-2" src="manual">NNFS4-----A----</AM>
-<AM lemma="ranní-2" src="manual" selected="1">NNFP4-----A----</AM>
+<AM lemma="ranní" src="manual" selected="1">AAFP4----1A----</AM>
 </tag>
 </m>
 <m id="m134-316-699">
@@ -3111,7 +3111,7 @@
 <AM lemma="odpolední" src="auto">AANS1----1A----</AM>
 <AM lemma="odpolední" src="auto">AANS4----1A----</AM>
 <AM lemma="odpolední" src="auto">AANS5----1A----</AM>
-<AM lemma="odpolední-2" src="manual" selected="1">NNFP4-----A----</AM>
+<AM lemma="odpolední" src="manual" selected="1">AAFP4----1A----</AM>
 </tag>
 </m>
 <m id="m134-d1t550-7">
@@ -3160,7 +3160,7 @@
 <AM lemma="noční" src="auto">AANS1----1A----</AM>
 <AM lemma="noční" src="auto">AANS4----1A----</AM>
 <AM lemma="noční" src="auto">AANS5----1A----</AM>
-<AM lemma="noční-2" src="manual" selected="1">NNFP4-----A----</AM>
+<AM lemma="noční" src="manual" selected="1">AAFP4----1A----</AM>
 </tag>
 </m>
 <m id="m134-d-id108032-punct">

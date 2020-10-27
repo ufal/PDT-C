@@ -367,7 +367,7 @@
 <tag>
 <AM lemma="spoluobžalovaný_^(*2t)" src="auto" recommended="1">AAMP1----1A----</AM>
 <AM lemma="spoluobžalovaný_^(*2t)" src="auto">AAMP5----1A----</AM>
-<AM lemma="spoluobžalovaný-2_^(osoba)" src="manual" selected="1">NNMP1-----A----</AM>
+<AM lemma="spoluobžalovaný_^(*2t)" src="manual" selected="1">AAMP1----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0130-001-p1s0W26-Ta">
@@ -5361,7 +5361,7 @@
 <AM lemma="žalovaný_^(*2t)" src="auto">AAMP6----1A----</AM>
 <AM lemma="žalovaný_^(*2t)" src="auto">AANP2----1A----</AM>
 <AM lemma="žalovaný_^(*2t)" src="auto">AANP6----1A----</AM>
-<AM lemma="žalovaný-2" src="manual" selected="1">NNMP2-----A----</AM>
+<AM lemma="žalovaný_^(*2t)" src="manual" selected="1">AAMP2----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0130-001-p1s16W21-Ta">

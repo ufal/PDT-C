@@ -3462,7 +3462,7 @@
 <AM lemma="konzervatizmus" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="konzervatizmus" src="auto">NNIS3-----A----</AM>
 <AM lemma="konzervatizmus" src="auto">NNIS6-----A----</AM>
-<AM lemma="konzervatismus_,s_^(^DD**konzervatizmus)" src="manual" selected="1">NNIS2-----A---1</AM>
+<AM lemma="konzervatismus_,s_^(^DD**konzervatizmus)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-105-p6s1w8">

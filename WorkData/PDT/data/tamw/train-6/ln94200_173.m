@@ -5597,7 +5597,7 @@
 <AM lemma="Clichy_;G" src="orig">NNNXX-----A----</AM>
 <AM lemma="Clichy_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Clichy_;Y" src="auto">NNMS5-----A----</AM>
-<AM lemma="Clichy-2_;G" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Clichy-2_;G" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-173-p7s1w60">

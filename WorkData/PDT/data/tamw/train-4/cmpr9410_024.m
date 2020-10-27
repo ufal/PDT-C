@@ -3156,7 +3156,7 @@
 <LM>w#w-cmpr9410-024-p14s1w1</LM>
 </w.rf>
 <form>Členům</form>
-<tag lemma="člen" src="orig" selected="1">NNMP3-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP3-----A----</tag>
 </m>
 <m id="m-cmpr9410-024-p14s1w2">
 <src.rf>manual</src.rf>
@@ -3473,7 +3473,7 @@
 <AM lemma="vědět" src="orig">VB-P---3P-NA---</AM>
 <AM lemma="vědět" src="auto">VB-P---3P-NA--6</AM>
 <AM lemma="vědět" src="auto" recommended="1">VB-S---3P-NAI--</AM>
-<AM lemma="vědět" src="manual" selected="1">VB-S---3P-NAI-6</AM>
+<AM lemma="vědět" src="manual" selected="1">VB-S---3P-NAI--</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-024-p14s4w11">

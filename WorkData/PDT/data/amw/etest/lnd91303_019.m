@@ -809,7 +809,7 @@
 <LM>w#w-lnd91303-019-p3s4w5</LM>
 </w.rf>
 <form>neosobnosti</form>
-<tag lemma="neosobnost" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="osobnost" src="orig" selected="1">NNFP1-----N----</tag>
 </m>
 <m id="m-lnd91303-019-p3s4w6">
 <src.rf>manual</src.rf>

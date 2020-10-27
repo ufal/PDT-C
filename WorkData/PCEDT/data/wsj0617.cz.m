@@ -12938,7 +12938,7 @@
 <AM lemma="žalovaný_^(*2t)" src="auto">AAMS2----1A----</AM>
 <AM lemma="žalovaný_^(*2t)" src="auto">AAMS4----1A----</AM>
 <AM lemma="žalovaný_^(*2t)" src="auto">AANS2----1A----</AM>
-<AM lemma="žalovaný-2" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="žalovaný_^(*2t)" src="manual" selected="1">AAMS2----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0617-001-p1s40W18-Ta">

@@ -349,7 +349,7 @@
 <LM>w#w-mf930701-069-p4s3w1</LM>
 </w.rf>
 <form>Panu</form>
-<tag lemma="pan_^(oslovení)" src="auto" selected="1">NNMS3-----A----</tag>
+<tag lemma="pan" src="auto" selected="1">NNMS3-----A---1</tag>
 </m>
 <m id="m-mf930701-069-p4s3w2">
 <src.rf>manual</src.rf>

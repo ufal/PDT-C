@@ -77,7 +77,7 @@
 <AM lemma="pasus">NNIS3-----A----</AM>
 <AM lemma="pasus">NNIS6-----A----</AM>
 <AM lemma="pást_^(se,např._koně,_husy)">VB-S---1P-AAI--</AM>
-<AM lemma="pas-2_^(na_lidském_těle;;cestovní)" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="pas-1_^(přihrávka,_př._v_kopané,na_lidském_těle;;cestovní)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 </s>

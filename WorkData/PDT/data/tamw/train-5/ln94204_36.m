@@ -468,7 +468,7 @@
 <LM>w#w-ln94204-36-p2s3w1</LM>
 </w.rf>
 <form>Sen</form>
-<tag lemma="sen" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="sen-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94204-36-p2s3w2">
 <src.rf>manual</src.rf>
@@ -1090,7 +1090,7 @@
 <LM>w#w-ln94204-36-p3s3w4</LM>
 </w.rf>
 <form>Rusem</form>
-<tag lemma="Rus_;E" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Rus-1_;E" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94204-36-p3s3w5">
 <src.rf>manual</src.rf>

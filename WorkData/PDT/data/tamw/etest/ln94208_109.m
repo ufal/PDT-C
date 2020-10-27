@@ -1058,7 +1058,7 @@
 <LM>w#w-ln94208-109-p2s6w7</LM>
 </w.rf>
 <form>Blesk</form>
-<tag lemma="Blesk_;m_^(noviny)" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Blesk-2_;m_^(noviny)" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94208-109-p2s6w8">
 <src.rf>manual</src.rf>

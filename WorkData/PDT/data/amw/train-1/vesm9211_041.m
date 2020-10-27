@@ -897,7 +897,7 @@
 <LM>w#w-vesm9211-041-p3s2w11</LM>
 </w.rf>
 <form>Nory</form>
-<tag lemma="Nor_;E" src="orig" selected="1">NNMP7-----A----</tag>
+<tag lemma="Nor_;E_;Y" src="orig" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-vesm9211-041-p3s2w12">
 <src.rf>manual</src.rf>

@@ -2732,7 +2732,7 @@
 <LM>w#w-ln94202-15-p7s1w11</LM>
 </w.rf>
 <form>Polo</form>
-<tag lemma="Polo_;m_^(vozidlo)" src="auto" selected="1">NNNS1-----A----</tag>
+<tag lemma="Polo-2_;m_^(vozidlo)" src="auto" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94202-15-p7s1w12">
 <src.rf>manual</src.rf>
@@ -3107,7 +3107,7 @@
 <LM>w#w-ln94202-15-p7s3w10</LM>
 </w.rf>
 <form>Polo</form>
-<tag lemma="Polo_;m_^(vozidlo)" src="auto" selected="1">NNNS1-----A----</tag>
+<tag lemma="Polo-2_;m_^(vozidlo)" src="auto" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94202-15-p7s3w11">
 <src.rf>manual</src.rf>

@@ -141,7 +141,7 @@
 <LM>w#w-ln95044-021-p2s1Bw3</LM>
 </w.rf>
 <form>Luka</form>
-<tag lemma="Luk_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Luk_;Y_,s_^(^DD**Luc)" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95044-021-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -3026,7 +3026,7 @@
 <AM lemma="LaFayett_;Y" src="orig">NNMS4-----A----</AM>
 <AM lemma="Lafayette-2_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Lafayette-2_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="LaFayett-2_;Y" src="manual" selected="1">NNMS4-----A----</AM>
+<AM lemma="LaFayett_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-021-p7s1w37">

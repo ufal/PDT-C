@@ -694,7 +694,7 @@
 <LM>w#w-mf920902-108-p2s7w17</LM>
 </w.rf>
 <form>dr</form>
-<tag lemma="doktor_^(doktor,_akad._titul)" src="orig" selected="1">NNMXX-----A---b</tag>
+<tag lemma="dr_^(doktor,_akad._titul)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf920902-108-p2s7w18">
 <src.rf>manual</src.rf>

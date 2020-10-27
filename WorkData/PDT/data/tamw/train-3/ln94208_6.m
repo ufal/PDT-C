@@ -108,7 +108,7 @@
 <LM>w#w-ln94208-6-p1s2w2</LM>
 </w.rf>
 <form>Polo</form>
-<tag lemma="Polo_;m_^(vozidlo)" src="auto" selected="1">NNNS1-----A----</tag>
+<tag lemma="Polo-2_;m_^(vozidlo)" src="auto" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-ln94208-6-p1s2w3">
 <src.rf>manual</src.rf>

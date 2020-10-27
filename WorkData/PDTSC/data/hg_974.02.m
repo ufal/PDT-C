@@ -642,7 +642,7 @@
 <form>Poláky</form>
 <tag>
 <AM lemma="Polák_;E" src="auto">NNMP4-----A----</AM>
-<AM lemma="Polák_;E" src="auto" recommended="1">NNMP7-----A----</AM>
+<AM lemma="Polák_;E_;Y" src="auto" recommended="1">NNMP7-----A----</AM>
 <AM lemma="Poláky_;G" src="auto">NNIP1-----A----</AM>
 <AM lemma="Poláky_;G" src="auto">NNIP4-----A----</AM>
 <AM lemma="Poláky_;G" src="auto">NNIP5-----A----</AM>

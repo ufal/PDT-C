@@ -7978,7 +7978,7 @@
 <form>Goldsmithe</form>
 <tag>
 <AM lemma="Goldsmith_;Y" src="auto" recommended="1">NNMS5-----A----</AM>
-<AM lemma="Goldsmith_;Y" src="manual" selected="1">NNMS2-----A---1</AM>
+<AM lemma="Goldsmith_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1601-001-p1s26W12-Ta">

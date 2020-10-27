@@ -2386,7 +2386,7 @@
 <form>Dellu</form>
 <tag>
 <AM lemma="Della_;Y" src="auto" recommended="1">NNFS4-----A----</AM>
-<AM lemma="Della_;Y" src="manual" selected="1">NNMS3-----A----</AM>
+<AM lemma="Dell-2_;Y" src="manual" selected="1">NNMS3-----A---1</AM>
 </tag>
 </m>
 <m id="m-wsj1844-001-p1s6W6-Ta">
@@ -5552,7 +5552,7 @@
 </w.rf>
 <form>Concord</form>
 <tag>
-<AM lemma="Concord_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Concord_;G_;m" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Concord_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="concord_^(letadlo)" src="auto">NNIS1-----A----</AM>
 <AM lemma="concord_^(letadlo)" src="auto">NNIS4-----A----</AM>
@@ -9256,7 +9256,7 @@
 <form>Palmolive</form>
 <tag>
 <AM lemma="Palmolive_;m" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Palmolive_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Palmolive_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1844-001-p1s27W19-Ta">
@@ -14261,7 +14261,7 @@
 <tag>
 <AM lemma="Gillett_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Gillette_;m_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Gillette_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Gillette_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1844-001-p1s42W34-Ta">
@@ -17792,7 +17792,7 @@
 </w.rf>
 <form>nebydlí</form>
 <tag>
-<AM lemma="bydlet" src="auto" selected="1">VB-P---3P-NAI--</AM>
+<AM lemma="bydlet" src="auto" selected="1">VB-P---3P-NAI-1</AM>
 <AM lemma="bydlet" src="auto" recommended="1">VB-S---3P-NAI--</AM>
 </tag>
 </m>

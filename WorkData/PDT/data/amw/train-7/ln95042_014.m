@@ -1417,7 +1417,7 @@
 <LM>w#w-ln95042-014-p2s7w15</LM>
 </w.rf>
 <form>Kristu</form>
-<tag lemma="Kristus-3_;Y" src="orig" selected="1">NNMS6-----A----</tag>
+<tag lemma="Kristus-3_;Y" src="orig" selected="1">NNMS6-----A---1</tag>
 </m>
 <m id="m-ln95042-014-p2s7w16">
 <src.rf>manual</src.rf>

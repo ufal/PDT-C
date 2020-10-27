@@ -4499,7 +4499,7 @@
 <tag>
 <AM lemma="kuchyně" src="auto">NNFS1-----A----</AM>
 <AM lemma="kuchyně" src="auto" recommended="1">NNFS4-----A----</AM>
-<AM lemma="kuchyň" src="manual" selected="1">NNFS4-----A---1</AM>
+<AM lemma="kuchyň" src="manual" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m148-d-id74134-punct">

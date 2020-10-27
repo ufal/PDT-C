@@ -5466,7 +5466,7 @@
 <LM>w#w-lnd92255-069-p12s2w9</LM>
 </w.rf>
 <form>pár</form>
-<tag lemma="pár-1" src="orig" selected="1">ClXP3----------</tag>
+<tag lemma="pár-1" src="orig" selected="1">Ca--X----------</tag>
 </m>
 <m id="m-lnd92255-069-p12s2w10">
 <src.rf>manual</src.rf>

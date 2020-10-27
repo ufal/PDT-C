@@ -77,7 +77,7 @@
 <LM>w#w-mf930703-097-p2s1w5</LM>
 </w.rf>
 <form>MS</form>
-<tag lemma="MS-5_;m_^(ministerstvo_spravedlnosti)" src="orig" selected="1">NNNXX-----A---b</tag>
+<tag lemma="MS-88" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf930703-097-p2s1w6">
 <src.rf>manual</src.rf>

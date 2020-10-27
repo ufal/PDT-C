@@ -7050,7 +7050,7 @@
 <form>nedostatku</form>
 <tag>
 <AM lemma="nedostatek" src="orig">NNIS2-----A----</AM>
-<AM lemma="dostatek" src="manual" selected="1">NNIS2-----N----</AM>
+<AM lemma="nedostatek" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-60-p8s3w11">
@@ -7331,7 +7331,7 @@
 <tag>
 <AM lemma="nedostatek" src="orig">NNIS6-----A----</AM>
 <AM lemma="dostatek" src="manual">NNIS2-----N----</AM>
-<AM lemma="dostatek" src="manual" selected="1">NNIS6-----N----</AM>
+<AM lemma="nedostatek" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-60-p8s4w12">

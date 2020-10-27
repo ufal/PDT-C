@@ -1962,7 +1962,7 @@
 <LM>w#w-lnd92256-099-p5s3w7</LM>
 </w.rf>
 <form>nečlen</form>
-<tag lemma="nečlen" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS1-----N----</tag>
 </m>
 <m id="m-lnd92256-099-p5s3w8">
 <src.rf>manual</src.rf>

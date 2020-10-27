@@ -165,7 +165,7 @@
 <form>Kačenka</form>
 <tag>
 <AM lemma="kačenka" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Kačenka_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Kačenka-1_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m117-d1e481-x2-216">
@@ -673,7 +673,7 @@
 <AM lemma="Kačenec_;G" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="kačenka" src="auto">NNFS3-----A----</AM>
 <AM lemma="kačenka" src="auto">NNFS6-----A----</AM>
-<AM lemma="Kačenka_;Y" src="manual" selected="1">NNFS3-----A----</AM>
+<AM lemma="Kačenka-1_;Y" src="manual" selected="1">NNFS3-----A----</AM>
 </tag>
 </m>
 <m id="m117-d1t529-4">
@@ -2804,7 +2804,7 @@
 <form>Kačenka</form>
 <tag>
 <AM lemma="kačenka" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Kačenka_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Kačenka-1_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m117-d1t654-4">

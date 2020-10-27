@@ -7365,7 +7365,7 @@
 </w.rf>
 <form>Shelby</form>
 <tag>
-<AM lemma="Shelby_;G" src="auto" selected="1">NNNXX-----A----</AM>
+<AM lemma="Shelby-2_;G" src="auto" selected="1">NNXXX-----A----</AM>
 <AM lemma="Shelby_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Shelby_;Y" src="auto">NNMS5-----A----</AM>
 </tag>

@@ -1026,7 +1026,7 @@
 <LM>w#w-mf930701-039-p5s1w6</LM>
 </w.rf>
 <form>ČTK</form>
-<tag lemma="ČTK-1_;m_^(Čs./Česká_tisková_kancelář)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="ČTK_;m_^(Čs./Česká_tisková_kancelář)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf930701-039-p5s1w7">
 <src.rf>manual</src.rf>

@@ -1921,7 +1921,7 @@
 <AM lemma="nesouhlas" src="auto">NNIS4-----A----</AM>
 <AM lemma="souhlasit" src="auto">Vi-S---2--N-I--</AM>
 <AM lemma="souhlasit" src="auto">Vi-S---3--N-I-4</AM>
-<AM lemma="souhlas" src="manual" selected="1">NNIS1-----N----</AM>
+<AM lemma="nesouhlas" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0158-001-p1s5W14-Ta">

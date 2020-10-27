@@ -1968,7 +1968,7 @@
 <LM>w#w-mf930703-023-p3s5w3</LM>
 </w.rf>
 <form>Hradčany</form>
-<tag lemma="Hradčany_;G" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="Hradčany_;G" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-mf930703-023-p3s5w4">
 <src.rf>manual</src.rf>

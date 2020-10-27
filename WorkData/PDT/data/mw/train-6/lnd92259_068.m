@@ -67,7 +67,7 @@
 <LM>w#w-lnd92259-068-p1s1w7</LM>
 </w.rf>
 <form>ČLENŮ</form>
-<tag lemma="člen" src="orig" selected="1">NNMP2-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-lnd92259-068-p1s1w8">
 <src.rf>manual</src.rf>
@@ -3446,7 +3446,7 @@
 <LM>w#w-lnd92259-068-p9s1w19</LM>
 </w.rf>
 <form>O</form>
-<tag lemma="O-2_;Y_^(v_irských_jménech,_př._O'Connor)" src="orig" selected="1">NNXXX-----A----</tag>
+<tag lemma="O-77" src="orig" selected="1">F%-------------</tag>
 </m>
 <m id="m-lnd92259-068-p9s1w20">
 <src.rf>manual</src.rf>

@@ -626,7 +626,7 @@
 </w.rf>
 <form>Roche</form>
 <tag>
-<AM lemma="Roche_;m" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Roche-2_;m" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="Roche_;Y" src="auto">NNMP4-----A---1</AM>
 <AM lemma="Roche_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Roche_;Y" src="auto">NNMS1-----A---1</AM>

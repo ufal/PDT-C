@@ -3923,7 +3923,7 @@
 <form>Erskine</form>
 <tag>
 <AM lemma="Erskin_;Y" src="auto">NNMS5-----A----</AM>
-<AM lemma="Erskine_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Erskine-2_;G" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="Erskine_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Erskine_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Erskine_;Y" src="auto">NNMXX-----A----</AM>

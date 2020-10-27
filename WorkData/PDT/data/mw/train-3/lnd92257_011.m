@@ -95,7 +95,7 @@
 <LM>w#w-lnd92257-011-p2s1w1</LM>
 </w.rf>
 <form>Zastavte</form>
-<tag lemma="zastavit-1_^([také_z._se];_uvést_do_klidu:_auto,...)" src="orig" selected="1">Vi-P---2--A-P--</tag>
+<tag lemma="zastavit_^(uvést_do_klidu;;zástavní_právo)" src="orig" selected="1">Vi-P---2--A-P--</tag>
 </m>
 <m id="m-lnd92257-011-p2s1w2">
 <src.rf>manual</src.rf>

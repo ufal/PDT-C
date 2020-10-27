@@ -1344,7 +1344,7 @@
 <LM>w#w-mf920902-097-p1s8w9</LM>
 </w.rf>
 <form>SRN</form>
-<tag lemma="SRN_;G" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="SRN-88" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf920902-097-p1s8w10">
 <src.rf>manual</src.rf>

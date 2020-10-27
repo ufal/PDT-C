@@ -4129,7 +4129,7 @@
 <AM lemma="malý" src="auto">AANS1----1A----</AM>
 <AM lemma="malý" src="auto">AANS4----1A----</AM>
 <AM lemma="malý" src="auto">AANS5----1A----</AM>
-<AM lemma="malá-2_,h" src="manual" selected="1">NNFS3-----A----</AM>
+<AM lemma="malý" src="manual" selected="1">AAFS3----1A----</AM>
 </tag>
 </m>
 <m id="m043-d1t641-8">

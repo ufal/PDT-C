@@ -3378,7 +3378,7 @@
 <LM>w#w-ln95041-034-p4s5w2</LM>
 </w.rf>
 <form>neúčasti</form>
-<tag lemma="neúčast" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="účast" src="orig" selected="1">NNFS6-----N----</tag>
 </m>
 <m id="m-ln95041-034-p4s5w3">
 <src.rf>manual</src.rf>
@@ -3388,7 +3388,7 @@
 <form>Kozla</form>
 <tag>
 <AM lemma="kozel" src="orig">NNMS2-----A----</AM>
-<AM lemma="Kozel-2_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Kozel-1_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-034-p4s5w4">
@@ -3806,7 +3806,7 @@
 <LM>w#w-ln95041-034-p4s7w19</LM>
 </w.rf>
 <form>neúčasti</form>
-<tag lemma="neúčast" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="účast" src="orig" selected="1">NNFS2-----N----</tag>
 </m>
 <m id="m-ln95041-034-p4s7w20">
 <src.rf>manual</src.rf>

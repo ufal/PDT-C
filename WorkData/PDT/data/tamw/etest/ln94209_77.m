@@ -1834,7 +1834,7 @@
 <LM>w#w-ln94209-77-p4s5w20</LM>
 </w.rf>
 <form>správní</form>
-<tag lemma="správný_^(podle_něj._měřítek;_př._chlap,_míra,...)" src="orig" selected="1">AAMP1----1A----</tag>
+<tag lemma="správný" src="orig" selected="1">AAMP1----1A----</tag>
 </m>
 <m id="m-ln94209-77-p4s5w21">
 <src.rf>manual</src.rf>

@@ -4711,7 +4711,7 @@
 <AM lemma="Hudson_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="hudson_^(dopravní_prostředek)" src="auto">NNIS1-----A----</AM>
 <AM lemma="hudson_^(dopravní_prostředek)" src="auto">NNIS4-----A----</AM>
-<AM lemma="Hudson-1_;G" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Hudson-2_;G" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0758-001-p1s13W9-Ta">
@@ -13946,7 +13946,7 @@
 </w.rf>
 <form>Nechte</form>
 <tag>
-<AM lemma="nechat" src="auto" recommended="1">Vi-P---2--A-I--</AM>
+<AM lemma="nechat" src="auto" recommended="1">Vi-P---2--A-P-1</AM>
 <AM lemma="nechat" src="auto">Vi-P---3--A-I-4</AM>
 </tag>
 </m>

@@ -1143,7 +1143,7 @@
 <LM>w#w-vesm9301-007-p5s2Bw12</LM>
 </w.rf>
 <form>UK</form>
-<tag lemma="UK-3_;m_^(Univerzita_Komenského_Bratislava)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="UK-3_;m_^(Univerzita_Komenského_Bratislava)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-vesm9301-007-p5s2Bw13">
 <src.rf>manual</src.rf>
@@ -1237,7 +1237,7 @@
 <LM>w#w-vesm9301-007-p5s3w8</LM>
 </w.rf>
 <form>ALFA</form>
-<tag lemma="Alfa_;m_^(vozidlo)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Alfa_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-vesm9301-007-p5s3w9">
 <src.rf>manual</src.rf>

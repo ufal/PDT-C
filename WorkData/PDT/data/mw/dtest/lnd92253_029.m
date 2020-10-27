@@ -458,7 +458,7 @@
 <LM>w#w-lnd92253-029-p2s4w15</LM>
 </w.rf>
 <form>neúčastí</form>
-<tag lemma="neúčast" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="účast" src="orig" selected="1">NNFS7-----N----</tag>
 </m>
 <m id="m-lnd92253-029-p2s4w16">
 <src.rf>manual</src.rf>

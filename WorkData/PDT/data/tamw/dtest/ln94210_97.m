@@ -3874,7 +3874,7 @@
 <form>Victoria</form>
 <tag>
 <AM lemma="Viktoria-1_;Y" src="orig">NNFS1-----A---1</AM>
-<AM lemma="Victoria-1_;Y" src="auto" recommended="1" selected="1">NNFS1-----A---1</AM>
+<AM lemma="Victoria_;G_;Y_;m_,s_^(^DD**Viktoria)" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-97-p5s6w3">

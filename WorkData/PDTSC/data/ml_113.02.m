@@ -5063,7 +5063,7 @@
 <AM lemma="Viktoria-1_;Y_^(ženské_jméno)" src="auto">NNFS4-----A----</AM>
 <AM lemma="Viktoria-1_;Y_^(ženské_jméno)" src="auto">NNFS6-----A----</AM>
 <AM lemma="Viktoria-2_;m_^(jméno_sport.klubu)" src="auto">NNFS3-----A----</AM>
-<AM lemma="Viktoria-2_;m_^(jméno_sport.klubu)" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="Viktoria_;Y_;m" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="Viktoria-2_;m_^(jméno_sport.klubu)" src="auto">NNFS6-----A----</AM>
 <AM lemma="Viktorie_;Y" src="auto">NNFS3-----A----</AM>
 <AM lemma="Viktorie_;Y" src="auto">NNFS4-----A----</AM>

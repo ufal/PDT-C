@@ -43,7 +43,7 @@
 <LM>w#w-ln95045-038-p1s1w4</LM>
 </w.rf>
 <form>ND</form>
-<tag lemma="ND_;m_^(Nár._divadlo)" src="orig" selected="1">NNNXX-----A---b</tag>
+<tag lemma="ND-88" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln95045-038-p1s1w5">
 <src.rf>manual</src.rf>
@@ -173,7 +173,7 @@
 <LM>w#w-ln95045-038-p2s1w13</LM>
 </w.rf>
 <form>Pavlu</form>
-<tag lemma="Pavel-1_;Y" src="orig" selected="1">NNMS3-----A---1</tag>
+<tag lemma="Pavel_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95045-038-p2s1w14">
 <src.rf>manual</src.rf>

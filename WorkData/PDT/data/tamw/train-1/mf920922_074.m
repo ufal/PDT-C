@@ -428,7 +428,7 @@
 <LM>w#w-mf920922-074-p2s4w4</LM>
 </w.rf>
 <form>Fortuny</form>
-<tag lemma="Fortuna_;m" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Fortuna_;Y_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920922-074-p2s4w5">
 <src.rf>manual</src.rf>
@@ -1296,7 +1296,7 @@
 <LM>w#w-mf920922-074-p2s8w9</LM>
 </w.rf>
 <form>Fortuny</form>
-<tag lemma="Fortuna_;m" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Fortuna_;Y_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920922-074-p2s8w10">
 <src.rf>manual</src.rf>

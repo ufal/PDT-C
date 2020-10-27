@@ -3376,7 +3376,7 @@
 <tag>
 <AM lemma="export" src="auto">NNIS2-----A----</AM>
 <AM lemma="export" src="auto">NNIS3-----A----</AM>
-<AM lemma="export" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="export" src="auto" recommended="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-wsj2400-001-p1s11W3-Ta">

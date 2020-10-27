@@ -4604,7 +4604,7 @@
 <form>Traudl</form>
 <tag>
 <AM lemma="Traudl_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Traudl-2_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Traudl-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m795-d1t1052-1">

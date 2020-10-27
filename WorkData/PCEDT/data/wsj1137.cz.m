@@ -14210,7 +14210,7 @@
 <AM lemma="pod-1_:B" src="auto">RR--7---------8</AM>
 <AM lemma="podnik_:B" src="auto">NNIXX-----A---8</AM>
 <AM lemma="popisný_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
-<AM lemma="paní" src="manual" selected="1">NNFXX-----A---b</AM>
+<AM lemma="p-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1137-001-p1s43W4-Ta">

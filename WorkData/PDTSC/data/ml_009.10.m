@@ -1965,7 +1965,7 @@
 </w.rf>
 <form>Zuzka</form>
 <tag>
-<AM lemma="Zuzka_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Zuzka-1_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Zuzka_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="zuzka_,h" src="auto">NNFS1-----A----</AM>
 </tag>

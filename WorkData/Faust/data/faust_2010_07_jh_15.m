@@ -4863,7 +4863,7 @@
 <AM lemma="padlý_^(*2nout)">AAMP6----1A----</AM>
 <AM lemma="padlý_^(*2nout)">AANP2----1A----</AM>
 <AM lemma="padlý_^(*2nout)">AANP6----1A----</AM>
-<AM lemma="padlý-2" src="manual" selected="1">NNMP2-----A----</AM>
+<AM lemma="padlý_^(*2nout)" src="manual" selected="1">AAMP2----1A----</AM>
 </tag>
 </m>
 </s>

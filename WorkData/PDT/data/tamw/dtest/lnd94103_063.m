@@ -579,7 +579,7 @@
 <form>váže</form>
 <tag>
 <AM lemma="vázat_^(např._provazem;_se_k_čemu)" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="vázat_^(např._provazem;_se_k_čemu)" src="manual" selected="1">VB-S---3P-AAI--</AM>
+<AM lemma="vázat" src="manual" selected="1">VB-S---3P-AAI-1</AM>
 </tag>
 </m>
 <m id="m-lnd94103-063-p1s2w10">
@@ -4347,7 +4347,7 @@
 <LM>w#w-lnd94103-063-p1s25w43</LM>
 </w.rf>
 <form>holocaustu</form>
-<tag lemma="holocaust" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="holocaust_,s_^(^DD**holokaust)" src="orig" selected="1">NNIS6-----A---1</tag>
 </m>
 <m id="m-lnd94103-063-p1s25w44">
 <src.rf>manual</src.rf>

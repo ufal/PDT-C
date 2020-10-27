@@ -6373,7 +6373,7 @@
 </w.rf>
 <form>nezbytného</form>
 <tag>
-<AM lemma="nezbytný" src="auto" recommended="1">AAIS2----1A----</AM>
+<AM lemma="zbytný" src="auto" recommended="1">AAIS2----1N----</AM>
 <AM lemma="nezbytný" src="auto">AAMS2----1A----</AM>
 <AM lemma="nezbytný" src="auto">AAMS4----1A----</AM>
 <AM lemma="nezbytný" src="auto">AANS2----1A----</AM>

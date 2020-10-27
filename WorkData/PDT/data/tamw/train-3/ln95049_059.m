@@ -1266,7 +1266,7 @@
 <LM>w#w-ln95049-059-p5s1w1</LM>
 </w.rf>
 <form>Vítězové</form>
-<tag lemma="vítěz" src="orig" selected="1">NNMP1-----A---1</tag>
+<tag lemma="vítěz" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln95049-059-p5s1w2">
 <src.rf>manual</src.rf>
@@ -1811,7 +1811,7 @@
 <LM>w#w-ln95049-059-p5s4w21</LM>
 </w.rf>
 <form>Sophii</form>
-<tag lemma="Sofie-2_;Y" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="Sophia_;Y_,s_^(^DD**Sofie)" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-ln95049-059-p5s4w22">
 <src.rf>manual</src.rf>

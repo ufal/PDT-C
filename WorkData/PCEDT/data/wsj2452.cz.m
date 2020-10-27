@@ -910,7 +910,7 @@
 <AM lemma="obvinění_^(*3it)" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="obvinění_^(*3it)" src="auto">NNNS5-----A----</AM>
 <AM lemma="obvinění_^(*3it)" src="auto">NNNS6-----A----</AM>
-<AM lemma="obviněný-2" src="manual" selected="1">NNMP1-----A----</AM>
+<AM lemma="obviněný_^(*3it)" src="manual" selected="1">AAMP1----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj2452-001-p1s3W2-Ta">
@@ -1747,7 +1747,7 @@
 <AM lemma="obviněný_^(*3it)" src="auto">AAMP6----1A----</AM>
 <AM lemma="obviněný_^(*3it)" src="auto" recommended="1">AANP2----1A----</AM>
 <AM lemma="obviněný_^(*3it)" src="auto">AANP6----1A----</AM>
-<AM lemma="obviněný-2" src="manual" selected="1">NNMP2-----A----</AM>
+<AM lemma="obviněný_^(*3it)" src="manual" selected="1">AAMP2----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj2452-001-p1s6W4-Ta">

@@ -4419,7 +4419,7 @@
 <AM lemma="malý" src="auto">AAMS2----1A----</AM>
 <AM lemma="malý" src="auto" recommended="1">AAMS4----1A----</AM>
 <AM lemma="malý" src="auto">AANS2----1A----</AM>
-<AM lemma="malý-2_,h" src="manual" selected="1">NNMS4-----A----</AM>
+<AM lemma="malý" src="manual" selected="1">AAMS4----1A----</AM>
 </tag>
 </m>
 <m id="m141-d-id163542-punct">
@@ -4696,7 +4696,7 @@
 <AM lemma="malý" src="auto">AANP3----1A----</AM>
 <AM lemma="malý" src="auto">AANS6----1A---7</AM>
 <AM lemma="malý" src="auto" recommended="1">AANS7----1A----</AM>
-<AM lemma="malý-2_,h" src="manual" selected="1">NNMS7-----A----</AM>
+<AM lemma="malý" src="manual" selected="1">AAMS7----1A----</AM>
 </tag>
 </m>
 <m id="m141-d-m-d1e1443-x4-punct-punct">

@@ -1473,7 +1473,7 @@
 <AM lemma="Skopje_;G" src="auto">NNFS1-----A----</AM>
 <AM lemma="Skopje_;G" src="auto">NNFS2-----A----</AM>
 <AM lemma="Skopje_;G" src="auto">NNFS5-----A----</AM>
-<AM lemma="Skopje_;G" src="manual" selected="1">NNFS6-----A----</AM>
+<AM lemma="Skopje_;G" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-072-p5s1w22">

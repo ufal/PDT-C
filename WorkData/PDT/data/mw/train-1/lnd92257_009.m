@@ -1233,7 +1233,7 @@
 <LM>w#w-lnd92257-009-p3s2w18</LM>
 </w.rf>
 <form>desetitisících</form>
-<tag lemma="desetitisíc" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="desetitisíc`10000" src="orig" selected="1">CzIP6----------</tag>
 </m>
 <m id="m-lnd92257-009-p3s2w19">
 <src.rf>manual</src.rf>

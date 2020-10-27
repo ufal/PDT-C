@@ -206,7 +206,7 @@
 </w.rf>
 <form>slabozrací</form>
 <tag>
-<AM lemma="slabozraký-2" src="orig" selected="1">NNMP1-----A----</AM>
+<AM lemma="slabozraký" src="orig" selected="1">AAMP1----1A----</AM>
 <AM lemma="slabozraký" src="auto" recommended="1">AAMP1----1A----</AM>
 <AM lemma="slabozraký" src="auto">AAMP5----1A----</AM>
 </tag>

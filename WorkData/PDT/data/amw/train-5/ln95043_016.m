@@ -342,7 +342,7 @@
 <LM>w#w-ln95043-016-p3s1Bw21</LM>
 </w.rf>
 <form>Pavlu</form>
-<tag lemma="Pavel-1_;Y" src="orig" selected="1">NNMS3-----A---1</tag>
+<tag lemma="Pavel_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln95043-016-p3s1Bw22">
 <src.rf>manual</src.rf>
@@ -3030,7 +3030,7 @@
 <LM>w#w-ln95043-016-p6s5w15</LM>
 </w.rf>
 <form>Cagliari</form>
-<tag lemma="Cagliari_;G" src="auto" selected="1">NNNXX-----A----</tag>
+<tag lemma="Cagliari-2_;G" src="auto" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-ln95043-016-p6s5w16">
 <src.rf>manual</src.rf>

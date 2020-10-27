@@ -1808,7 +1808,7 @@
 <form>Damaškem</form>
 <tag>
 <AM lemma="damašek" src="orig">NNIS7-----A----</AM>
-<AM lemma="Damašek_;G" src="manual" selected="1">NNIS7-----A----</AM>
+<AM lemma="Damašek-1_;G" src="manual" selected="1">NNIS7-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-101-p7s1w5">

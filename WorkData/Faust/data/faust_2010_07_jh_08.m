@@ -2983,7 +2983,7 @@
 <AM lemma="Herkules-4_;m_^(lepidlo)">NNIS1-----A----</AM>
 <AM lemma="Herkules-4_;m_^(lepidlo)">NNIS4-----A----</AM>
 <AM lemma="herkules-2">NNMS1-----A----</AM>
-<AM lemma="Herkules-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Herkules-1_;Y_,s_^(^DD**Hercules-1)" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="jh_08-SCzechM-p0804-s1-w2">

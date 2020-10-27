@@ -1301,7 +1301,7 @@
 <form>nerealizace</form>
 <tag>
 <AM lemma="nerealizace" src="orig">NNFS1-----A----</AM>
-<AM lemma="realizace" src="manual" selected="1">NNFS1-----N----</AM>
+<AM lemma="nerealizace" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-8-p3s2w18">

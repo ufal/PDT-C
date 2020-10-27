@@ -326,7 +326,7 @@
 </w.rf>
 <form>Varese</form>
 <tag>
-<AM lemma="Varese_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Varese-2_;G" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="Varese_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Varese_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Varese_;Y" src="auto">NNMXX-----A----</AM>

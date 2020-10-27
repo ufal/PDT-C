@@ -35,7 +35,7 @@
 <LM>w#w-ln94204-54-p1s1w3</LM>
 </w.rf>
 <form>Skubiszewski</form>
-<tag lemma="Skubiszewski_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Skubiszewský_;Y" src="orig" selected="1">NNMS1-----A---1</tag>
 </m>
 </s>
 <s id="m-ln94204-54-p2s1A">

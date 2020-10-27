@@ -766,7 +766,7 @@
 <AM lemma="věřící_^(*3it)" src="auto">AGNS1-----N----</AM>
 <AM lemma="věřící_^(*3it)" src="auto">AGNS4-----N----</AM>
 <AM lemma="věřící_^(*3it)" src="auto">AGNS5-----N----</AM>
-<AM lemma="věřící-2" src="manual" selected="1">NNMP1-----N----</AM>
+<AM lemma="věřící_^(*3it)" src="manual" selected="1">AGMP1-----N----</AM>
 </tag>
 </m>
 <m id="m054-d1t2040-19">

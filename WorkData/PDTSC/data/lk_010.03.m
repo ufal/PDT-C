@@ -2520,7 +2520,7 @@
 <AM lemma="ostatní" src="auto">AANS1----1A----</AM>
 <AM lemma="ostatní" src="auto">AANS4----1A----</AM>
 <AM lemma="ostatní" src="auto">AANS5----1A----</AM>
-<AM lemma="ostatní-3" src="manual" selected="1">NNMP1-----A----</AM>
+<AM lemma="ostatní" src="manual" selected="1">AAMP1----1A----</AM>
 </tag>
 </m>
 <m id="m010-d1t1327-2">
@@ -2620,7 +2620,7 @@
 <AM lemma="ostatní" src="auto" recommended="1">AANS1----1A----</AM>
 <AM lemma="ostatní" src="auto">AANS4----1A----</AM>
 <AM lemma="ostatní" src="auto">AANS5----1A----</AM>
-<AM lemma="ostatní-3" src="manual" selected="1">NNMP1-----A----</AM>
+<AM lemma="ostatní" src="manual" selected="1">AAMP1----1A----</AM>
 </tag>
 </m>
 <m id="m010-d1t1331-2">

@@ -606,7 +606,7 @@
 <AM lemma="sika_^(jelen)" src="auto">NNFS6-----A----</AM>
 <AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="auto">J^-------------</AM>
 <AM lemma="sice-2" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J,-------------</AM>
+<AM lemma="sice-1_^(spojka;_připouští_se_určitá_fakta)" src="manual" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m142-d1t272-9">

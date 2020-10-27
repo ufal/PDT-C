@@ -4067,7 +4067,7 @@
 </w.rf>
 <form>Rolls</form>
 <tag>
-<AM lemma="Rolls_;m_^(vozidlo)" src="auto" recommended="1">NNIXX-----A----</AM>
+<AM lemma="Rolls-1_;m_^(vozidlo)" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="rolls_;m_^(vozidlo)" src="auto">NNIXX-----A----</AM>
 </tag>
 </m>

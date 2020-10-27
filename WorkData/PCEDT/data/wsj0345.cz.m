@@ -5304,7 +5304,7 @@
 <AM lemma="nestabilita" src="auto">NNFP4-----A----</AM>
 <AM lemma="nestabilita" src="auto">NNFP5-----A----</AM>
 <AM lemma="nestabilita" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="stabilita" src="manual" selected="1">NNFS2-----N----</AM>
+<AM lemma="nestabilita" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0345-001-p1s14W3-Ta">

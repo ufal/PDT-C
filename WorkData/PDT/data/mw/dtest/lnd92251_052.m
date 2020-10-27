@@ -237,7 +237,7 @@
 <LM>w#w-lnd92251-052-p2s2w19</LM>
 </w.rf>
 <form>de</form>
-<tag lemma="de_^(z_franc._de,_zejm._ve_jménech)" src="orig" selected="1">RR--1----------</tag>
+<tag lemma="de-77" src="orig" selected="1">F%-------------</tag>
 </m>
 <m id="m-lnd92251-052-p2s2w20">
 <src.rf>manual</src.rf>

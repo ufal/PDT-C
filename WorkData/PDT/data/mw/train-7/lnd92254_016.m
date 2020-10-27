@@ -51,7 +51,7 @@
 <AM lemma="flóra_,x" src="auto">NNFP4-----A----</AM>
 <AM lemma="flóra_,x" src="auto">NNFP5-----A----</AM>
 <AM lemma="flóra_,x" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Flora_;m" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="Flora_;Y_;m" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-016-p1s1w5">

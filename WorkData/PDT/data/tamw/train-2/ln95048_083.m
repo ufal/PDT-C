@@ -284,7 +284,7 @@
 <LM>w#w-ln95048-083-p2s1Cw20</LM>
 </w.rf>
 <form>Unionu</form>
-<tag lemma="Union" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Union_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95048-083-p2s1Cw21">
 <src.rf>manual</src.rf>
@@ -2011,7 +2011,7 @@
 <LM>w#w-ln95048-083-p7s1w3</LM>
 </w.rf>
 <form>Unionu</form>
-<tag lemma="Union" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Union_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95048-083-p7s1w4">
 <src.rf>manual</src.rf>

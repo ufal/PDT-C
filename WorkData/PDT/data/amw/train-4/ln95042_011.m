@@ -4669,7 +4669,7 @@
 <AM lemma="Monterey_;G" src="auto">NNIP5-----A----</AM>
 <AM lemma="Monterey_;G" src="auto">NNIP7-----A----</AM>
 <AM lemma="Monterey-77" src="manual">F%-------------</AM>
-<AM lemma="Monterey_;G" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="Monterey_;G" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-011-p6s4w23">

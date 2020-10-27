@@ -2251,7 +2251,7 @@
 <form>radia</form>
 <tag>
 <AM lemma="rádium" src="orig">NNNS2-----A----</AM>
-<AM lemma="radio_,s_^(^DD**rádio)" src="manual" selected="1">NNNS2-----A----</AM>
+<AM lemma="radio-1_,s_^(^DD**rádio)" src="manual" selected="1">NNNS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-069-p47s1w5">
@@ -2609,7 +2609,7 @@
 <form>radia</form>
 <tag>
 <AM lemma="rádio_,a" src="orig">NNNS2-----A----</AM>
-<AM lemma="radio_,s_^(^DD**rádio)" src="manual" selected="1">NNNS2-----A----</AM>
+<AM lemma="radio-1_,s_^(^DD**rádio)" src="manual" selected="1">NNNS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-069-p56s1w6">
@@ -2898,7 +2898,7 @@
 <form>radia</form>
 <tag>
 <AM lemma="rádium" src="orig">NNNS2-----A----</AM>
-<AM lemma="radio_,s_^(^DD**rádio)" src="manual" selected="1">NNNS2-----A----</AM>
+<AM lemma="radio-1_,s_^(^DD**rádio)" src="manual" selected="1">NNNS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-069-p62s1w5">
@@ -3286,7 +3286,7 @@
 <form>radia</form>
 <tag>
 <AM lemma="rádium" src="orig">NNNS2-----A----</AM>
-<AM lemma="radio_,s_^(^DD**rádio)" src="manual" selected="1">NNNS2-----A----</AM>
+<AM lemma="radio-1_,s_^(^DD**rádio)" src="manual" selected="1">NNNS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-069-p68s1w7">

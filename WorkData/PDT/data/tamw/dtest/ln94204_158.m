@@ -334,7 +334,7 @@
 <AM lemma="Felicie_;Y" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="Felicie_;Y" src="auto">NNFS6-----A----</AM>
 <AM lemma="felicia_;m_^(vozidlo)" src="auto">NNFS3-----A----</AM>
-<AM lemma="felicia_;m_^(vozidlo)" src="auto" selected="1">NNFS4-----A----</AM>
+<AM lemma="Felicie_;Y_;m" src="auto" selected="1">NNFS4-----A----</AM>
 <AM lemma="felicia_;m_^(vozidlo)" src="auto">NNFS6-----A----</AM>
 <AM lemma="felicie" src="auto">NNFS3-----A----</AM>
 <AM lemma="felicie" src="auto">NNFS4-----A----</AM>

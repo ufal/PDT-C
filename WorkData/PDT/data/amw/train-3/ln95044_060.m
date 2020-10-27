@@ -360,7 +360,7 @@
 <LM>w#w-ln95044-060-p2s1w37</LM>
 </w.rf>
 <form>statisíce</form>
-<tag lemma="stotisíc`100000" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="statisíc`100000" src="orig" selected="1">CzIP1----------</tag>
 </m>
 <m id="m-ln95044-060-p2s1w38">
 <src.rf>manual</src.rf>
@@ -2493,7 +2493,7 @@
 <LM>w#w-ln95044-060-p6s1w17</LM>
 </w.rf>
 <form>desetitisíce</form>
-<tag lemma="desetitisíc" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="desetitisíc`10000" src="orig" selected="1">CzIP1----------</tag>
 </m>
 <m id="m-ln95044-060-p6s1w18">
 <src.rf>manual</src.rf>

@@ -719,7 +719,7 @@
 <form>mladiství</form>
 <tag>
 <AM lemma="mladistvý" src="orig">AAMP1----1A----</AM>
-<AM lemma="mladistvý" src="manual" selected="1">NNMP1-----A----</AM>
+<AM lemma="mladistvý" src="manual" selected="1">AAMP1----1A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-48-p3s2w9">

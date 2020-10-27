@@ -2140,7 +2140,7 @@
 </w.rf>
 <form>Br</form>
 <tag>
-<AM lemma="Bratislava_;G" src="orig" selected="1">NNFXX-----A---b</AM>
+<AM lemma="Br-88" src="orig" selected="1">BNXXX-----A----</AM>
 <AM lemma="Br-4_:B_;U_^(bromum,_brom)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="Britain_:B_;G_,t_^(Britain,_Británie)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="British_:B_;m_,t_^(British,_britský)" src="auto">AAXXX----1A---8</AM>
@@ -2520,7 +2520,7 @@
 <AM lemma="Británie_:B_;m" src="auto">NNFXX-----A---8</AM>
 <AM lemma="br-1_:B_,t_^(brand,_obchodní_značka,_známka,_jakost,...)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="br-7_:B_,t_^(bills_receivable,_směnečné_pohledávky)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="Bratislava_;G" src="manual" selected="1">NNFXX-----A---b</AM>
+<AM lemma="Br-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-092-p18s1w5">

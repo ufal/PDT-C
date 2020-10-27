@@ -840,7 +840,7 @@
 <LM>w#w-lnd94101-014-p1s6w25</LM>
 </w.rf>
 <form>Mostecku</form>
-<tag lemma="mostecko_;G" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="Mostecko_;G" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-lnd94101-014-p1s6w26">
 <src.rf>manual</src.rf>

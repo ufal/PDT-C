@@ -942,7 +942,7 @@
 <AM lemma="Marinos_;G" src="auto">NNMS4-----A----</AM>
 <AM lemma="marina" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Marina_;G" src="manual">NNFS1-----A----</AM>
-<AM lemma="Marina_;G_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Marina_;G_;Y_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0981-001-p1s1W31-Ta">

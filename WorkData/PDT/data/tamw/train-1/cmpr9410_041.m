@@ -1997,7 +1997,7 @@
 <LM>w#w-cmpr9410-041-p9s1w2</LM>
 </w.rf>
 <form>Stála</form>
-<tag lemma="stát-4_^(něco_stojí_peníze)" src="orig" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-cmpr9410-041-p9s1w3">
 <src.rf>manual</src.rf>

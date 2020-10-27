@@ -2024,7 +2024,7 @@
 <AM lemma="nezbytný" src="auto">AAFP1----1A----</AM>
 <AM lemma="nezbytný" src="auto">AAFP4----1A----</AM>
 <AM lemma="nezbytný" src="auto">AAFP5----1A----</AM>
-<AM lemma="nezbytný" src="auto" selected="1">AAFS2----1A----</AM>
+<AM lemma="zbytný" src="auto" selected="1">AAFS2----1N----</AM>
 <AM lemma="nezbytný" src="auto">AAFS3----1A----</AM>
 <AM lemma="nezbytný" src="auto">AAFS6----1A----</AM>
 <AM lemma="nezbytný" src="auto">AAIP1----1A----</AM>
@@ -8771,7 +8771,7 @@
 <AM lemma="nesouhlas" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="souhlasit" src="auto">Vi-S---2--N-I--</AM>
 <AM lemma="souhlasit" src="auto">Vi-S---3--N-I-4</AM>
-<AM lemma="souhlas" src="manual" selected="1">NNIS4-----N----</AM>
+<AM lemma="nesouhlas" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1044-001-p1s29W6-Ta">
@@ -9432,7 +9432,7 @@
 <form>Nikaragui</form>
 <tag>
 <AM lemma="Nikaragua_;G" src="auto">NNFS2-----A---2</AM>
-<AM lemma="Nikaragua_;G" src="auto" recommended="1">NNFS3-----A---2</AM>
+<AM lemma="Nikaragua_;G" src="auto" recommended="1">NNFS3-----A---3</AM>
 </tag>
 </m>
 <m id="m-wsj1044-001-p1s31W11-Ta">

@@ -32,7 +32,7 @@
 <AM lemma="Mitsubishi_;m" src="auto" recommended="1">NNXXX-----A---6</AM>
 <AM lemma="mitsubishi_;m_^(vozidlo)" src="auto">NNXXX-----A---6</AM>
 <AM lemma="Micubiši_;m_,i_^(^DS**Mitsubishi)" src="manual">NNXXX-----A----</AM>
-<AM lemma="Micubiši_;m_,i_^(^DS**Mitsubishi)" src="manual" selected="1">NNXXX-----A---6</AM>
+<AM lemma="Micubiši_;m_,s_^(^DD**Mitsubishi)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -258,7 +258,7 @@
 <AM lemma="Mitsubishi_;m" src="auto" recommended="1">NNXXX-----A---6</AM>
 <AM lemma="mitsubishi_;m_^(vozidlo)" src="auto">NNXXX-----A---6</AM>
 <AM lemma="Micubiši_;m_,i_^(^DS**Mitsubishi)" src="manual">NNXXX-----A----</AM>
-<AM lemma="Micubiši_;m_,i_^(^DS**Mitsubishi)" src="manual" selected="1">NNXXX-----A---6</AM>
+<AM lemma="Micubiši_;m_,s_^(^DD**Mitsubishi)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-084-p3s1w25">

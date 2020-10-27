@@ -254,7 +254,7 @@
 <LM>w#w-mf920924-067-p1s2w11</LM>
 </w.rf>
 <form>Ladě</form>
-<tag lemma="Lada-1_;m_^(vozidlo)" src="auto" selected="1">NNFS3-----A----</tag>
+<tag lemma="Lada_;Y_;m" src="auto" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-mf920924-067-p1s2w12">
 <src.rf>manual</src.rf>

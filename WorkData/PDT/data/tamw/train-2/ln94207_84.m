@@ -9561,7 +9561,7 @@
 <LM>w#w-ln94207-84-p12s6w5</LM>
 </w.rf>
 <form>pozdější</form>
-<tag lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="orig" selected="1">AAFS6----2A----</tag>
+<tag lemma="pozdější" src="orig" selected="1">AAFS6----1A----</tag>
 </m>
 <m id="m-ln94207-84-p12s6w6">
 <src.rf>manual</src.rf>

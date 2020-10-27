@@ -3015,7 +3015,7 @@
 <LM>w#w-ln95047-039-p7s1w25</LM>
 </w.rf>
 <form>Tomáška</form>
-<tag lemma="Tomášek-1_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Tomášek_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95047-039-p7s1w26">
 <src.rf>manual</src.rf>

@@ -4859,7 +4859,7 @@
 <AM lemma="svit" src="auto">NNIS3-----A----</AM>
 <AM lemma="svit" src="auto">NNIS6-----A---1</AM>
 <AM lemma="svita" src="auto">NNFS4-----A----</AM>
-<AM lemma="Svit_;m" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Svit_;G_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m007-5145-5158">
@@ -4941,7 +4941,7 @@
 <AM lemma="svit" src="auto">NNIS3-----A----</AM>
 <AM lemma="svit" src="auto">NNIS6-----A---1</AM>
 <AM lemma="svita" src="auto">NNFS4-----A----</AM>
-<AM lemma="Svit_;m" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Svit_;G_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m007-d1t1609-5">

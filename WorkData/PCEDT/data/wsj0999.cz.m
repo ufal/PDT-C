@@ -9115,7 +9115,7 @@
 <form>hraběte</form>
 <tag>
 <AM lemma="hrabě" src="auto">NNMS2-----A----</AM>
-<AM lemma="hrabě" src="auto" recommended="1">NNMS4-----A----</AM>
+<AM lemma="hrabě-2" src="auto" recommended="1">NNMS4-----A---1</AM>
 </tag>
 </m>
 <m id="m-wsj0999-001-p1s35W33-Ta">

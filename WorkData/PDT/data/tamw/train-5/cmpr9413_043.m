@@ -197,7 +197,7 @@
 <AM lemma="spolkový_:B" src="orig">AAXXX----1A---8</AM>
 <AM lemma="společenský_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="společnost_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="spolkový" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="spol-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-043-p6s1w5">
@@ -311,7 +311,7 @@
 <AM lemma="spolkový_:B" src="orig">NNFXX-----A---8</AM>
 <AM lemma="společenský_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="společnost_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="spolkový" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="spol-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-043-p11s1w5">

@@ -1749,7 +1749,7 @@
 <LM>w#w-lnd92253-021-p5s3w4</LM>
 </w.rf>
 <form>pavilonu</form>
-<tag lemma="pavilon" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="pavilon_,s_^(^DD**pavilón)" src="orig" selected="1">NNIS6-----A---1</tag>
 </m>
 <m id="m-lnd92253-021-p5s3w5">
 <src.rf>manual</src.rf>
@@ -2264,7 +2264,7 @@
 <LM>w#w-lnd92253-021-p6s2w8</LM>
 </w.rf>
 <form>software</form>
-<tag lemma="software" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="software" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-lnd92253-021-p6s2w9">
 <src.rf>manual</src.rf>
@@ -2528,7 +2528,7 @@
 <LM>w#w-lnd92253-021-p6s3w15</LM>
 </w.rf>
 <form>hardware</form>
-<tag lemma="hardware" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="hardware" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-lnd92253-021-p6s3w16">
 <src.rf>manual</src.rf>
@@ -5112,7 +5112,7 @@
 <LM>w#w-lnd92253-021-p8s5w9</LM>
 </w.rf>
 <form>hardware</form>
-<tag lemma="hardware" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="hardware" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-lnd92253-021-p8s5w10">
 <src.rf>manual</src.rf>

@@ -587,7 +587,7 @@
 <form>Kan</form>
 <tag>
 <AM lemma="Kano_;G" src="orig">NNNP2-----A----</AM>
-<AM lemma="Kanada_;G" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="Kanada_;G_;m" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd94101-989-p1s11Bw6">

@@ -5058,7 +5058,7 @@
 <AM lemma="Marinos_;G" src="auto">NNMS2-----A----</AM>
 <AM lemma="Marinos_;G" src="auto">NNMS4-----A----</AM>
 <AM lemma="marina" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Marina_;G_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Marina_;G_;Y_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1778-001-p1s34W8-Ta">
@@ -7580,7 +7580,7 @@
 <AM lemma="Marinos_;G" src="auto">NNMS2-----A----</AM>
 <AM lemma="Marinos_;G" src="auto">NNMS4-----A----</AM>
 <AM lemma="marina" src="auto">NNFS1-----A----</AM>
-<AM lemma="Marina_;G_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Marina_;G_;Y_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1778-001-p1s56W13-Ta">
@@ -17749,7 +17749,7 @@
 <AM lemma="panda-1_^(medvěd)" src="auto">NNMS1-----A----</AM>
 <AM lemma="panda-2_;m_^(vozidlo;i_medvěd)" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="PANDA-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="Panda-3_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Panda-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1778-001-p1s135W2-Ta">

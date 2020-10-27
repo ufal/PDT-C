@@ -683,7 +683,7 @@
 <AM lemma="Mars_;G" src="orig">NNIS2-----A---1</AM>
 <AM lemma="Mars-2_;m_^(planeta;;kosmická_sonda)" src="auto" recommended="1">NNIS5-----A----</AM>
 <AM lemma="mars" src="auto">NNIS5-----A----</AM>
-<AM lemma="Mars-2_;m_^(planeta;;kosmická_sonda)" src="manual" selected="1">NNIS2-----A---2</AM>
+<AM lemma="Mars-2_;G_;m_^(planeta;;kosmická_sonda)" src="manual" selected="1">NNIS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-vesm9301-019-p4s4w22">

@@ -1240,7 +1240,7 @@
 <form>Vol</form>
 <tag>
 <AM lemma="volume_:B_,t_^(u_publikací)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="volume_^(u_publikací)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="Vol-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-036-p2s5w12">
@@ -1275,7 +1275,7 @@
 <form>No</form>
 <tag>
 <AM lemma="number_:B_,t_^(number,_číslo)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="number_^(number,_číslo)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="No-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9212-036-p2s5w16">

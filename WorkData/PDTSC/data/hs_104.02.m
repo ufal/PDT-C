@@ -4393,7 +4393,7 @@
 <tag>
 <AM lemma="posvícenský" src="auto" recommended="1">AAFS4----1A----</AM>
 <AM lemma="posvícenský" src="auto">AAFS7----1A----</AM>
-<AM lemma="posvícenská" src="manual" selected="1">NNFS4-----A----</AM>
+<AM lemma="posvícenský" src="manual" selected="1">AAFS4----1A----</AM>
 </tag>
 </m>
 <m id="m104-620-621">

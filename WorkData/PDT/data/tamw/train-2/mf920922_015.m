@@ -529,7 +529,7 @@
 <LM>w#w-mf920922-015-p2s3w4</LM>
 </w.rf>
 <form>nezastaví</form>
-<tag lemma="zastavit-1_^([také_z._se];_uvést_do_klidu:_auto,...)" src="orig" selected="1">VB-S---3P-NAP--</tag>
+<tag lemma="zastavit_^(uvést_do_klidu;;zástavní_právo)" src="orig" selected="1">VB-S---3P-NAP--</tag>
 </m>
 <m id="m-mf920922-015-p2s3w5">
 <src.rf>manual</src.rf>

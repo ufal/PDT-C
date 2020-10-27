@@ -388,7 +388,7 @@
 <form>nesouhlas</form>
 <tag>
 <AM lemma="nesouhlas" src="orig">NNIS4-----A----</AM>
-<AM lemma="souhlas" src="manual" selected="1">NNIS4-----N----</AM>
+<AM lemma="nesouhlas" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-068-p2s2w20">
@@ -693,7 +693,7 @@
 <form>Nezájem</form>
 <tag>
 <AM lemma="nezájem" src="orig">NNIS1-----A----</AM>
-<AM lemma="zájem" src="manual" selected="1">NNIS1-----N----</AM>
+<AM lemma="nezájem" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-068-p2s2w57">

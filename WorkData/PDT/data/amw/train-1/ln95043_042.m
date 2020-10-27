@@ -2127,7 +2127,7 @@
 <LM>w#w-ln95043-042-p6s3w11</LM>
 </w.rf>
 <form>pozdějším</form>
-<tag lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="orig" selected="1">AAIS7----2A----</tag>
+<tag lemma="pozdější" src="orig" selected="1">AAIS7----1A----</tag>
 </m>
 <m id="m-ln95043-042-p6s3w12">
 <src.rf>manual</src.rf>

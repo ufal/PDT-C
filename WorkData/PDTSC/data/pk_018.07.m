@@ -1861,7 +1861,7 @@
 <AM lemma="malý" src="auto">AAMS2----1A----</AM>
 <AM lemma="malý" src="auto" recommended="1">AAMS4----1A----</AM>
 <AM lemma="malý" src="auto">AANS2----1A----</AM>
-<AM lemma="malý-2_,h" src="manual" selected="1">NNMS4-----A----</AM>
+<AM lemma="malý" src="manual" selected="1">AAMS4----1A----</AM>
 </tag>
 </m>
 <m id="m018-d-m-d1e1578-x3-punct-punct">
@@ -3194,7 +3194,7 @@
 <AM lemma="malý" src="auto">AANS1----1A---6</AM>
 <AM lemma="malý" src="auto">AANS4----1A---6</AM>
 <AM lemma="malý" src="auto">AANS5----1A---6</AM>
-<AM lemma="malý-2_,h" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="malý" src="manual" selected="1">AAMS1----1A----</AM>
 </tag>
 </m>
 <m id="m018-d1t1650-13">
@@ -4520,7 +4520,7 @@
 <AM lemma="malý" src="auto">AANS1----1A---6</AM>
 <AM lemma="malý" src="auto">AANS4----1A---6</AM>
 <AM lemma="malý" src="auto">AANS5----1A---6</AM>
-<AM lemma="malý-2_,h" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="malý" src="manual" selected="1">AAMS1----1A----</AM>
 </tag>
 </m>
 <m id="m018-d1t1685-16">

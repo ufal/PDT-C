@@ -1296,7 +1296,7 @@
 <LM>w#w-mf930702-126-p5s2w2</LM>
 </w.rf>
 <form>pár</form>
-<tag lemma="pár-1" src="orig" selected="1">ClXP6----------</tag>
+<tag lemma="pár-1" src="orig" selected="1">Ca--X----------</tag>
 </m>
 <m id="m-mf930702-126-p5s2w3">
 <src.rf>manual</src.rf>

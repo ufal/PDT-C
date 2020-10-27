@@ -2499,7 +2499,7 @@
 <LM>w#w-lnd91303-057-p5s3w23</LM>
 </w.rf>
 <form>dr</form>
-<tag lemma="doktor_^(doktor,_akad._titul)" src="orig" selected="1">NNMXX-----A---b</tag>
+<tag lemma="dr_^(doktor,_akad._titul)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd91303-057-p5s3w24">
 <src.rf>manual</src.rf>
@@ -2883,7 +2883,7 @@
 <LM>w#w-lnd91303-057-p5s5w12</LM>
 </w.rf>
 <form>Dr</form>
-<tag lemma="doktor_^(doktor,_akad._titul)" src="orig" selected="1">NNMXX-----A---b</tag>
+<tag lemma="Dr_^(doktor,_akad._titul)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd91303-057-p5s5w13">
 <src.rf>manual</src.rf>

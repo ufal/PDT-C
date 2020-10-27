@@ -1350,7 +1350,7 @@
 <form>Isaaca</form>
 <tag>
 <AM lemma="Isaaca" src="auto">X@-------------</AM>
-<AM lemma="Isaac_;Y" src="manual" selected="1">NNMS4-----A----</AM>
+<AM lemma="Isaac_;Y" src="manual" selected="1">NNMS4-----A---1</AM>
 </tag>
 </m>
 <m id="m-wsj0469-001-p1s4W10-Ta">

@@ -846,7 +846,7 @@
 <LM>w#w-cmpr9407-047-p5s2w30</LM>
 </w.rf>
 <form>Lada</form>
-<tag lemma="Lada-1_;m_^(vozidlo)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Lada_;Y_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9407-047-p5s2w31">
 <src.rf>manual</src.rf>

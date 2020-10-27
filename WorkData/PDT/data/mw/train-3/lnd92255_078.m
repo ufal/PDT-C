@@ -323,7 +323,7 @@
 <form>dvě</form>
 <tag>
 <AM lemma="dva`2" src="orig">ClHP1----------</AM>
-<AM lemma="dva`2" src="manual" selected="1">CnXXX----------</AM>
+<AM lemma="dva`2" src="manual" selected="1">CnXXX---------1</AM>
 </tag>
 </m>
 <m id="m-lnd92255-078-p2s2w15">

@@ -4368,7 +4368,7 @@
 <LM>w#w-cmpr9417-002-p14s3w4</LM>
 </w.rf>
 <form>několikerého</form>
-<tag lemma="několikerý" src="orig" selected="1">AAIS2----1A----</tag>
+<tag lemma="několikerý" src="orig" selected="1">ChIS2----------</tag>
 </m>
 <m id="m-cmpr9417-002-p14s3w5">
 <src.rf>manual</src.rf>

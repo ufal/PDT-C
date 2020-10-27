@@ -6463,7 +6463,7 @@
 <AM lemma="Enrico_;Y" src="orig">NNMS2-----A----</AM>
 <AM lemma="Enriko_;Y_,t" src="auto" recommended="1">NNMS2-----A---1</AM>
 <AM lemma="Enriko_;Y_,t" src="auto">NNMS4-----A---1</AM>
-<AM lemma="Enriko_;Y" src="manual" selected="1">NNMS2-----A---1</AM>
+<AM lemma="Enrico_;Y_,s_^(^DD**Enriko)" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95045-048-p7s4w7">

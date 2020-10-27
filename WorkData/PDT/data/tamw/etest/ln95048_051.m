@@ -13504,7 +13504,7 @@
 <LM>w#w-ln95048-051-p8s31w33</LM>
 </w.rf>
 <form>busu</form>
-<tag lemma="bus" src="auto" selected="1">NNIS6-----A----</tag>
+<tag lemma="bus" src="auto" selected="1">NNIS6-----A---1</tag>
 </m>
 <m id="m-ln95048-051-p8s31w34">
 <src.rf>manual</src.rf>
@@ -13892,7 +13892,7 @@
 <LM>w#w-ln95048-051-p8s33w13</LM>
 </w.rf>
 <form>Skotové</form>
-<tag lemma="Skot_;E" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="Skot_;E" src="orig" selected="1">NNMP1-----A---1</tag>
 </m>
 <m id="m-ln95048-051-p8s33w14">
 <src.rf>manual</src.rf>

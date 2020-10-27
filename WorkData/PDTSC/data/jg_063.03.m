@@ -372,7 +372,7 @@
 <AM lemma="Slovan-2_;m" src="auto">NNIP4-----A----</AM>
 <AM lemma="Slovan-2_;m" src="auto">NNIP5-----A----</AM>
 <AM lemma="Slovan-2_;m" src="auto">NNIP7-----A----</AM>
-<AM lemma="Slovany_;G" src="auto" recommended="1">NNFP1-----A----</AM>
+<AM lemma="Slovany_;G" src="auto" recommended="1">NNIP1-----A----</AM>
 <AM lemma="Slovany_;G" src="auto">NNFP4-----A----</AM>
 <AM lemma="Slovany_;G" src="auto">NNFP5-----A----</AM>
 </tag>
@@ -3758,7 +3758,7 @@
 <AM lemma="malý" src="auto">AAMS2----1A----</AM>
 <AM lemma="malý" src="auto" recommended="1">AAMS4----1A----</AM>
 <AM lemma="malý" src="auto">AANS2----1A----</AM>
-<AM lemma="malý-2_,h" src="manual" selected="1">NNMS4-----A----</AM>
+<AM lemma="malý" src="manual" selected="1">AAMS4----1A----</AM>
 </tag>
 </m>
 <m id="m063-d1t1451-3">

@@ -1342,7 +1342,7 @@
 <LM>w#w-lnd92257-051-p5s1w9</LM>
 </w.rf>
 <form>Vladikavkazu</form>
-<tag lemma="Vladikavkaz_;G" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Vladikavkaz_;G" src="orig" selected="1">NNIS6-----A---1</tag>
 </m>
 <m id="m-lnd92257-051-p5s1w10">
 <src.rf>manual</src.rf>

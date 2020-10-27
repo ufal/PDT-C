@@ -1173,7 +1173,7 @@
 <form>Rutherfordu</form>
 <tag>
 <AM lemma="Rutherford-1_;Y" src="auto">NNMS6-----A---1</AM>
-<AM lemma="Rutherford-3_;G" src="manual" selected="1">NNIS6-----A---1</AM>
+<AM lemma="Rutherford-2_;G" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-113-p1s8w7">

@@ -3106,7 +3106,7 @@
 <form>stamiliony</form>
 <tag>
 <AM lemma="stamilion_,s_^(^DD**stamilión)" src="auto">NNIP1-----A----</AM>
-<AM lemma="stamilion_,s_^(^DD**stamilión)" src="auto" recommended="1">NNIP4-----A----</AM>
+<AM lemma="stamilion`100000000_,s_^(^DD**stamilión)" src="auto" recommended="1">CzIP4----------</AM>
 <AM lemma="stamilion_,s_^(^DD**stamilión)" src="auto">NNIP5-----A----</AM>
 <AM lemma="stamilion_,s_^(^DD**stamilión)" src="auto">NNIP7-----A----</AM>
 </tag>

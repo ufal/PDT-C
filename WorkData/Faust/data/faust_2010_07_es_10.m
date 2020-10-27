@@ -3083,7 +3083,7 @@
 <AM lemma="snadný">AAFP1----2A----</AM>
 <AM lemma="snadný">AAFP4----2A----</AM>
 <AM lemma="snadný">AAFP5----2A----</AM>
-<AM lemma="snadný" selected="1">AAFS1----2A----</AM>
+<AM lemma="snadný" selected="1">AAFS1----2A---1</AM>
 <AM lemma="snadný">AAFS2----2A----</AM>
 <AM lemma="snadný">AAFS3----2A----</AM>
 <AM lemma="snadný">AAFS4----2A----</AM>
@@ -6505,7 +6505,7 @@
 <form>Yahoo</form>
 <tag>
 <AM lemma="Yahoo_;m_,t_^(software)" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Yahoo_;m_^(software)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Yahoo_;m_^(software)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="es_10-SCzechM-p1072-s1-w17">

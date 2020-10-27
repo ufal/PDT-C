@@ -763,7 +763,7 @@
 <LM>w#w-ln95044-062-p3s1w51</LM>
 </w.rf>
 <form>resortu</form>
-<tag lemma="resort" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="resort_,s_^(^DD**rezort)" src="orig" selected="1">NNIS6-----A---1</tag>
 </m>
 <m id="m-ln95044-062-p3s1w52">
 <src.rf>manual</src.rf>

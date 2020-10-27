@@ -2725,7 +2725,7 @@
 <LM>w#w-vesm9211-015-p5s1w4</LM>
 </w.rf>
 <form>Science</form>
-<tag lemma="Science-1_;m_^(souč._názvů,_např._Science)" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="Science_;m" src="orig" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-vesm9211-015-p5s1w5">
 <src.rf>manual</src.rf>

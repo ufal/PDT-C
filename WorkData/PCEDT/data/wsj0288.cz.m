@@ -5983,7 +5983,7 @@
 <AM lemma="nezbytný" src="auto">AANP4----1A---6</AM>
 <AM lemma="nezbytný" src="auto">AANP5----1A---6</AM>
 <AM lemma="nezbytný" src="auto">AANS1----1A----</AM>
-<AM lemma="nezbytný" src="auto" recommended="1">AANS4----1A----</AM>
+<AM lemma="zbytný" src="auto" recommended="1">AANS4----1N----</AM>
 <AM lemma="nezbytný" src="auto">AANS5----1A----</AM>
 </tag>
 </m>

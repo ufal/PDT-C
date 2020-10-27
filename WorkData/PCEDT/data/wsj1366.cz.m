@@ -2795,7 +2795,7 @@
 <form>statisíce</form>
 <tag>
 <AM lemma="stotisíc`100000" src="auto">NNIP1-----A----</AM>
-<AM lemma="stotisíc`100000" src="auto" recommended="1">NNIP4-----A----</AM>
+<AM lemma="statisíc`100000" src="auto" recommended="1">CzIP4----------</AM>
 <AM lemma="stotisíc`100000" src="auto">NNIP5-----A----</AM>
 <AM lemma="stotisíc`100000" src="auto">NNIS2-----A----</AM>
 </tag>

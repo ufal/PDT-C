@@ -1372,7 +1372,7 @@
 <LM>w#w-mf920902-130-p5s1w3</LM>
 </w.rf>
 <form>Švédovi</form>
-<tag lemma="Švéd_;E" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Švéd_;E_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-mf920902-130-p5s1w4">
 <src.rf>manual</src.rf>

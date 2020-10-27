@@ -50,7 +50,7 @@
 <AM lemma="renault_^(auto)" src="auto">NNIS3-----A----</AM>
 <AM lemma="renault_^(auto)" src="auto">NNIS6-----A---1</AM>
 <AM lemma="Renault_;m" src="manual">NNIS2-----A----</AM>
-<AM lemma="Renault_;m" src="manual" selected="1">NNIS2-----A---1</AM>
+<AM lemma="Renault_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 </s>
@@ -1061,7 +1061,7 @@
 <AM lemma="Renault_;m" src="auto">NNIS6-----A---1</AM>
 <AM lemma="renault_^(auto)" src="auto">NNIS3-----A----</AM>
 <AM lemma="renault_^(auto)" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Renault_;m" src="manual" selected="1">NNIS2-----A---1</AM>
+<AM lemma="Renault_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-21-p4s3w14">
@@ -1227,7 +1227,7 @@
 <LM>w#w-ln94205-21-p5s1w19</LM>
 </w.rf>
 <form>Renaultu</form>
-<tag lemma="renault_^(auto)" src="orig" selected="1">NNIS6-----A---1</tag>
+<tag lemma="Renault_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln94205-21-p5s1w20">
 <src.rf>manual</src.rf>

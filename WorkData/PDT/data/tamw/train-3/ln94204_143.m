@@ -5145,7 +5145,7 @@
 <LM>w#w-ln94204-143-p2s23Bw1</LM>
 </w.rf>
 <form>Virus</form>
-<tag lemma="vir" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="vir-1" src="orig" selected="1">NNIS1-----A---1</tag>
 </m>
 <m id="m-ln94204-143-p2s23Bw2">
 <src.rf>manual</src.rf>
@@ -5315,7 +5315,7 @@
 <LM>w#w-ln94204-143-p2s24w7</LM>
 </w.rf>
 <form>virus</form>
-<tag lemma="vir" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="vir-1" src="orig" selected="1">NNIS1-----A---1</tag>
 </m>
 <m id="m-ln94204-143-p2s24w8">
 <src.rf>manual</src.rf>

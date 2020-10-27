@@ -1261,7 +1261,7 @@
 <LM>w#w-ln94210-124-p3s1w9</LM>
 </w.rf>
 <form>Švába</form>
-<tag lemma="Šváb_;E" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Šváb_;E_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94210-124-p3s1w10">
 <src.rf>manual</src.rf>

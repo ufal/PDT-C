@@ -261,7 +261,7 @@
 <LM>w#w-lnd92254-104-p2s1w16</LM>
 </w.rf>
 <form>Alfa</form>
-<tag lemma="Alfa_;m_^(vozidlo)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Alfa_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92254-104-p2s1w17">
 <src.rf>manual</src.rf>
@@ -1834,7 +1834,7 @@
 <form>Kan</form>
 <tag>
 <AM lemma="Kanada_:B_;G" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Kanada_;G" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="Kanada_;G_;m" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92254-104-p2s9w17">

@@ -3588,7 +3588,7 @@
 <LM>w#w-mf930708-060-p2s32w13</LM>
 </w.rf>
 <form>Karolině</form>
-<tag lemma="Karolina_;Y" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Karolina_;G_;Y_,s_^(^DD**Karolína)" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf930708-060-p2s32w14">
 <src.rf>manual</src.rf>

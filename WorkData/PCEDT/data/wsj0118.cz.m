@@ -3281,7 +3281,7 @@
 <form>desetitisíce</form>
 <tag>
 <AM lemma="desetitisíc" src="auto">NNIP1-----A----</AM>
-<AM lemma="desetitisíc" src="auto" recommended="1">NNIP4-----A----</AM>
+<AM lemma="desetitisíc`10000" src="auto" recommended="1">CzIP4----------</AM>
 <AM lemma="desetitisíc" src="auto">NNIP5-----A----</AM>
 <AM lemma="desetitisíc" src="auto">NNIS2-----A----</AM>
 <AM lemma="desetitisíce`10000" src="auto">NNIP1-----A----</AM>
@@ -46369,7 +46369,7 @@
 <AM lemma="čistý" src="auto">AANP1----2A----</AM>
 <AM lemma="čistý" src="auto">AANP4----2A----</AM>
 <AM lemma="čistý" src="auto">AANP5----2A----</AM>
-<AM lemma="čistý" src="auto" recommended="1">AANS1----2A----</AM>
+<AM lemma="čistý" src="auto" recommended="1">AANS1----2A---1</AM>
 <AM lemma="čistý" src="auto">AANS4----2A----</AM>
 <AM lemma="čistý" src="auto">AANS5----2A----</AM>
 </tag>

@@ -61,7 +61,7 @@
 <LM>w#w-mf920924-085-p1s1Bw1</LM>
 </w.rf>
 <form>ŠVÉDOVÉ</form>
-<tag lemma="Švéd_;E" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="Švéd_;E_;Y" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-mf920924-085-p1s1Bw2">
 <src.rf>manual</src.rf>

@@ -220,7 +220,7 @@
 <AM lemma="pas-1_^(př._cestovní)" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="pas-1_^(př._cestovní)" src="auto">NNIS3-----A----</AM>
 <AM lemma="pas-1_^(př._cestovní)" src="auto">NNIS6-----A---1</AM>
-<AM lemma="pas-2_^(na_lidském_těle)" src="auto" selected="1">NNIS2-----A----</AM>
+<AM lemma="pas-1_^(přihrávka,_př._v_kopané,na_lidském_těle;;cestovní)" src="auto" selected="1">NNIS2-----A----</AM>
 <AM lemma="pas-2_^(na_lidském_těle)" src="auto">NNIS3-----A----</AM>
 <AM lemma="pas-2_^(na_lidském_těle)" src="auto">NNIS6-----A---1</AM>
 <AM lemma="pas-3_^(přihrávka,_př._v_kopané)" src="auto">NNIS2-----A----</AM>

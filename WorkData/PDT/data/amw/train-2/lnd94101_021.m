@@ -130,7 +130,7 @@
 <LM>w#w-lnd94101-021-p1s3w4</LM>
 </w.rf>
 <form>Union</form>
-<tag lemma="Union" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Union_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94101-021-p1s3w5">
 <src.rf>manual</src.rf>
@@ -663,7 +663,7 @@
 <LM>w#w-lnd94101-021-p1s5Bw3</LM>
 </w.rf>
 <form>Union</form>
-<tag lemma="Union" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Union_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94101-021-p1s5Bw4">
 <src.rf>manual</src.rf>
@@ -1010,7 +1010,7 @@
 <LM>w#w-lnd94101-021-p1s6w28</LM>
 </w.rf>
 <form>Union</form>
-<tag lemma="Union" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Union_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd94101-021-p1s6w29">
 <src.rf>manual</src.rf>

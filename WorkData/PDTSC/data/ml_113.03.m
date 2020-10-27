@@ -1211,7 +1211,7 @@
 <AM lemma="Margita-1_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Margita-2_;G" src="auto">NNFS1-----A----</AM>
 <AM lemma="margita" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Margita-3_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Margita-2_;G_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m113-d-id94206-punct">
@@ -3828,7 +3828,7 @@
 <AM lemma="Margita-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Margita-2_;G" src="auto">NNFS1-----A----</AM>
 <AM lemma="margita" src="auto">NNFS1-----A----</AM>
-<AM lemma="Margita-3_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Margita-2_;G_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m113-d1t856-11">

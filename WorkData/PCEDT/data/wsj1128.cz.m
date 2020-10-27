@@ -7183,7 +7183,7 @@
 <AM lemma="sterling" src="auto">NNIS3-----A----</AM>
 <AM lemma="sterling" src="auto">NNIS5-----A----</AM>
 <AM lemma="sterling" src="auto">NNIS6-----A----</AM>
-<AM lemma="Sterling-2_;G" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="Sterling-2_;G_;m" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1128-001-p1s29W12-Ta">

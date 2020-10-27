@@ -6110,7 +6110,7 @@
 <AM lemma="postižený_^(*4hnout)" src="auto">AANS1----1A----</AM>
 <AM lemma="postižený_^(*4hnout)" src="auto">AANS4----1A----</AM>
 <AM lemma="postižený_^(*4hnout)" src="auto">AANS5----1A----</AM>
-<AM lemma="postižený-2" src="manual" selected="1">NNMP4-----A----</AM>
+<AM lemma="postižený" src="manual" selected="1">AAMP4----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj1160-001-p1s20W13-Ta">
@@ -9283,7 +9283,7 @@
 <AM lemma="poškozený_^(*4dit)" src="auto">AAMP6----1A----</AM>
 <AM lemma="poškozený_^(*4dit)" src="auto">AANP2----1A----</AM>
 <AM lemma="poškozený_^(*4dit)" src="auto">AANP6----1A----</AM>
-<AM lemma="poškozený-2" src="manual" selected="1">NNMP2-----A----</AM>
+<AM lemma="poškozený_^(*4dit)" src="manual" selected="1">AAMP2----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj1160-001-p1s29W26-Ta">

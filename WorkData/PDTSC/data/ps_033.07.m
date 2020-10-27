@@ -1140,7 +1140,7 @@
 <AM lemma="minus-2_^(mat._operace;_9_mínus_3,_též_mínus_dva_stupně)" src="auto">J*------------1</AM>
 <AM lemma="minus-3" src="auto" recommended="1">Db-------------</AM>
 <AM lemma="mínus-3" src="manual">Db------------1</AM>
-<AM lemma="minus-3" src="manual" selected="1">Db------------1</AM>
+<AM lemma="mínus-3_,h_^(^GC**minus-3)" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m033-d1e2236-x2-183">

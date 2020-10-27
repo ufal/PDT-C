@@ -1469,7 +1469,7 @@
 <LM>w#w-vesm9301-032-p4s2w38</LM>
 </w.rf>
 <form>Olympu</form>
-<tag lemma="Olymp_;G" src="orig" selected="1">NNIS3-----A----</tag>
+<tag lemma="Olymp_;G_;m" src="orig" selected="1">NNIS3-----A----</tag>
 </m>
 <m id="m-vesm9301-032-p4s2w39">
 <src.rf>manual</src.rf>

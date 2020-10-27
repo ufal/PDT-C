@@ -2293,7 +2293,7 @@
 <form>Kuba</form>
 <tag>
 <AM lemma="kuba" src="orig">NNMS1-----A----</AM>
-<AM lemma="Kuba_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Kuba-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-054-p5s1w55">

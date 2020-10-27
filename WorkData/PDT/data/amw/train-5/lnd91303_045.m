@@ -199,7 +199,7 @@
 <LM>w#w-lnd91303-045-p3s1w15</LM>
 </w.rf>
 <form>Rusa</form>
-<tag lemma="Rus_;E" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Rus-1_;E" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd91303-045-p3s1w16">
 <src.rf>manual</src.rf>

@@ -9912,7 +9912,7 @@
 <LM>w#w-ln94201-102-p18s1w2</LM>
 </w.rf>
 <form>Pavlu</form>
-<tag lemma="Pavel-1_;Y" src="orig" selected="1">NNMS3-----A---1</tag>
+<tag lemma="Pavel_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln94201-102-p18s1w3">
 <src.rf>manual</src.rf>
@@ -16687,7 +16687,7 @@
 <LM>w#w-ln94201-102-p27s5w16</LM>
 </w.rf>
 <form>Rusa</form>
-<tag lemma="Rus_;E" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Rus-1_;E" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94201-102-p27s5w17">
 <src.rf>manual</src.rf>

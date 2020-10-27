@@ -961,7 +961,7 @@
 </w.rf>
 <form>nezbytnost</form>
 <tag>
-<AM lemma="nezbytnost_^(*3ý)" src="orig" selected="1">NNFS4-----A----</AM>
+<AM lemma="zbytnost_^(*3ý)" src="orig" selected="1">NNFS4-----N----</AM>
 <AM lemma="zbytnost_^(*3ý)" src="manual">NNFS4-----N----</AM>
 </tag>
 </m>

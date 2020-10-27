@@ -93,7 +93,7 @@
 <form>Stana</form>
 <tag>
 <AM lemma="Stan_;Y_,t" src="auto">NNMS4-----A----</AM>
-<AM lemma="Stan_;Y" src="manual" selected="1">NNMS4-----A----</AM>
+<AM lemma="Stan-1_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92259-066-p1s1w11">

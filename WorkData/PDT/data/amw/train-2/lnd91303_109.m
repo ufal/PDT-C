@@ -590,7 +590,7 @@
 <LM>w#w-lnd91303-109-p7s1w7</LM>
 </w.rf>
 <form>cikáni</form>
-<tag lemma="cikán" src="orig" selected="1">NNMP1-----A---1</tag>
+<tag lemma="cikán" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-lnd91303-109-p7s1w8">
 <src.rf>manual</src.rf>

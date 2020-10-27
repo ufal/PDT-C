@@ -2894,7 +2894,7 @@
 <AM lemma="Hertz_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="hertz" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="hertz" src="auto">NNIS4-----A----</AM>
-<AM lemma="Hertz_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Hertz-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2394-001-p1s7W11-Ta">
@@ -3874,7 +3874,7 @@
 <AM lemma="Hertz_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="hertz" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="hertz" src="auto">NNIS4-----A----</AM>
-<AM lemma="Hertz_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Hertz-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2394-001-p1s10W3-Ta">
@@ -4862,7 +4862,7 @@
 <AM lemma="Hertz_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="hertz" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="hertz" src="auto">NNIS4-----A----</AM>
-<AM lemma="Hertz_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Hertz-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2394-001-p1s11W6-Ta">
@@ -6435,7 +6435,7 @@
 <AM lemma="Hertz_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="hertz" src="auto">NNIS1-----A----</AM>
 <AM lemma="hertz" src="auto">NNIS4-----A----</AM>
-<AM lemma="Hertz_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Hertz-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2394-001-p1s15W32-Ta">

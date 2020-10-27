@@ -745,7 +745,7 @@
 <form>Boby</form>
 <tag>
 <AM lemma="bob" src="orig">NNIP1-----A----</AM>
-<AM lemma="Boby_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Boby-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-041-p2s4w30">

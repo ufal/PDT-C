@@ -630,7 +630,7 @@
 <AM lemma="nastávající_^(*4t)" src="auto">AGNS1-----A----</AM>
 <AM lemma="nastávající_^(*4t)" src="auto">AGNS4-----A----</AM>
 <AM lemma="nastávající_^(*4t)" src="auto">AGNS5-----A----</AM>
-<AM lemma="nastávající-2" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="nastávající_^(*4t)" src="manual" selected="1">AGMS1-----A----</AM>
 </tag>
 </m>
 <m id="m007-d1t751-12">
@@ -806,7 +806,7 @@
 <AM lemma="nastávající_^(*4t)" src="auto">AGNS1-----A----</AM>
 <AM lemma="nastávající_^(*4t)" src="auto">AGNS4-----A----</AM>
 <AM lemma="nastávající_^(*4t)" src="auto">AGNS5-----A----</AM>
-<AM lemma="nastávající-2" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="nastávající_^(*4t)" src="manual" selected="1">AGMS1-----A----</AM>
 </tag>
 </m>
 <m id="m007-d-id77717">

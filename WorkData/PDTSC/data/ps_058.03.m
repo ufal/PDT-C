@@ -2774,7 +2774,7 @@
 <AM lemma="Koloseum" src="auto">NNNP1-----A----</AM>
 <AM lemma="Koloseum" src="auto">NNNP4-----A----</AM>
 <AM lemma="Koloseum" src="auto">NNNP5-----A----</AM>
-<AM lemma="Koloseum" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="Koloseum_;G" src="auto" recommended="1">NNNS2-----A----</AM>
 <AM lemma="koloseum" src="auto">NNNP1-----A----</AM>
 <AM lemma="koloseum" src="auto">NNNP4-----A----</AM>
 <AM lemma="koloseum" src="auto">NNNP5-----A----</AM>
@@ -3268,7 +3268,7 @@
 <form>Koloseum</form>
 <tag>
 <AM lemma="Koloseum" src="auto">NNNP3-----A---6</AM>
-<AM lemma="Koloseum" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="Koloseum_;G" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="Koloseum" src="auto">NNNS4-----A----</AM>
 <AM lemma="Koloseum" src="auto">NNNS5-----A----</AM>
 <AM lemma="koloseum" src="auto">NNNP3-----A---6</AM>
@@ -3317,7 +3317,7 @@
 <form>Koloseu</form>
 <tag>
 <AM lemma="Koloseum" src="auto">NNNS3-----A----</AM>
-<AM lemma="Koloseum" src="auto" recommended="1">NNNS6-----A----</AM>
+<AM lemma="Koloseum_;G" src="auto" recommended="1">NNNS6-----A----</AM>
 <AM lemma="koloseum" src="auto">NNNS3-----A----</AM>
 <AM lemma="koloseum" src="auto">NNNS6-----A----</AM>
 </tag>

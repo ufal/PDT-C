@@ -4125,7 +4125,7 @@
 <AM lemma="poražený_^(*4zit)" src="auto">AANS1----1A----</AM>
 <AM lemma="poražený_^(*4zit)" src="auto" recommended="1">AANS4----1A----</AM>
 <AM lemma="poražený_^(*4zit)" src="auto">AANS5----1A----</AM>
-<AM lemma="poražený-2" src="manual" selected="1">NNMP4-----A----</AM>
+<AM lemma="poražený_^(*4zit)" src="manual" selected="1">AAMP4----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj1394-001-p1s14W8-Ta">

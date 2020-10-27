@@ -676,7 +676,7 @@
 <LM>w#w-vesm9303-005-p3s1w10</LM>
 </w.rf>
 <form>ÚSES</form>
-<tag lemma="ÚSES-1_^(Územní_systém_ekologické_stability)" src="orig" selected="1">NNIXX-----A---b</tag>
+<tag lemma="ÚSES-1_;m_^(Územní_systém_ekologické_stability)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-vesm9303-005-p3s1w11">
 <src.rf>manual</src.rf>
@@ -1154,7 +1154,7 @@
 <form>tzv</form>
 <tag>
 <AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="takzvaně_^(*1ý)" src="manual" selected="1">Dg-------1A---8</AM>
+<AM lemma="takzvaně" src="manual" selected="1">Dg-------1A---b</AM>
 </tag>
 </m>
 <m id="m-vesm9303-005-p4s3w10">
@@ -2613,7 +2613,7 @@
 <form>tzv</form>
 <tag>
 <AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="takzvaně_^(*1ý)" src="manual" selected="1">Dg-------1A---8</AM>
+<AM lemma="takzvaně" src="manual" selected="1">Dg-------1A---b</AM>
 </tag>
 </m>
 <m id="m-vesm9303-005-p5s5w18">

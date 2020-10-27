@@ -2152,7 +2152,7 @@
 <LM>w#w-lnd94103-086-p1s18w6</LM>
 </w.rf>
 <form>čistší</form>
-<tag lemma="čistý" src="orig" selected="1">AAIS1----2A----</tag>
+<tag lemma="čistý" src="orig" selected="1">AAIS1----2A---1</tag>
 </m>
 <m id="m-lnd94103-086-p1s18w7">
 <src.rf>manual</src.rf>

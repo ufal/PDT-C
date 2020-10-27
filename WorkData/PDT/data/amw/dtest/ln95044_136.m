@@ -22,7 +22,7 @@
 <tag>
 <AM lemma="Ikarus_;Y" src="orig">NNIS1-----A----</AM>
 <AM lemma="Ikarus_;m_^(vozidlo)" src="manual">NNIS1-----A----</AM>
-<AM lemma="Ikarus_;m_^(vozidlo)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Ikarus-2_;m_^(vozidlo)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-136-p1s1w2">
@@ -119,7 +119,7 @@
 <AM lemma="Ikarus-2_;m_^(vozidlo)" src="orig">NNIS1-----A----</AM>
 <AM lemma="Ikarus_;Y" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Ikarus_;Y" src="auto">NNIS4-----A----</AM>
-<AM lemma="Ikarus_;m_^(vozidlo)" src="auto" selected="1">NNIS1-----A----</AM>
+<AM lemma="Ikarus-2_;m_^(vozidlo)" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="Ikarus_;m_^(vozidlo)" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -649,7 +649,7 @@
 <AM lemma="Ikarus-2_;m_^(vozidlo)" src="orig">NNIS1-----A----</AM>
 <AM lemma="Ikarus_;Y" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Ikarus_;Y" src="auto">NNIS4-----A----</AM>
-<AM lemma="Ikarus_;m_^(vozidlo)" src="auto" selected="1">NNIS1-----A----</AM>
+<AM lemma="Ikarus-2_;m_^(vozidlo)" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="Ikarus_;m_^(vozidlo)" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -1018,7 +1018,7 @@
 <AM lemma="Ikarus-2_;m_^(vozidlo)" src="orig">NNIS4-----A----</AM>
 <AM lemma="Ikarus_;Y" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Ikarus_;Y" src="auto">NNIS4-----A----</AM>
-<AM lemma="Ikarus_;m_^(vozidlo)" src="auto" selected="1">NNIS1-----A----</AM>
+<AM lemma="Ikarus-2_;m_^(vozidlo)" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="Ikarus_;m_^(vozidlo)" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>

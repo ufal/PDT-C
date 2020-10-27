@@ -1378,7 +1378,7 @@
 <AM lemma="Popelka-1_;Y_^(muž)" src="auto">NNMS7-----A----</AM>
 <AM lemma="Popelka-2_;Y_^(žena)" src="auto" recommended="1">NNFS7-----A----</AM>
 <AM lemma="popelka" src="auto">NNFS7-----A----</AM>
-<AM lemma="Popelka-3_;G_^(potok)" src="manual" selected="1">NNFS7-----A----</AM>
+<AM lemma="Popelka-2_;G_;Y" src="manual" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m130-358-360">

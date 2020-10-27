@@ -4321,7 +4321,7 @@
 <LM>w#w-lnd94104-064-p1s24w18</LM>
 </w.rf>
 <form>pozdější</form>
-<tag lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="orig" selected="1">AAFS4----2A----</tag>
+<tag lemma="pozdější" src="orig" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-lnd94104-064-p1s24w19">
 <src.rf>manual</src.rf>

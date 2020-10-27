@@ -250,7 +250,7 @@
 <tag>
 <AM lemma="Hug_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Hug_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Hugo-1_;Y" src="auto" selected="1">NNMS2-----A----</AM>
+<AM lemma="Hugo_;Y" src="auto" selected="1">NNMS2-----A----</AM>
 <AM lemma="Hugo-1_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="Hugo-2_;G" src="auto">NNNP1-----A----</AM>
 <AM lemma="Hugo-2_;G" src="auto">NNNP4-----A----</AM>
@@ -1333,7 +1333,7 @@
 <form>nezbytné</form>
 <tag>
 <AM lemma="nezbytný" src="auto">AAFP1----1A----</AM>
-<AM lemma="nezbytný" src="auto" recommended="1">AAFP4----1A----</AM>
+<AM lemma="zbytný" src="auto" recommended="1">AAFP4----1N----</AM>
 <AM lemma="nezbytný" src="auto">AAFP5----1A----</AM>
 <AM lemma="nezbytný" src="auto">AAFS2----1A----</AM>
 <AM lemma="nezbytný" src="auto">AAFS3----1A----</AM>
@@ -1973,7 +1973,7 @@
 <form>nezbytnosti</form>
 <tag>
 <AM lemma="nezbytnost_^(*3ý)" src="auto" recommended="1">NNFP1-----A----</AM>
-<AM lemma="nezbytnost_^(*3ý)" src="auto" selected="1">NNFP4-----A----</AM>
+<AM lemma="zbytnost_^(*3ý)" src="auto" selected="1">NNFP4-----N----</AM>
 <AM lemma="nezbytnost_^(*3ý)" src="auto">NNFP5-----A----</AM>
 <AM lemma="nezbytnost_^(*3ý)" src="auto">NNFS2-----A----</AM>
 <AM lemma="nezbytnost_^(*3ý)" src="auto">NNFS3-----A----</AM>
@@ -2467,7 +2467,7 @@
 <AM lemma="nezbytný" src="auto">AAFP1----1A----</AM>
 <AM lemma="nezbytný" src="auto">AAFP4----1A----</AM>
 <AM lemma="nezbytný" src="auto">AAFP5----1A----</AM>
-<AM lemma="nezbytný" src="auto" recommended="1">AAFS2----1A----</AM>
+<AM lemma="zbytný" src="auto" recommended="1">AAFS2----1N----</AM>
 <AM lemma="nezbytný" src="auto">AAFS3----1A----</AM>
 <AM lemma="nezbytný" src="auto">AAFS6----1A----</AM>
 <AM lemma="nezbytný" src="auto">AAIP1----1A----</AM>
@@ -5755,7 +5755,7 @@
 <form>Foster</form>
 <tag>
 <AM lemma="Foster_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Foster-2_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Foster-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -8028,7 +8028,7 @@
 <form>nezbytnosti</form>
 <tag>
 <AM lemma="nezbytnost_^(*3ý)" src="auto" recommended="1">NNFP1-----A----</AM>
-<AM lemma="nezbytnost_^(*3ý)" src="auto" selected="1">NNFP4-----A----</AM>
+<AM lemma="zbytnost_^(*3ý)" src="auto" selected="1">NNFP4-----N----</AM>
 <AM lemma="nezbytnost_^(*3ý)" src="auto">NNFP5-----A----</AM>
 <AM lemma="nezbytnost_^(*3ý)" src="auto">NNFS2-----A----</AM>
 <AM lemma="nezbytnost_^(*3ý)" src="auto">NNFS3-----A----</AM>
@@ -10267,7 +10267,7 @@
 <AM lemma="nezbytný" src="auto">AAIS2----1A----</AM>
 <AM lemma="nezbytný" src="auto">AAMS2----1A----</AM>
 <AM lemma="nezbytný" src="auto">AAMS4----1A----</AM>
-<AM lemma="nezbytný" src="auto" recommended="1">AANS2----1A----</AM>
+<AM lemma="zbytný" src="auto" recommended="1">AANS2----1N----</AM>
 </tag>
 </m>
 <m id="m-wsj1935-001-p1s48W16-Ta">

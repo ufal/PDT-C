@@ -69,7 +69,7 @@
 <form>RABAT</form>
 <tag>
 <AM lemma="rabat" src="orig">NNIS1-----A----</AM>
-<AM lemma="Rabat_;G" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Rabat_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-110-p3s1w2">

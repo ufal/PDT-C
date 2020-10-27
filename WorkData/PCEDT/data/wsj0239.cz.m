@@ -9210,7 +9210,7 @@
 <AM lemma="nezbytný" src="auto">AAMS7----1A----</AM>
 <AM lemma="nezbytný" src="auto">AANP3----1A----</AM>
 <AM lemma="nezbytný" src="auto">AANS6----1A---7</AM>
-<AM lemma="nezbytný" src="auto" selected="1">AANS7----1A----</AM>
+<AM lemma="zbytný" src="auto" selected="1">AANS7----1N----</AM>
 </tag>
 </m>
 <m id="m-wsj0239-001-p1s37W6-Ta">

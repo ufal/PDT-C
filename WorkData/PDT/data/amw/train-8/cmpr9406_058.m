@@ -3996,7 +3996,7 @@
 <AM lemma="Saab-2_;m_^(vozidlo)" src="orig">NNIXX-----A----</AM>
 <AM lemma="Saab_;m" src="auto">NNIS1-----A----</AM>
 <AM lemma="Saab_;m" src="auto">NNIS4-----A----</AM>
-<AM lemma="saab_;m" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
+<AM lemma="Saab_;m" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="saab_;m" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -6554,7 +6554,7 @@
 <LM>w#w-cmpr9406-058-p26s1w1</LM>
 </w.rf>
 <form>x</form>
-<tag lemma="x-4_^(graf._oddělovač)" src="orig" selected="1">Z:-------------</tag>
+<tag lemma="x-33" src="orig" selected="1">Q3-------------</tag>
 </m>
 <m id="m-cmpr9406-058-p26s1w2">
 <src.rf>manual</src.rf>

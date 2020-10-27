@@ -2110,7 +2110,7 @@
 <LM>w#w-mf930702-115-p7s1w11</LM>
 </w.rf>
 <form>vhod</form>
-<tag lemma="vhod-2" src="auto" selected="1">Db-------------</tag>
+<tag lemma="vhod-2" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-mf930702-115-p7s1w12">
 <src.rf>manual</src.rf>

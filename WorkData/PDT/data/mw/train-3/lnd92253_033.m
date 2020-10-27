@@ -120,7 +120,7 @@
 <LM>w#w-lnd92253-033-p2s1w10</LM>
 </w.rf>
 <form>pasu</form>
-<tag lemma="pas-1_^(př._cestovní)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="pas-1_^(přihrávka,_př._v_kopané,na_lidském_těle;;cestovní)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92253-033-p3s1">

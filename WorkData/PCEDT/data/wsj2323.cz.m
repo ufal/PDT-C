@@ -854,7 +854,7 @@
 <AM lemma="Morris-2_;m_^(vozidlo;;cigarety)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Morris-2_;m_^(vozidlo;;cigarety)" src="auto">NNIS4-----A----</AM>
 <AM lemma="Morris-77" src="manual">F%-------------</AM>
-<AM lemma="Morris-3_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Morris-2_;G_;m_^(vozidlo;;cigarety;;město)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2323-001-p1s1W38-Ta">

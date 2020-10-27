@@ -61,7 +61,7 @@
 <LM>w#w-mf930709-085-p1s1Bw3</LM>
 </w.rf>
 <form>VIKTORII</form>
-<tag lemma="Viktoria-2_;m_^(jméno_sport.klubu)" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="Viktoria_;Y_;m" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-mf930709-085-p1s1Bw4">
 <src.rf>manual</src.rf>
@@ -183,7 +183,7 @@
 <LM>w#w-mf930709-085-p1s1Dw5</LM>
 </w.rf>
 <form>Unionu</form>
-<tag lemma="Union" src="auto" selected="1">NNIS2-----A----</tag>
+<tag lemma="Union_;m" src="auto" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930709-085-p1s1Dw6">
 <src.rf>manual</src.rf>
@@ -1429,7 +1429,7 @@
 <LM>w#w-mf930709-085-p1s5w24</LM>
 </w.rf>
 <form>Viktorií</form>
-<tag lemma="Viktoria-2_;m_^(jméno_sport.klubu)" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Viktoria_;Y_;m" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-mf930709-085-p1s5w25">
 <src.rf>manual</src.rf>

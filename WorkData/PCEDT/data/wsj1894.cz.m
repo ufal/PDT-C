@@ -138,7 +138,7 @@
 <form>Giancarlu</form>
 <tag>
 <AM lemma="Giancarlu" src="auto">X@-------------</AM>
-<AM lemma="Giancarlo_;Y" src="manual" selected="1">NNMS3-----A----</AM>
+<AM lemma="Giancarlo_;Y" src="manual" selected="1">NNMS3-----A---1</AM>
 </tag>
 </m>
 <m id="m-wsj1894-001-p1s0W11-Ta">

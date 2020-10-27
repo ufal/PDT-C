@@ -2662,7 +2662,7 @@
 <form>stát</form>
 <tag>
 <AM lemma="stát-4_^(něco_stojí_peníze)" src="orig">Vf--------A----</AM>
-<AM lemma="stát-3_^(stát_na_nohou_stát_peníze)" src="manual" selected="1">Vf--------A----</AM>
+<AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">Vf--------A-I--</AM>
 </tag>
 </m>
 <m id="m-ln95040-131-p6s4w22">

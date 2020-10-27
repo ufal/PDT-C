@@ -224,7 +224,7 @@
 <LM>w#w-mf930709-150-p2s1Bw13</LM>
 </w.rf>
 <form>Skubiszewski</form>
-<tag lemma="Skubiszewski_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Skubiszewský_;Y" src="orig" selected="1">NNMS1-----A---1</tag>
 </m>
 <m id="m-mf930709-150-p2s1Bw14">
 <src.rf>manual</src.rf>

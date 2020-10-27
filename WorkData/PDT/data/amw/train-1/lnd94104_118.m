@@ -381,7 +381,7 @@
 <LM>w#w-lnd94104-118-p1s4w9</LM>
 </w.rf>
 <form>Norimberku</form>
-<tag lemma="Norimberk_;G" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Norimberk_;G" src="orig" selected="1">NNIS2-----A---1</tag>
 </m>
 <m id="m-lnd94104-118-p1s4w10">
 <src.rf>manual</src.rf>

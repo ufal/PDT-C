@@ -1319,7 +1319,7 @@
 <AM lemma="Ivo_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Ivo_;Y" src="auto">NNMS6-----A---1</AM>
 <AM lemma="Ivo_;Y" src="auto">NNMS7-----A---1</AM>
-<AM lemma="Ivo_;Y" src="manual" selected="1">NNMXX-----A---1</AM>
+<AM lemma="Ivo_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-104-p2s9Aw28">

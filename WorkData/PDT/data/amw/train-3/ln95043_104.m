@@ -1466,7 +1466,7 @@
 <LM>w#w-ln95043-104-p6s4w11</LM>
 </w.rf>
 <form>Sol</form>
-<tag lemma="Sol-1_;G" src="orig" selected="1">NNNXX-----A----</tag>
+<tag lemma="Sol-1_;G_;m" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln95043-104-p6s4w12">
 <src.rf>manual</src.rf>

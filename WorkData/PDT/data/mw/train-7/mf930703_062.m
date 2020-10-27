@@ -1132,7 +1132,7 @@
 <form>nestálo</form>
 <tag>
 <AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig">VpNS---XR-NA---</AM>
-<AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="manual" selected="1">VpNS----R-NAI--</AM>
+<AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">VpNS----R-NAI--</AM>
 </tag>
 </m>
 <m id="m-mf930703-062-p2s5w15">

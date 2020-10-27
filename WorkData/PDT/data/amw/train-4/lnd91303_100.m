@@ -373,7 +373,7 @@
 <LM>w#w-lnd91303-100-p2s1w41</LM>
 </w.rf>
 <form>TJ</form>
-<tag lemma="TJ-1_;m_^(tělovýchovná_jednota)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="TJ_;m_^(tělovýchovná_jednota)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd91303-100-p2s1w42">
 <src.rf>manual</src.rf>
@@ -505,7 +505,7 @@
 <LM>w#w-lnd91303-100-p2s1w57</LM>
 </w.rf>
 <form>TJ</form>
-<tag lemma="TJ-1_;m_^(tělovýchovná_jednota)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="TJ_;m_^(tělovýchovná_jednota)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd91303-100-p2s1w58">
 <src.rf>manual</src.rf>

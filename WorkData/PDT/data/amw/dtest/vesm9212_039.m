@@ -1890,7 +1890,7 @@
 <form>s</form>
 <tag>
 <AM lemma="strana-4_:B_^(v_knize,_rukopise,...)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="strana-4_^(v_knize,_rukopise,...)" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="strana" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-vesm9212-039-p5s2w40">

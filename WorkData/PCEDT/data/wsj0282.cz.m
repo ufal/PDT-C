@@ -3581,7 +3581,7 @@
 <tag>
 <AM lemma="dvoustý" src="auto">AAIS3----1A----</AM>
 <AM lemma="dvoustý" src="auto">AAMS3----1A----</AM>
-<AM lemma="dvoustý" src="auto" recommended="1">AANS3----1A----</AM>
+<AM lemma="dvoustý" src="auto" recommended="1">CrNS3----------</AM>
 <AM lemma="dvoustý" src="auto">CrIS3----------</AM>
 <AM lemma="dvoustý" src="auto">CrMS3----------</AM>
 <AM lemma="dvoustý" src="auto">CrNS3----------</AM>
@@ -5665,7 +5665,7 @@
 <AM lemma="Krista-4_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="Krista_;Y" src="auto">NNFS4-----A----</AM>
 <AM lemma="Kristus-3_;Y" src="auto">NNMS3-----A----</AM>
-<AM lemma="Kristus-3_;Y" src="auto" recommended="1">NNMS6-----A----</AM>
+<AM lemma="Kristus-3_;Y" src="auto" recommended="1">NNMS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-wsj0282-001-p1s18W50-Ta">
@@ -5827,7 +5827,7 @@
 <AM lemma="Hudson_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="hudson_^(dopravní_prostředek)" src="auto">NNIS1-----A----</AM>
 <AM lemma="hudson_^(dopravní_prostředek)" src="auto">NNIS4-----A----</AM>
-<AM lemma="Hudson-1_;G" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Hudson-2_;G" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0282-001-p1s18W61-Ta">
@@ -15380,7 +15380,7 @@
 <AM lemma="David_;Y" src="auto">NNMS7-----A----</AM>
 <AM lemma="Davide_;Y" src="auto">NNMS6-----A----</AM>
 <AM lemma="Davide_;Y" src="auto">NNMS7-----A----</AM>
-<AM lemma="David-2_;Y" src="manual" selected="1">NNMS7-----A----</AM>
+<AM lemma="David-1_;Y" src="manual" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0282-001-p1s46W11-Ta">

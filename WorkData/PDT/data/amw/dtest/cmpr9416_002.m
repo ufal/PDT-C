@@ -15108,7 +15108,7 @@
 <LM>w#w-cmpr9416-002-p49s5w20</LM>
 </w.rf>
 <form>pozdější</form>
-<tag lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="orig" selected="1">AAFS4----2A----</tag>
+<tag lemma="pozdější" src="orig" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-cmpr9416-002-p49s5w21">
 <src.rf>manual</src.rf>
@@ -15586,7 +15586,7 @@
 <LM>w#w-cmpr9416-002-p51s1w14</LM>
 </w.rf>
 <form>pozdějších</form>
-<tag lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="orig" selected="1">AANP6----2A----</tag>
+<tag lemma="pozdější" src="orig" selected="1">AANP6----1A----</tag>
 </m>
 <m id="m-cmpr9416-002-p51s1w15">
 <src.rf>manual</src.rf>

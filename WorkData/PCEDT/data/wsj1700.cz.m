@@ -3516,7 +3516,7 @@
 <form>tunga</form>
 <tag>
 <AM lemma="tunga" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="tung_;Y_^(Mao_ce_tung)" src="auto" selected="1">NNMS2-----A----</AM>
+<AM lemma="tung-1" src="auto" selected="1">SNMS2-----A----</AM>
 <AM lemma="tung_;Y_^(Mao_ce_tung)" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>
@@ -4422,7 +4422,7 @@
 <tag>
 <AM lemma="nekomunista" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="nekomunista" src="auto">NNMP5-----A----</AM>
-<AM lemma="komunista" src="manual" selected="1">NNMP1-----N----</AM>
+<AM lemma="nekomunista" src="manual" selected="1">NNMP1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1700-001-p1s13W20-Ta">

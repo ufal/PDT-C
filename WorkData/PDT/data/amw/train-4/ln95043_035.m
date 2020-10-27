@@ -462,7 +462,7 @@
 <LM>w#w-ln95043-035-p2s4w2</LM>
 </w.rf>
 <form>Hůře</form>
-<tag lemma="špatně" src="orig" selected="1">Dg-------2A---1</tag>
+<tag lemma="hůře" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-ln95043-035-p2s4w3">
 <src.rf>manual</src.rf>
@@ -1737,7 +1737,7 @@
 <LM>w#w-ln95043-035-p3s4w25</LM>
 </w.rf>
 <form>Hop</form>
-<tag lemma="hop-1" src="auto" selected="1">TT-------------</tag>
+<tag lemma="hop-1" src="auto" selected="1">II-------------</tag>
 </m>
 <m id="m-ln95043-035-p3s4w26">
 <src.rf>manual</src.rf>

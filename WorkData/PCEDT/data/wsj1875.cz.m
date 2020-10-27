@@ -12209,7 +12209,7 @@
 <AM lemma="image" src="auto">NNNXX-----A----</AM>
 <AM lemma="image" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="image-1" src="manual">NNFS2-----A----</AM>
-<AM lemma="image-2" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="image-2" src="manual" selected="1">NNIS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-wsj1875-001-p1s47W9-Ta">
@@ -13445,7 +13445,7 @@
 <AM lemma="nezbytný" src="auto">AAIP1----1A---6</AM>
 <AM lemma="nezbytný" src="auto">AAIP4----1A---6</AM>
 <AM lemma="nezbytný" src="auto">AAIP5----1A---6</AM>
-<AM lemma="nezbytný" src="auto" recommended="1">AAIS1----1A----</AM>
+<AM lemma="zbytný" src="auto" recommended="1">AAIS1----1N----</AM>
 <AM lemma="nezbytný" src="auto">AAIS4----1A----</AM>
 <AM lemma="nezbytný" src="auto">AAIS5----1A----</AM>
 <AM lemma="nezbytný" src="auto">AAMP1----1A---6</AM>
@@ -19157,7 +19157,7 @@
 <form>nezbytnost</form>
 <tag>
 <AM lemma="nezbytnost_^(*3ý)" src="auto">NNFS1-----A----</AM>
-<AM lemma="nezbytnost_^(*3ý)" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="zbytnost_^(*3ý)" src="auto" recommended="1">NNFS4-----N----</AM>
 </tag>
 </m>
 <m id="m-wsj1875-001-p1s75W20-Ta">

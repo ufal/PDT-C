@@ -932,7 +932,7 @@
 <LM>w#w-cmpr9417-031-p7s1w14</LM>
 </w.rf>
 <form>v</form>
-<tag lemma="veřejný_^(v.o.s.)" src="orig" selected="1">AAXXX----1A---b</tag>
+<tag lemma="v-33" src="orig" selected="1">Q3-------------</tag>
 </m>
 <m id="m-cmpr9417-031-p7s1w15">
 <src.rf>manual</src.rf>
@@ -948,7 +948,7 @@
 <LM>w#w-cmpr9417-031-p7s1w16</LM>
 </w.rf>
 <form>o</form>
-<tag lemma="obchodní_^(jen_obch._společnost)" src="orig" selected="1">AAFXX----1A---b</tag>
+<tag lemma="obchodní" src="orig" selected="1">AAFXX----1A---a</tag>
 </m>
 <m id="m-cmpr9417-031-p7s1w17">
 <src.rf>manual</src.rf>
@@ -3218,7 +3218,7 @@
 <LM>w#w-cmpr9417-031-p13s1w11</LM>
 </w.rf>
 <form>v</form>
-<tag lemma="veřejný_^(v.o.s.)" src="orig" selected="1">AAXXX----1A---b</tag>
+<tag lemma="v-33" src="orig" selected="1">Q3-------------</tag>
 </m>
 <m id="m-cmpr9417-031-p13s1w12">
 <src.rf>manual</src.rf>
@@ -3234,7 +3234,7 @@
 <LM>w#w-cmpr9417-031-p13s1w13</LM>
 </w.rf>
 <form>o</form>
-<tag lemma="obchodní_^(jen_obch._společnost)" src="orig" selected="1">AAFXX----1A---b</tag>
+<tag lemma="obchodní" src="orig" selected="1">AAFXX----1A---a</tag>
 </m>
 <m id="m-cmpr9417-031-p13s1w14">
 <src.rf>manual</src.rf>

@@ -53,7 +53,7 @@
 <form>KOČÍM</form>
 <tag>
 <AM lemma="kočí" src="orig">NNMS7-----A----</AM>
-<AM lemma="Kočí_;Y" src="manual" selected="1">NNMS7-----A----</AM>
+<AM lemma="Kočí-1_;Y" src="manual" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-006-p1s1w6">

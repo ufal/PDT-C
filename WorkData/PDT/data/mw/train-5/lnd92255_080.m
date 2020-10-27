@@ -7719,7 +7719,7 @@
 <LM>w#w-lnd92255-080-p14s3w20</LM>
 </w.rf>
 <form>ČTK</form>
-<tag lemma="ČTK-1_;m_^(Čs./Česká_tisková_kancelář)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="ČTK_;m_^(Čs./Česká_tisková_kancelář)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd92255-080-p14s3w21">
 <src.rf>manual</src.rf>
@@ -12765,7 +12765,7 @@
 <LM>w#w-lnd92255-080-p20s3w16</LM>
 </w.rf>
 <form>stály</form>
-<tag lemma="stát-4_^(něco_stojí_peníze)" src="orig" selected="1">VpTP----R-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-lnd92255-080-p20s3w17">
 <src.rf>manual</src.rf>

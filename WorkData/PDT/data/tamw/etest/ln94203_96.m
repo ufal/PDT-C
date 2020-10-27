@@ -2283,7 +2283,7 @@
 <LM>w#w-ln94203-96-p4s4w32</LM>
 </w.rf>
 <form>de</form>
-<tag lemma="de_^(z_franc._de,_zejm._ve_jménech)" src="orig" selected="1">RR--1----------</tag>
+<tag lemma="de-77" src="orig" selected="1">F%-------------</tag>
 </m>
 <m id="m-ln94203-96-p4s4w33">
 <src.rf>manual</src.rf>
@@ -4274,7 +4274,7 @@
 <LM>w#w-ln94203-96-p5s6w12</LM>
 </w.rf>
 <form>de</form>
-<tag lemma="de_^(z_franc._de,_zejm._ve_jménech)" src="orig" selected="1">RR--1----------</tag>
+<tag lemma="de-77" src="orig" selected="1">F%-------------</tag>
 </m>
 <m id="m-ln94203-96-p5s6w13">
 <src.rf>manual</src.rf>
@@ -4316,7 +4316,7 @@
 <LM>w#w-ln94203-96-p5s7w1</LM>
 </w.rf>
 <form>CD</form>
-<tag lemma="CD-1_^(Audio/Data,_Compactisc)" src="auto" selected="1">BNXXX-----A----</tag>
+<tag lemma="CD-1_^(Audio/Data,_Compact_Disc)" src="auto" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94203-96-p5s7w2">
 <src.rf>manual</src.rf>

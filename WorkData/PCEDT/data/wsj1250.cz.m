@@ -3252,7 +3252,7 @@
 <tag>
 <AM lemma="podezřelý" src="auto" recommended="1">AAMP1----1A----</AM>
 <AM lemma="podezřelý" src="auto">AAMP5----1A----</AM>
-<AM lemma="podezřelý-2" src="manual" selected="1">NNMP1-----A----</AM>
+<AM lemma="podezřelý" src="manual" selected="1">AAMP1----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj1250-001-p1s8W7-Ta">
@@ -8961,7 +8961,7 @@
 <AM lemma="stávkující_^(*5ovat)" src="auto">AGNS1-----A----</AM>
 <AM lemma="stávkující_^(*5ovat)" src="auto">AGNS4-----A----</AM>
 <AM lemma="stávkující_^(*5ovat)" src="auto">AGNS5-----A----</AM>
-<AM lemma="stávkující-2" src="manual" selected="1">NNMP1-----A----</AM>
+<AM lemma="stávkující_^(*5ovat)" src="manual" selected="1">AGMP1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1250-001-p1s26W2-Ta">
@@ -9743,7 +9743,7 @@
 <AM lemma="stávkující_^(*5ovat)" src="auto">AGMP6-----A----</AM>
 <AM lemma="stávkující_^(*5ovat)" src="auto">AGNP2-----A----</AM>
 <AM lemma="stávkující_^(*5ovat)" src="auto">AGNP6-----A----</AM>
-<AM lemma="stávkující-2" src="manual" selected="1">NNMP2-----A----</AM>
+<AM lemma="stávkující_^(*5ovat)" src="manual" selected="1">AGMP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1250-001-p1s27W26-Ta">

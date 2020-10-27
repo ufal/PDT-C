@@ -1551,7 +1551,7 @@
 <AM lemma="obvinění_^(*3it)" src="auto">NNNS4-----A----</AM>
 <AM lemma="obvinění_^(*3it)" src="auto">NNNS5-----A----</AM>
 <AM lemma="obvinění_^(*3it)" src="auto">NNNS6-----A----</AM>
-<AM lemma="obviněný-2" src="manual" selected="1">NNMP1-----A----</AM>
+<AM lemma="obviněný_^(*3it)" src="manual" selected="1">AAMP1----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj1940-001-p1s6W4-Ta">

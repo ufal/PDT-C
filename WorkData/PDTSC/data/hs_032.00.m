@@ -981,7 +981,7 @@
 <form>Chlum</form>
 <tag>
 <AM lemma="Chlum_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Chlum_;G" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="Chlum-2_;G" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="Chlum_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Chlumy_;G" src="auto">NNIP2-----A----</AM>
 <AM lemma="chlum" src="auto">NNIS1-----A----</AM>
@@ -1575,7 +1575,7 @@
 <AM lemma="Slovan-2_;m" src="auto">NNIP5-----A----</AM>
 <AM lemma="Slovan-2_;m" src="auto">NNIP7-----A----</AM>
 <AM lemma="Slovany_;G" src="auto">NNFP1-----A----</AM>
-<AM lemma="Slovany_;G" src="auto" recommended="1">NNFP4-----A----</AM>
+<AM lemma="Slovany_;G" src="auto" recommended="1">NNIP4-----A----</AM>
 <AM lemma="Slovany_;G" src="auto">NNFP5-----A----</AM>
 </tag>
 </m>
@@ -2068,7 +2068,7 @@
 <form>Chlum</form>
 <tag>
 <AM lemma="Chlum_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Chlum_;G" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="Chlum-2_;G" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="Chlum_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Chlumy_;G" src="auto">NNIP2-----A----</AM>
 <AM lemma="chlum" src="auto">NNIS1-----A----</AM>
@@ -3332,7 +3332,7 @@
 <AM lemma="Slovan-2_;m" src="auto">NNIP5-----A----</AM>
 <AM lemma="Slovan-2_;m" src="auto">NNIP7-----A----</AM>
 <AM lemma="Slovany_;G" src="auto">NNFP1-----A----</AM>
-<AM lemma="Slovany_;G" src="auto" recommended="1">NNFP4-----A----</AM>
+<AM lemma="Slovany_;G" src="auto" recommended="1">NNIP4-----A----</AM>
 <AM lemma="Slovany_;G" src="auto">NNFP5-----A----</AM>
 </tag>
 </m>
@@ -4762,7 +4762,7 @@
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP5FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSZS1FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSZS5FS3-------</AM>
-<AM lemma="jeho_^(**můj)_(přivlast.)" src="manual" selected="1">PSFXXFS3-------</AM>
+<AM lemma="jeho" src="manual" selected="1">P9FXXFS3-------</AM>
 </tag>
 </m>
 <m id="m032-d1t397-3">

@@ -3437,7 +3437,7 @@
 <AM lemma="vertex" src="auto">NNIS2-----A----</AM>
 <AM lemma="vertex" src="auto">NNIS3-----A----</AM>
 <AM lemma="vertex" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="Vertex-2_;m" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="Vertex_;m" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m784-d1t1972-5">

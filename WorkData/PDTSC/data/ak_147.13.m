@@ -4646,7 +4646,7 @@
 <AM lemma="data_^(údaje,_např._v_databázi)" src="auto">NNNP4-----A----</AM>
 <AM lemma="data_^(údaje,_např._v_databázi)" src="auto">NNNP5-----A----</AM>
 <AM lemma="datum_^(kalendářní)" src="auto">NNNP1-----A----</AM>
-<AM lemma="datum_^(kalendářní)" src="auto" recommended="1">NNNP4-----A----</AM>
+<AM lemma="datum-1_^(kalendářní)" src="auto" recommended="1">NNNP4-----A----</AM>
 <AM lemma="datum_^(kalendářní)" src="auto">NNNP5-----A----</AM>
 <AM lemma="datum_^(kalendářní)" src="auto">NNNS2-----A----</AM>
 </tag>

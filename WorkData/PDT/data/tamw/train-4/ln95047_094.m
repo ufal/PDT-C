@@ -1249,7 +1249,7 @@
 <form>nesolventnosti</form>
 <tag>
 <AM lemma="nesolventnost" src="orig">NNFS2-----A----</AM>
-<AM lemma="solventnost" src="manual" selected="1">NNFS2-----N----</AM>
+<AM lemma="nesolventnost" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-094-p3s5w24">

@@ -3575,7 +3575,7 @@
 <LM>w#w-vesm9303-040-p4s4w10</LM>
 </w.rf>
 <form>Husem</form>
-<tag lemma="Hus_;Y" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Hus-1_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-vesm9303-040-p4s4w11">
 <src.rf>manual</src.rf>
@@ -6303,7 +6303,7 @@
 <LM>w#w-vesm9303-040-p6s2w16</LM>
 </w.rf>
 <form>Husem</form>
-<tag lemma="Hus_;Y" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Hus-1_;Y" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-vesm9303-040-p6s2w17">
 <src.rf>manual</src.rf>

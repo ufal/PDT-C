@@ -3949,7 +3949,7 @@
 <LM>w#w-cmpr9417-005-p11s2w35</LM>
 </w.rf>
 <form>L</form>
-<tag lemma="Labe_;G" src="orig" selected="1">NNNS7-----A---b</tag>
+<tag lemma="L-33" src="orig" selected="1">Q3-------------</tag>
 </m>
 <m id="m-cmpr9417-005-p11s2w36">
 <src.rf>manual</src.rf>
@@ -6855,7 +6855,7 @@
 <LM>w#w-cmpr9417-005-p16s5w6</LM>
 </w.rf>
 <form>Fatry</form>
-<tag lemma="Fatra_;Y" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Fatra_;G_;Y_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-cmpr9417-005-p16s5w7">
 <src.rf>manual</src.rf>

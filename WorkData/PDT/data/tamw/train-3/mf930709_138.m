@@ -97,7 +97,7 @@
 <AM lemma="Super-1_;m_^(druh_benzínu)" src="auto">AAXXX----1A----</AM>
 <AM lemma="Super-2_,t_^(souč._cizojaz._názvů)" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="super_,h_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Super-3_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Super-1_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-138-p1s1w10">
@@ -470,7 +470,7 @@
 <AM lemma="Super-1_;m_^(druh_benzínu)" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="Super-2_,t_^(souč._cizojaz._názvů)" src="auto">AAXXX----1A----</AM>
 <AM lemma="super_,h_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Super-3_;m" src="manual" selected="1">NNIS4-----A----</AM>
+<AM lemma="Super-1_;m" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-138-p1s4w22">

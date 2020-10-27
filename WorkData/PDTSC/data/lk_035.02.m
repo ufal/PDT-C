@@ -4291,7 +4291,7 @@
 <form>žigulíka</form>
 <tag>
 <AM lemma="žigulík_,h" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="žigulík_,h" src="auto" selected="1">NNMS4-----A----</AM>
+<AM lemma="žigulík_,h" src="auto" selected="1">NNIS4-----A---1</AM>
 </tag>
 </m>
 <m id="m035-379-392">

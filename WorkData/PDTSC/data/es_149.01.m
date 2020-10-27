@@ -3550,7 +3550,7 @@
 <AM lemma="Fatra_;Y" src="auto">NNFP1-----A----</AM>
 <AM lemma="Fatra_;Y" src="auto">NNFP4-----A----</AM>
 <AM lemma="Fatra_;Y" src="auto">NNFP5-----A----</AM>
-<AM lemma="Fatra_;Y" src="auto" selected="1">NNFS2-----A----</AM>
+<AM lemma="Fatra_;G_;Y_;m" src="auto" selected="1">NNFS2-----A----</AM>
 <AM lemma="fatra_,t_^(oheň)" src="auto">NNFP1-----A----</AM>
 <AM lemma="fatra_,t_^(oheň)" src="auto">NNFP4-----A----</AM>
 <AM lemma="fatra_,t_^(oheň)" src="auto">NNFP5-----A----</AM>
@@ -3645,7 +3645,7 @@
 <AM lemma="Fatra_;Y" src="auto">NNFP1-----A----</AM>
 <AM lemma="Fatra_;Y" src="auto">NNFP4-----A----</AM>
 <AM lemma="Fatra_;Y" src="auto">NNFP5-----A----</AM>
-<AM lemma="Fatra_;Y" src="auto" selected="1">NNFS2-----A----</AM>
+<AM lemma="Fatra_;G_;Y_;m" src="auto" selected="1">NNFS2-----A----</AM>
 <AM lemma="fatra_,t_^(oheň)" src="auto">NNFP1-----A----</AM>
 <AM lemma="fatra_,t_^(oheň)" src="auto">NNFP4-----A----</AM>
 <AM lemma="fatra_,t_^(oheň)" src="auto">NNFP5-----A----</AM>

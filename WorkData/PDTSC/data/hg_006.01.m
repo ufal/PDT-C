@@ -3199,7 +3199,7 @@
 <AM lemma="Schelle_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Schelle_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Schelle_;Y" src="auto" recommended="1">NNMXX-----A----</AM>
-<AM lemma="Schelle-2_;G" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="Schelle-2_;G" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m006-d-id71517">
@@ -3260,7 +3260,7 @@
 <AM lemma="Šel_;Y" src="auto" recommended="1">NNMS5-----A----</AM>
 <AM lemma="Šela_;m" src="auto">NNFS3-----A----</AM>
 <AM lemma="Šela_;m" src="auto">NNFS6-----A----</AM>
-<AM lemma="Šele_,i_^(^DS**Schelle)" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="Šele_;G_,i_^(^DS**Schelle)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m006-d1e527-x2-369">

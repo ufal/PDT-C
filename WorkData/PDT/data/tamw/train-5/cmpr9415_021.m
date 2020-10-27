@@ -608,7 +608,7 @@
 <LM>w#w-cmpr9415-021-p4s4w3</LM>
 </w.rf>
 <form>exportu</form>
-<tag lemma="export" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="export" src="orig" selected="1">NNIS6-----A---1</tag>
 </m>
 <m id="m-cmpr9415-021-p4s4w4">
 <src.rf>manual</src.rf>

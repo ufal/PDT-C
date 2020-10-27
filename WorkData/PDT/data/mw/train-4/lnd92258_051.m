@@ -109,7 +109,7 @@
 <LM>w#w-lnd92258-051-p2s1w8</LM>
 </w.rf>
 <form>Četky</form>
-<tag lemma="Četka_,l" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Četka_;m_,l" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92258-051-p2s1w9">
 <src.rf>manual</src.rf>

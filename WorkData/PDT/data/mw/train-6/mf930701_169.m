@@ -3283,7 +3283,7 @@
 <LM>w#w-mf930701-169-p10s1w4</LM>
 </w.rf>
 <form>ČTK</form>
-<tag lemma="ČTK-1_;m_^(Čs./Česká_tisková_kancelář)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="ČTK_;m_^(Čs./Česká_tisková_kancelář)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 </s>
 <s id="m-mf930701-169-p11s1">

@@ -3258,7 +3258,7 @@
 <LM>w#w-ln94208-88-p4s11w24</LM>
 </w.rf>
 <form>Kuchaře</form>
-<tag lemma="Kuchař_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Kuchař-1_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94208-88-p4s11w25">
 <src.rf>manual</src.rf>

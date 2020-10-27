@@ -141,7 +141,7 @@
 <LM>w#w-lnd94105-084-p1s1Cw10</LM>
 </w.rf>
 <form>pár</form>
-<tag lemma="pár" src="orig" selected="1">Cn-S4----------</tag>
+<tag lemma="pár-1" src="orig" selected="1">Ca--X----------</tag>
 </m>
 <m id="m-lnd94105-084-p1s1Cw11">
 <src.rf>manual</src.rf>
@@ -471,7 +471,7 @@
 <LM>w#w-lnd94105-084-p1s3w9</LM>
 </w.rf>
 <form>pozdější</form>
-<tag lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="orig" selected="1">AAFS4----2A----</tag>
+<tag lemma="pozdější" src="orig" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-lnd94105-084-p1s3w10">
 <src.rf>manual</src.rf>

@@ -2324,7 +2324,7 @@
 <form>Ö</form>
 <tag>
 <AM lemma="Ö-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="Ö-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Ö-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920922-058-p2s7w26">
@@ -3390,7 +3390,7 @@
 <LM>w#w-mf920922-058-p2s13w6</LM>
 </w.rf>
 <form>neúčasti</form>
-<tag lemma="neúčast" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="účast" src="orig" selected="1">NNFS6-----N----</tag>
 </m>
 <m id="m-mf920922-058-p2s13w7">
 <src.rf>manual</src.rf>

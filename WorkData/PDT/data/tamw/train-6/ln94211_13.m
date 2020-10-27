@@ -526,7 +526,7 @@
 <form>Fatry</form>
 <tag>
 <AM lemma="Fatra_;Y" src="auto">NNFS2-----A----</AM>
-<AM lemma="Fatra-2_;m" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="Fatra_;G_;Y_;m" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-13-p3s1w8">
@@ -1413,7 +1413,7 @@
 <form>Fatry</form>
 <tag>
 <AM lemma="Fatra_;Y" src="auto">NNFS2-----A----</AM>
-<AM lemma="Fatra-2_;m" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="Fatra_;G_;Y_;m" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-13-p4s3w23">

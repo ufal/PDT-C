@@ -1707,7 +1707,7 @@
 </w.rf>
 <form>Stonea</form>
 <tag>
-<AM lemma="Stone_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Stone_;Y" src="auto" recommended="1">NNMS2-----A---1</AM>
 <AM lemma="Stone_;Y" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>
@@ -2355,7 +2355,7 @@
 </w.rf>
 <form>Stoneovi</form>
 <tag>
-<AM lemma="Stone_;Y" src="auto" recommended="1">NNMS3-----A----</AM>
+<AM lemma="Stone_;Y" src="auto" recommended="1">NNMS3-----A---2</AM>
 <AM lemma="Stone_;Y" src="auto">NNMS6-----A----</AM>
 <AM lemma="Stoneův_;Y_^(*2)" src="auto">AUMP1M---------</AM>
 <AM lemma="Stoneův_;Y_^(*2)" src="auto">AUMP5M---------</AM>
@@ -8913,7 +8913,7 @@
 </w.rf>
 <form>Stonea</form>
 <tag>
-<AM lemma="Stone_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Stone_;Y" src="auto" recommended="1">NNMS2-----A---1</AM>
 <AM lemma="Stone_;Y" src="auto">NNMS4-----A----</AM>
 </tag>
 </m>

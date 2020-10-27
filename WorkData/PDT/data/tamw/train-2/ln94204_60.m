@@ -43,7 +43,7 @@
 <LM>w#w-ln94204-60-p1s1w4</LM>
 </w.rf>
 <form>Klosea</form>
-<tag lemma="Klose_;Y" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Klose_;Y" src="orig" selected="1">NNMS4-----A---1</tag>
 </m>
 <m id="m-ln94204-60-p1s1w5">
 <src.rf>manual</src.rf>

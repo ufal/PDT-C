@@ -1174,7 +1174,7 @@
 <LM>w#w-ln95045-062-p5s1w16</LM>
 </w.rf>
 <form>statu</form>
-<tag lemma="status" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="status" src="orig" selected="1">NNIS2-----A---1</tag>
 </m>
 <m id="m-ln95045-062-p5s1w17">
 <src.rf>manual</src.rf>

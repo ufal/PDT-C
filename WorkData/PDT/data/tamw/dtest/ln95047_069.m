@@ -4708,7 +4708,7 @@
 <LM>w#w-ln95047-069-p6s4w20</LM>
 </w.rf>
 <form>něhož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS4----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS4---------3</tag>
 </m>
 <m id="m-ln95047-069-p6s4w21">
 <src.rf>manual</src.rf>
@@ -6389,7 +6389,7 @@
 <LM>w#w-ln95047-069-p8s1w44</LM>
 </w.rf>
 <form>Mora</form>
-<tag lemma="Moro_;Y" src="auto" selected="1">NNMS2-----A----</tag>
+<tag lemma="Moro-1_;Y" src="auto" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln95047-069-p8s1w45">
 <src.rf>manual</src.rf>

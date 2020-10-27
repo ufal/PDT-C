@@ -5571,7 +5571,7 @@
 <tag>
 <AM lemma="Science-77" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="science-77" src="auto">F%-------------</AM>
-<AM lemma="Science_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Science_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0794-001-p1s23W14-Ta">

@@ -950,7 +950,7 @@
 <form>str</form>
 <tag>
 <AM lemma="strana-4_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="strana-4_^(v_knize,_rukopise,...)" src="manual" selected="1">NNFXX-----A---9</AM>
+<AM lemma="strana" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-vesm9211-049-p3s1w7">

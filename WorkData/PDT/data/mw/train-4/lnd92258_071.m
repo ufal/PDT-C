@@ -2915,7 +2915,7 @@
 <LM>w#w-lnd92258-071-p6s2w20</LM>
 </w.rf>
 <form>desetitisíce</form>
-<tag lemma="desetitisíce`10000" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="desetitisíc`10000" src="orig" selected="1">CzIP1----------</tag>
 </m>
 <m id="m-lnd92258-071-p6s2w21">
 <src.rf>manual</src.rf>

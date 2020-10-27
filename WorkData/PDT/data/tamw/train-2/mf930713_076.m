@@ -59,7 +59,7 @@
 <AM lemma="Pretorius_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Pretorius_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="Pretoria_;G_,s_^(^DD**Pretorie)" src="manual">NNFS1-----A---1</AM>
-<AM lemma="Pretoria_;G_,s_^(^DD**Pretorie)" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Pretorie_;G" src="manual" selected="1">NNFS1-----A---1</AM>
 </tag>
 </m>
 <m id="m-mf930713-076-p2s1Aw2">

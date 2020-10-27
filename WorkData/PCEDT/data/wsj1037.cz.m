@@ -12755,7 +12755,7 @@
 <AM lemma="Sylvius_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Sylvius_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="Sylvie_;Y_,t" src="auto" recommended="1">NNFS1-----A---1</AM>
-<AM lemma="Sylvia_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Sylvie_;Y" src="manual" selected="1">NNFS1-----A---1</AM>
 </tag>
 </m>
 <m id="m-wsj1037-001-p1s40W28-Ta">

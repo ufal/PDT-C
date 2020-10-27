@@ -6993,7 +6993,7 @@
 <tag>
 <AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
 <AM lemma="takzvaný" src="manual">AAXXX----1A---8</AM>
-<AM lemma="takzvaně_^(*1ý)" src="manual" selected="1">Dg-------1A---8</AM>
+<AM lemma="takzvaně" src="manual" selected="1">Dg-------1A---b</AM>
 </tag>
 </m>
 <m id="m-ln94205-94-p13s6w6">
@@ -10586,7 +10586,7 @@
 <form>tzv</form>
 <tag>
 <AM lemma="takzvaný_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="takzvaně_^(*1ý)" src="manual" selected="1">Dg-------1A---8</AM>
+<AM lemma="takzvaně" src="manual" selected="1">Dg-------1A---b</AM>
 </tag>
 </m>
 <m id="m-ln94205-94-p22s2w13">

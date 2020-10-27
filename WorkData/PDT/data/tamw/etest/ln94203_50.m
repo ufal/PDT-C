@@ -1645,7 +1645,7 @@
 <LM>w#w-ln94203-50-p3s1w25</LM>
 </w.rf>
 <form>Husa</form>
-<tag lemma="Hus_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Hus-1_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94203-50-p3s1w26">
 <src.rf>manual</src.rf>
@@ -1717,7 +1717,7 @@
 <LM>w#w-ln94203-50-p3s1w34</LM>
 </w.rf>
 <form>Husa</form>
-<tag lemma="Hus_;Y" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Hus-1_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94203-50-p3s1w35">
 <src.rf>manual</src.rf>

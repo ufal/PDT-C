@@ -11755,7 +11755,7 @@
 <AM lemma="zletilý" src="auto">AAMP6----1N----</AM>
 <AM lemma="zletilý" src="auto">AANP2----1N----</AM>
 <AM lemma="zletilý" src="auto">AANP6----1N----</AM>
-<AM lemma="zletilý-2" src="manual" selected="1">NNMP2-----N----</AM>
+<AM lemma="zletilý" src="manual" selected="1">AAMP2----1N----</AM>
 </tag>
 </m>
 <m id="m-wsj1671-001-p1s46W9-Ta">

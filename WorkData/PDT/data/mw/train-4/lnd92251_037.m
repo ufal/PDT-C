@@ -2329,7 +2329,7 @@
 <AM lemma="Mazowiecki_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Mazowiecký_;Y" src="auto" recommended="1">NNMS1-----A---1</AM>
 <AM lemma="Mazowiecký_;Y" src="auto">NNMS5-----A---1</AM>
-<AM lemma="Mazowiecki_;Y_,s_^(^DD**Mazowiecký)" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Mazowiecký_;Y" src="manual" selected="1">NNMS1-----A---1</AM>
 </tag>
 </m>
 <m id="m-lnd92251-037-p7s1w24">

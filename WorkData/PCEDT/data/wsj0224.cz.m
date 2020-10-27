@@ -3516,7 +3516,7 @@
 <AM lemma="Ridley_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Ridley_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="Ridleyův_;Y_^(*2)" src="manual">AUNS6M---------</AM>
-<AM lemma="Ridleyho_;Y_^(*2)" src="manual" selected="1">AUNS6M---------</AM>
+<AM lemma="Ridley_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0224-001-p1s12W4-Ta">
@@ -14231,7 +14231,7 @@
 <AM lemma="soutěžící_^(*3it)" src="auto">AGNS1-----A----</AM>
 <AM lemma="soutěžící_^(*3it)" src="auto">AGNS4-----A----</AM>
 <AM lemma="soutěžící_^(*3it)" src="auto">AGNS5-----A----</AM>
-<AM lemma="soutěžící-2" src="manual" selected="1">NNMP4-----A----</AM>
+<AM lemma="soutěžící_^(*3it)" src="manual" selected="1">AGMP4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0224-001-p1s46W23-Ta">

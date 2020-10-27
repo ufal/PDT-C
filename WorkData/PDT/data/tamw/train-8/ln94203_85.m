@@ -15953,7 +15953,7 @@
 <LM>w#w-ln94203-85-p21s3w18</LM>
 </w.rf>
 <form>čistším</form>
-<tag lemma="čistý" src="orig" selected="1">AAIS6----2A----</tag>
+<tag lemma="čistý" src="orig" selected="1">AAIS6----2A---1</tag>
 </m>
 <m id="m-ln94203-85-p21s3w19">
 <src.rf>manual</src.rf>
@@ -16373,7 +16373,7 @@
 <LM>w#w-ln94203-85-p21s5w20</LM>
 </w.rf>
 <form>snazší</form>
-<tag lemma="snadný" src="orig" selected="1">AAIS4----2A----</tag>
+<tag lemma="snadný" src="orig" selected="1">AAFS4----2A---1</tag>
 </m>
 <m id="m-ln94203-85-p21s5w21">
 <src.rf>manual</src.rf>

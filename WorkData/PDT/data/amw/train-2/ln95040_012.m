@@ -2517,7 +2517,7 @@
 <LM>w#w-ln95040-012-p5s3w7</LM>
 </w.rf>
 <form>neúčast</form>
-<tag lemma="neúčast" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="účast" src="orig" selected="1">NNFS1-----N----</tag>
 </m>
 <m id="m-ln95040-012-p5s3w8">
 <src.rf>manual</src.rf>

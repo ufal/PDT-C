@@ -4274,7 +4274,7 @@
 <AM lemma="Kelso" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="Kelso" src="auto">NNNS4-----A----</AM>
 <AM lemma="Kelso" src="auto">NNNS5-----A----</AM>
-<AM lemma="Kelso_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Kelso-2" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m118-d-id126611-punct">

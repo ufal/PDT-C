@@ -9033,7 +9033,7 @@
 <AM lemma="Marius_;Y_,t" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Marius_;Y_,t" src="auto">NNMS4-----A----</AM>
 <AM lemma="Maria_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Mario_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Mario_;Y_,s_^(^DD**Mário)" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0765-001-p1s32W32-Ta">
@@ -24434,7 +24434,7 @@
 </w.rf>
 <form>Hudson</form>
 <tag>
-<AM lemma="Hudson_;G" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Hudson-2_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Hudson_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Hudson_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="hudson_^(dopravní_prostředek)" src="auto">NNIS1-----A----</AM>
@@ -32102,7 +32102,7 @@
 <AM lemma="obviněný_^(*3it)" src="auto">AANP3----1A----</AM>
 <AM lemma="obviněný_^(*3it)" src="auto">AANS6----1A---7</AM>
 <AM lemma="obviněný_^(*3it)" src="auto">AANS7----1A----</AM>
-<AM lemma="obviněný-2" src="manual" selected="1">NNMP3-----A----</AM>
+<AM lemma="obviněný_^(*3it)" src="manual" selected="1">AAMP3----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0765-001-p1s103W11-Ta">

@@ -1338,7 +1338,7 @@
 <AM lemma="kozel" src="auto">NNMS6-----A---1</AM>
 <AM lemma="kozlův_^(*3el)" src="auto">AUMP1M---------</AM>
 <AM lemma="kozlův_^(*3el)" src="auto">AUMP5M---------</AM>
-<AM lemma="Kozel_;Y_;m" src="manual" selected="1">NNMS3-----A---1</AM>
+<AM lemma="Kozel-1_;Y" src="manual" selected="1">NNMS3-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln95047-017-p4s2w18">

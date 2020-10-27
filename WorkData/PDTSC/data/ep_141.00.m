@@ -5265,7 +5265,7 @@
 <AM lemma="noční" src="auto">AANS1----1A----</AM>
 <AM lemma="noční" src="auto">AANS4----1A----</AM>
 <AM lemma="noční" src="auto">AANS5----1A----</AM>
-<AM lemma="noční-2" src="manual" selected="1">NNFP4-----A----</AM>
+<AM lemma="noční" src="manual" selected="1">AAFP4----1A----</AM>
 </tag>
 </m>
 <m id="m141-d1e171-x2-83">
@@ -5629,7 +5629,7 @@
 <AM lemma="noční" src="auto">AANS1----1A----</AM>
 <AM lemma="noční" src="auto">AANS4----1A----</AM>
 <AM lemma="noční" src="auto">AANS5----1A----</AM>
-<AM lemma="noční-2" src="manual" selected="1">NNFS4-----A----</AM>
+<AM lemma="noční" src="manual" selected="1">AAFS4----1A----</AM>
 </tag>
 </m>
 <m id="m141-93-126">

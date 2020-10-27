@@ -13,7 +13,7 @@
 </w.rf>
 <form>Velikonoce</form>
 <tag>
-<AM lemma="Velikonoce" src="auto" recommended="1">NNFP1-----A----</AM>
+<AM lemma="Velikonoce_;m" src="auto" recommended="1">NNFP1-----A----</AM>
 <AM lemma="Velikonoce" src="auto">NNFP4-----A----</AM>
 <AM lemma="Velikonoce" src="auto">NNFP5-----A----</AM>
 <AM lemma="Velikonoce" src="auto">NNFP6-----A---6</AM>

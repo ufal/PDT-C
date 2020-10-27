@@ -457,7 +457,7 @@
 <LM>w#w-lnd92255-031-p2s1w14</LM>
 </w.rf>
 <form>Galileiho</form>
-<tag lemma="Galilei_;Y" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Galilei_;Y" src="orig" selected="1">NNMS4-----A---1</tag>
 </m>
 <m id="m-lnd92255-031-p2s1w15">
 <src.rf>manual</src.rf>

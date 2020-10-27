@@ -3401,7 +3401,7 @@
 <form>kyčel</form>
 <tag>
 <AM lemma="kyčel" src="auto">NNFS1-----A---1</AM>
-<AM lemma="kyčel" src="auto" recommended="1">NNFS4-----A---1</AM>
+<AM lemma="kyčel-2" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="kyčel" src="auto">NNIS1-----A----</AM>
 <AM lemma="kyčel" src="auto">NNIS4-----A----</AM>
 </tag>

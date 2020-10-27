@@ -9443,7 +9443,7 @@
 <AM lemma="nestabilita" src="auto">NNFP4-----A----</AM>
 <AM lemma="nestabilita" src="auto">NNFP5-----A----</AM>
 <AM lemma="nestabilita" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="stabilita" src="manual" selected="1">NNFS2-----N----</AM>
+<AM lemma="nestabilita" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1619-001-p1s23W4-Ta">
@@ -10169,7 +10169,7 @@
 <AM lemma="nabízející_^(*4t)" src="auto">AGNS1-----A----</AM>
 <AM lemma="nabízející_^(*4t)" src="auto">AGNS4-----A----</AM>
 <AM lemma="nabízející_^(*4t)" src="auto">AGNS5-----A----</AM>
-<AM lemma="nabízející-2" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="nabízející_^(*4t)" src="manual" selected="1">AGMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1619-001-p1s25W3-Ta">
@@ -12086,7 +12086,7 @@
 <tag>
 <AM lemma="neúspěch" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="neúspěch" src="auto">NNIS4-----A----</AM>
-<AM lemma="úspěch" src="manual" selected="1">NNIS1-----N----</AM>
+<AM lemma="neúspěch" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1619-001-p1s31W11-Ta">

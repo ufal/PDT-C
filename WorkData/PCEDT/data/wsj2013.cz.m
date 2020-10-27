@@ -9794,7 +9794,7 @@
 <tag>
 <AM lemma="Tony_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Tony_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Tonyho_;Y_^(*2)" src="manual" selected="1">AUFP4M---------</AM>
+<AM lemma="Tony_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2013-001-p1s36W20-Ta">
@@ -17964,7 +17964,7 @@
 <AM lemma="nepořádek" src="auto">NNIS3-----A----</AM>
 <AM lemma="nepořádek" src="auto">NNIS5-----A----</AM>
 <AM lemma="nepořádek" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="pořádek" src="manual" selected="1">NNIS6-----N----</AM>
+<AM lemma="nepořádek" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2013-001-p1s67W13-Ta">
@@ -32709,7 +32709,7 @@
 </w.rf>
 <form>Nikaragui</form>
 <tag>
-<AM lemma="Nikaragua_;G" src="auto" recommended="1">NNFS2-----A---2</AM>
+<AM lemma="Nikaragua_;G" src="auto" recommended="1">NNFS2-----A---3</AM>
 <AM lemma="Nikaragua_;G" src="auto">NNFS3-----A---2</AM>
 </tag>
 </m>
@@ -36315,7 +36315,7 @@
 <AM lemma="nezdara" src="auto">NNMP4-----A----</AM>
 <AM lemma="nezdara" src="auto">NNMP7-----A----</AM>
 <AM lemma="nezdara" src="auto">NNMS2-----A----</AM>
-<AM lemma="zdar" src="manual" selected="1">NNIP1-----N----</AM>
+<AM lemma="nezdar" src="manual" selected="1">NNIP1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2013-001-p1s139W4-Ta">

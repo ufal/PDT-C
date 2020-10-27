@@ -365,7 +365,7 @@
 <LM>w#w-mf920924-119-p2s3w5</LM>
 </w.rf>
 <form>neexistence</form>
-<tag lemma="neexistence" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="existence" src="orig" selected="1">NNFS1-----N----</tag>
 </m>
 <m id="m-mf920924-119-p2s3w6">
 <src.rf>manual</src.rf>

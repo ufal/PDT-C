@@ -1663,7 +1663,7 @@
 <LM>w#w-lnd92258-127-p5s1w24</LM>
 </w.rf>
 <form>Cagliari</form>
-<tag lemma="Cagliari_;G" src="auto" selected="1">NNNXX-----A----</tag>
+<tag lemma="Cagliari-2_;G" src="auto" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-lnd92258-127-p5s1w25">
 <src.rf>manual</src.rf>
@@ -3201,7 +3201,7 @@
 <form>Cagliari</form>
 <tag>
 <AM lemma="Cagliari_;m" src="orig">NNIS1-----A----</AM>
-<AM lemma="Cagliari_;G" src="auto" recommended="1" selected="1">NNNXX-----A----</AM>
+<AM lemma="Cagliari-2_;G" src="auto" recommended="1" selected="1">NNXXX-----A----</AM>
 <AM lemma="Cagliari_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Cagliari_;Y" src="auto">NNMS5-----A----</AM>
 </tag>
@@ -5533,7 +5533,7 @@
 </w.rf>
 <form>Tenerife</form>
 <tag>
-<AM lemma="Tenerife-2_;G" src="orig" selected="1">NNNS1-----A----</AM>
+<AM lemma="Tenerife-2_;G" src="orig" selected="1">NNNXX-----A----</AM>
 <AM lemma="Tenerife_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Tenerife_;Y" src="auto">NNMS5-----A----</AM>
 </tag>
@@ -6902,7 +6902,7 @@
 <AM lemma="Tenerife_;G" src="orig">NNFS1-----A----</AM>
 <AM lemma="Tenerife_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Tenerife_;Y" src="auto">NNMS5-----A----</AM>
-<AM lemma="Tenerife-2_;G" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Tenerife-2_;G" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-127-p39s1w4">

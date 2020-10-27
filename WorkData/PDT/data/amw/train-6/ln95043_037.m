@@ -2633,7 +2633,7 @@
 <LM>w#w-ln95043-037-p5s4w11</LM>
 </w.rf>
 <form>pár</form>
-<tag lemma="pár-1" src="orig" selected="1">ClXP2----------</tag>
+<tag lemma="pár-1" src="orig" selected="1">Ca--X----------</tag>
 </m>
 <m id="m-ln95043-037-p5s4w12">
 <src.rf>manual</src.rf>

@@ -5840,7 +5840,7 @@
 <AM lemma="Yale_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Yale_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Yale_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Yale-1_;G" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Yale-2_;G" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1450-001-p1s27W17-Ta">

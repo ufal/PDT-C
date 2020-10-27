@@ -751,7 +751,7 @@
 <LM>w#w-vesm9212-005-p8s3w8</LM>
 </w.rf>
 <form>Římané</form>
-<tag lemma="Říman_;E" src="orig" selected="1">NNMP1-----A----</tag>
+<tag lemma="Říman_;E_;Y" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-vesm9212-005-p8s3w9">
 <src.rf>manual</src.rf>

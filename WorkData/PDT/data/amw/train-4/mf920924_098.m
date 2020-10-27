@@ -207,7 +207,7 @@
 <LM>w#w-mf920924-098-p3s1w3</LM>
 </w.rf>
 <form>SP</form>
-<tag lemma="SP-3_^(Světový_pohár)" src="auto" selected="1">NNIXX-----A---b</tag>
+<tag lemma="SP-3_^(Světový_pohár)" src="auto" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf920924-098-p3s1w4">
 <src.rf>manual</src.rf>

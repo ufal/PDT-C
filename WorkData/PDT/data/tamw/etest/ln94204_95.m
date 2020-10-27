@@ -2699,7 +2699,7 @@
 <LM>w#w-ln94204-95-p5s4w9</LM>
 </w.rf>
 <form>CD</form>
-<tag lemma="CD-1_^(Audio/Data,_Compactisc)" src="auto" selected="1">BNXXX-----A----</tag>
+<tag lemma="CD-1_^(Audio/Data,_Compact_Disc)" src="auto" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94204-95-p5s4w10">
 <src.rf>manual</src.rf>

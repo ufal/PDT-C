@@ -2296,7 +2296,7 @@
 <form>konkurzu</form>
 <tag>
 <AM lemma="konkurs_^(úpadek;;soutěž)" src="auto">NNIS6-----A---1</AM>
-<AM lemma="konkurz" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="konkurz" src="manual" selected="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln94203-82-p3s3w34">

@@ -1551,7 +1551,7 @@
 <tag>
 <AM lemma="fajn-1" src="auto">AAXXX----1A----</AM>
 <AM lemma="fajn-2" src="auto">Db-------------</AM>
-<AM lemma="fajn-3" src="auto" recommended="1">II-------------</AM>
+<AM lemma="fajn-3" src="auto" recommended="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m005-d1e4188-x2-5303">

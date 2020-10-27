@@ -1392,7 +1392,7 @@
 <LM>w#w-mf930709-001-p4s1w46</LM>
 </w.rf>
 <form>Mates</form>
-<tag lemma="Mates_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Mates-2_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf930709-001-p4s1w47">
 <src.rf>manual</src.rf>

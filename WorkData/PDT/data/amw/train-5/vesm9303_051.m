@@ -6598,7 +6598,7 @@
 <LM>w#w-vesm9303-051-p13s2Bw23</LM>
 </w.rf>
 <form>pong</form>
-<tag lemma="pong_^(jen_ve_spojení_ping-pong)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="pong" src="orig" selected="1">SNIS1-----A----</tag>
 </m>
 <m id="m-vesm9303-051-p13s2Bw24">
 <src.rf>manual</src.rf>

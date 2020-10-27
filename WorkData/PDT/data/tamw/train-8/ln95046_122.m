@@ -21,7 +21,7 @@
 <form>Svit</form>
 <tag>
 <AM lemma="svit" src="orig">NNIS1-----A----</AM>
-<AM lemma="Svit_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Svit_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-122-p1s1w2">
@@ -100,7 +100,7 @@
 <form>Svit</form>
 <tag>
 <AM lemma="svit" src="orig">NNIS1-----A----</AM>
-<AM lemma="Svit_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Svit_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-122-p2s1Bw4">
@@ -268,7 +268,7 @@
 <form>Svit</form>
 <tag>
 <AM lemma="svit" src="orig">NNIS1-----A----</AM>
-<AM lemma="Svit_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Svit_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-122-p3s1w7">
@@ -568,7 +568,7 @@
 <form>Svitu</form>
 <tag>
 <AM lemma="svit" src="orig">NNIS2-----A----</AM>
-<AM lemma="Svit_;m" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Svit_;G_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-122-p3s4w5">
@@ -984,7 +984,7 @@
 <form>Svit</form>
 <tag>
 <AM lemma="svit" src="orig">NNIS1-----A----</AM>
-<AM lemma="Svit_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Svit_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-122-p4s1w20">
@@ -1560,7 +1560,7 @@
 <form>Svit</form>
 <tag>
 <AM lemma="svit" src="orig">NNIS1-----A----</AM>
-<AM lemma="Svit_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Svit_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-122-p6s1w16">
@@ -1784,7 +1784,7 @@
 <form>Svitu</form>
 <tag>
 <AM lemma="svit" src="orig">NNIS2-----A----</AM>
-<AM lemma="Svit_;m" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Svit_;G_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-122-p7s1w3">
@@ -2071,7 +2071,7 @@
 <form>Svitu</form>
 <tag>
 <AM lemma="svit" src="orig">NNIS2-----A----</AM>
-<AM lemma="Svit_;m" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Svit_;G_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-122-p8s1w5">
@@ -2334,7 +2334,7 @@
 <form>Svit</form>
 <tag>
 <AM lemma="svit" src="orig">NNIS1-----A----</AM>
-<AM lemma="Svit_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Svit_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-122-p9s1w2">

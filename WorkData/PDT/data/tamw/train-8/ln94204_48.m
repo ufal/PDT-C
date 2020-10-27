@@ -767,7 +767,7 @@
 <LM>w#w-ln94204-48-p3s2w11</LM>
 </w.rf>
 <form>kápa</form>
-<tag lemma="kápo" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="kápo" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94204-48-p3s2w12">
 <src.rf>manual</src.rf>

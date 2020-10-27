@@ -521,7 +521,7 @@
 <LM>w#w-ln94207-79-p3s1Cw35</LM>
 </w.rf>
 <form>pozdější</form>
-<tag lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="orig" selected="1">AAFS4----2A----</tag>
+<tag lemma="pozdější" src="orig" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-ln94207-79-p3s1Cw36">
 <src.rf>manual</src.rf>
@@ -14829,7 +14829,7 @@
 <LM>w#w-ln94207-79-p32s7w22</LM>
 </w.rf>
 <form>správní</form>
-<tag lemma="správný_^(podle_něj._měřítek;_př._chlap,_míra,...)" src="orig" selected="1">AAMP1----1A----</tag>
+<tag lemma="správný" src="orig" selected="1">AAMP1----1A----</tag>
 </m>
 <m id="m-ln94207-79-p32s7w23">
 <src.rf>manual</src.rf>
@@ -19869,7 +19869,7 @@
 <LM>w#w-ln94207-79-p41s6w1</LM>
 </w.rf>
 <form>Stála</form>
-<tag lemma="stát-4_^(něco_stojí_peníze)" src="orig" selected="1">VpQW----R-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln94207-79-p41s6w2">
 <src.rf>manual</src.rf>

@@ -334,7 +334,7 @@
 <AM lemma="Bennie_;Y" src="orig">NNFS1-----A----</AM>
 <AM lemma="Bennie_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Bennie_;Y" src="auto">NNMS5-----A----</AM>
-<AM lemma="Bennie-2_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Bennie-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-065-p2s2w36">

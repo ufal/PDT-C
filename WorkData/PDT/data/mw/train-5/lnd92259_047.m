@@ -463,7 +463,7 @@
 <AM lemma="Ruckoj_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Rucký_;Y" src="auto" recommended="1">NNMS1-----A---2</AM>
 <AM lemma="Rucký_;Y" src="auto">NNMS5-----A---2</AM>
-<AM lemma="Ruckoj_;Y_,s_^(^DD**Rucký)" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Rucký_;Y" src="manual" selected="1">NNMS1-----A---2</AM>
 </tag>
 </m>
 <m id="m-lnd92259-047-p3s4w9">

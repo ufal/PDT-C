@@ -1381,7 +1381,7 @@
 <LM>w#w-ln94200-172-p3s1w20</LM>
 </w.rf>
 <form>stály</form>
-<tag lemma="stát-4_^(něco_stojí_peníze)" src="orig" selected="1">VpTP----R-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln94200-172-p3s1w21">
 <src.rf>manual</src.rf>
@@ -3488,7 +3488,7 @@
 <LM>w#w-ln94200-172-p5s2w4</LM>
 </w.rf>
 <form>pozdějšího</form>
-<tag lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="orig" selected="1">AAIS2----2A----</tag>
+<tag lemma="pozdější" src="orig" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-ln94200-172-p5s2w5">
 <src.rf>manual</src.rf>

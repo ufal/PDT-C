@@ -617,7 +617,7 @@
 <LM>w#w-lnd91301-088-p3s2w20</LM>
 </w.rf>
 <form>pár</form>
-<tag lemma="pár-1" src="orig" selected="1">ClXP2----------</tag>
+<tag lemma="pár-1" src="orig" selected="1">Ca--X----------</tag>
 </m>
 <m id="m-lnd91301-088-p3s2w21">
 <src.rf>manual</src.rf>
@@ -1325,7 +1325,7 @@
 <LM>w#w-lnd91301-088-p4s5w6</LM>
 </w.rf>
 <form>neúčast</form>
-<tag lemma="neúčast" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="účast" src="orig" selected="1">NNFS1-----N----</tag>
 </m>
 <m id="m-lnd91301-088-p4s5w7">
 <src.rf>manual</src.rf>
@@ -3146,7 +3146,7 @@
 <LM>w#w-lnd91301-088-p6s2w1</LM>
 </w.rf>
 <form>Pár</form>
-<tag lemma="pár-1" src="orig" selected="1">ClXP2----------</tag>
+<tag lemma="pár-1" src="orig" selected="1">Ca--X----------</tag>
 </m>
 <m id="m-lnd91301-088-p6s2w2">
 <src.rf>manual</src.rf>

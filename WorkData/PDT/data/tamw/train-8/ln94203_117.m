@@ -163,7 +163,7 @@
 <LM>w#w-ln94203-117-p2s1Bw10</LM>
 </w.rf>
 <form>Nagoje</form>
-<tag lemma="Nagoja_;G" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Nagoja_;G" src="orig" selected="1">NNFS2-----A---1</tag>
 </m>
 <m id="m-ln94203-117-p2s1Bw11">
 <src.rf>manual</src.rf>

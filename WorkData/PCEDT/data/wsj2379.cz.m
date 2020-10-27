@@ -18586,7 +18586,7 @@
 </w.rf>
 <form>Jaguaru</form>
 <tag>
-<AM lemma="Jaguar_;m" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="Jaguar_;m_,s_^(vozidlo)_(^DD**Jaguár)" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="Jaguar_;m" src="auto">NNIS3-----A----</AM>
 <AM lemma="Jaguar_;m" src="auto">NNIS6-----A----</AM>
 <AM lemma="jaguar_;m_^(vozidlo)" src="auto">NNIS2-----A----</AM>

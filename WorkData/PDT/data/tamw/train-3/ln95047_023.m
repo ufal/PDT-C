@@ -2051,7 +2051,7 @@
 </w.rf>
 <form>Spartaku</form>
 <tag>
-<AM lemma="Spartak-2_;m_^(sportovní_klub)" src="orig" selected="1">NNIS2-----A----</AM>
+<AM lemma="Spartak-2_;m" src="orig" selected="1">NNIS2-----A----</AM>
 <AM lemma="Spartak_;Y" src="auto">NNMS3-----A---1</AM>
 <AM lemma="Spartak_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Spartak_;Y" src="auto">NNMS6-----A---1</AM>

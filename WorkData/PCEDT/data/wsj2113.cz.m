@@ -14941,7 +14941,7 @@
 </w.rf>
 <form>Marta</form>
 <tag>
-<AM lemma="Mars-1_;Y_^(římský_bůh_války)" src="auto" selected="1">NNMS2-----A----</AM>
+<AM lemma="Mars-1_;Y" src="auto" selected="1">NNMS2-----A----</AM>
 <AM lemma="Mars-1_;Y_^(římský_bůh_války)" src="auto">NNMS4-----A----</AM>
 <AM lemma="Mart_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Mart_;Y" src="auto">NNMS4-----A----</AM>
@@ -25333,7 +25333,7 @@
 <AM lemma="poražený_^(*4zit)" src="auto">AANS1----1A----</AM>
 <AM lemma="poražený_^(*4zit)" src="auto">AANS4----1A----</AM>
 <AM lemma="poražený_^(*4zit)" src="auto">AANS5----1A----</AM>
-<AM lemma="poražený-2" src="manual" selected="1">NNMP4-----A----</AM>
+<AM lemma="poražený_^(*4zit)" src="manual" selected="1">AAMP4----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj2113-001-p1s95W8-Ta">

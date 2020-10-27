@@ -2888,7 +2888,7 @@
 <AM lemma="primum_,s" src="auto">NNNP4-----A----</AM>
 <AM lemma="primum_,s" src="auto">NNNP5-----A----</AM>
 <AM lemma="primum_,s" src="auto">NNNS2-----A----</AM>
-<AM lemma="prima" src="manual" selected="1">Db------------1</AM>
+<AM lemma="prima-2" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-ln94206-102-p5s2w25">

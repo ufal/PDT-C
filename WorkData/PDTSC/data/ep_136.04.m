@@ -2635,7 +2635,7 @@
 <AM lemma="mobil" src="auto">NNIS3-----A----</AM>
 <AM lemma="mobil" src="auto">NNIS6-----A---1</AM>
 <AM lemma="mobile-1_^(t-mobile)" src="manual">NNIS2-----A----</AM>
-<AM lemma="Mobile-1_;m_^(t-mobile)" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Mobil_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m136-d1t2011-1">
@@ -4505,7 +4505,7 @@
 <AM lemma="Cortina_;G" src="auto" recommended="1">NNFS7-----A----</AM>
 <AM lemma="Cortina_;Y" src="auto">NNMS7-----A----</AM>
 <AM lemma="Cortina_;m_,x_^(značka_automobilu_Ford_Mondeo)" src="auto">NNFS7-----A----</AM>
-<AM lemma="Cortina-2_;G" src="manual" selected="1">NNFS7-----A----</AM>
+<AM lemma="Cortina-2_;G_;m" src="manual" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m136-d1e2128-x2-456">

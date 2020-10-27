@@ -2254,7 +2254,7 @@
 <form>neúspěch</form>
 <tag>
 <AM lemma="neúspěch" src="orig">NNIS1-----A----</AM>
-<AM lemma="úspěch" src="manual" selected="1">NNIS1-----N----</AM>
+<AM lemma="neúspěch" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-125-p6s1w15">

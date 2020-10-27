@@ -19,7 +19,7 @@
 <LM>w#w-ln94202-88-p1s1w1</LM>
 </w.rf>
 <form>Peškova</form>
-<tag lemma="Peškův_;Y_^(*3ek)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Peškův_;Y_^(*2a)_(*2o)_(*3ek)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-ln94202-88-p1s1w2">
 <src.rf>manual</src.rf>

@@ -1650,7 +1650,7 @@
 <AM lemma="čistý" src="auto">AAFP1----3A----</AM>
 <AM lemma="čistý" src="auto">AAFP4----3A----</AM>
 <AM lemma="čistý" src="auto">AAFP5----3A----</AM>
-<AM lemma="čistý" src="auto" recommended="1">AAFS1----3A----</AM>
+<AM lemma="čistý" src="auto" recommended="1">AAFS1----3A---1</AM>
 <AM lemma="čistý" src="auto">AAFS2----3A----</AM>
 <AM lemma="čistý" src="auto">AAFS3----3A----</AM>
 <AM lemma="čistý" src="auto">AAFS4----3A----</AM>

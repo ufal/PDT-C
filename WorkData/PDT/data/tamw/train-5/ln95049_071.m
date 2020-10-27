@@ -1390,7 +1390,7 @@
 <tag>
 <AM lemma="Trabant-2_;m_^(vozidlo)" src="orig">NNMS4-----A----</AM>
 <AM lemma="trabant_;m" src="auto">NNIS2-----A---1</AM>
-<AM lemma="trabant_;m" src="auto" recommended="1" selected="1">NNIS4-----A----</AM>
+<AM lemma="trabant" src="auto" recommended="1" selected="1">NNIS4-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln95049-071-p4s2w18">

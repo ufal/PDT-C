@@ -839,7 +839,7 @@
 </w.rf>
 <form>Kbele</form>
 <tag>
-<AM lemma="Kbel_;G" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="Kbel_;G" src="auto" recommended="1">NNIS6-----A---7</AM>
 <AM lemma="Kbel_;G" src="auto">NNIS5-----A----</AM>
 </tag>
 </m>
@@ -2599,7 +2599,7 @@
 <AM lemma="Pan-1_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Pan-1_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="pan_^(oslovení)" src="auto">NNMS2-----A----</AM>
-<AM lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS4-----A----</AM>
+<AM lemma="pan" src="auto" recommended="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m030-d1t212-8">

@@ -1653,7 +1653,7 @@
 <LM>w#w-lnd92258-153-p3s11w17</LM>
 </w.rf>
 <form>Schüsslovi</form>
-<tag lemma="Schüssel_;Y" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Schüssel_;Y" src="orig" selected="1">NNMS3-----A---3</tag>
 </m>
 <m id="m-lnd92258-153-p3s11w18">
 <src.rf>manual</src.rf>

@@ -526,7 +526,7 @@
 <LM>w#w-lnd94103-122-p1s2Aw17</LM>
 </w.rf>
 <form>Kanadě</form>
-<tag lemma="Kanada_;G" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="Kanada_;G_;m" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 <m id="m-lnd94103-122-p1s2Aw18">
 <src.rf>manual</src.rf>

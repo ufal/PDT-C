@@ -1881,7 +1881,7 @@
 <LM>w#w-ln95048-119-p4s6w7</LM>
 </w.rf>
 <form>snazší</form>
-<tag lemma="snadný" src="orig" selected="1">AAFS4----2A----</tag>
+<tag lemma="snadný" src="orig" selected="1">AAFS4----2A---1</tag>
 </m>
 <m id="m-ln95048-119-p4s6w8">
 <src.rf>manual</src.rf>

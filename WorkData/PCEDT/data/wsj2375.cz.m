@@ -583,7 +583,7 @@
 <AM lemma="ba" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="bavit" src="auto">VB-S---3P-AAI-5</AM>
 <AM lemma="Ba-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="Ba" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Ba-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2375-001-p1s1W12-Ta">
@@ -1615,7 +1615,7 @@
 <tag>
 <AM lemma="ba" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="bavit" src="auto">VB-S---3P-AAI-5</AM>
-<AM lemma="Ba" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Ba-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2375-001-p1s6W15-Ta">

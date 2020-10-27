@@ -647,7 +647,7 @@
 <AM lemma="Hug_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Hug_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="Hugo-1_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Hugo-1_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
+<AM lemma="Hugo_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
 <AM lemma="Hugo-2_;G" src="auto">NNNP1-----A----</AM>
 <AM lemma="Hugo-2_;G" src="auto">NNNP4-----A----</AM>
 <AM lemma="Hugo-2_;G" src="auto">NNNP5-----A----</AM>

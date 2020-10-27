@@ -221,7 +221,7 @@
 <LM>w#w-ln95040-009-p2s1Bw9</LM>
 </w.rf>
 <form>nejsnazší</form>
-<tag lemma="snadný" src="orig" selected="1">AAIP1----3A----</tag>
+<tag lemma="snadný" src="orig" selected="1">AAIP1----3A---1</tag>
 </m>
 <m id="m-ln95040-009-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -354,7 +354,7 @@
 <LM>w#w-ln95040-009-p2s2w4</LM>
 </w.rf>
 <form>nejsnazší</form>
-<tag lemma="snadný" src="orig" selected="1">AAIP1----3A----</tag>
+<tag lemma="snadný" src="orig" selected="1">AAIP1----3A---1</tag>
 </m>
 <m id="m-ln95040-009-p2s2w5">
 <src.rf>manual</src.rf>

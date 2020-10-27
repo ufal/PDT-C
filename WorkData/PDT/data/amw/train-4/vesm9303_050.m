@@ -9134,7 +9134,7 @@
 <form>O</form>
 <tag>
 <AM lemma="O-33" src="orig">Q3-------------</AM>
-<AM lemma="O-2_^(kyslík)" src="manual" selected="1">NNIXX-----A---b</AM>
+<AM lemma="O-2_^(kyslík)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-050-p15s1w25">

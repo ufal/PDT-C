@@ -47,7 +47,7 @@
 <form>Linda</form>
 <tag>
 <AM lemma="linda" src="orig">NNFS1-----A----</AM>
-<AM lemma="Linda_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Linda-2_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 </s>

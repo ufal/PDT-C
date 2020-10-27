@@ -2355,7 +2355,7 @@
 <AM lemma="teheránský" src="auto">AAIP7----1A----</AM>
 <AM lemma="teheránský" src="auto">AAMP7----1A----</AM>
 <AM lemma="teheránský" src="auto">AANP7----1A----</AM>
-<AM lemma="teheránský-2" src="manual" selected="1">NNMP7-----A----</AM>
+<AM lemma="teheránský" src="manual" selected="1">AAMP7----1A----</AM>
 </tag>
 </m>
 <m id="m984-d1e131-x6-1647">
@@ -2488,7 +2488,7 @@
 <tag>
 <AM lemma="teheránský" src="auto" recommended="1">AAMP1----1A----</AM>
 <AM lemma="teheránský" src="auto">AAMP5----1A----</AM>
-<AM lemma="teheránský-2" src="manual" selected="1">NNMP1-----A----</AM>
+<AM lemma="teheránský" src="manual" selected="1">AAMP1----1A----</AM>
 </tag>
 </m>
 <m id="m984-1648-1663">

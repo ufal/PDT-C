@@ -1055,7 +1055,7 @@
 </w.rf>
 <form>Rodu</form>
 <tag>
-<AM lemma="Rod_;Y" src="orig" selected="1">NNMS3-----A----</AM>
+<AM lemma="Rod_;Y" src="orig" selected="1">NNMS3-----A---1</AM>
 <AM lemma="Rhódos_;G" src="auto">NNIS2-----A----</AM>
 <AM lemma="Rhódos_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="Rhódos_;G" src="auto">NNIS6-----A----</AM>

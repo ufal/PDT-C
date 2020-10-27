@@ -2232,7 +2232,7 @@
 </w.rf>
 <form>neví</form>
 <tag>
-<AM lemma="vědět" src="auto" selected="1">VB-P---3P-NAI-6</AM>
+<AM lemma="vědět" src="auto" selected="1">VB-P---3P-NAI-7</AM>
 <AM lemma="vědět" src="auto" recommended="1">VB-S---3P-NAI--</AM>
 </tag>
 </m>

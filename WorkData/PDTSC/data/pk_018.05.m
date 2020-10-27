@@ -4865,7 +4865,7 @@
 <AM lemma="malý" src="auto">AANP3----1A----</AM>
 <AM lemma="malý" src="auto">AANS6----1A---7</AM>
 <AM lemma="malý" src="auto">AANS7----1A----</AM>
-<AM lemma="malý-2_,h" src="manual" selected="1">NNMS7-----A----</AM>
+<AM lemma="malý" src="manual" selected="1">AAMS7----1A----</AM>
 </tag>
 </m>
 <m id="m018-d1t1336-12">

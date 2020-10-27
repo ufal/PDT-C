@@ -2716,7 +2716,7 @@
 <tag>
 <AM lemma="export" src="auto">NNIS2-----A----</AM>
 <AM lemma="export" src="auto">NNIS3-----A----</AM>
-<AM lemma="export" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="export" src="auto" recommended="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-wsj0447-001-p1s9W19-Ta">
@@ -3088,7 +3088,7 @@
 <tag>
 <AM lemma="export" src="auto">NNIS2-----A----</AM>
 <AM lemma="export" src="auto">NNIS3-----A----</AM>
-<AM lemma="export" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="export" src="auto" recommended="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-wsj0447-001-p1s10W14-Ta">

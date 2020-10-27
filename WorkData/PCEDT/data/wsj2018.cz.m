@@ -160,7 +160,7 @@
 <AM lemma="C-33" src="auto">Q3-------------</AM>
 <AM lemma="Celsius" src="auto">NNMXX-----A---8</AM>
 <AM lemma="C-33" src="auto">Q3-------------</AM>
-<AM lemma="c-88" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="C-33" src="auto" recommended="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2018-001-p1s0W13-Ta">

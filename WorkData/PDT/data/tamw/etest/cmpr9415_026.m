@@ -3659,7 +3659,7 @@
 <LM>w#w-cmpr9415-026-p11s1w7</LM>
 </w.rf>
 <form>Dr</form>
-<tag lemma="doktor_^(doktor,_akad._titul)" src="orig" selected="1">NNMXX-----A---b</tag>
+<tag lemma="Dr_^(doktor,_akad._titul)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-cmpr9415-026-p11s1w8">
 <src.rf>manual</src.rf>

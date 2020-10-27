@@ -2225,7 +2225,7 @@
 <AM lemma="Columbus_;m" src="auto">NNIS3-----A----</AM>
 <AM lemma="Columbus_;m" src="auto">NNIS6-----A----</AM>
 <AM lemma="Columbus_;G_;m" src="manual">NNIS6-----A----</AM>
-<AM lemma="Columbus_;G_;m" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Columbus-2_;G_;m" src="manual" selected="1">NNIS2-----A---6</AM>
 </tag>
 </m>
 <m id="m-wsj1654-001-p1s6W26-Ta">

@@ -190,7 +190,7 @@
 <AM lemma="Rusedski_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Rusedský_;Y" src="auto" recommended="1">NNMS1-----A---1</AM>
 <AM lemma="Rusedský_;Y" src="auto">NNMS5-----A---1</AM>
-<AM lemma="Rusedski_;Y_,s_^(^DD**Rusedský)" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Rusedský_;Y" src="manual" selected="1">NNMS1-----A---1</AM>
 </tag>
 </m>
 <m id="m-mf930713-022-p3s1w9">
@@ -209,7 +209,7 @@
 <form>Kan</form>
 <tag>
 <AM lemma="Kanada_:B_;G" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Kanada_;G" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="Kanada_;G_;m" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930713-022-p3s1w11">

@@ -5148,7 +5148,7 @@
 <AM lemma="podezřelý" src="auto">AAMS2----1A----</AM>
 <AM lemma="podezřelý" src="auto">AAMS4----1A----</AM>
 <AM lemma="podezřelý" src="auto" recommended="1">AANS2----1A----</AM>
-<AM lemma="podezřelý-2" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="podezřelý" src="manual" selected="1">AAMS2----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj1455-001-p1s23W19-Ta">
@@ -7371,7 +7371,7 @@
 <AM lemma="Yale_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Yale_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Yale_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Yale-1_;G" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Yale-2_;G" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1455-001-p1s30W9-Ta">
@@ -8651,7 +8651,7 @@
 <AM lemma="Yale_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Yale_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Yale_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Yale-1_;G" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Yale-2_;G" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1455-001-p1s36W4-Ta">

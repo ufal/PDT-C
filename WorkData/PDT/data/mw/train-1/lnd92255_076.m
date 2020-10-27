@@ -3607,7 +3607,7 @@
 <LM>w#w-lnd92255-076-p6s1w54</LM>
 </w.rf>
 <form>nejčistší</form>
-<tag lemma="čistý" src="orig" selected="1">AANS1----3A----</tag>
+<tag lemma="čistý" src="orig" selected="1">AANS1----3A---1</tag>
 </m>
 <m id="m-lnd92255-076-p6s1w55">
 <src.rf>manual</src.rf>

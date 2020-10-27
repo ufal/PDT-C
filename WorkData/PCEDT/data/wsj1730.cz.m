@@ -7381,7 +7381,7 @@
 </w.rf>
 <form>Nikaragui</form>
 <tag>
-<AM lemma="Nikaragua_;G" src="auto" recommended="1">NNFS2-----A---2</AM>
+<AM lemma="Nikaragua_;G" src="auto" recommended="1">NNFS2-----A---3</AM>
 <AM lemma="Nikaragua_;G" src="auto">NNFS3-----A---2</AM>
 </tag>
 </m>

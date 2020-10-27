@@ -738,7 +738,7 @@
 <LM>w#w-lnd94103-102-p1s4w24</LM>
 </w.rf>
 <form>Hradčany</form>
-<tag lemma="Hradčany_;G" src="orig" selected="1">NNFP4-----A----</tag>
+<tag lemma="Hradčany_;G" src="orig" selected="1">NNIP4-----A----</tag>
 </m>
 <m id="m-lnd94103-102-p1s4w25">
 <src.rf>manual</src.rf>

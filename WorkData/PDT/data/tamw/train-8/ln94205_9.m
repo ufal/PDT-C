@@ -123,7 +123,7 @@
 <tag>
 <AM lemma="graf" src="orig">NNIS1-----A----</AM>
 <AM lemma="Graf_;m" src="manual">NNIS1-----A----</AM>
-<AM lemma="Graf_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Graf-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 </s>
@@ -1326,7 +1326,7 @@
 <tag>
 <AM lemma="Čajka-1_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Čajka_;m" src="manual">NNMS1-----A----</AM>
-<AM lemma="Čajka-2_;m_^(vozidlo)" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Čajka-2_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-9-p6s1w11">
@@ -1829,7 +1829,7 @@
 <AM lemma="milka" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="mílek_,a_,x_^(milenec)" src="auto">NNMS2-----A----</AM>
 <AM lemma="mílek_,a_,x_^(milenec)" src="auto">NNMS4-----A----</AM>
-<AM lemma="Milka_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Milka-2_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-9-p8s1w17">
@@ -2066,7 +2066,7 @@
 <AM lemma="milka" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="mílek_,a_,x_^(milenec)" src="auto">NNMS2-----A----</AM>
 <AM lemma="mílek_,a_,x_^(milenec)" src="auto">NNMS4-----A----</AM>
-<AM lemma="Milka_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Milka-2_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-9-p8s3w2">

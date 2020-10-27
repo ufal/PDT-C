@@ -779,7 +779,7 @@
 <LM>w#w-ln94205-74-p3s1w21</LM>
 </w.rf>
 <form>Pavlovi</form>
-<tag lemma="Pavel-1_;Y" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Pavel_;Y" src="orig" selected="1">NNMS3-----A----</tag>
 </m>
 <m id="m-ln94205-74-p3s1w22">
 <src.rf>manual</src.rf>

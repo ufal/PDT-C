@@ -1592,7 +1592,7 @@
 <form>Dell</form>
 <tag>
 <AM lemma="Della_;Y" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="Dell-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Dell_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0154-001-p1s4W16-Ta">

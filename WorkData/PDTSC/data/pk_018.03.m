@@ -2661,7 +2661,7 @@
 <tag>
 <AM lemma="špičák" src="auto">NNIS1-----A----</AM>
 <AM lemma="špičák" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="Špičák_;G" src="manual" selected="1">NNIS4-----A----</AM>
+<AM lemma="Špičák-2_;G" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m018-d1t852-13">
@@ -2795,7 +2795,7 @@
 <AM lemma="špičák" src="auto">NNIS3-----A----</AM>
 <AM lemma="špičák" src="auto">NNIS5-----A----</AM>
 <AM lemma="špičák" src="auto">NNIS6-----A----</AM>
-<AM lemma="Špičák_;G" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Špičák-2_;G" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m018-462-464">

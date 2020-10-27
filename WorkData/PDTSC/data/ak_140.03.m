@@ -566,7 +566,7 @@
 <tag>
 <AM lemma="špinka-1_^(malá_špína;;odrůda_hrušně)" src="auto" recommended="1">NNFS3-----A----</AM>
 <AM lemma="špinka-1_^(malá_špína;;odrůda_hrušně)" src="auto">NNFS6-----A----</AM>
-<AM lemma="Špinka_;G" src="manual" selected="1">NNFS3-----A----</AM>
+<AM lemma="Špinka-2_;G" src="manual" selected="1">NNFS3-----A----</AM>
 </tag>
 </m>
 <m id="m140-d-id78693-punct">

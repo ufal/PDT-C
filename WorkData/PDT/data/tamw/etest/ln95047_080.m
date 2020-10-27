@@ -508,7 +508,7 @@
 <LM>w#w-ln95047-080-p2s2w30</LM>
 </w.rf>
 <form>ČTK</form>
-<tag lemma="ČTK-1_;m_^(Čs./Česká_tisková_kancelář)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="ČTK_;m_^(Čs./Česká_tisková_kancelář)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln95047-080-p2s2w31">
 <src.rf>manual</src.rf>

@@ -2289,7 +2289,7 @@
 <form>Lukou</form>
 <tag>
 <AM lemma="louka" src="orig">NNFS7-----A---3</AM>
-<AM lemma="Luka_;G" src="manual" selected="1">NNFS7-----A----</AM>
+<AM lemma="Luka-2_;G" src="manual" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-057-p8s1w15">

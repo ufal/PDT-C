@@ -1181,7 +1181,7 @@
 <LM>w#w-vesm9301-003-p4s2w5</LM>
 </w.rf>
 <form>glóbu</form>
-<tag lemma="glóbus" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="glóbus" src="orig" selected="1">NNIS2-----A---1</tag>
 </m>
 <m id="m-vesm9301-003-p4s2w6">
 <src.rf>manual</src.rf>

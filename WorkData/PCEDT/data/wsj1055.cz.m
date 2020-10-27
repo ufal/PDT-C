@@ -7002,7 +7002,7 @@
 </w.rf>
 <form>penny</form>
 <tag>
-<AM lemma="penny-1" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="penny-1" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="penny-1" src="auto">NNIXX-----A----</AM>
 <AM lemma="penny-2_^(penny_market)" src="auto">NNNXX-----A----</AM>
 </tag>
@@ -7903,7 +7903,7 @@
 </w.rf>
 <form>penny</form>
 <tag>
-<AM lemma="penny-1" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="penny-1" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="penny-1" src="auto">NNIXX-----A----</AM>
 <AM lemma="penny-2_^(penny_market)" src="auto">NNNXX-----A----</AM>
 </tag>

@@ -927,7 +927,7 @@
 <LM>w#w-ln94205-71-p3s2w1</LM>
 </w.rf>
 <form>Hůře</form>
-<tag lemma="špatně" src="orig" selected="1">Dg-------2A---1</tag>
+<tag lemma="hůře" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-ln94205-71-p3s2w2">
 <src.rf>manual</src.rf>

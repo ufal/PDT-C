@@ -646,7 +646,7 @@
 </w.rf>
 <form>váže</form>
 <tag>
-<AM lemma="vázat_^(např._provazem;_se_k_čemu)" src="auto" recommended="1">VB-S---3P-AAI--</AM>
+<AM lemma="vázat" src="auto" recommended="1">VB-S---3P-AAI-1</AM>
 <AM lemma="vázat_^(např._provazem;_se_k_čemu)" src="auto">VeYS------A-I--</AM>
 <AM lemma="vážit" src="auto">VeYS------A-I--</AM>
 </tag>

@@ -323,7 +323,7 @@
 <form>nesolventnost</form>
 <tag>
 <AM lemma="nesolventnost" src="orig">NNFS4-----A----</AM>
-<AM lemma="solventnost" src="manual" selected="1">NNFS4-----N----</AM>
+<AM lemma="nesolventnost" src="manual" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-013-p2s2w29">

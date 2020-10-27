@@ -114,7 +114,7 @@
 <form>Skalka</form>
 <tag>
 <AM lemma="skalka" src="orig">NNFS1-----A----</AM>
-<AM lemma="Skalka_;G" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Skalka-2_;G" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-012-p2s1w12">

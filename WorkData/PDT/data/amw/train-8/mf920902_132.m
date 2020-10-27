@@ -3216,7 +3216,7 @@
 <form>nejistotě</form>
 <tag>
 <AM lemma="nejistota" src="orig">NNFS6-----A----</AM>
-<AM lemma="jistota" src="manual" selected="1">NNFS6-----N----</AM>
+<AM lemma="nejistota" src="manual" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-132-p4s16w17">

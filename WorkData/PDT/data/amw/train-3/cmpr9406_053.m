@@ -6723,7 +6723,7 @@
 <form>mnoho</form>
 <tag>
 <AM lemma="mnoho-1" src="orig">Ca--1----------</AM>
-<AM lemma="mnoho-2" src="manual" selected="1">Db-------------</AM>
+<AM lemma="mnoho-2" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-053-p26s3w7">

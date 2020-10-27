@@ -525,7 +525,7 @@
 <AM lemma="dvoustý" src="auto">AAIS2----1A----</AM>
 <AM lemma="dvoustý" src="auto">AAMS2----1A----</AM>
 <AM lemma="dvoustý" src="auto">AAMS4----1A----</AM>
-<AM lemma="dvoustý" src="auto" recommended="1">AANS2----1A----</AM>
+<AM lemma="dvoustý" src="auto" recommended="1">CrNS2----------</AM>
 <AM lemma="dvoustý" src="auto">CrIS2----------</AM>
 <AM lemma="dvoustý" src="auto">CrMS2----------</AM>
 <AM lemma="dvoustý" src="auto">CrMS4----------</AM>
@@ -6241,7 +6241,7 @@
 <AM lemma="černý_;o" src="auto">AANP3----1A----</AM>
 <AM lemma="černý_;o" src="auto">AANS6----1A---7</AM>
 <AM lemma="černý_;o" src="auto" recommended="1">AANS7----1A----</AM>
-<AM lemma="černý-2" src="manual" selected="1">NNMP3-----A----</AM>
+<AM lemma="černý_;o" src="manual" selected="1">AAMP3----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0326-001-p1s17W17-Ta">

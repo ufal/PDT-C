@@ -63,7 +63,7 @@
 <LM>w#w-lnd92252-046-p3s1w3</LM>
 </w.rf>
 <form>JEJÍ</form>
-<tag lemma="jeho_^(přivlast.)" src="orig" selected="1">PSFXXFS3-------</tag>
+<tag lemma="jeho" src="orig" selected="1">P9FXXFS3-------</tag>
 </m>
 <m id="m-lnd92252-046-p3s1w4">
 <src.rf>manual</src.rf>
@@ -1235,7 +1235,7 @@
 <AM lemma="ad_,t" src="auto">RR--1----------</AM>
 <AM lemma="adalší_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
 <AM lemma="ad-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="ad-1_^(a_další)" src="manual" selected="1">AAXXX----1A---b</AM>
+<AM lemma="ad-1_^(a_další)" src="manual" selected="1">BAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-046-p4s4w42">
@@ -1807,7 +1807,7 @@
 <form>RADIA</form>
 <tag>
 <AM lemma="rádio_,a" src="orig">NNNS2-----A----</AM>
-<AM lemma="radio_,s_^(^DD**rádio)" src="manual" selected="1">NNNS2-----A----</AM>
+<AM lemma="radio-1_,s_^(^DD**rádio)" src="manual" selected="1">NNNS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-046-p6s1w3">

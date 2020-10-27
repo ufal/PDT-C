@@ -14622,7 +14622,7 @@
 <LM>w#w-lnd91303-062-p13s2w9</LM>
 </w.rf>
 <form>nespravedlnosti</form>
-<tag lemma="nespravedlnost" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="spravedlnost-1_^(*5ý-1)" src="orig" selected="1">NNFS2-----N----</tag>
 </m>
 <m id="m-lnd91303-062-p13s2w10">
 <src.rf>manual</src.rf>

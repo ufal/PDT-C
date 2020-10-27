@@ -2915,7 +2915,7 @@
 <tag>
 <AM lemma="špičák" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="špičák" src="auto">NNIS4-----A----</AM>
-<AM lemma="Špičák_;G" src="manual" selected="1">NNIS4-----A----</AM>
+<AM lemma="Špičák-2_;G" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m018-368-393">

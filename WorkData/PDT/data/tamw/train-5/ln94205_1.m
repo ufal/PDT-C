@@ -1603,7 +1603,7 @@
 <form>PC</form>
 <tag>
 <AM lemma="PC-1_:B_;m_^(personal_computer,_osobní_počítač)" src="orig">NNNXX-----A---8</AM>
-<AM lemma="PC-1_;m_^(personal_computer,_osobní_počítač)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="PC_^(personal_computer,_osobní_počítač)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-1-p6s1w7">

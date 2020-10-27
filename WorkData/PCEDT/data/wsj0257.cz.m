@@ -1237,7 +1237,7 @@
 <AM lemma="nezbytný" src="auto">AAFS2----1A----</AM>
 <AM lemma="nezbytný" src="auto">AAFS3----1A----</AM>
 <AM lemma="nezbytný" src="auto">AAFS6----1A----</AM>
-<AM lemma="nezbytný" src="auto" recommended="1">AAIP1----1A----</AM>
+<AM lemma="zbytný" src="auto" recommended="1">AAIP1----1N----</AM>
 <AM lemma="nezbytný" src="auto">AAIP4----1A----</AM>
 <AM lemma="nezbytný" src="auto">AAIP5----1A----</AM>
 <AM lemma="nezbytný" src="auto">AAMP4----1A----</AM>

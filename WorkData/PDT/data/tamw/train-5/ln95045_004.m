@@ -2285,7 +2285,7 @@
 <LM>w#w-ln95045-004-p5s1w8</LM>
 </w.rf>
 <form>nespravedlnosti</form>
-<tag lemma="nespravedlnost" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="spravedlnost-1_^(*5ý-1)" src="orig" selected="1">NNFS2-----N----</tag>
 </m>
 <m id="m-ln95045-004-p5s1w9">
 <src.rf>manual</src.rf>
@@ -2465,7 +2465,7 @@
 <LM>w#w-ln95045-004-p5s3w7</LM>
 </w.rf>
 <form>nespravedlnost</form>
-<tag lemma="nespravedlnost" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="spravedlnost-1_^(*5ý-1)" src="orig" selected="1">NNFS4-----N----</tag>
 </m>
 <m id="m-ln95045-004-p5s3w8">
 <src.rf>manual</src.rf>

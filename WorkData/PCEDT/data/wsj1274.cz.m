@@ -2822,7 +2822,7 @@
 <AM lemma="whisky" src="auto">NNFP1-----A----</AM>
 <AM lemma="whisky" src="auto">NNFP4-----A----</AM>
 <AM lemma="whisky" src="auto">NNFP5-----A----</AM>
-<AM lemma="whisky" src="auto" recommended="1">NNFS1-----A---1</AM>
+<AM lemma="whisky" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="whisky" src="auto">NNFS2-----A----</AM>
 <AM lemma="whisky" src="auto">NNFXX-----A----</AM>
 </tag>

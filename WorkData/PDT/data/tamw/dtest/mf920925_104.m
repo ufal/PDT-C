@@ -932,7 +932,7 @@
 <LM>w#w-mf920925-104-p3s2w23</LM>
 </w.rf>
 <form>pozdějšího</form>
-<tag lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="orig" selected="1">AAMS4----2A----</tag>
+<tag lemma="pozdější" src="orig" selected="1">AAMS4----1A----</tag>
 </m>
 <m id="m-mf920925-104-p3s2w24">
 <src.rf>manual</src.rf>

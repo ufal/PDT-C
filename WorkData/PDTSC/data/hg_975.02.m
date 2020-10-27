@@ -4142,7 +4142,7 @@
 <tag>
 <AM lemma="nedostatek" src="auto">NNIS1-----A----</AM>
 <AM lemma="nedostatek" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="dostatek" src="manual" selected="1">NNIS4-----N----</AM>
+<AM lemma="nedostatek" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m975-id62072-7">

@@ -1151,7 +1151,7 @@
 <LM>w#w-ln95048-061-p4s5w7</LM>
 </w.rf>
 <form>Viktorie</form>
-<tag lemma="Viktoria-1_;Y_^(ženské_jméno)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Viktoria_;Y_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln95048-061-p4s5w8">
 <src.rf>manual</src.rf>

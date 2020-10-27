@@ -9936,7 +9936,7 @@
 <form>Joseph</form>
 <tag>
 <AM lemma="Joseph_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Joseph-2_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Joseph-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0681-001-p1s36W3-Ta">
@@ -21919,7 +21919,7 @@
 <AM lemma="Crane_;G" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="Crane_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Crane_;Y" src="auto">NNMS5-----A----</AM>
-<AM lemma="Crane_;G_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Crane-2_;G_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0681-001-p1s78W3-Ta">
@@ -22126,7 +22126,7 @@
 <AM lemma="Crane_;G" src="auto">NNNXX-----A----</AM>
 <AM lemma="Crane_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Crane_;Y" src="auto">NNMS5-----A----</AM>
-<AM lemma="Crane_;G_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Crane-2_;G_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0681-001-p1s79W3-Ta">

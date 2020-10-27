@@ -215,7 +215,7 @@
 <AM lemma="Mitsubishi_;m" src="auto">NNXXX-----A----</AM>
 <AM lemma="mitsubishi_;m" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="mitsubishi_;m_^(vozidlo)" src="auto">NNXXX-----A----</AM>
-<AM lemma="Mitsubishi_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Mitsubishi_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-119-p2s2w17">

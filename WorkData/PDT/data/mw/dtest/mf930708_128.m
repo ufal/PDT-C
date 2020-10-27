@@ -1195,7 +1195,7 @@
 <form>Damašku</form>
 <tag>
 <AM lemma="damašek" src="orig">NNIS6-----A----</AM>
-<AM lemma="Damašek_;G" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="Damašek-1_;G" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-128-p6s1w9">

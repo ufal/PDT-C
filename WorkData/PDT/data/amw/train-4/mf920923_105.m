@@ -833,7 +833,7 @@
 <LM>w#w-mf920923-105-p3s2w7</LM>
 </w.rf>
 <form>sexu</form>
-<tag lemma="sex" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="sex-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920923-105-p3s2w8">
 <src.rf>manual</src.rf>

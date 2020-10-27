@@ -734,7 +734,7 @@
 <LM>w#w-cmpr9415-006-p9s2w4</LM>
 </w.rf>
 <form>nejčistší</form>
-<tag lemma="čistý" src="orig" selected="1">AAFS6----3A----</tag>
+<tag lemma="čistý" src="orig" selected="1">AAFS6----3A---1</tag>
 </m>
 <m id="m-cmpr9415-006-p9s2w5">
 <src.rf>manual</src.rf>

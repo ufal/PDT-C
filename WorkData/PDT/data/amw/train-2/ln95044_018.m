@@ -314,7 +314,7 @@
 <form>Svit</form>
 <tag>
 <AM lemma="svit" src="orig">NNIS1-----A----</AM>
-<AM lemma="Svit_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Svit_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-018-p2s1Cw22">
@@ -1182,7 +1182,7 @@
 <LM>w#w-ln95044-018-p4s1w13</LM>
 </w.rf>
 <form>neúčast</form>
-<tag lemma="neúčast" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="účast" src="orig" selected="1">NNFS1-----N----</tag>
 </m>
 <m id="m-ln95044-018-p4s1w14">
 <src.rf>manual</src.rf>
@@ -2306,7 +2306,7 @@
 <form>Jar</form>
 <tag>
 <AM lemma="jaro" src="orig">NNNP2-----A----</AM>
-<AM lemma="Jaroslav-2_;Y" src="manual" selected="1">NNMXX-----A---8</AM>
+<AM lemma="Jar-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-018-p8s1w9">

@@ -4390,7 +4390,7 @@
 <form>Burland</form>
 <tag>
 <AM lemma="Burland_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Burland-2_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Burland-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-033-p7s2w10">

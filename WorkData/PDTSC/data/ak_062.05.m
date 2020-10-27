@@ -192,7 +192,7 @@
 <tag>
 <AM lemma="Cikán_;E_,x" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="Cikán_;E_,x" src="auto">NNMP5-----A----</AM>
-<AM lemma="cikán" src="auto" selected="1">NNMP1-----A---1</AM>
+<AM lemma="cikán" src="auto" selected="1">NNMP1-----A----</AM>
 <AM lemma="cikán" src="auto">NNMP5-----A---1</AM>
 </tag>
 </m>
@@ -3975,7 +3975,7 @@
 <tag>
 <AM lemma="zas-1" src="auto" recommended="1">Db-------------</AM>
 <AM lemma="zas-2" src="auto">TT-------------</AM>
-<AM lemma="zase-1" src="manual" selected="1">Db------------1</AM>
+<AM lemma="zas-1_,s_^(^DD**zase-1)" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m062-d1t1303-3">

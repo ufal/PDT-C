@@ -285,7 +285,7 @@
 </w.rf>
 <form>virus</form>
 <tag>
-<AM lemma="virus_,s_^(^DD**vir)" src="auto" recommended="1">NNIS1-----A---2</AM>
+<AM lemma="vir-1" src="auto" recommended="1">NNIS1-----A---1</AM>
 <AM lemma="virus_,s_^(^DD**vir)" src="auto">NNIS4-----A---2</AM>
 </tag>
 </m>
@@ -679,7 +679,7 @@
 <form>virus</form>
 <tag>
 <AM lemma="virus_,s_^(^DD**vir)" src="auto">NNIS1-----A---2</AM>
-<AM lemma="virus_,s_^(^DD**vir)" src="auto" recommended="1">NNIS4-----A---2</AM>
+<AM lemma="vir-1" src="auto" recommended="1">NNIS4-----A---1</AM>
 </tag>
 </m>
 <m id="m-wsj2058-001-p1s1W12-Ta">
@@ -2207,7 +2207,7 @@
 </w.rf>
 <form>Virus</form>
 <tag>
-<AM lemma="virus_,s_^(^DD**vir)" src="auto" recommended="1">NNIS1-----A---2</AM>
+<AM lemma="vir-1" src="auto" recommended="1">NNIS1-----A---1</AM>
 <AM lemma="virus_,s_^(^DD**vir)" src="auto">NNIS4-----A---2</AM>
 </tag>
 </m>
@@ -2605,7 +2605,7 @@
 </w.rf>
 <form>Virus</form>
 <tag>
-<AM lemma="virus_,s_^(^DD**vir)" src="auto" recommended="1">NNIS1-----A---2</AM>
+<AM lemma="vir-1" src="auto" recommended="1">NNIS1-----A---1</AM>
 <AM lemma="virus_,s_^(^DD**vir)" src="auto">NNIS4-----A---2</AM>
 </tag>
 </m>

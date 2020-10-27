@@ -10442,7 +10442,7 @@
 <AM lemma="nejistota" src="auto">NNFP4-----A----</AM>
 <AM lemma="nejistota" src="auto">NNFP5-----A----</AM>
 <AM lemma="nejistota" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="jistota" src="manual" selected="1">NNFS2-----N----</AM>
+<AM lemma="nejistota" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0671-001-p1s37W20-Ta">
@@ -11738,7 +11738,7 @@
 <AM lemma="nejistota" src="auto">NNFP4-----A----</AM>
 <AM lemma="nejistota" src="auto">NNFP5-----A----</AM>
 <AM lemma="nejistota" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="jistota" src="manual" selected="1">NNFS2-----N----</AM>
+<AM lemma="nejistota" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0671-001-p1s44W9-Ta">

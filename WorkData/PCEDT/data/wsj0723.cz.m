@@ -6155,7 +6155,7 @@
 <AM lemma="dvoustý" src="auto">AAMS7----1A----</AM>
 <AM lemma="dvoustý" src="auto">AANP3----1A----</AM>
 <AM lemma="dvoustý" src="auto">AANS6----1A---7</AM>
-<AM lemma="dvoustý" src="auto" recommended="1">AANS7----1A----</AM>
+<AM lemma="dvoustý" src="auto" recommended="1">CrNS7----------</AM>
 <AM lemma="dvoustý" src="auto">CrFP3----------</AM>
 <AM lemma="dvoustý" src="auto">CrIP3----------</AM>
 <AM lemma="dvoustý" src="auto">CrIS6---------7</AM>

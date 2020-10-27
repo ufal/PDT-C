@@ -3085,7 +3085,7 @@
 <LM>w#w-ln94201-132-p5s4w24</LM>
 </w.rf>
 <form>Olympu</form>
-<tag lemma="Olymp_;G" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="Olymp_;G_;m" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln94201-132-p5s4w25">
 <src.rf>manual</src.rf>

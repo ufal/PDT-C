@@ -5769,7 +5769,7 @@
 <AM lemma="zdravý" src="auto">AANS1----1A----</AM>
 <AM lemma="zdravý" src="auto">AANS4----1A----</AM>
 <AM lemma="zdravý" src="auto">AANS5----1A----</AM>
-<AM lemma="zdravý-2" src="manual" selected="1">NNMP4-----A----</AM>
+<AM lemma="zdravý" src="manual" selected="1">AAMP4----1A----</AM>
 </tag>
 </m>
 <m id="m713-d-id78142">

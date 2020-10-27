@@ -153,7 +153,7 @@
 <tag>
 <AM lemma="Cikán_;E_,x" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="Cikán_;E_,x" src="auto">NNMP5-----A----</AM>
-<AM lemma="cikán" src="auto" selected="1">NNMP1-----A---1</AM>
+<AM lemma="cikán" src="auto" selected="1">NNMP1-----A----</AM>
 <AM lemma="cikán" src="auto">NNMP5-----A---1</AM>
 </tag>
 </m>
@@ -3707,7 +3707,7 @@
 <AM lemma="malý" src="auto">AANS1----1A----</AM>
 <AM lemma="malý" src="auto">AANS4----1A----</AM>
 <AM lemma="malý" src="auto">AANS5----1A----</AM>
-<AM lemma="malá-2_,h" src="manual" selected="1">NNFS6-----A----</AM>
+<AM lemma="malý" src="manual" selected="1">AAFS6----1A----</AM>
 </tag>
 </m>
 <m id="m007-d-id161371">

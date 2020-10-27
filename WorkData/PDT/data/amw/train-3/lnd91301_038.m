@@ -890,7 +890,7 @@
 <AM lemma="VONS_:B_;m_^(Výbor_na_obranu_nespravedlivě_stíhaných)" src="auto" recommended="1">NNIS2-----A---8</AM>
 <AM lemma="VONS_:B_;m_^(Výbor_na_obranu_nespravedlivě_stíhaných)" src="auto">NNIS3-----A---8</AM>
 <AM lemma="VONS_:B_;m_^(Výbor_na_obranu_nespravedlivě_stíhaných)" src="auto">NNIS6-----A---8</AM>
-<AM lemma="VONS-2_;m_^(Výbor_na_obranu_nespravedlivě_stíhaných)" src="manual" selected="1">NNIS2-----A---8</AM>
+<AM lemma="VONS_;m_^(Výbor_na_obranu_nespravedlivě_stíhaných)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-038-p4s1w5">

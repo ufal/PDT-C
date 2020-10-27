@@ -1188,7 +1188,7 @@
 <form>Populár</form>
 <tag>
 <AM lemma="populár" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Populár-2_;m_,s_^(^DD**Popular)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Populár_;m_,s_^(^DD**Popular)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m107-d1e61-x2-33">

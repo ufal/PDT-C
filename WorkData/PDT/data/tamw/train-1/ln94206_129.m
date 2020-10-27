@@ -1337,7 +1337,7 @@
 <LM>w#w-ln94206-129-p3s4w9</LM>
 </w.rf>
 <form>Kozlem</form>
-<tag lemma="Kozel_;Y_;m" src="auto" selected="1">NNMS7-----A----</tag>
+<tag lemma="Kozel-1_;Y" src="auto" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln94206-129-p3s4w10">
 <src.rf>manual</src.rf>

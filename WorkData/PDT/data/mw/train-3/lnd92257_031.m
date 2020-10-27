@@ -236,7 +236,7 @@
 <LM>w#w-lnd92257-031-p3s2w18</LM>
 </w.rf>
 <form>Horce</form>
-<tag lemma="Horka_;G" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Horka-1_;G" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd92257-031-p3s2w19">
 <src.rf>manual</src.rf>

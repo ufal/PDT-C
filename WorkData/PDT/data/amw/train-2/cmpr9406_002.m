@@ -4684,7 +4684,7 @@
 <form>konkurzu</form>
 <tag>
 <AM lemma="konkurs_^(úpadek;;soutěž)" src="auto">NNIS2-----A----</AM>
-<AM lemma="konkurz" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="konkurz" src="manual" selected="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-002-p19s1w30">
@@ -4794,7 +4794,7 @@
 <form>konkurzu</form>
 <tag>
 <AM lemma="konkurs_^(úpadek;;soutěž)" src="auto">NNIS6-----A---1</AM>
-<AM lemma="konkurz" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="konkurz" src="manual" selected="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-002-p19s1w43">

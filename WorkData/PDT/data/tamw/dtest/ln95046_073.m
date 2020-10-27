@@ -2732,7 +2732,7 @@
 <LM>w#w-ln95046-073-p5s6w1</LM>
 </w.rf>
 <form>Pozdější</form>
-<tag lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="orig" selected="1">AANS1----2A----</tag>
+<tag lemma="pozdější" src="orig" selected="1">AANS1----1A----</tag>
 </m>
 <m id="m-ln95046-073-p5s6w2">
 <src.rf>manual</src.rf>

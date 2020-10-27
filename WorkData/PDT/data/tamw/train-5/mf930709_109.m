@@ -100,7 +100,7 @@
 </w.rf>
 <form>Lípa</form>
 <tag>
-<AM lemma="Lípa_;G" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="Lípa-2_;G" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="Lípa-1_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="lípa" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
@@ -496,7 +496,7 @@
 <form>n</form>
 <tag>
 <AM lemma="nad-1_:B" src="orig">RR--7---------8</AM>
-<AM lemma="nad" src="manual" selected="1">RR--7---------8</AM>
+<AM lemma="nad-1" src="manual" selected="1">RR--7---------b</AM>
 </tag>
 </m>
 <m id="m-mf930709-109-p2s4w12">
@@ -534,7 +534,7 @@
 <AM lemma="nádraží_:B" src="auto">NNNXX-----A---9</AM>
 <AM lemma="národní_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="Nisa_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="Nisa" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="N-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930709-109-p2s4w14">

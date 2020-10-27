@@ -1910,7 +1910,7 @@
 </w.rf>
 <form>vod</form>
 <tag>
-<AM lemma="vod-1_^(^GC**od-1)" src="auto" recommended="1">RR--2---------6</AM>
+<AM lemma="vod-1_,h_^(^GC**od-1)" src="auto" recommended="1">RR--2----------</AM>
 <AM lemma="voda" src="auto">NNFP2-----A----</AM>
 </tag>
 </m>

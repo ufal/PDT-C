@@ -87,7 +87,7 @@
 <form>civilu</form>
 <tag>
 <AM lemma="civil_^(nevoják)" src="auto">NNMS6-----A---1</AM>
-<AM lemma="civil_^(civilní_stav,_doba_mimo_voj._služby)" src="manual" selected="1">NNIS6-----A---1</AM>
+<AM lemma="civil-1_^(civilní_stav,_doba_mimo_voj._služby)" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 </s>

@@ -11661,7 +11661,7 @@
 <AM lemma="snadný" src="auto">AANP4----2A----</AM>
 <AM lemma="snadný" src="auto">AANP5----2A----</AM>
 <AM lemma="snadný" src="auto">AANS1----2A----</AM>
-<AM lemma="snadný" src="auto" recommended="1">AANS4----2A----</AM>
+<AM lemma="snadný" src="auto" recommended="1">AANS4----2A---1</AM>
 <AM lemma="snadný" src="auto">AANS5----2A----</AM>
 </tag>
 </m>

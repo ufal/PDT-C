@@ -723,7 +723,7 @@
 <AM lemma="malý" src="auto">AAIS3----1A----</AM>
 <AM lemma="malý" src="auto">AAMS3----1A----</AM>
 <AM lemma="malý" src="auto" recommended="1">AANS3----1A----</AM>
-<AM lemma="malý-2" src="manual" selected="1">NNMS3-----A----</AM>
+<AM lemma="malý" src="manual" selected="1">AAMS3----1A----</AM>
 </tag>
 </m>
 <m id="m063-69-910">

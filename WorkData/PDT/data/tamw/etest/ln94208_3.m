@@ -605,7 +605,7 @@
 <LM>w#w-ln94208-3-p3s1w5</LM>
 </w.rf>
 <form>pozdější</form>
-<tag lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="orig" selected="1">AAIS1----2A----</tag>
+<tag lemma="pozdější" src="orig" selected="1">AAIS1----1A----</tag>
 </m>
 <m id="m-ln94208-3-p3s1w6">
 <src.rf>manual</src.rf>
@@ -1312,7 +1312,7 @@
 <LM>w#w-ln94208-3-p4s2w1</LM>
 </w.rf>
 <form>Seat</form>
-<tag lemma="Seat-1_;m" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Seat_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94208-3-p4s2w2">
 <src.rf>manual</src.rf>

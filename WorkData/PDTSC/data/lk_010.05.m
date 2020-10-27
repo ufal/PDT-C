@@ -1757,7 +1757,7 @@
 <AM lemma="pan_,x" src="auto">NNMS3-----A---1</AM>
 <AM lemma="pan_,x" src="auto">NNMS6-----A---1</AM>
 <AM lemma="pan_^(oslovení)" src="auto">NNMS3-----A----</AM>
-<AM lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS6-----A----</AM>
+<AM lemma="pan" src="auto" recommended="1">NNMS6-----A---1</AM>
 </tag>
 </m>
 <m id="m010-d1t1974-2">

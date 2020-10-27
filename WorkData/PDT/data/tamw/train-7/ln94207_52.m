@@ -1712,7 +1712,7 @@
 <LM>w#w-ln94207-52-p3s6w25</LM>
 </w.rf>
 <form>pasu</form>
-<tag lemma="pas-1_^(př._cestovní)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="pas-1_^(přihrávka,_př._v_kopané,na_lidském_těle;;cestovní)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94207-52-p3s6w26">
 <src.rf>manual</src.rf>

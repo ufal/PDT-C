@@ -3679,7 +3679,7 @@
 <form>Jako</form>
 <tag>
 <AM lemma="jako-1" src="auto">J,-------------</AM>
-<AM lemma="jako-2" src="manual" selected="1">Db-------------</AM>
+<AM lemma="jako-1" src="manual" selected="1">J,-------------</AM>
 </tag>
 </m>
 <m id="m-ln95042-052-p6s8w2">

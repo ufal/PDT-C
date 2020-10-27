@@ -372,7 +372,7 @@
 <form>Fiata</form>
 <tag>
 <AM lemma="Fiat_;m" src="auto">NNIS2-----A----</AM>
-<AM lemma="Fiat_;m" src="auto" recommended="1">NNMS4-----A----</AM>
+<AM lemma="Fiat_;m" src="auto" recommended="1">NNIS4-----A---1</AM>
 <AM lemma="fiat_;m" src="auto">NNIS2-----A---1</AM>
 <AM lemma="fiat_;m" src="auto">NNMS4-----A----</AM>
 </tag>

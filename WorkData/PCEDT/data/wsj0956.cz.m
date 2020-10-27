@@ -4097,7 +4097,7 @@
 </w.rf>
 <form>Lada</form>
 <tag>
-<AM lemma="Lada-1_;m_^(vozidlo)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Lada_;Y_;m" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Lada-2_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Lada-3_;G" src="auto">NNNP1-----A----</AM>
 <AM lemma="Lada-3_;G" src="auto">NNNP4-----A----</AM>

@@ -11697,7 +11697,7 @@
 <form>Nikaragui</form>
 <tag>
 <AM lemma="Nikaragua_;G" src="auto">NNFS2-----A---2</AM>
-<AM lemma="Nikaragua_;G" src="auto" recommended="1">NNFS3-----A---2</AM>
+<AM lemma="Nikaragua_;G" src="auto" recommended="1">NNFS3-----A---3</AM>
 </tag>
 </m>
 <m id="m-wsj1657-001-p1s37W5-Ta">
@@ -12411,7 +12411,7 @@
 </w.rf>
 <form>Nikaragui</form>
 <tag>
-<AM lemma="Nikaragua_;G" src="auto" recommended="1">NNFS2-----A---2</AM>
+<AM lemma="Nikaragua_;G" src="auto" recommended="1">NNFS2-----A---3</AM>
 <AM lemma="Nikaragua_;G" src="auto">NNFS3-----A---2</AM>
 </tag>
 </m>

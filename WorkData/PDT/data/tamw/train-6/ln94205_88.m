@@ -4331,7 +4331,7 @@
 <LM>w#w-ln94205-88-p9s2w38</LM>
 </w.rf>
 <form>sexu</form>
-<tag lemma="sex" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="sex-1" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94205-88-p9s2w39">
 <src.rf>manual</src.rf>

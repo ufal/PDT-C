@@ -1655,7 +1655,7 @@
 <tag>
 <AM lemma="L-33" src="orig">Q3-------------</AM>
 <AM lemma="L-33" src="manual">Q3-------------</AM>
-<AM lemma="Labe_;G" src="manual" selected="1">NNNS7-----A---8</AM>
+<AM lemma="L-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92255-068-p20s2w2">
@@ -2772,7 +2772,7 @@
 <LM>w#w-lnd92255-068-p35s1w1</LM>
 </w.rf>
 <form>Union</form>
-<tag lemma="Union" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Union_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92255-068-p35s1w2">
 <src.rf>manual</src.rf>

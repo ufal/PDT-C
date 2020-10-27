@@ -777,7 +777,7 @@
 <form>kongresmani</form>
 <tag>
 <AM lemma="kongresman" src="orig">NNMP1-----A---1</AM>
-<AM lemma="kongresman" src="auto" recommended="1" selected="1">NNMP1-----A----</AM>
+<AM lemma="kongresman" src="auto" recommended="1" selected="1">NNMP1-----A---1</AM>
 <AM lemma="kongresman" src="auto">NNMP5-----A----</AM>
 </tag>
 </m>

@@ -20205,7 +20205,7 @@
 <AM lemma="Yale_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Yale_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Yale_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Yale-1_;G_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Yale-2_;G" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1569-001-p1s87W29-Ta">
@@ -20611,7 +20611,7 @@
 <AM lemma="nezbytný" src="auto">AAFS3----1A----</AM>
 <AM lemma="nezbytný" src="auto">AAFS6----1A----</AM>
 <AM lemma="nezbytný" src="auto" recommended="1">AAIP1----1A----</AM>
-<AM lemma="nezbytný" src="auto" selected="1">AAIP4----1A----</AM>
+<AM lemma="zbytný" src="auto" selected="1">AAIP4----1N----</AM>
 <AM lemma="nezbytný" src="auto">AAIP5----1A----</AM>
 <AM lemma="nezbytný" src="auto">AAMP4----1A----</AM>
 <AM lemma="nezbytný" src="auto">AANP1----1A---6</AM>

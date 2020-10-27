@@ -1618,7 +1618,7 @@
 <AM lemma="přízeň" src="orig">NNFS4-----A----</AM>
 <AM lemma="nepřízeň" src="auto">NNFS1-----A----</AM>
 <AM lemma="nepřízeň" src="auto" recommended="1">NNFS4-----A----</AM>
-<AM lemma="přízeň" src="manual" selected="1">NNFS4-----N----</AM>
+<AM lemma="nepřízeň" src="manual" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-035-p4s3w20">

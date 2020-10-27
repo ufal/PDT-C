@@ -3706,7 +3706,7 @@
 <form>Clubu</form>
 <tag>
 <AM lemma="klub" src="orig">NNIS2-----A----</AM>
-<AM lemma="Club" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Club_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-018-p8s4w14">

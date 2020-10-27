@@ -624,7 +624,7 @@
 <LM>w#w-mf930701-156-p2s5w4</LM>
 </w.rf>
 <form>pozdější</form>
-<tag lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="orig" selected="1">AANS1----2A----</tag>
+<tag lemma="pozdější" src="orig" selected="1">AANS1----1A----</tag>
 </m>
 <m id="m-mf930701-156-p2s5w5">
 <src.rf>manual</src.rf>

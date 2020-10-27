@@ -2777,7 +2777,7 @@
 <LM>w#w-mf920923-102-p83s1w2</LM>
 </w.rf>
 <form>Hrabě</form>
-<tag lemma="hrabě" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="hrabě-2" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-mf920923-102-p83s1w3">
 <src.rf>manual</src.rf>
@@ -2851,7 +2851,7 @@
 <form>Louvru</form>
 <tag>
 <AM lemma="Louvre_;G" src="orig">NNIS2-----A----</AM>
-<AM lemma="Louvre_;G" src="auto" recommended="1" selected="1">NNIS2-----A---1</AM>
+<AM lemma="Louvre_;G_;m" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
 <AM lemma="Louvre_;G" src="auto">NNIS3-----A---1</AM>
 <AM lemma="Louvre_;G" src="auto">NNIS6-----A---1</AM>
 </tag>

@@ -387,7 +387,7 @@
 <AM lemma="srnčí" src="auto">AANS1----1A----</AM>
 <AM lemma="srnčí" src="auto" recommended="1">AANS4----1A----</AM>
 <AM lemma="srnčí" src="auto">AANS5----1A----</AM>
-<AM lemma="srnčí-2" src="manual" selected="1">NNNS4-----A----</AM>
+<AM lemma="srnčí" src="manual" selected="1">AANS4----1A----</AM>
 </tag>
 </m>
 <m id="m018-d1t248-2">
@@ -661,7 +661,7 @@
 <AM lemma="srnčí" src="auto" recommended="1">AANS1----1A----</AM>
 <AM lemma="srnčí" src="auto">AANS4----1A----</AM>
 <AM lemma="srnčí" src="auto">AANS5----1A----</AM>
-<AM lemma="srnčí-2" src="manual" selected="1">NNNS4-----A----</AM>
+<AM lemma="srnčí" src="manual" selected="1">AANS4----1A----</AM>
 </tag>
 </m>
 <m id="m018-d1t262-3">
@@ -832,7 +832,7 @@
 <AM lemma="kuchyně" src="auto">NNFS1-----A---1</AM>
 <AM lemma="kuchyně" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="kuchyně" src="auto">NNFS5-----A---1</AM>
-<AM lemma="kuchyň" src="manual" selected="1">NNFS2-----A---1</AM>
+<AM lemma="kuchyň" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m018-d1t262-17">
@@ -2728,7 +2728,7 @@
 <AM lemma="Hodina_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Hodina_;Y" src="auto">NNMP7-----A----</AM>
 <AM lemma="Hodina_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="hodina_^(jednotka_času)" src="auto" recommended="1">NNFP1-----A----</AM>
+<AM lemma="hodina" src="auto" recommended="1">NNFP1-----A----</AM>
 <AM lemma="hodina_^(jednotka_času)" src="auto">NNFP4-----A----</AM>
 <AM lemma="hodina_^(jednotka_času)" src="auto">NNFP5-----A----</AM>
 <AM lemma="hodina_^(jednotka_času)" src="auto">NNFS2-----A----</AM>

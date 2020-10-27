@@ -4553,7 +4553,7 @@
 <AM lemma="image" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="image-3" src="auto">NNNXX-----A----</AM>
 <AM lemma="image" src="auto">NNXXX-----A----</AM>
-<AM lemma="image-2" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="image-2" src="manual" selected="1">NNIS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-wsj0530-001-p1s14W20-Ta">
@@ -8809,7 +8809,7 @@
 <form>Carol</form>
 <tag>
 <AM lemma="Carola_;Y" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="Carol_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Carol_;Y_;m" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0530-001-p1s28W16-Ta">

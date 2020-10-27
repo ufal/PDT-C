@@ -1504,7 +1504,7 @@
 <LM>w#w-ln94205-3-p3s5w5</LM>
 </w.rf>
 <form>pozdějšího</form>
-<tag lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="orig" selected="1">AAIS2----2A----</tag>
+<tag lemma="pozdější" src="orig" selected="1">AAIS2----1A----</tag>
 </m>
 <m id="m-ln94205-3-p3s5w6">
 <src.rf>manual</src.rf>
@@ -6600,7 +6600,7 @@
 <LM>w#w-ln94205-3-p6s1w9</LM>
 </w.rf>
 <form>de</form>
-<tag lemma="de_^(z_franc._de,_zejm._ve_jménech)" src="orig" selected="1">RR--1----------</tag>
+<tag lemma="de-77" src="orig" selected="1">F%-------------</tag>
 </m>
 <m id="m-ln94205-3-p6s1w10">
 <src.rf>manual</src.rf>

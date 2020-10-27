@@ -4485,7 +4485,7 @@
 <LM>w#w-lnd92251-077-p6s4w16</LM>
 </w.rf>
 <form>pár</form>
-<tag lemma="pár-1" src="orig" selected="1">ClXP6----------</tag>
+<tag lemma="pár-1" src="orig" selected="1">Ca--X----------</tag>
 </m>
 <m id="m-lnd92251-077-p6s4w17">
 <src.rf>manual</src.rf>

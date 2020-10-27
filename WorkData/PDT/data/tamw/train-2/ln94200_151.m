@@ -976,7 +976,7 @@
 <LM>w#w-ln94200-151-p4s8w1</LM>
 </w.rf>
 <form>Nestálo</form>
-<tag lemma="stát-4_^(něco_stojí_peníze)" src="orig" selected="1">VpNS----R-NAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VpNS----R-NAI--</tag>
 </m>
 <m id="m-ln94200-151-p4s8w2">
 <src.rf>manual</src.rf>

@@ -7874,7 +7874,7 @@
 <form>pár</form>
 <tag>
 <AM lemma="pár-1" src="auto">ClXP2----------</AM>
-<AM lemma="pár-1" src="auto" recommended="1" selected="1">ClXP3----------</AM>
+<AM lemma="pár-1" src="auto" recommended="1" selected="1">Ca--X----------</AM>
 <AM lemma="pár-1" src="auto">ClXP6----------</AM>
 <AM lemma="pár-1" src="auto">ClXP7----------</AM>
 <AM lemma="pár-1" src="auto">ClXS1----------</AM>

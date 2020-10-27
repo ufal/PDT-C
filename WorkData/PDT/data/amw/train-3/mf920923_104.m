@@ -781,7 +781,7 @@
 <LM>w#w-mf920923-104-p3s1w9</LM>
 </w.rf>
 <form>desetitisíce</form>
-<tag lemma="desetitisíc" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="desetitisíc`10000" src="orig" selected="1">CzIP1----------</tag>
 </m>
 <m id="m-mf920923-104-p3s1w10">
 <src.rf>manual</src.rf>
@@ -3863,7 +3863,7 @@
 <LM>w#w-mf920923-104-p9s1w8</LM>
 </w.rf>
 <form>Chamu</form>
-<tag lemma="Cham_;G" src="orig" selected="1">NNIS6-----A---1</tag>
+<tag lemma="Cham_;G" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-mf920923-104-p9s1w9">
 <src.rf>manual</src.rf>

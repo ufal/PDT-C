@@ -235,7 +235,7 @@
 <AM lemma="Woodbridge_;G" src="auto">NNFS1-----A----</AM>
 <AM lemma="Woodbridge_;G" src="auto">NNFS2-----A----</AM>
 <AM lemma="Woodbridge_;G" src="auto" recommended="1">NNFS4-----A----</AM>
-<AM lemma="Woodbridge-2_;Y" src="manual" selected="1">NNMS4-----A----</AM>
+<AM lemma="Woodbridge-1_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-081-p2s1w26">

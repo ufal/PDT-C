@@ -6950,7 +6950,7 @@
 <LM>w#w-vesm9211-020-p16s3w15</LM>
 </w.rf>
 <form>třiatřicítkové</form>
-<tag lemma="třiatřicítkový`33" src="orig" selected="1">CrFS2----------</tag>
+<tag lemma="třiatřicítkový`33" src="orig" selected="1">AAFS2----1A----</tag>
 </m>
 <m id="m-vesm9211-020-p16s3w16">
 <src.rf>manual</src.rf>

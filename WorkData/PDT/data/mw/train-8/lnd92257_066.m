@@ -1088,7 +1088,7 @@
 <LM>w#w-lnd92257-066-p3s7w8</LM>
 </w.rf>
 <form>desetitisíce</form>
-<tag lemma="desetitisíc" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="desetitisíc`10000" src="orig" selected="1">CzIP1----------</tag>
 </m>
 <m id="m-lnd92257-066-p3s7w9">
 <src.rf>manual</src.rf>
@@ -1736,7 +1736,7 @@
 <LM>w#w-lnd92257-066-p4s1w62</LM>
 </w.rf>
 <form>de</form>
-<tag lemma="de_^(z_franc._de,_zejm._ve_jménech)" src="orig" selected="1">RR--1----------</tag>
+<tag lemma="de-77" src="orig" selected="1">F%-------------</tag>
 </m>
 <m id="m-lnd92257-066-p4s1w63">
 <src.rf>manual</src.rf>

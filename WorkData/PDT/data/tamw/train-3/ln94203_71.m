@@ -836,7 +836,7 @@
 <LM>w#w-ln94203-71-p3s2w3</LM>
 </w.rf>
 <form>vhod</form>
-<tag lemma="vhod-2" src="auto" selected="1">Db-------------</tag>
+<tag lemma="vhod-2" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94203-71-p3s2w4">
 <src.rf>manual</src.rf>
@@ -1434,7 +1434,7 @@
 <LM>w#w-ln94203-71-p4s1w8</LM>
 </w.rf>
 <form>pozdějších</form>
-<tag lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="orig" selected="1">AAFP2----2A----</tag>
+<tag lemma="pozdější" src="orig" selected="1">AAFP2----1A----</tag>
 </m>
 <m id="m-ln94203-71-p4s1w9">
 <src.rf>manual</src.rf>

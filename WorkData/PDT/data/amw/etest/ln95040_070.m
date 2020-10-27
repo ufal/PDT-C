@@ -5210,7 +5210,7 @@
 <LM>w#w-ln95040-070-p7s2w98</LM>
 </w.rf>
 <form>L</form>
-<tag lemma="Labe_;G" src="orig" selected="1">NNNS7-----A---b</tag>
+<tag lemma="L-33" src="orig" selected="1">Q3-------------</tag>
 </m>
 <m id="m-ln95040-070-p7s2w99">
 <src.rf>manual</src.rf>
@@ -6049,7 +6049,7 @@
 <LM>w#w-ln95040-070-p9s2w44</LM>
 </w.rf>
 <form>L</form>
-<tag lemma="Labe_;G" src="orig" selected="1">NNNS7-----A---b</tag>
+<tag lemma="L-33" src="orig" selected="1">Q3-------------</tag>
 </m>
 <m id="m-ln95040-070-p9s2w45">
 <src.rf>manual</src.rf>

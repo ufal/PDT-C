@@ -737,7 +737,7 @@
 <LM>w#w-ln95043-065-p3s3w1</LM>
 </w.rf>
 <form>Členem</form>
-<tag lemma="člen" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-ln95043-065-p3s3w2">
 <src.rf>manual</src.rf>

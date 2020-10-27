@@ -600,7 +600,7 @@
 <AM lemma="Jajce_;G" src="auto" recommended="1">NNIP1-----A----</AM>
 <AM lemma="Jajce_;G" src="auto">NNIP4-----A----</AM>
 <AM lemma="Jajce_;G" src="auto">NNIP5-----A----</AM>
-<AM lemma="Jajce_;G" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Jajce_;G" src="manual" selected="1">NNIP1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-133-p2s5w13">

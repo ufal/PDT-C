@@ -898,7 +898,7 @@
 <form>Mars</form>
 <tag>
 <AM lemma="mars" src="orig">NNIS1-----A----</AM>
-<AM lemma="Mars-2_;m_^(planeta;;kosmická_sonda)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Mars-2_;G_;m_^(planeta;;kosmická_sonda)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-016-p2s4w16">

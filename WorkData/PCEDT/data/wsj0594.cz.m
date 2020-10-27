@@ -1328,7 +1328,7 @@
 <AM lemma="desatero" src="auto">NNNP1-----A----</AM>
 <AM lemma="desatero" src="auto">NNNP4-----A----</AM>
 <AM lemma="desatero" src="auto">NNNP5-----A----</AM>
-<AM lemma="desatero" src="auto" selected="1">NNNS2-----A----</AM>
+<AM lemma="desatero`10" src="auto" selected="1">CjNS2----------</AM>
 </tag>
 </m>
 <m id="m-wsj0594-001-p1s8W7-Ta">

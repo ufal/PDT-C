@@ -438,7 +438,7 @@
 <form>stadionu</form>
 <tag>
 <AM lemma="stadión" src="orig">NNIS6-----A---1</AM>
-<AM lemma="stadion_,s_^(^DD**stadión)" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="stadion_,s_^(^DD**stadión)" src="manual" selected="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-mf930713-021-p2s2w17">

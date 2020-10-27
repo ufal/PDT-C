@@ -711,7 +711,7 @@
 <LM>w#w-ln94202-79-p3s2w6</LM>
 </w.rf>
 <form>O</form>
-<tag lemma="O-2_;Y_^(v_irských_jménech,_př._O'Connor)" src="orig" selected="1">NNXXX-----A----</tag>
+<tag lemma="O-77" src="orig" selected="1">F%-------------</tag>
 </m>
 <m id="m-ln94202-79-p3s2w7">
 <src.rf>manual</src.rf>
@@ -1627,7 +1627,7 @@
 <LM>w#w-ln94202-79-p4s2w1</LM>
 </w.rf>
 <form>O</form>
-<tag lemma="O-2_;Y_^(v_irských_jménech,_př._O'Connor)" src="orig" selected="1">NNXXX-----A----</tag>
+<tag lemma="O-77" src="orig" selected="1">F%-------------</tag>
 </m>
 <m id="m-ln94202-79-p4s2w2">
 <src.rf>manual</src.rf>

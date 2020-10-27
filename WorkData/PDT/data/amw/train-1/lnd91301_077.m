@@ -83,7 +83,7 @@
 <LM>w#w-lnd91301-077-p1s1w9</LM>
 </w.rf>
 <form>K</form>
-<tag lemma="K-6_;m" src="orig" selected="1">NNXXX-----A---b</tag>
+<tag lemma="K-33" src="orig" selected="1">Q3-------------</tag>
 </m>
 <m id="m-lnd91301-077-p1s1w10">
 <src.rf>manual</src.rf>
@@ -4538,7 +4538,7 @@
 <LM>w#w-lnd91301-077-p11s2w12</LM>
 </w.rf>
 <form>pár</form>
-<tag lemma="pár-1" src="orig" selected="1">ClXP2----------</tag>
+<tag lemma="pár-1" src="orig" selected="1">Ca--X----------</tag>
 </m>
 <m id="m-lnd91301-077-p11s2w13">
 <src.rf>manual</src.rf>

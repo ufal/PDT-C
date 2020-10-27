@@ -4918,7 +4918,7 @@
 <AM lemma="nastávající_^(*4t)" src="auto" recommended="1">AGNS1-----A----</AM>
 <AM lemma="nastávající_^(*4t)" src="auto">AGNS4-----A----</AM>
 <AM lemma="nastávající_^(*4t)" src="auto">AGNS5-----A----</AM>
-<AM lemma="nastávající-3" src="manual" selected="1">NNFS3-----A----</AM>
+<AM lemma="nastávající_^(*4t)" src="manual" selected="1">AGFS3-----A----</AM>
 </tag>
 </m>
 <m id="m101-638-641">

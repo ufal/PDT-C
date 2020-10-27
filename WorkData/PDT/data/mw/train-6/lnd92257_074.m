@@ -1557,7 +1557,7 @@
 <AM lemma="přízeň" src="orig">NNFS7-----A----</AM>
 <AM lemma="nepřízeň" src="auto">NNFP2-----A----</AM>
 <AM lemma="nepřízeň" src="auto" recommended="1">NNFS7-----A----</AM>
-<AM lemma="přízeň" src="manual" selected="1">NNFS7-----N----</AM>
+<AM lemma="nepřízeň" src="manual" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-074-p4s3w26">

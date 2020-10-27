@@ -242,7 +242,7 @@
 <LM>w#w-mf920924-075-p3s2w4</LM>
 </w.rf>
 <form>statisíce</form>
-<tag lemma="stotisíc`100000" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="statisíc`100000" src="orig" selected="1">CzIP1----------</tag>
 </m>
 <m id="m-mf920924-075-p3s2w5">
 <src.rf>manual</src.rf>

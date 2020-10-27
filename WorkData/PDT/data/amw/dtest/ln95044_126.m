@@ -1636,7 +1636,7 @@
 <LM>w#w-ln95044-126-p5s1w31</LM>
 </w.rf>
 <form>nezbytné</form>
-<tag lemma="nezbytný" src="orig" selected="1">AAFP4----1A----</tag>
+<tag lemma="zbytný" src="orig" selected="1">AAFP4----1N----</tag>
 </m>
 <m id="m-ln95044-126-p5s1w32">
 <src.rf>manual</src.rf>

@@ -1054,7 +1054,7 @@
 <tag>
 <AM lemma="Gillett_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Gillette_;m_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Gillette_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Gillette_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0310-001-p1s3W17-Ta">
@@ -1364,7 +1364,7 @@
 <tag>
 <AM lemma="Gillett_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Gillette_;m_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Gillette_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Gillette_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0310-001-p1s5W3-Ta">
@@ -1947,7 +1947,7 @@
 <tag>
 <AM lemma="Gillett_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Gillette_;m_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Gillette_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Gillette_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0310-001-p1s7W10-Ta">

@@ -6466,7 +6466,7 @@
 <LM>w#w-ln94202-58-p11s1w12</LM>
 </w.rf>
 <form>nezbytnost</form>
-<tag lemma="nezbytnost_^(*3ý)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="zbytnost_^(*3ý)" src="orig" selected="1">NNFS4-----N----</tag>
 </m>
 <m id="m-ln94202-58-p11s1w13">
 <src.rf>manual</src.rf>

@@ -7612,7 +7612,7 @@
 <AM lemma="snadný" src="auto">AAIP4----2A----</AM>
 <AM lemma="snadný" src="auto">AAIP5----2A----</AM>
 <AM lemma="snadný" src="auto">AAIS1----2A----</AM>
-<AM lemma="snadný" src="auto" recommended="1">AAIS4----2A----</AM>
+<AM lemma="snadný" src="auto" recommended="1">AAFS4----2A---1</AM>
 <AM lemma="snadný" src="auto">AAIS5----2A----</AM>
 <AM lemma="snadný" src="auto">AAMP1----2A----</AM>
 <AM lemma="snadný" src="auto">AAMP4----2A----</AM>

@@ -3888,7 +3888,7 @@
 <AM lemma="polní-2" src="auto">NNFS4-----A----</AM>
 <AM lemma="polní-2" src="auto">NNFS5-----A----</AM>
 <AM lemma="polní-2" src="auto">NNFS6-----A----</AM>
-<AM lemma="polní-2" src="auto" recommended="1">NNFS7-----A----</AM>
+<AM lemma="polní" src="auto" recommended="1">AAFS7----1A----</AM>
 </tag>
 </m>
 <m id="m023-d1t2823-17">

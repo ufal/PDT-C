@@ -546,7 +546,7 @@
 <form>Nesouhlas</form>
 <tag>
 <AM lemma="nesouhlas" src="orig">NNIS4-----A----</AM>
-<AM lemma="souhlas" src="manual" selected="1">NNIS4-----N----</AM>
+<AM lemma="nesouhlas" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-121-p4s1w7">

@@ -91,7 +91,7 @@
 <form>Lada</form>
 <tag>
 <AM lemma="Lada-1_;m_^(vozidlo)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Lada-4_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Lada_;Y_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-95-p2s1Aw2">
@@ -3743,7 +3743,7 @@
 <LM>w#w-ln94211-95-p7s1Bw15</LM>
 </w.rf>
 <form>pozdější</form>
-<tag lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="orig" selected="1">AAFS6----2A----</tag>
+<tag lemma="pozdější" src="orig" selected="1">AAFS6----1A----</tag>
 </m>
 <m id="m-ln94211-95-p7s1Bw16">
 <src.rf>manual</src.rf>
@@ -13669,7 +13669,7 @@
 <LM>w#w-ln94211-95-p18s3w22</LM>
 </w.rf>
 <form>Joyce</form>
-<tag lemma="Joyce_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Joyce-1_;Y" src="orig" selected="1">NNMXX-----A----</tag>
 </m>
 <m id="m-ln94211-95-p18s3w23">
 <src.rf>manual</src.rf>

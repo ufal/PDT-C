@@ -5746,7 +5746,7 @@
 <LM>w#w-mf920922-103-p2s32Bw27</LM>
 </w.rf>
 <form>nestátu</form>
-<tag lemma="stát" src="orig" selected="1">NNIS6-----N----</tag>
+<tag lemma="stát-1_^(státní_útvar)" src="orig" selected="1">NNIS6-----N---1</tag>
 </m>
 <m id="m-mf920922-103-p2s32Bw28">
 <src.rf>manual</src.rf>

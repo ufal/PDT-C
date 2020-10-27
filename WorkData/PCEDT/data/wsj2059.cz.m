@@ -8934,7 +8934,7 @@
 <AM lemma="obviněný_^(*3it)" src="auto">AAMS2----1A----</AM>
 <AM lemma="obviněný_^(*3it)" src="auto">AAMS4----1A----</AM>
 <AM lemma="obviněný_^(*3it)" src="auto" recommended="1">AANS2----1A----</AM>
-<AM lemma="obviněný-2" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="obviněný_^(*3it)" src="manual" selected="1">AAMS2----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj2059-001-p1s32W9-Ta">

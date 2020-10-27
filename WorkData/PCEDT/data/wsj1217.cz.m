@@ -4356,7 +4356,7 @@
 </w.rf>
 <form>Sun</form>
 <tag>
-<AM lemma="Sun_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Sun-2_;m" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Sun_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="Sun_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="sun" src="auto">NNIS1-----A----</AM>

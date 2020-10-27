@@ -37,7 +37,7 @@
 <form>danausy</form>
 <tag>
 <AM lemma="danaus_;U" src="orig">NNMP4-----A----</AM>
-<AM lemma="danaus_;U_^(motýl)" src="manual" selected="1">NNMP4-----A----</AM>
+<AM lemma="danaus_^(motýl)" src="manual" selected="1">NNMP4-----A---1</AM>
 </tag>
 </m>
 </s>
@@ -138,7 +138,7 @@
 <form>danausi</form>
 <tag>
 <AM lemma="danaus_;U_,t_^(motýl)" src="auto">NNMP1-----A----</AM>
-<AM lemma="danaus_;U_^(motýl)" src="manual" selected="1">NNMP1-----A----</AM>
+<AM lemma="danaus_^(motýl)" src="manual" selected="1">NNMP1-----A---1</AM>
 </tag>
 </m>
 <m id="m-vesm9212-034-p2s1w13">

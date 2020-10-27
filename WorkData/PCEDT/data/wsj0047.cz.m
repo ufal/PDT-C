@@ -536,7 +536,7 @@
 <AM lemma="mladistvý" src="auto">AAMP6----1A----</AM>
 <AM lemma="mladistvý" src="auto">AANP2----1A----</AM>
 <AM lemma="mladistvý" src="auto">AANP6----1A----</AM>
-<AM lemma="mladistvý-2" src="manual" selected="1">NNMP2-----A----</AM>
+<AM lemma="mladistvý" src="manual" selected="1">AAMP2----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0047-001-p1s1W23-Ta">
@@ -5993,7 +5993,7 @@
 </w.rf>
 <form>Yale</form>
 <tag>
-<AM lemma="Yale_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Yale-2_;G" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="Yale_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Yale_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Yale_;Y" src="auto">NNMXX-----A----</AM>

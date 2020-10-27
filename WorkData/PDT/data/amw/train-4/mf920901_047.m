@@ -2138,7 +2138,7 @@
 <form>Perlini</form>
 <tag>
 <AM lemma="Perlini_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Perlini_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Perlini-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-047-p5s1w10">

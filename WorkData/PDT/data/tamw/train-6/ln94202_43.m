@@ -729,7 +729,7 @@
 <LM>w#w-ln94202-43-p2s3w9</LM>
 </w.rf>
 <form>tubusu</form>
-<tag lemma="tubus" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="tubus" src="orig" selected="1">NNIS6-----A---1</tag>
 </m>
 <m id="m-ln94202-43-p2s3w10">
 <src.rf>manual</src.rf>

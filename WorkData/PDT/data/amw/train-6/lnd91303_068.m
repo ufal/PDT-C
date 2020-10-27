@@ -1690,7 +1690,7 @@
 <form>MATES</form>
 <tag>
 <AM lemma="mates" src="orig">NNMS1-----A----</AM>
-<AM lemma="Mates_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Mates-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-068-p4s1w3">

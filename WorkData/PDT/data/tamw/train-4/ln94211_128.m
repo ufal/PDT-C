@@ -1062,7 +1062,7 @@
 <form>neprospěch</form>
 <tag>
 <AM lemma="neprospěch" src="orig">NNIS4-----A----</AM>
-<AM lemma="prospěch" src="manual" selected="1">NNIS4-----N----</AM>
+<AM lemma="neprospěch" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-128-p5s1w23">

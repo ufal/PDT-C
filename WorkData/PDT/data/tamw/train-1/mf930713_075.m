@@ -2130,7 +2130,7 @@
 <LM>w#w-mf930713-075-p5s5w2</LM>
 </w.rf>
 <form>Panu</form>
-<tag lemma="pan_^(oslovení)" src="auto" selected="1">NNMS3-----A----</tag>
+<tag lemma="pan" src="auto" selected="1">NNMS3-----A---1</tag>
 </m>
 <m id="m-mf930713-075-p5s5w3">
 <src.rf>manual</src.rf>

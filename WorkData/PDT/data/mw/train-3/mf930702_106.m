@@ -3729,7 +3729,7 @@
 <LM>w#w-mf930702-106-p8s1w7</LM>
 </w.rf>
 <form>snazší</form>
-<tag lemma="snadný" src="orig" selected="1">AANS4----2A----</tag>
+<tag lemma="snadný" src="orig" selected="1">AANS4----2A---1</tag>
 </m>
 <m id="m-mf930702-106-p8s1w8">
 <src.rf>manual</src.rf>

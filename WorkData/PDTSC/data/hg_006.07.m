@@ -3308,7 +3308,7 @@
 <AM lemma="Medin_;Y_^(*2a)" src="auto">AUMS6F---------</AM>
 <AM lemma="Medin_;Y_^(*2a)" src="auto">AUNS6F---------</AM>
 <AM lemma="Medina_;G" src="auto">NNFS3-----A----</AM>
-<AM lemma="Medina_;G" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="Medina-2_;G" src="auto" recommended="1">NNFS6-----A----</AM>
 <AM lemma="medina-1" src="auto">NNFS3-----A----</AM>
 <AM lemma="medina-1" src="auto">NNFS6-----A----</AM>
 </tag>

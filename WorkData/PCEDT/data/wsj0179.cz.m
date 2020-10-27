@@ -541,7 +541,7 @@
 <tag>
 <AM lemma="Spiegl-1_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Spiegl-1_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Spiegel-2_;Y" src="manual" selected="1">NNMS4-----A---1</AM>
+<AM lemma="Spiegl-1_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0179-001-p1s1W19-Ta">
@@ -1113,7 +1113,7 @@
 <tag>
 <AM lemma="Spiegl-1_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Spiegl-1_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Spiegel-2_;Y" src="manual" selected="1">NNMS2-----A---2</AM>
+<AM lemma="Spiegl-1_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0179-001-p1s3W9-Ta">
@@ -2578,7 +2578,7 @@
 <tag>
 <AM lemma="Spiegl-1_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Spiegl-1_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Spiegel-2_;Y" src="manual" selected="1">NNMS2-----A---2</AM>
+<AM lemma="Spiegl-1_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0179-001-p1s7W4-Ta">
@@ -3421,7 +3421,7 @@
 <tag>
 <AM lemma="Spiegl-1_;Y" src="auto" recommended="1">NNMP2-----A----</AM>
 <AM lemma="Spiegl-2_;m" src="auto">NNIP2-----A----</AM>
-<AM lemma="Spiegel-2_;Y" src="manual" selected="1">NNMP2-----A---1</AM>
+<AM lemma="Spiegl-1_;Y" src="manual" selected="1">NNMP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0179-001-p1s10W3-Ta">
@@ -9191,7 +9191,7 @@
 <tag>
 <AM lemma="Spiegl-1_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Spiegl-1_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Spiegel-2_;Y" src="manual" selected="1">NNMS2-----A---2</AM>
+<AM lemma="Spiegl-1_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0179-001-p1s29W28-Ta">
@@ -9937,7 +9937,7 @@
 <tag>
 <AM lemma="Spiegl-1_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Spiegl-1_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Spiegel-2_;Y" src="manual" selected="1">NNMS2-----A---2</AM>
+<AM lemma="Spiegl-1_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0179-001-p1s33W7-Ta">
@@ -10964,7 +10964,7 @@
 <AM lemma="Spiegl-1_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Spiegl-1_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="Spiegel-2_;Y" src="manual">NNMS4-----A---1</AM>
-<AM lemma="Spiegel-2_;Y" src="manual" selected="1">NNMS2-----A---2</AM>
+<AM lemma="Spiegl-1_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0179-001-p1s37W27-Ta">

@@ -3768,7 +3768,7 @@
 <LM>w#w-lnd92251-054-p5s2w2</LM>
 </w.rf>
 <form>statisíce</form>
-<tag lemma="stotisíc`100000" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="statisíc`100000" src="orig" selected="1">CzIP4----------</tag>
 </m>
 <m id="m-lnd92251-054-p5s2w3">
 <src.rf>manual</src.rf>
@@ -4594,7 +4594,7 @@
 <LM>w#w-lnd92251-054-p6s1w48</LM>
 </w.rf>
 <form>nespravedlností</form>
-<tag lemma="nespravedlnost" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="spravedlnost-1_^(*5ý-1)" src="orig" selected="1">NNFS7-----N----</tag>
 </m>
 <m id="m-lnd92251-054-p6s1w49">
 <src.rf>manual</src.rf>

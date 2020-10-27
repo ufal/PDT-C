@@ -1767,7 +1767,7 @@
 <form>KOZÁK</form>
 <tag>
 <AM lemma="Kozák_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kozák_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Kozák-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-103-p5s1w3">

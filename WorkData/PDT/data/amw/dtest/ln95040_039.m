@@ -1929,7 +1929,7 @@
 <LM>w#w-ln95040-039-p4s1w10</LM>
 </w.rf>
 <form>Purkyně</form>
-<tag lemma="Purkyně_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Purkyně_;Y" src="orig" selected="1">NNMS2-----A---1</tag>
 </m>
 <m id="m-ln95040-039-p4s1w11">
 <src.rf>manual</src.rf>

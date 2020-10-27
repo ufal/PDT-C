@@ -2752,7 +2752,7 @@
 <AM lemma="řídící_^(*3it)" src="auto">AGNS1-----A----</AM>
 <AM lemma="řídící_^(*3it)" src="auto">AGNS4-----A----</AM>
 <AM lemma="řídící_^(*3it)" src="auto">AGNS5-----A----</AM>
-<AM lemma="řídící-3" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="řídící_^(*3it)" src="manual" selected="1">AGFS1-----A----</AM>
 </tag>
 </m>
 <m id="m028-926-928">

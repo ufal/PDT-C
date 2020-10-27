@@ -2925,7 +2925,7 @@
 <LM>w#w-vesm9211-051-p4s5w20</LM>
 </w.rf>
 <form>nejsnazší</form>
-<tag lemma="snadný" src="orig" selected="1">AAFS7----3A----</tag>
+<tag lemma="snadný" src="orig" selected="1">AAFS7----3A---1</tag>
 </m>
 <m id="m-vesm9211-051-p4s5w21">
 <src.rf>manual</src.rf>

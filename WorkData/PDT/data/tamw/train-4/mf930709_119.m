@@ -4746,7 +4746,7 @@
 <LM>w#w-mf930709-119-p14s4w4</LM>
 </w.rf>
 <form>Fortuně</form>
-<tag lemma="Fortuna_;m" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Fortuna_;Y_;m" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-mf930709-119-p14s4w5">
 <src.rf>manual</src.rf>

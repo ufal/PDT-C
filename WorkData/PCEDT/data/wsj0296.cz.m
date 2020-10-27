@@ -4130,7 +4130,7 @@
 <AM lemma="e-2_^(e-mail)" src="auto">A2--------A----</AM>
 <AM lemma="e-33" src="auto" recommended="1">Q3-------------</AM>
 <AM lemma="e-33" src="auto">Q3-------------</AM>
-<AM lemma="e-3_;Y_^(Le-e)" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="e-3_^(Le-e)" src="manual" selected="1">SNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0296-001-p1s14W29-Ta">

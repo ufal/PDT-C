@@ -1053,7 +1053,7 @@
 </w.rf>
 <form>i</form>
 <tag>
-<AM lemma="i_;m_^(Koh-i-noor)" src="orig" selected="1">NNXXX-----A----</AM>
+<AM lemma="i-3_^(Koh-i-noor)" src="orig" selected="1">S2--------A----</AM>
 <AM lemma="i-1" src="auto">J^-------------</AM>
 <AM lemma="i-2" src="auto">TT-------------</AM>
 <AM lemma="i-33" src="auto" recommended="1">Q3-------------</AM>

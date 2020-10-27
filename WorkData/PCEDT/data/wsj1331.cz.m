@@ -1715,7 +1715,7 @@
 <tag>
 <AM lemma="Jefferiesovi" src="auto">X@-------------</AM>
 <AM lemma="Jefferies_;Y" src="manual">NNMS1-----A----</AM>
-<AM lemma="Jefferies_;Y" src="manual" selected="1">NNMS6-----A----</AM>
+<AM lemma="Jefferies-2_;Y" src="manual" selected="1">NNMS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-wsj1331-001-p1s4W17-Ta">

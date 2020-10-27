@@ -59,7 +59,7 @@
 <LM>w#w-ln95046-087-p1s1w6</LM>
 </w.rf>
 <form>data</form>
-<tag lemma="datum_^(kalendářní)" src="orig" selected="1">NNNP4-----A----</tag>
+<tag lemma="datum-1_^(kalendářní)" src="orig" selected="1">NNNP4-----A----</tag>
 </m>
 <m id="m-ln95046-087-p1s1w7">
 <src.rf>manual</src.rf>

@@ -2240,7 +2240,7 @@
 <AM lemma="řídící_^(*3it)" src="auto">AGNS1-----A----</AM>
 <AM lemma="řídící_^(*3it)" src="auto">AGNS4-----A----</AM>
 <AM lemma="řídící_^(*3it)" src="auto">AGNS5-----A----</AM>
-<AM lemma="řídící-2" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="řídící_^(*3it)" src="manual" selected="1">AGMS1-----A----</AM>
 </tag>
 </m>
 <m id="m047-d1t2130-11">
@@ -2680,7 +2680,7 @@
 <AM lemma="řídící_^(*3it)" src="auto">AGNS1-----A----</AM>
 <AM lemma="řídící_^(*3it)" src="auto">AGNS4-----A----</AM>
 <AM lemma="řídící_^(*3it)" src="auto">AGNS5-----A----</AM>
-<AM lemma="řídící-2" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="řídící_^(*3it)" src="manual" selected="1">AGMS1-----A----</AM>
 </tag>
 </m>
 <m id="m047-d1t2147-3">
@@ -3458,7 +3458,7 @@
 <AM lemma="řídící_^(*3it)" src="auto">AGNS1-----A----</AM>
 <AM lemma="řídící_^(*3it)" src="auto">AGNS4-----A----</AM>
 <AM lemma="řídící_^(*3it)" src="auto">AGNS5-----A----</AM>
-<AM lemma="řídící-2" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="řídící_^(*3it)" src="manual" selected="1">AGMS1-----A----</AM>
 </tag>
 </m>
 <m id="m047-d1t2212-4">

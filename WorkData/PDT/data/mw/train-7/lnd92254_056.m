@@ -79,7 +79,7 @@
 <form>Nechte</form>
 <tag>
 <AM lemma="nechat" src="orig">Vi-P---2--A----</AM>
-<AM lemma="nechat" src="manual" selected="1">Vi-P---2--A-P--</AM>
+<AM lemma="nechat" src="manual" selected="1">Vi-P---2--A-P-1</AM>
 </tag>
 </m>
 <m id="m-lnd92254-056-p2s1w2">
@@ -145,7 +145,7 @@
 <form>Nechte</form>
 <tag>
 <AM lemma="nechat" src="orig">Vi-P---2--A----</AM>
-<AM lemma="nechat" src="manual" selected="1">Vi-P---2--A-P--</AM>
+<AM lemma="nechat" src="manual" selected="1">Vi-P---2--A-P-1</AM>
 </tag>
 </m>
 <m id="m-lnd92254-056-p3s2w3">

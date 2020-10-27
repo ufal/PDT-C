@@ -7499,7 +7499,7 @@
 <AM lemma="capa" src="auto">NNFS4-----A----</AM>
 <AM lemma="capat" src="auto">VB-S---1P-AAI--</AM>
 <AM lemma="Cap-2_;Y" src="manual">NNMS3-----A----</AM>
-<AM lemma="Cap-2_;Y" src="manual" selected="1">NNMS6-----A----</AM>
+<AM lemma="Cap-2_;Y" src="manual" selected="1">NNMS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-wsj2112-001-p1s26W23-Ta">

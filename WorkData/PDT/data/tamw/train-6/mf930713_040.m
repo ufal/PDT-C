@@ -3307,7 +3307,7 @@
 <AM lemma="dokumentární_:B" src="orig">AAXXX----1A---8</AM>
 <AM lemma="dok" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="dok" src="auto">NNIS4-----A----</AM>
-<AM lemma="dokumentární" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="dok-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-040-p91s1w6">

@@ -3259,7 +3259,7 @@
 <form>Zamorana</form>
 <tag>
 <AM lemma="Zamorano_;Y" src="auto">NNMS2-----A----</AM>
-<AM lemma="Zamorano_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Zamorano-1_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-069-p8s3w11">

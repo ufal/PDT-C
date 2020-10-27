@@ -4991,7 +4991,7 @@
 <LM>w#w-cmpr9413-016-p28s1w11</LM>
 </w.rf>
 <form>software</form>
-<tag lemma="software" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="software" src="orig" selected="1">NNIXX-----A----</tag>
 </m>
 <m id="m-cmpr9413-016-p28s1w12">
 <src.rf>manual</src.rf>

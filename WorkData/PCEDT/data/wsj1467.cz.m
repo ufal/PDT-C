@@ -12138,7 +12138,7 @@
 <tag>
 <AM lemma="Trud-1_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Trud-1_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Trud_;m_^(noviny)" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Trud_;G_;m" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Trud_;m_^(noviny)" src="auto">NNIS4-----A----</AM>
 <AM lemma="Truda_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="trud_,a_^(zármutek;;námaha;;zánětlivý_pupínek)" src="auto">NNIS1-----A----</AM>

@@ -4511,7 +4511,7 @@
 <form>IRA</form>
 <tag>
 <AM lemma="IRA-1_:B_;m_,t_^(Irská_republikánská_armáda)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="IRA-8" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="IRA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-129-p2s27w16">

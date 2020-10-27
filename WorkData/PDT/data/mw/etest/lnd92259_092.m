@@ -591,7 +591,7 @@
 <LM>w#w-lnd92259-092-p2s4w26</LM>
 </w.rf>
 <form>MS</form>
-<tag lemma="MS-5_;m_^(ministerstvo_spravedlnosti)" src="orig" selected="1">NNNXX-----A---b</tag>
+<tag lemma="MS-88" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd92259-092-p2s4w27">
 <src.rf>manual</src.rf>

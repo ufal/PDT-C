@@ -541,7 +541,7 @@
 <LM>w#w-mf930713-107-p2s2w16</LM>
 </w.rf>
 <form>Rušovi</form>
-<tag lemma="Ruš_;Y" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Ruš_;Y" src="orig" selected="1">NNMS3-----A---1</tag>
 </m>
 <m id="m-mf930713-107-p2s2w17">
 <src.rf>manual</src.rf>

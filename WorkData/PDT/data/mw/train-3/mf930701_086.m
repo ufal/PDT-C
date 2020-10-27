@@ -2570,7 +2570,7 @@
 <form>radia</form>
 <tag>
 <AM lemma="rádium" src="orig">NNNS2-----A----</AM>
-<AM lemma="radio_,s_^(^DD**rádio)" src="manual" selected="1">NNNS2-----A----</AM>
+<AM lemma="radio-1_,s_^(^DD**rádio)" src="manual" selected="1">NNNS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-086-p51s1w5">
@@ -2936,7 +2936,7 @@
 <form>radia</form>
 <tag>
 <AM lemma="rádium" src="orig">NNNS2-----A----</AM>
-<AM lemma="radio_,s_^(^DD**rádio)" src="manual" selected="1">NNNS2-----A----</AM>
+<AM lemma="radio-1_,s_^(^DD**rádio)" src="manual" selected="1">NNNS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-086-p60s1w6">
@@ -3220,7 +3220,7 @@
 <form>radia</form>
 <tag>
 <AM lemma="rádium" src="orig">NNNS2-----A----</AM>
-<AM lemma="radio_,s_^(^DD**rádio)" src="manual" selected="1">NNNS2-----A----</AM>
+<AM lemma="radio-1_,s_^(^DD**rádio)" src="manual" selected="1">NNNS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-086-p66s1w5">
@@ -3622,7 +3622,7 @@
 <form>radia</form>
 <tag>
 <AM lemma="rádium" src="orig">NNNS2-----A----</AM>
-<AM lemma="radio_,s_^(^DD**rádio)" src="manual" selected="1">NNNS2-----A----</AM>
+<AM lemma="radio-1_,s_^(^DD**rádio)" src="manual" selected="1">NNNS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-086-p72s1w7">
@@ -5177,7 +5177,7 @@
 <tag>
 <AM lemma="CD-1_:B_,t_^(Audio/Data,_Compact_Disc)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="CD-1_:B_^(Audio/Data,_Compact_Disc)" src="manual">NNXXX-----A----</AM>
-<AM lemma="CD-1_^(Audio/Data,_Compactisc)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="CD-1_^(Audio/Data,_Compact_Disc)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -5239,7 +5239,7 @@
 <tag>
 <AM lemma="CD-1_:B_,t_^(Audio/Data,_Compact_Disc)" src="auto">NNNXX-----A---8</AM>
 <AM lemma="CD-1_:B_^(Audio/Data,_Compact_Disc)" src="manual">NNXXX-----A----</AM>
-<AM lemma="CD-1_^(Audio/Data,_Compactisc)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="CD-1_^(Audio/Data,_Compact_Disc)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>

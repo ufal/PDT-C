@@ -1710,7 +1710,7 @@
 <AM lemma="saně" src="auto">NNFP1-----A---1</AM>
 <AM lemma="saně" src="auto" recommended="1">NNFP4-----A---1</AM>
 <AM lemma="saně" src="auto">NNFP5-----A---1</AM>
-<AM lemma="sáně" src="manual" selected="1">NNFP4-----A----</AM>
+<AM lemma="saně" src="manual" selected="1">NNFP4-----A---1</AM>
 </tag>
 </m>
 <m id="m020-106-107">
@@ -1949,7 +1949,7 @@
 <AM lemma="saně" src="auto">NNFP1-----A----</AM>
 <AM lemma="saně" src="auto" recommended="1">NNFP4-----A----</AM>
 <AM lemma="saně" src="auto">NNFP5-----A----</AM>
-<AM lemma="saně_,s_^(^DD**sáně)" src="manual" selected="1">NNFP4-----A----</AM>
+<AM lemma="saně" src="manual" selected="1">NNFP4-----A----</AM>
 </tag>
 </m>
 <m id="m020-d1t123-52">

@@ -2476,7 +2476,7 @@
 <form>TJ</form>
 <tag>
 <AM lemma="TJ-1_:B_;m_^(tělovýchovná_jednota)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="TJ-2_;m_^(tělovýchovná_jednota)" src="manual" selected="1">BNFXX-----A----</AM>
+<AM lemma="TJ_;m_^(tělovýchovná_jednota)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-048-p10s1w36">
@@ -3819,7 +3819,7 @@
 <LM>w#w-cmpr9416-048-p15s2w10</LM>
 </w.rf>
 <form>Alfa</form>
-<tag lemma="Alfa_;m_^(vozidlo)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Alfa_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9416-048-p15s2w11">
 <src.rf>manual</src.rf>

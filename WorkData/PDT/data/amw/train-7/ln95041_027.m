@@ -179,7 +179,7 @@
 <form>Mora</form>
 <tag>
 <AM lemma="mora" src="orig">NNFS1-----A----</AM>
-<AM lemma="Mora_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Mora-2_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-027-p2s2w3">

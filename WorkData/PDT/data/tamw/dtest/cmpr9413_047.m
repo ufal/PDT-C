@@ -3777,7 +3777,7 @@
 <form>stát</form>
 <tag>
 <AM lemma="stát-4_^(něco_stojí_peníze)" src="orig">Vf--------A----</AM>
-<AM lemma="stát-4_^(něco_stojí_peníze)" src="manual" selected="1">Vf--------A-I--</AM>
+<AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">Vf--------A-I--</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-047-p25s3w5">

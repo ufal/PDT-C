@@ -1884,7 +1884,7 @@
 <form>Špinka</form>
 <tag>
 <AM lemma="špinka-3_,h_^(lakomec)" src="orig">NNMS1-----A----</AM>
-<AM lemma="Špinka-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Špinka_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-030-p2s9w35">

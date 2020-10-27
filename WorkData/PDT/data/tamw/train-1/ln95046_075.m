@@ -1314,7 +1314,7 @@
 <LM>w#w-ln95046-075-p2s8w5</LM>
 </w.rf>
 <form>dr</form>
-<tag lemma="doktor_^(doktor,_akad._titul)" src="orig" selected="1">NNMXX-----A---b</tag>
+<tag lemma="dr_^(doktor,_akad._titul)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln95046-075-p2s8w6">
 <src.rf>manual</src.rf>
@@ -1426,7 +1426,7 @@
 <LM>w#w-ln95046-075-p2s8w19</LM>
 </w.rf>
 <form>nečleny</form>
-<tag lemma="nečlen" src="orig" selected="1">NNMP7-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP7-----N----</tag>
 </m>
 <m id="m-ln95046-075-p2s8w20">
 <src.rf>manual</src.rf>

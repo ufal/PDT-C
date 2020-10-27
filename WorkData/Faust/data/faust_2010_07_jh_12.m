@@ -1283,7 +1283,7 @@
 </w.rf>
 <form>HER</form>
 <tag>
-<AM lemma="his_^(angl._její)" recommended="1">PSXXXFS3-------</AM>
+<AM lemma="Her-77" recommended="1">F%-------------</AM>
 <AM lemma="Hera_;Y">NNFP2-----A----</AM>
 <AM lemma="he_,t_^(angl._ona,_v_názvech_apod.)">PPFXX--3-------</AM>
 <AM lemma="hra_^(dětská;_v_divadle;...)">NNFP2-----A----</AM>

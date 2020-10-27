@@ -1525,7 +1525,7 @@
 <LM>w#w-ln94204-57-p5s3w2</LM>
 </w.rf>
 <form>Klosea</form>
-<tag lemma="Klose_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Klose_;Y" src="orig" selected="1">NNMS2-----A---1</tag>
 </m>
 <m id="m-ln94204-57-p5s3w3">
 <src.rf>manual</src.rf>
@@ -2166,7 +2166,7 @@
 <LM>w#w-ln94204-57-p6s4w9</LM>
 </w.rf>
 <form>Klosea</form>
-<tag lemma="Klose_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Klose_;Y" src="orig" selected="1">NNMS2-----A---1</tag>
 </m>
 <m id="m-ln94204-57-p6s4w10">
 <src.rf>manual</src.rf>

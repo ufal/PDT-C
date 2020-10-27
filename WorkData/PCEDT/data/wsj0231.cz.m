@@ -5767,7 +5767,7 @@
 <AM lemma="poražený_^(*4zit)" src="auto">AANS1----1A----</AM>
 <AM lemma="poražený_^(*4zit)" src="auto">AANS4----1A----</AM>
 <AM lemma="poražený_^(*4zit)" src="auto">AANS5----1A----</AM>
-<AM lemma="poražený-2" src="manual" selected="1">NNMP4-----A----</AM>
+<AM lemma="poražený_^(*4zit)" src="manual" selected="1">AAMP4----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0231-001-p1s24W11-Ta">
@@ -9436,7 +9436,7 @@
 <form>Jaguar</form>
 <tag>
 <AM lemma="Jaguar_;m" src="auto">NNIS1-----A----</AM>
-<AM lemma="Jaguar_;m" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="Jaguar_;m_,s_^(vozidlo)_(^DD**Jaguár)" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="jaguar_;m_^(vozidlo)" src="auto">NNIS1-----A----</AM>
 <AM lemma="jaguar_;m_^(vozidlo)" src="auto">NNIS4-----A----</AM>
 </tag>

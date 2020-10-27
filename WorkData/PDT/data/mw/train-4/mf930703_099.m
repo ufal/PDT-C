@@ -1091,7 +1091,7 @@
 <AM lemma="v-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="versus_:B_,t_,x" src="auto">RR--1---------8</AM>
 <AM lemma="veřejný_:B_^(v.o.s.)" src="auto">AAXXX----1A---8</AM>
-<AM lemma="Viktoria-2_;m_^(jméno_sport.klubu)" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="V-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf930703-099-p3s1w12">

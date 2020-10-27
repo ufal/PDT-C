@@ -94,7 +94,7 @@
 <LM>w#w-mf920924-150-p1s1Aw10</LM>
 </w.rf>
 <form>sexu</form>
-<tag lemma="sex" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="sex-1" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-mf920924-150-p1s1Aw11">
 <src.rf>manual</src.rf>
@@ -383,7 +383,7 @@
 <LM>w#w-mf920924-150-p2s2w25</LM>
 </w.rf>
 <form>sexu</form>
-<tag lemma="sex" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="sex-1" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-mf920924-150-p2s2w26">
 <src.rf>manual</src.rf>
@@ -1000,7 +1000,7 @@
 <LM>w#w-mf920924-150-p2s5w8</LM>
 </w.rf>
 <form>pasu</form>
-<tag lemma="pas-1_^(př._cestovní)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="pas-1_^(přihrávka,_př._v_kopané,na_lidském_těle;;cestovní)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920924-150-p2s5w9">
 <src.rf>manual</src.rf>

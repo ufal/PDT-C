@@ -11987,7 +11987,7 @@
 </w.rf>
 <form>ví</form>
 <tag>
-<AM lemma="vědět" src="auto" selected="1">VB-P---3P-AAI-6</AM>
+<AM lemma="vědět" src="auto" selected="1">VB-P---3P-AAI-7</AM>
 <AM lemma="vědět" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>

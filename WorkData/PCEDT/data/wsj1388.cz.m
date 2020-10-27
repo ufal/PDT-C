@@ -3031,7 +3031,7 @@
 <form>Isaaca</form>
 <tag>
 <AM lemma="Isaaca" src="auto">X@-------------</AM>
-<AM lemma="Isaac_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Isaac_;Y" src="manual" selected="1">NNMS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-wsj1388-001-p1s11W10-Ta">
@@ -9842,7 +9842,7 @@
 <form>Isaaca</form>
 <tag>
 <AM lemma="Isaaca" src="auto">X@-------------</AM>
-<AM lemma="Isaac_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Isaac_;Y" src="manual" selected="1">NNMS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-wsj1388-001-p1s42W4-Ta">

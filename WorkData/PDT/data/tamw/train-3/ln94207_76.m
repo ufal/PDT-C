@@ -3994,7 +3994,7 @@
 <LM>w#w-ln94207-76-p3s11w5</LM>
 </w.rf>
 <form>nechtě</form>
-<tag lemma="nechtě" src="orig" selected="1">Db-------------</tag>
+<tag lemma="chtě" src="orig" selected="1">Dg-------1N----</tag>
 </m>
 <m id="m-ln94207-76-p3s11w6">
 <src.rf>manual</src.rf>
@@ -6038,7 +6038,7 @@
 </w.rf>
 <form>Leonhardu</form>
 <tag>
-<AM lemma="Leonhard_;Y" src="orig" selected="1">NNMS3-----A----</AM>
+<AM lemma="Leonhard_;Y" src="orig" selected="1">NNMS3-----A---1</AM>
 <AM lemma="Leonhard_;Y" src="auto" recommended="1">NNMS3-----A---1</AM>
 <AM lemma="Leonhard_;Y" src="auto">NNMS6-----A---1</AM>
 </tag>
@@ -15428,7 +15428,7 @@
 <LM>w#w-ln94207-76-p11s1Bw15</LM>
 </w.rf>
 <form>pozdější</form>
-<tag lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="orig" selected="1">AAFS4----2A----</tag>
+<tag lemma="pozdější" src="orig" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-ln94207-76-p11s1Bw16">
 <src.rf>manual</src.rf>
@@ -16411,7 +16411,7 @@
 </w.rf>
 <form>tunga</form>
 <tag>
-<AM lemma="tung_;Y" src="orig" selected="1">NNMS2-----A----</AM>
+<AM lemma="tung-1" src="orig" selected="1">SNMS2-----A----</AM>
 <AM lemma="tunga" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>
@@ -20311,7 +20311,7 @@
 <LM>w#w-ln94207-76-p13s1w17</LM>
 </w.rf>
 <form>Natalie</form>
-<tag lemma="Natalie_;Y" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Natalie_;Y_,s_^(^DD**Natálie)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94207-76-p13s1w18">
 <src.rf>manual</src.rf>
@@ -22150,7 +22150,7 @@
 <LM>w#w-ln94207-76-p15s1w28</LM>
 </w.rf>
 <form>Fuksova</form>
-<tag lemma="Fuksův_;Y_^(*2a)" src="orig" selected="1">AUIS2M---------</tag>
+<tag lemma="Fuksův_;Y_^(*2)_(*2a)" src="orig" selected="1">AUIS2M---------</tag>
 </m>
 <m id="m-ln94207-76-p15s1w29">
 <src.rf>manual</src.rf>

@@ -251,7 +251,7 @@
 <tag>
 <AM lemma="Olymp_;G" src="auto">NNIS2-----A----</AM>
 <AM lemma="Olymp_;G" src="auto">NNIS3-----A----</AM>
-<AM lemma="Olymp_;G" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="Olymp_;G_;m" src="auto" recommended="1">NNIS6-----A----</AM>
 <AM lemma="Olympus_;G_;m" src="auto">NNIS2-----A----</AM>
 <AM lemma="Olympus_;G_;m" src="auto">NNIS3-----A----</AM>
 <AM lemma="Olympus_;G_;m" src="auto">NNIS6-----A----</AM>

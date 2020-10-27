@@ -5019,7 +5019,7 @@
 <LM>w#w-ln94202-19-p10s5w5</LM>
 </w.rf>
 <form>mnoho</form>
-<tag lemma="mnoho-2" src="auto" selected="1">Db-------------</tag>
+<tag lemma="mnoho-2" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-ln94202-19-p10s5w6">
 <src.rf>manual</src.rf>

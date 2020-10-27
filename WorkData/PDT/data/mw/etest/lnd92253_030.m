@@ -69,7 +69,7 @@
 <LM>w#w-lnd92253-030-p2s1w3</LM>
 </w.rf>
 <form>Vyšehrad</form>
-<tag lemma="Vyšehrad" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="Vyšehrad_;G" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92253-030-p3s1">
@@ -250,7 +250,7 @@
 <LM>w#w-lnd92253-030-p3s1w22</LM>
 </w.rf>
 <form>Vyšehradu</form>
-<tag lemma="Vyšehrad" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Vyšehrad_;G" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd92253-030-p3s1w23">
 <src.rf>manual</src.rf>
@@ -897,7 +897,7 @@
 <LM>w#w-lnd92253-030-p4s3w11</LM>
 </w.rf>
 <form>Vyšehrad</form>
-<tag lemma="Vyšehrad" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="Vyšehrad_;G" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-lnd92253-030-p4s3w12">
 <src.rf>manual</src.rf>
@@ -2743,7 +2743,7 @@
 <LM>w#w-lnd92253-030-p6s1w4</LM>
 </w.rf>
 <form>Vyšehrad</form>
-<tag lemma="Vyšehrad" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="Vyšehrad_;G" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-lnd92253-030-p6s1w5">
 <src.rf>manual</src.rf>
@@ -3622,7 +3622,7 @@
 <LM>w#w-lnd92253-030-p6s6w5</LM>
 </w.rf>
 <form>Vyšehrad</form>
-<tag lemma="Vyšehrad" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="Vyšehrad_;G" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-lnd92253-030-p6s6w6">
 <src.rf>manual</src.rf>

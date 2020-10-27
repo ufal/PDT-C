@@ -7220,7 +7220,7 @@
 <form>neštěstí</form>
 <tag>
 <AM lemma="neštěstí" src="orig">NNNS2-----A----</AM>
-<AM lemma="štěstí" src="manual" selected="1">NNNS2-----N----</AM>
+<AM lemma="neštěstí" src="manual" selected="1">NNNS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-144-p9s5w8">

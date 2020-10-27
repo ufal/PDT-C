@@ -27,7 +27,7 @@
 <LM>w#w-mf930701-055-p1s1w2</LM>
 </w.rf>
 <form>RADIA</form>
-<tag lemma="rádium" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="radium_,s_^(^DD**rádium)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-mf930701-055-p1s1w3">
 <src.rf>manual</src.rf>

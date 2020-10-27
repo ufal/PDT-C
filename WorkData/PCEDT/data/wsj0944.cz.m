@@ -7550,7 +7550,7 @@
 <form>nezbytnou</form>
 <tag>
 <AM lemma="nezbytný" src="auto">AAFS4----1A----</AM>
-<AM lemma="nezbytný" src="auto" recommended="1">AAFS7----1A----</AM>
+<AM lemma="zbytný" src="auto" recommended="1">AAFS7----1N----</AM>
 </tag>
 </m>
 <m id="m-wsj0944-001-p1s24W15-Ta">
@@ -18852,7 +18852,7 @@
 </w.rf>
 <form>Hallovi</form>
 <tag>
-<AM lemma="Hall_;Y" src="auto" recommended="1">NNMS3-----A----</AM>
+<AM lemma="Hall-1_;Y" src="auto" recommended="1">NNMS3-----A----</AM>
 <AM lemma="Hall_;Y" src="auto">NNMS6-----A----</AM>
 <AM lemma="Halla_;Y" src="auto">NNMS3-----A----</AM>
 <AM lemma="Halla_;Y" src="auto">NNMS6-----A----</AM>

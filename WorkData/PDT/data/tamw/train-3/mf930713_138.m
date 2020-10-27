@@ -3106,7 +3106,7 @@
 <LM>w#w-mf930713-138-p7s3w6</LM>
 </w.rf>
 <form>stály</form>
-<tag lemma="stát-4_^(něco_stojí_peníze)" src="orig" selected="1">VpTP----R-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf930713-138-p7s3w7">
 <src.rf>manual</src.rf>
@@ -3978,7 +3978,7 @@
 <tag>
 <AM lemma="kasárna" src="orig">NNNP4-----A----</AM>
 <AM lemma="kasárna" src="auto">NNNP1-----A---1</AM>
-<AM lemma="kasárna" src="auto" recommended="1" selected="1">NNNP4-----A---1</AM>
+<AM lemma="kasárna" src="auto" recommended="1" selected="1">NNNP4-----A----</AM>
 <AM lemma="kasárna" src="auto">NNNP5-----A---1</AM>
 </tag>
 </m>

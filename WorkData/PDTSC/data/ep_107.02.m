@@ -2248,7 +2248,7 @@
 <tag>
 <AM lemma="rhodium_:B_;U" src="auto" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="RH-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="Rh_^(Rh_faktor_krve)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Rh_;U_^(Rh_faktor_krve)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m107-d1t552-1">

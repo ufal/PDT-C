@@ -1086,7 +1086,7 @@
 <form>Krejčí</form>
 <tag>
 <AM lemma="krejčí" src="orig">NNMS1-----A----</AM>
-<AM lemma="Krejčí_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Krejčí-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-127-p1s4Bw46">
@@ -1332,7 +1332,7 @@
 <LM>w#w-lnd94104-127-p1s5w8</LM>
 </w.rf>
 <form>Rusa</form>
-<tag lemma="Rus_;E" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Rus-1_;E" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-lnd94104-127-p1s5w9">
 <src.rf>manual</src.rf>
@@ -2474,7 +2474,7 @@
 <LM>w#w-lnd94104-127-p1s9w24</LM>
 </w.rf>
 <form>Vyšehradu</form>
-<tag lemma="Vyšehrad" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Vyšehrad_;G" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd94104-127-p1s9w25">
 <src.rf>manual</src.rf>

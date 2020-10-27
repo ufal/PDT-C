@@ -241,7 +241,7 @@
 <LM>w#w-ln95046-031-p2s2w2</LM>
 </w.rf>
 <form>Pavlu</form>
-<tag lemma="Pavel-1_;Y" src="orig" selected="1">NNMS6-----A---1</tag>
+<tag lemma="Pavel_;Y" src="orig" selected="1">NNMS6-----A---1</tag>
 </m>
 <m id="m-ln95046-031-p2s2w3">
 <src.rf>manual</src.rf>

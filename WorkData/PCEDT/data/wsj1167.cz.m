@@ -966,7 +966,7 @@
 <tag>
 <AM lemma="pepsicola" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="PepsiCola-77" src="manual">F%-------------</AM>
-<AM lemma="Pepsicola_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="PepsiCola_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1167-001-p1s4W7-Ta">

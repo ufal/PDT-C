@@ -3189,7 +3189,7 @@
 <form>Kačenka</form>
 <tag>
 <AM lemma="kačenka" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Kačenka_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Kačenka-1_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m130-d1e1267-x2-659">

@@ -626,7 +626,7 @@
 <LM>w#w-ln94211-21-p2s5w4</LM>
 </w.rf>
 <form>neúčasti</form>
-<tag lemma="neúčast" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="účast" src="orig" selected="1">NNFS6-----N----</tag>
 </m>
 <m id="m-ln94211-21-p2s5w5">
 <src.rf>manual</src.rf>

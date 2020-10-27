@@ -1719,7 +1719,7 @@
 <AM lemma="četka_^(ČTK)" src="auto">NNFP4-----A----</AM>
 <AM lemma="četka_^(ČTK)" src="auto">NNFP5-----A----</AM>
 <AM lemma="četka_^(ČTK)" src="auto">NNFS2-----A----</AM>
-<AM lemma="Četka_^(ČTK)" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="Četka_;m_,l" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m119-d-id114775-punct">

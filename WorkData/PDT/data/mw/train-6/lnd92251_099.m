@@ -305,7 +305,7 @@
 <form>nekomunikativnosti</form>
 <tag>
 <AM lemma="nekomunikativnost" src="orig">NNFS2-----A----</AM>
-<AM lemma="komunikativnost" src="manual" selected="1">NNFS2-----N----</AM>
+<AM lemma="nekomunikativnost" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-099-p3s1w27">
@@ -1521,7 +1521,7 @@
 <AM lemma="pas-3_^(přihrávka,_př._v_kopané)" src="auto">NNIP1-----A----</AM>
 <AM lemma="pas-3_^(přihrávka,_př._v_kopané)" src="auto">NNIP4-----A----</AM>
 <AM lemma="pas-3_^(přihrávka,_př._v_kopané)" src="auto">NNIP5-----A----</AM>
-<AM lemma="pas-3_^(přihrávka,_př._v_kopané)" src="auto" selected="1">NNIP7-----A----</AM>
+<AM lemma="pas-1_^(přihrávka,_př._v_kopané,na_lidském_těle;;cestovní)" src="auto" selected="1">NNIP7-----A----</AM>
 <AM lemma="paso_,t_^(passo_doble)" src="auto">NNNP7-----A----</AM>
 <AM lemma="pasus" src="auto">NNIP1-----A----</AM>
 <AM lemma="pasus" src="auto">NNIP4-----A----</AM>

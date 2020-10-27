@@ -3121,7 +3121,7 @@
 <form>Glenn</form>
 <tag>
 <AM lemma="Glenn_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Glenn-2_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Glenn-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0972-001-p1s11W12-Ta">
@@ -4798,7 +4798,7 @@
 <AM lemma="maličký" src="auto">AAIS6----1A----</AM>
 <AM lemma="maličký" src="auto">AAMS6----1A----</AM>
 <AM lemma="maličký" src="auto" recommended="1">AANS6----1A----</AM>
-<AM lemma="maličký-2" src="manual" selected="1">NNMS6-----A----</AM>
+<AM lemma="maličký" src="manual" selected="1">AAMS6----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0972-001-p1s16W11-Ta">

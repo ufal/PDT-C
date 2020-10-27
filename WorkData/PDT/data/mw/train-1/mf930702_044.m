@@ -87,7 +87,7 @@
 <form>Huga</form>
 <tag>
 <AM lemma="Hugo-2_;G" src="auto">NNNS2-----A----</AM>
-<AM lemma="Hugo-1_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Hugo_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-044-p2s1w9">

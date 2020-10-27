@@ -27,7 +27,7 @@
 <LM>w#w-mf920901-121-p1s1w2</LM>
 </w.rf>
 <form>zastavte</form>
-<tag lemma="zastavit-1_^([také_z._se];_uvést_do_klidu:_auto,...)" src="orig" selected="1">Vi-P---2--A-P--</tag>
+<tag lemma="zastavit_^(uvést_do_klidu;;zástavní_právo)" src="orig" selected="1">Vi-P---2--A-P--</tag>
 </m>
 <m id="m-mf920901-121-p1s1w3">
 <src.rf>manual</src.rf>
@@ -4760,7 +4760,7 @@
 <LM>w#w-mf920901-121-p10s1w36</LM>
 </w.rf>
 <form>zastavte</form>
-<tag lemma="zastavit-1_^([také_z._se];_uvést_do_klidu:_auto,...)" src="orig" selected="1">Vi-P---2--A-P--</tag>
+<tag lemma="zastavit_^(uvést_do_klidu;;zástavní_právo)" src="orig" selected="1">Vi-P---2--A-P--</tag>
 </m>
 <m id="m-mf920901-121-p10s1w37">
 <src.rf>manual</src.rf>

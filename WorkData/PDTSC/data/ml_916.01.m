@@ -2014,7 +2014,7 @@
 <AM lemma="čistý" src="auto">AAFS1----3A----</AM>
 <AM lemma="čistý" src="auto">AAFS2----3A----</AM>
 <AM lemma="čistý" src="auto">AAFS3----3A----</AM>
-<AM lemma="čistý" src="auto" recommended="1">AAFS4----3A----</AM>
+<AM lemma="čistý" src="auto" recommended="1">AAFS4----3A---1</AM>
 <AM lemma="čistý" src="auto">AAFS5----3A----</AM>
 <AM lemma="čistý" src="auto">AAFS6----3A----</AM>
 <AM lemma="čistý" src="auto">AAFS7----3A----</AM>
@@ -6182,7 +6182,7 @@
 <AM lemma="umět_:T_^(mít_schopnost_něco_dělat)" src="auto">VB-P---3P-AA--1</AM>
 <AM lemma="umět_:T_^(mít_schopnost_něco_dělat)" src="auto" recommended="1">VB-S---3P-AA---</AM>
 <AM lemma="umět" src="manual">VB-S---3P-AAI--</AM>
-<AM lemma="umět" src="manual" selected="1">VB-P---3P-AAI--</AM>
+<AM lemma="umět" src="manual" selected="1">VB-P---3P-AAI-1</AM>
 </tag>
 </m>
 <m id="m916-d1e554-x9-1584">

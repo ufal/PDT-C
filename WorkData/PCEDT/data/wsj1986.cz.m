@@ -12236,7 +12236,7 @@
 <tag>
 <AM lemma="nemorálnost" src="auto">NNFP2-----A----</AM>
 <AM lemma="nemorálnost" src="auto" recommended="1">NNFS7-----A----</AM>
-<AM lemma="morálnost" src="manual" selected="1">NNFS7-----N----</AM>
+<AM lemma="nemorálnost" src="manual" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1986-001-p1s44W10-Ta">

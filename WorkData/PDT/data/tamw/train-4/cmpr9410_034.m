@@ -2244,7 +2244,7 @@
 <form>nevinu</form>
 <tag>
 <AM lemma="nevina" src="orig">NNFS4-----A----</AM>
-<AM lemma="vina" src="manual" selected="1">NNFS4-----N----</AM>
+<AM lemma="nevina" src="manual" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-034-p5s3w24">

@@ -2740,7 +2740,7 @@
 <form>P</form>
 <tag>
 <AM lemma="P-0_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="post-2_^(lat.,_po,_např._P.S.)" src="manual" selected="1">RR--X---------b</AM>
+<AM lemma="P-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920923-003-p6s1w2">
@@ -2759,7 +2759,7 @@
 <form>S</form>
 <tag>
 <AM lemma="S-9_:B_;Y" src="orig">NNMXX-----A---8</AM>
-<AM lemma="scriptum_^(př._P.S.)" src="manual" selected="1">NNNXX-----A---b</AM>
+<AM lemma="S-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-mf920923-003-p6s1w4">

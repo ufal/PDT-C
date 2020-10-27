@@ -988,7 +988,7 @@
 <AM lemma="nabízející_^(*4t)" src="auto">AGNS1-----A----</AM>
 <AM lemma="nabízející_^(*4t)" src="auto">AGNS4-----A----</AM>
 <AM lemma="nabízející_^(*4t)" src="auto">AGNS5-----A----</AM>
-<AM lemma="nabízející-2" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="nabízející_^(*4t)" src="manual" selected="1">AGMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0275-001-p1s2W38-Ta">
@@ -1434,7 +1434,7 @@
 <AM lemma="nabízející_^(*4t)" src="auto" recommended="1">AGMS2-----A----</AM>
 <AM lemma="nabízející_^(*4t)" src="auto">AGMS4-----A----</AM>
 <AM lemma="nabízející_^(*4t)" src="auto">AGNS2-----A----</AM>
-<AM lemma="nabízející" src="manual" selected="1">NNMS4-----A----</AM>
+<AM lemma="nabízející_^(*4t)" src="manual" selected="1">AGMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0275-001-p1s3W22-Ta">
@@ -1600,7 +1600,7 @@
 <AM lemma="nabízející_^(*4t)" src="auto">AGNS1-----A----</AM>
 <AM lemma="nabízející_^(*4t)" src="auto" recommended="1">AGNS4-----A----</AM>
 <AM lemma="nabízející_^(*4t)" src="auto">AGNS5-----A----</AM>
-<AM lemma="nabízející-2" src="manual" selected="1">NNMP4-----A----</AM>
+<AM lemma="nabízející_^(*4t)" src="manual" selected="1">AGMP4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0275-001-p1s4W11-Ta">

@@ -161,7 +161,7 @@
 <LM>w#w-ln95042-029-p2s1Cw4</LM>
 </w.rf>
 <form>Olympu</form>
-<tag lemma="Olymp_;G" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Olymp_;G_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95042-029-p2s1Cw5">
 <src.rf>manual</src.rf>
@@ -1782,7 +1782,7 @@
 <LM>w#w-ln95042-029-p4s4w16</LM>
 </w.rf>
 <form>Olympu</form>
-<tag lemma="Olymp_;G" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Olymp_;G_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95042-029-p4s4w17">
 <src.rf>manual</src.rf>

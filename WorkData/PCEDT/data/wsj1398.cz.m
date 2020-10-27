@@ -1021,7 +1021,7 @@
 <form>Whitley</form>
 <tag>
 <AM lemma="Whitley_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Whitley-2_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Whitley-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1398-001-p1s7W4-Ta">

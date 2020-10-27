@@ -226,7 +226,7 @@
 <LM>w#w-ln94211-39-p2s1Bw16</LM>
 </w.rf>
 <form>Háje</form>
-<tag lemma="háj_^(př._zelený_háj)" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="háj" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-ln94211-39-p2s1Bw17">
 <src.rf>manual</src.rf>

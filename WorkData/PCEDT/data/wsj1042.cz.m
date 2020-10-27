@@ -422,7 +422,7 @@
 <tag>
 <AM lemma="Monika_;Y" src="auto">NNFS3-----A----</AM>
 <AM lemma="Monika_;Y" src="auto" recommended="1">NNFS6-----A----</AM>
-<AM lemma="Monica-2_;G" src="manual" selected="1">NNFS6-----A----</AM>
+<AM lemma="Monica_;Y_,s_^(^DD**Monika)" src="manual" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1042-001-p1s1W8-Ta">

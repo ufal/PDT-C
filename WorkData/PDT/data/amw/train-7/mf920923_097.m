@@ -2755,7 +2755,7 @@
 <LM>w#w-mf920923-097-p5s2w10</LM>
 </w.rf>
 <form>Zory</form>
-<tag lemma="Zora_;Y" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Zora_;Y_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920923-097-p5s2w11">
 <src.rf>manual</src.rf>
@@ -5482,7 +5482,7 @@
 <LM>w#w-mf920923-097-p7s7w6</LM>
 </w.rf>
 <form>pongu</form>
-<tag lemma="pong_^(jen_ve_spojení_ping-pong)" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="pong" src="orig" selected="1">SNIS6-----A----</tag>
 </m>
 <m id="m-mf920923-097-p7s7w7">
 <src.rf>manual</src.rf>

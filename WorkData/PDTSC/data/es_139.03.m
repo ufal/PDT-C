@@ -765,7 +765,7 @@
 <form>Trabanta</form>
 <tag>
 <AM lemma="Trabant_;m_^(vozidlo)" src="auto">NNIS2-----A---1</AM>
-<AM lemma="Trabant_;m_^(vozidlo)" src="auto" selected="1">NNMS4-----A----</AM>
+<AM lemma="Trabant_;m_^(vozidlo)" src="auto" selected="1">NNIS4-----A---1</AM>
 <AM lemma="trabant_;m" src="auto">NNIS2-----A---1</AM>
 <AM lemma="trabant_;m" src="auto" recommended="1">NNMS4-----A----</AM>
 </tag>

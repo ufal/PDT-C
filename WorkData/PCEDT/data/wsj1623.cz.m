@@ -20362,7 +20362,7 @@
 </w.rf>
 <form>Nechte</form>
 <tag>
-<AM lemma="nechat" src="auto" recommended="1">Vi-P---2--A-I--</AM>
+<AM lemma="nechat" src="auto" recommended="1">Vi-P---2--A-P-1</AM>
 <AM lemma="nechat" src="auto">Vi-P---3--A-I-4</AM>
 </tag>
 </m>

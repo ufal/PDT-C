@@ -1003,7 +1003,7 @@
 <LM>w#w-lnd92252-027-p3s6w13</LM>
 </w.rf>
 <form>Marianem</form>
-<tag lemma="Marián_;Y" src="orig" selected="1">NNMS7-----A----</tag>
+<tag lemma="Marian_;Y_,s_^(^DD**Marián)" src="orig" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-lnd92252-027-p3s6w14">
 <src.rf>manual</src.rf>

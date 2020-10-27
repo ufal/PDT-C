@@ -3647,7 +3647,7 @@
 <LM>w#w-ln94208-85-p6s1w3</LM>
 </w.rf>
 <form>neexistenci</form>
-<tag lemma="neexistence" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="existence" src="orig" selected="1">NNFS3-----N----</tag>
 </m>
 <m id="m-ln94208-85-p6s1w4">
 <src.rf>manual</src.rf>

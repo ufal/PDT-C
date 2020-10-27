@@ -6930,7 +6930,7 @@
 <AM lemma="poražený_^(*4zit)" src="auto">AAMP6----1A----</AM>
 <AM lemma="poražený_^(*4zit)" src="auto">AANP2----1A----</AM>
 <AM lemma="poražený_^(*4zit)" src="auto">AANP6----1A----</AM>
-<AM lemma="poražený-2" src="manual" selected="1">NNMP2-----A----</AM>
+<AM lemma="poražený_^(*4zit)" src="manual" selected="1">AAMP2----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0037-001-p1s23W51-Ta">

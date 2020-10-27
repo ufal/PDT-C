@@ -77,7 +77,7 @@
 <form>Kim</form>
 <tag>
 <AM lemma="Kim-1_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kim-2_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Kim-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-102-p1s1w9">

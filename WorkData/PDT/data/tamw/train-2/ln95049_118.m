@@ -433,7 +433,7 @@
 </w.rf>
 <form>Margot</form>
 <tag>
-<AM lemma="Margot-2_;Y" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="Margot-2_;Y" src="orig" selected="1">NNFXX-----A----</AM>
 <AM lemma="Margot_;m" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Margot_;m" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -641,7 +641,7 @@
 </w.rf>
 <form>Margot</form>
 <tag>
-<AM lemma="Margot-2_;Y" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="Margot-2_;Y" src="orig" selected="1">NNFXX-----A----</AM>
 <AM lemma="Margot_;m" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Margot_;m" src="auto">NNIS4-----A----</AM>
 </tag>

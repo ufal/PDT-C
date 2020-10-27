@@ -1493,7 +1493,7 @@
 <LM>w#w-lnd92258-081-p4s6w8</LM>
 </w.rf>
 <form>nepohodlí</form>
-<tag lemma="nepohodlí" src="orig" selected="1">NNNS3-----A----</tag>
+<tag lemma="pohodlí" src="orig" selected="1">NNNS3-----N----</tag>
 </m>
 <m id="m-lnd92258-081-p4s6w9">
 <src.rf>manual</src.rf>
@@ -3562,7 +3562,7 @@
 <LM>w#w-lnd92258-081-p8s1w7</LM>
 </w.rf>
 <form>nepohodlí</form>
-<tag lemma="nepohodlí" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="pohodlí" src="orig" selected="1">NNNS2-----N----</tag>
 </m>
 <m id="m-lnd92258-081-p8s1w8">
 <src.rf>manual</src.rf>

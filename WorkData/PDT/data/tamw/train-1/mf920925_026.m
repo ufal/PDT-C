@@ -567,7 +567,7 @@
 <LM>w#w-mf920925-026-p2s4w15</LM>
 </w.rf>
 <form>tmavší</form>
-<tag lemma="tmavý" src="orig" selected="1">AAFS2----2A----</tag>
+<tag lemma="tmavý" src="orig" selected="1">AAFS2----2A---1</tag>
 </m>
 <m id="m-mf920925-026-p2s4w16">
 <src.rf>manual</src.rf>
@@ -673,7 +673,7 @@
 <LM>w#w-mf920925-026-p2s5w6</LM>
 </w.rf>
 <form>Lada</form>
-<tag lemma="Lada-1_;m_^(vozidlo)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Lada_;Y_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920925-026-p2s5w7">
 <src.rf>manual</src.rf>

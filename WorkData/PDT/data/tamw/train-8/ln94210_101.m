@@ -2464,7 +2464,7 @@
 <form>UFO</form>
 <tag>
 <AM lemma="UFO-1_:B_,t_^(unidentified_flying_object)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="UFO-1_^(unidentified_flying_object)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="UFO_^(unidentified_flying_object)" src="manual" selected="1">BNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-101-p8s1w12">

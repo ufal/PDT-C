@@ -4130,7 +4130,7 @@
 <AM lemma="Ferranti_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Ferranti_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Ferranti-2_;m" src="manual">NNIS4-----A----</AM>
-<AM lemma="Ferranti-2_;m" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Ferranti-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2362-001-p1s11W17-Ta">
@@ -5486,7 +5486,7 @@
 <tag>
 <AM lemma="Ferranti_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Ferranti_;Y" src="auto">NNMS5-----A----</AM>
-<AM lemma="Ferranti-2_;m" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Ferranti-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2362-001-p1s14W38-Ta">
@@ -6244,7 +6244,7 @@
 <tag>
 <AM lemma="Ferranti_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Ferranti_;Y" src="auto" recommended="1">NNMS5-----A----</AM>
-<AM lemma="Ferranti-2_;m" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Ferranti-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2362-001-p1s16W13-Ta">
@@ -6539,7 +6539,7 @@
 <tag>
 <AM lemma="Ferranti_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Ferranti_;Y" src="auto">NNMS5-----A----</AM>
-<AM lemma="Ferranti-2_;m" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Ferranti-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2362-001-p1s17W19-Ta">
@@ -6879,7 +6879,7 @@
 <tag>
 <AM lemma="Ferranti_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Ferranti_;Y" src="auto">NNMS5-----A----</AM>
-<AM lemma="Ferranti-2_;m" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Ferranti-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2362-001-p1s18W15-Ta">
@@ -7308,7 +7308,7 @@
 <form>nezbytnou</form>
 <tag>
 <AM lemma="nezbytný" src="auto">AAFS4----1A----</AM>
-<AM lemma="nezbytný" src="auto" recommended="1">AAFS7----1A----</AM>
+<AM lemma="zbytný" src="auto" recommended="1">AAFS7----1N----</AM>
 </tag>
 </m>
 <m id="m-wsj2362-001-p1s20W15-Ta">

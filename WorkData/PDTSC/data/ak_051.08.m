@@ -1843,7 +1843,7 @@
 <AM lemma="kameňák-1_,h" src="auto">NNIS3-----A----</AM>
 <AM lemma="kameňák-1_,h" src="auto">NNIS5-----A----</AM>
 <AM lemma="kameňák-1_,h" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="Kameňák-3_;G" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="Kameňák-1_;G" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m051-d1t2957-6">

@@ -3155,7 +3155,7 @@
 <form>Yahoo</form>
 <tag>
 <AM lemma="Yahoo_;m_,t_^(software)" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Yahoo_;m_^(software)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Yahoo_;m_^(software)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_04-SCzechM-p0356-s1-w7">
@@ -6011,7 +6011,7 @@
 <AM lemma="CD-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="CD-1_^(Audio/Data,_Compact_Disc)" src="manual">BNNXX-----A----</AM>
 <AM lemma="CD-1_^(Audio/Data,_Compactisc)" src="manual">BNNXX-----A----</AM>
-<AM lemma="CD-1_^(Audio/Data,_Compactisc)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="CD-1_^(Audio/Data,_Compact_Disc)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_04-SCzechM-p0406-s1-w7">

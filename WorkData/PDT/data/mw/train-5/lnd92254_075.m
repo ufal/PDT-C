@@ -482,7 +482,7 @@
 </w.rf>
 <form>Alfa</form>
 <tag>
-<AM lemma="Alfa_;m_^(vozidlo)" src="auto" selected="1">NNFS1-----A----</AM>
+<AM lemma="Alfa_;m" src="auto" selected="1">NNFS1-----A----</AM>
 <AM lemma="Alfa_;m" src="manual">NNFS1-----A----</AM>
 </tag>
 </m>

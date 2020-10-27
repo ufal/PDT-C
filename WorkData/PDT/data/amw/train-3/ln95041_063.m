@@ -58,7 +58,7 @@
 <LM>w#w-ln95041-063-p1s1w5</LM>
 </w.rf>
 <form>Mochovce</form>
-<tag lemma="Mochovce_;G" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="Mochovce_;G" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 </s>
 <s id="m-ln95041-063-p2s1A">

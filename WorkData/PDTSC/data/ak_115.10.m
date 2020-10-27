@@ -4056,7 +4056,7 @@
 <AM lemma="Tosca_;Y_,t" src="auto">NNFS3-----A----</AM>
 <AM lemma="Tosca_;Y_,t" src="auto">NNFS6-----A----</AM>
 <AM lemma="Toska_;Y" src="auto">NNFS3-----A----</AM>
-<AM lemma="Toska_;Y" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="Toska-2_;Y" src="auto" recommended="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m115-1224-1243">

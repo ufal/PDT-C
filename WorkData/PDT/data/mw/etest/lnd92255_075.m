@@ -2111,7 +2111,7 @@
 <LM>w#w-lnd92255-075-p6s2w4</LM>
 </w.rf>
 <form>nejsnazším</form>
-<tag lemma="snadný" src="orig" selected="1">AANS7----3A----</tag>
+<tag lemma="snadný" src="orig" selected="1">AANS7----3A---1</tag>
 </m>
 <m id="m-lnd92255-075-p6s2w5">
 <src.rf>manual</src.rf>

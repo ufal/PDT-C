@@ -27,7 +27,7 @@
 <LM>w#w-ln94210-22-p1s1w2</LM>
 </w.rf>
 <form>Radegast</form>
-<tag lemma="Radegast-3_;m" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Radegast-2_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94210-22-p1s1w3">
 <src.rf>manual</src.rf>
@@ -135,7 +135,7 @@
 <LM>w#w-ln94210-22-p2s1Bw8</LM>
 </w.rf>
 <form>Radegast</form>
-<tag lemma="Radegast-3_;m" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Radegast-2_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94210-22-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -535,7 +535,7 @@
 <LM>w#w-ln94210-22-p3s1w13</LM>
 </w.rf>
 <form>Radegastu</form>
-<tag lemma="Radegast-3_;m" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Radegast-2_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94210-22-p3s1w14">
 <src.rf>manual</src.rf>

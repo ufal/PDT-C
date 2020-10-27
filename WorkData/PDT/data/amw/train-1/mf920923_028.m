@@ -152,7 +152,7 @@
 <form>remaku</form>
 <tag>
 <AM lemma="remak_,t" src="orig">NNIS2-----A----</AM>
-<AM lemma="remake" src="auto" recommended="1" selected="1">NNIS2-----A---1</AM>
+<AM lemma="remake" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
 <AM lemma="remake" src="auto">NNIS3-----A---1</AM>
 <AM lemma="remake" src="auto">NNIS6-----A---1</AM>
 </tag>

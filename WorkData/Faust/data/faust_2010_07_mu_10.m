@@ -6677,7 +6677,7 @@
 </w.rf>
 <form>Googlu</form>
 <tag>
-<AM lemma="Google_;m" recommended="1">NNIS3-----A---1</AM>
+<AM lemma="Google_;m" recommended="1">NNIS3-----A----</AM>
 <AM lemma="Google_;m">NNIS2-----A---1</AM>
 <AM lemma="Google_;m">NNIS6-----A---1</AM>
 </tag>
@@ -6696,7 +6696,7 @@
 <form>Yahoo</form>
 <tag>
 <AM lemma="Yahoo_;m_,t_^(software)" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Yahoo_;m_^(software)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Yahoo_;m_^(software)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_10-SCzechM-p1072-s1-w24">

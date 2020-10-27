@@ -1353,7 +1353,7 @@
 <LM>w#w-mf920923-055-p8s5w23</LM>
 </w.rf>
 <form>Machovy</form>
-<tag lemma="Machův_;Y_^(*2o)" src="auto" selected="1">AUFS2M---------</tag>
+<tag lemma="Machův_;Y_^(*2)_(*2o)" src="auto" selected="1">AUFS2M---------</tag>
 </m>
 <m id="m-mf920923-055-p8s5w24">
 <src.rf>manual</src.rf>

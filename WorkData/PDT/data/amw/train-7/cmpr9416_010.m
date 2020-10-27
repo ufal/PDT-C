@@ -610,7 +610,7 @@
 <LM>w#w-cmpr9416-010-p6s1w24</LM>
 </w.rf>
 <form>chmele</form>
-<tag lemma="chmel" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="chmel" src="orig" selected="1">NNIS2-----A---1</tag>
 </m>
 <m id="m-cmpr9416-010-p6s1w25">
 <src.rf>manual</src.rf>

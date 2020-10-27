@@ -1831,7 +1831,7 @@
 <LM>w#w-ln95045-065-p3s3w2</LM>
 </w.rf>
 <form>Členy</form>
-<tag lemma="člen" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-ln95045-065-p3s3w3">
 <src.rf>manual</src.rf>

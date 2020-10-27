@@ -118,7 +118,7 @@
 <form>Herkules</form>
 <tag>
 <AM lemma="Herkules-1_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Herkules-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Herkules-1_;Y_,s_^(^DD**Hercules-1)" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-027-p1s1w14">

@@ -1168,7 +1168,7 @@
 <AM lemma="černý_;o" src="auto">AANS1----1A----</AM>
 <AM lemma="černý_;o" src="auto">AANS4----1A----</AM>
 <AM lemma="černý_;o" src="auto">AANS5----1A----</AM>
-<AM lemma="černý-2" src="manual" selected="1">NNMP4-----A----</AM>
+<AM lemma="černý_;o" src="manual" selected="1">AAMP4----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj2356-001-p1s3W32-Ta">
@@ -3449,7 +3449,7 @@
 <tag>
 <AM lemma="zletilý" src="auto" recommended="1">AAMP1----1N----</AM>
 <AM lemma="zletilý" src="auto">AAMP5----1N----</AM>
-<AM lemma="nezletilý" src="manual" selected="1">NNMP1-----A----</AM>
+<AM lemma="zletilý" src="manual" selected="1">AAMP1----1N----</AM>
 </tag>
 </m>
 <m id="m-wsj2356-001-p1s12W7-Ta">

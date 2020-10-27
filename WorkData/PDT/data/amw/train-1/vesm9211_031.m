@@ -17083,7 +17083,7 @@
 <form>Mars</form>
 <tag>
 <AM lemma="mars" src="orig">NNIS1-----A----</AM>
-<AM lemma="Mars-2_;m_^(planeta;;kosmická_sonda)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Mars-2_;G_;m_^(planeta;;kosmická_sonda)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-031-p46s1w9">
@@ -22611,7 +22611,7 @@
 <form>Marsu</form>
 <tag>
 <AM lemma="mars" src="orig">NNIS2-----A----</AM>
-<AM lemma="Mars-2_;m_^(planeta;;kosmická_sonda)" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Mars-2_;G_;m_^(planeta;;kosmická_sonda)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-031-p58s3w11">
@@ -23902,7 +23902,7 @@
 <form>Marsu</form>
 <tag>
 <AM lemma="mars" src="orig">NNIS2-----A----</AM>
-<AM lemma="Mars-2_;m_^(planeta;;kosmická_sonda)" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Mars-2_;G_;m_^(planeta;;kosmická_sonda)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-031-p61s1w5">

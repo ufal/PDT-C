@@ -3639,7 +3639,7 @@
 </w.rf>
 <form>Sun</form>
 <tag>
-<AM lemma="Sun_;m" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Sun-2_;m" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Sun_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="Sun_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="sun" src="auto">NNIS1-----A----</AM>
@@ -4181,7 +4181,7 @@
 </w.rf>
 <form>nezbytní</form>
 <tag>
-<AM lemma="nezbytný" src="auto" recommended="1">AAMP1----1A----</AM>
+<AM lemma="zbytný" src="auto" recommended="1">AAMP1----1N----</AM>
 <AM lemma="nezbytný" src="auto">AAMP5----1A----</AM>
 <AM lemma="zbytnět" src="auto">VB-P---3P-NAP--</AM>
 <AM lemma="zbytnět" src="auto">VB-S---3P-NAP--</AM>

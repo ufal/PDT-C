@@ -5108,7 +5108,7 @@
 <LM>w#w-vesm9211-012-p13s3w23</LM>
 </w.rf>
 <form>desetitisíce</form>
-<tag lemma="desetitisíc" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="desetitisíc`10000" src="orig" selected="1">CzIP4----------</tag>
 </m>
 <m id="m-vesm9211-012-p13s3w24">
 <src.rf>manual</src.rf>

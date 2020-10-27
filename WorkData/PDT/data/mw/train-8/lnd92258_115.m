@@ -1231,7 +1231,7 @@
 <LM>w#w-lnd92258-115-p6s3w2</LM>
 </w.rf>
 <form>Hradčany</form>
-<tag lemma="Hradčany_;G" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="Hradčany_;G" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-lnd92258-115-p6s3w3">
 <src.rf>manual</src.rf>
@@ -2957,7 +2957,7 @@
 <form>CD</form>
 <tag>
 <AM lemma="CD-1_:B_,t_^(Audio/Data,_Compact_Disc)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="CD-1_^(Audio/Data,_Compactisc)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="CD-1_^(Audio/Data,_Compact_Disc)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-115-p10s4w14">
@@ -3156,7 +3156,7 @@
 <form>CD</form>
 <tag>
 <AM lemma="CD-1_:B_,t_^(Audio/Data,_Compact_Disc)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="CD-1_^(Audio/Data,_Compactisc)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="CD-1_^(Audio/Data,_Compact_Disc)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-115-p10s6w13">
@@ -3987,7 +3987,7 @@
 <form>CD</form>
 <tag>
 <AM lemma="CD-1_:B_,t_^(Audio/Data,_Compact_Disc)" src="auto">NNNXX-----A---8</AM>
-<AM lemma="CD-1_^(Audio/Data,_Compactisc)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="CD-1_^(Audio/Data,_Compact_Disc)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-115-p12s4w16">

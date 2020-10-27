@@ -1012,7 +1012,7 @@
 <LM>w#w-mf920925-021-p3s2w2</LM>
 </w.rf>
 <form>čistším</form>
-<tag lemma="čistý" src="orig" selected="1">AAIS6----2A----</tag>
+<tag lemma="čistý" src="orig" selected="1">AAIS6----2A---1</tag>
 </m>
 <m id="m-mf920925-021-p3s2w3">
 <src.rf>manual</src.rf>

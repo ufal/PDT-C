@@ -246,7 +246,7 @@
 <LM>w#w-ln94207-41-p2s1w14</LM>
 </w.rf>
 <form>nebydlí</form>
-<tag lemma="bydlet" src="orig" selected="1">VB-P---3P-NAI--</tag>
+<tag lemma="bydlet" src="orig" selected="1">VB-P---3P-NAI-1</tag>
 </m>
 <m id="m-ln94207-41-p2s1w15">
 <src.rf>manual</src.rf>
@@ -546,7 +546,7 @@
 <form>stamiliony</form>
 <tag>
 <AM lemma="stamilión" src="orig">NNIP4-----A----</AM>
-<AM lemma="stamilion_,s_^(^DD**stamilión)" src="manual" selected="1">NNIP4-----A----</AM>
+<AM lemma="stamilion`100000000_,s_^(^DD**stamilión)" src="manual" selected="1">CzIP4----------</AM>
 </tag>
 </m>
 <m id="m-ln94207-41-p2s3w18">

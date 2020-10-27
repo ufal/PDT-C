@@ -162,7 +162,7 @@
 <form>Heřmánky</form>
 <tag>
 <AM lemma="heřmánek" src="auto">NNIP1-----A----</AM>
-<AM lemma="Heřmánky_;G" src="manual" selected="1">NNIP1-----A----</AM>
+<AM lemma="Heřmánky-2_;G" src="manual" selected="1">NNIP1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-010-p1s2w14">

@@ -525,7 +525,7 @@
 <LM>w#w-lnd92256-030-p1s2w37</LM>
 </w.rf>
 <form>Mostecku</form>
-<tag lemma="mostecko_;G" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="Mostecko_;G" src="orig" selected="1">NNNS6-----A----</tag>
 </m>
 <m id="m-lnd92256-030-p1s2w38">
 <src.rf>manual</src.rf>

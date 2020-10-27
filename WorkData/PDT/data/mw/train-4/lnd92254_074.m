@@ -818,7 +818,7 @@
 <LM>w#w-lnd92254-074-p2s4w14</LM>
 </w.rf>
 <form>čistší</form>
-<tag lemma="čistý" src="orig" selected="1">AAFS1----2A----</tag>
+<tag lemma="čistý" src="orig" selected="1">AAFS1----2A---1</tag>
 </m>
 <m id="m-lnd92254-074-p2s4w15">
 <src.rf>manual</src.rf>

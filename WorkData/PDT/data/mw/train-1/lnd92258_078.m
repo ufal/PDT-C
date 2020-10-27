@@ -3473,7 +3473,7 @@
 <AM lemma="z-1" src="auto">RR--2----------</AM>
 <AM lemma="z-33" src="auto" recommended="1">Q3-------------</AM>
 <AM lemma="z-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
-<AM lemma="zákoník-2" src="manual" selected="1">NNIXX-----A---b</AM>
+<AM lemma="z-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-078-p48s1w9">
@@ -3529,7 +3529,7 @@
 <AM lemma="z-1" src="auto">RR--2----------</AM>
 <AM lemma="z-33" src="auto" recommended="1">Q3-------------</AM>
 <AM lemma="z-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
-<AM lemma="zákoník-2" src="manual" selected="1">NNIXX-----A---b</AM>
+<AM lemma="z-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-078-p49s1w6">
@@ -3603,7 +3603,7 @@
 <AM lemma="z-1" src="auto">RR--2----------</AM>
 <AM lemma="z-33" src="auto" recommended="1">Q3-------------</AM>
 <AM lemma="z-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
-<AM lemma="zákoník-2" src="manual" selected="1">NNIXX-----A---b</AM>
+<AM lemma="z-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-078-p51s1w6">
@@ -3659,7 +3659,7 @@
 <AM lemma="z-1" src="auto">RR--2----------</AM>
 <AM lemma="z-33" src="auto" recommended="1">Q3-------------</AM>
 <AM lemma="z-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
-<AM lemma="zákoník-2" src="manual" selected="1">NNIXX-----A---b</AM>
+<AM lemma="z-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-078-p52s1w6">
@@ -4314,7 +4314,7 @@
 <LM>w#w-lnd92258-078-p68s1w1</LM>
 </w.rf>
 <form>V</form>
-<tag lemma="veřejný_^(v.o.s.)" src="orig" selected="1">AAXXX----1A---b</tag>
+<tag lemma="V-33" src="orig" selected="1">Q3-------------</tag>
 </m>
 <m id="m-lnd92258-078-p68s1w2">
 <src.rf>manual</src.rf>
@@ -4330,7 +4330,7 @@
 <LM>w#w-lnd92258-078-p68s1w3</LM>
 </w.rf>
 <form>O</form>
-<tag lemma="obchodní_^(jen_obch._společnost)" src="orig" selected="1">AAFXX----1A---b</tag>
+<tag lemma="obchodní" src="orig" selected="1">AAFXX----1A---a</tag>
 </m>
 <m id="m-lnd92258-078-p68s1w4">
 <src.rf>manual</src.rf>

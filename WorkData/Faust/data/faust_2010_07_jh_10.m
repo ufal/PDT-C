@@ -3188,7 +3188,7 @@
 <AM lemma="neúspěch">NNIS2-----A----</AM>
 <AM lemma="neúspěch">NNIS5-----A----</AM>
 <AM lemma="neúspěch">NNIS6-----A----</AM>
-<AM lemma="úspěch" src="manual" selected="1">NNIS3-----N----</AM>
+<AM lemma="neúspěch" src="manual" selected="1">NNIS3-----A----</AM>
 </tag>
 </m>
 <m id="jh_10-SCzechM-p1017-s1-w31">
@@ -6805,7 +6805,7 @@
 </w.rf>
 <form>Googlu</form>
 <tag>
-<AM lemma="Google_;m" recommended="1">NNIS3-----A---1</AM>
+<AM lemma="Google_;m" recommended="1">NNIS3-----A----</AM>
 <AM lemma="Google_;m">NNIS2-----A---1</AM>
 <AM lemma="Google_;m">NNIS6-----A---1</AM>
 </tag>
@@ -6824,7 +6824,7 @@
 <form>Yahoo</form>
 <tag>
 <AM lemma="Yahoo_;m_,t_^(software)" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Yahoo_;m_^(software)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Yahoo_;m_^(software)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="jh_10-SCzechM-p1072-s1-w21">

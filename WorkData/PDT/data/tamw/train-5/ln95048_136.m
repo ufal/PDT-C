@@ -772,7 +772,7 @@
 <LM>w#w-ln95048-136-p2s5w9</LM>
 </w.rf>
 <form>Media</form>
-<tag lemma="medium" src="orig" selected="1">NNNP1-----A----</tag>
+<tag lemma="medium_,s_^(^DD**médium)" src="orig" selected="1">NNNP1-----A----</tag>
 </m>
 <m id="m-ln95048-136-p2s5w10">
 <src.rf>manual</src.rf>

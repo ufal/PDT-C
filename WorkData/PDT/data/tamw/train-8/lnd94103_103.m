@@ -2062,7 +2062,7 @@
 <LM>w#w-lnd94103-103-p1s11w26</LM>
 </w.rf>
 <form>Zoře</form>
-<tag lemma="Zora_;Y" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Zora_;Y_;m" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd94103-103-p1s11w27">
 <src.rf>manual</src.rf>
@@ -3598,7 +3598,7 @@
 <AM lemma="Zazi_;Y" src="orig">NNFS1-----A----</AM>
 <AM lemma="Zazi_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Zazi_;Y" src="auto">NNMS5-----A----</AM>
-<AM lemma="Zazi-2_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Zazi-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-103-p1s17Cw23">
@@ -3635,7 +3635,7 @@
 <AM lemma="Zazi_;Y" src="orig">NNFS1-----A----</AM>
 <AM lemma="Zazi_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Zazi_;Y" src="auto">NNMS5-----A----</AM>
-<AM lemma="Zazi-2_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Zazi-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-103-p1s17Cw27">

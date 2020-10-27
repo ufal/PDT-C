@@ -2467,7 +2467,7 @@
 <AM lemma="dospívající_^(*4t)" src="auto">AGMP6-----A----</AM>
 <AM lemma="dospívající_^(*4t)" src="auto">AGNP2-----A----</AM>
 <AM lemma="dospívající_^(*4t)" src="auto">AGNP6-----A----</AM>
-<AM lemma="dospívající-2" src="manual" selected="1">NNMP2-----A----</AM>
+<AM lemma="dospívající_^(*4t)" src="manual" selected="1">AGMP2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1903-001-p1s9W29-Ta">
@@ -10299,7 +10299,7 @@
 <form>Carol</form>
 <tag>
 <AM lemma="Carola_;Y" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="Carol_;Y" src="manual" selected="1">NNFS4-----A----</AM>
+<AM lemma="Carol_;Y_;m" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1903-001-p1s42W10-Ta">

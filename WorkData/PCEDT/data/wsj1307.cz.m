@@ -3830,7 +3830,7 @@
 <AM lemma="zadržený_^(*2t)" src="auto">AAMS2----1A----</AM>
 <AM lemma="zadržený_^(*2t)" src="auto" recommended="1">AAMS4----1A----</AM>
 <AM lemma="zadržený_^(*2t)" src="auto">AANS2----1A----</AM>
-<AM lemma="zadržený-2" src="manual" selected="1">NNMS4-----A----</AM>
+<AM lemma="zadržený_^(*2t)" src="manual" selected="1">AAMS4----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj1307-001-p1s15W11-Ta">

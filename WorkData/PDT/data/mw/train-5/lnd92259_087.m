@@ -105,7 +105,7 @@
 <LM>w#w-lnd92259-087-p1s1w11</LM>
 </w.rf>
 <form>SPARTĚ</form>
-<tag lemma="Sparta_;m" src="orig" selected="1">NNFS3-----A----</tag>
+<tag lemma="Sparta_;G_;m" src="orig" selected="1">NNFS3-----A----</tag>
 </m>
 </s>
 <s id="m-lnd92259-087-p2s1">
@@ -853,7 +853,7 @@
 <LM>w#w-lnd92259-087-p3s3w11</LM>
 </w.rf>
 <form>Fortuně</form>
-<tag lemma="Fortuna_;m" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Fortuna_;Y_;m" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd92259-087-p3s3w12">
 <src.rf>manual</src.rf>

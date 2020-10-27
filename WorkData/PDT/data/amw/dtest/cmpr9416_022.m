@@ -5458,7 +5458,7 @@
 <form>stály</form>
 <tag>
 <AM lemma="stát-4_^(něco_stojí_peníze)" src="orig">VpTP---XR-AA---</AM>
-<AM lemma="stát-4_^(něco_stojí_peníze)" src="manual" selected="1">VpTP----R-AAI--</AM>
+<AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">VpTP----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-022-p10s6w22">

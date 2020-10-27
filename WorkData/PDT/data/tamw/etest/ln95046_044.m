@@ -5645,7 +5645,7 @@
 <AM lemma="patricius" src="auto">NNMS2-----A----</AM>
 <AM lemma="patricius" src="auto">NNMS4-----A----</AM>
 <AM lemma="Patricia_;Y" src="manual">NNFS1-----A---1</AM>
-<AM lemma="Patricia_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Patricie_;Y" src="manual" selected="1">NNFS1-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln95046-044-p5s10w20">

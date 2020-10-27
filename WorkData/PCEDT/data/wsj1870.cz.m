@@ -29741,7 +29741,7 @@
 <AM lemma="přihlížející_^(*4t)" src="auto">AGNS1-----A----</AM>
 <AM lemma="přihlížející_^(*4t)" src="auto">AGNS4-----A----</AM>
 <AM lemma="přihlížející_^(*4t)" src="auto">AGNS5-----A----</AM>
-<AM lemma="přihlížející-2" src="manual" selected="1">NNMP1-----A----</AM>
+<AM lemma="přihlížející_^(*4t)" src="manual" selected="1">AGMP1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1870-001-p1s106W2-Ta">
@@ -30475,7 +30475,7 @@
 <AM lemma="přihlížející_^(*4t)" src="auto">AGNS1-----A----</AM>
 <AM lemma="přihlížející_^(*4t)" src="auto">AGNS4-----A----</AM>
 <AM lemma="přihlížející_^(*4t)" src="auto">AGNS5-----A----</AM>
-<AM lemma="přihlížející-2" src="manual" selected="1">NNMP1-----A----</AM>
+<AM lemma="přihlížející_^(*4t)" src="manual" selected="1">AGMP1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1870-001-p1s109W3-Ta">

@@ -1329,7 +1329,7 @@
 <LM>w#w-mf930708-121-p4s3w32</LM>
 </w.rf>
 <form>Union</form>
-<tag lemma="Union" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Union_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930708-121-p4s3w33">
 <src.rf>manual</src.rf>

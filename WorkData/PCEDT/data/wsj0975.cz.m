@@ -11395,7 +11395,7 @@
 </w.rf>
 <form>nezbytné</form>
 <tag>
-<AM lemma="nezbytný" src="auto" recommended="1">AAFP1----1A----</AM>
+<AM lemma="zbytný" src="auto" recommended="1">AAFP1----1N----</AM>
 <AM lemma="nezbytný" src="auto">AAFP4----1A----</AM>
 <AM lemma="nezbytný" src="auto">AAFP5----1A----</AM>
 <AM lemma="nezbytný" src="auto">AAFS2----1A----</AM>

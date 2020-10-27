@@ -1392,7 +1392,7 @@
 <AM lemma="coca">A2--------A----</AM>
 <AM lemma="coca_;U_,t">AAXXX----1A----</AM>
 <AM lemma="Coca-2_^(Coca-Cola)" src="manual">S2--------A----</AM>
-<AM lemma="Coca-1_^(Coca-Cola)" src="manual" selected="1">S2--------A----</AM>
+<AM lemma="Coca-1" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="mu_16-SCzechM-p1650-s1-w2">

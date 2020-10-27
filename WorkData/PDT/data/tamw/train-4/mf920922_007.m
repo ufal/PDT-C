@@ -1076,7 +1076,7 @@
 <LM>w#w-mf920922-007-p2s4Bw18</LM>
 </w.rf>
 <form>PASSAT</form>
-<tag lemma="Passat_;m_^(vozidlo)" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Passat_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920922-007-p2s4Bw19">
 <src.rf>manual</src.rf>

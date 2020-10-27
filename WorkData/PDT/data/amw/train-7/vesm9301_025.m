@@ -22518,7 +22518,7 @@
 <LM>w#w-vesm9301-025-p52s4w1</LM>
 </w.rf>
 <form>Stálo</form>
-<tag lemma="stát-4_^(něco_stojí_peníze)" src="orig" selected="1">VpNS----R-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-vesm9301-025-p52s4w2">
 <src.rf>manual</src.rf>

@@ -6914,7 +6914,7 @@
 <tag>
 <AM lemma="Eugen_;Y" src="auto" recommended="1">NNMS7-----A----</AM>
 <AM lemma="Eugene-2_;Y_^(muž)" src="auto">NNMS6-----A----</AM>
-<AM lemma="Eugene-2_;Y_^(muž)" src="auto" selected="1">NNMS7-----A----</AM>
+<AM lemma="Eugene-1_;Y" src="auto" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1065-001-p1s20W10-Ta">

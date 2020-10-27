@@ -675,7 +675,7 @@
 <tag>
 <AM lemma="nedostatek" src="orig">NNIS4-----A----</AM>
 <AM lemma="dostatek" src="manual">NNIS1-----N----</AM>
-<AM lemma="dostatek" src="manual" selected="1">NNIS4-----N----</AM>
+<AM lemma="nedostatek" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-036-p6s1w7">

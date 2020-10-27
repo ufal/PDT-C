@@ -50,7 +50,7 @@
 <form>Sv</form>
 <tag>
 <AM lemma="svatý-1_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="svatý" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="svatý-1" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-mf920902-127-p1s1w5">

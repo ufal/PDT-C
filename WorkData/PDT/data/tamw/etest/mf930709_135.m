@@ -770,7 +770,7 @@
 <LM>w#w-mf930709-135-p2s5w18</LM>
 </w.rf>
 <form>HIV</form>
-<tag lemma="HIV_;U_^(lidský_virus_způsobující_AIDS)" src="orig" selected="1">NNIXX-----A---b</tag>
+<tag lemma="HIV_;U_^(lidský_virus_způsobujícíIDS)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf930709-135-p2s5w19">
 <src.rf>manual</src.rf>

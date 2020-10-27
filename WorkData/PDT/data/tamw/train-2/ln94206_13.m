@@ -1001,7 +1001,7 @@
 <LM>w#w-ln94206-13-p3s2w6</LM>
 </w.rf>
 <form>softwaru</form>
-<tag lemma="software" src="orig" selected="1">NNIS2-----A---1</tag>
+<tag lemma="software" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94206-13-p3s2w7">
 <src.rf>manual</src.rf>

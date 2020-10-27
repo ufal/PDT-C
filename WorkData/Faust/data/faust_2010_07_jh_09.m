@@ -744,7 +744,7 @@
 <form>Celticu</form>
 <tag>
 <AM lemma="Celticu">X@-------------</AM>
-<AM lemma="Celtic_;m" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Celtic_;m" src="manual" selected="1">NNIS2-----A---1</AM>
 </tag>
 </m>
 </s>

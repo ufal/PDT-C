@@ -965,7 +965,7 @@
 <LM>w#w-lnd91303-090-p6s1w25</LM>
 </w.rf>
 <form>SP</form>
-<tag lemma="SP-3_^(Světový_pohár)" src="auto" selected="1">NNIXX-----A---b</tag>
+<tag lemma="SP-3_^(Světový_pohár)" src="auto" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd91303-090-p6s1w26">
 <src.rf>manual</src.rf>

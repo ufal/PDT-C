@@ -1057,7 +1057,7 @@
 <AM lemma="l-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="letopočet_:B_^(jen_př._n._l.,_před_naším_letopočtem)" src="auto">NNIS7-----A---8</AM>
 <AM lemma="litr_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Labe_;G" src="manual" selected="1">NNNS7-----A---8</AM>
+<AM lemma="L-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92252-088-p3s4w9">
@@ -3756,7 +3756,7 @@
 <AM lemma="l-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
 <AM lemma="letopočet_:B_^(jen_př._n._l.,_před_naším_letopočtem)" src="auto">NNIS7-----A---8</AM>
 <AM lemma="litr_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="Labe_;G" src="manual" selected="1">NNNS7-----A---8</AM>
+<AM lemma="L-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92252-088-p6s12w34">

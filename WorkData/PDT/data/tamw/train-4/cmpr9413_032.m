@@ -2400,7 +2400,7 @@
 <form>nekorektnosti</form>
 <tag>
 <AM lemma="nekorektnost" src="orig">NNFS2-----A----</AM>
-<AM lemma="korektnost" src="manual" selected="1">NNFS2-----N----</AM>
+<AM lemma="nekorektnost" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-032-p10s2w8">

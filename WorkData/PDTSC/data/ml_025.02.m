@@ -600,7 +600,7 @@
 <AM lemma="spolupracující_^(*5ovat)" src="auto">AGNS1-----A----</AM>
 <AM lemma="spolupracující_^(*5ovat)" src="auto">AGNS4-----A----</AM>
 <AM lemma="spolupracující_^(*5ovat)" src="auto">AGNS5-----A----</AM>
-<AM lemma="spolupracující-2" src="manual" selected="1">NNMP1-----A----</AM>
+<AM lemma="spolupracující_^(*5ovat)" src="manual" selected="1">AGMP1-----A----</AM>
 </tag>
 </m>
 <m id="m025-d1t853-4">

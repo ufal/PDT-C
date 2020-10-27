@@ -11673,7 +11673,7 @@
 <AM lemma="nepolitičnost" src="auto">NNFS3-----A----</AM>
 <AM lemma="nepolitičnost" src="auto">NNFS5-----A----</AM>
 <AM lemma="nepolitičnost" src="auto" recommended="1">NNFS6-----A----</AM>
-<AM lemma="političnost" src="manual" selected="1">NNFS6-----N----</AM>
+<AM lemma="nepolitičnost" src="manual" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1795-001-p1s41W17-Ta">
@@ -14654,7 +14654,7 @@
 <form>pozdější</form>
 <tag>
 <AM lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="auto">AAFP1----2A----</AM>
-<AM lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="auto" recommended="1">AAFP4----2A----</AM>
+<AM lemma="pozdější" src="auto" recommended="1">AAFP4----1A----</AM>
 <AM lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="auto">AAFP5----2A----</AM>
 <AM lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="auto">AAFS1----2A----</AM>
 <AM lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="auto">AAFS2----2A----</AM>

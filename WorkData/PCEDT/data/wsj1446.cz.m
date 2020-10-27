@@ -7021,7 +7021,7 @@
 <AM lemma="Marius_;Y_,t" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Marius_;Y_,t" src="auto">NNMS4-----A----</AM>
 <AM lemma="Maria_;Y" src="auto">NNFS1-----A----</AM>
-<AM lemma="Mario_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Mario_;Y_,s_^(^DD**Mário)" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1446-001-p1s25W23-Ta">
@@ -11810,7 +11810,7 @@
 <tag>
 <AM lemma="neprávník" src="auto" recommended="1">NNMP4-----A----</AM>
 <AM lemma="neprávník" src="auto">NNMP7-----A----</AM>
-<AM lemma="právník" src="manual" selected="1">NNMP4-----N----</AM>
+<AM lemma="neprávník" src="manual" selected="1">NNMP4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1446-001-p1s44W14-Ta">
@@ -12543,7 +12543,7 @@
 <tag>
 <AM lemma="neprávník" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="neprávník" src="auto">NNMP5-----A----</AM>
-<AM lemma="právník" src="manual" selected="1">NNMP1-----N----</AM>
+<AM lemma="neprávník" src="manual" selected="1">NNMP1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1446-001-p1s46W22-Ta">

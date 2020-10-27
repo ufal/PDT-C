@@ -2608,7 +2608,7 @@
 <form>nekonkrétností</form>
 <tag>
 <AM lemma="nekonkrétnost" src="orig">NNFS7-----A----</AM>
-<AM lemma="konkrétnost" src="manual" selected="1">NNFS7-----N----</AM>
+<AM lemma="nekonkrétnost" src="manual" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-072-p7s1w5">

@@ -135,7 +135,7 @@
 <AM lemma="Felipe_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Felipe_;Y_,t" src="auto">NNMS5-----A----</AM>
 <AM lemma="Felipe_;Y_,t" src="manual">NNXXX-----A----</AM>
-<AM lemma="Felipe_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Felipe_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-042-p2s1w7">

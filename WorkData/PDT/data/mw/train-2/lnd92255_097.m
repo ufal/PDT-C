@@ -2062,7 +2062,7 @@
 <LM>w#w-lnd92255-097-p4s7w15</LM>
 </w.rf>
 <form>Vlastu</form>
-<tag lemma="Vlasta-1_;Y_^(žena)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Vlasta_;Y_;m" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-lnd92255-097-p4s7w16">
 <src.rf>manual</src.rf>

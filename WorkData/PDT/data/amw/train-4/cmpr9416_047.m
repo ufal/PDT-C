@@ -1216,7 +1216,7 @@
 <form>kurzu</form>
 <tag>
 <AM lemma="kurs" src="auto">NNIS6-----A---1</AM>
-<AM lemma="kurz" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="kurz" src="manual" selected="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-047-p7s2w3">

@@ -2429,7 +2429,7 @@
 </w.rf>
 <form>Googlu</form>
 <tag>
-<AM lemma="Google_;m" recommended="1">NNIS2-----A---1</AM>
+<AM lemma="Google_;m" recommended="1">NNIS2-----A----</AM>
 <AM lemma="Google_;m">NNIS3-----A---1</AM>
 <AM lemma="Google_;m">NNIS6-----A---1</AM>
 </tag>
@@ -3194,7 +3194,7 @@
 <tag>
 <AM lemma="nechat" recommended="1">Vi-P---2--N----</AM>
 <AM lemma="nechat">Vi-P---3--N---4</AM>
-<AM lemma="nechat" src="manual" selected="1">Vi-P---2--N-P--</AM>
+<AM lemma="nechat" src="manual" selected="1">Vi-P---2--N-P-1</AM>
 </tag>
 </m>
 <m id="jh_01-SCzechM-p0055-s1-w2">

@@ -1120,7 +1120,7 @@
 <LM>w#w-vesm9303-046-p9s1w32</LM>
 </w.rf>
 <form>Husa</form>
-<tag lemma="Hus_;Y" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Hus-1_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-vesm9303-046-p9s1w33">
 <src.rf>manual</src.rf>
@@ -1316,7 +1316,7 @@
 <LM>w#w-vesm9303-046-p9s3w7</LM>
 </w.rf>
 <form>Husovi</form>
-<tag lemma="Hus_;Y" src="orig" selected="1">NNMS6-----A----</tag>
+<tag lemma="Hus-1_;Y" src="orig" selected="1">NNMS6-----A----</tag>
 </m>
 <m id="m-vesm9303-046-p9s3w8">
 <src.rf>manual</src.rf>
@@ -1489,7 +1489,7 @@
 <LM>w#w-vesm9303-046-p9s4w12</LM>
 </w.rf>
 <form>Husa</form>
-<tag lemma="Hus_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Hus-1_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-vesm9303-046-p9s4w13">
 <src.rf>manual</src.rf>
@@ -18164,7 +18164,7 @@
 <form>s</form>
 <tag>
 <AM lemma="s-33" src="orig">Q3-------------</AM>
-<AM lemma="severní" src="manual" selected="1">AAXXX----1A---b</AM>
+<AM lemma="s-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-046-p88s1w35">

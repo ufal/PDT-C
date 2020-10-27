@@ -1194,7 +1194,7 @@
 <AM lemma="Trabant_;m_^(vozidlo)" src="auto">NNIS6-----A----</AM>
 <AM lemma="trabant_;m" src="auto">NNIS2-----A----</AM>
 <AM lemma="trabant_;m" src="auto">NNIS3-----A----</AM>
-<AM lemma="trabant_;m" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="Trabant_;m_^(vozidlo)" src="auto" recommended="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m107-d1t2035-50">

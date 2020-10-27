@@ -6193,7 +6193,7 @@
 <AM lemma="nestabilita" src="auto">NNFP4-----A----</AM>
 <AM lemma="nestabilita" src="auto">NNFP5-----A----</AM>
 <AM lemma="nestabilita" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="stabilita" src="manual" selected="1">NNFS2-----N----</AM>
+<AM lemma="nestabilita" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1019-001-p1s15W34-Ta">
@@ -7293,7 +7293,7 @@
 </w.rf>
 <form>snazšího</form>
 <tag>
-<AM lemma="snadný" src="auto" recommended="1">AAIS2----2A----</AM>
+<AM lemma="snadný" src="auto" recommended="1">AAIS2----2A---1</AM>
 <AM lemma="snadný" src="auto">AAMS2----2A----</AM>
 <AM lemma="snadný" src="auto">AAMS4----2A----</AM>
 <AM lemma="snadný" src="auto">AANS2----2A----</AM>

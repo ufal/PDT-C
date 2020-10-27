@@ -2227,7 +2227,7 @@
 <AM lemma="Sokol-2_;m_^(organizace)" src="auto" recommended="1">NNIS2-----A---1</AM>
 <AM lemma="sokol-1_;U_^(pták)" src="auto">NNMS2-----A----</AM>
 <AM lemma="sokol-1_;U_^(pták)" src="auto">NNMS4-----A----</AM>
-<AM lemma="sokol-2_;m_^(organizace)" src="auto" selected="1">NNIS2-----A---1</AM>
+<AM lemma="Sokol-2_;m_^(organizace)" src="auto" selected="1">NNIS2-----A---1</AM>
 </tag>
 </m>
 <m id="m015-d-id107399-punct">
@@ -4643,7 +4643,7 @@
 <AM lemma="Sokoleč_;G" src="auto">NNFS1-----A----</AM>
 <AM lemma="Sokoleč_;G" src="auto">NNFS4-----A----</AM>
 <AM lemma="sokol-1_;U_^(pták)" src="auto">NNMS1-----A----</AM>
-<AM lemma="sokol-2_;m_^(organizace)" src="auto" selected="1">NNIS1-----A----</AM>
+<AM lemma="Sokol-2_;m_^(organizace)" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="sokol-2_;m_^(organizace)" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>

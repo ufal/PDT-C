@@ -29,7 +29,7 @@
 <form>JAR</form>
 <tag>
 <AM lemma="JAR-1_:B_;G_^(Jihoafrická_republika)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="JAR-1_;G_^(Jihoafrická_republika)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="JAR_;G_^(Jihoafrická_republika)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-163-p1s1w3">

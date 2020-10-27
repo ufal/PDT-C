@@ -3164,7 +3164,7 @@
 <AM lemma="Columbus_;G" src="auto">NNIS2-----A---6</AM>
 <AM lemma="Columbus_;G" src="auto">NNIS3-----A---6</AM>
 <AM lemma="Columbus_;G" src="auto">NNIS6-----A---6</AM>
-<AM lemma="Columbus_;m" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="Columbus-2_;G_;m" src="auto" recommended="1">NNIS2-----A---6</AM>
 <AM lemma="Columbus_;m" src="auto">NNIS3-----A----</AM>
 <AM lemma="Columbus_;m" src="auto">NNIS6-----A----</AM>
 </tag>
@@ -6152,7 +6152,7 @@
 <AM lemma="C-33" src="auto">Q3-------------</AM>
 <AM lemma="Celsius" src="auto">NNMXX-----A---8</AM>
 <AM lemma="C-33" src="auto">Q3-------------</AM>
-<AM lemma="c-88" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="C-33" src="auto" recommended="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2040-001-p1s21W10-Ta">

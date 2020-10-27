@@ -19,7 +19,7 @@
 <LM>w#w-cmpr9415-051-p2s1w1</LM>
 </w.rf>
 <form>Sen</form>
-<tag lemma="sen" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="sen-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-051-p2s1w2">
 <src.rf>manual</src.rf>
@@ -287,7 +287,7 @@
 <LM>w#w-cmpr9415-051-p4s1w18</LM>
 </w.rf>
 <form>statisíce</form>
-<tag lemma="stotisíc`100000" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="statisíc`100000" src="orig" selected="1">CzIP4----------</tag>
 </m>
 <m id="m-cmpr9415-051-p4s1w19">
 <src.rf>manual</src.rf>
@@ -770,7 +770,7 @@
 <LM>w#w-cmpr9415-051-p5s4w1</LM>
 </w.rf>
 <form>Sen</form>
-<tag lemma="sen" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="sen-1" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-cmpr9415-051-p5s4w2">
 <src.rf>manual</src.rf>

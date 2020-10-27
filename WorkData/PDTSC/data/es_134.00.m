@@ -1486,7 +1486,7 @@
 <AM lemma="Kněžná_;G" src="auto">NNFS7-----A----</AM>
 <AM lemma="kněžna" src="auto" recommended="1">NNFS7-----A----</AM>
 <AM lemma="Kněžna_;G" src="manual">NNFS4-----A----</AM>
-<AM lemma="Kněžna_;G" src="manual" selected="1">NNFS7-----A----</AM>
+<AM lemma="Kněžná_;G" src="manual" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m134-d-id57500-punct">
@@ -1689,7 +1689,7 @@
 <AM lemma="Kněžná_;G" src="auto">NNFS4-----A----</AM>
 <AM lemma="Kněžná_;G" src="auto">NNFS7-----A----</AM>
 <AM lemma="kněžna" src="auto" recommended="1">NNFS7-----A----</AM>
-<AM lemma="Kněžna_;G" src="manual" selected="1">NNFS7-----A----</AM>
+<AM lemma="Kněžná_;G" src="manual" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m134-63-104">

@@ -6273,7 +6273,7 @@
 <LM>w#w-cmpr9415-022-p24s1w2</LM>
 </w.rf>
 <form>Mazdě</form>
-<tag lemma="Mazda_;m" src="auto" selected="1">NNFS6-----A----</tag>
+<tag lemma="Mazda-1_;m" src="auto" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-cmpr9415-022-p24s1w3">
 <src.rf>manual</src.rf>
@@ -6646,7 +6646,7 @@
 <LM>w#w-cmpr9415-022-p26s2w2</LM>
 </w.rf>
 <form>Mazdě</form>
-<tag lemma="Mazda_;m" src="auto" selected="1">NNFS6-----A----</tag>
+<tag lemma="Mazda-1_;m" src="auto" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-cmpr9415-022-p26s2w3">
 <src.rf>manual</src.rf>

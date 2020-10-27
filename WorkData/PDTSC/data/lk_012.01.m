@@ -2297,7 +2297,7 @@
 <tag>
 <AM lemma="tmavý" src="auto">AAFP3----2A----</AM>
 <AM lemma="tmavý" src="auto">AAIP3----2A----</AM>
-<AM lemma="tmavý" src="auto" recommended="1">AAIS6----2A----</AM>
+<AM lemma="tmavý" src="auto" recommended="1">AAIS6----2A---1</AM>
 <AM lemma="tmavý" src="auto">AAIS7----2A----</AM>
 <AM lemma="tmavý" src="auto">AAMP3----2A----</AM>
 <AM lemma="tmavý" src="auto">AAMS6----2A----</AM>

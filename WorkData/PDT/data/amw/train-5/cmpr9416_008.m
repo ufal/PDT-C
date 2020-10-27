@@ -3402,7 +3402,7 @@
 <form>Alfa</form>
 <tag>
 <AM lemma="alfa" src="orig">NNFS1-----A----</AM>
-<AM lemma="Alfa_;m_^(vozidlo)" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Alfa_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-008-p13s3w13">

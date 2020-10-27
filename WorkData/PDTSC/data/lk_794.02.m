@@ -2095,7 +2095,7 @@
 <AM lemma="postit" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="postit" src="auto">Vi-S---3--A-I-4</AM>
 <AM lemma="post-3" src="manual">NNMS1-----A----</AM>
-<AM lemma="post-3" src="manual" selected="1">NNMP1-----A----</AM>
+<AM lemma="post-3" src="manual" selected="1">NNMP1-----A---1</AM>
 </tag>
 </m>
 <m id="m794-d1t622-3">
@@ -5081,7 +5081,7 @@
 <form>Oberscharführeru</form>
 <tag>
 <AM lemma="Oberscharführeru" src="auto">X@-------------</AM>
-<AM lemma="oberscharführer" src="manual" selected="1">NNMS6-----A----</AM>
+<AM lemma="oberscharführer" src="manual" selected="1">NNMS6-----A---1</AM>
 </tag>
 </m>
 <m id="m794-d1t739-11">

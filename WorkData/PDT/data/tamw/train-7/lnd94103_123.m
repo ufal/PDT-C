@@ -207,7 +207,7 @@
 <form>Kan</form>
 <tag>
 <AM lemma="Kanada_:B_;G" src="orig">NNFXX-----A---8</AM>
-<AM lemma="Kanada_;G" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="Kanada_;G_;m" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd94103-123-p1s7w6">

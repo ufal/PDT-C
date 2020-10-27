@@ -421,7 +421,7 @@
 <form>stát</form>
 <tag>
 <AM lemma="stát-4_^(něco_stojí_peníze)" src="orig">Vf--------A----</AM>
-<AM lemma="stát-4_^(něco_stojí_peníze)" src="manual" selected="1">Vf--------A-I--</AM>
+<AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">Vf--------A-I--</AM>
 </tag>
 </m>
 <m id="m-mf930713-119-p2s3w10">

@@ -4527,7 +4527,7 @@
 <AM lemma="kyčel" src="auto">NNFP1-----A---1</AM>
 <AM lemma="kyčel" src="auto">NNFP4-----A---1</AM>
 <AM lemma="kyčel" src="auto">NNFP5-----A---1</AM>
-<AM lemma="kyčel" src="auto" recommended="1">NNFS2-----A---1</AM>
+<AM lemma="kyčel-2" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="kyčel" src="auto">NNIP1-----A----</AM>
 <AM lemma="kyčel" src="auto">NNIP4-----A----</AM>
 <AM lemma="kyčel" src="auto">NNIP5-----A----</AM>

@@ -11679,7 +11679,7 @@
 <form>dB</form>
 <tag>
 <AM lemma="dB-4_:B_^(decibel)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="dB-4_^(decibel)" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="decibel" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-vesm9211-027-p45s4w11">
@@ -12016,7 +12016,7 @@
 <form>dB</form>
 <tag>
 <AM lemma="dB-4_:B_^(decibel)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="dB-4_^(decibel)" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="decibel" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-vesm9211-027-p47s1w20">
@@ -12051,7 +12051,7 @@
 <form>dB</form>
 <tag>
 <AM lemma="dB-4_:B_^(decibel)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="dB-4_^(decibel)" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="decibel" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-vesm9211-027-p47s1w24">

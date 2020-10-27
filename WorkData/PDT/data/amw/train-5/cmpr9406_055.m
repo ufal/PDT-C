@@ -2368,7 +2368,7 @@
 <LM>w#w-cmpr9406-055-p8s1w5</LM>
 </w.rf>
 <form>PC</form>
-<tag lemma="PC-1_;m_^(personal_computer,_osobní_počítač)" src="orig" selected="1">NNNXX-----A---b</tag>
+<tag lemma="PC_^(personal_computer,_osobní_počítač)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-cmpr9406-055-p8s1w6">
 <src.rf>manual</src.rf>
@@ -2472,7 +2472,7 @@
 <LM>w#w-cmpr9406-055-p8s1w18</LM>
 </w.rf>
 <form>PC</form>
-<tag lemma="PC-1_;m_^(personal_computer,_osobní_počítač)" src="orig" selected="1">NNNXX-----A---b</tag>
+<tag lemma="PC_^(personal_computer,_osobní_počítač)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-cmpr9406-055-p8s1w19">
 <src.rf>manual</src.rf>

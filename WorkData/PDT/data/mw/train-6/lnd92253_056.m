@@ -1424,7 +1424,7 @@
 <form>nepřátelství</form>
 <tag>
 <AM lemma="nepřátelství" src="orig">NNNS6-----A----</AM>
-<AM lemma="přátelství" src="manual" selected="1">NNNS6-----N----</AM>
+<AM lemma="nepřátelství" src="manual" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-056-p8s1w32">
@@ -2182,7 +2182,7 @@
 <form>Nezbytnou</form>
 <tag>
 <AM lemma="zbytný" src="orig">AAFS7----1N----</AM>
-<AM lemma="nezbytný" src="manual" selected="1">AAFS7----1A----</AM>
+<AM lemma="zbytný" src="manual" selected="1">AAFS7----1N----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-056-p13s1w2">
@@ -3268,7 +3268,7 @@
 <form>sv</form>
 <tag>
 <AM lemma="svatý-1_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="svatý" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="svatý-1" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92253-056-p14s2w5">

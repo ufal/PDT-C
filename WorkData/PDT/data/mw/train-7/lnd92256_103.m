@@ -707,7 +707,7 @@
 <form>Perlou</form>
 <tag>
 <AM lemma="perla" src="orig">NNFS7-----A----</AM>
-<AM lemma="Perla_;Y" src="manual" selected="1">NNFS7-----A----</AM>
+<AM lemma="Perla_;Y_;m" src="manual" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-103-p2s4w30">
@@ -985,7 +985,7 @@
 <form>Perla</form>
 <tag>
 <AM lemma="perla" src="orig">NNFS1-----A----</AM>
-<AM lemma="Perla_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Perla_;Y_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-103-p2s6w21">
@@ -1249,7 +1249,7 @@
 <form>Perla</form>
 <tag>
 <AM lemma="perla" src="orig">NNFS1-----A----</AM>
-<AM lemma="Perla_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Perla_;Y_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-103-p2s6w49">

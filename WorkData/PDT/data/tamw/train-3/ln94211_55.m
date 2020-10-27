@@ -2128,7 +2128,7 @@
 <LM>w#w-ln94211-55-p5s4w11</LM>
 </w.rf>
 <form>Vlacha</form>
-<tag lemma="Vlach_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Vlach_;E_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-ln94211-55-p5s4w12">
 <src.rf>manual</src.rf>
@@ -2387,7 +2387,7 @@
 <LM>w#w-ln94211-55-p5s4w43</LM>
 </w.rf>
 <form>ODA</form>
-<tag lemma="ODA-2_;m_^(Občanská_demokratická_aliance)" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="ODA-88" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94211-55-p5s4w44">
 <src.rf>manual</src.rf>

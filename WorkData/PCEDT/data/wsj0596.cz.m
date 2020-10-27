@@ -8732,7 +8732,7 @@
 <AM lemma="star" src="auto">NNIS1-----A----</AM>
 <AM lemma="star" src="auto">NNIS4-----A----</AM>
 <AM lemma="star_,t" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Star_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Star-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0596-001-p1s35W9-Ta">

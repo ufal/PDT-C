@@ -2540,7 +2540,7 @@
 <LM>w#w-lnd92259-054-p6s1w15</LM>
 </w.rf>
 <form>Vlacha</form>
-<tag lemma="Vlach_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Vlach_;E_;Y" src="orig" selected="1">NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92259-054-p6s1w16">
 <src.rf>manual</src.rf>

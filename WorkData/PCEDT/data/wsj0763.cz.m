@@ -2641,7 +2641,7 @@
 <AM lemma="postižený_^(*4hnout)" src="auto">AANS1----1A----</AM>
 <AM lemma="postižený_^(*4hnout)" src="auto">AANS4----1A----</AM>
 <AM lemma="postižený_^(*4hnout)" src="auto">AANS5----1A----</AM>
-<AM lemma="postižený-2" src="manual" selected="1">NNMP4-----A----</AM>
+<AM lemma="postižený" src="manual" selected="1">AAMP4----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0763-001-p1s6W25-Ta">

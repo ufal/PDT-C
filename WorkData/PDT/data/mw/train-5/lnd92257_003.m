@@ -5258,7 +5258,7 @@
 <LM>w#w-lnd92257-003-p12s1w1</LM>
 </w.rf>
 <form>P</form>
-<tag lemma="post-2_^(lat.,_po,_např._P.S.)" src="orig" selected="1">RR--X---------b</tag>
+<tag lemma="P-33" src="orig" selected="1">Q3-------------</tag>
 </m>
 <m id="m-lnd92257-003-p12s1w2">
 <src.rf>manual</src.rf>
@@ -5274,7 +5274,7 @@
 <LM>w#w-lnd92257-003-p12s1w3</LM>
 </w.rf>
 <form>S</form>
-<tag lemma="scriptum_^(př._P.S.)" src="auto" selected="1">NNNXX-----A---b</tag>
+<tag lemma="S-33" src="auto" selected="1">Q3-------------</tag>
 </m>
 <m id="m-lnd92257-003-p12s1w4">
 <src.rf>manual</src.rf>

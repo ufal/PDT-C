@@ -611,7 +611,7 @@
 <form>Tracy</form>
 <tag>
 <AM lemma="Tracy_;Y_,t" src="auto">NNMS1-----A----</AM>
-<AM lemma="Tracy-2_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Tracy-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-048-p4s1w2">

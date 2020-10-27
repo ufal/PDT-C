@@ -22,7 +22,7 @@
 <tag>
 <AM lemma="nepořádek" src="orig">NNIS1-----A----</AM>
 <AM lemma="pořádek" src="manual">NNIS1-----N----</AM>
-<AM lemma="pořádek" src="manual" selected="1">NNIS1-----N----</AM>
+<AM lemma="nepořádek" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-42-p1s1w2">

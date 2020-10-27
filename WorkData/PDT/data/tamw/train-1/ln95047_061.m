@@ -9946,7 +9946,7 @@
 <LM>w#w-ln95047-061-p7s3w3</LM>
 </w.rf>
 <form>cikáni</form>
-<tag lemma="cikán" src="orig" selected="1">NNMP1-----A---1</tag>
+<tag lemma="cikán" src="orig" selected="1">NNMP1-----A----</tag>
 </m>
 <m id="m-ln95047-061-p7s3w4">
 <src.rf>manual</src.rf>

@@ -541,7 +541,7 @@
 <AM lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="auto">AAIP6----2A----</AM>
 <AM lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="auto">AAMP2----2A----</AM>
 <AM lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="auto">AAMP6----2A----</AM>
-<AM lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="auto" recommended="1">AANP2----2A----</AM>
+<AM lemma="pozdější" src="auto" recommended="1">AANP2----1A----</AM>
 <AM lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="auto">AANP6----2A----</AM>
 </tag>
 </m>
@@ -732,7 +732,7 @@
 </w.rf>
 <form>sexu</form>
 <tag>
-<AM lemma="sex" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="sex-1" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="sex" src="auto">NNIS3-----A----</AM>
 <AM lemma="sex" src="auto">NNIS6-----A----</AM>
 <AM lemma="sexus" src="auto">NNIS2-----A----</AM>
@@ -5436,7 +5436,7 @@
 </w.rf>
 <form>sexu</form>
 <tag>
-<AM lemma="sex" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="sex-1" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="sex" src="auto">NNIS3-----A----</AM>
 <AM lemma="sex" src="auto">NNIS6-----A----</AM>
 <AM lemma="sexus" src="auto">NNIS2-----A----</AM>

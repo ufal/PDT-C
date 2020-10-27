@@ -568,7 +568,7 @@
 <LM>w#w-lnd91301-092-p4s3w14</LM>
 </w.rf>
 <form>Lada</form>
-<tag lemma="Lada-1_;m_^(vozidlo)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Lada_;Y_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd91301-092-p4s3w15">
 <src.rf>manual</src.rf>

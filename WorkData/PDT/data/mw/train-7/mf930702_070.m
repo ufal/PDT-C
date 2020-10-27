@@ -774,7 +774,7 @@
 <LM>w#w-mf930702-070-p3s4w10</LM>
 </w.rf>
 <form>sen</form>
-<tag lemma="sen" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="sen-1" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-mf930702-070-p3s4w11">
 <src.rf>manual</src.rf>

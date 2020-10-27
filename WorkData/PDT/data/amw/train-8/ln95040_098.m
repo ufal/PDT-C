@@ -87,7 +87,7 @@
 <form>Krejčí</form>
 <tag>
 <AM lemma="krejčí" src="orig">NNMS1-----A----</AM>
-<AM lemma="Krejčí_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Krejčí-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-098-p2s1w8">
@@ -291,7 +291,7 @@
 <form>Krejčí</form>
 <tag>
 <AM lemma="krejčí" src="orig">NNMS1-----A----</AM>
-<AM lemma="Krejčí_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Krejčí-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-098-p3s1w12">
@@ -1060,7 +1060,7 @@
 <form>Krejčího</form>
 <tag>
 <AM lemma="krejčí" src="orig">NNMS2-----A----</AM>
-<AM lemma="Krejčí_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Krejčí-1_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-098-p3s3w50">
@@ -1345,7 +1345,7 @@
 <form>Krejčí</form>
 <tag>
 <AM lemma="krejčí" src="orig">NNMS1-----A----</AM>
-<AM lemma="Krejčí_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Krejčí-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-098-p3s5w12">

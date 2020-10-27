@@ -345,7 +345,7 @@
 <AM lemma="Petr_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Petr_;Y" src="auto">NNMP7-----A----</AM>
 <AM lemma="Petra-1_;Y" src="auto">NNFP1-----A----</AM>
-<AM lemma="Petra-1_;Y" src="auto" selected="1">NNFP4-----A----</AM>
+<AM lemma="Petra_;G_;Y_;m" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="Petra-1_;Y" src="auto">NNFP5-----A----</AM>
 <AM lemma="Petra-1_;Y" src="auto">NNFS2-----A----</AM>
 <AM lemma="Petra-2_;G" src="auto">NNFP1-----A----</AM>

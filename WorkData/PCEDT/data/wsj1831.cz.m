@@ -4784,7 +4784,7 @@
 <tag>
 <AM lemma="Dave_;Y_,t" src="auto" recommended="1">NNMS2-----A---1</AM>
 <AM lemma="Dave_;Y_,t" src="auto">NNMS4-----A---1</AM>
-<AM lemma="Dave_;Y" src="manual" selected="1">NNMS2-----A---1</AM>
+<AM lemma="Dave_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1831-001-p1s15W6-Ta">
@@ -4994,7 +4994,7 @@
 <form>nezbytností</form>
 <tag>
 <AM lemma="nezbytnost_^(*3ý)" src="auto">NNFP2-----A----</AM>
-<AM lemma="nezbytnost_^(*3ý)" src="auto" recommended="1">NNFS7-----A----</AM>
+<AM lemma="zbytnost_^(*3ý)" src="auto" recommended="1">NNFS7-----N----</AM>
 </tag>
 </m>
 <m id="m-wsj1831-001-p1s15W22-Ta">

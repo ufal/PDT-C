@@ -4985,7 +4985,7 @@
 <tag>
 <AM lemma="sex" src="auto">NNIS2-----A----</AM>
 <AM lemma="sex" src="auto">NNIS3-----A----</AM>
-<AM lemma="sex" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="sex-1" src="auto" recommended="1">NNIS6-----A----</AM>
 <AM lemma="sexus" src="auto">NNIS2-----A----</AM>
 <AM lemma="sexus" src="auto">NNIS3-----A----</AM>
 <AM lemma="sexus" src="auto">NNIS6-----A----</AM>

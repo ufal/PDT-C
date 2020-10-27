@@ -3757,7 +3757,7 @@
 <form>rubly</form>
 <tag>
 <AM lemma="rubl" src="auto">NNIP1-----A----</AM>
-<AM lemma="rubl" src="auto" recommended="1">NNIP4-----A----</AM>
+<AM lemma="rubl" src="auto" recommended="1">NNIP4-----A---1</AM>
 <AM lemma="rubl" src="auto">NNIP5-----A----</AM>
 <AM lemma="rubl" src="auto">NNIP7-----A----</AM>
 </tag>

@@ -559,7 +559,7 @@
 <AM lemma="Cecilio_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Cecilio_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="Cecílie_;Y_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Cecilia_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Cecilie_;Y_,s_^(^DD**Cecílie)" src="manual" selected="1">NNFS1-----A---1</AM>
 </tag>
 </m>
 <m id="m-mf930703-119-p6s1w3">

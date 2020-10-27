@@ -3402,7 +3402,7 @@
 <LM>w#w-mf930701-127-p2s19w14</LM>
 </w.rf>
 <form>nestáli</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VpMP----R-NAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VpMP----R-NAI--</tag>
 </m>
 <m id="m-mf930701-127-p2s19w15">
 <src.rf>manual</src.rf>

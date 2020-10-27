@@ -14400,7 +14400,7 @@
 <LM>w#w-vesm9211-007-p14s1w11</LM>
 </w.rf>
 <form>stály</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VpTP----R-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-vesm9211-007-p14s1w12">
 <src.rf>manual</src.rf>

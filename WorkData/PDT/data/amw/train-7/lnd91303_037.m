@@ -1350,7 +1350,7 @@
 <LM>w#w-lnd91303-037-p5s1w9</LM>
 </w.rf>
 <form>polní</form>
-<tag lemma="polní-2" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="polní" src="orig" selected="1">AAFS6----1A----</tag>
 </m>
 <m id="m-lnd91303-037-p5s1w10">
 <src.rf>manual</src.rf>

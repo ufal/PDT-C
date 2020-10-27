@@ -1930,7 +1930,7 @@
 <LM>w#w-ln94201-61-p4s2w7</LM>
 </w.rf>
 <form>m</form>
-<tag lemma="město" src="orig" selected="1">NNNXX-----A---b</tag>
+<tag lemma="m-33" src="orig" selected="1">Q3-------------</tag>
 </m>
 <m id="m-ln94201-61-p4s2w8">
 <src.rf>manual</src.rf>

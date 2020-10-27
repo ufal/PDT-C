@@ -2067,7 +2067,7 @@
 <LM>w#w-lnd94104-099-p1s8w8</LM>
 </w.rf>
 <form>Nory</form>
-<tag lemma="Nor_;E" src="orig" selected="1">NNMP7-----A----</tag>
+<tag lemma="Nor_;E_;Y" src="orig" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-lnd94104-099-p1s8w9">
 <src.rf>manual</src.rf>

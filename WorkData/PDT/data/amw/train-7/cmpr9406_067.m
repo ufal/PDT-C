@@ -907,7 +907,7 @@
 <LM>w#w-cmpr9406-067-p9s3w1</LM>
 </w.rf>
 <form>Stál</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VpYS----R-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-cmpr9406-067-p9s3w2">
 <src.rf>manual</src.rf>

@@ -1135,7 +1135,7 @@
 <tag>
 <AM lemma="minus-1_^(znaménko_mínus;_vyjádření_záporné_vlastnosti)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="minus-1_^(znaménko_mínus;_vyjádření_záporné_vlastnosti)" src="auto">NNIS4-----A----</AM>
-<AM lemma="minus-2_^(mat._operace;_9_mínus_3,_též_mínus_dva_stupně)" src="auto" selected="1">J*------------1</AM>
+<AM lemma="mínus-2_,h_^(mat._operace;_9_mínus_3,_též_mínus_dva_stupně)_(^GC**minus-2)" src="auto" selected="1">J*-------------</AM>
 <AM lemma="minus-3" src="auto">Db-------------</AM>
 </tag>
 </m>

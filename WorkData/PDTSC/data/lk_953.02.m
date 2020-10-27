@@ -2632,7 +2632,7 @@
 <AM lemma="Kamenec_;G" src="auto">NNIP1-----A----</AM>
 <AM lemma="Kamenec_;G" src="auto">NNIP4-----A----</AM>
 <AM lemma="Kamenec_;G" src="auto">NNIP5-----A----</AM>
-<AM lemma="Kamenec_;G" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="Kamenec-2_;G" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="Kamenec_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Kamenec_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Kamenec_;Y" src="auto">NNMS4-----A----</AM>
@@ -2809,7 +2809,7 @@
 <AM lemma="Kamenec_;G" src="auto">NNIP1-----A----</AM>
 <AM lemma="Kamenec_;G" src="auto">NNIP4-----A----</AM>
 <AM lemma="Kamenec_;G" src="auto">NNIP5-----A----</AM>
-<AM lemma="Kamenec_;G" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="Kamenec-2_;G" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="Kamenec_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Kamenec_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Kamenec_;Y" src="auto">NNMS4-----A----</AM>
@@ -3999,7 +3999,7 @@
 <AM lemma="Kamenec_;G" src="auto">NNIP1-----A----</AM>
 <AM lemma="Kamenec_;G" src="auto">NNIP4-----A----</AM>
 <AM lemma="Kamenec_;G" src="auto">NNIP5-----A----</AM>
-<AM lemma="Kamenec_;G" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="Kamenec-2_;G" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="Kamenec_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Kamenec_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Kamenec_;Y" src="auto">NNMS4-----A----</AM>

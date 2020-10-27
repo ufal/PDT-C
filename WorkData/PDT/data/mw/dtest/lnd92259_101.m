@@ -1191,7 +1191,7 @@
 <LM>w#w-lnd92259-101-p6s4w3</LM>
 </w.rf>
 <form>Michalovce</form>
-<tag lemma="Michalovce_;G" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="Michalovce_;G" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-lnd92259-101-p6s4w4">
 <src.rf>manual</src.rf>

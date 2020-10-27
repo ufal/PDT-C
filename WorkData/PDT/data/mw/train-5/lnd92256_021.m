@@ -446,7 +446,7 @@
 <form>Kozák</form>
 <tag>
 <AM lemma="Kozák_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Kozák_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Kozák-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-021-p3s2w41">

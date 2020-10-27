@@ -27694,7 +27694,7 @@
 <form>nespravedlnost</form>
 <tag>
 <AM lemma="nespravedlnost" src="auto">NNFS1-----A----</AM>
-<AM lemma="nespravedlnost" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="spravedlnost-1_^(*5ý-1)" src="auto" recommended="1">NNFS4-----N----</AM>
 <AM lemma="spravedlnost_^(*3ý)" src="auto">NNFS1-----N----</AM>
 <AM lemma="spravedlnost_^(*3ý)" src="auto">NNFS4-----N----</AM>
 </tag>

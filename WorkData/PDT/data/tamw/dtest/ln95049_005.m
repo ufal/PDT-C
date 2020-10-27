@@ -559,7 +559,7 @@
 <tag>
 <AM lemma="TelSource_;m_^(konsorcium)" src="orig">NNXXX-----A----</AM>
 <AM lemma="TelSource_;m_,t_^(konsorcium)" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="TelSource_;m_^(konsorcium)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="TelSource_;m_^(konsorcium)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-005-p3s2w18">

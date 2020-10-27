@@ -3057,7 +3057,7 @@
 <AM lemma="nezbytný" src="auto">AAFS2----1A----</AM>
 <AM lemma="nezbytný" src="auto">AAFS3----1A----</AM>
 <AM lemma="nezbytný" src="auto" recommended="1">AAFS6----1A----</AM>
-<AM lemma="nezbytný" src="auto" selected="1">AAIP1----1A----</AM>
+<AM lemma="zbytný" src="auto" selected="1">AAIP1----1N----</AM>
 <AM lemma="nezbytný" src="auto">AAIP4----1A----</AM>
 <AM lemma="nezbytný" src="auto">AAIP5----1A----</AM>
 <AM lemma="nezbytný" src="auto">AAMP4----1A----</AM>
@@ -8570,7 +8570,7 @@
 </w.rf>
 <form>virus</form>
 <tag>
-<AM lemma="virus_,s_^(^DD**vir)" src="auto" recommended="1">NNIS1-----A---2</AM>
+<AM lemma="vir-1" src="auto" recommended="1">NNIS1-----A---1</AM>
 <AM lemma="virus_,s_^(^DD**vir)" src="auto">NNIS4-----A---2</AM>
 </tag>
 </m>
@@ -9286,7 +9286,7 @@
 <AM lemma="tritonus" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="tritonus" src="auto">NNIS3-----A----</AM>
 <AM lemma="tritonus" src="auto">NNIS6-----A----</AM>
-<AM lemma="Triton-2_;G" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Triton-2_;G_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1817-001-p1s29W15-Ta">
@@ -9997,7 +9997,7 @@
 <form>Discovery</form>
 <tag>
 <AM lemma="Discovery_;m_,t" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Discovery_;m" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Discovery_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1817-001-p1s32W6-Ta">

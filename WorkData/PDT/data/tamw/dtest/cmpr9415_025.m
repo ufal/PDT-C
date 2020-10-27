@@ -292,7 +292,7 @@
 </w.rf>
 <form>neúspěchy</form>
 <tag>
-<AM lemma="úspěch" src="orig" selected="1">NNIP1-----N----</AM>
+<AM lemma="neúspěch" src="orig" selected="1">NNIP1-----A----</AM>
 <AM lemma="neúspěch" src="auto" recommended="1">NNIP1-----A----</AM>
 <AM lemma="neúspěch" src="auto">NNIP4-----A----</AM>
 <AM lemma="neúspěch" src="auto">NNIP5-----A----</AM>

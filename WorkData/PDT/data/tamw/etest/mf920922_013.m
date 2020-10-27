@@ -396,7 +396,7 @@
 <LM>w#w-mf920922-013-p2s3w10</LM>
 </w.rf>
 <form>Jaguara</form>
-<tag lemma="Jaguar_;m" src="auto" selected="1">NNIS2-----A---1</tag>
+<tag lemma="Jaguar_;m_,s_^(vozidlo)_(^DD**Jaguár)" src="auto" selected="1">NNIS2-----A---1</tag>
 </m>
 <m id="m-mf920922-013-p2s3w11">
 <src.rf>manual</src.rf>

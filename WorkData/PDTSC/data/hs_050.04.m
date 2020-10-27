@@ -1999,7 +1999,7 @@
 <AM lemma="vyučující_^(*5ovat)" src="auto">AGMP6-----A----</AM>
 <AM lemma="vyučující_^(*5ovat)" src="auto">AGNP2-----A----</AM>
 <AM lemma="vyučující_^(*5ovat)" src="auto">AGNP6-----A----</AM>
-<AM lemma="vyučující-2" src="manual" selected="1">NNMP2-----A----</AM>
+<AM lemma="vyučující_^(*5ovat)" src="manual" selected="1">AGMP2-----A----</AM>
 </tag>
 </m>
 <m id="m050-d-id94719-punct">
@@ -5333,7 +5333,7 @@
 <AM lemma="tmavý" src="auto">AAFS4----2A----</AM>
 <AM lemma="tmavý" src="auto">AAFS5----2A----</AM>
 <AM lemma="tmavý" src="auto">AAFS6----2A----</AM>
-<AM lemma="tmavý" src="auto" recommended="1">AAFS7----2A----</AM>
+<AM lemma="tmavý" src="auto" recommended="1">AAFS7----2A---1</AM>
 <AM lemma="tmavý" src="auto">AAIP1----2A----</AM>
 <AM lemma="tmavý" src="auto">AAIP4----2A----</AM>
 <AM lemma="tmavý" src="auto">AAIP5----2A----</AM>

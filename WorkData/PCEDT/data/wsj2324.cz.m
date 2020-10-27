@@ -951,7 +951,7 @@
 <AM lemma="Sulka_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Sulko_;m" src="auto">NNNS2-----A----</AM>
 <AM lemma="sulka" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Sulka_;Y_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Sulka-2_;Y_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2324-001-p1s3W8-Ta">

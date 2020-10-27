@@ -147,7 +147,7 @@
 <LM>w#w-lnd92254-023-p3s1w4</LM>
 </w.rf>
 <form>statisíce</form>
-<tag lemma="stotisíc`100000" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="statisíc`100000" src="orig" selected="1">CzIP1----------</tag>
 </m>
 <m id="m-lnd92254-023-p3s1w5">
 <src.rf>manual</src.rf>
@@ -3112,7 +3112,7 @@
 <AM lemma="var" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="var" src="auto">NNIS4-----A----</AM>
 <AM lemma="vara_,s" src="auto">NNFP2-----A----</AM>
-<AM lemma="variabilní" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="var-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-023-p5s4w24">

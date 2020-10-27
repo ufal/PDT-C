@@ -8375,7 +8375,7 @@
 <form>Stevovi</form>
 <tag>
 <AM lemma="Stevovi" src="auto">X@-------------</AM>
-<AM lemma="Steve_;Y" src="manual" selected="1">NNMS3-----A---1</AM>
+<AM lemma="Steve_;Y" src="manual" selected="1">NNMS3-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2160-001-p1s20W12-Ta">

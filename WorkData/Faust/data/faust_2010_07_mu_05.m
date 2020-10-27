@@ -766,7 +766,7 @@
 <tag>
 <AM lemma="vědět" recommended="1">VB-S---3P-NAI--</AM>
 <AM lemma="vědět">VB-P---3P-NA--6</AM>
-<AM lemma="vědět" src="manual" selected="1">VB-P---3P-NAI-6</AM>
+<AM lemma="vědět" src="manual" selected="1">VB-P---3P-NAI-7</AM>
 </tag>
 </m>
 <m id="mu_05-SCzechM-p0436-s1-w40">

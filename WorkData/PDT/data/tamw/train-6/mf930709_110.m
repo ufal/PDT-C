@@ -54,7 +54,7 @@
 <tag>
 <AM lemma="Ford-2_;m_^(vozidlo)" src="orig">NNIS4-----A---6</AM>
 <AM lemma="ford_;m" src="auto">NNIS2-----A---1</AM>
-<AM lemma="ford_;m" src="auto" recommended="1" selected="1">NNIS4-----A---6</AM>
+<AM lemma="ford" src="auto" recommended="1" selected="1">NNIS4-----A---1</AM>
 </tag>
 </m>
 </s>

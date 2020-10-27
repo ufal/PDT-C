@@ -3701,7 +3701,7 @@
 <tag>
 <AM lemma="nejistota" src="auto" recommended="1">NNFS3-----A----</AM>
 <AM lemma="nejistota" src="auto">NNFS6-----A----</AM>
-<AM lemma="jistota" src="manual" selected="1">NNFS3-----N----</AM>
+<AM lemma="nejistota" src="manual" selected="1">NNFS3-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1109-001-p1s10W20-Ta">

@@ -1751,7 +1751,7 @@
 <LM>w#w-ln94204-71-p4s2w28</LM>
 </w.rf>
 <form>tmavší</form>
-<tag lemma="tmavý" src="orig" selected="1">AAIP4----2A----</tag>
+<tag lemma="tmavý" src="orig" selected="1">AAIP4----2A---1</tag>
 </m>
 <m id="m-ln94204-71-p4s2w29">
 <src.rf>manual</src.rf>

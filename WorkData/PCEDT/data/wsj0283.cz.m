@@ -3532,7 +3532,7 @@
 <AM lemma="Turkmenistán" src="auto">NNIS2-----A----</AM>
 <AM lemma="Turkmenistán" src="auto">NNIS3-----A----</AM>
 <AM lemma="Turkmenistán" src="auto" recommended="1">NNIS6-----A---1</AM>
-<AM lemma="Turkmenistán_;G" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="Turkmenistán_;G" src="manual" selected="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-wsj0283-001-p1s10W26-Ta">

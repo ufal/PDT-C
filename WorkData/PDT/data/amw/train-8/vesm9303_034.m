@@ -1185,7 +1185,7 @@
 <form>MeV</form>
 <tag>
 <AM lemma="MeV_:B_^(megaelektronvolt)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="megaelektronvolt" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="MeV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-034-p3s3w15">
@@ -1220,7 +1220,7 @@
 <form>MeV</form>
 <tag>
 <AM lemma="MeV_:B_^(megaelektronvolt)" src="auto">NNIXX-----A---8</AM>
-<AM lemma="megaelektronvolt" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="MeV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-034-p3s3w19">

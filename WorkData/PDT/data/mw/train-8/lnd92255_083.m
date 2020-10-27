@@ -2435,7 +2435,7 @@
 <LM>w#w-lnd92255-083-p7s2Aw5</LM>
 </w.rf>
 <form>pár</form>
-<tag lemma="pár-1" src="orig" selected="1">ClXP2----------</tag>
+<tag lemma="pár-1" src="orig" selected="1">Ca--X----------</tag>
 </m>
 <m id="m-lnd92255-083-p7s2Aw6">
 <src.rf>manual</src.rf>
@@ -4410,7 +4410,7 @@
 <LM>w#w-lnd92255-083-p2s3Bw6</LM>
 </w.rf>
 <form>Rusy</form>
-<tag lemma="Rus_;E" src="orig" selected="1">NNMP4-----A----</tag>
+<tag lemma="Rus-1_;E" src="orig" selected="1">NNMP4-----A----</tag>
 </m>
 <m id="m-lnd92255-083-p2s3Bw7">
 <src.rf>manual</src.rf>

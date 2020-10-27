@@ -2983,7 +2983,7 @@
 <AM lemma="černit" src="auto">VB-S---3P-AAI--</AM>
 <AM lemma="černý_;o" src="auto">AAMP1----1A----</AM>
 <AM lemma="černý_;o" src="auto">AAMP5----1A----</AM>
-<AM lemma="černý-2" src="manual" selected="1">NNMP1-----A----</AM>
+<AM lemma="černý_;o" src="manual" selected="1">AAMP1----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj1760-001-p1s12W22-Ta">
@@ -4362,7 +4362,7 @@
 <AM lemma="černý_;o" src="auto">AAMP6----1A----</AM>
 <AM lemma="černý_;o" src="auto">AANP2----1A----</AM>
 <AM lemma="černý_;o" src="auto">AANP6----1A----</AM>
-<AM lemma="černý-2" src="manual" selected="1">NNMP2-----A----</AM>
+<AM lemma="černý_;o" src="manual" selected="1">AAMP2----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj1760-001-p1s16W10-Ta">
@@ -6286,7 +6286,7 @@
 </w.rf>
 <form>seje</form>
 <tag>
-<AM lemma="sít_^(zasévat_[semena,...])" src="auto" recommended="1">VB-S---3P-AAI--</AM>
+<AM lemma="sít_^(zasévat_[semena,...])" src="auto" recommended="1">VB-S---3P-AAI-1</AM>
 <AM lemma="sít_^(zasévat_[semena,...])" src="auto">VeYS------A-I--</AM>
 </tag>
 </m>
@@ -8557,7 +8557,7 @@
 <AM lemma="černý_;o" src="auto">AANS1----1A----</AM>
 <AM lemma="černý_;o" src="auto">AANS4----1A----</AM>
 <AM lemma="černý_;o" src="auto">AANS5----1A----</AM>
-<AM lemma="černý-2" src="manual" selected="1">NNMP4-----A----</AM>
+<AM lemma="černý_;o" src="manual" selected="1">AAMP4----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj1760-001-p1s33W23-Ta">
@@ -9387,7 +9387,7 @@
 <AM lemma="černý_;o" src="auto">AANS1----1A----</AM>
 <AM lemma="černý_;o" src="auto">AANS4----1A----</AM>
 <AM lemma="černý_;o" src="auto">AANS5----1A----</AM>
-<AM lemma="černý-2" src="manual" selected="1">NNMP4-----A----</AM>
+<AM lemma="černý_;o" src="manual" selected="1">AAMP4----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj1760-001-p1s35W19-Ta">
@@ -11078,7 +11078,7 @@
 <AM lemma="černit" src="auto">VB-S---3P-AAI--</AM>
 <AM lemma="černý_;o" src="auto" recommended="1">AAMP1----1A----</AM>
 <AM lemma="černý_;o" src="auto">AAMP5----1A----</AM>
-<AM lemma="černý-2" src="manual" selected="1">NNMP1-----A----</AM>
+<AM lemma="černý_;o" src="manual" selected="1">AAMP1----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj1760-001-p1s43W25-Ta">
@@ -15246,7 +15246,7 @@
 <AM lemma="stupeň_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="středa" src="auto">NNFXX-----A---8</AM>
-<AM lemma="starý" src="manual" selected="1">AAXXX----2A---8</AM>
+<AM lemma="st-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1760-001-p1s63W9-Ta">
@@ -16488,7 +16488,7 @@
 <AM lemma="černý_;o" src="auto">AAMP6----1A----</AM>
 <AM lemma="černý_;o" src="auto">AANP2----1A----</AM>
 <AM lemma="černý_;o" src="auto">AANP6----1A----</AM>
-<AM lemma="černý-2" src="manual" selected="1">NNMP2-----A----</AM>
+<AM lemma="černý_;o" src="manual" selected="1">AAMP2----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj1760-001-p1s68W11-Ta">

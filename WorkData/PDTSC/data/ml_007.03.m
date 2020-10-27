@@ -2328,7 +2328,7 @@
 <AM lemma="místní" src="auto">AANS1----1A----</AM>
 <AM lemma="místní" src="auto">AANS4----1A----</AM>
 <AM lemma="místní" src="auto">AANS5----1A----</AM>
-<AM lemma="místní-2" src="manual" selected="1">NNMP1-----A----</AM>
+<AM lemma="místní" src="manual" selected="1">AAMP1----1A----</AM>
 </tag>
 </m>
 <m id="m007-d1e1140-x2-790">

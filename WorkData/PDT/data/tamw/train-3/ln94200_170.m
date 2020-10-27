@@ -3829,7 +3829,7 @@
 <form>vagonu</form>
 <tag>
 <AM lemma="vagón" src="orig">NNIS6-----A---1</AM>
-<AM lemma="vagon_,s_^(^DD**vagón)" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="vagon_,s_^(^DD**vagón)" src="manual" selected="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln94200-170-p8s2w7">

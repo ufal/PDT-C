@@ -336,7 +336,7 @@
 <LM>w#w-lnd92256-001-p3s1w33</LM>
 </w.rf>
 <form>MARS</form>
-<tag lemma="Mars-2_;m_^(planeta;;kosmická_sonda)" src="auto" selected="1">NNIS4-----A----</tag>
+<tag lemma="Mars-2_;G_;m_^(planeta;;kosmická_sonda)" src="auto" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-lnd92256-001-p3s1w34">
 <src.rf>manual</src.rf>

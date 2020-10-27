@@ -3824,7 +3824,7 @@
 <LM>w#w-lnd92255-095-p6s3w10</LM>
 </w.rf>
 <form>sen</form>
-<tag lemma="sen" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="sen-1" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-lnd92255-095-p6s3w11">
 <src.rf>manual</src.rf>

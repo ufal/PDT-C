@@ -4645,7 +4645,7 @@
 <LM>w#w-vesm9211-024-p15s2w26</LM>
 </w.rf>
 <form>statisíce</form>
-<tag lemma="stotisíc`100000" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="statisíc`100000" src="orig" selected="1">CzIP4----------</tag>
 </m>
 <m id="m-vesm9211-024-p15s2w27">
 <src.rf>manual</src.rf>
@@ -14287,7 +14287,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>desetitisících</form>
-<tag lemma="desetitisíc" src="orig" selected="1">NNIP6-----A----</tag>
+<tag lemma="desetitisíc`10000" src="orig" selected="1">CzIP6----------</tag>
 </m>
 <m id="m-vesm9211-024-p27s4w14">
 <src.rf>manual</src.rf>

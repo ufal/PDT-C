@@ -220,7 +220,7 @@
 <LM>w#w-mf920902-118-p2s3w1</LM>
 </w.rf>
 <form>Členy</form>
-<tag lemma="člen" src="orig" selected="1">NNMP7-----A----</tag>
+<tag lemma="člen-2" src="orig" selected="1">NNMP7-----A----</tag>
 </m>
 <m id="m-mf920902-118-p2s3w2">
 <src.rf>manual</src.rf>
@@ -451,7 +451,7 @@
 <form>image</form>
 <tag>
 <AM lemma="image-3" src="orig">NNNXX-----A----</AM>
-<AM lemma="image-2" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="image-2" src="manual" selected="1">NNIS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-mf920902-118-p2s4w9">

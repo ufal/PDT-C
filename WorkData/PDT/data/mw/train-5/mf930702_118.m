@@ -450,7 +450,7 @@
 <tag>
 <AM lemma="kasárna" src="orig">NNFS1-----A----</AM>
 <AM lemma="kasárna" src="auto">NNNP1-----A---1</AM>
-<AM lemma="kasárna" src="auto" recommended="1" selected="1">NNNP4-----A---1</AM>
+<AM lemma="kasárna" src="auto" recommended="1" selected="1">NNNP4-----A----</AM>
 <AM lemma="kasárna" src="auto">NNNP5-----A---1</AM>
 </tag>
 </m>
@@ -1718,7 +1718,7 @@
 </w.rf>
 <form>Gallegose</form>
 <tag>
-<AM lemma="Gallegos-2_;Y" src="orig" selected="1">NNMS2-----A----</AM>
+<AM lemma="Gallegos-2_;Y" src="orig" selected="1">NNMS2-----A---1</AM>
 <AM lemma="Gallegos_;G" src="auto" recommended="1">NNIS5-----A----</AM>
 </tag>
 </m>
@@ -1933,7 +1933,7 @@
 </w.rf>
 <form>Gallegose</form>
 <tag>
-<AM lemma="Gallegos-2_;Y" src="orig" selected="1">NNMS2-----A----</AM>
+<AM lemma="Gallegos-2_;Y" src="orig" selected="1">NNMS2-----A---1</AM>
 <AM lemma="Gallegos_;G" src="auto" recommended="1">NNIS5-----A----</AM>
 </tag>
 </m>

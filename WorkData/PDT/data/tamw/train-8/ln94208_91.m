@@ -4806,7 +4806,7 @@
 <LM>w#w-ln94208-91-p8s4w23</LM>
 </w.rf>
 <form>Všeliká</form>
-<tag lemma="všeliký" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="všeliký_,a" src="orig" selected="1">PZFS1----------</tag>
 </m>
 <m id="m-ln94208-91-p8s4w24">
 <src.rf>manual</src.rf>
@@ -4830,7 +4830,7 @@
 <LM>w#w-ln94208-91-p8s4w26</LM>
 </w.rf>
 <form>všeliké</form>
-<tag lemma="všeliký" src="orig" selected="1">AANS1----1A----</tag>
+<tag lemma="všeliký_,a" src="orig" selected="1">PZNS1----------</tag>
 </m>
 <m id="m-ln94208-91-p8s4w27">
 <src.rf>manual</src.rf>

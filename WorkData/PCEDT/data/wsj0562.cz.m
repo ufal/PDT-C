@@ -5778,7 +5778,7 @@
 </w.rf>
 <form>Vítězové</form>
 <tag>
-<AM lemma="vítěz" src="auto" recommended="1">NNMP1-----A---1</AM>
+<AM lemma="vítěz" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="vítěz" src="auto">NNMP1-----A---6</AM>
 <AM lemma="vítěz" src="auto">NNMP5-----A---1</AM>
 <AM lemma="vítěz" src="auto">NNMP5-----A---6</AM>
@@ -7890,7 +7890,7 @@
 </w.rf>
 <form>nezbytných</form>
 <tag>
-<AM lemma="nezbytný" src="auto" recommended="1">AAFP2----1A----</AM>
+<AM lemma="zbytný" src="auto" recommended="1">AAFP2----1N----</AM>
 <AM lemma="nezbytný" src="auto">AAFP6----1A----</AM>
 <AM lemma="nezbytný" src="auto">AAIP2----1A----</AM>
 <AM lemma="nezbytný" src="auto">AAIP6----1A----</AM>

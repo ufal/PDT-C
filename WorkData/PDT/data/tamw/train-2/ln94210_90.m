@@ -4385,7 +4385,7 @@
 <form>mn</form>
 <tag>
 <AM lemma="mnoho-1_:B_,a" src="auto">Ca--X---------8</AM>
-<AM lemma="mnoho-1" src="manual" selected="1">Ca--X---------8</AM>
+<AM lemma="mn-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-90-p5s10w58">

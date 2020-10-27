@@ -1129,7 +1129,7 @@
 <LM>w#w-mf930713-028-p2s6w6</LM>
 </w.rf>
 <form>panu</form>
-<tag lemma="pan_^(oslovení)" src="auto" selected="1">NNMS6-----A----</tag>
+<tag lemma="pan" src="auto" selected="1">NNMS6-----A---1</tag>
 </m>
 <m id="m-mf930713-028-p2s6w7">
 <src.rf>manual</src.rf>

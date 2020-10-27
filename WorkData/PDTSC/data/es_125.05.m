@@ -5128,7 +5128,7 @@
 <AM lemma="folklór" src="auto">NNIS6-----A----</AM>
 <AM lemma="folklor" src="auto">NNIS2-----A----</AM>
 <AM lemma="folklor" src="auto">NNIS3-----A----</AM>
-<AM lemma="folklor" src="auto" recommended="1">NNIS6-----A---1</AM>
+<AM lemma="folklor_,s_^(^DD**folklór)" src="auto" recommended="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m125-d1t960-26">

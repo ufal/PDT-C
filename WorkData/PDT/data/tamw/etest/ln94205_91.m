@@ -712,7 +712,7 @@
 <LM>w#w-ln94205-91-p2s3w1</LM>
 </w.rf>
 <form>Hodiny</form>
-<tag lemma="hodina_^(jednotka_času)" src="orig" selected="1">NNFP1-----A----</tag>
+<tag lemma="hodina" src="orig" selected="1">NNFP1-----A----</tag>
 </m>
 <m id="m-ln94205-91-p2s3w2">
 <src.rf>manual</src.rf>
@@ -4256,7 +4256,7 @@
 <tag>
 <AM lemma="konkurs_^(úpadek;;soutěž)" src="auto">NNIS6-----A---1</AM>
 <AM lemma="konkurz" src="manual">NNIS6-----A---1</AM>
-<AM lemma="konkurz" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="konkurz" src="manual" selected="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln94205-91-p7s1w8">

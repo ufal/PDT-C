@@ -19122,7 +19122,7 @@
 <AM lemma="image-2" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="image" src="auto">NNNXX-----A----</AM>
 <AM lemma="image" src="auto">NNXXX-----A----</AM>
-<AM lemma="image-2" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="image-2" src="manual" selected="1">NNIS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-wsj0589-001-p1s63W5-Ta">

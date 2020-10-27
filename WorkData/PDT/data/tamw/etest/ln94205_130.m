@@ -2106,7 +2106,7 @@
 <LM>w#w-ln94205-130-p3s8Bw8</LM>
 </w.rf>
 <form>nestál</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VpYS----R-NAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m-ln94205-130-p3s8Bw9">
 <src.rf>manual</src.rf>
@@ -6134,7 +6134,7 @@
 <LM>w#w-ln94205-130-p8s2Bw2</LM>
 </w.rf>
 <form>pár</form>
-<tag lemma="pár-1" src="orig" selected="1">ClXP7----------</tag>
+<tag lemma="pár-1" src="orig" selected="1">Ca--X----------</tag>
 </m>
 <m id="m-ln94205-130-p8s2Bw3">
 <src.rf>manual</src.rf>
@@ -7330,7 +7330,7 @@
 <LM>w#w-ln94205-130-p9s11w11</LM>
 </w.rf>
 <form>nestál</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VpYS----R-NAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m-ln94205-130-p9s11w12">
 <src.rf>manual</src.rf>

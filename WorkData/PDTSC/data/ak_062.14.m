@@ -153,7 +153,7 @@
 <form>Rusem</form>
 <tag>
 <AM lemma="Rus-2_;G_^(Rusko)" src="auto">NNFP3-----A---1</AM>
-<AM lemma="Rus_;E" src="auto" recommended="1">NNMS7-----A----</AM>
+<AM lemma="Rus-1_;E" src="auto" recommended="1">NNMS7-----A----</AM>
 <AM lemma="Ruse-1_;Y" src="auto">NNMS6-----A----</AM>
 <AM lemma="Ruse-1_;Y" src="auto">NNMS7-----A----</AM>
 <AM lemma="rus_^(druh_švába)" src="auto">NNMS7-----A----</AM>
@@ -3622,7 +3622,7 @@
 </w.rf>
 <form>Rusy</form>
 <tag>
-<AM lemma="Rus_;E" src="auto" recommended="1">NNMP4-----A----</AM>
+<AM lemma="Rus-1_;E" src="auto" recommended="1">NNMP4-----A----</AM>
 <AM lemma="Rus_;E" src="auto">NNMP7-----A----</AM>
 <AM lemma="rus_^(druh_švába)" src="auto">NNMP4-----A----</AM>
 <AM lemma="rus_^(druh_švába)" src="auto">NNMP7-----A----</AM>

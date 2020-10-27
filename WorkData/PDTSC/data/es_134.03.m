@@ -4838,7 +4838,7 @@
 <AM lemma="oční" src="auto">AANS1----1A----</AM>
 <AM lemma="oční" src="auto">AANS4----1A----</AM>
 <AM lemma="oční" src="auto">AANS5----1A----</AM>
-<AM lemma="oční-2" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="oční" src="manual" selected="1">AANS1----1A----</AM>
 </tag>
 </m>
 <m id="m134-d-id98899-punct">
@@ -4966,7 +4966,7 @@
 <AM lemma="oční" src="auto">AANS1----1A----</AM>
 <AM lemma="oční" src="auto">AANS4----1A----</AM>
 <AM lemma="oční" src="auto">AANS5----1A----</AM>
-<AM lemma="oční-2" src="manual" selected="1">NNNS4-----A----</AM>
+<AM lemma="oční" src="manual" selected="1">AANS4----1A----</AM>
 </tag>
 </m>
 <m id="m134-d-id99047-punct">
@@ -5009,7 +5009,7 @@
 <AM lemma="ušní" src="auto">AANS1----1A----</AM>
 <AM lemma="ušní" src="auto">AANS4----1A----</AM>
 <AM lemma="ušní" src="auto">AANS5----1A----</AM>
-<AM lemma="ušní-2" src="manual" selected="1">NNNS4-----A----</AM>
+<AM lemma="ušní" src="manual" selected="1">AANS4----1A----</AM>
 </tag>
 </m>
 <m id="m134-d1t479-5">
@@ -5659,7 +5659,7 @@
 <AM lemma="oční" src="auto">AANS1----1A----</AM>
 <AM lemma="oční" src="auto">AANS4----1A----</AM>
 <AM lemma="oční" src="auto">AANS5----1A----</AM>
-<AM lemma="oční-2" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="oční" src="manual" selected="1">AANS1----1A----</AM>
 </tag>
 </m>
 <m id="m134-d-id100147-punct">
@@ -5702,7 +5702,7 @@
 <AM lemma="ušní" src="auto">AANS1----1A----</AM>
 <AM lemma="ušní" src="auto">AANS4----1A----</AM>
 <AM lemma="ušní" src="auto">AANS5----1A----</AM>
-<AM lemma="ušní-2" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="ušní" src="manual" selected="1">AANS1----1A----</AM>
 </tag>
 </m>
 <m id="m134-64-73">
@@ -5811,7 +5811,7 @@
 <AM lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="auto">AAMP2----2A----</AM>
 <AM lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="auto">AAMP6----2A----</AM>
 <AM lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="auto">AANP2----2A----</AM>
-<AM lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="auto" recommended="1">AANP6----2A----</AM>
+<AM lemma="pozdější" src="auto" recommended="1">AANP6----1A----</AM>
 </tag>
 </m>
 <m id="m134-d1t486-16">

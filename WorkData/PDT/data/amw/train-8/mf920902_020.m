@@ -392,7 +392,7 @@
 <tag>
 <AM lemma="Golf_;m_^(vozidlo)" src="auto">NNIS1-----A----</AM>
 <AM lemma="Golf_;m_^(vozidlo)" src="manual">NNIS1-----A----</AM>
-<AM lemma="golf-1_^(sport)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="golf" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920902-020-p2s3Aw3">

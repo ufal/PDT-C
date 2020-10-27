@@ -1571,7 +1571,7 @@
 <LM>w#w-mf930708-139-p4s1w24</LM>
 </w.rf>
 <form>pár</form>
-<tag lemma="pár-1" src="orig" selected="1">ClXP7----------</tag>
+<tag lemma="pár-1" src="orig" selected="1">Ca--X----------</tag>
 </m>
 <m id="m-mf930708-139-p4s1w25">
 <src.rf>manual</src.rf>

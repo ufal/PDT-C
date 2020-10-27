@@ -1433,7 +1433,7 @@
 </w.rf>
 <form>l</form>
 <tag>
-<AM lemma="linka" src="orig" selected="1">BNFXX-----A---1</AM>
+<AM lemma="l-33" src="orig" selected="1">Q3-------------</AM>
 <AM lemma="l-33" src="auto">Q3-------------</AM>
 <AM lemma="l-4_^(graf._oddělovač)" src="auto">Z:-------------</AM>
 <AM lemma="l-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>

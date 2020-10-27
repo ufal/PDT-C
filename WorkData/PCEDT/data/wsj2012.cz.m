@@ -2471,7 +2471,7 @@
 <tag>
 <AM lemma="neefektivnost" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="neefektivnost" src="auto">NNFS4-----A----</AM>
-<AM lemma="efektivnost" src="manual" selected="1">NNFS4-----N----</AM>
+<AM lemma="neefektivnost" src="manual" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2012-001-p1s6W19-Ta">

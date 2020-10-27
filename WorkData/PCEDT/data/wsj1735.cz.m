@@ -12126,7 +12126,7 @@
 <AM lemma="H-33" src="auto">Q3-------------</AM>
 <AM lemma="H-33" src="auto">Q3-------------</AM>
 <AM lemma="H-33" src="auto">Q3-------------</AM>
-<AM lemma="h-88" src="auto" recommended="1">BNXXX-----A----</AM>
+<AM lemma="H-33" src="auto" recommended="1">Q3-------------</AM>
 <AM lemma="hodina" src="auto">NNFXX-----A---8</AM>
 <AM lemma="hodinový" src="auto">AAXXX----1A---8</AM>
 </tag>

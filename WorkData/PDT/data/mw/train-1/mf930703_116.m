@@ -3314,7 +3314,7 @@
 <LM>w#w-mf930703-116-p9s4w3</LM>
 </w.rf>
 <form>desetitisíce</form>
-<tag lemma="desetitisíc" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="desetitisíc`10000" src="orig" selected="1">CzIP1----------</tag>
 </m>
 <m id="m-mf930703-116-p9s4w4">
 <src.rf>manual</src.rf>

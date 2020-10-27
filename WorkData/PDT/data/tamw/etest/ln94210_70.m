@@ -214,7 +214,7 @@
 <LM>w#w-ln94210-70-p2s2w6</LM>
 </w.rf>
 <form>Poláka</form>
-<tag lemma="Polák_;E" src="orig" selected="1">NNMS4-----A----</tag>
+<tag lemma="Polák_;E_;Y" src="orig" selected="1">NNMS4-----A----</tag>
 </m>
 <m id="m-ln94210-70-p2s2w7">
 <src.rf>manual</src.rf>

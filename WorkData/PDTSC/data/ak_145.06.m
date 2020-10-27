@@ -3411,7 +3411,7 @@
 <form>trabanta</form>
 <tag>
 <AM lemma="trabant_;m" src="auto">NNIS2-----A---1</AM>
-<AM lemma="trabant_;m" src="auto" recommended="1">NNMS4-----A----</AM>
+<AM lemma="trabant" src="auto" recommended="1">NNIS4-----A---1</AM>
 </tag>
 </m>
 <m id="m145-d-m-d1e1206-x3-punct-punct">
@@ -3694,7 +3694,7 @@
 <AM lemma="Trabant_;m_^(vozidlo)" src="auto">NNIP5-----A----</AM>
 <AM lemma="Trabant_;m_^(vozidlo)" src="auto">NNIP7-----A----</AM>
 <AM lemma="trabant_;m" src="auto">NNIP1-----A----</AM>
-<AM lemma="trabant_;m" src="auto" recommended="1">NNIP4-----A----</AM>
+<AM lemma="Trabant_;m_^(vozidlo)" src="auto" recommended="1">NNIP4-----A----</AM>
 <AM lemma="trabant_;m" src="auto">NNIP5-----A----</AM>
 <AM lemma="trabant_;m" src="auto">NNIP7-----A----</AM>
 </tag>

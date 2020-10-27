@@ -8128,7 +8128,7 @@
 <LM>w#w-ln95049-036-p6s5w8</LM>
 </w.rf>
 <form>pár</form>
-<tag lemma="pár-1" src="orig" selected="1">ClXP3----------</tag>
+<tag lemma="pár-1" src="orig" selected="1">Ca--X----------</tag>
 </m>
 <m id="m-ln95049-036-p6s5w9">
 <src.rf>manual</src.rf>

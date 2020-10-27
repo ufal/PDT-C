@@ -3392,7 +3392,7 @@
 <LM>w#w-ln95047-037-p7s5w43</LM>
 </w.rf>
 <form>snazší</form>
-<tag lemma="snadný" src="orig" selected="1">AAFS4----2A----</tag>
+<tag lemma="snadný" src="orig" selected="1">AAFS4----2A---1</tag>
 </m>
 <m id="m-ln95047-037-p7s5w44">
 <src.rf>manual</src.rf>

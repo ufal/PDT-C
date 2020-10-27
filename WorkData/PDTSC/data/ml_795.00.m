@@ -4372,7 +4372,7 @@
 <AM lemma="postit" src="auto">Vi-S---3--A-I-4</AM>
 <AM lemma="postit" src="auto" recommended="1">Vi-S---2--A-I--</AM>
 <AM lemma="post" src="manual">NNMP1-----A---1</AM>
-<AM lemma="post-3" src="manual" selected="1">NNMP1-----A----</AM>
+<AM lemma="post-3" src="manual" selected="1">NNMP1-----A---1</AM>
 </tag>
 </m>
 <m id="m795-d1e29-x15-184">

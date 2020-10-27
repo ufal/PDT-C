@@ -8749,7 +8749,7 @@
 <LM>w#w-vesm9301-047-p15s4w47</LM>
 </w.rf>
 <form>nejčistší</form>
-<tag lemma="čistý" src="orig" selected="1">AAFS6----3A----</tag>
+<tag lemma="čistý" src="orig" selected="1">AAFS6----3A---1</tag>
 </m>
 <m id="m-vesm9301-047-p15s4w48">
 <src.rf>manual</src.rf>
@@ -9965,7 +9965,7 @@
 <LM>w#w-vesm9301-047-p16s7w5</LM>
 </w.rf>
 <form>vhod</form>
-<tag lemma="vhod-2" src="auto" selected="1">Db-------------</tag>
+<tag lemma="vhod-2" src="auto" selected="1">Dg-------1A----</tag>
 </m>
 <m id="m-vesm9301-047-p16s7w6">
 <src.rf>manual</src.rf>

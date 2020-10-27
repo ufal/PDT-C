@@ -51,7 +51,7 @@
 <LM>w#w-mf930708-074-p1s1w5</LM>
 </w.rf>
 <form>Radiu</form>
-<tag lemma="rádium" src="orig" selected="1">NNNS3-----A----</tag>
+<tag lemma="radium_,s_^(^DD**rádium)" src="orig" selected="1">NNNS3-----A----</tag>
 </m>
 <m id="m-mf930708-074-p1s1w6">
 <src.rf>manual</src.rf>
@@ -272,7 +272,7 @@
 <LM>w#w-mf930708-074-p2s2w2</LM>
 </w.rf>
 <form>Radiu</form>
-<tag lemma="rádio_,a" src="orig" selected="1">NNNS3-----A----</tag>
+<tag lemma="radio-1_,s_^(^DD**rádio)" src="orig" selected="1">NNNS3-----A----</tag>
 </m>
 <m id="m-mf930708-074-p2s2w3">
 <src.rf>manual</src.rf>
@@ -447,7 +447,7 @@
 <LM>w#w-mf930708-074-p2s4w5</LM>
 </w.rf>
 <form>Radia</form>
-<tag lemma="rádio_,a" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="radio-1_,s_^(^DD**rádio)" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-mf930708-074-p2s4w6">
 <src.rf>manual</src.rf>

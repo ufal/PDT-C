@@ -285,7 +285,7 @@
 <LM>w#w-lnd92256-061-p2s2w26</LM>
 </w.rf>
 <form>pozdější</form>
-<tag lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="orig" selected="1">AAFS4----2A----</tag>
+<tag lemma="pozdější" src="orig" selected="1">AAFS4----1A----</tag>
 </m>
 <m id="m-lnd92256-061-p2s2w27">
 <src.rf>manual</src.rf>

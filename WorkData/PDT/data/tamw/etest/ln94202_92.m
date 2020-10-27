@@ -2155,7 +2155,7 @@
 <LM>w#w-ln94202-92-p5s1w15</LM>
 </w.rf>
 <form>ND</form>
-<tag lemma="ND_;m_^(Nár._divadlo)" src="orig" selected="1">NNNXX-----A---b</tag>
+<tag lemma="ND-88" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94202-92-p5s1w16">
 <src.rf>manual</src.rf>
@@ -2316,7 +2316,7 @@
 <LM>w#w-ln94202-92-p5s2w6</LM>
 </w.rf>
 <form>ND</form>
-<tag lemma="ND_;m_^(Nár._divadlo)" src="orig" selected="1">NNNXX-----A---b</tag>
+<tag lemma="ND-88" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94202-92-p5s2w7">
 <src.rf>manual</src.rf>
@@ -2635,7 +2635,7 @@
 <LM>w#w-ln94202-92-p5s2w45</LM>
 </w.rf>
 <form>Joyce</form>
-<tag lemma="Joyce_;Y" src="orig" selected="1">NNMS2-----A----</tag>
+<tag lemma="Joyce-1_;Y" src="orig" selected="1">NNMXX-----A----</tag>
 </m>
 <m id="m-ln94202-92-p5s2w46">
 <src.rf>manual</src.rf>

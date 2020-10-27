@@ -2510,7 +2510,7 @@
 <LM>w#w-ln94201-96-p7s2w22</LM>
 </w.rf>
 <form>virus</form>
-<tag lemma="vir" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="vir-1" src="orig" selected="1">NNIS1-----A---1</tag>
 </m>
 <m id="m-ln94201-96-p7s2w23">
 <src.rf>manual</src.rf>
@@ -2860,7 +2860,7 @@
 <LM>w#w-ln94201-96-p7s4w21</LM>
 </w.rf>
 <form>virus</form>
-<tag lemma="vir" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="vir-1" src="orig" selected="1">NNIS1-----A---1</tag>
 </m>
 <m id="m-ln94201-96-p7s4w22">
 <src.rf>manual</src.rf>

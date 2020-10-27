@@ -27100,7 +27100,7 @@
 <tag>
 <AM lemma="Lincoln-2_;Y" src="auto">NNMS3-----A---1</AM>
 <AM lemma="Lincoln-2_;Y" src="auto">NNMS6-----A---1</AM>
-<AM lemma="Lincoln-3_;G" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="Lincoln-3_;G_;m" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="Lincoln-3_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="Lincoln-3_;G" src="auto">NNIS6-----A----</AM>
 <AM lemma="Lincoln-1_;m_^(vozidlo)" src="auto">NNIS2-----A----</AM>

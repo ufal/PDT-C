@@ -253,7 +253,7 @@
 <form>přísluší</form>
 <tag>
 <AM lemma="příslušet" src="auto">VB-P---3P-AA---</AM>
-<AM lemma="příslušet" src="manual" selected="1">VB-P---3P-AAI--</AM>
+<AM lemma="příslušet" src="manual" selected="1">VB-P---3P-AAI-1</AM>
 </tag>
 </m>
 <m id="m-mf930701-104-p2s1w26">

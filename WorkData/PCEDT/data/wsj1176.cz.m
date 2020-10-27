@@ -922,7 +922,7 @@
 <form>řek</form>
 <tag>
 <AM lemma="říci" src="auto">VmYS------A-P--</AM>
-<AM lemma="říci" src="auto" selected="1">VpYS----R-AAP-6</AM>
+<AM lemma="říci" src="auto" selected="1">VpYS----R-AAP-7</AM>
 <AM lemma="řeka" src="auto" recommended="1">NNFP2-----A----</AM>
 </tag>
 </m>

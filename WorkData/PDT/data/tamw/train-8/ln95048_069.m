@@ -4882,7 +4882,7 @@
 <LM>w#w-ln95048-069-p8s1w9</LM>
 </w.rf>
 <form>stály</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VpTP----R-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln95048-069-p8s1w10">
 <src.rf>manual</src.rf>

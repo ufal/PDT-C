@@ -2053,7 +2053,7 @@
 <AM lemma="lesní" src="auto">AANP3----1A----</AM>
 <AM lemma="lesní" src="auto">AANS6----1A----</AM>
 <AM lemma="lesní" src="auto">AANS7----1A----</AM>
-<AM lemma="lesní-2" src="manual" selected="1">NNMS7-----A----</AM>
+<AM lemma="lesní" src="manual" selected="1">AAMS7----1A----</AM>
 </tag>
 </m>
 <m id="m110-d1t2230-3">
@@ -3254,7 +3254,7 @@
 <form>pong</form>
 <tag>
 <AM lemma="pong_^(jen_ve_spojení_ping-pong)" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="pong_^(jen_ve_spojení_ping-pong)" src="auto" selected="1">NNIS4-----A----</AM>
+<AM lemma="pong" src="auto" selected="1">SNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m110-265-268">

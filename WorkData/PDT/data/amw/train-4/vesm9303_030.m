@@ -3613,7 +3613,7 @@
 <LM>w#w-vesm9303-030-p2s14w36</LM>
 </w.rf>
 <form>nečistší</form>
-<tag lemma="čistý" src="orig" selected="1">AAFS2----2N----</tag>
+<tag lemma="čistý" src="orig" selected="1">AAFS2----2N---1</tag>
 </m>
 <m id="m-vesm9303-030-p2s14w37">
 <src.rf>manual</src.rf>

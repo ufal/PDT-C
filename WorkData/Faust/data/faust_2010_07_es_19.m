@@ -5905,7 +5905,7 @@
 <AM lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)">AANS1----2A----</AM>
 <AM lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)">AANS4----2A----</AM>
 <AM lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)">AANS5----2A----</AM>
-<AM lemma="pozdní" src="manual" selected="1">AAIS1----2A----</AM>
+<AM lemma="pozdější" src="manual" selected="1">AAIS1----1A----</AM>
 </tag>
 </m>
 </s>
@@ -7289,7 +7289,7 @@
 <LM>w#w-es_19-SCzechM-p2080-s1-w6</LM>
 </w.rf>
 <form>></form>
-<tag lemma=">" recommended="1">Z:-------------</tag>
+<tag lemma="&gt;" recommended="1">Z:-------------</tag>
 </m>
 <m id="es_19-SCzechM-p2080-s1-w7">
 <w.rf>

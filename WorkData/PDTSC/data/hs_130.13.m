@@ -3276,7 +3276,7 @@
 <AM lemma="Vysoká-2_;G" src="auto">NNFP5-----A----</AM>
 <AM lemma="Vysoká-2_;G" src="auto">NNFS2-----A----</AM>
 <AM lemma="Vysoká-2_;G" src="auto">NNFS3-----A----</AM>
-<AM lemma="Vysoká-2_;G" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="Vysoká_;G_;Y" src="auto" recommended="1">NNFS6-----A----</AM>
 <AM lemma="Vysoká_;Y" src="auto">NNFP1-----A----</AM>
 <AM lemma="Vysoká_;Y" src="auto">NNFP4-----A----</AM>
 <AM lemma="Vysoká_;Y" src="auto">NNFP5-----A----</AM>

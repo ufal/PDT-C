@@ -2087,7 +2087,7 @@
 <LM>w#w-ln94201-124-p4s6w10</LM>
 </w.rf>
 <form>Čtvero</form>
-<tag lemma="čtvero" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="čtvero`4" src="orig" selected="1">CjNS1----------</tag>
 </m>
 <m id="m-ln94201-124-p4s6w11">
 <src.rf>manual</src.rf>

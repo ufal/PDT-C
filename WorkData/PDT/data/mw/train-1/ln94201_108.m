@@ -18917,7 +18917,7 @@
 <form>Stát</form>
 <tag>
 <AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig">Vf--------A----</AM>
-<AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="manual" selected="1">Vf--------A-I--</AM>
+<AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">Vf--------A-I--</AM>
 </tag>
 </m>
 <m id="m-ln94201-108-p80s6w2">
@@ -24033,7 +24033,7 @@
 <form>Stáli</form>
 <tag>
 <AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig">VpMP---XR-AA---</AM>
-<AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="manual" selected="1">VpMP----R-AAI--</AM>
+<AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">VpMP----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-ln94201-108-p92s6w2">

@@ -86,7 +86,7 @@
 <LM>w#w-ln94208-92-p1s1w9</LM>
 </w.rf>
 <form>Lipnici</form>
-<tag lemma="Lipnice" src="auto" selected="1">NNFS6-----A----</tag>
+<tag lemma="Lipnice_;G" src="auto" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94208-92-p1s1w10">
 <src.rf>manual</src.rf>
@@ -254,7 +254,7 @@
 <LM>w#w-ln94208-92-p2s1w18</LM>
 </w.rf>
 <form>Lipnici</form>
-<tag lemma="Lipnice" src="auto" selected="1">NNFS6-----A----</tag>
+<tag lemma="Lipnice_;G" src="auto" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-ln94208-92-p2s1w19">
 <src.rf>manual</src.rf>

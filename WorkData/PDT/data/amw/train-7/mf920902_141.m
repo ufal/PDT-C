@@ -1120,7 +1120,7 @@
 <tag>
 <AM lemma="kasárna" src="orig">NNNP4-----A----</AM>
 <AM lemma="kasárna" src="auto">NNNP1-----A---1</AM>
-<AM lemma="kasárna" src="auto" recommended="1" selected="1">NNNP4-----A---1</AM>
+<AM lemma="kasárna" src="auto" recommended="1" selected="1">NNNP4-----A----</AM>
 <AM lemma="kasárna" src="auto">NNNP5-----A---1</AM>
 </tag>
 </m>

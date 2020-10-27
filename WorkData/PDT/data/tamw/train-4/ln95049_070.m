@@ -3779,7 +3779,7 @@
 <LM>w#w-ln95049-070-p11s1w8</LM>
 </w.rf>
 <form>sen</form>
-<tag lemma="sen" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="sen-1" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln95049-070-p11s1w9">
 <src.rf>manual</src.rf>
@@ -3811,7 +3811,7 @@
 <LM>w#w-ln95049-070-p11s1w12</LM>
 </w.rf>
 <form>sen</form>
-<tag lemma="sen" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="sen-1" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln95049-070-p11s1w13">
 <src.rf>manual</src.rf>

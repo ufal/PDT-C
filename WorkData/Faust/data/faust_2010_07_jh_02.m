@@ -5494,7 +5494,7 @@
 <AM lemma="PC-1_:B_;m_^(personal_computer,_osobní_počítač)" recommended="1">NNNXX-----A---8</AM>
 <AM lemma="PC-1_:B_,t_^(personal_computer)">NNIXX-----A---8</AM>
 <AM lemma="parsek_:B">NNIXX-----A---8</AM>
-<AM lemma="PC-1_^(personal_computer,_osobní_počítač)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="PC_^(personal_computer,_osobní_počítač)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="jh_02-SCzechM-p0167-s1-w3">

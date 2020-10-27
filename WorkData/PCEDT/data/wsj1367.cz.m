@@ -17834,7 +17834,7 @@
 <form>Rusa</form>
 <tag>
 <AM lemma="Rus_;E" src="auto">NNMS2-----A----</AM>
-<AM lemma="Rus_;E" src="auto" recommended="1">NNMS4-----A----</AM>
+<AM lemma="Rus-1_;E" src="auto" recommended="1">NNMS4-----A----</AM>
 <AM lemma="rus_^(druh_švába)" src="auto">NNMS2-----A----</AM>
 <AM lemma="rus_^(druh_švába)" src="auto">NNMS4-----A----</AM>
 </tag>

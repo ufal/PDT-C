@@ -2672,7 +2672,7 @@
 <LM>w#w-ln95049-134-p3s6w4</LM>
 </w.rf>
 <form>Oplu</form>
-<tag lemma="Opel_;m" src="auto" selected="1">NNIS3-----A----</tag>
+<tag lemma="Opel_;m" src="auto" selected="1">NNIS3-----A---1</tag>
 </m>
 <m id="m-ln95049-134-p3s6w5">
 <src.rf>manual</src.rf>

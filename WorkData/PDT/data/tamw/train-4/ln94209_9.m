@@ -2373,7 +2373,7 @@
 <form>image</form>
 <tag>
 <AM lemma="image-2" src="orig">NNIXX-----A----</AM>
-<AM lemma="image-2" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="image-2" src="manual" selected="1">NNIS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln94209-9-p6s1w8">

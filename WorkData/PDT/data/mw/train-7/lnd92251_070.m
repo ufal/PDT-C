@@ -29,7 +29,7 @@
 <form>LN</form>
 <tag>
 <AM lemma="LN-2_:B_;m_^(Lidové_noviny,_nakl.)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="LN-1_;m_^(Lidové_noviny,_nakl.)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="LN-1_;m_^(Lidové_noviny)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 </s>
@@ -1417,7 +1417,7 @@
 </w.rf>
 <form>l</form>
 <tag>
-<AM lemma="linka" src="orig" selected="1">NNFXX-----A---b</AM>
+<AM lemma="l-33" src="orig" selected="1">Q3-------------</AM>
 <AM lemma="l-33" src="auto">Q3-------------</AM>
 <AM lemma="l-4_^(graf._oddělovač)" src="auto">Z:-------------</AM>
 <AM lemma="l-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>

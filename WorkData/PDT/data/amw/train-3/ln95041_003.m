@@ -1154,7 +1154,7 @@
 <LM>w#w-ln95041-003-p4s2w2</LM>
 </w.rf>
 <form>exportu</form>
-<tag lemma="export" src="orig" selected="1">NNIS6-----A----</tag>
+<tag lemma="export" src="orig" selected="1">NNIS6-----A---1</tag>
 </m>
 <m id="m-ln95041-003-p4s2w3">
 <src.rf>manual</src.rf>

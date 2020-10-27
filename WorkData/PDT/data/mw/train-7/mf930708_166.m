@@ -764,7 +764,7 @@
 <LM>w#w-mf930708-166-p4s1w8</LM>
 </w.rf>
 <form>ES</form>
-<tag lemma="ES_;m_^(Evropská_společenství)" src="orig" selected="1">NNNXX-----A---b</tag>
+<tag lemma="ES-88" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf930708-166-p4s1w9">
 <src.rf>manual</src.rf>

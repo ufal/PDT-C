@@ -947,7 +947,7 @@
 <AM lemma="pluralizmus" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="pluralizmus" src="auto">NNIS3-----A----</AM>
 <AM lemma="pluralizmus" src="auto">NNIS6-----A----</AM>
-<AM lemma="pluralismus_,s_^(^DD**pluralizmus)" src="manual" selected="1">NNIS2-----A---1</AM>
+<AM lemma="pluralismus_,s_^(^DD**pluralizmus)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-063-p6s2w7">
@@ -13218,7 +13218,7 @@
 <LM>w#w-lnd91303-063-p25s5w13</LM>
 </w.rf>
 <form>x</form>
-<tag lemma="x-4_^(graf._oddělovač)" src="orig" selected="1">Z:-------------</tag>
+<tag lemma="x-33" src="orig" selected="1">Q3-------------</tag>
 </m>
 <m id="m-lnd91303-063-p25s5w14">
 <src.rf>manual</src.rf>
@@ -13251,7 +13251,7 @@
 <LM>w#w-lnd91303-063-p25s5w17</LM>
 </w.rf>
 <form>x</form>
-<tag lemma="x-4_^(graf._oddělovač)" src="orig" selected="1">Z:-------------</tag>
+<tag lemma="x-33" src="orig" selected="1">Q3-------------</tag>
 </m>
 <m id="m-lnd91303-063-p25s5w18">
 <src.rf>manual</src.rf>

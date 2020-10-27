@@ -1742,7 +1742,7 @@
 </w.rf>
 <form>pozdějšímu</form>
 <tag>
-<AM lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="auto" recommended="1">AAIS3----2A----</AM>
+<AM lemma="pozdější" src="auto" recommended="1">AAIS3----1A----</AM>
 <AM lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="auto">AAMS3----2A----</AM>
 <AM lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="auto">AANS3----2A----</AM>
 </tag>

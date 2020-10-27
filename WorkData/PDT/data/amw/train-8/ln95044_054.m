@@ -4804,7 +4804,7 @@
 <form>m</form>
 <tag>
 <AM lemma="město_:B" src="orig">NNNXX-----A---8</AM>
-<AM lemma="město" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="m-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95044-054-p7s4w5">

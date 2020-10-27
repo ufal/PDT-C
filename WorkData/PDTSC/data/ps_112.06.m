@@ -725,7 +725,7 @@
 <AM lemma="Talin_;G" src="auto">NNIS2-----A----</AM>
 <AM lemma="Talin_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="Talin_;G" src="auto" recommended="1">NNIS6-----A---1</AM>
-<AM lemma="Talin_;G_,s_^(^DD**Tallin)" src="manual" selected="1">NNIS6-----A---1</AM>
+<AM lemma="Talin_;G_,s_^(^DD**Tallinn)" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m112-d-id127347-punct">

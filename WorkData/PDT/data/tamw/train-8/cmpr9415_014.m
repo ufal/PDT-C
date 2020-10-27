@@ -1406,7 +1406,7 @@
 <form>Kuchyně</form>
 <tag>
 <AM lemma="kuchyně" src="orig">NNFS1-----A---1</AM>
-<AM lemma="kuchyně" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="kuchyň" src="manual" selected="1">NNFS1-----A---1</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-014-p9s10w2">

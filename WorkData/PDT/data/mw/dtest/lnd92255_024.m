@@ -493,7 +493,7 @@
 <LM>w#w-lnd92255-024-p3s3w23</LM>
 </w.rf>
 <form>m</form>
-<tag lemma="město" src="orig" selected="1">NNNXX-----A---b</tag>
+<tag lemma="m-33" src="orig" selected="1">Q3-------------</tag>
 </m>
 <m id="m-lnd92255-024-p3s3w24">
 <src.rf>manual</src.rf>

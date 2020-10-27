@@ -2669,7 +2669,7 @@
 <AM lemma="Marinos_;G" src="auto">NNMS2-----A----</AM>
 <AM lemma="Marinos_;G" src="auto">NNMS4-----A----</AM>
 <AM lemma="marina" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Marina_;G_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Marina_;G_;Y_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1712-001-p1s7W17-Ta">
@@ -3624,7 +3624,7 @@
 <tag>
 <AM lemma="marina" src="auto">NNFS3-----A----</AM>
 <AM lemma="marina" src="auto" recommended="1">NNFS6-----A----</AM>
-<AM lemma="Marina_;G_;m" src="manual" selected="1">NNFS6-----A----</AM>
+<AM lemma="Marina_;G_;Y_;m" src="manual" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1712-001-p1s11W10-Ta">
@@ -4184,7 +4184,7 @@
 <tag>
 <AM lemma="marina" src="auto">NNFS3-----A----</AM>
 <AM lemma="marina" src="auto" recommended="1">NNFS6-----A----</AM>
-<AM lemma="Marina_;G_;m" src="manual" selected="1">NNFS6-----A----</AM>
+<AM lemma="Marina_;G_;Y_;m" src="manual" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1712-001-p1s12W23-Ta">

@@ -39,7 +39,7 @@
 <form>Image</form>
 <tag>
 <AM lemma="image" src="orig">NNXXX-----A----</AM>
-<AM lemma="image-2" src="manual" selected="1">NNIP1-----A----</AM>
+<AM lemma="image-2" src="manual" selected="1">NNIP1-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln95048-070-p2s1Aw2">
@@ -2522,7 +2522,7 @@
 <AM lemma="image" src="orig">NNXXX-----A----</AM>
 <AM lemma="image-2" src="manual">NNIXX-----A----</AM>
 <AM lemma="image-1" src="manual">NNFS2-----A----</AM>
-<AM lemma="image-2" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="image-2" src="manual" selected="1">NNIS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln95048-070-p3s9w6">
@@ -2854,7 +2854,7 @@
 <tag>
 <AM lemma="image" src="orig">NNXXX-----A----</AM>
 <AM lemma="image-1" src="manual">NNIP1-----A----</AM>
-<AM lemma="image-2" src="manual" selected="1">NNIP1-----A----</AM>
+<AM lemma="image-2" src="manual" selected="1">NNIP1-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln95048-070-p4s1w3">
@@ -5482,7 +5482,7 @@
 <form>image</form>
 <tag>
 <AM lemma="image" src="orig">NNXXX-----A----</AM>
-<AM lemma="image" src="manual" selected="1">NNIP1-----A----</AM>
+<AM lemma="image-2" src="manual" selected="1">NNIP1-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln95048-070-p5s22w9">
@@ -6656,7 +6656,7 @@
 <form>image</form>
 <tag>
 <AM lemma="image-2" src="orig">NNIXX-----A----</AM>
-<AM lemma="image-2" src="manual" selected="1">NNIP1-----A----</AM>
+<AM lemma="image-2" src="manual" selected="1">NNIP1-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln95048-070-p6s6Bw3">
@@ -7641,7 +7641,7 @@
 <form>image</form>
 <tag>
 <AM lemma="image-2" src="orig">NNIXX-----A----</AM>
-<AM lemma="image-2" src="manual" selected="1">NNIP1-----A----</AM>
+<AM lemma="image-2" src="manual" selected="1">NNIP1-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln95048-070-p6s12w11">
@@ -7841,7 +7841,7 @@
 <form>image</form>
 <tag>
 <AM lemma="image" src="orig">NNXXX-----A----</AM>
-<AM lemma="image-2" src="manual" selected="1">NNIP1-----A----</AM>
+<AM lemma="image-2" src="manual" selected="1">NNIP1-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln95048-070-p6s13w7">
@@ -8206,7 +8206,7 @@
 <tag>
 <AM lemma="image" src="orig">NNXXX-----A----</AM>
 <AM lemma="image-2" src="manual">NNIS1-----A----</AM>
-<AM lemma="image-2" src="manual" selected="1">NNIP1-----A----</AM>
+<AM lemma="image-2" src="manual" selected="1">NNIP1-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln95048-070-p6s16w3">
@@ -8528,7 +8528,7 @@
 <form>image</form>
 <tag>
 <AM lemma="image-2" src="orig">NNIXX-----A----</AM>
-<AM lemma="image-2" src="manual" selected="1">NNIP1-----A----</AM>
+<AM lemma="image-2" src="manual" selected="1">NNIP1-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln95048-070-p7s1w3">
@@ -8555,7 +8555,7 @@
 <form>image</form>
 <tag>
 <AM lemma="image-2" src="orig">NNIXX-----A----</AM>
-<AM lemma="image-2" src="manual" selected="1">NNIP1-----A----</AM>
+<AM lemma="image-2" src="manual" selected="1">NNIP1-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln95048-070-p7s1w6">
@@ -8893,7 +8893,7 @@
 <form>Image</form>
 <tag>
 <AM lemma="image" src="orig">NNXXX-----A----</AM>
-<AM lemma="image-2" src="manual" selected="1">NNIP1-----A----</AM>
+<AM lemma="image-2" src="manual" selected="1">NNIP1-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln95048-070-p7s4w6">
@@ -9004,7 +9004,7 @@
 <AM lemma="image" src="orig">NNXXX-----A----</AM>
 <AM lemma="image-1" src="manual">NNFS2-----A----</AM>
 <AM lemma="image-2" src="manual">NNIXX-----A----</AM>
-<AM lemma="image-2" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="image-2" src="manual" selected="1">NNIS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln95048-070-p7s5w13">
@@ -9072,7 +9072,7 @@
 <tag>
 <AM lemma="image-1" src="orig">NNFXX-----A----</AM>
 <AM lemma="image-1" src="manual">NNFP1-----A----</AM>
-<AM lemma="image-2" src="manual" selected="1">NNIP1-----A----</AM>
+<AM lemma="image-2" src="manual" selected="1">NNIP1-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln95048-070-p7s5w21">
@@ -9419,7 +9419,7 @@
 <form>Image</form>
 <tag>
 <AM lemma="image" src="orig">NNXXX-----A----</AM>
-<AM lemma="image-2" src="manual" selected="1">NNIP1-----A----</AM>
+<AM lemma="image-2" src="manual" selected="1">NNIP1-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln95048-070-p7s9w2">
@@ -9632,7 +9632,7 @@
 <form>image</form>
 <tag>
 <AM lemma="image" src="orig">NNXXX-----A----</AM>
-<AM lemma="image-2" src="manual" selected="1">NNIP1-----A----</AM>
+<AM lemma="image-2" src="manual" selected="1">NNIP1-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln95048-070-p7s10Bw6">
@@ -10091,7 +10091,7 @@
 <tag>
 <AM lemma="image" src="orig">NNXXX-----A----</AM>
 <AM lemma="image-2" src="manual">NNIXX-----A----</AM>
-<AM lemma="image-2" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="image-2" src="manual" selected="1">NNIS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln95048-070-p8s1w3">

@@ -1196,7 +1196,7 @@
 <form>n</form>
 <tag>
 <AM lemma="nad-1_:B" src="orig">RR--7---------8</AM>
-<AM lemma="nad" src="manual" selected="1">RR--7---------8</AM>
+<AM lemma="nad-1" src="manual" selected="1">RR--7---------b</AM>
 </tag>
 </m>
 <m id="m-ln95043-012-p4s2w28">
@@ -1215,7 +1215,7 @@
 <form>R</form>
 <tag>
 <AM lemma="Rýn_:B_;G" src="auto">NNIS7-----A---8</AM>
-<AM lemma="Rýn_;G" src="manual" selected="1">NNIS7-----A---8</AM>
+<AM lemma="R-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-ln95043-012-p4s2w30">

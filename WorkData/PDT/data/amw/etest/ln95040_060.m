@@ -1550,7 +1550,7 @@
 <AM lemma="Purkyně_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="Purkyně_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Purkyně_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Purkyně_;Y" src="auto" selected="1">NNMS2-----A----</AM>
+<AM lemma="Purkyně_;Y" src="auto" selected="1">NNMS2-----A---1</AM>
 <AM lemma="Purkyně_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="Purkyně_;Y" src="auto">NNMS5-----A----</AM>
 </tag>

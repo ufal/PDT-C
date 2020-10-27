@@ -1015,7 +1015,7 @@
 <tag>
 <AM lemma="před-1_:B" recommended="1">RR--7---------8</AM>
 <AM lemma="příklad_:B">NNIXX-----A---8</AM>
-<AM lemma="přídavný" src="manual" selected="1">AAXXX----1A---a</AM>
+<AM lemma="př-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="jh_17-SCzechM-p1756-s1-w2">

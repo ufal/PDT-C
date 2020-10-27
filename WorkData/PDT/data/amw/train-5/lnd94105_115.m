@@ -37,7 +37,7 @@
 <form>Královopolské</form>
 <tag>
 <AM lemma="královopolský" src="orig">AAFS2----1A----</AM>
-<AM lemma="Královopolská_;G_;m" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="královopolský" src="manual" selected="1">AAFS2----1A----</AM>
 </tag>
 </m>
 </s>
@@ -92,7 +92,7 @@
 <form>Královopolské</form>
 <tag>
 <AM lemma="královopolský" src="orig">AAFS2----1A----</AM>
-<AM lemma="Královopolská_;G_;m" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="královopolský" src="manual" selected="1">AAFS2----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-115-p1s3w5">
@@ -532,7 +532,7 @@
 <form>Královopolská</form>
 <tag>
 <AM lemma="královopolský" src="orig">AAFS1----1A----</AM>
-<AM lemma="Královopolská_;G_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="královopolský" src="manual" selected="1">AAFS1----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-115-p1s6w2">

@@ -141,7 +141,7 @@
 <LM>w#w-mf920925-055-p2s1w14</LM>
 </w.rf>
 <form>Rotherhamu</form>
-<tag lemma="Rotherham_;G" src="orig" selected="1">NNIS6-----A---1</tag>
+<tag lemma="Rotherham_;G" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-mf920925-055-p2s1w15">
 <src.rf>manual</src.rf>
@@ -444,7 +444,7 @@
 <LM>w#w-mf920925-055-p3s2w4</LM>
 </w.rf>
 <form>Celtiku</form>
-<tag lemma="Celtik_;G" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Celtic_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf920925-055-p3s2w5">
 <src.rf>manual</src.rf>

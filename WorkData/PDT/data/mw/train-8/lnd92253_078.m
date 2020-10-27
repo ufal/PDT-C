@@ -1206,7 +1206,7 @@
 <LM>w#w-lnd92253-078-p2s5w69</LM>
 </w.rf>
 <form>Seat</form>
-<tag lemma="Seat-2_;m" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Seat_;m" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92253-078-p2s5w70">
 <src.rf>manual</src.rf>
@@ -1314,7 +1314,7 @@
 <LM>w#w-lnd92253-078-p2s5w81</LM>
 </w.rf>
 <form>Passat</form>
-<tag lemma="Passat_;m_^(vozidlo)" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Passat_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92253-078-p2s5w82">
 <src.rf>manual</src.rf>

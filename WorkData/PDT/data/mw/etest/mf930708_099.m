@@ -3066,7 +3066,7 @@
 <LM>w#w-mf930708-099-p5s2w10</LM>
 </w.rf>
 <form>pozdější</form>
-<tag lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="orig" selected="1">AAIS4----2A----</tag>
+<tag lemma="pozdější" src="orig" selected="1">AAIS4----1A----</tag>
 </m>
 <m id="m-mf930708-099-p5s2w11">
 <src.rf>manual</src.rf>
@@ -3443,7 +3443,7 @@
 <LM>w#w-mf930708-099-p6s2w4</LM>
 </w.rf>
 <form>pár</form>
-<tag lemma="pár-1" src="orig" selected="1">ClXP7----------</tag>
+<tag lemma="pár-1" src="orig" selected="1">Ca--X----------</tag>
 </m>
 <m id="m-mf930708-099-p6s2w5">
 <src.rf>manual</src.rf>

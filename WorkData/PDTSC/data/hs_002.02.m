@@ -3180,7 +3180,7 @@
 <AM lemma="snadný" src="auto">AAFP1----2A----</AM>
 <AM lemma="snadný" src="auto">AAFP4----2A----</AM>
 <AM lemma="snadný" src="auto">AAFP5----2A----</AM>
-<AM lemma="snadný" src="auto" selected="1">AAFS1----2A----</AM>
+<AM lemma="snadný" src="auto" selected="1">AAFS1----2A---1</AM>
 <AM lemma="snadný" src="auto">AAFS2----2A----</AM>
 <AM lemma="snadný" src="auto">AAFS3----2A----</AM>
 <AM lemma="snadný" src="auto">AAFS4----2A----</AM>

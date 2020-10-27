@@ -1268,7 +1268,7 @@
 </w.rf>
 <form>nesmírně</form>
 <tag>
-<AM lemma="nesmírně" src="auto" selected="1">Db-------------</AM>
+<AM lemma="nesmírně_^(*1ý)" src="auto" selected="1">Dg-------1A----</AM>
 <AM lemma="nesmírně_^(*1ý)" src="auto" recommended="1">Dg-------1A----</AM>
 <AM lemma="smírně_^(*1ý)" src="auto">Dg-------1N----</AM>
 </tag>
@@ -4608,7 +4608,7 @@
 </w.rf>
 <form>nesmírně</form>
 <tag>
-<AM lemma="nesmírně" src="auto" selected="1">Db-------------</AM>
+<AM lemma="nesmírně_^(*1ý)" src="auto" selected="1">Dg-------1A----</AM>
 <AM lemma="nesmírně_^(*1ý)" src="auto">Dg-------1A----</AM>
 <AM lemma="smírně_^(*1ý)" src="auto" recommended="1">Dg-------1N----</AM>
 </tag>

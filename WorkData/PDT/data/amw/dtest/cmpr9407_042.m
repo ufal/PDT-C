@@ -3402,7 +3402,7 @@
 <LM>w#w-cmpr9407-042-p39s6w5</LM>
 </w.rf>
 <form>statisíce</form>
-<tag lemma="stotisíc`100000" src="orig" selected="1">NNIP4-----A----</tag>
+<tag lemma="statisíc`100000" src="orig" selected="1">CzIP4----------</tag>
 </m>
 <m id="m-cmpr9407-042-p39s6w6">
 <src.rf>manual</src.rf>

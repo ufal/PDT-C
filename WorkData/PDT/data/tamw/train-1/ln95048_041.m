@@ -1321,7 +1321,7 @@
 </w.rf>
 <form>Poeovi</form>
 <tag>
-<AM lemma="Poe_;Y" src="orig" selected="1">NNMS3-----A----</AM>
+<AM lemma="Poe-1_;Y" src="orig" selected="1">NNMS3-----A---1</AM>
 <AM lemma="Poeův_;Y_^(*2)" src="auto">AUMP1M---------</AM>
 <AM lemma="Poeův_;Y_^(*2)" src="auto" recommended="1">AUMP5M---------</AM>
 </tag>

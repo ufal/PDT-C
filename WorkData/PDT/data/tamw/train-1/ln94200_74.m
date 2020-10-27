@@ -565,7 +565,7 @@
 <AM lemma="fi-1" src="auto">II-------------</AM>
 <AM lemma="fi-2_:B_,t_^(fiction,_angl._fantastický,_sci-fi)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="fi-2_^(jen_ve_spojení_sci-fi)" src="manual">NNXXX-----A----</AM>
-<AM lemma="fi-2_^(sci-fi;wi-fi)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="fi-2_^(sci-fi;wi-fi)" src="manual" selected="1">SNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-74-p4s1w6">

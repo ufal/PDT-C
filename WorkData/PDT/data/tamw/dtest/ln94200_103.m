@@ -1074,7 +1074,7 @@
 <LM>w#w-ln94200-103-p2s8w1</LM>
 </w.rf>
 <form>Snazší</form>
-<tag lemma="snadný" src="orig" selected="1">AANS1----2A----</tag>
+<tag lemma="snadný" src="orig" selected="1">AANS1----2A---1</tag>
 </m>
 <m id="m-ln94200-103-p2s8w2">
 <src.rf>manual</src.rf>

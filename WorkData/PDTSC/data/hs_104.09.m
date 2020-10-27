@@ -4349,7 +4349,7 @@
 <AM lemma="sedmery`7_^(*3)" src="auto">Cj-S6---------1</AM>
 <AM lemma="sedmery`7_^(*3)" src="auto">Cj-S7---------1</AM>
 <AM lemma="sedmery`7_^(*3)" src="auto">Ck-P7----------</AM>
-<AM lemma="sedmero" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="sedmero`7_^(*3)" src="auto" recommended="1">CjNS1----------</AM>
 <AM lemma="sedmero" src="auto">NNNS4-----A----</AM>
 <AM lemma="sedmero" src="auto">NNNS5-----A----</AM>
 </tag>

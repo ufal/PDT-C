@@ -574,7 +574,7 @@
 <form>Natural</form>
 <tag>
 <AM lemma="Natural_,t" src="auto">NNIS4-----A----</AM>
-<AM lemma="natural-1_;m" src="manual" selected="1">NNIS4-----A----</AM>
+<AM lemma="Natural_;m" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-027-p3s1w15">

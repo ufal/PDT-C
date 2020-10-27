@@ -349,7 +349,7 @@
 <form>ODA</form>
 <tag>
 <AM lemma="ODA-2_:B_;m_^(Občanská_demokratická_aliance)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="ODA-2_;m_^(Občanská_demokratická_aliance)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="ODA-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-099-p2s4w3">

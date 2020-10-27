@@ -3255,7 +3255,7 @@
 </w.rf>
 <form>pongu</form>
 <tag>
-<AM lemma="pong_^(jen_ve_spojení_ping-pong)" src="auto" selected="1">NNIS2-----A----</AM>
+<AM lemma="pong" src="auto" selected="1">SNIS2-----A----</AM>
 <AM lemma="pong_^(jen_ve_spojení_ping-pong)" src="auto">NNIS3-----A----</AM>
 <AM lemma="pong_^(jen_ve_spojení_ping-pong)" src="auto">NNIS5-----A----</AM>
 <AM lemma="pong_^(jen_ve_spojení_ping-pong)" src="auto" recommended="1">NNIS6-----A----</AM>

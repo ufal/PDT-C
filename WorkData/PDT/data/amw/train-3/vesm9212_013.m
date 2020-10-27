@@ -2557,7 +2557,7 @@
 <form>globu</form>
 <tag>
 <AM lemma="glóbus" src="orig">NNIS6-----A----</AM>
-<AM lemma="globus_,s_^(^DD**glóbus)" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="globus_,s_^(^DD**glóbus)" src="manual" selected="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-vesm9212-013-p7s3w8">

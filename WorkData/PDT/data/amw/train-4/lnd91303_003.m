@@ -662,7 +662,7 @@
 <LM>w#w-lnd91303-003-p4s1w8</LM>
 </w.rf>
 <form>dr</form>
-<tag lemma="doktor_^(doktor,_akad._titul)" src="orig" selected="1">NNMXX-----A---b</tag>
+<tag lemma="dr_^(doktor,_akad._titul)" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd91303-003-p4s1w9">
 <src.rf>manual</src.rf>

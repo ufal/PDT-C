@@ -4282,7 +4282,7 @@
 <AM lemma="mladistvý" src="auto">AANS1----1A----</AM>
 <AM lemma="mladistvý" src="auto">AANS4----1A----</AM>
 <AM lemma="mladistvý" src="auto">AANS5----1A----</AM>
-<AM lemma="mladistvý-2" src="manual" selected="1">NNMP4-----A----</AM>
+<AM lemma="mladistvý" src="manual" selected="1">AAMP4----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0098-001-p1s12W8-Ta">

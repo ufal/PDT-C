@@ -469,7 +469,7 @@
 <form>Krejčí</form>
 <tag>
 <AM lemma="krejčí" src="orig">NNMS1-----A----</AM>
-<AM lemma="Krejčí_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Krejčí-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-029-p1s4w10">

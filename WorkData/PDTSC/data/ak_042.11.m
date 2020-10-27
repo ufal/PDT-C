@@ -2073,7 +2073,7 @@
 <AM lemma="Slovan-2_;m" src="auto">NNIP5-----A----</AM>
 <AM lemma="Slovan-2_;m" src="auto">NNIP7-----A----</AM>
 <AM lemma="Slovany_;G" src="auto">NNFP1-----A----</AM>
-<AM lemma="Slovany_;G" src="auto" selected="1">NNFP4-----A----</AM>
+<AM lemma="Slovany_;G" src="auto" selected="1">NNIP4-----A----</AM>
 <AM lemma="Slovany_;G" src="auto">NNFP5-----A----</AM>
 </tag>
 </m>

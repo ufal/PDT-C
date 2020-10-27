@@ -461,7 +461,7 @@
 <AM lemma="nestabilita" src="auto">NNFP4-----A----</AM>
 <AM lemma="nestabilita" src="auto">NNFP5-----A----</AM>
 <AM lemma="nestabilita" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="stabilita" src="manual" selected="1">NNFS2-----N----</AM>
+<AM lemma="nestabilita" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2337-001-p1s1W5-Ta">
@@ -7161,7 +7161,7 @@
 <AM lemma="journal" src="auto">NNIS2-----A----</AM>
 <AM lemma="journal" src="auto">NNIS3-----A----</AM>
 <AM lemma="journal" src="auto" recommended="1">NNIS6-----A---1</AM>
-<AM lemma="Journal_;m" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="Journal_;m" src="manual" selected="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-wsj2337-001-p1s20W7-Ta">
@@ -12139,7 +12139,7 @@
 <tag>
 <AM lemma="nejistota" src="auto" recommended="1">NNFS3-----A----</AM>
 <AM lemma="nejistota" src="auto">NNFS6-----A----</AM>
-<AM lemma="jistota" src="manual" selected="1">NNFS3-----N----</AM>
+<AM lemma="nejistota" src="manual" selected="1">NNFS3-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2337-001-p1s34W10-Ta">

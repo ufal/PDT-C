@@ -253,7 +253,7 @@
 <LM>w#w-ln95043-025-p2s1Cw11</LM>
 </w.rf>
 <form>SP</form>
-<tag lemma="SP-3_^(Světový_pohár)" src="auto" selected="1">NNIXX-----A---b</tag>
+<tag lemma="SP-3_^(Světový_pohár)" src="auto" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln95043-025-p2s1Cw12">
 <src.rf>manual</src.rf>
@@ -871,7 +871,7 @@
 <LM>w#w-ln95043-025-p2s4w19</LM>
 </w.rf>
 <form>něhož</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS4----------</tag>
+<tag lemma="jenž_^(který_[ve_vedl.větě])" src="orig" selected="1">P4ZS4---------3</tag>
 </m>
 <m id="m-ln95043-025-p2s4w20">
 <src.rf>manual</src.rf>
@@ -919,7 +919,7 @@
 <LM>w#w-ln95043-025-p2s4w25</LM>
 </w.rf>
 <form>SP</form>
-<tag lemma="SP-3_^(Světový_pohár)" src="auto" selected="1">NNIXX-----A---b</tag>
+<tag lemma="SP-3_^(Světový_pohár)" src="auto" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln95043-025-p2s4w26">
 <src.rf>manual</src.rf>
@@ -1291,7 +1291,7 @@
 <LM>w#w-ln95043-025-p3s1Bw4</LM>
 </w.rf>
 <form>SP</form>
-<tag lemma="SP-3_^(Světový_pohár)" src="auto" selected="1">NNIXX-----A---b</tag>
+<tag lemma="SP-3_^(Světový_pohár)" src="auto" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln95043-025-p3s1Bw5">
 <src.rf>manual</src.rf>

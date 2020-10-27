@@ -3493,7 +3493,7 @@
 </w.rf>
 <form>Nesmírně</form>
 <tag>
-<AM lemma="nesmírně" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="nesmírně_^(*1ý)" src="auto" recommended="1">Dg-------1A----</AM>
 <AM lemma="nesmírně_^(*1ý)" src="auto">Dg-------1A----</AM>
 <AM lemma="smírně_^(*1ý)" src="auto">Dg-------1N----</AM>
 </tag>

@@ -3219,7 +3219,7 @@
 </w.rf>
 <form>nestála</form>
 <tag>
-<AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="auto" recommended="1">VpQW----R-NAI--</AM>
+<AM lemma="stát-3_^(stojím_stojíš)" src="auto" recommended="1">VpQW----R-NAI--</AM>
 <AM lemma="stát-5_^(sníh)" src="auto">VpQW----R-NAI--</AM>
 </tag>
 </m>

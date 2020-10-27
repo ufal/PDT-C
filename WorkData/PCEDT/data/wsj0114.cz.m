@@ -6100,7 +6100,7 @@
 <AM lemma="podnik_:B" src="auto">NNIXX-----A---8</AM>
 <AM lemma="popisný_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
 <AM lemma="pan" src="manual">NNIXX-----A---b</AM>
-<AM lemma="pan" src="manual" selected="1">NNMXX-----A---b</AM>
+<AM lemma="p-33" src="manual" selected="1">Q3-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0114-001-p1s21W4-Ta">
@@ -9943,7 +9943,7 @@
 </w.rf>
 <form>Nechte</form>
 <tag>
-<AM lemma="nechat" src="auto" recommended="1">Vi-P---2--A-I--</AM>
+<AM lemma="nechat" src="auto" recommended="1">Vi-P---2--A-P-1</AM>
 <AM lemma="nechat" src="auto">Vi-P---3--A-I-4</AM>
 </tag>
 </m>

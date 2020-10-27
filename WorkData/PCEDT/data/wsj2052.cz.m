@@ -5205,7 +5205,7 @@
 <AM lemma="mig_;m" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="mig_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="MiG-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="MiG_;m" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="MiG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2052-001-p1s22W22-Ta">
@@ -5266,7 +5266,7 @@
 <AM lemma="mig_;m" src="auto">NNIS1-----A----</AM>
 <AM lemma="mig_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="MiG-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="MiG_;m" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="MiG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2052-001-p1s22W27-Ta">
@@ -5691,7 +5691,7 @@
 <AM lemma="MiG_:B_;m" src="auto">NNIXX-----A---8</AM>
 <AM lemma="mig_;m" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="mig_;m" src="auto">NNIS4-----A----</AM>
-<AM lemma="MiG_;m" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="MiG-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2052-001-p1s22W56-Ta">

@@ -138,7 +138,7 @@
 <AM lemma="ufo_^(unidentified_flying_object)" src="auto">NNNS4-----A----</AM>
 <AM lemma="ufo_^(unidentified_flying_object)" src="auto">NNNS5-----A----</AM>
 <AM lemma="ufo_^(unidentified_flying_object)" src="auto">NNXXX-----A----</AM>
-<AM lemma="UFO-1_^(unidentified_flying_object)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="UFO_^(unidentified_flying_object)" src="manual" selected="1">BNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0550-001-p1s0W13-Ta">
@@ -488,7 +488,7 @@
 <AM lemma="ufo_^(unidentified_flying_object)" src="auto">NNNS4-----A----</AM>
 <AM lemma="ufo_^(unidentified_flying_object)" src="auto">NNNS5-----A----</AM>
 <AM lemma="ufo_^(unidentified_flying_object)" src="auto">NNXXX-----A----</AM>
-<AM lemma="UFO-1_^(unidentified_flying_object)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="UFO_^(unidentified_flying_object)" src="manual" selected="1">BNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0550-001-p1s1W15-Ta">
@@ -777,7 +777,7 @@
 <AM lemma="ufo_^(unidentified_flying_object)" src="auto">NNNS4-----A----</AM>
 <AM lemma="ufo_^(unidentified_flying_object)" src="auto">NNNS5-----A----</AM>
 <AM lemma="ufo_^(unidentified_flying_object)" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="UFO-1_^(unidentified_flying_object)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="UFO_^(unidentified_flying_object)" src="manual" selected="1">BNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0550-001-p1s2W6-Ta">
@@ -3935,7 +3935,7 @@
 <AM lemma="ufo_^(unidentified_flying_object)" src="auto">NNNS4-----A----</AM>
 <AM lemma="ufo_^(unidentified_flying_object)" src="auto">NNNS5-----A----</AM>
 <AM lemma="ufo_^(unidentified_flying_object)" src="auto">NNXXX-----A----</AM>
-<AM lemma="UFO-1_^(unidentified_flying_object)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="UFO_^(unidentified_flying_object)" src="manual" selected="1">BNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0550-001-p1s12W25-Ta">
@@ -4651,7 +4651,7 @@
 <AM lemma="ufo_^(unidentified_flying_object)" src="auto">NNNS4-----A----</AM>
 <AM lemma="ufo_^(unidentified_flying_object)" src="auto">NNNS5-----A----</AM>
 <AM lemma="ufo_^(unidentified_flying_object)" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="UFO-1_^(unidentified_flying_object)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="UFO_^(unidentified_flying_object)" src="manual" selected="1">BNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0550-001-p1s14W26-Ta">
@@ -4788,7 +4788,7 @@
 <AM lemma="ufo_^(unidentified_flying_object)" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="ufo_^(unidentified_flying_object)" src="auto">NNNS5-----A----</AM>
 <AM lemma="ufo_^(unidentified_flying_object)" src="auto">NNXXX-----A----</AM>
-<AM lemma="UFO-1_^(unidentified_flying_object)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="UFO_^(unidentified_flying_object)" src="manual" selected="1">BNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0550-001-p1s15W11-Ta">
@@ -5286,7 +5286,7 @@
 <AM lemma="ufo_^(unidentified_flying_object)" src="auto">NNNS4-----A----</AM>
 <AM lemma="ufo_^(unidentified_flying_object)" src="auto">NNNS5-----A----</AM>
 <AM lemma="ufo_^(unidentified_flying_object)" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="UFO-1_^(unidentified_flying_object)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="UFO_^(unidentified_flying_object)" src="manual" selected="1">BNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0550-001-p1s16W31-Ta">
@@ -5404,7 +5404,7 @@
 <AM lemma="ufo_^(unidentified_flying_object)" src="auto">NNNS4-----A----</AM>
 <AM lemma="ufo_^(unidentified_flying_object)" src="auto">NNNS5-----A----</AM>
 <AM lemma="ufo_^(unidentified_flying_object)" src="auto">NNXXX-----A----</AM>
-<AM lemma="UFO-1_^(unidentified_flying_object)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="UFO_^(unidentified_flying_object)" src="manual" selected="1">BNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0550-001-p1s17W6-Ta">

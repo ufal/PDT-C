@@ -15360,7 +15360,7 @@
 <AM lemma="nakupující_^(*5ovat)" src="auto">AGNS1-----A----</AM>
 <AM lemma="nakupující_^(*5ovat)" src="auto">AGNS4-----A----</AM>
 <AM lemma="nakupující_^(*5ovat)" src="auto">AGNS5-----A----</AM>
-<AM lemma="nakupující-2" src="manual" selected="1">NNMP4-----A----</AM>
+<AM lemma="nakupující_^(*5ovat)" src="manual" selected="1">AGMP4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1915-001-p1s39W59-Ta">
@@ -42070,7 +42070,7 @@
 <AM lemma="dojíždějící_^(*4t)" src="auto">AGNS1-----A----</AM>
 <AM lemma="dojíždějící_^(*4t)" src="auto">AGNS4-----A----</AM>
 <AM lemma="dojíždějící_^(*4t)" src="auto">AGNS5-----A----</AM>
-<AM lemma="dojíždějící-2" src="manual" selected="1">NNMP4-----A----</AM>
+<AM lemma="dojíždějící_^(*4t)" src="manual" selected="1">AGMP4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1915-001-p1s103W32-Ta">

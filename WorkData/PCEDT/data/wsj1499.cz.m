@@ -1959,7 +1959,7 @@
 <AM lemma="čistý" src="auto">AAIP1----2A----</AM>
 <AM lemma="čistý" src="auto">AAIP4----2A----</AM>
 <AM lemma="čistý" src="auto">AAIP5----2A----</AM>
-<AM lemma="čistý" src="auto" selected="1">AAIS1----2A----</AM>
+<AM lemma="čistý" src="auto" selected="1">AAIS1----2A---1</AM>
 <AM lemma="čistý" src="auto" recommended="1">AAIS4----2A----</AM>
 <AM lemma="čistý" src="auto">AAIS5----2A----</AM>
 <AM lemma="čistý" src="auto">AAMP1----2A----</AM>
@@ -4858,7 +4858,7 @@
 </w.rf>
 <form>čistších</form>
 <tag>
-<AM lemma="čistý" src="auto" recommended="1">AAFP2----2A----</AM>
+<AM lemma="čistý" src="auto" recommended="1">AAFP2----2A---1</AM>
 <AM lemma="čistý" src="auto">AAFP6----2A----</AM>
 <AM lemma="čistý" src="auto">AAIP2----2A----</AM>
 <AM lemma="čistý" src="auto">AAIP6----2A----</AM>

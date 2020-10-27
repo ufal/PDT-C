@@ -188,7 +188,7 @@
 <form>Jasoň</form>
 <tag>
 <AM lemma="jasoň" src="orig">NNMS1-----A----</AM>
-<AM lemma="Jasoň_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Jasoň-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-13-p2s1Bw4">

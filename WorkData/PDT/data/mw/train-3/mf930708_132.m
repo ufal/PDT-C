@@ -1255,7 +1255,7 @@
 <form>př</form>
 <tag>
 <AM lemma="příklad_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="překážka" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="př-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-132-p3s5w11">

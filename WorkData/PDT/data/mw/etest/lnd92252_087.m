@@ -1812,7 +1812,7 @@
 <AM lemma="století_:B" src="auto">NNNXX-----A---8</AM>
 <AM lemma="stupeň_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="stanice" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="st-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-087-p4s4w41">

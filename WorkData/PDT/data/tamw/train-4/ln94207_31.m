@@ -465,7 +465,7 @@
 <LM>w#w-ln94207-31-p2s3w9</LM>
 </w.rf>
 <form>nezbytná</form>
-<tag lemma="nezbytný" src="orig" selected="1">AAFS1----1A----</tag>
+<tag lemma="zbytný" src="orig" selected="1">AAFS1----1N----</tag>
 </m>
 <m id="m-ln94207-31-p2s3w10">
 <src.rf>manual</src.rf>

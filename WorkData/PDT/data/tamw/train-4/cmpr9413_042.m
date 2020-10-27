@@ -216,7 +216,7 @@
 <LM>w#w-cmpr9413-042-p4s1w11</LM>
 </w.rf>
 <form>pár</form>
-<tag lemma="pár-1" src="orig" selected="1">ClXP7----------</tag>
+<tag lemma="pár-1" src="orig" selected="1">Ca--X----------</tag>
 </m>
 <m id="m-cmpr9413-042-p4s1w12">
 <src.rf>manual</src.rf>
@@ -595,7 +595,7 @@
 <form>nestály</form>
 <tag>
 <AM lemma="stát-4_^(něco_stojí_peníze)" src="orig">VpTP---XR-NA---</AM>
-<AM lemma="stát-4_^(něco_stojí_peníze)" src="manual" selected="1">VpTP----R-NAI--</AM>
+<AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">VpTP----R-NAI--</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-042-p4s4w18">

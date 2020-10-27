@@ -439,7 +439,7 @@
 <form>Č</form>
 <tag>
 <AM lemma="český_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="Český" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="český" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92252-081-p8s1w2">
@@ -1219,7 +1219,7 @@
 <form>Č</form>
 <tag>
 <AM lemma="český_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="Český" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="český" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-lnd92252-081-p22s1w4">

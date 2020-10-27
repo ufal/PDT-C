@@ -2774,7 +2774,7 @@
 <LM>w#w-lnd92254-094-p10s1w24</LM>
 </w.rf>
 <form>pozdějším</form>
-<tag lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="orig" selected="1">AAMS7----2A----</tag>
+<tag lemma="pozdější" src="orig" selected="1">AAMS7----1A----</tag>
 </m>
 <m id="m-lnd92254-094-p10s1w25">
 <src.rf>manual</src.rf>
@@ -6129,7 +6129,7 @@
 <form>Scarborough</form>
 <tag>
 <AM lemma="Scarborough_;G" src="orig">NNNXX-----A----</AM>
-<AM lemma="Scarborough_;G" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
+<AM lemma="Scarborough_;G" src="auto" recommended="1" selected="1">NNXXX-----A----</AM>
 <AM lemma="Scarborough_;G" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>

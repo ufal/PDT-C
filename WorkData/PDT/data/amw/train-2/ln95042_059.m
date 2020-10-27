@@ -1998,7 +1998,7 @@
 <LM>w#w-ln95042-059-p4s3w5</LM>
 </w.rf>
 <form>stály</form>
-<tag lemma="stát-4_^(něco_stojí_peníze)" src="orig" selected="1">VpTP----R-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln95042-059-p4s3w6">
 <src.rf>manual</src.rf>

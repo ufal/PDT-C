@@ -429,7 +429,7 @@
 <AM lemma="Togliatti_;G_;Y" src="orig">NNNXX-----A----</AM>
 <AM lemma="Togliatti_;G_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Togliatti_;G_;Y" src="auto">NNMS5-----A----</AM>
-<AM lemma="Togliatti-2_;G_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Togliatti-2_;G_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-073-p3s3w12">

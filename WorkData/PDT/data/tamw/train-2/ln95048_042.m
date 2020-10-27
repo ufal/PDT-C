@@ -1061,7 +1061,7 @@
 <LM>w#w-ln95048-042-p4s3w17</LM>
 </w.rf>
 <form>Panda</form>
-<tag lemma="panda_;m_^(vozidlo)" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Panda_;m_^(vozidlo)" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95048-042-p4s3w18">
 <src.rf>manual</src.rf>

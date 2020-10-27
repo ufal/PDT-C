@@ -486,7 +486,7 @@
 <LM>w#w-mf930701-037-p2s3w3</LM>
 </w.rf>
 <form>HaDivadla</form>
-<tag lemma="HaDivadlo_;Y" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="HaDivadlo_;m" src="orig" selected="1">NNNS2-----A----</tag>
 </m>
 <m id="m-mf930701-037-p2s3w4">
 <src.rf>manual</src.rf>

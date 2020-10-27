@@ -103,7 +103,7 @@
 <AM lemma="do-2_,t_^(tae-kwon-do)" src="orig">NNNS1-----A----</AM>
 <AM lemma="do-1" src="auto" recommended="1">RR--2----------</AM>
 <AM lemma="do-7_^(předpona,_sam.)" src="auto">A2--------A----</AM>
-<AM lemma="do-2_^(tae-kwon-do)" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="do-2_^(tae-kwon-do)" src="manual" selected="1">SNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-119-p2s1Aw6">
@@ -1389,7 +1389,7 @@
 <AM lemma="do-2_,t_^(tae-kwon-do)" src="orig">NNNS1-----A----</AM>
 <AM lemma="do-1" src="auto" recommended="1">RR--2----------</AM>
 <AM lemma="do-7_^(předpona,_sam.)" src="auto">A2--------A----</AM>
-<AM lemma="do-2_^(tae-kwon-do)" src="manual" selected="1">NNNS1-----A----</AM>
+<AM lemma="do-2_^(tae-kwon-do)" src="manual" selected="1">SNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-119-p4s2w26">

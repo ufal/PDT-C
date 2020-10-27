@@ -93,7 +93,7 @@
 <LM>w#w-ln94201-135-p2s1w4</LM>
 </w.rf>
 <form>Fortuny</form>
-<tag lemma="Fortuna_;m" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Fortuna_;Y_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94201-135-p2s1w5">
 <src.rf>manual</src.rf>
@@ -224,7 +224,7 @@
 <LM>w#w-ln94201-135-p2s1w20</LM>
 </w.rf>
 <form>Fortuny</form>
-<tag lemma="Fortuna_;m" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Fortuna_;Y_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94201-135-p2s1w21">
 <src.rf>manual</src.rf>
@@ -576,7 +576,7 @@
 <LM>w#w-ln94201-135-p2s3w19</LM>
 </w.rf>
 <form>Fortuny</form>
-<tag lemma="Fortuna_;m" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Fortuna_;Y_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94201-135-p2s3w20">
 <src.rf>manual</src.rf>
@@ -2055,7 +2055,7 @@
 <LM>w#w-ln94201-135-p6s1w14</LM>
 </w.rf>
 <form>Fortuny</form>
-<tag lemma="Fortuna_;m" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Fortuna_;Y_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94201-135-p6s1w15">
 <src.rf>manual</src.rf>
@@ -2923,7 +2923,7 @@
 <LM>w#w-ln94201-135-p9s1w4</LM>
 </w.rf>
 <form>Fortuny</form>
-<tag lemma="Fortuna_;m" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Fortuna_;Y_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94201-135-p9s1w5">
 <src.rf>manual</src.rf>
@@ -3834,7 +3834,7 @@
 <LM>w#w-ln94201-135-p11s1w12</LM>
 </w.rf>
 <form>softwaru</form>
-<tag lemma="software" src="orig" selected="1">NNIS2-----A---1</tag>
+<tag lemma="software" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94201-135-p11s1w13">
 <src.rf>manual</src.rf>
@@ -4501,7 +4501,7 @@
 <LM>w#w-ln94201-135-p12s2w27</LM>
 </w.rf>
 <form>Fortuny</form>
-<tag lemma="Fortuna_;m" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Fortuna_;Y_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94201-135-p12s2w28">
 <src.rf>manual</src.rf>
@@ -4835,7 +4835,7 @@
 <LM>w#w-ln94201-135-p13s3w7</LM>
 </w.rf>
 <form>Fortuny</form>
-<tag lemma="Fortuna_;m" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Fortuna_;Y_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94201-135-p13s3w8">
 <src.rf>manual</src.rf>

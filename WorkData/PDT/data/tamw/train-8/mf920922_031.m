@@ -99,7 +99,7 @@
 <LM>w#w-mf920922-031-p1s1w11</LM>
 </w.rf>
 <form>Vlasty</form>
-<tag lemma="Vlasta-1_;Y_^(žena)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Vlasta_;Y_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf920922-031-p1s1w12">
 <src.rf>manual</src.rf>

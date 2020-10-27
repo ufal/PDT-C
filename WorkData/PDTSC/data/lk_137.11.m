@@ -2456,7 +2456,7 @@
 </w.rf>
 <form>Římané</form>
 <tag>
-<AM lemma="Říman_;E" src="auto" selected="1">NNMP1-----A----</AM>
+<AM lemma="Říman_;E_;Y" src="auto" selected="1">NNMP1-----A----</AM>
 <AM lemma="Říman_;E" src="auto">NNMP5-----A----</AM>
 <AM lemma="říman" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="říman" src="auto">NNMP5-----A----</AM>

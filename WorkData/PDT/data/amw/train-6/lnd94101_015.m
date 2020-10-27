@@ -511,7 +511,7 @@
 <LM>w#w-lnd94101-015-p1s5w15</LM>
 </w.rf>
 <form>pozdější</form>
-<tag lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="orig" selected="1">AAFS6----2A----</tag>
+<tag lemma="pozdější" src="orig" selected="1">AAFS6----1A----</tag>
 </m>
 <m id="m-lnd94101-015-p1s5w16">
 <src.rf>manual</src.rf>

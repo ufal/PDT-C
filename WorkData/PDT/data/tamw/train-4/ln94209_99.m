@@ -929,7 +929,7 @@
 </w.rf>
 <form>Vinopala</form>
 <tag>
-<AM lemma="Vinopal_;Y" src="orig" selected="1">NNMS2-----A----</AM>
+<AM lemma="Vinopal-1_;Y" src="orig" selected="1">NNMS2-----A----</AM>
 <AM lemma="vinopal_,a" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="vinopal_,a" src="auto">NNMS4-----A----</AM>
 </tag>
@@ -2392,7 +2392,7 @@
 <AM lemma="Uh_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Uh_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="uherský_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
-<AM lemma="uherský" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="Uh-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-99-p3s13w3">

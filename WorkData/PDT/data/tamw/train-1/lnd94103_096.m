@@ -295,7 +295,7 @@
 <AM lemma="José_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="José_;G" src="auto">NNNS5-----A----</AM>
 <AM lemma="José_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="José_;Y" src="auto" recommended="1" selected="1">NNMS2-----A---1</AM>
+<AM lemma="José-1_;Y" src="auto" recommended="1" selected="1">NNMXX-----A----</AM>
 <AM lemma="José_;Y" src="auto">NNMS3-----A---1</AM>
 <AM lemma="José_;Y" src="auto">NNMS4-----A---1</AM>
 <AM lemma="José_;Y" src="auto">NNMS5-----A----</AM>
@@ -668,7 +668,7 @@
 <AM lemma="José_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="José_;G" src="auto">NNNS5-----A----</AM>
 <AM lemma="José_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="José_;Y" src="auto" selected="1">NNMS2-----A---1</AM>
+<AM lemma="José-1_;Y" src="auto" selected="1">NNMXX-----A----</AM>
 <AM lemma="José_;Y" src="auto">NNMS3-----A---1</AM>
 <AM lemma="José_;Y" src="auto">NNMS4-----A---1</AM>
 <AM lemma="José_;Y" src="auto">NNMS5-----A----</AM>

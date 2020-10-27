@@ -640,7 +640,7 @@
 <LM>w#w-mf930701-138-p2s3w16</LM>
 </w.rf>
 <form>Unionu</form>
-<tag lemma="Union" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Union_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930701-138-p2s3w17">
 <src.rf>manual</src.rf>

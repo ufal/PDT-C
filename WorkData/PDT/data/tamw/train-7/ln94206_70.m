@@ -176,7 +176,7 @@
 <LM>w#w-ln94206-70-p2s1w16</LM>
 </w.rf>
 <form>sen</form>
-<tag lemma="sen" src="orig" selected="1">NNIS4-----A----</tag>
+<tag lemma="sen-1" src="orig" selected="1">NNIS4-----A----</tag>
 </m>
 <m id="m-ln94206-70-p2s1w17">
 <src.rf>manual</src.rf>

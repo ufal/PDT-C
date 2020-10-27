@@ -1129,7 +1129,7 @@
 <LM>w#w-ln95049-085-p3s2w2</LM>
 </w.rf>
 <form>stamilióny</form>
-<tag lemma="stamilión" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="stamilión`100000000" src="orig" selected="1">CzIP1----------</tag>
 </m>
 <m id="m-ln95049-085-p3s2w3">
 <src.rf>manual</src.rf>

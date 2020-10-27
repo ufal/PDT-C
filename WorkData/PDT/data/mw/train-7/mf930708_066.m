@@ -303,7 +303,7 @@
 <LM>w#w-mf930708-066-p2s2w14</LM>
 </w.rf>
 <form>neúčastí</form>
-<tag lemma="neúčast" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="účast" src="orig" selected="1">NNFS7-----N----</tag>
 </m>
 <m id="m-mf930708-066-p2s2w15">
 <src.rf>manual</src.rf>
@@ -1349,7 +1349,7 @@
 <form>Legend</form>
 <tag>
 <AM lemma="Legend_;m_^(vozidlo)" src="auto">NNFXX-----A----</AM>
-<AM lemma="Legend-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Legend_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-066-p3s8w3">
@@ -1510,7 +1510,7 @@
 <form>Legendu</form>
 <tag>
 <AM lemma="legenda" src="orig">NNFS4-----A----</AM>
-<AM lemma="Legend-2_;m" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Legend_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-066-p4s1w5">

@@ -12765,7 +12765,7 @@
 <AM lemma="Morris-2_;m_^(vozidlo;;cigarety)" src="auto">NNIS2-----A----</AM>
 <AM lemma="Morris-2_;m_^(vozidlo;;cigarety)" src="auto">NNIS3-----A----</AM>
 <AM lemma="Morris-2_;m_^(vozidlo;;cigarety)" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="Morris-3_;G" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="Morris-2_;G_;m_^(vozidlo;;cigarety;;město)" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2314-001-p1s46W14-Ta">
@@ -14545,7 +14545,7 @@
 <AM lemma="pojištěný_^(*5stit)" src="auto">AANP3----1A----</AM>
 <AM lemma="pojištěný_^(*5stit)" src="auto">AANS6----1A---7</AM>
 <AM lemma="pojištěný_^(*5stit)" src="auto">AANS7----1A----</AM>
-<AM lemma="pojištěný-2" src="manual" selected="1">NNMS7-----A----</AM>
+<AM lemma="pojištěný_^(*5stit)" src="manual" selected="1">AAMS7----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj2314-001-p1s54W15-Ta">
@@ -15287,7 +15287,7 @@
 <AM lemma="Morris-2_;m_^(vozidlo;;cigarety)" src="auto">NNIS2-----A----</AM>
 <AM lemma="Morris-2_;m_^(vozidlo;;cigarety)" src="auto">NNIS3-----A----</AM>
 <AM lemma="Morris-2_;m_^(vozidlo;;cigarety)" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="Morris-3_;G" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="Morris-2_;G_;m_^(vozidlo;;cigarety;;město)" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2314-001-p1s57W8-Ta">

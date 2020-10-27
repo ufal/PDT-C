@@ -848,7 +848,7 @@
 <LM>w#w-mf930713-089-p3s2w19</LM>
 </w.rf>
 <form>pasu</form>
-<tag lemma="pas-1_^(př._cestovní)" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="pas-1_^(přihrávka,_př._v_kopané,na_lidském_těle;;cestovní)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-mf930713-089-p3s2w20">
 <src.rf>manual</src.rf>
@@ -1301,7 +1301,7 @@
 <LM>w#w-mf930713-089-p4s1w1</LM>
 </w.rf>
 <form>Hůře</form>
-<tag lemma="špatně" src="orig" selected="1">Dg-------2A---1</tag>
+<tag lemma="hůře" src="orig" selected="1">Dg-------2A----</tag>
 </m>
 <m id="m-mf930713-089-p4s1w2">
 <src.rf>manual</src.rf>

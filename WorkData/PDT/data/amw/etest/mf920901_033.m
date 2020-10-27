@@ -303,7 +303,7 @@
 <LM>w#w-mf920901-033-p2s2w8</LM>
 </w.rf>
 <form>st</form>
-<tag lemma="st-1_^(stére,_ster,_jednotka_objemu)" src="orig" selected="1">BNIXX-----A----</tag>
+<tag lemma="st-88" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf920901-033-p2s2w9">
 <src.rf>manual</src.rf>
@@ -399,7 +399,7 @@
 <LM>w#w-mf920901-033-p2s2w20</LM>
 </w.rf>
 <form>st</form>
-<tag lemma="st-1_^(stére,_ster,_jednotka_objemu)" src="orig" selected="1">BNIXX-----A----</tag>
+<tag lemma="st-88" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf920901-033-p2s2w21">
 <src.rf>manual</src.rf>
@@ -465,7 +465,7 @@
 <LM>w#w-mf920901-033-p2s4w5</LM>
 </w.rf>
 <form>st</form>
-<tag lemma="st-1_^(stére,_ster,_jednotka_objemu)" src="orig" selected="1">BNIXX-----A----</tag>
+<tag lemma="st-88" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf920901-033-p2s4w6">
 <src.rf>manual</src.rf>
@@ -538,7 +538,7 @@
 <LM>w#w-mf920901-033-p2s4w13</LM>
 </w.rf>
 <form>st</form>
-<tag lemma="st-1_^(stére,_ster,_jednotka_objemu)" src="orig" selected="1">BNIXX-----A----</tag>
+<tag lemma="st-88" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf920901-033-p2s4w14">
 <src.rf>manual</src.rf>
@@ -1255,7 +1255,7 @@
 <LM>w#w-mf920901-033-p4s1w6</LM>
 </w.rf>
 <form>st</form>
-<tag lemma="st-1_^(stére,_ster,_jednotka_objemu)" src="orig" selected="1">BNIXX-----A----</tag>
+<tag lemma="st-88" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf920901-033-p4s1w7">
 <src.rf>manual</src.rf>
@@ -1336,7 +1336,7 @@
 <LM>w#w-mf920901-033-p4s1w16</LM>
 </w.rf>
 <form>st</form>
-<tag lemma="st-1_^(stére,_ster,_jednotka_objemu)" src="orig" selected="1">BNIXX-----A----</tag>
+<tag lemma="st-88" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf920901-033-p4s1w17">
 <src.rf>manual</src.rf>

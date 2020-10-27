@@ -3978,7 +3978,7 @@
 <LM>w#w-lnd92255-071-p8s2w17</LM>
 </w.rf>
 <form>stály</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig" selected="1">VpTP----R-AAI--</tag>
+<tag lemma="stát-3_^(stojím_stojíš)" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-lnd92255-071-p8s2w18">
 <src.rf>manual</src.rf>
@@ -15827,7 +15827,7 @@
 <LM>w#w-lnd92255-071-p22s7w19</LM>
 </w.rf>
 <form>čistší</form>
-<tag lemma="čistý" src="orig" selected="1">AAFS1----2A----</tag>
+<tag lemma="čistý" src="orig" selected="1">AAFS1----2A---1</tag>
 </m>
 <m id="m-lnd92255-071-p22s7w20">
 <src.rf>manual</src.rf>

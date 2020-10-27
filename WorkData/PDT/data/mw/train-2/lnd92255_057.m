@@ -190,7 +190,7 @@
 <form>nezbytná</form>
 <tag>
 <AM lemma="zbytný" src="orig">AAFS1----1N----</AM>
-<AM lemma="nezbytný" src="manual" selected="1">AAFS1----1A----</AM>
+<AM lemma="zbytný" src="manual" selected="1">AAFS1----1N----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-057-p3s3w6">

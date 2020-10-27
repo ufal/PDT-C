@@ -5090,7 +5090,7 @@
 </w.rf>
 <form>Římani</form>
 <tag>
-<AM lemma="Říman_;E" src="auto" selected="1">NNMP1-----A---1</AM>
+<AM lemma="Říman_;E_;Y" src="auto" selected="1">NNMP1-----A---1</AM>
 <AM lemma="Říman_;E" src="auto">NNMP5-----A---1</AM>
 <AM lemma="říman" src="auto" recommended="1">NNMP1-----A---1</AM>
 <AM lemma="říman" src="auto">NNMP5-----A---1</AM>

@@ -3357,7 +3357,7 @@
 <form>Družbě</form>
 <tag>
 <AM lemma="družba" src="auto">NNFS3-----A----</AM>
-<AM lemma="družba" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="Družba_;m" src="auto" recommended="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m140-d-id112970-punct">

@@ -1938,7 +1938,7 @@
 <LM>w#w-lnd94103-134-p1s14w2</LM>
 </w.rf>
 <form>Viktorii</form>
-<tag lemma="Viktoria-2_;m_^(jméno_sport.klubu)" src="orig" selected="1">NNFS6-----A----</tag>
+<tag lemma="Viktoria_;Y_;m" src="orig" selected="1">NNFS6-----A----</tag>
 </m>
 <m id="m-lnd94103-134-p1s14w3">
 <src.rf>manual</src.rf>

@@ -680,7 +680,7 @@
 <LM>w#w-ln94208-133-p3s3w6</LM>
 </w.rf>
 <form>pár</form>
-<tag lemma="pár-1" src="orig" selected="1">ClXP7----------</tag>
+<tag lemma="pár-1" src="orig" selected="1">Ca--X----------</tag>
 </m>
 <m id="m-ln94208-133-p3s3w7">
 <src.rf>manual</src.rf>

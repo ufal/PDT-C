@@ -1542,7 +1542,7 @@
 <tag>
 <AM lemma="horažďovický" src="auto" recommended="1">AAMP1----1A----</AM>
 <AM lemma="horažďovický" src="auto">AAMP5----1A----</AM>
-<AM lemma="Horažďovický_;E" src="manual" selected="1">NNMP1-----A----</AM>
+<AM lemma="horažďovický" src="manual" selected="1">AAMP1----1A----</AM>
 </tag>
 </m>
 <m id="m039-d1t2901-5">
@@ -5806,7 +5806,7 @@
 <AM lemma="nezbytný" src="auto">AAIP1----1A---6</AM>
 <AM lemma="nezbytný" src="auto">AAIP4----1A---6</AM>
 <AM lemma="nezbytný" src="auto">AAIP5----1A---6</AM>
-<AM lemma="nezbytný" src="auto" recommended="1">AAIS1----1A----</AM>
+<AM lemma="zbytný" src="auto" recommended="1">AAIS1----1N----</AM>
 <AM lemma="nezbytný" src="auto">AAIS4----1A----</AM>
 <AM lemma="nezbytný" src="auto">AAIS5----1A----</AM>
 <AM lemma="nezbytný" src="auto">AAMP1----1A---6</AM>
