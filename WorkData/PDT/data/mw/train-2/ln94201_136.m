@@ -2118,7 +2118,8 @@
 <form>desetimilionové</form>
 <tag>
 <AM lemma="desetimilionový" src="orig">AAFS2----1A----</AM>
-<AM lemma="desetimilionový_,s_^(^DD**desetimiliónový)" src="manual" selected="1">AAFP2----1A----</AM>
+<AM lemma="desetimilionový_,s_^(^DD**desetimiliónový)" src="manual">AAFP2----1A----</AM>
+<AM lemma="desetimilionový_,s_^(^DD**desetimiliónový)" src="manual" selected="1">AAFS2----1A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-136-p5s1w11">

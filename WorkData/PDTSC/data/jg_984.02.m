@@ -4674,9 +4674,9 @@
 <tag>
 <AM lemma="bezpečnostní" src="auto">AAIS2----1A----</AM>
 <AM lemma="bezpečnostní" src="auto">AAMS2----1A----</AM>
-<AM lemma="bezpečnostní" src="auto" recommended="1">AAMS4----1A----</AM>
+<AM lemma="bezpečnostní" src="auto" recommended="1" selected="1">AAMS4----1A----</AM>
 <AM lemma="bezpečnostní" src="auto">AANS2----1A----</AM>
-<AM lemma="bezpečnostní-2" src="manual" selected="1">NNMS4-----A----</AM>
+<AM lemma="bezpečnostní-2" src="manual">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m984-d1e966-x4-2556">

@@ -703,7 +703,8 @@
 <AM lemma="dům" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="dům" src="auto">NNIS3-----A----</AM>
 <AM lemma="dům" src="auto">NNIS6-----A---1</AM>
-<AM lemma="domů" src="manual" selected="1">Db------------1</AM>
+<AM lemma="domů" src="manual">Db------------1</AM>
+<AM lemma="domu_,h_^(^GC**domů)" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m133-d1t2535-10">

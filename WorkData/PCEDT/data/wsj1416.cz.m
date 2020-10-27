@@ -6298,8 +6298,8 @@
 </w.rf>
 <form>vstřícného</form>
 <tag>
-<AM lemma="vstřícný" src="auto" selected="1">AAIS2----1A----</AM>
-<AM lemma="vstřícný" src="auto" recommended="1">AAMS2----1A----</AM>
+<AM lemma="vstřícný" src="auto">AAIS2----1A----</AM>
+<AM lemma="vstřícný" src="auto" recommended="1" selected="1">AAMS2----1A----</AM>
 <AM lemma="vstřícný" src="auto">AAMS4----1A----</AM>
 <AM lemma="vstřícný" src="auto">AANS2----1A----</AM>
 </tag>
@@ -6311,10 +6311,10 @@
 </w.rf>
 <form>ducha</form>
 <tag>
-<AM lemma="duch-1" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="duch-1" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
 <AM lemma="duch-1" src="auto">NNMS4-----A----</AM>
 <AM lemma="duch-2" src="manual">NNIS1-----A---1</AM>
-<AM lemma="duch-2" src="manual" selected="1">NNIS2-----A---1</AM>
+<AM lemma="duch-2" src="manual">NNIS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-wsj1416-001-p1s18W14-Ta">

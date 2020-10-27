@@ -385,7 +385,10 @@
 <LM>w#w-mf920925-080-p2s4w2</LM>
 </w.rf>
 <form>prvním</form>
-<tag lemma="první-1" src="orig" selected="1">CrIP3----------</tag>
+<tag>
+<AM lemma="první-1" src="orig">CrIP3----------</AM>
+<AM lemma="první-1" src="manual" selected="1">CrNP3----------</AM>
+</tag>
 </m>
 <m id="m-mf920925-080-p2s4w3">
 <src.rf>manual</src.rf>
@@ -395,7 +398,8 @@
 <form>dvěma</form>
 <tag>
 <AM lemma="dva`2" src="orig">ClXP3----------</AM>
-<AM lemma="dva`2" src="manual" selected="1">Cl-P3----------</AM>
+<AM lemma="dva`2" src="manual">Cl-P3----------</AM>
+<AM lemma="dva`2" src="manual" selected="1">CnXP3----------</AM>
 </tag>
 </m>
 <m id="m-mf920925-080-p2s4w4">

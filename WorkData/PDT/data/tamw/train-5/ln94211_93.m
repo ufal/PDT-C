@@ -7412,7 +7412,8 @@
 <form>č</form>
 <tag>
 <AM lemma="čas_:B_^(př._t._č.)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="čas_^(př._t._č.)" src="manual" selected="1">BNIXX-----A----</AM>
+<AM lemma="čas_^(př._t._č.)" src="manual">BNIXX-----A----</AM>
+<AM lemma="čas" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94211-93-p8s6w26">

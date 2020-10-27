@@ -2821,7 +2821,8 @@
 <AM lemma="Ču_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="ča_^(ča-ča)" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="Ču_;Y" src="manual">NNMS1-----A----</AM>
-<AM lemma="Ču-1_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Ču-1_;Y" src="manual">NNMXX-----A----</AM>
+<AM lemma="Ču-1_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-123-p5s1w38">

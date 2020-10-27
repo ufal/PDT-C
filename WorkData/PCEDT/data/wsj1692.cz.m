@@ -10417,7 +10417,8 @@
 <tag>
 <AM lemma="ex-1_^(vypít_na_ex,_můj_ex[manžel])" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="ex-77_,t" src="auto">F%-------------</AM>
-<AM lemma="ex-2_^(ex-offo)" src="manual" selected="1">S2--------A----</AM>
+<AM lemma="ex-2_^(ex-offo)" src="manual">S2--------A----</AM>
+<AM lemma="ex-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1692-001-p1s30W22-Ta">

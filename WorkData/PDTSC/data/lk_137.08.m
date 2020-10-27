@@ -4331,9 +4331,9 @@
 <tag>
 <AM lemma="dobrý" src="auto" recommended="1">AAIS2----1A----</AM>
 <AM lemma="dobrý" src="auto">AAMS2----1A----</AM>
-<AM lemma="dobrý" src="auto">AAMS4----1A----</AM>
+<AM lemma="dobrý" src="auto" selected="1">AAMS4----1A----</AM>
 <AM lemma="dobrý" src="auto">AANS2----1A----</AM>
-<AM lemma="dobrý" src="manual" selected="1">AAIS4----1A---1</AM>
+<AM lemma="dobrý" src="manual">AAIS4----1A---1</AM>
 </tag>
 </m>
 <m id="m137-d1t2154-7">

@@ -494,7 +494,10 @@
 <LM>w#w-ln94208-50-p2s2w20</LM>
 </w.rf>
 <form>a</form>
-<tag lemma="a-4_^(př._a_la)" src="orig" selected="1">RR--1----------</tag>
+<tag>
+<AM lemma="a-4_^(př._a_la)" src="orig">RR--1----------</AM>
+<AM lemma="a-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94208-50-p2s2w21">
 <src.rf>manual</src.rf>

@@ -8690,7 +8690,9 @@
 <AM lemma="eventuální_:B" src="orig">AAXXX----1A---8</AM>
 <AM lemma="eventuálně_^(*1í)" src="manual">Dg-------1A----</AM>
 <AM lemma="eventuálně_^(*1í)" src="manual">Dg-------1A---8</AM>
-<AM lemma="eventuálně_^(*1í)" src="manual" selected="1">Dg-------1A---b</AM>
+<AM lemma="eventuálně_^(*1í)" src="manual">Dg-------1A---b</AM>
+<AM lemma="event-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="event-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9301-006-p11s2w22">

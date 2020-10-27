@@ -2253,7 +2253,8 @@
 <form>blues</form>
 <tag>
 <AM lemma="blues" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="blues" src="manual" selected="1">S2--------A----</AM>
+<AM lemma="blues" src="manual">S2--------A----</AM>
+<AM lemma="blues-3" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m106-d1t98-6">

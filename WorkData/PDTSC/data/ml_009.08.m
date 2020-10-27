@@ -2151,6 +2151,7 @@
 <AM lemma="devatery" src="auto" recommended="1">Ck-P4----------</AM>
 <AM lemma="devatery" src="auto">Ck-P5----------</AM>
 <AM lemma="devatero" src="auto">NNNP7-----A----</AM>
+<AM lemma="devaterý`9" src="manual" selected="1">CdFP4----------</AM>
 </tag>
 </m>
 <m id="m009-d1t2332-1">

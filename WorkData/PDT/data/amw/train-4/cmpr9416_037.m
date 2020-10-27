@@ -208,7 +208,8 @@
 <form>dospělé</form>
 <tag>
 <AM lemma="dospělý_^(*2t)" src="auto">AAMP4----1A----</AM>
-<AM lemma="dospělý-2" src="manual" selected="1">NNMP4-----A---6</AM>
+<AM lemma="dospělý-2" src="manual">NNMP4-----A---6</AM>
+<AM lemma="dospělý-2" src="manual" selected="1">NNMP4-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-037-p3s4w5">

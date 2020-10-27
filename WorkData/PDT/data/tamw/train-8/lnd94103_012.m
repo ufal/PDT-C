@@ -1125,7 +1125,8 @@
 <form>arch</form>
 <tag>
 <AM lemma="architektka_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="arch-2_^(architekt/ka)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="arch-2_^(architekt/ka)" src="manual">BNXXX-----A----</AM>
+<AM lemma="architektka" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-lnd94103-012-p1s8w22">

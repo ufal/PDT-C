@@ -1421,7 +1421,8 @@
 <form>dvou</form>
 <tag>
 <AM lemma="dva`2" src="orig">ClXP6----------</AM>
-<AM lemma="dva`2" src="manual" selected="1">Cl-P6----------</AM>
+<AM lemma="dva`2" src="manual">Cl-P6----------</AM>
+<AM lemma="dva`2" src="manual" selected="1">CnXP6----------</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-034-p4s3w21">

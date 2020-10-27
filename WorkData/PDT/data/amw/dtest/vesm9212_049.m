@@ -16649,7 +16649,8 @@
 <form>aids</form>
 <tag>
 <AM lemma="AIDS_:B_;U_,x_^(Syndrom_získaného_selhání_imunity)" src="orig">NNIS1-----A----</AM>
-<AM lemma="aids-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="aids-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="aids_,s_^(^DD**AIDS-1)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-049-p23s3w4">

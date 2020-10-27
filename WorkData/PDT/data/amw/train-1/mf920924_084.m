@@ -3726,11 +3726,13 @@
 </w.rf>
 <form>fóra</form>
 <tag>
-<AM lemma="fór" src="orig" selected="1">NNIS2-----A----</AM>
+<AM lemma="fór" src="orig">NNIS2-----A----</AM>
 <AM lemma="fórum" src="auto">NNNP1-----A----</AM>
 <AM lemma="fórum" src="auto">NNNP4-----A----</AM>
 <AM lemma="fórum" src="auto">NNNP5-----A----</AM>
 <AM lemma="fórum" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="fóra" src="manual">NNXXX-----A----</AM>
+<AM lemma="fóra" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-084-p2s28w3">

@@ -542,7 +542,8 @@
 <AM lemma="ča_^(ča-ča)" src="auto">NNFS3-----A----</AM>
 <AM lemma="ča_^(ča-ča)" src="auto">NNFS6-----A----</AM>
 <AM lemma="če-99_:B_;Y" src="auto" recommended="1">NNXXX-----A---8</AM>
-<AM lemma="če_,i" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="če_,i" src="manual">NNXXX-----A----</AM>
+<AM lemma="Če" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-072-p2s3w22">

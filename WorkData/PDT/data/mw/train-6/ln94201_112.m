@@ -33,7 +33,8 @@
 <form>Paj</form>
 <tag>
 <AM lemma="Paj_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="Paj_;E_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Paj_;E_;Y" src="manual">NNMXX-----A----</AM>
+<AM lemma="Paj_;E_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-112-p1s1w3">
@@ -54,7 +55,9 @@
 <AM lemma="š'_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="š-33" src="auto" recommended="1">Q3-------------</AM>
 <AM lemma="š-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
-<AM lemma="š-33" src="manual" selected="1">Q3-------------</AM>
+<AM lemma="š-33" src="manual">Q3-------------</AM>
+<AM lemma="š" src="manual">SNMXX-----A----</AM>
+<AM lemma="š-1" src="manual" selected="1">SNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-112-p1s1w5">
@@ -1008,7 +1011,9 @@
 <AM lemma="š'ův_;Y_^(*2)" src="orig">AUNS2M---------</AM>
 <AM lemma="š-33" src="auto" recommended="1">Q3-------------</AM>
 <AM lemma="š-8_:B_^(ost._zkratka)" src="auto">XX------------8</AM>
-<AM lemma="š-33" src="manual" selected="1">Q3-------------</AM>
+<AM lemma="š-33" src="manual">Q3-------------</AM>
+<AM lemma="š-1" src="manual">S2--------A----</AM>
+<AM lemma="š-1" src="manual" selected="1">SNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-112-p2s2w24">

@@ -261,7 +261,8 @@
 <AM lemma="devatenáct`19" src="auto">Cn-P7----------</AM>
 <AM lemma="devatenáct-2`19" src="manual">Cn-P3----------</AM>
 <AM lemma="devatenáct-2`19" src="manual">A2--------A----</AM>
-<AM lemma="devatenáct-2`19" src="manual" selected="1">S2--------A----</AM>
+<AM lemma="devatenáct-2`19" src="manual">S2--------A----</AM>
+<AM lemma="devatenácti-2`19" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-wsj2427-001-p1s0W19-Ta">
@@ -396,7 +397,8 @@
 <AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana" src="auto">NNFXX-----A---8</AM>
-<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-wsj2427-001-p1s0W26-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -404,14 +406,14 @@
 <LM>w#w-wsj2427-001-p1s0W26</LM>
 </w.rf>
 <form>.</form>
-<tag>
-<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
+<tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 <m id="m-wsj2427-001-p1s0W26-Ta-sw2">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj2427-001-p1s0W26</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>A</form>
 <tag>
 <AM lemma="A-33" src="auto">Q3-------------</AM>
@@ -422,8 +424,9 @@
 <AM lemma="A-33" src="auto">Q3-------------</AM>
 <AM lemma="a-77_,t" src="auto">F%-------------</AM>
 <AM lemma="a-88" src="auto">BNXXX-----A----</AM>
-<AM lemma="akciový" src="auto">AAXXX----1A---8</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="akciový" src="auto">AAXXX----1A---8</AM>
+</tag>
+</m>
 <m id="m-wsj2427-001-p1s0W27-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

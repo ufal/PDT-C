@@ -2386,7 +2386,8 @@
 <form>mafia</form>
 <tag>
 <AM lemma="mafia_,t" src="orig">NNFS1-----A----</AM>
-<AM lemma="mafia-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="mafia-77" src="manual">F%-------------</AM>
+<AM lemma="mafie" src="manual" selected="1">NNFS1-----A---2</AM>
 </tag>
 </m>
 <m id="m-lnd91303-019-p6s2w9">

@@ -1740,10 +1740,10 @@
 <AM lemma="Čech_;E_;Y" src="auto">NNMP7-----A----</AM>
 <AM lemma="Čecho-2_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Čecho-2_;Y" src="auto">NNMP7-----A----</AM>
-<AM lemma="Čechy_;G" src="auto" recommended="1">NNFP1-----A----</AM>
+<AM lemma="Čechy_;G" src="auto" recommended="1" selected="1">NNFP1-----A----</AM>
 <AM lemma="Čechy_;G" src="auto">NNFP4-----A----</AM>
 <AM lemma="Čechy_;G" src="auto">NNFP5-----A----</AM>
-<AM lemma="Čechy-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Čechy-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m973-id63919-3">

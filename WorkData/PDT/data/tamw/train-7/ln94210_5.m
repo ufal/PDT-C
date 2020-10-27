@@ -1809,7 +1809,9 @@
 <AM lemma="citovaný_:B" src="orig">AAXXX----1A---8</AM>
 <AM lemma="cit" src="auto">NNIS1-----A----</AM>
 <AM lemma="cit" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="citovaný" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="citovaný" src="manual">AAXXX----1A---8</AM>
+<AM lemma="cit-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="cit-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-5-p4s2w20">

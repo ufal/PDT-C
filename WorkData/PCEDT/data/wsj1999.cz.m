@@ -6358,8 +6358,8 @@
 </w.rf>
 <form>po</form>
 <tag>
-<AM lemma="po-1" src="auto" selected="1">RR--4----------</AM>
-<AM lemma="po-1" src="auto" recommended="1">RR--6----------</AM>
+<AM lemma="po-1" src="auto">RR--4----------</AM>
+<AM lemma="po-1" src="auto" recommended="1" selected="1">RR--6----------</AM>
 <AM lemma="pondělí" src="auto">NNNXX-----A---8</AM>
 </tag>
 </m>
@@ -6375,7 +6375,7 @@
 <AM lemma="čtvrtý" src="auto">CrFP5----------</AM>
 <AM lemma="čtvrtý" src="auto">CrFS2----------</AM>
 <AM lemma="čtvrtý" src="auto">CrFS3----------</AM>
-<AM lemma="čtvrtý" src="auto" recommended="1">CrFS6----------</AM>
+<AM lemma="čtvrtý" src="auto" recommended="1" selected="1">CrFS6----------</AM>
 <AM lemma="čtvrtý" src="auto">CrIP1----------</AM>
 <AM lemma="čtvrtý" src="auto">CrIP4----------</AM>
 <AM lemma="čtvrtý" src="auto">CrIP5----------</AM>
@@ -6386,7 +6386,7 @@
 <AM lemma="čtvrtý" src="auto">CrNS1----------</AM>
 <AM lemma="čtvrtý" src="auto">CrNS4----------</AM>
 <AM lemma="čtvrtý" src="auto">CrNS5----------</AM>
-<AM lemma="čtvrté" src="manual" selected="1">Cv-------------</AM>
+<AM lemma="čtvrté" src="manual">Cv-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1999-001-p1s24W11-Ta">

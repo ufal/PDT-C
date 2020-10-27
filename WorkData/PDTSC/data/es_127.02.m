@@ -2101,8 +2101,9 @@
 <AM lemma="desatery" src="auto" recommended="1">Cj-S7---------1</AM>
 <AM lemma="desatery" src="auto">Ck-P7----------</AM>
 <AM lemma="desatero" src="auto">NNNS1-----A----</AM>
-<AM lemma="desatero" src="auto" selected="1">NNNS4-----A----</AM>
+<AM lemma="desatero" src="auto">NNNS4-----A----</AM>
 <AM lemma="desatero" src="auto">NNNS5-----A----</AM>
+<AM lemma="desatero`10" src="manual" selected="1">CjNS4----------</AM>
 </tag>
 </m>
 <m id="m127-119-241">

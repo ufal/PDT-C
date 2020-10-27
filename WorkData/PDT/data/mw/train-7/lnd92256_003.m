@@ -74,7 +74,9 @@
 <form>dementi</form>
 <tag>
 <AM lemma="dementi_,t" src="auto">NNNXX-----A----</AM>
-<AM lemma="dementi-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="dementi-77" src="manual">F%-------------</AM>
+<AM lemma="dement" src="manual">NNMP1-----A---1</AM>
+<AM lemma="dementi" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 </s>

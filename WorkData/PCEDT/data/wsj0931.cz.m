@@ -7090,7 +7090,8 @@
 <AM lemma="čas_:B_^(př._t._č.)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="český_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="číslo_:B" src="auto" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="č_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="č_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="č-1" src="manual" selected="1">SNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0931-001-p1s28W19-Ta">

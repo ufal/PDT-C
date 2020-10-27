@@ -1227,7 +1227,8 @@
 <AM lemma="duc_;Y_,t" src="orig">NNMXX-----A----</AM>
 <AM lemma="duc" src="auto" recommended="1">II-------------</AM>
 <AM lemma="ducnout" src="auto">VpYS----R-AAP-6</AM>
-<AM lemma="duc_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="duc_;Y" src="manual">NNXXX-----A----</AM>
+<AM lemma="duc-2" src="manual" selected="1">SNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-109-p4s5w18">

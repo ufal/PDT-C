@@ -1132,7 +1132,8 @@
 <form>čtvrt</form>
 <tag>
 <AM lemma="čtvrt-2_^(čtvrtina)" src="orig">NNFS4-----A----</AM>
-<AM lemma="čtvrt" src="manual" selected="1">CzFS4-----A----</AM>
+<AM lemma="čtvrt" src="manual">CzFS4-----A----</AM>
+<AM lemma="čtvrt" src="manual" selected="1">CzFS4----------</AM>
 </tag>
 </m>
 <m id="m-mf930713-163-p3s1Aw6">

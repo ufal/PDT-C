@@ -5692,7 +5692,8 @@
 <form>fyz</form>
 <tag>
 <AM lemma="fyzický_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="fyz-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="fyz-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="fyzika" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-vesm9212-045-p6s1w6">

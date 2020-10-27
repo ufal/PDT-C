@@ -577,7 +577,8 @@
 <form>de</form>
 <tag>
 <AM lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig">RR--1----------</AM>
-<AM lemma="de-2_^(člen)" src="manual" selected="1">AAXXX----1A----</AM>
+<AM lemma="de-2_^(člen)" src="manual">AAXXX----1A----</AM>
+<AM lemma="de-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-009-p3s3w32">

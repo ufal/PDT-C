@@ -1292,7 +1292,8 @@
 <form>gen</form>
 <tag>
 <AM lemma="generál_:B" src="orig">NNMXX-----A---8</AM>
-<AM lemma="gen_^(generál)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="gen_^(generál)" src="manual">NNXXX-----A---b</AM>
+<AM lemma="generál" src="manual" selected="1">NNMXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94200-164-p4s1w13">

@@ -3576,6 +3576,7 @@
 <AM lemma="čtvery" src="auto" recommended="1">Ck-P4----------</AM>
 <AM lemma="čtvery" src="auto">Ck-P5----------</AM>
 <AM lemma="čtvero" src="auto">NNNP7-----A----</AM>
+<AM lemma="čtverý`4" src="manual" selected="1">CdFP4----------</AM>
 </tag>
 </m>
 <m id="m-wsj2386-001-p1s15W6-Ta">

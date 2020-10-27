@@ -1779,7 +1779,8 @@
 <tag>
 <AM lemma="aureus_,t_^(zlatá_římská_mince)" src="auto">NNIS1-----A----</AM>
 <AM lemma="aureus_,t_^(zlatá_římská_mince)" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="aureus-2" src="manual" selected="1">AAMS1----1A----</AM>
+<AM lemma="aureus-2" src="manual">AAMS1----1A----</AM>
+<AM lemma="aureus-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1255-001-p1s5W8-Ta">

@@ -3685,7 +3685,8 @@
 <AM lemma="doktor_:B_^(doktor,_akad._titul)" src="auto">NNMXX-----A---8</AM>
 <AM lemma="doktor_:B_^(doktor,_akad._titul)" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="doktorka_:B_^(doktorka,_akad._titul)" src="auto">NNFXX-----A---8</AM>
-<AM lemma="dr-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="dr-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="dr-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-9-p12s3w3">

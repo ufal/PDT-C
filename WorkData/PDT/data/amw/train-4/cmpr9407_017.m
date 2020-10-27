@@ -1516,7 +1516,8 @@
 <form>dobré</form>
 <tag>
 <AM lemma="dobrá-1_^(známka_ve_škole:_3)" src="auto">NNFS6-----A----</AM>
-<AM lemma="dobrý" src="manual" selected="1">AAFS6----1A---6</AM>
+<AM lemma="dobrý" src="manual">AAFS6----1A---6</AM>
+<AM lemma="dobrý" src="manual" selected="1">AAFS6----1A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-017-p10s4w9">
