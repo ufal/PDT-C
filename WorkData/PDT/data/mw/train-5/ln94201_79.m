@@ -2689,7 +2689,10 @@
 <LM>w#w-ln94201-79-p6s2w1</LM>
 </w.rf>
 <form>Čtvrtfinále</form>
-<tag lemma="čtvrtfinále" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="čtvrtfinále" src="orig">NNNS1-----A----</AM>
+<AM lemma="čtvrtfinále" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-79-p6s2w2">
 <src.rf>manual</src.rf>
@@ -3135,7 +3138,8 @@
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana-4_:B_^(v_knize,_rukopise,...)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="S-33" src="manual" selected="1">Q3-------------</AM>
+<AM lemma="S-33" src="manual">Q3-------------</AM>
+<AM lemma="S-1_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-79-p6s3w20">
@@ -3152,7 +3156,10 @@
 <LM>w#w-ln94201-79-p6s3w21</LM>
 </w.rf>
 <form>tching</form>
-<tag lemma="tching_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="tching_;Y" src="orig">NNFS1-----A----</AM>
+<AM lemma="tching" src="manual" selected="1">SNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-79-p6s3w22">
 <src.rf>manual</src.rf>
@@ -3362,7 +3369,10 @@
 <LM>w#w-ln94201-79-p6s4w1</LM>
 </w.rf>
 <form>Čtvrtfinále</form>
-<tag lemma="čtvrtfinále" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="čtvrtfinále" src="orig">NNNS1-----A----</AM>
+<AM lemma="čtvrtfinále" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-79-p6s4w2">
 <src.rf>manual</src.rf>
@@ -4228,7 +4238,10 @@
 <LM>w#w-ln94201-79-p7s2w1</LM>
 </w.rf>
 <form>Čtvrtfinále</form>
-<tag lemma="čtvrtfinále" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="čtvrtfinále" src="orig">NNNS1-----A----</AM>
+<AM lemma="čtvrtfinále" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-79-p7s2w2">
 <src.rf>manual</src.rf>
@@ -4422,7 +4435,10 @@
 <LM>w#w-ln94201-79-p7s3w1</LM>
 </w.rf>
 <form>Čtvrtfinále</form>
-<tag lemma="čtvrtfinále" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="čtvrtfinále" src="orig">NNNS1-----A----</AM>
+<AM lemma="čtvrtfinále" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-79-p7s3w2">
 <src.rf>manual</src.rf>
@@ -4869,7 +4885,10 @@
 <LM>w#w-ln94201-79-p8s2w1</LM>
 </w.rf>
 <form>Čtvrtfinále</form>
-<tag lemma="čtvrtfinále" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="čtvrtfinále" src="orig">NNNS1-----A----</AM>
+<AM lemma="čtvrtfinále" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-79-p8s2w2">
 <src.rf>manual</src.rf>
@@ -7254,7 +7273,10 @@
 <LM>w#w-ln94201-79-p13s3w1</LM>
 </w.rf>
 <form>Soon</form>
-<tag lemma="Soon_;Y" src="orig" selected="1">NNMXX-----A----</tag>
+<tag>
+<AM lemma="Soon_;Y" src="orig">NNMXX-----A----</AM>
+<AM lemma="Soon_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-79-p13s3w2">
 <src.rf>manual</src.rf>
@@ -7271,9 +7293,10 @@
 </w.rf>
 <form>won</form>
 <tag>
-<AM lemma="won-2_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="won-2_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="won" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="won" src="auto">NNIS4-----A----</AM>
+<AM lemma="won-2" src="manual" selected="1">SNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-79-p13s3w4">

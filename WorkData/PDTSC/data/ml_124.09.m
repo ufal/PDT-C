@@ -705,7 +705,9 @@
 <tag>
 <AM lemma="ymka_,l" src="auto">NNFS3-----A----</AM>
 <AM lemma="ymka_,l" src="auto" recommended="1">NNFS6-----A----</AM>
-<AM lemma="YMCE-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="YMCE-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Ymca_;m" src="manual">NNFS6-----A----</AM>
+<AM lemma="Ymca-1_;m" src="manual" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m124-d1t1466-1">
@@ -3117,7 +3119,7 @@
 <AM lemma="soustředěný_^(*3it)" src="auto">AAMP5----1A----</AM>
 <AM lemma="soustředění_^(*3it)" src="auto">NNNP1-----A----</AM>
 <AM lemma="soustředění_^(*3it)" src="auto">NNNP2-----A----</AM>
-<AM lemma="soustředění_^(*3it)" selected="1" src="auto">NNNP4-----A----</AM>
+<AM lemma="soustředění_^(*3it)" src="auto" selected="1">NNNP4-----A----</AM>
 <AM lemma="soustředění_^(*3it)" src="auto">NNNP5-----A----</AM>
 <AM lemma="soustředění_^(*3it)" src="auto">NNNS1-----A----</AM>
 <AM lemma="soustředění_^(*3it)" src="auto">NNNS2-----A----</AM>

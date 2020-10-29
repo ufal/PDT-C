@@ -3059,9 +3059,9 @@
 <AM lemma="země" src="auto">NNFP4-----A----</AM>
 <AM lemma="země" src="auto">NNFP5-----A----</AM>
 <AM lemma="země" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="země" src="auto">NNFS2-----A----</AM>
+<AM lemma="země" src="auto" selected="1">NNFS2-----A----</AM>
 <AM lemma="země" src="auto">NNFS5-----A----</AM>
-<AM lemma="země-2" src="manual" selected="1">S2--------A----</AM>
+<AM lemma="země-2" src="manual">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-wsj1778-001-p1s16W34-Ta">

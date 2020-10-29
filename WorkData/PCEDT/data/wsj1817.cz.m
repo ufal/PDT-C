@@ -2370,7 +2370,8 @@
 <tag>
 <AM lemma="zárodečný" src="auto" recommended="1">AAMP1----1A----</AM>
 <AM lemma="zárodečný" src="auto">AAMP5----1A----</AM>
-<AM lemma="zárodečný" src="manual" selected="1">AAIP4----1A---6</AM>
+<AM lemma="zárodečný" src="manual">AAIP4----1A---6</AM>
+<AM lemma="zárodeční" src="manual" selected="1">AAIP4----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj1817-001-p1s6W19-Ta">

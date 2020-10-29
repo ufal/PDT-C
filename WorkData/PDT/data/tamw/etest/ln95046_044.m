@@ -771,7 +771,10 @@
 <LM>w#w-ln95046-044-p2s5w20</LM>
 </w.rf>
 <form>von</form>
-<tag lemma="von-2" src="orig" selected="1">RR--X----------</tag>
+<tag>
+<AM lemma="von-2" src="orig">RR--X----------</AM>
+<AM lemma="von-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95046-044-p2s5w21">
 <src.rf>manual</src.rf>

@@ -1200,7 +1200,8 @@
 <AM lemma="Žďákovák" src="auto">NNMS3-----A---1</AM>
 <AM lemma="Žďákovák" src="auto" recommended="1">NNMS5-----A----</AM>
 <AM lemma="Žďákovák" src="auto">NNMS6-----A---1</AM>
-<AM lemma="Žďákovák_;E_,h" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Žďákovák_;E_,h" src="manual">NNIS2-----A----</AM>
+<AM lemma="Žďákovák-2_;G" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m040-805-807">

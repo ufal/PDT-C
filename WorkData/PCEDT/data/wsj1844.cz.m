@@ -19036,7 +19036,7 @@
 <AM lemma="V-33" src="auto">Q3-------------</AM>
 <AM lemma="volt" src="auto">NNIXX-----A---8</AM>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
-<AM lemma="v-1" src="auto">RR--6----------</AM>
+<AM lemma="v-1" src="auto" selected="1">RR--6----------</AM>
 <AM lemma="V-33" src="auto">Q3-------------</AM>
 <AM lemma="v-88" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>

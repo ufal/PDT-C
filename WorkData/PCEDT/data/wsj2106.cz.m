@@ -9183,7 +9183,8 @@
 <AM lemma="y-33" src="auto" recommended="1">Q3-------------</AM>
 <AM lemma="y-77_,t" src="auto">F%-------------</AM>
 <AM lemma="y-33" src="auto">Q3-------------</AM>
-<AM lemma="y_^(izolovaný_morfém)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="y_^(izolovaný_morfém)" src="manual">NNXXX-----A----</AM>
+<AM lemma="y-2_^(soubor/y)" src="manual" selected="1">SNIP4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2106-001-p1s36W21-Ta">

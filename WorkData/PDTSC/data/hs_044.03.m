@@ -494,7 +494,8 @@
 <AM lemma="Zdar_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="zdar" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="zdar" src="auto">NNIS4-----A----</AM>
-<AM lemma="zdar" src="manual" selected="1">TT-------------</AM>
+<AM lemma="zdar" src="manual">TT-------------</AM>
+<AM lemma="zdar-2" src="manual" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m044-d1t821-8">

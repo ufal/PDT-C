@@ -2905,7 +2905,8 @@
 <AM lemma="Zdena_;Y" src="auto">NNFS5-----A----</AM>
 <AM lemma="Zdeno_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Zdeno_;Y" src="auto">NNMS5-----A----</AM>
-<AM lemma="Zdeno_;Y" src="manual" selected="1">NNMS7-----A----</AM>
+<AM lemma="Zdeno_;Y" src="manual">NNMS7-----A----</AM>
+<AM lemma="Zdeno_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-116-p3s13w23">

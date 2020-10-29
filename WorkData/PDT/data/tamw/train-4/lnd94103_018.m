@@ -264,10 +264,11 @@
 </w.rf>
 <form>znehodnocovače</form>
 <tag>
-<AM lemma="znehodnocovač" src="orig" selected="1">NNIP1-----A----</AM>
+<AM lemma="znehodnocovač" src="orig">NNIP1-----A----</AM>
 <AM lemma="znehodnocovač" src="auto">NNMP4-----A----</AM>
 <AM lemma="znehodnocovač" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="znehodnocovač" src="auto">NNMS4-----A----</AM>
+<AM lemma="znehodnocovač-2" src="manual" selected="1">NNIP1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-018-p1s4w8">
@@ -675,7 +676,10 @@
 <LM>w#w-lnd94103-018-p1s6w15</LM>
 </w.rf>
 <form>znehodnocovačů</form>
-<tag lemma="znehodnocovač" src="orig" selected="1">NNMP2-----A----</tag>
+<tag>
+<AM lemma="znehodnocovač" src="orig">NNMP2-----A----</AM>
+<AM lemma="znehodnocovač-2" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-018-p1s6w16">
 <src.rf>manual</src.rf>

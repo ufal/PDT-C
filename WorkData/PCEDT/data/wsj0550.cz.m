@@ -307,7 +307,8 @@
 <AM lemma="Voroněž_;G" src="auto" recommended="1">NNFS3-----A----</AM>
 <AM lemma="Voroněž_;G" src="auto">NNFS5-----A----</AM>
 <AM lemma="Voroněž_;G" src="auto">NNFS6-----A----</AM>
-<AM lemma="Voroněž_;G" src="manual" selected="1">NNFS2-----A---6</AM>
+<AM lemma="Voroněž_;G" src="manual">NNFS2-----A---6</AM>
+<AM lemma="Voroněž_;G" src="manual" selected="1">NNFS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-wsj0550-001-p1s0W27-Ta">

@@ -5883,7 +5883,8 @@
 <form>Warner</form>
 <tag>
 <AM lemma="Warner_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Warner-2_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Warner-2_;m" src="manual">NNFS1-----A----</AM>
+<AM lemma="Warner-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0470-001-p1s9W37-Ta">

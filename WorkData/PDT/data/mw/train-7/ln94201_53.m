@@ -4299,7 +4299,10 @@
 <LM>w#w-ln94201-53-p10s3w1</LM>
 </w.rf>
 <form>Helsinky</form>
-<tag lemma="Helsinky_;G" src="orig" selected="1">NNFP1-----A----</tag>
+<tag>
+<AM lemma="Helsinky_;G" src="orig">NNFP1-----A----</AM>
+<AM lemma="Helsinky-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-53-p10s3w2">
 <src.rf>manual</src.rf>
@@ -4309,7 +4312,8 @@
 <form>Watch</form>
 <tag>
 <AM lemma="Watch_;m_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="Watch_;m" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="Watch_;m" src="manual">NNIXX-----A----</AM>
+<AM lemma="Watch-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-53-p10s3w3">

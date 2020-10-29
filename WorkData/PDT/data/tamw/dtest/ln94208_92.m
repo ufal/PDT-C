@@ -422,7 +422,8 @@
 <tag>
 <AM lemma="Rozladěn_;m" src="orig">NNMS1-----A----</AM>
 <AM lemma="rozladit" src="auto" recommended="1">VsYS---XX-AP---</AM>
-<AM lemma="rozladit" src="manual" selected="1">VsYS----X-APP-1</AM>
+<AM lemma="rozladit" src="manual">VsYS----X-APP-1</AM>
+<AM lemma="Rozladěn_;m" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-92-p2s1w38">
@@ -665,8 +666,9 @@
 <tag>
 <AM lemma="Flek_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="Flek_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="flek" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
+<AM lemma="flek" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="flek" src="auto">NNIS4-----A----</AM>
+<AM lemma="Flek-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-92-p3s1w15">

@@ -732,11 +732,12 @@
 </w.rf>
 <form>Želenického</form>
 <tag>
-<AM lemma="Želenický_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Želenický_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="želenický" src="auto">AAIS2----1A----</AM>
 <AM lemma="želenický" src="auto" recommended="1">AAMS2----1A----</AM>
 <AM lemma="želenický" src="auto">AAMS4----1A----</AM>
 <AM lemma="želenický" src="auto">AANS2----1A----</AM>
+<AM lemma="Želenický_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-006-p3s1w7">

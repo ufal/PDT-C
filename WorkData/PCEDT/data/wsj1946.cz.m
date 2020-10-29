@@ -7452,7 +7452,8 @@
 <AM lemma="York-1_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="York-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="York-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="York-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1946-001-p1s29W11-Ta">

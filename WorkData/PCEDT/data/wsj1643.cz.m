@@ -1486,7 +1486,8 @@
 <form>Stick</form>
 <tag>
 <AM lemma="Stick" src="auto">X@-------------</AM>
-<AM lemma="Stick_;G" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Stick_;G" src="manual">NNIS1-----A----</AM>
+<AM lemma="Stick_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1643-001-p1s5W6-Ta">
@@ -1793,11 +1794,11 @@
 <tag>
 <AM lemma="Yankee_;E" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Yankee_;E" src="auto">NNMS5-----A----</AM>
-<AM lemma="Yankee_;E" src="auto">NNMXX-----A----</AM>
+<AM lemma="Yankee_;E" src="auto" selected="1">NNMXX-----A----</AM>
 <AM lemma="Yankee_;E_,t_,x" src="auto">NNMS1-----A----</AM>
 <AM lemma="Yankee_;E_,t_,x" src="auto">NNMS5-----A----</AM>
 <AM lemma="Yankee_;E_,t_,x" src="auto">NNMXX-----A----</AM>
-<AM lemma="Yankee-2_;G" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Yankee-2_;G" src="manual">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1643-001-p1s6W8-Ta">

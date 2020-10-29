@@ -3416,7 +3416,9 @@
 <AM lemma="závěrečný_:B" src="orig">AAXXX----1A---8</AM>
 <AM lemma="závěr_^(př._z_jednání,_úvah)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="závěr_^(př._z_jednání,_úvah)" src="auto">NNIS4-----A----</AM>
-<AM lemma="závěrečný" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="závěrečný" src="manual">AAXXX----1A---8</AM>
+<AM lemma="závěr-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="závěr-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-040-p93s1w5">

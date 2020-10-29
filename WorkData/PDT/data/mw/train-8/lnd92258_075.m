@@ -1870,11 +1870,12 @@
 </w.rf>
 <form>Zetor</form>
 <tag>
-<AM lemma="Zetor-3_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Zetor-3_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Zetor_;m" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Zetor_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="zetor_,l" src="auto">NNIS1-----A----</AM>
 <AM lemma="zetor_,l" src="auto">NNIS4-----A----</AM>
+<AM lemma="Zetor-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-075-p5s2w34">
