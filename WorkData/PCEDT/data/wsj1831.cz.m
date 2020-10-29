@@ -12566,7 +12566,8 @@
 <AM lemma="video-1" src="auto">NNNS4-----A----</AM>
 <AM lemma="video-1" src="auto">NNNS5-----A----</AM>
 <AM lemma="video-2_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="video-1" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="video-1" src="manual">NNNXX-----A----</AM>
+<AM lemma="video-2" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj1831-001-p1s40W2-Ta">

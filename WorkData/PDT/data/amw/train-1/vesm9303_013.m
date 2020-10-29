@@ -432,7 +432,8 @@
 <AM lemma="interview" src="orig">NNIP7-----A----</AM>
 <AM lemma="interview" src="auto" recommended="1">NNNP1-----A----</AM>
 <AM lemma="interview" src="auto">NNNP4-----A----</AM>
-<AM lemma="interview" src="manual" selected="1">NNNP7-----A----</AM>
+<AM lemma="interview" src="manual">NNNP7-----A----</AM>
+<AM lemma="interview-2" src="manual" selected="1">NNIP7-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-013-p2s2w16">

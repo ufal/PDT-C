@@ -1510,7 +1510,8 @@
 <AM lemma="kobliha" src="auto">NNFP4-----A----</AM>
 <AM lemma="kobliha" src="auto">NNFP5-----A----</AM>
 <AM lemma="kobliha" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="koblih_,h" src="manual" selected="1">NNIP7-----A----</AM>
+<AM lemma="koblih_,h" src="manual">NNIP7-----A----</AM>
+<AM lemma="koblih_,n" src="manual" selected="1">NNIP7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2267-001-p1s5W19-Ta">

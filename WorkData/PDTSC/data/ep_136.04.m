@@ -2610,12 +2610,12 @@
 </w.rf>
 <form>T</form>
 <tag>
-<AM lemma="T-33" src="auto" recommended="1">Q3-------------</AM>
+<AM lemma="T-33" src="auto" recommended="1" selected="1">Q3-------------</AM>
 <AM lemma="T-33" src="auto">Q3-------------</AM>
 <AM lemma="T-33" src="auto">Q3-------------</AM>
 <AM lemma="t-88" src="auto">BNXXX-----A----</AM>
 <AM lemma="tuna_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="T-1_^(t-mobile)" src="manual" selected="1">S2--------A----</AM>
+<AM lemma="T-1_^(t-mobile)" src="manual">S2--------A----</AM>
 </tag>
 </m>
 <m id="m136-d1t2007-7">

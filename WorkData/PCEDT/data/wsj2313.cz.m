@@ -2619,7 +2619,7 @@
 <AM lemma="hotový" src="auto">AAFS3----1A----</AM>
 <AM lemma="hotový" src="auto">AAFS6----1A----</AM>
 <AM lemma="hotový" src="auto">AAIP1----1A----</AM>
-<AM lemma="hotový" src="auto" recommended="1">AAIP4----1A----</AM>
+<AM lemma="hotový" src="auto" recommended="1" selected="1">AAIP4----1A----</AM>
 <AM lemma="hotový" src="auto">AAIP5----1A----</AM>
 <AM lemma="hotový" src="auto">AAMP4----1A----</AM>
 <AM lemma="hotový" src="auto">AANP1----1A---6</AM>
@@ -2629,7 +2629,7 @@
 <AM lemma="hotový" src="auto">AANS4----1A----</AM>
 <AM lemma="hotový" src="auto">AANS5----1A----</AM>
 <AM lemma="hotový-2_,h" src="manual">NNIP4-----A----</AM>
-<AM lemma="hotové_,h" src="manual" selected="1">NNIP4-----A----</AM>
+<AM lemma="hotové_,h" src="manual">NNIP4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2313-001-p1s5W21-Ta">

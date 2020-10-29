@@ -206,7 +206,8 @@
 <AM lemma="Trebinje_;G" src="auto">NNNS2-----A----</AM>
 <AM lemma="Trebinje_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Trebinje_;G" src="auto">NNNS5-----A----</AM>
-<AM lemma="Trebinje_;G" src="auto" recommended="1" selected="1">NNNXX-----A----</AM>
+<AM lemma="Trebinje_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Trebinje_;G" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-042-p2s1w16">

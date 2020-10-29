@@ -797,7 +797,8 @@
 <AM lemma="ten" src="auto" recommended="1">PDMP1----------</AM>
 <AM lemma="ty" src="auto">PH-S3--2-------</AM>
 <AM lemma="ti" src="manual">SAXXX----1A----</AM>
-<AM lemma="ti_,i_^(10-ti)" src="manual" selected="1">S2--------A----</AM>
+<AM lemma="ti_,i_^(10-ti)" src="manual">S2--------A----</AM>
+<AM lemma="ti_^(10-ti)" src="manual" selected="1">Sn-XX----------</AM>
 </tag>
 </m>
 <m id="m-wsj0154-001-p1s1W45-Ta">
@@ -1308,18 +1309,17 @@
 <LM>w#w-wsj0154-001-p1s3W25</LM>
 </w.rf>
 <form>tj</form>
-<tag>
-<AM lemma="tj_^(to_je/jest)" src="auto" recommended="1">B^-------------</AM></tag>
+<tag lemma="tj_^(to_je/jest)" src="auto" recommended="1">B^-------------</tag>
 </m>
 <m id="m-wsj0154-001-p1s3W25-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0154-001-p1s3W25</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>.</form>
-<tag>
-<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="." src="auto" recommended="1">Z:-------------</tag>
+</m>
 <m id="m-wsj0154-001-p1s3W26-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

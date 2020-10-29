@@ -2206,11 +2206,11 @@
 <form>Týně</form>
 <tag>
 <AM lemma="Týně_;G" src="orig">NNIP1-----A----</AM>
-<AM lemma="Týn_;G" src="auto">NNIS6-----A----</AM>
+<AM lemma="Týn_;G" src="auto" selected="1">NNIS6-----A----</AM>
 <AM lemma="Týna_;Y" src="auto">NNFS3-----A----</AM>
 <AM lemma="Týna_;Y" src="auto">NNFS6-----A----</AM>
 <AM lemma="týn" src="auto" recommended="1">NNIS6-----A----</AM>
-<AM lemma="Týně_;G" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Týně_;G" src="manual">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-061-p11s1Bw14">

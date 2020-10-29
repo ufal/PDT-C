@@ -3211,7 +3211,8 @@
 <AM lemma="Sind_;G" src="auto">NNIP4-----A----</AM>
 <AM lemma="Sind_;G" src="auto">NNIP5-----A----</AM>
 <AM lemma="Sind_;G" src="auto">NNIP7-----A----</AM>
-<AM lemma="Sindy_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Sindy_;Y" src="manual">NNFS1-----A----</AM>
+<AM lemma="Sindy_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m003-d-m-d1e502-x2-punct-punct">

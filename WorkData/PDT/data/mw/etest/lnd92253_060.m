@@ -907,7 +907,9 @@
 <AM lemma="hr-1" src="auto" recommended="1">Db-------------</AM>
 <AM lemma="hr-2" src="auto">II-------------</AM>
 <AM lemma="hrabě_:B" src="manual">NNMXX-----A---8</AM>
-<AM lemma="hr_^(hrabě)" src="manual" selected="1">NNXXX-----A---b</AM>
+<AM lemma="hr_^(hrabě)" src="manual">NNXXX-----A---b</AM>
+<AM lemma="hr-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="hr-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-060-p3s3w10">

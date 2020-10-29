@@ -7235,7 +7235,8 @@
 <tag>
 <AM lemma="já" src="auto">PH-S2--1-------</AM>
 <AM lemma="já" src="auto" recommended="1">PH-S4--1-------</AM>
-<AM lemma="já" src="manual" selected="1">PH-S6--1------6</AM>
+<AM lemma="já" src="manual">PH-S6--1------6</AM>
+<AM lemma="já" src="manual" selected="1">PP-S6--1------9</AM>
 </tag>
 </m>
 <m id="m-wsj1302-001-p1s26W5-Ta">

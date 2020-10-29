@@ -1075,7 +1075,10 @@
 <LM>w#w-cmpr9415-027-p6s1w11</LM>
 </w.rf>
 <form>noor</form>
-<tag lemma="noor_;m_^(Koh-i-noor)" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="noor_;m_^(Koh-i-noor)" src="orig">NNXXX-----A----</AM>
+<AM lemma="noor_^(Koh-i-noor)" src="manual" selected="1">SNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-027-p6s1w12">
 <src.rf>manual</src.rf>

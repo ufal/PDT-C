@@ -17,9 +17,9 @@
 </w.rf>
 <form>Společnost</form>
 <tag>
-<AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS4-----A----</AM>
-<AM lemma="Společnost-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Společnost-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0074-001-p1s0W2-Ta">

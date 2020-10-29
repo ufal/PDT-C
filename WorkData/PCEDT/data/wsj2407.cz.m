@@ -10382,9 +10382,9 @@
 </w.rf>
 <form>VISTA</form>
 <tag>
-<AM lemma="Vista_;m" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Vista_;m" src="auto" recommended="1" selected="1">NNFS1-----A----</AM>
 <AM lemma="vista_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="VISTA-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="VISTA-88" src="manual">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2407-001-p1s25W98-Ta">

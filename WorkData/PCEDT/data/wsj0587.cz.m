@@ -5158,7 +5158,8 @@
 <form>Sioux</form>
 <tag>
 <AM lemma="Sioux_;E" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Sioux-2_;G" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Sioux-2_;G" src="manual">NNIS1-----A----</AM>
+<AM lemma="Sioux-3_;G" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0587-001-p1s19W17-Ta">

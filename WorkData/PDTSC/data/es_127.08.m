@@ -4732,7 +4732,8 @@
 <AM lemma="křemenáč" src="auto">NNIP4-----A----</AM>
 <AM lemma="křemenáč" src="auto">NNIP5-----A----</AM>
 <AM lemma="křemenáč" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="křemenáč" src="manual" selected="1">NNMS4-----A----</AM>
+<AM lemma="křemenáč" src="manual">NNMS4-----A----</AM>
+<AM lemma="křemenáč" src="manual" selected="1">NNIS4-----A---1</AM>
 </tag>
 </m>
 <m id="m127-226-271">

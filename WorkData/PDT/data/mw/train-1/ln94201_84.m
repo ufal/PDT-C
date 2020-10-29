@@ -78,8 +78,9 @@
 </w.rf>
 <form>tom</form>
 <tag>
-<AM lemma="tom" src="orig" selected="1">NNMS1-----A---b</AM>
+<AM lemma="tom" src="orig">NNMS1-----A---b</AM>
 <AM lemma="ten" src="auto" recommended="1">PDZS6----------</AM>
+<AM lemma="tom-99_;Y" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-84-p2s1w5">

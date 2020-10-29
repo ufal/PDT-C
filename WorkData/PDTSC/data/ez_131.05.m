@@ -625,7 +625,8 @@
 <AM lemma="Štefec_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Štefec_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Štefec_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Štefka-2_;Y" src="manual" selected="1">NNFS5-----A----</AM>
+<AM lemma="Štefka-2_;Y" src="manual">NNFS5-----A----</AM>
+<AM lemma="Štefka-2_;Y" src="manual" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m131-d1t960-15">

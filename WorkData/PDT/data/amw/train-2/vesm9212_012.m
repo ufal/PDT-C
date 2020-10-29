@@ -4901,9 +4901,10 @@
 </w.rf>
 <form>plodní</form>
 <tag>
-<AM lemma="plodní_^(od_plodu)" src="orig" selected="1">AAIP1----1A----</AM>
+<AM lemma="plodní_^(od_plodu)" src="orig">AAIP1----1A----</AM>
 <AM lemma="plodný" src="auto" recommended="1">AAMP1----1A----</AM>
 <AM lemma="plodný" src="auto">AAMP5----1A----</AM>
+<AM lemma="plodní" src="manual" selected="1">AAIP1----1A----</AM>
 </tag>
 </m>
 <m id="m-vesm9212-012-p11s5w7">

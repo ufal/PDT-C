@@ -219,7 +219,8 @@
 <tag>
 <AM lemma="Alfa_;m_^(vozidlo)" src="auto">NNFS1-----A----</AM>
 <AM lemma="alfa" src="manual">NNFS1-----A----</AM>
-<AM lemma="Alfa_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Alfa_;m" src="manual">NNFS1-----A----</AM>
+<AM lemma="Alfa-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-002-p4s1w10">
@@ -230,7 +231,8 @@
 <form>Omega</form>
 <tag>
 <AM lemma="Omega_;m_^(vozidlo)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Omega_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Omega_;m" src="manual">NNFS1-----A----</AM>
+<AM lemma="Omega-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-002-p4s1w11">
@@ -2141,7 +2143,8 @@
 <form>Alfa</form>
 <tag>
 <AM lemma="Alfa_;m_^(vozidlo)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Alfa_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Alfa_;m" src="manual">NNFS1-----A----</AM>
+<AM lemma="Alfa-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-002-p12s1w9">
@@ -2152,7 +2155,8 @@
 <form>Omega</form>
 <tag>
 <AM lemma="Omega_;m_^(vozidlo)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Omega_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Omega_;m" src="manual">NNFS1-----A----</AM>
+<AM lemma="Omega-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-002-p12s1w10">
@@ -4648,7 +4652,8 @@
 <form>Alfa</form>
 <tag>
 <AM lemma="Alfa_;m_^(vozidlo)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Alfa_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Alfa_;m" src="manual">NNFS1-----A----</AM>
+<AM lemma="Alfa-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-002-p18s2w8">
@@ -4659,7 +4664,8 @@
 <form>Omega</form>
 <tag>
 <AM lemma="Omega_;m_^(vozidlo)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Omega_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Omega_;m" src="manual">NNFS1-----A----</AM>
+<AM lemma="Omega-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-002-p18s2w9">
@@ -4672,7 +4678,8 @@
 <tag>
 <AM lemma="Travel_;m" src="orig">NNFS1-----A----</AM>
 <AM lemma="Travela_;m" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="travel" src="auto" selected="1">XX-------------</AM>
+<AM lemma="travel" src="auto">XX-------------</AM>
+<AM lemma="Travel-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-002-p18s2w10">
@@ -4829,7 +4836,8 @@
 <form>Alfa</form>
 <tag>
 <AM lemma="Alfa_;m_^(vozidlo)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Alfa_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Alfa_;m" src="manual">NNFS1-----A----</AM>
+<AM lemma="Alfa-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-002-p19s1w4">
@@ -4840,7 +4848,8 @@
 <form>Omega</form>
 <tag>
 <AM lemma="Omega_;m_^(vozidlo)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Omega_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Omega_;m" src="manual">NNFS1-----A----</AM>
+<AM lemma="Omega-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-002-p19s1w5">
@@ -5140,7 +5149,8 @@
 <form>Alfa</form>
 <tag>
 <AM lemma="Alfa_;m_^(vozidlo)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Alfa_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Alfa_;m" src="manual">NNFS1-----A----</AM>
+<AM lemma="Alfa-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-002-p21s1w3">
@@ -5151,7 +5161,8 @@
 <form>Omega</form>
 <tag>
 <AM lemma="Omega_;m_^(vozidlo)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Omega_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Omega_;m" src="manual">NNFS1-----A----</AM>
+<AM lemma="Omega-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-002-p21s1w4">

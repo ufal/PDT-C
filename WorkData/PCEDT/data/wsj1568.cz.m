@@ -11947,7 +11947,8 @@
 <AM lemma="Valentinus_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Valentinus_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="Valentino_;Y" src="manual">NNMS2-----A----</AM>
-<AM lemma="Valentine-1_;Y_^(muž)" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Valentine-1_;Y_^(muž)" src="manual">NNMS2-----A----</AM>
+<AM lemma="Valentine-1_;Y_^(muž)" src="manual" selected="1">NNMS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-wsj1568-001-p1s49W6-Ta">

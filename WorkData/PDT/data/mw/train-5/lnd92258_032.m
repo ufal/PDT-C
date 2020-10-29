@@ -154,7 +154,8 @@
 <AM lemma="seno" src="auto">NNNP4-----A----</AM>
 <AM lemma="seno" src="auto">NNNP5-----A----</AM>
 <AM lemma="seno" src="auto">NNNS2-----A----</AM>
-<AM lemma="sen-3_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="sen-3_;Y" src="manual">NNMS2-----A----</AM>
+<AM lemma="sen-3" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-032-p1s1w17">

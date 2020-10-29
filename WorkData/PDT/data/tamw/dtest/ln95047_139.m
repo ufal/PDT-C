@@ -915,10 +915,10 @@
 </w.rf>
 <form>Servus</form>
 <tag>
-<AM lemma="Servus_;m" src="orig">NNIS1-----A----</AM>
+<AM lemma="Servus_;m" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="servus" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="servus_,h_,s" src="auto">II-------------</AM>
-<AM lemma="servus" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="servus" src="manual">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-139-p4s1w18">

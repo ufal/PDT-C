@@ -517,7 +517,8 @@
 <AM lemma="mluvčí" src="auto">NNMP5-----A----</AM>
 <AM lemma="mluvčí" src="auto">NNMS1-----A----</AM>
 <AM lemma="mluvčí" src="auto">NNMS5-----A----</AM>
-<AM lemma="mluvčí-1" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="mluvčí-1" src="manual">NNMS2-----A----</AM>
+<AM lemma="mluvčí-1" src="manual" selected="1">NNMS2-----A---6</AM>
 </tag>
 </m>
 <m id="m-ln94208-51-p3s1w15">

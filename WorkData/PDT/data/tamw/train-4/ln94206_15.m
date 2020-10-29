@@ -1093,7 +1093,8 @@
 <form>Tamp</form>
 <tag>
 <AM lemma="Tampa_;G" src="orig">NNFP2-----A----</AM>
-<AM lemma="Tamp_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Tamp_;m" src="manual">NNXXX-----A----</AM>
+<AM lemma="Tamp_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-15-p4s1w16">

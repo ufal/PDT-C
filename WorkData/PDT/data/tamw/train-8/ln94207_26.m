@@ -733,14 +733,14 @@
 <form>novosti</form>
 <tag>
 <AM lemma="novosti_;m_,t" src="orig">NNFP1-----A----</AM>
-<AM lemma="novost_^(*3ý)" src="auto">NNFP1-----A----</AM>
+<AM lemma="novost_^(*3ý)" src="auto" selected="1">NNFP1-----A----</AM>
 <AM lemma="novost_^(*3ý)" src="auto">NNFP4-----A----</AM>
 <AM lemma="novost_^(*3ý)" src="auto">NNFP5-----A----</AM>
 <AM lemma="novost_^(*3ý)" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="novost_^(*3ý)" src="auto">NNFS3-----A----</AM>
 <AM lemma="novost_^(*3ý)" src="auto">NNFS5-----A----</AM>
 <AM lemma="novost_^(*3ý)" src="auto">NNFS6-----A----</AM>
-<AM lemma="novosti-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="novosti-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-26-p2s5w17">

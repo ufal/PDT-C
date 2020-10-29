@@ -97,9 +97,9 @@
 <tag>
 <AM lemma="obchodní" src="auto">AAIS2----1A----</AM>
 <AM lemma="obchodní" src="auto">AAMS2----1A----</AM>
-<AM lemma="obchodní" src="auto" recommended="1">AAMS4----1A----</AM>
+<AM lemma="obchodní" src="auto" recommended="1" selected="1">AAMS4----1A----</AM>
 <AM lemma="obchodní" src="auto">AANS2----1A----</AM>
-<AM lemma="obchodní" src="manual" selected="1">AAIS4----1A---1</AM>
+<AM lemma="obchodní" src="manual">AAIS4----1A---1</AM>
 </tag>
 </m>
 <m id="m104-d1t1308-5">

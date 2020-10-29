@@ -2019,8 +2019,9 @@
 </w.rf>
 <form>Villard</form>
 <tag>
-<AM lemma="Villard_;G" src="orig" selected="1">NNIXX-----A----</AM>
+<AM lemma="Villard_;G" src="orig">NNIXX-----A----</AM>
 <AM lemma="Villard_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Villard-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94206-99-p3s5w14">
@@ -2056,7 +2057,10 @@
 <LM>w#w-ln94206-99-p3s5w17</LM>
 </w.rf>
 <form>Lans</form>
-<tag lemma="Lans_;G" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Lans_;G" src="orig">NNNXX-----A----</AM>
+<AM lemma="Lans-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94206-99-p3s5w18">
 <src.rf>manual</src.rf>

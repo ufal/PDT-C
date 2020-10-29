@@ -1538,7 +1538,10 @@
 <LM>w#w-mf920925-122-p5s2w30</LM>
 </w.rf>
 <form>rubly</form>
-<tag lemma="rubl" src="orig" selected="1">NNIP1-----A----</tag>
+<tag>
+<AM lemma="rubl" src="orig">NNIP1-----A----</AM>
+<AM lemma="rubl" src="manual" selected="1">NNIP4-----A---1</AM>
+</tag>
 </m>
 <m id="m-mf920925-122-p5s2w31">
 <src.rf>manual</src.rf>

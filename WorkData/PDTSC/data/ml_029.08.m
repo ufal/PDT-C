@@ -3265,13 +3265,13 @@
 </w.rf>
 <form>hloubkaři</form>
 <tag>
-<AM lemma="hloubkař" src="auto" recommended="1">NNMP1-----A----</AM>
+<AM lemma="hloubkař" src="auto" recommended="1" selected="1">NNMP1-----A----</AM>
 <AM lemma="hloubkař" src="auto">NNMP5-----A----</AM>
 <AM lemma="hloubkař" src="auto">NNMP7-----A----</AM>
 <AM lemma="hloubkař" src="auto">NNMS3-----A----</AM>
 <AM lemma="hloubkař" src="auto">NNMS5-----A----</AM>
 <AM lemma="hloubkař" src="auto">NNMS6-----A----</AM>
-<AM lemma="hloubkaři-2" src="manual" selected="1">NNIP1-----A----</AM>
+<AM lemma="hloubkaři-2" src="manual">NNIP1-----A----</AM>
 </tag>
 </m>
 <m id="m029-d1e2624-x2-60">

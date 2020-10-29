@@ -1402,7 +1402,7 @@
 </w.rf>
 <form>stůl</form>
 <tag>
-<AM lemma="stůl" src="auto">NNIS1-----A----</AM>
+<AM lemma="stůl" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="stůl" src="auto" recommended="1">NNIS1-----N----</AM>
 <AM lemma="stůl" src="auto">NNIS4-----A----</AM>
 <AM lemma="stůl" src="auto">NNIS4-----N----</AM>
@@ -5199,7 +5199,7 @@
 <tag>
 <AM lemma="malinka_,e" src="auto">NNFS5-----A----</AM>
 <AM lemma="malinko-1" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="	malinko-1_^(málo_peněz)" src="manual">Ca--1----------</AM>
+<AM lemma=" malinko-1_^(málo_peněz)" src="manual">Ca--1----------</AM>
 <AM lemma="malinko-1_^(málo_peněz)" src="manual" selected="1">Ca--1----------</AM>
 </tag>
 </m>

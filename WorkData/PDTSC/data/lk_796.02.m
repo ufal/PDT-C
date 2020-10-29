@@ -3693,7 +3693,8 @@
 <AM lemma="sputum_;U" src="auto">NNNS1-----A----</AM>
 <AM lemma="sputum_;U" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="sputum_;U" src="auto">NNNS5-----A----</AM>
-<AM lemma="sputum_;U" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="sputum_;U" src="manual">NNNXX-----A----</AM>
+<AM lemma="sputum" src="manual" selected="1">NNNS4-----A----</AM>
 </tag>
 </m>
 <m id="m796-d-id87506">
@@ -5765,9 +5766,10 @@
 </w.rf>
 <form>lágr</form>
 <tag>
-<AM lemma="lágr" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="lágr" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="lágr" src="auto">NNIS4-----A----</AM>
-<AM lemma="lágr-2" src="manual" selected="1">AAIXX----1A----</AM>
+<AM lemma="lágr-2" src="manual">AAIXX----1A----</AM>
+<AM lemma="lágr-2" src="manual">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m796-id60599-3">

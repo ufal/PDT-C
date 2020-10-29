@@ -3396,7 +3396,10 @@
 <LM>w#w-lnd91301-064-p10s3w16</LM>
 </w.rf>
 <form>rublu</form>
-<tag lemma="rubl" src="orig" selected="1">NNIS3-----A----</tag>
+<tag>
+<AM lemma="rubl" src="orig">NNIS3-----A----</AM>
+<AM lemma="rubl" src="manual" selected="1">NNIS3-----A---1</AM>
+</tag>
 </m>
 <m id="m-lnd91301-064-p10s3w17">
 <src.rf>manual</src.rf>

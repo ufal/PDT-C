@@ -2520,7 +2520,8 @@
 <AM lemma="á-33" src="auto">Q3-------------</AM>
 <AM lemma="á-77_,t" src="auto">F%-------------</AM>
 <AM lemma="á-33" src="auto" recommended="1">Q3-------------</AM>
-<AM lemma="á-2_^(á_konto)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="á-2_^(á_konto)" src="manual">Db-------------</AM>
+<AM lemma="á-2" src="manual" selected="1">RR--1----------</AM>
 </tag>
 </m>
 <m id="m714-d1t904-5">
@@ -2529,7 +2530,7 @@
 </w.rf>
 <form>konto</form>
 <tag>
-<AM lemma="konto" src="auto">NNNS1-----A----</AM>
+<AM lemma="konto" src="auto" selected="1">NNNS1-----A----</AM>
 <AM lemma="konto" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="konto" src="auto">NNNS5-----A----</AM>
 </tag>

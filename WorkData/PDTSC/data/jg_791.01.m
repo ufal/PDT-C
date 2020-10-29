@@ -5599,7 +5599,8 @@
 <AM lemma="šedesát`60" src="auto" recommended="1">Cn-P3----------</AM>
 <AM lemma="šedesát`60" src="auto">Cn-P6----------</AM>
 <AM lemma="šedesát`60" src="auto">Cn-P7----------</AM>
-<AM lemma="šedesát-2`60" src="manual" selected="1">S2--------A----</AM>
+<AM lemma="šedesát-2`60" src="manual">S2--------A----</AM>
+<AM lemma="šedesáti`60" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m791-d1t447-18">

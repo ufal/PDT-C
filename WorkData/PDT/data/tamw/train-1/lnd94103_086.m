@@ -199,7 +199,9 @@
 <form>party</form>
 <tag>
 <AM lemma="part" src="orig">NNIP4-----A----</AM>
-<AM lemma="party" src="manual" selected="1">NNFS4-----A----</AM>
+<AM lemma="party" src="manual">NNFS4-----A----</AM>
+<AM lemma="party-1" src="manual">NNFXX-----A----</AM>
+<AM lemma="party-1_,s_^(^DD**párty)" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-086-p1s2w13">

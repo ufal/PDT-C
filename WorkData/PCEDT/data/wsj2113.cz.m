@@ -16363,7 +16363,8 @@
 <AM lemma="parta" src="auto">NNFP5-----A----</AM>
 <AM lemma="parta" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="party-77" src="auto">F%-------------</AM>
-<AM lemma="party_,s_^(^DD**párty)" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="party_,s_^(^DD**párty)" src="manual">NNFS1-----A----</AM>
+<AM lemma="party-1_,s_^(^DD**párty)" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2113-001-p1s61W21-Ta">

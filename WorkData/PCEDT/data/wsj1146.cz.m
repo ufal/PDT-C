@@ -22991,7 +22991,8 @@
 <tag>
 <AM lemma="mařice_;U_^(rostlina)" src="auto">NNFP2-----A---1</AM>
 <AM lemma="mařice_;U_^(rostlina)" src="auto" recommended="1">NNFS7-----A----</AM>
-<AM lemma="mařicí_^(*3it)" src="manual" selected="1">AGIS1-----A----</AM>
+<AM lemma="mařicí_^(*3it)" src="manual">AGIS1-----A----</AM>
+<AM lemma="mařicí" src="manual" selected="1">AAIS1----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj1146-001-p1s152W14-Ta">

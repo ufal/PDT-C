@@ -6386,10 +6386,11 @@
 </w.rf>
 <form>rudo</form>
 <tag>
-<AM lemma="rudý" src="orig" selected="1">S2--------A----</AM>
+<AM lemma="rudý" src="orig">S2--------A----</AM>
 <AM lemma="ruda" src="auto">NNFS5-----A----</AM>
 <AM lemma="rudo" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="rudo" src="auto">NNNS4-----A----</AM>
+<AM lemma="rudo-2" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-48-p10s1w33">

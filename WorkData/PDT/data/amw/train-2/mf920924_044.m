@@ -1882,7 +1882,9 @@
 <AM lemma="můj_^(přivlast.)" src="auto" recommended="1">PSFS4-S1------1</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSFS7-S1------1</AM>
 <AM lemma="moa_;U_^(vyhynulý_druh_pštrosa)" src="auto">NNMS4-----A----</AM>
-<AM lemma="mou_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="mou_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="mou" src="manual">SNMXX-----A----</AM>
+<AM lemma="mou-1" src="manual" selected="1">SNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-044-p2s7w35">

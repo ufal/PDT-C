@@ -5709,7 +5709,8 @@
 <AM lemma="příznivec" src="auto" recommended="1">NNMP4-----A----</AM>
 <AM lemma="příznivec" src="auto">NNMS2-----A----</AM>
 <AM lemma="příznivec" src="auto">NNMS4-----A----</AM>
-<AM lemma="příznivce_,h_^(^GC**příznivec)" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="příznivce_,h_^(^GC**příznivec)" src="manual">NNMS1-----A----</AM>
+<AM lemma="příznivec" src="manual" selected="1">NNMS1-----A---9</AM>
 </tag>
 </m>
 <m id="m-wsj0990-001-p1s16W23-Ta">

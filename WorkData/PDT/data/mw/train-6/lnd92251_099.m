@@ -3060,9 +3060,10 @@
 </w.rf>
 <form>majáles</form>
 <tag>
-<AM lemma="majáles" src="orig" selected="1">NNNXX-----A----</AM>
+<AM lemma="majáles" src="orig">NNNXX-----A----</AM>
 <AM lemma="majáles" src="auto">NNIS1-----A----</AM>
 <AM lemma="majáles" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="majáles" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-099-p6s4w12">

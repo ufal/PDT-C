@@ -1048,20 +1048,22 @@
 <LM>w#w-wsj1053-001-p1s3W17</LM>
 </w.rf>
 <form>49</form>
-<tag>
-<AM lemma="49" src="auto" recommended="1">C=-------------</AM></tag>
-</m><m id="m-wsj1053-001-p1s3W17-Ta-sw1">
+<tag lemma="49" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m-wsj1053-001-p1s3W17-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1053-001-p1s3W17</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>členného</form>
 <tag>
 <AM lemma="členný" src="auto">AAIS2----1A----</AM>
 <AM lemma="členný" src="auto">AAMS2----1A----</AM>
 <AM lemma="členný" src="auto">AAMS4----1A----</AM>
-<AM lemma="členný" src="auto" recommended="1">AANS2----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="členný" src="auto" recommended="1">AANS2----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj1053-001-p1s3W18-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -4316,9 +4318,9 @@
 </w.rf>
 <form>politickému</form>
 <tag>
-<AM lemma="politický" src="auto" recommended="1">AAIS3----1A----</AM>
+<AM lemma="politický" src="auto" recommended="1" selected="1">AAIS3----1A----</AM>
 <AM lemma="politický" src="auto">AAMS3----1A----</AM>
-<AM lemma="politický" src="auto" selected="1">AANS3----1A----</AM>
+<AM lemma="politický" src="auto">AANS3----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj1053-001-p1s17W8-Ta">
@@ -4329,9 +4331,9 @@
 <form>chóru</form>
 <tag>
 <AM lemma="chór" src="auto">NNIS2-----A----</AM>
-<AM lemma="chór" src="auto" recommended="1">NNIS3-----A----</AM>
+<AM lemma="chór" src="auto" recommended="1" selected="1">NNIS3-----A----</AM>
 <AM lemma="chór" src="auto">NNIS6-----A----</AM>
-<AM lemma="chórum_,i_^(politické_chórum)" src="manual" selected="1">NNNS3-----A----</AM>
+<AM lemma="chórum_,i_^(politické_chórum)" src="manual">NNNS3-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1053-001-p1s17W9-Ta">

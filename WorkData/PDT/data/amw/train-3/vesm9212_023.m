@@ -2233,7 +2233,10 @@
 <LM>w#w-vesm9212-023-p5s2w12</LM>
 </w.rf>
 <form>tých</form>
-<tag lemma="tý" src="orig" selected="1">Ck-P6----------</tag>
+<tag>
+<AM lemma="tý" src="orig">Ck-P6----------</AM>
+<AM lemma="tý-2_^(x-tý)" src="manual" selected="1">SANP6----1A----</AM>
+</tag>
 </m>
 <m id="m-vesm9212-023-p5s2w13">
 <src.rf>manual</src.rf>

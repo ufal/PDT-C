@@ -2240,7 +2240,10 @@
 <LM>w#w-mf930701-088-p3s2w27</LM>
 </w.rf>
 <form>Sekáči</form>
-<tag lemma="sekáč" src="orig" selected="1">NNMP1-----A----</tag>
+<tag>
+<AM lemma="sekáč" src="orig">NNMP1-----A----</AM>
+<AM lemma="sekáč-1" src="manual" selected="1">NNMP1-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf930701-088-p3s2a">

@@ -2369,7 +2369,8 @@
 <form>navzdory</form>
 <tag>
 <AM lemma="navzdory-2" src="auto">Db-------------</AM>
-<AM lemma="navzdory-1" src="manual" selected="1">RR--2----------</AM>
+<AM lemma="navzdory-1" src="manual">RR--2----------</AM>
+<AM lemma="navzdory-1" src="manual" selected="1">RR--3----------</AM>
 </tag>
 </m>
 <m id="m-lnd92259-002-p6s3w12">

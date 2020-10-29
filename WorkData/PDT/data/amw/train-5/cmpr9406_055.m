@@ -916,9 +916,11 @@
 </w.rf>
 <form>práv</form>
 <tag>
-<AM lemma="právní" src="orig" selected="1">AAXXX----1A---b</AM>
+<AM lemma="právní" src="orig">AAXXX----1A---b</AM>
 <AM lemma="práv_^(oprávněný)" src="auto">ACYS------A----</AM>
 <AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="práv-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="práv-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-055-p5s1w12">

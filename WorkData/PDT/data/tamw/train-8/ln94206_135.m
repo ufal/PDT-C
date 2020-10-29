@@ -1256,9 +1256,9 @@
 </w.rf>
 <form>totiž</form>
 <tag>
-<AM lemma="totiž" src="orig" selected="1">Db-------------</AM>
+<AM lemma="totiž" src="orig">Db-------------</AM>
 <AM lemma="totiž-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="totiž-2" src="auto">TT-------------</AM>
+<AM lemma="totiž-2" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-ln94206-135-p3s3w8">

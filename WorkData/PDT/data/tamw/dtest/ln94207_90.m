@@ -3902,7 +3902,8 @@
 <AM lemma="Veleslavín_;G" src="auto">NNIP7-----A----</AM>
 <AM lemma="Veleslavín_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Veleslavín_;Y" src="auto" recommended="1">NNMP7-----A----</AM>
-<AM lemma="Veleslavín_;Y" src="manual" selected="1">NNMS2-----A---2</AM>
+<AM lemma="Veleslavín_;Y" src="manual">NNMS2-----A---2</AM>
+<AM lemma="Veleslavín-1_;Y" src="manual" selected="1">NNMS2-----A---2</AM>
 </tag>
 </m>
 <m id="m-ln94207-90-p4s9w64">
@@ -5127,9 +5128,10 @@
 </w.rf>
 <form>impresí</form>
 <tag>
-<AM lemma="imprese" src="orig" selected="1">NNFS6-----A---3</AM>
+<AM lemma="imprese" src="orig">NNFS6-----A---3</AM>
 <AM lemma="imprese" src="auto">NNFP2-----A----</AM>
 <AM lemma="imprese" src="auto" recommended="1">NNFS7-----A----</AM>
+<AM lemma="impresí" src="manual" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-90-p5s6w21">
@@ -6842,7 +6844,10 @@
 <LM>w#w-ln94207-90-p6s6w33</LM>
 </w.rf>
 <form>jazykové</form>
-<tag lemma="jazyk" src="orig" selected="1">NNMP1-----A----</tag>
+<tag>
+<AM lemma="jazyk" src="orig">NNMP1-----A----</AM>
+<AM lemma="jazyk-2" src="manual" selected="1">NNMP1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-90-p6s6w34">
 <src.rf>manual</src.rf>

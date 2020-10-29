@@ -5579,6 +5579,7 @@
 <AM lemma="několikery" src="auto" recommended="1">Ck-P1----------</AM>
 <AM lemma="několikery" src="auto">Ck-P4----------</AM>
 <AM lemma="několikery" src="auto">Ck-P5----------</AM>
+<AM lemma="několikerý" src="manual" selected="1">ChFP1----------</AM>
 </tag>
 </m>
 <m id="m139-d1t2447-1">

@@ -3562,7 +3562,10 @@
 <LM>w#w-ln95041-047-p6s5w3</LM>
 </w.rf>
 <form>Mary</form>
-<tag lemma="Mary_;Y" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Mary_;Y" src="orig">NNFXX-----A----</AM>
+<AM lemma="Mary-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95041-047-p6s5w4">
 <src.rf>manual</src.rf>
@@ -3574,7 +3577,8 @@
 <AM lemma="Shelley_;Y" src="orig">NNFXX-----A----</AM>
 <AM lemma="Shelley_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Shelley_;Y" src="auto">NNMS5-----A----</AM>
-<AM lemma="Shelley-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Shelley-2_;Y" src="manual">NNFXX-----A----</AM>
+<AM lemma="Shelley-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95041-047-p6s5w5">
@@ -3591,7 +3595,10 @@
 <LM>w#w-ln95041-047-p6s5w6</LM>
 </w.rf>
 <form>s</form>
-<tag lemma="s-4_^(saský_genitiv)" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="s-4_^(saský_genitiv)" src="orig">NNXXX-----A----</AM>
+<AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95041-047-p6s5w7">
 <src.rf>manual</src.rf>

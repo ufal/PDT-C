@@ -1217,7 +1217,8 @@
 <form>pardón</form>
 <tag>
 <AM lemma="pardón" src="auto">X@-------------</AM>
-<AM lemma="pardón_,h_^(^GC**pardon)" src="manual" selected="1">II-------------</AM>
+<AM lemma="pardón_,h_^(^GC**pardon)" src="manual">II-------------</AM>
+<AM lemma="pardón_,s_^(^DD**pardon)" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m953-d-id81600">
@@ -4130,7 +4131,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m953-28105_03-d1e1241-x2"/>
+<s id="m953-28105_03-d1e1241-x2"></s>
 <s id="m953-28105_03-1818">
 <m id="m953-d1t1244-2">
 <w.rf>

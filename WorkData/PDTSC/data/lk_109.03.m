@@ -1558,10 +1558,10 @@
 <w.rf>
 <LM>w#w-602-603</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>1.5</form>
-<tag>
-<AM lemma="1.5" src="auto" recommended="1">C=-------------</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="1.5" src="auto" recommended="1">C=-------------</tag>
+</m>
 <m id="m109-602-607">
 <w.rf>
 <LM>w#w-602-607</LM>
@@ -2873,8 +2873,8 @@
 <AM lemma="neznámo_^(neznámé_místo)" src="auto">NNNS1-----A----</AM>
 <AM lemma="neznámo_^(neznámé_místo)" src="auto">NNNS4-----A----</AM>
 <AM lemma="neznámo_^(neznámé_místo)" src="auto">NNNS5-----A----</AM>
-<AM lemma="známý-2_^(co_známe)" src="auto" recommended="1">ACNS------N----</AM>
-<AM lemma="neznámo-2" src="manual" selected="1">Db-------------</AM>
+<AM lemma="známý-2_^(co_známe)" src="auto" recommended="1" selected="1">ACNS------N----</AM>
+<AM lemma="neznámo-2" src="manual">Db-------------</AM>
 </tag>
 </m>
 <m id="m109-673-675">

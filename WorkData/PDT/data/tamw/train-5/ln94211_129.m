@@ -3496,8 +3496,10 @@
 </w.rf>
 <form>Tou</form>
 <tag>
-<AM lemma="Tou_;G" src="orig" selected="1">NNNXX-----A----</AM>
+<AM lemma="Tou_;G" src="orig">NNNXX-----A----</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS7----------</AM>
+<AM lemma="tou" src="manual">SNNXX-----A----</AM>
+<AM lemma="tou" src="manual" selected="1">SNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-129-p8s2w17">

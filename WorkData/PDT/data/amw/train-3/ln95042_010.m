@@ -2380,7 +2380,8 @@
 <AM lemma="mikrob" src="orig">NNMS2-----A----</AM>
 <AM lemma="mikrob" src="auto" recommended="1">NNMS3-----A---1</AM>
 <AM lemma="mikrob" src="auto">NNMS6-----A---1</AM>
-<AM lemma="mikrob" src="manual" selected="1">NNMS2-----A---1</AM>
+<AM lemma="mikrob" src="manual">NNMS2-----A---1</AM>
+<AM lemma="mikrob-2" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-010-p5s3w4">

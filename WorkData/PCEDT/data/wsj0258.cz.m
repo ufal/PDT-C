@@ -529,7 +529,8 @@
 <AM lemma="Sunnyvale_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Sunnyvale_;G" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="Sunnyvale_;G" src="auto">NNIS5-----A----</AM>
-<AM lemma="Sunnyvale_;G" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Sunnyvale_;G" src="manual">NNXXX-----A----</AM>
+<AM lemma="Sunnyvale_;G" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0258-001-p1s1W10-Ta">

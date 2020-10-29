@@ -838,7 +838,7 @@
 <form_change>spell</form_change>
 <form>družstva</form>
 <tag>
-<AM lemma="družstvo" selected="1" src="auto">NNNP1-----A----</AM>
+<AM lemma="družstvo" src="auto" selected="1">NNNP1-----A----</AM>
 <AM lemma="družstvo" src="auto">NNNP4-----A----</AM>
 <AM lemma="družstvo" src="auto">NNNP5-----A----</AM>
 <AM lemma="družstvo" src="auto" recommended="1">NNNS2-----A----</AM>
@@ -3345,7 +3345,7 @@
 <tag>
 <AM lemma="korespondenční" src="auto">AAFP3----1A----</AM>
 <AM lemma="korespondenční" src="auto">AAIP3----1A----</AM>
-<AM lemma="korespondenční" selected="1" src="auto">AAIS6----1A----</AM>
+<AM lemma="korespondenční" src="auto" selected="1">AAIS6----1A----</AM>
 <AM lemma="korespondenční" src="auto">AAIS7----1A----</AM>
 <AM lemma="korespondenční" src="auto">AAMP3----1A----</AM>
 <AM lemma="korespondenční" src="auto">AAMS6----1A----</AM>
@@ -3567,7 +3567,8 @@
 <tag>
 <AM lemma="linout" src="auto">VB-S---3P-AAI--</AM>
 <AM lemma="line-77_,t" src="auto" recommended="1">F%-------------</AM>
-<AM lemma="line-1_^(on-line)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="line-1_^(on-line)" src="manual">Db-------------</AM>
+<AM lemma="line-2" src="manual" selected="1">SAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m122-d-id141308-punct">

@@ -2805,7 +2805,8 @@
 <tag>
 <AM lemma="hifi" src="orig">AAXXX----1A----</AM>
 <AM lemma="hifi_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="hifi-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="hifi-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="hifi-1" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-072-p8s2w8">

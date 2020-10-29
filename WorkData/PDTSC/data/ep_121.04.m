@@ -1719,7 +1719,8 @@
 <tag>
 <AM lemma="Šerák_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Šerák_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Šerák_;G" src="manual" selected="1">NNIS4-----A---1</AM>
+<AM lemma="Šerák_;G" src="manual">NNIS4-----A---1</AM>
+<AM lemma="Šerák_;G" src="manual" selected="1">NNIS2-----A---1</AM>
 </tag>
 </m>
 <m id="m121-d-id106489-punct">

@@ -5111,7 +5111,8 @@
 <AM lemma="trans" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="trans" src="auto">NNIS4-----A----</AM>
 <AM lemma="trans-3_:B_,t" src="manual">NNXXX-----A---8</AM>
-<AM lemma="Trans-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="Trans-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="Trans-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-039-p8s5w2">

@@ -1939,7 +1939,9 @@
 <AM lemma="Tádž_;m" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Tádž_;m" src="auto">NNIS4-----A----</AM>
 <AM lemma="Tádž_;G" src="manual">NNIXX-----A----</AM>
-<AM lemma="Tádž" src="manual" selected="1">S2--------A----</AM>
+<AM lemma="Tádž" src="manual">S2--------A----</AM>
+<AM lemma="Tádž_;G_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Tádž-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="mu_12-SCzechM-p1239-s1-w7-sw1">
@@ -1952,6 +1954,7 @@
 <AM lemma="Mahal-1_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Mahal-2_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Mahala_;G" src="auto">NNFP2-----A----</AM>
+<AM lemma="Mahal-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="mu_12-SCzechM-p1239-s1-w8">

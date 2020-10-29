@@ -1727,7 +1727,8 @@
 <AM lemma="id_^(termín_z_psychoanalýzy)" src="auto">NNIS4-----A----</AM>
 <AM lemma="ido" src="auto" recommended="1">NNNP2-----A----</AM>
 <AM lemma="idy_^(den_v_měsíci)" src="auto">NNFP2-----A----</AM>
-<AM lemma="id-2" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="id-2" src="manual">NNNXX-----A----</AM>
+<AM lemma="id-2" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-ln95042-025-p2s10Bw11">
@@ -1760,7 +1761,10 @@
 <LM>w#w-ln95042-025-p2s10Bw14</LM>
 </w.rf>
 <form>ealista</form>
-<tag lemma="ealista_^(-ealista)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="ealista_^(-ealista)" src="orig">NNNXX-----A----</AM>
+<AM lemma="ealista" src="manual" selected="1">SNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95042-025-p2s10Bw15">
 <src.rf>manual</src.rf>

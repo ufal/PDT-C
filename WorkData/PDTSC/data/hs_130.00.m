@@ -4029,10 +4029,11 @@
 </w.rf>
 <form>kápa</form>
 <tag>
-<AM lemma="kápo" src="auto" selected="1">NNNP1-----A----</AM>
+<AM lemma="kápo" src="auto">NNNP1-----A----</AM>
 <AM lemma="kápo" src="auto">NNNP4-----A----</AM>
 <AM lemma="kápo" src="auto">NNNP5-----A----</AM>
 <AM lemma="kápo" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="kápo" src="manual" selected="1">NNMP1-----A---6</AM>
 </tag>
 </m>
 <m id="m130-d1t159-6">

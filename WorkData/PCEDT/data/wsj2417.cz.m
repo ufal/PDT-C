@@ -25321,13 +25321,13 @@
 <tag>
 <AM lemma="Uspenskij_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Uspenskij_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Uspenský_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Uspenský_;Y" src="auto" selected="1">NNMS2-----A----</AM>
 <AM lemma="Uspenský_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="uspenský" src="auto" recommended="1">AAIS2----1A----</AM>
 <AM lemma="uspenský" src="auto">AAMS2----1A----</AM>
 <AM lemma="uspenský" src="auto">AAMS4----1A----</AM>
 <AM lemma="uspenský" src="auto">AANS2----1A----</AM>
-<AM lemma="Uspenského_;Y_^(*3ij)" src="manual" selected="1">AUFS6M---------</AM>
+<AM lemma="Uspenského_;Y_^(*3ij)" src="manual">AUFS6M---------</AM>
 </tag>
 </m>
 <m id="m-wsj2417-001-p1s92W22-Ta">

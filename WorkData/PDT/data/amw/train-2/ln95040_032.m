@@ -399,7 +399,10 @@
 <LM>w#w-ln95040-032-p2s3w5</LM>
 </w.rf>
 <form>Sparty</form>
-<tag lemma="Sparta_;m" src="orig" selected="1">NNFP1-----A----</tag>
+<tag>
+<AM lemma="Sparta_;m" src="orig">NNFP1-----A----</AM>
+<AM lemma="Sparta_;G_;m" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-032-p2s3w6">
 <src.rf>manual</src.rf>

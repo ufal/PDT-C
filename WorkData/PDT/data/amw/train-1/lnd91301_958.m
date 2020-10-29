@@ -267,7 +267,8 @@
 <form>Vidimem</form>
 <tag>
 <AM lemma="Vidim_;G" src="orig">NNFP3-----A----</AM>
-<AM lemma="Vidim-2_;Y" src="manual" selected="1">NNMS3-----A----</AM>
+<AM lemma="Vidim-2_;Y" src="manual">NNMS3-----A----</AM>
+<AM lemma="Vidim-2_;Y" src="manual" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-958-p2s1Aw27">

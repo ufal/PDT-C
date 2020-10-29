@@ -3973,7 +3973,10 @@
 <LM>w#w-mf920925-093-p7s11w6</LM>
 </w.rf>
 <form>tré</form>
-<tag lemma="tré" src="orig" selected="1">Cn-S1----------</tag>
+<tag>
+<AM lemma="tré" src="orig">Cn-S1----------</AM>
+<AM lemma="tré" src="manual" selected="1">CjNS1----------</AM>
+</tag>
 </m>
 <m id="m-mf920925-093-p7s11w7">
 <src.rf>manual</src.rf>

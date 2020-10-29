@@ -2661,7 +2661,8 @@
 <AM lemma="video-1" src="auto">NNNS5-----A----</AM>
 <AM lemma="video-2_,t" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="video-1" src="manual">NNNS1-----A----</AM>
-<AM lemma="video-1" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="video-1" src="manual">NNNXX-----A----</AM>
+<AM lemma="video-2" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj1367-001-p1s10W12-Ta">
@@ -5985,22 +5986,23 @@
 <LM>w#w-wsj1367-001-p1s22W3</LM>
 </w.rf>
 <form>48</form>
-<tag>
-<AM lemma="48" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="48" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj1367-001-p1s22W3-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1367-001-p1s22W3</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>letá</form>
 <tag>
 <AM lemma="letý" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="letý" src="auto">AAFS5----1A----</AM>
 <AM lemma="letý" src="auto">AANP1----1A----</AM>
 <AM lemma="letý" src="auto">AANP4----1A----</AM>
-<AM lemma="letý" src="auto">AANP5----1A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="letý" src="auto">AANP5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj1367-001-p1s22W4-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -13643,9 +13645,9 @@
 </w.rf>
 <form>Tolstého</form>
 <tag>
-<AM lemma="Tolstý_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Tolstý_;Y" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
 <AM lemma="Tolstý_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Tolstého_;Y_^(*3ý)" src="manual" selected="1">AUFP1M---------</AM>
+<AM lemma="Tolstého_;Y_^(*3ý)" src="manual">AUFP1M---------</AM>
 </tag>
 </m>
 <m id="m-wsj1367-001-p1s55W3-Ta">

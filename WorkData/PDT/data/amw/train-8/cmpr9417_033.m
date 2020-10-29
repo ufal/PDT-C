@@ -3334,9 +3334,10 @@
 </w.rf>
 <form>Shakespeary</form>
 <tag>
-<AM lemma="Shakespeare-2_;m" src="orig" selected="1">NNIP1-----A----</AM>
+<AM lemma="Shakespeare-2_;m" src="orig">NNIP1-----A----</AM>
 <AM lemma="Shakespeare_;Y" src="auto" recommended="1">NNMP4-----A----</AM>
 <AM lemma="Shakespeare_;Y" src="auto">NNMP7-----A----</AM>
+<AM lemma="Shakespear-2_;m" src="manual" selected="1">NNIP1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-033-p13s2w4">

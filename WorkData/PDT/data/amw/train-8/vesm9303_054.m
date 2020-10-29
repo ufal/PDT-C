@@ -477,7 +477,8 @@
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">PJFS2----------</AM>
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">PJFS3----------</AM>
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJFS7----------</AM>
-<AM lemma="již-1" src="manual" selected="1">Db-------------</AM>
+<AM lemma="již-1" src="manual">Db-------------</AM>
+<AM lemma="jíž_,i_^(^DS**již-1)" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9303-054-p5s2w8">

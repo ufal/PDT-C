@@ -11599,7 +11599,9 @@
 <AM lemma="visum_,s_^(cest._formalita)_(^DD**vízum)" src="auto">NNNP4-----A----</AM>
 <AM lemma="visum_,s_^(cest._formalita)_(^DD**vízum)" src="auto">NNNP5-----A----</AM>
 <AM lemma="visum_,s_^(cest._formalita)_(^DD**vízum)" src="auto">NNNS2-----A----</AM>
-<AM lemma="VISA-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="VISA-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="VISA-77" src="manual">F%-------------</AM>
+<AM lemma="Visa-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0779-001-p1s47W10-Ta">

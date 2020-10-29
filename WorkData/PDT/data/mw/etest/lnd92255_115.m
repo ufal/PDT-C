@@ -989,7 +989,9 @@
 <AM lemma="startovní_:B" src="orig">AAXXX----1A---8</AM>
 <AM lemma="start" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="start" src="auto">NNIS4-----A----</AM>
-<AM lemma="startovní" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="startovní" src="manual">AAXXX----1A---8</AM>
+<AM lemma="start-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="start-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92255-115-p3s6w19">

@@ -2569,7 +2569,8 @@
 <AM lemma="Sokolová_;Y" src="auto">NNFS6-----A----</AM>
 <AM lemma="sokol-1_;U_^(pták)" src="auto">NNMP1-----A----</AM>
 <AM lemma="sokol-1_;U_^(pták)" src="auto">NNMP5-----A----</AM>
-<AM lemma="sokol-1_^(pták;člen_organizace)" src="manual" selected="1">NNMP1-----A----</AM>
+<AM lemma="sokol-1_^(pták;člen_organizace)" src="manual">NNMP1-----A----</AM>
+<AM lemma="sokol-1" src="manual" selected="1">NNMP1-----A----</AM>
 </tag>
 </m>
 <m id="m015-d1t1111-55">

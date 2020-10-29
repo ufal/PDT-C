@@ -1378,8 +1378,8 @@
 </w.rf>
 <form>Seliko</form>
 <tag>
-<AM lemma="Seliko_;m" src="orig">NNNS1-----A----</AM>
-<AM lemma="Seliko_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Seliko_;m" src="orig" selected="1">NNNS1-----A----</AM>
+<AM lemma="Seliko_;m" src="manual">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-104-p3s3w5">

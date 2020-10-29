@@ -1353,6 +1353,7 @@
 <AM lemma="odpolední" src="auto">AAMP6----1A----</AM>
 <AM lemma="odpolední" src="auto">AANP2----1A----</AM>
 <AM lemma="odpolední" src="auto">AANP6----1A----</AM>
+<AM lemma="odpoledne-2" src="manual" selected="1">NNNP6-----A---1</AM>
 </tag>
 </m>
 <m id="m-wsj1643-001-p1s4W29-Ta">
@@ -1397,7 +1398,8 @@
 <tag>
 <AM lemma="Tigers_;m" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Tigers_;m" src="auto">NNIS4-----A----</AM>
-<AM lemma="Tigers-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Tigers-2_;m" src="manual">NNXXX-----A----</AM>
+<AM lemma="Tigers_;m" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1643-001-p1s4W33-Ta">

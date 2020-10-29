@@ -3600,7 +3600,8 @@
 <AM lemma="tvůj_^(přivlast.)">PSFS4-P2-------</AM>
 <AM lemma="tvůj_^(přivlast.)">PSMP1-P2-------</AM>
 <AM lemma="tvůj_^(přivlast.)">PSMP5-P2-------</AM>
-<AM lemma="tvůj_^(přivlast.)" src="manual" selected="1">PSFS7-P2------6</AM>
+<AM lemma="tvůj_^(přivlast.)" src="manual">PSFS7-P2------6</AM>
+<AM lemma="váš" src="manual" selected="1">PSFS7-P2------9</AM>
 </tag>
 </m>
 <m id="mu_06-SCzechM-p0597-s1-w4">

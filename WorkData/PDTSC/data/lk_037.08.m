@@ -904,7 +904,8 @@
 <AM lemma="maličko-2" src="auto">NNNS4-----A----</AM>
 <AM lemma="maličko-2" src="auto">NNNS5-----A----</AM>
 <AM lemma="maličko-1" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="maličko-1_^(*3ý)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="maličko-1_^(*3ý)" src="manual">Db-------------</AM>
+<AM lemma="maličko-3" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m037-d1t2615-18">

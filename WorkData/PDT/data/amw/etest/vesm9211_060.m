@@ -7583,9 +7583,9 @@
 <tag>
 <AM lemma="logaritmus_:B" src="orig">NNIXX-----A---8</AM>
 <AM lemma="log_^(záznam)" src="auto">NNIS1-----A----</AM>
-<AM lemma="log_^(záznam)" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="log_^(záznam)" src="auto" recommended="1" selected="1">NNIS4-----A----</AM>
 <AM lemma="logo_^(značka)" src="auto">NNNP2-----A----</AM>
-<AM lemma="logaritmus" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="logaritmus" src="manual">NNIXX-----A---8</AM>
 </tag>
 </m>
 <m id="m-vesm9211-060-p13s5w4">
@@ -7907,8 +7907,8 @@
 <w.rf>
 <LM>w#w-vesm9211-060-p13s7Aw23</LM>
 </w.rf>
-<form>&gt;</form>
-<tag lemma="&gt;" src="orig" selected="1">Z:-------------</tag>
+<form>></form>
+<tag lemma=">" src="orig" selected="1">Z:-------------</tag>
 </m>
 <m id="m-vesm9211-060-p13s7Aw24">
 <src.rf>manual</src.rf>

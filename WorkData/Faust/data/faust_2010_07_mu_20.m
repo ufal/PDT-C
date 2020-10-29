@@ -2463,9 +2463,9 @@
 </w.rf>
 <form>ujisti</form>
 <tag>
-<AM lemma="ujistit" recommended="1">Vi-S---2--A-P--</AM>
+<AM lemma="ujistit" recommended="1" selected="1">Vi-S---2--A-P--</AM>
 <AM lemma="ujistit">Vi-S---3--A-P-4</AM>
-<AM lemma="ujistit" src="manual" selected="1">Vf--------A-P--</AM>
+<AM lemma="ujistit" src="manual">Vf--------A-P--</AM>
 </tag>
 </m>
 <m id="mu_20-SCzechM-p2133-s1-w5">

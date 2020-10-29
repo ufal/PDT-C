@@ -1575,7 +1575,8 @@
 <tag>
 <AM lemma="GJ-1`gigajoul_^(Gigajoule)" src="orig">NNIS4-----A----</AM>
 <AM lemma="gigajoul" src="manual">NNIXX-----A---8</AM>
-<AM lemma="gigajoul_^(Gigajoule)" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="gigajoul_^(Gigajoule)" src="manual">NNIXX-----A---8</AM>
+<AM lemma="gigajoul_^(Gigajoule)" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-049-p7s1w9">

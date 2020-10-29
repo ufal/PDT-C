@@ -482,7 +482,8 @@
 <AM lemma="Suchumsko_;G" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="Suchumsko_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Suchumsko_;G" src="auto">NNNS5-----A----</AM>
-<AM lemma="suchumský" src="manual" selected="1">S2--------A----</AM>
+<AM lemma="suchumský" src="manual">S2--------A----</AM>
+<AM lemma="suchumsko" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-126-p3s1w2">

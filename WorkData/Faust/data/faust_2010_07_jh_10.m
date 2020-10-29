@@ -1283,10 +1283,10 @@
 </w.rf>
 <form>milovanému</form>
 <tag>
-<AM lemma="milovaný_^(*2t)" recommended="1">AAMS3----1A----</AM>
+<AM lemma="milovaný_^(*2t)" recommended="1" selected="1">AAMS3----1A----</AM>
 <AM lemma="milovaný_^(*2t)">AAIS3----1A----</AM>
 <AM lemma="milovaný_^(*2t)">AANS3----1A----</AM>
-<AM lemma="milovaný-2" src="manual" selected="1">NNMS3-----A----</AM>
+<AM lemma="milovaný-2" src="manual">NNMS3-----A----</AM>
 </tag>
 </m>
 <m id="jh_10-SCzechM-p0996-s1-w5">
@@ -1351,7 +1351,7 @@
 <AM lemma="milovaný_^(*2t)">AAMP1----1A---6</AM>
 <AM lemma="milovaný_^(*2t)">AAMP4----1A---6</AM>
 <AM lemma="milovaný_^(*2t)">AAMP5----1A---6</AM>
-<AM lemma="milovaný_^(*2t)">AAMS1----1A----</AM>
+<AM lemma="milovaný_^(*2t)" selected="1">AAMS1----1A----</AM>
 <AM lemma="milovaný_^(*2t)">AAMS5----1A----</AM>
 <AM lemma="milovaný_^(*2t)">AANP1----1A---6</AM>
 <AM lemma="milovaný_^(*2t)">AANP4----1A---6</AM>
@@ -1359,7 +1359,7 @@
 <AM lemma="milovaný_^(*2t)">AANS1----1A---6</AM>
 <AM lemma="milovaný_^(*2t)">AANS4----1A---6</AM>
 <AM lemma="milovaný_^(*2t)">AANS5----1A---6</AM>
-<AM lemma="milovaný-2" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="milovaný-2" src="manual">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="jh_10-SCzechM-p0996-s1-w10">

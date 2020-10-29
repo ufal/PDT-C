@@ -3235,7 +3235,9 @@
 <AM lemma="viktorie_;U" src="auto">NNFS1-----A----</AM>
 <AM lemma="viktorie_;U" src="auto">NNFS2-----A----</AM>
 <AM lemma="viktorie_;U" src="auto">NNFS5-----A----</AM>
-<AM lemma="Viktorie-2_;G" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="Viktorie-2_;G" src="manual">NNFS2-----A----</AM>
+<AM lemma="Viktoria_;G_;Y_;m" src="manual">NNFS2-----A----</AM>
+<AM lemma="Viktoria_;G_;Y_;m" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m115-d1t1831-2">

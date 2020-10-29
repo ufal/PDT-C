@@ -4836,7 +4836,8 @@
 <tag>
 <AM lemma="Ski_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="ski_,t" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Ski_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Ski_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Ski-1_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-005-p12s3w7">

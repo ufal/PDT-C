@@ -4330,7 +4330,7 @@
 </w.rf>
 <form>osmifinále</form>
 <tag>
-<AM lemma="osmifinále" src="orig">NNNXX-----A----</AM>
+<AM lemma="osmifinále" src="orig" selected="1">NNNXX-----A----</AM>
 <AM lemma="osmifinále" src="auto">NNNP1-----A----</AM>
 <AM lemma="osmifinále" src="auto">NNNP2-----A----</AM>
 <AM lemma="osmifinále" src="auto">NNNP4-----A----</AM>
@@ -4343,7 +4343,7 @@
 <AM lemma="osmifinále" src="auto">NNNS4-----A----</AM>
 <AM lemma="osmifinále" src="auto">NNNS5-----A----</AM>
 <AM lemma="osmifinále" src="auto">NNNS6-----A----</AM>
-<AM lemma="osmifinále" src="manual" selected="1">NNNS7-----A----</AM>
+<AM lemma="osmifinále" src="manual">NNNS7-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-100-p5s3w65">

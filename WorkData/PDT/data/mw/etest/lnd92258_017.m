@@ -279,7 +279,8 @@
 <form>Hommage</form>
 <tag>
 <AM lemma="hommage_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Hommage-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Hommage-77" src="manual">F%-------------</AM>
+<AM lemma="hommage" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-017-p1s1w33">
@@ -290,7 +291,8 @@
 <form>á</form>
 <tag>
 <AM lemma="á-1" src="orig">II-------------</AM>
-<AM lemma="á-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="á-77" src="manual">F%-------------</AM>
+<AM lemma="á-2" src="manual" selected="1">RR--1----------</AM>
 </tag>
 </m>
 <m id="m-lnd92258-017-p1s1w34">

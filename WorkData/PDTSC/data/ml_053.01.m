@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_36_schema.xml"></schema>
+<schema href="mdata_36_schema.xml" />
 <references>
-<reffile id="w" name="wdata" href="ml_053.01.w"></reffile>
+<reffile id="w" name="wdata" href="ml_053.01.w" />
 </references>
 </head>
 <s id="m053-174">
@@ -1102,16 +1102,16 @@
 <LM>w#w-d1t361-9</LM>
 </w.rf>
 <form>tady</form>
-<tag>
-<AM lemma="tady" src="auto" recommended="1">Db-------------</AM></tag>
-</m><m id="m053-d1t361-9-sw1">
+<tag lemma="tady" src="auto" recommended="1">Db-------------</tag>
+</m>
+<m id="m053-d1t361-9-sw1">
 <w.rf>
 <LM>w#w-d1t361-9</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>odtud</form>
-<tag>
-<AM lemma="odtud" src="auto" recommended="1">Db-------------</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="odtud" src="auto" recommended="1">Db-------------</tag>
+</m>
 <m id="m053-d-id66512-punct">
 <w.rf>
 <LM>w#w-d-id66512-punct</LM>
@@ -2627,11 +2627,11 @@
 </w.rf>
 <form>třináctého</form>
 <tag>
-<AM lemma="třináctý" src="auto" recommended="1">CrIS2----------</AM>
+<AM lemma="třináctý" src="auto" recommended="1" selected="1">CrIS2----------</AM>
 <AM lemma="třináctý" src="auto">CrMS2----------</AM>
 <AM lemma="třináctý" src="auto">CrMS4----------</AM>
 <AM lemma="třináctý" src="auto">CrNS2----------</AM>
-<AM lemma="třináctý" src="manual" selected="1">CrIS4----------</AM>
+<AM lemma="třináctý" src="manual">CrIS4----------</AM>
 </tag>
 </m>
 <m id="m053-d1t461-11">

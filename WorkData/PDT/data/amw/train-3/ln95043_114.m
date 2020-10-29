@@ -421,10 +421,11 @@
 </w.rf>
 <form>ta</form>
 <tag>
-<AM lemma="ta" src="orig" selected="1">NNNXX-----A----</AM>
+<AM lemma="ta" src="orig">NNNXX-----A----</AM>
 <AM lemma="ten" src="auto" recommended="1">PDFS1----------</AM>
 <AM lemma="ten" src="auto">PDNP1----------</AM>
 <AM lemma="ten" src="auto">PDNP4----------</AM>
+<AM lemma="ta" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95043-114-p4s1w32">

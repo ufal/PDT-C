@@ -866,9 +866,11 @@
 </w.rf>
 <form>rum</form>
 <tag>
-<AM lemma="rumunsky" src="orig" selected="1">Dg-------1A---b</AM>
+<AM lemma="rumunsky" src="orig">Dg-------1A---b</AM>
 <AM lemma="rum" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="rum" src="auto">NNIS4-----A----</AM>
+<AM lemma="rum-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="rum-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-096-p3s4w16">

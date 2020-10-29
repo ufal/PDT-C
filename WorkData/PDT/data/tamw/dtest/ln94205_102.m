@@ -116,8 +116,9 @@
 </w.rf>
 <form>Schott</form>
 <tag>
-<AM lemma="Schott_;m" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Schott_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="Schott_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Schott-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-102-p2s1w8">
@@ -168,7 +169,8 @@
 <form>Panton</form>
 <tag>
 <AM lemma="Panton_;Y" src="orig">NNIS1-----A----</AM>
-<AM lemma="Panton_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Panton_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Panton-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94205-102-p2s1w14">

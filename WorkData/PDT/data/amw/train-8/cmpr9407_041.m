@@ -952,7 +952,10 @@
 <LM>w#w-cmpr9407-041-p5s1w5</LM>
 </w.rf>
 <form>joint</form>
-<tag lemma="joint_^(j._venture;_společný_podnik)" src="auto" selected="1">AAIXX----1A----</tag>
+<tag>
+<AM lemma="joint_^(j._venture;_společný_podnik)" src="auto">AAIXX----1A----</AM>
+<AM lemma="joint-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-041-p5s1w6">
 <src.rf>manual</src.rf>

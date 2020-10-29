@@ -942,8 +942,9 @@
 <AM lemma="funk" src="auto">NNIP4-----A----</AM>
 <AM lemma="funk" src="auto">NNIP5-----A----</AM>
 <AM lemma="funk" src="auto">NNIP7-----A----</AM>
-<AM lemma="funky" src="auto" recommended="1" selected="1">AAXXX----1A----</AM>
+<AM lemma="funky" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="funky-2" src="manual">A2--------A----</AM>
+<AM lemma="funky-2" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-106-p3s3w8">
@@ -980,7 +981,8 @@
 <AM lemma="hip_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="hip" src="auto" recommended="1">II-------------</AM>
 <AM lemma="hip-2" src="manual">A2--------A----</AM>
-<AM lemma="hip-2_^(hip_hop)" src="manual" selected="1">AAXXX----1A----</AM>
+<AM lemma="hip-2_^(hip_hop)" src="manual">AAXXX----1A----</AM>
+<AM lemma="hip-3" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-106-p3s3w12">

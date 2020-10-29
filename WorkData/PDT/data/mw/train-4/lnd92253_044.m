@@ -931,9 +931,11 @@
 </w.rf>
 <form>il</form>
 <tag>
-<AM lemma="il_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="il_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="il-2_,t_^(it._člen)" src="auto">AAXXX----1A----</AM>
 <AM lemma="il-99_:B_;Y" src="auto" recommended="1">NNXXX-----A---8</AM>
+<AM lemma="il" src="manual">SNMS1-----A----</AM>
+<AM lemma="il-1" src="manual" selected="1">SNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92253-044-p3s5w29">

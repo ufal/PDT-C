@@ -1329,7 +1329,9 @@
 <AM lemma="hektolitr_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="hlavní_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="hnout_,h_,x" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="hlava" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="hlava" src="manual">NNFXX-----A---8</AM>
+<AM lemma="hl-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="hl-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-015-p3s2w11">

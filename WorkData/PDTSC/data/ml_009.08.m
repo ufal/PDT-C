@@ -3347,6 +3347,8 @@
 <AM lemma="šestery`6_^(*3)" src="auto" recommended="1">Ck-P4----------</AM>
 <AM lemma="šestery`6_^(*3)" src="auto">Ck-P5----------</AM>
 <AM lemma="šestero" src="auto">NNNP7-----A----</AM>
+<AM lemma="šestery`6_^(*3)" src="manual">CdFP1----------</AM>
+<AM lemma="šestery`6_^(*3)" src="manual" selected="1">CdFP4----------</AM>
 </tag>
 </m>
 <m id="m009-d1t2382-3">

@@ -1163,7 +1163,8 @@
 <AM lemma="Soussa_;G" src="auto" recommended="1">NNFS3-----A----</AM>
 <AM lemma="Soussa_;G" src="auto">NNFS6-----A----</AM>
 <AM lemma="Soussa_;G" src="manual">NNFS3-----A----</AM>
-<AM lemma="Sousse_;G" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Sousse_;G" src="manual">NNFS1-----A----</AM>
+<AM lemma="Sousse_;G" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m032-d-m-d1e2700-x2-punct-punct">

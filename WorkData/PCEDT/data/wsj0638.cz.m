@@ -536,7 +536,8 @@
 <AM lemma="Temple_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="templ" src="auto">NNIS5-----A----</AM>
 <AM lemma="templ" src="auto">NNIS6-----A----</AM>
-<AM lemma="Temple-2_;G" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Temple-2_;G" src="manual">NNXXX-----A----</AM>
+<AM lemma="Temple-2_;G_;m" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0638-001-p1s1W11-Ta">

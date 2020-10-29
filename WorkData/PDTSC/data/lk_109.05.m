@@ -5947,9 +5947,9 @@
 <form>jenom</form>
 <tag>
 <AM lemma="jenom-1" src="auto" recommended="1">TT-------------</AM>
-<AM lemma="jenom-2_^(pouze)" src="auto">Db-------------</AM>
+<AM lemma="jenom-2_^(pouze)" src="auto" selected="1">Db-------------</AM>
 <AM lemma="jenom-2_,s_^(^DD**jen-4)_(pouze)" src="manual">Db-------------</AM>
-<AM lemma="jenom-3_,s_^(^DD**jen-3)" src="manual" selected="1">J,-------------</AM>
+<AM lemma="jenom-3_,s_^(^DD**jen-3)" src="manual">J,-------------</AM>
 </tag>
 </m>
 <m id="m109-d1t965-3">

@@ -4003,7 +4003,7 @@
 </w.rf>
 <form>Smolné</form>
 <tag>
-<AM lemma="Smolné_;G" src="orig" selected="1">NNNS1-----A----</AM>
+<AM lemma="Smolné_;G" src="orig">NNNS1-----A----</AM>
 <AM lemma="smolný" src="auto">AAFP1----1A----</AM>
 <AM lemma="smolný" src="auto">AAFP4----1A----</AM>
 <AM lemma="smolný" src="auto">AAFP5----1A----</AM>
@@ -4017,7 +4017,7 @@
 <AM lemma="smolný" src="auto">AANP1----1A---6</AM>
 <AM lemma="smolný" src="auto">AANP4----1A---6</AM>
 <AM lemma="smolný" src="auto">AANP5----1A---6</AM>
-<AM lemma="smolný" src="auto" recommended="1">AANS1----1A----</AM>
+<AM lemma="smolný" src="auto" recommended="1" selected="1">AANS1----1A----</AM>
 <AM lemma="smolný" src="auto">AANS4----1A----</AM>
 <AM lemma="smolný" src="auto">AANS5----1A----</AM>
 </tag>

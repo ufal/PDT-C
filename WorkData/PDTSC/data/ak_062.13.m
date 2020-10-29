@@ -2757,7 +2757,8 @@
 <AM lemma="nějaký" src="auto" recommended="1">PZNS4----------</AM>
 <AM lemma="nějaký" src="auto">PZNS5----------</AM>
 <AM lemma="nějaký" src="auto">PZYP4----------</AM>
-<AM lemma="nějaký" src="manual" selected="1">PZNP4---------6</AM>
+<AM lemma="nějaký" src="manual">PZNP4---------6</AM>
+<AM lemma="nějaký" src="manual" selected="1">PZNP4---------5</AM>
 </tag>
 </m>
 <m id="m062-d1t2956-4">

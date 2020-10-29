@@ -279,7 +279,8 @@
 <form>hodil</form>
 <tag>
 <AM lemma="hodit_:T_:W" recommended="1">VpYS---XR-AA---</AM>
-<AM lemma="hodit" src="manual" selected="1">VpYS----R-AAB--</AM>
+<AM lemma="hodit" src="manual">VpYS----R-AAB--</AM>
+<AM lemma="hodit-2_^(bude_se_hodit)" src="manual" selected="1">VpYS----R-AAI--</AM>
 </tag>
 </m>
 <m id="mu_18-SCzechM-p1867-s1-w8">

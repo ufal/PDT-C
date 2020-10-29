@@ -10485,7 +10485,8 @@
 <AM lemma="Shapira_;m" src="auto">NNFS5-----A----</AM>
 <AM lemma="Shapiro_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Shapiro_;Y" src="auto">NNMS5-----A----</AM>
-<AM lemma="Shapiro-2_;m" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Shapiro-2_;m" src="manual">NNNXX-----A----</AM>
+<AM lemma="Shapiro-2_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1654-001-p1s31W9-Ta">

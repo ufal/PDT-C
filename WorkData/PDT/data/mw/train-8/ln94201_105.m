@@ -550,7 +550,10 @@
 <LM>w#w-ln94201-105-p2s4w8</LM>
 </w.rf>
 <form>revma</form>
-<tag lemma="revma_;U" src="auto" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="revma_;U" src="auto">NNNXX-----A----</AM>
+<AM lemma="revma" src="manual" selected="1">NNNS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-105-p2s4w9">
 <src.rf>manual</src.rf>

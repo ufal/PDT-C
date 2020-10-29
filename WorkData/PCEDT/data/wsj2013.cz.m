@@ -1616,7 +1616,8 @@
 <AM lemma="Vicek_;Y" src="auto">NNMP7-----A----</AM>
 <AM lemma="Vicko_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Vicko_;Y" src="auto">NNMP7-----A----</AM>
-<AM lemma="Vicky_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Vicky_;Y" src="manual">NNMXX-----A----</AM>
+<AM lemma="Vicky_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2013-001-p1s5W17-Ta">

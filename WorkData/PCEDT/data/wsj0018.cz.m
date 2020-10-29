@@ -10054,7 +10054,7 @@
 </w.rf>
 <form>software</form>
 <tag>
-<AM lemma="software" src="auto">NNIS1-----A----</AM>
+<AM lemma="software" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="software" src="auto">NNIS2-----A---1</AM>
 <AM lemma="software" src="auto">NNIS3-----A---1</AM>
 <AM lemma="software" src="auto">NNIS4-----A----</AM>
@@ -10192,7 +10192,7 @@
 </w.rf>
 <form>hardware</form>
 <tag>
-<AM lemma="hardware" src="auto">NNIS1-----A----</AM>
+<AM lemma="hardware" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="hardware" src="auto">NNIS2-----A---1</AM>
 <AM lemma="hardware" src="auto">NNIS3-----A---1</AM>
 <AM lemma="hardware" src="auto">NNIS4-----A----</AM>

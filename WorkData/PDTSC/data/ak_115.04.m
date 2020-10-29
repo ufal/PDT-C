@@ -3723,7 +3723,8 @@
 <AM lemma="ten" src="auto">PDFS3----------</AM>
 <AM lemma="ten" src="auto">PDFS6----------</AM>
 <AM lemma="tý_^(např._x-tý)" src="manual">AANS1----1A----</AM>
-<AM lemma="tý_^(např._x-tý)" src="manual" selected="1">AANS6----1A----</AM>
+<AM lemma="tý_^(např._x-tý)" src="manual">AANS6----1A----</AM>
+<AM lemma="tý-2_^(x-tý)" src="manual" selected="1">SAFS6----1A----</AM>
 </tag>
 </m>
 <m id="m115-356-373">

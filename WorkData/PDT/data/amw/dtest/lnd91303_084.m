@@ -132,7 +132,8 @@
 <AM lemma="Tumu_;G" src="orig">NNNXX-----A----</AM>
 <AM lemma="Tuma_;G" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="Tuma_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Tumu_;G" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Tumu_;G" src="manual">NNNXX-----A----</AM>
+<AM lemma="Tumu_;G" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91303-084-p3s1w10">

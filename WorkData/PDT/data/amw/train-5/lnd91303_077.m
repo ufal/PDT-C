@@ -1572,7 +1572,8 @@
 <AM lemma="vika" src="auto">NNFS3-----A----</AM>
 <AM lemma="vika" src="auto">NNFS6-----A----</AM>
 <AM lemma="vice_,t_^(ve_spojení_&quot;vice_versa&quot;)" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="vice_^(ve_spojení_&quot;vice_versa&quot;)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="vice_^(ve_spojení_&quot;vice_versa&quot;)" src="manual">NNNXX-----A----</AM>
+<AM lemma="vice-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd91303-077-p3s13w23">

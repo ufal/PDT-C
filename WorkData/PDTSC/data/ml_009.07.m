@@ -5470,6 +5470,7 @@
 <AM lemma="třicatery" src="auto">Ck-P1----------</AM>
 <AM lemma="třicatery" src="auto" recommended="1">Ck-P4----------</AM>
 <AM lemma="třicatery" src="auto">Ck-P5----------</AM>
+<AM lemma="třicaterý`30" src="manual" selected="1">CdFP4----------</AM>
 </tag>
 </m>
 <m id="m009-d1e2227-x2-1487">

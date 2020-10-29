@@ -281,7 +281,10 @@
 <LM>w#w-lnd94105-115-p1s3w27</LM>
 </w.rf>
 <form>Sršeň</form>
-<tag lemma="sršeň" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="sršeň" src="orig">NNMS1-----A----</AM>
+<AM lemma="Sršeň_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94105-115-p1s3w28">
 <src.rf>manual</src.rf>

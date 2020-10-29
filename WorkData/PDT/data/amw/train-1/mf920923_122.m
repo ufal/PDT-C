@@ -401,7 +401,8 @@
 <form>Stup</form>
 <tag>
 <AM lemma="stoupa_,n" src="orig">NNFP2-----A----</AM>
-<AM lemma="Stup_;G" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Stup_;G" src="manual">NNXXX-----A----</AM>
+<AM lemma="Stup_;G" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920923-122-p2s3w12">

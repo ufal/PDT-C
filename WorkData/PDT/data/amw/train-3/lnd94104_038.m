@@ -2690,7 +2690,8 @@
 <form>pavouka</form>
 <tag>
 <AM lemma="pavouk" src="orig">NNMS4-----A----</AM>
-<AM lemma="pavouk-2" src="manual" selected="1">NNIS4-----A----</AM>
+<AM lemma="pavouk-2" src="manual">NNIS4-----A----</AM>
+<AM lemma="pavouk-1" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-038-p1s20w6">

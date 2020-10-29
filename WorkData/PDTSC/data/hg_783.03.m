@@ -6019,7 +6019,8 @@
 <tag>
 <AM lemma="voják" src="auto">NNMP1-----A----</AM>
 <AM lemma="voják" src="auto" recommended="1">NNMP5-----A----</AM>
-<AM lemma="voják" src="manual" selected="1">NNMP4-----A---6</AM>
+<AM lemma="voják" src="manual">NNMP4-----A---6</AM>
+<AM lemma="voják" src="manual" selected="1">NNMP4-----A---9</AM>
 </tag>
 </m>
 <m id="m783-d1e1504-x2-12840">

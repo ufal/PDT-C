@@ -1887,7 +1887,7 @@
 <form>krásné</form>
 <tag>
 <AM lemma="krásný" src="auto">AAFP1----1A----</AM>
-<AM lemma="krásný" src="auto">AAFP4----1A----</AM>
+<AM lemma="krásný" src="auto" selected="1">AAFP4----1A----</AM>
 <AM lemma="krásný" src="auto">AAFP5----1A----</AM>
 <AM lemma="krásný" src="auto" recommended="1">AAFS2----1A----</AM>
 <AM lemma="krásný" src="auto">AAFS3----1A----</AM>
@@ -1902,7 +1902,7 @@
 <AM lemma="krásný" src="auto">AANS1----1A----</AM>
 <AM lemma="krásný" src="auto">AANS4----1A----</AM>
 <AM lemma="krásný" src="auto">AANS5----1A----</AM>
-<AM lemma="krásný" src="manual" selected="1">AAFS4----1A----</AM>
+<AM lemma="krásný" src="manual">AAFS4----1A----</AM>
 </tag>
 </m>
 <m id="m001-d1t1279-10">
@@ -1912,12 +1912,12 @@
 <form>chvíle</form>
 <tag>
 <AM lemma="chvíle" src="auto">NNFP1-----A----</AM>
-<AM lemma="chvíle" src="auto">NNFP4-----A----</AM>
+<AM lemma="chvíle" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="chvíle" src="auto">NNFP5-----A----</AM>
 <AM lemma="chvíle" src="auto">NNFS1-----A----</AM>
 <AM lemma="chvíle" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="chvíle" src="auto">NNFS5-----A----</AM>
-<AM lemma="chvíle" src="manual" selected="1">NNFS4-----A----</AM>
+<AM lemma="chvíle" src="manual">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m001-d1t1279-11">

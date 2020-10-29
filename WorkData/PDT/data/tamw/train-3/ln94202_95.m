@@ -2552,7 +2552,10 @@
 <LM>w#w-ln94202-95-p4s9w4</LM>
 </w.rf>
 <form>Špačkovu</form>
-<tag lemma="špačkův-1_^(živ.)_(*5ek-1)" src="auto" selected="1">AUFS4M---------</tag>
+<tag>
+<AM lemma="špačkův-1_^(živ.)_(*5ek-1)" src="auto">AUFS4M---------</AM>
+<AM lemma="Špačkův_;Y_^(*3ek)" src="manual" selected="1">AUFS4M---------</AM>
+</tag>
 </m>
 <m id="m-ln94202-95-p4s9w5">
 <src.rf>manual</src.rf>

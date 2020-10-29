@@ -3030,8 +3030,8 @@
 <form>Tohle</form>
 <tag>
 <AM lemma="tenhle" src="auto">PDNS1----------</AM>
-<AM lemma="tenhle" src="auto" recommended="1">PDNS4----------</AM>
-<AM lemma="tohle" src="manual" selected="1">PDXXX----------</AM>
+<AM lemma="tenhle" src="auto" recommended="1" selected="1">PDNS4----------</AM>
+<AM lemma="tohle" src="manual">PDXXX----------</AM>
 </tag>
 </m>
 <m id="m147-d1t184-6">

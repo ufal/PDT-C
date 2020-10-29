@@ -9451,7 +9451,10 @@
 <LM>w#w-mf930713-044-p23s4w8</LM>
 </w.rf>
 <form>tého</form>
-<tag lemma="tý" src="orig" selected="1">CrIS2----------</tag>
+<tag>
+<AM lemma="tý" src="orig">CrIS2----------</AM>
+<AM lemma="tý-2_^(x-tý)" src="manual" selected="1">SAIS2----1A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-044-p23s4w9">
 <src.rf>manual</src.rf>

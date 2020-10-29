@@ -961,7 +961,8 @@
 <AM lemma="surrealizmus" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="surrealizmus" src="auto">NNIS3-----A----</AM>
 <AM lemma="surrealizmus" src="auto">NNIS6-----A----</AM>
-<AM lemma="surrealismus_,s_^(^DD**surrealizmus)" src="manual" selected="1">NNIS4-----A----</AM>
+<AM lemma="surrealismus_,s_^(^DD**surrealizmus)" src="manual">NNIS4-----A----</AM>
+<AM lemma="surrealismus_,s_^(^DD**surrealizmus)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-051-p2s7w9">

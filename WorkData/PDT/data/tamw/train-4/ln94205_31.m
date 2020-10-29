@@ -818,9 +818,9 @@
 <form>Tyrone</form>
 <tag>
 <AM lemma="Tyrone_;G" src="orig">NNNXX-----A----</AM>
-<AM lemma="Tyrone_;G" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Tyrone_;G" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="Tyrone_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Tyrone_;G" src="auto" selected="1">NNNXX-----A----</AM>
+<AM lemma="Tyrone_;G" src="auto">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-31-p2s6w6">

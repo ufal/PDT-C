@@ -576,8 +576,8 @@
 </w.rf>
 <form>Simpsonovi</form>
 <tag>
-<AM lemma="Simpsonův_;Y_^(*2)" src="orig">AUMP1M---------</AM>
-<AM lemma="Simpson_;Y" src="manual" selected="1">NNMP1-----A----</AM>
+<AM lemma="Simpsonův_;Y_^(*2)" src="orig" selected="1">AUMP1M---------</AM>
+<AM lemma="Simpson_;Y" src="manual">NNMP1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-120-p3s3w26">

@@ -5668,7 +5668,9 @@
 <AM lemma="Stone_;Y" src="auto">NNMXX-----A----</AM>
 <AM lemma="ston" src="auto">NNIS5-----A----</AM>
 <AM lemma="stone-77" src="auto">F%-------------</AM>
-<AM lemma="Stone-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Stone-2_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Stone-2_;m" src="manual">NNIXX-----A----</AM>
+<AM lemma="Stone-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0666-001-p1s21W26-Ta">

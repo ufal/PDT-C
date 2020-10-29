@@ -562,6 +562,7 @@
 <AM lemma="takovýhle" src="auto">PDIS4----------</AM>
 <AM lemma="takovýhle" src="auto">PDYS1----------</AM>
 <AM lemma="takovýhle" src="auto" recommended="1">PDYS4----------</AM>
+<AM lemma="takovýhle" src="manual" selected="1">PDIS4----------</AM>
 </tag>
 </m>
 <m id="m065-d1e2610-x2-74">

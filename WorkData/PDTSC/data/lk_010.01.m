@@ -1243,7 +1243,7 @@
 <AM lemma="prostný" src="auto">AAFS2----1A----</AM>
 <AM lemma="prostný" src="auto">AAFS3----1A----</AM>
 <AM lemma="prostný" src="auto">AAFS6----1A----</AM>
-<AM lemma="prostný" src="auto">AAIP1----1A----</AM>
+<AM lemma="prostný" src="auto" selected="1">AAIP1----1A----</AM>
 <AM lemma="prostný" src="auto">AAIP4----1A----</AM>
 <AM lemma="prostný" src="auto">AAIP5----1A----</AM>
 <AM lemma="prostný" src="auto">AAMP4----1A----</AM>
@@ -1254,7 +1254,7 @@
 <AM lemma="prostný" src="auto">AANS4----1A----</AM>
 <AM lemma="prostný" src="auto">AANS5----1A----</AM>
 <AM lemma="prostná_^(cvičení)" src="manual">NNNP1-----A----</AM>
-<AM lemma="prostná_^(cvičení)" src="manual" selected="1">NNNP1-----A---1</AM>
+<AM lemma="prostná_^(cvičení)" src="manual">NNNP1-----A---1</AM>
 </tag>
 </m>
 <m id="m010-d-id67971">

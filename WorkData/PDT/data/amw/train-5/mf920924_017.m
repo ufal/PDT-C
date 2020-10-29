@@ -138,7 +138,10 @@
 <LM>w#w-mf920924-017-p2s1w4</LM>
 </w.rf>
 <form>rez</form>
-<tag lemma="rez" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="rez" src="orig">NNFS1-----A----</AM>
+<AM lemma="rez-1" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-017-p2s1w5">
 <src.rf>manual</src.rf>

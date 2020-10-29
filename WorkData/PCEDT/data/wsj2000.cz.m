@@ -1517,7 +1517,8 @@
 <AM lemma="El_;m" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="el-77_,t" src="auto">F%-------------</AM>
 <AM lemma="elektrický_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="El-88" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="El-88" src="manual">BNXXX-----A----</AM>
+<AM lemma="El-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2000-001-p1s4W7-Ta">
@@ -1530,7 +1531,8 @@
 <AM lemma="Segundo_;G" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="Segundo_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Segundo_;G" src="auto">NNNS5-----A----</AM>
-<AM lemma="Segundo_;G" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Segundo_;G" src="manual">NNNXX-----A----</AM>
+<AM lemma="Segundo-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2000-001-p1s4W8-Ta">

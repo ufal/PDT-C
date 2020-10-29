@@ -4291,7 +4291,8 @@
 <tag>
 <AM lemma="Tarnopol_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Tarnopol_;G" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="Tarnopol-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Tarnopol-2_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Tarnopol-3_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1948-001-p1s13W24-Ta">

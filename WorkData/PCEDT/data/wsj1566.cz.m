@@ -9832,9 +9832,9 @@
 <LM>w#w-wsj1566-001-p1s34W17</LM>
 </w.rf>
 <form>7</form>
-<tag>
-<AM lemma="7" src="auto" recommended="1">C=-------------</AM></tag>
-</m><m id="m-wsj1566-001-p1s34W17-Ta-sw1">
+<tag lemma="7" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m-wsj1566-001-p1s34W17-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1566-001-p1s34W17</LM>
@@ -9849,7 +9849,8 @@
 <AM lemma="a-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="a-77_,t" src="auto">F%-------------</AM>
 <AM lemma="a-88_:B" src="auto">NNXXX-----A----</AM>
-<AM lemma="akciový" src="auto">AAXXX----1A---8</AM></tag>
+<AM lemma="akciový" src="auto">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-wsj1566-001-p1s34W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9871,13 +9872,14 @@
 <LM>w#w-wsj1566-001-p1s34W19</LM>
 </w.rf>
 <form>7</form>
-<tag>
-<AM lemma="7" src="auto" recommended="1">C=-------------</AM></tag>
-</m><m id="m-wsj1566-001-p1s34W19-Ta-sw1">
+<tag lemma="7" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m-wsj1566-001-p1s34W19-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1566-001-p1s34W19</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>B</form>
 <tag>
 <AM lemma="B-33" src="auto" recommended="1">Q3-------------</AM>
@@ -9885,8 +9887,9 @@
 <AM lemma="b-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="b-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="bod_:B" src="auto">NNIXX-----A----</AM>
-<AM lemma="bodový" src="auto">AAXXX----1A---8</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="bodový" src="auto">AAXXX----1A---8</AM>
+</tag>
+</m>
 <m id="m-wsj1566-001-p1s34W20-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -10897,7 +10900,7 @@
 <AM lemma="hotový" src="auto">AAFS3----1A----</AM>
 <AM lemma="hotový" src="auto">AAFS6----1A----</AM>
 <AM lemma="hotový" src="auto">AAIP1----1A----</AM>
-<AM lemma="hotový" src="auto">AAIP4----1A----</AM>
+<AM lemma="hotový" src="auto" selected="1">AAIP4----1A----</AM>
 <AM lemma="hotový" src="auto">AAIP5----1A----</AM>
 <AM lemma="hotový" src="auto">AAMP4----1A----</AM>
 <AM lemma="hotový" src="auto">AANP1----1A---6</AM>
@@ -10906,7 +10909,7 @@
 <AM lemma="hotový" src="auto">AANS1----1A----</AM>
 <AM lemma="hotový" src="auto" recommended="1">AANS4----1A----</AM>
 <AM lemma="hotový" src="auto">AANS5----1A----</AM>
-<AM lemma="hotový-2_,h" src="manual" selected="1">NNIP4-----A----</AM>
+<AM lemma="hotový-2_,h" src="manual">NNIP4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1566-001-p1s36W23-Ta">

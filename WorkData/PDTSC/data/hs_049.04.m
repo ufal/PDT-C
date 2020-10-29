@@ -1551,9 +1551,9 @@
 </w.rf>
 <form>jenom</form>
 <tag>
-<AM lemma="jenom-1" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="jenom-1" src="auto" recommended="1" selected="1">TT-------------</AM>
 <AM lemma="jenom-2_^(pouze)" src="auto">Db-------------</AM>
-<AM lemma="jenom-3" src="manual" selected="1">J,-------------</AM>
+<AM lemma="jenom-3" src="manual">J,-------------</AM>
 </tag>
 </m>
 <m id="m049-d1t1148-8">

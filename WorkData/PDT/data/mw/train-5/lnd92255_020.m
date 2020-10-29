@@ -36,10 +36,11 @@
 </w.rf>
 <form>pátečníku</form>
 <tag>
-<AM lemma="pátečník" src="orig" selected="1">NNIS2-----A----</AM>
+<AM lemma="pátečník" src="orig">NNIS2-----A----</AM>
 <AM lemma="pátečník" src="auto">NNMS3-----A---1</AM>
 <AM lemma="pátečník" src="auto" recommended="1">NNMS5-----A----</AM>
 <AM lemma="pátečník" src="auto">NNMS6-----A---1</AM>
+<AM lemma="pátečník-2" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 </s>
@@ -479,7 +480,8 @@
 <AM lemma="rádius" src="orig">NNIS7-----A----</AM>
 <AM lemma="rádio_,a" src="auto">NNNS7-----A----</AM>
 <AM lemma="rádium" src="auto" recommended="1">NNNS7-----A----</AM>
-<AM lemma="radius_,s_^(^DD**rádius)" src="manual" selected="1">NNIS7-----A----</AM>
+<AM lemma="radius_,s_^(^DD**rádius)" src="manual">NNIS7-----A----</AM>
+<AM lemma="radius_,s_^(^DD**rádius)" src="manual" selected="1">NNIS7-----A---1</AM>
 </tag>
 </m>
 <m id="m-lnd92255-020-p2s2w20">

@@ -5494,7 +5494,10 @@
 <LM>w#w-ln94207-36-p14s1w2</LM>
 </w.rf>
 <form>nevidomé</form>
-<tag lemma="vidomý_,a" src="orig" selected="1">AAFP4----1N----</tag>
+<tag>
+<AM lemma="vidomý_,a" src="orig">AAFP4----1N----</AM>
+<AM lemma="nevidomý-1" src="manual" selected="1">AAFP4----1A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-36-p14s1w3">
 <src.rf>manual</src.rf>
@@ -5744,7 +5747,10 @@
 <LM>w#w-ln94207-36-p15s1w6</LM>
 </w.rf>
 <form>nevidomé</form>
-<tag lemma="vidomý_,a" src="orig" selected="1">AAFP1----1N----</tag>
+<tag>
+<AM lemma="vidomý_,a" src="orig">AAFP1----1N----</AM>
+<AM lemma="nevidomý-1" src="manual" selected="1">AAFP1----1A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-36-p15s1w7">
 <src.rf>manual</src.rf>
@@ -12796,7 +12802,10 @@
 <LM>w#w-ln94207-36-p31s1w3</LM>
 </w.rf>
 <form>nevidomého</form>
-<tag lemma="vidomý_,a" src="orig" selected="1">AANS2----1N----</tag>
+<tag>
+<AM lemma="vidomý_,a" src="orig">AANS2----1N----</AM>
+<AM lemma="nevidomý-1" src="manual" selected="1">AANS2----1A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-36-p31s1w4">
 <src.rf>manual</src.rf>

@@ -3461,8 +3461,9 @@
 </w.rf>
 <form>minem</form>
 <tag>
-<AM lemma="min_;Y" src="orig" selected="1">NNMS7-----A----</AM>
+<AM lemma="min_;Y" src="orig">NNMS7-----A----</AM>
 <AM lemma="minout" src="auto" recommended="1">VB-P---1P-AAP-6</AM>
+<AM lemma="min" src="manual" selected="1">SNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-83-p7s2w21">

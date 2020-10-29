@@ -2249,7 +2249,8 @@
 <AM lemma="haló-1" src="auto" recommended="1">II------------1</AM>
 <AM lemma="halo_,s_^(^DD**haló)" src="manual">NNXXX-----A----</AM>
 <AM lemma="halo_,s_^(^DD**haló)" src="manual">NNNXX-----A----</AM>
-<AM lemma="halo_,s_^(^DD**haló-2)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="halo_,s_^(^DD**haló-2)" src="manual">NNNXX-----A----</AM>
+<AM lemma="halo-1_,s_^(^DD**haló-1)" src="manual" selected="1">II-------------</AM>
 </tag>
 </m>
 <m id="m030-d-m-d1e772-x3-punct-punct">

@@ -8298,10 +8298,12 @@
 </w.rf>
 <form>rozhod</form>
 <tag>
-<AM lemma="rozhodovací" src="orig" selected="1">AAXXX----1A---b</AM>
+<AM lemma="rozhodovací" src="orig">AAXXX----1A---b</AM>
 <AM lemma="rozhod" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="rozhod" src="auto">NNIS4-----A----</AM>
 <AM lemma="rozhodnout" src="auto">VpYS----R-AAP-6</AM>
+<AM lemma="rozhod-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="rozhod-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-036-p17s1w24">

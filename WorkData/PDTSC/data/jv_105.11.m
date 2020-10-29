@@ -3169,7 +3169,8 @@
 <tag>
 <AM lemma="pionýr" src="auto">NNMS2-----A----</AM>
 <AM lemma="pionýr" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="pionýr-2_^(organizace)" src="manual" selected="1">NNIS2-----A---1</AM>
+<AM lemma="pionýr-2_^(organizace)" src="manual">NNIS2-----A---1</AM>
+<AM lemma="pionýr-2_^(organizace)" src="manual" selected="1">NNIS4-----A---1</AM>
 </tag>
 </m>
 <m id="m105-d-id156415-punct">

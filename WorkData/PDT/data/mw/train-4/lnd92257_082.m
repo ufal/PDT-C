@@ -4273,7 +4273,8 @@
 <form>radia</form>
 <tag>
 <AM lemma="rádium" src="orig">NNNS2-----A----</AM>
-<AM lemma="radium" src="manual" selected="1">NNNS2-----A----</AM>
+<AM lemma="radium" src="manual">NNNS2-----A----</AM>
+<AM lemma="radium_,s_^(^DD**rádium)" src="manual" selected="1">NNNS2-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-082-p32s1w8">

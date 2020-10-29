@@ -17843,7 +17843,11 @@
 <LM>w#w-vesm9303-046-p86s4w19</LM>
 </w.rf>
 <form>radia</form>
-<tag lemma="rádium" src="orig" selected="1">NNNS2-----A----</tag>
+<tag>
+<AM lemma="rádium" src="orig">NNNS2-----A----</AM>
+<AM lemma="	radium_,s_^(^DD**rádium)" src="manual">NNNS2-----A----</AM>
+<AM lemma="radium_,s_^(^DD**rádium)" src="manual" selected="1">NNNS2-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9303-046-p86s4w20">
 <src.rf>manual</src.rf>

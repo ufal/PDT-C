@@ -3086,7 +3086,9 @@
 <AM lemma="a-4_,t_^(př._a_la)" src="orig">RR--1----------</AM>
 <AM lemma="ala-1_,t_^(místnost_v_starořím._obydlí;;vojenská_jednotka_ve_st._Římě;;boční_loď_v_bazilice)" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="ala-2_^(alou)" src="auto">II-------------</AM>
-<AM lemma="ala" src="manual" selected="1">RR--1----------</AM>
+<AM lemma="ala" src="manual">RR--1----------</AM>
+<AM lemma="ala_,i" src="manual">RR--1----------</AM>
+<AM lemma="ala-3_,i" src="manual" selected="1">RR--1----------</AM>
 </tag>
 </m>
 <m id="m-ln94203-125-p5s3w13">

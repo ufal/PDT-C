@@ -2470,9 +2470,10 @@
 </w.rf>
 <form>Sendai</form>
 <tag>
-<AM lemma="Sendai_;G" src="orig" selected="1">NNNXX-----A----</AM>
+<AM lemma="Sendai_;G" src="orig">NNNXX-----A----</AM>
 <AM lemma="Sendai_;G" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Sendai_;G" src="auto">NNFS4-----A----</AM>
+<AM lemma="Sendai-1_;G" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-082-p1s20w7">

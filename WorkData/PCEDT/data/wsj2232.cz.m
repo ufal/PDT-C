@@ -20630,7 +20630,8 @@
 <AM lemma="Schlumberger_;m_^(počítač)" src="auto">NNIS1-----A----</AM>
 <AM lemma="Schlumberger_;m_^(počítač)" src="auto">NNIS4-----A----</AM>
 <AM lemma="Schlumberger_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Schlumberger_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Schlumberger_;Y" src="manual">NNMXX-----A----</AM>
+<AM lemma="Schlumberger-1_;m_^(počítač)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2232-001-p1s72W16-Ta">

@@ -2717,7 +2717,8 @@
 <AM lemma="mil_,t_^(měnová_jednotka)" recommended="1">NNIS2-----A----</AM>
 <AM lemma="mil_,t_^(měnová_jednotka)">NNIS3-----A----</AM>
 <AM lemma="mil_,t_^(měnová_jednotka)">NNIS6-----A----</AM>
-<AM lemma="milu-2" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="milu-2" src="manual">NNXXX-----A----</AM>
+<AM lemma="milu_^(druh_jelena)" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="es_05-SCzechM-p0483-s1-w7">

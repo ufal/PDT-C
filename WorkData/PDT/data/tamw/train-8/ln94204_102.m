@@ -1402,9 +1402,10 @@
 </w.rf>
 <form>kubo</form>
 <tag>
-<AM lemma="kubo" src="orig" selected="1">S2--------A----</AM>
+<AM lemma="kubo" src="orig">S2--------A----</AM>
 <AM lemma="kuba" src="auto">NNMS5-----A----</AM>
 <AM lemma="kubo_^(doutník)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="kubo-2" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-102-p3s6w5">
@@ -1429,7 +1430,10 @@
 <LM>w#w-ln94204-102-p3s6w7</LM>
 </w.rf>
 <form>duchu</form>
-<tag lemma="duch-1" src="orig" selected="1">NNMS6-----A---1</tag>
+<tag>
+<AM lemma="duch-1" src="orig">NNMS6-----A---1</AM>
+<AM lemma="duch-2" src="manual" selected="1">NNIS6-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-102-p3s6w8">
 <src.rf>manual</src.rf>

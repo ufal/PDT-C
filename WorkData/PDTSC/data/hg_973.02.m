@@ -3568,6 +3568,7 @@
 <AM lemma="několikery" src="auto">Cj-S6---------1</AM>
 <AM lemma="několikery" src="auto">Cj-S7---------1</AM>
 <AM lemma="několikery" src="auto">Ck-P7----------</AM>
+<AM lemma="několikero" src="manual" selected="1">CkNS4----------</AM>
 </tag>
 </m>
 <m id="m973-id61815-7">

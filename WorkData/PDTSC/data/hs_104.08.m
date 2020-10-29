@@ -43,12 +43,13 @@
 <AM lemma="sedmery`7_^(*3)" src="auto">Cj-S3---------1</AM>
 <AM lemma="sedmery`7_^(*3)" src="auto" recommended="1">Cj-S4----------</AM>
 <AM lemma="sedmery`7_^(*3)" src="auto">Cj-S5----------</AM>
-<AM lemma="sedmery`7_^(*3)" src="auto" selected="1">Cj-S6---------1</AM>
+<AM lemma="sedmery`7_^(*3)" src="auto">Cj-S6---------1</AM>
 <AM lemma="sedmery`7_^(*3)" src="auto">Cj-S7---------1</AM>
 <AM lemma="sedmery`7_^(*3)" src="auto">Ck-P7----------</AM>
 <AM lemma="sedmero" src="auto">NNNS1-----A----</AM>
 <AM lemma="sedmero" src="auto">NNNS4-----A----</AM>
 <AM lemma="sedmero" src="auto">NNNS5-----A----</AM>
+<AM lemma="sedmero`7_^(*3)" src="manual" selected="1">CjNXX----------</AM>
 </tag>
 </m>
 <m id="m104-d1t955-3">
@@ -58,7 +59,7 @@
 <form>stěhování</form>
 <tag>
 <AM lemma="stěhování_^(*3at)" src="auto">NNNP1-----A----</AM>
-<AM lemma="stěhování_^(*3at)" src="auto">NNNP2-----A----</AM>
+<AM lemma="stěhování_^(*3at)" src="auto" selected="1">NNNP2-----A----</AM>
 <AM lemma="stěhování_^(*3at)" src="auto">NNNP4-----A----</AM>
 <AM lemma="stěhování_^(*3at)" src="auto">NNNP5-----A----</AM>
 <AM lemma="stěhování_^(*3at)" src="auto">NNNS1-----A----</AM>
@@ -66,7 +67,7 @@
 <AM lemma="stěhování_^(*3at)" src="auto">NNNS3-----A----</AM>
 <AM lemma="stěhování_^(*3at)" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="stěhování_^(*3at)" src="auto">NNNS5-----A----</AM>
-<AM lemma="stěhování_^(*3at)" src="auto" selected="1">NNNS6-----A----</AM>
+<AM lemma="stěhování_^(*3at)" src="auto">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m104-d1t955-4">

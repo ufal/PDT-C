@@ -1478,7 +1478,8 @@
 <form>Talk</form>
 <tag>
 <AM lemma="talk_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="talk_^(talk_show)" src="auto" recommended="1" selected="1">NNXXX-----A----</AM>
+<AM lemma="talk_^(talk_show)" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="Talk-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95043-012-p4s5w22">
@@ -1495,7 +1496,10 @@
 <LM>w#w-ln95043-012-p4s5w23</LM>
 </w.rf>
 <form>show</form>
-<tag lemma="show-1" src="auto" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="show-1" src="auto">NNXXX-----A----</AM>
+<AM lemma="show-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln95043-012-p4s5w24">
 <src.rf>manual</src.rf>

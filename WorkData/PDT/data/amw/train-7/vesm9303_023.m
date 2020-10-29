@@ -3907,7 +3907,8 @@
 <form>zus</form>
 <tag>
 <AM lemma="zus" src="orig">NNXXX-----A----</AM>
-<AM lemma="zus_,i" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="zus_,i" src="manual">NNXXX-----A----</AM>
+<AM lemma="zus" src="manual" selected="1">SNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-023-p5s2w31">
@@ -3950,7 +3951,8 @@
 <form>sus</form>
 <tag>
 <AM lemma="sus" src="orig">NNXXX-----A----</AM>
-<AM lemma="sus_,i" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="sus_,i" src="manual">NNXXX-----A----</AM>
+<AM lemma="sus" src="manual" selected="1">SNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-023-p5s2w36">
@@ -4569,7 +4571,8 @@
 <form>kons</form>
 <tag>
 <AM lemma="kons" src="orig">NNXXX-----A----</AM>
-<AM lemma="kons_,i" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="kons_,i" src="manual">NNXXX-----A----</AM>
+<AM lemma="kons" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-023-p5s5w14">
@@ -4616,7 +4619,8 @@
 <form>konzenzus</form>
 <tag>
 <AM lemma="konzenzus" src="orig">NNXXX-----A----</AM>
-<AM lemma="konzenzus_,i_^(^DS**konsenz)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="konzenzus_,i_^(^DS**konsenz)" src="manual">NNXXX-----A----</AM>
+<AM lemma="	konzenzus_,i_^(^DS**konsenzus)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-023-p5s5w19">

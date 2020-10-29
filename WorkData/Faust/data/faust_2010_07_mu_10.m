@@ -1065,7 +1065,7 @@
 <AM lemma="milovaný_^(*2t)">AAFP4----1A----</AM>
 <AM lemma="milovaný_^(*2t)">AAFP5----1A----</AM>
 <AM lemma="milovaný_^(*2t)">AAFS2----1A----</AM>
-<AM lemma="milovaný_^(*2t)">AAFS3----1A----</AM>
+<AM lemma="milovaný_^(*2t)" selected="1">AAFS3----1A----</AM>
 <AM lemma="milovaný_^(*2t)">AAFS6----1A----</AM>
 <AM lemma="milovaný_^(*2t)">AAIP1----1A----</AM>
 <AM lemma="milovaný_^(*2t)">AAIP4----1A----</AM>
@@ -1076,7 +1076,7 @@
 <AM lemma="milovaný_^(*2t)">AANS1----1A----</AM>
 <AM lemma="milovaný_^(*2t)">AANS4----1A----</AM>
 <AM lemma="milovaný_^(*2t)">AANS5----1A----</AM>
-<AM lemma="milovaný_^(*2t)" src="manual" selected="1">NNFS3-----A----</AM>
+<AM lemma="milovaný_^(*2t)" src="manual">NNFS3-----A----</AM>
 </tag>
 </m>
 <m id="mu_10-SCzechM-p0996-s1-w4">
@@ -1140,12 +1140,12 @@
 </w.rf>
 <form>milovaná</form>
 <tag>
-<AM lemma="milovaný_^(*2t)" recommended="1">AAFS1----1A----</AM>
+<AM lemma="milovaný_^(*2t)" recommended="1" selected="1">AAFS1----1A----</AM>
 <AM lemma="milovaný_^(*2t)">AAFS5----1A----</AM>
 <AM lemma="milovaný_^(*2t)">AANP1----1A----</AM>
 <AM lemma="milovaný_^(*2t)">AANP4----1A----</AM>
 <AM lemma="milovaný_^(*2t)">AANP5----1A----</AM>
-<AM lemma="milovaný_^(*2t)" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="milovaný_^(*2t)" src="manual">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="mu_10-SCzechM-p0996-s1-w10">
@@ -4236,7 +4236,8 @@
 <form>Sirius</form>
 <tag>
 <AM lemma="Sirius_;Y" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Sirius_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Sirius_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Sirius-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="mu_10-SCzechM-p1044-s1-w19">

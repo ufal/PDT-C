@@ -2472,7 +2472,7 @@
 </w.rf>
 <form>Stav</form>
 <tag>
-<AM lemma="Stav_;m" src="orig" selected="1">NNIXX-----A----</AM>
+<AM lemma="Stav_;m" src="orig">NNIXX-----A----</AM>
 <AM lemma="stav" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="stav" src="auto">NNIS4-----A----</AM>
 <AM lemma="stavit" src="auto">Vi-S---2--A-P--</AM>
@@ -2480,6 +2480,7 @@
 <AM lemma="stavět" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="stavět" src="auto">Vi-S---3--A-I-4</AM>
 <AM lemma="stát-2_:W_^(něco_se_přihodilo)" src="auto">VmYS------A----</AM>
+<AM lemma="Stav_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-041-p6s1w25">

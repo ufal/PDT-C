@@ -6486,7 +6486,10 @@
 <LM>w#w-d1t503-13</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="auto" recommended="1">VpTP----R-AAI--</tag>
+<tag>
+<AM lemma="být" src="auto" recommended="1">VpTP----R-AAI--</AM>
+<AM lemma="být" src="manual" selected="1">VpNP----R-AAI-6</AM>
+</tag>
 </m>
 <m id="m104-d1t503-14">
 <w.rf>
@@ -6583,7 +6586,8 @@
 <AM lemma="husí" src="auto">AANS1----1A----</AM>
 <AM lemma="husí" src="auto">AANS4----1A----</AM>
 <AM lemma="husí" src="auto">AANS5----1A----</AM>
-<AM lemma="husa" src="manual" selected="1">NNFP2-----A---6</AM>
+<AM lemma="husa" src="manual">NNFP2-----A---6</AM>
+<AM lemma="husa" src="manual" selected="1">NNFP2-----A---1</AM>
 </tag>
 </m>
 <m id="m104-1063-1064">

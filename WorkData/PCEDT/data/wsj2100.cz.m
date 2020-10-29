@@ -1003,8 +1003,8 @@
 <AM lemma="realita" src="auto">NNFP4-----A----</AM>
 <AM lemma="realita" src="auto">NNFP5-----A----</AM>
 <AM lemma="realita" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="reality-77" src="auto">F%-------------</AM>
-<AM lemma="reality" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="reality-77" src="auto" selected="1">F%-------------</AM>
+<AM lemma="reality" src="manual">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2100-001-p1s3W5-Ta">
@@ -1015,7 +1015,8 @@
 <form>show</form>
 <tag>
 <AM lemma="show" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="show-1" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="show-1" src="manual">NNXXX-----A----</AM>
+<AM lemma="show-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2100-001-p1s3W6-Ta">

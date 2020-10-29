@@ -750,7 +750,8 @@
 <form>Šan</form>
 <tag>
 <AM lemma="Šan-1_;E" src="auto">NNMS1-----A----</AM>
-<AM lemma="Šan-1_;E_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Šan-1_;E_;Y" src="manual">NNMXX-----A----</AM>
+<AM lemma="Šan-1_;E_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-062-p3s1w5">
@@ -769,7 +770,8 @@
 <form>čching</form>
 <tag>
 <AM lemma="čching_;Y_,t" src="orig">NNMS1-----A----</AM>
-<AM lemma="čching_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="čching_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="čching" src="manual" selected="1">SNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-062-p3s1w7">

@@ -55,9 +55,9 @@
 </w.rf>
 <form>obsahuje</form>
 <tag>
-<AM lemma="obsahovat" src="orig">VB-S---3P-AAI--</AM>
+<AM lemma="obsahovat" src="orig" selected="1">VB-S---3P-AAI--</AM>
 <AM lemma="obsahuje_,t" src="manual">NNXXX-----A----</AM>
-<AM lemma="obsahuje-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="obsahuje-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-013-p1s1w5">
@@ -70,7 +70,8 @@
 <AM lemma="teda_,h" src="orig">Db-------------</AM>
 <AM lemma="teda-1_,h" src="auto" recommended="1">Db------------6</AM>
 <AM lemma="teda-2_,h" src="auto">TT-------------</AM>
-<AM lemma="teda-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="teda-77" src="manual">F%-------------</AM>
+<AM lemma="teda-1_,h" src="manual" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-013-p1s1w6">
