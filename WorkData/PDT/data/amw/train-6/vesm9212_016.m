@@ -34568,9 +34568,10 @@
 </w.rf>
 <form>Fineových</form>
 <tag>
-<AM lemma="Fineův_;Y_^(2*)" src="orig" selected="1">AUFP2M---------</AM>
+<AM lemma="Fineův_;Y_^(2*)" src="orig">AUFP2M---------</AM>
 <AM lemma="Fineová_;Y" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="Fineová_;Y" src="auto">NNFP6-----A----</AM>
+<AM lemma="Fineův_;Y" src="manual" selected="1">AUFP2M---------</AM>
 </tag>
 </m>
 <m id="m-vesm9212-016-p45s5w12">

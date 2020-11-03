@@ -2983,7 +2983,8 @@
 <tag>
 <AM lemma="dát" recommended="1">VpNS----R-AAP--</AM>
 <AM lemma="dát-2_^(dá_se_očekávat)" src="manual">VB-S---3P-AAI--</AM>
-<AM lemma="dát-2_^(dá_se_očekávat)" src="manual" selected="1">VB-S---3P-AAI--</AM>
+<AM lemma="dát-2_^(dá_se_očekávat)" src="manual">VB-S---3P-AAI--</AM>
+<AM lemma="dát-2_^(dá_se_očekávat)" src="manual" selected="1">VpNS----R-AAI--</AM>
 </tag>
 </m>
 <m id="es_03-SCzechM-p0247-s1-w10">

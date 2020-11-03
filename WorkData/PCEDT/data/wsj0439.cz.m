@@ -12112,9 +12112,9 @@
 </w.rf>
 <form>Mussoliniho</form>
 <tag>
-<AM lemma="Mussolini_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Mussolini_;Y" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
 <AM lemma="Mussolini_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Mussoliniho_;Y_^(*2)" src="manual" selected="1">AUIS2M---------</AM>
+<AM lemma="Mussoliniho_;Y_^(*2)" src="manual">AUIS2M---------</AM>
 </tag>
 </m>
 <m id="m-wsj0439-001-p1s32W6-Ta">

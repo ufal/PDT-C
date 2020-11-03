@@ -105,8 +105,8 @@
 </w.rf>
 <form>Lumpuru</form>
 <tag>
-<AM lemma="Lumpur_;G" src="orig">NNIS6-----A----</AM>
-<AM lemma="Lumpuru-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Lumpur_;G" src="orig" selected="1">NNIS6-----A----</AM>
+<AM lemma="Lumpuru-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd94103-058-p1s1Bw7">

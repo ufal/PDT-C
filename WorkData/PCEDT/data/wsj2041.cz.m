@@ -6123,7 +6123,8 @@
 <tag>
 <AM lemma="sikh_;E" src="auto">NNIP4-----A----</AM>
 <AM lemma="sikh_;E" src="auto" recommended="1">NNIP7-----A----</AM>
-<AM lemma="sikh" src="manual" selected="1">NNIP7-----A----</AM>
+<AM lemma="sikh" src="manual">NNIP7-----A----</AM>
+<AM lemma="sikh" src="manual" selected="1">NNMP7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2041-001-p1s22W7-Ta">

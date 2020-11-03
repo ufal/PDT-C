@@ -3458,6 +3458,7 @@
 <tag>
 <AM lemma="mera_;U" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="mer-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="mer-1" src="manual">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-wsj1767-001-p1s9W7-Ta">
@@ -3478,7 +3479,8 @@
 <AM lemma="kůra" src="auto">NNFP2-----A----</AM>
 <AM lemma="kůr" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="kůr" src="auto">NNIS4-----A----</AM>
-<AM lemma="KůR-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="KůR-77" src="manual">F%-------------</AM>
+<AM lemma="Kůr-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1767-001-p1s9W9-Ta">

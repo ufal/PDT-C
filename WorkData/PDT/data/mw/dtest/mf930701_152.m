@@ -1148,8 +1148,8 @@
 </w.rf>
 <form>Bábu</form>
 <tag>
-<AM lemma="Báb_;G" src="orig">NNIS6-----A----</AM>
-<AM lemma="Bábu-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Báb_;G" src="orig" selected="1">NNIS6-----A----</AM>
+<AM lemma="Bábu-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930701-152-p4s1w15">

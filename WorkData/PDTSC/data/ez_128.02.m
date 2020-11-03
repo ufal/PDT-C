@@ -1793,7 +1793,8 @@
 <AM lemma="Mercedes_;m_^(vozidlo)" src="auto" recommended="1">NNMS4-----A----</AM>
 <AM lemma="mercedes_;m_^(vozidlo)" src="auto">NNIS2-----A---1</AM>
 <AM lemma="mercedes_;m_^(vozidlo)" src="auto">NNMS4-----A----</AM>
-<AM lemma="mercedes_;m_^(vozidlo)" src="manual" selected="1">NNIS4-----A---6</AM>
+<AM lemma="mercedes_;m_^(vozidlo)" src="manual">NNIS4-----A---6</AM>
+<AM lemma="Mercedes-1_;m" src="manual" selected="1">NNIS4-----A---1</AM>
 </tag>
 </m>
 <m id="m128-329-330">

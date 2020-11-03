@@ -18959,10 +18959,10 @@
 <AM lemma="Bartlettová_;Y" src="auto">NNFP1-----A----</AM>
 <AM lemma="Bartlettová_;Y" src="auto">NNFP4-----A----</AM>
 <AM lemma="Bartlettová_;Y" src="auto">NNFP5-----A----</AM>
-<AM lemma="Bartlettová_;Y" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="Bartlettová_;Y" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
 <AM lemma="Bartlettová_;Y" src="auto">NNFS3-----A----</AM>
 <AM lemma="Bartlettová_;Y" src="auto">NNFS6-----A----</AM>
-<AM lemma="Bartlettové_;Y_^(*1á)" src="manual" selected="1">AUIS1F---------</AM>
+<AM lemma="Bartlettové_;Y_^(*1á)" src="manual">AUIS1F---------</AM>
 </tag>
 </m>
 <m id="m-wsj0984-001-p1s64W10-Ta">

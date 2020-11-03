@@ -3927,9 +3927,9 @@
 </w.rf>
 <form>Cheneyho</form>
 <tag>
-<AM lemma="Cheney_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Cheney_;Y" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
 <AM lemma="Cheney_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Cheneyho_;Y_^(*2)" src="manual" selected="1">AUNS2M---------</AM>
+<AM lemma="Cheneyho_;Y_^(*2)" src="manual">AUNS2M---------</AM>
 </tag>
 </m>
 <m id="m-wsj0692-001-p1s15W14-Ta">
@@ -14101,19 +14101,22 @@
 <form>proslulou</form>
 <tag>
 <AM lemma="proslulý_^(*3out)" src="auto" recommended="1">AAFS4----1A----</AM>
-<AM lemma="proslulý_^(*3out)" src="auto">AAFS7----1A----</AM></tag>
+<AM lemma="proslulý_^(*3out)" src="auto">AAFS7----1A----</AM>
+</tag>
 </m>
 <m id="m-wsj0692-001-p1s54W14-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0692-001-p1s54W14</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>koncepci</form>
 <tag>
 <AM lemma="koncepce" src="auto">NNFS3-----A----</AM>
 <AM lemma="koncepce" src="auto" recommended="1">NNFS4-----A----</AM>
-<AM lemma="koncepce" src="auto">NNFS6-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="koncepce" src="auto">NNFS6-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0692-001-p1s54W15-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

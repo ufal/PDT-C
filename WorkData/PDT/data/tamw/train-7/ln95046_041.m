@@ -257,11 +257,12 @@
 </w.rf>
 <form>Božíkovi</form>
 <tag>
-<AM lemma="Božíkův_;Y_^(*2)" src="orig" selected="1">AUMP4M---------</AM>
+<AM lemma="Božíkův_;Y_^(*2)" src="orig">AUMP4M---------</AM>
 <AM lemma="Božík_;Y" src="auto" recommended="1">NNMS3-----A----</AM>
 <AM lemma="Božík_;Y" src="auto">NNMS6-----A----</AM>
 <AM lemma="Božíkův_;Y_^(*2)" src="auto">AUMP1M---------</AM>
 <AM lemma="Božíkův_;Y_^(*2)" src="auto">AUMP5M---------</AM>
+<AM lemma="Božíkův_;Y_^(*2)" src="manual" selected="1">AUMP4M--------9</AM>
 </tag>
 </m>
 <m id="m-ln95046-041-p2s1Bw22">

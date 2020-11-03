@@ -2214,7 +2214,7 @@
 </w.rf>
 <form>Dubé</form>
 <tag>
-<AM lemma="Dubé_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Dubé_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Dubá_;G_;Y_^(*1ý)" src="auto">NNFP1-----A----</AM>
 <AM lemma="Dubá_;G_;Y_^(*1ý)" src="auto">NNFP4-----A----</AM>
 <AM lemma="Dubá_;G_;Y_^(*1ý)" src="auto">NNFP5-----A----</AM>
@@ -2222,6 +2222,7 @@
 <AM lemma="Dubá_;G_;Y_^(*1ý)" src="auto">NNFS3-----A----</AM>
 <AM lemma="Dubá_;G_;Y_^(*1ý)" src="auto">NNFS6-----A----</AM>
 <AM lemma="Dubý_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Dubé_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-086-p1s10Aw9">

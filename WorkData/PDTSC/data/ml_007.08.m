@@ -2701,7 +2701,8 @@
 <AM lemma="Penny_;Y" src="auto">NNMXX-----A----</AM>
 <AM lemma="penny-1" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="penny-1" src="auto">NNIXX-----A----</AM>
-<AM lemma="penny-2_^(penny_market)" src="auto" selected="1">NNNXX-----A----</AM>
+<AM lemma="penny-2_^(penny_market)" src="auto">NNNXX-----A----</AM>
+<AM lemma="Penny-2_;Y_;m" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m007-d1t2581-13">

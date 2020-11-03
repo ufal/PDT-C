@@ -3139,7 +3139,8 @@
 <AM lemma="strana-4_:B_^(v_knize,_rukopise,...)" src="auto">NNFXX-----A---8</AM>
 <AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="S-33" src="manual">Q3-------------</AM>
-<AM lemma="S-1_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="S-1_;Y" src="manual">NNFXX-----A----</AM>
+<AM lemma="S-1_;Y_^(Wang_S´tching)" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-79-p6s3w20">

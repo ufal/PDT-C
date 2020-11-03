@@ -1153,7 +1153,8 @@
 <AM lemma="Parkovi" src="auto">X@-------------</AM>
 <AM lemma="Parkův" src="manual">AUMP1M---------</AM>
 <AM lemma="Parkův" src="manual">AUMP4M---------</AM>
-<AM lemma="Parkův_;Y" src="manual" selected="1">AUMP4M---------</AM>
+<AM lemma="Parkův_;Y" src="manual">AUMP4M---------</AM>
+<AM lemma="Parkův-2_;Y_^(*4-2)" src="manual" selected="1">AUMP4M--------9</AM>
 </tag>
 </m>
 <m id="m-wsj0761-001-p1s5W3-Ta">

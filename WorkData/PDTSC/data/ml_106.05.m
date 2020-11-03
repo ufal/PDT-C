@@ -3439,7 +3439,7 @@
 <form_change>spell</form_change>
 <form>Modiglianiho</form>
 <tag>
-<AM lemma="Modigliani_;Y" selected="1" src="auto">NNMS4-----A----</AM>
+<AM lemma="Modigliani_;Y" src="auto" selected="1">NNMS4-----A----</AM>
 <AM lemma="Modigliani_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
 </tag>
 </m>

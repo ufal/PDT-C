@@ -1322,9 +1322,10 @@
 </w.rf>
 <form>Kloseových</form>
 <tag>
-<AM lemma="Kloseův_;Y_^(*2)" src="orig" selected="1">AUFP2M---------</AM>
+<AM lemma="Kloseův_;Y_^(*2)" src="orig">AUFP2M---------</AM>
 <AM lemma="Kloseová_;Y" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="Kloseová_;Y" src="auto">NNFP6-----A----</AM>
+<AM lemma="Kloseův_;Y" src="manual" selected="1">AUFP2M---------</AM>
 </tag>
 </m>
 <m id="m-ln94204-57-p5s1w7">

@@ -5907,8 +5907,8 @@
 <AM lemma="Bura_;G" src="auto">NNFS2-----A----</AM>
 <AM lemma="Bury_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Bury_;Y" src="auto">NNMS5-----A----</AM>
-<AM lemma="Bury-2_;G" src="manual">NNNXX-----A----</AM>
-<AM lemma="Bury-2_;G" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Bury-2_;G" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Bury-2_;G" src="manual">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-094-p17s1w34">

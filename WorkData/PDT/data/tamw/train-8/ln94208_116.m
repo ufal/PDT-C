@@ -2623,9 +2623,9 @@
 <AM lemma="sborná" src="auto">NNFP5-----A----</AM>
 <AM lemma="sborná" src="auto">NNFS2-----A----</AM>
 <AM lemma="sborná" src="auto">NNFS3-----A----</AM>
-<AM lemma="sborná" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="sborná" src="auto" recommended="1" selected="1">NNFS6-----A----</AM>
 <AM lemma="sborná-2" src="manual">AAFS6----1A----</AM>
-<AM lemma="sborná" src="manual" selected="1">AAFS6----1A----</AM>
+<AM lemma="sborná" src="manual">AAFS6----1A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-116-p9s1w17">

@@ -9582,9 +9582,9 @@
 </w.rf>
 <form>Giulianiho</form>
 <tag>
-<AM lemma="Giuliani_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Giuliani_;Y" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
 <AM lemma="Giuliani_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Giulianiho_;Y_^(*2)" src="manual" selected="1">AUFP1M---------</AM>
+<AM lemma="Giulianiho_;Y_^(*2)" src="manual">AUFP1M---------</AM>
 </tag>
 </m>
 <m id="m-wsj1457-001-p1s37W22-Ta">
