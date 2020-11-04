@@ -1,0 +1,21 @@
+context: PDT_C_A
+
+hint: m/lemma: ${m/lemma}
+m/tag: ${m/tag}<?
+  $${m/form_change} ? "\n".'m/form_change: ${m/form_change}' : '' ?>
+rootstyle: #{NodeLabel-skipempty:1}
+
+node:<? $${afun} eq "AuxS" ? '${id}' : '${m/form}' ?>
+
+node:<? $this->{label} ?>
+
+style:<?
+  my @colors = qw(#ff00ff #ffa500 #0000ff #3cb371 #ff0000 #9932cc #00008b #006400 #8b0000 #008b8b);
+  if ($PDT_C_A::clause_coloring and $this->{clause_number} and not $PDT_30_A::clause_folding) {
+    my $color = $colors[$this->{clause_number} % 10];
+    '#{Oval-fill:'.$color.'} #{Line-fill:'.$color.'}';
+  } else { '' }
+?>
+
+style:#{Node-hide:<? $this->{hide} ?>}
+

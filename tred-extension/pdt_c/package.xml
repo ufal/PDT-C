@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tred_extension xmlns="http://ufal.mff.cuni.cz/pdt/pml/" install_size="24335021">
+  <head>
+    <schema href="tred_extension_schema.xml"/>
+  </head>
+  <pkgname>pdt_c</pkgname>
+  <repository href="http://ufal.mff.cuni.cz/tred/extensions/external/"/>
+  <title>Prague Dependency Treebank - Consolidated</title>
+  <version>1.0</version>
+  <copyright year="2017">Jiří Mírovský, Jan Štěpánek, Petr Pajas, Zdeněk Žabokrtský</copyright>
+  <icon>icons/logo.png</icon>
+  <require>
+    <extension name="pdt20" href="http://ufal.mff.cuni.cz/tred/extensions/core/pdt20"/>
+    <tred min_version="2.000"/>
+  </require>
+  <description>Provides support for PDT-C files
+  </description>
+</tred_extension>
