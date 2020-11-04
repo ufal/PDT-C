@@ -4194,9 +4194,9 @@
 </w.rf>
 <form>Gorkého</form>
 <tag>
-<AM lemma="Gorký_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Gorký_;Y" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
 <AM lemma="Gorký_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Gorkého_;Y_^(*3ý)" src="manual" selected="1">AUIS4M---------</AM>
+<AM lemma="Gorkého_;Y_^(*3ý)" src="manual">AUIS4M---------</AM>
 </tag>
 </m>
 <m id="m-wsj1163-001-p1s13W2-Ta">
@@ -4948,9 +4948,9 @@
 </w.rf>
 <form>Gorkého</form>
 <tag>
-<AM lemma="Gorký_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Gorký_;Y" src="auto" selected="1">NNMS2-----A----</AM>
 <AM lemma="Gorký_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Gorkého_;Y_^(*3ý)" src="manual" selected="1">AUNS4M---------</AM>
+<AM lemma="Gorkého_;Y_^(*3ý)" src="manual">AUNS4M---------</AM>
 </tag>
 </m>
 <m id="m-wsj1163-001-p1s15W22-Ta">
@@ -7040,9 +7040,9 @@
 </w.rf>
 <form>Gorkého</form>
 <tag>
-<AM lemma="Gorký_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Gorký_;Y" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
 <AM lemma="Gorký_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Gorkého_;Y_^(*3ý)" src="manual" selected="1">AUFP2M---------</AM>
+<AM lemma="Gorkého_;Y_^(*3ý)" src="manual">AUFP2M---------</AM>
 </tag>
 </m>
 <m id="m-wsj1163-001-p1s21W12-Ta">
@@ -7205,9 +7205,9 @@
 </w.rf>
 <form>Gorkého</form>
 <tag>
-<AM lemma="Gorký_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Gorký_;Y" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
 <AM lemma="Gorký_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Gorkého_;Y_^(*3ý)" src="manual" selected="1">AUNS1M---------</AM>
+<AM lemma="Gorkého_;Y_^(*3ý)" src="manual">AUNS1M---------</AM>
 </tag>
 </m>
 <m id="m-wsj1163-001-p1s22W8-Ta">
@@ -7721,9 +7721,9 @@
 </w.rf>
 <form>Gorkého</form>
 <tag>
-<AM lemma="Gorký_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Gorký_;Y" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
 <AM lemma="Gorký_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Gorkého_;Y_^(*3ý)" src="manual" selected="1">AUFS2M---------</AM>
+<AM lemma="Gorkého_;Y_^(*3ý)" src="manual">AUFS2M---------</AM>
 </tag>
 </m>
 <m id="m-wsj1163-001-p1s23W27-Ta">
@@ -9829,11 +9829,11 @@
 <AM lemma="Bogartová_;Y" src="auto">NNFP1-----A----</AM>
 <AM lemma="Bogartová_;Y" src="auto">NNFP4-----A----</AM>
 <AM lemma="Bogartová_;Y" src="auto">NNFP5-----A----</AM>
-<AM lemma="Bogartová_;Y" src="auto">NNFS2-----A----</AM>
+<AM lemma="Bogartová_;Y" src="auto" selected="1">NNFS2-----A----</AM>
 <AM lemma="Bogartová_;Y" src="auto" recommended="1">NNFS3-----A----</AM>
 <AM lemma="Bogartová_;Y" src="auto">NNFS6-----A----</AM>
 <AM lemma="Bogartové_;Y_^(*1á)" src="manual">AUNS1M---------</AM>
-<AM lemma="Bogartové_;Y_^(*1á)" src="manual" selected="1">AUNS1F---------</AM>
+<AM lemma="Bogartové_;Y_^(*1á)" src="manual">AUNS1F---------</AM>
 </tag>
 </m>
 <m id="m-wsj1163-001-p1s29W7-Ta">

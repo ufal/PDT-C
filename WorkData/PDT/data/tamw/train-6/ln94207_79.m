@@ -1158,8 +1158,8 @@
 </w.rf>
 <form>Bahn</form>
 <tag>
-<AM lemma="Bahn_;m" src="orig">NNIS1-----A----</AM>
-<AM lemma="Bahn-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Bahn_;m" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Bahn-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94207-79-p4s1Bw5">
@@ -21730,7 +21730,10 @@
 <LM>w#w-ln94207-79-p44s2w12</LM>
 </w.rf>
 <form>stop</form>
-<tag lemma="stop-3_^(angl.,_jako_subst.)" src="orig" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="stop-3_^(angl.,_jako_subst.)" src="orig">NNNXX-----A----</AM>
+<AM lemma="stop-1_^(zastavení,_i_stopování)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-79-p44s2w13">
 <src.rf>manual</src.rf>

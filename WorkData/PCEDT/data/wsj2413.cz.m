@@ -7288,21 +7288,22 @@
 <LM>w#w-wsj2413-001-p1s24W12</LM>
 </w.rf>
 <form>17</form>
-<tag>
-<AM lemma="17" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="17" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj2413-001-p1s24W12-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj2413-001-p1s24W12</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>h</form>
 <tag>
 <AM lemma="h-33" src="auto">Q3-------------</AM>
 <AM lemma="h-33" src="auto">Q3-------------</AM>
 <AM lemma="hodina" src="auto" recommended="1">NNFXX-----A---b</AM>
-<AM lemma="hodinový" src="auto">AAXXX----1A---8</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="hodinový" src="auto">AAXXX----1A---8</AM>
+</tag>
+</m>
 <m id="m-wsj2413-001-p1s24W13-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -8561,9 +8562,9 @@
 </w.rf>
 <form>Bradyho</form>
 <tag>
-<AM lemma="Brady_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Brady_;Y" src="auto" selected="1">NNMS2-----A----</AM>
 <AM lemma="Brady_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Bradyho_;Y_^(*2)" src="manual" selected="1">AUIS6M---------</AM>
+<AM lemma="Bradyho_;Y_^(*2)" src="manual">AUIS6M---------</AM>
 </tag>
 </m>
 <m id="m-wsj2413-001-p1s29W8-Ta">
@@ -8700,17 +8701,18 @@
 <tag>
 <AM lemma="r-33" src="auto">Q3-------------</AM>
 <AM lemma="r-33" src="auto">Q3-------------</AM>
-<AM lemma="rok" src="auto" recommended="1">NNIXX-----A---b</AM></tag>
+<AM lemma="rok" src="auto" recommended="1">NNIXX-----A---b</AM>
+</tag>
 </m>
 <m id="m-wsj2413-001-p1s29W19-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj2413-001-p1s29W19</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>.</form>
-<tag>
-<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="." src="auto" recommended="1">Z:-------------</tag>
+</m>
 <m id="m-wsj2413-001-p1s29W20-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -10278,10 +10280,10 @@
 <w.rf>
 <LM>w#w-wsj2413-001-p1s36W10</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Michaelem</form>
-<tag>
-<AM lemma="Michael_;Y" src="auto" recommended="1">NNMS7-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<tag lemma="Michael_;Y" src="auto" recommended="1">NNMS7-----A----</tag>
+</m>
 <m id="m-wsj2413-001-p1s36W11-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -11312,21 +11314,22 @@
 <LM>w#w-wsj2413-001-p1s39W23</LM>
 </w.rf>
 <form>10</form>
-<tag>
-<AM lemma="10" src="auto" recommended="1">C=-------------</AM></tag>
+<tag lemma="10" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj2413-001-p1s39W23-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj2413-001-p1s39W23</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>h</form>
 <tag>
 <AM lemma="h-33" src="auto">Q3-------------</AM>
 <AM lemma="h-33" src="auto">Q3-------------</AM>
 <AM lemma="hodina" src="auto" recommended="1">NNFXX-----A---b</AM>
-<AM lemma="hodinový" src="auto">AAXXX----1A---8</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="hodinový" src="auto">AAXXX----1A---8</AM>
+</tag>
+</m>
 <m id="m-wsj2413-001-p1s39W24-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

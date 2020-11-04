@@ -1472,7 +1472,8 @@
 <form>Lavellovým</form>
 <tag>
 <AM lemma="Lavellová_;Y" src="auto" recommended="1">NNFP3-----A----</AM>
-<AM lemma="Lavellův_;Y_^(*2e)" src="manual" selected="1">AUFS7M---------</AM>
+<AM lemma="Lavellův_;Y_^(*2e)" src="manual">AUFS7M---------</AM>
+<AM lemma="Lavellův_;Y_^(*2e)" src="manual" selected="1">AUNS7M---------</AM>
 </tag>
 </m>
 <m id="m-wsj1407-001-p1s3W11-Ta">

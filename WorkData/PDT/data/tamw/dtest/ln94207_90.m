@@ -2842,7 +2842,8 @@
 <AM lemma="jez" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="jez" src="auto">NNIS3-----A----</AM>
 <AM lemma="jez" src="auto">NNIS6-----A----</AM>
-<AM lemma="Jezus_;Y_,s_^(^DD**Jesus)" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Jezus_;Y_,s_^(^DD**Jesus)" src="manual">NNMS2-----A----</AM>
+<AM lemma="Jezus_;Y_^(Ježíš)" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-90-p4s6w14">

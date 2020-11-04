@@ -3281,9 +3281,9 @@
 </w.rf>
 <form>Messiho</form>
 <tag>
-<AM lemma="Messi_;Y" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Messi_;Y" recommended="1" selected="1">NNMS2-----A----</AM>
 <AM lemma="Messi_;Y">NNMS4-----A----</AM>
-<AM lemma="Messiho_;Y_^(*2)" src="manual" selected="1">AUFS6M---------</AM>
+<AM lemma="Messiho_;Y_^(*2)" src="manual">AUFS6M---------</AM>
 </tag>
 </m>
 <m id="jh_07-SCzechM-p0696-s1-w27">

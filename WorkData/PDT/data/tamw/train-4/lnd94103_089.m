@@ -1395,7 +1395,8 @@
 <form>Mikeovi</form>
 <tag>
 <AM lemma="Mike_;Y_,t" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Mikeův_;Y_^(*2)" src="manual" selected="1">AUMP1M---------</AM>
+<AM lemma="Mikeův_;Y_^(*2)" src="manual">AUMP1M---------</AM>
+<AM lemma="Mikeův_;Y" src="manual" selected="1">AUMP1M---------</AM>
 </tag>
 </m>
 <m id="m-lnd94103-089-p1s12w15">

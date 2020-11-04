@@ -223,11 +223,11 @@
 </w.rf>
 <form>Oslo</form>
 <tag>
-<AM lemma="Oslo_;G" src="orig">NNNXX-----A----</AM>
+<AM lemma="Oslo_;G" src="orig" selected="1">NNNXX-----A----</AM>
 <AM lemma="Oslo_;G" src="auto">NNNS1-----A----</AM>
 <AM lemma="Oslo_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Oslo_;G" src="auto">NNNS5-----A----</AM>
-<AM lemma="Oslo_;G" src="auto" recommended="1" selected="1">NNNXX-----A---1</AM>
+<AM lemma="Oslo_;G" src="auto" recommended="1">NNNXX-----A---1</AM>
 </tag>
 </m>
 <m id="m-mf930713-027-p2s1Bw18">

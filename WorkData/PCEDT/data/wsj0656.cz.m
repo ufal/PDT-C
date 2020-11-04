@@ -996,9 +996,9 @@
 </w.rf>
 <form>Petrieho</form>
 <tag>
-<AM lemma="Petrie_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Petrie_;Y" src="auto" selected="1">NNMS2-----A----</AM>
 <AM lemma="Petrie_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Petrieho_;Y_^(*2)" src="manual" selected="1">AUIS4M---------</AM>
+<AM lemma="Petrieho_;Y_^(*2)" src="manual">AUIS4M---------</AM>
 </tag>
 </m>
 <m id="m-wsj0656-001-p1s3W18-Ta">
@@ -1579,9 +1579,9 @@
 </w.rf>
 <form>Petrieho</form>
 <tag>
-<AM lemma="Petrie_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Petrie_;Y" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
 <AM lemma="Petrie_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Petrieho_;Y_^(*2)" src="manual" selected="1">AUFP2M---------</AM>
+<AM lemma="Petrieho_;Y_^(*2)" src="manual">AUFP2M---------</AM>
 </tag>
 </m>
 <m id="m-wsj0656-001-p1s5W11-Ta">

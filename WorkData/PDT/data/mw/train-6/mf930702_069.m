@@ -1301,7 +1301,8 @@
 <tag>
 <AM lemma="meritum" src="orig">NNNP2-----A----</AM>
 <AM lemma="Merit_;m" src="manual">NNXXX-----A----</AM>
-<AM lemma="Merit-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Merit-2_;m" src="manual">NNXXX-----A----</AM>
+<AM lemma="Merit_;Y_;m" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-069-p4s1w35">

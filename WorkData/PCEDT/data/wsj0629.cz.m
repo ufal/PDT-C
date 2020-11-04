@@ -6465,9 +6465,9 @@
 </w.rf>
 <form>Gándhího</form>
 <tag>
-<AM lemma="Gándhí_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Gándhí_;Y" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
 <AM lemma="Gándhí_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Gándhího_;Y_^(*2)" src="manual" selected="1">AUFS2M---------</AM>
+<AM lemma="Gándhího_;Y_^(*2)" src="manual">AUFS2M---------</AM>
 </tag>
 </m>
 <m id="m-wsj0629-001-p1s27W12-Ta">
@@ -7758,9 +7758,9 @@
 </w.rf>
 <form>Gándhího</form>
 <tag>
-<AM lemma="Gándhí_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Gándhí_;Y" src="auto" selected="1">NNMS2-----A----</AM>
 <AM lemma="Gándhí_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Gándhího_;Y_^(*2)" src="manual" selected="1">AUFS1M---------</AM>
+<AM lemma="Gándhího_;Y_^(*2)" src="manual">AUFS1M---------</AM>
 </tag>
 </m>
 <m id="m-wsj0629-001-p1s31W17-Ta">

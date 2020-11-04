@@ -1279,28 +1279,32 @@
 <AM lemma="t-1_^(t-mobile)" src="auto">A2--------A----</AM>
 <AM lemma="t-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="t-88_:B" src="auto">NNXXX-----A----</AM>
-<AM lemma="tuna" src="auto">NNFXX-----A---8</AM></tag>
-</m><m id="m-wsj2426-001-p1s3W17-Ta-sw1">
+<AM lemma="tuna" src="auto">NNFXX-----A---8</AM>
+</tag>
+</m>
+<m id="m-wsj2426-001-p1s3W17-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj2426-001-p1s3W17</LM>
 </w.rf>
 <form>34</form>
-<tag>
-<AM lemma="34" src="auto" recommended="1">C=-------------</AM></tag>
-</m><m id="m-wsj2426-001-p1s3W17-Ta-sw2">
+<tag lemma="34" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m-wsj2426-001-p1s3W17-Ta-sw2">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj2426-001-p1s3W17</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>C</form>
 <tag>
 <AM lemma="C-3`100" src="auto">C}-------------</AM>
 <AM lemma="C-33" src="auto" recommended="1">Q3-------------</AM>
 <AM lemma="Celsius" src="auto">NNMXX-----A---8</AM>
 <AM lemma="c-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="c-88_:B" src="auto">NNXXX-----A----</AM></tag>
-<form_change>spell</form_change></m>
+<AM lemma="c-88_:B" src="auto">NNXXX-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj2426-001-p1s3W18-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

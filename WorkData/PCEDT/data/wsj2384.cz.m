@@ -16181,7 +16181,8 @@
 <form>Bahn</form>
 <tag>
 <AM lemma="Bahn" src="auto">X@-------------</AM>
-<AM lemma="Bahn_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Bahn_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Bahn-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2384-001-p1s47W9-Ta">

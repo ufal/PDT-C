@@ -205,6 +205,7 @@
 <AM lemma="kuna" src="orig">NNFS1-----A----</AM>
 <AM lemma="KUNA-88" src="manual">BNXXX-----A----</AM>
 <AM lemma="Kuna_;m " src="manual">NNFS1-----A----</AM>
+<AM lemma="Kuna-2_;m" src="manual">NNFS1-----A----</AM>
 <AM lemma="Kuna-2_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>

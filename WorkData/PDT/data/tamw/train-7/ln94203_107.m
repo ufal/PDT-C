@@ -305,7 +305,8 @@
 <form>Pam</form>
 <tag>
 <AM lemma="Pam_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Pam_;Y" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Pam_;Y" src="manual">NNXXX-----A----</AM>
+<AM lemma="Pam-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-107-p2s2w16">
