@@ -51,7 +51,7 @@
 <LM>w#w-lnd91301-041-p1s1w5</LM>
 </w.rf>
 <form>TV</form>
-<tag lemma="televize" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="TV-88" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 </s>
 <s id="m-lnd91301-041-p2s1">

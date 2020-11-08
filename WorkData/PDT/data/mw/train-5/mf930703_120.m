@@ -692,7 +692,7 @@
 <form>TV</form>
 <tag>
 <AM lemma="televize_:B" src="orig">NNFXX-----A---8</AM>
-<AM lemma="televize" src="manual" selected="1">NNFXX-----A---b</AM>
+<AM lemma="TV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-120-p3s4w2">
@@ -2711,7 +2711,7 @@
 <form>TV</form>
 <tag>
 <AM lemma="televizní_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="televize" src="manual" selected="1">NNFXX-----A---b</AM>
+<AM lemma="TV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-120-p7s1w3">
@@ -4375,7 +4375,7 @@
 <LM>w#w-mf930703-120-p10s4w1</LM>
 </w.rf>
 <form>TV</form>
-<tag lemma="televize" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="TV-88" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf930703-120-p10s4w2">
 <src.rf>manual</src.rf>
@@ -13219,7 +13219,7 @@
 <form>TV</form>
 <tag>
 <AM lemma="televizní_:B" src="orig">AAXXX----1A---8</AM>
-<AM lemma="televize" src="manual" selected="1">NNFXX-----A---b</AM>
+<AM lemma="TV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930703-120-p25s1w3">

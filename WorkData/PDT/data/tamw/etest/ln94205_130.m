@@ -8197,7 +8197,7 @@
 <LM>w#w-ln94205-130-p10s3w10</LM>
 </w.rf>
 <form>TV</form>
-<tag lemma="televize" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="TV-88" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-ln94205-130-p10s3w11">
 <src.rf>manual</src.rf>

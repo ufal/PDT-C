@@ -9,7 +9,7 @@ class Rules:
         self._rules = {}
         self.not_found = 0
 
-        with open(rules_path, "r", encoding="utf-8") as rules_file:
+        with open(rules_path, "r", encoding="utf-8-sig") as rules_file:
             for line in rules_file:
                 line = line.rstrip("\n")
                 columns = line.split()

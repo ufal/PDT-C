@@ -19966,7 +19966,7 @@
 <form>TV</form>
 <tag>
 <AM lemma="teravolt" src="auto">NNIXX-----A---8</AM>
-<AM lemma="televize" src="auto" recommended="1" selected="1">NNFXX-----A---b</AM>
+<AM lemma="TV-88" src="auto" recommended="1" selected="1">BNXXX-----A----</AM>
 <AM lemma="televizní_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="TV-88" src="manual">BNXXX-----A----</AM>
 </tag>
@@ -26086,7 +26086,7 @@
 <form>TV</form>
 <tag>
 <AM lemma="teravolt" src="auto">NNIXX-----A---8</AM>
-<AM lemma="televize" src="auto" recommended="1">NNFXX-----A---b</AM>
+<AM lemma="TV-88" src="auto" recommended="1">BNXXX-----A----</AM>
 <AM lemma="televizní_:B" src="auto">AAXXX----1A---8</AM>
 </tag>
 </m>

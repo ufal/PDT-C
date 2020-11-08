@@ -3200,7 +3200,7 @@
 <LM>w#w-mf930702-100-p85s1w2</LM>
 </w.rf>
 <form>TV</form>
-<tag lemma="televize" src="orig" selected="1">NNFXX-----A---b</tag>
+<tag lemma="TV-88" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 </s>
 <s id="m-mf930702-100-p86s1">
