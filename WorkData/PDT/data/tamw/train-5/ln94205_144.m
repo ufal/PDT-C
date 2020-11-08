@@ -1200,7 +1200,7 @@
 <AM lemma="felicie" src="auto">NNFS1-----A----</AM>
 <AM lemma="felicie" src="auto">NNFS2-----A----</AM>
 <AM lemma="felicie" src="auto">NNFS5-----A----</AM>
-<AM lemma="Felicia_;Y_;m" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="Felicie_;Y_;m" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94205-144-p4s1w3">

@@ -1643,7 +1643,7 @@
 <AM lemma="Jesse_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Jesse_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Jesse_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Jesse-2_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Jesse-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1923-001-p1s6W18-Ta">

@@ -11265,7 +11265,7 @@
 <LM>w#w-lnd92255-080-p18s6w38</LM>
 </w.rf>
 <form>čj</form>
-<tag lemma="čj-1_^(číslo_jednací)" src="orig" selected="1">NNNXX-----A---b</tag>
+<tag lemma="čj-1_^(číslo_jednací)" src="orig" selected="1">BNNXX-----A----</tag>
 </m>
 <m id="m-lnd92255-080-p18s6w39">
 <src.rf>manual</src.rf>

@@ -3127,7 +3127,7 @@
 </w.rf>
 <form>čistšího</form>
 <tag>
-<AM lemma="čistý" src="auto" recommended="1">AAIS2----2A----</AM>
+<AM lemma="čistý" src="auto" recommended="1">AAIS2----2A---1</AM>
 <AM lemma="čistý" src="auto">AAMS2----2A----</AM>
 <AM lemma="čistý" src="auto">AAMS4----2A----</AM>
 <AM lemma="čistý" src="auto">AANS2----2A----</AM>

@@ -1829,7 +1829,7 @@
 <AM lemma="kyselo-2_^(kyselé_prostředí)" src="auto">NNNS1-----A----</AM>
 <AM lemma="kyselo-2_^(kyselé_prostředí)" src="auto">NNNS4-----A----</AM>
 <AM lemma="kyselo-2_^(kyselé_prostředí)" src="auto">NNNS5-----A----</AM>
-<AM lemma="kyselo-3_^(na_kyselo)" src="manual" selected="1">Db-------------</AM>
+<AM lemma="kyselo" src="manual" selected="1">NNNS4-----A----</AM>
 </tag>
 </m>
 <m id="m053-d-m-d1e1140-x3-punct-punct">

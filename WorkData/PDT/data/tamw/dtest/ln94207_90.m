@@ -5132,7 +5132,7 @@
 <AM lemma="imprese" src="orig">NNFS6-----A---3</AM>
 <AM lemma="imprese" src="auto">NNFP2-----A----</AM>
 <AM lemma="imprese" src="auto" recommended="1">NNFS7-----A----</AM>
-<AM lemma="impresí" src="manual" selected="1">NNFS6-----A----</AM>
+<AM lemma="impresí_,a" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94207-90-p5s6w21">

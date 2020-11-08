@@ -1978,7 +1978,7 @@
 <form>Nově</form>
 <tag>
 <AM lemma="Nova_;m_^(televize)" src="auto">NNFS3-----A----</AM>
-<AM lemma="Nova_;m_^(televize)" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="Nova_;m" src="auto" recommended="1">NNFS6-----A----</AM>
 <AM lemma="nova" src="auto">NNFS3-----A----</AM>
 <AM lemma="nova" src="auto">NNFS6-----A----</AM>
 <AM lemma="nově_^(*1ý)" src="auto">Dg-------1A----</AM>
@@ -2205,7 +2205,7 @@
 <form>Nově</form>
 <tag>
 <AM lemma="Nova_;m_^(televize)" src="auto">NNFS3-----A----</AM>
-<AM lemma="Nova_;m_^(televize)" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="Nova_;m" src="auto" recommended="1">NNFS6-----A----</AM>
 <AM lemma="nova" src="auto">NNFS3-----A----</AM>
 <AM lemma="nova" src="auto">NNFS6-----A----</AM>
 <AM lemma="nově_^(*1ý)" src="auto">Dg-------1A----</AM>

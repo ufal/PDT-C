@@ -5041,7 +5041,7 @@
 <tag>
 <AM lemma="kápo" src="auto" recommended="1">NNNS3-----A----</AM>
 <AM lemma="kápo" src="auto">NNNS6-----A----</AM>
-<AM lemma="kápo" src="manual" selected="1">NNMS4-----A---1</AM>
+<AM lemma="kápo" src="manual" selected="1">NNMS4-----A---6</AM>
 </tag>
 </m>
 <m id="m796-id61873-5">

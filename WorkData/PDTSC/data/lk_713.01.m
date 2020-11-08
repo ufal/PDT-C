@@ -5896,7 +5896,7 @@
 <AM lemma="zdravý" src="auto">AANP3----1A----</AM>
 <AM lemma="zdravý" src="auto">AANS6----1A---7</AM>
 <AM lemma="zdravý" src="auto">AANS7----1A----</AM>
-<AM lemma="zdravý-2" src="manual" selected="1">NNMP3-----A----</AM>
+<AM lemma="zdravý" src="manual" selected="1">AAMP3----1A----</AM>
 </tag>
 </m>
 <m id="m713-id59868-7">

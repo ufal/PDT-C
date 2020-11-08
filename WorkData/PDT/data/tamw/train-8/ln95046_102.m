@@ -1423,7 +1423,7 @@
 <AM lemma="Grana_;m" src="auto">NNFP2-----A----</AM>
 <AM lemma="gran" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="gran" src="auto">NNIS4-----A----</AM>
-<AM lemma="Gran_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Gran_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-102-p4s2w17">
@@ -2211,7 +2211,7 @@
 <AM lemma="Grana_;m" src="auto">NNFP2-----A----</AM>
 <AM lemma="gran" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="gran" src="auto">NNIS4-----A----</AM>
-<AM lemma="Gran_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Gran_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95046-102-p5s3w14">

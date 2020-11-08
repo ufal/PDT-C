@@ -7908,7 +7908,7 @@
 <LM>w#w-vesm9211-060-p13s7Aw23</LM>
 </w.rf>
 <form>></form>
-<tag lemma=">" src="orig" selected="1">Z:-------------</tag>
+<tag lemma="&gt;" src="orig" selected="1">Z:-------------</tag>
 </m>
 <m id="m-vesm9211-060-p13s7Aw24">
 <src.rf>manual</src.rf>

@@ -4231,7 +4231,7 @@
 <form>QUÉBEKU</form>
 <tag>
 <AM lemma="Québec_;G" src="orig">NNIS6-----A---2</AM>
-<AM lemma="Québek_;G_,s_^(^DD**Québec)" src="manual" selected="1">NNIS6-----A---2</AM>
+<AM lemma="Québek_;G_,s_^(^DD**Québec)" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-059-p14s1Aw9">

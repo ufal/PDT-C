@@ -170,7 +170,7 @@
 <LM>w#w-ln95047-014-p2s1Bw11</LM>
 </w.rf>
 <form>Nova</form>
-<tag lemma="Nova_;m_^(televize)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Nova_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95047-014-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -354,7 +354,7 @@
 <LM>w#w-ln95047-014-p2s2w21</LM>
 </w.rf>
 <form>Nova</form>
-<tag lemma="Nova_;m_^(televize)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Nova_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95047-014-p2s2w22">
 <src.rf>manual</src.rf>
@@ -559,7 +559,7 @@
 <LM>w#w-ln95047-014-p3s1w24</LM>
 </w.rf>
 <form>Nova</form>
-<tag lemma="Nova_;m_^(televize)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Nova_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95047-014-p3s1w25">
 <src.rf>manual</src.rf>
@@ -612,7 +612,7 @@
 <LM>w#w-ln95047-014-p3s2w1</LM>
 </w.rf>
 <form>Nova</form>
-<tag lemma="Nova_;m_^(televize)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Nova_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95047-014-p3s2w2">
 <src.rf>manual</src.rf>
@@ -963,7 +963,7 @@
 <LM>w#w-ln95047-014-p4s2w1</LM>
 </w.rf>
 <form>Nova</form>
-<tag lemma="Nova_;m_^(televize)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Nova_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95047-014-p4s2w2">
 <src.rf>manual</src.rf>
@@ -1253,7 +1253,7 @@
 <LM>w#w-ln95047-014-p4s3w1</LM>
 </w.rf>
 <form>Nova</form>
-<tag lemma="Nova_;m_^(televize)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Nova_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95047-014-p4s3w2">
 <src.rf>manual</src.rf>

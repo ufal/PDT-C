@@ -239,7 +239,7 @@
 <LM>w#w-mf930708-154-p3s1w21</LM>
 </w.rf>
 <form>TV</form>
-<tag lemma="televizní" src="orig" selected="1">AAXXX----1A---b</tag>
+<tag lemma="TV-88" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf930708-154-p3s1w22">
 <src.rf>manual</src.rf>

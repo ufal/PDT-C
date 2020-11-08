@@ -948,7 +948,7 @@
 <tag>
 <AM lemma="Ambler_;Y" src="auto">NNMS3-----A---1</AM>
 <AM lemma="Ambler_;Y" src="auto" recommended="1">NNMS6-----A---1</AM>
-<AM lemma="Ambler-2_;G" src="manual" selected="1">NNIS6-----A---1</AM>
+<AM lemma="Ambler-2_;G" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2244-001-p1s3W10-Ta">

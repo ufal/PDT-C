@@ -1102,7 +1102,7 @@
 <LM>w#w-cmpr9415-005-p9s3w3</LM>
 </w.rf>
 <form>Québeku</form>
-<tag lemma="Québek_;G_,s_^(^DD**Québec)" src="orig" selected="1">NNIS2-----A---2</tag>
+<tag lemma="Québek_;G_,s_^(^DD**Québec)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-cmpr9415-005-p9s3w4">
 <src.rf>manual</src.rf>
@@ -2731,7 +2731,7 @@
 <LM>w#w-cmpr9415-005-p13s5w18</LM>
 </w.rf>
 <form>Québeku</form>
-<tag lemma="Québek_;G_,s_^(^DD**Québec)" src="orig" selected="1">NNIS6-----A---2</tag>
+<tag lemma="Québek_;G_,s_^(^DD**Québec)" src="orig" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-cmpr9415-005-p13s5w19">
 <src.rf>manual</src.rf>

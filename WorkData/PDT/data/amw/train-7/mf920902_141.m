@@ -1740,7 +1740,7 @@
 </w.rf>
 <form>Ilidže</form>
 <tag>
-<AM lemma="Ilidža_;G" src="orig" selected="1">NNFS2-----A----</AM>
+<AM lemma="Ilidža_;G" src="orig" selected="1">NNFS2-----A---1</AM>
 <AM lemma="Ilidža_;G" src="auto">NNFP1-----A---1</AM>
 <AM lemma="Ilidža_;G" src="auto">NNFP4-----A---1</AM>
 <AM lemma="Ilidža_;G" src="auto" recommended="1">NNFP5-----A---1</AM>

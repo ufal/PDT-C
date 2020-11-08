@@ -36,7 +36,7 @@
 </w.rf>
 <form>MARIA</form>
 <tag>
-<AM lemma="Mario_;Y" src="orig" selected="1">NNMS2-----A----</AM>
+<AM lemma="Mario_;Y_,s_^(^DD**Mário)" src="orig" selected="1">NNMS2-----A----</AM>
 <AM lemma="Marius_;Y_,t" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Marius_;Y_,t" src="auto">NNMS4-----A----</AM>
 <AM lemma="Maria_;Y" src="auto">NNFS1-----A----</AM>

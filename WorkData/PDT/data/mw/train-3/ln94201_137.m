@@ -5047,7 +5047,7 @@
 <LM>w#w-ln94201-137-p11s2w19</LM>
 </w.rf>
 <form>Nova</form>
-<tag lemma="Nova_;m_^(televize)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Nova_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94201-137-p11s2w20">
 <src.rf>manual</src.rf>
@@ -8457,7 +8457,7 @@
 <LM>w#w-ln94201-137-p17s1w6</LM>
 </w.rf>
 <form>Nova</form>
-<tag lemma="Nova_;m_^(televize)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Nova_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94201-137-p17s1w7">
 <src.rf>manual</src.rf>

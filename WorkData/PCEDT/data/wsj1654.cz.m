@@ -211,7 +211,7 @@
 </w.rf>
 <form>Halloween</form>
 <tag>
-<AM lemma="Halloween" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Halloween_;m" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Halloween" src="auto">NNIS4-----A----</AM>
 <AM lemma="Halloween_,t" src="auto">NNIS1-----A----</AM>
 <AM lemma="Halloween_,t" src="auto">NNIS4-----A----</AM>

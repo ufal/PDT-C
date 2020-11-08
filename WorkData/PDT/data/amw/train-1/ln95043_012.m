@@ -93,7 +93,7 @@
 <LM>w#w-ln95043-012-p2s1w6</LM>
 </w.rf>
 <form>Pierru</form>
-<tag lemma="Pierre_;Y" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Pierre_;Y" src="orig" selected="1">NNMS3-----A---1</tag>
 </m>
 <m id="m-ln95043-012-p2s1w7">
 <src.rf>manual</src.rf>

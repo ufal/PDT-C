@@ -2419,7 +2419,7 @@
 <LM>w#w-ln94201-121-p4s2w8</LM>
 </w.rf>
 <form>Fuksově</form>
-<tag lemma="Fuksův_;Y_^(*2a)" src="orig" selected="1">AUFS6M---------</tag>
+<tag lemma="Fuksův_;Y_^(*2)_(*2a)" src="orig" selected="1">AUFS6M---------</tag>
 </m>
 <m id="m-ln94201-121-p4s2w9">
 <src.rf>manual</src.rf>

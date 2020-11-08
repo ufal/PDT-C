@@ -1416,7 +1416,7 @@
 <form>Girl</form>
 <tag>
 <AM lemma="girl_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="Girl_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Girl_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-154-p11s27w3">

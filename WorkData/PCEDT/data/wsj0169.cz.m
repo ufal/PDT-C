@@ -813,7 +813,7 @@
 <tag>
 <AM lemma="Ratner_;Y" src="auto" recommended="1">NNMS3-----A---1</AM>
 <AM lemma="Ratner_;Y" src="auto">NNMS6-----A---1</AM>
-<AM lemma="Ratner-2_;m" src="manual" selected="1">NNIS2-----A---1</AM>
+<AM lemma="Ratner-2_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0169-001-p1s0W63-Ta">
@@ -912,7 +912,7 @@
 <tag>
 <AM lemma="Ratner_;Y" src="auto" recommended="1">NNMS3-----A---1</AM>
 <AM lemma="Ratner_;Y" src="auto">NNMS6-----A---1</AM>
-<AM lemma="Ratner-2_;m" src="manual" selected="1">NNIS2-----A---1</AM>
+<AM lemma="Ratner-2_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0169-001-p1s2W3-Ta">
@@ -1675,7 +1675,7 @@
 <tag>
 <AM lemma="Ratner_;Y" src="auto" recommended="1">NNMS3-----A---1</AM>
 <AM lemma="Ratner_;Y" src="auto">NNMS6-----A---1</AM>
-<AM lemma="Ratner-2_;m" src="manual" selected="1">NNIS2-----A---1</AM>
+<AM lemma="Ratner-2_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0169-001-p1s5W11-Ta">
@@ -1754,7 +1754,7 @@
 <tag>
 <AM lemma="Ratner_;Y" src="auto" recommended="1">NNMS3-----A---1</AM>
 <AM lemma="Ratner_;Y" src="auto">NNMS6-----A---1</AM>
-<AM lemma="Ratner-2_;m" src="manual" selected="1">NNIS2-----A---1</AM>
+<AM lemma="Ratner-2_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0169-001-p1s6W6-Ta">

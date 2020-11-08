@@ -5337,7 +5337,7 @@
 <AM lemma="OK-2_:B_^(lety_ČSA)">NNNXX-----A---8</AM>
 <AM lemma="Oka_;G">NNFP2-----A----</AM>
 <AM lemma="oko">NNNP2-----A----</AM>
-<AM lemma="ok-2" src="manual" selected="1">TT-------------</AM>
+<AM lemma="ok-1" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="jh_09-SCzechM-p0947-s1-w11">

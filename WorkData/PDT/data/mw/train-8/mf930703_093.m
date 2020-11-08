@@ -76,7 +76,7 @@
 <AM lemma="harley_;m_,t_^(motorka)" src="auto">NNIP4-----A----</AM>
 <AM lemma="harley_;m_,t_^(motorka)" src="auto">NNIP5-----A----</AM>
 <AM lemma="harley_;m_,t_^(motorka)" src="auto">NNIS2-----A----</AM>
-<AM lemma="Harley-2_;m_^(motorka)" src="manual" selected="1">NNIS4-----A----</AM>
+<AM lemma="Harley-2_;m" src="manual" selected="1">NNIS4-----A---1</AM>
 </tag>
 </m>
 </s>

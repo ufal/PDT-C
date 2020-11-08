@@ -4615,7 +4615,7 @@
 <form>Dana</form>
 <tag>
 <AM lemma="Dan_;Y_,h" src="auto">NNMS2-----A----</AM>
-<AM lemma="Dan_;Y_,h" src="auto" selected="1">NNMS4-----A----</AM>
+<AM lemma="Dan_;Y" src="auto" selected="1">NNMS4-----A----</AM>
 <AM lemma="Dana_;Y" src="auto">NNFS1-----A----</AM>
 <AM lemma="Dano_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Dano_;Y" src="auto">NNMS4-----A----</AM>

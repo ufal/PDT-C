@@ -4334,7 +4334,7 @@
 <AM lemma="čistý" src="auto">AAMP3----2A----</AM>
 <AM lemma="čistý" src="auto">AAMS6----2A----</AM>
 <AM lemma="čistý" src="auto">AAMS7----2A----</AM>
-<AM lemma="čistý" src="auto" recommended="1">AANP3----2A----</AM>
+<AM lemma="čistý" src="auto" recommended="1">AANP3----2A---1</AM>
 <AM lemma="čistý" src="auto">AANS6----2A----</AM>
 <AM lemma="čistý" src="auto">AANS7----2A----</AM>
 </tag>
@@ -6444,7 +6444,7 @@
 <AM lemma="čistý" src="auto">AAMS1----2A----</AM>
 <AM lemma="čistý" src="auto">AAMS5----2A----</AM>
 <AM lemma="čistý" src="auto">AANP1----2A----</AM>
-<AM lemma="čistý" src="auto" recommended="1">AANP4----2A----</AM>
+<AM lemma="čistý" src="auto" recommended="1">AANP4----2A---1</AM>
 <AM lemma="čistý" src="auto">AANP5----2A----</AM>
 <AM lemma="čistý" src="auto">AANS1----2A----</AM>
 <AM lemma="čistý" src="auto">AANS4----2A----</AM>

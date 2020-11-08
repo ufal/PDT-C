@@ -356,7 +356,7 @@
 </w.rf>
 <form>Rossu</form>
 <tag>
-<AM lemma="Ross-2_;Y" src="orig" selected="1">NNMS3-----A----</AM>
+<AM lemma="Ross_;Y" src="orig" selected="1">NNMS3-----A---2</AM>
 <AM lemma="Rosso_;G" src="auto" recommended="1">NNNS3-----A----</AM>
 <AM lemma="Rosso_;G" src="auto">NNNS6-----A----</AM>
 </tag>

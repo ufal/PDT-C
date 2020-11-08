@@ -4905,7 +4905,7 @@
 <AM lemma="Ross-2_;Y" src="orig">NNMS3-----A----</AM>
 <AM lemma="Rosso_;G" src="auto" recommended="1">NNNS3-----A----</AM>
 <AM lemma="Rosso_;G" src="auto">NNNS6-----A----</AM>
-<AM lemma="Ross_;Y" src="manual" selected="1">NNMS3-----A----</AM>
+<AM lemma="Ross_;Y" src="manual" selected="1">NNMS3-----A---2</AM>
 </tag>
 </m>
 <m id="m-lnd92257-003-p10s1w22">

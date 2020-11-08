@@ -263,7 +263,7 @@
 <LM>w#w-ln94206-41-p2s2w4</LM>
 </w.rf>
 <form>Nova</form>
-<tag lemma="Nova_;m_^(televize)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Nova_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94206-41-p2s2w5">
 <src.rf>manual</src.rf>

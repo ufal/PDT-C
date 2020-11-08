@@ -1204,7 +1204,7 @@
 <LM>w#w-lnd94105-069-p1s5w3</LM>
 </w.rf>
 <form>Nova</form>
-<tag lemma="Nova_;m_^(televize)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Nova_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd94105-069-p1s5w4">
 <src.rf>manual</src.rf>

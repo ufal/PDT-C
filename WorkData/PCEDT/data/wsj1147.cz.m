@@ -11991,7 +11991,7 @@
 </w.rf>
 <form>Pacifiku</form>
 <tag>
-<AM lemma="Pacifik_;G" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="Pacifik_;G_;m" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="Pacifik_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="Pacifik_;G" src="auto">NNIS5-----A----</AM>
 <AM lemma="Pacifik_;G" src="auto">NNIS6-----A----</AM>

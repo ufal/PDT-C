@@ -460,7 +460,7 @@
 <LM>w#w-lnd92256-082-p4s1w18</LM>
 </w.rf>
 <form>nezvěstnému</form>
-<tag lemma="nezvěstný-3_^(o_kom_se_neví,_kde_je)" src="orig" selected="1">AAMS3----1A----</tag>
+<tag lemma="zvěstný" src="orig" selected="1">AAMS3----1N----</tag>
 </m>
 <m id="m-lnd92256-082-p4s1w19">
 <src.rf>manual</src.rf>

@@ -1577,7 +1577,7 @@
 <AM lemma="Li_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="li-1" src="auto" recommended="1">TT-------------</AM>
 <AM lemma="li-2" src="auto">J,-------------</AM>
-<AM lemma="Li-2_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Li-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95044-050-p4s2w15">

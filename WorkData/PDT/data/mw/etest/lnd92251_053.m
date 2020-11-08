@@ -559,7 +559,7 @@
 <form>slabozrakých</form>
 <tag>
 <AM lemma="slabozraký" src="orig">AAMP2----1A----</AM>
-<AM lemma="slabozraký-2" src="manual" selected="1">NNMP2-----A----</AM>
+<AM lemma="slabozraký" src="manual" selected="1">AAMP2----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-053-p2s4w8">

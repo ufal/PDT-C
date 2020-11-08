@@ -314,7 +314,7 @@
 <LM>w#w-ln95049-090-p2s2w11</LM>
 </w.rf>
 <form>Fiatu</form>
-<tag lemma="Fiat_;m" src="auto" selected="1">NNIS6-----A---1</tag>
+<tag lemma="Fiat_;m" src="auto" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-ln95049-090-p2s2w12">
 <src.rf>manual</src.rf>

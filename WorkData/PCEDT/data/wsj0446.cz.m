@@ -4262,7 +4262,7 @@
 <tag>
 <AM lemma="Etienne_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Etienne_;Y_,t" src="auto">NNMS5-----A----</AM>
-<AM lemma="Etienne-2_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Etienne-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0446-001-p1s16W4-Ta">

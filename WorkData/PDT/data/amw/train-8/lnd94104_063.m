@@ -5527,7 +5527,7 @@
 <LM>w#w-lnd94104-063-p1s40Aw1</LM>
 </w.rf>
 <form>Nezvěstné</form>
-<tag lemma="nezvěstný-3_^(o_kom_se_neví,_kde_je)" src="orig" selected="1">AAIP1----1A----</tag>
+<tag lemma="zvěstný" src="orig" selected="1">AAIP1----1N----</tag>
 </m>
 <m id="m-lnd94104-063-p1s40Aw2">
 <src.rf>manual</src.rf>
@@ -6234,7 +6234,7 @@
 <LM>w#w-lnd94104-063-p1s44w4</LM>
 </w.rf>
 <form>nezvěstné</form>
-<tag lemma="nezvěstný-3_^(o_kom_se_neví,_kde_je)" src="orig" selected="1">AAFP1----1A----</tag>
+<tag lemma="zvěstný" src="orig" selected="1">AAFP1----1N----</tag>
 </m>
 <m id="m-lnd94104-063-p1s44w5">
 <src.rf>manual</src.rf>

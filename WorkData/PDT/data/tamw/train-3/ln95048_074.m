@@ -2568,7 +2568,7 @@
 <AM lemma="Halo_;m" src="orig">II-------------</AM>
 <AM lemma="hala" src="auto">NNFS5-----A----</AM>
 <AM lemma="haló-1" src="auto" recommended="1">II-------------</AM>
-<AM lemma="haló-1" src="manual" selected="1">II------------1</AM>
+<AM lemma="halo-1_,s_^(^DD**haló-1)" src="manual" selected="1">II-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-074-p6s1w7">

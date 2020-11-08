@@ -16207,7 +16207,7 @@
 <AM lemma="Petrus_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="Petrus_;Y_;m" src="manual">NNMS2-----A----</AM>
 <AM lemma="Petrus-2_;m" src="manual">NNMS2-----A---1</AM>
-<AM lemma="Petrus-2_;m" src="manual" selected="1">NNIS2-----A---1</AM>
+<AM lemma="Petrus-2_;m" src="manual" selected="1">NNIS2-----A---6</AM>
 </tag>
 </m>
 <m id="m-wsj0071-001-p1s53W25-Ta">

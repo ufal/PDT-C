@@ -2401,7 +2401,7 @@
 <AM lemma="nezvěstný-3_^(o_kom_se_neví,_kde_je)" src="auto">AAFP6----1A----</AM>
 <AM lemma="nezvěstný-3_^(o_kom_se_neví,_kde_je)" src="auto">AAIP2----1A----</AM>
 <AM lemma="nezvěstný-3_^(o_kom_se_neví,_kde_je)" src="auto">AAIP6----1A----</AM>
-<AM lemma="nezvěstný-3_^(o_kom_se_neví,_kde_je)" src="auto" recommended="1">AAMP2----1A----</AM>
+<AM lemma="zvěstný" src="auto" recommended="1">AAMP2----1N----</AM>
 <AM lemma="nezvěstný-3_^(o_kom_se_neví,_kde_je)" src="auto">AAMP6----1A----</AM>
 <AM lemma="nezvěstný-3_^(o_kom_se_neví,_kde_je)" src="auto">AANP2----1A----</AM>
 <AM lemma="nezvěstný-3_^(o_kom_se_neví,_kde_je)" src="auto">AANP6----1A----</AM>

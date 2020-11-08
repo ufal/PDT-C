@@ -15510,7 +15510,7 @@
 <AM lemma="Fernand_;Y" src="auto">NNMS3-----A---1</AM>
 <AM lemma="Fernand_;Y" src="auto" recommended="1">NNMS6-----A---1</AM>
 <AM lemma="Fernando-2_;G" src="manual">NNIS6-----A---1</AM>
-<AM lemma="Fernando-2_;G" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="Fernando-2_;G" src="manual" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1824-001-p1s46W21-Ta">

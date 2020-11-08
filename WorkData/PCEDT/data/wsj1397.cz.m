@@ -3770,7 +3770,7 @@
 <AM lemma="Lindsay_;Y" src="auto">NNMXX-----A----</AM>
 <AM lemma="Lindsay_;Y" src="auto">NNMS1-----A---1</AM>
 <AM lemma="Lindsay_;Y" src="auto">NNMS5-----A---1</AM>
-<AM lemma="Lindsay-2_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Lindsay-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1397-001-p1s14W45-Ta">

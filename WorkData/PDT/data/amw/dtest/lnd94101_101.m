@@ -170,7 +170,7 @@
 <LM>w#w-lnd94101-101-p1s2Bw6</LM>
 </w.rf>
 <form>Pacifiku</form>
-<tag lemma="Pacifik_;G" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Pacifik_;G_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-lnd94101-101-p1s2Bw7">
 <src.rf>manual</src.rf>
@@ -2820,7 +2820,7 @@
 <LM>w#w-lnd94101-101-p1s15w16</LM>
 </w.rf>
 <form>Pacifiku</form>
-<tag lemma="Pacifik_;G" src="auto" selected="1">NNIS6-----A----</tag>
+<tag lemma="Pacifik_;G_;m" src="auto" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-lnd94101-101-p1s15w17">
 <src.rf>manual</src.rf>

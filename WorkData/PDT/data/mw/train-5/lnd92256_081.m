@@ -1428,7 +1428,7 @@
 <LM>w#w-lnd92256-081-p4s5w26</LM>
 </w.rf>
 <form>TV</form>
-<tag lemma="televizní" src="orig" selected="1">AAXXX----1A---b</tag>
+<tag lemma="TV-88" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-lnd92256-081-p4s5w27">
 <src.rf>manual</src.rf>

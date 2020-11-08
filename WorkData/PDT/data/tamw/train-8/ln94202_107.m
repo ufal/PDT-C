@@ -1637,7 +1637,7 @@
 </w.rf>
 <form>Cruzeiro</form>
 <tag>
-<AM lemma="Cruzeiro-2_;m" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="Cruzeiro-2_;G_;m" src="orig" selected="1">NNXXX-----A----</AM>
 <AM lemma="Cruzeiro_;G" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="Cruzeiro_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Cruzeiro_;G" src="auto">NNNS5-----A----</AM>

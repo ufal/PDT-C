@@ -93,7 +93,7 @@
 <LM>w#w-ln95045-063-p2s1w5</LM>
 </w.rf>
 <form>Pacifiku</form>
-<tag lemma="Pacifik_;G" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Pacifik_;G_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95045-063-p2s1w6">
 <src.rf>manual</src.rf>

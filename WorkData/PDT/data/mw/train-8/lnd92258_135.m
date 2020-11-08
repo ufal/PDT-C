@@ -1929,7 +1929,7 @@
 <LM>w#w-lnd92258-135-p4s4w1</LM>
 </w.rf>
 <form>Pozdější</form>
-<tag lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="orig" selected="1">AAIS4----2A----</tag>
+<tag lemma="pozdější" src="orig" selected="1">AAIS4----1A----</tag>
 </m>
 <m id="m-lnd92258-135-p4s4w2">
 <src.rf>manual</src.rf>

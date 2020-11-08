@@ -125,7 +125,7 @@
 <AM lemma="fiat_^(vozidlo)" src="auto">NNIS3-----A----</AM>
 <AM lemma="fiat_^(vozidlo)" src="auto">NNIS6-----A---1</AM>
 <AM lemma="Fiat_;m" src="manual">NNIS2-----A----</AM>
-<AM lemma="Fiat_;m" src="manual" selected="1">NNIS2-----A---1</AM>
+<AM lemma="Fiat_;m" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-132-p1s1w14">

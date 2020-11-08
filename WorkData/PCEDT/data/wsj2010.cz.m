@@ -4655,7 +4655,7 @@
 <tag>
 <AM lemma="Halloween" src="auto">NNIS2-----A----</AM>
 <AM lemma="Halloween" src="auto">NNIS3-----A----</AM>
-<AM lemma="Halloween" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="Halloween_;m" src="auto" recommended="1">NNIS6-----A----</AM>
 <AM lemma="Halloween_,t" src="auto">NNIS2-----A----</AM>
 <AM lemma="Halloween_,t" src="auto">NNIS3-----A----</AM>
 <AM lemma="Halloween_,t" src="auto">NNIS6-----A----</AM>

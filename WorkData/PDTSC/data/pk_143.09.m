@@ -2338,7 +2338,7 @@
 <AM lemma="spartak-1_;m_^(automobil)" src="auto">NNIS4-----A----</AM>
 <AM lemma="spartak_;m_^(automobil_zn._Spartak)" src="auto">NNIS1-----A----</AM>
 <AM lemma="spartak_;m_^(automobil_zn._Spartak)" src="auto">NNIS4-----A----</AM>
-<AM lemma="Spartak-2_;m_^(automobil)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Spartak-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m143-d1t2605-1">

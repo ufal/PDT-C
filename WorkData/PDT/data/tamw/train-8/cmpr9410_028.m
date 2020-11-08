@@ -10705,7 +10705,7 @@
 <LM>w#w-cmpr9410-028-p34s3w6</LM>
 </w.rf>
 <form>Novy</form>
-<tag lemma="Nova_;m_^(televize)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Nova_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-cmpr9410-028-p34s3w7">
 <src.rf>manual</src.rf>
@@ -10819,7 +10819,7 @@
 <LM>w#w-cmpr9410-028-p34s4w3</LM>
 </w.rf>
 <form>Novy</form>
-<tag lemma="Nova_;m_^(televize)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Nova_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-cmpr9410-028-p34s4w4">
 <src.rf>manual</src.rf>

@@ -2810,7 +2810,7 @@
 <tag>
 <AM lemma="Indian-2_;Y" src="orig">NNMS6-----A----</AM>
 <AM lemma="Indiana_;G" src="auto" recommended="1">NNFS4-----A----</AM>
-<AM lemma="Indiana-2_;Y" src="manual" selected="1">NNMS6-----A----</AM>
+<AM lemma="Indiana-2_;Y" src="manual" selected="1">NNMS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln95046-043-p5s1w49">

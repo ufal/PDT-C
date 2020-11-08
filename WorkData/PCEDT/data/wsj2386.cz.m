@@ -1838,7 +1838,7 @@
 <form>Crump</form>
 <tag>
 <AM lemma="Crump_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Crump-2_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Crump-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2386-001-p1s8W18-Ta">

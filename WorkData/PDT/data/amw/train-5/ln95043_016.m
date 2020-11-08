@@ -342,7 +342,7 @@
 <LM>w#w-ln95043-016-p3s1Bw21</LM>
 </w.rf>
 <form>Pavlu</form>
-<tag lemma="Pavel_;Y" src="orig" selected="1">NNMS3-----A----</tag>
+<tag lemma="Pavel_;Y" src="orig" selected="1">NNMS3-----A---1</tag>
 </m>
 <m id="m-ln95043-016-p3s1Bw22">
 <src.rf>manual</src.rf>

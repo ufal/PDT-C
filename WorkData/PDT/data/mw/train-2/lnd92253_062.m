@@ -5469,7 +5469,7 @@
 <LM>w#w-lnd92253-062-p10s8w20</LM>
 </w.rf>
 <form>pozdějším</form>
-<tag lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="orig" selected="1">AAIS6----2A----</tag>
+<tag lemma="pozdější" src="orig" selected="1">AAIS6----1A----</tag>
 </m>
 <m id="m-lnd92253-062-p10s8w21">
 <src.rf>manual</src.rf>

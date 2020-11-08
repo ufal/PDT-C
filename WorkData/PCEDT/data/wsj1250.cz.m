@@ -8387,7 +8387,7 @@
 <AM lemma="Pacifik_;G" src="auto">NNIS2-----A----</AM>
 <AM lemma="Pacifik_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="Pacifik_;G" src="auto">NNIS5-----A----</AM>
-<AM lemma="Pacifik_;G" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="Pacifik_;G_;m" src="auto" recommended="1">NNIS6-----A----</AM>
 <AM lemma="pacifik-1_,h" src="auto">NNIS2-----A----</AM>
 <AM lemma="pacifik-1_,h" src="auto">NNIS3-----A----</AM>
 <AM lemma="pacifik-1_,h" src="auto">NNIS5-----A----</AM>

@@ -69,7 +69,7 @@
 <LM>w#w-lnd91303-098-p2s1w5</LM>
 </w.rf>
 <form>nezvěstní</form>
-<tag lemma="nezvěstný-3_^(o_kom_se_neví,_kde_je)" src="orig" selected="1">AAMP1----1A----</tag>
+<tag lemma="zvěstný" src="orig" selected="1">AAMP1----1N----</tag>
 </m>
 <m id="m-lnd91303-098-p2s1w6">
 <src.rf>manual</src.rf>

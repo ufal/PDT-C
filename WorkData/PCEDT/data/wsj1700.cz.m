@@ -4002,7 +4002,7 @@
 <AM lemma="Hanoi_;G_,s_^(^DD**Hanoj)" src="auto">NNFS1-----A----</AM>
 <AM lemma="Hanoi_;G_,s_^(^DD**Hanoj)" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="Hanoi_;G_,s_^(^DD**Hanoj)" src="manual">NNFS4-----A----</AM>
-<AM lemma="Hanoi_;G_,s_^(^DD**Hanoj)" src="manual" selected="1">NNFS6-----A----</AM>
+<AM lemma="Hanoi_;G_,s_^(^DD**Hanoj)" src="manual" selected="1">NNFS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-wsj1700-001-p1s12W21-Ta">

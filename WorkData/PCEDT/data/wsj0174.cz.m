@@ -7351,7 +7351,7 @@
 <tag>
 <AM lemma="nedůvěra" src="auto">NNFS3-----A----</AM>
 <AM lemma="nedůvěra" src="auto" recommended="1">NNFS6-----A----</AM>
-<AM lemma="důvěra" src="manual" selected="1">NNFS6-----N----</AM>
+<AM lemma="nedůvěra" src="manual" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0174-001-p1s27W9-Ta">

@@ -861,7 +861,7 @@
 <LM>w#w-ln94208-111-p2s5w18</LM>
 </w.rf>
 <form>nezvěstný</form>
-<tag lemma="nezvěstný-3_^(o_kom_se_neví,_kde_je)" src="orig" selected="1">AAMS1----1A----</tag>
+<tag lemma="zvěstný" src="orig" selected="1">AAMS1----1N----</tag>
 </m>
 <m id="m-ln94208-111-p2s5w19">
 <src.rf>manual</src.rf>

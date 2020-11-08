@@ -998,7 +998,7 @@
 <LM>w#w-mf930701-145-p26s1w2</LM>
 </w.rf>
 <form>TV</form>
-<tag lemma="televizní" src="orig" selected="1">AAXXX----1A---b</tag>
+<tag lemma="TV-88" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf930701-145-p26s1w3">
 <src.rf>manual</src.rf>

@@ -1391,7 +1391,7 @@
 <form>Chris</form>
 <tag>
 <AM lemma="Chris_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Chris-2_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Chris-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920901-064-p3s4w25">

@@ -1746,7 +1746,7 @@
 <LM>w#w-ln95040-079-p4s3w35</LM>
 </w.rf>
 <form>Québeku</form>
-<tag lemma="Québek_;G_,s_^(^DD**Québec)" src="orig" selected="1">NNIS2-----A---2</tag>
+<tag lemma="Québek_;G_,s_^(^DD**Québec)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95040-079-p4s3w36">
 <src.rf>manual</src.rf>
@@ -2006,7 +2006,7 @@
 <LM>w#w-ln95040-079-p5s1w4</LM>
 </w.rf>
 <form>Jacquesu</form>
-<tag lemma="Jacques_;Y" src="orig" selected="1">NNMS3-----A---1</tag>
+<tag lemma="Jacques_;Y" src="orig" selected="1">NNMS3-----A---2</tag>
 </m>
 <m id="m-ln95040-079-p5s1w5">
 <src.rf>manual</src.rf>
@@ -3584,7 +3584,7 @@
 <LM>w#w-ln95040-079-p7s3w11</LM>
 </w.rf>
 <form>Québeku</form>
-<tag lemma="Québek_;G_,s_^(^DD**Québec)" src="orig" selected="1">NNIS2-----A---2</tag>
+<tag lemma="Québek_;G_,s_^(^DD**Québec)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln95040-079-p7s3w12">
 <src.rf>manual</src.rf>

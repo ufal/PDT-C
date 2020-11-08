@@ -24494,7 +24494,7 @@
 <AM lemma="Salomon-77_,t" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="Salomon_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Salomon-2_;m" src="manual">NNFS1-----A----</AM>
-<AM lemma="Salomon-3_;Y_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Salomon-3_;Y_;m" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2113-001-p1s92W9-Ta">
@@ -24682,7 +24682,7 @@
 <AM lemma="Salomon-77_,t" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="Salomon_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Salomon-2_;m" src="manual">NNFS1-----A----</AM>
-<AM lemma="Salomon-3_;Y_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Salomon-3_;Y_;m" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2113-001-p1s93W2-Ta">

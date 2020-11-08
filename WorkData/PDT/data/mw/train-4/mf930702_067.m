@@ -1100,7 +1100,7 @@
 <tag>
 <AM lemma="klekánice" src="orig">NNFS1-----A----</AM>
 <AM lemma="Klekánice_;Y" src="manual">NNMS1-----A----</AM>
-<AM lemma="Klekánice_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Klekánice_;Y_^(klisna)" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-067-p3s4w4">

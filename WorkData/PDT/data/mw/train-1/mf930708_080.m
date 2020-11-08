@@ -2401,7 +2401,7 @@
 <LM>w#w-mf930708-080-p5s2w4</LM>
 </w.rf>
 <form>čistší</form>
-<tag lemma="čistý" src="orig" selected="1">AANS4----2A----</tag>
+<tag lemma="čistý" src="orig" selected="1">AANS4----2A---1</tag>
 </m>
 <m id="m-mf930708-080-p5s2w5">
 <src.rf>manual</src.rf>

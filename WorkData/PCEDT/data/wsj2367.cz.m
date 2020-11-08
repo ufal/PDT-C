@@ -3630,7 +3630,7 @@
 <AM lemma="Riley_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Riley_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Riley_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Riley-2_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Riley-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2367-001-p1s13W7-Ta">

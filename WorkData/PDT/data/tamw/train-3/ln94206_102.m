@@ -2021,7 +2021,7 @@
 <LM>w#w-ln94206-102-p4s3w16</LM>
 </w.rf>
 <form>Nezvěstný</form>
-<tag lemma="nezvěstný-3_^(o_kom_se_neví,_kde_je)" src="orig" selected="1">AAMS1----1A----</tag>
+<tag lemma="zvěstný" src="orig" selected="1">AAMS1----1N----</tag>
 </m>
 <m id="m-ln94206-102-p4s3w17">
 <src.rf>manual</src.rf>

@@ -1899,7 +1899,7 @@
 <AM lemma="Carbola_;Y" src="orig">NNMS2-----A----</AM>
 <AM lemma="Carbol_;Y" src="auto" recommended="1">NNMP4-----A----</AM>
 <AM lemma="Carbol_;Y" src="auto">NNMP7-----A----</AM>
-<AM lemma="Carbol_;Y" src="manual" selected="1">NNMS2-----A---1</AM>
+<AM lemma="Carbol_;Y" src="manual" selected="1">NNMS2-----A---9</AM>
 </tag>
 </m>
 <m id="m-ln94200-164-p5s2w6">

@@ -2160,7 +2160,7 @@
 <AM lemma="literární_:B" src="orig">AAXXX----1A---8</AM>
 <AM lemma="Litva_:B_;G" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="lít" src="auto">VsYS----X-API--</AM>
-<AM lemma="literární" src="manual" selected="1">AAXXX----1A---8</AM>
+<AM lemma="Lit-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-92-p5s1w7">

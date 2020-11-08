@@ -3516,7 +3516,7 @@
 <AM lemma="televizní_:B" recommended="1">AAXXX----1A---8</AM>
 <AM lemma="TV-1`teravolt_:B">NNIXX-----A---8</AM>
 <AM lemma="televize_:B">NNFXX-----A---8</AM>
-<AM lemma="televizní" src="manual" selected="1">AAXXX----1A---b</AM>
+<AM lemma="TV-88" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="jh_13-SCzechM-p1369-s1-w30">

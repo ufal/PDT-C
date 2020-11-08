@@ -136,7 +136,7 @@
 <LM>w#w-ln94206-47-p2s1Aw8</LM>
 </w.rf>
 <form>NOVA</form>
-<tag lemma="Nova_;m_^(televize)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Nova_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="m-ln94206-47-p2s1B">
@@ -189,7 +189,7 @@
 <LM>w#w-ln94206-47-p2s1Bw6</LM>
 </w.rf>
 <form>NOVA</form>
-<tag lemma="Nova_;m_^(televize)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Nova_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94206-47-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -2450,7 +2450,7 @@
 <LM>w#w-ln94206-47-p7s1w8</LM>
 </w.rf>
 <form>NOVA</form>
-<tag lemma="Nova_;m_^(televize)" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Nova_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94206-47-p7s1w9">
 <src.rf>manual</src.rf>

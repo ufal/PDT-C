@@ -2821,7 +2821,7 @@
 <LM>w#w-cmpr9415-033-p10s2w1</LM>
 </w.rf>
 <form>Nezbytné</form>
-<tag lemma="nezbytný" src="orig" selected="1">AANS1----1A----</tag>
+<tag lemma="zbytný" src="orig" selected="1">AANS1----1N----</tag>
 </m>
 <m id="m-cmpr9415-033-p10s2w2">
 <src.rf>manual</src.rf>

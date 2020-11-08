@@ -563,7 +563,7 @@
 </w.rf>
 <form>Oldenburgu</form>
 <tag>
-<AM lemma="Oldenburg-2_;G" src="orig" selected="1">NNIS6-----A---1</AM>
+<AM lemma="Oldenburg-2_;G" src="orig" selected="1">NNIS6-----A----</AM>
 <AM lemma="Oldenburg_;Y" src="auto">NNMS3-----A---1</AM>
 <AM lemma="Oldenburg_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Oldenburg_;Y" src="auto" recommended="1">NNMS6-----A---1</AM>

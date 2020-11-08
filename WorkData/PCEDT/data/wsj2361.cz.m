@@ -271,7 +271,7 @@
 <AM lemma="soutěžící_^(*3it)" src="auto">AGNS1-----A----</AM>
 <AM lemma="soutěžící_^(*3it)" src="auto">AGNS4-----A----</AM>
 <AM lemma="soutěžící_^(*3it)" src="auto">AGNS5-----A----</AM>
-<AM lemma="soutěžící-3" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="soutěžící_^(*3it)" src="manual" selected="1">AGFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2361-001-p1s0W16-Ta">

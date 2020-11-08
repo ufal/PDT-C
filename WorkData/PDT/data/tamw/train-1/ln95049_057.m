@@ -45,7 +45,7 @@
 <form>Karlu</form>
 <tag>
 <AM lemma="Karel_;Y" src="orig">NNMS6-----A---1</AM>
-<AM lemma="Karl_;Y" src="manual" selected="1">NNMS6-----A----</AM>
+<AM lemma="Karl_;Y" src="manual" selected="1">NNMS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln95049-057-p1s1w5">

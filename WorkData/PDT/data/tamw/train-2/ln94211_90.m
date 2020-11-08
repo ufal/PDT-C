@@ -1824,7 +1824,7 @@
 <LM>w#w-ln94211-90-p8s1w14</LM>
 </w.rf>
 <form>Québeku</form>
-<tag lemma="Québek_;G_,s_^(^DD**Québec)" src="orig" selected="1">NNIS2-----A---2</tag>
+<tag lemma="Québek_;G_,s_^(^DD**Québec)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94211-90-p8s1w15">
 <src.rf>manual</src.rf>
@@ -2963,7 +2963,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Québeku</form>
-<tag lemma="Québek_;G_,s_^(^DD**Québec)" src="orig" selected="1">NNIS2-----A---2</tag>
+<tag lemma="Québek_;G_,s_^(^DD**Québec)" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94211-90-p12s1w17">
 <src.rf>manual</src.rf>

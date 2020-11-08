@@ -159,7 +159,7 @@
 <AM lemma="zvěstný-1_,s_^(podávající_zprávu)" src="auto">AAMP5----1N----</AM>
 <AM lemma="zvěstný-2_,s_^(slavný)" src="auto">AAMP1----1N----</AM>
 <AM lemma="zvěstný-2_,s_^(slavný)" src="auto">AAMP5----1N----</AM>
-<AM lemma="nezvěstný-4_^(o_kom_se_neví,_kde_je)" src="manual" selected="1">NNMP1-----A----</AM>
+<AM lemma="zvěstný" src="manual" selected="1">AAMP1----1N----</AM>
 </tag>
 </m>
 <m id="m976-1438-1449">

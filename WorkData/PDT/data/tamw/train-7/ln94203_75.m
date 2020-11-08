@@ -1780,7 +1780,7 @@
 <AM lemma="džamáhíríja" src="auto">NNFS6-----A----</AM>
 <AM lemma="džamáhíríja" src="manual">NNFS4-----A----</AM>
 <AM lemma="džamáhíríja" src="manual">NNFS4-----A----</AM>
-<AM lemma="džamáhíríje" src="manual" selected="1">NNFS4-----A----</AM>
+<AM lemma="džamáhíríja" src="manual" selected="1">NNFS4-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln94203-75-p4s5w11">

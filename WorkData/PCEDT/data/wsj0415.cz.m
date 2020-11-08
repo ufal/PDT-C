@@ -7406,7 +7406,7 @@
 <AM lemma="Carlos-2_;G" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="Carlos-2_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="Carlos-2_;G" src="auto">NNIS6-----A---1</AM>
-<AM lemma="Carlos-1_;Y" src="manual" selected="1">NNMS3-----A---1</AM>
+<AM lemma="Carlos-1_;Y" src="manual" selected="1">NNMS3-----A---2</AM>
 </tag>
 </m>
 <m id="m-wsj0415-001-p1s19W41-Ta">

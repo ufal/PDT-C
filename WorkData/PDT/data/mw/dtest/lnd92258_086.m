@@ -1616,7 +1616,7 @@
 <LM>w#w-lnd92258-086-p4s9w18</LM>
 </w.rf>
 <form>nezvěstných</form>
-<tag lemma="nezvěstný-3_^(o_kom_se_neví,_kde_je)" src="orig" selected="1">AAMP2----1A----</tag>
+<tag lemma="zvěstný" src="orig" selected="1">AAMP2----1N----</tag>
 </m>
 <m id="m-lnd92258-086-p4s9w19">
 <src.rf>manual</src.rf>

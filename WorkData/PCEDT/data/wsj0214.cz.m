@@ -5175,7 +5175,7 @@
 <tag>
 <AM lemma="Dave_;Y_,t" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Dave_;Y_,t" src="auto">NNMS4-----A----</AM>
-<AM lemma="Dave_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Dave_;Y" src="manual" selected="1">NNMS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-wsj0214-001-p1s19W14-Ta">

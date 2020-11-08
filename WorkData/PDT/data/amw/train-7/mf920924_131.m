@@ -154,7 +154,7 @@
 <LM>w#w-mf920924-131-p3s1w13</LM>
 </w.rf>
 <form>nejčistším</form>
-<tag lemma="čistý" src="orig" selected="1">AAIS7----3A----</tag>
+<tag lemma="čistý" src="orig" selected="1">AAIS7----3A---1</tag>
 </m>
 <m id="m-mf920924-131-p3s1w14">
 <src.rf>manual</src.rf>

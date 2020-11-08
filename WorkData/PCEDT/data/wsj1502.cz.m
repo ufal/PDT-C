@@ -8999,7 +8999,7 @@
 <form>Pacifik</form>
 <tag>
 <AM lemma="Pacifik_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Pacifik_;G" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="Pacifik_;G_;m" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="pacifik-1_,h" src="auto">NNIS1-----A----</AM>
 <AM lemma="pacifik-1_,h" src="auto">NNIS4-----A----</AM>
 </tag>

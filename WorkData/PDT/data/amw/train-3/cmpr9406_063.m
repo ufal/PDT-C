@@ -2088,7 +2088,7 @@
 <LM>w#w-cmpr9406-063-p12s4w2</LM>
 </w.rf>
 <form>pozdějším</form>
-<tag lemma="pozdní-1_^(v_krátkém_čase,_následující_o_něco_později)" src="orig" selected="1">AANS6----2A----</tag>
+<tag lemma="pozdější" src="orig" selected="1">AANS6----1A----</tag>
 </m>
 <m id="m-cmpr9406-063-p12s4w3">
 <src.rf>manual</src.rf>

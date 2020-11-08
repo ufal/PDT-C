@@ -2126,7 +2126,7 @@
 <AM lemma="Belmondo_;m" src="orig">NNIS1-----A----</AM>
 <AM lemma="Belmondo_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Belmondo_;Y" src="auto">NNMS5-----A----</AM>
-<AM lemma="Belmondo-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Belmondo-2_;m" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-093-p1s11w11">

@@ -2577,7 +2577,7 @@
 </w.rf>
 <form>nezvěstná</form>
 <tag>
-<AM lemma="nezvěstný-3_^(o_kom_se_neví,_kde_je)" src="auto" recommended="1">AAFS1----1A----</AM>
+<AM lemma="zvěstný" src="auto" recommended="1">AAFS1----1N----</AM>
 <AM lemma="nezvěstný-3_^(o_kom_se_neví,_kde_je)" src="auto">AAFS5----1A----</AM>
 <AM lemma="nezvěstný-3_^(o_kom_se_neví,_kde_je)" src="auto">AANP1----1A----</AM>
 <AM lemma="nezvěstný-3_^(o_kom_se_neví,_kde_je)" src="auto">AANP4----1A----</AM>
