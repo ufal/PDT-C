@@ -3664,7 +3664,8 @@
 <AM lemma="Wenda_;Y" src="auto">NNFP5-----A----</AM>
 <AM lemma="Wenda_;Y" src="auto">NNFS2-----A----</AM>
 <AM lemma="Wendo_;G" src="auto">NNNP7-----A----</AM>
-<AM lemma="Wendy_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Wendy_;Y" src="manual">NNFS1-----A----</AM>
+<AM lemma="Wendy_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2110-001-p1s11W2-Ta">

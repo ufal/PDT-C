@@ -9119,7 +9119,8 @@
 <AM lemma="Georgia_;Y" src="auto">NNFS2-----A----</AM>
 <AM lemma="Georgia_;Y" src="auto">NNFS5-----A----</AM>
 <AM lemma="Georgias_;Y" src="auto">NNMS5-----A----</AM>
-<AM lemma="Georgie_;G" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Georgie_;G" src="manual">NNFS1-----A----</AM>
+<AM lemma="Georgia_;G_;Y" src="manual" selected="1">NNFS1-----A---1</AM>
 </tag>
 </m>
 </s>

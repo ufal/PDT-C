@@ -209,7 +209,10 @@
 <LM>w#w-lnd92255-145-p3s2w10</LM>
 </w.rf>
 <form>Venuše</form>
-<tag lemma="Venuše_;Y" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="Venuše_;Y" src="orig">NNFS2-----A----</AM>
+<AM lemma="Venuše_;G_;Y" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-145-p3s2w11">
 <src.rf>manual</src.rf>

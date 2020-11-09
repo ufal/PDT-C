@@ -420,7 +420,10 @@
 <LM>w#w-ln94203-114-p2s2w7</LM>
 </w.rf>
 <form>Viktorii</form>
-<tag lemma="Viktoria_;Y_;m" src="orig" selected="1">NNFS4-----A----</tag>
+<tag>
+<AM lemma="Viktoria_;Y_;m" src="orig">NNFS4-----A----</AM>
+<AM lemma="Viktoria_;G_;Y_;m" src="manual" selected="1">NNFS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-114-p2s2w8">
 <src.rf>manual</src.rf>

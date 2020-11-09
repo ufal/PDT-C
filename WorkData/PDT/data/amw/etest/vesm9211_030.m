@@ -61,7 +61,10 @@
 <LM>w#w-vesm9211-030-p2s1w2</LM>
 </w.rf>
 <form>Venuši</form>
-<tag lemma="Venuše_;Y" src="orig" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="Venuše_;Y" src="orig">NNFS6-----A----</AM>
+<AM lemma="Venuše_;G_;Y" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9211-030-p2s1w3">
 <src.rf>manual</src.rf>
@@ -149,7 +152,10 @@
 <LM>w#w-vesm9211-030-p2s1w13</LM>
 </w.rf>
 <form>Mars</form>
-<tag lemma="mars" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="mars" src="orig">NNIS1-----A----</AM>
+<AM lemma="Mars-2_;G_;m_^(planeta;;kosmická_sonda)" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9211-030-p2s1w14">
 <src.rf>manual</src.rf>

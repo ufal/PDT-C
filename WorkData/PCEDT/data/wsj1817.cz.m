@@ -9003,7 +9003,8 @@
 <AM lemma="venuše_,s_^(pravěká_kultovní_soška;;krásná_žena)" src="auto">NNFS3-----A----</AM>
 <AM lemma="venuše_,s_^(pravěká_kultovní_soška;;krásná_žena)" src="auto">NNFS4-----A----</AM>
 <AM lemma="venuše_,s_^(pravěká_kultovní_soška;;krásná_žena)" src="auto">NNFS6-----A----</AM>
-<AM lemma="Venuše-2_;G" src="manual" selected="1">NNFS3-----A----</AM>
+<AM lemma="Venuše-2_;G" src="manual">NNFS3-----A----</AM>
+<AM lemma="Venuše_;G_;Y" src="manual" selected="1">NNFS3-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1817-001-p1s28W10-Ta">

@@ -3648,7 +3648,8 @@
 <tag>
 <AM lemma="Twiggy_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Twiggy_;Y" src="auto">NNMS5-----A----</AM>
-<AM lemma="Twiggy-2_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Twiggy-2_;m" src="manual">NNFS1-----A----</AM>
+<AM lemma="Twiggy-2_;m" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2433-001-p1s10W27-Ta">
@@ -3815,7 +3816,8 @@
 <tag>
 <AM lemma="Twiggy_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Twiggy_;Y" src="auto">NNMS5-----A----</AM>
-<AM lemma="Twiggy-2_;m" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="Twiggy-2_;m" src="manual">NNFS2-----A----</AM>
+<AM lemma="Twiggy-2_;m" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2433-001-p1s11W13-Ta">

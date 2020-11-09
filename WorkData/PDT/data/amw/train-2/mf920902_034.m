@@ -431,7 +431,10 @@
 <LM>w#w-mf920902-034-p1s2w25</LM>
 </w.rf>
 <form>Venuší</form>
-<tag lemma="Venuše_;Y" src="orig" selected="1">NNFS7-----A----</tag>
+<tag>
+<AM lemma="Venuše_;Y" src="orig">NNFS7-----A----</AM>
+<AM lemma="Venuše_;G_;Y" src="manual" selected="1">NNFS7-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920902-034-p1s2w26">
 <src.rf>manual</src.rf>

@@ -6210,7 +6210,8 @@
 <tag>
 <AM lemma="tempus" src="auto">NNIS5-----A----</AM>
 <AM lemma="tempe_,t_^(pokrm)" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Tempe-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Tempe-2_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Tempe_;G" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1092-001-p1s28W6-Ta">

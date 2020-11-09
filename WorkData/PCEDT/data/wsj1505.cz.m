@@ -5990,7 +5990,8 @@
 <AM lemma="Sapporo_;G" src="auto">NNNS1-----A----</AM>
 <AM lemma="Sapporo_;G" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="Sapporo_;G" src="auto">NNNS5-----A----</AM>
-<AM lemma="Sapporo-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Sapporo-2_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Sapporo-2_;m" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1505-001-p1s24W2-Ta">

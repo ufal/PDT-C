@@ -2719,7 +2719,8 @@
 <form>Viktorie</form>
 <tag>
 <AM lemma="Viktoria-1_;Y_^(ženské_jméno)" src="orig">NNFS2-----A----</AM>
-<AM lemma="Viktoria_;Y_;m" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="Viktoria_;Y_;m" src="manual">NNFS2-----A----</AM>
+<AM lemma="Viktoria_;G_;Y_;m" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-057-p2s18w20">

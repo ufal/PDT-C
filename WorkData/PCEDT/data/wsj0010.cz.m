@@ -5266,7 +5266,8 @@
 <form>Boca</form>
 <tag>
 <AM lemma="Boca_;G" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="Boca_;G" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Boca_;G" src="manual">NNXXX-----A----</AM>
+<AM lemma="Boca_;G" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0010-001-p1s19W19-Ta">

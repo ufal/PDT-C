@@ -3441,7 +3441,10 @@
 <LM>w#w-lnd92253-071-p7s3w16</LM>
 </w.rf>
 <form>Viktorie</form>
-<tag lemma="Viktoria_;Y_;m" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="Viktoria_;Y_;m" src="orig">NNFS2-----A----</AM>
+<AM lemma="Viktoria_;G_;Y_;m" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-071-p7s3w17">
 <src.rf>manual</src.rf>
@@ -3457,7 +3460,10 @@
 <LM>w#w-lnd92253-071-p7s3w18</LM>
 </w.rf>
 <form>Starý</form>
-<tag lemma="starý-2_^(člověk,_věc)" src="orig" selected="1">AAMS1----1A----</tag>
+<tag>
+<AM lemma="starý-2_^(člověk,_věc)" src="orig">AAMS1----1A----</AM>
+<AM lemma="Starý_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-071-p7s3w19">
 <src.rf>manual</src.rf>

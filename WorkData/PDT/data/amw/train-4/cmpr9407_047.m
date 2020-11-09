@@ -1098,10 +1098,11 @@
 <form>ŽĎAS</form>
 <tag>
 <AM lemma="ŽĎAS-1_:B_;m_^(Žďárské_strojírny)" src="orig">NNIS1-----A----</AM>
-<AM lemma="ŽĎAS-1_;m_^(Žďárské_strojírny)" src="auto" selected="1">NNIS1-----A---b</AM>
+<AM lemma="ŽĎAS-1_;m_^(Žďárské_strojírny)" src="auto">NNIS1-----A---b</AM>
 <AM lemma="ŽĎAS-1_:B_;m_^(Žďárské_strojírny)" src="auto">NNIS4-----A---8</AM>
 <AM lemma="Žďas_;Y" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Žďas_;Y" src="auto">NNIS4-----A----</AM>
+<AM lemma="ŽĎAS_;m_^(Žďárské_strojírny)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-047-p6s1w29">

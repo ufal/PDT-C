@@ -1755,7 +1755,10 @@
 <LM>w#w-ln95040-041-p4s1w27</LM>
 </w.rf>
 <form>Ungelt</form>
-<tag lemma="Ungelt_;G" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="Ungelt_;G" src="orig">NNIS1-----A----</AM>
+<AM lemma="Ungelt_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95040-041-p4s1w28">
 <src.rf>manual</src.rf>

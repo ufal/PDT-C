@@ -6689,7 +6689,9 @@
 <form>Telegraph</form>
 <tag>
 <AM lemma="Telegraph-1_;m_,t_^(souč._názvu_Daily_T.)" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Telegraph_;m" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="Telegraph_;m" src="manual">NNIXX-----A----</AM>
+<AM lemma="Telegraph-1_;m" src="manual">NNIS1-----A----</AM>
+<AM lemma="Telegraph-1_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1778-001-p1s50W16-Ta">

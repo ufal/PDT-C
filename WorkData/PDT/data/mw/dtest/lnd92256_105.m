@@ -1096,7 +1096,10 @@
 <LM>w#w-lnd92256-105-p2s6w12</LM>
 </w.rf>
 <form>Viktorií</form>
-<tag lemma="Viktoria_;Y_;m" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="Viktoria_;Y_;m" src="orig">NNFP2-----A----</AM>
+<AM lemma="Viktoria_;G_;Y_;m" src="manual" selected="1">NNFP2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-105-p2s6w13">
 <src.rf>manual</src.rf>

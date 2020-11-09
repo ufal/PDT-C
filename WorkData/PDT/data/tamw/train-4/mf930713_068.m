@@ -1400,7 +1400,8 @@
 <AM lemma="promile" src="auto">NNNS4-----A----</AM>
 <AM lemma="promile" src="auto">NNNS5-----A----</AM>
 <AM lemma="promile" src="manual">NNNXX-----A----</AM>
-<AM lemma="promile-1" src="manual" selected="1">NNNP2-----A----</AM>
+<AM lemma="promile-1" src="manual">NNNP2-----A----</AM>
+<AM lemma="promile-1" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-068-p3s6w12">

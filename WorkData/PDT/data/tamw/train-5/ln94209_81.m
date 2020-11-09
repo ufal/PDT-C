@@ -899,7 +899,8 @@
 <AM lemma="tajit" src="auto">Vi-S---3--A-I-4</AM>
 <AM lemma="tát" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="tát" src="auto">Vi-S---3--A-I-4</AM>
-<AM lemma="Taj_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Taj_;Y" src="manual">NNFS1-----A----</AM>
+<AM lemma="Taj_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-81-p2s5w4">
@@ -924,7 +925,10 @@
 <LM>w#w-ln94209-81-p2s5w6</LM>
 </w.rf>
 <form>chung</form>
-<tag lemma="chung_;Y" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="chung_;Y" src="orig">NNFXX-----A----</AM>
+<AM lemma="chung-2" src="manual" selected="1">SNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94209-81-p2s5w7">
 <src.rf>manual</src.rf>

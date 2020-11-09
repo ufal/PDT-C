@@ -874,7 +874,8 @@
 <tag>
 <AM lemma="GAJA_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="GAJA_;m" src="manual">NNFS1-----A---8</AM>
-<AM lemma="GAJA_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="GAJA_;m" src="manual">NNFS1-----A----</AM>
+<AM lemma="Gaja-2_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-8-p3s1Aw2">
@@ -4906,7 +4907,8 @@
 <tag>
 <AM lemma="GAJA_:B_;m" src="orig">NNFXX-----A---8</AM>
 <AM lemma="GAJA_;m" src="manual">NNFS1-----A---8</AM>
-<AM lemma="GAJA_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="GAJA_;m" src="manual">NNFS1-----A----</AM>
+<AM lemma="Gaja-2_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94210-8-p11s2w4">

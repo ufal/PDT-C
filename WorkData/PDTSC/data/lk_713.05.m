@@ -2172,6 +2172,7 @@
 <AM lemma="unra_,h" src="auto">NNFP4-----A----</AM>
 <AM lemma="unra_,h" src="auto">NNFP5-----A----</AM>
 <AM lemma="unra_,h" src="auto">NNFS2-----A----</AM>
+<AM lemma="Unra_;m_,i_^(^DS**Unrra)" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m713-id61485-x40-1233">

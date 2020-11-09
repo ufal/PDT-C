@@ -5071,6 +5071,7 @@
 <AM lemma="viktorie_;U" src="auto">NNFS3-----A----</AM>
 <AM lemma="viktorie_;U" src="auto">NNFS4-----A----</AM>
 <AM lemma="viktorie_;U" src="auto">NNFS6-----A----</AM>
+<AM lemma="Viktoria_;G_;Y_;m" src="manual" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m113-d1t662-35">

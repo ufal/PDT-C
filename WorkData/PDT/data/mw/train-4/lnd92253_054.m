@@ -1085,7 +1085,10 @@
 <LM>w#w-lnd92253-054-p5s1w25</LM>
 </w.rf>
 <form>Trebinji</form>
-<tag lemma="Trebinje_;G" src="orig" selected="1">NNNS3-----A----</tag>
+<tag>
+<AM lemma="Trebinje_;G" src="orig">NNNS3-----A----</AM>
+<AM lemma="Trebinje_;G" src="manual" selected="1">NNFS3-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92253-054-p5s1w26">
 <src.rf>manual</src.rf>

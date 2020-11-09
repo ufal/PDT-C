@@ -1360,7 +1360,10 @@
 <LM>w#w-vesm9301-017-p3s5w26</LM>
 </w.rf>
 <form>Venuše</form>
-<tag lemma="Venuše_;Y" src="orig" selected="1">NNFS2-----A----</tag>
+<tag>
+<AM lemma="Venuše_;Y" src="orig">NNFS2-----A----</AM>
+<AM lemma="Venuše_;G_;Y" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9301-017-p3s5w27">
 <src.rf>manual</src.rf>

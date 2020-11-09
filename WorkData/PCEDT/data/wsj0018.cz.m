@@ -1446,7 +1446,10 @@
 <LM>w#w-wsj0018-001-p1s3W21</LM>
 </w.rf>
 <form>Cray</form>
-<tag lemma="Cray_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Cray_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Cray-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0018-001-p1s3W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1640,7 +1643,8 @@
 <tag>
 <AM lemma="Cray_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Cray_;Y" src="manual">NNMXX-----A----</AM>
-<AM lemma="Cray-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Cray-2_;m" src="manual">NNXXX-----A----</AM>
+<AM lemma="Cray-2_;m" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0018-001-p1s4W7-Ta">
@@ -2526,7 +2530,10 @@
 <LM>w#w-wsj0018-001-p1s7W11</LM>
 </w.rf>
 <form>Cray</form>
-<tag lemma="Cray_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Cray_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Cray-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0018-001-p1s7W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4734,7 +4741,10 @@
 <LM>w#w-wsj0018-001-p1s16W19</LM>
 </w.rf>
 <form>Cray</form>
-<tag lemma="Cray_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Cray_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Cray-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0018-001-p1s16W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5186,7 +5196,10 @@
 <LM>w#w-wsj0018-001-p1s18W5</LM>
 </w.rf>
 <form>Cray</form>
-<tag lemma="Cray_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Cray_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Cray-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0018-001-p1s18W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5885,7 +5898,10 @@
 <LM>w#w-wsj0018-001-p1s19W46</LM>
 </w.rf>
 <form>Cray</form>
-<tag lemma="Cray_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Cray_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Cray-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0018-001-p1s19W47-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6562,7 +6578,10 @@
 <LM>w#w-wsj0018-001-p1s21W29</LM>
 </w.rf>
 <form>Cray</form>
-<tag lemma="Cray_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Cray_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Cray-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0018-001-p1s21W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7904,7 +7923,10 @@
 <LM>w#w-wsj0018-001-p1s27W25</LM>
 </w.rf>
 <form>Cray</form>
-<tag lemma="Cray_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Cray_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Cray-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0018-001-p1s27W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8240,7 +8262,10 @@
 <LM>w#w-wsj0018-001-p1s29W8</LM>
 </w.rf>
 <form>Cray</form>
-<tag lemma="Cray_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Cray_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Cray-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0018-001-p1s29W9-Ta">
 <src.rf>tagger-a</src.rf>

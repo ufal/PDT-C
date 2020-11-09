@@ -14096,6 +14096,7 @@
 <AM lemma="memorabilie" src="auto" recommended="1">NNNP1-----A---1</AM>
 <AM lemma="memorabilie" src="auto">NNNP4-----A---1</AM>
 <AM lemma="memorabilie" src="auto">NNNP5-----A---1</AM>
+<AM lemma="memorabilia" src="manual" selected="1">NNNP1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0305-001-p1s46W8-Ta">
