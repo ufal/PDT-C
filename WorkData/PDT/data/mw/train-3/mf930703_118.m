@@ -5173,7 +5173,7 @@
 <AM lemma="Saidův_;Y_^(*2)" src="orig">AUFS2M---------</AM>
 <AM lemma="Saidov_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Saidov_;Y" src="auto" recommended="1">NNMP7-----A----</AM>
-<AM lemma="Saidův-2_;Y_^(*4-2)" src="manual" selected="1">AUFS2M---------</AM>
+<AM lemma="Saidův_;Y_^(*2-2)_(*2a)" src="manual" selected="1">AUFS2M---------</AM>
 </tag>
 </m>
 <m id="m-mf930703-118-p12s2w18">

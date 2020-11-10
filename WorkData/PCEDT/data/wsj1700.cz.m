@@ -3485,7 +3485,7 @@
 <tag>
 <AM lemma="Mao_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Mao_;Y" src="auto">NNMS5-----A----</AM>
-<AM lemma="Mao_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Mao-1_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1700-001-p1s11W5-Ta">

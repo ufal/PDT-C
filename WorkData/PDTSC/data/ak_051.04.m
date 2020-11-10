@@ -2425,7 +2425,7 @@
 <tag>
 <AM lemma="Dan_;Y_,h" src="auto">NNMS2-----A----</AM>
 <AM lemma="Dan_;Y_,h" src="auto">NNMS4-----A----</AM>
-<AM lemma="Dana_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Dana_;Y_;m" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Dano_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Dano_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="dan-1_^(mistr_a_učitel_japon._sportů)" src="auto">NNMS2-----A----</AM>

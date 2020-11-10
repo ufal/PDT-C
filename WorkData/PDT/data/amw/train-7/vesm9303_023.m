@@ -4620,7 +4620,7 @@
 <tag>
 <AM lemma="konzenzus" src="orig">NNXXX-----A----</AM>
 <AM lemma="konzenzus_,i_^(^DS**konsenz)" src="manual">NNXXX-----A----</AM>
-<AM lemma="	konzenzus_,i_^(^DS**konsenzus)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="konzenzus_,i_^(^DS**konsenzus)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-023-p5s5w19">

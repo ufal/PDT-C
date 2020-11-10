@@ -662,7 +662,7 @@
 <LM>w#w-mf930708-068-p2s5w4</LM>
 </w.rf>
 <form>Dany</form>
-<tag lemma="Dana_;Y" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Dana_;Y_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-mf930708-068-p2s5w5">
 <src.rf>manual</src.rf>

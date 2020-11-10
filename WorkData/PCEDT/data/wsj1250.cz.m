@@ -2574,7 +2574,7 @@
 </w.rf>
 <form>červeno</form>
 <tag>
-<AM lemma="červeno-1_;o" src="auto" recommended="1">Dg-------1A----</AM>
+<AM lemma="červeno-1" src="auto" recommended="1">Dg-------1A----</AM>
 <AM lemma="červeno-2_;o" src="auto">NNNS1-----A----</AM>
 <AM lemma="červeno-2_;o" src="auto">NNNS4-----A----</AM>
 <AM lemma="červeno-2_;o" src="auto">NNNS5-----A----</AM>

@@ -3306,7 +3306,7 @@
 <LM>w#w-lnd92256-010-p5s6w18</LM>
 </w.rf>
 <form>milost</form>
-<tag lemma="milost_^(udělená_např._prezidentem)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="milost-1_^(*5ý-1)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-lnd92256-010-p5s6w19">
 <src.rf>manual</src.rf>

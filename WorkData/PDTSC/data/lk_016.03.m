@@ -4765,7 +4765,7 @@
 <tag>
 <AM lemma="skaut" src="auto">NNMS3-----A---1</AM>
 <AM lemma="skaut" src="auto" recommended="1">NNMS6-----A---1</AM>
-<AM lemma="skaut-2_;m_^(organizace)" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="skaut-2_^(organizace)" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m016-d1e1812-x2-399">
@@ -6366,7 +6366,7 @@
 <tag>
 <AM lemma="skaut" src="auto" recommended="1">NNMS3-----A---1</AM>
 <AM lemma="skaut" src="auto">NNMS6-----A---1</AM>
-<AM lemma="skaut-2_;m_^(organizace)" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="skaut-2_^(organizace)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m016-d1t1956-13">

@@ -77,7 +77,7 @@
 <LM>w#w-mf930709-089-p2s1w6</LM>
 </w.rf>
 <form>Santosu</form>
-<tag lemma="Santos-2_;G" src="orig" selected="1">NNIS6-----A---1</tag>
+<tag lemma="Santos-2_;G_;m" src="orig" selected="1">NNIS6-----A---1</tag>
 </m>
 <m id="m-mf930709-089-p2s1w7">
 <src.rf>manual</src.rf>

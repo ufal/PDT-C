@@ -2073,7 +2073,7 @@
 <LM>w#w-lnd91303-064-p3s7w5</LM>
 </w.rf>
 <form>milosti</form>
-<tag lemma="milost-1_^(příjemný)_(*5ý-1)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="milost-1_^(*5ý-1)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd91303-064-p3s7w6">
 <src.rf>manual</src.rf>

@@ -3264,7 +3264,7 @@
 <AM lemma="Weiss_;Y" src="auto">NNMS6-----A---1</AM>
 <AM lemma="Weissův_;Y_^(*2)" src="auto">AUMP1M---------</AM>
 <AM lemma="Weissův_;Y_^(*2)" src="auto">AUMP5M---------</AM>
-<AM lemma="Weissův_;Y_^(*2)" src="manual" selected="1">AUMP4M--------9</AM>
+<AM lemma="Weissův_;Y" src="manual" selected="1">AUMP4M--------9</AM>
 </tag>
 </m>
 <m id="m-ln95044-070-p6s2w19">

@@ -763,7 +763,7 @@
 <LM>w#w-ln94207-94-p3s1w17</LM>
 </w.rf>
 <form>milosti</form>
-<tag lemma="milost_^(udělená_např._prezidentem)" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="milost-1_^(*5ý-1)" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-ln94207-94-p3s1w18">
 <src.rf>manual</src.rf>
@@ -1031,7 +1031,7 @@
 <LM>w#w-ln94207-94-p4s1w7</LM>
 </w.rf>
 <form>milost</form>
-<tag lemma="milost_^(udělená_např._prezidentem)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="milost-1_^(*5ý-1)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94207-94-p4s1w8">
 <src.rf>manual</src.rf>

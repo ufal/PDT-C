@@ -3100,7 +3100,7 @@
 <AM lemma="druhý" src="auto">CrNP4---------6</AM>
 <AM lemma="druhý" src="auto">CrNP5---------6</AM>
 <AM lemma="druhý" src="auto">CrNS1----------</AM>
-<AM lemma="druhý" src="auto" recommended="1" selected="1">CrNS4----------</AM>
+<AM lemma="druhý`2" src="auto" recommended="1" selected="1">CrNS4----------</AM>
 <AM lemma="druhý" src="auto">CrNS5----------</AM>
 <AM lemma="druhé" src="manual">Cv-------------</AM>
 </tag>

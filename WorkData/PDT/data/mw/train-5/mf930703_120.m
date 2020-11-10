@@ -3491,7 +3491,7 @@
 </w.rf>
 <form>Saidovy</form>
 <tag>
-<AM lemma="Saidův-2_;Y_^(*4-2)" src="orig" selected="1">AUFS2M---------</AM>
+<AM lemma="Saidův_;Y_^(*2-2)_(*2a)" src="orig" selected="1">AUFS2M---------</AM>
 <AM lemma="Saidov_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Saidov_;Y" src="auto" recommended="1">NNMP7-----A----</AM>
 </tag>

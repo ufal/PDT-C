@@ -593,7 +593,7 @@
 <LM>w#w-ln94207-110-p3s4w2</LM>
 </w.rf>
 <form>Danou</form>
-<tag lemma="Dana_;Y" src="orig" selected="1">NNFS7-----A----</tag>
+<tag lemma="Dana_;Y_;m" src="orig" selected="1">NNFS7-----A----</tag>
 </m>
 <m id="m-ln94207-110-p3s4w3">
 <src.rf>manual</src.rf>

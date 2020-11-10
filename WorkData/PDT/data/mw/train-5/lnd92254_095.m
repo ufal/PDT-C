@@ -5064,7 +5064,7 @@
 <AM lemma="český" src="auto">AANS1----1A---6</AM>
 <AM lemma="český" src="auto">AANS4----1A---6</AM>
 <AM lemma="český" src="auto">AANS5----1A---6</AM>
-<AM lemma="Český-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Český_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-095-p15s10w5">

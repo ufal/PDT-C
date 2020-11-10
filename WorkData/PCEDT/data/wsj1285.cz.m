@@ -4177,7 +4177,7 @@
 <AM lemma="Rainbow-77" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="Rainbow_:B_;m_^(hudební_skupina)" src="auto">NNIXX-----A----</AM>
 <AM lemma="rainbow-77_,t" src="auto">F%-------------</AM>
-<AM lemma="Rainbow_;m" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="Rainbow_;m_^(hudební_skupina)" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1285-001-p1s18W4-Ta">

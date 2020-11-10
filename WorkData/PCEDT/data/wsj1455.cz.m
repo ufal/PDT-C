@@ -6495,7 +6495,7 @@
 <AM lemma="milost-1_^(příjemný)_(*5ý-1)" src="auto">NNFS1-----A----</AM>
 <AM lemma="milost-1_^(příjemný)_(*5ý-1)" src="auto">NNFS4-----A----</AM>
 <AM lemma="milost_^(udělená_např._prezidentem)" src="auto">NNFS1-----A----</AM>
-<AM lemma="milost_^(udělená_např._prezidentem)" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="milost-1_^(*5ý-1)" src="auto" recommended="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1455-001-p1s27W25-Ta">

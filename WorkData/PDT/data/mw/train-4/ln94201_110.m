@@ -77,7 +77,7 @@
 <form>SAHARA</form>
 <tag>
 <AM lemma="sahara" src="orig">NNFS1-----A----</AM>
-<AM lemma="Sahara_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Sahara-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-110-p1s1w9">
@@ -1809,7 +1809,7 @@
 <tag>
 <AM lemma="Sahara_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Sahara_;Y" src="manual">NNMS1-----A----</AM>
-<AM lemma="Saharův_;Y" src="manual" selected="1">AUNS1M---------</AM>
+<AM lemma="Saharův-2_;Y_^(*4a-2)" src="manual" selected="1">AUNS1M---------</AM>
 </tag>
 </m>
 <m id="m-ln94201-110-p1s12w7">

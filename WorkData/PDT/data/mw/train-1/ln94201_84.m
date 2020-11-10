@@ -885,7 +885,7 @@
 <LM>w#w-ln94201-84-p2s6w9</LM>
 </w.rf>
 <form>party</form>
-<tag lemma="party-1" src="orig" selected="1">NNFXX-----A----</tag>
+<tag lemma="party-1_,s_^(^DD**párty)" src="orig" selected="1">NNFXX-----A----</tag>
 </m>
 <m id="m-ln94201-84-p2s6w10">
 <src.rf>manual</src.rf>

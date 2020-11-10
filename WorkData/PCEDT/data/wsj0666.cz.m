@@ -9938,7 +9938,7 @@
 <form>Scott</form>
 <tag>
 <AM lemma="Scott_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Scott-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Scott-2_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0666-001-p1s37W4-Ta">

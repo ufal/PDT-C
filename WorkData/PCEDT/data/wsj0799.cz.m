@@ -8481,7 +8481,7 @@
 <form>QuesTech</form>
 <tag>
 <AM lemma="QuesTech" src="auto">X@-------------</AM>
-<AM lemma="QuesTech-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Questech-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0799-001-p1s30W3-Ta">
@@ -9722,7 +9722,7 @@
 <form>QuesTech</form>
 <tag>
 <AM lemma="QuesTech" src="auto">X@-------------</AM>
-<AM lemma="QuesTech-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Questech-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0799-001-p1s33W27-Ta">
@@ -10327,7 +10327,7 @@
 <form>QuesTech</form>
 <tag>
 <AM lemma="QuesTech" src="auto">X@-------------</AM>
-<AM lemma="QuesTech-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Questech-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0799-001-p1s36W22-Ta">

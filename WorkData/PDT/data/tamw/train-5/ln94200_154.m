@@ -1344,7 +1344,7 @@
 </w.rf>
 <form>Sund</form>
 <tag>
-<AM lemma="Sund_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Sund-2_;Y" src="orig" selected="1">NNMS1-----A----</AM>
 <AM lemma="Sund_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Sund_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Sundy_;G" src="auto">NNFP2-----A----</AM>

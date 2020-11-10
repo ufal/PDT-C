@@ -2446,7 +2446,7 @@
 </w.rf>
 <form>Garrida</form>
 <tag>
-<AM lemma="Garrida_;Y" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="Garrida-2_;Y" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="Garrido_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Garrido_;Y" src="auto">NNMS4-----A----</AM>
 </tag>

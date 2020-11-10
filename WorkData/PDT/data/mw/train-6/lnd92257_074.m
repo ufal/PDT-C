@@ -2007,7 +2007,7 @@
 <LM>w#w-lnd92257-074-p5s1w22</LM>
 </w.rf>
 <form>Dana</form>
-<tag lemma="Dana_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Dana_;Y_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92257-074-p5s1w23">
 <src.rf>manual</src.rf>

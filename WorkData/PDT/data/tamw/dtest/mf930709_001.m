@@ -1594,7 +1594,7 @@
 <LM>w#w-mf930709-001-p4s2w6</LM>
 </w.rf>
 <form>Brožová</form>
-<tag lemma="Brožová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Brožová_;Y_^(*1ý)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930709-001-p4s2w7">
 <src.rf>manual</src.rf>

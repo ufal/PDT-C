@@ -13897,7 +13897,7 @@
 <AM lemma="ženin_^(*2a)" src="auto">AUIS6F---------</AM>
 <AM lemma="ženin_^(*2a)" src="auto">AUMS6F---------</AM>
 <AM lemma="ženin_^(*2a)" src="auto">AUNS6F---------</AM>
-<AM lemma="ženin_^(*2a)" src="manual" selected="1">AUMS3F--------1</AM>
+<AM lemma="ženin" src="manual" selected="1">AUMS3F--------1</AM>
 </tag>
 </m>
 <m id="m-wsj0469-001-p1s52W2-Ta">

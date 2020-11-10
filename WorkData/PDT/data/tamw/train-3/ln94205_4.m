@@ -901,7 +901,7 @@
 <LM>w#w-ln94205-4-p3s1w17</LM>
 </w.rf>
 <form>Curie</form>
-<tag lemma="Curie-1_;Y_^(muž)" src="auto" selected="1">NNMXX-----A----</tag>
+<tag lemma="Curie_;Y" src="auto" selected="1">NNMXX-----A----</tag>
 </m>
 <m id="m-ln94205-4-p3s1w18">
 <src.rf>manual</src.rf>

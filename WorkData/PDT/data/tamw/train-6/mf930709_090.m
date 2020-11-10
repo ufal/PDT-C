@@ -368,7 +368,7 @@
 <LM>w#w-mf930709-090-p2s4w8</LM>
 </w.rf>
 <form>Cruzeiro</form>
-<tag lemma="Cruzeiro_;G" src="auto" selected="1">NNNS1-----A----</tag>
+<tag lemma="Cruzeiro_;G_;m" src="auto" selected="1">NNNS1-----A----</tag>
 </m>
 <m id="m-mf930709-090-p2s4w9">
 <src.rf>manual</src.rf>

@@ -61,7 +61,7 @@
 <LM>w#w-ln94204-7-p2s1Aw1</LM>
 </w.rf>
 <form>Dana</form>
-<tag lemma="Dana_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Dana_;Y_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94204-7-p2s1Aw2">
 <src.rf>manual</src.rf>

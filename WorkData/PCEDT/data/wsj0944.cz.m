@@ -13808,7 +13808,7 @@
 <AM lemma="Hall_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="hall_,t" src="auto">NNIS1-----A----</AM>
 <AM lemma="hall_,t" src="auto">NNIS4-----A----</AM>
-<AM lemma="Hall-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Hall-3_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0944-001-p1s47W11-Ta">

@@ -1762,7 +1762,7 @@
 <form>nevidomých</form>
 <tag>
 <AM lemma="vidomý_,a" src="orig">AAMP2----1N----</AM>
-<AM lemma="nevidomý-2" src="manual" selected="1">AAMP2----1A----</AM>
+<AM lemma="nevidomý-1" src="manual" selected="1">AAMP2----1A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-137-p3s9w3">

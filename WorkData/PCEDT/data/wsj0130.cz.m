@@ -4141,7 +4141,7 @@
 <AM lemma="Lilla_;Y_,t" src="auto">NNFS2-----A----</AM>
 <AM lemma="Lillo_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Lillo_;Y" src="auto">NNMP7-----A----</AM>
-<AM lemma="Lilly_;Y" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Lilly_;Y_;m" src="auto" recommended="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0130-001-p1s14W9-Ta">

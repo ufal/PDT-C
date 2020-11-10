@@ -291,7 +291,7 @@
 <LM>w#w-lnd94103-059-p1s1Ew21</LM>
 </w.rf>
 <form>Sol</form>
-<tag lemma="Sol-2_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sol_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-059-p1s1Ew22">
 <src.rf>manual</src.rf>
@@ -1371,7 +1371,7 @@
 <LM>w#w-lnd94103-059-p1s8w17</LM>
 </w.rf>
 <form>Sol</form>
-<tag lemma="Sol-2_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sol_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-059-p1s8w18">
 <src.rf>manual</src.rf>
@@ -1570,7 +1570,7 @@
 <LM>w#w-lnd94103-059-p1s10w2</LM>
 </w.rf>
 <form>Sol</form>
-<tag lemma="Sol-2_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sol_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-059-p1s10w3">
 <src.rf>manual</src.rf>
@@ -1934,7 +1934,7 @@
 <LM>w#w-lnd94103-059-p1s11Bw2</LM>
 </w.rf>
 <form>Sol</form>
-<tag lemma="Sol-2_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sol_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-059-p1s11Bw3">
 <src.rf>manual</src.rf>
@@ -2421,7 +2421,7 @@
 <LM>w#w-lnd94103-059-p1s15w2</LM>
 </w.rf>
 <form>Sol</form>
-<tag lemma="Sol-2_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sol_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-lnd94103-059-p1s15w3">
 <src.rf>manual</src.rf>

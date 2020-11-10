@@ -263,7 +263,7 @@
 <AM lemma="sun" src="auto">NNIS4-----A----</AM>
 <AM lemma="sunna_,t_,x_^(ústní_podání_Mohamedových_činů)" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="Sun_;Y" src="manual">NNFS1-----A----</AM>
-<AM lemma="Sun-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Sun-3_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-053-p2s1Bw21">
@@ -2097,7 +2097,7 @@
 <AM lemma="sun" src="auto">NNIS1-----A----</AM>
 <AM lemma="sun" src="auto">NNIS4-----A----</AM>
 <AM lemma="sunna_,t_,x_^(ústní_podání_Mohamedových_činů)" src="auto">NNFP2-----A----</AM>
-<AM lemma="Sun-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Sun-3_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-053-p4s3w12">

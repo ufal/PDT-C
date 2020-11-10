@@ -5588,7 +5588,7 @@
 <AM lemma="Kanada_:B_;G" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="Kano_;G" src="auto">NNNP2-----A----</AM>
 <AM lemma="kana" src="auto">NNFP2-----A----</AM>
-<AM lemma="Kan_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Kan-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2418-001-p1s21W2-Ta">

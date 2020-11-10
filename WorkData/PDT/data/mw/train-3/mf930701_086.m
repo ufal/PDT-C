@@ -447,7 +447,7 @@
 <AM lemma="parta" src="auto">NNFP5-----A----</AM>
 <AM lemma="parta" src="auto">NNFS2-----A----</AM>
 <AM lemma="party_,t_^(angl._sešlost,_oslava,_mejdan)" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="party-1" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="party-1_,s_^(^DD**párty)" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 </s>

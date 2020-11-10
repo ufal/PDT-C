@@ -4276,7 +4276,7 @@
 <tag>
 <AM lemma="Antonio_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Antonio_;Y_,t" src="auto">NNMS5-----A----</AM>
-<AM lemma="Antonio-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Antonio-3_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0047-001-p1s12W2-Ta">

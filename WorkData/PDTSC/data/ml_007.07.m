@@ -4863,7 +4863,7 @@
 <AM lemma="obcházenice" src="auto">NNFP1-----A----</AM>
 <AM lemma="obcházenice" src="auto" recommended="1">NNFP4-----A----</AM>
 <AM lemma="obcházenice" src="auto">NNFP5-----A----</AM>
-<AM lemma="obcházenice" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="obcházenice_,n" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m007-d1e2371-x2-5107">

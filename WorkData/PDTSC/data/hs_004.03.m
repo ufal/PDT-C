@@ -3144,7 +3144,7 @@
 <tag>
 <AM lemma="soft_,t" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="soft-2" src="manual">NNIS1-----A----</AM>
-<AM lemma="soft-2" src="manual" selected="1">NNIS4-----A----</AM>
+<AM lemma="soft" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m004-d1t1339-2">
@@ -3824,7 +3824,7 @@
 <tag>
 <AM lemma="softu" src="auto">X@-------------</AM>
 <AM lemma="soft" src="manual">NNIS2-----A----</AM>
-<AM lemma="soft-2" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="soft" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m004-850-852">

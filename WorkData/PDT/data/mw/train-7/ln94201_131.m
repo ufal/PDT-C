@@ -419,7 +419,7 @@
 <LM>w#w-ln94201-131-p2s2w25</LM>
 </w.rf>
 <form>Martinovy</form>
-<tag lemma="Martinův_;Y_^(*2-1)_(*2o)" src="orig" selected="1">AUIP4M---------</tag>
+<tag lemma="Martinův_;Y_^(*2-1)_(*2a-2)_(*2o)" src="orig" selected="1">AUIP4M---------</tag>
 </m>
 <m id="m-ln94201-131-p2s2w26">
 <src.rf>manual</src.rf>

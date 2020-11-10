@@ -7492,7 +7492,7 @@
 <AM lemma="AFIPS-1_:B_;m_,t_^(Amer._Feder._of_Inform._Processing_...)" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="AFIS_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="AFIS-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="AFIS-1_^(Automated_Fingerprint_Identification_System)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="AFIS-1_;m_^(Automated_Fingerprint_Identification_System)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9413-044-p28s2w12">

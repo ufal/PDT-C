@@ -3322,7 +3322,7 @@
 <AM lemma="Molinův-1_;Y_^(*4a-1)" src="auto">AUFP1M---------</AM>
 <AM lemma="Molinův-1_;Y_^(*4a-1)" src="auto">AUFP4M---------</AM>
 <AM lemma="Molinův-1_;Y_^(*4a-1)" src="auto">AUFP5M---------</AM>
-<AM lemma="Molinův-1_;Y_^(*4a-1)" src="auto" selected="1">AUFS2M---------</AM>
+<AM lemma="Molinův_;Y_^(*2)_(*2a-1)" src="auto" selected="1">AUFS2M---------</AM>
 <AM lemma="Molinův-1_;Y_^(*4a-1)" src="auto" recommended="1">AUIP1M---------</AM>
 <AM lemma="Molinův-1_;Y_^(*4a-1)" src="auto">AUIP4M---------</AM>
 <AM lemma="Molinův-1_;Y_^(*4a-1)" src="auto">AUIP5M---------</AM>
@@ -5505,7 +5505,7 @@
 <AM lemma="Molinův-1_;Y_^(*4a-1)" src="auto">AUFP1M---------</AM>
 <AM lemma="Molinův-1_;Y_^(*4a-1)" src="auto">AUFP4M---------</AM>
 <AM lemma="Molinův-1_;Y_^(*4a-1)" src="auto">AUFP5M---------</AM>
-<AM lemma="Molinův-1_;Y_^(*4a-1)" src="auto" selected="1">AUFS2M---------</AM>
+<AM lemma="Molinův_;Y_^(*2)_(*2a-1)" src="auto" selected="1">AUFS2M---------</AM>
 <AM lemma="Molinův-1_;Y_^(*4a-1)" src="auto" recommended="1">AUIP1M---------</AM>
 <AM lemma="Molinův-1_;Y_^(*4a-1)" src="auto">AUIP4M---------</AM>
 <AM lemma="Molinův-1_;Y_^(*4a-1)" src="auto">AUIP5M---------</AM>

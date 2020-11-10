@@ -1541,7 +1541,7 @@
 <tag>
 <AM lemma="Niles_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Niles_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Niles_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Niles-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1386-001-p1s3W15-Ta">
@@ -6505,7 +6505,7 @@
 <tag>
 <AM lemma="Niles_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Niles_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Niles_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Niles-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1386-001-p1s19W3-Ta">

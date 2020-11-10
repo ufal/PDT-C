@@ -1775,7 +1775,7 @@
 <LM>w#w-lnd92251-116-p5s3w5</LM>
 </w.rf>
 <form>Dany</form>
-<tag lemma="Dana_;Y" src="orig" selected="1">NNFS2-----A----</tag>
+<tag lemma="Dana_;Y_;m" src="orig" selected="1">NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92251-116-p5s3w6">
 <src.rf>manual</src.rf>

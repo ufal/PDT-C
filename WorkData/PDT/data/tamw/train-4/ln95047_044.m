@@ -2567,7 +2567,7 @@
 <AM lemma="libero" src="auto">NNNP4-----A----</AM>
 <AM lemma="libero" src="auto">NNNP5-----A----</AM>
 <AM lemma="libero" src="auto" recommended="1">NNNS2-----A----</AM>
-<AM lemma="Libera-1_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Libera_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-044-p4s6w30">

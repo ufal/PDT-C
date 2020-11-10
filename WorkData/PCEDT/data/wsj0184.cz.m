@@ -1550,7 +1550,7 @@
 <tag>
 <AM lemma="Theodor_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Theodore_;G" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Theodore_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Theodore-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0184-001-p1s5W4-Ta">

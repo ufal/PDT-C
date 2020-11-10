@@ -353,7 +353,7 @@
 </w.rf>
 <form>tříletky</form>
 <tag>
-<AM lemma="tříletek" src="orig" selected="1">NNMP4-----A----</AM>
+<AM lemma="tříletek_^(tříletý_kůň)" src="orig" selected="1">NNMP4-----A----</AM>
 <AM lemma="tříletka" src="auto">NNFP1-----A----</AM>
 <AM lemma="tříletka" src="auto" recommended="1">NNFP4-----A----</AM>
 <AM lemma="tříletka" src="auto">NNFP5-----A----</AM>

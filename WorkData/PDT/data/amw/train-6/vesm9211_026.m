@@ -996,7 +996,7 @@
 <AM lemma="mizející_,h" src="auto">AAIP4----1A----</AM>
 <AM lemma="mizející_,h" src="auto">AAIP5----1A----</AM>
 <AM lemma="mizející_,h" src="auto">AAIS1----1A----</AM>
-<AM lemma="mizející_,h" src="auto" selected="1">AAIS4----1A----</AM>
+<AM lemma="mizející" src="auto" selected="1">AAIS4----1A----</AM>
 <AM lemma="mizející_,h" src="auto">AAIS5----1A----</AM>
 <AM lemma="mizející_,h" src="auto">AAMP1----1A----</AM>
 <AM lemma="mizející_,h" src="auto">AAMP4----1A----</AM>

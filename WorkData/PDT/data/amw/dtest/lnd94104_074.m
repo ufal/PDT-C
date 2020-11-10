@@ -5799,7 +5799,7 @@
 <LM>w#w-lnd94104-074-p1s31w9</LM>
 </w.rf>
 <form>Natalu</form>
-<tag lemma="Natal_;G" src="auto" selected="1">NNIS6-----A----</tag>
+<tag lemma="Natal_;G_;m" src="auto" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-lnd94104-074-p1s31w10">
 <src.rf>manual</src.rf>
@@ -6076,7 +6076,7 @@
 <LM>w#w-lnd94104-074-p1s32w12</LM>
 </w.rf>
 <form>Natalu</form>
-<tag lemma="Natal_;G" src="auto" selected="1">NNIS6-----A----</tag>
+<tag lemma="Natal_;G_;m" src="auto" selected="1">NNIS6-----A----</tag>
 </m>
 <m id="m-lnd94104-074-p1s32w13">
 <src.rf>manual</src.rf>

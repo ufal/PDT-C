@@ -420,7 +420,7 @@
 <tag>
 <AM lemma="Su_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="být_,n" src="auto" recommended="1">VB-S---1P-AA--7</AM>
-<AM lemma="Su_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Su-2_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-063-p2s3w5">

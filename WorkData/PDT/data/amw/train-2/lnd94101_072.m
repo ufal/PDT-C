@@ -713,7 +713,7 @@
 <form>Chambers</form>
 <tag>
 <AM lemma="Chambers_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Chambers-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Chambers-2_;Y_;m" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-072-p1s6w8">

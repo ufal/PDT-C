@@ -3538,7 +3538,7 @@
 <tag>
 <AM lemma="Hones_;m" src="orig">NNIS2-----A----</AM>
 <AM lemma="Hones_;Y" src="auto">NNMP4-----A----</AM>
-<AM lemma="Hones_;Y" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
+<AM lemma="Hones-1_;Y" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
 <AM lemma="Hones_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="Hones-2_;m" src="manual">NNIS2-----A----</AM>
 </tag>

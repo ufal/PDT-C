@@ -857,7 +857,7 @@
 </w.rf>
 <form>libera</form>
 <tag>
-<AM lemma="libero" src="orig" selected="1">NNMS4-----A----</AM>
+<AM lemma="libero-2" src="orig" selected="1">NNMS4-----A----</AM>
 <AM lemma="libero" src="auto">NNNP1-----A----</AM>
 <AM lemma="libero" src="auto">NNNP4-----A----</AM>
 <AM lemma="libero" src="auto">NNNP5-----A----</AM>

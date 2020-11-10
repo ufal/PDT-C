@@ -326,7 +326,7 @@
 <AM lemma="mizející_,h" src="auto">AAIS2----1A----</AM>
 <AM lemma="mizející_,h" src="auto">AAMS2----1A----</AM>
 <AM lemma="mizející_,h" src="auto">AAMS4----1A----</AM>
-<AM lemma="mizející_,h" src="auto" selected="1">AANS2----1A----</AM>
+<AM lemma="mizející" src="auto" selected="1">AANS2----1A----</AM>
 <AM lemma="mizící_,h_,x_^(*3et)" src="auto">AGIS2-----A----</AM>
 <AM lemma="mizící_,h_,x_^(*3et)" src="auto">AGMS2-----A----</AM>
 <AM lemma="mizící_,h_,x_^(*3et)" src="auto">AGMS4-----A----</AM>

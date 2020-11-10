@@ -21,7 +21,7 @@
 <form>Ad</form>
 <tag>
 <AM lemma="ad" src="orig">RR--1----------</AM>
-<AM lemma="ad-3" src="manual" selected="1">RR--1----------</AM>
+<AM lemma="ad-2" src="manual" selected="1">RR--1----------</AM>
 </tag>
 </m>
 <m id="m-vesm9211-052-p1s1w2">

@@ -3423,7 +3423,7 @@
 <AM lemma="Paulův_;Y_^(*2)" src="auto">AUIP4M---------</AM>
 <AM lemma="Paulův_;Y_^(*2)" src="auto">AUIP5M---------</AM>
 <AM lemma="Paulův_;Y_^(*2)" src="auto">AUMP4M---------</AM>
-<AM lemma="Paulův_;Y_^(*2)" src="manual" selected="1">AUFP4M---------</AM>
+<AM lemma="Paulův_;Y_^(*2)_(*2o-2)" src="manual" selected="1">AUFP4M---------</AM>
 </tag>
 </m>
 <m id="m-wsj2113-001-p1s10W8-Ta">
@@ -4719,7 +4719,7 @@
 <AM lemma="Paulův_;Y_^(*2)" src="auto">AUMS6M--------1</AM>
 <AM lemma="Paulův_;Y_^(*2)" src="auto">AUNS3M---------</AM>
 <AM lemma="Paulův_;Y_^(*2)" src="auto">AUNS6M--------1</AM>
-<AM lemma="Paulův_;Y_^(*2)" src="manual" selected="1">AUFS4M---------</AM>
+<AM lemma="Paulův_;Y_^(*2)_(*2o-2)" src="manual" selected="1">AUFS4M---------</AM>
 </tag>
 </m>
 <m id="m-wsj2113-001-p1s18W5-Ta">
@@ -7022,7 +7022,7 @@
 <AM lemma="Paulův_;Y_^(*2)" src="auto">AUNP4M---------</AM>
 <AM lemma="Paulův_;Y_^(*2)" src="auto">AUNP5M---------</AM>
 <AM lemma="Paulův_;Y_^(*2)" src="auto">AUNS2M---------</AM>
-<AM lemma="Paulův_;Y_^(*2)" src="manual" selected="1">AUFS1M---------</AM>
+<AM lemma="Paulův_;Y_^(*2)_(*2o-2)" src="manual" selected="1">AUFS1M---------</AM>
 </tag>
 </m>
 <m id="m-wsj2113-001-p1s25W20-Ta">
@@ -16682,7 +16682,7 @@
 <AM lemma="Paulův_;Y_^(*2)" src="auto">AUMS6M---------</AM>
 <AM lemma="Paulův_;Y_^(*2)" src="auto">AUNS3M--------6</AM>
 <AM lemma="Paulův_;Y_^(*2)" src="auto" recommended="1">AUNS6M---------</AM>
-<AM lemma="Paulův_;Y_^(*2)" src="manual" selected="1">AUNS6M---------</AM>
+<AM lemma="Paulův_;Y_^(*2)_(*2o-2)" src="manual" selected="1">AUNS6M---------</AM>
 </tag>
 </m>
 <m id="m-wsj2113-001-p1s63W13-Ta">
@@ -20240,7 +20240,7 @@
 <AM lemma="Paulův_;Y_^(*2)" src="auto">AUNP3M---------</AM>
 <AM lemma="Paulův_;Y_^(*2)" src="auto">AUNS7M---------</AM>
 <AM lemma="Paulová_;Y" src="auto">NNFP3-----A----</AM>
-<AM lemma="Paulův_;Y_^(*2)" src="manual" selected="1">AUIP3M---------</AM>
+<AM lemma="Paulův_;Y_^(*2)_(*2o-2)" src="manual" selected="1">AUIP3M---------</AM>
 </tag>
 </m>
 <m id="m-wsj2113-001-p1s76W3-Ta">

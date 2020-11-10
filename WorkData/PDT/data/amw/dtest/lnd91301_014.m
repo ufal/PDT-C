@@ -3360,7 +3360,7 @@
 <tag>
 <AM lemma="Čchi_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="Čchi-1_;G_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Čchi_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Čchi-2_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd91301-014-p9s1w6">

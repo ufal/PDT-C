@@ -5810,7 +5810,7 @@
 </w.rf>
 <form>Juliny</form>
 <tag>
-<AM lemma="Julina_;Y" src="orig" selected="1">NNMS2-----A----</AM>
+<AM lemma="Julina-2_;Y" src="orig" selected="1">NNMS2-----A----</AM>
 <AM lemma="Julin_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Julin_;Y" src="auto" recommended="1">NNMP7-----A----</AM>
 </tag>
@@ -7500,7 +7500,7 @@
 <form>JERUSALEM</form>
 <tag>
 <AM lemma="Jeruzalém_;G" src="orig">NNIS1-----A----</AM>
-<AM lemma="Jerusalem_;G_,s_^(^DD**Jeruzalém)" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Jerusalem_;G_;m_,s_^(^DD**Jeruzalém)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930701-088-p9s2w6">

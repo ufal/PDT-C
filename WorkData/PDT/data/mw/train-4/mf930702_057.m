@@ -314,7 +314,7 @@
 <tag>
 <AM lemma="Viktoria-1_;Y_^(ženské_jméno)" src="orig">NNFS1-----A----</AM>
 <AM lemma="Viktorie_;Y" src="manual">NNFS1-----A----</AM>
-<AM lemma="Viktoria_;Y_;m" src="manual" selected="1">NNFS1-----A---1</AM>
+<AM lemma="Viktoria_;G_;Y_;m" src="manual" selected="1">NNFS1-----A---1</AM>
 </tag>
 </m>
 <m id="m-mf930702-057-p2s1w28">

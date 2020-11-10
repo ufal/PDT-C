@@ -284,7 +284,7 @@
 <LM>w#w-mf930701-057-p2s1w28</LM>
 </w.rf>
 <form>Jerusalem</form>
-<tag lemma="Jerusalem_;G_,s_^(^DD**Jeruzalém)" src="orig" selected="1">NNIS1-----A----</tag>
+<tag lemma="Jerusalem_;G_;m_,s_^(^DD**Jeruzalém)" src="orig" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf930701-057-p2s1w29">
 <src.rf>manual</src.rf>

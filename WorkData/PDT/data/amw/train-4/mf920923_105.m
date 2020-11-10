@@ -290,7 +290,7 @@
 <form>desatera</form>
 <tag>
 <AM lemma="desatero" src="orig">NNNS2-----A----</AM>
-<AM lemma="desatero" src="manual" selected="1">CjNS2----------</AM>
+<AM lemma="desatero`10" src="manual" selected="1">CjNS2----------</AM>
 </tag>
 </m>
 <m id="m-mf920923-105-p2s5w8">

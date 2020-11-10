@@ -633,7 +633,7 @@
 <LM>w#w-ln95040-055-p3s2w26</LM>
 </w.rf>
 <form>Sol</form>
-<tag lemma="Sol-2_;Y" src="orig" selected="1">NNMS1-----A----</tag>
+<tag lemma="Sol_;Y" src="orig" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-ln95040-055-p3s2w27">
 <src.rf>manual</src.rf>

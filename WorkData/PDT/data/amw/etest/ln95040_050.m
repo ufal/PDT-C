@@ -2643,7 +2643,7 @@
 <AM lemma="Im_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="Im-1_:B_^(imaginární_část_komplexního_čísla)" src="auto" recommended="1">NNFXX-----A----</AM>
 <AM lemma="Imo_;G" src="auto">NNNP2-----A----</AM>
-<AM lemma="Im_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Im-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-050-p5s7w14">

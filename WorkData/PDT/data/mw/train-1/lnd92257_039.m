@@ -7035,7 +7035,7 @@
 <AM lemma="jeden`1" src="auto" recommended="1">ClNS1----------</AM>
 <AM lemma="jeden`1" src="auto">ClNS4----------</AM>
 <AM lemma="jeden`1" src="auto">ClNS5----------</AM>
-<AM lemma="jedno`1" src="manual" selected="1">S2--------A----</AM>
+<AM lemma="jedno-2`1" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-039-p9s1w9">

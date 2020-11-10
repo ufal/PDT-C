@@ -4575,7 +4575,7 @@
 <LM>w#w-mf920925-120-p17s2w6</LM>
 </w.rf>
 <form>Santos</form>
-<tag lemma="Santos-2_;G" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Santos-2_;G_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-mf920925-120-p17s2w7">
 <src.rf>manual</src.rf>

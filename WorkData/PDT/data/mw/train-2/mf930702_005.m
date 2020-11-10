@@ -876,7 +876,7 @@
 <LM>w#w-mf930702-005-p2s3w26</LM>
 </w.rf>
 <form>Brožová</form>
-<tag lemma="Brožová_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Brožová_;Y_^(*1ý)" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930702-005-p2s3w27">
 <src.rf>manual</src.rf>

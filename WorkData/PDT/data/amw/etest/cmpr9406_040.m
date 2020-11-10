@@ -2060,7 +2060,7 @@
 <LM>w#w-cmpr9406-040-p10s1w1</LM>
 </w.rf>
 <form>Dana</form>
-<tag lemma="Dana_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Dana_;Y_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-cmpr9406-040-p10s1w2">
 <src.rf>manual</src.rf>

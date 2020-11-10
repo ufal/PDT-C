@@ -1073,7 +1073,7 @@
 </w.rf>
 <form>Sole</form>
 <tag>
-<AM lemma="Sole_;m" src="orig" selected="1">NNXXX-----A----</AM>
+<AM lemma="Sole-2_;m" src="orig" selected="1">NNXXX-----A----</AM>
 <AM lemma="Solo-1_;m" src="auto">NNNS6-----A----</AM>
 <AM lemma="Solus_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="sol-2_^(solný_roztok)" src="auto">NNIS5-----A----</AM>

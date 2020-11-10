@@ -2520,7 +2520,7 @@
 <LM>w#w-ln94204-36-p4s7w17</LM>
 </w.rf>
 <form>milost</form>
-<tag lemma="milost_^(udělená_např._prezidentem)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="milost-1_^(*5ý-1)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln94204-36-p4s7w18">
 <src.rf>manual</src.rf>

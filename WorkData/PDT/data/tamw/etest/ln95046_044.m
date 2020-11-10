@@ -4018,7 +4018,7 @@
 <LM>w#w-ln95046-044-p4s2w11</LM>
 </w.rf>
 <form>Trierova</form>
-<tag lemma="Trierův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Trierův-2_;Y_^(*4-2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-ln95046-044-p4s2w12">
 <src.rf>manual</src.rf>
@@ -4848,7 +4848,7 @@
 <LM>w#w-ln95046-044-p5s5w17</LM>
 </w.rf>
 <form>Trierova</form>
-<tag lemma="Trierův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Trierův-2_;Y_^(*4-2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-ln95046-044-p5s5w18">
 <src.rf>manual</src.rf>

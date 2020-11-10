@@ -358,7 +358,7 @@
 <AM lemma="Hesse_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Hesse_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Hesse_;Y" src="auto">NNMXX-----A----</AM>
-<AM lemma="Hesse_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Hesse-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2157-001-p1s1W6-Ta">

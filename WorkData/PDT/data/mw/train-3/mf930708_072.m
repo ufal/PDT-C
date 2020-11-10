@@ -6972,7 +6972,7 @@
 </w.rf>
 <form>Juliny</form>
 <tag>
-<AM lemma="Julina_;Y" src="orig" selected="1">NNMS2-----A----</AM>
+<AM lemma="Julina-2_;Y" src="orig" selected="1">NNMS2-----A----</AM>
 <AM lemma="Julin_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Julin_;Y" src="auto" recommended="1">NNMP7-----A----</AM>
 </tag>

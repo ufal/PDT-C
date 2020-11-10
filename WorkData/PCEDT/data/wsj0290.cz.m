@@ -3492,7 +3492,7 @@
 <AM lemma="rosa" src="auto">NNFS3-----A----</AM>
 <AM lemma="rosa" src="auto">NNFS6-----A----</AM>
 <AM lemma="rosit" src="auto">VeYS------A-I--</AM>
-<AM lemma="Rose_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Rose-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0290-001-p1s9W6-Ta">
@@ -14753,7 +14753,7 @@
 <AM lemma="milost-1_^(příjemný)_(*5ý-1)" src="auto">NNFS1-----A----</AM>
 <AM lemma="milost-1_^(příjemný)_(*5ý-1)" src="auto">NNFS4-----A----</AM>
 <AM lemma="milost_^(udělená_např._prezidentem)" src="auto">NNFS1-----A----</AM>
-<AM lemma="milost_^(udělená_např._prezidentem)" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="milost-1_^(*5ý-1)" src="auto" recommended="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0290-001-p1s49W12-Ta">

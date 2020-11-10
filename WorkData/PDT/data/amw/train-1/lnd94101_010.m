@@ -109,7 +109,7 @@
 <form>Natal</form>
 <tag>
 <AM lemma="Natal_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Natal_;G" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
+<AM lemma="Natal_;G_;m" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="Natal_;G" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>

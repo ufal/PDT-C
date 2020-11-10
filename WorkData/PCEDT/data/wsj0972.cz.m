@@ -3357,7 +3357,7 @@
 <AM lemma="Stuart_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Stuart_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Stuart_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Stuart_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Stuart-3_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0972-001-p1s11W32-Ta">

@@ -12672,7 +12672,7 @@
 <AM lemma="Olin_^(*2a)" src="auto">AUMS1F---------</AM>
 <AM lemma="Olin_^(*2a)" src="auto">AUMS5F---------</AM>
 <AM lemma="Olina_;Y" src="auto">NNFP2-----A----</AM>
-<AM lemma="Olin_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Olin-3_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1314-001-p1s35W51-Ta">

@@ -2944,7 +2944,7 @@
 <AM lemma="ty" src="auto">PP-S5--2-------</AM>
 <AM lemma="ten_,h" src="auto">PDNP1---------6</AM>
 <AM lemma="ten_,h" src="auto">PDNP4---------6</AM>
-<AM lemma="ten_,h" src="manual" selected="1">PDMP1---------6</AM>
+<AM lemma="ten" src="manual" selected="1">PDMP1---------6</AM>
 </tag>
 </m>
 <m id="m027-d1t2046-25">

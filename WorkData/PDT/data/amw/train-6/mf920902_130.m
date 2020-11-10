@@ -387,7 +387,7 @@
 <LM>w#w-mf920902-130-p2s2w28</LM>
 </w.rf>
 <form>milost</form>
-<tag lemma="milost_^(udělená_např._prezidentem)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="milost-1_^(*5ý-1)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-mf920902-130-p2s2w29">
 <src.rf>manual</src.rf>

@@ -2261,7 +2261,7 @@
 <AM lemma="Buckley_;Y" src="auto">NNMS6-----A---1</AM>
 <AM lemma="Buckleyův_;Y_^(*2)" src="auto" recommended="1">AUMP1M---------</AM>
 <AM lemma="Buckleyův_;Y_^(*2)" src="auto">AUMP5M---------</AM>
-<AM lemma="Buckleyův_;Y" src="manual" selected="1">AUMP1M---------</AM>
+<AM lemma="Buckleyův_;Y_^(*2)" src="manual" selected="1">AUMP1M---------</AM>
 </tag>
 </m>
 <m id="m-wsj0949-001-p1s7W5-Ta">

@@ -9469,7 +9469,7 @@
 <tag>
 <AM lemma="Saidův" src="auto">X@-------------</AM>
 <AM lemma="Saidův_;Y_^(*2)" src="manual">AUIS1M---------</AM>
-<AM lemma="Saidův-2_;Y_^(*4-2)" src="manual" selected="1">AUIS1M---------</AM>
+<AM lemma="Saidův_;Y_^(*2-2)_(*2a)" src="manual" selected="1">AUIS1M---------</AM>
 </tag>
 </m>
 <m id="m-wsj0790-001-p1s34W2-Ta">

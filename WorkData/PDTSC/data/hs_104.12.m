@@ -109,7 +109,7 @@
 <form>ducha</form>
 <tag>
 <AM lemma="duch" src="auto">NNMS2-----A----</AM>
-<AM lemma="duch" src="auto" recommended="1" selected="1">NNMS4-----A----</AM>
+<AM lemma="duch-1" src="auto" recommended="1" selected="1">NNMS4-----A----</AM>
 <AM lemma="duch-2" src="manual">NNIS4-----A---1</AM>
 </tag>
 </m>

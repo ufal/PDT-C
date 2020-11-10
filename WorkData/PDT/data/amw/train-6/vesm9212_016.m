@@ -25923,7 +25923,7 @@
 <LM>w#w-vesm9212-016-p37s5w2</LM>
 </w.rf>
 <form>Fineova</form>
-<tag lemma="Fineův_;Y_^(2*)" src="orig" selected="1">AUFS1M---------</tag>
+<tag lemma="Fineův_;Y_^(*2)" src="orig" selected="1">AUFS1M---------</tag>
 </m>
 <m id="m-vesm9212-016-p37s5w3">
 <src.rf>manual</src.rf>
@@ -34571,7 +34571,7 @@
 <AM lemma="Fineův_;Y_^(2*)" src="orig">AUFP2M---------</AM>
 <AM lemma="Fineová_;Y" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="Fineová_;Y" src="auto">NNFP6-----A----</AM>
-<AM lemma="Fineův_;Y" src="manual" selected="1">AUFP2M---------</AM>
+<AM lemma="Fineův_;Y_^(*2)" src="manual" selected="1">AUFP2M---------</AM>
 </tag>
 </m>
 <m id="m-vesm9212-016-p45s5w12">

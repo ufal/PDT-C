@@ -131,7 +131,7 @@
 <LM>w#w-ln94207-57-p2s1Bw6</LM>
 </w.rf>
 <form>Santos</form>
-<tag lemma="Santos-2_;G" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Santos-2_;G_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94207-57-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -293,7 +293,7 @@
 <LM>w#w-ln94207-57-p2s2w11</LM>
 </w.rf>
 <form>Santos</form>
-<tag lemma="Santos-2_;G" src="auto" selected="1">NNIS1-----A----</tag>
+<tag lemma="Santos-2_;G_;m" src="auto" selected="1">NNIS1-----A----</tag>
 </m>
 <m id="m-ln94207-57-p2s2w12">
 <src.rf>manual</src.rf>
@@ -744,7 +744,7 @@
 <LM>w#w-ln94207-57-p3s3w11</LM>
 </w.rf>
 <form>Santosu</form>
-<tag lemma="Santos-2_;G" src="orig" selected="1">NNIS2-----A----</tag>
+<tag lemma="Santos-2_;G_;m" src="orig" selected="1">NNIS2-----A----</tag>
 </m>
 <m id="m-ln94207-57-p3s3w12">
 <src.rf>manual</src.rf>

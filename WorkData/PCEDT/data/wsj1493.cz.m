@@ -6423,7 +6423,7 @@
 <form>Dwyerova</form>
 <tag>
 <AM lemma="Dwyerova" src="auto">X@-------------</AM>
-<AM lemma="Dwyerův_;Y_^(*2)" src="manual" selected="1">AUIS2M---------</AM>
+<AM lemma="Dwyerův-2_;Y_^(*4-2)" src="manual" selected="1">AUIS2M---------</AM>
 </tag>
 </m>
 <m id="m-wsj1493-001-p1s21W13-Ta">

@@ -4866,7 +4866,7 @@
 <AM lemma="sok" src="auto" recommended="1">NNMP4-----A----</AM>
 <AM lemma="sok" src="auto">NNMP7-----A----</AM>
 <AM lemma="sok-2_^(džus)" src="manual">NNIP1-----A----</AM>
-<AM lemma="sok-2" src="manual" selected="1">NNIP1-----A----</AM>
+<AM lemma="sok-2_^(džus)" src="manual" selected="1">NNIP1-----A----</AM>
 </tag>
 </m>
 <m id="m035-923-925">

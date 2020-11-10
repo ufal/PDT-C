@@ -80,7 +80,7 @@
 </w.rf>
 <form>Offenbachu</form>
 <tag>
-<AM lemma="Offenbach_;G" src="orig" selected="1">NNIS6-----A----</AM>
+<AM lemma="Offenbach-2_;G" src="orig" selected="1">NNIS6-----A----</AM>
 <AM lemma="Offenbach_;Y" src="auto">NNMS3-----A---1</AM>
 <AM lemma="Offenbach_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Offenbach_;Y" src="auto" recommended="1">NNMS6-----A---1</AM>
@@ -827,7 +827,7 @@
 </w.rf>
 <form>Offenbachu</form>
 <tag>
-<AM lemma="Offenbach_;G" src="orig" selected="1">NNIS2-----A----</AM>
+<AM lemma="Offenbach-2_;G" src="orig" selected="1">NNIS2-----A----</AM>
 <AM lemma="Offenbach_;Y" src="auto">NNMS3-----A---1</AM>
 <AM lemma="Offenbach_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Offenbach_;Y" src="auto" recommended="1">NNMS6-----A---1</AM>

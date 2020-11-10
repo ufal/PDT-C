@@ -1436,7 +1436,7 @@
 <tag>
 <AM lemma="malinka_,e" src="auto">NNFS5-----A----</AM>
 <AM lemma="malinko-1" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="malinko-1" src="manual" selected="1">Ca--1----------</AM>
+<AM lemma="malinko-1_^(málo_peněz)" src="manual" selected="1">Ca--1----------</AM>
 </tag>
 </m>
 <m id="m141-d-id172062-punct">

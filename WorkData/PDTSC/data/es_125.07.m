@@ -2557,7 +2557,7 @@
 </w.rf>
 <form>Martinova</form>
 <tag>
-<AM lemma="Martinův_;Y_^(*2-1)_(*2o)" src="auto" recommended="1">AUFS1M---------</AM>
+<AM lemma="Martinův_;Y_^(*2-1)_(*2a-2)_(*2o)" src="auto" recommended="1">AUFS1M---------</AM>
 <AM lemma="Martinův-1_;Y_^(*4-1)" src="auto">AUFS5M---------</AM>
 <AM lemma="Martinův-1_;Y_^(*4-1)" src="auto">AUIS2M---------</AM>
 <AM lemma="Martinův-1_;Y_^(*4-1)" src="auto">AUMS2M---------</AM>

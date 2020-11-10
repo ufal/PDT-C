@@ -958,7 +958,7 @@
 <LM>w#w-ln94204-2-p3s1Aw13</LM>
 </w.rf>
 <form>Dana</form>
-<tag lemma="Dana_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Dana_;Y_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94204-2-p3s1Aw14">
 <src.rf>manual</src.rf>

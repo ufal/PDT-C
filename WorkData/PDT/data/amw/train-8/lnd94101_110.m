@@ -673,7 +673,7 @@
 <tag>
 <AM lemma="Santos_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Santos_;Y" src="manual">NNMXX-----A----</AM>
-<AM lemma="Santos_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Santos-2_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94101-110-p1s5w17">

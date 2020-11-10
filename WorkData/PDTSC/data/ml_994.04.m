@@ -1418,7 +1418,7 @@
 <AM lemma="frik" src="auto">NNMP1-----A----</AM>
 <AM lemma="frik" src="auto">NNMP5-----A----</AM>
 <AM lemma="Frici_;Y" src="manual">NNFS1-----A----</AM>
-<AM lemma="Frici-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Frici_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m994-d-id99234">

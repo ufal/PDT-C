@@ -3404,7 +3404,7 @@
 <tag>
 <AM lemma="rider_,t" src="orig">NNIS1-----A----</AM>
 <AM lemma="rider" src="manual">NNIS1-----A----</AM>
-<AM lemma="rider-2" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="rider" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-023-p11s13w18">

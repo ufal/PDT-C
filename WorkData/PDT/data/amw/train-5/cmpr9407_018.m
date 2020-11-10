@@ -152,7 +152,7 @@
 <LM>w#w-cmpr9407-018-p3s1w12</LM>
 </w.rf>
 <form>milost</form>
-<tag lemma="milost_^(udělená_např._prezidentem)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="milost-1_^(*5ý-1)" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 </s>
 <s id="m-cmpr9407-018-p4s1">

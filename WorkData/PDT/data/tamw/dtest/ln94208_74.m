@@ -266,7 +266,7 @@
 <tag>
 <AM lemma="Čchi_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Čchi-1_;G_,t" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Čchi_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+<AM lemma="Čchi-2_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-74-p2s1Bw25">

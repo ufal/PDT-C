@@ -3307,7 +3307,7 @@
 <LM>w#w-ln95040-133-p7s2Aw5</LM>
 </w.rf>
 <form>Irův</form>
-<tag lemma="Irův_;E_^(*2)" src="orig" selected="1">AUIS4M---------</tag>
+<tag lemma="Irův_;E_;Y_^(*2)_(*2a)" src="orig" selected="1">AUIS4M---------</tag>
 </m>
 <m id="m-ln95040-133-p7s2Aw6">
 <src.rf>manual</src.rf>

@@ -766,7 +766,7 @@
 <form>Scott</form>
 <tag>
 <AM lemma="Scott_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Scott-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Scott-2_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-091-p4s2w5">
@@ -941,7 +941,7 @@
 <form>Scott</form>
 <tag>
 <AM lemma="Scott_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Scott-2_;m" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Scott-2_;G_;m" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-091-p4s4w7">

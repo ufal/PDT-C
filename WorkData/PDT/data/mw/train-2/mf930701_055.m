@@ -1386,7 +1386,7 @@
 </w.rf>
 <form>Didi</form>
 <tag>
-<AM lemma="Didi_;Y" src="orig" selected="1">NNFXX-----A----</AM>
+<AM lemma="Didi-2_;Y" src="orig" selected="1">NNFXX-----A----</AM>
 <AM lemma="Didi_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Didi_;Y" src="auto">NNMS5-----A----</AM>
 </tag>

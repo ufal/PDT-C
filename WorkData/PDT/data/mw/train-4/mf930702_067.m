@@ -1155,7 +1155,7 @@
 <form>Royal</form>
 <tag>
 <AM lemma="Royal_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="Royal_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Royal-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-067-p3s6w2">

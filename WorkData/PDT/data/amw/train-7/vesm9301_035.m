@@ -8643,7 +8643,7 @@
 <LM>w#w-vesm9301-035-p58s9w5</LM>
 </w.rf>
 <form>Curie</form>
-<tag lemma="Curie-1_;Y_^(muž)" src="auto" selected="1">NNMXX-----A----</tag>
+<tag lemma="Curie_;Y" src="auto" selected="1">NNMXX-----A----</tag>
 </m>
 <m id="m-vesm9301-035-p58s9w6">
 <src.rf>manual</src.rf>

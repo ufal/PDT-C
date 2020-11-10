@@ -370,7 +370,7 @@
 <LM>w#w-ln94208-71-p2s2w9</LM>
 </w.rf>
 <form>červeno</form>
-<tag lemma="červeno-2_;o" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="červeno-2" src="orig" selected="1">NNNS4-----A----</tag>
 </m>
 <m id="m-ln94208-71-p2s2w10">
 <src.rf>manual</src.rf>

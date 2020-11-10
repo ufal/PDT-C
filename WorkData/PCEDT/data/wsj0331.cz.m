@@ -10446,7 +10446,7 @@
 <AM lemma="Dunn_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Dunn_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Dunn_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Dunn-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Dunn-3_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0331-001-p1s39W7-Ta">
