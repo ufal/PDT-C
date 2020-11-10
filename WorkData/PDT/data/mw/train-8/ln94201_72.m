@@ -780,7 +780,7 @@
 <LM>w#w-ln94201-72-p2s3w5</LM>
 </w.rf>
 <form>Viktoria</form>
-<tag lemma="Viktoria_;Y_;m" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Viktoria_;G_;Y_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94201-72-p2s3w6">
 <src.rf>manual</src.rf>
@@ -857,7 +857,7 @@
 <LM>w#w-ln94201-72-p3s1w3</LM>
 </w.rf>
 <form>Viktoria</form>
-<tag lemma="Viktoria_;Y_;m" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Viktoria_;G_;Y_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94201-72-p3s1w4">
 <src.rf>manual</src.rf>
@@ -1944,7 +1944,7 @@
 <LM>w#w-ln94201-72-p3s7w2</LM>
 </w.rf>
 <form>Viktoria</form>
-<tag lemma="Viktoria_;Y_;m" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Viktoria_;G_;Y_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94201-72-p3s7w3">
 <src.rf>manual</src.rf>
@@ -2470,7 +2470,7 @@
 <LM>w#w-ln94201-72-p3s11w1</LM>
 </w.rf>
 <form>Viktoria</form>
-<tag lemma="Viktoria_;Y_;m" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Viktoria_;G_;Y_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94201-72-p3s11w2">
 <src.rf>manual</src.rf>
@@ -2896,7 +2896,7 @@
 <LM>w#w-ln94201-72-p4s1w32</LM>
 </w.rf>
 <form>Viktoria</form>
-<tag lemma="Viktoria_;Y_;m" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Viktoria_;G_;Y_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln94201-72-p4s1w33">
 <src.rf>manual</src.rf>

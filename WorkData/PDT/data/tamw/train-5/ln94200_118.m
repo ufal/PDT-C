@@ -174,7 +174,7 @@
 </w.rf>
 <form>Mangosuthu</form>
 <tag>
-<AM lemma="Mangosuthu_;Y" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Mangosuthu_;Y" src="orig" selected="1">NNMXX-----A----</AM>
 <AM lemma="Mangosuth_;Y" src="auto" recommended="1">NNMS3-----A---1</AM>
 <AM lemma="Mangosuth_;Y" src="auto">NNMS6-----A---1</AM>
 </tag>

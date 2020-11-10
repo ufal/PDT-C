@@ -46,7 +46,7 @@
 <LM>w#w-ln95048-136-p1s1w4</LM>
 </w.rf>
 <form>Novu</form>
-<tag lemma="Nova_;m_^(televize)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Nova_;m" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 </s>
 <s id="m-ln95048-136-p2s1A">
@@ -1392,7 +1392,7 @@
 <LM>w#w-ln95048-136-p2s8w1</LM>
 </w.rf>
 <form>Novu</form>
-<tag lemma="Nova_;m_^(televize)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Nova_;m" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95048-136-p2s8w2">
 <src.rf>manual</src.rf>
@@ -1611,7 +1611,7 @@
 <LM>w#w-ln95048-136-p2s10w10</LM>
 </w.rf>
 <form>Novu</form>
-<tag lemma="Nova_;m_^(televize)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Nova_;m" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95048-136-p2s10w11">
 <src.rf>manual</src.rf>

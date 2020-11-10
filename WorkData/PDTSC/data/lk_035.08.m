@@ -2962,7 +2962,7 @@
 <form>Balakově</form>
 <tag>
 <AM lemma="Balakově" src="auto">X@-------------</AM>
-<AM lemma="Balakov_;G" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="Balakov-2_;G" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m035-22-24">

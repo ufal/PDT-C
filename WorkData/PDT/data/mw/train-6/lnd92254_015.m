@@ -388,7 +388,7 @@
 <tag>
 <AM lemma="IKEM_:B_;m_^(Institut_klinické_a_experimentální_medicíny)" src="orig">NNIXX-----A---8</AM>
 <AM lemma="IKEM-88" src="manual">BNXXX-----A----</AM>
-<AM lemma="IKEM_;m_^(Institut_klinické_a_experimentální_medicíny)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="IKEM-1_;m_^(Institut_klinické_a_experimentální_medicíny)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92254-015-p1s4w4">

@@ -830,7 +830,7 @@
 <form>axela</form>
 <tag>
 <AM lemma="axel" src="orig">NNMS4-----A----</AM>
-<AM lemma="axel-1" src="manual" selected="1">NNMS4-----A---1</AM>
+<AM lemma="axel-1" src="manual" selected="1">NNIS4-----A---1</AM>
 </tag>
 </m>
 <m id="m-lnd92255-115-p3s5w10">

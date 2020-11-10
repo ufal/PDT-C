@@ -573,7 +573,7 @@
 <LM>w#w-mf930713-102-p2s4w2</LM>
 </w.rf>
 <form>čtvrtfinále</form>
-<tag lemma="čtvrtfinále" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="čtvrtfinále" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-mf930713-102-p2s4w3">
 <src.rf>manual</src.rf>

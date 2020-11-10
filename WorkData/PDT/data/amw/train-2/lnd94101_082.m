@@ -1426,7 +1426,7 @@
 <LM>w#w-lnd94101-082-p1s15w1</LM>
 </w.rf>
 <form>Čtvrtfinále</form>
-<tag lemma="čtvrtfinále" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="čtvrtfinále" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-lnd94101-082-p1s15w2">
 <src.rf>manual</src.rf>
@@ -1676,7 +1676,7 @@
 <LM>w#w-lnd94101-082-p1s16w3</LM>
 </w.rf>
 <form>čtvrtfinále</form>
-<tag lemma="čtvrtfinále" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="čtvrtfinále" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-lnd94101-082-p1s16w4">
 <src.rf>manual</src.rf>
@@ -1937,7 +1937,7 @@
 <LM>w#w-lnd94101-082-p1s17w3</LM>
 </w.rf>
 <form>čtvrtfinále</form>
-<tag lemma="čtvrtfinále" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="čtvrtfinále" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-lnd94101-082-p1s17w4">
 <src.rf>manual</src.rf>
@@ -2078,7 +2078,7 @@
 <LM>w#w-lnd94101-082-p1s18w3</LM>
 </w.rf>
 <form>čtvrtfinále</form>
-<tag lemma="čtvrtfinále" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="čtvrtfinále" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-lnd94101-082-p1s18w4">
 <src.rf>manual</src.rf>

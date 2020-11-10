@@ -2481,7 +2481,7 @@
 <AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="auto" recommended="1">VpNS---XR-AA---</AM>
 <AM lemma="stát-5_^(sníh)" src="auto">VpNS----R-AAI--</AM>
 <AM lemma="stálo-1" src="manual">NNNS4-----A----</AM>
-<AM lemma="stálo" src="manual" selected="1">NNNS4-----A----</AM>
+<AM lemma="stálo_^(na_stálo)" src="manual" selected="1">NNNS4-----A----</AM>
 </tag>
 </m>
 <m id="m051-190-204">
@@ -2788,7 +2788,7 @@
 <AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="auto" recommended="1">VpNS---XR-AA---</AM>
 <AM lemma="stát-5_^(sníh)" src="auto">VpNS----R-AAI--</AM>
 <AM lemma="stálo-1" src="manual">NNNS4-----A----</AM>
-<AM lemma="stálo" src="manual" selected="1">NNNS4-----A----</AM>
+<AM lemma="stálo_^(na_stálo)" src="manual" selected="1">NNNS4-----A----</AM>
 </tag>
 </m>
 <m id="m051-d1t3717-6">

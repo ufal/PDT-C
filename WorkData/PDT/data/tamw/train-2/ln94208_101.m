@@ -61,7 +61,7 @@
 <LM>w#w-ln94208-101-p2s1Aw2</LM>
 </w.rf>
 <form>osmifinále</form>
-<tag lemma="osmifinále" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="osmifinále" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln94208-101-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -624,7 +624,7 @@
 <LM>w#w-ln94208-101-p2s1Cw54</LM>
 </w.rf>
 <form>osmifinále</form>
-<tag lemma="osmifinále" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="osmifinále" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln94208-101-p2s1Cw55">
 <src.rf>manual</src.rf>
@@ -3453,7 +3453,7 @@
 <LM>w#w-ln94208-101-p5s3w5</LM>
 </w.rf>
 <form>osmifinále</form>
-<tag lemma="osmifinále" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="osmifinále" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln94208-101-p5s3w6">
 <src.rf>manual</src.rf>
@@ -4006,7 +4006,7 @@
 <LM>w#w-ln94208-101-p5s7w2</LM>
 </w.rf>
 <form>osmifinále</form>
-<tag lemma="osmifinále" src="orig" selected="1">NNNS4-----A----</tag>
+<tag lemma="osmifinále" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln94208-101-p5s7w3">
 <src.rf>manual</src.rf>

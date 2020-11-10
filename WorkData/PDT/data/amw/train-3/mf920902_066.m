@@ -1809,7 +1809,7 @@
 <LM>w#w-mf920902-066-p4s9w1</LM>
 </w.rf>
 <form>Viktoria</form>
-<tag lemma="Viktoria_;Y_;m" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Viktoria_;G_;Y_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920902-066-p4s9w2">
 <src.rf>manual</src.rf>

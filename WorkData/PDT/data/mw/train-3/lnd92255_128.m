@@ -146,7 +146,7 @@
 <LM>w#w-lnd92255-128-p3s1w2</LM>
 </w.rf>
 <form>osmifinále</form>
-<tag lemma="osmifinále" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="osmifinále" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-lnd92255-128-p3s1w3">
 <src.rf>manual</src.rf>
@@ -4595,7 +4595,7 @@
 <LM>w#w-lnd92255-128-p6s1w29</LM>
 </w.rf>
 <form>Viktoria</form>
-<tag lemma="Viktoria_;Y_;m" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Viktoria_;G_;Y_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92255-128-p6s1w30">
 <src.rf>manual</src.rf>

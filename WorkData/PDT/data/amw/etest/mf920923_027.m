@@ -2104,7 +2104,7 @@
 </w.rf>
 <form>Chromy</form>
 <tag>
-<AM lemma="Chromy_;Y" src="orig" selected="1">NNFXX-----A----</AM>
+<AM lemma="Chromy-2_;Y" src="orig" selected="1">NNFXX-----A----</AM>
 <AM lemma="chróm" src="auto" recommended="1">NNIP1-----A----</AM>
 <AM lemma="chróm" src="auto">NNIP4-----A----</AM>
 <AM lemma="chróm" src="auto">NNIP5-----A----</AM>

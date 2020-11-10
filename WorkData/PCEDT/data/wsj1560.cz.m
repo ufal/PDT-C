@@ -2931,7 +2931,7 @@
 <form>Tyho</form>
 <tag>
 <AM lemma="Tyho" src="auto">X@-------------</AM>
-<AM lemma="Ty_;Y" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Ty_;Y" src="manual" selected="1">NNMS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-wsj1560-001-p1s10W15-Ta">

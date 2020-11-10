@@ -631,7 +631,7 @@
 <LM>w#w-lnd92252-088-p3s2w19</LM>
 </w.rf>
 <form>Viktoria</form>
-<tag lemma="Viktoria_;Y_;m" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Viktoria_;G_;Y_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92252-088-p3s2w20">
 <src.rf>manual</src.rf>

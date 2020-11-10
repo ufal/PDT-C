@@ -220,7 +220,7 @@
 <LM>w#w-ln95041-027-p2s2w7</LM>
 </w.rf>
 <form>semifinále</form>
-<tag lemma="semifinále" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="semifinále" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln95041-027-p2s2w8">
 <src.rf>manual</src.rf>
@@ -466,7 +466,7 @@
 <LM>w#w-ln95041-027-p2s3w7</LM>
 </w.rf>
 <form>semifinále</form>
-<tag lemma="semifinále" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="semifinále" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln95041-027-p2s3w8">
 <src.rf>manual</src.rf>

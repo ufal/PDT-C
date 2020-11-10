@@ -1423,7 +1423,7 @@
 <form>zůstáva</form>
 <tag>
 <AM lemma="zůstávat_^(*4at)" src="orig">VB-S---3P-AAI--</AM>
-<AM lemma="zůstávat_^(*4at)" src="manual" selected="1">VB-S---3P-AAI-9</AM>
+<AM lemma="zůstávat" src="manual" selected="1">VB-S---3P-AAI-9</AM>
 </tag>
 </m>
 <m id="m-lnd92257-026-p5s1w7">

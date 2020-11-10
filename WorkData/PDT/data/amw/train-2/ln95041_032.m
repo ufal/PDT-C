@@ -605,7 +605,7 @@
 <LM>w#w-ln95041-032-p2s5w3</LM>
 </w.rf>
 <form>semifinále</form>
-<tag lemma="semifinále" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="semifinále" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln95041-032-p2s5w4">
 <src.rf>manual</src.rf>

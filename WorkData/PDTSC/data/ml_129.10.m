@@ -1286,7 +1286,7 @@
 <tag>
 <AM lemma="zůstavá" src="auto">X@-------------</AM>
 <AM lemma="zůstávat_^(*4at)" src="manual">VB-S---3P-AAI-6</AM>
-<AM lemma="zůstávat_^(*4at)" src="manual" selected="1">VB-S---3P-AAI-8</AM>
+<AM lemma="zůstávat" src="manual" selected="1">VB-S---3P-AAI-8</AM>
 </tag>
 </m>
 <m id="m129-d1t2456-5">

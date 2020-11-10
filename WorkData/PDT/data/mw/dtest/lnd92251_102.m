@@ -371,7 +371,7 @@
 <LM>w#w-lnd92251-102-p6s2w1</LM>
 </w.rf>
 <form>čtvrtfinále</form>
-<tag lemma="čtvrtfinále" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="čtvrtfinále" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-lnd92251-102-p6s2w2">
 <src.rf>manual</src.rf>

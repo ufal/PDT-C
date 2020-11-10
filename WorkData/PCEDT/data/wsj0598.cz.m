@@ -3816,7 +3816,7 @@
 <AM lemma="Bradův-2_;Y_^(*4-2)" src="auto">AUMP5M---------</AM>
 <AM lemma="Bradův_;Y_^(*2a)" src="auto">AUMP1M---------</AM>
 <AM lemma="Bradův_;Y_^(*2a)" src="auto">AUMP5M---------</AM>
-<AM lemma="Brady_;Y" src="manual" selected="1">NNMS3-----A----</AM>
+<AM lemma="Brady_;Y" src="manual" selected="1">NNMS3-----A---1</AM>
 </tag>
 </m>
 <m id="m-wsj0598-001-p1s15W21-Ta">

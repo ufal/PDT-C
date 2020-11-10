@@ -721,7 +721,7 @@
 <LM>w#w-mf930701-105-p3s2w4</LM>
 </w.rf>
 <form>Viktoria</form>
-<tag lemma="Viktoria_;Y_;m" src="auto" selected="1">NNFS1-----A----</tag>
+<tag lemma="Viktoria_;G_;Y_;m" src="auto" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf930701-105-p3s2w5">
 <src.rf>manual</src.rf>

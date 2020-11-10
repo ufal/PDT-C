@@ -1942,7 +1942,7 @@
 <LM>w#w-mf930713-026-p2s11w7</LM>
 </w.rf>
 <form>čtvrtfinále</form>
-<tag lemma="čtvrtfinále" src="orig" selected="1">NNNS3-----A----</tag>
+<tag lemma="čtvrtfinále" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-mf930713-026-p2s11w8">
 <src.rf>manual</src.rf>

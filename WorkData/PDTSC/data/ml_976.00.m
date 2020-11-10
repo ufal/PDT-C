@@ -5716,7 +5716,7 @@
 <AM lemma="sokolův-1_;U_^(pták)_(*4-1)" src="auto">AUMS6M---------</AM>
 <AM lemma="sokolův-1_;U_^(pták)_(*4-1)" src="auto">AUNS3M--------6</AM>
 <AM lemma="sokolův-1_;U_^(pták)_(*4-1)" src="auto">AUNS6M---------</AM>
-<AM lemma="Sokolovo_;G" src="manual" selected="1">NNIS6-----A---1</AM>
+<AM lemma="Sokolovo_;G" src="manual" selected="1">NNNS6-----A---1</AM>
 </tag>
 </m>
 <m id="m976-id59561-1">

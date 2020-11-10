@@ -228,7 +228,7 @@
 <LM>w#w-mf930703-094-p1s2w16</LM>
 </w.rf>
 <form>semifinále</form>
-<tag lemma="semifinále" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="semifinále" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-mf930703-094-p1s2w17">
 <src.rf>manual</src.rf>

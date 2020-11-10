@@ -35,7 +35,7 @@
 <LM>w#w-lnd91303-094-p1s1w3</LM>
 </w.rf>
 <form>semifinále</form>
-<tag lemma="semifinále" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="semifinále" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 </s>
 <s id="m-lnd91303-094-p2s1A">
@@ -53,7 +53,7 @@
 <LM>w#w-lnd91303-094-p2s1Aw2</LM>
 </w.rf>
 <form>čtvrtfinále</form>
-<tag lemma="čtvrtfinále" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="čtvrtfinále" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-lnd91303-094-p2s1Aw3">
 <src.rf>manual</src.rf>

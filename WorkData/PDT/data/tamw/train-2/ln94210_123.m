@@ -77,7 +77,7 @@
 <LM>w#w-ln94210-123-p5s2w6</LM>
 </w.rf>
 <form>semifinále</form>
-<tag lemma="semifinále" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="semifinále" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln94210-123-p5s2w7">
 <src.rf>manual</src.rf>

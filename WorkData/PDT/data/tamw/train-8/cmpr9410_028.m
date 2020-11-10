@@ -4479,7 +4479,7 @@
 <LM>w#w-cmpr9410-028-p16s2w6</LM>
 </w.rf>
 <form>statisíců</form>
-<tag lemma="stotisíc`100000" src="orig" selected="1">CzIP2---------1</tag>
+<tag lemma="statisíc`100000" src="orig" selected="1">CzIP2----------</tag>
 </m>
 <m id="m-cmpr9410-028-p16s2w7">
 <src.rf>manual</src.rf>

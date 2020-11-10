@@ -1739,7 +1739,7 @@
 <form>Viktoria</form>
 <tag>
 <AM lemma="Viktoria-2_;m_^(jméno_sport.klubu)" src="auto">NNFS1-----A----</AM>
-<AM lemma="Viktoria_;Y_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Viktoria_;G_;Y_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-110-p1s11w13">

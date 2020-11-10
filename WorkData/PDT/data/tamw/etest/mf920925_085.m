@@ -801,7 +801,7 @@
 <LM>w#w-mf920925-085-p2s7w12</LM>
 </w.rf>
 <form>statisíců</form>
-<tag lemma="stotisíc`100000" src="orig" selected="1">CzIP2---------1</tag>
+<tag lemma="statisíc`100000" src="orig" selected="1">CzIP2----------</tag>
 </m>
 <m id="m-mf920925-085-p2s7w13">
 <src.rf>manual</src.rf>

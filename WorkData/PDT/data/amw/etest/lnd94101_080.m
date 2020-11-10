@@ -4899,7 +4899,7 @@
 <LM>w#w-lnd94101-080-p1s31w12</LM>
 </w.rf>
 <form>čtvrtfinále</form>
-<tag lemma="čtvrtfinále" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="čtvrtfinále" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-lnd94101-080-p1s31w13">
 <src.rf>manual</src.rf>

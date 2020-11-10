@@ -192,7 +192,7 @@
 <LM>w#w-mf930702-082-p1s2w1</LM>
 </w.rf>
 <form>Čtvrtfinále</form>
-<tag lemma="čtvrtfinále" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="čtvrtfinále" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-mf930702-082-p1s2w2">
 <src.rf>manual</src.rf>

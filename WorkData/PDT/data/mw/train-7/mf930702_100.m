@@ -1239,7 +1239,7 @@
 <tag>
 <AM lemma="tv_:B" src="orig">AAXXX----1A----</AM>
 <AM lemma="televize_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="televizní" src="auto" recommended="1" selected="1">AAXXX----1A---b</AM>
+<AM lemma="tv-88" src="auto" recommended="1" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930702-100-p34s1w6">

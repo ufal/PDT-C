@@ -567,7 +567,7 @@
 <AM lemma="Hekr_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Hekr_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="Hekra-2_;m" src="manual">NNFS1-----A----</AM>
-<AM lemma="Hekra-1_;m" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Hekra_;m" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-45-p2s4w12">

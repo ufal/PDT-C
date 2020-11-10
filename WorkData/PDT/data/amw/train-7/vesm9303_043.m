@@ -1111,7 +1111,7 @@
 <tag>
 <AM lemma="jihovýchod_:B_,x" src="orig">NNIXX-----A---8</AM>
 <AM lemma="jihovýchodně_^(*1í)" src="manual">Dg-------1A---8</AM>
-<AM lemma="jihovýchodně_^(*1í)" src="manual" selected="1">Dg-------1A---b</AM>
+<AM lemma="jihovýchodně" src="manual" selected="1">Dg-------1A---b</AM>
 </tag>
 </m>
 <m id="m-vesm9303-043-p3s1w19">

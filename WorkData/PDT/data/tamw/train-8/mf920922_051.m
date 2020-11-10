@@ -503,7 +503,7 @@
 <LM>w#w-mf920922-051-p2s3w2</LM>
 </w.rf>
 <form>semifinále</form>
-<tag lemma="semifinále" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="semifinále" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-mf920922-051-p2s3w3">
 <src.rf>manual</src.rf>

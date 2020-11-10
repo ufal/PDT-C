@@ -3658,7 +3658,7 @@
 <LM>w#w-ln94208-106-p8s2Aw8</LM>
 </w.rf>
 <form>semifinále</form>
-<tag lemma="semifinále" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="semifinále" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln94208-106-p8s2Aw9">
 <src.rf>manual</src.rf>

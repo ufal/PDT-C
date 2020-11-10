@@ -6083,7 +6083,7 @@
 <AM lemma="Elio_;m" src="auto">NNNS2-----A----</AM>
 <AM lemma="Elia_;Y_,t" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Elie_;Y" src="manual">NNMS2-----A----</AM>
-<AM lemma="Elie_;Y" src="manual" selected="1">NNMS2-----A---1</AM>
+<AM lemma="Elie_;Y" src="manual" selected="1">NNMS2-----A---3</AM>
 </tag>
 </m>
 <m id="m-wsj0741-001-p1s18W37-Ta">

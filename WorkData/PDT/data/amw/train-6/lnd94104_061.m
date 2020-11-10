@@ -2100,7 +2100,7 @@
 <AM lemma="Mangosuthu_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="Mangosuth_;Y" src="auto" recommended="1">NNMS3-----A---1</AM>
 <AM lemma="Mangosuth_;Y" src="auto">NNMS6-----A---1</AM>
-<AM lemma="Mangosuthu_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Mangosuthu_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-061-p1s15w8">

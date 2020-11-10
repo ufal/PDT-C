@@ -83,7 +83,7 @@
 <LM>w#w-ln94209-90-p1s1Aw9</LM>
 </w.rf>
 <form>osmifinále</form>
-<tag lemma="osmifinále" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="osmifinále" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln94209-90-p1s1Aw10">
 <src.rf>manual</src.rf>

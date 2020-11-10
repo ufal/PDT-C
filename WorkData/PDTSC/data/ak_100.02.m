@@ -239,7 +239,7 @@
 <AM lemma="Veverková_;Y_^(*3a)" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="Veverková_;Y_^(*3a)" src="auto">NNFS3-----A----</AM>
 <AM lemma="Veverková_;Y_^(*3a)" src="auto">NNFS6-----A----</AM>
-<AM lemma="Veverkův_;Y_^(*2a)" src="manual" selected="1">AUFS2M--------6</AM>
+<AM lemma="Veverkův_;Y" src="manual" selected="1">AUFS2M--------6</AM>
 </tag>
 </m>
 <m id="m100-d1t533-10">
@@ -363,7 +363,7 @@
 <AM lemma="Veverková_;Y_^(*3a)" src="auto">NNFS2-----A----</AM>
 <AM lemma="Veverková_;Y_^(*3a)" src="auto">NNFS3-----A----</AM>
 <AM lemma="Veverková_;Y_^(*3a)" src="auto">NNFS6-----A----</AM>
-<AM lemma="Veverkův_;Y_^(*2a)" src="manual" selected="1">AUFS2M--------6</AM>
+<AM lemma="Veverkův_;Y" src="manual" selected="1">AUFS2M--------6</AM>
 </tag>
 </m>
 <m id="m100-d1t533-25">

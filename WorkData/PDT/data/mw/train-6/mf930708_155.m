@@ -412,7 +412,7 @@
 <LM>w#w-mf930708-155-p10s1w6</LM>
 </w.rf>
 <form>tv</form>
-<tag lemma="televizní" src="orig" selected="1">AAXXX----1A---b</tag>
+<tag lemma="tv-88" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf930708-155-p10s1w7">
 <src.rf>manual</src.rf>
@@ -1103,7 +1103,7 @@
 <LM>w#w-mf930708-155-p28s1w15</LM>
 </w.rf>
 <form>tv</form>
-<tag lemma="televizní" src="orig" selected="1">AAXXX----1A---b</tag>
+<tag lemma="tv-88" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf930708-155-p28s1w16">
 <src.rf>manual</src.rf>
@@ -3022,7 +3022,7 @@
 <LM>w#w-mf930708-155-p76s1w6</LM>
 </w.rf>
 <form>tv</form>
-<tag lemma="televizní" src="orig" selected="1">AAXXX----1A---b</tag>
+<tag lemma="tv-88" src="orig" selected="1">BNXXX-----A----</tag>
 </m>
 <m id="m-mf930708-155-p76s1w7">
 <src.rf>manual</src.rf>

@@ -1170,7 +1170,7 @@
 <tag>
 <AM lemma="UNRRA" src="auto">NNXXX-----A---b</AM>
 <AM lemma="Unrra_,h" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="UNRRA_;m _^(United_Nations_Relief_and_Rehabilitation_Administration)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="UNRRA_;m_^(United_Nations_Relief_and_Rehabilitation_Administration)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m915-d1t824-2">
@@ -1212,7 +1212,7 @@
 <tag>
 <AM lemma="UNRRA" src="auto" recommended="1">NNXXX-----A---b</AM>
 <AM lemma="Unrra_,h" src="auto">NNFS1-----A----</AM>
-<AM lemma="UNRRA_;m _^(United_Nations_Relief_and_Rehabilitation_Administration)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="UNRRA_;m_^(United_Nations_Relief_and_Rehabilitation_Administration)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m915-d-id84429">
@@ -1626,7 +1626,7 @@
 <tag>
 <AM lemma="UNRRA" src="auto" recommended="1">NNXXX-----A---b</AM>
 <AM lemma="Unrra_,h" src="auto">NNFS1-----A----</AM>
-<AM lemma="UNRRA_;m _^(United_Nations_Relief_and_Rehabilitation_Administration)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="UNRRA_;m_^(United_Nations_Relief_and_Rehabilitation_Administration)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m915-d-id85064">
@@ -2759,7 +2759,7 @@
 <tag>
 <AM lemma="UNRRA" src="auto" recommended="1">NNXXX-----A---b</AM>
 <AM lemma="Unrra_,h" src="auto">NNFS1-----A----</AM>
-<AM lemma="UNRRA_;m _^(United_Nations_Relief_and_Rehabilitation_Administration)" src="manual" selected="1">BNXXX-----A----</AM>
+<AM lemma="UNRRA_;m_^(United_Nations_Relief_and_Rehabilitation_Administration)" src="manual" selected="1">BNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m915-d-id86795">

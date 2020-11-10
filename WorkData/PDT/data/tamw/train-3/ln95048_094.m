@@ -3159,7 +3159,7 @@
 <LM>w#w-ln95048-094-p5s3w1</LM>
 </w.rf>
 <form>Viktoria</form>
-<tag lemma="Viktoria_;Y_;m" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Viktoria_;G_;Y_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-ln95048-094-p5s3w2">
 <src.rf>manual</src.rf>

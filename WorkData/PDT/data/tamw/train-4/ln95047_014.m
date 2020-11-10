@@ -51,7 +51,7 @@
 <LM>w#w-ln95047-014-p1s1w5</LM>
 </w.rf>
 <form>Novu</form>
-<tag lemma="Nova_;m_^(televize)" src="orig" selected="1">NNFS4-----A----</tag>
+<tag lemma="Nova_;m" src="orig" selected="1">NNFS4-----A----</tag>
 </m>
 <m id="m-ln95047-014-p1s1w6">
 <src.rf>manual</src.rf>

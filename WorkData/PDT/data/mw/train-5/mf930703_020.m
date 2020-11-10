@@ -3176,7 +3176,7 @@
 <LM>w#w-mf930703-020-p4s8w9</LM>
 </w.rf>
 <form>statisíců</form>
-<tag lemma="stotisíc`100000" src="orig" selected="1">CzIP2---------1</tag>
+<tag lemma="statisíc`100000" src="orig" selected="1">CzIP2----------</tag>
 </m>
 <m id="m-mf930703-020-p4s8w10">
 <src.rf>manual</src.rf>

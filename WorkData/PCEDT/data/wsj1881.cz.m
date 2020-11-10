@@ -10810,7 +10810,7 @@
 <AM lemma="Helan_;G" src="auto">NNIS5-----A----</AM>
 <AM lemma="Helan_;G" src="auto" recommended="1">NNIS6-----A----</AM>
 <AM lemma="Helan_;Y" src="auto">NNMS5-----A----</AM>
-<AM lemma="Helane_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Helane_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1881-001-p1s38W2-Ta">

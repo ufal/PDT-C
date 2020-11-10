@@ -3905,7 +3905,7 @@
 <LM>w#w-vesm9212-012-p10s4w1</LM>
 </w.rf>
 <form>Glossopteridy</form>
-<tag lemma="Glossopteris_;U" src="orig" selected="1">NNIP1-----A----</tag>
+<tag lemma="Glossopteridy_;U" src="orig" selected="1">NNIP1-----A----</tag>
 </m>
 <m id="m-vesm9212-012-p10s4w2">
 <src.rf>manual</src.rf>

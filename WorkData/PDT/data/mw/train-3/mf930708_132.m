@@ -2182,7 +2182,7 @@
 <AM lemma="jam" src="auto">NNIS4-----A----</AM>
 <AM lemma="jamo" src="auto">NNNP2-----A----</AM>
 <AM lemma="jáma" src="auto">NNFP2-----A----</AM>
-<AM lemma="Jamajka_;G" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="Jamajka_;G" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930708-132-p3s18w4">

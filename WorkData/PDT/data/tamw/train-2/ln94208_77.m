@@ -960,7 +960,7 @@
 <LM>w#w-ln94208-77-p3s2w18</LM>
 </w.rf>
 <form>statisíců</form>
-<tag lemma="stotisíc`100000" src="orig" selected="1">CzIP2---------1</tag>
+<tag lemma="statisíc`100000" src="orig" selected="1">CzIP2----------</tag>
 </m>
 <m id="m-ln94208-77-p3s2w19">
 <src.rf>manual</src.rf>

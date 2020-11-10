@@ -11546,7 +11546,7 @@
 <LM>w#w-vesm9211-024-p24s3w8</LM>
 </w.rf>
 <form>statisíců</form>
-<tag lemma="stotisíc`100000" src="orig" selected="1">CzIP2---------1</tag>
+<tag lemma="statisíc`100000" src="orig" selected="1">CzIP2----------</tag>
 </m>
 <m id="m-vesm9211-024-p24s3w9">
 <src.rf>manual</src.rf>

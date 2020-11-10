@@ -5019,7 +5019,7 @@
 <LM>w#w-d1t2376-16</LM>
 </w.rf>
 <form>obcházenica</form>
-<tag lemma="obcházenice" src="auto" recommended="1">NNFS1-----A---1</tag>
+<tag lemma="obcházenice_,n" src="auto" recommended="1">NNFS1-----A---1</tag>
 </m>
 <m id="m007-5110-5123">
 <w.rf>

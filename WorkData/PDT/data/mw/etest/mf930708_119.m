@@ -45,7 +45,7 @@
 <LM>w#w-mf930708-119-p2s1w3</LM>
 </w.rf>
 <form>osmifinále</form>
-<tag lemma="osmifinále" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="osmifinále" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-mf930708-119-p2s1w4">
 <src.rf>manual</src.rf>
@@ -3300,7 +3300,7 @@
 <AM lemma="poloviční_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="pólo" src="auto">NNNP2-----A----</AM>
 <AM lemma="Polsko__;G" src="manual">NNNXX-----A---8</AM>
-<AM lemma="Polsko_;G" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="Polsko_;G" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-mf930708-119-p6s2w5">

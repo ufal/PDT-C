@@ -4417,7 +4417,7 @@
 <LM>w#w-mf920924-003-p8s6w15</LM>
 </w.rf>
 <form>semifinále</form>
-<tag lemma="semifinále" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="semifinále" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-mf920924-003-p8s6w16">
 <src.rf>manual</src.rf>

@@ -320,7 +320,7 @@
 <LM>w#w-ln95042-043-p2s2w5</LM>
 </w.rf>
 <form>semifinále</form>
-<tag lemma="semifinále" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="semifinále" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln95042-043-p2s2w6">
 <src.rf>manual</src.rf>

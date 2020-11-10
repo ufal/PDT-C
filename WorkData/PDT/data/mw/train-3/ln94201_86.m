@@ -2604,7 +2604,7 @@
 </w.rf>
 <form>Dona</form>
 <tag>
-<AM lemma="Dona_;m" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="Dona_;Y_;m" src="orig" selected="1">NNFS1-----A----</AM>
 <AM lemma="Don-1_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Don-1_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="don" src="auto" recommended="1">NNMS2-----A----</AM>

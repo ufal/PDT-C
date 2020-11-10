@@ -4106,7 +4106,7 @@
 <AM lemma="předkův-2_^(generačně)_(*5ek-2)" src="auto">AUIS5M---------</AM>
 <AM lemma="předkův-2_^(generačně)_(*5ek-2)" src="auto">AUMS1M---------</AM>
 <AM lemma="předkův-2_^(generačně)_(*5ek-2)" src="auto">AUMS5M---------</AM>
-<AM lemma="předek-2_^(generačně)" src="manual" selected="1">NNIP2-----A---3</AM>
+<AM lemma="předek-2_^(generačně)" src="manual" selected="1">NNMP2-----A---3</AM>
 </tag>
 </m>
 <m id="m-ln94207-90-p4s9w87">

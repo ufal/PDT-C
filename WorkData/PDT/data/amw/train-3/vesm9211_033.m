@@ -6459,7 +6459,7 @@
 <AM lemma="jen-2_^(japonská_měna)" src="auto">NNIS4-----A----</AM>
 <AM lemma="jen-3" src="auto">J,-------------</AM>
 <AM lemma="jen-4_^(pouze)" src="auto">Db-------------</AM>
-<AM lemma="Jen_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Jen_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-033-p10s3Aw5">
@@ -7143,7 +7143,7 @@
 <AM lemma="jen-2_^(japonská_měna)" src="auto">NNIS4-----A----</AM>
 <AM lemma="jen-3" src="auto">J,-------------</AM>
 <AM lemma="jen-4_^(pouze)" src="auto">Db-------------</AM>
-<AM lemma="Jen_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Jen_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-vesm9211-033-p10s5Aw5">

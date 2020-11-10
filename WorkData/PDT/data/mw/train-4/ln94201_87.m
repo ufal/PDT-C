@@ -6270,7 +6270,7 @@
 <AM lemma="Rumo_;G" src="auto">NNNP2-----A----</AM>
 <AM lemma="rum" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="rum" src="auto">NNIS4-----A----</AM>
-<AM lemma="Rumunsko_;G" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="Rumunsko_;G" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94201-87-p5s3w32">

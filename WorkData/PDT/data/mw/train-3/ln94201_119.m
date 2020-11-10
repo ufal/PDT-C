@@ -2487,7 +2487,7 @@
 </w.rf>
 <form>Judy</form>
 <tag>
-<AM lemma="Judy_;Y" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="Judy_;Y" src="orig" selected="1">NNFXX-----A----</AM>
 <AM lemma="Juda_;Y" src="auto">NNMP4-----A----</AM>
 <AM lemma="Juda_;Y" src="auto">NNMP7-----A----</AM>
 <AM lemma="Juda_;Y" src="auto" recommended="1">NNMS2-----A----</AM>

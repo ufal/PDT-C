@@ -2187,7 +2187,7 @@
 <LM>w#w-mf920923-042-p6s1w1</LM>
 </w.rf>
 <form>Viktoria</form>
-<tag lemma="Viktoria_;Y_;m" src="orig" selected="1">NNFS1-----A----</tag>
+<tag lemma="Viktoria_;G_;Y_;m" src="orig" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-mf920923-042-p6s1w2">
 <src.rf>manual</src.rf>

@@ -8145,7 +8145,7 @@
 <AM lemma="Moldávie_:B_;G" src="orig">NNFXX-----A---8</AM>
 <AM lemma="Mold_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Mold_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Moldávie_;G" src="manual" selected="1">NNFXX-----A---8</AM>
+<AM lemma="Moldávie_;G" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94201-79-p13s14w4">
@@ -8351,7 +8351,7 @@
 <AM lemma="Rumo_;G" src="auto">NNNP2-----A----</AM>
 <AM lemma="rum" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="rum" src="auto">NNIS4-----A----</AM>
-<AM lemma="Rumunsko_;G" src="manual" selected="1">NNNXX-----A---8</AM>
+<AM lemma="Rumunsko_;G" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-ln94201-79-p13s17w4">

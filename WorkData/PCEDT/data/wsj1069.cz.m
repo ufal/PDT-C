@@ -3296,7 +3296,7 @@
 <AM lemma="Denis_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
 <AM lemma="Denisa_;Y" src="auto">NNFS3-----A----</AM>
 <AM lemma="Denisa_;Y" src="auto">NNFS6-----A----</AM>
-<AM lemma="Denise_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Denise-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1069-001-p1s13W14-Ta">

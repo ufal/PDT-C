@@ -346,7 +346,7 @@
 <LM>w#w-lnd94103-113-p1s3w30</LM>
 </w.rf>
 <form>semifinále</form>
-<tag lemma="semifinále" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="semifinále" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-lnd94103-113-p1s3w31">
 <src.rf>manual</src.rf>

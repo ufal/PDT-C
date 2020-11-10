@@ -1036,7 +1036,7 @@
 <AM lemma="Dmitrij_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Dmitrij_;Y" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Dmitrij_;Y" src="auto">NNIS4-----A----</AM>
-<AM lemma="Dmitrij-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Dmitrij_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-077-p4s1w29">

@@ -813,7 +813,7 @@
 <LM>w#w-ln95044-024-p2s4w5</LM>
 </w.rf>
 <form>čtvrtfinále</form>
-<tag lemma="čtvrtfinále" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="čtvrtfinále" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln95044-024-p2s4w6">
 <src.rf>manual</src.rf>

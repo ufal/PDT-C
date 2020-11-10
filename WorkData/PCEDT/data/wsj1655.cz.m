@@ -4445,7 +4445,7 @@
 <form>Donou</form>
 <tag>
 <AM lemma="Donou" src="auto">X@-------------</AM>
-<AM lemma="Dona_;Y" src="manual" selected="1">NNFS7-----A----</AM>
+<AM lemma="Dona_;Y_;m" src="manual" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1655-001-p1s9W29-Ta">

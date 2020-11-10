@@ -2535,7 +2535,7 @@
 </w.rf>
 <form>Peta</form>
 <tag>
-<AM lemma="Pete_;Y" src="orig" selected="1">NNMS4-----A----</AM>
+<AM lemma="Pete_;Y" src="orig" selected="1">NNMS4-----A---1</AM>
 <AM lemma="Peto_;G" src="auto">NNNP1-----A----</AM>
 <AM lemma="Peto_;G" src="auto" recommended="1">NNNP4-----A----</AM>
 <AM lemma="Peto_;G" src="auto">NNNP5-----A----</AM>

@@ -1353,7 +1353,7 @@
 <AM lemma="odpolední" src="auto">AAMP6----1A----</AM>
 <AM lemma="odpolední" src="auto">AANP2----1A----</AM>
 <AM lemma="odpolední" src="auto">AANP6----1A----</AM>
-<AM lemma="odpoledne-2" src="manual" selected="1">NNNP6-----A---1</AM>
+<AM lemma="odpoledne-2" src="manual" selected="1">NNNP6-----A---3</AM>
 </tag>
 </m>
 <m id="m-wsj1643-001-p1s4W29-Ta">

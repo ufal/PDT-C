@@ -43,7 +43,7 @@
 <LM>w#w-mf930709-091-p1s1w4</LM>
 </w.rf>
 <form>čtvrtfinále</form>
-<tag lemma="čtvrtfinále" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="čtvrtfinále" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 </s>
 <s id="m-mf930709-091-p2s1">
@@ -69,7 +69,7 @@
 <LM>w#w-mf930709-091-p2s1w3</LM>
 </w.rf>
 <form>osmifinále</form>
-<tag lemma="osmifinále" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="osmifinále" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-mf930709-091-p2s1w4">
 <src.rf>manual</src.rf>

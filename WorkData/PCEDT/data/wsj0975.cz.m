@@ -5438,7 +5438,7 @@
 <tag>
 <AM lemma="Glorie_;Y_,t" src="auto">NNFS1-----A---1</AM>
 <AM lemma="gloria_,t" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Glorie_;Y" src="manual" selected="1">NNFS1-----A---1</AM>
+<AM lemma="Glorie_;Y_;m" src="manual" selected="1">NNFS1-----A---1</AM>
 </tag>
 </m>
 <m id="m-wsj0975-001-p1s16W24-Ta">

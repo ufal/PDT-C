@@ -659,7 +659,7 @@
 </w.rf>
 <form>Mar</form>
 <tag>
-<AM lemma="Maroko_;G" src="orig" selected="1">NNNXX-----A---b</AM>
+<AM lemma="Maroko_;G" src="orig" selected="1">NNNXX-----A---a</AM>
 <AM lemma="Mar_:B" src="auto" recommended="1">Xx-------------</AM>
 <AM lemma="Mar_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Mar_;G" src="auto">NNIS4-----A----</AM>

@@ -407,7 +407,7 @@
 <AM lemma="Judit_;Y" src="orig">NNFXX-----A----</AM>
 <AM lemma="Judita_;Y" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="judita" src="auto">NNFP2-----A----</AM>
-<AM lemma="Judit_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Judit_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920925-048-p2s2w18">

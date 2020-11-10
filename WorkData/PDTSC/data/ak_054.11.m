@@ -642,7 +642,7 @@
 <AM lemma="Lukášová_;Y" src="auto">NNFS6-----A----</AM>
 <AM lemma="Lukášův_;Y_^(*2)" src="manual">AUFS2M--------6</AM>
 <AM lemma="Lukášův_;Y_^(*2)" src="manual">AUFS2M--------6</AM>
-<AM lemma="Lukášův_;Y_^(*2)" src="manual" selected="1">AUFS2M--------9</AM>
+<AM lemma="Lukášův_;Y" src="manual" selected="1">AUFS2M--------9</AM>
 </tag>
 </m>
 <m id="m054-d1t2548-2">

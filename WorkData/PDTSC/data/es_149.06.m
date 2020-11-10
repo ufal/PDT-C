@@ -3509,7 +3509,7 @@
 <AM lemma="semifinále" src="auto">NNNS3-----A----</AM>
 <AM lemma="semifinále" src="auto">NNNS4-----A----</AM>
 <AM lemma="semifinále" src="auto">NNNS5-----A----</AM>
-<AM lemma="semifinále" src="auto" recommended="1">NNNS6-----A----</AM>
+<AM lemma="semifinále" src="auto" recommended="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m149-d1e1431-x2-136">

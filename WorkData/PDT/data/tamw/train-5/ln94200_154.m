@@ -1053,7 +1053,7 @@
 <tag>
 <AM lemma="Vin_;Y" src="orig">NNFXX-----A----</AM>
 <AM lemma="vina" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="Vin_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Vin_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94200-154-p11s4w3">

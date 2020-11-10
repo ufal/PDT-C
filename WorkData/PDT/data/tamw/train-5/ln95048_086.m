@@ -162,7 +162,7 @@
 <LM>w#w-ln95048-086-p2s1w9</LM>
 </w.rf>
 <form>semifinále</form>
-<tag lemma="semifinále" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="semifinále" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln95048-086-p2s1w10">
 <src.rf>manual</src.rf>

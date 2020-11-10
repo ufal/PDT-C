@@ -1863,7 +1863,7 @@
 <LM>w#w-d1t743-14</LM>
 </w.rf>
 <form>červena</form>
-<tag lemma="červeno-2_;o" src="auto" recommended="1">NNNS2-----A----</tag>
+<tag lemma="červeno-2" src="auto" recommended="1">NNNS2-----A----</tag>
 </m>
 <m id="m064-73-74">
 <w.rf>

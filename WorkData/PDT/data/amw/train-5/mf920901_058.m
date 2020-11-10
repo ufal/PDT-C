@@ -1341,7 +1341,7 @@
 <LM>w#w-mf920901-058-p5s1w18</LM>
 </w.rf>
 <form>semifinále</form>
-<tag lemma="semifinále" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="semifinále" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-mf920901-058-p5s1w19">
 <src.rf>manual</src.rf>

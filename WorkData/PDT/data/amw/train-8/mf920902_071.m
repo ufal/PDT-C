@@ -51,7 +51,7 @@
 <LM>w#w-mf920902-071-p1s1w5</LM>
 </w.rf>
 <form>semifinále</form>
-<tag lemma="semifinále" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="semifinále" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 </s>
 <s id="m-mf920902-071-p2s1">
@@ -336,7 +336,7 @@
 <LM>w#w-mf920902-071-p2s1w35</LM>
 </w.rf>
 <form>semifinále</form>
-<tag lemma="semifinále" src="orig" selected="1">NNNS2-----A----</tag>
+<tag lemma="semifinále" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-mf920902-071-p2s1w36">
 <src.rf>manual</src.rf>

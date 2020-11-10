@@ -1394,7 +1394,7 @@
 <LM>w#w-ln95046-034-p3s7w12</LM>
 </w.rf>
 <form>semifinále</form>
-<tag lemma="semifinále" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="semifinále" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-ln95046-034-p3s7w13">
 <src.rf>manual</src.rf>

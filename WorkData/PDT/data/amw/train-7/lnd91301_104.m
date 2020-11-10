@@ -324,7 +324,7 @@
 <LM>w#w-lnd91301-104-p7s1w2</LM>
 </w.rf>
 <form>semifinále</form>
-<tag lemma="semifinále" src="orig" selected="1">NNNS6-----A----</tag>
+<tag lemma="semifinále" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-lnd91301-104-p7s1w3">
 <src.rf>manual</src.rf>

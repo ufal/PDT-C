@@ -4709,7 +4709,7 @@
 <tag>
 <AM lemma="kotlářka_^(*2)" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Kotlářka_;G" src="manual">NNFS1-----A----</AM>
-<AM lemma="Kotlářka_;Y_^(*2)" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Kotlářka_;G_;Y_^(*2)" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m126-d1e522-x3-921">

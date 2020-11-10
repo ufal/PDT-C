@@ -7044,7 +7044,7 @@
 <AM lemma="Juda_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="judo" src="auto">NNNP7-----A----</AM>
 <AM lemma="Judy_;Y" src="manual">NNFXX-----A----</AM>
-<AM lemma="Judy_;Y" src="manual" selected="1">NNFS4-----A----</AM>
+<AM lemma="Judy_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0207-001-p1s19W23-Ta">

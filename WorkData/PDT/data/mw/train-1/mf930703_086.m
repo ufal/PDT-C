@@ -452,7 +452,7 @@
 <LM>w#w-mf930703-086-p4s1w6</LM>
 </w.rf>
 <form>osmifinále</form>
-<tag lemma="osmifinále" src="orig" selected="1">NNNS1-----A----</tag>
+<tag lemma="osmifinále" src="orig" selected="1">NNNXX-----A----</tag>
 </m>
 <m id="m-mf930703-086-p4s1w7">
 <src.rf>manual</src.rf>
@@ -497,7 +497,7 @@
 </w.rf>
 <form>Mar</form>
 <tag>
-<AM lemma="Maroko_;G" src="orig" selected="1">NNNXX-----A---b</AM>
+<AM lemma="Maroko_;G" src="orig" selected="1">NNNXX-----A---a</AM>
 <AM lemma="Mar_:B" src="auto">Xx-------------</AM>
 <AM lemma="Mar_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Mar_;G" src="auto">NNIS4-----A----</AM>
