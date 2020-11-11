@@ -84,6 +84,12 @@
       <member name="sentence" required="0"> <!-- for searching in PML-TQ only (not in the distributed data) -->
         <cdata format="any"/>
       </member>
+      <member name="eng_sentence" required="0"> <!-- PCEDT-->
+        <cdata format="any"/>
+      </member>
+      <member name="annot_comment"> <!-- for data from PCEDT-cz annotation project; to be deleted -->
+        <list ordered="0" type="comment.type"/>
+      </member>
     </structure>
   </type>
 
@@ -162,6 +168,11 @@
           <cdata format="PMLREF"/>
         </list>
       </member>
+      <member name="coref_text.rf"> <!-- to be deleted -->
+        <list ordered="0">
+          <cdata format="PMLREF"/>
+        </list>
+      </member>
       <member name="coref_special" type="coref_special.type"/>
       <member name="compl.rf">
         <list ordered="0">
@@ -176,8 +187,59 @@
       <member name="children" role="#CHILDNODES">
         <list ordered="1" type="t-node.type"/>
       </member>
+      <member name="annot_comment"> <!-- for data from PCEDT-cz annotation project; to be deleted -->
+        <list ordered="0" type="comment.type"/>
+      </member>
+      <member name="is_unchecked" type="bool.type"/> <!-- to be deleted -->
+      <member name="is_deleted" type="bool.type"/> <!-- to be deleted -->
+      <member name="is_added" type="bool.type"/> <!-- to be deleted -->
+      <member name="is_exception" type="bool.type"/> <!-- to be deleted -->
     </structure>
   </type>
+
+  <member name="annot_comment"> <!-- for data from PCEDT-cz annotation project; to be deleted -->
+    <list ordered="0" type="comment.type"/>
+  </member>
+
+  <type name="comment.type"> <!-- for data from PCEDT-cz TFA annotation project -->
+    <structure>
+      <member name="type" required="1" type="comment_type.type"/>
+      <member name="text"><cdata format="any" /></member>
+    </structure>
+  </type>
+
+  <type name="comment_type.type"> <!-- for data from PCEDT-cz annotation project; to be deleted -->
+    <choice>
+      <value>Coref</value>
+      <value>Functor</value>
+      <value>M-lemma</value>
+      <value>M-tag</value>
+      <value>Sentence segmentation</value>
+      <value>Structure</value>
+      <value>T-lemma with underscore</value>
+      <value>T-lemma</value>
+      <value>Translation</value>
+      <value>Reconstruction</value>
+      <value>Typo</value>
+      <value>Vallex</value>
+      <value>New valency frame</value>
+      <value>Word segmentation</value>
+      <value>Re-generate</value>
+      <value>Not annotated</value>
+      <value>Secondary preposition</value>
+      <value>Document split</value>
+      <value>TFA</value>
+      <value>TFA_log</value>
+      <value>Hyphen_NP</value> <!-- for compatibility with PCEDT-en files -->
+      <value>Nominalisation</value> <!-- for compatibility with PCEDT-en files -->
+      <value>Wrong m-tag</value> <!-- for compatibility with PCEDT-en files -->
+      <value>Aux right</value> <!-- for compatibility with PCEDT-en files -->
+      <value>CPA</value> <!-- for compatibility with PCEDT-en files -->
+      <value>Coref structure</value> <!-- for compatibility with PCEDT-en files -->
+      <value>Other</value>
+    </choice>
+  </type>
+
 
   <type name="t-tfa.type">
     <choice>
@@ -205,7 +267,37 @@
       <member name="negation" type="t-negation.type"/>
       <member name="diatgram" type="t-diatgram.type"/>
       <member name="factmod" type="t-factmod.type"/>
+      <member name="verbmod" type="t-verbmod.type"/> <!-- to be deleted -->
+      <member name="resultative" type="t-resultative.type"/> <!-- to be deleted -->
+      <member name="dispmod" type="t-dispmod.type"/> <!-- to be deleted -->
     </structure>
+  </type>
+
+  <type name="t-verbmod.type"> <!-- to be deleted -->
+    <choice>
+      <value>ind</value>
+      <value>imp</value>
+      <value>cdn</value>
+      <value>nr</value>
+      <value>nil</value>
+    </choice>
+  </type>
+
+  <type name="t-dispmod.type"> <!-- to be deleted -->
+    <choice>
+      <value>disp1</value>
+      <value>disp0</value>
+      <value>nr</value>
+      <value>nil</value>
+    </choice>
+  </type>
+
+  <type name="t-resultative.type"> <!-- to be deleted -->
+    <choice>
+      <value>res1</value>
+      <value>res0</value>
+      <value>nr</value>
+    </choice>
   </type>
 
   <type name="t-diatgram.type">
@@ -668,10 +760,19 @@
   
   <type name="t-bridging-link.type">
     <structure>
-      <member name="target_node.rf" required="1">
-        <cdata format="PMLREF"/>
+      <member name="target_node.rf" required="0"> <!-- required="1" in final data -->
+        <cdata format="PMLREF"/></member>
+      <member name="target-node.rf" required="0"> <!-- to be deleted -->
+        <cdata format="PMLREF"/></member>
+      <member name="type" type="t-bridging-type.type" required="0"/> <!-- required="1" in final data -->
+      <member name="informal-type" type="t-bridging-type.type" required="0"/> <!-- to be deleted -->
+      <member name="src" required="0"> <!-- to be deleted -->
+        <cdata format="any"/>
       </member>
-      <member name="type" type="t-bridging-type.type" required="1"/>
+      <member name="str_comment" required="0"> <!-- to be deleted -->
+        <list ordered="0" type="anaph_str_comment.type">
+        </list>
+      </member>
     </structure>
   </type>
 
@@ -691,13 +792,45 @@
 
   <type name="t-coref_text-link.type">
     <structure>
-      <member name="target_node.rf" required="1">
+      <member name="target_node.rf" required="0"> <!-- required="1" in final data -->
         <cdata format="PMLREF"/></member>
-      <member name="type" required="1">
+      <member name="target-node.rf" required="0"> <!-- to be deleted -->
+        <cdata format="PMLREF"/></member>
+      <member name="type" required="0"> <!-- required="1" in final data -->
         <choice>
           <value>SPEC</value>
           <value>GEN</value>
         </choice>
+      </member>
+      <member name="informal-type" required="0"> <!-- to be deleted -->
+        <choice>
+          <value>SPEC</value>
+          <value>GEN</value>
+        </choice>
+      </member>
+      <member name="src" required="0"> <!-- to be deleted -->
+        <cdata format="any"/>
+      </member>
+      <member name="comment" required="0"> <!-- appears in PCEDT in file wsj0320.cz.t; to be deleted -->
+        <cdata format="any"/>
+      </member>
+      <member name="str_comment" required="0"> <!-- to be deleted -->
+        <list ordered="0" type="anaph_str_comment.type">
+        </list>
+      </member>
+    </structure>
+  </type>
+
+  <type name="anaph_str_comment.type"> <!-- to be deleted -->
+    <structure>
+      <member name="name">
+        <choice>
+          <value>AMBIG</value>
+          <value>OTHER</value>
+        </choice>
+      </member>
+      <member name="comment">
+        <cdata format="any"/>
       </member>
     </structure>
   </type>

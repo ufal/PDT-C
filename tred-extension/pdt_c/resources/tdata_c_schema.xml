@@ -84,6 +84,9 @@
       <member name="sentence" required="0"> <!-- for searching in PML-TQ only (not in the distributed data) -->
         <cdata format="any"/>
       </member>
+      <member name="eng_sentence" required="0"> <!-- PCEDT -->
+        <cdata format="any"/>
+      </member>
     </structure>
   </type>
 
