@@ -58,8 +58,10 @@
       </member>
       <member name="form_change" type="m-form_change.type"/>
       <member name="form" required="1"><cdata format="any"/></member>
-      <member name="lemma" required="1"><cdata format="any"/></member>
-      <member name="tag" required="1"><cdata format="any"/></member>
+      <member name="lemma" required="0"><cdata format="any"/></member>
+      <member name="tag" required="0"><cdata format="any"/></member>
+      <member name="mtag" required="1" type="m-mtag.type"/>
+      <member name="comment" type="m-comment.list.type"/>
     </structure>
   </type>
 
@@ -69,6 +71,46 @@
       <value>spell</value>
       <value>insert</value>
       <value>num_normalization</value>
+    </choice>
+  </type>
+
+  <type name="m-mtag.type">
+    <alt>
+      <container>
+        <cdata format="any"/>
+        <attribute name="lemma" required="1">
+          <cdata format="any"/>
+        </attribute>
+        <attribute name="src" type="m-src.type"/>
+        <attribute name="recommended" type="bool.type"/>
+        <attribute name="selected" type="bool.type"/>
+      </container>
+    </alt>
+  </type>
+
+  <type name="m-src.type">
+    <choice>
+      <value>auto</value>
+      <value>orig</value>
+      <value>manual</value>
+    </choice>
+  </type>
+
+  <type name="m-comment.list.type">
+    <list type="m-comment.type"/>
+  </type>
+
+  <type name="m-comment.type">
+    <structure>
+      <member name="type" required="1" type="m-comment-type.type" as_attribute="1"/>
+      <member name="text"><cdata format="any"/></member>
+    </structure>
+  </type>
+  
+  <type name="m-comment-type.type">
+    <choice>
+      <value>New Form</value>
+      <value>Other</value>
     </choice>
   </type>
 

@@ -1,4 +1,4 @@
-#!btred -TN --context PDT_C_T -e old2new()
+#!btred -TN --context PDT_C_T -e old2new_t()
 #-*- cperl -*-
 # Author: Jiri Mirovsky
 
@@ -6,13 +6,13 @@
 #include <tred.mac>
 #endif
 
-=item old2new
+=item old2new_t
 
 Transforms the old annotation schema to the new one:
 - informal-type -> type
 - target-node.rf -> target_node.rf
 
-And deletes attributes that should not be in the final PDT-C distribution:
+Deletes attributes that should not be in the final PDT-C distribution:
 - gram/verbmod
 - gram/resultative
 - gram/dispmod
@@ -37,7 +37,7 @@ binmode STDOUT, ':utf8';
 binmode STDERR, ':utf8';
 
 
-sub old2new {
+sub old2new_t {
 
   my $id = $this->attr('id');
   foreach my $gram (qw(verbmod resultative dispmod)) {
@@ -96,7 +96,7 @@ sub old2new {
     ChangingFile(1);
   }
 
-} # old2new
+} # old2new_t
 
 
 

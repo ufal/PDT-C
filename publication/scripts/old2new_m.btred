@@ -1,0 +1,93 @@
+#!btred -TN --context PDT_C_M -e old2new_m()
+#-*- cperl -*-
+# Author: Jiri Mirovsky
+
+#ifndef NTRED
+#include <tred.mac>
+#endif
+
+=item old2new_m
+
+Leaves only one lemma and tag if there are several choices, fills the values in separate lemma and tag (no attributes).
+
+=cut
+
+package PDT_C_M;
+
+use strict;
+use warnings;
+
+#encoding utf8
+use utf8;
+binmode STDIN, ':utf8';
+binmode STDOUT, ':utf8';
+binmode STDERR, ':utf8';
+
+
+sub old2new_m {
+
+  return if $this eq $root;
+  my $id = $this->attr('id');
+  my @mtags = AltV($this->attr('mtag'));
+  if (!@mtags) {
+    print STDERR "No tag at $id\n";
+    return;
+  }
+  my $tag;
+  my $lemma;
+  my $status;
+  # print STDERR "id: $id\n";
+  # my $count = scalar(@mtags);
+  # print STDERR " - $count tags\n";
+  foreach my $mtag (@mtags) {
+    my $one_tag = $mtag->{'#content'};
+    my $one_lemma = $mtag->{'lemma'};
+    my $is_selected = $mtag->{'selected'} // 0;
+    my $is_recommended = $mtag->{'recommended'} // 0;
+    # print STDERR "  lemma=$one_lemma, tag=$one_tag, is_recommended=$is_recommended, is_selected=$is_selected\n"; 
+    if (!$status or ($status eq 'first' and ($is_recommended or $is_selected)) or ($status eq 'recommended' and $is_selected)) {
+      $tag = $one_tag;
+      $lemma = $one_lemma;
+      if ($is_selected) {
+        $status = 'selected';
+        last;
+      }
+      elsif ($is_recommended) {
+        $status = 'recommended';
+      }
+      else {
+        $status = 'first';
+      }
+    }
+  }
+
+  if (!$status) {
+    print STDERR "No status at $id!\n";
+  }
+  elsif ($status eq 'first') {
+    if (scalar(@mtags) != 1) {
+      print STDERR "Multiple lemma-tag choices at $id but no is_selected or is_recommended!\n";
+    }
+    else {
+      print STDERR "The only choice of lemma-tag left at $id\n";
+      $this->set_attr('lemma', $lemma);
+      $this->set_attr('mtag', undef);
+      $this->set_attr('tag', $tag);
+      ChangingFile(1);
+    }
+  }
+  elsif ($status eq 'recommended' or $status eq 'selected') {
+    print STDERR "Status $status used for selecting lemma-tag at $id\n";
+    $this->set_attr('lemma', $lemma);
+    $this->set_attr('mtag', undef);
+    $this->set_attr('tag', $tag);
+    ChangingFile(1);
+  }
+  else {
+    print STDRR "Unexpected status at $id ($status)!\n";
+  }
+
+} # old2new_m
+
+
+

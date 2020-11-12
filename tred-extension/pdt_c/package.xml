@@ -6,7 +6,7 @@
   <pkgname>pdt_c</pkgname>
   <repository href="http://ufal.mff.cuni.cz/tred/extensions/external/"/>
   <title>Prague Dependency Treebank - Consolidated</title>
-  <version>1.01</version>
+  <version>1.03</version>
   <copyright year="2020">Jiří Mírovský, Jan Štěpánek, Petr Pajas, Zdeněk Žabokrtský</copyright>
   <icon>icons/logo.png</icon>
   <require>

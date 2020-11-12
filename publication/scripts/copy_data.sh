@@ -18,7 +18,7 @@ echo "Copying Faust m-files"
 
 for A in $BASE/$SRC/*.m; do
   B="$(basename -- $A)"
-  cat $A | sed "s/mdata_.*schema.xml/mdata_c_schema.xml/" >$BASE/$TGT/$B
+  cat $A | sed "s/mdata_.*schema.xml/mdata_c_schema_work.xml/" | sed 's/<tag/<mtag/' | sed 's/<\/tag>/<\/mtag>/' >$BASE/$TGT/$B
 done
 
 echo "Copying Faust a-files"
@@ -54,7 +54,7 @@ echo "Copying PCEDT m-files"
 
 for A in $BASE/$SRC/*.m; do
   B="$(basename -- $A)"
-  cat $A | sed "s/mdata_.*schema.xml/mdata_c_schema.xml/" >$BASE/$TGT/$B
+  cat $A | sed "s/mdata_.*schema.xml/mdata_c_schema_work.xml/" | sed 's/<tag/<mtag/' | sed 's/<\/tag>/<\/mtag>/' >$BASE/$TGT/$B
 done
 
 echo "Copying PCEDT a-files"
@@ -106,7 +106,7 @@ for PART in train-1 train-2 train-3 train-4 train-5 train-6 train-7 train-8 dtes
 
     for A in $BASE/$SRC/$SET/$PART/*.m; do
       B="$(basename -- $A)"
-      cat $A | sed "s/mdata_.*schema.xml/mdata_c_schema.xml/" >$BASE/$TGT/$SET/$PART/$B
+      cat $A | sed "s/mdata_.*schema.xml/mdata_c_schema_work.xml/" | sed 's/<tag/<mtag/' | sed 's/<\/tag>/<\/mtag>/' >$BASE/$TGT/$SET/$PART/$B
     done
 
   done
@@ -150,7 +150,7 @@ echo "Copying PDTSC m-files"
 
 for A in $BASE/$SRC/*.m; do
   B="$(basename -- $A)"
-  cat $A | sed "s/mdata_.*schema.xml/mdata_c_schema.xml/" >$BASE/$TGT/$B
+  cat $A | sed "s/mdata_.*schema.xml/mdata_c_schema_work.xml/" | sed 's/<tag/<mtag/' | sed 's/<\/tag>/<\/mtag>/' >$BASE/$TGT/$B
 done
 
 echo "Copying PDTSC a-files"
