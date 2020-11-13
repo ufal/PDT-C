@@ -1449,7 +1449,7 @@
  <s stype="question" w-speaker.rf="spk1" id="m-d1e123-x2" w-begin.rf="w#d1t130-1" w-end.rf="w#d1t130-5">
   <m>
    <AM id="m-d1t130-1">
-    <form>Zatancovaly</form>
+    <form>Zatancovali</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t130-1</w.rf>
@@ -7789,7 +7789,7 @@
   </m>
   <m>
    <AM id="m-d1t608-2">
-    <form>vpozadí</form>
+    <form>v</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t608-2</w.rf>

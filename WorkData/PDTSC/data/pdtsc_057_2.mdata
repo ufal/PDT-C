@@ -9215,7 +9215,7 @@
  <s stype="information" w-speaker.rf="spk1" id="m-d1e1026-x2" w-begin.rf="w#d1e1030" w-end.rf="w#d1t1044-9">
   <m>
    <AM id="m-d1t1033-3">
-    <form>Prvím</form>
+    <form>Prvním</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t1033-3</w.rf>
@@ -16403,7 +16403,7 @@
  <s stype="information" w-speaker.rf="spk1" id="m-d1e1734-x2" w-begin.rf="w#d1t1737-1" w-end.rf="w#d1e1740">
   <m>
    <AM id="m-d1t1737-3">
-    <form>Mlioš</form>
+    <form>Miloš</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t1737-3</w.rf>
@@ -28566,7 +28566,7 @@
   </m>
   <m>
    <AM id="m-d1t2729-7">
-    <form>dalš</form>
+    <form>další</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t2729-7</w.rf>

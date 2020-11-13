@@ -419,7 +419,7 @@
  <s stype="instruction" w-speaker.rf="spk1" id="m-9" w-begin.rf="w#d1t47-1" w-end.rf="w#d1t47-4">
   <m>
    <AM id="m-d1t47-1">
-    <form>Začněmě</form>
+    <form>Začněme</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t47-1</w.rf>
@@ -10209,7 +10209,7 @@
   </m>
   <m>
    <AM id="m-d1t619-8">
-    <form>Anětou</form>
+    <form>Anetou</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t619-8</w.rf>
@@ -11256,7 +11256,7 @@
   </m>
   <m>
    <AM id="m-d1t694-5">
-    <form>návětěvu</form>
+    <form>návštěvu</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t694-5</w.rf>
@@ -38037,7 +38037,7 @@
   </m>
   <m>
    <AM id="m-d1t2202-11">
-    <form>módistka</form>
+    <form>modistka</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t2202-11</w.rf>
@@ -42482,7 +42482,7 @@
   </m>
   <m>
    <AM id="m-d1t2441-6">
-    <form>čyřletá</form>
+    <form>čtyřletá</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t2441-6</w.rf>
@@ -43515,7 +43515,7 @@
   </m>
   <m>
    <AM id="m-d1t2489-15">
-    <form>8.</form>
+    <form>8</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t2489-15</w.rf>
@@ -45440,7 +45440,7 @@
   </m>
   <m>
    <AM id="m-d1t2584-1">
-    <form>4.</form>
+    <form>4</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t2584-1</w.rf>

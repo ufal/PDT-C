@@ -850,7 +850,7 @@
  <s stype="information" w-speaker.rf="spk1" id="m-29" w-begin.rf="w#d1t80-11" w-end.rf="w#d1t80-16">
   <m>
    <AM id="m-d1t80-12">
-    <form>Tam</form>
+    <form>Těm</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t80-12</w.rf>
@@ -1115,7 +1115,7 @@
  <s stype="information" w-speaker.rf="spk1" id="m-40" w-begin.rf="w#d1t102-6" w-end.rf="w#d1t102-16">
   <m>
    <AM id="m-d1t102-7">
-    <form>Tam</form>
+    <form>Těm</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t102-7</w.rf>
@@ -4190,7 +4190,7 @@
  <s stype="information" w-speaker.rf="spk1" id="m-d1e343-x2" w-begin.rf="w#d1e334" w-end.rf="w#d1e349">
   <m>
    <AM id="m-d1t346-1">
-    <form>Tam</form>
+    <form>Těm</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t346-1</w.rf>
@@ -7863,7 +7863,7 @@
  <s stype="information" w-speaker.rf="spk1" id="m-282" w-begin.rf="w#d1e631" w-end.rf="w#d1t632-14">
   <m>
    <AM id="m-d1t632-2">
-    <form>Tam</form>
+    <form>Těm</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t632-2</w.rf>
@@ -8124,7 +8124,7 @@
  <s stype="information" w-speaker.rf="spk1" id="m-287" w-begin.rf="w#d1t639-3" w-end.rf="w#d1t639-9">
   <m>
    <AM id="m-d1t639-4">
-    <form>Tam</form>
+    <form>Těm</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t639-4</w.rf>
@@ -8188,7 +8188,7 @@
  <s stype="information" w-speaker.rf="spk1" id="m-289" w-begin.rf="w#d1t639-11" w-end.rf="w#d1t639-15">
   <m>
    <AM id="m-289-166">
-    <form>Tam</form>
+    <form>Těm</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t639-11</w.rf>
@@ -9367,7 +9367,7 @@
  <s stype="information" w-speaker.rf="spk1" id="m-341" w-begin.rf="w#d1e726" w-end.rf="w#d1t727-7">
   <m>
    <AM id="m-d1t727-2">
-    <form>Tam</form>
+    <form>Těm</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t727-2</w.rf>
@@ -12295,7 +12295,7 @@
  <s stype="information" w-speaker.rf="spk1" id="m-369" w-begin.rf="w#d1t854-5" w-end.rf="w#d1t856-8">
   <m>
    <AM id="m-d1t854-6">
-    <form>Tam</form>
+    <form>Těm</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t854-6</w.rf>
@@ -19127,7 +19127,7 @@
  <s stype="information" w-speaker.rf="spk1" id="m-362" w-begin.rf="w#d1t1265-15" w-end.rf="w#d1t1265-21">
   <m>
    <AM id="m-d1t1265-15">
-    <form>Tam</form>
+    <form>Těm</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t1265-15</w.rf>
@@ -24643,7 +24643,7 @@
  <s stype="information" w-speaker.rf="spk1" id="m-617" w-begin.rf="w#d1t1661-10" w-end.rf="w#d1t1663-2">
   <m>
    <AM id="m-d1t1661-10">
-    <form>Tam</form>
+    <form>Těm</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t1661-10</w.rf>
@@ -26035,7 +26035,7 @@
   </m>
   <m>
    <AM id="m-d1t1754-13">
-    <form>2,5</form>
+    <form>2.5</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t1754-13</w.rf>
@@ -31003,7 +31003,7 @@
   </m>
   <m>
    <AM id="m-d1t2037-2">
-    <form>1,2</form>
+    <form>1.2</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t2037-2</w.rf>
@@ -37644,7 +37644,7 @@
   </m>
   <m>
    <AM id="m-d1t2457-3">
-    <form>tapicírung</form>
+    <form>tapecírunk</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t2457-3</w.rf>
@@ -41879,7 +41879,7 @@
  <s stype="information" w-speaker.rf="spk1" id="m-93" w-begin.rf="w#d1t2702-9" w-end.rf="w#d1t2702-15">
   <m>
    <AM id="m-d1t2702-9">
-    <form>Tam</form>
+    <form>Těm</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t2702-9</w.rf>
@@ -43176,7 +43176,7 @@
  <s stype="information" w-speaker.rf="spk1" id="m-174" w-begin.rf="w#d1e2765" w-end.rf="w#d1t2766-13">
   <m>
    <AM id="m-d1t2766-6">
-    <form>Tam</form>
+    <form>Těm</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t2766-6</w.rf>
@@ -45994,7 +45994,7 @@
  <s stype="information" w-speaker.rf="spk1" id="m-285" w-begin.rf="w#d1e2909" w-end.rf="w#d1e2911">
   <m>
    <AM id="m-d1t2910-1">
-    <form>Tam</form>
+    <form>Těm</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t2910-1</w.rf>
@@ -46444,7 +46444,7 @@
  <s stype="information" w-speaker.rf="spk1" id="m-d1e2950-x2" w-begin.rf="w#d1e2948" w-end.rf="w#d1t2955-9">
   <m>
    <AM id="m-d1t2955-1">
-    <form>Tam</form>
+    <form>Těm</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t2955-1</w.rf>
@@ -48625,7 +48625,7 @@
   </m>
   <m>
    <AM id="m-d1t3061-4">
-    <form>3,20</form>
+    <form>3.20</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t3061-4</w.rf>
@@ -48777,7 +48777,7 @@
   </m>
   <m>
    <AM id="m-d1t3071-5">
-    <form>7,80</form>
+    <form>7.80</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t3071-5</w.rf>
@@ -49682,7 +49682,7 @@
  <s stype="information" w-speaker.rf="spk1" id="m-105" w-begin.rf="w#d1t3134-13" w-end.rf="w#d1t3136-3">
   <m>
    <AM id="m-d1t3134-13">
-    <form>Tam</form>
+    <form>Těm</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t3134-13</w.rf>

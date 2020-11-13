@@ -1794,7 +1794,7 @@
   </m>
   <m>
    <AM id="m-60-63">
-    <form>7m</form>
+    <form>7</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t138-6</w.rf>
@@ -1857,7 +1857,7 @@
   </m>
   <m>
    <AM id="m-60-66">
-    <form>7,20m</form>
+    <form>7.20</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t141-6</w.rf>
@@ -3161,7 +3161,7 @@
   </m>
   <m>
    <AM id="m-110-126">
-    <form>3,5m</form>
+    <form>3.5</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t220-7</w.rf>
@@ -5618,7 +5618,7 @@
   </m>
   <m>
    <AM id="m-313-321">
-    <form>5,5m</form>
+    <form>5.5</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t344-5</w.rf>
@@ -24666,7 +24666,7 @@
   </m>
   <m>
    <AM id="m-d1t1559-4">
-    <form>schátralý</form>
+    <form>zchátralý</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t1559-4</w.rf>
@@ -37187,7 +37187,7 @@
   </m>
   <m>
    <AM id="m-d1t2260-9">
-    <form>šnitlík</form>
+    <form>šnytlík</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t2260-9</w.rf>
@@ -38926,7 +38926,7 @@
   </m>
   <m>
    <AM id="m-448-449">
-    <form>150g</form>
+    <form>150</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t2377-1</w.rf>
@@ -38972,7 +38972,7 @@
   </m>
   <m>
    <AM id="m-448-451">
-    <form>150g</form>
+    <form>150</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t2384-4</w.rf>
