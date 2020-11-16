@@ -39,7 +39,7 @@ my $orig_dir = "$FindBin::Bin/../../WorkData/PDTSC/data";
                 clearer => '_clear_fh');
     sub _build_fh {
         my ($self) = @_;
-        open my $fh, '<', "$orig_dir/" . $self->file . '.' . $self->_num . '.w'
+        open my $fh, '<', "$orig_dir/" . $self->file . '.' . $self->_num . '.m'
             or return 'done';
         return $fh
     }
@@ -48,7 +48,7 @@ my $orig_dir = "$FindBin::Bin/../../WorkData/PDTSC/data";
         my ($line, $value) = ("");
         return "" if $self->done;
 
-        until ($value = ($line =~ m{<token>(.*)</token>})[0]
+        until ($value = ($line =~ m{<form>(.*)</form>})[0]
                or eof $self->_fh
          ) {
             $line = readline $self->_fh;
@@ -57,7 +57,7 @@ my $orig_dir = "$FindBin::Bin/../../WorkData/PDTSC/data";
                 $self->_clear_fh;
             }
         }
-        return $value || ""
+        return $value // ""
     }
     sub done { 'done' eq $_[0]->_fh }
 }
