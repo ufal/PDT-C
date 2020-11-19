@@ -893,7 +893,7 @@
 <LM>w#w-lnd92256-038-p3s5w4</LM>
 </w.rf>
 <form>oběma</form>
-<tag lemma="oba`2" src="orig" selected="1">ClFD7----------</tag>
+<tag lemma="oba`2" src="orig" selected="1">CnFD7----------</tag>
 </m>
 <m id="m-lnd92256-038-p3s5w5">
 <src.rf>manual</src.rf>

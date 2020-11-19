@@ -4349,7 +4349,7 @@
 <LM>w#w-ln94202-107-p5s17w3</LM>
 </w.rf>
 <form>oběma</form>
-<tag lemma="oba`2" src="orig" selected="1">ClFD7----------</tag>
+<tag lemma="oba`2" src="orig" selected="1">CnFD7----------</tag>
 </m>
 <m id="m-ln94202-107-p5s17w4">
 <src.rf>manual</src.rf>

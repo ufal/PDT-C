@@ -1092,7 +1092,7 @@
 <tag>
 <AM lemma="ten" src="auto" recommended="1">PDMP1----------</AM>
 <AM lemma="ty" src="auto">PH-S3--2-------</AM>
-<AM lemma="ti_^(10-ti)" src="manual" selected="1">Sn-XX----------</AM>
+<AM lemma="ti_^(10-ti)" src="manual" selected="1">Sl-XX----------</AM>
 </tag>
 </m>
 <m id="m-wsj0170-001-p1s3W6-Ta">

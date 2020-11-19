@@ -1932,7 +1932,7 @@
 <LM>w#w-ln94204-83-p4s2w19</LM>
 </w.rf>
 <form>oběma</form>
-<tag lemma="oba`2" src="orig" selected="1">ClFD7----------</tag>
+<tag lemma="oba`2" src="orig" selected="1">CnFD7----------</tag>
 </m>
 <m id="m-ln94204-83-p4s2w20">
 <src.rf>manual</src.rf>

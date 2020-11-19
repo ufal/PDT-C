@@ -3567,7 +3567,7 @@
 <LM>w#w-ln95043-098-p5s8w7</LM>
 </w.rf>
 <form>oběma</form>
-<tag lemma="oba`2" src="orig" selected="1">ClFD7----------</tag>
+<tag lemma="oba`2" src="orig" selected="1">CnFD7----------</tag>
 </m>
 <m id="m-ln95043-098-p5s8w8">
 <src.rf>manual</src.rf>

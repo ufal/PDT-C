@@ -489,7 +489,7 @@
 <LM>w#w-mf920925-004-p2s3w21</LM>
 </w.rf>
 <form>oběma</form>
-<tag lemma="oba`2" src="orig" selected="1">ClFD7----------</tag>
+<tag lemma="oba`2" src="orig" selected="1">CnFD7----------</tag>
 </m>
 <m id="m-mf920925-004-p2s3w22">
 <src.rf>manual</src.rf>

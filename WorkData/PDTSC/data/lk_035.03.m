@@ -3306,7 +3306,7 @@
 <form>kolikpak</form>
 <tag>
 <AM lemma="kolikpak" src="auto">C?--1----------</AM>
-<AM lemma="kolikpak" src="auto" recommended="1">C?--4----------</AM>
+<AM lemma="kolikpak" src="auto" recommended="1">Ca--4----------</AM>
 </tag>
 </m>
 <m id="m035-d1t1316-1">

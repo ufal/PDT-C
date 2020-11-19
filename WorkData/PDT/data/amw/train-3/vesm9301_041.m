@@ -10127,7 +10127,7 @@
 <LM>w#w-vesm9301-041-p28s6w8</LM>
 </w.rf>
 <form>oběma</form>
-<tag lemma="oba`2" src="orig" selected="1">ClFD7----------</tag>
+<tag lemma="oba`2" src="orig" selected="1">CnFD7----------</tag>
 </m>
 <m id="m-vesm9301-041-p28s6w9">
 <src.rf>manual</src.rf>

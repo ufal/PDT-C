@@ -926,7 +926,7 @@
 </w.rf>
 <form>oběma</form>
 <tag>
-<AM lemma="oba`2" src="auto" selected="1">ClFD7----------</AM>
+<AM lemma="oba`2" src="auto" selected="1">CnFD7----------</AM>
 <AM lemma="oba`2" src="auto">ClXP3----------</AM>
 <AM lemma="oba`2" src="auto" recommended="1">ClXP7----------</AM>
 </tag>

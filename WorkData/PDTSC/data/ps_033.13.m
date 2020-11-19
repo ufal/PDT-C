@@ -100,7 +100,7 @@
 </w.rf>
 <form>Kolikpak</form>
 <tag>
-<AM lemma="kolikpak" src="auto" recommended="1">C?--1----------</AM>
+<AM lemma="kolikpak" src="auto" recommended="1">Ca--1----------</AM>
 <AM lemma="kolikpak" src="auto">C?--4----------</AM>
 </tag>
 </m>
