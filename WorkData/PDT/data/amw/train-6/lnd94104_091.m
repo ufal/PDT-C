@@ -101,7 +101,7 @@
 <AM lemma="Teige_;Y" src="orig">NNMS2-----A----</AM>
 <AM lemma="Teig_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Teig_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
-<AM lemma="Teige-Y" src="manual" selected="1">NNMS4-----A---1</AM>
+<AM lemma="Teige_;Y" src="manual" selected="1">NNMS4-----A---1</AM>
 </tag>
 </m>
 </s>
@@ -1557,7 +1557,7 @@
 <AM lemma="Teige_;Y" src="orig">NNMS2-----A----</AM>
 <AM lemma="Teig_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Teig_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Teige-Y" src="manual" selected="1">NNMS2-----A---1</AM>
+<AM lemma="Teige_;Y" src="manual" selected="1">NNMS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-lnd94104-091-p1s8Bw17">
@@ -1676,7 +1676,7 @@
 <AM lemma="Teige_;Y" src="orig">NNMS2-----A----</AM>
 <AM lemma="Teig_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Teig_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="Teige-Y" src="manual" selected="1">NNMS2-----A---1</AM>
+<AM lemma="Teige_;Y" src="manual" selected="1">NNMS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-lnd94104-091-p1s9w3">
