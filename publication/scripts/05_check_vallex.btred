@@ -1,0 +1,98 @@
+#!btred -TN --context PDT_C_T -e check_vallex()
+#-*- cperl -*-
+# Author: Jiri Mirovsky
+# 2020
+
+#ifndef NTRED
+#include <tred.mac>
+#endif
+
+=item check_vallex
+
+A simple check if all links to Vallex go to an existing Vallex entry with a correct lemma
+
+=cut
+
+package PDT_C_T;
+
+use strict;
+use warnings;
+use XML::Twig; # pro načtení Vallexu
+
+#encoding utf8
+use utf8;
+binmode STDIN, ':utf8';
+binmode STDOUT, ':utf8';
+binmode STDERR, ':utf8';
+
+
+my ($vallex_file) = @ARGV;
+
+
+# #####################################################################################################################
+# read Vallex and link frame-ids to their lemmas
+# #####################################################################################################################
+
+my %frameid2lemma;
+
+print STDERR "Going to read Vallex from '$vallex_file'\n";
+
+my $vallex = new XML::Twig;
+$vallex->parsefile($vallex_file);
+my $root = $vallex->root;
+my $body = $root->first_child('body');
+my @vallex_lemmas = $body->children('word');
+print STDERR "Vallex has been read; there are " . scalar(@vallex_lemmas) . " entries in the lexicon.\n";
+
+# done reading Vallex
+
+# collect a hash linking frame ids to the lemmas
+
+foreach my $word (@vallex_lemmas) {
+
+  my $lemma = $word->att('lemma');
+  $lemma =~ s/\ /_/g;
+
+  my $valency_frames = $word->first_child('valency_frames');
+
+  if ($valency_frames) {
+    my @frames = $valency_frames->children;
+    foreach my $frame (@frames) {
+      my $id = $frame->att('id');
+      $frameid2lemma{$id} = $lemma;
+      # print STDERR "$id -> $lemma\n";
+    }
+  }
+}
+
+# #####################################################################################################################
+# done reading Vallex and linking frame ids to their lemmas
+# #####################################################################################################################
+
+
+
+#sub exit_hook {
+  #my $total_discourse_links_count = $total_discourse_inter_count + $total_discourse_intra_count;
+#  print STDERR "\nTotal number of created discourse links: $total_discourse_links_count (intra: $total_discourse_intra_count, inter: $total_discourse_inter_count)\n\n";
+#} # exit_hook
+
+
+sub check_vallex {
+
+  my $val_frame = $this->attr('val_frame.rf');
+  my $id = $this->attr('id');
+  if ($val_frame) {
+    $val_frame =~ s/v#//;
+    # print STDERR "val_frame: $val_frame\n";
+    my $val_lemma = $frameid2lemma{$val_frame};
+    if (!$val_lemma) {
+      print "Missing frame for frame_id = $val_frame at node $id!\n";
+      return;
+    }
+    my $lemma = lc($this->attr('t_lemma') // '');
+    if ($lemma ne $val_lemma) {
+      print "Mismatch in lemmas at node $id: t_lemma = $lemma, val_frame = $val_frame, vallex lemma = $val_lemma\n";
+    }
+  }
+
+} # check_vallex
