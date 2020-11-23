@@ -60,7 +60,7 @@
       <member name="form" required="1"><cdata format="any"/></member>
       <member name="lemma" required="0"><cdata format="any"/></member>
       <member name="tag" required="0"><cdata format="any"/></member>
-      <member name="mtag" required="1" type="m-mtag.type"/>
+      <member name="mtag" required="0" type="m-mtag.type"/>
       <member name="comment" type="m-comment.list.type"/>
     </structure>
   </type>
