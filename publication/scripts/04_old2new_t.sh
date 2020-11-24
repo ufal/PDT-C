@@ -16,5 +16,5 @@ for CORP in Faust PCEDT PDTSC; do
 
 done
 
-grep -v Saving $LOG | grep -v Processing | cut -f 1,2,3 -d " " | sort | uniq -c
+grep -v Saving $LOG | grep -v Processing | grep -v PDTB | grep -v PMLTQ | grep -v Subroutine | cut -f 1,2,3 -d " " | sort | uniq -c
 

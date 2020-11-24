@@ -8,7 +8,7 @@
 
 =item old2new_m
 
-Leaves only one lemma and tag if there are several choices, fills the values in separate lemma and tag (no attributes).
+Leaves only one lemma and tag if there are several choices, fills the values in separate lemma and tag (no attributes). Deletes comments.
 
 =cut
 
@@ -28,6 +28,13 @@ sub old2new_m {
 
   return if $this eq $root;
   my $id = $this->attr('id');
+
+  if ($this->attr('comment')) {
+    $this->set_attr('comment', undef);
+    ChangingFile(1);
+    print STDERR "Deleted comment at node $id.\n";
+  }
+
   my @mtags = AltV($this->attr('mtag'));
   if (!@mtags) {
     print STDERR "No tag at $id\n";

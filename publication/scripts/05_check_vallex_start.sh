@@ -10,7 +10,7 @@ LOG="05_check_vallex.log"
 
 mv -f $LOG $LOG.old
 
-for CORP in Faust PCEDT PDTSC PDT/{mw,amw,tamw}/{train-1,train-2,train-3,train-4,train-5,train-6,train-7,train-8,dtest,etest}; do
+for CORP in Faust PCEDT PDTSC PDT/tamw/{train-1,train-2,train-3,train-4,train-5,train-6,train-7,train-8,dtest,etest}; do
 #for CORP in Faust; do
 
   echo "Checking links to Vallex in $CORP"
@@ -19,5 +19,5 @@ for CORP in Faust PCEDT PDTSC PDT/{mw,amw,tamw}/{train-1,train-2,train-3,train-4
 
 done
 
-grep -v Saving $LOG | grep -v Processing | cut -f 1,2,3 -d " " | sort | uniq -c
+grep -v Saving $LOG | grep -v Processing | grep -v PDTB | grep -v PMLTQ | grep -v Subroutine | cut -f 1,2,3 -d " " | sort | uniq -c
 
