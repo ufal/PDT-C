@@ -19,5 +19,5 @@ for CORP in Faust PCEDT PDTSC PDT/{mw,amw,tamw}/{train-1,train-2,train-3,train-4
 
 done
 
-grep -v Saving $LOG | grep -v Processing | grep -v PDTB | grep -v PMLTQ | grep -v Subroutine | cut -f 1,2,3 -d " " | sort | uniq -c
+grep -v Saving $LOG | grep -v Processing | grep -v PDTB | grep -v PMLTQ | grep -v Subroutine | grep -v Applying | grep -v Initializing | cut -f 1,2,3 -d " " | sort | uniq -c
 

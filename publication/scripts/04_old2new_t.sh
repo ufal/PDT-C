@@ -16,5 +16,11 @@ for CORP in Faust PCEDT PDTSC; do
 
 done
 
-grep -v Saving $LOG | grep -v Processing | grep -v PDTB | grep -v PMLTQ | grep -v Subroutine | cut -f 1,2,3 -d " " | sort | uniq -c
+for CORP in Faust PCEDT PDTSC PDT/tamw/{train-1,train-2,train-3,train-4,train-5,train-6,train-7,train-8,dtest,etest}; do
+
+  sed -i "s/tdata_c_schema_work.xml/tdata_c_schema.xml/" $BASE/$TGT/$CORP/*.t
+
+done
+
+grep -v Saving $LOG | grep -v Processing | grep -v PDTB | grep -v PMLTQ | grep -v Subroutine | grep -v Applying | grep -v Initializing | cut -f 1,2,3 -d " " | sort | uniq -c
 

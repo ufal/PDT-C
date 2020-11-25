@@ -1,0 +1,99 @@
+#!btred -TN --context PDT_C_T -e check_internal_links()
+#-*- cperl -*-
+# Author: Jiri Mirovsky
+# 2020
+
+#ifndef NTRED
+#include <tred.mac>
+#endif
+
+=item check_internal_links
+
+A check if all internal links (compl.rf, coref_gram.rf, coref_text, bridging, discourse) lead to existing nodes
+
+=cut
+
+package PDT_C_T;
+
+use strict;
+use warnings;
+
+#encoding utf8
+use utf8;
+binmode STDIN, ':utf8';
+binmode STDOUT, ':utf8';
+binmode STDERR, ':utf8';
+
+
+#sub exit_hook {
+  #my $total_discourse_links_count = $total_discourse_inter_count + $total_discourse_intra_count;
+#  print STDERR "\nTotal number of created discourse links: $total_discourse_links_count (intra: $total_discourse_intra_count, inter: $total_discourse_inter_count)\n\n";
+#} # exit_hook
+
+
+sub check_internal_links {
+
+  my $id = $this->attr('id');
+
+  foreach my $compl (ListV($this->attr('compl.rf'))) {
+    my $target = PML_T::GetNodeByID($compl);
+    if (!$target) {
+      print "Missing compl.rf target from $id to $compl\n";
+    }
+  }
+
+  foreach my $corgr (ListV($this->attr('coref_gram.rf'))) {
+    my $target = PML_T::GetNodeByID($corgr);
+    if (!$target) {
+      print "Missing coref_gram.rf target from $id to $corgr\n";
+    }
+  }
+
+  foreach my $cortext (map {$_->{'target_node.rf'}} ListV($this->attr('coref_text'))) {
+    my $target = PML_T::GetNodeByID($cortext);
+    if (!$target) {
+      print "Missing coref_text target from $id to $cortext\n";
+    }
+  }
+
+  foreach my $bridging (map {$_->{'target_node.rf'}} ListV($this->attr('bridging'))) {
+    my $target = PML_T::GetNodeByID($bridging);
+    if (!$target) {
+      print "Missing bridging target from $id to $bridging\n";
+    }
+  }
+
+  foreach my $discourse_struct (grep {$_->{type} eq 'discourse'} ListV($this->attr('bridging'))) {
+    my $discourse = $discourse_struct->{'target_node.rf'};
+    my $target = PML_T::GetNodeByID($discourse);
+    if (!$target) {
+      print "Missing discourse target from $id to $discourse\n";
+    }
+    for my $aconn (ListV($discourse->{'a-connectors.rf'})) {
+      my $target = PML_T::GetANodeByID($aconn);
+      if (!$target) {
+        print "Missing a-connectors.rf target from $id to $aconn\n";
+      }
+    }
+    for my $aconn (ListV($discourse->{'a-connectors_ext.rf'})) {
+      my $target = PML_T::GetANodeByID($aconn);
+      if (!$target) {
+        print "Missing a-connectors_ext.rf target from $id to $aconn\n";
+      }
+    }
+    for my $tconn (ListV($discourse->{'t-connectors.rf'})) {
+      my $target = PML_T::GetNodeByID($tconn);
+      if (!$target) {
+        print "Missing t-connectors.rf target from $id to $tconn\n";
+      }
+    }
+    for my $tconn (ListV($discourse->{'t-connectors_ext.rf'})) {
+      my $target = PML_T::GetNodeByID($tconn);
+      if (!$target) {
+        print "Missing t-connectors_ext.rf target from $id to $tconn\n";
+      }
+    }
+
+  }
+
+} # check_internal_links

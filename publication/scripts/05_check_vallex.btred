@@ -87,11 +87,13 @@ sub check_vallex {
     my $val_lemma = $frameid2lemma{$val_frame};
     if (!$val_lemma) {
       print "Missing frame for frame_id = $val_frame at node $id!\n";
+      print "Missing frame position: " . ThisAddress() . "\n";
       return;
     }
     my $lemma = lc($this->attr('t_lemma') // '');
     if ($lemma ne $val_lemma) {
-      print "Mismatch in lemmas at node $id: t_lemma = $lemma, val_frame = $val_frame, vallex lemma = $val_lemma\n";
+      print "Mismatching lemmas at node $id: t_lemma = $lemma, val_frame = $val_frame, vallex lemma = $val_lemma\n";
+      print "Mismatching lemmas position: " . ThisAddress() . "\n";
     }
   }
 

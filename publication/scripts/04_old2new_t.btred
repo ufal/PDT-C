@@ -93,6 +93,7 @@ sub old2new_t {
   foreach my $tgt (ListV($this->attr('coref_text.rf'))) {
     print STDERR "Changing coref_text.rf to coref_text at $id\n";
     AddToList($this,'coref_text', {'target_node.rf' => $tgt, 'type' => 'SPEC'});
+    $this->set_attr('coref_text.rf', undef);
     ChangingFile(1);
   }
 
