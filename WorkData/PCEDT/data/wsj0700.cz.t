@@ -2829,7 +2829,6 @@
 <LM>a#a-wsj0700-001-p1s10W12-Ta</LM>
 </aux.rf>
 </a>
-<val_frame.rf>v#v-w8307f1</val_frame.rf>
 <nodetype>complex</nodetype>
 <t_lemma>vyrovnávání_se</t_lemma>
 <functor>TWHEN</functor>

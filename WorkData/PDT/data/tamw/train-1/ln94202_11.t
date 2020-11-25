@@ -1882,7 +1882,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>15</deepord>
-<val_frame.rf>v#v-w1855f1</val_frame.rf>
 </LM>
 <LM id="t-ln94202-11-p3s1a0">
 <a>

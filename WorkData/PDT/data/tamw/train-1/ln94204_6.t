@@ -680,7 +680,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>16</deepord>
-<val_frame.rf>v#v-w2661f1</val_frame.rf>
+<val_frame.rf>v#v-w2660f1</val_frame.rf>
 <children>
 <LM id="t-ln94204-6-p3s1w20">
 <a>
@@ -691,7 +691,7 @@
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
-<functor>PAT</functor>
+<functor>ORIG</functor>
 <gram>
 <sempos>n.pron.def.pers</sempos>
 <gender>inher</gender>

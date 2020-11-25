@@ -5724,12 +5724,43 @@ je TIME</discourse_comment>
 <tfa>f</tfa>
 <deepord>11</deepord>
 </LM>
+<LM id="t-lnd94103-086-p1s25a4">
+<a>
+<lex.rf>a#a-lnd94103-086-p1s25w18</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>být</t_lemma>
+<functor>PAT</functor>
+<gram>
+<sempos>v</sempos>
+<deontmod>decl</deontmod>
+<tense>nil</tense>
+<aspect>proc</aspect>
+</gram>
+<tfa>f</tfa>
+<deepord>15</deepord>
+<val_frame.rf>v#v-w243f187_MM</val_frame.rf>
+<children>
+<LM id="t-lnd94103-086-p1s25a3">
+<nodetype>qcomplex</nodetype>
+<is_generated>1</is_generated>
+<t_lemma>#Cor</t_lemma>
+<functor>PAT</functor>
+<quot>
+<LM>
+<type>dsp</type>
+<set_id>lnd94103-086-p1s25w17</set_id>
+</LM>
+</quot>
+<tfa>t</tfa>
+<deepord>16</deepord>
+<coref_gram.rf>
+<LM>t-lnd94103-086-p1s25w5</LM>
+</coref_gram.rf>
+</LM>
 <LM id="t-lnd94103-086-p1s25w21">
 <a>
 <lex.rf>a#a-lnd94103-086-p1s25w21</lex.rf>
-<aux.rf>
-<LM>a#a-lnd94103-086-p1s25w18</LM>
-</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>ohrožený</t_lemma>
@@ -5746,8 +5777,8 @@ je TIME</discourse_comment>
 <negation>neg0</negation>
 </gram>
 <tfa>f</tfa>
-<deepord>16</deepord>
-<val_frame.rf>v#v-w3016f1</val_frame.rf>
+<deepord>17</deepord>
+<val_frame.rf>v#v-w3018f1</val_frame.rf>
 <children>
 <LM id="t-lnd94103-086-p1s25w19">
 <a>
@@ -5804,22 +5835,7 @@ je TIME</discourse_comment>
 </LM>
 </children>
 </LM>
-<LM id="t-lnd94103-086-p1s25a3">
-<nodetype>qcomplex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#Cor</t_lemma>
-<functor>PAT</functor>
-<quot>
-<LM>
-<type>dsp</type>
-<set_id>lnd94103-086-p1s25w17</set_id>
-</LM>
-</quot>
-<tfa>t</tfa>
-<deepord>15</deepord>
-<coref_gram.rf>
-<LM>t-lnd94103-086-p1s25w5</LM>
-</coref_gram.rf>
+</children>
 </LM>
 </children>
 </LM>

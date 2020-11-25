@@ -5310,7 +5310,7 @@ spojeni 3 predikatu</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
-<val_frame.rf>v#v-w5238f1</val_frame.rf>
+<val_frame.rf>v#v-w5237f2</val_frame.rf>
 <children>
 <LM id="t-ln95049-067-p8s2w7">
 <a>
@@ -5322,7 +5322,7 @@ spojeni 3 predikatu</discourse_comment>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>mít</t_lemma>
-<functor>AIM</functor>
+<functor>PAT</functor>
 <gram>
 <sempos>v</sempos>
 <deontmod>hrt</deontmod>

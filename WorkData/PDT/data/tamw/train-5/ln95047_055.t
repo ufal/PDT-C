@@ -5576,7 +5576,7 @@
 <lex.rf>a#a-ln95047-055-p5s1Bw4</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>tkvět</t_lemma>
+<t_lemma>tkvít</t_lemma>
 <functor>PRED</functor>
 <sentmod>enunc</sentmod>
 <gram>

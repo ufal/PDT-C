@@ -1451,7 +1451,6 @@ velkem TR manualu na s. 954</discourse_comment>
 </gram>
 <tfa>t</tfa>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w6270f2</val_frame.rf>
 <children>
 <LM id="t-ln95046-008-p3s2w7">
 <a>

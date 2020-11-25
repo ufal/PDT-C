@@ -3100,7 +3100,6 @@
 </gram>
 <tfa>c</tfa>
 <deepord>1</deepord>
-<val_frame.rf>v#v-w710f1</val_frame.rf>
 </LM>
 <LM id="t-ln94208-59-p4s1w2">
 <a>

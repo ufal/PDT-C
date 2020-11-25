@@ -96,7 +96,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w4313f1</val_frame.rf>
 </LM>
 </children>
 </LM>

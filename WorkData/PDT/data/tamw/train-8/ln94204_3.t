@@ -5343,7 +5343,7 @@ konce vety 3</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
-<val_frame.rf>v#v-w7255f1</val_frame.rf>
+<val_frame.rf>v#v-w7254f3</val_frame.rf>
 <children>
 <LM id="t-ln94204-3-p11s6w9">
 <a>
@@ -5354,8 +5354,7 @@ konce vety 3</discourse_comment>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>podnikání</t_lemma>
-<functor>DIR3</functor>
-<subfunctor>to</subfunctor>
+<functor>AIM</functor>
 <gram>
 <sempos>n.denot</sempos>
 <gender>neut</gender>

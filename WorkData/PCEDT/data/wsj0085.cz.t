@@ -10337,7 +10337,6 @@
 <LM>a#a-wsj0085-001-p1s38W11-Ta</LM>
 </aux.rf>
 </a>
-<val_frame.rf>v#v-w7033f1</val_frame.rf>
 <nodetype>complex</nodetype>
 <t_lemma>udržení_si</t_lemma>
 <functor>RSTR</functor>

@@ -2554,7 +2554,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>15</deepord>
-<val_frame.rf>v#v-w5238f1</val_frame.rf>
+<val_frame.rf>v#v-w5237f2</val_frame.rf>
 <children>
 <LM id="t-ln94203-116-p3s3w18">
 <a>
@@ -2562,7 +2562,7 @@
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>odevzdat</t_lemma>
-<functor>AIM</functor>
+<functor>PAT</functor>
 <gram>
 <sempos>v</sempos>
 <deontmod>decl</deontmod>

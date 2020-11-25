@@ -964,7 +964,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
-<val_frame.rf>v#v-w2340f2</val_frame.rf>
+<val_frame.rf>v#v-w2339f1</val_frame.rf>
 <children>
 <LM id="t-ln94208-103-p3s1w7">
 <a>
@@ -994,9 +994,9 @@
 <a>
 <lex.rf>a#a-ln94208-103-p3s1w11</lex.rf>
 </a>
-<nodetype>complex</nodetype>
+<nodetype>atom</nodetype>
 <t_lemma>triatlon</t_lemma>
-<functor>PAT</functor>
+<functor>EFF</functor>
 <gram>
 <sempos>n.denot</sempos>
 <gender>inan</gender>
@@ -1431,7 +1431,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>10</deepord>
-<val_frame.rf>v#v-w5777f1</val_frame.rf>
 <children>
 <LM id="t-ln94208-103-p3s2w10">
 <a>

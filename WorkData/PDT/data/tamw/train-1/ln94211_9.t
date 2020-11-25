@@ -11457,7 +11457,7 @@ v otazkach casto davame]</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>8</deepord>
-<val_frame.rf>v#v-w2105f1</val_frame.rf>
+<val_frame.rf>v#v-w2104f1</val_frame.rf>
 <children>
 <LM id="t-ln94211-9-p13s4w14">
 <a>
@@ -11477,8 +11477,7 @@ v otazkach casto davame]</discourse_comment>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>tisíc</t_lemma>
-<functor>BEN</functor>
-<subfunctor>agst</subfunctor>
+<functor>PAT</functor>
 <is_member>1</is_member>
 <gram>
 <sempos>n.quant.def</sempos>
@@ -11549,8 +11548,7 @@ v otazkach casto davame]</discourse_comment>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>majitel</t_lemma>
-<functor>BEN</functor>
-<subfunctor>agst</subfunctor>
+<functor>PAT</functor>
 <is_member>1</is_member>
 <gram>
 <sempos>n.denot</sempos>

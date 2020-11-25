@@ -860,7 +860,6 @@
 <LM>a#a-wsj0135-001-p1s2W11-Ta</LM>
 </aux.rf>
 </a>
-<val_frame.rf>v#v-w8307f1</val_frame.rf>
 <nodetype>complex</nodetype>
 <t_lemma>vyrovnávání_se</t_lemma>
 <functor>PAT</functor>

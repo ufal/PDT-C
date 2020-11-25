@@ -614,7 +614,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>8</deepord>
-<val_frame.rf>v#v-w4009f1</val_frame.rf>
+<val_frame.rf>v#v-w4014f1</val_frame.rf>
 <children>
 <LM id="t-ln94203-80-p2s2w14">
 <a>
@@ -622,7 +622,7 @@
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>křivda</t_lemma>
-<functor>PAT</functor>
+<functor>ACT</functor>
 <gram>
 <sempos>n.denot</sempos>
 <gender>fem</gender>

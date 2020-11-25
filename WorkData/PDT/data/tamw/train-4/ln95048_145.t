@@ -4792,7 +4792,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>10</deepord>
-<val_frame.rf>v#v-w2512f1</val_frame.rf>
 <children>
 <LM id="t-ln95048-145-p6s1w6">
 <a>
@@ -4984,7 +4983,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>20</deepord>
-<val_frame.rf>v#v-w9694f1</val_frame.rf>
 <children>
 <LM id="t-ln95048-145-p6s1w30">
 <a>

@@ -663,7 +663,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w9309f1</val_frame.rf>
 </LM>
 <LM id="t-mf930713-087-p2s2w7">
 <a>

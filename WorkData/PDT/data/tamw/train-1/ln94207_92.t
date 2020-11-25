@@ -10005,7 +10005,7 @@ pokud  -potom</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
-<val_frame.rf>v#v-w5584f1</val_frame.rf>
+<val_frame.rf>v#v-w5583f1</val_frame.rf>
 </LM>
 </children>
 </LM>

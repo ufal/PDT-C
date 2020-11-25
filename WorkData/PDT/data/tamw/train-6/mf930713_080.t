@@ -2700,7 +2700,7 @@
 <lex.rf>a#a-mf930713-080-p3s6w4</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>tkvět</t_lemma>
+<t_lemma>tkvít</t_lemma>
 <functor>PRED</functor>
 <sentmod>enunc</sentmod>
 <quot>

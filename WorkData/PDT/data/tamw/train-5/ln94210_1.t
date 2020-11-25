@@ -1579,7 +1579,7 @@
 <lex.rf>a#a-ln94210-1-p3s2w2</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>tkvět</t_lemma>
+<t_lemma>tkvít</t_lemma>
 <functor>PRED</functor>
 <sentmod>enunc</sentmod>
 <gram>

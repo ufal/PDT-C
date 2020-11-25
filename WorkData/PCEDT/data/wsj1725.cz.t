@@ -678,7 +678,6 @@
 <LM>a#a-wsj1725-001-p1s1W28-Ta</LM>
 </aux.rf>
 </a>
-<val_frame.rf>v#v-w2960f3</val_frame.rf>
 <nodetype>complex</nodetype>
 <t_lemma>odvolání_se</t_lemma>
 <functor>PAT</functor>

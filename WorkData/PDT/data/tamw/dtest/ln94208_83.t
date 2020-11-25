@@ -7957,7 +7957,7 @@ preced.</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>34</deepord>
-<val_frame.rf>v#v-w8938f1</val_frame.rf>
+<val_frame.rf>v#v-w8937f1</val_frame.rf>
 <children>
 <LM id="t-ln94208-83-p7s1w44">
 <a>
@@ -7968,7 +7968,7 @@ preced.</discourse_comment>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>publikace</t_lemma>
-<functor>EFF</functor>
+<functor>PAT</functor>
 <gram>
 <sempos>n.denot</sempos>
 <gender>fem</gender>

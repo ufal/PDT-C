@@ -3961,7 +3961,7 @@ mého nejde_PJ</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>16</deepord>
-<val_frame.rf>v#v-w5238f1</val_frame.rf>
+<val_frame.rf>v#v-w5237f2</val_frame.rf>
 <children>
 <LM id="t-cmpr9413-014-p8s2w21">
 <a>
@@ -3969,7 +3969,7 @@ mého nejde_PJ</discourse_comment>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>využít</t_lemma>
-<functor>AIM</functor>
+<functor>PAT</functor>
 <gram>
 <sempos>v</sempos>
 <deontmod>decl</deontmod>

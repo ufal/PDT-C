@@ -19911,7 +19911,6 @@
 <compl.rf>
 <LM>t-mf920922-023-p5s2w1</LM>
 </compl.rf>
-<val_frame.rf>v#v-w5635f1</val_frame.rf>
 <children>
 <LM id="t-mf920922-023-p5s2w7">
 <a>

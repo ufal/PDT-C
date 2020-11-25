@@ -2296,7 +2296,7 @@
 <lex.rf>a#a-ln95047-065-p4s2w2</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>tkvět</t_lemma>
+<t_lemma>tkvít</t_lemma>
 <functor>PRED</functor>
 <sentmod>enunc</sentmod>
 <is_member>1</is_member>

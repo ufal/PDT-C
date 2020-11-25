@@ -10010,7 +10010,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>10</deepord>
-<val_frame.rf>v#v-w1645f1</val_frame.rf>
 <children>
 <LM id="t-ln95048-102-p8s3w14">
 <a>

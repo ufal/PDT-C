@@ -735,7 +735,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>10</deepord>
-<val_frame.rf>v#v-w7178f1</val_frame.rf>
 </LM>
 </children>
 </LM>

@@ -5947,7 +5947,6 @@ nemá ale samostatný uzel</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>6</deepord>
-<val_frame.rf>v#v-w6270f1</val_frame.rf>
 <children>
 <LM id="t-ln94205-34-p5s6w2">
 <a>

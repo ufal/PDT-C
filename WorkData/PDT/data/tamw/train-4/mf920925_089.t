@@ -4393,7 +4393,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>14</deepord>
-<val_frame.rf>v#v-w5238f1</val_frame.rf>
+<val_frame.rf>v#v-w5237f2</val_frame.rf>
 <children>
 <LM id="t-mf920925-089-p4s4w21">
 <a>
@@ -13411,7 +13411,6 @@ děje (jejich ACT je stejný)</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
-<val_frame.rf>v#v-w9029f1</val_frame.rf>
 <children>
 <LM id="t-mf920925-089-p7s3w2">
 <a>

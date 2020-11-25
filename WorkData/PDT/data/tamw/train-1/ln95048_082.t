@@ -801,7 +801,6 @@
 <compl.rf>
 <LM>t-ln95048-082-p2s2w4</LM>
 </compl.rf>
-<val_frame.rf>v#v-w3964f1</val_frame.rf>
 <children>
 <LM id="t-ln95048-082-p2s2a0">
 <nodetype>qcomplex</nodetype>

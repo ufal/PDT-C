@@ -2206,7 +2206,6 @@ otevřená podmínka (s. 473)</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>21</deepord>
-<val_frame.rf>v#v-w4047f1</val_frame.rf>
 </LM>
 </children>
 </LM>

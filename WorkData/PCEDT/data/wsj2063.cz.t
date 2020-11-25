@@ -2055,7 +2055,6 @@
 <LM>a#a-wsj2063-001-p1s8W7-Ta</LM>
 </aux.rf>
 </a>
-<val_frame.rf>v#v-w1118f1</val_frame.rf>
 <nodetype>complex</nodetype>
 <t_lemma>hraní_si</t_lemma>
 <functor>RSTR</functor>

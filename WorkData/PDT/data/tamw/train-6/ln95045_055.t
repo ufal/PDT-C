@@ -3162,7 +3162,6 @@ veta 10.</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>7</deepord>
-<val_frame.rf>v#v-w8323f1</val_frame.rf>
 <children>
 <LM id="t-ln95045-055-p4s4w7">
 <a>

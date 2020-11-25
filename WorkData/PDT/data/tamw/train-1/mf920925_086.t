@@ -1267,7 +1267,7 @@ drive se o Jugoslavii nemluvi</discourse_comment>
 <lex.rf>a#a-mf920925-086-p4s3w4</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>tkvět</t_lemma>
+<t_lemma>tkvít</t_lemma>
 <functor>PRED</functor>
 <sentmod>enunc</sentmod>
 <quot>

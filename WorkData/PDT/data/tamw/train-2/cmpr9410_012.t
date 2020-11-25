@@ -2144,7 +2144,7 @@ v TR není vidět závorka</comment>
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w3620f1</val_frame.rf>
+<val_frame.rf>v#v-w3619f1</val_frame.rf>
 <children>
 <LM id="t-cmpr9410-012-p7s1w6">
 <a>

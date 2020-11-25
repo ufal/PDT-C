@@ -6552,7 +6552,6 @@
 </gram>
 <tfa>c</tfa>
 <deepord>10</deepord>
-<val_frame.rf>v#v-w6270f1</val_frame.rf>
 <children>
 <LM id="t-ln94209-45-p9s1w4">
 <a>

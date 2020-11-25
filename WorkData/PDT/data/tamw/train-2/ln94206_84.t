@@ -2876,7 +2876,7 @@ proč tu není EmpVerb?</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>8</deepord>
-<val_frame.rf>v#v-w502f2</val_frame.rf>
+<val_frame.rf>v#v-w504f1</val_frame.rf>
 <children>
 <LM id="t-ln94206-84-p4s1a3">
 <nodetype>complex</nodetype>

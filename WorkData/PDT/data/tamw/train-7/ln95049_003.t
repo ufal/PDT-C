@@ -207,7 +207,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>3</deepord>
-<val_frame.rf>v#v-w2146f1</val_frame.rf>
 <children>
 <LM id="t-ln95049-003-p2s1Aw6">
 <a>

@@ -440,7 +440,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
-<val_frame.rf>v#v-w3265f2</val_frame.rf>
 </LM>
 <LM id="t-ln94207-130-p2s2w8">
 <a>

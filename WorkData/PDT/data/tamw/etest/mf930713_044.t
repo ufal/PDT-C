@@ -1421,7 +1421,7 @@
 </gram>
 <tfa>f</tfa>
 <deepord>21</deepord>
-<val_frame.rf>v#v-w4994f1</val_frame.rf>
+<val_frame.rf>v#v-w4993f1</val_frame.rf>
 <children>
 <LM id="t-mf930713-044-p3s2w29">
 <a>
@@ -26164,7 +26164,7 @@ clena dvojice
 </gram>
 <tfa>f</tfa>
 <deepord>4</deepord>
-<val_frame.rf>v#v-w5238f1</val_frame.rf>
+<val_frame.rf>v#v-w5237f2</val_frame.rf>
 <children>
 <LM id="t-mf930713-044-p27s7w4">
 <a>

@@ -1807,7 +1807,7 @@ zaznacen u "a"</discourse_comment>
 </gram>
 <tfa>f</tfa>
 <deepord>5</deepord>
-<val_frame.rf>v#v-w4148f1</val_frame.rf>
+<val_frame.rf>v#v-w4147f1</val_frame.rf>
 <children>
 <LM id="t-ln94203-67-p4s1w6">
 <a>

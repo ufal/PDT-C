@@ -1961,7 +1961,6 @@
 </gram>
 <tfa>f</tfa>
 <deepord>8</deepord>
-<val_frame.rf>v#v-w4862f1</val_frame.rf>
 <children>
 <LM id="t-ln95047-024-p3s4w9">
 <a>
