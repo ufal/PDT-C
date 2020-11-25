@@ -3,7 +3,7 @@
 BASE="/net/work/projects/PDT-C/github-PDT-C"
 
 SRC="WorkData/Faust/data"
-TGT="publication/PDT_C/data/Faust"
+TGT="publication/PDT-C/data/Faust/pml"
 
 rm -rf $BASE/$TGT/*.[wmat]
 
@@ -39,7 +39,7 @@ done
 
 
 SRC="WorkData/PCEDT/data"
-TGT="publication/PDT_C/data/PCEDT"
+TGT="publication/PDT-C/data/PCEDT/pml"
 
 rm -rf $BASE/$TGT/*.[wmat]
 
@@ -73,20 +73,22 @@ done
 
 
 
-SRC="tred-extension/pdt_c_m/resources"
-TGT="publication/PDT_C/data/PDT-Vallex"
+SRC_VAL="$BASE/tred-extension/pdt_c_m/resources"
+SRC_ENG_VAL="/net/data/pcedt2.0/valency_lexicons"
+TGT="publication/PDT-C/data/dictionaries"
 
-rm -rf $BASE/$TGT/vallex3.xml
-
+rm -rf $BASE/$TGT/pdtvallex10.xml
 echo "Copying PDT-Vallex"
+cp $SRC_VAL/vallex3.xml $BASE/$TGT/pdtvallex10.xml
 
-cp $BASE/$SRC/vallex3.xml $BASE/$TGT/vallex3.xml
-
+rm -rf $BASE/$TGT/engvallex.xml
+echo "Copying EngVallex"
+cp $SRC_ENG_VAL/engvallex.xml $BASE/$TGT/engvallex.xml
 
 
 
 SRC="WorkData/PDT/data"
-TGT="publication/PDT_C/data/PDT"
+TGT="publication/PDT-C/data/PDT/pml"
 
 echo "Copying PDT data"
 
@@ -135,7 +137,7 @@ done
 
 
 SRC="WorkData/PDTSC/data"
-TGT="publication/PDT_C/data/PDTSC"
+TGT="publication/PDT-C/data/PDTSC/pml"
 
 rm -rf $BASE/$TGT/*.[wmat]
 

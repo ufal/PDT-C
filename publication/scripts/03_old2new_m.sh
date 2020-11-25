@@ -2,14 +2,14 @@
 
 BASE="/net/work/projects/PDT-C/github-PDT-C"
 
-TGT="publication/PDT_C/data"
+TGT="publication/PDT-C/data"
 
 LOG=03_old2new_m.log
 
 mv -f $LOG $LOG.old
 
-for CORP in Faust PCEDT PDTSC PDT/{mw,amw,tamw}/{train-1,train-2,train-3,train-4,train-5,train-6,train-7,train-8,dtest,etest}; do
-#for CORP in Faust; do
+for CORP in Faust/pml PCEDT/pml PDTSC/pml PDT/pml/{mw,amw,tamw}/{train-1,train-2,train-3,train-4,train-5,train-6,train-7,train-8,dtest,etest}; do
+#for CORP in Faust/pml; do
 
   echo "Updating m-data format in $CORP"
   echo "Updating m-data format in $CORP" >>$LOG

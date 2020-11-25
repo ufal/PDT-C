@@ -5,7 +5,7 @@ BASE="/net/work/projects/PDT-C/github-PDT-C"
 TGT="publication/PDT-C/data"
 
 for A in Faust/pml PCEDT/pml PDT/pml PDTSC/pml dictionaries; do
-  echo "Clearing $TGT/$A"
-  rm -rf $BASE/$TGT/$A/*
+  echo "Creating directory $TGT/$A"
+  mkdir -p $BASE/$TGT/$A
 done
 
