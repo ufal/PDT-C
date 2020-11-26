@@ -39,6 +39,7 @@ sub check_internal_links {
     my $target = PML_T::GetNodeByID($compl);
     if (!$target) {
       print "Missing compl.rf target from $id to $compl\n";
+      print "Missing compl.rf position: " . ThisAddress() . "\n";
     }
   }
 
@@ -46,6 +47,7 @@ sub check_internal_links {
     my $target = PML_T::GetNodeByID($corgr);
     if (!$target) {
       print "Missing coref_gram.rf target from $id to $corgr\n";
+      print "Missing coref_gram.rf position: " . ThisAddress() . "\n";
     }
   }
 
@@ -53,6 +55,7 @@ sub check_internal_links {
     my $target = PML_T::GetNodeByID($cortext);
     if (!$target) {
       print "Missing coref_text target from $id to $cortext\n";
+      print "Missing coref_text position: " . ThisAddress() . "\n";
     }
   }
 
@@ -60,6 +63,7 @@ sub check_internal_links {
     my $target = PML_T::GetNodeByID($bridging);
     if (!$target) {
       print "Missing bridging target from $id to $bridging\n";
+      print "Missing bridging position: " . ThisAddress() . "\n";
     }
   }
 
@@ -68,29 +72,34 @@ sub check_internal_links {
     my $target = PML_T::GetNodeByID($discourse);
     if (!$target) {
       print "Missing discourse target from $id to $discourse\n";
+      print "Missing discourse position: " . ThisAddress() . "\n";
     }
     for my $aconn (ListV($discourse->{'a-connectors.rf'})) {
       my $target = PML_T::GetANodeByID($aconn);
       if (!$target) {
         print "Missing a-connectors.rf target from $id to $aconn\n";
+        print "Missing a-connectors.rf position: " . ThisAddress() . "\n";
       }
     }
     for my $aconn (ListV($discourse->{'a-connectors_ext.rf'})) {
       my $target = PML_T::GetANodeByID($aconn);
       if (!$target) {
         print "Missing a-connectors_ext.rf target from $id to $aconn\n";
+        print "Missing a-connectors_ext.rf position: " . ThisAddress() . "\n";
       }
     }
     for my $tconn (ListV($discourse->{'t-connectors.rf'})) {
       my $target = PML_T::GetNodeByID($tconn);
       if (!$target) {
         print "Missing t-connectors.rf target from $id to $tconn\n";
+        print "Missing t-connectors.rf position: " . ThisAddress() . "\n";
       }
     }
     for my $tconn (ListV($discourse->{'t-connectors_ext.rf'})) {
       my $target = PML_T::GetNodeByID($tconn);
       if (!$target) {
         print "Missing t-connectors_ext.rf target from $id to $tconn\n";
+        print "Missing t-connectors_ext.rf position: " . ThisAddress() . "\n";
       }
     }
 

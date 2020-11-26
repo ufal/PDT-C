@@ -11,7 +11,7 @@ LOG="05_check_vallex.log"
 mv -f $LOG $LOG.old
 
 for CORP in Faust/pml PCEDT/pml PDTSC/pml PDT/pml/tamw/{train-1,train-2,train-3,train-4,train-5,train-6,train-7,train-8,dtest,etest}; do
-#for CORP in Faust; do
+#for CORP in Faust/pml; do
 
   echo "Checking links to Vallex in $CORP"
   echo "Checking links to Vallex in $CORP" >>$LOG
