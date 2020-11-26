@@ -4,7 +4,7 @@
 <schema href="tanot_coref_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="es_127.06.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -2820,12 +2820,11 @@
 <a>
 <lex.rf>a#es_127.06-SCzechA-m-d1t1421-4</lex.rf>
 </a>
-<val_frame.rf>v#v-w5238f2</val_frame.rf>
 <nodetype>complex</nodetype>
 <t_lemma>připravený</t_lemma>
 <functor>EFF</functor>
 <gram>
-<sempos>v</sempos>
+<sempos>adj.denot</sempos>
 <degcmp>pos</degcmp>
 <negation>neg0</negation>
 </gram>
@@ -3984,12 +3983,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>2</deepord>
-<annot_comment>
-<LM>
-<type>New valency frame</type>
-<text>nP</text>
-</LM>
-</annot_comment>
 <coref_text>
 <LM>
 <target-node.rf>es_127.06-SCzechT-m-d1t1400-4</target-node.rf>
@@ -3997,6 +3990,12 @@
 <src>hana</src>
 </LM>
 </coref_text>
+<annot_comment>
+<LM>
+<type>New valency frame</type>
+<text>nP</text>
+</LM>
+</annot_comment>
 </LM>
 </children>
 <bridging>
