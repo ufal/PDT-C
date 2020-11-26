@@ -8443,7 +8443,7 @@
    </AM>
   </m>
   <m>
-   <AM id="m-d1e540-x2-918">
+   <AM id="m-d1e540-x2-918s0">
     <form>d</form>
     <wrefs>
      <LM>
@@ -8454,6 +8454,26 @@
      <type>w-token</type>
      <text>Alpe d´Huez</text>
     </comment>
+   </AM>
+  </m>
+  <m>
+   <AM id="m-d1e540-x2-918s1">
+    <form>´</form>
+    <wrefs>
+     <LM>
+      <w.rf>w#d1t547-4</w.rf>
+     </LM>
+    </wrefs>
+   </AM>
+  </m>
+  <m>
+   <AM id="m-d1e540-x2-918s2">
+    <form>Huez</form>
+    <wrefs>
+     <LM>
+      <w.rf>w#d1t547-4</w.rf>
+     </LM>
+    </wrefs>
    </AM>
   </m>
   <m>
@@ -38904,21 +38924,21 @@
    </AM>
   </m>
   <m>
-   <AM id="m-d1t2742-23">
-    <form>v</form>
-    <wrefs>
-     <LM>
-      <w.rf>w#d1t2742-23</w.rf>
-     </LM>
-    </wrefs>
-   </AM>
-  </m>
-  <m>
    <AM id="m-d1t2742-25">
     <form>ještě</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t2742-25</w.rf>
+     </LM>
+    </wrefs>
+   </AM>
+  </m>
+  <m>
+   <AM id="m-d1t2742-23">
+    <form>v</form>
+    <wrefs>
+     <LM>
+      <w.rf>w#d1t2742-23</w.rf>
      </LM>
     </wrefs>
    </AM>

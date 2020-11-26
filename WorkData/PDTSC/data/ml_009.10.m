@@ -1337,8 +1337,8 @@
 <w.rf>
 <LM>w#w-d1t2812-7</LM>
 </w.rf>
-<form>jsme</form>
-<tag lemma="být" src="auto" recommended="1">VB-P---1P-AAI--</tag>
+<form>jsem</form>
+<tag lemma="být" src="auto" recommended="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m009-d1t2812-9">
 <w.rf>

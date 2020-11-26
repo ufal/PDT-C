@@ -3701,12 +3701,9 @@
 <LM id="ak_145.06-SCzechT-m-d1t1201-18">
 <a>
 <lex.rf>a#ak_145.06-SCzechA-m-d1t1201-18</lex.rf>
-<aux.rf>
-<LM>a#ak_145.06-SCzechA-m-d1t1201-17</LM>
-</aux.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>zadu</t_lemma>
+<t_lemma>dozadu</t_lemma>
 <functor>DIR3</functor>
 <gram>
 <sempos>adv.denot.grad.neg</sempos>

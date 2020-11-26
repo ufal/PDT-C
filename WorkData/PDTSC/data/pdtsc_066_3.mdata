@@ -39942,11 +39942,6 @@
     <form>.</form>
    </AM>
   </m>
-  <m>
-   <AM id="m-610-611">
-    <form>.</form>
-   </AM>
-  </m>
  </s>
  <s stype="information" w-speaker.rf="spk1" id="m-d1e3834-x2" w-begin.rf="w#d1e3838" w-end.rf="w#d1t3841-2">
   <m>
@@ -41057,11 +41052,6 @@
       <w.rf>w#d1t3970-3</w.rf>
      </LM>
     </wrefs>
-   </AM>
-  </m>
-  <m>
-   <AM id="m-740-741">
-    <form>,</form>
    </AM>
   </m>
   <m>
@@ -46064,7 +46054,7 @@
  <s stype="information" w-speaker.rf="spk2" id="m-397" w-begin.rf="w#d1t4351-2" w-end.rf="w#d1t4355-5">
   <m>
    <AM id="m-d1t4351-3">
-    <form>Byly</form>
+    <form>Byli</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t4351-3</w.rf>

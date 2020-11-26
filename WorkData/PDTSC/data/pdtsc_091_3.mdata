@@ -22999,7 +22999,21 @@
    </AM>
   </m>
   <m>
-   <AM id="m-d-m-d1e1393-x3-punct-punct">
+   <AM id="m-d-m-d1e1393-x3-punct-punct0">
+    <form>.</form>
+    <tag>Z:-------------</tag>
+    <lemma>.</lemma>
+   </AM>
+  </m>
+  <m>
+   <AM id="m-d-m-d1e1393-x3-punct-punct1">
+    <form>.</form>
+    <tag>Z:-------------</tag>
+    <lemma>.</lemma>
+   </AM>
+  </m>
+  <m>
+   <AM id="m-d-m-d1e1393-x3-punct-punct2">
     <form>.</form>
     <tag>Z:-------------</tag>
     <lemma>.</lemma>
@@ -32229,7 +32243,17 @@
    </AM>
   </m>
   <m>
-   <AM id="m-d1e2077-x2-90">
+   <AM id="m-d1e2077-x2-90s0">
+    <form>.</form>
+   </AM>
+  </m>
+  <m>
+   <AM id="m-d1e2077-x2-90s1">
+    <form>.</form>
+   </AM>
+  </m>
+  <m>
+   <AM id="m-d1e2077-x2-90s2">
     <form>.</form>
    </AM>
   </m>
@@ -39943,8 +39967,18 @@
    </AM>
   </m>
   <m>
-   <AM id="m-d1t2541-6">
+   <AM id="m-d1t2541-6s0">
     <form>21</form>
+    <wrefs>
+     <LM>
+      <w.rf>w#d1t2541-6</w.rf>
+     </LM>
+    </wrefs>
+   </AM>
+  </m>
+  <m>
+   <AM id="m-d1t2541-6s1">
+    <form>letého</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t2541-6</w.rf>
@@ -40754,10 +40788,24 @@
    </AM>
   </m>
   <m>
-   <AM id="m-d-id141579-punct">
+   <AM id="m-d-id141579-punct0">
     <form>.</form>
     <tag>Z:-------------</tag>
-    <lemma>,</lemma>
+    <lemma>.</lemma>
+   </AM>
+  </m>
+  <m>
+   <AM id="m-d-id141579-punct1">
+    <form>.</form>
+    <tag>Z:-------------</tag>
+    <lemma>.</lemma>
+   </AM>
+  </m>
+  <m>
+   <AM id="m-d-id141579-punct2">
+    <form>.</form>
+    <tag>Z:-------------</tag>
+    <lemma>.</lemma>
    </AM>
   </m>
  </s>
@@ -41542,7 +41590,17 @@
    </AM>
   </m>
   <m>
-   <AM id="m-84-120">
+   <AM id="m-84-120s0">
+    <form>.</form>
+   </AM>
+  </m>
+  <m>
+   <AM id="m-84-120s1">
+    <form>.</form>
+   </AM>
+  </m>
+  <m>
+   <AM id="m-84-120s2">
     <form>.</form>
    </AM>
   </m>
@@ -53867,7 +53925,17 @@
    </AM>
   </m>
   <m>
-   <AM id="m-d1e3304-x2-316">
+   <AM id="m-d1e3304-x2-316s0">
+    <form>.</form>
+   </AM>
+  </m>
+  <m>
+   <AM id="m-d1e3304-x2-316s1">
+    <form>.</form>
+   </AM>
+  </m>
+  <m>
+   <AM id="m-d1e3304-x2-316s2">
     <form>.</form>
    </AM>
   </m>
@@ -55165,6 +55233,11 @@
    </AM>
   </m>
   <m>
+   <AM id="m-d1e3398-x2-514s0">
+    <form>,</form>
+   </AM>
+  </m>
+  <m>
    <AM id="m-d1e3398-x2-513">
     <form>řekl</form>
     <wrefs>
@@ -55175,7 +55248,17 @@
    </AM>
   </m>
   <m>
-   <AM id="m-d1e3398-x2-547">
+   <AM id="m-d1e3398-x2-547s0">
+    <form>.</form>
+   </AM>
+  </m>
+  <m>
+   <AM id="m-d1e3398-x2-547s1">
+    <form>.</form>
+   </AM>
+  </m>
+  <m>
+   <AM id="m-d1e3398-x2-547s2">
     <form>.</form>
    </AM>
   </m>
@@ -55692,7 +55775,17 @@
    </AM>
   </m>
   <m>
-   <AM id="m-552-556">
+   <AM id="m-552-556s0">
+    <form>.</form>
+   </AM>
+  </m>
+  <m>
+   <AM id="m-552-556s1">
+    <form>.</form>
+   </AM>
+  </m>
+  <m>
+   <AM id="m-552-556s2">
     <form>.</form>
    </AM>
   </m>
@@ -55982,7 +56075,17 @@
    </AM>
   </m>
   <m>
-   <AM id="m-d1e3431-x3-515">
+   <AM id="m-d1e3431-x3-515s0">
+    <form>.</form>
+   </AM>
+  </m>
+  <m>
+   <AM id="m-d1e3431-x3-515s1">
+    <form>.</form>
+   </AM>
+  </m>
+  <m>
+   <AM id="m-d1e3431-x3-515s2">
     <form>.</form>
    </AM>
   </m>
@@ -61628,7 +61731,17 @@
    </AM>
   </m>
   <m>
-   <AM id="m-1049-1052">
+   <AM id="m-1049-1052s0">
+    <form>.</form>
+   </AM>
+  </m>
+  <m>
+   <AM id="m-1049-1052s1">
+    <form>.</form>
+   </AM>
+  </m>
+  <m>
+   <AM id="m-1049-1052s2">
     <form>.</form>
    </AM>
   </m>

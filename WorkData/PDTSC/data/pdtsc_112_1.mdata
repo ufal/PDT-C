@@ -20510,12 +20510,23 @@
    </AM>
   </m>
   <m>
-   <AM id="m-d1t1047-4">
+   <AM id="m-d1t1047-4s0">
     <form>V</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t1047-4</w.rf>
      </LM>
+    </wrefs>
+    <comment>
+     <type>w-token</type>
+     <text>"fau ein"</text>
+    </comment>
+   </AM>
+  </m>
+  <m>
+   <AM id="m-d1t1047-4s1">
+    <form>1</form>
+    <wrefs>
      <LM>
       <w.rf>w#d1t1047-7</w.rf>
      </LM>
@@ -20544,8 +20555,22 @@
    </AM>
   </m>
   <m>
-   <AM id="m-d1t1047-7">
+   <AM id="m-d1t1047-7s0">
     <form>V</form>
+    <wrefs>
+     <LM>
+      <w.rf>w#d1t1047-7</w.rf>
+     </LM>
+    </wrefs>
+    <comment>
+     <type>w-token</type>
+     <text>"s fau zwei"</text>
+    </comment>
+   </AM>
+  </m>
+  <m>
+   <AM id="m-d1t1047-7s1">
+    <form>2</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t1047-7</w.rf>

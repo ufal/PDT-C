@@ -46337,16 +46337,6 @@
    </AM>
   </m>
   <m>
-   <AM id="m-d1t1744-7">
-    <form>protože</form>
-    <wrefs>
-     <LM>
-      <w.rf>w#d1t1744-7</w.rf>
-     </LM>
-    </wrefs>
-   </AM>
-  </m>
-  <m>
    <AM id="m-d1t1744-8">
     <form>když</form>
     <wrefs>
@@ -47549,13 +47539,6 @@
       <w.rf>w#d1t1784-10</w.rf>
      </LM>
     </wrefs>
-   </AM>
-  </m>
-  <m>
-   <AM id="m-d-id149503-punct">
-    <form>,</form>
-    <tag>Z:-------------</tag>
-    <lemma>,</lemma>
    </AM>
   </m>
   <m>

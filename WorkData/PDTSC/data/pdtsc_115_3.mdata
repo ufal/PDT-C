@@ -2816,7 +2816,7 @@
  <s stype="information" w-speaker.rf="spk2" id="m-140" w-begin.rf="w#d1t232-14" w-end.rf="w#d1t232-24">
   <m>
    <AM id="m-d1t232-14">
-    <form>Byly</form>
+    <form>Byli</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t232-14</w.rf>
@@ -24861,7 +24861,7 @@
  <s stype="information" w-speaker.rf="spk2" id="m-294" w-begin.rf="w#d1e1314" w-end.rf="w#d1t1315-15">
   <m>
    <AM id="m-d1t1315-4">
-    <form>Byly</form>
+    <form>Byli</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t1315-4</w.rf>
@@ -31342,12 +31342,19 @@
    </AM>
   </m>
   <m>
-   <AM id="m-d1t1607-10">
+   <AM id="m-d1t1607-10s0">
     <form>29</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t1607-10</w.rf>
      </LM>
+    </wrefs>
+   </AM>
+  </m>
+  <m>
+   <AM id="m-d1t1607-10s1">
+    <form>letého</form>
+    <wrefs>
      <LM>
       <w.rf>w#d1t1607-11</w.rf>
      </LM>
@@ -51405,7 +51412,7 @@
  <s stype="information" w-speaker.rf="spk2" id="m-370" w-begin.rf="w#d1t2671-6" w-end.rf="w#d1t2676-4">
   <m>
    <AM id="m-d1t2671-7">
-    <form>Byly</form>
+    <form>Byli</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t2671-7</w.rf>

@@ -12340,8 +12340,22 @@
    </AM>
   </m>
   <m>
-   <AM id="m-11681-11698">
+   <AM id="m-11681-11698s0">
     <form>Jom</form>
+    <wrefs>
+     <LM>
+      <w.rf>w#d1e1031</w.rf>
+     </LM>
+    </wrefs>
+    <comment>
+     <type>w-recognize</type>
+     <text>Jom kipur</text>
+    </comment>
+   </AM>
+  </m>
+  <m>
+   <AM id="m-11681-11698s1">
+    <form>kipur</form>
     <wrefs>
      <LM>
       <w.rf>w#d1e1031</w.rf>

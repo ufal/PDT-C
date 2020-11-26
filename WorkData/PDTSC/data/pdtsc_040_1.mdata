@@ -17347,8 +17347,8 @@
    </AM>
   </m>
   <m>
-   <AM id="m-d1t1530-2">
-    <form>75procentní</form>
+   <AM id="m-d1t1530-2s0">
+    <form>75</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t1530-2</w.rf>
@@ -17356,15 +17356,17 @@
      <LM>
       <w.rf>w#d1t1530-3</w.rf>
      </LM>
-     <LM>
-      <w.rf>w#d1t1530-4</w.rf>
-     </LM>
     </wrefs>
    </AM>
   </m>
   <m>
-   <AM id="m-d1e1521-x2-2350">
-    <form>,</form>
+   <AM id="m-d1t1530-2s1">
+    <form>procentní</form>
+    <wrefs>
+     <LM>
+      <w.rf>w#d1t1530-4</w.rf>
+     </LM>
+    </wrefs>
    </AM>
   </m>
   <nontext id="m-d1e1521-x2-2836">

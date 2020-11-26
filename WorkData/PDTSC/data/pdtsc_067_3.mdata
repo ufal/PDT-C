@@ -12344,6 +12344,13 @@
    </AM>
   </m>
   <m>
+   <AM id="m-d-id79787">
+    <form>,</form>
+    <tag>Z:-------------</tag>
+    <lemma>,</lemma>
+   </AM>
+  </m>
+  <m>
    <AM id="m-d1t573-14">
     <form>taková</form>
     <wrefs>
@@ -12351,13 +12358,6 @@
       <w.rf>w#d1t573-14</w.rf>
      </LM>
     </wrefs>
-   </AM>
-  </m>
-  <m>
-   <AM id="m-d-id79787">
-    <form>,</form>
-    <tag>Z:-------------</tag>
-    <lemma>,</lemma>
    </AM>
   </m>
   <m>
@@ -14692,11 +14692,6 @@
       <w.rf>w#d1t678-7</w.rf>
      </LM>
     </wrefs>
-   </AM>
-  </m>
-  <m>
-   <AM id="m-d1e673-x2-174">
-    <form>,</form>
    </AM>
   </m>
   <m>

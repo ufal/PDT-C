@@ -892,7 +892,7 @@
 <nodetype>fphr</nodetype>
 <t_lemma>'</t_lemma>
 <functor>FPHR</functor>
-<deepord>8</deepord>
+<deepord>9</deepord>
 </LM>
 <LM id="jg_017.02-SCzechT-m-d1e540-x2-918">
 <a>
@@ -907,7 +907,7 @@
 <number>nr</number>
 <negation>neg0</negation>
 </gram>
-<deepord>9</deepord>
+<deepord>8</deepord>
 </LM>
 <LM id="jg_017.02-SCzechT-jg_017-70-roota3">
 <a>

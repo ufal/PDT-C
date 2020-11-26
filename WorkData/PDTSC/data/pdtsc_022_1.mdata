@@ -16243,13 +16243,6 @@
    </AM>
   </m>
   <m>
-   <AM id="m-d-id92788-punct">
-    <form>,</form>
-    <tag>Z:-------------</tag>
-    <lemma>,</lemma>
-   </AM>
-  </m>
-  <m>
    <AM id="m-d1t1235-1">
     <form>a</form>
     <wrefs>
@@ -40252,16 +40245,6 @@
     <wrefs>
      <LM>
       <w.rf>w#d1t3211-17</w.rf>
-     </LM>
-    </wrefs>
-   </AM>
-  </m>
-  <m>
-   <AM id="m-d1t3211-19">
-    <form>to</form>
-    <wrefs>
-     <LM>
-      <w.rf>w#d1t3211-19</w.rf>
      </LM>
     </wrefs>
    </AM>

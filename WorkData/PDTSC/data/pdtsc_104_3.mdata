@@ -16736,8 +16736,18 @@
    </AM>
   </m>
   <m>
-   <AM id="m-717-102">
+   <AM id="m-717-102s0">
     <form>29</form>
+    <wrefs>
+     <LM>
+      <w.rf>w#d1t1315-5</w.rf>
+     </LM>
+    </wrefs>
+   </AM>
+  </m>
+  <m>
+   <AM id="m-717-102s1">
+    <form>letý</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t1315-5</w.rf>
@@ -16821,8 +16831,18 @@
    </AM>
   </m>
   <m>
-   <AM id="m-725-104">
+   <AM id="m-725-104s0">
     <form>29</form>
+    <wrefs>
+     <LM>
+      <w.rf>w#d1t1317-2</w.rf>
+     </LM>
+    </wrefs>
+   </AM>
+  </m>
+  <m>
+   <AM id="m-725-104s1">
+    <form>letý</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t1317-2</w.rf>
@@ -17064,8 +17084,18 @@
    </AM>
   </m>
   <m>
-   <AM id="m-d1e1342-x2-106">
+   <AM id="m-d1e1342-x2-106s0">
     <form>29</form>
+    <wrefs>
+     <LM>
+      <w.rf>w#d1t1347-2</w.rf>
+     </LM>
+    </wrefs>
+   </AM>
+  </m>
+  <m>
+   <AM id="m-d1e1342-x2-106s1">
+    <form>letý</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t1347-2</w.rf>
@@ -20476,7 +20506,7 @@
   </m>
   <m>
    <AM id="m-d1t1507-3">
-    <form>dali</form>
+    <form>daly</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t1507-3</w.rf>
@@ -30085,13 +30115,6 @@
    </AM>
   </m>
   <m>
-   <AM id="m-d-id124181-punct">
-    <form>,</form>
-    <tag>Z:-------------</tag>
-    <lemma>,</lemma>
-   </AM>
-  </m>
-  <m>
    <AM id="m-d1t2173-3">
     <form>že</form>
     <wrefs>
@@ -33400,11 +33423,6 @@
       <w.rf>w#d1t2461-17</w.rf>
      </LM>
     </wrefs>
-   </AM>
-  </m>
-  <m>
-   <AM id="m-117-119">
-    <form>,</form>
    </AM>
   </m>
   <m>
@@ -41772,7 +41790,7 @@
   </m>
   <m>
    <AM id="m-d1t2946-18">
-    <form>jsem</form>
+    <form>jsme</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t2946-18</w.rf>
