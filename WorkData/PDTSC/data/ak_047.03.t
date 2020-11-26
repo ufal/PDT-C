@@ -4,7 +4,7 @@
 <schema href="tanot_coref_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ak_047.03.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -4180,7 +4180,7 @@
 <deepord>5</deepord>
 <coref_text>
 <LM>
-<target-node.rf>ak_047.03-SCzechT-m-d1t963-6</target-node.rf>
+<target-node.rf>ak_047.03-SCzechT-ak_047-357-roota2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>mark</src>
 </LM>
