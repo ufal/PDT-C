@@ -1,0 +1,88 @@
+#centered {
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  position: relative;
+  background-color: #fbf7e3;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  padding: 10px
+}
+body {
+  margin: 0px;
+  margin-top: 20px;
+  margin-bottom: 15px;
+  background-color: #ddedf4;
+  font-size: 90%;
+  font-family: Verdana
+}
+h1 {
+  font-size: 150%;
+  font-family: Verdana;
+  color: #034d6b
+}
+h2 {
+  font-size: 135%;
+  font-family: Arial;
+  color: #034d6b;
+  margin-top: 30px
+}
+h3 {
+  font-size: 125%;
+  font-family: Arial;
+  margin-top: 30px;
+  color: #056c96
+}
+h4 {
+  font-size: 115%;
+  font-family: Arial;
+  color: #034d6b;
+  font-style: italic
+}
+h5 {
+  font-size: 100%;
+  font-family: Arial;
+  color: #056c96;
+  font-style: italic
+}
+
+a:link    {color: #056c96; text-decoration: none}
+a:visited    {color: #056c96; text-decoration: none}
+a:active    {color: red; text-decoration: none}
+a:hover     {color: #08b8ff; text-decoration: underline}
+[disabled] {
+  color: #222222
+}
+table {
+  margin-left: 20px;
+  margin-top: 5px;
+  border-collapse: collapse;
+  border-style: solid;
+  border-color: #034d6b
+}
+.picture {
+  margin-left: 20px;
+  margin-top: 5px
+}
+.description {
+  margin: 5px;
+  color: #034d6b
+}
+th {
+  border-color: #034d6b;
+  font-weight: bold;
+  padding: 5px;
+  text-align: center
+}
+td {
+  padding: 5px;
+  border-color: #034d6b;
+  text-align: center
+}
+caption {
+  color: #034d6b;
+  margin-top: 5px;
+  text-align: left
+}
