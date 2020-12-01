@@ -1,0 +1,56 @@
+SHELL=/bin/bash
+
+BASE_DIR:=$(PWD)
+
+TREEX=PERL5LIB=${BASE_DIR}/lib:${PERL5LIB} treex
+LRC=0
+ifeq ($(LRC), 1)
+LRC_FLAG=-p --jobs=100 --workdir='${BASE_DIR}/tmp/treex_runs/{NNN}-run.{XXXX}' --qsub "-v PERL5LIB=${BASE_DIR}/lib"
+#LRC_FLAG=-p --jobs=100 --qsub "-v PERL5LIB=${BASE_DIR}/lib"
+TREEX:=$(TREEX) $(LRC_FLAG)
+endif
+
+
+TMP_DIR=tmp
+
+##################################################################################################################################
+############################## RETRIEVE THE SCHEMA FILES FOR PDT-LIKE PARTS OF THE NEW PCEDT #####################################
+##################################################################################################################################
+
+ORIG_SCHEMA_DIR=PDT-C/resources
+SCHEMA_DIR=$(TMP_DIR)/schema
+
+$(SCHEMA_DIR) :
+	mkdir $@
+	cp PDT-C/resources/tdata_c_schema.xml $@ 
+	cp PDT-C/resources/adata_c_schema.xml $@
+	cp PDT-C/resources/mdata_c_schema.xml $@
+	cp PDT-C/resources/wdata_c_schema.xml $@
+	cp ${TMT_ROOT}/treex/lib/Treex/Block/Read/PDT_schema/pdata_eng_schema.xml $@
+	cat /net/work/projects/pcedt-coref/lrec_2016/orig_data/schema/tdata_eng_schema.xml | \
+		sed 's/target-node\.rf/target_node.rf/g' | \
+		sed 's/informal-type/type/g' > $@/tdata_eng_schema.xml
+	cp /net/work/projects/pcedt-coref/lrec_2016/orig_data/schema/adata_eng_schema.xml $@
+
+##################################################################################################################################
+############################ COPY ALL FILES TO THE SAME DIR, CHANGE REFERENCES AND SOME MARKUP ###################################
+##################################################################################################################################
+ORIG_DIR=$(TMP_DIR)/00.original
+
+$(ORIG_DIR)/done :
+	scripts/pcedt/structure_pcedt_parts.sh ../../PEDT/data PDT-C/data/PCEDT/pml $(dir $@)
+	touch $@
+
+##################################################################################################################################
+########## TRANSFORM PDT-LIKE LANGUAGE PARTS TO A SINGLE-FILE TREEX REPRESENTATION - LANGUAGES ARE SENTENCE-ALIGNED ##############
+##################################################################################################################################
+UNALIGNED_DIR=$(TMP_DIR)/01.treex_unaligned
+
+$(UNALIGNED_DIR)/done : $(ORIG_DIR)/done | $(SCHEMA_DIR)
+	mkdir -p $(dir $@)
+	mkdir -p $(TMP_DIR)/treex_runs
+	treex $(LRC_FLAG) \
+		Read::PCEDT from='!$(dir $<)/wsj*.en.t.gz' schema_dir=$| skip_finished='{$(dir $<)/wsj(....).*}{$(dir $@)/wsj$$1.treex.gz}' \
+		Write::Treex substitute='{$(dir $<)/wsj(....).*}{$(dir $@)/wsj$$1.treex.gz}'
+	touch $@
+
