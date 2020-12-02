@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
   <head>
-    <schema href="m-pdtsc-schema.xml" />
+    <schema href="m-pdtsc-schema.xml"/>
     <references>
-      <reffile id="w" name="wdata" href="pdtsc_095.wdata" />
+      <reffile id="w" name="wdata" href="pdtsc_095.wdata"/>
     </references>
   </head>
   <meta/>
@@ -34541,4 +34541,3 @@
     </m>
   </s>
 </mdata>
-
