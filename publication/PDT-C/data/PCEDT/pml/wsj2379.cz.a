@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="aanot_schema.xml"/>
+<schema href="adata_c_schema.xml"/>
 <references>
 <reffile id="m" href="wsj2379.cz.m" name="mdata"/>
 <reffile id="w" href="wsj2379.cz.w" name="wdata"/>
@@ -209,7 +209,6 @@
 <ord>31</ord>
 </LM>
 </children>
-<eng_sentence>reminiscent of those during the 1987 crash -- that as stock prices plummeted and trading activity escalated, some phone calls to market makers in over-the-counter stocks went unanswered.</eng_sentence>
 </LM>
 <LM id="a-wsj2379-001-p1s1">
 <s.rf>m#m-wsj2379-001-p1s1</s.rf>
@@ -400,7 +399,6 @@
 <ord>30</ord>
 </LM>
 </children>
-<eng_sentence>``We couldn't get dealers to answer their phones,'' said Robert King, senior vice president of OTC trading at Robinson-Humphrey Co. in Atlanta.</eng_sentence>
 </LM>
 <LM id="a-wsj2379-001-p1s2">
 <s.rf>m#m-wsj2379-001-p1s2</s.rf>
@@ -503,7 +501,6 @@
 <ord>16</ord>
 </LM>
 </children>
-<eng_sentence>``It was [like] the Friday before Black Monday'' two years ago.</eng_sentence>
 </LM>
 <LM id="a-wsj2379-001-p1s3">
 <s.rf>m#m-wsj2379-001-p1s3</s.rf>
@@ -664,7 +661,6 @@
 <ord>24</ord>
 </LM>
 </children>
-<eng_sentence>Whether unanswered phone calls had any effect or not, Nasdaq stocks sank far less than those on the New York and American exchanges.</eng_sentence>
 </LM>
 <LM id="a-wsj2379-001-p1s4">
 <s.rf>m#m-wsj2379-001-p1s4</s.rf>
@@ -855,7 +851,6 @@
 <ord>30</ord>
 </LM>
 </children>
-<eng_sentence>Nonetheless, the Nasdaq Composite Index suffered its biggest point decline of the year and its sixth worst ever, diving 14.90, or 3%, to 467.29.</eng_sentence>
 </LM>
 <LM id="a-wsj2379-001-p1s5">
 <s.rf>m#m-wsj2379-001-p1s5</s.rf>
@@ -920,7 +915,6 @@
 <ord>10</ord>
 </LM>
 </children>
-<eng_sentence>Ten points of the drop occurred during the last 45 minutes of trading.</eng_sentence>
 </LM>
 <LM id="a-wsj2379-001-p1s6">
 <s.rf>m#m-wsj2379-001-p1s6</s.rf>
@@ -1110,7 +1104,6 @@
 <ord>29</ord>
 </LM>
 </children>
-<eng_sentence>By comparison, the New York Stock Exchange Composite tumbled 5.8% Friday and the American Stock Exchange Composite fell 4%.</eng_sentence>
 </LM>
 <LM id="a-wsj2379-001-p1s7">
 <s.rf>m#m-wsj2379-001-p1s7</s.rf>
@@ -1335,7 +1328,6 @@
 <ord>34</ord>
 </LM>
 </children>
-<eng_sentence>On Oct. 16, 1987, the Nasdaq Composite fell 16.18 points, or 3.8%, followed by its devastating 46.12-point, or 11% slide, three days later.</eng_sentence>
 </LM>
 <LM id="a-wsj2379-001-p1s8">
 <s.rf>m#m-wsj2379-001-p1s8</s.rf>
@@ -1495,7 +1487,6 @@
 <ord>25</ord>
 </LM>
 </children>
-<eng_sentence>Nasdaq volume Friday totaled 167.7 million shares, which was only the fifth busiest day so far this year.</eng_sentence>
 </LM>
 <LM id="a-wsj2379-001-p1s9">
 <s.rf>m#m-wsj2379-001-p1s9</s.rf>
@@ -1569,7 +1560,6 @@
 <ord>11</ord>
 </LM>
 </children>
-<eng_sentence>The single-day record of 288 million shares was set on Oct. 21,</eng_sentence>
 </LM>
 <LM id="a-wsj2379-001-p1s10">
 <s.rf>m#m-wsj2379-001-p1s10</s.rf>
@@ -1857,7 +1847,6 @@
 <ord>46</ord>
 </LM>
 </children>
-<eng_sentence>``There wasn't a lot of volume because it was just impossible to get stock moved,'' said E.E. ``Buzzy'' Geduld, president of Herzog, Heine, Geduld, a New York company that makes markets in thousands of OTC issues.</eng_sentence>
 </LM>
 <LM id="a-wsj2379-001-p1s11">
 <s.rf>m#m-wsj2379-001-p1s11</s.rf>
@@ -1961,7 +1950,6 @@
 <ord>15</ord>
 </LM>
 </children>
-<eng_sentence>Most of the complaints about unanswered phone calls came from regional brokers rather than individual investors.</eng_sentence>
 </LM>
 <LM id="a-wsj2379-001-p1s12">
 <s.rf>m#m-wsj2379-001-p1s12</s.rf>
@@ -2211,7 +2199,6 @@
 <ord>39</ord>
 </LM>
 </children>
-<eng_sentence>Mr. King of Robinson-Humphrey and others were quick to add that they believe the problem stemmed more from traders' inability to handle the volume of calls, rather than a deliberate attempt to avoid making trades.</eng_sentence>
 </LM>
 <LM id="a-wsj2379-001-p1s13">
 <s.rf>m#m-wsj2379-001-p1s13</s.rf>
@@ -2468,7 +2455,6 @@
 <ord>40</ord>
 </LM>
 </children>
-<eng_sentence>The subject is a sore one for Nasdaq and its market-making companies, which were widely criticized two years ago following complaints from investors who couldn't reach their brokers or trade in the chaos of the crash.</eng_sentence>
 </LM>
 <LM id="a-wsj2379-001-p1s14">
 <s.rf>m#m-wsj2379-001-p1s14</s.rf>
@@ -2635,7 +2621,6 @@
 <ord>26</ord>
 </LM>
 </children>
-<eng_sentence>Peter DaPuzzo, head of retail equity trading at Shearson Lehman Hutton, declared: ``It was the last hour of trading on a Friday.</eng_sentence>
 </LM>
 <LM id="a-wsj2379-001-p1s15">
 <s.rf>m#m-wsj2379-001-p1s15</s.rf>
@@ -2802,7 +2787,6 @@
 <ord>26</ord>
 </LM>
 </children>
-<eng_sentence>There were too many phones ringing and too many things happening to expect market makers to be as efficient as robots.</eng_sentence>
 </LM>
 <LM id="a-wsj2379-001-p1s16">
 <s.rf>m#m-wsj2379-001-p1s16</s.rf>
@@ -2867,7 +2851,6 @@
 <ord>9</ord>
 </LM>
 </children>
-<eng_sentence>It wasn't intentional, we were all busy.''</eng_sentence>
 </LM>
 <LM id="a-wsj2379-001-p1s17">
 <s.rf>m#m-wsj2379-001-p1s17</s.rf>
@@ -3024,7 +3007,6 @@
 <ord>24</ord>
 </LM>
 </children>
-<eng_sentence>James Tarantino, head of OTC trading at Hambrecht &amp; Quist in San Francisco, said, ``It was just like two years ago.</eng_sentence>
 </LM>
 <LM id="a-wsj2379-001-p1s18">
 <s.rf>m#m-wsj2379-001-p1s18</s.rf>
@@ -3096,7 +3078,6 @@
 <ord>10</ord>
 </LM>
 </children>
-<eng_sentence>Everybody was trying to do the same thing at the same time.''</eng_sentence>
 </LM>
 <LM id="a-wsj2379-001-p1s19">
 <s.rf>m#m-wsj2379-001-p1s19</s.rf>
@@ -3282,7 +3263,6 @@
 <ord>29</ord>
 </LM>
 </children>
-<eng_sentence>Jeremiah Mullins, the OTC trading chief at Dean Witter Reynolds in New York, said proudly that his company executed every order it received by the close of trading.</eng_sentence>
 </LM>
 <LM id="a-wsj2379-001-p1s20">
 <s.rf>m#m-wsj2379-001-p1s20</s.rf>
@@ -3376,7 +3356,6 @@
 <ord>13</ord>
 </LM>
 </children>
-<eng_sentence>But, he added, ``you can only take one call at a time.''</eng_sentence>
 </LM>
 <LM id="a-wsj2379-001-p1s21">
 <s.rf>m#m-wsj2379-001-p1s21</s.rf>
@@ -3510,7 +3489,6 @@
 <ord>21</ord>
 </LM>
 </children>
-<eng_sentence>Market makers keep supplies of stock on hand to maintain orderly trading when imbalances occur.</eng_sentence>
 </LM>
 <LM id="a-wsj2379-001-p1s22">
 <s.rf>m#m-wsj2379-001-p1s22</s.rf>
@@ -3653,7 +3631,6 @@
 <ord>22</ord>
 </LM>
 </children>
-<eng_sentence>On days like Friday, that means they must buy shares from sellers when no one else is willing to.</eng_sentence>
 </LM>
 <LM id="a-wsj2379-001-p1s23">
 <s.rf>m#m-wsj2379-001-p1s23</s.rf>
@@ -3737,7 +3714,6 @@
 <ord>13</ord>
 </LM>
 </children>
-<eng_sentence>When selling is so frenzied, prices fall steeply and fast.</eng_sentence>
 </LM>
 <LM id="a-wsj2379-001-p1s24">
 <s.rf>m#m-wsj2379-001-p1s24</s.rf>
@@ -3958,7 +3934,6 @@
 <ord>34</ord>
 </LM>
 </children>
-<eng_sentence>Two years ago, faced with the possibility of heavy losses on the stocks in their inventories, market makers themselves began dumping shares, exacerbating the slide in OTC stock prices.</eng_sentence>
 </LM>
 <LM id="a-wsj2379-001-p1s25">
 <s.rf>m#m-wsj2379-001-p1s25</s.rf>
@@ -4030,7 +4005,6 @@
 <ord>11</ord>
 </LM>
 </children>
-<eng_sentence>On Friday, some market makers were selling again, traders said.</eng_sentence>
 </LM>
 <LM id="a-wsj2379-001-p1s26">
 <s.rf>m#m-wsj2379-001-p1s26</s.rf>
@@ -4158,7 +4132,6 @@
 <ord>20</ord>
 </LM>
 </children>
-<eng_sentence>But, with profits sagging on Wall Street since the crash, companies have kept smaller share stockpiles on hand.</eng_sentence>
 </LM>
 <LM id="a-wsj2379-001-p1s27">
 <s.rf>m#m-wsj2379-001-p1s27</s.rf>
@@ -4403,7 +4376,6 @@
 <ord>40</ord>
 </LM>
 </children>
-<eng_sentence>Mr. Tarantino of Hambrecht &amp; Quist said some prices fell without trades taking place, as market makers kept dropping the prices at which they would buy shares.</eng_sentence>
 </LM>
 <LM id="a-wsj2379-001-p1s28">
 <s.rf>m#m-wsj2379-001-p1s28</s.rf>
@@ -4461,7 +4433,6 @@
 <ord>9</ord>
 </LM>
 </children>
-<eng_sentence>``Everyone was hitting everyone else's bid,'' he said.</eng_sentence>
 </LM>
 <LM id="a-wsj2379-001-p1s29">
 <s.rf>m#m-wsj2379-001-p1s29</s.rf>
@@ -4633,7 +4604,6 @@
 <ord>27</ord>
 </LM>
 </children>
-<eng_sentence>So, while OTC companies incurred losses on Friday, trading officials said the damage wasn't as bad as it was in 1987.</eng_sentence>
 </LM>
 <LM id="a-wsj2379-001-p1s30">
 <s.rf>m#m-wsj2379-001-p1s30</s.rf>
@@ -4736,7 +4706,6 @@
 <ord>16</ord>
 </LM>
 </children>
-<eng_sentence>``Two years ago we were carrying huge inventories and that was the big culprit.</eng_sentence>
 </LM>
 <LM id="a-wsj2379-001-p1s31">
 <s.rf>m#m-wsj2379-001-p1s31</s.rf>
@@ -4863,7 +4832,6 @@
 <ord>20</ord>
 </LM>
 </children>
-<eng_sentence>I don't know of anyone carrying big inventories now,'' said Mr. King of Robinson-Humphrey.</eng_sentence>
 </LM>
 <LM id="a-wsj2379-001-p1s32">
 <s.rf>m#m-wsj2379-001-p1s32</s.rf>
@@ -5065,7 +5033,6 @@
 <ord>31</ord>
 </LM>
 </children>
-<eng_sentence>Tony Cecin, head of equity trading at Piper, Jaffray &amp; Hopwood in Minneapolis, said that Piper Jaffray actually made money on Friday.</eng_sentence>
 </LM>
 <LM id="a-wsj2379-001-p1s33">
 <s.rf>m#m-wsj2379-001-p1s33</s.rf>
@@ -5189,7 +5156,6 @@
 <ord>19</ord>
 </LM>
 </children>
-<eng_sentence>It helped that his inventory is a third smaller now than it was two years ago, he said.</eng_sentence>
 </LM>
 <LM id="a-wsj2379-001-p1s34">
 <s.rf>m#m-wsj2379-001-p1s34</s.rf>
@@ -5414,7 +5380,6 @@
 <ord>36</ord>
 </LM>
 </children>
-<eng_sentence>Joseph Hardiman, president of the National Association of Securities Dealers, which oversees the Nasdaq computerized trading system, said that despite the rush of selling, he never considered the situation an ``emergency.''</eng_sentence>
 </LM>
 <LM id="a-wsj2379-001-p1s35">
 <s.rf>m#m-wsj2379-001-p1s35</s.rf>
@@ -5472,7 +5437,6 @@
 <ord>9</ord>
 </LM>
 </children>
-<eng_sentence>``The pace of trading was orderly,'' he said.</eng_sentence>
 </LM>
 <LM id="a-wsj2379-001-p1s36">
 <s.rf>m#m-wsj2379-001-p1s36</s.rf>
@@ -5622,7 +5586,6 @@
 <ord>23</ord>
 </LM>
 </children>
-<eng_sentence>Nasdaq's Small Order Execution System ``worked beautifully,'' as did the automated system for larger trades, according to Mr. Hardiman.</eng_sentence>
 </LM>
 <LM id="a-wsj2379-001-p1s37">
 <s.rf>m#m-wsj2379-001-p1s37</s.rf>
@@ -5716,7 +5679,6 @@
 <ord>14</ord>
 </LM>
 </children>
-<eng_sentence>Nevertheless, the shock of another steep plunge in stock prices undoubtedly will shake many investors' confidence.</eng_sentence>
 </LM>
 <LM id="a-wsj2379-001-p1s38">
 <s.rf>m#m-wsj2379-001-p1s38</s.rf>
@@ -5804,7 +5766,6 @@
 <ord>13</ord>
 </LM>
 </children>
-<eng_sentence>In the past, the OTC market thrived on a firm base of small-investor participation.</eng_sentence>
 </LM>
 <LM id="a-wsj2379-001-p1s39">
 <s.rf>m#m-wsj2379-001-p1s39</s.rf>
@@ -6007,7 +5968,6 @@
 <ord>32</ord>
 </LM>
 </children>
-<eng_sentence>Because Nasdaq's trading volume hasn't returned to pre-crash levels, traders and OTC market officials hope the damage won't be permanent.</eng_sentence>
 </LM>
 <LM id="a-wsj2379-001-p1s40">
 <s.rf>m#m-wsj2379-001-p1s40</s.rf>
@@ -6039,7 +5999,6 @@
 <ord>4</ord>
 </LM>
 </children>
-<eng_sentence>But they are worried.</eng_sentence>
 </LM>
 <LM id="a-wsj2379-001-p1s41">
 <s.rf>m#m-wsj2379-001-p1s41</s.rf>
@@ -6152,7 +6111,6 @@
 <ord>18</ord>
 </LM>
 </children>
-<eng_sentence>``We were just starting to get the public's confidence back,'' lamented Mr. Mullins of Dean Witter.</eng_sentence>
 </LM>
 <LM id="a-wsj2379-001-p1s42">
 <s.rf>m#m-wsj2379-001-p1s42</s.rf>
@@ -6372,7 +6330,6 @@
 <ord>35</ord>
 </LM>
 </children>
-<eng_sentence>More troubling is the prospect that the overall collapse in stock prices could permanently erode the base of small-investor support the OTC market was struggling to rebuild in the wake of the October 1987 crash.</eng_sentence>
 </LM>
 <LM id="a-wsj2379-001-p1s43">
 <s.rf>m#m-wsj2379-001-p1s43</s.rf>
@@ -6503,7 +6460,6 @@
 <ord>20</ord>
 </LM>
 </children>
-<eng_sentence>Mr. Cecin of Piper Jaffray says some action from government policy makers would allay investor fears.</eng_sentence>
 </LM>
 <LM id="a-wsj2379-001-p1s44">
 <s.rf>m#m-wsj2379-001-p1s44</s.rf>
@@ -6604,7 +6560,6 @@
 <ord>16</ord>
 </LM>
 </children>
-<eng_sentence>It won't take much more to ``scare the hell out of retail investors,'' he says.</eng_sentence>
 </LM>
 <LM id="a-wsj2379-001-p1s45">
 <s.rf>m#m-wsj2379-001-p1s45</s.rf>
@@ -6779,7 +6734,6 @@
 <ord>27</ord>
 </LM>
 </children>
-<eng_sentence>The sellers on Friday came from all corners of the OTC market -- big and small institutional investors, as well as individual investors and market makers.</eng_sentence>
 </LM>
 <LM id="a-wsj2379-001-p1s46">
 <s.rf>m#m-wsj2379-001-p1s46</s.rf>
@@ -6980,7 +6934,6 @@
 <ord>31</ord>
 </LM>
 </children>
-<eng_sentence>But grateful traders said the sell orders generally ranged from 20,000 shares to 50,000 shares, compared with blocks of 500,000 shares or more two years ago.</eng_sentence>
 </LM>
 <LM id="a-wsj2379-001-p1s47">
 <s.rf>m#m-wsj2379-001-p1s47</s.rf>
@@ -7135,7 +7088,6 @@
 <ord>24</ord>
 </LM>
 </children>
-<eng_sentence>Shearson's Mr. DaPuzzo said retail investors nervously sold stock Friday and never returned to bargain-hunt.</eng_sentence>
 </LM>
 <LM id="a-wsj2379-001-p1s48">
 <s.rf>m#m-wsj2379-001-p1s48</s.rf>
@@ -7298,7 +7250,6 @@
 <ord>26</ord>
 </LM>
 </children>
-<eng_sentence>Institutional investors, which had been selling stock throughout last week to lock in handsome gains made through the third quarter, were calmer.</eng_sentence>
 </LM>
 <LM id="a-wsj2379-001-p1s49">
 <s.rf>m#m-wsj2379-001-p1s49</s.rf>
@@ -7423,7 +7374,6 @@
 <ord>20</ord>
 </LM>
 </children>
-<eng_sentence>``We had a good amount of selling from institutions, but not as much panic,'' Mr. DaPuzzo said.</eng_sentence>
 </LM>
 <LM id="a-wsj2379-001-p1s50">
 <s.rf>m#m-wsj2379-001-p1s50</s.rf>
@@ -7524,7 +7474,6 @@
 <ord>15</ord>
 </LM>
 </children>
-<eng_sentence>``If they couldn't sell, some of them put the shares back on the shelf.''</eng_sentence>
 </LM>
 <LM id="a-wsj2379-001-p1s51">
 <s.rf>m#m-wsj2379-001-p1s51</s.rf>
@@ -7666,7 +7615,6 @@
 <ord>23</ord>
 </LM>
 </children>
-<eng_sentence>In addition, he said, some bigger institutional investors placed bids to buy some OTC stocks whose prices were beaten down.</eng_sentence>
 </LM>
 <LM id="a-wsj2379-001-p1s52">
 <s.rf>m#m-wsj2379-001-p1s52</s.rf>
@@ -7937,7 +7885,6 @@
 <ord>43</ord>
 </LM>
 </children>
-<eng_sentence>In addition, Mr. DaPuzzo said computer-guided program selling of OTC stocks in the Russell Index of 2000 small stocks and the Standard &amp; Poor's 500-stock Index sent occasional ``waves ``through the market.</eng_sentence>
 </LM>
 <LM id="a-wsj2379-001-p1s53">
 <s.rf>m#m-wsj2379-001-p1s53</s.rf>
@@ -7997,7 +7944,6 @@
 <ord>9</ord>
 </LM>
 </children>
-<eng_sentence>Nasdaq's biggest stocks were hammered.</eng_sentence>
 </LM>
 <LM id="a-wsj2379-001-p1s54">
 <s.rf>m#m-wsj2379-001-p1s54</s.rf>
@@ -8188,7 +8134,6 @@
 <ord>30</ord>
 </LM>
 </children>
-<eng_sentence>The Nasdaq 100 Index of the largest nonfinancial issues, including the big OTC technology issues, tumbled 4.2%, or 19.76, to 449.33.</eng_sentence>
 </LM>
 <LM id="a-wsj2379-001-p1s55">
 <s.rf>m#m-wsj2379-001-p1s55</s.rf>
@@ -8333,7 +8278,6 @@
 <ord>22</ord>
 </LM>
 </children>
-<eng_sentence>The Nasdaq Financial Index of giant insurance and banking stocks dropped 2%, or 9.31, to 462.98.</eng_sentence>
 </LM>
 <LM id="a-wsj2379-001-p1s56">
 <s.rf>m#m-wsj2379-001-p1s56</s.rf>
@@ -8419,7 +8363,6 @@
 <ord>13</ord>
 </LM>
 </children>
-<eng_sentence>The OTC market has only a handful of takeover-related stocks.</eng_sentence>
 </LM>
 <LM id="a-wsj2379-001-p1s57">
 <s.rf>m#m-wsj2379-001-p1s57</s.rf>
@@ -8451,7 +8394,6 @@
 <ord>4</ord>
 </LM>
 </children>
-<eng_sentence>But they fell sharply.</eng_sentence>
 </LM>
 <LM id="a-wsj2379-001-p1s58">
 <s.rf>m#m-wsj2379-001-p1s58</s.rf>
@@ -8686,7 +8628,6 @@
 <ord>36</ord>
 </LM>
 </children>
-<eng_sentence>McCaw Cellular Communications, for instance, has offered to buy LIN Broadcasting as well as Metromedia's New York City cellular telephone interests, and in a separate transaction, sell certain McCaw properties to Contel Cellular.</eng_sentence>
 </LM>
 <LM id="a-wsj2379-001-p1s59">
 <s.rf>m#m-wsj2379-001-p1s59</s.rf>
@@ -8807,7 +8748,6 @@
 <ord>18</ord>
 </LM>
 </children>
-<eng_sentence>McCaw lost 8%, or 3 1/2, to 40.</eng_sentence>
 </LM>
 <LM id="a-wsj2379-001-p1s60">
 <s.rf>m#m-wsj2379-001-p1s60</s.rf>
@@ -8952,7 +8892,6 @@
 <ord>22</ord>
 </LM>
 </children>
-<eng_sentence>LIN Broadcasting, dropped 5 1/2, or 5%, to 107 1/2.</eng_sentence>
 </LM>
 <LM id="a-wsj2379-001-p1s61">
 <s.rf>m#m-wsj2379-001-p1s61</s.rf>
@@ -9007,7 +8946,6 @@
 <ord>8</ord>
 </LM>
 </children>
-<eng_sentence>The turnover in both issues was roughly normal.</eng_sentence>
 </LM>
 <LM id="a-wsj2379-001-p1s62">
 <s.rf>m#m-wsj2379-001-p1s62</s.rf>
@@ -9307,7 +9245,6 @@
 <ord>47</ord>
 </LM>
 </children>
-<eng_sentence>On a day when negative takeover-related news didn't sit well with investors, Commercial Intertech, a maker of engineered metal parts, said Haas &amp; Partners advised it that it doesn't plan to pursue its previously reported $27.50-a-share bid to buy the company.</eng_sentence>
 </LM>
 <LM id="a-wsj2379-001-p1s63">
 <s.rf>m#m-wsj2379-001-p1s63</s.rf>
@@ -9374,7 +9311,6 @@
 <ord>10</ord>
 </LM>
 </children>
-<eng_sentence>Commercial Intertech plummeted 6 to 26.</eng_sentence>
 </LM>
 <LM id="a-wsj2379-001-p1s64">
 <s.rf>m#m-wsj2379-001-p1s64</s.rf>
@@ -9484,7 +9420,6 @@
 <ord>17</ord>
 </LM>
 </children>
-<eng_sentence>The issues of companies with ties to the junk bond market also tumbled Friday.</eng_sentence>
 </LM>
 <LM id="a-wsj2379-001-p1s65">
 <s.rf>m#m-wsj2379-001-p1s65</s.rf>
@@ -9647,7 +9582,6 @@
 <ord>24</ord>
 </LM>
 </children>
-<eng_sentence>On the OTC market, First Executive, a big buyer of the high-risk, high-yield issues, slid 2 to 12 1/4.</eng_sentence>
 </LM>
 <LM id="a-wsj2379-001-p1s66">
 <s.rf>m#m-wsj2379-001-p1s66</s.rf>
@@ -10250,7 +10184,6 @@
 <ord>94</ord>
 </LM>
 </children>
-<eng_sentence>Among other OTC issues, Intel, dropped 2 1/8 to 33 7/8; Laidlaw Transportation lost 1 1/8 to 19 1/2; the American depositary receipts of Jaguar were off 1/4 to 10 1/4; MCI Communications slipped 2 1/4 to 43 1/2; Apple Computer fell 3 to 45 3/4 and Nike dropped 2 1/4 to 66 3/4.</eng_sentence>
 </LM>
 </trees>
 </adata>

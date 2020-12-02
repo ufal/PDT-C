@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="aanot_schema.xml"/>
+<schema href="adata_c_schema.xml"/>
 <references>
 <reffile id="m" href="wsj2315.cz.m" name="mdata"/>
 <reffile id="w" href="wsj2315.cz.w" name="wdata"/>
@@ -204,7 +204,6 @@
 <ord>30</ord>
 </LM>
 </children>
-<eng_sentence>RJR Nabisco Inc. is disbanding its division responsible for buying network advertising time, just a month after moving 11 of the group's 14 employees to New York from Atlanta.</eng_sentence>
 </LM>
 <LM id="a-wsj2315-001-p1s1">
 <s.rf>m#m-wsj2315-001-p1s1</s.rf>
@@ -524,7 +523,6 @@
 <ord>51</ord>
 </LM>
 </children>
-<eng_sentence>A spokesman for the New York-based food and tobacco giant, taken private earlier this year in a $25 billion  leveraged buy-out by Kohlberg Kravis Roberts &amp; Co., confirmed that it is shutting down the RJR Nabisco Broadcast unit, and dismissing its 14 employees, in a move to save money.</eng_sentence>
 </LM>
 <LM id="a-wsj2315-001-p1s2">
 <s.rf>m#m-wsj2315-001-p1s2</s.rf>
@@ -698,7 +696,6 @@
 <ord>27</ord>
 </LM>
 </children>
-<eng_sentence>The spokesman said RJR is discussing its network-buying plans with its two main advertising firms, FCB/Leber Katz and McCann Erickson.</eng_sentence>
 </LM>
 <LM id="a-wsj2315-001-p1s3">
 <s.rf>m#m-wsj2315-001-p1s3</s.rf>
@@ -949,7 +946,6 @@
 <ord>40</ord>
 </LM>
 </children>
-<eng_sentence>``We found with the size of our media purchases that an ad agency could do just as good a job at significantly lower cost,'' said the spokesman, who declined to specify how much RJR spends on network television time.</eng_sentence>
 </LM>
 <LM id="a-wsj2315-001-p1s4">
 <s.rf>m#m-wsj2315-001-p1s4</s.rf>
@@ -1140,7 +1136,6 @@
 <ord>30</ord>
 </LM>
 </children>
-<eng_sentence>An executive close to the company said RJR is spending about $140 million on network television time this year, down from roughly $200 million last year.</eng_sentence>
 </LM>
 <LM id="a-wsj2315-001-p1s5">
 <s.rf>m#m-wsj2315-001-p1s5</s.rf>
@@ -1342,7 +1337,6 @@
 <ord>32</ord>
 </LM>
 </children>
-<eng_sentence>The spokesman said the broadcast unit will be disbanded Dec. 1, and the move won't affect RJR's print, radio and spot-television buying practices.</eng_sentence>
 </LM>
 <LM id="a-wsj2315-001-p1s6">
 <s.rf>m#m-wsj2315-001-p1s6</s.rf>
@@ -1540,7 +1534,6 @@
 <ord>31</ord>
 </LM>
 </children>
-<eng_sentence>The broadcast group had been based in New York until a year ago, when RJR's previous management moved it to Atlanta, the company's headquarters before this summer.</eng_sentence>
 </LM>
 <LM id="a-wsj2315-001-p1s7">
 <s.rf>m#m-wsj2315-001-p1s7</s.rf>
@@ -1731,7 +1724,6 @@
 <ord>30</ord>
 </LM>
 </children>
-<eng_sentence>One employee with the group said RJR moved 11 employees of the group back to New York in September because ``there was supposed to be a future.''</eng_sentence>
 </LM>
 <LM id="a-wsj2315-001-p1s8">
 <s.rf>m#m-wsj2315-001-p1s8</s.rf>
@@ -1875,7 +1867,6 @@
 <ord>23</ord>
 </LM>
 </children>
-<eng_sentence>He said the company hired three more buyers for the unit within the past two weeks, wooing them from jobs with advertising agencies.</eng_sentence>
 </LM>
 <LM id="a-wsj2315-001-p1s9">
 <s.rf>m#m-wsj2315-001-p1s9</s.rf>
@@ -2069,7 +2060,6 @@
 <ord>31</ord>
 </LM>
 </children>
-<eng_sentence>The RJR spokesman said the company moved the 11 employees to New York last month because the group had then been in the midst of purchasing ad time for the networks' upcoming season.</eng_sentence>
 </LM>
 <LM id="a-wsj2315-001-p1s10">
 <s.rf>m#m-wsj2315-001-p1s10</s.rf>
@@ -2164,7 +2154,6 @@
 <ord>15</ord>
 </LM>
 </children>
-<eng_sentence>``The studies [on closing the unit] couldn't be completed until now,'' he said.</eng_sentence>
 </LM>
 <LM id="a-wsj2315-001-p1s11">
 <s.rf>m#m-wsj2315-001-p1s11</s.rf>
@@ -2269,7 +2258,6 @@
 <ord>16</ord>
 </LM>
 </children>
-<eng_sentence>The group's president, Peter Chrisanthopoulos, wasn't in his office Friday afternoon to comment.</eng_sentence>
 </LM>
 </trees>
 </adata>

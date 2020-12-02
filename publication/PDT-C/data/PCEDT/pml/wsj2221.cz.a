@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="aanot_schema.xml" />
+<schema href="adata_c_schema.xml" />
 <references>
 <reffile id="m" href="wsj2221.cz.m" name="mdata" />
 <reffile id="w" href="wsj2221.cz.w" name="wdata" />
@@ -78,7 +78,6 @@
 <ord>11</ord>
 </LM>
 </children>
-<eng_sentence>The market upheaval apparently hasn't triggered any cash crunch -- yet.</eng_sentence>
 </LM>
 <LM id="a-wsj2221-001-p1s1">
 <s.rf>m#m-wsj2221-001-p1s1</s.rf>
@@ -400,7 +399,6 @@
 <ord>56</ord>
 </LM>
 </children>
-<eng_sentence>Individual investors, investment firms and arbitragers who speculate in the stocks of takeover candidates can suffer liquidity and payment problems when stocks dive; those investors often borrow heavily to buy their holdings and use the stocks as collateral for loans.</eng_sentence>
 </LM>
 <LM id="a-wsj2221-001-p1s2">
 <s.rf>m#m-wsj2221-001-p1s2</s.rf>
@@ -528,7 +526,6 @@
 <ord>22</ord>
 </LM>
 </children>
-<eng_sentence>But several large banks said yesterday they detected no signs of unusual demand for credit that would signal such difficulties.</eng_sentence>
 </LM>
 <LM id="a-wsj2221-001-p1s3">
 <s.rf>m#m-wsj2221-001-p1s3</s.rf>
@@ -645,7 +642,6 @@
 <ord>20</ord>
 </LM>
 </children>
-<eng_sentence>``We're seeing nothing out of the ordinary,'' said one official at a Top 10 bank.</eng_sentence>
 </LM>
 <LM id="a-wsj2221-001-p1s4">
 <s.rf>m#m-wsj2221-001-p1s4</s.rf>
@@ -728,7 +724,6 @@
 <ord>13</ord>
 </LM>
 </children>
-<eng_sentence>``That's good news, because we all swim in this water.''</eng_sentence>
 </LM>
 <LM id="a-wsj2221-001-p1s5">
 <s.rf>m#m-wsj2221-001-p1s5</s.rf>
@@ -946,7 +941,6 @@
 <ord>38</ord>
 </LM>
 </children>
-<eng_sentence>Added another executive at a big bank: ``We were all a little goosey over the weekend trying to forecast what would happen [Monday], but it's been very quiet.</eng_sentence>
 </LM>
 <LM id="a-wsj2221-001-p1s6">
 <s.rf>m#m-wsj2221-001-p1s6</s.rf>
@@ -1029,7 +1023,6 @@
 <ord>13</ord>
 </LM>
 </children>
-<eng_sentence>Now, as for tomorrow, hell, who knows?</eng_sentence>
 </LM>
 </trees>
 </adata>

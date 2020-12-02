@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="aanot_schema.xml" />
+<schema href="adata_c_schema.xml" />
 <references>
 <reffile id="m" href="wsj2204.cz.m" name="mdata" />
 <reffile id="w" href="wsj2204.cz.w" name="wdata" />
@@ -233,7 +233,6 @@
 <ord>39</ord>
 </LM>
 </children>
-<eng_sentence> Concerning your Sept. 19 article ``Wall Street Firms Link Analysts' Pay to Performance,'' I'm delighted that Wall Street is finally tuning in to the hard, cold facts of the real working world.</eng_sentence>
 </LM>
 <LM id="a-wsj2204-001-p1s1">
 <s.rf>m#m-wsj2204-001-p1s1</s.rf>
@@ -377,7 +376,6 @@
 <ord>25</ord>
 </LM>
 </children>
-<eng_sentence>If the firms are serious, however, why limit the practice to the poor, maligned analysts whose ability to see into the future is fragile at best?</eng_sentence>
 </LM>
 <LM id="a-wsj2204-001-p1s2">
 <s.rf>m#m-wsj2204-001-p1s2</s.rf>
@@ -545,7 +543,6 @@
 <ord>29</ord>
 </LM>
 </children>
-<eng_sentence>Why not extend the same harsh standards to the sales force, and pay brokers a base salary with annual bonus based on how much money they made for their clients during the year?</eng_sentence>
 </LM>
 <LM id="a-wsj2204-001-p1s3">
 <s.rf>m#m-wsj2204-001-p1s3</s.rf>
@@ -675,7 +672,6 @@
 <ord>22</ord>
 </LM>
 </children>
-<eng_sentence>That should stop a lot of account-churning, and produce a stock market driven only by professional concern, careful thought and good sense.</eng_sentence>
 </LM>
 <LM id="a-wsj2204-001-p1s4">
 <s.rf>m#m-wsj2204-001-p1s4</s.rf>
@@ -723,7 +719,6 @@
 <ord>7</ord>
 </LM>
 </children>
-<eng_sentence>Now, wouldn't that be a novelty.</eng_sentence>
 </LM>
 <LM id="a-wsj2204-001-p1s5">
 <s.rf>m#m-wsj2204-001-p1s5</s.rf>
@@ -781,7 +776,6 @@
 <ord>9</ord>
 </LM>
 </children>
-<eng_sentence>Phyllis Kyle Stephenson Newport News, Va.</eng_sentence>
 </LM>
 </trees>
 </adata>

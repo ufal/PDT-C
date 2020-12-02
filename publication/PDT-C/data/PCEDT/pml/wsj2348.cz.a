@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="aanot_schema.xml"/>
+<schema href="adata_c_schema.xml"/>
 <references>
 <reffile id="m" href="wsj2348.cz.m" name="mdata"/>
 <reffile id="w" href="wsj2348.cz.w" name="wdata"/>
@@ -156,7 +156,6 @@
 <ord>22</ord>
 </LM>
 </children>
-<eng_sentence>The government sold the deposits of four savings-and-loan institutions, in its first wave of sales of big, sick thrifts, but low bids prevented the sale of a fifth.</eng_sentence>
 </LM>
 <LM id="a-wsj2348-001-p1s1">
 <s.rf>m#m-wsj2348-001-p1s1</s.rf>
@@ -429,7 +428,6 @@
 <ord>44</ord>
 </LM>
 </children>
-<eng_sentence>The four S&amp;Ls were sold to large banks, as was the case with most of the 28 previous transactions initiated by the Resolution Trust Corp. since it was created in the S&amp;L bailout legislation two months ago.</eng_sentence>
 </LM>
 <LM id="a-wsj2348-001-p1s2">
 <s.rf>m#m-wsj2348-001-p1s2</s.rf>
@@ -624,7 +622,6 @@
 <ord>31</ord>
 </LM>
 </children>
-<eng_sentence>Two of the four big thrifts were sold to NCNB Corp., Charlotte, N.C., which has aggressively expanded its markets, particularly in Texas and Florida.</eng_sentence>
 </LM>
 <LM id="a-wsj2348-001-p1s3">
 <s.rf>m#m-wsj2348-001-p1s3</s.rf>
@@ -717,7 +714,6 @@
 <ord>14</ord>
 </LM>
 </children>
-<eng_sentence>A Canadian bank bought another thrift, in the first RTC transaction with a foreign bank.</eng_sentence>
 </LM>
 <LM id="a-wsj2348-001-p1s4">
 <s.rf>m#m-wsj2348-001-p1s4</s.rf>
@@ -791,7 +787,6 @@
 <ord>11</ord>
 </LM>
 </children>
-<eng_sentence>Under these deals, the RTC sells just the deposits and the healthy assets.</eng_sentence>
 </LM>
 <LM id="a-wsj2348-001-p1s5">
 <s.rf>m#m-wsj2348-001-p1s5</s.rf>
@@ -915,7 +910,6 @@
 <ord>20</ord>
 </LM>
 </children>
-<eng_sentence>These ``clean-bank'' transactions leave the bulk of bad assets, mostly real estate, with the government, to be sold later.</eng_sentence>
 </LM>
 <LM id="a-wsj2348-001-p1s6">
 <s.rf>m#m-wsj2348-001-p1s6</s.rf>
@@ -1025,7 +1019,6 @@
 <ord>17</ord>
 </LM>
 </children>
-<eng_sentence>In these four, for instance, the RTC is stuck with $4.51 billion in bad assets.</eng_sentence>
 </LM>
 <LM id="a-wsj2348-001-p1s7">
 <s.rf>m#m-wsj2348-001-p1s7</s.rf>
@@ -1203,7 +1196,6 @@
 <ord>27</ord>
 </LM>
 </children>
-<eng_sentence>Acquirers paid premiums ranging from 1.5% to 3.7% for the deposits and branch systems, roughly in line with what analysts were expecting.</eng_sentence>
 </LM>
 <LM id="a-wsj2348-001-p1s8">
 <s.rf>m#m-wsj2348-001-p1s8</s.rf>
@@ -1330,7 +1322,6 @@
 <ord>20</ord>
 </LM>
 </children>
-<eng_sentence>The buyers will also be locked into deposit rates for just two weeks, as has been the case with previous deals.</eng_sentence>
 </LM>
 <LM id="a-wsj2348-001-p1s9">
 <s.rf>m#m-wsj2348-001-p1s9</s.rf>
@@ -1406,7 +1397,6 @@
 <ord>11</ord>
 </LM>
 </children>
-<eng_sentence>After that, the buyers may repudiate the rates paid by the former thrifts.</eng_sentence>
 </LM>
 <LM id="a-wsj2348-001-p1s10">
 <s.rf>m#m-wsj2348-001-p1s10</s.rf>
@@ -1481,7 +1471,6 @@
 <ord>11</ord>
 </LM>
 </children>
-<eng_sentence>But it's uncertain whether these institutions will take those steps.</eng_sentence>
 </LM>
 <LM id="a-wsj2348-001-p1s11">
 <s.rf>m#m-wsj2348-001-p1s11</s.rf>
@@ -1635,7 +1624,6 @@
 <ord>23</ord>
 </LM>
 </children>
-<eng_sentence>NCNB, for example, has been one of the highest rate payers in the Texas market, and in Florida, rates are especially sensitive in retirement communities.</eng_sentence>
 </LM>
 <LM id="a-wsj2348-001-p1s12">
 <s.rf>m#m-wsj2348-001-p1s12</s.rf>
@@ -1829,7 +1817,6 @@
 <ord>31</ord>
 </LM>
 </children>
-<eng_sentence>The RTC had previously targeted five thrifts for quick sales in order to spend cash by certain budgetary deadlines, but the delays illustrate the tough chore facing the agency.</eng_sentence>
 </LM>
 <LM id="a-wsj2348-001-p1s13">
 <s.rf>m#m-wsj2348-001-p1s13</s.rf>
@@ -1967,7 +1954,6 @@
 <ord>21</ord>
 </LM>
 </children>
-<eng_sentence>``These thrifts are beached whales,'' said Bert Ely, an industry consultant based in Alexandria, Va.</eng_sentence>
 </LM>
 <LM id="a-wsj2348-001-p1s14">
 <s.rf>m#m-wsj2348-001-p1s14</s.rf>
@@ -2190,7 +2176,6 @@
 <ord>34</ord>
 </LM>
 </children>
-<eng_sentence>For example, the delay in selling People's Heritage Savings, Salina, Kan., with $1.7 billion in assets, has forced the RTC to consider selling off the thrift branch-by-branch, instead of as a whole institution.</eng_sentence>
 </LM>
 <LM id="a-wsj2348-001-p1s15">
 <s.rf>m#m-wsj2348-001-p1s15</s.rf>
@@ -2280,7 +2265,6 @@
 <ord>13</ord>
 </LM>
 </children>
-<eng_sentence>NCNB continued its foray into the Florida and Texas markets.</eng_sentence>
 </LM>
 <LM id="a-wsj2348-001-p1s16">
 <s.rf>m#m-wsj2348-001-p1s16</s.rf>
@@ -2378,7 +2362,6 @@
 <ord>15</ord>
 </LM>
 </children>
-<eng_sentence>NCNB will acquire University Federal Savings Association, Houston, which had assets of $2.8 billion.</eng_sentence>
 </LM>
 <LM id="a-wsj2348-001-p1s17">
 <s.rf>m#m-wsj2348-001-p1s17</s.rf>
@@ -2497,7 +2480,6 @@
 <ord>18</ord>
 </LM>
 </children>
-<eng_sentence>NCNB Texas National Bank will pay the RTC a premium of $129 million for $3.5 billion in deposits.</eng_sentence>
 </LM>
 <LM id="a-wsj2348-001-p1s18">
 <s.rf>m#m-wsj2348-001-p1s18</s.rf>
@@ -2688,7 +2670,6 @@
 <ord>30</ord>
 </LM>
 </children>
-<eng_sentence>As a measure of the depths to which the Texas real estate market has sunk, the RTC will pay $3.8 billion to NCNB to take $750 million of bad assets.</eng_sentence>
 </LM>
 <LM id="a-wsj2348-001-p1s19">
 <s.rf>m#m-wsj2348-001-p1s19</s.rf>
@@ -2827,7 +2808,6 @@
 <ord>22</ord>
 </LM>
 </children>
-<eng_sentence>NCNB also acquired Freedom Savings &amp; Loan Association, Tampa, Fla., which had total assets of $900 million.</eng_sentence>
 </LM>
 <LM id="a-wsj2348-001-p1s20">
 <s.rf>m#m-wsj2348-001-p1s20</s.rf>
@@ -2936,7 +2916,6 @@
 <ord>16</ord>
 </LM>
 </children>
-<eng_sentence>NCNB will pay the RTC a premium of $40.4 million for $1.1 billion in deposits.</eng_sentence>
 </LM>
 <LM id="a-wsj2348-001-p1s21">
 <s.rf>m#m-wsj2348-001-p1s21</s.rf>
@@ -3091,7 +3070,6 @@
 <ord>24</ord>
 </LM>
 </children>
-<eng_sentence>NCNB will also acquire $266 million of Freedom's assets from the RTC, which will require $875 million in assistance.</eng_sentence>
 </LM>
 <LM id="a-wsj2348-001-p1s22">
 <s.rf>m#m-wsj2348-001-p1s22</s.rf>
@@ -3244,7 +3222,6 @@
 <ord>24</ord>
 </LM>
 </children>
-<eng_sentence>Meridian Bancorp Inc., Reading, Pa., will acquire Hill Financial Savings Association, Red Hill, Pa., which had $2.3 billion in assets.</eng_sentence>
 </LM>
 <LM id="a-wsj2348-001-p1s23">
 <s.rf>m#m-wsj2348-001-p1s23</s.rf>
@@ -3346,7 +3323,6 @@
 <ord>15</ord>
 </LM>
 </children>
-<eng_sentence>Meridian will pay a premium of $30.5 million to assume $2 billion in deposits.</eng_sentence>
 </LM>
 <LM id="a-wsj2348-001-p1s24">
 <s.rf>m#m-wsj2348-001-p1s24</s.rf>
@@ -3467,7 +3443,6 @@
 <ord>18</ord>
 </LM>
 </children>
-<eng_sentence>It will also purchase $845 million of the thrift's assets, with $1.9 billion in RTC assistance.</eng_sentence>
 </LM>
 <LM id="a-wsj2348-001-p1s25">
 <s.rf>m#m-wsj2348-001-p1s25</s.rf>
@@ -3661,7 +3636,6 @@
 <ord>31</ord>
 </LM>
 </children>
-<eng_sentence>In the first RTC transaction with a foreign buyer, Royal Trustco Ltd., Toronto, will acquire Pacific Savings Bank, Costa Mesa, Calif., which had $949 million in assets.</eng_sentence>
 </LM>
 <LM id="a-wsj2348-001-p1s26">
 <s.rf>m#m-wsj2348-001-p1s26</s.rf>
@@ -3784,7 +3758,6 @@
 <ord>18</ord>
 </LM>
 </children>
-<eng_sentence>Royal Trustco will pay the RTC $25 million to assume $989 million in deposits.</eng_sentence>
 </LM>
 <LM id="a-wsj2348-001-p1s27">
 <s.rf>m#m-wsj2348-001-p1s27</s.rf>
@@ -3902,7 +3875,6 @@
 <ord>17</ord>
 </LM>
 </children>
-<eng_sentence>It will also purchase $473 million in assets, and receive $550 million in assistance from the RTC.</eng_sentence>
 </LM>
 </trees>
 </adata>

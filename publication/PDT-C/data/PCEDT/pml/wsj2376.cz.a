@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="aanot_schema.xml" />
+<schema href="adata_c_schema.xml" />
 <references>
 <reffile id="m" name="mdata" href="wsj2376.cz.m" />
 <reffile id="w" name="wdata" href="wsj2376.cz.w" />
@@ -167,7 +167,6 @@
 <ord>25</ord>
 </LM>
 </children>
-<eng_sentence>Just when it seemed safe to go back into stocks, Wall Street suffered another severe attack of nerves.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s1">
 <s.rf>m#m-wsj2376-001-p1s1</s.rf>
@@ -227,7 +226,6 @@
 <ord>9</ord>
 </LM>
 </children>
-<eng_sentence>Does this signal another Black Monday is coming?</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s2">
 <s.rf>m#m-wsj2376-001-p1s2</s.rf>
@@ -341,7 +339,6 @@
 <ord>18</ord>
 </LM>
 </children>
-<eng_sentence>Or is this an extraordinary buying opportunity, just like Oct. 19, 1987, eventually turned out to be?</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s3">
 <s.rf>m#m-wsj2376-001-p1s3</s.rf>
@@ -510,7 +507,6 @@
 <ord>27</ord>
 </LM>
 </children>
-<eng_sentence>Here's what several leading market experts and money managers say about Friday's action, what happens next and what investors should do.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s4">
 <s.rf>m#m-wsj2376-001-p1s4</s.rf>
@@ -534,7 +530,6 @@
 <ord>3</ord>
 </LM>
 </children>
-<eng_sentence>Joseph Granville.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s5">
 <s.rf>m#m-wsj2376-001-p1s5</s.rf>
@@ -748,7 +743,6 @@
 <ord>33</ord>
 </LM>
 </children>
-<eng_sentence>``I'm the only one who said there would be an October massacre, all through late August and September,'' says Mr. Granville, once a widely followed market guru and still a well-known newsletter writer.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s6">
 <s.rf>m#m-wsj2376-001-p1s6</s.rf>
@@ -852,7 +846,6 @@
 <ord>17</ord>
 </LM>
 </children>
-<eng_sentence>``Everyone will tell you that this time is different from 1987,'' he says.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s7">
 <s.rf>m#m-wsj2376-001-p1s7</s.rf>
@@ -960,7 +953,6 @@
 <ord>17</ord>
 </LM>
 </children>
-<eng_sentence>``Well, in some ways it is different, but technically it is just the same.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s8">
 <s.rf>m#m-wsj2376-001-p1s8</s.rf>
@@ -1030,7 +1022,6 @@
 <ord>11</ord>
 </LM>
 </children>
-<eng_sentence>If you're a technician, you obey the signals.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s9">
 <s.rf>m#m-wsj2376-001-p1s9</s.rf>
@@ -1116,7 +1107,6 @@
 <ord>13</ord>
 </LM>
 </children>
-<eng_sentence>Right now they're telling me to get the hell out and stay out.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s10">
 <s.rf>m#m-wsj2376-001-p1s10</s.rf>
@@ -1183,7 +1173,6 @@
 <ord>10</ord>
 </LM>
 </children>
-<eng_sentence>I see no major support until 2200.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s11">
 <s.rf>m#m-wsj2376-001-p1s11</s.rf>
@@ -1267,7 +1256,6 @@
 <ord>12</ord>
 </LM>
 </children>
-<eng_sentence>I see a possibility of going to 2200 this month.''</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s12">
 <s.rf>m#m-wsj2376-001-p1s12</s.rf>
@@ -1461,7 +1449,6 @@
 <ord>31</ord>
 </LM>
 </children>
-<eng_sentence>Mr. Granville says he wouldn't even think of buying until at least 600 to 700 stocks have hit 52-week lows; about 100 stocks hit new lows Friday.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s13">
 <s.rf>m#m-wsj2376-001-p1s13</s.rf>
@@ -1565,7 +1552,6 @@
 <ord>16</ord>
 </LM>
 </children>
-<eng_sentence>``Most people,'' he says, ``have no idea what a massacre pattern looks like.''</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s14">
 <s.rf>m#m-wsj2376-001-p1s14</s.rf>
@@ -1589,7 +1575,6 @@
 <ord>3</ord>
 </LM>
 </children>
-<eng_sentence>Elaine Garzarelli.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s15">
 <s.rf>m#m-wsj2376-001-p1s15</s.rf>
@@ -1761,7 +1746,6 @@
 <ord>27</ord>
 </LM>
 </children>
-<eng_sentence> A quantitative analyst with Shearson Lehman Hutton Inc., Ms. Garzarelli had warned clients to take their money out of the market before the 1987 crash.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s16">
 <s.rf>m#m-wsj2376-001-p1s16</s.rf>
@@ -1830,7 +1814,6 @@
 <ord>11</ord>
 </LM>
 </children>
-<eng_sentence>Friday's big drop, she says, ``was not a crash.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s17">
 <s.rf>m#m-wsj2376-001-p1s17</s.rf>
@@ -1935,7 +1918,6 @@
 <ord>16</ord>
 </LM>
 </children>
-<eng_sentence>This was an October massacre'' like those that occurred in 1978 and 1979.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s18">
 <s.rf>m#m-wsj2376-001-p1s18</s.rf>
@@ -2022,7 +2004,6 @@
 <ord>14</ord>
 </LM>
 </children>
-<eng_sentence>Now, as in those two years, her stock market indicators are positive.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s19">
 <s.rf>m#m-wsj2376-001-p1s19</s.rf>
@@ -2096,7 +2077,6 @@
 <ord>11</ord>
 </LM>
 </children>
-<eng_sentence>So she thinks the damage will be short-lived and contained.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s20">
 <s.rf>m#m-wsj2376-001-p1s20</s.rf>
@@ -2232,7 +2212,6 @@
 <ord>21</ord>
 </LM>
 </children>
-<eng_sentence>``Those corrections lasted one to four weeks and took the market 10%-12% down,'' she says.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s21">
 <s.rf>m#m-wsj2376-001-p1s21</s.rf>
@@ -2307,7 +2286,6 @@
 <ord>11</ord>
 </LM>
 </children>
-<eng_sentence>``This is exactly the same thing, as far as I'm concerned.''</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s22">
 <s.rf>m#m-wsj2376-001-p1s22</s.rf>
@@ -2454,7 +2432,6 @@
 <ord>24</ord>
 </LM>
 </children>
-<eng_sentence>Thus, she says, if the Dow Jones Industrial Average dropped below 2450, ``It would just be a fluke.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s23">
 <s.rf>m#m-wsj2376-001-p1s23</s.rf>
@@ -2483,7 +2460,6 @@
 <ord>3</ord>
 </LM>
 </children>
-<eng_sentence>My advice is to buy.''</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s24">
 <s.rf>m#m-wsj2376-001-p1s24</s.rf>
@@ -2574,7 +2550,6 @@
 <ord>14</ord>
 </LM>
 </children>
-<eng_sentence>As she calculates it, the average stock now sells for about 12.5 times companies' earnings.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s25">
 <s.rf>m#m-wsj2376-001-p1s25</s.rf>
@@ -2751,7 +2726,6 @@
 <ord>28</ord>
 </LM>
 </children>
-<eng_sentence>She says that ratio could climb to 14.5, given current interest rates, and still be within the range of ``fair value.''</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s26">
 <s.rf>m#m-wsj2376-001-p1s26</s.rf>
@@ -2775,7 +2749,6 @@
 <ord>3</ord>
 </LM>
 </children>
-<eng_sentence>Ned Davis.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s27">
 <s.rf>m#m-wsj2376-001-p1s27</s.rf>
@@ -2898,7 +2871,6 @@
 <ord>18</ord>
 </LM>
 </children>
-<eng_sentence>Friday's fall marks the start of a bear market, says Mr. Davis, president of Ned Davis Research Inc.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s28">
 <s.rf>m#m-wsj2376-001-p1s28</s.rf>
@@ -3033,7 +3005,6 @@
 <ord>21</ord>
 </LM>
 </children>
-<eng_sentence>But Mr. Davis, whose views are widely respected by money managers, says he expects no 1987-style crash.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s29">
 <s.rf>m#m-wsj2376-001-p1s29</s.rf>
@@ -3112,7 +3083,6 @@
 <ord>12</ord>
 </LM>
 </children>
-<eng_sentence>``There was a unique combination in 1987,'' he says.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s30">
 <s.rf>m#m-wsj2376-001-p1s30</s.rf>
@@ -3174,7 +3144,6 @@
 <ord>9</ord>
 </LM>
 </children>
-<eng_sentence>``Margin debt was at a record high.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s31">
 <s.rf>m#m-wsj2376-001-p1s31</s.rf>
@@ -3227,7 +3196,6 @@
 <ord>8</ord>
 </LM>
 </children>
-<eng_sentence>There was tremendous public enthusiasm for stock mutual funds.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s32">
 <s.rf>m#m-wsj2376-001-p1s32</s.rf>
@@ -3354,7 +3322,6 @@
 <ord>20</ord>
 </LM>
 </children>
-<eng_sentence>The main thing was portfolio insurance,'' a mechanical trading system intended to protect an investor against losses. ``</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s33">
 <s.rf>m#m-wsj2376-001-p1s33</s.rf>
@@ -3423,7 +3390,6 @@
 <ord>9</ord>
 </LM>
 </children>
-<eng_sentence>A hundred billion dollars in stock was subject'' to it.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s34">
 <s.rf>m#m-wsj2376-001-p1s34</s.rf>
@@ -3499,7 +3465,6 @@
 <ord>11</ord>
 </LM>
 </children>
-<eng_sentence>In 1987, such selling contributed to a snowball effect.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s35">
 <s.rf>m#m-wsj2376-001-p1s35</s.rf>
@@ -3667,7 +3632,6 @@
 <ord>27</ord>
 </LM>
 </children>
-<eng_sentence>Today could even be an up day, Mr. Davis says, if major brokerage firms agree to refrain from program trading.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s36">
 <s.rf>m#m-wsj2376-001-p1s36</s.rf>
@@ -3744,7 +3708,6 @@
 <ord>12</ord>
 </LM>
 </children>
-<eng_sentence>Over the next several months, though, he says things look bad.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s37">
 <s.rf>m#m-wsj2376-001-p1s37</s.rf>
@@ -3831,7 +3794,6 @@
 <ord>14</ord>
 </LM>
 </children>
-<eng_sentence>``I think the market will be heading down into November,'' he says.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s38">
 <s.rf>m#m-wsj2376-001-p1s38</s.rf>
@@ -3929,7 +3891,6 @@
 <ord>15</ord>
 </LM>
 </children>
-<eng_sentence>``We will probably have a year-end rally, and then go down again.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s39">
 <s.rf>m#m-wsj2376-001-p1s39</s.rf>
@@ -3972,7 +3933,6 @@
 <ord>6</ord>
 </LM>
 </children>
-<eng_sentence>Sort of a two-step bear market.''</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s40">
 <s.rf>m#m-wsj2376-001-p1s40</s.rf>
@@ -4110,7 +4070,6 @@
 <ord>21</ord>
 </LM>
 </children>
-<eng_sentence>He expects the downturn to carry the Dow Jones Industrial Average down to around 2000 sometime next year.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s41">
 <s.rf>m#m-wsj2376-001-p1s41</s.rf>
@@ -4173,7 +4132,6 @@
 <ord>10</ord>
 </LM>
 </children>
-<eng_sentence>``That would be a normal bear market,'' he says.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s42">
 <s.rf>m#m-wsj2376-001-p1s42</s.rf>
@@ -4250,7 +4208,6 @@
 <ord>11</ord>
 </LM>
 </children>
-<eng_sentence>``I guess that's my forecast.''</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s43">
 <s.rf>m#m-wsj2376-001-p1s43</s.rf>
@@ -4286,7 +4243,6 @@
 <ord>5</ord>
 </LM>
 </children>
-<eng_sentence>Leon G. Cooperman.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s44">
 <s.rf>m#m-wsj2376-001-p1s44</s.rf>
@@ -4351,7 +4307,6 @@
 <ord>10</ord>
 </LM>
 </children>
-<eng_sentence>``I don't think the market is going through another October'87.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s45">
 <s.rf>m#m-wsj2376-001-p1s45</s.rf>
@@ -4560,7 +4515,6 @@
 <ord>32</ord>
 </LM>
 </children>
-<eng_sentence>I don't think that's the case at all,'' says Mr. Cooperman, a partner at Goldman, Sachs &amp; Co. and chairman of Goldman Sachs Asset Management.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s46">
 <s.rf>m#m-wsj2376-001-p1s46</s.rf>
@@ -4712,7 +4666,6 @@
 <ord>23</ord>
 </LM>
 </children>
-<eng_sentence>Mr. Cooperman sees this as a good time to pick up bargains, but he doesn't think there's any need to rush.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s47">
 <s.rf>m#m-wsj2376-001-p1s47</s.rf>
@@ -4832,7 +4785,6 @@
 <ord>18</ord>
 </LM>
 </children>
-<eng_sentence>``I expect the market to open weaker Monday, but then it should find some stability.''</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s48">
 <s.rf>m#m-wsj2376-001-p1s48</s.rf>
@@ -4910,7 +4862,6 @@
 <ord>11</ord>
 </LM>
 </children>
-<eng_sentence>He ticks off several major differences between now and two years ago.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s49">
 <s.rf>m#m-wsj2376-001-p1s49</s.rf>
@@ -4975,7 +4926,6 @@
 <ord>10</ord>
 </LM>
 </children>
-<eng_sentence>Unlike 1987, interest rates have been falling this year.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s50">
 <s.rf>m#m-wsj2376-001-p1s50</s.rf>
@@ -5033,7 +4983,6 @@
 <ord>9</ord>
 </LM>
 </children>
-<eng_sentence>Unlike 1987, the dollar has been strong.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s51">
 <s.rf>m#m-wsj2376-001-p1s51</s.rf>
@@ -5142,7 +5091,6 @@
 <ord>17</ord>
 </LM>
 </children>
-<eng_sentence>And unlike 1987, the economy doesn't appear to be in any danger of overheating.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s52">
 <s.rf>m#m-wsj2376-001-p1s52</s.rf>
@@ -5275,7 +5223,6 @@
 <ord>22</ord>
 </LM>
 </children>
-<eng_sentence>But the economy's slower growth this year also means the outlook for corporate profits ``isn't good,'' he says.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s53">
 <s.rf>m#m-wsj2376-001-p1s53</s.rf>
@@ -5328,7 +5275,6 @@
 <ord>7</ord>
 </LM>
 </children>
-<eng_sentence>``So it's a very mixed bag.''</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s54">
 <s.rf>m#m-wsj2376-001-p1s54</s.rf>
@@ -5426,7 +5372,6 @@
 <ord>15</ord>
 </LM>
 </children>
-<eng_sentence>Thus, he concludes, ``This is not a good environment to be fully invested'' in stocks.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s55">
 <s.rf>m#m-wsj2376-001-p1s55</s.rf>
@@ -5571,7 +5516,6 @@
 <ord>22</ord>
 </LM>
 </children>
-<eng_sentence>``If I had come into Friday on margin or with very little cash in the portfolios, I would not do any buying.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s56">
 <s.rf>m#m-wsj2376-001-p1s56</s.rf>
@@ -5726,7 +5670,6 @@
 <ord>25</ord>
 </LM>
 </children>
-<eng_sentence>But we came into Friday with a conservative portfolio, so I would look to do some modest buying'' on behalf of clients. ``</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s57">
 <s.rf>m#m-wsj2376-001-p1s57</s.rf>
@@ -5832,7 +5775,6 @@
 <ord>16</ord>
 </LM>
 </children>
-<eng_sentence>We're going to look for some of the better-known companies that got clocked'' Friday.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s58">
 <s.rf>m#m-wsj2376-001-p1s58</s.rf>
@@ -5861,7 +5803,6 @@
 <ord>4</ord>
 </LM>
 </children>
-<eng_sentence>John Kenneth Galbraith.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s59">
 <s.rf>m#m-wsj2376-001-p1s59</s.rf>
@@ -5976,7 +5917,6 @@
 <ord>18</ord>
 </LM>
 </children>
-<eng_sentence>``This is the latest manifestation of the capacity of the financial community for recurrent insanity,'' says Mr. Galbraith, an economist.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s60">
 <s.rf>m#m-wsj2376-001-p1s60</s.rf>
@@ -6070,7 +6010,6 @@
 <ord>15</ord>
 </LM>
 </children>
-<eng_sentence>``I see this as a reaction to the whole junk bond explosion,'' he says.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s61">
 <s.rf>m#m-wsj2376-001-p1s61</s.rf>
@@ -6312,7 +6251,6 @@
 <ord>37</ord>
 </LM>
 </children>
-<eng_sentence>``The explosion of junk bonds and takeovers has lodged a lot of insecure securities in the hands of investors and loaded the corporations that are the objects of takeovers or feared takeovers with huge amounts of debt rather than equity.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s62">
 <s.rf>m#m-wsj2376-001-p1s62</s.rf>
@@ -6408,7 +6346,6 @@
 <ord>14</ord>
 </LM>
 </children>
-<eng_sentence>This has both made investors uneasy and the corporations more vulnerable.''</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s63">
 <s.rf>m#m-wsj2376-001-p1s63</s.rf>
@@ -6464,7 +6401,6 @@
 <ord>8</ord>
 </LM>
 </children>
-<eng_sentence>Nevertheless, he says a depression doesn't appear likely.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s64">
 <s.rf>m#m-wsj2376-001-p1s64</s.rf>
@@ -6568,7 +6504,6 @@
 <ord>17</ord>
 </LM>
 </children>
-<eng_sentence>``There is more resiliency in the economy at large than we commonly suppose,'' he says.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s65">
 <s.rf>m#m-wsj2376-001-p1s65</s.rf>
@@ -6756,7 +6691,6 @@
 <ord>29</ord>
 </LM>
 </children>
-<eng_sentence>``It takes more error now to have a major depression than back in the Thirties -- much as the financial community and the government may try.''</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s66">
 <s.rf>m#m-wsj2376-001-p1s66</s.rf>
@@ -6780,7 +6714,6 @@
 <ord>3</ord>
 </LM>
 </children>
-<eng_sentence>Mario Gabelli.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s67">
 <s.rf>m#m-wsj2376-001-p1s67</s.rf>
@@ -6921,7 +6854,6 @@
 <ord>22</ord>
 </LM>
 </children>
-<eng_sentence>New York money manager Mario Gabelli, an expert at spotting takeover candidates, says that takeovers aren't totally gone.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s68">
 <s.rf>m#m-wsj2376-001-p1s68</s.rf>
@@ -7003,7 +6935,6 @@
 <ord>13</ord>
 </LM>
 </children>
-<eng_sentence>``Companies are still going to buy companies around the world,'' he says.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s69">
 <s.rf>m#m-wsj2376-001-p1s69</s.rf>
@@ -7111,7 +7042,6 @@
 <ord>16</ord>
 </LM>
 </children>
-<eng_sentence>Examples are ``Ford looking at Jaguar, BellSouth looking at LIN Broadcasting.''</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s70">
 <s.rf>m#m-wsj2376-001-p1s70</s.rf>
@@ -7252,7 +7182,6 @@
 <ord>22</ord>
 </LM>
 </children>
-<eng_sentence>These sorts of takeovers don't require junk bonds or big bank loans to finance them, so Mr. Gabelli figures they will continue.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s71">
 <s.rf>m#m-wsj2376-001-p1s71</s.rf>
@@ -7464,7 +7393,6 @@
 <ord>34</ord>
 </LM>
 </children>
-<eng_sentence>``The market was up 35% since [President] Bush took office,'' Mr. Gabelli says, so a correction was to be expected.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s72">
 <s.rf>m#m-wsj2376-001-p1s72</s.rf>
@@ -7629,7 +7557,6 @@
 <ord>26</ord>
 </LM>
 </children>
-<eng_sentence>He thinks another crash is ``unlikely,'' and says he was ``nibbling at'' selected stocks during Friday's plunge.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s73">
 <s.rf>m#m-wsj2376-001-p1s73</s.rf>
@@ -7800,7 +7727,6 @@
 <ord>27</ord>
 </LM>
 </children>
-<eng_sentence>``Stocks that were thrown out just on an emotional basis are a great opportunity [this] week for guys like me,'' he says.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s74">
 <s.rf>m#m-wsj2376-001-p1s74</s.rf>
@@ -7824,7 +7750,6 @@
 <ord>3</ord>
 </LM>
 </children>
-<eng_sentence>Jim Rogers.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s75">
 <s.rf>m#m-wsj2376-001-p1s75</s.rf>
@@ -8077,7 +8002,6 @@
 <ord>40</ord>
 </LM>
 </children>
-<eng_sentence>``It seems to me that this is the pin that has finally pricked the balloon,'' says Mr. Rogers, a professor of finance at Columbia University and former co-manager of one of the most successful hedge funds in history, Quantum Fund.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s76">
 <s.rf>m#m-wsj2376-001-p1s76</s.rf>
@@ -8189,7 +8113,6 @@
 <ord>17</ord>
 </LM>
 </children>
-<eng_sentence>He sees ``economic problems, financial problems'' ahead for the U.S., with a fairly strong possibility of a recession.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s77">
 <s.rf>m#m-wsj2376-001-p1s77</s.rf>
@@ -8259,7 +8182,6 @@
 <ord>11</ord>
 </LM>
 </children>
-<eng_sentence>``Friday you couldn't sell dollars,'' he says.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s78">
 <s.rf>m#m-wsj2376-001-p1s78</s.rf>
@@ -8341,7 +8263,6 @@
 <ord>12</ord>
 </LM>
 </children>
-<eng_sentence>Dealers ``would give you a quote, but then refuse to make the trade.''</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s79">
 <s.rf>m#m-wsj2376-001-p1s79</s.rf>
@@ -8523,7 +8444,6 @@
 <ord>29</ord>
 </LM>
 </children>
-<eng_sentence>If the dollar stays weak, he says, that will add to inflationary pressures in the U.S. and make it hard for the Federal Reserve Board to ease interest rates very much.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s80">
 <s.rf>m#m-wsj2376-001-p1s80</s.rf>
@@ -8658,7 +8578,6 @@
 <ord>22</ord>
 </LM>
 </children>
-<eng_sentence>Mr. Rogers won't decide what to do today until he sees how the London and Tokyo markets go.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s81">
 <s.rf>m#m-wsj2376-001-p1s81</s.rf>
@@ -8875,7 +8794,6 @@
 <ord>34</ord>
 </LM>
 </children>
-<eng_sentence>He recommends that investors sell takeover-related stocks, but hang on to some other stocks -- especially utilities, which often do well during periods of economic weakness.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s82">
 <s.rf>m#m-wsj2376-001-p1s82</s.rf>
@@ -8899,7 +8817,6 @@
 <ord>3</ord>
 </LM>
 </children>
-<eng_sentence>Frank Curzio.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s83">
 <s.rf>m#m-wsj2376-001-p1s83</s.rf>
@@ -8973,7 +8890,6 @@
 <ord>11</ord>
 </LM>
 </children>
-<eng_sentence>Many people now claim to have predicted the 1987 crash.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s84">
 <s.rf>m#m-wsj2376-001-p1s84</s.rf>
@@ -9202,7 +9118,6 @@
 <ord>36</ord>
 </LM>
 </children>
-<eng_sentence>Queens newsletter writer Francis X. Curzio actually did it: He stated in writing in September 1987 that the Dow Jones Industrial Average was likely to decline about 500 points the following month.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s85">
 <s.rf>m#m-wsj2376-001-p1s85</s.rf>
@@ -9332,7 +9247,6 @@
 <ord>21</ord>
 </LM>
 </children>
-<eng_sentence>Mr. Curzio says what happens now will depend a good deal on the Federal Reserve Board.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s86">
 <s.rf>m#m-wsj2376-001-p1s86</s.rf>
@@ -9474,7 +9388,6 @@
 <ord>24</ord>
 </LM>
 </children>
-<eng_sentence>If it promptly cuts the discount rate it charges on loans to banks, he says, ``That could quiet things down.''</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s87">
 <s.rf>m#m-wsj2376-001-p1s87</s.rf>
@@ -9571,7 +9484,6 @@
 <ord>16</ord>
 </LM>
 </children>
-<eng_sentence>If not, ``We could go to 2200 very soon.''</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s88">
 <s.rf>m#m-wsj2376-001-p1s88</s.rf>
@@ -9607,7 +9519,6 @@
 </children>
 </LM>
 </children>
-<eng_sentence>Frank W. Terrizzi.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s89">
 <s.rf>m#m-wsj2376-001-p1s89</s.rf>
@@ -9837,7 +9748,6 @@
 <ord>37</ord>
 </LM>
 </children>
-<eng_sentence>Stock prices ``would still have to go down some additional amount before we become positive on stocks,'' says Mr. Terrizzi, president and managing director of Renaissance Investment Management Inc. in Cincinnati.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s90">
 <s.rf>m#m-wsj2376-001-p1s90</s.rf>
@@ -10100,7 +10010,6 @@
 <ord>42</ord>
 </LM>
 </children>
-<eng_sentence>Renaissance, which manages about $1.8 billion, drew stiff criticism from many clients earlier this year because it pulled entirely out of stocks at the beginning of the year and thus missed a strong rally.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s91">
 <s.rf>m#m-wsj2376-001-p1s91</s.rf>
@@ -10203,7 +10112,6 @@
 <ord>16</ord>
 </LM>
 </children>
-<eng_sentence>Renaissance is keeping its money entirely in cash equivalents, primarily U.S. Treasury bills.</eng_sentence>
 </LM>
 <LM id="a-wsj2376-001-p1s92">
 <s.rf>m#m-wsj2376-001-p1s92</s.rf>
@@ -10283,7 +10191,6 @@
 <ord>13</ord>
 </LM>
 </children>
-<eng_sentence>``T-bills probably are the right place to be,'' he says.</eng_sentence>
 </LM>
 </trees>
 </adata>

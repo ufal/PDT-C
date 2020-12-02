@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="aanot_schema.xml"/>
+<schema href="adata_c_schema.xml"/>
 <references>
 <reffile id="m" href="wsj2395.cz.m" name="mdata"/>
 <reffile id="w" href="wsj2395.cz.w" name="wdata"/>
@@ -152,7 +152,6 @@
 <ord>22</ord>
 </LM>
 </children>
-<eng_sentence>CBS Inc. is cutting ``The Pat Sajak Show'' down to one hour from its current 90 minutes.</eng_sentence>
 </LM>
 <LM id="a-wsj2395-001-p1s1">
 <s.rf>m#m-wsj2395-001-p1s1</s.rf>
@@ -341,7 +340,6 @@
 <ord>30</ord>
 </LM>
 </children>
-<eng_sentence>CBS insisted the move wasn't a setback for the program, which is the network's first entry into the late-night talk show format since 1972.</eng_sentence>
 </LM>
 <LM id="a-wsj2395-001-p1s2">
 <s.rf>m#m-wsj2395-001-p1s2</s.rf>
@@ -620,7 +618,6 @@
 <ord>46</ord>
 </LM>
 </children>
-<eng_sentence>``I have every intention of making this the best possible show and having it run one hour is the best way to it,'' said Rod Perth, who was named vice president of late night entertainment in August.</eng_sentence>
 </LM>
 <LM id="a-wsj2395-001-p1s3">
 <s.rf>m#m-wsj2395-001-p1s3</s.rf>
@@ -666,7 +663,6 @@
 <ord>6</ord>
 </LM>
 </children>
-<eng_sentence>``This will raise the energy level of the show.''</eng_sentence>
 </LM>
 <LM id="a-wsj2395-001-p1s4">
 <s.rf>m#m-wsj2395-001-p1s4</s.rf>
@@ -759,7 +755,6 @@
 <ord>14</ord>
 </LM>
 </children>
-<eng_sentence>CBS will continue to program action-adventure shows to follow the Sajak hour.</eng_sentence>
 </LM>
 <LM id="a-wsj2395-001-p1s5">
 <s.rf>m#m-wsj2395-001-p1s5</s.rf>
@@ -912,7 +907,6 @@
 <ord>23</ord>
 </LM>
 </children>
-<eng_sentence>But CBS News will extend its four-hour ``Nightwatch'' by 30 minutes and begin at 1:30 a.m.</eng_sentence>
 </LM>
 <LM id="a-wsj2395-001-p1s6">
 <s.rf>m#m-wsj2395-001-p1s6</s.rf>
@@ -1346,7 +1340,6 @@
 <ord>69</ord>
 </LM>
 </children>
-<eng_sentence>The show, despite a promising start, has slipped badly in the weekly ratings as compiled by A.C. Nielsen Co., finishing far below ``Tonight'' on NBC, a unit of General Electric Co., and ``Nightline'' on ABC-TV, a unit of Capital Cities/ABC Inc.</eng_sentence>
 </LM>
 <LM id="a-wsj2395-001-p1s7">
 <s.rf>m#m-wsj2395-001-p1s7</s.rf>
@@ -1501,7 +1494,6 @@
 <ord>24</ord>
 </LM>
 </children>
-<eng_sentence>Further fractioning the late-night audience is the addition of the ``Arsenio Hall Show,'' syndicated by Paramount Communications Inc.</eng_sentence>
 </LM>
 </trees>
 </adata>

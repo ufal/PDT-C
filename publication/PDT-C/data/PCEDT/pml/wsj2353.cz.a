@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="aanot_schema.xml"/>
+<schema href="adata_c_schema.xml"/>
 <references>
 <reffile id="m" href="wsj2353.cz.m" name="mdata"/>
 <reffile id="w" href="wsj2353.cz.w" name="wdata"/>
@@ -233,7 +233,6 @@
 <ord>35</ord>
 </LM>
 </children>
-<eng_sentence>Valley Federal Savings &amp; Loan Association said Imperial Corp. of America withdrew from regulators its application to buy five Valley Federal branches, leaving the transaction in limbo.</eng_sentence>
 </LM>
 <LM id="a-wsj2353-001-p1s1">
 <s.rf>m#m-wsj2353-001-p1s1</s.rf>
@@ -512,7 +511,6 @@
 <ord>44</ord>
 </LM>
 </children>
-<eng_sentence>The broken purchase appears as additional evidence of trouble at Imperial Corp., whose spokesman said the company withdrew its application from the federal Office of Thrift Supervision because of an informal notice that Imperial's thrift unit failed to meet Community Reinvestment Act requirements.</eng_sentence>
 </LM>
 <LM id="a-wsj2353-001-p1s2">
 <s.rf>m#m-wsj2353-001-p1s2</s.rf>
@@ -641,7 +639,6 @@
 <ord>20</ord>
 </LM>
 </children>
-<eng_sentence>The Community Reinvestment Act requires savings and loan associations to lend money in amounts related to areas where deposits are received.</eng_sentence>
 </LM>
 <LM id="a-wsj2353-001-p1s3">
 <s.rf>m#m-wsj2353-001-p1s3</s.rf>
@@ -767,7 +764,6 @@
 <ord>19</ord>
 </LM>
 </children>
-<eng_sentence>The transaction, announced in August, included about $146 million in deposits at the five outlets in California's San Joaquin Valley.</eng_sentence>
 </LM>
 <LM id="a-wsj2353-001-p1s4">
 <s.rf>m#m-wsj2353-001-p1s4</s.rf>
@@ -984,7 +980,6 @@
 <ord>34</ord>
 </LM>
 </children>
-<eng_sentence>Terms weren't disclosed, but Valley Federal had said it expected to post a modest pretax gain and to save about $2 million in operating costs annually.</eng_sentence>
 </LM>
 <LM id="a-wsj2353-001-p1s5">
 <s.rf>m#m-wsj2353-001-p1s5</s.rf>
@@ -1253,7 +1248,6 @@
 <ord>42</ord>
 </LM>
 </children>
-<eng_sentence>Valley Federal said Friday that it is considering whether to seek another buyer for the branches or to pursue the transaction with Imperial Corp., which said it is attempting to meet Community Reinvestment Act requirements.</eng_sentence>
 </LM>
 <LM id="a-wsj2353-001-p1s6">
 <s.rf>m#m-wsj2353-001-p1s6</s.rf>
@@ -1362,7 +1356,6 @@
 <ord>16</ord>
 </LM>
 </children>
-<eng_sentence>Valley Federal, with assets of $3.3 billion, is based in Van Nuys.</eng_sentence>
 </LM>
 <LM id="a-wsj2353-001-p1s7">
 <s.rf>m#m-wsj2353-001-p1s7</s.rf>
@@ -1484,7 +1477,6 @@
 <ord>19</ord>
 </LM>
 </children>
-<eng_sentence>Imperial Corp., based in San Diego, is the parent of Imperial Savings &amp; Loan.</eng_sentence>
 </LM>
 <LM id="a-wsj2353-001-p1s8">
 <s.rf>m#m-wsj2353-001-p1s8</s.rf>
@@ -1572,7 +1564,6 @@
 <ord>13</ord>
 </LM>
 </children>
-<eng_sentence>In the first six months of the year it posted a net loss of $33.1 million.</eng_sentence>
 </LM>
 </trees>
 </adata>

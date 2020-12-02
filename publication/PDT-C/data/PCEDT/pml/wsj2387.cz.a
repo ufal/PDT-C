@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="aanot_schema.xml" />
+<schema href="adata_c_schema.xml" />
 <references>
 <reffile id="m" name="mdata" href="wsj2387.cz.m" />
 <reffile id="w" name="wdata" href="wsj2387.cz.w" />
@@ -76,7 +76,6 @@
 <ord>10</ord>
 </LM>
 </children>
-<eng_sentence>The crowded field for notebook-sized computers is about to become a lot more crowded.</eng_sentence>
 </LM>
 <LM id="a-wsj2387-001-p1s1">
 <s.rf>m#m-wsj2387-001-p1s1</s.rf>
@@ -316,7 +315,6 @@
 <ord>37</ord>
 </LM>
 </children>
-<eng_sentence>Compaq Computer Corp.'s long-awaited entry today into the notebook field is expected to put immediate heat on others in the market, especially Zenith Electronics Corp., the current market leader, and on a swarm of promising start-ups.</eng_sentence>
 </LM>
 <LM id="a-wsj2387-001-p1s2">
 <s.rf>m#m-wsj2387-001-p1s2</s.rf>
@@ -413,7 +411,6 @@
 <ord>14</ord>
 </LM>
 </children>
-<eng_sentence>Compaq's series of notebooks extends a trend toward downsizing in the personal computer market.</eng_sentence>
 </LM>
 <LM id="a-wsj2387-001-p1s3">
 <s.rf>m#m-wsj2387-001-p1s3</s.rf>
@@ -549,7 +546,6 @@
 <ord>21</ord>
 </LM>
 </children>
-<eng_sentence>One manufacturer already has produced a clipboard-sized computer called a notepad, and two others have introduced even smaller ``palmtops.''</eng_sentence>
 </LM>
 <LM id="a-wsj2387-001-p1s4">
 <s.rf>m#m-wsj2387-001-p1s4</s.rf>
@@ -703,7 +699,6 @@
 <ord>24</ord>
 </LM>
 </children>
-<eng_sentence>But those machines are still considered novelties, with keyboards only a munchkin could love and screens to match.</eng_sentence>
 </LM>
 <LM id="a-wsj2387-001-p1s5">
 <s.rf>m#m-wsj2387-001-p1s5</s.rf>
@@ -848,7 +843,6 @@
 <ord>22</ord>
 </LM>
 </children>
-<eng_sentence>Compaq's notebooks, by contrast, may be the first in their weight class not to skimp on features found in much bigger machines.</eng_sentence>
 </LM>
 <LM id="a-wsj2387-001-p1s6">
 <s.rf>m#m-wsj2387-001-p1s6</s.rf>
@@ -1052,7 +1046,6 @@
 <ord>31</ord>
 </LM>
 </children>
-<eng_sentence>Analysts say they're faster and carry more memory than anything else of their size on the market -- and they're priced aggressively at $2,400 to $5,000.</eng_sentence>
 </LM>
 <LM id="a-wsj2387-001-p1s7">
 <s.rf>m#m-wsj2387-001-p1s7</s.rf>
@@ -1169,7 +1162,6 @@
 <ord>18</ord>
 </LM>
 </children>
-<eng_sentence>All of this comes in a machine that weighs only six pounds and fits comfortably into most briefcases.</eng_sentence>
 </LM>
 <LM id="a-wsj2387-001-p1s8">
 <s.rf>m#m-wsj2387-001-p1s8</s.rf>
@@ -1451,7 +1443,6 @@
 <ord>45</ord>
 </LM>
 </children>
-<eng_sentence>In recent months, Compaq's competition, including Zenith, Toshiba Corp., Tandy Corp. and NEC Corp. all have introduced portables that weigh approximately the same and that are called notebooks -- perhaps misleadingly.</eng_sentence>
 </LM>
 <LM id="a-wsj2387-001-p1s9">
 <s.rf>m#m-wsj2387-001-p1s9</s.rf>
@@ -1592,7 +1583,6 @@
 <ord>22</ord>
 </LM>
 </children>
-<eng_sentence>One analyst, noting that most such machines are about two inches thick, takes exception to the name.</eng_sentence>
 </LM>
 <LM id="a-wsj2387-001-p1s10">
 <s.rf>m#m-wsj2387-001-p1s10</s.rf>
@@ -1681,7 +1671,6 @@
 <ord>14</ord>
 </LM>
 </children>
-<eng_sentence>``This isn't quite a notebook -- I call it a phonebook,'' he says.</eng_sentence>
 </LM>
 <LM id="a-wsj2387-001-p1s11">
 <s.rf>m#m-wsj2387-001-p1s11</s.rf>
@@ -1852,7 +1841,6 @@
 <ord>26</ord>
 </LM>
 </children>
-<eng_sentence>That can't be said of the $2,400 notepad computer introduced a few weeks ago by GRiD Systems Corp., a unit of Tandy.</eng_sentence>
 </LM>
 <LM id="a-wsj2387-001-p1s12">
 <s.rf>m#m-wsj2387-001-p1s12</s.rf>
@@ -1970,7 +1958,6 @@
 <ord>18</ord>
 </LM>
 </children>
-<eng_sentence>Instead of a keyboard, it features a writing surface, an electronic pen and the ability to ``read'' block printing.</eng_sentence>
 </LM>
 <LM id="a-wsj2387-001-p1s13">
 <s.rf>m#m-wsj2387-001-p1s13</s.rf>
@@ -2128,7 +2115,6 @@
 <ord>25</ord>
 </LM>
 </children>
-<eng_sentence>At 4 1/2 pounds, it may be too ambitiously named, but it nevertheless opens up the kind of marketing possibilities that make analysts froth.</eng_sentence>
 </LM>
 <LM id="a-wsj2387-001-p1s14">
 <s.rf>m#m-wsj2387-001-p1s14</s.rf>
@@ -2164,7 +2150,6 @@
 <ord>5</ord>
 </LM>
 </children>
-<eng_sentence>Palmtops aren't far behind.</eng_sentence>
 </LM>
 <LM id="a-wsj2387-001-p1s15">
 <s.rf>m#m-wsj2387-001-p1s15</s.rf>
@@ -2484,7 +2469,6 @@
 <ord>49</ord>
 </LM>
 </children>
-<eng_sentence>Atari Corp.'s Portfolio, introduced in Europe two months ago and in the U.S. in early September, weighs less than a pound, costs a mere $400 and runs on three AA batteries, yet has the power to run some spreadsheets and word processing programs.</eng_sentence>
 </LM>
 <LM id="a-wsj2387-001-p1s16">
 <s.rf>m#m-wsj2387-001-p1s16</s.rf>
@@ -2587,7 +2571,6 @@
 <ord>16</ord>
 </LM>
 </children>
-<eng_sentence>Some critics, however, say its ability to run commonplace programs is restricted by a limited memory.</eng_sentence>
 </LM>
 <LM id="a-wsj2387-001-p1s17">
 <s.rf>m#m-wsj2387-001-p1s17</s.rf>
@@ -2781,7 +2764,6 @@
 <ord>30</ord>
 </LM>
 </children>
-<eng_sentence>Poquet Computer Corp., meanwhile, has introduced a much more sophisticated palmtop that can run Lotus 1-2-3 and other sophisticated software programs, but costs five times as much.</eng_sentence>
 </LM>
 <LM id="a-wsj2387-001-p1s18">
 <s.rf>m#m-wsj2387-001-p1s18</s.rf>
@@ -3046,7 +3028,6 @@
 <ord>41</ord>
 </LM>
 </children>
-<eng_sentence>At stake is what Mike Swavely, Compaq's president of North America operations, calls ``the Holy Grail of the computer industry'' -- the search for ``a real computer in a package so small you can take it everywhere.''</eng_sentence>
 </LM>
 <LM id="a-wsj2387-001-p1s19">
 <s.rf>m#m-wsj2387-001-p1s19</s.rf>
@@ -3142,7 +3123,6 @@
 <ord>15</ord>
 </LM>
 </children>
-<eng_sentence>The market is so new, nobody knows yet how big it can be.</eng_sentence>
 </LM>
 <LM id="a-wsj2387-001-p1s20">
 <s.rf>m#m-wsj2387-001-p1s20</s.rf>
@@ -3326,7 +3306,6 @@
 <ord>29</ord>
 </LM>
 </children>
-<eng_sentence>``I've had a lot of people trying to sell me services to find out how big it is,'' says Tom Humphries, director of marketing for GRiD.</eng_sentence>
 </LM>
 <LM id="a-wsj2387-001-p1s21">
 <s.rf>m#m-wsj2387-001-p1s21</s.rf>
@@ -3435,7 +3414,6 @@
 <ord>16</ord>
 </LM>
 </children>
-<eng_sentence>``Whether it's $5 billion or $3.5 billion, it doesn't matter.</eng_sentence>
 </LM>
 <LM id="a-wsj2387-001-p1s22">
 <s.rf>m#m-wsj2387-001-p1s22</s.rf>
@@ -3464,7 +3442,6 @@
 <ord>3</ord>
 </LM>
 </children>
-<eng_sentence>It's huge.''</eng_sentence>
 </LM>
 <LM id="a-wsj2387-001-p1s23">
 <s.rf>m#m-wsj2387-001-p1s23</s.rf>
@@ -3588,7 +3565,6 @@
 <ord>19</ord>
 </LM>
 </children>
-<eng_sentence> Consider the growth of portables, which now comprise 12% of all personal computer sales.</eng_sentence>
 </LM>
 <LM id="a-wsj2387-001-p1s24">
 <s.rf>m#m-wsj2387-001-p1s24</s.rf>
@@ -3741,7 +3717,6 @@
 <ord>24</ord>
 </LM>
 </children>
-<eng_sentence>Laptops -- generally anything under 15 pounds -- have become the fastest-growing personal computer segment, with sales doubling this year.</eng_sentence>
 </LM>
 <LM id="a-wsj2387-001-p1s25">
 <s.rf>m#m-wsj2387-001-p1s25</s.rf>
@@ -3810,7 +3785,6 @@
 <ord>10</ord>
 </LM>
 </children>
-<eng_sentence> Responding to that demand, however, has led to a variety of compromises.</eng_sentence>
 </LM>
 <LM id="a-wsj2387-001-p1s26">
 <s.rf>m#m-wsj2387-001-p1s26</s.rf>
@@ -3858,7 +3832,6 @@
 <ord>7</ord>
 </LM>
 </children>
-<eng_sentence> Making computers smaller often means sacrificing memory.</eng_sentence>
 </LM>
 <LM id="a-wsj2387-001-p1s27">
 <s.rf>m#m-wsj2387-001-p1s27</s.rf>
@@ -3980,7 +3953,6 @@
 <ord>19</ord>
 </LM>
 </children>
-<eng_sentence>It also has precluded use of the faster, more powerful microprocessors found in increasing numbers of desktop machines.</eng_sentence>
 </LM>
 <LM id="a-wsj2387-001-p1s28">
 <s.rf>m#m-wsj2387-001-p1s28</s.rf>
@@ -4042,7 +4014,6 @@
 <ord>9</ord>
 </LM>
 </children>
-<eng_sentence>Size and weight considerations also have limited screen displays.</eng_sentence>
 </LM>
 <LM id="a-wsj2387-001-p1s29">
 <s.rf>m#m-wsj2387-001-p1s29</s.rf>
@@ -4107,7 +4078,6 @@
 <ord>10</ord>
 </LM>
 </children>
-<eng_sentence>The competitive sniping can get pretty petty at times.</eng_sentence>
 </LM>
 <LM id="a-wsj2387-001-p1s30">
 <s.rf>m#m-wsj2387-001-p1s30</s.rf>
@@ -4236,7 +4206,6 @@
 <ord>20</ord>
 </LM>
 </children>
-<eng_sentence>A Poquet spokesman, for example, criticizes the Atari Portfolio because it requires three batteries while the Poquet needs only two.</eng_sentence>
 </LM>
 <LM id="a-wsj2387-001-p1s31">
 <s.rf>m#m-wsj2387-001-p1s31</s.rf>
@@ -4483,7 +4452,6 @@
 <ord>38</ord>
 </LM>
 </children>
-<eng_sentence>Both palmtops are dismissed by notebook makers, who argue that they're too small -- a problem Poquet also encountered in focus groups, admits Gerry Purdy, director of marketing.</eng_sentence>
 </LM>
 <LM id="a-wsj2387-001-p1s32">
 <s.rf>m#m-wsj2387-001-p1s32</s.rf>
@@ -4633,7 +4601,6 @@
 <ord>21</ord>
 </LM>
 </children>
-<eng_sentence>Poquet, trying to avoid the ``gadget'' label, responded with the tag line, ``The Poquet PC -- a Very Big Computer.''</eng_sentence>
 </LM>
 <LM id="a-wsj2387-001-p1s33">
 <s.rf>m#m-wsj2387-001-p1s33</s.rf>
@@ -4743,7 +4710,6 @@
 <ord>17</ord>
 </LM>
 </children>
-<eng_sentence>Despite the sniping, few question the inevitability of the move to small machines that don't make compromises.</eng_sentence>
 </LM>
 <LM id="a-wsj2387-001-p1s34">
 <s.rf>m#m-wsj2387-001-p1s34</s.rf>
@@ -4896,7 +4862,6 @@
 <ord>24</ord>
 </LM>
 </children>
-<eng_sentence>Toward that end, experts say the real battle will take place between center-stage players like Toshiba, Zenith and now Compaq.</eng_sentence>
 </LM>
 <LM id="a-wsj2387-001-p1s35">
 <s.rf>m#m-wsj2387-001-p1s35</s.rf>
@@ -5169,7 +5134,6 @@
 <ord>43</ord>
 </LM>
 </children>
-<eng_sentence>Compaq's new machines are considered a direct threat to start-up firms like Dynabook Inc., which introduced in June a computer that, like Compaq's, uses an Intel 286 microprocessor and has a hard disk drive.</eng_sentence>
 </LM>
 <LM id="a-wsj2387-001-p1s36">
 <s.rf>m#m-wsj2387-001-p1s36</s.rf>
@@ -5283,7 +5247,6 @@
 <ord>16</ord>
 </LM>
 </children>
-<eng_sentence>But the Dynabook product is twice as heavy and costs more than Compaq's.</eng_sentence>
 </LM>
 <LM id="a-wsj2387-001-p1s37">
 <s.rf>m#m-wsj2387-001-p1s37</s.rf>
@@ -5562,7 +5525,6 @@
 <ord>44</ord>
 </LM>
 </children>
-<eng_sentence>Compaq's announcement also spells trouble for Zenith, which last year had 28% of the U.S. laptop market but recently agreed to sell its computer business to Cie. des Machines Bull, the French government-owned computer maker.</eng_sentence>
 </LM>
 <LM id="a-wsj2387-001-p1s38">
 <s.rf>m#m-wsj2387-001-p1s38</s.rf>
@@ -5762,7 +5724,6 @@
 <ord>31</ord>
 </LM>
 </children>
-<eng_sentence>Zenith holders will vote in December on the proposed $635 million sale, a price that could slip because it is pegged to Zenith's share and sales.</eng_sentence>
 </LM>
 <LM id="a-wsj2387-001-p1s39">
 <s.rf>m#m-wsj2387-001-p1s39</s.rf>
@@ -5832,7 +5793,6 @@
 <ord>11</ord>
 </LM>
 </children>
-<eng_sentence>Compaq is already taking aim at Zenith's market share.</eng_sentence>
 </LM>
 <LM id="a-wsj2387-001-p1s40">
 <s.rf>m#m-wsj2387-001-p1s40</s.rf>
@@ -6104,7 +6064,6 @@
 <ord>43</ord>
 </LM>
 </children>
-<eng_sentence>Rod Canion, Compaq's president and chief executive officer, notes pointedly that Zenith's $2,000 MinisPort uses an ``unconventional'' two-inch floppy disk, whereas Compaq's new machines use the more common 3 1/2-inch disk.</eng_sentence>
 </LM>
 <LM id="a-wsj2387-001-p1s41">
 <s.rf>m#m-wsj2387-001-p1s41</s.rf>
@@ -6331,7 +6290,6 @@
 <ord>36</ord>
 </LM>
 </children>
-<eng_sentence>John P. Frank, president of Zenith Data Systems, simply shrugs off such criticism, noting that 3 1/2-inch floppies were also ``unconventional'' when they first replaced five-inch disks.</eng_sentence>
 </LM>
 <LM id="a-wsj2387-001-p1s42">
 <s.rf>m#m-wsj2387-001-p1s42</s.rf>
@@ -6497,7 +6455,6 @@
 <ord>27</ord>
 </LM>
 </children>
-<eng_sentence>``We don't look at it as not being a standard, we look at it as a new standard,'' he argues.</eng_sentence>
 </LM>
 <LM id="a-wsj2387-001-p1s43">
 <s.rf>m#m-wsj2387-001-p1s43</s.rf>
@@ -6531,7 +6488,6 @@
 <ord>5</ord>
 </LM>
 </children>
-<eng_sentence>Analysts don't see it that way.</eng_sentence>
 </LM>
 <LM id="a-wsj2387-001-p1s44">
 <s.rf>m#m-wsj2387-001-p1s44</s.rf>
@@ -6786,7 +6742,6 @@
 <ord>40</ord>
 </LM>
 </children>
-<eng_sentence>``I can't imagine that you'll talk to anyone who won't tell you this is dynamite for Compaq and a stopper for everyone else,'' says Gene Talsky, president of Professional Marketing Management Inc.</eng_sentence>
 </LM>
 <LM id="a-wsj2387-001-p1s45">
 <s.rf>m#m-wsj2387-001-p1s45</s.rf>
@@ -6992,7 +6947,6 @@
 <ord>33</ord>
 </LM>
 </children>
-<eng_sentence>Adds Bill Lempesis, senior industry analyst for DataQuest, a high-technology market research firm: ``We basically think that these are very hot products.</eng_sentence>
 </LM>
 <LM id="a-wsj2387-001-p1s46">
 <s.rf>m#m-wsj2387-001-p1s46</s.rf>
@@ -7087,7 +7041,6 @@
 <ord>13</ord>
 </LM>
 </children>
-<eng_sentence>The problem Compaq is going to have is that they won't be able to make enough of them.''</eng_sentence>
 </LM>
 <LM id="a-wsj2387-001-p1s47">
 <s.rf>m#m-wsj2387-001-p1s47</s.rf>
@@ -7350,7 +7303,6 @@
 <ord>42</ord>
 </LM>
 </children>
-<eng_sentence>Compaq's machines include the 3 1/2-inch floppy disk drive, a backlit screen that is only 1/4-inch thick and an internal expansion slot for a modem -- in other words, almost all the capabilities of a typical office machine.</eng_sentence>
 </LM>
 <LM id="a-wsj2387-001-p1s48">
 <s.rf>m#m-wsj2387-001-p1s48</s.rf>
@@ -7486,7 +7438,6 @@
 <ord>21</ord>
 </LM>
 </children>
-<eng_sentence>Others undoubtedly will follow, but most analysts believe Compaq has at least a six-month lead on the competition.</eng_sentence>
 </LM>
 <LM id="a-wsj2387-001-p1s49">
 <s.rf>m#m-wsj2387-001-p1s49</s.rf>
@@ -7802,7 +7753,6 @@
 <ord>49</ord>
 </LM>
 </children>
-<eng_sentence>Toshiba's line of portables, for example, features the T-1000, which is in the same weight class but is much slower and has less memory, and the T-1600, which also uses a 286 microprocessor, but which weighs almost twice as much and is three times the size.</eng_sentence>
 </LM>
 <LM id="a-wsj2387-001-p1s50">
 <s.rf>m#m-wsj2387-001-p1s50</s.rf>
@@ -8027,7 +7977,6 @@
 <ord>36</ord>
 </LM>
 </children>
-<eng_sentence>A third model, marketed in Japan, may hit the U.S. by the end of the first quarter of 1990, but by then, analysts say, Compaq will have established itself as one of three major players.</eng_sentence>
 </LM>
 <LM id="a-wsj2387-001-p1s51">
 <s.rf>m#m-wsj2387-001-p1s51</s.rf>
@@ -8065,7 +8014,6 @@
 <ord>5</ord>
 </LM>
 </children>
-<eng_sentence>What about Big Blue?</eng_sentence>
 </LM>
 <LM id="a-wsj2387-001-p1s52">
 <s.rf>m#m-wsj2387-001-p1s52</s.rf>
@@ -8320,7 +8268,6 @@
 <ord>40</ord>
 </LM>
 </children>
-<eng_sentence>International Business Machines Corp., analysts say, has been burned twice in trying to enter the laptop market and shows no signs of trying to get into notebooks anytime soon.</eng_sentence>
 </LM>
 </trees>
 </adata>

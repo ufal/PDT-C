@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="aanot_schema.xml"/>
+<schema href="adata_c_schema.xml"/>
 <references>
 <reffile id="m" href="wsj2214.cz.m" name="mdata"/>
 <reffile id="w" href="wsj2214.cz.w" name="wdata"/>
@@ -280,7 +280,6 @@
 <ord>42</ord>
 </LM>
 </children>
-<eng_sentence>U.S. Trade Representative Carla Hills said the first dispute-settlement panel set up under the U.S.-Canadian ``free trade'' agreement has ruled that Canada's restrictions on exports of Pacific salmon and herring violate the accord.</eng_sentence>
 </LM>
 <LM id="a-wsj2214-001-p1s1">
 <s.rf>m#m-wsj2214-001-p1s1</s.rf>
@@ -394,7 +393,6 @@
 <ord>17</ord>
 </LM>
 </children>
-<eng_sentence>Mrs. Hills said the U.S. and Canada have until Nov. 13 to resolve the dispute.</eng_sentence>
 </LM>
 <LM id="a-wsj2214-001-p1s2">
 <s.rf>m#m-wsj2214-001-p1s2</s.rf>
@@ -636,7 +634,6 @@
 <ord>39</ord>
 </LM>
 </children>
-<eng_sentence>If a solution isn't reached by then, she said, the U.S. would have the right to suspend some trade concessions to Canada equivalent in value to the losses suffered by U.S. fish-processing companies in Alaska and the Pacific Northwest.</eng_sentence>
 </LM>
 <LM id="a-wsj2214-001-p1s3">
 <s.rf>m#m-wsj2214-001-p1s3</s.rf>
@@ -874,7 +871,6 @@
 <ord>38</ord>
 </LM>
 </children>
-<eng_sentence>However, in Ottawa, Canadian Trade Minister John Crosbie said the dispute-settlement panel accepted the ``legitimacy of Canada's position on the use of these landing requirements to conserve and manage these important fisheries.''</eng_sentence>
 </LM>
 <LM id="a-wsj2214-001-p1s4">
 <s.rf>m#m-wsj2214-001-p1s4</s.rf>
@@ -1086,7 +1082,6 @@
 <ord>33</ord>
 </LM>
 </children>
-<eng_sentence> Questioned about the seeming contradiction in the U.S. and Canadian government views of the panel's report, an aide for Mrs. Hills said the panel had clearly ruled that the Canadian trade restrictions ``are illegal.''</eng_sentence>
 </LM>
 <LM id="a-wsj2214-001-p1s5">
 <s.rf>m#m-wsj2214-001-p1s5</s.rf>
@@ -1213,7 +1208,6 @@
 <ord>20</ord>
 </LM>
 </children>
-<eng_sentence>The U.S. trade representative declined to put a dollar estimate on the losses resulting from the Canadian export restrictions.</eng_sentence>
 </LM>
 <LM id="a-wsj2214-001-p1s6">
 <s.rf>m#m-wsj2214-001-p1s6</s.rf>
@@ -1390,7 +1384,6 @@
 <ord>28</ord>
 </LM>
 </children>
-<eng_sentence>Canada initially had an export prohibition that was replaced by regulations requiring that such fish had to be brought ashore in British Columbia by commercial fishermen prior to export.</eng_sentence>
 </LM>
 <LM id="a-wsj2214-001-p1s7">
 <s.rf>m#m-wsj2214-001-p1s7</s.rf>
@@ -1450,7 +1443,6 @@
 <ord>9</ord>
 </LM>
 </children>
-<eng_sentence>This action was defended by the Canadian government on conservation grounds.</eng_sentence>
 </LM>
 <LM id="a-wsj2214-001-p1s8">
 <s.rf>m#m-wsj2214-001-p1s8</s.rf>
@@ -1534,7 +1526,6 @@
 <ord>13</ord>
 </LM>
 </children>
-<eng_sentence>Mrs. Hills said yesterday that the dispute-settlement panel rejected this Canadian government argument.</eng_sentence>
 </LM>
 <LM id="a-wsj2214-001-p1s9">
 <s.rf>m#m-wsj2214-001-p1s9</s.rf>
@@ -1691,7 +1682,6 @@
 <ord>26</ord>
 </LM>
 </children>
-<eng_sentence>``We fully expect that Canada will comply with the panel's ruling'' that the ``landing requirement'' also must be ended, she said.</eng_sentence>
 </LM>
 <LM id="a-wsj2214-001-p1s10">
 <s.rf>m#m-wsj2214-001-p1s10</s.rf>
@@ -1879,7 +1869,6 @@
 <ord>29</ord>
 </LM>
 </children>
-<eng_sentence>Earlier, an international panel set up under the rules of the General Agreement on Tariffs and Trade in Geneva determined that the original Canadian fish-export restrictions violated GATT rules.</eng_sentence>
 </LM>
 <LM id="a-wsj2214-001-p1s11">
 <s.rf>m#m-wsj2214-001-p1s11</s.rf>
@@ -2063,7 +2052,6 @@
 <ord>29</ord>
 </LM>
 </children>
-<eng_sentence>Mrs. Hills said the U.S. won't accept any delays after Nov. 13 because U.S. fish-processing firms enter into contracts in the fall to purchase the next season's catch.</eng_sentence>
 </LM>
 <LM id="a-wsj2214-001-p1s12">
 <s.rf>m#m-wsj2214-001-p1s12</s.rf>
@@ -2156,7 +2144,6 @@
 <ord>14</ord>
 </LM>
 </children>
-<eng_sentence>She said the Canadian restrictions must be removed before such contracts are concluded.</eng_sentence>
 </LM>
 </trees>
 </adata>

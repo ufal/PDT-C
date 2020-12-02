@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="aanot_schema.xml" />
+<schema href="adata_c_schema.xml" />
 <references>
 <reffile id="m" name="mdata" href="wsj2335.cz.m" />
 <reffile id="w" name="wdata" href="wsj2335.cz.w" />
@@ -230,7 +230,6 @@
 <ord>36</ord>
 </LM>
 </children>
-<eng_sentence>Alan Seelenfreund, 52 years old, was named chairman of this processor of prescription claims, succeeding Thomas W. Field Jr., 55, who resigned last month.</eng_sentence>
 </LM>
 <LM id="a-wsj2335-001-p1s1">
 <s.rf>m#m-wsj2335-001-p1s1</s.rf>
@@ -370,7 +369,6 @@
 <ord>21</ord>
 </LM>
 </children>
-<eng_sentence>Mr. Field also had been chairman of McKesson Corp., resigning that post after a dispute with the board over corporate strategy.</eng_sentence>
 </LM>
 <LM id="a-wsj2335-001-p1s2">
 <s.rf>m#m-wsj2335-001-p1s2</s.rf>
@@ -496,7 +494,6 @@
 <ord>19</ord>
 </LM>
 </children>
-<eng_sentence>Mr. Seelenfreund is executive vice president and chief financial officer of McKesson and will continue in those roles.</eng_sentence>
 </LM>
 <LM id="a-wsj2335-001-p1s3">
 <s.rf>m#m-wsj2335-001-p1s3</s.rf>
@@ -649,7 +646,6 @@
 <ord>24</ord>
 </LM>
 </children>
-<eng_sentence>PCS also named Rex R. Malson, 57, executive vice president at McKesson, as a director, filling the seat vacated by Mr. Field.</eng_sentence>
 </LM>
 <LM id="a-wsj2335-001-p1s4">
 <s.rf>m#m-wsj2335-001-p1s4</s.rf>
@@ -766,7 +762,6 @@
 <ord>18</ord>
 </LM>
 </children>
-<eng_sentence>Messrs. Malson and Seelenfreund are directors of McKesson, which has an 86% stake in PCS.</eng_sentence>
 </LM>
 </trees>
 </adata>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="aanot_schema.xml" />
+<schema href="adata_c_schema.xml" />
 <references>
 <reffile id="m" name="mdata" href="wsj2371.cz.m" />
 <reffile id="w" name="wdata" href="wsj2371.cz.w" />
@@ -131,7 +131,6 @@
 <ord>19</ord>
 </LM>
 </children>
-<eng_sentence>James Robinson, 57 years old, was elected president and chief executive officer of this maker of magnetic recording heads for disk drives.</eng_sentence>
 </LM>
 <LM id="a-wsj2371-001-p1s1">
 <s.rf>m#m-wsj2371-001-p1s1</s.rf>
@@ -327,7 +326,6 @@
 <ord>31</ord>
 </LM>
 </children>
-<eng_sentence>He has been president and chief executive officer of Amperex Electronics Corp., a division of North American Philips Corp., itself a subsidiary of N.V. Philips of the Netherlands.</eng_sentence>
 </LM>
 <LM id="a-wsj2371-001-p1s2">
 <s.rf>m#m-wsj2371-001-p1s2</s.rf>
@@ -488,7 +486,6 @@
 <ord>26</ord>
 </LM>
 </children>
-<eng_sentence>Charles J. Lawson Jr., 68, who had been acting chief executive since June 14, will continue as chairman.</eng_sentence>
 </LM>
 <LM id="a-wsj2371-001-p1s3">
 <s.rf>m#m-wsj2371-001-p1s3</s.rf>
@@ -576,7 +573,6 @@
 <ord>13</ord>
 </LM>
 </children>
-<eng_sentence>The former president and chief executive, Eric W. Markrud, resigned in June.</eng_sentence>
 </LM>
 </trees>
 </adata>

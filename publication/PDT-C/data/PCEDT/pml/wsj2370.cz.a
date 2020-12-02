@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="aanot_schema.xml"/>
+<schema href="adata_c_schema.xml"/>
 <references>
 <reffile id="m" href="wsj2370.cz.m" name="mdata"/>
 <reffile id="w" href="wsj2370.cz.w" name="wdata"/>
@@ -121,7 +121,6 @@
 <ord>17</ord>
 </LM>
 </children>
-<eng_sentence>The official White House reaction to a plunge in stock prices has a 60-year history of calm, right up through Friday.</eng_sentence>
 </LM>
 <LM id="a-wsj2370-001-p1s1">
 <s.rf>m#m-wsj2370-001-p1s1</s.rf>
@@ -255,7 +254,6 @@
 <ord>20</ord>
 </LM>
 </children>
-<eng_sentence>Treasury Secretary Nicholas Brady said in a statement Friday that the stock-market decline ``doesn't signal any fundamental change in the condition of the economy.''</eng_sentence>
 </LM>
 <LM id="a-wsj2370-001-p1s2">
 <s.rf>m#m-wsj2370-001-p1s2</s.rf>
@@ -361,7 +359,6 @@
 <ord>16</ord>
 </LM>
 </children>
-<eng_sentence>``The economy,'' he added, ``remains well-balanced and the outlook is for continued moderate growth.''</eng_sentence>
 </LM>
 <LM id="a-wsj2370-001-p1s3">
 <s.rf>m#m-wsj2370-001-p1s3</s.rf>
@@ -378,7 +375,6 @@
 <ord>2</ord>
 </LM>
 </children>
-<eng_sentence> Sound familiar?</eng_sentence>
 </LM>
 <LM id="a-wsj2370-001-p1s4">
 <s.rf>m#m-wsj2370-001-p1s4</s.rf>
@@ -485,7 +481,6 @@
 <ord>16</ord>
 </LM>
 </children>
-<eng_sentence>Here's what Ronald Reagan said after the 1987 crash: ``The underlying economy remains sound.</eng_sentence>
 </LM>
 <LM id="a-wsj2370-001-p1s5">
 <s.rf>m#m-wsj2370-001-p1s5</s.rf>
@@ -581,7 +576,6 @@
 <ord>14</ord>
 </LM>
 </children>
-<eng_sentence>There is nothing wrong with the economy... all the indices are up.''</eng_sentence>
 </LM>
 <LM id="a-wsj2370-001-p1s6">
 <s.rf>m#m-wsj2370-001-p1s6</s.rf>
@@ -620,7 +614,6 @@
 <ord>6</ord>
 </LM>
 </children>
-<eng_sentence> Heard that before?</eng_sentence>
 </LM>
 <LM id="a-wsj2370-001-p1s7">
 <s.rf>m#m-wsj2370-001-p1s7</s.rf>
@@ -771,7 +764,6 @@
 <ord>24</ord>
 </LM>
 </children>
-<eng_sentence>After the 1929 crash, Herbert Hoover said: ``The fundamental business of the country... is on a sound and prosperous basis.</eng_sentence>
 </LM>
 </trees>
 </adata>

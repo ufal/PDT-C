@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="aanot_schema.xml" />
+<schema href="adata_c_schema.xml" />
 <references>
 <reffile id="m" name="mdata" href="wsj2207.cz.m" />
 <reffile id="w" name="wdata" href="wsj2207.cz.w" />
@@ -157,7 +157,6 @@
 <ord>23</ord>
 </LM>
 </children>
-<eng_sentence>The House Aviation Subcommittee approved a bill that would give the transportation secretary authority to review and approve leveraged buy-outs of major U.S. airlines.</eng_sentence>
 </LM>
 <LM id="a-wsj2207-001-p1s1">
 <s.rf>m#m-wsj2207-001-p1s1</s.rf>
@@ -344,7 +343,6 @@
 <ord>28</ord>
 </LM>
 </children>
-<eng_sentence>The collapsed plan to acquire UAL Corp., parent of United Airlines, spurred quick action on the legislation, introduced Wednesday and approved by the subcommittee on a voice vote yesterday.</eng_sentence>
 </LM>
 <LM id="a-wsj2207-001-p1s2">
 <s.rf>m#m-wsj2207-001-p1s2</s.rf>
@@ -494,7 +492,6 @@
 <ord>23</ord>
 </LM>
 </children>
-<eng_sentence>The bill is expected to be taken up by the Public Works and Transportation Committee tomorrow, and a floor vote by next week will be urged.</eng_sentence>
 </LM>
 <LM id="a-wsj2207-001-p1s3">
 <s.rf>m#m-wsj2207-001-p1s3</s.rf>
@@ -706,7 +703,6 @@
 <ord>33</ord>
 </LM>
 </children>
-<eng_sentence>The measure drew criticism from the Bush administration and a parting shot from financier Donald Trump, who yesterday withdrew his takeover bid for AMR Corp., the parent of American Airlines.</eng_sentence>
 </LM>
 <LM id="a-wsj2207-001-p1s4">
 <s.rf>m#m-wsj2207-001-p1s4</s.rf>
@@ -945,7 +941,6 @@
 <ord>37</ord>
 </LM>
 </children>
-<eng_sentence>In a letter to subcommittee Chairman James Oberstar (D., Minn.), Mr. Trump criticized the bill as an explicit effort to thwart his bid for AMR, and said it contributed to the collapse of the deal.</eng_sentence>
 </LM>
 <LM id="a-wsj2207-001-p1s5">
 <s.rf>m#m-wsj2207-001-p1s5</s.rf>
@@ -1105,7 +1100,6 @@
 <ord>25</ord>
 </LM>
 </children>
-<eng_sentence>Elaine Chao, deputy transportation secretary, also sent a letter to express the administration's opposition to the bill ``in its present form.''</eng_sentence>
 </LM>
 <LM id="a-wsj2207-001-p1s6">
 <s.rf>m#m-wsj2207-001-p1s6</s.rf>
@@ -1201,7 +1195,6 @@
 <ord>15</ord>
 </LM>
 </children>
-<eng_sentence>Rep. Oberstar brushed off Mr. Trump's allegations as an ``excuse for his own deal failing.''</eng_sentence>
 </LM>
 <LM id="a-wsj2207-001-p1s7">
 <s.rf>m#m-wsj2207-001-p1s7</s.rf>
@@ -1395,7 +1388,6 @@
 <ord>31</ord>
 </LM>
 </children>
-<eng_sentence>He also said the fact that the other letter hadn't come from Transportation Secretary Samuel Skinner indicated there is ``wiggle room'' in the administration's position.</eng_sentence>
 </LM>
 <LM id="a-wsj2207-001-p1s8">
 <s.rf>m#m-wsj2207-001-p1s8</s.rf>
@@ -1524,7 +1516,6 @@
 <ord>20</ord>
 </LM>
 </children>
-<eng_sentence>Mr. Oberstar and other committee members repeatedly stressed that the legislation wasn't a response to any particular market situation.</eng_sentence>
 </LM>
 <LM id="a-wsj2207-001-p1s9">
 <s.rf>m#m-wsj2207-001-p1s9</s.rf>
@@ -1644,7 +1635,6 @@
 <ord>18</ord>
 </LM>
 </children>
-<eng_sentence>But they cited the UAL and AMR examples as reasons to move quickly to enact this legislation.</eng_sentence>
 </LM>
 <LM id="a-wsj2207-001-p1s10">
 <s.rf>m#m-wsj2207-001-p1s10</s.rf>
@@ -1806,7 +1796,6 @@
 <ord>25</ord>
 </LM>
 </children>
-<eng_sentence>Aides both in the House and Senate said the withdrawal of the Trump bid for AMR isn't likely to deflate efforts to push the legislation.</eng_sentence>
 </LM>
 <LM id="a-wsj2207-001-p1s11">
 <s.rf>m#m-wsj2207-001-p1s11</s.rf>
@@ -1924,7 +1913,6 @@
 <ord>19</ord>
 </LM>
 </children>
-<eng_sentence>``It's still on the fast track and we still want to do it,'' said one Senate aide.</eng_sentence>
 </LM>
 <LM id="a-wsj2207-001-p1s12">
 <s.rf>m#m-wsj2207-001-p1s12</s.rf>
@@ -2098,7 +2086,6 @@
 <ord>27</ord>
 </LM>
 </children>
-<eng_sentence>The bill is aimed at addressing the concern that an airline might sacrifice costly safety measures to pay off the debt incurred in a leveraged buy-out.</eng_sentence>
 </LM>
 <LM id="a-wsj2207-001-p1s13">
 <s.rf>m#m-wsj2207-001-p1s13</s.rf>
@@ -2313,7 +2300,6 @@
 <ord>34</ord>
 </LM>
 </children>
-<eng_sentence>Currently, the transportation secretary doesn't have clearly established authority to block mergers, but can take the drastic step of revoking the operating certificate of any carrier the official considers unfit.</eng_sentence>
 </LM>
 <LM id="a-wsj2207-001-p1s14">
 <s.rf>m#m-wsj2207-001-p1s14</s.rf>
@@ -2491,7 +2477,6 @@
 <ord>27</ord>
 </LM>
 </children>
-<eng_sentence>Supporters of the legislation view the bill as an effort to add stability and certainty to the airline-acquisition process, and to preserve the safety and fitness of the industry.</eng_sentence>
 </LM>
 <LM id="a-wsj2207-001-p1s15">
 <s.rf>m#m-wsj2207-001-p1s15</s.rf>
@@ -2684,7 +2669,6 @@
 <ord>32</ord>
 </LM>
 </children>
-<eng_sentence>In general, the bill would give the Transportation Department a 30-day review period before 15% or more of the voting stock of a major U.S. air carrier could be acquired.</eng_sentence>
 </LM>
 <LM id="a-wsj2207-001-p1s16">
 <s.rf>m#m-wsj2207-001-p1s16</s.rf>
@@ -2824,7 +2808,6 @@
 <ord>21</ord>
 </LM>
 </children>
-<eng_sentence>It also would require the acquiring party to notify the transportation secretary and to provide all information relevant to determining the intent of the acquisition.</eng_sentence>
 </LM>
 <LM id="a-wsj2207-001-p1s17">
 <s.rf>m#m-wsj2207-001-p1s17</s.rf>
@@ -3079,7 +3062,6 @@
 <ord>41</ord>
 </LM>
 </children>
-<eng_sentence>The bill would allow the secretary to reject a buy-out if sufficient information hasn't been provided, or if the buy-out is likely to weaken the carrier financially, result in a substantial reduction in size of the airline through disposal of assets, or give control to a foreign interest.</eng_sentence>
 </LM>
 <LM id="a-wsj2207-001-p1s18">
 <s.rf>m#m-wsj2207-001-p1s18</s.rf>
@@ -3194,7 +3176,6 @@
 <ord>18</ord>
 </LM>
 </children>
-<eng_sentence>If more information is needed, the secretary would have authority to extend the review period 20 days.</eng_sentence>
 </LM>
 <LM id="a-wsj2207-001-p1s19">
 <s.rf>m#m-wsj2207-001-p1s19</s.rf>
@@ -3387,7 +3368,6 @@
 <ord>30</ord>
 </LM>
 </children>
-<eng_sentence>All the witnesses, both congressmen and industry experts, expressed support for the bill in order to prevent profiteers from cashing in on airline profits at the expense of safe, cost-effective service.</eng_sentence>
 </LM>
 <LM id="a-wsj2207-001-p1s20">
 <s.rf>m#m-wsj2207-001-p1s20</s.rf>
@@ -3565,7 +3545,6 @@
 <ord>26</ord>
 </LM>
 </children>
-<eng_sentence>But several committee members disapproved, some backing Mr. Trump's claim that the threat of regulation caused the failure of the UAL deal and the stock-market plunge.</eng_sentence>
 </LM>
 <LM id="a-wsj2207-001-p1s21">
 <s.rf>m#m-wsj2207-001-p1s21</s.rf>
@@ -3727,7 +3706,6 @@
 <ord>25</ord>
 </LM>
 </children>
-<eng_sentence>One of the major concerns expressed by the dissenters was that large airlines would be prohibited from divesting themselves of smaller entities and producing independent spin-off companies.</eng_sentence>
 </LM>
 </trees>
 </adata>

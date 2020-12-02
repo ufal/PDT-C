@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="aanot_schema.xml"/>
+<schema href="adata_c_schema.xml"/>
 <references>
 <reffile id="m" href="wsj2212.cz.m" name="mdata"/>
 <reffile id="w" href="wsj2212.cz.w" name="wdata"/>
@@ -221,7 +221,6 @@
 <ord>33</ord>
 </LM>
 </children>
-<eng_sentence>LIN Broadcasting Corp. said it won't take a position on a revised tender offer by McCaw Cellular Communications Inc. to buy LIN and has asked for clarification of the offer.</eng_sentence>
 </LM>
 <LM id="a-wsj2212-001-p1s1">
 <s.rf>m#m-wsj2212-001-p1s1</s.rf>
@@ -442,7 +441,6 @@
 <ord>34</ord>
 </LM>
 </children>
-<eng_sentence>The new offer, which seeks 50.3% of the cellular and broadcasting concern, is for $125 a share for 22 million LIN shares.</eng_sentence>
 </LM>
 <LM id="a-wsj2212-001-p1s2">
 <s.rf>m#m-wsj2212-001-p1s2</s.rf>
@@ -715,7 +713,6 @@
 <ord>44</ord>
 </LM>
 </children>
-<eng_sentence>McCaw's revised tender offer would require McCaw to begin an auction process in July 1994 that would buy out remaining holders at a per-share price roughly equivalent to what a third party might then have to pay for all of LIN.</eng_sentence>
 </LM>
 <LM id="a-wsj2212-001-p1s3">
 <s.rf>m#m-wsj2212-001-p1s3</s.rf>
@@ -912,7 +909,6 @@
 <ord>30</ord>
 </LM>
 </children>
-<eng_sentence>LIN is asking McCaw to clarify its tender offer, which challenges an agreement between BellSouth Corp. and LIN to merge their cellular-telephone businesses.</eng_sentence>
 </LM>
 <LM id="a-wsj2212-001-p1s4">
 <s.rf>m#m-wsj2212-001-p1s4</s.rf>
@@ -1075,7 +1071,6 @@
 <ord>26</ord>
 </LM>
 </children>
-<eng_sentence>BellSouth has notified LIN that it would ``shortly respond to the McCaw proposal in as full and effective a manner as is warranted.''</eng_sentence>
 </LM>
 <LM id="a-wsj2212-001-p1s5">
 <s.rf>m#m-wsj2212-001-p1s5</s.rf>
@@ -1266,7 +1261,6 @@
 <ord>30</ord>
 </LM>
 </children>
-<eng_sentence>The LIN board said holders may be misled by the provision in the McCaw proposal that ``guarantees'' private market value after five years for the remaining shares.</eng_sentence>
 </LM>
 <LM id="a-wsj2212-001-p1s6">
 <s.rf>m#m-wsj2212-001-p1s6</s.rf>
@@ -1409,7 +1403,6 @@
 <ord>22</ord>
 </LM>
 </children>
-<eng_sentence>McCaw has ``no obligation to purchase and the definition of private market value is uncertain,'' the LIN board said.</eng_sentence>
 </LM>
 <LM id="a-wsj2212-001-p1s7">
 <s.rf>m#m-wsj2212-001-p1s7</s.rf>
@@ -1700,7 +1693,6 @@
 <ord>46</ord>
 </LM>
 </children>
-<eng_sentence>The board added that McCaw would be able to control LIN's operations and could, ``therefore, operate LIN in a manner which could diminish its private market value and attractiveness to a third-party purchaser in five years.''</eng_sentence>
 </LM>
 <LM id="a-wsj2212-001-p1s8">
 <s.rf>m#m-wsj2212-001-p1s8</s.rf>
@@ -1821,7 +1813,6 @@
 <ord>18</ord>
 </LM>
 </children>
-<eng_sentence>In national over-the-counter trading, LIN closed at $104.75, down $2.75.</eng_sentence>
 </LM>
 </trees>
 </adata>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="aanot_schema.xml" />
+<schema href="adata_c_schema.xml" />
 <references>
 <reffile id="m" name="mdata" href="wsj2220.cz.m" />
 <reffile id="w" name="wdata" href="wsj2220.cz.w" />
@@ -194,7 +194,6 @@
 <ord>28</ord>
 </LM>
 </children>
-<eng_sentence>Seafirst Corp. said it signed an agreement with builder Martin Selig to purchase its headquarters building, the Columbia Seafirst Center, for $354 million.</eng_sentence>
 </LM>
 <LM id="a-wsj2220-001-p1s1">
 <s.rf>m#m-wsj2220-001-p1s1</s.rf>
@@ -374,7 +373,6 @@
 <ord>28</ord>
 </LM>
 </children>
-<eng_sentence>Purchase of the 76-story structure is subject to execution of a definitive agreement, approval by the boards of Seafirst and its parent company BankAmerica Corp., and approval by regulators.</eng_sentence>
 </LM>
 </trees>
 </adata>

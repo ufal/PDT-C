@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="aanot_schema.xml"/>
+<schema href="adata_c_schema.xml"/>
 <references>
 <reffile id="m" href="wsj2378.cz.m" name="mdata"/>
 <reffile id="w" href="wsj2378.cz.w" name="wdata"/>
@@ -87,7 +87,6 @@
 <ord>11</ord>
 </LM>
 </children>
-<eng_sentence>It was Friday the 13th, and the stock market plummeted nearly 200 points.</eng_sentence>
 </LM>
 <LM id="a-wsj2378-001-p1s1">
 <s.rf>m#m-wsj2378-001-p1s1</s.rf>
@@ -116,7 +115,6 @@
 <ord>4</ord>
 </LM>
 </children>
-<eng_sentence>Just a coincidence?</eng_sentence>
 </LM>
 <LM id="a-wsj2378-001-p1s2">
 <s.rf>m#m-wsj2378-001-p1s2</s.rf>
@@ -195,7 +193,6 @@
 <ord>11</ord>
 </LM>
 </children>
-<eng_sentence>Or is triskaidekaphobia -- fear of the number 13 -- justified?</eng_sentence>
 </LM>
 <LM id="a-wsj2378-001-p1s3">
 <s.rf>m#m-wsj2378-001-p1s3</s.rf>
@@ -286,7 +283,6 @@
 <ord>14</ord>
 </LM>
 </children>
-<eng_sentence>In academia, a so-called Friday the 13th effect has been set up and shot down by different professors.</eng_sentence>
 </LM>
 <LM id="a-wsj2378-001-p1s4">
 <s.rf>m#m-wsj2378-001-p1s4</s.rf>
@@ -440,7 +436,6 @@
 <ord>23</ord>
 </LM>
 </children>
-<eng_sentence>Robert Kolb and Ricardo Rodriguez, professors of finance at the University of Miami, found evidence that the market is spooked by Friday the 13th.</eng_sentence>
 </LM>
 <LM id="a-wsj2378-001-p1s5">
 <s.rf>m#m-wsj2378-001-p1s5</s.rf>
@@ -587,7 +582,6 @@
 <ord>23</ord>
 </LM>
 </children>
-<eng_sentence>But their study, which spanned the 1962-85 period, has since been shown to be jinxed by an unlucky choice of data.</eng_sentence>
 </LM>
 <LM id="a-wsj2378-001-p1s6">
 <s.rf>m#m-wsj2378-001-p1s6</s.rf>
@@ -687,7 +681,6 @@
 <ord>15</ord>
 </LM>
 </children>
-<eng_sentence>In the'70s, the market took falls nine times in a row on Friday the you-know-what.</eng_sentence>
 </LM>
 <LM id="a-wsj2378-001-p1s7">
 <s.rf>m#m-wsj2378-001-p1s7</s.rf>
@@ -828,7 +821,6 @@
 <ord>21</ord>
 </LM>
 </children>
-<eng_sentence>But the date tends to be a plus, not a minus, for stocks, according to Yale Hirsch, a collector of stock market lore.</eng_sentence>
 </LM>
 <LM id="a-wsj2378-001-p1s8">
 <s.rf>m#m-wsj2378-001-p1s8</s.rf>
@@ -1057,7 +1049,6 @@
 <ord>35</ord>
 </LM>
 </children>
-<eng_sentence>Another study found that the 82 Fridays the 13th in the 1940-1987 period had higher than average returns -- higher even than Fridays in general, which tend to be strong days for stock prices.</eng_sentence>
 </LM>
 <LM id="a-wsj2378-001-p1s9">
 <s.rf>m#m-wsj2378-001-p1s9</s.rf>
@@ -1143,7 +1134,6 @@
 <ord>13</ord>
 </LM>
 </children>
-<eng_sentence>On the only other Friday the 13th this year, the Dow Jones Industrial Average rose about four points.</eng_sentence>
 </LM>
 <LM id="a-wsj2378-001-p1s10">
 <s.rf>m#m-wsj2378-001-p1s10</s.rf>
@@ -1261,7 +1251,6 @@
 <ord>19</ord>
 </LM>
 </children>
-<eng_sentence>Professor Kolb says the original study, titled Friday the 13th, Part VII, was published tongue-in-cheek.</eng_sentence>
 </LM>
 <LM id="a-wsj2378-001-p1s11">
 <s.rf>m#m-wsj2378-001-p1s11</s.rf>
@@ -1418,7 +1407,6 @@
 <ord>24</ord>
 </LM>
 </children>
-<eng_sentence>In a similar vein, he adds that the anniversary of the 1987 crash and Saturday's full moon could have played a part, too, in Friday's market activity.</eng_sentence>
 </LM>
 </trees>
 </adata>

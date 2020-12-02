@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="aanot_schema.xml" />
+<schema href="adata_c_schema.xml" />
 <references>
 <reffile id="m" name="mdata" href="wsj2384.cz.m" />
 <reffile id="w" name="wdata" href="wsj2384.cz.w" />
@@ -196,7 +196,6 @@
 <ord>28</ord>
 </LM>
 </children>
-<eng_sentence>Chase Manhattan Bank Chairman Willard Butcher is a conservative banker and a loyal Republican, but on Friday morning he had few kind words for President Bush's economic policy-making.</eng_sentence>
 </LM>
 <LM id="a-wsj2384-001-p1s1">
 <s.rf>m#m-wsj2384-001-p1s1</s.rf>
@@ -408,7 +407,6 @@
 <ord>34</ord>
 </LM>
 </children>
-<eng_sentence>``There are some very significant issues out there, such as the fiscal deficit, the trade deficit, our relations with Japan, that have to be the subject of major initiatives,'' he said in an interview.</eng_sentence>
 </LM>
 <LM id="a-wsj2384-001-p1s2">
 <s.rf>m#m-wsj2384-001-p1s2</s.rf>
@@ -485,7 +483,6 @@
 <ord>12</ord>
 </LM>
 </children>
-<eng_sentence>``I'd like to see that initiative, and I haven't.</eng_sentence>
 </LM>
 <LM id="a-wsj2384-001-p1s3">
 <s.rf>m#m-wsj2384-001-p1s3</s.rf>
@@ -550,7 +547,6 @@
 <ord>10</ord>
 </LM>
 </children>
-<eng_sentence>There isn't a big shot, an agenda.''</eng_sentence>
 </LM>
 <LM id="a-wsj2384-001-p1s4">
 <s.rf>m#m-wsj2384-001-p1s4</s.rf>
@@ -619,7 +615,6 @@
 <ord>10</ord>
 </LM>
 </children>
-<eng_sentence>A few hours later, the stock market dropped 190 points.</eng_sentence>
 </LM>
 <LM id="a-wsj2384-001-p1s5">
 <s.rf>m#m-wsj2384-001-p1s5</s.rf>
@@ -784,7 +779,6 @@
 <ord>26</ord>
 </LM>
 </children>
-<eng_sentence>Politicians tried to finger each other for the blame, although many analysts doubt that Washington was singly responsible for Wall Street's woes.</eng_sentence>
 </LM>
 <LM id="a-wsj2384-001-p1s6">
 <s.rf>m#m-wsj2384-001-p1s6</s.rf>
@@ -951,7 +945,6 @@
 <ord>25</ord>
 </LM>
 </children>
-<eng_sentence>But Mr. Butcher's comments make one thing clear: Some on Wall Street wonder if anyone is in charge of economic policy.</eng_sentence>
 </LM>
 <LM id="a-wsj2384-001-p1s7">
 <s.rf>m#m-wsj2384-001-p1s7</s.rf>
@@ -987,7 +980,6 @@
 <ord>5</ord>
 </LM>
 </children>
-<eng_sentence> Consider this:</eng_sentence>
 </LM>
 <LM id="a-wsj2384-001-p1s8">
 <s.rf>m#m-wsj2384-001-p1s8</s.rf>
@@ -1185,7 +1177,6 @@
 <ord>31</ord>
 </LM>
 </children>
-<eng_sentence>-- By 11:59 p.m. tonight, President Bush must order $16 billion of automatic, across-the-board cuts in government spending to comply with the Gramm-Rudman budget law.</eng_sentence>
 </LM>
 <LM id="a-wsj2384-001-p1s9">
 <s.rf>m#m-wsj2384-001-p1s9</s.rf>
@@ -1283,7 +1274,6 @@
 <ord>15</ord>
 </LM>
 </children>
-<eng_sentence>The cuts are necessary because Congress and the administration have failed to reach agreement on a deficit-cutting bill.</eng_sentence>
 </LM>
 <LM id="a-wsj2384-001-p1s10">
 <s.rf>m#m-wsj2384-001-p1s10</s.rf>
@@ -1554,7 +1544,6 @@
 <ord>44</ord>
 </LM>
 </children>
-<eng_sentence>``We simply don't have strong leadership to try to reduce the deficit and make tough choices,'' House Budget Committee Chairman Leon Panetta (D., Calif.) said yesterday on NBC News's ``Meet the Press.''</eng_sentence>
 </LM>
 <LM id="a-wsj2384-001-p1s11">
 <s.rf>m#m-wsj2384-001-p1s11</s.rf>
@@ -1686,7 +1675,6 @@
 <ord>21</ord>
 </LM>
 </children>
-<eng_sentence>-- For the last two weeks, the Bush administration and the Federal Reserve have been engaged in a semi-public battle over international economic policy.</eng_sentence>
 </LM>
 <LM id="a-wsj2384-001-p1s12">
 <s.rf>m#m-wsj2384-001-p1s12</s.rf>
@@ -1782,7 +1770,6 @@
 <ord>15</ord>
 </LM>
 </children>
-<eng_sentence>The administration has been trying to push the dollar lower; the Fed has been resisting.</eng_sentence>
 </LM>
 <LM id="a-wsj2384-001-p1s13">
 <s.rf>m#m-wsj2384-001-p1s13</s.rf>
@@ -2073,7 +2060,6 @@
 <ord>46</ord>
 </LM>
 </children>
-<eng_sentence>``One of the things that continues to worry me is this monetary warfare between the Treasury Department and the Federal Reserve Board,'' said Lawrence Kudlow, a Bear, Stearns &amp; Co. economist, on ABC's ``This Week.''</eng_sentence>
 </LM>
 <LM id="a-wsj2384-001-p1s14">
 <s.rf>m#m-wsj2384-001-p1s14</s.rf>
@@ -2162,7 +2148,6 @@
 <ord>14</ord>
 </LM>
 </children>
-<eng_sentence>-- The administration has sent out confusing signals about its response to a recent spate of airline takeovers.</eng_sentence>
 </LM>
 <LM id="a-wsj2384-001-p1s15">
 <s.rf>m#m-wsj2384-001-p1s15</s.rf>
@@ -2310,7 +2295,6 @@
 <ord>23</ord>
 </LM>
 </children>
-<eng_sentence>Last month, Transportation Secretary Sam Skinner forced Northwest Airlines to reduce a stake held by KLM Royal Dutch Airlines.</eng_sentence>
 </LM>
 <LM id="a-wsj2384-001-p1s16">
 <s.rf>m#m-wsj2384-001-p1s16</s.rf>
@@ -2422,7 +2406,6 @@
 <ord>16</ord>
 </LM>
 </children>
-<eng_sentence>But he has since run into opposition from the Treasury and the White House over that decision.</eng_sentence>
 </LM>
 <LM id="a-wsj2384-001-p1s17">
 <s.rf>m#m-wsj2384-001-p1s17</s.rf>
@@ -2611,7 +2594,6 @@
 <ord>29</ord>
 </LM>
 </children>
-<eng_sentence>And he has kept mum on how his decision might affect a bid for United Airlines, which includes a big stake by British Airways PLC.</eng_sentence>
 </LM>
 <LM id="a-wsj2384-001-p1s18">
 <s.rf>m#m-wsj2384-001-p1s18</s.rf>
@@ -2813,7 +2795,6 @@
 <ord>31</ord>
 </LM>
 </children>
-<eng_sentence>Some analysts say uncertainty about Washington's anti-takeover policy was one reason that financing for the United Airlines takeover fell through -- the event that triggered the market drop.</eng_sentence>
 </LM>
 <LM id="a-wsj2384-001-p1s19">
 <s.rf>m#m-wsj2384-001-p1s19</s.rf>
@@ -2970,7 +2951,6 @@
 <ord>24</ord>
 </LM>
 </children>
-<eng_sentence>In many ways, the backdrop to Friday's stock decline is eerily similar to that of October 1987's 508-point crash.</eng_sentence>
 </LM>
 <LM id="a-wsj2384-001-p1s20">
 <s.rf>m#m-wsj2384-001-p1s20</s.rf>
@@ -3133,7 +3113,6 @@
 <ord>25</ord>
 </LM>
 </children>
-<eng_sentence>Then, as now, the budget debate was behind schedule and automatic spending cuts were within days of taking hold.</eng_sentence>
 </LM>
 <LM id="a-wsj2384-001-p1s21">
 <s.rf>m#m-wsj2384-001-p1s21</s.rf>
@@ -3298,7 +3277,6 @@
 <ord>26</ord>
 </LM>
 </children>
-<eng_sentence>The Treasury was locked in a battle over international economic policy, although at that time it was with West German officials rather than the Federal Reserve.</eng_sentence>
 </LM>
 <LM id="a-wsj2384-001-p1s22">
 <s.rf>m#m-wsj2384-001-p1s22</s.rf>
@@ -3478,7 +3456,6 @@
 <ord>27</ord>
 </LM>
 </children>
-<eng_sentence>And concern about official actions aimed at takeovers -- then by the tax-writing House Ways and Means Committee rather than the Transportation Department -- were making markets nervous.</eng_sentence>
 </LM>
 <LM id="a-wsj2384-001-p1s23">
 <s.rf>m#m-wsj2384-001-p1s23</s.rf>
@@ -3774,7 +3751,6 @@
 <ord>47</ord>
 </LM>
 </children>
-<eng_sentence>The 1987 crash brought the Reagan administration and Democratic lawmakers to the table for the first budget summit, resulting in a two-year plan to reduce the deficit by more than $76 billion -- even though the deficit actually rose by nearly $12 billion during that period.</eng_sentence>
 </LM>
 <LM id="a-wsj2384-001-p1s24">
 <s.rf>m#m-wsj2384-001-p1s24</s.rf>
@@ -3921,7 +3897,6 @@
 <ord>23</ord>
 </LM>
 </children>
-<eng_sentence>But, barring further drops in the market this week, a similar outcome doesn't seem likely this year.</eng_sentence>
 </LM>
 <LM id="a-wsj2384-001-p1s25">
 <s.rf>m#m-wsj2384-001-p1s25</s.rf>
@@ -4286,7 +4261,6 @@
 <ord>58</ord>
 </LM>
 </children>
-<eng_sentence>Lawmakers and administration officials agree that Friday's drop, by itself, isn't enough to force both sides back to the table to try to reach a deficit-reduction agreement that would be more serious and more far-reaching than last spring's gimmick-ridden plan, which still isn't fully implemented.</eng_sentence>
 </LM>
 <LM id="a-wsj2384-001-p1s26">
 <s.rf>m#m-wsj2384-001-p1s26</s.rf>
@@ -4510,7 +4484,6 @@
 <ord>35</ord>
 </LM>
 </children>
-<eng_sentence>One of the biggest reasons that new talks aren't likely to come about is that, as everyone learned in 1987, the economy and the market can survive a one-day 508-point tumble.</eng_sentence>
 </LM>
 <LM id="a-wsj2384-001-p1s27">
 <s.rf>m#m-wsj2384-001-p1s27</s.rf>
@@ -4656,7 +4629,6 @@
 <ord>23</ord>
 </LM>
 </children>
-<eng_sentence>``Everybody thought we were looking at a repetition of 1929, that we were looking at a recession,'' Rep. Panetta said yesterday in an interview.</eng_sentence>
 </LM>
 <LM id="a-wsj2384-001-p1s28">
 <s.rf>m#m-wsj2384-001-p1s28</s.rf>
@@ -4698,7 +4670,6 @@
 <ord>6</ord>
 </LM>
 </children>
-<eng_sentence>``That did not happen.</eng_sentence>
 </LM>
 <LM id="a-wsj2384-001-p1s29">
 <s.rf>m#m-wsj2384-001-p1s29</s.rf>
@@ -4777,7 +4748,6 @@
 <ord>11</ord>
 </LM>
 </children>
-<eng_sentence>They learned they could survive it without much problem.''</eng_sentence>
 </LM>
 <LM id="a-wsj2384-001-p1s30">
 <s.rf>m#m-wsj2384-001-p1s30</s.rf>
@@ -5020,7 +4990,6 @@
 <ord>38</ord>
 </LM>
 </children>
-<eng_sentence>But administration officials privately agree with Mr. Panetta, who said a precipitous drop this week ``is going to force the president and Congress to take a much harder look at fiscal policy.''</eng_sentence>
 </LM>
 <LM id="a-wsj2384-001-p1s31">
 <s.rf>m#m-wsj2384-001-p1s31</s.rf>
@@ -5082,7 +5051,6 @@
 <ord>9</ord>
 </LM>
 </children>
-<eng_sentence>In that case, there will be plenty of blame to go around.</eng_sentence>
 </LM>
 <LM id="a-wsj2384-001-p1s32">
 <s.rf>m#m-wsj2384-001-p1s32</s.rf>
@@ -5390,7 +5358,6 @@
 <ord>49</ord>
 </LM>
 </children>
-<eng_sentence>``There is an underlying concern on the part of the American people -- and there should be - that the administration has not gone far enough in cutting this deficit and that Congress has been unwilling to cut what the administration asked us to cut,'' said Senate Finance Committee Chairman Lloyd Bentsen (D., Texas).</eng_sentence>
 </LM>
 <LM id="a-wsj2384-001-p1s33">
 <s.rf>m#m-wsj2384-001-p1s33</s.rf>
@@ -5602,7 +5569,6 @@
 <ord>33</ord>
 </LM>
 </children>
-<eng_sentence>Nevertheless, it clearly will take more than Friday's 190-point decline to overcome the bitter feelings that have developed between lawmakers and White House Budget Director Richard Darman over the capital-gains fight.</eng_sentence>
 </LM>
 <LM id="a-wsj2384-001-p1s34">
 <s.rf>m#m-wsj2384-001-p1s34</s.rf>
@@ -5828,7 +5794,6 @@
 <ord>35</ord>
 </LM>
 </children>
-<eng_sentence>Hill Democrats are particularly angry over Mr. Bush's claim that the capital-gains cut was part of April's budget accord and his insistence on combining it with the deficit-reduction legislation.</eng_sentence>
 </LM>
 <LM id="a-wsj2384-001-p1s35">
 <s.rf>m#m-wsj2384-001-p1s35</s.rf>
@@ -6138,7 +6103,6 @@
 <ord>51</ord>
 </LM>
 </children>
-<eng_sentence>``There is no prospect of any so-called grand compromise or deal next year because the administration simply didn't live up to this year's deal,'' Senate Majority Leader George Mitchell (D., Maine) said yesterday on CBS News's ``Face the Nation.''</eng_sentence>
 </LM>
 <LM id="a-wsj2384-001-p1s36">
 <s.rf>m#m-wsj2384-001-p1s36</s.rf>
@@ -6354,7 +6318,6 @@
 <ord>33</ord>
 </LM>
 </children>
-<eng_sentence>During last week's maneuverings on the deficit-cutting bill and the capital-gains issue, there were signs that Senate Republicans and the administration were at odds.</eng_sentence>
 </LM>
 <LM id="a-wsj2384-001-p1s37">
 <s.rf>m#m-wsj2384-001-p1s37</s.rf>
@@ -6571,7 +6534,6 @@
 <ord>34</ord>
 </LM>
 </children>
-<eng_sentence>At the very moment that Senate Republicans were negotiating a deal to exclude capital gains from the deficit-reduction legislation, White House spokesman Marlin Fitzwater told reporters that it was the president's policy to include it.</eng_sentence>
 </LM>
 <LM id="a-wsj2384-001-p1s38">
 <s.rf>m#m-wsj2384-001-p1s38</s.rf>
@@ -6767,7 +6729,6 @@
 <ord>31</ord>
 </LM>
 </children>
-<eng_sentence>When an agreement was reached to strip capital gains from the legislation, Oregon Sen. Bob Packwood, the ranking GOP member of the tax-writing Senate Finance Committee, hailed it.</eng_sentence>
 </LM>
 <LM id="a-wsj2384-001-p1s39">
 <s.rf>m#m-wsj2384-001-p1s39</s.rf>
@@ -6899,7 +6860,6 @@
 <ord>20</ord>
 </LM>
 </children>
-<eng_sentence> Asked if the administration agreed, he curtly replied: ``The adminstration will have to speak for itself.''</eng_sentence>
 </LM>
 <LM id="a-wsj2384-001-p1s40">
 <s.rf>m#m-wsj2384-001-p1s40</s.rf>
@@ -7096,7 +7056,6 @@
 <ord>30</ord>
 </LM>
 </children>
-<eng_sentence>Friday's market tumble could spur action on reconciling the House and Senate versions of the deficit-reduction measure, a process that isn't expected to begin until tomorrow at the soonest.</eng_sentence>
 </LM>
 <LM id="a-wsj2384-001-p1s41">
 <s.rf>m#m-wsj2384-001-p1s41</s.rf>
@@ -7290,7 +7249,6 @@
 <ord>31</ord>
 </LM>
 </children>
-<eng_sentence>Senate Republicans expressed the hope that the House would follow the lead of the Senate, which on Friday agreed to drop a variety of spending measures and tax breaks that would have increased the fiscal 1990 deficit.</eng_sentence>
 </LM>
 <LM id="a-wsj2384-001-p1s42">
 <s.rf>m#m-wsj2384-001-p1s42</s.rf>
@@ -7575,7 +7533,6 @@
 <ord>46</ord>
 </LM>
 </children>
-<eng_sentence>``The market needs a strong signal that we're serious about deficit reduction, and the best way to do that is for the House of Representatives to strip their bill'' of similar provisions, Sen. Warren Rudman (R., N.H.). said yesterday.</eng_sentence>
 </LM>
 <LM id="a-wsj2384-001-p1s43">
 <s.rf>m#m-wsj2384-001-p1s43</s.rf>
@@ -7950,7 +7907,6 @@
 <ord>60</ord>
 </LM>
 </children>
-<eng_sentence>The White House Office of Management and Budget, whose calculations determine whether the Gramm-Rudman targets are met, estimated that the House-passed deficit-reduction measure would cut the fiscal 1990 shortfall by $6.2 billion, almost half of the Congressional Budget Office's estimate of $11.0 billion.</eng_sentence>
 </LM>
 <LM id="a-wsj2384-001-p1s44">
 <s.rf>m#m-wsj2384-001-p1s44</s.rf>
@@ -8165,7 +8121,6 @@
 <ord>33</ord>
 </LM>
 </children>
-<eng_sentence>Rep. Panetta said that OMB's figure would still be enough to avoid permanent across-the-board cuts, but added: ``We're getting very close to the margins here.''</eng_sentence>
 </LM>
 <LM id="a-wsj2384-001-p1s45">
 <s.rf>m#m-wsj2384-001-p1s45</s.rf>
@@ -8279,7 +8234,6 @@
 <ord>17</ord>
 </LM>
 </children>
-<eng_sentence>No one in Washington was willing to take the blame for provoking Friday's drop in the stock market.</eng_sentence>
 </LM>
 <LM id="a-wsj2384-001-p1s46">
 <s.rf>m#m-wsj2384-001-p1s46</s.rf>
@@ -8328,7 +8282,6 @@
 <ord>7</ord>
 </LM>
 </children>
-<eng_sentence>But some players were quick to seize the moment.</eng_sentence>
 </LM>
 <LM id="a-wsj2384-001-p1s47">
 <s.rf>m#m-wsj2384-001-p1s47</s.rf>
@@ -8568,7 +8521,6 @@
 <ord>37</ord>
 </LM>
 </children>
-<eng_sentence>Before the sun had set on Friday, Richard Rahn, the supply-side chief economist of the U.S. Chamber of Commerce, issued a statement attributing the drop in stock prices to the Senate decision to postpone action on capital gains.</eng_sentence>
 </LM>
 <LM id="a-wsj2384-001-p1s48">
 <s.rf>m#m-wsj2384-001-p1s48</s.rf>
@@ -8693,7 +8645,6 @@
 <ord>20</ord>
 </LM>
 </children>
-<eng_sentence>``Investors, who had been holding assets in anticipation of a more favorable time to sell, were spooked,'' he said.</eng_sentence>
 </LM>
 <LM id="a-wsj2384-001-p1s49">
 <s.rf>m#m-wsj2384-001-p1s49</s.rf>
@@ -8927,7 +8878,6 @@
 <ord>36</ord>
 </LM>
 </children>
-<eng_sentence>``There have been many preposterous reasons advanced to support a capital-gains tax cut,'' Sen. Mitchell said during his television appearance, ``but I suggest that is perhaps more than any of the others.</eng_sentence>
 </LM>
 </trees>
 </adata>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="aanot_schema.xml"/>
+<schema href="adata_c_schema.xml"/>
 <references>
 <reffile id="m" href="wsj2337.cz.m" name="mdata"/>
 <reffile id="w" href="wsj2337.cz.w" name="wdata"/>
@@ -195,7 +195,6 @@
 <ord>29</ord>
 </LM>
 </children>
-<eng_sentence>Newspaper publishers are reporting mixed third-quarter results, aided by favorable newsprint prices and hampered by flat or declining advertising linage, especially in the Northeast.</eng_sentence>
 </LM>
 <LM id="a-wsj2337-001-p1s1">
 <s.rf>m#m-wsj2337-001-p1s1</s.rf>
@@ -388,7 +387,6 @@
 <ord>29</ord>
 </LM>
 </children>
-<eng_sentence> Adding to unsteadiness in the industry, seasonal retail ad spending patterns in newspapers have been upset by shifts in ownership and general hardships within the retail industry.</eng_sentence>
 </LM>
 <LM id="a-wsj2337-001-p1s2">
 <s.rf>m#m-wsj2337-001-p1s2</s.rf>
@@ -716,7 +714,6 @@
 <ord>52</ord>
 </LM>
 </children>
-<eng_sentence>In New York, the Bonwit Teller and B. Altman &amp; Co. department stores have filed for protection from creditors under Chapter 11 of the federal Bankruptcy Code, while the R.H. Macy &amp; Co., Bloomingdale's and Saks Fifth Avenue department-store chains are for sale.</eng_sentence>
 </LM>
 <LM id="a-wsj2337-001-p1s3">
 <s.rf>m#m-wsj2337-001-p1s3</s.rf>
@@ -876,7 +873,6 @@
 <ord>25</ord>
 </LM>
 </children>
-<eng_sentence>Many papers throughout the country are also faced with a slowdown in classified-ad spending, a booming category for newspapers in recent years.</eng_sentence>
 </LM>
 <LM id="a-wsj2337-001-p1s4">
 <s.rf>m#m-wsj2337-001-p1s4</s.rf>
@@ -1083,7 +1079,6 @@
 <ord>32</ord>
 </LM>
 </children>
-<eng_sentence>Until recently, industry analysts believed decreases in retail ad spending had bottomed out and would in fact increase in this year's third and fourth quarters.</eng_sentence>
 </LM>
 <LM id="a-wsj2337-001-p1s5">
 <s.rf>m#m-wsj2337-001-p1s5</s.rf>
@@ -1188,7 +1183,6 @@
 <ord>16</ord>
 </LM>
 </children>
-<eng_sentence>All bets are off, analysts say, because of the shifting ownership of the retail chains.</eng_sentence>
 </LM>
 <LM id="a-wsj2337-001-p1s6">
 <s.rf>m#m-wsj2337-001-p1s6</s.rf>
@@ -1444,7 +1438,6 @@
 <ord>41</ord>
 </LM>
 </children>
-<eng_sentence>``Improved paper prices will help offset weakness in linage, but the retailers' problems have affected the amount of ad linage they usually run,'' said Edward J. Atorino, industry analyst for Salomon Brothers Inc.</eng_sentence>
 </LM>
 <LM id="a-wsj2337-001-p1s7">
 <s.rf>m#m-wsj2337-001-p1s7</s.rf>
@@ -1502,7 +1495,6 @@
 <ord>8</ord>
 </LM>
 </children>
-<eng_sentence>``Retailers are just in disarray.''</eng_sentence>
 </LM>
 <LM id="a-wsj2337-001-p1s8">
 <s.rf>m#m-wsj2337-001-p1s8</s.rf>
@@ -1742,7 +1734,6 @@
 <ord>37</ord>
 </LM>
 </children>
-<eng_sentence>For instance, Gannett Co. posted an 11% gain in net income, as total ad pages dropped at USA Today, but advertising revenue rose because of a higher circulation rate base and increased rates.</eng_sentence>
 </LM>
 <LM id="a-wsj2337-001-p1s9">
 <s.rf>m#m-wsj2337-001-p1s9</s.rf>
@@ -1872,7 +1863,6 @@
 <ord>19</ord>
 </LM>
 </children>
-<eng_sentence>Gannett's 83 daily and 35 non-daily newspapers reported a 3% increase in advertising and circulation revenue.</eng_sentence>
 </LM>
 <LM id="a-wsj2337-001-p1s10">
 <s.rf>m#m-wsj2337-001-p1s10</s.rf>
@@ -2123,7 +2113,6 @@
 <ord>39</ord>
 </LM>
 </children>
-<eng_sentence>Total advertising linage was ``modestly'' lower as classified-ad volume increased, while there was ``softer demand'' for retail and national ad linage, said John Curley, Gannett's chief executive officer.</eng_sentence>
 </LM>
 <LM id="a-wsj2337-001-p1s11">
 <s.rf>m#m-wsj2337-001-p1s11</s.rf>
@@ -2371,7 +2360,6 @@
 <ord>39</ord>
 </LM>
 </children>
-<eng_sentence>At USA Today, ad pages totaled 785 for the quarter, down 9.2% from the 1988 period, which was helped by increased ad spending from the Summer Olympics.</eng_sentence>
 </LM>
 <LM id="a-wsj2337-001-p1s12">
 <s.rf>m#m-wsj2337-001-p1s12</s.rf>
@@ -2695,7 +2683,6 @@
 <ord>50</ord>
 </LM>
 </children>
-<eng_sentence>While USA Today's total paid ad pages for the year to date totaled 2,735, a decrease of 4% from last year, the paper's ad revenue increased 8% in the quarter and 13% in the nine months.</eng_sentence>
 </LM>
 <LM id="a-wsj2337-001-p1s13">
 <s.rf>m#m-wsj2337-001-p1s13</s.rf>
@@ -2930,7 +2917,6 @@
 <ord>36</ord>
 </LM>
 </children>
-<eng_sentence>In the nine months, Gannett's net rose 9.5% to $270 million, or $1.68 a share, from $247 million, or $1.52 a share.</eng_sentence>
 </LM>
 <LM id="a-wsj2337-001-p1s14">
 <s.rf>m#m-wsj2337-001-p1s14</s.rf>
@@ -3025,7 +3011,6 @@
 <ord>14</ord>
 </LM>
 </children>
-<eng_sentence>Revenue gained 6% to $2.55 billion from $2.4 billion.</eng_sentence>
 </LM>
 <LM id="a-wsj2337-001-p1s15">
 <s.rf>m#m-wsj2337-001-p1s15</s.rf>
@@ -3173,7 +3158,6 @@
 <ord>23</ord>
 </LM>
 </children>
-<eng_sentence>At Dow Jones &amp; Co., third-quarter net income fell 9.9% from the year-earlier period.</eng_sentence>
 </LM>
 <LM id="a-wsj2337-001-p1s16">
 <s.rf>m#m-wsj2337-001-p1s16</s.rf>
@@ -3356,7 +3340,6 @@
 <ord>28</ord>
 </LM>
 </children>
-<eng_sentence>Net fell to $28.8 million, or 29 cents a share, from $32 million, or 33 cents a share.</eng_sentence>
 </LM>
 <LM id="a-wsj2337-001-p1s17">
 <s.rf>m#m-wsj2337-001-p1s17</s.rf>
@@ -3468,7 +3451,6 @@
 <ord>17</ord>
 </LM>
 </children>
-<eng_sentence>The year-earlier period included a one-time gain of $3.5 million, or four cents a share.</eng_sentence>
 </LM>
 <LM id="a-wsj2337-001-p1s18">
 <s.rf>m#m-wsj2337-001-p1s18</s.rf>
@@ -3561,7 +3543,6 @@
 <ord>14</ord>
 </LM>
 </children>
-<eng_sentence>Revenue gained 5.3% to $404.1 million from $383.8 million.</eng_sentence>
 </LM>
 <LM id="a-wsj2337-001-p1s19">
 <s.rf>m#m-wsj2337-001-p1s19</s.rf>
@@ -3717,7 +3698,6 @@
 <ord>23</ord>
 </LM>
 </children>
-<eng_sentence>The drop in profit reflected, in part, continued softness in financial advertising at The Wall Street Journal and Barron's magazine.</eng_sentence>
 </LM>
 <LM id="a-wsj2337-001-p1s20">
 <s.rf>m#m-wsj2337-001-p1s20</s.rf>
@@ -3812,7 +3792,6 @@
 <ord>14</ord>
 </LM>
 </children>
-<eng_sentence>Ad linage at the Journal fell 6.1% in the third quarter.</eng_sentence>
 </LM>
 <LM id="a-wsj2337-001-p1s21">
 <s.rf>m#m-wsj2337-001-p1s21</s.rf>
@@ -3915,7 +3894,6 @@
 <ord>16</ord>
 </LM>
 </children>
-<eng_sentence>Affiliated Publications Inc. reversed a year-earlier third quarter net loss.</eng_sentence>
 </LM>
 <LM id="a-wsj2337-001-p1s22">
 <s.rf>m#m-wsj2337-001-p1s22</s.rf>
@@ -4152,7 +4130,6 @@
 <ord>36</ord>
 </LM>
 </children>
-<eng_sentence>The publisher of the Boston Globe reported net of $8.5 million, or 12 cents a share, compared with a loss of $26.5 million, or 38 cents a share, for the third quarter in 1988.</eng_sentence>
 </LM>
 <LM id="a-wsj2337-001-p1s23">
 <s.rf>m#m-wsj2337-001-p1s23</s.rf>
@@ -4316,7 +4293,6 @@
 <ord>25</ord>
 </LM>
 </children>
-<eng_sentence>William O. Taylor, the parent's chairman and chief executive officer, said earnings continued to be hurt by softness in ad volume at the Boston newspaper.</eng_sentence>
 </LM>
 <LM id="a-wsj2337-001-p1s24">
 <s.rf>m#m-wsj2337-001-p1s24</s.rf>
@@ -4469,7 +4445,6 @@
 <ord>24</ord>
 </LM>
 </children>
-<eng_sentence>Third-quarter profit estimates for several companies are being strongly affected by the price of newsprint, which in the last two years has had several price increases.</eng_sentence>
 </LM>
 <LM id="a-wsj2337-001-p1s25">
 <s.rf>m#m-wsj2337-001-p1s25</s.rf>
@@ -4710,7 +4685,6 @@
 <ord>38</ord>
 </LM>
 </children>
-<eng_sentence>After a supply crunch caused prices to rise 14% since 1986 to $650 a metric ton, analysts are encouraged, because they don't expect a price increase for the rest of this year.</eng_sentence>
 </LM>
 <LM id="a-wsj2337-001-p1s26">
 <s.rf>m#m-wsj2337-001-p1s26</s.rf>
@@ -4844,7 +4818,6 @@
 <ord>21</ord>
 </LM>
 </children>
-<eng_sentence>Companies with daily newspapers in the Northeast will need the stable newsprint prices to ease damage from weak ad linage.</eng_sentence>
 </LM>
 <LM id="a-wsj2337-001-p1s27">
 <s.rf>m#m-wsj2337-001-p1s27</s.rf>
@@ -5067,7 +5040,6 @@
 <ord>34</ord>
 </LM>
 </children>
-<eng_sentence>Mr. Atorino at Salomon Brothers said he estimates that Times Mirror Co.'s earnings were down for the third quarter, because of soft advertising levels at its Long Island Newsday and Hartford Courant newspapers.</eng_sentence>
 </LM>
 <LM id="a-wsj2337-001-p1s28">
 <s.rf>m#m-wsj2337-001-p1s28</s.rf>
@@ -5237,7 +5209,6 @@
 <ord>27</ord>
 </LM>
 </children>
-<eng_sentence>Trouble on the East Coast was likely offset by improved ad linage at the Los Angeles Times, which this week also unveiled a redesign.</eng_sentence>
 </LM>
 <LM id="a-wsj2337-001-p1s29">
 <s.rf>m#m-wsj2337-001-p1s29</s.rf>
@@ -5506,7 +5477,6 @@
 <ord>42</ord>
 </LM>
 </children>
-<eng_sentence>New York Times Co. is expected to report lower earnings for the third quarter because of continued weak advertising levels at its flagship New York Times and deep discounting of newsprint at its affiliate, Forest Products Group.</eng_sentence>
 </LM>
 <LM id="a-wsj2337-001-p1s30">
 <s.rf>m#m-wsj2337-001-p1s30</s.rf>
@@ -5780,7 +5750,6 @@
 <ord>43</ord>
 </LM>
 </children>
-<eng_sentence>``Times Co.'s regional daily newspapers are holding up well, but there is little sign that things will improve in the New York market,'' said Alan Kassan, an analyst with Shearson Lehman Hutton.</eng_sentence>
 </LM>
 <LM id="a-wsj2337-001-p1s31">
 <s.rf>m#m-wsj2337-001-p1s31</s.rf>
@@ -6021,7 +5990,6 @@
 <ord>38</ord>
 </LM>
 </children>
-<eng_sentence>Washington Post Co. is expected to report improved earnings, largely because of increased cable revenue and publishing revenue helped by an improved retail market in the Washington area.</eng_sentence>
 </LM>
 <LM id="a-wsj2337-001-p1s32">
 <s.rf>m#m-wsj2337-001-p1s32</s.rf>
@@ -6103,7 +6071,6 @@
 <ord>13</ord>
 </LM>
 </children>
-<eng_sentence>According to analysts, profits were also helped by successful cost-cutting measures at Newsweek.</eng_sentence>
 </LM>
 <LM id="a-wsj2337-001-p1s33">
 <s.rf>m#m-wsj2337-001-p1s33</s.rf>
@@ -6215,7 +6182,6 @@
 <ord>17</ord>
 </LM>
 </children>
-<eng_sentence>The news-weekly has faced heightened competition from rival Time magazine and a relatively flat magazine advertising market.</eng_sentence>
 </LM>
 <LM id="a-wsj2337-001-p1s34">
 <s.rf>m#m-wsj2337-001-p1s34</s.rf>
@@ -6476,7 +6442,6 @@
 <ord>40</ord>
 </LM>
 </children>
-<eng_sentence>Knight-Ridder Inc. is faced with continued uncertainty over the pending joint operating agreement between its Detroit Free Press and Gannett's Detroit News, and has told analysts that earnings were down in the third quarter.</eng_sentence>
 </LM>
 <LM id="a-wsj2337-001-p1s35">
 <s.rf>m#m-wsj2337-001-p1s35</s.rf>
@@ -6639,7 +6604,6 @@
 <ord>25</ord>
 </LM>
 </children>
-<eng_sentence>However, analysts point to positive advertising spending at several of its major daily newspapers, such as the Miami Herald and San Jose Mercury News.</eng_sentence>
 </LM>
 <LM id="a-wsj2337-001-p1s36">
 <s.rf>m#m-wsj2337-001-p1s36</s.rf>
@@ -6873,7 +6837,6 @@
 <ord>37</ord>
 </LM>
 </children>
-<eng_sentence>``The Miami market is coming back strong after a tough couple of years'' when Knight-Ridder ``was starting up a Hispanic edition and circulation was falling,'' said Bruce Thorp, an analyst for Provident National Bank.</eng_sentence>
 </LM>
 </trees>
 </adata>

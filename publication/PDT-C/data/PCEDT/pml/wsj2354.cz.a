@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="aanot_schema.xml"/>
+<schema href="adata_c_schema.xml"/>
 <references>
 <reffile id="m" href="wsj2354.cz.m" name="mdata"/>
 <reffile id="w" href="wsj2354.cz.w" name="wdata"/>
@@ -102,7 +102,6 @@
 <ord>14</ord>
 </LM>
 </children>
-<eng_sentence> Call it the ``we're too broke to fight'' defense.</eng_sentence>
 </LM>
 <LM id="a-wsj2354-001-p1s1">
 <s.rf>m#m-wsj2354-001-p1s1</s.rf>
@@ -246,7 +245,6 @@
 <ord>22</ord>
 </LM>
 </children>
-<eng_sentence>Lawyers for dozens of insolvent savings and loan associations are trying a new tack in their efforts to defuse suits filed by borrowers, developers and creditors.</eng_sentence>
 </LM>
 <LM id="a-wsj2354-001-p1s2">
 <s.rf>m#m-wsj2354-001-p1s2</s.rf>
@@ -509,7 +507,6 @@
 <ord>42</ord>
 </LM>
 </children>
-<eng_sentence>The thrifts' lawyers claim that the suits, numbering 700 to 1,000 in Texas alone, should be dismissed as moot because neither the S&amp;Ls nor the extinct Federal Savings and Loan Insurance Corp. has the money to pay judgments.</eng_sentence>
 </LM>
 <LM id="a-wsj2354-001-p1s3">
 <s.rf>m#m-wsj2354-001-p1s3</s.rf>
@@ -656,7 +653,6 @@
 <ord>24</ord>
 </LM>
 </children>
-<eng_sentence>Though the argument may have a common-sense ring to it, even the S&amp;L lawyers concede there's little precedent to back their position.</eng_sentence>
 </LM>
 <LM id="a-wsj2354-001-p1s4">
 <s.rf>m#m-wsj2354-001-p1s4</s.rf>
@@ -892,7 +888,6 @@
 <ord>37</ord>
 </LM>
 </children>
-<eng_sentence>Still, one federal appeals court has signaled it's willing to entertain the notion, and the lawyers have renewed their arguments in Texas and eight other states where the defense is permitted under state law.</eng_sentence>
 </LM>
 <LM id="a-wsj2354-001-p1s5">
 <s.rf>m#m-wsj2354-001-p1s5</s.rf>
@@ -1111,7 +1106,6 @@
 <ord>34</ord>
 </LM>
 </children>
-<eng_sentence>The dismissal of the pending suits could go a long way toward clearing court dockets in Texas and reducing the FSLIC's massive legal bills, which topped $73 million last year.</eng_sentence>
 </LM>
 <LM id="a-wsj2354-001-p1s6">
 <s.rf>m#m-wsj2354-001-p1s6</s.rf>
@@ -1344,7 +1338,6 @@
 <ord>38</ord>
 </LM>
 </children>
-<eng_sentence>The S&amp;L lawyers were encouraged last month by an appellate-court ruling in two cases brought against defunct Sunbelt Savings &amp; Loan Association of Dallas by the developers of the Valley Ranch, best known as the training center for the Dallas Cowboys football team.</eng_sentence>
 </LM>
 <LM id="a-wsj2354-001-p1s7">
 <s.rf>m#m-wsj2354-001-p1s7</s.rf>
@@ -1404,7 +1397,6 @@
 <ord>9</ord>
 </LM>
 </children>
-<eng_sentence>Sunbelt foreclosed on the ranch.</eng_sentence>
 </LM>
 <LM id="a-wsj2354-001-p1s8">
 <s.rf>m#m-wsj2354-001-p1s8</s.rf>
@@ -1685,7 +1677,6 @@
 <ord>45</ord>
 </LM>
 </children>
-<eng_sentence>Sunbelt and the FSLIC argued to the Fifth U.S. Circuit Court of Appeals ``that there will never be any assets with which to satisfy a judgment against Sunbelt Savings nor any means to collect from any other party, including FSLIC.''</eng_sentence>
 </LM>
 <LM id="a-wsj2354-001-p1s9">
 <s.rf>m#m-wsj2354-001-p1s9</s.rf>
@@ -1835,7 +1826,6 @@
 <ord>24</ord>
 </LM>
 </children>
-<eng_sentence>``If true,'' the court wrote, ``this contention would justify dismissal of these actions on prudential grounds.''</eng_sentence>
 </LM>
 <LM id="a-wsj2354-001-p1s10">
 <s.rf>m#m-wsj2354-001-p1s10</s.rf>
@@ -2009,7 +1999,6 @@
 <ord>26</ord>
 </LM>
 </children>
-<eng_sentence>But the court said it lacked enough financial information about Sunbelt and the FSLIC and sent the cases back to federal district court in Dallas.</eng_sentence>
 </LM>
 <LM id="a-wsj2354-001-p1s11">
 <s.rf>m#m-wsj2354-001-p1s11</s.rf>
@@ -2348,7 +2337,6 @@
 <ord>54</ord>
 </LM>
 </children>
-<eng_sentence>Charles Haworth, a lawyer for Sunbelt, says he plans to file a brief this week urging the district judge to dismiss the suits, because Sunbelt's liabilities exceeded its assets by about $2 billion when federal regulators closed it in August 1988.</eng_sentence>
 </LM>
 <LM id="a-wsj2354-001-p1s12">
 <s.rf>m#m-wsj2354-001-p1s12</s.rf>
@@ -2494,7 +2482,6 @@
 <ord>23</ord>
 </LM>
 </children>
-<eng_sentence>``This institution is just brain dead,'' says Mr. Haworth, a partner in the Dallas office of Andrews &amp; Kurth, a Houston law firm.</eng_sentence>
 </LM>
 <LM id="a-wsj2354-001-p1s13">
 <s.rf>m#m-wsj2354-001-p1s13</s.rf>
@@ -2643,7 +2630,6 @@
 <ord>23</ord>
 </LM>
 </children>
-<eng_sentence>But a lawyer for Triland Investment Group, the developer of Valley Ranch, dismisses such arguments as a ``defense du jour.''</eng_sentence>
 </LM>
 <LM id="a-wsj2354-001-p1s14">
 <s.rf>m#m-wsj2354-001-p1s14</s.rf>
@@ -2874,7 +2860,6 @@
 <ord>36</ord>
 </LM>
 </children>
-<eng_sentence>Attorney Richard Jackson of Dallas says a judgment for Triland could be satisfied in ways other than a monetary award, including the reversal of Sunbelt's foreclosure on Valley Ranch.</eng_sentence>
 </LM>
 <LM id="a-wsj2354-001-p1s15">
 <s.rf>m#m-wsj2354-001-p1s15</s.rf>
@@ -3001,7 +2986,6 @@
 <ord>20</ord>
 </LM>
 </children>
-<eng_sentence>``We're asking the court for a number of things he can grant in addition to the thrill of victory,'' he says.</eng_sentence>
 </LM>
 <LM id="a-wsj2354-001-p1s16">
 <s.rf>m#m-wsj2354-001-p1s16</s.rf>
@@ -3090,7 +3074,6 @@
 <ord>13</ord>
 </LM>
 </children>
-<eng_sentence>``We'd take the Valley Ranch free and clear as a booby prize.</eng_sentence>
 </LM>
 </trees>
 </adata>

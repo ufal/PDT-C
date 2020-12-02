@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="aanot_schema.xml"/>
+<schema href="adata_c_schema.xml"/>
 <references>
 <reffile id="m" href="wsj2358.cz.m" name="mdata"/>
 <reffile id="w" href="wsj2358.cz.w" name="wdata"/>
@@ -202,7 +202,6 @@
 <ord>30</ord>
 </LM>
 </children>
-<eng_sentence>September's steep rise in producer prices shows that inflation still persists, and the pessimism over interest rates caused by the new price data contributed to the stock market's plunge Friday.</eng_sentence>
 </LM>
 <LM id="a-wsj2358-001-p1s1">
 <s.rf>m#m-wsj2358-001-p1s1</s.rf>
@@ -443,7 +442,6 @@
 <ord>38</ord>
 </LM>
 </children>
-<eng_sentence>After falling for three consecutive months, the producer price index for finished goods shot up 0.9% last month, the Labor Department reported Friday, as energy prices jumped after tumbling through the summer.</eng_sentence>
 </LM>
 <LM id="a-wsj2358-001-p1s2">
 <s.rf>m#m-wsj2358-001-p1s2</s.rf>
@@ -649,7 +647,6 @@
 <ord>33</ord>
 </LM>
 </children>
-<eng_sentence>Although the report, which was released before the stock market opened, didn't trigger the 190.58-point drop in the Dow Jones Industrial Average, analysts said it did play a role in the market's decline.</eng_sentence>
 </LM>
 <LM id="a-wsj2358-001-p1s3">
 <s.rf>m#m-wsj2358-001-p1s3</s.rf>
@@ -883,7 +880,6 @@
 <ord>37</ord>
 </LM>
 </children>
-<eng_sentence>Analysts immediately viewed the price data, the grimmest inflation news in months, as evidence that the Federal Reserve was unlikely to allow interest rates to fall as many investors had hoped.</eng_sentence>
 </LM>
 <LM id="a-wsj2358-001-p1s4">
 <s.rf>m#m-wsj2358-001-p1s4</s.rf>
@@ -1182,7 +1178,6 @@
 <ord>46</ord>
 </LM>
 </children>
-<eng_sentence> Further fueling the belief that pressures in the economy were sufficient to keep the Fed from easing credit, the Commerce Department reported Friday that retail sales grew 0.5% in September, to $145.21 billion.</eng_sentence>
 </LM>
 <LM id="a-wsj2358-001-p1s5">
 <s.rf>m#m-wsj2358-001-p1s5</s.rf>
@@ -1382,7 +1377,6 @@
 <ord>31</ord>
 </LM>
 </children>
-<eng_sentence>That rise came on top of a 0.7% gain in August, and suggested there is still healthy consumer demand in the economy.</eng_sentence>
 </LM>
 <LM id="a-wsj2358-001-p1s6">
 <s.rf>m#m-wsj2358-001-p1s6</s.rf>
@@ -1604,7 +1598,6 @@
 <ord>35</ord>
 </LM>
 </children>
-<eng_sentence>``I think the Friday report, combined with the actions of the Fed, weakened the belief that there was going to be an imminent easing of monetary policy,'' said Robert Dederick, chief economist at Northern Trust Co. in Chicago.</eng_sentence>
 </LM>
 <LM id="a-wsj2358-001-p1s7">
 <s.rf>m#m-wsj2358-001-p1s7</s.rf>
@@ -1729,7 +1722,6 @@
 <ord>19</ord>
 </LM>
 </children>
-<eng_sentence>But economists were divided over the extent of the inflation threat signaled by the new numbers.</eng_sentence>
 </LM>
 <LM id="a-wsj2358-001-p1s8">
 <s.rf>m#m-wsj2358-001-p1s8</s.rf>
@@ -1994,7 +1986,6 @@
 <ord>42</ord>
 </LM>
 </children>
-<eng_sentence>``The overall 0.9% increase is serious in itself, but what is even worse is that excluding food and energy, the producer price index still increased by 0.7%,'' said Gordon Richards, an economist at the National Association of Manufacturers.</eng_sentence>
 </LM>
 <LM id="a-wsj2358-001-p1s9">
 <s.rf>m#m-wsj2358-001-p1s9</s.rf>
@@ -2191,7 +2182,6 @@
 <ord>31</ord>
 </LM>
 </children>
-<eng_sentence>But Sung Won Sohn, chief economist at Norwest Corp. in Minneapolis, blamed rising energy prices and the annual autumn increase in car prices for most of the September jump.</eng_sentence>
 </LM>
 <LM id="a-wsj2358-001-p1s10">
 <s.rf>m#m-wsj2358-001-p1s10</s.rf>
@@ -2299,7 +2289,6 @@
 <ord>17</ord>
 </LM>
 </children>
-<eng_sentence>``I would say this is not bad news; this is a blip,'' he said.</eng_sentence>
 </LM>
 <LM id="a-wsj2358-001-p1s11">
 <s.rf>m#m-wsj2358-001-p1s11</s.rf>
@@ -2371,7 +2360,6 @@
 <ord>10</ord>
 </LM>
 </children>
-<eng_sentence>``The core rate is not really out of line.''</eng_sentence>
 </LM>
 <LM id="a-wsj2358-001-p1s12">
 <s.rf>m#m-wsj2358-001-p1s12</s.rf>
@@ -2512,7 +2500,6 @@
 <ord>22</ord>
 </LM>
 </children>
-<eng_sentence>All year, energy prices have skewed the producer price index, which measures changes in the prices producers receive for goods.</eng_sentence>
 </LM>
 <LM id="a-wsj2358-001-p1s13">
 <s.rf>m#m-wsj2358-001-p1s13</s.rf>
@@ -2688,7 +2675,6 @@
 <ord>29</ord>
 </LM>
 </children>
-<eng_sentence>Inflation unquestionably has fallen back from its torrid pace last winter, when a steep run-up in world oil prices sent the index surging at double-digit annual rates.</eng_sentence>
 </LM>
 <LM id="a-wsj2358-001-p1s14">
 <s.rf>m#m-wsj2358-001-p1s14</s.rf>
@@ -2794,7 +2780,6 @@
 <ord>17</ord>
 </LM>
 </children>
-<eng_sentence>Energy prices then plummeted through the summer, causing the index to decline for three consecutive months.</eng_sentence>
 </LM>
 <LM id="a-wsj2358-001-p1s15">
 <s.rf>m#m-wsj2358-001-p1s15</s.rf>
@@ -2928,7 +2913,6 @@
 <ord>21</ord>
 </LM>
 </children>
-<eng_sentence>Overall, the index has climbed at a 5.1% compound annual rate since the start of the year, the Labor Department said.</eng_sentence>
 </LM>
 <LM id="a-wsj2358-001-p1s16">
 <s.rf>m#m-wsj2358-001-p1s16</s.rf>
@@ -3100,7 +3084,6 @@
 <ord>27</ord>
 </LM>
 </children>
-<eng_sentence>While far more restrained than the pace at the beginning of the year, that is still a steeper rise than the 4.0% increase for all of 1988.</eng_sentence>
 </LM>
 <LM id="a-wsj2358-001-p1s17">
 <s.rf>m#m-wsj2358-001-p1s17</s.rf>
@@ -3247,7 +3230,6 @@
 <ord>24</ord>
 </LM>
 </children>
-<eng_sentence>Moreover, this year's good inflation news may have ended last month, when energy prices zoomed up 6.5% after plunging 7.3% in August.</eng_sentence>
 </LM>
 <LM id="a-wsj2358-001-p1s18">
 <s.rf>m#m-wsj2358-001-p1s18</s.rf>
@@ -3399,7 +3381,6 @@
 <ord>23</ord>
 </LM>
 </children>
-<eng_sentence>Some analysts expect oil prices to remain relatively stable in the months ahead, leaving the future pace of inflation uncertain.</eng_sentence>
 </LM>
 <LM id="a-wsj2358-001-p1s19">
 <s.rf>m#m-wsj2358-001-p1s19</s.rf>
@@ -3639,7 +3620,6 @@
 <ord>37</ord>
 </LM>
 </children>
-<eng_sentence>Analysts had expected that the climb in oil prices last month would lead to a substantial rise in the producer price index, but the 0.9% climb was higher than most anticipated.</eng_sentence>
 </LM>
 <LM id="a-wsj2358-001-p1s20">
 <s.rf>m#m-wsj2358-001-p1s20</s.rf>
@@ -3837,7 +3817,6 @@
 <ord>32</ord>
 </LM>
 </children>
-<eng_sentence>``I think the resurgence [in inflation] is going to continue for a few months,'' said John Mueller, chief economist at Bell Mueller Cannon, a Washington economic forecasting firm.</eng_sentence>
 </LM>
 <LM id="a-wsj2358-001-p1s21">
 <s.rf>m#m-wsj2358-001-p1s21</s.rf>
@@ -3973,7 +3952,6 @@
 <ord>21</ord>
 </LM>
 </children>
-<eng_sentence>He predicted that inflation will moderate next year, saying that credit conditions are fairly tight world-wide.</eng_sentence>
 </LM>
 <LM id="a-wsj2358-001-p1s22">
 <s.rf>m#m-wsj2358-001-p1s22</s.rf>
@@ -4170,7 +4148,6 @@
 <ord>31</ord>
 </LM>
 </children>
-<eng_sentence>But Dirk Van Dongen, president of the National Association of Wholesaler-Distributors, said that last month's rise ``isn't as bad an omen'' as the 0.9% figure suggests.</eng_sentence>
 </LM>
 <LM id="a-wsj2358-001-p1s23">
 <s.rf>m#m-wsj2358-001-p1s23</s.rf>
@@ -4394,7 +4371,6 @@
 <ord>35</ord>
 </LM>
 </children>
-<eng_sentence>``If you examine the data carefully, the increase is concentrated in energy and motor vehicle prices, rather than being a broad-based advance in the prices of consumer and industrial goods,'' he explained.</eng_sentence>
 </LM>
 <LM id="a-wsj2358-001-p1s24">
 <s.rf>m#m-wsj2358-001-p1s24</s.rf>
@@ -4550,7 +4526,6 @@
 <ord>23</ord>
 </LM>
 </children>
-<eng_sentence>Passenger car prices jumped 3.8% in September, after climbing 0.5% in August and declining in the late spring and summer.</eng_sentence>
 </LM>
 <LM id="a-wsj2358-001-p1s25">
 <s.rf>m#m-wsj2358-001-p1s25</s.rf>
@@ -4703,7 +4678,6 @@
 <ord>24</ord>
 </LM>
 </children>
-<eng_sentence>Many analysts said the September increase was a one-time event, coming as dealers introduced their 1990 models.</eng_sentence>
 </LM>
 <LM id="a-wsj2358-001-p1s26">
 <s.rf>m#m-wsj2358-001-p1s26</s.rf>
@@ -4833,7 +4807,6 @@
 <ord>21</ord>
 </LM>
 </children>
-<eng_sentence>Although all the price data were adjusted for normal seasonal fluctuations, car prices rose beyond the customary autumn increase.</eng_sentence>
 </LM>
 <LM id="a-wsj2358-001-p1s27">
 <s.rf>m#m-wsj2358-001-p1s27</s.rf>
@@ -4964,7 +4937,6 @@
 <ord>20</ord>
 </LM>
 </children>
-<eng_sentence>Prices for capital equipment rose a hefty 1.1% in September, while prices for home electronic equipment fell 1.1%.</eng_sentence>
 </LM>
 <LM id="a-wsj2358-001-p1s28">
 <s.rf>m#m-wsj2358-001-p1s28</s.rf>
@@ -5050,7 +5022,6 @@
 <ord>13</ord>
 </LM>
 </children>
-<eng_sentence>Food prices declined 0.6%, after climbing 0.3% in August.</eng_sentence>
 </LM>
 <LM id="a-wsj2358-001-p1s29">
 <s.rf>m#m-wsj2358-001-p1s29</s.rf>
@@ -5202,7 +5173,6 @@
 <ord>23</ord>
 </LM>
 </children>
-<eng_sentence>Meanwhile, the retail sales report showed that car sales rose 0.8% in September to $32.82 billion.</eng_sentence>
 </LM>
 <LM id="a-wsj2358-001-p1s30">
 <s.rf>m#m-wsj2358-001-p1s30</s.rf>
@@ -5291,7 +5261,6 @@
 <ord>14</ord>
 </LM>
 </children>
-<eng_sentence>But at least part of the increase could have come from higher prices, analysts said.</eng_sentence>
 </LM>
 <LM id="a-wsj2358-001-p1s31">
 <s.rf>m#m-wsj2358-001-p1s31</s.rf>
@@ -5509,7 +5478,6 @@
 <ord>33</ord>
 </LM>
 </children>
-<eng_sentence>Sales at general merchandise stores rose 1.7% after declining 0.6% in August, while sales of building materials fell 1.8% after rising 1.7%.</eng_sentence>
 </LM>
 <LM id="a-wsj2358-001-p1s32">
 <s.rf>m#m-wsj2358-001-p1s32</s.rf>
@@ -5628,7 +5596,6 @@
 <ord>18</ord>
 </LM>
 </children>
-<eng_sentence>Producer prices for intermediate goods grew 0.4% in September, after dropping for three consecutive months.</eng_sentence>
 </LM>
 <LM id="a-wsj2358-001-p1s33">
 <s.rf>m#m-wsj2358-001-p1s33</s.rf>
@@ -5822,7 +5789,6 @@
 <ord>29</ord>
 </LM>
 </children>
-<eng_sentence>Prices for crude goods, an array of raw materials, jumped 1.1% after declining 1.9% in August and edging up 0.2% in July.</eng_sentence>
 </LM>
 <LM id="a-wsj2358-001-p1s34">
 <s.rf>m#m-wsj2358-001-p1s34</s.rf>
@@ -5981,7 +5947,6 @@
 <ord>25</ord>
 </LM>
 </children>
-<eng_sentence>Here are the Labor Department's producer price indexes (1982 = 100) for September, before seasonal adjustment, and the percentage changes from September, 1988.</eng_sentence>
 </LM>
 </trees>
 </adata>

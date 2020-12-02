@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="aanot_schema.xml" />
+<schema href="adata_c_schema.xml" />
 <references>
 <reffile id="m" name="mdata" href="wsj2308.cz.m" />
 <reffile id="w" name="wdata" href="wsj2308.cz.w" />
@@ -312,7 +312,6 @@
 <ord>48</ord>
 </LM>
 </children>
-<eng_sentence>Ripples from the strike by 55,000 Machinists union members against Boeing Co. reached air carriers Friday as America West Airlines announced it will postpone its new service out of Houston because of delays in receiving aircraft from the Seattle jet maker.</eng_sentence>
 </LM>
 <LM id="a-wsj2308-001-p1s1">
 <s.rf>m#m-wsj2308-001-p1s1</s.rf>
@@ -716,7 +715,6 @@
 <ord>65</ord>
 </LM>
 </children>
-<eng_sentence>Peter Otradovec, vice president for planning at the Phoenix, Ariz., carrier, said in an interview that the work stoppage at Boeing, now entering its 13th day, ``has caused some turmoil in our scheduling'' and that more than 500 passengers who were booked to fly out of Houston on America West would now be put on other airlines.</eng_sentence>
 </LM>
 <LM id="a-wsj2308-001-p1s2">
 <s.rf>m#m-wsj2308-001-p1s2</s.rf>
@@ -1082,7 +1080,6 @@
 <ord>58</ord>
 </LM>
 </children>
-<eng_sentence>Mr. Otradovec said Boeing told America West that the 757 it was supposed to get this Thursday wouldn't be delivered until Nov. 7 -- the day after the airline had been planning to initiate service at Houston with four daily flights, including three nonstops to Phoenix and one nonstop to Las Vegas.</eng_sentence>
 </LM>
 <LM id="a-wsj2308-001-p1s3">
 <s.rf>m#m-wsj2308-001-p1s3</s.rf>
@@ -1173,7 +1170,6 @@
 <ord>14</ord>
 </LM>
 </children>
-<eng_sentence>Now, those routes aren't expected to begin until Jan.</eng_sentence>
 </LM>
 <LM id="a-wsj2308-001-p1s4">
 <s.rf>m#m-wsj2308-001-p1s4</s.rf>
@@ -1314,7 +1310,6 @@
 <ord>22</ord>
 </LM>
 </children>
-<eng_sentence>Boeing is also supposed to send to America West another 757 twin-engine aircraft as well as a 737 by year's end.</eng_sentence>
 </LM>
 <LM id="a-wsj2308-001-p1s5">
 <s.rf>m#m-wsj2308-001-p1s5</s.rf>
@@ -1367,7 +1362,6 @@
 <ord>8</ord>
 </LM>
 </children>
-<eng_sentence>Those, too, are almost certain to arrive late.</eng_sentence>
 </LM>
 <LM id="a-wsj2308-001-p1s6">
 <s.rf>m#m-wsj2308-001-p1s6</s.rf>
@@ -1635,7 +1629,6 @@
 <ord>41</ord>
 </LM>
 </children>
-<eng_sentence>At this point, no other America West flights -- including its new service at San Antonio, Texas; Newark, N.J.; and Palmdale, Calif. -- have been affected by the delays in Boeing deliveries.</eng_sentence>
 </LM>
 <LM id="a-wsj2308-001-p1s7">
 <s.rf>m#m-wsj2308-001-p1s7</s.rf>
@@ -1792,7 +1785,6 @@
 <ord>25</ord>
 </LM>
 </children>
-<eng_sentence>Nevertheless, the company's reaction underscores the domino effect that a huge manufacturer such as Boeing can have on other parts of the economy.</eng_sentence>
 </LM>
 <LM id="a-wsj2308-001-p1s8">
 <s.rf>m#m-wsj2308-001-p1s8</s.rf>
@@ -1869,7 +1861,6 @@
 <ord>12</ord>
 </LM>
 </children>
-<eng_sentence>It also is sure to help the machinists put added pressure on the company.</eng_sentence>
 </LM>
 <LM id="a-wsj2308-001-p1s9">
 <s.rf>m#m-wsj2308-001-p1s9</s.rf>
@@ -2080,7 +2071,6 @@
 <ord>34</ord>
 </LM>
 </children>
-<eng_sentence>``I just don't feel that the company can really stand or would want a prolonged walkout,'' Tom Baker, president of Machinists' District 751, said in an interview yesterday.</eng_sentence>
 </LM>
 <LM id="a-wsj2308-001-p1s10">
 <s.rf>m#m-wsj2308-001-p1s10</s.rf>
@@ -2158,7 +2148,6 @@
 <ord>12</ord>
 </LM>
 </children>
-<eng_sentence>``I don't think their customers would like it very much.''</eng_sentence>
 </LM>
 <LM id="a-wsj2308-001-p1s11">
 <s.rf>m#m-wsj2308-001-p1s11</s.rf>
@@ -2316,7 +2305,6 @@
 <ord>25</ord>
 </LM>
 </children>
-<eng_sentence>America West, though, is a smaller airline and therefore more affected by the delayed delivery of a single plane than many of its competitors would be.</eng_sentence>
 </LM>
 <LM id="a-wsj2308-001-p1s12">
 <s.rf>m#m-wsj2308-001-p1s12</s.rf>
@@ -2530,7 +2518,6 @@
 <ord>35</ord>
 </LM>
 </children>
-<eng_sentence>``I figure that American and United probably have such a hard time counting all the planes in their fleets, they might not miss one at all,'' Mr. Otradovec said.</eng_sentence>
 </LM>
 <LM id="a-wsj2308-001-p1s13">
 <s.rf>m#m-wsj2308-001-p1s13</s.rf>
@@ -2678,7 +2665,6 @@
 <ord>24</ord>
 </LM>
 </children>
-<eng_sentence>Indeed, a random check Friday didn't seem to indicate that the strike was having much of an effect on other airline operations.</eng_sentence>
 </LM>
 <LM id="a-wsj2308-001-p1s14">
 <s.rf>m#m-wsj2308-001-p1s14</s.rf>
@@ -2813,7 +2799,6 @@
 <ord>20</ord>
 </LM>
 </children>
-<eng_sentence>Southwest Airlines has a Boeing 737-300 set for delivery at the end of this month and expects to have the plane on time.</eng_sentence>
 </LM>
 <LM id="a-wsj2308-001-p1s15">
 <s.rf>m#m-wsj2308-001-p1s15</s.rf>
@@ -2954,7 +2939,6 @@
 <ord>22</ord>
 </LM>
 </children>
-<eng_sentence>``It's so close to completion, Boeing's told us there won't be a problem,'' said a Southwest spokesman.</eng_sentence>
 </LM>
 <LM id="a-wsj2308-001-p1s16">
 <s.rf>m#m-wsj2308-001-p1s16</s.rf>
@@ -3088,7 +3072,6 @@
 <ord>21</ord>
 </LM>
 </children>
-<eng_sentence>A spokesman for AMR Corp. said Boeing has assured American Airlines it will deliver a 757 on time later this month.</eng_sentence>
 </LM>
 <LM id="a-wsj2308-001-p1s17">
 <s.rf>m#m-wsj2308-001-p1s17</s.rf>
@@ -3250,7 +3233,6 @@
 <ord>24</ord>
 </LM>
 </children>
-<eng_sentence>American is preparing to take delivery of another 757 in early December and 20 more next year and isn't anticipating any changes in that timetable.</eng_sentence>
 </LM>
 <LM id="a-wsj2308-001-p1s18">
 <s.rf>m#m-wsj2308-001-p1s18</s.rf>
@@ -3448,7 +3430,6 @@
 <ord>31</ord>
 </LM>
 </children>
-<eng_sentence>In Seattle, a Boeing spokesman explained that the company has been in constant communication with all of its customers and that it was impossible to predict what further disruptions might be triggered by the strike.</eng_sentence>
 </LM>
 <LM id="a-wsj2308-001-p1s19">
 <s.rf>m#m-wsj2308-001-p1s19</s.rf>
@@ -3696,7 +3677,6 @@
 <ord>40</ord>
 </LM>
 </children>
-<eng_sentence>Meanwhile, supervisors and non-striking employees have been trying to finish some 40 aircraft -- mostly 747 and 767 jumbo jets at the company's Everett, Wash., plant -- that were all but completed before the walkout.</eng_sentence>
 </LM>
 <LM id="a-wsj2308-001-p1s20">
 <s.rf>m#m-wsj2308-001-p1s20</s.rf>
@@ -3846,7 +3826,6 @@
 <ord>23</ord>
 </LM>
 </children>
-<eng_sentence>As of Friday, four had been delivered and a fifth plane, a 747-400, was supposed to be flown out over the weekend to Air China.</eng_sentence>
 </LM>
 <LM id="a-wsj2308-001-p1s21">
 <s.rf>m#m-wsj2308-001-p1s21</s.rf>
@@ -3920,7 +3899,6 @@
 <ord>11</ord>
 </LM>
 </children>
-<eng_sentence>No date has yet been set to get back to the bargaining table.</eng_sentence>
 </LM>
 <LM id="a-wsj2308-001-p1s22">
 <s.rf>m#m-wsj2308-001-p1s22</s.rf>
@@ -4137,7 +4115,6 @@
 <ord>34</ord>
 </LM>
 </children>
-<eng_sentence>``We want to make sure they know what they want before they come back,'' said Doug Hammond, the federal mediator who has been in contact with both sides since the strike began.</eng_sentence>
 </LM>
 <LM id="a-wsj2308-001-p1s23">
 <s.rf>m#m-wsj2308-001-p1s23</s.rf>
@@ -4185,7 +4162,6 @@
 <ord>7</ord>
 </LM>
 </children>
-<eng_sentence>The investment community, for one, has been anticipating a speedy resolution.</eng_sentence>
 </LM>
 <LM id="a-wsj2308-001-p1s24">
 <s.rf>m#m-wsj2308-001-p1s24</s.rf>
@@ -4348,7 +4324,6 @@
 <ord>26</ord>
 </LM>
 </children>
-<eng_sentence>Though Boeing's stock price was battered along with the rest of the market Friday, it actually has risen over the last two weeks on the strength of new orders.</eng_sentence>
 </LM>
 <LM id="a-wsj2308-001-p1s25">
 <s.rf>m#m-wsj2308-001-p1s25</s.rf>
@@ -4567,7 +4542,6 @@
 <ord>34</ord>
 </LM>
 </children>
-<eng_sentence>``The market has taken two views: that the labor situation will get settled in the short term and that things look very rosy for Boeing in the long term,'' said Howard Rubel, an analyst at Cyrus J. Lawrence Inc.</eng_sentence>
 </LM>
 <LM id="a-wsj2308-001-p1s26">
 <s.rf>m#m-wsj2308-001-p1s26</s.rf>
@@ -4705,7 +4679,6 @@
 <ord>21</ord>
 </LM>
 </children>
-<eng_sentence>Boeing's shares fell $4 Friday to close at $57.375 in composite trading on the New York Stock Exchange.</eng_sentence>
 </LM>
 <LM id="a-wsj2308-001-p1s27">
 <s.rf>m#m-wsj2308-001-p1s27</s.rf>
@@ -4923,7 +4896,6 @@
 <ord>34</ord>
 </LM>
 </children>
-<eng_sentence>But Mr. Baker said he thinks the earliest a pact could be struck would be the end of this month, hinting that the company and union may resume negotiations as early as this week.</eng_sentence>
 </LM>
 <LM id="a-wsj2308-001-p1s28">
 <s.rf>m#m-wsj2308-001-p1s28</s.rf>
@@ -5032,7 +5004,6 @@
 <ord>17</ord>
 </LM>
 </children>
-<eng_sentence>Still, he said, it's possible that the strike could last considerably longer.</eng_sentence>
 </LM>
 <LM id="a-wsj2308-001-p1s29">
 <s.rf>m#m-wsj2308-001-p1s29</s.rf>
@@ -5088,7 +5059,6 @@
 <ord>8</ord>
 </LM>
 </children>
-<eng_sentence>``I wouldn't expect an immediate resolution to anything.''</eng_sentence>
 </LM>
 <LM id="a-wsj2308-001-p1s30">
 <s.rf>m#m-wsj2308-001-p1s30</s.rf>
@@ -5321,7 +5291,6 @@
 <ord>37</ord>
 </LM>
 </children>
-<eng_sentence>Last week, Boeing Chairman Frank Shrontz sent striking workers a letter, saying that ``to my knowledge, Boeing's offer represents the best overall three-year contract of any major U.S. industrial firm in recent history.''</eng_sentence>
 </LM>
 <LM id="a-wsj2308-001-p1s31">
 <s.rf>m#m-wsj2308-001-p1s31</s.rf>
@@ -5490,7 +5459,6 @@
 <ord>25</ord>
 </LM>
 </children>
-<eng_sentence>But Mr. Baker called the letter -- and the company's offer of a 10% wage increase over the life of the pact, plus bonuses -- ``very weak.''</eng_sentence>
 </LM>
 <LM id="a-wsj2308-001-p1s32">
 <s.rf>m#m-wsj2308-001-p1s32</s.rf>
@@ -5647,7 +5615,6 @@
 <ord>24</ord>
 </LM>
 </children>
-<eng_sentence>He added that the company miscalculated the union's resolve and the workers' disgust with being forced to work many hours overtime.</eng_sentence>
 </LM>
 <LM id="a-wsj2308-001-p1s33">
 <s.rf>m#m-wsj2308-001-p1s33</s.rf>
@@ -5815,7 +5782,6 @@
 <ord>25</ord>
 </LM>
 </children>
-<eng_sentence>In separate developments: -- Talks have broken off between Machinists representatives at Lockheed Corp. and the Calabasas, Calif., aerospace company.</eng_sentence>
 </LM>
 <LM id="a-wsj2308-001-p1s34">
 <s.rf>m#m-wsj2308-001-p1s34</s.rf>
@@ -5878,7 +5844,6 @@
 <ord>9</ord>
 </LM>
 </children>
-<eng_sentence>The union is continuing to work through its expired contract, however.</eng_sentence>
 </LM>
 <LM id="a-wsj2308-001-p1s35">
 <s.rf>m#m-wsj2308-001-p1s35</s.rf>
@@ -5985,7 +5950,6 @@
 <ord>16</ord>
 </LM>
 </children>
-<eng_sentence>It had planned a strike vote for next Sunday, but that has been pushed back indefinitely.</eng_sentence>
 </LM>
 <LM id="a-wsj2308-001-p1s36">
 <s.rf>m#m-wsj2308-001-p1s36</s.rf>
@@ -6266,7 +6230,6 @@
 <ord>45</ord>
 </LM>
 </children>
-<eng_sentence>-- United Auto Workers Local 1069, which represents 3,000 workers at Boeing's helicopter unit in Delaware County, Pa., said it agreed to extend its contract on a day-by-day basis, with a 10-day notification to cancel, while it continues bargaining.</eng_sentence>
 </LM>
 <LM id="a-wsj2308-001-p1s37">
 <s.rf>m#m-wsj2308-001-p1s37</s.rf>
@@ -6295,7 +6258,6 @@
 <ord>4</ord>
 </LM>
 </children>
-<eng_sentence>The accord expired yesterday.</eng_sentence>
 </LM>
 <LM id="a-wsj2308-001-p1s38">
 <s.rf>m#m-wsj2308-001-p1s38</s.rf>
@@ -6506,7 +6468,6 @@
 <ord>33</ord>
 </LM>
 </children>
-<eng_sentence>-- And Boeing on Friday said it received an order from Martinair Holland for four model 767-300 wide-body jetliners valued at a total of about $326 million.</eng_sentence>
 </LM>
 <LM id="a-wsj2308-001-p1s39">
 <s.rf>m#m-wsj2308-001-p1s39</s.rf>
@@ -6649,7 +6610,6 @@
 <ord>22</ord>
 </LM>
 </children>
-<eng_sentence>The planes, long range versions of the medium-haul twin-jet, will be delivered with Pratt &amp; Whitney PW4060 engines.</eng_sentence>
 </LM>
 <LM id="a-wsj2308-001-p1s40">
 <s.rf>m#m-wsj2308-001-p1s40</s.rf>
@@ -6725,7 +6685,6 @@
 <ord>11</ord>
 </LM>
 </children>
-<eng_sentence>Pratt &amp; Whitney is a unit of United Technologies Inc.</eng_sentence>
 </LM>
 <LM id="a-wsj2308-001-p1s41">
 <s.rf>m#m-wsj2308-001-p1s41</s.rf>
@@ -6775,7 +6734,6 @@
 <ord>7</ord>
 </LM>
 </children>
-<eng_sentence>Martinair Holland is based in Amsterdam.</eng_sentence>
 </LM>
 <LM id="a-wsj2308-001-p1s42">
 <s.rf>m#m-wsj2308-001-p1s42</s.rf>
@@ -6935,7 +6893,6 @@
 <ord>24</ord>
 </LM>
 </children>
-<eng_sentence>A Boeing spokeswoman said a delivery date for the planes is still being worked out ``for a variety of reasons, but not because of the strike.''</eng_sentence>
 </LM>
 <LM id="a-wsj2308-001-p1s43">
 <s.rf>m#m-wsj2308-001-p1s43</s.rf>
@@ -7002,7 +6959,6 @@
 <ord>10</ord>
 </LM>
 </children>
-<eng_sentence>Bridget O'Brian contributed to this article.</eng_sentence>
 </LM>
 </trees>
 </adata>

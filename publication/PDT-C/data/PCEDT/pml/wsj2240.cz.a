@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="aanot_schema.xml"/>
+<schema href="adata_c_schema.xml"/>
 <references>
 <reffile id="m" href="wsj2240.cz.m" name="mdata"/>
 <reffile id="w" href="wsj2240.cz.w" name="wdata"/>
@@ -250,7 +250,6 @@
 <ord>38</ord>
 </LM>
 </children>
-<eng_sentence>BMA Corp., Kansas City, Mo., said it's weighing ``strategic alternatives,'' for its Business Men's Assurance Co. unit, and is contacting possible buyers of the life and health insurance operation.</eng_sentence>
 </LM>
 <LM id="a-wsj2240-001-p1s1">
 <s.rf>m#m-wsj2240-001-p1s1</s.rf>
@@ -477,7 +476,6 @@
 <ord>36</ord>
 </LM>
 </children>
-<eng_sentence>A BMA spokesman said ``runaway medical costs'' have made health insurance ``a significant challenge,'' and margins also have been pinched by changes in the mix of life-insurance products consumers now demand.</eng_sentence>
 </LM>
 <LM id="a-wsj2240-001-p1s2">
 <s.rf>m#m-wsj2240-001-p1s2</s.rf>
@@ -703,7 +701,6 @@
 <ord>35</ord>
 </LM>
 </children>
-<eng_sentence>The Business Men's Assurance unit represented about $288 million of the company's $488 million in 1988 revenue, and the unit's operating income was about $10 million, said the spokesman.</eng_sentence>
 </LM>
 <LM id="a-wsj2240-001-p1s3">
 <s.rf>m#m-wsj2240-001-p1s3</s.rf>
@@ -858,7 +855,6 @@
 <ord>24</ord>
 </LM>
 </children>
-<eng_sentence>BMA's investment banker, Alex. Brown &amp; Sons Inc., has been authorized to contact possible buyers for the unit.</eng_sentence>
 </LM>
 </trees>
 </adata>

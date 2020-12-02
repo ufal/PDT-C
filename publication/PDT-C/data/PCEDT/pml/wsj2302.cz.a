@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="aanot_schema.xml"/>
+<schema href="adata_c_schema.xml"/>
 <references>
 <reffile id="m" href="wsj2302.cz.m" name="mdata"/>
 <reffile id="w" href="wsj2302.cz.w" name="wdata"/>
@@ -136,7 +136,6 @@
 <ord>20</ord>
 </LM>
 </children>
-<eng_sentence>Ports of Call Inc. reached agreements to sell its remaining seven aircraft to buyers that weren't disclosed.</eng_sentence>
 </LM>
 <LM id="a-wsj2302-001-p1s1">
 <s.rf>m#m-wsj2302-001-p1s1</s.rf>
@@ -263,7 +262,6 @@
 <ord>20</ord>
 </LM>
 </children>
-<eng_sentence>The agreements bring to a total of nine the number of planes the travel company has sold this year as part of a restructuring.</eng_sentence>
 </LM>
 <LM id="a-wsj2302-001-p1s2">
 <s.rf>m#m-wsj2302-001-p1s2</s.rf>
@@ -446,7 +444,6 @@
 <ord>28</ord>
 </LM>
 </children>
-<eng_sentence>The company said a portion of the $32 million realized from the sales will be used to repay its bank debt and other obligations resulting from the currently suspended air-charter operations.</eng_sentence>
 </LM>
 <LM id="a-wsj2302-001-p1s3">
 <s.rf>m#m-wsj2302-001-p1s3</s.rf>
@@ -561,7 +558,6 @@
 <ord>18</ord>
 </LM>
 </children>
-<eng_sentence>Earlier the company announced it would sell its aging fleet of Boeing Co. 707s because of increasing maintenance costs.</eng_sentence>
 </LM>
 </trees>
 </adata>

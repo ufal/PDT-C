@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="aanot_schema.xml"/>
+<schema href="adata_c_schema.xml"/>
 <references>
 <reffile id="m" href="wsj2341.cz.m" name="mdata"/>
 <reffile id="w" href="wsj2341.cz.w" name="wdata"/>
@@ -227,7 +227,6 @@
 <ord>35</ord>
 </LM>
 </children>
-<eng_sentence>Earnings for most of the nation's major pharmaceutical makers are believed to have moved ahead briskly in the third quarter, as companies with newer, big-selling prescription drugs fared especially well.</eng_sentence>
 </LM>
 <LM id="a-wsj2341-001-p1s1">
 <s.rf>m#m-wsj2341-001-p1s1</s.rf>
@@ -386,7 +385,6 @@
 <ord>25</ord>
 </LM>
 </children>
-<eng_sentence>For the third consecutive quarter, however, most of the companies' revenues were battered by adverse foreign-currency translations as a result of the strong dollar abroad.</eng_sentence>
 </LM>
 <LM id="a-wsj2341-001-p1s2">
 <s.rf>m#m-wsj2341-001-p1s2</s.rf>
@@ -720,7 +718,6 @@
 <ord>52</ord>
 </LM>
 </children>
-<eng_sentence>Analysts said that Merck &amp; Co., Eli Lilly &amp; Co., Warner-Lambert Co. and the Squibb Corp. unit of Bristol-Myers Squibb Co. all benefited from strong sales of relatively new, higher-priced medicines that provide wide profit margins.</eng_sentence>
 </LM>
 <LM id="a-wsj2341-001-p1s3">
 <s.rf>m#m-wsj2341-001-p1s3</s.rf>
@@ -920,7 +917,6 @@
 <ord>31</ord>
 </LM>
 </children>
-<eng_sentence>Less robust earnings at Pfizer Inc. and Upjohn Co. were attributed to those companies' older products, many of which face stiffening competition from generic drugs and other medicines.</eng_sentence>
 </LM>
 <LM id="a-wsj2341-001-p1s4">
 <s.rf>m#m-wsj2341-001-p1s4</s.rf>
@@ -1184,7 +1180,6 @@
 <ord>41</ord>
 </LM>
 </children>
-<eng_sentence>Joseph Riccardo, an analyst with Bear, Stearns &amp; Co., said that over the past few years most drug makers have shed their slow-growing businesses and instituted other cost savings, such as consolidating manufacturing plants and administrative staffs.</eng_sentence>
 </LM>
 <LM id="a-wsj2341-001-p1s5">
 <s.rf>m#m-wsj2341-001-p1s5</s.rf>
@@ -1345,7 +1340,6 @@
 <ord>26</ord>
 </LM>
 </children>
-<eng_sentence>As a result, ``major new products are having significant impact, even on a company with very large revenues,'' Mr. Riccardo said.</eng_sentence>
 </LM>
 <LM id="a-wsj2341-001-p1s6">
 <s.rf>m#m-wsj2341-001-p1s6</s.rf>
@@ -1474,7 +1468,6 @@
 <ord>20</ord>
 </LM>
 </children>
-<eng_sentence>Analysts said profit for the dozen or so big drug makers, as a group, is estimated to have climbed between 11% and 14%.</eng_sentence>
 </LM>
 <LM id="a-wsj2341-001-p1s7">
 <s.rf>m#m-wsj2341-001-p1s7</s.rf>
@@ -1721,7 +1714,6 @@
 <ord>40</ord>
 </LM>
 </children>
-<eng_sentence>While that's not spectacular, Neil Sweig, an analyst with Prudential Bache, said that the rate of growth will ``look especially good as compared to other companies if the economy turns downward.''</eng_sentence>
 </LM>
 <LM id="a-wsj2341-001-p1s8">
 <s.rf>m#m-wsj2341-001-p1s8</s.rf>
@@ -2050,7 +2042,6 @@
 <ord>52</ord>
 </LM>
 </children>
-<eng_sentence>Mr. Sweig estimated that Merck's profit for the quarter rose by about 22%, propelled by sales of its line-up of fast-growing prescription drugs, including its anti-cholesterol drug, Mevacor; a high blood pressure medicine, Vasotec; Primaxin, an antibiotic, and Pepcid, an anti-ulcer medication.</eng_sentence>
 </LM>
 <LM id="a-wsj2341-001-p1s9">
 <s.rf>m#m-wsj2341-001-p1s9</s.rf>
@@ -2232,7 +2223,6 @@
 <ord>29</ord>
 </LM>
 </children>
-<eng_sentence>Profit climbed even though Merck's sales were reduced by ``one to three percentage points'' as a result of the strong dollar, Mr. Sweig said.</eng_sentence>
 </LM>
 <LM id="a-wsj2341-001-p1s10">
 <s.rf>m#m-wsj2341-001-p1s10</s.rf>
@@ -2346,7 +2336,6 @@
 <ord>17</ord>
 </LM>
 </children>
-<eng_sentence>In the third quarter of 1988, Merck earned $311.8 million, or 79 cents a share.</eng_sentence>
 </LM>
 <LM id="a-wsj2341-001-p1s11">
 <s.rf>m#m-wsj2341-001-p1s11</s.rf>
@@ -2460,7 +2449,6 @@
 <ord>17</ord>
 </LM>
 </children>
-<eng_sentence>In Rahway, N.J., a Merck spokesman said the company doesn't make earnings projections.</eng_sentence>
 </LM>
 <LM id="a-wsj2341-001-p1s12">
 <s.rf>m#m-wsj2341-001-p1s12</s.rf>
@@ -2613,7 +2601,6 @@
 <ord>24</ord>
 </LM>
 </children>
-<eng_sentence>Mr. Sweig said he estimated that Lilly's earnings for the quarter jumped about 20%, largely because of the performance of its new anti-depressant Prozac.</eng_sentence>
 </LM>
 <LM id="a-wsj2341-001-p1s13">
 <s.rf>m#m-wsj2341-001-p1s13</s.rf>
@@ -2733,7 +2720,6 @@
 <ord>19</ord>
 </LM>
 </children>
-<eng_sentence>The drug, introduced last year, is expected to generate sales of about $300 million this year.</eng_sentence>
 </LM>
 <LM id="a-wsj2341-001-p1s14">
 <s.rf>m#m-wsj2341-001-p1s14</s.rf>
@@ -2827,7 +2813,6 @@
 <ord>15</ord>
 </LM>
 </children>
-<eng_sentence>``It's turning out to be a real blockbuster,'' Mr. Sweig said.</eng_sentence>
 </LM>
 <LM id="a-wsj2341-001-p1s15">
 <s.rf>m#m-wsj2341-001-p1s15</s.rf>
@@ -2941,7 +2926,6 @@
 <ord>17</ord>
 </LM>
 </children>
-<eng_sentence>In last year's third quarter, Lilly earned $171.4 million, or $1.20 a share.</eng_sentence>
 </LM>
 <LM id="a-wsj2341-001-p1s16">
 <s.rf>m#m-wsj2341-001-p1s16</s.rf>
@@ -2996,7 +2980,6 @@
 <ord>8</ord>
 </LM>
 </children>
-<eng_sentence>In Indianapolis, Lilly declined comment.</eng_sentence>
 </LM>
 <LM id="a-wsj2341-001-p1s17">
 <s.rf>m#m-wsj2341-001-p1s17</s.rf>
@@ -3243,7 +3226,6 @@
 <ord>38</ord>
 </LM>
 </children>
-<eng_sentence>Several analysts said they expected Warner-Lambert's profit also to increase by more than 20% from $87.7 million, or $1.25 a share, it reported in the like period last year.</eng_sentence>
 </LM>
 <LM id="a-wsj2341-001-p1s18">
 <s.rf>m#m-wsj2341-001-p1s18</s.rf>
@@ -3377,7 +3359,6 @@
 <ord>21</ord>
 </LM>
 </children>
-<eng_sentence>The company is praised by analysts for sharply lowering its costs in recent years and shedding numerous companies with low profit margins.</eng_sentence>
 </LM>
 <LM id="a-wsj2341-001-p1s19">
 <s.rf>m#m-wsj2341-001-p1s19</s.rf>
@@ -3521,7 +3502,6 @@
 <ord>23</ord>
 </LM>
 </children>
-<eng_sentence>The company's lean operation, analysts said, allowed sharp-rising sales from its cholesterol drug, Lopid, to power earnings growth.</eng_sentence>
 </LM>
 <LM id="a-wsj2341-001-p1s20">
 <s.rf>m#m-wsj2341-001-p1s20</s.rf>
@@ -3680,7 +3660,6 @@
 <ord>24</ord>
 </LM>
 </children>
-<eng_sentence>Lopid sales are expected to be about $300 million this year, up from $190 million in 1988.</eng_sentence>
 </LM>
 <LM id="a-wsj2341-001-p1s21">
 <s.rf>m#m-wsj2341-001-p1s21</s.rf>
@@ -3792,7 +3771,6 @@
 <ord>17</ord>
 </LM>
 </children>
-<eng_sentence>In Morris Plains, N.J., a spokesman for the company said the analysts' projections are ``in the ballpark.''</eng_sentence>
 </LM>
 <LM id="a-wsj2341-001-p1s22">
 <s.rf>m#m-wsj2341-001-p1s22</s.rf>
@@ -4097,7 +4075,6 @@
 <ord>48</ord>
 </LM>
 </children>
-<eng_sentence>Squibb's profit, estimated by analysts to be about 18% above the $123 million, or $1.25 a share, it earned in the third quarter of 1988, was the result of especially strong sales of its Capoten drug for treating high blood pressure and other heart disease.</eng_sentence>
 </LM>
 <LM id="a-wsj2341-001-p1s23">
 <s.rf>m#m-wsj2341-001-p1s23</s.rf>
@@ -4202,7 +4179,6 @@
 <ord>16</ord>
 </LM>
 </children>
-<eng_sentence>The company was officially merged with Bristol-Myers Co. earlier this month.</eng_sentence>
 </LM>
 <LM id="a-wsj2341-001-p1s24">
 <s.rf>m#m-wsj2341-001-p1s24</s.rf>
@@ -4259,7 +4235,6 @@
 <ord>8</ord>
 </LM>
 </children>
-<eng_sentence>Bristol-Myers declined to comment.</eng_sentence>
 </LM>
 <LM id="a-wsj2341-001-p1s25">
 <s.rf>m#m-wsj2341-001-p1s25</s.rf>
@@ -4574,7 +4549,6 @@
 <ord>50</ord>
 </LM>
 </children>
-<eng_sentence>Mr. Riccardo of Bear Stearns said that Schering-Plough Corp.'s expected profit rise of about 18% to 20%, and Bristol-Meyers's expected profit increase of about 13% are largely because ``those companies are really managed well.''</eng_sentence>
 </LM>
 <LM id="a-wsj2341-001-p1s26">
 <s.rf>m#m-wsj2341-001-p1s26</s.rf>
@@ -4813,7 +4787,6 @@
 <ord>36</ord>
 </LM>
 </children>
-<eng_sentence>ScheringPlough earned $94.4 million, or 84 cents a share, while Bristol-Myers earned $232.3 million, or 81 cents a share, in the like period a year earlier.</eng_sentence>
 </LM>
 <LM id="a-wsj2341-001-p1s27">
 <s.rf>m#m-wsj2341-001-p1s27</s.rf>
@@ -5084,7 +5057,6 @@
 <ord>42</ord>
 </LM>
 </children>
-<eng_sentence>In Madison, N.J., a spokesman for Schering-Plough said the company has ``no problems'' with the average estimate by a analysts that third-quarter earnings per share rose by about 19%, to $1.</eng_sentence>
 </LM>
 <LM id="a-wsj2341-001-p1s28">
 <s.rf>m#m-wsj2341-001-p1s28</s.rf>
@@ -5233,7 +5205,6 @@
 <ord>24</ord>
 </LM>
 </children>
-<eng_sentence>The company expects to achieve the 20% increase in full-year earnings per share, as it projected in the spring, the spokesman said.</eng_sentence>
 </LM>
 <LM id="a-wsj2341-001-p1s29">
 <s.rf>m#m-wsj2341-001-p1s29</s.rf>
@@ -5420,7 +5391,6 @@
 <ord>30</ord>
 </LM>
 </children>
-<eng_sentence>Meanwhile, analysts said Pfizer's recent string of lackluster quarterly performances continued, as earnings in the quarter were expected to decline by about 5%.</eng_sentence>
 </LM>
 <LM id="a-wsj2341-001-p1s30">
 <s.rf>m#m-wsj2341-001-p1s30</s.rf>
@@ -5602,7 +5572,6 @@
 <ord>27</ord>
 </LM>
 </children>
-<eng_sentence>Sales of Pfizer's important drugs, Feldene for treating arthritis, and Procardia, a heart medicine, have shrunk because of increased competition.</eng_sentence>
 </LM>
 <LM id="a-wsj2341-001-p1s31">
 <s.rf>m#m-wsj2341-001-p1s31</s.rf>
@@ -5690,7 +5659,6 @@
 <ord>14</ord>
 </LM>
 </children>
-<eng_sentence>``The (strong) dollar hurt Pfizer a lot, too,'' Mr. Sweig said.</eng_sentence>
 </LM>
 <LM id="a-wsj2341-001-p1s32">
 <s.rf>m#m-wsj2341-001-p1s32</s.rf>
@@ -5811,7 +5779,6 @@
 <ord>18</ord>
 </LM>
 </children>
-<eng_sentence>In the third quarter last year, Pfizer earned $216.8 million, or $1.29 a share.</eng_sentence>
 </LM>
 <LM id="a-wsj2341-001-p1s33">
 <s.rf>m#m-wsj2341-001-p1s33</s.rf>
@@ -5866,7 +5833,6 @@
 <ord>8</ord>
 </LM>
 </children>
-<eng_sentence>In New York, the company declined comment.</eng_sentence>
 </LM>
 <LM id="a-wsj2341-001-p1s34">
 <s.rf>m#m-wsj2341-001-p1s34</s.rf>
@@ -6124,7 +6090,6 @@
 <ord>41</ord>
 </LM>
 </children>
-<eng_sentence>Analysts said they expected Upjohn's profit to be flat or rise by only about 2% to 4% as compared with $89.6 million, or 49 cents a share, it earned a year ago.</eng_sentence>
 </LM>
 <LM id="a-wsj2341-001-p1s35">
 <s.rf>m#m-wsj2341-001-p1s35</s.rf>
@@ -6205,7 +6170,6 @@
 <ord>12</ord>
 </LM>
 </children>
-<eng_sentence>Upjohn's biggest-selling drugs are Xanax, a tranquilizer, and Halcion, a sedative.</eng_sentence>
 </LM>
 <LM id="a-wsj2341-001-p1s36">
 <s.rf>m#m-wsj2341-001-p1s36</s.rf>
@@ -6348,7 +6312,6 @@
 <ord>22</ord>
 </LM>
 </children>
-<eng_sentence>Sales of both drugs have been hurt by new state laws restricting the prescriptions of certain tranquilizing medicines and adverse publicity about the excessive use of the drugs.</eng_sentence>
 </LM>
 <LM id="a-wsj2341-001-p1s37">
 <s.rf>m#m-wsj2341-001-p1s37</s.rf>
@@ -6606,7 +6569,6 @@
 <ord>41</ord>
 </LM>
 </children>
-<eng_sentence>Also, the company's hair-growing drug, Rogaine, is selling well -- at about $125 million for the year, but the company's profit from the drug has been reduced by Upjohn's expensive print and television campaigns for advertising, analysts said.</eng_sentence>
 </LM>
 <LM id="a-wsj2341-001-p1s38">
 <s.rf>m#m-wsj2341-001-p1s38</s.rf>
@@ -6673,7 +6635,6 @@
 <ord>10</ord>
 </LM>
 </children>
-<eng_sentence>In Kalamazoo, Mich., Upjohn declined comment.</eng_sentence>
 </LM>
 </trees>
 </adata>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="aanot_schema.xml" />
+<schema href="adata_c_schema.xml" />
 <references>
 <reffile id="m" name="mdata" href="wsj2367.cz.m" />
 <reffile id="w" name="wdata" href="wsj2367.cz.w" />
@@ -57,7 +57,6 @@
 <ord>7</ord>
 </LM>
 </children>
-<eng_sentence>This small Dallas suburb's got trouble.</eng_sentence>
 </LM>
 <LM id="a-wsj2367-001-p1s1">
 <s.rf>m#m-wsj2367-001-p1s1</s.rf>
@@ -169,7 +168,6 @@
 <ord>17</ord>
 </LM>
 </children>
-<eng_sentence>Trouble with a capital T and that rhymes with P and that stands for pool.</eng_sentence>
 </LM>
 <LM id="a-wsj2367-001-p1s2">
 <s.rf>m#m-wsj2367-001-p1s2</s.rf>
@@ -379,7 +377,6 @@
 <ord>33</ord>
 </LM>
 </children>
-<eng_sentence>More than 30 years ago, Prof. Harold Hill, the con man in Meredith Willson's ``The Music Man,'' warned the citizens of River City, Iowa, against the game.</eng_sentence>
 </LM>
 <LM id="a-wsj2367-001-p1s3">
 <s.rf>m#m-wsj2367-001-p1s3</s.rf>
@@ -551,7 +548,6 @@
 <ord>27</ord>
 </LM>
 </children>
-<eng_sentence>Now kindred spirits on Addison's town council have barred the town's fanciest hotel, the Grand Kempinski, from installing three free pool tables in its new lounge.</eng_sentence>
 </LM>
 <LM id="a-wsj2367-001-p1s4">
 <s.rf>m#m-wsj2367-001-p1s4</s.rf>
@@ -709,7 +705,6 @@
 <ord>25</ord>
 </LM>
 </children>
-<eng_sentence>Mayor Lynn Spruill and two members of the council said they were worried about setting a precedent that would permit pool halls along Addison's main street.</eng_sentence>
 </LM>
 <LM id="a-wsj2367-001-p1s5">
 <s.rf>m#m-wsj2367-001-p1s5</s.rf>
@@ -892,7 +887,6 @@
 <ord>29</ord>
 </LM>
 </children>
-<eng_sentence>And the mayor, in an admonition that bears a rhythmic resemblance to Prof. Hill's, warned that ``alcohol leads to betting, which leads to fights.''</eng_sentence>
 </LM>
 <LM id="a-wsj2367-001-p1s6">
 <s.rf>m#m-wsj2367-001-p1s6</s.rf>
@@ -1033,7 +1027,6 @@
 <ord>22</ord>
 </LM>
 </children>
-<eng_sentence>The council's action is yet another blow to a sport that its fans claim has been maligned unjustly for years.</eng_sentence>
 </LM>
 <LM id="a-wsj2367-001-p1s7">
 <s.rf>m#m-wsj2367-001-p1s7</s.rf>
@@ -1165,7 +1158,6 @@
 <ord>21</ord>
 </LM>
 </children>
-<eng_sentence>``Obviously they're not in touch with what's going on,'' says Tom Manske, vice president of the National Pocket Billiards Association.</eng_sentence>
 </LM>
 <LM id="a-wsj2367-001-p1s8">
 <s.rf>m#m-wsj2367-001-p1s8</s.rf>
@@ -1306,7 +1298,6 @@
 <ord>22</ord>
 </LM>
 </children>
-<eng_sentence>Pool is hot in New York and Chicago, he insists, where ``upscale, suit-and-tie places'' are adding tables.</eng_sentence>
 </LM>
 <LM id="a-wsj2367-001-p1s9">
 <s.rf>m#m-wsj2367-001-p1s9</s.rf>
@@ -1443,7 +1434,6 @@
 <ord>22</ord>
 </LM>
 </children>
-<eng_sentence>With today's tougher drunk driving laws, he adds, ``people don't want to just sit around and drink.''</eng_sentence>
 </LM>
 <LM id="a-wsj2367-001-p1s10">
 <s.rf>m#m-wsj2367-001-p1s10</s.rf>
@@ -1639,7 +1629,6 @@
 <ord>31</ord>
 </LM>
 </children>
-<eng_sentence>Besides, rowdy behavior seems unlikely at the Grand Kempinski, where rooms average $200 a night and the cheap mixed drinks go for $3.50 a pop.</eng_sentence>
 </LM>
 <LM id="a-wsj2367-001-p1s11">
 <s.rf>m#m-wsj2367-001-p1s11</s.rf>
@@ -1753,7 +1742,6 @@
 <ord>17</ord>
 </LM>
 </children>
-<eng_sentence>At the lounge, manager Elizabeth Dyer won't admit patrons in jeans, T-shirts or tennis shoes.</eng_sentence>
 </LM>
 <LM id="a-wsj2367-001-p1s12">
 <s.rf>m#m-wsj2367-001-p1s12</s.rf>
@@ -1818,7 +1806,6 @@
 <ord>9</ord>
 </LM>
 </children>
-<eng_sentence>But a majority of the Addison council didn't buy those arguments.</eng_sentence>
 </LM>
 <LM id="a-wsj2367-001-p1s13">
 <s.rf>m#m-wsj2367-001-p1s13</s.rf>
@@ -1899,7 +1886,6 @@
 <ord>13</ord>
 </LM>
 </children>
-<eng_sentence> Introducing pool, argued Councilwoman Riley Reinker, would be ``dangerous.</eng_sentence>
 </LM>
 <LM id="a-wsj2367-001-p1s14">
 <s.rf>m#m-wsj2367-001-p1s14</s.rf>
@@ -1959,7 +1945,6 @@
 <ord>8</ord>
 </LM>
 </children>
-<eng_sentence>It would open a can of worms.''</eng_sentence>
 </LM>
 <LM id="a-wsj2367-001-p1s15">
 <s.rf>m#m-wsj2367-001-p1s15</s.rf>
@@ -2034,7 +2019,6 @@
 <ord>11</ord>
 </LM>
 </children>
-<eng_sentence>Addison is no stranger to cans of worms, either.</eng_sentence>
 </LM>
 <LM id="a-wsj2367-001-p1s16">
 <s.rf>m#m-wsj2367-001-p1s16</s.rf>
@@ -2277,7 +2261,6 @@
 <ord>37</ord>
 </LM>
 </children>
-<eng_sentence>After its previous mayor committed suicide last year, an investigation disclosed that town officials regularly voted on their own projects, gave special favors to developer friends and dipped into the town's coffers for trips and retreats.</eng_sentence>
 </LM>
 <LM id="a-wsj2367-001-p1s17">
 <s.rf>m#m-wsj2367-001-p1s17</s.rf>
@@ -2414,7 +2397,6 @@
 <ord>22</ord>
 </LM>
 </children>
-<eng_sentence>The revelations embarrassed town officials, although they argued that the problems weren't as severe as the media suggested.</eng_sentence>
 </LM>
 <LM id="a-wsj2367-001-p1s18">
 <s.rf>m#m-wsj2367-001-p1s18</s.rf>
@@ -2450,7 +2432,6 @@
 <ord>5</ord>
 </LM>
 </children>
-<eng_sentence>Now comes the pool flap.</eng_sentence>
 </LM>
 <LM id="a-wsj2367-001-p1s19">
 <s.rf>m#m-wsj2367-001-p1s19</s.rf>
@@ -2563,7 +2544,6 @@
 <ord>18</ord>
 </LM>
 </children>
-<eng_sentence>``I think there's some people worried about something pretty ridiculous,'' Councilman John Nolan says.</eng_sentence>
 </LM>
 <LM id="a-wsj2367-001-p1s20">
 <s.rf>m#m-wsj2367-001-p1s20</s.rf>
@@ -2670,7 +2650,6 @@
 </children>
 </LM>
 </children>
-<eng_sentence>``I thought this was all taken care of in `The Music Man.</eng_sentence>
 </LM>
 </trees>
 </adata>

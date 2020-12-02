@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="aanot_schema.xml" />
+<schema href="adata_c_schema.xml" />
 <references>
 <reffile id="m" name="mdata" href="wsj2312.cz.m" />
 <reffile id="w" name="wdata" href="wsj2312.cz.w" />
@@ -102,7 +102,6 @@
 <ord>14</ord>
 </LM>
 </children>
-<eng_sentence>Diamond Shamrock Offshore Partners said it had discovered gas offshore Louisiana.</eng_sentence>
 </LM>
 <LM id="a-wsj2312-001-p1s1">
 <s.rf>m#m-wsj2312-001-p1s1</s.rf>
@@ -245,7 +244,6 @@
 <ord>22</ord>
 </LM>
 </children>
-<eng_sentence>The well flowed at a rate of 2.016 million cubic feet of gas a day through a 16 64-inch opening at depths between 5,782 and 5,824 feet.</eng_sentence>
 </LM>
 <LM id="a-wsj2312-001-p1s2">
 <s.rf>m#m-wsj2312-001-p1s2</s.rf>
@@ -328,7 +326,6 @@
 <ord>12</ord>
 </LM>
 </children>
-<eng_sentence>Diamond Shamrock is the operator, with a 100% interest in the well.</eng_sentence>
 </LM>
 <LM id="a-wsj2312-001-p1s3">
 <s.rf>m#m-wsj2312-001-p1s3</s.rf>
@@ -497,7 +494,6 @@
 <ord>26</ord>
 </LM>
 </children>
-<eng_sentence>Diamond Shamrock Offshore's stock rose 12.5 cents Friday to close at $8.25 in New York Stock Exchange composite trading.</eng_sentence>
 </LM>
 </trees>
 </adata>

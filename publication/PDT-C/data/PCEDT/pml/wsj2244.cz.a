@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="aanot_schema.xml" />
+<schema href="adata_c_schema.xml" />
 <references>
 <reffile id="m" href="wsj2244.cz.m" name="mdata" />
 <reffile id="w" href="wsj2244.cz.w" name="wdata" />
@@ -136,7 +136,6 @@
 <ord>22</ord>
 </LM>
 </children>
-<eng_sentence>Interspec Inc. reported a net loss of $2.4 million for the fiscal third quarter ended Aug. 31.</eng_sentence>
 </LM>
 <LM id="a-wsj2244-001-p1s1">
 <s.rf>m#m-wsj2244-001-p1s1</s.rf>
@@ -264,7 +263,6 @@
 <ord>21</ord>
 </LM>
 </children>
-<eng_sentence>It said the loss resulted from startup and introduction costs related to a new medical ultrasound equipment system.</eng_sentence>
 </LM>
 <LM id="a-wsj2244-001-p1s2">
 <s.rf>m#m-wsj2244-001-p1s2</s.rf>
@@ -381,7 +379,6 @@
 <ord>20</ord>
 </LM>
 </children>
-<eng_sentence>In the year-earlier quarter, the company reported net income of $955,000, or 15 cents a share.</eng_sentence>
 </LM>
 <LM id="a-wsj2244-001-p1s3">
 <s.rf>m#m-wsj2244-001-p1s3</s.rf>
@@ -621,7 +618,6 @@
 <ord>43</ord>
 </LM>
 </children>
-<eng_sentence>The manufacturer of ultrasound diagnostic systems, based in Ambler, Pa., reported a nine-month net loss of $2.43 million compared with net income of $2.71 million, or 44 cents a share, for the nine-month period a year earlier.</eng_sentence>
 </LM>
 <LM id="a-wsj2244-001-p1s4">
 <s.rf>m#m-wsj2244-001-p1s4</s.rf>
@@ -695,7 +691,6 @@
 <ord>13</ord>
 </LM>
 </children>
-<eng_sentence>In over-the-counter trading, Interspec fell 37.5 cents to $4.25.</eng_sentence>
 </LM>
 </trees>
 </adata>

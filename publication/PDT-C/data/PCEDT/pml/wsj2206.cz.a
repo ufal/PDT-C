@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="aanot_schema.xml" />
+<schema href="adata_c_schema.xml" />
 <references>
 <reffile id="m" href="wsj2206.cz.m" name="mdata" />
 <reffile id="w" href="wsj2206.cz.w" name="wdata" />
@@ -315,7 +315,6 @@
 <ord>53</ord>
 </LM>
 </children>
-<eng_sentence>Ambassador Paul Nitze's statement (Notable &amp; Quotable, Sept. 20), ``If you have a million people working for you, every bad thing that has one chance in a million of going wrong will go wrong at least once a year,'' is a pretty negative way of looking at things.</eng_sentence>
 </LM>
 <LM id="a-wsj2206-001-p1s1">
 <s.rf>m#m-wsj2206-001-p1s1</s.rf>
@@ -527,7 +526,6 @@
 <ord>37</ord>
 </LM>
 </children>
-<eng_sentence>Isn't it just as fair to say that if you have a million people working for you, every good thing that has one chance in a million of going right will go right at least once a year?</eng_sentence>
 </LM>
 <LM id="a-wsj2206-001-p1s2">
 <s.rf>m#m-wsj2206-001-p1s2</s.rf>
@@ -572,7 +570,6 @@
 <ord>7</ord>
 </LM>
 </children>
-<eng_sentence> Don't be such a pessimist, Mr. Ambassador.</eng_sentence>
 </LM>
 <LM id="a-wsj2206-001-p1s3">
 <s.rf>m#m-wsj2206-001-p1s3</s.rf>
@@ -587,7 +584,6 @@
 <ord>1</ord>
 </children>
 </children>
-<eng_sentence>Frank Tremdine</eng_sentence>
 </LM>
 </trees>
 </adata>

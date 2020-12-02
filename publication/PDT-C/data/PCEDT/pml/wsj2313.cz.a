@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="aanot_schema.xml"/>
+<schema href="adata_c_schema.xml"/>
 <references>
 <reffile id="m" href="wsj2313.cz.m" name="mdata"/>
 <reffile id="w" href="wsj2313.cz.w" name="wdata"/>
@@ -204,7 +204,6 @@
 <ord>30</ord>
 </LM>
 </children>
-<eng_sentence>Kaufman &amp; Broad Home Corp. said it formed a $53.4 million limited partnership subsidiary to buy land in California suitable for residential development.</eng_sentence>
 </LM>
 <LM id="a-wsj2313-001-p1s1">
 <s.rf>m#m-wsj2313-001-p1s1</s.rf>
@@ -603,7 +602,6 @@
 <ord>63</ord>
 </LM>
 </children>
-<eng_sentence>The partnership, Kaufman &amp; Broad Land Development Venture Limited Partnership, is a 50-50 joint venture with a trust created by institutional clients of Heitman Advisory Corp., a unit of Heitman Financial Corp., a real estate advisory, management and development company with offices in Chicago and Beverly Hills, Calif.</eng_sentence>
 </LM>
 <LM id="a-wsj2313-001-p1s2">
 <s.rf>m#m-wsj2313-001-p1s2</s.rf>
@@ -712,7 +710,6 @@
 <ord>16</ord>
 </LM>
 </children>
-<eng_sentence>Kaufman &amp; Broad, a home building company, declined to identify the institutional investors.</eng_sentence>
 </LM>
 <LM id="a-wsj2313-001-p1s3">
 <s.rf>m#m-wsj2313-001-p1s3</s.rf>
@@ -945,7 +942,6 @@
 <ord>36</ord>
 </LM>
 </children>
-<eng_sentence>The land to be purchased by the joint venture hasn't yet received zoning and other approvals required for development, and part of Kaufman &amp; Broad's job will be to obtain such approvals.</eng_sentence>
 </LM>
 <LM id="a-wsj2313-001-p1s4">
 <s.rf>m#m-wsj2313-001-p1s4</s.rf>
@@ -1246,7 +1242,6 @@
 <ord>46</ord>
 </LM>
 </children>
-<eng_sentence>The partnership runs the risk that it may not get the approvals for development, but in return, it can buy land at wholesale rather than retail prices, which can result in sizable savings, said Bruce Karatz, president and chief executive officer of Kaufman &amp; Broad.</eng_sentence>
 </LM>
 <LM id="a-wsj2313-001-p1s5">
 <s.rf>m#m-wsj2313-001-p1s5</s.rf>
@@ -1380,7 +1375,6 @@
 <ord>21</ord>
 </LM>
 </children>
-<eng_sentence>``There are really very few companies that have adequate capital to buy properties in a raw state for cash.</eng_sentence>
 </LM>
 <LM id="a-wsj2313-001-p1s6">
 <s.rf>m#m-wsj2313-001-p1s6</s.rf>
@@ -1616,7 +1610,6 @@
 <ord>37</ord>
 </LM>
 </children>
-<eng_sentence>Typically, developers option property, and then once they get the administrative approvals, they buy it,'' said Mr. Karatz, adding that he believes the joint venture is the first of its kind.</eng_sentence>
 </LM>
 <LM id="a-wsj2313-001-p1s7">
 <s.rf>m#m-wsj2313-001-p1s7</s.rf>
@@ -1667,7 +1660,6 @@
 <ord>7</ord>
 </LM>
 </children>
-<eng_sentence>``We usually operate in that conservative manner.''</eng_sentence>
 </LM>
 <LM id="a-wsj2313-001-p1s8">
 <s.rf>m#m-wsj2313-001-p1s8</s.rf>
@@ -1871,7 +1863,6 @@
 <ord>31</ord>
 </LM>
 </children>
-<eng_sentence>By setting up the joint venture, Kaufman &amp; Broad can take the more aggressive approach of buying raw land, while avoiding the negative impacts to its own balance sheet, Mr. Karatz said.</eng_sentence>
 </LM>
 <LM id="a-wsj2313-001-p1s9">
 <s.rf>m#m-wsj2313-001-p1s9</s.rf>
@@ -2027,7 +2018,6 @@
 <ord>24</ord>
 </LM>
 </children>
-<eng_sentence>The company is putting up only 10% of the capital, although it is responsible for providing management, planning and processing services to the joint venture.</eng_sentence>
 </LM>
 <LM id="a-wsj2313-001-p1s10">
 <s.rf>m#m-wsj2313-001-p1s10</s.rf>
@@ -2202,7 +2192,6 @@
 <ord>28</ord>
 </LM>
 </children>
-<eng_sentence>``This is one of the best ways to assure a pipeline of land to fuel our growth at a minimum risk to our company,'' Mr. Karatz said.</eng_sentence>
 </LM>
 </trees>
 </adata>

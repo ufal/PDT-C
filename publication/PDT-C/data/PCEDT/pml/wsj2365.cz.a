@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="aanot_schema.xml"/>
+<schema href="adata_c_schema.xml"/>
 <references>
 <reffile id="m" href="wsj2365.cz.m" name="mdata"/>
 <reffile id="w" href="wsj2365.cz.w" name="wdata"/>
@@ -92,7 +92,6 @@
 <ord>12</ord>
 </LM>
 </children>
-<eng_sentence> Predicting the financial results of computer firms has been a tough job lately.</eng_sentence>
 </LM>
 <LM id="a-wsj2365-001-p1s1">
 <s.rf>m#m-wsj2365-001-p1s1</s.rf>
@@ -232,7 +231,6 @@
 <ord>21</ord>
 </LM>
 </children>
-<eng_sentence> Take Microsoft Corp., the largest maker of personal computer software and generally considered an industry bellwether.</eng_sentence>
 </LM>
 <LM id="a-wsj2365-001-p1s2">
 <s.rf>m#m-wsj2365-001-p1s2</s.rf>
@@ -473,7 +471,6 @@
 <ord>38</ord>
 </LM>
 </children>
-<eng_sentence>In July, the company stunned Wall Street with the prediction that growth in the personal computer business overall would be only 10% in 1990, a modest increase when compared with the sizzling expansion of years past.</eng_sentence>
 </LM>
 <LM id="a-wsj2365-001-p1s3">
 <s.rf>m#m-wsj2365-001-p1s3</s.rf>
@@ -731,7 +728,6 @@
 <ord>41</ord>
 </LM>
 </children>
-<eng_sentence>Investors -- taking this as a sign that a broad industry slump was in the offing -- reacted by selling the company's stock, which lost $3.25 that day to close at $52 in national over-the-counter trading.</eng_sentence>
 </LM>
 <LM id="a-wsj2365-001-p1s4">
 <s.rf>m#m-wsj2365-001-p1s4</s.rf>
@@ -789,7 +785,6 @@
 <ord>8</ord>
 </LM>
 </children>
-<eng_sentence>But that was all of three months ago.</eng_sentence>
 </LM>
 <LM id="a-wsj2365-001-p1s5">
 <s.rf>m#m-wsj2365-001-p1s5</s.rf>
@@ -951,7 +946,6 @@
 <ord>25</ord>
 </LM>
 </children>
-<eng_sentence>Last week, Microsoft said it expects revenue for its first quarter ended Sept. 30 to increase 34%.</eng_sentence>
 </LM>
 <LM id="a-wsj2365-001-p1s6">
 <s.rf>m#m-wsj2365-001-p1s6</s.rf>
@@ -1089,7 +1083,6 @@
 <ord>21</ord>
 </LM>
 </children>
-<eng_sentence>The announcement caused the company's stock to surge $6.50 to close at $75.50 a share.</eng_sentence>
 </LM>
 <LM id="a-wsj2365-001-p1s7">
 <s.rf>m#m-wsj2365-001-p1s7</s.rf>
@@ -1208,7 +1201,6 @@
 <ord>18</ord>
 </LM>
 </children>
-<eng_sentence>Microsoft's surprising strength is one example of the difficulty facing investors looking for reassurances about the financial health of the computer firms.</eng_sentence>
 </LM>
 <LM id="a-wsj2365-001-p1s8">
 <s.rf>m#m-wsj2365-001-p1s8</s.rf>
@@ -1363,7 +1355,6 @@
 </children>
 </LM>
 </children>
-<eng_sentence>``It's hard to know what to expect at this point,'' said Peter Rogers, an analyst at Robertson Stephens &amp; Co.</eng_sentence>
 </LM>
 <LM id="a-wsj2365-001-p1s9">
 <s.rf>m#m-wsj2365-001-p1s9</s.rf>
@@ -1414,7 +1405,6 @@
 <ord>7</ord>
 </LM>
 </children>
-<eng_sentence>``The industry defies characterization.''</eng_sentence>
 </LM>
 <LM id="a-wsj2365-001-p1s10">
 <s.rf>m#m-wsj2365-001-p1s10</s.rf>
@@ -1632,7 +1622,6 @@
 <ord>34</ord>
 </LM>
 </children>
-<eng_sentence> To illustrate, Mr. Rogers said that of the 14 computer-related firms he follows, half will report for their most recent quarter earnings below last year's results, and half above those results.</eng_sentence>
 </LM>
 <LM id="a-wsj2365-001-p1s11">
 <s.rf>m#m-wsj2365-001-p1s11</s.rf>
@@ -1865,7 +1854,6 @@
 <ord>37</ord>
 </LM>
 </children>
-<eng_sentence>Among those companies expected to have a down quarter are Hewlett-Packard Co., Amdahl Corp. and Sun Microsystems Inc., generally solid performers in the past.</eng_sentence>
 </LM>
 <LM id="a-wsj2365-001-p1s12">
 <s.rf>m#m-wsj2365-001-p1s12</s.rf>
@@ -1959,7 +1947,6 @@
 <ord>15</ord>
 </LM>
 </children>
-<eng_sentence>International Business Machines Corp. also is expected to report disappointing results.</eng_sentence>
 </LM>
 <LM id="a-wsj2365-001-p1s13">
 <s.rf>m#m-wsj2365-001-p1s13</s.rf>
@@ -2097,7 +2084,6 @@
 <ord>21</ord>
 </LM>
 </children>
-<eng_sentence>Apple Computer Inc., meanwhile, is expected to show improved earnings for the period ended Sept.</eng_sentence>
 </LM>
 <LM id="a-wsj2365-001-p1s14">
 <s.rf>m#m-wsj2365-001-p1s14</s.rf>
@@ -2185,7 +2171,6 @@
 <ord>13</ord>
 </LM>
 </children>
-<eng_sentence>Another contradictory message comes from Businessland Inc., a computer retailer.</eng_sentence>
 </LM>
 <LM id="a-wsj2365-001-p1s15">
 <s.rf>m#m-wsj2365-001-p1s15</s.rf>
@@ -2494,7 +2479,6 @@
 <ord>48</ord>
 </LM>
 </children>
-<eng_sentence>In July, the company reported that booming sales of new personal computers from Apple and IBM had resulted in net income more than doubling for its fourth quarter ended June 30 to $7.4 million, or 23 cents a share.</eng_sentence>
 </LM>
 <LM id="a-wsj2365-001-p1s16">
 <s.rf>m#m-wsj2365-001-p1s16</s.rf>
@@ -2631,7 +2615,6 @@
 <ord>21</ord>
 </LM>
 </children>
-<eng_sentence>This month, however, Businessland warned investors that results for its first quarter ended Sept. 30 hadn't met expectations.</eng_sentence>
 </LM>
 <LM id="a-wsj2365-001-p1s17">
 <s.rf>m#m-wsj2365-001-p1s17</s.rf>
@@ -2814,7 +2797,6 @@
 <ord>28</ord>
 </LM>
 </children>
-<eng_sentence>The company said it expects earnings of 14 to 17 cents a share, down from 25 cents a share in the year-earlier period.</eng_sentence>
 </LM>
 <LM id="a-wsj2365-001-p1s18">
 <s.rf>m#m-wsj2365-001-p1s18</s.rf>
@@ -3011,7 +2993,6 @@
 <ord>32</ord>
 </LM>
 </children>
-<eng_sentence>While the earnings picture confuses, observers say the major forces expected to shape the industry in the coming year are clearer.</eng_sentence>
 </LM>
 <LM id="a-wsj2365-001-p1s19">
 <s.rf>m#m-wsj2365-001-p1s19</s.rf>
@@ -3066,7 +3047,6 @@
 <ord>8</ord>
 </LM>
 </children>
-<eng_sentence>Companies will continue to war over standards.</eng_sentence>
 </LM>
 <LM id="a-wsj2365-001-p1s20">
 <s.rf>m#m-wsj2365-001-p1s20</s.rf>
@@ -3240,7 +3220,6 @@
 <ord>27</ord>
 </LM>
 </children>
-<eng_sentence>In computer publishing, a battle over typefaces is hurting Adobe Systems Inc., which sells software that controls the image produced by printers and displays.</eng_sentence>
 </LM>
 <LM id="a-wsj2365-001-p1s21">
 <s.rf>m#m-wsj2365-001-p1s21</s.rf>
@@ -3430,7 +3409,6 @@
 <ord>29</ord>
 </LM>
 </children>
-<eng_sentence>Until recently, Adobe had a lock on the market for image software, but last month Apple, Adobe's biggest customer, and Microsoft rebelled.</eng_sentence>
 </LM>
 <LM id="a-wsj2365-001-p1s22">
 <s.rf>m#m-wsj2365-001-p1s22</s.rf>
@@ -3611,7 +3589,6 @@
 <ord>28</ord>
 </LM>
 </children>
-<eng_sentence>Now the two firms are collaborating on an alternative to Adobe's approach, and analysts say they are likely to carry IBM, the biggest seller of personal computers, along with them.</eng_sentence>
 </LM>
 <LM id="a-wsj2365-001-p1s23">
 <s.rf>m#m-wsj2365-001-p1s23</s.rf>
@@ -3681,7 +3658,6 @@
 <ord>10</ord>
 </LM>
 </children>
-<eng_sentence>The short-term outlook for Adobe's business, however, appears strong.</eng_sentence>
 </LM>
 <LM id="a-wsj2365-001-p1s24">
 <s.rf>m#m-wsj2365-001-p1s24</s.rf>
@@ -3829,7 +3805,6 @@
 <ord>23</ord>
 </LM>
 </children>
-<eng_sentence>The company is beginning to ship a new software program that's being heralded as a boon for owners of low-end printers sold by Apple.</eng_sentence>
 </LM>
 <LM id="a-wsj2365-001-p1s25">
 <s.rf>m#m-wsj2365-001-p1s25</s.rf>
@@ -3891,7 +3866,6 @@
 <ord>9</ord>
 </LM>
 </children>
-<eng_sentence>The program is aimed at improving the quality of printed material.</eng_sentence>
 </LM>
 <LM id="a-wsj2365-001-p1s26">
 <s.rf>m#m-wsj2365-001-p1s26</s.rf>
@@ -4132,7 +4106,6 @@
 <ord>38</ord>
 </LM>
 </children>
-<eng_sentence>John Warnock, Adobe's chief executive officer, said the Mountain View, Calif., company has been receiving 1,000 calls a day about the product since it was demonstrated at a computer publishing conference several weeks ago.</eng_sentence>
 </LM>
 <LM id="a-wsj2365-001-p1s27">
 <s.rf>m#m-wsj2365-001-p1s27</s.rf>
@@ -4264,7 +4237,6 @@
 <ord>21</ord>
 </LM>
 </children>
-<eng_sentence>Meanwhile, competition between various operating systems, which control the basic functions of a computer, spells trouble for software firms generally.</eng_sentence>
 </LM>
 <LM id="a-wsj2365-001-p1s28">
 <s.rf>m#m-wsj2365-001-p1s28</s.rf>
@@ -4393,7 +4365,6 @@
 <ord>20</ord>
 </LM>
 </children>
-<eng_sentence>``It creates uncertainty and usually slows down sales,'' said Russ Crabs, an analyst at Soundview Financial Group.</eng_sentence>
 </LM>
 <LM id="a-wsj2365-001-p1s29">
 <s.rf>m#m-wsj2365-001-p1s29</s.rf>
@@ -4562,7 +4533,6 @@
 <ord>26</ord>
 </LM>
 </children>
-<eng_sentence>Mr. Crabs said this probably is behind the expected weak performance of Aldus Corp., maker of a widely used computer publishing program.</eng_sentence>
 </LM>
 <LM id="a-wsj2365-001-p1s30">
 <s.rf>m#m-wsj2365-001-p1s30</s.rf>
@@ -4825,7 +4795,6 @@
 <ord>40</ord>
 </LM>
 </children>
-<eng_sentence>He expects Aldus to report earnings of 21 cents a share on revenues of $19.5 million for its third quarter, compared with earnings of 30 cents a share on revenue of 20.4 million in the year-earlier period.</eng_sentence>
 </LM>
 <LM id="a-wsj2365-001-p1s31">
 <s.rf>m#m-wsj2365-001-p1s31</s.rf>
@@ -4904,7 +4873,6 @@
 <ord>12</ord>
 </LM>
 </children>
-<eng_sentence>Aldus officials couldn't be reached for comment.</eng_sentence>
 </LM>
 <LM id="a-wsj2365-001-p1s32">
 <s.rf>m#m-wsj2365-001-p1s32</s.rf>
@@ -5011,7 +4979,6 @@
 <ord>16</ord>
 </LM>
 </children>
-<eng_sentence>On the other hand, the battle of the bus is expected to grow increasingly irrelevant.</eng_sentence>
 </LM>
 <LM id="a-wsj2365-001-p1s33">
 <s.rf>m#m-wsj2365-001-p1s33</s.rf>
@@ -5059,7 +5026,6 @@
 <ord>7</ord>
 </LM>
 </children>
-<eng_sentence>A bus is the data highway within a computer.</eng_sentence>
 </LM>
 <LM id="a-wsj2365-001-p1s34">
 <s.rf>m#m-wsj2365-001-p1s34</s.rf>
@@ -5238,7 +5204,6 @@
 <ord>28</ord>
 </LM>
 </children>
-<eng_sentence>IBM is backing one type of bus called microchannel, while the nine other leading computer makers, including H-P and Compaq Computer Corp., have chosen another method.</eng_sentence>
 </LM>
 <LM id="a-wsj2365-001-p1s35">
 <s.rf>m#m-wsj2365-001-p1s35</s.rf>
@@ -5374,7 +5339,6 @@
 </children>
 </LM>
 </children>
-<eng_sentence>``Users don't care about the bus,'' said Daniel Benton, an analyst at Goldman, Sachs &amp; Co.</eng_sentence>
 </LM>
 <LM id="a-wsj2365-001-p1s36">
 <s.rf>m#m-wsj2365-001-p1s36</s.rf>
@@ -5537,7 +5501,6 @@
 <ord>26</ord>
 </LM>
 </children>
-<eng_sentence>He said Apple's family of Macintosh computers, for instance, uses four different buses ``and no one seems to mind.''</eng_sentence>
 </LM>
 <LM id="a-wsj2365-001-p1s37">
 <s.rf>m#m-wsj2365-001-p1s37</s.rf>
@@ -5594,7 +5557,6 @@
 <ord>8</ord>
 </LM>
 </children>
-<eng_sentence>The gap between winners and laggards will grow.</eng_sentence>
 </LM>
 <LM id="a-wsj2365-001-p1s38">
 <s.rf>m#m-wsj2365-001-p1s38</s.rf>
@@ -5727,7 +5689,6 @@
 <ord>21</ord>
 </LM>
 </children>
-<eng_sentence>In personal computers, Apple, Compaq and IBM are expected to tighten their hold on their business.</eng_sentence>
 </LM>
 <LM id="a-wsj2365-001-p1s39">
 <s.rf>m#m-wsj2365-001-p1s39</s.rf>
@@ -5778,7 +5739,6 @@
 <ord>8</ord>
 </LM>
 </children>
-<eng_sentence>At the same time, second-tier firms will continue to lose ground.</eng_sentence>
 </LM>
 <LM id="a-wsj2365-001-p1s40">
 <s.rf>m#m-wsj2365-001-p1s40</s.rf>
@@ -5855,7 +5815,6 @@
 <ord>12</ord>
 </LM>
 </children>
-<eng_sentence>Some lagging competitors even may leave the personal computer business altogether.</eng_sentence>
 </LM>
 <LM id="a-wsj2365-001-p1s41">
 <s.rf>m#m-wsj2365-001-p1s41</s.rf>
@@ -5975,7 +5934,6 @@
 <ord>19</ord>
 </LM>
 </children>
-<eng_sentence>Wyse Technology, for instance, is considered a candidate to sell its troubled operation.</eng_sentence>
 </LM>
 <LM id="a-wsj2365-001-p1s42">
 <s.rf>m#m-wsj2365-001-p1s42</s.rf>
@@ -6182,7 +6140,6 @@
 <ord>32</ord>
 </LM>
 </children>
-<eng_sentence>``Wyse has done well establishing a distribution business, but they haven't delivered products that sell,'' said Kimball Brown, an analyst at Prudential-Bache Securities.</eng_sentence>
 </LM>
 <LM id="a-wsj2365-001-p1s43">
 <s.rf>m#m-wsj2365-001-p1s43</s.rf>
@@ -6356,7 +6313,6 @@
 <ord>27</ord>
 </LM>
 </children>
-<eng_sentence>Mr. Brown estimates Wyse, whose terminals business is strong, will report a loss of 12 cents a share for its quarter ended Sept.</eng_sentence>
 </LM>
 <LM id="a-wsj2365-001-p1s44">
 <s.rf>m#m-wsj2365-001-p1s44</s.rf>
@@ -6435,7 +6391,6 @@
 <ord>12</ord>
 </LM>
 </children>
-<eng_sentence>Personal-computer makers will continue to eat away at the business of more traditional computer firms.</eng_sentence>
 </LM>
 <LM id="a-wsj2365-001-p1s45">
 <s.rf>m#m-wsj2365-001-p1s45</s.rf>
@@ -6650,7 +6605,6 @@
 <ord>34</ord>
 </LM>
 </children>
-<eng_sentence>Ever-more powerful desk-top computers, designed with one or more microprocessors as their ``brains,'' are expected to increasingly take on functions carried out by more expensive minicomputers and mainframes.</eng_sentence>
 </LM>
 <LM id="a-wsj2365-001-p1s46">
 <s.rf>m#m-wsj2365-001-p1s46</s.rf>
@@ -6780,7 +6734,6 @@
 <ord>21</ord>
 </LM>
 </children>
-<eng_sentence>``The guys that make traditional hardware are really being obsoleted by microprocessor-based machines,'' said Mr. Benton.</eng_sentence>
 </LM>
 <LM id="a-wsj2365-001-p1s47">
 <s.rf>m#m-wsj2365-001-p1s47</s.rf>
@@ -6961,7 +6914,6 @@
 <ord>29</ord>
 </LM>
 </children>
-<eng_sentence>As a result of this trend, longtime powerhouses H-P, IBM and Digital Equipment Corp. are scrambling to counterattack with microprocessor-based systems of their own.</eng_sentence>
 </LM>
 <LM id="a-wsj2365-001-p1s48">
 <s.rf>m#m-wsj2365-001-p1s48</s.rf>
@@ -7005,7 +6957,6 @@
 <ord>6</ord>
 </LM>
 </children>
-<eng_sentence>But they will have to act quickly.</eng_sentence>
 </LM>
 <LM id="a-wsj2365-001-p1s49">
 <s.rf>m#m-wsj2365-001-p1s49</s.rf>
@@ -7222,7 +7173,6 @@
 <ord>34</ord>
 </LM>
 </children>
-<eng_sentence>Mr. Benton expects Compaq to unveil a family of high-end personal computers later this year that are powerful enough to serve as the hub for communications within large networks of desk-top machines.</eng_sentence>
 </LM>
 <LM id="a-wsj2365-001-p1s50">
 <s.rf>m#m-wsj2365-001-p1s50</s.rf>
@@ -7318,7 +7268,6 @@
 <ord>15</ord>
 </LM>
 </children>
-<eng_sentence>A raft of new computer companies also has targeted this ``server'' market.</eng_sentence>
 </LM>
 </trees>
 </adata>

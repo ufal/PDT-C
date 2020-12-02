@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="aanot_schema.xml"/>
+<schema href="adata_c_schema.xml"/>
 <references>
 <reffile id="m" href="wsj2383.cz.m" name="mdata"/>
 <reffile id="w" href="wsj2383.cz.w" name="wdata"/>
@@ -137,7 +137,6 @@
 <ord>19</ord>
 </LM>
 </children>
-<eng_sentence>The West German retailer ASKO Deutsche Kaufhaus AG plans to challenge the legality of a widely employed anti-takeover defense of companies in the Netherlands.</eng_sentence>
 </LM>
 <LM id="a-wsj2383-001-p1s1">
 <s.rf>m#m-wsj2383-001-p1s1</s.rf>
@@ -453,7 +452,6 @@
 <ord>51</ord>
 </LM>
 </children>
-<eng_sentence>The eventual court decision could become a landmark in Dutch corporate law because the lawsuit ASKO plans to file would be the first to challenge the entire principle and practice of companies issuing voting preferred shares to management-controlled trusts to dilute voting power of common stockholders.</eng_sentence>
 </LM>
 <LM id="a-wsj2383-001-p1s2">
 <s.rf>m#m-wsj2383-001-p1s2</s.rf>
@@ -568,7 +566,6 @@
 <ord>18</ord>
 </LM>
 </children>
-<eng_sentence>Up to now only specific aspects of these defenses have been challenged, though unsuccessfully, ASKO's Dutch lawyers noted.</eng_sentence>
 </LM>
 <LM id="a-wsj2383-001-p1s3">
 <s.rf>m#m-wsj2383-001-p1s3</s.rf>
@@ -746,7 +743,6 @@
 <ord>29</ord>
 </LM>
 </children>
-<eng_sentence>Should the courts uphold the validity of this type of defense, ASKO will then ask the court to overturn such a vote-diluting maneuver recently deployed by Koninklijke Ahold NV.</eng_sentence>
 </LM>
 <LM id="a-wsj2383-001-p1s4">
 <s.rf>m#m-wsj2383-001-p1s4</s.rf>
@@ -974,7 +970,6 @@
 <ord>35</ord>
 </LM>
 </children>
-<eng_sentence>ASKO says the Dutch-based international food retailer hadn't reasonable grounds to issue preferred stock to a friendly trust and thus dilute the worth and voting power of ASKO and other shareholders.</eng_sentence>
 </LM>
 <LM id="a-wsj2383-001-p1s5">
 <s.rf>m#m-wsj2383-001-p1s5</s.rf>
@@ -1063,7 +1058,6 @@
 <ord>14</ord>
 </LM>
 </children>
-<eng_sentence> Speaking through its Dutch lawyers, ASKO also disclosed it holds a 15% stake in Ahold.</eng_sentence>
 </LM>
 <LM id="a-wsj2383-001-p1s6">
 <s.rf>m#m-wsj2383-001-p1s6</s.rf>
@@ -1183,7 +1177,6 @@
 <ord>19</ord>
 </LM>
 </children>
-<eng_sentence>It was previously thought ASKO held a 13.6% stake that was accumulated since July.</eng_sentence>
 </LM>
 <LM id="a-wsj2383-001-p1s7">
 <s.rf>m#m-wsj2383-001-p1s7</s.rf>
@@ -1311,7 +1304,6 @@
 <ord>19</ord>
 </LM>
 </children>
-<eng_sentence>A spokesman for Ahold said his company is confident of its own position and the propriety of the preferred-share issue.</eng_sentence>
 </LM>
 <LM id="a-wsj2383-001-p1s8">
 <s.rf>m#m-wsj2383-001-p1s8</s.rf>
@@ -1414,7 +1406,6 @@
 <ord>16</ord>
 </LM>
 </children>
-<eng_sentence>He termed ASKO's legal actions as ``unproductive'' to international cooperation among European retailers.</eng_sentence>
 </LM>
 </trees>
 </adata>

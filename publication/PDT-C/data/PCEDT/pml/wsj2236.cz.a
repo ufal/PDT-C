@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="aanot_schema.xml" />
+<schema href="adata_c_schema.xml" />
 <references>
 <reffile id="m" href="wsj2236.cz.m" name="mdata" />
 <reffile id="w" href="wsj2236.cz.w" name="wdata" />
@@ -184,7 +184,6 @@
 <ord>30</ord>
 </LM>
 </children>
-<eng_sentence>A group including Jon M. Huntsman of Salt Lake City, said it boosted its stake in Aristech Chemical Corp. to 8.36% of the the common shares outstanding.</eng_sentence>
 </LM>
 <LM id="a-wsj2236-001-p1s1">
 <s.rf>m#m-wsj2236-001-p1s1</s.rf>
@@ -495,7 +494,6 @@
 <ord>53</ord>
 </LM>
 </children>
-<eng_sentence>As previously reported, Huntsman Holdings Corp., owned by Jon M. Huntsman and other members of his family, proposed that Banstar Corp., an affiliate of Huntsman Holdings, acquire Aristech in a friendly transaction for $25-a-share in cash, or $817.5 million.</eng_sentence>
 </LM>
 <LM id="a-wsj2236-001-p1s2">
 <s.rf>m#m-wsj2236-001-p1s2</s.rf>
@@ -726,7 +724,6 @@
 <ord>42</ord>
 </LM>
 </children>
-<eng_sentence>In a filing with the Securities and Exchange Commission, the Huntsman group said it controls 2,720,675 Aristech common shares, including 306,000 shares bought from Aug. 21 to Oct. 13 for $20 to $20.875 per share.</eng_sentence>
 </LM>
 <LM id="a-wsj2236-001-p1s3">
 <s.rf>m#m-wsj2236-001-p1s3</s.rf>
@@ -785,7 +782,6 @@
 <ord>10</ord>
 </LM>
 </children>
-<eng_sentence>Officials at Aristech, based in Pittsburgh, declined comment.</eng_sentence>
 </LM>
 </trees>
 </adata>

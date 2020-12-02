@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="aanot_schema.xml"/>
+<schema href="adata_c_schema.xml"/>
 <references>
 <reffile id="m" href="wsj2352.cz.m" name="mdata"/>
 <reffile id="w" href="wsj2352.cz.w" name="wdata"/>
@@ -335,7 +335,6 @@
 <ord>50</ord>
 </LM>
 </children>
-<eng_sentence>The Second U.S. Circuit Court of Appeals opinion in the Arcadian Phosphate case did not repudiate the position Pennzoil Co. took in its dispute with Texaco, contrary to your Sept. 8 article ``Court Backs Texaco's View in Pennzoil Case -- Too Late.''</eng_sentence>
 </LM>
 <LM id="a-wsj2352-001-p1s1">
 <s.rf>m#m-wsj2352-001-p1s1</s.rf>
@@ -481,7 +480,6 @@
 <ord>23</ord>
 </LM>
 </children>
-<eng_sentence>The fundamental rule of contract law applied to both cases was that courts will not enforce agreements to which the parties did not intend to be bound.</eng_sentence>
 </LM>
 <LM id="a-wsj2352-001-p1s2">
 <s.rf>m#m-wsj2352-001-p1s2</s.rf>
@@ -694,7 +692,6 @@
 <ord>32</ord>
 </LM>
 </children>
-<eng_sentence>In the Pennzoil/Texaco litigation, the courts found Pennzoil and Getty Oil intended to be bound; in Arcadian Phosphates they found there was no intention to be bound.</eng_sentence>
 </LM>
 <LM id="a-wsj2352-001-p1s3">
 <s.rf>m#m-wsj2352-001-p1s3</s.rf>
@@ -752,7 +749,6 @@
 <ord>9</ord>
 </LM>
 </children>
-<eng_sentence>Admittedly, the principle in the cases is the same.</eng_sentence>
 </LM>
 <LM id="a-wsj2352-001-p1s4">
 <s.rf>m#m-wsj2352-001-p1s4</s.rf>
@@ -822,7 +818,6 @@
 <ord>10</ord>
 </LM>
 </children>
-<eng_sentence>But the outcome of a legal dispute almost always turns on the facts.</eng_sentence>
 </LM>
 <LM id="a-wsj2352-001-p1s5">
 <s.rf>m#m-wsj2352-001-p1s5</s.rf>
@@ -941,7 +936,6 @@
 <ord>19</ord>
 </LM>
 </children>
-<eng_sentence>And the facts, as found by the various courts in these two lawsuits, were different.</eng_sentence>
 </LM>
 <LM id="a-wsj2352-001-p1s6">
 <s.rf>m#m-wsj2352-001-p1s6</s.rf>
@@ -1043,7 +1037,6 @@
 <ord>15</ord>
 </LM>
 </children>
-<eng_sentence>When you suggest otherwise, you leave the realm of reporting and enter the orbit of speculation.</eng_sentence>
 </LM>
 <LM id="a-wsj2352-001-p1s7">
 <s.rf>m#m-wsj2352-001-p1s7</s.rf>
@@ -1074,7 +1067,6 @@
 </children>
 </LM>
 </children>
-<eng_sentence>Charles F. Vihon</eng_sentence>
 </LM>
 </trees>
 </adata>

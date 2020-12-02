@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="aanot_schema.xml" />
+<schema href="adata_c_schema.xml" />
 <references>
 <reffile id="m" href="wsj2344.cz.m" name="mdata" />
 <reffile id="w" href="wsj2344.cz.w" name="wdata" />
@@ -292,7 +292,6 @@
 <ord>50</ord>
 </LM>
 </children>
-<eng_sentence>Gulf Resources &amp; Chemical Corp. said it agreed to pay $1.5 million as part of an accord with the Environmental Protection Agency regarding an environmental cleanup of a defunct smelter the company formerly operated in Idaho.</eng_sentence>
 </LM>
 <LM id="a-wsj2344-001-p1s1">
 <s.rf>m#m-wsj2344-001-p1s1</s.rf>
@@ -446,7 +445,6 @@
 <ord>27</ord>
 </LM>
 </children>
-<eng_sentence>In 1984 the EPA notified Gulf Resources, which was a part-owner of the smelter, that it was potentially liable for sharing cleanup costs at the site under the federal Superfund program.</eng_sentence>
 </LM>
 <LM id="a-wsj2344-001-p1s2">
 <s.rf>m#m-wsj2344-001-p1s2</s.rf>
@@ -542,7 +540,6 @@
 <ord>16</ord>
 </LM>
 </children>
-<eng_sentence>The 21-square-mile area is contaminated with lead, zinc and other metals.</eng_sentence>
 </LM>
 <LM id="a-wsj2344-001-p1s3">
 <s.rf>m#m-wsj2344-001-p1s3</s.rf>
@@ -718,7 +715,6 @@
 <ord>31</ord>
 </LM>
 </children>
-<eng_sentence>Gulf Resources earlier this year proposed a reorganization plan that would make it a unit of a Bermuda concern, potentially exempting it from liability for the smelter's cleanup costs.</eng_sentence>
 </LM>
 <LM id="a-wsj2344-001-p1s4">
 <s.rf>m#m-wsj2344-001-p1s4</s.rf>
@@ -876,7 +872,6 @@
 <ord>27</ord>
 </LM>
 </children>
-<eng_sentence>The company said that as part of its agreement with the EPA, it ``made certain voluntary undertakings with respect to intercorporate transactions entered into after the reorganization.''</eng_sentence>
 </LM>
 <LM id="a-wsj2344-001-p1s5">
 <s.rf>m#m-wsj2344-001-p1s5</s.rf>
@@ -1089,7 +1084,6 @@
 <ord>38</ord>
 </LM>
 </children>
-<eng_sentence>The company, which issued a statement on the agreement late Friday, said that $1 million of the payment was previously provided for in its financial statements and that $500,000 will be recognized in its 1989 third-quarter statement.</eng_sentence>
 </LM>
 <LM id="a-wsj2344-001-p1s6">
 <s.rf>m#m-wsj2344-001-p1s6</s.rf>
@@ -1178,7 +1172,6 @@
 <ord>14</ord>
 </LM>
 </children>
-<eng_sentence>The agreement and consent decree are subject to court approval, the company said.</eng_sentence>
 </LM>
 <LM id="a-wsj2344-001-p1s7">
 <s.rf>m#m-wsj2344-001-p1s7</s.rf>
@@ -1393,7 +1386,6 @@
 <ord>38</ord>
 </LM>
 </children>
-<eng_sentence>Gulf Resources added that it ``will seek to recover equitable contribution from others for both the amount of the settlement and any other liabilities it may incur under the Superfund law.''</eng_sentence>
 </LM>
 <LM id="a-wsj2344-001-p1s8">
 <s.rf>m#m-wsj2344-001-p1s8</s.rf>
@@ -1501,7 +1493,6 @@
 <ord>19</ord>
 </LM>
 </children>
-<eng_sentence>Under the agreement, Gulf must give the U.S. government 45 days' advance written notice before issuing any dividends on common stock.</eng_sentence>
 </LM>
 <LM id="a-wsj2344-001-p1s9">
 <s.rf>m#m-wsj2344-001-p1s9</s.rf>
@@ -1579,7 +1570,6 @@
 <ord>13</ord>
 </LM>
 </children>
-<eng_sentence>The company's net worth can not fall below $185 million after the dividends are issued.</eng_sentence>
 </LM>
 <LM id="a-wsj2344-001-p1s10">
 <s.rf>m#m-wsj2344-001-p1s10</s.rf>
@@ -1757,7 +1747,6 @@
 <ord>31</ord>
 </LM>
 </children>
-<eng_sentence>``The terms of that agreement only become effective the date of Gulf's reorganization, which we anticipate will occur sometime in early 1990,'' said Lawrence R. Mehl, Gulf's general counsel.</eng_sentence>
 </LM>
 <LM id="a-wsj2344-001-p1s11">
 <s.rf>m#m-wsj2344-001-p1s11</s.rf>
@@ -1889,7 +1878,6 @@
 <ord>23</ord>
 </LM>
 </children>
-<eng_sentence>In addition, Gulf must give the government 20 days' advance written notice of any loans exceeding $50 million that are made to the Bermuda-based holding company.</eng_sentence>
 </LM>
 <LM id="a-wsj2344-001-p1s12">
 <s.rf>m#m-wsj2344-001-p1s12</s.rf>
@@ -1969,7 +1957,6 @@
 <ord>13</ord>
 </LM>
 </children>
-<eng_sentence>Gulf's net worth after those transaction must be at least $150 million.</eng_sentence>
 </LM>
 <LM id="a-wsj2344-001-p1s13">
 <s.rf>m#m-wsj2344-001-p1s13</s.rf>
@@ -2081,7 +2068,6 @@
 <ord>19</ord>
 </LM>
 </children>
-<eng_sentence>Separately, the company said it expects to hold a special meeting for shareholders in early 1990 to vote on its proposed reorganization.</eng_sentence>
 </LM>
 </trees>
 </adata>

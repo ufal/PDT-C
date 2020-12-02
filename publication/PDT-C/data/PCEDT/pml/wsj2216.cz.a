@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="aanot_schema.xml"/>
+<schema href="adata_c_schema.xml"/>
 <references>
 <reffile id="m" href="wsj2216.cz.m" name="mdata"/>
 <reffile id="w" href="wsj2216.cz.w" name="wdata"/>
@@ -219,7 +219,6 @@
 <ord>32</ord>
 </LM>
 </children>
-<eng_sentence>BancOklahoma Corp. said it completed a restructuring agreement previously agreed to by the Federal Deposit Insurance Corp., creditor banks and subordinated debenture holders.</eng_sentence>
 </LM>
 <LM id="a-wsj2216-001-p1s1">
 <s.rf>m#m-wsj2216-001-p1s1</s.rf>
@@ -355,7 +354,6 @@
 <ord>21</ord>
 </LM>
 </children>
-<eng_sentence>The plan would permit the bank holding company to retire its bank and debenture obligations through exchanges of cash and equity.</eng_sentence>
 </LM>
 <LM id="a-wsj2216-001-p1s2">
 <s.rf>m#m-wsj2216-001-p1s2</s.rf>
@@ -651,7 +649,6 @@
 <ord>47</ord>
 </LM>
 </children>
-<eng_sentence>The FDIC, which in 1986 provided $130 million in open-bank assistance to BancOklahoma's Bank of Oklahoma, Tulsa, unit will continue to maintain $90 million in preferred stock in the Tulsa bank unit.</eng_sentence>
 </LM>
 <LM id="a-wsj2216-001-p1s3">
 <s.rf>m#m-wsj2216-001-p1s3</s.rf>
@@ -942,7 +939,6 @@
 <ord>46</ord>
 </LM>
 </children>
-<eng_sentence>In exchange for the other $40 million, the FDIC will receive additional warrants entitling it to buy 60% of BancOklahoma's common stock outstanding, up from the 55% option the FDIC received under terms of the 1986 capital infusion.</eng_sentence>
 </LM>
 <LM id="a-wsj2216-001-p1s4">
 <s.rf>m#m-wsj2216-001-p1s4</s.rf>
@@ -1176,7 +1172,6 @@
 <ord>37</ord>
 </LM>
 </children>
-<eng_sentence>In exchange for the $76 million they are owed, creditor banks will receive 3.9 million shares of BancOklahoma common stock and the proceeds from the future sales of four subsidiary banks to private buyers, the bank holding company said.</eng_sentence>
 </LM>
 <LM id="a-wsj2216-001-p1s5">
 <s.rf>m#m-wsj2216-001-p1s5</s.rf>
@@ -1457,7 +1452,6 @@
 <ord>44</ord>
 </LM>
 </children>
-<eng_sentence>Also under the agreement, debenture holders will get one million shares of common stock in exchange for $7.7 million in debentures and holders of BancOklahoma's series A preferred stock will receive 1.25 shares of common stock for every share of preferred they own, the company said.</eng_sentence>
 </LM>
 </trees>
 </adata>

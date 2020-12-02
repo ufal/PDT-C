@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="aanot_schema.xml"/>
+<schema href="adata_c_schema.xml"/>
 <references>
 <reffile id="m" href="wsj2350.cz.m" name="mdata"/>
 <reffile id="w" href="wsj2350.cz.w" name="wdata"/>
@@ -191,7 +191,6 @@
 <ord>27</ord>
 </LM>
 </children>
-<eng_sentence>Time magazine, in a move to reduce the costs of wooing new subscribers, is lowering its circulation guarantee to advertisers for the second consecutive year, increasing its subscription rates and cutting back on merchandise giveaways.</eng_sentence>
 </LM>
 <LM id="a-wsj2350-001-p1s1">
 <s.rf>m#m-wsj2350-001-p1s1</s.rf>
@@ -605,7 +604,6 @@
 <ord>64</ord>
 </LM>
 </children>
-<eng_sentence>In an announcement to its staff last week, executives at Time Warner Inc.'s weekly magazine said Time will ``dramatically de-emphasize'' its use of electronic giveaways such as telephones in television subscription drives; cut the circulation it guarantees advertisers by 300,000, to four million; and increase the cost of its annual subscription rate by about $4 to $55.</eng_sentence>
 </LM>
 <LM id="a-wsj2350-001-p1s2">
 <s.rf>m#m-wsj2350-001-p1s2</s.rf>
@@ -820,7 +818,6 @@
 <ord>34</ord>
 </LM>
 </children>
-<eng_sentence>In a related development, the news-weekly, for the fourth year in a row, said it won't increase its advertising rates in 1990; a full, four-color page in the magazine costs about $120,000.</eng_sentence>
 </LM>
 <LM id="a-wsj2350-001-p1s3">
 <s.rf>m#m-wsj2350-001-p1s3</s.rf>
@@ -1004,7 +1001,6 @@
 <ord>28</ord>
 </LM>
 </children>
-<eng_sentence>However, because the guaranteed circulation base is being lowered, ad rates will be effectively 7.5% higher per subscriber, according to Richard Heinemann, Time associate publisher.</eng_sentence>
 </LM>
 <LM id="a-wsj2350-001-p1s4">
 <s.rf>m#m-wsj2350-001-p1s4</s.rf>
@@ -1202,7 +1198,6 @@
 <ord>31</ord>
 </LM>
 </children>
-<eng_sentence>Time is following the course of some other mass-circulation magazines that in recent years have challenged the publishing myth that maintaining artificially high, and expensive, circulations is the way to draw advertisers.</eng_sentence>
 </LM>
 <LM id="a-wsj2350-001-p1s5">
 <s.rf>m#m-wsj2350-001-p1s5</s.rf>
@@ -1516,7 +1511,6 @@
 <ord>48</ord>
 </LM>
 </children>
-<eng_sentence>In recent years, Reader's Digest, New York Times Co.'s McCall's, and most recently News Corp.'s TV Guide, have cut their massive circulation rate bases to eliminate marginal circulation and hold down rates for advertisers.</eng_sentence>
 </LM>
 <LM id="a-wsj2350-001-p1s6">
 <s.rf>m#m-wsj2350-001-p1s6</s.rf>
@@ -1692,7 +1686,6 @@
 <ord>27</ord>
 </LM>
 </children>
-<eng_sentence>Deep discounts in subscriptions and offers of free clock radios and watches have become accepted forms of attracting new subscribers in the hyper-competitive world of magazine news-weeklies.</eng_sentence>
 </LM>
 <LM id="a-wsj2350-001-p1s7">
 <s.rf>m#m-wsj2350-001-p1s7</s.rf>
@@ -1791,7 +1784,6 @@
 <ord>15</ord>
 </LM>
 </children>
-<eng_sentence>But Time, as part of the more cost-conscious Time Warner, wants to wean itself away from expensive gimmicks.</eng_sentence>
 </LM>
 <LM id="a-wsj2350-001-p1s8">
 <s.rf>m#m-wsj2350-001-p1s8</s.rf>
@@ -1894,7 +1886,6 @@
 <ord>16</ord>
 </LM>
 </children>
-<eng_sentence>Besides, Time executives think selling a news magazine with a clock radio is tacky.</eng_sentence>
 </LM>
 <LM id="a-wsj2350-001-p1s9">
 <s.rf>m#m-wsj2350-001-p1s9</s.rf>
@@ -1981,7 +1972,6 @@
 <ord>14</ord>
 </LM>
 </children>
-<eng_sentence>``Giveaways just give people the wrong image,'' said Mr. Heinemann.</eng_sentence>
 </LM>
 <LM id="a-wsj2350-001-p1s10">
 <s.rf>m#m-wsj2350-001-p1s10</s.rf>
@@ -2039,7 +2029,6 @@
 <ord>8</ord>
 </LM>
 </children>
-<eng_sentence>``That perception takes the focus off the magazine.''</eng_sentence>
 </LM>
 <LM id="a-wsj2350-001-p1s11">
 <s.rf>m#m-wsj2350-001-p1s11</s.rf>
@@ -2157,7 +2146,6 @@
 <ord>18</ord>
 </LM>
 </children>
-<eng_sentence>Time magazine executives predictably paint the circulation cut as a show of strength and actually a benefit to advertisers.</eng_sentence>
 </LM>
 <LM id="a-wsj2350-001-p1s12">
 <s.rf>m#m-wsj2350-001-p1s12</s.rf>
@@ -2342,7 +2330,6 @@
 <ord>30</ord>
 </LM>
 </children>
-<eng_sentence>``What we are doing is screening out the readers who are only casually related to the magazine and don't really read it,'' said Mr. Heinemann.</eng_sentence>
 </LM>
 <LM id="a-wsj2350-001-p1s13">
 <s.rf>m#m-wsj2350-001-p1s13</s.rf>
@@ -2402,7 +2389,6 @@
 <ord>8</ord>
 </LM>
 </children>
-<eng_sentence>``We are trying to create quality and involvement.''</eng_sentence>
 </LM>
 <LM id="a-wsj2350-001-p1s14">
 <s.rf>m#m-wsj2350-001-p1s14</s.rf>
@@ -2551,7 +2537,6 @@
 <ord>23</ord>
 </LM>
 </children>
-<eng_sentence>However, Time executives used the same explanation when in October 1988 the magazine cut its guaranteed circulation from 4.6 million to 4.3 million.</eng_sentence>
 </LM>
 <LM id="a-wsj2350-001-p1s15">
 <s.rf>m#m-wsj2350-001-p1s15</s.rf>
@@ -2723,7 +2708,6 @@
 <ord>26</ord>
 </LM>
 </children>
-<eng_sentence>And Time's paid circulation, according to Audit Bureau of Circulations, dropped 7.3% to 4,393,237 in the six months ended June 30, 1989.</eng_sentence>
 </LM>
 <LM id="a-wsj2350-001-p1s16">
 <s.rf>m#m-wsj2350-001-p1s16</s.rf>
@@ -2788,7 +2772,6 @@
 <ord>10</ord>
 </LM>
 </children>
-<eng_sentence>Still, Time's move is being received well, once again.</eng_sentence>
 </LM>
 <LM id="a-wsj2350-001-p1s17">
 <s.rf>m#m-wsj2350-001-p1s17</s.rf>
@@ -2949,7 +2932,6 @@
 <ord>26</ord>
 </LM>
 </children>
-<eng_sentence>``It's terrific for advertisers to know the reader will be paying more,'' said Michael Drexler, national media director at Bozell Inc. ad agency.</eng_sentence>
 </LM>
 <LM id="a-wsj2350-001-p1s18">
 <s.rf>m#m-wsj2350-001-p1s18</s.rf>
@@ -3000,7 +2982,6 @@
 <ord>8</ord>
 </LM>
 </children>
-<eng_sentence>``A few drops in circulation are of no consequence.</eng_sentence>
 </LM>
 <LM id="a-wsj2350-001-p1s19">
 <s.rf>m#m-wsj2350-001-p1s19</s.rf>
@@ -3107,7 +3088,6 @@
 <ord>15</ord>
 </LM>
 </children>
-<eng_sentence>It's not a show of weakness; they are improving the quality of circulation while insuring their profits.''</eng_sentence>
 </LM>
 <LM id="a-wsj2350-001-p1s20">
 <s.rf>m#m-wsj2350-001-p1s20</s.rf>
@@ -3323,7 +3303,6 @@
 <ord>33</ord>
 </LM>
 </children>
-<eng_sentence>Mr. Heinemann said the changes represent a new focus in the magazine industry: a magazine's net revenue per subscriber, or the actual revenue from subscribers after discounts and the cost of premiums have been stripped away.</eng_sentence>
 </LM>
 <LM id="a-wsj2350-001-p1s21">
 <s.rf>m#m-wsj2350-001-p1s21</s.rf>
@@ -3417,7 +3396,6 @@
 <ord>15</ord>
 </LM>
 </children>
-<eng_sentence>``The question is how much are we getting from each reader,'' said Mr. Heinemann.</eng_sentence>
 </LM>
 <LM id="a-wsj2350-001-p1s22">
 <s.rf>m#m-wsj2350-001-p1s22</s.rf>
@@ -3696,7 +3674,6 @@
 <ord>44</ord>
 </LM>
 </children>
-<eng_sentence>Time's rivals news-weeklies, Washington Post Co.'s Newsweek and U.S. News &amp; World Report, are less reliant on electronic giveaways, and in recent years both have been increasing their circulation rate bases.</eng_sentence>
 </LM>
 <LM id="a-wsj2350-001-p1s23">
 <s.rf>m#m-wsj2350-001-p1s23</s.rf>
@@ -3836,7 +3813,6 @@
 <ord>21</ord>
 </LM>
 </children>
-<eng_sentence>Both magazines are expected to announce their ad rates and circulation levels for 1990 within a month.</eng_sentence>
 </LM>
 </trees>
 </adata>

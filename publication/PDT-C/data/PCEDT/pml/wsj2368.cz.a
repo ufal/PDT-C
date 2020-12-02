@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="aanot_schema.xml"/>
+<schema href="adata_c_schema.xml"/>
 <references>
 <reffile id="m" href="wsj2368.cz.m" name="mdata"/>
 <reffile id="w" href="wsj2368.cz.w" name="wdata"/>
@@ -287,7 +287,6 @@
 <ord>44</ord>
 </LM>
 </children>
-<eng_sentence>The only thing Robert Goldberg could praise about CBS's new show ``Island Son'' (Leisure &amp; Arts, Sept. 25) was the local color; unfortunately neither he nor the producers of the show have done their homework.</eng_sentence>
 </LM>
 <LM id="a-wsj2368-001-p1s1">
 <s.rf>m#m-wsj2368-001-p1s1</s.rf>
@@ -407,7 +406,6 @@
 <ord>19</ord>
 </LM>
 </children>
-<eng_sentence>For instance: ``Haole'' (white) is not the ultimate insult; ``Mainland haole'' is.</eng_sentence>
 </LM>
 <LM id="a-wsj2368-001-p1s2">
 <s.rf>m#m-wsj2368-001-p1s2</s.rf>
@@ -553,7 +551,6 @@
 <ord>23</ord>
 </LM>
 </children>
-<eng_sentence>Richard Chamberlain dresses as a ``Mainland haole,'' tucking in a Hawaiian shirt and rolling up its long sleeves.</eng_sentence>
 </LM>
 <LM id="a-wsj2368-001-p1s3">
 <s.rf>m#m-wsj2368-001-p1s3</s.rf>
@@ -652,7 +649,6 @@
 </children>
 </LM>
 </children>
-<eng_sentence>And the local expression for brother is ``brah,'' not ``bruddah.''</eng_sentence>
 </LM>
 <LM id="a-wsj2368-001-p1s4">
 <s.rf>m#m-wsj2368-001-p1s4</s.rf>
@@ -842,7 +838,6 @@
 <ord>30</ord>
 </LM>
 </children>
-<eng_sentence>And even if a nurse would wear flowers in her hair while on duty, if she were engaged she would know to wear them behind her left, not right, ear.</eng_sentence>
 </LM>
 <LM id="a-wsj2368-001-p1s5">
 <s.rf>m#m-wsj2368-001-p1s5</s.rf>
@@ -950,7 +945,6 @@
 <ord>17</ord>
 </LM>
 </children>
-<eng_sentence>Sorry, the show does not even have the one redeeming quality of genuine local color.</eng_sentence>
 </LM>
 <LM id="a-wsj2368-001-p1s6">
 <s.rf>m#m-wsj2368-001-p1s6</s.rf>
@@ -969,7 +963,6 @@
 </children>
 </LM>
 </children>
-<eng_sentence>Anita Davis</eng_sentence>
 </LM>
 </trees>
 </adata>

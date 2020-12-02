@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="aanot_schema.xml"/>
+<schema href="adata_c_schema.xml"/>
 <references>
 <reffile id="m" href="wsj2209.cz.m" name="mdata"/>
 <reffile id="w" href="wsj2209.cz.w" name="wdata"/>
@@ -211,7 +211,6 @@
 <ord>31</ord>
 </LM>
 </children>
-<eng_sentence>DPC Acquisition Partners, a hostile suitor for Dataproducts Corp., said it intends to launch a tender offer for the computer printer maker's common stock.</eng_sentence>
 </LM>
 <LM id="a-wsj2209-001-p1s1">
 <s.rf>m#m-wsj2209-001-p1s1</s.rf>
@@ -454,7 +453,6 @@
 <ord>38</ord>
 </LM>
 </children>
-<eng_sentence>DPC, a group led by the New York investment firm Crescott Inc., also said it plans to file preliminary materials with the Securities and Exchange Commission regarding a shareholder solicitation to oust Dataproducts' board.</eng_sentence>
 </LM>
 <LM id="a-wsj2209-001-p1s2">
 <s.rf>m#m-wsj2209-001-p1s2</s.rf>
@@ -674,7 +672,6 @@
 <ord>33</ord>
 </LM>
 </children>
-<eng_sentence>DPC holds a 7.8% stake in Dataproducts and made a $15-a-share bid for the company in May, but Dataproducts management considered the $283.7 million proposal unacceptable.</eng_sentence>
 </LM>
 <LM id="a-wsj2209-001-p1s3">
 <s.rf>m#m-wsj2209-001-p1s3</s.rf>
@@ -741,7 +738,6 @@
 <ord>10</ord>
 </LM>
 </children>
-<eng_sentence>A DPC spokesman declined to elaborate on the group's new plan.</eng_sentence>
 </LM>
 <LM id="a-wsj2209-001-p1s4">
 <s.rf>m#m-wsj2209-001-p1s4</s.rf>
@@ -896,7 +892,6 @@
 <ord>24</ord>
 </LM>
 </children>
-<eng_sentence>In American Stock Exchange composite trading yesterday, Dataproducts shares jumped 62.5 cents to close at $9.375.</eng_sentence>
 </LM>
 <LM id="a-wsj2209-001-p1s5">
 <s.rf>m#m-wsj2209-001-p1s5</s.rf>
@@ -1030,7 +1025,6 @@
 <ord>21</ord>
 </LM>
 </children>
-<eng_sentence>Dataproducts, which had been seeking a buyer for several months, announced a restructuring plan in September and took itself off the auction block.</eng_sentence>
 </LM>
 <LM id="a-wsj2209-001-p1s6">
 <s.rf>m#m-wsj2209-001-p1s6</s.rf>
@@ -1178,7 +1172,6 @@
 <ord>22</ord>
 </LM>
 </children>
-<eng_sentence>The company's restructuring includes plans to split into three sectors, to phase out domestic printer manufacturing operations and to sell its New England subsidiary.</eng_sentence>
 </LM>
 <LM id="a-wsj2209-001-p1s7">
 <s.rf>m#m-wsj2209-001-p1s7</s.rf>
@@ -1366,7 +1359,6 @@
 <ord>29</ord>
 </LM>
 </children>
-<eng_sentence>As part of the plan, Dataproducts announced a pact to sell $63 million of its real estate holdings to Trizec Properties Inc., a unit of Canada's Trizec Corp.</eng_sentence>
 </LM>
 <LM id="a-wsj2209-001-p1s8">
 <s.rf>m#m-wsj2209-001-p1s8</s.rf>
@@ -1537,7 +1529,6 @@
 <ord>27</ord>
 </LM>
 </children>
-<eng_sentence>Jack Davis, Dataproducts' president, chairman and chief executive officer, said the company ``is at a loss to understand DPC's intentions.''</eng_sentence>
 </LM>
 <LM id="a-wsj2209-001-p1s9">
 <s.rf>m#m-wsj2209-001-p1s9</s.rf>
@@ -1694,7 +1685,6 @@
 <ord>24</ord>
 </LM>
 </children>
-<eng_sentence>He called today's announcement ``opportunistic and disruptive'' and said the company intends to proceed with its restructuring.</eng_sentence>
 </LM>
 </trees>
 </adata>

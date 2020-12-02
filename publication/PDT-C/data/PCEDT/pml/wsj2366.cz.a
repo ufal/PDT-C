@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="aanot_schema.xml"/>
+<schema href="adata_c_schema.xml"/>
 <references>
 <reffile id="m" href="wsj2366.cz.m" name="mdata"/>
 <reffile id="w" href="wsj2366.cz.w" name="wdata"/>
@@ -56,7 +56,6 @@
 </children>
 </LM>
 </children>
-<eng_sentence>Population Drain Ends For Midwestern States</eng_sentence>
 </LM>
 <LM id="a-wsj2366-001-p1s1">
 <s.rf>m#m-wsj2366-001-p1s1</s.rf>
@@ -97,7 +96,6 @@
 <ord>6</ord>
 </LM>
 </children>
-<eng_sentence>IOWA IS MAKING a comeback.</eng_sentence>
 </LM>
 <LM id="a-wsj2366-001-p1s2">
 <s.rf>m#m-wsj2366-001-p1s2</s.rf>
@@ -151,7 +149,6 @@
 <ord>8</ord>
 </LM>
 </children>
-<eng_sentence>So are Indiana, Ohio and Michigan.</eng_sentence>
 </LM>
 <LM id="a-wsj2366-001-p1s3">
 <s.rf>m#m-wsj2366-001-p1s3</s.rf>
@@ -310,7 +307,6 @@
 <ord>24</ord>
 </LM>
 </children>
-<eng_sentence>The population of all four states is on the upswing, according to new Census Bureau estimates, following declines throughout the early 1980s.</eng_sentence>
 </LM>
 <LM id="a-wsj2366-001-p1s4">
 <s.rf>m#m-wsj2366-001-p1s4</s.rf>
@@ -351,7 +347,6 @@
 <ord>6</ord>
 </LM>
 </children>
-<eng_sentence>The gains, to be sure, are rather small.</eng_sentence>
 </LM>
 <LM id="a-wsj2366-001-p1s5">
 <s.rf>m#m-wsj2366-001-p1s5</s.rf>
@@ -517,7 +512,6 @@
 <ord>25</ord>
 </LM>
 </children>
-<eng_sentence>Iowa, for instance, saw its population grow by 11,000 people, or 0.4%, between 1987 and 1988, the Census Bureau says.</eng_sentence>
 </LM>
 <LM id="a-wsj2366-001-p1s6">
 <s.rf>m#m-wsj2366-001-p1s6</s.rf>
@@ -649,7 +643,6 @@
 <ord>21</ord>
 </LM>
 </children>
-<eng_sentence>Still, even that modest increase is good news for a state that hadn't grown at all since 1981.</eng_sentence>
 </LM>
 <LM id="a-wsj2366-001-p1s7">
 <s.rf>m#m-wsj2366-001-p1s7</s.rf>
@@ -799,7 +792,6 @@
 <ord>23</ord>
 </LM>
 </children>
-<eng_sentence>Between 1987 and 1988, North Dakota was the only state in the Midwest to lose population, a loss of 4,000 people.</eng_sentence>
 </LM>
 <LM id="a-wsj2366-001-p1s8">
 <s.rf>m#m-wsj2366-001-p1s8</s.rf>
@@ -952,7 +944,6 @@
 <ord>24</ord>
 </LM>
 </children>
-<eng_sentence>Six of the 12 midwestern states have been growing steadily since 1980 -- Illinois, Kansas, Minnesota, Missouri, South Dakota and Wisconsin.</eng_sentence>
 </LM>
 <LM id="a-wsj2366-001-p1s9">
 <s.rf>m#m-wsj2366-001-p1s9</s.rf>
@@ -1000,7 +991,6 @@
 <ord>7</ord>
 </LM>
 </children>
-<eng_sentence>The Northeast has been holding its own in the population race.</eng_sentence>
 </LM>
 <LM id="a-wsj2366-001-p1s10">
 <s.rf>m#m-wsj2366-001-p1s10</s.rf>
@@ -1155,7 +1145,6 @@
 <ord>24</ord>
 </LM>
 </children>
-<eng_sentence>Seven of nine states have grown each year since 1980, including New York, which lost 4% of its population during the 1970s.</eng_sentence>
 </LM>
 <LM id="a-wsj2366-001-p1s11">
 <s.rf>m#m-wsj2366-001-p1s11</s.rf>
@@ -1268,7 +1257,6 @@
 <ord>17</ord>
 </LM>
 </children>
-<eng_sentence>And although Pennsylvania and Massachusetts suffered slight declines earlier in the decade, they are growing again.</eng_sentence>
 </LM>
 <LM id="a-wsj2366-001-p1s12">
 <s.rf>m#m-wsj2366-001-p1s12</s.rf>
@@ -1409,7 +1397,6 @@
 <ord>21</ord>
 </LM>
 </children>
-<eng_sentence>At the same time, several states in the South and West have had their own population turnaround.</eng_sentence>
 </LM>
 <LM id="a-wsj2366-001-p1s13">
 <s.rf>m#m-wsj2366-001-p1s13</s.rf>
@@ -1588,7 +1575,6 @@
 <ord>29</ord>
 </LM>
 </children>
-<eng_sentence>Seven states that grew in the early 1980s are now losing population -- West Virginia, Mississippi, Louisiana, Oklahoma, Montana, Wyoming and Alaska.</eng_sentence>
 </LM>
 <LM id="a-wsj2366-001-p1s14">
 <s.rf>m#m-wsj2366-001-p1s14</s.rf>
@@ -1765,7 +1751,6 @@
 <ord>27</ord>
 </LM>
 </children>
-<eng_sentence>Overall, though, the South and West still outpace the Northeast and Midwest, and fast-growing states like Florida and California ensure that the pattern will continue.</eng_sentence>
 </LM>
 <LM id="a-wsj2366-001-p1s15">
 <s.rf>m#m-wsj2366-001-p1s15</s.rf>
@@ -1868,7 +1853,6 @@
 <ord>15</ord>
 </LM>
 </children>
-<eng_sentence>But the growth gap between the Sun Belt and other regions has clearly started narrowing.</eng_sentence>
 </LM>
 <LM id="a-wsj2366-001-p1s16">
 <s.rf>m#m-wsj2366-001-p1s16</s.rf>
@@ -1918,7 +1902,6 @@
 </children>
 </LM>
 </children>
-<eng_sentence>More Elderly Maintain Their Independence</eng_sentence>
 </LM>
 <LM id="a-wsj2366-001-p1s17">
 <s.rf>m#m-wsj2366-001-p1s17</s.rf>
@@ -1973,7 +1956,6 @@
 <ord>8</ord>
 </LM>
 </children>
-<eng_sentence>THANKS TO modern medicine, more couples are growing old together.</eng_sentence>
 </LM>
 <LM id="a-wsj2366-001-p1s18">
 <s.rf>m#m-wsj2366-001-p1s18</s.rf>
@@ -2048,7 +2030,6 @@
 <ord>11</ord>
 </LM>
 </children>
-<eng_sentence>And even after losing a spouse, more of the elderly are staying independent.</eng_sentence>
 </LM>
 <LM id="a-wsj2366-001-p1s19">
 <s.rf>m#m-wsj2366-001-p1s19</s.rf>
@@ -2299,7 +2280,6 @@
 <ord>38</ord>
 </LM>
 </children>
-<eng_sentence>A new Census Bureau study of the noninstitutionalized population shows that 64% of people aged 65 to 74 were living with a spouse in 1988, up from 59% in 1970.</eng_sentence>
 </LM>
 <LM id="a-wsj2366-001-p1s20">
 <s.rf>m#m-wsj2366-001-p1s20</s.rf>
@@ -2367,7 +2347,6 @@
 <ord>10</ord>
 </LM>
 </children>
-<eng_sentence>This doesn't mean they're less likely to live alone, however.</eng_sentence>
 </LM>
 <LM id="a-wsj2366-001-p1s21">
 <s.rf>m#m-wsj2366-001-p1s21</s.rf>
@@ -2446,7 +2425,6 @@
 <ord>12</ord>
 </LM>
 </children>
-<eng_sentence>That share has remained at about 24% since 1970.</eng_sentence>
 </LM>
 <LM id="a-wsj2366-001-p1s22">
 <s.rf>m#m-wsj2366-001-p1s22</s.rf>
@@ -2608,7 +2586,6 @@
 <ord>25</ord>
 </LM>
 </children>
-<eng_sentence>What has changed is that more of the young elderly are living with spouses rather than with other relatives, such as children.</eng_sentence>
 </LM>
 <LM id="a-wsj2366-001-p1s23">
 <s.rf>m#m-wsj2366-001-p1s23</s.rf>
@@ -2823,7 +2800,6 @@
 <ord>32</ord>
 </LM>
 </children>
-<eng_sentence>In 1988, 10% of those aged 65 to 74 lived with relatives other than spouses, down from 15% in 1970.</eng_sentence>
 </LM>
 <LM id="a-wsj2366-001-p1s24">
 <s.rf>m#m-wsj2366-001-p1s24</s.rf>
@@ -2876,7 +2852,6 @@
 <ord>8</ord>
 </LM>
 </children>
-<eng_sentence>As people get even older, many become widowed.</eng_sentence>
 </LM>
 <LM id="a-wsj2366-001-p1s25">
 <s.rf>m#m-wsj2366-001-p1s25</s.rf>
@@ -3106,7 +3081,6 @@
 <ord>36</ord>
 </LM>
 </children>
-<eng_sentence>But even among those aged 75 and older, the share living with a spouse rose slightly, to 40% in 1988 from 38% in 1970.</eng_sentence>
 </LM>
 <LM id="a-wsj2366-001-p1s26">
 <s.rf>m#m-wsj2366-001-p1s26</s.rf>
@@ -3204,7 +3178,6 @@
 <ord>15</ord>
 </LM>
 </children>
-<eng_sentence>Like their younger counterparts, the older elderly are less likely to live with other relatives.</eng_sentence>
 </LM>
 <LM id="a-wsj2366-001-p1s27">
 <s.rf>m#m-wsj2366-001-p1s27</s.rf>
@@ -3434,7 +3407,6 @@
 <ord>35</ord>
 </LM>
 </children>
-<eng_sentence>Only 17% of those aged 75 and older lived with relatives other than spouses in 1988, down from 26% in 1970.</eng_sentence>
 </LM>
 <LM id="a-wsj2366-001-p1s28">
 <s.rf>m#m-wsj2366-001-p1s28</s.rf>
@@ -3529,7 +3501,6 @@
 <ord>14</ord>
 </LM>
 </children>
-<eng_sentence>The likelihood of living alone beyond the age of 75 has increased to 40% from 32%.</eng_sentence>
 </LM>
 <LM id="a-wsj2366-001-p1s29">
 <s.rf>m#m-wsj2366-001-p1s29</s.rf>
@@ -3644,7 +3615,6 @@
 <ord>18</ord>
 </LM>
 </children>
-<eng_sentence>More people are remaining independent longer presumably because they are better off physically and financially.</eng_sentence>
 </LM>
 <LM id="a-wsj2366-001-p1s30">
 <s.rf>m#m-wsj2366-001-p1s30</s.rf>
@@ -3680,7 +3650,6 @@
 </children>
 </LM>
 </children>
-<eng_sentence>Careers Count Most For the Well-to-Do</eng_sentence>
 </LM>
 <LM id="a-wsj2366-001-p1s31">
 <s.rf>m#m-wsj2366-001-p1s31</s.rf>
@@ -3756,7 +3725,6 @@
 <ord>11</ord>
 </LM>
 </children>
-<eng_sentence>MANY AFFLUENT people place personal success and money above family.</eng_sentence>
 </LM>
 <LM id="a-wsj2366-001-p1s32">
 <s.rf>m#m-wsj2366-001-p1s32</s.rf>
@@ -3857,7 +3825,6 @@
 <ord>15</ord>
 </LM>
 </children>
-<eng_sentence>At least that's what a survey by Ernst &amp; Young and Yankelovich, Clancy, Shulman indicates.</eng_sentence>
 </LM>
 <LM id="a-wsj2366-001-p1s33">
 <s.rf>m#m-wsj2366-001-p1s33</s.rf>
@@ -4057,7 +4024,6 @@
 <ord>31</ord>
 </LM>
 </children>
-<eng_sentence>Two-thirds of respondents said they strongly felt the need to be successful in their jobs, while fewer than half said they strongly felt the need to spend more time with their families.</eng_sentence>
 </LM>
 <LM id="a-wsj2366-001-p1s34">
 <s.rf>m#m-wsj2366-001-p1s34</s.rf>
@@ -4178,7 +4144,6 @@
 <ord>18</ord>
 </LM>
 </children>
-<eng_sentence> Being successful in careers and spending the money they make are top priorities for this group.</eng_sentence>
 </LM>
 <LM id="a-wsj2366-001-p1s35">
 <s.rf>m#m-wsj2366-001-p1s35</s.rf>
@@ -4288,7 +4253,6 @@
 <ord>17</ord>
 </LM>
 </children>
-<eng_sentence>Unlike most studies of the affluent market, this survey excluded the super-rich.</eng_sentence>
 </LM>
 <LM id="a-wsj2366-001-p1s36">
 <s.rf>m#m-wsj2366-001-p1s36</s.rf>
@@ -4412,7 +4376,6 @@
 <ord>19</ord>
 </LM>
 </children>
-<eng_sentence>Average household income for the sample was $194,000, and average net assets were reported as $775,000.</eng_sentence>
 </LM>
 <LM id="a-wsj2366-001-p1s37">
 <s.rf>m#m-wsj2366-001-p1s37</s.rf>
@@ -4536,7 +4499,6 @@
 <ord>19</ord>
 </LM>
 </children>
-<eng_sentence>The goal was to learn about one of today's fastest-growing income groups, the upper-middle class.</eng_sentence>
 </LM>
 <LM id="a-wsj2366-001-p1s38">
 <s.rf>m#m-wsj2366-001-p1s38</s.rf>
@@ -4639,7 +4601,6 @@
 <ord>16</ord>
 </LM>
 </children>
-<eng_sentence>Although they represent only 2% of the population, they control nearly one-third of discretionary income.</eng_sentence>
 </LM>
 <LM id="a-wsj2366-001-p1s39">
 <s.rf>m#m-wsj2366-001-p1s39</s.rf>
@@ -4818,7 +4779,6 @@
 <ord>29</ord>
 </LM>
 </children>
-<eng_sentence>Across the board, these consumers value quality, buy what they like rather than just what they need, and appreciate products that are distinctive.</eng_sentence>
 </LM>
 <LM id="a-wsj2366-001-p1s40">
 <s.rf>m#m-wsj2366-001-p1s40</s.rf>
@@ -4977,7 +4937,6 @@
 <ord>24</ord>
 </LM>
 </children>
-<eng_sentence>Despite their considerable incomes and assets, 40% of the respondents in the study don't feel financially secure, and one-fourth don't feel that they have made it.</eng_sentence>
 </LM>
 <LM id="a-wsj2366-001-p1s41">
 <s.rf>m#m-wsj2366-001-p1s41</s.rf>
@@ -5056,7 +5015,6 @@
 <ord>12</ord>
 </LM>
 </children>
-<eng_sentence>Twenty percent don't even feel they are financially well off.</eng_sentence>
 </LM>
 <LM id="a-wsj2366-001-p1s42">
 <s.rf>m#m-wsj2366-001-p1s42</s.rf>
@@ -5116,7 +5074,6 @@
 <ord>9</ord>
 </LM>
 </children>
-<eng_sentence>Many of the affluent aren't comfortable with themselves, either.</eng_sentence>
 </LM>
 <LM id="a-wsj2366-001-p1s43">
 <s.rf>m#m-wsj2366-001-p1s43</s.rf>
@@ -5199,7 +5156,6 @@
 <ord>12</ord>
 </LM>
 </children>
-<eng_sentence>About 40% don't feel they're more able than others.</eng_sentence>
 </LM>
 <LM id="a-wsj2366-001-p1s44">
 <s.rf>m#m-wsj2366-001-p1s44</s.rf>
@@ -5385,7 +5341,6 @@
 <ord>29</ord>
 </LM>
 </children>
-<eng_sentence>While twothirds feel some guilt about being affluent, only 25% give $2,500  or more to charity each year.</eng_sentence>
 </LM>
 <LM id="a-wsj2366-001-p1s45">
 <s.rf>m#m-wsj2366-001-p1s45</s.rf>
@@ -5550,7 +5505,6 @@
 <ord>26</ord>
 </LM>
 </children>
-<eng_sentence>Thirty-five percent attend religious services regularly; at the same time, 60% feel that in life one sometimes has to compromise one's principles.</eng_sentence>
 </LM>
 <LM id="a-wsj2366-001-p1s46">
 <s.rf>m#m-wsj2366-001-p1s46</s.rf>
@@ -5562,7 +5516,6 @@
 <ord>1</ord>
 </LM>
 </children>
-<eng_sentence>Odds and Ends</eng_sentence>
 </LM>
 <LM id="a-wsj2366-001-p1s47">
 <s.rf>m#m-wsj2366-001-p1s47</s.rf>
@@ -5724,7 +5677,6 @@
 <ord>25</ord>
 </LM>
 </children>
-<eng_sentence>THE NUMBER of women and minorities who hold jobs in top management in the nation's largest banks has more than doubled since 1978.</eng_sentence>
 </LM>
 <LM id="a-wsj2366-001-p1s48">
 <s.rf>m#m-wsj2366-001-p1s48</s.rf>
@@ -5916,7 +5868,6 @@
 <ord>29</ord>
 </LM>
 </children>
-<eng_sentence>The American Bankers Association says that women make up 47% of officials and managers in the top 50 banks, up from 33% in 1978.</eng_sentence>
 </LM>
 <LM id="a-wsj2366-001-p1s49">
 <s.rf>m#m-wsj2366-001-p1s49</s.rf>
@@ -6019,7 +5970,6 @@
 <ord>16</ord>
 </LM>
 </children>
-<eng_sentence>The share of minorities in those positions has risen to 16% from 12%....</eng_sentence>
 </LM>
 <LM id="a-wsj2366-001-p1s50">
 <s.rf>m#m-wsj2366-001-p1s50</s.rf>
@@ -6138,7 +6088,6 @@
 <ord>18</ord>
 </LM>
 </children>
-<eng_sentence>Per-capita personal income in the U.S. grew faster than inflation last year, according to the Bureau of Economic Analysis.</eng_sentence>
 </LM>
 <LM id="a-wsj2366-001-p1s51">
 <s.rf>m#m-wsj2366-001-p1s51</s.rf>
@@ -6338,7 +6287,6 @@
 <ord>30</ord>
 </LM>
 </children>
-<eng_sentence>The amount of income divvied up for each man, woman and child was $16,489 in 1988, up 6.6% from $15,472 in 1987.</eng_sentence>
 </LM>
 <LM id="a-wsj2366-001-p1s52">
 <s.rf>m#m-wsj2366-001-p1s52</s.rf>
@@ -6465,7 +6413,6 @@
 <ord>20</ord>
 </LM>
 </children>
-<eng_sentence>Per capita personal income ranged from $11,116 in Mississippi to $23,059 in Connecticut....</eng_sentence>
 </LM>
 <LM id="a-wsj2366-001-p1s53">
 <s.rf>m#m-wsj2366-001-p1s53</s.rf>
@@ -6664,7 +6611,6 @@
 <ord>30</ord>
 </LM>
 </children>
-<eng_sentence>There are 13.1 million students in college this fall, up 2% from 1988, the National Center for Education Statistics estimates.</eng_sentence>
 </LM>
 <LM id="a-wsj2366-001-p1s54">
 <s.rf>m#m-wsj2366-001-p1s54</s.rf>
@@ -6749,7 +6695,6 @@
 <ord>12</ord>
 </LM>
 </children>
-<eng_sentence>About 54% are women, and 44% are part-time students.</eng_sentence>
 </LM>
 </trees>
 </adata>

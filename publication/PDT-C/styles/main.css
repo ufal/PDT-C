@@ -48,10 +48,10 @@ h5 {
   font-style: italic
 }
 
-a:link    {color: #056c96; text-decoration: none}
-a:visited    {color: #056c96; text-decoration: none}
+a:link    {color: #037d6b; text-decoration: none}
+a:visited    {color: #035d6b; text-decoration: none}
 a:active    {color: red; text-decoration: none}
-a:hover     {color: #08b8ff; text-decoration: underline}
+a:hover     {color: #033d6b; text-decoration: underline}
 [disabled] {
   color: #222222
 }

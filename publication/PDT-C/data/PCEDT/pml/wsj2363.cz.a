@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="aanot_schema.xml"/>
+<schema href="adata_c_schema.xml"/>
 <references>
 <reffile id="m" href="wsj2363.cz.m" name="mdata"/>
 <reffile id="w" href="wsj2363.cz.w" name="wdata"/>
@@ -246,7 +246,6 @@
 <ord>36</ord>
 </LM>
 </children>
-<eng_sentence>Interprovincial Pipe Line Co. said it will delay a proposed two-step, 830 million Canadian-dollar (US$705.6 million) expansion of its system because Canada's output of crude oil is shrinking.</eng_sentence>
 </LM>
 <LM id="a-wsj2363-001-p1s1">
 <s.rf>m#m-wsj2363-001-p1s1</s.rf>
@@ -568,7 +567,6 @@
 <ord>51</ord>
 </LM>
 </children>
-<eng_sentence>Interprovincial, Canada's biggest oil pipeline operator and a major transporter of crude to the U.S., said revised industry forecasts indicate that Canadian oil output will total about 1.64 million barrels a day by 1991, 8% lower than a previous estimate.</eng_sentence>
 </LM>
 <LM id="a-wsj2363-001-p1s2">
 <s.rf>m#m-wsj2363-001-p1s2</s.rf>
@@ -739,7 +737,6 @@
 <ord>26</ord>
 </LM>
 </children>
-<eng_sentence>Canadian crude production averaged about 1.69 million barrels a day during 1989's first half, about 1% below the 1988 level.</eng_sentence>
 </LM>
 <LM id="a-wsj2363-001-p1s3">
 <s.rf>m#m-wsj2363-001-p1s3</s.rf>
@@ -1048,7 +1045,6 @@
 <ord>48</ord>
 </LM>
 </children>
-<eng_sentence>``The capability of existing fields to deliver oil is dropping,'' and oil exploration activity is also down dramatically, as many producers shift their emphasis to natural gas, said Ronald Watkins, vice president for government and industry relations with Interprovincial's parent, Interhome Energy Inc.</eng_sentence>
 </LM>
 <LM id="a-wsj2363-001-p1s4">
 <s.rf>m#m-wsj2363-001-p1s4</s.rf>
@@ -1279,7 +1275,6 @@
 <ord>36</ord>
 </LM>
 </children>
-<eng_sentence>Mr. Watkins said volume on Interprovincial's system is down about 2% since January and is expected to fall further, making expansion unnecessary until perhaps the mid-1990s.</eng_sentence>
 </LM>
 <LM id="a-wsj2363-001-p1s5">
 <s.rf>m#m-wsj2363-001-p1s5</s.rf>
@@ -1361,7 +1356,6 @@
 <ord>13</ord>
 </LM>
 </children>
-<eng_sentence>``There has been a swing of the pendulum back to the gas side,'' he said.</eng_sentence>
 </LM>
 <LM id="a-wsj2363-001-p1s6">
 <s.rf>m#m-wsj2363-001-p1s6</s.rf>
@@ -1551,7 +1545,6 @@
 <ord>29</ord>
 </LM>
 </children>
-<eng_sentence>Many of Canada's oil and gas producers say the outlook for natural gas is better than it is for oil, and have shifted their exploration and development budgets accordingly.</eng_sentence>
 </LM>
 <LM id="a-wsj2363-001-p1s7">
 <s.rf>m#m-wsj2363-001-p1s7</s.rf>
@@ -1880,7 +1873,6 @@
 <ord>52</ord>
 </LM>
 </children>
-<eng_sentence>The number of active drilling rigs in Canada is down 30% from a year ago, and the number of completed oil wells is ``down more than that, due to the increasing focus on gas exploration,'' said Robert Feick, manager of crude oil with Calgary's Independent Petroleum Association of Canada, an industry group.</eng_sentence>
 </LM>
 <LM id="a-wsj2363-001-p1s8">
 <s.rf>m#m-wsj2363-001-p1s8</s.rf>
@@ -2039,7 +2031,6 @@
 <ord>24</ord>
 </LM>
 </children>
-<eng_sentence>Mr. Watkins said the main reason for the production decline is shrinking output of light crude from mature, conventional fields in western Canada.</eng_sentence>
 </LM>
 <LM id="a-wsj2363-001-p1s9">
 <s.rf>m#m-wsj2363-001-p1s9</s.rf>
@@ -2205,7 +2196,6 @@
 <ord>25</ord>
 </LM>
 </children>
-<eng_sentence>Interprovincial transports about 75% of all crude produced in western Canada, and almost 60% of Interprovincial's total volume consists of light crude.</eng_sentence>
 </LM>
 <LM id="a-wsj2363-001-p1s10">
 <s.rf>m#m-wsj2363-001-p1s10</s.rf>
@@ -2476,7 +2466,6 @@
 <ord>44</ord>
 </LM>
 </children>
-<eng_sentence>Nearly all of the crude oil that Canada exports to the U.S. is transported on Interprovincial's system, whose main line runs from Edmonton to major U.S. and Canadian cities in the Great Lakes region, including Chicago, Buffalo, Toronto and Montreal.</eng_sentence>
 </LM>
 <LM id="a-wsj2363-001-p1s11">
 <s.rf>m#m-wsj2363-001-p1s11</s.rf>
@@ -2700,7 +2689,6 @@
 <ord>35</ord>
 </LM>
 </children>
-<eng_sentence>Canada's current oil exports to the U.S. total about 600,000 barrels a day, or about 9.1% of net U.S. crude imports, said John Lichtblau, president of the New York-based Petroleum Industry Research Foundation.</eng_sentence>
 </LM>
 <LM id="a-wsj2363-001-p1s12">
 <s.rf>m#m-wsj2363-001-p1s12</s.rf>
@@ -2819,7 +2807,6 @@
 <ord>19</ord>
 </LM>
 </children>
-<eng_sentence>That ranks Canada as the fourth-largest source of imported crude, behind Saudi Arabia, Nigeria and Mexico.</eng_sentence>
 </LM>
 <LM id="a-wsj2363-001-p1s13">
 <s.rf>m#m-wsj2363-001-p1s13</s.rf>
@@ -3022,7 +3009,6 @@
 <ord>32</ord>
 </LM>
 </children>
-<eng_sentence>Mr. Lichtblau said Canada's declining crude output, combined with the fast-shrinking output of U.S. crude, will help intensify U.S. reliance on oil from overseas, particularly the Middle East.</eng_sentence>
 </LM>
 <LM id="a-wsj2363-001-p1s14">
 <s.rf>m#m-wsj2363-001-p1s14</s.rf>
@@ -3079,7 +3065,6 @@
 <ord>8</ord>
 </LM>
 </children>
-<eng_sentence>``It's very much a growing concern.</eng_sentence>
 </LM>
 <LM id="a-wsj2363-001-p1s15">
 <s.rf>m#m-wsj2363-001-p1s15</s.rf>
@@ -3173,7 +3158,6 @@
 <ord>15</ord>
 </LM>
 </children>
-<eng_sentence>But when something is inevitable, you learn to live with it,'' he said.</eng_sentence>
 </LM>
 <LM id="a-wsj2363-001-p1s16">
 <s.rf>m#m-wsj2363-001-p1s16</s.rf>
@@ -3397,7 +3381,6 @@
 <ord>35</ord>
 </LM>
 </children>
-<eng_sentence>Mr. Lichtblau stressed that the delay of Interprovincial's proposed expansion won't by itself increase U.S. dependence on offshore crude, however, since Canadian imports are limited in any case by Canada's falling output.</eng_sentence>
 </LM>
 <LM id="a-wsj2363-001-p1s17">
 <s.rf>m#m-wsj2363-001-p1s17</s.rf>
@@ -3639,7 +3622,6 @@
 <ord>39</ord>
 </LM>
 </children>
-<eng_sentence>Under terms of its proposed two-step expansion, which would have required regulatory approval, Interprovincial intended to add 200,000 barrels a day of additional capacity to its system, beginning with a modest expansion by 1991.</eng_sentence>
 </LM>
 <LM id="a-wsj2363-001-p1s18">
 <s.rf>m#m-wsj2363-001-p1s18</s.rf>
@@ -3699,7 +3681,6 @@
 <ord>9</ord>
 </LM>
 </children>
-<eng_sentence>The system currently has a capacity of 1.55 million barrels a day.</eng_sentence>
 </LM>
 </trees>
 </adata>

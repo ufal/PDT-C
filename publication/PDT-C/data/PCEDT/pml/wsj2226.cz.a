@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="aanot_schema.xml"/>
+<schema href="adata_c_schema.xml"/>
 <references>
 <reffile id="m" href="wsj2226.cz.m" name="mdata"/>
 <reffile id="w" href="wsj2226.cz.w" name="wdata"/>
@@ -155,7 +155,6 @@
 <ord>22</ord>
 </LM>
 </children>
-<eng_sentence>Health and Human Services Secretary Louis Sullivan has chosen Antonia Novello to be the next surgeon general, Bush administration officials said.</eng_sentence>
 </LM>
 <LM id="a-wsj2226-001-p1s1">
 <s.rf>m#m-wsj2226-001-p1s1</s.rf>
@@ -363,7 +362,6 @@
 <ord>33</ord>
 </LM>
 </children>
-<eng_sentence>If she is nominated by President Bush and confirmed by the Senate, Dr. Novello would succeed C. Everett Koop, who rattled liberals and conservatives alike with his outspoken views on a range of health issues.</eng_sentence>
 </LM>
 <LM id="a-wsj2226-001-p1s2">
 <s.rf>m#m-wsj2226-001-p1s2</s.rf>
@@ -505,7 +503,6 @@
 <ord>21</ord>
 </LM>
 </children>
-<eng_sentence>Dr. Novello, an expert on pediatric kidney diseases, is deputy director of the National Institute of Child Health and Human Development.</eng_sentence>
 </LM>
 <LM id="a-wsj2226-001-p1s3">
 <s.rf>m#m-wsj2226-001-p1s3</s.rf>
@@ -589,7 +586,6 @@
 <ord>13</ord>
 </LM>
 </children>
-<eng_sentence>She has also served on several task forces on acquired immune deficiency syndrome.</eng_sentence>
 </LM>
 <LM id="a-wsj2226-001-p1s4">
 <s.rf>m#m-wsj2226-001-p1s4</s.rf>
@@ -734,7 +730,6 @@
 <ord>22</ord>
 </LM>
 </children>
-<eng_sentence>Dr. Novello's office said she wouldn't talk with reporters, and it refused to release any information about her.</eng_sentence>
 </LM>
 <LM id="a-wsj2226-001-p1s5">
 <s.rf>m#m-wsj2226-001-p1s5</s.rf>
@@ -948,7 +943,6 @@
 <ord>33</ord>
 </LM>
 </children>
-<eng_sentence>The newsletter Medicine &amp; Health, which first disclosed her selection by Dr. Sullivan, said she is 44 years old and she studied at the University of Puerto Rico School of Medicine.</eng_sentence>
 </LM>
 </trees>
 </adata>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="aanot_schema.xml"/>
+<schema href="adata_c_schema.xml"/>
 <references>
 <reffile id="m" href="wsj2200.cz.m" name="mdata"/>
 <reffile id="w" href="wsj2200.cz.w" name="wdata"/>
@@ -301,7 +301,6 @@
 <ord>47</ord>
 </LM>
 </children>
-<eng_sentence>Influential members of the House Ways and Means Committee introduced legislation that would restrict how the new savings-and-loan bailout agency can raise capital, creating another potential obstacle to the government's sale of sick thrifts.</eng_sentence>
 </LM>
 <LM id="a-wsj2200-001-p1s1">
 <s.rf>m#m-wsj2200-001-p1s1</s.rf>
@@ -621,7 +620,6 @@
 <ord>52</ord>
 </LM>
 </children>
-<eng_sentence>The bill, whose backers include Chairman Dan Rostenkowski (D., Ill.), would prevent the Resolution Trust Corp. from raising temporary working capital by having an RTC-owned bank or thrift issue debt that wouldn't be counted on the federal budget.</eng_sentence>
 </LM>
 <LM id="a-wsj2200-001-p1s2">
 <s.rf>m#m-wsj2200-001-p1s2</s.rf>
@@ -791,7 +789,6 @@
 <ord>27</ord>
 </LM>
 </children>
-<eng_sentence>The bill intends to restrict the RTC to Treasury borrowings only, unless the agency receives specific congressional authorization.</eng_sentence>
 </LM>
 <LM id="a-wsj2200-001-p1s3">
 <s.rf>m#m-wsj2200-001-p1s3</s.rf>
@@ -1017,7 +1014,6 @@
 <ord>36</ord>
 </LM>
 </children>
-<eng_sentence>``Such agency `self-help' borrowing is unauthorized and expensive, far more expensive than direct Treasury borrowing,'' said Rep. Fortney Stark (D., Calif.), the bill's chief sponsor.</eng_sentence>
 </LM>
 <LM id="a-wsj2200-001-p1s4">
 <s.rf>m#m-wsj2200-001-p1s4</s.rf>
@@ -1176,7 +1172,6 @@
 <ord>24</ord>
 </LM>
 </children>
-<eng_sentence>The complex financing plan in the S&amp;L bailout law includes raising $30 billion from debt issued by the newly created RTC.</eng_sentence>
 </LM>
 <LM id="a-wsj2200-001-p1s5">
 <s.rf>m#m-wsj2200-001-p1s5</s.rf>
@@ -1334,7 +1329,6 @@
 <ord>25</ord>
 </LM>
 </children>
-<eng_sentence>This financing system was created in the new law in order to keep the bailout spending from swelling the budget deficit.</eng_sentence>
 </LM>
 <LM id="a-wsj2200-001-p1s6">
 <s.rf>m#m-wsj2200-001-p1s6</s.rf>
@@ -1457,7 +1451,6 @@
 <ord>20</ord>
 </LM>
 </children>
-<eng_sentence>Another $20 billion would be raised through Treasury bonds, which pay lower interest rates.</eng_sentence>
 </LM>
 <LM id="a-wsj2200-001-p1s7">
 <s.rf>m#m-wsj2200-001-p1s7</s.rf>
@@ -1643,7 +1636,6 @@
 <ord>30</ord>
 </LM>
 </children>
-<eng_sentence>But the RTC also requires ``working'' capital to maintain the bad assets of thrifts that are sold, until the assets can be sold separately.</eng_sentence>
 </LM>
 <LM id="a-wsj2200-001-p1s8">
 <s.rf>m#m-wsj2200-001-p1s8</s.rf>
@@ -1886,7 +1878,6 @@
 <ord>38</ord>
 </LM>
 </children>
-<eng_sentence>That debt would be paid off as the assets are sold, leaving the total spending for the bailout at $50 billion, or $166 billion including interest over 10 years.</eng_sentence>
 </LM>
 <LM id="a-wsj2200-001-p1s9">
 <s.rf>m#m-wsj2200-001-p1s9</s.rf>
@@ -2020,7 +2011,6 @@
 <ord>21</ord>
 </LM>
 </children>
-<eng_sentence>``It's a problem that clearly has to be resolved,'' said David Cooke, executive director of the RTC.</eng_sentence>
 </LM>
 <LM id="a-wsj2200-001-p1s10">
 <s.rf>m#m-wsj2200-001-p1s10</s.rf>
@@ -2225,7 +2215,6 @@
 <ord>32</ord>
 </LM>
 </children>
-<eng_sentence>The agency has already spent roughly $19 billion selling 34 insolvent S&amp;Ls, and it is likely to sell or merge 600 by the time the bailout concludes.</eng_sentence>
 </LM>
 <LM id="a-wsj2200-001-p1s11">
 <s.rf>m#m-wsj2200-001-p1s11</s.rf>
@@ -2423,7 +2412,6 @@
 <ord>31</ord>
 </LM>
 </children>
-<eng_sentence>Absent other working capital, he said, the RTC would be forced to delay other thrift resolutions until cash could be raised by selling the bad assets.</eng_sentence>
 </LM>
 <LM id="a-wsj2200-001-p1s12">
 <s.rf>m#m-wsj2200-001-p1s12</s.rf>
@@ -2548,7 +2536,6 @@
 <ord>20</ord>
 </LM>
 </children>
-<eng_sentence>``We would have to wait until we have collected on those assets before we can move forward,'' he said.</eng_sentence>
 </LM>
 <LM id="a-wsj2200-001-p1s13">
 <s.rf>m#m-wsj2200-001-p1s13</s.rf>
@@ -2634,7 +2621,6 @@
 <ord>13</ord>
 </LM>
 </children>
-<eng_sentence>The complicated language in the huge new law has muddied the fight.</eng_sentence>
 </LM>
 <LM id="a-wsj2200-001-p1s14">
 <s.rf>m#m-wsj2200-001-p1s14</s.rf>
@@ -2735,7 +2721,6 @@
 <ord>16</ord>
 </LM>
 </children>
-<eng_sentence>The law does allow the RTC to borrow from the Treasury up to $5 billion at any time.</eng_sentence>
 </LM>
 <LM id="a-wsj2200-001-p1s15">
 <s.rf>m#m-wsj2200-001-p1s15</s.rf>
@@ -2989,7 +2974,6 @@
 <ord>39</ord>
 </LM>
 </children>
-<eng_sentence>Moreover, it says the RTC's total obligations may not exceed $50 billion, but that figure is derived after including notes and other debt, and subtracting from it the market value of the assets the RTC holds.</eng_sentence>
 </LM>
 <LM id="a-wsj2200-001-p1s16">
 <s.rf>m#m-wsj2200-001-p1s16</s.rf>
@@ -3257,7 +3241,6 @@
 <ord>42</ord>
 </LM>
 </children>
-<eng_sentence>But Congress didn't anticipate or intend more public debt, say opponents of the RTC's working-capital plan, and Rep. Charles Schumer (D., N.Y.) said the RTC Oversight Board has been remiss in not keeping Congress informed.</eng_sentence>
 </LM>
 <LM id="a-wsj2200-001-p1s17">
 <s.rf>m#m-wsj2200-001-p1s17</s.rf>
@@ -3429,7 +3412,6 @@
 <ord>27</ord>
 </LM>
 </children>
-<eng_sentence>``That secrecy leads to a proposal like the one from Ways and Means, which seems to me sort of draconian,'' he said.</eng_sentence>
 </LM>
 <LM id="a-wsj2200-001-p1s18">
 <s.rf>m#m-wsj2200-001-p1s18</s.rf>
@@ -3556,7 +3538,6 @@
 <ord>19</ord>
 </LM>
 </children>
-<eng_sentence>``The RTC is going to have to pay a price of prior consultation on the Hill if they want that kind of flexibility.''</eng_sentence>
 </LM>
 <LM id="a-wsj2200-001-p1s19">
 <s.rf>m#m-wsj2200-001-p1s19</s.rf>
@@ -3646,7 +3627,6 @@
 <ord>13</ord>
 </LM>
 </children>
-<eng_sentence>The Ways and Means Committee will hold a hearing on the bill next Tuesday.</eng_sentence>
 </LM>
 </trees>
 </adata>

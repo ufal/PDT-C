@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="aanot_schema.xml"/>
+<schema href="adata_c_schema.xml"/>
 <references>
 <reffile id="m" href="wsj2321.cz.m" name="mdata"/>
 <reffile id="w" href="wsj2321.cz.w" name="wdata"/>
@@ -184,7 +184,6 @@
 <ord>28</ord>
 </LM>
 </children>
-<eng_sentence>With economic tension between the U.S. and Japan worsening, many Japanese had feared last week's visit from U.S. Trade Representative Carla Hills.</eng_sentence>
 </LM>
 <LM id="a-wsj2321-001-p1s1">
 <s.rf>m#m-wsj2321-001-p1s1</s.rf>
@@ -311,7 +310,6 @@
 <ord>20</ord>
 </LM>
 </children>
-<eng_sentence>They expected a new barrage of demands that Japan do something quickly to reduce its trade surplus with the U.S..</eng_sentence>
 </LM>
 <LM id="a-wsj2321-001-p1s2">
 <s.rf>m#m-wsj2321-001-p1s2</s.rf>
@@ -436,7 +434,6 @@
 <ord>18</ord>
 </LM>
 </children>
-<eng_sentence>Instead, they got a discussion of the need for the U.S. and Japan to work together and of the importance of the long-term view.</eng_sentence>
 </LM>
 <LM id="a-wsj2321-001-p1s3">
 <s.rf>m#m-wsj2321-001-p1s3</s.rf>
@@ -659,7 +656,6 @@
 <ord>36</ord>
 </LM>
 </children>
-<eng_sentence>Mrs. Hills' first trip to Japan as America's chief trade negotiator had a completely different tone from last month's visit by Commerce Secretary Robert A. Mosbacher.</eng_sentence>
 </LM>
 <LM id="a-wsj2321-001-p1s4">
 <s.rf>m#m-wsj2321-001-p1s4</s.rf>
@@ -820,7 +816,6 @@
 <ord>26</ord>
 </LM>
 </children>
-<eng_sentence>Mr. Mosbacher called for concrete results by next spring in negotiations over fundamental Japanese business practices that supposedly inhibit free trade.</eng_sentence>
 </LM>
 <LM id="a-wsj2321-001-p1s5">
 <s.rf>m#m-wsj2321-001-p1s5</s.rf>
@@ -980,7 +975,6 @@
 <ord>25</ord>
 </LM>
 </children>
-<eng_sentence>He said such results should be ``measurable in dollars and cents'' in reducing the U.S. trade deficit with Japan.</eng_sentence>
 </LM>
 <LM id="a-wsj2321-001-p1s6">
 <s.rf>m#m-wsj2321-001-p1s6</s.rf>
@@ -1220,7 +1214,6 @@
 <ord>37</ord>
 </LM>
 </children>
-<eng_sentence>But Mrs. Hills, speaking at a breakfast meeting of the American Chamber of Commerce in Japan on Saturday, stressed that the objective ``is not to get definitive action by spring or summer, it is rather to have a blueprint for action.''</eng_sentence>
 </LM>
 <LM id="a-wsj2321-001-p1s7">
 <s.rf>m#m-wsj2321-001-p1s7</s.rf>
@@ -1417,7 +1410,6 @@
 <ord>31</ord>
 </LM>
 </children>
-<eng_sentence>She added that she expected ``perhaps to have a down payment... some small step to convince the American people and the Japanese people that we're moving in earnest.''</eng_sentence>
 </LM>
 <LM id="a-wsj2321-001-p1s8">
 <s.rf>m#m-wsj2321-001-p1s8</s.rf>
@@ -1504,7 +1496,6 @@
 <ord>14</ord>
 </LM>
 </children>
-<eng_sentence>How such remarks translate into policy won't become clear for months.</eng_sentence>
 </LM>
 <LM id="a-wsj2321-001-p1s9">
 <s.rf>m#m-wsj2321-001-p1s9</s.rf>
@@ -1615,7 +1606,6 @@
 <ord>16</ord>
 </LM>
 </children>
-<eng_sentence>American and Japanese officials offered several theories for the difference in approach betwen Mr. Mosbacher and Mrs. Hills.</eng_sentence>
 </LM>
 <LM id="a-wsj2321-001-p1s10">
 <s.rf>m#m-wsj2321-001-p1s10</s.rf>
@@ -1687,7 +1677,6 @@
 <ord>11</ord>
 </LM>
 </children>
-<eng_sentence>Many called it simply a contrast in styles.</eng_sentence>
 </LM>
 <LM id="a-wsj2321-001-p1s11">
 <s.rf>m#m-wsj2321-001-p1s11</s.rf>
@@ -1748,7 +1737,6 @@
 <ord>9</ord>
 </LM>
 </children>
-<eng_sentence>But some saw it as a classic negotiating tactic.</eng_sentence>
 </LM>
 <LM id="a-wsj2321-001-p1s12">
 <s.rf>m#m-wsj2321-001-p1s12</s.rf>
@@ -1880,7 +1868,6 @@
 <ord>21</ord>
 </LM>
 </children>
-<eng_sentence>Others said the Bush administration may feel the rhetoric on both sides is getting out of hand.</eng_sentence>
 </LM>
 <LM id="a-wsj2321-001-p1s13">
 <s.rf>m#m-wsj2321-001-p1s13</s.rf>
@@ -2062,7 +2049,6 @@
 <ord>28</ord>
 </LM>
 </children>
-<eng_sentence>And some said it reflected the growing debate in Washington over pursuing free trade with Japan versus some kind of managed trade.</eng_sentence>
 </LM>
 <LM id="a-wsj2321-001-p1s14">
 <s.rf>m#m-wsj2321-001-p1s14</s.rf>
@@ -2314,7 +2300,6 @@
 <ord>40</ord>
 </LM>
 </children>
-<eng_sentence> Asked to compare her visit to Mr. Mosbacher's, Mrs. Hills replied: ``I didn't hear every word he spoke, but as a general proposition, I think we have a very consistent trade strategy in the Bush administration.''</eng_sentence>
 </LM>
 <LM id="a-wsj2321-001-p1s15">
 <s.rf>m#m-wsj2321-001-p1s15</s.rf>
@@ -2480,7 +2465,6 @@
 <ord>27</ord>
 </LM>
 </children>
-<eng_sentence>Yet more than one American official who sat in with her during three days of talks with Japanese officials said her tone often was surprisingly ``conciliatory.''</eng_sentence>
 </LM>
 <LM id="a-wsj2321-001-p1s16">
 <s.rf>m#m-wsj2321-001-p1s16</s.rf>
@@ -2617,7 +2601,6 @@
 <ord>22</ord>
 </LM>
 </children>
-<eng_sentence>``I think my line has been very consistent,'' Mrs. Hills said at a news conference Saturday afternoon.</eng_sentence>
 </LM>
 <LM id="a-wsj2321-001-p1s17">
 <s.rf>m#m-wsj2321-001-p1s17</s.rf>
@@ -2723,7 +2706,6 @@
 <ord>17</ord>
 </LM>
 </children>
-<eng_sentence>``I am painted sometimes as ferocious, perhaps because I have a ferocious list of statutes to implement.</eng_sentence>
 </LM>
 <LM id="a-wsj2321-001-p1s18">
 <s.rf>m#m-wsj2321-001-p1s18</s.rf>
@@ -2766,7 +2748,6 @@
 <ord>6</ord>
 </LM>
 </children>
-<eng_sentence>I don't feel very ferocious.</eng_sentence>
 </LM>
 <LM id="a-wsj2321-001-p1s19">
 <s.rf>m#m-wsj2321-001-p1s19</s.rf>
@@ -2824,7 +2805,6 @@
 <ord>9</ord>
 </LM>
 </children>
-<eng_sentence>I don't feel either hard or soft.</eng_sentence>
 </LM>
 <LM id="a-wsj2321-001-p1s20">
 <s.rf>m#m-wsj2321-001-p1s20</s.rf>
@@ -2907,7 +2887,6 @@
 <ord>11</ord>
 </LM>
 </children>
-<eng_sentence>I feel committed to the program of opening markets and expanding trade.''</eng_sentence>
 </LM>
 <LM id="a-wsj2321-001-p1s21">
 <s.rf>m#m-wsj2321-001-p1s21</s.rf>
@@ -3210,7 +3189,6 @@
 <ord>47</ord>
 </LM>
 </children>
-<eng_sentence>When she met the local press for the first time on Friday, Mrs. Hills firmly reiterated the need for progress in removing barriers to trade in forest products, satellites and supercomputers, three areas targeted under the Super 301 provision of the 1988 trade bill.</eng_sentence>
 </LM>
 <LM id="a-wsj2321-001-p1s22">
 <s.rf>m#m-wsj2321-001-p1s22</s.rf>
@@ -3282,7 +3260,6 @@
 <ord>11</ord>
 </LM>
 </children>
-<eng_sentence>She highlighted exclusionary business practices that the U.S. government has identified.</eng_sentence>
 </LM>
 <LM id="a-wsj2321-001-p1s23">
 <s.rf>m#m-wsj2321-001-p1s23</s.rf>
@@ -3378,7 +3355,6 @@
 <ord>14</ord>
 </LM>
 </children>
-<eng_sentence>But her main thrust was to promote the importance of world-wide free trade and open competition.</eng_sentence>
 </LM>
 <LM id="a-wsj2321-001-p1s24">
 <s.rf>m#m-wsj2321-001-p1s24</s.rf>
@@ -3506,7 +3482,6 @@
 <ord>19</ord>
 </LM>
 </children>
-<eng_sentence>She said the trade imbalance was mainly due to macroeconomic factors and shouldn't be tackled by setting quantitative targets.</eng_sentence>
 </LM>
 <LM id="a-wsj2321-001-p1s25">
 <s.rf>m#m-wsj2321-001-p1s25</s.rf>
@@ -3609,7 +3584,6 @@
 <ord>16</ord>
 </LM>
 </children>
-<eng_sentence>At her news conference for Japanese reporters, one economics journalist summed up the Japanese sense of relief.</eng_sentence>
 </LM>
 <LM id="a-wsj2321-001-p1s26">
 <s.rf>m#m-wsj2321-001-p1s26</s.rf>
@@ -3767,7 +3741,6 @@
 <ord>25</ord>
 </LM>
 </children>
-<eng_sentence>``My impression was that you would be a scary old lady,'' he said, drawing a few nervous chuckles from his colleagues.</eng_sentence>
 </LM>
 <LM id="a-wsj2321-001-p1s27">
 <s.rf>m#m-wsj2321-001-p1s27</s.rf>
@@ -3909,7 +3882,6 @@
 <ord>21</ord>
 </LM>
 </children>
-<eng_sentence>``But I am relieved to see that you are beautiful and gentle and intelligent and a person of integrity.''</eng_sentence>
 </LM>
 <LM id="a-wsj2321-001-p1s28">
 <s.rf>m#m-wsj2321-001-p1s28</s.rf>
@@ -4059,7 +4031,6 @@
 <ord>24</ord>
 </LM>
 </children>
-<eng_sentence>Mrs. Hills' remarks did raise questions, at least among some U.S. officials, about what exactly her stance is on U.S. access to the Japanese semiconductor market.</eng_sentence>
 </LM>
 <LM id="a-wsj2321-001-p1s29">
 <s.rf>m#m-wsj2321-001-p1s29</s.rf>
@@ -4159,7 +4130,6 @@
 <ord>15</ord>
 </LM>
 </children>
-<eng_sentence>The U.S. share of the Japanese market has been stuck around 10% for years.</eng_sentence>
 </LM>
 <LM id="a-wsj2321-001-p1s30">
 <s.rf>m#m-wsj2321-001-p1s30</s.rf>
@@ -4345,7 +4315,6 @@
 <ord>29</ord>
 </LM>
 </children>
-<eng_sentence>Many Americans have interpreted a 1986 agreement as assuring U.S. companies a 20% share by 1991, but the Japanese have denied making any such promise.</eng_sentence>
 </LM>
 <LM id="a-wsj2321-001-p1s31">
 <s.rf>m#m-wsj2321-001-p1s31</s.rf>
@@ -4487,7 +4456,6 @@
 <ord>22</ord>
 </LM>
 </children>
-<eng_sentence>At one of her news conferences, Mrs. Hills said, ``I believe we can do much better than 20%.''</eng_sentence>
 </LM>
 <LM id="a-wsj2321-001-p1s32">
 <s.rf>m#m-wsj2321-001-p1s32</s.rf>
@@ -4550,7 +4518,6 @@
 <ord>9</ord>
 </LM>
 </children>
-<eng_sentence>But she stressed, ``I am against managed trade.</eng_sentence>
 </LM>
 <LM id="a-wsj2321-001-p1s33">
 <s.rf>m#m-wsj2321-001-p1s33</s.rf>
@@ -4634,7 +4601,6 @@
 <ord>12</ord>
 </LM>
 </children>
-<eng_sentence>I will not enter into an agreement that stipulates to a percentage of the market.</eng_sentence>
 </LM>
 </trees>
 </adata>

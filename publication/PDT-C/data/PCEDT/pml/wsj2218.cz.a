@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="aanot_schema.xml"/>
+<schema href="adata_c_schema.xml"/>
 <references>
 <reffile id="m" href="wsj2218.cz.m" name="mdata"/>
 <reffile id="w" href="wsj2218.cz.w" name="wdata"/>
@@ -310,7 +310,6 @@
 <ord>46</ord>
 </LM>
 </children>
-<eng_sentence>BSN Corp. said it will begin an offer tomorrow to exchange up to one million of its common shares and all of its $16.6 million in 7 3/4% convertible debentures due 2001 for a package of new debt and common stock warrants.</eng_sentence>
 </LM>
 <LM id="a-wsj2218-001-p1s1">
 <s.rf>m#m-wsj2218-001-p1s1</s.rf>
@@ -521,7 +520,6 @@
 <ord>32</ord>
 </LM>
 </children>
-<eng_sentence>Under terms of the offer, the sporting goods maker will swap $9 face amount of 9 1/4% subordinated notes due 1996 and one warrant for each common share.</eng_sentence>
 </LM>
 <LM id="a-wsj2218-001-p1s2">
 <s.rf>m#m-wsj2218-001-p1s2</s.rf>
@@ -646,7 +644,6 @@
 <ord>20</ord>
 </LM>
 </children>
-<eng_sentence>Each warrant allows the holder to buy one BSN share for $10.75 a share at any time over the next seven years.</eng_sentence>
 </LM>
 <LM id="a-wsj2218-001-p1s3">
 <s.rf>m#m-wsj2218-001-p1s3</s.rf>
@@ -727,7 +724,6 @@
 <ord>12</ord>
 </LM>
 </children>
-<eng_sentence>BSN currently has 4.6 million common shares outstanding.</eng_sentence>
 </LM>
 <LM id="a-wsj2218-001-p1s4">
 <s.rf>m#m-wsj2218-001-p1s4</s.rf>
@@ -901,7 +897,6 @@
 <ord>27</ord>
 </LM>
 </children>
-<eng_sentence>BSN also is offering $850 face amount of new notes and 64 common-stock warrants for each $1,000 face amount of its convertible debt outstanding.</eng_sentence>
 </LM>
 <LM id="a-wsj2218-001-p1s5">
 <s.rf>m#m-wsj2218-001-p1s5</s.rf>
@@ -996,7 +991,6 @@
 <ord>14</ord>
 </LM>
 </children>
-<eng_sentence>The company said it can redeem the warrants at its option for $1 each.</eng_sentence>
 </LM>
 <LM id="a-wsj2218-001-p1s6">
 <s.rf>m#m-wsj2218-001-p1s6</s.rf>
@@ -1068,7 +1062,6 @@
 <ord>11</ord>
 </LM>
 </children>
-<eng_sentence>The offer isn't contingent on a certain amount of debt or stock being exchanged.</eng_sentence>
 </LM>
 <LM id="a-wsj2218-001-p1s7">
 <s.rf>m#m-wsj2218-001-p1s7</s.rf>
@@ -1196,7 +1189,6 @@
 <ord>19</ord>
 </LM>
 </children>
-<eng_sentence>BSN said it is making the offer to shrink its capital and increase shareholder value.</eng_sentence>
 </LM>
 <LM id="a-wsj2218-001-p1s8">
 <s.rf>m#m-wsj2218-001-p1s8</s.rf>
@@ -1481,7 +1473,6 @@
 <ord>44</ord>
 </LM>
 </children>
-<eng_sentence>If all the bondholders and holders of one million common shares accept the offer, BSN will increase its debt by $9 million, but it also will recognize a $2 million gain from retiring the old debt, said Michael J. Blumenfeld, president.</eng_sentence>
 </LM>
 <LM id="a-wsj2218-001-p1s9">
 <s.rf>m#m-wsj2218-001-p1s9</s.rf>
@@ -1563,7 +1554,6 @@
 <ord>13</ord>
 </LM>
 </children>
-<eng_sentence>``We have sufficient cash flow to handle that,'' he said.</eng_sentence>
 </LM>
 <LM id="a-wsj2218-001-p1s10">
 <s.rf>m#m-wsj2218-001-p1s10</s.rf>
@@ -1639,7 +1629,6 @@
 <ord>11</ord>
 </LM>
 </children>
-<eng_sentence>The offers are scheduled to expire in mid to late November.</eng_sentence>
 </LM>
 </trees>
 </adata>

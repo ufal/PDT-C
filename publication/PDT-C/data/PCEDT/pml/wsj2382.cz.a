@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="aanot_schema.xml" />
+<schema href="adata_c_schema.xml" />
 <references>
 <reffile id="m" name="mdata" href="wsj2382.cz.m" />
 <reffile id="w" name="wdata" href="wsj2382.cz.w" />
@@ -213,7 +213,6 @@
 <ord>31</ord>
 </LM>
 </children>
-<eng_sentence>Food and Drug Administration spokesman Jeff Nesbit said the agency has turned over evidence in a criminal investigation concerning Vitarine Pharmaceuticals Inc. to the U.S. Attorney's office in Baltimore.</eng_sentence>
 </LM>
 <LM id="a-wsj2382-001-p1s1">
 <s.rf>m#m-wsj2382-001-p1s1</s.rf>
@@ -346,7 +345,6 @@
 <ord>20</ord>
 </LM>
 </children>
-<eng_sentence>Neither Vitarine nor any of the Springfield Gardens, N.Y., company's officials or employees have been charged with any crimes.</eng_sentence>
 </LM>
 <LM id="a-wsj2382-001-p1s2">
 <s.rf>m#m-wsj2382-001-p1s2</s.rf>
@@ -510,7 +508,6 @@
 <ord>25</ord>
 </LM>
 </children>
-<eng_sentence>Vitarine won approval to market a version of a blood pressure medicine but acknowledged that it substituted a SmithKline Beecham PLC product as its own in tests.</eng_sentence>
 </LM>
 <LM id="a-wsj2382-001-p1s3">
 <s.rf>m#m-wsj2382-001-p1s3</s.rf>
@@ -658,7 +655,6 @@
 <ord>23</ord>
 </LM>
 </children>
-<eng_sentence>Mr. Nesbit also said the FDA has asked Bolar Pharmaceutical Co. to recall at the retail level its urinary tract antibiotic.</eng_sentence>
 </LM>
 <LM id="a-wsj2382-001-p1s4">
 <s.rf>m#m-wsj2382-001-p1s4</s.rf>
@@ -714,7 +710,6 @@
 <ord>9</ord>
 </LM>
 </children>
-<eng_sentence>But so far the company hasn't complied with that request, the spokesman said.</eng_sentence>
 </LM>
 <LM id="a-wsj2382-001-p1s5">
 <s.rf>m#m-wsj2382-001-p1s5</s.rf>
@@ -976,7 +971,6 @@
 <ord>41</ord>
 </LM>
 </children>
-<eng_sentence>Bolar, the subject of a criminal investigation by the FDA and the Inspector General's office of the Health and Human Services Department, only agreed to recall two strengths of its version of Macrodantin ``as far down as direct customers, mostly wholesalers,'' Mr. Nesbit said.</eng_sentence>
 </LM>
 <LM id="a-wsj2382-001-p1s6">
 <s.rf>m#m-wsj2382-001-p1s6</s.rf>
@@ -1126,7 +1120,6 @@
 <ord>23</ord>
 </LM>
 </children>
-<eng_sentence>Bolar, of Copiague, N.Y., earlier began a voluntary recall of both its 100 milligram and 50 milligram versions of the drug.</eng_sentence>
 </LM>
 <LM id="a-wsj2382-001-p1s7">
 <s.rf>m#m-wsj2382-001-p1s7</s.rf>
@@ -1313,7 +1306,6 @@
 <ord>30</ord>
 </LM>
 </children>
-<eng_sentence>The FDA has said it presented evidence it uncovered to the company indicating that Bolar substituted the brand-name product for its own to gain government approval to sell generic versions of Macrodantin.</eng_sentence>
 </LM>
 <LM id="a-wsj2382-001-p1s8">
 <s.rf>m#m-wsj2382-001-p1s8</s.rf>
@@ -1404,7 +1396,6 @@
 <ord>14</ord>
 </LM>
 </children>
-<eng_sentence>Bolar has denied that it switched the brand-name product for its own in such testing.</eng_sentence>
 </LM>
 </trees>
 </adata>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="aanot_schema.xml" />
+<schema href="adata_c_schema.xml" />
 <references>
 <reffile id="m" href="wsj2301.cz.m" name="mdata" />
 <reffile id="w" href="wsj2301.cz.w" name="wdata" />
@@ -176,7 +176,6 @@
 <ord>28</ord>
 </LM>
 </children>
-<eng_sentence>Concerning your Sept. 21 page-one article on Prince Charles and the leeches: It's a few hundred years since England has been a kingdom.</eng_sentence>
 </LM>
 <LM id="a-wsj2301-001-p1s1">
 <s.rf>m#m-wsj2301-001-p1s1</s.rf>
@@ -341,7 +340,6 @@
 <ord>28</ord>
 </LM>
 </children>
-<eng_sentence>It's now the United Kingdom of Great Britain and Northern Ireland, comprising Wales, Northern Ireland, Scotland, and... oh yes, England, too.</eng_sentence>
 </LM>
 <LM id="a-wsj2301-001-p1s2">
 <s.rf>m#m-wsj2301-001-p1s2</s.rf>
@@ -404,7 +402,6 @@
 <ord>10</ord>
 </LM>
 </children>
-<eng_sentence> Just thought you'd like to know.</eng_sentence>
 </LM>
 <LM id="a-wsj2301-001-p1s3">
 <s.rf>m#m-wsj2301-001-p1s3</s.rf>
@@ -419,7 +416,6 @@
 <ord>1</ord>
 </children>
 </children>
-<eng_sentence>George Morton</eng_sentence>
 </LM>
 </trees>
 </adata>

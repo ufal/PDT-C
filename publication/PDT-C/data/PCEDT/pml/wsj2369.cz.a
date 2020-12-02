@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="aanot_schema.xml"/>
+<schema href="adata_c_schema.xml"/>
 <references>
 <reffile id="m" href="wsj2369.cz.m" name="mdata"/>
 <reffile id="w" href="wsj2369.cz.w" name="wdata"/>
@@ -104,7 +104,6 @@
 <ord>14</ord>
 </LM>
 </children>
-<eng_sentence>Of all the ethnic tensions in America, which is the most troublesome right now?</eng_sentence>
 </LM>
 <LM id="a-wsj2369-001-p1s1">
 <s.rf>m#m-wsj2369-001-p1s1</s.rf>
@@ -199,7 +198,6 @@
 <ord>14</ord>
 </LM>
 </children>
-<eng_sentence>A good bet would be the tension between blacks and Jews in New York City.</eng_sentence>
 </LM>
 <LM id="a-wsj2369-001-p1s2">
 <s.rf>m#m-wsj2369-001-p1s2</s.rf>
@@ -392,7 +390,6 @@
 <ord>31</ord>
 </LM>
 </children>
-<eng_sentence>Or so it must seem to Jackie Mason, the veteran Jewish comedian appearing in a new ABC sitcom airing on Tuesday nights (9:30-10 p.m. EDT).</eng_sentence>
 </LM>
 <LM id="a-wsj2369-001-p1s3">
 <s.rf>m#m-wsj2369-001-p1s3</s.rf>
@@ -595,7 +592,6 @@
 <ord>32</ord>
 </LM>
 </children>
-<eng_sentence>Not only is Mr. Mason the star of ``Chicken Soup,'' he's also the inheritor of a comedic tradition dating back to ``Duck Soup,'' and he's currently a man in hot water.</eng_sentence>
 </LM>
 <LM id="a-wsj2369-001-p1s4">
 <s.rf>m#m-wsj2369-001-p1s4</s.rf>
@@ -867,7 +863,6 @@
 <ord>43</ord>
 </LM>
 </children>
-<eng_sentence>Here, in neutral language, is the gist of Mr. Mason's remarks, quoted first in the Village Voice while he was a paid spokesman for the Rudolph Giuliani mayoral campaign, and then in Newsweek after he and the campaign parted company.</eng_sentence>
 </LM>
 <LM id="a-wsj2369-001-p1s5">
 <s.rf>m#m-wsj2369-001-p1s5</s.rf>
@@ -1001,7 +996,6 @@
 <ord>21</ord>
 </LM>
 </children>
-<eng_sentence>Mr. Mason said that many Jewish voters feel guilty toward blacks, so they support black candidates uncritically.</eng_sentence>
 </LM>
 <LM id="a-wsj2369-001-p1s6">
 <s.rf>m#m-wsj2369-001-p1s6</s.rf>
@@ -1123,7 +1117,6 @@
 <ord>19</ord>
 </LM>
 </children>
-<eng_sentence>He said that many black voters feel bitter about racial discrimination, so they, too, support black candidates uncritically.</eng_sentence>
 </LM>
 <LM id="a-wsj2369-001-p1s7">
 <s.rf>m#m-wsj2369-001-p1s7</s.rf>
@@ -1233,7 +1226,6 @@
 <ord>17</ord>
 </LM>
 </children>
-<eng_sentence>He said that Jews have contributed more to black causes over the years than vice versa.</eng_sentence>
 </LM>
 <LM id="a-wsj2369-001-p1s8">
 <s.rf>m#m-wsj2369-001-p1s8</s.rf>
@@ -1281,7 +1273,6 @@
 <ord>7</ord>
 </LM>
 </children>
-<eng_sentence>Of course, Mr. Mason did not use neutral language.</eng_sentence>
 </LM>
 <LM id="a-wsj2369-001-p1s9">
 <s.rf>m#m-wsj2369-001-p1s9</s.rf>
@@ -1435,7 +1426,6 @@
 <ord>24</ord>
 </LM>
 </children>
-<eng_sentence>As a practitioner of ethnic humor from the old days on the Borscht Belt, live television and the nightclub circuit, Mr. Mason instinctively reached for the vernacular.</eng_sentence>
 </LM>
 <LM id="a-wsj2369-001-p1s10">
 <s.rf>m#m-wsj2369-001-p1s10</s.rf>
@@ -1600,7 +1590,6 @@
 <ord>25</ord>
 </LM>
 </children>
-<eng_sentence>He said Jews were ``sick with complexes''; and he called David Dinkins, Mr. Giuliani's black opponent, ``a fancy shvartze with a mustache.''</eng_sentence>
 </LM>
 <LM id="a-wsj2369-001-p1s11">
 <s.rf>m#m-wsj2369-001-p1s11</s.rf>
@@ -1756,7 +1745,6 @@
 <ord>25</ord>
 </LM>
 </children>
-<eng_sentence>If Mr. Mason had used less derogatory language to articulate his amateur analysis of the voting behavior of his fellow New Yorkers, would the water be quite so hot?</eng_sentence>
 </LM>
 <LM id="a-wsj2369-001-p1s12">
 <s.rf>m#m-wsj2369-001-p1s12</s.rf>
@@ -1943,7 +1931,6 @@
 <ord>28</ord>
 </LM>
 </children>
-<eng_sentence>It probably would, because few or none of the people upset by Mr. Mason's remarks have bothered to distinguish between the substance of his comments and the fact that he used insulting language.</eng_sentence>
 </LM>
 <LM id="a-wsj2369-001-p1s13">
 <s.rf>m#m-wsj2369-001-p1s13</s.rf>
@@ -2065,7 +2052,6 @@
 <ord>19</ord>
 </LM>
 </children>
-<eng_sentence>In addition, some of Mr. Mason's critics have implied that his type of ethnic humor is itself a form of racism.</eng_sentence>
 </LM>
 <LM id="a-wsj2369-001-p1s14">
 <s.rf>m#m-wsj2369-001-p1s14</s.rf>
@@ -2210,7 +2196,6 @@
 <ord>22</ord>
 </LM>
 </children>
-<eng_sentence>For example, the New York state counsel for the NAACP said that Mr. Mason is ``like a dinosaur.</eng_sentence>
 </LM>
 <LM id="a-wsj2369-001-p1s15">
 <s.rf>m#m-wsj2369-001-p1s15</s.rf>
@@ -2273,7 +2258,6 @@
 <ord>9</ord>
 </LM>
 </children>
-<eng_sentence>People are fast leaving the place where he is stuck.''</eng_sentence>
 </LM>
 <LM id="a-wsj2369-001-p1s16">
 <s.rf>m#m-wsj2369-001-p1s16</s.rf>
@@ -2513,7 +2497,6 @@
 <ord>38</ord>
 </LM>
 </children>
-<eng_sentence>These critics fail to distinguish between the type of ethnic humor that aims at disparaging another group, such as ``Polish jokes''; and the type that is double-edged, aiming inward as well as outward.</eng_sentence>
 </LM>
 <LM id="a-wsj2369-001-p1s17">
 <s.rf>m#m-wsj2369-001-p1s17</s.rf>
@@ -2711,7 +2694,6 @@
 <ord>31</ord>
 </LM>
 </children>
-<eng_sentence>The latter typically is the humor of the underdog, and it was perfected by both blacks and Jews on the minstrel and vaudeville stage as a means of mocking their white and gentile audiences along with themselves.</eng_sentence>
 </LM>
 <LM id="a-wsj2369-001-p1s18">
 <s.rf>m#m-wsj2369-001-p1s18</s.rf>
@@ -2859,7 +2841,6 @@
 <ord>23</ord>
 </LM>
 </children>
-<eng_sentence>In the hands of a zealot like Lenny Bruce, this double-edged blade could cut both the self and the audience to ribbons.</eng_sentence>
 </LM>
 <LM id="a-wsj2369-001-p1s19">
 <s.rf>m#m-wsj2369-001-p1s19</s.rf>
@@ -2977,7 +2958,6 @@
 <ord>18</ord>
 </LM>
 </children>
-<eng_sentence>But wielded by a pro like Jackie Mason, it is a constructive form of mischief.</eng_sentence>
 </LM>
 <LM id="a-wsj2369-001-p1s20">
 <s.rf>m#m-wsj2369-001-p1s20</s.rf>
@@ -2999,7 +2979,6 @@
 <ord>3</ord>
 </LM>
 </children>
-<eng_sentence>Why constructive?</eng_sentence>
 </LM>
 <LM id="a-wsj2369-001-p1s21">
 <s.rf>m#m-wsj2369-001-p1s21</s.rf>
@@ -3207,7 +3186,6 @@
 <ord>31</ord>
 </LM>
 </children>
-<eng_sentence>Because despite all the media prattle about comedy and politics not mixing, they are similar in one respect: Both can serve as mechanisms for easing tensions and facilitating the co-existence of groups in conflict.</eng_sentence>
 </LM>
 <LM id="a-wsj2369-001-p1s22">
 <s.rf>m#m-wsj2369-001-p1s22</s.rf>
@@ -3369,7 +3347,6 @@
 <ord>25</ord>
 </LM>
 </children>
-<eng_sentence>That's why it's dangerous to have well-intentioned thought police, on college campuses and elsewhere, taboo all critical mention of group differences.</eng_sentence>
 </LM>
 <LM id="a-wsj2369-001-p1s23">
 <s.rf>m#m-wsj2369-001-p1s23</s.rf>
@@ -3574,7 +3551,6 @@
 <ord>33</ord>
 </LM>
 </children>
-<eng_sentence>As Elizabeth Kristol wrote in the New York Times just before the Mason donnybrook, ``Perhaps intolerance would not boil over with such intensity if honest differences were allowed to simmer.''</eng_sentence>
 </LM>
 <LM id="a-wsj2369-001-p1s24">
 <s.rf>m#m-wsj2369-001-p1s24</s.rf>
@@ -3767,7 +3743,6 @@
 <ord>31</ord>
 </LM>
 </children>
-<eng_sentence>The question is, if group conflicts still exist (as undeniably they do), and if Mr. Mason's type of ethnic humor is passe, then what other means do we have for letting off steam?</eng_sentence>
 </LM>
 <LM id="a-wsj2369-001-p1s25">
 <s.rf>m#m-wsj2369-001-p1s25</s.rf>
@@ -3951,7 +3926,6 @@
 <ord>29</ord>
 </LM>
 </children>
-<eng_sentence> Don't say the TV sitcom, because that happens to be a genre that, in its desperate need to attract everybody and offend nobody, resembles politics more than it does comedy.</eng_sentence>
 </LM>
 <LM id="a-wsj2369-001-p1s26">
 <s.rf>m#m-wsj2369-001-p1s26</s.rf>
@@ -4187,7 +4161,6 @@
 <ord>37</ord>
 </LM>
 </children>
-<eng_sentence>It is true that the best sitcoms do allow group differences to simmer: yuppies vs. blue-collar Bostonians in ``Cheers''; children vs. adults in ``The Cosby Show.''</eng_sentence>
 </LM>
 <LM id="a-wsj2369-001-p1s27">
 <s.rf>m#m-wsj2369-001-p1s27</s.rf>
@@ -4267,7 +4240,6 @@
 <ord>12</ord>
 </LM>
 </children>
-<eng_sentence>But these are not the differences that make headlines.</eng_sentence>
 </LM>
 <LM id="a-wsj2369-001-p1s28">
 <s.rf>m#m-wsj2369-001-p1s28</s.rf>
@@ -4564,7 +4536,6 @@
 <ord>47</ord>
 </LM>
 </children>
-<eng_sentence>In ``Chicken Soup,'' Mr. Mason plays Jackie, a Jewish bachelor courting Maddie (Lynn Redgrave), an Irish widow and mother of three, against the wishes of his mother (Rita Karin) and her brother Michael (Brandon Maggart).</eng_sentence>
 </LM>
 <LM id="a-wsj2369-001-p1s29">
 <s.rf>m#m-wsj2369-001-p1s29</s.rf>
@@ -4636,7 +4607,6 @@
 <ord>11</ord>
 </LM>
 </children>
-<eng_sentence>It's worth noting that both disapproving relatives are immigrants.</eng_sentence>
 </LM>
 <LM id="a-wsj2369-001-p1s30">
 <s.rf>m#m-wsj2369-001-p1s30</s.rf>
@@ -4717,7 +4687,6 @@
 <ord>12</ord>
 </LM>
 </children>
-<eng_sentence>At least, they both speak with strong accents, as do Jackie and Maddie.</eng_sentence>
 </LM>
 <LM id="a-wsj2369-001-p1s31">
 <s.rf>m#m-wsj2369-001-p1s31</s.rf>
@@ -4813,7 +4782,6 @@
 <ord>15</ord>
 </LM>
 </children>
-<eng_sentence>It couldn't be more obvious that ``Chicken Soup'' is being made from an old recipe.</eng_sentence>
 </LM>
 <LM id="a-wsj2369-001-p1s32">
 <s.rf>m#m-wsj2369-001-p1s32</s.rf>
@@ -4951,7 +4919,6 @@
 <ord>21</ord>
 </LM>
 </children>
-<eng_sentence>And a safe one -- imagine if the romance in question were between an Orthodox Jew and a member of the Nation of Islam.</eng_sentence>
 </LM>
 <LM id="a-wsj2369-001-p1s33">
 <s.rf>m#m-wsj2369-001-p1s33</s.rf>
@@ -5285,7 +5252,6 @@
 <ord>53</ord>
 </LM>
 </children>
-<eng_sentence>Back in the 1920s, the play and movie versions of ``Abie's Irish Rose'' made the theme of courtship between the assimilated offspring of Jewish and Irish immigrants so popular that its author, Anne Nichols, lost a plagiarism suit on the grounds that the plot has entered the public domain.</eng_sentence>
 </LM>
 <LM id="a-wsj2369-001-p1s34">
 <s.rf>m#m-wsj2369-001-p1s34</s.rf>
@@ -5574,7 +5540,6 @@
 <ord>46</ord>
 </LM>
 </children>
-<eng_sentence>And it has remained there, as evidenced by its reappearance in a 1972 CBS sitcom called ``Bridget Loves Bernie,'' whose sole distinction was that it led to the real-life marriage of Meredith Baxter and David Birney.</eng_sentence>
 </LM>
 <LM id="a-wsj2369-001-p1s35">
 <s.rf>m#m-wsj2369-001-p1s35</s.rf>
@@ -5689,7 +5654,6 @@
 <ord>18</ord>
 </LM>
 </children>
-<eng_sentence>Clearly, the question with ``Chicken Soup'' is not whether the pot will boil over, but whether it will simmer at all.</eng_sentence>
 </LM>
 <LM id="a-wsj2369-001-p1s36">
 <s.rf>m#m-wsj2369-001-p1s36</s.rf>
@@ -5739,7 +5703,6 @@
 <ord>7</ord>
 </LM>
 </children>
-<eng_sentence>So far, the bubbles have been few and far between.</eng_sentence>
 </LM>
 <LM id="a-wsj2369-001-p1s37">
 <s.rf>m#m-wsj2369-001-p1s37</s.rf>
@@ -5858,7 +5821,6 @@
 <ord>18</ord>
 </LM>
 </children>
-<eng_sentence>Part of the problem is the tendency of all sitcoms, ever since the didactic days of Norman Lear, to preach about social issues.</eng_sentence>
 </LM>
 <LM id="a-wsj2369-001-p1s38">
 <s.rf>m#m-wsj2369-001-p1s38</s.rf>
@@ -5983,7 +5945,6 @@
 <ord>20</ord>
 </LM>
 </children>
-<eng_sentence>To some extent, this tendency emerges whenever the show tries to enlighten us about ethnic stereotypes by reversing them.</eng_sentence>
 </LM>
 <LM id="a-wsj2369-001-p1s39">
 <s.rf>m#m-wsj2369-001-p1s39</s.rf>
@@ -6173,7 +6134,6 @@
 <ord>31</ord>
 </LM>
 </children>
-<eng_sentence>For instance, Michael dislikes Jackie not because he's a shrewd Jewish businessman, but because he quits his well-paying job as a salesman in order to become a social worker.</eng_sentence>
 </LM>
 <LM id="a-wsj2369-001-p1s40">
 <s.rf>m#m-wsj2369-001-p1s40</s.rf>
@@ -6263,7 +6223,6 @@
 <ord>13</ord>
 </LM>
 </children>
-<eng_sentence>Even more problematic is the incompatibility between sitcom preachiness and Mr. Mason's comic persona.</eng_sentence>
 </LM>
 <LM id="a-wsj2369-001-p1s41">
 <s.rf>m#m-wsj2369-001-p1s41</s.rf>
@@ -6514,7 +6473,6 @@
 <ord>39</ord>
 </LM>
 </children>
-<eng_sentence>The best moments in the show occur at the beginning and the end (and occasionally in the middle), when Mr. Mason slips into his standup mode and starts meting out that old-fashioned Jewish mischief to other people as well as to himself.</eng_sentence>
 </LM>
 <LM id="a-wsj2369-001-p1s42">
 <s.rf>m#m-wsj2369-001-p1s42</s.rf>
@@ -6697,7 +6655,6 @@
 <ord>28</ord>
 </LM>
 </children>
-<eng_sentence>But too often, these routines lack spark because this sitcom, like all sitcoms, is timid about confronting Mr. Mason's stock in trade - ethnic differences.</eng_sentence>
 </LM>
 <LM id="a-wsj2369-001-p1s43">
 <s.rf>m#m-wsj2369-001-p1s43</s.rf>
@@ -6832,7 +6789,6 @@
 <ord>20</ord>
 </LM>
 </children>
-<eng_sentence>I'm not suggesting that the producers start putting together episodes about topics like the Catholic-Jewish dispute over the Carmelite convent at Auschwitz.</eng_sentence>
 </LM>
 <LM id="a-wsj2369-001-p1s44">
 <s.rf>m#m-wsj2369-001-p1s44</s.rf>
@@ -7011,7 +6967,6 @@
 <ord>28</ord>
 </LM>
 </children>
-<eng_sentence>That issue, like racial tensions in New York City, will have to cool down, not heat up, before it can simmer.</eng_sentence>
 </LM>
 <LM id="a-wsj2369-001-p1s45">
 <s.rf>m#m-wsj2369-001-p1s45</s.rf>
@@ -7238,7 +7193,6 @@
 <ord>35</ord>
 </LM>
 </children>
-<eng_sentence>But I am suggesting that they stop requiring Mr. Mason to interrupt his classic shtik with some line about ``caring for other people'' that would sound shmaltzy on the lips of Miss America.</eng_sentence>
 </LM>
 <LM id="a-wsj2369-001-p1s46">
 <s.rf>m#m-wsj2369-001-p1s46</s.rf>
@@ -7359,7 +7313,6 @@
 <ord>19</ord>
 </LM>
 </children>
-<eng_sentence>At your age, Jackie, you ought to know that you can't make soup without turning up the flame.</eng_sentence>
 </LM>
 </trees>
 </adata>

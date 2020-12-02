@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="aanot_schema.xml"/>
+<schema href="adata_c_schema.xml"/>
 <references>
 <reffile id="m" href="wsj2346.cz.m" name="mdata"/>
 <reffile id="w" href="wsj2346.cz.w" name="wdata"/>
@@ -169,7 +169,6 @@
 <ord>25</ord>
 </LM>
 </children>
-<eng_sentence>The real estate slump that's pushing down the price of New York office space and housing is also affecting the city's retail real estate market.</eng_sentence>
 </LM>
 <LM id="a-wsj2346-001-p1s1">
 <s.rf>m#m-wsj2346-001-p1s1</s.rf>
@@ -281,7 +280,6 @@
 <ord>17</ord>
 </LM>
 </children>
-<eng_sentence>In Manhattan, once-desirable store sites sit vacant and newly constructed space has been slow to fill.</eng_sentence>
 </LM>
 <LM id="a-wsj2346-001-p1s2">
 <s.rf>m#m-wsj2346-001-p1s2</s.rf>
@@ -498,7 +496,6 @@
 <ord>34</ord>
 </LM>
 </children>
-<eng_sentence>Retail real estate brokers say tenants are reluctant to sign leases because of uncertainty about the local economy, turmoil in their own industries and a belief that rents have not yet hit bottom.</eng_sentence>
 </LM>
 <LM id="a-wsj2346-001-p1s3">
 <s.rf>m#m-wsj2346-001-p1s3</s.rf>
@@ -651,7 +648,6 @@
 <ord>24</ord>
 </LM>
 </children>
-<eng_sentence>``There is an unbelievable amount of space available,'' says Faith Consolo, senior vice president at Garrick-Aug Associates Store Leasing Inc.</eng_sentence>
 </LM>
 <LM id="a-wsj2346-001-p1s4">
 <s.rf>m#m-wsj2346-001-p1s4</s.rf>
@@ -767,7 +763,6 @@
 <ord>17</ord>
 </LM>
 </children>
-<eng_sentence>There are about 2,000 stores for rent, up from a more typical range of 1,200 to 1,500.</eng_sentence>
 </LM>
 <LM id="a-wsj2346-001-p1s5">
 <s.rf>m#m-wsj2346-001-p1s5</s.rf>
@@ -823,7 +818,6 @@
 <ord>9</ord>
 </LM>
 </children>
-<eng_sentence>``This further confuses retailers,'' she says.</eng_sentence>
 </LM>
 <LM id="a-wsj2346-001-p1s6">
 <s.rf>m#m-wsj2346-001-p1s6</s.rf>
@@ -922,7 +916,6 @@
 <ord>16</ord>
 </LM>
 </children>
-<eng_sentence>``They wonder should they sign a lease if prices are still coming down?</eng_sentence>
 </LM>
 <LM id="a-wsj2346-001-p1s7">
 <s.rf>m#m-wsj2346-001-p1s7</s.rf>
@@ -977,7 +970,6 @@
 <ord>8</ord>
 </LM>
 </children>
-<eng_sentence>Is this the wrong time to open a store?</eng_sentence>
 </LM>
 <LM id="a-wsj2346-001-p1s8">
 <s.rf>m#m-wsj2346-001-p1s8</s.rf>
@@ -1035,7 +1027,6 @@
 <ord>8</ord>
 </LM>
 </children>
-<eng_sentence>Who is going to be in the space next door?''</eng_sentence>
 </LM>
 <LM id="a-wsj2346-001-p1s9">
 <s.rf>m#m-wsj2346-001-p1s9</s.rf>
@@ -1174,7 +1165,6 @@
 <ord>22</ord>
 </LM>
 </children>
-<eng_sentence>In addition, Ms. Consolo says, tenants usually can negotiate to pay rents that are about one-quarter lower than landlords' initial asking price.</eng_sentence>
 </LM>
 <LM id="a-wsj2346-001-p1s10">
 <s.rf>m#m-wsj2346-001-p1s10</s.rf>
@@ -1355,7 +1345,6 @@
 <ord>29</ord>
 </LM>
 </children>
-<eng_sentence>A handful of hot retail locations, such as the 57th Street and Madison and Fifth Avenue areas, have been able to sustain what many see as astronomical rents.</eng_sentence>
 </LM>
 <LM id="a-wsj2346-001-p1s11">
 <s.rf>m#m-wsj2346-001-p1s11</s.rf>
@@ -1423,7 +1412,6 @@
 <ord>10</ord>
 </LM>
 </children>
-<eng_sentence>And, in some neighborhoods, rents have merely hit a plateau.</eng_sentence>
 </LM>
 <LM id="a-wsj2346-001-p1s12">
 <s.rf>m#m-wsj2346-001-p1s12</s.rf>
@@ -1567,7 +1555,6 @@
 <ord>22</ord>
 </LM>
 </children>
-<eng_sentence>But on average, Manhattan retail rents have dropped 10% to 15% in the past six months alone, experts say.</eng_sentence>
 </LM>
 <LM id="a-wsj2346-001-p1s13">
 <s.rf>m#m-wsj2346-001-p1s13</s.rf>
@@ -1730,7 +1717,6 @@
 <ord>26</ord>
 </LM>
 </children>
-<eng_sentence>That follows a more subtle decline in the prior six months, after Manhattan rents had run up rapidly since 1986.</eng_sentence>
 </LM>
 <LM id="a-wsj2346-001-p1s14">
 <s.rf>m#m-wsj2346-001-p1s14</s.rf>
@@ -1821,7 +1807,6 @@
 <ord>14</ord>
 </LM>
 </children>
-<eng_sentence>The same factors limiting demand for office space have affected retailing.</eng_sentence>
 </LM>
 <LM id="a-wsj2346-001-p1s15">
 <s.rf>m#m-wsj2346-001-p1s15</s.rf>
@@ -2044,7 +2029,6 @@
 <ord>36</ord>
 </LM>
 </children>
-<eng_sentence>``As businesses contract or depart, the number of employees who might use retail services shrinks,'' says Edward A. Friedman, senior vice president of Helmsley Spear Inc.</eng_sentence>
 </LM>
 <LM id="a-wsj2346-001-p1s16">
 <s.rf>m#m-wsj2346-001-p1s16</s.rf>
@@ -2241,7 +2225,6 @@
 <ord>31</ord>
 </LM>
 </children>
-<eng_sentence>He says financial problems plaguing electronics, fur and furniture companies -- key categories in the local retail economy -- have further deflated the market.</eng_sentence>
 </LM>
 <LM id="a-wsj2346-001-p1s17">
 <s.rf>m#m-wsj2346-001-p1s17</s.rf>
@@ -2385,7 +2368,6 @@
 <ord>23</ord>
 </LM>
 </children>
-<eng_sentence>Hardest hit are what he calls ``secondary'' sites that primarily serve neighborhood residents.</eng_sentence>
 </LM>
 <LM id="a-wsj2346-001-p1s18">
 <s.rf>m#m-wsj2346-001-p1s18</s.rf>
@@ -2599,7 +2581,6 @@
 <ord>33</ord>
 </LM>
 </children>
-<eng_sentence>In these locations, Mr. Friedman says, ``Retailers are increasingly cautious about expanding and rents have remained steady or in some cases have declined.''</eng_sentence>
 </LM>
 <LM id="a-wsj2346-001-p1s19">
 <s.rf>m#m-wsj2346-001-p1s19</s.rf>
@@ -2705,7 +2686,6 @@
 <ord>17</ord>
 </LM>
 </children>
-<eng_sentence>Weakness in the restaurant industry, which is leaving retail space vacant, exacerbates the problem for landlords.</eng_sentence>
 </LM>
 <LM id="a-wsj2346-001-p1s20">
 <s.rf>m#m-wsj2346-001-p1s20</s.rf>
@@ -2870,7 +2850,6 @@
 <ord>26</ord>
 </LM>
 </children>
-<eng_sentence>It is also no comfort to landlords and small New York retailers when the future of larger department stores, which anchor retail neighborhoods, are in doubt.</eng_sentence>
 </LM>
 <LM id="a-wsj2346-001-p1s21">
 <s.rf>m#m-wsj2346-001-p1s21</s.rf>
@@ -3107,7 +3086,6 @@
 <ord>36</ord>
 </LM>
 </children>
-<eng_sentence>Hooker Corp., parent of Bonwit Teller and B. Altman's, is mired in bankruptcy proceedings and Bloomingdale's is for sale by its owner, Campeau Corp.</eng_sentence>
 </LM>
 <LM id="a-wsj2346-001-p1s22">
 <s.rf>m#m-wsj2346-001-p1s22</s.rf>
@@ -3276,7 +3254,6 @@
 <ord>26</ord>
 </LM>
 </children>
-<eng_sentence>The trend toward lower rents may seem surprising given that some communities in New York are bemoaning the loss of favorite local businesses to high rents.</eng_sentence>
 </LM>
 <LM id="a-wsj2346-001-p1s23">
 <s.rf>m#m-wsj2346-001-p1s23</s.rf>
@@ -3472,7 +3449,6 @@
 <ord>31</ord>
 </LM>
 </children>
-<eng_sentence>But, despite the recent softening, for many of these retailers there's still been too big a jump from the rental rates of the late 1970s, when their leases were signed.</eng_sentence>
 </LM>
 <LM id="a-wsj2346-001-p1s24">
 <s.rf>m#m-wsj2346-001-p1s24</s.rf>
@@ -3547,7 +3523,6 @@
 <ord>12</ord>
 </LM>
 </children>
-<eng_sentence>Certainly, the recent drop in prices doesn't mean Manhattan comes cheap.</eng_sentence>
 </LM>
 <LM id="a-wsj2346-001-p1s25">
 <s.rf>m#m-wsj2346-001-p1s25</s.rf>
@@ -3657,7 +3632,6 @@
 <ord>17</ord>
 </LM>
 </children>
-<eng_sentence>New York retail rents still run well above the going rate in other U.S. cities.</eng_sentence>
 </LM>
 <LM id="a-wsj2346-001-p1s26">
 <s.rf>m#m-wsj2346-001-p1s26</s.rf>
@@ -3824,7 +3798,6 @@
 <ord>25</ord>
 </LM>
 </children>
-<eng_sentence>Madison and Fifth Avenues and East 57th Street can command rents of up to $500 a square foot, and $250 is not uncommon.</eng_sentence>
 </LM>
 <LM id="a-wsj2346-001-p1s27">
 <s.rf>m#m-wsj2346-001-p1s27</s.rf>
@@ -3992,7 +3965,6 @@
 <ord>25</ord>
 </LM>
 </children>
-<eng_sentence>The thriving 34th Street area offers rents of about $100 a square foot, as do up-and-coming locations along lower Fifth Avenue.</eng_sentence>
 </LM>
 <LM id="a-wsj2346-001-p1s28">
 <s.rf>m#m-wsj2346-001-p1s28</s.rf>
@@ -4150,7 +4122,6 @@
 <ord>24</ord>
 </LM>
 </children>
-<eng_sentence>By contrast, rentals in the best retail locations in Boston, San Francisco and Chicago rarely top $100 a square foot.</eng_sentence>
 </LM>
 <LM id="a-wsj2346-001-p1s29">
 <s.rf>m#m-wsj2346-001-p1s29</s.rf>
@@ -4265,7 +4236,6 @@
 <ord>17</ord>
 </LM>
 </children>
-<eng_sentence>And rents on Beverly Hills' Rodeo Drive generally don't exceed about $125 a square foot.</eng_sentence>
 </LM>
 <LM id="a-wsj2346-001-p1s30">
 <s.rf>m#m-wsj2346-001-p1s30</s.rf>
@@ -4380,7 +4350,6 @@
 <ord>18</ord>
 </LM>
 </children>
-<eng_sentence>The New York Stock Exchange said two securities will begin trading this week.</eng_sentence>
 </LM>
 <LM id="a-wsj2346-001-p1s31">
 <s.rf>m#m-wsj2346-001-p1s31</s.rf>
@@ -4473,7 +4442,6 @@
 <ord>14</ord>
 </LM>
 </children>
-<eng_sentence>Precision Castparts Corp., Portland, Ore., will begin trading with the symbol PCP.</eng_sentence>
 </LM>
 <LM id="a-wsj2346-001-p1s32">
 <s.rf>m#m-wsj2346-001-p1s32</s.rf>
@@ -4544,7 +4512,6 @@
 <ord>10</ord>
 </LM>
 </children>
-<eng_sentence>It makes investment castings and has traded over-the-counter.</eng_sentence>
 </LM>
 <LM id="a-wsj2346-001-p1s33">
 <s.rf>m#m-wsj2346-001-p1s33</s.rf>
@@ -4759,7 +4726,6 @@
 <ord>34</ord>
 </LM>
 </children>
-<eng_sentence>Royal Bank of Scotland Group PLC, an Edinburgh, Scotland, financial services company, will list American depositary shares, representing preferred shares, with the symbol RBSPr.</eng_sentence>
 </LM>
 <LM id="a-wsj2346-001-p1s34">
 <s.rf>m#m-wsj2346-001-p1s34</s.rf>
@@ -4838,7 +4804,6 @@
 <ord>12</ord>
 </LM>
 </children>
-<eng_sentence>It will continue to trade on the International Stock Exchange, London.</eng_sentence>
 </LM>
 <LM id="a-wsj2346-001-p1s35">
 <s.rf>m#m-wsj2346-001-p1s35</s.rf>
@@ -4912,7 +4877,6 @@
 <ord>11</ord>
 </LM>
 </children>
-<eng_sentence>The American Stock Exchange listed shares of two companies.</eng_sentence>
 </LM>
 <LM id="a-wsj2346-001-p1s36">
 <s.rf>m#m-wsj2346-001-p1s36</s.rf>
@@ -5060,7 +5024,6 @@
 <ord>23</ord>
 </LM>
 </children>
-<eng_sentence>AIM Telephones Inc., a Parsippany, N.J., telecommunications equipment supply company, started trading with the symbol AIM.</eng_sentence>
 </LM>
 <LM id="a-wsj2346-001-p1s37">
 <s.rf>m#m-wsj2346-001-p1s37</s.rf>
@@ -5096,7 +5059,6 @@
 <ord>5</ord>
 </LM>
 </children>
-<eng_sentence>It had traded over-the-counter.</eng_sentence>
 </LM>
 <LM id="a-wsj2346-001-p1s38">
 <s.rf>m#m-wsj2346-001-p1s38</s.rf>
@@ -5184,7 +5146,6 @@
 <ord>13</ord>
 </LM>
 </children>
-<eng_sentence>Columbia Laboratories Inc., Miami, began trading with the symbol COB.</eng_sentence>
 </LM>
 <LM id="a-wsj2346-001-p1s39">
 <s.rf>m#m-wsj2346-001-p1s39</s.rf>
@@ -5237,7 +5198,6 @@
 <ord>8</ord>
 </LM>
 </children>
-<eng_sentence>The pharmaceuticals maker had traded over-the-counter.</eng_sentence>
 </LM>
 <LM id="a-wsj2346-001-p1s40">
 <s.rf>m#m-wsj2346-001-p1s40</s.rf>
@@ -5316,7 +5276,6 @@
 <ord>12</ord>
 </LM>
 </children>
-<eng_sentence>The National Market System of the Nasdaq over-the-counter market listed shares of one company.</eng_sentence>
 </LM>
 <LM id="a-wsj2346-001-p1s41">
 <s.rf>m#m-wsj2346-001-p1s41</s.rf>
@@ -5417,7 +5376,6 @@
 <ord>16</ord>
 </LM>
 </children>
-<eng_sentence>Employee Benefit Plans Inc., a Minneapolis health-care services company, was listed with the symbol EBPI.</eng_sentence>
 </LM>
 </trees>
 </adata>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="aanot_schema.xml"/>
+<schema href="adata_c_schema.xml"/>
 <references>
 <reffile id="m" href="wsj2241.cz.m" name="mdata"/>
 <reffile id="w" href="wsj2241.cz.w" name="wdata"/>
@@ -164,7 +164,6 @@
 <ord>24</ord>
 </LM>
 </children>
-<eng_sentence>Laidlaw Transportation Ltd. said it raised its stake in ADT Ltd. of Bermuda to 29.4% from 28%.</eng_sentence>
 </LM>
 <LM id="a-wsj2241-001-p1s1">
 <s.rf>m#m-wsj2241-001-p1s1</s.rf>
@@ -405,7 +404,6 @@
 <ord>39</ord>
 </LM>
 </children>
-<eng_sentence>A spokesman for Laidlaw declined to disclose the price the Toronto transportation and waste services concern paid for the additional shares, which he said were acquired ``over the last couple of weeks.''</eng_sentence>
 </LM>
 <LM id="a-wsj2241-001-p1s2">
 <s.rf>m#m-wsj2241-001-p1s2</s.rf>
@@ -708,7 +706,6 @@
 <ord>50</ord>
 </LM>
 </children>
-<eng_sentence>The spokesman said Laidlaw wouldn't increase its stake in ADT beyond 30% ``without a great deal of thought'' because of British takeover regulations that require a company acquiring more than 30% to extend an offer to the rest of the company's shareholders.</eng_sentence>
 </LM>
 <LM id="a-wsj2241-001-p1s3">
 <s.rf>m#m-wsj2241-001-p1s3</s.rf>
@@ -842,7 +839,6 @@
 <ord>21</ord>
 </LM>
 </children>
-<eng_sentence>ADT, a security services and auctions company, trades on London's Stock Exchange.</eng_sentence>
 </LM>
 <LM id="a-wsj2241-001-p1s4">
 <s.rf>m#m-wsj2241-001-p1s4</s.rf>
@@ -1003,7 +999,6 @@
 <ord>25</ord>
 </LM>
 </children>
-<eng_sentence>Laidlaw is 47%-controlled by Canadian Pacific Ltd., a Montreal transportation, resources and industrial holding concern.</eng_sentence>
 </LM>
 </trees>
 </adata>

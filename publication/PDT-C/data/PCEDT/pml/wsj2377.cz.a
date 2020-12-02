@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="aanot_schema.xml"/>
+<schema href="adata_c_schema.xml"/>
 <references>
 <reffile id="m" href="wsj2377.cz.m" name="mdata"/>
 <reffile id="w" href="wsj2377.cz.w" name="wdata"/>
@@ -185,7 +185,6 @@
 <ord>27</ord>
 </LM>
 </children>
-<eng_sentence> Regarding the Oct. 3 letter to the editor from Rep. Tom Lantos, chairman of the House Subcommittee on Employment and Housing, alleging:</eng_sentence>
 </LM>
 <LM id="a-wsj2377-001-p1s1">
 <s.rf>m#m-wsj2377-001-p1s1</s.rf>
@@ -316,7 +315,6 @@
 <ord>20</ord>
 </LM>
 </children>
-<eng_sentence>1. That your Sept. 28 editorial ``Kangaroo Committees'' was factually inaccurate and deliberately misleading.</eng_sentence>
 </LM>
 <LM id="a-wsj2377-001-p1s2">
 <s.rf>m#m-wsj2377-001-p1s2</s.rf>
@@ -409,7 +407,6 @@
 <ord>14</ord>
 </LM>
 </children>
-<eng_sentence>I thought your editorial was factually accurate and deliberately elucidative.</eng_sentence>
 </LM>
 <LM id="a-wsj2377-001-p1s3">
 <s.rf>m#m-wsj2377-001-p1s3</s.rf>
@@ -490,7 +487,6 @@
 <ord>12</ord>
 </LM>
 </children>
-<eng_sentence>2. That Mr. Lantos supported the rights of the witnesses to take the Fifth Amendment.</eng_sentence>
 </LM>
 <LM id="a-wsj2377-001-p1s4">
 <s.rf>m#m-wsj2377-001-p1s4</s.rf>
@@ -528,7 +524,6 @@
 <ord>5</ord>
 </LM>
 </children>
-<eng_sentence>Yes, he did.</eng_sentence>
 </LM>
 <LM id="a-wsj2377-001-p1s5">
 <s.rf>m#m-wsj2377-001-p1s5</s.rf>
@@ -717,7 +712,6 @@
 <ord>30</ord>
 </LM>
 </children>
-<eng_sentence>As I watched him on C-Span, I heard him speak those lovely words about the Bill of Rights, which he quotes from the transcript of the hearings.</eng_sentence>
 </LM>
 <LM id="a-wsj2377-001-p1s6">
 <s.rf>m#m-wsj2377-001-p1s6</s.rf>
@@ -806,7 +800,6 @@
 <ord>14</ord>
 </LM>
 </children>
-<eng_sentence>He did repeat those nice platitudes several times as an indication of his support for the Constitution.</eng_sentence>
 </LM>
 <LM id="a-wsj2377-001-p1s7">
 <s.rf>m#m-wsj2377-001-p1s7</s.rf>
@@ -873,7 +866,6 @@
 <ord>10</ord>
 </LM>
 </children>
-<eng_sentence>He used about 56 words defending the witnesses' constitutional rights.</eng_sentence>
 </LM>
 <LM id="a-wsj2377-001-p1s8">
 <s.rf>m#m-wsj2377-001-p1s8</s.rf>
@@ -1023,7 +1015,6 @@
 <ord>24</ord>
 </LM>
 </children>
-<eng_sentence>Unfortunately, by my rough guess, he used better than 5,000 words heaping scorn on the witnesses for exercising the Fifth.</eng_sentence>
 </LM>
 <LM id="a-wsj2377-001-p1s9">
 <s.rf>m#m-wsj2377-001-p1s9</s.rf>
@@ -1109,7 +1100,6 @@
 <ord>13</ord>
 </LM>
 </children>
-<eng_sentence>He sandwiched his praise of constitutional meat between large loaves of bilious commentary.</eng_sentence>
 </LM>
 <LM id="a-wsj2377-001-p1s10">
 <s.rf>m#m-wsj2377-001-p1s10</s.rf>
@@ -1346,7 +1336,6 @@
 <ord>37</ord>
 </LM>
 </children>
-<eng_sentence>As your editorial rightly pointed out, Samuel Pierce, former HUD secretary, and Lance Wilson, Mr. Pierce's former aide, ``are currently being held up to scorn for taking the Fifth Amendment.</eng_sentence>
 </LM>
 <LM id="a-wsj2377-001-p1s11">
 <s.rf>m#m-wsj2377-001-p1s11</s.rf>
@@ -1434,7 +1423,6 @@
 <ord>14</ord>
 </LM>
 </children>
-<eng_sentence>'' That certainly is not the supposed ``distorted reading'' indicated by Mr. Lantos.</eng_sentence>
 </LM>
 <LM id="a-wsj2377-001-p1s12">
 <s.rf>m#m-wsj2377-001-p1s12</s.rf>
@@ -1528,7 +1516,6 @@
 <ord>15</ord>
 </LM>
 </children>
-<eng_sentence>3. That his ``committee does not deal with any possible criminal activity at HUD.</eng_sentence>
 </LM>
 <LM id="a-wsj2377-001-p1s13">
 <s.rf>m#m-wsj2377-001-p1s13</s.rf>
@@ -1634,7 +1621,6 @@
 <ord>13</ord>
 </LM>
 </children>
-<eng_sentence>My colleagues and I fully realize we are not a court... etc.''</eng_sentence>
 </LM>
 <LM id="a-wsj2377-001-p1s14">
 <s.rf>m#m-wsj2377-001-p1s14</s.rf>
@@ -1658,7 +1644,6 @@
 <ord>3</ord>
 </LM>
 </children>
-<eng_sentence>Absolute rubbish.</eng_sentence>
 </LM>
 <LM id="a-wsj2377-001-p1s15">
 <s.rf>m#m-wsj2377-001-p1s15</s.rf>
@@ -1782,7 +1767,6 @@
 <ord>19</ord>
 </LM>
 </children>
-<eng_sentence>By any ``reasonable man'' criterion, Mr. Lantos and his colleagues have a whole bunch of people tried and convicted.</eng_sentence>
 </LM>
 <LM id="a-wsj2377-001-p1s16">
 <s.rf>m#m-wsj2377-001-p1s16</s.rf>
@@ -1818,7 +1802,6 @@
 <ord>5</ord>
 </LM>
 </children>
-<eng_sentence>Apparently, their verdict is in.</eng_sentence>
 </LM>
 <LM id="a-wsj2377-001-p1s17">
 <s.rf>m#m-wsj2377-001-p1s17</s.rf>
@@ -1867,7 +1850,6 @@
 <ord>7</ord>
 </LM>
 </children>
-<eng_sentence>Right now they're pursuing evidence.</eng_sentence>
 </LM>
 <LM id="a-wsj2377-001-p1s18">
 <s.rf>m#m-wsj2377-001-p1s18</s.rf>
@@ -1954,7 +1936,6 @@
 <ord>13</ord>
 </LM>
 </children>
-<eng_sentence>That's not a bad way to proceed, just somewhat different from standard American practice.</eng_sentence>
 </LM>
 <LM id="a-wsj2377-001-p1s19">
 <s.rf>m#m-wsj2377-001-p1s19</s.rf>
@@ -2036,7 +2017,6 @@
 <ord>13</ord>
 </LM>
 </children>
-<eng_sentence>How was that practice referred to when I was in school?</eng_sentence>
 </LM>
 <LM id="a-wsj2377-001-p1s20">
 <s.rf>m#m-wsj2377-001-p1s20</s.rf>
@@ -2109,7 +2089,6 @@
 <ord>11</ord>
 </LM>
 </children>
-<eng_sentence>Ah, yes, something called a Star Chamber.</eng_sentence>
 </LM>
 <LM id="a-wsj2377-001-p1s21">
 <s.rf>m#m-wsj2377-001-p1s21</s.rf>
@@ -2218,7 +2197,6 @@
 <ord>17</ord>
 </LM>
 </children>
-<eng_sentence>Of course, Mr. Lantos doth protest that his subcommittee simply seeks information for legislative change.</eng_sentence>
 </LM>
 <LM id="a-wsj2377-001-p1s22">
 <s.rf>m#m-wsj2377-001-p1s22</s.rf>
@@ -2257,7 +2235,6 @@
 <ord>6</ord>
 </LM>
 </children>
-<eng_sentence>No doubt that's partially true.</eng_sentence>
 </LM>
 <LM id="a-wsj2377-001-p1s23">
 <s.rf>m#m-wsj2377-001-p1s23</s.rf>
@@ -2346,7 +2323,6 @@
 <ord>14</ord>
 </LM>
 </children>
-<eng_sentence>Everything that Mr. Lantos says in his letter is partially true.</eng_sentence>
 </LM>
 <LM id="a-wsj2377-001-p1s24">
 <s.rf>m#m-wsj2377-001-p1s24</s.rf>
@@ -2523,7 +2499,6 @@
 <ord>26</ord>
 </LM>
 </children>
-<eng_sentence>He's right about his subcommittee's responsibilities when it comes to obtaining information from prior HUD officials.</eng_sentence>
 </LM>
 <LM id="a-wsj2377-001-p1s25">
 <s.rf>m#m-wsj2377-001-p1s25</s.rf>
@@ -2649,7 +2624,6 @@
 <ord>20</ord>
 </LM>
 </children>
-<eng_sentence>But if his explanation of motivation is true, why is his investigation so oriented as to identify criminal activity?</eng_sentence>
 </LM>
 <LM id="a-wsj2377-001-p1s26">
 <s.rf>m#m-wsj2377-001-p1s26</s.rf>
@@ -2771,7 +2745,6 @@
 <ord>19</ord>
 </LM>
 </children>
-<eng_sentence>Why not simply questions designed to identify sources and causes of waste and inefficiency?</eng_sentence>
 </LM>
 <LM id="a-wsj2377-001-p1s27">
 <s.rf>m#m-wsj2377-001-p1s27</s.rf>
@@ -2914,7 +2887,6 @@
 <ord>22</ord>
 </LM>
 </children>
-<eng_sentence>Such as, what happened when Congress wanted to know about $400 toilet seats or whatever they supposedly cost?</eng_sentence>
 </LM>
 <LM id="a-wsj2377-001-p1s28">
 <s.rf>m#m-wsj2377-001-p1s28</s.rf>
@@ -2983,7 +2955,6 @@
 <ord>10</ord>
 </LM>
 </children>
-<eng_sentence>No, Mr. Lantos's complaints simply won't wash.</eng_sentence>
 </LM>
 <LM id="a-wsj2377-001-p1s29">
 <s.rf>m#m-wsj2377-001-p1s29</s.rf>
@@ -3243,7 +3214,6 @@
 <ord>42</ord>
 </LM>
 </children>
-<eng_sentence>4. That the Journal defends ``the sleaze, fraud, waste, embezzlement, influence-peddling and abuse of the public that took place while Mr. Pierce was secretary of HUD,'' etc. and so forth.</eng_sentence>
 </LM>
 <LM id="a-wsj2377-001-p1s30">
 <s.rf>m#m-wsj2377-001-p1s30</s.rf>
@@ -3404,7 +3374,6 @@
 <ord>25</ord>
 </LM>
 </children>
-<eng_sentence>No, to my mind, the Journal did not ``defend sleaze, fraud, waste, embezzlement, influence-peddling and abuse of the public trust...''</eng_sentence>
 </LM>
 <LM id="a-wsj2377-001-p1s31">
 <s.rf>m#m-wsj2377-001-p1s31</s.rf>
@@ -3466,7 +3435,6 @@
 <ord>9</ord>
 </LM>
 </children>
-<eng_sentence>it defended appropriate constitutional safeguards and practical common sense.</eng_sentence>
 </LM>
 <LM id="a-wsj2377-001-p1s32">
 <s.rf>m#m-wsj2377-001-p1s32</s.rf>
@@ -3731,7 +3699,6 @@
 <ord>42</ord>
 </LM>
 </children>
-<eng_sentence>The problem, which the Journal so rightly pointed out in a number of articles, is not the likes of Mr. Lantos, who after all is really a bit player on the stage, but the attempt by Congress to enhance itself into a quasi-parliamentary/judicial body.</eng_sentence>
 </LM>
 <LM id="a-wsj2377-001-p1s33">
 <s.rf>m#m-wsj2377-001-p1s33</s.rf>
@@ -3818,7 +3785,6 @@
 <ord>13</ord>
 </LM>
 </children>
-<eng_sentence>(Of course, we've also got a judiciary that seeks the same objective.)</eng_sentence>
 </LM>
 <LM id="a-wsj2377-001-p1s34">
 <s.rf>m#m-wsj2377-001-p1s34</s.rf>
@@ -3873,7 +3839,6 @@
 <ord>8</ord>
 </LM>
 </children>
-<eng_sentence>The system is the problem, not an individual member.</eng_sentence>
 </LM>
 <LM id="a-wsj2377-001-p1s35">
 <s.rf>m#m-wsj2377-001-p1s35</s.rf>
@@ -3921,7 +3886,6 @@
 <ord>7</ord>
 </LM>
 </children>
-<eng_sentence>Individuals can always have their hands slapped.</eng_sentence>
 </LM>
 <LM id="a-wsj2377-001-p1s36">
 <s.rf>m#m-wsj2377-001-p1s36</s.rf>
@@ -3995,7 +3959,6 @@
 <ord>11</ord>
 </LM>
 </children>
-<eng_sentence>It's when such slapping doesn't occur that we've got trouble.</eng_sentence>
 </LM>
 <LM id="a-wsj2377-001-p1s37">
 <s.rf>m#m-wsj2377-001-p1s37</s.rf>
@@ -4045,7 +4008,6 @@
 <ord>7</ord>
 </LM>
 </children>
-<eng_sentence>I do not by any means defend HUD management.</eng_sentence>
 </LM>
 <LM id="a-wsj2377-001-p1s38">
 <s.rf>m#m-wsj2377-001-p1s38</s.rf>
@@ -4300,7 +4262,6 @@
 <ord>41</ord>
 </LM>
 </children>
-<eng_sentence>But I think the kind of congressional investigation that has been pursued is a far greater danger to American notions of liberty and freedom than any incompetency (and, yes, maybe criminality) within HUD could possibly generate.</eng_sentence>
 </LM>
 <LM id="a-wsj2377-001-p1s39">
 <s.rf>m#m-wsj2377-001-p1s39</s.rf>
@@ -4420,7 +4381,6 @@
 <ord>19</ord>
 </LM>
 </children>
-<eng_sentence>The last time I saw a similar congressional hearing was when ``Tail Gunner Joe'' McCarthy did his work.</eng_sentence>
 </LM>
 <LM id="a-wsj2377-001-p1s40">
 <s.rf>m#m-wsj2377-001-p1s40</s.rf>
@@ -4439,7 +4399,6 @@
 </children>
 </LM>
 </children>
-<eng_sentence>Raymond Weber</eng_sentence>
 </LM>
 <LM id="a-wsj2377-001-p1s41">
 <s.rf>m#m-wsj2377-001-p1s41</s.rf>
@@ -4472,7 +4431,6 @@
 </children>
 </LM>
 </children>
-<eng_sentence>Parsippany, N.J.</eng_sentence>
 </LM>
 <LM id="a-wsj2377-001-p1s42">
 <s.rf>m#m-wsj2377-001-p1s42</s.rf>
@@ -4674,7 +4632,6 @@
 <ord>31</ord>
 </LM>
 </children>
-<eng_sentence>I disagree with the statement by Mr. Lantos that one should not draw an adverse inference against former HUD officials who assert their Fifth Amendment privilege against self-incrimination in congressional hearings.</eng_sentence>
 </LM>
 <LM id="a-wsj2377-001-p1s43">
 <s.rf>m#m-wsj2377-001-p1s43</s.rf>
@@ -4823,7 +4780,6 @@
 <ord>24</ord>
 </LM>
 </children>
-<eng_sentence>The Fifth Amendment states in relevant part that no person ``shall be compelled, in any criminal case, to be a witness against himself.''</eng_sentence>
 </LM>
 <LM id="a-wsj2377-001-p1s44">
 <s.rf>m#m-wsj2377-001-p1s44</s.rf>
@@ -4931,7 +4887,6 @@
 <ord>17</ord>
 </LM>
 </children>
-<eng_sentence>This privilege against self-incrimination precludes the drawing of an adverse inference against a criminal defendant who chooses not to testify.</eng_sentence>
 </LM>
 <LM id="a-wsj2377-001-p1s45">
 <s.rf>m#m-wsj2377-001-p1s45</s.rf>
@@ -5175,7 +5130,6 @@
 <ord>39</ord>
 </LM>
 </children>
-<eng_sentence>Thus, in a criminal case, a prosecutor can not comment on a defendant's failure to testify nor can the defendant be compelled to take the stand as a witness, thus forcing him to ``take the Fifth.''</eng_sentence>
 </LM>
 <LM id="a-wsj2377-001-p1s46">
 <s.rf>m#m-wsj2377-001-p1s46</s.rf>
@@ -5300,7 +5254,6 @@
 <ord>20</ord>
 </LM>
 </children>
-<eng_sentence>The privilege, however, has been limited in accordance with its plain language to protect the defendant in criminal matters only.</eng_sentence>
 </LM>
 <LM id="a-wsj2377-001-p1s47">
 <s.rf>m#m-wsj2377-001-p1s47</s.rf>
@@ -5489,7 +5442,6 @@
 <ord>30</ord>
 </LM>
 </children>
-<eng_sentence>The Supreme Court and some states have specifically recognized that ``the Fifth Amendment does not preclude the inference where the privilege is claimed by a party to a civil cause.''</eng_sentence>
 </LM>
 <LM id="a-wsj2377-001-p1s48">
 <s.rf>m#m-wsj2377-001-p1s48</s.rf>
@@ -5562,7 +5514,6 @@
 <ord>11</ord>
 </LM>
 </children>
-<eng_sentence>Baxter v. Palmingiano, 425 U.S. 308 (1976).</eng_sentence>
 </LM>
 <LM id="a-wsj2377-001-p1s49">
 <s.rf>m#m-wsj2377-001-p1s49</s.rf>
@@ -5806,7 +5757,6 @@
 <ord>37</ord>
 </LM>
 </children>
-<eng_sentence>Thus, in a civil case, a defendant may be called as a witness, he may be forced to testify or take the Fifth, and his taking of the Fifth may permit the drawing of an adverse inference against him in the civil matter.</eng_sentence>
 </LM>
 <LM id="a-wsj2377-001-p1s50">
 <s.rf>m#m-wsj2377-001-p1s50</s.rf>
@@ -6016,7 +5966,6 @@
 <ord>33</ord>
 </LM>
 </children>
-<eng_sentence>He may take the Fifth in a civil matter only if he has a good faith and justifiable belief that his testimony may subject him to criminal prosecution.</eng_sentence>
 </LM>
 <LM id="a-wsj2377-001-p1s51">
 <s.rf>m#m-wsj2377-001-p1s51</s.rf>
@@ -6320,7 +6269,6 @@
 <ord>49</ord>
 </LM>
 </children>
-<eng_sentence> Allowing the defendant to take the Fifth in a civil matter is not based on a constitutional right to refuse to testify where one's testimony harms him in the civil matter, but because the testimony in the civil matter could be unconstitutionally used against him in a subsequent criminal prosecution.</eng_sentence>
 </LM>
 <LM id="a-wsj2377-001-p1s52">
 <s.rf>m#m-wsj2377-001-p1s52</s.rf>
@@ -6412,7 +6360,6 @@
 <ord>14</ord>
 </LM>
 </children>
-<eng_sentence>Absent the risk of such prosecution, a court may order the defendant to testify.</eng_sentence>
 </LM>
 <LM id="a-wsj2377-001-p1s53">
 <s.rf>m#m-wsj2377-001-p1s53</s.rf>
@@ -6744,7 +6691,6 @@
 <ord>53</ord>
 </LM>
 </children>
-<eng_sentence>Thus, when Mr. Pierce asserted the Fifth in a noncriminal proceeding, particularly after presumably receiving extensive advice from legal counsel, one must conclude that he held a good-faith, justifiable belief that his testimony could be used against him in a subsequent criminal prosecution.</eng_sentence>
 </LM>
 <LM id="a-wsj2377-001-p1s54">
 <s.rf>m#m-wsj2377-001-p1s54</s.rf>
@@ -6957,7 +6903,6 @@
 <ord>33</ord>
 </LM>
 </children>
-<eng_sentence>The subcommittee, Congress and the American public have every right to draw the adverse inference and to concur with Mr. Pierce's own belief that his testimony could help convict him of a crime.</eng_sentence>
 </LM>
 <LM id="a-wsj2377-001-p1s55">
 <s.rf>m#m-wsj2377-001-p1s55</s.rf>
@@ -7062,7 +7007,6 @@
 <ord>16</ord>
 </LM>
 </children>
-<eng_sentence> Drawing the adverse inference in a noncriminal congressional hearing does not offend the Fifth Amendment shield against self-incrimination.</eng_sentence>
 </LM>
 <LM id="a-wsj2377-001-p1s56">
 <s.rf>m#m-wsj2377-001-p1s56</s.rf>
@@ -7103,7 +7047,6 @@
 <ord>6</ord>
 </LM>
 </children>
-<eng_sentence>Clark S. Spalsbury Jr.</eng_sentence>
 </LM>
 <LM id="a-wsj2377-001-p1s57">
 <s.rf>m#m-wsj2377-001-p1s57</s.rf>
@@ -7136,7 +7079,6 @@
 </children>
 </LM>
 </children>
-<eng_sentence>Estes Park, Colo.</eng_sentence>
 </LM>
 </trees>
 </adata>

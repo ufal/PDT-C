@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="aanot_schema.xml" />
+<schema href="adata_c_schema.xml" />
 <references>
 <reffile id="m" name="mdata" href="wsj2356.cz.m" />
 <reffile id="w" name="wdata" href="wsj2356.cz.w" />
@@ -142,7 +142,6 @@
 <ord>20</ord>
 </LM>
 </children>
-<eng_sentence>SOUTH AFRICA FREED the ANC's Sisulu and seven other political prisoners.</eng_sentence>
 </LM>
 <LM id="a-wsj2356-001-p1s1">
 <s.rf>m#m-wsj2356-001-p1s1</s.rf>
@@ -333,7 +332,6 @@
 <ord>30</ord>
 </LM>
 </children>
-<eng_sentence>Thousands of supporters, many brandishing flags of the outlawed African National Congress, gave the anti-apartheid activists a tumultuous reception upon their return to black townships across the country.</eng_sentence>
 </LM>
 <LM id="a-wsj2356-001-p1s2">
 <s.rf>m#m-wsj2356-001-p1s2</s.rf>
@@ -407,7 +405,6 @@
 <ord>11</ord>
 </LM>
 </children>
-<eng_sentence>Most of those freed had spent at least 25 years in prison.</eng_sentence>
 </LM>
 <LM id="a-wsj2356-001-p1s3">
 <s.rf>m#m-wsj2356-001-p1s3</s.rf>
@@ -651,7 +648,6 @@
 <ord>39</ord>
 </LM>
 </children>
-<eng_sentence>The 77-year-old Sisulu, sentenced to life in 1964 along with black nationalist Nelson Mandela for plotting to overthrow the government, said equality for blacks in South Africa was in reach.</eng_sentence>
 </LM>
 <LM id="a-wsj2356-001-p1s4">
 <s.rf>m#m-wsj2356-001-p1s4</s.rf>
@@ -779,7 +775,6 @@
 <ord>21</ord>
 </LM>
 </children>
-<eng_sentence>The releases, announced last week by President de Klerk, were viewed as Pretoria's tacit legalization of the ANC.</eng_sentence>
 </LM>
 <LM id="a-wsj2356-001-p1s5">
 <s.rf>m#m-wsj2356-001-p1s5</s.rf>
@@ -870,7 +865,6 @@
 <ord>14</ord>
 </LM>
 </children>
-<eng_sentence>Mandela, considered the most prominent leader of the ANC, remains in prison.</eng_sentence>
 </LM>
 <LM id="a-wsj2356-001-p1s6">
 <s.rf>m#m-wsj2356-001-p1s6</s.rf>
@@ -969,7 +963,6 @@
 <ord>15</ord>
 </LM>
 </children>
-<eng_sentence>But his release within the next few months is widely expected.</eng_sentence>
 </LM>
 <LM id="a-wsj2356-001-p1s7">
 <s.rf>m#m-wsj2356-001-p1s7</s.rf>
@@ -1234,7 +1227,6 @@
 <ord>40</ord>
 </LM>
 </children>
-<eng_sentence>The Soviet Union reported that thousands of tons of goods needed to ease widespread shortages across the nation were piled up at ports and rail depots, and food shipments were rotting because of a lack of people and equipment to move the cargo.</eng_sentence>
 </LM>
 <LM id="a-wsj2356-001-p1s8">
 <s.rf>m#m-wsj2356-001-p1s8</s.rf>
@@ -1346,7 +1338,6 @@
 <ord>17</ord>
 </LM>
 </children>
-<eng_sentence>Strikes and mismanagement were cited, and Premier Ryzhkov warned of ``tough measures.''</eng_sentence>
 </LM>
 <LM id="a-wsj2356-001-p1s9">
 <s.rf>m#m-wsj2356-001-p1s9</s.rf>
@@ -1562,7 +1553,6 @@
 <ord>35</ord>
 </LM>
 </children>
-<eng_sentence>Bush indicated there might be ``room for flexibility'' in a bill to allow federal funding of abortions for poor women who are vicitims of rape and incest.</eng_sentence>
 </LM>
 <LM id="a-wsj2356-001-p1s10">
 <s.rf>m#m-wsj2356-001-p1s10</s.rf>
@@ -1657,7 +1647,6 @@
 <ord>14</ord>
 </LM>
 </children>
-<eng_sentence>He reiterated his opposition to such funding, but expressed hope of a compromise.</eng_sentence>
 </LM>
 <LM id="a-wsj2356-001-p1s11">
 <s.rf>m#m-wsj2356-001-p1s11</s.rf>
@@ -1765,7 +1754,6 @@
 <ord>17</ord>
 </LM>
 </children>
-<eng_sentence>The president, at a news conference Friday, also renewed a call for the ouster of Panama's Noriega.</eng_sentence>
 </LM>
 <LM id="a-wsj2356-001-p1s12">
 <s.rf>m#m-wsj2356-001-p1s12</s.rf>
@@ -1863,7 +1851,6 @@
 <ord>15</ord>
 </LM>
 </children>
-<eng_sentence>The White House said minors haven't any right to abortion without the consent of their parents.</eng_sentence>
 </LM>
 <LM id="a-wsj2356-001-p1s13">
 <s.rf>m#m-wsj2356-001-p1s13</s.rf>
@@ -2013,7 +2000,6 @@
 <ord>23</ord>
 </LM>
 </children>
-<eng_sentence>The administration's policy was stated in a friend-of-the-court brief urging the Supreme Court to give states more leeway to restrict abortions.</eng_sentence>
 </LM>
 <LM id="a-wsj2356-001-p1s14">
 <s.rf>m#m-wsj2356-001-p1s14</s.rf>
@@ -2106,7 +2092,6 @@
 <ord>14</ord>
 </LM>
 </children>
-<eng_sentence>Ten of the nation's governors, meanwhile, called on the justices to reject efforts to limit abortions.</eng_sentence>
 </LM>
 <LM id="a-wsj2356-001-p1s15">
 <s.rf>m#m-wsj2356-001-p1s15</s.rf>
@@ -2225,7 +2210,6 @@
 <ord>18</ord>
 </LM>
 </children>
-<eng_sentence>The Justice Department announced that the FBI has been given the authority to seize U.S. fugitives overseas without the permission of foreign governments.</eng_sentence>
 </LM>
 <LM id="a-wsj2356-001-p1s16">
 <s.rf>m#m-wsj2356-001-p1s16</s.rf>
@@ -2375,7 +2359,6 @@
 <ord>23</ord>
 </LM>
 </children>
-<eng_sentence>Secretary of State Baker emphasized Friday that the new policy wouldn't be invoked by the Bush administration without full consideration of foreign-policy implications.</eng_sentence>
 </LM>
 <LM id="a-wsj2356-001-p1s17">
 <s.rf>m#m-wsj2356-001-p1s17</s.rf>
@@ -2516,7 +2499,6 @@
 <ord>22</ord>
 </LM>
 </children>
-<eng_sentence>NASA pronounced the space shuttle Atlantis ready for launch tomorrow following a five-day postponement of the flight because of a faulty engine computer.</eng_sentence>
 </LM>
 <LM id="a-wsj2356-001-p1s18">
 <s.rf>m#m-wsj2356-001-p1s18</s.rf>
@@ -2545,7 +2527,6 @@
 <ord>4</ord>
 </LM>
 </children>
-<eng_sentence>The device was replaced.</eng_sentence>
 </LM>
 <LM id="a-wsj2356-001-p1s19">
 <s.rf>m#m-wsj2356-001-p1s19</s.rf>
@@ -2667,7 +2648,6 @@
 <ord>19</ord>
 </LM>
 </children>
-<eng_sentence>The spacecraft's five astronauts are to dispatch the Galileo space probe on an exploration mission to Jupiter.</eng_sentence>
 </LM>
 <LM id="a-wsj2356-001-p1s20">
 <s.rf>m#m-wsj2356-001-p1s20</s.rf>
@@ -2836,7 +2816,6 @@
 <ord>26</ord>
 </LM>
 </children>
-<eng_sentence>South Korea's President Roh traveled to the U.S. for a five-day visit that is expected to focus on ties between Washington and Seoul.</eng_sentence>
 </LM>
 <LM id="a-wsj2356-001-p1s21">
 <s.rf>m#m-wsj2356-001-p1s21</s.rf>
@@ -3037,7 +3016,6 @@
 <ord>32</ord>
 </LM>
 </children>
-<eng_sentence>Roh, who is facing calls for the reduction of U.S. military forces in South Korea, is to meet with Bush tomorrow and is to address a joint session of Congress on Wednesday.</eng_sentence>
 </LM>
 <LM id="a-wsj2356-001-p1s22">
 <s.rf>m#m-wsj2356-001-p1s22</s.rf>
@@ -3195,7 +3173,6 @@
 <ord>25</ord>
 </LM>
 </children>
-<eng_sentence>China's Communist leadership voted to purge the party of ``hostile and anti-party elements'' and wealthy private businessmen, whom they called exploiters.</eng_sentence>
 </LM>
 <LM id="a-wsj2356-001-p1s23">
 <s.rf>m#m-wsj2356-001-p1s23</s.rf>
@@ -3359,7 +3336,6 @@
 <ord>27</ord>
 </LM>
 </children>
-<eng_sentence>The decision, reported by the official Xinhua News Agency, indicated that the crackdown prompted by student-led pro-democracy protests in June is intensifying.</eng_sentence>
 </LM>
 <LM id="a-wsj2356-001-p1s24">
 <s.rf>m#m-wsj2356-001-p1s24</s.rf>
@@ -3535,7 +3511,6 @@
 <ord>27</ord>
 </LM>
 </children>
-<eng_sentence>Hundreds of East Germans flocked to Bonn's Embassy in Warsaw, bringing to more than 1,200 the number of emigres expected to flee to the West beginning today.</eng_sentence>
 </LM>
 <LM id="a-wsj2356-001-p1s25">
 <s.rf>m#m-wsj2356-001-p1s25</s.rf>
@@ -3628,7 +3603,6 @@
 <ord>14</ord>
 </LM>
 </children>
-<eng_sentence>More than 2,100 others escaped to West Germany through Hungary over the Weekend.</eng_sentence>
 </LM>
 <LM id="a-wsj2356-001-p1s26">
 <s.rf>m#m-wsj2356-001-p1s26</s.rf>
@@ -3743,7 +3717,6 @@
 <ord>18</ord>
 </LM>
 </children>
-<eng_sentence>In Leipzig, activists vowed to continue street protests to demand internal change.</eng_sentence>
 </LM>
 <LM id="a-wsj2356-001-p1s27">
 <s.rf>m#m-wsj2356-001-p1s27</s.rf>
@@ -3937,7 +3910,6 @@
 <ord>29</ord>
 </LM>
 </children>
-<eng_sentence>Zaire's President Mobutu met in southern France with Angolan rebel leader Savimbi and a senior U.S. envoy in a bid to revive an accord to end Angola's civil war.</eng_sentence>
 </LM>
 <LM id="a-wsj2356-001-p1s28">
 <s.rf>m#m-wsj2356-001-p1s28</s.rf>
@@ -4038,7 +4010,6 @@
 <ord>16</ord>
 </LM>
 </children>
-<eng_sentence>Details of the talks, described by a Zairean official as ``very delicate,'' weren't disclosed.</eng_sentence>
 </LM>
 <LM id="a-wsj2356-001-p1s29">
 <s.rf>m#m-wsj2356-001-p1s29</s.rf>
@@ -4187,7 +4158,6 @@
 <ord>22</ord>
 </LM>
 </children>
-<eng_sentence>PLO leader Arafat insisted on guarantees that any elections in the Israeli-occupied territories would be impartial.</eng_sentence>
 </LM>
 <LM id="a-wsj2356-001-p1s30">
 <s.rf>m#m-wsj2356-001-p1s30</s.rf>
@@ -4242,7 +4212,6 @@
 <ord>8</ord>
 </LM>
 </children>
-<eng_sentence>He made his remarks to a PLO gathering in Baghdad.</eng_sentence>
 </LM>
 <LM id="a-wsj2356-001-p1s31">
 <s.rf>m#m-wsj2356-001-p1s31</s.rf>
@@ -4423,7 +4392,6 @@
 <ord>28</ord>
 </LM>
 </children>
-<eng_sentence>In the occupied lands, underground leaders of the Arab uprising rejected a U.S. plan to arrange Israeli-Palestinian talks as Shamir opposed holding such discussions in Cairo.</eng_sentence>
 </LM>
 <LM id="a-wsj2356-001-p1s32">
 <s.rf>m#m-wsj2356-001-p1s32</s.rf>
@@ -4571,7 +4539,6 @@
 <ord>23</ord>
 </LM>
 </children>
-<eng_sentence>Lebanese Christian lawmakers presented to Arab mediators at talks in Saudi Arabia proposals for a new timetable for the withdrawal of Syria's forces from Lebanon.</eng_sentence>
 </LM>
 <LM id="a-wsj2356-001-p1s33">
 <s.rf>m#m-wsj2356-001-p1s33</s.rf>
@@ -4724,7 +4691,6 @@
 <ord>24</ord>
 </LM>
 </children>
-<eng_sentence>A plan currently under study gives Damascus two years to pull back to eastern Lebanon, starting from the time Beirut's legislature increases political power for Moslems.</eng_sentence>
 </LM>
 <LM id="a-wsj2356-001-p1s34">
 <s.rf>m#m-wsj2356-001-p1s34</s.rf>
@@ -4845,7 +4811,6 @@
 <ord>18</ord>
 </LM>
 </children>
-<eng_sentence>Hurricane Jerry threatened to combine with the highest tides of the year to swamp the Texas-Louisiana coast.</eng_sentence>
 </LM>
 <LM id="a-wsj2356-001-p1s35">
 <s.rf>m#m-wsj2356-001-p1s35</s.rf>
@@ -5018,7 +4983,6 @@
 <ord>26</ord>
 </LM>
 </children>
-<eng_sentence>Thousands of residents of low-lying areas were ordered to evacuate as the storm headed north in the Gulf of Mexico with 80 mph winds.</eng_sentence>
 </LM>
 </trees>
 </adata>

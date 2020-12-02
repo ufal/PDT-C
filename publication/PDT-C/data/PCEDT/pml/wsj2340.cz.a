@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="aanot_schema.xml"/>
+<schema href="adata_c_schema.xml"/>
 <references>
 <reffile id="m" href="wsj2340.cz.m" name="mdata"/>
 <reffile id="w" href="wsj2340.cz.w" name="wdata"/>
@@ -258,7 +258,6 @@
 <ord>38</ord>
 </LM>
 </children>
-<eng_sentence>Weatherford International Inc. said it canceled plans for a preferred-stock swap but may resume payment of dividends on the stock, and added that it expects to publicly offer about 10 million common shares.</eng_sentence>
 </LM>
 <LM id="a-wsj2340-001-p1s1">
 <s.rf>m#m-wsj2340-001-p1s1</s.rf>
@@ -401,7 +400,6 @@
 <ord>22</ord>
 </LM>
 </children>
-<eng_sentence>The company said it planned to offer an undetermined number of common shares in exchange for the 585,000 shares of its preferred stock outstanding.</eng_sentence>
 </LM>
 <LM id="a-wsj2340-001-p1s2">
 <s.rf>m#m-wsj2340-001-p1s2</s.rf>
@@ -435,7 +433,6 @@
 <ord>5</ord>
 </LM>
 </children>
-<eng_sentence>The exchange ratio was never established.</eng_sentence>
 </LM>
 <LM id="a-wsj2340-001-p1s3">
 <s.rf>m#m-wsj2340-001-p1s3</s.rf>
@@ -523,7 +520,6 @@
 <ord>13</ord>
 </LM>
 </children>
-<eng_sentence>Weatherford said market conditions led to the cancellation of the planned exchange.</eng_sentence>
 </LM>
 <LM id="a-wsj2340-001-p1s4">
 <s.rf>m#m-wsj2340-001-p1s4</s.rf>
@@ -666,7 +662,6 @@
 <ord>21</ord>
 </LM>
 </children>
-<eng_sentence>The energy-services concern said, however, that in January 1990, it may resume payments of dividends on the preferred stock.</eng_sentence>
 </LM>
 <LM id="a-wsj2340-001-p1s5">
 <s.rf>m#m-wsj2340-001-p1s5</s.rf>
@@ -912,7 +907,6 @@
 <ord>37</ord>
 </LM>
 </children>
-<eng_sentence>Weatherford suspended its preferred-dividend payment in October 1985 and said it hasn't any plans to catch up on dividends in arrears about $6 million, but will do so some time in the future.</eng_sentence>
 </LM>
 <LM id="a-wsj2340-001-p1s6">
 <s.rf>m#m-wsj2340-001-p1s6</s.rf>
@@ -1073,7 +1067,6 @@
 <ord>26</ord>
 </LM>
 </children>
-<eng_sentence>Additionally, the company said it filed with the Securities and Exchange Commission for the proposed offering of 10 million shares of common stock, expected to be offered in November.</eng_sentence>
 </LM>
 <LM id="a-wsj2340-001-p1s7">
 <s.rf>m#m-wsj2340-001-p1s7</s.rf>
@@ -1305,7 +1298,6 @@
 <ord>37</ord>
 </LM>
 </children>
-<eng_sentence>The company said Salomon Brothers Inc. and Howard, Weil, Labouisse, Friedrichs Inc., underwriters for the offering, were granted an option to buy as much as an additional 1.5 million shares to cover over-allotments.</eng_sentence>
 </LM>
 <LM id="a-wsj2340-001-p1s8">
 <s.rf>m#m-wsj2340-001-p1s8</s.rf>
@@ -1372,7 +1364,6 @@
 <ord>10</ord>
 </LM>
 </children>
-<eng_sentence>Proceeds will be used to eliminate and restructure bank debt.</eng_sentence>
 </LM>
 <LM id="a-wsj2340-001-p1s9">
 <s.rf>m#m-wsj2340-001-p1s9</s.rf>
@@ -1439,7 +1430,6 @@
 <ord>10</ord>
 </LM>
 </children>
-<eng_sentence>Weatherford currently has approximately 11.1 million common shares outstanding.</eng_sentence>
 </LM>
 </trees>
 </adata>

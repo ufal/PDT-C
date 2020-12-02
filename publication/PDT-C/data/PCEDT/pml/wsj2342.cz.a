@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="aanot_schema.xml"/>
+<schema href="adata_c_schema.xml"/>
 <references>
 <reffile id="m" href="wsj2342.cz.m" name="mdata"/>
 <reffile id="w" href="wsj2342.cz.w" name="wdata"/>
@@ -240,7 +240,6 @@
 <ord>36</ord>
 </LM>
 </children>
-<eng_sentence>Amid a crowd of crashing stocks, Relational Technology Inc.'s stock fell particularly hard Friday, dropping 23% because its problems were compounded by disclosure of an unexpected loss for its fiscal first quarter.</eng_sentence>
 </LM>
 <LM id="a-wsj2342-001-p1s1">
 <s.rf>m#m-wsj2342-001-p1s1</s.rf>
@@ -407,7 +406,6 @@
 <ord>26</ord>
 </LM>
 </children>
-<eng_sentence>The database software company said it expects a $2 million net loss for the fiscal first quarter ended Sept. 30.</eng_sentence>
 </LM>
 <LM id="a-wsj2342-001-p1s2">
 <s.rf>m#m-wsj2342-001-p1s2</s.rf>
@@ -486,7 +484,6 @@
 <ord>12</ord>
 </LM>
 </children>
-<eng_sentence>It said analysts had been expecting a small profit for the period.</eng_sentence>
 </LM>
 <LM id="a-wsj2342-001-p1s3">
 <s.rf>m#m-wsj2342-001-p1s3</s.rf>
@@ -601,7 +598,6 @@
 <ord>18</ord>
 </LM>
 </children>
-<eng_sentence>Revenue is expected to be ``up modestly'' from the $26.5 million reported a year ago.</eng_sentence>
 </LM>
 <LM id="a-wsj2342-001-p1s4">
 <s.rf>m#m-wsj2342-001-p1s4</s.rf>
@@ -765,7 +761,6 @@
 <ord>25</ord>
 </LM>
 </children>
-<eng_sentence>Relational Technology reported net income of $1.5 million, or 12 cents a share, in the year-earlier period.</eng_sentence>
 </LM>
 <LM id="a-wsj2342-001-p1s5">
 <s.rf>m#m-wsj2342-001-p1s5</s.rf>
@@ -935,7 +930,6 @@
 <ord>27</ord>
 </LM>
 </children>
-<eng_sentence>``While our international operations showed strong growth, our domestic business was substantially below expectations,'' said Paul Newton, president and chief executive officer.</eng_sentence>
 </LM>
 <LM id="a-wsj2342-001-p1s6">
 <s.rf>m#m-wsj2342-001-p1s6</s.rf>
@@ -1099,7 +1093,6 @@
 <ord>25</ord>
 </LM>
 </children>
-<eng_sentence>A spokesman said the company's first quarter is historically soft, and computer companies in general are experiencing slower sales.</eng_sentence>
 </LM>
 <LM id="a-wsj2342-001-p1s7">
 <s.rf>m#m-wsj2342-001-p1s7</s.rf>
@@ -1253,7 +1246,6 @@
 <ord>23</ord>
 </LM>
 </children>
-<eng_sentence>Mr. Newton said he accepted the resignation of Thomas Wilson, vice president of corporate sales, and that his marketing responsibilities have been reassigned.</eng_sentence>
 </LM>
 <LM id="a-wsj2342-001-p1s8">
 <s.rf>m#m-wsj2342-001-p1s8</s.rf>
@@ -1346,7 +1338,6 @@
 <ord>14</ord>
 </LM>
 </children>
-<eng_sentence>The company said Mr. Wilson's resignation wasn't related to the sales shortfall.</eng_sentence>
 </LM>
 <LM id="a-wsj2342-001-p1s9">
 <s.rf>m#m-wsj2342-001-p1s9</s.rf>
@@ -1465,7 +1456,6 @@
 <ord>18</ord>
 </LM>
 </children>
-<eng_sentence>Relational Technology went public in May 1988 at $14 a share.</eng_sentence>
 </LM>
 <LM id="a-wsj2342-001-p1s10">
 <s.rf>m#m-wsj2342-001-p1s10</s.rf>
@@ -1607,7 +1597,6 @@
 <ord>21</ord>
 </LM>
 </children>
-<eng_sentence>It fell $1.875 a share Friday, to $6.25, a new low, in over-the-counter trading.</eng_sentence>
 </LM>
 <LM id="a-wsj2342-001-p1s11">
 <s.rf>m#m-wsj2342-001-p1s11</s.rf>
@@ -1678,7 +1667,6 @@
 <ord>10</ord>
 </LM>
 </children>
-<eng_sentence>Its high for the past year was $16.375 a share.</eng_sentence>
 </LM>
 <LM id="a-wsj2342-001-p1s12">
 <s.rf>m#m-wsj2342-001-p1s12</s.rf>
@@ -1820,7 +1808,6 @@
 <ord>21</ord>
 </LM>
 </children>
-<eng_sentence>In the previous quarter, the company earned $4.5 million, or 37 cents a share, on sales of $47.2 million.</eng_sentence>
 </LM>
 </trees>
 </adata>
