@@ -25,7 +25,7 @@
 <LM id="dk_110.10-SCzechA-m-d1t2584-2">
 <m.rf>m#m110-d1t2584-2</m.rf>
 <afun>Adv</afun>
-<ord>6</ord>
+<ord>5</ord>
 <children>
 <LM id="dk_110.10-SCzechA-m-d1t2584-1">
 <m.rf>m#m110-d1t2584-1</m.rf>
@@ -33,21 +33,16 @@
 <ord>3</ord>
 <children>
 <LM id="m110-d1t2584-1-sw1-ia">
-<m.rf>m#m110-d1t2584-1-sw1</m.rf>
-<afun>ExD</afun>
-<ord>4</ord>
-</LM>
-<LM id="dk_110.10-SCzechA-m-350-106">
 <m.rf>m#m110-350-106</m.rf>
 <afun>AuxG</afun>
-<ord>5</ord>
+<ord>4</ord>
 </LM>
 </children>
 </LM>
 <LM id="dk_110.10-SCzechA-m-d1t2584-3">
 <m.rf>m#m110-d1t2584-3</m.rf>
 <afun>Atr</afun>
-<ord>7</ord>
+<ord>6</ord>
 </LM>
 </children>
 </LM>
@@ -56,7 +51,7 @@
 <LM id="dk_110.10-SCzechA-m-350-363">
 <m.rf>m#m110-350-363</m.rf>
 <afun>AuxK</afun>
-<ord>8</ord>
+<ord>7</ord>
 </LM>
 </children>
 </LM>

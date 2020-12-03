@@ -9761,7 +9761,21 @@
    </AM>
   </m>
   <m>
-   <AM id="m-d-m-d1e855-x2-punct-punct">
+   <AM id="m-d-m-d1e855-x2-punct-puncts0">
+    <form>.</form>
+    <tag>Z:-------------</tag>
+    <lemma>.</lemma>
+   </AM>
+  </m>
+  <m>
+   <AM id="m-d-m-d1e855-x2-punct-puncts1">
+    <form>.</form>
+    <tag>Z:-------------</tag>
+    <lemma>.</lemma>
+   </AM>
+  </m>
+  <m>
+   <AM id="m-d-m-d1e855-x2-punct-puncts2">
     <form>.</form>
     <tag>Z:-------------</tag>
     <lemma>.</lemma>
@@ -10949,13 +10963,6 @@
       <w.rf>w#d1t966-3</w.rf>
      </LM>
     </wrefs>
-   </AM>
-  </m>
-  <m>
-   <AM id="m-d-id81385-punct">
-    <form>,</form>
-    <tag>Z:-------------</tag>
-    <lemma>,</lemma>
    </AM>
   </m>
   <m>
@@ -18100,11 +18107,6 @@
       <w.rf>w#d1t1551-2</w.rf>
      </LM>
     </wrefs>
-   </AM>
-  </m>
-  <m>
-   <AM id="m-d1e1488-x3-19">
-    <form>,</form>
    </AM>
   </m>
   <m>
@@ -27440,7 +27442,21 @@
    </AM>
   </m>
   <m>
-   <AM id="m-d-m-d1e2206-x2-punct-punct">
+   <AM id="m-d-m-d1e2206-x2-punct-puncts0">
+    <form>.</form>
+    <tag>Z:-------------</tag>
+    <lemma>.</lemma>
+   </AM>
+  </m>
+  <m>
+   <AM id="m-d-m-d1e2206-x2-punct-puncts1">
+    <form>.</form>
+    <tag>Z:-------------</tag>
+    <lemma>.</lemma>
+   </AM>
+  </m>
+  <m>
+   <AM id="m-d-m-d1e2206-x2-punct-puncts2">
     <form>.</form>
     <tag>Z:-------------</tag>
     <lemma>.</lemma>
@@ -30239,16 +30255,16 @@
   <m>
    <AM id="m-d1e2463-x2-505">
     <form>41</form>
-   </AM>
-  </m>
-  <m>
-   <AM id="m-d1e2463-x2-504">
-    <form>.</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t2470-19</w.rf>
      </LM>
     </wrefs>
+   </AM>
+  </m>
+  <m>
+   <AM id="m-d1e2463-x2-504">
+    <form>.</form>
    </AM>
   </m>
  </s>
@@ -30730,7 +30746,17 @@
    </AM>
   </m>
   <m>
-   <AM id="m-d1e2493-x2-180">
+   <AM id="m-d1e2493-x2-180s0">
+    <form>.</form>
+   </AM>
+  </m>
+  <m>
+   <AM id="m-d1e2493-x2-180s1">
+    <form>.</form>
+   </AM>
+  </m>
+  <m>
+   <AM id="m-d1e2493-x2-180s2">
     <form>.</form>
    </AM>
   </m>
@@ -35477,13 +35503,6 @@
    </AM>
   </m>
   <m>
-   <AM id="m-d-id138141-punct">
-    <form>,</form>
-    <tag>Z:-------------</tag>
-    <lemma>,</lemma>
-   </AM>
-  </m>
-  <m>
    <AM id="m-d1t2835-1">
     <form>a</form>
     <wrefs>
@@ -36485,16 +36504,6 @@
    </AM>
   </m>
   <m>
-   <AM id="m-d1t2901-4">
-    <form>nebo</form>
-    <wrefs>
-     <LM>
-      <w.rf>w#d1t2901-4</w.rf>
-     </LM>
-    </wrefs>
-   </AM>
-  </m>
-  <m>
    <AM id="m-d1t2901-5">
     <form>tam</form>
     <wrefs>
@@ -36547,7 +36556,17 @@
    </AM>
   </m>
   <m>
-   <AM id="m-d1e2855-x3-481">
+   <AM id="m-d1e2855-x3-481s0">
+    <form>.</form>
+   </AM>
+  </m>
+  <m>
+   <AM id="m-d1e2855-x3-481s1">
+    <form>.</form>
+   </AM>
+  </m>
+  <m>
+   <AM id="m-d1e2855-x3-481s2">
     <form>.</form>
    </AM>
   </m>
@@ -38090,11 +38109,6 @@
       <w.rf>w#d1t3054-8</w.rf>
      </LM>
     </wrefs>
-   </AM>
-  </m>
-  <m>
-   <AM id="m-548-550">
-    <form>,</form>
    </AM>
   </m>
   <m>

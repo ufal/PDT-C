@@ -1615,7 +1615,7 @@
 <LM id="ak_145.06-SCzechA-m-d1t1209-3">
 <m.rf>m#m145-d1t1209-3</m.rf>
 <afun>Pred</afun>
-<ord>16</ord>
+<ord>15</ord>
 <children>
 <LM id="ak_145.06-SCzechA-m-d1t1201-10">
 <m.rf>m#m145-d1t1201-10</m.rf>
@@ -1625,7 +1625,7 @@
 <LM id="ak_145.06-SCzechA-m-d1t1201-22">
 <m.rf>m#m145-d1t1201-22</m.rf>
 <afun>Coord</afun>
-<ord>11</ord>
+<ord>10</ord>
 <children>
 <LM id="ak_145.06-SCzechA-m-d1t1201-13">
 <m.rf>m#m145-d1t1201-13</m.rf>
@@ -1649,28 +1649,23 @@
 <ord>5</ord>
 <children id="ak_145.06-SCzechA-m-d1t1201-17">
 <m.rf>m#m145-d1t1201-17</m.rf>
-<afun>AuxP</afun>
+<afun>Adv</afun>
 <ord>6</ord>
 <children>
-<LM id="ak_145.06-SCzechA-m-d1t1201-18">
-<m.rf>m#m145-d1t1201-18</m.rf>
-<afun>Adv</afun>
-<ord>7</ord>
-</LM>
 <LM id="ak_145.06-SCzechA-m-d1t1201-20">
 <m.rf>m#m145-d1t1201-20</m.rf>
 <afun>Adv</afun>
-<ord>10</ord>
+<ord>9</ord>
 <children>
 <LM id="ak_145.06-SCzechA-m-d1t1201-19">
 <m.rf>m#m145-d1t1201-19</m.rf>
 <afun>Atr</afun>
-<ord>8</ord>
+<ord>7</ord>
 </LM>
 <LM id="ak_145.06-SCzechA-m-d1t1201-21">
 <m.rf>m#m145-d1t1201-21</m.rf>
 <afun>Atr</afun>
-<ord>9</ord>
+<ord>8</ord>
 </LM>
 </children>
 </LM>
@@ -1680,7 +1675,7 @@
 <LM id="ak_145.06-SCzechA-m-d1e1206-x2-197">
 <m.rf>m#m145-d1e1206-x2-197</m.rf>
 <afun>AuxX</afun>
-<ord>15</ord>
+<ord>14</ord>
 </LM>
 </children>
 </LM>
@@ -1688,17 +1683,17 @@
 <m.rf>m#m145-d1t1201-26</m.rf>
 <afun>Pred</afun>
 <is_member>1</is_member>
-<ord>14</ord>
+<ord>13</ord>
 <children>
 <LM id="ak_145.06-SCzechA-m-181-196">
 <m.rf>m#m145-181-196</m.rf>
 <afun>Adv</afun>
-<ord>12</ord>
+<ord>11</ord>
 </LM>
 <LM id="ak_145.06-SCzechA-m-d1t1201-24">
 <m.rf>m#m145-d1t1201-24</m.rf>
 <afun>AuxT</afun>
-<ord>13</ord>
+<ord>12</ord>
 </LM>
 </children>
 </LM>
@@ -1707,11 +1702,11 @@
 <LM id="ak_145.06-SCzechA-m-d1t1209-6">
 <m.rf>m#m145-d1t1209-6</m.rf>
 <afun>Sb</afun>
-<ord>18</ord>
+<ord>17</ord>
 <children id="ak_145.06-SCzechA-m-d1t1209-5">
 <m.rf>m#m145-d1t1209-5</m.rf>
 <afun>Atr</afun>
-<ord>17</ord>
+<ord>16</ord>
 </children>
 </LM>
 </children>
@@ -1719,7 +1714,7 @@
 <LM id="ak_145.06-SCzechA-m-d1e1206-x2-198">
 <m.rf>m#m145-d1e1206-x2-198</m.rf>
 <afun>AuxK</afun>
-<ord>19</ord>
+<ord>18</ord>
 </LM>
 </children>
 </LM>

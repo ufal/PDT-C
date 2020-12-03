@@ -1793,12 +1793,19 @@
    </AM>
   </m>
   <m>
-   <AM id="m-60-63">
+   <AM id="m-60-63s0">
     <form>7</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t138-6</w.rf>
      </LM>
+    </wrefs>
+   </AM>
+  </m>
+  <m>
+   <AM id="m-60-63s1">
+    <form>m</form>
+    <wrefs>
      <LM>
       <w.rf>w#d1t138-7</w.rf>
      </LM>
@@ -1856,17 +1863,24 @@
    </AM>
   </m>
   <m>
-   <AM id="m-60-66">
+   <AM id="m-60-66s0">
     <form>7.20</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t141-6</w.rf>
      </LM>
      <LM>
-      <w.rf>w#d1t141-7</w.rf>
-     </LM>
-     <LM>
       <w.rf>w#d1t141-8</w.rf>
+     </LM>
+    </wrefs>
+   </AM>
+  </m>
+  <m>
+   <AM id="m-60-66s1">
+    <form>m</form>
+    <wrefs>
+     <LM>
+      <w.rf>w#d1t141-7</w.rf>
      </LM>
     </wrefs>
    </AM>
@@ -3160,7 +3174,7 @@
    </AM>
   </m>
   <m>
-   <AM id="m-110-126">
+   <AM id="m-110-126s0">
     <form>3.5</form>
     <wrefs>
      <LM>
@@ -3172,6 +3186,13 @@
      <LM>
       <w.rf>w#d1t220-9</w.rf>
      </LM>
+    </wrefs>
+   </AM>
+  </m>
+  <m>
+   <AM id="m-110-126s1">
+    <form>m</form>
+    <wrefs>
      <LM>
       <w.rf>w#d1t220-10</w.rf>
      </LM>
@@ -5617,7 +5638,7 @@
    </AM>
   </m>
   <m>
-   <AM id="m-313-321">
+   <AM id="m-313-321s0">
     <form>5.5</form>
     <wrefs>
      <LM>
@@ -5629,6 +5650,13 @@
      <LM>
       <w.rf>w#d1t344-7</w.rf>
      </LM>
+    </wrefs>
+   </AM>
+  </m>
+  <m>
+   <AM id="m-313-321s1">
+    <form>m</form>
+    <wrefs>
      <LM>
       <w.rf>w#d1t344-8</w.rf>
      </LM>
@@ -22781,13 +22809,6 @@
    </AM>
   </m>
   <m>
-   <AM id="m-d-id104810-punct">
-    <form>,</form>
-    <tag>Z:-------------</tag>
-    <lemma>,</lemma>
-   </AM>
-  </m>
-  <m>
    <AM id="m-d1t1441-8">
     <form>když</form>
     <wrefs>
@@ -38925,7 +38946,7 @@
    </AM>
   </m>
   <m>
-   <AM id="m-448-449">
+   <AM id="m-448-449s0">
     <form>150</form>
     <wrefs>
      <LM>
@@ -38934,6 +38955,13 @@
      <LM>
       <w.rf>w#d1t2377-2</w.rf>
      </LM>
+    </wrefs>
+   </AM>
+  </m>
+  <m>
+   <AM id="m-448-449s1">
+    <form>g</form>
+    <wrefs>
      <LM>
       <w.rf>w#d1t2380-1</w.rf>
      </LM>
@@ -38971,7 +38999,7 @@
    </AM>
   </m>
   <m>
-   <AM id="m-448-451">
+   <AM id="m-448-451s0">
     <form>150</form>
     <wrefs>
      <LM>
@@ -38980,6 +39008,13 @@
      <LM>
       <w.rf>w#d1t2384-5</w.rf>
      </LM>
+    </wrefs>
+   </AM>
+  </m>
+  <m>
+   <AM id="m-448-451s1">
+    <form>g</form>
+    <wrefs>
      <LM>
       <w.rf>w#d1t2384-6</w.rf>
      </LM>

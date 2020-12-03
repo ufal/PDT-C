@@ -3100,6 +3100,11 @@
 <AM lemma="starost-2_^(člověk,_věc)_(*5ý-2)" src="auto" recommended="1">NNFS6-----A----</AM>
 </tag>
 </m>
+<m id="m061-d1e3398-x2-514s0">
+<w.rf/>
+<form>,</form>
+<tag lemma="," src="auto" recommended="1">Z:-------------</tag>
+</m>
 <m id="m061-d1e3398-x2-513">
 <w.rf>
 <LM>w#w-d1e3398-x2-513</LM>

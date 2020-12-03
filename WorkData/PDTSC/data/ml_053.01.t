@@ -1909,8 +1909,9 @@
 <a>
 <lex.rf>a#a053-d1t361-9-sw1</lex.rf>
 </a>
+<coref_special>exoph</coref_special>
 <nodetype>complex</nodetype>
-<t_lemma>odtud</t_lemma>
+<t_lemma>odsud</t_lemma>
 <functor>DIR1</functor>
 <gram>
 <sempos>adv.denot.ngrad.nneg</sempos>

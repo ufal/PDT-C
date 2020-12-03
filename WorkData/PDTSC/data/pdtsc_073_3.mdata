@@ -539,7 +539,7 @@
   </m>
   <m>
    <AM id="m-d1t56-4">
-    <form>ni</form>
+    <form>ní</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t56-4</w.rf>
@@ -10950,7 +10950,7 @@
   </m>
   <m>
    <AM id="m-670-671">
-    <form>ni</form>
+    <form>ní</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t646-2</w.rf>
@@ -32736,13 +32736,18 @@
    </AM>
   </m>
   <m>
-   <AM id="m-d1t1772-1">
+   <AM id="m-d1t1772-1s0">
     <form>23</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t1772-1</w.rf>
      </LM>
     </wrefs>
+   </AM>
+  </m>
+  <m>
+   <AM id="m-d1t1772-1s1">
+    <form>.</form>
    </AM>
   </m>
   <m>

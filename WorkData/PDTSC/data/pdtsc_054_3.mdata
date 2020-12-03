@@ -16020,18 +16020,11 @@
  <s stype="information" w-speaker.rf="spk2" id="m-252" w-begin.rf="w#d1t843-1" w-end.rf="w#d1t847-9">
   <m>
    <AM id="m-d1t843-2">
-    <form>Po</form>
+    <form>Potmě</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t843-2</w.rf>
      </LM>
-    </wrefs>
-   </AM>
-  </m>
-  <m>
-   <AM id="m-d1t843-3">
-    <form>tmě</form>
-    <wrefs>
      <LM>
       <w.rf>w#d1t843-3</w.rf>
      </LM>
@@ -23609,18 +23602,11 @@
   </m>
   <m>
    <AM id="m-d1t1185-25">
-    <form>po</form>
+    <form>pohromadě</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t1185-25</w.rf>
      </LM>
-    </wrefs>
-   </AM>
-  </m>
-  <m>
-   <AM id="m-d1t1185-26">
-    <form>hromadě</form>
-    <wrefs>
      <LM>
       <w.rf>w#d1t1185-26</w.rf>
      </LM>

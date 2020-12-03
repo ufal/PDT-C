@@ -41293,21 +41293,21 @@
    </AM>
   </m>
   <m>
-   <AM id="m-d1t1353-13">
-    <form>na</form>
-    <wrefs>
-     <LM>
-      <w.rf>w#d1t1353-13</w.rf>
-     </LM>
-    </wrefs>
-   </AM>
-  </m>
-  <m>
    <AM id="m-d1t1353-17">
     <form>byli</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t1353-17</w.rf>
+     </LM>
+    </wrefs>
+   </AM>
+  </m>
+  <m>
+   <AM id="m-d1t1353-13">
+    <form>na</form>
+    <wrefs>
+     <LM>
+      <w.rf>w#d1t1353-13</w.rf>
      </LM>
     </wrefs>
    </AM>
@@ -43139,16 +43139,6 @@
     <wrefs>
      <LM>
       <w.rf>w#d1t1411-18</w.rf>
-     </LM>
-    </wrefs>
-   </AM>
-  </m>
-  <m>
-   <AM id="m-d1t1411-13">
-    <form>někdo</form>
-    <wrefs>
-     <LM>
-      <w.rf>w#d1t1411-13</w.rf>
      </LM>
     </wrefs>
    </AM>

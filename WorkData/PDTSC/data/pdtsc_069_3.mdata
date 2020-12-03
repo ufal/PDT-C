@@ -1228,12 +1228,22 @@
    </AM>
   </m>
   <m>
-   <AM id="m-d1t80-3">
+   <AM id="m-d1t80-3s0">
     <form>23</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t80-3</w.rf>
      </LM>
+     <LM>
+      <w.rf>w#d1t80-4</w.rf>
+     </LM>
+    </wrefs>
+   </AM>
+  </m>
+  <m>
+   <AM id="m-d1t80-3s1">
+    <form>letý</form>
+    <wrefs>
      <LM>
       <w.rf>w#d1t80-4</w.rf>
      </LM>

@@ -32,14 +32,7 @@
 <form>4</form>
 <tag>
 <AM lemma="4" src="auto" recommended="1">C=-------------</AM></tag>
-</m><m id="m110-d1t2584-1-sw1">
-<w.rf>
-<LM>w#w-d1t2584-1</LM>
-</w.rf>
-<form>.</form>
-<tag>
-<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-<form_change>spell</form_change></m>
+</m>
 <m id="m110-350-106">
 <w.rf>
 <LM>w#w-350-106</LM>

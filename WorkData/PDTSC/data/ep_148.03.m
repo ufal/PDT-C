@@ -2260,8 +2260,8 @@
 <w.rf>
 <LM>w#w-d1t1448-1</LM>
 </w.rf>
-<form>Byly</form>
-<tag lemma="být" src="auto" recommended="1">VpTP----R-AAI--</tag>
+<form>Byla</form>
+<tag lemma="být" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m148-d1t1448-2">
 <w.rf>

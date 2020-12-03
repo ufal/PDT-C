@@ -1007,13 +1007,18 @@
    </AM>
   </m>
   <m>
-   <AM id="m-155-159">
+   <AM id="m-155-159s0">
     <form>příbuzní</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t73-4</w.rf>
      </LM>
     </wrefs>
+   </AM>
+  </m>
+  <m>
+   <AM id="m-155-159s1">
+    <form>?</form>
    </AM>
   </m>
  </s>
@@ -5223,7 +5228,21 @@
    </AM>
   </m>
   <m>
-   <AM id="m-d-id2586048">
+   <AM id="m-d-id2586048s0">
+    <form>.</form>
+    <tag>Z:-------------</tag>
+    <lemma>.</lemma>
+   </AM>
+  </m>
+  <m>
+   <AM id="m-d-id2586048s1">
+    <form>.</form>
+    <tag>Z:-------------</tag>
+    <lemma>.</lemma>
+   </AM>
+  </m>
+  <m>
+   <AM id="m-d-id2586048s2">
     <form>.</form>
     <tag>Z:-------------</tag>
     <lemma>.</lemma>
@@ -30301,13 +30320,6 @@
    </AM>
   </m>
   <m>
-   <AM id="m-d-id2635860">
-    <form>,</form>
-    <tag>Z:-------------</tag>
-    <lemma>,</lemma>
-   </AM>
-  </m>
-  <m>
    <AM id="m-d1t1252-6">
     <form>a</form>
     <wrefs>
@@ -38145,7 +38157,17 @@
    </AM>
   </m>
   <m>
-   <AM id="m-1226-1230">
+   <AM id="m-1226-1230s0">
+    <form>.</form>
+   </AM>
+  </m>
+  <m>
+   <AM id="m-1226-1230s1">
+    <form>.</form>
+   </AM>
+  </m>
+  <m>
+   <AM id="m-1226-1230s2">
     <form>.</form>
    </AM>
   </m>
@@ -46276,9 +46298,6 @@
   <m>
    <AM id="m-d-id2668898">
     <form>ten</form>
-    <comment>
-     <type/>
-    </comment>
     <tag>Z:-------------</tag>
     <lemma>,</lemma>
    </AM>
@@ -48244,6 +48263,11 @@
       <w.rf>w#d1t2249-9</w.rf>
      </LM>
     </wrefs>
+   </AM>
+  </m>
+  <m>
+   <AM id="m-d1e2244-x2-2376s0">
+    <form>?</form>
    </AM>
   </m>
  </s>

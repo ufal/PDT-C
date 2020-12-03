@@ -1109,8 +1109,8 @@
 <LM>w#w-d1t361-9</LM>
 </w.rf>
 <form_change>spell</form_change>
-<form>odtud</form>
-<tag lemma="odtud" src="auto" recommended="1">Db-------------</tag>
+<form>odsud</form>
+<tag lemma="odsud" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m053-d-id66512-punct">
 <w.rf>

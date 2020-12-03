@@ -8921,17 +8921,23 @@
    </AM>
   </m>
   <m>
-   <AM id="m-d1t500-9">
+   <AM id="m-d1t500-9s0">
     <form>99</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t500-9</w.rf>
      </LM>
     </wrefs>
-    <comment>
-     <type>w-token</type>
-     <text>devadesát devětkrát</text>
-    </comment>
+   </AM>
+  </m>
+  <m>
+   <AM id="m-d1t500-9s1">
+    <form>krát</form>
+    <wrefs>
+     <LM>
+      <w.rf>w#d1t500-9</w.rf>
+     </LM>
+    </wrefs>
    </AM>
   </m>
   <m>

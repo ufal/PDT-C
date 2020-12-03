@@ -21468,13 +21468,6 @@
      <LM>
       <w.rf>w#d1t1577-8</w.rf>
      </LM>
-    </wrefs>
-   </AM>
-  </m>
-  <m>
-   <AM id="m-d1t1577-9">
-    <form>dvou</form>
-    <wrefs>
      <LM>
       <w.rf>w#d1t1577-9</w.rf>
      </LM>
@@ -29600,7 +29593,7 @@
   </m>
   <m>
    <AM id="m-d1t2137-9">
-    <form>byli</form>
+    <form>byly</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t2137-9</w.rf>
@@ -29610,7 +29603,7 @@
   </m>
   <m>
    <AM id="m-d1t2137-10">
-    <form>zdrávi</form>
+    <form>zdrávy</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t2137-10</w.rf>
@@ -33789,23 +33782,11 @@
   </m>
   <m>
    <AM id="m-d1t2394-26">
-    <form>řecko</form>
+    <form>řeckořímský</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t2394-26</w.rf>
      </LM>
-    </wrefs>
-   </AM>
-  </m>
-  <m>
-   <AM id="m-288-296">
-    <form>-</form>
-   </AM>
-  </m>
-  <m>
-   <AM id="m-d1t2394-27">
-    <form>římský</form>
-    <wrefs>
      <LM>
       <w.rf>w#d1t2394-27</w.rf>
      </LM>

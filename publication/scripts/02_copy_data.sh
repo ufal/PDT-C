@@ -61,7 +61,7 @@ echo "Copying PCEDT a-files"
 
 for A in $BASE/$SRC/*.a; do
   B="$(basename -- $A)"
-  cat $A | sed "s/adata_.*schema.xml/adata_c_schema.xml/" >$BASE/$TGT/$B
+  cat $A | sed "s/adata_.*schema.xml/adata_c_schema.xml/" | sed "s/aanot_schema.xml/adata_c_schema.xml/" | sed "/eng_sentence/d" >$BASE/$TGT/$B
 done
 
 echo "Copying PCEDT t-files"

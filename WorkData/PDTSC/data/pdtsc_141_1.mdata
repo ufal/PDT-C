@@ -17714,7 +17714,7 @@
  <s stype="information" w-speaker.rf="spk1" id="m-152" w-begin.rf="w#d1e1441" w-end.rf="w#d1e1451">
   <m>
    <AM id="m-d1t1448-1">
-    <form>Byli</form>
+    <form>Byla</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t1448-1</w.rf>
@@ -25103,18 +25103,8 @@
  </s>
  <s stype="information" w-speaker.rf="spk1" id="m-d1e2060-x2" w-begin.rf="w#d1e2062" w-end.rf="w#d1t2080-4">
   <m>
-   <AM id="m-d1t2069-1">
-    <form>Je</form>
-    <wrefs>
-     <LM>
-      <w.rf>w#d1t2069-1</w.rf>
-     </LM>
-    </wrefs>
-   </AM>
-  </m>
-  <m>
    <AM id="m-d1t2074-1">
-    <form>je</form>
+    <form>Je</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t2074-1</w.rf>
@@ -29954,7 +29944,7 @@
  <s stype="information" w-speaker.rf="spk1" id="m-223" w-begin.rf="w#d1e2469" w-end.rf="w#d1t2475-2">
   <m>
    <AM id="m-d1t2473-1">
-    <form>Byli</form>
+    <form>Byly</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t2473-1</w.rf>
@@ -33031,7 +33021,7 @@
  <s stype="information" w-speaker.rf="spk1" id="m-d1e2738-x4" w-begin.rf="w#d1e2790" w-end.rf="w#d1t2797-4">
   <m>
    <AM id="m-d1t2793-2">
-    <form>Byli</form>
+    <form>Byly</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t2793-2</w.rf>
@@ -44008,17 +43998,31 @@
    </AM>
   </m>
   <m>
-   <AM id="m-d1t3655-4">
+   <AM id="m-d1t3655-4s0">
     <form>d</form>
     <wrefs>
      <LM>
-      <w.rf>w#d1t3655-4</w.rf>
+      <w.rf>w#d1t3655-2</w.rf>
      </LM>
+    </wrefs>
+   </AM>
+  </m>
+  <m>
+   <AM id="m-d1t3655-4s1">
+    <form>'</form>
+    <wrefs>
      <LM>
       <w.rf>w#d1t3655-3</w.rf>
      </LM>
+    </wrefs>
+   </AM>
+  </m>
+  <m>
+   <AM id="m-d1t3655-4s2">
+    <form>Ampezzo</form>
+    <wrefs>
      <LM>
-      <w.rf>w#d1t3655-2</w.rf>
+      <w.rf>w#d1t3655-4</w.rf>
      </LM>
     </wrefs>
    </AM>
@@ -46907,7 +46911,7 @@
  <s stype="information" w-speaker.rf="spk1" id="m-314" w-begin.rf="w#d1t3890-6" w-end.rf="w#d1t3892-7">
   <m>
    <AM id="m-d1t3890-8">
-    <form>Byli</form>
+    <form>Byly</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t3890-8</w.rf>
@@ -47770,16 +47774,6 @@
     <wrefs>
      <LM>
       <w.rf>w#d1t3962-8</w.rf>
-     </LM>
-    </wrefs>
-   </AM>
-  </m>
-  <m>
-   <AM id="m-d1t3962-9">
-    <form>to</form>
-    <wrefs>
-     <LM>
-      <w.rf>w#d1t3962-9</w.rf>
      </LM>
     </wrefs>
    </AM>

@@ -5141,7 +5141,21 @@
    </AM>
   </m>
   <m>
-   <AM id="m-d-m-d1e204-x2-punct-punct">
+   <AM id="m-d-m-d1e204-x2-punct-puncts0">
+    <form>.</form>
+    <tag>Z:-------------</tag>
+    <lemma>.</lemma>
+   </AM>
+  </m>
+  <m>
+   <AM id="m-d-m-d1e204-x2-punct-puncts1">
+    <form>.</form>
+    <tag>Z:-------------</tag>
+    <lemma>.</lemma>
+   </AM>
+  </m>
+  <m>
+   <AM id="m-d-m-d1e204-x2-punct-puncts2">
     <form>.</form>
     <tag>Z:-------------</tag>
     <lemma>.</lemma>
@@ -40600,13 +40614,6 @@
       <w.rf>w#d1t1189-4</w.rf>
      </LM>
     </wrefs>
-   </AM>
-  </m>
-  <m>
-   <AM id="m-d-id133860-punct">
-    <form>,</form>
-    <tag>Z:-------------</tag>
-    <lemma>,</lemma>
    </AM>
   </m>
   <m>

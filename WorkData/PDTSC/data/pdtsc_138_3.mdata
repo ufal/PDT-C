@@ -35257,8 +35257,18 @@
    </AM>
   </m>
   <m>
-   <AM id="m-d1t2572-5">
+   <AM id="m-d1t2572-5s0">
     <form>dva</form>
+    <wrefs>
+     <LM>
+      <w.rf>w#d1t2572-5</w.rf>
+     </LM>
+    </wrefs>
+   </AM>
+  </m>
+  <m>
+   <AM id="m-d1t2572-5s1">
+    <form>tisíce</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t2572-5</w.rf>
@@ -37101,7 +37111,7 @@
   </m>
   <m>
    <AM id="m-d1t2696-1">
-    <form>byly</form>
+    <form>byli</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t2696-1</w.rf>
@@ -37111,7 +37121,7 @@
   </m>
   <m>
    <AM id="m-d1t2696-2">
-    <form>leskdes</form>
+    <form>leckdes</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t2696-2</w.rf>
@@ -42758,7 +42768,7 @@
   </m>
   <m>
    <AM id="m-d1t3094-16">
-    <form>byly</form>
+    <form>byli</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t3094-16</w.rf>

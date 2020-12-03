@@ -5951,7 +5951,7 @@
    </AM>
   </m>
   <m>
-   <AM id="m-d1t296-8">
+   <AM id="m-d1t296-8s0">
     <form>21</form>
     <wrefs>
      <LM>
@@ -5960,6 +5960,13 @@
      <LM>
       <w.rf>w#d1t296-9</w.rf>
      </LM>
+    </wrefs>
+   </AM>
+  </m>
+  <m>
+   <AM id="m-d1t296-8s1">
+    <form>arová</form>
+    <wrefs>
      <LM>
       <w.rf>w#d1t296-11</w.rf>
      </LM>
@@ -26586,11 +26593,6 @@
    </AM>
   </m>
   <m>
-   <AM id="m-d1e1024-x3-198">
-    <form>.</form>
-   </AM>
-  </m>
-  <m>
    <AM id="m-d-id108543-punct">
     <form>,</form>
     <tag>Z:-------------</tag>
@@ -32464,7 +32466,17 @@
    </AM>
   </m>
   <m>
-   <AM id="m-183-185">
+   <AM id="m-183-185s0">
+    <form>.</form>
+   </AM>
+  </m>
+  <m>
+   <AM id="m-183-185s1">
+    <form>.</form>
+   </AM>
+  </m>
+  <m>
+   <AM id="m-183-185s2">
     <form>.</form>
    </AM>
   </m>

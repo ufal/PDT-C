@@ -2686,20 +2686,10 @@
 <m id="m145-d1t1201-17">
 <w.rf>
 <LM>w#w-d1t1201-17</LM>
-</w.rf>
-<form>do</form>
-<tag>
-<AM lemma="do-1" src="auto" recommended="1">RR--2----------</AM>
-<AM lemma="do-7_^(předpona,_sam.)" src="auto">A2--------A----</AM>
-<AM lemma="do-99_:B_;Y" src="auto">NNXXX-----A----</AM>
-</tag>
-</m>
-<m id="m145-d1t1201-18">
-<w.rf>
 <LM>w#w-d1t1201-18</LM>
 </w.rf>
-<form>zadu</form>
-<tag lemma="zadu" src="auto" recommended="1">Db-------------</tag>
+<form>dozadu</form>
+<tag lemma="dozadu" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m145-d1t1201-19">
 <w.rf>

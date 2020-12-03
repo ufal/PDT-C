@@ -8011,11 +8011,6 @@
    </AM>
   </m>
   <m>
-   <AM id="m-276-278">
-    <form>,</form>
-   </AM>
-  </m>
-  <m>
    <AM id="m-315-317">
     <form>.</form>
    </AM>
@@ -12468,13 +12463,6 @@
    </AM>
   </m>
   <m>
-   <AM id="m-d-id80779-punct">
-    <form>,</form>
-    <tag>Z:-------------</tag>
-    <lemma>,</lemma>
-   </AM>
-  </m>
-  <m>
    <AM id="m-d1t620-5">
     <form>když</form>
     <wrefs>
@@ -12636,11 +12624,6 @@
       <w.rf>w#d1t622-2</w.rf>
      </LM>
     </wrefs>
-   </AM>
-  </m>
-  <m>
-   <AM id="m-43-227">
-    <form>,</form>
    </AM>
   </m>
   <m>

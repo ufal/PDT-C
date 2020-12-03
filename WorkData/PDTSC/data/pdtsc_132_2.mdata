@@ -1766,7 +1766,7 @@
    </AM>
   </m>
   <m>
-   <AM id="m-d1t109-6">
+   <AM id="m-d1t109-6s0">
     <form>23</form>
     <wrefs>
      <LM>
@@ -1776,6 +1776,12 @@
       <w.rf>w#d1t109-5</w.rf>
      </LM>
     </wrefs>
+   </AM>
+  </m>
+  <m>
+   <AM id="m-d1t109-6s1">
+    <form>.</form>
+    <wrefs/>
    </AM>
   </m>
   <m>
@@ -17673,13 +17679,6 @@
       <w.rf>w#d1t877-2</w.rf>
      </LM>
     </wrefs>
-   </AM>
-  </m>
-  <m>
-   <AM id="m-d-id95406-punct">
-    <form>,</form>
-    <tag>Z:-------------</tag>
-    <lemma>,</lemma>
    </AM>
   </m>
   <m>
