@@ -54,3 +54,23 @@ $(UNALIGNED_DIR)/done : $(ORIG_DIR)/done | $(SCHEMA_DIR)
 		Write::Treex substitute='{$(dir $<)/wsj(....).*}{$(dir $@)/wsj$$1.treex.gz}'
 	touch $@
 
+##################################################################################################################################
+######################### CHECK IF NEWLY JOINT SIDES OF PCEDT ARE THE SAME AS IN PCEDT 2.0 COREF #################################
+##################################################################################################################################
+
+PCEDT20COREF=/net/data/pcedt2.0-coref/data
+
+pcedt2.0coref_forms.%.txt :
+	treex $(LRC_FLAG) \
+		Read::Treex from='!$(PCEDT20COREF)/*/wsj_*.treex.gz' \
+		Write::AttributeSentences to=- language=$* layer=a attributes='address form' separator='\n' attr_sep='\t' \
+	> $@
+pcedt4pdtc_forms.%.txt :
+	treex $(LRC_FLAG) \
+		Read::Treex from='!$(UNALIGNED_DIR)/wsj*.treex.gz' \
+		Write::AttributeSentences to=- language=$* layer=a attributes='address form' separator='\n' attr_sep='\t' skip_nodes='defined $$_->tag && $$_->tag eq "-NONE-"' \
+	> $@
+
+##################################################################################################################################
+####################################### EXTRACT ALL ALIGNMENT LINKS FROM PCEDT 2.0 COREF #########################################
+##################################################################################################################################
