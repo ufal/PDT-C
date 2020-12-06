@@ -2,6 +2,12 @@
 
 BASE="/net/work/projects/PDT-C/github-PDT-C"
 
+LOG="02_copy_data.log"
+SUM="02_copy_data.summary"
+
+mv -f $LOG $LOG.old
+mv -f $SUM $SUM.old
+
 SRC="WorkData/Faust/data"
 TGT="publication/PDT-C/data/Faust/pml"
 
@@ -12,6 +18,7 @@ echo "Copying Faust w-files"
 for A in $BASE/$SRC/*.w; do
   B="$(basename -- $A)"
   cat $A | sed "s/wdata_.*schema.xml/wdata_c_schema.xml/" >$BASE/$TGT/$B
+  grep "<schema" $BASE/$TGT/$B >>$LOG
 done
 
 echo "Copying Faust m-files"
@@ -19,6 +26,7 @@ echo "Copying Faust m-files"
 for A in $BASE/$SRC/*.m; do
   B="$(basename -- $A)"
   cat $A | sed "s/mdata_.*schema.xml/mdata_c_schema_work.xml/" | sed 's/<tag/<mtag/' | sed 's/<\/tag>/<\/mtag>/' >$BASE/$TGT/$B
+  grep "<schema" $BASE/$TGT/$B >>$LOG
 done
 
 echo "Copying Faust a-files"
@@ -26,13 +34,15 @@ echo "Copying Faust a-files"
 for A in $BASE/$SRC/*.a; do
   B="$(basename -- $A)"
   cat $A | sed "s/adata_.*schema.xml/adata_c_schema.xml/" >$BASE/$TGT/$B
+  grep "<schema" $BASE/$TGT/$B >>$LOG
 done
 
 echo "Copying Faust t-files"
 
 for A in $BASE/$SRC/*.t; do
   B="$(basename -- $A)"
-  cat $A | sed "s/tdata_.*schema.xml/tdata_c_schema_work.xml/" >$BASE/$TGT/$B
+  cat $A | sed "s/tdata_.*schema.xml/tdata_c_schema_work.xml/" | sed "s/href=\"vallex3.xml\"/href=\"pdtvallex10.xml\"/" >$BASE/$TGT/$B
+  grep "<schema" $BASE/$TGT/$B >>$LOG
 done
 
 
@@ -48,6 +58,7 @@ echo "Copying PCEDT w-files"
 for A in $BASE/$SRC/*.w; do
   B="$(basename -- $A)"
   cat $A | sed "s/wdata_.*schema.xml/wdata_c_schema.xml/" >$BASE/$TGT/$B
+  grep "<schema" $BASE/$TGT/$B >>$LOG
 done
 
 echo "Copying PCEDT m-files"
@@ -55,20 +66,26 @@ echo "Copying PCEDT m-files"
 for A in $BASE/$SRC/*.m; do
   B="$(basename -- $A)"
   cat $A | sed "s/mdata_.*schema.xml/mdata_c_schema_work.xml/" | sed 's/<tag/<mtag/' | sed 's/<\/tag>/<\/mtag>/' >$BASE/$TGT/$B
+  grep "<schema" $BASE/$TGT/$B >>$LOG
 done
 
 echo "Copying PCEDT a-files"
 
 for A in $BASE/$SRC/*.a; do
   B="$(basename -- $A)"
-  cat $A | sed "s/adata_.*schema.xml/adata_c_schema.xml/" | sed "s/aanot_schema.xml/adata_c_schema.xml/" | sed "/eng_sentence/d" >$BASE/$TGT/$B
+  cat $A | sed "s/adata_.*schema.xml/adata_c_schema.xml/" |\
+	   sed "s/aanot_schema.xml/adata_c_schema.xml/" |\
+	   sed "/eng_sentence/d" |\
+	   sed "/<reffile id=\"w\"/d" >$BASE/$TGT/$B
+  grep "<schema" $BASE/$TGT/$B >>$LOG
 done
 
 echo "Copying PCEDT t-files"
 
 for A in $BASE/$SRC/*.t; do
   B="$(basename -- $A)"
-  cat $A | sed "s/tanot_schema.xml/tdata_c_schema_work.xml/" >$BASE/$TGT/$B
+  cat $A | sed "s/tanot_schema.xml/tdata_c_schema_work.xml/" | sed "s/href=\"vallex3.xml\"/href=\"pdtvallex10.xml\"/" >$BASE/$TGT/$B
+  grep "<schema" $BASE/$TGT/$B >>$LOG
 done
 
 
@@ -104,11 +121,13 @@ for PART in train-1 train-2 train-3 train-4 train-5 train-6 train-7 train-8 dtes
     for A in $BASE/$SRC/$SET/$PART/*.w; do
       B="$(basename -- $A)"
       cat $A | sed "s/wdata_.*schema.xml/wdata_c_schema.xml/" >$BASE/$TGT/$SET/$PART/$B
+      grep "<schema" $BASE/$TGT/$SET/$PART/$B >>$LOG
     done
 
     for A in $BASE/$SRC/$SET/$PART/*.m; do
       B="$(basename -- $A)"
       cat $A | sed "s/mdata_.*schema.xml/mdata_c_schema_work.xml/" | sed 's/<tag/<mtag/' | sed 's/<\/tag>/<\/mtag>/' >$BASE/$TGT/$SET/$PART/$B
+      grep "<schema" $BASE/$TGT/$SET/$PART/$B >>$LOG
     done
 
   done
@@ -119,7 +138,8 @@ for PART in train-1 train-2 train-3 train-4 train-5 train-6 train-7 train-8 dtes
 
     for A in $BASE/$SRC/$SET/$PART/*.a; do
       B="$(basename -- $A)"
-      cat $A | sed "s/adata_.*schema.xml/adata_c_schema.xml/" >$BASE/$TGT/$SET/$PART/$B
+      cat $A | sed "s/adata_.*schema.xml/adata_c_schema.xml/" | sed "/<reffile id=\"w\"/d" >$BASE/$TGT/$SET/$PART/$B
+      grep "<schema" $BASE/$TGT/$SET/$PART/$B >>$LOG
     done
 
   done
@@ -128,7 +148,8 @@ for PART in train-1 train-2 train-3 train-4 train-5 train-6 train-7 train-8 dtes
 
   for A in $BASE/$SRC/tamw/$PART/*.t; do
     B="$(basename -- $A)"
-    cat $A | sed "s/tdata_.*schema.xml/tdata_c_schema_work.xml/" >$BASE/$TGT/tamw/$PART/$B
+    cat $A | sed "s/tdata_.*schema.xml/tdata_c_schema_work.xml/" | sed "s/href=\"vallex3.xml\"/href=\"pdtvallex10.xml\"/" >$BASE/$TGT/tamw/$PART/$B
+    grep "<schema" $BASE/$TGT/tamw/$PART/$B >>$LOG
   done
 
 done
@@ -146,6 +167,7 @@ echo "Copying PDTSC w-files"
 for A in $BASE/$SRC/*.w; do
   B="$(basename -- $A)"
   cat $A | sed "s/wdata_.*schema.xml/wdata_c_schema.xml/" >$BASE/$TGT/$B
+  grep "<schema" $BASE/$TGT/$B >>$LOG
 done
 
 echo "Copying PDTSC m-files"
@@ -153,18 +175,24 @@ echo "Copying PDTSC m-files"
 for A in $BASE/$SRC/*.m; do
   B="$(basename -- $A)"
   cat $A | sed "s/mdata_.*schema.xml/mdata_c_schema_work.xml/" | sed 's/<tag/<mtag/' | sed 's/<\/tag>/<\/mtag>/' >$BASE/$TGT/$B
+  grep "<schema" $BASE/$TGT/$B >>$LOG
 done
 
 echo "Copying PDTSC a-files"
 
 for A in $BASE/$SRC/*.a; do
   B="$(basename -- $A)"
-  cat $A | sed "s/adata_.*schema.xml/adata_c_schema.xml/" >$BASE/$TGT/$B
+  cat $A | sed "s/adata_.*schema.xml/adata_c_schema.xml/" | sed "/<reffile id=\"w\"/d" >$BASE/$TGT/$B
+  grep "<schema" $BASE/$TGT/$B >>$LOG
 done
 
 echo "Copying PDTSC t-files"
 
 for A in $BASE/$SRC/*.t; do
   B="$(basename -- $A)"
-  cat $A | sed "s/tanot_coref_schema.xml/tdata_c_schema_work.xml/" >$BASE/$TGT/$B
+  cat $A | sed "s/tanot_coref_schema.xml/tdata_c_schema_work.xml/" | sed "s/href=\"vallex3.xml\"/href=\"pdtvallex10.xml\"/" >$BASE/$TGT/$B
+  grep "<schema" $BASE/$TGT/$B >>$LOG
 done
+
+
+cat $LOG | sort | uniq -c | tee $SUM

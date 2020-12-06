@@ -4,7 +4,6 @@
 <schema href="adata_c_schema.xml" />
 <references>
 <reffile id="m" name="mdata" href="hg_005.12.m" />
-<reffile id="w" name="wdata" href="hg_005.12.w" />
 </references>
 </head>
 <trees>
