@@ -1,0 +1,1 @@
+{"id": "ln94204_123-s001", "flavor": 1, "framework": "ptg", "version": 1.0, "time": "2020-12-07", "input": "(šv) ", "tops": [0], "nodes": [{"id": 0}, {"id": 1, "label": "šv", "anchors": [{"from": 1, "to": 3}], "properties": ["sentmod", "sempos", "typgroup", "tfa"], "values": ["enunc", "n.denot", "single", "f"]}], "edges": [{"source": 0, "target": 1, "label": "PAR"}]}
