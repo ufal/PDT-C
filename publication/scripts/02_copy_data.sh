@@ -41,7 +41,7 @@ echo "Copying Faust t-files"
 
 for A in $BASE/$SRC/*.t; do
   B="$(basename -- $A)"
-  cat $A | sed "s/tdata_.*schema.xml/tdata_c_schema_work.xml/" | sed "s/href=\"vallex3.xml\"/href=\"pdtvallex10.xml\"/" >$BASE/$TGT/$B
+  cat $A | sed "s/tdata_.*schema.xml/tdata_c_schema_work.xml/" | sed "s/href=\"vallex3.xml\"/href=\"pdtvallex20.xml\"/" >$BASE/$TGT/$B
   grep "<schema" $BASE/$TGT/$B >>$LOG
 done
 
@@ -84,7 +84,7 @@ echo "Copying PCEDT t-files"
 
 for A in $BASE/$SRC/*.t; do
   B="$(basename -- $A)"
-  cat $A | sed "s/tanot_schema.xml/tdata_c_schema_work.xml/" | sed "s/href=\"vallex3.xml\"/href=\"pdtvallex10.xml\"/" >$BASE/$TGT/$B
+  cat $A | sed "s/tanot_schema.xml/tdata_c_schema_work.xml/" | sed "s/href=\"vallex3.xml\"/href=\"pdtvallex20.xml\"/" >$BASE/$TGT/$B
   grep "<schema" $BASE/$TGT/$B >>$LOG
 done
 
@@ -96,7 +96,7 @@ TGT="publication/PDT-C/data/dictionaries"
 
 rm -rf $BASE/$TGT/pdtvallex10.xml
 echo "Copying PDT-Vallex"
-cp $SRC_VAL/vallex3.xml $BASE/$TGT/pdtvallex10.xml
+cp $SRC_VAL/vallex3.xml $BASE/$TGT/pdtvallex20.xml
 
 rm -rf $BASE/$TGT/engvallex.xml
 echo "Copying EngVallex"
@@ -148,7 +148,7 @@ for PART in train-1 train-2 train-3 train-4 train-5 train-6 train-7 train-8 dtes
 
   for A in $BASE/$SRC/tamw/$PART/*.t; do
     B="$(basename -- $A)"
-    cat $A | sed "s/tdata_.*schema.xml/tdata_c_schema_work.xml/" | sed "s/href=\"vallex3.xml\"/href=\"pdtvallex10.xml\"/" >$BASE/$TGT/tamw/$PART/$B
+    cat $A | sed "s/tdata_.*schema.xml/tdata_c_schema_work.xml/" | sed "s/href=\"vallex3.xml\"/href=\"pdtvallex20.xml\"/" >$BASE/$TGT/tamw/$PART/$B
     grep "<schema" $BASE/$TGT/tamw/$PART/$B >>$LOG
   done
 
@@ -190,7 +190,7 @@ echo "Copying PDTSC t-files"
 
 for A in $BASE/$SRC/*.t; do
   B="$(basename -- $A)"
-  cat $A | sed "s/tanot_coref_schema.xml/tdata_c_schema_work.xml/" | sed "s/href=\"vallex3.xml\"/href=\"pdtvallex10.xml\"/" >$BASE/$TGT/$B
+  cat $A | sed "s/tanot_coref_schema.xml/tdata_c_schema_work.xml/" | sed "s/href=\"vallex3.xml\"/href=\"pdtvallex20.xml\"/" >$BASE/$TGT/$B
   grep "<schema" $BASE/$TGT/$B >>$LOG
 done
 

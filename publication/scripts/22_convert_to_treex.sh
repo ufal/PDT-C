@@ -16,8 +16,8 @@ for CORP in Faust/pml PCEDT/pml PDTSC/pml; do
 #for CORP in Faust/pml; do
 
   cd $BASE/$TGT/$CORP
-  echo "Converting PDT data to treex in $CORP"
-  echo "Converting PDT data to treex in $CORP" >>$LOG
+  echo "Converting PDT-like data to treex in $CORP"
+  echo "Converting PDT-like data to treex in $CORP" >>$LOG
   treex -Lcs Read::PDT version='3.0' from='!*.t' Write::Treex compress=$COMPRESS to=. substitute={}{../treex/} >>$LOG 2>&1
   cd $WD
 
@@ -26,8 +26,8 @@ done
 for CORP in PDT/pml/tamw/{train-1,train-2,train-3,train-4,train-5,train-6,train-7,train-8,dtest,etest}; do
 
   cd $BASE/$TGT
-  echo "Converting PDT data to treex in $CORP"
-  echo "Converting PDT data to treex in $CORP" >>$LOG
+  echo "Converting PDT-like data to treex in $CORP"
+  echo "Converting PDT-like data to treex in $CORP" >>$LOG
   treex -Lcs Read::PDT version='3.0' from="!$CORP/*.t" Write::Treex compress=$COMPRESS to=. substitute={pml}{treex} >>$LOG 2>&1
   cd $WD
 
@@ -36,8 +36,8 @@ done
 for CORP in PDT/pml/amw/{train-1,train-2,train-3,train-4,train-5,train-6,train-7,train-8,dtest,etest}; do
 
   cd $BASE/$TGT
-  echo "Converting PDT data to treex in $CORP"
-  echo "Converting PDT data to treex in $CORP" >>$LOG
+  echo "Converting PDT-like data to treex in $CORP"
+  echo "Converting PDT-like data to treex in $CORP" >>$LOG
   treex -Lcs Read::PDT version='3.0' top_layer='a' from="!$CORP/*.a" Write::Treex compress=$COMPRESS to=. substitute={pml}{treex} >>$LOG 2>&1
   cd $WD
 
@@ -46,8 +46,8 @@ done
 for CORP in PDT/pml/mw/{train-1,train-2,train-3,train-4,train-5,train-6,train-7,train-8,dtest,etest}; do
 
   cd $BASE/$TGT
-  echo "Converting PDT data to treex in $CORP"
-  echo "Converting PDT data to treex in $CORP" >>$LOG
+  echo "Converting PDT-like data to treex in $CORP"
+  echo "Converting PDT-like data to treex in $CORP" >>$LOG
   treex -Lcs Read::PDT version='3.0' top_layer='m' from="!$CORP/*.m" Write::Treex compress=$COMPRESS to=. substitute={pml}{treex} >>$LOG 2>&1
   cd $WD
 
