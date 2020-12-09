@@ -49,7 +49,7 @@ UNALIGNED_DIR=$(TMP_DIR)/01.treex_unaligned
 $(UNALIGNED_DIR)/done : $(ORIG_DIR)/done | $(SCHEMA_DIR)
 	mkdir -p $(dir $@)
 	mkdir -p $(TMP_DIR)/treex_runs
-	treex $(LRC_FLAG) \
+	$(TREEX) \
 		Read::PCEDT from='!$(dir $<)/wsj*.en.t.gz' schema_dir=$| skip_finished='{$(dir $<)/wsj(....).*}{$(dir $@)/wsj$$1.treex.gz}' \
 		Write::Treex substitute='{$(dir $<)/wsj(....).*}{$(dir $@)/wsj$$1.treex.gz}'
 	touch $@
@@ -60,17 +60,56 @@ $(UNALIGNED_DIR)/done : $(ORIG_DIR)/done | $(SCHEMA_DIR)
 
 PCEDT20COREF=/net/data/pcedt2.0-coref/data
 
-pcedt2.0coref_forms.%.txt :
-	treex $(LRC_FLAG) \
+$(TMP_DIR)/pcedt2.0coref_forms.%.txt :
+	$(TREEX) \
 		Read::Treex from='!$(PCEDT20COREF)/*/wsj_*.treex.gz' \
-		Write::AttributeSentences to=- language=$* layer=a attributes='address form' separator='\n' attr_sep='\t' \
+		Write::AttributeSentences to=- language=$* layer=a attributes='form' separator=' ' sent_sep='\n' \
 	> $@
-pcedt4pdtc_forms.%.txt :
-	treex $(LRC_FLAG) \
+$(TMP_DIR)/pcedt4pdtc_forms.%.txt :
+	$(TREEX) \
 		Read::Treex from='!$(UNALIGNED_DIR)/wsj*.treex.gz' \
-		Write::AttributeSentences to=- language=$* layer=a attributes='address form' separator='\n' attr_sep='\t' skip_nodes='defined $$_->tag && $$_->tag eq "-NONE-"' \
+		Write::AttributeSentences to=- language=$* layer=a attributes='form' separator=' ' sent_sep='\n' skip_nodes='defined $$_->tag && $$_->tag eq "-NONE-"' \
 	> $@
 
 ##################################################################################################################################
 ####################################### EXTRACT ALL ALIGNMENT LINKS FROM PCEDT 2.0 COREF #########################################
 ##################################################################################################################################
+
+pcedt2.0coref_align.%.txt :
+	$(TREEX) \
+		Read::Treex from='!$(PCEDT20COREF)/*/wsj_*.treex.gz' \
+		PDTC::AlignLinksPrinter to=- language=$* \
+	> $@
+
+###### extract the alignments in a format tokens + align_idx to be able to process it by pretty_print ######
+
+$(TMP_DIR)/pcedt2.0coref.for_fastalign.txt :
+	$(TREEX) \
+		Read::Treex from='!$(PCEDT20COREF)/*/wsj_*.treex.gz' \
+		PDTC::PrintForFastAlign \
+	> $@
+$(TMP_DIR)/pcedt2.0coref.align.txt :
+	$(TREEX) \
+		Read::Treex from='!$(PCEDT20COREF)/*/wsj_*.treex.gz' \
+		PDTC::AlignLinksPrinter to=- language=en print_idx=1 \
+	> $@
+
+
+##################################################################################################################################
+####################################### PREPARE NEW PCEDT FOR BEING ALIGNED BY FASTALIGN #########################################
+##################################################################################################################################
+
+$(TMP_DIR)/pcedt4pdtc.for_fastalign.txt :
+	$(TREEX) \
+		Read::Treex from='!$(UNALIGNED_DIR)/wsj*.treex.gz' \
+		PDTC::PrintForFastAlign \
+	> $@
+$(TMP_DIR)/pcedt4pdtc.lemma.for_fastalign.txt : $(TMP_DIR)/pcedt4pdtc.for_fastalign.txt
+	cat $< | perl -ne 'chomp $$_; my ($$en, $$cs) = split / \|\|\| /, $$_; print $$en."\n";' | \
+		python fast_align_models/lemmatize_corpus.py -l en > $@.en
+	cat $< | perl -ne 'chomp $$_; my ($$en, $$cs) = split / \|\|\| /, $$_; print $$cs."\n";' | \
+		python fast_align_models/lemmatize_corpus.py -l cs > $@.cs
+	paste $@.en $@.cs | sed 's/\t/ ||| /' > $@
+	rm $@.en $@.cs
+$(TMP_DIR)/pcedt4pdtc.lemma_lc.for_fastalign.txt : $(TMP_DIR)/pcedt4pdtc.lemma.for_fastalign.txt
+	cat $< | perl -e 'binmode STDIN, ":utf8"; binmode STDOUT, ":utf8"; while (<STDIN>) { my $$line = lc($$_); print $$line; }' > $@
