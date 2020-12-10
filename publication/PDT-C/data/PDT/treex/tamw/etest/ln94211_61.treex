@@ -3,7 +3,7 @@
   <head>
     <schema href="treex_schema.xml" />
     <references>
-      <reffile id="v" name="vallex" href="vallex3.xml" />
+      <reffile id="v" name="vallex" href="pdtvallex-2.0.xml" />
     </references>
   </head>
   <meta>

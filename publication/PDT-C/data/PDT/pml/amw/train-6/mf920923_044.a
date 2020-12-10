@@ -4,7 +4,6 @@
 <schema href="adata_c_schema.xml" />
 <references>
 <reffile id="m" name="mdata" href="mf920923_044.m" />
-<reffile id="w" name="wdata" href="mf920923_044.w" />
 </references>
 </head>
 <meta>
