@@ -39,17 +39,16 @@ def read_aligns(align_str, shape):
 
 def extract_changes_from_diff(diff):
     changes = []
-    span1 = None
-    diff1_types = []
-    span2 = None
-    diff2_types = []
+    diff1_types, diff2_types = ([], [])
+    span1, span2 = (None, None)
     for line in diff:
         if re.match(r'\*{15}', line) and span1 is not None and span2 is not None:
-            if any([dt != "!" for dt in diff2_types]):
-                span1 = (span1[1], span1[1])
-            if any([dt != "!" for dt in diff1_types]):
-                span2 = (span2[1], span2[1])
+            if len(diff1_types) == 0:
+                span1 = (span1[0]+1, span1[1])
+            if len(diff2_types) == 0:
+                span2 = (span2[0]+1, span2[1])
             changes.append((span1, span2))
+            diff1_types, diff2_types = ([], [])
             span1, span2 = (None, None)
             continue
         m = re.search(r'(?<=\*\*\* )(\d+),?(\d*)', line)
@@ -65,10 +64,10 @@ def extract_changes_from_diff(diff):
         elif span1 is not None and span2 is not None:
             diff2_types.append(line[0])
     if span1 is not None and span2 is not None:
-        if any([dt != "!" for dt in diff2_types]):
-            span1 = (span1[1], span1[1])
-        if any([dt != "!" for dt in diff1_types]):
-            span2 = (span2[1], span2[1])
+        if len(diff1_types) == 0:
+            span1 = (span1[0]+1, span1[1])
+        if len(diff2_types) == 0:
+            span2 = (span2[0]+1, span2[1])
         changes.append((span1, span2))
     return changes
 
@@ -90,10 +89,10 @@ def extract_aligns(tokens1, tokens2):
         [x+"\n" for x in tokens1],
         [x+"\n" for x in tokens2],
         n=0))
-    print(diff)
+    #print(diff)
     changes = extract_changes_from_diff(diff)
     if len(changes) > 0:
-        print(changes)
+        #print(changes)
         return changes_to_align_matrix(changes, (len(tokens1), len(tokens2)))
     else:
         return np.eye(len(tokens1))
@@ -102,32 +101,28 @@ def extract_aligns(tokens1, tokens2):
     #    print(" ".join([x[1] for x in old_s_tokens[span2[0]:span2[1]]]))
 
 for i, line in enumerate(sys.stdin):
-    print(i)
+    #print(i)
     line = line.rstrip()
     new_en_tok_str, old_en_tok_str, encs_align_str, old_cs_tok_str, new_cs_tok_str = line.split("\t")
     
     new_en_tokens = read_tokens(new_en_tok_str)
     old_en_tokens = read_tokens(old_en_tok_str)
     en_aligns = extract_aligns(new_en_tokens, old_en_tokens)
-    print("EN_ALIGN")
-    print(en_aligns.shape)
+    #print("EN_ALIGN")
+    #print(en_aligns.shape)
 
     old_cs_tokens = read_tokens(old_cs_tok_str)
     new_cs_tokens = read_tokens(new_cs_tok_str)
     cs_aligns = extract_aligns(old_cs_tokens, new_cs_tokens)
-    print("CS_ALIGN")
-    print(old_cs_tokens)
-    print(new_cs_tokens)
-    print(cs_aligns.shape)
+    #print("CS_ALIGN")
+    #print(old_cs_tokens)
+    #print(new_cs_tokens)
+    #print(cs_aligns.shape)
 
     encs_old_aligns = read_aligns(encs_align_str, (len(old_en_tokens), len(old_cs_tokens)))
-    print("ENCS_OLD_ALIGN")
-    print(encs_old_aligns.shape)
+    #print("ENCS_OLD_ALIGN")
+    #print(encs_old_aligns.shape)
 
     encs_new_aligns = np.matmul(np.matmul(en_aligns, encs_old_aligns), cs_aligns)
-    print("ENCS_NEW_ALIGN")
-    print(encs_new_aligns.shape)
-
-    #if new_cs_tokens[0] == "Ministerstvo" and new_cs_tokens[1] == "by":
-    #    print(cs_aligns)
-    #    exit()
+    #print("ENCS_NEW_ALIGN")
+    #print(encs_new_aligns.shape)
