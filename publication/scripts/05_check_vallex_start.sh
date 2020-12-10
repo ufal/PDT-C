@@ -4,7 +4,7 @@ BASE="/net/work/projects/PDT-C/github-PDT-C"
 
 TGT="publication/PDT-C/data"
 
-VALLEX="publication/PDT-C/data/dictionaries/pdtvallex20.xml"
+VALLEX="publication/PDT-C/data/dictionaries/pdtvallex-2.0.xml"
 
 LOG="05_check_vallex.log"
 SUM="05_check_vallex.summary"

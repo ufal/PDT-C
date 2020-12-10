@@ -41,7 +41,7 @@ echo "Copying Faust t-files"
 
 for A in $BASE/$SRC/*.t; do
   B="$(basename -- $A)"
-  cat $A | sed "s/tdata_.*schema.xml/tdata_c_schema_work.xml/" | sed "s/href=\"vallex3.xml\"/href=\"pdtvallex20.xml\"/" >$BASE/$TGT/$B
+  cat $A | sed "s/tdata_.*schema.xml/tdata_c_schema_work.xml/" | sed "s/href=\"vallex3.xml\"/href=\"pdtvallex-2.0.xml\"/" >$BASE/$TGT/$B
   grep "<schema" $BASE/$TGT/$B >>$LOG
 done
 
@@ -84,24 +84,28 @@ echo "Copying PCEDT t-files"
 
 for A in $BASE/$SRC/*.t; do
   B="$(basename -- $A)"
-  cat $A | sed "s/tanot_schema.xml/tdata_c_schema_work.xml/" | sed "s/href=\"vallex3.xml\"/href=\"pdtvallex20.xml\"/" >$BASE/$TGT/$B
+  cat $A | sed "s/tanot_schema.xml/tdata_c_schema_work.xml/" | sed "s/href=\"vallex3.xml\"/href=\"pdtvallex-2.0.xml\"/" >$BASE/$TGT/$B
   grep "<schema" $BASE/$TGT/$B >>$LOG
 done
 
 
 
-SRC_VAL="$BASE/tred-extension/pdt_c_m/resources"
-SRC_ENG_VAL="/net/data/pcedt2.0/valency_lexicons"
-TGT="publication/PDT-C/data/dictionaries"
+#SRC_VAL="$BASE/tred-extension/pdt_c_m/resources/vallex3.xml"
+#SRC_ENG_VAL="/net/data/pcedt2.0/valency_lexicons/engvallex.xml"
+#SRC_MORFFLEX="/net/projects/morfflex/cz/compiled/czech-morfflex-pdt-c/czech-morfflex-pdt-c.raw.xz"
+#TGT="publication/PDT-C/data/dictionaries"
 
-rm -rf $BASE/$TGT/pdtvallex10.xml
-echo "Copying PDT-Vallex"
-cp $SRC_VAL/vallex3.xml $BASE/$TGT/pdtvallex20.xml
+#rm -rf $BASE/$TGT/pdtvallex-2.0.xml
+#echo "Copying PDT-Vallex"
+#cp $SRC_VAL $BASE/$TGT/pdtvallex-2.0.xml
 
-rm -rf $BASE/$TGT/engvallex.xml
-echo "Copying EngVallex"
-cp $SRC_ENG_VAL/engvallex.xml $BASE/$TGT/engvallex.xml
+#rm -rf $BASE/$TGT/engvallex.xml
+#echo "Copying EngVallex"
+#cp $SRC_ENG_VAL $BASE/$TGT/engvallex.xml
 
+#rm -rf $BASE/$TGT/czech-morfflex-2.0.xz
+#echo "Copying MorfFlex"
+#cp $SRC_MORFFLEX $BASE/$TGT/czech-morfflex-2.0.xz
 
 
 SRC="WorkData/PDT/data"
@@ -148,7 +152,7 @@ for PART in train-1 train-2 train-3 train-4 train-5 train-6 train-7 train-8 dtes
 
   for A in $BASE/$SRC/tamw/$PART/*.t; do
     B="$(basename -- $A)"
-    cat $A | sed "s/tdata_.*schema.xml/tdata_c_schema_work.xml/" | sed "s/href=\"vallex3.xml\"/href=\"pdtvallex20.xml\"/" >$BASE/$TGT/tamw/$PART/$B
+    cat $A | sed "s/tdata_.*schema.xml/tdata_c_schema_work.xml/" | sed "s/href=\"vallex3.xml\"/href=\"pdtvallex-2.0.xml\"/" >$BASE/$TGT/tamw/$PART/$B
     grep "<schema" $BASE/$TGT/tamw/$PART/$B >>$LOG
   done
 
@@ -190,7 +194,7 @@ echo "Copying PDTSC t-files"
 
 for A in $BASE/$SRC/*.t; do
   B="$(basename -- $A)"
-  cat $A | sed "s/tanot_coref_schema.xml/tdata_c_schema_work.xml/" | sed "s/href=\"vallex3.xml\"/href=\"pdtvallex20.xml\"/" >$BASE/$TGT/$B
+  cat $A | sed "s/tanot_coref_schema.xml/tdata_c_schema_work.xml/" | sed "s/href=\"vallex3.xml\"/href=\"pdtvallex-2.0.xml\"/" >$BASE/$TGT/$B
   grep "<schema" $BASE/$TGT/$B >>$LOG
 done
 
