@@ -100,6 +100,15 @@ def extract_aligns(tokens1, tokens2):
     #    print(" ".join([x[1] for x in new_s_tokens[span1[0]:span1[1]]]))
     #    print(" ".join([x[1] for x in old_s_tokens[span2[0]:span2[1]]]))
 
+def print_aligns(align_matrix):
+    align_list = []
+    for i in range(encs_new_aligns.shape[0]):
+        for j in range(encs_new_aligns.shape[1]):
+            if encs_new_aligns[i, j] > 0:
+                align_list.append("{:d}-{:d}".format(i, j))
+    print(" ".join(align_list))
+
+
 for i, line in enumerate(sys.stdin):
     #print(i)
     line = line.rstrip()
@@ -126,3 +135,7 @@ for i, line in enumerate(sys.stdin):
     encs_new_aligns = np.matmul(np.matmul(en_aligns, encs_old_aligns), cs_aligns)
     #print("ENCS_NEW_ALIGN")
     #print(encs_new_aligns.shape)
+
+    print_aligns(encs_new_aligns)
+
+    
