@@ -4,7 +4,7 @@
 <schema href="tdata_c_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ak_046.11.a" />
-<reffile id="v" name="vallex" href="pdtvallex-2.0.xml" />
+<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
 </references>
 </head>
 <trees>
