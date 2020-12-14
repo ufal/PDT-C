@@ -1,6 +1,7 @@
 #!/bin/bash
 
 BASE="/net/work/projects/PDT-C/github-PDT-C"
+PDTVALLEX="pdtvallex-4.0.xml"
 
 LOG="02_copy_data.log"
 SUM="02_copy_data.summary"
@@ -41,7 +42,7 @@ echo "Copying Faust t-files"
 
 for A in $BASE/$SRC/*.t; do
   B="$(basename -- $A)"
-  cat $A | sed "s/tdata_.*schema.xml/tdata_c_schema_work.xml/" | sed "s/href=\"vallex3.xml\"/href=\"pdtvallex-2.0.xml\"/" >$BASE/$TGT/$B
+  cat $A | sed "s/tdata_.*schema.xml/tdata_c_schema_work.xml/" | sed "s/href=\"vallex3.xml\"/href=\"$PDTVALLEX\"/" >$BASE/$TGT/$B
   grep "<schema" $BASE/$TGT/$B >>$LOG
 done
 
@@ -84,7 +85,7 @@ echo "Copying PCEDT t-files"
 
 for A in $BASE/$SRC/*.t; do
   B="$(basename -- $A)"
-  cat $A | sed "s/tanot_schema.xml/tdata_c_schema_work.xml/" | sed "s/href=\"vallex3.xml\"/href=\"pdtvallex-2.0.xml\"/" >$BASE/$TGT/$B
+  cat $A | sed "s/tanot_schema.xml/tdata_c_schema_work.xml/" | sed "s/href=\"vallex3.xml\"/href=\"$PDTVALLEX\"/" >$BASE/$TGT/$B
   grep "<schema" $BASE/$TGT/$B >>$LOG
 done
 
@@ -97,7 +98,7 @@ done
 
 #rm -rf $BASE/$TGT/pdtvallex-2.0.xml
 #echo "Copying PDT-Vallex"
-#cp $SRC_VAL $BASE/$TGT/pdtvallex-2.0.xml
+#cp $SRC_VAL $BASE/$TGT/$PDTVALLEX
 
 #rm -rf $BASE/$TGT/engvallex.xml
 #echo "Copying EngVallex"
@@ -152,7 +153,7 @@ for PART in train-1 train-2 train-3 train-4 train-5 train-6 train-7 train-8 dtes
 
   for A in $BASE/$SRC/tamw/$PART/*.t; do
     B="$(basename -- $A)"
-    cat $A | sed "s/tdata_.*schema.xml/tdata_c_schema_work.xml/" | sed "s/href=\"vallex3.xml\"/href=\"pdtvallex-2.0.xml\"/" >$BASE/$TGT/tamw/$PART/$B
+    cat $A | sed "s/tdata_.*schema.xml/tdata_c_schema_work.xml/" | sed "s/href=\"vallex3.xml\"/href=\"$PDTVALLEX\"/" >$BASE/$TGT/tamw/$PART/$B
     grep "<schema" $BASE/$TGT/tamw/$PART/$B >>$LOG
   done
 
@@ -194,7 +195,7 @@ echo "Copying PDTSC t-files"
 
 for A in $BASE/$SRC/*.t; do
   B="$(basename -- $A)"
-  cat $A | sed "s/tanot_coref_schema.xml/tdata_c_schema_work.xml/" | sed "s/href=\"vallex3.xml\"/href=\"pdtvallex-2.0.xml\"/" >$BASE/$TGT/$B
+  cat $A | sed "s/tanot_coref_schema.xml/tdata_c_schema_work.xml/" | sed "s/href=\"vallex3.xml\"/href=\"$PDTVALLEX\"/" >$BASE/$TGT/$B
   grep "<schema" $BASE/$TGT/$B >>$LOG
 done
 
