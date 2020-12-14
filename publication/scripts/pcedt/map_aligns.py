@@ -26,7 +26,7 @@ def decode_aligntype(code):
         aligntype += "int.gdfa"
     else:
         aligntype += "gdfa"
-    return alignsrc + "_" + aligntype
+    return aligntype + "-" + alignsrc
 
 def read_tokens(token_str):
     return token_str.split(" ")
