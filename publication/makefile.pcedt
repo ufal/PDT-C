@@ -130,3 +130,28 @@ $(ALIGNED_A_DIR)/pcedt4pdtc.align.txt : $(ALIGNED_A_DIR)/pcedt4pdtc_forms.cs.txt
 $(ALIGNED_A_DIR)/pcedt4pdtc.align.txt : $(ALIGNED_A_DIR)/pcedt4pdtc.lemma_lc.I10.fastalign.gdfa.txt
 $(ALIGNED_A_DIR)/pcedt4pdtc.align.txt :
 	paste $^ | python scripts/pcedt/map_aligns.py > $@
+
+#---------------------------------------------------------------------------------------------------------------------------------
+#    5. import of the projected alignment to the Treex documents of PDT-C PCEDT
+#---------------------------------------------------------------------------------------------------------------------------------
+
+$(ALIGNED_A_DIR)/pcedt4pdtc.sentid.txt :
+	$(TREEX) \
+		Read::Treex from='!$(UNALIGNED_DIR)/wsj*.treex.gz' \
+		Util::Eval bundle='print $$bundle->get_document->loaded_from."-".$$bundle->id."\n";' \
+	> $@
+
+# a "-"-delimited string of names of alignment types
+TYPESTR=int.gdfa-g_gdfa-g_gdfa-f
+
+$(ALIGNED_A_DIR)/pcedt4pdtc.align.to_import.tsv : $(ALIGNED_A_DIR)/pcedt4pdtc.align.txt $(ALIGNED_A_DIR)/pcedt4pdtc.sentid.txt
+	cat $(word 1,$^) | python scripts/pcedt/column_aligns.py $(TYPESTR) | paste $(word 2,$^) - > $@
+
+$(ALIGNED_A_DIR)/done : $(ALIGNED_A_DIR)/pcedt4pdtc.align.to_import.tsv
+	$(TREEX) \
+		Read::Treex from='!$(UNALIGNED_DIR)/wsj*.treex.gz' \
+		Align::A::InsertAlignmentFromFile language=en selector= to_language=cs to_selector= \
+        	from=$< inputcols=$(TYPESTR) \
+		Write::Treex path=$(dir $@)
+	touch $@
+
