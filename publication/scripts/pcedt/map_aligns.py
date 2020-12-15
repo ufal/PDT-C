@@ -6,15 +6,40 @@ import numpy as np
 from scipy.linalg import block_diag
 from pprint import pprint
 
+ALIGN_TYPE2CODE = {
+    "" : 1,
+    "gdfa": 100,
+    "int.gdfa": 10000,
+}
+
+def encode_aligntype(aligntype):
+    return ALIGN_TYPE2CODE[aligntype]
+
+def decode_aligntype(code):
+    aligntype = ""
+    alignsrc = ""
+    if code % ALIGN_TYPE2CODE["gdfa"] != 0:
+        alignsrc += "f"
+    if code >= ALIGN_TYPE2CODE["gdfa"]:
+        alignsrc += "g"
+    if code >= ALIGN_TYPE2CODE["int.gdfa"]:
+        aligntype += "int.gdfa"
+    else:
+        aligntype += "gdfa"
+    return aligntype + "-" + alignsrc
+
 def read_tokens(token_str):
     return token_str.split(" ")
 
 def read_aligns(align_str, shape):
     align_matrix = np.zeros(shape)
+    #print(shape, file=sys.stderr)
     aligns = align_str.split(" ")
     for align in aligns:
-        xy = align.split("-")
-        align_matrix[int(xy[0]), int(xy[1])] = 1
+        align_info = align.split(":")
+        #print(align_info, file=sys.stderr)
+        x, y = align_info[0].split("-")
+        align_matrix[int(x), int(y)] = encode_aligntype(align_info[1] if len(align_info) > 1 else "")
     return align_matrix
 
 #def read_token_file(path):
@@ -83,50 +108,66 @@ def changes_to_align_matrix(changes, shape):
     res = block_diag(res, np.eye(min(np.array(shape)-np.array(res.shape))))
     return res
 
+def spans_to_mask(spans, length):
+    mask = np.ones((length, 1))
+    for s,e in spans:
+        mask[s:e] = 0
+    return mask
+
 
 def extract_aligns(tokens1, tokens2):
     diff = list(difflib.context_diff(
         [x+"\n" for x in tokens1],
         [x+"\n" for x in tokens2],
         n=0))
-    #print(diff)
+    # print(diff)
     changes = extract_changes_from_diff(diff)
     if len(changes) > 0:
-        #print(changes)
-        return changes_to_align_matrix(changes, (len(tokens1), len(tokens2)))
+        # print(changes)
+        align_matrix = changes_to_align_matrix(changes, (len(tokens1), len(tokens2)))
     else:
-        return np.eye(len(tokens1))
+        align_matrix = np.eye(len(tokens1))
+    mask = spans_to_mask([span1 for span1, span2 in changes], len(tokens1))
+    return align_matrix, mask
     #for span1, span2 in changes:
     #    print(" ".join([x[1] for x in new_s_tokens[span1[0]:span1[1]]]))
     #    print(" ".join([x[1] for x in old_s_tokens[span2[0]:span2[1]]]))
 
-def print_aligns(align_matrix):
+def print_aligns(align_matrix, align_mask=None):
     align_list = []
     for i in range(encs_new_aligns.shape[0]):
         for j in range(encs_new_aligns.shape[1]):
-            if encs_new_aligns[i, j] > 0:
-                align_list.append("{:d}-{:d}".format(i, j))
+            if encs_new_aligns[i, j] > 0 and (align_mask is None or align_mask[i, j] > 0):
+                align_type = decode_aligntype(encs_new_aligns[i, j])
+                align_list.append("{:d}-{:d}:{:s}".format(i, j, align_type))
     print(" ".join(align_list))
 
 
 for i, line in enumerate(sys.stdin):
-    #print(i)
+    #print(i, file=sys.stderr)
     line = line.rstrip()
-    new_en_tok_str, old_en_tok_str, encs_align_str, old_cs_tok_str, new_cs_tok_str = line.split("\t")
+    line_items = line.split("\t")
+    new_en_tok_str, old_en_tok_str, encs_align_str, old_cs_tok_str, new_cs_tok_str, encs_aux_new_align_str = [line_items[i] if i < len(line_items) else None for i in range(6)]
     
+    #print("EN_ALIGN")
     new_en_tokens = read_tokens(new_en_tok_str)
     old_en_tokens = read_tokens(old_en_tok_str)
-    en_aligns = extract_aligns(new_en_tokens, old_en_tokens)
-    #print("EN_ALIGN")
+    en_aligns, en_mask = extract_aligns(new_en_tokens, old_en_tokens)
     #print(en_aligns.shape)
 
+    #print("CS_ALIGN")
     old_cs_tokens = read_tokens(old_cs_tok_str)
     new_cs_tokens = read_tokens(new_cs_tok_str)
-    cs_aligns = extract_aligns(old_cs_tokens, new_cs_tokens)
-    #print("CS_ALIGN")
+    cs_aligns, cs_mask = extract_aligns(new_cs_tokens, old_cs_tokens)
+    cs_aligns = np.transpose(cs_aligns)
+    cs_mask = np.transpose(cs_mask)
     #print(old_cs_tokens)
     #print(new_cs_tokens)
     #print(cs_aligns.shape)
+
+    encs_aux_new_aligns = None
+    if encs_aux_new_align_str is not None:
+        encs_aux_new_aligns = read_aligns(encs_aux_new_align_str, (len(new_en_tokens), len(new_cs_tokens)))
 
     encs_old_aligns = read_aligns(encs_align_str, (len(old_en_tokens), len(old_cs_tokens)))
     #print("ENCS_OLD_ALIGN")
@@ -136,6 +177,9 @@ for i, line in enumerate(sys.stdin):
     #print("ENCS_NEW_ALIGN")
     #print(encs_new_aligns.shape)
 
-    print_aligns(encs_new_aligns)
+    encs_mask = np.matmul(en_mask, cs_mask)
+    encs_compl_mask = np.ones(encs_mask.shape) - encs_mask
+    if encs_aux_new_aligns is not None:
+        encs_new_aligns = encs_mask*encs_new_aligns + encs_compl_mask*encs_aux_new_aligns
 
-    
+    print_aligns(encs_new_aligns)
