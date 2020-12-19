@@ -3,10 +3,10 @@
   <head>
     <schema href="tred_extension_schema.xml"/>
   </head>
-  <pkgname>pdt_c</pkgname>
+  <pkgname>pdtc10</pkgname>
   <repository href="http://ufal.mff.cuni.cz/tred/extensions/external/"/>
   <title>Prague Dependency Treebank - Consolidated</title>
-  <version>1.08</version>
+  <version>1.09</version>
   <copyright year="2020">Jiří Mírovský, Jan Štěpánek, Petr Pajas, Zdeněk Žabokrtský</copyright>
   <icon>icons/logo.png</icon>
   <require>
