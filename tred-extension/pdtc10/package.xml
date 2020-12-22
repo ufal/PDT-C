@@ -5,7 +5,7 @@
   </head>
   <pkgname>pdtc10</pkgname>
   <repository href="http://ufal.mff.cuni.cz/tred/extensions/external/"/>
-  <title>Prague Dependency Treebank - Consolidated</title>
+  <title>Prague Dependency Treebank - Consolidated 1.0</title>
   <version>1.09</version>
   <copyright year="2020">Jiří Mírovský, Jan Štěpánek, Petr Pajas, Zdeněk Žabokrtský</copyright>
   <icon>icons/logo.png</icon>
@@ -13,6 +13,6 @@
     <extension name="pdt20" href="http://ufal.mff.cuni.cz/tred/extensions/core/pdt20"/>
     <tred min_version="2.000"/>
   </require>
-  <description>Provides support for PDT-C files
+  <description>Provides support for Prague Dependency Treebank - Consolidated 1.0 (PDT-C 1.0) files.
   </description>
 </tred_extension>
