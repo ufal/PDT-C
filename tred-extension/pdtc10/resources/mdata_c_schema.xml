@@ -49,6 +49,12 @@
     </container>
   </type>
 
+  <type name="m-m.type">
+    <container role="#NODE">
+      <alt type="m-node.type"/>
+    </container>
+  </type>
+
   <type name="m-node.type">
     <structure name="m-node" role="#NODE">
       <member as_attribute="1" name="id" role="#ID" required="1"><cdata format="ID"/></member>
