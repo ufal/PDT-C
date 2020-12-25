@@ -24,10 +24,235 @@
 </tr></table>
 
 
-<h1>Data</h1>
+<h1>
+	Data
+</h1>
 
 <p>
+	The Prague Dependency Treebank – Consolidated 1.0 (PDT-C 1.0) can be downloaded as a single zip archive from <a href="http://hdl.handle.net/11234/1-3185" target="_blank">the LINDAT-Clarin repository</a> (see the <a href="https://ufal.mff.cuni.cz/pdt-c/licence">Licence</a>).
 </p>
+
+<p>
+	After unzipping the downloaded archive, the data can be found in directory <code>data</code>, where they are divided into four subdirectories representing four source corpora:
+</p>
+
+<ul>
+	<li>
+		<code>Faust</code>
+	</li>
+	<li>
+		<code>PCEDT</code>
+	</li>
+	<li>
+		<code>PDT</code>
+	</li>
+	<li>
+		<code>PDTSC</code>
+	</li>
+</ul>
+
+<p>
+	The fifth subdirectory there (<code>dictionaries</code>) contains two lexicons related to the corpora:
+</p>
+
+<ul>
+	<li>
+		<code>pdtvallex-4.0.xml</code> - Czech valency lexicon PDT-Vallex 4.0
+	</li>
+	<li>
+		<code>czech-morfflex-2.0.xz</code> - Czech morphological dictionary
+	</li>
+</ul>
+
+<p>
+	All four corpora are uniformly published in three formats and placed in the respective directories:
+</p>
+
+<ul>
+	<li>
+		<code>pml</code> - a PML format (see below) used in the previous versions of the PDT since version 2.0 (each document is represented by four files corresponding to four layers: t-layer (tectogrammatics), a-layer (analytics, surface syntax), m-layer (morphology) and w-layer (word layer, tokenized text)
+	</li>
+	<li>
+		<code>treex</code> - technically also a PML format, used in the NLP system <a href="http://ufal.mff.cuni.cz/treex" target="_blank">Treex</a> (all annotation layers are in a single file)
+	</li>
+	<li>
+		<code>mrp</code> - a JSON-based format used in the CoNLL 2019 and 2020 shared tasks on meaning representation parsing (see <a href="http://mrp.nlpl.eu/2020/index.php?page=14">Uniform Graph Interchange Format</a>); unlike the PML and Treex formats, the conversion to the MRP format is lossy - it extracts part of the annotation from the t- and w-layers while discarding morphology and surface syntax (Zeman and Hajič 2020)
+	</li>
+</ul>
+
+<p>
+	Corpora with singular properties are available also in additional formats/directories:
+</p>
+
+<ul>
+	<li>
+		PDTSC - the whole PDTSC consisting of all layers from the audio up to the tectogrammatics, in a slightly modified PML format, is placed in directory <code>PDTSC/full</code>
+	</li>
+	<li>
+		PDT - not the whole PDT has been annotated on all annotation layers; the highest annotated layer is indicated by the directory name:
+		<p>
+			In each directory, the PDT data are further divided into ten subdirectories (<code>train-1</code> ... <code>train-8</code>, <code>dtest</code>, <code>etest</code>), suggesting their recommended use in machine-learning experiments (train data, development test data, evaluation test data).
+		</p>
+
+		<ul>
+			<li>
+				<code>tamw</code> - documents annotated on all three annotation layers (morphological, analytical, tectogrammatical)
+			</li>
+			<li>
+				<code>amw</code> - documents annotated on the morphological and analytical layer (but not on the tectogrammatical layer)
+			</li>
+			<li>
+				<code>mw</code> - documents annotated on the morphological layer only.
+			</li>
+		</ul>
+	</li>
+</ul>
+
+<p>
+	Please note that for the PDTSC, directory <code>PDTSC/full</code> should be considered the primary data source, as directory <code>PDTSC/pml</code> only contains (for each document) one reconstructed m-layer file, an artificial w-layer file and no lower layers.
+</p>
+
+<h2>
+	PML
+</h2>
+
+<p>
+	The Prague Markup Language format (<a href="https://ufal.mff.cuni.cz/pml" target="_blank">PML</a>, Pajas and Štěpánek 2008) is an XML based format for linguistic annotation (esp. treebanks). With the exception of the MRP and audio files, all data formats of the corpora in the PDT-C are instances of the PML. For the sake of completeness, PML schemata of the files can be found in directory <code>resources</code>. (The schemata are XML files that describe the structure of the annotated files.)
+</p>
+
+<h3>
+	How to browse the data
+</h3>
+
+<h4>
+	Tree editor TrEd
+</h4>
+
+<p>
+	<a href="http://ufal.mff.cuni.cz/tred/" target="_blank">Tree editor TrEd</a> (Pajas and Štěpánek 2008) can be used to open and browse the PML data, i.e. data in directories <code>pml</code>, <code>treex</code> and, for the PDTSC, also directory <code>full</code>. Please note that in directories <code>pml</code> and <code>PDTSC/full</code>, only t-files, a-files and m-files (mdata-files) can be opened directly in TrEd.
+</p>
+
+<p>
+	The editor can be downloaded for various platforms from its <a href="http://ufal.mff.cuni.cz/tred/" target="_blank">home page</a>. Please follow installation instructions specified for your operating system.
+</p>
+
+<h4>
+	After the installation, an extension needs to be installed:
+</h4>
+
+<ol>
+	<li>
+		Start TrEd.
+	</li>
+	<li>
+		In the top menu, select <i>Setup</i> -> <i>Manage Extensions...</i>; a dialog window with a list of installed extensions appears.
+	</li>
+	<li>
+		Click on the button <i>"Get New Extensions"</i>; a dialog window with a list of available (not yet installed) extensions appears.
+		<ul>
+			<li>
+				For data from directories <code>pml</code> and <code>PDTSC/full</code>, make sure that at least extension <i>"Prague Dependency Treebank - Consolidated 1.0 (pdtc10)"</i> is checked to install (if it is not in the list, it may have already been installed).
+			</li>
+			<li>
+				For data from directories <code>treex</code>, make sure that at least extension <i>"EasyTreex - browse and edit Treex files (*.treex, *.treex.gz, *.streex) (easytreex)"</i> is checked to install (if it is not in the list, it may have already been installed).
+			</li>
+		</ul>
+	</li>
+	<li>
+		Click on the button <i>"Install Selected"</i>; the selected extensions get installed.
+	</li>
+	<li>
+	  Close the <i>Manage Extensions</i> dialog window. If you have checked the <i>easytreex</i> extension to install, TrEd may be unresponsive for serveral minutes, as it is now installing Perl modules <i>Treex::Core</i> in the background. Wait until it is finished and TrEd starts to react again.
+  </li>
+	<li>
+		Close all TrEd windows including the main application window and start TrEd again.
+	</li>
+</ol>
+
+<p>
+	Now, TrEd is able to open t-layer, a-layer and m-layer (mdata-layer) files in directories <code>pml</code> and <code>PDTSC/full</code>, and files in directories <code>treex</code> of the PDT-C 1.0.
+</p>
+
+<p>
+	In case of troubles with the installation of TrEd or with browsing the data, please contact the authors at (tred <code>at</code> ufal.mff.cuni.cz).
+</p>
+
+<h4>
+	Editor MEd
+</h4>
+
+<p>
+	<a href="http://ufal.mff.cuni.cz/editor_med/" target="_blank">Editor MEd</a> can be used to open lower-layer files of data in directory <code>PDTSC/full</code>, i.e. mdata files interlinked down to the audio layer. To install the editor, please follow installation instruction at its <a href="http://ufal.mff.cuni.cz/editor_med/" target="_blank">home page</a>.
+</p>
+
+<p>
+	Before opening the mdata files, make sure that you have schemata <code>m-pdtsc-schema.xml</code>, <code>w-pdtsc-schema.xml</code>, <code>z-pdtsc-schema.xml</code>, <code>mdata_c_schema.xml</code> and <code>wdata_c_schema.xml</code> from directory <code>resources</code> in the same directory as the mdata files.
+</p>
+
+<h2>
+	How to search the data
+</h2>
+
+<p>
+	<a href="http://ufal.mff.cuni.cz/pmltq/" target="_blank">PML Tree Query</a> (PML-TQ; Pajas and Štěpánek 2009) is a powerful client-server system for querying treebanks, developed primarily for searching in the PDT data. The PDT-C as a whole and also all its subcorpora separately are available for searching using the PML-TQ from ÚFAL's public PML-TQ server. There are two clients available:
+</p>
+
+<ul>
+	<li>
+		<a href="http://ufal.mff.cuni.cz/tred/" target="_blank">Tree editor TrEd</a> can be used as a user-friendly graphically oriented client, using the extension <em>"PML Tree Query Interface for TrEd (pmltq)"</em> (follow the same installation steps as for the <em>pdtc10</em> extension described above).
+	</li>
+	<li>
+		The public PML-TQ server of our institute can be <a href="https://lindat.mff.cuni.cz/services/pmltq/#!/home" target="_blank">accessed also anonymously using a web browser as a client</a>. Unlike the TrEd client, it lacks the possibility to create a query graphically and has limitations in the ways it can display the results. However, it is the quickest way to get to the data.
+	</li>
+</ul>
+
+<p>
+	For further information about the clients, see <a href="https://ufal.mff.cuni.cz/pmltq/clients" target="_blank">the PML-TQ clients documentation</a>. For general info about the PML-TQ, please refer to <a href="http://ufal.mff.cuni.cz/pmltq/" target="_blank">the PML-TQ web page</a>. For documentation about the query language and tutorials, see <a href="https://ufal.mff.cuni.cz/pmltq/user-documentation" target="_blank">the PML-TQ user documentation</a>.
+</p>
+
+<p>
+	There are several PDT-C data sets available for searching (treebank ids for the TrEd client are in parentheses):
+</p>
+
+<ul>
+	<li>
+		PDT-C 1.0 (<code>pdtc10</code>): the whole PDT-C 1.0 data (without the English part of the PCEDT and the audio-related layers of the PDTSC)
+	</li>
+	<li>
+		PDT-C 1.0 - Faust (<code>pdtc10_faust</code>): the Faust part of the PDT-C 1.0
+	</li>
+	<li>
+		PDT-C 1.0 - PCEDT-cz (<code>pdtc10_pcedt-cz</code>): the Czech PCEDT part of the PDT-C 1.0
+	</li>
+	<li>
+		PDT-C 1.0 - PDT (<code>pdtc10_pdt</code>): the PDT part of the PDT-C 1.0
+	</li>
+	<li>
+		PDT-C 1.0 - PDTSC (<code>pdtc10_pdtsc</code>): the PDTSC part of the PDT-C 1.0 (without the audio-related layers)
+	</li>
+</ul>
+
+<p>
+	In case of troubles with the PML-TQ or with searching in the PDT-C data particularly, try to contact the developers at (pmltq <code>at</code> ufal.mff.cuni.cz).
+</p>
+
+<h2>
+	References
+</h2>
+
+<p style="margin-left: 1cm; text-indent: -1cm; margin-bottom: 0cm">
+	Pajas, P. and Štěpánek, J.: Recent Advances in a Feature-Rich Framework for Treebank Annotation. In: <i>The 22nd International Conference on Computational Linguistics - Proceedings of the Conference</i>, The Coling 2008 Organizing Committee, Manchester, UK, ISBN 978-1-905593-45-3, pp. 673-680, 2008.
+</p>
+
+<p style="margin-left: 1cm; text-indent: -1cm; margin-bottom: 0cm">
+	Pajas, P. and Štěpánek, J.: System for Querying Syntactically Annotated Corpora. In: <em>Proceedings of the ACL-IJCNLP 2009 Software Demonstrations</em>, Association for Computational Linguistics, Suntec, Singapore, ISBN 1-932432-61-2, pp. 33-36, 2009.
+</p>
+
+<p style="margin-left: 1cm; text-indent: -1cm; margin-bottom: 0cm">
+	Zeman, D. and Hajič, J.: FGD at MRP 2020: Prague Tectogrammatical Graphs. In: <em>Proceedings of the CoNLL 2020 Shared Task: Cross-Framework Meaning Representation Parsing</em>, Association for Computational Linguistics, Stroudsburg, PA, USA, ISBN 978-1-952148-64-4, pp. 33-39, 2020.
+</p>
+
+
 
 <p>&nbsp;</p>
 </div>
