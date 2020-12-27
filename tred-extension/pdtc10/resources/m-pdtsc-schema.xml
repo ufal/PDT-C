@@ -34,9 +34,9 @@
   <type name="m-s.type">
     <container role="#NODE" type="m-s-content.type">
       <attribute name="id" role="#ID" required="1"><cdata format="ID"/></attribute>
-      <attribute name="w-begin.rf" required="1"><cdata format="PMLREF"/></attribute>
-      <attribute name="w-end.rf" required="1"><cdata format="PMLREF"/></attribute>
-      <attribute name="w-speaker.rf" required="1"><cdata format="PMLREF"/></attribute>
+      <attribute name="w-begin.rf" required="0"><cdata format="PMLREF"/></attribute>
+      <attribute name="w-end.rf" required="0"><cdata format="PMLREF"/></attribute>
+      <attribute name="w-speaker.rf" required="0"><cdata format="PMLREF"/></attribute>
       <attribute name="stype" type="m-stype.type"/>
     </container>
   </type>

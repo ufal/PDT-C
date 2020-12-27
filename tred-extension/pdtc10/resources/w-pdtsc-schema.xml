@@ -146,7 +146,7 @@
   </type>
   <type name="w-background_end.type">
     <structure>
-      <member as_attribute="1" name="background_begin.rf" required="1">
+      <member as_attribute="1" name="background_begin.rf" required="0">
 	<cdata format="PMLREF"/>
       </member>
     </structure>
@@ -154,7 +154,7 @@
   <type name="w-speaker-ref.type">
     <structure>
       <member as_attribute="1" name="id" role="#ID" required="1" type="id.type"/>
-      <member name="speaker.rf" required="1">
+      <member name="speaker.rf" required="0">
 	<cdata format="PMLREF" />
       </member>
     </structure>
