@@ -155,3 +155,21 @@ $(ALIGNED_A_DIR)/done : $(ALIGNED_A_DIR)/pcedt4pdtc.align.to_import.tsv
 		Write::Treex path=$(dir $@)
 	touch $@
 
+##################################################################################################################################
+############################# DIAGNOSTICS OF T-NODES IN THE OLD AND THE NEW PCEDT  ###############################################
+##################################################################################################################################
+ALIGNED_T_DIR=$(TMP_DIR)/03.treex_aligned_t
+
+$(ALIGNED_T_DIR) :
+	mkdir $@
+
+$(ALIGNED_T_DIR)/pcedt2.0coref_tforms.%.txt : | $(ALIGNED_T_DIR)
+	$(TREEX) \
+		Read::Treex from='!$(PCEDT20COREF)/*/wsj_*.treex.gz' \
+		Write::AttributeSentences to=- language=$* layer=t attributes='id,t_lemma' separator='\n' attr_sep='\t' sent_sep='\n\n' \
+	> $@
+$(ALIGNED_T_DIR)/pcedt4pdtc_tforms.%.txt : | $(ALIGNED_T_DIR)
+	$(TREEX) \
+		Read::Treex from='!$(ALIGNED_A_DIR)/wsj*.treex.gz' \
+		Write::AttributeSentences to=- language=$* layer=t attributes='id,t_lemma' separator='\n' attr_sep='\t' sent_sep='\n\n' \
+	> $@
