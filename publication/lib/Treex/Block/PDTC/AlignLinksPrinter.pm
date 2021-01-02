@@ -7,6 +7,7 @@ extends 'Treex::Core::Block';
 
 has 'print_idx' => ( is => 'ro', isa => 'Bool', default => 0 );
 has '_links' => ( is => 'rw', isa => 'ArrayRef', default => sub {[]} );
+has 'layer' => ( is => 'ro', isa => 'Str', default => 'a' );
 
 sub print_indexes {
     my ($self, $bundle) = @_;
@@ -20,7 +21,12 @@ sub print_for_import {
     my $links = $self->_links;
     foreach my $triple (@$links) {
         my ($from, $to, $type) = @$triple;
-        print join "\t", ($file_stem, $from->id, $from->form, $to->id, $to->form, $type);
+        if ($from->get_layer eq "a" and $to->get_layer eq "a") {
+            print join "\t", ($file_stem, $from->id, $from->form, $to->id, $to->form, $type);
+        }
+        else {
+            print join "\t", ($file_stem, $from->id, $from->t_lemma, $to->id, $to->t_lemma, $type);
+        }
         print "\n";
     }
 }
@@ -38,9 +44,21 @@ after 'process_bundle' => sub {
 
 sub process_anode {
     my ($self, $anode) = @_;
+    return if $self->layer !~ /a/;
+
     my ($nodes, $types) = $anode->get_undirected_aligned_nodes();
     for (my $i = 0; $i < @$nodes; $i++) {
         push @{$self->_links}, [$anode, $nodes->[$i], $types->[$i]];
+    }
+}
+
+sub process_tnode {
+    my ($self, $tnode) = @_;
+    return if $self->layer !~ /t/;
+
+    my ($nodes, $types) = $tnode->get_undirected_aligned_nodes();
+    for (my $i = 0; $i < @$nodes; $i++) {
+        push @{$self->_links}, [$tnode, $nodes->[$i], $types->[$i]];
     }
 }
 
