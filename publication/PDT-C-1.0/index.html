@@ -1,0 +1,1014 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Prague Dependency Treebank – Consolidated 1.0 (PDT-C 1.0) – Introduction</title>
+<link href="styles/main.css" rel="stylesheet" type="text/css">
+</head>
+
+<body style="background-image: url('pics/background.jpg'); background-repeat: repeat-x">
+<div id="centered">
+<table border="0" cellpadding="2" style="border-style: none; margin-bottom: 15px"><tr>
+<td><a href="http://ufal.mff.cuni.cz" target="_blank"><img height="80" align="left" src="pics/logo_pdt-c_ufal_lindat.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
+<td><span style="font-size:22px;"><b>Prague Dependency Treebank – Consolidated 1.0 (PDT-C 1.0)</b></span></td>
+</tr>
+</table>
+<table border="0" cellpadding="5" style="margin-bottom: 15px"><tr>
+<td><div><a href="index.html"><div style="background-image: url('pics/background_button_actual.jpg'); background-color: #ffeb5a; border-top-left-radius: 8px; padding: 5px">Introduction</div></a></div></td>
+<td><div><a href="data.html"><div style="background-image: url('pics/background_button.jpg'); background-color: #ddedf4; border-top-left-radius: 8px; padding: 5px">Data</div></a></div></td>
+<td><div><a href="documentation.html"><div style="background-image: url('pics/background_button.jpg'); background-color: #ddedf4; border-top-left-radius: 8px; padding: 5px">Documentation</div></a></div></td>
+<td><div><a href="publications.html"><div style="background-image: url('pics/background_button.jpg'); background-color: #ddedf4; border-top-left-radius: 8px; padding: 5px">Publications</div></a></div></td>
+<td><div><a href="licence.html"><div style="background-image: url('pics/background_button.jpg'); background-color: #ddedf4; border-top-left-radius: 8px; padding: 5px">Licence</div></a></div></td>
+<td><div><a href="credits.html"><div style="background-image: url('pics/background_button.jpg'); background-color: #ddedf4; border-top-left-radius: 8px; padding: 5px">Credits</div></a></div></td>
+<td><div><a href="acknowledgment.html"><div style="background-image: url('pics/background_button.jpg'); background-color: #ddedf4; border-top-left-radius: 8px; padding: 5px">Acknowledgments</div></a></div></td>
+</tr></table>
+
+
+<h1>
+	Introduction
+</h1>
+
+<p>
+	<span style="font-size: 14px;">A richly annotated and genre-diversified language resource, </span><strong style="font-size: 14px;"><a href="http://hdl.handle.net/11234/1-3185">The Prague Dependency Treebank – Consolidated 1.0</a> </strong><span style="font-size: 14px;"> (PDT-C in the sequel) is a consolidated release of the existing PDT-corpora of Czech data, uniformly annotated using the standard PDT scheme (albeit not everything is annotated manually, as we describe in detail here).</span>
+</p>
+
+<h3>
+	PDT-corpora included in PDT-C
+</h3>
+
+<ul>
+	<li>
+		<a href="https://ufal.mff.cuni.cz/pdt3.5" target="_blank">Prague Dependency Treebank</a> (written texts); latest published version <a href="https://ufal.mff.cuni.cz/pdt3.5" target="_blank">3.5</a>
+	</li>
+	<li>
+		Czech part of <a href="https://ufal.mff.cuni.cz/pcedt2.0/" target="_blank">Prague Czech-English Dependency Treebank</a> (translated data), latest published version <a href="https://ufal.mff.cuni.cz/pcedt2.0/" target="_blank">2.0</a> and <a href="https://ufal.mff.cuni.cz/pcedt2.0-coref" target="_blank">2.0Coref</a>
+	</li>
+	<li>
+		<a href="https://ufal.mff.cuni.cz/pdtsc2.0" target="_blank">Prague Dependency Treebank of Spoken Czech</a> (spokem data); latest published version <a href="https://ufal.mff.cuni.cz/pdtsc2.0" target="_blank">2.0</a>
+	</li>
+	<li>
+		<a href="https://ufal.mff.cuni.cz/grants/faust" target="_blank">PDT-Faust</a> (“user-generated“ texts), unpublished data
+	</li>
+</ul>
+
+<p>
+	 
+</p>
+
+<p>
+	<span style="font-size: 14px;">The difference from the separately published original treebanks can be briefly described as follows:</span>
+</p>
+
+<ul>
+	<li>
+		it is published in one package, to allow easier data handling for all the datasets;
+	</li>
+	<li>
+		the data is enhanced with a manual linguistic annotation at the morphological layer and new version of morphological dictionary is enclosed; 
+	</li>
+	<li>
+		a common valency lexicon for all four original parts is enclosed;
+	</li>
+	<li>
+		a number of errors found during the process of manual morphological annotation has been corrected.
+	</li>
+</ul>
+
+<h3>Layers of annotations</h3>
+
+<p>
+	The PDT-annotation scheme has a multi-layer architecture:</span>
+</p>
+
+<ul>
+	<li>
+		<strong>morphological layer</strong> (m-layer): all tokens of the sentence get a lemma and morphological tag,
+	</li>
+	<li>
+		<strong>surface syntax layer</strong> (analytical, a-layer): a dependency tree capturing surface syntactic relations such as subject, object, adverbial, etc.,
+	</li>
+	<li>
+		<strong>deep syntax layer</strong> (tectogrammatical, t-layer): capturing the deep syntactic relations, ellipses, valency, topic-focus articulation, and coreference. In the process of the further development of the PDT-scenario, <strong>additional semantic annotations</strong> (bridging relation, discourse, genre specification, multi-word expressions, etc.) are being added to the original annotation scheme.
+	</li>
+</ul>
+
+<p>
+	<span style="font-size:14px;">In addition to the above-mentioned three (main) annotation layers in the PDT-scenario, there is also the <strong>raw text layer</strong> (w-layer), where the text is segmented into documents and paragraphs and individual tokens are assigned unique identifiers. There is additional <strong>audio</strong> and <strong>speech recognition layer</strong> (z-layer) in the spoken data. In the spoken data part (as opposed to the written corpora), the w-layer is in fact also an “annotated” layer, namely the manually provided transcription of the audio signal. </span>
+</p>
+
+<p>
+	<span style="font-size:14px;">In order not to lose any piece of the original information, tokens (nodes) at a lower layer are explicitly referenced from the corresponding closest (immediately higher) layer. These links allow for tracing every unit of annotation all the way down to the original text, or to the transcript and audio (in the spoken data). </span>
+</p>
+
+<center>
+	<p>
+		<img alt="Example sentence from PDT 3.5" src="pics/mf930713-142-p5s1-2.png" width="800" />
+	</p>
+
+	<p>
+		<span style="font-family: monospace; font-size: 12px;">Sarančata jsou doposud ve stadiu larev a pohybují se pouze lezením. V tomto období je účinné bojovat proti nim chemickými postřiky, ale dožívající družstva ani soukromí rolníci nemají na jejich nákup potřebné prostředky.</span>
+	<br/>
+		Example sentences from PDT-C 1.0, with tectogrammatical annotation including coreference links (blue and brown arrows), MWEs (red stripes) and discourse annotation (orange arrows and attributes/lables). Lit.: <span style="font-family: monospace; font-size: 12px;">Grasshoppers are still in the larvae stadium, crawling only. At this time of the year, it is efficient to fight them using chemicals, but neither the ailing cooperatives nor private farmers can afford them.</span>
+	</p>
+</center>
+
+<p>
+	 
+</p>
+
+<p>
+	<span style="font-size: 14px;">In the current PDT-C 1.0 release, manual annotation has been fully performed at the lowest morphological layer; also, basic phenomena of the annotation at the highest deep syntactic layer (structure, functions, verbal valency) have been done manually in all four datasets. Manual annotation of the surface syntactic layer is contained only in the dataset of PDT written texts. Additional semantic features in PDT dataset have been also done manually. Table 1 presents an overview of various types of annotation at the three annotation layers in each dataset and the information of the manner in which the annotations was carried out.</span>
+</p>
+
+<table border="1" cellpadding="9" cellspacing="0" width="732">
+	<colgroup>
+		<col width="193" />
+		<col width="112" />
+		<col width="112" />
+		<col width="112" />
+		<col width="111" />
+	</colgroup>
+	<tbody>
+		<tr valign="top">
+			<td height="23" style="border: 1px solid #000000; padding: 0cm 0.19cm" width="193">
+				<p align="center" style="margin-bottom: 0cm">
+					<font size="2" style="font-size: 10pt"><span lang="en-US"><b>Dataset /</b></span></font>
+				</p>
+
+				<p align="center">
+					<font size="2" style="font-size: 10pt"><span lang="en-US"><b>Type of annotation</b></span></font>
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="112">
+				<p align="center" style="margin-bottom: 0cm">
+					<font size="2" style="font-size: 10pt"><span lang="en-US"><b>PDT</b></span></font>
+				</p>
+
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">Written</span></font>
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="112">
+				<p align="center" style="margin-bottom: 0cm">
+					<font size="2" style="font-size: 10pt"><span lang="en-US"><b>PCEDT (Czech)</b></span></font>
+				</p>
+
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">Translated</span></font>
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="112">
+				<p align="center" style="margin-bottom: 0cm">
+					<font size="2" style="font-size: 10pt"><span lang="en-US"><b>PDTSC</b></span></font>
+				</p>
+
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">Spoken</span></font>
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="111">
+				<p align="center" style="margin-bottom: 0cm">
+					<font size="2" style="font-size: 10pt"><span lang="en-US"><b>PDT-Faust</b></span></font>
+				</p>
+
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">User-generated</span></font>
+				</p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td bgcolor="#f2f2f2" style="background: #f2f2f2" width="193">
+				<p>
+					<font size="2" style="font-size: 10pt"><span lang="en-US"><b>Audio</b></span></font>
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="112">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">non-applicable</span></font>
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="112">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">non-applicable</span></font>
+				</p>
+			</td>
+			<td bgcolor="#f2f2f2" style="background: #f2f2f2" width="112">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">provided</span></font>
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="111">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">non-applicable</span></font>
+				</p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td bgcolor="#f2f2f2" style="background: #f2f2f2" width="193">
+				<p>
+					<font size="2" style="font-size: 10pt"><span lang="en-US"><b>ASR Transcription</b></span></font>
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="112">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">non-applicable</span></font>
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="112">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">non-applicable</span></font>
+				</p>
+			</td>
+			<td bgcolor="#f2f2f2" style="background: #f2f2f2" width="112">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">provided</span></font>
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="111">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">non-applicable</span></font>
+				</p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td bgcolor="#f2f2f2" style="background: #f2f2f2" width="193">
+				<p>
+					<font size="2" style="font-size: 10pt"><span lang="en-US"><b>Transcript</b></span></font>
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="112">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">non-applicable</span></font>
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="112">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">non-applicable</span></font>
+				</p>
+			</td>
+			<td bgcolor="#f2f2f2" style="background: #f2f2f2" width="112">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">manually</span></font>
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="111">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">non-applicable</span></font>
+				</p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td bgcolor="#f2f2f2" style="background: #f2f2f2" width="193">
+				<p>
+					<font size="2" style="font-size: 10pt"><span lang="en-US"><b>Translation</b></span></font>
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="112">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">non-applicable</span></font>
+				</p>
+			</td>
+			<td bgcolor="#f2f2f2" style="background: #f2f2f2" width="112">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">manually</span></font>
+				</p>
+			</td>
+			<td style="background: transparent" width="112">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">non-applicable</span></font>
+				</p>
+			</td>
+			<td bgcolor="#f2f2f2" style="background: #f2f2f2" width="111">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">manually</span></font>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="5" style="border: 1px solid #000000; padding: 0cm 0.19cm" valign="top" width="712">
+				<p align="center">
+					<font size="2" style="font-size: 10pt"><span lang="en-US"><b>Morphological layer</b></span></font>
+				</p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td bgcolor="#f2f2f2" style="background: #f2f2f2" width="193">
+				<p>
+					<font size="2" style="font-size: 10pt"><span lang="en-US"><b>Speech reconstruction</b></span></font>
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="112">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">non-applicable</span></font>
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="112">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">non-applicable</span></font>
+				</p>
+			</td>
+			<td bgcolor="#f2f2f2" style="background: #f2f2f2" width="112">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">manually</span></font>
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="111">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">non-applicable</span></font>
+				</p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td bgcolor="#f2f2f2" style="background: #f2f2f2" width="193">
+				<p>
+					<font size="2" style="font-size: 10pt"><span lang="en-US"><b>Lemmatization</b></span></font>
+				</p>
+			</td>
+			<td bgcolor="#f2f2f2" style="background: #f2f2f2" width="112">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">manually</span></font>
+				</p>
+			</td>
+			<td bgcolor="#f2f2f2" style="background: #f2f2f2" width="112">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">manually</span></font>
+				</p>
+			</td>
+			<td bgcolor="#f2f2f2" style="background: #f2f2f2" width="112">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">manually</span></font>
+				</p>
+			</td>
+			<td bgcolor="#f2f2f2" style="background: #f2f2f2" width="111">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">manually</span></font>
+				</p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td bgcolor="#f2f2f2" style="background: #f2f2f2" width="193">
+				<p>
+					<font size="2" style="font-size: 10pt"><span lang="en-US"><b>Tagging</b></span></font>
+				</p>
+			</td>
+			<td bgcolor="#f2f2f2" style="background: #f2f2f2" width="112">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">manually</span></font>
+				</p>
+			</td>
+			<td bgcolor="#f2f2f2" style="background: #f2f2f2" width="112">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">manually</span></font>
+				</p>
+			</td>
+			<td bgcolor="#f2f2f2" style="background: #f2f2f2" width="112">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">manually</span></font>
+				</p>
+			</td>
+			<td bgcolor="#f2f2f2" style="background: #f2f2f2" width="111">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">manually</span></font>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="5" style="border: 1px solid #000000; padding: 0cm 0.19cm" valign="top" width="712">
+				<p align="center">
+					<font size="2" style="font-size: 10pt"><span lang="en-US"><b>Surface syntactic layer</b></span></font>
+				</p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="193">
+				<p>
+					<font size="2" style="font-size: 10pt"><span lang="en-US"><b>Dependency structure</b></span></font>
+				</p>
+			</td>
+			<td bgcolor="#f2f2f2" style="background: #f2f2f2" width="112">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">manually</span></font>
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="112">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">automatically</span></font>
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="112">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">automatically</span></font>
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="111">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">automatically</span></font>
+				</p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="193">
+				<p>
+					<font size="2" style="font-size: 10pt"><span lang="en-US"><b>Syntactic function</b></span></font>
+				</p>
+			</td>
+			<td bgcolor="#f2f2f2" style="background: #f2f2f2" width="112">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">manually</span></font>
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="112">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">automatically</span></font>
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="112">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">automatically</span></font>
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="111">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">automatically</span></font>
+				</p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="193">
+				<p>
+					<font size="2" style="font-size: 10pt"><span lang="en-US"><b>Clause segmentation</b></span></font>
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="112">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">automatically</span></font>
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="112">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">not annotated</span></font>
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="112">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">not annotated</span></font>
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="111">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">not annotated</span></font>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="5" style="border: 1px solid #000000; padding: 0cm 0.19cm" valign="top" width="712">
+				<p align="center">
+					<font size="2" style="font-size: 10pt"><span lang="en-US"><b>Deep syntactic layer</b></span></font>
+				</p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td bgcolor="#f2f2f2" style="background: #f2f2f2" width="193">
+				<p>
+					<font size="2" style="font-size: 10pt"><span lang="en-US"><b>Deep syntactic structure</b></span></font>
+				</p>
+			</td>
+			<td bgcolor="#f2f2f2" style="background: #f2f2f2" width="112">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">manually</span></font>
+				</p>
+			</td>
+			<td bgcolor="#f2f2f2" style="background: #f2f2f2" width="112">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">manually</span></font>
+				</p>
+			</td>
+			<td bgcolor="#f2f2f2" style="background: #f2f2f2" width="112">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">manually</span></font>
+				</p>
+			</td>
+			<td bgcolor="#f2f2f2" style="background: #f2f2f2" width="111">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">manually</span></font>
+				</p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td bgcolor="#f2f2f2" style="background: #f2f2f2" width="193">
+				<p>
+					<font size="2" style="font-size: 10pt"><span lang="en-US"><b>Deep syntactic function</b></span></font>
+				</p>
+			</td>
+			<td bgcolor="#f2f2f2" style="background: #f2f2f2" width="112">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">manually</span></font>
+				</p>
+			</td>
+			<td bgcolor="#f2f2f2" style="background: #f2f2f2" width="112">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">manually</span></font>
+				</p>
+			</td>
+			<td bgcolor="#f2f2f2" style="background: #f2f2f2" width="112">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">manually</span></font>
+				</p>
+			</td>
+			<td bgcolor="#f2f2f2" style="background: #f2f2f2" width="111">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">manually</span></font>
+				</p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td bgcolor="#f2f2f2" style="background: #f2f2f2" width="193">
+				<p>
+					<font size="2" style="font-size: 10pt"><span lang="en-US"><b>Verbal valency</b></span></font>
+				</p>
+			</td>
+			<td bgcolor="#f2f2f2" style="background: #f2f2f2" width="112">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">manually</span></font>
+				</p>
+			</td>
+			<td bgcolor="#f2f2f2" style="background: #f2f2f2" width="112">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">manually</span></font>
+				</p>
+			</td>
+			<td bgcolor="#f2f2f2" style="background: #f2f2f2" width="112">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">manually</span></font>
+				</p>
+			</td>
+			<td bgcolor="#f2f2f2" style="background: #f2f2f2" width="111">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">manually</span></font>
+				</p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="193">
+				<p>
+					<font size="2" style="font-size: 10pt"><span lang="en-US"><b>Nominal valency</b></span></font>
+				</p>
+			</td>
+			<td bgcolor="#f2f2f2" style="background: #f2f2f2" width="112">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">manually</span></font>
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="112">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">not annotated</span></font>
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="112">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">not annotated</span></font>
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="111">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">not annotated</span></font>
+				</p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="193">
+				<p>
+					<font size="2" style="font-size: 10pt"><span lang="en-US"><b>Grammatemes</b></span></font>
+				</p>
+			</td>
+			<td bgcolor="#f2f2f2" style="background: #f2f2f2" width="112">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">manually</span></font>
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="112">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">not annotated</span></font>
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="112">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">not annotated</span></font>
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="111">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">not annotated</span></font>
+				</p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td bgcolor="#f2f2f2" style="background: #f2f2f2" width="193">
+				<p>
+					<font size="2" style="font-size: 10pt"><span lang="en-US"><b>Coreference grammatical</b></span></font>
+				</p>
+			</td>
+			<td bgcolor="#f2f2f2" style="background: #f2f2f2" width="112">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">manually</span></font>
+				</p>
+			</td>
+			<td bgcolor="#f2f2f2" style="background: #f2f2f2" width="112">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">manually</span></font>
+				</p>
+			</td>
+			<td bgcolor="#f2f2f2" style="background: #f2f2f2" width="112">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">manually</span></font>
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="111">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">not annotated</span></font>
+				</p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td bgcolor="#f2f2f2" style="background: #f2f2f2" width="193">
+				<p>
+					<font size="2" style="font-size: 10pt"><span lang="en-US"><b>Coreference textual</b></span></font>
+				</p>
+			</td>
+			<td bgcolor="#f2f2f2" style="background: #f2f2f2" width="112">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">manually</span></font>
+				</p>
+			</td>
+			<td bgcolor="#f2f2f2" style="background: #f2f2f2" width="112">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">manually</span></font>
+				</p>
+			</td>
+			<td bgcolor="#f2f2f2" style="background: #f2f2f2" width="112">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">manually</span></font>
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="111">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">not annotated</span></font>
+				</p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="193">
+				<p>
+					<font size="2" style="font-size: 10pt"><span lang="en-US"><b>Bridging relation</b></span></font>
+				</p>
+			</td>
+			<td bgcolor="#f2f2f2" style="background: #f2f2f2" width="112">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">manually</span></font>
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="112">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">not annotated</span></font>
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="112">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">not annotated</span></font>
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="111">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">not annotated</span></font>
+				</p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="193">
+				<p>
+					<font size="2" style="font-size: 10pt"><span lang="en-US"><b>Topic-focus articulation</b></span></font>
+				</p>
+			</td>
+			<td bgcolor="#f2f2f2" style="background: #f2f2f2" width="112">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">manually</span></font>
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="112">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">not annotated</span></font>
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="112">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">not annotated</span></font>
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="111">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">not annotated</span></font>
+				</p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="193">
+				<p>
+					<font size="2" style="font-size: 10pt"><span lang="en-US"><b>Discourse</b></span></font>
+				</p>
+			</td>
+			<td bgcolor="#f2f2f2" style="background: #f2f2f2" width="112">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">manually</span></font>
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="112">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">not annotated</span></font>
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="112">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">not annotated</span></font>
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="111">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">not annotated</span></font>
+				</p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="193">
+				<p>
+					<font size="2" style="font-size: 10pt"><span lang="en-US"><b>Genre specification</b></span></font>
+				</p>
+			</td>
+			<td bgcolor="#f2f2f2" style="background: #f2f2f2" width="112">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">manually</span></font>
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="112">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">not annotated</span></font>
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="112">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">not annotated</span></font>
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="111">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">not annotated</span></font>
+				</p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="193">
+				<p>
+					<font size="2" style="font-size: 10pt"><span lang="en-US"><b>Quotation</b></span></font>
+				</p>
+			</td>
+			<td bgcolor="#f2f2f2" style="background: #f2f2f2" width="112">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">manually</span></font>
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="112">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">not annotated</span></font>
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="112">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">not annotated</span></font>
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="111">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">not annotated</span></font>
+				</p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="193">
+				<p>
+					<font size="2" style="font-size: 10pt"><span lang="en-US"><b>Multiword expressions</b></span></font>
+				</p>
+			</td>
+			<td bgcolor="#f2f2f2" style="background: #f2f2f2" width="112">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">manually</span></font>
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="112">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">not annotated</span></font>
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="112">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">not annotated</span></font>
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="111">
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">not annotated</span></font>
+				</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p style="margin-top: 5mm; margin-bottom: 5mm; line-height: 100%">
+	<span lang="en-US">Table 1: </span><span lang="en-US"><b>Overview of various types of annotation and their realization in the datasets</b></span><span lang="en-US"> </span>
+</p>
+
+<h3>
+	Volume of the data
+</h3>
+
+<p>
+	The data volume is given in Table 2. Altogether, the consolidated treebank contains <span style="text-align: right;">3,885,591</span> tokens with manual morphological annotation and <span style="text-align: right;">2,245,945</span> t-nodes with manual deep syntactic annotation (manual annotation of the surface syntactic layer is contained only in the dataset of written texts and it consists of <span style="text-align: right;">1,503,741</span> a-nodes).
+</p>
+
+<table border="1" cellpadding="9" cellspacing="0" width="755">
+	<colgroup>
+		<col width="146" />
+		<col width="100" />
+		<col width="100" />
+		<col width="84" />
+		<col width="104" />
+		<col width="111" />
+	</colgroup>
+	<tbody>
+		<tr valign="top">
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="146">
+				<p lang="en-US">
+					 
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="100">
+				<p align="center" style="margin-bottom: 0cm">
+					<font size="2" style="font-size: 10pt"><span lang="en-US"><b>PDT</b></span></font>
+				</p>
+
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">Written</span></font>
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="100">
+				<p align="center" style="margin-bottom: 0cm">
+					<font size="2" style="font-size: 10pt"><span lang="en-US"><b>PCEDT (Czech)</b></span></font>
+				</p>
+
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">Translated</span></font>
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="84">
+				<p align="center" style="margin-bottom: 0cm">
+					<font size="2" style="font-size: 10pt"><span lang="en-US"><b>PDTSC</b></span></font>
+				</p>
+
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">Spoken</span></font>
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="104">
+				<p align="center" style="margin-bottom: 0cm">
+					<font size="2" style="font-size: 10pt"><span lang="en-US"><b>PDT-Faust</b></span></font>
+				</p>
+
+				<p align="center">
+					<font size="2" style="font-size: 9pt"><span lang="en-US">User-generated</span></font>
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="111">
+				<p align="center">
+					<font size="2" style="font-size: 10pt"><span lang="en-US"><b>Total</b></span></font>
+				</p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="146">
+				<p>
+					<font size="2" style="font-size: 9pt"><span lang="en-US"><b>Morphological layer</b></span></font>
+				</p>
+
+				<p>
+					<font size="2" style="font-size: 9pt"><span lang="en-US"><b>(number of m-forms)</b></span></font>
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="100">
+				<p class="rteright" lang="en-US">
+					1,957,150
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="100">
+				<p class="rteright" lang="en-US">
+					1,152,289
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="84">
+				<p class="rteright" lang="en-US">
+					742,316
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="104">
+				<p class="rteright" lang="en-US">
+					33,836
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="111">
+				<p class="rteright" lang="en-US">
+					3,885,591
+				</p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="146">
+				<p>
+					<font size="2" style="font-size: 9pt"><span lang="en-US"><b>Surface syntactic layer</b></span></font>
+				</p>
+
+				<p>
+					<font size="2" style="font-size: 9pt"><span lang="en-US"><b>(number of a-nodes)</b></span></font>
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="100">
+				<p class="rteright" lang="en-US">
+					1,503,741
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="100">
+				<p class="rteright" lang="en-US">
+					1,152,289
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="84">
+				<p class="rteright" lang="en-US">
+					742,316
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="104">
+				<p class="rteright" lang="en-US">
+					33,837
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="111">
+				<p class="rteright" lang="en-US">
+					3,432,183
+				</p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="146">
+				<p>
+					<font size="2" style="font-size: 9pt"><span lang="en-US"><b>Deep syntactic layer</b></span></font>
+				</p>
+
+				<p>
+					<font size="2" style="font-size: 9pt"><span lang="en-US"><b>(number of t-nodes)</b></span></font>
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="100">
+				<p class="rteright" lang="en-US">
+					675,034
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="100">
+				<p class="rteright" lang="en-US">
+					932,334
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="84">
+				<p class="rteright" lang="en-US">
+					608,472
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="104">
+				<p class="rteright" lang="en-US">
+					30,105
+				</p>
+			</td>
+			<td style="border: 1px solid #000000; padding: 0cm 0.19cm" width="111">
+				<p class="rteright" lang="en-US">
+					2,245,945
+				</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p style="margin-top: 5mm; margin-bottom: 5mm; line-height: 100%">
+	Table 2. <b>Volume of the datasets</b> (number of tokens on the respective layers)
+</p>
+
+<p>&nbsp;</p>
+
+</div>
+</body>
+</html>
+
