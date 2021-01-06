@@ -55,9 +55,24 @@ $(UNALIGNED_DIR)/done : $(ORIG_DIR)/done | $(SCHEMA_DIR)
 	touch $@
 
 ##################################################################################################################################
+####################################### DELETE TRACES FROM THE ENGLISH SIDE ######################################################
+##################################################################################################################################
+NOTRACE_DIR=$(TMP_DIR)/02.treex_notrace
+
+$(NOTRACE_DIR)/done : $(UNALIGNED_DIR)/done | $(SCHEMA_DIR)
+	mkdir -p $(dir $@)
+	$(TREEX) \
+		Read::Treex from='!$(UNALIGNED_DIR)/wsj*.treex.gz' skip_finished='{$(UNALIGNED_DIR)/wsj(....).treex.gz}{$(dir $@)/wsj$$1.treex.gz}' \
+		Util::Eval tnode='if ($$tnode->id eq "EnglishT-wsj_0010-s18-t1") { my $$alex = $$tnode->get_lex_anode(); print STDERR $$alex->id."\n"; }' \
+		A2W::EN::DeleteTracesFromAtree language=en \
+		A2W::EN::DeleteTracesFromSentence language=en \
+		Write::Treex substitute='{$(UNALIGNED_DIR)/wsj(....).treex.gz}{$(dir $@)/wsj$$1.treex.gz}'
+	touch $@
+
+##################################################################################################################################
 ########## PROJECT ANODE ALIGNMENT FROM PCEDT 2.0 TO NEW PCEDT; FOR NEW TOKENS, ALIGNMNENT COMES FROM FAST_ALIGN  ################
 ##################################################################################################################################
-ALIGNED_A_DIR=$(TMP_DIR)/02.treex_aligned_a
+ALIGNED_A_DIR=$(TMP_DIR)/03.treex_aligned_a
 
 PCEDT20COREF=/net/data/pcedt2.0-coref/data
 
@@ -75,7 +90,7 @@ $(ALIGNED_A_DIR)/pcedt2.0coref_forms.%.txt : | $(ALIGNED_A_DIR)
 	> $@
 $(ALIGNED_A_DIR)/pcedt4pdtc_forms.%.txt : | $(ALIGNED_A_DIR)
 	$(TREEX) \
-		Read::Treex from='!$(UNALIGNED_DIR)/wsj*.treex.gz' \
+		Read::Treex from='!$(NOTRACE_DIR)/wsj*.treex.gz' \
 		Write::AttributeSentences to=- language=$* layer=a attributes='form' separator=' ' sent_sep='\n' skip_nodes='defined $$_->tag && $$_->tag eq "-NONE-"' \
 	> $@
 
@@ -95,7 +110,7 @@ $(ALIGNED_A_DIR)/pcedt2.0coref.align.txt : | $(ALIGNED_A_DIR)
 
 $(ALIGNED_A_DIR)/pcedt4pdtc.for_fastalign.txt : | $(ALIGNED_A_DIR)
 	$(TREEX) \
-		Read::Treex from='!$(UNALIGNED_DIR)/wsj*.treex.gz' \
+		Read::Treex from='!$(NOTRACE_DIR)/wsj*.treex.gz' \
 		PDTC::PrintForFastAlign \
 	> $@
 $(ALIGNED_A_DIR)/pcedt4pdtc.lemma.for_fastalign.txt : $(ALIGNED_A_DIR)/pcedt4pdtc.for_fastalign.txt
@@ -118,6 +133,21 @@ $(ALIGNED_A_DIR)/pcedt4pdtc.lemma_lc.I10.fastalign.gdfa.txt : $(ALIGNED_A_DIR)/p
 		$(FAST_ALIGN_DIR)/models/czeng20.en-cs.lemma_lc.I10.rev.err \
 			< $< > $@
 
+$(ALIGNED_A_DIR)/pcedt4pdtc.lemma_lc.I10.fastalign.int.txt : $(ALIGNED_A_DIR)/pcedt4pdtc.lemma_lc.for_fastalign.txt
+	$(FAST_ALIGN_DIR)/fast_align/build/force_align.py \
+		$(FAST_ALIGN_DIR)/models/czeng20.en-cs.lemma_lc.I10.fwd.params \
+		$(FAST_ALIGN_DIR)/models/czeng20.en-cs.lemma_lc.I10.fwd.err \
+		$(FAST_ALIGN_DIR)/models/czeng20.en-cs.lemma_lc.I10.rev.params \
+		$(FAST_ALIGN_DIR)/models/czeng20.en-cs.lemma_lc.I10.rev.err \
+		intersect \
+			< $< > $@
+
+$(ALIGNED_A_DIR)/pcedt4pdtc.lemma_lc.I10.fastalign.int_gdfa.txt : $(ALIGNED_A_DIR)/pcedt4pdtc.lemma_lc.I10.fastalign.int.txt $(ALIGNED_A_DIR)/pcedt4pdtc.lemma_lc.I10.fastalign.gdfa.txt
+	paste -d' ' \
+		<(cat $(word 1,$^) | perl -ne 'chomp $$_; print join " ", (map {$$_.":int"} split / /, $$_); print "\n";') \
+		<(cat $(word 2,$^) | perl -ne 'chomp $$_; print join " ", (map {$$_.":gdfa"} split / /, $$_); print "\n";') | \
+	sed 's/^ *//g' | sed 's/ *$$//g' > $@
+
 #---------------------------------------------------------------------------------------------------------------------------------
 #    4. use old alignment links, old and new tokens and the auxiliary alignment to project alignment links for the new PCEDT
 #---------------------------------------------------------------------------------------------------------------------------------
@@ -127,7 +157,7 @@ $(ALIGNED_A_DIR)/pcedt4pdtc.align.txt : $(ALIGNED_A_DIR)/pcedt2.0coref_forms.en.
 $(ALIGNED_A_DIR)/pcedt4pdtc.align.txt : $(ALIGNED_A_DIR)/pcedt2.0coref.align.txt
 $(ALIGNED_A_DIR)/pcedt4pdtc.align.txt : $(ALIGNED_A_DIR)/pcedt2.0coref_forms.cs.txt
 $(ALIGNED_A_DIR)/pcedt4pdtc.align.txt : $(ALIGNED_A_DIR)/pcedt4pdtc_forms.cs.txt
-$(ALIGNED_A_DIR)/pcedt4pdtc.align.txt : $(ALIGNED_A_DIR)/pcedt4pdtc.lemma_lc.I10.fastalign.gdfa.txt
+$(ALIGNED_A_DIR)/pcedt4pdtc.align.txt : $(ALIGNED_A_DIR)/pcedt4pdtc.lemma_lc.I10.fastalign.int_gdfa.txt
 $(ALIGNED_A_DIR)/pcedt4pdtc.align.txt :
 	paste $^ | python scripts/pcedt/map_aligns.py > $@
 
@@ -137,19 +167,19 @@ $(ALIGNED_A_DIR)/pcedt4pdtc.align.txt :
 
 $(ALIGNED_A_DIR)/pcedt4pdtc.sentid.txt :
 	$(TREEX) \
-		Read::Treex from='!$(UNALIGNED_DIR)/wsj*.treex.gz' \
+		Read::Treex from='!$(NOTRACE_DIR)/wsj*.treex.gz' \
 		Util::Eval bundle='print $$bundle->get_document->loaded_from."-".$$bundle->id."\n";' \
 	> $@
 
 # a "-"-delimited string of names of alignment types
-TYPESTR=int.gdfa-g_gdfa-g_gdfa-f
+TYPESTR=int.gdfa-g_gdfa-g_int.gdfa-f_gdfa-f
 
 $(ALIGNED_A_DIR)/pcedt4pdtc.align.to_import.tsv : $(ALIGNED_A_DIR)/pcedt4pdtc.align.txt $(ALIGNED_A_DIR)/pcedt4pdtc.sentid.txt
 	cat $(word 1,$^) | python scripts/pcedt/column_aligns.py $(TYPESTR) | paste $(word 2,$^) - > $@
 
 $(ALIGNED_A_DIR)/done : $(ALIGNED_A_DIR)/pcedt4pdtc.align.to_import.tsv
 	$(TREEX) \
-		Read::Treex from='!$(UNALIGNED_DIR)/wsj*.treex.gz' \
+		Read::Treex from='!$(NOTRACE_DIR)/wsj*.treex.gz' \
 		Align::A::InsertAlignmentFromFile language=en selector= to_language=cs to_selector= \
         	from=$< inputcols=$(TYPESTR) \
 		Write::Treex path=$(dir $@)
@@ -158,10 +188,43 @@ $(ALIGNED_A_DIR)/done : $(ALIGNED_A_DIR)/pcedt4pdtc.align.to_import.tsv
 ##################################################################################################################################
 ############################# DIAGNOSTICS OF T-NODES IN THE OLD AND THE NEW PCEDT  ###############################################
 ##################################################################################################################################
-ALIGNED_T_DIR=$(TMP_DIR)/03.treex_aligned_t
+ALIGNED_T_DIR=$(TMP_DIR)/04.treex_aligned_t
 
 $(ALIGNED_T_DIR) :
 	mkdir $@
+
+$(ALIGNED_T_DIR)/done : | $(ALIGNED_T_DIR)
+	$(TREEX) \
+		Read::Treex from='!$(ALIGNED_A_DIR)/wsj*.treex.gz' \
+		Align::T::PCEDTAlignment language=en to_language=cs \
+		Write::Treex path=$(dir $@)
+	touch $@
+		#Align::T::CopyAlignmentFromAlayer language=en to_language=cs del_prev_align=0 \
+		#Align::T::AlignGeneratedNodes language=en to_language=cs monolingual=0 \
+
+$(ALIGNED_T_DIR)/pcedt4pdtc_taligns.txt : | $(ALIGNED_T_DIR)
+	$(TREEX) \
+		Read::Treex from='!$(ALIGNED_T_DIR)/wsj*.treex.gz' \
+		PDTC::AlignLinksPrinter to=- language=en layer=t \
+	> $@
+
+$(ALIGNED_T_DIR)/pcedt2.0coref_taligns.txt : | $(ALIGNED_T_DIR)
+	$(TREEX) \
+		Read::Treex from='!$(PCEDT20COREF)/*/wsj_*.treex.gz' \
+		PDTC::AlignLinksPrinter to=- language=en layer=t \
+	> $@
+
+$(ALIGNED_T_DIR)/pcedt4pdtc_aaligns.txt : | $(ALIGNED_T_DIR)
+	$(TREEX) \
+		Read::Treex from='!$(ALIGNED_T_DIR)/wsj*.treex.gz' \
+		PDTC::AlignLinksPrinter to=- language=en layer=a \
+	> $@
+
+$(ALIGNED_T_DIR)/pcedt2.0coref_aaligns.txt : | $(ALIGNED_T_DIR)
+	$(TREEX) \
+		Read::Treex from='!$(PCEDT20COREF)/*/wsj_*.treex.gz' \
+		PDTC::AlignLinksPrinter to=- language=en layer=a \
+	> $@
 
 $(ALIGNED_T_DIR)/pcedt2.0coref_tforms.%.txt : | $(ALIGNED_T_DIR)
 	$(TREEX) \
