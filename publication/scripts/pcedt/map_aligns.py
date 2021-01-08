@@ -6,27 +6,49 @@ import numpy as np
 from scipy.linalg import block_diag
 from pprint import pprint
 
+# Alignment types and sources are encoded as integers in matrices.
+# Alignment type codes are specified in ALIGN_TYPE2CODE.
+# The minimum 1e2 difference between each two codes guarantees that a word can have at most 100 counterparts
+# of one type to be correctly reconstructed after decoding.
+# Alignment source coeficients in ALIGN_SRC_COEF follow the step of 1e2*max(ALIGN_TYPE2CODE), which currently
+# equals to 1e6. It ensures the sources can be identified in a code that was created as a linear combination 
+# of coeficients in ALIGN_SRC_COEF.
+
 ALIGN_TYPE2CODE = {
     "" : 1,
-    "gdfa": 100,
-    "int.gdfa": 10000,
+    "int" : 1e2,
+    "gdfa": 1e4,
+}
+ALIGN_SRC_COEF = {
+    "g" : 1,
+    "f" : 1e6,
 }
 
 def encode_aligntype(aligntype):
     return ALIGN_TYPE2CODE[aligntype]
 
+# code is int
+# coeftable is str -> int dictionary, mapping names to coefs
+def decode_with_coeftable(code, coeftable):
+    ct_items = sorted(coeftable.items(), key=lambda x: x[1], reverse=True)
+    codes = []
+    is_present = []
+    resid = code
+    residcodes4names = {}
+    for name, coef in ct_items:
+        if resid >= coef:
+            residcodes4names[name] = int(resid / coef)
+        resid = resid % coef
+    return residcodes4names
+    
 def decode_aligntype(code):
-    aligntype = ""
-    alignsrc = ""
-    if code % ALIGN_TYPE2CODE["gdfa"] != 0:
-        alignsrc += "f"
-    if code >= ALIGN_TYPE2CODE["gdfa"]:
-        alignsrc += "g"
-    if code >= ALIGN_TYPE2CODE["int.gdfa"]:
-        aligntype += "int.gdfa"
-    else:
-        aligntype += "gdfa"
-    return aligntype + "-" + alignsrc
+    align_types = []
+    codes4src = decode_with_coeftable(code, ALIGN_SRC_COEF)
+    for alisrc, typecode in codes4src.items():
+        align_types_dict = decode_with_coeftable(typecode, ALIGN_TYPE2CODE)
+        align_types_name = ".".join(sorted(align_types_dict.keys(), reverse=True))
+        align_types.append(align_types_name + "-" + alisrc)
+    return ",".join(align_types)
 
 def read_tokens(token_str):
     return token_str.split(" ")
@@ -39,7 +61,9 @@ def read_aligns(align_str, shape):
         align_info = align.split(":")
         #print(align_info, file=sys.stderr)
         x, y = align_info[0].split("-")
-        align_matrix[int(x), int(y)] = encode_aligntype(align_info[1] if len(align_info) > 1 else "")
+        for ai in (align_info[1] if len(align_info) > 1 else "").split("."):
+            code = encode_aligntype(ai)
+            align_matrix[int(x), int(y)] += code
     return align_matrix
 
 #def read_token_file(path):
@@ -135,10 +159,10 @@ def extract_aligns(tokens1, tokens2):
 
 def print_aligns(align_matrix, align_mask=None):
     align_list = []
-    for i in range(encs_new_aligns.shape[0]):
-        for j in range(encs_new_aligns.shape[1]):
-            if encs_new_aligns[i, j] > 0 and (align_mask is None or align_mask[i, j] > 0):
-                align_type = decode_aligntype(encs_new_aligns[i, j])
+    for i in range(align_matrix.shape[0]):
+        for j in range(align_matrix.shape[1]):
+            if align_matrix[i, j] > 0 and (align_mask is None or align_mask[i, j] > 0):
+                align_type = decode_aligntype(align_matrix[i, j])
                 align_list.append("{:d}-{:d}:{:s}".format(i, j, align_type))
     print(" ".join(align_list))
 
@@ -180,6 +204,6 @@ for i, line in enumerate(sys.stdin):
     encs_mask = np.matmul(en_mask, cs_mask)
     encs_compl_mask = np.ones(encs_mask.shape) - encs_mask
     if encs_aux_new_aligns is not None:
-        encs_new_aligns = encs_mask*encs_new_aligns + encs_compl_mask*encs_aux_new_aligns
+        encs_new_aligns = ALIGN_SRC_COEF["g"]*encs_mask*encs_new_aligns + ALIGN_SRC_COEF["f"]*encs_compl_mask*encs_aux_new_aligns
 
     print_aligns(encs_new_aligns)
