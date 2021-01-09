@@ -7,6 +7,7 @@ LRC=0
 ifeq ($(LRC), 1)
 LRC_FLAG=-p --jobs=100 --workdir='${BASE_DIR}/tmp/treex_runs/{NNN}-run.{XXXX}' --qsub "-v PERL5LIB=${BASE_DIR}/lib"
 #LRC_FLAG=-p --jobs=100 --qsub "-v PERL5LIB=${BASE_DIR}/lib"
+TREEX_NOLRC:=$(TREEX)
 TREEX:=$(TREEX) $(LRC_FLAG)
 endif
 
@@ -186,7 +187,7 @@ $(ALIGNED_A_DIR)/done : $(ALIGNED_A_DIR)/pcedt4pdtc.align.to_import.tsv
 	touch $@
 
 ##################################################################################################################################
-############################# DIAGNOSTICS OF T-NODES IN THE OLD AND THE NEW PCEDT  ###############################################
+#################### PROJECTING ALIGNMENT TO THE T-LAYER + RULE_BASED ALIGNMENT ON GENERATED NODES  ##############################
 ##################################################################################################################################
 ALIGNED_T_DIR=$(TMP_DIR)/04.treex_aligned_t
 
@@ -201,6 +202,35 @@ $(ALIGNED_T_DIR)/done : | $(ALIGNED_T_DIR)
 	touch $@
 		#Align::T::CopyAlignmentFromAlayer language=en to_language=cs del_prev_align=0 \
 		#Align::T::AlignGeneratedNodes language=en to_language=cs monolingual=0 \
+
+##################################################################################################################################
+#################### PROJECTING ALIGNMENT TO THE T-LAYER + RULE_BASED ALIGNMENT ON GENERATED NODES  ##############################
+##################################################################################################################################
+ALIGNED_COREFSUP_T_DIR=$(TMP_DIR)/05.treex_aligned_corefsup_t
+
+$(ALIGNED_COREFSUP_T_DIR) :
+	mkdir $@
+
+$(ALIGNED_COREFSUP_T_DIR)/done : | $(ALIGNED_COREFSUP_T_DIR)
+	find $(ALIGNED_T_DIR) -name 'wsj*.treex.gz' | sort | grep -v 'wsj19[01234].' | sed 's#^.*/##' | sed 's#^#$(realpath $(ALIGNED_T_DIR))/#' > $(ALIGNED_COREFSUP_T_DIR)/pcedt.notrain.list; \
+	$(TREEX) \
+		Read::Treex from=@$(ALIGNED_COREFSUP_T_DIR)/pcedt.notrain.list \
+		Align::T::Supervised::Resolver language=en,cs align_trg_lang=en node_types=all_anaph \
+		Write::Treex path=$(dir $@); \
+	for i in `seq 0 9`; do \
+		find $(ALIGNED_T_DIR) -name 'wsj*.treex.gz' | sort | grep "wsj19[01234]$$i" | sed 's#^.*/##' | sed 's#^#$(realpath $(ALIGNED_T_DIR))/#' > $(ALIGNED_COREFSUP_T_DIR)/pcedt.wsj1900-49.fold_$$i.list; \
+		en_model=data/models/align/supervised/wsj1900-49_folds/en_cs.all_anaph.fold_$$i.ref.model; \
+		cs_model=data/models/align/supervised/wsj1900-49_folds/cs_en.all_anaph.fold_$$i.ref.model; \
+		$(TREEX_NOLRC) \
+			Read::Treex from=@$(ALIGNED_COREFSUP_T_DIR)/pcedt.wsj1900-49.fold_$$i.list \
+			Align::T::Supervised::Resolver language=en,cs align_trg_lang=en model_path="$$en_model,$$cs_model" node_types=all_anaph \
+			Write::Treex path=$(dir $@); \
+	done; \
+	touch $@
+
+##################################################################################################################################
+############################# DIAGNOSTICS OF T-NODES IN THE OLD AND THE NEW PCEDT  ###############################################
+##################################################################################################################################
 
 $(ALIGNED_T_DIR)/pcedt4pdtc_taligns.txt : | $(ALIGNED_T_DIR)
 	$(TREEX) \
