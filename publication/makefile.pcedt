@@ -262,9 +262,15 @@ $(DIAG_DIR)/pcedt4pdtc_withtraces_notag_anodes.%.txt : | $(DIAG_DIR)
 #    2. print alignments on a- and  t-layer to compare the original and the new version
 #---------------------------------------------------------------------------------------------------------------------------------
 
+# some parts of the diagnostics require the following tools:
+# shuffle blocks of lines using a given delimiter
+SHUFFLE_CMD=shuffle
+# pretty-print aligned t-trees from multiple zones
+TTREES_CMD=ttrees
+
 $(DIAG_DIR)/pcedt4pdtc_taligns.txt : | $(DIAG_DIR)
 	$(TREEX) \
-		Read::Treex from='!$(ALIGNED_T_DIR)/wsj*.treex.gz' \
+		Read::Treex from='!$(ALIGNED_COREFSUP_T_DIR)/wsj*.treex.gz' \
 		PDTC::AlignLinksPrinter to=- language=en layer=t \
 	> $@
 
@@ -273,10 +279,11 @@ $(DIAG_DIR)/pcedt2.0coref_taligns.txt : | $(DIAG_DIR)
 		Read::Treex from='!$(PCEDT20COREF)/*/wsj_*.treex.gz' \
 		PDTC::AlignLinksPrinter to=- language=en layer=t \
 	> $@
+	sed -i 's/^wsj_/wsj/' $@
 
 $(DIAG_DIR)/pcedt4pdtc_aaligns.txt : | $(DIAG_DIR)
 	$(TREEX) \
-		Read::Treex from='!$(ALIGNED_T_DIR)/wsj*.treex.gz' \
+		Read::Treex from='!$(ALIGNED_COREFSUP_T_DIR)/wsj*.treex.gz' \
 		PDTC::AlignLinksPrinter to=- language=en layer=a \
 	> $@
 
@@ -285,6 +292,25 @@ $(DIAG_DIR)/pcedt2.0coref_aaligns.txt : | $(DIAG_DIR)
 		Read::Treex from='!$(PCEDT20COREF)/*/wsj_*.treex.gz' \
 		PDTC::AlignLinksPrinter to=- language=en layer=a \
 	> $@
+	sed -i 's/^wsj_/wsj/' $@
+
+CHANGES_TO_INSPECT_COUNT=100
+
+$(DIAG_DIR)/pcedt.taligns.$(CHANGES_TO_INSPECT_COUNT)_random_changes.diff : $(DIAG_DIR)/pcedt2.0coref_taligns.txt $(DIAG_DIR)/pcedt4pdtc_taligns.txt | $(DIAG_DIR)
+	diff $(word 1,$^) $(word 2,$^) | sed 's/^\([0-9]\)/\n\1/' | $(SHUFFLE_CMD) --random_seed=1986 --separator="\n\n" | \
+		perl -e 'my $$elc = 0; while (<STDIN>) { chomp $$_; if ($$_ =~ /^$$/) { $$elc++; } print $$_."\n"; if ($$elc >= $$ARGV[0]) {exit;} }' $(CHANGES_TO_INSPECT_COUNT) > $@
+
+$(DIAG_DIR)/pcedt.taligns.$(CHANGES_TO_INSPECT_COUNT)_random_changes.orig.list : $(DIAG_DIR)/pcedt.taligns.$(CHANGES_TO_INSPECT_COUNT)_random_changes.diff
+	cat $< | grep -A1 '^[0-9]' | grep "wsj" | cut -f2 | sed 's/^\(EnglishT-wsj_\(\(..\)..\)-s\([0-9]\+\).*\)$$/\3\/wsj_\2.treex.gz##\4.\1/' | sed 's|^|$(PCEDT20COREF)/|' > $@
+
+$(DIAG_DIR)/pcedt.taligns.$(CHANGES_TO_INSPECT_COUNT)_random_changes.new.list : $(DIAG_DIR)/pcedt.taligns.$(CHANGES_TO_INSPECT_COUNT)_random_changes.diff
+	cat $< | grep -A1 '^[0-9]' | grep "wsj" | cut -f2 | sed 's/^\(EnglishT-wsj_\(....\)-s\([0-9]\+\).*\)$$/wsj\2.treex.gz##\3.\1/' | sed 's|^|$(ALIGNED_COREFSUP_T_DIR)/|' > $@
+
+$(DIAG_DIR)/pcedt.taligns.$(CHANGES_TO_INSPECT_COUNT)_random_changes.ttrees : $(DIAG_DIR)/pcedt.taligns.$(CHANGES_TO_INSPECT_COUNT)_random_changes.orig.list $(DIAG_DIR)/pcedt.taligns.$(CHANGES_TO_INSPECT_COUNT)_random_changes.new.list | $(DIAG_DIR)
+	paste $^ | head | while read line; do \
+		$(TTREES_CMD) <(echo "$$line" | sed 's/\t/\n/') zones=en,cs; \
+		perl -e 'print "\n".("#"x200)."\n\n";'; \
+	done > $@
 
 #$(DIAG_DIR)/pcedt2.0coref_tforms.%.txt : | $(DIAG_DIR)
 #	$(TREEX) \
