@@ -231,38 +231,69 @@ $(ALIGNED_COREFSUP_T_DIR)/done : | $(ALIGNED_COREFSUP_T_DIR)
 ##################################################################################################################################
 ############################# DIAGNOSTICS OF T-NODES IN THE OLD AND THE NEW PCEDT  ###############################################
 ##################################################################################################################################
+DIAG_DIR=$(TMP_DIR)/diag
 
-$(ALIGNED_T_DIR)/pcedt4pdtc_taligns.txt : | $(ALIGNED_T_DIR)
+$(DIAG_DIR) :
+	mkdir $@
+
+#---------------------------------------------------------------------------------------------------------------------------------
+#    1. is the "tag" attribute set for each a-node?
+#---------------------------------------------------------------------------------------------------------------------------------
+
+$(DIAG_DIR)/pcedt2.0coref_notag_anodes.%.txt : | $(DIAG_DIR)
+	$(TREEX) \
+		Read::Treex from='!$(PCEDT20COREF)/*/wsj_*.treex.gz' \
+		Util::Eval anode='if (!defined $$anode->tag) { print $$anode->get_address . "\n"; }' \
+	> $@
+
+$(DIAG_DIR)/pcedt4pdtc_notag_anodes.%.txt : | $(DIAG_DIR)
+	$(TREEX) \
+		Read::Treex from='!$(NOTRACE_DIR)/wsj*.treex.gz' \
+		Util::Eval anode='if (!defined $$anode->tag) { print $$anode->get_address . "\n"; }' \
+	> $@
+
+$(DIAG_DIR)/pcedt4pdtc_withtraces_notag_anodes.%.txt : | $(DIAG_DIR)
+	$(TREEX) \
+		Read::Treex from='!$(UNALIGNED_DIR)/wsj*.treex.gz' \
+		Util::Eval anode='if (!defined $$anode->tag) { print $$anode->get_address . "\n"; }' \
+	> $@
+
+#---------------------------------------------------------------------------------------------------------------------------------
+#    2. print alignments on a- and  t-layer to compare the original and the new version
+#---------------------------------------------------------------------------------------------------------------------------------
+
+$(DIAG_DIR)/pcedt4pdtc_taligns.txt : | $(DIAG_DIR)
 	$(TREEX) \
 		Read::Treex from='!$(ALIGNED_T_DIR)/wsj*.treex.gz' \
 		PDTC::AlignLinksPrinter to=- language=en layer=t \
 	> $@
 
-$(ALIGNED_T_DIR)/pcedt2.0coref_taligns.txt : | $(ALIGNED_T_DIR)
+$(DIAG_DIR)/pcedt2.0coref_taligns.txt : | $(DIAG_DIR)
 	$(TREEX) \
 		Read::Treex from='!$(PCEDT20COREF)/*/wsj_*.treex.gz' \
 		PDTC::AlignLinksPrinter to=- language=en layer=t \
 	> $@
 
-$(ALIGNED_T_DIR)/pcedt4pdtc_aaligns.txt : | $(ALIGNED_T_DIR)
+$(DIAG_DIR)/pcedt4pdtc_aaligns.txt : | $(DIAG_DIR)
 	$(TREEX) \
 		Read::Treex from='!$(ALIGNED_T_DIR)/wsj*.treex.gz' \
 		PDTC::AlignLinksPrinter to=- language=en layer=a \
 	> $@
 
-$(ALIGNED_T_DIR)/pcedt2.0coref_aaligns.txt : | $(ALIGNED_T_DIR)
+$(DIAG_DIR)/pcedt2.0coref_aaligns.txt : | $(DIAG_DIR)
 	$(TREEX) \
 		Read::Treex from='!$(PCEDT20COREF)/*/wsj_*.treex.gz' \
 		PDTC::AlignLinksPrinter to=- language=en layer=a \
 	> $@
 
-$(ALIGNED_T_DIR)/pcedt2.0coref_tforms.%.txt : | $(ALIGNED_T_DIR)
-	$(TREEX) \
-		Read::Treex from='!$(PCEDT20COREF)/*/wsj_*.treex.gz' \
-		Write::AttributeSentences to=- language=$* layer=t attributes='id,t_lemma' separator='\n' attr_sep='\t' sent_sep='\n\n' \
-	> $@
-$(ALIGNED_T_DIR)/pcedt4pdtc_tforms.%.txt : | $(ALIGNED_T_DIR)
-	$(TREEX) \
-		Read::Treex from='!$(ALIGNED_A_DIR)/wsj*.treex.gz' \
-		Write::AttributeSentences to=- language=$* layer=t attributes='id,t_lemma' separator='\n' attr_sep='\t' sent_sep='\n\n' \
-	> $@
+#$(DIAG_DIR)/pcedt2.0coref_tforms.%.txt : | $(DIAG_DIR)
+#	$(TREEX) \
+#		Read::Treex from='!$(PCEDT20COREF)/*/wsj_*.treex.gz' \
+#		Write::AttributeSentences to=- language=$* layer=t attributes='id,t_lemma' separator='\n' attr_sep='\t' sent_sep='\n\n' \
+#	> $@
+#$(DIAG_DIR)/pcedt4pdtc_tforms.%.txt : | $(DIAG_DIR)
+#	$(TREEX) \
+#		Read::Treex from='!$(ALIGNED_A_DIR)/wsj*.treex.gz' \
+#		Write::AttributeSentences to=- language=$* layer=t attributes='id,t_lemma' separator='\n' attr_sep='\t' sent_sep='\n\n' \
+#	> $@
+
