@@ -1,0 +1,99 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Prague Dependency Treebank of Spoken Czech 2.0 (PDTSC 2.0) – Introduction</title>
+<link href="styles/main.css" rel="stylesheet" type="text/css">
+</head>
+
+<body style="background-image: url('pics/background.jpg'); background-repeat: repeat-x">
+<div id="centered">
+<table border="0" cellpadding="2" style="border-style: none; margin-bottom: 15px"><tr>
+<td><a href="http://ufal.mff.cuni.cz" target="_blank"><img height="80" align="left" src="pics/logo_ufal_lindat.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
+<td><span style="font-size:22px;"><b>Prague Dependency Treebank of Spoken Czech 2.0 (PDTSC 2.0)</b></span></td>
+</tr>
+</table>
+<table border="0" cellpadding="5" style="margin-bottom: 15px"><tr>
+<td><div><a href="index.html"><div style="background-image: url('pics/background_button_actual.jpg'); background-color: #ffeb5a; border-top-left-radius: 8px; padding: 5px">Introduction</div></a></div></td>
+<td><div><a href="data.html"><div style="background-image: url('pics/background_button.jpg'); background-color: #ddedf4; border-top-left-radius: 8px; padding: 5px">Data</div></a></div></td>
+<td><div><a href="documentation.html"><div style="background-image: url('pics/background_button.jpg'); background-color: #ddedf4; border-top-left-radius: 8px; padding: 5px">Documentation</div></a></div></td>
+<td><div><a href="licence.html"><div style="background-image: url('pics/background_button.jpg'); background-color: #ddedf4; border-top-left-radius: 8px; padding: 5px">Licence</div></a></div></td>
+<td><div><a href="credits.html"><div style="background-image: url('pics/background_button.jpg'); background-color: #ddedf4; border-top-left-radius: 8px; padding: 5px">Credits</div></a></div></td>
+<td><div><a href="acknowledgment.html"><div style="background-image: url('pics/background_button.jpg'); background-color: #ddedf4; border-top-left-radius: 8px; padding: 5px">Acknowledgments</div></a></div></td>
+</tr></table>
+
+
+<h1>
+	Introduction
+</h1>
+
+<p>
+	The <a href="http://hdl.handle.net/11234/1-3189" target="_blank">Prague Dependency Treebank of Spoken Czech 2.0</a> is a corpus of spoken language, consisting of 742,316 tokens and 73,835 sentences, representing 7,324 minutes (over 120 hours) of spontaneous dialogs. The dialogs have been recorded, transcribed and edited in several interlinked layers: audio recordings, automatic (z-layer) and manual transcripts (w-layer) and manually reconstructed text (m-layer). These layers were part of the first version of the corpus (<a href="http://ufal.mff.cuni.cz/pdtsc1.0/en/index.html" target="_blank">PDTSC 1.0</a>). Version 2.0 is extended by an automatic dependency parser at the analytical (a-layer) and by the manual annotation of “deep” syntax at the tectogrammatical layer (t-layer), which contains semantic roles and relations as well as annotation of coreference. Table 1 shows the inclusion and status of layers of annotation in both versions of the corpus. 
+</p>
+
+<figure style="margin-top: 5px; margin-bottom: 10px">
+	<img src="pics/rovinyPDTSC-tabulka.jpg" style="width:400px; height:auto; display: block; margin-left: 50px" /> <figcaption style="margin-top: 7px; margin-left: 50px">Table 1 - Layers of annotation in the two versions of the corpus </figcaption>
+</figure>
+
+<p>
+	<strong>Data</strong>
+</p>
+
+<p>
+	The corpus consists of two types of dialogs. First we used the Czech portion of the <a href="https://malach.umiacs.umd.edu/" target="_blank">Malach</a><span style="color: rgb(51, 51, 51); font-family: Verdana, Arial, sans-serif; font-size: 13.3333px; text-align: justify;"> </span>project corpus. The Malach corpus consists of lightly moderated dialogs (testimonies) with Holocaust survivors, originally recorded for the Shoa memory project by the Shoa Visual History Foundation. The dialogs usually start with shorter turns but continue as longer monologues by the survivors, often showing emotion, disfluencies caused by recollecting interviewee’s distant memories, etc.
+</p>
+
+<p>
+	The second portion of the corpus consists of dialogs that were recorded within the <a href="http://cordis.europa.eu/project/rcn/96289_en.html" target="_blank">Companions</a> project. The domain is reminiscing about personal photograph collections. The goal of this project was to create virtual companions that would be able to have a natural conversation with humans. The corpus was completely recorded in the <a href="http://en.wikipedia.org/wiki/Wizard_of_Oz_experiment" target="_blank">Wizard-of-Oz</a> setup; the interviewing speaker is an avatar on the computer screen, which is controlled by a human in a different room. The interviewee is a user of a system that is designed to discuss his photographs with him. The user does not know that the avatar is controlled by a human and believes it is real artificial intelligence he interacts with. 
+</p>
+
+<p>
+	<strong>Layers of annotation</strong>
+</p>
+
+<p>
+	PDTSC 2.0 is a treebank from the family of PDT-style corpora developed in Prague. PDTSC differs from other PDT-style corpora mainly in the “spoken” part of the corpus. The layers stack starting at the external base layer with <strong>audio</strong> files (in the Vorbis format). The bottom layer of the corpus (<strong>z-layer</strong>) contains <strong>automatic speech recognition</strong> output synchronized to audio. The next layer, <strong>w-layer</strong>, contains <strong>manual transcript </strong>of the audio, i.e. everything the speaker has said including all slips of the tongue as well as non-speech events like coughing, laugh, etc. W-layer is synchronized to the automatic transcript and through it thus to the original audio. The subsequent <strong>m-layer</strong> contains a <strong>manually “reconstructed”, i.e. edited, grammatically corrected version of the transcript</strong>, including punctuation and assumed sentence boundaries. The reconstructed tokens are automatically morphologically tagged and lemmatized. From this point on, annotation on the upper layers is the same as in the other PDT-style corpora. The <strong>dependency syntax</strong> layer (<strong>a-layer</strong>) is parsed automatically, while the <strong>“deep” syntax layer</strong> (<strong>t-layer</strong>) is annotated manually. There is a one-to-one correspondence between the tokens at the m-layer and the nodes at the a-layer. The syntactic dependencies are provided with dependency relations (e.g., subject or adverbial). The t-layer, which is also a tree-shaped graph (with content words only), is the highest and most complex linguistic representation that combines syntax and semantics in the form of semantic labeling, coreference annotation and argument structure description based on a valency lexicon. 
+</p>
+
+<figure style="margin-top: 5px; margin-bottom: 10px">
+	<img src="pics/rovinyOBR.jpg" style="width:500px; height:auto; display: block; margin-left: 50px" /> <figcaption style="margin-top: 7px; margin-left: 70px">Figure 1 - Interlinking of the layers</figcaption>
+</figure>
+
+<p>
+	In order not to lose any piece of the original information, tokens (nodes) on a lower layer are explicitly referenced from the corresponding closest (immediately higher) layer. This allows the morphological, syntactic and semantic annotation to be deterministically and fully mapped back to the transcript and audio. It brings new possibilities for modeling morphology, syntax and semantics in spoken language – either at the original transcript with mapped annotation, or at the new layer after (automatic) editing.
+</p>
+
+<p>
+	 
+</p>
+
+<p>
+	<strong>Publications</strong>
+</p>
+
+<p style="text-indent: -0.82cm; margin-left: 1cm; margin-bottom: 0cm;">
+	Hajič Jan, Cinková Silvie, Mikulová Marie, Pajas Petr, Ptáček Jan, Toman Josef, Urešová Zdeňka: PDTSL: An Annotated Resource For Speech Reconstruction. In: <em>Proceedings of the 2008 IEEE Workshop on Spoken Language Technology</em>, IEEE, Goa, India, ISBN 978-1-4244-3472-5, 2008. (<a href="pubs/slt2008-paperno-1097-final.pdf">pdf</a>)
+</p>
+
+<p style="text-indent: -0.82cm; margin-left: 1cm; margin-bottom: 0cm;">
+	Mikulová Marie: Speech reconstruction guidelines for Czech data. Translation of manual in Czech: Marie Mikulová: Rekonstrukce standardizovaného textu z mluvené řeči. Manuál pro anotátory. Institute of Formal and Applied Linguistics, Charles University, Prague, Czechia, 2008. (<a href="pubs/Speech-reconstruction-guide-EN.pdf" style="text-indent: -30.9921px;">pdf</a><span style="text-indent: -30.9921px;">) </span>
+</p>
+
+<p style="text-indent: -0.82cm; margin-left: 1cm; margin-bottom: 0cm;">
+	Mikulová Marie: <em>Rekonstrukce standardizovaného textu z mluvené řeči v Pražském závislostním korpusu mluvené češtiny. Manuál pro anotátory.</em> Tech. report no. TR-2008-38, Institute of Formal and Applied Linguistics, Charles University, Prague, Czechia, ISSN 1214-5521, 2008. (<a href="pubs/Speech-reconstruction-guide-CZ.pdf">pdf</a>)
+</p>
+
+<p style="text-indent: -0.82cm; margin-left: 1cm; margin-bottom: 0cm;">
+	Mikulová Marie, Mírovský Jiří, Nedoluzhko Anna, Pajas Petr, Štěpánek Jan, Hajič Jan: PDTSC 2.0 - Spoken Corpus with Rich Multi-layer Structural Annotation. In: <em>Lecture Notes in Computer Science, </em><em>20th International Conference, TSD 2017 Prague, Czech Republic, </em>No. 10415<em>, </em>Springer International Publishing, Cham / Heidelberg / New York / Dordrecht / London, ISBN 978-3-319-64205-5, ISSN 0302-9743, pp. 129-137, 2017. (<a href="pubs/PDTSC20-at-TextSpeechandDialogue2017.pdf">pdf</a>)
+</p>
+
+<p style="text-indent: -0.82cm; margin-left: 1cm; margin-bottom: 0cm;">
+	Mikulová Marie, Hoffmannová Jana: Korpusy mluvené češtiny a možnosti jejich využití pro poznání rozdílných "světů" mluvenosti a psanosti. In: <em>Korpusová lingvistika Praha 2011. 2 Výzkum a výstavba korpusu</em>, Lidové noviny, Prague, Czechia, ISBN 978-80-7422-115-6, pp. 78-92, 2011.
+</p>
+
+<p>&nbsp;</p>
+
+</div>
+</body>
+</html>
+
