@@ -68,7 +68,7 @@ sub check_internal_links {
     }
   }
 
-  foreach my $cortext (map {$_->{'target_node.rf'}} ListV($this->attr('coref_text'))) {
+  foreach my $cortext (map {$_->{'target_node.rf'} // $_->{'target-node.rf'}} ListV($this->attr('coref_text'))) {
     my $target = PML_T::GetNodeByID($cortext);
     if (!$target) {
       print "Missing coref_text target from $id to $cortext\n";
@@ -76,7 +76,7 @@ sub check_internal_links {
     }
   }
 
-  foreach my $bridging (map {$_->{'target_node.rf'}} ListV($this->attr('bridging'))) {
+  foreach my $bridging (map {$_->{'target_node.rf'} // $_->{'target-node.rf'}} ListV($this->attr('bridging'))) {
     my $target = PML_T::GetNodeByID($bridging);
     if (!$target) {
       print "Missing bridging target from $id to $bridging\n";

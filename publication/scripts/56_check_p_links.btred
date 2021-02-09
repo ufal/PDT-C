@@ -1,0 +1,43 @@
+#!btred -TN --context PML_En_A -e check_p_links()
+#-*- cperl -*-
+# Author: Jiri Mirovsky
+# 2020
+
+#ifndef NTRED
+#include <tred.mac>
+#endif
+
+=item check_p_links
+
+A check if all p-links (terminal.rf, nonterminals.rf) lead to existing nodes
+
+=cut
+
+package PML_En_A;
+
+use strict;
+use warnings;
+
+#encoding utf8
+use utf8;
+binmode STDIN, ':utf8';
+binmode STDOUT, ':utf8';
+binmode STDERR, ':utf8';
+
+
+sub check_p_links {
+
+  my $id = $this->attr('id');
+
+  my @pnodes = GetPNodes($this);
+
+  foreach my $pnode (@pnodes) {
+    my $p_id = $pnode->attr('id') // '';
+    if (!$p_id) {
+      print "Missing p-reference target from $id\n";
+      print "Missing p-reference position: " . ThisAddress() . "\n";
+    } 
+  }
+
+
+} # check_p_links
