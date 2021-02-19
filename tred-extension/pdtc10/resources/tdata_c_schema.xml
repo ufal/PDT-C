@@ -139,6 +139,7 @@
       <member name="is_state" type="bool.type"/>
       <member name="gram" type="t-gram.type"/>
       <member name="tfa" type="t-tfa.type"/>
+      <member name="formeme"><cdata format="any"/></member> <!-- for the Czech part of the PCEDT-3.0 -->
       <member name="deepord" role="#ORDER" required="1">
         <cdata format="nonNegativeInteger"/>
       </member>
