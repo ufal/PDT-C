@@ -1,0 +1,177 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>EngVallex 2.0 – REST API</title>
+<link href="styles/main.css" rel="stylesheet" type="text/css">
+</head>
+
+<body style="background-image: url('images/background.jpg'); background-repeat: repeat-x">
+<div id="centered">
+<table border="0" cellpadding="2" style="border-style: none; margin-bottom: 15px"><tr>
+<td><a href="http://ufal.mff.cuni.cz" target="_blank"><img height="80" align="left" src="images/logo_ufal_lindat.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
+<td><span style="font-size:36px;"><b>EngVallex 2.0</b></span></td>
+</tr>
+</table>
+<table border="0" cellpadding="5" style="margin-bottom: 15px"><tr>
+<td><div><a href="index.html"><div style="background-image: url('images/background_button.jpg'); background-color: #ddedf4; border-top-left-radius: 8px; padding: 5px">Introduction</div></a></div></td>
+<td><div><a href="data.html"><div style="background-image: url('images/background_button.jpg'); background-color: #ddedf4; border-top-left-radius: 8px; padding: 5px">Data</div></a></div></td>
+<td><div><a href="documentation.html"><div style="background-image: url('images/background_button.jpg'); background-color: #ddedf4; border-top-left-radius: 8px; padding: 5px">Documentation</div></a></div></td>
+<td><div><a href="restapi.html"><div style="background-image: url('images/background_button_actual.jpg'); background-color: #ffeb5a; border-top-left-radius: 8px; padding: 5px">REST API</div></a></div></td>
+<td><div><a href="licence.html"><div style="background-image: url('images/background_button.jpg'); background-color: #ddedf4; border-top-left-radius: 8px; padding: 5px">Licence</div></a></div></td>
+<td><div><a href="credits.html"><div style="background-image: url('images/background_button.jpg'); background-color: #ddedf4; border-top-left-radius: 8px; padding: 5px">Credits</div></a></div></td>
+<td><div><a href="acknowledgment.html"><div style="background-image: url('images/background_button.jpg'); background-color: #ddedf4; border-top-left-radius: 8px; padding: 5px">Acknowledgments</div></a></div></td>
+</tr></table>
+
+
+
+<h1>
+	EngVallex – REST-API
+</h1>
+
+<h2>
+	2 methods
+</h2>
+
+<p>
+	i/ verbs - searching by verbs (lemmas)
+</p>
+
+<p>
+	ii/  frames - searching by frames (frame IDs)
+</p>
+
+
+<h3>
+	i/ searching by verbs
+</h3>
+
+<p>
+	<strong><em>parameters</em></strong>
+</p>
+
+<p>
+	- optional
+</p>
+
+<ul>
+	<li>
+		<em>verb </em>– string (with regular expressions) – verb lemma, default value is ".*"
+	</li>
+	<li>
+		<em>verbsLimit</em> – number – maximum of listed verbs, default value is “1000”
+	</li>
+	<li>
+		<em>examplesLimit</em> – number – maximum of listed sentences from corpora for one frame, default value is “5”
+	</li>
+	<li>
+		<em>examplesForm</em> – type of listing sentences from corpora – value “plain” or “complex”,  default value is “plain”
+	</li>
+</ul>
+
+<p>
+	<strong><em>output</em></strong>
+</p>
+
+<pre>
+	- number of found frames for entered verbs
+	- found frames in form:
+	 
+	verb_lemma1
+	  frame_id1
+	    informations from engvallex:
+	            frame_elements:
+	                func    func1, …, funcN
+	                func_alt1,…,func_altN
+	  
+	            notes
+	            examples from pdt_vallex
+	    examples from pcedt
+	 
+	  frame_id2
+	    ...
+	  frame_idN
+
+	verb_lemma2
+	   ...
+</pre>
+<p>
+	<strong><em>examples</em></strong>
+</p>
+
+<p>
+	<a href="http://lindat.mff.cuni.cz/services/EngVallex/api/verbs?verb=ab.*&amp;examplesLimit=3&amp;examplesForm=plain&amp;verbsLimit=2">http://lindat.mff.cuni.cz/services/EngVallex/api/verbs?verb=ab.*&examplesLimit=3&examplesForm=plain&verbsLimit=2</a>
+</p>
+
+<p>
+	or
+</p>
+
+<p>
+	curl --data 'verb=ab.*&examplesLimit=3&examplesForm=plain&verbsLimit=2' http://lindat.mff.cuni.cz/services/EngVallex/api/verbs
+</p>
+
+<p>
+	 
+</p>
+
+<h3>
+	ii/ searching by frames
+</h3>
+
+<p>
+	<strong><em>parameters</em></strong>
+</p>
+
+<p>
+	- optional
+</p>
+
+<ul>
+	<li>
+		<em>frame </em>– string (with regular expressions) – frame ID,  default value is ".*"
+	</li>
+	<li>
+		<em>framesLimit</em> – number – maximum of listed frames, default value is “1000”
+	</li>
+	<li>
+		<em>examplesLimit</em> – number – maximum of listed sentences from corpora for one frame, default value is “5”
+	</li>
+	<li>
+		<em>examplesForm</em> – type of listing sentences from corpora – value “plain” or “complex”,  default value is “plain”
+	</li>
+</ul>
+
+<p>
+	<strong><em>output</em></strong>
+</p>
+
+<p>
+	- number of found frames with entered frame ID
+</p>
+
+<p>
+	- informations (in the same form as for searching by verbs)
+</p>
+
+<p>
+	<strong><em>examples</em></strong>
+</p>
+
+<p>
+	<a href="http://lindat.mff.cuni.cz/services/EngVallex/api/frames?frame=ev-w202.*&amp;examplesLimit=3&amp;examplesForm=plain&amp;framesLimit=2">http://lindat.mff.cuni.cz/services/EngVallex/api/frames?frame=ev-w202.*&examplesLimit=3&examplesForm=plain&framesLimit=2</a>
+</p>
+
+<p>
+	or
+</p>
+
+<p>
+	curl --data 'frame=ev-w202.*&examplesLimit=3&examplesForm=plain&framesLimit=2' http://lindat.mff.cuni.cz/services/EngVallex/api/frames
+</p>
+
+
+<p>&nbsp;</p>
+</div>
+</body>
+</html>

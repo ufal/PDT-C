@@ -1,0 +1,264 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>EngVallex 2.0 – Documentation (Valency and EngVallex)</title>
+<link href="styles/main.css" rel="stylesheet" type="text/css">
+</head>
+
+<body style="background-image: url('images/background.jpg'); background-repeat: repeat-x">
+<div id="centered">
+<table border="0" cellpadding="2" style="border-style: none; margin-bottom: 15px"><tr>
+<td><a href="http://ufal.mff.cuni.cz" target="_blank"><img height="80" align="left" src="images/logo_ufal_lindat.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
+<td><span style="font-size:36px;"><b>EngVallex 2.0</b></span></td>
+</tr>
+</table>
+<table border="0" cellpadding="5" style="margin-bottom: 15px"><tr>
+<td><div><a href="index.html"><div style="background-image: url('images/background_button.jpg'); background-color: #ddedf4; border-top-left-radius: 8px; padding: 5px">Introduction</div></a></div></td>
+<td><div><a href="data.html"><div style="background-image: url('images/background_button.jpg'); background-color: #ddedf4; border-top-left-radius: 8px; padding: 5px">Data</div></a></div></td>
+<td><div><a href="documentation.html"><div style="background-image: url('images/background_button_actual.jpg'); background-color: #ffeb5a; border-top-left-radius: 8px; padding: 5px">Documentation</div></a></div></td>
+<td><div><a href="restapi.html"><div style="background-image: url('images/background_button.jpg'); background-color: #ddedf4; border-top-left-radius: 8px; padding: 5px">REST API</div></a></div></td>
+<td><div><a href="licence.html"><div style="background-image: url('images/background_button.jpg'); background-color: #ddedf4; border-top-left-radius: 8px; padding: 5px">Licence</div></a></div></td>
+<td><div><a href="credits.html"><div style="background-image: url('images/background_button.jpg'); background-color: #ddedf4; border-top-left-radius: 8px; padding: 5px">Credits</div></a></div></td>
+<td><div><a href="acknowledgment.html"><div style="background-image: url('images/background_button.jpg'); background-color: #ddedf4; border-top-left-radius: 8px; padding: 5px">Acknowledgments</div></a></div></td>
+</tr></table>
+
+
+<h1>
+	Valency and valency lexicon EngVallex
+</h1>
+
+<h2>
+	Valency
+</h2>
+
+<p>
+	The valency (argument structure) draws on the valency theory of the Functional Generative Description (FGD). The theory originally focused on verbs. The major part of this section is therefore devoted to verb valency, although most applies to other parts of speech as well. Noun- and adjective-specific valency features are described separately.
+</p>
+
+<h3>
+	Obligatory vs. non-obligatory complementations
+</h3>
+
+<p>
+	Four types of complementations are distinguished: obligatory participants, optional participants, obligatory modifiers and free modifiers. This implies that the line to be drawn between a participant (i.e. argument) and a modifier (i.e. adjunct) is not identical with obligatoriness. The distinguishing criterion is the so-called dialog test. The dialogue test helps us determine which complementations of a given verb are obligatory and which are optional. The dialogue test is based on the difference between questions asking about something that is supposed to be known to the speaker - because it follows from the meaning of the verb he/she has used, and questions about something that does not necessarilly follow from the meaning of the used verb. Answering a question about a semantically obligatory complementation of a particular verb, the speaker - who has used the verb - cannot sensibly say: <em>I don't know</em>. Compare the following dialogues:
+</p>
+
+<ul>
+	<li>
+		A: <em>When he saw it, he bought it.</em>
+	</li>
+	<li>
+		B: <em>Who?</em>
+	</li>
+	<li>
+		A: <em>*I don't know.</em>
+	</li>
+</ul>
+
+<p>
+	Who is the buyer must be familiar to the speaker, otherwise his utterance would not make sense. The same goes for the thing bought:
+</p>
+
+<ul>
+	<li>
+		A: <em>When he saw it, he bought it.</em>
+	</li>
+	<li>
+		B: <em>What did he buy?</em>
+	</li>
+	<li>
+		A: <em>*I don't know.</em>
+	</li>
+</ul>
+
+<p>
+	On the other hand, it does not sound odd when the speaker does not know e.g. for whom or from whom the buyer bought the object:
+</p>
+
+<ul>
+	<li>
+		A: <em>When he saw it, he bought it.</em>
+	</li>
+	<li>
+		B: <em>From/for whom did he buy it?</em>
+	</li>
+	<li>
+		A: <em>I don't know.</em>
+	</li>
+</ul>
+
+<p>
+	Obligatory complementations are complementations that must be known to the speaker in a sensible dialog.
+</p>
+
+<h3>
+	Participants vs. modifiers
+</h3>
+
+<p>
+	To make a distinction between inner participants and modifiers, the following criteria are used:
+</p>
+
+<ul>
+	<li>
+		Can the given type of complementation modify a particular verb occurence more than once, or at most once?
+	</li>
+	<li>
+		Can the given type of complementation modify any verb, or is there a (more or less) closed class of verbs that can be modified by it?
+	</li>
+</ul>
+
+<p>
+	If the complementation can modify a particular verb in a particular meaning only once (coordination takes only one valency slot), it is an inner participant. If the verb in that meaning can take more complementations of the same type, the complementation is a modifier.
+</p>
+
+<p>
+	If the complementation of a particular type can be attached to (almost) any verb, it is a modifier. E.g. spatial and temporal adverbials are typically modifiers, since virtually all events can be described in terms of time and space.
+</p>
+
+<h3>
+	Participant types: <strong><span style="font-family: &quot;courier new&quot;, courier, monospace;">ACT</span></strong>, <strong><span style="font-family: &quot;courier new&quot;, courier, monospace;">PAT</span></strong>, <strong><span style="font-family: &quot;courier new&quot;, courier, monospace;">ADDR</span></strong>, <strong><span style="font-family: &quot;courier new&quot;, courier, monospace;">ORIG</span></strong> and <strong><span style="font-family: &quot;courier new&quot;, courier, monospace;">EFF</span></strong>
+</h3>
+
+<p>
+	All participants and all relevant modifiers are listed in the valency frame of the given verb sense in the valency lexicon. The valency frames in the Czech valency lexicon, PDT-Vallex, list only participants (obligatory as well as optional) and obligatory modifiers. The English valency lexicon (EngVallex) captures even free modifiers that are typical of the given verb frame. The reason is that the first version of EngVallex arose as a semi-automatic transformation of one of the early versions of <a href="https://catalog.ldc.upenn.edu/LDC2004T14" target="_blank">PropBank</a>. Even though some arguments listed by PropBank would not have qualified for participants and obligatory modifiers according to FGD, we did not want to throw away the information obtained from PropBank. All optional complementations are marked with a question mark in the lexicon.
+</p>
+
+<p>
+	There are five types of verb participants (arguments). They are marked with the functors <span style="font-family: &quot;courier new&quot;, courier, monospace;">ACT</span> (Actor), <span style="font-family: &quot;courier new&quot;, courier, monospace;">PAT</span> (Patient), <span style="font-family: &quot;courier new&quot;, courier, monospace;">ADDR</span> (Addressee), <span style="font-family: &quot;courier new&quot;, courier, monospace;">ORIG</span> (Origin) and <span style="font-family: &quot;courier new&quot;, courier, monospace;">EFF</span> (Effect). When determining the type of the participant in question, two kinds of criteria are used: syntactic (when only the Actor (<span style="font-family: &quot;courier new&quot;, courier, monospace;">ACT</span>) and Patient (<span style="font-family: &quot;courier new&quot;, courier, monospace;">PAT</span>) are involved) and semantic (when more than two participants are involved). When the verb opens just one slot for a participant, the participant is always called <span style="font-family: &quot;courier new&quot;, courier, monospace;">ACT</span>, regardless the semantics. E.g. in the causative alternation of <em>boil</em>, the causer has the functor <span style="font-family: &quot;courier new&quot;, courier, monospace;">ACT</span>, whereas the substance boiled has the functor <span style="font-family: &quot;courier new&quot;, courier, monospace;">PAT</span>. At the same time, in the inchoative alternation, the substance boiled has the functor <span style="font-family: &quot;courier new&quot;, courier, monospace;">ACT</span>, no matter that, semantically, it is not an agent, because the first valency slot opened for an inner participant is always <span style="font-family: &quot;courier new&quot;, courier, monospace;">ACT</span>. Unlike PropBank, the PDT-style valency lexicons make absolutely no links between arguments with the same thematic roles across different alternations (which usually means across different valency frames). When a verb opens two slots for inner participants, the logical subject of the predication gets the functor <span style="font-family: &quot;courier new&quot;, courier, monospace;">ACT</span> and the other participant becomes <span style="font-family: &quot;courier new&quot;, courier, monospace;">PAT</span>. <span style="font-family: &quot;courier new&quot;, courier, monospace;">PAT</span> are typically direct objects of active clauses, but also (systematically) verb complements of copula verbs. E.g. in <em>Peter is my friend</em>, <em>Peter</em> (as the individual to be classified) is <span style="font-family: &quot;courier new&quot;, courier, monospace;">ACT</span> and <em>friend</em> (the category to which Peter is said to belong) is <span style="font-family: &quot;courier new&quot;, courier, monospace;">PAT</span>.
+</p>
+
+<p>
+	When a verb opens three slots and more, the functor labels seek to reflect the thematic roles of the participants more accurately. Two participants are always <span style="font-family: &quot;courier new&quot;, courier, monospace;">ACT</span> and <span style="font-family: &quot;courier new&quot;, courier, monospace;">PAT</span>. The third (fourth, fifth) participant acquires a label from the range <span style="font-family: &quot;courier new&quot;, courier, monospace;">ORIG</span>, <span style="font-family: &quot;courier new&quot;, courier, monospace;">ADDR</span> and <span style="font-family: &quot;courier new&quot;, courier, monospace;">EFF</span>. For instance, the verb <em>sell</em> in one of its senses has the obligatory participants <span style="font-family: &quot;courier new&quot;, courier, monospace;">ACT</span> (the seller), <span style="font-family: &quot;courier new&quot;, courier, monospace;">PAT</span> (the thing sold) and the optional arguments <span style="font-family: &quot;courier new&quot;, courier, monospace;">ADDR</span> (the buyer) and <span style="font-family: &quot;courier new&quot;, courier, monospace;">EFF</span> (the price for which it was sold). Secondary predications in three-argument verbs (<em>They elected him president</em>) always get the functor <span style="font-family: &quot;courier new&quot;, courier, monospace;">EFF</span>. The assignment of these coarse-grained semantic labels is very intuitive in the most literal verb senses, especially when certain positions are typically occupied by humans and others by non-volitional inanimate entities. Cf.:
+</p>
+
+<ul>
+	<li>
+		<em>They</em>.<span style="font-family: &quot;courier new&quot;, courier, monospace;">ACT</span> <em>gave him</em>.<span style="font-family: &quot;courier new&quot;, courier, monospace;">ADDR</span> <em>a book</em>.<span style="font-family: &quot;courier new&quot;, courier, monospace;">PAT</span>
+	</li>
+	<li>
+		<em>They</em>.<span style="font-family: &quot;courier new&quot;, courier, monospace;">ACT</span> <em>are bundling their services</em>.<span style="font-family: &quot;courier new&quot;, courier, monospace;">PAT</span> <em>into packages</em>.<span style="font-family: &quot;courier new&quot;, courier, monospace;">EFF</span> <em>and target them to small segments of the population.</em>
+	</li>
+</ul>
+
+<p>
+	There are, though, verbs and verb senses, in which none of the semantically loaded functors seems to be the optimal match. The decision has then been made arbitrarily by the lexicographer in the valency lexicon and the data have been annotated accordingly. There are a few globally applied conventions; e.g. three-slot reciprocal verbs (someone blends something with something) have usually the combination of functors <span style="font-family: &quot;courier new&quot;, courier, monospace;">ACT</span>, <span style="font-family: &quot;courier new&quot;, courier, monospace;">PAT</span>, <span style="font-family: &quot;courier new&quot;, courier, monospace;">ADDR</span>. When the assignment of labels was not straightforward, individual judgments may differ as to whether ot not two verbs in certain reading should be described by the same set of functors. This appears typically when the lexicographer had to decide whether to formulate the valency frame as <span style="font-family: &quot;courier new&quot;, courier, monospace;">ACT</span>, <span style="font-family: &quot;courier new&quot;, courier, monospace;">ADDR</span>, <span style="font-family: &quot;courier new&quot;, courier, monospace;">PAT</span> or <span style="font-family: &quot;courier new&quot;, courier, monospace;">ACT</span>, <span style="font-family: &quot;courier new&quot;, courier, monospace;">PAT</span>, <span style="font-family: &quot;courier new&quot;, courier, monospace;">EFF</span>. Word order is irrelevant for formulating the valency frames. Cf. the following sentences (extracted as example sentences from EngVallex):
+</p>
+
+<ul>
+	<li>
+		<em>They</em>.<span style="font-family: &quot;courier new&quot;, courier, monospace;">ACT</span> <em>encase the concrete columns</em>.<span style="font-family: &quot;courier new&quot;, courier, monospace;">PAT</span> <em>with steel</em>.<span style="font-family: &quot;courier new&quot;, courier, monospace;">EFF</span>
+	</li>
+	<li>
+		<em>John</em>.<span style="font-family: &quot;courier new&quot;, courier, monospace;">ACT</span> <em>surrounded the castle</em>.<span style="font-family: &quot;courier new&quot;, courier, monospace;">ADDR</span> <em>with his toy soldiers</em>.<span style="font-family: &quot;courier new&quot;, courier, monospace;">PAT</span>
+	</li>
+</ul>
+
+<h3>
+	Valency lexicon
+</h3>
+
+<center>
+	<div class="figure right" id="figure_img_4">
+		<div class="figure_inner">
+			<img height="200" src="images/engvallex_frame.png" width="500" />
+			<p class="smallskip" style="width: 502px; margin-top: 10px; margin-bottom: 25px">
+				Figure 1. EngVallex valency frame
+			</p>
+		</div>
+	</div>
+</center>
+
+<p>
+	<strong>The English lexicon EngVallex</strong> draws on the structure of the PDT-style valency lexicon for Czech, the <a href="https://ufal.mff.cuni.cz/pdt-vallex-valency-lexicon-linked-czech-corpora" target="_blank">PDT-Vallex</a>. Each entry consists of a lemma and one or several valency frames, which are defined by the listed valency slots and their labels. In addition, EngVallex contains mapping to the current version of PropBank (the <a href="https://catalog.ldc.upenn.edu/LDC2011T03" target="_blank">OntoNotes 4.0 release</a>). The EngVallex entry of the verb <em>leap</em> in Figure 1 contains three valency frames. The line below the frame presents the frame-to-frameset mappping. Originally, the mapping was maintained manually. This manual mapping got lost with the latest substantial revision of PropBank. The current mapping was derived from the annotated data. The most recent PropBank has merged all syntactico-semantic alternations of a verb sense into one common frameset, while EngVallex does not reflect the alternations by any means and gives each occurring alternation a separate frame. Therefore the most typical situation is that several EngVallex frames map onto one and the same PropBank frameset. In such a case the mapping line contains the ID of the given PropBank frameset. The mapping line is missing in some EngVallex frames. This happens when this frame was used only for sentences that have not yet been annotated with PropBank. A mapping of one EngVallex frame onto several PropBank framesets is also possible. When sentences annotated with one particular EngVallex frame were annotated with two or more different framesets, the mapping line displays them in descending frequency order and indicates the number of annotated sentences with each.
+</p>
+
+<h3>
+	EngVallex-to-PropBank mapping
+</h3>
+
+<p>
+	Before the OntoNotes 4.0 PropBank release, valency slots in EngVallex were mapped onto the corresponding PropBank arguments. Nevertheless, the radical revision of PropBank made most links invalid. We have restored the links, drawing on both the annotation of PropBank and English part of PCEDT. Not surprisingly, the mapping between frames and framesets, and especially the mapping of the respective arguments on each other are in many verbs more complicated than 1:1. We store the mapping information in three files (see section <a href="documentation.html">Documentation</a>). The file <em>eng_pb_links.txt</em> contains only the most frequent frame-to-frameset mapping. The file <em>eng_pb_links_for_all_rolesets.txt</em> contains the information in all detail, but without pointers to the data. The file <em>eng_pb_links_with_ids.txt</em> contains the complete mapping information along with the infomation on where in the corpus the given mapping occurs (p-node id).
+</p>
+
+<p>
+	We have integrated the less comprehensive file (<em>eng_pb_links.txt</em>) into the EngVallex browser to facilitate its viewing. The file <em>eng_pb_links_for_all_rolesets.txt</em> was not integrated into the browser, since it is very complex and would make the view unhelpfully cluttered.
+</p>
+
+<center>
+	<div class="figure right" id="figure_img_4">
+		<div class="figure_inner">
+			<img height="170" src="images/eng_pb_mapping.png" width="900" />
+			<p class="smallskip" style="width: 502px; margin-top: 10px; margin-bottom: 25px">
+				Figure 2. EngVallex to PropBank mapping in the EngVallex editor
+			</p>
+		</div>
+	</div>
+</center>
+
+
+<p>
+	The mapping of the respective complementations is indicated only when an EngVallex participant or an obligatory modifier maps onto a PropBank argument (an <span style="font-family: &quot;courier new&quot;, courier, monospace;">ARG</span>- element) listed in the roleset. In Figure 2, the verb <em>swim</em> is divided into three frames. Two of them are mapped onto PropBank framesets. The absence of the mapping in the first frame has two possible reasons: either this EngVallex frame has not been assigned to any occurrence of the verb in the entire corpus, or the sentence in which this particular frame was assigned has not yet been annotated in PropBank (unlike the PEDT annotation, the PropBank annotation does not cover the entire PennTreebank). When the mapping information is present, the frame-to-frameset mapping is located on a separate line below the list of frame-constituting valency slots; e.g. <span style="font-family: &quot;courier new&quot;, courier, monospace;">[swim-v.xml::swim.01::1]</span>. This description means that this particular frame maps on the <span style="font-family: &quot;courier new&quot;, courier, monospace;">swim.01</span> frameset and that this happens once in the corpus. The third EngVallex frame maps onto the <span style="font-family: &quot;courier new&quot;, courier, monospace;">swim.01</span> frameset in two cases in the corpus. When there is a mapping between an EngVallex valency slot and a PropBank argument, it is listed in a square bracket following its name. The last digit is, again, the frequency of this particular mapping. Hence, the Actor of <em>swim</em> in the second frame maps on the <span style="font-family: &quot;courier new&quot;, courier, monospace;">Arg0</span> of <span style="font-family: &quot;courier new&quot;, courier, monospace;">swim.01</span> once.
+</p>
+
+<p>
+	The information visualized in the editor and contained in the <em>file eng_pb_links.txt</em> is incomplete. It always contains only the most frequent frame-to-frameset mapping. When two or more frame-to-frameset mappings are equally frequent, only one is displayed. The file does not provide any information on how many occurrences of a verb were assigned a given frame, so it is impossible to see whether the most frequent mapping covers the majority of cases or whether the mapping is one-to-many with an even distribution across several framesets. The complete mapping information is in the <em>file eng_pb_links_for_all_rolesets.txt</em>.
+</p>
+
+<p>
+	The file <em>eng_pb_links_for_all_rolesets.txt</em> lists all mappings that occurred in the corpus for a given EngVallex frame. For instance, the frame ev-w3310f22 of the verb <em>take</em> (see below), consisting of the slots <span style="font-family: &quot;courier new&quot;, courier, monospace;">ACT</span>, <span style="font-family: &quot;courier new&quot;, courier, monospace;">CPHR</span> and <span style="font-family: &quot;courier new&quot;, courier, monospace;">PAT</span> (a light-verb frame), maps on three PropBank framesets: <span style="font-family: &quot;courier new&quot;, courier, monospace;">take.01</span> (82 cases), <span style="font-family: &quot;courier new&quot;, courier, monospace;">take.02</span> (2 cases) and <span style="font-family: &quot;courier new&quot;, courier, monospace;">take.12</span> (1 case). When it maps onto <span style="font-family: &quot;courier new&quot;, courier, monospace;">take.01</span>, <span style="font-family: &quot;courier new&quot;, courier, monospace;">ACT</span> maps onto <span style="font-family: &quot;courier new&quot;, courier, monospace;">ARG-0</span> in <span style="font-family: &quot;courier new&quot;, courier, monospace;">take.01</span> 56 times and onto <span style="font-family: &quot;courier new&quot;, courier, monospace;">ARG-1</span> twice. <span style="font-family: &quot;courier new&quot;, courier, monospace;">CPHR</span> (the predicate noun) maps onto <span style="font-family: &quot;courier new&quot;, courier, monospace;">ARG-1</span> 79 times and onto <span style="font-family: &quot;courier new&quot;, courier, monospace;">ARG-2</span> twice. <span style="font-family: &quot;courier new&quot;, courier, monospace;">PAT</span> maps onto <span style="font-family: &quot;courier new&quot;, courier, monospace;">ARG-2</span> 52 times and onto <span style="font-family: &quot;courier new&quot;, courier, monospace;">ARG-1</span> 21 times. In addition, we get to know about mappings on PropBank elements which are not listed in the roleset that defines the given frameset. These mappings stand in curly brackets. <span style="font-family: &quot;courier new&quot;, courier, monospace;">PAT</span>, mapping on elements in <span style="font-family: &quot;courier new&quot;, courier, monospace;">take.01</span>, maps three times onto <span style="font-family: &quot;courier new&quot;, courier, monospace;">ARG-M-LOC</span>, twice on <span style="font-family: &quot;courier new&quot;, courier, monospace;">ARG-M-DIR</span>, once on <span style="font-family: &quot;courier new&quot;, courier, monospace;">ARG-M-ADV</span> and once on <span style="font-family: &quot;courier new&quot;, courier, monospace;">ARG-M-MNR</span>.
+</p>
+
+<pre style="overflow-wrap: break-word; white-space: pre-wrap">
+<code>    Engvallex frame ev-w3310f22 (take)   
+       ev-w3310f22 ACT CPHR PAT   
+         [propbank/e-v.xml::take.01::82]   
+            ACT [take.01::0::::56, take.01::1::::2]{}
+            CPHR [take.01::1::::79, take.01::2::::2]{}   
+            PAT [take.01::2::::52, take.01::1::::21]{take.01::m::LOC::3, take.01::m::DIR::2, take.01::m::ADV::1,   take.01::m::MNR::1}   
+         [propbank/e-v.xml::take.02::2]   
+            ACT [take.02::0::::1, take.02::1::::1]{}   
+            CPHR [take.02::1::::2]{}   
+            PAT [take.02::0::::1]{take.02::m::MNR::2}   
+         [propbank/e-v.xml::take.12::1]   
+            ACT [take.12::0::::1]{}   
+            CPHR [take.12::1::::1]{}  
+            PAT [take.12::1::::1]{}</code>
+</pre>
+
+<p>
+	In the file <em>eng_pb_links_with_ids.txt</em>, we have added the node IDs for each mapping. The EngVallex frame ev-w3310f22 (take) looks like this:
+</p>
+
+<pre style="overflow-wrap: break-word; white-space: pre-wrap">
+<code>    ev-w3310f22
+      take.01 - ACT:ARG0 ACT:ARG0 CPHR PAT PAT (EnglishP-wsj_0109-s17-t18)
+      take.01 - ACT:ARG0 ACT:ARG0 CPHR:ARG1 PAT:ARG1 (EnglishP-wsj_1928-s1-t13)
+      take.01 - ACT:ARG0 ACT:ARG0 CPHR:ARG1 PAT:ARG2 (EnglishP-wsj_0184-s9-t20, EnglishP-wsj_1012-s7-t14, EnglishP-wsj_1797-s20-t13)
+      take.01 - ACT:ARG0 CPHR:ARG1 (EnglishP-wsj_2418-s33-t7)
+      take.01 - ACT:ARG0 CPHR:ARG1 PAT (EnglishP-wsj_0174-s22-t16)
+      take.01 - ACT:ARG0 CPHR:ARG1 PAT:ARG1 (EnglishP-wsj_0207-s2-t6, EnglishP-wsj_0304-s10-t7, EnglishP-wsj_0452-s3-t26, EnglishP-wsj_0559-s13-t15, EnglishP-wsj_0666-s35-t2, EnglishP-wsj_0790-s2-t14, EnglishP-wsj_1205-s3-t4, EnglishP-wsj_1424-s39-t4, EnglishP-wsj_2040-s42-t5, EnglishP-wsj_2167-s12-t34, EnglishP-wsj_2212-s1-t9, EnglishP-wsj_2300-s83-t4, EnglishP-wsj_2443-s13-t7)
+      take.01 - ACT:ARG0 CPHR:ARG1 PAT:ARG2 (EnglishP-wsj_0077-s1-t2, EnglishP-wsj_0090-s1-t11, EnglishP-wsj_0093-s4-t7, EnglishP-wsj_0121-s38-t15, EnglishP-wsj_0121-s46-t3, EnglishP-wsj_0590-s18-t11, EnglishP-wsj_0664-s32-t7, EnglishP-wsj_0764-s40-t2, EnglishP-wsj_1146-s91-t6, EnglishP-wsj_1250-s33-t6, EnglishP-wsj_1253-s18-t4, EnglishP-wsj_1270-s15-t13, EnglishP-wsj_1320-s64-t19, EnglishP-wsj_1419-s14-t14, EnglishP-wsj_1529-s16-t12, EnglishP-wsj_1569-s45-t2, EnglishP-wsj_1619-s21-t5, EnglishP-wsj_1831-s26-t6, EnglishP-wsj_2109-s27-t14, EnglishP-wsj_2151-s36-t25, EnglishP-wsj_2156-s25-t19, EnglishP-wsj_2387-s40-t4, EnglishP-wsj_2397-s61-t10, EnglishP-wsj_2404-s4-t16, EnglishP-wsj_2444-s4-t18)
+      take.01 - ACT:ARG0 CPHR:ARG1 PAT:ARG2 PAT:ARG2 (EnglishP-wsj_0118-s125-t7, EnglishP-wsj_1411-s16-t22)
+      take.01 - ACT:ARG0 CPHR:ARG1 PAT:ARGM-ADV (EnglishP-wsj_1569-s58-t4)
+      take.01 - ACT:ARG0 CPHR:ARG1 PAT:ARGM-DIR PAT:ARGM-DIR (EnglishP-wsj_1504-s36-t11)
+      take.01 - ACT:ARG0 CPHR:ARG1 PAT:ARGM-LOC (EnglishP-wsj_1792-s13-t16)
+      take.01 - ACT:ARG0 CPHR:ARG1 PAT:ARGM-MNR (EnglishP-wsj_0293-s39-t3)
+      take.01 - ACT:ARG1 CPHR:ARG2 PAT:ARGM-LOC (EnglishP-wsj_0931-s11-t33, EnglishP-wsj_1368-s6-t13)
+      take.01 - CPHR:ARG1 (EnglishP-wsj_0295-s50-t7, EnglishP-wsj_1010-s32-t28, EnglishP-wsj_1916-s27-t14)
+      take.01 - CPHR:ARG1 PAT (EnglishP-wsj_1569-s16-t8, EnglishP-wsj_2367-s21-t8)
+      take.01 - CPHR:ARG1 PAT:ARG1 (EnglishP-wsj_1034-s5-t13, EnglishP-wsj_1294-s24-t11, EnglishP-wsj_1525-s42-t12, EnglishP-wsj_1766-s25-t21, EnglishP-wsj_2231-s10-t10, EnglishP-wsj_2384-s31-t30, EnglishP-wsj_2412-s78-t22)
+      take.01 - CPHR:ARG1 PAT:ARG2 (EnglishP-wsj_0118-s47-t12, EnglishP-wsj_0286-s86-t16, EnglishP-wsj_0560-s18-t35, EnglishP-wsj_0604-s24-t19, EnglishP-wsj_1162-s50-t10, EnglishP-wsj_1213-s54-t11, EnglishP-wsj_1566-s37-t30, EnglishP-wsj_1600-s31-t34, EnglishP-wsj_1705-s6-t28, EnglishP-wsj_1766-s21-t24, EnglishP-wsj_1935-s13-t9, EnglishP-wsj_2128-s6-t21, EnglishP-wsj_2265-s76-t18, EnglishP-wsj_2386-s15-t6, EnglishP-wsj_2415-s30-t6)
+      take.01 - CPHR:ARG1 PAT:ARG2 PAT:ARG2 (EnglishP-wsj_1022-s45-t3)
+      take.01 - CPHR:ARG1 PAT:ARG2 PAT:ARG2 PAT:ARG2 (EnglishP-wsj_1984-s23-t36)
+      take.02 - ACT:ARG0 CPHR:ARG1 PAT:ARGM-MNR PAT:ARGM-MNR (EnglishP-wsj_0153-s17-t4)
+      take.02 - ACT:ARG1 CPHR:ARG1 PAT:ARG0 (EnglishP-wsj_0327-s28-t5)
+      take.12 - ACT:ARG0 CPHR:ARG1 PAT:ARG1 (EnglishP-wsj_1291-s14-t9)
+</code></pre>
+
+
+<p>&nbsp;</p>
+</div>
+</body>
+</html>
