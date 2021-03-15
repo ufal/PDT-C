@@ -258,6 +258,12 @@ $(DIAG_DIR)/pcedt4pdtc_withtraces_notag_anodes.%.txt : | $(DIAG_DIR)
 		Util::Eval anode='if (!defined $$anode->tag) { print $$anode->get_address . "\n"; }' \
 	> $@
 
+$(DIAG_DIR)/pcedt4pdtc_original_notag_anodes_info.en.txt : | $(DIAG_DIR)
+	$(TREEX) \
+		Read::PCEDT from='!$(ORIG_DIR)/wsj*.en.t.gz' schema_dir=$(SCHEMA_DIR) \
+		Util::Eval language=en atree='my @anodes = $$atree->get_descendants({ordered => 1}); if (my @notag_anodes = grep {!defined $$_->tag} @anodes) { foreach my $$notag_anode (@notag_anodes) { my $$sentstr = join " ", map {$$_ == $$notag_anode ? "<".$$_->form.">" : $$_->form} @anodes; my $$addr = $$notag_anode->get_address; $$addr =~ s/^.*\///; print join "\t", ($$addr, $$sentstr, $$notag_anode->get_zone()->sentence); print "\n"; } }' \
+	> $@
+
 #---------------------------------------------------------------------------------------------------------------------------------
 #    2. print alignments on a- and  t-layer to compare the original and the new version
 #---------------------------------------------------------------------------------------------------------------------------------
