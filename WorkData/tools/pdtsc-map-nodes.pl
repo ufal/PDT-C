@@ -71,6 +71,8 @@ while (<>) {
     my $same = 1;
     until ($old_i->done || $new_i->done) {
         my ($o, $n) = map $_->next_token, $old_i, $new_i;
+        $o =~ s/(?<=[0-9]) (?=[0-9])//g;
+        say("'$o'\t'$n'"),
         undef $same unless $o eq $n;
     }
     say "$new $old" unless $same;

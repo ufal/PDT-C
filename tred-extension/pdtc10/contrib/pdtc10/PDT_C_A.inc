@@ -56,8 +56,13 @@ sub get_value_line_hook {
   my $clause_mapping = FileUserData('clauses');
   
   foreach my $node (sort { $a->{ord} <=> $b->{ord} } grep { not exists $_->{'_representant'} } $tree->descendants) {
-    my $token = join(" ", map { $_->{token} } ListV($node->attr('m/w')));
+    my @wnodes = ListV($node->attr('m/w'));
+    my $token = join(" ", map { $_->{token} } @wnodes);
     my $form = $node->attr('m/form');
+    my $form_change = $node->attr('m/form_change') // '';
+    if (scalar(@wnodes) == 0 and $form_change ne 'insert') {
+      $token = $form;
+    }
     my $color = $node->{clause_number} ? '-foreground=>'.$colors[$node->{clause_number} % 10] : '';
     my @refs = ($node);
     push @refs, $clause_mapping->{$node->{id}} if exists $clause_mapping->{$node->{id}};

@@ -6,7 +6,7 @@ BEGIN {
 }
 
 sub detect {
-  return (PML::SchemaDescription() =~ m/^PDT-C/ and PML::SchemaName() eq 'mdata') ? 1 : 0;
+  return (PML::SchemaDescription() =~ m/^(PDT-C|PDTSC)/ and PML::SchemaName() eq 'mdata') ? 1 : 0;
 }
 
 sub allow_switch_context_hook {
@@ -32,9 +32,14 @@ sub get_value_line_hook {
   
   my $node = $tree->following;
   while ($node) {
-    my $token = $node->attr('w/token');
-    my $form = $node->attr('form');
+    my $token = $node->attr('w/token') // '';
+    my $form = $node->attr('form') // $node->attr('#content/form');
+    my $form_change = $node->attr('form_change') // $node->attr('#content/form_change') // '';
     
+    if (!$token and $form_change ne 'insert') {
+      $token = $form;
+    }
+
     if ($form ne $token) {
       push @out, (['['.$token.']', $node, '-over=>1', '-foreground=>'.CustomColor('spell')]);
     }

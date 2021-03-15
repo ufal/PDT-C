@@ -35,6 +35,23 @@ sub check_internal_links {
 
   my $id = $this->attr('id');
 
+  foreach my $aux (ListV($this->attr('a/aux.rf'))) {
+    my $target = PML_T::GetANodeByID($aux);
+    if (!$target) {
+      print "Missing aux.rf target from $id to $aux\n";
+      print "Missing aux.rf position: " . ThisAddress() . "\n";
+    }
+  }
+
+  my $lex = $this->attr('a/lex.rf');
+  if ($lex) {
+    my $target = PML_T::GetANodeByID($lex);
+    if (!$target) {
+      print "Missing lex.rf target from $id to $lex\n";
+      print "Missing lex.rf position: " . ThisAddress() . "\n";
+    }
+  }
+
   foreach my $compl (ListV($this->attr('compl.rf'))) {
     my $target = PML_T::GetNodeByID($compl);
     if (!$target) {
@@ -67,7 +84,7 @@ sub check_internal_links {
     }
   }
 
-  foreach my $discourse_struct (grep {$_->{type} eq 'discourse'} ListV($this->attr('bridging'))) {
+  foreach my $discourse_struct (grep {$_->{type} eq 'discourse'} ListV($this->attr('discourse'))) {
     my $discourse = $discourse_struct->{'target_node.rf'};
     my $target = PML_T::GetNodeByID($discourse);
     if (!$target) {

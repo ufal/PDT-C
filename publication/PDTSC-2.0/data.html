@@ -1,0 +1,184 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Prague Dependency Treebank of Spoken Czech 2.0 (PDTSC 2.0) – Data</title>
+<link href="styles/main.css" rel="stylesheet" type="text/css">
+</head>
+
+<body style="background-image: url('pics/background.jpg'); background-repeat: repeat-x">
+<div id="centered">
+<table border="0" cellpadding="2" style="border-style: none; margin-bottom: 15px"><tr>
+<td><a href="http://ufal.mff.cuni.cz" target="_blank"><img height="80" align="left" src="pics/logo_ufal_lindat.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>
+<td><span style="font-size:22px;"><b>Prague Dependency Treebank of Spoken Czech 2.0 (PDTSC 2.0)</b></span></td>
+</tr>
+</table>
+<table border="0" cellpadding="5" style="margin-bottom: 15px"><tr>
+<td><div><a href="index.html"><div style="background-image: url('pics/background_button.jpg'); background-color: #ddedf4; border-top-left-radius: 8px; padding: 5px">Introduction</div></a></div></td>
+<td><div><a href="data.html"><div style="background-image: url('pics/background_button_actual.jpg'); background-color: #ffeb5a; border-top-left-radius: 8px; padding: 5px">Data</div></a></div></td>
+<td><div><a href="documentation.html"><div style="background-image: url('pics/background_button.jpg'); background-color: #ddedf4; border-top-left-radius: 8px; padding: 5px">Documentation</div></a></div></td>
+<td><div><a href="licence.html"><div style="background-image: url('pics/background_button.jpg'); background-color: #ddedf4; border-top-left-radius: 8px; padding: 5px">Licence</div></a></div></td>
+<td><div><a href="credits.html"><div style="background-image: url('pics/background_button.jpg'); background-color: #ddedf4; border-top-left-radius: 8px; padding: 5px">Credits</div></a></div></td>
+<td><div><a href="acknowledgment.html"><div style="background-image: url('pics/background_button.jpg'); background-color: #ddedf4; border-top-left-radius: 8px; padding: 5px">Acknowledgments</div></a></div></td>
+</tr></table>
+
+
+<h1>
+	Data
+</h1>
+
+<p>
+	The Prague Dependency Treebank of Spoken Czech 2.0 (PDTSC 2.0) can be downloaded as a single zip archive from the <a href="http://hdl.handle.net/11234/1-3189" target="_blank">LINDAT-Clarin repository</a> (see the <a href="licence.html">Licence</a>). After unzipping the downloaded archive, the data can be found in directory <code>data</code>.
+</p>
+
+<p>
+	The corpus is published in a PML format closely related to the format of the Prague Dependency Treebank: each document is represented by multiple interlinked files corresponding to annotation layers:
+</p>
+
+<ul>
+	<li>
+		t-layer (tectogrammatics, deep syntax),
+	</li>
+	<li>
+		a-layer (analytics, surface syntax),
+	</li>
+	<li>
+		mdata layer (reconstructed text on the morphological layer),
+	</li>
+	<li>
+		wdata layer (word layer, tokenized text, manual transcript of the audio),
+	</li>
+	<li>
+		zdata layer (automatic speech recognition of the audio), and
+	</li>
+	<li>
+		audio layer (the original audio).
+	</li>
+</ul>
+
+<p>
+	Please note that the numbering of files differs from the previous version of the corpus, the <a href="https://ufal.mff.cuni.cz/pdtsc1.0/" target="_blank">PDTSC 1.0</a>. Also, in some files, links from the wdata layer to the zdata layer were unfortunately lost during the annotation process of the PDTSC 2.0 and could not be restored. It concerns the following wdata files: <code>pdtsc_023</code>, <code>pdtsc_046</code>, <code>pdtsc_067</code>, <code>pdtsc_081</code>, <code>pdtsc_142</code>, <code>pdtsc_144</code> and <code>pdtsc_148</code>; they correspond to the following higher-layers files: <code>hs_002.*</code>, <code>lk_016.*</code>, <code>ak_001.*</code>, <code>dk_110.*</code>, <code>dk_111.*</code>, <code>dk_102.*</code> and <code>dk_103.*</code>, respectively.
+</p>
+
+<p>
+	<u>Update:</u> The PDTSC 2.0 data with a new morphological annotation and also in several other formats were published as a part of the <a href="https://ufal.mff.cuni.cz/pdt-c" target="_blank">Prague Dependency Treebank – Consolidated 1.0 (PDT-C 1.0)</a> in 2020.
+</p>
+
+<h2>
+	PML
+</h2>
+
+<p>
+	The Prague Markup Language format (<a href="https://ufal.mff.cuni.cz/pml" target="_blank">PML</a>, Pajas and Štěpánek 2008) is an XML based format for linguistic annotation (esp. treebanks). With the exception of the audio files, all data formats of the corpus in the PDTSC 2.0 are instances of the PML. For the sake of completeness, PML schemata of the files can be found in directory <code>resources</code>. (The schemata are XML files that describe the structure of the annotated files.) Directory <code>resources</code> also contains Czech valency lexicon PDT-Vallex 4.0 (<code>pdtvallex-4.0.xml</code>), corresponding to the annotation on the tectogrammatical layer.
+</p>
+
+<h3>
+	How to browse the data
+</h3>
+
+<h4>
+	Tree editor TrEd
+</h4>
+
+<p>
+	<a href="http://ufal.mff.cuni.cz/tred/" target="_blank">Tree editor TrEd</a> (Pajas and Štěpánek 2008) can be used to open and browse t-files, a-files and mdata-files in directory <code>data</code>. The editor can be downloaded for various platforms from its <a href="http://ufal.mff.cuni.cz/tred/" target="_blank">home page</a>. Please follow installation instructions specified for your operating system.
+</p>
+
+<h4>
+	After the installation, an extension needs to be installed:
+</h4>
+
+<p>
+	(Note: The PDTSC 2.0 needs the same extension as the <a href="https://ufal.mff.cuni.cz/pdt-c" target="_blank">PDT-C 1.0</a>.)
+</p>
+
+<ol>
+	<li>
+		Start TrEd.
+	</li>
+	<li>
+		In the top menu, select <i>Setup</i> -> <i>Manage Extensions...</i>; a dialog window with a list of installed extensions appears.
+	</li>
+	<li>
+		Click on the button <i>"Get New Extensions"</i>; a dialog window with a list of available (not yet installed) extensions appears. Make sure that at least the extension <i>"Prague Dependency Treebank - Consolidated 1.0 (pdtc10)"</i> is checked to install (if it is not in the list, it may have already been installed).
+	</li>
+	<li>
+		Click on the button <i>"Install Selected"</i>; the selected extensions get installed.
+	</li>
+	<li>
+		Close all TrEd windows including the main application window and start TrEd again.
+	</li>
+</ol>
+
+<p>
+	Now, TrEd is able to open t-layer, a-layer and mdata-layer files in directory <code>data</code>.
+</p>
+
+<p>
+	In case of troubles with the installation of TrEd or the extension, or with browsing the data, please refer to the <a href="https://ufal.mff.cuni.cz/pdtsc2.0/data#trouble" target="_blank">Troubleshooting</a> section or contact the authors at (tred <code>at</code> ufal.mff.cuni.cz).
+</p>
+
+<h4>
+	Editor MEd
+</h4>
+
+<p>
+	<a href="http://ufal.mff.cuni.cz/editor_med/" target="_blank">Editor MEd</a> can be used to open lower-layer files in directory <code>data</code>, namely mdata files interlinked down to the audio layer. To install the editor, please follow installation instructions at its <a href="http://ufal.mff.cuni.cz/editor_med/" target="_blank">home page</a>.
+</p>
+
+<p>
+	Before opening the mdata files, make sure that you have schemata <code>m-pdtsc-schema.xml</code>, <code>w-pdtsc-schema.xml</code>, <code>z-pdtsc-schema.xml</code>, <code>mdata_c_schema.xml</code> and <code>wdata_c_schema.xml</code> from directory <code>resources</code> in the same directory as the mdata files.
+</p>
+
+<h2>
+	How to search the data
+</h2>
+
+<p>
+	<a href="http://ufal.mff.cuni.cz/pmltq/" target="_blank">PML Tree Query</a> (PML-TQ; Pajas and Štěpánek 2009) is a powerful client-server system for querying treebanks. There are two clients available:
+</p>
+
+<ul>
+	<li>
+		<a href="http://ufal.mff.cuni.cz/tred/" target="_blank">Tree editor TrEd</a> can be used as a user-friendly graphically oriented client, using the extension <em>"PML Tree Query Interface for TrEd (pmltq)"</em> (follow the same installation steps as for the <em>pdtc10</em> extension described above).
+	</li>
+	<li>
+		The public PML-TQ server of our institute can be <a href="https://lindat.mff.cuni.cz/services/pmltq/#!/home" target="_blank">accessed also anonymously using a web browser as a client</a>. Unlike the TrEd client, it lacks the possibility to create a query graphically and has limitations in the ways it can display the results. However, it is the quickest way to get to the data.
+	</li>
+</ul>
+
+<p>
+	For further information about the clients, see the <a href="https://ufal.mff.cuni.cz/pmltq/clients" target="_blank">PML-TQ clients documentation</a>. For general info about the PML-TQ, please refer to the <a href="http://ufal.mff.cuni.cz/pmltq/" target="_blank">PML-TQ web page</a>. For documentation about the query language and tutorials, see the <a href="https://ufal.mff.cuni.cz/pmltq/user-documentation" target="_blank">PML-TQ user documentation</a>.
+</p>
+
+<p>
+	The PDTSC 2.0 textual data, as a part of the <a href="https://ufal.mff.cuni.cz/pdt-c" target="_blank">PDT-C 1.0</a>, is available for searching using the PML-TQ from ÚFAL's public PML-TQ server (the treebank id for the TrEd client is in parentheses):
+</p>
+
+<ul>
+	<li>
+		PDT-C 1.0 - PDTSC (<code>pdtc10_pdtsc</code>): the PDTSC part of the PDT-C 1.0 (without the audio-related layers)
+	</li>
+</ul>
+
+<p>
+	In case of troubles with the PML-TQ or with searching in the PDTSC data particularly, please refer to the <a href="https://ufal.mff.cuni.cz/pdtsc2.0/data#trouble" target="_blank">Troubleshooting</a> section or try to contact the developers at (pmltq <code>at</code> ufal.mff.cuni.cz).
+</p>
+
+<h2>
+	References
+</h2>
+
+<p style="margin-left: 1cm; text-indent: -1cm; margin-bottom: 0cm">
+	Pajas, P. and Štěpánek, J.: Recent Advances in a Feature-Rich Framework for Treebank Annotation. In: <i>The 22nd International Conference on Computational Linguistics - Proceedings of the Conference</i>, The Coling 2008 Organizing Committee, Manchester, UK, ISBN 978-1-905593-45-3, pp. 673-680, 2008.
+</p>
+
+<p style="margin-left: 1cm; text-indent: -1cm; margin-bottom: 0cm">
+	Pajas, P. and Štěpánek, J.: System for Querying Syntactically Annotated Corpora. In: <em>Proceedings of the ACL-IJCNLP 2009 Software Demonstrations</em>, Association for Computational Linguistics, Suntec, Singapore, ISBN 1-932432-61-2, pp. 33-36, 2009.
+</p>
+
+
+<p>&nbsp;</p>
+</div>
+</body>
+</html>
