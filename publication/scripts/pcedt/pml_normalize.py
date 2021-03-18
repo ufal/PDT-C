@@ -10,6 +10,8 @@ parser.add_argument("--remove-extra-lm", action='store_true', help="remove LM el
 parser.add_argument("--remove-meta", action='store_true', help="remove 'meta' element under the root")
 parser.add_argument("--remove-eng-sentence", action='store_true', help="remove 'eng_sentence' element")
 parser.add_argument("--remove-root-nodetype", action='store_true', help="remove 'nodetype' element under '/tdata/trees/LM'")
+parser.add_argument("--remove-p", action='store_true', help="remove phrase trees under 'p' elements")
+parser.add_argument("--remove-annot-comment", action='store_true', help="remove 'annot_comment' elements")
 parser.add_argument("--keep-zone", type=str, default=None, help="only the specified zone will be kept; format: LANGCODE")
 parser.add_argument("--keep-tree", type=str, default=None, help="only the specified tree will be kept; format: [apt]")
 args = parser.parse_args()
@@ -45,6 +47,12 @@ if args.remove_extra_lm:
         if len(lms) == 1:
             wr.remove(lms[0])
             wr.text = lms[0].text
+    for wr in root.findall('.//pml:w', ns):
+        lms = wr.findall('pml:LM', ns)
+        if len(lms) == 1:
+            wr.remove(lms[0])
+            for ch in lms[0].getchildren():
+                wr.append(ch)
 
 ############### delete meta #####################
 
@@ -66,6 +74,25 @@ if args.remove_root_nodetype:
         for ch in par.findall('./pml:nodetype', ns):
             par.remove(ch)
 
+############### delete phrase trees #####################
+
+if args.remove_p:
+    for par in root.findall('.//*[pml:p]', ns):
+        for ch in par.findall('./pml:p', ns):
+            par.remove(ch)
+    for par in root.findall('.//*[pml:references]', ns):
+        for ch in par.findall('./pml:references', ns):
+            par.remove(ch)
+    for par in root.findall('.//*[pml:ptree.rf]', ns):
+        for ch in par.findall('./pml:ptree.rf', ns):
+            par.remove(ch)
+
+############### delete phrase trees #####################
+
+if args.remove_annot_comment:
+    for par in root.findall('.//*[pml:annot_comment]', ns):
+        for ch in par.findall('./pml:annot_comment', ns):
+            par.remove(ch)
 
 ############### keep zone #####################
 
