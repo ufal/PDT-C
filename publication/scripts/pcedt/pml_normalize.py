@@ -80,12 +80,15 @@ if args.remove_p:
     for par in root.findall('.//*[pml:p]', ns):
         for ch in par.findall('./pml:p', ns):
             par.remove(ch)
-    for par in root.findall('.//*[pml:references]', ns):
-        for ch in par.findall('./pml:references', ns):
-            par.remove(ch)
     for par in root.findall('.//*[pml:ptree.rf]', ns):
         for ch in par.findall('./pml:ptree.rf', ns):
             par.remove(ch)
+    for par in root.findall('.//*[pml:references]', ns):
+        for ch in par.findall('./pml:references', ns):
+            for gch in ch.findall('./pml:reffile[@name="pdata"]', ns):
+                ch.remove(gch)
+            if not ch.getchildren():
+                par.remove(c)
 
 ############### delete phrase trees #####################
 
