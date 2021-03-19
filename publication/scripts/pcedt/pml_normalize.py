@@ -8,10 +8,12 @@ parser = argparse.ArgumentParser(description="A script to adjust PML file")
 parser.add_argument("--sort-id-elems", action='store_true', help="sort subelements of the element with an 'id' attribute alphabetically")
 parser.add_argument("--remove-extra-lm", action='store_true', help="remove LM element if reduntant")
 parser.add_argument("--remove-meta", action='store_true', help="remove 'meta' element under the root")
-parser.add_argument("--remove-eng-sentence", action='store_true', help="remove 'eng_sentence' element")
+parser.add_argument("--remove-lang-sentence", action='store_true', help="remove '[eng,cze]_sentence' element")
 parser.add_argument("--remove-root-nodetype", action='store_true', help="remove 'nodetype' element under '/tdata/trees/LM'")
 parser.add_argument("--remove-p", action='store_true', help="remove phrase trees under 'p' elements")
 parser.add_argument("--remove-annot-comment", action='store_true', help="remove 'annot_comment' elements")
+parser.add_argument("--remove-empty-a", action='store_true', help="remove empty 'a' elements")
+parser.add_argument("--remove-coref-src", action='store_true', help="remove 'src' element within the 'coref_text' tag")
 parser.add_argument("--keep-zone", type=str, default=None, help="only the specified zone will be kept; format: LANGCODE")
 parser.add_argument("--keep-tree", type=str, default=None, help="only the specified tree will be kept; format: [apt]")
 args = parser.parse_args()
@@ -60,11 +62,14 @@ if args.remove_meta:
     for meta in root.findall('./pml:meta', ns):
         root.remove(meta)
 
-############### delete eng_sentence #####################
+############### delete [eng,cze]_sentence #####################
 
-if args.remove_eng_sentence:
+if args.remove_lang_sentence:
     for par in root.findall('.//*[pml:eng_sentence]', ns):
         for ch in par.findall('./pml:eng_sentence', ns):
+            par.remove(ch)
+    for par in root.findall('.//*[pml:cze_sentence]', ns):
+        for ch in par.findall('./pml:cze_sentence', ns):
             par.remove(ch)
 
 ############### delete nodetype in roots #####################
@@ -95,6 +100,21 @@ if args.remove_p:
 if args.remove_annot_comment:
     for par in root.findall('.//*[pml:annot_comment]', ns):
         for ch in par.findall('./pml:annot_comment', ns):
+            par.remove(ch)
+
+############### delete empty a elements #################
+
+if args.remove_empty_a:
+    for par in root.findall('.//*[pml:a]', ns):
+        for ch in par.findall('./pml:a', ns):
+            if not ch.getchildren():
+                par.remove(ch)
+
+########## delete src elements within coref_text #########
+
+if args.remove_coref_src:
+    for par in root.findall('.//pml:coref_text//*[pml:src]', ns):
+        for ch in par.findall('./pml:src', ns):
             par.remove(ch)
 
 ############### keep zone #####################
