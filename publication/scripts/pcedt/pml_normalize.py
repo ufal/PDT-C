@@ -18,20 +18,26 @@ parser.add_argument("--remove-annot-comment", action='store_true', help="remove 
 parser.add_argument("--remove-empty-a", action='store_true', help="remove empty 'a' elements")
 parser.add_argument("--remove-coref-src", action='store_true', help="remove 'src' element within the 'coref_text' element")
 parser.add_argument("--add-coref-type", action='store_true', help="add 'informal-type' element to the 'coref_text' element, if missing")
+parser.add_argument("--remove-pcedt-elem", action='store_true', help="remove 'pcedt' elements")
 parser.add_argument("--keep-zone", type=str, default=None, help="only the specified zone will be kept; format: LANGCODE")
 parser.add_argument("--keep-tree", type=str, default=None, help="only the specified tree will be kept; format: [apt]")
 args = parser.parse_args()
 
 if args.style is not None:
+    if args.style == 'pedt_a':
+        if args.src == 'orig':
+            args.remove_extra_lm = True
+            args.remove_p = True
+            args.remove_annot_comment = True
     if args.style == 'pedt_t':
         if args.src == 'orig':
             args.remove_extra_lm = True
             args.remove_lang_sentence = True
-            args.remove_p = True
             args.remove_annot_comment = True
             args.remove_empty_a = True
             args.remove_coref_src = True
             args.add_coref_type = True
+            args.remove_pcedt_elem = True
         else:
             args.remove_root_nodetype = True
 
@@ -116,7 +122,7 @@ if args.remove_p:
             for gch in ch.findall('./pml:reffile[@name="pdata"]', ns):
                 ch.remove(gch)
             if not ch.getchildren():
-                par.remove(c)
+                par.remove(ch)
 
 ############### delete phrase trees #####################
 
@@ -149,6 +155,13 @@ if args.add_coref_type:
             typeelem = ET.Element("informal-type")
             typeelem.text = "SPEC"
             par.append(typeelem)
+
+########## remove 'pcedt' elements #########
+
+if args.remove_pcedt_elem:
+    for par in root.findall('.//*[pml:pcedt]', ns):
+        for ch in par.findall('./pml:pcedt', ns):
+            par.remove(ch)
 
 ############### keep zone #####################
 
