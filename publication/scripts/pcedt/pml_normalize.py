@@ -5,7 +5,9 @@ import re
 import argparse
 
 parser = argparse.ArgumentParser(description="A script to adjust PML file")
-parser.add_argument("--sort-id-elems", action='store_true', help="sort subelements of the element with an 'id' attribute alphabetically")
+parser.add_argument("--style", choices=['pdt_a', 'pdt_t', 'pedt_a', 'pedt_t'], default=None, help="the style of the input PML document; multiple normalization steps are applied")
+parser.add_argument("--src", choices=['orig', 'treex'], default='orig', help="the source of the input PML document; multiple normalization steps are applied")
+parser.add_argument("--no-sort-id-elems", action='store_true', help="do not sort subelements of the element with an 'id' attribute alphabetically")
 parser.add_argument("--remove-extra-lm", action='store_true', help="remove LM element if reduntant")
 parser.add_argument("--remove-meta", action='store_true', help="remove 'meta' element under the root")
 parser.add_argument("--remove-lang-sentence", action='store_true', help="remove '[eng,cze]_sentence' element")
@@ -18,6 +20,18 @@ parser.add_argument("--keep-zone", type=str, default=None, help="only the specif
 parser.add_argument("--keep-tree", type=str, default=None, help="only the specified tree will be kept; format: [apt]")
 args = parser.parse_args()
 
+if args.style is not None:
+    if args.style == 'pedt_t':
+        if args.src == 'orig':
+            args.remove_extra_lm = True
+            args.remove_lang_sentence = True
+            args.remove_p = True
+            args.remove_annot_comment = True
+            args.remove_empty_a = True
+            args.remove_coref_src = True
+        else:
+            args.remove_root_nodetype = True
+
 xmlstring = sys.stdin.read()
 m = re.search(r'\sxmlns="([^"]+)"', xmlstring)
 ns = { "pml" : m.group(1) }
@@ -25,7 +39,7 @@ ns = { "pml" : m.group(1) }
 root = ET.fromstring(xmlstring)
 
 ######## sort subelements of elements with ID #########
-if args.sort_id_elems:
+if not args.no_sort_id_elems:
     for id_elem in root.findall('.//*[@id]', ns):
         subelems = id_elem.getchildren()
         #print("BEFORE: " + str(lm.getchildren()))
