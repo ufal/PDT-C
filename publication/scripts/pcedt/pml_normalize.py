@@ -7,6 +7,7 @@ import argparse
 parser = argparse.ArgumentParser(description="A script to adjust PML file")
 parser.add_argument("--style", choices=['pdt_a', 'pdt_t', 'pedt_a', 'pedt_t'], default=None, help="the style of the input PML document; multiple normalization steps are applied")
 parser.add_argument("--src", choices=['orig', 'treex'], default='orig', help="the source of the input PML document; multiple normalization steps are applied")
+parser.add_argument("--no-clear-reffile", action='store_true', help="do not clear file references in 'reffile' elements")
 parser.add_argument("--no-sort-id-elems", action='store_true', help="do not sort subelements of the element with an 'id' attribute alphabetically")
 parser.add_argument("--remove-extra-lm", action='store_true', help="remove LM element if reduntant")
 parser.add_argument("--remove-meta", action='store_true', help="remove 'meta' element under the root")
@@ -15,7 +16,8 @@ parser.add_argument("--remove-root-nodetype", action='store_true', help="remove 
 parser.add_argument("--remove-p", action='store_true', help="remove phrase trees under 'p' elements")
 parser.add_argument("--remove-annot-comment", action='store_true', help="remove 'annot_comment' elements")
 parser.add_argument("--remove-empty-a", action='store_true', help="remove empty 'a' elements")
-parser.add_argument("--remove-coref-src", action='store_true', help="remove 'src' element within the 'coref_text' tag")
+parser.add_argument("--remove-coref-src", action='store_true', help="remove 'src' element within the 'coref_text' element")
+parser.add_argument("--add-coref-type", action='store_true', help="add 'informal-type' element to the 'coref_text' element, if missing")
 parser.add_argument("--keep-zone", type=str, default=None, help="only the specified zone will be kept; format: LANGCODE")
 parser.add_argument("--keep-tree", type=str, default=None, help="only the specified tree will be kept; format: [apt]")
 args = parser.parse_args()
@@ -29,6 +31,7 @@ if args.style is not None:
             args.remove_annot_comment = True
             args.remove_empty_a = True
             args.remove_coref_src = True
+            args.add_coref_type = True
         else:
             args.remove_root_nodetype = True
 
@@ -37,6 +40,12 @@ m = re.search(r'\sxmlns="([^"]+)"', xmlstring)
 ns = { "pml" : m.group(1) }
 #xmlstring = re.sub(r'\sxmlns="[^"]+"', '', xmlstring, count=1)
 root = ET.fromstring(xmlstring)
+
+######## clear file references in 'reffile' elements #########
+if not args.no_clear_reffile:
+    for reffile in root.findall('.//pml:reffile', ns):
+        reffile.attrib["href"] = ""
+
 
 ######## sort subelements of elements with ID #########
 if not args.no_sort_id_elems:
@@ -130,6 +139,16 @@ if args.remove_coref_src:
     for par in root.findall('.//pml:coref_text//*[pml:src]', ns):
         for ch in par.findall('./pml:src', ns):
             par.remove(ch)
+
+########## add informal-type elements with the SPEC value to the coref_text element, if missing #########
+
+if args.add_coref_type:
+    for par in root.findall('.//pml:coref_text//*[pml:target-node.rf]', ns):
+        type_elems = par.findall('./pml:informal-type', ns)
+        if not type_elems:
+            typeelem = ET.Element("informal-type")
+            typeelem.text = "SPEC"
+            par.append(typeelem)
 
 ############### keep zone #####################
 
