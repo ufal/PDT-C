@@ -14,24 +14,27 @@ endif
 
 TMP_DIR=tmp
 
+PDTC_DIR=PDT-C-1.0
+PEDT_DIR=../../PEDT
+
 ##################################################################################################################################
 ############################## RETRIEVE THE SCHEMA FILES FOR PDT-LIKE PARTS OF THE NEW PCEDT #####################################
 ##################################################################################################################################
 
-ORIG_SCHEMA_DIR=PDT-C/resources
+ORIG_SCHEMA_DIR=$(PDTC_DIR)/resources
 SCHEMA_DIR=$(TMP_DIR)/schema
 
 $(SCHEMA_DIR) :
 	mkdir $@
-	cp PDT-C/resources/tdata_c_schema.xml $@ 
-	cp PDT-C/resources/adata_c_schema.xml $@
-	cp PDT-C/resources/mdata_c_schema.xml $@
-	cp PDT-C/resources/wdata_c_schema.xml $@
-	cp ${TMT_ROOT}/treex/lib/Treex/Block/Read/PDT_schema/pdata_eng_schema.xml $@
-	cat /net/work/projects/pcedt-coref/lrec_2016/orig_data/schema/tdata_eng_schema.xml | \
+	cp $(PDTC_DIR)/resources/tdata_c_schema.xml $@
+	cp $(PDTC_DIR)/resources/adata_c_schema.xml $@
+	cp $(PDTC_DIR)/resources/mdata_c_schema.xml $@
+	cp $(PDTC_DIR)/resources/wdata_c_schema.xml $@
+	cp $(PEDT_DIR)/schema/pdata_eng_schema.xml $@
+	cat $(PEDT_DIR)/schema/tdata_eng_schema.xml | \
 		sed 's/target-node\.rf/target_node.rf/g' | \
 		sed 's/informal-type/type/g' > $@/tdata_eng_schema.xml
-	cp /net/work/projects/pcedt-coref/lrec_2016/orig_data/schema/adata_eng_schema.xml $@
+	cp $(PEDT_DIR)/schema/adata_eng_schema.xml $@
 
 ##################################################################################################################################
 ############################ COPY ALL FILES TO THE SAME DIR, CHANGE REFERENCES AND SOME MARKUP ###################################
@@ -39,7 +42,7 @@ $(SCHEMA_DIR) :
 ORIG_DIR=$(TMP_DIR)/00.original
 
 $(ORIG_DIR)/done :
-	scripts/pcedt/structure_pcedt_parts.sh ../../PEDT/data PDT-C/data/PCEDT/pml $(dir $@)
+	scripts/pcedt/structure_pcedt_parts.sh ../../PEDT/data $(PDTC_DIR)/data/PCEDT/pml $(dir $@)
 	touch $@
 
 ##################################################################################################################################
