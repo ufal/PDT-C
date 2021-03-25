@@ -9,7 +9,7 @@ parser.add_argument("--style", choices=['pdt_a', 'pdt_t', 'pedt_a', 'pedt_t'], d
 parser.add_argument("--src", choices=['orig', 'treex'], default='orig', help="the source of the input PML document; multiple normalization steps are applied")
 parser.add_argument("--no-clear-reffile", action='store_true', help="do not clear file references in 'reffile' elements")
 parser.add_argument("--no-sort-id-elems", action='store_true', help="do not sort subelements of the element with an 'id' attribute alphabetically")
-parser.add_argument("--remove-extra-lm", action='store_true', help="remove LM element if reduntant")
+parser.add_argument("--no-remove-extra-lm", action='store_true', help="do not remove LM element if reduntant")
 parser.add_argument("--remove-meta", action='store_true', help="remove 'meta' element under the root")
 parser.add_argument("--remove-lang-sentence", action='store_true', help="remove '[eng,cze]_sentence' element")
 parser.add_argument("--remove-root-nodetype", action='store_true', help="remove 'nodetype' element under '/tdata/trees/LM'")
@@ -26,12 +26,10 @@ args = parser.parse_args()
 if args.style is not None:
     if args.style == 'pedt_a':
         if args.src == 'orig':
-            args.remove_extra_lm = True
             args.remove_p = True
             args.remove_annot_comment = True
     if args.style == 'pedt_t':
         if args.src == 'orig':
-            args.remove_extra_lm = True
             args.remove_lang_sentence = True
             args.remove_annot_comment = True
             args.remove_empty_a = True
@@ -67,23 +65,17 @@ if not args.no_sort_id_elems:
 
 ########## delete redundant aux.rf/LM ###########
 
-if args.remove_extra_lm:
-    for ar in root.findall('.//pml:aux.rf', ns):
-        lms = ar.findall('pml:LM', ns)
+if not args.no_remove_extra_lm:
+    for par in root.findall('.//*[pml:LM]', ns):
+        lms = par.findall('pml:LM', ns)
         if len(lms) == 1:
-            ar.remove(lms[0])
-            ar.text = lms[0].text
-    for wr in root.findall('.//pml:w.rf', ns):
-        lms = wr.findall('pml:LM', ns)
-        if len(lms) == 1:
-            wr.remove(lms[0])
-            wr.text = lms[0].text
-    for wr in root.findall('.//pml:w', ns):
-        lms = wr.findall('pml:LM', ns)
-        if len(lms) == 1:
-            wr.remove(lms[0])
+            par.remove(lms[0])
             for ch in lms[0].getchildren():
-                wr.append(ch)
+                par.append(ch)
+            for k,v in lms[0].attrib.items():
+                par.attrib[k] = v
+            if lms[0].text is not None:
+                par.text = lms[0].text
 
 ############### delete meta #####################
 
@@ -153,6 +145,12 @@ if args.add_coref_type:
         type_elems = par.findall('./pml:informal-type', ns)
         if not type_elems:
             typeelem = ET.Element("informal-type")
+            typeelem.text = "SPEC"
+            par.append(typeelem)
+    for par in root.findall('.//pml:coref_text//*[pml:target_node.rf]', ns):
+        type_elems = par.findall('./pml:type', ns)
+        if not type_elems:
+            typeelem = ET.Element("type")
             typeelem.text = "SPEC"
             par.append(typeelem)
 
