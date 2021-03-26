@@ -16,9 +16,8 @@ parser.add_argument("--remove-root-nodetype", action='store_true', help="remove 
 parser.add_argument("--remove-p", action='store_true', help="remove phrase trees under 'p' elements")
 parser.add_argument("--remove-annot-comment", action='store_true', help="remove 'annot_comment' elements")
 parser.add_argument("--remove-empty-a", action='store_true', help="remove empty 'a' elements")
-parser.add_argument("--remove-coref-src", action='store_true', help="remove 'src' element within the 'coref_text' element")
-parser.add_argument("--add-coref-type", action='store_true', help="add 'informal-type' element to the 'coref_text' element, if missing")
 parser.add_argument("--remove-pcedt-elem", action='store_true', help="remove 'pcedt' elements")
+parser.add_argument("--tidy-coref", action='store_true', help="tidy the result of coreferencen annotation process")
 parser.add_argument("--keep-zone", type=str, default=None, help="only the specified zone will be kept; format: LANGCODE")
 parser.add_argument("--keep-tree", type=str, default=None, help="only the specified tree will be kept; format: [apt]")
 args = parser.parse_args()
@@ -33,9 +32,8 @@ if args.style is not None:
             args.remove_lang_sentence = True
             args.remove_annot_comment = True
             args.remove_empty_a = True
-            args.remove_coref_src = True
-            args.add_coref_type = True
             args.remove_pcedt_elem = True
+            args.tidy_coref = True
         else:
             args.remove_root_nodetype = True
 
@@ -116,7 +114,7 @@ if args.remove_p:
             if not ch.getchildren():
                 par.remove(ch)
 
-############### delete phrase trees #####################
+############### delete annot comments #####################
 
 if args.remove_annot_comment:
     for par in root.findall('.//*[pml:annot_comment]', ns):
@@ -131,28 +129,32 @@ if args.remove_empty_a:
             if not ch.getchildren():
                 par.remove(ch)
 
-########## delete src elements within coref_text #########
 
-if args.remove_coref_src:
-    for par in root.findall('.//pml:coref_text//pml:src/..', ns):
-        for ch in par.findall('./pml:src', ns):
-            par.remove(ch)
+############ tidy the artefacts of coreference annotation process #############
 
-########## add informal-type elements with the SPEC value to the coref_text element, if missing #########
-
-if args.add_coref_type:
-    for par in root.findall('.//pml:coref_text//pml:target-node.rf/..', ns):
-        type_elems = par.findall('./pml:informal-type', ns)
-        if not type_elems:
-            typeelem = ET.Element("informal-type")
-            typeelem.text = "SPEC"
-            par.append(typeelem)
-    for par in root.findall('.//pml:coref_text//pml:target_node.rf/..', ns):
-        type_elems = par.findall('./pml:type', ns)
-        if not type_elems:
-            typeelem = ET.Element("type")
-            typeelem.text = "SPEC"
-            par.append(typeelem)
+if args.tidy_coref:
+    for coref_elem in root.findall('.//pml:coref_text', ns):
+        # delete comments
+        for par in coref_elem.findall('.//pml:comment/..', ns):
+            for ch in par.findall('./pml:comment', ns):
+                par.remove(ch)
+        # delete src elements within coref_text
+        for par in coref_elem.findall('.//pml:src/..', ns):
+            for ch in par.findall('./pml:src', ns):
+                par.remove(ch)
+        # add informal-type elements with the SPEC value to the coref_text element, if missing
+        for par in coref_elem.findall('.//pml:target-node.rf/..', ns):
+            type_elems = par.findall('./pml:informal-type', ns)
+            if not type_elems:
+                typeelem = ET.Element("informal-type")
+                typeelem.text = "SPEC"
+                par.append(typeelem)
+        for par in coref_elem.findall('.//pml:target_node.rf/..', ns):
+            type_elems = par.findall('./pml:type', ns)
+            if not type_elems:
+                typeelem = ET.Element("type")
+                typeelem.text = "SPEC"
+                par.append(typeelem)
 
 ########## remove 'pcedt' elements #########
 
