@@ -134,20 +134,20 @@ if args.remove_empty_a:
 ########## delete src elements within coref_text #########
 
 if args.remove_coref_src:
-    for par in root.findall('.//pml:coref_text//*[pml:src]', ns):
+    for par in root.findall('.//pml:coref_text//pml:src/..', ns):
         for ch in par.findall('./pml:src', ns):
             par.remove(ch)
 
 ########## add informal-type elements with the SPEC value to the coref_text element, if missing #########
 
 if args.add_coref_type:
-    for par in root.findall('.//pml:coref_text//*[pml:target-node.rf]', ns):
+    for par in root.findall('.//pml:coref_text//pml:target-node.rf/..', ns):
         type_elems = par.findall('./pml:informal-type', ns)
         if not type_elems:
             typeelem = ET.Element("informal-type")
             typeelem.text = "SPEC"
             par.append(typeelem)
-    for par in root.findall('.//pml:coref_text//*[pml:target_node.rf]', ns):
+    for par in root.findall('.//pml:coref_text//pml:target_node.rf/..', ns):
         type_elems = par.findall('./pml:type', ns)
         if not type_elems:
             typeelem = ET.Element("type")
