@@ -42,7 +42,7 @@ $(SCHEMA_DIR) :
 ORIG_DIR=$(TMP_DIR)/00.original
 
 $(ORIG_DIR)/done :
-	scripts/pcedt/structure_pcedt_parts.sh ../../PEDT/data $(PDTC_DIR)/data/PCEDT/pml $(dir $@)
+	scripts/pcedt/structure_pcedt_parts.sh $(PEDT_DIR)/data $(PDTC_DIR)/data/PCEDT/pml $(dir $@)
 	touch $@
 
 ##################################################################################################################################
@@ -332,3 +332,40 @@ $(DIAG_DIR)/pcedt.taligns.$(CHANGES_TO_INSPECT_COUNT)_random_changes.ttrees : $(
 #		Write::AttributeSentences to=- language=$* layer=t attributes='id,t_lemma' separator='\n' attr_sep='\t' sent_sep='\n\n' \
 #	> $@
 
+#---------------------------------------------------------------------------------------------------------------------------------
+#    3. compare inputs and outputs of the  PCEDT->Treex->P(E)DT roundtrip
+#---------------------------------------------------------------------------------------------------------------------------------
+
+ROUNDTRIP_DIR=$(DIAG_DIR)/roundtrip
+
+$(ROUNDTRIP_DIR) :
+	mkdir -p $@
+
+$(ROUNDTRIP_DIR)/pedt/done : $(UNALIGNED_DIR)/done | $(ROUNDTRIP_DIR)
+	$(TREEX) -Len \
+		Read::Treex from='!$(UNALIGNED_DIR)/wsj*.treex.gz' \
+		Write::PEDT vallex_filename='engvallex.xml' vallex_prefix=v stem_suffix=".en" path="$(dir $@)" \
+	&& touch $@
+
+$(ROUNDTRIP_DIR)/pdt/done : $(UNALIGNED_DIR)/done | $(ROUNDTRIP_DIR)
+	$(TREEX) -Lcs \
+		Read::Treex from='!$(UNALIGNED_DIR)/wsj*.treex.gz' \
+		Write::PDT version='C' vallex_filename='pdtvallex-4.0.xml' stem_suffix=".cs" path="$(dir $@)" \
+	&& touch $@
+		
+
+$(ROUNDTRIP_DIR)/%.diff : $(ORIG_DIR)/done
+	corpus=`echo $* | cut -f1 -d_`; \
+	layer=`echo $* | cut -f2 -d_`; \
+	if [ "$$corpus" == "pdt" ]; then \
+		lang=cs; \
+	else \
+		lang=en; \
+	fi; \
+	for orig_f in $(dir $<)/*.$$lang.$$layer.gz; do \
+		rt_f=$(ROUNDTRIP_DIR)/$$corpus/$${orig_f#$(dir $(word 1,$^))/}; \
+		echo "Diffing $$orig_f <-> $$rt_f" | tee /dev/stderr; \
+		diff \
+			<(zcat $$orig_f | python scripts/pcedt/pml_normalize.py --style $* --src orig | xmllint --c14n - | xmllint --format -) \
+			<(zcat $$rt_f | sed 's/target-node\.rf/target_node.rf/g' | sed 's/informal-type/type/g' | python scripts/pcedt/pml_normalize.py --style $* --src treex | xmllint --c14n - | xmllint --format -); \
+	done > $@

@@ -15,8 +15,10 @@ parser.add_argument("--remove-lang-sentence", action='store_true', help="remove 
 parser.add_argument("--remove-root-nodetype", action='store_true', help="remove 'nodetype' element under '/tdata/trees/LM'")
 parser.add_argument("--remove-p", action='store_true', help="remove phrase trees under 'p' elements")
 parser.add_argument("--remove-annot-comment", action='store_true', help="remove 'annot_comment' elements")
-parser.add_argument("--remove-empty-a", action='store_true', help="remove empty 'a' elements")
+parser.add_argument("--remove-empty", action='store_true', help="remove empty elements")
 parser.add_argument("--remove-pcedt-elem", action='store_true', help="remove 'pcedt' elements")
+parser.add_argument("--remove-functor-change", action='store_true', help="remove the 'functor_change' elements")
+parser.add_argument("--remove-anot-error", action='store_true', help="remove 'anot_error' elements")
 parser.add_argument("--tidy-coref", action='store_true', help="tidy the result of coreferencen annotation process")
 parser.add_argument("--keep-zone", type=str, default=None, help="only the specified zone will be kept; format: LANGCODE")
 parser.add_argument("--keep-tree", type=str, default=None, help="only the specified tree will be kept; format: [apt]")
@@ -31,9 +33,19 @@ if args.style is not None:
         if args.src == 'orig':
             args.remove_lang_sentence = True
             args.remove_annot_comment = True
-            args.remove_empty_a = True
+            args.remove_empty = True
             args.remove_pcedt_elem = True
             args.tidy_coref = True
+            args.remove_functor_change = True
+            args.remove_anot_error = True
+        else:
+            args.remove_root_nodetype = True
+    if args.style == 'pdt_a':
+        if args.src == 'orig':
+            args.remove_meta = True
+    if args.style == 'pdt_t':
+        if args.src == 'orig':
+            args.remove_lang_sentence = True
         else:
             args.remove_root_nodetype = True
 
@@ -61,7 +73,7 @@ if not args.no_sort_id_elems:
             id_elem.append(subelem)
         #print("AFTER: " + str(lm.getchildren()))
 
-########## delete redundant aux.rf/LM ###########
+########## delete redundant isolated LMs ###########
 
 if not args.no_remove_extra_lm:
     for par in root.findall('.//*[pml:LM]', ns):
@@ -94,7 +106,9 @@ if args.remove_lang_sentence:
 ############### delete nodetype in roots #####################
 
 if args.remove_root_nodetype:
-    for par in root.findall('.//pml:trees/pml:LM', ns):
+    pars = root.findall('.//pml:trees', ns)
+    pars.extend(root.findall('.//pml:trees/pml:LM', ns))
+    for par in pars:
         for ch in par.findall('./pml:nodetype', ns):
             par.remove(ch)
 
@@ -121,22 +135,28 @@ if args.remove_annot_comment:
         for ch in par.findall('./pml:annot_comment', ns):
             par.remove(ch)
 
-############### delete empty a elements #################
+############### delete empty struct elements (a, gram) #################
 
-if args.remove_empty_a:
-    for par in root.findall('.//*[pml:a]', ns):
-        for ch in par.findall('./pml:a', ns):
-            if not ch.getchildren():
-                par.remove(ch)
+if args.remove_empty:
+    for name in ['a', 'gram']:
+        for par in root.findall(f'.//*[pml:{name}]', ns):
+            for ch in par.findall(f'./pml:{name}', ns):
+                if not ch.getchildren():
+                    par.remove(ch)
 
 
 ############ tidy the artefacts of coreference annotation process #############
 
 if args.tidy_coref:
-    for coref_elem in root.findall('.//pml:coref_text', ns):
+    coref_elems = root.findall('.//pml:coref_text', ns)
+    coref_elems.extend(root.findall('.//pml:bridging', ns))
+    for coref_elem in coref_elems:
         # delete comments
         for par in coref_elem.findall('.//pml:comment/..', ns):
             for ch in par.findall('./pml:comment', ns):
+                par.remove(ch)
+        for par in coref_elem.findall('.//pml:str_comment/..', ns):
+            for ch in par.findall('./pml:str_comment', ns):
                 par.remove(ch)
         # delete src elements within coref_text
         for par in coref_elem.findall('.//pml:src/..', ns):
@@ -155,12 +175,30 @@ if args.tidy_coref:
                 typeelem = ET.Element("type")
                 typeelem.text = "SPEC"
                 par.append(typeelem)
+    # delete 'anaph_str_comment' attrs in t-nodes
+    for par in root.findall('.//*[pml:anaph_str_comment]', ns):
+        for ch in par.findall('./pml:anaph_str_comment', ns):
+            par.remove(ch)
 
 ########## remove 'pcedt' elements #########
 
 if args.remove_pcedt_elem:
     for par in root.findall('.//*[pml:pcedt]', ns):
         for ch in par.findall('./pml:pcedt', ns):
+            par.remove(ch)
+
+########## remove 'functor_change' elements #########
+
+if args.remove_functor_change:
+    for par in root.findall('.//*[pml:functor_change]', ns):
+        for ch in par.findall('./pml:functor_change', ns):
+            par.remove(ch)
+
+########## remove 'anot_error' elements #########
+
+if args.remove_anot_error:
+    for par in root.findall('.//*[pml:anot_error]', ns):
+        for ch in par.findall('./pml:anot_error', ns):
             par.remove(ch)
 
 ############### keep zone #####################
