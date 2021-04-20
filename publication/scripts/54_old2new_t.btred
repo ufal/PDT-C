@@ -1,0 +1,135 @@
+#!btred -TN --context PML_En_T -e old2new_t()
+#-*- cperl -*-
+# Author: Jiri Mirovsky
+
+#ifndef NTRED
+#include <tred.mac>
+#endif
+
+=item old2new_t
+
+Transforms the old annotation schema to the new one:
+- informal-type -> type
+- target-node.rf -> target_node.rf
+
+Deletes attributes that should not be in the final PCEDT-3.0-en distribution:
+- pcedt
+- functor_change
+- anot_error
+- anaph_str_comment
+- annot_comment
+- is_added
+- is_exception
+- is_deleted
+- is_unchecked
+- comment, src and str_comment at coref_text and bridging
+
+Deletes attributes with value 0 that should not be defined instead:
+- is_generated
+- is_member
+- is_parenthesis
+
+=cut
+
+package PML_En_T;
+
+use strict;
+use warnings;
+
+#encoding utf8
+use utf8;
+binmode STDIN, ':utf8';
+binmode STDOUT, ':utf8';
+binmode STDERR, ':utf8';
+
+
+sub old2new_t {
+
+  my $id = $this->attr('id');
+
+  if ($this->attr('annot_comment')) {
+    print STDERR "Deleting annot_comment at $id\n";
+    $this->set_attr('annot_comment', undef);
+    ChangingFile(1);
+  }
+
+  if ($this->attr('pcedt')) {
+    print STDERR "Deleting pcedt at $id\n";
+    $this->set_attr('pcedt', undef);
+    ChangingFile(1);
+  }
+
+  if ($this->attr('functor_change')) {
+    print STDERR "Deleting functor_change at $id\n";
+    $this->set_attr('functor_change', undef);
+    ChangingFile(1);
+  }
+
+  if ($this->attr('anot_error')) {
+    print STDERR "Deleting anot_error at $id\n";
+    $this->set_attr('anot_error', undef);
+    ChangingFile(1);
+  }
+
+  if ($this->attr('anaph_str_comment')) {
+    print STDERR "Deleting anaph_str_comment at $id\n";
+    $this->set_attr('anaph_str_comment', undef);
+    ChangingFile(1);
+  }
+
+  foreach my $att (qw(is_deleted is_unchecked is_added is_exception)) {
+    if ($this->attr($att)) {
+      print STDERR "Deleting $att at $id\n";
+      $this->set_attr($att, undef);
+      ChangingFile(1);
+    }
+  }
+
+  foreach my $anaph (qw(bridging coref_text)) {
+    foreach my $an (ListV($this->attr($anaph))) {
+      my $tgt = $an->{'target-node.rf'};
+      if ($tgt) {
+        print STDERR "Changing target-node.rf to target_node.rf at $id\n";
+        $an->{'target_node.rf'} = $tgt;
+        $an->{'target-node.rf'} = undef;
+        ChangingFile(1);
+      }
+      my $type = $an->{'informal-type'};
+      if ($type) {
+        print STDERR "Changing informal-type to type at $id\n";
+        $an->{'informal-type'} = undef;
+        $an->{'type'} = $type;
+        ChangingFile(1);
+      }
+      foreach my $attr (qw(src comment str_comment)) {
+        my $at = $an->{$attr};
+        if ($at) {
+          print STDERR "Deleting $attr at $id\n";
+          $an->{$attr} = undef;
+          ChangingFile(1);
+        }
+      }
+    }
+  }
+
+  foreach my $tgt (ListV($this->attr('coref_text.rf'))) {
+    print STDERR "Changing coref_text.rf to coref_text at $id\n";
+    AddToList($this,'coref_text', {'target_node.rf' => $tgt, 'type' => 'SPEC'});
+    $this->set_attr('coref_text.rf', undef);
+    ChangingFile(1);
+  }
+
+  foreach my $att (qw(is_generated is_member is_parenthesis)) {
+    if (defined($this->attr($att)) and $this->attr($att) eq 0) {
+      print STDERR "Deleting $att=0 at $id\n";
+      $this->set_attr($att, undef);
+      ChangingFile(1);
+    }
+  }
+  
+
+
+} # old2new_t
+
+
+
