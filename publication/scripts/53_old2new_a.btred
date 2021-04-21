@@ -1,0 +1,74 @@
+#!btred -TN --context PML_En_A -e old2new_a()
+#-*- cperl -*-
+# Author: Jiri Mirovsky
+
+#ifndef NTRED
+#include <tred.mac>
+#endif
+
+=item old2new_a
+
+Deletes attributes that should not be in the final PCEDT-3.0-en distribution:
+- annot_comment
+- bbn_tag
+- coref_text.rf
+
+Deletes attributes with value 0 that should not be defined instead:
+- m/w/no_space_after
+
+=cut
+
+package PML_En_A;
+
+use strict;
+use warnings;
+
+#encoding utf8
+use utf8;
+binmode STDIN, ':utf8';
+binmode STDOUT, ':utf8';
+binmode STDERR, ':utf8';
+
+
+sub old2new_a {
+
+  my $id = $this->attr('id');
+
+  if ($this->attr('annot_comment')) {
+    print STDERR "Deleting annot_comment at $id\n";
+    $this->set_attr('annot_comment', undef);
+    ChangingFile(1);
+  }
+
+  if ($this->attr('bbn_tag')) {
+    print STDERR "Deleting bbn_tag at $id\n";
+    $this->set_attr('bbn_tag', undef);
+    ChangingFile(1);
+  }
+
+  if ($this->attr('coref_text.rf')) {
+    print STDERR "Deleting coref_text.rf at $id\n";
+    $this->set_attr('coref_text.rf', undef);
+    ChangingFile(1);
+  }
+
+  if ($this->attr('m/alt_tag')) {
+    print STDERR "Deleting m/alt_tag at $id\n";
+    $this->set_attr('m/alt_tag', undef);
+    ChangingFile(1);
+  }
+
+  foreach my $att (qw(m/w/no_space_after)) {
+    if (defined($this->attr($att)) and $this->attr($att) eq 0) {
+      print STDERR "Deleting $att=0 at $id\n";
+      $this->set_attr($att, undef);
+      ChangingFile(1);
+    }
+  }
+  
+
+
+} # old2new_a
+
+
+
