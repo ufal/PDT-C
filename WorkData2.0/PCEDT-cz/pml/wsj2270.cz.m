@@ -1,0 +1,2142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
+<head>
+<schema href="mdata_c_schema.xml" />
+<references>
+<reffile id="w" name="wdata" href="wsj2270.cz.w" />
+</references>
+</head>
+<meta>
+<lang>cs</lang>
+</meta>
+<s id="m-wsj2270-001-p1s1">
+<m id="m-wsj2270-001-p1s1W1-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s1W1</LM>
+</w.rf>
+<form>Společnost</form>
+<lemma>společnost_^(*3ý)</lemma>
+<tag>NNFS1-----A----</tag>
+</m>
+<m id="m-wsj2270-001-p1s1W2-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s1W2</LM>
+</w.rf>
+<form>Maxus</form>
+<lemma>Maxus-77</lemma>
+<tag>F%-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s1W3-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s1W3</LM>
+</w.rf>
+<form>Energy</form>
+<lemma>Energy-77</lemma>
+<tag>F%-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s1W4-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s1W4</LM>
+</w.rf>
+<form>Corp</form>
+<lemma>Corp-77</lemma>
+<tag>F%-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s1W5-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s1W5</LM>
+</w.rf>
+<form>.</form>
+<lemma>.</lemma>
+<tag>Z:-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s1W6-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s1W6</LM>
+</w.rf>
+<form>z</form>
+<lemma>z-1</lemma>
+<tag>RR--2----------</tag>
+</m>
+<m id="m-wsj2270-001-p1s1W7-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s1W7</LM>
+</w.rf>
+<form>Dallasu</form>
+<lemma>Dallas_;G</lemma>
+<tag>NNIS2-----A----</tag>
+</m>
+<m id="m-wsj2270-001-p1s1W8-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s1W8</LM>
+</w.rf>
+<form>uvedla</form>
+<lemma>uvést</lemma>
+<tag>VpQW----R-AAP--</tag>
+</m>
+<m id="m-wsj2270-001-p1s1W9-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s1W9</LM>
+</w.rf>
+<form>,</form>
+<lemma>,</lemma>
+<tag>Z:-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s1W10-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s1W10</LM>
+</w.rf>
+<form>že</form>
+<lemma>že-1</lemma>
+<tag>J,-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s1W11-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s1W11</LM>
+</w.rf>
+<form>objevila</form>
+<lemma>objevit</lemma>
+<tag>VpQW----R-AAP--</tag>
+</m>
+<m id="m-wsj2270-001-p1s1W12-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s1W12</LM>
+</w.rf>
+<form>nové</form>
+<lemma>nový</lemma>
+<tag>AANS4----1A----</tag>
+</m>
+<m id="m-wsj2270-001-p1s1W13-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s1W13</LM>
+</w.rf>
+<form>naftové</form>
+<lemma>naftový</lemma>
+<tag>AANS4----1A----</tag>
+</m>
+<m id="m-wsj2270-001-p1s1W14-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s1W14</LM>
+</w.rf>
+<form>pole</form>
+<lemma>pole</lemma>
+<tag>NNNS4-----A----</tag>
+</m>
+<m id="m-wsj2270-001-p1s1W15-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s1W15</LM>
+</w.rf>
+<form>v</form>
+<lemma>v-1</lemma>
+<tag>RR--6----------</tag>
+</m>
+<m id="m-wsj2270-001-p1s1W16-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s1W16</LM>
+</w.rf>
+<form>jihovýchodní</form>
+<lemma>jihovýchodní</lemma>
+<tag>AAFS6----1A----</tag>
+</m>
+<m id="m-wsj2270-001-p1s1W17-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s1W17</LM>
+</w.rf>
+<form>části</form>
+<lemma>část</lemma>
+<tag>NNFS6-----A----</tag>
+</m>
+<m id="m-wsj2270-001-p1s1W18-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s1W18</LM>
+</w.rf>
+<form>indonéské</form>
+<lemma>indonéský</lemma>
+<tag>AAFS2----1A----</tag>
+</m>
+<m id="m-wsj2270-001-p1s1W19-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s1W19</LM>
+</w.rf>
+<form>Sumatry</form>
+<lemma>Sumatra_;G</lemma>
+<tag>NNFS2-----A----</tag>
+</m>
+<m id="m-wsj2270-001-p1s1W20-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s1W20</LM>
+</w.rf>
+<form>,</form>
+<lemma>,</lemma>
+<tag>Z:-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s1W21-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s1W21</LM>
+</w.rf>
+<form>které</form>
+<lemma>který</lemma>
+<tag>P4NS1----------</tag>
+</m>
+<m id="m-wsj2270-001-p1s1W22-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s1W22</LM>
+</w.rf>
+<form>se</form>
+<lemma>se_^(zvr._zájmeno/částice)</lemma>
+<tag>P7--4----------</tag>
+</m>
+<m id="m-wsj2270-001-p1s1W23-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s1W23</LM>
+</w.rf>
+<form>nachází</form>
+<lemma>nacházet</lemma>
+<tag>VB-S---3P-AAI--</tag>
+</m>
+<m id="m-wsj2270-001-p1s1W24-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s1W24</LM>
+</w.rf>
+<form>severovýchodně</form>
+<lemma>severovýchodně_^(*1í)</lemma>
+<tag>Dg-------1A----</tag>
+</m>
+<m id="m-wsj2270-001-p1s1W25-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s1W25</LM>
+</w.rf>
+<form>od</form>
+<lemma>od-1</lemma>
+<tag>RR--2----------</tag>
+</m>
+<m id="m-wsj2270-001-p1s1W26-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s1W26</LM>
+</w.rf>
+<form>Intan</form>
+<lemma>Intan-77</lemma>
+<tag>F%-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s1W27-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s1W27</LM>
+</w.rf>
+<form>Field</form>
+<lemma>Field-77</lemma>
+<tag>F%-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s1W28-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s1W28</LM>
+</w.rf>
+<form>,</form>
+<lemma>,</lemma>
+<tag>Z:-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s1W29-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s1W29</LM>
+</w.rf>
+<form>jenž</form>
+<lemma>jenž_^(který_[ve_vedl.větě])</lemma>
+<tag>P4YS1----------</tag>
+</m>
+<m id="m-wsj2270-001-p1s1W30-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s1W30</LM>
+</w.rf>
+<form>bylo</form>
+<lemma>být</lemma>
+<tag>VpNS----R-AAI--</tag>
+</m>
+<m id="m-wsj2270-001-p1s1W31-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s1W31</LM>
+</w.rf>
+<form>nalezeno</form>
+<lemma>naleznout</lemma>
+<tag>VsNS----X-APP-1</tag>
+</m>
+<m id="m-wsj2270-001-p1s1W32-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s1W32</LM>
+</w.rf>
+<form>předtím</form>
+<lemma>předtím</lemma>
+<tag>Db-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s1W33-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s1W33</LM>
+</w.rf>
+<form>.</form>
+<lemma>.</lemma>
+<tag>Z:-------------</tag>
+</m>
+</s>
+<s id="m-wsj2270-001-p1s2">
+<m id="m-wsj2270-001-p1s2W1-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s2W1</LM>
+</w.rf>
+<form>Společnost</form>
+<lemma>společnost_^(*3ý)</lemma>
+<tag>NNFS1-----A----</tag>
+</m>
+<m id="m-wsj2270-001-p1s2W2-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s2W2</LM>
+</w.rf>
+<form>Maxus</form>
+<lemma>Maxus_;m</lemma>
+<tag>NNIS1-----A----</tag>
+</m>
+<m id="m-wsj2270-001-p1s2W3-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s2W3</LM>
+</w.rf>
+<form>uvedla</form>
+<lemma>uvést</lemma>
+<tag>VpQW----R-AAP--</tag>
+</m>
+<m id="m-wsj2270-001-p1s2W4-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s2W4</LM>
+</w.rf>
+<form>,</form>
+<lemma>,</lemma>
+<tag>Z:-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s2W5-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s2W5</LM>
+</w.rf>
+<form>že</form>
+<lemma>že-1</lemma>
+<tag>J,-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s2W6-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s2W6</LM>
+</w.rf>
+<form>neprovedla</form>
+<lemma>provést</lemma>
+<tag>VpQW----R-NAP--</tag>
+</m>
+<m id="m-wsj2270-001-p1s2W7-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s2W7</LM>
+</w.rf>
+<form>test</form>
+<lemma>test</lemma>
+<tag>NNIS4-----A----</tag>
+</m>
+<m id="m-wsj2270-001-p1s2W8-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s2W8</LM>
+</w.rf>
+<form>produkce</form>
+<lemma>produkce</lemma>
+<tag>NNFS2-----A----</tag>
+</m>
+<m id="m-wsj2270-001-p1s2W9-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s2W9</LM>
+</w.rf>
+<form>třech</form>
+<lemma>tři`3</lemma>
+<tag>Cl-P2---------1</tag>
+</m>
+<m id="m-wsj2270-001-p1s2W10-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s2W10</LM>
+</w.rf>
+<form>objevených</form>
+<lemma>objevený_^(*3it)</lemma>
+<tag>AAIP2----1A----</tag>
+</m>
+<m id="m-wsj2270-001-p1s2W11-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s2W11</LM>
+</w.rf>
+<form>vrtů</form>
+<lemma>vrt</lemma>
+<tag>NNIP2-----A----</tag>
+</m>
+<m id="m-wsj2270-001-p1s2W12-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s2W12</LM>
+</w.rf>
+<form>,</form>
+<lemma>,</lemma>
+<tag>Z:-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s2W13-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s2W13</LM>
+</w.rf>
+<form>které</form>
+<lemma>který</lemma>
+<tag>P4YP4----------</tag>
+</m>
+<m id="m-wsj2270-001-p1s2W14-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s2W14</LM>
+</w.rf>
+<form>na</form>
+<lemma>na-1</lemma>
+<tag>RR--6----------</tag>
+</m>
+<m id="m-wsj2270-001-p1s2W15-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s2W15</LM>
+</w.rf>
+<form>tomto</form>
+<lemma>tento</lemma>
+<tag>PDZS6----------</tag>
+</m>
+<m id="m-wsj2270-001-p1s2W16-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s2W16</LM>
+</w.rf>
+<form>poli</form>
+<lemma>pole</lemma>
+<tag>NNNS6-----A----</tag>
+</m>
+<m id="m-wsj2270-001-p1s2W17-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s2W17</LM>
+</w.rf>
+<form>vyvrtala</form>
+<lemma>vyvrtat</lemma>
+<tag>VpQW----R-AAP--</tag>
+</m>
+<m id="m-wsj2270-001-p1s2W18-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s2W18</LM>
+</w.rf>
+<form>a</form>
+<lemma>a-1</lemma>
+<tag>J^-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s2W19-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s2W19</LM>
+</w.rf>
+<form>jenž</form>
+<lemma>jenž_^(který_[ve_vedl.větě])</lemma>
+<tag>P4YS1----------</tag>
+</m>
+<m id="m-wsj2270-001-p1s2W20-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s2W20</LM>
+</w.rf>
+<form>jsou</form>
+<lemma>být</lemma>
+<tag>VB-P---3P-AAI--</tag>
+</m>
+<m id="m-wsj2270-001-p1s2W21-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s2W21</LM>
+</w.rf>
+<form>vzdálené</form>
+<lemma>vzdálený_^(*3it)</lemma>
+<tag>AAIP1----1A----</tag>
+</m>
+<m id="m-wsj2270-001-p1s2W22-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s2W22</LM>
+</w.rf>
+<form_change>num_normalization</form_change>
+<form>1.6</form>
+<lemma>1.6</lemma>
+<tag>C=-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s2W23-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s2W23</LM>
+</w.rf>
+<form>míle</form>
+<lemma>míle</lemma>
+<tag>NNFS2-----A----</tag>
+</m>
+<m id="m-wsj2270-001-p1s2W24-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s2W24</LM>
+</w.rf>
+<form>od</form>
+<lemma>od-1</lemma>
+<tag>RR--2----------</tag>
+</m>
+<m id="m-wsj2270-001-p1s2W25-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s2W25</LM>
+</w.rf>
+<form>Intan</form>
+<lemma>Intan-77</lemma>
+<tag>F%-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s2W26-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s2W26</LM>
+</w.rf>
+<form>Field</form>
+<lemma>Field-77</lemma>
+<tag>F%-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s2W27-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s2W27</LM>
+</w.rf>
+<form>,</form>
+<lemma>,</lemma>
+<tag>Z:-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s2W28-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s2W28</LM>
+</w.rf>
+<form>protože</form>
+<lemma>protože</lemma>
+<tag>J,-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s2W29-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s2W29</LM>
+</w.rf>
+<form>vrty</form>
+<lemma>vrt</lemma>
+<tag>NNIP1-----A----</tag>
+</m>
+<m id="m-wsj2270-001-p1s2W30-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s2W30</LM>
+</w.rf>
+<form>jsou</form>
+<lemma>být</lemma>
+<tag>VB-P---3P-AAI--</tag>
+</m>
+<m id="m-wsj2270-001-p1s2W31-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s2W31</LM>
+</w.rf>
+<form>podobné</form>
+<lemma>podobný</lemma>
+<tag>AAIP1----1A----</tag>
+</m>
+<m id="m-wsj2270-001-p1s2W32-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s2W32</LM>
+</w.rf>
+<form>ostatním</form>
+<lemma>ostatní</lemma>
+<tag>AAIP3----1A----</tag>
+</m>
+<m id="m-wsj2270-001-p1s2W33-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s2W33</LM>
+</w.rf>
+<form>vyvrtaným</form>
+<lemma>vyvrtaný_^(*2t)</lemma>
+<tag>AAIP3----1A----</tag>
+</m>
+<m id="m-wsj2270-001-p1s2W34-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s2W34</LM>
+</w.rf>
+<form>vrtům</form>
+<lemma>vrt</lemma>
+<tag>NNIP3-----A----</tag>
+</m>
+<m id="m-wsj2270-001-p1s2W35-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s2W35</LM>
+</w.rf>
+<form>na</form>
+<lemma>na-1</lemma>
+<tag>RR--6----------</tag>
+</m>
+<m id="m-wsj2270-001-p1s2W36-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s2W36</LM>
+</w.rf>
+<form>jejích</form>
+<lemma>jeho</lemma>
+<tag>P9XP6FS3-------</tag>
+</m>
+<m id="m-wsj2270-001-p1s2W37-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s2W37</LM>
+</w.rf>
+<form>polích</form>
+<lemma>pole</lemma>
+<tag>NNNP6-----A----</tag>
+</m>
+<m id="m-wsj2270-001-p1s2W38-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s2W38</LM>
+</w.rf>
+<form>Intan</form>
+<lemma>Intan_;G</lemma>
+<tag>NNIS1-----A----</tag>
+</m>
+<m id="m-wsj2270-001-p1s2W39-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s2W39</LM>
+</w.rf>
+<form>a</form>
+<lemma>a-1</lemma>
+<tag>J^-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s2W40-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s2W40</LM>
+</w.rf>
+<form>Widuri</form>
+<lemma>Widuri_;G</lemma>
+<tag>NNNXX-----A----</tag>
+</m>
+<m id="m-wsj2270-001-p1s2W41-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s2W41</LM>
+</w.rf>
+<form>.</form>
+<lemma>.</lemma>
+<tag>Z:-------------</tag>
+</m>
+</s>
+<s id="m-wsj2270-001-p1s3">
+<m id="m-wsj2270-001-p1s3W1-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s3W1</LM>
+</w.rf>
+<form>Společnost</form>
+<lemma>společnost_^(*3ý)</lemma>
+<tag>NNFS1-----A----</tag>
+</m>
+<m id="m-wsj2270-001-p1s3W2-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s3W2</LM>
+</w.rf>
+<form>Maxus</form>
+<lemma>Maxus_;m</lemma>
+<tag>NNIS1-----A----</tag>
+</m>
+<m id="m-wsj2270-001-p1s3W3-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s3W3</LM>
+</w.rf>
+<form>nicméně</form>
+<lemma>nicméně</lemma>
+<tag>J^-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s3W4-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s3W4</LM>
+</w.rf>
+<form>věří</form>
+<lemma>věřit</lemma>
+<tag>VB-S---3P-AAI--</tag>
+</m>
+<m id="m-wsj2270-001-p1s3W5-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s3W5</LM>
+</w.rf>
+<form>,</form>
+<lemma>,</lemma>
+<tag>Z:-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s3W6-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s3W6</LM>
+</w.rf>
+<form>že</form>
+<lemma>že-1</lemma>
+<tag>J,-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s3W7-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s3W7</LM>
+</w.rf>
+<form>rezervy</form>
+<lemma>rezerva</lemma>
+<tag>NNFP1-----A----</tag>
+</m>
+<m id="m-wsj2270-001-p1s3W8-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s3W8</LM>
+</w.rf>
+<form>na</form>
+<lemma>na-1</lemma>
+<tag>RR--6----------</tag>
+</m>
+<m id="m-wsj2270-001-p1s3W9-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s3W9</LM>
+</w.rf>
+<form>tomto</form>
+<lemma>tento</lemma>
+<tag>PDZS6----------</tag>
+</m>
+<m id="m-wsj2270-001-p1s3W10-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s3W10</LM>
+</w.rf>
+<form>poli</form>
+<lemma>pole</lemma>
+<tag>NNNS6-----A----</tag>
+</m>
+<m id="m-wsj2270-001-p1s3W11-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s3W11</LM>
+</w.rf>
+<form>jsou</form>
+<lemma>být</lemma>
+<tag>VB-P---3P-AAI--</tag>
+</m>
+<m id="m-wsj2270-001-p1s3W12-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s3W12</LM>
+</w.rf>
+<form>okolo</form>
+<lemma>okolo-1</lemma>
+<tag>RR--2----------</tag>
+</m>
+<m id="m-wsj2270-001-p1s3W13-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s3W13</LM>
+</w.rf>
+<form>10</form>
+<lemma>10</lemma>
+<tag>C=-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s3W14-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s3W14</LM>
+</w.rf>
+<form>milionu</form>
+<lemma>milion`1000000_,s_^(^DD**milión)</lemma>
+<tag>CzIS2----------</tag>
+</m>
+<m id="m-wsj2270-001-p1s3W15-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s3W15</LM>
+</w.rf>
+<form>barelů</form>
+<lemma>barel</lemma>
+<tag>NNIP2-----A----</tag>
+</m>
+<m id="m-wsj2270-001-p1s3W16-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s3W16</LM>
+</w.rf>
+<form>ropy</form>
+<lemma>ropa</lemma>
+<tag>NNFS2-----A----</tag>
+</m>
+<m id="m-wsj2270-001-p1s3W17-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s3W17</LM>
+</w.rf>
+<form>.</form>
+<lemma>.</lemma>
+<tag>Z:-------------</tag>
+</m>
+</s>
+<s id="m-wsj2270-001-p1s4">
+<m id="m-wsj2270-001-p1s4W1-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s4W1</LM>
+</w.rf>
+<form>Intan</form>
+<lemma>Intan-77</lemma>
+<tag>F%-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s4W2-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s4W2</LM>
+</w.rf>
+<form>Field</form>
+<lemma>Field-77</lemma>
+<tag>F%-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s4W3-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s4W3</LM>
+</w.rf>
+<form>má</form>
+<lemma>mít</lemma>
+<tag>VB-S---3P-AAI--</tag>
+</m>
+<m id="m-wsj2270-001-p1s4W4-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s4W4</LM>
+</w.rf>
+<form>rezervy</form>
+<lemma>rezerva</lemma>
+<tag>NNFP4-----A----</tag>
+</m>
+<m id="m-wsj2270-001-p1s4W5-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s4W5</LM>
+</w.rf>
+<form>odhadované</form>
+<lemma>odhadovaný_^(*2t)</lemma>
+<tag>AAFP4----1A----</tag>
+</m>
+<m id="m-wsj2270-001-p1s4W6-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s4W6</LM>
+</w.rf>
+<form>na</form>
+<lemma>na-1</lemma>
+<tag>RR--4----------</tag>
+</m>
+<m id="m-wsj2270-001-p1s4W7-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s4W7</LM>
+</w.rf>
+<form>50</form>
+<lemma>50</lemma>
+<tag>C=-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s4W8-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s4W8</LM>
+</w.rf>
+<form>milionu</form>
+<lemma>milion`1000000_,s_^(^DD**milión)</lemma>
+<tag>CzIS2----------</tag>
+</m>
+<m id="m-wsj2270-001-p1s4W9-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s4W9</LM>
+</w.rf>
+<form>barelů</form>
+<lemma>barel</lemma>
+<tag>NNIP2-----A----</tag>
+</m>
+<m id="m-wsj2270-001-p1s4W10-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s4W10</LM>
+</w.rf>
+<form>a</form>
+<lemma>a-1</lemma>
+<tag>J^-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s4W11-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s4W11</LM>
+</w.rf>
+<form>Widuri</form>
+<lemma>Widuri-77</lemma>
+<tag>F%-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s4W12-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s4W12</LM>
+</w.rf>
+<form>Field</form>
+<lemma>Field-77</lemma>
+<tag>F%-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s4W13-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s4W13</LM>
+</w.rf>
+<form>má</form>
+<lemma>mít</lemma>
+<tag>VB-S---3P-AAI--</tag>
+</m>
+<m id="m-wsj2270-001-p1s4W14-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s4W14</LM>
+</w.rf>
+<form>rezervy</form>
+<lemma>rezerva</lemma>
+<tag>NNFP4-----A----</tag>
+</m>
+<m id="m-wsj2270-001-p1s4W15-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s4W15</LM>
+</w.rf>
+<form>odhadované</form>
+<lemma>odhadovaný_^(*2t)</lemma>
+<tag>AAFP4----1A----</tag>
+</m>
+<m id="m-wsj2270-001-p1s4W16-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s4W16</LM>
+</w.rf>
+<form>na</form>
+<lemma>na-1</lemma>
+<tag>RR--4----------</tag>
+</m>
+<m id="m-wsj2270-001-p1s4W17-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s4W17</LM>
+</w.rf>
+<form>225</form>
+<lemma>225</lemma>
+<tag>C=-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s4W18-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s4W18</LM>
+</w.rf>
+<form>milionu</form>
+<lemma>milion`1000000_,s_^(^DD**milión)</lemma>
+<tag>CzIS2----------</tag>
+</m>
+<m id="m-wsj2270-001-p1s4W19-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s4W19</LM>
+</w.rf>
+<form>barelů</form>
+<lemma>barel</lemma>
+<tag>NNIP2-----A----</tag>
+</m>
+<m id="m-wsj2270-001-p1s4W20-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s4W20</LM>
+</w.rf>
+<form>.</form>
+<lemma>.</lemma>
+<tag>Z:-------------</tag>
+</m>
+</s>
+<s id="m-wsj2270-001-p1s5">
+<m id="m-wsj2270-001-p1s5W1-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s5W1</LM>
+</w.rf>
+<form>Společnost</form>
+<lemma>společnost_^(*3ý)</lemma>
+<tag>NNFS1-----A----</tag>
+</m>
+<m id="m-wsj2270-001-p1s5W2-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s5W2</LM>
+</w.rf>
+<form>Maxus</form>
+<lemma>Maxus_;m</lemma>
+<tag>NNIS1-----A----</tag>
+</m>
+<m id="m-wsj2270-001-p1s5W3-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s5W3</LM>
+</w.rf>
+<form>,</form>
+<lemma>,</lemma>
+<tag>Z:-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s5W4-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s5W4</LM>
+</w.rf>
+<form>nezávislý</form>
+<lemma>závislý</lemma>
+<tag>AAIS1----1N----</tag>
+</m>
+<m id="m-wsj2270-001-p1s5W5-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s5W5</LM>
+</w.rf>
+<form>naftařský</form>
+<lemma>naftařský</lemma>
+<tag>AAIS1----1A----</tag>
+</m>
+<m id="m-wsj2270-001-p1s5W6-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s5W6</LM>
+</w.rf>
+<form>a</form>
+<lemma>a-1</lemma>
+<tag>J^-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s5W7-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s5W7</LM>
+</w.rf>
+<form>plynárenský</form>
+<lemma>plynárenský</lemma>
+<tag>AAIS1----1A----</tag>
+</m>
+<m id="m-wsj2270-001-p1s5W8-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s5W8</LM>
+</w.rf>
+<form>koncern</form>
+<lemma>koncern</lemma>
+<tag>NNIS1-----A----</tag>
+</m>
+<m id="m-wsj2270-001-p1s5W9-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s5W9</LM>
+</w.rf>
+<form>,</form>
+<lemma>,</lemma>
+<tag>Z:-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s5W10-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s5W10</LM>
+</w.rf>
+<form>je</form>
+<lemma>být</lemma>
+<tag>VB-S---3P-AAI--</tag>
+</m>
+<m id="m-wsj2270-001-p1s5W11-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s5W11</LM>
+</w.rf>
+<form>provozovatelem</form>
+<lemma>provozovatel</lemma>
+<tag>NNMS7-----A----</tag>
+</m>
+<m id="m-wsj2270-001-p1s5W12-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s5W12</LM>
+</w.rf>
+<form>a</form>
+<lemma>a-1</lemma>
+<tag>J^-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s5W13-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s5W13</LM>
+</w.rf>
+<form>vlastní</form>
+<lemma>vlastnit_^(někdo_má_něco_ve_vlastnictví)</lemma>
+<tag>VB-S---3P-AAI--</tag>
+</m>
+<m id="m-wsj2270-001-p1s5W14-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s5W14</LM>
+</w.rf>
+<form>56</form>
+<lemma>56</lemma>
+<tag>C=-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s5W15-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s5W15</LM>
+</w.rf>
+<form>%</form>
+<lemma>%</lemma>
+<tag>Z:-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s5W16-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s5W16</LM>
+</w.rf>
+<form>podíl</form>
+<lemma>podíl</lemma>
+<tag>NNIS4-----A----</tag>
+</m>
+<m id="m-wsj2270-001-p1s5W17-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s5W17</LM>
+</w.rf>
+<form>na</form>
+<lemma>na-1</lemma>
+<tag>RR--6----------</tag>
+</m>
+<m id="m-wsj2270-001-p1s5W18-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s5W18</LM>
+</w.rf>
+<form>tomto</form>
+<lemma>tento</lemma>
+<tag>PDZS6----------</tag>
+</m>
+<m id="m-wsj2270-001-p1s5W19-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s5W19</LM>
+</w.rf>
+<form>poli</form>
+<lemma>pole</lemma>
+<tag>NNNS6-----A----</tag>
+</m>
+<m id="m-wsj2270-001-p1s5W20-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s5W20</LM>
+</w.rf>
+<form>,</form>
+<lemma>,</lemma>
+<tag>Z:-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s5W21-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s5W21</LM>
+</w.rf>
+<form>nazvaném</form>
+<lemma>nazvaný_^(*2t)</lemma>
+<tag>AANS6----1A----</tag>
+</m>
+<m id="m-wsj2270-001-p1s5W22-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s5W22</LM>
+</w.rf>
+<form>Northeast</form>
+<lemma>Northeast-77</lemma>
+<tag>F%-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s5W23-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s5W23</LM>
+</w.rf>
+<form>Intan</form>
+<lemma>Intan-77</lemma>
+<tag>F%-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s5W24-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s5W24</LM>
+</w.rf>
+<form>.</form>
+<lemma>.</lemma>
+<tag>Z:-------------</tag>
+</m>
+</s>
+<s id="m-wsj2270-001-p1s6">
+<m id="m-wsj2270-001-p1s6W1-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W1</LM>
+</w.rf>
+<form>Ostatní</form>
+<lemma>ostatní</lemma>
+<tag>AAIP1----1A----</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W2-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W2</LM>
+</w.rf>
+<form>podíly</form>
+<lemma>podíl</lemma>
+<tag>NNIP1-----A----</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W3-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W3</LM>
+</w.rf>
+<form>jsou</form>
+<lemma>být</lemma>
+<tag>VB-P---3P-AAI--</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W4-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W4</LM>
+</w.rf>
+<form>vlastněny</form>
+<lemma>vlastnit_^(někdo_má_něco_ve_vlastnictví)</lemma>
+<tag>VsTP----X-API--</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W5-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W5</LM>
+</w.rf>
+<form>společnostmi</form>
+<lemma>společnost_^(*3ý)</lemma>
+<tag>NNFP7-----A----</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W6-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W6</LM>
+</w.rf>
+<form>BP</form>
+<lemma>BP-88</lemma>
+<tag>BNXXX-----A----</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W7-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W7</LM>
+</w.rf>
+<form>Petroleum</form>
+<lemma>Petroleum-77</lemma>
+<tag>F%-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W8-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W8</LM>
+</w.rf>
+<form>Development</form>
+<lemma>Development-77</lemma>
+<tag>F%-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W9-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W9</LM>
+</w.rf>
+<form>(</form>
+<lemma>(</lemma>
+<tag>Z:-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W10-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W10</LM>
+</w.rf>
+<form>SES</form>
+<lemma>SES-88</lemma>
+<tag>BNXXX-----A----</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W11-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W11</LM>
+</w.rf>
+<form>)</form>
+<lemma>)</lemma>
+<tag>Z:-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W12-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W12</LM>
+</w.rf>
+<form>Ltd</form>
+<lemma>Ltd-77</lemma>
+<tag>F%-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W13-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W13</LM>
+</w.rf>
+<form>.</form>
+<lemma>.</lemma>
+<tag>Z:-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W14-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W14</LM>
+</w.rf>
+<form>,</form>
+<lemma>,</lemma>
+<tag>Z:-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W15-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W15</LM>
+</w.rf>
+<form>C</form>
+<lemma>C-33</lemma>
+<tag>Q3-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W16-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W16</LM>
+</w.rf>
+<form>.</form>
+<lemma>.</lemma>
+<tag>Z:-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W17-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W17</LM>
+</w.rf>
+<form>Itoh</form>
+<lemma>Itoh-77</lemma>
+<tag>F%-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W18-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W18</LM>
+</w.rf>
+<form>Energy</form>
+<lemma>Energy-77</lemma>
+<tag>F%-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W19-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W19</LM>
+</w.rf>
+<form>Co</form>
+<lemma>Co-77</lemma>
+<tag>F%-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W20-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W20</LM>
+</w.rf>
+<form>.</form>
+<lemma>.</lemma>
+<tag>Z:-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W21-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W21</LM>
+</w.rf>
+<form>Ltd</form>
+<lemma>Ltd-77</lemma>
+<tag>F%-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W22-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W22</LM>
+</w.rf>
+<form>.</form>
+<lemma>.</lemma>
+<tag>Z:-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W23-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W23</LM>
+</w.rf>
+<form>,</form>
+<lemma>,</lemma>
+<tag>Z:-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W24-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W24</LM>
+</w.rf>
+<form>Deminex</form>
+<lemma>Deminex-77</lemma>
+<tag>F%-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W25-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W25</LM>
+</w.rf>
+<form>Sumatra</form>
+<lemma>Sumatra-77</lemma>
+<tag>F%-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W26-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W26</LM>
+</w.rf>
+<form>OEL</form>
+<lemma>OEL-88</lemma>
+<tag>BNXXX-----A----</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W27-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W27</LM>
+</w.rf>
+<form>G</form>
+<lemma>G-33</lemma>
+<tag>Q3-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W28-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W28</LM>
+</w.rf>
+<form>.</form>
+<lemma>.</lemma>
+<tag>Z:-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W29-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W29</LM>
+</w.rf>
+<form>m</form>
+<lemma>m-33</lemma>
+<tag>Q3-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W30-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W30</LM>
+</w.rf>
+<form>.</form>
+<lemma>.</lemma>
+<tag>Z:-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W31-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W31</LM>
+</w.rf>
+<form>b</form>
+<lemma>b-33</lemma>
+<tag>Q3-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W32-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W32</LM>
+</w.rf>
+<form>.</form>
+<lemma>.</lemma>
+<tag>Z:-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W33-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W33</LM>
+</w.rf>
+<form>H</form>
+<lemma>H-33</lemma>
+<tag>Q3-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W34-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W34</LM>
+</w.rf>
+<form>.</form>
+<lemma>.</lemma>
+<tag>Z:-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W35-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W35</LM>
+</w.rf>
+<form>,</form>
+<lemma>,</lemma>
+<tag>Z:-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W36-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W36</LM>
+</w.rf>
+<form>Hispanoil</form>
+<lemma>Hispanoil-77</lemma>
+<tag>F%-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W37-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W37</LM>
+</w.rf>
+<form>(</form>
+<lemma>(</lemma>
+<tag>Z:-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W38-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W38</LM>
+</w.rf>
+<form>Sumatra</form>
+<lemma>Sumatra_;G</lemma>
+<tag>NNFS1-----A----</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W39-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W39</LM>
+</w.rf>
+<form>)</form>
+<lemma>)</lemma>
+<tag>Z:-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W40-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W40</LM>
+</w.rf>
+<form>Production</form>
+<lemma>Production-77</lemma>
+<tag>F%-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W41-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W41</LM>
+</w.rf>
+<form>Ltd</form>
+<lemma>Ltd-77</lemma>
+<tag>F%-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W42-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W42</LM>
+</w.rf>
+<form>.</form>
+<lemma>.</lemma>
+<tag>Z:-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W43-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W43</LM>
+</w.rf>
+<form>,</form>
+<lemma>,</lemma>
+<tag>Z:-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W44-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W44</LM>
+</w.rf>
+<form>Hudbay</form>
+<lemma>Hudbay-77</lemma>
+<tag>F%-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W45-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W45</LM>
+</w.rf>
+<form>Oil</form>
+<lemma>Oil-77</lemma>
+<tag>F%-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W46-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W46</LM>
+</w.rf>
+<form>(</form>
+<lemma>(</lemma>
+<tag>Z:-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W47-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W47</LM>
+</w.rf>
+<form>Indonesia</form>
+<lemma>Indonesia-77</lemma>
+<tag>F%-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W48-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W48</LM>
+</w.rf>
+<form>)</form>
+<lemma>)</lemma>
+<tag>Z:-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W49-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W49</LM>
+</w.rf>
+<form>Ltd</form>
+<lemma>Ltd-77</lemma>
+<tag>F%-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W50-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W50</LM>
+</w.rf>
+<form>.</form>
+<lemma>.</lemma>
+<tag>Z:-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W51-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W51</LM>
+</w.rf>
+<form>,</form>
+<lemma>,</lemma>
+<tag>Z:-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W52-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W52</LM>
+</w.rf>
+<form>Inpex</form>
+<lemma>Inpex-77</lemma>
+<tag>F%-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W53-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W53</LM>
+</w.rf>
+<form>Sumatra</form>
+<lemma>Sumatra-77</lemma>
+<tag>F%-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W54-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W54</LM>
+</w.rf>
+<form>Co</form>
+<lemma>Co-77</lemma>
+<tag>F%-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W55-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W55</LM>
+</w.rf>
+<form>.</form>
+<lemma>.</lemma>
+<tag>Z:-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W56-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W56</LM>
+</w.rf>
+<form>Ltd</form>
+<lemma>Ltd-77</lemma>
+<tag>F%-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W57-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W57</LM>
+</w.rf>
+<form>.</form>
+<lemma>.</lemma>
+<tag>Z:-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W58-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W58</LM>
+</w.rf>
+<form>,</form>
+<lemma>,</lemma>
+<tag>Z:-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W59-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W59</LM>
+</w.rf>
+<form>Lasmo</form>
+<lemma>Lasmo-77</lemma>
+<tag>F%-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W60-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W60</LM>
+</w.rf>
+<form>Sumatra</form>
+<lemma>Sumatra-77</lemma>
+<tag>F%-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W61-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W61</LM>
+</w.rf>
+<form>Ltd</form>
+<lemma>Ltd-77</lemma>
+<tag>F%-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W62-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W62</LM>
+</w.rf>
+<form>.</form>
+<lemma>.</lemma>
+<tag>Z:-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W63-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W63</LM>
+</w.rf>
+<form>,</form>
+<lemma>,</lemma>
+<tag>Z:-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W64-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W64</LM>
+</w.rf>
+<form>Sunda</form>
+<lemma>Sunda-77</lemma>
+<tag>F%-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W65-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W65</LM>
+</w.rf>
+<form>Shell</form>
+<lemma>Shell-77</lemma>
+<tag>F%-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W66-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W66</LM>
+</w.rf>
+<form>,</form>
+<lemma>,</lemma>
+<tag>Z:-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W67-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W67</LM>
+</w.rf>
+<form>TCR</form>
+<lemma>TCR-88</lemma>
+<tag>BNXXX-----A----</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W68-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W68</LM>
+</w.rf>
+<form>Sumat</form>
+<lemma>Sumat-77</lemma>
+<tag>F%-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W69-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W69</LM>
+</w.rf>
+<form>A</form>
+<lemma>A-33</lemma>
+<tag>Q3-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W70-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W70</LM>
+</w.rf>
+<form>.</form>
+<lemma>.</lemma>
+<tag>Z:-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W71-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W71</LM>
+</w.rf>
+<form>G</form>
+<lemma>G-33</lemma>
+<tag>Q3-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W72-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W72</LM>
+</w.rf>
+<form>.</form>
+<lemma>.</lemma>
+<tag>Z:-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W73-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W73</LM>
+</w.rf>
+<form>a</form>
+<lemma>a-1</lemma>
+<tag>J^-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W74-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W74</LM>
+</w.rf>
+<form>společností</form>
+<lemma>společnost_^(*3ý)</lemma>
+<tag>NNFS7-----A----</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W75-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W75</LM>
+</w.rf>
+<form>Warrior</form>
+<lemma>Warrior-77</lemma>
+<tag>F%-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W76-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W76</LM>
+</w.rf>
+<form>Oil</form>
+<lemma>Oil-77</lemma>
+<tag>F%-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W77-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W77</LM>
+</w.rf>
+<form>Co</form>
+<lemma>Co-77</lemma>
+<tag>F%-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s6W78-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s6W78</LM>
+</w.rf>
+<form>.</form>
+<lemma>.</lemma>
+<tag>Z:-------------</tag>
+</m>
+</s>
+<s id="m-wsj2270-001-p1s7">
+<m id="m-wsj2270-001-p1s7W1-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s7W1</LM>
+</w.rf>
+<form>Oblast</form>
+<lemma>oblast</lemma>
+<tag>NNFS1-----A----</tag>
+</m>
+<m id="m-wsj2270-001-p1s7W2-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s7W2</LM>
+</w.rf>
+<form>,</form>
+<lemma>,</lemma>
+<tag>Z:-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s7W3-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s7W3</LM>
+</w.rf>
+<form>které</form>
+<lemma>který</lemma>
+<tag>P4FS2----------</tag>
+</m>
+<m id="m-wsj2270-001-p1s7W4-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s7W4</LM>
+</w.rf>
+<form>se</form>
+<lemma>se_^(zvr._zájmeno/částice)</lemma>
+<tag>P7--4----------</tag>
+</m>
+<m id="m-wsj2270-001-p1s7W5-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s7W5</LM>
+</w.rf>
+<form>týká</form>
+<lemma>týkat</lemma>
+<tag>VB-S---3P-AAI--</tag>
+</m>
+<m id="m-wsj2270-001-p1s7W6-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s7W6</LM>
+</w.rf>
+<form>dohoda</form>
+<lemma>dohoda</lemma>
+<tag>NNFS1-----A----</tag>
+</m>
+<m id="m-wsj2270-001-p1s7W7-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s7W7</LM>
+</w.rf>
+<form>o</form>
+<lemma>o-1</lemma>
+<tag>RR--6----------</tag>
+</m>
+<m id="m-wsj2270-001-p1s7W8-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s7W8</LM>
+</w.rf>
+<form>společné</form>
+<lemma>společný</lemma>
+<tag>AAFS6----1A----</tag>
+</m>
+<m id="m-wsj2270-001-p1s7W9-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s7W9</LM>
+</w.rf>
+<form>těžbě</form>
+<lemma>těžba</lemma>
+<tag>NNFS6-----A----</tag>
+</m>
+<m id="m-wsj2270-001-p1s7W10-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s7W10</LM>
+</w.rf>
+<form>,</form>
+<lemma>,</lemma>
+<tag>Z:-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s7W11-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s7W11</LM>
+</w.rf>
+<form>je</form>
+<lemma>být</lemma>
+<tag>VB-S---3P-AAI--</tag>
+</m>
+<m id="m-wsj2270-001-p1s7W12-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s7W12</LM>
+</w.rf>
+<form>v</form>
+<lemma>v-1</lemma>
+<tag>RR--6----------</tag>
+</m>
+<m id="m-wsj2270-001-p1s7W13-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s7W13</LM>
+</w.rf>
+<form>držení</form>
+<lemma>držení_^(*2t)</lemma>
+<tag>NNNS6-----A----</tag>
+</m>
+<m id="m-wsj2270-001-p1s7W14-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s7W14</LM>
+</w.rf>
+<form>společně</form>
+<lemma>společně_^(*1ý)</lemma>
+<tag>Dg-------1A----</tag>
+</m>
+<m id="m-wsj2270-001-p1s7W15-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s7W15</LM>
+</w.rf>
+<form>se</form>
+<lemma>s-1</lemma>
+<tag>RV--7----------</tag>
+</m>
+<m id="m-wsj2270-001-p1s7W16-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s7W16</LM>
+</w.rf>
+<form>společností</form>
+<lemma>společnost_^(*3ý)</lemma>
+<tag>NNFS7-----A----</tag>
+</m>
+<m id="m-wsj2270-001-p1s7W17-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s7W17</LM>
+</w.rf>
+<form>Pertamina</form>
+<lemma>Pertamina_;m</lemma>
+<tag>NNFS1-----A----</tag>
+</m>
+<m id="m-wsj2270-001-p1s7W18-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s7W18</LM>
+</w.rf>
+<form>,</form>
+<lemma>,</lemma>
+<tag>Z:-------------</tag>
+</m>
+<m id="m-wsj2270-001-p1s7W19-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s7W19</LM>
+</w.rf>
+<form>indonéské</form>
+<lemma>indonéský</lemma>
+<tag>AAFS2----1A----</tag>
+</m>
+<m id="m-wsj2270-001-p1s7W20-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s7W20</LM>
+</w.rf>
+<form>státní</form>
+<lemma>státní</lemma>
+<tag>AAFS2----1A----</tag>
+</m>
+<m id="m-wsj2270-001-p1s7W21-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s7W21</LM>
+</w.rf>
+<form>společnosti</form>
+<lemma>společnost_^(*3ý)</lemma>
+<tag>NNFS2-----A----</tag>
+</m>
+<m id="m-wsj2270-001-p1s7W22-Ta">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2270-001-p1s7W22</LM>
+</w.rf>
+<form>.</form>
+<lemma>.</lemma>
+<tag>Z:-------------</tag>
+</m>
+</s>
+</mdata>
