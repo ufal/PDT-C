@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pmlbackend xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
+  <head>
+    <schema href="pmlbackend_conf_schema.xml"/>
+  </head>
+  <options>
+    <load>
+      <validate_cdata>1</validate_cdata>
+      <use_resources>1</use_resources>
+    </load>
+    <save>
+      <indent>0</indent>
+      <validate_cdata>1</validate_cdata>
+      <write_single_LM>1</write_single_LM>
+    </save>
+  </options>
+</pmlbackend>
