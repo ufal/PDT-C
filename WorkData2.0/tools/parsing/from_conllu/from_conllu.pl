@@ -53,10 +53,10 @@ while (my $pdt_file = <$pdt_filelist_file>) {
           # I think it should have been a private method _set_parent because it does not set lbrother and other internal pointers.
           # We have to use paste_on(), instead.
           $pdt_node->paste_on($pdt_parent, $conllu_node->ord);
-          my ($afun, $suffix) = split /_/, $conllu_node->deprel;
+          my ($afun, $suffix) = split /_/, $conllu_node->deprel, 2;
           $pdt_node->set_attr('afun', $afun);
-          $pdt_node->set_attr('is_member', ($suffix//'' =~ /(IsMember)/ ? 1 : undef));
-          $pdt_node->set_attr('is_parenthesis_root', ($suffix//'' =~ /(IsParenthesisRoot)/ ? 1 : undef));
+          $pdt_node->set_attr('is_member', (($suffix//'') =~ /IsMember/ ? 1 : undef));
+          $pdt_node->set_attr('is_parenthesis_root', (($suffix//'') =~ /IsParenthesisRoot/ ? 1 : undef));
       }
       #last if $tree_index > 2;
   }
