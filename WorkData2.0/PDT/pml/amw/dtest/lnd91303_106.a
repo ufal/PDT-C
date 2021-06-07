@@ -425,13 +425,13 @@
 <LM id="a-lnd91303-106-p3s2w14">
 <m.rf>m#m-lnd91303-106-p3s2w14</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>14</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-lnd91303-106-p3s2w16">
 <m.rf>m#m-lnd91303-106-p3s2w16</m.rf>
 <afun>Adv</afun>
-<is_member>1</is_member>
 <ord>16</ord>
 <clause_number>1</clause_number>
 <children>
@@ -448,13 +448,13 @@
 <LM id="a-lnd91303-106-p3s2w18">
 <m.rf>m#m-lnd91303-106-p3s2w18</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>18</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-lnd91303-106-p3s2w19">
 <m.rf>m#m-lnd91303-106-p3s2w19</m.rf>
 <afun>Adv</afun>
-<is_member>1</is_member>
 <ord>19</ord>
 <clause_number>1</clause_number>
 <children>

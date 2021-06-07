@@ -1646,13 +1646,13 @@
 <LM id="a-mf920925-095-p81s1w3">
 <m.rf>m#m-mf920925-095-p81s1w3</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>3</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-mf920925-095-p81s1w4">
 <m.rf>m#m-mf920925-095-p81s1w4</m.rf>
 <afun>Atr</afun>
-<is_member>1</is_member>
 <ord>4</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -1661,13 +1661,13 @@
 <LM id="a-mf920925-095-p81s1w6">
 <m.rf>m#m-mf920925-095-p81s1w6</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>6</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-mf920925-095-p81s1w7">
 <m.rf>m#m-mf920925-095-p81s1w7</m.rf>
 <afun>Atr</afun>
-<is_member>1</is_member>
 <ord>7</ord>
 <clause_number>1</clause_number>
 </LM>

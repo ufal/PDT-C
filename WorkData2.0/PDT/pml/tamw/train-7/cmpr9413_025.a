@@ -5028,13 +5028,13 @@
 <LM id="a-cmpr9413-025-p16s5w14">
 <m.rf>m#m-cmpr9413-025-p16s5w14</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>14</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-cmpr9413-025-p16s5w15">
 <m.rf>m#m-cmpr9413-025-p16s5w15</m.rf>
 <afun>Atr</afun>
-<is_member>1</is_member>
 <ord>15</ord>
 <clause_number>1</clause_number>
 <children>

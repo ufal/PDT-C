@@ -660,13 +660,13 @@
 <LM id="a-cmpr9410-038-p14s1w7">
 <m.rf>m#m-cmpr9410-038-p14s1w7</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>7</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-cmpr9410-038-p14s1w12">
 <m.rf>m#m-cmpr9410-038-p14s1w12</m.rf>
 <afun>Coord</afun>
-<is_member>1</is_member>
 <ord>12</ord>
 <clause_number>1</clause_number>
 <children>

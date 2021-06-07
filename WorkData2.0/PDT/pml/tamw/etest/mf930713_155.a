@@ -447,13 +447,13 @@
 <LM id="a-mf930713-155-p2s3w8">
 <m.rf>m#m-mf930713-155-p2s3w8</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>8</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-mf930713-155-p2s3w10">
 <m.rf>m#m-mf930713-155-p2s3w10</m.rf>
 <afun>Coord</afun>
-<is_member>1</is_member>
 <ord>10</ord>
 <clause_number>1</clause_number>
 <children>

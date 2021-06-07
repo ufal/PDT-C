@@ -1245,13 +1245,13 @@
 <LM id="a-ln95047-034-p4s5w12">
 <m.rf>m#m-ln95047-034-p4s5w12</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>12</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-ln95047-034-p4s5w15">
 <m.rf>m#m-ln95047-034-p4s5w15</m.rf>
 <afun>ExD</afun>
-<is_member>1</is_member>
 <ord>15</ord>
 <clause_number>1</clause_number>
 <children>

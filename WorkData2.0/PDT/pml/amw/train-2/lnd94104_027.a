@@ -222,13 +222,13 @@
 <LM id="a-lnd94104-027-p1s1w30">
 <m.rf>m#m-lnd94104-027-p1s1w30</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>30</ord>
 <clause_number>3</clause_number>
 <children>
 <LM id="a-lnd94104-027-p1s1w32">
 <m.rf>m#m-lnd94104-027-p1s1w32</m.rf>
 <afun>Coord</afun>
-<is_member>1</is_member>
 <ord>32</ord>
 <clause_number>3</clause_number>
 <children>

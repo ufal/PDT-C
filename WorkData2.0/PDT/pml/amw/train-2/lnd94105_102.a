@@ -968,13 +968,13 @@
 <LM id="a-lnd94105-102-p1s10w10">
 <m.rf>m#m-lnd94105-102-p1s10w10</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>10</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-lnd94105-102-p1s10w12">
 <m.rf>m#m-lnd94105-102-p1s10w12</m.rf>
 <afun>ExD</afun>
-<is_member>1</is_member>
 <ord>12</ord>
 <clause_number>1</clause_number>
 <children>

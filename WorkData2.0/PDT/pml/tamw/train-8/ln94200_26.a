@@ -3444,6 +3444,7 @@
 <LM id="a-ln94200-26-p11s1w32">
 <m.rf>m#m-ln94200-26-p11s1w32</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>32</ord>
 <clause_number>1</clause_number>
 <children>
@@ -3456,7 +3457,6 @@
 <LM id="a-ln94200-26-p11s1w34">
 <m.rf>m#m-ln94200-26-p11s1w34</m.rf>
 <afun>Adv</afun>
-<is_member>1</is_member>
 <ord>34</ord>
 <clause_number>1</clause_number>
 <children>

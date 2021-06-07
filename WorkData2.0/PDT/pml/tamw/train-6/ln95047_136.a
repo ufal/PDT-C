@@ -702,13 +702,13 @@
 <LM id="a-ln95047-136-p4s1w22">
 <m.rf>m#m-ln95047-136-p4s1w22</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>22</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-ln95047-136-p4s1w24">
 <m.rf>m#m-ln95047-136-p4s1w24</m.rf>
 <afun>ExD</afun>
-<is_member>1</is_member>
 <ord>24</ord>
 <clause_number>1</clause_number>
 <children>

@@ -1776,6 +1776,7 @@
 <LM id="a-mf920924-027-p2s8w26">
 <m.rf>m#m-mf920924-027-p2s8w26</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>26</ord>
 <clause_number>2</clause_number>
 <children>
@@ -1788,7 +1789,6 @@
 <LM id="a-mf920924-027-p2s8w27">
 <m.rf>m#m-mf920924-027-p2s8w27</m.rf>
 <afun>ExD</afun>
-<is_member>1</is_member>
 <ord>27</ord>
 <clause_number>2</clause_number>
 <children>

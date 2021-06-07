@@ -2215,13 +2215,13 @@
 <LM id="a-cmpr9416-019-p7s3w5">
 <m.rf>m#m-cmpr9416-019-p7s3w5</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>5</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-cmpr9416-019-p7s3w11">
 <m.rf>m#m-cmpr9416-019-p7s3w11</m.rf>
 <afun>Obj</afun>
-<is_member>1</is_member>
 <ord>11</ord>
 <clause_number>1</clause_number>
 <children>
@@ -2273,13 +2273,13 @@
 <LM id="a-cmpr9416-019-p7s3w14">
 <m.rf>m#m-cmpr9416-019-p7s3w14</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>14</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-cmpr9416-019-p7s3w17">
 <m.rf>m#m-cmpr9416-019-p7s3w17</m.rf>
 <afun>Obj</afun>
-<is_member>1</is_member>
 <ord>17</ord>
 <clause_number>1</clause_number>
 <children>

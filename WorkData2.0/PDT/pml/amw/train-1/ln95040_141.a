@@ -678,6 +678,7 @@
 <LM id="a-ln95040-141-p4s3w7">
 <m.rf>m#m-ln95040-141-p4s3w7</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>7</ord>
 <clause_number>1</clause_number>
 <children>
@@ -690,7 +691,6 @@
 <LM id="a-ln95040-141-p4s3w8">
 <m.rf>m#m-ln95040-141-p4s3w8</m.rf>
 <afun>Adv</afun>
-<is_member>1</is_member>
 <ord>8</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -699,6 +699,7 @@
 <LM id="a-ln95040-141-p4s3w12">
 <m.rf>m#m-ln95040-141-p4s3w12</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>12</ord>
 <clause_number>1</clause_number>
 <children>
@@ -711,7 +712,6 @@
 <LM id="a-ln95040-141-p4s3w13">
 <m.rf>m#m-ln95040-141-p4s3w13</m.rf>
 <afun>Adv</afun>
-<is_member>1</is_member>
 <ord>13</ord>
 <clause_number>1</clause_number>
 <children>

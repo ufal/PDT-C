@@ -2222,13 +2222,13 @@
 <LM id="a-ln94200-45-p6s1w12">
 <m.rf>m#m-ln94200-45-p6s1w12</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>12</ord>
 <clause_number>2</clause_number>
 <children>
 <LM id="a-ln94200-45-p6s1w13">
 <m.rf>m#m-ln94200-45-p6s1w13</m.rf>
 <afun>Atr</afun>
-<is_member>1</is_member>
 <ord>13</ord>
 <clause_number>2</clause_number>
 </LM>
@@ -2243,13 +2243,13 @@
 <LM id="a-ln94200-45-p6s1w15">
 <m.rf>m#m-ln94200-45-p6s1w15</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>15</ord>
 <clause_number>2</clause_number>
 <children>
 <LM id="a-ln94200-45-p6s1w16">
 <m.rf>m#m-ln94200-45-p6s1w16</m.rf>
 <afun>Atr</afun>
-<is_member>1</is_member>
 <ord>16</ord>
 <clause_number>2</clause_number>
 </LM>
@@ -2264,13 +2264,13 @@
 <LM id="a-ln94200-45-p6s1w18">
 <m.rf>m#m-ln94200-45-p6s1w18</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>18</ord>
 <clause_number>2</clause_number>
 <children>
 <LM id="a-ln94200-45-p6s1w19">
 <m.rf>m#m-ln94200-45-p6s1w19</m.rf>
 <afun>Atr</afun>
-<is_member>1</is_member>
 <ord>19</ord>
 <clause_number>2</clause_number>
 </LM>
@@ -2627,13 +2627,13 @@
 <LM id="a-ln94200-45-p6s4w14">
 <m.rf>m#m-ln94200-45-p6s4w14</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>14</ord>
 <clause_number>2</clause_number>
 <children>
 <LM id="a-ln94200-45-p6s4w15">
 <m.rf>m#m-ln94200-45-p6s4w15</m.rf>
 <afun>ExD</afun>
-<is_member>1</is_member>
 <ord>15</ord>
 <clause_number>2</clause_number>
 </LM>
@@ -3308,13 +3308,13 @@
 <LM id="a-ln94200-45-p7s4w6">
 <m.rf>m#m-ln94200-45-p7s4w6</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>6</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-ln94200-45-p7s4w8">
 <m.rf>m#m-ln94200-45-p7s4w8</m.rf>
 <afun>Adv</afun>
-<is_member>1</is_member>
 <ord>8</ord>
 <clause_number>1</clause_number>
 <children>
@@ -3337,13 +3337,13 @@
 <LM id="a-ln94200-45-p7s4w11">
 <m.rf>m#m-ln94200-45-p7s4w11</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>11</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-ln94200-45-p7s4w13">
 <m.rf>m#m-ln94200-45-p7s4w13</m.rf>
 <afun>Adv</afun>
-<is_member>1</is_member>
 <ord>13</ord>
 <clause_number>1</clause_number>
 <children>

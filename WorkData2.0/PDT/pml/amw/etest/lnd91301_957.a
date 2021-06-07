@@ -2614,13 +2614,13 @@
 <LM id="a-lnd91301-957-p6s5w3">
 <m.rf>m#m-lnd91301-957-p6s5w3</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>3</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-lnd91301-957-p6s5w6">
 <m.rf>m#m-lnd91301-957-p6s5w6</m.rf>
 <afun>Adv</afun>
-<is_member>1</is_member>
 <ord>6</ord>
 <clause_number>1</clause_number>
 <children>
@@ -2643,13 +2643,13 @@
 <LM id="a-lnd91301-957-p6s5w8">
 <m.rf>m#m-lnd91301-957-p6s5w8</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>8</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-lnd91301-957-p6s5w9">
 <m.rf>m#m-lnd91301-957-p6s5w9</m.rf>
 <afun>Adv</afun>
-<is_member>1</is_member>
 <ord>9</ord>
 <clause_number>1</clause_number>
 <children>
@@ -2840,13 +2840,13 @@
 <LM id="a-lnd91301-957-p6s5w38">
 <m.rf>m#m-lnd91301-957-p6s5w38</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>38</ord>
 <clause_number>3</clause_number>
 <children>
 <LM id="a-lnd91301-957-p6s5w39">
 <m.rf>m#m-lnd91301-957-p6s5w39</m.rf>
 <afun>ExD</afun>
-<is_member>1</is_member>
 <ord>39</ord>
 <clause_number>3</clause_number>
 </LM>
@@ -3108,13 +3108,13 @@
 <LM id="a-lnd91301-957-p6s7w21">
 <m.rf>m#m-lnd91301-957-p6s7w21</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>21</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-lnd91301-957-p6s7w22">
 <m.rf>m#m-lnd91301-957-p6s7w22</m.rf>
 <afun>ExD</afun>
-<is_member>1</is_member>
 <ord>22</ord>
 <clause_number>1</clause_number>
 <children>
@@ -3384,13 +3384,13 @@
 <LM id="a-lnd91301-957-p8s1w1">
 <m.rf>m#m-lnd91301-957-p8s1w1</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>1</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-lnd91301-957-p8s1w3">
 <m.rf>m#m-lnd91301-957-p8s1w3</m.rf>
 <afun>ExD</afun>
-<is_member>1</is_member>
 <ord>3</ord>
 <clause_number>1</clause_number>
 <children>
@@ -3798,13 +3798,13 @@
 <LM id="a-lnd91301-957-p8s5w17">
 <m.rf>m#m-lnd91301-957-p8s5w17</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>17</ord>
 <clause_number>3</clause_number>
 <children>
 <LM id="a-lnd91301-957-p8s5w20">
 <m.rf>m#m-lnd91301-957-p8s5w20</m.rf>
 <afun>Adv</afun>
-<is_member>1</is_member>
 <ord>20</ord>
 <clause_number>3</clause_number>
 <children>

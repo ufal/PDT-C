@@ -122,13 +122,13 @@
 <LM id="a-ln95044-140-p2s1w9">
 <m.rf>m#m-ln95044-140-p2s1w9</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>9</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-ln95044-140-p2s1w10">
 <m.rf>m#m-ln95044-140-p2s1w10</m.rf>
 <afun>Atr</afun>
-<is_member>1</is_member>
 <ord>10</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -877,13 +877,13 @@
 <LM id="a-ln95044-140-p2s4w30">
 <m.rf>m#m-ln95044-140-p2s4w30</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>30</ord>
 <clause_number>2</clause_number>
 <children>
 <LM id="a-ln95044-140-p2s4w31">
 <m.rf>m#m-ln95044-140-p2s4w31</m.rf>
 <afun>ExD</afun>
-<is_member>1</is_member>
 <ord>31</ord>
 <clause_number>2</clause_number>
 <children>
@@ -908,6 +908,7 @@
 <LM id="a-ln95044-140-p2s4w36">
 <m.rf>m#m-ln95044-140-p2s4w36</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>36</ord>
 <clause_number>2</clause_number>
 <children>
@@ -926,7 +927,6 @@
 <LM id="a-ln95044-140-p2s4w37">
 <m.rf>m#m-ln95044-140-p2s4w37</m.rf>
 <afun>ExD</afun>
-<is_member>1</is_member>
 <ord>37</ord>
 <clause_number>2</clause_number>
 </LM>
@@ -2419,13 +2419,13 @@
 <LM id="a-ln95044-140-p5s3w18">
 <m.rf>m#m-ln95044-140-p5s3w18</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>18</ord>
 <clause_number>2</clause_number>
 <children>
 <LM id="a-ln95044-140-p5s3w19">
 <m.rf>m#m-ln95044-140-p5s3w19</m.rf>
 <afun>ExD</afun>
-<is_member>1</is_member>
 <ord>19</ord>
 <clause_number>2</clause_number>
 </LM>
@@ -2434,13 +2434,13 @@
 <LM id="a-ln95044-140-p5s3w20">
 <m.rf>m#m-ln95044-140-p5s3w20</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>20</ord>
 <clause_number>2</clause_number>
 <children>
 <LM id="a-ln95044-140-p5s3w21">
 <m.rf>m#m-ln95044-140-p5s3w21</m.rf>
 <afun>ExD</afun>
-<is_member>1</is_member>
 <ord>21</ord>
 <clause_number>2</clause_number>
 <children>
@@ -4079,13 +4079,13 @@
 <LM id="a-ln95044-140-p7s3w5">
 <m.rf>m#m-ln95044-140-p7s3w5</m.rf>
 <afun>AuxC</afun>
+<is_member>1</is_member>
 <ord>5</ord>
 <clause_number>2</clause_number>
 <children>
 <LM id="a-ln95044-140-p7s3w11">
 <m.rf>m#m-ln95044-140-p7s3w11</m.rf>
 <afun>Atr</afun>
-<is_member>1</is_member>
 <ord>11</ord>
 <clause_number>2</clause_number>
 <children>
@@ -4150,13 +4150,13 @@
 <LM id="a-ln95044-140-p7s3w16">
 <m.rf>m#m-ln95044-140-p7s3w16</m.rf>
 <afun>AuxC</afun>
+<is_member>1</is_member>
 <ord>16</ord>
 <clause_number>3</clause_number>
 <children>
 <LM id="a-ln95044-140-p7s3w20">
 <m.rf>m#m-ln95044-140-p7s3w20</m.rf>
 <afun>Coord</afun>
-<is_member>1</is_member>
 <ord>20</ord>
 <clause_number>0</clause_number>
 <children>
@@ -4363,13 +4363,13 @@
 <LM id="a-ln95044-140-p7s4w14">
 <m.rf>m#m-ln95044-140-p7s4w14</m.rf>
 <afun>AuxC</afun>
+<is_member>1</is_member>
 <ord>14</ord>
 <clause_number>2</clause_number>
 <children>
 <LM id="a-ln95044-140-p7s4w18">
 <m.rf>m#m-ln95044-140-p7s4w18</m.rf>
 <afun>Atr</afun>
-<is_member>1</is_member>
 <ord>18</ord>
 <clause_number>2</clause_number>
 <children>
@@ -4458,13 +4458,13 @@
 <LM id="a-ln95044-140-p7s4w28">
 <m.rf>m#m-ln95044-140-p7s4w28</m.rf>
 <afun>AuxC</afun>
+<is_member>1</is_member>
 <ord>28</ord>
 <clause_number>3</clause_number>
 <children>
 <LM id="a-ln95044-140-p7s4w30">
 <m.rf>m#m-ln95044-140-p7s4w30</m.rf>
 <afun>Atr</afun>
-<is_member>1</is_member>
 <ord>30</ord>
 <clause_number>3</clause_number>
 <children>
@@ -4607,13 +4607,13 @@
 <LM id="a-ln95044-140-p7s5w5">
 <m.rf>m#m-ln95044-140-p7s5w5</m.rf>
 <afun>AuxC</afun>
+<is_member>1</is_member>
 <ord>5</ord>
 <clause_number>2</clause_number>
 <children>
 <LM id="a-ln95044-140-p7s5w8">
 <m.rf>m#m-ln95044-140-p7s5w8</m.rf>
 <afun>Atr</afun>
-<is_member>1</is_member>
 <ord>8</ord>
 <clause_number>2</clause_number>
 <children>
@@ -4672,13 +4672,13 @@
 <LM id="a-ln95044-140-p7s5w15">
 <m.rf>m#m-ln95044-140-p7s5w15</m.rf>
 <afun>AuxC</afun>
+<is_member>1</is_member>
 <ord>15</ord>
 <clause_number>3</clause_number>
 <children>
 <LM id="a-ln95044-140-p7s5w18">
 <m.rf>m#m-ln95044-140-p7s5w18</m.rf>
 <afun>Atr</afun>
-<is_member>1</is_member>
 <ord>18</ord>
 <clause_number>3</clause_number>
 <children>

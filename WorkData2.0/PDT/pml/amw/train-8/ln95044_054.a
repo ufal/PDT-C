@@ -853,13 +853,13 @@
 <LM id="a-ln95044-054-p3s2w27">
 <m.rf>m#m-ln95044-054-p3s2w27</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>27</ord>
 <clause_number>3</clause_number>
 <children>
 <LM id="a-ln95044-054-p3s2w30">
 <m.rf>m#m-ln95044-054-p3s2w30</m.rf>
 <afun>ExD</afun>
-<is_member>1</is_member>
 <ord>30</ord>
 <clause_number>3</clause_number>
 <children>
@@ -882,13 +882,13 @@
 <LM id="a-ln95044-054-p3s2w32">
 <m.rf>m#m-ln95044-054-p3s2w32</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>32</ord>
 <clause_number>3</clause_number>
 <children>
 <LM id="a-ln95044-054-p3s2w33">
 <m.rf>m#m-ln95044-054-p3s2w33</m.rf>
 <afun>ExD</afun>
-<is_member>1</is_member>
 <ord>33</ord>
 <clause_number>3</clause_number>
 <children>
@@ -1402,13 +1402,13 @@
 <LM id="a-ln95044-054-p4s2w2">
 <m.rf>m#m-ln95044-054-p4s2w2</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>2</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-ln95044-054-p4s2w4">
 <m.rf>m#m-ln95044-054-p4s2w4</m.rf>
 <afun>Obj</afun>
-<is_member>1</is_member>
 <ord>4</ord>
 <clause_number>1</clause_number>
 <children>
@@ -1425,13 +1425,13 @@
 <LM id="a-ln95044-054-p4s2w6">
 <m.rf>m#m-ln95044-054-p4s2w6</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>6</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-ln95044-054-p4s2w7">
 <m.rf>m#m-ln95044-054-p4s2w7</m.rf>
 <afun>Obj</afun>
-<is_member>1</is_member>
 <ord>7</ord>
 <clause_number>1</clause_number>
 <children>
@@ -2255,13 +2255,13 @@
 <LM id="a-ln95044-054-p5s3w2">
 <m.rf>m#m-ln95044-054-p5s3w2</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>2</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-ln95044-054-p5s3w4">
 <m.rf>m#m-ln95044-054-p5s3w4</m.rf>
 <afun>Obj</afun>
-<is_member>1</is_member>
 <ord>4</ord>
 <clause_number>1</clause_number>
 <children>
@@ -2298,13 +2298,13 @@
 <LM id="a-ln95044-054-p5s3w9">
 <m.rf>m#m-ln95044-054-p5s3w9</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>9</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-ln95044-054-p5s3w12">
 <m.rf>m#m-ln95044-054-p5s3w12</m.rf>
 <afun>Coord</afun>
-<is_member>1</is_member>
 <ord>12</ord>
 <clause_number>1</clause_number>
 <children>
@@ -2352,13 +2352,13 @@
 <LM id="a-ln95044-054-p5s3w17">
 <m.rf>m#m-ln95044-054-p5s3w17</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>17</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-ln95044-054-p5s3w18">
 <m.rf>m#m-ln95044-054-p5s3w18</m.rf>
 <afun>ExD</afun>
-<is_member>1</is_member>
 <ord>18</ord>
 <clause_number>1</clause_number>
 <children>
@@ -3014,13 +3014,13 @@
 <LM id="a-ln95044-054-p6s2w2">
 <m.rf>m#m-ln95044-054-p6s2w2</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>2</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-ln95044-054-p6s2w3">
 <m.rf>m#m-ln95044-054-p6s2w3</m.rf>
 <afun>ExD</afun>
-<is_member>1</is_member>
 <ord>3</ord>
 <clause_number>1</clause_number>
 <children>
@@ -3049,13 +3049,13 @@
 <LM id="a-ln95044-054-p6s2w7">
 <m.rf>m#m-ln95044-054-p6s2w7</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>7</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-ln95044-054-p6s2w8">
 <m.rf>m#m-ln95044-054-p6s2w8</m.rf>
 <afun>ExD</afun>
-<is_member>1</is_member>
 <ord>8</ord>
 <clause_number>1</clause_number>
 <children>
@@ -3604,13 +3604,13 @@
 <LM id="a-ln95044-054-p6s7w7">
 <m.rf>m#m-ln95044-054-p6s7w7</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>7</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-ln95044-054-p6s7w8">
 <m.rf>m#m-ln95044-054-p6s7w8</m.rf>
 <afun>Obj</afun>
-<is_member>1</is_member>
 <ord>8</ord>
 <clause_number>1</clause_number>
 <children>
@@ -3627,13 +3627,13 @@
 <LM id="a-ln95044-054-p6s7w10">
 <m.rf>m#m-ln95044-054-p6s7w10</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>10</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-ln95044-054-p6s7w12">
 <m.rf>m#m-ln95044-054-p6s7w12</m.rf>
 <afun>Obj</afun>
-<is_member>1</is_member>
 <ord>12</ord>
 <clause_number>1</clause_number>
 <children>

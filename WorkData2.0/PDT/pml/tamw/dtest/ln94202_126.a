@@ -441,13 +441,13 @@
 <LM id="a-ln94202-126-p2s2w28">
 <m.rf>m#m-ln94202-126-p2s2w28</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>28</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-ln94202-126-p2s2w29">
 <m.rf>m#m-ln94202-126-p2s2w29</m.rf>
 <afun>ExD</afun>
-<is_member>1</is_member>
 <ord>29</ord>
 <clause_number>1</clause_number>
 </LM>

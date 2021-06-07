@@ -1935,13 +1935,13 @@
 <LM id="a-cmpr9415-018-p8s1w10">
 <m.rf>m#m-cmpr9415-018-p8s1w10</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>10</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-cmpr9415-018-p8s1w11">
 <m.rf>m#m-cmpr9415-018-p8s1w11</m.rf>
 <afun>Atr</afun>
-<is_member>1</is_member>
 <ord>11</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -1956,13 +1956,13 @@
 <LM id="a-cmpr9415-018-p8s1w15">
 <m.rf>m#m-cmpr9415-018-p8s1w15</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>15</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-cmpr9415-018-p8s1w18">
 <m.rf>m#m-cmpr9415-018-p8s1w18</m.rf>
 <afun>Atr</afun>
-<is_member>1</is_member>
 <ord>18</ord>
 <clause_number>1</clause_number>
 <children>

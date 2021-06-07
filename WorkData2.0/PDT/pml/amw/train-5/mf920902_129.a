@@ -3247,13 +3247,13 @@
 <LM id="a-mf920902-129-p2s21w9">
 <m.rf>m#m-mf920902-129-p2s21w9</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>9</ord>
 <clause_number>2</clause_number>
 <children>
 <LM id="a-mf920902-129-p2s21w12">
 <m.rf>m#m-mf920902-129-p2s21w12</m.rf>
 <afun>Adv</afun>
-<is_member>1</is_member>
 <ord>12</ord>
 <clause_number>2</clause_number>
 <children>
@@ -3276,13 +3276,13 @@
 <LM id="a-mf920902-129-p2s21w14">
 <m.rf>m#m-mf920902-129-p2s21w14</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>14</ord>
 <clause_number>2</clause_number>
 <children>
 <LM id="a-mf920902-129-p2s21w16">
 <m.rf>m#m-mf920902-129-p2s21w16</m.rf>
 <afun>Adv</afun>
-<is_member>1</is_member>
 <ord>16</ord>
 <clause_number>2</clause_number>
 <children>

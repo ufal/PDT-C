@@ -2876,13 +2876,13 @@
 <LM id="a-mf920922-128-p12s4w6">
 <m.rf>m#m-mf920922-128-p12s4w6</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>6</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-mf920922-128-p12s4w9">
 <m.rf>m#m-mf920922-128-p12s4w9</m.rf>
 <afun>Adv</afun>
-<is_member>1</is_member>
 <ord>9</ord>
 <clause_number>1</clause_number>
 <children>

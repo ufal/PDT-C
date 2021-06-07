@@ -2358,13 +2358,13 @@
 <LM id="a-ln95048-016-p4s3w37">
 <m.rf>m#m-ln95048-016-p4s3w37</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>37</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-ln95048-016-p4s3w39">
 <m.rf>m#m-ln95048-016-p4s3w39</m.rf>
 <afun>Atr</afun>
-<is_member>1</is_member>
 <ord>39</ord>
 <clause_number>1</clause_number>
 <children>

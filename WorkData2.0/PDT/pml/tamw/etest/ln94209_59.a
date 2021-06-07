@@ -1130,6 +1130,7 @@
 <LM id="a-ln94209-59-p3s3Bw8">
 <m.rf>m#m-ln94209-59-p3s3Bw8</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>8</ord>
 <clause_number>1</clause_number>
 <children>
@@ -1142,7 +1143,6 @@
 <LM id="a-ln94209-59-p3s3Bw9">
 <m.rf>m#m-ln94209-59-p3s3Bw9</m.rf>
 <afun>Adv</afun>
-<is_member>1</is_member>
 <ord>9</ord>
 <clause_number>1</clause_number>
 <children>
@@ -1223,6 +1223,7 @@
 <LM id="a-ln94209-59-p3s3Bw22">
 <m.rf>m#m-ln94209-59-p3s3Bw22</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>22</ord>
 <clause_number>1</clause_number>
 <children>
@@ -1235,7 +1236,6 @@
 <LM id="a-ln94209-59-p3s3Bw24">
 <m.rf>m#m-ln94209-59-p3s3Bw24</m.rf>
 <afun>Adv</afun>
-<is_member>1</is_member>
 <ord>24</ord>
 <clause_number>1</clause_number>
 <children>
@@ -6725,6 +6725,7 @@
 <LM id="a-ln94209-59-p14s1w10">
 <m.rf>m#m-ln94209-59-p14s1w10</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>10</ord>
 <clause_number>1</clause_number>
 <children>
@@ -6737,7 +6738,6 @@
 <LM id="a-ln94209-59-p14s1w11">
 <m.rf>m#m-ln94209-59-p14s1w11</m.rf>
 <afun>Atr</afun>
-<is_member>1</is_member>
 <ord>11</ord>
 <clause_number>1</clause_number>
 <children>
@@ -6802,6 +6802,7 @@
 <LM id="a-ln94209-59-p14s1w23">
 <m.rf>m#m-ln94209-59-p14s1w23</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>23</ord>
 <clause_number>1</clause_number>
 <children>
@@ -6814,7 +6815,6 @@
 <LM id="a-ln94209-59-p14s1w24">
 <m.rf>m#m-ln94209-59-p14s1w24</m.rf>
 <afun>Atr</afun>
-<is_member>1</is_member>
 <ord>24</ord>
 <clause_number>1</clause_number>
 <children>
@@ -6845,13 +6845,13 @@
 <LM id="a-ln94209-59-p14s1w27">
 <m.rf>m#m-ln94209-59-p14s1w27</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>27</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-ln94209-59-p14s1w28">
 <m.rf>m#m-ln94209-59-p14s1w28</m.rf>
 <afun>Atr</afun>
-<is_member>1</is_member>
 <ord>28</ord>
 <clause_number>1</clause_number>
 <children>
@@ -6874,13 +6874,13 @@
 <LM id="a-ln94209-59-p14s1w33">
 <m.rf>m#m-ln94209-59-p14s1w33</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>33</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-ln94209-59-p14s1w35">
 <m.rf>m#m-ln94209-59-p14s1w35</m.rf>
 <afun>Atr</afun>
-<is_member>1</is_member>
 <ord>35</ord>
 <clause_number>1</clause_number>
 <children>

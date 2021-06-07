@@ -2401,13 +2401,13 @@
 <LM id="a-mf920922-011-p1s18w11">
 <m.rf>m#m-mf920922-011-p1s18w11</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>11</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-mf920922-011-p1s18w12">
 <m.rf>m#m-mf920922-011-p1s18w12</m.rf>
 <afun>Adv</afun>
-<is_member>1</is_member>
 <ord>12</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -2416,13 +2416,13 @@
 <LM id="a-mf920922-011-p1s18w14">
 <m.rf>m#m-mf920922-011-p1s18w14</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>14</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-mf920922-011-p1s18w16">
 <m.rf>m#m-mf920922-011-p1s18w16</m.rf>
 <afun>Coord</afun>
-<is_member>1</is_member>
 <ord>16</ord>
 <clause_number>1</clause_number>
 <children>

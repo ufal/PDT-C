@@ -3937,13 +3937,13 @@
 <LM id="a-ln94206-17-p10s3w16">
 <m.rf>m#m-ln94206-17-p10s3w16</m.rf>
 <afun>AuxC</afun>
+<is_member>1</is_member>
 <ord>16</ord>
 <clause_number>3</clause_number>
 <children>
 <LM id="a-ln94206-17-p10s3w19">
 <m.rf>m#m-ln94206-17-p10s3w19</m.rf>
 <afun>Obj</afun>
-<is_member>1</is_member>
 <ord>19</ord>
 <clause_number>3</clause_number>
 </LM>

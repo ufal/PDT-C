@@ -1326,13 +1326,13 @@
 <LM id="a-mf920923-042-p5s2w29">
 <m.rf>m#m-mf920923-042-p5s2w29</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>29</ord>
 <clause_number>3</clause_number>
 <children>
 <LM id="a-mf920923-042-p5s2w30">
 <m.rf>m#m-mf920923-042-p5s2w30</m.rf>
 <afun>ExD</afun>
-<is_member>1</is_member>
 <ord>30</ord>
 <clause_number>3</clause_number>
 </LM>

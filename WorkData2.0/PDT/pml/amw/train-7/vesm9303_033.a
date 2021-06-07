@@ -1308,13 +1308,13 @@
 <LM id="a-vesm9303-033-p3s2w11">
 <m.rf>m#m-vesm9303-033-p3s2w11</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>11</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-vesm9303-033-p3s2w12">
 <m.rf>m#m-vesm9303-033-p3s2w12</m.rf>
 <afun>ExD</afun>
-<is_member>1</is_member>
 <ord>12</ord>
 <clause_number>1</clause_number>
 </LM>

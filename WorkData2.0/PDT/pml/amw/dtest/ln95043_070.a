@@ -1364,13 +1364,13 @@
 <LM id="a-ln95043-070-p6s2w24">
 <m.rf>m#m-ln95043-070-p6s2w24</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>24</ord>
 <clause_number>3</clause_number>
 <children>
 <LM id="a-ln95043-070-p6s2w25">
 <m.rf>m#m-ln95043-070-p6s2w25</m.rf>
 <afun>ExD</afun>
-<is_member>1</is_member>
 <ord>25</ord>
 <clause_number>3</clause_number>
 <children>

@@ -25,13 +25,13 @@
 <LM id="a-vesm9212-043-p1s1w1">
 <m.rf>m#m-vesm9212-043-p1s1w1</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>1</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-vesm9212-043-p1s1w2">
 <m.rf>m#m-vesm9212-043-p1s1w2</m.rf>
 <afun>ExD</afun>
-<is_member>1</is_member>
 <ord>2</ord>
 <clause_number>1</clause_number>
 <children>
@@ -608,13 +608,13 @@
 <LM id="a-vesm9212-043-p3s2w14">
 <m.rf>m#m-vesm9212-043-p3s2w14</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>14</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-vesm9212-043-p3s2w16">
 <m.rf>m#m-vesm9212-043-p3s2w16</m.rf>
 <afun>Atr</afun>
-<is_member>1</is_member>
 <ord>16</ord>
 <clause_number>1</clause_number>
 <children>
@@ -1121,13 +1121,13 @@
 <LM id="a-vesm9212-043-p3s6w4">
 <m.rf>m#m-vesm9212-043-p3s6w4</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>4</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-vesm9212-043-p3s6w5">
 <m.rf>m#m-vesm9212-043-p3s6w5</m.rf>
 <afun>Adv</afun>
-<is_member>1</is_member>
 <ord>5</ord>
 <clause_number>1</clause_number>
 <children>
@@ -1144,13 +1144,13 @@
 <LM id="a-vesm9212-043-p3s6w8">
 <m.rf>m#m-vesm9212-043-p3s6w8</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>8</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-vesm9212-043-p3s6w10">
 <m.rf>m#m-vesm9212-043-p3s6w10</m.rf>
 <afun>Adv</afun>
-<is_member>1</is_member>
 <ord>10</ord>
 <clause_number>1</clause_number>
 <children>
@@ -1179,13 +1179,13 @@
 <LM id="a-vesm9212-043-p3s6w12">
 <m.rf>m#m-vesm9212-043-p3s6w12</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>12</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-vesm9212-043-p3s6w13">
 <m.rf>m#m-vesm9212-043-p3s6w13</m.rf>
 <afun>Adv</afun>
-<is_member>1</is_member>
 <ord>13</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -1194,13 +1194,13 @@
 <LM id="a-vesm9212-043-p3s6w15">
 <m.rf>m#m-vesm9212-043-p3s6w15</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>15</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-vesm9212-043-p3s6w16">
 <m.rf>m#m-vesm9212-043-p3s6w16</m.rf>
 <afun>Adv</afun>
-<is_member>1</is_member>
 <ord>16</ord>
 <clause_number>1</clause_number>
 <children>

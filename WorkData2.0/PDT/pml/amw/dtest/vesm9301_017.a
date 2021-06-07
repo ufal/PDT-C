@@ -410,13 +410,13 @@
 <LM id="a-vesm9301-017-p2s4w10">
 <m.rf>m#m-vesm9301-017-p2s4w10</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>10</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-vesm9301-017-p2s4w11">
 <m.rf>m#m-vesm9301-017-p2s4w11</m.rf>
 <afun>ExD</afun>
-<is_member>1</is_member>
 <ord>11</ord>
 <clause_number>1</clause_number>
 <children>
@@ -3602,13 +3602,13 @@
 <LM id="a-vesm9301-017-p6s1w10">
 <m.rf>m#m-vesm9301-017-p6s1w10</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>10</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-vesm9301-017-p6s1w16">
 <m.rf>m#m-vesm9301-017-p6s1w16</m.rf>
 <afun>Coord</afun>
-<is_member>1</is_member>
 <ord>16</ord>
 <clause_number>1</clause_number>
 <children>

@@ -654,13 +654,13 @@
 <LM id="a-mf920902-083-p2s6w8">
 <m.rf>m#m-mf920902-083-p2s6w8</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>8</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-mf920902-083-p2s6w10">
 <m.rf>m#m-mf920902-083-p2s6w10</m.rf>
 <afun>Atr</afun>
-<is_member>1</is_member>
 <ord>10</ord>
 <clause_number>1</clause_number>
 <children>
@@ -3067,13 +3067,13 @@
 <LM id="a-mf920902-083-p2s24w2">
 <m.rf>m#m-mf920902-083-p2s24w2</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>2</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-mf920902-083-p2s24w3">
 <m.rf>m#m-mf920902-083-p2s24w3</m.rf>
 <afun>ExD</afun>
-<is_member>1</is_member>
 <ord>3</ord>
 <clause_number>1</clause_number>
 <children>
@@ -3130,13 +3130,13 @@
 <LM id="a-mf920902-083-p2s24w11">
 <m.rf>m#m-mf920902-083-p2s24w11</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>11</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-mf920902-083-p2s24w13">
 <m.rf>m#m-mf920902-083-p2s24w13</m.rf>
 <afun>ExD</afun>
-<is_member>1</is_member>
 <ord>13</ord>
 <clause_number>1</clause_number>
 <children>
@@ -3565,13 +3565,13 @@
 <LM id="a-mf920902-083-p2s29w1">
 <m.rf>m#m-mf920902-083-p2s29w1</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>1</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-mf920902-083-p2s29w2">
 <m.rf>m#m-mf920902-083-p2s29w2</m.rf>
 <afun>Obj</afun>
-<is_member>1</is_member>
 <ord>2</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -3580,13 +3580,13 @@
 <LM id="a-mf920902-083-p2s29w4">
 <m.rf>m#m-mf920902-083-p2s29w4</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>4</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-mf920902-083-p2s29w5">
 <m.rf>m#m-mf920902-083-p2s29w5</m.rf>
 <afun>Obj</afun>
-<is_member>1</is_member>
 <ord>5</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -3900,13 +3900,13 @@
 <LM id="a-mf920902-083-p2s32w4">
 <m.rf>m#m-mf920902-083-p2s32w4</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>4</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-mf920902-083-p2s32w5">
 <m.rf>m#m-mf920902-083-p2s32w5</m.rf>
 <afun>ExD</afun>
-<is_member>1</is_member>
 <ord>5</ord>
 <clause_number>1</clause_number>
 <children>

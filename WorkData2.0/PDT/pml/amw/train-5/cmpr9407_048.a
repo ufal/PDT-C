@@ -1615,13 +1615,13 @@
 <LM id="a-cmpr9407-048-p11s2w44">
 <m.rf>m#m-cmpr9407-048-p11s2w44</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>44</ord>
 <clause_number>3</clause_number>
 <children>
 <LM id="a-cmpr9407-048-p11s2w45">
 <m.rf>m#m-cmpr9407-048-p11s2w45</m.rf>
 <afun>ExD</afun>
-<is_member>1</is_member>
 <ord>45</ord>
 <clause_number>3</clause_number>
 </LM>

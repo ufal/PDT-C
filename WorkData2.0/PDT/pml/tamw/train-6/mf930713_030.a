@@ -3136,13 +3136,13 @@
 <LM id="a-mf930713-030-p2s23w18">
 <m.rf>m#m-mf930713-030-p2s23w18</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>18</ord>
 <clause_number>3</clause_number>
 <children>
 <LM id="a-mf930713-030-p2s23w19">
 <m.rf>m#m-mf930713-030-p2s23w19</m.rf>
 <afun>Atr</afun>
-<is_member>1</is_member>
 <ord>19</ord>
 <clause_number>3</clause_number>
 </LM>
@@ -3151,13 +3151,13 @@
 <LM id="a-mf930713-030-p2s23w21">
 <m.rf>m#m-mf930713-030-p2s23w21</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>21</ord>
 <clause_number>3</clause_number>
 <children>
 <LM id="a-mf930713-030-p2s23w22">
 <m.rf>m#m-mf930713-030-p2s23w22</m.rf>
 <afun>Atr</afun>
-<is_member>1</is_member>
 <ord>22</ord>
 <clause_number>3</clause_number>
 </LM>

@@ -911,13 +911,13 @@
 <LM id="a-ln94206-76-p4s1w39">
 <m.rf>m#m-ln94206-76-p4s1w39</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>39</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-ln94206-76-p4s1w42">
 <m.rf>m#m-ln94206-76-p4s1w42</m.rf>
 <afun>ExD</afun>
-<is_member>1</is_member>
 <ord>42</ord>
 <clause_number>1</clause_number>
 <children>

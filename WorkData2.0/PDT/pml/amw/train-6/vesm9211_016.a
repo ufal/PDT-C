@@ -3569,13 +3569,13 @@
 <LM id="a-vesm9211-016-p32s2w8">
 <m.rf>m#m-vesm9211-016-p32s2w8</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>8</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-vesm9211-016-p32s2w9">
 <m.rf>m#m-vesm9211-016-p32s2w9</m.rf>
 <afun>Atr</afun>
-<is_member>1</is_member>
 <ord>9</ord>
 <clause_number>1</clause_number>
 <children>
@@ -3592,13 +3592,13 @@
 <LM id="a-vesm9211-016-p32s2w12">
 <m.rf>m#m-vesm9211-016-p32s2w12</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>12</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-vesm9211-016-p32s2w13">
 <m.rf>m#m-vesm9211-016-p32s2w13</m.rf>
 <afun>Atr</afun>
-<is_member>1</is_member>
 <ord>13</ord>
 <clause_number>1</clause_number>
 <children>

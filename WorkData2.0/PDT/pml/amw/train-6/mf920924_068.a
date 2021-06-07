@@ -1259,13 +1259,13 @@
 <LM id="a-mf920924-068-p2s8w18">
 <m.rf>m#m-mf920924-068-p2s8w18</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>18</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-mf920924-068-p2s8w24">
 <m.rf>m#m-mf920924-068-p2s8w24</m.rf>
 <afun>Coord</afun>
-<is_member>1</is_member>
 <ord>24</ord>
 <clause_number>1</clause_number>
 <children>

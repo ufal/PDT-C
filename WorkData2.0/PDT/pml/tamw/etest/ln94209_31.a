@@ -857,13 +857,13 @@
 <LM id="a-ln94209-31-p3s5w10">
 <m.rf>m#m-ln94209-31-p3s5w10</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>10</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-ln94209-31-p3s5w11">
 <m.rf>m#m-ln94209-31-p3s5w11</m.rf>
 <afun>Adv</afun>
-<is_member>1</is_member>
 <ord>11</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -872,13 +872,13 @@
 <LM id="a-ln94209-31-p3s5w13">
 <m.rf>m#m-ln94209-31-p3s5w13</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>13</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-ln94209-31-p3s5w14">
 <m.rf>m#m-ln94209-31-p3s5w14</m.rf>
 <afun>Adv</afun>
-<is_member>1</is_member>
 <ord>14</ord>
 <clause_number>1</clause_number>
 </LM>

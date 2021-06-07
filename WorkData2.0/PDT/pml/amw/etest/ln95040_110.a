@@ -336,6 +336,7 @@
 <LM id="a-ln95040-110-p2s2w24">
 <m.rf>m#m-ln95040-110-p2s2w24</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>23</ord>
 <clause_number>2</clause_number>
 <children>
@@ -354,7 +355,6 @@
 <LM id="a-ln95040-110-p2s2w25">
 <m.rf>m#m-ln95040-110-p2s2w25</m.rf>
 <afun>Adv</afun>
-<is_member>1</is_member>
 <ord>24</ord>
 <clause_number>2</clause_number>
 <children>

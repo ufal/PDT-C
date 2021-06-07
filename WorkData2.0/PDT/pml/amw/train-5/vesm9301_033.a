@@ -489,13 +489,13 @@
 <LM id="a-vesm9301-033-p3s1w22">
 <m.rf>m#m-vesm9301-033-p3s1w22</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>22</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-vesm9301-033-p3s1w23">
 <m.rf>m#m-vesm9301-033-p3s1w23</m.rf>
 <afun>Atr</afun>
-<is_member>1</is_member>
 <ord>23</ord>
 <clause_number>1</clause_number>
 <children>

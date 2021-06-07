@@ -372,13 +372,13 @@
 <LM id="a-lnd94101-100-p1s3w33">
 <m.rf>m#m-lnd94101-100-p1s3w33</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>32</ord>
 <clause_number>4</clause_number>
 <children>
 <LM id="a-lnd94101-100-p1s3w34">
 <m.rf>m#m-lnd94101-100-p1s3w34</m.rf>
 <afun>AtrAdv</afun>
-<is_member>1</is_member>
 <ord>33</ord>
 <clause_number>4</clause_number>
 </LM>
@@ -387,13 +387,13 @@
 <LM id="a-lnd94101-100-p1s3w36">
 <m.rf>m#m-lnd94101-100-p1s3w36</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>35</ord>
 <clause_number>4</clause_number>
 <children>
 <LM id="a-lnd94101-100-p1s3w37">
 <m.rf>m#m-lnd94101-100-p1s3w37</m.rf>
 <afun>AtrAdv</afun>
-<is_member>1</is_member>
 <ord>36</ord>
 <clause_number>4</clause_number>
 </LM>
@@ -772,13 +772,13 @@
 <LM id="a-lnd94101-100-p1s4w48">
 <m.rf>m#m-lnd94101-100-p1s4w48</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>48</ord>
 <clause_number>4</clause_number>
 <children>
 <LM id="a-lnd94101-100-p1s4w49">
 <m.rf>m#m-lnd94101-100-p1s4w49</m.rf>
 <afun>ExD</afun>
-<is_member>1</is_member>
 <ord>49</ord>
 <clause_number>4</clause_number>
 </LM>
@@ -787,13 +787,13 @@
 <LM id="a-lnd94101-100-p1s4w50">
 <m.rf>m#m-lnd94101-100-p1s4w50</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>50</ord>
 <clause_number>4</clause_number>
 <children>
 <LM id="a-lnd94101-100-p1s4w51">
 <m.rf>m#m-lnd94101-100-p1s4w51</m.rf>
 <afun>ExD</afun>
-<is_member>1</is_member>
 <ord>51</ord>
 <clause_number>4</clause_number>
 <children>
@@ -1375,13 +1375,13 @@
 <LM id="a-lnd94101-100-p1s7w1">
 <m.rf>m#m-lnd94101-100-p1s7w1</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>1</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-lnd94101-100-p1s7w3">
 <m.rf>m#m-lnd94101-100-p1s7w3</m.rf>
 <afun>ExD</afun>
-<is_member>1</is_member>
 <ord>3</ord>
 <clause_number>1</clause_number>
 <children>
@@ -1398,13 +1398,13 @@
 <LM id="a-lnd94101-100-p1s7w4">
 <m.rf>m#m-lnd94101-100-p1s7w4</m.rf>
 <afun>AuxC</afun>
+<is_member>1</is_member>
 <ord>4</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-lnd94101-100-p1s7w10">
 <m.rf>m#m-lnd94101-100-p1s7w10</m.rf>
 <afun>ExD</afun>
-<is_member>1</is_member>
 <ord>10</ord>
 <clause_number>1</clause_number>
 <children>

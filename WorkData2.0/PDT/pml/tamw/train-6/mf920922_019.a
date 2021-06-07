@@ -864,13 +864,13 @@
 <LM id="a-mf920922-019-p2s4w12">
 <m.rf>m#m-mf920922-019-p2s4w12</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>12</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-mf920922-019-p2s4w14">
 <m.rf>m#m-mf920922-019-p2s4w14</m.rf>
 <afun>Atr</afun>
-<is_member>1</is_member>
 <ord>14</ord>
 <clause_number>1</clause_number>
 <children>
@@ -893,13 +893,13 @@
 <LM id="a-mf920922-019-p2s4w18">
 <m.rf>m#m-mf920922-019-p2s4w18</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>18</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-mf920922-019-p2s4w22">
 <m.rf>m#m-mf920922-019-p2s4w22</m.rf>
 <afun>Coord</afun>
-<is_member>1</is_member>
 <ord>22</ord>
 <clause_number>1</clause_number>
 <children>

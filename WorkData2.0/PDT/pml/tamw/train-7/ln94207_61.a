@@ -330,13 +330,13 @@
 <LM id="a-ln94207-61-p2s1Cw26">
 <m.rf>m#m-ln94207-61-p2s1Cw26</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>26</ord>
 <clause_number>3</clause_number>
 <children>
 <LM id="a-ln94207-61-p2s1Cw27">
 <m.rf>m#m-ln94207-61-p2s1Cw27</m.rf>
 <afun>ExD</afun>
-<is_member>1</is_member>
 <ord>27</ord>
 <clause_number>3</clause_number>
 </LM>
@@ -360,13 +360,13 @@
 <LM id="a-ln94207-61-p2s1Cw30">
 <m.rf>m#m-ln94207-61-p2s1Cw30</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>30</ord>
 <clause_number>3</clause_number>
 <children>
 <LM id="a-ln94207-61-p2s1Cw31">
 <m.rf>m#m-ln94207-61-p2s1Cw31</m.rf>
 <afun>ExD</afun>
-<is_member>1</is_member>
 <ord>31</ord>
 <clause_number>3</clause_number>
 </LM>
@@ -375,13 +375,13 @@
 <LM id="a-ln94207-61-p2s1Cw32">
 <m.rf>m#m-ln94207-61-p2s1Cw32</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>32</ord>
 <clause_number>3</clause_number>
 <children>
 <LM id="a-ln94207-61-p2s1Cw33">
 <m.rf>m#m-ln94207-61-p2s1Cw33</m.rf>
 <afun>ExD</afun>
-<is_member>1</is_member>
 <ord>33</ord>
 <clause_number>3</clause_number>
 </LM>
@@ -390,13 +390,13 @@
 <LM id="a-ln94207-61-p2s1Cw34">
 <m.rf>m#m-ln94207-61-p2s1Cw34</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>34</ord>
 <clause_number>3</clause_number>
 <children>
 <LM id="a-ln94207-61-p2s1Cw35">
 <m.rf>m#m-ln94207-61-p2s1Cw35</m.rf>
 <afun>ExD</afun>
-<is_member>1</is_member>
 <ord>35</ord>
 <clause_number>3</clause_number>
 </LM>
@@ -405,13 +405,13 @@
 <LM id="a-ln94207-61-p2s1Cw36">
 <m.rf>m#m-ln94207-61-p2s1Cw36</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>36</ord>
 <clause_number>3</clause_number>
 <children>
 <LM id="a-ln94207-61-p2s1Cw38">
 <m.rf>m#m-ln94207-61-p2s1Cw38</m.rf>
 <afun>ExD</afun>
-<is_member>1</is_member>
 <ord>38</ord>
 <clause_number>3</clause_number>
 <children>
@@ -556,13 +556,13 @@
 <LM id="a-ln94207-61-p2s2w17">
 <m.rf>m#m-ln94207-61-p2s2w17</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>17</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-ln94207-61-p2s2w18">
 <m.rf>m#m-ln94207-61-p2s2w18</m.rf>
 <afun>ExD</afun>
-<is_member>1</is_member>
 <ord>18</ord>
 <clause_number>1</clause_number>
 <children>

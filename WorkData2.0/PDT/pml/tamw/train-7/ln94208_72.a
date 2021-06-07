@@ -219,13 +219,13 @@
 <LM id="a-ln94208-72-p2s1w25">
 <m.rf>m#m-ln94208-72-p2s1w25</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>25</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-ln94208-72-p2s1w27">
 <m.rf>m#m-ln94208-72-p2s1w27</m.rf>
 <afun>Atr</afun>
-<is_member>1</is_member>
 <ord>27</ord>
 <clause_number>1</clause_number>
 <children>
@@ -256,13 +256,13 @@
 <LM id="a-ln94208-72-p2s1w31">
 <m.rf>m#m-ln94208-72-p2s1w31</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>31</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-ln94208-72-p2s1w32">
 <m.rf>m#m-ln94208-72-p2s1w32</m.rf>
 <afun>Atr</afun>
-<is_member>1</is_member>
 <ord>32</ord>
 <clause_number>1</clause_number>
 <children>

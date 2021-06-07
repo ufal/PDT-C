@@ -738,6 +738,7 @@
 <LM id="a-ln94205-111-p2s5w16">
 <m.rf>m#m-ln94205-111-p2s5w16</m.rf>
 <afun>AuxC</afun>
+<is_member>1</is_member>
 <ord>16</ord>
 <clause_number>2</clause_number>
 <children>
@@ -750,7 +751,6 @@
 <LM id="a-ln94205-111-p2s5w19">
 <m.rf>m#m-ln94205-111-p2s5w19</m.rf>
 <afun>ExD</afun>
-<is_member>1</is_member>
 <ord>18</ord>
 <clause_number>2</clause_number>
 <children>

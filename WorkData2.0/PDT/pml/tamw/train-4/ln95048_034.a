@@ -671,13 +671,13 @@
 <LM id="a-ln95048-034-p2s5w2">
 <m.rf>m#m-ln95048-034-p2s5w2</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>2</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-ln95048-034-p2s5w3">
 <m.rf>m#m-ln95048-034-p2s5w3</m.rf>
 <afun>ExD</afun>
-<is_member>1</is_member>
 <ord>3</ord>
 <clause_number>1</clause_number>
 <children>
@@ -941,13 +941,13 @@
 <LM id="a-ln95048-034-p2s6w11">
 <m.rf>m#m-ln95048-034-p2s6w11</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>11</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-ln95048-034-p2s6w14">
 <m.rf>m#m-ln95048-034-p2s6w14</m.rf>
 <afun>ExD</afun>
-<is_member>1</is_member>
 <ord>14</ord>
 <clause_number>1</clause_number>
 <children>
@@ -4029,13 +4029,13 @@
 <LM id="a-ln95048-034-p3s19w35">
 <m.rf>m#m-ln95048-034-p3s19w35</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>35</ord>
 <clause_number>2</clause_number>
 <children>
 <LM id="a-ln95048-034-p3s19w37">
 <m.rf>m#m-ln95048-034-p3s19w37</m.rf>
 <afun>Coord</afun>
-<is_member>1</is_member>
 <ord>37</ord>
 <clause_number>2</clause_number>
 <children>

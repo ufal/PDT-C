@@ -886,6 +886,7 @@
 <LM id="a-ln94204-83-p3s2w33">
 <m.rf>m#m-ln94204-83-p3s2w33</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>33</ord>
 <clause_number>3</clause_number>
 <children>
@@ -898,7 +899,6 @@
 <LM id="a-ln94204-83-p3s2w34">
 <m.rf>m#m-ln94204-83-p3s2w34</m.rf>
 <afun>Atr</afun>
-<is_member>1</is_member>
 <ord>34</ord>
 <clause_number>3</clause_number>
 <children>

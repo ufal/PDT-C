@@ -798,13 +798,13 @@
 <LM id="a-ln95043-020-p3s3w10">
 <m.rf>m#m-ln95043-020-p3s3w10</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>10</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-ln95043-020-p3s3w11">
 <m.rf>m#m-ln95043-020-p3s3w11</m.rf>
 <afun>Atr</afun>
-<is_member>1</is_member>
 <ord>11</ord>
 <clause_number>1</clause_number>
 <children>

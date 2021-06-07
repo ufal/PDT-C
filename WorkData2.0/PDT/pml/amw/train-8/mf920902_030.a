@@ -830,6 +830,7 @@
 <LM id="a-mf920902-030-p2s5w3">
 <m.rf>m#m-mf920902-030-p2s5w3</m.rf>
 <afun>AuxC</afun>
+<is_member>1</is_member>
 <ord>3</ord>
 <clause_number>1</clause_number>
 <children>
@@ -842,7 +843,6 @@
 <LM id="a-mf920902-030-p2s5w9">
 <m.rf>m#m-mf920902-030-p2s5w9</m.rf>
 <afun>ExD</afun>
-<is_member>1</is_member>
 <ord>9</ord>
 <clause_number>1</clause_number>
 <children>

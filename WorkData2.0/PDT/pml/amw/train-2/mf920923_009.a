@@ -502,13 +502,13 @@
 <LM id="a-mf920923-009-p2s1w50">
 <m.rf>m#m-mf920923-009-p2s1w50</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>50</ord>
 <clause_number>5</clause_number>
 <children>
 <LM id="a-mf920923-009-p2s1w52">
 <m.rf>m#m-mf920923-009-p2s1w52</m.rf>
 <afun>Adv</afun>
-<is_member>1</is_member>
 <ord>52</ord>
 <clause_number>5</clause_number>
 <children>

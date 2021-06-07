@@ -1632,13 +1632,13 @@
 <LM id="a-vesm9212-035-p3s5w25">
 <m.rf>m#m-vesm9212-035-p3s5w25</m.rf>
 <afun>AuxC</afun>
+<is_member>1</is_member>
 <ord>25</ord>
 <clause_number>4</clause_number>
 <children>
 <LM id="a-vesm9212-035-p3s5w29">
 <m.rf>m#m-vesm9212-035-p3s5w29</m.rf>
 <afun>Adv</afun>
-<is_member>1</is_member>
 <ord>29</ord>
 <clause_number>4</clause_number>
 <children>

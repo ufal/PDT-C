@@ -377,13 +377,13 @@
 <LM id="a-ln94203-124-p2s2w4">
 <m.rf>m#m-ln94203-124-p2s2w4</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>4</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-ln94203-124-p2s2w5">
 <m.rf>m#m-ln94203-124-p2s2w5</m.rf>
 <afun>Adv</afun>
-<is_member>1</is_member>
 <ord>5</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -392,13 +392,13 @@
 <LM id="a-ln94203-124-p2s2w6">
 <m.rf>m#m-ln94203-124-p2s2w6</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>6</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-ln94203-124-p2s2w7">
 <m.rf>m#m-ln94203-124-p2s2w7</m.rf>
 <afun>Adv</afun>
-<is_member>1</is_member>
 <ord>7</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -2574,13 +2574,13 @@
 <LM id="a-ln94203-124-p4s7w3">
 <m.rf>m#m-ln94203-124-p4s7w3</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>3</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-ln94203-124-p4s7w4">
 <m.rf>m#m-ln94203-124-p4s7w4</m.rf>
 <afun>Obj</afun>
-<is_member>1</is_member>
 <ord>4</ord>
 <clause_number>1</clause_number>
 <children>
@@ -2619,13 +2619,13 @@
 <LM id="a-ln94203-124-p4s7w11">
 <m.rf>m#m-ln94203-124-p4s7w11</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>11</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-ln94203-124-p4s7w13">
 <m.rf>m#m-ln94203-124-p4s7w13</m.rf>
 <afun>Obj</afun>
-<is_member>1</is_member>
 <ord>13</ord>
 <clause_number>1</clause_number>
 <children>
@@ -2886,13 +2886,13 @@
 <LM id="a-ln94203-124-p4s8w12">
 <m.rf>m#m-ln94203-124-p4s8w12</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>12</ord>
 <clause_number>3</clause_number>
 <children>
 <LM id="a-ln94203-124-p4s8w13">
 <m.rf>m#m-ln94203-124-p4s8w13</m.rf>
 <afun>Adv</afun>
-<is_member>1</is_member>
 <ord>13</ord>
 <clause_number>3</clause_number>
 <children>
@@ -2909,13 +2909,13 @@
 <LM id="a-ln94203-124-p4s8w16">
 <m.rf>m#m-ln94203-124-p4s8w16</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>16</ord>
 <clause_number>3</clause_number>
 <children>
 <LM id="a-ln94203-124-p4s8w17">
 <m.rf>m#m-ln94203-124-p4s8w17</m.rf>
 <afun>Adv</afun>
-<is_member>1</is_member>
 <ord>17</ord>
 <clause_number>3</clause_number>
 </LM>

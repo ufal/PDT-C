@@ -376,13 +376,13 @@
 <LM id="a-lnd94101-986-p1s2w37">
 <m.rf>m#m-lnd94101-986-p1s2w37</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>37</ord>
 <clause_number>3</clause_number>
 <children>
 <LM id="a-lnd94101-986-p1s2w38">
 <m.rf>m#m-lnd94101-986-p1s2w38</m.rf>
 <afun>AdvAtr</afun>
-<is_member>1</is_member>
 <ord>38</ord>
 <clause_number>3</clause_number>
 <children>

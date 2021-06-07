@@ -1758,13 +1758,13 @@
 <LM id="a-ln95048-017-p3s4w16">
 <m.rf>m#m-ln95048-017-p3s4w16</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>16</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-ln95048-017-p3s4w17">
 <m.rf>m#m-ln95048-017-p3s4w17</m.rf>
 <afun>ExD</afun>
-<is_member>1</is_member>
 <ord>17</ord>
 <clause_number>1</clause_number>
 </LM>
