@@ -566,19 +566,19 @@
 </LM>
 </children>
 </LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
 <LM id="a-lnd91303-033-p3s2w23">
 <m.rf>m#m-lnd91303-033-p3s2w23</m.rf>
 <afun>AuxX</afun>
 <ord>23</ord>
 <clause_number>0</clause_number>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-</children>
 </LM>
 </children>
 </LM>
@@ -1514,6 +1514,7 @@
 <LM id="a-lnd91303-033-p4s3w99">
 <m.rf>m#m-lnd91303-033-p4s3w99</m.rf>
 <afun>Atr</afun>
+<is_parenthesis_root>1</is_parenthesis_root>
 <ord>98</ord>
 <clause_number>10</clause_number>
 <children>
@@ -1526,7 +1527,6 @@
 <LM id="a-lnd91303-033-p4s3w98">
 <m.rf>m#m-lnd91303-033-p4s3w98</m.rf>
 <afun>Adv</afun>
-<is_parenthesis_root>1</is_parenthesis_root>
 <ord>97</ord>
 <clause_number>10</clause_number>
 </LM>
