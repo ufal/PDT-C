@@ -4520,7 +4520,7 @@
 <afun>Atr</afun>
 <ord>13</ord>
 <clause_number>1</clause_number>
-<children>
+</LM>
 <LM id="a-vesm9303-038-p9s2w14">
 <m.rf>m#m-vesm9303-038-p9s2w14</m.rf>
 <afun>AuxG</afun>
@@ -4529,12 +4529,9 @@
 </LM>
 <LM id="a-vesm9303-038-p9s2w15">
 <m.rf>m#m-vesm9303-038-p9s2w15</m.rf>
-<afun>AuxT</afun>
-<is_parenthesis_root>1</is_parenthesis_root>
+<afun>Atr</afun>
 <ord>15</ord>
 <clause_number>1</clause_number>
-</LM>
-</children>
 </LM>
 </children>
 </LM>

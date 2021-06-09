@@ -1014,8 +1014,8 @@
 </LM>
 <LM id="a-ln95046-018-p3s3w16">
 <m.rf>m#m-ln95046-018-p3s3w16</m.rf>
-<afun>Pred</afun>
-<is_parenthesis_root>1</is_parenthesis_root>
+<afun>Obj</afun>
+<is_member>1</is_member>
 <ord>16</ord>
 <clause_number>3</clause_number>
 <children>

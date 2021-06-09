@@ -4194,13 +4194,6 @@
 <ord>10</ord>
 <clause_number>1</clause_number>
 <children>
-<LM id="a-ln94207-76-p4s1w1">
-<m.rf>m#m-ln94207-76-p4s1w1</m.rf>
-<afun>AuxY</afun>
-<is_parenthesis_root>1</is_parenthesis_root>
-<ord>1</ord>
-<clause_number>1</clause_number>
-</LM>
 <LM id="a-ln94207-76-p4s1w2">
 <m.rf>m#m-ln94207-76-p4s1w2</m.rf>
 <afun>AuxY</afun>
@@ -4208,6 +4201,12 @@
 <ord>2</ord>
 <clause_number>1</clause_number>
 <children>
+<LM id="a-ln94207-76-p4s1w1">
+<m.rf>m#m-ln94207-76-p4s1w1</m.rf>
+<afun>AuxY</afun>
+<ord>1</ord>
+<clause_number>1</clause_number>
+</LM>
 <LM id="a-ln94207-76-p4s1w3">
 <m.rf>m#m-ln94207-76-p4s1w3</m.rf>
 <afun>AuxX</afun>

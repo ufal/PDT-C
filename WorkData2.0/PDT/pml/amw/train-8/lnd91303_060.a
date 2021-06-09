@@ -2944,20 +2944,9 @@
 <ord>7</ord>
 <clause_number>1</clause_number>
 <children>
-<LM id="a-lnd91303-060-p5s2w6">
-<m.rf>m#m-lnd91303-060-p5s2w6</m.rf>
-<afun>Atr</afun>
-<ord>6</ord>
-<clause_number>1</clause_number>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
 <LM id="a-lnd91303-060-p5s2w4">
 <m.rf>m#m-lnd91303-060-p5s2w4</m.rf>
-<afun>Pred</afun>
-<is_parenthesis_root>1</is_parenthesis_root>
+<afun>Adv</afun>
 <ord>4</ord>
 <clause_number>2</clause_number>
 <children>
@@ -2966,6 +2955,16 @@
 <afun>Obj</afun>
 <ord>5</ord>
 <clause_number>2</clause_number>
+</LM>
+</children>
+</LM>
+<LM id="a-lnd91303-060-p5s2w6">
+<m.rf>m#m-lnd91303-060-p5s2w6</m.rf>
+<afun>Atr</afun>
+<ord>6</ord>
+<clause_number>1</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

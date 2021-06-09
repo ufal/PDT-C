@@ -10692,9 +10692,16 @@
 <ord>2</ord>
 <clause_number>1</clause_number>
 </LM>
+<LM id="a-ln94200-127-p29s3w8">
+<m.rf>m#m-ln94200-127-p29s3w8</m.rf>
+<afun>Apos</afun>
+<ord>8</ord>
+<clause_number>2</clause_number>
+<children>
 <LM id="a-ln94200-127-p29s3w5">
 <m.rf>m#m-ln94200-127-p29s3w5</m.rf>
 <afun>Obj</afun>
+<is_member>1</is_member>
 <ord>5</ord>
 <clause_number>1</clause_number>
 <children>
@@ -10704,28 +10711,24 @@
 <ord>4</ord>
 <clause_number>1</clause_number>
 </LM>
+</children>
+</LM>
 <LM id="a-ln94200-127-p29s3w6">
 <m.rf>m#m-ln94200-127-p29s3w6</m.rf>
 <afun>AuxX</afun>
 <ord>6</ord>
 <clause_number>0</clause_number>
 </LM>
-<LM id="a-ln94200-127-p29s3w8">
-<m.rf>m#m-ln94200-127-p29s3w8</m.rf>
-<afun>Pred</afun>
-<is_parenthesis_root>1</is_parenthesis_root>
-<ord>8</ord>
-<clause_number>2</clause_number>
-<children>
 <LM id="a-ln94200-127-p29s3w7">
 <m.rf>m#m-ln94200-127-p29s3w7</m.rf>
-<afun>Sb</afun>
+<afun>AuxY</afun>
 <ord>7</ord>
 <clause_number>2</clause_number>
 </LM>
 <LM id="a-ln94200-127-p29s3w9">
 <m.rf>m#m-ln94200-127-p29s3w9</m.rf>
-<afun>ExD</afun>
+<afun>Obj</afun>
+<is_member>1</is_member>
 <ord>9</ord>
 <clause_number>2</clause_number>
 <children>
@@ -10734,8 +10737,6 @@
 <afun>Atr</afun>
 <ord>10</ord>
 <clause_number>2</clause_number>
-</LM>
-</children>
 </LM>
 </children>
 </LM>
