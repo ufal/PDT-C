@@ -62,9 +62,16 @@
 <s.rf>m#m-ln95040-074-p2s1</s.rf>
 <ord>0</ord>
 <children>
+<LM id="a-ln95040-074-p2s1w15">
+<m.rf>m#m-ln95040-074-p2s1w15</m.rf>
+<afun>Coord</afun>
+<ord>15</ord>
+<clause_number>0</clause_number>
+<children>
 <LM id="a-ln95040-074-p2s1w2">
 <m.rf>m#m-ln95040-074-p2s1w2</m.rf>
 <afun>Pred</afun>
+<is_member>1</is_member>
 <ord>2</ord>
 <clause_number>1</clause_number>
 <children>
@@ -158,19 +165,15 @@
 </LM>
 </children>
 </LM>
+</children>
+</LM>
 <LM id="a-ln95040-074-p2s1w16">
 <m.rf>m#m-ln95040-074-p2s1w16</m.rf>
 <afun>Pred</afun>
-<is_parenthesis_root>1</is_parenthesis_root>
+<is_member>1</is_member>
 <ord>16</ord>
 <clause_number>3</clause_number>
 <children>
-<LM id="a-ln95040-074-p2s1w15">
-<m.rf>m#m-ln95040-074-p2s1w15</m.rf>
-<afun>AuxG</afun>
-<ord>15</ord>
-<clause_number>0</clause_number>
-</LM>
 <LM id="a-ln95040-074-p2s1w17">
 <m.rf>m#m-ln95040-074-p2s1w17</m.rf>
 <afun>Pnom</afun>

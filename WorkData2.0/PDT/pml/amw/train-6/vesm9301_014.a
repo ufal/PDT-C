@@ -2692,6 +2692,12 @@
 <ord>32</ord>
 <clause_number>2</clause_number>
 <children>
+<LM id="a-vesm9301-014-p7s2w30">
+<m.rf>m#m-vesm9301-014-p7s2w30</m.rf>
+<afun>AuxG</afun>
+<ord>30</ord>
+<clause_number>0</clause_number>
+</LM>
 <LM id="a-vesm9301-014-p7s2w31">
 <m.rf>m#m-vesm9301-014-p7s2w31</m.rf>
 <afun>Adv</afun>
@@ -2720,12 +2726,6 @@
 </LM>
 </children>
 </LM>
-<LM id="a-vesm9301-014-p7s2w30">
-<m.rf>m#m-vesm9301-014-p7s2w30</m.rf>
-<afun>AuxG</afun>
-<ord>30</ord>
-<clause_number>0</clause_number>
-</LM>
 </children>
 </LM>
 </children>
@@ -2735,7 +2735,7 @@
 <LM id="a-vesm9301-014-p7s2w40">
 <m.rf>m#m-vesm9301-014-p7s2w40</m.rf>
 <afun>Pred</afun>
-<is_parenthesis_root>1</is_parenthesis_root>
+<is_member>1</is_member>
 <ord>40</ord>
 <clause_number>3</clause_number>
 <children>

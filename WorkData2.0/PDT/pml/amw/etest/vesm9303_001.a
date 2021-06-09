@@ -3676,8 +3676,8 @@
 </LM>
 <LM id="a-vesm9303-001-p6s3w21">
 <m.rf>m#m-vesm9303-001-p6s3w21</m.rf>
-<afun>Atr</afun>
-<is_parenthesis_root>1</is_parenthesis_root>
+<afun>Pred</afun>
+<is_member>1</is_member>
 <ord>21</ord>
 <clause_number>3</clause_number>
 <children>
@@ -3727,7 +3727,7 @@
 </LM>
 <LM id="a-vesm9303-001-p6s3w29">
 <m.rf>m#m-vesm9303-001-p6s3w29</m.rf>
-<afun>Atr</afun>
+<afun>Pred</afun>
 <is_member>1</is_member>
 <ord>29</ord>
 <clause_number>4</clause_number>
