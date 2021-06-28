@@ -65,6 +65,7 @@
       <member name="afun" type="a-afun.type" required="1"/>
       <member name="is_member" type="bool.type"/>
       <member name="is_parenthesis_root" type="bool.type"/>
+      <member name="is_extra_dependency" type="bool.type"/>
       <member name="ord" role="#ORDER" required="1"><cdata format="nonNegativeInteger"/></member>
       <member name="clause_number"><cdata format="nonNegativeInteger"/></member>
       <member name="children" role="#CHILDNODES">
@@ -93,6 +94,9 @@
       <value>AuxP</value>
       <value>Apos</value>
       <value>ExD</value>
+      <value>Denom</value>
+      <value>Vocat</value>
+      <value>Partl</value>
       <value>AuxC</value>
       <value>Atv</value>
       <value>AtvV</value>
