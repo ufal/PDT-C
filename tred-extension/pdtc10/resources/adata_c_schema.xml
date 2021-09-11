@@ -71,6 +71,7 @@
       <member name="children" role="#CHILDNODES">
         <list type="a-node.type" ordered="1"/>
       </member>
+      <member name="comments" type="a-comments.type"/>
     </structure>
   </type>
   
@@ -106,6 +107,25 @@
       <value>AuxG</value>
       <value>AuxK</value>
       <value>AuxX</value>
+    </choice>
+  </type>
+
+  <type name="a-comments.type">
+    <list type="a-comment.type"/>
+  </type>
+
+  <type name="a-comment.type">
+    <structure>
+      <member name="type" required="1" type="a-comment-type.type"
+              as_attribute="1"/>
+      <member name="text"><cdata format="any"/></member>
+    </structure>
+  </type>
+
+  <type name="a-comment-type.type">
+    <choice>
+      <value>T-layer</value>
+      <value>Other</value>
     </choice>
   </type>
 
