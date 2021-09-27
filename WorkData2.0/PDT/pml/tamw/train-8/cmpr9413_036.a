@@ -3961,6 +3961,7 @@
 <LM id="a-cmpr9413-036-p14s2w33">
 <m.rf>m#m-cmpr9413-036-p14s2w33</m.rf>
 <afun>AuxC</afun>
+<is_parenthesis_root>1</is_parenthesis_root>
 <ord>33</ord>
 <clause_number>5</clause_number>
 <children>
@@ -3973,7 +3974,6 @@
 <LM id="a-cmpr9413-036-p14s2w36">
 <m.rf>m#m-cmpr9413-036-p14s2w36</m.rf>
 <afun>Pred</afun>
-<is_parenthesis_root>1</is_parenthesis_root>
 <ord>36</ord>
 <clause_number>5</clause_number>
 <children>

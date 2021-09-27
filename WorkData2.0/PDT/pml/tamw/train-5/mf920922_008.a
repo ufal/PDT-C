@@ -268,6 +268,7 @@
 <LM id="a-mf920922-008-p2s3w8">
 <m.rf>m#m-mf920922-008-p2s3w8</m.rf>
 <afun>AuxC</afun>
+<is_parenthesis_root>1</is_parenthesis_root>
 <ord>8</ord>
 <clause_number>1</clause_number>
 <children>
@@ -286,7 +287,6 @@
 <LM id="a-mf920922-008-p2s3w9">
 <m.rf>m#m-mf920922-008-p2s3w9</m.rf>
 <afun>ExD</afun>
-<is_parenthesis_root>1</is_parenthesis_root>
 <ord>9</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -4572,6 +4572,7 @@
 <LM id="a-mf920922-008-p4s13w21">
 <m.rf>m#m-mf920922-008-p4s13w21</m.rf>
 <afun>AuxP</afun>
+<is_parenthesis_root>1</is_parenthesis_root>
 <ord>21</ord>
 <clause_number>1</clause_number>
 <children>
@@ -4584,7 +4585,6 @@
 <LM id="a-mf920922-008-p4s13w22">
 <m.rf>m#m-mf920922-008-p4s13w22</m.rf>
 <afun>ExD</afun>
-<is_parenthesis_root>1</is_parenthesis_root>
 <ord>22</ord>
 <clause_number>1</clause_number>
 <children>

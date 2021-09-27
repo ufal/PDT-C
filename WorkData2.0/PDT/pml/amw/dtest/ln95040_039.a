@@ -333,6 +333,7 @@
 <LM id="a-ln95040-039-p2s1Bw34">
 <m.rf>m#m-ln95040-039-p2s1Bw34</m.rf>
 <afun>AuxC</afun>
+<is_parenthesis_root>1</is_parenthesis_root>
 <ord>34</ord>
 <clause_number>4</clause_number>
 <children>
@@ -345,7 +346,6 @@
 <LM id="a-ln95040-039-p2s1Bw32">
 <m.rf>m#m-ln95040-039-p2s1Bw32</m.rf>
 <afun>Adv</afun>
-<is_parenthesis_root>1</is_parenthesis_root>
 <ord>32</ord>
 <clause_number>4</clause_number>
 <children>

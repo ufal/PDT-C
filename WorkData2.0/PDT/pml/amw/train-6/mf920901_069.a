@@ -2873,6 +2873,7 @@
 <LM id="a-mf920901-069-p10s3w20">
 <m.rf>m#m-mf920901-069-p10s3w20</m.rf>
 <afun>AuxC</afun>
+<is_parenthesis_root>1</is_parenthesis_root>
 <ord>20</ord>
 <clause_number>3</clause_number>
 <children>
@@ -2885,7 +2886,6 @@
 <LM id="a-mf920901-069-p10s3w23">
 <m.rf>m#m-mf920901-069-p10s3w23</m.rf>
 <afun>ExD</afun>
-<is_parenthesis_root>1</is_parenthesis_root>
 <ord>23</ord>
 <clause_number>3</clause_number>
 <children>

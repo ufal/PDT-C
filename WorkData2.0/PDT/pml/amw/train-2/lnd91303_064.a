@@ -1129,6 +1129,7 @@
 <LM id="a-lnd91303-064-p3s2w8">
 <m.rf>m#m-lnd91303-064-p3s2w8</m.rf>
 <afun>AuxP</afun>
+<is_parenthesis_root>1</is_parenthesis_root>
 <ord>8</ord>
 <clause_number>1</clause_number>
 <children>
@@ -1141,7 +1142,6 @@
 <LM id="a-lnd91303-064-p3s2w9">
 <m.rf>m#m-lnd91303-064-p3s2w9</m.rf>
 <afun>Adv</afun>
-<is_parenthesis_root>1</is_parenthesis_root>
 <ord>9</ord>
 <clause_number>1</clause_number>
 <children>
@@ -3324,6 +3324,7 @@
 <LM id="a-lnd91303-064-p5s3w65">
 <m.rf>m#m-lnd91303-064-p5s3w65</m.rf>
 <afun>AuxC</afun>
+<is_parenthesis_root>1</is_parenthesis_root>
 <ord>65</ord>
 <clause_number>4</clause_number>
 <children>
@@ -3336,7 +3337,6 @@
 <LM id="a-lnd91303-064-p5s3w68">
 <m.rf>m#m-lnd91303-064-p5s3w68</m.rf>
 <afun>ExD</afun>
-<is_parenthesis_root>1</is_parenthesis_root>
 <ord>67</ord>
 <clause_number>4</clause_number>
 <children>
@@ -5129,6 +5129,7 @@
 <LM id="a-lnd91303-064-p7s4Bw42">
 <m.rf>m#m-lnd91303-064-p7s4Bw42</m.rf>
 <afun>AuxP</afun>
+<is_parenthesis_root>1</is_parenthesis_root>
 <ord>42</ord>
 <clause_number>3</clause_number>
 <children>
@@ -5141,7 +5142,6 @@
 <LM id="a-lnd91303-064-p7s4Bw43">
 <m.rf>m#m-lnd91303-064-p7s4Bw43</m.rf>
 <afun>Obj</afun>
-<is_parenthesis_root>1</is_parenthesis_root>
 <ord>43</ord>
 <clause_number>3</clause_number>
 </LM>
@@ -6390,6 +6390,7 @@
 <LM id="a-lnd91303-064-p11s1w8">
 <m.rf>m#m-lnd91303-064-p11s1w8</m.rf>
 <afun>AuxP</afun>
+<is_parenthesis_root>1</is_parenthesis_root>
 <ord>7</ord>
 <clause_number>1</clause_number>
 <children>
@@ -6402,7 +6403,6 @@
 <LM id="a-lnd91303-064-p11s1w9">
 <m.rf>m#m-lnd91303-064-p11s1w9</m.rf>
 <afun>Adv</afun>
-<is_parenthesis_root>1</is_parenthesis_root>
 <ord>8</ord>
 <clause_number>1</clause_number>
 <children>
@@ -8663,6 +8663,7 @@
 <LM id="a-lnd91303-064-p14s1w9">
 <m.rf>m#m-lnd91303-064-p14s1w9</m.rf>
 <afun>AuxP</afun>
+<is_parenthesis_root>1</is_parenthesis_root>
 <ord>8</ord>
 <clause_number>1</clause_number>
 <children>
@@ -8675,7 +8676,6 @@
 <LM id="a-lnd91303-064-p14s1w10">
 <m.rf>m#m-lnd91303-064-p14s1w10</m.rf>
 <afun>Adv</afun>
-<is_parenthesis_root>1</is_parenthesis_root>
 <ord>9</ord>
 <clause_number>1</clause_number>
 <children>

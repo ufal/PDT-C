@@ -7003,6 +7003,7 @@
 <LM id="a-mf920924-128-p7s9w49">
 <m.rf>m#m-mf920924-128-p7s9w49</m.rf>
 <afun>AuxC</afun>
+<is_parenthesis_root>1</is_parenthesis_root>
 <ord>49</ord>
 <clause_number>7</clause_number>
 <children>
@@ -7015,7 +7016,6 @@
 <LM id="a-mf920924-128-p7s9w47">
 <m.rf>m#m-mf920924-128-p7s9w47</m.rf>
 <afun>Adv</afun>
-<is_parenthesis_root>1</is_parenthesis_root>
 <ord>47</ord>
 <clause_number>7</clause_number>
 <children>

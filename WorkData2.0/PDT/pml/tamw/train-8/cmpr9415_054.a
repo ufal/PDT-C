@@ -67,6 +67,7 @@
 <LM id="a-cmpr9415-054-p2s1w9">
 <m.rf>m#m-cmpr9415-054-p2s1w9</m.rf>
 <afun>AuxP</afun>
+<is_parenthesis_root>1</is_parenthesis_root>
 <ord>9</ord>
 <clause_number>1</clause_number>
 <children>
@@ -79,7 +80,6 @@
 <LM id="a-cmpr9415-054-p2s1w10">
 <m.rf>m#m-cmpr9415-054-p2s1w10</m.rf>
 <afun>Adv</afun>
-<is_parenthesis_root>1</is_parenthesis_root>
 <ord>10</ord>
 <clause_number>1</clause_number>
 </LM>

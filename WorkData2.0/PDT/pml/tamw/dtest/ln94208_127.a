@@ -1084,13 +1084,13 @@
 <LM id="a-ln94208-127-p3s4w25">
 <m.rf>m#m-ln94208-127-p3s4w25</m.rf>
 <afun>AuxP</afun>
+<is_parenthesis_root>1</is_parenthesis_root>
 <ord>24</ord>
 <clause_number>3</clause_number>
 <children>
 <LM id="a-ln94208-127-p3s4w26">
 <m.rf>m#m-ln94208-127-p3s4w26</m.rf>
 <afun>Atr</afun>
-<is_parenthesis_root>1</is_parenthesis_root>
 <ord>25</ord>
 <clause_number>3</clause_number>
 </LM>

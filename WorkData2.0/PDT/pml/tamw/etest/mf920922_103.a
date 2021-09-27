@@ -911,6 +911,7 @@
 <LM id="a-mf920922-103-p2s7w11">
 <m.rf>m#m-mf920922-103-p2s7w11</m.rf>
 <afun>AuxP</afun>
+<is_parenthesis_root>1</is_parenthesis_root>
 <ord>11</ord>
 <clause_number>2</clause_number>
 <children>
@@ -929,7 +930,6 @@
 <LM id="a-mf920922-103-p2s7w12">
 <m.rf>m#m-mf920922-103-p2s7w12</m.rf>
 <afun>Adv</afun>
-<is_parenthesis_root>1</is_parenthesis_root>
 <ord>12</ord>
 <clause_number>2</clause_number>
 </LM>

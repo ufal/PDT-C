@@ -223,6 +223,7 @@
 <LM id="a-lnd94101-030-p1s2w12">
 <m.rf>m#m-lnd94101-030-p1s2w12</m.rf>
 <afun>AuxP</afun>
+<is_parenthesis_root>1</is_parenthesis_root>
 <ord>12</ord>
 <clause_number>1</clause_number>
 <children>
@@ -235,7 +236,6 @@
 <LM id="a-lnd94101-030-p1s2w14">
 <m.rf>m#m-lnd94101-030-p1s2w14</m.rf>
 <afun>Adv</afun>
-<is_parenthesis_root>1</is_parenthesis_root>
 <ord>14</ord>
 <clause_number>1</clause_number>
 <children>

@@ -1411,6 +1411,7 @@
 <LM id="a-vesm9303-015-p3s1w20">
 <m.rf>m#m-vesm9303-015-p3s1w20</m.rf>
 <afun>AuxP</afun>
+<is_parenthesis_root>1</is_parenthesis_root>
 <ord>20</ord>
 <clause_number>3</clause_number>
 <children>
@@ -1429,7 +1430,6 @@
 <LM id="a-vesm9303-015-p3s1w21">
 <m.rf>m#m-vesm9303-015-p3s1w21</m.rf>
 <afun>Adv</afun>
-<is_parenthesis_root>1</is_parenthesis_root>
 <ord>21</ord>
 <clause_number>3</clause_number>
 <children>

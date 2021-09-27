@@ -2475,6 +2475,7 @@
 <LM id="a-ln94204-144-p2s13w4">
 <m.rf>m#m-ln94204-144-p2s13w4</m.rf>
 <afun>AuxP</afun>
+<is_parenthesis_root>1</is_parenthesis_root>
 <ord>4</ord>
 <clause_number>1</clause_number>
 <children>
@@ -2487,7 +2488,6 @@
 <LM id="a-ln94204-144-p2s13w5">
 <m.rf>m#m-ln94204-144-p2s13w5</m.rf>
 <afun>Adv</afun>
-<is_parenthesis_root>1</is_parenthesis_root>
 <ord>5</ord>
 <clause_number>1</clause_number>
 <children>
@@ -6432,6 +6432,7 @@
 <LM id="a-ln94204-144-p9s5w5">
 <m.rf>m#m-ln94204-144-p9s5w5</m.rf>
 <afun>AuxP</afun>
+<is_parenthesis_root>1</is_parenthesis_root>
 <ord>5</ord>
 <clause_number>1</clause_number>
 <children>
@@ -6444,7 +6445,6 @@
 <LM id="a-ln94204-144-p9s5w6">
 <m.rf>m#m-ln94204-144-p9s5w6</m.rf>
 <afun>Adv</afun>
-<is_parenthesis_root>1</is_parenthesis_root>
 <ord>6</ord>
 <clause_number>1</clause_number>
 <children>

@@ -4640,6 +4640,7 @@
 <LM id="a-cmpr9406-038-p16s5w21">
 <m.rf>m#m-cmpr9406-038-p16s5w21</m.rf>
 <afun>AuxC</afun>
+<is_parenthesis_root>1</is_parenthesis_root>
 <ord>21</ord>
 <clause_number>2</clause_number>
 <children>
@@ -4652,7 +4653,6 @@
 <LM id="a-cmpr9406-038-p16s5w19">
 <m.rf>m#m-cmpr9406-038-p16s5w19</m.rf>
 <afun>Pred</afun>
-<is_parenthesis_root>1</is_parenthesis_root>
 <ord>19</ord>
 <clause_number>2</clause_number>
 <children>
@@ -6161,6 +6161,7 @@
 <LM id="a-cmpr9406-038-p20s5w27">
 <m.rf>m#m-cmpr9406-038-p20s5w27</m.rf>
 <afun>AuxP</afun>
+<is_parenthesis_root>1</is_parenthesis_root>
 <ord>27</ord>
 <clause_number>3</clause_number>
 <children>
@@ -6173,7 +6174,6 @@
 <LM id="a-cmpr9406-038-p20s5w28">
 <m.rf>m#m-cmpr9406-038-p20s5w28</m.rf>
 <afun>Adv</afun>
-<is_parenthesis_root>1</is_parenthesis_root>
 <ord>28</ord>
 <clause_number>3</clause_number>
 <children>

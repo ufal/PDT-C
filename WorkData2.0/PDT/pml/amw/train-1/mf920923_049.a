@@ -998,13 +998,13 @@
 <LM id="a-mf920923-049-p4s7w2">
 <m.rf>m#m-mf920923-049-p4s7w2</m.rf>
 <afun>AuxP</afun>
+<is_parenthesis_root>1</is_parenthesis_root>
 <ord>2</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-mf920923-049-p4s7w3">
 <m.rf>m#m-mf920923-049-p4s7w3</m.rf>
 <afun>ExD</afun>
-<is_parenthesis_root>1</is_parenthesis_root>
 <ord>3</ord>
 <clause_number>1</clause_number>
 <children>

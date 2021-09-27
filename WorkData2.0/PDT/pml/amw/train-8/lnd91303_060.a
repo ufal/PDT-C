@@ -2679,6 +2679,7 @@
 <LM id="a-lnd91303-060-p5s1w26">
 <m.rf>m#m-lnd91303-060-p5s1w26</m.rf>
 <afun>AuxC</afun>
+<is_parenthesis_root>1</is_parenthesis_root>
 <ord>26</ord>
 <clause_number>4</clause_number>
 <children>
@@ -2697,7 +2698,6 @@
 <LM id="a-lnd91303-060-p5s1w38">
 <m.rf>m#m-lnd91303-060-p5s1w38</m.rf>
 <afun>Coord</afun>
-<is_parenthesis_root>1</is_parenthesis_root>
 <ord>38</ord>
 <clause_number>0</clause_number>
 <children>
@@ -2711,6 +2711,7 @@
 <LM id="a-lnd91303-060-p5s1w28">
 <m.rf>m#m-lnd91303-060-p5s1w28</m.rf>
 <afun>AuxP</afun>
+<is_parenthesis_root>1</is_parenthesis_root>
 <ord>28</ord>
 <clause_number>4</clause_number>
 <children>
@@ -2723,7 +2724,6 @@
 <LM id="a-lnd91303-060-p5s1w29">
 <m.rf>m#m-lnd91303-060-p5s1w29</m.rf>
 <afun>Adv</afun>
-<is_parenthesis_root>1</is_parenthesis_root>
 <ord>29</ord>
 <clause_number>4</clause_number>
 </LM>

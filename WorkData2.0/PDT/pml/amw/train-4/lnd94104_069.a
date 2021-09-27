@@ -1141,13 +1141,13 @@
 <LM id="a-lnd94104-069-p1s6w2">
 <m.rf>m#m-lnd94104-069-p1s6w2</m.rf>
 <afun>AuxC</afun>
+<is_parenthesis_root>1</is_parenthesis_root>
 <ord>2</ord>
 <clause_number>1</clause_number>
 <children>
 <LM id="a-lnd94104-069-p1s6w4">
 <m.rf>m#m-lnd94104-069-p1s6w4</m.rf>
 <afun>Pred</afun>
-<is_parenthesis_root>1</is_parenthesis_root>
 <ord>3</ord>
 <clause_number>1</clause_number>
 </LM>

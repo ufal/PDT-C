@@ -2255,6 +2255,7 @@
 <LM id="a-ln94202-92-p5s2w35">
 <m.rf>m#m-ln94202-92-p5s2w35</m.rf>
 <afun>AuxP</afun>
+<is_parenthesis_root>1</is_parenthesis_root>
 <ord>35</ord>
 <clause_number>2</clause_number>
 <children>
@@ -2267,7 +2268,6 @@
 <LM id="a-ln94202-92-p5s2w36">
 <m.rf>m#m-ln94202-92-p5s2w36</m.rf>
 <afun>Atr</afun>
-<is_parenthesis_root>1</is_parenthesis_root>
 <ord>36</ord>
 <clause_number>2</clause_number>
 <children>

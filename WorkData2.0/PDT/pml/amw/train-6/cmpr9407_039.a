@@ -2020,6 +2020,7 @@
 <LM id="a-cmpr9407-039-p12s1w7">
 <m.rf>m#m-cmpr9407-039-p12s1w7</m.rf>
 <afun>AuxC</afun>
+<is_parenthesis_root>1</is_parenthesis_root>
 <ord>7</ord>
 <clause_number>2</clause_number>
 <children>
@@ -2032,7 +2033,6 @@
 <LM id="a-cmpr9407-039-p12s1w9">
 <m.rf>m#m-cmpr9407-039-p12s1w9</m.rf>
 <afun>Adv</afun>
-<is_parenthesis_root>1</is_parenthesis_root>
 <ord>9</ord>
 <clause_number>2</clause_number>
 <children>

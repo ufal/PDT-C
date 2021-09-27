@@ -3001,6 +3001,7 @@
 <LM id="a-ln95048-034-p3s14w8">
 <m.rf>m#m-ln95048-034-p3s14w8</m.rf>
 <afun>AuxP</afun>
+<is_parenthesis_root>1</is_parenthesis_root>
 <ord>8</ord>
 <clause_number>1</clause_number>
 <children>
@@ -3013,7 +3014,6 @@
 <LM id="a-ln95048-034-p3s14w11">
 <m.rf>m#m-ln95048-034-p3s14w11</m.rf>
 <afun>Apos</afun>
-<is_parenthesis_root>1</is_parenthesis_root>
 <ord>11</ord>
 <clause_number>1</clause_number>
 <children>

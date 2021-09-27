@@ -5450,6 +5450,7 @@
 <LM id="a-cmpr9407-042-p46s3w13">
 <m.rf>m#m-cmpr9407-042-p46s3w13</m.rf>
 <afun>AuxP</afun>
+<is_parenthesis_root>1</is_parenthesis_root>
 <ord>13</ord>
 <clause_number>1</clause_number>
 <children>
@@ -5462,7 +5463,6 @@
 <LM id="a-cmpr9407-042-p46s3w15">
 <m.rf>m#m-cmpr9407-042-p46s3w15</m.rf>
 <afun>Atr</afun>
-<is_parenthesis_root>1</is_parenthesis_root>
 <ord>15</ord>
 <clause_number>1</clause_number>
 <children>
