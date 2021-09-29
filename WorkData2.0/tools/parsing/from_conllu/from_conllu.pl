@@ -9,8 +9,8 @@ use Udapi::Core::Document;
 
 my $resources = "../../../../tred-extension/pdtc10/resources";
 
-@ARGV >= 2 or die "Usage: $0 pdt_filelist conllu_file\n";
-my ($pdt_filelist, $conllu_filename) = @ARGV;
+@ARGV >= 2 or die "Usage: $0 data_filelist data_path conllu_file\n";
+my ($data_filelist, $data_basepath, $conllu_filename) = @ARGV;
 
 my $conllu_doc = Udapi::Core::Document->new();
 $conllu_doc->load_conllu($conllu_filename);
@@ -20,10 +20,10 @@ Treex::PML::AddResourcePath(".", $resources);
 delete $INC{"Treex/PML/Backend/PML.pm"}; Treex::PML::UseBackends("PML"); # Hack to reload pmlbackend_conf.xml from the current directory.
 my $factory = Treex::PML::Factory->new();
 
-open(my $pdt_filelist_file, "<", $pdt_filelist) or die "Cannot open file $pdt_filelist: $!";
-while (my $pdt_file = <$pdt_filelist_file>) {
+open(my $data_filelist_file, "<", $data_filelist) or die "Cannot open file $data_filelist: $!";
+while (my $pdt_file = <$data_filelist_file>) {
   chomp $pdt_file;
-  my $pdt_doc = $factory->createDocumentFromFile($pdt_file . ".a");
+  my $pdt_doc = $factory->createDocumentFromFile($data_basepath . "/" . $pdt_file . ".a");
   my @pdt_trees = $pdt_doc->trees;
 
   die "Too little trees in the CoNLL-U file: $#pdt_trees vs $#conllu_trees" if $#pdt_trees > $#conllu_trees;
@@ -61,7 +61,7 @@ while (my $pdt_file = <$pdt_filelist_file>) {
       #last if $tree_index > 2;
   }
 
-  $pdt_doc->save($pdt_file . ".a");
+  $pdt_doc->save($data_basepath . "/" . $pdt_file . ".a");
 }
 
 die "Too many trees in the CoNLL-U file: $#conllu_trees were left" if @conllu_trees;
