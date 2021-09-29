@@ -1,9 +1,12 @@
 #!/bin/bash
 
-data="../../../PDT/pml"
-resources="../../../../tred-extension/pdtc10/resources"
+[ $# -ge 2 ] || { echo "Usage: $0 treebank layer files" >&2; exit 1; }
 
+treebank="$1"; shift
 layer="$1"; shift
+
+data="$(dirname $0)/../../../$treebank/pml"
+resources="$(dirname $0)/../../../../tred-extension/pdtc10/resources"
 
 for file in "$@"; do
   treex -Lcs Read::PDT schema_dir=$resources from=$data/$file.$layer top_layer=$layer Write::CoNLLU to=conllu-$layer/$file.conllu print_zone_id=0 upos=is_parenthesis_root xpos=tag feats=is_member deprel=afun
