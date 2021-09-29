@@ -62,7 +62,7 @@
 </LM>
 <LM id="a-wsj0065-001-p1s0W9-Ta">
 <m.rf>m#m-wsj0065-001-p1s0W9-Ta</m.rf>
-<afun>Adv</afun>
+<afun>Obj</afun>
 <ord>9</ord>
 <children>
 <LM id="a-wsj0065-001-p1s0W10-Ta">
@@ -72,7 +72,7 @@
 <children>
 <LM id="a-wsj0065-001-p1s0W11-Ta">
 <m.rf>m#m-wsj0065-001-p1s0W11-Ta</m.rf>
-<afun>Adv</afun>
+<afun>Obj</afun>
 <ord>11</ord>
 <children>
 <LM id="a-wsj0065-001-p1s0W12-Ta">
@@ -220,9 +220,15 @@
 <afun>AuxV</afun>
 <ord>9</ord>
 </LM>
+<LM id="a-wsj0065-001-p1s1W21-Ta">
+<m.rf>m#m-wsj0065-001-p1s1W21-Ta</m.rf>
+<afun>Coord</afun>
+<ord>21</ord>
+<children>
 <LM id="a-wsj0065-001-p1s1W11-Ta">
 <m.rf>m#m-wsj0065-001-p1s1W11-Ta</m.rf>
 <afun>Obj</afun>
+<is_member>1</is_member>
 <ord>11</ord>
 <children>
 <LM id="a-wsj0065-001-p1s1W14-Ta">
@@ -244,6 +250,8 @@
 <m.rf>m#m-wsj0065-001-p1s1W15-Ta</m.rf>
 <afun>AuxG</afun>
 <ord>15</ord>
+</LM>
+</children>
 </LM>
 <LM id="a-wsj0065-001-p1s1W16-Ta">
 <m.rf>m#m-wsj0065-001-p1s1W16-Ta</m.rf>
@@ -274,11 +282,10 @@
 </LM>
 </children>
 </LM>
-<LM id="a-wsj0065-001-p1s1W21-Ta">
-<m.rf>m#m-wsj0065-001-p1s1W21-Ta</m.rf>
-<afun>AuxX</afun>
-<ord>21</ord>
-<children>
+</children>
+</LM>
+</children>
+</LM>
 <LM id="a-wsj0065-001-p1s1W22-Ta">
 <m.rf>m#m-wsj0065-001-p1s1W22-Ta</m.rf>
 <afun>Obj</afun>
@@ -309,6 +316,15 @@
 <m.rf>m#m-wsj0065-001-p1s1W27-Ta</m.rf>
 <afun>Atr</afun>
 <ord>27</ord>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+<LM id="a-wsj0065-001-p1s1W29-Ta">
+<m.rf>m#m-wsj0065-001-p1s1W29-Ta</m.rf>
+<afun>Atr</afun>
+<ord>29</ord>
 <children>
 <LM id="a-wsj0065-001-p1s1W28-Ta">
 <m.rf>m#m-wsj0065-001-p1s1W28-Ta</m.rf>
@@ -320,15 +336,14 @@
 <afun>Atr</afun>
 <ord>30</ord>
 <children>
-<LM id="a-wsj0065-001-p1s1W29-Ta">
-<m.rf>m#m-wsj0065-001-p1s1W29-Ta</m.rf>
-<afun>Atr</afun>
-<ord>29</ord>
-</LM>
 <LM id="a-wsj0065-001-p1s1W31-Ta">
 <m.rf>m#m-wsj0065-001-p1s1W31-Ta</m.rf>
 <afun>AuxG</afun>
 <ord>31</ord>
+</LM>
+</children>
+</LM>
+</children>
 </LM>
 <LM id="a-wsj0065-001-p1s1W32-Ta">
 <m.rf>m#m-wsj0065-001-p1s1W32-Ta</m.rf>
@@ -349,20 +364,6 @@
 <m.rf>m#m-wsj0065-001-p1s1W35-Ta</m.rf>
 <afun>Atr</afun>
 <ord>35</ord>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-</children>
 </LM>
 </children>
 </LM>

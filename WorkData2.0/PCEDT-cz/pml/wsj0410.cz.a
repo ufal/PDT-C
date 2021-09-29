@@ -21,11 +21,30 @@
 <afun>Pred</afun>
 <ord>8</ord>
 <children>
+<LM id="a-wsj0410-001-p1s0W1-Ta">
+<m.rf>m#m-wsj0410-001-p1s0W1-Ta</m.rf>
+<afun>Sb</afun>
+<ord>1</ord>
+<children>
+<LM id="a-wsj0410-001-p1s0W3-Ta">
+<m.rf>m#m-wsj0410-001-p1s0W3-Ta</m.rf>
+<afun>Coord</afun>
+<ord>3</ord>
+<children>
+<LM id="a-wsj0410-001-p1s0W2-Ta">
+<m.rf>m#m-wsj0410-001-p1s0W2-Ta</m.rf>
+<afun>Atr</afun>
+<is_member>1</is_member>
+<ord>2</ord>
+</LM>
 <LM id="a-wsj0410-001-p1s0W4-Ta">
 <m.rf>m#m-wsj0410-001-p1s0W4-Ta</m.rf>
-<afun>Sb</afun>
+<afun>Atr</afun>
+<is_member>1</is_member>
 <ord>4</ord>
-<children>
+</LM>
+</children>
+</LM>
 <LM id="a-wsj0410-001-p1s0W5-Ta">
 <m.rf>m#m-wsj0410-001-p1s0W5-Ta</m.rf>
 <afun>Atr</afun>
@@ -36,25 +55,6 @@
 <afun>Atr</afun>
 <ord>7</ord>
 <children>
-<LM id="a-wsj0410-001-p1s0W1-Ta">
-<m.rf>m#m-wsj0410-001-p1s0W1-Ta</m.rf>
-<afun>Atr</afun>
-<ord>1</ord>
-<children>
-<LM id="a-wsj0410-001-p1s0W2-Ta">
-<m.rf>m#m-wsj0410-001-p1s0W2-Ta</m.rf>
-<afun>Atr</afun>
-<ord>2</ord>
-<children>
-<LM id="a-wsj0410-001-p1s0W3-Ta">
-<m.rf>m#m-wsj0410-001-p1s0W3-Ta</m.rf>
-<afun>ExD</afun>
-<ord>3</ord>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
 <LM id="a-wsj0410-001-p1s0W6-Ta">
 <m.rf>m#m-wsj0410-001-p1s0W6-Ta</m.rf>
 <afun>Atr</afun>
@@ -78,7 +78,7 @@
 </LM>
 <LM id="a-wsj0410-001-p1s0W18-Ta">
 <m.rf>m#m-wsj0410-001-p1s0W18-Ta</m.rf>
-<afun>Adv</afun>
+<afun>Obj</afun>
 <ord>18</ord>
 <children>
 <LM id="a-wsj0410-001-p1s0W11-Ta">
@@ -112,7 +112,7 @@
 <children>
 <LM id="a-wsj0410-001-p1s0W16-Ta">
 <m.rf>m#m-wsj0410-001-p1s0W16-Ta</m.rf>
-<afun>Atr</afun>
+<afun>Adv</afun>
 <ord>16</ord>
 <children>
 <LM id="a-wsj0410-001-p1s0W17-Ta">
@@ -131,12 +131,12 @@
 <children>
 <LM id="a-wsj0410-001-p1s0W20-Ta">
 <m.rf>m#m-wsj0410-001-p1s0W20-Ta</m.rf>
-<afun>Adv</afun>
+<afun>Obj</afun>
 <ord>20</ord>
 <children>
 <LM id="a-wsj0410-001-p1s0W21-Ta">
 <m.rf>m#m-wsj0410-001-p1s0W21-Ta</m.rf>
-<afun>AuxG</afun>
+<afun>Atr</afun>
 <ord>21</ord>
 </LM>
 </children>
@@ -209,7 +209,7 @@
 <children>
 <LM id="a-wsj0410-001-p1s1W9-Ta">
 <m.rf>m#m-wsj0410-001-p1s1W9-Ta</m.rf>
-<afun>Adv</afun>
+<afun>Obj</afun>
 <ord>9</ord>
 </LM>
 </children>

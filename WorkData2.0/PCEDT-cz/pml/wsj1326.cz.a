@@ -100,7 +100,7 @@
 </LM>
 <LM id="a-wsj1326-001-p1s0W18-Ta">
 <m.rf>m#m-wsj1326-001-p1s0W18-Ta</m.rf>
-<afun>Adv</afun>
+<afun>Obj</afun>
 <ord>18</ord>
 <children>
 <LM id="a-wsj1326-001-p1s0W17-Ta">
@@ -142,6 +142,8 @@
 <afun>Atr</afun>
 <ord>21</ord>
 </LM>
+</children>
+</LM>
 <LM id="a-wsj1326-001-p1s0W23-Ta">
 <m.rf>m#m-wsj1326-001-p1s0W23-Ta</m.rf>
 <afun>AuxP</afun>
@@ -149,27 +151,18 @@
 <children>
 <LM id="a-wsj1326-001-p1s0W24-Ta">
 <m.rf>m#m-wsj1326-001-p1s0W24-Ta</m.rf>
-<afun>Atr</afun>
+<afun>Obj</afun>
 <ord>24</ord>
-<children>
-<LM id="a-wsj1326-001-p1s0W26-Ta">
-<m.rf>m#m-wsj1326-001-p1s0W26-Ta</m.rf>
-<afun>Atr</afun>
-<ord>26</ord>
 <children>
 <LM id="a-wsj1326-001-p1s0W25-Ta">
 <m.rf>m#m-wsj1326-001-p1s0W25-Ta</m.rf>
 <afun>Atr</afun>
 <ord>25</ord>
 <children>
-<LM id="a-wsj1326-001-p1s0W27-Ta">
-<m.rf>m#m-wsj1326-001-p1s0W27-Ta</m.rf>
+<LM id="a-wsj1326-001-p1s0W26-Ta">
+<m.rf>m#m-wsj1326-001-p1s0W26-Ta</m.rf>
 <afun>Atr</afun>
-<ord>27</ord>
-</LM>
-</children>
-</LM>
-</children>
+<ord>26</ord>
 </LM>
 </children>
 </LM>
@@ -187,6 +180,11 @@
 <afun>Adv</afun>
 <ord>29</ord>
 <children>
+<LM id="a-wsj1326-001-p1s0W27-Ta">
+<m.rf>m#m-wsj1326-001-p1s0W27-Ta</m.rf>
+<afun>AuxZ</afun>
+<ord>27</ord>
+</LM>
 <LM id="a-wsj1326-001-p1s0W31-Ta">
 <m.rf>m#m-wsj1326-001-p1s0W31-Ta</m.rf>
 <afun>Atr</afun>
@@ -276,7 +274,7 @@
 </LM>
 <LM id="a-wsj1326-001-p1s1W6-Ta">
 <m.rf>m#m-wsj1326-001-p1s1W6-Ta</m.rf>
-<afun>Sb</afun>
+<afun>Obj</afun>
 <ord>6</ord>
 <children>
 <LM id="a-wsj1326-001-p1s1W5-Ta">
@@ -316,7 +314,7 @@
 </LM>
 <LM id="a-wsj1326-001-p1s1W16-Ta">
 <m.rf>m#m-wsj1326-001-p1s1W16-Ta</m.rf>
-<afun>Adv</afun>
+<afun>Obj</afun>
 <ord>16</ord>
 <children>
 <LM id="a-wsj1326-001-p1s1W14-Ta">
@@ -336,7 +334,7 @@
 <children>
 <LM id="a-wsj1326-001-p1s1W19-Ta">
 <m.rf>m#m-wsj1326-001-p1s1W19-Ta</m.rf>
-<afun>Obj</afun>
+<afun>Adv</afun>
 <ord>19</ord>
 <children>
 <LM id="a-wsj1326-001-p1s1W18-Ta">
@@ -427,7 +425,7 @@
 </LM>
 <LM id="a-wsj1326-001-p1s2W17-Ta">
 <m.rf>m#m-wsj1326-001-p1s2W17-Ta</m.rf>
-<afun>Adv</afun>
+<afun>Obj</afun>
 <ord>17</ord>
 <children>
 <LM id="a-wsj1326-001-p1s2W11-Ta">

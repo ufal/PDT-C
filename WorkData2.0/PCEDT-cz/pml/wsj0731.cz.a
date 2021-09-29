@@ -57,7 +57,7 @@
 <children>
 <LM id="a-wsj0731-001-p1s0W8-Ta">
 <m.rf>m#m-wsj0731-001-p1s0W8-Ta</m.rf>
-<afun>Atr</afun>
+<afun>Obj</afun>
 <is_member>1</is_member>
 <ord>8</ord>
 <children>
@@ -70,7 +70,7 @@
 </LM>
 <LM id="a-wsj0731-001-p1s0W11-Ta">
 <m.rf>m#m-wsj0731-001-p1s0W11-Ta</m.rf>
-<afun>Atr</afun>
+<afun>Obj</afun>
 <is_member>1</is_member>
 <ord>11</ord>
 <children>
@@ -101,22 +101,23 @@
 <afun>Pred</afun>
 <ord>6</ord>
 <children>
+<LM id="a-wsj0731-001-p1s1W2-Ta">
+<m.rf>m#m-wsj0731-001-p1s1W2-Ta</m.rf>
+<afun>Apos</afun>
+<ord>2</ord>
+<children>
 <LM id="a-wsj0731-001-p1s1W1-Ta">
 <m.rf>m#m-wsj0731-001-p1s1W1-Ta</m.rf>
 <afun>Sb</afun>
+<is_member>1</is_member>
 <ord>1</ord>
-<children>
+</LM>
 <LM id="a-wsj0731-001-p1s1W3-Ta">
 <m.rf>m#m-wsj0731-001-p1s1W3-Ta</m.rf>
-<afun>ExD</afun>
-<is_parenthesis_root>1</is_parenthesis_root>
+<afun>Sb</afun>
+<is_member>1</is_member>
 <ord>3</ord>
 <children>
-<LM id="a-wsj0731-001-p1s1W2-Ta">
-<m.rf>m#m-wsj0731-001-p1s1W2-Ta</m.rf>
-<afun>AuxX</afun>
-<ord>2</ord>
-</LM>
 <LM id="a-wsj0731-001-p1s1W4-Ta">
 <m.rf>m#m-wsj0731-001-p1s1W4-Ta</m.rf>
 <afun>Atr</afun>
@@ -143,13 +144,13 @@
 <children>
 <LM id="a-wsj0731-001-p1s1W8-Ta">
 <m.rf>m#m-wsj0731-001-p1s1W8-Ta</m.rf>
-<afun>Adv</afun>
+<afun>Pnom</afun>
 <is_member>1</is_member>
 <ord>8</ord>
 </LM>
 <LM id="a-wsj0731-001-p1s1W11-Ta">
 <m.rf>m#m-wsj0731-001-p1s1W11-Ta</m.rf>
-<afun>Atr</afun>
+<afun>Pnom</afun>
 <is_member>1</is_member>
 <ord>11</ord>
 <children>
@@ -163,22 +164,23 @@
 <afun>Atr</afun>
 <ord>12</ord>
 <children>
-<LM id="a-wsj0731-001-p1s1W14-Ta">
-<m.rf>m#m-wsj0731-001-p1s1W14-Ta</m.rf>
-<afun>Apos</afun>
-<ord>14</ord>
-<children>
-<LM id="a-wsj0731-001-p1s1W13-Ta">
-<m.rf>m#m-wsj0731-001-p1s1W13-Ta</m.rf>
-<afun>Atr</afun>
-<is_member>1</is_member>
-<ord>13</ord>
-</LM>
 <LM id="a-wsj0731-001-p1s1W17-Ta">
 <m.rf>m#m-wsj0731-001-p1s1W17-Ta</m.rf>
 <afun>Atr</afun>
 <ord>17</ord>
 <children>
+<LM id="a-wsj0731-001-p1s1W13-Ta">
+<m.rf>m#m-wsj0731-001-p1s1W13-Ta</m.rf>
+<afun>Atr</afun>
+<ord>13</ord>
+<children>
+<LM id="a-wsj0731-001-p1s1W14-Ta">
+<m.rf>m#m-wsj0731-001-p1s1W14-Ta</m.rf>
+<afun>AuxG</afun>
+<ord>14</ord>
+</LM>
+</children>
+</LM>
 <LM id="a-wsj0731-001-p1s1W15-Ta">
 <m.rf>m#m-wsj0731-001-p1s1W15-Ta</m.rf>
 <afun>Atr</afun>
@@ -189,22 +191,20 @@
 <afun>Atr</afun>
 <ord>16</ord>
 </LM>
-</children>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
 <LM id="a-wsj0731-001-p1s1W18-Ta">
 <m.rf>m#m-wsj0731-001-p1s1W18-Ta</m.rf>
-<afun>AuxK</afun>
+<afun>AuxG</afun>
 <ord>18</ord>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -217,25 +217,14 @@
 <afun>Coord</afun>
 <ord>19</ord>
 <children>
-<LM id="a-wsj0731-001-p1s2W10-Ta">
-<m.rf>m#m-wsj0731-001-p1s2W10-Ta</m.rf>
-<afun>AuxX</afun>
-<ord>10</ord>
-</LM>
-<LM id="a-wsj0731-001-p1s2W11-Ta">
-<m.rf>m#m-wsj0731-001-p1s2W11-Ta</m.rf>
-<afun>Pred</afun>
-<is_member>1</is_member>
-<ord>11</ord>
-<children>
 <LM id="a-wsj0731-001-p1s2W1-Ta">
 <m.rf>m#m-wsj0731-001-p1s2W1-Ta</m.rf>
 <afun>Sb</afun>
 <ord>1</ord>
-</LM>
+<children>
 <LM id="a-wsj0731-001-p1s2W3-Ta">
 <m.rf>m#m-wsj0731-001-p1s2W3-Ta</m.rf>
-<afun>Sb</afun>
+<afun>Atr</afun>
 <ord>3</ord>
 <children>
 <LM id="a-wsj0731-001-p1s2W2-Ta">
@@ -250,6 +239,53 @@
 </LM>
 </children>
 </LM>
+</children>
+</LM>
+<LM id="a-wsj0731-001-p1s2W5-Ta">
+<m.rf>m#m-wsj0731-001-p1s2W5-Ta</m.rf>
+<afun>Pred</afun>
+<is_member>1</is_member>
+<ord>5</ord>
+<children>
+<LM id="a-wsj0731-001-p1s2W6-Ta">
+<m.rf>m#m-wsj0731-001-p1s2W6-Ta</m.rf>
+<afun>Obj</afun>
+<ord>6</ord>
+<children>
+<LM id="a-wsj0731-001-p1s2W7-Ta">
+<m.rf>m#m-wsj0731-001-p1s2W7-Ta</m.rf>
+<afun>AuxP</afun>
+<ord>7</ord>
+<children>
+<LM id="a-wsj0731-001-p1s2W9-Ta">
+<m.rf>m#m-wsj0731-001-p1s2W9-Ta</m.rf>
+<afun>AtrAdv</afun>
+<ord>9</ord>
+<children>
+<LM id="a-wsj0731-001-p1s2W8-Ta">
+<m.rf>m#m-wsj0731-001-p1s2W8-Ta</m.rf>
+<afun>Atr</afun>
+<ord>8</ord>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+<LM id="a-wsj0731-001-p1s2W10-Ta">
+<m.rf>m#m-wsj0731-001-p1s2W10-Ta</m.rf>
+<afun>AuxX</afun>
+<ord>10</ord>
+</LM>
+<LM id="a-wsj0731-001-p1s2W11-Ta">
+<m.rf>m#m-wsj0731-001-p1s2W11-Ta</m.rf>
+<afun>Pred</afun>
+<is_member>1</is_member>
+<ord>11</ord>
+<children>
 <LM id="a-wsj0731-001-p1s2W13-Ta">
 <m.rf>m#m-wsj0731-001-p1s2W13-Ta</m.rf>
 <afun>Obj</afun>
@@ -268,40 +304,6 @@
 <m.rf>m#m-wsj0731-001-p1s2W14-Ta</m.rf>
 <afun>AuxX</afun>
 <ord>14</ord>
-<children>
-<LM id="a-wsj0731-001-p1s2W5-Ta">
-<m.rf>m#m-wsj0731-001-p1s2W5-Ta</m.rf>
-<afun>Pred</afun>
-<is_member>1</is_member>
-<ord>5</ord>
-<children>
-<LM id="a-wsj0731-001-p1s2W6-Ta">
-<m.rf>m#m-wsj0731-001-p1s2W6-Ta</m.rf>
-<afun>Obj</afun>
-<ord>6</ord>
-</LM>
-<LM id="a-wsj0731-001-p1s2W7-Ta">
-<m.rf>m#m-wsj0731-001-p1s2W7-Ta</m.rf>
-<afun>AuxP</afun>
-<ord>7</ord>
-<children>
-<LM id="a-wsj0731-001-p1s2W9-Ta">
-<m.rf>m#m-wsj0731-001-p1s2W9-Ta</m.rf>
-<afun>Atr</afun>
-<ord>9</ord>
-<children>
-<LM id="a-wsj0731-001-p1s2W8-Ta">
-<m.rf>m#m-wsj0731-001-p1s2W8-Ta</m.rf>
-<afun>Atr</afun>
-<ord>8</ord>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-</children>
 </LM>
 <LM id="a-wsj0731-001-p1s2W15-Ta">
 <m.rf>m#m-wsj0731-001-p1s2W15-Ta</m.rf>

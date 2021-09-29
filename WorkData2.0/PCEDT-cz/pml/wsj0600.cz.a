@@ -21,10 +21,10 @@
 <afun>Pred</afun>
 <ord>19</ord>
 <children>
-<LM id="a-wsj0600-001-p1s0W7-Ta">
-<m.rf>m#m-wsj0600-001-p1s0W7-Ta</m.rf>
-<afun>Coord</afun>
-<ord>7</ord>
+<LM id="a-wsj0600-001-p1s0W5-Ta">
+<m.rf>m#m-wsj0600-001-p1s0W5-Ta</m.rf>
+<afun>Apos</afun>
+<ord>5</ord>
 <children>
 <LM id="a-wsj0600-001-p1s0W4-Ta">
 <m.rf>m#m-wsj0600-001-p1s0W4-Ta</m.rf>
@@ -51,11 +51,12 @@
 </LM>
 </children>
 </LM>
-<LM id="a-wsj0600-001-p1s0W5-Ta">
-<m.rf>m#m-wsj0600-001-p1s0W5-Ta</m.rf>
-<afun>AuxX</afun>
-<ord>5</ord>
-</LM>
+<LM id="a-wsj0600-001-p1s0W7-Ta">
+<m.rf>m#m-wsj0600-001-p1s0W7-Ta</m.rf>
+<afun>Coord</afun>
+<is_member>1</is_member>
+<ord>7</ord>
+<children>
 <LM id="a-wsj0600-001-p1s0W6-Ta">
 <m.rf>m#m-wsj0600-001-p1s0W6-Ta</m.rf>
 <afun>Sb</afun>
@@ -83,27 +84,16 @@
 <afun>Atr</afun>
 <ord>10</ord>
 </LM>
-</children>
-</LM>
-</children>
-</LM>
-<LM id="a-wsj0600-001-p1s0W17-Ta">
-<m.rf>m#m-wsj0600-001-p1s0W17-Ta</m.rf>
-<afun>AuxX</afun>
-<ord>17</ord>
-</LM>
-</children>
-</LM>
-<LM id="a-wsj0600-001-p1s0W16-Ta">
-<m.rf>m#m-wsj0600-001-p1s0W16-Ta</m.rf>
-<afun>Sb</afun>
-<ord>16</ord>
-<children>
 <LM id="a-wsj0600-001-p1s0W12-Ta">
 <m.rf>m#m-wsj0600-001-p1s0W12-Ta</m.rf>
 <afun>Atr</afun>
 <ord>12</ord>
-</LM>
+<children>
+<LM id="a-wsj0600-001-p1s0W16-Ta">
+<m.rf>m#m-wsj0600-001-p1s0W16-Ta</m.rf>
+<afun>Obj</afun>
+<ord>16</ord>
+<children>
 <LM id="a-wsj0600-001-p1s0W14-Ta">
 <m.rf>m#m-wsj0600-001-p1s0W14-Ta</m.rf>
 <afun>Coord</afun>
@@ -122,6 +112,21 @@
 <ord>15</ord>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+<LM id="a-wsj0600-001-p1s0W17-Ta">
+<m.rf>m#m-wsj0600-001-p1s0W17-Ta</m.rf>
+<afun>AuxX</afun>
+<ord>17</ord>
 </LM>
 </children>
 </LM>
@@ -165,15 +170,15 @@
 <afun>Sb</afun>
 <ord>3</ord>
 <children>
-<LM id="a-wsj0600-001-p1s1W1-Ta">
-<m.rf>m#m-wsj0600-001-p1s1W1-Ta</m.rf>
-<afun>Atr</afun>
-<ord>1</ord>
-<children>
 <LM id="a-wsj0600-001-p1s1W1-Ta-sw1-ia">
 <m.rf>m#m-wsj0600-001-p1s1W1-Ta-sw1</m.rf>
-<afun>ExD</afun>
+<afun>Atr</afun>
 <ord>2</ord>
+<children>
+<LM id="a-wsj0600-001-p1s1W1-Ta">
+<m.rf>m#m-wsj0600-001-p1s1W1-Ta</m.rf>
+<afun>Adv</afun>
+<ord>1</ord>
 </LM>
 </children>
 </LM>
