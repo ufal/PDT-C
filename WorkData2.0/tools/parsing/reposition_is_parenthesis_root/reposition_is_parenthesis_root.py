@@ -29,7 +29,7 @@ if __name__ == "__main__":
     while conllu.nextSentence(sentence, error):
         for i in range(1, len(sentence.words)):
             word = sentence.words[i]
-            if word.deprel.endswith("_IsParenthesisRoot"):
+            if "_IsParenthesisRoot" in word.deprel:
                 if not has_interpunction(sentence, word):
                     parent, level = word, 0
                     while parent.head and \
@@ -39,11 +39,11 @@ if __name__ == "__main__":
                         if has_interpunction(sentence, parent):
                             break
                     if has_interpunction(sentence, parent):
-                        word.deprel = word.deprel[:-len("_IsParenthesisRoot")]
+                        word.deprel = word.deprel.replace("_IsParenthesisRoot", "")
                         if "_IsMember" in parent.deprel:
                             print("Word {}/{} has is_member".format(i, word.id),
                                   output.writeSentence(sentence), file=sys.stderr, sep="\n")
-                            continue
+#                             continue
 
                         if "_IsParenthesisRoot" in parent.deprel:
                             print("Word {}/{} has is_parenthesis_root".format(i, word.id),

@@ -22,15 +22,14 @@ if __name__ == "__main__":
     while conllu.nextSentence(sentence, error):
         for i in range(1, len(sentence.words)):
             word = sentence.words[i]
-            if word.deprel.endswith("_IsMember"):
-                word.deprel = word.deprel[:-len("_IsMember")]
+            if "_IsMember" in word.deprel:
+                word.deprel = word.deprel.replace("_IsMember", "")
                 while word.head and sentence.words[word.head].deprel.split("_")[0] not in COORD_DEPRELS:
                     if sentence.words[word.head].deprel.split("_")[0] not in ("AuxC", "AuxP"):
                         print("Word {} has {} before Coord/Apos".format(word.id, word.deprel),
                               output.writeSentence(sentence), file=sys.stderr, sep="\n")
                     word = sentence.words[word.head]
                 assert sentence.words[word.head].deprel.split("_")[0] in COORD_DEPRELS
-                assert "_IsParenthesisRoot" not in word.deprel
                 if "_IsMember" not in word.deprel:
                     word.deprel = word.deprel + "_IsMember"
             elif "_IsMember" in word.deprel:
