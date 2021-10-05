@@ -938,6 +938,7 @@
 <LM id="a-wsj2221-001-p1s5W28-Ta">
 <m.rf>m#m-wsj2221-001-p1s5W28-Ta</m.rf>
 <afun>AuxP</afun>
+<is_parenthesis_root>1</is_parenthesis_root>
 <ord>28</ord>
 <children>
 <LM id="a-wsj2221-001-p1s5W27-Ta">
@@ -948,7 +949,6 @@
 <LM id="a-wsj2221-001-p1s5W29-Ta">
 <m.rf>m#m-wsj2221-001-p1s5W29-Ta</m.rf>
 <afun>Adv</afun>
-<is_parenthesis_root>1</is_parenthesis_root>
 <ord>29</ord>
 </LM>
 <LM id="a-wsj2221-001-p1s5W30-Ta">

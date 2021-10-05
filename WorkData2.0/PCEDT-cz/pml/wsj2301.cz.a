@@ -24,12 +24,12 @@
 <LM id="a-wsj2301-001-p1s0W1-Ta">
 <m.rf>m#m-wsj2301-001-p1s0W1-Ta</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>1</ord>
 <children>
 <LM id="a-wsj2301-001-p1s0W3-Ta">
 <m.rf>m#m-wsj2301-001-p1s0W3-Ta</m.rf>
 <afun>ExD</afun>
-<is_member>1</is_member>
 <ord>3</ord>
 <children>
 <LM id="a-wsj2301-001-p1s0W2-Ta">

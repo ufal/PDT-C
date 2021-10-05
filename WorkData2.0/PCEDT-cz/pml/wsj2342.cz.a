@@ -957,12 +957,12 @@
 <LM id="a-wsj2342-001-p1s6W4-Ta">
 <m.rf>m#m-wsj2342-001-p1s6W4-Ta</m.rf>
 <afun>AuxC</afun>
+<is_member>1</is_member>
 <ord>4</ord>
 <children>
 <LM id="a-wsj2342-001-p1s6W7-Ta">
 <m.rf>m#m-wsj2342-001-p1s6W7-Ta</m.rf>
 <afun>Obj</afun>
-<is_member>1</is_member>
 <ord>7</ord>
 <children>
 <LM id="a-wsj2342-001-p1s6W6-Ta">
@@ -1008,12 +1008,12 @@
 <LM id="a-wsj2342-001-p1s6W13-Ta">
 <m.rf>m#m-wsj2342-001-p1s6W13-Ta</m.rf>
 <afun>AuxC</afun>
+<is_member>1</is_member>
 <ord>13</ord>
 <children>
 <LM id="a-wsj2342-001-p1s6W20-Ta">
 <m.rf>m#m-wsj2342-001-p1s6W20-Ta</m.rf>
 <afun>Obj</afun>
-<is_member>1</is_member>
 <ord>20</ord>
 <children>
 <LM id="a-wsj2342-001-p1s6W15-Ta">
@@ -1127,12 +1127,12 @@
 <LM id="a-wsj2342-001-p1s7W5-Ta">
 <m.rf>m#m-wsj2342-001-p1s7W5-Ta</m.rf>
 <afun>AuxC</afun>
+<is_member>1</is_member>
 <ord>5</ord>
 <children>
 <LM id="a-wsj2342-001-p1s7W6-Ta">
 <m.rf>m#m-wsj2342-001-p1s7W6-Ta</m.rf>
 <afun>Obj</afun>
-<is_member>1</is_member>
 <ord>6</ord>
 <children>
 <LM id="a-wsj2342-001-p1s7W7-Ta">
@@ -1201,12 +1201,12 @@
 <LM id="a-wsj2342-001-p1s7W17-Ta">
 <m.rf>m#m-wsj2342-001-p1s7W17-Ta</m.rf>
 <afun>AuxC</afun>
+<is_member>1</is_member>
 <ord>17</ord>
 <children>
 <LM id="a-wsj2342-001-p1s7W22-Ta">
 <m.rf>m#m-wsj2342-001-p1s7W22-Ta</m.rf>
 <afun>Obj</afun>
-<is_member>1</is_member>
 <ord>22</ord>
 <children>
 <LM id="a-wsj2342-001-p1s7W20-Ta">
@@ -1549,12 +1549,12 @@
 <LM id="a-wsj2342-001-p1s10W14-Ta">
 <m.rf>m#m-wsj2342-001-p1s10W14-Ta</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>14</ord>
 <children>
 <LM id="a-wsj2342-001-p1s10W16-Ta">
 <m.rf>m#m-wsj2342-001-p1s10W16-Ta</m.rf>
 <afun>Obj</afun>
-<is_member>1</is_member>
 <ord>16</ord>
 <children>
 <LM id="a-wsj2342-001-p1s10W15-Ta">
@@ -1569,12 +1569,12 @@
 <LM id="a-wsj2342-001-p1s10W18-Ta">
 <m.rf>m#m-wsj2342-001-p1s10W18-Ta</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>18</ord>
 <children>
 <LM id="a-wsj2342-001-p1s10W19-Ta">
 <m.rf>m#m-wsj2342-001-p1s10W19-Ta</m.rf>
 <afun>Obj</afun>
-<is_member>1</is_member>
 <ord>19</ord>
 <children>
 <LM id="a-wsj2342-001-p1s10W20-Ta">

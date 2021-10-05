@@ -1071,12 +1071,12 @@
 <LM id="a-wsj2345-001-p1s5W9-Ta">
 <m.rf>m#m-wsj2345-001-p1s5W9-Ta</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>9</ord>
 <children>
 <LM id="a-wsj2345-001-p1s5W11-Ta">
 <m.rf>m#m-wsj2345-001-p1s5W11-Ta</m.rf>
 <afun>Obj</afun>
-<is_member>1</is_member>
 <ord>11</ord>
 <children>
 <LM id="a-wsj2345-001-p1s5W10-Ta">
@@ -1096,12 +1096,12 @@
 <LM id="a-wsj2345-001-p1s5W13-Ta">
 <m.rf>m#m-wsj2345-001-p1s5W13-Ta</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>13</ord>
 <children>
 <LM id="a-wsj2345-001-p1s5W14-Ta">
 <m.rf>m#m-wsj2345-001-p1s5W14-Ta</m.rf>
 <afun>Obj</afun>
-<is_member>1</is_member>
 <ord>14</ord>
 <children>
 <LM id="a-wsj2345-001-p1s5W15-Ta">
@@ -1116,12 +1116,12 @@
 <LM id="a-wsj2345-001-p1s5W17-Ta">
 <m.rf>m#m-wsj2345-001-p1s5W17-Ta</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>17</ord>
 <children>
 <LM id="a-wsj2345-001-p1s5W19-Ta">
 <m.rf>m#m-wsj2345-001-p1s5W19-Ta</m.rf>
 <afun>Obj</afun>
-<is_member>1</is_member>
 <ord>19</ord>
 <children>
 <LM id="a-wsj2345-001-p1s5W18-Ta">
@@ -1498,12 +1498,12 @@
 <LM id="a-wsj2345-001-p1s8W19-Ta">
 <m.rf>m#m-wsj2345-001-p1s8W19-Ta</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>19</ord>
 <children>
 <LM id="a-wsj2345-001-p1s8W20-Ta">
 <m.rf>m#m-wsj2345-001-p1s8W20-Ta</m.rf>
 <afun>ExD</afun>
-<is_member>1</is_member>
 <ord>20</ord>
 </LM>
 </children>
@@ -2184,12 +2184,12 @@
 <LM id="a-wsj2345-001-p1s12W4-Ta">
 <m.rf>m#m-wsj2345-001-p1s12W4-Ta</m.rf>
 <afun>AuxC</afun>
+<is_member>1</is_member>
 <ord>4</ord>
 <children>
 <LM id="a-wsj2345-001-p1s12W7-Ta">
 <m.rf>m#m-wsj2345-001-p1s12W7-Ta</m.rf>
 <afun>Atr</afun>
-<is_member>1</is_member>
 <ord>7</ord>
 <children>
 <LM id="a-wsj2345-001-p1s12W5-Ta">
@@ -2235,12 +2235,12 @@
 <LM id="a-wsj2345-001-p1s12W13-Ta">
 <m.rf>m#m-wsj2345-001-p1s12W13-Ta</m.rf>
 <afun>AuxC</afun>
+<is_member>1</is_member>
 <ord>13</ord>
 <children>
 <LM id="a-wsj2345-001-p1s12W15-Ta">
 <m.rf>m#m-wsj2345-001-p1s12W15-Ta</m.rf>
 <afun>Atr</afun>
-<is_member>1</is_member>
 <ord>15</ord>
 <children>
 <LM id="a-wsj2345-001-p1s12W14-Ta">

@@ -833,12 +833,12 @@
 <LM id="a-wsj2383-001-p1s4W15-Ta">
 <m.rf>m#m-wsj2383-001-p1s4W15-Ta</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>15</ord>
 <children>
 <LM id="a-wsj2383-001-p1s4W16-Ta">
 <m.rf>m#m-wsj2383-001-p1s4W16-Ta</m.rf>
 <afun>Atr</afun>
-<is_member>1</is_member>
 <ord>16</ord>
 <children>
 <LM id="a-wsj2383-001-p1s4W18-Ta">
@@ -882,12 +882,12 @@
 <LM id="a-wsj2383-001-p1s4W24-Ta">
 <m.rf>m#m-wsj2383-001-p1s4W24-Ta</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>24</ord>
 <children>
 <LM id="a-wsj2383-001-p1s4W25-Ta">
 <m.rf>m#m-wsj2383-001-p1s4W25-Ta</m.rf>
 <afun>Atr</afun>
-<is_member>1</is_member>
 <ord>25</ord>
 <children>
 <LM id="a-wsj2383-001-p1s4W27-Ta">

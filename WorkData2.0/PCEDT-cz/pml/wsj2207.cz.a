@@ -1662,12 +1662,12 @@
 <LM id="a-wsj2207-001-p1s10W3-Ta">
 <m.rf>m#m-wsj2207-001-p1s10W3-Ta</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>3</ord>
 <children>
 <LM id="a-wsj2207-001-p1s10W4-Ta">
 <m.rf>m#m-wsj2207-001-p1s10W4-Ta</m.rf>
 <afun>Atr</afun>
-<is_member>1</is_member>
 <ord>4</ord>
 </LM>
 </children>
@@ -1680,12 +1680,12 @@
 <LM id="a-wsj2207-001-p1s10W7-Ta">
 <m.rf>m#m-wsj2207-001-p1s10W7-Ta</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>7</ord>
 <children>
 <LM id="a-wsj2207-001-p1s10W8-Ta">
 <m.rf>m#m-wsj2207-001-p1s10W8-Ta</m.rf>
 <afun>Atr</afun>
-<is_member>1</is_member>
 <ord>8</ord>
 </LM>
 </children>
@@ -2857,12 +2857,12 @@
 <LM id="a-wsj2207-001-p1s17W8-Ta">
 <m.rf>m#m-wsj2207-001-p1s17W8-Ta</m.rf>
 <afun>AuxC</afun>
+<is_member>1</is_member>
 <ord>8</ord>
 <children>
 <LM id="a-wsj2207-001-p1s17W13-Ta">
 <m.rf>m#m-wsj2207-001-p1s17W13-Ta</m.rf>
 <afun>Adv</afun>
-<is_member>1</is_member>
 <ord>13</ord>
 <children>
 <LM id="a-wsj2207-001-p1s17W9-Ta">
@@ -2899,12 +2899,12 @@
 <LM id="a-wsj2207-001-p1s17W16-Ta">
 <m.rf>m#m-wsj2207-001-p1s17W16-Ta</m.rf>
 <afun>AuxC</afun>
+<is_member>1</is_member>
 <ord>16</ord>
 <children>
 <LM id="a-wsj2207-001-p1s17W19-Ta">
 <m.rf>m#m-wsj2207-001-p1s17W19-Ta</m.rf>
 <afun>Adv</afun>
-<is_member>1</is_member>
 <ord>19</ord>
 <children>
 <LM id="a-wsj2207-001-p1s17W17-Ta">

@@ -792,12 +792,12 @@
 <LM id="a-wsj2354-001-p1s4W22-Ta">
 <m.rf>m#m-wsj2354-001-p1s4W22-Ta</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>22</ord>
 <children>
 <LM id="a-wsj2354-001-p1s4W23-Ta">
 <m.rf>m#m-wsj2354-001-p1s4W23-Ta</m.rf>
 <afun>Adv</afun>
-<is_member>1</is_member>
 <ord>23</ord>
 </LM>
 </children>
@@ -805,12 +805,12 @@
 <LM id="a-wsj2354-001-p1s4W25-Ta">
 <m.rf>m#m-wsj2354-001-p1s4W25-Ta</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>25</ord>
 <children>
 <LM id="a-wsj2354-001-p1s4W28-Ta">
 <m.rf>m#m-wsj2354-001-p1s4W28-Ta</m.rf>
 <afun>Adv</afun>
-<is_member>1</is_member>
 <ord>28</ord>
 <children>
 <LM id="a-wsj2354-001-p1s4W26-Ta">

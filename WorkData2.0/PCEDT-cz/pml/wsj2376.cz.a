@@ -5416,12 +5416,12 @@
 <LM id="a-wsj2376-001-p1s55W6-Ta">
 <m.rf>m#m-wsj2376-001-p1s55W6-Ta</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>6</ord>
 <children>
 <LM id="a-wsj2376-001-p1s55W7-Ta">
 <m.rf>m#m-wsj2376-001-p1s55W7-Ta</m.rf>
 <afun>Adv</afun>
-<is_member>1</is_member>
 <ord>7</ord>
 <children>
 <LM id="a-wsj2376-001-p1s55W8-Ta">
@@ -5450,12 +5450,12 @@
 <LM id="a-wsj2376-001-p1s55W12-Ta">
 <m.rf>m#m-wsj2376-001-p1s55W12-Ta</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>12</ord>
 <children>
 <LM id="a-wsj2376-001-p1s55W15-Ta">
 <m.rf>m#m-wsj2376-001-p1s55W15-Ta</m.rf>
 <afun>Adv</afun>
-<is_member>1</is_member>
 <ord>15</ord>
 <children>
 <LM id="a-wsj2376-001-p1s55W14-Ta">
@@ -8600,12 +8600,12 @@
 <LM id="a-wsj2376-001-p1s81W3-Ta">
 <m.rf>m#m-wsj2376-001-p1s81W3-Ta</m.rf>
 <afun>AuxC</afun>
+<is_member>1</is_member>
 <ord>3</ord>
 <children>
 <LM id="a-wsj2376-001-p1s81W5-Ta">
 <m.rf>m#m-wsj2376-001-p1s81W5-Ta</m.rf>
 <afun>Obj</afun>
-<is_member>1</is_member>
 <ord>5</ord>
 <children>
 <LM id="a-wsj2376-001-p1s81W4-Ta">
@@ -8651,12 +8651,12 @@
 <LM id="a-wsj2376-001-p1s81W12-Ta">
 <m.rf>m#m-wsj2376-001-p1s81W12-Ta</m.rf>
 <afun>AuxC</afun>
+<is_member>1</is_member>
 <ord>12</ord>
 <children>
 <LM id="a-wsj2376-001-p1s81W14-Ta">
 <m.rf>m#m-wsj2376-001-p1s81W14-Ta</m.rf>
 <afun>Obj</afun>
-<is_member>1</is_member>
 <ord>14</ord>
 <children>
 <LM id="a-wsj2376-001-p1s81W13-Ta">
@@ -10049,12 +10049,12 @@
 <LM id="a-wsj2376-001-p1s91W6-Ta">
 <m.rf>m#m-wsj2376-001-p1s91W6-Ta</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>6</ord>
 <children>
 <LM id="a-wsj2376-001-p1s91W8-Ta">
 <m.rf>m#m-wsj2376-001-p1s91W8-Ta</m.rf>
 <afun>Adv</afun>
-<is_member>1</is_member>
 <ord>8</ord>
 <children>
 <LM id="a-wsj2376-001-p1s91W7-Ta">
@@ -10069,12 +10069,12 @@
 <LM id="a-wsj2376-001-p1s91W11-Ta">
 <m.rf>m#m-wsj2376-001-p1s91W11-Ta</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>11</ord>
 <children>
 <LM id="a-wsj2376-001-p1s91W15-Ta">
 <m.rf>m#m-wsj2376-001-p1s91W15-Ta</m.rf>
 <afun>Adv</afun>
-<is_member>1</is_member>
 <ord>15</ord>
 <children>
 <LM id="a-wsj2376-001-p1s91W10-Ta">

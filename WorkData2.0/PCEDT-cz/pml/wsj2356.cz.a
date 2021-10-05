@@ -1028,12 +1028,12 @@
 <LM id="a-wsj2356-001-p1s7W9-Ta">
 <m.rf>m#m-wsj2356-001-p1s7W9-Ta</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>9</ord>
 <children>
 <LM id="a-wsj2356-001-p1s7W10-Ta">
 <m.rf>m#m-wsj2356-001-p1s7W10-Ta</m.rf>
 <afun>Adv</afun>
-<is_member>1</is_member>
 <ord>10</ord>
 </LM>
 </children>
@@ -1041,12 +1041,12 @@
 <LM id="a-wsj2356-001-p1s7W12-Ta">
 <m.rf>m#m-wsj2356-001-p1s7W12-Ta</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>12</ord>
 <children>
 <LM id="a-wsj2356-001-p1s7W13-Ta">
 <m.rf>m#m-wsj2356-001-p1s7W13-Ta</m.rf>
 <afun>Adv</afun>
-<is_member>1</is_member>
 <ord>13</ord>
 </LM>
 </children>
@@ -3065,12 +3065,12 @@
 <LM id="a-wsj2356-001-p1s22W8-Ta">
 <m.rf>m#m-wsj2356-001-p1s22W8-Ta</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>8</ord>
 <children>
 <LM id="a-wsj2356-001-p1s22W13-Ta">
 <m.rf>m#m-wsj2356-001-p1s22W13-Ta</m.rf>
 <afun>Atr</afun>
-<is_member>1</is_member>
 <ord>13</ord>
 <children>
 <LM id="a-wsj2356-001-p1s22W9-Ta">
@@ -3109,12 +3109,12 @@
 <LM id="a-wsj2356-001-p1s22W16-Ta">
 <m.rf>m#m-wsj2356-001-p1s22W16-Ta</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>16</ord>
 <children>
 <LM id="a-wsj2356-001-p1s22W19-Ta">
 <m.rf>m#m-wsj2356-001-p1s22W19-Ta</m.rf>
 <afun>Atr</afun>
-<is_member>1</is_member>
 <ord>19</ord>
 <children>
 <LM id="a-wsj2356-001-p1s22W17-Ta">
@@ -3836,12 +3836,12 @@
 <LM id="a-wsj2356-001-p1s27W18-Ta">
 <m.rf>m#m-wsj2356-001-p1s27W18-Ta</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>18</ord>
 <children>
 <LM id="a-wsj2356-001-p1s27W22-Ta">
 <m.rf>m#m-wsj2356-001-p1s27W22-Ta</m.rf>
 <afun>Obj</afun>
-<is_member>1</is_member>
 <ord>22</ord>
 <children>
 <LM id="a-wsj2356-001-p1s27W19-Ta">
@@ -3870,12 +3870,12 @@
 <LM id="a-wsj2356-001-p1s27W24-Ta">
 <m.rf>m#m-wsj2356-001-p1s27W24-Ta</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>24</ord>
 <children>
 <LM id="a-wsj2356-001-p1s27W28-Ta">
 <m.rf>m#m-wsj2356-001-p1s27W28-Ta</m.rf>
 <afun>Obj</afun>
-<is_member>1</is_member>
 <ord>28</ord>
 <children>
 <LM id="a-wsj2356-001-p1s27W26-Ta">

@@ -102,6 +102,7 @@
 <LM id="a-wsj2343-001-p1s0W16-Ta">
 <m.rf>m#m-wsj2343-001-p1s0W16-Ta</m.rf>
 <afun>AuxP</afun>
+<is_parenthesis_root>1</is_parenthesis_root>
 <ord>16</ord>
 <children>
 <LM id="a-wsj2343-001-p1s0W15-Ta">
@@ -112,7 +113,6 @@
 <LM id="a-wsj2343-001-p1s0W18-Ta">
 <m.rf>m#m-wsj2343-001-p1s0W18-Ta</m.rf>
 <afun>Atr</afun>
-<is_parenthesis_root>1</is_parenthesis_root>
 <ord>18</ord>
 <children>
 <LM id="a-wsj2343-001-p1s0W17-Ta">
@@ -1246,6 +1246,7 @@
 <LM id="a-wsj2343-001-p1s6W24-Ta">
 <m.rf>m#m-wsj2343-001-p1s6W24-Ta</m.rf>
 <afun>AuxP</afun>
+<is_parenthesis_root>1</is_parenthesis_root>
 <ord>24</ord>
 <children>
 <LM id="a-wsj2343-001-p1s6W23-Ta">
@@ -1256,7 +1257,6 @@
 <LM id="a-wsj2343-001-p1s6W25-Ta">
 <m.rf>m#m-wsj2343-001-p1s6W25-Ta</m.rf>
 <afun>Atr</afun>
-<is_parenthesis_root>1</is_parenthesis_root>
 <ord>25</ord>
 <children>
 <LM id="a-wsj2343-001-p1s6W29-Ta">
@@ -4835,12 +4835,12 @@
 <LM id="a-wsj2343-001-p1s29W15-Ta">
 <m.rf>m#m-wsj2343-001-p1s29W15-Ta</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>16</ord>
 <children>
 <LM id="a-wsj2343-001-p1s29W16-Ta">
 <m.rf>m#m-wsj2343-001-p1s29W16-Ta</m.rf>
 <afun>Atr</afun>
-<is_member>1</is_member>
 <ord>17</ord>
 </LM>
 </children>
@@ -4848,12 +4848,12 @@
 <LM id="a-wsj2343-001-p1s29W18-Ta">
 <m.rf>m#m-wsj2343-001-p1s29W18-Ta</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>19</ord>
 <children>
 <LM id="a-wsj2343-001-p1s29W20-Ta">
 <m.rf>m#m-wsj2343-001-p1s29W20-Ta</m.rf>
 <afun>Atr</afun>
-<is_member>1</is_member>
 <ord>21</ord>
 <children>
 <LM id="a-wsj2343-001-p1s29W19-Ta">
@@ -5252,12 +5252,12 @@
 <LM id="a-wsj2343-001-p1s32W14-Ta">
 <m.rf>m#m-wsj2343-001-p1s32W14-Ta</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>14</ord>
 <children>
 <LM id="a-wsj2343-001-p1s32W16-Ta">
 <m.rf>m#m-wsj2343-001-p1s32W16-Ta</m.rf>
 <afun>Obj</afun>
-<is_member>1</is_member>
 <ord>16</ord>
 <children>
 <LM id="a-wsj2343-001-p1s32W15-Ta">
@@ -5284,12 +5284,12 @@
 <LM id="a-wsj2343-001-p1s32W20-Ta">
 <m.rf>m#m-wsj2343-001-p1s32W20-Ta</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>20</ord>
 <children>
 <LM id="a-wsj2343-001-p1s32W21-Ta">
 <m.rf>m#m-wsj2343-001-p1s32W21-Ta</m.rf>
 <afun>Obj</afun>
-<is_member>1</is_member>
 <ord>21</ord>
 <children>
 <LM id="a-wsj2343-001-p1s32W28-Ta">

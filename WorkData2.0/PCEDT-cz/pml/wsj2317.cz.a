@@ -290,6 +290,7 @@
 <LM id="a-wsj2317-001-p1s1W7-Ta">
 <m.rf>m#m-wsj2317-001-p1s1W7-Ta</m.rf>
 <afun>AuxP</afun>
+<is_parenthesis_root>1</is_parenthesis_root>
 <ord>7</ord>
 <children>
 <LM id="a-wsj2317-001-p1s1W6-Ta">
@@ -300,7 +301,6 @@
 <LM id="a-wsj2317-001-p1s1W10-Ta">
 <m.rf>m#m-wsj2317-001-p1s1W10-Ta</m.rf>
 <afun>Adv</afun>
-<is_parenthesis_root>1</is_parenthesis_root>
 <ord>10</ord>
 <children>
 <LM id="a-wsj2317-001-p1s1W8-Ta">
@@ -1162,12 +1162,12 @@
 <LM id="a-wsj2317-001-p1s7W10-Ta">
 <m.rf>m#m-wsj2317-001-p1s7W10-Ta</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>10</ord>
 <children>
 <LM id="a-wsj2317-001-p1s7W15-Ta">
 <m.rf>m#m-wsj2317-001-p1s7W15-Ta</m.rf>
 <afun>Coord</afun>
-<is_member>1</is_member>
 <ord>15</ord>
 <children>
 <LM id="a-wsj2317-001-p1s7W11-Ta">
@@ -1207,12 +1207,12 @@
 <LM id="a-wsj2317-001-p1s7W18-Ta">
 <m.rf>m#m-wsj2317-001-p1s7W18-Ta</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>18</ord>
 <children>
 <LM id="a-wsj2317-001-p1s7W21-Ta">
 <m.rf>m#m-wsj2317-001-p1s7W21-Ta</m.rf>
 <afun>Adv</afun>
-<is_member>1</is_member>
 <ord>21</ord>
 <children>
 <LM id="a-wsj2317-001-p1s7W19-Ta">
@@ -1859,12 +1859,12 @@
 <LM id="a-wsj2317-001-p1s11W18-Ta">
 <m.rf>m#m-wsj2317-001-p1s11W18-Ta</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>18</ord>
 <children>
 <LM id="a-wsj2317-001-p1s11W19-Ta">
 <m.rf>m#m-wsj2317-001-p1s11W19-Ta</m.rf>
 <afun>ExD</afun>
-<is_member>1</is_member>
 <ord>19</ord>
 <children>
 <LM id="a-wsj2317-001-p1s11W17-Ta">
@@ -1926,12 +1926,12 @@
 <LM id="a-wsj2317-001-p1s12W3-Ta">
 <m.rf>m#m-wsj2317-001-p1s12W3-Ta</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>3</ord>
 <children>
 <LM id="a-wsj2317-001-p1s12W7-Ta">
 <m.rf>m#m-wsj2317-001-p1s12W7-Ta</m.rf>
 <afun>Atr</afun>
-<is_member>1</is_member>
 <ord>7</ord>
 <children>
 <LM id="a-wsj2317-001-p1s12W5-Ta">
@@ -1960,12 +1960,12 @@
 <LM id="a-wsj2317-001-p1s12W9-Ta">
 <m.rf>m#m-wsj2317-001-p1s12W9-Ta</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>9</ord>
 <children>
 <LM id="a-wsj2317-001-p1s12W12-Ta">
 <m.rf>m#m-wsj2317-001-p1s12W12-Ta</m.rf>
 <afun>Coord</afun>
-<is_member>1</is_member>
 <ord>12</ord>
 <children>
 <LM id="a-wsj2317-001-p1s12W11-Ta">

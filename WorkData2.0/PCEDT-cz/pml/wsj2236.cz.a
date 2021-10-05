@@ -497,12 +497,12 @@
 <LM id="a-wsj2236-001-p1s1W49-Ta">
 <m.rf>m#m-wsj2236-001-p1s1W49-Ta</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>49</ord>
 <children>
 <LM id="a-wsj2236-001-p1s1W50-Ta">
 <m.rf>m#m-wsj2236-001-p1s1W50-Ta</m.rf>
 <afun>Adv</afun>
-<is_member>1</is_member>
 <ord>50</ord>
 <children>
 <LM id="a-wsj2236-001-p1s1W51-Ta">

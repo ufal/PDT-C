@@ -312,12 +312,12 @@
 <LM id="a-wsj2370-001-p1s2W11-Ta">
 <m.rf>m#m-wsj2370-001-p1s2W11-Ta</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>11</ord>
 <children>
 <LM id="a-wsj2370-001-p1s2W12-Ta">
 <m.rf>m#m-wsj2370-001-p1s2W12-Ta</m.rf>
 <afun>Adv</afun>
-<is_member>1</is_member>
 <ord>12</ord>
 <children>
 <LM id="a-wsj2370-001-p1s2W15-Ta">
