@@ -1,6 +1,6 @@
 #!/bin/sh
 
-[ $# -ge 2 ] || { echo "Usage: $0 treebank layer files" >&2; exit 1; }
+[ $# -ge 2 ] || { echo "Usage: $0 treebank layer" >&2; exit 1; }
 
 treebank="$1"; shift
 layer="$1"; shift
