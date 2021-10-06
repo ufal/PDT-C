@@ -1,0 +1,25 @@
+#!/usr/bin/perl
+use warnings;
+use strict;
+use feature qw{ say };
+
+use FindBin;
+use lib "$FindBin::Bin";
+use List;
+use Path::Tiny qw{ path };
+
+my $list = list();
+open my $in, '<', $list or die "Can't open $list: $!";
+while (<$in>) {
+    my @cols = split /\t/;
+    next if $cols[DONE] || ! $cols[SENT];
+
+    my $workdir = workdir($cols[ANNOTATOR]);
+    next unless -d "$workdir";
+
+    next if -e "$workdir/$cols[FILE].cz.a";
+
+    for my $file (glob "WorkData2.0/PCEDT-cz/pml/$cols[FILE].cz.[amtw]") {
+        path($file)->copy($workdir);
+    }
+}
