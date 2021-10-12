@@ -1,0 +1,43 @@
+#!/usr/bin/perl
+use warnings;
+use strict;
+use feature qw{ say };
+
+use FindBin;
+use lib $FindBin::Bin;
+use List;
+
+my $from = shift;
+my $to   = shift;
+
+my $list = list();
+open my $in, '<', $list or die "Can't open $list.";
+
+my %sum;
+while (<$in>) {
+    next if /^#/;
+
+    my @cols = split /\t/;
+
+    next if $from && ($cols[SENT] // $from) < $from;
+    next if $to   && ($cols[SENT] // $to  ) > $to;
+
+    if ($cols[SENT] && ! $cols[DONE]) {
+        my $workdir = workdir($cols[ANNOTATOR]);
+        die "$workdir not found" unless -d $workdir;
+
+        my $state = (-e "$workdir/$cols[FILE].cz.a"
+                     && ! -e "$workdir/done/$cols[FILE].cz.a")
+                  ? 'todo' : 'done';
+        $sum{ $cols[ANNOTATOR] }{$state}{sentences} += $cols[SENTENCES];
+        $sum{ $cols[ANNOTATOR] }{$state}{forms} += $cols[FORMS];
+    }
+}
+for my $state (qw( todo done )) {
+    for my $annotator (sort keys %sum) {
+            say join "\t", $annotator, $state,
+                $sum{$annotator}{$state}{sentences} // 0,
+                '(' . ($sum{$annotator}{$state}{forms} // 0) . ')';
+    }
+    print "\n";
+}
