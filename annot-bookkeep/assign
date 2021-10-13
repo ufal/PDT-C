@@ -4,7 +4,8 @@ use strict;
 use feature qw{ say };
 
 use FindBin;
-use lib "$FindBin::Bin";
+use lib $FindBin::Bin;
+
 use List;
 use List::Util qw{ shuffle };
 use Time::Piece;
@@ -14,27 +15,26 @@ die "Usage: $0 size who" unless 2 == @ARGV;
 my $size = shift;
 my $who  = shift;
 
-my $list = list();
-open my $in, '<', $list or die "Can't open $list: $!";
-chomp( my @lines = <$in> );
+my $list = 'List::Builder::Config'->new->build;
+$list->shuffle;
 
-@lines = shuffle(@lines);
 my $date = localtime->strftime('%y%m%d');
 my $sum = 0;
-for my $line (@lines) {
-    next if $line =~ /^#/;
 
-    my @cols = split /\t/, $line;
-    next if $cols[SENT];
+my @new_list;
+$list->for_each(sub {
+    my ($self, $file) = @_;
+    return if $file->sent;
 
-    if ($sum + $cols[SENTENCES] < $size) {
-        $sum += $cols[SENTENCES];
-        $cols[ANNOTATOR] = $who;
-        $cols[SENT] = $date;
+    if ($sum + $file->sentences < $size) {
+        $sum += $file->sentences;
+        $file->annotator($who);
+        $file->sent($date);
     }
-    $line = join "\t", @cols;
-}
-for my $line (sort { $a cmp $b } @lines) {
+    push @new_list, $file->serialise;
+});
+
+for my $line (sort { $a cmp $b } @new_list) {
     say $line;
 }
 say STDERR "$sum/$size";

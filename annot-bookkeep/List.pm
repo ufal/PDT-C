@@ -1,21 +1,81 @@
-package List;
-
 use warnings;
 use strict;
 
-use Exporter qw{ import };
+my @FILE_ATTRS = qw( name sentences forms annotator sent done comment );
 
-use constant SVN => "$ENV{HOME}/SVN/pdtc2a";
+{   package List::File;
+    use Moo;
 
-use enum (qw[ FILE SENTENCES FORMS ANNOTATOR SENT DONE COMMENT ]);
-our @EXPORT = qw( FILE SENTENCES FORMS ANNOTATOR SENT DONE COMMENT
-                  list workdir );
+    has [@FILE_ATTRS] => (is => 'rw');
 
-use FindBin;
-my $list = "$FindBin::Bin/list.txt";
--f $list or die "$list not found.\n";
+    sub serialise {
+        my ($self) = @_;
+        return join "\t",
+               map $self->$_ // "",
+               @FILE_ATTRS
+    }
+}
 
-sub list { $list }
-sub workdir { "${\SVN}/annotators/$_[0]" }
+{   package List::Builder::Config;
+    use Moo;
+    use Path::Tiny qw{ path };
+    use namespace::clean;
+
+    has config => (is      => 'ro',
+                   default => path(__FILE__)->parent . "/list.cfg");
+
+    sub build {
+        my ($self) = @_;
+        open my $in, '<', $self->config
+            or die "Can't open " . $self->config . ": $!";
+        my %cfg;
+        while (<$in>) {
+            chomp;
+            my ($key, $value) = split / = /, $_, 2;
+            die "Duplicate $key in ", $self->config
+                if exists $cfg{$key};
+            $cfg{$key} = $value;
+        }
+        return 'List'->new(svn => $cfg{svn});
+    }
+}
+
+package List;
+use Moo;
+use List::Util ();
+use FindBin ();
+
+has svn => (is => 'ro', required => 1);
+has list => (is => 'lazy');
+has bindir => (is => 'ro', default => $FindBin::Bin);
+
+sub workdir {
+    my ($self, $annotator) = @_;
+    return $self->svn . "/annotators/$annotator"
+}
+
+sub shuffle {
+    my ($self) = @_;
+    @{ $self->list } = List::Util::shuffle(@{ $self->list });
+}
+
+sub for_each {
+    my ($self, $code) = @_;
+    for (@{ $self->list }) {
+        my %args;
+        @args{@FILE_ATTRS} = split /\t/;
+        my $file = 'List::File'->new(%args);
+        $code->($self, $file);
+    }
+}
+
+sub _build_list {
+    my ($self) = @_;
+    open my $in, '<', $self->bindir . '/list.txt'
+        or die 'list.txt not found in ' . $self->bindir;
+
+    chomp( my @lines = grep ! /^#/, <$in> );
+    return \@lines
+}
 
 __PACKAGE__

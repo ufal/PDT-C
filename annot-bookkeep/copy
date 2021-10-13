@@ -4,22 +4,24 @@ use strict;
 use feature qw{ say };
 
 use FindBin;
-use lib "$FindBin::Bin";
+use lib $FindBin::Bin;
+
 use List;
 use Path::Tiny qw{ path };
 
-my $list = list();
-open my $in, '<', $list or die "Can't open $list: $!";
-while (<$in>) {
-    my @cols = split /\t/;
-    next if $cols[DONE] || ! $cols[SENT];
+my $list = 'List::Builder::Config'->new->build;
+$list->for_each(sub {
+    my ($self, $file) = @_;
+    return if $file->done || ! $file->sent;
 
-    my $workdir = workdir($cols[ANNOTATOR]);
-    next unless -d "$workdir";
+    my $workdir = $self->workdir($file->annotator);
+    return unless -d "$workdir";
 
-    next if -e "$workdir/$cols[FILE].cz.a";
+    return if -e "$workdir/" . $file->name . '.cz.a';
 
-    for my $file (glob "WorkData2.0/PCEDT-cz/pml/$cols[FILE].cz.[amtw]") {
-        path($file)->copy($workdir);
+    for my $data (glob $self->bindir
+                  . "/../WorkData2.0/PCEDT-cz/pml/" . $file->name . ".cz.[amtw]"
+    ) {
+        path($data)->copy($workdir);
     }
-}
+});

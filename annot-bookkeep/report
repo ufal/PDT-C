@@ -5,34 +5,32 @@ use feature qw{ say };
 
 use FindBin;
 use lib $FindBin::Bin;
+
 use List;
 
 my $from = shift;
 my $to   = shift;
 
-my $list = list();
-open my $in, '<', $list or die "Can't open $list.";
-
+my $list = 'List::Builder::Config'->new->build;
 my %sum;
-while (<$in>) {
-    next if /^#/;
+$list->for_each(sub {
+    my ($self, $file) = @_;
+    next if $from && ($file->sent // $from) < $from;
+    next if $to   && ($file->sent // $to  ) > $to;
 
-    my @cols = split /\t/;
-
-    next if $from && ($cols[SENT] // $from) < $from;
-    next if $to   && ($cols[SENT] // $to  ) > $to;
-
-    if ($cols[SENT] && ! $cols[DONE]) {
-        my $workdir = workdir($cols[ANNOTATOR]);
+    if ($file->sent && ! $file->done) {
+        my $workdir = $self->workdir($file->annotator);
         die "$workdir not found" unless -d $workdir;
 
-        my $state = (-e "$workdir/$cols[FILE].cz.a"
-                     && ! -e "$workdir/done/$cols[FILE].cz.a")
+        my $name = $file->name;
+        my $state = (-e "$workdir/$name.cz.a"
+                     && ! -e "$workdir/done/$name.cz.a")
                   ? 'todo' : 'done';
-        $sum{ $cols[ANNOTATOR] }{$state}{sentences} += $cols[SENTENCES];
-        $sum{ $cols[ANNOTATOR] }{$state}{forms} += $cols[FORMS];
+        $sum{ $file->annotator }{$state}{sentences} += $file->sentences;
+        $sum{ $file->annotator }{$state}{forms} += $file->forms;
     }
-}
+});
+
 for my $state (qw( todo done )) {
     for my $annotator (sort keys %sum) {
             say join "\t", $annotator, $state,
