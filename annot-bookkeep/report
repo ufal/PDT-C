@@ -15,8 +15,8 @@ my $list = 'List::Builder::Config'->new->build;
 my %sum;
 $list->for_each(sub {
     my ($self, $file) = @_;
-    next if $from && ($file->sent // $from) < $from;
-    next if $to   && ($file->sent // $to  ) > $to;
+    return if $from && ($file->sent // $from) < $from;
+    return if $to   && ($file->sent // $to  ) > $to;
 
     if ($file->sent && ! $file->done) {
         my $workdir = $self->workdir($file->annotator);
