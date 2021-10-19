@@ -24,16 +24,17 @@ my $sum = 0;
 my @new_list;
 $list->for_each(sub {
     my ($self, $file) = @_;
-    return if $file->sent;
-
-    if ($sum + $file->sentences < $size) {
-        $sum += $file->sentences;
-        $file->annotator($who);
-        $file->sent($date);
+    unless ($file->sent) {
+        if ($sum + $file->sentences < $size) {
+            $sum += $file->sentences;
+            $file->annotator($who);
+            $file->sent($date);
+        }
     }
     push @new_list, $file->serialise;
 });
 
+say $list->header;
 for my $line (sort { $a cmp $b } @new_list) {
     say $line;
 }

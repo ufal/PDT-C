@@ -69,6 +69,10 @@ sub for_each {
     }
 }
 
+sub header {
+    return '# ' . join "\t", @FILE_ATTRS
+}
+
 sub _build_list {
     my ($self) = @_;
     open my $in, '<', $self->bindir . '/list.txt'
