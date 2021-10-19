@@ -51,7 +51,9 @@ has bindir => (is => 'ro', default => $FindBin::Bin);
 
 sub workdir {
     my ($self, $annotator) = @_;
-    return $self->svn . "/annotators/$annotator"
+    my $dir = $self->svn . "/annotators/$annotator";
+    die "$dir not found" unless -d $dir;
+    return $dir
 }
 
 sub shuffle {

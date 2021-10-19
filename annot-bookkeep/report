@@ -20,8 +20,6 @@ $list->for_each(sub {
 
     if ($file->sent && ! $file->done) {
         my $workdir = $self->workdir($file->annotator);
-        die "$workdir not found" unless -d $workdir;
-
         my $name = $file->name;
         my $state = (-e "$workdir/$name.cz.a"
                      && ! -e "$workdir/done/$name.cz.a")
