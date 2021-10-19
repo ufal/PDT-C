@@ -15,8 +15,6 @@ my $list = 'List::Builder::Config'->new->build;
 my %sum;
 $list->for_each(sub {
     my ($self, $file) = @_;
-    return if $from && ($file->sent // $from) < $from;
-    return if $to   && ($file->sent // $to  ) > $to;
     return if 'ALL' eq ($file->annotator // "");
 
     if ($file->sent) {
@@ -25,6 +23,10 @@ $list->for_each(sub {
         my $state = (-e "$workdir/$name.cz.a"
                      && ! -e "$workdir/done/$name.cz.a")
                   ? 'todo' : 'done';
+        if ('done' eq $state) {
+            return if $from && $file->done < $from;
+            return if $to   && $file->done > $to;
+        }
         $sum{ $file->annotator }{$state}{sentences} += $file->sentences;
         $sum{ $file->annotator }{$state}{forms} += $file->forms;
     }
