@@ -24,6 +24,8 @@ $list->for_each(sub {
                      && ! -e "$workdir/done/$name.cz.a")
                   ? 'todo' : 'done';
         if ('done' eq $state) {
+            die "Missing done for $name" unless $file->done;
+
             return if $from && $file->done < $from;
             return if $to   && $file->done > $to;
         }
