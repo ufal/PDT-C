@@ -1,4 +1,9 @@
 #!/bin/bash
+
+# Send prefixes like wsj1234 as parameters. The script will create
+# copies of them, remove any a-layer annotation, and rename them by
+# adding 3000 to their names.
+
 set -eu
 shopt -s extglob
 
@@ -14,3 +19,6 @@ for prefix ; do
             > "$dir"/PCEDT-cz/pml/wsj"$id_new".cz.$ext
     done
 done
+btred -STe 'CutPaste($_, $root) for $root->descendants' "$dir"/PCEDT-cz/pml/wsj[345]???.cz.a
+btred -SNTe '$this->{afun} = "ExD"' "$dir"/PCEDT-cz/pml/wsj[345]???.cz.a
+sed -i~ '/<is_/d' WorkData2.0/PCEDT-cz/pml/wsj[345]???.cz.a
