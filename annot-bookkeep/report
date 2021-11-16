@@ -31,14 +31,17 @@ $list->for_each(sub {
         }
         $sum{ $file->annotator }{$state}{sentences} += $file->sentences;
         $sum{ $file->annotator }{$state}{forms} += $file->forms;
+    } else {
+        $sum{free}{$_} += $file->$_ for qw( sentences forms );
     }
 });
 
 for my $state (qw( todo done )) {
-    for my $annotator (sort keys %sum) {
+    for my $annotator (grep 'free' ne $_, sort keys %sum) {
             say join "\t", $annotator, $state,
                 $sum{$annotator}{$state}{sentences} // 0,
                 '(' . ($sum{$annotator}{$state}{forms} // 0) . ')';
     }
     print "\n";
 }
+say "FREE\t$sum{free}{sentences}\t($sum{free}{forms})";
