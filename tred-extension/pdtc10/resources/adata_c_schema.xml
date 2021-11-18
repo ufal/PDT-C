@@ -125,6 +125,7 @@
   <type name="a-comment-type.type">
     <choice>
       <value>T-layer</value>
+      <value>M-layer</value>
       <value>Other</value>
     </choice>
   </type>
