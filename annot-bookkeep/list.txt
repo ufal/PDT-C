@@ -2073,33 +2073,33 @@ wsj2169	33	786
 wsj2170	56	1299				
 wsj2171	4	148				
 wsj2172	60	1496				
-wsj2200	20	573				
+wsj2200	20	573				manual
 wsj2201	58	1097				
 wsj2202	46	1158				
 wsj2203	18	409				
-wsj2204	6	131				
+wsj2204	6	131				manual
 wsj2205	59	1183				
-wsj2206	4	99				
-wsj2207	22	578				
-wsj2208	13	269				
-wsj2209	10	259				
+wsj2206	4	99				manual
+wsj2207	22	578				manual
+wsj2208	13	269				manual
+wsj2209	10	259				manual
 wsj2210	46	957				
 wsj2211	48	1243				
-wsj2212	9	283	toh	211006	211118	
-wsj2213	10	318				learn
-wsj2214	13	337				learn
-wsj2215	6	63				
-wsj2216	6	227				
+wsj2212	9	283	toh	211006	211118	manual
+wsj2213	10	318				learn;manual
+wsj2214	13	337				learn;manual
+wsj2215	6	63				manual
+wsj2216	6	227				manual
 wsj2217	2	40	jah	211019	211101	
-wsj2218	11	249				
+wsj2218	11	249				manual
 wsj2219	20	532				
-wsj2220	2	56				
-wsj2221	7	174				
+wsj2220	2	56				manual
+wsj2221	7	174				manual
 wsj2222	37	806				
 wsj2223	42	1029				
 wsj2224	10	272				
 wsj2225	52	1028				
-wsj2226	6	144				
+wsj2226	6	144				manual
 wsj2227	36	976				
 wsj2228	7	184				
 wsj2229	42	1093				
@@ -2109,15 +2109,15 @@ wsj2232	98	2268
 wsj2233	5	130				
 wsj2234	27	765				
 wsj2235	6	229				
-wsj2236	4	135				
+wsj2236	4	135				manual
 wsj2237	6	130				
 wsj2238	8	177	luj	211006		
 wsj2239	92	2006				
-wsj2240	4	133				
-wsj2241	5	159				
+wsj2240	4	133				manual
+wsj2241	5	159				manual
 wsj2242	7	177				
 wsj2243	7	191				
-wsj2244	5	119				
+wsj2244	5	119				manual
 wsj2245	6	183				
 wsj2246	10	262				
 wsj2247	6	169				
@@ -2157,93 +2157,93 @@ wsj2280	14	366
 wsj2281	25	748	lec	211117		
 wsj2282	29	722				
 wsj2300	86	1905				
-wsj2301	4	68				
-wsj2302	4	86				
-wsj2303	29	792				
+wsj2301	4	68				manual
+wsj2302	4	86				manual
+wsj2303	29	792				manual
 wsj2304	3	66				
-wsj2305	4	87				
+wsj2305	4	87				manual
 wsj2306	62	1274				
 wsj2307	3	92				
-wsj2308	44	1093				
-wsj2309	17	487				
+wsj2308	44	1093				manual
+wsj2309	17	487				manual
 wsj2310	3	77				
 wsj2311	2	29				
-wsj2312	4	74				
-wsj2313	11	340				
-wsj2314	70	1499				
-wsj2315	12	356				
-wsj2316	27	656	lec	211117		
-wsj2317	14	344				
-wsj2318	1	27	luj	211006		
+wsj2312	4	74				manual
+wsj2313	11	340				manual
+wsj2314	70	1499				manual
+wsj2315	12	356				manual
+wsj2316	27	656	lec	211117		manual
+wsj2317	14	344				manual
+wsj2318	1	27	luj	211006		manual
 wsj2319	3	85				
 wsj2320	31	682				
-wsj2321	34	723				
+wsj2321	34	723				manual
 wsj2322	9	200				
 wsj2323	5	121				
 wsj2324	5	95				
 wsj2325	36	738				
 wsj2326	18	500				
-wsj2327	10	265				
+wsj2327	10	265				manual
 wsj2328	12	306				
 wsj2329	8	175				
 wsj2330	49	1182				
 wsj2331	39	971				
 wsj2332	9	227				
-wsj2333	2	49				
+wsj2333	2	49				manual
 wsj2334	4	134				
-wsj2335	5	118				
+wsj2335	5	118				manual
 wsj2336	10	277				
-wsj2337	37	1062				
+wsj2337	37	1062				manual
 wsj2338	28	898				
-wsj2339	21	526				
-wsj2340	10	219				
-wsj2341	39	1038				
-wsj2342	13	276				
-wsj2343	36	911				
-wsj2344	14	359				
-wsj2345	18	553				
-wsj2346	42	838				
-wsj2347	31	821				
-wsj2348	28	598	kac	211006	211116	
+wsj2339	21	526				manual
+wsj2340	10	219				manual
+wsj2341	39	1038				manual
+wsj2342	13	276				manual
+wsj2343	36	911				manual
+wsj2344	14	359				manual
+wsj2345	18	553				manual
+wsj2346	42	838				manual
+wsj2347	31	821				manual
+wsj2348	28	598	kac	211006	211116	manual
 wsj2349	7	183				
-wsj2350	24	592				
+wsj2350	24	592				manual
 wsj2351	56	1343				
-wsj2352	8	163				
-wsj2353	9	242				
-wsj2354	17	487				
+wsj2352	8	163				manual
+wsj2353	9	242				manual
+wsj2354	17	487				manual
 wsj2355	3	53				
-wsj2356	36	774				
-wsj2357	10	304				
-wsj2358	35	932				
-wsj2359	13	331				
-wsj2360	32	840				
-wsj2361	52	1287				
-wsj2362	30	849				
-wsj2363	19	576				
-wsj2364	8	239				
-wsj2365	51	1132				
-wsj2366	55	1025				
-wsj2367	21	415	jah	211019	211108	mam
-wsj2368	7	150				
-wsj2369	47	1144				
-wsj2370	8	118				
-wsj2371	4	89				
-wsj2372	71	1726				
+wsj2356	36	774				manual
+wsj2357	10	304				manual
+wsj2358	35	932				manual
+wsj2359	13	331				manual
+wsj2360	32	840				manual
+wsj2361	52	1287				manual
+wsj2362	30	849				manual
+wsj2363	19	576				manual
+wsj2364	8	239				manual
+wsj2365	51	1132				manual
+wsj2366	55	1025				manual
+wsj2367	21	415	jah	211019	211108	mam;manual
+wsj2368	7	150				manual
+wsj2369	47	1144				manual
+wsj2370	8	118				manual
+wsj2371	4	89				manual
+wsj2372	71	1726				manual
 wsj2373	11	202				
 wsj2374	2	30				
-wsj2375	10	221	toh	211006	211119	
-wsj2376	93	1604				
-wsj2377	58	1106				
-wsj2378	12	213				
-wsj2379	67	1587				
+wsj2375	10	221	toh	211006	211119	manual
+wsj2376	93	1604				manual
+wsj2377	58	1106				manual
+wsj2378	12	213				manual
+wsj2379	67	1587				manual
 wsj2380	51	734				
-wsj2381	44	1043	toh	211006		
-wsj2382	9	216				
-wsj2383	9	220				
-wsj2384	50	1395				
-wsj2385	50	596				
-wsj2386	49	997				
-wsj2387	53	1289				
+wsj2381	44	1043	toh	211006		manual
+wsj2382	9	216				manual
+wsj2383	9	220				manual
+wsj2384	50	1395				manual
+wsj2385	50	596				manual
+wsj2386	49	997				manual
+wsj2387	53	1289				manual
 wsj2388	6	116				
 wsj2389	4	117				
 wsj2390	2	47				
@@ -2251,10 +2251,10 @@ wsj2391	12	261
 wsj2392	6	140				
 wsj2393	11	289				
 wsj2394	17	545				
-wsj2395	8	235				
+wsj2395	8	235				manual
 wsj2396	23	579				
 wsj2397	63	1234	kac	211125		
-wsj2398	40	1026				
+wsj2398	40	1026				manual
 wsj2399	27	594	luj	211006		
 wsj2400	23	594				
 wsj2401	6	65	kac	211006	211114	
