@@ -4,11 +4,14 @@ use strict;
 
 use feature qw{ say };
 
+use Path::Tiny ();
+
 use FindBin;
 use lib $FindBin::Bin;
 
 use List;
 
+my $new;
 sub update {
     my ($self, $file) = @_;
     if ($file->sent && $file->annotator ne 'ALL') {
@@ -36,9 +39,16 @@ sub update {
             }
         }
     }
-    say $file->serialise;
+    say {$new} $file->serialise;
 }
 
 my $list = 'List::Builder::Config'->new->build;
-say $list->header;
+
+my $tmp = 'Path::Tiny'->tempfile;
+$new = $tmp->filehandle('>');
+say {$new} $list->header;
 $list->for_each(\&update);
+close $new;
+
+$tmp->copy($list->file) or die "Can't rename to ", $list->file;
+warn $tmp;

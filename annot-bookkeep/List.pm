@@ -48,6 +48,7 @@ use FindBin ();
 has svn => (is => 'ro', required => 1);
 has list => (is => 'lazy');
 has bindir => (is => 'ro', default => $FindBin::Bin);
+has file => (is => 'rwp');
 
 sub workdir {
     my ($self, $annotator) = @_;
@@ -77,7 +78,8 @@ sub header {
 
 sub _build_list {
     my ($self) = @_;
-    open my $in, '<', $self->bindir . '/list.txt'
+    $self->_set_file($self->bindir . '/list.txt');
+    open my $in, '<', $self->file
         or die 'list.txt not found in ' . $self->bindir;
 
     chomp( my @lines = grep ! /^#/, <$in> );
