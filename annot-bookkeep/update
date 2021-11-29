@@ -51,4 +51,3 @@ $list->for_each(\&update);
 close $new;
 
 $tmp->copy($list->file) or die "Can't rename to ", $list->file;
-warn $tmp;
