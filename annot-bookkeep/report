@@ -5,11 +5,28 @@ use feature qw{ say };
 
 use FindBin;
 use lib $FindBin::Bin;
+use if -t *STDOUT => 'Term::ANSIColor', qw{ colored };
 
 use List;
 
 my $from = shift;
 my $to   = shift;
+
+{   my %HIGHLIGHT = (sentences => 100, files => 3);
+    sub highlight {
+        my ($state, $dimension, $sum) = @_;
+        my $quantity = $sum->{$state}{$dimension} // 0;
+        if (-t *STDOUT
+            && 'todo' eq $state
+            && exists $HIGHLIGHT{$dimension}
+            && $HIGHLIGHT{$dimension} > $quantity
+        ) {
+            return colored(['bright_red'], $quantity)
+        }
+
+        return $quantity
+    }
+}
 
 my $list = 'List::Builder::Config'->new->build;
 my %sum;
@@ -42,9 +59,9 @@ $list->for_each(sub {
 for my $state (qw( todo done )) {
     for my $annotator (grep 'free' ne $_, sort keys %sum) {
             say join "\t", $annotator, $state,
-                $sum{$annotator}{$state}{sentences} // 0,
+                highlight($state, 'sentences', $sum{$annotator}),
                 '(' . ($sum{$annotator}{$state}{forms} // 0) . ')',
-                '[' . ($sum{$annotator}{$state}{files} // 0) . ']';
+                '[' . highlight($state, 'files', $sum{$annotator}) . ']';
     }
     print "\n";
 }
