@@ -1,5 +1,9 @@
 # -*- mode: org -*-
 
+* A-layer [1/1]
+
+- [X] duplicate some lec files to mam
+
 * Rename vallex
 
   find . -name .git -prune -o -type f -exec grep 'vallex3\.xml' {} + |  grep -v id= 
@@ -11,9 +15,9 @@ for tb in PCEDT PDTSC ; do
     grep -vwFf- <(grep 'a#' WorkData/$tb/data/*.t)
 done
 
-* PCEDT + Faust [0/2]
-- [ ] Fix forms (new dictionary?)
-- [ ] Repeat all steps for Faust
+* PCEDT + Faust [2/2]
+- [X] Fix forms (new dictionary?)
+- [X] Repeat all steps for Faust
 
 * Duplicates [4/4]
 
