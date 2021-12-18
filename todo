@@ -1,5 +1,18 @@
 # -*- mode: org -*-
 
+* LREC-22
+
+|        |         no support   |         TR        |       Rules       |       TR+Rules     |
+|        |          lrec1       |       lrec2       |       lrec3       |        lrec4       |
+|        | wsj1002    | wsj2250 | wsj0282 | wsj1455 | wsj0989 | wsj1446 | wsj1568  | wsj1986 |
+|        | 1261       | 1241    | 1252    | 1258    | 1257    | 1254    | 1262     | 1239    |
+|--------+------------+---------+---------+---------+---------+---------+----------+---------|
+| parsed | toh        | mam     | toh     | mam     | toh     | mam     | toh      | mam     |
+|        | bas        | jah     | bas     | jah     | bas     | jah     | bas      | jah     |
+|--------+------------+---------+---------+---------+---------+---------+----------+---------|
+| manual | mam        | toh     | mam     | toh     | mam     | toh     | mam      | toh     |
+|        | jah        | bas     | jah     | bas     | jah     | bas     | jah      | bas     |
+
 * A-layer [1/1]
 
 - [X] duplicate some lec files to mam
