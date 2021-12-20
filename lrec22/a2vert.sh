@@ -6,6 +6,9 @@ for dir in bas jah mam toh gold ; do
     btred -TNe 'if ($this->parent) {
                     writeln(join "\t",
                                  $this->{id},
+                                 "'"$dir"'/" . FileName() =~ s{.*/}{}r =~ s/\.cz.a$//r,
+                                 $this->root->{id},
+                                 $grp->{FSFile}->documentRootData->{meta}{annotation_info}{desc},
                                  $this->parent->{id},
                                  join(",", sort map $_->{id}, PML_A_Anot::get_eparents($this)),
                                  $this->{afun},
