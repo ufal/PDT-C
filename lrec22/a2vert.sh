@@ -2,7 +2,7 @@
 set -eu
 
 cd lrec
-for dir in bas jah mam toh gold ; do
+for dir in bas jah mam toh gold bare ; do
     btred -TNe 'if ($this->parent) {
                     writeln(join "\t",
                                  $this->{id},

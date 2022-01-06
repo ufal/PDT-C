@@ -46,6 +46,11 @@ for score in UAS LAS FULL ; do
             done
         done
     done
+    total=$(wc -l < gold.v)
+    same=$(comm -12 <(cut -f"${columns[$score]}" bare.v | sort) \
+                    <(cut -f"${columns[$score]}" gold.v | sort) | wc -l)
+    printf '%-20s' bare
+    echo "100*$same/$total" | bc -l
 done
 
 
