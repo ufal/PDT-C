@@ -36,9 +36,10 @@ for score in UAS LAS FULL ; do
     for type in "${!regex[@]}" ; do
         for anot in ??? ; do
             for parsed in "${!struct[@]}" ; do
-                total=$(grep -hE "${regex[$type]}" gold.v | grep "${struct[$parsed]}" | wc -l)
-                same=$(comm -12 <(grep -hE "${regex[$type]}" $anot.v | grep "${struct[$parsed]}" | cut -f"${columns[$score]}" | sort) \
-                                <(grep -hE "${regex[$type]}" gold.v  | grep "${struct[$parsed]}" | cut -f"${columns[$score]}" | sort) | wc -l)
+                selected=$(grep -hE "${regex[$type]}" $anot.v | grep "${struct[$parsed]}")
+                total=$(wc -l <<< "$selected")
+                same=$(comm -12 <(cut -f"${columns[$score]}" <<< "$selected" | sort) \
+                                <(grep -hE "${regex[$type]}" gold.v | cut -f"${columns[$score]}" | sort) | wc -l)
                 if (( ! same )) ; then continue ; fi
                 printf '%-8s %3s %6s ' "$type" "$anot" "$parsed"
                 echo "100*$same/$total" | bc -l
