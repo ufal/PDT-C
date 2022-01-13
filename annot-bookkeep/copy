@@ -19,9 +19,11 @@ $list->for_each(sub {
 
     return if -e "$workdir/" . $file->name . '.cz.a';
 
-    for my $data (glob $self->bindir
-                  . "/../WorkData2.0/PCEDT-cz/pml/" . $file->name . ".cz.[amtw]"
-    ) {
+    my @files = glob $self->bindir
+              . "/../WorkData2.0/PCEDT-cz/pml/" . $file->name . ".cz.[amtw]";
+    die 'Some of ', $file->name, ' not found' unless 4 == @files;
+
+    for my $data (@files) {
         path($data)->copy($workdir);
     }
 });
