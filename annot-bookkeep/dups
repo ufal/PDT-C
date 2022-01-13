@@ -1,0 +1,61 @@
+#!/usr/bin/perl
+use warnings;
+use strict;
+use feature qw{ say };
+
+use FindBin;
+use lib $FindBin::Bin;
+
+use List;
+use Path::Tiny qw{ path };
+use Time::Piece;
+
+my $date = shift || localtime->strftime('%y%m%d');
+
+my $list = 'List::Builder::Config'->new->build;
+$list->for_each(sub {
+    my ($self, $file) = @_;
+
+    return if $file->done || ! $file->sent;
+    return unless ($file->comment // "") =~ /dup-\d+/a;
+    return if $file->sent ne $date;
+
+    my $workdir = $self->workdir($file->annotator);
+    return unless -d "$workdir";
+
+    return if -e "$workdir/" . $file->name . '.cz.a';
+
+    my ($shift) = $file->comment =~ /dup-(\d+)/a;
+    my ($orig) = $file->name =~ /wsj(.*)/;
+    my $num = $orig;
+    if ($orig !~ /^\d/a) {
+        my ($letter, $rest) = $orig =~ /(.)(...)/;
+        $num = 1000 * (10 + ord($letter) - ord 'a') + $rest;
+    }
+    $num -= $shift * 1000;
+    my $name = sprintf 'wsj%04d', $num;
+
+    my @files = glob $self->bindir
+              . "/../WorkData2.0/PCEDT-cz/pml/$name.cz.[amtw]";
+    die "Some of wsj$orig ($name) not found" unless 4 == @files;
+
+    for my $data (@files) {
+        path($data)->copy($workdir);
+        for my $f (path($workdir)->children(qr/^$name/)) {
+            duplicate($f, $orig);
+        }
+    }
+});
+
+sub duplicate {
+    my ($file, $name) = @_;
+    my ($old, $ext) = $file =~ /(wsj[^.]+)(.*)/;
+    open my $in, '<', $file or die $!;
+    open my $out, '>', path($file)->parent->child("wsj$name$ext") or die $!;
+    while (<$in>) {
+        s/$old/wsj$name/g;
+        print {$out} $_;
+    }
+    close $out;
+    unlink $file;
+}
