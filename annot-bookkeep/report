@@ -12,14 +12,14 @@ use List;
 my $from = shift;
 my $to   = shift;
 
-{   my %HIGHLIGHT = (sentences => 100, files => 3);
+{   my %HIGHLIGHT = (sentences => 150, files => 5);
     sub highlight {
         my ($state, $dimension, $sum) = @_;
         my $quantity = $sum->{$state}{$dimension} // 0;
         if (-t *STDOUT
             && 'todo' eq $state
             && exists $HIGHLIGHT{$dimension}
-            && $HIGHLIGHT{$dimension} > $quantity
+            && $HIGHLIGHT{$dimension} >= $quantity
         ) {
             return colored(['bright_red'], $quantity)
         }
