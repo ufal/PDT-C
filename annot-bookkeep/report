@@ -3,6 +3,8 @@ use warnings;
 use strict;
 use feature qw{ say };
 
+use Text::Table;
+
 use FindBin;
 use lib $FindBin::Bin;
 use if -t *STDOUT => 'Term::ANSIColor', qw{ colored };
@@ -40,33 +42,40 @@ $list->for_each(sub {
         my $state = (-e "$workdir/$name.cz.a"
                      && ! -e "$workdir/done/$name.cz.a")
                   ? 'todo' : 'done';
-        if ('done' eq $state) {
-            die "Missing done or not copied: $name" unless $file->done;
+        die "Missing done or not copied: $name"
+            if 'done' eq $state && ! $file->done;
 
-            return if $from && $file->done < $from;
-            return if $to   && $file->done > $to;
+        for my $who ('ALL', $file->annotator) {
+            if ('ALL' eq $who) {
+                next if 'done' ne $state;
+
+            } elsif ('done' eq $state) {
+                next if $from && $file->done < $from
+                     || $to   && $file->done > $to;
+            }
+
+            $sum{$who}{$state}{sentences} += $file->sentences;
+            $sum{$who}{$state}{forms} += $file->forms;
+            $sum{$who}{$state}{files} += 1;
         }
-        $sum{ $file->annotator }{$state}{sentences} += $file->sentences;
-        $sum{ $file->annotator }{$state}{forms} += $file->forms;
-        $sum{ $file->annotator }{$state}{files} += 1;
-
     } else {
-        $sum{free}{$_} += $file->$_ for qw( sentences forms );
-        ++$sum{free}{files};
+        $sum{ALL}{todo}{$_} += $file->$_ for qw( sentences forms );
+        ++$sum{ALL}{todo}{files};
     }
 });
 
+my $t = 'Text::Table'->new('who', 'sents',
+                           {title => 'forms', align => 'right'},
+                           {title => 'files', align => 'right'});
 for my $state (qw( todo done )) {
-    for my $annotator (grep 'free' ne $_, sort keys %sum) {
-            say join "\t", $annotator, $state,
-                highlight($state, 'sentences', $sum{$annotator}),
-                '(' . ($sum{$annotator}{$state}{forms} // 0) . ')',
-                '[' . highlight($state, 'files', $sum{$annotator}) . ']';
+    say "** $state **";
+    for my $annotator (reverse sort keys %sum) {
+        $t->add(
+            $annotator,
+            highlight($state, 'sentences', $sum{$annotator}),
+            '(' . ($sum{$annotator}{$state}{forms} // 0) . ')',
+            '[' . highlight($state, 'files', $sum{$annotator}) . ']');
     }
-    print "\n";
+    print $t->title, $t->rule('-'), $t->body, "\n";
+    $t->clear;
 }
-say join "\t",
-    'FREE',
-    $sum{free}{sentences},
-    "($sum{free}{forms})",
-    "[$sum{free}{files}]";
