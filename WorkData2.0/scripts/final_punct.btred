@@ -1,0 +1,14 @@
+#!btred -Te final_punct
+
+use warnings;
+use strict;
+
+sub final_punct {
+    my @top = sort { $a->{ord} <=> $b->{ord} } $this->children;
+    my $last = (grep $_->{afun} ne 'AuxK', reverse @top)[0];
+    while (@top && $top[-1]{afun} eq 'AuxK') {
+        my $auxk = pop @top;
+        CutPaste($auxk, $last);
+        ChangingFile(1);
+    }
+}
