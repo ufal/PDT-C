@@ -1,0 +1,57 @@
+#!/usr/bin/perl
+use warnings;
+use strict;
+use feature qw{ say };
+
+use FindBin;
+use lib $FindBin::Bin;
+
+use List;
+use Path::Tiny qw{ path };
+
+my $list = 'List::Builder::Config'->new->build;
+$list->for_each(sub {
+    my ($self, $file) = @_;
+
+    return if ! $file->done || ! $file->sent;
+    return unless ($file->comment // "") =~ /dup-\d+/a;
+
+    my $workdir = $self->workdir($file->annotator) . '/done';
+    die "$workdir not found" unless -d "$workdir";
+
+    my ($shift) = $file->comment =~ /dup-(\d+)/a;
+    my ($orig) = $file->name =~ /wsj(.*)/;
+    my $num = $orig;
+    if ($orig !~ /^\d/a) {
+        my ($letter, $rest) = $orig =~ /(.)(...)/;
+        $num = 1000 * (10 + ord($letter) - ord 'a') + $rest;
+    }
+    $num -= $shift * 1000;
+    my $name = sprintf 'wsj%04d', $num;
+
+    my @target_files = glob "$workdir/done/$name.cz.[amtw]";
+    die "$name already exists" if @target_files;
+
+    my @files = glob "$workdir/" . $file->name . '.cz.[amtw]';
+    die $file->name . ' missing' unless 4 == @files;
+
+    for my $data (@files) {
+        deduplicate($data, $file->name, $name);
+    }
+    say STDERR $file->name;
+});
+
+sub deduplicate {
+    my ($file, $new, $old) = @_;
+    my ($ext) = $file =~ /\.cz\.(.)/;
+    my $target = path($file)->parent->child("$old.cz.$ext");
+
+    open my $in, '<', $file or die $!;
+    open my $out, '>', $target or die $!;
+    while (<$in>) {
+        s/$new/$old/g;
+        print {$out} $_;
+    }
+    close $out or die $!;
+    unlink $file;
+}
