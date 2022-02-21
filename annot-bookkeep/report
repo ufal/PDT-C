@@ -39,24 +39,26 @@ $list->for_each(sub {
     if ($file->sent) {
         my $workdir = $self->workdir($file->annotator);
         my $name = $file->name;
-        my $state = (-e "$workdir/$name.cz.a"
-                     && ! -e "$workdir/done/$name.cz.a")
-                  ? 'todo' : 'done';
+
+        my $is_in_progress = (-e "$workdir/$name.cz.a"
+                              && ! -e "$workdir/done/$name.cz.a");
         die "Missing done or not copied: $name"
-            if 'done' eq $state && ! $file->done;
+            unless $is_in_progress || $file->done;
 
         for my $who ('ALL', $file->annotator) {
             if ('ALL' eq $who) {
-                next if 'done' ne $state;
+                next unless $file->done;
 
-            } elsif ('done' eq $state) {
+            } elsif ($file->done) {
                 next if $from && $file->done < $from
                      || $to   && $file->done > $to;
             }
 
+            my $state = $file->done ? 'done' : 'todo';
             $sum{$who}{$state}{sentences} += $file->sentences;
             $sum{$who}{$state}{forms} += $file->forms;
             $sum{$who}{$state}{files} += 1;
+            warn $file->name, " $state ", $file->sentences if $who eq 'luj';
         }
     } else {
         $sum{ALL}{todo}{$_} += $file->$_ for qw( sentences forms );
