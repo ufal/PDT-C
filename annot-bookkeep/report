@@ -58,7 +58,6 @@ $list->for_each(sub {
             $sum{$who}{$state}{sentences} += $file->sentences;
             $sum{$who}{$state}{forms} += $file->forms;
             $sum{$who}{$state}{files} += 1;
-            warn $file->name, " $state ", $file->sentences if $who eq 'luj';
         }
     } else {
         $sum{ALL}{todo}{$_} += $file->$_ for qw( sentences forms );
