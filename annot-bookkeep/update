@@ -11,10 +11,14 @@ use lib $FindBin::Bin;
 
 use List;
 
+my $check_done = shift;
+
 my $new;
 sub update {
     my ($self, $file) = @_;
-    if ($file->sent && $file->annotator ne 'ALL') {
+    if ($file->sent && $file->annotator ne 'ALL'
+        && ($check_done || ! $file->done)
+    ) {
         my $workdir = $self->workdir($file->annotator);
         my $name = $file->name;
         my $done_file = "$workdir/done/$name.cz.a";
@@ -51,3 +55,9 @@ $list->for_each(\&update);
 close $new;
 
 $tmp->copy($list->file) or die "Can't rename to ", $list->file;
+
+=head1 update
+
+Run with any true parameter to also check already recorded files (slow).
+
+=cut
