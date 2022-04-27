@@ -1,5 +1,10 @@
 # -*- mode: org -*-
 
+* A-layer Annotation [1/1]
+
+- [X] Report error when file is found in anot dir but not in list.txt
+  (maybe only on update x?)
+
 * LREC-22
 
 |        |         no support   |         TR        |       Rules       |       TR+Rules     |
