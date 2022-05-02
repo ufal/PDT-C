@@ -2039,9 +2039,6 @@
 <ord>24</ord>
 </children>
 </children>
-<comments>
-<LM type=""/>
-</comments>
 </LM>
 <LM id="a-wsj0210-001-p1s13W28-Ta">
 <m.rf>m#m-wsj0210-001-p1s13W28-Ta</m.rf>
@@ -3040,7 +3037,6 @@
 </children>
 </LM>
 </children>
-<comments type=""/>
 </LM>
 </children>
 </children>
