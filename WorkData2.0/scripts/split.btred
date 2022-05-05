@@ -10,9 +10,13 @@ sub splits {
     for my $node (@nodes) {
         push @chain, $node;
         if (! $node->attr('m/w/no_space_after')) {
-            say join ' ', map $_->attr('m/form'), @chain
-                if @chain > 1
-                && 1 < grep $_->attr('m/form') =~ /[[:alpha:]]/, @chain;
+            if (@chain > 1
+                && 1 < grep $_->attr('m/form') =~ /[[:alpha:]]/, @chain
+            ) {
+                print join ' ', map $_->attr('m/form'), @chain;
+                print "\t";
+                FPosition($chain[0]);
+            }
             @chain = ();
         }
     }
