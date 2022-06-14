@@ -40,6 +40,7 @@ sub update {
                     die "Wrong date at $name.\n";
                 }
                 $file->done($date);
+                say {\*STDERR} join "\t", $file->annotator, $file->name;
             }
         }
     }
