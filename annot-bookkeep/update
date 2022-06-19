@@ -39,8 +39,9 @@ sub update {
                 if ($file->done && $date ne $file->done) {
                     die "Wrong date at $name.\n";
                 }
+                say {\*STDERR} join "\t", $file->annotator, $file->name
+                    if ! $check_done || ! $file->done;
                 $file->done($date);
-                say {\*STDERR} join "\t", $file->annotator, $file->name;
             }
         }
     }
