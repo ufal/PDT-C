@@ -84,8 +84,10 @@ for my $state (qw( todo done )) {
             '(' . ($sum{$annotator}{$state}{forms} // 0) . ')',
             '[' . highlight($state, 'files', $sum{$annotator}) . ']')
             unless $skip_zero
-                && 'done' eq $state
-                && ! $sum{$annotator}{done}{files};
+                    && 'done' eq $state
+                    && ! $sum{$annotator}{done}{files}
+                || 'todo' eq $state
+                    && $annotator =~ $list->inactive;
     }
     print $t->title, $t->rule('-'), $t->body, "\n";
     $t->clear;

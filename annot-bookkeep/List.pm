@@ -36,7 +36,7 @@ my @FILE_ATTRS = qw( name sentences forms annotator sent done comment );
                 if exists $cfg{$key};
             $cfg{$key} = $value;
         }
-        return 'List'->new(svn => $cfg{svn});
+        return 'List'->new(map +($_ => $cfg{$_}), qw( svn inactive ));
     }
 }
 
@@ -45,10 +45,11 @@ use Moo;
 use List::Util ();
 use FindBin ();
 
-has svn => (is => 'ro', required => 1);
-has list => (is => 'lazy');
-has bindir => (is => 'ro', default => $FindBin::Bin);
-has file => (is => 'rwp');
+has svn      => (is => 'ro', required => 1);
+has inactive => (is => 'ro');
+has list     => (is => 'lazy');
+has bindir   => (is => 'ro', default => $FindBin::Bin);
+has file     => (is => 'rwp');
 
 sub workdir {
     my ($self, $annotator) = @_;
