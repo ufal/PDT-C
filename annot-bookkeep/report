@@ -11,6 +11,9 @@ use if -t *STDOUT => 'Term::ANSIColor', qw{ colored };
 
 use List;
 
+my $skip_zero;
+$skip_zero = 1, shift if $ARGV[0] eq '-z';
+
 my $from = shift;
 my $to   = shift;
 
@@ -79,7 +82,10 @@ for my $state (qw( todo done )) {
             $annotator,
             highlight($state, 'sentences', $sum{$annotator}),
             '(' . ($sum{$annotator}{$state}{forms} // 0) . ')',
-            '[' . highlight($state, 'files', $sum{$annotator}) . ']');
+            '[' . highlight($state, 'files', $sum{$annotator}) . ']')
+            unless $skip_zero
+                && 'done' eq $state
+                && ! $sum{$annotator}{done}{files};
     }
     print $t->title, $t->rule('-'), $t->body, "\n";
     $t->clear;
