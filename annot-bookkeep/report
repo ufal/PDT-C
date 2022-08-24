@@ -12,7 +12,7 @@ use if -t *STDOUT => 'Term::ANSIColor', qw{ colored };
 use List;
 
 my $skip_zero;
-$skip_zero = 1, shift if $ARGV[0] eq '-z';
+$skip_zero = 1, shift if @ARGV && $ARGV[0] eq '-z';
 
 my $from = shift;
 my $to   = shift;
