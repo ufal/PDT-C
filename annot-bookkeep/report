@@ -62,8 +62,10 @@ $list->for_each(sub {
     } else {
         $sum{ALL}{todo}{$_} += $file->$_ for qw( sentences forms );
         ++$sum{ALL}{todo}{files};
+        my @files = grep ! m{/annotators/mam/[^/]+\.cz\.a$},
+                    glob "${\ $self->svn}/annotators/???/${\ $file->name}.cz.a";
         die "${\$file->name} found in SVN but not booked in list.txt!\n"
-            if glob "${\ $self->svn}/annotators/???/${\ $file->name}.cz.a";
+            if @files;
     }
 });
 
