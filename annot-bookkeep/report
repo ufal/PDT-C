@@ -43,6 +43,10 @@ $list->for_each(sub {
         my $workdir = $self->workdir($file->annotator);
         my $name = $file->name;
 
+        die "${\$file->name} assigned to ignored annotator ${\$file->annotator}"
+            if ! $file->done
+            && $file->annotator =~ $list->inactive;
+
         my $is_in_progress = (-e "$workdir/$name.cz.a"
                               && ! -e "$workdir/done/$name.cz.a");
         die "Missing done or not copied: $name"
