@@ -24,7 +24,7 @@ my $sum = 0;
 my @new_list;
 $list->for_each(sub {
     my ($self, $file) = @_;
-    unless ($file->sent) {
+    unless ($file->sent || ($file->annotator // "") eq 'ALL') {
         if ($sum + $file->sentences < $size) {
             $sum += $file->sentences;
             $file->annotator($who);
