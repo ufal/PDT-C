@@ -46,7 +46,7 @@ while (<$identify>) {
         my $id = $m_node->{id};
         my $form = $xpc->findvalue('pml:form', $m_node);
 
-        if ($xpc->findnodes('pml:tag', $m_node)) {
+        if ($xpc->findnodes('pml:lemma', $m_node)) {
             my $tag = $xpc->findvalue('pml:tag', $m_node);
             my $lemma = $xpc->findvalue('pml:lemma', $m_node);
             $m_node->removeChild($_)
