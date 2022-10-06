@@ -20,7 +20,7 @@ if [[ ! -f templates.o ]] ; then
 fi
 
 cut -f1,4 templates.o | nsort | grep -v '^ *1 ' > templates.no_afun
-cut -f1,2,4 templates.o | nsort | grep -v '^ *1 ' | cut -f1,3 > templates.afuns
+cut -f1,2,3,4 templates.o | nsort | grep -v '^ *1 ' | cut -f1,4 > templates.afuns
 comm -3 <(sort templates.afuns) <(sort templates.no_afun) \
 | sed 's/^[ \t]*[0-9]*//' \
 | nsort \
