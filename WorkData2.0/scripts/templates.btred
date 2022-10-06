@@ -1,0 +1,27 @@
+#!btred -TNe templates()
+# -*- mode: cperl -*-
+use warnings;
+use strict;
+
+sub by_ord { $a->{ord} <=> $b->{ord} }
+
+sub templates {
+    return if $this == $root || $this->{afun} =~ /^(?:Aux[CP]|Coord|Apos)$/;
+
+    my @nodes = ($this, $this->descendants);
+    return if @nodes < 3;
+
+    @nodes              = sort by_ord @nodes;
+
+    my $o    = 1;
+    my %ords = map { $_->{id} => $o++ } @nodes;
+    $ords{ $this->parent->{id} } = '^';
+
+    my @afuns   = map $_ == $this ? '-' : $_->{afun}, @nodes;
+    my @parents = map $ords{ $_->parent->{id} }, @nodes;
+    my @forms   = map $_->attr('m/form'), @nodes;
+    my $size    = @forms;
+
+    print join "\t", "@forms", "@afuns", "@parents", $size, "";
+    FPosition();
+}
