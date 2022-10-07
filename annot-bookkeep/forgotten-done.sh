@@ -17,6 +17,6 @@ adir=${adir#svn = }
 
 for a in "$adir"/annotators/???/wsj*.cz.a ; do
     if [[ -e ${a/wsj/done/wsj} ]] ; then
-        svn "$action" "${f%a}"?
+        svn "$action" "${a%a}"?
     fi
 done
