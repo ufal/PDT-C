@@ -2,21 +2,14 @@
 set -eu
 export LC_ALL=C
 
-if (( $# == 0 )) ; then
-    cat <<-EOF
-	Usage: $0 path_to_pdt-c
-	EOF
-    exit 1
-fi
-
-pdt_c_dir=$1
+scripts_dir=${0%/*}
 
 function nsort() {
     sort | uniq -c | sort -n
 }
 
 if [[ ! -f templates.o ]] ; then
-    time btred -qI "$pdt_c_dir"/WorkData2.0/scripts/templates.btred annotators/???/done/wsj*.cz.a > templates.o
+    time btred -qI "$scripts_dir"/templates.btred annotators/???/done/wsj*.cz.a > templates.o
 fi
 
 cut -f1,4 templates.o | nsort | grep -v '^ *1 ' > templates.no_afun
