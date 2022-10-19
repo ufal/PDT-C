@@ -25,7 +25,9 @@ my @new_list;
 $list->for_each(sub {
     my ($self, $file) = @_;
     unless ($file->sent || ($file->annotator // "") eq 'ALL') {
-        if ($sum + $file->sentences < $size) {
+        if ($sum + $file->sentences < $size
+            && ($file->comment // "") ne "!$who"
+        ) {
             $sum += $file->sentences;
             $file->annotator($who);
             $file->sent($date);
