@@ -50,7 +50,7 @@ $list->for_each(sub {
         my $is_in_progress = (-e "$workdir/$name.cz.a"
                               && ! -e "$workdir/done/$name.cz.a");
         die "Missing done or not copied: $name"
-            unless $is_in_progress || $file->done;
+            unless $is_in_progress || $file->done || $file->comment eq 'all';
 
         for my $who ('ALL', $file->annotator) {
             if ('ALL' eq $who) {
