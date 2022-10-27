@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
+<head>
+<schema href="adata_schema.xml" />
+<references>
+<reffile id="m" name="mdata" href="ps_003.08.m" />
+<reffile id="w" name="wdata" href="ps_003.08.w" />
+</references>
+</head>
+<trees>
+<LM id="ps_003.08-SCzechA-ps_003-11880-root">
+<s.rf>m#m003-11880</s.rf>
+<ord>0</ord>
+<children>
+<LM id="ps_003.08-SCzechA-m-d1t2523-1">
+<m.rf>m#m003-d1t2523-1</m.rf>
+<afun>Pred</afun>
+<ord>1</ord>
+<children>
+<LM id="ps_003.08-SCzechA-m-d1t2523-2">
+<m.rf>m#m003-d1t2523-2</m.rf>
+<afun>Obj</afun>
+<ord>2</ord>
+</LM>
+<LM id="ps_003.08-SCzechA-m-d1t2523-3">
+<m.rf>m#m003-d1t2523-3</m.rf>
+<afun>AuxP</afun>
+<ord>3</ord>
+<children id="ps_003.08-SCzechA-m-d1t2523-5">
+<m.rf>m#m003-d1t2523-5</m.rf>
+<afun>Adv</afun>
+<ord>5</ord>
+<children id="ps_003.08-SCzechA-m-d1t2523-4">
+<m.rf>m#m003-d1t2523-4</m.rf>
+<afun>Atr</afun>
+<ord>4</ord>
+</children>
+</children>
+</LM>
+</children>
+</LM>
+<LM id="ps_003.08-SCzechA-m-d-m-d1e2516-x2-punct-punct">
+<m.rf>m#m003-d-m-d1e2516-x2-punct-punct</m.rf>
+<afun>AuxK</afun>
+<ord>6</ord>
+</LM>
+</children>
+</LM>
+<LM id="ps_003.08-SCzechA-ps_003-d1e2524-x2-root">
+<s.rf>m#m003-d1e2524-x2</s.rf>
+<ord>0</ord>
+<children>
+<LM id="ps_003.08-SCzechA-m-d1t2527-1">
+<m.rf>m#m003-d1t2527-1</m.rf>
+<afun>Pred</afun>
+<ord>1</ord>
+</LM>
+<LM id="ps_003.08-SCzechA-m-d-m-d1e2524-x2-punct-punct">
+<m.rf>m#m003-d-m-d1e2524-x2-punct-punct</m.rf>
+<afun>AuxK</afun>
+<ord>2</ord>
+</LM>
+</children>
+</LM>
+<LM id="ps_003.08-SCzechA-ps_003-d1e2528-x2-root">
+<s.rf>m#m003-d1e2528-x2</s.rf>
+<ord>0</ord>
+<children>
+<LM id="ps_003.08-SCzechA-m-d-id136540-punct">
+<m.rf>m#m003-d-id136540-punct</m.rf>
+<afun>Coord</afun>
+<ord>3</ord>
+<children>
+<LM id="ps_003.08-SCzechA-m-d1t2531-1">
+<m.rf>m#m003-d1t2531-1</m.rf>
+<afun>Pred</afun>
+<is_member>1</is_member>
+<ord>1</ord>
+<children id="ps_003.08-SCzechA-m-d1t2531-2">
+<m.rf>m#m003-d1t2531-2</m.rf>
+<afun>Obj</afun>
+<ord>2</ord>
+</children>
+</LM>
+<LM id="ps_003.08-SCzechA-m-d1t2531-6">
+<m.rf>m#m003-d1t2531-6</m.rf>
+<afun>Pred</afun>
+<is_member>1</is_member>
+<ord>6</ord>
+<children>
+<LM id="ps_003.08-SCzechA-m-d1t2531-4">
+<m.rf>m#m003-d1t2531-4</m.rf>
+<afun>Sb</afun>
+<ord>4</ord>
+</LM>
+<LM id="ps_003.08-SCzechA-m-d1t2531-7">
+<m.rf>m#m003-d1t2531-7</m.rf>
+<afun>Sb</afun>
+<ord>7</ord>
+<children id="ps_003.08-SCzechA-m-d1t2531-5">
+<m.rf>m#m003-d1t2531-5</m.rf>
+<afun>Obj</afun>
+<ord>5</ord>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+<LM id="ps_003.08-SCzechA-m-d-m-d1e2528-x2-punct-punct">
+<m.rf>m#m003-d-m-d1e2528-x2-punct-punct</m.rf>
+<afun>AuxK</afun>
+<ord>8</ord>
+</LM>
+</children>
+</LM>
+<LM id="ps_003.08-SCzechA-ps_003-d1e2532-x2-root">
+<s.rf>m#m003-d1e2532-x2</s.rf>
+<ord>0</ord>
+<children>
+<LM id="ps_003.08-SCzechA-m-d1t2539-3">
+<m.rf>m#m003-d1t2539-3</m.rf>
+<afun>Pred</afun>
+<ord>3</ord>
+<children>
+<LM id="ps_003.08-SCzechA-m-d1t2539-1">
+<m.rf>m#m003-d1t2539-1</m.rf>
+<afun>ExD</afun>
+<ord>1</ord>
+</LM>
+<LM id="ps_003.08-SCzechA-m-d-id136692-punct">
+<m.rf>m#m003-d-id136692-punct</m.rf>
+<afun>ExD</afun>
+<ord>2</ord>
+</LM>
+</children>
+</LM>
+<LM id="ps_003.08-SCzechA-m-d-m-d1e2532-x2-punct-punct">
+<m.rf>m#m003-d-m-d1e2532-x2-punct-punct</m.rf>
+<afun>AuxK</afun>
+<ord>4</ord>
+</LM>
+</children>
+</LM>
+<LM id="ps_003.08-SCzechA-ps_003-d1e2532-x3-root">
+<s.rf>m#m003-d1e2532-x3</s.rf>
+<ord>0</ord>
+<children>
+<LM id="ps_003.08-SCzechA-m-d1t2541-1">
+<m.rf>m#m003-d1t2541-1</m.rf>
+<afun>ExD</afun>
+<ord>1</ord>
+</LM>
+<LM id="ps_003.08-SCzechA-m-d-m-d1e2532-x3-punct-punct">
+<m.rf>m#m003-d-m-d1e2532-x3-punct-punct</m.rf>
+<afun>AuxK</afun>
+<ord>2</ord>
+</LM>
+</children>
+</LM>
+<LM id="ps_003.08-SCzechA-ps_003-d1e2542-x2-root">
+<s.rf>m#m003-d1e2542-x2</s.rf>
+<ord>0</ord>
+<children>
+<LM id="ps_003.08-SCzechA-m-d1t2545-1">
+<m.rf>m#m003-d1t2545-1</m.rf>
+<afun>ExD</afun>
+<ord>1</ord>
+</LM>
+<LM id="ps_003.08-SCzechA-m-d-m-d1e2542-x2-punct-punct">
+<m.rf>m#m003-d-m-d1e2542-x2-punct-punct</m.rf>
+<afun>AuxK</afun>
+<ord>2</ord>
+</LM>
+</children>
+</LM>
+</trees>
+</adata>
