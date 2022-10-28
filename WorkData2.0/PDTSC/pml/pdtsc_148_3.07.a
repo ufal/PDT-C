@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="adata_schema.xml" />
+<schema href="adata_c_schema.xml" />
 <references>
 <reffile id="m" name="mdata" href="pdtsc_148_3.07.m" />
 <reffile id="w" name="wdata" href="pdtsc_148_3.07.w" />
