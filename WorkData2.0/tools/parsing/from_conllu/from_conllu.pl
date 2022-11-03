@@ -30,8 +30,14 @@ while (my $pdt_file = <$data_filelist_file>) {
 
   for my $tree_index (0..$#pdt_trees) {
       my $pdt_root = $pdt_trees[$tree_index];
-      my $conllu_root = shift @conllu_trees;
       my @pdt_nodes = ($pdt_root, sort {$a->get_order <=> $b->get_order} $pdt_root->descendants);
+      # Skip empty PDT trees
+      if ($#pdt_nodes == 0) {
+        warn "Skipping an empty tree in file $pdt_file\n";
+        next;
+      }
+
+      my $conllu_root = shift @conllu_trees;
       my @conllu_nodes = ($conllu_root, $conllu_root->descendants);
       die "Inconsistent number of nodes in tree $tree_index: $#pdt_nodes != $#conllu_nodes" if $#pdt_nodes != $#conllu_nodes;
 
