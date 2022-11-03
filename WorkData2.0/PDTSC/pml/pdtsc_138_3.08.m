@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_c_schema.xml"/>
+<schema href="mdata_c_schema.xml" />
 <references>
-<reffile id="w" name="wdata" href="pdtsc_138_3.08.w"/>
+<reffile id="w" name="wdata" href="pdtsc_138_3.08.w" />
 </references>
 </head>
 <s id="m038-d1e2484-x2">
@@ -840,12 +840,14 @@
 <form>dva</form>
 <lemma>dva`2</lemma>
 <tag>CnYP1----------</tag>
-</m><m id="m038-d1t2572-5-sw1">
+</m>
+<m id="m038-d1t2572-5-sw1">
 <w.rf>
 <LM>w#w-d1t2572-5</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>tisíce</form>
-<form_change>spell</form_change><lemma>tisíc`1000</lemma>
+<lemma>tisíc`1000</lemma>
 <tag>CzIP1----------</tag>
 </m>
 <m id="m038-d1t2572-6">

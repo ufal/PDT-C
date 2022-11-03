@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_c_schema.xml"/>
+<schema href="mdata_c_schema.xml" />
 <references>
-<reffile id="w" name="wdata" href="pdtsc_104_3.04.w"/>
+<reffile id="w" name="wdata" href="pdtsc_104_3.04.w" />
 </references>
 </head>
 <s id="m045-547">
@@ -2316,12 +2316,14 @@
 <form>29</form>
 <lemma>29</lemma>
 <tag>C=-------------</tag>
-</m><m id="m045-717-102-sw1">
+</m>
+<m id="m045-717-102-sw1">
 <w.rf>
 <LM>w#w-717-102</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>letý</form>
-<form_change>spell</form_change><lemma>letý</lemma>
+<lemma>letý</lemma>
 <tag>AAMS1----1A----</tag>
 </m>
 <m id="m045-719-724">
@@ -2397,12 +2399,14 @@
 <form>29</form>
 <lemma>29</lemma>
 <tag>C=-------------</tag>
-</m><m id="m045-725-104-sw1">
+</m>
+<m id="m045-725-104-sw1">
 <w.rf>
 <LM>w#w-725-104</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>letý</form>
-<form_change>spell</form_change><lemma>letý</lemma>
+<lemma>letý</lemma>
 <tag>AAMS1----1A----</tag>
 </m>
 <m id="m045-d-m-d1e1308-x2-punct-punct">
@@ -2612,12 +2616,14 @@
 <form>29</form>
 <lemma>29</lemma>
 <tag>C=-------------</tag>
-</m><m id="m045-d1e1342-x2-106-sw1">
+</m>
+<m id="m045-d1e1342-x2-106-sw1">
 <w.rf>
 <LM>w#w-d1e1342-x2-106</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>letý</form>
-<form_change>spell</form_change><lemma>letý</lemma>
+<lemma>letý</lemma>
 <tag>AAMS1----1A----</tag>
 </m>
 <m id="m045-d1t1351-1">

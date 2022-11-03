@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_c_schema.xml"/>
+<schema href="mdata_c_schema.xml" />
 <references>
-<reffile id="w" name="wdata" href="pdtsc_093_3.01.w"/>
+<reffile id="w" name="wdata" href="pdtsc_093_3.01.w" />
 </references>
 </head>
 <s id="m046-d1e323-x2">
@@ -1082,12 +1082,14 @@
 <form>po</form>
 <lemma>po-1</lemma>
 <tag>RR--6----------</tag>
-</m><m id="m046-d1t425-4-sw1">
+</m>
+<m id="m046-d1t425-4-sw1">
 <w.rf>
 <LM>w#w-d1t425-4</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>tom</form>
-<form_change>spell</form_change><lemma>ten</lemma>
+<lemma>ten</lemma>
 <tag>PDZS6----------</tag>
 </m>
 <m id="m046-d1t425-5">

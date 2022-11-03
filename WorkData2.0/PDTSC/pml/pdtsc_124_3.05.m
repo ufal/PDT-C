@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_c_schema.xml"/>
+<schema href="mdata_c_schema.xml" />
 <references>
-<reffile id="w" name="wdata" href="pdtsc_124_3.05.w"/>
+<reffile id="w" name="wdata" href="pdtsc_124_3.05.w" />
 </references>
 </head>
 <s id="m100-447">
@@ -892,19 +892,22 @@
 <form>Je</form>
 <lemma>být</lemma>
 <tag>VB-S---3P-AAI--</tag>
-</m><m id="m100-d1t1222-6-sw1">
+</m>
+<m id="m100-d1t1222-6-sw1">
 <w.rf>
 <LM>w#w-d1t1222-6</LM>
 </w.rf>
 <form>-</form>
 <lemma>-</lemma>
 <tag>Z:-------------</tag>
-</m><m id="m100-d1t1222-6-sw2">
+</m>
+<m id="m100-d1t1222-6-sw2">
 <w.rf>
 <LM>w#w-d1t1222-6</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>li</form>
-<form_change>spell</form_change><lemma>li-2</lemma>
+<lemma>li-2</lemma>
 <tag>J,-------------</tag>
 </m>
 <m id="m100-d1t1222-7">

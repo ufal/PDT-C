@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_c_schema.xml"/>
+<schema href="mdata_c_schema.xml" />
 <references>
-<reffile id="w" name="wdata" href="pdtsc_023_3.07.w"/>
+<reffile id="w" name="wdata" href="pdtsc_023_3.07.w" />
 </references>
 </head>
 <s id="m002-1794">
@@ -3217,13 +3217,14 @@
 <form>být</form>
 <lemma>být</lemma>
 <tag>Vf--------A-I--</tag>
-</m><m id="m002-d1e2244-x2-2376-sw1">
+</m>
+<m id="m002-d1e2244-x2-2376-sw1">
 <w.rf>
 <LM>w#w-d1e2244-x2-2376</LM>
 </w.rf>
 <form_change>spell</form_change>
 <form>?</form>
-<form_change>spell</form_change><lemma>?</lemma>
+<lemma>?</lemma>
 <tag>Z:-------------</tag>
 </m>
 </s>

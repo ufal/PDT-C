@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_c_schema.xml"/>
+<schema href="mdata_c_schema.xml" />
 <references>
-<reffile id="w" name="wdata" href="pdtsc_091_3.09.w"/>
+<reffile id="w" name="wdata" href="pdtsc_091_3.09.w" />
 </references>
 </head>
 <s id="m061-153">
@@ -2816,7 +2816,6 @@
 <tag>NNFP4-----A----</tag>
 </m>
 <m id="m061-d1e3398-x2-514s0">
-<w.rf/>
 <form>,</form>
 <lemma>,</lemma>
 <tag>Z:-------------</tag>

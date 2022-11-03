@@ -31,10 +31,12 @@
 <m.rf>m#m994-d1t1646-4</m.rf>
 <afun>AuxP</afun>
 <ord>4</ord>
-<children id="ml-25819_04.05-SCzechA-m-d1t1646-5">
+<children>
+<LM id="ml-25819_04.05-SCzechA-m-d1t1646-5">
 <m.rf>m#m994-d1t1646-5</m.rf>
 <afun>Adv</afun>
 <ord>5</ord>
+</LM>
 </children>
 </LM>
 </children>

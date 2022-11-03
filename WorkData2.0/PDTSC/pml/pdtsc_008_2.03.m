@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_c_schema.xml"/>
+<schema href="mdata_c_schema.xml" />
 <references>
-<reffile id="w" name="wdata" href="pdtsc_008_2.03.w"/>
+<reffile id="w" name="wdata" href="pdtsc_008_2.03.w" />
 </references>
 </head>
 <s id="m983-13808_03-d1e1251-x4">
@@ -75,8 +75,9 @@
 <w.rf>
 <LM>w#w-d1t1262-4</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>1.6</form>
-<form_change>spell</form_change><lemma>1.6</lemma>
+<lemma>1.6</lemma>
 <tag>C=-------------</tag>
 </m>
 <m id="m983-d1e1251-x4-2705">

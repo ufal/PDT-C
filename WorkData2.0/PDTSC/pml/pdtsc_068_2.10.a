@@ -16,10 +16,12 @@
 <m.rf>m#m101-d1t1664-1</m.rf>
 <afun>AuxP</afun>
 <ord>1</ord>
-<children id="ps_101.10-SCzechA-m-d1t1664-2">
+<children>
+<LM id="ps_101.10-SCzechA-m-d1t1664-2">
 <m.rf>m#m101-d1t1664-2</m.rf>
-<afun>Adv</afun>
+<afun>ExD</afun>
 <ord>2</ord>
+</LM>
 </children>
 </LM>
 <LM id="ps_101.10-SCzechA-m-d-m-d1e1661-x2-punct-punct">

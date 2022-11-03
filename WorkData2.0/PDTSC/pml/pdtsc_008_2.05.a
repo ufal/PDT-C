@@ -17,40 +17,49 @@
 <afun>Coord</afun>
 <ord>3</ord>
 <children>
-<LM id="hg-13808_03.05-SCzechA-m-d1t2105-3">
-<m.rf>m#m983-d1t2105-3</m.rf>
-<afun>Sb</afun>
-<ord>1</ord>
-<children id="hg-13808_03.05-SCzechA-m-d1t2105-5">
-<m.rf>m#m983-d1t2105-5</m.rf>
-<afun>Atr</afun>
-<ord>2</ord>
-</children>
+<LM id="hg-13808_03.05-SCzechA-m-9220-9230">
+<m.rf>m#m983-9220-9230</m.rf>
+<afun>Coord</afun>
+<is_member>1</is_member>
+<ord>6</ord>
 </LM>
+<LM id="hg-13808_03.05-SCzechA-m-d1t2107-4">
+<m.rf>m#m983-d1t2107-4</m.rf>
+<afun>Coord</afun>
+<is_member>1</is_member>
+<ord>7</ord>
+<children>
 <LM id="hg-13808_03.05-SCzechA-m-d1t2107-1">
 <m.rf>m#m983-d1t2107-1</m.rf>
 <afun>Pred</afun>
 <is_member>1</is_member>
 <ord>4</ord>
-<children id="hg-13808_03.05-SCzechA-m-d1t2107-3">
+<children>
+<LM id="hg-13808_03.05-SCzechA-m-d1t2105-3">
+<m.rf>m#m983-d1t2105-3</m.rf>
+<afun>Sb</afun>
+<ord>1</ord>
+<children>
+<LM id="hg-13808_03.05-SCzechA-m-d1t2105-5">
+<m.rf>m#m983-d1t2105-5</m.rf>
+<afun>Atr</afun>
+<ord>2</ord>
+</LM>
+</children>
+</LM>
+<LM id="hg-13808_03.05-SCzechA-m-d1t2107-3">
 <m.rf>m#m983-d1t2107-3</m.rf>
 <afun>Obj</afun>
 <ord>5</ord>
-<children id="hg-13808_03.05-SCzechA-m-d1t2107-6">
+</LM>
+</children>
+</LM>
+<LM id="hg-13808_03.05-SCzechA-m-d1t2107-6">
 <m.rf>m#m983-d1t2107-6</m.rf>
-<afun>Atr</afun>
+<afun>Pred</afun>
+<is_member>1</is_member>
 <ord>9</ord>
 <children>
-<LM id="hg-13808_03.05-SCzechA-m-9220-9230">
-<m.rf>m#m983-9220-9230</m.rf>
-<afun>AuxX</afun>
-<ord>6</ord>
-</LM>
-<LM id="hg-13808_03.05-SCzechA-m-d1t2107-4">
-<m.rf>m#m983-d1t2107-4</m.rf>
-<afun>Adv</afun>
-<ord>7</ord>
-</LM>
 <LM id="hg-13808_03.05-SCzechA-m-d1t2107-5">
 <m.rf>m#m983-d1t2107-5</m.rf>
 <afun>AuxT</afun>
@@ -60,14 +69,16 @@
 <m.rf>m#m983-d1t2107-7</m.rf>
 <afun>AuxP</afun>
 <ord>10</ord>
-<children id="hg-13808_03.05-SCzechA-m-d1t2107-9">
+<children>
+<LM id="hg-13808_03.05-SCzechA-m-d1t2107-9">
 <m.rf>m#m983-d1t2107-9</m.rf>
 <afun>Adv</afun>
 <ord>11</ord>
+</LM>
 </children>
 </LM>
 </children>
-</children>
+</LM>
 </children>
 </LM>
 </children>

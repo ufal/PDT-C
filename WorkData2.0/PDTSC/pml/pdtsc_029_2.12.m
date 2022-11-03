@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_c_schema.xml"/>
+<schema href="mdata_c_schema.xml" />
 <references>
-<reffile id="w" name="wdata" href="pdtsc_029_2.12.w"/>
+<reffile id="w" name="wdata" href="pdtsc_029_2.12.w" />
 </references>
 </head>
 <s id="m065-171">
@@ -2329,7 +2329,8 @@
 <form>au</form>
 <lemma>au-2_^(au-pair)</lemma>
 <tag>S2--------A----</tag>
-</m><m id="m065-d1t3619-3-sw1">
+</m>
+<m id="m065-d1t3619-3-sw1">
 <w.rf>
 <LM>w#w-d1t3619-3</LM>
 </w.rf>
@@ -2337,13 +2338,14 @@
 <form>-</form>
 <lemma>-</lemma>
 <tag>Z:-------------</tag>
-</m><m id="m065-d1t3619-3-sw2">
+</m>
+<m id="m065-d1t3619-3-sw2">
 <w.rf>
 <LM>w#w-d1t3619-3</LM>
 </w.rf>
 <form_change>spell</form_change>
 <form>pair</form>
-<form_change>spell</form_change><lemma>pair-2_^(au-pair)</lemma>
+<lemma>pair-2_^(au-pair)</lemma>
 <tag>NNFXX-----A----</tag>
 </m>
 <m id="m065-d1t3622-3">

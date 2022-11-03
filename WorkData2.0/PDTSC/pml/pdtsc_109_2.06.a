@@ -30,13 +30,13 @@
 </LM>
 <LM id="hg-27638_03.06-SCzechA-m-d1t2317-1">
 <m.rf>m#m783-d1t2317-1</m.rf>
-<afun>Sb</afun>
+<afun>ExD</afun>
 <is_member>1</is_member>
 <ord>3</ord>
 </LM>
 <LM id="hg-27638_03.06-SCzechA-m-d1t2317-3">
 <m.rf>m#m783-d1t2317-3</m.rf>
-<afun>Sb</afun>
+<afun>ExD</afun>
 <is_member>1</is_member>
 <ord>5</ord>
 </LM>
@@ -57,15 +57,19 @@
 <m.rf>m#m783-d1t2323-1</m.rf>
 <afun>ExD</afun>
 <ord>1</ord>
-<children id="hg-27638_03.06-SCzechA-m-d1t2323-3">
+<children>
+<LM id="hg-27638_03.06-SCzechA-m-d1t2323-3">
 <m.rf>m#m783-d1t2323-3</m.rf>
 <afun>Atr</afun>
 <ord>3</ord>
-<children id="hg-27638_03.06-SCzechA-m-d1t2323-2">
+<children>
+<LM id="hg-27638_03.06-SCzechA-m-d1t2323-2">
 <m.rf>m#m783-d1t2323-2</m.rf>
 <afun>Atr</afun>
 <ord>2</ord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="hg-27638_03.06-SCzechA-m-d-id131453">

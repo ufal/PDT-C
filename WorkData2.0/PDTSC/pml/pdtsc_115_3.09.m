@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_c_schema.xml"/>
+<schema href="mdata_c_schema.xml" />
 <references>
-<reffile id="w" name="wdata" href="pdtsc_115_3.09.w"/>
+<reffile id="w" name="wdata" href="pdtsc_115_3.09.w" />
 </references>
 </head>
 <s id="m054-138">
@@ -2828,7 +2828,7 @@
 <tag>Z:-------------</tag>
 </m>
 </s>
-<s id="m054-405"/>
+<s id="m054-405"></s>
 <s id="m054-d1e2179-x2">
 <m id="m054-d1t2184-6">
 <w.rf>

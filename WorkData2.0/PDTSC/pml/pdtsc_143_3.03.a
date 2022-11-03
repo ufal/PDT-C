@@ -42,25 +42,31 @@
 <m.rf>m#m115-d1t521-5</m.rf>
 <afun>AuxP</afun>
 <ord>3</ord>
-<children id="ak_115.03-SCzechA-m-d1t521-6">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t521-6">
 <m.rf>m#m115-d1t521-6</m.rf>
 <afun>Adv</afun>
 <ord>4</ord>
+</LM>
 </children>
 </LM>
 <LM id="ak_115.03-SCzechA-m-d1t521-8">
 <m.rf>m#m115-d1t521-8</m.rf>
 <afun>Pnom</afun>
 <ord>5</ord>
-<children id="ak_115.03-SCzechA-m-d1t521-10">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t521-10">
 <m.rf>m#m115-d1t521-10</m.rf>
 <afun>Atr</afun>
 <ord>7</ord>
-<children id="ak_115.03-SCzechA-m-d1t521-9">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t521-9">
 <m.rf>m#m115-d1t521-9</m.rf>
 <afun>Atr</afun>
 <ord>6</ord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -95,10 +101,12 @@
 <m.rf>m#m115-d1t521-14</m.rf>
 <afun>Pnom</afun>
 <ord>5</ord>
-<children id="ak_115.03-SCzechA-m-d1t521-13">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t521-13">
 <m.rf>m#m115-d1t521-13</m.rf>
 <afun>Atr</afun>
 <ord>4</ord>
+</LM>
 </children>
 </LM>
 </children>
@@ -128,15 +136,19 @@
 <m.rf>m#m115-d1t525-4</m.rf>
 <afun>AuxP</afun>
 <ord>4</ord>
-<children id="ak_115.03-SCzechA-m-d1t525-5">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t525-5">
 <m.rf>m#m115-d1t525-5</m.rf>
 <afun>Adv</afun>
 <ord>5</ord>
-<children id="ak_115.03-SCzechA-m-d1t525-2">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t525-2">
 <m.rf>m#m115-d1t525-2</m.rf>
 <afun>AuxZ</afun>
 <ord>3</ord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -166,9 +178,10 @@
 <m.rf>m#m115-d1t525-15</m.rf>
 <afun>AuxP</afun>
 <ord>3</ord>
-<children id="ak_115.03-SCzechA-m-d1t525-18">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t525-18">
 <m.rf>m#m115-d1t525-18</m.rf>
-<afun>Atr</afun>
+<afun>Adv</afun>
 <ord>6</ord>
 <children>
 <LM id="ak_115.03-SCzechA-m-d1t525-16">
@@ -182,6 +195,7 @@
 <ord>5</ord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -197,15 +211,15 @@
 <s.rf>m#m115-361</s.rf>
 <ord>0</ord>
 <children>
-<LM id="ak_115.03-SCzechA-m-361-53">
-<m.rf>m#m115-361-53</m.rf>
-<afun>Coord</afun>
-<ord>6</ord>
+<LM id="ak_115.03-SCzechA-m-d1t525-24">
+<m.rf>m#m115-d1t525-24</m.rf>
+<afun>Pred</afun>
+<ord>5</ord>
 <children>
 <LM id="ak_115.03-SCzechA-m-d1t525-22">
 <m.rf>m#m115-d1t525-22</m.rf>
-<afun>ExD</afun>
-<is_member>1</is_member>
+<afun>Pred</afun>
+<is_parenthesis_root>1</is_parenthesis_root>
 <ord>3</ord>
 <children>
 <LM id="ak_115.03-SCzechA-m-d1t525-20">
@@ -225,16 +239,16 @@
 </LM>
 </children>
 </LM>
-<LM id="ak_115.03-SCzechA-m-d1t525-24">
-<m.rf>m#m115-d1t525-24</m.rf>
-<afun>Pred</afun>
-<is_member>1</is_member>
-<ord>5</ord>
-<children id="ak_115.03-SCzechA-m-d1t525-27">
+<LM id="ak_115.03-SCzechA-m-d1t525-27">
 <m.rf>m#m115-d1t525-27</m.rf>
 <afun>Obj</afun>
 <ord>9</ord>
 <children>
+<LM id="ak_115.03-SCzechA-m-361-53">
+<m.rf>m#m115-361-53</m.rf>
+<afun>AuxX</afun>
+<ord>6</ord>
+</LM>
 <LM id="ak_115.03-SCzechA-m-d1t525-25">
 <m.rf>m#m115-d1t525-25</m.rf>
 <afun>Adv</afun>
@@ -245,7 +259,6 @@
 <afun>Sb</afun>
 <ord>8</ord>
 </LM>
-</children>
 </children>
 </LM>
 </children>
@@ -266,19 +279,30 @@
 <afun>Coord</afun>
 <ord>5</ord>
 <children>
+<LM id="ak_115.03-SCzechA-m-d1t525-29">
+<m.rf>m#m115-d1t525-29</m.rf>
+<afun>ExD</afun>
+<is_member>1</is_member>
+<ord>1</ord>
+</LM>
 <LM id="ak_115.03-SCzechA-m-d1t525-30">
 <m.rf>m#m115-d1t525-30</m.rf>
 <afun>AuxP</afun>
+<is_member>1</is_member>
 <ord>2</ord>
-<children id="ak_115.03-SCzechA-m-d1t525-32">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t525-32">
 <m.rf>m#m115-d1t525-32</m.rf>
-<afun>Adv</afun>
+<afun>ExD</afun>
 <ord>4</ord>
-<children id="ak_115.03-SCzechA-m-d1t525-31">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t525-31">
 <m.rf>m#m115-d1t525-31</m.rf>
 <afun>Atr</afun>
 <ord>3</ord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="ak_115.03-SCzechA-m-d1t525-34">
@@ -287,11 +311,6 @@
 <is_member>1</is_member>
 <ord>6</ord>
 <children>
-<LM id="ak_115.03-SCzechA-m-d1t525-29">
-<m.rf>m#m115-d1t525-29</m.rf>
-<afun>AuxY</afun>
-<ord>1</ord>
-</LM>
 <LM id="ak_115.03-SCzechA-m-d1t525-36">
 <m.rf>m#m115-d1t525-36</m.rf>
 <afun>Obj</afun>
@@ -317,15 +336,15 @@
 <afun>Sb</afun>
 <ord>10</ord>
 </LM>
+<LM id="ak_115.03-SCzechA-m-d1t528-1">
+<m.rf>m#m115-d1t528-1</m.rf>
+<afun>Adv</afun>
+<ord>12</ord>
+</LM>
 <LM id="ak_115.03-SCzechA-m-d1t528-2">
 <m.rf>m#m115-d1t528-2</m.rf>
 <afun>Pnom</afun>
 <ord>13</ord>
-<children id="ak_115.03-SCzechA-m-d1t528-1">
-<m.rf>m#m115-d1t528-1</m.rf>
-<afun>Adv</afun>
-<ord>12</ord>
-</children>
 </LM>
 </children>
 </LM>
@@ -386,9 +405,20 @@
 <s.rf>m#m115-393</s.rf>
 <ord>0</ord>
 <children>
+<LM id="ak_115.03-SCzechA-m-d-id85771-punct">
+<m.rf>m#m115-d-id85771-punct</m.rf>
+<afun>Coord</afun>
+<ord>12</ord>
+<children>
+<LM id="ak_115.03-SCzechA-m-d-id85675-punct">
+<m.rf>m#m115-d-id85675-punct</m.rf>
+<afun>AuxX</afun>
+<ord>5</ord>
+<children>
 <LM id="ak_115.03-SCzechA-m-393-394">
 <m.rf>m#m115-393-394</m.rf>
-<afun>Coord</afun>
+<afun>Apos</afun>
+<is_member>1</is_member>
 <ord>2</ord>
 <children>
 <LM id="ak_115.03-SCzechA-m-d1t530-8">
@@ -399,7 +429,7 @@
 </LM>
 <LM id="ak_115.03-SCzechA-m-d1t530-9">
 <m.rf>m#m115-d1t530-9</m.rf>
-<afun>Sb</afun>
+<afun>ExD</afun>
 <is_member>1</is_member>
 <ord>3</ord>
 <children>
@@ -408,44 +438,50 @@
 <afun>Atr</afun>
 <ord>4</ord>
 </LM>
-<LM id="ak_115.03-SCzechA-m-d1t530-13">
-<m.rf>m#m115-d1t530-13</m.rf>
-<afun>Atr</afun>
-<ord>7</ord>
-<children id="ak_115.03-SCzechA-m-d1t530-12">
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+<LM id="ak_115.03-SCzechA-m-d1t530-12">
 <m.rf>m#m115-d1t530-12</m.rf>
-<afun>Atr</afun>
+<afun>ExD</afun>
+<is_member>1</is_member>
 <ord>6</ord>
-<children id="ak_115.03-SCzechA-m-d-id85771-punct">
-<m.rf>m#m115-d-id85771-punct</m.rf>
-<afun>Coord</afun>
-<ord>12</ord>
-<children>
-<LM id="ak_115.03-SCzechA-m-d-id85675-punct">
-<m.rf>m#m115-d-id85675-punct</m.rf>
-<afun>AuxX</afun>
-<ord>5</ord>
 </LM>
 <LM id="ak_115.03-SCzechA-m-393-407">
 <m.rf>m#m115-393-407</m.rf>
 <afun>Coord</afun>
 <is_member>1</is_member>
 <ord>8</ord>
-<children id="ak_115.03-SCzechA-m-393-408">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t530-13">
+<m.rf>m#m115-d1t530-13</m.rf>
+<afun>ExD</afun>
+<is_member>1</is_member>
+<ord>7</ord>
+</LM>
+<LM id="ak_115.03-SCzechA-m-393-408">
 <m.rf>m#m115-393-408</m.rf>
 <afun>AuxP</afun>
 <is_member>1</is_member>
 <ord>9</ord>
-<children id="ak_115.03-SCzechA-m-d1t532-3">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t532-3">
 <m.rf>m#m115-d1t532-3</m.rf>
-<afun>Adv</afun>
+<afun>ExD</afun>
 <ord>11</ord>
-<children id="ak_115.03-SCzechA-m-d1t532-2">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t532-2">
 <m.rf>m#m115-d1t532-2</m.rf>
 <afun>Atr</afun>
 <ord>10</ord>
+</LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="ak_115.03-SCzechA-m-d1t532-5">
@@ -453,12 +489,13 @@
 <afun>ExD</afun>
 <is_member>1</is_member>
 <ord>13</ord>
-</LM>
+<children>
 <LM id="ak_115.03-SCzechA-m-d1t532-6">
 <m.rf>m#m115-d1t532-6</m.rf>
 <afun>AuxP</afun>
 <ord>14</ord>
-<children id="ak_115.03-SCzechA-m-d1t532-8">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t532-8">
 <m.rf>m#m115-d1t532-8</m.rf>
 <afun>Atr</afun>
 <ord>16</ord>
@@ -472,22 +509,23 @@
 <m.rf>m#m115-d1e514-x3-409</m.rf>
 <afun>AuxP</afun>
 <ord>17</ord>
-<children id="ak_115.03-SCzechA-m-d1t532-11">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t532-11">
 <m.rf>m#m115-d1t532-11</m.rf>
 <afun>Atr</afun>
 <ord>19</ord>
-<children id="ak_115.03-SCzechA-m-d1t532-10">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t532-10">
 <m.rf>m#m115-d1t532-10</m.rf>
 <afun>Atr</afun>
 <ord>18</ord>
-</children>
+</LM>
 </children>
 </LM>
 </children>
-</children>
 </LM>
 </children>
-</children>
+</LM>
 </children>
 </LM>
 </children>
@@ -517,7 +555,7 @@
 </LM>
 <LM id="ak_115.03-SCzechA-m-d1t536-4">
 <m.rf>m#m115-d1t536-4</m.rf>
-<afun>AuxT</afun>
+<afun>AuxR</afun>
 <ord>2</ord>
 </LM>
 <LM id="ak_115.03-SCzechA-m-d1t536-5">
@@ -630,10 +668,12 @@
 <m.rf>m#m115-d1t538-9</m.rf>
 <afun>AuxP</afun>
 <ord>7</ord>
-<children id="ak_115.03-SCzechA-m-d1t538-10">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t538-10">
 <m.rf>m#m115-d1t538-10</m.rf>
 <afun>Adv</afun>
 <ord>8</ord>
+</LM>
 </children>
 </LM>
 </children>
@@ -665,7 +705,8 @@
 <m.rf>m#m115-d1t538-15</m.rf>
 <afun>Obj</afun>
 <ord>3</ord>
-<children id="ak_115.03-SCzechA-m-d1t538-19">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t538-19">
 <m.rf>m#m115-d1t538-19</m.rf>
 <afun>Atr</afun>
 <ord>7</ord>
@@ -686,6 +727,7 @@
 <ord>6</ord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -710,10 +752,12 @@
 <m.rf>m#m115-d1t543-1</m.rf>
 <afun>AuxP</afun>
 <ord>1</ord>
-<children id="ak_115.03-SCzechA-m-d1t543-2">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t543-2">
 <m.rf>m#m115-d1t543-2</m.rf>
 <afun>Adv</afun>
 <ord>2</ord>
+</LM>
 </children>
 </LM>
 <LM id="ak_115.03-SCzechA-m-d1t543-6">
@@ -725,9 +769,10 @@
 <m.rf>m#m115-d1t543-3</m.rf>
 <afun>AuxP</afun>
 <ord>5</ord>
-<children id="ak_115.03-SCzechA-m-d1t543-5">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t543-5">
 <m.rf>m#m115-d1t543-5</m.rf>
-<afun>Atr</afun>
+<afun>Adv</afun>
 <ord>7</ord>
 <children>
 <LM id="ak_115.03-SCzechA-m-d1t543-4">
@@ -735,22 +780,27 @@
 <afun>Atr</afun>
 <ord>6</ord>
 </LM>
+</children>
+</LM>
+</children>
+</LM>
 <LM id="ak_115.03-SCzechA-m-d1t543-8">
 <m.rf>m#m115-d1t543-8</m.rf>
 <afun>AuxP</afun>
 <ord>8</ord>
-<children id="ak_115.03-SCzechA-m-d1t543-10">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t543-10">
 <m.rf>m#m115-d1t543-10</m.rf>
-<afun>Atr</afun>
+<afun>Adv</afun>
 <ord>10</ord>
-<children id="ak_115.03-SCzechA-m-d1t543-9">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t543-9">
 <m.rf>m#m115-d1t543-9</m.rf>
 <afun>Atr</afun>
 <ord>9</ord>
-</children>
-</children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -780,10 +830,12 @@
 <m.rf>m#m115-d1t547-2</m.rf>
 <afun>AuxP</afun>
 <ord>2</ord>
-<children id="ak_115.03-SCzechA-m-d1t547-3">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t547-3">
 <m.rf>m#m115-d1t547-3</m.rf>
 <afun>Adv</afun>
 <ord>3</ord>
+</LM>
 </children>
 </LM>
 <LM id="ak_115.03-SCzechA-m-d1t547-6">
@@ -795,10 +847,12 @@
 <m.rf>m#m115-d1t547-7</m.rf>
 <afun>AuxP</afun>
 <ord>5</ord>
-<children id="ak_115.03-SCzechA-m-d1t547-8">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t547-8">
 <m.rf>m#m115-d1t547-8</m.rf>
 <afun>Adv</afun>
 <ord>6</ord>
+</LM>
 </children>
 </LM>
 </children>
@@ -814,6 +868,11 @@
 <s.rf>m#m115-437</s.rf>
 <ord>0</ord>
 <children>
+<LM id="ak_115.03-SCzechA-m-d1t547-12">
+<m.rf>m#m115-d1t547-12</m.rf>
+<afun>ExD</afun>
+<ord>1</ord>
+</LM>
 <LM id="ak_115.03-SCzechA-m-d1t549-5">
 <m.rf>m#m115-d1t549-5</m.rf>
 <afun>ExD</afun>
@@ -823,11 +882,6 @@
 <m.rf>m#m115-d1t549-1</m.rf>
 <afun>Atr</afun>
 <ord>2</ord>
-<children id="ak_115.03-SCzechA-m-d1t547-12">
-<m.rf>m#m115-d1t547-12</m.rf>
-<afun>Adv</afun>
-<ord>1</ord>
-</children>
 </LM>
 <LM id="ak_115.03-SCzechA-m-d1t549-3">
 <m.rf>m#m115-d1t549-3</m.rf>
@@ -867,15 +921,19 @@
 <m.rf>m#m115-d1t556-1</m.rf>
 <afun>AuxP</afun>
 <ord>1</ord>
-<children id="ak_115.03-SCzechA-m-d1t556-2">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t556-2">
 <m.rf>m#m115-d1t556-2</m.rf>
 <afun>Adv</afun>
 <ord>2</ord>
-<children id="ak_115.03-SCzechA-m-d1t556-3">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t556-3">
 <m.rf>m#m115-d1t556-3</m.rf>
 <afun>Atr</afun>
 <ord>3</ord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="ak_115.03-SCzechA-m-d1t556-5">
@@ -912,25 +970,31 @@
 <m.rf>m#m115-d1t556-12</m.rf>
 <afun>AuxP</afun>
 <ord>10</ord>
-<children id="ak_115.03-SCzechA-m-d1t556-14">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t556-14">
 <m.rf>m#m115-d1t556-14</m.rf>
 <afun>Adv</afun>
 <ord>12</ord>
-<children id="ak_115.03-SCzechA-m-d1t556-13">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t556-13">
 <m.rf>m#m115-d1t556-13</m.rf>
 <afun>Atr</afun>
 <ord>11</ord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="ak_115.03-SCzechA-m-d1t556-17">
 <m.rf>m#m115-d1t556-17</m.rf>
 <afun>Pnom</afun>
 <ord>15</ord>
-<children id="ak_115.03-SCzechA-m-d1t556-16">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t556-16">
 <m.rf>m#m115-d1t556-16</m.rf>
 <afun>Adv</afun>
 <ord>14</ord>
+</LM>
 </children>
 </LM>
 </children>
@@ -948,45 +1012,45 @@
 <s.rf>m#m115-474</s.rf>
 <ord>0</ord>
 <children>
-<LM id="ak_115.03-SCzechA-m-d1t558-3">
-<m.rf>m#m115-d1t558-3</m.rf>
+<LM id="ak_115.03-SCzechA-m-d1t558-18">
+<m.rf>m#m115-d1t558-18</m.rf>
 <afun>Pred</afun>
-<ord>21</ord>
+<ord>28</ord>
 <children>
 <LM id="ak_115.03-SCzechA-m-d1t556-20">
 <m.rf>m#m115-d1t556-20</m.rf>
 <afun>AuxC</afun>
 <ord>1</ord>
 <children>
-<LM id="ak_115.03-SCzechA-m-d-id87512-punct">
-<m.rf>m#m115-d-id87512-punct</m.rf>
-<afun>Coord</afun>
-<ord>10</ord>
-<children>
 <LM id="ak_115.03-SCzechA-m-d1t556-28">
 <m.rf>m#m115-d1t556-28</m.rf>
-<afun>Pred</afun>
-<is_member>1</is_member>
+<afun>Adv</afun>
 <ord>7</ord>
 <children>
 <LM id="ak_115.03-SCzechA-m-d1t556-30">
 <m.rf>m#m115-d1t556-30</m.rf>
 <afun>AuxP</afun>
 <ord>2</ord>
-<children id="ak_115.03-SCzechA-m-d1t556-31">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t556-31">
 <m.rf>m#m115-d1t556-31</m.rf>
 <afun>Adv</afun>
 <ord>3</ord>
-<children id="ak_115.03-SCzechA-m-d1t556-32">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t556-32">
 <m.rf>m#m115-d1t556-32</m.rf>
 <afun>AuxP</afun>
 <ord>4</ord>
-<children id="ak_115.03-SCzechA-m-d1t556-34">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t556-34">
 <m.rf>m#m115-d1t556-34</m.rf>
 <afun>Atr</afun>
 <ord>5</ord>
+</LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="ak_115.03-SCzechA-m-474-10">
@@ -998,24 +1062,39 @@
 <m.rf>m#m115-d1t556-36</m.rf>
 <afun>Obj</afun>
 <ord>8</ord>
-<children id="ak_115.03-SCzechA-m-d1t556-37">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t556-37">
 <m.rf>m#m115-d1t556-37</m.rf>
 <afun>Atr</afun>
 <ord>9</ord>
+</LM>
 </children>
+</LM>
+</children>
+</LM>
+<LM id="ak_115.03-SCzechA-m-d-id87512-punct">
+<m.rf>m#m115-d-id87512-punct</m.rf>
+<afun>AuxX</afun>
+<ord>10</ord>
 </LM>
 </children>
 </LM>
 <LM id="ak_115.03-SCzechA-m-d1t556-39">
 <m.rf>m#m115-d1t556-39</m.rf>
-<afun>ExD</afun>
-<is_member>1</is_member>
+<afun>Adv</afun>
 <ord>11</ord>
-<children id="ak_115.03-SCzechA-m-d1t556-41">
+</LM>
+<LM id="ak_115.03-SCzechA-m-d1t556-40">
+<m.rf>m#m115-d1t556-40</m.rf>
+<afun>Adv</afun>
+<ord>12</ord>
+</LM>
+<LM id="ak_115.03-SCzechA-m-d1t556-41">
 <m.rf>m#m115-d1t556-41</m.rf>
 <afun>AuxP</afun>
 <ord>13</ord>
-<children id="ak_115.03-SCzechA-m-d1t556-42">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t556-42">
 <m.rf>m#m115-d1t556-42</m.rf>
 <afun>Adv</afun>
 <ord>15</ord>
@@ -1029,22 +1108,44 @@
 <m.rf>m#m115-d1t558-8</m.rf>
 <afun>AuxP</afun>
 <ord>16</ord>
-<children id="ak_115.03-SCzechA-m-d1t558-10">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t558-10">
 <m.rf>m#m115-d1t558-10</m.rf>
 <afun>Atr</afun>
 <ord>17</ord>
-</children>
 </LM>
-</children>
-</children>
 </children>
 </LM>
 </children>
 </LM>
+</children>
+</LM>
+<LM id="ak_115.03-SCzechA-m-d1t558-1">
+<m.rf>m#m115-d1t558-1</m.rf>
+<afun>Adv</afun>
+<ord>19</ord>
+<children>
 <LM id="ak_115.03-SCzechA-m-d-id87582-punct">
 <m.rf>m#m115-d-id87582-punct</m.rf>
 <afun>AuxX</afun>
 <ord>18</ord>
+</LM>
+<LM id="ak_115.03-SCzechA-m-d1t558-2">
+<m.rf>m#m115-d1t558-2</m.rf>
+<afun>AuxC</afun>
+<ord>20</ord>
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t558-3">
+<m.rf>m#m115-d1t558-3</m.rf>
+<afun>Atr</afun>
+<ord>21</ord>
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t558-4">
+<m.rf>m#m115-d1t558-4</m.rf>
+<afun>Pnom</afun>
+<ord>22</ord>
+</LM>
+</children>
 </LM>
 <LM id="ak_115.03-SCzechA-m-d-id87669-punct">
 <m.rf>m#m115-d-id87669-punct</m.rf>
@@ -1053,30 +1154,7 @@
 </LM>
 </children>
 </LM>
-<LM id="ak_115.03-SCzechA-m-d1t558-1">
-<m.rf>m#m115-d1t558-1</m.rf>
-<afun>Adv</afun>
-<ord>19</ord>
-</LM>
-<LM id="ak_115.03-SCzechA-m-d1t558-2">
-<m.rf>m#m115-d1t558-2</m.rf>
-<afun>AuxY</afun>
-<ord>20</ord>
-</LM>
-<LM id="ak_115.03-SCzechA-m-d1t558-4">
-<m.rf>m#m115-d1t558-4</m.rf>
-<afun>Pnom</afun>
-<ord>22</ord>
-</LM>
-<LM id="ak_115.03-SCzechA-m-d1t558-18">
-<m.rf>m#m115-d1t558-18</m.rf>
-<afun>Adv</afun>
-<ord>28</ord>
-<children>
-<LM id="ak_115.03-SCzechA-m-d1t556-40">
-<m.rf>m#m115-d1t556-40</m.rf>
-<afun>Adv</afun>
-<ord>12</ord>
+</children>
 </LM>
 <LM id="ak_115.03-SCzechA-m-d1t558-7">
 <m.rf>m#m115-d1t558-7</m.rf>
@@ -1090,13 +1168,13 @@
 </LM>
 <LM id="ak_115.03-SCzechA-m-d1t558-15">
 <m.rf>m#m115-d1t558-15</m.rf>
-<afun>Adv</afun>
+<afun>Obj</afun>
 <ord>26</ord>
-<children id="ak_115.03-SCzechA-m-d1t558-16">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t558-16">
 <m.rf>m#m115-d1t558-16</m.rf>
 <afun>Atr</afun>
 <ord>27</ord>
-</children>
 </LM>
 </children>
 </LM>
@@ -1117,7 +1195,8 @@
 <m.rf>m#m115-428-429</m.rf>
 <afun>Coord</afun>
 <ord>1</ord>
-<children id="ak_115.03-SCzechA-m-d1t558-29">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t558-29">
 <m.rf>m#m115-d1t558-29</m.rf>
 <afun>Pred</afun>
 <is_member>1</is_member>
@@ -1150,7 +1229,7 @@
 </LM>
 <LM id="ak_115.03-SCzechA-m-d1t558-24">
 <m.rf>m#m115-d1t558-24</m.rf>
-<afun>Atr</afun>
+<afun>Adv</afun>
 <ord>9</ord>
 <children>
 <LM id="ak_115.03-SCzechA-m-d1t558-23">
@@ -1162,16 +1241,16 @@
 <m.rf>m#m115-d1t558-25</m.rf>
 <afun>AuxP</afun>
 <ord>10</ord>
-<children id="ak_115.03-SCzechA-m-d1t558-27">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t558-27">
 <m.rf>m#m115-d1t558-27</m.rf>
 <afun>Adv</afun>
 <ord>12</ord>
-<children id="ak_115.03-SCzechA-m-d1t558-26">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t558-26">
 <m.rf>m#m115-d1t558-26</m.rf>
 <afun>Atr</afun>
 <ord>11</ord>
-</children>
-</children>
 </LM>
 </children>
 </LM>
@@ -1180,6 +1259,11 @@
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
 </children>
 </LM>
 <LM id="ak_115.03-SCzechA-m-474-14">
@@ -1197,46 +1281,53 @@
 <m.rf>m#m115-d1t558-33</m.rf>
 <afun>Pred</afun>
 <ord>2</ord>
-<children id="ak_115.03-SCzechA-m-d1t558-39">
-<m.rf>m#m115-d1t558-39</m.rf>
-<afun>Obj</afun>
-<ord>8</ord>
-<children>
-<LM id="ak_115.03-SCzechA-m-d1t558-43">
-<m.rf>m#m115-d1t558-43</m.rf>
-<afun>AuxP</afun>
-<ord>3</ord>
-<children id="ak_115.03-SCzechA-m-d1t558-44">
-<m.rf>m#m115-d1t558-44</m.rf>
-<afun>Adv</afun>
-<ord>4</ord>
-</children>
-</LM>
-<LM id="ak_115.03-SCzechA-m-d1t558-34">
-<m.rf>m#m115-d1t558-34</m.rf>
-<afun>AuxP</afun>
-<ord>5</ord>
-<children id="ak_115.03-SCzechA-m-d1t558-35">
-<m.rf>m#m115-d1t558-35</m.rf>
-<afun>Atr</afun>
-<ord>6</ord>
-<children id="ak_115.03-SCzechA-m-d1t558-37">
-<m.rf>m#m115-d1t558-37</m.rf>
-<afun>Atr</afun>
-<ord>7</ord>
-</children>
-</children>
-</LM>
-<LM id="ak_115.03-SCzechA-m-d1t558-41">
-<m.rf>m#m115-d1t558-41</m.rf>
-<afun>Coord</afun>
-<ord>10</ord>
 <children>
 <LM id="ak_115.03-SCzechA-m-d1t558-32">
 <m.rf>m#m115-d1t558-32</m.rf>
 <afun>Sb</afun>
 <ord>1</ord>
 </LM>
+<LM id="ak_115.03-SCzechA-m-d1t558-43">
+<m.rf>m#m115-d1t558-43</m.rf>
+<afun>AuxP</afun>
+<ord>3</ord>
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t558-44">
+<m.rf>m#m115-d1t558-44</m.rf>
+<afun>Adv</afun>
+<ord>4</ord>
+</LM>
+</children>
+</LM>
+<LM id="ak_115.03-SCzechA-m-d1t558-34">
+<m.rf>m#m115-d1t558-34</m.rf>
+<afun>AuxP</afun>
+<ord>5</ord>
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t558-35">
+<m.rf>m#m115-d1t558-35</m.rf>
+<afun>Adv</afun>
+<ord>6</ord>
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t558-37">
+<m.rf>m#m115-d1t558-37</m.rf>
+<afun>Atr</afun>
+<ord>7</ord>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+<LM id="ak_115.03-SCzechA-m-d1t558-39">
+<m.rf>m#m115-d1t558-39</m.rf>
+<afun>Obj</afun>
+<ord>8</ord>
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t558-41">
+<m.rf>m#m115-d1t558-41</m.rf>
+<afun>Coord</afun>
+<ord>10</ord>
+<children>
 <LM id="ak_115.03-SCzechA-m-d1t558-40">
 <m.rf>m#m115-d1t558-40</m.rf>
 <afun>Obj</afun>
@@ -1248,9 +1339,12 @@
 <afun>Obj</afun>
 <is_member>1</is_member>
 <ord>11</ord>
-<children id="ak_115.03-SCzechA-m-d1t558-49">
+</LM>
+</children>
+</LM>
+<LM id="ak_115.03-SCzechA-m-d1t558-49">
 <m.rf>m#m115-d1t558-49</m.rf>
-<afun>Atr</afun>
+<afun>Adv</afun>
 <ord>16</ord>
 <children>
 <LM id="ak_115.03-SCzechA-m-d-id88249-punct">
@@ -1265,7 +1359,7 @@
 </LM>
 <LM id="ak_115.03-SCzechA-m-d1t558-47">
 <m.rf>m#m115-d1t558-47</m.rf>
-<afun>AuxT</afun>
+<afun>AuxR</afun>
 <ord>14</ord>
 </LM>
 <LM id="ak_115.03-SCzechA-m-d1t558-48">
@@ -1274,11 +1368,9 @@
 <ord>15</ord>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
-</children>
 </children>
 </LM>
 <LM id="ak_115.03-SCzechA-m-d1e514-x5-47">
@@ -1301,27 +1393,18 @@
 <m.rf>m#m115-d1t562-6</m.rf>
 <afun>AuxC</afun>
 <ord>3</ord>
-<children id="ak_115.03-SCzechA-m-48-49">
+<children>
+<LM id="ak_115.03-SCzechA-m-48-49">
 <m.rf>m#m115-48-49</m.rf>
 <afun>AuxX</afun>
 <ord>2</ord>
-</children>
 </LM>
 <LM id="ak_115.03-SCzechA-m-d1t562-18">
 <m.rf>m#m115-d1t562-18</m.rf>
 <afun>Obj</afun>
 <ord>15</ord>
 <children>
-<LM id="ak_115.03-SCzechA-m-d1t562-12">
-<m.rf>m#m115-d1t562-12</m.rf>
-<afun>Adv</afun>
-<ord>9</ord>
-</LM>
-<LM id="ak_115.03-SCzechA-m-d1t562-13">
-<m.rf>m#m115-d1t562-13</m.rf>
-<afun>AuxV</afun>
-<ord>10</ord>
-<children id="ak_115.03-SCzechA-m-d1t562-7">
+<LM id="ak_115.03-SCzechA-m-d1t562-7">
 <m.rf>m#m115-d1t562-7</m.rf>
 <afun>AuxC</afun>
 <ord>4</ord>
@@ -1349,7 +1432,16 @@
 <ord>8</ord>
 </LM>
 </children>
-</children>
+</LM>
+<LM id="ak_115.03-SCzechA-m-d1t562-12">
+<m.rf>m#m115-d1t562-12</m.rf>
+<afun>Adv</afun>
+<ord>9</ord>
+</LM>
+<LM id="ak_115.03-SCzechA-m-d1t562-13">
+<m.rf>m#m115-d1t562-13</m.rf>
+<afun>AuxV</afun>
+<ord>10</ord>
 </LM>
 <LM id="ak_115.03-SCzechA-m-d1t562-14">
 <m.rf>m#m115-d1t562-14</m.rf>
@@ -1360,16 +1452,20 @@
 <m.rf>m#m115-d1t562-15</m.rf>
 <afun>AuxP</afun>
 <ord>12</ord>
-<children id="ak_115.03-SCzechA-m-d1t562-16">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t562-16">
 <m.rf>m#m115-d1t562-16</m.rf>
 <afun>Adv</afun>
 <ord>13</ord>
+</LM>
 </children>
 </LM>
 <LM id="ak_115.03-SCzechA-m-d1t562-17">
 <m.rf>m#m115-d1t562-17</m.rf>
 <afun>Adv</afun>
 <ord>14</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -1419,92 +1515,9 @@
 <s.rf>m#m115-57</s.rf>
 <ord>0</ord>
 <children>
-<LM id="ak_115.03-SCzechA-m-d1t562-65">
-<m.rf>m#m115-d1t562-65</m.rf>
-<afun>Pred</afun>
-<ord>30</ord>
-<children>
-<LM id="ak_115.03-SCzechA-m-d1t562-41">
-<m.rf>m#m115-d1t562-41</m.rf>
-<afun>AuxP</afun>
-<ord>16</ord>
-<children id="ak_115.03-SCzechA-m-d1t562-43">
-<m.rf>m#m115-d1t562-43</m.rf>
-<afun>Adv</afun>
-<ord>17</ord>
-</children>
-</LM>
-<LM id="ak_115.03-SCzechA-m-d1t562-50">
-<m.rf>m#m115-d1t562-50</m.rf>
-<afun>Coord</afun>
-<ord>23</ord>
-<children>
-<LM id="ak_115.03-SCzechA-m-d-id88963-punct">
-<m.rf>m#m115-d-id88963-punct</m.rf>
-<afun>AuxX</afun>
-<ord>18</ord>
-</LM>
-<LM id="ak_115.03-SCzechA-m-d1t562-55">
-<m.rf>m#m115-d1t562-55</m.rf>
-<afun>Coord</afun>
-<is_member>1</is_member>
-<ord>27</ord>
-<children>
-<LM id="ak_115.03-SCzechA-m-d1t562-49">
-<m.rf>m#m115-d1t562-49</m.rf>
-<afun>Obj</afun>
-<is_member>1</is_member>
-<ord>22</ord>
-<children>
-<LM id="ak_115.03-SCzechA-m-d1t562-45">
-<m.rf>m#m115-d1t562-45</m.rf>
-<afun>Obj</afun>
-<ord>19</ord>
-</LM>
-<LM id="ak_115.03-SCzechA-m-d1t562-47">
-<m.rf>m#m115-d1t562-47</m.rf>
-<afun>Adv</afun>
-<ord>20</ord>
-</LM>
-<LM id="ak_115.03-SCzechA-m-d1t562-48">
-<m.rf>m#m115-d1t562-48</m.rf>
-<afun>AuxV</afun>
-<ord>21</ord>
-</LM>
-</children>
-</LM>
-<LM id="ak_115.03-SCzechA-m-d1t562-54">
-<m.rf>m#m115-d1t562-54</m.rf>
-<afun>Obj</afun>
-<is_member>1</is_member>
-<ord>26</ord>
-<children id="ak_115.03-SCzechA-m-d1t562-51">
-<m.rf>m#m115-d1t562-51</m.rf>
-<afun>AuxP</afun>
-<ord>24</ord>
-<children id="ak_115.03-SCzechA-m-d1t562-52">
-<m.rf>m#m115-d1t562-52</m.rf>
-<afun>Adv</afun>
-<ord>25</ord>
-</children>
-</children>
-</LM>
-<LM id="ak_115.03-SCzechA-m-d1t562-57">
-<m.rf>m#m115-d1t562-57</m.rf>
-<afun>Obj</afun>
-<is_member>1</is_member>
-<ord>28</ord>
-</LM>
-</children>
-</LM>
-<LM id="ak_115.03-SCzechA-m-d-id89173-punct">
-<m.rf>m#m115-d-id89173-punct</m.rf>
-<afun>Coord</afun>
-<ord>29</ord>
-<children id="ak_115.03-SCzechA-m-d1t562-35">
+<LM id="ak_115.03-SCzechA-m-d1t562-35">
 <m.rf>m#m115-d1t562-35</m.rf>
 <afun>Pred</afun>
-<is_member>1</is_member>
 <ord>9</ord>
 <children>
 <LM id="ak_115.03-SCzechA-m-d1t562-26">
@@ -1555,33 +1568,125 @@
 <m.rf>m#m115-d1t562-36</m.rf>
 <afun>AuxP</afun>
 <ord>10</ord>
-<children id="ak_115.03-SCzechA-m-d1t562-37">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t562-37">
 <m.rf>m#m115-d1t562-37</m.rf>
 <afun>Adv</afun>
 <ord>11</ord>
-<children id="ak_115.03-SCzechA-m-d1t562-38">
+</LM>
+</children>
+</LM>
+<LM id="ak_115.03-SCzechA-m-d1t562-38">
 <m.rf>m#m115-d1t562-38</m.rf>
 <afun>AuxP</afun>
 <ord>12</ord>
-<children id="ak_115.03-SCzechA-m-d1t562-39">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t562-39">
 <m.rf>m#m115-d1t562-39</m.rf>
-<afun>Atr</afun>
+<afun>Adv</afun>
 <ord>13</ord>
-</children>
-</children>
+</LM>
 </children>
 </LM>
 <LM id="ak_115.03-SCzechA-m-d1t562-40">
 <m.rf>m#m115-d1t562-40</m.rf>
 <afun>AuxC</afun>
 <ord>15</ord>
-<children id="ak_115.03-SCzechA-m-57-58">
+<children>
+<LM id="ak_115.03-SCzechA-m-57-58">
 <m.rf>m#m115-57-58</m.rf>
 <afun>AuxX</afun>
 <ord>14</ord>
+</LM>
+<LM id="ak_115.03-SCzechA-m-d1t562-65">
+<m.rf>m#m115-d1t562-65</m.rf>
+<afun>Adv</afun>
+<ord>30</ord>
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t562-41">
+<m.rf>m#m115-d1t562-41</m.rf>
+<afun>AuxP</afun>
+<ord>16</ord>
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t562-43">
+<m.rf>m#m115-d1t562-43</m.rf>
+<afun>Adv</afun>
+<ord>17</ord>
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t562-45">
+<m.rf>m#m115-d1t562-45</m.rf>
+<afun>AuxC</afun>
+<ord>19</ord>
+<children>
+<LM id="ak_115.03-SCzechA-m-d-id88963-punct">
+<m.rf>m#m115-d-id88963-punct</m.rf>
+<afun>AuxX</afun>
+<ord>18</ord>
+</LM>
+<LM id="ak_115.03-SCzechA-m-d1t562-50">
+<m.rf>m#m115-d1t562-50</m.rf>
+<afun>Coord</afun>
+<ord>23</ord>
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t562-49">
+<m.rf>m#m115-d1t562-49</m.rf>
+<afun>Atr</afun>
+<is_member>1</is_member>
+<ord>22</ord>
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t562-47">
+<m.rf>m#m115-d1t562-47</m.rf>
+<afun>Adv</afun>
+<ord>20</ord>
+</LM>
+<LM id="ak_115.03-SCzechA-m-d1t562-48">
+<m.rf>m#m115-d1t562-48</m.rf>
+<afun>AuxV</afun>
+<ord>21</ord>
+</LM>
+</children>
+</LM>
+<LM id="ak_115.03-SCzechA-m-d1t562-55">
+<m.rf>m#m115-d1t562-55</m.rf>
+<afun>Coord</afun>
+<is_member>1</is_member>
+<ord>27</ord>
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t562-51">
+<m.rf>m#m115-d1t562-51</m.rf>
+<afun>AuxP</afun>
+<ord>24</ord>
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t562-52">
+<m.rf>m#m115-d1t562-52</m.rf>
+<afun>Obj</afun>
+<ord>25</ord>
+</LM>
+</children>
+</LM>
+<LM id="ak_115.03-SCzechA-m-d1t562-54">
+<m.rf>m#m115-d1t562-54</m.rf>
+<afun>Atr</afun>
+<is_member>1</is_member>
+<ord>26</ord>
+</LM>
+<LM id="ak_115.03-SCzechA-m-d1t562-57">
+<m.rf>m#m115-d1t562-57</m.rf>
+<afun>Atr</afun>
+<is_member>1</is_member>
+<ord>28</ord>
+</LM>
+</children>
+</LM>
+<LM id="ak_115.03-SCzechA-m-d-id89173-punct">
+<m.rf>m#m115-d-id89173-punct</m.rf>
+<afun>AuxX</afun>
+<ord>29</ord>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -1590,6 +1695,10 @@
 <m.rf>m#m115-d1t562-66</m.rf>
 <afun>Obj</afun>
 <ord>31</ord>
+</LM>
+</children>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -1623,10 +1732,12 @@
 <m.rf>m#m115-d1t567-1</m.rf>
 <afun>AuxP</afun>
 <ord>4</ord>
-<children id="ak_115.03-SCzechA-m-d1t567-2">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t567-2">
 <m.rf>m#m115-d1t567-2</m.rf>
 <afun>Adv</afun>
 <ord>5</ord>
+</LM>
 </children>
 </LM>
 </children>
@@ -1667,10 +1778,12 @@
 <m.rf>m#m115-d1t567-6</m.rf>
 <afun>AuxP</afun>
 <ord>3</ord>
-<children id="ak_115.03-SCzechA-m-d1t567-7">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t567-7">
 <m.rf>m#m115-d1t567-7</m.rf>
 <afun>Adv</afun>
 <ord>4</ord>
+</LM>
 </children>
 </LM>
 <LM id="ak_115.03-SCzechA-m-d1t567-4">
@@ -1705,27 +1818,29 @@
 <m.rf>m#m115-d1t567-15</m.rf>
 <afun>AuxP</afun>
 <ord>12</ord>
-<children id="ak_115.03-SCzechA-m-d1t567-16">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t567-16">
 <m.rf>m#m115-d1t567-16</m.rf>
 <afun>Adv</afun>
 <ord>13</ord>
+</LM>
 </children>
 </LM>
-<LM id="ak_115.03-SCzechA-m-d1t567-23">
-<m.rf>m#m115-d1t567-23</m.rf>
-<afun>Obj</afun>
-<ord>19</ord>
+<LM id="ak_115.03-SCzechA-m-79-82">
+<m.rf>m#m115-79-82</m.rf>
+<afun>AuxC</afun>
+<ord>15</ord>
 <children>
 <LM id="ak_115.03-SCzechA-m-79-80">
 <m.rf>m#m115-79-80</m.rf>
 <afun>AuxX</afun>
 <ord>14</ord>
 </LM>
-<LM id="ak_115.03-SCzechA-m-79-82">
-<m.rf>m#m115-79-82</m.rf>
+<LM id="ak_115.03-SCzechA-m-d1t567-23">
+<m.rf>m#m115-d1t567-23</m.rf>
 <afun>Adv</afun>
-<ord>15</ord>
-</LM>
+<ord>19</ord>
+<children>
 <LM id="ak_115.03-SCzechA-m-d1t567-17">
 <m.rf>m#m115-d1t567-17</m.rf>
 <afun>AuxV</afun>
@@ -1735,16 +1850,20 @@
 <m.rf>m#m115-d1t567-22</m.rf>
 <afun>Obj</afun>
 <ord>18</ord>
-<children id="ak_115.03-SCzechA-m-d1t567-21">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t567-21">
 <m.rf>m#m115-d1t567-21</m.rf>
 <afun>Atr</afun>
 <ord>17</ord>
+</LM>
 </children>
 </LM>
 <LM id="ak_115.03-SCzechA-m-d1t567-24">
 <m.rf>m#m115-d1t567-24</m.rf>
 <afun>Adv</afun>
 <ord>20</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -1767,7 +1886,8 @@
 <m.rf>m#m115-d1t569-1</m.rf>
 <afun>Coord</afun>
 <ord>3</ord>
-<children id="ak_115.03-SCzechA-m-d1t569-2">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t569-2">
 <m.rf>m#m115-d1t569-2</m.rf>
 <afun>Pred</afun>
 <is_member>1</is_member>
@@ -1780,10 +1900,11 @@
 </LM>
 <LM id="ak_115.03-SCzechA-m-d1t569-4">
 <m.rf>m#m115-d1t569-4</m.rf>
-<afun>Adv</afun>
+<afun>Pnom</afun>
 <ord>4</ord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="ak_115.03-SCzechA-m-d-m-d1e514-x6-punct-punct">
@@ -1806,20 +1927,22 @@
 <m.rf>m#m115-d1t573-2</m.rf>
 <afun>AuxV</afun>
 <ord>2</ord>
-<children id="ak_115.03-SCzechA-m-d1t573-3">
+</LM>
+<LM id="ak_115.03-SCzechA-m-d1t573-3">
 <m.rf>m#m115-d1t573-3</m.rf>
-<afun>Pnom</afun>
+<afun>AtvV</afun>
 <ord>3</ord>
-</children>
 </LM>
 <LM id="ak_115.03-SCzechA-m-d1t573-4">
 <m.rf>m#m115-d1t573-4</m.rf>
 <afun>AuxP</afun>
 <ord>4</ord>
-<children id="ak_115.03-SCzechA-m-d1t573-5">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t573-5">
 <m.rf>m#m115-d1t573-5</m.rf>
 <afun>Adv</afun>
 <ord>5</ord>
+</LM>
 </children>
 </LM>
 </children>
@@ -1839,10 +1962,12 @@
 <m.rf>m#m115-d1t577-2</m.rf>
 <afun>ExD</afun>
 <ord>2</ord>
-<children id="ak_115.03-SCzechA-m-d1t577-1">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t577-1">
 <m.rf>m#m115-d1t577-1</m.rf>
-<afun>Obj</afun>
+<afun>Adv</afun>
 <ord>1</ord>
+</LM>
 </children>
 </LM>
 <LM id="ak_115.03-SCzechA-m-d1e570-x3-96">
@@ -1865,20 +1990,22 @@
 <m.rf>m#m115-d1t577-5</m.rf>
 <afun>AuxV</afun>
 <ord>2</ord>
-<children id="ak_115.03-SCzechA-m-d1t577-6">
+</LM>
+<LM id="ak_115.03-SCzechA-m-d1t577-6">
 <m.rf>m#m115-d1t577-6</m.rf>
-<afun>Pnom</afun>
+<afun>AtvV</afun>
 <ord>3</ord>
-</children>
 </LM>
 <LM id="ak_115.03-SCzechA-m-d1t577-8">
 <m.rf>m#m115-d1t577-8</m.rf>
 <afun>AuxP</afun>
 <ord>4</ord>
-<children id="ak_115.03-SCzechA-m-d1t577-9">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t577-9">
 <m.rf>m#m115-d1t577-9</m.rf>
 <afun>Adv</afun>
 <ord>5</ord>
+</LM>
 </children>
 </LM>
 </children>
@@ -1894,19 +2021,27 @@
 <s.rf>m#m115-99</s.rf>
 <ord>0</ord>
 <children>
+<LM id="ak_115.03-SCzechA-m-d-id90341-punct">
+<m.rf>m#m115-d-id90341-punct</m.rf>
+<afun>Coord</afun>
+<ord>7</ord>
+<children>
 <LM id="ak_115.03-SCzechA-m-d1t577-19">
 <m.rf>m#m115-d1t577-19</m.rf>
 <afun>Pred</afun>
+<is_member>1</is_member>
 <ord>6</ord>
 <children>
 <LM id="ak_115.03-SCzechA-m-d1t577-15">
 <m.rf>m#m115-d1t577-15</m.rf>
 <afun>Sb</afun>
 <ord>2</ord>
-<children id="ak_115.03-SCzechA-m-d1t577-14">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t577-14">
 <m.rf>m#m115-d1t577-14</m.rf>
 <afun>Atr</afun>
 <ord>1</ord>
+</LM>
 </children>
 </LM>
 <LM id="ak_115.03-SCzechA-m-d1t577-16">
@@ -1918,22 +2053,22 @@
 <m.rf>m#m115-d1t577-17</m.rf>
 <afun>AuxP</afun>
 <ord>4</ord>
-<children id="ak_115.03-SCzechA-m-d1t577-18">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t577-18">
 <m.rf>m#m115-d1t577-18</m.rf>
 <afun>Adv</afun>
 <ord>5</ord>
+</LM>
+</children>
+</LM>
 </children>
 </LM>
 <LM id="ak_115.03-SCzechA-m-d1t577-26">
 <m.rf>m#m115-d1t577-26</m.rf>
-<afun>Obj</afun>
+<afun>Pred</afun>
+<is_member>1</is_member>
 <ord>12</ord>
 <children>
-<LM id="ak_115.03-SCzechA-m-d-id90341-punct">
-<m.rf>m#m115-d-id90341-punct</m.rf>
-<afun>AuxX</afun>
-<ord>7</ord>
-</LM>
 <LM id="ak_115.03-SCzechA-m-d1t577-22">
 <m.rf>m#m115-d1t577-22</m.rf>
 <afun>Sb</afun>
@@ -1969,9 +2104,26 @@
 <s.rf>m#m115-101</s.rf>
 <ord>0</ord>
 <children>
+<LM id="ak_115.03-SCzechA-m-d1t579-7">
+<m.rf>m#m115-d1t579-7</m.rf>
+<afun>Coord</afun>
+<ord>10</ord>
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t579-2">
+<m.rf>m#m115-d1t579-2</m.rf>
+<afun>Pred</afun>
+<is_member>1</is_member>
+<ord>7</ord>
+<children>
+<LM id="ak_115.03-SCzechA-m-d-id90490-punct">
+<m.rf>m#m115-d-id90490-punct</m.rf>
+<afun>Apos</afun>
+<ord>3</ord>
+<children>
 <LM id="ak_115.03-SCzechA-m-d1t577-29">
 <m.rf>m#m115-d1t577-29</m.rf>
-<afun>ExD</afun>
+<afun>Sb</afun>
+<is_member>1</is_member>
 <ord>2</ord>
 <children>
 <LM id="ak_115.03-SCzechA-m-d1t577-28">
@@ -1979,25 +2131,19 @@
 <afun>Atr</afun>
 <ord>1</ord>
 </LM>
-<LM id="ak_115.03-SCzechA-m-d1t579-7">
-<m.rf>m#m115-d1t579-7</m.rf>
-<afun>Coord</afun>
-<ord>10</ord>
-<children>
-<LM id="ak_115.03-SCzechA-m-d-id90490-punct">
-<m.rf>m#m115-d-id90490-punct</m.rf>
-<afun>Coord</afun>
-<ord>3</ord>
-<children id="ak_115.03-SCzechA-m-d1t577-32">
+</children>
+</LM>
+<LM id="ak_115.03-SCzechA-m-d1t577-32">
 <m.rf>m#m115-d1t577-32</m.rf>
-<afun>ExD</afun>
+<afun>Sb</afun>
 <is_member>1</is_member>
 <ord>5</ord>
-<children id="ak_115.03-SCzechA-m-d1t577-31">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t577-31">
 <m.rf>m#m115-d1t577-31</m.rf>
 <afun>Atr</afun>
 <ord>4</ord>
-</children>
+</LM>
 </children>
 </LM>
 <LM id="ak_115.03-SCzechA-m-d-id90529-punct">
@@ -2005,20 +2151,20 @@
 <afun>AuxX</afun>
 <ord>6</ord>
 </LM>
-<LM id="ak_115.03-SCzechA-m-d1t579-2">
-<m.rf>m#m115-d1t579-2</m.rf>
-<afun>Pred</afun>
-<is_member>1</is_member>
-<ord>7</ord>
-<children id="ak_115.03-SCzechA-m-d1t579-3">
+</children>
+</LM>
+<LM id="ak_115.03-SCzechA-m-d1t579-3">
 <m.rf>m#m115-d1t579-3</m.rf>
 <afun>AuxP</afun>
 <ord>8</ord>
-<children id="ak_115.03-SCzechA-m-d1t579-5">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t579-5">
 <m.rf>m#m115-d1t579-5</m.rf>
 <afun>Adv</afun>
 <ord>9</ord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="ak_115.03-SCzechA-m-d1t579-13">
@@ -2031,26 +2177,30 @@
 <m.rf>m#m115-d1t579-10</m.rf>
 <afun>AuxP</afun>
 <ord>11</ord>
-<children id="ak_115.03-SCzechA-m-d1t579-12">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t579-12">
 <m.rf>m#m115-d1t579-12</m.rf>
 <afun>Adv</afun>
 <ord>13</ord>
-<children id="ak_115.03-SCzechA-m-d1t579-11">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t579-11">
 <m.rf>m#m115-d1t579-11</m.rf>
 <afun>Atr</afun>
 <ord>12</ord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="ak_115.03-SCzechA-m-d1t579-14">
 <m.rf>m#m115-d1t579-14</m.rf>
 <afun>Sb</afun>
 <ord>15</ord>
-<children id="ak_115.03-SCzechA-m-d1t579-15">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t579-15">
 <m.rf>m#m115-d1t579-15</m.rf>
 <afun>Atr</afun>
 <ord>16</ord>
-</children>
 </LM>
 </children>
 </LM>
@@ -2111,10 +2261,12 @@
 <m.rf>m#m115-d1t581-14</m.rf>
 <afun>AuxP</afun>
 <ord>2</ord>
-<children id="ak_115.03-SCzechA-m-d1t581-15">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t581-15">
 <m.rf>m#m115-d1t581-15</m.rf>
 <afun>Adv</afun>
 <ord>3</ord>
+</LM>
 </children>
 </LM>
 <LM id="ak_115.03-SCzechA-m-d1t581-16">
@@ -2126,9 +2278,10 @@
 <m.rf>m#m115-d1t586-1</m.rf>
 <afun>AuxP</afun>
 <ord>6</ord>
-<children id="ak_115.03-SCzechA-m-d1t586-3">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t586-3">
 <m.rf>m#m115-d1t586-3</m.rf>
-<afun>Obj</afun>
+<afun>Adv</afun>
 <ord>8</ord>
 <children>
 <LM id="ak_115.03-SCzechA-m-d1t586-2">
@@ -2136,17 +2289,20 @@
 <afun>Atr</afun>
 <ord>7</ord>
 </LM>
+</children>
+</LM>
+</children>
+</LM>
 <LM id="ak_115.03-SCzechA-m-d1t586-4">
 <m.rf>m#m115-d1t586-4</m.rf>
 <afun>AuxP</afun>
 <ord>9</ord>
-<children id="ak_115.03-SCzechA-m-d1t586-6">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t586-6">
 <m.rf>m#m115-d1t586-6</m.rf>
 <afun>Adv</afun>
 <ord>10</ord>
-</children>
 </LM>
-</children>
 </children>
 </LM>
 </children>
@@ -2169,18 +2325,24 @@
 <children>
 <LM id="ak_115.03-SCzechA-m-d1t586-12">
 <m.rf>m#m115-d1t586-12</m.rf>
-<afun>Obj</afun>
+<afun>AuxC</afun>
 <ord>3</ord>
-<children id="ak_115.03-SCzechA-m-d-id91228-punct">
+<children>
+<LM id="ak_115.03-SCzechA-m-d-id91228-punct">
 <m.rf>m#m115-d-id91228-punct</m.rf>
-<afun>Coord</afun>
+<afun>AuxX</afun>
 <ord>2</ord>
-<children id="ak_115.03-SCzechA-m-d1t586-16">
+</LM>
+<LM id="ak_115.03-SCzechA-m-d1t586-16">
 <m.rf>m#m115-d1t586-16</m.rf>
-<afun>Pred</afun>
-<is_member>1</is_member>
+<afun>Obj</afun>
 <ord>8</ord>
 <children>
+<LM id="ak_115.03-SCzechA-m-d1t586-13">
+<m.rf>m#m115-d1t586-13</m.rf>
+<afun>AuxT</afun>
+<ord>4</ord>
+</LM>
 <LM id="ak_115.03-SCzechA-m-d1t586-14">
 <m.rf>m#m115-d1t586-14</m.rf>
 <afun>Obj</afun>
@@ -2197,13 +2359,8 @@
 <ord>7</ord>
 </LM>
 </children>
-</children>
-</children>
 </LM>
-<LM id="ak_115.03-SCzechA-m-d1t586-13">
-<m.rf>m#m115-d1t586-13</m.rf>
-<afun>AuxT</afun>
-<ord>4</ord>
+</children>
 </LM>
 </children>
 </LM>
@@ -2260,7 +2417,8 @@
 <m.rf>m#m115-d1t590-5</m.rf>
 <afun>AuxP</afun>
 <ord>1</ord>
-<children id="ak_115.03-SCzechA-m-d1t590-8">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t590-8">
 <m.rf>m#m115-d1t590-8</m.rf>
 <afun>Adv</afun>
 <ord>4</ord>
@@ -2276,6 +2434,7 @@
 <ord>3</ord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="ak_115.03-SCzechA-m-d1t588-8">
@@ -2320,12 +2479,14 @@
 </LM>
 <LM id="ak_115.03-SCzechA-m-d1t594-3">
 <m.rf>m#m115-d1t594-3</m.rf>
-<afun>Obj</afun>
+<afun>Adv</afun>
 <ord>15</ord>
-<children id="ak_115.03-SCzechA-m-d1t594-2">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t594-2">
 <m.rf>m#m115-d1t594-2</m.rf>
 <afun>Atr</afun>
 <ord>14</ord>
+</LM>
 </children>
 </LM>
 </children>
@@ -2354,10 +2515,12 @@
 <m.rf>m#m115-d1t597-5</m.rf>
 <afun>AuxP</afun>
 <ord>1</ord>
-<children id="ak_115.03-SCzechA-m-d1t597-6">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t597-6">
 <m.rf>m#m115-d1t597-6</m.rf>
 <afun>Adv</afun>
 <ord>2</ord>
+</LM>
 </children>
 </LM>
 <LM id="ak_115.03-SCzechA-m-168-169">
@@ -2417,10 +2580,12 @@
 <m.rf>m#m115-d1t597-13</m.rf>
 <afun>AuxP</afun>
 <ord>5</ord>
-<children id="ak_115.03-SCzechA-m-d1t597-15">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t597-15">
 <m.rf>m#m115-d1t597-15</m.rf>
 <afun>Adv</afun>
 <ord>6</ord>
+</LM>
 </children>
 </LM>
 </children>
@@ -2446,15 +2611,19 @@
 <m.rf>m#m115-d1t597-19</m.rf>
 <afun>AuxP</afun>
 <ord>10</ord>
-<children id="ak_115.03-SCzechA-m-d1t597-20">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t597-20">
 <m.rf>m#m115-d1t597-20</m.rf>
 <afun>Adv</afun>
 <ord>11</ord>
-<children id="ak_115.03-SCzechA-m-d1t597-22">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t597-22">
 <m.rf>m#m115-d1t597-22</m.rf>
 <afun>Atr</afun>
 <ord>12</ord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="ak_115.03-SCzechA-m-d1t597-25">
@@ -2510,6 +2679,11 @@
 <afun>Obj</afun>
 <ord>7</ord>
 </LM>
+<LM id="ak_115.03-SCzechA-m-d-id92402-punct">
+<m.rf>m#m115-d-id92402-punct</m.rf>
+<afun>AuxK</afun>
+<ord>8</ord>
+</LM>
 <LM id="ak_115.03-SCzechA-m-17-32">
 <m.rf>m#m115-17-32</m.rf>
 <afun>AuxG</afun>
@@ -2518,11 +2692,6 @@
 </children>
 </LM>
 </children>
-</LM>
-<LM id="ak_115.03-SCzechA-m-d-id92402-punct">
-<m.rf>m#m115-d-id92402-punct</m.rf>
-<afun>AuxK</afun>
-<ord>8</ord>
 </LM>
 </children>
 </LM>
@@ -2630,7 +2799,20 @@
 <m.rf>m#m115-d1t597-49</m.rf>
 <afun>AuxV</afun>
 <ord>6</ord>
-<children id="ak_115.03-SCzechA-m-d1t597-54">
+</LM>
+<LM id="ak_115.03-SCzechA-m-d1t597-51">
+<m.rf>m#m115-d1t597-51</m.rf>
+<afun>Obj</afun>
+<ord>8</ord>
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t597-50">
+<m.rf>m#m115-d1t597-50</m.rf>
+<afun>Atr</afun>
+<ord>7</ord>
+</LM>
+</children>
+</LM>
+<LM id="ak_115.03-SCzechA-m-d1t597-54">
 <m.rf>m#m115-d1t597-54</m.rf>
 <afun>AuxC</afun>
 <ord>11</ord>
@@ -2654,35 +2836,28 @@
 <m.rf>m#m115-d1t597-58</m.rf>
 <afun>Obj</afun>
 <ord>15</ord>
-<children id="ak_115.03-SCzechA-m-d1t597-56">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t597-56">
 <m.rf>m#m115-d1t597-56</m.rf>
 <afun>Obj</afun>
 <ord>13</ord>
-</children>
 </LM>
 <LM id="ak_115.03-SCzechA-m-d1t597-60">
 <m.rf>m#m115-d1t597-60</m.rf>
 <afun>Adv</afun>
 <ord>17</ord>
-<children id="ak_115.03-SCzechA-m-d1t597-59">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t597-59">
 <m.rf>m#m115-d1t597-59</m.rf>
 <afun>AuxZ</afun>
 <ord>16</ord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
-<LM id="ak_115.03-SCzechA-m-d1t597-51">
-<m.rf>m#m115-d1t597-51</m.rf>
-<afun>Obj</afun>
-<ord>8</ord>
-<children id="ak_115.03-SCzechA-m-d1t597-50">
-<m.rf>m#m115-d1t597-50</m.rf>
-<afun>Atr</afun>
-<ord>7</ord>
 </children>
 </LM>
 </children>
@@ -2732,10 +2907,12 @@
 <m.rf>m#m115-d1t629-3</m.rf>
 <afun>AuxP</afun>
 <ord>3</ord>
-<children id="ak_115.03-SCzechA-m-d1t629-4">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t629-4">
 <m.rf>m#m115-d1t629-4</m.rf>
-<afun>ExD</afun>
+<afun>Obj</afun>
 <ord>4</ord>
+</LM>
 </children>
 </LM>
 </children>
@@ -2763,12 +2940,14 @@
 </LM>
 <LM id="ak_115.03-SCzechA-m-d1t635-4">
 <m.rf>m#m115-d1t635-4</m.rf>
-<afun>Pnom</afun>
+<afun>Sb</afun>
 <ord>4</ord>
-<children id="ak_115.03-SCzechA-m-d1t635-3">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t635-3">
 <m.rf>m#m115-d1t635-3</m.rf>
 <afun>Atr</afun>
 <ord>3</ord>
+</LM>
 </children>
 </LM>
 </children>
@@ -2798,15 +2977,19 @@
 <m.rf>m#m115-d1t641-3</m.rf>
 <afun>AuxP</afun>
 <ord>3</ord>
-<children id="ak_115.03-SCzechA-m-d1t641-5">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t641-5">
 <m.rf>m#m115-d1t641-5</m.rf>
 <afun>Adv</afun>
 <ord>5</ord>
-<children id="ak_115.03-SCzechA-m-d1t641-4">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t641-4">
 <m.rf>m#m115-d1t641-4</m.rf>
 <afun>Atr</afun>
 <ord>4</ord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -2846,10 +3029,12 @@
 <m.rf>m#m115-d1t645-8</m.rf>
 <afun>Atr</afun>
 <ord>6</ord>
-<children id="ak_115.03-SCzechA-m-d1t645-7">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t645-7">
 <m.rf>m#m115-d1t645-7</m.rf>
 <afun>Atr</afun>
 <ord>5</ord>
+</LM>
 </children>
 </LM>
 </children>
@@ -2879,48 +3064,58 @@
 </LM>
 <LM id="ak_115.03-SCzechA-m-d1t645-13">
 <m.rf>m#m115-d1t645-13</m.rf>
-<afun>Adv</afun>
+<afun>AuxC</afun>
 <ord>3</ord>
-</LM>
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t649-1">
+<m.rf>m#m115-d1t649-1</m.rf>
+<afun>ExD</afun>
+<ord>6</ord>
+<children>
 <LM id="ak_115.03-SCzechA-m-d1t645-14">
 <m.rf>m#m115-d1t645-14</m.rf>
-<afun>Adv</afun>
+<afun>Atr</afun>
 <ord>4</ord>
 </LM>
 <LM id="ak_115.03-SCzechA-m-d1t647-1">
 <m.rf>m#m115-d1t647-1</m.rf>
-<afun>Adv</afun>
+<afun>Atr</afun>
 <ord>5</ord>
 </LM>
-<LM id="ak_115.03-SCzechA-m-d1t649-1">
-<m.rf>m#m115-d1t649-1</m.rf>
-<afun>Adv</afun>
-<ord>6</ord>
-<children id="ak_115.03-SCzechA-m-d1t654-1">
+</children>
+</LM>
+</children>
+</LM>
+<LM id="ak_115.03-SCzechA-m-d1t654-1">
 <m.rf>m#m115-d1t654-1</m.rf>
 <afun>AuxP</afun>
 <ord>7</ord>
-<children id="ak_115.03-SCzechA-m-d1t654-2">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t654-2">
 <m.rf>m#m115-d1t654-2</m.rf>
 <afun>Adv</afun>
 <ord>8</ord>
-<children id="ak_115.03-SCzechA-m-d1t654-3">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t654-3">
 <m.rf>m#m115-d1t654-3</m.rf>
 <afun>Atr</afun>
 <ord>9</ord>
-<children id="ak_115.03-SCzechA-m-80-125">
+</LM>
+<LM id="ak_115.03-SCzechA-m-80-125">
 <m.rf>m#m115-80-125</m.rf>
 <afun>Coord</afun>
 <ord>10</ord>
-<children id="ak_115.03-SCzechA-m-d1t654-6">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t654-6">
 <m.rf>m#m115-d1t654-6</m.rf>
 <afun>Atr</afun>
 <is_member>1</is_member>
 <ord>11</ord>
+</LM>
 </children>
+</LM>
 </children>
-</children>
-</children>
+</LM>
 </children>
 </LM>
 </children>
@@ -2950,10 +3145,12 @@
 <m.rf>m#m115-d1t658-4</m.rf>
 <afun>Pnom</afun>
 <ord>4</ord>
-<children id="ak_115.03-SCzechA-m-d1t658-3">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t658-3">
 <m.rf>m#m115-d1t658-3</m.rf>
 <afun>Atr</afun>
 <ord>3</ord>
+</LM>
 </children>
 </LM>
 </children>
@@ -2973,31 +3170,39 @@
 <m.rf>m#m115-87-88</m.rf>
 <afun>Coord</afun>
 <ord>5</ord>
-<children id="ak_115.03-SCzechA-m-d1t658-7">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t658-7">
 <m.rf>m#m115-d1t658-7</m.rf>
 <afun>Pred</afun>
 <is_member>1</is_member>
 <ord>6</ord>
-<children id="ak_115.03-SCzechA-m-d1t654-10">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t654-10">
 <m.rf>m#m115-d1t654-10</m.rf>
 <afun>AuxP</afun>
 <ord>1</ord>
-<children id="ak_115.03-SCzechA-m-d1t654-13">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t654-13">
 <m.rf>m#m115-d1t654-13</m.rf>
 <afun>Adv</afun>
 <ord>2</ord>
-<children id="ak_115.03-SCzechA-m-d1t654-12">
+<children>
+<LM id="ak_115.03-SCzechA-m-d1t654-12">
 <m.rf>m#m115-d1t654-12</m.rf>
 <afun>Atr</afun>
 <ord>3</ord>
-<children id="ak_115.03-SCzechA-m-d1t658-9">
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+<LM id="ak_115.03-SCzechA-m-d1t658-9">
 <m.rf>m#m115-d1t658-9</m.rf>
-<afun>Atr</afun>
+<afun>Obj</afun>
 <ord>4</ord>
+</LM>
 </children>
-</children>
-</children>
-</children>
+</LM>
 </children>
 </LM>
 <LM id="ak_115.03-SCzechA-m-87-89">
