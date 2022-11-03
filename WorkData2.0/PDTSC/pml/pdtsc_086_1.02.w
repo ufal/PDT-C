@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <wdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="wdata_schema.xml"/>
+<schema href="wdata_c_schema.xml"/>
 </head>
 <doc id="w-lk_137.02">
 <docmeta/>
