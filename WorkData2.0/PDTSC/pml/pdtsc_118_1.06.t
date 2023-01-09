@@ -1,6618 +1,6327 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
-<head>
-<schema href="tanot_coref_schema.xml" />
-<references>
-<reffile id="a" name="adata" href="pdtsc_118_1.06.a" />
-<reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
-</references>
-</head>
-<trees>
-<LM id="ml_029.06-SCzechT-ml_029-1606-root">
-<atree.rf>a#ml_029.06-SCzechA-ml_029-1606-root</atree.rf>
-<deepord>0</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1859-3">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1859-3</lex.rf>
-</a>
-<val_frame.rf>v#v-w7172f1</val_frame.rf>
-<nodetype>complex</nodetype>
-<t_lemma>umřít</t_lemma>
-<functor>PRED</functor>
-<sentmod>enunc</sentmod>
-<gram>
-<sempos>v</sempos>
-<verbmod>ind</verbmod>
-<deontmod>decl</deontmod>
-<tense>ant</tense>
-<aspect>cpl</aspect>
-<resultative>res0</resultative>
-<dispmod>disp0</dispmod>
-<iterativeness>it0</iterativeness>
-<negation>neg0</negation>
-</gram>
-<deepord>8</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1857-3">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1857-3</lex.rf>
-<aux.rf>
-<LM>a#ml_029.06-SCzechA-m-d1t1857-2</LM>
-</aux.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>rok</t_lemma>
-<functor>TWHEN</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>inan</gender>
-<number>sg</number>
-<negation>neg0</negation>
-</gram>
-<deepord>2</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1857-4">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1857-4</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>1925</t_lemma>
-<functor>ID</functor>
-<gram>
-<sempos>n.quant.def</sempos>
-<gender>nr</gender>
-<number>nr</number>
-<numertype>basic</numertype>
-</gram>
-<deepord>1</deepord>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t1857-10">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1857-10</lex.rf>
-<aux.rf>
-<LM>a#ml_029.06-SCzechA-m-d1t1857-8</LM>
-</aux.rf>
-</a>
-<val_frame.rf>v#v-w243f7</val_frame.rf>
-<nodetype>complex</nodetype>
-<t_lemma>být</t_lemma>
-<functor>TWHEN</functor>
-<gram>
-<sempos>v</sempos>
-<verbmod>ind</verbmod>
-<deontmod>decl</deontmod>
-<tense>ant</tense>
-<aspect>proc</aspect>
-<resultative>res0</resultative>
-<dispmod>disp0</dispmod>
-<iterativeness>it0</iterativeness>
-<negation>neg0</negation>
-</gram>
-<deepord>4</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1857-9">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1857-9</lex.rf>
-</a>
-<coref_special>exoph</coref_special>
-<nodetype>complex</nodetype>
-<t_lemma>#PersPron</t_lemma>
-<functor>ACT</functor>
-<gram>
-<sempos>n.pron.def.pers</sempos>
-<gender>nr</gender>
-<number>sg</number>
-<person>3</person>
-<politeness>basic</politeness>
-</gram>
-<deepord>3</deepord>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t1857-13">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1857-13</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>rok</t_lemma>
-<functor>PAT</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>neut</gender>
-<number>pl</number>
-<negation>neg0</negation>
-</gram>
-<deepord>5</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1857-11">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1857-11</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>35</t_lemma>
-<functor>RSTR</functor>
-<gram>
-<sempos>n.quant.def</sempos>
-<gender>nr</gender>
-<number>nr</number>
-<numertype>basic</numertype>
-</gram>
-<deepord>6</deepord>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t1859-2">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1859-2</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>#PersPron</t_lemma>
-<functor>BEN</functor>
-<gram>
-<sempos>n.pron.def.pers</sempos>
-<gender>nr</gender>
-<number>sg</number>
-<person>3</person>
-<politeness>basic</politeness>
-</gram>
-<deepord>7</deepord>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t1857-9</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>coref</src>
-</LM>
-</coref_text>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t1859-4">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1859-4</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>žena</t_lemma>
-<functor>ACT</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>fem</gender>
-<number>sg</number>
-<negation>neg0</negation>
-</gram>
-<deepord>11</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1859-8">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1859-8</lex.rf>
-</a>
-<val_frame.rf>v#v-w1855hsa_966</val_frame.rf>
-<nodetype>complex</nodetype>
-<t_lemma>mít</t_lemma>
-<functor>RSTR</functor>
-<gram>
-<sempos>v</sempos>
-<verbmod>ind</verbmod>
-<deontmod>decl</deontmod>
-<tense>ant</tense>
-<aspect>proc</aspect>
-<resultative>res0</resultative>
-<dispmod>disp0</dispmod>
-<iterativeness>it0</iterativeness>
-<negation>neg0</negation>
-</gram>
-<deepord>12</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1859-7">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1859-7</lex.rf>
-<aux.rf>
-<LM>a#ml_029.06-SCzechA-m-d1t1859-6</LM>
-</aux.rf>
-</a>
-<coref_gram.rf>
-<LM>ml_029.06-SCzechT-m-d1t1859-4</LM>
-</coref_gram.rf>
-<nodetype>complex</nodetype>
-<t_lemma>který</t_lemma>
-<functor>ADDR</functor>
-<gram>
-<sempos>n.pron.indef</sempos>
-<gender>fem</gender>
-<number>sg</number>
-<indeftype>inter</indeftype>
-<person>3</person>
-</gram>
-<deepord>9</deepord>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t1859-8x3">
-<nodetype>complex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#PersPron</t_lemma>
-<functor>ACT</functor>
-<gram>
-<sempos>n.pron.def.pers</sempos>
-</gram>
-<deepord>10</deepord>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t1859-2</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>coref</src>
-</LM>
-</coref_text>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t1859-13">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1859-13</lex.rf>
-</a>
-<coref_special>exoph</coref_special>
-<nodetype>complex</nodetype>
-<t_lemma>Konstantin</t_lemma>
-<functor>PAT</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>anim</gender>
-<number>sg</number>
-<negation>neg0</negation>
-</gram>
-<deepord>14</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1859-9">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1859-9</lex.rf>
-</a>
-<nodetype>atom</nodetype>
-<t_lemma>právě</t_lemma>
-<functor>RHEM</functor>
-<deepord>13</deepord>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t1859-11">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1859-11</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>ten</t_lemma>
-<functor>RSTR</functor>
-<gram>
-<sempos>n.pron.def.demon</sempos>
-<gender>anim</gender>
-<number>sg</number>
-</gram>
-<deepord>15</deepord>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-ml_029-281-root">
-<atree.rf>a#ml_029.06-SCzechA-ml_029-281-root</atree.rf>
-<deepord>0</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1863-2">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1863-2</lex.rf>
-</a>
-<val_frame.rf>v#v-w243f80_ZU</val_frame.rf>
-<nodetype>complex</nodetype>
-<t_lemma>být</t_lemma>
-<functor>PRED</functor>
-<sentmod>enunc</sentmod>
-<gram>
-<sempos>v</sempos>
-<verbmod>ind</verbmod>
-<deontmod>decl</deontmod>
-<tense>ant</tense>
-<aspect>proc</aspect>
-<resultative>res0</resultative>
-<dispmod>disp0</dispmod>
-<iterativeness>it0</iterativeness>
-<negation>neg0</negation>
-</gram>
-<deepord>3</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1863-2x3">
-<nodetype>complex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#PersPron</t_lemma>
-<functor>ACT</functor>
-<gram>
-<sempos>n.pron.def.pers</sempos>
-</gram>
-<deepord>1</deepord>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t1859-13</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>coref</src>
-</LM>
-</coref_text>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t1869-1">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1869-1</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>starý</t_lemma>
-<functor>PAT</functor>
-<gram>
-<sempos>adj.denot</sempos>
-<degcmp>comp</degcmp>
-<negation>neg0</negation>
-</gram>
-<deepord>5</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1863-5">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1863-5</lex.rf>
-<aux.rf>
-<LM>a#ml_029.06-SCzechA-m-d1t1863-3</LM>
-</aux.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>rok</t_lemma>
-<functor>DIFF</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>neut</gender>
-<number>pl</number>
-<negation>neg0</negation>
-</gram>
-<deepord>4</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1863-4">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1863-4</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>deset</t_lemma>
-<functor>RSTR</functor>
-<gram>
-<sempos>n.quant.def</sempos>
-<gender>nr</gender>
-<number>pl</number>
-<numertype>basic</numertype>
-</gram>
-<deepord>2</deepord>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-ml_029-281-roota1">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1863-2</lex.rf>
-<aux.rf>
-<LM>a#ml_029.06-SCzechA-m-d1t1869-2</LM>
-</aux.rf>
-</a>
-<val_frame.rf>v#v-w243f80_ZU</val_frame.rf>
-<nodetype>complex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>být</t_lemma>
-<functor>CPR</functor>
-<gram>
-<sempos>v</sempos>
-</gram>
-<deepord>7</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1869-3">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1869-3</lex.rf>
-</a>
-<coref_special>exoph</coref_special>
-<nodetype>complex</nodetype>
-<t_lemma>#PersPron</t_lemma>
-<functor>ACT</functor>
-<gram>
-<sempos>n.pron.def.pers</sempos>
-<gender>nr</gender>
-<number>sg</number>
-<person>1</person>
-<politeness>basic</politeness>
-</gram>
-<deepord>6</deepord>
-</LM>
-<LM id="ml_029.06-SCzechT-ml_029-281-roota2">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1869-1</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>starý</t_lemma>
-<functor>PAT</functor>
-<gram>
-<sempos>adj.denot</sempos>
-</gram>
-<deepord>8</deepord>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-ml_029-d1e1877-x2-root">
-<atree.rf>a#ml_029.06-SCzechA-ml_029-d1e1877-x2-root</atree.rf>
-<deepord>0</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1880-17">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1880-17</lex.rf>
-<aux.rf>
-<LM>a#ml_029.06-SCzechA-m-d1t1880-16</LM>
-</aux.rf>
-</a>
-<val_frame.rf>v#v-w7706f1</val_frame.rf>
-<nodetype>complex</nodetype>
-<t_lemma>vrátit_se</t_lemma>
-<functor>PRED</functor>
-<sentmod>enunc</sentmod>
-<gram>
-<sempos>v</sempos>
-<verbmod>ind</verbmod>
-<deontmod>decl</deontmod>
-<tense>ant</tense>
-<aspect>cpl</aspect>
-<resultative>res0</resultative>
-<dispmod>disp0</dispmod>
-<iterativeness>it0</iterativeness>
-<negation>neg0</negation>
-</gram>
-<deepord>5</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1880-5">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1880-5</lex.rf>
-<aux.rf>
-<LM>a#ml_029.06-SCzechA-m-d1t1880-3</LM>
-</aux.rf>
-</a>
-<val_frame.rf>v#v-w7172f1</val_frame.rf>
-<nodetype>complex</nodetype>
-<t_lemma>umřít</t_lemma>
-<functor>TWHEN</functor>
-<gram>
-<sempos>v</sempos>
-<verbmod>ind</verbmod>
-<deontmod>decl</deontmod>
-<tense>ant</tense>
-<aspect>cpl</aspect>
-<resultative>res0</resultative>
-<dispmod>disp0</dispmod>
-<iterativeness>it0</iterativeness>
-<negation>neg0</negation>
-</gram>
-<deepord>3</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1880-4">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1880-4</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>#PersPron</t_lemma>
-<functor>BEN</functor>
-<gram>
-<sempos>n.pron.def.pers</sempos>
-<gender>nr</gender>
-<number>sg</number>
-<person>3</person>
-<politeness>basic</politeness>
-</gram>
-<deepord>1</deepord>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t1859-8x3</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>coref</src>
-</LM>
-</coref_text>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t1880-5x3">
-<nodetype>complex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#PersPron</t_lemma>
-<functor>ACT</functor>
-<gram>
-<sempos>n.pron.def.pers</sempos>
-</gram>
-<deepord>2</deepord>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t1859-7</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>coref</src>
-</LM>
-</coref_text>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t1880-7">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1880-7</lex.rf>
-</a>
-<nodetype>atom</nodetype>
-<t_lemma>tak</t_lemma>
-<functor>PREC</functor>
-<deepord>4</deepord>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t1880-14">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1880-14</lex.rf>
-<aux.rf>
-<LM>a#ml_029.06-SCzechA-m-d1t1880-12</LM>
-</aux.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>Československo</t_lemma>
-<functor>DIR3</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>neut</gender>
-<number>sg</number>
-<negation>neg0</negation>
-</gram>
-<deepord>6</deepord>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t1880-17x3">
-<nodetype>complex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#PersPron</t_lemma>
-<functor>ACT</functor>
-<gram>
-<sempos>n.pron.def.pers</sempos>
-</gram>
-<deepord>7</deepord>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t1880-4</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>coref</src>
-</LM>
-</coref_text>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-ml_029-1618-root">
-<atree.rf>a#ml_029.06-SCzechA-ml_029-1618-root</atree.rf>
-<deepord>0</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1e1877-x2-296">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1e1877-x2-296</lex.rf>
-</a>
-<nodetype>coap</nodetype>
-<t_lemma>a</t_lemma>
-<functor>CONJ</functor>
-<deepord>6</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1882-7">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1882-7</lex.rf>
-<aux.rf>
-<LM>a#ml_029.06-SCzechA-m-d1t1882-6</LM>
-</aux.rf>
-</a>
-<val_frame.rf>v#v-w8659f3</val_frame.rf>
-<nodetype>complex</nodetype>
-<t_lemma>vzít_si</t_lemma>
-<functor>PRED</functor>
-<is_member>1</is_member>
-<sentmod>enunc</sentmod>
-<gram>
-<sempos>v</sempos>
-<verbmod>ind</verbmod>
-<deontmod>decl</deontmod>
-<tense>ant</tense>
-<aspect>cpl</aspect>
-<resultative>res0</resultative>
-<dispmod>disp0</dispmod>
-<iterativeness>it0</iterativeness>
-<negation>neg0</negation>
-</gram>
-<deepord>4</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1882-3">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1882-3</lex.rf>
-<aux.rf>
-<LM>a#ml_029.06-SCzechA-m-d1t1882-2</LM>
-</aux.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>rok</t_lemma>
-<functor>TWHEN</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>inan</gender>
-<number>sg</number>
-<negation>neg0</negation>
-</gram>
-<deepord>1</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1882-4">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1882-4</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>1928</t_lemma>
-<functor>ID</functor>
-<gram>
-<sempos>n.quant.def</sempos>
-<gender>nr</gender>
-<number>nr</number>
-<numertype>basic</numertype>
-</gram>
-<deepord>2</deepord>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t1882-7x3">
-<nodetype>complex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#PersPron</t_lemma>
-<functor>ACT</functor>
-<gram>
-<sempos>n.pron.def.pers</sempos>
-</gram>
-<deepord>3</deepord>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t1880-17x3</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>coref</src>
-</LM>
-</coref_text>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t1882-9">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1882-9</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>matka</t_lemma>
-<functor>PAT</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>fem</gender>
-<number>sg</number>
-<negation>neg0</negation>
-</gram>
-<deepord>5</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1882-8">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1882-8</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>#PersPron</t_lemma>
-<functor>RSTR</functor>
-<gram>
-<sempos>n.pron.def.pers</sempos>
-<gender>nr</gender>
-<number>sg</number>
-<person>1</person>
-<politeness>basic</politeness>
-</gram>
-<deepord>7</deepord>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t1869-3</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>coref</src>
-</LM>
-</coref_text>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t1882-16">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1882-16</lex.rf>
-<aux.rf>
-<LM>a#ml_029.06-SCzechA-m-d1t1882-13</LM>
-<LM>a#ml_029.06-SCzechA-m-d1t1882-14</LM>
-</aux.rf>
-</a>
-<val_frame.rf>v#v-w2173f1</val_frame.rf>
-<nodetype>complex</nodetype>
-<t_lemma>narodit_se</t_lemma>
-<functor>PRED</functor>
-<is_member>1</is_member>
-<sentmod>enunc</sentmod>
-<gram>
-<sempos>v</sempos>
-<verbmod>ind</verbmod>
-<deontmod>decl</deontmod>
-<tense>ant</tense>
-<aspect>cpl</aspect>
-<resultative>res0</resultative>
-<dispmod>disp0</dispmod>
-<iterativeness>it0</iterativeness>
-<negation>neg0</negation>
-</gram>
-<deepord>9</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1882-15">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1882-15</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>#PersPron</t_lemma>
-<functor>PAT</functor>
-<gram>
-<sempos>n.pron.def.pers</sempos>
-<gender>nr</gender>
-<number>pl</number>
-<person>3</person>
-<politeness>basic</politeness>
-</gram>
-<deepord>8</deepord>
-<bridging>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t1882-9</target-node.rf>
-<informal-type>SUB_SET</informal-type>
-<src>coref</src>
-</LM>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t1882-7x3</target-node.rf>
-<informal-type>SUB_SET</informal-type>
-<src>coref</src>
-</LM>
-</bridging>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t1882-12">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1882-12</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>#PersPron</t_lemma>
-<functor>ACT</functor>
-<gram>
-<sempos>n.pron.def.pers</sempos>
-<gender>nr</gender>
-<number>sg</number>
-<person>1</person>
-<politeness>basic</politeness>
-</gram>
-<deepord>10</deepord>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t1882-8</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>coref</src>
-</LM>
-</coref_text>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-ml_029-d1e1883-x2-root">
-<atree.rf>a#ml_029.06-SCzechA-ml_029-d1e1883-x2-root</atree.rf>
-<deepord>0</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1888-3">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1888-3</lex.rf>
-<aux.rf>
-<LM>a#ml_029.06-SCzechA-m-d1t1888-2</LM>
-</aux.rf>
-</a>
-<val_frame.rf>v#v-w243f80_ZU</val_frame.rf>
-<nodetype>complex</nodetype>
-<t_lemma>být</t_lemma>
-<functor>PRED</functor>
-<sentmod>enunc</sentmod>
-<gram>
-<sempos>v</sempos>
-<verbmod>ind</verbmod>
-<deontmod>decl</deontmod>
-<tense>ant</tense>
-<aspect>proc</aspect>
-<resultative>res0</resultative>
-<dispmod>disp0</dispmod>
-<iterativeness>it0</iterativeness>
-<negation>neg0</negation>
-</gram>
-<deepord>2</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-ml_029-d1e1883-x2-roota1">
-<nodetype>complex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#PersPron</t_lemma>
-<functor>ACT</functor>
-<gram>
-<sempos>n.pron.def.pers</sempos>
-</gram>
-<deepord>1</deepord>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t1882-12</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>coref</src>
-</LM>
-</coref_text>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t1888-6">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1888-6</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>syn</t_lemma>
-<functor>PAT</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>anim</gender>
-<number>sg</number>
-<negation>neg0</negation>
-</gram>
-<deepord>4</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1888-4">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1888-4</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>#PersPron</t_lemma>
-<functor>RSTR</functor>
-<gram>
-<sempos>n.pron.def.pers</sempos>
-<gender>nr</gender>
-<number>pl</number>
-<person>3</person>
-<politeness>basic</politeness>
-</gram>
-<deepord>3</deepord>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t1882-15</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>coref</src>
-</LM>
-</coref_text>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t1888-5">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1888-5</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>jediný</t_lemma>
-<functor>RSTR</functor>
-<gram>
-<sempos>adj.denot</sempos>
-<degcmp>pos</degcmp>
-<negation>neg0</negation>
-</gram>
-<deepord>5</deepord>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-ml_029-d1e1883-x4-root">
-<atree.rf>a#ml_029.06-SCzechA-ml_029-d1e1883-x4-root</atree.rf>
-<deepord>0</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1899-2">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1899-2</lex.rf>
-</a>
-<val_frame.rf>v#v-w409f1</val_frame.rf>
-<nodetype>complex</nodetype>
-<t_lemma>dělat</t_lemma>
-<functor>PRED</functor>
-<sentmod>inter</sentmod>
-<gram>
-<sempos>v</sempos>
-<verbmod>ind</verbmod>
-<deontmod>decl</deontmod>
-<tense>sim</tense>
-<aspect>proc</aspect>
-<resultative>res0</resultative>
-<dispmod>disp0</dispmod>
-<iterativeness>it0</iterativeness>
-<negation>neg0</negation>
-</gram>
-<deepord>2</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1899-1">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1899-1</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>co</t_lemma>
-<functor>PAT</functor>
-<gram>
-<sempos>n.pron.indef</sempos>
-<gender>neut</gender>
-<number>sg</number>
-<indeftype>inter</indeftype>
-<person>3</person>
-</gram>
-<deepord>1</deepord>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t1899-3">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1899-3</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>stárek</t_lemma>
-<functor>ACT</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>anim</gender>
-<number>sg</number>
-<negation>neg0</negation>
-</gram>
-<deepord>3</deepord>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-ml_029-d1e1900-x2-root">
-<atree.rf>a#ml_029.06-SCzechA-ml_029-d1e1900-x2-root</atree.rf>
-<deepord>0</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1905-2">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1905-2</lex.rf>
-</a>
-<val_frame.rf>v#v-w243f2</val_frame.rf>
-<nodetype>complex</nodetype>
-<t_lemma>být</t_lemma>
-<functor>PRED</functor>
-<sentmod>enunc</sentmod>
-<gram>
-<sempos>v</sempos>
-<verbmod>ind</verbmod>
-<deontmod>decl</deontmod>
-<tense>sim</tense>
-<aspect>proc</aspect>
-<resultative>res0</resultative>
-<dispmod>disp0</dispmod>
-<iterativeness>it0</iterativeness>
-<negation>neg0</negation>
-</gram>
-<deepord>2</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1905-1">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1905-1</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>stárek</t_lemma>
-<functor>ACT</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>anim</gender>
-<number>sg</number>
-<negation>neg0</negation>
-</gram>
-<deepord>1</deepord>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t1899-3</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>lenk</src>
-</LM>
-</coref_text>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t1905-4">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1905-4</lex.rf>
-<aux.rf>
-<LM>a#ml_029.06-SCzechA-m-d1t1905-3</LM>
-</aux.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>mlýn</t_lemma>
-<functor>LOC</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>inan</gender>
-<number>sg</number>
-<negation>neg0</negation>
-</gram>
-<deepord>3</deepord>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-ml_029-310-root">
-<atree.rf>a#ml_029.06-SCzechA-ml_029-310-root</atree.rf>
-<deepord>0</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-310-311">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-310-311</lex.rf>
-</a>
-<nodetype>coap</nodetype>
-<t_lemma>a</t_lemma>
-<functor>CONJ</functor>
-<deepord>5</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1905-7">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1905-7</lex.rf>
-</a>
-<val_frame.rf>v#v-w243f80_ZU</val_frame.rf>
-<nodetype>complex</nodetype>
-<t_lemma>být</t_lemma>
-<functor>PRED</functor>
-<is_member>1</is_member>
-<sentmod>enunc</sentmod>
-<gram>
-<sempos>v</sempos>
-<verbmod>ind</verbmod>
-<deontmod>decl</deontmod>
-<tense>sim</tense>
-<aspect>proc</aspect>
-<resultative>res0</resultative>
-<dispmod>disp0</dispmod>
-<iterativeness>it0</iterativeness>
-<negation>neg0</negation>
-</gram>
-<deepord>2</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1905-6">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1905-6</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>ten</t_lemma>
-<functor>ACT</functor>
-<gram>
-<sempos>n.pron.def.demon</sempos>
-<gender>neut</gender>
-<number>sg</number>
-</gram>
-<deepord>1</deepord>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t1905-1</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>coref</src>
-</LM>
-</coref_text>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t1909-2">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1909-2</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>funkcionář</t_lemma>
-<functor>PAT</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>anim</gender>
-<number>sg</number>
-<negation>neg0</negation>
-</gram>
-<deepord>4</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1909-1">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1909-1</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>vysoký</t_lemma>
-<functor>RSTR</functor>
-<gram>
-<sempos>adj.denot</sempos>
-<degcmp>sup</degcmp>
-<negation>neg0</negation>
-</gram>
-<deepord>3</deepord>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t1911-9">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1911-9</lex.rf>
-</a>
-<val_frame.rf>v#v-w5879f1</val_frame.rf>
-<nodetype>complex</nodetype>
-<t_lemma>řídit</t_lemma>
-<functor>PRED</functor>
-<is_member>1</is_member>
-<sentmod>enunc</sentmod>
-<gram>
-<sempos>v</sempos>
-<verbmod>ind</verbmod>
-<deontmod>decl</deontmod>
-<tense>sim</tense>
-<aspect>proc</aspect>
-<resultative>res0</resultative>
-<dispmod>disp0</dispmod>
-<iterativeness>it0</iterativeness>
-<negation>neg0</negation>
-</gram>
-<deepord>7</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1911-9x3">
-<nodetype>complex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#PersPron</t_lemma>
-<functor>ACT</functor>
-<gram>
-<sempos>n.pron.def.pers</sempos>
-</gram>
-<deepord>6</deepord>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t1905-6</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>coref</src>
-</LM>
-</coref_text>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t1911-11">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1911-11</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>chod</t_lemma>
-<functor>PAT</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>inan</gender>
-<number>sg</number>
-<negation>neg0</negation>
-</gram>
-<deepord>9</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1911-10">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1911-10</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>veškerý</t_lemma>
-<functor>RSTR</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>inan</gender>
-<number>sg</number>
-<negation>neg0</negation>
-</gram>
-<deepord>8</deepord>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t1911-12">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1911-12</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>mlýn</t_lemma>
-<functor>RSTR</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>inan</gender>
-<number>sg</number>
-<negation>neg0</negation>
-</gram>
-<deepord>10</deepord>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t1905-4</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>lenk</src>
-</LM>
-</coref_text>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-ml_029-d1e1912-x2-root">
-<atree.rf>a#ml_029.06-SCzechA-ml_029-d1e1912-x2-root</atree.rf>
-<deepord>0</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1928-1">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1928-1</lex.rf>
-</a>
-<nodetype>coap</nodetype>
-<t_lemma>ale</t_lemma>
-<functor>ADVS</functor>
-<deepord>7</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1917-4">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1917-4</lex.rf>
-</a>
-<val_frame.rf>v#v-w409f1</val_frame.rf>
-<nodetype>complex</nodetype>
-<t_lemma>dělat</t_lemma>
-<functor>PRED</functor>
-<is_member>1</is_member>
-<sentmod>enunc</sentmod>
-<gram>
-<sempos>v</sempos>
-<verbmod>ind</verbmod>
-<deontmod>decl</deontmod>
-<tense>ant</tense>
-<aspect>proc</aspect>
-<resultative>res0</resultative>
-<dispmod>disp0</dispmod>
-<iterativeness>it0</iterativeness>
-<negation>neg0</negation>
-</gram>
-<deepord>3</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1917-2">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1917-2</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>ten</t_lemma>
-<functor>PAT</functor>
-<gram>
-<sempos>n.pron.def.demon</sempos>
-<gender>neut</gender>
-<number>sg</number>
-</gram>
-<deepord>1</deepord>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-310-311</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>coref</src>
-</LM>
-</coref_text>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t1917-3">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1917-3</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>tam</t_lemma>
-<functor>LOC</functor>
-<gram>
-<sempos>adv.pron.def</sempos>
-</gram>
-<deepord>2</deepord>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t1917-6">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1917-6</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>otec</t_lemma>
-<functor>ACT</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>anim</gender>
-<number>sg</number>
-<negation>neg0</negation>
-</gram>
-<deepord>4</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1917-5">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1917-5</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>#PersPron</t_lemma>
-<functor>RSTR</functor>
-<gram>
-<sempos>n.pron.def.pers</sempos>
-<gender>nr</gender>
-<number>sg</number>
-<person>1</person>
-<politeness>basic</politeness>
-</gram>
-<deepord>5</deepord>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-ml_029-d1e1883-x2-roota1</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>coref</src>
-</LM>
-</coref_text>
-</LM>
-</children>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t1882-7x3</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>lenk</src>
-</LM>
-</coref_text>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t1928-2">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1928-2</lex.rf>
-</a>
-<nodetype>atom</nodetype>
-<t_lemma>přitom</t_lemma>
-<functor>CM</functor>
-<deepord>6</deepord>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t1928-3">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1928-3</lex.rf>
-</a>
-<val_frame.rf>v#v-w243f80_ZU</val_frame.rf>
-<nodetype>complex</nodetype>
-<t_lemma>být</t_lemma>
-<functor>PRED</functor>
-<is_member>1</is_member>
-<sentmod>enunc</sentmod>
-<gram>
-<sempos>v</sempos>
-<verbmod>ind</verbmod>
-<deontmod>decl</deontmod>
-<tense>ant</tense>
-<aspect>proc</aspect>
-<resultative>res0</resultative>
-<dispmod>disp0</dispmod>
-<iterativeness>it0</iterativeness>
-<negation>neg0</negation>
-</gram>
-<deepord>8</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1928-5">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1928-5</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>sladovnický</t_lemma>
-<functor>PAT</functor>
-<gram>
-<sempos>adj.denot</sempos>
-<degcmp>pos</degcmp>
-<negation>neg0</negation>
-</gram>
-<deepord>9</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1928-4">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1928-4</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>vyučený</t_lemma>
-<functor>RSTR</functor>
-<gram>
-<sempos>adj.denot</sempos>
-<degcmp>pos</degcmp>
-<negation>neg0</negation>
-</gram>
-<deepord>10</deepord>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-ml_029-d1e1912-x4-root">
-<atree.rf>a#ml_029.06-SCzechA-ml_029-d1e1912-x4-root</atree.rf>
-<deepord>0</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1932-1">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1932-1</lex.rf>
-<aux.rf>
-<LM>a#ml_029.06-SCzechA-m-d1t1932-2</LM>
-</aux.rf>
-</a>
-<val_frame.rf>v#v-w8681f1</val_frame.rf>
-<nodetype>complex</nodetype>
-<t_lemma>vzpomenout_si</t_lemma>
-<functor>PRED</functor>
-<sentmod>inter</sentmod>
-<gram>
-<sempos>v</sempos>
-<verbmod>ind</verbmod>
-<deontmod>decl</deontmod>
-<tense>sim</tense>
-<aspect>cpl</aspect>
-<resultative>res0</resultative>
-<dispmod>disp0</dispmod>
-<iterativeness>it0</iterativeness>
-<negation>neg0</negation>
-</gram>
-<deepord>2</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1932-1x3">
-<nodetype>complex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#PersPron</t_lemma>
-<functor>ACT</functor>
-<gram>
-<sempos>n.pron.def.pers</sempos>
-</gram>
-<deepord>1</deepord>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t1917-5</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>coref</src>
-</LM>
-</coref_text>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t1932-6">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1932-6</lex.rf>
-<aux.rf>
-<LM>a#ml_029.06-SCzechA-m-d1t1932-3</LM>
-</aux.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>zážitek</t_lemma>
-<functor>PAT</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>inan</gender>
-<number>sg</number>
-<negation>neg0</negation>
-</gram>
-<deepord>5</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1932-4">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1932-4</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>nějaký</t_lemma>
-<functor>RSTR</functor>
-<gram>
-<sempos>n.pron.indef</sempos>
-<gender>inan</gender>
-<number>sg</number>
-<indeftype>indef1</indeftype>
-<person>3</person>
-</gram>
-<deepord>3</deepord>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t1932-5">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1932-5</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>společný</t_lemma>
-<functor>RSTR</functor>
-<gram>
-<sempos>adj.denot</sempos>
-<degcmp>pos</degcmp>
-<negation>neg0</negation>
-</gram>
-<deepord>4</deepord>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t1932-8">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1932-8</lex.rf>
-<aux.rf>
-<LM>a#ml_029.06-SCzechA-m-d1t1932-7</LM>
-</aux.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>rodič</t_lemma>
-<functor>ACMP</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>anim</gender>
-<number>pl</number>
-<negation>neg0</negation>
-</gram>
-<deepord>6</deepord>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t1888-4</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>lenk</src>
-</LM>
-</coref_text>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-ml_029-d1e1933-x2-root">
-<atree.rf>a#ml_029.06-SCzechA-ml_029-d1e1933-x2-root</atree.rf>
-<deepord>0</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1940-3">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1940-3</lex.rf>
-</a>
-<val_frame.rf>v#v-w243f80_ZU</val_frame.rf>
-<nodetype>complex</nodetype>
-<t_lemma>být</t_lemma>
-<functor>PRED</functor>
-<sentmod>enunc</sentmod>
-<gram>
-<sempos>v</sempos>
-<verbmod>ind</verbmod>
-<deontmod>decl</deontmod>
-<tense>ant</tense>
-<aspect>proc</aspect>
-<resultative>res0</resultative>
-<dispmod>disp0</dispmod>
-<iterativeness>it0</iterativeness>
-<negation>neg0</negation>
-</gram>
-<deepord>2</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1940-2">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1940-2</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>#PersPron</t_lemma>
-<functor>ACT</functor>
-<gram>
-<sempos>n.pron.def.pers</sempos>
-<gender>nr</gender>
-<number>pl</number>
-<person>3</person>
-<politeness>basic</politeness>
-</gram>
-<deepord>1</deepord>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t1932-6</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>coref</src>
-</LM>
-</coref_text>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t1940-4">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1940-4</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>několik</t_lemma>
-<functor>PAT</functor>
-<gram>
-<sempos>adj.quant.indef</sempos>
-<indeftype>indef1</indeftype>
-<numertype>basic</numertype>
-</gram>
-<deepord>3</deepord>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-ml_029-d1e1941-x2-root">
-<atree.rf>a#ml_029.06-SCzechA-ml_029-d1e1941-x2-root</atree.rf>
-<deepord>0</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1946-6">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1946-6</lex.rf>
-<aux.rf>
-<LM>a#ml_029.06-SCzechA-m-d1t1946-5</LM>
-<LM>a#ml_029.06-SCzechA-m-d1t1946-2</LM>
-</aux.rf>
-</a>
-<val_frame.rf>v#v-w5874f1</val_frame.rf>
-<nodetype>complex</nodetype>
-<t_lemma>říci</t_lemma>
-<functor>PRED</functor>
-<sentmod>enunc</sentmod>
-<gram>
-<sempos>v</sempos>
-<verbmod>cdn</verbmod>
-<deontmod>poss</deontmod>
-<tense>sim</tense>
-<aspect>cpl</aspect>
-<resultative>res0</resultative>
-<dispmod>disp0</dispmod>
-<iterativeness>it0</iterativeness>
-<negation>neg0</negation>
-</gram>
-<deepord>3</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1946-1">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1946-1</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>co</t_lemma>
-<functor>EFF</functor>
-<gram>
-<sempos>n.pron.indef</sempos>
-<gender>neut</gender>
-<number>sg</number>
-<indeftype>inter</indeftype>
-<person>3</person>
-</gram>
-<deepord>1</deepord>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t1946-3">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1946-3</lex.rf>
-</a>
-<coref_special>exoph</coref_special>
-<nodetype>complex</nodetype>
-<t_lemma>#PersPron</t_lemma>
-<functor>ADDR</functor>
-<gram>
-<sempos>n.pron.def.pers</sempos>
-<gender>nr</gender>
-<number>pl</number>
-<person>2</person>
-<politeness>basic</politeness>
-</gram>
-<deepord>2</deepord>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t1946-4">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1946-4</lex.rf>
-</a>
-<nodetype>atom</nodetype>
-<t_lemma>tak</t_lemma>
-<functor>ATT</functor>
-<deepord>4</deepord>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t1946-6x3">
-<nodetype>complex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#PersPron</t_lemma>
-<functor>ACT</functor>
-<gram>
-<sempos>n.pron.def.pers</sempos>
-</gram>
-<deepord>5</deepord>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t1932-1x3</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>coref</src>
-</LM>
-</coref_text>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-ml_029-d1e1941-x3-root">
-<atree.rf>a#ml_029.06-SCzechA-ml_029-d1e1941-x3-root</atree.rf>
-<deepord>0</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1952-2">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1952-2</lex.rf>
-</a>
-<val_frame.rf>v#v-w4156f1</val_frame.rf>
-<nodetype>complex</nodetype>
-<t_lemma>povídat</t_lemma>
-<functor>PRED</functor>
-<sentmod>imper</sentmod>
-<gram>
-<sempos>v</sempos>
-<verbmod>imp</verbmod>
-<deontmod>decl</deontmod>
-<tense>nil</tense>
-<aspect>proc</aspect>
-<resultative>res0</resultative>
-<dispmod>nil</dispmod>
-<iterativeness>it0</iterativeness>
-<negation>neg0</negation>
-</gram>
-<deepord>3</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-ml_029-d1e1941-x3-roota1">
-<nodetype>complex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#PersPron</t_lemma>
-<functor>ACT</functor>
-<gram>
-<sempos>n.pron.def.pers</sempos>
-</gram>
-<deepord>1</deepord>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t1946-6x3</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>coref</src>
-</LM>
-</coref_text>
-</LM>
-<LM id="ml_029.06-SCzechT-ml_029-d1e1941-x3-roota2">
-<nodetype>complex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#PersPron</t_lemma>
-<functor>ADDR</functor>
-<gram>
-<sempos>n.pron.def.pers</sempos>
-</gram>
-<deepord>2</deepord>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t1946-3</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>coref</src>
-</LM>
-</coref_text>
-</LM>
-<LM id="ml_029.06-SCzechT-ml_029-d1e1941-x3-roota3">
-<coref_special>exoph</coref_special>
-<nodetype>complex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#PersPron</t_lemma>
-<functor>EFF</functor>
-<gram>
-<sempos>n.pron.def.pers</sempos>
-</gram>
-<deepord>4</deepord>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-ml_029-d1e1953-x2-root">
-<atree.rf>a#ml_029.06-SCzechA-ml_029-d1e1953-x2-root</atree.rf>
-<deepord>0</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1958-7">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1958-7</lex.rf>
-</a>
-<val_frame.rf>v#v-w4223f1</val_frame.rf>
-<nodetype>complex</nodetype>
-<t_lemma>pozvat</t_lemma>
-<functor>PRED</functor>
-<sentmod>enunc</sentmod>
-<gram>
-<sempos>v</sempos>
-<verbmod>ind</verbmod>
-<deontmod>decl</deontmod>
-<tense>ant</tense>
-<aspect>cpl</aspect>
-<resultative>res0</resultative>
-<dispmod>disp0</dispmod>
-<iterativeness>it0</iterativeness>
-<negation>neg0</negation>
-</gram>
-<deepord>6</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1956-10">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1956-10</lex.rf>
-<aux.rf>
-<LM>a#ml_029.06-SCzechA-m-d1t1956-9</LM>
-</aux.rf>
-</a>
-<val_frame.rf>v#v-w243f2</val_frame.rf>
-<nodetype>complex</nodetype>
-<t_lemma>být</t_lemma>
-<functor>TWHEN</functor>
-<gram>
-<sempos>v</sempos>
-<verbmod>ind</verbmod>
-<deontmod>decl</deontmod>
-<tense>ant</tense>
-<aspect>proc</aspect>
-<resultative>res0</resultative>
-<dispmod>disp0</dispmod>
-<iterativeness>it0</iterativeness>
-<negation>neg0</negation>
-</gram>
-<deepord>2</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1956-11">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1956-11</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>honitba</t_lemma>
-<functor>ACT</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>fem</gender>
-<number>sg</number>
-<negation>neg0</negation>
-</gram>
-<deepord>1</deepord>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t1958-4">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1958-4</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>Vykoukal</t_lemma>
-<functor>ACT</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>anim</gender>
-<number>sg</number>
-<negation>neg0</negation>
-</gram>
-<deepord>4</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1958-2">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1958-2</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>velkostatkář</t_lemma>
-<functor>RSTR</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>anim</gender>
-<number>sg</number>
-<negation>neg0</negation>
-</gram>
-<deepord>3</deepord>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t1956-7">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1956-7</lex.rf>
-<aux.rf>
-<LM>a#ml_029.06-SCzechA-m-d1e1953-x2-9</LM>
-</aux.rf>
-</a>
-<coref_special>exoph</coref_special>
-<nodetype>complex</nodetype>
-<t_lemma>restaurace</t_lemma>
-<functor>DIR3</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>fem</gender>
-<number>sg</number>
-<negation>neg0</negation>
-</gram>
-<deepord>7</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1956-6">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1956-6</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>ten</t_lemma>
-<functor>RSTR</functor>
-<gram>
-<sempos>n.pron.def.demon</sempos>
-<gender>fem</gender>
-<number>sg</number>
-</gram>
-<deepord>5</deepord>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t1958-15">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1958-15</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>Burian</t_lemma>
-<functor>PAT</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>anim</gender>
-<number>sg</number>
-<negation>neg0</negation>
-</gram>
-<deepord>13</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1958-12">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1958-12</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>herec</t_lemma>
-<functor>RSTR</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>anim</gender>
-<number>sg</number>
-<negation>neg0</negation>
-</gram>
-<deepord>10</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1958-8">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1958-8</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>známý</t_lemma>
-<functor>RSTR</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>anim</gender>
-<number>sg</number>
-<negation>neg0</negation>
-</gram>
-<deepord>8</deepord>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t1958-10">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1958-10</lex.rf>
-</a>
-<nodetype>coap</nodetype>
-<t_lemma>a</t_lemma>
-<functor>CONJ</functor>
-<deepord>11</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1958-9">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1958-9</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>divadelní</t_lemma>
-<functor>RSTR</functor>
-<is_member>1</is_member>
-<gram>
-<sempos>adj.denot</sempos>
-<degcmp>pos</degcmp>
-<negation>neg0</negation>
-</gram>
-<deepord>9</deepord>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t1958-11">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1958-11</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>filmový</t_lemma>
-<functor>RSTR</functor>
-<is_member>1</is_member>
-<gram>
-<sempos>adj.denot</sempos>
-<degcmp>pos</degcmp>
-<negation>neg0</negation>
-</gram>
-<deepord>12</deepord>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t1958-14">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1958-14</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>Vlasta</t_lemma>
-<functor>RSTR</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>anim</gender>
-<number>sg</number>
-<negation>neg0</negation>
-</gram>
-<deepord>14</deepord>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t1968-5">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1968-5</lex.rf>
-</a>
-<val_frame.rf>v#v-w10574f2</val_frame.rf>
-<nodetype>complex</nodetype>
-<t_lemma>obědvat</t_lemma>
-<functor>RSTR</functor>
-<gram>
-<sempos>v</sempos>
-<verbmod>ind</verbmod>
-<deontmod>decl</deontmod>
-<tense>ant</tense>
-<aspect>proc</aspect>
-<resultative>res0</resultative>
-<dispmod>disp0</dispmod>
-<iterativeness>it0</iterativeness>
-<negation>neg0</negation>
-</gram>
-<deepord>16</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1968-1">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1968-1</lex.rf>
-</a>
-<coref_gram.rf>
-<LM>ml_029.06-SCzechT-m-d1t1958-15</LM>
-</coref_gram.rf>
-<nodetype>complex</nodetype>
-<t_lemma>který</t_lemma>
-<functor>ACT</functor>
-<gram>
-<sempos>n.pron.indef</sempos>
-<gender>neut</gender>
-<number>sg</number>
-<indeftype>inter</indeftype>
-<person>3</person>
-</gram>
-<deepord>15</deepord>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t1968-2">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1968-2</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>tam</t_lemma>
-<functor>LOC</functor>
-<gram>
-<sempos>adv.pron.def</sempos>
-</gram>
-<deepord>17</deepord>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t1956-7</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>lenk</src>
-</LM>
-</coref_text>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t1968-4">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1968-4</lex.rf>
-<aux.rf>
-<LM>a#ml_029.06-SCzechA-m-d1t1968-3</LM>
-</aux.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>#PersPron</t_lemma>
-<functor>LOC</functor>
-<gram>
-<sempos>n.pron.def.pers</sempos>
-<gender>nr</gender>
-<number>pl</number>
-<person>1</person>
-<politeness>basic</politeness>
-</gram>
-<deepord>18</deepord>
-<bridging>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t1863-2x3</target-node.rf>
-<informal-type>SUB_SET</informal-type>
-<src>lenk</src>
-</LM>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-ml_029-d1e1941-x3-roota1</target-node.rf>
-<informal-type>SUB_SET</informal-type>
-<src>lenk</src>
-</LM>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t1882-9</target-node.rf>
-<informal-type>SUB_SET</informal-type>
-<src>lenk</src>
-</LM>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t1917-6</target-node.rf>
-<informal-type>SUB_SET</informal-type>
-<src>lenk</src>
-</LM>
-</bridging>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t1958-1">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1958-1</lex.rf>
-</a>
-<nodetype>atom</nodetype>
-<t_lemma>tak</t_lemma>
-<functor>PREC</functor>
-<deepord>19</deepord>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-ml_029-d1e1975-x2-root">
-<atree.rf>a#ml_029.06-SCzechA-ml_029-d1e1975-x2-root</atree.rf>
-<deepord>0</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1980-10">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1980-10</lex.rf>
-</a>
-<nodetype>coap</nodetype>
-<t_lemma>a</t_lemma>
-<functor>CONJ</functor>
-<deepord>6</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1980-2">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1980-2</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>jednou</t_lemma>
-<functor>TWHEN</functor>
-<gram>
-<sempos>adj.quant.def</sempos>
-<numertype>basic</numertype>
-<negation>neg0</negation>
-</gram>
-<deepord>1</deepord>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t1980-4">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1980-4</lex.rf>
-</a>
-<val_frame.rf>v#v-w243f2</val_frame.rf>
-<nodetype>complex</nodetype>
-<t_lemma>být</t_lemma>
-<functor>PRED</functor>
-<is_member>1</is_member>
-<sentmod>enunc</sentmod>
-<gram>
-<sempos>v</sempos>
-<verbmod>ind</verbmod>
-<deontmod>decl</deontmod>
-<tense>ant</tense>
-<aspect>proc</aspect>
-<resultative>res0</resultative>
-<dispmod>disp0</dispmod>
-<iterativeness>it0</iterativeness>
-<negation>neg0</negation>
-</gram>
-<deepord>3</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1980-3">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1980-3</lex.rf>
-</a>
-<coref_special>exoph</coref_special>
-<nodetype>complex</nodetype>
-<t_lemma>tam</t_lemma>
-<functor>LOC</functor>
-<gram>
-<sempos>adv.pron.def</sempos>
-</gram>
-<deepord>2</deepord>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t1980-6">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1980-6</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>závod</t_lemma>
-<functor>ACT</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>inan</gender>
-<number>pl</number>
-<negation>neg0</negation>
-</gram>
-<deepord>4</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1980-8">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1980-8</lex.rf>
-<aux.rf>
-<LM>a#ml_029.06-SCzechA-m-d1t1980-7</LM>
-</aux.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>kůň</t_lemma>
-<functor>MEANS</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>anim</gender>
-<number>pl</number>
-<negation>neg0</negation>
-</gram>
-<deepord>5</deepord>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t1980-15">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1980-15</lex.rf>
-</a>
-<val_frame.rf>v#v-w5152f1</val_frame.rf>
-<nodetype>complex</nodetype>
-<t_lemma>přijet</t_lemma>
-<functor>PRED</functor>
-<is_member>1</is_member>
-<sentmod>enunc</sentmod>
-<gram>
-<sempos>v</sempos>
-<verbmod>ind</verbmod>
-<deontmod>decl</deontmod>
-<tense>ant</tense>
-<aspect>cpl</aspect>
-<resultative>res0</resultative>
-<dispmod>disp0</dispmod>
-<iterativeness>it0</iterativeness>
-<negation>neg0</negation>
-</gram>
-<deepord>9</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-ml_029-d1e1975-x2-roota1">
-<nodetype>qcomplex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#Oblfm</t_lemma>
-<functor>DIR3</functor>
-<deepord>7</deepord>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t1980-19">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1980-19</lex.rf>
-<aux.rf>
-<LM>a#ml_029.06-SCzechA-m-d1t1980-18</LM>
-</aux.rf>
-</a>
-<val_frame.rf>v#v-w3574f1</val_frame.rf>
-<nodetype>complex</nodetype>
-<t_lemma>podívat_se</t_lemma>
-<functor>INTT</functor>
-<gram>
-<sempos>v</sempos>
-<verbmod>nil</verbmod>
-<deontmod>decl</deontmod>
-<tense>nil</tense>
-<aspect>cpl</aspect>
-<resultative>res0</resultative>
-<dispmod>nil</dispmod>
-<iterativeness>it0</iterativeness>
-<negation>neg0</negation>
-</gram>
-<deepord>10</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-ml_029-d1e1975-x2-roota3">
-<coref_gram.rf>
-<LM>ml_029.06-SCzechT-m-d1t1980-16</LM>
-</coref_gram.rf>
-<nodetype>qcomplex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#Cor</t_lemma>
-<functor>ACT</functor>
-<deepord>8</deepord>
-</LM>
-<LM id="ml_029.06-SCzechT-ml_029-d1e1975-x2-roota2">
-<nodetype>qcomplex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#Oblfm</t_lemma>
-<functor>DIR3</functor>
-<deepord>11</deepord>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t1980-16">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1980-16</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>ten</t_lemma>
-<functor>ACT</functor>
-<gram>
-<sempos>n.pron.def.demon</sempos>
-<gender>anim</gender>
-<number>pl</number>
-</gram>
-<deepord>12</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1980-17">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1980-17</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>dobrý</t_lemma>
-<functor>RSTR</functor>
-<gram>
-<sempos>adj.denot</sempos>
-<degcmp>sup</degcmp>
-<negation>neg0</negation>
-</gram>
-<deepord>13</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1980-13">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1980-13</lex.rf>
-<aux.rf>
-<LM>a#ml_029.06-SCzechA-m-d1t1980-11</LM>
-</aux.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>republika</t_lemma>
-<functor>DIR1</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>fem</gender>
-<number>sg</number>
-<negation>neg0</negation>
-</gram>
-<deepord>14</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1980-12">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1980-12</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>celý</t_lemma>
-<functor>RSTR</functor>
-<gram>
-<sempos>adj.denot</sempos>
-<degcmp>pos</degcmp>
-<negation>neg0</negation>
-</gram>
-<deepord>15</deepord>
-</LM>
-</children>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t1880-14</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>lenk</src>
-</LM>
-</coref_text>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-ml_029-39-root">
-<atree.rf>a#ml_029.06-SCzechA-ml_029-39-root</atree.rf>
-<deepord>0</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1980-31">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1980-31</lex.rf>
-</a>
-<nodetype>coap</nodetype>
-<t_lemma>a</t_lemma>
-<functor>CONJ</functor>
-<deepord>7</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1980-24">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1980-24</lex.rf>
-<aux.rf>
-<LM>a#ml_029.06-SCzechA-m-d1t1980-22</LM>
-</aux.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>doba</t_lemma>
-<functor>TWHEN</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>fem</gender>
-<number>sg</number>
-<negation>neg0</negation>
-</gram>
-<deepord>2</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1980-23">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1980-23</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>ten</t_lemma>
-<functor>RSTR</functor>
-<gram>
-<sempos>n.pron.def.demon</sempos>
-<gender>fem</gender>
-<number>sg</number>
-</gram>
-<deepord>1</deepord>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t1980-26">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1980-26</lex.rf>
-</a>
-<val_frame.rf>v#v-whsa_1080f1_ZU</val_frame.rf>
-<nodetype>complex</nodetype>
-<t_lemma>navařit</t_lemma>
-<functor>PRED</functor>
-<is_member>1</is_member>
-<sentmod>enunc</sentmod>
-<gram>
-<sempos>v</sempos>
-<verbmod>ind</verbmod>
-<deontmod>decl</deontmod>
-<tense>ant</tense>
-<aspect>proc</aspect>
-<resultative>res0</resultative>
-<dispmod>disp0</dispmod>
-<iterativeness>it0</iterativeness>
-<negation>neg0</negation>
-</gram>
-<deepord>4</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1980-25">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1980-25</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>matka</t_lemma>
-<functor>ACT</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>fem</gender>
-<number>sg</number>
-<negation>neg0</negation>
-</gram>
-<deepord>3</deepord>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t1882-9</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>lenk</src>
-</LM>
-</coref_text>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t1980-29">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1980-29</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>oběd</t_lemma>
-<functor>PAT</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>inan</gender>
-<number>pl</number>
-<negation>neg0</negation>
-</gram>
-<deepord>5</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1980-27">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1980-27</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>200</t_lemma>
-<functor>RSTR</functor>
-<gram>
-<sempos>n.quant.def</sempos>
-<gender>nr</gender>
-<number>nr</number>
-<numertype>basic</numertype>
-</gram>
-<deepord>6</deepord>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t1982-1">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1982-1</lex.rf>
-<aux.rf>
-<LM>a#ml_029.06-SCzechA-m-d1t1982-2</LM>
-</aux.rf>
-</a>
-<val_frame.rf>v#v-w8488hsa_125</val_frame.rf>
-<nodetype>complex</nodetype>
-<t_lemma>vytočit</t_lemma>
-<functor>PRED</functor>
-<is_member>1</is_member>
-<sentmod>enunc</sentmod>
-<gram>
-<sempos>v</sempos>
-<verbmod>ind</verbmod>
-<deontmod>decl</deontmod>
-<tense>ant</tense>
-<aspect>cpl</aspect>
-<resultative>res0</resultative>
-<dispmod>disp0</dispmod>
-<iterativeness>it0</iterativeness>
-<negation>neg0</negation>
-</gram>
-<deepord>9</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-ml_029-39-roota2">
-<nodetype>complex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#PersPron</t_lemma>
-<functor>ACT</functor>
-<gram>
-<sempos>n.pron.def.pers</sempos>
-</gram>
-<deepord>8</deepord>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t1968-4</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>coref</src>
-</LM>
-</coref_text>
-</LM>
-<LM id="ml_029.06-SCzechT-ml_029-39-roota1">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d-id118690-punct</lex.rf>
-</a>
-<nodetype>coap</nodetype>
-<t_lemma>#Comma</t_lemma>
-<functor>APPS</functor>
-<deepord>12</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1982-5">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1982-5</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>hl</t_lemma>
-<functor>PAT</functor>
-<is_member>1</is_member>
-<gram>
-<sempos>n.denot</sempos>
-<gender>inan</gender>
-<number>pl</number>
-<negation>neg0</negation>
-</gram>
-<deepord>11</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1982-3">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1982-3</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>35</t_lemma>
-<functor>RSTR</functor>
-<gram>
-<sempos>n.quant.def</sempos>
-<gender>nr</gender>
-<number>nr</number>
-<numertype>basic</numertype>
-</gram>
-<deepord>10</deepord>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t1982-6">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1982-6</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>pivo</t_lemma>
-<functor>RSTR</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>neut</gender>
-<number>sg</number>
-<negation>neg0</negation>
-</gram>
-<deepord>13</deepord>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t1982-9">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1982-9</lex.rf>
-</a>
-<val_frame.rf>v#v-w243f80_ZU</val_frame.rf>
-<nodetype>complex</nodetype>
-<t_lemma>být</t_lemma>
-<functor>PAT</functor>
-<is_member>1</is_member>
-<gram>
-<sempos>v</sempos>
-<verbmod>ind</verbmod>
-<deontmod>decl</deontmod>
-<tense>sim</tense>
-<aspect>proc</aspect>
-<resultative>res0</resultative>
-<dispmod>disp0</dispmod>
-<iterativeness>it0</iterativeness>
-<negation>neg0</negation>
-</gram>
-<deepord>15</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1982-8">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1982-8</lex.rf>
-</a>
-<coref_gram.rf>
-<LM>ml_029.06-SCzechT-m-d1t1982-5</LM>
-</coref_gram.rf>
-<nodetype>complex</nodetype>
-<t_lemma>což</t_lemma>
-<functor>ACT</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>nr</gender>
-<number>nr</number>
-<negation>neg0</negation>
-</gram>
-<deepord>14</deepord>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t1992-2">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1992-2</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>množství</t_lemma>
-<functor>PAT</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>neut</gender>
-<number>sg</number>
-<negation>neg0</negation>
-</gram>
-<deepord>17</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1992-1">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1992-1</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>veliký</t_lemma>
-<functor>RSTR</functor>
-<gram>
-<sempos>adj.denot</sempos>
-<degcmp>pos</degcmp>
-<negation>neg0</negation>
-</gram>
-<deepord>16</deepord>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-ml_029-d1e1989-x2-root">
-<atree.rf>a#ml_029.06-SCzechA-ml_029-d1e1989-x2-root</atree.rf>
-<deepord>0</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1992-8">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1992-8</lex.rf>
-</a>
-<val_frame.rf>v#v-w8488hsa_125</val_frame.rf>
-<nodetype>complex</nodetype>
-<t_lemma>vytočit</t_lemma>
-<functor>PRED</functor>
-<gram>
-<sempos>v</sempos>
-<verbmod>ind</verbmod>
-<deontmod>decl</deontmod>
-<tense>ant</tense>
-<aspect>cpl</aspect>
-<resultative>res0</resultative>
-<dispmod>disp0</dispmod>
-<iterativeness>it0</iterativeness>
-<negation>neg1</negation>
-</gram>
-<deepord>5</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1992-5">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1992-5</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>tam</t_lemma>
-<functor>LOC</functor>
-<gram>
-<sempos>adv.pron.def</sempos>
-</gram>
-<deepord>1</deepord>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t1980-3</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>lenk</src>
-</LM>
-</coref_text>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t1992-6">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1992-6</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>nikdy</t_lemma>
-<functor>TWHEN</functor>
-<gram>
-<sempos>adv.pron.indef</sempos>
-<indeftype>negat</indeftype>
-</gram>
-<deepord>2</deepord>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t1992-4">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1992-4</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>ten</t_lemma>
-<functor>PAT</functor>
-<gram>
-<sempos>n.pron.def.demon</sempos>
-<gender>neut</gender>
-<number>sg</number>
-</gram>
-<deepord>3</deepord>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t1982-8</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>coref</src>
-</LM>
-</coref_text>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t1992-7">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1992-7</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>nikdo</t_lemma>
-<functor>ACT</functor>
-<gram>
-<sempos>n.pron.indef</sempos>
-<gender>anim</gender>
-<number>sg</number>
-<indeftype>negat</indeftype>
-<person>3</person>
-</gram>
-<deepord>4</deepord>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t1992-11">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1992-11</lex.rf>
-<aux.rf>
-<LM>a#ml_029.06-SCzechA-m-d1t1992-9</LM>
-</aux.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>den</t_lemma>
-<functor>THL</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>inan</gender>
-<number>sg</number>
-<negation>neg0</negation>
-</gram>
-<deepord>6</deepord>
-</LM>
-<LM id="ml_029.06-SCzechT-ml_029-d1e1989-x2-roota1">
-<nodetype>atom</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#Neg</t_lemma>
-<functor>RHEM</functor>
-<deepord>7</deepord>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-ml_029-52-root">
-<atree.rf>a#ml_029.06-SCzechA-ml_029-52-root</atree.rf>
-<deepord>0</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1992-14">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1992-14</lex.rf>
-</a>
-<val_frame.rf>v#v-w243f80_ZU</val_frame.rf>
-<nodetype>complex</nodetype>
-<t_lemma>být</t_lemma>
-<functor>PRED</functor>
-<sentmod>enunc</sentmod>
-<gram>
-<sempos>v</sempos>
-<verbmod>ind</verbmod>
-<deontmod>decl</deontmod>
-<tense>ant</tense>
-<aspect>proc</aspect>
-<resultative>res0</resultative>
-<dispmod>disp0</dispmod>
-<iterativeness>it0</iterativeness>
-<negation>neg0</negation>
-</gram>
-<deepord>2</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1992-13">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1992-13</lex.rf>
-</a>
-<coref_special>exoph</coref_special>
-<nodetype>complex</nodetype>
-<t_lemma>ten</t_lemma>
-<functor>ACT</functor>
-<gram>
-<sempos>n.pron.def.demon</sempos>
-<gender>neut</gender>
-<number>sg</number>
-</gram>
-<deepord>1</deepord>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t1992-16">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1992-16</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>tady</t_lemma>
-<functor>LOC</functor>
-<gram>
-<sempos>adv.pron.def</sempos>
-</gram>
-<deepord>3</deepord>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t1992-5</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>lenk</src>
-</LM>
-</coref_text>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t1992-15">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1992-15</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>zajímavý</t_lemma>
-<functor>PAT</functor>
-<gram>
-<sempos>adj.denot</sempos>
-<degcmp>pos</degcmp>
-<negation>neg0</negation>
-</gram>
-<deepord>4</deepord>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-ml_029-d1e1994-x2-root">
-<atree.rf>a#ml_029.06-SCzechA-ml_029-d1e1994-x2-root</atree.rf>
-<deepord>0</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1997-2">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1997-2</lex.rf>
-</a>
-<val_frame.rf>v#v-w243f80_ZU</val_frame.rf>
-<nodetype>complex</nodetype>
-<t_lemma>být</t_lemma>
-<functor>PRED</functor>
-<sentmod>enunc</sentmod>
-<gram>
-<sempos>v</sempos>
-<verbmod>ind</verbmod>
-<deontmod>decl</deontmod>
-<tense>sim</tense>
-<aspect>proc</aspect>
-<resultative>res0</resultative>
-<dispmod>disp0</dispmod>
-<iterativeness>it0</iterativeness>
-<negation>neg0</negation>
-</gram>
-<deepord>2</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t1997-1">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1997-1</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>ten</t_lemma>
-<functor>ACT</functor>
-<gram>
-<sempos>n.pron.def.demon</sempos>
-<gender>neut</gender>
-<number>sg</number>
-</gram>
-<deepord>1</deepord>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t1980-31</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>coref</src>
-</LM>
-</coref_text>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t1997-3">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1997-3</lex.rf>
-</a>
-<nodetype>atom</nodetype>
-<t_lemma>teda</t_lemma>
-<functor>ATT</functor>
-<deepord>3</deepord>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t1997-4">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t1997-4</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>výkon</t_lemma>
-<functor>PAT</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>inan</gender>
-<number>sg</number>
-<negation>neg0</negation>
-</gram>
-<deepord>4</deepord>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-ml_029-d1e1998-x2-root">
-<atree.rf>a#ml_029.06-SCzechA-ml_029-d1e1998-x2-root</atree.rf>
-<deepord>0</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2001-2">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2001-2</lex.rf>
-</a>
-<val_frame.rf>v#v-w243f80_ZU</val_frame.rf>
-<nodetype>complex</nodetype>
-<t_lemma>být</t_lemma>
-<functor>PRED</functor>
-<sentmod>enunc</sentmod>
-<gram>
-<sempos>v</sempos>
-<verbmod>ind</verbmod>
-<deontmod>decl</deontmod>
-<tense>ant</tense>
-<aspect>proc</aspect>
-<resultative>res0</resultative>
-<dispmod>disp0</dispmod>
-<iterativeness>it0</iterativeness>
-<negation>neg0</negation>
-</gram>
-<deepord>2</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2001-1">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2001-1</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>ten</t_lemma>
-<functor>ACT</functor>
-<gram>
-<sempos>n.pron.def.demon</sempos>
-<gender>neut</gender>
-<number>sg</number>
-</gram>
-<deepord>1</deepord>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t1997-1</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>coref</src>
-</LM>
-</coref_text>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t2001-7">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2001-7</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>výkon</t_lemma>
-<functor>PAT</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>inan</gender>
-<number>sg</number>
-<negation>neg0</negation>
-</gram>
-<deepord>5</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2001-6">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2001-6</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>veliký</t_lemma>
-<functor>RSTR</functor>
-<gram>
-<sempos>adj.denot</sempos>
-<degcmp>pos</degcmp>
-<negation>neg0</negation>
-</gram>
-<deepord>4</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2001-8">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2001-8</lex.rf>
-</a>
-<nodetype>atom</nodetype>
-<t_lemma>opravdu</t_lemma>
-<functor>ATT</functor>
-<deepord>3</deepord>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-ml_029-64-root">
-<atree.rf>a#ml_029.06-SCzechA-ml_029-64-root</atree.rf>
-<deepord>0</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-ml_029-64-roota1">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d-id119465-punct</lex.rf>
-</a>
-<nodetype>coap</nodetype>
-<t_lemma>#Comma</t_lemma>
-<functor>CONJ</functor>
-<deepord>7</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2003-4">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2003-4</lex.rf>
-<aux.rf>
-<LM>a#ml_029.06-SCzechA-m-d1t2003-2</LM>
-</aux.rf>
-</a>
-<val_frame.rf>v#v-w3936f1</val_frame.rf>
-<nodetype>complex</nodetype>
-<t_lemma>pořádat</t_lemma>
-<functor>PRED</functor>
-<is_member>1</is_member>
-<sentmod>enunc</sentmod>
-<gram>
-<sempos>v</sempos>
-<verbmod>ind</verbmod>
-<deontmod>decl</deontmod>
-<tense>ant</tense>
-<aspect>proc</aspect>
-<resultative>res0</resultative>
-<dispmod>disp0</dispmod>
-<iterativeness>it0</iterativeness>
-<negation>neg0</negation>
-</gram>
-<deepord>3</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2003-1">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2003-1</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>jinak</t_lemma>
-<functor>COND</functor>
-<gram>
-<sempos>adv.denot.ngrad.neg</sempos>
-<negation>neg0</negation>
-</gram>
-<deepord>1</deepord>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t2003-3">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2003-3</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>tam</t_lemma>
-<functor>LOC</functor>
-<gram>
-<sempos>adv.pron.def</sempos>
-</gram>
-<deepord>2</deepord>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t1968-2</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>lenk</src>
-</LM>
-</coref_text>
-</LM>
-<LM id="ml_029.06-SCzechT-ml_029-64-roota2">
-<nodetype>qcomplex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#Gen</t_lemma>
-<functor>ACT</functor>
-<deepord>4</deepord>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d-id119440-punct">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d-id119440-punct</lex.rf>
-</a>
-<nodetype>coap</nodetype>
-<t_lemma>#Comma</t_lemma>
-<functor>CONJ</functor>
-<deepord>5</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2003-5">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2003-5</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>bál</t_lemma>
-<functor>PAT</functor>
-<is_member>1</is_member>
-<gram>
-<sempos>n.denot</sempos>
-<gender>inan</gender>
-<number>pl</number>
-<negation>neg0</negation>
-</gram>
-<deepord>6</deepord>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t2003-7">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2003-7</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>divadlo</t_lemma>
-<functor>PAT</functor>
-<is_member>1</is_member>
-<gram>
-<sempos>n.denot</sempos>
-<gender>neut</gender>
-<number>pl</number>
-<negation>neg0</negation>
-</gram>
-<deepord>8</deepord>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-m-64-78">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-64-78</lex.rf>
-</a>
-<val_frame.rf>v#v-w1855f9</val_frame.rf>
-<nodetype>complex</nodetype>
-<t_lemma>mít</t_lemma>
-<functor>PRED</functor>
-<is_member>1</is_member>
-<gram>
-<sempos>v</sempos>
-<verbmod>ind</verbmod>
-<deontmod>decl</deontmod>
-<tense>ant</tense>
-<aspect>proc</aspect>
-<resultative>res0</resultative>
-<dispmod>disp0</dispmod>
-<iterativeness>it0</iterativeness>
-<negation>neg0</negation>
-</gram>
-<deepord>11</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2003-11">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2003-11</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>Sokol</t_lemma>
-<functor>ACT</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>anim</gender>
-<number>sg</number>
-<negation>neg0</negation>
-</gram>
-<deepord>9</deepord>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t2003-13">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2003-13</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>tam</t_lemma>
-<functor>LOC</functor>
-<gram>
-<sempos>adv.pron.def</sempos>
-</gram>
-<deepord>10</deepord>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t2003-3</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>lenk</src>
-</LM>
-</coref_text>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t2003-17">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2003-17</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>tělocvična</t_lemma>
-<functor>PAT</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>fem</gender>
-<number>sg</number>
-<negation>neg0</negation>
-</gram>
-<deepord>13</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2003-21">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2003-21</lex.rf>
-<aux.rf>
-<LM>a#ml_029.06-SCzechA-m-d1t2003-19</LM>
-</aux.rf>
-</a>
-<val_frame.rf>v#v-w298f1</val_frame.rf>
-<nodetype>complex</nodetype>
-<t_lemma>cvičit</t_lemma>
-<functor>RSTR</functor>
-<gram>
-<sempos>v</sempos>
-<verbmod>ind</verbmod>
-<deontmod>decl</deontmod>
-<tense>ant</tense>
-<aspect>proc</aspect>
-<resultative>res0</resultative>
-<dispmod>disp0</dispmod>
-<iterativeness>it0</iterativeness>
-<negation>neg0</negation>
-</gram>
-<deepord>14</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2003-18">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2003-18</lex.rf>
-</a>
-<coref_gram.rf>
-<LM>ml_029.06-SCzechT-m-d1t2003-17</LM>
-</coref_gram.rf>
-<nodetype>complex</nodetype>
-<t_lemma>kde</t_lemma>
-<functor>LOC</functor>
-<gram>
-<sempos>adv.pron.indef</sempos>
-<indeftype>inter</indeftype>
-</gram>
-<deepord>12</deepord>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t2003-21x3">
-<coref_special>exoph</coref_special>
-<nodetype>complex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#PersPron</t_lemma>
-<functor>ACT</functor>
-<gram>
-<sempos>n.pron.def.pers</sempos>
-</gram>
-<deepord>15</deepord>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-ml_029-76-root">
-<atree.rf>a#ml_029.06-SCzechA-ml_029-76-root</atree.rf>
-<deepord>0</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2007-5">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2007-5</lex.rf>
-</a>
-<val_frame.rf>v#v-w243f80_ZU</val_frame.rf>
-<nodetype>complex</nodetype>
-<t_lemma>být</t_lemma>
-<functor>PRED</functor>
-<sentmod>enunc</sentmod>
-<gram>
-<sempos>v</sempos>
-<verbmod>ind</verbmod>
-<deontmod>decl</deontmod>
-<tense>ant</tense>
-<aspect>proc</aspect>
-<resultative>res0</resultative>
-<dispmod>disp0</dispmod>
-<iterativeness>it0</iterativeness>
-<negation>neg0</negation>
-</gram>
-<deepord>3</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2007-3">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2007-3</lex.rf>
-<aux.rf>
-<LM>a#ml_029.06-SCzechA-m-d1t2007-2</LM>
-</aux.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>válka</t_lemma>
-<functor>TPAR</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>fem</gender>
-<number>sg</number>
-<negation>neg0</negation>
-</gram>
-<deepord>1</deepord>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t2007-4">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2007-4</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>tam</t_lemma>
-<functor>LOC</functor>
-<gram>
-<sempos>adv.pron.def</sempos>
-</gram>
-<deepord>2</deepord>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t2003-13</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>lenk</src>
-</LM>
-</coref_text>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t2009-2">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2009-2</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>místnost</t_lemma>
-<functor>ACT</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>fem</gender>
-<number>pl</number>
-<negation>neg0</negation>
-</gram>
-<deepord>5</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2009-1">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2009-1</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>dva</t_lemma>
-<functor>RSTR</functor>
-<gram>
-<sempos>n.quant.def</sempos>
-<gender>nr</gender>
-<number>pl</number>
-<numertype>basic</numertype>
-</gram>
-<deepord>4</deepord>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t2007-6">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2007-6</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>zabraný</t_lemma>
-<functor>PAT</functor>
-<gram>
-<sempos>adj.denot</sempos>
-<degcmp>pos</degcmp>
-<negation>neg0</negation>
-</gram>
-<deepord>6</deepord>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t2009-4">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2009-4</lex.rf>
-<aux.rf>
-<LM>a#ml_029.06-SCzechA-m-d1t2009-3</LM>
-</aux.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>škola</t_lemma>
-<functor>BEN</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>fem</gender>
-<number>sg</number>
-<negation>neg0</negation>
-</gram>
-<deepord>7</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2009-9">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2009-9</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>měšťanský</t_lemma>
-<functor>RSTR</functor>
-<gram>
-<sempos>adj.denot</sempos>
-<degcmp>pos</degcmp>
-<negation>neg0</negation>
-</gram>
-<deepord>8</deepord>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-ml_029-11-root">
-<atree.rf>a#ml_029.06-SCzechA-ml_029-11-root</atree.rf>
-<deepord>0</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2009-19">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2009-19</lex.rf>
-<aux.rf>
-<LM>a#ml_029.06-SCzechA-m-d1t2009-16</LM>
-</aux.rf>
-</a>
-<val_frame.rf>v#v-w1179f1</val_frame.rf>
-<nodetype>complex</nodetype>
-<t_lemma>chodit</t_lemma>
-<functor>PRED</functor>
-<sentmod>enunc</sentmod>
-<gram>
-<sempos>v</sempos>
-<verbmod>ind</verbmod>
-<deontmod>decl</deontmod>
-<tense>ant</tense>
-<aspect>proc</aspect>
-<resultative>res0</resultative>
-<dispmod>disp0</dispmod>
-<iterativeness>it0</iterativeness>
-<negation>neg0</negation>
-</gram>
-<deepord>3</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2009-15">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2009-15</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>#PersPron</t_lemma>
-<functor>ACT</functor>
-<gram>
-<sempos>n.pron.def.pers</sempos>
-<gender>nr</gender>
-<number>sg</number>
-<person>1</person>
-<politeness>basic</politeness>
-</gram>
-<deepord>1</deepord>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-ml_029-d1e1941-x3-roota1</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>coref</src>
-</LM>
-</coref_text>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t2009-17">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2009-17</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>tam</t_lemma>
-<functor>DIR3</functor>
-<gram>
-<sempos>adv.pron.def</sempos>
-</gram>
-<deepord>2</deepord>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t2009-4</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>lenk</src>
-</LM>
-</coref_text>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t2009-18">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2009-18</lex.rf>
-</a>
-<nodetype>atom</nodetype>
-<t_lemma>taky</t_lemma>
-<functor>RHEM</functor>
-<deepord>4</deepord>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t2009-21">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2009-21</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>čas</t_lemma>
-<functor>THL</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>inan</gender>
-<number>sg</number>
-<negation>neg0</negation>
-</gram>
-<deepord>5</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2009-20">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2009-20</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>jeden</t_lemma>
-<functor>RSTR</functor>
-<gram>
-<sempos>n.quant.def</sempos>
-<gender>inan</gender>
-<number>sg</number>
-<numertype>basic</numertype>
-</gram>
-<deepord>6</deepord>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-ml_029-14-root">
-<atree.rf>a#ml_029.06-SCzechA-ml_029-14-root</atree.rf>
-<deepord>0</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2012-7">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2012-7</lex.rf>
-<aux.rf>
-<LM>a#ml_029.06-SCzechA-m-d1t2012-6</LM>
-<LM>a#ml_029.06-SCzechA-m-d1t2012-2</LM>
-</aux.rf>
-</a>
-<val_frame.rf>v#v-w5874f1</val_frame.rf>
-<nodetype>complex</nodetype>
-<t_lemma>říci</t_lemma>
-<functor>PRED</functor>
-<sentmod>enunc</sentmod>
-<gram>
-<sempos>v</sempos>
-<verbmod>cdn</verbmod>
-<deontmod>poss</deontmod>
-<tense>sim</tense>
-<aspect>cpl</aspect>
-<resultative>res0</resultative>
-<dispmod>disp0</dispmod>
-<iterativeness>it0</iterativeness>
-<negation>neg0</negation>
-</gram>
-<deepord>4</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2012-1">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2012-1</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>co</t_lemma>
-<functor>EFF</functor>
-<gram>
-<sempos>n.pron.indef</sempos>
-<gender>neut</gender>
-<number>sg</number>
-<indeftype>inter</indeftype>
-<person>3</person>
-</gram>
-<deepord>1</deepord>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t2012-3">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2012-3</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>#PersPron</t_lemma>
-<functor>ADDR</functor>
-<gram>
-<sempos>n.pron.def.pers</sempos>
-<gender>nr</gender>
-<number>pl</number>
-<person>2</person>
-<politeness>basic</politeness>
-</gram>
-<deepord>2</deepord>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-ml_029-d1e1941-x3-roota2</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>coref</src>
-</LM>
-</coref_text>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t2012-4">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2012-4</lex.rf>
-</a>
-<nodetype>atom</nodetype>
-<t_lemma>tak</t_lemma>
-<functor>MOD</functor>
-<deepord>3</deepord>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t2012-7x3">
-<nodetype>complex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#PersPron</t_lemma>
-<functor>ACT</functor>
-<gram>
-<sempos>n.pron.def.pers</sempos>
-</gram>
-<deepord>5</deepord>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t2009-15</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>coref</src>
-</LM>
-</coref_text>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t2012-5">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2012-5</lex.rf>
-</a>
-<nodetype>atom</nodetype>
-<t_lemma>ještě</t_lemma>
-<functor>RHEM</functor>
-<deepord>6</deepord>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-ml_029-d1e2013-x3-root">
-<atree.rf>a#ml_029.06-SCzechA-ml_029-d1e2013-x3-root</atree.rf>
-<deepord>0</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2022-3">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2022-3</lex.rf>
-<aux.rf>
-<LM>a#ml_029.06-SCzechA-m-d1t2022-2</LM>
-</aux.rf>
-</a>
-<val_frame.rf>v#v-w3574f2</val_frame.rf>
-<nodetype>complex</nodetype>
-<t_lemma>podívat_se</t_lemma>
-<functor>PRED</functor>
-<sentmod>enunc</sentmod>
-<gram>
-<sempos>v</sempos>
-<verbmod>ind</verbmod>
-<deontmod>decl</deontmod>
-<tense>sim</tense>
-<aspect>cpl</aspect>
-<resultative>res0</resultative>
-<dispmod>disp0</dispmod>
-<iterativeness>it0</iterativeness>
-<negation>neg0</negation>
-</gram>
-<deepord>3</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2022-3x3">
-<nodetype>complex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#PersPron</t_lemma>
-<functor>ACT</functor>
-<gram>
-<sempos>n.pron.def.pers</sempos>
-</gram>
-<deepord>1</deepord>
-<bridging>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t2012-7x3</target-node.rf>
-<informal-type>SUB_SET</informal-type>
-<src>coref</src>
-</LM>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t2012-3</target-node.rf>
-<informal-type>SUB_SET</informal-type>
-<src>coref</src>
-</LM>
-</bridging>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t2022-6">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2022-6</lex.rf>
-<aux.rf>
-<LM>a#ml_029.06-SCzechA-m-d1t2022-4</LM>
-</aux.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>fotka</t_lemma>
-<functor>PAT</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>fem</gender>
-<number>sg</number>
-<negation>neg0</negation>
-</gram>
-<deepord>4</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2022-5">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2022-5</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>další</t_lemma>
-<functor>RSTR</functor>
-<gram>
-<sempos>adj.denot</sempos>
-<degcmp>pos</degcmp>
-<negation>neg0</negation>
-</gram>
-<deepord>2</deepord>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-ml_029-20-root">
-<atree.rf>a#ml_029.06-SCzechA-ml_029-20-root</atree.rf>
-<deepord>0</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2020-5">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2020-5</lex.rf>
-</a>
-<nodetype>atom</nodetype>
-<t_lemma>ano</t_lemma>
-<functor>PARTL</functor>
-<sentmod>enunc</sentmod>
-<deepord>1</deepord>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-ml_029-d1e2023-x2-root">
-<atree.rf>a#ml_029.06-SCzechA-ml_029-d1e2023-x2-root</atree.rf>
-<deepord>0</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2026-2">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2026-2</lex.rf>
-</a>
-<val_frame.rf>v#v-w243f2</val_frame.rf>
-<nodetype>complex</nodetype>
-<t_lemma>být</t_lemma>
-<functor>PRED</functor>
-<sentmod>inter</sentmod>
-<gram>
-<sempos>v</sempos>
-<verbmod>ind</verbmod>
-<deontmod>decl</deontmod>
-<tense>sim</tense>
-<aspect>proc</aspect>
-<resultative>res0</resultative>
-<dispmod>disp0</dispmod>
-<iterativeness>it0</iterativeness>
-<negation>neg0</negation>
-</gram>
-<deepord>2</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2026-1">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2026-1</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>kdo</t_lemma>
-<functor>ACT</functor>
-<gram>
-<sempos>n.pron.indef</sempos>
-<gender>anim</gender>
-<number>sg</number>
-<indeftype>inter</indeftype>
-<person>3</person>
-</gram>
-<deepord>1</deepord>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t2026-5">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2026-5</lex.rf>
-<aux.rf>
-<LM>a#ml_029.06-SCzechA-m-d1t2026-3</LM>
-</aux.rf>
-</a>
-<coref_special>exoph</coref_special>
-<nodetype>complex</nodetype>
-<t_lemma>fotka</t_lemma>
-<functor>LOC</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>fem</gender>
-<number>sg</number>
-<negation>neg0</negation>
-</gram>
-<deepord>4</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2026-4">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2026-4</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>tenhle</t_lemma>
-<functor>RSTR</functor>
-<gram>
-<sempos>n.pron.def.demon</sempos>
-<gender>fem</gender>
-<number>sg</number>
-</gram>
-<deepord>3</deepord>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-ml_029-d1e2027-x2-root">
-<atree.rf>a#ml_029.06-SCzechA-ml_029-d1e2027-x2-root</atree.rf>
-<deepord>0</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2032-3">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2032-3</lex.rf>
-</a>
-<val_frame.rf>v#v-w243f2</val_frame.rf>
-<nodetype>complex</nodetype>
-<t_lemma>být</t_lemma>
-<functor>PRED</functor>
-<sentmod>enunc</sentmod>
-<gram>
-<sempos>v</sempos>
-<verbmod>ind</verbmod>
-<deontmod>decl</deontmod>
-<tense>sim</tense>
-<aspect>proc</aspect>
-<resultative>res0</resultative>
-<dispmod>disp0</dispmod>
-<iterativeness>it0</iterativeness>
-<negation>neg0</negation>
-</gram>
-<deepord>3</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2032-2">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2032-2</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>tady</t_lemma>
-<functor>LOC</functor>
-<gram>
-<sempos>adv.pron.def</sempos>
-</gram>
-<deepord>1</deepord>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t2026-5</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>lenk</src>
-</LM>
-</coref_text>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t2032-3x3">
-<nodetype>complex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#PersPron</t_lemma>
-<functor>ACT</functor>
-<gram>
-<sempos>n.pron.def.pers</sempos>
-</gram>
-<deepord>2</deepord>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t2012-7x3</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>coref</src>
-</LM>
-</coref_text>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t2032-5">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2032-5</lex.rf>
-<aux.rf>
-<LM>a#ml_029.06-SCzechA-m-d1t2032-4</LM>
-</aux.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>manželka</t_lemma>
-<functor>ACMP</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>fem</gender>
-<number>sg</number>
-<negation>neg0</negation>
-</gram>
-<deepord>4</deepord>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-ml_029-d1e2033-x2-root">
-<atree.rf>a#ml_029.06-SCzechA-ml_029-d1e2033-x2-root</atree.rf>
-<deepord>0</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2036-5">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2036-5</lex.rf>
-</a>
-<val_frame.rf>v#v-w243f80_ZU</val_frame.rf>
-<nodetype>complex</nodetype>
-<t_lemma>být</t_lemma>
-<functor>PRED</functor>
-<sentmod>inter</sentmod>
-<gram>
-<sempos>v</sempos>
-<verbmod>ind</verbmod>
-<deontmod>decl</deontmod>
-<tense>ant</tense>
-<aspect>proc</aspect>
-<resultative>res0</resultative>
-<dispmod>disp0</dispmod>
-<iterativeness>it0</iterativeness>
-<negation>neg0</negation>
-</gram>
-<deepord>4</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2036-3">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2036-3</lex.rf>
-<aux.rf>
-<LM>a#ml_029.06-SCzechA-m-d1t2036-1</LM>
-</aux.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>příležitost</t_lemma>
-<functor>TWHEN</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>fem</gender>
-<number>sg</number>
-<negation>neg0</negation>
-</gram>
-<deepord>2</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2036-2">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2036-2</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>jaký</t_lemma>
-<functor>RSTR</functor>
-<gram>
-<sempos>n.pron.indef</sempos>
-<gender>fem</gender>
-<number>sg</number>
-<indeftype>inter</indeftype>
-<person>3</person>
-</gram>
-<deepord>1</deepord>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t2036-4">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2036-4</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>ten</t_lemma>
-<functor>ACT</functor>
-<gram>
-<sempos>n.pron.def.demon</sempos>
-<gender>neut</gender>
-<number>sg</number>
-</gram>
-<deepord>3</deepord>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t2032-2</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>coref</src>
-</LM>
-</coref_text>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t2036-6">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2036-6</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>vyfocený</t_lemma>
-<functor>PAT</functor>
-<gram>
-<sempos>adj.denot</sempos>
-<degcmp>pos</degcmp>
-<negation>neg0</negation>
-</gram>
-<deepord>5</deepord>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-ml_029-d1e2039-x2-root">
-<atree.rf>a#ml_029.06-SCzechA-ml_029-d1e2039-x2-root</atree.rf>
-<deepord>0</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-ml_029-d1e2039-x2-roota1">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2036-5</lex.rf>
-</a>
-<val_frame.rf>v#v-w243f80_ZU</val_frame.rf>
-<nodetype>complex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>být</t_lemma>
-<functor>PRED</functor>
-<gram>
-<sempos>v</sempos>
-</gram>
-<deepord>3</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-ml_029-d1e2039-x2-roota2">
-<nodetype>complex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#PersPron</t_lemma>
-<functor>ACT</functor>
-<gram>
-<sempos>n.pron.def.pers</sempos>
-</gram>
-<deepord>1</deepord>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t2036-4</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>coref</src>
-</LM>
-</coref_text>
-</LM>
-<LM id="ml_029.06-SCzechT-ml_029-d1e2039-x2-roota3">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2036-6</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>vyfocený</t_lemma>
-<functor>PAT</functor>
-<gram>
-<sempos>adj.denot</sempos>
-</gram>
-<deepord>2</deepord>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t2042-4">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2042-4</lex.rf>
-<aux.rf>
-<LM>a#ml_029.06-SCzechA-m-d1t2042-3</LM>
-</aux.rf>
-</a>
-<val_frame.rf>v#v-w243f7</val_frame.rf>
-<nodetype>complex</nodetype>
-<t_lemma>být</t_lemma>
-<functor>TWHEN</functor>
-<gram>
-<sempos>v</sempos>
-<verbmod>ind</verbmod>
-<deontmod>decl</deontmod>
-<tense>ant</tense>
-<aspect>proc</aspect>
-<resultative>res0</resultative>
-<dispmod>disp0</dispmod>
-<iterativeness>it0</iterativeness>
-<negation>neg0</negation>
-</gram>
-<deepord>5</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2042-5">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2042-5</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>manželka</t_lemma>
-<functor>ACT</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>fem</gender>
-<number>sg</number>
-<negation>neg0</negation>
-</gram>
-<deepord>4</deepord>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t2032-5</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>lenk</src>
-</LM>
-</coref_text>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t2046-2">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2046-2</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>rok</t_lemma>
-<functor>PAT</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>neut</gender>
-<number>pl</number>
-<negation>neg0</negation>
-</gram>
-<deepord>6</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2044-1">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2044-1</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>65</t_lemma>
-<functor>RSTR</functor>
-<gram>
-<sempos>n.quant.def</sempos>
-<gender>nr</gender>
-<number>nr</number>
-<numertype>basic</numertype>
-</gram>
-<deepord>7</deepord>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-ml_029-d1e2047-x2-root">
-<atree.rf>a#ml_029.06-SCzechA-ml_029-d1e2047-x2-root</atree.rf>
-<deepord>0</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2050-5">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2050-5</lex.rf>
-</a>
-<val_frame.rf>v#v-w243f2</val_frame.rf>
-<nodetype>complex</nodetype>
-<t_lemma>být</t_lemma>
-<functor>PRED</functor>
-<sentmod>inter</sentmod>
-<gram>
-<sempos>v</sempos>
-<verbmod>ind</verbmod>
-<deontmod>decl</deontmod>
-<tense>ant</tense>
-<aspect>proc</aspect>
-<resultative>res0</resultative>
-<dispmod>disp0</dispmod>
-<iterativeness>it0</iterativeness>
-<negation>neg0</negation>
-</gram>
-<deepord>4</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2050-3">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2050-3</lex.rf>
-<aux.rf>
-<LM>a#ml_029.06-SCzechA-m-d1t2050-1</LM>
-</aux.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>rok</t_lemma>
-<functor>TWHEN</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>inan</gender>
-<number>sg</number>
-<negation>neg0</negation>
-</gram>
-<deepord>2</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2050-2">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2050-2</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>který</t_lemma>
-<functor>RSTR</functor>
-<gram>
-<sempos>n.pron.indef</sempos>
-<gender>neut</gender>
-<number>sg</number>
-<indeftype>inter</indeftype>
-<person>3</person>
-</gram>
-<deepord>1</deepord>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t2050-4">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2050-4</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>ten</t_lemma>
-<functor>ACT</functor>
-<gram>
-<sempos>n.pron.def.demon</sempos>
-<gender>neut</gender>
-<number>sg</number>
-</gram>
-<deepord>3</deepord>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t2042-4</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>coref</src>
-</LM>
-</coref_text>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-ml_029-d1e2061-x2-root">
-<atree.rf>a#ml_029.06-SCzechA-ml_029-d1e2061-x2-root</atree.rf>
-<deepord>0</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-ml_029-d1e2061-x2-roota1">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2050-5</lex.rf>
-</a>
-<val_frame.rf>v#v-w243f2</val_frame.rf>
-<nodetype>complex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>být</t_lemma>
-<functor>PRED</functor>
-<gram>
-<sempos>v</sempos>
-</gram>
-<deepord>2</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-ml_029-d1e2061-x2-roota2">
-<nodetype>complex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#PersPron</t_lemma>
-<functor>ACT</functor>
-<gram>
-<sempos>n.pron.def.pers</sempos>
-</gram>
-<deepord>1</deepord>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t2050-4</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>coref</src>
-</LM>
-</coref_text>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t2066-2">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2066-2</lex.rf>
-<aux.rf>
-<LM>a#ml_029.06-SCzechA-m-d1t2066-1</LM>
-</aux.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>rok</t_lemma>
-<functor>TWHEN</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>inan</gender>
-<number>sg</number>
-<negation>neg0</negation>
-</gram>
-<deepord>3</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2066-3">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2066-3</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>1996</t_lemma>
-<functor>ID</functor>
-<gram>
-<sempos>n.quant.def</sempos>
-<gender>nr</gender>
-<number>nr</number>
-<numertype>basic</numertype>
-</gram>
-<deepord>4</deepord>
-</LM>
-</children>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t2050-3</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>lenk</src>
-</LM>
-</coref_text>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-ml_029-d1e2068-x2-root">
-<atree.rf>a#ml_029.06-SCzechA-ml_029-d1e2068-x2-root</atree.rf>
-<deepord>0</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2071-2">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2071-2</lex.rf>
-</a>
-<val_frame.rf>v#v-w4287f1</val_frame.rf>
-<nodetype>complex</nodetype>
-<t_lemma>probíhat</t_lemma>
-<functor>PRED</functor>
-<sentmod>inter</sentmod>
-<gram>
-<sempos>v</sempos>
-<verbmod>ind</verbmod>
-<deontmod>decl</deontmod>
-<tense>ant</tense>
-<aspect>proc</aspect>
-<resultative>res0</resultative>
-<dispmod>disp0</dispmod>
-<iterativeness>it0</iterativeness>
-<negation>neg0</negation>
-</gram>
-<deepord>2</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2071-1">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2071-1</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>kde</t_lemma>
-<functor>LOC</functor>
-<gram>
-<sempos>adv.pron.indef</sempos>
-<indeftype>inter</indeftype>
-</gram>
-<deepord>1</deepord>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t2071-3">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2071-3</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>oslava</t_lemma>
-<functor>ACT</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>fem</gender>
-<number>sg</number>
-<negation>neg0</negation>
-</gram>
-<deepord>3</deepord>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-ml_029-d1e2072-x2-root">
-<atree.rf>a#ml_029.06-SCzechA-ml_029-d1e2072-x2-root</atree.rf>
-<deepord>0</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d-id121730-punct">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d-id121730-punct</lex.rf>
-</a>
-<nodetype>coap</nodetype>
-<t_lemma>#Comma</t_lemma>
-<functor>CONJ</functor>
-<deepord>4</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2077-1">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2077-1</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>ten</t_lemma>
-<functor>ACT</functor>
-<gram>
-<sempos>n.pron.def.demon</sempos>
-<gender>neut</gender>
-<number>sg</number>
-</gram>
-<deepord>1</deepord>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t2071-3</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>coref</src>
-</LM>
-</coref_text>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t2077-2">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2077-2</lex.rf>
-</a>
-<val_frame.rf>v#v-w243f2</val_frame.rf>
-<nodetype>complex</nodetype>
-<t_lemma>být</t_lemma>
-<functor>PRED</functor>
-<is_member>1</is_member>
-<sentmod>enunc</sentmod>
-<gram>
-<sempos>v</sempos>
-<verbmod>ind</verbmod>
-<deontmod>decl</deontmod>
-<tense>ant</tense>
-<aspect>proc</aspect>
-<resultative>res0</resultative>
-<dispmod>disp0</dispmod>
-<iterativeness>it0</iterativeness>
-<negation>neg0</negation>
-</gram>
-<deepord>2</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2077-4">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2077-4</lex.rf>
-<aux.rf>
-<LM>a#ml_029.06-SCzechA-m-d1t2077-3</LM>
-</aux.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>#PersPron</t_lemma>
-<functor>LOC</functor>
-<gram>
-<sempos>n.pron.def.pers</sempos>
-<gender>nr</gender>
-<number>pl</number>
-<person>1</person>
-<politeness>basic</politeness>
-</gram>
-<deepord>3</deepord>
-<bridging>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t2032-3x3</target-node.rf>
-<informal-type>SUB_SET</informal-type>
-<src>coref</src>
-</LM>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t2042-5</target-node.rf>
-<informal-type>SUB_SET</informal-type>
-<src>coref</src>
-</LM>
-</bridging>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-ml_029-d1e2072-x2-roota1">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2077-2</lex.rf>
-</a>
-<val_frame.rf>v#v-w243f2</val_frame.rf>
-<nodetype>complex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>být</t_lemma>
-<functor>PRED</functor>
-<is_member>1</is_member>
-<gram>
-<sempos>v</sempos>
-</gram>
-<deepord>6</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2077-6">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2077-6</lex.rf>
-</a>
-<nodetype>atom</nodetype>
-<t_lemma>přímo</t_lemma>
-<functor>RHEM</functor>
-<deepord>5</deepord>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t2077-8">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2077-8</lex.rf>
-<aux.rf>
-<LM>a#ml_029.06-SCzechA-m-d1t2077-7</LM>
-</aux.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>byt</t_lemma>
-<functor>LOC</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>inan</gender>
-<number>sg</number>
-<negation>neg0</negation>
-</gram>
-<deepord>7</deepord>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t2071-1</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>lenk</src>
-</LM>
-</coref_text>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t2077-17">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2077-17</lex.rf>
-<aux.rf>
-<LM>a#ml_029.06-SCzechA-m-d1t2077-15</LM>
-</aux.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>pokoj</t_lemma>
-<functor>LOC</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>inan</gender>
-<number>sg</number>
-<negation>neg0</negation>
-</gram>
-<deepord>8</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2077-16">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2077-16</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>obývací</t_lemma>
-<functor>RSTR</functor>
-<gram>
-<sempos>adj.denot</sempos>
-<degcmp>pos</degcmp>
-<negation>neg0</negation>
-</gram>
-<deepord>9</deepord>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-ml_029-d1e2078-x2-root">
-<atree.rf>a#ml_029.06-SCzechA-ml_029-d1e2078-x2-root</atree.rf>
-<deepord>0</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2085-4">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2085-4</lex.rf>
-<aux.rf>
-<LM>a#ml_029.06-SCzechA-m-d1t2085-2</LM>
-</aux.rf>
-</a>
-<val_frame.rf>v#v-w1855f2</val_frame.rf>
-<nodetype>complex</nodetype>
-<t_lemma>mít</t_lemma>
-<functor>PRED</functor>
-<sentmod>inter</sentmod>
-<gram>
-<sempos>v</sempos>
-<verbmod>ind</verbmod>
-<deontmod>decl</deontmod>
-<tense>ant</tense>
-<aspect>proc</aspect>
-<resultative>res0</resultative>
-<dispmod>disp0</dispmod>
-<iterativeness>it0</iterativeness>
-<negation>neg0</negation>
-</gram>
-<deepord>3</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2085-3">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2085-3</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>tam</t_lemma>
-<functor>LOC</functor>
-<gram>
-<sempos>adv.pron.def</sempos>
-</gram>
-<deepord>1</deepord>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t2077-1</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>lenk</src>
-</LM>
-</coref_text>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t2085-4x3">
-<nodetype>complex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#PersPron</t_lemma>
-<functor>ACT</functor>
-<gram>
-<sempos>n.pron.def.pers</sempos>
-</gram>
-<deepord>2</deepord>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t2032-3x3</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>coref</src>
-</LM>
-</coref_text>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t2085-5">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2085-5</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>host</t_lemma>
-<functor>PAT</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>anim</gender>
-<number>pl</number>
-<negation>neg0</negation>
-</gram>
-<deepord>4</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2085-1">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2085-1</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>kolik</t_lemma>
-<functor>RSTR</functor>
-<gram>
-<sempos>adj.quant.indef</sempos>
-<indeftype>inter</indeftype>
-<numertype>basic</numertype>
-</gram>
-<deepord>5</deepord>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-ml_029-d1e2086-x2-root">
-<atree.rf>a#ml_029.06-SCzechA-ml_029-d1e2086-x2-root</atree.rf>
-<deepord>0</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-ml_029-d1e2086-x2-roota1">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2085-4</lex.rf>
-</a>
-<val_frame.rf>v#v-w1855f2</val_frame.rf>
-<nodetype>complex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>mít</t_lemma>
-<functor>PRED</functor>
-<gram>
-<sempos>v</sempos>
-</gram>
-<deepord>2</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-ml_029-d1e2086-x2-roota2">
-<nodetype>complex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#PersPron</t_lemma>
-<functor>ACT</functor>
-<gram>
-<sempos>n.pron.def.pers</sempos>
-</gram>
-<deepord>1</deepord>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t2085-4x3</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>coref</src>
-</LM>
-</coref_text>
-</LM>
-<LM id="ml_029.06-SCzechT-ml_029-d1e2086-x2-roota4">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2085-5</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>host</t_lemma>
-<functor>PAT</functor>
-<deepord>3</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2091-10">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2091-10</lex.rf>
-<aux.rf>
-<LM>a#ml_029.06-SCzechA-m-d1t2091-9</LM>
-</aux.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>dvacet</t_lemma>
-<functor>RSTR</functor>
-<gram>
-<sempos>n.quant.def</sempos>
-<gender>nr</gender>
-<number>pl</number>
-<numertype>basic</numertype>
-</gram>
-<deepord>4</deepord>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-ml_029-d1e2092-x2-root">
-<atree.rf>a#ml_029.06-SCzechA-ml_029-d1e2092-x2-root</atree.rf>
-<deepord>0</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2095-4">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2095-4</lex.rf>
-<aux.rf>
-<LM>a#ml_029.06-SCzechA-m-d1t2095-3</LM>
-</aux.rf>
-</a>
-<val_frame.rf>v#v-w243f6</val_frame.rf>
-<nodetype>complex</nodetype>
-<t_lemma>být</t_lemma>
-<functor>PRED</functor>
-<sentmod>enunc</sentmod>
-<gram>
-<sempos>v</sempos>
-<verbmod>ind</verbmod>
-<deontmod>deb</deontmod>
-<tense>ant</tense>
-<aspect>proc</aspect>
-<resultative>res0</resultative>
-<dispmod>disp0</dispmod>
-<iterativeness>it0</iterativeness>
-<negation>neg0</negation>
-</gram>
-<deepord>2</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2095-2">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2095-2</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>tam</t_lemma>
-<functor>LOC</functor>
-<gram>
-<sempos>adv.pron.def</sempos>
-</gram>
-<deepord>1</deepord>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t2085-3</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>lenk</src>
-</LM>
-</coref_text>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t2095-5">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2095-5</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>veselo</t_lemma>
-<functor>MANN</functor>
-<gram>
-<sempos>adv.denot.grad.neg</sempos>
-<degcmp>pos</degcmp>
-<negation>neg0</negation>
-</gram>
-<deepord>3</deepord>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-ml_029-d1e2098-x2-root">
-<atree.rf>a#ml_029.06-SCzechA-ml_029-d1e2098-x2-root</atree.rf>
-<deepord>0</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-ml_029-d1e2098-x2-roota1">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d-id122492-punct</lex.rf>
-</a>
-<nodetype>coap</nodetype>
-<t_lemma>#Comma</t_lemma>
-<functor>CONJ</functor>
-<deepord>3</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2101-3">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2101-3</lex.rf>
-</a>
-<val_frame.rf>v#v-w243f6</val_frame.rf>
-<nodetype>complex</nodetype>
-<t_lemma>být</t_lemma>
-<functor>PRED</functor>
-<is_member>1</is_member>
-<sentmod>enunc</sentmod>
-<gram>
-<sempos>v</sempos>
-<verbmod>ind</verbmod>
-<deontmod>decl</deontmod>
-<tense>ant</tense>
-<aspect>proc</aspect>
-<resultative>res0</resultative>
-<dispmod>disp0</dispmod>
-<iterativeness>it0</iterativeness>
-<negation>neg0</negation>
-</gram>
-<deepord>1</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2101-4">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2101-4</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>veselo</t_lemma>
-<functor>MANN</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>neut</gender>
-<number>sg</number>
-<negation>neg0</negation>
-</gram>
-<deepord>2</deepord>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t2101-7">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2101-7</lex.rf>
-</a>
-<val_frame.rf>v#v-w243f6</val_frame.rf>
-<nodetype>complex</nodetype>
-<t_lemma>být</t_lemma>
-<functor>PRED</functor>
-<is_member>1</is_member>
-<gram>
-<sempos>v</sempos>
-<verbmod>ind</verbmod>
-<deontmod>decl</deontmod>
-<tense>ant</tense>
-<aspect>proc</aspect>
-<resultative>res0</resultative>
-<dispmod>disp0</dispmod>
-<iterativeness>it0</iterativeness>
-<negation>neg0</negation>
-</gram>
-<deepord>5</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2101-6">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2101-6</lex.rf>
-</a>
-<nodetype>atom</nodetype>
-<t_lemma>ten</t_lemma>
-<functor>INTF</functor>
-<deepord>4</deepord>
-</LM>
-<LM id="ml_029.06-SCzechT-ml_029-d1e2098-x2-roota2">
-<nodetype>qcomplex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#Oblfm</t_lemma>
-<functor>MANN</functor>
-<deepord>6</deepord>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-ml_029-d1e2102-x2-root">
-<atree.rf>a#ml_029.06-SCzechA-ml_029-d1e2102-x2-root</atree.rf>
-<deepord>0</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2105-2">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2105-2</lex.rf>
-</a>
-<val_frame.rf>v#v-w732f1</val_frame.rf>
-<nodetype>complex</nodetype>
-<t_lemma>dostat</t_lemma>
-<functor>PRED</functor>
-<sentmod>inter</sentmod>
-<gram>
-<sempos>v</sempos>
-<verbmod>ind</verbmod>
-<deontmod>decl</deontmod>
-<tense>ant</tense>
-<aspect>cpl</aspect>
-<resultative>res0</resultative>
-<dispmod>disp0</dispmod>
-<iterativeness>it0</iterativeness>
-<negation>neg0</negation>
-</gram>
-<deepord>2</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2105-2x3">
-<nodetype>complex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#PersPron</t_lemma>
-<functor>ACT</functor>
-<gram>
-<sempos>n.pron.def.pers</sempos>
-</gram>
-<deepord>1</deepord>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t2042-5</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>coref</src>
-</LM>
-</coref_text>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t2105-4">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2105-4</lex.rf>
-<aux.rf>
-<LM>a#ml_029.06-SCzechA-m-d1t2105-3</LM>
-</aux.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>dárek</t_lemma>
-<functor>PAT</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>inan</gender>
-<number>pl</number>
-<negation>neg0</negation>
-</gram>
-<deepord>3</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2105-1">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2105-1</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>co</t_lemma>
-<functor>RSTR</functor>
-<gram>
-<sempos>n.pron.indef</sempos>
-<gender>neut</gender>
-<number>sg</number>
-<indeftype>inter</indeftype>
-<person>3</person>
-</gram>
-<deepord>4</deepord>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-ml_029-d1e2106-x2-root">
-<atree.rf>a#ml_029.06-SCzechA-ml_029-d1e2106-x2-root</atree.rf>
-<deepord>0</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-ml_029-d1e2106-x2-roota1">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d-id122779-punct</lex.rf>
-</a>
-<nodetype>coap</nodetype>
-<t_lemma>#Comma</t_lemma>
-<functor>CONJ</functor>
-<deepord>5</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2109-2x3">
-<nodetype>complex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#PersPron</t_lemma>
-<functor>ACT</functor>
-<gram>
-<sempos>n.pron.def.pers</sempos>
-</gram>
-<deepord>1</deepord>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t2105-2x3</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>coref</src>
-</LM>
-</coref_text>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t2109-2">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2109-2</lex.rf>
-</a>
-<val_frame.rf>v#v-w732f1</val_frame.rf>
-<nodetype>complex</nodetype>
-<t_lemma>dostat</t_lemma>
-<functor>PRED</functor>
-<is_member>1</is_member>
-<sentmod>enunc</sentmod>
-<gram>
-<sempos>v</sempos>
-<verbmod>ind</verbmod>
-<deontmod>decl</deontmod>
-<tense>ant</tense>
-<aspect>cpl</aspect>
-<resultative>res0</resultative>
-<dispmod>disp0</dispmod>
-<iterativeness>it0</iterativeness>
-<negation>neg0</negation>
-</gram>
-<deepord>2</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2109-3">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2109-3</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>ten</t_lemma>
-<functor>PAT</functor>
-<gram>
-<sempos>n.pron.def.demon</sempos>
-<gender>nr</gender>
-<number>sg</number>
-</gram>
-<deepord>3</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2109-4">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2109-4</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>mnoho</t_lemma>
-<functor>RSTR</functor>
-<gram>
-<sempos>adj.quant.grad</sempos>
-<degcmp>pos</degcmp>
-<numertype>basic</numertype>
-</gram>
-<deepord>4</deepord>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-ml_029-d1e2106-x2-roota2">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2109-2</lex.rf>
-</a>
-<val_frame.rf>v#v-w732f1</val_frame.rf>
-<nodetype>complex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>dostat</t_lemma>
-<functor>PRED</functor>
-<is_member>1</is_member>
-<gram>
-<sempos>v</sempos>
-</gram>
-<deepord>6</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-ml_029-d1e2106-x2-roota3">
-<nodetype>complex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#PersPron</t_lemma>
-<functor>PAT</functor>
-<gram>
-<sempos>n.pron.def.pers</sempos>
-</gram>
-<deepord>7</deepord>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t2109-3</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>coref</src>
-</LM>
-</coref_text>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t2109-10">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2109-10</lex.rf>
-<aux.rf>
-<LM>a#ml_029.06-SCzechA-m-d1t2109-6</LM>
-</aux.rf>
-</a>
-<nodetype>coap</nodetype>
-<t_lemma>jak_tak</t_lemma>
-<functor>CONJ</functor>
-<deepord>9</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2109-8">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2109-8</lex.rf>
-<aux.rf>
-<LM>a#ml_029.06-SCzechA-m-d1t2109-7</LM>
-</aux.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>dítě</t_lemma>
-<functor>ORIG</functor>
-<is_member>1</is_member>
-<gram>
-<sempos>n.denot</sempos>
-<gender>fem</gender>
-<number>pl</number>
-<negation>neg0</negation>
-</gram>
-<deepord>8</deepord>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t2109-12">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2109-12</lex.rf>
-<aux.rf>
-<LM>a#ml_029.06-SCzechA-m-d1t2109-11</LM>
-</aux.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>#PersPron</t_lemma>
-<functor>ORIG</functor>
-<is_member>1</is_member>
-<gram>
-<sempos>n.pron.def.pers</sempos>
-<gender>nr</gender>
-<number>sg</number>
-<person>1</person>
-<politeness>basic</politeness>
-</gram>
-<deepord>10</deepord>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-ml_029-d1e2086-x2-roota2</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>coref</src>
-</LM>
-</coref_text>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-ml_029-42-root">
-<atree.rf>a#ml_029.06-SCzechA-ml_029-42-root</atree.rf>
-<deepord>0</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2113-2">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2113-2</lex.rf>
-</a>
-<val_frame.rf>v#v-w7612f1</val_frame.rf>
-<nodetype>complex</nodetype>
-<t_lemma>vidět</t_lemma>
-<functor>PRED</functor>
-<sentmod>enunc</sentmod>
-<gram>
-<sempos>v</sempos>
-<verbmod>ind</verbmod>
-<deontmod>decl</deontmod>
-<tense>sim</tense>
-<aspect>proc</aspect>
-<resultative>res0</resultative>
-<dispmod>disp0</dispmod>
-<iterativeness>it0</iterativeness>
-<negation>neg0</negation>
-</gram>
-<deepord>3</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2113-1">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2113-1</lex.rf>
-</a>
-<coref_special>exoph</coref_special>
-<nodetype>complex</nodetype>
-<t_lemma>tady</t_lemma>
-<functor>LOC</functor>
-<gram>
-<sempos>adv.pron.def</sempos>
-</gram>
-<deepord>1</deepord>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t2113-2x3">
-<nodetype>complex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#PersPron</t_lemma>
-<functor>ACT</functor>
-<gram>
-<sempos>n.pron.def.pers</sempos>
-</gram>
-<deepord>2</deepord>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t2012-3</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>coref</src>
-</LM>
-</coref_text>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t2113-4">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2113-4</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>65</t_lemma>
-<functor>PAT</functor>
-<gram>
-<sempos>n.quant.def</sempos>
-<gender>nr</gender>
-<number>pl</number>
-<numertype>basic</numertype>
-</gram>
-<deepord>4</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2113-3">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2113-3</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>ten</t_lemma>
-<functor>RSTR</functor>
-<gram>
-<sempos>n.pron.def.demon</sempos>
-<gender>nr</gender>
-<number>pl</number>
-</gram>
-<deepord>5</deepord>
-</LM>
-</children>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t2046-2</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>lenk</src>
-</LM>
-</coref_text>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t2113-17">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2113-17</lex.rf>
-<aux.rf>
-<LM>a#ml_029.06-SCzechA-m-d1t2113-14</LM>
-<LM>a#ml_029.06-SCzechA-m-d1t2113-13</LM>
-</aux.rf>
-</a>
-<compl.rf>
-<LM>ml_029.06-SCzechT-m-d1t2113-4</LM>
-</compl.rf>
-<val_frame.rf>v#v-w2163f4</val_frame.rf>
-<nodetype>complex</nodetype>
-<t_lemma>napsat</t_lemma>
-<functor>COMPL</functor>
-<gram>
-<sempos>v</sempos>
-<verbmod>ind</verbmod>
-<deontmod>decl</deontmod>
-<tense>sim</tense>
-<aspect>cpl</aspect>
-<resultative>res0</resultative>
-<dispmod>disp0</dispmod>
-<iterativeness>it0</iterativeness>
-<negation>neg0</negation>
-</gram>
-<deepord>7</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2113-17x3">
-<coref_special>exoph</coref_special>
-<nodetype>complex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#PersPron</t_lemma>
-<functor>ACT</functor>
-<gram>
-<sempos>n.pron.def.pers</sempos>
-</gram>
-<deepord>6</deepord>
-</LM>
-<LM id="ml_029.06-SCzechT-ml_029-42-roota1">
-<coref_gram.rf>
-<LM>ml_029.06-SCzechT-m-d1t2113-4</LM>
-</coref_gram.rf>
-<nodetype>qcomplex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#Cor</t_lemma>
-<functor>PAT</functor>
-<deepord>8</deepord>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t2113-11">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2113-11</lex.rf>
-<aux.rf>
-<LM>a#ml_029.06-SCzechA-m-d1t2113-9</LM>
-</aux.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>dort</t_lemma>
-<functor>LOC</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>inan</gender>
-<number>pl</number>
-<negation>neg0</negation>
-</gram>
-<deepord>9</deepord>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-ml_029-d1e2116-x3-root">
-<atree.rf>a#ml_029.06-SCzechA-ml_029-d1e2116-x3-root</atree.rf>
-<deepord>0</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2125-3">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2125-3</lex.rf>
-</a>
-<val_frame.rf>v#v-w243f80_ZU</val_frame.rf>
-<nodetype>complex</nodetype>
-<t_lemma>být</t_lemma>
-<functor>PRED</functor>
-<sentmod>enunc</sentmod>
-<gram>
-<sempos>v</sempos>
-<verbmod>ind</verbmod>
-<deontmod>decl</deontmod>
-<tense>sim</tense>
-<aspect>proc</aspect>
-<resultative>res0</resultative>
-<dispmod>disp0</dispmod>
-<iterativeness>it0</iterativeness>
-<negation>neg0</negation>
-</gram>
-<deepord>2</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2125-4">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2125-4</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>ten</t_lemma>
-<functor>ACT</functor>
-<gram>
-<sempos>n.pron.def.demon</sempos>
-<gender>neut</gender>
-<number>sg</number>
-</gram>
-<deepord>1</deepord>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-ml_029-d1e2061-x2-roota2</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>coref</src>
-</LM>
-</coref_text>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t2125-5">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2125-5</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>výročí</t_lemma>
-<functor>PAT</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>neut</gender>
-<number>sg</number>
-<negation>neg0</negation>
-</gram>
-<deepord>3</deepord>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-ml_029-d1e2126-x2-root">
-<atree.rf>a#ml_029.06-SCzechA-ml_029-d1e2126-x2-root</atree.rf>
-<deepord>0</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2129-3">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2129-3</lex.rf>
-</a>
-<val_frame.rf>v#v-w1855f157_ZU</val_frame.rf>
-<nodetype>complex</nodetype>
-<t_lemma>mít</t_lemma>
-<functor>PRED</functor>
-<sentmod>inter</sentmod>
-<gram>
-<sempos>v</sempos>
-<verbmod>ind</verbmod>
-<deontmod>decl</deontmod>
-<tense>ant</tense>
-<aspect>proc</aspect>
-<resultative>res0</resultative>
-<dispmod>disp0</dispmod>
-<iterativeness>it0</iterativeness>
-<negation>neg0</negation>
-</gram>
-<deepord>3</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2129-3x3">
-<nodetype>complex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#PersPron</t_lemma>
-<functor>ACT</functor>
-<gram>
-<sempos>n.pron.def.pers</sempos>
-</gram>
-<deepord>2</deepord>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t2109-2x3</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>coref</src>
-</LM>
-</coref_text>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t2129-5">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2129-5</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>radost</t_lemma>
-<functor>CPHR</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>fem</gender>
-<number>sg</number>
-<negation>neg0</negation>
-</gram>
-<deepord>5</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2129-2">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2129-2</lex.rf>
-<aux.rf>
-<LM>a#ml_029.06-SCzechA-m-d1t2129-1</LM>
-</aux.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>co</t_lemma>
-<functor>RSTR</functor>
-<gram>
-<sempos>n.pron.indef</sempos>
-<gender>neut</gender>
-<number>sg</number>
-<indeftype>inter</indeftype>
-<person>3</person>
-</gram>
-<deepord>1</deepord>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t2129-4">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2129-4</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>velký</t_lemma>
-<functor>RSTR</functor>
-<gram>
-<sempos>adj.denot</sempos>
-<degcmp>sup</degcmp>
-<negation>neg0</negation>
-</gram>
-<deepord>4</deepord>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-ml_029-d1e2130-x2-root">
-<atree.rf>a#ml_029.06-SCzechA-ml_029-d1e2130-x2-root</atree.rf>
-<deepord>0</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2137-1">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2137-1</lex.rf>
-</a>
-<val_frame.rf>v#v-w1855f157_ZU</val_frame.rf>
-<nodetype>complex</nodetype>
-<t_lemma>mít</t_lemma>
-<functor>PRED</functor>
-<sentmod>enunc</sentmod>
-<gram>
-<sempos>v</sempos>
-<verbmod>ind</verbmod>
-<deontmod>decl</deontmod>
-<tense>ant</tense>
-<aspect>proc</aspect>
-<resultative>res0</resultative>
-<dispmod>disp0</dispmod>
-<iterativeness>it0</iterativeness>
-<negation>neg0</negation>
-</gram>
-<deepord>3</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2135-5">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2135-5</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>radost</t_lemma>
-<functor>CPHR</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>fem</gender>
-<number>sg</number>
-<negation>neg0</negation>
-</gram>
-<deepord>2</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2135-4">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2135-4</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>velký</t_lemma>
-<functor>RSTR</functor>
-<gram>
-<sempos>adj.denot</sempos>
-<degcmp>sup</degcmp>
-<negation>neg0</negation>
-</gram>
-<deepord>1</deepord>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t2137-5">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2137-5</lex.rf>
-</a>
-<nodetype>coap</nodetype>
-<t_lemma>a</t_lemma>
-<functor>CONJ</functor>
-<deepord>7</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2137-3">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2137-3</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>#PersPron</t_lemma>
-<functor>RSTR</functor>
-<gram>
-<sempos>n.pron.def.pers</sempos>
-<gender>nr</gender>
-<number>pl</number>
-<person>1</person>
-<politeness>basic</politeness>
-</gram>
-<deepord>5</deepord>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t2077-4</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>lenk</src>
-</LM>
-</coref_text>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t2137-4">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2137-4</lex.rf>
-<aux.rf>
-<LM>a#ml_029.06-SCzechA-m-d1t2137-2</LM>
-</aux.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>dítě</t_lemma>
-<functor>RSTR</functor>
-<is_member>1</is_member>
-<gram>
-<sempos>n.denot</sempos>
-<gender>fem</gender>
-<number>pl</number>
-<negation>neg0</negation>
-</gram>
-<deepord>6</deepord>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t2109-8</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>lenk</src>
-</LM>
-</coref_text>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t2137-6">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2137-6</lex.rf>
-<aux.rf>
-<LM>a#ml_029.06-SCzechA-m-d1t2137-2</LM>
-</aux.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>vnouče</t_lemma>
-<functor>RSTR</functor>
-<is_member>1</is_member>
-<gram>
-<sempos>n.denot</sempos>
-<gender>neut</gender>
-<number>pl</number>
-<negation>neg0</negation>
-</gram>
-<deepord>8</deepord>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t2137-1x3">
-<nodetype>complex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#PersPron</t_lemma>
-<functor>ACT</functor>
-<gram>
-<sempos>n.pron.def.pers</sempos>
-</gram>
-<deepord>4</deepord>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t2129-3x3</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>coref</src>
-</LM>
-</coref_text>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t2137-9">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2137-9</lex.rf>
-<aux.rf>
-<LM>a#ml_029.06-SCzechA-m-d1t2137-8</LM>
-</aux.rf>
-</a>
-<val_frame.rf>v#v-w243f80_ZU</val_frame.rf>
-<nodetype>complex</nodetype>
-<t_lemma>být</t_lemma>
-<functor>CAUS</functor>
-<gram>
-<sempos>v</sempos>
-<verbmod>ind</verbmod>
-<deontmod>decl</deontmod>
-<tense>ant</tense>
-<aspect>proc</aspect>
-<resultative>res0</resultative>
-<dispmod>disp0</dispmod>
-<iterativeness>it0</iterativeness>
-<negation>neg0</negation>
-</gram>
-<deepord>10</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2137-9x3">
-<nodetype>complex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#PersPron</t_lemma>
-<functor>ACT</functor>
-<gram>
-<sempos>n.pron.def.pers</sempos>
-</gram>
-<deepord>9</deepord>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t2137-5</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>coref</src>
-</LM>
-</coref_text>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t2137-10">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2137-10</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>zdravý</t_lemma>
-<functor>PAT</functor>
-<gram>
-<sempos>adj.denot</sempos>
-<degcmp>pos</degcmp>
-<negation>neg0</negation>
-</gram>
-<deepord>11</deepord>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-ml_029-48-root">
-<atree.rf>a#ml_029.06-SCzechA-ml_029-48-root</atree.rf>
-<deepord>0</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2137-14">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2137-14</lex.rf>
-</a>
-<val_frame.rf>v#v-w1855f157_ZU</val_frame.rf>
-<nodetype>complex</nodetype>
-<t_lemma>mít</t_lemma>
-<functor>PRED</functor>
-<sentmod>enunc</sentmod>
-<gram>
-<sempos>v</sempos>
-<verbmod>ind</verbmod>
-<deontmod>decl</deontmod>
-<tense>ant</tense>
-<aspect>proc</aspect>
-<resultative>res0</resultative>
-<dispmod>disp0</dispmod>
-<iterativeness>it0</iterativeness>
-<negation>neg0</negation>
-</gram>
-<deepord>2</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2137-14x3">
-<nodetype>complex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#PersPron</t_lemma>
-<functor>ACT</functor>
-<gram>
-<sempos>n.pron.def.pers</sempos>
-</gram>
-<deepord>1</deepord>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t2137-1x3</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>coref</src>
-</LM>
-</coref_text>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t2137-16">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2137-16</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>radost</t_lemma>
-<functor>CPHR</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>fem</gender>
-<number>sg</number>
-<negation>neg0</negation>
-</gram>
-<deepord>4</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2137-15">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2137-15</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>velký</t_lemma>
-<functor>RSTR</functor>
-<gram>
-<sempos>adj.denot</sempos>
-<degcmp>sup</degcmp>
-<negation>neg0</negation>
-</gram>
-<deepord>3</deepord>
-</LM>
-<LM id="ml_029.06-SCzechT-ml_029-48-roota1">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-48-55</lex.rf>
-</a>
-<nodetype>coap</nodetype>
-<t_lemma>#Comma</t_lemma>
-<functor>APPS</functor>
-<deepord>8</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2137-22">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2137-22</lex.rf>
-<aux.rf>
-<LM>a#ml_029.06-SCzechA-m-d1t2137-19</LM>
-<LM>a#ml_029.06-SCzechA-m-d1t2137-12</LM>
-<LM>a#ml_029.06-SCzechA-m-d1t2137-13</LM>
-</aux.rf>
-</a>
-<val_frame.rf>v#v-w5158f1</val_frame.rf>
-<nodetype>complex</nodetype>
-<t_lemma>přijít</t_lemma>
-<functor>RSTR</functor>
-<is_member>1</is_member>
-<gram>
-<sempos>v</sempos>
-<verbmod>ind</verbmod>
-<deontmod>decl</deontmod>
-<tense>ant</tense>
-<aspect>cpl</aspect>
-<resultative>res0</resultative>
-<dispmod>disp0</dispmod>
-<iterativeness>it0</iterativeness>
-<negation>neg0</negation>
-</gram>
-<deepord>6</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2137-20">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2137-20</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>tam</t_lemma>
-<functor>DIR3</functor>
-<gram>
-<sempos>adv.pron.def</sempos>
-</gram>
-<deepord>5</deepord>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t2095-2</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>lenk</src>
-</LM>
-</coref_text>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t2137-21">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2137-21</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>všechen</t_lemma>
-<functor>ACT</functor>
-<gram>
-<sempos>n.pron.indef</sempos>
-<gender>anim</gender>
-<number>pl</number>
-<indeftype>total1</indeftype>
-<person>3</person>
-</gram>
-<deepord>7</deepord>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t2137-9x3</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>lenk</src>
-</LM>
-</coref_text>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t2144-2">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2144-2</lex.rf>
-<aux.rf>
-<LM>a#ml_029.06-SCzechA-m-d1t2144-1</LM>
-</aux.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>návštěva</t_lemma>
-<functor>RSTR</functor>
-<is_member>1</is_member>
-<gram>
-<sempos>n.denot</sempos>
-<gender>fem</gender>
-<number>sg</number>
-<negation>neg0</negation>
-</gram>
-<deepord>9</deepord>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-ml_029-d1e2139-x3-root">
-<atree.rf>a#ml_029.06-SCzechA-ml_029-d1e2139-x3-root</atree.rf>
-<deepord>0</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2146-1">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2146-1</lex.rf>
-<aux.rf>
-<LM>a#ml_029.06-SCzechA-m-d1t2146-2</LM>
-</aux.rf>
-</a>
-<val_frame.rf>v#v-w5953f1</val_frame.rf>
-<nodetype>complex</nodetype>
-<t_lemma>sejít_se</t_lemma>
-<functor>PRED</functor>
-<sentmod>inter</sentmod>
-<gram>
-<sempos>v</sempos>
-<verbmod>ind</verbmod>
-<deontmod>decl</deontmod>
-<tense>ant</tense>
-<aspect>cpl</aspect>
-<resultative>res0</resultative>
-<dispmod>disp0</dispmod>
-<iterativeness>it0</iterativeness>
-<negation>neg0</negation>
-</gram>
-<deepord>1</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-ml_029-d1e2139-x3-roota1">
-<coref_gram.rf>
-<LM>ml_029.06-SCzechT-m-d1t2146-4</LM>
-</coref_gram.rf>
-<nodetype>qcomplex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#Rcp</t_lemma>
-<functor>PAT</functor>
-<deepord>2</deepord>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t2146-4">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2146-4</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>rodina</t_lemma>
-<functor>ACT</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>fem</gender>
-<number>sg</number>
-<negation>neg0</negation>
-</gram>
-<deepord>4</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2146-3">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2146-3</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>celý</t_lemma>
-<functor>RSTR</functor>
-<gram>
-<sempos>adj.denot</sempos>
-<degcmp>pos</degcmp>
-<negation>neg0</negation>
-</gram>
-<deepord>3</deepord>
-</LM>
-</children>
-<bridging>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t2137-21</target-node.rf>
-<informal-type>SUB_SET</informal-type>
-<src>lenk</src>
-</LM>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t2137-3</target-node.rf>
-<informal-type>SUB_SET</informal-type>
-<src>lenk</src>
-</LM>
-</bridging>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-ml_029-d1e2147-x2-root">
-<atree.rf>a#ml_029.06-SCzechA-ml_029-d1e2147-x2-root</atree.rf>
-<deepord>0</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2150-4">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2150-4</lex.rf>
-<aux.rf>
-<LM>a#ml_029.06-SCzechA-m-d1t2150-2</LM>
-<LM>a#ml_029.06-SCzechA-m-d1t2150-3</LM>
-</aux.rf>
-</a>
-<val_frame.rf>v#v-w5953f1</val_frame.rf>
-<nodetype>complex</nodetype>
-<t_lemma>sejít_se</t_lemma>
-<functor>PRED</functor>
-<sentmod>enunc</sentmod>
-<gram>
-<sempos>v</sempos>
-<verbmod>ind</verbmod>
-<deontmod>decl</deontmod>
-<tense>ant</tense>
-<aspect>cpl</aspect>
-<resultative>res0</resultative>
-<dispmod>disp0</dispmod>
-<iterativeness>it0</iterativeness>
-<negation>neg0</negation>
-</gram>
-<deepord>3</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2150-6">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2150-6</lex.rf>
-</a>
-<nodetype>atom</nodetype>
-<t_lemma>ano</t_lemma>
-<functor>PARTL</functor>
-<deepord>1</deepord>
-</LM>
-<LM id="ml_029.06-SCzechT-ml_029-d1e2147-x2-roota1">
-<coref_gram.rf>
-<LM>ml_029.06-SCzechT-ml_029-d1e2147-x2-roota2</LM>
-</coref_gram.rf>
-<nodetype>qcomplex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#Rcp</t_lemma>
-<functor>PAT</functor>
-<deepord>2</deepord>
-</LM>
-<LM id="ml_029.06-SCzechT-ml_029-d1e2147-x2-roota2">
-<nodetype>complex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#PersPron</t_lemma>
-<functor>ACT</functor>
-<gram>
-<sempos>n.pron.def.pers</sempos>
-</gram>
-<deepord>4</deepord>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t2146-4</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>lenk</src>
-</LM>
-</coref_text>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t2150-1">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2150-1</lex.rf>
-</a>
-<compl.rf>
-<LM>ml_029.06-SCzechT-ml_029-d1e2147-x2-roota2</LM>
-</compl.rf>
-<nodetype>complex</nodetype>
-<t_lemma>všechen</t_lemma>
-<functor>COMPL</functor>
-<gram>
-<sempos>n.pron.indef</sempos>
-<gender>anim</gender>
-<number>pl</number>
-<indeftype>total1</indeftype>
-<person>3</person>
-</gram>
-<deepord>5</deepord>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-ml_029-d1e2153-x2-root">
-<atree.rf>a#ml_029.06-SCzechA-ml_029-d1e2153-x2-root</atree.rf>
-<deepord>0</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2156-2">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2156-2</lex.rf>
-</a>
-<val_frame.rf>v#v-w243f80_ZU</val_frame.rf>
-<nodetype>complex</nodetype>
-<t_lemma>být</t_lemma>
-<functor>PRED</functor>
-<sentmod>enunc</sentmod>
-<gram>
-<sempos>v</sempos>
-<verbmod>ind</verbmod>
-<deontmod>decl</deontmod>
-<tense>sim</tense>
-<aspect>proc</aspect>
-<resultative>res0</resultative>
-<dispmod>disp0</dispmod>
-<iterativeness>it0</iterativeness>
-<negation>neg0</negation>
-</gram>
-<deepord>2</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2156-1">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2156-1</lex.rf>
-</a>
-<coref_special>segm</coref_special>
-<nodetype>complex</nodetype>
-<t_lemma>ten</t_lemma>
-<functor>ACT</functor>
-<gram>
-<sempos>n.pron.def.demon</sempos>
-<gender>neut</gender>
-<number>sg</number>
-</gram>
-<deepord>1</deepord>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t2156-3">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2156-3</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>pěkný</t_lemma>
-<functor>PAT</functor>
-<gram>
-<sempos>adj.denot</sempos>
-<degcmp>pos</degcmp>
-<negation>neg0</negation>
-</gram>
-<deepord>3</deepord>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-ml_029-d1e2157-x2-root">
-<atree.rf>a#ml_029.06-SCzechA-ml_029-d1e2157-x2-root</atree.rf>
-<deepord>0</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-ml_029-d1e2157-x2-roota1">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2160-17</lex.rf>
-</a>
-<nodetype>coap</nodetype>
-<t_lemma>takže</t_lemma>
-<functor>CSQ</functor>
-<deepord>10</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2160-10">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2160-10</lex.rf>
-</a>
-<nodetype>coap</nodetype>
-<t_lemma>a</t_lemma>
-<functor>CONJ</functor>
-<is_member>1</is_member>
-<deepord>8</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2160-5">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2160-5</lex.rf>
-<aux.rf>
-<LM>a#ml_029.06-SCzechA-m-d1t2160-4</LM>
-</aux.rf>
-</a>
-<val_frame.rf>v#v-w1855f3</val_frame.rf>
-<nodetype>complex</nodetype>
-<t_lemma>mít</t_lemma>
-<functor>PRED</functor>
-<is_member>1</is_member>
-<sentmod>enunc</sentmod>
-<gram>
-<sempos>v</sempos>
-<verbmod>ind</verbmod>
-<deontmod>decl</deontmod>
-<tense>ant</tense>
-<aspect>proc</aspect>
-<resultative>res0</resultative>
-<dispmod>disp0</dispmod>
-<iterativeness>it0</iterativeness>
-<negation>neg0</negation>
-</gram>
-<deepord>4</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2160-3">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2160-3</lex.rf>
-<aux.rf>
-<LM>a#ml_029.06-SCzechA-m-d1t2160-1</LM>
-</aux.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>doba</t_lemma>
-<functor>TWHEN</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>fem</gender>
-<number>sg</number>
-<negation>neg0</negation>
-</gram>
-<deepord>2</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2160-2">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2160-2</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>ten</t_lemma>
-<functor>RSTR</functor>
-<gram>
-<sempos>n.pron.def.demon</sempos>
-<gender>fem</gender>
-<number>sg</number>
-</gram>
-<deepord>1</deepord>
-</LM>
-</children>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t2066-2</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>lenk</src>
-</LM>
-</coref_text>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t2160-5x3">
-<nodetype>complex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#PersPron</t_lemma>
-<functor>ACT</functor>
-<gram>
-<sempos>n.pron.def.pers</sempos>
-</gram>
-<deepord>3</deepord>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t2137-3</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>coref</src>
-</LM>
-</coref_text>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t2160-8">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2160-8</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>vnouče</t_lemma>
-<functor>PAT</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>neut</gender>
-<number>pl</number>
-<negation>neg0</negation>
-</gram>
-<deepord>6</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2160-6">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2160-6</lex.rf>
-</a>
-<nodetype>atom</nodetype>
-<t_lemma>už</t_lemma>
-<functor>RHEM</functor>
-<deepord>5</deepord>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t2160-7">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2160-7</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>osm</t_lemma>
-<functor>RSTR</functor>
-<gram>
-<sempos>n.quant.def</sempos>
-<gender>nr</gender>
-<number>pl</number>
-<numertype>basic</numertype>
-</gram>
-<deepord>7</deepord>
-</LM>
-</children>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t2137-6</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>lenk</src>
-</LM>
-</coref_text>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t2160-13">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2160-13</lex.rf>
-</a>
-<val_frame.rf>v#v-w5092f1</val_frame.rf>
-<nodetype>complex</nodetype>
-<t_lemma>přibýt</t_lemma>
-<functor>PRED</functor>
-<is_member>1</is_member>
-<sentmod>enunc</sentmod>
-<gram>
-<sempos>v</sempos>
-<verbmod>ind</verbmod>
-<deontmod>decl</deontmod>
-<tense>ant</tense>
-<aspect>cpl</aspect>
-<resultative>res0</resultative>
-<dispmod>disp0</dispmod>
-<iterativeness>it0</iterativeness>
-<negation>neg0</negation>
-</gram>
-<deepord>12</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2160-14">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2160-14</lex.rf>
-</a>
-<coref_special>exoph</coref_special>
-<nodetype>complex</nodetype>
-<t_lemma>teď</t_lemma>
-<functor>TWHEN</functor>
-<gram>
-<sempos>adv.pron.def</sempos>
-</gram>
-<deepord>9</deepord>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t2160-12">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2160-12</lex.rf>
-</a>
-<nodetype>atom</nodetype>
-<t_lemma>ještě</t_lemma>
-<functor>RHEM</functor>
-<deepord>11</deepord>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t2160-15">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2160-15</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>dva</t_lemma>
-<functor>ACT</functor>
-<gram>
-<sempos>n.quant.def</sempos>
-<gender>nr</gender>
-<number>pl</number>
-<numertype>basic</numertype>
-</gram>
-<deepord>13</deepord>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t2160-18">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2160-18</lex.rf>
-</a>
-<val_frame.rf>v#v-w1855f3</val_frame.rf>
-<nodetype>complex</nodetype>
-<t_lemma>mít</t_lemma>
-<functor>PRED</functor>
-<is_member>1</is_member>
-<gram>
-<sempos>v</sempos>
-<verbmod>ind</verbmod>
-<deontmod>decl</deontmod>
-<tense>sim</tense>
-<aspect>proc</aspect>
-<resultative>res0</resultative>
-<dispmod>disp0</dispmod>
-<iterativeness>it0</iterativeness>
-<negation>neg0</negation>
-</gram>
-<deepord>15</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2160-18x3">
-<nodetype>complex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#PersPron</t_lemma>
-<functor>ACT</functor>
-<gram>
-<sempos>n.pron.def.pers</sempos>
-</gram>
-<deepord>14</deepord>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t2160-5x3</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>coref</src>
-</LM>
-</coref_text>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1e2157-x2-59">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1e2157-x2-59</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>#PersPron</t_lemma>
-<functor>PAT</functor>
-<gram>
-<sempos>n.pron.def.pers</sempos>
-<gender>nr</gender>
-<number>pl</number>
-<person>3</person>
-<politeness>basic</politeness>
-</gram>
-<deepord>16</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2160-19">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2160-19</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>deset</t_lemma>
-<functor>RSTR</functor>
-<gram>
-<sempos>n.quant.def</sempos>
-<gender>nr</gender>
-<number>pl</number>
-<numertype>basic</numertype>
-</gram>
-<deepord>17</deepord>
-</LM>
-</children>
-<bridging>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t2160-8</target-node.rf>
-<informal-type>SUB_SET</informal-type>
-<src>lenk</src>
-</LM>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-m-d1t2160-15</target-node.rf>
-<informal-type>SUB_SET</informal-type>
-<src>lenk</src>
-</LM>
-</bridging>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-<LM id="ml_029.06-SCzechT-ml_029-d1e2161-x2-root">
-<atree.rf>a#ml_029.06-SCzechA-ml_029-d1e2161-x2-root</atree.rf>
-<deepord>0</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2166-1">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2166-1</lex.rf>
-<aux.rf>
-<LM>a#ml_029.06-SCzechA-m-d1t2166-2</LM>
-</aux.rf>
-</a>
-<val_frame.rf>v#v-w6046f1</val_frame.rf>
-<nodetype>complex</nodetype>
-<t_lemma>scházet_se</t_lemma>
-<functor>PRED</functor>
-<sentmod>inter</sentmod>
-<gram>
-<sempos>v</sempos>
-<verbmod>ind</verbmod>
-<deontmod>decl</deontmod>
-<tense>sim</tense>
-<aspect>proc</aspect>
-<resultative>res0</resultative>
-<dispmod>disp0</dispmod>
-<iterativeness>it0</iterativeness>
-<negation>neg0</negation>
-</gram>
-<deepord>3</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-m-d1t2166-1x3">
-<nodetype>complex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#PersPron</t_lemma>
-<functor>ACT</functor>
-<gram>
-<sempos>n.pron.def.pers</sempos>
-</gram>
-<deepord>1</deepord>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-ml_029-d1e2147-x2-roota1</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>coref</src>
-</LM>
-</coref_text>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t2166-3">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2166-3</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>takhle</t_lemma>
-<functor>MANN</functor>
-<gram>
-<sempos>adv.denot.grad.neg</sempos>
-<degcmp>pos</degcmp>
-<negation>neg0</negation>
-</gram>
-<deepord>2</deepord>
-</LM>
-<LM id="ml_029.06-SCzechT-ml_029-d1e2161-x2-roota1">
-<coref_gram.rf>
-<LM>ml_029.06-SCzechT-m-d1t2166-1x3</LM>
-</coref_gram.rf>
-<nodetype>qcomplex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#Rcp</t_lemma>
-<functor>PAT</functor>
-<deepord>4</deepord>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t2166-4">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2166-4</lex.rf>
-</a>
-<nodetype>atom</nodetype>
-<t_lemma>i</t_lemma>
-<functor>RHEM</functor>
-<deepord>5</deepord>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t2166-5">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2166-5</lex.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>jindy</t_lemma>
-<functor>TWHEN</functor>
-<gram>
-<sempos>adv.denot.ngrad.nneg</sempos>
-<negation>neg0</negation>
-</gram>
-<deepord>6</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-ml_029-d1e2161-x2-roota2">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2166-1</lex.rf>
-<aux.rf>
-<LM>a#ml_029.06-SCzechA-m-d1t2166-2</LM>
-<LM>a#ml_029.06-SCzechA-m-d1t2166-6</LM>
-</aux.rf>
-</a>
-<val_frame.rf>v#v-w6046f1</val_frame.rf>
-<nodetype>complex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>scházet_se</t_lemma>
-<functor>CPR</functor>
-<gram>
-<sempos>v</sempos>
-</gram>
-<deepord>8</deepord>
-<children>
-<LM id="ml_029.06-SCzechT-ml_029-d1e2161-x2-roota3">
-<nodetype>complex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#PersPron</t_lemma>
-<functor>ACT</functor>
-<gram>
-<sempos>n.pron.def.pers</sempos>
-</gram>
-<deepord>7</deepord>
-<coref_text>
-<LM>
-<target-node.rf>ml_029.06-SCzechT-ml_029-d1e2161-x2-roota1</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>coref</src>
-</LM>
-</coref_text>
-</LM>
-<LM id="ml_029.06-SCzechT-ml_029-d1e2161-x2-roota4">
-<coref_gram.rf>
-<LM>ml_029.06-SCzechT-ml_029-d1e2161-x2-roota3</LM>
-</coref_gram.rf>
-<nodetype>qcomplex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#Rcp</t_lemma>
-<functor>PAT</functor>
-<deepord>9</deepord>
-</LM>
-<LM id="ml_029.06-SCzechT-m-d1t2166-8">
-<a>
-<lex.rf>a#ml_029.06-SCzechA-m-d1t2166-8</lex.rf>
-<aux.rf>
-<LM>a#ml_029.06-SCzechA-m-d1t2166-7</LM>
-</aux.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>oslava</t_lemma>
-<functor>TWHEN</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>fem</gender>
-<number>pl</number>
-<negation>neg0</negation>
-</gram>
-<deepord>10</deepord>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
-</trees>
+ <head>
+  <schema href="tdata_c_schema.xml" />
+  <references>
+   <reffile id="a" name="adata" href="pdtsc_118_1.06.a" />
+   <reffile id="v" name="vallex" href="pdtvallex-4.0.xml" />
+  </references>
+ </head>
+ <trees>
+  <LM id="ml_029.06-SCzechT-ml_029-1606-root">
+   <atree.rf>a#ml_029.06-SCzechA-ml_029-1606-root</atree.rf>
+   <deepord>0</deepord>
+   <children>
+    <LM id="ml_029.06-SCzechT-m-d1t1859-3">
+     <a>
+      <lex.rf>a#ml_029.06-SCzechA-m-d1t1859-3</lex.rf>
+     </a>
+     <nodetype>complex</nodetype>
+     <t_lemma>umřít</t_lemma>
+     <functor>PRED</functor>
+     <sentmod>enunc</sentmod>
+     <gram>
+      <sempos>v</sempos>
+      <deontmod>decl</deontmod>
+      <tense>ant</tense>
+      <aspect>cpl</aspect>
+      <iterativeness>it0</iterativeness>
+      <negation>neg0</negation>
+     </gram>
+     <deepord>8</deepord>
+     <val_frame.rf>v#v-w7172f1</val_frame.rf>
+     <children>
+      <LM id="ml_029.06-SCzechT-m-d1t1857-3">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t1857-3</lex.rf>
+        <aux.rf>
+         <LM>a#ml_029.06-SCzechA-m-d1t1857-2</LM>
+        </aux.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>rok</t_lemma>
+       <functor>TWHEN</functor>
+       <gram>
+        <sempos>n.denot</sempos>
+        <gender>inan</gender>
+        <number>sg</number>
+        <negation>neg0</negation>
+       </gram>
+       <deepord>2</deepord>
+       <children>
+        <LM id="ml_029.06-SCzechT-m-d1t1857-4">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t1857-4</lex.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>1925</t_lemma>
+         <functor>ID</functor>
+         <gram>
+          <sempos>n.quant.def</sempos>
+          <gender>nr</gender>
+          <number>nr</number>
+          <numertype>basic</numertype>
+         </gram>
+         <deepord>1</deepord>
+        </LM>
+       </children>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t1857-10">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t1857-10</lex.rf>
+        <aux.rf>
+         <LM>a#ml_029.06-SCzechA-m-d1t1857-8</LM>
+        </aux.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>být</t_lemma>
+       <functor>TWHEN</functor>
+       <gram>
+        <sempos>v</sempos>
+        <deontmod>decl</deontmod>
+        <tense>ant</tense>
+        <aspect>proc</aspect>
+        <iterativeness>it0</iterativeness>
+        <negation>neg0</negation>
+       </gram>
+       <deepord>4</deepord>
+       <val_frame.rf>v#v-w243f7</val_frame.rf>
+       <children>
+        <LM id="ml_029.06-SCzechT-m-d1t1857-9">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t1857-9</lex.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>#PersPron</t_lemma>
+         <functor>ACT</functor>
+         <gram>
+          <sempos>n.pron.def.pers</sempos>
+          <gender>nr</gender>
+          <number>sg</number>
+          <person>3</person>
+          <politeness>basic</politeness>
+         </gram>
+         <deepord>3</deepord>
+         <coref_special>exoph</coref_special>
+        </LM>
+        <LM id="ml_029.06-SCzechT-m-d1t1857-13">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t1857-13</lex.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>rok</t_lemma>
+         <functor>PAT</functor>
+         <gram>
+          <sempos>n.denot</sempos>
+          <gender>neut</gender>
+          <number>pl</number>
+          <negation>neg0</negation>
+         </gram>
+         <deepord>5</deepord>
+         <children>
+          <LM id="ml_029.06-SCzechT-m-d1t1857-11">
+           <a>
+            <lex.rf>a#ml_029.06-SCzechA-m-d1t1857-11</lex.rf>
+           </a>
+           <nodetype>complex</nodetype>
+           <t_lemma>35</t_lemma>
+           <functor>RSTR</functor>
+           <gram>
+            <sempos>n.quant.def</sempos>
+            <gender>nr</gender>
+            <number>nr</number>
+            <numertype>basic</numertype>
+           </gram>
+           <deepord>6</deepord>
+          </LM>
+         </children>
+        </LM>
+       </children>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t1859-2">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t1859-2</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>#PersPron</t_lemma>
+       <functor>BEN</functor>
+       <gram>
+        <sempos>n.pron.def.pers</sempos>
+        <gender>nr</gender>
+        <number>sg</number>
+        <person>3</person>
+        <politeness>basic</politeness>
+       </gram>
+       <deepord>7</deepord>
+       <coref_text>
+        <LM>
+         <target_node.rf>ml_029.06-SCzechT-m-d1t1857-9</target_node.rf>
+         <type>SPEC</type>
+        </LM>
+       </coref_text>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t1859-4">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t1859-4</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>žena</t_lemma>
+       <functor>ACT</functor>
+       <gram>
+        <sempos>n.denot</sempos>
+        <gender>fem</gender>
+        <number>sg</number>
+        <negation>neg0</negation>
+       </gram>
+       <deepord>11</deepord>
+       <children>
+        <LM id="ml_029.06-SCzechT-m-d1t1859-8">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t1859-8</lex.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>mít</t_lemma>
+         <functor>RSTR</functor>
+         <gram>
+          <sempos>v</sempos>
+          <deontmod>decl</deontmod>
+          <tense>ant</tense>
+          <aspect>proc</aspect>
+          <iterativeness>it0</iterativeness>
+          <negation>neg0</negation>
+         </gram>
+         <deepord>12</deepord>
+         <val_frame.rf>v#v-w1855hsa_966</val_frame.rf>
+         <children>
+          <LM id="ml_029.06-SCzechT-m-d1t1859-7">
+           <a>
+            <lex.rf>a#ml_029.06-SCzechA-m-d1t1859-7</lex.rf>
+            <aux.rf>
+             <LM>a#ml_029.06-SCzechA-m-d1t1859-6</LM>
+            </aux.rf>
+           </a>
+           <nodetype>complex</nodetype>
+           <t_lemma>který</t_lemma>
+           <functor>ADDR</functor>
+           <gram>
+            <sempos>n.pron.indef</sempos>
+            <gender>fem</gender>
+            <number>sg</number>
+            <indeftype>inter</indeftype>
+            <person>3</person>
+           </gram>
+           <deepord>9</deepord>
+           <coref_gram.rf>
+            <LM>ml_029.06-SCzechT-m-d1t1859-4</LM>
+           </coref_gram.rf>
+          </LM>
+          <LM id="ml_029.06-SCzechT-m-d1t1859-8x3">
+           <nodetype>complex</nodetype>
+           <is_generated>1</is_generated>
+           <t_lemma>#PersPron</t_lemma>
+           <functor>ACT</functor>
+           <gram>
+            <sempos>n.pron.def.pers</sempos>
+           </gram>
+           <deepord>10</deepord>
+           <coref_text>
+            <LM>
+             <target_node.rf>ml_029.06-SCzechT-m-d1t1859-2</target_node.rf>
+             <type>SPEC</type>
+            </LM>
+           </coref_text>
+          </LM>
+          <LM id="ml_029.06-SCzechT-m-d1t1859-13">
+           <a>
+            <lex.rf>a#ml_029.06-SCzechA-m-d1t1859-13</lex.rf>
+           </a>
+           <nodetype>complex</nodetype>
+           <t_lemma>Konstantin</t_lemma>
+           <functor>PAT</functor>
+           <gram>
+            <sempos>n.denot</sempos>
+            <gender>anim</gender>
+            <number>sg</number>
+            <negation>neg0</negation>
+           </gram>
+           <deepord>14</deepord>
+           <coref_special>exoph</coref_special>
+           <children>
+            <LM id="ml_029.06-SCzechT-m-d1t1859-9">
+             <a>
+              <lex.rf>a#ml_029.06-SCzechA-m-d1t1859-9</lex.rf>
+             </a>
+             <nodetype>atom</nodetype>
+             <t_lemma>právě</t_lemma>
+             <functor>RHEM</functor>
+             <deepord>13</deepord>
+            </LM>
+            <LM id="ml_029.06-SCzechT-m-d1t1859-11">
+             <a>
+              <lex.rf>a#ml_029.06-SCzechA-m-d1t1859-11</lex.rf>
+             </a>
+             <nodetype>complex</nodetype>
+             <t_lemma>ten</t_lemma>
+             <functor>RSTR</functor>
+             <gram>
+              <sempos>n.pron.def.demon</sempos>
+              <gender>anim</gender>
+              <number>sg</number>
+             </gram>
+             <deepord>15</deepord>
+            </LM>
+           </children>
+          </LM>
+         </children>
+        </LM>
+       </children>
+      </LM>
+     </children>
+    </LM>
+   </children>
+  </LM>
+  <LM id="ml_029.06-SCzechT-ml_029-281-root">
+   <atree.rf>a#ml_029.06-SCzechA-ml_029-281-root</atree.rf>
+   <deepord>0</deepord>
+   <children>
+    <LM id="ml_029.06-SCzechT-m-d1t1863-2">
+     <a>
+      <lex.rf>a#ml_029.06-SCzechA-m-d1t1863-2</lex.rf>
+     </a>
+     <nodetype>complex</nodetype>
+     <t_lemma>být</t_lemma>
+     <functor>PRED</functor>
+     <sentmod>enunc</sentmod>
+     <gram>
+      <sempos>v</sempos>
+      <deontmod>decl</deontmod>
+      <tense>ant</tense>
+      <aspect>proc</aspect>
+      <iterativeness>it0</iterativeness>
+      <negation>neg0</negation>
+     </gram>
+     <deepord>3</deepord>
+     <val_frame.rf>v#v-w243f80_ZU</val_frame.rf>
+     <children>
+      <LM id="ml_029.06-SCzechT-m-d1t1863-2x3">
+       <nodetype>complex</nodetype>
+       <is_generated>1</is_generated>
+       <t_lemma>#PersPron</t_lemma>
+       <functor>ACT</functor>
+       <gram>
+        <sempos>n.pron.def.pers</sempos>
+       </gram>
+       <deepord>1</deepord>
+       <coref_text>
+        <LM>
+         <target_node.rf>ml_029.06-SCzechT-m-d1t1859-13</target_node.rf>
+         <type>SPEC</type>
+        </LM>
+       </coref_text>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t1869-1">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t1869-1</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>starý</t_lemma>
+       <functor>PAT</functor>
+       <gram>
+        <sempos>adj.denot</sempos>
+        <degcmp>comp</degcmp>
+        <negation>neg0</negation>
+       </gram>
+       <deepord>5</deepord>
+       <children>
+        <LM id="ml_029.06-SCzechT-m-d1t1863-5">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t1863-5</lex.rf>
+          <aux.rf>
+           <LM>a#ml_029.06-SCzechA-m-d1t1863-3</LM>
+          </aux.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>rok</t_lemma>
+         <functor>DIFF</functor>
+         <gram>
+          <sempos>n.denot</sempos>
+          <gender>neut</gender>
+          <number>pl</number>
+          <negation>neg0</negation>
+         </gram>
+         <deepord>4</deepord>
+         <children>
+          <LM id="ml_029.06-SCzechT-m-d1t1863-4">
+           <a>
+            <lex.rf>a#ml_029.06-SCzechA-m-d1t1863-4</lex.rf>
+           </a>
+           <nodetype>complex</nodetype>
+           <t_lemma>deset</t_lemma>
+           <functor>RSTR</functor>
+           <gram>
+            <sempos>n.quant.def</sempos>
+            <gender>nr</gender>
+            <number>pl</number>
+            <numertype>basic</numertype>
+           </gram>
+           <deepord>2</deepord>
+          </LM>
+         </children>
+        </LM>
+        <LM id="ml_029.06-SCzechT-ml_029-281-roota1">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t1863-2</lex.rf>
+          <aux.rf>
+           <LM>a#ml_029.06-SCzechA-m-d1t1869-2</LM>
+          </aux.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <is_generated>1</is_generated>
+         <t_lemma>být</t_lemma>
+         <functor>CPR</functor>
+         <gram>
+          <sempos>v</sempos>
+         </gram>
+         <deepord>7</deepord>
+         <val_frame.rf>v#v-w243f80_ZU</val_frame.rf>
+         <children>
+          <LM id="ml_029.06-SCzechT-m-d1t1869-3">
+           <a>
+            <lex.rf>a#ml_029.06-SCzechA-m-d1t1869-3</lex.rf>
+           </a>
+           <nodetype>complex</nodetype>
+           <t_lemma>#PersPron</t_lemma>
+           <functor>ACT</functor>
+           <gram>
+            <sempos>n.pron.def.pers</sempos>
+            <gender>nr</gender>
+            <number>sg</number>
+            <person>1</person>
+            <politeness>basic</politeness>
+           </gram>
+           <deepord>6</deepord>
+           <coref_special>exoph</coref_special>
+          </LM>
+          <LM id="ml_029.06-SCzechT-ml_029-281-roota2">
+           <a>
+            <lex.rf>a#ml_029.06-SCzechA-m-d1t1869-1</lex.rf>
+           </a>
+           <nodetype>complex</nodetype>
+           <is_generated>1</is_generated>
+           <t_lemma>starý</t_lemma>
+           <functor>PAT</functor>
+           <gram>
+            <sempos>adj.denot</sempos>
+           </gram>
+           <deepord>8</deepord>
+          </LM>
+         </children>
+        </LM>
+       </children>
+      </LM>
+     </children>
+    </LM>
+   </children>
+  </LM>
+  <LM id="ml_029.06-SCzechT-ml_029-d1e1877-x2-root">
+   <atree.rf>a#ml_029.06-SCzechA-ml_029-d1e1877-x2-root</atree.rf>
+   <deepord>0</deepord>
+   <children>
+    <LM id="ml_029.06-SCzechT-m-d1t1880-17">
+     <a>
+      <lex.rf>a#ml_029.06-SCzechA-m-d1t1880-17</lex.rf>
+      <aux.rf>
+       <LM>a#ml_029.06-SCzechA-m-d1t1880-16</LM>
+      </aux.rf>
+     </a>
+     <nodetype>complex</nodetype>
+     <t_lemma>vrátit_se</t_lemma>
+     <functor>PRED</functor>
+     <sentmod>enunc</sentmod>
+     <gram>
+      <sempos>v</sempos>
+      <deontmod>decl</deontmod>
+      <tense>ant</tense>
+      <aspect>cpl</aspect>
+      <iterativeness>it0</iterativeness>
+      <negation>neg0</negation>
+     </gram>
+     <deepord>5</deepord>
+     <val_frame.rf>v#v-w7706f1</val_frame.rf>
+     <children>
+      <LM id="ml_029.06-SCzechT-m-d1t1880-5">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t1880-5</lex.rf>
+        <aux.rf>
+         <LM>a#ml_029.06-SCzechA-m-d1t1880-3</LM>
+        </aux.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>umřít</t_lemma>
+       <functor>TWHEN</functor>
+       <gram>
+        <sempos>v</sempos>
+        <deontmod>decl</deontmod>
+        <tense>ant</tense>
+        <aspect>cpl</aspect>
+        <iterativeness>it0</iterativeness>
+        <negation>neg0</negation>
+       </gram>
+       <deepord>3</deepord>
+       <val_frame.rf>v#v-w7172f1</val_frame.rf>
+       <children>
+        <LM id="ml_029.06-SCzechT-m-d1t1880-4">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t1880-4</lex.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>#PersPron</t_lemma>
+         <functor>BEN</functor>
+         <gram>
+          <sempos>n.pron.def.pers</sempos>
+          <gender>nr</gender>
+          <number>sg</number>
+          <person>3</person>
+          <politeness>basic</politeness>
+         </gram>
+         <deepord>1</deepord>
+         <coref_text>
+          <LM>
+           <target_node.rf>ml_029.06-SCzechT-m-d1t1859-8x3</target_node.rf>
+           <type>SPEC</type>
+          </LM>
+         </coref_text>
+        </LM>
+        <LM id="ml_029.06-SCzechT-m-d1t1880-5x3">
+         <nodetype>complex</nodetype>
+         <is_generated>1</is_generated>
+         <t_lemma>#PersPron</t_lemma>
+         <functor>ACT</functor>
+         <gram>
+          <sempos>n.pron.def.pers</sempos>
+         </gram>
+         <deepord>2</deepord>
+         <coref_text>
+          <LM>
+           <target_node.rf>ml_029.06-SCzechT-m-d1t1859-7</target_node.rf>
+           <type>SPEC</type>
+          </LM>
+         </coref_text>
+        </LM>
+       </children>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t1880-7">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t1880-7</lex.rf>
+       </a>
+       <nodetype>atom</nodetype>
+       <t_lemma>tak</t_lemma>
+       <functor>PREC</functor>
+       <deepord>4</deepord>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t1880-14">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t1880-14</lex.rf>
+        <aux.rf>
+         <LM>a#ml_029.06-SCzechA-m-d1t1880-12</LM>
+        </aux.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>Československo</t_lemma>
+       <functor>DIR3</functor>
+       <gram>
+        <sempos>n.denot</sempos>
+        <gender>neut</gender>
+        <number>sg</number>
+        <negation>neg0</negation>
+       </gram>
+       <deepord>6</deepord>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t1880-17x3">
+       <nodetype>complex</nodetype>
+       <is_generated>1</is_generated>
+       <t_lemma>#PersPron</t_lemma>
+       <functor>ACT</functor>
+       <gram>
+        <sempos>n.pron.def.pers</sempos>
+       </gram>
+       <deepord>7</deepord>
+       <coref_text>
+        <LM>
+         <target_node.rf>ml_029.06-SCzechT-m-d1t1880-4</target_node.rf>
+         <type>SPEC</type>
+        </LM>
+       </coref_text>
+      </LM>
+     </children>
+    </LM>
+   </children>
+  </LM>
+  <LM id="ml_029.06-SCzechT-ml_029-1618-root">
+   <atree.rf>a#ml_029.06-SCzechA-ml_029-1618-root</atree.rf>
+   <deepord>0</deepord>
+   <children>
+    <LM id="ml_029.06-SCzechT-m-d1e1877-x2-296">
+     <a>
+      <lex.rf>a#ml_029.06-SCzechA-m-d1e1877-x2-296</lex.rf>
+     </a>
+     <nodetype>coap</nodetype>
+     <t_lemma>a</t_lemma>
+     <functor>CONJ</functor>
+     <deepord>6</deepord>
+     <children>
+      <LM id="ml_029.06-SCzechT-m-d1t1882-7">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t1882-7</lex.rf>
+        <aux.rf>
+         <LM>a#ml_029.06-SCzechA-m-d1t1882-6</LM>
+        </aux.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>vzít_si</t_lemma>
+       <functor>PRED</functor>
+       <sentmod>enunc</sentmod>
+       <is_member>1</is_member>
+       <gram>
+        <sempos>v</sempos>
+        <deontmod>decl</deontmod>
+        <tense>ant</tense>
+        <aspect>cpl</aspect>
+        <iterativeness>it0</iterativeness>
+        <negation>neg0</negation>
+       </gram>
+       <deepord>4</deepord>
+       <val_frame.rf>v#v-w8659f3</val_frame.rf>
+       <children>
+        <LM id="ml_029.06-SCzechT-m-d1t1882-3">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t1882-3</lex.rf>
+          <aux.rf>
+           <LM>a#ml_029.06-SCzechA-m-d1t1882-2</LM>
+          </aux.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>rok</t_lemma>
+         <functor>TWHEN</functor>
+         <gram>
+          <sempos>n.denot</sempos>
+          <gender>inan</gender>
+          <number>sg</number>
+          <negation>neg0</negation>
+         </gram>
+         <deepord>1</deepord>
+         <children>
+          <LM id="ml_029.06-SCzechT-m-d1t1882-4">
+           <a>
+            <lex.rf>a#ml_029.06-SCzechA-m-d1t1882-4</lex.rf>
+           </a>
+           <nodetype>complex</nodetype>
+           <t_lemma>1928</t_lemma>
+           <functor>ID</functor>
+           <gram>
+            <sempos>n.quant.def</sempos>
+            <gender>nr</gender>
+            <number>nr</number>
+            <numertype>basic</numertype>
+           </gram>
+           <deepord>2</deepord>
+          </LM>
+         </children>
+        </LM>
+        <LM id="ml_029.06-SCzechT-m-d1t1882-7x3">
+         <nodetype>complex</nodetype>
+         <is_generated>1</is_generated>
+         <t_lemma>#PersPron</t_lemma>
+         <functor>ACT</functor>
+         <gram>
+          <sempos>n.pron.def.pers</sempos>
+         </gram>
+         <deepord>3</deepord>
+         <coref_text>
+          <LM>
+           <target_node.rf>ml_029.06-SCzechT-m-d1t1880-17x3</target_node.rf>
+           <type>SPEC</type>
+          </LM>
+         </coref_text>
+        </LM>
+        <LM id="ml_029.06-SCzechT-m-d1t1882-9">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t1882-9</lex.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>matka</t_lemma>
+         <functor>PAT</functor>
+         <gram>
+          <sempos>n.denot</sempos>
+          <gender>fem</gender>
+          <number>sg</number>
+          <negation>neg0</negation>
+         </gram>
+         <deepord>5</deepord>
+         <children>
+          <LM id="ml_029.06-SCzechT-m-d1t1882-8">
+           <a>
+            <lex.rf>a#ml_029.06-SCzechA-m-d1t1882-8</lex.rf>
+           </a>
+           <nodetype>complex</nodetype>
+           <t_lemma>#PersPron</t_lemma>
+           <functor>RSTR</functor>
+           <gram>
+            <sempos>n.pron.def.pers</sempos>
+            <gender>nr</gender>
+            <number>sg</number>
+            <person>1</person>
+            <politeness>basic</politeness>
+           </gram>
+           <deepord>7</deepord>
+           <coref_text>
+            <LM>
+             <target_node.rf>ml_029.06-SCzechT-m-d1t1869-3</target_node.rf>
+             <type>SPEC</type>
+            </LM>
+           </coref_text>
+          </LM>
+         </children>
+        </LM>
+       </children>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t1882-16">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t1882-16</lex.rf>
+        <aux.rf>
+         <LM>a#ml_029.06-SCzechA-m-d1t1882-13</LM>
+         <LM>a#ml_029.06-SCzechA-m-d1t1882-14</LM>
+        </aux.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>narodit_se</t_lemma>
+       <functor>PRED</functor>
+       <sentmod>enunc</sentmod>
+       <is_member>1</is_member>
+       <gram>
+        <sempos>v</sempos>
+        <deontmod>decl</deontmod>
+        <tense>ant</tense>
+        <aspect>cpl</aspect>
+        <iterativeness>it0</iterativeness>
+        <negation>neg0</negation>
+       </gram>
+       <deepord>9</deepord>
+       <val_frame.rf>v#v-w2173f1</val_frame.rf>
+       <children>
+        <LM id="ml_029.06-SCzechT-m-d1t1882-15">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t1882-15</lex.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>#PersPron</t_lemma>
+         <functor>PAT</functor>
+         <gram>
+          <sempos>n.pron.def.pers</sempos>
+          <gender>nr</gender>
+          <number>pl</number>
+          <person>3</person>
+          <politeness>basic</politeness>
+         </gram>
+         <deepord>8</deepord>
+         <bridging>
+          <LM>
+           <target_node.rf>ml_029.06-SCzechT-m-d1t1882-9</target_node.rf>
+           <type>SUB_SET</type>
+          </LM>
+          <LM>
+           <target_node.rf>ml_029.06-SCzechT-m-d1t1882-7x3</target_node.rf>
+           <type>SUB_SET</type>
+          </LM>
+         </bridging>
+        </LM>
+        <LM id="ml_029.06-SCzechT-m-d1t1882-12">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t1882-12</lex.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>#PersPron</t_lemma>
+         <functor>ACT</functor>
+         <gram>
+          <sempos>n.pron.def.pers</sempos>
+          <gender>nr</gender>
+          <number>sg</number>
+          <person>1</person>
+          <politeness>basic</politeness>
+         </gram>
+         <deepord>10</deepord>
+         <coref_text>
+          <LM>
+           <target_node.rf>ml_029.06-SCzechT-m-d1t1882-8</target_node.rf>
+           <type>SPEC</type>
+          </LM>
+         </coref_text>
+        </LM>
+       </children>
+      </LM>
+     </children>
+    </LM>
+   </children>
+  </LM>
+  <LM id="ml_029.06-SCzechT-ml_029-d1e1883-x2-root">
+   <atree.rf>a#ml_029.06-SCzechA-ml_029-d1e1883-x2-root</atree.rf>
+   <deepord>0</deepord>
+   <children>
+    <LM id="ml_029.06-SCzechT-m-d1t1888-3">
+     <a>
+      <lex.rf>a#ml_029.06-SCzechA-m-d1t1888-3</lex.rf>
+      <aux.rf>
+       <LM>a#ml_029.06-SCzechA-m-d1t1888-2</LM>
+      </aux.rf>
+     </a>
+     <nodetype>complex</nodetype>
+     <t_lemma>být</t_lemma>
+     <functor>PRED</functor>
+     <sentmod>enunc</sentmod>
+     <gram>
+      <sempos>v</sempos>
+      <deontmod>decl</deontmod>
+      <tense>ant</tense>
+      <aspect>proc</aspect>
+      <iterativeness>it0</iterativeness>
+      <negation>neg0</negation>
+     </gram>
+     <deepord>2</deepord>
+     <val_frame.rf>v#v-w243f80_ZU</val_frame.rf>
+     <children>
+      <LM id="ml_029.06-SCzechT-ml_029-d1e1883-x2-roota1">
+       <nodetype>complex</nodetype>
+       <is_generated>1</is_generated>
+       <t_lemma>#PersPron</t_lemma>
+       <functor>ACT</functor>
+       <gram>
+        <sempos>n.pron.def.pers</sempos>
+       </gram>
+       <deepord>1</deepord>
+       <coref_text>
+        <LM>
+         <target_node.rf>ml_029.06-SCzechT-m-d1t1882-12</target_node.rf>
+         <type>SPEC</type>
+        </LM>
+       </coref_text>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t1888-6">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t1888-6</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>syn</t_lemma>
+       <functor>PAT</functor>
+       <gram>
+        <sempos>n.denot</sempos>
+        <gender>anim</gender>
+        <number>sg</number>
+        <negation>neg0</negation>
+       </gram>
+       <deepord>4</deepord>
+       <children>
+        <LM id="ml_029.06-SCzechT-m-d1t1888-4">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t1888-4</lex.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>#PersPron</t_lemma>
+         <functor>RSTR</functor>
+         <gram>
+          <sempos>n.pron.def.pers</sempos>
+          <gender>nr</gender>
+          <number>pl</number>
+          <person>3</person>
+          <politeness>basic</politeness>
+         </gram>
+         <deepord>3</deepord>
+         <coref_text>
+          <LM>
+           <target_node.rf>ml_029.06-SCzechT-m-d1t1882-15</target_node.rf>
+           <type>SPEC</type>
+          </LM>
+         </coref_text>
+        </LM>
+        <LM id="ml_029.06-SCzechT-m-d1t1888-5">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t1888-5</lex.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>jediný</t_lemma>
+         <functor>RSTR</functor>
+         <gram>
+          <sempos>adj.denot</sempos>
+          <degcmp>pos</degcmp>
+          <negation>neg0</negation>
+         </gram>
+         <deepord>5</deepord>
+        </LM>
+       </children>
+      </LM>
+     </children>
+    </LM>
+   </children>
+  </LM>
+  <LM id="ml_029.06-SCzechT-ml_029-d1e1883-x4-root">
+   <atree.rf>a#ml_029.06-SCzechA-ml_029-d1e1883-x4-root</atree.rf>
+   <deepord>0</deepord>
+   <children>
+    <LM id="ml_029.06-SCzechT-m-d1t1899-2">
+     <a>
+      <lex.rf>a#ml_029.06-SCzechA-m-d1t1899-2</lex.rf>
+     </a>
+     <nodetype>complex</nodetype>
+     <t_lemma>dělat</t_lemma>
+     <functor>PRED</functor>
+     <sentmod>inter</sentmod>
+     <gram>
+      <sempos>v</sempos>
+      <deontmod>decl</deontmod>
+      <tense>sim</tense>
+      <aspect>proc</aspect>
+      <iterativeness>it0</iterativeness>
+      <negation>neg0</negation>
+     </gram>
+     <deepord>2</deepord>
+     <val_frame.rf>v#v-w409f1</val_frame.rf>
+     <children>
+      <LM id="ml_029.06-SCzechT-m-d1t1899-1">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t1899-1</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>co</t_lemma>
+       <functor>PAT</functor>
+       <gram>
+        <sempos>n.pron.indef</sempos>
+        <gender>neut</gender>
+        <number>sg</number>
+        <indeftype>inter</indeftype>
+        <person>3</person>
+       </gram>
+       <deepord>1</deepord>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t1899-3">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t1899-3</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>stárek</t_lemma>
+       <functor>ACT</functor>
+       <gram>
+        <sempos>n.denot</sempos>
+        <gender>anim</gender>
+        <number>sg</number>
+        <negation>neg0</negation>
+       </gram>
+       <deepord>3</deepord>
+      </LM>
+     </children>
+    </LM>
+   </children>
+  </LM>
+  <LM id="ml_029.06-SCzechT-ml_029-d1e1900-x2-root">
+   <atree.rf>a#ml_029.06-SCzechA-ml_029-d1e1900-x2-root</atree.rf>
+   <deepord>0</deepord>
+   <children>
+    <LM id="ml_029.06-SCzechT-m-d1t1905-2">
+     <a>
+      <lex.rf>a#ml_029.06-SCzechA-m-d1t1905-2</lex.rf>
+     </a>
+     <nodetype>complex</nodetype>
+     <t_lemma>být</t_lemma>
+     <functor>PRED</functor>
+     <sentmod>enunc</sentmod>
+     <gram>
+      <sempos>v</sempos>
+      <deontmod>decl</deontmod>
+      <tense>sim</tense>
+      <aspect>proc</aspect>
+      <iterativeness>it0</iterativeness>
+      <negation>neg0</negation>
+     </gram>
+     <deepord>2</deepord>
+     <val_frame.rf>v#v-w243f2</val_frame.rf>
+     <children>
+      <LM id="ml_029.06-SCzechT-m-d1t1905-1">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t1905-1</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>stárek</t_lemma>
+       <functor>ACT</functor>
+       <gram>
+        <sempos>n.denot</sempos>
+        <gender>anim</gender>
+        <number>sg</number>
+        <negation>neg0</negation>
+       </gram>
+       <deepord>1</deepord>
+       <coref_text>
+        <LM>
+         <target_node.rf>ml_029.06-SCzechT-m-d1t1899-3</target_node.rf>
+         <type>SPEC</type>
+        </LM>
+       </coref_text>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t1905-4">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t1905-4</lex.rf>
+        <aux.rf>
+         <LM>a#ml_029.06-SCzechA-m-d1t1905-3</LM>
+        </aux.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>mlýn</t_lemma>
+       <functor>LOC</functor>
+       <gram>
+        <sempos>n.denot</sempos>
+        <gender>inan</gender>
+        <number>sg</number>
+        <negation>neg0</negation>
+       </gram>
+       <deepord>3</deepord>
+      </LM>
+     </children>
+    </LM>
+   </children>
+  </LM>
+  <LM id="ml_029.06-SCzechT-ml_029-310-root">
+   <atree.rf>a#ml_029.06-SCzechA-ml_029-310-root</atree.rf>
+   <deepord>0</deepord>
+   <children>
+    <LM id="ml_029.06-SCzechT-m-310-311">
+     <a>
+      <lex.rf>a#ml_029.06-SCzechA-m-310-311</lex.rf>
+     </a>
+     <nodetype>coap</nodetype>
+     <t_lemma>a</t_lemma>
+     <functor>CONJ</functor>
+     <deepord>5</deepord>
+     <children>
+      <LM id="ml_029.06-SCzechT-m-d1t1905-7">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t1905-7</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>být</t_lemma>
+       <functor>PRED</functor>
+       <sentmod>enunc</sentmod>
+       <is_member>1</is_member>
+       <gram>
+        <sempos>v</sempos>
+        <deontmod>decl</deontmod>
+        <tense>sim</tense>
+        <aspect>proc</aspect>
+        <iterativeness>it0</iterativeness>
+        <negation>neg0</negation>
+       </gram>
+       <deepord>2</deepord>
+       <val_frame.rf>v#v-w243f80_ZU</val_frame.rf>
+       <children>
+        <LM id="ml_029.06-SCzechT-m-d1t1905-6">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t1905-6</lex.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>ten</t_lemma>
+         <functor>ACT</functor>
+         <gram>
+          <sempos>n.pron.def.demon</sempos>
+          <gender>neut</gender>
+          <number>sg</number>
+         </gram>
+         <deepord>1</deepord>
+         <coref_text>
+          <LM>
+           <target_node.rf>ml_029.06-SCzechT-m-d1t1905-1</target_node.rf>
+           <type>SPEC</type>
+          </LM>
+         </coref_text>
+        </LM>
+        <LM id="ml_029.06-SCzechT-m-d1t1909-2">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t1909-2</lex.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>funkcionář</t_lemma>
+         <functor>PAT</functor>
+         <gram>
+          <sempos>n.denot</sempos>
+          <gender>anim</gender>
+          <number>sg</number>
+          <negation>neg0</negation>
+         </gram>
+         <deepord>4</deepord>
+         <children>
+          <LM id="ml_029.06-SCzechT-m-d1t1909-1">
+           <a>
+            <lex.rf>a#ml_029.06-SCzechA-m-d1t1909-1</lex.rf>
+           </a>
+           <nodetype>complex</nodetype>
+           <t_lemma>vysoký</t_lemma>
+           <functor>RSTR</functor>
+           <gram>
+            <sempos>adj.denot</sempos>
+            <degcmp>sup</degcmp>
+            <negation>neg0</negation>
+           </gram>
+           <deepord>3</deepord>
+          </LM>
+         </children>
+        </LM>
+       </children>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t1911-9">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t1911-9</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>řídit</t_lemma>
+       <functor>PRED</functor>
+       <sentmod>enunc</sentmod>
+       <is_member>1</is_member>
+       <gram>
+        <sempos>v</sempos>
+        <deontmod>decl</deontmod>
+        <tense>sim</tense>
+        <aspect>proc</aspect>
+        <iterativeness>it0</iterativeness>
+        <negation>neg0</negation>
+       </gram>
+       <deepord>7</deepord>
+       <val_frame.rf>v#v-w5879f1</val_frame.rf>
+       <children>
+        <LM id="ml_029.06-SCzechT-m-d1t1911-9x3">
+         <nodetype>complex</nodetype>
+         <is_generated>1</is_generated>
+         <t_lemma>#PersPron</t_lemma>
+         <functor>ACT</functor>
+         <gram>
+          <sempos>n.pron.def.pers</sempos>
+         </gram>
+         <deepord>6</deepord>
+         <coref_text>
+          <LM>
+           <target_node.rf>ml_029.06-SCzechT-m-d1t1905-6</target_node.rf>
+           <type>SPEC</type>
+          </LM>
+         </coref_text>
+        </LM>
+        <LM id="ml_029.06-SCzechT-m-d1t1911-11">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t1911-11</lex.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>chod</t_lemma>
+         <functor>PAT</functor>
+         <gram>
+          <sempos>n.denot</sempos>
+          <gender>inan</gender>
+          <number>sg</number>
+          <negation>neg0</negation>
+         </gram>
+         <deepord>9</deepord>
+         <children>
+          <LM id="ml_029.06-SCzechT-m-d1t1911-10">
+           <a>
+            <lex.rf>a#ml_029.06-SCzechA-m-d1t1911-10</lex.rf>
+           </a>
+           <nodetype>complex</nodetype>
+           <t_lemma>veškerý</t_lemma>
+           <functor>RSTR</functor>
+           <gram>
+            <sempos>n.denot</sempos>
+            <gender>inan</gender>
+            <number>sg</number>
+            <negation>neg0</negation>
+           </gram>
+           <deepord>8</deepord>
+          </LM>
+          <LM id="ml_029.06-SCzechT-m-d1t1911-12">
+           <a>
+            <lex.rf>a#ml_029.06-SCzechA-m-d1t1911-12</lex.rf>
+           </a>
+           <nodetype>complex</nodetype>
+           <t_lemma>mlýn</t_lemma>
+           <functor>RSTR</functor>
+           <gram>
+            <sempos>n.denot</sempos>
+            <gender>inan</gender>
+            <number>sg</number>
+            <negation>neg0</negation>
+           </gram>
+           <deepord>10</deepord>
+           <coref_text>
+            <LM>
+             <target_node.rf>ml_029.06-SCzechT-m-d1t1905-4</target_node.rf>
+             <type>SPEC</type>
+            </LM>
+           </coref_text>
+          </LM>
+         </children>
+        </LM>
+       </children>
+      </LM>
+     </children>
+    </LM>
+   </children>
+  </LM>
+  <LM id="ml_029.06-SCzechT-ml_029-d1e1912-x2-root">
+   <atree.rf>a#ml_029.06-SCzechA-ml_029-d1e1912-x2-root</atree.rf>
+   <deepord>0</deepord>
+   <children>
+    <LM id="ml_029.06-SCzechT-m-d1t1928-1">
+     <a>
+      <lex.rf>a#ml_029.06-SCzechA-m-d1t1928-1</lex.rf>
+     </a>
+     <nodetype>coap</nodetype>
+     <t_lemma>ale</t_lemma>
+     <functor>ADVS</functor>
+     <deepord>7</deepord>
+     <children>
+      <LM id="ml_029.06-SCzechT-m-d1t1917-4">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t1917-4</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>dělat</t_lemma>
+       <functor>PRED</functor>
+       <sentmod>enunc</sentmod>
+       <is_member>1</is_member>
+       <gram>
+        <sempos>v</sempos>
+        <deontmod>decl</deontmod>
+        <tense>ant</tense>
+        <aspect>proc</aspect>
+        <iterativeness>it0</iterativeness>
+        <negation>neg0</negation>
+       </gram>
+       <deepord>3</deepord>
+       <val_frame.rf>v#v-w409f1</val_frame.rf>
+       <children>
+        <LM id="ml_029.06-SCzechT-m-d1t1917-2">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t1917-2</lex.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>ten</t_lemma>
+         <functor>PAT</functor>
+         <gram>
+          <sempos>n.pron.def.demon</sempos>
+          <gender>neut</gender>
+          <number>sg</number>
+         </gram>
+         <deepord>1</deepord>
+         <coref_text>
+          <LM>
+           <target_node.rf>ml_029.06-SCzechT-m-310-311</target_node.rf>
+           <type>SPEC</type>
+          </LM>
+         </coref_text>
+        </LM>
+        <LM id="ml_029.06-SCzechT-m-d1t1917-3">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t1917-3</lex.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>tam</t_lemma>
+         <functor>LOC</functor>
+         <gram>
+          <sempos>adv.pron.def</sempos>
+         </gram>
+         <deepord>2</deepord>
+        </LM>
+       </children>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t1917-6">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t1917-6</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>otec</t_lemma>
+       <functor>ACT</functor>
+       <gram>
+        <sempos>n.denot</sempos>
+        <gender>anim</gender>
+        <number>sg</number>
+        <negation>neg0</negation>
+       </gram>
+       <deepord>4</deepord>
+       <coref_text>
+        <LM>
+         <target_node.rf>ml_029.06-SCzechT-m-d1t1882-7x3</target_node.rf>
+         <type>SPEC</type>
+        </LM>
+       </coref_text>
+       <children>
+        <LM id="ml_029.06-SCzechT-m-d1t1917-5">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t1917-5</lex.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>#PersPron</t_lemma>
+         <functor>RSTR</functor>
+         <gram>
+          <sempos>n.pron.def.pers</sempos>
+          <gender>nr</gender>
+          <number>sg</number>
+          <person>1</person>
+          <politeness>basic</politeness>
+         </gram>
+         <deepord>5</deepord>
+         <coref_text>
+          <LM>
+           <target_node.rf>ml_029.06-SCzechT-ml_029-d1e1883-x2-roota1</target_node.rf>
+           <type>SPEC</type>
+          </LM>
+         </coref_text>
+        </LM>
+       </children>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t1928-2">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t1928-2</lex.rf>
+       </a>
+       <nodetype>atom</nodetype>
+       <t_lemma>přitom</t_lemma>
+       <functor>CM</functor>
+       <deepord>6</deepord>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t1928-3">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t1928-3</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>být</t_lemma>
+       <functor>PRED</functor>
+       <sentmod>enunc</sentmod>
+       <is_member>1</is_member>
+       <gram>
+        <sempos>v</sempos>
+        <deontmod>decl</deontmod>
+        <tense>ant</tense>
+        <aspect>proc</aspect>
+        <iterativeness>it0</iterativeness>
+        <negation>neg0</negation>
+       </gram>
+       <deepord>8</deepord>
+       <val_frame.rf>v#v-w243f80_ZU</val_frame.rf>
+       <children>
+        <LM id="ml_029.06-SCzechT-m-d1t1928-5">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t1928-5</lex.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>sladovnický</t_lemma>
+         <functor>PAT</functor>
+         <gram>
+          <sempos>adj.denot</sempos>
+          <degcmp>pos</degcmp>
+          <negation>neg0</negation>
+         </gram>
+         <deepord>9</deepord>
+         <children>
+          <LM id="ml_029.06-SCzechT-m-d1t1928-4">
+           <a>
+            <lex.rf>a#ml_029.06-SCzechA-m-d1t1928-4</lex.rf>
+           </a>
+           <nodetype>complex</nodetype>
+           <t_lemma>vyučený</t_lemma>
+           <functor>RSTR</functor>
+           <gram>
+            <sempos>adj.denot</sempos>
+            <degcmp>pos</degcmp>
+            <negation>neg0</negation>
+           </gram>
+           <deepord>10</deepord>
+          </LM>
+         </children>
+        </LM>
+       </children>
+      </LM>
+     </children>
+    </LM>
+   </children>
+  </LM>
+  <LM id="ml_029.06-SCzechT-ml_029-d1e1912-x4-root">
+   <atree.rf>a#ml_029.06-SCzechA-ml_029-d1e1912-x4-root</atree.rf>
+   <deepord>0</deepord>
+   <children>
+    <LM id="ml_029.06-SCzechT-m-d1t1932-1">
+     <a>
+      <lex.rf>a#ml_029.06-SCzechA-m-d1t1932-1</lex.rf>
+      <aux.rf>
+       <LM>a#ml_029.06-SCzechA-m-d1t1932-2</LM>
+      </aux.rf>
+     </a>
+     <nodetype>complex</nodetype>
+     <t_lemma>vzpomenout_si</t_lemma>
+     <functor>PRED</functor>
+     <sentmod>inter</sentmod>
+     <gram>
+      <sempos>v</sempos>
+      <deontmod>decl</deontmod>
+      <tense>sim</tense>
+      <aspect>cpl</aspect>
+      <iterativeness>it0</iterativeness>
+      <negation>neg0</negation>
+     </gram>
+     <deepord>2</deepord>
+     <val_frame.rf>v#v-w8681f1</val_frame.rf>
+     <children>
+      <LM id="ml_029.06-SCzechT-m-d1t1932-1x3">
+       <nodetype>complex</nodetype>
+       <is_generated>1</is_generated>
+       <t_lemma>#PersPron</t_lemma>
+       <functor>ACT</functor>
+       <gram>
+        <sempos>n.pron.def.pers</sempos>
+       </gram>
+       <deepord>1</deepord>
+       <coref_text>
+        <LM>
+         <target_node.rf>ml_029.06-SCzechT-m-d1t1917-5</target_node.rf>
+         <type>SPEC</type>
+        </LM>
+       </coref_text>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t1932-6">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t1932-6</lex.rf>
+        <aux.rf>
+         <LM>a#ml_029.06-SCzechA-m-d1t1932-3</LM>
+        </aux.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>zážitek</t_lemma>
+       <functor>PAT</functor>
+       <gram>
+        <sempos>n.denot</sempos>
+        <gender>inan</gender>
+        <number>sg</number>
+        <negation>neg0</negation>
+       </gram>
+       <deepord>5</deepord>
+       <children>
+        <LM id="ml_029.06-SCzechT-m-d1t1932-4">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t1932-4</lex.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>nějaký</t_lemma>
+         <functor>RSTR</functor>
+         <gram>
+          <sempos>n.pron.indef</sempos>
+          <gender>inan</gender>
+          <number>sg</number>
+          <indeftype>indef1</indeftype>
+          <person>3</person>
+         </gram>
+         <deepord>3</deepord>
+        </LM>
+        <LM id="ml_029.06-SCzechT-m-d1t1932-5">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t1932-5</lex.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>společný</t_lemma>
+         <functor>RSTR</functor>
+         <gram>
+          <sempos>adj.denot</sempos>
+          <degcmp>pos</degcmp>
+          <negation>neg0</negation>
+         </gram>
+         <deepord>4</deepord>
+        </LM>
+        <LM id="ml_029.06-SCzechT-m-d1t1932-8">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t1932-8</lex.rf>
+          <aux.rf>
+           <LM>a#ml_029.06-SCzechA-m-d1t1932-7</LM>
+          </aux.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>rodič</t_lemma>
+         <functor>ACMP</functor>
+         <gram>
+          <sempos>n.denot</sempos>
+          <gender>anim</gender>
+          <number>pl</number>
+          <negation>neg0</negation>
+         </gram>
+         <deepord>6</deepord>
+         <coref_text>
+          <LM>
+           <target_node.rf>ml_029.06-SCzechT-m-d1t1888-4</target_node.rf>
+           <type>SPEC</type>
+          </LM>
+         </coref_text>
+        </LM>
+       </children>
+      </LM>
+     </children>
+    </LM>
+   </children>
+  </LM>
+  <LM id="ml_029.06-SCzechT-ml_029-d1e1933-x2-root">
+   <atree.rf>a#ml_029.06-SCzechA-ml_029-d1e1933-x2-root</atree.rf>
+   <deepord>0</deepord>
+   <children>
+    <LM id="ml_029.06-SCzechT-m-d1t1940-3">
+     <a>
+      <lex.rf>a#ml_029.06-SCzechA-m-d1t1940-3</lex.rf>
+     </a>
+     <nodetype>complex</nodetype>
+     <t_lemma>být</t_lemma>
+     <functor>PRED</functor>
+     <sentmod>enunc</sentmod>
+     <gram>
+      <sempos>v</sempos>
+      <deontmod>decl</deontmod>
+      <tense>ant</tense>
+      <aspect>proc</aspect>
+      <iterativeness>it0</iterativeness>
+      <negation>neg0</negation>
+     </gram>
+     <deepord>2</deepord>
+     <val_frame.rf>v#v-w243f80_ZU</val_frame.rf>
+     <children>
+      <LM id="ml_029.06-SCzechT-m-d1t1940-2">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t1940-2</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>#PersPron</t_lemma>
+       <functor>ACT</functor>
+       <gram>
+        <sempos>n.pron.def.pers</sempos>
+        <gender>nr</gender>
+        <number>pl</number>
+        <person>3</person>
+        <politeness>basic</politeness>
+       </gram>
+       <deepord>1</deepord>
+       <coref_text>
+        <LM>
+         <target_node.rf>ml_029.06-SCzechT-m-d1t1932-6</target_node.rf>
+         <type>SPEC</type>
+        </LM>
+       </coref_text>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t1940-4">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t1940-4</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>několik</t_lemma>
+       <functor>PAT</functor>
+       <gram>
+        <sempos>adj.quant.indef</sempos>
+        <indeftype>indef1</indeftype>
+        <numertype>basic</numertype>
+       </gram>
+       <deepord>3</deepord>
+      </LM>
+     </children>
+    </LM>
+   </children>
+  </LM>
+  <LM id="ml_029.06-SCzechT-ml_029-d1e1941-x2-root">
+   <atree.rf>a#ml_029.06-SCzechA-ml_029-d1e1941-x2-root</atree.rf>
+   <deepord>0</deepord>
+   <children>
+    <LM id="ml_029.06-SCzechT-m-d1t1946-6">
+     <a>
+      <lex.rf>a#ml_029.06-SCzechA-m-d1t1946-6</lex.rf>
+      <aux.rf>
+       <LM>a#ml_029.06-SCzechA-m-d1t1946-5</LM>
+       <LM>a#ml_029.06-SCzechA-m-d1t1946-2</LM>
+      </aux.rf>
+     </a>
+     <nodetype>complex</nodetype>
+     <t_lemma>říci</t_lemma>
+     <functor>PRED</functor>
+     <sentmod>enunc</sentmod>
+     <gram>
+      <sempos>v</sempos>
+      <deontmod>poss</deontmod>
+      <tense>sim</tense>
+      <aspect>cpl</aspect>
+      <iterativeness>it0</iterativeness>
+      <negation>neg0</negation>
+     </gram>
+     <deepord>3</deepord>
+     <val_frame.rf>v#v-w5874f1</val_frame.rf>
+     <children>
+      <LM id="ml_029.06-SCzechT-m-d1t1946-1">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t1946-1</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>co</t_lemma>
+       <functor>EFF</functor>
+       <gram>
+        <sempos>n.pron.indef</sempos>
+        <gender>neut</gender>
+        <number>sg</number>
+        <indeftype>inter</indeftype>
+        <person>3</person>
+       </gram>
+       <deepord>1</deepord>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t1946-3">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t1946-3</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>#PersPron</t_lemma>
+       <functor>ADDR</functor>
+       <gram>
+        <sempos>n.pron.def.pers</sempos>
+        <gender>nr</gender>
+        <number>pl</number>
+        <person>2</person>
+        <politeness>basic</politeness>
+       </gram>
+       <deepord>2</deepord>
+       <coref_special>exoph</coref_special>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t1946-4">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t1946-4</lex.rf>
+       </a>
+       <nodetype>atom</nodetype>
+       <t_lemma>tak</t_lemma>
+       <functor>ATT</functor>
+       <deepord>4</deepord>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t1946-6x3">
+       <nodetype>complex</nodetype>
+       <is_generated>1</is_generated>
+       <t_lemma>#PersPron</t_lemma>
+       <functor>ACT</functor>
+       <gram>
+        <sempos>n.pron.def.pers</sempos>
+       </gram>
+       <deepord>5</deepord>
+       <coref_text>
+        <LM>
+         <target_node.rf>ml_029.06-SCzechT-m-d1t1932-1x3</target_node.rf>
+         <type>SPEC</type>
+        </LM>
+       </coref_text>
+      </LM>
+     </children>
+    </LM>
+   </children>
+  </LM>
+  <LM id="ml_029.06-SCzechT-ml_029-d1e1941-x3-root">
+   <atree.rf>a#ml_029.06-SCzechA-ml_029-d1e1941-x3-root</atree.rf>
+   <deepord>0</deepord>
+   <children>
+    <LM id="ml_029.06-SCzechT-m-d1t1952-2">
+     <a>
+      <lex.rf>a#ml_029.06-SCzechA-m-d1t1952-2</lex.rf>
+     </a>
+     <nodetype>complex</nodetype>
+     <t_lemma>povídat</t_lemma>
+     <functor>PRED</functor>
+     <sentmod>imper</sentmod>
+     <gram>
+      <sempos>v</sempos>
+      <deontmod>decl</deontmod>
+      <tense>nil</tense>
+      <aspect>proc</aspect>
+      <iterativeness>it0</iterativeness>
+      <negation>neg0</negation>
+     </gram>
+     <deepord>3</deepord>
+     <val_frame.rf>v#v-w4156f1</val_frame.rf>
+     <children>
+      <LM id="ml_029.06-SCzechT-ml_029-d1e1941-x3-roota1">
+       <nodetype>complex</nodetype>
+       <is_generated>1</is_generated>
+       <t_lemma>#PersPron</t_lemma>
+       <functor>ACT</functor>
+       <gram>
+        <sempos>n.pron.def.pers</sempos>
+       </gram>
+       <deepord>1</deepord>
+       <coref_text>
+        <LM>
+         <target_node.rf>ml_029.06-SCzechT-m-d1t1946-6x3</target_node.rf>
+         <type>SPEC</type>
+        </LM>
+       </coref_text>
+      </LM>
+      <LM id="ml_029.06-SCzechT-ml_029-d1e1941-x3-roota2">
+       <nodetype>complex</nodetype>
+       <is_generated>1</is_generated>
+       <t_lemma>#PersPron</t_lemma>
+       <functor>ADDR</functor>
+       <gram>
+        <sempos>n.pron.def.pers</sempos>
+       </gram>
+       <deepord>2</deepord>
+       <coref_text>
+        <LM>
+         <target_node.rf>ml_029.06-SCzechT-m-d1t1946-3</target_node.rf>
+         <type>SPEC</type>
+        </LM>
+       </coref_text>
+      </LM>
+      <LM id="ml_029.06-SCzechT-ml_029-d1e1941-x3-roota3">
+       <nodetype>complex</nodetype>
+       <is_generated>1</is_generated>
+       <t_lemma>#PersPron</t_lemma>
+       <functor>EFF</functor>
+       <gram>
+        <sempos>n.pron.def.pers</sempos>
+       </gram>
+       <deepord>4</deepord>
+       <coref_special>exoph</coref_special>
+      </LM>
+     </children>
+    </LM>
+   </children>
+  </LM>
+  <LM id="ml_029.06-SCzechT-ml_029-d1e1953-x2-root">
+   <atree.rf>a#ml_029.06-SCzechA-ml_029-d1e1953-x2-root</atree.rf>
+   <deepord>0</deepord>
+   <children>
+    <LM id="ml_029.06-SCzechT-m-d1t1958-7">
+     <a>
+      <lex.rf>a#ml_029.06-SCzechA-m-d1t1958-7</lex.rf>
+     </a>
+     <nodetype>complex</nodetype>
+     <t_lemma>pozvat</t_lemma>
+     <functor>PRED</functor>
+     <sentmod>enunc</sentmod>
+     <gram>
+      <sempos>v</sempos>
+      <deontmod>decl</deontmod>
+      <tense>ant</tense>
+      <aspect>cpl</aspect>
+      <iterativeness>it0</iterativeness>
+      <negation>neg0</negation>
+     </gram>
+     <deepord>6</deepord>
+     <val_frame.rf>v#v-w4223f1</val_frame.rf>
+     <children>
+      <LM id="ml_029.06-SCzechT-m-d1t1956-10">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t1956-10</lex.rf>
+        <aux.rf>
+         <LM>a#ml_029.06-SCzechA-m-d1t1956-9</LM>
+        </aux.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>být</t_lemma>
+       <functor>TWHEN</functor>
+       <gram>
+        <sempos>v</sempos>
+        <deontmod>decl</deontmod>
+        <tense>ant</tense>
+        <aspect>proc</aspect>
+        <iterativeness>it0</iterativeness>
+        <negation>neg0</negation>
+       </gram>
+       <deepord>2</deepord>
+       <val_frame.rf>v#v-w243f2</val_frame.rf>
+       <children>
+        <LM id="ml_029.06-SCzechT-m-d1t1956-11">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t1956-11</lex.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>honitba</t_lemma>
+         <functor>ACT</functor>
+         <gram>
+          <sempos>n.denot</sempos>
+          <gender>fem</gender>
+          <number>sg</number>
+          <negation>neg0</negation>
+         </gram>
+         <deepord>1</deepord>
+        </LM>
+       </children>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t1958-4">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t1958-4</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>Vykoukal</t_lemma>
+       <functor>ACT</functor>
+       <gram>
+        <sempos>n.denot</sempos>
+        <gender>anim</gender>
+        <number>sg</number>
+        <negation>neg0</negation>
+       </gram>
+       <deepord>4</deepord>
+       <children>
+        <LM id="ml_029.06-SCzechT-m-d1t1958-2">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t1958-2</lex.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>velkostatkář</t_lemma>
+         <functor>RSTR</functor>
+         <gram>
+          <sempos>n.denot</sempos>
+          <gender>anim</gender>
+          <number>sg</number>
+          <negation>neg0</negation>
+         </gram>
+         <deepord>3</deepord>
+        </LM>
+       </children>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t1956-7">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t1956-7</lex.rf>
+        <aux.rf>
+         <LM>a#ml_029.06-SCzechA-m-d1e1953-x2-9</LM>
+        </aux.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>restaurace</t_lemma>
+       <functor>DIR3</functor>
+       <gram>
+        <sempos>n.denot</sempos>
+        <gender>fem</gender>
+        <number>sg</number>
+        <negation>neg0</negation>
+       </gram>
+       <deepord>7</deepord>
+       <coref_special>exoph</coref_special>
+       <children>
+        <LM id="ml_029.06-SCzechT-m-d1t1956-6">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t1956-6</lex.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>ten</t_lemma>
+         <functor>RSTR</functor>
+         <gram>
+          <sempos>n.pron.def.demon</sempos>
+          <gender>fem</gender>
+          <number>sg</number>
+         </gram>
+         <deepord>5</deepord>
+        </LM>
+       </children>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t1958-15">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t1958-15</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>Burian</t_lemma>
+       <functor>PAT</functor>
+       <gram>
+        <sempos>n.denot</sempos>
+        <gender>anim</gender>
+        <number>sg</number>
+        <negation>neg0</negation>
+       </gram>
+       <deepord>13</deepord>
+       <children>
+        <LM id="ml_029.06-SCzechT-m-d1t1958-12">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t1958-12</lex.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>herec</t_lemma>
+         <functor>RSTR</functor>
+         <gram>
+          <sempos>n.denot</sempos>
+          <gender>anim</gender>
+          <number>sg</number>
+          <negation>neg0</negation>
+         </gram>
+         <deepord>10</deepord>
+         <children>
+          <LM id="ml_029.06-SCzechT-m-d1t1958-8">
+           <a>
+            <lex.rf>a#ml_029.06-SCzechA-m-d1t1958-8</lex.rf>
+           </a>
+           <nodetype>complex</nodetype>
+           <t_lemma>známý</t_lemma>
+           <functor>RSTR</functor>
+           <gram>
+            <sempos>n.denot</sempos>
+            <gender>anim</gender>
+            <number>sg</number>
+            <negation>neg0</negation>
+           </gram>
+           <deepord>8</deepord>
+          </LM>
+          <LM id="ml_029.06-SCzechT-m-d1t1958-10">
+           <a>
+            <lex.rf>a#ml_029.06-SCzechA-m-d1t1958-10</lex.rf>
+           </a>
+           <nodetype>coap</nodetype>
+           <t_lemma>a</t_lemma>
+           <functor>CONJ</functor>
+           <deepord>11</deepord>
+           <children>
+            <LM id="ml_029.06-SCzechT-m-d1t1958-9">
+             <a>
+              <lex.rf>a#ml_029.06-SCzechA-m-d1t1958-9</lex.rf>
+             </a>
+             <nodetype>complex</nodetype>
+             <t_lemma>divadelní</t_lemma>
+             <functor>RSTR</functor>
+             <is_member>1</is_member>
+             <gram>
+              <sempos>adj.denot</sempos>
+              <degcmp>pos</degcmp>
+              <negation>neg0</negation>
+             </gram>
+             <deepord>9</deepord>
+            </LM>
+            <LM id="ml_029.06-SCzechT-m-d1t1958-11">
+             <a>
+              <lex.rf>a#ml_029.06-SCzechA-m-d1t1958-11</lex.rf>
+             </a>
+             <nodetype>complex</nodetype>
+             <t_lemma>filmový</t_lemma>
+             <functor>RSTR</functor>
+             <is_member>1</is_member>
+             <gram>
+              <sempos>adj.denot</sempos>
+              <degcmp>pos</degcmp>
+              <negation>neg0</negation>
+             </gram>
+             <deepord>12</deepord>
+            </LM>
+           </children>
+          </LM>
+         </children>
+        </LM>
+        <LM id="ml_029.06-SCzechT-m-d1t1958-14">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t1958-14</lex.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>Vlasta</t_lemma>
+         <functor>RSTR</functor>
+         <gram>
+          <sempos>n.denot</sempos>
+          <gender>anim</gender>
+          <number>sg</number>
+          <negation>neg0</negation>
+         </gram>
+         <deepord>14</deepord>
+        </LM>
+        <LM id="ml_029.06-SCzechT-m-d1t1968-5">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t1968-5</lex.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>obědvat</t_lemma>
+         <functor>RSTR</functor>
+         <gram>
+          <sempos>v</sempos>
+          <deontmod>decl</deontmod>
+          <tense>ant</tense>
+          <aspect>proc</aspect>
+          <iterativeness>it0</iterativeness>
+          <negation>neg0</negation>
+         </gram>
+         <deepord>16</deepord>
+         <val_frame.rf>v#v-w10574f2</val_frame.rf>
+         <children>
+          <LM id="ml_029.06-SCzechT-m-d1t1968-1">
+           <a>
+            <lex.rf>a#ml_029.06-SCzechA-m-d1t1968-1</lex.rf>
+           </a>
+           <nodetype>complex</nodetype>
+           <t_lemma>který</t_lemma>
+           <functor>ACT</functor>
+           <gram>
+            <sempos>n.pron.indef</sempos>
+            <gender>neut</gender>
+            <number>sg</number>
+            <indeftype>inter</indeftype>
+            <person>3</person>
+           </gram>
+           <deepord>15</deepord>
+           <coref_gram.rf>
+            <LM>ml_029.06-SCzechT-m-d1t1958-15</LM>
+           </coref_gram.rf>
+          </LM>
+          <LM id="ml_029.06-SCzechT-m-d1t1968-2">
+           <a>
+            <lex.rf>a#ml_029.06-SCzechA-m-d1t1968-2</lex.rf>
+           </a>
+           <nodetype>complex</nodetype>
+           <t_lemma>tam</t_lemma>
+           <functor>LOC</functor>
+           <gram>
+            <sempos>adv.pron.def</sempos>
+           </gram>
+           <deepord>17</deepord>
+           <coref_text>
+            <LM>
+             <target_node.rf>ml_029.06-SCzechT-m-d1t1956-7</target_node.rf>
+             <type>SPEC</type>
+            </LM>
+           </coref_text>
+          </LM>
+          <LM id="ml_029.06-SCzechT-m-d1t1968-4">
+           <a>
+            <lex.rf>a#ml_029.06-SCzechA-m-d1t1968-4</lex.rf>
+            <aux.rf>
+             <LM>a#ml_029.06-SCzechA-m-d1t1968-3</LM>
+            </aux.rf>
+           </a>
+           <nodetype>complex</nodetype>
+           <t_lemma>#PersPron</t_lemma>
+           <functor>LOC</functor>
+           <gram>
+            <sempos>n.pron.def.pers</sempos>
+            <gender>nr</gender>
+            <number>pl</number>
+            <person>1</person>
+            <politeness>basic</politeness>
+           </gram>
+           <deepord>18</deepord>
+           <bridging>
+            <LM>
+             <target_node.rf>ml_029.06-SCzechT-m-d1t1863-2x3</target_node.rf>
+             <type>SUB_SET</type>
+            </LM>
+            <LM>
+             <target_node.rf>ml_029.06-SCzechT-ml_029-d1e1941-x3-roota1</target_node.rf>
+             <type>SUB_SET</type>
+            </LM>
+            <LM>
+             <target_node.rf>ml_029.06-SCzechT-m-d1t1882-9</target_node.rf>
+             <type>SUB_SET</type>
+            </LM>
+            <LM>
+             <target_node.rf>ml_029.06-SCzechT-m-d1t1917-6</target_node.rf>
+             <type>SUB_SET</type>
+            </LM>
+           </bridging>
+          </LM>
+         </children>
+        </LM>
+       </children>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t1958-1">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t1958-1</lex.rf>
+       </a>
+       <nodetype>atom</nodetype>
+       <t_lemma>tak</t_lemma>
+       <functor>PREC</functor>
+       <deepord>19</deepord>
+      </LM>
+     </children>
+    </LM>
+   </children>
+  </LM>
+  <LM id="ml_029.06-SCzechT-ml_029-d1e1975-x2-root">
+   <atree.rf>a#ml_029.06-SCzechA-ml_029-d1e1975-x2-root</atree.rf>
+   <deepord>0</deepord>
+   <children>
+    <LM id="ml_029.06-SCzechT-m-d1t1980-10">
+     <a>
+      <lex.rf>a#ml_029.06-SCzechA-m-d1t1980-10</lex.rf>
+     </a>
+     <nodetype>coap</nodetype>
+     <t_lemma>a</t_lemma>
+     <functor>CONJ</functor>
+     <deepord>6</deepord>
+     <children>
+      <LM id="ml_029.06-SCzechT-m-d1t1980-2">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t1980-2</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>jednou</t_lemma>
+       <functor>TWHEN</functor>
+       <gram>
+        <sempos>adj.quant.def</sempos>
+        <numertype>basic</numertype>
+        <negation>neg0</negation>
+       </gram>
+       <deepord>1</deepord>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t1980-4">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t1980-4</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>být</t_lemma>
+       <functor>PRED</functor>
+       <sentmod>enunc</sentmod>
+       <is_member>1</is_member>
+       <gram>
+        <sempos>v</sempos>
+        <deontmod>decl</deontmod>
+        <tense>ant</tense>
+        <aspect>proc</aspect>
+        <iterativeness>it0</iterativeness>
+        <negation>neg0</negation>
+       </gram>
+       <deepord>3</deepord>
+       <val_frame.rf>v#v-w243f2</val_frame.rf>
+       <children>
+        <LM id="ml_029.06-SCzechT-m-d1t1980-3">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t1980-3</lex.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>tam</t_lemma>
+         <functor>LOC</functor>
+         <gram>
+          <sempos>adv.pron.def</sempos>
+         </gram>
+         <deepord>2</deepord>
+         <coref_special>exoph</coref_special>
+        </LM>
+        <LM id="ml_029.06-SCzechT-m-d1t1980-6">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t1980-6</lex.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>závod</t_lemma>
+         <functor>ACT</functor>
+         <gram>
+          <sempos>n.denot</sempos>
+          <gender>inan</gender>
+          <number>pl</number>
+          <negation>neg0</negation>
+         </gram>
+         <deepord>4</deepord>
+         <children>
+          <LM id="ml_029.06-SCzechT-m-d1t1980-8">
+           <a>
+            <lex.rf>a#ml_029.06-SCzechA-m-d1t1980-8</lex.rf>
+            <aux.rf>
+             <LM>a#ml_029.06-SCzechA-m-d1t1980-7</LM>
+            </aux.rf>
+           </a>
+           <nodetype>complex</nodetype>
+           <t_lemma>kůň</t_lemma>
+           <functor>MEANS</functor>
+           <gram>
+            <sempos>n.denot</sempos>
+            <gender>anim</gender>
+            <number>pl</number>
+            <negation>neg0</negation>
+           </gram>
+           <deepord>5</deepord>
+          </LM>
+         </children>
+        </LM>
+       </children>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t1980-15">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t1980-15</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>přijet</t_lemma>
+       <functor>PRED</functor>
+       <sentmod>enunc</sentmod>
+       <is_member>1</is_member>
+       <gram>
+        <sempos>v</sempos>
+        <deontmod>decl</deontmod>
+        <tense>ant</tense>
+        <aspect>cpl</aspect>
+        <iterativeness>it0</iterativeness>
+        <negation>neg0</negation>
+       </gram>
+       <deepord>9</deepord>
+       <val_frame.rf>v#v-w5152f1</val_frame.rf>
+       <children>
+        <LM id="ml_029.06-SCzechT-ml_029-d1e1975-x2-roota1">
+         <nodetype>qcomplex</nodetype>
+         <is_generated>1</is_generated>
+         <t_lemma>#Oblfm</t_lemma>
+         <functor>DIR3</functor>
+         <deepord>7</deepord>
+        </LM>
+        <LM id="ml_029.06-SCzechT-m-d1t1980-19">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t1980-19</lex.rf>
+          <aux.rf>
+           <LM>a#ml_029.06-SCzechA-m-d1t1980-18</LM>
+          </aux.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>podívat_se</t_lemma>
+         <functor>INTT</functor>
+         <gram>
+          <sempos>v</sempos>
+          <deontmod>decl</deontmod>
+          <tense>nil</tense>
+          <aspect>cpl</aspect>
+          <iterativeness>it0</iterativeness>
+          <negation>neg0</negation>
+         </gram>
+         <deepord>10</deepord>
+         <val_frame.rf>v#v-w3574f1</val_frame.rf>
+         <children>
+          <LM id="ml_029.06-SCzechT-ml_029-d1e1975-x2-roota3">
+           <nodetype>qcomplex</nodetype>
+           <is_generated>1</is_generated>
+           <t_lemma>#Cor</t_lemma>
+           <functor>ACT</functor>
+           <deepord>8</deepord>
+           <coref_gram.rf>
+            <LM>ml_029.06-SCzechT-m-d1t1980-16</LM>
+           </coref_gram.rf>
+          </LM>
+          <LM id="ml_029.06-SCzechT-ml_029-d1e1975-x2-roota2">
+           <nodetype>qcomplex</nodetype>
+           <is_generated>1</is_generated>
+           <t_lemma>#Oblfm</t_lemma>
+           <functor>DIR3</functor>
+           <deepord>11</deepord>
+          </LM>
+         </children>
+        </LM>
+        <LM id="ml_029.06-SCzechT-m-d1t1980-16">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t1980-16</lex.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>ten</t_lemma>
+         <functor>ACT</functor>
+         <gram>
+          <sempos>n.pron.def.demon</sempos>
+          <gender>anim</gender>
+          <number>pl</number>
+         </gram>
+         <deepord>12</deepord>
+         <children>
+          <LM id="ml_029.06-SCzechT-m-d1t1980-17">
+           <a>
+            <lex.rf>a#ml_029.06-SCzechA-m-d1t1980-17</lex.rf>
+           </a>
+           <nodetype>complex</nodetype>
+           <t_lemma>dobrý</t_lemma>
+           <functor>RSTR</functor>
+           <gram>
+            <sempos>adj.denot</sempos>
+            <degcmp>sup</degcmp>
+            <negation>neg0</negation>
+           </gram>
+           <deepord>13</deepord>
+           <children>
+            <LM id="ml_029.06-SCzechT-m-d1t1980-13">
+             <a>
+              <lex.rf>a#ml_029.06-SCzechA-m-d1t1980-13</lex.rf>
+              <aux.rf>
+               <LM>a#ml_029.06-SCzechA-m-d1t1980-11</LM>
+              </aux.rf>
+             </a>
+             <nodetype>complex</nodetype>
+             <t_lemma>republika</t_lemma>
+             <functor>DIR1</functor>
+             <gram>
+              <sempos>n.denot</sempos>
+              <gender>fem</gender>
+              <number>sg</number>
+              <negation>neg0</negation>
+             </gram>
+             <deepord>14</deepord>
+             <coref_text>
+              <LM>
+               <target_node.rf>ml_029.06-SCzechT-m-d1t1880-14</target_node.rf>
+               <type>SPEC</type>
+              </LM>
+             </coref_text>
+             <children>
+              <LM id="ml_029.06-SCzechT-m-d1t1980-12">
+               <a>
+                <lex.rf>a#ml_029.06-SCzechA-m-d1t1980-12</lex.rf>
+               </a>
+               <nodetype>complex</nodetype>
+               <t_lemma>celý</t_lemma>
+               <functor>RSTR</functor>
+               <gram>
+                <sempos>adj.denot</sempos>
+                <degcmp>pos</degcmp>
+                <negation>neg0</negation>
+               </gram>
+               <deepord>15</deepord>
+              </LM>
+             </children>
+            </LM>
+           </children>
+          </LM>
+         </children>
+        </LM>
+       </children>
+      </LM>
+     </children>
+    </LM>
+   </children>
+  </LM>
+  <LM id="ml_029.06-SCzechT-ml_029-39-root">
+   <atree.rf>a#ml_029.06-SCzechA-ml_029-39-root</atree.rf>
+   <deepord>0</deepord>
+   <children>
+    <LM id="ml_029.06-SCzechT-m-d1t1980-31">
+     <a>
+      <lex.rf>a#ml_029.06-SCzechA-m-d1t1980-31</lex.rf>
+     </a>
+     <nodetype>coap</nodetype>
+     <t_lemma>a</t_lemma>
+     <functor>CONJ</functor>
+     <deepord>7</deepord>
+     <children>
+      <LM id="ml_029.06-SCzechT-m-d1t1980-24">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t1980-24</lex.rf>
+        <aux.rf>
+         <LM>a#ml_029.06-SCzechA-m-d1t1980-22</LM>
+        </aux.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>doba</t_lemma>
+       <functor>TWHEN</functor>
+       <gram>
+        <sempos>n.denot</sempos>
+        <gender>fem</gender>
+        <number>sg</number>
+        <negation>neg0</negation>
+       </gram>
+       <deepord>2</deepord>
+       <children>
+        <LM id="ml_029.06-SCzechT-m-d1t1980-23">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t1980-23</lex.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>ten</t_lemma>
+         <functor>RSTR</functor>
+         <gram>
+          <sempos>n.pron.def.demon</sempos>
+          <gender>fem</gender>
+          <number>sg</number>
+         </gram>
+         <deepord>1</deepord>
+        </LM>
+       </children>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t1980-26">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t1980-26</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>navařit</t_lemma>
+       <functor>PRED</functor>
+       <sentmod>enunc</sentmod>
+       <is_member>1</is_member>
+       <gram>
+        <sempos>v</sempos>
+        <deontmod>decl</deontmod>
+        <tense>ant</tense>
+        <aspect>proc</aspect>
+        <iterativeness>it0</iterativeness>
+        <negation>neg0</negation>
+       </gram>
+       <deepord>4</deepord>
+       <val_frame.rf>v#v-whsa_1080f1_ZU</val_frame.rf>
+       <children>
+        <LM id="ml_029.06-SCzechT-m-d1t1980-25">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t1980-25</lex.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>matka</t_lemma>
+         <functor>ACT</functor>
+         <gram>
+          <sempos>n.denot</sempos>
+          <gender>fem</gender>
+          <number>sg</number>
+          <negation>neg0</negation>
+         </gram>
+         <deepord>3</deepord>
+         <coref_text>
+          <LM>
+           <target_node.rf>ml_029.06-SCzechT-m-d1t1882-9</target_node.rf>
+           <type>SPEC</type>
+          </LM>
+         </coref_text>
+        </LM>
+        <LM id="ml_029.06-SCzechT-m-d1t1980-29">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t1980-29</lex.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>oběd</t_lemma>
+         <functor>PAT</functor>
+         <gram>
+          <sempos>n.denot</sempos>
+          <gender>inan</gender>
+          <number>pl</number>
+          <negation>neg0</negation>
+         </gram>
+         <deepord>5</deepord>
+         <children>
+          <LM id="ml_029.06-SCzechT-m-d1t1980-27">
+           <a>
+            <lex.rf>a#ml_029.06-SCzechA-m-d1t1980-27</lex.rf>
+           </a>
+           <nodetype>complex</nodetype>
+           <t_lemma>200</t_lemma>
+           <functor>RSTR</functor>
+           <gram>
+            <sempos>n.quant.def</sempos>
+            <gender>nr</gender>
+            <number>nr</number>
+            <numertype>basic</numertype>
+           </gram>
+           <deepord>6</deepord>
+          </LM>
+         </children>
+        </LM>
+       </children>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t1982-1">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t1982-1</lex.rf>
+        <aux.rf>
+         <LM>a#ml_029.06-SCzechA-m-d1t1982-2</LM>
+        </aux.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>vytočit</t_lemma>
+       <functor>PRED</functor>
+       <sentmod>enunc</sentmod>
+       <is_member>1</is_member>
+       <gram>
+        <sempos>v</sempos>
+        <deontmod>decl</deontmod>
+        <tense>ant</tense>
+        <aspect>cpl</aspect>
+        <iterativeness>it0</iterativeness>
+        <negation>neg0</negation>
+       </gram>
+       <deepord>9</deepord>
+       <val_frame.rf>v#v-w8488hsa_125</val_frame.rf>
+       <children>
+        <LM id="ml_029.06-SCzechT-ml_029-39-roota2">
+         <nodetype>complex</nodetype>
+         <is_generated>1</is_generated>
+         <t_lemma>#PersPron</t_lemma>
+         <functor>ACT</functor>
+         <gram>
+          <sempos>n.pron.def.pers</sempos>
+         </gram>
+         <deepord>8</deepord>
+         <coref_text>
+          <LM>
+           <target_node.rf>ml_029.06-SCzechT-m-d1t1968-4</target_node.rf>
+           <type>SPEC</type>
+          </LM>
+         </coref_text>
+        </LM>
+        <LM id="ml_029.06-SCzechT-ml_029-39-roota1">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d-id118690-punct</lex.rf>
+         </a>
+         <nodetype>coap</nodetype>
+         <t_lemma>#Comma</t_lemma>
+         <functor>APPS</functor>
+         <deepord>12</deepord>
+         <children>
+          <LM id="ml_029.06-SCzechT-m-d1t1982-5">
+           <a>
+            <lex.rf>a#ml_029.06-SCzechA-m-d1t1982-5</lex.rf>
+           </a>
+           <nodetype>complex</nodetype>
+           <t_lemma>hl</t_lemma>
+           <functor>PAT</functor>
+           <is_member>1</is_member>
+           <gram>
+            <sempos>n.denot</sempos>
+            <gender>inan</gender>
+            <number>pl</number>
+            <negation>neg0</negation>
+           </gram>
+           <deepord>11</deepord>
+           <children>
+            <LM id="ml_029.06-SCzechT-m-d1t1982-3">
+             <a>
+              <lex.rf>a#ml_029.06-SCzechA-m-d1t1982-3</lex.rf>
+             </a>
+             <nodetype>complex</nodetype>
+             <t_lemma>35</t_lemma>
+             <functor>RSTR</functor>
+             <gram>
+              <sempos>n.quant.def</sempos>
+              <gender>nr</gender>
+              <number>nr</number>
+              <numertype>basic</numertype>
+             </gram>
+             <deepord>10</deepord>
+            </LM>
+            <LM id="ml_029.06-SCzechT-m-d1t1982-6">
+             <a>
+              <lex.rf>a#ml_029.06-SCzechA-m-d1t1982-6</lex.rf>
+             </a>
+             <nodetype>complex</nodetype>
+             <t_lemma>pivo</t_lemma>
+             <functor>RSTR</functor>
+             <gram>
+              <sempos>n.denot</sempos>
+              <gender>neut</gender>
+              <number>sg</number>
+              <negation>neg0</negation>
+             </gram>
+             <deepord>13</deepord>
+            </LM>
+           </children>
+          </LM>
+          <LM id="ml_029.06-SCzechT-m-d1t1982-9">
+           <a>
+            <lex.rf>a#ml_029.06-SCzechA-m-d1t1982-9</lex.rf>
+           </a>
+           <nodetype>complex</nodetype>
+           <t_lemma>být</t_lemma>
+           <functor>PAT</functor>
+           <is_member>1</is_member>
+           <gram>
+            <sempos>v</sempos>
+            <deontmod>decl</deontmod>
+            <tense>sim</tense>
+            <aspect>proc</aspect>
+            <iterativeness>it0</iterativeness>
+            <negation>neg0</negation>
+           </gram>
+           <deepord>15</deepord>
+           <val_frame.rf>v#v-w243f80_ZU</val_frame.rf>
+           <children>
+            <LM id="ml_029.06-SCzechT-m-d1t1982-8">
+             <a>
+              <lex.rf>a#ml_029.06-SCzechA-m-d1t1982-8</lex.rf>
+             </a>
+             <nodetype>complex</nodetype>
+             <t_lemma>což</t_lemma>
+             <functor>ACT</functor>
+             <gram>
+              <sempos>n.denot</sempos>
+              <gender>nr</gender>
+              <number>nr</number>
+              <negation>neg0</negation>
+             </gram>
+             <deepord>14</deepord>
+             <coref_gram.rf>
+              <LM>ml_029.06-SCzechT-m-d1t1982-5</LM>
+             </coref_gram.rf>
+            </LM>
+            <LM id="ml_029.06-SCzechT-m-d1t1992-2">
+             <a>
+              <lex.rf>a#ml_029.06-SCzechA-m-d1t1992-2</lex.rf>
+             </a>
+             <nodetype>complex</nodetype>
+             <t_lemma>množství</t_lemma>
+             <functor>PAT</functor>
+             <gram>
+              <sempos>n.denot</sempos>
+              <gender>neut</gender>
+              <number>sg</number>
+              <negation>neg0</negation>
+             </gram>
+             <deepord>17</deepord>
+             <children>
+              <LM id="ml_029.06-SCzechT-m-d1t1992-1">
+               <a>
+                <lex.rf>a#ml_029.06-SCzechA-m-d1t1992-1</lex.rf>
+               </a>
+               <nodetype>complex</nodetype>
+               <t_lemma>veliký</t_lemma>
+               <functor>RSTR</functor>
+               <gram>
+                <sempos>adj.denot</sempos>
+                <degcmp>pos</degcmp>
+                <negation>neg0</negation>
+               </gram>
+               <deepord>16</deepord>
+              </LM>
+             </children>
+            </LM>
+           </children>
+          </LM>
+         </children>
+        </LM>
+       </children>
+      </LM>
+     </children>
+    </LM>
+   </children>
+  </LM>
+  <LM id="ml_029.06-SCzechT-ml_029-d1e1989-x2-root">
+   <atree.rf>a#ml_029.06-SCzechA-ml_029-d1e1989-x2-root</atree.rf>
+   <deepord>0</deepord>
+   <children>
+    <LM id="ml_029.06-SCzechT-m-d1t1992-8">
+     <a>
+      <lex.rf>a#ml_029.06-SCzechA-m-d1t1992-8</lex.rf>
+     </a>
+     <nodetype>complex</nodetype>
+     <t_lemma>vytočit</t_lemma>
+     <functor>PRED</functor>
+     <gram>
+      <sempos>v</sempos>
+      <deontmod>decl</deontmod>
+      <tense>ant</tense>
+      <aspect>cpl</aspect>
+      <iterativeness>it0</iterativeness>
+      <negation>neg1</negation>
+     </gram>
+     <deepord>5</deepord>
+     <val_frame.rf>v#v-w8488hsa_125</val_frame.rf>
+     <children>
+      <LM id="ml_029.06-SCzechT-m-d1t1992-5">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t1992-5</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>tam</t_lemma>
+       <functor>LOC</functor>
+       <gram>
+        <sempos>adv.pron.def</sempos>
+       </gram>
+       <deepord>1</deepord>
+       <coref_text>
+        <LM>
+         <target_node.rf>ml_029.06-SCzechT-m-d1t1980-3</target_node.rf>
+         <type>SPEC</type>
+        </LM>
+       </coref_text>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t1992-6">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t1992-6</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>nikdy</t_lemma>
+       <functor>TWHEN</functor>
+       <gram>
+        <sempos>adv.pron.indef</sempos>
+        <indeftype>negat</indeftype>
+       </gram>
+       <deepord>2</deepord>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t1992-4">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t1992-4</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>ten</t_lemma>
+       <functor>PAT</functor>
+       <gram>
+        <sempos>n.pron.def.demon</sempos>
+        <gender>neut</gender>
+        <number>sg</number>
+       </gram>
+       <deepord>3</deepord>
+       <coref_text>
+        <LM>
+         <target_node.rf>ml_029.06-SCzechT-m-d1t1982-8</target_node.rf>
+         <type>SPEC</type>
+        </LM>
+       </coref_text>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t1992-7">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t1992-7</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>nikdo</t_lemma>
+       <functor>ACT</functor>
+       <gram>
+        <sempos>n.pron.indef</sempos>
+        <gender>anim</gender>
+        <number>sg</number>
+        <indeftype>negat</indeftype>
+        <person>3</person>
+       </gram>
+       <deepord>4</deepord>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t1992-11">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t1992-11</lex.rf>
+        <aux.rf>
+         <LM>a#ml_029.06-SCzechA-m-d1t1992-9</LM>
+        </aux.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>den</t_lemma>
+       <functor>THL</functor>
+       <gram>
+        <sempos>n.denot</sempos>
+        <gender>inan</gender>
+        <number>sg</number>
+        <negation>neg0</negation>
+       </gram>
+       <deepord>6</deepord>
+      </LM>
+      <LM id="ml_029.06-SCzechT-ml_029-d1e1989-x2-roota1">
+       <nodetype>atom</nodetype>
+       <is_generated>1</is_generated>
+       <t_lemma>#Neg</t_lemma>
+       <functor>RHEM</functor>
+       <deepord>7</deepord>
+      </LM>
+     </children>
+    </LM>
+   </children>
+  </LM>
+  <LM id="ml_029.06-SCzechT-ml_029-52-root">
+   <atree.rf>a#ml_029.06-SCzechA-ml_029-52-root</atree.rf>
+   <deepord>0</deepord>
+   <children>
+    <LM id="ml_029.06-SCzechT-m-d1t1992-14">
+     <a>
+      <lex.rf>a#ml_029.06-SCzechA-m-d1t1992-14</lex.rf>
+     </a>
+     <nodetype>complex</nodetype>
+     <t_lemma>být</t_lemma>
+     <functor>PRED</functor>
+     <sentmod>enunc</sentmod>
+     <gram>
+      <sempos>v</sempos>
+      <deontmod>decl</deontmod>
+      <tense>ant</tense>
+      <aspect>proc</aspect>
+      <iterativeness>it0</iterativeness>
+      <negation>neg0</negation>
+     </gram>
+     <deepord>2</deepord>
+     <val_frame.rf>v#v-w243f80_ZU</val_frame.rf>
+     <children>
+      <LM id="ml_029.06-SCzechT-m-d1t1992-13">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t1992-13</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>ten</t_lemma>
+       <functor>ACT</functor>
+       <gram>
+        <sempos>n.pron.def.demon</sempos>
+        <gender>neut</gender>
+        <number>sg</number>
+       </gram>
+       <deepord>1</deepord>
+       <coref_special>exoph</coref_special>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t1992-16">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t1992-16</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>tady</t_lemma>
+       <functor>LOC</functor>
+       <gram>
+        <sempos>adv.pron.def</sempos>
+       </gram>
+       <deepord>3</deepord>
+       <coref_text>
+        <LM>
+         <target_node.rf>ml_029.06-SCzechT-m-d1t1992-5</target_node.rf>
+         <type>SPEC</type>
+        </LM>
+       </coref_text>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t1992-15">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t1992-15</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>zajímavý</t_lemma>
+       <functor>PAT</functor>
+       <gram>
+        <sempos>adj.denot</sempos>
+        <degcmp>pos</degcmp>
+        <negation>neg0</negation>
+       </gram>
+       <deepord>4</deepord>
+      </LM>
+     </children>
+    </LM>
+   </children>
+  </LM>
+  <LM id="ml_029.06-SCzechT-ml_029-d1e1994-x2-root">
+   <atree.rf>a#ml_029.06-SCzechA-ml_029-d1e1994-x2-root</atree.rf>
+   <deepord>0</deepord>
+   <children>
+    <LM id="ml_029.06-SCzechT-m-d1t1997-2">
+     <a>
+      <lex.rf>a#ml_029.06-SCzechA-m-d1t1997-2</lex.rf>
+     </a>
+     <nodetype>complex</nodetype>
+     <t_lemma>být</t_lemma>
+     <functor>PRED</functor>
+     <sentmod>enunc</sentmod>
+     <gram>
+      <sempos>v</sempos>
+      <deontmod>decl</deontmod>
+      <tense>sim</tense>
+      <aspect>proc</aspect>
+      <iterativeness>it0</iterativeness>
+      <negation>neg0</negation>
+     </gram>
+     <deepord>2</deepord>
+     <val_frame.rf>v#v-w243f80_ZU</val_frame.rf>
+     <children>
+      <LM id="ml_029.06-SCzechT-m-d1t1997-1">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t1997-1</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>ten</t_lemma>
+       <functor>ACT</functor>
+       <gram>
+        <sempos>n.pron.def.demon</sempos>
+        <gender>neut</gender>
+        <number>sg</number>
+       </gram>
+       <deepord>1</deepord>
+       <coref_text>
+        <LM>
+         <target_node.rf>ml_029.06-SCzechT-m-d1t1980-31</target_node.rf>
+         <type>SPEC</type>
+        </LM>
+       </coref_text>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t1997-3">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t1997-3</lex.rf>
+       </a>
+       <nodetype>atom</nodetype>
+       <t_lemma>teda</t_lemma>
+       <functor>ATT</functor>
+       <deepord>3</deepord>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t1997-4">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t1997-4</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>výkon</t_lemma>
+       <functor>PAT</functor>
+       <gram>
+        <sempos>n.denot</sempos>
+        <gender>inan</gender>
+        <number>sg</number>
+        <negation>neg0</negation>
+       </gram>
+       <deepord>4</deepord>
+      </LM>
+     </children>
+    </LM>
+   </children>
+  </LM>
+  <LM id="ml_029.06-SCzechT-ml_029-d1e1998-x2-root">
+   <atree.rf>a#ml_029.06-SCzechA-ml_029-d1e1998-x2-root</atree.rf>
+   <deepord>0</deepord>
+   <children>
+    <LM id="ml_029.06-SCzechT-m-d1t2001-2">
+     <a>
+      <lex.rf>a#ml_029.06-SCzechA-m-d1t2001-2</lex.rf>
+     </a>
+     <nodetype>complex</nodetype>
+     <t_lemma>být</t_lemma>
+     <functor>PRED</functor>
+     <sentmod>enunc</sentmod>
+     <gram>
+      <sempos>v</sempos>
+      <deontmod>decl</deontmod>
+      <tense>ant</tense>
+      <aspect>proc</aspect>
+      <iterativeness>it0</iterativeness>
+      <negation>neg0</negation>
+     </gram>
+     <deepord>2</deepord>
+     <val_frame.rf>v#v-w243f80_ZU</val_frame.rf>
+     <children>
+      <LM id="ml_029.06-SCzechT-m-d1t2001-1">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t2001-1</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>ten</t_lemma>
+       <functor>ACT</functor>
+       <gram>
+        <sempos>n.pron.def.demon</sempos>
+        <gender>neut</gender>
+        <number>sg</number>
+       </gram>
+       <deepord>1</deepord>
+       <coref_text>
+        <LM>
+         <target_node.rf>ml_029.06-SCzechT-m-d1t1997-1</target_node.rf>
+         <type>SPEC</type>
+        </LM>
+       </coref_text>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t2001-7">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t2001-7</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>výkon</t_lemma>
+       <functor>PAT</functor>
+       <gram>
+        <sempos>n.denot</sempos>
+        <gender>inan</gender>
+        <number>sg</number>
+        <negation>neg0</negation>
+       </gram>
+       <deepord>5</deepord>
+       <children>
+        <LM id="ml_029.06-SCzechT-m-d1t2001-6">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t2001-6</lex.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>veliký</t_lemma>
+         <functor>RSTR</functor>
+         <gram>
+          <sempos>adj.denot</sempos>
+          <degcmp>pos</degcmp>
+          <negation>neg0</negation>
+         </gram>
+         <deepord>4</deepord>
+         <children>
+          <LM id="ml_029.06-SCzechT-m-d1t2001-8">
+           <a>
+            <lex.rf>a#ml_029.06-SCzechA-m-d1t2001-8</lex.rf>
+           </a>
+           <nodetype>atom</nodetype>
+           <t_lemma>opravdu</t_lemma>
+           <functor>ATT</functor>
+           <deepord>3</deepord>
+          </LM>
+         </children>
+        </LM>
+       </children>
+      </LM>
+     </children>
+    </LM>
+   </children>
+  </LM>
+  <LM id="ml_029.06-SCzechT-ml_029-64-root">
+   <atree.rf>a#ml_029.06-SCzechA-ml_029-64-root</atree.rf>
+   <deepord>0</deepord>
+   <children>
+    <LM id="ml_029.06-SCzechT-ml_029-64-roota1">
+     <a>
+      <lex.rf>a#ml_029.06-SCzechA-m-d-id119465-punct</lex.rf>
+     </a>
+     <nodetype>coap</nodetype>
+     <t_lemma>#Comma</t_lemma>
+     <functor>CONJ</functor>
+     <deepord>7</deepord>
+     <children>
+      <LM id="ml_029.06-SCzechT-m-d1t2003-4">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t2003-4</lex.rf>
+        <aux.rf>
+         <LM>a#ml_029.06-SCzechA-m-d1t2003-2</LM>
+        </aux.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>pořádat</t_lemma>
+       <functor>PRED</functor>
+       <sentmod>enunc</sentmod>
+       <is_member>1</is_member>
+       <gram>
+        <sempos>v</sempos>
+        <deontmod>decl</deontmod>
+        <tense>ant</tense>
+        <aspect>proc</aspect>
+        <iterativeness>it0</iterativeness>
+        <negation>neg0</negation>
+       </gram>
+       <deepord>3</deepord>
+       <val_frame.rf>v#v-w3936f1</val_frame.rf>
+       <children>
+        <LM id="ml_029.06-SCzechT-m-d1t2003-1">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t2003-1</lex.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>jinak</t_lemma>
+         <functor>COND</functor>
+         <gram>
+          <sempos>adv.denot.ngrad.neg</sempos>
+          <negation>neg0</negation>
+         </gram>
+         <deepord>1</deepord>
+        </LM>
+        <LM id="ml_029.06-SCzechT-m-d1t2003-3">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t2003-3</lex.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>tam</t_lemma>
+         <functor>LOC</functor>
+         <gram>
+          <sempos>adv.pron.def</sempos>
+         </gram>
+         <deepord>2</deepord>
+         <coref_text>
+          <LM>
+           <target_node.rf>ml_029.06-SCzechT-m-d1t1968-2</target_node.rf>
+           <type>SPEC</type>
+          </LM>
+         </coref_text>
+        </LM>
+        <LM id="ml_029.06-SCzechT-ml_029-64-roota2">
+         <nodetype>qcomplex</nodetype>
+         <is_generated>1</is_generated>
+         <t_lemma>#Gen</t_lemma>
+         <functor>ACT</functor>
+         <deepord>4</deepord>
+        </LM>
+        <LM id="ml_029.06-SCzechT-m-d-id119440-punct">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d-id119440-punct</lex.rf>
+         </a>
+         <nodetype>coap</nodetype>
+         <t_lemma>#Comma</t_lemma>
+         <functor>CONJ</functor>
+         <deepord>5</deepord>
+         <children>
+          <LM id="ml_029.06-SCzechT-m-d1t2003-5">
+           <a>
+            <lex.rf>a#ml_029.06-SCzechA-m-d1t2003-5</lex.rf>
+           </a>
+           <nodetype>complex</nodetype>
+           <t_lemma>bál</t_lemma>
+           <functor>PAT</functor>
+           <is_member>1</is_member>
+           <gram>
+            <sempos>n.denot</sempos>
+            <gender>inan</gender>
+            <number>pl</number>
+            <negation>neg0</negation>
+           </gram>
+           <deepord>6</deepord>
+          </LM>
+          <LM id="ml_029.06-SCzechT-m-d1t2003-7">
+           <a>
+            <lex.rf>a#ml_029.06-SCzechA-m-d1t2003-7</lex.rf>
+           </a>
+           <nodetype>complex</nodetype>
+           <t_lemma>divadlo</t_lemma>
+           <functor>PAT</functor>
+           <is_member>1</is_member>
+           <gram>
+            <sempos>n.denot</sempos>
+            <gender>neut</gender>
+            <number>pl</number>
+            <negation>neg0</negation>
+           </gram>
+           <deepord>8</deepord>
+          </LM>
+         </children>
+        </LM>
+       </children>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-64-78">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-64-78</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>mít</t_lemma>
+       <functor>PRED</functor>
+       <is_member>1</is_member>
+       <gram>
+        <sempos>v</sempos>
+        <deontmod>decl</deontmod>
+        <tense>ant</tense>
+        <aspect>proc</aspect>
+        <iterativeness>it0</iterativeness>
+        <negation>neg0</negation>
+       </gram>
+       <deepord>11</deepord>
+       <val_frame.rf>v#v-w1855f9</val_frame.rf>
+       <children>
+        <LM id="ml_029.06-SCzechT-m-d1t2003-11">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t2003-11</lex.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>Sokol</t_lemma>
+         <functor>ACT</functor>
+         <gram>
+          <sempos>n.denot</sempos>
+          <gender>anim</gender>
+          <number>sg</number>
+          <negation>neg0</negation>
+         </gram>
+         <deepord>9</deepord>
+        </LM>
+        <LM id="ml_029.06-SCzechT-m-d1t2003-13">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t2003-13</lex.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>tam</t_lemma>
+         <functor>LOC</functor>
+         <gram>
+          <sempos>adv.pron.def</sempos>
+         </gram>
+         <deepord>10</deepord>
+         <coref_text>
+          <LM>
+           <target_node.rf>ml_029.06-SCzechT-m-d1t2003-3</target_node.rf>
+           <type>SPEC</type>
+          </LM>
+         </coref_text>
+        </LM>
+        <LM id="ml_029.06-SCzechT-m-d1t2003-17">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t2003-17</lex.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>tělocvična</t_lemma>
+         <functor>PAT</functor>
+         <gram>
+          <sempos>n.denot</sempos>
+          <gender>fem</gender>
+          <number>sg</number>
+          <negation>neg0</negation>
+         </gram>
+         <deepord>13</deepord>
+         <children>
+          <LM id="ml_029.06-SCzechT-m-d1t2003-21">
+           <a>
+            <lex.rf>a#ml_029.06-SCzechA-m-d1t2003-21</lex.rf>
+            <aux.rf>
+             <LM>a#ml_029.06-SCzechA-m-d1t2003-19</LM>
+            </aux.rf>
+           </a>
+           <nodetype>complex</nodetype>
+           <t_lemma>cvičit</t_lemma>
+           <functor>RSTR</functor>
+           <gram>
+            <sempos>v</sempos>
+            <deontmod>decl</deontmod>
+            <tense>ant</tense>
+            <aspect>proc</aspect>
+            <iterativeness>it0</iterativeness>
+            <negation>neg0</negation>
+           </gram>
+           <deepord>14</deepord>
+           <val_frame.rf>v#v-w298f1</val_frame.rf>
+           <children>
+            <LM id="ml_029.06-SCzechT-m-d1t2003-18">
+             <a>
+              <lex.rf>a#ml_029.06-SCzechA-m-d1t2003-18</lex.rf>
+             </a>
+             <nodetype>complex</nodetype>
+             <t_lemma>kde</t_lemma>
+             <functor>LOC</functor>
+             <gram>
+              <sempos>adv.pron.indef</sempos>
+              <indeftype>inter</indeftype>
+             </gram>
+             <deepord>12</deepord>
+             <coref_gram.rf>
+              <LM>ml_029.06-SCzechT-m-d1t2003-17</LM>
+             </coref_gram.rf>
+            </LM>
+            <LM id="ml_029.06-SCzechT-m-d1t2003-21x3">
+             <nodetype>complex</nodetype>
+             <is_generated>1</is_generated>
+             <t_lemma>#PersPron</t_lemma>
+             <functor>ACT</functor>
+             <gram>
+              <sempos>n.pron.def.pers</sempos>
+             </gram>
+             <deepord>15</deepord>
+             <coref_special>exoph</coref_special>
+            </LM>
+           </children>
+          </LM>
+         </children>
+        </LM>
+       </children>
+      </LM>
+     </children>
+    </LM>
+   </children>
+  </LM>
+  <LM id="ml_029.06-SCzechT-ml_029-76-root">
+   <atree.rf>a#ml_029.06-SCzechA-ml_029-76-root</atree.rf>
+   <deepord>0</deepord>
+   <children>
+    <LM id="ml_029.06-SCzechT-m-d1t2007-5">
+     <a>
+      <lex.rf>a#ml_029.06-SCzechA-m-d1t2007-5</lex.rf>
+     </a>
+     <nodetype>complex</nodetype>
+     <t_lemma>být</t_lemma>
+     <functor>PRED</functor>
+     <sentmod>enunc</sentmod>
+     <gram>
+      <sempos>v</sempos>
+      <deontmod>decl</deontmod>
+      <tense>ant</tense>
+      <aspect>proc</aspect>
+      <iterativeness>it0</iterativeness>
+      <negation>neg0</negation>
+     </gram>
+     <deepord>3</deepord>
+     <val_frame.rf>v#v-w243f80_ZU</val_frame.rf>
+     <children>
+      <LM id="ml_029.06-SCzechT-m-d1t2007-3">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t2007-3</lex.rf>
+        <aux.rf>
+         <LM>a#ml_029.06-SCzechA-m-d1t2007-2</LM>
+        </aux.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>válka</t_lemma>
+       <functor>TPAR</functor>
+       <gram>
+        <sempos>n.denot</sempos>
+        <gender>fem</gender>
+        <number>sg</number>
+        <negation>neg0</negation>
+       </gram>
+       <deepord>1</deepord>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t2007-4">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t2007-4</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>tam</t_lemma>
+       <functor>LOC</functor>
+       <gram>
+        <sempos>adv.pron.def</sempos>
+       </gram>
+       <deepord>2</deepord>
+       <coref_text>
+        <LM>
+         <target_node.rf>ml_029.06-SCzechT-m-d1t2003-13</target_node.rf>
+         <type>SPEC</type>
+        </LM>
+       </coref_text>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t2009-2">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t2009-2</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>místnost</t_lemma>
+       <functor>ACT</functor>
+       <gram>
+        <sempos>n.denot</sempos>
+        <gender>fem</gender>
+        <number>pl</number>
+        <negation>neg0</negation>
+       </gram>
+       <deepord>5</deepord>
+       <children>
+        <LM id="ml_029.06-SCzechT-m-d1t2009-1">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t2009-1</lex.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>dva</t_lemma>
+         <functor>RSTR</functor>
+         <gram>
+          <sempos>n.quant.def</sempos>
+          <gender>nr</gender>
+          <number>pl</number>
+          <numertype>basic</numertype>
+         </gram>
+         <deepord>4</deepord>
+        </LM>
+       </children>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t2007-6">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t2007-6</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>zabraný</t_lemma>
+       <functor>PAT</functor>
+       <gram>
+        <sempos>adj.denot</sempos>
+        <degcmp>pos</degcmp>
+        <negation>neg0</negation>
+       </gram>
+       <deepord>6</deepord>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t2009-4">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t2009-4</lex.rf>
+        <aux.rf>
+         <LM>a#ml_029.06-SCzechA-m-d1t2009-3</LM>
+        </aux.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>škola</t_lemma>
+       <functor>BEN</functor>
+       <gram>
+        <sempos>n.denot</sempos>
+        <gender>fem</gender>
+        <number>sg</number>
+        <negation>neg0</negation>
+       </gram>
+       <deepord>7</deepord>
+       <children>
+        <LM id="ml_029.06-SCzechT-m-d1t2009-9">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t2009-9</lex.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>měšťanský</t_lemma>
+         <functor>RSTR</functor>
+         <gram>
+          <sempos>adj.denot</sempos>
+          <degcmp>pos</degcmp>
+          <negation>neg0</negation>
+         </gram>
+         <deepord>8</deepord>
+        </LM>
+       </children>
+      </LM>
+     </children>
+    </LM>
+   </children>
+  </LM>
+  <LM id="ml_029.06-SCzechT-ml_029-11-root">
+   <atree.rf>a#ml_029.06-SCzechA-ml_029-11-root</atree.rf>
+   <deepord>0</deepord>
+   <children>
+    <LM id="ml_029.06-SCzechT-m-d1t2009-19">
+     <a>
+      <lex.rf>a#ml_029.06-SCzechA-m-d1t2009-19</lex.rf>
+      <aux.rf>
+       <LM>a#ml_029.06-SCzechA-m-d1t2009-16</LM>
+      </aux.rf>
+     </a>
+     <nodetype>complex</nodetype>
+     <t_lemma>chodit</t_lemma>
+     <functor>PRED</functor>
+     <sentmod>enunc</sentmod>
+     <gram>
+      <sempos>v</sempos>
+      <deontmod>decl</deontmod>
+      <tense>ant</tense>
+      <aspect>proc</aspect>
+      <iterativeness>it0</iterativeness>
+      <negation>neg0</negation>
+     </gram>
+     <deepord>3</deepord>
+     <val_frame.rf>v#v-w1179f1</val_frame.rf>
+     <children>
+      <LM id="ml_029.06-SCzechT-m-d1t2009-15">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t2009-15</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>#PersPron</t_lemma>
+       <functor>ACT</functor>
+       <gram>
+        <sempos>n.pron.def.pers</sempos>
+        <gender>nr</gender>
+        <number>sg</number>
+        <person>1</person>
+        <politeness>basic</politeness>
+       </gram>
+       <deepord>1</deepord>
+       <coref_text>
+        <LM>
+         <target_node.rf>ml_029.06-SCzechT-ml_029-d1e1941-x3-roota1</target_node.rf>
+         <type>SPEC</type>
+        </LM>
+       </coref_text>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t2009-17">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t2009-17</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>tam</t_lemma>
+       <functor>DIR3</functor>
+       <gram>
+        <sempos>adv.pron.def</sempos>
+       </gram>
+       <deepord>2</deepord>
+       <coref_text>
+        <LM>
+         <target_node.rf>ml_029.06-SCzechT-m-d1t2009-4</target_node.rf>
+         <type>SPEC</type>
+        </LM>
+       </coref_text>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t2009-18">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t2009-18</lex.rf>
+       </a>
+       <nodetype>atom</nodetype>
+       <t_lemma>taky</t_lemma>
+       <functor>RHEM</functor>
+       <deepord>4</deepord>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t2009-21">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t2009-21</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>čas</t_lemma>
+       <functor>THL</functor>
+       <gram>
+        <sempos>n.denot</sempos>
+        <gender>inan</gender>
+        <number>sg</number>
+        <negation>neg0</negation>
+       </gram>
+       <deepord>5</deepord>
+       <children>
+        <LM id="ml_029.06-SCzechT-m-d1t2009-20">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t2009-20</lex.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>jeden</t_lemma>
+         <functor>RSTR</functor>
+         <gram>
+          <sempos>n.quant.def</sempos>
+          <gender>inan</gender>
+          <number>sg</number>
+          <numertype>basic</numertype>
+         </gram>
+         <deepord>6</deepord>
+        </LM>
+       </children>
+      </LM>
+     </children>
+    </LM>
+   </children>
+  </LM>
+  <LM id="ml_029.06-SCzechT-ml_029-14-root">
+   <atree.rf>a#ml_029.06-SCzechA-ml_029-14-root</atree.rf>
+   <deepord>0</deepord>
+   <children>
+    <LM id="ml_029.06-SCzechT-m-d1t2012-7">
+     <a>
+      <lex.rf>a#ml_029.06-SCzechA-m-d1t2012-7</lex.rf>
+      <aux.rf>
+       <LM>a#ml_029.06-SCzechA-m-d1t2012-6</LM>
+       <LM>a#ml_029.06-SCzechA-m-d1t2012-2</LM>
+      </aux.rf>
+     </a>
+     <nodetype>complex</nodetype>
+     <t_lemma>říci</t_lemma>
+     <functor>PRED</functor>
+     <sentmod>enunc</sentmod>
+     <gram>
+      <sempos>v</sempos>
+      <deontmod>poss</deontmod>
+      <tense>sim</tense>
+      <aspect>cpl</aspect>
+      <iterativeness>it0</iterativeness>
+      <negation>neg0</negation>
+     </gram>
+     <deepord>4</deepord>
+     <val_frame.rf>v#v-w5874f1</val_frame.rf>
+     <children>
+      <LM id="ml_029.06-SCzechT-m-d1t2012-1">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t2012-1</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>co</t_lemma>
+       <functor>EFF</functor>
+       <gram>
+        <sempos>n.pron.indef</sempos>
+        <gender>neut</gender>
+        <number>sg</number>
+        <indeftype>inter</indeftype>
+        <person>3</person>
+       </gram>
+       <deepord>1</deepord>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t2012-3">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t2012-3</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>#PersPron</t_lemma>
+       <functor>ADDR</functor>
+       <gram>
+        <sempos>n.pron.def.pers</sempos>
+        <gender>nr</gender>
+        <number>pl</number>
+        <person>2</person>
+        <politeness>basic</politeness>
+       </gram>
+       <deepord>2</deepord>
+       <coref_text>
+        <LM>
+         <target_node.rf>ml_029.06-SCzechT-ml_029-d1e1941-x3-roota2</target_node.rf>
+         <type>SPEC</type>
+        </LM>
+       </coref_text>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t2012-4">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t2012-4</lex.rf>
+       </a>
+       <nodetype>atom</nodetype>
+       <t_lemma>tak</t_lemma>
+       <functor>MOD</functor>
+       <deepord>3</deepord>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t2012-7x3">
+       <nodetype>complex</nodetype>
+       <is_generated>1</is_generated>
+       <t_lemma>#PersPron</t_lemma>
+       <functor>ACT</functor>
+       <gram>
+        <sempos>n.pron.def.pers</sempos>
+       </gram>
+       <deepord>5</deepord>
+       <coref_text>
+        <LM>
+         <target_node.rf>ml_029.06-SCzechT-m-d1t2009-15</target_node.rf>
+         <type>SPEC</type>
+        </LM>
+       </coref_text>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t2012-5">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t2012-5</lex.rf>
+       </a>
+       <nodetype>atom</nodetype>
+       <t_lemma>ještě</t_lemma>
+       <functor>RHEM</functor>
+       <deepord>6</deepord>
+      </LM>
+     </children>
+    </LM>
+   </children>
+  </LM>
+  <LM id="ml_029.06-SCzechT-ml_029-d1e2013-x3-root">
+   <atree.rf>a#ml_029.06-SCzechA-ml_029-d1e2013-x3-root</atree.rf>
+   <deepord>0</deepord>
+   <children>
+    <LM id="ml_029.06-SCzechT-m-d1t2022-3">
+     <a>
+      <lex.rf>a#ml_029.06-SCzechA-m-d1t2022-3</lex.rf>
+      <aux.rf>
+       <LM>a#ml_029.06-SCzechA-m-d1t2022-2</LM>
+      </aux.rf>
+     </a>
+     <nodetype>complex</nodetype>
+     <t_lemma>podívat_se</t_lemma>
+     <functor>PRED</functor>
+     <sentmod>enunc</sentmod>
+     <gram>
+      <sempos>v</sempos>
+      <deontmod>decl</deontmod>
+      <tense>sim</tense>
+      <aspect>cpl</aspect>
+      <iterativeness>it0</iterativeness>
+      <negation>neg0</negation>
+     </gram>
+     <deepord>3</deepord>
+     <val_frame.rf>v#v-w3574f2</val_frame.rf>
+     <children>
+      <LM id="ml_029.06-SCzechT-m-d1t2022-3x3">
+       <nodetype>complex</nodetype>
+       <is_generated>1</is_generated>
+       <t_lemma>#PersPron</t_lemma>
+       <functor>ACT</functor>
+       <gram>
+        <sempos>n.pron.def.pers</sempos>
+       </gram>
+       <deepord>1</deepord>
+       <bridging>
+        <LM>
+         <target_node.rf>ml_029.06-SCzechT-m-d1t2012-7x3</target_node.rf>
+         <type>SUB_SET</type>
+        </LM>
+        <LM>
+         <target_node.rf>ml_029.06-SCzechT-m-d1t2012-3</target_node.rf>
+         <type>SUB_SET</type>
+        </LM>
+       </bridging>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t2022-6">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t2022-6</lex.rf>
+        <aux.rf>
+         <LM>a#ml_029.06-SCzechA-m-d1t2022-4</LM>
+        </aux.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>fotka</t_lemma>
+       <functor>PAT</functor>
+       <gram>
+        <sempos>n.denot</sempos>
+        <gender>fem</gender>
+        <number>sg</number>
+        <negation>neg0</negation>
+       </gram>
+       <deepord>4</deepord>
+       <children>
+        <LM id="ml_029.06-SCzechT-m-d1t2022-5">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t2022-5</lex.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>další</t_lemma>
+         <functor>RSTR</functor>
+         <gram>
+          <sempos>adj.denot</sempos>
+          <degcmp>pos</degcmp>
+          <negation>neg0</negation>
+         </gram>
+         <deepord>2</deepord>
+        </LM>
+       </children>
+      </LM>
+     </children>
+    </LM>
+   </children>
+  </LM>
+  <LM id="ml_029.06-SCzechT-ml_029-20-root">
+   <atree.rf>a#ml_029.06-SCzechA-ml_029-20-root</atree.rf>
+   <deepord>0</deepord>
+   <children>
+    <LM id="ml_029.06-SCzechT-m-d1t2020-5">
+     <a>
+      <lex.rf>a#ml_029.06-SCzechA-m-d1t2020-5</lex.rf>
+     </a>
+     <nodetype>atom</nodetype>
+     <t_lemma>ano</t_lemma>
+     <functor>PARTL</functor>
+     <sentmod>enunc</sentmod>
+     <deepord>1</deepord>
+    </LM>
+   </children>
+  </LM>
+  <LM id="ml_029.06-SCzechT-ml_029-d1e2023-x2-root">
+   <atree.rf>a#ml_029.06-SCzechA-ml_029-d1e2023-x2-root</atree.rf>
+   <deepord>0</deepord>
+   <children>
+    <LM id="ml_029.06-SCzechT-m-d1t2026-2">
+     <a>
+      <lex.rf>a#ml_029.06-SCzechA-m-d1t2026-2</lex.rf>
+     </a>
+     <nodetype>complex</nodetype>
+     <t_lemma>být</t_lemma>
+     <functor>PRED</functor>
+     <sentmod>inter</sentmod>
+     <gram>
+      <sempos>v</sempos>
+      <deontmod>decl</deontmod>
+      <tense>sim</tense>
+      <aspect>proc</aspect>
+      <iterativeness>it0</iterativeness>
+      <negation>neg0</negation>
+     </gram>
+     <deepord>2</deepord>
+     <val_frame.rf>v#v-w243f2</val_frame.rf>
+     <children>
+      <LM id="ml_029.06-SCzechT-m-d1t2026-1">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t2026-1</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>kdo</t_lemma>
+       <functor>ACT</functor>
+       <gram>
+        <sempos>n.pron.indef</sempos>
+        <gender>anim</gender>
+        <number>sg</number>
+        <indeftype>inter</indeftype>
+        <person>3</person>
+       </gram>
+       <deepord>1</deepord>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t2026-5">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t2026-5</lex.rf>
+        <aux.rf>
+         <LM>a#ml_029.06-SCzechA-m-d1t2026-3</LM>
+        </aux.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>fotka</t_lemma>
+       <functor>LOC</functor>
+       <gram>
+        <sempos>n.denot</sempos>
+        <gender>fem</gender>
+        <number>sg</number>
+        <negation>neg0</negation>
+       </gram>
+       <deepord>4</deepord>
+       <coref_special>exoph</coref_special>
+       <children>
+        <LM id="ml_029.06-SCzechT-m-d1t2026-4">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t2026-4</lex.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>tenhle</t_lemma>
+         <functor>RSTR</functor>
+         <gram>
+          <sempos>n.pron.def.demon</sempos>
+          <gender>fem</gender>
+          <number>sg</number>
+         </gram>
+         <deepord>3</deepord>
+        </LM>
+       </children>
+      </LM>
+     </children>
+    </LM>
+   </children>
+  </LM>
+  <LM id="ml_029.06-SCzechT-ml_029-d1e2027-x2-root">
+   <atree.rf>a#ml_029.06-SCzechA-ml_029-d1e2027-x2-root</atree.rf>
+   <deepord>0</deepord>
+   <children>
+    <LM id="ml_029.06-SCzechT-m-d1t2032-3">
+     <a>
+      <lex.rf>a#ml_029.06-SCzechA-m-d1t2032-3</lex.rf>
+     </a>
+     <nodetype>complex</nodetype>
+     <t_lemma>být</t_lemma>
+     <functor>PRED</functor>
+     <sentmod>enunc</sentmod>
+     <gram>
+      <sempos>v</sempos>
+      <deontmod>decl</deontmod>
+      <tense>sim</tense>
+      <aspect>proc</aspect>
+      <iterativeness>it0</iterativeness>
+      <negation>neg0</negation>
+     </gram>
+     <deepord>3</deepord>
+     <val_frame.rf>v#v-w243f2</val_frame.rf>
+     <children>
+      <LM id="ml_029.06-SCzechT-m-d1t2032-2">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t2032-2</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>tady</t_lemma>
+       <functor>LOC</functor>
+       <gram>
+        <sempos>adv.pron.def</sempos>
+       </gram>
+       <deepord>1</deepord>
+       <coref_text>
+        <LM>
+         <target_node.rf>ml_029.06-SCzechT-m-d1t2026-5</target_node.rf>
+         <type>SPEC</type>
+        </LM>
+       </coref_text>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t2032-3x3">
+       <nodetype>complex</nodetype>
+       <is_generated>1</is_generated>
+       <t_lemma>#PersPron</t_lemma>
+       <functor>ACT</functor>
+       <gram>
+        <sempos>n.pron.def.pers</sempos>
+       </gram>
+       <deepord>2</deepord>
+       <coref_text>
+        <LM>
+         <target_node.rf>ml_029.06-SCzechT-m-d1t2012-7x3</target_node.rf>
+         <type>SPEC</type>
+        </LM>
+       </coref_text>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t2032-5">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t2032-5</lex.rf>
+        <aux.rf>
+         <LM>a#ml_029.06-SCzechA-m-d1t2032-4</LM>
+        </aux.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>manželka</t_lemma>
+       <functor>ACMP</functor>
+       <gram>
+        <sempos>n.denot</sempos>
+        <gender>fem</gender>
+        <number>sg</number>
+        <negation>neg0</negation>
+       </gram>
+       <deepord>4</deepord>
+      </LM>
+     </children>
+    </LM>
+   </children>
+  </LM>
+  <LM id="ml_029.06-SCzechT-ml_029-d1e2033-x2-root">
+   <atree.rf>a#ml_029.06-SCzechA-ml_029-d1e2033-x2-root</atree.rf>
+   <deepord>0</deepord>
+   <children>
+    <LM id="ml_029.06-SCzechT-m-d1t2036-5">
+     <a>
+      <lex.rf>a#ml_029.06-SCzechA-m-d1t2036-5</lex.rf>
+     </a>
+     <nodetype>complex</nodetype>
+     <t_lemma>být</t_lemma>
+     <functor>PRED</functor>
+     <sentmod>inter</sentmod>
+     <gram>
+      <sempos>v</sempos>
+      <deontmod>decl</deontmod>
+      <tense>ant</tense>
+      <aspect>proc</aspect>
+      <iterativeness>it0</iterativeness>
+      <negation>neg0</negation>
+     </gram>
+     <deepord>4</deepord>
+     <val_frame.rf>v#v-w243f80_ZU</val_frame.rf>
+     <children>
+      <LM id="ml_029.06-SCzechT-m-d1t2036-3">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t2036-3</lex.rf>
+        <aux.rf>
+         <LM>a#ml_029.06-SCzechA-m-d1t2036-1</LM>
+        </aux.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>příležitost</t_lemma>
+       <functor>TWHEN</functor>
+       <gram>
+        <sempos>n.denot</sempos>
+        <gender>fem</gender>
+        <number>sg</number>
+        <negation>neg0</negation>
+       </gram>
+       <deepord>2</deepord>
+       <children>
+        <LM id="ml_029.06-SCzechT-m-d1t2036-2">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t2036-2</lex.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>jaký</t_lemma>
+         <functor>RSTR</functor>
+         <gram>
+          <sempos>n.pron.indef</sempos>
+          <gender>fem</gender>
+          <number>sg</number>
+          <indeftype>inter</indeftype>
+          <person>3</person>
+         </gram>
+         <deepord>1</deepord>
+        </LM>
+       </children>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t2036-4">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t2036-4</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>ten</t_lemma>
+       <functor>ACT</functor>
+       <gram>
+        <sempos>n.pron.def.demon</sempos>
+        <gender>neut</gender>
+        <number>sg</number>
+       </gram>
+       <deepord>3</deepord>
+       <coref_text>
+        <LM>
+         <target_node.rf>ml_029.06-SCzechT-m-d1t2032-2</target_node.rf>
+         <type>SPEC</type>
+        </LM>
+       </coref_text>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t2036-6">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t2036-6</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>vyfocený</t_lemma>
+       <functor>PAT</functor>
+       <gram>
+        <sempos>adj.denot</sempos>
+        <degcmp>pos</degcmp>
+        <negation>neg0</negation>
+       </gram>
+       <deepord>5</deepord>
+      </LM>
+     </children>
+    </LM>
+   </children>
+  </LM>
+  <LM id="ml_029.06-SCzechT-ml_029-d1e2039-x2-root">
+   <atree.rf>a#ml_029.06-SCzechA-ml_029-d1e2039-x2-root</atree.rf>
+   <deepord>0</deepord>
+   <children>
+    <LM id="ml_029.06-SCzechT-ml_029-d1e2039-x2-roota1">
+     <a>
+      <lex.rf>a#ml_029.06-SCzechA-m-d1t2036-5</lex.rf>
+     </a>
+     <nodetype>complex</nodetype>
+     <is_generated>1</is_generated>
+     <t_lemma>být</t_lemma>
+     <functor>PRED</functor>
+     <gram>
+      <sempos>v</sempos>
+     </gram>
+     <deepord>3</deepord>
+     <val_frame.rf>v#v-w243f80_ZU</val_frame.rf>
+     <children>
+      <LM id="ml_029.06-SCzechT-ml_029-d1e2039-x2-roota2">
+       <nodetype>complex</nodetype>
+       <is_generated>1</is_generated>
+       <t_lemma>#PersPron</t_lemma>
+       <functor>ACT</functor>
+       <gram>
+        <sempos>n.pron.def.pers</sempos>
+       </gram>
+       <deepord>1</deepord>
+       <coref_text>
+        <LM>
+         <target_node.rf>ml_029.06-SCzechT-m-d1t2036-4</target_node.rf>
+         <type>SPEC</type>
+        </LM>
+       </coref_text>
+      </LM>
+      <LM id="ml_029.06-SCzechT-ml_029-d1e2039-x2-roota3">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t2036-6</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <is_generated>1</is_generated>
+       <t_lemma>vyfocený</t_lemma>
+       <functor>PAT</functor>
+       <gram>
+        <sempos>adj.denot</sempos>
+       </gram>
+       <deepord>2</deepord>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t2042-4">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t2042-4</lex.rf>
+        <aux.rf>
+         <LM>a#ml_029.06-SCzechA-m-d1t2042-3</LM>
+        </aux.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>být</t_lemma>
+       <functor>TWHEN</functor>
+       <gram>
+        <sempos>v</sempos>
+        <deontmod>decl</deontmod>
+        <tense>ant</tense>
+        <aspect>proc</aspect>
+        <iterativeness>it0</iterativeness>
+        <negation>neg0</negation>
+       </gram>
+       <deepord>5</deepord>
+       <val_frame.rf>v#v-w243f7</val_frame.rf>
+       <children>
+        <LM id="ml_029.06-SCzechT-m-d1t2042-5">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t2042-5</lex.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>manželka</t_lemma>
+         <functor>ACT</functor>
+         <gram>
+          <sempos>n.denot</sempos>
+          <gender>fem</gender>
+          <number>sg</number>
+          <negation>neg0</negation>
+         </gram>
+         <deepord>4</deepord>
+         <coref_text>
+          <LM>
+           <target_node.rf>ml_029.06-SCzechT-m-d1t2032-5</target_node.rf>
+           <type>SPEC</type>
+          </LM>
+         </coref_text>
+        </LM>
+        <LM id="ml_029.06-SCzechT-m-d1t2046-2">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t2046-2</lex.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>rok</t_lemma>
+         <functor>PAT</functor>
+         <gram>
+          <sempos>n.denot</sempos>
+          <gender>neut</gender>
+          <number>pl</number>
+          <negation>neg0</negation>
+         </gram>
+         <deepord>6</deepord>
+         <children>
+          <LM id="ml_029.06-SCzechT-m-d1t2044-1">
+           <a>
+            <lex.rf>a#ml_029.06-SCzechA-m-d1t2044-1</lex.rf>
+           </a>
+           <nodetype>complex</nodetype>
+           <t_lemma>65</t_lemma>
+           <functor>RSTR</functor>
+           <gram>
+            <sempos>n.quant.def</sempos>
+            <gender>nr</gender>
+            <number>nr</number>
+            <numertype>basic</numertype>
+           </gram>
+           <deepord>7</deepord>
+          </LM>
+         </children>
+        </LM>
+       </children>
+      </LM>
+     </children>
+    </LM>
+   </children>
+  </LM>
+  <LM id="ml_029.06-SCzechT-ml_029-d1e2047-x2-root">
+   <atree.rf>a#ml_029.06-SCzechA-ml_029-d1e2047-x2-root</atree.rf>
+   <deepord>0</deepord>
+   <children>
+    <LM id="ml_029.06-SCzechT-m-d1t2050-5">
+     <a>
+      <lex.rf>a#ml_029.06-SCzechA-m-d1t2050-5</lex.rf>
+     </a>
+     <nodetype>complex</nodetype>
+     <t_lemma>být</t_lemma>
+     <functor>PRED</functor>
+     <sentmod>inter</sentmod>
+     <gram>
+      <sempos>v</sempos>
+      <deontmod>decl</deontmod>
+      <tense>ant</tense>
+      <aspect>proc</aspect>
+      <iterativeness>it0</iterativeness>
+      <negation>neg0</negation>
+     </gram>
+     <deepord>4</deepord>
+     <val_frame.rf>v#v-w243f2</val_frame.rf>
+     <children>
+      <LM id="ml_029.06-SCzechT-m-d1t2050-3">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t2050-3</lex.rf>
+        <aux.rf>
+         <LM>a#ml_029.06-SCzechA-m-d1t2050-1</LM>
+        </aux.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>rok</t_lemma>
+       <functor>TWHEN</functor>
+       <gram>
+        <sempos>n.denot</sempos>
+        <gender>inan</gender>
+        <number>sg</number>
+        <negation>neg0</negation>
+       </gram>
+       <deepord>2</deepord>
+       <children>
+        <LM id="ml_029.06-SCzechT-m-d1t2050-2">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t2050-2</lex.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>který</t_lemma>
+         <functor>RSTR</functor>
+         <gram>
+          <sempos>n.pron.indef</sempos>
+          <gender>neut</gender>
+          <number>sg</number>
+          <indeftype>inter</indeftype>
+          <person>3</person>
+         </gram>
+         <deepord>1</deepord>
+        </LM>
+       </children>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t2050-4">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t2050-4</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>ten</t_lemma>
+       <functor>ACT</functor>
+       <gram>
+        <sempos>n.pron.def.demon</sempos>
+        <gender>neut</gender>
+        <number>sg</number>
+       </gram>
+       <deepord>3</deepord>
+       <coref_text>
+        <LM>
+         <target_node.rf>ml_029.06-SCzechT-m-d1t2042-4</target_node.rf>
+         <type>SPEC</type>
+        </LM>
+       </coref_text>
+      </LM>
+     </children>
+    </LM>
+   </children>
+  </LM>
+  <LM id="ml_029.06-SCzechT-ml_029-d1e2061-x2-root">
+   <atree.rf>a#ml_029.06-SCzechA-ml_029-d1e2061-x2-root</atree.rf>
+   <deepord>0</deepord>
+   <children>
+    <LM id="ml_029.06-SCzechT-ml_029-d1e2061-x2-roota1">
+     <a>
+      <lex.rf>a#ml_029.06-SCzechA-m-d1t2050-5</lex.rf>
+     </a>
+     <nodetype>complex</nodetype>
+     <is_generated>1</is_generated>
+     <t_lemma>být</t_lemma>
+     <functor>PRED</functor>
+     <gram>
+      <sempos>v</sempos>
+     </gram>
+     <deepord>2</deepord>
+     <val_frame.rf>v#v-w243f2</val_frame.rf>
+     <children>
+      <LM id="ml_029.06-SCzechT-ml_029-d1e2061-x2-roota2">
+       <nodetype>complex</nodetype>
+       <is_generated>1</is_generated>
+       <t_lemma>#PersPron</t_lemma>
+       <functor>ACT</functor>
+       <gram>
+        <sempos>n.pron.def.pers</sempos>
+       </gram>
+       <deepord>1</deepord>
+       <coref_text>
+        <LM>
+         <target_node.rf>ml_029.06-SCzechT-m-d1t2050-4</target_node.rf>
+         <type>SPEC</type>
+        </LM>
+       </coref_text>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t2066-2">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t2066-2</lex.rf>
+        <aux.rf>
+         <LM>a#ml_029.06-SCzechA-m-d1t2066-1</LM>
+        </aux.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>rok</t_lemma>
+       <functor>TWHEN</functor>
+       <gram>
+        <sempos>n.denot</sempos>
+        <gender>inan</gender>
+        <number>sg</number>
+        <negation>neg0</negation>
+       </gram>
+       <deepord>3</deepord>
+       <coref_text>
+        <LM>
+         <target_node.rf>ml_029.06-SCzechT-m-d1t2050-3</target_node.rf>
+         <type>SPEC</type>
+        </LM>
+       </coref_text>
+       <children>
+        <LM id="ml_029.06-SCzechT-m-d1t2066-3">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t2066-3</lex.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>1996</t_lemma>
+         <functor>ID</functor>
+         <gram>
+          <sempos>n.quant.def</sempos>
+          <gender>nr</gender>
+          <number>nr</number>
+          <numertype>basic</numertype>
+         </gram>
+         <deepord>4</deepord>
+        </LM>
+       </children>
+      </LM>
+     </children>
+    </LM>
+   </children>
+  </LM>
+  <LM id="ml_029.06-SCzechT-ml_029-d1e2068-x2-root">
+   <atree.rf>a#ml_029.06-SCzechA-ml_029-d1e2068-x2-root</atree.rf>
+   <deepord>0</deepord>
+   <children>
+    <LM id="ml_029.06-SCzechT-m-d1t2071-2">
+     <a>
+      <lex.rf>a#ml_029.06-SCzechA-m-d1t2071-2</lex.rf>
+     </a>
+     <nodetype>complex</nodetype>
+     <t_lemma>probíhat</t_lemma>
+     <functor>PRED</functor>
+     <sentmod>inter</sentmod>
+     <gram>
+      <sempos>v</sempos>
+      <deontmod>decl</deontmod>
+      <tense>ant</tense>
+      <aspect>proc</aspect>
+      <iterativeness>it0</iterativeness>
+      <negation>neg0</negation>
+     </gram>
+     <deepord>2</deepord>
+     <val_frame.rf>v#v-w4287f1</val_frame.rf>
+     <children>
+      <LM id="ml_029.06-SCzechT-m-d1t2071-1">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t2071-1</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>kde</t_lemma>
+       <functor>LOC</functor>
+       <gram>
+        <sempos>adv.pron.indef</sempos>
+        <indeftype>inter</indeftype>
+       </gram>
+       <deepord>1</deepord>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t2071-3">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t2071-3</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>oslava</t_lemma>
+       <functor>ACT</functor>
+       <gram>
+        <sempos>n.denot</sempos>
+        <gender>fem</gender>
+        <number>sg</number>
+        <negation>neg0</negation>
+       </gram>
+       <deepord>3</deepord>
+      </LM>
+     </children>
+    </LM>
+   </children>
+  </LM>
+  <LM id="ml_029.06-SCzechT-ml_029-d1e2072-x2-root">
+   <atree.rf>a#ml_029.06-SCzechA-ml_029-d1e2072-x2-root</atree.rf>
+   <deepord>0</deepord>
+   <children>
+    <LM id="ml_029.06-SCzechT-m-d-id121730-punct">
+     <a>
+      <lex.rf>a#ml_029.06-SCzechA-m-d-id121730-punct</lex.rf>
+     </a>
+     <nodetype>coap</nodetype>
+     <t_lemma>#Comma</t_lemma>
+     <functor>CONJ</functor>
+     <deepord>4</deepord>
+     <children>
+      <LM id="ml_029.06-SCzechT-m-d1t2077-1">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t2077-1</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>ten</t_lemma>
+       <functor>ACT</functor>
+       <gram>
+        <sempos>n.pron.def.demon</sempos>
+        <gender>neut</gender>
+        <number>sg</number>
+       </gram>
+       <deepord>1</deepord>
+       <coref_text>
+        <LM>
+         <target_node.rf>ml_029.06-SCzechT-m-d1t2071-3</target_node.rf>
+         <type>SPEC</type>
+        </LM>
+       </coref_text>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t2077-2">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t2077-2</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>být</t_lemma>
+       <functor>PRED</functor>
+       <sentmod>enunc</sentmod>
+       <is_member>1</is_member>
+       <gram>
+        <sempos>v</sempos>
+        <deontmod>decl</deontmod>
+        <tense>ant</tense>
+        <aspect>proc</aspect>
+        <iterativeness>it0</iterativeness>
+        <negation>neg0</negation>
+       </gram>
+       <deepord>2</deepord>
+       <val_frame.rf>v#v-w243f2</val_frame.rf>
+       <children>
+        <LM id="ml_029.06-SCzechT-m-d1t2077-4">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t2077-4</lex.rf>
+          <aux.rf>
+           <LM>a#ml_029.06-SCzechA-m-d1t2077-3</LM>
+          </aux.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>#PersPron</t_lemma>
+         <functor>LOC</functor>
+         <gram>
+          <sempos>n.pron.def.pers</sempos>
+          <gender>nr</gender>
+          <number>pl</number>
+          <person>1</person>
+          <politeness>basic</politeness>
+         </gram>
+         <deepord>3</deepord>
+         <bridging>
+          <LM>
+           <target_node.rf>ml_029.06-SCzechT-m-d1t2032-3x3</target_node.rf>
+           <type>SUB_SET</type>
+          </LM>
+          <LM>
+           <target_node.rf>ml_029.06-SCzechT-m-d1t2042-5</target_node.rf>
+           <type>SUB_SET</type>
+          </LM>
+         </bridging>
+        </LM>
+       </children>
+      </LM>
+      <LM id="ml_029.06-SCzechT-ml_029-d1e2072-x2-roota1">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t2077-2</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <is_generated>1</is_generated>
+       <t_lemma>být</t_lemma>
+       <functor>PRED</functor>
+       <is_member>1</is_member>
+       <gram>
+        <sempos>v</sempos>
+       </gram>
+       <deepord>6</deepord>
+       <val_frame.rf>v#v-w243f2</val_frame.rf>
+       <children>
+        <LM id="ml_029.06-SCzechT-m-d1t2077-6">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t2077-6</lex.rf>
+         </a>
+         <nodetype>atom</nodetype>
+         <t_lemma>přímo</t_lemma>
+         <functor>RHEM</functor>
+         <deepord>5</deepord>
+        </LM>
+        <LM id="ml_029.06-SCzechT-m-d1t2077-8">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t2077-8</lex.rf>
+          <aux.rf>
+           <LM>a#ml_029.06-SCzechA-m-d1t2077-7</LM>
+          </aux.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>byt</t_lemma>
+         <functor>LOC</functor>
+         <gram>
+          <sempos>n.denot</sempos>
+          <gender>inan</gender>
+          <number>sg</number>
+          <negation>neg0</negation>
+         </gram>
+         <deepord>7</deepord>
+         <coref_text>
+          <LM>
+           <target_node.rf>ml_029.06-SCzechT-m-d1t2071-1</target_node.rf>
+           <type>SPEC</type>
+          </LM>
+         </coref_text>
+        </LM>
+        <LM id="ml_029.06-SCzechT-m-d1t2077-17">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t2077-17</lex.rf>
+          <aux.rf>
+           <LM>a#ml_029.06-SCzechA-m-d1t2077-15</LM>
+          </aux.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>pokoj</t_lemma>
+         <functor>LOC</functor>
+         <gram>
+          <sempos>n.denot</sempos>
+          <gender>inan</gender>
+          <number>sg</number>
+          <negation>neg0</negation>
+         </gram>
+         <deepord>8</deepord>
+         <children>
+          <LM id="ml_029.06-SCzechT-m-d1t2077-16">
+           <a>
+            <lex.rf>a#ml_029.06-SCzechA-m-d1t2077-16</lex.rf>
+           </a>
+           <nodetype>complex</nodetype>
+           <t_lemma>obývací</t_lemma>
+           <functor>RSTR</functor>
+           <gram>
+            <sempos>adj.denot</sempos>
+            <degcmp>pos</degcmp>
+            <negation>neg0</negation>
+           </gram>
+           <deepord>9</deepord>
+          </LM>
+         </children>
+        </LM>
+       </children>
+      </LM>
+     </children>
+    </LM>
+   </children>
+  </LM>
+  <LM id="ml_029.06-SCzechT-ml_029-d1e2078-x2-root">
+   <atree.rf>a#ml_029.06-SCzechA-ml_029-d1e2078-x2-root</atree.rf>
+   <deepord>0</deepord>
+   <children>
+    <LM id="ml_029.06-SCzechT-m-d1t2085-4">
+     <a>
+      <lex.rf>a#ml_029.06-SCzechA-m-d1t2085-4</lex.rf>
+      <aux.rf>
+       <LM>a#ml_029.06-SCzechA-m-d1t2085-2</LM>
+      </aux.rf>
+     </a>
+     <nodetype>complex</nodetype>
+     <t_lemma>mít</t_lemma>
+     <functor>PRED</functor>
+     <sentmod>inter</sentmod>
+     <gram>
+      <sempos>v</sempos>
+      <deontmod>decl</deontmod>
+      <tense>ant</tense>
+      <aspect>proc</aspect>
+      <iterativeness>it0</iterativeness>
+      <negation>neg0</negation>
+     </gram>
+     <deepord>3</deepord>
+     <val_frame.rf>v#v-w1855f2</val_frame.rf>
+     <children>
+      <LM id="ml_029.06-SCzechT-m-d1t2085-3">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t2085-3</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>tam</t_lemma>
+       <functor>LOC</functor>
+       <gram>
+        <sempos>adv.pron.def</sempos>
+       </gram>
+       <deepord>1</deepord>
+       <coref_text>
+        <LM>
+         <target_node.rf>ml_029.06-SCzechT-m-d1t2077-1</target_node.rf>
+         <type>SPEC</type>
+        </LM>
+       </coref_text>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t2085-4x3">
+       <nodetype>complex</nodetype>
+       <is_generated>1</is_generated>
+       <t_lemma>#PersPron</t_lemma>
+       <functor>ACT</functor>
+       <gram>
+        <sempos>n.pron.def.pers</sempos>
+       </gram>
+       <deepord>2</deepord>
+       <coref_text>
+        <LM>
+         <target_node.rf>ml_029.06-SCzechT-m-d1t2032-3x3</target_node.rf>
+         <type>SPEC</type>
+        </LM>
+       </coref_text>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t2085-5">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t2085-5</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>host</t_lemma>
+       <functor>PAT</functor>
+       <gram>
+        <sempos>n.denot</sempos>
+        <gender>anim</gender>
+        <number>pl</number>
+        <negation>neg0</negation>
+       </gram>
+       <deepord>4</deepord>
+       <children>
+        <LM id="ml_029.06-SCzechT-m-d1t2085-1">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t2085-1</lex.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>kolik</t_lemma>
+         <functor>RSTR</functor>
+         <gram>
+          <sempos>adj.quant.indef</sempos>
+          <indeftype>inter</indeftype>
+          <numertype>basic</numertype>
+         </gram>
+         <deepord>5</deepord>
+        </LM>
+       </children>
+      </LM>
+     </children>
+    </LM>
+   </children>
+  </LM>
+  <LM id="ml_029.06-SCzechT-ml_029-d1e2086-x2-root">
+   <atree.rf>a#ml_029.06-SCzechA-ml_029-d1e2086-x2-root</atree.rf>
+   <deepord>0</deepord>
+   <children>
+    <LM id="ml_029.06-SCzechT-ml_029-d1e2086-x2-roota1">
+     <a>
+      <lex.rf>a#ml_029.06-SCzechA-m-d1t2085-4</lex.rf>
+     </a>
+     <nodetype>complex</nodetype>
+     <is_generated>1</is_generated>
+     <t_lemma>mít</t_lemma>
+     <functor>PRED</functor>
+     <gram>
+      <sempos>v</sempos>
+     </gram>
+     <deepord>2</deepord>
+     <val_frame.rf>v#v-w1855f2</val_frame.rf>
+     <children>
+      <LM id="ml_029.06-SCzechT-ml_029-d1e2086-x2-roota2">
+       <nodetype>complex</nodetype>
+       <is_generated>1</is_generated>
+       <t_lemma>#PersPron</t_lemma>
+       <functor>ACT</functor>
+       <gram>
+        <sempos>n.pron.def.pers</sempos>
+       </gram>
+       <deepord>1</deepord>
+       <coref_text>
+        <LM>
+         <target_node.rf>ml_029.06-SCzechT-m-d1t2085-4x3</target_node.rf>
+         <type>SPEC</type>
+        </LM>
+       </coref_text>
+      </LM>
+      <LM id="ml_029.06-SCzechT-ml_029-d1e2086-x2-roota4">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t2085-5</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <is_generated>1</is_generated>
+       <t_lemma>host</t_lemma>
+       <functor>PAT</functor>
+       <deepord>3</deepord>
+       <children>
+        <LM id="ml_029.06-SCzechT-m-d1t2091-10">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t2091-10</lex.rf>
+          <aux.rf>
+           <LM>a#ml_029.06-SCzechA-m-d1t2091-9</LM>
+          </aux.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>dvacet</t_lemma>
+         <functor>RSTR</functor>
+         <gram>
+          <sempos>n.quant.def</sempos>
+          <gender>nr</gender>
+          <number>pl</number>
+          <numertype>basic</numertype>
+         </gram>
+         <deepord>4</deepord>
+        </LM>
+       </children>
+      </LM>
+     </children>
+    </LM>
+   </children>
+  </LM>
+  <LM id="ml_029.06-SCzechT-ml_029-d1e2092-x2-root">
+   <atree.rf>a#ml_029.06-SCzechA-ml_029-d1e2092-x2-root</atree.rf>
+   <deepord>0</deepord>
+   <children>
+    <LM id="ml_029.06-SCzechT-m-d1t2095-4">
+     <a>
+      <lex.rf>a#ml_029.06-SCzechA-m-d1t2095-4</lex.rf>
+      <aux.rf>
+       <LM>a#ml_029.06-SCzechA-m-d1t2095-3</LM>
+      </aux.rf>
+     </a>
+     <nodetype>complex</nodetype>
+     <t_lemma>být</t_lemma>
+     <functor>PRED</functor>
+     <sentmod>enunc</sentmod>
+     <gram>
+      <sempos>v</sempos>
+      <deontmod>deb</deontmod>
+      <tense>ant</tense>
+      <aspect>proc</aspect>
+      <iterativeness>it0</iterativeness>
+      <negation>neg0</negation>
+     </gram>
+     <deepord>2</deepord>
+     <val_frame.rf>v#v-w243f6</val_frame.rf>
+     <children>
+      <LM id="ml_029.06-SCzechT-m-d1t2095-2">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t2095-2</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>tam</t_lemma>
+       <functor>LOC</functor>
+       <gram>
+        <sempos>adv.pron.def</sempos>
+       </gram>
+       <deepord>1</deepord>
+       <coref_text>
+        <LM>
+         <target_node.rf>ml_029.06-SCzechT-m-d1t2085-3</target_node.rf>
+         <type>SPEC</type>
+        </LM>
+       </coref_text>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t2095-5">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t2095-5</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>veselo</t_lemma>
+       <functor>MANN</functor>
+       <gram>
+        <sempos>adv.denot.grad.neg</sempos>
+        <degcmp>pos</degcmp>
+        <negation>neg0</negation>
+       </gram>
+       <deepord>3</deepord>
+      </LM>
+     </children>
+    </LM>
+   </children>
+  </LM>
+  <LM id="ml_029.06-SCzechT-ml_029-d1e2098-x2-root">
+   <atree.rf>a#ml_029.06-SCzechA-ml_029-d1e2098-x2-root</atree.rf>
+   <deepord>0</deepord>
+   <children>
+    <LM id="ml_029.06-SCzechT-ml_029-d1e2098-x2-roota1">
+     <a>
+      <lex.rf>a#ml_029.06-SCzechA-m-d-id122492-punct</lex.rf>
+     </a>
+     <nodetype>coap</nodetype>
+     <t_lemma>#Comma</t_lemma>
+     <functor>CONJ</functor>
+     <deepord>3</deepord>
+     <children>
+      <LM id="ml_029.06-SCzechT-m-d1t2101-3">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t2101-3</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>být</t_lemma>
+       <functor>PRED</functor>
+       <sentmod>enunc</sentmod>
+       <is_member>1</is_member>
+       <gram>
+        <sempos>v</sempos>
+        <deontmod>decl</deontmod>
+        <tense>ant</tense>
+        <aspect>proc</aspect>
+        <iterativeness>it0</iterativeness>
+        <negation>neg0</negation>
+       </gram>
+       <deepord>1</deepord>
+       <val_frame.rf>v#v-w243f6</val_frame.rf>
+       <children>
+        <LM id="ml_029.06-SCzechT-m-d1t2101-4">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t2101-4</lex.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>veselo</t_lemma>
+         <functor>MANN</functor>
+         <gram>
+          <sempos>n.denot</sempos>
+          <gender>neut</gender>
+          <number>sg</number>
+          <negation>neg0</negation>
+         </gram>
+         <deepord>2</deepord>
+        </LM>
+       </children>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t2101-7">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t2101-7</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>být</t_lemma>
+       <functor>PRED</functor>
+       <is_member>1</is_member>
+       <gram>
+        <sempos>v</sempos>
+        <deontmod>decl</deontmod>
+        <tense>ant</tense>
+        <aspect>proc</aspect>
+        <iterativeness>it0</iterativeness>
+        <negation>neg0</negation>
+       </gram>
+       <deepord>5</deepord>
+       <val_frame.rf>v#v-w243f6</val_frame.rf>
+       <children>
+        <LM id="ml_029.06-SCzechT-m-d1t2101-6">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t2101-6</lex.rf>
+         </a>
+         <nodetype>atom</nodetype>
+         <t_lemma>ten</t_lemma>
+         <functor>INTF</functor>
+         <deepord>4</deepord>
+        </LM>
+        <LM id="ml_029.06-SCzechT-ml_029-d1e2098-x2-roota2">
+         <nodetype>qcomplex</nodetype>
+         <is_generated>1</is_generated>
+         <t_lemma>#Oblfm</t_lemma>
+         <functor>MANN</functor>
+         <deepord>6</deepord>
+        </LM>
+       </children>
+      </LM>
+     </children>
+    </LM>
+   </children>
+  </LM>
+  <LM id="ml_029.06-SCzechT-ml_029-d1e2102-x2-root">
+   <atree.rf>a#ml_029.06-SCzechA-ml_029-d1e2102-x2-root</atree.rf>
+   <deepord>0</deepord>
+   <children>
+    <LM id="ml_029.06-SCzechT-m-d1t2105-2">
+     <a>
+      <lex.rf>a#ml_029.06-SCzechA-m-d1t2105-2</lex.rf>
+     </a>
+     <nodetype>complex</nodetype>
+     <t_lemma>dostat</t_lemma>
+     <functor>PRED</functor>
+     <sentmod>inter</sentmod>
+     <gram>
+      <sempos>v</sempos>
+      <deontmod>decl</deontmod>
+      <tense>ant</tense>
+      <aspect>cpl</aspect>
+      <iterativeness>it0</iterativeness>
+      <negation>neg0</negation>
+     </gram>
+     <deepord>2</deepord>
+     <val_frame.rf>v#v-w732f1</val_frame.rf>
+     <children>
+      <LM id="ml_029.06-SCzechT-m-d1t2105-2x3">
+       <nodetype>complex</nodetype>
+       <is_generated>1</is_generated>
+       <t_lemma>#PersPron</t_lemma>
+       <functor>ACT</functor>
+       <gram>
+        <sempos>n.pron.def.pers</sempos>
+       </gram>
+       <deepord>1</deepord>
+       <coref_text>
+        <LM>
+         <target_node.rf>ml_029.06-SCzechT-m-d1t2042-5</target_node.rf>
+         <type>SPEC</type>
+        </LM>
+       </coref_text>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t2105-4">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t2105-4</lex.rf>
+        <aux.rf>
+         <LM>a#ml_029.06-SCzechA-m-d1t2105-3</LM>
+        </aux.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>dárek</t_lemma>
+       <functor>PAT</functor>
+       <gram>
+        <sempos>n.denot</sempos>
+        <gender>inan</gender>
+        <number>pl</number>
+        <negation>neg0</negation>
+       </gram>
+       <deepord>3</deepord>
+       <children>
+        <LM id="ml_029.06-SCzechT-m-d1t2105-1">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t2105-1</lex.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>co</t_lemma>
+         <functor>RSTR</functor>
+         <gram>
+          <sempos>n.pron.indef</sempos>
+          <gender>neut</gender>
+          <number>sg</number>
+          <indeftype>inter</indeftype>
+          <person>3</person>
+         </gram>
+         <deepord>4</deepord>
+        </LM>
+       </children>
+      </LM>
+     </children>
+    </LM>
+   </children>
+  </LM>
+  <LM id="ml_029.06-SCzechT-ml_029-d1e2106-x2-root">
+   <atree.rf>a#ml_029.06-SCzechA-ml_029-d1e2106-x2-root</atree.rf>
+   <deepord>0</deepord>
+   <children>
+    <LM id="ml_029.06-SCzechT-ml_029-d1e2106-x2-roota1">
+     <a>
+      <lex.rf>a#ml_029.06-SCzechA-m-d-id122779-punct</lex.rf>
+     </a>
+     <nodetype>coap</nodetype>
+     <t_lemma>#Comma</t_lemma>
+     <functor>CONJ</functor>
+     <deepord>5</deepord>
+     <children>
+      <LM id="ml_029.06-SCzechT-m-d1t2109-2x3">
+       <nodetype>complex</nodetype>
+       <is_generated>1</is_generated>
+       <t_lemma>#PersPron</t_lemma>
+       <functor>ACT</functor>
+       <gram>
+        <sempos>n.pron.def.pers</sempos>
+       </gram>
+       <deepord>1</deepord>
+       <coref_text>
+        <LM>
+         <target_node.rf>ml_029.06-SCzechT-m-d1t2105-2x3</target_node.rf>
+         <type>SPEC</type>
+        </LM>
+       </coref_text>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t2109-2">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t2109-2</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>dostat</t_lemma>
+       <functor>PRED</functor>
+       <sentmod>enunc</sentmod>
+       <is_member>1</is_member>
+       <gram>
+        <sempos>v</sempos>
+        <deontmod>decl</deontmod>
+        <tense>ant</tense>
+        <aspect>cpl</aspect>
+        <iterativeness>it0</iterativeness>
+        <negation>neg0</negation>
+       </gram>
+       <deepord>2</deepord>
+       <val_frame.rf>v#v-w732f1</val_frame.rf>
+       <children>
+        <LM id="ml_029.06-SCzechT-m-d1t2109-3">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t2109-3</lex.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>ten</t_lemma>
+         <functor>PAT</functor>
+         <gram>
+          <sempos>n.pron.def.demon</sempos>
+          <gender>nr</gender>
+          <number>sg</number>
+         </gram>
+         <deepord>3</deepord>
+         <children>
+          <LM id="ml_029.06-SCzechT-m-d1t2109-4">
+           <a>
+            <lex.rf>a#ml_029.06-SCzechA-m-d1t2109-4</lex.rf>
+           </a>
+           <nodetype>complex</nodetype>
+           <t_lemma>mnoho</t_lemma>
+           <functor>RSTR</functor>
+           <gram>
+            <sempos>adj.quant.grad</sempos>
+            <degcmp>pos</degcmp>
+            <numertype>basic</numertype>
+           </gram>
+           <deepord>4</deepord>
+          </LM>
+         </children>
+        </LM>
+       </children>
+      </LM>
+      <LM id="ml_029.06-SCzechT-ml_029-d1e2106-x2-roota2">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t2109-2</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <is_generated>1</is_generated>
+       <t_lemma>dostat</t_lemma>
+       <functor>PRED</functor>
+       <is_member>1</is_member>
+       <gram>
+        <sempos>v</sempos>
+       </gram>
+       <deepord>6</deepord>
+       <val_frame.rf>v#v-w732f1</val_frame.rf>
+       <children>
+        <LM id="ml_029.06-SCzechT-ml_029-d1e2106-x2-roota3">
+         <nodetype>complex</nodetype>
+         <is_generated>1</is_generated>
+         <t_lemma>#PersPron</t_lemma>
+         <functor>PAT</functor>
+         <gram>
+          <sempos>n.pron.def.pers</sempos>
+         </gram>
+         <deepord>7</deepord>
+         <coref_text>
+          <LM>
+           <target_node.rf>ml_029.06-SCzechT-m-d1t2109-3</target_node.rf>
+           <type>SPEC</type>
+          </LM>
+         </coref_text>
+        </LM>
+       </children>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t2109-10">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t2109-10</lex.rf>
+        <aux.rf>
+         <LM>a#ml_029.06-SCzechA-m-d1t2109-6</LM>
+        </aux.rf>
+       </a>
+       <nodetype>coap</nodetype>
+       <t_lemma>jak_tak</t_lemma>
+       <functor>CONJ</functor>
+       <deepord>9</deepord>
+       <children>
+        <LM id="ml_029.06-SCzechT-m-d1t2109-8">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t2109-8</lex.rf>
+          <aux.rf>
+           <LM>a#ml_029.06-SCzechA-m-d1t2109-7</LM>
+          </aux.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>dítě</t_lemma>
+         <functor>ORIG</functor>
+         <is_member>1</is_member>
+         <gram>
+          <sempos>n.denot</sempos>
+          <gender>fem</gender>
+          <number>pl</number>
+          <negation>neg0</negation>
+         </gram>
+         <deepord>8</deepord>
+        </LM>
+        <LM id="ml_029.06-SCzechT-m-d1t2109-12">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t2109-12</lex.rf>
+          <aux.rf>
+           <LM>a#ml_029.06-SCzechA-m-d1t2109-11</LM>
+          </aux.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>#PersPron</t_lemma>
+         <functor>ORIG</functor>
+         <is_member>1</is_member>
+         <gram>
+          <sempos>n.pron.def.pers</sempos>
+          <gender>nr</gender>
+          <number>sg</number>
+          <person>1</person>
+          <politeness>basic</politeness>
+         </gram>
+         <deepord>10</deepord>
+         <coref_text>
+          <LM>
+           <target_node.rf>ml_029.06-SCzechT-ml_029-d1e2086-x2-roota2</target_node.rf>
+           <type>SPEC</type>
+          </LM>
+         </coref_text>
+        </LM>
+       </children>
+      </LM>
+     </children>
+    </LM>
+   </children>
+  </LM>
+  <LM id="ml_029.06-SCzechT-ml_029-42-root">
+   <atree.rf>a#ml_029.06-SCzechA-ml_029-42-root</atree.rf>
+   <deepord>0</deepord>
+   <children>
+    <LM id="ml_029.06-SCzechT-m-d1t2113-2">
+     <a>
+      <lex.rf>a#ml_029.06-SCzechA-m-d1t2113-2</lex.rf>
+     </a>
+     <nodetype>complex</nodetype>
+     <t_lemma>vidět</t_lemma>
+     <functor>PRED</functor>
+     <sentmod>enunc</sentmod>
+     <gram>
+      <sempos>v</sempos>
+      <deontmod>decl</deontmod>
+      <tense>sim</tense>
+      <aspect>proc</aspect>
+      <iterativeness>it0</iterativeness>
+      <negation>neg0</negation>
+     </gram>
+     <deepord>3</deepord>
+     <val_frame.rf>v#v-w7612f1</val_frame.rf>
+     <children>
+      <LM id="ml_029.06-SCzechT-m-d1t2113-1">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t2113-1</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>tady</t_lemma>
+       <functor>LOC</functor>
+       <gram>
+        <sempos>adv.pron.def</sempos>
+       </gram>
+       <deepord>1</deepord>
+       <coref_special>exoph</coref_special>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t2113-2x3">
+       <nodetype>complex</nodetype>
+       <is_generated>1</is_generated>
+       <t_lemma>#PersPron</t_lemma>
+       <functor>ACT</functor>
+       <gram>
+        <sempos>n.pron.def.pers</sempos>
+       </gram>
+       <deepord>2</deepord>
+       <coref_text>
+        <LM>
+         <target_node.rf>ml_029.06-SCzechT-m-d1t2012-3</target_node.rf>
+         <type>SPEC</type>
+        </LM>
+       </coref_text>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t2113-4">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t2113-4</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>65</t_lemma>
+       <functor>PAT</functor>
+       <gram>
+        <sempos>n.quant.def</sempos>
+        <gender>nr</gender>
+        <number>pl</number>
+        <numertype>basic</numertype>
+       </gram>
+       <deepord>4</deepord>
+       <coref_text>
+        <LM>
+         <target_node.rf>ml_029.06-SCzechT-m-d1t2046-2</target_node.rf>
+         <type>SPEC</type>
+        </LM>
+       </coref_text>
+       <children>
+        <LM id="ml_029.06-SCzechT-m-d1t2113-3">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t2113-3</lex.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>ten</t_lemma>
+         <functor>RSTR</functor>
+         <gram>
+          <sempos>n.pron.def.demon</sempos>
+          <gender>nr</gender>
+          <number>pl</number>
+         </gram>
+         <deepord>5</deepord>
+        </LM>
+       </children>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t2113-17">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t2113-17</lex.rf>
+        <aux.rf>
+         <LM>a#ml_029.06-SCzechA-m-d1t2113-14</LM>
+         <LM>a#ml_029.06-SCzechA-m-d1t2113-13</LM>
+        </aux.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>napsat</t_lemma>
+       <functor>COMPL</functor>
+       <gram>
+        <sempos>v</sempos>
+        <deontmod>decl</deontmod>
+        <tense>sim</tense>
+        <aspect>cpl</aspect>
+        <iterativeness>it0</iterativeness>
+        <negation>neg0</negation>
+       </gram>
+       <deepord>7</deepord>
+       <compl.rf>
+        <LM>ml_029.06-SCzechT-m-d1t2113-4</LM>
+       </compl.rf>
+       <val_frame.rf>v#v-w2163f4</val_frame.rf>
+       <children>
+        <LM id="ml_029.06-SCzechT-m-d1t2113-17x3">
+         <nodetype>complex</nodetype>
+         <is_generated>1</is_generated>
+         <t_lemma>#PersPron</t_lemma>
+         <functor>ACT</functor>
+         <gram>
+          <sempos>n.pron.def.pers</sempos>
+         </gram>
+         <deepord>6</deepord>
+         <coref_special>exoph</coref_special>
+        </LM>
+        <LM id="ml_029.06-SCzechT-ml_029-42-roota1">
+         <nodetype>qcomplex</nodetype>
+         <is_generated>1</is_generated>
+         <t_lemma>#Cor</t_lemma>
+         <functor>PAT</functor>
+         <deepord>8</deepord>
+         <coref_gram.rf>
+          <LM>ml_029.06-SCzechT-m-d1t2113-4</LM>
+         </coref_gram.rf>
+        </LM>
+        <LM id="ml_029.06-SCzechT-m-d1t2113-11">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t2113-11</lex.rf>
+          <aux.rf>
+           <LM>a#ml_029.06-SCzechA-m-d1t2113-9</LM>
+          </aux.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>dort</t_lemma>
+         <functor>LOC</functor>
+         <gram>
+          <sempos>n.denot</sempos>
+          <gender>inan</gender>
+          <number>pl</number>
+          <negation>neg0</negation>
+         </gram>
+         <deepord>9</deepord>
+        </LM>
+       </children>
+      </LM>
+     </children>
+    </LM>
+   </children>
+  </LM>
+  <LM id="ml_029.06-SCzechT-ml_029-d1e2116-x3-root">
+   <atree.rf>a#ml_029.06-SCzechA-ml_029-d1e2116-x3-root</atree.rf>
+   <deepord>0</deepord>
+   <children>
+    <LM id="ml_029.06-SCzechT-m-d1t2125-3">
+     <a>
+      <lex.rf>a#ml_029.06-SCzechA-m-d1t2125-3</lex.rf>
+     </a>
+     <nodetype>complex</nodetype>
+     <t_lemma>být</t_lemma>
+     <functor>PRED</functor>
+     <sentmod>enunc</sentmod>
+     <gram>
+      <sempos>v</sempos>
+      <deontmod>decl</deontmod>
+      <tense>sim</tense>
+      <aspect>proc</aspect>
+      <iterativeness>it0</iterativeness>
+      <negation>neg0</negation>
+     </gram>
+     <deepord>2</deepord>
+     <val_frame.rf>v#v-w243f80_ZU</val_frame.rf>
+     <children>
+      <LM id="ml_029.06-SCzechT-m-d1t2125-4">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t2125-4</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>ten</t_lemma>
+       <functor>ACT</functor>
+       <gram>
+        <sempos>n.pron.def.demon</sempos>
+        <gender>neut</gender>
+        <number>sg</number>
+       </gram>
+       <deepord>1</deepord>
+       <coref_text>
+        <LM>
+         <target_node.rf>ml_029.06-SCzechT-ml_029-d1e2061-x2-roota2</target_node.rf>
+         <type>SPEC</type>
+        </LM>
+       </coref_text>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t2125-5">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t2125-5</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>výročí</t_lemma>
+       <functor>PAT</functor>
+       <gram>
+        <sempos>n.denot</sempos>
+        <gender>neut</gender>
+        <number>sg</number>
+        <negation>neg0</negation>
+       </gram>
+       <deepord>3</deepord>
+      </LM>
+     </children>
+    </LM>
+   </children>
+  </LM>
+  <LM id="ml_029.06-SCzechT-ml_029-d1e2126-x2-root">
+   <atree.rf>a#ml_029.06-SCzechA-ml_029-d1e2126-x2-root</atree.rf>
+   <deepord>0</deepord>
+   <children>
+    <LM id="ml_029.06-SCzechT-m-d1t2129-3">
+     <a>
+      <lex.rf>a#ml_029.06-SCzechA-m-d1t2129-3</lex.rf>
+     </a>
+     <nodetype>complex</nodetype>
+     <t_lemma>mít</t_lemma>
+     <functor>PRED</functor>
+     <sentmod>inter</sentmod>
+     <gram>
+      <sempos>v</sempos>
+      <deontmod>decl</deontmod>
+      <tense>ant</tense>
+      <aspect>proc</aspect>
+      <iterativeness>it0</iterativeness>
+      <negation>neg0</negation>
+     </gram>
+     <deepord>3</deepord>
+     <val_frame.rf>v#v-w1855f157_ZU</val_frame.rf>
+     <children>
+      <LM id="ml_029.06-SCzechT-m-d1t2129-3x3">
+       <nodetype>complex</nodetype>
+       <is_generated>1</is_generated>
+       <t_lemma>#PersPron</t_lemma>
+       <functor>ACT</functor>
+       <gram>
+        <sempos>n.pron.def.pers</sempos>
+       </gram>
+       <deepord>2</deepord>
+       <coref_text>
+        <LM>
+         <target_node.rf>ml_029.06-SCzechT-m-d1t2109-2x3</target_node.rf>
+         <type>SPEC</type>
+        </LM>
+       </coref_text>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t2129-5">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t2129-5</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>radost</t_lemma>
+       <functor>CPHR</functor>
+       <gram>
+        <sempos>n.denot</sempos>
+        <gender>fem</gender>
+        <number>sg</number>
+        <negation>neg0</negation>
+       </gram>
+       <deepord>5</deepord>
+       <children>
+        <LM id="ml_029.06-SCzechT-m-d1t2129-2">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t2129-2</lex.rf>
+          <aux.rf>
+           <LM>a#ml_029.06-SCzechA-m-d1t2129-1</LM>
+          </aux.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>co</t_lemma>
+         <functor>RSTR</functor>
+         <gram>
+          <sempos>n.pron.indef</sempos>
+          <gender>neut</gender>
+          <number>sg</number>
+          <indeftype>inter</indeftype>
+          <person>3</person>
+         </gram>
+         <deepord>1</deepord>
+        </LM>
+        <LM id="ml_029.06-SCzechT-m-d1t2129-4">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t2129-4</lex.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>velký</t_lemma>
+         <functor>RSTR</functor>
+         <gram>
+          <sempos>adj.denot</sempos>
+          <degcmp>sup</degcmp>
+          <negation>neg0</negation>
+         </gram>
+         <deepord>4</deepord>
+        </LM>
+       </children>
+      </LM>
+     </children>
+    </LM>
+   </children>
+  </LM>
+  <LM id="ml_029.06-SCzechT-ml_029-d1e2130-x2-root">
+   <atree.rf>a#ml_029.06-SCzechA-ml_029-d1e2130-x2-root</atree.rf>
+   <deepord>0</deepord>
+   <children>
+    <LM id="ml_029.06-SCzechT-m-d1t2137-1">
+     <a>
+      <lex.rf>a#ml_029.06-SCzechA-m-d1t2137-1</lex.rf>
+     </a>
+     <nodetype>complex</nodetype>
+     <t_lemma>mít</t_lemma>
+     <functor>PRED</functor>
+     <sentmod>enunc</sentmod>
+     <gram>
+      <sempos>v</sempos>
+      <deontmod>decl</deontmod>
+      <tense>ant</tense>
+      <aspect>proc</aspect>
+      <iterativeness>it0</iterativeness>
+      <negation>neg0</negation>
+     </gram>
+     <deepord>3</deepord>
+     <val_frame.rf>v#v-w1855f157_ZU</val_frame.rf>
+     <children>
+      <LM id="ml_029.06-SCzechT-m-d1t2135-5">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t2135-5</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>radost</t_lemma>
+       <functor>CPHR</functor>
+       <gram>
+        <sempos>n.denot</sempos>
+        <gender>fem</gender>
+        <number>sg</number>
+        <negation>neg0</negation>
+       </gram>
+       <deepord>2</deepord>
+       <children>
+        <LM id="ml_029.06-SCzechT-m-d1t2135-4">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t2135-4</lex.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>velký</t_lemma>
+         <functor>RSTR</functor>
+         <gram>
+          <sempos>adj.denot</sempos>
+          <degcmp>sup</degcmp>
+          <negation>neg0</negation>
+         </gram>
+         <deepord>1</deepord>
+        </LM>
+        <LM id="ml_029.06-SCzechT-m-d1t2137-5">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t2137-5</lex.rf>
+         </a>
+         <nodetype>coap</nodetype>
+         <t_lemma>a</t_lemma>
+         <functor>CONJ</functor>
+         <deepord>7</deepord>
+         <children>
+          <LM id="ml_029.06-SCzechT-m-d1t2137-3">
+           <a>
+            <lex.rf>a#ml_029.06-SCzechA-m-d1t2137-3</lex.rf>
+           </a>
+           <nodetype>complex</nodetype>
+           <t_lemma>#PersPron</t_lemma>
+           <functor>RSTR</functor>
+           <gram>
+            <sempos>n.pron.def.pers</sempos>
+            <gender>nr</gender>
+            <number>pl</number>
+            <person>1</person>
+            <politeness>basic</politeness>
+           </gram>
+           <deepord>5</deepord>
+           <coref_text>
+            <LM>
+             <target_node.rf>ml_029.06-SCzechT-m-d1t2077-4</target_node.rf>
+             <type>SPEC</type>
+            </LM>
+           </coref_text>
+          </LM>
+          <LM id="ml_029.06-SCzechT-m-d1t2137-4">
+           <a>
+            <lex.rf>a#ml_029.06-SCzechA-m-d1t2137-4</lex.rf>
+            <aux.rf>
+             <LM>a#ml_029.06-SCzechA-m-d1t2137-2</LM>
+            </aux.rf>
+           </a>
+           <nodetype>complex</nodetype>
+           <t_lemma>dítě</t_lemma>
+           <functor>RSTR</functor>
+           <is_member>1</is_member>
+           <gram>
+            <sempos>n.denot</sempos>
+            <gender>fem</gender>
+            <number>pl</number>
+            <negation>neg0</negation>
+           </gram>
+           <deepord>6</deepord>
+           <coref_text>
+            <LM>
+             <target_node.rf>ml_029.06-SCzechT-m-d1t2109-8</target_node.rf>
+             <type>SPEC</type>
+            </LM>
+           </coref_text>
+          </LM>
+          <LM id="ml_029.06-SCzechT-m-d1t2137-6">
+           <a>
+            <lex.rf>a#ml_029.06-SCzechA-m-d1t2137-6</lex.rf>
+            <aux.rf>
+             <LM>a#ml_029.06-SCzechA-m-d1t2137-2</LM>
+            </aux.rf>
+           </a>
+           <nodetype>complex</nodetype>
+           <t_lemma>vnouče</t_lemma>
+           <functor>RSTR</functor>
+           <is_member>1</is_member>
+           <gram>
+            <sempos>n.denot</sempos>
+            <gender>neut</gender>
+            <number>pl</number>
+            <negation>neg0</negation>
+           </gram>
+           <deepord>8</deepord>
+          </LM>
+         </children>
+        </LM>
+       </children>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t2137-1x3">
+       <nodetype>complex</nodetype>
+       <is_generated>1</is_generated>
+       <t_lemma>#PersPron</t_lemma>
+       <functor>ACT</functor>
+       <gram>
+        <sempos>n.pron.def.pers</sempos>
+       </gram>
+       <deepord>4</deepord>
+       <coref_text>
+        <LM>
+         <target_node.rf>ml_029.06-SCzechT-m-d1t2129-3x3</target_node.rf>
+         <type>SPEC</type>
+        </LM>
+       </coref_text>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t2137-9">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t2137-9</lex.rf>
+        <aux.rf>
+         <LM>a#ml_029.06-SCzechA-m-d1t2137-8</LM>
+        </aux.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>být</t_lemma>
+       <functor>CAUS</functor>
+       <gram>
+        <sempos>v</sempos>
+        <deontmod>decl</deontmod>
+        <tense>ant</tense>
+        <aspect>proc</aspect>
+        <iterativeness>it0</iterativeness>
+        <negation>neg0</negation>
+       </gram>
+       <deepord>10</deepord>
+       <val_frame.rf>v#v-w243f80_ZU</val_frame.rf>
+       <children>
+        <LM id="ml_029.06-SCzechT-m-d1t2137-9x3">
+         <nodetype>complex</nodetype>
+         <is_generated>1</is_generated>
+         <t_lemma>#PersPron</t_lemma>
+         <functor>ACT</functor>
+         <gram>
+          <sempos>n.pron.def.pers</sempos>
+         </gram>
+         <deepord>9</deepord>
+         <coref_text>
+          <LM>
+           <target_node.rf>ml_029.06-SCzechT-m-d1t2137-5</target_node.rf>
+           <type>SPEC</type>
+          </LM>
+         </coref_text>
+        </LM>
+        <LM id="ml_029.06-SCzechT-m-d1t2137-10">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t2137-10</lex.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>zdravý</t_lemma>
+         <functor>PAT</functor>
+         <gram>
+          <sempos>adj.denot</sempos>
+          <degcmp>pos</degcmp>
+          <negation>neg0</negation>
+         </gram>
+         <deepord>11</deepord>
+        </LM>
+       </children>
+      </LM>
+     </children>
+    </LM>
+   </children>
+  </LM>
+  <LM id="ml_029.06-SCzechT-ml_029-48-root">
+   <atree.rf>a#ml_029.06-SCzechA-ml_029-48-root</atree.rf>
+   <deepord>0</deepord>
+   <children>
+    <LM id="ml_029.06-SCzechT-m-d1t2137-14">
+     <a>
+      <lex.rf>a#ml_029.06-SCzechA-m-d1t2137-14</lex.rf>
+     </a>
+     <nodetype>complex</nodetype>
+     <t_lemma>mít</t_lemma>
+     <functor>PRED</functor>
+     <sentmod>enunc</sentmod>
+     <gram>
+      <sempos>v</sempos>
+      <deontmod>decl</deontmod>
+      <tense>ant</tense>
+      <aspect>proc</aspect>
+      <iterativeness>it0</iterativeness>
+      <negation>neg0</negation>
+     </gram>
+     <deepord>2</deepord>
+     <val_frame.rf>v#v-w1855f157_ZU</val_frame.rf>
+     <children>
+      <LM id="ml_029.06-SCzechT-m-d1t2137-14x3">
+       <nodetype>complex</nodetype>
+       <is_generated>1</is_generated>
+       <t_lemma>#PersPron</t_lemma>
+       <functor>ACT</functor>
+       <gram>
+        <sempos>n.pron.def.pers</sempos>
+       </gram>
+       <deepord>1</deepord>
+       <coref_text>
+        <LM>
+         <target_node.rf>ml_029.06-SCzechT-m-d1t2137-1x3</target_node.rf>
+         <type>SPEC</type>
+        </LM>
+       </coref_text>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t2137-16">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t2137-16</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>radost</t_lemma>
+       <functor>CPHR</functor>
+       <gram>
+        <sempos>n.denot</sempos>
+        <gender>fem</gender>
+        <number>sg</number>
+        <negation>neg0</negation>
+       </gram>
+       <deepord>4</deepord>
+       <children>
+        <LM id="ml_029.06-SCzechT-m-d1t2137-15">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t2137-15</lex.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>velký</t_lemma>
+         <functor>RSTR</functor>
+         <gram>
+          <sempos>adj.denot</sempos>
+          <degcmp>sup</degcmp>
+          <negation>neg0</negation>
+         </gram>
+         <deepord>3</deepord>
+        </LM>
+        <LM id="ml_029.06-SCzechT-ml_029-48-roota1">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-48-55</lex.rf>
+         </a>
+         <nodetype>coap</nodetype>
+         <t_lemma>#Comma</t_lemma>
+         <functor>APPS</functor>
+         <deepord>8</deepord>
+         <children>
+          <LM id="ml_029.06-SCzechT-m-d1t2137-22">
+           <a>
+            <lex.rf>a#ml_029.06-SCzechA-m-d1t2137-22</lex.rf>
+            <aux.rf>
+             <LM>a#ml_029.06-SCzechA-m-d1t2137-19</LM>
+             <LM>a#ml_029.06-SCzechA-m-d1t2137-12</LM>
+             <LM>a#ml_029.06-SCzechA-m-d1t2137-13</LM>
+            </aux.rf>
+           </a>
+           <nodetype>complex</nodetype>
+           <t_lemma>přijít</t_lemma>
+           <functor>RSTR</functor>
+           <is_member>1</is_member>
+           <gram>
+            <sempos>v</sempos>
+            <deontmod>decl</deontmod>
+            <tense>ant</tense>
+            <aspect>cpl</aspect>
+            <iterativeness>it0</iterativeness>
+            <negation>neg0</negation>
+           </gram>
+           <deepord>6</deepord>
+           <val_frame.rf>v#v-w5158f1</val_frame.rf>
+           <children>
+            <LM id="ml_029.06-SCzechT-m-d1t2137-20">
+             <a>
+              <lex.rf>a#ml_029.06-SCzechA-m-d1t2137-20</lex.rf>
+             </a>
+             <nodetype>complex</nodetype>
+             <t_lemma>tam</t_lemma>
+             <functor>DIR3</functor>
+             <gram>
+              <sempos>adv.pron.def</sempos>
+             </gram>
+             <deepord>5</deepord>
+             <coref_text>
+              <LM>
+               <target_node.rf>ml_029.06-SCzechT-m-d1t2095-2</target_node.rf>
+               <type>SPEC</type>
+              </LM>
+             </coref_text>
+            </LM>
+            <LM id="ml_029.06-SCzechT-m-d1t2137-21">
+             <a>
+              <lex.rf>a#ml_029.06-SCzechA-m-d1t2137-21</lex.rf>
+             </a>
+             <nodetype>complex</nodetype>
+             <t_lemma>všechen</t_lemma>
+             <functor>ACT</functor>
+             <gram>
+              <sempos>n.pron.indef</sempos>
+              <gender>anim</gender>
+              <number>pl</number>
+              <indeftype>total1</indeftype>
+              <person>3</person>
+             </gram>
+             <deepord>7</deepord>
+             <coref_text>
+              <LM>
+               <target_node.rf>ml_029.06-SCzechT-m-d1t2137-9x3</target_node.rf>
+               <type>SPEC</type>
+              </LM>
+             </coref_text>
+            </LM>
+           </children>
+          </LM>
+          <LM id="ml_029.06-SCzechT-m-d1t2144-2">
+           <a>
+            <lex.rf>a#ml_029.06-SCzechA-m-d1t2144-2</lex.rf>
+            <aux.rf>
+             <LM>a#ml_029.06-SCzechA-m-d1t2144-1</LM>
+            </aux.rf>
+           </a>
+           <nodetype>complex</nodetype>
+           <t_lemma>návštěva</t_lemma>
+           <functor>RSTR</functor>
+           <is_member>1</is_member>
+           <gram>
+            <sempos>n.denot</sempos>
+            <gender>fem</gender>
+            <number>sg</number>
+            <negation>neg0</negation>
+           </gram>
+           <deepord>9</deepord>
+          </LM>
+         </children>
+        </LM>
+       </children>
+      </LM>
+     </children>
+    </LM>
+   </children>
+  </LM>
+  <LM id="ml_029.06-SCzechT-ml_029-d1e2139-x3-root">
+   <atree.rf>a#ml_029.06-SCzechA-ml_029-d1e2139-x3-root</atree.rf>
+   <deepord>0</deepord>
+   <children>
+    <LM id="ml_029.06-SCzechT-m-d1t2146-1">
+     <a>
+      <lex.rf>a#ml_029.06-SCzechA-m-d1t2146-1</lex.rf>
+      <aux.rf>
+       <LM>a#ml_029.06-SCzechA-m-d1t2146-2</LM>
+      </aux.rf>
+     </a>
+     <nodetype>complex</nodetype>
+     <t_lemma>sejít_se</t_lemma>
+     <functor>PRED</functor>
+     <sentmod>inter</sentmod>
+     <gram>
+      <sempos>v</sempos>
+      <deontmod>decl</deontmod>
+      <tense>ant</tense>
+      <aspect>cpl</aspect>
+      <iterativeness>it0</iterativeness>
+      <negation>neg0</negation>
+     </gram>
+     <deepord>1</deepord>
+     <val_frame.rf>v#v-w5953f1</val_frame.rf>
+     <children>
+      <LM id="ml_029.06-SCzechT-ml_029-d1e2139-x3-roota1">
+       <nodetype>qcomplex</nodetype>
+       <is_generated>1</is_generated>
+       <t_lemma>#Rcp</t_lemma>
+       <functor>PAT</functor>
+       <deepord>2</deepord>
+       <coref_gram.rf>
+        <LM>ml_029.06-SCzechT-m-d1t2146-4</LM>
+       </coref_gram.rf>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t2146-4">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t2146-4</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>rodina</t_lemma>
+       <functor>ACT</functor>
+       <gram>
+        <sempos>n.denot</sempos>
+        <gender>fem</gender>
+        <number>sg</number>
+        <negation>neg0</negation>
+       </gram>
+       <deepord>4</deepord>
+       <bridging>
+        <LM>
+         <target_node.rf>ml_029.06-SCzechT-m-d1t2137-21</target_node.rf>
+         <type>SUB_SET</type>
+        </LM>
+        <LM>
+         <target_node.rf>ml_029.06-SCzechT-m-d1t2137-3</target_node.rf>
+         <type>SUB_SET</type>
+        </LM>
+       </bridging>
+       <children>
+        <LM id="ml_029.06-SCzechT-m-d1t2146-3">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t2146-3</lex.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>celý</t_lemma>
+         <functor>RSTR</functor>
+         <gram>
+          <sempos>adj.denot</sempos>
+          <degcmp>pos</degcmp>
+          <negation>neg0</negation>
+         </gram>
+         <deepord>3</deepord>
+        </LM>
+       </children>
+      </LM>
+     </children>
+    </LM>
+   </children>
+  </LM>
+  <LM id="ml_029.06-SCzechT-ml_029-d1e2147-x2-root">
+   <atree.rf>a#ml_029.06-SCzechA-ml_029-d1e2147-x2-root</atree.rf>
+   <deepord>0</deepord>
+   <children>
+    <LM id="ml_029.06-SCzechT-m-d1t2150-4">
+     <a>
+      <lex.rf>a#ml_029.06-SCzechA-m-d1t2150-4</lex.rf>
+      <aux.rf>
+       <LM>a#ml_029.06-SCzechA-m-d1t2150-2</LM>
+       <LM>a#ml_029.06-SCzechA-m-d1t2150-3</LM>
+      </aux.rf>
+     </a>
+     <nodetype>complex</nodetype>
+     <t_lemma>sejít_se</t_lemma>
+     <functor>PRED</functor>
+     <sentmod>enunc</sentmod>
+     <gram>
+      <sempos>v</sempos>
+      <deontmod>decl</deontmod>
+      <tense>ant</tense>
+      <aspect>cpl</aspect>
+      <iterativeness>it0</iterativeness>
+      <negation>neg0</negation>
+     </gram>
+     <deepord>3</deepord>
+     <val_frame.rf>v#v-w5953f1</val_frame.rf>
+     <children>
+      <LM id="ml_029.06-SCzechT-m-d1t2150-6">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t2150-6</lex.rf>
+       </a>
+       <nodetype>atom</nodetype>
+       <t_lemma>ano</t_lemma>
+       <functor>PARTL</functor>
+       <deepord>1</deepord>
+      </LM>
+      <LM id="ml_029.06-SCzechT-ml_029-d1e2147-x2-roota1">
+       <nodetype>qcomplex</nodetype>
+       <is_generated>1</is_generated>
+       <t_lemma>#Rcp</t_lemma>
+       <functor>PAT</functor>
+       <deepord>2</deepord>
+       <coref_gram.rf>
+        <LM>ml_029.06-SCzechT-ml_029-d1e2147-x2-roota2</LM>
+       </coref_gram.rf>
+      </LM>
+      <LM id="ml_029.06-SCzechT-ml_029-d1e2147-x2-roota2">
+       <nodetype>complex</nodetype>
+       <is_generated>1</is_generated>
+       <t_lemma>#PersPron</t_lemma>
+       <functor>ACT</functor>
+       <gram>
+        <sempos>n.pron.def.pers</sempos>
+       </gram>
+       <deepord>4</deepord>
+       <coref_text>
+        <LM>
+         <target_node.rf>ml_029.06-SCzechT-m-d1t2146-4</target_node.rf>
+         <type>SPEC</type>
+        </LM>
+       </coref_text>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t2150-1">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t2150-1</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>všechen</t_lemma>
+       <functor>COMPL</functor>
+       <gram>
+        <sempos>n.pron.indef</sempos>
+        <gender>anim</gender>
+        <number>pl</number>
+        <indeftype>total1</indeftype>
+        <person>3</person>
+       </gram>
+       <deepord>5</deepord>
+       <compl.rf>
+        <LM>ml_029.06-SCzechT-ml_029-d1e2147-x2-roota2</LM>
+       </compl.rf>
+      </LM>
+     </children>
+    </LM>
+   </children>
+  </LM>
+  <LM id="ml_029.06-SCzechT-ml_029-d1e2153-x2-root">
+   <atree.rf>a#ml_029.06-SCzechA-ml_029-d1e2153-x2-root</atree.rf>
+   <deepord>0</deepord>
+   <children>
+    <LM id="ml_029.06-SCzechT-m-d1t2156-2">
+     <a>
+      <lex.rf>a#ml_029.06-SCzechA-m-d1t2156-2</lex.rf>
+     </a>
+     <nodetype>complex</nodetype>
+     <t_lemma>být</t_lemma>
+     <functor>PRED</functor>
+     <sentmod>enunc</sentmod>
+     <gram>
+      <sempos>v</sempos>
+      <deontmod>decl</deontmod>
+      <tense>sim</tense>
+      <aspect>proc</aspect>
+      <iterativeness>it0</iterativeness>
+      <negation>neg0</negation>
+     </gram>
+     <deepord>2</deepord>
+     <val_frame.rf>v#v-w243f80_ZU</val_frame.rf>
+     <children>
+      <LM id="ml_029.06-SCzechT-m-d1t2156-1">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t2156-1</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>ten</t_lemma>
+       <functor>ACT</functor>
+       <gram>
+        <sempos>n.pron.def.demon</sempos>
+        <gender>neut</gender>
+        <number>sg</number>
+       </gram>
+       <deepord>1</deepord>
+       <coref_special>segm</coref_special>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t2156-3">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t2156-3</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>pěkný</t_lemma>
+       <functor>PAT</functor>
+       <gram>
+        <sempos>adj.denot</sempos>
+        <degcmp>pos</degcmp>
+        <negation>neg0</negation>
+       </gram>
+       <deepord>3</deepord>
+      </LM>
+     </children>
+    </LM>
+   </children>
+  </LM>
+  <LM id="ml_029.06-SCzechT-ml_029-d1e2157-x2-root">
+   <atree.rf>a#ml_029.06-SCzechA-ml_029-d1e2157-x2-root</atree.rf>
+   <deepord>0</deepord>
+   <children>
+    <LM id="ml_029.06-SCzechT-ml_029-d1e2157-x2-roota1">
+     <a>
+      <lex.rf>a#ml_029.06-SCzechA-m-d1t2160-17</lex.rf>
+     </a>
+     <nodetype>coap</nodetype>
+     <t_lemma>takže</t_lemma>
+     <functor>CSQ</functor>
+     <deepord>10</deepord>
+     <children>
+      <LM id="ml_029.06-SCzechT-m-d1t2160-10">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t2160-10</lex.rf>
+       </a>
+       <nodetype>coap</nodetype>
+       <t_lemma>a</t_lemma>
+       <functor>CONJ</functor>
+       <is_member>1</is_member>
+       <deepord>8</deepord>
+       <children>
+        <LM id="ml_029.06-SCzechT-m-d1t2160-5">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t2160-5</lex.rf>
+          <aux.rf>
+           <LM>a#ml_029.06-SCzechA-m-d1t2160-4</LM>
+          </aux.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>mít</t_lemma>
+         <functor>PRED</functor>
+         <sentmod>enunc</sentmod>
+         <is_member>1</is_member>
+         <gram>
+          <sempos>v</sempos>
+          <deontmod>decl</deontmod>
+          <tense>ant</tense>
+          <aspect>proc</aspect>
+          <iterativeness>it0</iterativeness>
+          <negation>neg0</negation>
+         </gram>
+         <deepord>4</deepord>
+         <val_frame.rf>v#v-w1855f3</val_frame.rf>
+         <children>
+          <LM id="ml_029.06-SCzechT-m-d1t2160-3">
+           <a>
+            <lex.rf>a#ml_029.06-SCzechA-m-d1t2160-3</lex.rf>
+            <aux.rf>
+             <LM>a#ml_029.06-SCzechA-m-d1t2160-1</LM>
+            </aux.rf>
+           </a>
+           <nodetype>complex</nodetype>
+           <t_lemma>doba</t_lemma>
+           <functor>TWHEN</functor>
+           <gram>
+            <sempos>n.denot</sempos>
+            <gender>fem</gender>
+            <number>sg</number>
+            <negation>neg0</negation>
+           </gram>
+           <deepord>2</deepord>
+           <coref_text>
+            <LM>
+             <target_node.rf>ml_029.06-SCzechT-m-d1t2066-2</target_node.rf>
+             <type>SPEC</type>
+            </LM>
+           </coref_text>
+           <children>
+            <LM id="ml_029.06-SCzechT-m-d1t2160-2">
+             <a>
+              <lex.rf>a#ml_029.06-SCzechA-m-d1t2160-2</lex.rf>
+             </a>
+             <nodetype>complex</nodetype>
+             <t_lemma>ten</t_lemma>
+             <functor>RSTR</functor>
+             <gram>
+              <sempos>n.pron.def.demon</sempos>
+              <gender>fem</gender>
+              <number>sg</number>
+             </gram>
+             <deepord>1</deepord>
+            </LM>
+           </children>
+          </LM>
+          <LM id="ml_029.06-SCzechT-m-d1t2160-5x3">
+           <nodetype>complex</nodetype>
+           <is_generated>1</is_generated>
+           <t_lemma>#PersPron</t_lemma>
+           <functor>ACT</functor>
+           <gram>
+            <sempos>n.pron.def.pers</sempos>
+           </gram>
+           <deepord>3</deepord>
+           <coref_text>
+            <LM>
+             <target_node.rf>ml_029.06-SCzechT-m-d1t2137-3</target_node.rf>
+             <type>SPEC</type>
+            </LM>
+           </coref_text>
+          </LM>
+          <LM id="ml_029.06-SCzechT-m-d1t2160-8">
+           <a>
+            <lex.rf>a#ml_029.06-SCzechA-m-d1t2160-8</lex.rf>
+           </a>
+           <nodetype>complex</nodetype>
+           <t_lemma>vnouče</t_lemma>
+           <functor>PAT</functor>
+           <gram>
+            <sempos>n.denot</sempos>
+            <gender>neut</gender>
+            <number>pl</number>
+            <negation>neg0</negation>
+           </gram>
+           <deepord>6</deepord>
+           <coref_text>
+            <LM>
+             <target_node.rf>ml_029.06-SCzechT-m-d1t2137-6</target_node.rf>
+             <type>SPEC</type>
+            </LM>
+           </coref_text>
+           <children>
+            <LM id="ml_029.06-SCzechT-m-d1t2160-6">
+             <a>
+              <lex.rf>a#ml_029.06-SCzechA-m-d1t2160-6</lex.rf>
+             </a>
+             <nodetype>atom</nodetype>
+             <t_lemma>už</t_lemma>
+             <functor>RHEM</functor>
+             <deepord>5</deepord>
+            </LM>
+            <LM id="ml_029.06-SCzechT-m-d1t2160-7">
+             <a>
+              <lex.rf>a#ml_029.06-SCzechA-m-d1t2160-7</lex.rf>
+             </a>
+             <nodetype>complex</nodetype>
+             <t_lemma>osm</t_lemma>
+             <functor>RSTR</functor>
+             <gram>
+              <sempos>n.quant.def</sempos>
+              <gender>nr</gender>
+              <number>pl</number>
+              <numertype>basic</numertype>
+             </gram>
+             <deepord>7</deepord>
+            </LM>
+           </children>
+          </LM>
+         </children>
+        </LM>
+        <LM id="ml_029.06-SCzechT-m-d1t2160-13">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t2160-13</lex.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>přibýt</t_lemma>
+         <functor>PRED</functor>
+         <sentmod>enunc</sentmod>
+         <is_member>1</is_member>
+         <gram>
+          <sempos>v</sempos>
+          <deontmod>decl</deontmod>
+          <tense>ant</tense>
+          <aspect>cpl</aspect>
+          <iterativeness>it0</iterativeness>
+          <negation>neg0</negation>
+         </gram>
+         <deepord>12</deepord>
+         <val_frame.rf>v#v-w5092f1</val_frame.rf>
+         <children>
+          <LM id="ml_029.06-SCzechT-m-d1t2160-14">
+           <a>
+            <lex.rf>a#ml_029.06-SCzechA-m-d1t2160-14</lex.rf>
+           </a>
+           <nodetype>complex</nodetype>
+           <t_lemma>teď</t_lemma>
+           <functor>TWHEN</functor>
+           <gram>
+            <sempos>adv.pron.def</sempos>
+           </gram>
+           <deepord>9</deepord>
+           <coref_special>exoph</coref_special>
+          </LM>
+          <LM id="ml_029.06-SCzechT-m-d1t2160-12">
+           <a>
+            <lex.rf>a#ml_029.06-SCzechA-m-d1t2160-12</lex.rf>
+           </a>
+           <nodetype>atom</nodetype>
+           <t_lemma>ještě</t_lemma>
+           <functor>RHEM</functor>
+           <deepord>11</deepord>
+          </LM>
+          <LM id="ml_029.06-SCzechT-m-d1t2160-15">
+           <a>
+            <lex.rf>a#ml_029.06-SCzechA-m-d1t2160-15</lex.rf>
+           </a>
+           <nodetype>complex</nodetype>
+           <t_lemma>dva</t_lemma>
+           <functor>ACT</functor>
+           <gram>
+            <sempos>n.quant.def</sempos>
+            <gender>nr</gender>
+            <number>pl</number>
+            <numertype>basic</numertype>
+           </gram>
+           <deepord>13</deepord>
+          </LM>
+         </children>
+        </LM>
+       </children>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t2160-18">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t2160-18</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>mít</t_lemma>
+       <functor>PRED</functor>
+       <is_member>1</is_member>
+       <gram>
+        <sempos>v</sempos>
+        <deontmod>decl</deontmod>
+        <tense>sim</tense>
+        <aspect>proc</aspect>
+        <iterativeness>it0</iterativeness>
+        <negation>neg0</negation>
+       </gram>
+       <deepord>15</deepord>
+       <val_frame.rf>v#v-w1855f3</val_frame.rf>
+       <children>
+        <LM id="ml_029.06-SCzechT-m-d1t2160-18x3">
+         <nodetype>complex</nodetype>
+         <is_generated>1</is_generated>
+         <t_lemma>#PersPron</t_lemma>
+         <functor>ACT</functor>
+         <gram>
+          <sempos>n.pron.def.pers</sempos>
+         </gram>
+         <deepord>14</deepord>
+         <coref_text>
+          <LM>
+           <target_node.rf>ml_029.06-SCzechT-m-d1t2160-5x3</target_node.rf>
+           <type>SPEC</type>
+          </LM>
+         </coref_text>
+        </LM>
+        <LM id="ml_029.06-SCzechT-m-d1e2157-x2-59">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1e2157-x2-59</lex.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <t_lemma>#PersPron</t_lemma>
+         <functor>PAT</functor>
+         <gram>
+          <sempos>n.pron.def.pers</sempos>
+          <gender>nr</gender>
+          <number>pl</number>
+          <person>3</person>
+          <politeness>basic</politeness>
+         </gram>
+         <deepord>16</deepord>
+         <bridging>
+          <LM>
+           <target_node.rf>ml_029.06-SCzechT-m-d1t2160-8</target_node.rf>
+           <type>SUB_SET</type>
+          </LM>
+          <LM>
+           <target_node.rf>ml_029.06-SCzechT-m-d1t2160-15</target_node.rf>
+           <type>SUB_SET</type>
+          </LM>
+         </bridging>
+         <children>
+          <LM id="ml_029.06-SCzechT-m-d1t2160-19">
+           <a>
+            <lex.rf>a#ml_029.06-SCzechA-m-d1t2160-19</lex.rf>
+           </a>
+           <nodetype>complex</nodetype>
+           <t_lemma>deset</t_lemma>
+           <functor>RSTR</functor>
+           <gram>
+            <sempos>n.quant.def</sempos>
+            <gender>nr</gender>
+            <number>pl</number>
+            <numertype>basic</numertype>
+           </gram>
+           <deepord>17</deepord>
+          </LM>
+         </children>
+        </LM>
+       </children>
+      </LM>
+     </children>
+    </LM>
+   </children>
+  </LM>
+  <LM id="ml_029.06-SCzechT-ml_029-d1e2161-x2-root">
+   <atree.rf>a#ml_029.06-SCzechA-ml_029-d1e2161-x2-root</atree.rf>
+   <deepord>0</deepord>
+   <children>
+    <LM id="ml_029.06-SCzechT-m-d1t2166-1">
+     <a>
+      <lex.rf>a#ml_029.06-SCzechA-m-d1t2166-1</lex.rf>
+      <aux.rf>
+       <LM>a#ml_029.06-SCzechA-m-d1t2166-2</LM>
+      </aux.rf>
+     </a>
+     <nodetype>complex</nodetype>
+     <t_lemma>scházet_se</t_lemma>
+     <functor>PRED</functor>
+     <sentmod>inter</sentmod>
+     <gram>
+      <sempos>v</sempos>
+      <deontmod>decl</deontmod>
+      <tense>sim</tense>
+      <aspect>proc</aspect>
+      <iterativeness>it0</iterativeness>
+      <negation>neg0</negation>
+     </gram>
+     <deepord>3</deepord>
+     <val_frame.rf>v#v-w6046f1</val_frame.rf>
+     <children>
+      <LM id="ml_029.06-SCzechT-m-d1t2166-1x3">
+       <nodetype>complex</nodetype>
+       <is_generated>1</is_generated>
+       <t_lemma>#PersPron</t_lemma>
+       <functor>ACT</functor>
+       <gram>
+        <sempos>n.pron.def.pers</sempos>
+       </gram>
+       <deepord>1</deepord>
+       <coref_text>
+        <LM>
+         <target_node.rf>ml_029.06-SCzechT-ml_029-d1e2147-x2-roota1</target_node.rf>
+         <type>SPEC</type>
+        </LM>
+       </coref_text>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t2166-3">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t2166-3</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>takhle</t_lemma>
+       <functor>MANN</functor>
+       <gram>
+        <sempos>adv.denot.grad.neg</sempos>
+        <degcmp>pos</degcmp>
+        <negation>neg0</negation>
+       </gram>
+       <deepord>2</deepord>
+      </LM>
+      <LM id="ml_029.06-SCzechT-ml_029-d1e2161-x2-roota1">
+       <nodetype>qcomplex</nodetype>
+       <is_generated>1</is_generated>
+       <t_lemma>#Rcp</t_lemma>
+       <functor>PAT</functor>
+       <deepord>4</deepord>
+       <coref_gram.rf>
+        <LM>ml_029.06-SCzechT-m-d1t2166-1x3</LM>
+       </coref_gram.rf>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t2166-4">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t2166-4</lex.rf>
+       </a>
+       <nodetype>atom</nodetype>
+       <t_lemma>i</t_lemma>
+       <functor>RHEM</functor>
+       <deepord>5</deepord>
+      </LM>
+      <LM id="ml_029.06-SCzechT-m-d1t2166-5">
+       <a>
+        <lex.rf>a#ml_029.06-SCzechA-m-d1t2166-5</lex.rf>
+       </a>
+       <nodetype>complex</nodetype>
+       <t_lemma>jindy</t_lemma>
+       <functor>TWHEN</functor>
+       <gram>
+        <sempos>adv.denot.ngrad.nneg</sempos>
+        <negation>neg0</negation>
+       </gram>
+       <deepord>6</deepord>
+       <children>
+        <LM id="ml_029.06-SCzechT-ml_029-d1e2161-x2-roota2">
+         <a>
+          <lex.rf>a#ml_029.06-SCzechA-m-d1t2166-1</lex.rf>
+          <aux.rf>
+           <LM>a#ml_029.06-SCzechA-m-d1t2166-2</LM>
+           <LM>a#ml_029.06-SCzechA-m-d1t2166-6</LM>
+          </aux.rf>
+         </a>
+         <nodetype>complex</nodetype>
+         <is_generated>1</is_generated>
+         <t_lemma>scházet_se</t_lemma>
+         <functor>CPR</functor>
+         <gram>
+          <sempos>v</sempos>
+         </gram>
+         <deepord>8</deepord>
+         <val_frame.rf>v#v-w6046f1</val_frame.rf>
+         <children>
+          <LM id="ml_029.06-SCzechT-ml_029-d1e2161-x2-roota3">
+           <nodetype>complex</nodetype>
+           <is_generated>1</is_generated>
+           <t_lemma>#PersPron</t_lemma>
+           <functor>ACT</functor>
+           <gram>
+            <sempos>n.pron.def.pers</sempos>
+           </gram>
+           <deepord>7</deepord>
+           <coref_text>
+            <LM>
+             <target_node.rf>ml_029.06-SCzechT-ml_029-d1e2161-x2-roota1</target_node.rf>
+             <type>SPEC</type>
+            </LM>
+           </coref_text>
+          </LM>
+          <LM id="ml_029.06-SCzechT-ml_029-d1e2161-x2-roota4">
+           <nodetype>qcomplex</nodetype>
+           <is_generated>1</is_generated>
+           <t_lemma>#Rcp</t_lemma>
+           <functor>PAT</functor>
+           <deepord>9</deepord>
+           <coref_gram.rf>
+            <LM>ml_029.06-SCzechT-ml_029-d1e2161-x2-roota3</LM>
+           </coref_gram.rf>
+          </LM>
+          <LM id="ml_029.06-SCzechT-m-d1t2166-8">
+           <a>
+            <lex.rf>a#ml_029.06-SCzechA-m-d1t2166-8</lex.rf>
+            <aux.rf>
+             <LM>a#ml_029.06-SCzechA-m-d1t2166-7</LM>
+            </aux.rf>
+           </a>
+           <nodetype>complex</nodetype>
+           <t_lemma>oslava</t_lemma>
+           <functor>TWHEN</functor>
+           <gram>
+            <sempos>n.denot</sempos>
+            <gender>fem</gender>
+            <number>pl</number>
+            <negation>neg0</negation>
+           </gram>
+           <deepord>10</deepord>
+          </LM>
+         </children>
+        </LM>
+       </children>
+      </LM>
+     </children>
+    </LM>
+   </children>
+  </LM>
+ </trees>
 </tdata>
