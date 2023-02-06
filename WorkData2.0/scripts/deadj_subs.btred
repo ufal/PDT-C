@@ -1,0 +1,81 @@
+#!btred -NTe deadj_subs()
+# -*- cperl -*-
+use strict;
+use warnings;
+use utf8;
+
+my @LEMMAS = qw(
+    bílý
+    blokový
+    cestující
+    černý
+    dojíždějící
+    domácí
+    dospělý
+    dotázaný
+    dotazovaný
+    duchovní
+    hluchoněmý
+    chudý
+    kázající
+    kolemjdoucí
+    kupující
+    mladý
+    mrtvý
+    nabízející
+    nadřízený
+    nemocný
+    neslyšící
+    nevidomý
+    nevinný
+    obviněný
+    obžalovaný
+    odsouzený
+    podezřelý
+    podřízený
+    poražený
+    poškozený
+    pozůstalý
+    pracující
+    prodávající
+    produkční
+    protestující
+    přeživší
+    příbuzný
+    příchozí
+    přísedící
+    přítomný
+    raněný
+    řídící
+    soutěžící
+    spolubydlící
+    spolucestující
+    spoluobžalovaný
+    účinkující
+    vedoucí
+    věřící
+    vinný
+    volající
+    závislý
+    zemřelý
+    známý
+    zraněný
+    žalující
+    živý
+);
+my $lemma = join '|', @LEMMAS;
+$lemma = qr/^($lemma)(?:^|[-`_])/;
+
+sub deadj_subs {
+    return unless $this->parent;
+
+    if ($this->attr('m/lemma') =~ $lemma) {
+        my @p = PML_A_Anot::get_eparents($this);
+        print join "\t", $this->attr('m/lemma'),
+                         $this->attr('m/tag'),
+                         $this->{afun},
+                         join(',', map $_->attr('m/tag'), @p),
+                         "";
+        FPosition();
+    }
+}
