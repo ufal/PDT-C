@@ -1,0 +1,15 @@
+#!btred -TNe pnom()
+# -*- mode: cperl -*-
+use warnings;
+use strict;
+
+sub pnom {
+    return unless $this->parent;
+
+    if ($this->{afun} eq 'Pnom'
+        && $this->attr('m/lemma') =~ /^(?:ten$|kdo$|co-)/) {
+        print join "\t", map $this->attr($_), qw( m/lemma m/tag m/form );
+        print "\t";
+        FPosition();
+    }
+}

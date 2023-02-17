@@ -1,0 +1,18 @@
+#!btred -NTe cancelled()
+# -*- mode: cperl -*-
+use warnings;
+use strict;
+use utf8;
+
+my @FORMS = qw( úseku dojmem tlakem linii službách stavu středu osobě
+                procesu řadě stanoviska moci nedostatku );
+
+my $forms = join '|', @FORMS;
+$forms = qr/^(?:$forms)$/i;
+
+sub cancelled {
+    return unless $this->parent;
+
+    FPosition() if $this->attr('m/form') =~ /$forms/
+                && $this->{afun} =~ /^Aux[PY]$/;
+}
