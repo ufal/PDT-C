@@ -1,0 +1,181 @@
+#!btred -NTe prep_t2()
+# -*- mode: cperl -*-
+use warnings;
+use strict;
+use utf8;
+
+use enum qw( AFUN FORM TAG POS );
+
+my %prep = (
+    blízko          => [qr/LOC|DIR[23]/],
+    blízkosti       => [qr/LOC|DIR2/],
+    blíž            => [qr/LOC|DIR[23]/],
+    blíže           => [qr/LOC|DIR[23]/],
+    boku            => [qr/LOC/],
+    cestou          => [qr/MEANS/],
+    daleko          => [qr/LOC/],
+    dle             => [qr/CRIT/],
+    dobu            => [qr/TWHEN/],
+    době            => [qr/TWHEN/],
+    doprostřed      => [qr/DIR3/],
+    dovnitř         => [qr/DIR3/],
+    duchu           => [qr/CRIT/],
+    dík             => [qr/CAUS/],
+    díky            => [qr/CAUS/],
+    důsledkem       => [qr/CAUS/],
+    důsledku        => [qr/CAUS/],
+    důvodu          => [qr/CAUS/],
+    formou          => [qr/MANN/],
+    formě           => [qr/MANN/],
+    hlediska        => [qr/REG/],
+    jménem          => [qr/SUBS/],
+    jménu           => [qr/SUBS/],
+    koncem          => [qr/TWHEN/],
+    konče           => [qr/TWHEN/],
+    končíc          => [qr/TWHEN/],
+    napříč          => [qr/LOC|DIR[23]/],
+    naroveň         => [qr/DIR3/],
+    navzdor         => [qr/CNCS/],
+    navzdory        => [qr/CNCS/],
+    nedaleko        => [qr/LOC|DIR[23]/],
+    nehledě         => [qr/REG/],
+    neprospěch      => [qr/BEN/],
+    nezávisle       => [qr/REG/],
+    následkem       => [qr/CAUS/],
+    období          => [qr/TWHEN/],
+    oblasti         => [qr/LOC/],
+    oboru           => [qr/LOC/],
+    ohledem         => [qr/REG/],
+    ohledně         => [qr/REG/],
+    ohledu          => [qr/REG/],
+    otázce          => [qr/REG/],
+    poblíž          => [qr/LOC|DIR[23]/],
+    podobě          => [qr/MANN/],
+    pomoci          => [qr/MEANS/],
+    pomocí          => [qr/MEANS/],
+    porovnání       => [qr/CPR/],
+    postupem        => [qr/TWHEN/],
+    počest          => [qr/BEN/],
+    počátkem        => [qr/TWHEN/],
+    počínaje        => [qr/TWHEN/],
+    počínajíc       => [qr/TWHEN/],
+    prospěch        => [qr/BEN/],
+    prospěchu       => [qr/BEN/],
+    prostřed        => [qr/LOC/],
+    prostřednictvím => [qr/MEANS/],
+    protikladu      => [qr/CPR/],
+    průběhem        => [qr/TWHEN/],
+    průběhu         => [qr/TWHEN/],
+    přihlédnutím    => [qr/REG/],
+    přihlížeje      => [qr/REG/],
+    příležitosti    => [qr/TWHEN/],
+    případ          => [qr/AIM/],
+    případě         => [qr/COND|REG/],
+    příčinou        => [qr/CAUS/],
+    relaci          => [qr/REG/],
+    roveň           => [qr/DIR3/],
+    rozdíl          => [qr/CPR/],
+    rozporu         => [qr/CPR/],
+    rukou           => [qr/DIR3/],
+    ruku            => [qr/ACMP/],
+    rukám           => [qr/DIR3/],
+    rámci           => [qr/LOC/],
+    shodě           => [qr/CRIT/],
+    smyslu          => [qr/CRIT/],
+    směrem          => [qr/LOC|DIR[23]/],
+    směru           => [qr/DIR1/, 2],
+    souběžně        => [qr/TWHEN/],
+    souhlase        => [qr/CRIT/],
+    souladu         => [qr/CRIT/],
+    souvislosti     => [qr/ACMP/],
+    současně        => [qr/TWHEN/],
+    spojení         => [qr/ACMP/],
+    spojitosti      => [qr/ACMP/],
+    společně        => [qr/ACMP/],
+    spolu           => [qr/ACMP/],
+    spolupráci      => [qr/ACMP/],
+    srovnání        => [qr/CPR/],
+    stran           => [qr/REG/],
+    stranou         => [qr/LOC|DIR[23]/],
+    stránce         => [qr/REG/],
+    světle          => [qr/CRIT/],
+    titulu          => [qr/CAUS/],
+    tváří           => [qr/LOC|DIR[23]/],
+    téma            => [qr/REG/],
+    uprostřed       => [qr/LOC/],
+    uvnitř          => [qr/LOC/],
+    veprostřed      => [qr/LOC/],
+    vespod          => [qr/LOC/],
+    vevnitř         => [qr/LOC/],
+    vinou           => [qr/CAUS/],
+    vlivem          => [qr/CAUS/],
+    vně             => [qr/LOC/],
+    vprostřed       => [qr/LOC|TWHEN/],
+    vpůli           => [qr/LOC|TWHEN/],
+    vrub            => [qr/BEN/],
+    vyjma           => [qr/RESTR/],
+    vzdor           => [qr/CNCS/],
+    vzhledem        => [qr/REG/],
+    vzoru           => [qr/CRIT/],
+    vztahu          => [qr/REG/],
+    výjimkou        => [qr/RESTR/],
+    výměnou         => [qr/SUBS/],
+    věci            => [qr/REG/],
+    zastoupení      => [qr/AIM/],
+    začátkem        => [qr/TWHEN/],
+    zevnitř         => [qr/DIR1/],
+    zhloubi         => [qr/DIR1/],
+    zkraje          => [qr/DIR1|TWHEN|TFRWH/],
+    znamení         => [qr/MANN/],
+    zpod            => [qr/DIR1/],
+    zpoza           => [qr/DIR1/],
+    zprostřed       => [qr/DIR1/],
+    způsob          => [qr/MANN/],
+    zájmu           => [qr/AIM/],
+    základě         => [qr/CRIT|CAUS/],
+    záminkou        => [qr/CAUS/],
+    zároveň         => [qr/TWHEN/],
+    zásluhou        => [qr/CAUS/],
+    závislosti      => [qr/REG/],
+    závěr           => [qr/TWHEN/],
+    závěrem         => [qr/TWHEN/],
+    závěru          => [qr/TWHEN/],
+    zřetele         => [qr/REG/],
+    zřetelem        => [qr/REG/],
+    úkor            => [qr/BEN/],
+    úrovni          => [qr/LOC/],
+    účelem          => [qr/AIM/],
+    účet            => [qr/BEN/],
+    čela            => [qr/DIR3/],
+    čele            => [qr/LOC/],
+    řad             => [qr/DIR1/],
+);
+
+open my $in, '<', 'prep-t.l' or die $!;
+my %anode;
+while (<$in>) {
+    my ($id, $afun, $form, $tag, $pos) = split;
+    $anode{$id} = [$afun, $form, $tag, $pos];
+}
+
+sub prep_t2 {
+    return unless $this->parent;
+
+    my @aids = map s/^a#//r,
+               grep defined,
+               ListV($this->attr('a/aux.rf'));
+    for my $aid (@aids) {
+        next unless exists $anode{$aid};
+
+        my $form = lc $anode{$aid}[FORM];
+        next unless exists $prep{$form};
+
+        my ($functor, $case) = @{ $prep{$form} };
+        if ($this->{functor} =~ $functor
+            && $anode{$aid}[AFUN] =~ /^Aux[PY]$/
+            && (! $case || $case eq substr $anode{$aid}[TAG], 5, 1)
+        ) {
+            print "$anode{$aid}[POS]\n" if grep exists $anode{$_}, @aids;
+        }
+    }
+}
