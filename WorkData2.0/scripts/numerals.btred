@@ -1,0 +1,27 @@
+#!btred -NTe numerals()
+# -*- mode: cperl -*-
+use warnings;
+use strict;
+use utf8;
+
+my $NUM_RE = qr/^(?:hodně|moc|dost|málo|kolik|několik|tolik)(?:$|[-`_])/;
+sub numerals {
+    return unless $this->parent;
+
+    if (0 == index $this->attr('m/tag'), 'C'
+        || $this->attr('m/lemma') =~ $NUM_RE
+    ) {
+        my @ch = grep { $_->attr('m/tag') =~ /^[ANP]...2/ }
+                 $this->children;
+        my @p = grep { $_->parent && 0 == index $_->attr('m/tag'), 'V' }
+                     PML_A_Anot::get_eparents($this);
+        my $found;
+        for my $p (@p) {
+            for my $ch (@ch) {
+                $found = 1
+                    if $ch->{ord} < $p->{ord} && $p->{ord} < $this->{ord};
+            }
+        }
+        FPosition() if $found;
+    }
+}
