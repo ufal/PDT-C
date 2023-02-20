@@ -151,7 +151,7 @@ my %prep = (
     řad             => [qr/DIR1/],
 );
 
-open my $in, '<', 'prep-t.l' or die $!;
+open my $in, '<:encoding(UTF-8)', 'prep-t.l' or die $!;
 my %anode;
 while (<$in>) {
     my ($id, $afun, $form, $tag, $pos) = split;
