@@ -13,8 +13,11 @@ sub numerals {
     ) {
         my @ch = grep { $_->attr('m/tag') =~ /^[ANP]...2/ }
                  $this->children;
-        my @p = grep { $_->parent && 0 == index $_->attr('m/tag'), 'V' }
-                     PML_A_Anot::get_eparents($this);
+        my @p = grep $_->parent, PML_A_Anot::get_eparents($this);
+        while (@p && ! grep { 0 == index $_->attr('m/tag'), 'V' } @p) {
+            @p = grep $_->parent, map $_->parent, @p;
+        }
+
         my $found;
         for my $p (@p) {
             for my $ch (@ch) {
