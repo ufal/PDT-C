@@ -159,7 +159,7 @@ sub prep_t {
     return unless $this->parent;
 
     my $form = lc $this->attr('m/form');
-    if ($this->attr('m/tag') =~ $prep{$form}) {
+    if (exists $prep{$form} && $this->attr('m/tag') =~ $prep{$form}) {
         print join "\t", $this->{id},
                          $this->{afun},
                          $this->attr('m/form'),
