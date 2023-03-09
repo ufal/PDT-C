@@ -254,13 +254,13 @@
 <ord>22</ord>
 <clause_number>1</clause_number>
 </LM>
-</children>
-</LM>
 <LM id="a-ln94209-73-p2s1w23">
 <m.rf>m#m-ln94209-73-p2s1w23</m.rf>
 <afun>AuxK</afun>
 <ord>23</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -409,13 +409,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-ln94209-73-p2s2w21">
 <m.rf>m#m-ln94209-73-p2s2w21</m.rf>
 <afun>AuxK</afun>
 <ord>21</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -589,13 +589,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-ln94209-73-p3s1w24">
 <m.rf>m#m-ln94209-73-p3s1w24</m.rf>
 <afun>AuxK</afun>
 <ord>24</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -845,13 +845,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-ln94209-73-p3s2w35">
 <m.rf>m#m-ln94209-73-p3s2w35</m.rf>
 <afun>AuxK</afun>
 <ord>35</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -1023,13 +1023,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-ln94209-73-p3s3w24">
 <m.rf>m#m-ln94209-73-p3s3w24</m.rf>
 <afun>AuxK</afun>
 <ord>24</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -1150,13 +1150,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-ln94209-73-p3s4w17">
 <m.rf>m#m-ln94209-73-p3s4w17</m.rf>
 <afun>AuxK</afun>
 <ord>17</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -1298,13 +1298,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-ln94209-73-p3s5w20">
 <m.rf>m#m-ln94209-73-p3s5w20</m.rf>
 <afun>AuxK</afun>
 <ord>20</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -1396,13 +1396,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-ln94209-73-p3s6w13">
 <m.rf>m#m-ln94209-73-p3s6w13</m.rf>
 <afun>AuxK</afun>
 <ord>13</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

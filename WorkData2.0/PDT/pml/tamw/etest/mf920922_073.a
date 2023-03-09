@@ -241,13 +241,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-mf920922-073-p2s1w28">
 <m.rf>m#m-mf920922-073-p2s1w28</m.rf>
 <afun>AuxK</afun>
 <ord>28</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -430,13 +430,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-mf920922-073-p2s2w25">
 <m.rf>m#m-mf920922-073-p2s2w25</m.rf>
 <afun>AuxK</afun>
 <ord>25</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -468,13 +468,13 @@
 <ord>3</ord>
 <clause_number>1</clause_number>
 </LM>
-</children>
-</LM>
 <LM id="a-mf920922-073-p2s3w5">
 <m.rf>m#m-mf920922-073-p2s3w5</m.rf>
 <afun>AuxK</afun>
 <ord>5</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -604,13 +604,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-mf920922-073-p2s4w18">
 <m.rf>m#m-mf920922-073-p2s4w18</m.rf>
 <afun>AuxK</afun>
 <ord>18</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -778,13 +778,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-mf920922-073-p2s5w24">
 <m.rf>m#m-mf920922-073-p2s5w24</m.rf>
 <afun>AuxK</afun>
 <ord>24</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -1016,13 +1016,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-mf920922-073-p2s6w32">
 <m.rf>m#m-mf920922-073-p2s6w32</m.rf>
 <afun>AuxK</afun>
 <ord>32</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -1070,6 +1070,12 @@
 </LM>
 </children>
 </LM>
+<LM id="a-mf920922-073-p2s7w7">
+<m.rf>m#m-mf920922-073-p2s7w7</m.rf>
+<afun>AuxK</afun>
+<ord>7</ord>
+<clause_number>0</clause_number>
+</LM>
 <LM id="a-mf920922-073-p2s7w8">
 <m.rf>m#m-mf920922-073-p2s7w8</m.rf>
 <afun>AuxG</afun>
@@ -1077,12 +1083,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-</LM>
-<LM id="a-mf920922-073-p2s7w7">
-<m.rf>m#m-mf920922-073-p2s7w7</m.rf>
-<afun>AuxK</afun>
-<ord>7</ord>
-<clause_number>0</clause_number>
 </LM>
 </children>
 </LM>

@@ -124,12 +124,14 @@
 <afun>ExD</afun>
 <ord>6</ord>
 <clause_number>0</clause_number>
-</LM>
+<children>
 <LM id="a-mf930709-082-p2s1Bw7">
 <m.rf>m#m-mf930709-082-p2s1Bw7</m.rf>
 <afun>AuxK</afun>
 <ord>7</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -251,13 +253,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-mf930709-082-p2s1Cw17">
 <m.rf>m#m-mf930709-082-p2s1Cw17</m.rf>
 <afun>AuxK</afun>
 <ord>17</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -349,13 +351,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-mf930709-082-p2s2w13">
 <m.rf>m#m-mf930709-082-p2s2w13</m.rf>
 <afun>AuxK</afun>
 <ord>13</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -501,13 +503,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-mf930709-082-p2s3w21">
 <m.rf>m#m-mf930709-082-p2s3w21</m.rf>
 <afun>AuxK</afun>
 <ord>21</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

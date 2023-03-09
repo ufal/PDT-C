@@ -234,13 +234,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-ln94207-86-p1s1w31">
 <m.rf>m#m-ln94207-86-p1s1w31</m.rf>
 <afun>AuxK</afun>
 <ord>31</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -409,8 +409,6 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-ln94207-86-p1s2Aw23">
 <m.rf>m#m-ln94207-86-p1s2Aw23</m.rf>
 <afun>AuxK</afun>
@@ -428,6 +426,8 @@
 <afun>AuxK</afun>
 <ord>25</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

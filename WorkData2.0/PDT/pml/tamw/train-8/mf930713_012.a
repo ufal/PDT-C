@@ -262,13 +262,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-mf930713-012-p2s1Bw28">
 <m.rf>m#m-mf930713-012-p2s1Bw28</m.rf>
 <afun>AuxK</afun>
 <ord>28</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -608,13 +608,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-mf930713-012-p2s2w48">
 <m.rf>m#m-mf930713-012-p2s2w48</m.rf>
 <afun>AuxK</afun>
 <ord>48</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -796,13 +796,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-mf930713-012-p2s3w26">
 <m.rf>m#m-mf930713-012-p2s3w26</m.rf>
 <afun>AuxK</afun>
 <ord>26</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -1207,13 +1207,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-mf930713-012-p2s4w57">
 <m.rf>m#m-mf930713-012-p2s4w57</m.rf>
 <afun>AuxK</afun>
 <ord>57</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -1262,8 +1262,6 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-mf930713-012-p2s6w7">
 <m.rf>m#m-mf930713-012-p2s6w7</m.rf>
 <afun>AuxK</afun>
@@ -1281,6 +1279,8 @@
 <afun>AuxK</afun>
 <ord>9</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -1518,13 +1518,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-mf930713-012-p2s7w34">
 <m.rf>m#m-mf930713-012-p2s7w34</m.rf>
 <afun>AuxK</afun>
 <ord>34</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -1586,13 +1586,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-mf930713-012-p2s8w9">
 <m.rf>m#m-mf930713-012-p2s8w9</m.rf>
 <afun>AuxK</afun>
 <ord>9</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -1766,13 +1766,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-mf930713-012-p2s9w24">
 <m.rf>m#m-mf930713-012-p2s9w24</m.rf>
 <afun>AuxK</afun>
 <ord>24</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

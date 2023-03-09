@@ -64,8 +64,6 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-ln94210-94-p1s1w8">
 <m.rf>m#m-ln94210-94-p1s1w8</m.rf>
 <afun>AuxK</afun>
@@ -83,6 +81,8 @@
 <afun>AuxK</afun>
 <ord>10</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

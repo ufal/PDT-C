@@ -195,8 +195,6 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-cmpr9415-055-p3s1w21">
 <m.rf>m#m-cmpr9415-055-p3s1w21</m.rf>
 <afun>AuxK</afun>
@@ -214,6 +212,8 @@
 <afun>AuxK</afun>
 <ord>23</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

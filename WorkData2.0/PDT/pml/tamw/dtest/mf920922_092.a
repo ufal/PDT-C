@@ -224,13 +224,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-mf920922-092-p1s1w31">
 <m.rf>m#m-mf920922-092-p1s1w31</m.rf>
 <afun>AuxK</afun>
 <ord>31</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -318,13 +318,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-mf920922-092-p2s2w13">
 <m.rf>m#m-mf920922-092-p2s2w13</m.rf>
 <afun>AuxK</afun>
 <ord>13</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -486,13 +486,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-mf920922-092-p2s3w23">
 <m.rf>m#m-mf920922-092-p2s3w23</m.rf>
 <afun>AuxK</afun>
 <ord>23</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -697,13 +697,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-mf920922-092-p2s4w29">
 <m.rf>m#m-mf920922-092-p2s4w29</m.rf>
 <afun>AuxK</afun>
 <ord>29</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -831,13 +831,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-mf920922-092-p2s5w18">
 <m.rf>m#m-mf920922-092-p2s5w18</m.rf>
 <afun>AuxK</afun>
 <ord>18</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -1046,13 +1046,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-mf920922-092-p2s6w29">
 <m.rf>m#m-mf920922-092-p2s6w29</m.rf>
 <afun>AuxK</afun>
 <ord>29</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -1100,6 +1100,12 @@
 <ord>6</ord>
 <clause_number>1</clause_number>
 </LM>
+<LM id="a-mf920922-092-p2s7w7">
+<m.rf>m#m-mf920922-092-p2s7w7</m.rf>
+<afun>AuxK</afun>
+<ord>7</ord>
+<clause_number>0</clause_number>
+</LM>
 <LM id="a-mf920922-092-p2s7w8">
 <m.rf>m#m-mf920922-092-p2s7w8</m.rf>
 <afun>AuxG</afun>
@@ -1107,12 +1113,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-</LM>
-<LM id="a-mf920922-092-p2s7w7">
-<m.rf>m#m-mf920922-092-p2s7w7</m.rf>
-<afun>AuxK</afun>
-<ord>7</ord>
-<clause_number>0</clause_number>
 </LM>
 </children>
 </LM>
