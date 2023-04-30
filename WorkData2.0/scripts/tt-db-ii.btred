@@ -1,0 +1,26 @@
+#!btred -e tt_db_ii()
+use warnings;
+use strict;
+
+open my $in, '<:encoding(UTF-8)', '__INPUT__' or die $!;
+my $lemma_re = join '|', map quotemeta, map s/\n//r, <$in>;
+$lemma_re = qr/^(?:$lemma_re)(?:-|$)/;
+
+sub tt_db_ii {
+    do {{
+        while ($this) {
+            next if $this == $root;
+
+            if ($this->attr('m/lemma') =~ /$lemma_re/) {
+                print join "\t", $this->attr('m/lemma'),
+                                 $this->attr('m/tag'),
+                                 $this->{afun},
+                                 $this->{id};
+                print "\n";
+            }
+
+        } continue {
+            $this = $this->following;
+        }
+    }} while TredMacro::NextTree();
+}

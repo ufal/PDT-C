@@ -1,0 +1,33 @@
+#!btred -e tt_db_ii()
+use warnings;
+use strict;
+
+my %h;
+open my $in, '<:encoding(UTF-8)', '__INPUT__' or die $!;
+while (<$in>) {
+    chomp;
+    my ($lemma, $tag, $afun, $id) = split /\t/;
+    $h{$id} = [$lemma, $tag, $afun];
+}
+
+sub tt_db_ii {
+
+    do {{
+        while ($this) {
+            next if $this == $root;
+
+            my @refs = grep length, $this->attr('a/lex.rf'),
+                                    ListV($this->attr('a/aux.rf'));
+
+            for my $ref (@refs) {
+                my $id = ($ref =~ s/^a#//r);
+                if (exists $h{$id}) {
+                    print join "\t", @{ $h{$id} }, $this->{functor};
+                    print "\n";
+                }
+            }
+        } continue {
+            $this = $this->following;
+        }
+    }} while TredMacro::NextTree();
+}
