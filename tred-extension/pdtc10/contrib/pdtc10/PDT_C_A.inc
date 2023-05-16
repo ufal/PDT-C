@@ -289,6 +289,7 @@ sub prepare_clause_folding {
     my $clause_node = NewSon($tree);
     $clause_node->set_type_by_name($tree->type()->schema(), 'a-node.type');
     $clause_node->{id} = $tree->{id}.'-clause'.$num;
+    # print STDERR "clause_node id: " . $clause_node->{id} . "\n";
     $clause_node->{m}->{form} = $label;
     $clause_node->{afun} = '';
     $clause_node->{'clause_number'} = $num;
@@ -329,6 +330,46 @@ sub prepare_clause_folding {
   FileUserData('clauses', $mapping);
   PDT_C_T::normalize_ordering($tree, 'ord');
   $tree->{'_clauses_ok'} = 1;
+}
+
+# before a file is saved, all newly introduced nodes for clause folding need to be removed from the trees
+sub file_save_hook {
+  # print STDERR "file_save_hook: going to remove artificial nodes for clause folding.\n";
+  remove_clause_folding_nodes();
+}
+
+# before the context is switched, all newly introduced nodes for clause folding need to be removed from the trees
+sub pre_switch_context_hook {
+  # print STDERR "pre_switch_context_hook: going to remove artificial nodes for clause folding.\n";
+  remove_clause_folding_nodes();
+}
+
+# deletes all artificial clause folding nodes
+sub remove_clause_folding_nodes {
+  # print STDERR "remove_clause_folding_nodes: entered the function.\n";
+  foreach my $tree (GetTrees()) {
+    if ($tree->{'_clauses_ok'}) {
+      # print STDERR "remove_clause_folding_nodes:   going to remove artificial nodes for clause folding at tree " . $tree->attr('id') . "\n";
+      my $remains = 1;
+      while ($remains) { # some clause folding nodes remain to be removed (in the previous run there was a clause folding node that was not a leaf and therefore could not be deleted)
+        $remains = 0;
+        foreach my $folding_node (grep {$_->attr('id') =~ /-clause\d+$/} $tree->descendants) { # for all artificial clause folding nodes
+          my $id = $folding_node->attr('id');
+          if ($folding_node->children) {
+            $remains = 1;
+          }
+          else {
+            # print STDERR "remove_clause_folding_nodes:     - removing node $id\n";
+            DeleteLeafNode($folding_node);
+            # print STDERR "remove_clause_folding_nodes:       - deleting $id from hash of nodes.\n";
+            DeleteFromNodeHash($id);
+          }
+        }
+      }
+    }
+    delete($tree->{'_clauses_ok'});
+  }
+  ChangingFile(0);
 }
 
 1;
