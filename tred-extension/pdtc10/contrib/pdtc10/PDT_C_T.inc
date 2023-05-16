@@ -1295,7 +1295,18 @@ sub toggle_mwe_folding {
 
 # before a file is saved, all newly introduced nodes representing mwes need to be removed from the trees
 sub file_save_hook {
-  # print STDERR "file_save_hook.\n";
+  # print STDERR "file_save_hook: going to remove artificial mwe nodes.\n";
+  remove_mwe_nodes();
+}
+
+# before the context is switched, all newly introduced nodes representing mwes need to be removed from the trees
+sub pre_switch_context_hook {
+  # print STDERR "pre_switch_context_hook: going to remove artificial mwe nodes.\n";
+  remove_mwe_nodes();
+}
+
+# Removes all artificial mwe nodes.
+sub remove_mwe_nodes {
   foreach my $tree (GetTrees()) {
     if ($tree->{'_mwe_ok'}) {
       foreach my $node (GetNodes($tree)) {
