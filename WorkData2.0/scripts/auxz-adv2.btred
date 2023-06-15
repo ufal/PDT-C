@@ -1,0 +1,41 @@
+#!btred -e auxz_adv()
+# -*- mode: cperl -*-
+use warnings;
+use strict;
+
+die 'Env FUNCTORS not set' unless exists $ENV{FUNCTORS};
+
+open my $in, '<', $ENV{FUNCTORS} or die $!;
+
+my %func;
+while (<$in>) {
+    my ($functor, $id) = split;
+    die "$id: $functor $func{$id}"
+        if exists $func{$id} && $func{$id} ne $functor;
+
+    $func{$id} = $functor;
+}
+
+my %AFUN = (
+    RHEM  => 'Adv',
+    MANN  => 'AuxZ',
+    TWHEN => 'AuxZ',
+    EXT   => 'AuxZ',
+);
+sub auxz_adv {
+    do {{
+        while ($this) {
+            next if $this == $root;
+
+            if (exists $func{ $this->{id} }) {
+                my $functor = $func{ $this->{id} };
+                if ($this->{afun} eq $AFUN{$functor}) {
+                    print(join "\t", $this->{afun}, $functor, "");
+                    FPosition();
+                }
+            }
+        } continue {
+            $this = $this->following;
+        }
+    }} while TredMacro::NextTree();
+}

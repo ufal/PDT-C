@@ -1,0 +1,15 @@
+#!btred -N -T -e adv_auxz
+# -*- mode: cperl -*-
+use warnings;
+use strict;
+
+sub adv_auxz {
+    my $func = $this->{functor} or return;
+
+    if ($this->{functor} =~ /^(?:EXT|MANN|RHEM|TWHEN)$/
+        && (my $aid = $this->attr('a/lex.rf'))
+    ) {
+        substr $aid, 0, 2, "";
+        writeln("$func\t$aid");
+    }
+}
