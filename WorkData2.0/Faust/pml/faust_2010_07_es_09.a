@@ -329,8 +329,6 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="faust_2010_07_es_09-SCzechA-p0876-s1-w26">
 <m.rf>m#es_09-SCzechM-p0876-s1-w26</m.rf>
 <afun>AuxK</afun>
@@ -340,6 +338,8 @@
 <m.rf>m#es_09-SCzechM-p0876-s1-w31</m.rf>
 <afun>AuxK</afun>
 <ord>31</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -872,12 +872,12 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="faust_2010_07_es_09-SCzechA-p0895-s1-w40">
 <m.rf>m#es_09-SCzechM-p0895-s1-w40</m.rf>
 <afun>AuxK</afun>
 <ord>40</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -1074,8 +1074,6 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="faust_2010_07_es_09-SCzechA-p0896-s1-w12">
 <m.rf>m#es_09-SCzechM-p0896-s1-w12</m.rf>
 <afun>AuxK</afun>
@@ -1090,6 +1088,8 @@
 <m.rf>m#es_09-SCzechM-p0896-s1-w33</m.rf>
 <afun>AuxK</afun>
 <ord>33</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -1213,12 +1213,12 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="faust_2010_07_es_09-SCzechA-p0897-s1-w21">
 <m.rf>m#es_09-SCzechM-p0897-s1-w21</m.rf>
 <afun>AuxK</afun>
 <ord>21</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -1456,12 +1456,12 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="faust_2010_07_es_09-SCzechA-p0901-s1-w24">
 <m.rf>m#es_09-SCzechM-p0901-s1-w24</m.rf>
 <afun>AuxK</afun>
 <ord>24</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -1661,12 +1661,12 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="faust_2010_07_es_09-SCzechA-p0913-s1-w12">
 <m.rf>m#es_09-SCzechM-p0913-s1-w12</m.rf>
 <afun>AuxK</afun>
 <ord>12</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -1696,12 +1696,12 @@
 <afun>AuxV</afun>
 <ord>3</ord>
 </LM>
-</children>
-</LM>
 <LM id="faust_2010_07_es_09-SCzechA-p0914-s1-w5">
 <m.rf>m#es_09-SCzechM-p0914-s1-w5</m.rf>
 <afun>AuxK</afun>
 <ord>5</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -1928,12 +1928,12 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="faust_2010_07_es_09-SCzechA-p0927-s1-w8">
 <m.rf>m#es_09-SCzechM-p0927-s1-w8</m.rf>
 <afun>AuxK</afun>
 <ord>8</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -2145,12 +2145,12 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="faust_2010_07_es_09-SCzechA-p0930-s1-w33">
 <m.rf>m#es_09-SCzechM-p0930-s1-w33</m.rf>
 <afun>AuxK</afun>
 <ord>34</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -2485,8 +2485,6 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="faust_2010_07_es_09-SCzechA-p0937-s1-w48">
 <m.rf>m#es_09-SCzechM-p0937-s1-w48</m.rf>
 <afun>AuxK</afun>
@@ -2496,6 +2494,8 @@
 <m.rf>m#es_09-SCzechM-p0937-s1-w50</m.rf>
 <afun>AuxK</afun>
 <ord>50</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -2772,6 +2772,11 @@
 </LM>
 </children>
 </LM>
+<LM id="faust_2010_07_es_09-SCzechA-p0947-s1-w6">
+<m.rf>m#es_09-SCzechM-p0947-s1-w6</m.rf>
+<afun>AuxK</afun>
+<ord>6</ord>
+</LM>
 <LM id="faust_2010_07_es_09-SCzechA-p0947-s1-w7">
 <m.rf>m#es_09-SCzechM-p0947-s1-w7</m.rf>
 <afun>Pred</afun>
@@ -2784,17 +2789,12 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
-<LM id="faust_2010_07_es_09-SCzechA-p0947-s1-w6">
-<m.rf>m#es_09-SCzechM-p0947-s1-w6</m.rf>
-<afun>AuxK</afun>
-<ord>6</ord>
-</LM>
 <LM id="faust_2010_07_es_09-SCzechA-p0947-s1-w9">
 <m.rf>m#es_09-SCzechM-p0947-s1-w9</m.rf>
 <afun>AuxK</afun>
 <ord>9</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -2870,12 +2870,12 @@
 <afun>AuxT</afun>
 <ord>2</ord>
 </LM>
-</children>
-</LM>
 <LM id="faust_2010_07_es_09-SCzechA-p0950-s1-w4">
 <m.rf>m#es_09-SCzechM-p0950-s1-w4</m.rf>
 <afun>AuxK</afun>
 <ord>4</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -3082,8 +3082,6 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="faust_2010_07_es_09-SCzechA-p0952-s1-w24">
 <m.rf>m#es_09-SCzechM-p0952-s1-w24</m.rf>
 <afun>AuxK</afun>
@@ -3093,6 +3091,8 @@
 <m.rf>m#es_09-SCzechM-p0952-s1-w35</m.rf>
 <afun>AuxK</afun>
 <ord>35</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -3135,12 +3135,12 @@
 <afun>Adv</afun>
 <ord>1</ord>
 </LM>
-</children>
-</LM>
 <LM id="faust_2010_07_es_09-SCzechA-p0954-s1-w3">
 <m.rf>m#es_09-SCzechM-p0954-s1-w3</m.rf>
 <afun>AuxK</afun>
 <ord>3</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -3482,12 +3482,12 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="faust_2010_07_es_09-SCzechA-p0966-s1-w17">
 <m.rf>m#es_09-SCzechM-p0966-s1-w17</m.rf>
 <afun>AuxK</afun>
 <ord>17</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -3762,12 +3762,12 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="faust_2010_07_es_09-SCzechA-p0967-s1-w39">
 <m.rf>m#es_09-SCzechM-p0967-s1-w39</m.rf>
 <afun>AuxK</afun>
 <ord>44</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -3828,12 +3828,12 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="faust_2010_07_es_09-SCzechA-p0971-s1-w10">
 <m.rf>m#es_09-SCzechM-p0971-s1-w10</m.rf>
 <afun>AuxK</afun>
 <ord>10</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

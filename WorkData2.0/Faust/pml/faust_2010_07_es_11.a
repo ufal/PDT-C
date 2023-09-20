@@ -222,12 +222,12 @@
 <afun>Obj</afun>
 <ord>8</ord>
 </LM>
-</children>
-</LM>
 <LM id="faust_2010_07_es_11-SCzechA-p1081-s1-w9">
 <m.rf>m#es_11-SCzechM-p1081-s1-w9</m.rf>
 <afun>AuxK</afun>
 <ord>9</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -286,12 +286,12 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="faust_2010_07_es_11-SCzechA-p1082-s1-w10">
 <m.rf>m#es_11-SCzechM-p1082-s1-w10</m.rf>
 <afun>AuxK</afun>
 <ord>10</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -867,12 +867,12 @@
 <afun>AuxT</afun>
 <ord>2</ord>
 </LM>
-</children>
-</LM>
 <LM id="faust_2010_07_es_11-SCzechA-p1104-s1-w4">
 <m.rf>m#es_11-SCzechM-p1104-s1-w4</m.rf>
 <afun>AuxK</afun>
 <ord>4</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -1176,12 +1176,12 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="faust_2010_07_es_11-SCzechA-p1114-s1-w20">
 <m.rf>m#es_11-SCzechM-p1114-s1-w20</m.rf>
 <afun>AuxK</afun>
 <ord>20</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -1223,12 +1223,12 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="faust_2010_07_es_11-SCzechA-p1120-s1-w7">
 <m.rf>m#es_11-SCzechM-p1120-s1-w7</m.rf>
 <afun>AuxK</afun>
 <ord>7</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -1728,12 +1728,12 @@
 <afun>Pnom</afun>
 <ord>2</ord>
 </LM>
-</children>
-</LM>
 <LM id="faust_2010_07_es_11-SCzechA-p1142-s1-w3">
 <m.rf>m#es_11-SCzechM-p1142-s1-w3</m.rf>
 <afun>AuxK</afun>
 <ord>3</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -2370,8 +2370,6 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="faust_2010_07_es_11-SCzechA-p1166-s1-w17">
 <m.rf>m#es_11-SCzechM-p1166-s1-w17</m.rf>
 <afun>AuxK</afun>
@@ -2381,6 +2379,8 @@
 <m.rf>m#es_11-SCzechM-p1166-s1-w30</m.rf>
 <afun>AuxK</afun>
 <ord>30</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -2720,12 +2720,12 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="faust_2010_07_es_11-SCzechA-p1170-s1-w52">
 <m.rf>m#es_11-SCzechM-p1170-s1-w52</m.rf>
 <afun>AuxK</afun>
 <ord>52</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -2853,12 +2853,12 @@
 <afun>Apos</afun>
 <ord>8</ord>
 </LM>
-</children>
-</LM>
 <LM id="faust_2010_07_es_11-SCzechA-p1172-s1-w21">
 <m.rf>m#es_11-SCzechM-p1172-s1-w21</m.rf>
 <afun>AuxK</afun>
 <ord>21</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
