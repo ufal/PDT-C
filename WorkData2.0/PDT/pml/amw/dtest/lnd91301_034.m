@@ -1061,7 +1061,7 @@
 </w.rf>
 <form>obyvatel</form>
 <lemma>obyvatel</lemma>
-<tag>NNMS1-----A----</tag>
+<tag>NNMP2-----A---1</tag>
 </m>
 <m id="m-lnd91301-034-p5s3w9">
 <src.rf>manual</src.rf>
@@ -2523,7 +2523,7 @@
 </w.rf>
 <form>obyvatel</form>
 <lemma>obyvatel</lemma>
-<tag>NNMS1-----A----</tag>
+<tag>NNMP2-----A---1</tag>
 </m>
 <m id="m-lnd91301-034-p7s5w12">
 <src.rf>manual</src.rf>

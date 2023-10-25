@@ -887,7 +887,7 @@
 </w.rf>
 <form>obyvatel</form>
 <lemma>obyvatel</lemma>
-<tag>NNMS1-----A----</tag>
+<tag>NNMP2-----A---1</tag>
 </m>
 <m id="m-mf920902-102-p2s6w5">
 <src.rf>manual</src.rf>

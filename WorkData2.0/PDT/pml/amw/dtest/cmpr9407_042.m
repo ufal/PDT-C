@@ -6033,7 +6033,7 @@
 </w.rf>
 <form>obyvatel</form>
 <lemma>obyvatel</lemma>
-<tag>NNMS1-----A----</tag>
+<tag>NNMP2-----A---1</tag>
 </m>
 <m id="m-cmpr9407-042-p45s2w4">
 <src.rf>manual</src.rf>

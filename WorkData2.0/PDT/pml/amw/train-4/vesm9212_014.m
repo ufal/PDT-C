@@ -7376,7 +7376,7 @@
 </w.rf>
 <form>obyvatel</form>
 <lemma>obyvatel</lemma>
-<tag>NNMS1-----A----</tag>
+<tag>NNMP2-----A---1</tag>
 </m>
 <m id="m-vesm9212-014-p13s12w17">
 <src.rf>manual</src.rf>
@@ -16358,7 +16358,7 @@
 </w.rf>
 <form>obyvatel</form>
 <lemma>obyvatel</lemma>
-<tag>NNMS1-----A----</tag>
+<tag>NNMP2-----A---1</tag>
 </m>
 <m id="m-vesm9212-014-p22s9w19">
 <src.rf>manual</src.rf>

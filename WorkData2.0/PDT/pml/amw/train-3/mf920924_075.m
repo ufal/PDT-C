@@ -251,7 +251,7 @@
 </w.rf>
 <form>obyvatel</form>
 <lemma>obyvatel</lemma>
-<tag>NNMS1-----A----</tag>
+<tag>NNMP2-----A---1</tag>
 </m>
 <m id="m-mf920924-075-p3s2w6">
 <src.rf>manual</src.rf>

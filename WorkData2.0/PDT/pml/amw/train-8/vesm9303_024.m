@@ -224,7 +224,7 @@
 </w.rf>
 <form>obyvatel</form>
 <lemma>obyvatel</lemma>
-<tag>NNMS1-----A----</tag>
+<tag>NNMP2-----A---1</tag>
 </m>
 <m id="m-vesm9303-024-p4s1w15">
 <src.rf>manual</src.rf>
@@ -2427,7 +2427,7 @@
 </w.rf>
 <form>obyvatel</form>
 <lemma>obyvatel</lemma>
-<tag>NNMS1-----A----</tag>
+<tag>NNMP2-----A---1</tag>
 </m>
 <m id="m-vesm9303-024-p5s3w19">
 <src.rf>manual</src.rf>
@@ -5411,7 +5411,7 @@
 </w.rf>
 <form>obyvatel</form>
 <lemma>obyvatel</lemma>
-<tag>NNMS1-----A----</tag>
+<tag>NNMP2-----A---1</tag>
 </m>
 <m id="m-vesm9303-024-p10s1w41">
 <src.rf>manual</src.rf>
@@ -7157,7 +7157,7 @@
 </w.rf>
 <form>obyvatel</form>
 <lemma>obyvatel</lemma>
-<tag>NNMS1-----A----</tag>
+<tag>NNMP2-----A---1</tag>
 </m>
 <m id="m-vesm9303-024-p13s3w11">
 <src.rf>manual</src.rf>
@@ -7337,7 +7337,7 @@
 </w.rf>
 <form>obyvatel</form>
 <lemma>obyvatel</lemma>
-<tag>NNMS1-----A----</tag>
+<tag>NNMP2-----A---1</tag>
 </m>
 <m id="m-vesm9303-024-p13s3w31">
 <src.rf>manual</src.rf>
@@ -7436,7 +7436,7 @@
 </w.rf>
 <form>obyvatel</form>
 <lemma>obyvatel</lemma>
-<tag>NNMS1-----A----</tag>
+<tag>NNMP2-----A---1</tag>
 </m>
 <m id="m-vesm9303-024-p13s3w42">
 <src.rf>manual</src.rf>
@@ -10050,7 +10050,7 @@
 </w.rf>
 <form>obyvatel</form>
 <lemma>obyvatel</lemma>
-<tag>NNMS1-----A----</tag>
+<tag>NNMP2-----A---1</tag>
 </m>
 <m id="m-vesm9303-024-p17s3w17">
 <src.rf>manual</src.rf>
@@ -12134,7 +12134,7 @@
 </w.rf>
 <form>obyvatel</form>
 <lemma>obyvatel</lemma>
-<tag>NNMS1-----A----</tag>
+<tag>NNMP2-----A---1</tag>
 </m>
 <m id="m-vesm9303-024-p20s3w21">
 <src.rf>manual</src.rf>
@@ -12170,7 +12170,7 @@
 </w.rf>
 <form>obyvatel</form>
 <lemma>obyvatel</lemma>
-<tag>NNMS1-----A----</tag>
+<tag>NNMP2-----A---1</tag>
 </m>
 <m id="m-vesm9303-024-p20s3w25">
 <src.rf>manual</src.rf>
@@ -19939,7 +19939,7 @@
 </w.rf>
 <form>obyvatel</form>
 <lemma>obyvatel</lemma>
-<tag>NNMS1-----A----</tag>
+<tag>NNMP2-----A---1</tag>
 </m>
 <m id="m-vesm9303-024-p32s3w52">
 <src.rf>manual</src.rf>

@@ -303,7 +303,7 @@
 </w.rf>
 <form>obyvatel</form>
 <lemma>obyvatel</lemma>
-<tag>NNMS1-----A----</tag>
+<tag>NNMP2-----A---1</tag>
 </m>
 <m id="m-cmpr9407-048-p4s1w15">
 <src.rf>manual</src.rf>
