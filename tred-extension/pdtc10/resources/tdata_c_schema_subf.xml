@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pml_schema xmlns="http://ufal.mff.cuni.cz/pdt/pml/schema/" version="1.1">
+  <revision>1.0.0</revision>
+  <description>PDT-C tectogrammatic trees with experimental subfunctor annotation</description>
+  <reference name="adata" readas="trees"/>
+
+  <type name="t-subfunctor.type">
+    <cdata format="any"/>
+  </type>
+
+  <import schema="tdata_c_schema.xml"/>
+</pml_schema>
