@@ -9,7 +9,7 @@ function nsort() {
 }
 
 if [[ ! -f templates.o ]] ; then
-    time btred -qI "$scripts_dir"/templates.btred annotators/???/done/wsj*.cz.a > templates.o
+    time btred -qI "$scripts_dir"/templates.btred annotators/???/done/*.a > templates.o
 fi
 
 cut -f1,4 templates.o | nsort | grep -v '^ *1 ' > templates.no_afun
