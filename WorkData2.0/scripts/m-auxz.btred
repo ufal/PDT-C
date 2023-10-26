@@ -1,0 +1,65 @@
+#!btred -NTe m_auxz()
+# -*- encoding: utf-8 -*-
+use warnings;
+use strict;
+use utf8;
+use open IO => ':encoding(UTF-8)', ':std';
+
+my %A = (
+    jako => {
+        AuxC  => ['jako-1', 'J,-------------'],
+        Coord => ['jako-2', 'J^-------------'],
+        Apos  => ['jako-2', 'J^-------------'],
+        # AuxZ  => ['jako-3', 'TT-------------']
+    },
+    dobře => {AuxZ => ['dobře-2', 'TT-------------']},
+    také  => {AuxZ => ['také', 'TT-------------']},
+    taky  => {AuxZ => ['taky_,s_^(^DD**také)', 'TT-------------']},
+    též   => {AuxZ => ['též', 'TT-------------']});
+
+sub m_auxz {
+    ChangingFile(0);
+    return unless $this->parent;
+
+    my $form = lc $this->attr('m/form');
+    if (exists $A{$form}) {
+        if (exists $A{$form}{ $this->{afun} }) {
+            my ($lemma, $tag) = @{ $A{$form}{ $this->{afun} } };
+            if ($this->attr('m/lemma') eq $lemma
+                && $this->attr('m/tag') eq $tag
+            ) {
+                print "Found\t";
+                FPosition();
+            } else {
+                print "Fix lemma or tag for $form\t";
+                $this->{m}{tag}   = $tag;
+                $this->{m}{lemma} = $lemma;
+                ChangingFile(1);
+
+                if (grep $_->{type} eq 'M-layer', ListV($this->{comments})) {
+                    my @comments = grep $_->{type} ne 'M-layer',
+                                   ListV($this->{comments});
+                    if (@comments) {
+                        $this->{comments} = List(@comments);
+                    } else {
+                        delete $this->{comments};
+                    }
+                }
+                FPosition();
+            }
+        } elsif ($form ne 'dobře') {
+            print "Unknown afun $this->{afun} for $form\t";
+            FPosition();
+        }
+
+    } elsif ($this->attr('m/lemma') eq 'každý') {
+        if ($this->{m}{tag} =~ s/^AA/PL/) {
+            ChangingFile(1);
+            print "Tag changed for každý\t";
+            FPosition();
+        } elsif ($this->attr('m/tag') !~ /^PL/) {
+            print "Invalid tag for každý\t";
+            FPosition();
+        }
+    }
+}
