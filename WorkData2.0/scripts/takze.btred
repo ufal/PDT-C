@@ -1,0 +1,30 @@
+#!btred -NTe takze()
+# -*- mode: cperl; encoding: utf-8 -*-
+
+# Needs -K ALL to save the changes to m-files!
+
+use warnings;
+use strict;
+
+sub takze {
+    return unless $this->parent;
+
+    if (lc $this->attr('m/form') eq 'takže') {
+        my $form     = $this->attr('m/form');
+        my $lemma    = $this->attr('m/lemma');
+        my $tag      = $this->attr('m/tag');
+        my $afun     = $this->{afun};
+        my @comments = @{ $this->{comments} // [] };
+
+        $this->{m}{tag} = 'J^-------------';
+        ChangingFile(1);
+        if ('Coord' ne $afun
+            && ('AuxZ' ne $afun || 0 != index $form, 'T')
+            || grep $_->{type} ne 'T-layer', @comments
+        ) {
+            print join "\t", $form, $lemma, $tag, $afun,
+                join(',', map $_->{type}, @comments), "";
+            FPosition();
+        }
+    }
+}
