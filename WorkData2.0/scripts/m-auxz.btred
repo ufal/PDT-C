@@ -1,5 +1,8 @@
 #!btred -NTe m_auxz()
-# -*- encoding: utf-8 -*-
+# -*- encoding: utf-8; mode: cperl -*-
+
+# Needs -K ALL to save the changes to m-files!
+
 use warnings;
 use strict;
 use utf8;
