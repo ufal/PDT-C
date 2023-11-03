@@ -2696,7 +2696,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m-cmpr9416-002-p16s3w21">
 <src.rf>manual</src.rf>
@@ -5897,7 +5897,7 @@
 </w.rf>
 <form>Takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m-cmpr9416-002-p23s3w2">
 <src.rf>manual</src.rf>
@@ -11270,7 +11270,7 @@
 </w.rf>
 <form>Takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m-cmpr9416-002-p37s1w3">
 <src.rf>manual</src.rf>
@@ -15056,7 +15056,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m-cmpr9416-002-p46s4w9">
 <src.rf>manual</src.rf>
@@ -18087,7 +18087,7 @@
 </w.rf>
 <form>Takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m-cmpr9416-002-p56s1w3">
 <src.rf>manual</src.rf>

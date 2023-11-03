@@ -2000,7 +2000,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln94201-72-p3s6w16">
 <src.rf>manual</src.rf>

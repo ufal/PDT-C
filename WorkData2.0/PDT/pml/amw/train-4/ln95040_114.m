@@ -150,7 +150,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln95040-114-p2s1Bw10">
 <src.rf>manual</src.rf>

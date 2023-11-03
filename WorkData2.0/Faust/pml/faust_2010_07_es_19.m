@@ -1739,7 +1739,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="es_19-SCzechM-p2021-s1-w24">
 <w.rf>

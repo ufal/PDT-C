@@ -4161,7 +4161,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m-mf930703-127-p2s36w15">
 <src.rf>manual</src.rf>
@@ -7688,7 +7688,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m-mf930703-127-p2s67w16">
 <src.rf>manual</src.rf>

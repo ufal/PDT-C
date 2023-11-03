@@ -7245,7 +7245,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m-lnd92255-080-p12s9w19">
 <src.rf>manual</src.rf>
@@ -8828,7 +8828,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m-lnd92255-080-p16s1w16">
 <src.rf>manual</src.rf>

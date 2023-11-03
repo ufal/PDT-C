@@ -11501,7 +11501,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m-vesm9301-047-p16s8w36">
 <src.rf>manual</src.rf>
@@ -18856,7 +18856,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m-vesm9301-047-p23s3w10">
 <src.rf>manual</src.rf>

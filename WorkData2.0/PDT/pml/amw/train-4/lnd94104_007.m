@@ -478,7 +478,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m-lnd94104-007-p1s5w13">
 <src.rf>manual</src.rf>

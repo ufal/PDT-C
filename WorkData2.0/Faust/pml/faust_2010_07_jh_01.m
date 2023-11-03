@@ -2020,7 +2020,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="jh_01-SCzechM-p0051-s1-w27">
 <w.rf>

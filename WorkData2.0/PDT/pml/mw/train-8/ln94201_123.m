@@ -2018,7 +2018,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m-ln94201-123-p5s3w9">
 <src.rf>manual</src.rf>

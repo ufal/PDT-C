@@ -2883,7 +2883,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="es_12-SCzechM-p1263-s1-w43">
 <w.rf>

@@ -1912,7 +1912,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m-lnd91301-005-p4s4w17">
 <src.rf>manual</src.rf>

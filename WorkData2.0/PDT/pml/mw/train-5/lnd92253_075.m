@@ -979,7 +979,7 @@
 </w.rf>
 <form>takže</form>
 <lemma>takže</lemma>
-<tag>J,-------------</tag>
+<tag>J^-------------</tag>
 </m>
 <m id="m-lnd92253-075-p3s5w31">
 <src.rf>manual</src.rf>
