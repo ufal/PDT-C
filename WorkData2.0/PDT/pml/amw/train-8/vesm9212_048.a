@@ -120,13 +120,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-vesm9212-048-p1s1w16">
 <m.rf>m#m-vesm9212-048-p1s1w16</m.rf>
 <afun>AuxK</afun>
 <ord>16</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -279,8 +279,6 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-vesm9212-048-p1s2w22">
 <m.rf>m#m-vesm9212-048-p1s2w22</m.rf>
 <afun>AuxK</afun>
@@ -298,6 +296,8 @@
 <afun>AuxK</afun>
 <ord>24</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -481,13 +481,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-vesm9212-048-p2s1w26">
 <m.rf>m#m-vesm9212-048-p2s1w26</m.rf>
 <afun>AuxK</afun>
 <ord>26</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -585,8 +585,6 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-vesm9212-048-p2s2w14">
 <m.rf>m#m-vesm9212-048-p2s2w14</m.rf>
 <afun>AuxK</afun>
@@ -604,6 +602,8 @@
 <afun>AuxK</afun>
 <ord>16</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -801,13 +801,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-vesm9212-048-p2s3w29">
 <m.rf>m#m-vesm9212-048-p2s3w29</m.rf>
 <afun>AuxK</afun>
 <ord>29</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -899,13 +899,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-vesm9212-048-p3s1w13">
 <m.rf>m#m-vesm9212-048-p3s1w13</m.rf>
 <afun>AuxK</afun>
 <ord>13</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -1147,13 +1147,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-vesm9212-048-p3s2w34">
 <m.rf>m#m-vesm9212-048-p3s2w34</m.rf>
 <afun>AuxK</afun>
 <ord>34</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -1370,13 +1370,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-vesm9212-048-p3s3w31">
 <m.rf>m#m-vesm9212-048-p3s3w31</m.rf>
 <afun>AuxK</afun>
 <ord>31</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

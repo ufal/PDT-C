@@ -150,13 +150,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-mf920924-046-p1s1Aw19">
 <m.rf>m#m-mf920924-046-p1s1Aw19</m.rf>
 <afun>AuxK</afun>
 <ord>19</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -228,13 +228,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-mf920924-046-p1s1Bw10">
 <m.rf>m#m-mf920924-046-p1s1Bw10</m.rf>
 <afun>AuxK</afun>
 <ord>10</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -296,13 +296,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-mf920924-046-p1s2w9">
 <m.rf>m#m-mf920924-046-p1s2w9</m.rf>
 <afun>AuxK</afun>
 <ord>9</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -540,13 +540,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-mf920924-046-p1s3w33">
 <m.rf>m#m-mf920924-046-p1s3w33</m.rf>
 <afun>AuxK</afun>
 <ord>33</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -644,8 +644,6 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-mf920924-046-p1s4w14">
 <m.rf>m#m-mf920924-046-p1s4w14</m.rf>
 <afun>AuxK</afun>
@@ -663,6 +661,8 @@
 <afun>AuxK</afun>
 <ord>16</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -908,13 +908,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-mf920924-046-p1s5w36">
 <m.rf>m#m-mf920924-046-p1s5w36</m.rf>
 <afun>AuxK</afun>
 <ord>35</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -1040,13 +1040,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-mf920924-046-p1s6w17">
 <m.rf>m#m-mf920924-046-p1s6w17</m.rf>
 <afun>AuxK</afun>
 <ord>17</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -1155,13 +1155,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-mf920924-046-p1s7w15">
 <m.rf>m#m-mf920924-046-p1s7w15</m.rf>
 <afun>AuxK</afun>
 <ord>15</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

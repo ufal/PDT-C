@@ -246,13 +246,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-lnd94104-114-p1s1Bw22">
 <m.rf>m#m-lnd94104-114-p1s1Bw22</m.rf>
 <afun>AuxK</afun>
 <ord>22</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -338,13 +338,13 @@
 <ord>6</ord>
 <clause_number>1</clause_number>
 </LM>
-</children>
-</LM>
 <LM id="a-lnd94104-114-p1s2w12">
 <m.rf>m#m-lnd94104-114-p1s2w12</m.rf>
 <afun>AuxK</afun>
 <ord>12</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -476,13 +476,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-lnd94104-114-p1s3w18">
 <m.rf>m#m-lnd94104-114-p1s3w18</m.rf>
 <afun>AuxK</afun>
 <ord>18</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -666,13 +666,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-lnd94104-114-p1s4w26">
 <m.rf>m#m-lnd94104-114-p1s4w26</m.rf>
 <afun>AuxK</afun>
 <ord>26</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -794,13 +794,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-lnd94104-114-p1s5w17">
 <m.rf>m#m-lnd94104-114-p1s5w17</m.rf>
 <afun>AuxK</afun>
 <ord>17</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -964,13 +964,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-lnd94104-114-p1s6w24">
 <m.rf>m#m-lnd94104-114-p1s6w24</m.rf>
 <afun>AuxK</afun>
 <ord>24</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -1050,6 +1050,12 @@
 </LM>
 </children>
 </LM>
+<LM id="a-lnd94104-114-p1s7w11">
+<m.rf>m#m-lnd94104-114-p1s7w11</m.rf>
+<afun>AuxK</afun>
+<ord>11</ord>
+<clause_number>0</clause_number>
+</LM>
 <LM id="a-lnd94104-114-p1s7w12">
 <m.rf>m#m-lnd94104-114-p1s7w12</m.rf>
 <afun>AuxG</afun>
@@ -1057,12 +1063,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-</LM>
-<LM id="a-lnd94104-114-p1s7w11">
-<m.rf>m#m-lnd94104-114-p1s7w11</m.rf>
-<afun>AuxK</afun>
-<ord>11</ord>
-<clause_number>0</clause_number>
 </LM>
 </children>
 </LM>

@@ -60,12 +60,14 @@
 <afun>ExD</afun>
 <ord>4</ord>
 <clause_number>0</clause_number>
-</LM>
+<children>
 <LM id="a-mf920923-092-p2s1w5">
 <m.rf>m#m-mf920923-092-p2s1w5</m.rf>
 <afun>AuxK</afun>
 <ord>5</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -320,13 +322,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-mf920923-092-p2s2w36">
 <m.rf>m#m-mf920923-092-p2s2w36</m.rf>
 <afun>AuxK</afun>
 <ord>36</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -418,13 +420,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-mf920923-092-p2s3w13">
 <m.rf>m#m-mf920923-092-p2s3w13</m.rf>
 <afun>AuxK</afun>
 <ord>13</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

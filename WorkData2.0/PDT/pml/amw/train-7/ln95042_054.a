@@ -158,13 +158,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-ln95042-054-p2s1w17">
 <m.rf>m#m-ln95042-054-p2s1w17</m.rf>
 <afun>AuxK</afun>
 <ord>16</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -344,13 +344,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-ln95042-054-p2s2w25">
 <m.rf>m#m-ln95042-054-p2s2w25</m.rf>
 <afun>AuxK</afun>
 <ord>25</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -635,13 +635,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-ln95042-054-p2s3w40">
 <m.rf>m#m-ln95042-054-p2s3w40</m.rf>
 <afun>AuxK</afun>
 <ord>40</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -823,13 +823,13 @@
 <ord>25</ord>
 <clause_number>5</clause_number>
 </LM>
-</children>
-</LM>
 <LM id="a-ln95042-054-p2s4w25">
 <m.rf>m#m-ln95042-054-p2s4w25</m.rf>
 <afun>AuxK</afun>
 <ord>26</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

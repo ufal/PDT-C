@@ -156,13 +156,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-vesm9211-047-p2s1w7">
 <m.rf>m#m-vesm9211-047-p2s1w7</m.rf>
 <afun>AuxK</afun>
 <ord>7</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -248,13 +248,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-vesm9211-047-p3s1w12">
 <m.rf>m#m-vesm9211-047-p3s1w12</m.rf>
 <afun>AuxK</afun>
 <ord>12</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -355,13 +355,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-vesm9211-047-p5s1w14">
 <m.rf>m#m-vesm9211-047-p5s1w14</m.rf>
 <afun>AuxK</afun>
 <ord>14</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -449,6 +449,12 @@
 </LM>
 </children>
 </LM>
+<LM id="a-vesm9211-047-p7s1w12">
+<m.rf>m#m-vesm9211-047-p7s1w12</m.rf>
+<afun>AuxK</afun>
+<ord>12</ord>
+<clause_number>0</clause_number>
+</LM>
 <LM id="a-vesm9211-047-p7s1w13">
 <m.rf>m#m-vesm9211-047-p7s1w13</m.rf>
 <afun>AuxG</afun>
@@ -456,12 +462,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-</LM>
-<LM id="a-vesm9211-047-p7s1w12">
-<m.rf>m#m-vesm9211-047-p7s1w12</m.rf>
-<afun>AuxK</afun>
-<ord>12</ord>
-<clause_number>0</clause_number>
 </LM>
 </children>
 </LM>

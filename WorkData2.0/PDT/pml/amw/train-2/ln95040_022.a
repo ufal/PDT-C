@@ -41,12 +41,14 @@
 <afun>Denom</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
-</LM>
+<children>
 <LM id="a-ln95040-022-p2s1Aw2">
 <m.rf>m#m-ln95040-022-p2s1Aw2</m.rf>
 <afun>AuxK</afun>
 <ord>2</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -154,13 +156,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-ln95040-022-p2s1Bw16">
 <m.rf>m#m-ln95040-022-p2s1Bw16</m.rf>
 <afun>AuxK</afun>
 <ord>16</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -330,13 +332,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-ln95040-022-p2s2w24">
 <m.rf>m#m-ln95040-022-p2s2w24</m.rf>
 <afun>AuxK</afun>
 <ord>24</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -544,13 +546,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-ln95040-022-p2s3w29">
 <m.rf>m#m-ln95040-022-p2s3w29</m.rf>
 <afun>AuxK</afun>
 <ord>29</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

@@ -89,12 +89,14 @@
 <afun>Denom</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
-</LM>
+<children>
 <LM id="a-mf920902-093-p2s1w2">
 <m.rf>m#m-mf920902-093-p2s1w2</m.rf>
 <afun>AuxK</afun>
 <ord>2</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -210,13 +212,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-mf920902-093-p2s2w16">
 <m.rf>m#m-mf920902-093-p2s2w16</m.rf>
 <afun>AuxK</afun>
 <ord>16</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -539,13 +541,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-mf920902-093-p2s3w44">
 <m.rf>m#m-mf920902-093-p2s3w44</m.rf>
 <afun>AuxK</afun>
 <ord>44</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -824,13 +826,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-mf920902-093-p2s4w40">
 <m.rf>m#m-mf920902-093-p2s4w40</m.rf>
 <afun>AuxK</afun>
 <ord>39</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

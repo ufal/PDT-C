@@ -153,12 +153,14 @@
 <afun>ExD</afun>
 <ord>2</ord>
 <clause_number>1</clause_number>
-</LM>
+<children>
 <LM id="a-cmpr9416-045-p5s1w3">
 <m.rf>m#m-cmpr9416-045-p5s1w3</m.rf>
 <afun>AuxK</afun>
 <ord>3</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -592,13 +594,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-cmpr9416-045-p19s1w51">
 <m.rf>m#m-cmpr9416-045-p19s1w51</m.rf>
 <afun>AuxK</afun>
 <ord>51</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -710,13 +712,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-cmpr9416-045-p19s2w16">
 <m.rf>m#m-cmpr9416-045-p19s2w16</m.rf>
 <afun>AuxK</afun>
 <ord>16</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -852,13 +854,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-cmpr9416-045-p19s3w19">
 <m.rf>m#m-cmpr9416-045-p19s3w19</m.rf>
 <afun>AuxK</afun>
 <ord>19</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

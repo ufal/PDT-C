@@ -60,12 +60,14 @@
 <afun>ExD</afun>
 <ord>4</ord>
 <clause_number>0</clause_number>
-</LM>
+<children>
 <LM id="a-mf920902-051-p2s1w5">
 <m.rf>m#m-mf920902-051-p2s1w5</m.rf>
 <afun>AuxK</afun>
 <ord>5</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -139,13 +141,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-mf920902-051-p2s2w11">
 <m.rf>m#m-mf920902-051-p2s2w11</m.rf>
 <afun>AuxK</afun>
 <ord>11</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -373,13 +375,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-mf920902-051-p2s3w33">
 <m.rf>m#m-mf920902-051-p2s3w33</m.rf>
 <afun>AuxK</afun>
 <ord>33</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -583,13 +585,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-mf920902-051-p2s4w28">
 <m.rf>m#m-mf920902-051-p2s4w28</m.rf>
 <afun>AuxK</afun>
 <ord>28</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -738,13 +740,13 @@
 <ord>20</ord>
 <clause_number>1</clause_number>
 </LM>
-</children>
-</LM>
 <LM id="a-mf920902-051-p2s5w21">
 <m.rf>m#m-mf920902-051-p2s5w21</m.rf>
 <afun>AuxK</afun>
 <ord>21</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -868,13 +870,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-mf920902-051-p2s6w17">
 <m.rf>m#m-mf920902-051-p2s6w17</m.rf>
 <afun>AuxK</afun>
 <ord>17</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -974,6 +976,12 @@
 </LM>
 </children>
 </LM>
+<LM id="a-mf920902-051-p2s7w14">
+<m.rf>m#m-mf920902-051-p2s7w14</m.rf>
+<afun>AuxK</afun>
+<ord>14</ord>
+<clause_number>0</clause_number>
+</LM>
 <LM id="a-mf920902-051-p2s7w15">
 <m.rf>m#m-mf920902-051-p2s7w15</m.rf>
 <afun>AuxG</afun>
@@ -981,12 +989,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-</LM>
-<LM id="a-mf920902-051-p2s7w14">
-<m.rf>m#m-mf920902-051-p2s7w14</m.rf>
-<afun>AuxK</afun>
-<ord>14</ord>
-<clause_number>0</clause_number>
 </LM>
 </children>
 </LM>

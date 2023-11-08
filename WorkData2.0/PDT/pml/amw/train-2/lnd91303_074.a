@@ -277,13 +277,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-lnd91303-074-p3s1w28">
 <m.rf>m#m-lnd91303-074-p3s1w28</m.rf>
 <afun>AuxK</afun>
 <ord>28</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -381,6 +381,12 @@
 </LM>
 </children>
 </LM>
+<LM id="a-lnd91303-074-p3s2w14">
+<m.rf>m#m-lnd91303-074-p3s2w14</m.rf>
+<afun>AuxK</afun>
+<ord>14</ord>
+<clause_number>0</clause_number>
+</LM>
 <LM id="a-lnd91303-074-p3s2w15">
 <m.rf>m#m-lnd91303-074-p3s2w15</m.rf>
 <afun>AuxG</afun>
@@ -388,12 +394,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-</LM>
-<LM id="a-lnd91303-074-p3s2w14">
-<m.rf>m#m-lnd91303-074-p3s2w14</m.rf>
-<afun>AuxK</afun>
-<ord>14</ord>
-<clause_number>0</clause_number>
 </LM>
 </children>
 </LM>
@@ -542,13 +542,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-lnd91303-074-p4s1w22">
 <m.rf>m#m-lnd91303-074-p4s1w22</m.rf>
 <afun>AuxK</afun>
 <ord>22</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -746,13 +746,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-lnd91303-074-p4s2w28">
 <m.rf>m#m-lnd91303-074-p4s2w28</m.rf>
 <afun>AuxK</afun>
 <ord>28</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -920,13 +920,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-lnd91303-074-p4s3w23">
 <m.rf>m#m-lnd91303-074-p4s3w23</m.rf>
 <afun>AuxK</afun>
 <ord>23</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -1282,13 +1282,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-lnd91303-074-p5s1w49">
 <m.rf>m#m-lnd91303-074-p5s1w49</m.rf>
 <afun>AuxK</afun>
 <ord>49</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -1398,13 +1398,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-lnd91303-074-p5s2w15">
 <m.rf>m#m-lnd91303-074-p5s2w15</m.rf>
 <afun>AuxK</afun>
 <ord>15</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
