@@ -937,17 +937,19 @@
 <ord>11</ord>
 <clause_number>3</clause_number>
 <children>
+<LM id="a-mf920923-074-p2s6w9">
+<m.rf>m#m-mf920923-074-p2s6w9</m.rf>
+<afun>Atr</afun>
+<ord>9</ord>
+<clause_number>3</clause_number>
+<children>
 <LM id="a-mf920923-074-p2s6w8">
 <m.rf>m#m-mf920923-074-p2s6w8</m.rf>
 <afun>AuxG</afun>
 <ord>8</ord>
 <clause_number>0</clause_number>
 </LM>
-<LM id="a-mf920923-074-p2s6w9">
-<m.rf>m#m-mf920923-074-p2s6w9</m.rf>
-<afun>Atr</afun>
-<ord>9</ord>
-<clause_number>3</clause_number>
+</children>
 </LM>
 <LM id="a-mf920923-074-p2s6w10">
 <m.rf>m#m-mf920923-074-p2s6w10</m.rf>
@@ -1116,15 +1118,15 @@
 <ord>36</ord>
 <clause_number>4</clause_number>
 </LM>
-</children>
-</LM>
-</children>
-</LM>
 <LM id="a-mf920923-074-p2s6w39">
 <m.rf>m#m-mf920923-074-p2s6w39</m.rf>
 <afun>AuxG</afun>
 <ord>38</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -1299,18 +1301,18 @@
 <ord>14</ord>
 <clause_number>2</clause_number>
 <children>
-<LM id="a-mf920923-074-p4s1w7">
-<m.rf>m#m-mf920923-074-p4s1w7</m.rf>
-<afun>AuxG</afun>
-<ord>7</ord>
-<clause_number>0</clause_number>
-</LM>
 <LM id="a-mf920923-074-p4s1w8">
 <m.rf>m#m-mf920923-074-p4s1w8</m.rf>
 <afun>Sb</afun>
 <ord>8</ord>
 <clause_number>2</clause_number>
 <children>
+<LM id="a-mf920923-074-p4s1w7">
+<m.rf>m#m-mf920923-074-p4s1w7</m.rf>
+<afun>AuxG</afun>
+<ord>7</ord>
+<clause_number>0</clause_number>
+</LM>
 <LM id="a-mf920923-074-p4s1w11">
 <m.rf>m#m-mf920923-074-p4s1w11</m.rf>
 <afun>Atr</afun>
@@ -1645,6 +1647,12 @@
 <ord>12</ord>
 <clause_number>3</clause_number>
 </LM>
+<LM id="a-mf920923-074-p4s4w16">
+<m.rf>m#m-mf920923-074-p4s4w16</m.rf>
+<afun>AuxG</afun>
+<ord>15</ord>
+<clause_number>0</clause_number>
+</LM>
 </children>
 </LM>
 </children>
@@ -1657,12 +1665,6 @@
 <m.rf>m#m-mf920923-074-p4s4w15</m.rf>
 <afun>AuxK</afun>
 <ord>14</ord>
-<clause_number>0</clause_number>
-</LM>
-<LM id="a-mf920923-074-p4s4w16">
-<m.rf>m#m-mf920923-074-p4s4w16</m.rf>
-<afun>AuxG</afun>
-<ord>15</ord>
 <clause_number>0</clause_number>
 </LM>
 </children>

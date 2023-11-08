@@ -5175,17 +5175,19 @@
 <ord>16</ord>
 <clause_number>1</clause_number>
 <children>
+<LM id="a-cmpr9417-005-p13s7w14">
+<m.rf>m#m-cmpr9417-005-p13s7w14</m.rf>
+<afun>Atr</afun>
+<ord>14</ord>
+<clause_number>1</clause_number>
+<children>
 <LM id="a-cmpr9417-005-p13s7w13">
 <m.rf>m#m-cmpr9417-005-p13s7w13</m.rf>
 <afun>AuxG</afun>
 <ord>13</ord>
 <clause_number>1</clause_number>
 </LM>
-<LM id="a-cmpr9417-005-p13s7w14">
-<m.rf>m#m-cmpr9417-005-p13s7w14</m.rf>
-<afun>Atr</afun>
-<ord>14</ord>
-<clause_number>1</clause_number>
+</children>
 </LM>
 <LM id="a-cmpr9417-005-p13s7w15">
 <m.rf>m#m-cmpr9417-005-p13s7w15</m.rf>

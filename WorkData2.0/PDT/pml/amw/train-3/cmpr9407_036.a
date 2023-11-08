@@ -946,12 +946,14 @@
 <afun>Atr</afun>
 <ord>20</ord>
 <clause_number>1</clause_number>
-</LM>
+<children>
 <LM id="a-cmpr9407-036-p9s1w21">
 <m.rf>m#m-cmpr9407-036-p9s1w21</m.rf>
 <afun>AuxG</afun>
 <ord>21</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

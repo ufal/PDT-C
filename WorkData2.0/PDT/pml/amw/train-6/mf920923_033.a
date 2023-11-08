@@ -392,12 +392,6 @@
 <ord>8</ord>
 <clause_number>0</clause_number>
 <children>
-<LM id="a-mf920923-033-p2s2w1">
-<m.rf>m#m-mf920923-033-p2s2w1</m.rf>
-<afun>AuxG</afun>
-<ord>1</ord>
-<clause_number>0</clause_number>
-</LM>
 <LM id="a-mf920923-033-p2s2w4">
 <m.rf>m#m-mf920923-033-p2s2w4</m.rf>
 <afun>Obj</afun>
@@ -410,6 +404,14 @@
 <afun>Adv</afun>
 <ord>2</ord>
 <clause_number>1</clause_number>
+<children>
+<LM id="a-mf920923-033-p2s2w1">
+<m.rf>m#m-mf920923-033-p2s2w1</m.rf>
+<afun>AuxG</afun>
+<ord>1</ord>
+<clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 <LM id="a-mf920923-033-p2s2w6">
 <m.rf>m#m-mf920923-033-p2s2w6</m.rf>
@@ -484,6 +486,12 @@
 <ord>14</ord>
 <clause_number>2</clause_number>
 </LM>
+<LM id="a-mf920923-033-p2s2w17">
+<m.rf>m#m-mf920923-033-p2s2w17</m.rf>
+<afun>AuxG</afun>
+<ord>17</ord>
+<clause_number>0</clause_number>
+</LM>
 </children>
 </LM>
 </children>
@@ -494,12 +502,6 @@
 <m.rf>m#m-mf920923-033-p2s2w16</m.rf>
 <afun>AuxX</afun>
 <ord>16</ord>
-<clause_number>0</clause_number>
-</LM>
-<LM id="a-mf920923-033-p2s2w17">
-<m.rf>m#m-mf920923-033-p2s2w17</m.rf>
-<afun>AuxG</afun>
-<ord>17</ord>
 <clause_number>0</clause_number>
 </LM>
 </children>
@@ -980,6 +982,12 @@
 </LM>
 </children>
 </LM>
+<LM id="a-mf920923-033-p2s5w17">
+<m.rf>m#m-mf920923-033-p2s5w17</m.rf>
+<afun>AuxG</afun>
+<ord>17</ord>
+<clause_number>0</clause_number>
+</LM>
 </children>
 </LM>
 </children>
@@ -988,12 +996,6 @@
 <m.rf>m#m-mf920923-033-p2s5w16</m.rf>
 <afun>AuxK</afun>
 <ord>16</ord>
-<clause_number>0</clause_number>
-</LM>
-<LM id="a-mf920923-033-p2s5w17">
-<m.rf>m#m-mf920923-033-p2s5w17</m.rf>
-<afun>AuxG</afun>
-<ord>17</ord>
 <clause_number>0</clause_number>
 </LM>
 </children>
@@ -1380,12 +1382,6 @@
 <ord>21</ord>
 <clause_number>0</clause_number>
 <children>
-<LM id="a-mf920923-033-p3s4w1">
-<m.rf>m#m-mf920923-033-p3s4w1</m.rf>
-<afun>AuxG</afun>
-<ord>1</ord>
-<clause_number>0</clause_number>
-</LM>
 <LM id="a-mf920923-033-p3s4w24">
 <m.rf>m#m-mf920923-033-p3s4w24</m.rf>
 <afun>Pred</afun>
@@ -1404,6 +1400,14 @@
 <afun>Atr</afun>
 <ord>2</ord>
 <clause_number>1</clause_number>
+<children>
+<LM id="a-mf920923-033-p3s4w1">
+<m.rf>m#m-mf920923-033-p3s4w1</m.rf>
+<afun>AuxG</afun>
+<ord>1</ord>
+<clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 <LM id="a-mf920923-033-p3s4w3">
 <m.rf>m#m-mf920923-033-p3s4w3</m.rf>
@@ -1639,18 +1643,18 @@
 <ord>11</ord>
 <clause_number>2</clause_number>
 </LM>
+<LM id="a-mf920923-033-p3s5w14">
+<m.rf>m#m-mf920923-033-p3s5w14</m.rf>
+<afun>AuxG</afun>
+<ord>14</ord>
+<clause_number>0</clause_number>
+</LM>
 </children>
 </LM>
 <LM id="a-mf920923-033-p3s5w13">
 <m.rf>m#m-mf920923-033-p3s5w13</m.rf>
 <afun>AuxK</afun>
 <ord>13</ord>
-<clause_number>0</clause_number>
-</LM>
-<LM id="a-mf920923-033-p3s5w14">
-<m.rf>m#m-mf920923-033-p3s5w14</m.rf>
-<afun>AuxG</afun>
-<ord>14</ord>
 <clause_number>0</clause_number>
 </LM>
 </children>
@@ -1771,17 +1775,19 @@
 </LM>
 </children>
 </LM>
+<LM id="a-mf920923-033-p4s1w17">
+<m.rf>m#m-mf920923-033-p4s1w17</m.rf>
+<afun>Obj</afun>
+<ord>17</ord>
+<clause_number>1</clause_number>
+<children>
 <LM id="a-mf920923-033-p4s1w16">
 <m.rf>m#m-mf920923-033-p4s1w16</m.rf>
 <afun>AuxG</afun>
 <ord>16</ord>
 <clause_number>1</clause_number>
 </LM>
-<LM id="a-mf920923-033-p4s1w17">
-<m.rf>m#m-mf920923-033-p4s1w17</m.rf>
-<afun>Obj</afun>
-<ord>17</ord>
-<clause_number>1</clause_number>
+</children>
 </LM>
 <LM id="a-mf920923-033-p4s1w22">
 <m.rf>m#m-mf920923-033-p4s1w22</m.rf>
@@ -1811,13 +1817,13 @@
 </LM>
 </children>
 </LM>
-</children>
-</LM>
 <LM id="a-mf920923-033-p4s1w23">
 <m.rf>m#m-mf920923-033-p4s1w23</m.rf>
 <afun>AuxG</afun>
 <ord>23</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 <LM id="a-mf920923-033-p4s1w24">
 <m.rf>m#m-mf920923-033-p4s1w24</m.rf>
@@ -1852,18 +1858,18 @@
 <ord>12</ord>
 <clause_number>1</clause_number>
 <children>
-<LM id="a-mf920923-033-p4s2w1">
-<m.rf>m#m-mf920923-033-p4s2w1</m.rf>
-<afun>AuxG</afun>
-<ord>1</ord>
-<clause_number>0</clause_number>
-</LM>
 <LM id="a-mf920923-033-p4s2w2">
 <m.rf>m#m-mf920923-033-p4s2w2</m.rf>
 <afun>AuxP</afun>
 <ord>2</ord>
 <clause_number>1</clause_number>
 <children>
+<LM id="a-mf920923-033-p4s2w1">
+<m.rf>m#m-mf920923-033-p4s2w1</m.rf>
+<afun>AuxG</afun>
+<ord>1</ord>
+<clause_number>0</clause_number>
+</LM>
 <LM id="a-mf920923-033-p4s2w3">
 <m.rf>m#m-mf920923-033-p4s2w3</m.rf>
 <afun>Adv</afun>
@@ -2022,6 +2028,14 @@
 <afun>Atr</afun>
 <ord>27</ord>
 <clause_number>3</clause_number>
+<children>
+<LM id="a-mf920923-033-p4s2w29">
+<m.rf>m#m-mf920923-033-p4s2w29</m.rf>
+<afun>AuxG</afun>
+<ord>29</ord>
+<clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -2032,12 +2046,6 @@
 <clause_number>0</clause_number>
 </LM>
 </children>
-</LM>
-<LM id="a-mf920923-033-p4s2w29">
-<m.rf>m#m-mf920923-033-p4s2w29</m.rf>
-<afun>AuxG</afun>
-<ord>29</ord>
-<clause_number>0</clause_number>
 </LM>
 </children>
 </LM>
@@ -2197,12 +2205,6 @@
 <ord>5</ord>
 <clause_number>1</clause_number>
 <children>
-<LM id="a-mf920923-033-p4s4w1">
-<m.rf>m#m-mf920923-033-p4s4w1</m.rf>
-<afun>AuxG</afun>
-<ord>1</ord>
-<clause_number>0</clause_number>
-</LM>
 <LM id="a-mf920923-033-p4s4w3">
 <m.rf>m#m-mf920923-033-p4s4w3</m.rf>
 <afun>Sb</afun>
@@ -2214,6 +2216,14 @@
 <afun>Atr</afun>
 <ord>2</ord>
 <clause_number>1</clause_number>
+<children>
+<LM id="a-mf920923-033-p4s4w1">
+<m.rf>m#m-mf920923-033-p4s4w1</m.rf>
+<afun>AuxG</afun>
+<ord>1</ord>
+<clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -2353,6 +2363,12 @@
 <ord>9</ord>
 <clause_number>1</clause_number>
 </LM>
+<LM id="a-mf920923-033-p4s5w12">
+<m.rf>m#m-mf920923-033-p4s5w12</m.rf>
+<afun>AuxG</afun>
+<ord>12</ord>
+<clause_number>0</clause_number>
+</LM>
 </children>
 </LM>
 </children>
@@ -2367,12 +2383,6 @@
 <m.rf>m#m-mf920923-033-p4s5w11</m.rf>
 <afun>AuxX</afun>
 <ord>11</ord>
-<clause_number>0</clause_number>
-</LM>
-<LM id="a-mf920923-033-p4s5w12">
-<m.rf>m#m-mf920923-033-p4s5w12</m.rf>
-<afun>AuxG</afun>
-<ord>12</ord>
 <clause_number>0</clause_number>
 </LM>
 </children>

@@ -194,17 +194,19 @@
 <ord>14</ord>
 <clause_number>3</clause_number>
 <children>
+<LM id="a-mf920924-052-p3s1w12">
+<m.rf>m#m-mf920924-052-p3s1w12</m.rf>
+<afun>Sb</afun>
+<ord>12</ord>
+<clause_number>3</clause_number>
+<children>
 <LM id="a-mf920924-052-p3s1w11">
 <m.rf>m#m-mf920924-052-p3s1w11</m.rf>
 <afun>AuxG</afun>
 <ord>11</ord>
 <clause_number>0</clause_number>
 </LM>
-<LM id="a-mf920924-052-p3s1w12">
-<m.rf>m#m-mf920924-052-p3s1w12</m.rf>
-<afun>Sb</afun>
-<ord>12</ord>
-<clause_number>3</clause_number>
+</children>
 </LM>
 <LM id="a-mf920924-052-p3s1w16">
 <m.rf>m#m-mf920924-052-p3s1w16</m.rf>
@@ -236,15 +238,15 @@
 <ord>17</ord>
 <clause_number>3</clause_number>
 </LM>
-</children>
-</LM>
-</children>
-</LM>
 <LM id="a-mf920924-052-p3s1w19">
 <m.rf>m#m-mf920924-052-p3s1w19</m.rf>
 <afun>AuxG</afun>
 <ord>19</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -354,18 +356,18 @@
 <ord>5</ord>
 <clause_number>1</clause_number>
 <children>
-<LM id="a-mf920924-052-p3s2w1">
-<m.rf>m#m-mf920924-052-p3s2w1</m.rf>
-<afun>AuxG</afun>
-<ord>1</ord>
-<clause_number>0</clause_number>
-</LM>
 <LM id="a-mf920924-052-p3s2w2">
 <m.rf>m#m-mf920924-052-p3s2w2</m.rf>
 <afun>AuxP</afun>
 <ord>2</ord>
 <clause_number>1</clause_number>
 <children>
+<LM id="a-mf920924-052-p3s2w1">
+<m.rf>m#m-mf920924-052-p3s2w1</m.rf>
+<afun>AuxG</afun>
+<ord>1</ord>
+<clause_number>0</clause_number>
+</LM>
 <LM id="a-mf920924-052-p3s2w3">
 <m.rf>m#m-mf920924-052-p3s2w3</m.rf>
 <afun>Adv</afun>
@@ -1284,6 +1286,14 @@
 <afun>Atr</afun>
 <ord>12</ord>
 <clause_number>1</clause_number>
+<children>
+<LM id="a-mf920924-052-p3s9w14">
+<m.rf>m#m-mf920924-052-p3s9w14</m.rf>
+<afun>AuxG</afun>
+<ord>14</ord>
+<clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -1295,12 +1305,6 @@
 <m.rf>m#m-mf920924-052-p3s9w13</m.rf>
 <afun>AuxK</afun>
 <ord>13</ord>
-<clause_number>0</clause_number>
-</LM>
-<LM id="a-mf920924-052-p3s9w14">
-<m.rf>m#m-mf920924-052-p3s9w14</m.rf>
-<afun>AuxG</afun>
-<ord>14</ord>
 <clause_number>0</clause_number>
 </LM>
 </children>

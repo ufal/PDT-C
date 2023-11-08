@@ -899,6 +899,14 @@
 <is_member>1</is_member>
 <ord>8</ord>
 <clause_number>1</clause_number>
+<children>
+<LM id="a-mf920924-081-p3s6w10">
+<m.rf>m#m-mf920924-081-p3s6w10</m.rf>
+<afun>AuxG</afun>
+<ord>10</ord>
+<clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -910,12 +918,6 @@
 <m.rf>m#m-mf920924-081-p3s6w9</m.rf>
 <afun>AuxX</afun>
 <ord>9</ord>
-<clause_number>0</clause_number>
-</LM>
-<LM id="a-mf920924-081-p3s6w10">
-<m.rf>m#m-mf920924-081-p3s6w10</m.rf>
-<afun>AuxG</afun>
-<ord>10</ord>
 <clause_number>0</clause_number>
 </LM>
 </children>

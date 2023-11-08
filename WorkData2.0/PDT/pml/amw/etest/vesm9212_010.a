@@ -1440,12 +1440,14 @@
 <afun>Atr</afun>
 <ord>7</ord>
 <clause_number>1</clause_number>
-</LM>
+<children>
 <LM id="a-vesm9212-010-p3s1Bw8">
 <m.rf>m#m-vesm9212-010-p3s1Bw8</m.rf>
 <afun>AuxG</afun>
 <ord>8</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -3187,12 +3189,14 @@
 <afun>ExD</afun>
 <ord>27</ord>
 <clause_number>3</clause_number>
-</LM>
+<children>
 <LM id="a-vesm9212-010-p6s1w28">
 <m.rf>m#m-vesm9212-010-p6s1w28</m.rf>
 <afun>AuxG</afun>
 <ord>28</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

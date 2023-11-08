@@ -970,14 +970,16 @@
 <afun>Atr</afun>
 <ord>19</ord>
 <clause_number>1</clause_number>
-</LM>
-</children>
-</LM>
+<children>
 <LM id="a-lnd94101-074-p1s6w20">
 <m.rf>m#m-lnd94101-074-p1s6w20</m.rf>
 <afun>AuxG</afun>
 <ord>20</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -1994,12 +1996,14 @@
 <afun>Atr</afun>
 <ord>21</ord>
 <clause_number>1</clause_number>
-</LM>
+<children>
 <LM id="a-lnd94101-074-p1s10w22">
 <m.rf>m#m-lnd94101-074-p1s10w22</m.rf>
 <afun>AuxG</afun>
 <ord>22</ord>
 <clause_number>1</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

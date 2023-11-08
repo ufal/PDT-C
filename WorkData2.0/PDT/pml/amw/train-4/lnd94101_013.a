@@ -1779,6 +1779,12 @@
 <ord>25</ord>
 <clause_number>2</clause_number>
 </LM>
+<LM id="a-lnd94101-013-p1s12w28">
+<m.rf>m#m-lnd94101-013-p1s12w28</m.rf>
+<afun>AuxG</afun>
+<ord>28</ord>
+<clause_number>0</clause_number>
+</LM>
 </children>
 </LM>
 </children>
@@ -1799,12 +1805,6 @@
 <m.rf>m#m-lnd94101-013-p1s12w27</m.rf>
 <afun>AuxK</afun>
 <ord>27</ord>
-<clause_number>0</clause_number>
-</LM>
-<LM id="a-lnd94101-013-p1s12w28">
-<m.rf>m#m-lnd94101-013-p1s12w28</m.rf>
-<afun>AuxG</afun>
-<ord>28</ord>
 <clause_number>0</clause_number>
 </LM>
 </children>

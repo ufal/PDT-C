@@ -546,14 +546,16 @@
 <afun>Atr</afun>
 <ord>6</ord>
 <clause_number>1</clause_number>
-</LM>
-</children>
-</LM>
+<children>
 <LM id="a-ln95041-074-p2s4Bw7">
 <m.rf>m#m-ln95041-074-p2s4Bw7</m.rf>
 <afun>AuxG</afun>
 <ord>7</ord>
 <clause_number>1</clause_number>
+</LM>
+</children>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

@@ -1492,12 +1492,6 @@
 <ord>7</ord>
 <clause_number>2</clause_number>
 <children>
-<LM id="a-ln95043-044-p5s2w1">
-<m.rf>m#m-ln95043-044-p5s2w1</m.rf>
-<afun>AuxG</afun>
-<ord>1</ord>
-<clause_number>0</clause_number>
-</LM>
 <LM id="a-ln95043-044-p5s2w4">
 <m.rf>m#m-ln95043-044-p5s2w4</m.rf>
 <afun>AuxC</afun>
@@ -1521,6 +1515,14 @@
 <afun>AuxV</afun>
 <ord>2</ord>
 <clause_number>1</clause_number>
+<children>
+<LM id="a-ln95043-044-p5s2w1">
+<m.rf>m#m-ln95043-044-p5s2w1</m.rf>
+<afun>AuxG</afun>
+<ord>1</ord>
+<clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -1579,6 +1581,14 @@
 <afun>Sb</afun>
 <ord>15</ord>
 <clause_number>3</clause_number>
+<children>
+<LM id="a-ln95043-044-p5s2w17">
+<m.rf>m#m-ln95043-044-p5s2w17</m.rf>
+<afun>AuxG</afun>
+<ord>17</ord>
+<clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -1592,12 +1602,6 @@
 <m.rf>m#m-ln95043-044-p5s2w16</m.rf>
 <afun>AuxX</afun>
 <ord>16</ord>
-<clause_number>0</clause_number>
-</LM>
-<LM id="a-ln95043-044-p5s2w17">
-<m.rf>m#m-ln95043-044-p5s2w17</m.rf>
-<afun>AuxG</afun>
-<ord>17</ord>
 <clause_number>0</clause_number>
 </LM>
 </children>
@@ -2513,17 +2517,19 @@
 <ord>19</ord>
 <clause_number>2</clause_number>
 </LM>
+<LM id="a-ln95043-044-p7s1w21">
+<m.rf>m#m-ln95043-044-p7s1w21</m.rf>
+<afun>Atr</afun>
+<ord>21</ord>
+<clause_number>2</clause_number>
+<children>
 <LM id="a-ln95043-044-p7s1w20">
 <m.rf>m#m-ln95043-044-p7s1w20</m.rf>
 <afun>AuxG</afun>
 <ord>20</ord>
 <clause_number>2</clause_number>
 </LM>
-<LM id="a-ln95043-044-p7s1w21">
-<m.rf>m#m-ln95043-044-p7s1w21</m.rf>
-<afun>Atr</afun>
-<ord>21</ord>
-<clause_number>2</clause_number>
+</children>
 </LM>
 <LM id="a-ln95043-044-p7s1w23">
 <m.rf>m#m-ln95043-044-p7s1w23</m.rf>
@@ -3758,12 +3764,14 @@
 <afun>Atr</afun>
 <ord>22</ord>
 <clause_number>2</clause_number>
-</LM>
+<children>
 <LM id="a-ln95043-044-p10s3w23">
 <m.rf>m#m-ln95043-044-p10s3w23</m.rf>
 <afun>AuxG</afun>
 <ord>23</ord>
 <clause_number>2</clause_number>
+</LM>
+</children>
 </LM>
 <LM id="a-ln95043-044-p10s3w24">
 <m.rf>m#m-ln95043-044-p10s3w24</m.rf>

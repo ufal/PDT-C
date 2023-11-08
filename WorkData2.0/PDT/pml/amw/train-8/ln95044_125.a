@@ -200,12 +200,6 @@
 <ord>14</ord>
 <clause_number>0</clause_number>
 <children>
-<LM id="a-ln95044-125-p2s2w1">
-<m.rf>m#m-ln95044-125-p2s2w1</m.rf>
-<afun>AuxG</afun>
-<ord>1</ord>
-<clause_number>0</clause_number>
-</LM>
 <LM id="a-ln95044-125-p2s2w4">
 <m.rf>m#m-ln95044-125-p2s2w4</m.rf>
 <afun>Pred</afun>
@@ -219,6 +213,12 @@
 <ord>2</ord>
 <clause_number>1</clause_number>
 <children>
+<LM id="a-ln95044-125-p2s2w1">
+<m.rf>m#m-ln95044-125-p2s2w1</m.rf>
+<afun>AuxG</afun>
+<ord>1</ord>
+<clause_number>0</clause_number>
+</LM>
 <LM id="a-ln95044-125-p2s2w3">
 <m.rf>m#m-ln95044-125-p2s2w3</m.rf>
 <afun>Atr</afun>

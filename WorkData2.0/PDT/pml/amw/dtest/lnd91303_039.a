@@ -487,14 +487,16 @@
 <afun>Pnom</afun>
 <ord>18</ord>
 <clause_number>3</clause_number>
-</LM>
-</children>
-</LM>
+<children>
 <LM id="a-lnd91303-039-p1s3w20">
 <m.rf>m#m-lnd91303-039-p1s3w20</m.rf>
 <afun>AuxG</afun>
 <ord>20</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

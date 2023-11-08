@@ -1735,17 +1735,19 @@
 <ord>7</ord>
 <clause_number>1</clause_number>
 <children>
+<LM id="a-lnd91301-012-p5s3w6">
+<m.rf>m#m-lnd91301-012-p5s3w6</m.rf>
+<afun>Atr</afun>
+<ord>6</ord>
+<clause_number>1</clause_number>
+<children>
 <LM id="a-lnd91301-012-p5s3w5">
 <m.rf>m#m-lnd91301-012-p5s3w5</m.rf>
 <afun>AuxG</afun>
 <ord>5</ord>
 <clause_number>1</clause_number>
 </LM>
-<LM id="a-lnd91301-012-p5s3w6">
-<m.rf>m#m-lnd91301-012-p5s3w6</m.rf>
-<afun>Atr</afun>
-<ord>6</ord>
-<clause_number>1</clause_number>
+</children>
 </LM>
 <LM id="a-lnd91301-012-p5s3w8">
 <m.rf>m#m-lnd91301-012-p5s3w8</m.rf>

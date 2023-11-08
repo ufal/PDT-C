@@ -1961,17 +1961,19 @@
 <ord>8</ord>
 <clause_number>1</clause_number>
 <children>
+<LM id="a-vesm9301-008-p5s3w7">
+<m.rf>m#m-vesm9301-008-p5s3w7</m.rf>
+<afun>Atr</afun>
+<ord>7</ord>
+<clause_number>1</clause_number>
+<children>
 <LM id="a-vesm9301-008-p5s3w6">
 <m.rf>m#m-vesm9301-008-p5s3w6</m.rf>
 <afun>AuxG</afun>
 <ord>6</ord>
 <clause_number>1</clause_number>
 </LM>
-<LM id="a-vesm9301-008-p5s3w7">
-<m.rf>m#m-vesm9301-008-p5s3w7</m.rf>
-<afun>Atr</afun>
-<ord>7</ord>
-<clause_number>1</clause_number>
+</children>
 </LM>
 <LM id="a-vesm9301-008-p5s3w9">
 <m.rf>m#m-vesm9301-008-p5s3w9</m.rf>

@@ -4642,12 +4642,14 @@
 <afun>Atr</afun>
 <ord>14</ord>
 <clause_number>3</clause_number>
-</LM>
+<children>
 <LM id="a-vesm9212-013-p12s4w16">
 <m.rf>m#m-vesm9212-013-p12s4w16</m.rf>
 <afun>AuxG</afun>
 <ord>15</ord>
 <clause_number>3</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

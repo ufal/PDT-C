@@ -65,14 +65,16 @@
 <afun>Atr</afun>
 <ord>8</ord>
 <clause_number>1</clause_number>
-</LM>
-</children>
-</LM>
+<children>
 <LM id="a-mf920902-130-p1s1Aw9">
 <m.rf>m#m-mf920902-130-p1s1Aw9</m.rf>
 <afun>AuxG</afun>
 <ord>9</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

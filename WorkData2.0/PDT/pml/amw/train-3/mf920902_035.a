@@ -274,15 +274,15 @@
 <ord>33</ord>
 <clause_number>2</clause_number>
 </LM>
-</children>
-</LM>
-</children>
-</LM>
 <LM id="a-mf920902-035-p2s1w35">
 <m.rf>m#m-mf920902-035-p2s1w35</m.rf>
 <afun>AuxG</afun>
 <ord>35</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -362,16 +362,18 @@
 <is_member>1</is_member>
 <ord>47</ord>
 <clause_number>3</clause_number>
-</LM>
-</children>
-</LM>
-</children>
-</LM>
+<children>
 <LM id="a-mf920902-035-p2s1w48">
 <m.rf>m#m-mf920902-035-p2s1w48</m.rf>
 <afun>AuxG</afun>
 <ord>48</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

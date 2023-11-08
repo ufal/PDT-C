@@ -190,12 +190,6 @@
 <ord>9</ord>
 <clause_number>0</clause_number>
 <children>
-<LM id="a-lnd91303-094-p2s1Bw1">
-<m.rf>m#m-lnd91303-094-p2s1Bw1</m.rf>
-<afun>AuxG</afun>
-<ord>1</ord>
-<clause_number>0</clause_number>
-</LM>
 <LM id="a-lnd91303-094-p2s1Bw2">
 <m.rf>m#m-lnd91303-094-p2s1Bw2</m.rf>
 <afun>Obj</afun>
@@ -203,6 +197,12 @@
 <ord>2</ord>
 <clause_number>1</clause_number>
 <children>
+<LM id="a-lnd91303-094-p2s1Bw1">
+<m.rf>m#m-lnd91303-094-p2s1Bw1</m.rf>
+<afun>AuxG</afun>
+<ord>1</ord>
+<clause_number>0</clause_number>
+</LM>
 <LM id="a-lnd91303-094-p2s1Bw3">
 <m.rf>m#m-lnd91303-094-p2s1Bw3</m.rf>
 <afun>AuxV</afun>
@@ -327,6 +327,14 @@
 <afun>Adv</afun>
 <ord>21</ord>
 <clause_number>3</clause_number>
+<children>
+<LM id="a-lnd91303-094-p2s1Bw23">
+<m.rf>m#m-lnd91303-094-p2s1Bw23</m.rf>
+<afun>AuxG</afun>
+<ord>23</ord>
+<clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -340,12 +348,6 @@
 <m.rf>m#m-lnd91303-094-p2s1Bw22</m.rf>
 <afun>AuxX</afun>
 <ord>22</ord>
-<clause_number>0</clause_number>
-</LM>
-<LM id="a-lnd91303-094-p2s1Bw23">
-<m.rf>m#m-lnd91303-094-p2s1Bw23</m.rf>
-<afun>AuxG</afun>
-<ord>23</ord>
 <clause_number>0</clause_number>
 </LM>
 </children>
@@ -398,18 +400,18 @@
 <ord>5</ord>
 <clause_number>1</clause_number>
 <children>
-<LM id="a-lnd91303-094-p2s2w1">
-<m.rf>m#m-lnd91303-094-p2s2w1</m.rf>
-<afun>AuxG</afun>
-<ord>1</ord>
-<clause_number>0</clause_number>
-</LM>
 <LM id="a-lnd91303-094-p2s2w2">
 <m.rf>m#m-lnd91303-094-p2s2w2</m.rf>
 <afun>AuxP</afun>
 <ord>2</ord>
 <clause_number>1</clause_number>
 <children>
+<LM id="a-lnd91303-094-p2s2w1">
+<m.rf>m#m-lnd91303-094-p2s2w1</m.rf>
+<afun>AuxG</afun>
+<ord>1</ord>
+<clause_number>0</clause_number>
+</LM>
 <LM id="a-lnd91303-094-p2s2w4">
 <m.rf>m#m-lnd91303-094-p2s2w4</m.rf>
 <afun>Adv</afun>
@@ -549,6 +551,14 @@
 <afun>Adv</afun>
 <ord>9</ord>
 <clause_number>2</clause_number>
+<children>
+<LM id="a-lnd91303-094-p2s3w11">
+<m.rf>m#m-lnd91303-094-p2s3w11</m.rf>
+<afun>AuxG</afun>
+<ord>11</ord>
+<clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -560,12 +570,6 @@
 <m.rf>m#m-lnd91303-094-p2s3w10</m.rf>
 <afun>AuxX</afun>
 <ord>10</ord>
-<clause_number>0</clause_number>
-</LM>
-<LM id="a-lnd91303-094-p2s3w11">
-<m.rf>m#m-lnd91303-094-p2s3w11</m.rf>
-<afun>AuxG</afun>
-<ord>11</ord>
 <clause_number>0</clause_number>
 </LM>
 </children>

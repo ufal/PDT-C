@@ -65,18 +65,18 @@
 <ord>5</ord>
 <clause_number>1</clause_number>
 </LM>
+<LM id="a-mf920902-076-p1s1w8">
+<m.rf>m#m-mf920902-076-p1s1w8</m.rf>
+<afun>AuxG</afun>
+<ord>8</ord>
+<clause_number>0</clause_number>
+</LM>
 </children>
 </LM>
 <LM id="a-mf920902-076-p1s1w7">
 <m.rf>m#m-mf920902-076-p1s1w7</m.rf>
 <afun>AuxX</afun>
 <ord>7</ord>
-<clause_number>0</clause_number>
-</LM>
-<LM id="a-mf920902-076-p1s1w8">
-<m.rf>m#m-mf920902-076-p1s1w8</m.rf>
-<afun>AuxG</afun>
-<ord>8</ord>
 <clause_number>0</clause_number>
 </LM>
 </children>

@@ -6035,6 +6035,12 @@
 </LM>
 </children>
 </LM>
+<LM id="a-ln95043-052-p7s3w36">
+<m.rf>m#m-ln95043-052-p7s3w36</m.rf>
+<afun>AuxG</afun>
+<ord>36</ord>
+<clause_number>0</clause_number>
+</LM>
 <LM id="a-ln95043-052-p7s3w45">
 <m.rf>m#m-ln95043-052-p7s3w45</m.rf>
 <afun>AuxX</afun>
@@ -6048,12 +6054,6 @@
 </children>
 </LM>
 </children>
-</LM>
-<LM id="a-ln95043-052-p7s3w36">
-<m.rf>m#m-ln95043-052-p7s3w36</m.rf>
-<afun>AuxG</afun>
-<ord>36</ord>
-<clause_number>0</clause_number>
 </LM>
 <LM id="a-ln95043-052-p7s3w37">
 <m.rf>m#m-ln95043-052-p7s3w37</m.rf>

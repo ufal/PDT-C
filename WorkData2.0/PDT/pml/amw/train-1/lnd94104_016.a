@@ -592,14 +592,16 @@
 <afun>Adv</afun>
 <ord>18</ord>
 <clause_number>1</clause_number>
-</LM>
-</children>
-</LM>
+<children>
 <LM id="a-lnd94104-016-p1s5w19">
 <m.rf>m#m-lnd94104-016-p1s5w19</m.rf>
 <afun>AuxG</afun>
 <ord>19</ord>
 <clause_number>1</clause_number>
+</LM>
+</children>
+</LM>
+</children>
 </LM>
 <LM id="a-lnd94104-016-p1s5w20">
 <m.rf>m#m-lnd94104-016-p1s5w20</m.rf>

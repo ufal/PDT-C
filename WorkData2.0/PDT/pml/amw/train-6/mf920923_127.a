@@ -611,14 +611,16 @@
 <afun>Adv</afun>
 <ord>16</ord>
 <clause_number>1</clause_number>
-</LM>
-</children>
-</LM>
+<children>
 <LM id="a-mf920923-127-p4s5w17">
 <m.rf>m#m-mf920923-127-p4s5w17</m.rf>
 <afun>AuxG</afun>
 <ord>17</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

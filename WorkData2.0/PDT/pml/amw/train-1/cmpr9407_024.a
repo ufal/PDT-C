@@ -176,12 +176,14 @@
 <afun>Adv</afun>
 <ord>8</ord>
 <clause_number>1</clause_number>
-</LM>
+<children>
 <LM id="a-cmpr9407-024-p4s1w9">
 <m.rf>m#m-cmpr9407-024-p4s1w9</m.rf>
 <afun>AuxG</afun>
 <ord>9</ord>
 <clause_number>1</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -2451,14 +2453,16 @@
 <afun>Atr</afun>
 <ord>11</ord>
 <clause_number>1</clause_number>
-</LM>
-</children>
-</LM>
+<children>
 <LM id="a-cmpr9407-024-p10s4w12">
 <m.rf>m#m-cmpr9407-024-p10s4w12</m.rf>
 <afun>AuxG</afun>
 <ord>12</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

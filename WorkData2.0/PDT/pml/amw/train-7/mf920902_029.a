@@ -758,12 +758,6 @@
 <ord>40</ord>
 <clause_number>1</clause_number>
 <children>
-<LM id="a-mf920902-029-p1s5w36">
-<m.rf>m#m-mf920902-029-p1s5w36</m.rf>
-<afun>AuxG</afun>
-<ord>36</ord>
-<clause_number>1</clause_number>
-</LM>
 <LM id="a-mf920902-029-p1s5w39">
 <m.rf>m#m-mf920902-029-p1s5w39</m.rf>
 <afun>Atr</afun>
@@ -776,6 +770,12 @@
 <ord>37</ord>
 <clause_number>1</clause_number>
 <children>
+<LM id="a-mf920902-029-p1s5w36">
+<m.rf>m#m-mf920902-029-p1s5w36</m.rf>
+<afun>AuxG</afun>
+<ord>36</ord>
+<clause_number>1</clause_number>
+</LM>
 <LM id="a-mf920902-029-p1s5w38">
 <m.rf>m#m-mf920902-029-p1s5w38</m.rf>
 <afun>AuxG</afun>

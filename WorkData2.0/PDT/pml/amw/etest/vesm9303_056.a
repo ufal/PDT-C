@@ -42601,14 +42601,16 @@
 <afun>ExD</afun>
 <ord>38</ord>
 <clause_number>2</clause_number>
-</LM>
-</children>
-</LM>
+<children>
 <LM id="a-vesm9303-056-p63s5w40">
 <m.rf>m#m-vesm9303-056-p63s5w40</m.rf>
 <afun>AuxG</afun>
 <ord>39</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

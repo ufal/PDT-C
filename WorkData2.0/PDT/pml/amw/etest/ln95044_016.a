@@ -884,6 +884,12 @@
 <ord>19</ord>
 <clause_number>2</clause_number>
 </LM>
+<LM id="a-ln95044-016-p4s1w22">
+<m.rf>m#m-ln95044-016-p4s1w22</m.rf>
+<afun>AuxG</afun>
+<ord>22</ord>
+<clause_number>0</clause_number>
+</LM>
 </children>
 </LM>
 </children>
@@ -892,12 +898,6 @@
 <m.rf>m#m-ln95044-016-p4s1w21</m.rf>
 <afun>AuxX</afun>
 <ord>21</ord>
-<clause_number>0</clause_number>
-</LM>
-<LM id="a-ln95044-016-p4s1w22">
-<m.rf>m#m-ln95044-016-p4s1w22</m.rf>
-<afun>AuxG</afun>
-<ord>22</ord>
 <clause_number>0</clause_number>
 </LM>
 </children>

@@ -267,14 +267,16 @@
 <is_member>1</is_member>
 <ord>22</ord>
 <clause_number>2</clause_number>
-</LM>
-</children>
-</LM>
+<children>
 <LM id="a-mf920923-120-p2s1Bw24">
 <m.rf>m#m-mf920923-120-p2s1Bw24</m.rf>
 <afun>AuxG</afun>
 <ord>23</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

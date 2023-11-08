@@ -1673,12 +1673,14 @@
 <afun>Atr</afun>
 <ord>4</ord>
 <clause_number>1</clause_number>
-</LM>
+<children>
 <LM id="a-mf920902-015-p3s13w5">
 <m.rf>m#m-mf920902-015-p3s13w5</m.rf>
 <afun>AuxG</afun>
 <ord>5</ord>
 <clause_number>1</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

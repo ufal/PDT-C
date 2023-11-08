@@ -2606,17 +2606,19 @@
 <ord>30</ord>
 <clause_number>5</clause_number>
 <children>
+<LM id="a-ln95040-036-p2s14Bw30">
+<m.rf>m#m-ln95040-036-p2s14Bw30</m.rf>
+<afun>Atr</afun>
+<ord>29</ord>
+<clause_number>5</clause_number>
+<children>
 <LM id="a-ln95040-036-p2s14Bw29">
 <m.rf>m#m-ln95040-036-p2s14Bw29</m.rf>
 <afun>AuxG</afun>
 <ord>28</ord>
 <clause_number>5</clause_number>
 </LM>
-<LM id="a-ln95040-036-p2s14Bw30">
-<m.rf>m#m-ln95040-036-p2s14Bw30</m.rf>
-<afun>Atr</afun>
-<ord>29</ord>
-<clause_number>5</clause_number>
+</children>
 </LM>
 <LM id="a-ln95040-036-p2s14Bw32">
 <m.rf>m#m-ln95040-036-p2s14Bw32</m.rf>

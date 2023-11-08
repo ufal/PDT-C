@@ -104,18 +104,18 @@
 <ord>5</ord>
 <clause_number>1</clause_number>
 <children>
-<LM id="a-mf920901-029-p3s1w1">
-<m.rf>m#m-mf920901-029-p3s1w1</m.rf>
-<afun>AuxG</afun>
-<ord>1</ord>
-<clause_number>0</clause_number>
-</LM>
 <LM id="a-mf920901-029-p3s1w2">
 <m.rf>m#m-mf920901-029-p3s1w2</m.rf>
 <afun>AuxP</afun>
 <ord>2</ord>
 <clause_number>1</clause_number>
 <children>
+<LM id="a-mf920901-029-p3s1w1">
+<m.rf>m#m-mf920901-029-p3s1w1</m.rf>
+<afun>AuxG</afun>
+<ord>1</ord>
+<clause_number>0</clause_number>
+</LM>
 <LM id="a-mf920901-029-p3s1w4">
 <m.rf>m#m-mf920901-029-p3s1w4</m.rf>
 <afun>Adv</afun>

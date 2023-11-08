@@ -1061,17 +1061,19 @@
 <ord>11</ord>
 <clause_number>1</clause_number>
 <children>
+<LM id="a-cmpr9416-038-p9s2w10">
+<m.rf>m#m-cmpr9416-038-p9s2w10</m.rf>
+<afun>Atr</afun>
+<ord>10</ord>
+<clause_number>1</clause_number>
+<children>
 <LM id="a-cmpr9416-038-p9s2w9">
 <m.rf>m#m-cmpr9416-038-p9s2w9</m.rf>
 <afun>AuxG</afun>
 <ord>9</ord>
 <clause_number>1</clause_number>
 </LM>
-<LM id="a-cmpr9416-038-p9s2w10">
-<m.rf>m#m-cmpr9416-038-p9s2w10</m.rf>
-<afun>Atr</afun>
-<ord>10</ord>
-<clause_number>1</clause_number>
+</children>
 </LM>
 <LM id="a-cmpr9416-038-p9s2w12">
 <m.rf>m#m-cmpr9416-038-p9s2w12</m.rf>

@@ -692,12 +692,6 @@
 <ord>5</ord>
 <clause_number>1</clause_number>
 <children>
-<LM id="a-ln95041-071-p4s3w1">
-<m.rf>m#m-ln95041-071-p4s3w1</m.rf>
-<afun>AuxG</afun>
-<ord>1</ord>
-<clause_number>0</clause_number>
-</LM>
 <LM id="a-ln95041-071-p4s3w3">
 <m.rf>m#m-ln95041-071-p4s3w3</m.rf>
 <afun>Sb</afun>
@@ -709,6 +703,14 @@
 <afun>Atr</afun>
 <ord>2</ord>
 <clause_number>1</clause_number>
+<children>
+<LM id="a-ln95041-071-p4s3w1">
+<m.rf>m#m-ln95041-071-p4s3w1</m.rf>
+<afun>AuxG</afun>
+<ord>1</ord>
+<clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -902,6 +904,12 @@
 <ord>23</ord>
 <clause_number>2</clause_number>
 </LM>
+<LM id="a-ln95041-071-p4s4w26">
+<m.rf>m#m-ln95041-071-p4s4w26</m.rf>
+<afun>AuxG</afun>
+<ord>26</ord>
+<clause_number>0</clause_number>
+</LM>
 </children>
 </LM>
 </children>
@@ -910,12 +918,6 @@
 <m.rf>m#m-ln95041-071-p4s4w25</m.rf>
 <afun>AuxX</afun>
 <ord>25</ord>
-<clause_number>0</clause_number>
-</LM>
-<LM id="a-ln95041-071-p4s4w26">
-<m.rf>m#m-ln95041-071-p4s4w26</m.rf>
-<afun>AuxG</afun>
-<ord>26</ord>
 <clause_number>0</clause_number>
 </LM>
 </children>
@@ -1706,12 +1708,6 @@
 <ord>13</ord>
 <clause_number>2</clause_number>
 <children>
-<LM id="a-ln95041-071-p4s13w1">
-<m.rf>m#m-ln95041-071-p4s13w1</m.rf>
-<afun>AuxG</afun>
-<ord>1</ord>
-<clause_number>0</clause_number>
-</LM>
 <LM id="a-ln95041-071-p4s13w3">
 <m.rf>m#m-ln95041-071-p4s13w3</m.rf>
 <afun>AuxC</afun>
@@ -1723,6 +1719,14 @@
 <afun>AuxY</afun>
 <ord>2</ord>
 <clause_number>1</clause_number>
+<children>
+<LM id="a-ln95041-071-p4s13w1">
+<m.rf>m#m-ln95041-071-p4s13w1</m.rf>
+<afun>AuxG</afun>
+<ord>1</ord>
+<clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 <LM id="a-ln95041-071-p4s13w5">
 <m.rf>m#m-ln95041-071-p4s13w5</m.rf>
@@ -1827,6 +1831,14 @@
 <afun>Obj</afun>
 <ord>4</ord>
 <clause_number>1</clause_number>
+<children>
+<LM id="a-ln95041-071-p4s14w6">
+<m.rf>m#m-ln95041-071-p4s14w6</m.rf>
+<afun>AuxG</afun>
+<ord>6</ord>
+<clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -1836,12 +1848,6 @@
 <m.rf>m#m-ln95041-071-p4s14w5</m.rf>
 <afun>AuxX</afun>
 <ord>5</ord>
-<clause_number>0</clause_number>
-</LM>
-<LM id="a-ln95041-071-p4s14w6">
-<m.rf>m#m-ln95041-071-p4s14w6</m.rf>
-<afun>AuxG</afun>
-<ord>6</ord>
 <clause_number>0</clause_number>
 </LM>
 </children>

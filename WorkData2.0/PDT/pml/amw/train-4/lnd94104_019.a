@@ -1723,14 +1723,16 @@
 <afun>Obj</afun>
 <ord>15</ord>
 <clause_number>2</clause_number>
-</LM>
-</children>
-</LM>
+<children>
 <LM id="a-lnd94104-019-p1s10w16">
 <m.rf>m#m-lnd94104-019-p1s10w16</m.rf>
 <afun>AuxG</afun>
 <ord>16</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

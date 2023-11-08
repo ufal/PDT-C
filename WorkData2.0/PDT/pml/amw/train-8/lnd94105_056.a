@@ -1009,12 +1009,14 @@
 <afun>Atr</afun>
 <ord>9</ord>
 <clause_number>1</clause_number>
-</LM>
+<children>
 <LM id="a-lnd94105-056-p1s7w10">
 <m.rf>m#m-lnd94105-056-p1s7w10</m.rf>
 <afun>AuxG</afun>
 <ord>10</ord>
 <clause_number>1</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

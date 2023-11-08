@@ -2505,12 +2505,14 @@
 <afun>Atr</afun>
 <ord>16</ord>
 <clause_number>1</clause_number>
-</LM>
+<children>
 <LM id="a-cmpr9417-033-p12s2w17">
 <m.rf>m#m-cmpr9417-033-p12s2w17</m.rf>
 <afun>AuxG</afun>
 <ord>17</ord>
 <clause_number>1</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

@@ -1314,17 +1314,19 @@
 <ord>11</ord>
 <clause_number>1</clause_number>
 </LM>
+<LM id="a-ln95040-130-p3s8w13">
+<m.rf>m#m-ln95040-130-p3s8w13</m.rf>
+<afun>Atr</afun>
+<ord>13</ord>
+<clause_number>1</clause_number>
+<children>
 <LM id="a-ln95040-130-p3s8w12">
 <m.rf>m#m-ln95040-130-p3s8w12</m.rf>
 <afun>AuxG</afun>
 <ord>12</ord>
 <clause_number>1</clause_number>
 </LM>
-<LM id="a-ln95040-130-p3s8w13">
-<m.rf>m#m-ln95040-130-p3s8w13</m.rf>
-<afun>Atr</afun>
-<ord>13</ord>
-<clause_number>1</clause_number>
+</children>
 </LM>
 <LM id="a-ln95040-130-p3s8w15">
 <m.rf>m#m-ln95040-130-p3s8w15</m.rf>

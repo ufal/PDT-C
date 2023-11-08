@@ -228,12 +228,14 @@
 <afun>Obj</afun>
 <ord>23</ord>
 <clause_number>1</clause_number>
-</LM>
+<children>
 <LM id="a-lnd94104-054-p1s3w24">
 <m.rf>m#m-lnd94104-054-p1s3w24</m.rf>
 <afun>AuxG</afun>
 <ord>24</ord>
 <clause_number>1</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -255,12 +257,14 @@
 <afun>Obj</afun>
 <ord>28</ord>
 <clause_number>1</clause_number>
-</LM>
+<children>
 <LM id="a-lnd94104-054-p1s3w29">
 <m.rf>m#m-lnd94104-054-p1s3w29</m.rf>
 <afun>AuxG</afun>
 <ord>29</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

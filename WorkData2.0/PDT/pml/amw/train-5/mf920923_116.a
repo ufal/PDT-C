@@ -104,12 +104,6 @@
 <ord>8</ord>
 <clause_number>0</clause_number>
 <children>
-<LM id="a-mf920923-116-p2s2w1">
-<m.rf>m#m-mf920923-116-p2s2w1</m.rf>
-<afun>AuxG</afun>
-<ord>1</ord>
-<clause_number>0</clause_number>
-</LM>
 <LM id="a-mf920923-116-p2s2w4">
 <m.rf>m#m-mf920923-116-p2s2w4</m.rf>
 <afun>Pred</afun>
@@ -128,6 +122,14 @@
 <afun>Atr</afun>
 <ord>2</ord>
 <clause_number>1</clause_number>
+<children>
+<LM id="a-mf920923-116-p2s2w1">
+<m.rf>m#m-mf920923-116-p2s2w1</m.rf>
+<afun>AuxG</afun>
+<ord>1</ord>
+<clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -398,12 +400,6 @@
 <ord>8</ord>
 <clause_number>0</clause_number>
 <children>
-<LM id="a-mf920923-116-p2s5w1">
-<m.rf>m#m-mf920923-116-p2s5w1</m.rf>
-<afun>AuxG</afun>
-<ord>1</ord>
-<clause_number>0</clause_number>
-</LM>
 <LM id="a-mf920923-116-p2s5w4">
 <m.rf>m#m-mf920923-116-p2s5w4</m.rf>
 <afun>Obj</afun>
@@ -416,6 +412,14 @@
 <afun>Sb</afun>
 <ord>2</ord>
 <clause_number>1</clause_number>
+<children>
+<LM id="a-mf920923-116-p2s5w1">
+<m.rf>m#m-mf920923-116-p2s5w1</m.rf>
+<afun>AuxG</afun>
+<ord>1</ord>
+<clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 <LM id="a-mf920923-116-p2s5w3">
 <m.rf>m#m-mf920923-116-p2s5w3</m.rf>
@@ -487,6 +491,14 @@
 <afun>Sb</afun>
 <ord>14</ord>
 <clause_number>2</clause_number>
+<children>
+<LM id="a-mf920923-116-p2s5w16">
+<m.rf>m#m-mf920923-116-p2s5w16</m.rf>
+<afun>AuxG</afun>
+<ord>16</ord>
+<clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -494,12 +506,6 @@
 <m.rf>m#m-mf920923-116-p2s5w15</m.rf>
 <afun>AuxX</afun>
 <ord>15</ord>
-<clause_number>0</clause_number>
-</LM>
-<LM id="a-mf920923-116-p2s5w16">
-<m.rf>m#m-mf920923-116-p2s5w16</m.rf>
-<afun>AuxG</afun>
-<ord>16</ord>
 <clause_number>0</clause_number>
 </LM>
 </children>
@@ -1163,13 +1169,13 @@
 <ord>10</ord>
 <clause_number>2</clause_number>
 </LM>
-</children>
-</LM>
 <LM id="a-mf920923-116-p4s2w12">
 <m.rf>m#m-mf920923-116-p4s2w12</m.rf>
 <afun>AuxG</afun>
 <ord>12</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

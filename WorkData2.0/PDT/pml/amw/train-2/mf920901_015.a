@@ -6406,12 +6406,14 @@
 <afun>Obj</afun>
 <ord>8</ord>
 <clause_number>1</clause_number>
-</LM>
+<children>
 <LM id="a-mf920901-015-p10s3w9">
 <m.rf>m#m-mf920901-015-p10s3w9</m.rf>
 <afun>AuxG</afun>
 <ord>9</ord>
 <clause_number>1</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>

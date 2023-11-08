@@ -1348,12 +1348,14 @@
 <afun>Atr</afun>
 <ord>29</ord>
 <clause_number>2</clause_number>
-</LM>
+<children>
 <LM id="a-vesm9303-003-p2s4w30">
 <m.rf>m#m-vesm9303-003-p2s4w30</m.rf>
 <afun>AuxG</afun>
 <ord>30</ord>
 <clause_number>2</clause_number>
+</LM>
+</children>
 </LM>
 <LM id="a-vesm9303-003-p2s4w36">
 <m.rf>m#m-vesm9303-003-p2s4w36</m.rf>

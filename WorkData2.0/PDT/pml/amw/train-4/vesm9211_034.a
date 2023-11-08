@@ -208,12 +208,14 @@
 <afun>Atr</afun>
 <ord>21</ord>
 <clause_number>1</clause_number>
-</LM>
+<children>
 <LM id="a-vesm9211-034-p1s1Bw22">
 <m.rf>m#m-vesm9211-034-p1s1Bw22</m.rf>
 <afun>AuxG</afun>
 <ord>22</ord>
 <clause_number>0</clause_number>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
