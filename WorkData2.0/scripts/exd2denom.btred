@@ -1,0 +1,17 @@
+#!btred -NTe exd2denom()
+# -*- mode: cperl -*-
+use warnings;
+use strict;
+
+sub exd2denom {
+    return unless $this->parent
+               && 'AuxS' eq $this->parent->{afun}
+               && 'ExD'  eq $this->{afun}
+               && $this->attr('m/tag') =~ /^NN..1/;
+
+    ChangingFile(1);
+    $this->{afun} = 'Denom';
+    print join "\t", map $this->attr("m/$_"), qw( form tag );
+    print "\t";
+    FPosition();
+}
