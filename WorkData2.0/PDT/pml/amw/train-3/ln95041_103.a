@@ -24,7 +24,7 @@
 </LM>
 <LM id="a-ln95041-103-p1s1w2">
 <m.rf>m#m-ln95041-103-p1s1w2</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>2</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -2262,7 +2262,7 @@
 </LM>
 <LM id="a-ln95041-103-p6s2w8">
 <m.rf>m#m-ln95041-103-p6s2w8</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <is_parenthesis_root>1</is_parenthesis_root>
 <ord>8</ord>
 <clause_number>1</clause_number>

@@ -192,7 +192,7 @@
 <children>
 <LM id="a-vesm9212-028-p2s2w3">
 <m.rf>m#m-vesm9212-028-p2s2w3</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>3</ord>
 <clause_number>1</clause_number>
 <children>
@@ -3735,7 +3735,7 @@
 <children>
 <LM id="a-vesm9212-028-p6s1w2">
 <m.rf>m#m-vesm9212-028-p6s1w2</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>2</ord>
 <clause_number>1</clause_number>
 <children>

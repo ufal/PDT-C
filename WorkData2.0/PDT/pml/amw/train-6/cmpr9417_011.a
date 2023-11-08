@@ -535,7 +535,7 @@
 <children>
 <LM id="a-cmpr9417-011-p6s1w2">
 <m.rf>m#m-cmpr9417-011-p6s1w2</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>2</ord>
 <clause_number>1</clause_number>
 <children>
@@ -1528,7 +1528,7 @@
 <children>
 <LM id="a-cmpr9417-011-p11s1w2">
 <m.rf>m#m-cmpr9417-011-p11s1w2</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>2</ord>
 <clause_number>1</clause_number>
 <children>
@@ -6070,7 +6070,7 @@
 </LM>
 <LM id="a-cmpr9417-011-p29s1Aw3">
 <m.rf>m#m-cmpr9417-011-p29s1Aw3</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>3</ord>
 <clause_number>1</clause_number>
 <children>
@@ -6124,7 +6124,7 @@
 </LM>
 <LM id="a-cmpr9417-011-p29s1Bw4">
 <m.rf>m#m-cmpr9417-011-p29s1Bw4</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>4</ord>
 <clause_number>1</clause_number>
 <children>
@@ -6164,7 +6164,7 @@
 </LM>
 <LM id="a-cmpr9417-011-p30s1w3">
 <m.rf>m#m-cmpr9417-011-p30s1w3</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>3</ord>
 <clause_number>1</clause_number>
 <children>
@@ -6237,7 +6237,7 @@
 </LM>
 <LM id="a-cmpr9417-011-p31s1w3">
 <m.rf>m#m-cmpr9417-011-p31s1w3</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>3</ord>
 <clause_number>1</clause_number>
 <children>
@@ -6271,7 +6271,7 @@
 </LM>
 <LM id="a-cmpr9417-011-p32s1Aw4">
 <m.rf>m#m-cmpr9417-011-p32s1Aw4</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>4</ord>
 <clause_number>1</clause_number>
 <children>
@@ -6311,7 +6311,7 @@
 <children>
 <LM id="a-cmpr9417-011-p32s1Bw1">
 <m.rf>m#m-cmpr9417-011-p32s1Bw1</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
 <children>
@@ -6553,7 +6553,7 @@
 </LM>
 <LM id="a-cmpr9417-011-p36s1w2">
 <m.rf>m#m-cmpr9417-011-p36s1w2</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>2</ord>
 <clause_number>1</clause_number>
 <children>
@@ -6593,7 +6593,7 @@
 </LM>
 <LM id="a-cmpr9417-011-p37s1w3">
 <m.rf>m#m-cmpr9417-011-p37s1w3</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <is_parenthesis_root>1</is_parenthesis_root>
 <ord>3</ord>
 <clause_number>1</clause_number>
@@ -6620,7 +6620,7 @@
 <children>
 <LM id="a-cmpr9417-011-p39s1w1">
 <m.rf>m#m-cmpr9417-011-p39s1w1</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
 <children>

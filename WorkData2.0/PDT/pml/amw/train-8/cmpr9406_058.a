@@ -1174,7 +1174,7 @@
 <children>
 <LM id="a-cmpr9406-058-p8s1w2">
 <m.rf>m#m-cmpr9406-058-p8s1w2</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>2</ord>
 <clause_number>1</clause_number>
 <children>
@@ -4504,7 +4504,7 @@
 <children>
 <LM id="a-cmpr9406-058-p15s1w1">
 <m.rf>m#m-cmpr9406-058-p15s1w1</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -5875,7 +5875,7 @@
 </LM>
 <LM id="a-cmpr9406-058-p26s1w3">
 <m.rf>m#m-cmpr9406-058-p26s1w3</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>3</ord>
 <clause_number>1</clause_number>
 <children>

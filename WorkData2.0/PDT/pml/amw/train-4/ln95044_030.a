@@ -56,7 +56,7 @@
 <children>
 <LM id="a-ln95044-030-p2s1Aw5">
 <m.rf>m#m-ln95044-030-p2s1Aw5</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>5</ord>
 <clause_number>1</clause_number>
 <children>
@@ -164,7 +164,7 @@
 <children>
 <LM id="a-ln95044-030-p2s1Bw1">
 <m.rf>m#m-ln95044-030-p2s1Bw1</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
 </LM>

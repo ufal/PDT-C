@@ -254,7 +254,7 @@
 <children>
 <LM id="a-mf920901-058-p3s1w2">
 <m.rf>m#m-mf920901-058-p3s1w2</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>2</ord>
 <clause_number>1</clause_number>
 <children>
@@ -488,7 +488,7 @@
 <children>
 <LM id="a-mf920901-058-p3s3w1">
 <m.rf>m#m-mf920901-058-p3s3w1</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
 <children>
@@ -549,7 +549,7 @@
 <children>
 <LM id="a-mf920901-058-p3s4w3">
 <m.rf>m#m-mf920901-058-p3s4w3</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>3</ord>
 <clause_number>1</clause_number>
 <children>
@@ -605,7 +605,7 @@
 <children>
 <LM id="a-mf920901-058-p3s5w1">
 <m.rf>m#m-mf920901-058-p3s5w1</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
 <children>
@@ -665,7 +665,7 @@
 <children>
 <LM id="a-mf920901-058-p3s6w1">
 <m.rf>m#m-mf920901-058-p3s6w1</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
 <children>
@@ -699,7 +699,7 @@
 <children>
 <LM id="a-mf920901-058-p3s7w1">
 <m.rf>m#m-mf920901-058-p3s7w1</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
 <children>
@@ -747,7 +747,7 @@
 <children>
 <LM id="a-mf920901-058-p3s8w2">
 <m.rf>m#m-mf920901-058-p3s8w2</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>2</ord>
 <clause_number>1</clause_number>
 <children>
@@ -795,7 +795,7 @@
 <children>
 <LM id="a-mf920901-058-p3s9w1">
 <m.rf>m#m-mf920901-058-p3s9w1</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
 </LM>

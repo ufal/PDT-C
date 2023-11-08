@@ -2245,7 +2245,7 @@
 <children>
 <LM id="a-cmpr9417-007-p9s1w1">
 <m.rf>m#m-cmpr9417-007-p9s1w1</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -2543,7 +2543,7 @@
 </LM>
 <LM id="a-cmpr9417-007-p12s1w7">
 <m.rf>m#m-cmpr9417-007-p12s1w7</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <is_parenthesis_root>1</is_parenthesis_root>
 <ord>7</ord>
 <clause_number>1</clause_number>

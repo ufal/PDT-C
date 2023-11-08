@@ -18,7 +18,7 @@
 <children>
 <LM id="a-cmpr9406-022-p1s1w1">
 <m.rf>m#m-cmpr9406-022-p1s1w1</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
 <children>
@@ -396,7 +396,7 @@
 <children>
 <LM id="a-cmpr9406-022-p8s1Aw1">
 <m.rf>m#m-cmpr9406-022-p8s1Aw1</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -414,7 +414,7 @@
 <children>
 <LM id="a-cmpr9406-022-p8s1Bw1">
 <m.rf>m#m-cmpr9406-022-p8s1Bw1</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
 <children>
@@ -702,7 +702,7 @@
 <children>
 <LM id="a-cmpr9406-022-p8s4Aw1">
 <m.rf>m#m-cmpr9406-022-p8s4Aw1</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
 <children>
@@ -1087,7 +1087,7 @@
 <children>
 <LM id="a-cmpr9406-022-p8s6Bw4">
 <m.rf>m#m-cmpr9406-022-p8s6Bw4</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>4</ord>
 <clause_number>1</clause_number>
 <children>
@@ -1125,7 +1125,7 @@
 <children>
 <LM id="a-cmpr9406-022-p8s7w2">
 <m.rf>m#m-cmpr9406-022-p8s7w2</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>2</ord>
 <clause_number>1</clause_number>
 <children>
@@ -1157,7 +1157,7 @@
 <children>
 <LM id="a-cmpr9406-022-p8s8w1">
 <m.rf>m#m-cmpr9406-022-p8s8w1</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
 <children>
@@ -1223,7 +1223,7 @@
 <children>
 <LM id="a-cmpr9406-022-p8s9w2">
 <m.rf>m#m-cmpr9406-022-p8s9w2</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>2</ord>
 <clause_number>1</clause_number>
 <children>
@@ -1399,7 +1399,7 @@
 <children>
 <LM id="a-cmpr9406-022-p8s11w1">
 <m.rf>m#m-cmpr9406-022-p8s11w1</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
 <children>
@@ -1449,7 +1449,7 @@
 <children>
 <LM id="a-cmpr9406-022-p9s1Aw1">
 <m.rf>m#m-cmpr9406-022-p9s1Aw1</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -1467,7 +1467,7 @@
 <children>
 <LM id="a-cmpr9406-022-p9s1Bw1">
 <m.rf>m#m-cmpr9406-022-p9s1Bw1</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
 <children>

@@ -54,7 +54,7 @@
 </LM>
 <LM id="a-lnd91303-005-p1s1w7">
 <m.rf>m#m-lnd91303-005-p1s1w7</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>7</ord>
 <clause_number>1</clause_number>
 <children>
@@ -74,7 +74,7 @@
 <children>
 <LM id="a-lnd91303-005-p2s1w3">
 <m.rf>m#m-lnd91303-005-p2s1w3</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>3</ord>
 <clause_number>1</clause_number>
 <children>

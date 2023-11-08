@@ -18,7 +18,7 @@
 <children>
 <LM id="a-ln95042-023-p1s1w2">
 <m.rf>m#m-ln95042-023-p1s1w2</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>2</ord>
 <clause_number>1</clause_number>
 <children>
@@ -4981,7 +4981,7 @@
 <children>
 <LM id="a-ln95042-023-p6s11Aw2">
 <m.rf>m#m-ln95042-023-p6s11Aw2</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>2</ord>
 <clause_number>1</clause_number>
 <children>
@@ -8225,7 +8225,7 @@
 <children>
 <LM id="a-ln95042-023-p10s9Aw1">
 <m.rf>m#m-ln95042-023-p10s9Aw1</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
 <children>
@@ -9303,7 +9303,7 @@
 <children>
 <LM id="a-ln95042-023-p11s8w1">
 <m.rf>m#m-ln95042-023-p11s8w1</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -10744,13 +10744,13 @@
 <children>
 <LM id="a-ln95042-023-p11s22w1">
 <m.rf>m#m-ln95042-023-p11s22w1</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
 </LM>
 <LM id="a-ln95042-023-p11s22w3">
 <m.rf>m#m-ln95042-023-p11s22w3</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>3</ord>
 <clause_number>1</clause_number>
 <children>

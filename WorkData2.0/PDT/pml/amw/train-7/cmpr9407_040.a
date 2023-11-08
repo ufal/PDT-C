@@ -62,7 +62,7 @@
 <children>
 <LM id="a-cmpr9407-040-p3s1w1">
 <m.rf>m#m-cmpr9407-040-p3s1w1</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
 <children>
@@ -376,7 +376,7 @@
 </LM>
 <LM id="a-cmpr9407-040-p5s1w6">
 <m.rf>m#m-cmpr9407-040-p5s1w6</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>6</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -997,7 +997,7 @@
 <children>
 <LM id="a-cmpr9407-040-p7s1w1">
 <m.rf>m#m-cmpr9407-040-p7s1w1</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
 <children>
@@ -1498,7 +1498,7 @@
 </LM>
 <LM id="a-cmpr9407-040-p9s1w6">
 <m.rf>m#m-cmpr9407-040-p9s1w6</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>6</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -2016,7 +2016,7 @@
 <children>
 <LM id="a-cmpr9407-040-p11s1w2">
 <m.rf>m#m-cmpr9407-040-p11s1w2</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>2</ord>
 <clause_number>1</clause_number>
 <children>
@@ -2522,7 +2522,7 @@
 </LM>
 <LM id="a-cmpr9407-040-p13s1w6">
 <m.rf>m#m-cmpr9407-040-p13s1w6</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>6</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -3742,7 +3742,7 @@
 <children>
 <LM id="a-cmpr9407-040-p16s1w1">
 <m.rf>m#m-cmpr9407-040-p16s1w1</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
 <children>
@@ -4334,7 +4334,7 @@
 </LM>
 <LM id="a-cmpr9407-040-p18s1w6">
 <m.rf>m#m-cmpr9407-040-p18s1w6</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>6</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -4770,7 +4770,7 @@
 <children>
 <LM id="a-cmpr9407-040-p20s1w1">
 <m.rf>m#m-cmpr9407-040-p20s1w1</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
 <children>
@@ -5156,7 +5156,7 @@
 </LM>
 <LM id="a-cmpr9407-040-p22s1w7">
 <m.rf>m#m-cmpr9407-040-p22s1w7</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>7</ord>
 <clause_number>1</clause_number>
 <children>
@@ -5565,7 +5565,7 @@
 <children>
 <LM id="a-cmpr9407-040-p24s1w6">
 <m.rf>m#m-cmpr9407-040-p24s1w6</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>6</ord>
 <clause_number>1</clause_number>
 <children>

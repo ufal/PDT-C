@@ -108,7 +108,7 @@
 <children>
 <LM id="a-lnd94104-107-p1s1Cw1">
 <m.rf>m#m-lnd94104-107-p1s1Cw1</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
 <children>
@@ -142,7 +142,7 @@
 <children>
 <LM id="a-lnd94104-107-p1s2Aw1">
 <m.rf>m#m-lnd94104-107-p1s2Aw1</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
 <children>
@@ -156,7 +156,7 @@
 </LM>
 <LM id="a-lnd94104-107-p1s2Aw3">
 <m.rf>m#m-lnd94104-107-p1s2Aw3</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>3</ord>
 <clause_number>1</clause_number>
 </LM>

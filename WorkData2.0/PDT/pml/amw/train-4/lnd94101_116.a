@@ -381,7 +381,7 @@
 <children>
 <LM id="a-lnd94101-116-p1s2Aw2">
 <m.rf>m#m-lnd94101-116-p1s2Aw2</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>2</ord>
 <clause_number>1</clause_number>
 <children>
@@ -401,7 +401,7 @@
 </LM>
 <LM id="a-lnd94101-116-p1s2Aw4">
 <m.rf>m#m-lnd94101-116-p1s2Aw4</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>4</ord>
 <clause_number>1</clause_number>
 </LM>

@@ -18,7 +18,7 @@
 <children>
 <LM id="a-vesm9212-042-p1s1w6">
 <m.rf>m#m-vesm9212-042-p1s1w6</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>6</ord>
 <clause_number>1</clause_number>
 <children>
@@ -86,7 +86,7 @@
 <children>
 <LM id="a-vesm9212-042-p3s1w1">
 <m.rf>m#m-vesm9212-042-p3s1w1</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
 <children>
@@ -114,7 +114,7 @@
 <children>
 <LM id="a-vesm9212-042-p4s1w1">
 <m.rf>m#m-vesm9212-042-p4s1w1</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -1346,7 +1346,7 @@
 <children>
 <LM id="a-vesm9212-042-p10s1w4">
 <m.rf>m#m-vesm9212-042-p10s1w4</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>4</ord>
 <clause_number>1</clause_number>
 <children>
@@ -1380,7 +1380,7 @@
 <children>
 <LM id="a-vesm9212-042-p11s1w1">
 <m.rf>m#m-vesm9212-042-p11s1w1</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
 <children>

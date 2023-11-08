@@ -102,7 +102,7 @@
 <children>
 <LM id="a-mf920901-103-p2s1w1">
 <m.rf>m#m-mf920901-103-p2s1w1</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>1</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -192,7 +192,7 @@
 </LM>
 <LM id="a-mf920901-103-p3s1w13">
 <m.rf>m#m-mf920901-103-p3s1w13</m.rf>
-<afun>ExD</afun>
+<afun>Denom</afun>
 <ord>13</ord>
 <clause_number>3</clause_number>
 <children>
