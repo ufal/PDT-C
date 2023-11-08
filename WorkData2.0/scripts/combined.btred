@@ -1,0 +1,49 @@
+#!btred -NTe combined()
+# -*- mode: cperl -*-
+use warnings;
+use strict;
+
+sub combined {
+    return unless $this->parent;
+
+    if ($this->{afun} =~ /^Atr(?:Adv|Atr|Obj)/) {
+        $this->{afun} = 'Atr';
+        ChangingFile(1);
+        return
+    }
+
+    return unless $this->{afun} =~ /^(Adv|Obj)Atr$/;
+    my $afun = $1;
+
+    if ($this->{is_member}) {
+        print "Not moved _M";
+        print "\t";
+        FPosition();
+        return
+    }
+
+    # We need to move the parent Aux[CP] together with the AdvAtr or ObjAtr.
+    my $node = $this->parent->{afun} =~ /^Aux[CP]$/
+             ? $this->parent
+             : $this;
+    my $parent = $node->parent;
+    while ($parent && $parent->attr('m/tag') !~ /^[VAD]/) {
+        $parent = $parent->parent;
+    }
+    if ($parent && $parent != $node->parent) {
+        $this->{afun} = $afun;
+        CutPaste($node, $parent);
+        ChangingFile(1);
+        print 'Moved';
+
+    } elsif ($parent) {
+        $this->{afun} = $afun;
+        ChangingFile(1);
+        print 'Not moved ' . substr $node->parent->attr('m/tag'), 0, 1;
+
+    } else {
+        print 'Not found';
+    }
+    print "\t";
+    FPosition();
+}
