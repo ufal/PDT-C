@@ -1966,7 +1966,7 @@
 <children>
 <LM id="a-mf920902-115-p2s11w13">
 <m.rf>m#m-mf920902-115-p2s11w13</m.rf>
-<afun>AtrAdv</afun>
+<afun>Atr</afun>
 <ord>13</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -2093,7 +2093,7 @@
 <children>
 <LM id="a-mf920902-115-p2s12w11">
 <m.rf>m#m-mf920902-115-p2s12w11</m.rf>
-<afun>AtrAtr</afun>
+<afun>Atr</afun>
 <ord>11</ord>
 <clause_number>2</clause_number>
 <children>
@@ -2392,7 +2392,7 @@
 <children>
 <LM id="a-mf920902-115-p2s13w25">
 <m.rf>m#m-mf920902-115-p2s13w25</m.rf>
-<afun>AtrAdv</afun>
+<afun>Atr</afun>
 <ord>25</ord>
 <clause_number>1</clause_number>
 <children>

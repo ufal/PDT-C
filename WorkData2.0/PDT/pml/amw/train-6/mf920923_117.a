@@ -142,9 +142,13 @@
 <ord>6</ord>
 <clause_number>1</clause_number>
 </LM>
+</children>
+</LM>
+</children>
+</LM>
 <LM id="a-mf920923-117-p4s2w8">
 <m.rf>m#m-mf920923-117-p4s2w8</m.rf>
-<afun>AdvAtr</afun>
+<afun>Adv</afun>
 <ord>8</ord>
 <clause_number>1</clause_number>
 <children>
@@ -165,10 +169,6 @@
 <afun>Atr</afun>
 <ord>10</ord>
 <clause_number>1</clause_number>
-</LM>
-</children>
-</LM>
-</children>
 </LM>
 </children>
 </LM>

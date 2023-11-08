@@ -2478,7 +2478,7 @@
 <children>
 <LM id="a-cmpr9417-033-p12s2w13">
 <m.rf>m#m-cmpr9417-033-p12s2w13</m.rf>
-<afun>AtrAdv</afun>
+<afun>Atr</afun>
 <ord>13</ord>
 <clause_number>1</clause_number>
 <children>
@@ -2528,7 +2528,7 @@
 <children>
 <LM id="a-cmpr9417-033-p12s2w20">
 <m.rf>m#m-cmpr9417-033-p12s2w20</m.rf>
-<afun>AtrAdv</afun>
+<afun>Atr</afun>
 <ord>20</ord>
 <clause_number>1</clause_number>
 <children>
@@ -6142,7 +6142,7 @@
 <children>
 <LM id="a-cmpr9417-033-p19s1w55">
 <m.rf>m#m-cmpr9417-033-p19s1w55</m.rf>
-<afun>AtrAdv</afun>
+<afun>Atr</afun>
 <ord>55</ord>
 <clause_number>4</clause_number>
 </LM>

@@ -2468,14 +2468,14 @@
 <children>
 <LM id="a-ln95041-029-p2s13w18">
 <m.rf>m#m-ln95041-029-p2s13w18</m.rf>
-<afun>AtrAdv</afun>
+<afun>Atr</afun>
 <is_member>1</is_member>
 <ord>18</ord>
 <clause_number>2</clause_number>
 </LM>
 <LM id="a-ln95041-029-p2s13w20">
 <m.rf>m#m-ln95041-029-p2s13w20</m.rf>
-<afun>AtrAdv</afun>
+<afun>Atr</afun>
 <is_member>1</is_member>
 <ord>20</ord>
 <clause_number>2</clause_number>
@@ -2553,14 +2553,14 @@
 <children>
 <LM id="a-ln95041-029-p2s13w30">
 <m.rf>m#m-ln95041-029-p2s13w30</m.rf>
-<afun>AtrObj</afun>
+<afun>Atr</afun>
 <is_member>1</is_member>
 <ord>30</ord>
 <clause_number>3</clause_number>
 </LM>
 <LM id="a-ln95041-029-p2s13w32">
 <m.rf>m#m-ln95041-029-p2s13w32</m.rf>
-<afun>AtrObj</afun>
+<afun>Atr</afun>
 <is_member>1</is_member>
 <ord>32</ord>
 <clause_number>3</clause_number>

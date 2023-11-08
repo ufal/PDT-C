@@ -3329,6 +3329,8 @@
 </LM>
 </children>
 </LM>
+</children>
+</LM>
 <LM id="a-mf920902-008-p6s9w21">
 <m.rf>m#m-mf920902-008-p6s9w21</m.rf>
 <afun>AuxP</afun>
@@ -3337,11 +3339,9 @@
 <children>
 <LM id="a-mf920902-008-p6s9w22">
 <m.rf>m#m-mf920902-008-p6s9w22</m.rf>
-<afun>AdvAtr</afun>
+<afun>Adv</afun>
 <ord>22</ord>
 <clause_number>3</clause_number>
-</LM>
-</children>
 </LM>
 </children>
 </LM>

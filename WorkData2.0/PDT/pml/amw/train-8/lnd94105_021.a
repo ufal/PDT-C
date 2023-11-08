@@ -1046,6 +1046,10 @@
 </LM>
 </children>
 </LM>
+</children>
+</LM>
+</children>
+</LM>
 <LM id="a-lnd94105-021-p1s5w35">
 <m.rf>m#m-lnd94105-021-p1s5w35</m.rf>
 <afun>AuxP</afun>
@@ -1054,13 +1058,9 @@
 <children>
 <LM id="a-lnd94105-021-p1s5w36">
 <m.rf>m#m-lnd94105-021-p1s5w36</m.rf>
-<afun>AdvAtr</afun>
+<afun>Adv</afun>
 <ord>36</ord>
 <clause_number>2</clause_number>
-</LM>
-</children>
-</LM>
-</children>
 </LM>
 </children>
 </LM>

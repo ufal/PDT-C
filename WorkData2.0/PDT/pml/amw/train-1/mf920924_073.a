@@ -178,7 +178,7 @@
 <children>
 <LM id="a-mf920924-073-p3s1w19">
 <m.rf>m#m-mf920924-073-p3s1w19</m.rf>
-<afun>AdvAtr</afun>
+<afun>Adv</afun>
 <ord>19</ord>
 <clause_number>1</clause_number>
 <children>
@@ -1968,7 +1968,7 @@
 <children>
 <LM id="a-mf920924-073-p3s19w13">
 <m.rf>m#m-mf920924-073-p3s19w13</m.rf>
-<afun>AtrAdv</afun>
+<afun>Atr</afun>
 <ord>13</ord>
 <clause_number>2</clause_number>
 </LM>

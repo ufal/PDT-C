@@ -414,7 +414,7 @@
 <children>
 <LM id="a-mf920901-007-p4s1w46">
 <m.rf>m#m-mf920901-007-p4s1w46</m.rf>
-<afun>AtrAdv</afun>
+<afun>Atr</afun>
 <ord>46</ord>
 <clause_number>3</clause_number>
 <children>
@@ -614,7 +614,7 @@
 <children>
 <LM id="a-mf920901-007-p5s3w8">
 <m.rf>m#m-mf920901-007-p5s3w8</m.rf>
-<afun>AtrAdv</afun>
+<afun>Atr</afun>
 <ord>8</ord>
 <clause_number>1</clause_number>
 </LM>

@@ -952,7 +952,7 @@
 <children>
 <LM id="a-mf920924-005-p1s5w15">
 <m.rf>m#m-mf920924-005-p1s5w15</m.rf>
-<afun>AtrAdv</afun>
+<afun>Atr</afun>
 <ord>15</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -1010,7 +1010,7 @@
 <children>
 <LM id="a-mf920924-005-p1s6w6">
 <m.rf>m#m-mf920924-005-p1s6w6</m.rf>
-<afun>AdvAtr</afun>
+<afun>Adv</afun>
 <ord>6</ord>
 <clause_number>1</clause_number>
 </LM>

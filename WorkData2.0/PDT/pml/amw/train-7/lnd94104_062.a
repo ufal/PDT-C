@@ -2505,7 +2505,7 @@
 <afun>Obj</afun>
 <ord>29</ord>
 <clause_number>1</clause_number>
-<children>
+</LM>
 <LM id="a-lnd94104-062-p1s14w30">
 <m.rf>m#m-lnd94104-062-p1s14w30</m.rf>
 <afun>AuxP</afun>
@@ -2514,7 +2514,7 @@
 <children>
 <LM id="a-lnd94104-062-p1s14w32">
 <m.rf>m#m-lnd94104-062-p1s14w32</m.rf>
-<afun>ObjAtr</afun>
+<afun>Obj</afun>
 <ord>32</ord>
 <clause_number>1</clause_number>
 <children>
@@ -2523,8 +2523,6 @@
 <afun>Atr</afun>
 <ord>31</ord>
 <clause_number>1</clause_number>
-</LM>
-</children>
 </LM>
 </children>
 </LM>

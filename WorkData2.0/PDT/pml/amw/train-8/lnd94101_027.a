@@ -130,7 +130,7 @@
 <children>
 <LM id="a-lnd94101-027-p1s1w18">
 <m.rf>m#m-lnd94101-027-p1s1w18</m.rf>
-<afun>AtrAdv</afun>
+<afun>Atr</afun>
 <ord>18</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -144,7 +144,7 @@
 <children>
 <LM id="a-lnd94101-027-p1s1w20">
 <m.rf>m#m-lnd94101-027-p1s1w20</m.rf>
-<afun>AtrAdv</afun>
+<afun>Atr</afun>
 <ord>20</ord>
 <clause_number>1</clause_number>
 </LM>

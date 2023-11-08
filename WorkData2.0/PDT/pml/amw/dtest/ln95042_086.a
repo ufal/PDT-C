@@ -494,6 +494,10 @@
 <ord>22</ord>
 <clause_number>1</clause_number>
 </LM>
+</children>
+</LM>
+</children>
+</LM>
 <LM id="a-ln95042-086-p2s3w23">
 <m.rf>m#m-ln95042-086-p2s3w23</m.rf>
 <afun>AuxP</afun>
@@ -502,7 +506,7 @@
 <children>
 <LM id="a-ln95042-086-p2s3w24">
 <m.rf>m#m-ln95042-086-p2s3w24</m.rf>
-<afun>AdvAtr</afun>
+<afun>Adv</afun>
 <ord>24</ord>
 <clause_number>1</clause_number>
 <children>
@@ -561,10 +565,6 @@
 <afun>AuxG</afun>
 <ord>32</ord>
 <clause_number>0</clause_number>
-</LM>
-</children>
-</LM>
-</children>
 </LM>
 </children>
 </LM>

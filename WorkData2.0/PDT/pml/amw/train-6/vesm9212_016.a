@@ -2820,7 +2820,7 @@
 <children>
 <LM id="a-vesm9212-016-p13s5w7">
 <m.rf>m#m-vesm9212-016-p13s5w7</m.rf>
-<afun>AtrAdv</afun>
+<afun>Atr</afun>
 <ord>7</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -5582,7 +5582,7 @@
 <children>
 <LM id="a-vesm9212-016-p17s2w8">
 <m.rf>m#m-vesm9212-016-p17s2w8</m.rf>
-<afun>AtrAdv</afun>
+<afun>Atr</afun>
 <ord>8</ord>
 <clause_number>1</clause_number>
 <children>
@@ -7455,7 +7455,7 @@
 <children>
 <LM id="a-vesm9212-016-p19s3w20">
 <m.rf>m#m-vesm9212-016-p19s3w20</m.rf>
-<afun>AtrAdv</afun>
+<afun>Atr</afun>
 <ord>20</ord>
 <clause_number>3</clause_number>
 <children>
@@ -9784,7 +9784,7 @@
 <children>
 <LM id="a-vesm9212-016-p21s6w9">
 <m.rf>m#m-vesm9212-016-p21s6w9</m.rf>
-<afun>AtrAdv</afun>
+<afun>Atr</afun>
 <ord>9</ord>
 <clause_number>1</clause_number>
 <children>
@@ -16641,7 +16641,7 @@
 <children>
 <LM id="a-vesm9212-016-p28s4w37">
 <m.rf>m#m-vesm9212-016-p28s4w37</m.rf>
-<afun>AtrAdv</afun>
+<afun>Atr</afun>
 <ord>37</ord>
 <clause_number>4</clause_number>
 </LM>
@@ -18472,7 +18472,7 @@
 <children>
 <LM id="a-vesm9212-016-p33s2w7">
 <m.rf>m#m-vesm9212-016-p33s2w7</m.rf>
-<afun>AtrAdv</afun>
+<afun>Atr</afun>
 <ord>7</ord>
 <clause_number>1</clause_number>
 <children>
@@ -19145,7 +19145,7 @@
 <children>
 <LM id="a-vesm9212-016-p33s5w6">
 <m.rf>m#m-vesm9212-016-p33s5w6</m.rf>
-<afun>AtrAdv</afun>
+<afun>Atr</afun>
 <ord>6</ord>
 <clause_number>1</clause_number>
 <children>
@@ -21983,7 +21983,7 @@
 <children>
 <LM id="a-vesm9212-016-p36s1w25">
 <m.rf>m#m-vesm9212-016-p36s1w25</m.rf>
-<afun>AtrAdv</afun>
+<afun>Atr</afun>
 <ord>25</ord>
 <clause_number>3</clause_number>
 <children>
@@ -26528,7 +26528,7 @@
 <children>
 <LM id="a-vesm9212-016-p40s6w9">
 <m.rf>m#m-vesm9212-016-p40s6w9</m.rf>
-<afun>AtrAdv</afun>
+<afun>Atr</afun>
 <ord>9</ord>
 <clause_number>1</clause_number>
 <children>
@@ -29924,7 +29924,7 @@
 <children>
 <LM id="a-vesm9212-016-p44s6w12">
 <m.rf>m#m-vesm9212-016-p44s6w12</m.rf>
-<afun>AtrAdv</afun>
+<afun>Atr</afun>
 <ord>12</ord>
 <clause_number>2</clause_number>
 <children>
@@ -30257,7 +30257,7 @@
 <children>
 <LM id="a-vesm9212-016-p44s7w23">
 <m.rf>m#m-vesm9212-016-p44s7w23</m.rf>
-<afun>AdvAtr</afun>
+<afun>Adv</afun>
 <ord>23</ord>
 <clause_number>2</clause_number>
 <children>

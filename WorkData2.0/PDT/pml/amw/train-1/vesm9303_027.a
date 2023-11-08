@@ -1198,7 +1198,7 @@
 <children>
 <LM id="a-vesm9303-027-p3s4Bw17">
 <m.rf>m#m-vesm9303-027-p3s4Bw17</m.rf>
-<afun>AtrObj</afun>
+<afun>Atr</afun>
 <ord>16</ord>
 <clause_number>2</clause_number>
 <children>
@@ -2410,7 +2410,7 @@
 <children>
 <LM id="a-vesm9303-027-p4s5w27">
 <m.rf>m#m-vesm9303-027-p4s5w27</m.rf>
-<afun>AtrAdv</afun>
+<afun>Atr</afun>
 <ord>27</ord>
 <clause_number>2</clause_number>
 <children>

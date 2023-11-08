@@ -338,6 +338,8 @@
 </LM>
 </children>
 </LM>
+</children>
+</LM>
 <LM id="a-ln95040-077-p2s3w5">
 <m.rf>m#m-ln95040-077-p2s3w5</m.rf>
 <afun>AuxP</afun>
@@ -346,11 +348,9 @@
 <children>
 <LM id="a-ln95040-077-p2s3w6">
 <m.rf>m#m-ln95040-077-p2s3w6</m.rf>
-<afun>AdvAtr</afun>
+<afun>Adv</afun>
 <ord>6</ord>
 <clause_number>1</clause_number>
-</LM>
-</children>
 </LM>
 </children>
 </LM>
@@ -605,7 +605,7 @@
 <children>
 <LM id="a-ln95040-077-p3s1w11">
 <m.rf>m#m-ln95040-077-p3s1w11</m.rf>
-<afun>AtrAdv</afun>
+<afun>Atr</afun>
 <ord>11</ord>
 <clause_number>1</clause_number>
 <children>
@@ -1048,7 +1048,7 @@
 <children>
 <LM id="a-ln95040-077-p4s1w10">
 <m.rf>m#m-ln95040-077-p4s1w10</m.rf>
-<afun>AtrAdv</afun>
+<afun>Atr</afun>
 <ord>10</ord>
 <clause_number>1</clause_number>
 <children>

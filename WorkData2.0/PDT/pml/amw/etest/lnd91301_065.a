@@ -1792,7 +1792,7 @@
 <children>
 <LM id="a-lnd91301-065-p6s1w4">
 <m.rf>m#m-lnd91301-065-p6s1w4</m.rf>
-<afun>AtrAdv</afun>
+<afun>Atr</afun>
 <ord>4</ord>
 <clause_number>1</clause_number>
 </LM>
@@ -2973,7 +2973,7 @@
 <children>
 <LM id="a-lnd91301-065-p8s1w24">
 <m.rf>m#m-lnd91301-065-p8s1w24</m.rf>
-<afun>AtrAdv</afun>
+<afun>Atr</afun>
 <ord>23</ord>
 <clause_number>2</clause_number>
 <children>
@@ -3121,7 +3121,9 @@
 <afun>Atr</afun>
 <ord>5</ord>
 <clause_number>1</clause_number>
-<children>
+</LM>
+</children>
+</LM>
 <LM id="a-lnd91301-065-p8s3w7">
 <m.rf>m#m-lnd91301-065-p8s3w7</m.rf>
 <afun>AuxC</afun>
@@ -3136,7 +3138,7 @@
 </LM>
 <LM id="a-lnd91301-065-p8s3w8">
 <m.rf>m#m-lnd91301-065-p8s3w8</m.rf>
-<afun>AdvAtr</afun>
+<afun>Adv</afun>
 <ord>8</ord>
 <clause_number>2</clause_number>
 <children>
@@ -3151,10 +3153,6 @@
 <afun>Obj</afun>
 <ord>10</ord>
 <clause_number>2</clause_number>
-</LM>
-</children>
-</LM>
-</children>
 </LM>
 </children>
 </LM>

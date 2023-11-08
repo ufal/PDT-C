@@ -454,7 +454,7 @@
 <children>
 <LM id="a-cmpr9416-001-p4s2w12">
 <m.rf>m#m-cmpr9416-001-p4s2w12</m.rf>
-<afun>AtrAdv</afun>
+<afun>Atr</afun>
 <ord>12</ord>
 <clause_number>1</clause_number>
 <children>
@@ -3835,7 +3835,7 @@
 <children>
 <LM id="a-cmpr9416-001-p23s3w8">
 <m.rf>m#m-cmpr9416-001-p23s3w8</m.rf>
-<afun>AtrAdv</afun>
+<afun>Atr</afun>
 <ord>8</ord>
 <clause_number>1</clause_number>
 <children>

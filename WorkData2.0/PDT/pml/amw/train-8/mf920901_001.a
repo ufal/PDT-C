@@ -1341,6 +1341,8 @@
 </LM>
 </children>
 </LM>
+</children>
+</LM>
 <LM id="a-mf920901-001-p4s2w11">
 <m.rf>m#m-mf920901-001-p4s2w11</m.rf>
 <afun>AuxP</afun>
@@ -1349,7 +1351,7 @@
 <children>
 <LM id="a-mf920901-001-p4s2w12">
 <m.rf>m#m-mf920901-001-p4s2w12</m.rf>
-<afun>AdvAtr</afun>
+<afun>Adv</afun>
 <ord>12</ord>
 <clause_number>2</clause_number>
 <children>
@@ -1358,8 +1360,6 @@
 <afun>AuxZ</afun>
 <ord>10</ord>
 <clause_number>2</clause_number>
-</LM>
-</children>
 </LM>
 </children>
 </LM>

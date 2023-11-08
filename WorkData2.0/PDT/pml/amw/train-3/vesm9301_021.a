@@ -1651,7 +1651,7 @@
 <afun>Obj</afun>
 <ord>42</ord>
 <clause_number>5</clause_number>
-<children>
+</LM>
 <LM id="a-vesm9301-021-p5s6w43">
 <m.rf>m#m-vesm9301-021-p5s6w43</m.rf>
 <afun>AuxP</afun>
@@ -1660,11 +1660,9 @@
 <children>
 <LM id="a-vesm9301-021-p5s6w44">
 <m.rf>m#m-vesm9301-021-p5s6w44</m.rf>
-<afun>AdvAtr</afun>
+<afun>Adv</afun>
 <ord>44</ord>
 <clause_number>5</clause_number>
-</LM>
-</children>
 </LM>
 </children>
 </LM>

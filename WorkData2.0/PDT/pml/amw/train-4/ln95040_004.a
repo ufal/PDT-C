@@ -2273,6 +2273,8 @@
 <ord>15</ord>
 <clause_number>2</clause_number>
 </LM>
+</children>
+</LM>
 <LM id="a-ln95040-004-p7s1w17">
 <m.rf>m#m-ln95040-004-p7s1w17</m.rf>
 <afun>AuxP</afun>
@@ -2281,11 +2283,9 @@
 <children>
 <LM id="a-ln95040-004-p7s1w18">
 <m.rf>m#m-ln95040-004-p7s1w18</m.rf>
-<afun>AdvAtr</afun>
+<afun>Adv</afun>
 <ord>18</ord>
 <clause_number>2</clause_number>
-</LM>
-</children>
 </LM>
 </children>
 </LM>

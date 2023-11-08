@@ -526,7 +526,7 @@
 <children>
 <LM id="a-lnd91303-027-p3s4w10">
 <m.rf>m#m-lnd91303-027-p3s4w10</m.rf>
-<afun>AtrAdv</afun>
+<afun>Atr</afun>
 <ord>10</ord>
 <clause_number>1</clause_number>
 <children>
@@ -1974,7 +1974,7 @@
 <afun>Sb</afun>
 <ord>16</ord>
 <clause_number>3</clause_number>
-<children>
+</LM>
 <LM id="a-lnd91303-027-p4s2w17">
 <m.rf>m#m-lnd91303-027-p4s2w17</m.rf>
 <afun>AuxP</afun>
@@ -1983,7 +1983,7 @@
 <children>
 <LM id="a-lnd91303-027-p4s2w20">
 <m.rf>m#m-lnd91303-027-p4s2w20</m.rf>
-<afun>AdvAtr</afun>
+<afun>Adv</afun>
 <ord>20</ord>
 <clause_number>3</clause_number>
 <children>
@@ -1998,8 +1998,6 @@
 <afun>Atr</afun>
 <ord>19</ord>
 <clause_number>3</clause_number>
-</LM>
-</children>
 </LM>
 </children>
 </LM>

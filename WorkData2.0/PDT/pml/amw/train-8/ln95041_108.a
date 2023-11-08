@@ -1281,7 +1281,7 @@
 <children>
 <LM id="a-ln95041-108-p4s1w35">
 <m.rf>m#m-ln95041-108-p4s1w35</m.rf>
-<afun>AtrAdv</afun>
+<afun>Atr</afun>
 <is_member>1</is_member>
 <ord>35</ord>
 <clause_number>2</clause_number>
@@ -1334,7 +1334,7 @@
 </LM>
 <LM id="a-ln95041-108-p4s1w41">
 <m.rf>m#m-ln95041-108-p4s1w41</m.rf>
-<afun>AtrAdv</afun>
+<afun>Atr</afun>
 <is_member>1</is_member>
 <ord>41</ord>
 <clause_number>2</clause_number>
@@ -2032,7 +2032,7 @@
 <children>
 <LM id="a-ln95041-108-p5s1w18">
 <m.rf>m#m-ln95041-108-p5s1w18</m.rf>
-<afun>AtrAtr</afun>
+<afun>Atr</afun>
 <ord>18</ord>
 <clause_number>1</clause_number>
 </LM>

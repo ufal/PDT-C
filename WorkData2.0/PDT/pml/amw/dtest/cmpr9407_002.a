@@ -1769,7 +1769,7 @@
 <children>
 <LM id="a-cmpr9407-002-p10s3w28">
 <m.rf>m#m-cmpr9407-002-p10s3w28</m.rf>
-<afun>AtrAdv</afun>
+<afun>Atr</afun>
 <ord>28</ord>
 <clause_number>2</clause_number>
 </LM>
@@ -5287,7 +5287,7 @@
 <children>
 <LM id="a-cmpr9407-002-p15s9w24">
 <m.rf>m#m-cmpr9407-002-p15s9w24</m.rf>
-<afun>AtrAtr</afun>
+<afun>Atr</afun>
 <ord>24</ord>
 <clause_number>2</clause_number>
 <children>
@@ -9068,6 +9068,8 @@
 <ord>10</ord>
 <clause_number>2</clause_number>
 </LM>
+</children>
+</LM>
 <LM id="a-cmpr9407-002-p22s6w12">
 <m.rf>m#m-cmpr9407-002-p22s6w12</m.rf>
 <afun>AuxP</afun>
@@ -9076,7 +9078,7 @@
 <children>
 <LM id="a-cmpr9407-002-p22s6w16">
 <m.rf>m#m-cmpr9407-002-p22s6w16</m.rf>
-<afun>AdvAtr</afun>
+<afun>Adv</afun>
 <ord>16</ord>
 <clause_number>2</clause_number>
 <children>
@@ -9099,8 +9101,6 @@
 <is_member>1</is_member>
 <ord>15</ord>
 <clause_number>2</clause_number>
-</LM>
-</children>
 </LM>
 </children>
 </LM>

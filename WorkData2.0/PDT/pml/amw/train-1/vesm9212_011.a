@@ -2544,7 +2544,9 @@
 <afun>Adv</afun>
 <ord>4</ord>
 <clause_number>1</clause_number>
-<children>
+</LM>
+</children>
+</LM>
 <LM id="a-vesm9212-011-p7s3w5">
 <m.rf>m#m-vesm9212-011-p7s3w5</m.rf>
 <afun>AuxP</afun>
@@ -2553,13 +2555,9 @@
 <children>
 <LM id="a-vesm9212-011-p7s3w6">
 <m.rf>m#m-vesm9212-011-p7s3w6</m.rf>
-<afun>AdvAtr</afun>
+<afun>Adv</afun>
 <ord>6</ord>
 <clause_number>1</clause_number>
-</LM>
-</children>
-</LM>
-</children>
 </LM>
 </children>
 </LM>

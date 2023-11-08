@@ -2617,9 +2617,11 @@
 </LM>
 </children>
 </LM>
+</children>
+</LM>
 <LM id="a-ln95044-072-p4s4w48">
 <m.rf>m#m-ln95044-072-p4s4w48</m.rf>
-<afun>ObjAtr</afun>
+<afun>Obj</afun>
 <ord>48</ord>
 <clause_number>4</clause_number>
 <children>
@@ -2634,8 +2636,6 @@
 <afun>AuxG</afun>
 <ord>47</ord>
 <clause_number>4</clause_number>
-</LM>
-</children>
 </LM>
 </children>
 </LM>

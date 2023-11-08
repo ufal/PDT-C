@@ -535,7 +535,9 @@
 <afun>Adv</afun>
 <ord>30</ord>
 <clause_number>4</clause_number>
-<children>
+</LM>
+</children>
+</LM>
 <LM id="a-lnd91301-091-p2s2w31">
 <m.rf>m#m-lnd91301-091-p2s2w31</m.rf>
 <afun>AuxP</afun>
@@ -544,13 +546,9 @@
 <children>
 <LM id="a-lnd91301-091-p2s2w32">
 <m.rf>m#m-lnd91301-091-p2s2w32</m.rf>
-<afun>AdvAtr</afun>
+<afun>Adv</afun>
 <ord>32</ord>
 <clause_number>4</clause_number>
-</LM>
-</children>
-</LM>
-</children>
 </LM>
 </children>
 </LM>

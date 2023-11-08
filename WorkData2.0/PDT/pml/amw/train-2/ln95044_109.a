@@ -2726,14 +2726,14 @@
 </LM>
 <LM id="a-ln95044-109-p5s8w23">
 <m.rf>m#m-ln95044-109-p5s8w23</m.rf>
-<afun>AtrAdv</afun>
+<afun>Atr</afun>
 <is_member>1</is_member>
 <ord>23</ord>
 <clause_number>1</clause_number>
 </LM>
 <LM id="a-ln95044-109-p5s8w25">
 <m.rf>m#m-ln95044-109-p5s8w25</m.rf>
-<afun>AtrAdv</afun>
+<afun>Atr</afun>
 <is_member>1</is_member>
 <ord>25</ord>
 <clause_number>1</clause_number>
@@ -2976,7 +2976,7 @@
 <children>
 <LM id="a-ln95044-109-p5s9w27">
 <m.rf>m#m-ln95044-109-p5s9w27</m.rf>
-<afun>AtrAdv</afun>
+<afun>Atr</afun>
 <ord>27</ord>
 <clause_number>3</clause_number>
 <children>

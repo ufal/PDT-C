@@ -2112,7 +2112,7 @@
 <afun>Obj</afun>
 <ord>3</ord>
 <clause_number>1</clause_number>
-<children>
+</LM>
 <LM id="a-ln95043-021-p2s14w4">
 <m.rf>m#m-ln95043-021-p2s14w4</m.rf>
 <afun>AuxP</afun>
@@ -2121,11 +2121,9 @@
 <children>
 <LM id="a-ln95043-021-p2s14w5">
 <m.rf>m#m-ln95043-021-p2s14w5</m.rf>
-<afun>AdvAtr</afun>
+<afun>Adv</afun>
 <ord>5</ord>
 <clause_number>1</clause_number>
-</LM>
-</children>
 </LM>
 </children>
 </LM>

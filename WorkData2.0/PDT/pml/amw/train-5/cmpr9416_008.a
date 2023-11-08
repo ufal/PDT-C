@@ -2462,7 +2462,7 @@
 <afun>Obj</afun>
 <ord>9</ord>
 <clause_number>1</clause_number>
-<children>
+</LM>
 <LM id="a-cmpr9416-008-p11s3w10">
 <m.rf>m#m-cmpr9416-008-p11s3w10</m.rf>
 <afun>AuxP</afun>
@@ -2471,11 +2471,9 @@
 <children>
 <LM id="a-cmpr9416-008-p11s3w11">
 <m.rf>m#m-cmpr9416-008-p11s3w11</m.rf>
-<afun>AdvAtr</afun>
+<afun>Adv</afun>
 <ord>11</ord>
 <clause_number>1</clause_number>
-</LM>
-</children>
 </LM>
 </children>
 </LM>

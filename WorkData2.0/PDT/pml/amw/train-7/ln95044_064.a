@@ -314,7 +314,7 @@
 <children>
 <LM id="a-ln95044-064-p2s1Bw2">
 <m.rf>m#m-ln95044-064-p2s1Bw2</m.rf>
-<afun>ObjAtr</afun>
+<afun>Obj</afun>
 <ord>2</ord>
 <clause_number>1</clause_number>
 <children>
@@ -2988,6 +2988,10 @@
 <ord>5</ord>
 <clause_number>1</clause_number>
 </LM>
+</children>
+</LM>
+</children>
+</LM>
 <LM id="a-ln95044-064-p9s8w7">
 <m.rf>m#m-ln95044-064-p9s8w7</m.rf>
 <afun>AuxP</afun>
@@ -2996,13 +3000,9 @@
 <children>
 <LM id="a-ln95044-064-p9s8w8">
 <m.rf>m#m-ln95044-064-p9s8w8</m.rf>
-<afun>AdvAtr</afun>
+<afun>Adv</afun>
 <ord>8</ord>
 <clause_number>1</clause_number>
-</LM>
-</children>
-</LM>
-</children>
 </LM>
 </children>
 </LM>

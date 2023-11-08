@@ -50,7 +50,7 @@
 <children>
 <LM id="a-lnd94104-072-p1s1w5">
 <m.rf>m#m-lnd94104-072-p1s1w5</m.rf>
-<afun>AtrAdv</afun>
+<afun>Atr</afun>
 <ord>5</ord>
 <clause_number>1</clause_number>
 <children>
@@ -89,7 +89,7 @@
 <children>
 <LM id="a-lnd94104-072-p1s1w11">
 <m.rf>m#m-lnd94104-072-p1s1w11</m.rf>
-<afun>AtrAdv</afun>
+<afun>Atr</afun>
 <ord>11</ord>
 <clause_number>1</clause_number>
 </LM>

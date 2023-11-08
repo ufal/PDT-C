@@ -3571,7 +3571,7 @@
 <children>
 <LM id="a-vesm9211-012-p11s1w7">
 <m.rf>m#m-vesm9211-012-p11s1w7</m.rf>
-<afun>AdvAtr</afun>
+<afun>Adv</afun>
 <ord>7</ord>
 <clause_number>1</clause_number>
 <children>
@@ -3696,7 +3696,7 @@
 <children>
 <LM id="a-vesm9211-012-p11s2w10">
 <m.rf>m#m-vesm9211-012-p11s2w10</m.rf>
-<afun>AtrAdv</afun>
+<afun>Atr</afun>
 <ord>10</ord>
 <clause_number>2</clause_number>
 <children>
@@ -4693,7 +4693,7 @@
 <children>
 <LM id="a-vesm9211-012-p13s4w8">
 <m.rf>m#m-vesm9211-012-p13s4w8</m.rf>
-<afun>AdvAtr</afun>
+<afun>Adv</afun>
 <ord>8</ord>
 <clause_number>1</clause_number>
 <children>
@@ -5440,7 +5440,7 @@
 <children>
 <LM id="a-vesm9211-012-p14s5w7">
 <m.rf>m#m-vesm9211-012-p14s5w7</m.rf>
-<afun>AdvAtr</afun>
+<afun>Adv</afun>
 <ord>7</ord>
 <clause_number>1</clause_number>
 <children>
@@ -6440,7 +6440,7 @@
 <children>
 <LM id="a-vesm9211-012-p15s2Aw8">
 <m.rf>m#m-vesm9211-012-p15s2Aw8</m.rf>
-<afun>AtrAdv</afun>
+<afun>Atr</afun>
 <ord>8</ord>
 <clause_number>1</clause_number>
 <children>
@@ -6468,7 +6468,7 @@
 <children>
 <LM id="a-vesm9211-012-p15s2Aw12">
 <m.rf>m#m-vesm9211-012-p15s2Aw12</m.rf>
-<afun>AtrAdv</afun>
+<afun>Atr</afun>
 <ord>12</ord>
 <clause_number>1</clause_number>
 <children>
@@ -13818,7 +13818,7 @@
 <children>
 <LM id="a-vesm9211-012-p23s3w6">
 <m.rf>m#m-vesm9211-012-p23s3w6</m.rf>
-<afun>AtrAdv</afun>
+<afun>Atr</afun>
 <ord>6</ord>
 <clause_number>1</clause_number>
 <children>
@@ -14535,7 +14535,7 @@
 <children>
 <LM id="a-vesm9211-012-p24s2w33">
 <m.rf>m#m-vesm9211-012-p24s2w33</m.rf>
-<afun>AtrAtr</afun>
+<afun>Atr</afun>
 <ord>33</ord>
 <clause_number>1</clause_number>
 </LM>

@@ -2570,7 +2570,7 @@
 <children>
 <LM id="a-lnd91303-019-p6s4w17">
 <m.rf>m#m-lnd91303-019-p6s4w17</m.rf>
-<afun>AtrAdv</afun>
+<afun>Atr</afun>
 <ord>17</ord>
 <clause_number>3</clause_number>
 </LM>
@@ -2590,7 +2590,7 @@
 <children>
 <LM id="a-lnd91303-019-p6s4w22">
 <m.rf>m#m-lnd91303-019-p6s4w22</m.rf>
-<afun>AtrAdv</afun>
+<afun>Atr</afun>
 <ord>22</ord>
 <clause_number>3</clause_number>
 <children>
@@ -3426,7 +3426,7 @@
 <children>
 <LM id="a-lnd91303-019-p9s1w7">
 <m.rf>m#m-lnd91303-019-p9s1w7</m.rf>
-<afun>AtrAdv</afun>
+<afun>Atr</afun>
 <ord>7</ord>
 <clause_number>1</clause_number>
 <children>
@@ -4800,12 +4800,6 @@
 </LM>
 </children>
 </LM>
-<LM id="a-lnd91303-019-p12s5Cw16">
-<m.rf>m#m-lnd91303-019-p12s5Cw16</m.rf>
-<afun>Obj</afun>
-<ord>16</ord>
-<clause_number>1</clause_number>
-<children>
 <LM id="a-lnd91303-019-p12s5Cw7">
 <m.rf>m#m-lnd91303-019-p12s5Cw7</m.rf>
 <afun>AuxP</afun>
@@ -4814,7 +4808,7 @@
 <children>
 <LM id="a-lnd91303-019-p12s5Cw8">
 <m.rf>m#m-lnd91303-019-p12s5Cw8</m.rf>
-<afun>AdvAtr</afun>
+<afun>Adv</afun>
 <ord>8</ord>
 <clause_number>1</clause_number>
 <children>
@@ -4866,6 +4860,12 @@
 </LM>
 </children>
 </LM>
+<LM id="a-lnd91303-019-p12s5Cw16">
+<m.rf>m#m-lnd91303-019-p12s5Cw16</m.rf>
+<afun>Obj</afun>
+<ord>16</ord>
+<clause_number>1</clause_number>
+<children>
 <LM id="a-lnd91303-019-p12s5Cw15">
 <m.rf>m#m-lnd91303-019-p12s5Cw15</m.rf>
 <afun>Atr</afun>

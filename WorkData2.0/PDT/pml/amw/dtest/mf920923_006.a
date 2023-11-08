@@ -555,7 +555,7 @@
 <children>
 <LM id="a-mf920923-006-p3s1w21">
 <m.rf>m#m-mf920923-006-p3s1w21</m.rf>
-<afun>AtrAdv</afun>
+<afun>Atr</afun>
 <ord>21</ord>
 <clause_number>2</clause_number>
 <children>
@@ -2270,7 +2270,7 @@
 <afun>Obj</afun>
 <ord>15</ord>
 <clause_number>3</clause_number>
-<children>
+</LM>
 <LM id="a-mf920923-006-p6s2w17">
 <m.rf>m#m-mf920923-006-p6s2w17</m.rf>
 <afun>AuxP</afun>
@@ -2279,11 +2279,9 @@
 <children>
 <LM id="a-mf920923-006-p6s2w18">
 <m.rf>m#m-mf920923-006-p6s2w18</m.rf>
-<afun>AdvAtr</afun>
+<afun>Adv</afun>
 <ord>17</ord>
 <clause_number>3</clause_number>
-</LM>
-</children>
 </LM>
 </children>
 </LM>
