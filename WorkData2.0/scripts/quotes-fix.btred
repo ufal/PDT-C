@@ -1,0 +1,30 @@
+#!btred -NTe quotes_fix()
+# -*- mode: cperl -*-
+use warnings;
+use strict;
+
+sub quotes_fix {
+    return unless $this->parent && '"' eq $this->attr('m/form');
+
+    my $ord = $this->{ord};
+    my $orig_parent = $this->parent;
+    my $direction = $orig_parent->{ord} <=> $this->{ord};
+    print "Start\t"; FPosition();
+    my $parent;
+    $ord += $direction;
+    do {
+        ($parent) = grep $_->{ord} == $ord, $root->descendants;
+        $ord += $direction;
+        unless ($parent) {
+            print "No parent\t"; FPosition();
+            return
+        }
+
+    } while $parent->{afun} =~ /^Aux[GX]$/ || $parent->attr('m/form') !~ /\w/;
+
+    return if $parent == $orig_parent;
+
+    CutPaste($this, $parent);
+    ChangingFile(1);
+    FPosition();
+}
