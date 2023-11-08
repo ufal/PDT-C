@@ -8442,6 +8442,8 @@
 <ord>31</ord>
 <clause_number>4</clause_number>
 </LM>
+</children>
+</LM>
 <LM id="a-vesm9301-014-p36s7w31">
 <m.rf>m#m-vesm9301-014-p36s7w31</m.rf>
 <afun>AuxP</afun>
@@ -8456,14 +8458,14 @@
 <children>
 <LM id="a-vesm9301-014-p36s7w32">
 <m.rf>m#m-vesm9301-014-p36s7w32</m.rf>
-<afun>AdvAtr</afun>
+<afun>Adv</afun>
 <is_member>1</is_member>
 <ord>33</ord>
 <clause_number>4</clause_number>
 </LM>
 <LM id="a-vesm9301-014-p36s7w35">
 <m.rf>m#m-vesm9301-014-p36s7w35</m.rf>
-<afun>AdvAtr</afun>
+<afun>Adv</afun>
 <is_member>1</is_member>
 <ord>36</ord>
 <clause_number>4</clause_number>
@@ -8473,8 +8475,6 @@
 <afun>Atr</afun>
 <ord>35</ord>
 <clause_number>4</clause_number>
-</LM>
-</children>
 </LM>
 </children>
 </LM>
