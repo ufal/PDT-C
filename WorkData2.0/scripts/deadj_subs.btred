@@ -64,7 +64,7 @@ my @LEMMAS = qw(
     živý
 );
 my $lemma = join '|', @LEMMAS;
-$lemma = qr/^($lemma)(?:^|[-`_])/;
+$lemma = qr/^($lemma)(?:$|[-`_])/;
 
 sub deadj_subs {
     return unless $this->parent;

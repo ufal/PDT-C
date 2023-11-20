@@ -1,0 +1,34 @@
+#!btred -NT -e adj2noun()
+# -*- mode: cperl; encoding: utf-8 -*-
+
+use warnings;
+use strict;
+use utf8;
+
+my $ANY = qr/^/;
+my %adj = (
+    hotový         => qr/^..IP/,
+    mladistvý      => $ANY,
+    napadený       => $ANY,
+    padlý          => $ANY,
+    spolupracující => $ANY,
+    srnčí          => $ANY,
+    závislý        => qr/^..M.......N/,
+    zpívaný        => $ANY,
+);
+
+my $regex_lemma = join '|', keys %adj;
+
+sub adj2noun {
+    return if ! $this->parent
+           || $this->attr('m/lemma') !~ /^($regex_lemma)(?:$|[-`_])/
+           || $this->attr('m/tag') !~ $adj{$1};
+    my @p = PML_A_Anot::get_eparents($this);
+
+    print join "\t", $this->attr('m/lemma'),
+                     $this->attr('m/tag'),
+                     $this->{afun},
+                     join(',', map $_->attr('m/tag'), @p),
+                     "";
+    FPosition();
+}
