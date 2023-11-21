@@ -8,7 +8,8 @@ use Text::Table;
 
 my @globs = qw( WorkData2.0/PCEDT-cz/pml/*.m
                 WorkData2.0/PDTSC/pml/*.m
-                WorkData2.0/PDT/pml/tamw/*/*.m );
+                WorkData2.0/PDT/pml/tamw/*/*.m
+                WorkData2.0/PDT/pml/amw/*/*.m );
 
 my $tt = 'Text::Table'->new("corp\n&left", map { \'|', "$_\n&right" }
                             'avg', 'avg(avg per file)',
@@ -54,6 +55,7 @@ for my $glob (@globs) {
 
 
     my $name = (split m{/}, $glob)[1];
+    $name .= '/' . (split m{/}, $glob)[3] if 'PDT' eq $name;
 
     $tt->add($name,
              map { sprintf '%.2f', $_ }
