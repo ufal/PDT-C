@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_c_schema.xml" />
+<schema href="mdata_c_schema.xml"/>
 <references>
-<reffile id="w" name="wdata" href="lnd91301_101.w" />
+<reffile id="w" name="wdata" href="lnd91301_101.w"/>
 </references>
 </head>
 <meta>
@@ -478,7 +478,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----1A----</tag>
 </m>
 <m id="m-lnd91301-101-p4s3w18">
 <src.rf>manual</src.rf>
@@ -496,7 +496,7 @@
 </w.rf>
 <form>každým</form>
 <lemma>každý</lemma>
-<tag>AAMS7----1A----</tag>
+<tag>PLMS7----1A----</tag>
 </m>
 <m id="m-lnd91301-101-p4s3w20">
 <src.rf>manual</src.rf>
@@ -986,7 +986,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----1A----</tag>
 </m>
 <m id="m-lnd91301-101-p4s5w16">
 <src.rf>manual</src.rf>
@@ -1004,7 +1004,7 @@
 </w.rf>
 <form>každým</form>
 <lemma>každý</lemma>
-<tag>AAMS7----1A----</tag>
+<tag>PLMS7----1A----</tag>
 </m>
 <m id="m-lnd91301-101-p4s5w18">
 <src.rf>manual</src.rf>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_c_schema.xml" />
+<schema href="mdata_c_schema.xml"/>
 <references>
-<reffile id="w" name="wdata" href="cmpr9407_042.w" />
+<reffile id="w" name="wdata" href="cmpr9407_042.w"/>
 </references>
 </head>
 <meta>
@@ -6534,7 +6534,7 @@
 </w.rf>
 <form>každém</form>
 <lemma>každý</lemma>
-<tag>AAIS6----1A----</tag>
+<tag>PLIS6----1A----</tag>
 </m>
 <m id="m-cmpr9407-042-p46s3w3">
 <src.rf>manual</src.rf>
@@ -10948,7 +10948,7 @@
 </w.rf>
 <form>každého</form>
 <lemma>každý</lemma>
-<tag>AAIS2----1A----</tag>
+<tag>PLIS2----1A----</tag>
 </m>
 <m id="m-cmpr9407-042-p57s1w13">
 <src.rf>manual</src.rf>

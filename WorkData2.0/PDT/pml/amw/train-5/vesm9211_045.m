@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_c_schema.xml" />
+<schema href="mdata_c_schema.xml"/>
 <references>
-<reffile id="w" name="wdata" href="vesm9211_045.w" />
+<reffile id="w" name="wdata" href="vesm9211_045.w"/>
 </references>
 </head>
 <meta>
@@ -714,7 +714,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----1A----</tag>
 </m>
 <m id="m-vesm9211-045-p3s1w7">
 <src.rf>manual</src.rf>
@@ -3902,7 +3902,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----1A----</tag>
 </m>
 <m id="m-vesm9211-045-p5s2w13">
 <src.rf>manual</src.rf>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_c_schema.xml" />
+<schema href="mdata_c_schema.xml"/>
 <references>
-<reffile id="w" name="wdata" href="lnd92256_004.w" />
+<reffile id="w" name="wdata" href="lnd92256_004.w"/>
 </references>
 </head>
 <meta>
@@ -4636,7 +4636,7 @@
 </w.rf>
 <form>každé</form>
 <lemma>každý</lemma>
-<tag>AAFS6----1A----</tag>
+<tag>PLFS6----1A----</tag>
 </m>
 <m id="m-lnd92256-004-p12s1w4">
 <src.rf>manual</src.rf>
@@ -7588,7 +7588,7 @@
 </w.rf>
 <form>každých</form>
 <lemma>každý</lemma>
-<tag>AAFP2----1A----</tag>
+<tag>PLFP2----1A----</tag>
 </m>
 <m id="m-lnd92256-004-p19s4w6">
 <src.rf>manual</src.rf>

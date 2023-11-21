@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_c_schema.xml" />
+<schema href="mdata_c_schema.xml"/>
 <references>
-<reffile id="w" name="wdata" href="lnd92258_076.w" />
+<reffile id="w" name="wdata" href="lnd92258_076.w"/>
 </references>
 </head>
 <meta>
@@ -958,7 +958,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----1A----</tag>
 </m>
 <m id="m-lnd92258-076-p11s1w4">
 <src.rf>manual</src.rf>
@@ -4023,8 +4023,8 @@
 <w.rf>
 <LM>w#w-lnd92258-076-p50s1w36</LM>
 </w.rf>
-<form>></form>
-<lemma>></lemma>
+<form>&gt;</form>
+<lemma>&gt;</lemma>
 <tag>Z:-------------</tag>
 </m>
 </s>
@@ -4052,8 +4052,8 @@
 <w.rf>
 <LM>w#w-lnd92258-076-p51s1w3</LM>
 </w.rf>
-<form>></form>
-<lemma>></lemma>
+<form>&gt;</form>
+<lemma>&gt;</lemma>
 <tag>Z:-------------</tag>
 </m>
 </s>
@@ -4081,8 +4081,8 @@
 <w.rf>
 <LM>w#w-lnd92258-076-p52s1w3</LM>
 </w.rf>
-<form>></form>
-<lemma>></lemma>
+<form>&gt;</form>
+<lemma>&gt;</lemma>
 <tag>Z:-------------</tag>
 </m>
 </s>

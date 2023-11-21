@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_c_schema.xml" />
+<schema href="mdata_c_schema.xml"/>
 <references>
-<reffile id="w" name="wdata" href="mf930703_020.w" />
+<reffile id="w" name="wdata" href="mf930703_020.w"/>
 </references>
 </head>
 <meta>
@@ -784,7 +784,7 @@
 </w.rf>
 <form>každému</form>
 <lemma>každý</lemma>
-<tag>AAIS3----1A----</tag>
+<tag>PLIS3----1A----</tag>
 </m>
 <m id="m-mf930703-020-p2s4w19">
 <src.rf>manual</src.rf>

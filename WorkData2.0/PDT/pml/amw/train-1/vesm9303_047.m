@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_c_schema.xml" />
+<schema href="mdata_c_schema.xml"/>
 <references>
-<reffile id="w" name="wdata" href="vesm9303_047.w" />
+<reffile id="w" name="wdata" href="vesm9303_047.w"/>
 </references>
 </head>
 <meta>
@@ -3706,7 +3706,7 @@
 </w.rf>
 <form>Každý</form>
 <lemma>každý</lemma>
-<tag>AAIS1----1A----</tag>
+<tag>PLIS1----1A----</tag>
 </m>
 <m id="m-vesm9303-047-p8s4w2">
 <src.rf>manual</src.rf>
@@ -4760,7 +4760,7 @@
 </w.rf>
 <form>každé</form>
 <lemma>každý</lemma>
-<tag>AAFS2----1A----</tag>
+<tag>PLFS2----1A----</tag>
 </m>
 <m id="m-vesm9303-047-p9s3w5">
 <src.rf>manual</src.rf>
@@ -5250,7 +5250,7 @@
 </w.rf>
 <form>každou</form>
 <lemma>každý</lemma>
-<tag>AAFS4----1A----</tag>
+<tag>PLFS4----1A----</tag>
 </m>
 <m id="m-vesm9303-047-p9s5w23">
 <src.rf>manual</src.rf>
@@ -6873,7 +6873,7 @@
 </w.rf>
 <form>Každého</form>
 <lemma>každý</lemma>
-<tag>AAMS4----1A----</tag>
+<tag>PLMS4----1A----</tag>
 </m>
 <m id="m-vesm9303-047-p12s1w2">
 <src.rf>manual</src.rf>
@@ -7381,7 +7381,7 @@
 </w.rf>
 <form>každého</form>
 <lemma>každý</lemma>
-<tag>AAIS2----1A----</tag>
+<tag>PLIS2----1A----</tag>
 </m>
 <m id="m-vesm9303-047-p12s3w31">
 <src.rf>manual</src.rf>
@@ -8976,7 +8976,7 @@
 </w.rf>
 <form>Každá</form>
 <lemma>každý</lemma>
-<tag>AAFS1----1A----</tag>
+<tag>PLFS1----1A----</tag>
 </m>
 <m id="m-vesm9303-047-p13s7w2">
 <src.rf>manual</src.rf>
@@ -11512,7 +11512,7 @@
 </w.rf>
 <form>každém</form>
 <lemma>každý</lemma>
-<tag>AAIS6----1A----</tag>
+<tag>PLIS6----1A----</tag>
 </m>
 <m id="m-vesm9303-047-p16s3w19">
 <src.rf>manual</src.rf>
@@ -15148,7 +15148,7 @@
 </w.rf>
 <form>každém</form>
 <lemma>každý</lemma>
-<tag>AAIS6----1A----</tag>
+<tag>PLIS6----1A----</tag>
 </m>
 <m id="m-vesm9303-047-p23s4w3">
 <src.rf>manual</src.rf>
@@ -15247,7 +15247,7 @@
 </w.rf>
 <form>každé</form>
 <lemma>každý</lemma>
-<tag>AAFS2----1A----</tag>
+<tag>PLFS2----1A----</tag>
 </m>
 <m id="m-vesm9303-047-p23s4w14">
 <src.rf>manual</src.rf>

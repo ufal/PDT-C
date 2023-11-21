@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_c_schema.xml" />
+<schema href="mdata_c_schema.xml"/>
 <references>
-<reffile id="w" name="wdata" href="vesm9301_032.w" />
+<reffile id="w" name="wdata" href="vesm9301_032.w"/>
 </references>
 </head>
 <meta>
@@ -226,7 +226,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>AAMS1----1A----</tag>
+<tag>PLMS1----1A----</tag>
 </m>
 <m id="m-vesm9301-032-p3s3w4">
 <src.rf>manual</src.rf>
@@ -4496,7 +4496,7 @@
 </w.rf>
 <form>každého</form>
 <lemma>každý</lemma>
-<tag>AAIS2----1A----</tag>
+<tag>PLIS2----1A----</tag>
 </m>
 <m id="m-vesm9301-032-p7s6w12">
 <src.rf>manual</src.rf>
@@ -5341,7 +5341,7 @@
 </w.rf>
 <form>každé</form>
 <lemma>každý</lemma>
-<tag>AAFS2----1A----</tag>
+<tag>PLFS2----1A----</tag>
 </m>
 <m id="m-vesm9301-032-p7s10Aw5">
 <src.rf>manual</src.rf>
@@ -7743,7 +7743,7 @@
 </w.rf>
 <form>Každé</form>
 <lemma>každý</lemma>
-<tag>AANS1----1A----</tag>
+<tag>PLNS1----1A----</tag>
 </m>
 <m id="m-vesm9301-032-p9s4w24">
 <src.rf>manual</src.rf>
