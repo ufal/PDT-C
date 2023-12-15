@@ -5,15 +5,24 @@ use strict;
 
 open my $in, '<', 'opravdu.a'
     or die 'Needs "opravdu.a" containig the output of opravdu-a.btred';
-my %id;
+my %a_position;
 while (<$in>) {
     chomp;
-    undef $id{$_};
+    my ($id, $pos) = split "\t";
+    die "Duplicate id $id" if exists $a_position{$id};
+    $a_position{$id} = $pos;
 }
 
 sub opravdu {
     return if $this == $root;
 
-    FPosition() if (grep exists $id{ $_->{id} }, PML_T::GetANodes($this))
-                && $this->{functor} =~ /^(?:RHEM|MANN|EFF)$/;
+    for my $anode (PML_T::GetANodes($this)) {
+        next unless exists $a_position{ $anode->{id} };
+
+        writeln(join "\t",
+                $anode->{afun},
+                $this->{functor},
+                $a_position{ $anode->{id} })
+            if $this->{functor} =~ /^(?:RHEM|MANN|EFF)$/;
+    }
 }

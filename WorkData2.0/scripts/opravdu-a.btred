@@ -6,7 +6,8 @@ use strict;
 sub opravdu {
     return if $this == $root;
 
-    writeln($this->{id}) if $this->attr('m/lemma') eq 'opravdu-1'
-                         && $this->attr('m/tag')   eq 'Db-------------'
-                         && $this->{afun}          =~ /^(?:AuxZ|Pnom)$/;
+    print($this->{id}, "\t"), FPosition()
+        if $this->attr('m/lemma') eq 'opravdu-1'
+        && $this->attr('m/tag')   eq 'Db-------------'
+        && $this->{afun}          =~ /^(?:AuxZ|Pnom)$/;
 }
