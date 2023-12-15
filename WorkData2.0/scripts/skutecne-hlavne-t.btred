@@ -1,0 +1,28 @@
+#!btred -NTe skutecne_hlavne()
+# -*- mode: cperl -*-
+use warnings;
+use strict;
+
+my %search;
+open my $in, '<:encoding(UTF-8)', 'skutecne-hlavne.a'
+    or die 'Needs skutence-hlavne.a with output from skutecne-hlavne-a.btred';
+while (<$in>) {
+    chomp;
+    my ($id, $rest) = split /\t/, $_, 2;
+    die "Duplicate $id\n" if exists $search{$id};
+    $search{$id} = $rest;
+}
+
+sub skutecne_hlavne {
+    return if $this == $root;
+
+    my @ids = map s/^.*#//r,
+              grep defined,
+              $this->attr('a/lex.rf'), ListV($this->attr('a/aux.rf'));
+    for my $id (@ids) {
+        if (exists $search{$id}) {
+            print join "\t", $this->{functor}, $search{$id}, "";
+            FPosition();
+        }
+    }
+}

@@ -1,0 +1,14 @@
+#!btred -NTe skutecne_hlavne()
+# -*- mode: cperl; encoding: utf-8 -*-
+use warnings;
+use strict;
+use utf8;
+
+my %search = (skutečně => undef,
+              hlavně   => undef);
+sub skutecne_hlavne {
+    return if $this == $root;
+
+    writeln(join "\t", map $this->attr($_), qw( id afun m/lemma m/tag ))
+        if exists $search{ lc $this->attr('m/form') };
+}
