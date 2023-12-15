@@ -1,0 +1,19 @@
+#!btred -NTe opravdu()
+# -*- mode: cperl -*-
+use warnings;
+use strict;
+
+open my $in, '<', 'opravdu.a'
+    or die 'Needs "opravdu.a" containig the output of opravdu-a.btred';
+my %id;
+while (<$in>) {
+    chomp;
+    undef $id{$_};
+}
+
+sub opravdu {
+    return if $this == $root;
+
+    FPosition() if (grep exists $id{ $_->{id} }, PML_T::GetANodes($this))
+                && $this->{functor} =~ /^(?:RHEM|MANN|EFF)$/;
+}
