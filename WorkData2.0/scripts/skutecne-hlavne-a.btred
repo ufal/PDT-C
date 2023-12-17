@@ -9,6 +9,7 @@ my %search = (skutečně => undef,
 sub skutecne_hlavne {
     return if $this == $root;
 
-    writeln(join "\t", map $this->attr($_), qw( id afun m/lemma m/tag ))
+    print(join("\t", map $this->attr($_), qw( id afun m/lemma m/tag )), "\t"),
+        FPosition()
         if exists $search{ lc $this->attr('m/form') };
 }
