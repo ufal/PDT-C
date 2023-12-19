@@ -1,0 +1,38 @@
+#!btred -NTe ellipsis_shared()
+# -*- mode: cperl -*-
+use warnings;
+use strict;
+
+'PML_A_Anot'->import;
+
+sub analyze {
+    my ($node) = @_;
+    my @ech = grep ! grep($_ == $node, $_->ancestors)
+                   && $_->{afun} !~ /^Aux[GKX]/,
+              get_echildren($node);
+    if (@ech) {
+        print join "\t",
+                   $node->{id},
+                   map $_->{id},
+                   @ech;
+        print "\t";
+        FPosition();
+    }
+
+}
+
+sub ellipsis_shared {
+    ChangingFile(0);
+    return if $this == $root;
+
+    analyze($this) if $this->{is_extra_dependency} && $this->{is_member};
+    if ($this->{afun} ne 'AuxZ'
+        && $this->parent
+        && $this->parent->{is_extra_dependency}
+        && $this->parent->{is_member}
+        && $this->parent->{afun} =~ /^(?:Aux[CP]|Coord|Apos)/
+    ) {
+        local $this->parent->{is_extra_dependency} = 0;
+        analyze($this);
+    }
+}
