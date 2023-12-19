@@ -8,7 +8,7 @@ use strict;
 sub analyze {
     my ($node) = @_;
     my @ech = grep ! grep($_ == $node, $_->ancestors)
-                   && $_->{afun} !~ /^Aux[GKX]/,
+                   && $_->{afun} !~ /^Aux[GKXYZ]/,
               get_echildren($node);
     if (@ech) {
         print join "\t",
@@ -18,16 +18,15 @@ sub analyze {
         print "\t";
         FPosition();
     }
-
 }
 
 sub ellipsis_shared {
     ChangingFile(0);
     return if $this == $root;
+    return if $this->{afun} =~ /^Aux[GKXYZ]/;
 
     analyze($this) if $this->{is_extra_dependency} && $this->{is_member};
-    if ($this->{afun} ne 'AuxZ'
-        && $this->parent
+    if (   $this->parent
         && $this->parent->{is_extra_dependency}
         && $this->parent->{is_member}
         && $this->parent->{afun} =~ /^(?:Aux[CP]|Coord|Apos)/
