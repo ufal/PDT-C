@@ -1,0 +1,25 @@
+#!btred -NTe common_agreement()
+# -*- mode: cperl -*-
+use warnings;
+use strict;
+
+'PML_A_Anot'->import;
+
+my $GNC = qr/^..(.)(.)(.)/;
+sub common_agreement {
+    return if $this == $root;
+
+    if (0 == index $this->attr('m/tag'), 'A') {
+        my @eparents = get_eparents($this);
+        return unless @eparents > 1;
+
+        my $agrees = 1;
+        my ($genre, $number, $case) = $this->attr('m/tag') =~ /$GNC/;
+        for my $p (@eparents) {
+            my ($pg, $pn, $pc) = $p->attr('m/tag') =~ /$GNC/;
+            FPosition() if $pg !~ /[-X]/ && $genre  !~ /[-X]/ && $pg ne $genre
+                        || $pn !~ /[-X]/ && $number !~ /[-X]/ && $pn ne $number
+                        || $pc !~ /[-X]/ && $case   !~ /[-X]/ && $pc ne $case;
+        }
+    }
+}
