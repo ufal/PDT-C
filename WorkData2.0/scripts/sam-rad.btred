@@ -1,0 +1,19 @@
+#!btred -NTe sam_rad()
+# -*- mode: cperl; encoding: utf-8 -*-
+use warnings;
+use strict;
+use utf8;
+
+sub sam_rad {
+    return unless $this->parent;
+
+    if ($this->attr('m/lemma') =~ /^(?:sám|rád)(?:[-_])/
+        && $this->{afun} eq 'Atv'
+    ) {
+        my @p = PML_A_Anot::get_eparents($this);
+        if (grep $_->attr('m/lemma') =~ /^bý(?:(?:vá)?va)?t(?:_|$)/, @p) {
+            my @ch = map PML_A_Anot::get_echildren($_), @p;
+            FPosition() unless grep 'Pnom' eq $_->{afun}, @ch;
+        }
+    }
+}
