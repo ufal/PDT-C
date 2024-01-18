@@ -1,0 +1,19 @@
+#!btred -Te ordcheck()
+# -*- mode: cperl -*-
+use warnings;
+use strict;
+
+sub ordcheck {
+    my @nodes = $root->descendants;
+    return unless @nodes;
+
+    my $ord = (exists $nodes[0]->{ord}) ? 'ord' : 'deepord';
+
+    @nodes = sort { $a->{$ord} <=> $b->{$ord} } @nodes;
+    for my $i (0 .. $#nodes) {
+        if ($nodes[$i]{$ord} != $i + 1) {
+            print "Wrong $ord\t";
+            FPosition($nodes[$i]);
+        }
+    }
+}
