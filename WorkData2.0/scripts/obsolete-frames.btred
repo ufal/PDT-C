@@ -1,0 +1,66 @@
+#!btred -NTe obsolete()
+# -*- mode: cperl -*-
+use warnings;
+use strict;
+
+# Populate with the frames marked by ! in the output of vallex-subst.pl
+my %OBSOLETE;
+@OBSOLETE{qw{
+    v-w10043f3 v-w10323f2 v-w10480hsa_842 v-w10502f3_ZU v-w10689f3_ZU
+    v-w10999f2 v-w11150f3_ZU v-w11299hsa_201 v-w1211f5_ZU
+    v-w12294_MMf1_MM v-w12383_MMf1_MM v-w1339hsa_486 v-w1550hsa_1193
+    v-w1570hsa_1672 v-w1830hsa_1366 v-w1855f112_ZU v-w1855f113_ZU
+    v-w1855f124_ZU v-w1855f143_ZU v-w1855f154_ZU v-w1855f155_ZU
+    v-w1855f259_ZU v-w1855f267_ZU v-w1855f306_ZU v-w203hsa_1930
+    v-w2132f4_ZU v-w2266hsa_803 v-w2356hsa_328 v-w2356hsa_329
+    v-w2427f2_ZU v-w243f76_ZU v-w243f79_ZU v-w243f83_ZU v-w243hsa_85
+    v-w243hsa_88 v-w2517hsa_1273 v-w2612hsa_892 v-w2739f3_ZU
+    v-w2739f4_ZU v-w2739f5_ZU v-w317hsa_1902 v-w3190hsa_1298
+    v-w327hsa_1151 v-w3413f2_ZU v-w369hsa_834 v-w3769hsa_150
+    v-w4077hsa_1083 v-w409f41_ZU v-w409f42_ZU v-w409f85_ZU
+    v-w409hsa_1099 v-w411hsa_852 v-w4128hsa_1649 v-w5158f36_ZU
+    v-w5158f38_ZU v-w5197hsa_432 v-w5197hsa_433 v-w5322hsa_6
+    v-w5388hsa_50 v-w5762hsa_237 v-w5875hsa_1839 v-w5883hsa_1979
+    v-w5883hsa_1980 v-w5942hsa_784 v-w6123f7_ZU v-w6123f8_ZU
+    v-w6275hsa_743 v-w6384hsa_584 v-w6771hsa_406 v-w6975hsa_415
+    v-w7006hsa_212 v-w7110hsa_413 v-w7116f2_ZU v-w7132hsa_171
+    v-w7226hsa_385 v-w7290f2_ZU v-w7290hsa_1028 v-w7453hsa_183
+    v-w7472f10_ZU v-w7472f8_ZU v-w7476f11_ZU v-w7476f13_ZU
+    v-w7476f17_ZU v-w7486hsa_531 v-w7497hsa_715 v-w7612hsa_1041
+    v-w7613hsa_1356 v-w7715f2_ZU v-w7715f4_ZU v-w7822hsa_1996
+    v-w7842f17_ZU v-w7881hsa_146 v-w7902f7_ZU v-w7902f8_ZU
+    v-w7902f9_ZU v-w8009hsa_1039 v-w8305hsa_345 v-w8396hsa_1004
+    v-w8422hsa_492 v-w8552hsa_190 v-w8628hsa_961 v-w8657f16 v-w8664f1
+    v-w8664f3_ZU v-w8664f4_ZU v-w8664f5_ZU v-w8664hsa_569 v-w8666f1
+    v-w8666f3_ZU v-w8785hsa_1063 v-w9038hsa_624 v-w9040hsa_705
+    v-w9097hsa_609 v-w9216hsa_1545 v-w9229hsa_816 v-w9317f2
+    v-w9317f6_ZU v-w9317f7_ZU v-w9317f8_ZU v-w9317f9_ZU v-w9319f5_ZU
+    v-w9319f6_ZU v-w9319f7_ZU v-w9319hsa_1146 v-w9501hsa_158
+    v-w9627hsa_372 v-w9676hsa_167 v-w9914f10_ZU v-w9914hsa_824
+    v-w9938hsa_38 v-w9956hsa_670 v-w9980hsa_1702 v-whsa_1068hsa_1069
+    v-whsa_1068hsa_1070 v-whsa_1135hsa_1136 v-whsa_1156hsa_1157
+    v-whsa_1172hsa_1173 v-whsa_1178hsa_1179 v-whsa_119hsa_120
+    v-whsa_1207hsa_1208 v-whsa_1278hsa_1279 v-whsa_1286hsa_1287
+    v-whsa_1288hsa_1289 v-whsa_1375hsa_1376 v-whsa_1523hsa_1524
+    v-whsa_1595hsa_1596 v-whsa_1683hsa_1684 v-whsa_1730hsa_1731
+    v-whsa_1861hsa_1862 v-whsa_1870hsa_1871 v-whsa_1981hsa_1982
+    v-whsa_277hsa_278 v-whsa_343hsa_344 v-whsa_356hsa_357
+    v-whsa_398hsa_399 v-whsa_427hsa_428 v-whsa_447hsa_448
+    v-whsa_517hsa_518 v-whsa_577hsa_578 v-whsa_610hsa_611
+    v-whsa_643hsa_644 v-whsa_649hsa_650 v-whsa_663hsa_664
+    v-whsa_701hsa_702 v-whsa_752hsa_753 v-whsa_754hsa_755
+    v-whsa_767hsa_768 v-whsa_779hsa_780 v-whsa_807hsa_808
+    v-whsa_862hsa_863 v-whsa_867hsa_868 v-whsa_886hsa_887
+    v-whsa_900hsa_902 v-whsa_903hsa_904 v-whsa_90hsa_91
+    v-whsa_931hsa_932 v-whsa_984hsa_985 v-whsb_1011hsa_1012
+    v-whsb_1068hsa_1069 v-whsb_1269hsa_1270 v-whsb_126f1_ZU
+    v-whsb_235hsa_236 v-whsb_499hsa_500 v-whsb_614hsa_615
+}} = ();
+
+sub obsolete {
+    return unless my $v = $this->{'val_frame.rf'};
+    $v =~ s/^v#//;
+    print($this->{t_lemma}, "\t",
+          $this->{'val_frame.rf'}, "\t"),
+        FPosition() if exists $OBSOLETE{$v};
+}
