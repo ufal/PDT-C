@@ -43,15 +43,15 @@ vallex-clean.pl - Remove obsolete and substituted frames from vallex.
 
 =head1 SYNOPSIS
 
- vallex-clean.pl pdt-vallex-4.0.xml > pdt-vallex-4.1.xml
+ vallex-clean.pl pdt-vallex-4.0.xml > pdt-vallex-4.1.xml 2>vr.e
 
 =head1 DESCRIPTION
 
 Before using this script, make sure all substitutions in the data have been
-resolved. The script make no checks, it assumes only C<active> and C<reviewed>
-frames should stay.
+resolved. The script makes no checks, it assumes only C<active> and
+C<reviewed> frames should stay. See L<vallex-resolve.btred>.
 
-The STDERR of the script contains input to C<vallex-rename.btred>. Use it to
+The STDERR of the script contains input to L<vallex-rename.btred>. Use it to
 rename the frame references in the data.
 
 =cut

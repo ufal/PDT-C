@@ -46,3 +46,20 @@ sub vs {
 
 $frame{ $_->{id} } = $_ for $vallex->findnodes('//frame');
 vs($_) for sort keys %frame;
+
+=head1 NAME
+
+vallex-subst.pl - Solve substitutions in vallex.
+
+=head1 SYNOPSIS
+
+ vallex-subst.pl /path/to/vallex-1.xml > vs.o
+
+=head1 DESCRIPTION
+
+For each frame in the vallex, find its transitive substitution. Report
+problems (no or more than one substitution).
+
+Use the output to populate L<obsolete-frames.btred>.
+
+=cut

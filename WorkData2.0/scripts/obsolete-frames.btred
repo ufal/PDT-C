@@ -4,6 +4,8 @@ use warnings;
 use strict;
 
 # Populate with the frames marked by ! in the output of vallex-subst.pl
+# Returns nodes that refer to obsolete frames.
+
 my %OBSOLETE;
 @OBSOLETE{qw{
     v-w10043f3 v-w10323f2 v-w10480hsa_842 v-w10502f3_ZU v-w10689f3_ZU
@@ -59,6 +61,7 @@ my %OBSOLETE;
 
 sub obsolete {
     return unless my $v = $this->{'val_frame.rf'};
+
     $v =~ s/^v#//;
     print($this->{t_lemma}, "\t",
           $this->{'val_frame.rf'}, "\t"),

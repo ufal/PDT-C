@@ -20327,3 +20327,18 @@ sub vrename {
     $this->{'val_frame.rf'} = 'v#' . $RENAME{ $this->{'val_frame.rf'} =~ s/^v#//r };
     ChangingFile(1);
 }
+
+=head1 NAME
+
+vallex-rename.btred - Script to rename vallex frames in the data.
+
+=head1 SYNOPSIS
+
+ btred -qI vallex-rename.btred /path/to/data/*.t
+
+=head1 DESCRIPTION
+
+See L<vallex-clean.pl> for details. You should run it first to populate the
+C<%RENAME> hash.
+
+=cut
