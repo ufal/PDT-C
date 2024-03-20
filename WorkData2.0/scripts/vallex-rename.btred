@@ -20341,4 +20341,14 @@ vallex-rename.btred - Script to rename vallex frames in the data.
 See L<vallex-clean.pl> for details. You should run it first to populate the
 C<%RENAME> hash.
 
+The whole looks like this:
+
+          ==> obsolete-frames.btred
+        //            \
+ vallex-subst.pl       \
+        \\              ---v
+          ===============> vallex-resolve.btred ---> vallex-clean.pl  ===> vallex-rename.btred
+
+Where C<< => >> means data and C<< -> >> means time.
+
 =cut
