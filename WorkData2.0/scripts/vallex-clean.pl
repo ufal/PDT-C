@@ -26,6 +26,8 @@ for my $word ($vallex->findnodes('//word')) {
 
     my $frame_counter = 'A';
     for my $frame ($word->findnodes('.//frame')) {
+        my $new_id = "$word->{id}$frame_counter";
+        say STDERR "$frame->{id}\ -> $new_id";
         $frame->{id} = "$word->{id}$frame_counter";
 
         ++$frame_counter;
@@ -48,5 +50,8 @@ vallex-clean.pl - Remove obsolete and substituted frames from vallex.
 Before using this script, make sure all substitutions in the data have been
 resolved. The script make no checks, it assumes only C<active> and C<reviewed>
 frames should stay.
+
+The STDERR of the script contains input to C<vallex-rename.btred>. Use it to
+rename the frame references in the data.
 
 =cut
