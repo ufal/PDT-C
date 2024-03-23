@@ -1,0 +1,44 @@
+#!btred -NTe PML_A_Anot::newch()
+# -*- mode: cperl -*-
+use warnings;
+use strict;
+
+package PML_A_Anot;
+
+sub newch {
+    return if is_aux($this) || is_coap($this) || $this->{is_extra_dependency};
+
+    my @old = sort { $a->{id} cmp $b->{id} } PML_A_Anot::get_eparents($this);
+    my @new = sort { $a->{id} cmp $b->{id} } PML_A_Anot::eparents($this);
+
+    my @old_ids = map $_->{id}, @old;
+    my @new_ids = map $_->{id}, @new;
+    my @old_afuns = map $_->{afun} . '_E' x !!$_->{is_extra_dependency}, @old;
+    my @new_afuns = map $_->{afun} . '_E' x !!$_->{is_extra_dependency}, @new;,
+
+    print("$this->{afun}\t@old_ids @old_afuns NE @new_ids @new_afuns\t"),
+    FPosition() if "@old_ids" ne "@new_ids";
+}
+
+sub esiblings {
+    my %esiblings;
+    my @nodes = $root->descendants;
+    for my $node (@nodes) {
+        next if $node->{afun} =~ /^(?:Aux[CGKPXYZ]|Coord|Apos)$/
+             || $node->{is_extra_dependency};
+
+        my @siblings = map $_->{id},
+                       grep $_->{afun} !~ /^(?:Aux[CGKPXYZ]|Coord|Apos)$/
+                            && ! $_->{is_extra_dependency},
+                       map PML_A_Anot::get_echildren($_),
+                       PML_A_Anot::get_eparents($node);
+        @{ $esiblings{ $node->{id} } }{@siblings} = ();
+    }
+    for my $id (keys %esiblings) {
+        my @siblings = keys %{ $esiblings{$id} };
+        for my $sibling (@siblings) {
+            print("$id\t$sibling\t"), FPosition()
+                unless exists $esiblings{$sibling}{$id};
+        }
+    }
+}
