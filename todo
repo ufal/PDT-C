@@ -1,4 +1,14 @@
 # -*- mode: org -*-
+* A-layer PDT/amw [5/5]
+- [X] Exd na AuxS s tagem NN--1 (substantivum v nominativu) přepsat na Denom 
+- [X] AuxK posunout o patro níž na (poslední) nejvyšší uzel
+- [X] převěšet uvozovky tak, aby se nezlobila kontrola Parent too far
+  (mezi uvozovku a jejího rodiče se v povrchovém pořadí nemůže dostat
+  nic kromě interpunkce (počáteční uvozovky visí na slově
+  bezprostředně následujícím, koncové na slově bezprostředně
+  předcházejícím)).
+- [X] AtrAtr, AtrAdv, AdvAtr, AtrObj, ObjAtr atp. přepsat na první hodnotu? 
+- [X] AtvV přepsat na Atv
 
 * A-layer Annotation [1/1]
 
