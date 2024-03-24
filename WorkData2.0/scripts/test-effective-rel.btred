@@ -6,6 +6,23 @@ use strict;
 package PML_A_Anot;
 
 sub newch {
+    return if is_aux($this) || is_coap($this);
+    my @old = sort { $a->{id} cmp $b->{id} } grep ! is_aux($_), get_echildren($this);
+    my @new = sort { $a->{id} cmp $b->{id} } echildren($this);
+
+    my @old_ids = map $_->{id}, @old;
+    my @new_ids = map $_->{id}, @new;
+    my @old_afuns = map $_->{afun} . '_E' x !!$_->{is_extra_dependency}, @old;
+    my @new_afuns = map $_->{afun} . '_E' x !!$_->{is_extra_dependency}, @new;
+
+    my $pe = ! $this->parent                      ? ""
+           : $this->parent->{is_extra_dependency} ? '_E'
+                                                  : "";
+    print("CH\t$this->{afun}\tp$pe\t@old_ids @old_afuns NE @new_ids @new_afuns\t"),
+    FPosition() if "@old_ids" ne "@new_ids";
+}
+
+sub newpar {
     return if is_aux($this) || is_coap($this) || $this->{is_extra_dependency};
 
     my @old = sort { $a->{id} cmp $b->{id} } PML_A_Anot::get_eparents($this);
@@ -14,11 +31,14 @@ sub newch {
     my @old_ids = map $_->{id}, @old;
     my @new_ids = map $_->{id}, @new;
     my @old_afuns = map $_->{afun} . '_E' x !!$_->{is_extra_dependency}, @old;
-    my @new_afuns = map $_->{afun} . '_E' x !!$_->{is_extra_dependency}, @new;,
+    my @new_afuns = map $_->{afun} . '_E' x !!$_->{is_extra_dependency}, @new;
 
     print("$this->{afun}\t@old_ids @old_afuns NE @new_ids @new_afuns\t"),
     FPosition() if "@old_ids" ne "@new_ids";
 }
+
+
+
 
 sub esiblings {
     my %esiblings;
