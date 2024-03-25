@@ -1,13 +1,13 @@
 # -*- mode: org -*-
-* errors in eparents [0/6]
-- [ ] Adv_Co + Atr_Co_E annotators/tem/done/ln94200_127.a##63.2
+* errors in eparents [1/6]
+- [X] Adv_Co + Atr_Co_E annotators/tem/done/ln94200_127.a##63.2
 - [ ] ? is_member: annotators/les/done/ln94211_70.a##10.20
 - [ ] not common: annotators/kac/done/ln94209_100.a##15.3
 - [ ] not common: annotators/kac/done/lnd91303_092.a##16.3
 - [ ] should be is_member? annotators/kac/done/pdtsc_003_2.05.a##24.14
 - [ ] What does Coord_E mean? _E should mean "this afun is related to
       a missing node", but it's not the case here.
-      /home/choroba/SVN/pdtc2a/annotators/kac/done/ln95046_050.a##1.1
+      annotators/kac/done/ln95046_050.a##1.1
 
 * A-layer PDT/amw [5/5]
 - [X] Exd na AuxS s tagem NN--1 (substantivum v nominativu) přepsat na Denom 
