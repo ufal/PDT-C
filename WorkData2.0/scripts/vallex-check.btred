@@ -1,0 +1,68 @@
+#!btred -NTe checkvallex()
+# -*- mode: cperl -*-
+
+use warnings;
+use strict;
+
+use XML::LibXML;
+
+if (! exists $ENV{VALLEX}) {
+    die 'Specify VALLEX=/path/to/vallex.xml';
+} elsif (! -e $ENV{VALLEX}) {
+    die "$ENV{VALLEX} not found.";
+}
+my $vallex = 'XML::LibXML'->load_xml(location => $ENV{VALLEX});
+my %FRAME;
+for my $word ($vallex->findnodes('//word[@POS != "Nx"]')) {
+    for my $frame ($word->findnodes('.//frame')) {
+        $FRAME{ $frame->{id} } = $frame;
+    }
+}
+
+sub checkvallex {
+    if (my $vrf = $this->{'val_frame.rf'}) {
+        $vrf =~ s/^v#//;
+        my $frame = $FRAME{$vrf};
+        return unless $frame;  # Nx
+
+        my @children = PML_T::GetEChildren($this);
+        for my $element ($frame->findnodes('frame_elements/element')) {
+            next if '---' eq $element->{functor};  # TODO
+
+            if ('oblig' eq $element->{type}) {
+                my $functor = $element->{functor};
+                unless (grep $_->{functor} eq $functor, @children) {
+                    print "$functor not found for $this->{t_lemma}\t";
+                    FPosition();
+                    next
+                }
+            }
+        }
+        for my $alt ($frame->findnodes('frame_elements/element_alternation')) {
+            my @functors = map $_->getValue,
+                           $alt->findnodes('element/@functor');
+            my %found;
+            @found{ map $_->{functor}, @children } = (1) x @children;
+            my $count = grep $_, @found{@functors};
+            if (0 == $count) {
+                print do {
+                    local $" = '|';
+                    "Alternation @functors not found for $this->{t_lemma}\t"
+                };
+                FPosition();
+            }
+        }
+    }
+}
+
+=head1 NAME
+
+checkvallex
+
+=head1 DESCRIPTION
+
+Verify that each vallex frame is correctly assigned in the data: each
+obligatory element must be present and at least one element alternation
+member, too.
+
+=cut
