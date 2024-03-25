@@ -1,9 +1,22 @@
-#!btred -NTe PML_A_Anot::newch()
+#!btred -NTe PML_A_Anot::pt()
 # -*- mode: cperl -*-
 use warnings;
 use strict;
 
 package PML_A_Anot;
+
+sub pt {
+    return if $this->{is_parenthesis_root};
+
+    my $old = is_parenthetical_top($this) ? 1 : 0;
+    my $new = is_partop($this) ? 1 : 0;
+    if ($old != $new) {
+        print "PT $this->{afun}\t$old $new\t";
+        FPosition();
+    } else {
+        print "ok\n";
+    }
+}
 
 sub newch {
     return if is_aux($this) || is_coap($this);
