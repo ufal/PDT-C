@@ -3591,7 +3591,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>PLMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m-vesm9303-050-p6s5w5">
 <src.rf>manual</src.rf>
@@ -14918,7 +14918,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>PLMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m-vesm9303-050-p19s7w3">
 <src.rf>manual</src.rf>
@@ -16868,7 +16868,7 @@
 </w.rf>
 <form>Každý</form>
 <lemma>každý</lemma>
-<tag>PLMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m-vesm9303-050-p22s1w4">
 <src.rf>manual</src.rf>

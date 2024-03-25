@@ -3733,7 +3733,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>PLMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m-ln95043-112-p6s1w38">
 <src.rf>manual</src.rf>

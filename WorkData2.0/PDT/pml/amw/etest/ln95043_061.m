@@ -860,7 +860,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>PLMS1----1A----</tag>
+<tag>PLMS1----------</tag>
 </m>
 <m id="m-ln95043-061-p4s2w12">
 <src.rf>manual</src.rf>
