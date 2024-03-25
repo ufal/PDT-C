@@ -219,7 +219,7 @@ sub by_functor {
 
 sub order_alternation($alt) {
     local $FUNC_ORDER{MANN} = -1;
-    my @elements = sort by_functor $alt->findnodes('element');
+    my @elements = sort by_functor $alt->getChildrenByTagName('element');
     for my $e (@elements) {
         remove_child_plus_whitespace($e, $alt);
         add_child($alt, $e, 14);
@@ -229,7 +229,7 @@ sub order_alternation($alt) {
 
 sub order_participants($frame) {
     my $frame_elements = ($frame->findnodes('frame_elements'))[0];
-    for my $alt ($frame_elements->findnodes('element_alternation')) {
+    for my $alt ($frame_elements->getChildrenByTagName('element_alternation')) {
         order_alternation($alt);
     }
     my @obligatory = $frame_elements->findnodes(
@@ -286,7 +286,7 @@ sub frame_sort {
 # Returns false if there are no frames.
 sub order_frames($word, $valency_frames) {
     my (@empty, @cphr, @dphr, @rest);
-    for my $frame ($valency_frames->findnodes('frame')) {
+    for my $frame ($valency_frames->getChildrenByTagName('frame')) {
         my $group;
         if (! $frame->hasChildNodes) {
             $group = \@empty;
