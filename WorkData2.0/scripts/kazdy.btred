@@ -1,0 +1,16 @@
+#!btred -NTe kazdy()
+# -*- mode:cperl; encoding: utf-8 -*-
+use warnings;
+use strict;
+use utf8;
+
+sub kazdy {
+    return if $root == $this;
+
+    if ($this->{lemma} eq 'každý'
+        && $this->{tag} =~ /1A/
+    ) {
+        $this->{tag} =~ s/1A/--/;
+        ChangingFile(1);
+    }
+}
