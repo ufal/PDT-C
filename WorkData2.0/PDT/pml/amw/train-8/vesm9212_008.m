@@ -4000,7 +4000,7 @@
 </w.rf>
 <form>každé</form>
 <lemma>každý</lemma>
-<tag>PLFS6----1A----</tag>
+<tag>PLFS6----------</tag>
 </m>
 <m id="m-vesm9212-008-p5s1w14">
 <src.rf>manual</src.rf>

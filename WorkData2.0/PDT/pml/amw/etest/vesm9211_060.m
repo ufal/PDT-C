@@ -10124,7 +10124,7 @@
 </w.rf>
 <form>každému</form>
 <lemma>každý</lemma>
-<tag>PLMS3----1A----</tag>
+<tag>PLMS3----------</tag>
 </m>
 <m id="m-vesm9211-060-p15s1w24">
 <src.rf>manual</src.rf>

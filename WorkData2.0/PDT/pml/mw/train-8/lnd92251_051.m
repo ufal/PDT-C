@@ -159,7 +159,7 @@
 </w.rf>
 <form>každém</form>
 <lemma>každý</lemma>
-<tag>PLIS6----1A----</tag>
+<tag>PLIS6----------</tag>
 </m>
 <m id="m-lnd92251-051-p2s2w3">
 <src.rf>manual</src.rf>
@@ -3407,7 +3407,7 @@
 </w.rf>
 <form>každé</form>
 <lemma>každý</lemma>
-<tag>PLFS6----1A----</tag>
+<tag>PLFS6----------</tag>
 </m>
 <m id="m-lnd92251-051-p4s5w3">
 <src.rf>manual</src.rf>

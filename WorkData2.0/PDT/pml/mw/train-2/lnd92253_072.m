@@ -1913,7 +1913,7 @@
 </w.rf>
 <form>každém</form>
 <lemma>každý</lemma>
-<tag>PLNS6----1A----</tag>
+<tag>PLNS6----------</tag>
 </m>
 <m id="m-lnd92253-072-p8s2w11">
 <src.rf>manual</src.rf>

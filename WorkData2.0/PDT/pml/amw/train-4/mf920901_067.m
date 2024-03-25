@@ -2384,7 +2384,7 @@
 </w.rf>
 <form>každého</form>
 <lemma>každý</lemma>
-<tag>PLIS2----1A----</tag>
+<tag>PLIS2----------</tag>
 </m>
 <m id="m-mf920901-067-p4s3Bw48">
 <src.rf>manual</src.rf>

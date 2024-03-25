@@ -1548,7 +1548,7 @@
 </w.rf>
 <form>každému</form>
 <lemma>každý</lemma>
-<tag>PLMS3----1A----</tag>
+<tag>PLMS3----------</tag>
 </m>
 <m id="m-lnd92252-084-p4s7w13">
 <src.rf>manual</src.rf>

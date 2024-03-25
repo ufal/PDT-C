@@ -2000,7 +2000,7 @@
 </w.rf>
 <form>každým</form>
 <lemma>každý</lemma>
-<tag>PLIS7----1A----</tag>
+<tag>PLIS7----------</tag>
 </m>
 <m id="m-vesm9303-052-p14s1w15">
 <src.rf>manual</src.rf>

@@ -2143,7 +2143,7 @@
 </w.rf>
 <form>každém</form>
 <lemma>každý</lemma>
-<tag>PLIS6----1A----</tag>
+<tag>PLIS6----------</tag>
 </m>
 <m id="m-ln95042-014-p2s11w15">
 <src.rf>manual</src.rf>

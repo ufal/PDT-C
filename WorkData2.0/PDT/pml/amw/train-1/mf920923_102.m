@@ -888,7 +888,7 @@
 </w.rf>
 <form>každého</form>
 <lemma>každý</lemma>
-<tag>PLMS4----1A----</tag>
+<tag>PLMS4----------</tag>
 </m>
 </s>
 <s id="m-mf920923-102-p24s1">
@@ -2045,7 +2045,7 @@
 </w.rf>
 <form>Každá</form>
 <lemma>každý</lemma>
-<tag>PLFS1----1A----</tag>
+<tag>PLFS1----------</tag>
 </m>
 <m id="m-mf920923-102-p57s1w3">
 <src.rf>manual</src.rf>

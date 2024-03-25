@@ -240,7 +240,7 @@
 </w.rf>
 <form>každým</form>
 <lemma>každý</lemma>
-<tag>PLIS7----1A----</tag>
+<tag>PLIS7----------</tag>
 </m>
 <m id="m-cmpr9407-002-p4s1w6">
 <src.rf>manual</src.rf>
@@ -4531,7 +4531,7 @@
 </w.rf>
 <form>každého</form>
 <lemma>každý</lemma>
-<tag>PLIS2----1A----</tag>
+<tag>PLIS2----------</tag>
 </m>
 <m id="m-cmpr9407-002-p13s4w3">
 <src.rf>manual</src.rf>
@@ -9875,7 +9875,7 @@
 </w.rf>
 <form>každé</form>
 <lemma>každý</lemma>
-<tag>PLFS6----1A----</tag>
+<tag>PLFS6----------</tag>
 </m>
 <m id="m-cmpr9407-002-p21s5w11">
 <src.rf>manual</src.rf>

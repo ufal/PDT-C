@@ -6741,7 +6741,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>PLIS1----1A----</tag>
+<tag>PLIS1----------</tag>
 </m>
 <m id="m-ln95040-011-p9s2w9">
 <src.rf>manual</src.rf>
@@ -7361,7 +7361,7 @@
 </w.rf>
 <form>každém</form>
 <lemma>každý</lemma>
-<tag>PLIS6----1A----</tag>
+<tag>PLIS6----------</tag>
 </m>
 <m id="m-ln95040-011-p10s1w17">
 <src.rf>manual</src.rf>

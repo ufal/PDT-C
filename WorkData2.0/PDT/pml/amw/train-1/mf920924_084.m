@@ -402,7 +402,7 @@
 </w.rf>
 <form>každé</form>
 <lemma>každý</lemma>
-<tag>PLFS6----1A----</tag>
+<tag>PLFS6----------</tag>
 </m>
 <m id="m-mf920924-084-p2s1Bw28">
 <src.rf>manual</src.rf>
@@ -2865,7 +2865,7 @@
 </w.rf>
 <form>každé</form>
 <lemma>každý</lemma>
-<tag>PLFS6----1A----</tag>
+<tag>PLFS6----------</tag>
 </m>
 <m id="m-mf920924-084-p2s18Bw8">
 <src.rf>manual</src.rf>
@@ -2955,7 +2955,7 @@
 </w.rf>
 <form>každé</form>
 <lemma>každý</lemma>
-<tag>PLFS6----1A----</tag>
+<tag>PLFS6----------</tag>
 </m>
 <m id="m-mf920924-084-p2s18Bw18">
 <src.rf>manual</src.rf>
@@ -3808,7 +3808,7 @@
 </w.rf>
 <form>každém</form>
 <lemma>každý</lemma>
-<tag>PLIS6----1A----</tag>
+<tag>PLIS6----------</tag>
 </m>
 <m id="m-mf920924-084-p2s25w8">
 <src.rf>manual</src.rf>
@@ -4075,7 +4075,7 @@
 </w.rf>
 <form>každém</form>
 <lemma>každý</lemma>
-<tag>PLIS6----1A----</tag>
+<tag>PLIS6----------</tag>
 </m>
 <m id="m-mf920924-084-p2s28w5">
 <src.rf>manual</src.rf>

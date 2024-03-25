@@ -285,7 +285,7 @@
 </w.rf>
 <form>každého</form>
 <lemma>každý</lemma>
-<tag>PLMS4----1A----</tag>
+<tag>PLMS4----------</tag>
 </m>
 <m id="m-lnd92254-074-p2s2w16">
 <src.rf>manual</src.rf>

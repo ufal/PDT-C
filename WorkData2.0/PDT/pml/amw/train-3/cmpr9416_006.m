@@ -1848,7 +1848,7 @@
 </w.rf>
 <form>každým</form>
 <lemma>každý</lemma>
-<tag>PLMS7----1A----</tag>
+<tag>PLMS7----------</tag>
 </m>
 <m id="m-cmpr9416-006-p7s1w8">
 <src.rf>manual</src.rf>

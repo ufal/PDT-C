@@ -1011,7 +1011,7 @@
 </w.rf>
 <form>každé</form>
 <lemma>každý</lemma>
-<tag>PLFS6----1A----</tag>
+<tag>PLFS6----------</tag>
 </m>
 <m id="m-lnd94101-074-p1s5w25">
 <src.rf>manual</src.rf>

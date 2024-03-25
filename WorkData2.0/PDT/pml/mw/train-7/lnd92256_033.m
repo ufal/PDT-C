@@ -840,7 +840,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>PLIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m-lnd92256-033-p2s5w6">
 <src.rf>manual</src.rf>

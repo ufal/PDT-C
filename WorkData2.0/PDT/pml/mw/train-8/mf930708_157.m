@@ -4909,7 +4909,7 @@
 </w.rf>
 <form>každé</form>
 <lemma>každý</lemma>
-<tag>PLNS4----1A----</tag>
+<tag>PLNS4----------</tag>
 </m>
 <m id="m-mf930708-157-p12s2w29">
 <src.rf>manual</src.rf>

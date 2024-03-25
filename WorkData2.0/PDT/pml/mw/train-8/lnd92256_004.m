@@ -4636,7 +4636,7 @@
 </w.rf>
 <form>každé</form>
 <lemma>každý</lemma>
-<tag>PLFS6----1A----</tag>
+<tag>PLFS6----------</tag>
 </m>
 <m id="m-lnd92256-004-p12s1w4">
 <src.rf>manual</src.rf>
@@ -7588,7 +7588,7 @@
 </w.rf>
 <form>každých</form>
 <lemma>každý</lemma>
-<tag>PLFP2----1A----</tag>
+<tag>PLFP2----------</tag>
 </m>
 <m id="m-lnd92256-004-p19s4w6">
 <src.rf>manual</src.rf>

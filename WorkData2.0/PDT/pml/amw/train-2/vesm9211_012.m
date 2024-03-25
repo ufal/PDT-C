@@ -1612,7 +1612,7 @@
 </w.rf>
 <form>každá</form>
 <lemma>každý</lemma>
-<tag>PLFS1----1A----</tag>
+<tag>PLFS1----------</tag>
 </m>
 <m id="m-vesm9211-012-p8s4w11">
 <src.rf>manual</src.rf>
@@ -7460,7 +7460,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>PLIS1----1A----</tag>
+<tag>PLIS1----------</tag>
 </m>
 <m id="m-vesm9211-012-p15s1w12">
 <src.rf>manual</src.rf>
@@ -7766,7 +7766,7 @@
 </w.rf>
 <form>každé</form>
 <lemma>každý</lemma>
-<tag>PLFS6----1A----</tag>
+<tag>PLFS6----------</tag>
 </m>
 <m id="m-vesm9211-012-p15s1w46">
 <src.rf>manual</src.rf>
@@ -7849,7 +7849,7 @@
 </w.rf>
 <form>každého</form>
 <lemma>každý</lemma>
-<tag>PLIS2----1A----</tag>
+<tag>PLIS2----------</tag>
 </m>
 <m id="m-vesm9211-012-p15s2Aw8">
 <src.rf>manual</src.rf>
@@ -8692,7 +8692,7 @@
 </w.rf>
 <form>každá</form>
 <lemma>každý</lemma>
-<tag>PLFS1----1A----</tag>
+<tag>PLFS1----------</tag>
 </m>
 <m id="m-vesm9211-012-p15s4w23">
 <src.rf>manual</src.rf>
@@ -9929,7 +9929,7 @@
 </w.rf>
 <form>každého</form>
 <lemma>každý</lemma>
-<tag>PLMS2----1A----</tag>
+<tag>PLMS2----------</tag>
 </m>
 <m id="m-vesm9211-012-p16s2w8">
 <src.rf>manual</src.rf>
@@ -10282,7 +10282,7 @@
 </w.rf>
 <form>každé</form>
 <lemma>každý</lemma>
-<tag>PLFS6----1A----</tag>
+<tag>PLFS6----------</tag>
 </m>
 <m id="m-vesm9211-012-p17s1w22">
 <src.rf>manual</src.rf>

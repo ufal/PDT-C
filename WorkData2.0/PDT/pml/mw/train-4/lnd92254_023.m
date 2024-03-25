@@ -1853,7 +1853,7 @@
 </w.rf>
 <form>každému</form>
 <lemma>každý</lemma>
-<tag>PLIS3----1A----</tag>
+<tag>PLIS3----------</tag>
 </m>
 <m id="m-lnd92254-023-p4s5w11">
 <src.rf>manual</src.rf>

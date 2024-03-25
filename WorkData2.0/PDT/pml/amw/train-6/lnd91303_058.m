@@ -1288,7 +1288,7 @@
 </w.rf>
 <form>každých</form>
 <lemma>každý</lemma>
-<tag>PLFP2----1A----</tag>
+<tag>PLFP2----------</tag>
 </m>
 <m id="m-lnd91303-058-p5s1w35">
 <src.rf>manual</src.rf>

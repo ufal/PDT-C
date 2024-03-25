@@ -1459,7 +1459,7 @@
 </w.rf>
 <form>každém</form>
 <lemma>každý</lemma>
-<tag>PLNS6----1A----</tag>
+<tag>PLNS6----------</tag>
 </m>
 <m id="m-cmpr9406-024-p8s14w5">
 <src.rf>manual</src.rf>

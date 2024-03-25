@@ -1268,7 +1268,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>PLIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m-mf930701-054-p2s12w8">
 <src.rf>manual</src.rf>

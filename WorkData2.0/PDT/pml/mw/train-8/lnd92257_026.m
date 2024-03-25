@@ -1334,7 +1334,7 @@
 </w.rf>
 <form>každé</form>
 <lemma>každý</lemma>
-<tag>PLNS4----1A----</tag>
+<tag>PLNS4----------</tag>
 </m>
 <m id="m-lnd92257-026-p4s5w11">
 <src.rf>manual</src.rf>

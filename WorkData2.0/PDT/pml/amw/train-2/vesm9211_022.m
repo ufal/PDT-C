@@ -686,7 +686,7 @@
 </w.rf>
 <form>každému</form>
 <lemma>každý</lemma>
-<tag>PLNS3----1A----</tag>
+<tag>PLNS3----------</tag>
 </m>
 <m id="m-vesm9211-022-p7s4w4">
 <src.rf>manual</src.rf>

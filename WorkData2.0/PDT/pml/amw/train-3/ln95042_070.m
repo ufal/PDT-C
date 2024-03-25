@@ -716,7 +716,7 @@
 </w.rf>
 <form>každé</form>
 <lemma>každý</lemma>
-<tag>PLNS4----1A----</tag>
+<tag>PLNS4----------</tag>
 </m>
 <m id="m-ln95042-070-p3s1w17">
 <src.rf>manual</src.rf>

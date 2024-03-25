@@ -2963,7 +2963,7 @@
 </w.rf>
 <form>každá</form>
 <lemma>každý</lemma>
-<tag>PLFS1----1A----</tag>
+<tag>PLFS1----------</tag>
 </m>
 <m id="m-vesm9211-005-p4s1w8">
 <src.rf>manual</src.rf>

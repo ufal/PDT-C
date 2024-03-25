@@ -56,7 +56,7 @@
 </w.rf>
 <form>KAŽDÝM</form>
 <lemma>každý</lemma>
-<tag>PLIS7----1A----</tag>
+<tag>PLIS7----------</tag>
 </m>
 <m id="m-lnd92251-110-p1s1w6">
 <src.rf>manual</src.rf>

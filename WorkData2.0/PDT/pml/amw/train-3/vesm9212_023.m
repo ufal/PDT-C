@@ -593,7 +593,7 @@
 </w.rf>
 <form>každou</form>
 <lemma>každý</lemma>
-<tag>PLFS4----1A----</tag>
+<tag>PLFS4----------</tag>
 </m>
 <m id="m-vesm9212-023-p1s4w21">
 <src.rf>manual</src.rf>

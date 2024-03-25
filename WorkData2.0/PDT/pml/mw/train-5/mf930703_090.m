@@ -3448,7 +3448,7 @@
 </w.rf>
 <form>každej</form>
 <lemma>každý</lemma>
-<tag>PLIS4----1A---6</tag>
+<tag>PLIS4---------6</tag>
 </m>
 <m id="m-mf930703-090-p13s2w23">
 <src.rf>manual</src.rf>
@@ -3502,7 +3502,7 @@
 </w.rf>
 <form>každej</form>
 <lemma>každý</lemma>
-<tag>PLIS4----1A---6</tag>
+<tag>PLIS4---------6</tag>
 </m>
 <m id="m-mf930703-090-p13s2w29">
 <src.rf>manual</src.rf>
@@ -6131,7 +6131,7 @@
 </w.rf>
 <form>každej</form>
 <lemma>každý</lemma>
-<tag>PLIS4----1A---6</tag>
+<tag>PLIS4---------6</tag>
 </m>
 <m id="m-mf930703-090-p23s5w8">
 <src.rf>manual</src.rf>

@@ -568,7 +568,7 @@
 </w.rf>
 <form>každá</form>
 <lemma>každý</lemma>
-<tag>PLFS1----1A----</tag>
+<tag>PLFS1----------</tag>
 </m>
 <m id="m-lnd92258-080-p3s3w22">
 <src.rf>manual</src.rf>
@@ -2699,7 +2699,7 @@
 </w.rf>
 <form>každých</form>
 <lemma>každý</lemma>
-<tag>PLIP2----1A----</tag>
+<tag>PLIP2----------</tag>
 </m>
 <m id="m-lnd92258-080-p7s2w19">
 <src.rf>manual</src.rf>

@@ -2769,7 +2769,7 @@
 </w.rf>
 <form>každých</form>
 <lemma>každý</lemma>
-<tag>PLIP2----1A----</tag>
+<tag>PLIP2----------</tag>
 </m>
 <m id="m-vesm9211-031-p8s3w12">
 <src.rf>manual</src.rf>

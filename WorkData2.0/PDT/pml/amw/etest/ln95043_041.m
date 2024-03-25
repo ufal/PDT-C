@@ -2322,7 +2322,7 @@
 </w.rf>
 <form>každého</form>
 <lemma>každý</lemma>
-<tag>PLMS2----1A----</tag>
+<tag>PLMS2----------</tag>
 </m>
 <m id="m-ln95043-041-p5s2w10">
 <src.rf>manual</src.rf>

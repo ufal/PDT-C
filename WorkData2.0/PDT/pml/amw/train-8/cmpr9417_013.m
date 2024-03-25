@@ -3263,7 +3263,7 @@
 </w.rf>
 <form>každé</form>
 <lemma>každý</lemma>
-<tag>PLFS6----1A----</tag>
+<tag>PLFS6----------</tag>
 </m>
 <m id="m-cmpr9417-013-p12s2w4">
 <src.rf>manual</src.rf>

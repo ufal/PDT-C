@@ -447,7 +447,7 @@
 </w.rf>
 <form>každé</form>
 <lemma>každý</lemma>
-<tag>PLFS2----1A----</tag>
+<tag>PLFS2----------</tag>
 </m>
 <m id="m-mf930708-013-p2s2w12">
 <src.rf>manual</src.rf>

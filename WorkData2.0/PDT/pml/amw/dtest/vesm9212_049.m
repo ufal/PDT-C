@@ -16570,7 +16570,7 @@
 </w.rf>
 <form>každých</form>
 <lemma>každý</lemma>
-<tag>PLNP2----1A----</tag>
+<tag>PLNP2----------</tag>
 </m>
 <m id="m-vesm9212-049-p19s2w16">
 <src.rf>manual</src.rf>

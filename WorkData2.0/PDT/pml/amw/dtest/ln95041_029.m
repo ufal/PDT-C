@@ -3713,7 +3713,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>PLIS1----1A----</tag>
+<tag>PLIS1----------</tag>
 </m>
 <m id="m-ln95041-029-p2s16w6">
 <src.rf>manual</src.rf>

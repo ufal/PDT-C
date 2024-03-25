@@ -285,7 +285,7 @@
 </w.rf>
 <form>každé</form>
 <lemma>každý</lemma>
-<tag>PLFS2----1A----</tag>
+<tag>PLFS2----------</tag>
 </m>
 <m id="m-vesm9212-003-p2s2w14">
 <src.rf>manual</src.rf>

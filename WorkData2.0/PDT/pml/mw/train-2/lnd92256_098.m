@@ -1633,7 +1633,7 @@
 </w.rf>
 <form>každou</form>
 <lemma>každý</lemma>
-<tag>PLFS4----1A----</tag>
+<tag>PLFS4----------</tag>
 </m>
 <m id="m-lnd92256-098-p5s3w9">
 <src.rf>manual</src.rf>

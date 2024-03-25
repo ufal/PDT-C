@@ -1300,7 +1300,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>PLIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m-mf920924-107-p7s1w4">
 <src.rf>manual</src.rf>

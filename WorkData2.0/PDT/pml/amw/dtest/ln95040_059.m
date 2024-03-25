@@ -9485,7 +9485,7 @@
 </w.rf>
 <form>každým</form>
 <lemma>každý</lemma>
-<tag>PLNS7----1A----</tag>
+<tag>PLNS7----------</tag>
 </m>
 <m id="m-ln95040-059-p4s21w13">
 <src.rf>manual</src.rf>

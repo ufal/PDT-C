@@ -1915,7 +1915,7 @@
 </w.rf>
 <form>každou</form>
 <lemma>každý</lemma>
-<tag>PLFS4----1A----</tag>
+<tag>PLFS4----------</tag>
 </m>
 <m id="m-cmpr9407-024-p9s2w8">
 <src.rf>manual</src.rf>
@@ -4656,7 +4656,7 @@
 </w.rf>
 <form>každých</form>
 <lemma>každý</lemma>
-<tag>PLFP6----1A----</tag>
+<tag>PLFP6----------</tag>
 </m>
 <m id="m-cmpr9407-024-p16s1w3">
 <src.rf>manual</src.rf>
@@ -5736,7 +5736,7 @@
 </w.rf>
 <form>každou</form>
 <lemma>každý</lemma>
-<tag>PLFS4----1A----</tag>
+<tag>PLFS4----------</tag>
 </m>
 <m id="m-cmpr9407-024-p17s6w3">
 <src.rf>manual</src.rf>

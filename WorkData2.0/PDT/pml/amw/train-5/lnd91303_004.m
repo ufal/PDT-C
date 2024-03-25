@@ -635,7 +635,7 @@
 </w.rf>
 <form>Každá</form>
 <lemma>každý</lemma>
-<tag>PLFS1----1A----</tag>
+<tag>PLFS1----------</tag>
 </m>
 <m id="m-lnd91303-004-p4s3w3">
 <src.rf>manual</src.rf>

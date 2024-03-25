@@ -3933,7 +3933,7 @@
 </w.rf>
 <form>každé</form>
 <lemma>každý</lemma>
-<tag>PLFS6----1A----</tag>
+<tag>PLFS6----------</tag>
 </m>
 <m id="m-ln94201-58-p7s1w17">
 <src.rf>manual</src.rf>

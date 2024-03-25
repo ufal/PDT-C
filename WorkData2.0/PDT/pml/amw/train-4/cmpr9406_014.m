@@ -2259,7 +2259,7 @@
 </w.rf>
 <form>každé</form>
 <lemma>každý</lemma>
-<tag>PLNS1----1A----</tag>
+<tag>PLNS1----------</tag>
 </m>
 <m id="m-cmpr9406-014-p8s1w7">
 <src.rf>manual</src.rf>

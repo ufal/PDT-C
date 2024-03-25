@@ -3150,7 +3150,7 @@
 </w.rf>
 <form>každé</form>
 <lemma>každý</lemma>
-<tag>PLNS1----1A----</tag>
+<tag>PLNS1----------</tag>
 </m>
 <m id="m-cmpr9417-016-p13s1w6">
 <src.rf>manual</src.rf>

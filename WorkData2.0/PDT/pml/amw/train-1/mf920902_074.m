@@ -1474,7 +1474,7 @@
 </w.rf>
 <form>každého</form>
 <lemma>každý</lemma>
-<tag>PLMS4----1A----</tag>
+<tag>PLMS4----------</tag>
 </m>
 <m id="m-mf920902-074-p3s3w16">
 <src.rf>manual</src.rf>
@@ -1663,7 +1663,7 @@
 </w.rf>
 <form>každém</form>
 <lemma>každý</lemma>
-<tag>PLNS6----1A----</tag>
+<tag>PLNS6----------</tag>
 </m>
 <m id="m-mf920902-074-p3s3w38">
 <src.rf>manual</src.rf>

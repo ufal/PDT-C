@@ -4423,7 +4423,7 @@
 </w.rf>
 <form>každého</form>
 <lemma>každý</lemma>
-<tag>PLMS2----1A----</tag>
+<tag>PLMS2----------</tag>
 </m>
 <m id="m-vesm9212-010-p6s2w16">
 <src.rf>manual</src.rf>
@@ -4679,7 +4679,7 @@
 </w.rf>
 <form>každého</form>
 <lemma>každý</lemma>
-<tag>PLMS2----1A----</tag>
+<tag>PLMS2----------</tag>
 </m>
 <m id="m-vesm9212-010-p6s4w17">
 <src.rf>manual</src.rf>

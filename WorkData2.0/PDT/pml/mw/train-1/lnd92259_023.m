@@ -20,7 +20,7 @@
 </w.rf>
 <form>Každému</form>
 <lemma>každý</lemma>
-<tag>PLMS3----1A----</tag>
+<tag>PLMS3----------</tag>
 </m>
 <m id="m-lnd92259-023-p1s1w2">
 <src.rf>manual</src.rf>

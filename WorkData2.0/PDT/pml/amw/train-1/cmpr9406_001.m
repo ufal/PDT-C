@@ -7020,7 +7020,7 @@
 </w.rf>
 <form>každého</form>
 <lemma>každý</lemma>
-<tag>PLIS2----1A----</tag>
+<tag>PLIS2----------</tag>
 </m>
 <m id="m-cmpr9406-001-p10s5w4">
 <src.rf>manual</src.rf>

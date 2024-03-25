@@ -1977,7 +1977,7 @@
 </w.rf>
 <form>Každý</form>
 <lemma>každý</lemma>
-<tag>PLIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m-lnd91303-027-p4s1w2">
 <src.rf>manual</src.rf>

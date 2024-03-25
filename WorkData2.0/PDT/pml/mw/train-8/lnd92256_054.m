@@ -1289,7 +1289,7 @@
 </w.rf>
 <form>každé</form>
 <lemma>každý</lemma>
-<tag>PLIP4----1A----</tag>
+<tag>PLIP4----------</tag>
 </m>
 <m id="m-lnd92256-054-p5s2w11">
 <src.rf>manual</src.rf>

@@ -29,7 +29,7 @@
 </w.rf>
 <form>každým</form>
 <lemma>každý</lemma>
-<tag>PLFP3----1A----</tag>
+<tag>PLFP3----------</tag>
 </m>
 <m id="m-lnd94104-081-p1s1Aw3">
 <src.rf>manual</src.rf>

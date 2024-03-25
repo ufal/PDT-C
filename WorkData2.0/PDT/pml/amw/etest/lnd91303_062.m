@@ -2574,7 +2574,7 @@
 </w.rf>
 <form>každé</form>
 <lemma>každý</lemma>
-<tag>PLNS4----1A----</tag>
+<tag>PLNS4----------</tag>
 </m>
 <m id="m-lnd91303-062-p4s9w20">
 <src.rf>manual</src.rf>
@@ -3821,7 +3821,7 @@
 </w.rf>
 <form>každá</form>
 <lemma>každý</lemma>
-<tag>PLFS1----1A----</tag>
+<tag>PLFS1----------</tag>
 </m>
 <m id="m-lnd91303-062-p5s7w33">
 <src.rf>manual</src.rf>
@@ -6282,7 +6282,7 @@
 </w.rf>
 <form>každého</form>
 <lemma>každý</lemma>
-<tag>PLMS2----1A----</tag>
+<tag>PLMS2----------</tag>
 </m>
 <m id="m-lnd91303-062-p6s7w6">
 <src.rf>manual</src.rf>

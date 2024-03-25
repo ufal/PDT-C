@@ -830,7 +830,7 @@
 </w.rf>
 <form>každé</form>
 <lemma>každý</lemma>
-<tag>PLNS1----1A----</tag>
+<tag>PLNS1----------</tag>
 </m>
 <m id="m-vesm9211-052-p3s3w7">
 <src.rf>manual</src.rf>

@@ -2003,7 +2003,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>PLIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m-mf920901-006-p3s9w12">
 <src.rf>manual</src.rf>

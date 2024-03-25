@@ -2736,7 +2736,7 @@
 </w.rf>
 <form>Každé</form>
 <lemma>každý</lemma>
-<tag>PLNS1----1A----</tag>
+<tag>PLNS1----------</tag>
 </m>
 <m id="m-lnd92258-047-p5s5w2">
 <src.rf>manual</src.rf>

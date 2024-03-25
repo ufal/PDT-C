@@ -512,7 +512,7 @@
 </w.rf>
 <form>každého</form>
 <lemma>každý</lemma>
-<tag>PLMS2----1A----</tag>
+<tag>PLMS2----------</tag>
 </m>
 <m id="m-mf920901-066-p3s2w25">
 <src.rf>manual</src.rf>

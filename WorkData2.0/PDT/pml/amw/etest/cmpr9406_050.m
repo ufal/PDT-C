@@ -1022,7 +1022,7 @@
 </w.rf>
 <form>Každému</form>
 <lemma>každý</lemma>
-<tag>PLNS3----1A----</tag>
+<tag>PLNS3----------</tag>
 </m>
 <m id="m-cmpr9406-050-p5s1w2">
 <src.rf>manual</src.rf>

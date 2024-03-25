@@ -121,7 +121,7 @@
 </w.rf>
 <form>každým</form>
 <lemma>každý</lemma>
-<tag>PLIS7----1A----</tag>
+<tag>PLIS7----------</tag>
 </m>
 <m id="m-lnd92257-009-p2s1w12">
 <src.rf>manual</src.rf>

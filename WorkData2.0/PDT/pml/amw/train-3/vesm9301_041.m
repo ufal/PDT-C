@@ -7130,7 +7130,7 @@
 </w.rf>
 <form>každého</form>
 <lemma>každý</lemma>
-<tag>PLMS2----1A----</tag>
+<tag>PLMS2----------</tag>
 </m>
 <m id="m-vesm9301-041-p20s1w7">
 <src.rf>manual</src.rf>

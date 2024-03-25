@@ -1956,7 +1956,7 @@
 </w.rf>
 <form>každém</form>
 <lemma>každý</lemma>
-<tag>PLIS6----1A----</tag>
+<tag>PLIS6----------</tag>
 </m>
 <m id="m-cmpr9407-005-p9s2w3">
 <src.rf>manual</src.rf>

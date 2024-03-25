@@ -5586,7 +5586,7 @@
 </w.rf>
 <form>Každá</form>
 <lemma>každý</lemma>
-<tag>PLFS1----1A----</tag>
+<tag>PLFS1----------</tag>
 </m>
 <m id="m-vesm9301-042-p27s10w2">
 <src.rf>manual</src.rf>

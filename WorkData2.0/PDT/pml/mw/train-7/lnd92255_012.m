@@ -642,7 +642,7 @@
 </w.rf>
 <form>každého</form>
 <lemma>každý</lemma>
-<tag>PLNS2----1A----</tag>
+<tag>PLNS2----------</tag>
 </m>
 <m id="m-lnd92255-012-p3s4w15">
 <src.rf>manual</src.rf>

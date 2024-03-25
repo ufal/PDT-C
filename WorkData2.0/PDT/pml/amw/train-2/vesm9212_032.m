@@ -8495,7 +8495,7 @@
 </w.rf>
 <form>každé</form>
 <lemma>každý</lemma>
-<tag>PLNS4----1A----</tag>
+<tag>PLNS4----------</tag>
 </m>
 <m id="m-vesm9212-032-p8s2w19">
 <src.rf>manual</src.rf>

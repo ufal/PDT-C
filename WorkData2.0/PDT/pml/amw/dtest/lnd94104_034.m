@@ -2013,7 +2013,7 @@
 </w.rf>
 <form>každém</form>
 <lemma>každý</lemma>
-<tag>PLIS6----1A----</tag>
+<tag>PLIS6----------</tag>
 </m>
 <m id="m-lnd94104-034-p1s11w3">
 <src.rf>manual</src.rf>

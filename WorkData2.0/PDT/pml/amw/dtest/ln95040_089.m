@@ -4080,7 +4080,7 @@
 </w.rf>
 <form>Každou</form>
 <lemma>každý</lemma>
-<tag>PLFS4----1A----</tag>
+<tag>PLFS4----------</tag>
 </m>
 <m id="m-ln95040-089-p10s5w2">
 <src.rf>manual</src.rf>

@@ -3010,7 +3010,7 @@
 </w.rf>
 <form>každém</form>
 <lemma>každý</lemma>
-<tag>PLIS6----1A----</tag>
+<tag>PLIS6----------</tag>
 </m>
 <m id="m-ln95042-095-p7s1w3">
 <src.rf>manual</src.rf>

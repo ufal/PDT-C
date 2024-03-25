@@ -197,7 +197,7 @@
 </w.rf>
 <form>Každým</form>
 <lemma>každý</lemma>
-<tag>PLIS7----1A----</tag>
+<tag>PLIS7----------</tag>
 </m>
 <m id="m-vesm9211-028-p4s1w2">
 <src.rf>manual</src.rf>
@@ -3148,7 +3148,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>PLIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m-vesm9211-028-p8s8w6">
 <src.rf>manual</src.rf>
@@ -3420,7 +3420,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>PLIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m-vesm9211-028-p8s9w20">
 <src.rf>manual</src.rf>
@@ -3743,7 +3743,7 @@
 </w.rf>
 <form>každé</form>
 <lemma>každý</lemma>
-<tag>PLFS2----1A----</tag>
+<tag>PLFS2----------</tag>
 </m>
 <m id="m-vesm9211-028-p10s1w3">
 <src.rf>manual</src.rf>
@@ -4769,7 +4769,7 @@
 </w.rf>
 <form>každé</form>
 <lemma>každý</lemma>
-<tag>PLFS2----1A----</tag>
+<tag>PLFS2----------</tag>
 </m>
 <m id="m-vesm9211-028-p10s5w4">
 <src.rf>manual</src.rf>
@@ -5450,7 +5450,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>PLIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m-vesm9211-028-p11s2w9">
 <src.rf>manual</src.rf>
@@ -8284,7 +8284,7 @@
 </w.rf>
 <form>každé</form>
 <lemma>každý</lemma>
-<tag>PLFS2----1A----</tag>
+<tag>PLFS2----------</tag>
 </m>
 <m id="m-vesm9211-028-p14s6w4">
 <src.rf>manual</src.rf>
@@ -9499,7 +9499,7 @@
 </w.rf>
 <form>každého</form>
 <lemma>každý</lemma>
-<tag>PLNS2----1A----</tag>
+<tag>PLNS2----------</tag>
 </m>
 <m id="m-vesm9211-028-p15s1w25">
 <src.rf>manual</src.rf>
@@ -11066,7 +11066,7 @@
 </w.rf>
 <form>každá</form>
 <lemma>každý</lemma>
-<tag>PLFS1----1A----</tag>
+<tag>PLFS1----------</tag>
 </m>
 <m id="m-vesm9211-028-p16s3w61">
 <src.rf>manual</src.rf>

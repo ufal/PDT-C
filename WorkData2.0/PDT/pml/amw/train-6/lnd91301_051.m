@@ -1049,7 +1049,7 @@
 </w.rf>
 <form>každém</form>
 <lemma>každý</lemma>
-<tag>PLIS6----1A----</tag>
+<tag>PLIS6----------</tag>
 </m>
 <m id="m-lnd91301-051-p3s3w8">
 <src.rf>manual</src.rf>

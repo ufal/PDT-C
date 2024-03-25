@@ -6035,7 +6035,7 @@
 </w.rf>
 <form>Každé</form>
 <lemma>každý</lemma>
-<tag>PLNS4----1A----</tag>
+<tag>PLNS4----------</tag>
 </m>
 <m id="m-ln95042-011-p6s8Bw2">
 <src.rf>manual</src.rf>

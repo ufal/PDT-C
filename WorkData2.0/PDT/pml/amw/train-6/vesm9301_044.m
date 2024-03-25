@@ -10380,7 +10380,7 @@
 </w.rf>
 <form>každém</form>
 <lemma>každý</lemma>
-<tag>PLIS6----1A----</tag>
+<tag>PLIS6----------</tag>
 </m>
 <m id="m-vesm9301-044-p12s6w12">
 <src.rf>manual</src.rf>

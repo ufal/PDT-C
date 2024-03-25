@@ -11011,7 +11011,7 @@
 </w.rf>
 <form>každý</form>
 <lemma>každý</lemma>
-<tag>PLIS4----1A----</tag>
+<tag>PLIS4----------</tag>
 </m>
 <m id="m-vesm9301-004-p17s5w5">
 <src.rf>manual</src.rf>

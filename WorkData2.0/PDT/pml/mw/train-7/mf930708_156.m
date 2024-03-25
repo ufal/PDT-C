@@ -1099,7 +1099,7 @@
 </w.rf>
 <form>každé</form>
 <lemma>každý</lemma>
-<tag>PLFS2----1A----</tag>
+<tag>PLFS2----------</tag>
 </m>
 <m id="m-mf930708-156-p3s2w30">
 <src.rf>manual</src.rf>

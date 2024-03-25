@@ -1507,7 +1507,7 @@
 </w.rf>
 <form>Každý</form>
 <lemma>každý</lemma>
-<tag>PLIS1----1A----</tag>
+<tag>PLIS1----------</tag>
 </m>
 <m id="m-lnd94104-064-p1s7w2">
 <src.rf>manual</src.rf>
@@ -4098,7 +4098,7 @@
 </w.rf>
 <form>každou</form>
 <lemma>každý</lemma>
-<tag>PLFS4----1A----</tag>
+<tag>PLFS4----------</tag>
 </m>
 <m id="m-lnd94104-064-p1s20Aw26">
 <src.rf>manual</src.rf>

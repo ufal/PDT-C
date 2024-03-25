@@ -3821,7 +3821,7 @@
 </w.rf>
 <form>každém</form>
 <lemma>každý</lemma>
-<tag>PLIS6----1A----</tag>
+<tag>PLIS6----------</tag>
 </m>
 <m id="m-vesm9211-053-p4s10w12">
 <src.rf>manual</src.rf>
