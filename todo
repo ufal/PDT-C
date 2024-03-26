@@ -1,5 +1,5 @@
 # -*- mode: org -*-
-* errors in eparents [1/6]
+* errors in eparents [1/7]
 - [X] Adv_Co + Atr_Co_E annotators/tem/done/ln94200_127.a##63.2
 - [ ] ? is_member: annotators/les/done/ln94211_70.a##10.20
 - [ ] not common: annotators/kac/done/ln94209_100.a##15.3
@@ -8,6 +8,8 @@
 - [ ] What does Coord_E mean? _E should mean "this afun is related to
       a missing node", but it's not the case here.
       annotators/kac/done/ln95046_050.a##1.1
+
+- [ ] annotators/kac/done/mf930713_002.a #23 versus #85
 
 * A-layer PDT/amw [5/5]
 - [X] Exd na AuxS s tagem NN--1 (substantivum v nominativu) přepsat na Denom 
