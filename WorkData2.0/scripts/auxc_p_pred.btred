@@ -1,0 +1,37 @@
+#!btred -NTe auxcp_p_pred()
+# -*- mode: cperl -*-
+use warnings;
+use strict;
+
+'PML_A_Anot'->import;
+
+sub auxcp_p_pred {
+    return if $this->{afun} ne 'Pred';
+
+    my $rep = climb_through_auxcp($this);
+    if ($rep && $rep != $this) {
+        if ('AuxC' eq $rep->{afun} && $rep->{is_parenthesis_root}) {
+            print "direct ", $this->attr('m/lemma'), "\t";
+            FPosition();
+            return
+        }
+    }
+    $rep //= $this;
+    if ($rep->{is_member}) {
+        my $top = top_coap($rep);
+        if (! $top) {
+            print "No top\t";
+            FPosition();
+            return
+        }
+        my $toprep = climb_through_auxcp($top);
+        if ($toprep && $toprep != $top && 'AuxC' eq $toprep->{afun}) {
+            print "AuxC", $toprep->{is_parenthesis_root} ? '_P' : "", "\t";
+            FPosition();
+        } elsif ('AuxS' ne $toprep->parent->{afun}) {
+            print $toprep->{afun}, $toprep->{is_parenthesis_root} ? '_P' : "";
+            print ' ', $toprep->parent->{afun}, "\t";
+            FPosition();
+        }
+    }
+}
