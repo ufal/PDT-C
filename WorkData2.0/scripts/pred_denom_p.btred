@@ -1,0 +1,30 @@
+#!btred -NTe pred_denom_p()
+# -*- mode: cperl -*-
+use warnings;
+use strict;
+
+'PML_A_Anot'->import;
+
+sub pred_denom_p {
+    if ($this->{afun} =~ /^(?:Pred|Denom)$/) {
+        my @ep = eparents($this);
+        return if 1 == @ep && 'AuxS' eq $ep[0]->{afun}
+               || $this->{is_parenthesis_root}
+                   && ! $this->{is_extra_dependency};
+
+        my $rep = climb_through_auxcp($this);
+        return if $rep
+               && $rep != $this
+               && $rep->{is_parenthesis_root}
+               && ! $rep->{is_extra_dependency};
+
+        if ($rep && $rep->{is_member}) {
+            my $top = top_coap($rep);
+            return if $top
+                   && $top->{is_parenthesis_root}
+                   && ! $top->{is_extra_dependency};
+        }
+
+        FPosition();
+    }
+}
