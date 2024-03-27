@@ -13,9 +13,11 @@ if (! exists $ENV{VALLEX}) {
 }
 my $vallex = 'XML::LibXML'->load_xml(location => $ENV{VALLEX});
 my %FRAME;
-for my $word ($vallex->findnodes('//word[@POS != "Nx"]')) {
+my %POS;
+for my $word ($vallex->findnodes('//word')) {
     for my $frame ($word->findnodes('.//frame')) {
         $FRAME{ $frame->{id} } = $frame;
+        $POS{ $frame->{id} } = $word->{POS};
     }
 }
 
@@ -32,7 +34,8 @@ sub checkvallex {
             if ('oblig' eq $element->{type}) {
                 my $functor = $element->{functor};
                 unless (grep $_->{functor} eq $functor, @children) {
-                    print "$functor not found for $this->{t_lemma}\t";
+                    printf "%s not found for %s.%s\t",
+                        $functor, $this->{t_lemma}, $POS{$vrf};
                     FPosition();
                     next
                 }
@@ -45,10 +48,9 @@ sub checkvallex {
             @found{ map $_->{functor}, @children } = (1) x @children;
             my $count = grep $_, @found{@functors};
             if (0 == $count) {
-                print do {
-                    local $" = '|';
-                    "Alternation @functors not found for $this->{t_lemma}\t"
-                };
+                printf "Alternation %s not found for %s.%s\t",
+                    do { local $" = '|'; "@functors" },
+                    $this->{t_lemma}, $POS{$vrf};
                 FPosition();
             }
         }
