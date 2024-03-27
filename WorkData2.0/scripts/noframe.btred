@@ -1,0 +1,21 @@
+#!btred -NTe noframe()
+# -*- mode: cperl -*-
+use warnings;
+use strict;
+
+my $vallex_file = $ENV{VALLEX};
+die "Set env VALLEX=/path/to/vallex" unless $vallex_file && -e $vallex_file;
+my $vallex = 'XML::LibXML'->load_xml(location => $vallex_file);
+
+sub noframe {
+    return if $root == $this;
+
+    my $sempos = $this->attr('gram/sempos') // "";
+    if ('v' eq $sempos) {
+        print($this->{t_lemma}, ' ',
+              $sempos, ' ',
+              $this->{functor},
+              "\t"), FPosition()
+            unless $this->{'val_frame.rf'};
+    }
+}
