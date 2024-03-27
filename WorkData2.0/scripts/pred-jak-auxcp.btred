@@ -1,0 +1,25 @@
+#!btred -NTe pred_jak_auxcp()
+# -*- mode: cperl -*-
+
+# Fix Pred->Adv under jak.AuxC_P. Report all other conjunctions.
+
+use warnings;
+use strict;
+
+sub pred_jak_auxcp {
+    ChangingFile(0);
+    if ('Pred' eq $this->{afun}
+        && 'AuxC' eq $this->parent->{afun}
+        && $this->parent->{is_parenthesis_root}
+    ) {
+        if ($this->parent->attr('m/form') =~ /^jak$/i) {
+            ChangingFile(1);
+            $this->{afun} = 'Adv';
+            print "Changed\t";
+
+        } else {
+            print $this->parent->attr('m/form'), "\t";
+        }
+        FPosition();
+    }
+}

@@ -1,0 +1,25 @@
+#!btred -NTe auxcp_jak()
+# -*- mode: cperl -*-
+use warnings;
+use strict;
+
+# --knit ALL
+$main::reffiles_to_save = 'ALL';
+
+sub auxcp_jak {
+    return unless 'AuxC' eq $this->{afun}
+               && $this->attr('m/form') =~ /^jak$/i
+               && ('jak-2' ne $this->attr('m/lemma')
+                   || 'J,-------------' ne $this->attr('m/tag'));
+
+    ChangingFile(1);
+    $this->{m}{lemma} = 'jak-2';
+    $this->{m}{tag} = 'J,-------------';
+    my @old_comment = ListV($this->{comments});
+    my @new_comment = grep 'M-layer' ne $_->{type}, @old_comment;
+    if (@old_comment != @new_comment) {
+        delete $this->{comments};
+        $this->{comments} = List(@new_comment) if @new_comment;
+    }
+    FPosition();
+}

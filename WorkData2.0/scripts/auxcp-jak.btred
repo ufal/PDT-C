@@ -1,0 +1,20 @@
+#!btred -NTe auxcp_jak()
+# -*- mode: cperl -*-
+use warnings;
+use strict;
+
+# Check that "jak" has valid combinations of values so we can run
+# auxc_jak_fix.btred.
+
+sub auxcp_jak {
+    return unless 'AuxC' eq $this->{afun} && $this->attr('m/form') =~ /^jak$/i;
+
+    print join "\t",
+        $this->attr('m/lemma'),
+        $this->attr('m/tag'),
+        join ',', map $_->{text} // 'M-layer',
+            grep 'M-layer' eq $_->{type},
+            ListV($this->{comments});
+    print "\t";
+    FPosition();
+}
