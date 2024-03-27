@@ -28,6 +28,17 @@ sub checkvallex {
         return unless $frame;  # Nx
 
         my @children = PML_T::GetEChildren($this);
+        my @actants = grep /^(ACT|PAT|ADDR|EFF|ORIG)$/,
+                      map $_->{functor},
+                      @children;
+        for my $actant (@actants) {
+            next if $frame->findnodes(
+                "frame_elements/element[\@functor='$actant']");
+            printf "%s not in frame for %s.%s\t",
+                $actant, $this->{t_lemma}, $POS{$vrf};
+            FPosition();
+        }
+
         for my $element ($frame->findnodes('frame_elements/element')) {
             next if '---' eq $element->{functor};  # TODO
 
