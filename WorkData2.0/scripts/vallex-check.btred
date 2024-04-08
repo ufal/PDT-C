@@ -34,6 +34,7 @@ sub checkvallex {
         for my $actant (@actants) {
             next if $frame->findnodes(
                 "frame_elements/element[\@functor='$actant']");
+
             printf "%s not in frame for %s.%s\t",
                 $actant, $this->{t_lemma}, $POS{$vrf};
             FPosition();
