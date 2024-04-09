@@ -1,0 +1,10 @@
+#!btred -NTe newnode_perspron()
+# -*- mode: cperl -*-
+use warnings;
+use strict;
+
+sub newnode_perspron {
+    return if $this == $root;
+
+    FPosition() if $this->{t_lemma} =~ /^#(?:PersPron|NewNode)$/;
+}
