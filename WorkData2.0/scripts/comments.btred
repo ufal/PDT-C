@@ -1,0 +1,16 @@
+#!btred -NTe mcomment()
+# -*- mode: cperl -*-
+use warnings;
+use strict;
+
+sub mcomment {
+    return if $root == $this;
+
+    if ($this->{comments}) {
+        print join ',',
+              map "$_->{type}:" . ($_->{text} // ""),
+              ListV($this->attr('comments'));
+        print "\t";
+        FPosition();
+    }
+}
