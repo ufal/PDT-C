@@ -8,7 +8,7 @@ sub check($value, $gram, $checked=undef) {
     my %check;
     $check{nodetype} = $value unless $this->{nodetype} eq $value;
     $check{gram} = 'delete' if $gram eq 'delete'
-                            && keys %{ $this->{gram} };
+                            && keys %{ $this->{gram} // {} };
     print("Double check\t"), FPosition()
         if $checked && (($checked->{nodetype} // "") ne ($check{nodetype} // "")
                         || ($checked->{gram} // "") ne ($check{gram} // ""));
@@ -30,6 +30,18 @@ sub nodetypes {
         $checked = check('coap', 'delete');
 
     } elsif ($this->{functor} eq 'FPHR') {
+        if (my $anode = PML_T::GetALexNode($this)) {
+            my $form = $anode->attr('m/form');
+            if ($this->{t_lemma} ne $form) {
+                print "Fixing FPHR t-lemma $this->{t_lemma} \-> $form\t";
+                FPosition();
+                ChangingFile(1);
+                $this->{t_lemma} = $form;
+            }
+        } else {
+            print "FPHR without a/lexrf\t";
+            FPosition();
+        }
         $checked = check('fphr', 'delete');
 
     } elsif ($this->{functor} eq 'DPHR') {
@@ -39,13 +51,13 @@ sub nodetypes {
     if ($this->{t_lemma} =~ /^#(?:Idph|Forn)$/) {
         $checked = check('list', 'delete', $checked);
 
-    } elsif ($this->{t_lemma} =~ /^\#(?:Cor|EmpVerb|Equal|Gen|Oblfm|QCor|Rcp
-                                      |Some|Total|Unsp)$/x
+    } elsif ($this->{t_lemma} =~ /^\#(?:Benef|Cor|EmpVerb|Equal|Gen|Oblfm
+                                        |QCor|Rcp|Some|Total|Unsp)$/x
     ) {
         $checked = check('qcomplex', 'delete', $checked);
 
     } elsif ($this->{t_lemma} =~ /^\#(?:Amp|Ast|Percnt|Bracket|Comma|Colon
-                                      |Dash|Period|Period3|Slash)$/x
+                                        |Dash|Period|Period3|Slash)$/x
          && $this->{functor} !~ /^(?:CONJ|ADVS|CSQ|DISJ|GRAD|REAS|CONFR
                                      |CONTRA|OPER|APPS)$/x
     ) {
@@ -59,10 +71,12 @@ sub nodetypes {
         print "Fixed\t";
         FPosition();
 
-    } elsif (! defined $checked) {
-        print("$this->{t_lemma}.$this->{functor} should be complex\t"), FPosition()
+    } elsif (! defined $checked && $this->{t_lemma} ne '#NewNode') {
+        print("$this->{t_lemma}.$this->{functor} should be complex\t"),
+            FPosition()
             if $this->{nodetype} ne 'complex';
-        print("$this->{t_lemma}.$this->{functor} missing sempos\t"), FPosition()
+        print("$this->{t_lemma}.$this->{functor} missing sempos\t"),
+            FPosition()
             unless $this->attr('gram/sempos');
     }
 }
