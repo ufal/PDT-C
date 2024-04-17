@@ -1,0 +1,23 @@
+#!btred -NTe perspron()
+# -*- mode: cperl -*-
+use warnings;
+use strict;
+
+sub perspron {
+    return if $this == $root;
+
+    if ($this->{t_lemma} eq '#PersPron' && ! $this->{is_generated}) {
+        my $anode = PML_T::GetALexNode($this);
+        if (! $anode) {
+            print "No anode\t";
+            FPosition();
+        } else {
+            my $mlemma = $anode->attr('m/lemma');
+            if ($mlemma ne 'on-1') {
+                print "$mlemma\t";
+                FPosition();
+            }
+        }
+    }
+}
+
