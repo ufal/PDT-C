@@ -1,0 +1,40 @@
+#!btred -NTe ho()
+use warnings;
+use strict;
+
+# Search for:
+# 1. All the t-lemmas "ho". If they correspond to m-lemma "on-1", they
+#    should almost certainly be changed to #PersPron.
+# 2. All the non-#PersPron t-nodes that have "on-1" as their lex node
+#    should be checked (INTF and DPHR are probably exceptions, but there
+#    aren't many of them).
+
+sub ho {
+    return if $this == $root;
+
+    if ($this->{t_lemma} eq 'ho') {
+        my $anode = PML_T::GetALexNode($this);
+        if (! $anode) {
+            print "No lex node\t";
+            FPosition();
+        } else {
+            print '1 ', $this->{functor}, " ";
+            print join ' ', map $anode->attr($_), qw( m/lemma m/tag );
+            print "\t";
+            FPosition();
+        }
+    }
+
+    if ($this->{t_lemma} ne '#PersPron' && ! $this->{is_generated}) {
+        my $anode = PML_T::GetALexNode($this);
+        if ($anode) {
+            if ($anode->attr('m/lemma') eq 'on-1') {
+                print '2 ', $this->{t_lemma}, ' ', $this->{functor}, "\t";
+                FPosition();
+            }
+        } else {
+            print "No lex node\t";
+            FPosition();
+        }
+    }
+}
