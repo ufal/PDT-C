@@ -1,19 +1,33 @@
 #!btred -NTe nodetypes()
-# -*- mode: cperl -*-
+# -*- mode: cperl encoding: utf-8 -*-
 use warnings;
 use strict;
 use experimental qw( signatures );
+use utf8;
+
+use List::Util;
 
 sub check($value, $gram, $checked=undef) {
     my %check;
     $check{nodetype} = $value unless $this->{nodetype} eq $value;
     $check{gram} = 'delete' if $gram eq 'delete'
                             && keys %{ $this->{gram} // {} };
-    print("Double check\t"), FPosition()
+    print("Double check $this->{t_lemma} $this->{functor}\t"), FPosition()
         if $checked && (($checked->{nodetype} // "") ne ($check{nodetype} // "")
                         || ($checked->{gram} // "") ne ($check{gram} // ""));
     return \%check
 }
+
+my %SET_SEMPOS = (t_lemma => {'#PersPron' => 'n.pron.def.pers',
+                              '#EmpNoun'  => 'n.denot'},
+                  't_lemma.func' => {'již.TWHEN' => 'adv.denot.ngrad.nneg',
+                                     'spíše.EXT' => 'adv.denot.ngrad.nneg',
+                                     'ten.PAT'   => 'n.pron.def.demon',
+                                     'ten.ACT'   => 'n.pron.def.demon',
+                                     'tak.MANN'  => 'adv.denot.ngrad.nneg',
+                                     'A.ID'      => 'n.denot'},
+                  'pos.func' => {'C.RSTR' => 'adj.quant.def'},
+);
 
 sub nodetypes {
     ChangingFile(0);
@@ -72,11 +86,33 @@ sub nodetypes {
         FPosition();
 
     } elsif (! defined $checked && $this->{t_lemma} ne '#NewNode') {
-        print("$this->{t_lemma}.$this->{functor} should be complex\t"),
-            FPosition()
-            if $this->{nodetype} ne 'complex';
-        print("$this->{t_lemma}.$this->{functor} missing sempos\t"),
-            FPosition()
-            unless $this->attr('gram/sempos');
+        if ($this->{nodetype} ne 'complex') {
+            print "$this->{t_lemma}.$this->{functor} \-> complex\t";
+            $this->{nodetype} = 'complex';
+            ChangingFile(1);
+            FPosition();
+        }
+        unless ($this->attr('gram/sempos')) {
+            my $alex = PML_T::GetALexNode($this);
+            my $pos = $alex ? substr $alex->attr('m/tag'), 0, 1 : "-";
+            my @sempos
+                = List::Util::uniq(grep defined,
+                            $SET_SEMPOS{t_lemma}{ $this->{t_lemma} },
+                            $SET_SEMPOS{'t_lemma.func'}
+                                       {"$this->{t_lemma}.$this->{functor}"},
+                            $SET_SEMPOS{'pos.func'}{"$pos.$this->{functor}"});
+            if (@sempos == 1) {
+                print "$this->{t_lemma}.$this->{functor}"
+                    . "($pos|$this->{nodetype}): $sempos[0]\t";
+                ChangingFile(1);
+                $this->{gram}{sempos} = $sempos[0];
+            } elsif (@sempos) {
+                print "Ambiguous: @sempos\t";
+            } else {
+                print "no sempos: $this->{t_lemma}.$this->{functor}"
+                    . "($pos|$this->{nodetype})\t";
+            }
+            FPosition();
+        }
     }
 }
