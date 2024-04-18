@@ -51,8 +51,8 @@ sub nodetypes {
     if ($this->{t_lemma} =~ /^#(?:Idph|Forn)$/) {
         $checked = check('list', 'delete', $checked);
 
-    } elsif ($this->{t_lemma} =~ /^\#(?:Benef|Cor|EmpVerb|Equal|Gen|Oblfm
-                                        |QCor|Rcp|Some|Total|Unsp)$/x
+    } elsif ($this->{t_lemma} =~ /^\#(?:AsMuch|Benef|Cor|EmpVerb|Equal|Gen
+                                        |Oblfm|QCor|Rcp|Some|Total|Unsp)$/x
     ) {
         $checked = check('qcomplex', 'delete', $checked);
 
