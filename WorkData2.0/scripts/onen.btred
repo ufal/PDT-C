@@ -4,15 +4,14 @@ use warnings;
 use strict;
 
 sub onen {
-    return if $root == $this;
+    ChangingFile(0);
+    return if $root == $this || $this->{t_lemma} ne '#PersPron';
 
     if (my $anode = PML_T::GetALexNode($this)) {
         my $lemma = $anode->attr('m/lemma');
         if ($lemma eq 'onen') {
-            print join "\t",
-                       $this->{t_lemma},
-                       $this->attr('gram/sempos') || '-',
-                       "";
+            ChangingFile(1);
+            $this->{t_lemma} = 'onen';
             FPosition();
         }
     }
