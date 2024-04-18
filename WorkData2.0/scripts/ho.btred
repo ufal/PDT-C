@@ -1,6 +1,8 @@
 #!btred -NTe ho()
+# -*- mode: cperl -*-
 use warnings;
 use strict;
+use utf8;
 
 # Search for:
 # 1. All the t-lemmas "ho". If they correspond to m-lemma "on-1", they
@@ -8,6 +10,10 @@ use strict;
 # 2. All the non-#PersPron t-nodes that have "on-1" as their lex node
 #    should be checked (INTF and DPHR are probably exceptions, but there
 #    aren't many of them).
+
+my %PERSPRON;
+@PERSPRON{qw{ on-1 svůj-1 jeho já se_^(zvr._zájmeno/částice) my můj vy
+              náš váš ty tvůj onen }} = ();
 
 sub ho {
     return if $this == $root;
@@ -28,7 +34,9 @@ sub ho {
     if ($this->{t_lemma} ne '#PersPron' && ! $this->{is_generated}) {
         my $anode = PML_T::GetALexNode($this);
         if ($anode) {
-            if ($anode->attr('m/lemma') eq 'on-1') {
+            if (exists $PERSPRON{ $anode->attr('m/lemma') }
+                && $this->{functor} !~ /^(?:DPHR|INTF)$/
+            ) {
                 print '2 ', $this->{t_lemma}, ' ', $this->{functor}, "\t";
                 FPosition();
             }
