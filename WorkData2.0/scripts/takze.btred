@@ -16,8 +16,10 @@ sub takze {
         my $afun     = $this->{afun};
         my @comments = @{ $this->{comments} // [] };
 
-        $this->{m}{tag} = 'J^-------------';
-        ChangingFile(1);
+        if ($this->attr('m/tag') ne 'J^-------------') {
+            $this->{m}{tag} = 'J^-------------';
+            ChangingFile(1);
+        }
         if ('Coord' ne $afun
             && ('AuxZ' ne $afun || 0 != index $form, 'T')
             || grep $_->{type} ne 'T-layer', @comments
