@@ -57,6 +57,7 @@ sub m_auxz {
 
     } elsif ($this->attr('m/lemma') eq 'každý') {
         if ($this->{m}{tag} =~ s/^AA/PL/) {
+            $this->{m}{tag} =~ s/-1A-/----/;
             ChangingFile(1);
             print "Tag changed for každý\t";
             FPosition();
