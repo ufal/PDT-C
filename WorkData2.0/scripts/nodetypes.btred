@@ -26,7 +26,33 @@ my %SET_SEMPOS = (t_lemma => {'#PersPron' => 'n.pron.def.pers',
                                      'ten.ACT'   => 'n.pron.def.demon',
                                      'tak.MANN'  => 'adv.denot.ngrad.nneg',
                                      'A.ID'      => 'n.denot'},
-                  'pos.func' => {'C.RSTR' => 'adj.quant.def'},
+                  'pos.func' => {'C.RSTR' => 'adj.quant.def',
+                                 'Q.RSTR' => 'adj.denot',
+                                 'A.RSTR' => 'adj.denot'},
+                  'pos.func.t_lemma' => {
+                      'Z.RSTR.procentní' => 'adj.denot',
+                      'P.RSTR.ten'       => 'adj.pron.def.demon',
+                      'D.LOC.kolem'      => 'adv.denot.ngrad.nneg',
+                      'D.DIR2.kolem'     => 'adv.denot.ngrad.nneg',
+                      'D.TWHEN.zase'     => 'adv.denot.ngrad.nneg',
+                      'T.EXT.asi'        => 'adv.denot.ngrad.nneg',
+                      'D.EXT.jak'        => 'adv.denot.ngrad.nneg',
+                      'D.MANN.jak'       => 'adv.denot.ngrad.nneg',
+                      'D.EXT.tak'        => 'adv.denot.ngrad.nneg',
+                      'D.TWHEN.už'       => 'adv.denot.ngrad.nneg',
+                      'D.TWHEN.potom'    => 'adv.denot.ngrad.nneg',
+                      'D.LOC.tam'        => 'adv.denot.ngrad.nneg',
+                      'D.EXT.obzvlášť'   => 'adv.denot.ngrad.nneg',
+                      'D.THL.dále'       => 'adv.denot.ngrad.nneg',
+                      'D.EXT.hodně'      => 'adv.denot.ngrad.nneg',
+                      'D.RSTR.hodně'     => 'adv.denot.ngrad.nneg',
+                      'D.LOC.daleko'     => 'adv.denot.ngrad.nneg',
+                      'D.DIR3.daleko'    => 'adv.denot.ngrad.nneg',
+                      'D.EXT.dále'       => 'adv.denot.ngrad.nneg',
+                      'D.DIR3.dále'      => 'adv.denot.ngrad.nneg',
+                      'T.EXT.tak'        => 'adv.denot.ngrad.nneg',
+                      'N.TWHEN.říjen'    => 'n.denot',
+                      'N.CPHR.vliv'      => 'n.denot',}
 );
 
 sub nodetypes {
@@ -95,12 +121,14 @@ sub nodetypes {
         unless ($this->attr('gram/sempos')) {
             my $alex = PML_T::GetALexNode($this);
             my $pos = $alex ? substr $alex->attr('m/tag'), 0, 1 : "-";
-            my @sempos
-                = List::Util::uniq(grep defined,
-                            $SET_SEMPOS{t_lemma}{ $this->{t_lemma} },
-                            $SET_SEMPOS{'t_lemma.func'}
-                                       {"$this->{t_lemma}.$this->{functor}"},
-                            $SET_SEMPOS{'pos.func'}{"$pos.$this->{functor}"});
+            my $func = $this->{functor};
+            my $tlemma = $this->{t_lemma};
+            my @sempos = List::Util::uniq(
+                grep defined,
+                     $SET_SEMPOS{t_lemma}{$tlemma},
+                     $SET_SEMPOS{'t_lemma.func'}{"$tlemma.$func"},
+                     $SET_SEMPOS{'pos.func'}{"$pos.$func"},
+                     $SET_SEMPOS{'pos.func.t_lemma'}{"$pos.$func.$tlemma"});
             if (@sempos == 1) {
                 print "$this->{t_lemma}.$this->{functor}"
                     . "($pos|$this->{nodetype}): $sempos[0]\t";
