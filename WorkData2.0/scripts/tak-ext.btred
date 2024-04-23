@@ -1,0 +1,44 @@
+#!btred -NTe tak_ext()
+# -*- mode: cperl -*-
+use warnings;
+use strict;
+
+=head1 NAME
+
+tak_ext
+
+=head1 DESCRIPTION
+
+List the anodes corresponding to tak.EXT on the t-layer.
+
+Those having C<mlemma=tak-1> and C<mtag=TT> should be changed to
+C<mlemma=tak-3> and C<mtag=Db>, if C<afun> is C<Atr> or C<Adv>.
+
+This can be achieved by processing the output in the following way:
+
+  | grep -v AuxZ output \
+  | sed 's/t#/a#/' \
+  | rev | cut -f1 | rev \
+  | btred -K ALL -l- -e '$this->{m}{tag} =~ s/^TT/Db/;
+                         $this->{m}{lemma} = "tak-3";
+                         ChangingFile(1)'
+
+=cut
+
+sub tak_ext {
+    ChangingFile(0);
+    return if $root == $this;
+
+    if ('tak' eq $this->{t_lemma} && 'EXT' eq $this->{functor}) {
+        if (my $anode = PML_T::GetALexNode($this)) {
+            if ($anode->attr('m/tag') =~ /^T/) {
+                print join ' ', map $anode->attr($_), qw( m/lemma m/tag afun );
+                print "\t";
+                FPosition($anode);
+            }
+        } else {
+            print "No anode\t";
+            FPosition();
+        }
+    }
+}
