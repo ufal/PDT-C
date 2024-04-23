@@ -1,0 +1,21 @@
+#!btred -NTe fix_tlemma_prec()
+# -*- mode: cperl -*-
+use warnings;
+use strict;
+
+sub fix_tlemma_prec {
+    ChangingFile(0);
+    return if $root == $this;
+
+    if ('PREC' eq $this->{functor}) {
+        if ($this->{t_lemma} =~ /^#(Dash|Ast)$/) {
+            $this->{t_lemma} = {Dash => '-', Ast => '*'}->{$1};
+            $this->{nodetype} = 'atom';
+            delete $this->{gram};
+            ChangingFile(1);
+        }
+    } elsif ('#Forn' eq $this->{t_lemma} && $this->{functor} =~ /^(?:ATT|CM)$/) {
+        print $this->{functor}, "\t";
+        FPosition();
+    }
+}
