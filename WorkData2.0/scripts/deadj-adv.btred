@@ -1,0 +1,20 @@
+#!btred -NTe deadj_adv()
+# -*- mode: cperl -*-
+use warnings;
+use strict;
+use utf8;
+
+sub deadj_adv {
+    return if $this == $root
+           || ! $this->attr('a/lex.rf');
+
+    my $anode = PML_T::GetALexNode($this);
+    my $tag   = $anode->attr('m/tag');
+    my $lemma = $anode->attr('m/lemma');
+    return unless (0 == index $tag, 'D')
+              && $lemma =~ /\*.*[ýí]\)/;
+    print join ' ', $lemma, $tag,
+          map $this->attr($_) // '-', qw( t_lemma functor gram/sempos );
+    print "\t";
+    FPosition();
+}
