@@ -1,0 +1,54 @@
+#!btred -NTe sentmod()
+# -*- mode: cperl -*-
+use warnings;
+use strict;
+
+my %FUNC; @FUNC{qw{ PRED DENOM PARTL VOCAT PAR ID }} = ();
+
+sub sentmod {
+    return if $this == $root;
+
+    if ($this->{sentmod}) {
+        if (! exists $FUNC{ $this->{functor} }) {
+            if (! $this->{is_dsp_root}) {
+                # Should be a member of is_dsp_root.coap
+                if ($this->{is_member}) {
+                    my $top = $this->parent;
+                    while ($top->{is_member}
+                           && 'coap' eq $top->{nodetype}
+                           && ! $top->{is_dsp_root}
+                    ) {
+                        $top = $top->parent;
+                    }
+                    if (! $top->{is_dsp_root} || 'coap' ne $top->{nodetype}) {
+                        print "dsp_root\t";
+                        FPosition();
+                    }
+                } else {
+                    print "no dsp\t";
+                    FPosition();
+                }
+
+            }
+            if ($this->{nodetype} eq 'coap') {
+                print "coap\t";
+                FPosition();
+            }
+        }
+    } elsif (exists $FUNC{ $this->{functor} } || $this->{is_dsp_root}) {
+        if ('coap' eq $this->{nodetype}) {
+            my @ch = PML_T::ExpandCoord($this);
+            for my $no_sentmod (grep ! $_->{sentmod}, @ch) {
+                print "no_sentmod_m\t";
+                FPosition($no_sentmod);
+            }
+        } else {
+            print "no_sentmod ",
+                   exists $FUNC{ $this->{functor} }
+                       ? $this->{functor}
+                       : 'dsp',
+                   "\t";
+            FPosition();
+        }
+    }
+}
