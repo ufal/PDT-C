@@ -1,0 +1,41 @@
+#!btred -NTe lepe()
+use warnings;
+use strict;
+use utf8;
+
+my %fix = (
+    'lépe lépe Dg-------2A----'     => [qw[ dobrý adj.denot comp neg0 ]],
+    'lépe líp Dg-------2A---1'      => [qw[ dobrý adj.denot comp neg0 ]],
+    'lépe nejlépe Dg-------3A----'  => [qw[ dobrý adj.denot sup neg0 ]],
+    'lépe nejlíp Dg-------3A---1'   => [qw[ dobrý adj.denot sup neg0 ]],
+    'dobře dobře Dg-------1A----'   => [qw[ dobrý adj.denot pos neg0 ]],
+    'dobře nedobře Dg-------1N----' => [qw[ dobrý adj.denot pos neg1 ]]
+);
+
+sub lepe() {
+    return if $this == $root;
+
+    return if $this->{nodetype} ne 'complex';
+
+    my $anode = PML_T::GetALexNode($this);
+    return unless $anode;
+
+    my $key = join ' ', map $anode->attr($_), qw( m/lemma m/form m/tag );
+    if ($fix{$key}) {
+        print join ',',
+              map $this->attr($_) // '-',
+              qw( t_lemma gram/sempos gram/degcmp gram/negation );
+        ChangingFile(1);
+        $this->{t_lemma} = $fix{$key}[0];
+        $this->{gram}{sempos} = $fix{$key}[1];
+        $this->{gram}{degcmp} = $fix{$key}[2];
+        $this->{gram}{negation} = $fix{$key}[3];
+        print "\t";
+        print join ',',
+              map $this->attr($_) // '-',
+              qw( t_lemma gram/sempos gram/degcmp gram/negation );
+        print "\t";
+        FPosition();
+    }
+}
+
