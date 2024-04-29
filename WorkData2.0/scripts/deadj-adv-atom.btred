@@ -1,0 +1,32 @@
+#!btred -NTe deadj_adv_atom()
+# -*- mode: cperl -*-
+use warnings;
+use strict;
+use feature qw{ fc };
+use utf8;
+
+sub deadj_adv_atom {
+    ChangingFile(0);
+    return if $this == $root
+           || ! $this->attr('a/lex.rf');
+
+    my $anode = PML_T::GetALexNode($this);
+    my $tag   = $anode->attr('m/tag');
+    my $lemma = $anode->attr('m/lemma');
+    return unless (0 == index $tag, 'D')
+              && $lemma =~ /\*.*[ýí]\)/;
+
+    if (('atom' eq $this->{nodetype}
+         || $this->{functor} =~ /^(?:CM|MOD|RHEM|ATT|MOD|PARTL|PREC)$/)
+        && $this->{t_lemma} !~ /_/
+        && fc($this->{t_lemma}) ne fc($anode->attr('m/form'))
+    ) {
+        print "$this->{t_lemma}.$this->{functor}",
+            ' ', lc $anode->attr('m/form');
+        print "\t";
+        FPosition();
+        ChangingFile(1);
+        $this->{t_lemma} = lc $anode->attr('m/form');
+        delete $this->{gram};
+    }
+}
