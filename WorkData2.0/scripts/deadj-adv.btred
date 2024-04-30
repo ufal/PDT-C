@@ -1,5 +1,5 @@
 #!btred -NTe deadj_adv()
-# -*- mode: cperl -*-
+# -*- encoding: utf-8; mode: cperl -*-
 use warnings;
 use strict;
 use utf8;
