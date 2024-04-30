@@ -1,0 +1,36 @@
+#!btred -NTe deadj_adv()
+# -*- encoding: utf-8; mode: cperl -*-
+use warnings;
+use strict;
+use utf8;
+
+sub deadj_adv {
+    return if $this == $root
+           || ! $this->attr('a/lex.rf');
+
+    my $anode = PML_T::GetALexNode($this);
+    my $tag   = $anode->attr('m/tag');
+    my $lemma = $anode->attr('m/lemma');
+    return unless (0 == index $tag, 'D')
+               && $lemma =~ /\*.*[ýí]\)/
+               && $this->{functor} =~ /^(?:MANN|MEANS|REG|EXT
+                                           |T.*|DIR[123]|LOC|CAUS|CPR|COND
+                                           |RESL|DIFF|CRIT)$/x;
+
+    ChangingFile(1);
+    $this->{nodetype} = 'complex';
+    $this->{gram}{sempos} = 'adj.denot';
+    if ($lemma =~ /_\^\(\*(\d+)(\w+)\)$/) {
+        my ($length, $replace) = @{^CAPTURE};
+        my $tlemma = $lemma =~ s/[_`-].*//r;
+        substr $tlemma, -$length, $length, $replace;
+        print "$this->{t_lemma}.", $this->attr('gram/sempos'), "($lemma) => ",
+              "$tlemma.adj.denot\t";
+        $this->{t_lemma} = $tlemma;
+        FPosition();
+    } else {
+        print "$this->{t_lemma}.", $this->attr('gram/sempos'),
+              "($lemma) => ???\t";
+        FPosition();
+    }
+}
