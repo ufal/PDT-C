@@ -1,0 +1,151 @@
+#!btred -NTe sentmod()
+# -*- encoding: utf-8; mode: cperl -*-
+use warnings;
+use strict;
+use utf8;
+
+my %FUNC; @FUNC{qw{ PRED DENOM PARTL VOCAT PAR ID }} = ();
+my %expect;
+
+sub set_sentmod {
+    my ($node) = @_;
+    if ($node->{is_generated}) {
+        $node->{sentmod} //= 'enunc';
+        return 'gen'
+    }
+
+    my $lex = PML_T::GetALexNode($node);
+    my @anodes = PML_T::GetANodes($node);
+    if (! $this->{is_generated} && grep $_->attr('m/tag') =~ /^Vi/, @anodes) {
+        ChangingFile(1);
+        $node->{sentmod} = 'imper';
+        return 'imper'
+
+    } elsif (! $lex) {
+        $node->{sentmod} = 'enunc';
+        return '-'
+
+    } elsif (! $this->{is_generated}) {
+        my @ch = $lex->children;
+        if (grep $_->attr('m/form') eq '?', @ch) {
+            ChangingFile(1);
+            $node->{sentmod} = 'inter';
+            return 'inter'
+
+        } elsif (grep $_->attr('m/form') eq '!', @ch) {
+            ChangingFile(1);
+            $node->{sentmod} = 'excl';
+            return 'excl'
+        }
+
+    }
+    ChangingFile(1);
+    $node->{sentmod} = 'enunc';
+    return 'enunc'
+}
+
+sub sentmod {
+    if ($this == $root) {
+        %expect = ();
+        my $aroot = (PML_T::GetANodes($root))[0];
+        my @anodes = $aroot->descendants;
+        for my $anode (@anodes) {
+            ++$expect{inter} if '?' eq $anode->attr('m/form');
+            ++$expect{excl}  if '!' eq $anode->attr('m/form');
+            ++$expect{imper} if $anode->attr('m/tag') =~ /^Vi/;
+            ++$expect{desid}
+                if $anode->attr('m/lemma') =~ /^(?:ať-|kéž|nechť-)/;
+        }
+        return
+    }
+
+    if ($this->{sentmod}) {
+        if (! exists $FUNC{ $this->{functor} }) {
+            if (! $this->{is_dsp_root}) {
+                # Should be a member of is_dsp_root.coap
+                if ($this->{is_member}) {
+                    my $top = $this->parent;
+                    while ($top->{is_member}
+                           && 'coap' eq $top->{nodetype}
+                           && ! $top->{is_dsp_root}
+                    ) {
+                        $top = $top->parent;
+                    }
+                    if (! $top->{is_dsp_root} || 'coap' ne $top->{nodetype}) {
+                        print "dsp_root\t";
+                        FPosition();
+                        ChangingFile(1);
+                        delete $this->{sentmod};
+                    }
+                } else {
+                    print "no dsp\t";
+                    FPosition();
+                    ChangingFile(1);
+                    delete $this->{sentmod};
+                }
+
+            }
+            if ($this->{nodetype} eq 'coap') {
+                print "coap\t";
+                FPosition();
+                ChangingFile(1);
+                delete $this->{sentmod};
+            }
+        }
+    } elsif (exists $FUNC{ $this->{functor} } || $this->{is_dsp_root}) {
+        if ('coap' eq $this->{nodetype}) {
+            my @ch = PML_T::ExpandCoord($this);
+            for my $no_sentmod (grep ! $_->{sentmod}, @ch) {
+                print "no_sentmod_m ", set_sentmod($no_sentmod), "\t";
+                FPosition($no_sentmod);
+            }
+        } else {
+            print "no_sentmod ", set_sentmod($this), ' ',
+                   exists $FUNC{ $this->{functor} }
+                       ? $this->{functor}
+                       : 'dsp',
+                   "\t";
+            FPosition();
+        }
+    }
+
+    # Last node in a sentence. Compare set and expected sentmods.
+    if (! $this->following) {
+        my %set;
+        for my $node ($root->descendants) {
+            ++$set{ $node->{sentmod} } if $node->{sentmod};
+        }
+        delete $set{enunc};
+
+        for my $e (keys %expect) {
+            next if $expect{$e} == ($set{$e} // 0);
+
+            if (! exists $set{$e}) {
+                my $top = $root->firstson;
+                if (('#EmpVerb' eq $top->{t_lemma}
+                     || 'v' eq ($top->attr('gram/sempos') // ""))
+                    && ($top->{sentmod} // 'enunc') eq 'enunc'
+                    && 1 == grep '#EmpVerb' eq $_->{t_lemma}
+                                 || 'v' eq ($_->attr('gram/sempos') // ""),
+                            $root->descendants
+                ) {
+                    $top->{sentmod} = $e;
+                    print "Guess $e\t";
+                    FPosition($top);
+                } else {
+                    print "NoTop $e: $expect{$e} != ", $set{$e} // 0, "\t";
+                    FPosition();
+                }
+            } else {
+                print "Exp $e: $expect{$e} != ", $set{$e} // 0, "\t";
+                FPosition();
+            }
+        }
+        for my $s (keys %set) {
+            next if $set{$s} == ($expect{$s} // 0);
+            print "Set $s: $set{$s} != ", $expect{$s} // 0, "\t";
+            FPosition();
+        }
+    }
+
+}
