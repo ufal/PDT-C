@@ -3098,8 +3098,8 @@
 <LM>w#w-mf930703-093-p15s1w5</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-mf930703-093-p15s1w6">
 <src.rf>manual</src.rf>
@@ -8499,8 +8499,8 @@
 <LM>w#w-mf930703-093-p33s2w16</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-mf930703-093-p33s2w17">
 <src.rf>manual</src.rf>

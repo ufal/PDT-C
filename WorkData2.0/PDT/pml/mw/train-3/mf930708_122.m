@@ -2988,8 +2988,8 @@
 <LM>w#w-mf930708-122-p8s6w2</LM>
 </w.rf>
 <form>Hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-mf930708-122-p8s6w3">
 <src.rf>manual</src.rf>

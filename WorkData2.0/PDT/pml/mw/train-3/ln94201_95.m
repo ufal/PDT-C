@@ -22785,8 +22785,8 @@
 <LM>w#w-ln94201-95-p28s3w6</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-ln94201-95-p28s3w7">
 <src.rf>manual</src.rf>

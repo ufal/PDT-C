@@ -3702,8 +3702,8 @@
 <LM>w#w-lnd92251-078-p10s2w9</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-lnd92251-078-p10s2w10">
 <src.rf>manual</src.rf>

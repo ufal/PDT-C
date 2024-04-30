@@ -111,8 +111,8 @@
 <LM>w#w-ln94201-16-p2s1w7</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-ln94201-16-p2s1w8">
 <src.rf>manual</src.rf>
@@ -2712,8 +2712,8 @@
 <LM>w#w-ln94201-16-p6s1w13</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-ln94201-16-p6s1w14">
 <src.rf>manual</src.rf>

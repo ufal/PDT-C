@@ -2251,8 +2251,8 @@
 <LM>w#w-mf930708-066-p4s7w6</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-mf930708-066-p4s7w7">
 <src.rf>manual</src.rf>

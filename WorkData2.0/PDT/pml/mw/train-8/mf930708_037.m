@@ -1299,8 +1299,8 @@
 <LM>w#w-mf930708-037-p4s5w10</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-mf930708-037-p4s5w11">
 <src.rf>manual</src.rf>
