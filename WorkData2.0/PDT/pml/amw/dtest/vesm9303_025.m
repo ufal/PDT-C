@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_c_schema.xml"/>
+<schema href="mdata_c_schema.xml" />
 <references>
-<reffile id="w" name="wdata" href="vesm9303_025.w"/>
+<reffile id="w" name="wdata" href="vesm9303_025.w" />
 </references>
 </head>
 <meta>
@@ -1264,8 +1264,8 @@
 <LM>w#w-vesm9303-025-p4s2w7</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-vesm9303-025-p4s2w8">
 <src.rf>manual</src.rf>
@@ -1738,8 +1738,8 @@
 <LM>w#w-vesm9303-025-p4s5w15</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-vesm9303-025-p4s5w16">
 <src.rf>manual</src.rf>
@@ -1993,8 +1993,8 @@
 <w.rf>
 <LM>w#w-vesm9303-025-p5s1w15</LM>
 </w.rf>
-<form>&gt;</form>
-<lemma>&gt;</lemma>
+<form>></form>
+<lemma>></lemma>
 <tag>Z:-------------</tag>
 </m>
 <m id="m-vesm9303-025-p5s1w16">
@@ -4168,8 +4168,8 @@
 <w.rf>
 <LM>w#w-vesm9303-025-p11s6w3</LM>
 </w.rf>
-<form>&gt;</form>
-<lemma>&gt;</lemma>
+<form>></form>
+<lemma>></lemma>
 <tag>Z:-------------</tag>
 </m>
 <m id="m-vesm9303-025-p11s6w4">

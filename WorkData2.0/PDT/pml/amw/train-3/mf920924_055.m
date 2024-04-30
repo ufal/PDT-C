@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_c_schema.xml"/>
+<schema href="mdata_c_schema.xml" />
 <references>
-<reffile id="w" name="wdata" href="mf920924_055.w"/>
+<reffile id="w" name="wdata" href="mf920924_055.w" />
 </references>
 </head>
 <meta>
@@ -3415,8 +3415,8 @@
 <LM>w#w-mf920924-055-p8s5w1</LM>
 </w.rf>
 <form>Hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-mf920924-055-p8s5w2">
 <src.rf>manual</src.rf>

@@ -111,8 +111,8 @@
 <LM>w#w-vesm9212-038-p2s1w9</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-vesm9212-038-p2s1w10">
 <src.rf>manual</src.rf>

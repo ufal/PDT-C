@@ -7454,8 +7454,8 @@
 <LM>w#w-vesm9212-041-p14s1w23</LM>
 </w.rf>
 <form>hodně</form>
-<lemma>hodně_^(*1ý)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hodně-3</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-vesm9212-041-p14s1w24">
 <src.rf>manual</src.rf>
