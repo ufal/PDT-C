@@ -122,23 +122,46 @@ sub sentmod {
 
             if (! exists $set{$e}) {
                 my $top = $root->firstson;
-                if (('#EmpVerb' eq $top->{t_lemma}
-                     || 'v' eq ($top->attr('gram/sempos') // ""))
+                if (should_have_sentmod($top)
                     && ($top->{sentmod} // 'enunc') eq 'enunc'
-                    && 1 == grep '#EmpVerb' eq $_->{t_lemma}
-                                 || 'v' eq ($_->attr('gram/sempos') // ""),
-                            $root->descendants
+                    && 1 == grep should_have_sentmod($_), $root->descendants
                 ) {
                     $top->{sentmod} = $e;
                     print "Guess $e\t";
                     FPosition($top);
+                } elsif ($top->{nodetype} eq 'coap') {
+                    my @expanded = grep should_have_sentmod($_),
+                                   PML_T::ExpandCoord($top);
+                    if (scalar @expanded == grep should_have_sentmod($_),
+                                            $root->descendants
+                    ) {
+                        for my $exp (@expanded) {
+                            if (($exp->{sentmod} // 'enunc') eq 'enunc') {
+                                $exp->{sentmod} = $e;
+                                print "Guess multi $e\t";
+                                FPosition($exp);
+                            } else {
+                                print "Skip multi $e\t";
+                                FPosition($exp);
+                            }
+                        }
+                    } else {
+                        printf "Skip multi %d != %d\t", scalar @expanded,
+                            scalar grep should_have_sentmod($_),
+                                        $root->descendants;
+                        FPosition($top);
+                    }
                 } else {
-                    print "NoTop $e: $expect{$e} != ", $set{$e} // 0, "\t";
-                    FPosition();
+                    unless ($e eq 'excl' && $expect{imper}) {
+                        print "NoTop $e: $expect{$e} != ", $set{$e} // 0, "\t";
+                        FPosition();
+                    }
                 }
             } else {
-                print "Exp $e: $expect{$e} != ", $set{$e} // 0, "\t";
-                FPosition();
+                unless ($e eq 'excl' && $expect{imper}) {
+                    print "Exp $e: $expect{$e} != ", $set{$e} // 0, "\t";
+                    FPosition();
+                }
             }
         }
         for my $s (keys %set) {
@@ -148,4 +171,27 @@ sub sentmod {
         }
     }
 
+}
+
+sub should_have_sentmod {
+    my ($node) = @_;
+    return 1 if exists $FUNC{ $node->{functor} };
+
+    if ($node->{is_dsp_root}) {
+        return if 'coap' eq $node->{nodetype};
+
+        return 1
+    }
+    return unless $node->{is_member};
+
+    my $top = $node->parent;
+    while ($top->{is_member}
+           && 'coap' eq $top->{nodetype}
+           && ! $top->{is_dsp_root}
+    ) {
+        $top = $top->parent;
+    }
+    return 1 if $top->{is_dsp_root} && 'coap' eq $top->{nodetype};
+
+    return
 }
