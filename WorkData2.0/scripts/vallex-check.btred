@@ -1,8 +1,9 @@
 #!btred -NTe checkvallex()
-# -*- mode: cperl -*-
+# -*- mode: cperl; encoding: utf-8 -*-
 
 use warnings;
 use strict;
+use utf8;
 
 use XML::LibXML;
 
@@ -34,6 +35,11 @@ sub checkvallex {
         for my $actant (@actants) {
             next if $frame->findnodes(
                 "frame_elements/element[\@functor='$actant']");
+
+            next if 'ORIG' eq $actant
+                 && $this->{t_lemma} eq 'být'
+                 && 'ACT' eq $frame->findvalue(
+                     'frame_elements/element/@functor');
 
             printf "%s not in frame for %s.%s\t",
                 $actant, $this->{t_lemma}, $POS{$vrf};
