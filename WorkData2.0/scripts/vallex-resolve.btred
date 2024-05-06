@@ -2646,6 +2646,7 @@ my %RESOLVE = qw(
     v-w10032f2_ZU 	 v-w10032f3_ZU
     v-w10032hsa_369 	 v-w10032f3_ZU
     v-w10034hsa_739 	 v-w10034f2_ZU
+    v-w8659f14_ZU 	 v-w8659f19_u_MM
 );
 
 sub vresolve {
