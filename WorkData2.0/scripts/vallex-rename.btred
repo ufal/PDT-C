@@ -20324,7 +20324,14 @@ my %RENAME = qw(
 sub vrename {
     return unless $this->{'val_frame.rf'};
 
-    $this->{'val_frame.rf'} = 'v#' . $RENAME{ $this->{'val_frame.rf'} =~ s/^v#//r };
+    my $frame_id = $this->{'val_frame.rf'} =~ s/^v#//r;
+    if (! exists $RENAME{$frame_id}) {
+        print "No name for $frame_id\t";
+        FPosition();
+        return
+    }
+
+    $this->{'val_frame.rf'} = 'v#' . $RENAME{$frame_id};
     ChangingFile(1);
 }
 
