@@ -18,6 +18,7 @@ my %RESOLVE = qw(
     v-w168f2_ZU 	 v-w168f3_ZU
     v-w11731_ZUf2_ZU 	 v-w11731_ZUf3_ZU
     v-w11731_ZUf1_ZU 	 v-w11731_ZUf3_ZU
+    v-w1186f1 	 v-w1186f2_u_MM
     v-w202f4 	 v-w202f42_ZU
     v-w202f1 	 v-w202f43_ZU
     v-w202f31_ZU 	 v-w202f43_ZU
