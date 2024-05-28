@@ -1,0 +1,29 @@
+#!btred -Te exception()
+# -*- mode: cperl; encoding: utf-8 -*-
+use warnings;
+use strict;
+use utf8;
+
+sub exception {
+    'PML_A_Anot'->CheckErrors('ignore exceptions');
+    for my $node ($root->descendants) {
+        my @comments = ListV($node->{comments});
+        for my $comment (@comments) {
+            next unless $comment->{type} eq 'Other';
+
+            if (($comment->{text} // "") =~ /^výjimka(?:: )?(.*)?/i) {
+                my $type = $1;
+                if (length $type) {
+                    my @errors = @{ $node->{errors} // [] };
+                    if (! grep $_ eq $type, @errors) {
+                        print qq(Invalid type "$type"\t);
+                        FPosition($node);
+                    }
+                } else {
+                    print "No type\t";
+                    FPosition($node);
+                }
+            }
+        }
+    }
+}
