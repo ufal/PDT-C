@@ -131,6 +131,7 @@ sub sentmod {
                     && ($top->{sentmod} // 'enunc') eq 'enunc'
                     && 1 == grep should_have_sentmod($_), $root->descendants
                 ) {
+                    ChangingFile(1);
                     $top->{sentmod} = $e;
                     print "Guess $e\t";
                     FPosition($top);
@@ -142,6 +143,7 @@ sub sentmod {
                     ) {
                         for my $exp (@expanded) {
                             if (($exp->{sentmod} // 'enunc') eq 'enunc') {
+                                ChangingFile(1);
                                 $exp->{sentmod} = $e;
                                 print "Guess multi $e\t";
                                 FPosition($exp);
