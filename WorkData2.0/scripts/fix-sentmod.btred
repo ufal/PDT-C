@@ -54,7 +54,9 @@ sub sentmod {
             ++$expect{excl}  if '!' eq $anode->attr('m/form');
             ++$expect{imper} if $anode->attr('m/tag') =~ /^Vi/;
             ++$expect{desid}
-                if $anode->attr('m/lemma') =~ /^(?:ať-|kéž|nechť-)/;
+                if $anode->attr('m/lemma') =~ /^(?:kéž$|nechť-)/
+                || $anode->attr('m/lemma') =~ /^ať-/
+                    && $anode->{afun} eq 'AuxZ';
         }
         return
     }
