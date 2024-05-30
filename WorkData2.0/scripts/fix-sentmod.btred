@@ -91,6 +91,9 @@ sub sentmod {
                 ChangingFile(1);
                 delete $this->{sentmod};
             }
+        } else {
+            print "Keeping\t";
+            FPosition();
         }
     } elsif (exists $FUNC{ $this->{functor} } || $this->{is_dsp_root}) {
         if ('coap' eq $this->{nodetype}) {
