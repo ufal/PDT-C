@@ -74,13 +74,13 @@ sub sentmod {
                         $top = $top->parent;
                     }
                     if (! $top->{is_dsp_root} || 'coap' ne $top->{nodetype}) {
-                        print "dsp_root\t";
+                        print "Deleting: not member of is_dsp_root.coap\t";
                         FPosition();
                         ChangingFile(1);
                         delete $this->{sentmod};
                     }
                 } else {
-                    print "no dsp\t";
+                    print "Deleting: not is_dsp_root\t";
                     FPosition();
                     ChangingFile(1);
                     delete $this->{sentmod};
@@ -88,7 +88,7 @@ sub sentmod {
 
             }
             if ($this->{nodetype} eq 'coap') {
-                print "coap\t";
+                print "Deleting: coap should distribute sentmod\t";
                 FPosition();
                 ChangingFile(1);
                 delete $this->{sentmod};
@@ -101,11 +101,11 @@ sub sentmod {
         if ('coap' eq $this->{nodetype}) {
             my @ch = PML_T::ExpandCoord($this);
             for my $no_sentmod (grep ! $_->{sentmod}, @ch) {
-                print "no_sentmod_m ", set_sentmod($no_sentmod), "\t";
+                print "Setting member ", set_sentmod($no_sentmod), "\t";
                 FPosition($no_sentmod);
             }
         } else {
-            print "no_sentmod ", set_sentmod($this), ' ',
+            print "Setting ", set_sentmod($this), ' ',
                    exists $FUNC{ $this->{functor} }
                        ? $this->{functor}
                        : 'dsp',
@@ -131,9 +131,10 @@ sub sentmod {
                     && ($top->{sentmod} // 'enunc') eq 'enunc'
                     && 1 == grep should_have_sentmod($_), $root->descendants
                 ) {
+                    my $old = $top->{sentmod} // 'empty';
                     ChangingFile(1);
                     $top->{sentmod} = $e;
-                    print "Guess $e\t";
+                    print "Set only candidate $e over $old\t";
                     FPosition($top);
                 } elsif ($top->{nodetype} eq 'coap') {
                     my @expanded = grep should_have_sentmod($_),
@@ -143,37 +144,38 @@ sub sentmod {
                     ) {
                         for my $exp (@expanded) {
                             if (($exp->{sentmod} // 'enunc') eq 'enunc') {
+                                my $old = $exp->{sentmod} // 'empty';
                                 ChangingFile(1);
                                 $exp->{sentmod} = $e;
-                                print "Guess multi $e\t";
+                                print "Set multi candidate $e over $old\t";
                                 FPosition($exp);
                             } else {
-                                print "Skip multi $e\t";
+                                print "Cannot set multi $e over $exp->{sentmod}\t";
                                 FPosition($exp);
                             }
                         }
                     } else {
-                        printf "Skip multi %d != %d\t", scalar @expanded,
+                        printf "Cannot set full expansion %d != %d\t", scalar @expanded,
                             scalar grep should_have_sentmod($_),
                                         $root->descendants;
                         FPosition($top);
                     }
                 } else {
                     unless ($e eq 'excl' && $expect{imper}) {
-                        print "NoTop $e: $expect{$e} != ", $set{$e} // 0, "\t";
+                        print "Nowhere to set $e: $expect{$e}\t";
                         FPosition();
                     }
                 }
             } else {
                 unless ($e eq 'excl' && $expect{imper}) {
-                    print "Exp $e: $expect{$e} != ", $set{$e} // 0, "\t";
+                    print "Different number $e: $expect{$e} != ", $set{$e} // 0, "\t";
                     FPosition();
                 }
             }
         }
         for my $s (keys %set) {
             next if $set{$s} == ($expect{$s} // 0);
-            print "Set $s: $set{$s} != ", $expect{$s} // 0, "\t";
+            print "Unexpected set $s: $set{$s} != ", $expect{$s} // 0, "\t";
             FPosition();
         }
     }
