@@ -1,0 +1,67 @@
+#!btred -Te sentmod2
+# -*- mode: cperl; encoding: utf-8 -*-
+use warnings;
+use strict;
+use utf8;
+
+my %FUNCTOR;
+@FUNCTOR{qw{ PRED DENOM PARTL VOCAT PAR ID }} = ();
+
+sub sentmod2 {
+    my %expect;
+    my $aroot = (PML_T::GetANodes($root))[0];
+
+    for my $anode ($aroot->descendants) {
+        my $lemma = $anode->attr('m/lemma');
+        if ('?' eq $lemma) {
+            ++$expect{inter}
+        } elsif ('!' eq $lemma) {
+            ++$expect{imper_excl};
+        } elsif ($lemma =~ /^(?:kéž$|nechť-)/
+                 || $lemma =~ /^ať/ && 'AuxZ' eq $anode->{afun}
+        ) {
+            ++$expect{desid};
+        } elsif ($anode->attr('m/tag') =~ /^Vi/) {
+            ++$expect{imper};
+        }
+    }
+    $expect{enunc} = 1 unless keys %expect;
+
+    my %found;
+    for my $node ($root->descendants) {
+        ++$found{ $node->{sentmod} } if $node->{sentmod};
+
+        if (exists $FUNCTOR{ $node->{functor} } || $node->{is_dsp_root}) {
+            if ('coap' eq $node->{nodetype}) {
+                my @ch = PML_T::ExpandCoord($node);
+                for my $no_sentmod (grep ! $_->{sentmod}, @ch) {
+                    print "Missing sentmod\t";
+                    FPosition($no_sentmod);
+                }
+            } elsif (! $node->{sentmod}) {
+                print "Missing sentmod\t";
+                FPosition($node);
+            }
+        }
+    }
+
+    for my $f (keys %found) {
+        if ($f =~ /^(?:imper|excl)$/) {
+            next if grep $_, @expect{qw{ imper excl imper_excl }};
+        }
+        if (! exists $expect{$f}) {
+            print "Unexpected $f\t";
+            FPosition($root);
+        }
+    }
+    for my $e (keys %expect) {
+        next if 'imper_excl' eq $e
+             && (exists $found{imper}
+                 || exists $found{excl});
+
+        if (! exists $found{$e}) {
+            print "Missing $e\t";
+            FPosition($root);
+        }
+    }
+}
