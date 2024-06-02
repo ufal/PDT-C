@@ -18,14 +18,15 @@ sub sentmod2 {
         } elsif ('!' eq $lemma) {
             ++$expect{imper_excl};
         } elsif ($lemma =~ /^(?:kéž$|nechť-)/
-                 || $lemma =~ /^ať/ && 'AuxZ' eq $anode->{afun}
+                 || $lemma =~ /^ať-/ && 'AuxZ' eq $anode->{afun}
         ) {
             ++$expect{desid};
         } elsif ($anode->attr('m/tag') =~ /^Vi/) {
             ++$expect{imper};
+        } elsif ('.' eq $lemma && 'AuxK' eq $anode->{afun}) {
+            ++$expect{enunc};
         }
     }
-    $expect{enunc} = 1 unless keys %expect;
 
     my %found;
     for my $node ($root->descendants) {
@@ -43,6 +44,11 @@ sub sentmod2 {
                 FPosition($node);
             }
         }
+    }
+
+    if (! keys %found && $root->descendants) {
+        print "No sentmod anywhere\t";
+        FPosition($root);
     }
 
     for my $f (keys %found) {
