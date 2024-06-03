@@ -30,7 +30,37 @@ sub sentmod2 {
 
     my %found;
     for my $node ($root->descendants) {
-        ++$found{ $node->{sentmod} } if $node->{sentmod};
+        if ($node->{sentmod}) {
+            ++$found{ $node->{sentmod} };
+
+            if (! exists $FUNCTOR{ $node->{functor} }) {
+                if (! $node->{is_dsp_root}) {
+                    if ($node->{is_member}) {
+                        my $top = $node->parent;
+                        while ($top->{is_member}
+                               && 'coap' eq $top->{nodetype}
+                               && ! $top->{is_dsp_root}
+                           ) {
+                            $top = $top->parent;
+                        }
+                        if (! $top->{is_dsp_root}
+                            || 'coap' ne $top->{nodetype}
+                        ) {
+                            print "Misplaced sentmod\t";
+                            FPosition($node);
+                        }
+                    } else {
+                        print "Misplaced sentmod\t";
+                        FPosition($node);
+                    }
+
+                }
+                if ($node->{nodetype} eq 'coap') {
+                    print "Misplaced sentmod\t";
+                    FPosition($node);
+                }
+            }
+        }
 
         if (exists $FUNCTOR{ $node->{functor} } || $node->{is_dsp_root}) {
             if ('coap' eq $node->{nodetype}) {
