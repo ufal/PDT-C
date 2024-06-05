@@ -3,10 +3,6 @@
 use warnings;
 use strict;
 
-my $vallex_file = $ENV{VALLEX};
-die "Set env VALLEX=/path/to/vallex" unless $vallex_file && -e $vallex_file;
-my $vallex = 'XML::LibXML'->load_xml(location => $vallex_file);
-
 sub noframe {
     return if $root == $this;
 
