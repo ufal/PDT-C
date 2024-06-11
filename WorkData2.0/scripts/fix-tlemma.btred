@@ -132,24 +132,43 @@ my %CHECK_LEMMA = (
 
 sub fix_tlemma {
     return if $root == $this
-           || 'complex' ne $this->{nodetype}
-           || ! exists $PROTO_LEMMA{ $this->{t_lemma} };
+           || 'complex' ne $this->{nodetype};
 
-    $this->{proto_lemma} = $this->{t_lemma};
-    my $alex = PML_T::GetALexNode($this);
-    if (! $alex) {
-        print "No alex node!\t";
+    if (exists $PROTO_LEMMA{ $this->{t_lemma} }) {
+        $this->{proto_lemma} = $this->{t_lemma};
+        my $alex = PML_T::GetALexNode($this);
+        if (! $alex) {
+            print "No alex node!\t";
+            FPosition();
+            return
+        }
+
+        my $mlemma = $alex->attr('m/lemma');
+        $mlemma =~ s/(?<=.)[-`_].*//;
+        if (exists $CHECK_LEMMA{ $this->{proto_lemma} }) {
+            my $ok = $mlemma =~ $CHECK_LEMMA{ $this->{proto_lemma} };
+            print $ok ? 'OK' : 'Different', "\t";
+        }
+        print $this->{proto_lemma}, '->', $mlemma, "\t";
         FPosition();
-        return
-    }
-    my $mlemma = $alex->attr('m/lemma');
-    $mlemma =~ s/(?<=.)[-`_].*//;
-    if (exists $CHECK_LEMMA{ $this->{proto_lemma} }) {
-        my $ok = $mlemma =~ $CHECK_LEMMA{ $this->{proto_lemma} };
-        print $ok ? 'OK' : 'Different', "\t";
-    }
-    print $this->{proto_lemma}, '->', $mlemma, "\t";
-    FPosition();
 
-    # Deadj adverbia!
+    } elsif ($this->{t_lemma} =~ /[ýí]$/) {
+        my $alex = PML_T::GetALexNode($this);
+        if (! $alex) {
+            print "No alex node!\t";
+            FPosition();
+            return
+        }
+
+        return unless $alex->attr('m/tag') =~ /^D/;
+
+        my $mlemma = $alex->attr('m/lemma');
+        $mlemma =~ s/(?<=.)[-`_].*//;
+        $this->{proto_lemma} = $this->{t_lemma};
+        $this->{t_lemma} = $mlemma;
+        print "DEADJ\t", $this->{proto_lemma}, '->', $mlemma,
+              '(', $this->{functor}, ")\t";
+        FPosition();
+    }
+
 }
