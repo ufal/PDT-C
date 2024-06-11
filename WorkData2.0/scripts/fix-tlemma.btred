@@ -4,6 +4,8 @@ use warnings;
 use strict;
 use utf8;
 
+my $force = 0; # Set to ChangingFile().
+
 my %PROTO_LEMMA;
 @PROTO_LEMMA{qw{ bezpočet co čtrnáct čtyři čtyřicet deset devadesát devatenáct
                  devět devětadevadesát devětapadesát devětatřicet dva
@@ -158,12 +160,12 @@ sub fix_tlemma {
                 $state = 'Replaced';
                 $this->{proto_lemma} = $this->{t_lemma};
                 $this->{t_lemma} = $tlemma;
-                ChangingFile(1);
+                ChangingFile($force);
 
             } elsif (exists $KEEP{ $this->{t_lemma} }{$tlemma}) {
                 $state = "Exception ($tlemma)";
                 $this->{proto_lemma} = $this->{t_lemma};
-                ChangingFile(1);
+                ChangingFile($force);
 
             } else{
                 $state = "Unknown combination ($tlemma)";
@@ -186,16 +188,24 @@ sub fix_tlemma {
             return
         }
 
-        return unless $alex->attr('m/tag') =~ /^D/;
+        return if $alex->attr('m/tag') !~ /^D/
+               || $this->{functor} !~ /^(?:MANN|MEANS|REG|EXT
+                                           |T.*|DIR[123]|LOC|CAUS|CPR|COND
+                                           |RESL|DIFF|CRIT)$/x;
 
         my $mlemma = $alex->attr('m/lemma');
         $mlemma =~ s/(?<=.)[-`_].*//;
-        $this->{proto_lemma} = $this->{t_lemma};
-        $this->{t_lemma} = $mlemma;
-        ChangingFile(1);
-        print "DEADJ\t", $this->{proto_lemma}, '->', $mlemma,
-              '(', $this->{functor}, ")\t";
-        FPosition();
+        if ($mlemma ne $this->{t_lemma}) {
+            $this->{proto_lemma} = $this->{t_lemma};
+            $this->{t_lemma} = $mlemma;
+            ChangingFile($force);
+            print "DEADJ\t", $this->{proto_lemma}, '->', $mlemma,
+                '(', $this->{functor}, ")\t";
+            FPosition();
+        } else {
+            print "DEADJ no_change\t", $this->{t_lemma}, '->', $mlemma,
+                '(', $this->{functor}, ")\t";
+            FPosition();
+        }
     }
-
 }
