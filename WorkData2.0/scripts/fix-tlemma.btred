@@ -1,0 +1,155 @@
+#!btred -NTe fix_tlemma()
+# -*- mode: cperl; encoding: utf-8 -*-
+use warnings;
+use strict;
+use utf8;
+
+my %PROTO_LEMMA;
+@PROTO_LEMMA{qw{ bezpočet co čtrnáct čtyři čtyřicet deset devadesát devatenáct
+                 devět devětadevadesát devětapadesát devětatřicet dva
+                 dvaadvacet dvaasedmdesát dvacet dvanáct jak jaký jeden
+                 jedenáct jedenašedesát kde kdo kdy kolik který málo mnoho
+                 nejeden onak onaký onde onehdá onehdy onen osm osmašedesát
+                 osmatřicet osmdesát osmnáct padesát pár patnáct pět
+                 pětačtyřicet pětadvacet pětasedmdesát potom proč proto
+                 předtím sám samý sedm sedmapadesát sedmasedmdesát sedmatřicet
+                 sedmdesát sedmnáct sto šedesát šest šestnáct tady tadyhleten
+                 tak takový takovýhle tam tamhle támhleten tamten tamtéž teď
+                 tehdy ten tenhle tenhleten tenkrát tento tentýž tisíc tolik
+                 tolikéž tolikhle tři třiaosmdesát třicet třináct tuhle
+                 tuhleten tytam týž bydlit bydlet být číst hrát jezdit končit
+                 mít psát říkat sedat slyšet }} = ();
+
+my %CHECK_LEMMA = (
+    bezpočet => qr/^(?:bezpočtukrát)$/,
+    co => qr/^(?:co|což|něco|cosi|cos|cokoli|cokoliv|cožkoli|cožkoliv|ledaco|lecco|leccos|ledacos|ledasco|kdeco|bůhvíco|copak|cožpak|cože|nic|všechen|všechno|vše|všecek|máloco|sotvaco|zřídkaco|všelico|všelicos|nevímco|kdovíco|čertvíco)$/,
+    čtrnáct => qr/^(?:čtrnáct|čtrnáctý|čtrnáctkrát)$/,
+    čtyři => qr/^(?:čtyři|čtvrtý|čtyřikrát|počtvrté|čtvrtina)$/,
+    čtyřicet => qr/^(?:čtyřicet|čtyřicátý)$/,
+    deset => qr/^(?:deset|desátý|desetkrát|podesáté|desetina)$/,
+    devadesát => qr/^(?:devadesát|devadesátý)$/,
+    devatenáct => qr/^(?:devatenáct|devatenáctý)$/,
+    devět => qr/^(?:devět|devátý|devětkrát)$/,
+    devětadevadesát => qr/^(?:devětadevadesát|devětadevadesátý)$/,
+    devětapadesát => qr/^(?:devětapadesát|devětapadesátý)$/,
+    devětatřicet => qr/^(?:devětatřicet|devětatřicátý)$/,
+    dva => qr/^(?:dva|druhý|dvakrát|podruhé)$/,
+    dvaadvacet => qr/^(?:dvaadvacet|dvaadvacátý)$/,
+    dvaasedmdesát => qr/^(?:dvaasedmdesátý)$/,
+    dvacet => qr/^(?:dvacet|dvacátý|dvacetkrát)$/,
+    dvanáct => qr/^(?:dvanáct|dvanáctý|dvanáctkrát|podvanácté)$/,
+    jak => qr/^(?:jak|nějak|jaksi|jakkoli|jakkoliv|ledajak|lecjak|ledasjak|všelijak|nevímjak|kdovíjak|bůhvíjak)$/,
+    jakpak => qr/^(?:nijak|čertvíjak|jakže)$/,
+    jaký => qr/^(?:jaký|jakýž|jakýs|nějaký|jakýsi|jakýkoli|jakýkoliv|ledajaký|lecjaký|kdejaký|málojaký|sotvajaký|zřídkajaký|všelijaký|nevímjaký|kdovíjaký|bůhvíjaký|nijaký|jakýpak|čertvíjaký)$/,
+    jeden => qr/^(?:jeden|první|prvý|jednou|jedenkrát|jedinkrát|poprvé)$/,
+    jedenáct => qr/^(?:jedenáct|jedenáctý|jedenáctkrát|pojedenácté)$/,
+    jedenašedesát => qr/^(?:jedenašedesát|jedenašedesátý)$/,
+    kde => qr/^(?:kde|odkud|kudy|kam|někde|odněkud|někudy|někam|kdesi|odkudsi|kudysi|kamsi|kdekoli|kdekoliv|odkudkoli|odkudkoliv|kudykoli|kudykoliv|kamkoli|kamkoliv|ledakde|leckde|ledaskde|leckdes|málokde|sotvakde|zřídkakde|všelikde|nevímkde|kdovíkde|bůhvíkde|kdepak|kampak|kamže|nikde|odnikud|nikudy|nikam|všude|všade|odevšad|odevšud|všudy|všady|čertvíkde|kdeže)$/,
+    kdo => qr/^(?:kdo|kdož|někdo|kdosi|kdos|kdokoli|kdokoliv|ledakdo|leckdo|ledakdos|ledaskdo|kdekdo|kdopak|kdožpak|kdože|nikdo|všechen|všecek|čí|něčí|čísi|číkoli|ledačí|kdečí|máločí|ničí|málokdo|sotvakdo|zřídkakdo|všelikdo|nevímkdo|kdovíkdo|bůhvíkdo|čertvíkdo)$/,
+    kdy => qr/^(?:kdy|odkdy|dokdy|dokud|někdy|kdysi|kdykoli|kdykoliv|ledakdy|leckdy|ledaskdy|málokdy|sotvakdy|zřídkakdy|všelikdy|nevímkdy|kdovíkdy|bůhvíkdy|kdypak|kdyže|nikdy|vždy|vždycky|navždy|navždycky|čertvíkdy)$/,
+    kolik => qr/^(?:kolik|kolikero|kolikery|kolikerý|kolikátý|několik|několikero|několikery|několikerý|několikátý|kdovíkolik|bůhvíkolik|čertvíkolik|nevímkolik|kdovíkolikero|bůhvíkolikero|čertvíkolikero|nevímkolikero|kdovíkolikery|bůhvíkolikery|čertvíkolikery|nevímkolikery|kdovíkolikerý|bůhvíkolikerý|čertvíkolikerý|nevímkolikerý|kdovíkolikátý|bůhvíkolikátý|čertvíkolikátý|nevímkolikátý|kolikrát|pokolikáté|několikrát|poněkolikáté|kdovíkolikrát|bůhvíkolikrát|čertvíkolikrát|nevímkolikrát|pokdovíkolikáté|pobůhvíkolikáté|počertvíkolikáté|ponevímkolikáté)$/,
+    který => qr/^(?:který|jenž|kterýž|některý|kterýsi|kterýkoli|kterýkoliv|ledakterý|leckterý|kdekterý|málokterý|sotvakterý|zřídkakterý|všelikterý|nevímkterý|bůhvíkterý|kterýpak|žádný|každý|čertvíkterý|všechen|veškerý|všecek)$/,
+    málo => qr/^(?:málo|málokrát)$/,
+    mnoho => qr/^(?:mnoho|mnohokrát|vícekrát|víckrát)$/,
+    nejeden => qr/^(?:nejednou)$/,
+    onak => qr/^(?:onak)$/,
+    onaký => qr/^(?:onaký)$/,
+    onde => qr/^(?:onde)$/,
+    onehdá => qr/^(?:onehdá)$/,
+    onehdy => qr/^(?:onehdy)$/,
+    onen => qr/^(?:onen)$/,
+    osm => qr/^(?:osm|osmý|osmkrát)$/,
+    osmašedesát => qr/^(?:osmašedesát|osmašedesátý)$/,
+    osmatřicet => qr/^(?:osmatřicet|osmatřicátý)$/,
+    osmdesát => qr/^(?:osmdesát|osmdesátý)$/,
+    osmnáct => qr/^(?:osmnáct|osmnáctý)$/,
+    padesát => qr/^(?:padesát|padesátý)$/,
+    pár => qr/^(?:pár|párkrát)$/,
+    patnáct => qr/^(?:patnáct|patnáctý|patnáctkrát|popatnácté)$/,
+    pět => qr/^(?:pět|pátý|pětkrát|popáté|pětina)$/,
+    pětačtyřicet => qr/^(?:pětačtyřicet|pětačtyřicátý)$/,
+    pětadvacet => qr/^(?:pětadvacet|pětadvacátý)$/,
+    pětasedmdesát => qr/^(?:pětasedmdesát|pětasedmdesátý)$/,
+    potom => qr/^(?:potom|pak|poté)$/,
+    proč => qr/^(?:proč|pročpak)$/,
+    proto => qr/^(?:proto)$/,
+    předtím => qr/^(?:předtím)$/,
+    sám => qr/^(?:sám)$/,
+    samý => qr/^(?:samý)$/,
+    sedm => qr/^(?:sedm|sedmý|sedmkrát|posedmé)$/,
+    sedmapadesát => qr/^(?:sedmapadesát|sedmapadesátý)$/,
+    sedmasedmdesát => qr/^(?:sedmasedmdesát|sedmasedmdesátý)$/,
+    sedmatřicet => qr/^(?:sedmatřicet|sedmatřicátý)$/,
+    sedmdesát => qr/^(?:sedmdesát|sedmdesátý|sedmdesátina)$/,
+    sedmnáct => qr/^(?:sedmnáct|sedmnáctý)$/,
+    sto => qr/^(?:sto|stý|stokrát|posté|setina)$/,
+    šedesát => qr/^(?:šedesát|šedesátý)$/,
+    šest => qr/^(?:šest|šestý|šestkrát|pošesté|šestina)$/,
+    šestnáct => qr/^(?:šestnáct|šestnáctý|pošestnácté)$/,
+    tady => qr/^(?:tady|zde|tu|odtud|odsud|tudy|sem|potud|posud)$/,
+    tadyhleten => qr/^(?:tadyhleten)$/,
+    tak => qr/^(?:tak)$/,
+    takový => qr/^(?:takový|taký|takýs|takovýto)$/,
+    takovýhle => qr/^(?:takovýhle)$/,
+    tam => qr/^(?:tam|odtamtud|tamtudy)$/,
+    tamhle => qr/^(?:tamhle)$/,
+    tamhleten => qr/^(?:tamhleten)$/,
+    tamten => qr/^(?:tamten)$/,
+    tamtéž => qr/^(?:tamtéž)$/,
+    teď => qr/^(?:teď|nyní|tu|odteď|doteď|doposud|potud|posud)$/,
+    tehdy => qr/^(?:tehdy)$/,
+    ten => qr/^(?:ten)$/,
+    tenhle => qr/^(?:tenhle)$/,
+    tenhleten => qr/^(?:tenhleten)$/,
+    tenkrát => qr/^(?:tenkrát)$/,
+    tento => qr/^(?:tento)$/,
+    tentýž => qr/^(?:tentýž)$/,
+    tisíc => qr/^(?:tisíc|tisící|tisíckrát)$/,
+    tolik => qr/^(?:tolik|tolikery|tolikerý|tolikátý|tolikrát|potolikáté)$/,
+    tolikéž => qr/^(?:tolikéž)$/,
+    tolikhle => qr/^(?:tolikhle)$/,
+    tři => qr/^(?:tři|třetí|třikrát|potřetí|třetina)$/,
+    třiaosmdesát => qr/^(?:třiaosmdesát|třiaosmdesátý)$/,
+    třicet => qr/^(?:třicet|třicátý)$/,
+    třináct => qr/^(?:třináct|třináctý|třináctkrát)$/,
+    tuhle => qr/^(?:tuhle)$/,
+    tuhleten => qr/^(?:tuhleten)$/,
+    tytam => qr/^(?:tytam)$/,
+    týž => qr/^(?:týž)$/,
+    bydlit => qr/^(?:bydlívat|bydlet)$/,
+    bydlet => qr/^(?:bydlívat|bydlet)$/,
+    být => qr/^(?:bývat|bývávat|být)$/,
+    číst => qr/^(?:čítávat|číst)$/,
+    hrát => qr/^(?:hrávat|hrát)$/,
+    jezdit => qr/^(?:jezdívat|jezdit)$/,
+    končit => qr/^(?:končívat|končit)$/,
+    mít => qr/^(?:mívat|mít)$/,
+    psát => qr/^(?:psávat|psát)$/,
+    říkat => qr/^(?:říkávat|říkat)$/,
+    sedat => qr/^(?:sedávat|sedat)$/,
+    slyšet => qr/^(?:slýchávat|slyšet)$/,
+);
+
+sub fix_tlemma {
+    return if $root == $this
+           || 'complex' ne $this->{nodetype}
+           || ! exists $PROTO_LEMMA{ $this->{t_lemma} };
+
+    $this->{proto_lemma} = $this->{t_lemma};
+    my $alex = PML_T::GetALexNode($this);
+    if (! $alex) {
+        print "No alex node!\t";
+        FPosition();
+        return
+    }
+    my $mlemma = $alex->attr('m/lemma');
+    $mlemma =~ s/(?<=.)[-`_].*//;
+    if (exists $CHECK_LEMMA{ $this->{proto_lemma} }) {
+        my $ok = $mlemma =~ $CHECK_LEMMA{ $this->{proto_lemma} };
+        print $ok ? 'OK' : 'Different', "\t";
+    }
+    print $this->{proto_lemma}, '->', $mlemma, "\t";
+    FPosition();
+
+    # Deadj adverbia!
+}
