@@ -130,12 +130,19 @@ my %CHECK_LEMMA = (
     slyšet => qr/^(?:slýchávat|slyšet)$/,
 );
 
+my %KEEP = (málo   => {méně  => undef},
+            který  => {jehož => undef},
+            říkat  => {řikat => undef},
+            který  => {kerý  => undef},
+            čtyři  => {čtyry => undef},
+            tenhle => {tenle => undef});
+
 sub fix_tlemma {
+    ChangingFile(0);
     return if $root == $this
            || 'complex' ne $this->{nodetype};
 
     if (exists $PROTO_LEMMA{ $this->{t_lemma} }) {
-        $this->{proto_lemma} = $this->{t_lemma};
         my $alex = PML_T::GetALexNode($this);
         if (! $alex) {
             print "No alex node!\t";
@@ -143,13 +150,32 @@ sub fix_tlemma {
             return
         }
 
-        my $mlemma = $alex->attr('m/lemma');
-        $mlemma =~ s/(?<=.)[-`_].*//;
-        if (exists $CHECK_LEMMA{ $this->{proto_lemma} }) {
-            my $ok = $mlemma =~ $CHECK_LEMMA{ $this->{proto_lemma} };
-            print $ok ? 'OK' : 'Different', "\t";
+        my $tlemma = $alex->attr('m/lemma');
+        $tlemma =~ s/(?<=.)[-`_].*//;
+        my $state;
+        if (exists $CHECK_LEMMA{ $this->{t_lemma} }) {
+            if ($tlemma =~ $CHECK_LEMMA{ $this->{t_lemma} }) {
+                $state = 'Replaced';
+                $this->{proto_lemma} = $this->{t_lemma};
+                $this->{t_lemma} = $tlemma;
+                ChangingFile(1);
+
+            } elsif (exists $KEEP{ $this->{t_lemma} }{$tlemma}) {
+                $state = "Exception ($tlemma)";
+                $this->{proto_lemma} = $this->{t_lemma};
+                ChangingFile(1);
+
+            } else{
+                $state = "Unknown combination ($tlemma)";
+            }
+
+        } else {
+            $state = "Unknown t_lemma $tlemma";
         }
-        print $this->{proto_lemma}, '->', $mlemma, "\t";
+        print join "\t", $state,
+                         ($this->{proto_lemma} // '(null)')
+                             . '->' . $this->{t_lemma},
+                         "";
         FPosition();
 
     } elsif ($this->{t_lemma} =~ /[ýí]$/) {
@@ -166,6 +192,7 @@ sub fix_tlemma {
         $mlemma =~ s/(?<=.)[-`_].*//;
         $this->{proto_lemma} = $this->{t_lemma};
         $this->{t_lemma} = $mlemma;
+        ChangingFile(1);
         print "DEADJ\t", $this->{proto_lemma}, '->', $mlemma,
               '(', $this->{functor}, ")\t";
         FPosition();
