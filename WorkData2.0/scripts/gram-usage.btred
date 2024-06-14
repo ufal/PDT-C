@@ -1,0 +1,14 @@
+#!btred -NTe gram_usage()
+# -*- mode: cperl -*-
+use warnings;
+use strict;
+
+sub gram_usage {
+    return if $root == $this || $this->{nodetype} ne 'complex';
+
+    my $gram = $this->{gram};
+    my @grammatemes = sort keys %$gram;
+    print join "\t", scalar @grammatemes, join(',', @grammatemes), "";
+    FPosition();
+}
+
