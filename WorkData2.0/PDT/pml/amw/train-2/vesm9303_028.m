@@ -482,8 +482,8 @@
 <LM>w#w-vesm9303-028-p2s2w20</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-028-p2s2w21">
 <src.rf>manual</src.rf>

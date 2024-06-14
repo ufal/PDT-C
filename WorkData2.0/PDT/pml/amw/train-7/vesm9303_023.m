@@ -2000,7 +2000,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-023-p3s3w20">
 <src.rf>manual</src.rf>
@@ -3801,7 +3801,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-023-p5s1w19">
 <src.rf>manual</src.rf>
@@ -4543,7 +4543,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-023-p5s3w25">
 <src.rf>manual</src.rf>

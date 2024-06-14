@@ -4294,8 +4294,8 @@
 <LM>w#w-mf920924-084-p2s29Bw11</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920924-084-p2s29Bw12">
 <src.rf>manual</src.rf>
@@ -4495,7 +4495,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920924-084-p2s30w21">
 <src.rf>manual</src.rf>

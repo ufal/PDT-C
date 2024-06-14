@@ -1727,8 +1727,8 @@
 <LM>w#w-vesm9303-008-p1s11w11</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-008-p1s11w12">
 <src.rf>manual</src.rf>
@@ -3699,7 +3699,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-008-p1s24w20">
 <src.rf>manual</src.rf>

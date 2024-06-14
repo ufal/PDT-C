@@ -1685,7 +1685,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-025-p4s5w10">
 <src.rf>manual</src.rf>
@@ -1993,8 +1993,8 @@
 <w.rf>
 <LM>w#w-vesm9303-025-p5s1w15</LM>
 </w.rf>
-<form>></form>
-<lemma>></lemma>
+<form>&gt;</form>
+<lemma>&gt;</lemma>
 <tag>Z:-------------</tag>
 </m>
 <m id="m-vesm9303-025-p5s1w16">
@@ -4168,8 +4168,8 @@
 <w.rf>
 <LM>w#w-vesm9303-025-p11s6w3</LM>
 </w.rf>
-<form>></form>
-<lemma>></lemma>
+<form>&gt;</form>
+<lemma>&gt;</lemma>
 <tag>Z:-------------</tag>
 </m>
 <m id="m-vesm9303-025-p11s6w4">

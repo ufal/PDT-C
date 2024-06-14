@@ -2757,8 +2757,8 @@
 <LM>w#w-vesm9301-024-p8s3w2</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9301-024-p8s3w3">
 <src.rf>manual</src.rf>

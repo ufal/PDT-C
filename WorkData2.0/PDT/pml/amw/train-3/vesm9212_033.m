@@ -3908,7 +3908,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9212-033-p4s4w3">
 <src.rf>manual</src.rf>

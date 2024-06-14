@@ -1495,8 +1495,8 @@
 <LM>w#w-mf920923-104-p4s1w13</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920923-104-p4s1w14">
 <src.rf>manual</src.rf>
@@ -3372,8 +3372,8 @@
 <LM>w#w-mf920923-104-p7s4w1</LM>
 </w.rf>
 <form>Hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920923-104-p7s4w2">
 <src.rf>manual</src.rf>
@@ -4016,7 +4016,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920923-104-p8s2w11">
 <src.rf>manual</src.rf>
@@ -5302,8 +5302,8 @@
 <LM>w#w-mf920923-104-p11s3w2</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920923-104-p11s3w3">
 <src.rf>manual</src.rf>

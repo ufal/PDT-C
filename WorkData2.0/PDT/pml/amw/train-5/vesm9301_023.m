@@ -1672,8 +1672,8 @@
 <LM>w#w-vesm9301-023-p3s4w14</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9301-023-p3s4w15">
 <src.rf>manual</src.rf>

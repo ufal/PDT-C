@@ -1017,7 +1017,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920924-151-p1s6w3">
 <src.rf>manual</src.rf>
@@ -1147,7 +1147,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920924-151-p1s8w3">
 <src.rf>manual</src.rf>

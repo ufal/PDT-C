@@ -3937,7 +3937,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-020-p12s7w16">
 <src.rf>manual</src.rf>
@@ -4515,7 +4515,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-020-p13s5w2">
 <src.rf>manual</src.rf>
@@ -6069,8 +6069,8 @@
 <LM>w#w-vesm9211-020-p15s7w20</LM>
 </w.rf>
 <form>to</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-vesm9211-020-p15s7w21">
 <src.rf>manual</src.rf>
@@ -10167,7 +10167,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-020-p22s1w10">
 <src.rf>manual</src.rf>

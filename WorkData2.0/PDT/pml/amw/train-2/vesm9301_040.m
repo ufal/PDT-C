@@ -327,8 +327,8 @@
 <LM>w#w-vesm9301-040-p2s1w30</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9301-040-p2s1w31">
 <src.rf>manual</src.rf>
@@ -563,8 +563,8 @@
 <LM>w#w-vesm9301-040-p2s3w12</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9301-040-p2s3w13">
 <src.rf>manual</src.rf>

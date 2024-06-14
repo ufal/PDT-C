@@ -1629,7 +1629,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-051-p4s1w21">
 <src.rf>manual</src.rf>
@@ -1757,7 +1757,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-051-p4s2w8">
 <src.rf>manual</src.rf>
@@ -6079,7 +6079,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-051-p9s3w7">
 <src.rf>manual</src.rf>

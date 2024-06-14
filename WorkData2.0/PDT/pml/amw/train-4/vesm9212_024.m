@@ -1204,7 +1204,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9212-024-p3s6w2">
 <src.rf>manual</src.rf>
@@ -6857,7 +6857,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9212-024-p7s18w15">
 <src.rf>manual</src.rf>

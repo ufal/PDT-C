@@ -518,7 +518,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-004-p3s5w3">
 <src.rf>manual</src.rf>
@@ -1404,8 +1404,8 @@
 <LM>w#w-vesm9211-004-p5s3w4</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9211-004-p5s3w5">
 <src.rf>manual</src.rf>

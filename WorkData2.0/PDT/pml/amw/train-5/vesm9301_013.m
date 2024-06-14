@@ -130,7 +130,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9301-013-p2s1w7">
 <src.rf>manual</src.rf>
@@ -2766,7 +2766,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9301-013-p6s1w14">
 <src.rf>manual</src.rf>

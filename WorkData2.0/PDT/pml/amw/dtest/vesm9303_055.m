@@ -2012,7 +2012,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-055-p4s3w2">
 <src.rf>manual</src.rf>
@@ -3078,7 +3078,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-055-p4s9w17">
 <src.rf>manual</src.rf>
@@ -3177,7 +3177,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-055-p4s9w28">
 <src.rf>manual</src.rf>
@@ -3251,7 +3251,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-055-p4s10w5">
 <src.rf>manual</src.rf>

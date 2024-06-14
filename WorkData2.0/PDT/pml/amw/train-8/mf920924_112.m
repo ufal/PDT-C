@@ -423,8 +423,8 @@
 <LM>w#w-mf920924-112-p3s3w3</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920924-112-p3s3w4">
 <src.rf>manual</src.rf>

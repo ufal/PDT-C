@@ -968,7 +968,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9212-023-p3s2w22">
 <src.rf>manual</src.rf>
@@ -1968,7 +1968,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9212-023-p3s7w12">
 <src.rf>manual</src.rf>

@@ -1938,7 +1938,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9212-028-p4s5w18">
 <src.rf>manual</src.rf>

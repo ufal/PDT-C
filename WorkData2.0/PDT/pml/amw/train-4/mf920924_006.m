@@ -568,7 +568,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920924-006-p1s5w2">
 <src.rf>manual</src.rf>
@@ -927,7 +927,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920924-006-p1s8w2">
 <src.rf>manual</src.rf>

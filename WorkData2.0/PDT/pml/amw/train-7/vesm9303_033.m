@@ -2018,7 +2018,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-033-p3s6w10">
 <src.rf>manual</src.rf>

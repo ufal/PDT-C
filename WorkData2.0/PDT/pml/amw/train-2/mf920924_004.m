@@ -441,8 +441,8 @@
 <LM>w#w-mf920924-004-p2s3w6</LM>
 </w.rf>
 <form>hlavně</form>
-<lemma>hlavně_^(*1í)</lemma>
-<tag>Dg-------1A----</tag>
+<lemma>hlavně-2</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920924-004-p2s3w7">
 <src.rf>manual</src.rf>
@@ -2724,7 +2724,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf920924-004-p2s15w26">
 <src.rf>manual</src.rf>

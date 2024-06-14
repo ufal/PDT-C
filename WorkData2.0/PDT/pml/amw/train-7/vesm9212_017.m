@@ -3248,7 +3248,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9212-017-p6s1w3">
 <src.rf>manual</src.rf>
@@ -4703,8 +4703,8 @@
 <LM>w#w-vesm9212-017-p6s4w19</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9212-017-p6s4w20">
 <src.rf>manual</src.rf>
@@ -6642,7 +6642,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9212-017-p7s6w3">
 <src.rf>manual</src.rf>
@@ -7584,7 +7584,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9212-017-p8s3w17">
 <src.rf>manual</src.rf>

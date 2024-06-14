@@ -1552,7 +1552,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9301-033-p4s2w4">
 <src.rf>manual</src.rf>

@@ -964,7 +964,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9303-022-p1s5w2">
 <src.rf>manual</src.rf>
