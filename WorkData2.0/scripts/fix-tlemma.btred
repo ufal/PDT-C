@@ -132,12 +132,17 @@ my %CHECK_LEMMA = (
     slyšet => qr/^(?:slýchávat|slyšet)$/,
 );
 
-my %KEEP = (málo   => {méně  => undef},
-            který  => {jehož => undef},
-            říkat  => {řikat => undef},
-            který  => {kerý  => undef},
-            čtyři  => {čtyry => undef},
-            tenhle => {tenle => undef});
+my %KEEP = (čtyři      => {čtyry  => undef},
+            málo       => {méně   => undef},
+            mnoho      => {mn     => undef},
+            kdo        => {vš     => 'všichni'},
+            který      => {jehož  => undef,
+                           kerý   => undef},
+            říkat      => {řikat  => undef},
+            tadyhleten => {ten    => undef},
+            tenhle     => {tenle  => undef},
+            tenhleten  => {tenhle => undef,
+                           ten    => undef});
 
 sub fix_tlemma {
     ChangingFile(0);
@@ -164,7 +169,14 @@ sub fix_tlemma {
 
             } elsif (exists $KEEP{ $this->{t_lemma} }{$tlemma}) {
                 $state = "Exception ($tlemma)";
-                $this->{proto_lemma} = $this->{t_lemma};
+                if (defined $KEEP{ $this->{t_lemma} }->{$tlemma}) {
+                    $this->{proto_lemma} = $this->{t_lemma};
+                    $this->{t_lemma} = $KEEP{ $this->{t_lemma} }->{$tlemma};
+                } else {
+                    $this->{proto_lemma} = $this->{t_lemma};
+
+                }
+
                 ChangingFile($force);
 
             } else{
