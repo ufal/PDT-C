@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tred_extension xmlns="http://ufal.mff.cuni.cz/pdt/pml/" install_size="22788565">
+<tred_extension xmlns="http://ufal.mff.cuni.cz/pdt/pml/" install_size="22983996">
   <head>
     <schema href="tred_extension_schema.xml"/>
   </head>
   <pkgname>pdtc10</pkgname>
   <repository href="http://ufal.mff.cuni.cz/tred/extensions/core/"/>
   <title>Prague Dependency Treebank - Consolidated 1.0</title>
-  <version>1.23</version>
-  <copyright year="2023">Jiří Mírovský, Jan Štěpánek, Petr Pajas, Zdeněk Žabokrtský</copyright>
+  <version>1.24</version>
+  <copyright year="2023-2024">Jiří Mírovský, Jan Štěpánek, Petr Pajas, Zdeněk Žabokrtský</copyright>
   <icon>icons/logo.png</icon>
   <require>
     <extension name="pdt20" href="http://ufal.mff.cuni.cz/tred/extensions/core/pdt20"/>
