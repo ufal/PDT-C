@@ -147,7 +147,9 @@ sub get_value_line_hook {
   }
   
   my @out;
-  my @colors = qw(#ff00ff #ffa500 #0000ff #3cb371 #ff0000 #9932cc #00008b #006400 #8b0000 #008b8b);
+  my @colors = do { no warnings 'qw';
+                    qw(#ff00ff #ffa500 #0000ff #3cb371 #ff0000 #9932cc
+                          #00008b #006400 #8b0000 #008b8b) };
   foreach $node (sort { $a->{ord} <=> $b->{ord} } @sent) {
     my $token = join(" ", map { $_->{token} } ListV($node->attr('m/w')));
     my $form = $node->attr('m/form');
