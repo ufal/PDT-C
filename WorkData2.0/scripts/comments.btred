@@ -10,7 +10,12 @@ sub mcomment {
         print join ',',
               map "$_->{type}:" . ($_->{text} // ""),
               ListV($this->attr('comments'));
-        print "\t";
+        print join "\t", "",
+                         $this->attr('m/form'),
+                         $this->{afun},
+                         $this->attr('m/lemma'),
+                         $this->attr('m/tag'),
+                         "";
         FPosition();
     }
 }

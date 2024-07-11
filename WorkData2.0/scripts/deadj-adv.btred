@@ -14,7 +14,7 @@ sub deadj_adv {
     return unless (0 == index $tag, 'D')
               && $lemma =~ /\*.*[ýí]\)/;
     print join ' ', $lemma, $tag,
-          map $this->attr($_) // '-', qw( t_lemma functor gram/sempos );
+          map $this->attr($_) // '-', qw( t_lemma functor gram/sempos m/form );
     print "\t";
     FPosition();
 }
