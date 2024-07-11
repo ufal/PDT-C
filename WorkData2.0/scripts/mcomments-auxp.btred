@@ -1,0 +1,42 @@
+#!btred -TNe mcomments_auxp()
+# -*- mode: cperl, encoding: utf-8 -*-
+use warnings;
+use strict;
+
+# --knit ALL
+$main::reffiles_to_save = 'ALL';
+
+my %fix = (
+    zásluhou        => ['zásluhou'        , '2'],
+    uprostřed       => ['uprostřed-2'     , '2'],
+    vinou           => ['vinou'           , '2'],
+    nedaleko        => ['nedaleko'        , '2'],
+    navzdory        => ['navzdory-1'      , '3'],
+    následkem       => ['následkem'       , '2'],
+    počínaje        => ['počínaje'        , '7'],
+    formou          => ['formou'          , '2'],
+    uvnitř          => ['uvnitř-1'        , '2'],
+    začátkem        => ['začátkem'        , '2'],
+    počátkem        => ['počátkem'        , '2'],
+    koncem          => ['koncem'          , '2'],
+    prostřednictvím => ['prostřednictvím' , '2'],
+);
+
+sub mcomments_auxp {
+    if ($this->{comments}) {
+        return if $this->{afun} ne 'AuxP'
+               || ! exists $fix{ lc $this->attr('m/form') };
+
+        return unless grep $_->{type} eq 'M-layer' && ($_->{text} // "") eq "",
+                           ListV($this->{comments});
+
+        ChangingFile(1);
+        my ($lemma, $case) = @{ $fix{ lc $this->attr('m/form') } };
+        $this->{m}{lemma} = $lemma;
+        $this->{m}{tag} = "RR--$case----------";
+        $this->{comments} = List(
+            grep ! ($_->{type} eq 'M-layer' && ($_->{text} // "") eq ""),
+            ListV($this->{comments})
+        );
+    }
+}
