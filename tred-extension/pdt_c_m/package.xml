@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tred_extension xmlns="http://ufal.mff.cuni.cz/pdt/pml/" install_size="24377399">
+<tred_extension xmlns="http://ufal.mff.cuni.cz/pdt/pml/" install_size="24523348">
   <head>
     <schema href="tred_extension_schema.xml"/>
   </head>
   <pkgname>pdt_c_m</pkgname>
   <repository href="http://ufal.mff.cuni.cz/tred/extensions/external"/>
   <title>PDT-C Morphology Annotation</title>
-  <version>1.32</version>
-  <copyright year="2017-2023">Jan Štěpánek, Eduard Bejček</copyright>
+  <version>1.33</version>
+  <copyright year="2017-2024">Jan Štěpánek, Eduard Bejček</copyright>
 
   <description>
     Support for morphological, analytical, and tectogrammatical
