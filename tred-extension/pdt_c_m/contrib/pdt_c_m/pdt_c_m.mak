@@ -45,7 +45,8 @@ unshift @TrEd::Config::open_types, [
 ] unless $TrEd::Config::open_types[0][0] eq 'PDT-like morphological layer';
 
 my %VALID_TAGS;
-undef @VALID_TAGS{qw(
+undef @VALID_TAGS{ do { no warnings 'qw';
+    qw(
     AAFD7---------- AAFD7----1A---- AAFD7----1A---1 AAFD7----1A---6
     AAFD7----1N---- AAFD7----1N---1 AAFD7----1N---6 AAFD7----2A----
     AAFD7----2A---1 AAFD7----2A---3 AAFD7----2A---6 AAFD7----2A---7
@@ -1562,7 +1563,7 @@ undef @VALID_TAGS{qw(
     P4XP1---------- P4XP4---------- P4ZS2---------3 P4ZS4---------3
     P4ZS2---------4 P4FS1---------6 P4YS4---------6 P4ZS2---------1
     P4ZS4---------1 P4ZS4---------- VsNS----X-NPP-5
-)};
+)}};
 my $NO_ANALYSIS = qr/^X@-+[-01]$/;
 my %VALID_POSITION;
 for my $tag (keys %VALID_TAGS) {
