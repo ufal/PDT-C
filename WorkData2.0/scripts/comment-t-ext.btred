@@ -1,0 +1,30 @@
+#!btred -TNe comment_t_twhen()
+# -*- mode: cperl; encoding: utf-8; -*-
+use warnings;
+use strict;
+use utf8;
+
+# T-lemma comment must be removed from the listed a-layer nodes!
+
+sub comment_t_twhen {
+    return if $root == $this;
+
+    if ('RHEM' eq $this->{functor}) {
+        return unless $this->attr('a/lex.rf');
+
+        my $anode = PML_T::GetALexNode($this);
+        if ('Adv' eq $anode->{afun}
+            && $anode->attr('m/form') =~ /spíše?/i
+            && grep 'T-layer' eq $_->{type}
+                    && "" eq ($_->{text} // ""),
+               ListV($anode->{comments})
+        ) {
+            ChangingFile(1);
+            $this->{functor} = 'EXT';
+            $this->{nodetype} = 'complex';
+            $this->{gram}{sempos} = 'adv.denot.ngrad.nneg';
+            print $anode->{id}, "\t";
+            FPosition();
+        }
+    }
+}
