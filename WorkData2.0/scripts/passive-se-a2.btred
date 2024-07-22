@@ -1,0 +1,44 @@
+#!btred -TNe passive_se()
+use warnings;
+use strict;
+
+# Clean up T-layer comments about missing AuxR.
+# Run this on a-files. Set $PASSIVE_T to the filename of the output of
+# passive-se-t.btred.
+
+die '$PASSIVE_T not set or not a file'
+    unless length $ENV{PASSIVE_T} && -f $ENV{PASSIVE_T};
+
+my %ID;
+open my $in, '<', $ENV{PASSIVE_T} or die $!;
+while (<$in>) {
+    next unless /^Added\t/;
+
+    my $id = (split /\t/)[2];
+    undef $ID{$id};
+}
+
+sub passive_se {
+    return if $this == $root;
+    return unless exists $ID{ $this->{id} };
+
+    if (grep 'T-layer' eq $_->{type} && "" eq ($_->{text} // ""),
+        ListV($this->{comments})
+    ) {
+        $this->{comments} = List(grep 'T-layer' ne $_->{type} || length $_->{text},
+                                      ListV($this->{comments}));
+        print "Removed\t$this->{id}\t";
+        FPosition();
+        ChangingFile(1);
+
+    } else {
+        print "No empty T-layer comment\t";
+        print join ',',
+              map $_->{text},
+              grep 'T-layer' eq $_->{type},
+              ListV($this->{comments});
+        print "\t";
+        FPosition();
+    }
+}
+

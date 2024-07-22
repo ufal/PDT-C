@@ -1,0 +1,44 @@
+#!btred -TNe passive_se()
+use warnings;
+use strict;
+
+# Add mising links to AuxR to t-files.
+# Run this on t-files. Set $PASSOVE_A to the filename of the output of
+# passive-se-a.btred. Feed the output to passive-se-a2.btred.
+
+die '$PASSIVE_A not set or not a file'
+    unless length $ENV{PASSIVE_A} && -f $ENV{PASSIVE_A};
+
+my %ID;
+open my $in, '<', $ENV{PASSIVE_A} or die $!;
+while (<$in>) {
+    my ($ch, $p) = split /\t/;
+    undef $ID{$p}{$ch};
+}
+
+sub passive_se {
+    return if $root == $this;
+
+    return unless $this->attr('a/lex.rf');
+
+    my $anode = PML_T::GetALexNode($this);
+    if (exists $ID{ $anode->{id} }) {
+        if ($this->attr('gram/diatgram') ne 'deagent') {
+            print "Not deagent\t";
+            FPosition();
+            return
+        }
+        my @arf = ListV($this->attr('a/aux.rf'));
+        for my $ch_id (keys %{ $ID{ $anode->{id} } }) {
+            if (grep "a#$ch_id" eq $_, @arf) {
+                print "Already_in $this->{t_lemma}\t";
+                FPosition();
+            } else {
+                ChangingFile(1);
+                $this->{a}{'aux.rf'} = List(@arf, "a#$ch_id");
+                print join "\t", 'Added', $this->{t_lemma}, $ch_id, "";
+                FPosition();
+            }
+        }
+    }
+}

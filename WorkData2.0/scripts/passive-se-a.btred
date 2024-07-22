@@ -1,0 +1,29 @@
+#!btred -TNe passive_se()
+use warnings;
+use strict;
+
+# Find AuxR which should be linked from t-layer.
+# Run this on a-files. Feed the output to passive-se-t.btred.
+
+sub passive_se {
+    return if $this == $root;
+
+    if ('AuxR' eq $this->{afun}
+        && 'se' eq lc $this->attr('m/form')
+        && grep 'T-layer' eq $_->{type} && "" eq ($_->{text} // ""),
+                ListV($this->{comments})
+    ) {
+        my @p = PML_A_Anot::eparents($this);
+        my @v = grep $_->attr('m/tag') =~ /^V/, @p;
+        if (@p != @v) {
+            print "Different number of parents\t";
+            FPosition();
+            return
+        }
+        for my $p (@p) {
+            print join "\t", $this->{id}, $p->{id}, "";
+            FPosition();
+        }
+    }
+}
+
