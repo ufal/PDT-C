@@ -1,0 +1,64 @@
+#!btred -TNe passive_se()
+use warnings;
+use strict;
+
+# Add mising links to AuxR to t-files.
+
+my %children;
+sub passive_se {
+    if ($root == $this) {
+        %children = ();
+        my $aroot = PML_T::GetANodeByID($root->{'atree.rf'});
+        my @auxrs = grep 'AuxR' eq $_->{afun}, $aroot->descendants;
+        for my $auxr (@auxrs) {
+            for my $parent (PML_A_Anot::eparents($auxr)) {
+                $children{ $parent->{id} }{ $auxr->{id} }
+                    = $auxr->attr('m/tag');
+            }
+        }
+    } else {
+        return unless $this->attr('a/lex.rf');
+
+        my $anode = PML_T::GetALexNode($this)->{id};
+        my @auxes = map $_->{id}, PML_T::GetAAuxNodes($this);
+        return unless exists $children{$anode};
+
+        for my $child (keys %{ $children{$anode} }) {
+            my @found;
+            for my $descendant ($root->descendants) {
+                push @found, $descendant
+                    if grep "a#$child" eq $_,
+                       $descendant->attr('a/lex.rf')
+                           ? $descendant->attr('a/lex.rf') : (),
+                       ListV($descendant->attr('a/aux.rf'));
+            }
+
+            if (grep $_ eq $child, @auxes) {
+                print join "\t",
+                    'Already',
+                    $child,
+                    join ',', map +($_->attr('gram/sempos') // '-')
+                                  . '|'
+                                  . ($_->attr('gram/diatgram') // '-'),
+                              @found;
+            } else {
+                if (@found) {
+                    print join "\t",
+                        'Elsewhere',
+                        $this->attr('gram/sempos') // "-",
+                        $this->attr('gram/diatgram') // "-",
+                        join ',', map $_->{t_lemma}, @found;
+
+                } else {
+                    print join "\t", 'Missing',
+                        $child,
+                        $this->attr('gram/sempos') // '-',
+                        $this->attr('gram/diatgram') // '-',
+                        $children{$anode}{$child};
+                }
+            }
+            print "\t";
+            FPosition();
+        }
+    }
+}
