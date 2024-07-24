@@ -1,4 +1,5 @@
 #!btred -TNe passive_se()
+# -*- mode: cperl -*-
 use warnings;
 use strict;
 
