@@ -10782,8 +10782,8 @@
 <LM>w#w-vesm9301-047-p16s5w6</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9301-047-p16s5w7">
 <src.rf>manual</src.rf>
@@ -11320,8 +11320,8 @@
 <LM>w#w-vesm9301-047-p16s8w15</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
-<tag>Db-------------</tag>
+<lemma>opravdu</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-vesm9301-047-p16s8w16">
 <src.rf>manual</src.rf>
