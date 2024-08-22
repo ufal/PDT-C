@@ -38,10 +38,12 @@ sub passive_se {
                 print join "\t",
                     'Already',
                     $child,
-                    join ',', map +($_->attr('gram/sempos') // '-')
-                                  . '|'
-                                  . ($_->attr('gram/diatgram') // '-'),
-                              @found;
+                    join(',', map +($_->attr('gram/sempos') // '-')
+                                   . '|'
+                                   . ($_->attr('gram/diatgram') // '-'),
+                              @found),
+                    join(',', map $_->{t_lemma}, @found);
+
             } else {
                 if (@found) {
                     print join "\t",
