@@ -1,0 +1,11 @@
+#!btred -TNe auxz_fl()
+# -*- mode: cperl; -*-
+use warnings;
+use strict;
+
+sub auxz_fl {
+    return unless 'AuxZ' eq $this->{afun}
+           || 'AuxY' eq $this->{afun};
+
+    writeln join "\t", map PML_A_Compat::attr($this, "m/$_"), qw( form lemma );
+}

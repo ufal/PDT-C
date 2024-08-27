@@ -1,0 +1,18 @@
+#!btred -NTe consistency()
+# -*- mode: cperl; -*-
+use warnings;
+use strict;
+
+sub consistency {
+    return unless $this->attr('a/lex.rf');
+
+    return unless my $anode = PML_T::GetALexNode($this);
+
+    if (PML_A_Compat::attr($anode, 'm/tag') =~ /^(?:TT|Db?|II|J\^)/) {
+        print lc $anode->attr('m/form');
+        print join "\t", "",
+              map PML_A_Compat::attr($anode, $_),
+              qw( m/lemma m/tag afun );
+        writeln("\t", $this->{functor});
+    }
+}
