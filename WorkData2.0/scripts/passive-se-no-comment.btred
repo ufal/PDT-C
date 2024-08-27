@@ -52,6 +52,17 @@ sub passive_se {
                         $this->attr('gram/diatgram') // "-",
                         join ',', map $_->{t_lemma}, @found;
 
+                } elsif ('v' eq ($this->attr('gram/sempos') // "")
+                         && 'deagent' eq ($this->attr('gram/diatgram') // "")
+                ) {
+                    $this->{a}{'aux.rf'}
+                        = List("a#$child", ListV($this->attr('a/aux.rf')));
+                    ChangingFile(1);
+                    print join "\t", 'Added',
+                        $child,
+                        $this->attr('gram/sempos') // '-',
+                        $this->attr('gram/diatgram') // '-',
+                        $children{$anode}{$child};
                 } else {
                     print join "\t", 'Missing',
                         $child,
