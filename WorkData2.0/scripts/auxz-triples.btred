@@ -1,0 +1,39 @@
+#!btred -TNe triples()
+# -*- mode: cperl; encoding: utf-8; -*-
+use warnings;
+use strict;
+
+sub is_interesting {
+    my ($anode) = @_;
+    return PML_A_Compat::attr($anode, 'm/lemma')
+           =~ /^(?:jistě|ale|stěží|hlavně)(?:$|[-_`])/
+}
+
+sub report {
+    my ($type, $anode) = @_;
+    print(join "\t", $type,
+                     PML_A_Compat::attr($anode, 'm/form'),
+                     PML_A_Compat::attr($anode, 'm/lemma'),
+                     PML_A_Compat::attr($anode, 'm/tag'),
+                     $anode->{afun},
+                     $this->{functor},
+                     ""
+    );
+    FPosition();
+}
+
+sub triples {
+    return if $this == $root;
+
+    if ($this->attr('a/lex.rf')) {
+        my $anode = PML_T::GetALexNode($this);
+        return unless is_interesting($anode);
+
+        report(lex => $anode);
+    }
+
+    if ($this->attr('a/aux.rf')) {
+        my @anodes = grep is_interesting($_), PML_T::GetAAuxNodes($this);
+        report(aux => $_) for @anodes;
+    }
+}
