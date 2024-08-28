@@ -1,0 +1,20 @@
+#!btred -TNe jiste()
+# -*- mode: cperl; encoding: utf-8; -*-
+use warnings;
+use strict;
+use utf8;
+
+$main::reffiles_to_save = 'ALL';  # --knit ALL
+
+sub jiste {
+    return if $this == $root;
+
+    if ('AuxZ' eq $this->{afun}
+        && 'jistě_^(*1ý)' eq $this->attr('m/lemma')
+    ) {
+        $this->{m}{lemma} = 'jistě-2';
+        $this->{m}{tag}   = 'TT-------------';
+        ChangingFile(1);
+        FPosition();
+    }
+}
