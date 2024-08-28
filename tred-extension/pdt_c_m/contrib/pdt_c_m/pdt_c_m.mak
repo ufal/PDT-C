@@ -1579,8 +1579,8 @@ my $PDT_STYLESHEET = 'PML_M_36';
 my $PDTSC_STYLESHEET = 'PML_M_36_SC';
 
 sub detect {
-    PML::SchemaDescription() =~ /PDT 3.6 morphological/
-        && 'mdata' eq PML::SchemaName()
+    (PML::SchemaDescription() // "") =~ /PDT 3.6 morphological/
+        && 'mdata' eq (PML::SchemaName() // "")
     ? 1 : 0
 }
 
