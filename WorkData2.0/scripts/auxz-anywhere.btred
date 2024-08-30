@@ -1,0 +1,43 @@
+#!btred -TNe triples()
+# -*- mode: cperl; -*-
+use warnings;
+use strict;
+
+# $the input file is the output of
+#   btred -I auxz-lf.btred | cut -f2 | sort -u
+
+my %lemma;
+open my $in, '<', 'auxz-lemma.l' or die $!;
+while (<$in>) {
+    chomp;
+    undef $lemma{$_};
+}
+
+sub report {
+    my ($type, $anode) = @_;
+    print(join "\t", $type,
+                     PML_A_Compat::attr($anode, 'm/form'),
+                     PML_A_Compat::attr($anode, 'm/lemma'),
+                     PML_A_Compat::attr($anode, 'm/tag'),
+                     $anode->{afun},
+                     $this->{functor},
+                     ""
+    );
+    FPosition();
+}
+
+sub triples {
+    return if $this == $root;
+
+    if ($this->attr('a/lex.rf')) {
+        my $anode = PML_T::GetALexNode($this);
+        return unless exists $lemma{ PML_A_Compat::attr($anode, 'm/lemma') };
+
+        report(lex => $anode);
+    }
+
+    if ($this->attr('a/aux.rf')) {
+        my @anodes = grep exists $lemma{ PML_A_Compat::attr($_, 'm/lemma') }, PML_T::GetAAuxNodes($this);
+        report(aux => $_) for @anodes;
+    }
+}
