@@ -1,0 +1,21 @@
+#!btred -TNe fix()
+# -*- mode: cperl -*-
+use warnings;
+use strict;
+
+my %fix;
+open my $in, '<:encoding(UTF-8)', 'auxz-fix.ids' or die $!;
+while (<$in>) {
+    my ($id, $lemma, $tag) = split;
+    $fix{$id} = [$lemma, $tag];
+}
+binmode *STDOUT, ':encoding(UTF-8)' or die $!;
+
+sub fix {
+    if (my $new = $fix{ $this->{id} }) {
+        $this->{lemma} = $new->[0];
+        $this->{tag}   = $new->[1];
+        writeln(join "\t", $this->{id}, @$new);
+        ChangingFile(1);
+    }
+}

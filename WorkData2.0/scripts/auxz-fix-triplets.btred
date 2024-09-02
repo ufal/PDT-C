@@ -1,0 +1,149 @@
+#!/btred -TNe fix()
+# -*- mode: cperl; encoding: utf-8; -*-
+use warnings;
+use strict;
+use utf8;
+
+
+my @lines = split "\n",
+'20 lex	a-33	Q3-------------	AuxZ	PREC	a-1	J^-------------
+2 lex	a-33	Q3-------------	AuxZ	CM	a-1	J^-------------
+1 lex	a-33	Q3-------------	Coord	CONJ	a-1	J^-------------
+1 lex	A-33	Q3-------------	AuxZ	PREC	a-1	J^-------------
+414 lex	ani-1	J^-------------	AuxZ	RHEM	ani-2	TT-------------
+71 lex	ani-1	J^-------------	AuxZ	CM	ani-2	TT-------------
+11 lex	ani-2	TT-------------	Coord	CONJ	ani-1	J^-------------
+10 lex	ani-2	TT-------------	Coord	GRAD	ani-1	J^-------------
+7 lex	ani-2	TT-------------	AuxZ	PREC	ani-1	J^-------------
+1 aux	ani-2	TT-------------	AuxY	CONJ	ani-1	J^-------------
+3 lex	copak-1	PQ--4----------	AuxZ	ATT	copak-4	TT-------------
+7 lex	copak-4	TT-------------	Obj	PAT	copak-1	PQ--4----------
+1 lex	copak-4	TT-------------	Sb	ACT	copak-1	PQ--1----------
+1 lex	div-1	NNIS1-----A----	AuxZ	ATT	div-3	TT-------------
+151 lex	hned-1	Db-------------	AuxZ	RHEM	hned-2	TT-------------
+1 lex	hned-1	Db-------------	AuxZ	CM	hned-2	TT-------------
+3 lex	hned-2	TT-------------	Adv	TWHEN	hned-1	Db-------------
+1783 lex	i-1	J^-------------	AuxZ	RHEM	i-2	TT-------------
+270 lex	i-1	J^-------------	AuxZ	CM	i-2	TT-------------
+38 lex	i-2	TT-------------	Coord	CONJ	i-1	J^-------------
+20 lex	i-2	TT-------------	AuxZ	PREC	i-1	J^-------------
+ 11 lex	i-2	TT-------------	Coord	GRAD	i-1	J^-------------
+3 aux	i-2	TT-------------	AuxY	CNCS	i-1	J^-------------
+2 aux	i-2	TT-------------	AuxY	CONJ	i-1	J^-------------
+1 aux	i-2	TT-------------	AuxY	GRAD	i-1	J^-------------
+1 lex	i-33	Q3-------------	AuxZ	PREC	i-1	J^-------------
+2 lex	jako-1	J,-------------	AuxZ	ATT	jako-3	TT-------------
+2 lex	jako-1	J,-------------	AuxZ	MOD	jako-3	TT-------------
+1 lex	jako-1	J,-------------	Apos	APPS	jako-2	J^-------------
+5 lex	jakoby	J,-------------	AuxZ	ATT	jakoby-2	TT-------------
+18 lex	jakoby-2	Db-------------	AuxZ	ATT	jakoby-2	TT-------------
+1582 lex	jen-4_^(pouze)	Db-------------	AuxZ	RHEM	jen-1	TT-------------
+72 lex	jen-4_^(pouze)	Db-------------	AuxZ	CM	jen-1	TT-------------
+1 lex	jen-4_^(pouze)	Db-------------	Obj	DPHR	jen-1	TT-------------
+1093 lex	jenom-2_^(pouze)	Db-------------	AuxZ	RHEM	jenom-1	TT-------------
+39 lex	jenom-2_^(pouze)	Db-------------	AuxZ	CM	jenom-1	TT-------------
+1 lex	jenom-2_^(pouze)	Db-------------	AuxZ	ATT	jenom-1	TT-------------
+1 lex	kdepak-1	Db-------------	AuxZ	PARTL	kdepak-2	TT-------------
+21 lex	kupodivu-1	Db-------------	AuxZ	ATT	kupodivu-2	TT-------------
+13 lex	nakonec-1	Db-------------	AuxZ	ATT	nakonec-2	TT-------------
+6 lex	nakonec-1	Db-------------	AuxZ	CM	nakonec-2	TT-------------
+3 lex	nakonec-1	Db-------------	AuxZ	PREC	nakonec-2	TT-------------
+10 lex	nakonec-2	TT-------------	Adv	TWHEN	nakonec-1	Db-------------
+249 lex	naopak-1	Db-------------	AuxZ	PREC	naopak-2	TT-------------
+26 lex	naopak-1	Db-------------	AuxZ	CM	naopak-2	TT-------------
+8 lex	naopak-1	Db-------------	AuxZ	RHEM	naopak-2	TT-------------
+49 lex	ten	PDNS1----------	AuxZ	INTF	to-1_^(tehdy;to_jsem_byla_ještě_malá)	PDXXX----------	AuxO
+11 lex	ten	PDNS4----------	AuxZ	INTF	to-1_^(tehdy;to_jsem_byla_ještě_malá)	PDXXX----------	AuxO
+398 lex	tak-2	J^-------------	AuxZ	PREC	tak-1	TT-------------
+349 lex	tak-3	Db-------------	AuxZ	PREC	tak-1	TT-------------
+897 lex	tak-2	J^-------------	AuxZ	CM	tak-1	TT-------------
+131 lex	tak-3	Db-------------	AuxZ	CM	tak-1	TT-------------
+6 lex	tak-3	Db-------------	AuxZ	RHEM	tak-1	TT-------------
+5 lex	tak-2	J^-------------	AuxZ	RHEM	tak-1	TT-------------
+1 lex	tak-2	J^-------------	AuxZ	MOD	tak-1	TT-------------
+3 lex	tak-3	Db-------------	AuxZ	MOD	tak-1	TT-------------
+7 lex	tak-2	J^-------------	AuxZ	ATT	tak-1	TT-------------
+4 lex	tak-3	Db-------------	AuxZ	ATT	tak-1	TT-------------
+1 lex	tak-1	TT-------------	Atr	MANN	tak-3	Db-------------
+100 lex	tak-1	TT-------------	Adv	MANN	tak-3	Db-------------
+9 lex	tak-2	J^-------------	Adv	MANN	tak-3	Db-------------
+4 lex	tak-1	TT-------------	Adv	TWHEN	tak-3	Db-------------
+1 lex	tak-1	TT-------------	Adv	CNCS	tak-3	Db-------------
+1 lex	tak-1	TT-------------	Adv	COND	tak-3	Db-------------
+1 lex	tak-1	TT-------------	Adv	THL	tak-3	Db-------------
+12 lex	tak-1	TT-------------	Adv	DPHR	tak-3	Db-------------
+1 lex	tak-1	TT-------------	AuxY	DPHR	tak-3	Db-------------
+9 lex	tak-1	TT-------------	Obj	DPHR	tak-3	Db-------------
+6 lex	tak-1	TT-------------	Obj	PAT	tak-3	Db-------------
+1 lex	tak-1	TT-------------	Sb	PAT	tak-3	Db-------------
+1 lex	tak-1	TT-------------	Obj	PRED	tak-3	Db-------------
+1 lex	tak-1	TT-------------	Pred	PRED	tak-3	Db-------------
+1 lex	tak-1	TT-------------	Adv	PRED	tak-3	Db-------------
+1 lex	tak-3	Db-------------	AuxO	INTF	tak-1	TT-------------
+44 lex	tak-3	Db-------------	Coord	CONJ	tak-2	J^-------------
+1 lex	tak-1	TT-------------	Coord	GRAD	tak-2	J^-------------
+2 lex	tak-3	Db-------------	Coord	GRAD	tak-2	J^-------------
+2 lex	pardon	NNIS1-----A----	Partl	PARTL	pardon-2	II-------------
+1148 lex	pouze	Db-------------	AuxZ	RHEM	pouze	TT-------------
+40 lex	pouze	Db-------------	AuxZ	CM	pouze	TT-------------
+2 lex	pravda-1	NNFS1-----A----	AuxZ	ATT	pravda-2	TT-------------
+12 lex	sotva-1	Db-------------	AuxZ	ATT	sotva-3	TT-------------
+9 lex	sotva-1	Db-------------	AuxZ	MOD	sotva-3	TT-------------
+1 lex	sotva-3	TT-------------	Adv	EXT	sotva-1	Db-------------
+343 lex	tedy-2	J^-------------	AuxZ	CM	tedy-1	TT-------------
+10 lex	tedy-2	J^-------------	AuxZ	ATT	tedy-1	TT-------------
+317 lex	ten	PDNS1----------	AuxO	INTF	to-1_^(tehdy;to_jsem_byla_ještě_malá)	PDXXX----------
+99 lex	ten	PDNS4----------	AuxO	INTF	to-1_^(tehdy;to_jsem_byla_ještě_malá)	PDXXX----------
+24 lex	ten	PDNS1----------	AuxY	APPS	to-1_^(tehdy;to_jsem_byla_ještě_malá)	PDXXX----------
+25 aux	ten	PDNS1----------	Apos	APPS	to-1_^(tehdy;to_jsem_byla_ještě_malá)	PDXXX----------
+14 lex	ten	PDNS4----------	AuxZ	PREC	to-1_^(tehdy;to_jsem_byla_ještě_malá)	PDXXX----------
+2 aux	ten	PDNS4----------	AuxZ	PREC	to-1_^(tehdy;to_jsem_byla_ještě_malá)	PDXXX----------
+2 lex	ten	PDNS1----------	AuxZ	PREC	to-1_^(tehdy;to_jsem_byla_ještě_malá)	PDXXX----------
+1 aux	ten	PDNS1----------	AuxY	APPS	to-1_^(tehdy;to_jsem_byla_ještě_malá)	PDXXX----------
+1 lex	ten	PDXXX----------	AuxO	INTF	to-1_^(tehdy;to_jsem_byla_ještě_malá)	PDXXX----------
+1 lex	ten	PDYS1----------	AuxO	INTF	to-1_^(tehdy;to_jsem_byla_ještě_malá)	PDXXX----------
+13 lex	zas-1_,s_^(^DD**zase-1)	Db-------------	AuxZ	PREC	zas-2_,s_^(^DD**zase-2)	TT-------------
+8 lex	zas-1_,s_^(^DD**zase-1)	Db-------------	AuxZ	RHEM	zas-2_,s_^(^DD**zase-2)	TT-------------
+3 lex	zas-1_,s_^(^DD**zase-1)	Db-------------	AuxZ	CM	zas-2_,s_^(^DD**zase-2)	TT-------------
+1 lex	zas-1_,s_^(^DD**zase-1)	Db-------------	AuxZ	ATT	zas-2_,s_^(^DD**zase-2)	TT-------------
+2 lex	zas-2_,s_^(^DD**zase-2)	TT-------------	Adv	TWHEN	zas-1_,s_^(^DD**zase-1)	Db-------------
+232 lex	zase-1	Db-------------	AuxZ	PREC	zase-2	TT-------------
+4 lex	zase-1	Db-------------	AuxZ	RHEM	zase-2	TT-------------
+78 lex	zrovna-1	Db-------------	AuxZ	RHEM	zrovna-2	TT-------------
+3 lex	zrovna-1	Db-------------	AuxZ	ATT	zrovna-2	TT-------------
+1 lex	zrovna-1	Db-------------	AuxZ	CM	zrovna-2	TT-------------
+16 lex	zrovna-2	TT-------------	Adv	TWHEN	zrovna-1	Db-------------';
+
+my %fix;
+for (@lines) {
+    my ($_count, $type, $lemma, $tag, $afun, $func, $newlemma, $newtag) = split;
+    $fix{"$type $func $afun $lemma $tag"} = [$newlemma, $newtag];
+}
+binmode *STDOUT, ':encoding(UTF-8)' or die $!;
+
+sub fix {
+    return if $this == $root;
+
+    my $func = $this->{functor};
+    if ($this->attr('a/lex.rf')) {
+        my $anode  = PML_T::GetALexNode($this);
+        my $afun   = $anode->{afun};
+        my $mlemma = PML_A_Compat::attr($anode, 'm/lemma');
+        my $tag    = PML_A_Compat::attr($anode, 'm/tag');
+        if (my $new = $fix{"lex $func $afun $mlemma $tag"}) {
+            writeln(join "\t", $anode->attr('m/id'), @$new);
+        }
+    }
+
+    if ($this->attr('a/aux.rf')) {
+        my @anodes = PML_T::GetAAuxNodes($this);
+        for my $anode (@anodes) {
+            my $afun   = $anode->{afun};
+            my $mlemma = PML_A_Compat::attr($anode, 'm/lemma');
+            my $tag    = PML_A_Compat::attr($anode, 'm/tag');
+            if (my $new = $fix{"aux $func $afun $mlemma $tag"}) {
+                writeln(join "\t", $anode->attr('m/id'), @$new);
+            }
+        }
+    }
+}
