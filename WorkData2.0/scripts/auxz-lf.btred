@@ -3,6 +3,8 @@
 use warnings;
 use strict;
 
+binmode *STDOUT, ':encoding(UTF-8)' or die $!;
+
 sub auxz_fl {
     return unless 'AuxZ' eq $this->{afun}
            || 'AuxY' eq $this->{afun};

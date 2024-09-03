@@ -3,8 +3,10 @@
 use warnings;
 use strict;
 
-# $the input file is the output of
+# The input file is the output of
 #   btred -I auxz-lf.btred | cut -f2 | sort -u
+
+binmode *STDOUT, ':encoding(UTF-8)' or die $!;
 
 sub lemma_prefix {
     my ($lemma) = @_;
@@ -12,7 +14,7 @@ sub lemma_prefix {
 }
 
 my %lemma;
-open my $in, '<', 'auxz-lemma.l' or die $!;
+open my $in, '<:encoding(UTF-8)', 'auxz-lemma.l' or die $!;
 while (<$in>) {
     chomp;
     undef $lemma{ lemma_prefix($_) };

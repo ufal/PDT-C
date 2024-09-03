@@ -3,6 +3,8 @@
 use warnings;
 use strict;
 
+binmode *STDOUT, ':encoding(UTF-8)' or die $!;
+
 sub is_interesting {
     my ($anode) = @_;
     return PML_A_Compat::attr($anode, 'm/lemma')
