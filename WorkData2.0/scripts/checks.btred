@@ -3,7 +3,7 @@
 
 sub checks {
     if ($this->parent) {
-        if ($root->{errors}[0] ne "OK"
+        if (($root->{errors}[0] // "") ne "OK"
             && $this->{errors}
         ) {
             print join(';', @{ $this->{errors} }), "\t";
