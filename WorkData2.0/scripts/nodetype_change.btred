@@ -1,0 +1,26 @@
+#!btred -TNe nodetype_change()
+# -*- mode: cperl -*-
+use warnings;
+use strict;
+
+sub nodetype_change {
+    return if $root == $this;
+
+    if (('coap' eq $this->{nodetype} || 'CM' eq $this->{functor})
+        && $this->{tfa}
+    ) {
+        delete $this->{tfa};
+        ChangingFile(1);
+    }
+
+    if ('complex' ne $this->{nodetype}) {
+        if (length $this->{proto_lemma}) {
+            delete $this->{proto_lemma};
+            ChangingFile(1);
+        }
+        if ($this->{gram}) {
+            delete $this->{gram};
+            ChangingFile(1);
+        }
+    }
+}
