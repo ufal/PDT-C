@@ -48,7 +48,11 @@ sub entropy($type, @files) {
     }
 
     if ('graph' eq $type) {
-        for my $form (sort { $h{$a}{1} <=> $h{$b}{1} } keys %h) {
+        for my $form (sort { $h{$a}{1} <=> $h{$b}{1}
+                             || $h{$a}{2} <=> $h{$b}{2}
+                      } keys %h
+        ) {
+            # say $form, "\t", $h{$form}{1}, ' ', $h{$form}{2};
             say $h{$form}{1}, ' ', $h{$form}{2};
         }
         exit
