@@ -26,5 +26,14 @@ for my $short_lemma (qw( z více méně )) {
 }
 
 for my $short_lemma (sort keys %by_short_lemma) {
-    say "Keeping $short_lemma ", scalar keys %{ $by_short_lemma{$short_lemma} };
+    for my $afun (sort keys %{ $by_short_lemma{$short_lemma} }) {
+        for my $rest (sort {
+                          $by_short_lemma{$short_lemma}{$afun}{$b}
+                          <=> $by_short_lemma{$short_lemma}{$afun}{$a}
+                      } keys %{ $by_short_lemma{$short_lemma}{$afun} }
+        ) {
+            say join "\t", $short_lemma, $afun, $rest,
+                $by_short_lemma{$short_lemma}{$afun}{$rest};
+        }
+    }
 }
