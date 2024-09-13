@@ -1,0 +1,73 @@
+#!btred -e coref()
+# -*- mode: cperl; encoding: utf-8; -*-
+use warnings;
+use strict;
+use utf8;
+
+# Finds gram, text, and compl arrows with missing targets and similar
+# problems.
+
+my $GRAM_MUST = '^(?:#Q?Cor)$';
+my $GRAM_CAN = '^(?:#(?:PersPron|Q?Cor|Rcp)|j(?:enž|aký?)|což?|k(?:d[oy]|de|am|terý))$';
+
+sub coref {
+    my @trees;
+    my %id;
+    do {{
+        push @trees, $this;
+        while ($this = $this->following) {
+            $id{ $this->{id} } = $this->root->{id};
+        }
+    }} while TredMacro::NextTree();
+
+    for my $tree (@trees) {
+        for my $this ($tree->descendants) {
+             if ($this->{'compl.rf'}) {
+                 if ('COMPL' ne $this->{functor}) {
+                     print "not COMPL\t";
+                     FPosition($this);
+                 }
+                 for my $rf (ListV($this->{'compl.rf'})) {
+                     if (! exists $id{$rf}) {
+                         print "no compl target\t";
+                         FPosition($this);
+                     } elsif ($id{$rf} ne $this->root->{id}) {
+                         print "compl difftree\t";
+                         FPosition($this);
+                     }
+                 }
+             } elsif ('COMPL' eq $this->{functor}) {
+                 print "missing rf\t";
+                 FPosition($this);
+             }
+
+             if (my @rf = ListV($this->{'coref_gram.rf'})) {
+                 if ($this->{t_lemma} !~ $GRAM_CAN) {
+                     print "$this->{t_lemma} with gram\t";
+                     FPosition($this);
+                 }
+                 for my $rf (@rf) {
+                     if (! exists $id{$rf}) {
+                         print "no gram target\t";
+                         FPosition($this);
+                     } elsif ($id{$rf} ne $this->root->{id}) {
+                         print "$this->{t_lemma} gram difftree\t";
+                         FPosition($this);
+                     }
+                 }
+             } elsif ($this->{t_lemma} =~ $GRAM_MUST) {
+                 print "$this->{t_lemma} without gram\t";
+                 FPosition($this);
+             }
+
+             if (my @rf = ListV($this->{'coref_text'})) {
+                 for my $rf (map $_->{'target_node.rf'}, @rf) {
+                     if (! exists $id{$rf}) {
+                         print "no text target\t";
+                         FPosition($this);
+                     }
+                 }
+             }
+         }
+    }
+}
