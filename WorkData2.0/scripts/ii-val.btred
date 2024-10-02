@@ -1,0 +1,18 @@
+#!btred -NTe ii_val()
+# -*- mode: cperl -*-
+use warnings;
+use strict;
+
+sub ii_val {
+    return if $this == $root;
+
+    if ($this->attr('m/tag') =~ /^II/) {
+        my @ch  = grep $_->{afun} !~ /^Aux/, $this->children;
+        my @ech = grep $_->{afun} !~ /^Aux/, PML_A_Anot::echildren($this);
+
+        if (@ch || @ech) {
+            print $this->attr('m/form'), "\t";
+            FPosition();
+        }
+    }
+}
