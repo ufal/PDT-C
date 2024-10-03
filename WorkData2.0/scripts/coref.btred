@@ -7,7 +7,27 @@ use utf8;
 # Finds gram, text, and compl arrows with missing targets and similar
 # problems.
 
-my $GRAM_MUST = '^(?:#Q?Cor)$';
+sub gram_must {
+    my ($node) = @_;
+    return 1 if $node->{t_lemma} =~ /^(?:#Q?Cor)$/;
+    return 1 if $node->{t_lemma} =~ /^#(?:Rcp|PersPron)$/
+        && PML_T::GetALexNode($node)
+        && PML_T::GetALexNode($node)->attr('m/lemma')
+            =~ m{^(?:se_\^\(zvr\._zájmeno/částice\)|svůj-1)$};
+    if ($node->{t_lemma} =~ /^(?:který(?:žto)?
+                             |(?:od|do)kdy
+                             |ku?dy|jaký|čí|kde|odkud|kam|jak|jenž)$/x
+    ) {
+        my @p = $node;
+        @p = map PML_T::GetEParents($_), @p
+            until ! @p || grep 'v' eq ($_->attr('gram/sempos') // ""), @p;
+        if (@p && grep 'RSTR' eq $_->{functor}, @p) {
+            return 1
+        }
+    }
+    return
+}
+
 my $GRAM_CAN = '^(?:#(?:PersPron|Q?Cor|Rcp)|j(?:enž|aký?)|což?|k(?:d[oy]|de|am|terý))$';
 
 sub coref {
@@ -42,7 +62,7 @@ sub coref {
              }
 
              if (my @rf = ListV($this->{'coref_gram.rf'})) {
-                 if ($this->{t_lemma} !~ $GRAM_CAN) {
+                 if ($this->{t_lemma} !~ $GRAM_CAN && ! gram_must($this)) {
                      print "$this->{t_lemma} with gram\t";
                      FPosition($this);
                  }
@@ -55,7 +75,7 @@ sub coref {
                          FPosition($this);
                      }
                  }
-             } elsif ($this->{t_lemma} =~ $GRAM_MUST) {
+             } elsif (gram_must($this)) {
                  print "$this->{t_lemma} without gram\t";
                  FPosition($this);
              }
