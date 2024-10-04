@@ -11,6 +11,7 @@ sub gram_must {
     my ($node) = @_;
     return 1 if $node->{t_lemma} =~ /^(?:#Q?Cor)$/;
     return 1 if $node->{t_lemma} =~ /^#(?:Rcp|PersPron)$/
+        && $node->{functor} ne 'DPHR'
         && $node->attr('a/lex.rf')
         && PML_T::GetALexNode($node)->attr('m/lemma')
             =~ m{^(?:se_\^\(zvr\._zájmeno/částice\)|svůj-1)$};
@@ -41,50 +42,79 @@ sub coref {
     }} while TredMacro::NextTree();
 
     for my $tree (@trees) {
-        for my $this ($tree->descendants) {
-             if ($this->{'compl.rf'}) {
-                 if ('COMPL' ne $this->{functor}) {
+        for my $node ($tree->descendants) {
+             if ($node->{'compl.rf'}) {
+                 if ('COMPL' ne $node->{functor}) {
                      print "not COMPL\t";
-                     FPosition($this);
+                     FPosition($node);
                  }
-                 for my $rf (ListV($this->{'compl.rf'})) {
+                 for my $rf (ListV($node->{'compl.rf'})) {
                      if (! exists $id{$rf}) {
                          print "no compl target\t";
-                         FPosition($this);
-                     } elsif ($id{$rf} ne $this->root->{id}) {
+                         FPosition($node);
+                     } elsif ($id{$rf} ne $node->root->{id}) {
                          print "compl difftree\t";
-                         FPosition($this);
+                         FPosition($node);
                      }
                  }
-             } elsif ('COMPL' eq $this->{functor}) {
+             } elsif ('COMPL' eq $node->{functor}) {
                  print "missing rf\t";
-                 FPosition($this);
+                 FPosition($node);
              }
 
-             if (my @rf = ListV($this->{'coref_gram.rf'})) {
-                 if ($this->{t_lemma} !~ $GRAM_CAN && ! gram_must($this)) {
-                     print "$this->{t_lemma} with gram\t";
-                     FPosition($this);
+             if (my @rf = ListV($node->{'coref_gram.rf'})) {
+                 if ($node->{t_lemma} !~ $GRAM_CAN && ! gram_must($node)) {
+                     print "$node->{t_lemma} with gram\t";
+                     FPosition($node);
                  }
                  for my $rf (@rf) {
                      if (! exists $id{$rf}) {
                          print "no gram target\t";
-                         FPosition($this);
-                     } elsif ($id{$rf} ne $this->root->{id}) {
-                         print "$this->{t_lemma} gram difftree\t";
-                         FPosition($this);
+                         FPosition($node);
+                     } elsif ($id{$rf} ne $node->root->{id}) {
+                         print "$node->{t_lemma} gram difftree\t";
+                         FPosition($node);
                      }
                  }
-             } elsif (gram_must($this)) {
-                 print "$this->{t_lemma} without gram\t";
-                 FPosition($this);
+             } elsif (gram_must($node)) {
+                 print "$node->{t_lemma} without gram\t";
+                 FPosition($node);
              }
 
-             if (my @rf = ListV($this->{'coref_text'})) {
+             if (my @rf = ListV($node->{'coref_text'})) {
                  for my $rf (map $_->{'target_node.rf'}, @rf) {
                      if (! exists $id{$rf}) {
                          print "no text target\t";
-                         FPosition($this);
+                         FPosition($node);
+                     }
+                 }
+             }
+
+             if ('#PersPron' eq $node->{t_lemma}) {
+                 if ('DPHR' eq $node->{functor}) {
+                     print "DPHR #perspron\t";
+                     FPosition($node);
+                 }
+                 if (! $node->{coref_text}
+                     && ! $node->{'coref_gram.rf'}
+                     && ! $node->{coref_special}
+                     && ! $node->{bridging}
+                 ) {
+                     print "no coref type\t";
+                     FPosition($node);
+                 }
+             }
+
+             if ($node->attr('a/lex.rf')) {
+                 my $anode = PML_T::GetALexNode($node);
+                 if ($anode->attr('m/lemma')
+                     =~ m{^s(?:e_\^\(zvr\._zájmeno/částice\)|vůj-1)}
+                 ) {
+                     if ('DPHR' ne $node->{functor}
+                         && $node->{t_lemma} !~ /^#(?:PersPron|Rcp)$/
+                     ) {
+                         print "$node->{t_lemma} not DPHR\t";
+                         FPosition($node);
                      }
                  }
              }
