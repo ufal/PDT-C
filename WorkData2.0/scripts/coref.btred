@@ -11,7 +11,7 @@ sub gram_must {
     my ($node) = @_;
     return 1 if $node->{t_lemma} =~ /^(?:#Q?Cor)$/;
     return 1 if $node->{t_lemma} =~ /^#(?:Rcp|PersPron)$/
-        && PML_T::GetALexNode($node)
+        && $node->attr('a/lex.rf')
         && PML_T::GetALexNode($node)->attr('m/lemma')
             =~ m{^(?:se_\^\(zvr\._zájmeno/částice\)|svůj-1)$};
     if ($node->{t_lemma} =~ /^(?:který(?:žto)?
