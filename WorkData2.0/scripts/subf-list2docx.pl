@@ -1,0 +1,151 @@
+#!/usr/bin/perl
+use warnings;
+use strict;
+use feature qw{ say };
+use experimental qw( signatures );
+
+use open ':encoding(UTF-8)', ':std';
+
+use Excel::Writer::XLSX;
+use List::Util qw{ sum };
+
+{   package My::Excel;
+    use Moo;
+    no warnings 'experimental';
+
+    has name      => (is => 'ro', required => 1);
+    has workbook  => (is => 'lazy',
+                      handles => [qw[ close add_worksheet add_format ]]);
+    has worksheet => (is => 'lazy',
+                      handles => [qw[ write write_rich_string set_column ]]);
+
+    has [qw[ tag red blue bold beige_bg small justify unlocked ]]
+        => (is => 'lazy');
+
+    sub formated($self, $part) {
+        return $part unless 0 == index $part, '<<';
+        my ($tag, $word) = $part =~ /^<<([^:]+):(.+)>>$/;
+        $tag =~ s/%.*//;
+        return $self->tag->{$tag}, $word
+    }
+
+    sub BUILD($self, $args) {
+        $self->write(0, 0, ['Position', 'Sentence',
+                                'Functor', 'Subfunctor', "",
+                                'Functor2', 'Subfunctor2', "", 'Comment'],
+                         $self->bold);
+        $self->write(0, $_, "", $self->beige_bg) for 4, 7;
+
+        my @widths = (22, 42, 8, 11, 1, 8, 11, 1, 30);
+        for my $i (0 .. $#widths) {
+            $self->set_column($i, $i, $widths[$i]);
+        }
+    }
+
+    sub _build_workbook($self) {
+        'Excel::Writer::XLSX'->new($self->name)
+    }
+
+    sub _build_worksheet($self) {
+        my $ws = $self->add_worksheet;
+        $ws->protect;
+        return $ws
+    }
+
+    sub _build_tag($self) {
+        {prep => $self->red,
+         verb => $self->blue,
+         f    => $self->red}
+    }
+
+    sub _build_red($self) {
+        my $red = $self->add_format;
+        $red->set_color('red');
+        $red->set_bold;
+        return $red
+    }
+
+    sub _build_blue($self) {
+        my $blue = $self->add_format;
+        $blue->set_color('blue');
+        return $blue
+    }
+
+    sub _build_bold($self) {
+        my $bold = $self->add_format;
+        $bold->set_bold;
+        return $bold
+    }
+
+    sub _build_beige_bg($self) {
+        my $beige = $self->add_format;
+        $beige->set_bg_color('#FBE5D6');
+        return $beige
+    }
+
+    sub _build_small($self) {
+        my $small = $self->add_format;
+        $small->set_size(8);
+        return $small
+    }
+
+    sub _build_justify($self) {
+        my $justify = $self->add_format;
+        $justify->set_align('vjustify');
+        $justify->set_size(12);
+        return $justify
+    }
+
+    sub _build_unlocked($self) {
+        my $unlocked = $self->add_format;
+        $unlocked->set_locked(0);
+        return $unlocked
+    }
+}
+
+sub report($freq) {
+    print join ' ', map "$_ $freq->{$_}", sort keys %$freq;
+    say ' Total: ', sum(values %$freq);
+}
+
+my $file_tally = 1;
+my $e;
+
+my $row = 1;
+my %freq;
+
+srand 126;  # Experimentally verified to produce 500 sentences.
+while (my $line = <>) {
+    my $r = int rand 42;
+    next if $line =~ /%ACMP:/ && 0 != $r;
+
+    $e = 'My::Excel'->new(name => "subf-s-$file_tally.xlsx")
+        unless $e;
+
+    my ($functor) = $line =~ /<<f%([^:]+):/;
+    ++$freq{$functor};
+
+    chomp $line;
+    my ($sentence, $pos) = split /\t/, $line;
+    substr $pos, 0, 1 + rindex($pos, '/'), "";
+
+    my @parts = map $e->formated($_), split /(<<.*?>>)/, $sentence;
+
+    $e->write($row, 0, $pos, $e->small);
+    $e->write_rich_string($row, 1, @parts, $e->justify);
+    $e->write($row, $_, " ", $e->beige_bg) for 4, 7;
+    $e->write($row, $_, "", $e->unlocked) for 2, 3, 5, 6, 8;
+    # $e->write($row, 9, $functor);
+    if ($row++ == 50) {
+        $e->close;
+        undef $e;
+        ++$file_tally;
+        $row = 1;
+        report(\%freq);
+        %freq = ();
+    }
+}
+if ($e) {
+    $e->close;
+    report(\%freq);
+}
