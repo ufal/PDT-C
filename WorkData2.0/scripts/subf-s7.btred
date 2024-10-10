@@ -10,9 +10,14 @@ my $ADVERBIAL = '^(?:ACMP|REG|MANN|MEANS|TPAR|TWHEN|LOC|MOD|RESL|ATT|CAUS'
 sub has_aux_s7 {
     my ($node) = @_;
     my @anodes = PML_T::GetAAuxNodes($node);
-    return 1 == @anodes
-           && 's-1' eq $anodes[0]->attr('m/lemma')
-           && $anodes[0]->attr('m/tag') =~ /^R[RV]--7/
+    return $anodes[0] if 1 == @anodes
+                      && 's-1' eq $anodes[0]->attr('m/lemma')
+                      && $anodes[0]->attr('m/tag') =~ /^R[RV]--7/;
+}
+
+sub formated {
+    my ($tag, $anode) = @_;
+    "<<$tag:" . $anode->attr('m/form') . '>>'
 }
 
 sub subf {
@@ -37,15 +42,17 @@ sub subf {
             my $aadv = $adv[0]->attr('a/lex.rf');
             next unless $aadv;
 
+            my $aprep = has_aux_s7($adv[0]);
+
             for my $anode (
                 sort { $a->{ord} <=> $b->{ord} } $atree->descendants
             ) {
+                my $func = $adv[0]->{functor};
                 print
-                    "a#$anode->{id}" eq $averb
-                                      ? '<<<' . ($anode->attr('m/form')) . '>>>'
-                    : "a#$anode->{id}" eq $aadv
-                                      ? "[[[$adv[0]->{functor}:" . ($anode->attr('m/form')) . ']]]'
-                                      : $anode->attr('m/form');
+                      "a#$anode->{id}" eq $averb ? formated('verb', $anode)
+                    : "a#$anode->{id}" eq $aadv  ? formated("f%$func", $anode)
+                    : $anode == $aprep           ? formated('prep', $anode)
+                                                 : $anode->attr('m/form');
                 print ' ';
             }
             print "\t";
