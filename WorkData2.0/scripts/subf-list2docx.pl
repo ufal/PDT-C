@@ -16,7 +16,8 @@ use Excel::Writer::XLSX;
     has workbook  => (is => 'lazy',
                       handles => [qw[ close add_worksheet add_format ]]);
     has worksheet => (is => 'lazy',
-                      handles => [qw[ write write_rich_string set_column ]]);
+                      handles => [qw[ write write_rich_string set_column
+                                      freeze_panes data_validation ]]);
 
     has [qw[ tag red blue bold beige_bg small justify unlocked ]]
         => (is => 'lazy');
@@ -27,6 +28,15 @@ use Excel::Writer::XLSX;
         $tag =~ s/%.*//;
         return $self->tag->{$tag}, $word
     }
+
+    my @FUNCTORS = qw( ACMP AIM ATT CAUS CIRC CNCS COND CPR CRIT DIR3
+                       EXT INTT LOC MANN MEANS MOD REG RESL RESTR THO
+                       TPAR TWHEN ??? );
+    my @SUBFUNCTORS = qw( above abstr across after agst along approx
+                          around basic before begin behind below betw
+                          circ elsew end ext flow front incl in less
+                          mid more near opp target than to wout wrt nr
+                          ??? );
 
     sub BUILD($self, $args) {
         $self->write(0, 0, ['Position', 'Sentence',
@@ -39,6 +49,13 @@ use Excel::Writer::XLSX;
         for my $i (0 .. $#widths) {
             $self->set_column($i, $i, $widths[$i]);
         }
+        $self->freeze_panes(1, 0);
+        $self->data_validation(1, $_, 50, $_, {validate => 'list',
+                                               source   => \@FUNCTORS})
+            for 2, 5;
+        $self->data_validation(1, $_, 50, $_, {validate => 'list',
+                                               source   => \@SUBFUNCTORS})
+            for 3, 6;
     }
 
     sub _build_workbook($self) {
