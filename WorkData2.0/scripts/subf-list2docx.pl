@@ -7,7 +7,6 @@ use experimental qw( signatures );
 use open ':encoding(UTF-8)', ':std';
 
 use Excel::Writer::XLSX;
-use List::Util qw{ sum };
 
 {   package My::Excel;
     use Moo;
@@ -104,8 +103,10 @@ use List::Util qw{ sum };
 }
 
 sub report($freq) {
-    print join ' ', map "$_ $freq->{$_}", sort keys %$freq;
-    say ' Total: ', sum(values %$freq);
+    say join ' ',
+        map "$_ $freq->{$_}",
+        sort { $freq->{$b} <=> $freq->{$a} }
+        keys %$freq;
 }
 
 my $file_tally = 1;
@@ -113,10 +114,10 @@ my $e;
 
 my $row = 1;
 my %freq;
+my %total;
 
-srand 126;  # Experimentally verified to produce 500 sentences.
 while (my $line = <>) {
-    my $r = int rand 42;
+    my $r = int rand 8;
     next if $line =~ /%ACMP:/ && 0 != $r;
 
     $e = 'My::Excel'->new(name => "subf-s-$file_tally.xlsx")
@@ -139,13 +140,13 @@ while (my $line = <>) {
     if ($row++ == 50) {
         $e->close;
         undef $e;
-        ++$file_tally;
         $row = 1;
+        $total{$_} += $freq{$_} for keys %freq;
         report(\%freq);
         %freq = ();
+        last if ++$file_tally > 10;
     }
 }
-if ($e) {
-    $e->close;
-    report(\%freq);
-}
+print "Total: ";
+report(\%total);
+
