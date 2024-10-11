@@ -16,8 +16,9 @@ use Excel::Writer::XLSX;
     has workbook  => (is => 'lazy',
                       handles => [qw[ close add_worksheet add_format ]]);
     has worksheet => (is => 'lazy',
-                      handles => [qw[ write write_rich_string set_column
-                                      freeze_panes data_validation ]]);
+                      handles => [qw[ write write_rich_string write_col
+                                      set_column freeze_panes
+                                      data_validation ]]);
 
     has [qw[ tag red blue bold beige_bg small justify unlocked ]]
         => (is => 'lazy');
@@ -29,15 +30,15 @@ use Excel::Writer::XLSX;
         return $self->tag->{$tag}, $word
     }
 
-    my @FUNCTORS = qw( ACMP AIM ATT CAUS CIRC CNCS COND CPR CRIT DIR3
-                       EXT INTT LOC MANN MEANS MOD REG RESL RESTR THO
-                       TPAR TWHEN ??? );
-    my @SUBFUNCTORS = qw( above abstr across after agst along approx
-                          around basic before begin behind below betw
-                          circ elsew end ext flow front incl in less
-                          mid more near opp target than to wout wrt nr
-                          ??? );
-
+    my @FUNCTORS = qw( ACMP MANN MEANS COND AIM REG TWHEN TSIN CPR EXT
+                       MOD CIRC OTHER );
+    my @SUBFUNCTORS = qw( community association included excluded
+                          attribute of-event of-agent of-result idiom
+                          condition side-effect concomitant tool
+                          transport mediator because progressively
+                          proportionally intent regard simultaneously
+                          validity compared adequately large certainty
+                          probability other );
     sub BUILD($self, $args) {
         $self->write(0, 0, ['Position', 'Sentence',
                                 'Functor', 'Subfunctor', "",
@@ -45,16 +46,20 @@ use Excel::Writer::XLSX;
                          $self->bold);
         $self->write(0, $_, "", $self->beige_bg) for 4, 7;
 
-        my @widths = (22, 42, 8, 11, 1, 8, 11, 1, 30);
+        my @widths = (22, 42, 8, 14, 1, 8, 14, 1, 30);
         for my $i (0 .. $#widths) {
             $self->set_column($i, $i, $widths[$i]);
         }
         $self->freeze_panes(1, 0);
+
+        $self->write_col(0, 52, \@SUBFUNCTORS);
+        $self->set_column(52, 52, undef, undef, 1);
+
         $self->data_validation(1, $_, 50, $_, {validate => 'list',
                                                source   => \@FUNCTORS})
             for 2, 5;
         $self->data_validation(1, $_, 50, $_, {validate => 'list',
-                                               source   => \@SUBFUNCTORS})
+                                               source   => '=$BA$1:$BA$28'})
             for 3, 6;
     }
 
@@ -63,7 +68,7 @@ use Excel::Writer::XLSX;
     }
 
     sub _build_worksheet($self) {
-        my $ws = $self->add_worksheet;
+        my $ws = $self->add_worksheet('Subf');
         $ws->protect;
         return $ws
     }
@@ -166,4 +171,3 @@ while (my $line = <>) {
 }
 print "Total: ";
 report(\%total);
-
