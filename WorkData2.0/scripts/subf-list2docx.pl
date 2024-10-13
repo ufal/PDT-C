@@ -136,11 +136,15 @@ my $e;
 
 my $row = 1;
 my %freq;
+my %seen;
 my %total;
 
 while (my $line = <>) {
     my $r = int rand 8;
     next if $line =~ /%ACMP:/ && 0 != $r;
+
+    my $clean = $line =~ s/<<[^>]+:|\t.*//gr;
+    next if $seen{$clean}++;
 
     $e = 'My::Excel'->new(name => "subf-s-$file_tally.xlsx")
         unless $e;
@@ -166,6 +170,7 @@ while (my $line = <>) {
         $total{$_} += $freq{$_} for keys %freq;
         report(\%freq);
         %freq = ();
+        %seen = ();
         last if ++$file_tally > 10;
     }
 }
