@@ -12,7 +12,9 @@ use Spreadsheet::ParseXLSX;
 
 sub report($header, $freq) {
     print "$header: ";
-    for my $key (sort { $freq->{$b} <=> $freq->{$a} } keys %$freq) {
+    for my $key (sort { $freq->{$b} <=> $freq->{$a} || $a cmp $b }
+                 keys %$freq
+    ) {
         print $key, ': ', $freq->{$key}, ' ';
     }
     print "\n";
