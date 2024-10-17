@@ -17,7 +17,6 @@ BEGIN {
     open my $in, "<", $ENV{ids} or die $!;
     chomp( my @lines = <$in> );
     @id{ @lines } = ();
-    use Data::Dumper; warn Dumper \%id;
 }
 
 FPosition() if exists $id{ $this->{id} };
