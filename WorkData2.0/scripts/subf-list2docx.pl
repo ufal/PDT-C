@@ -30,15 +30,15 @@ use Excel::Writer::XLSX;
         return $self->tag->{$tag}, $word
     }
 
-    my @FUNCTORS = qw( ACMP MANN MEANS COND AIM REG TWHEN TSIN CPR EXT
-                       MOD CIRC OTHER );
-    my @SUBFUNCTORS = qw( community association included excluded
-                          attribute of-event of-agent of-result idiom
-                          condition side-effect concomitant tool
-                          transport mediator because progressively
-                          proportionally intent regard simultaneously
-                          validity compared adequately large certainty
-                          probability other );
+    my @FUNCTORS = qw( ACMP AIM CIRC COND CPR EXT MANN MEANS MOD REG
+                       TSIN TWHEN OTHER );
+    my @SUBFUNCTORS = qw( adequately association attribute because
+                          certainty community compared concomitant
+                          condition excluded idiom included intent
+                          large mediator of-agent of-event of-result
+                          probability progressively proportionally
+                          regard side-effect simultaneously tool
+                          transport validity other );
     sub BUILD($self, $args) {
         $self->write(0, 0, ['Position', 'Sentence',
                                 'Functor', 'Subfunctor', "",
