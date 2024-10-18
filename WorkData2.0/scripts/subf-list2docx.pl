@@ -8,6 +8,8 @@ use open ':encoding(UTF-8)', ':std';
 
 use Excel::Writer::XLSX;
 
+use constant FILE_COUNT => 11;
+
 {   package My::Excel;
     use Moo;
     no warnings 'experimental';
@@ -41,9 +43,9 @@ use Excel::Writer::XLSX;
                           transport validity other );
     sub BUILD($self, $args) {
         $self->write(0, 0, ['Position', 'Sentence',
-                                'Functor', 'Subfunctor', "",
-                                'Functor2', 'Subfunctor2', "", 'Comment'],
-                         $self->bold);
+                            'Functor', 'Subfunctor', "",
+                            'Functor2', 'Subfunctor2', "", 'Comment'],
+                     $self->bold);
         $self->write(0, $_, "", $self->beige_bg) for 4, 7;
 
         my @widths = (22, 42, 8, 14, 1, 8, 14, 1, 30);
@@ -139,6 +141,10 @@ my %freq;
 my %seen;
 my %total;
 
+my $RAND = qx{ date +%N };
+srand $RAND;
+say {*STDERR} "RAND: $RAND";
+
 while (my $line = <>) {
     my $r = int rand 8;
     next if $line =~ /%ACMP:/ && 0 != $r;
@@ -171,7 +177,7 @@ while (my $line = <>) {
         report(\%freq);
         %freq = ();
         %seen = ();
-        last if ++$file_tally > 10;
+        last if ++$file_tally > FILE_COUNT;
     }
 }
 print "Total: ";
