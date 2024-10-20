@@ -90,6 +90,15 @@ sub coref {
                  }
              }
 
+             if (my @bridging = ListV($node->{bridging})) {
+                 for my $rf (map $_->{'target_node.rf'}, @bridging) {
+                     if (! exists $id{$rf}) {
+                         print "no bridging target\t";
+                         FPosition($node);
+                     }
+                 }
+             }
+
              if ('#PersPron' eq $node->{t_lemma}) {
                  if ('DPHR' eq $node->{functor}) {
                      print "DPHR #perspron\t";
