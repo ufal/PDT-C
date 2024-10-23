@@ -7,10 +7,12 @@ use XML::LibXML ();
 
 binmode *STDOUT, ':encoding(UTF-8)';
 
+my @files = @ARGV ? @ARGV : glob 'annotators/???/done/*.w';
+
 my $xpc = 'XML::LibXML::XPathContext'->new;
 $xpc->registerNs(pml => 'http://ufal.mff.cuni.cz/pdt/pml/');
 
-for my $wfile (glob 'annotators/???/done/*.w') {
+for my $wfile (@files) {
     my %w;
     my $doc = substr $wfile, 0, -2;
 
