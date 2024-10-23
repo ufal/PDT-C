@@ -53,17 +53,29 @@ for my $wfile (@files) {
                         say "Id not found\t$wid";
                     }
                 }
+                my $form_change = $xpc->findvalue('pml:form_change', $mnode);
+                if ('insert' eq ($form_change // "")) {
+                    say "form_change=insert with ref\t$id\t$form";
+                }
                 if (@wids > 1
                     || (1 == @wids && $form ne $w{ $wids[0] }{token})
                 ) {
                     say "Missing form change\t$id\t$form != ",
                         join ' ', map $_->{token}, @w{@wids}
-                        unless $xpc->findvalue('pml:form_change', $mnode);
+                        unless $form_change;
                 } elsif (1 == @wids
                          && $form eq $w{ $wids[0] }{token}
-                         && $xpc->findvalue('pml:form_change', $mnode)
+                         && $form_change
                      ) {
                     say "Superfluous form change\t$id\t$form.";
+                }
+            } else {
+                my $form_change = $xpc->findvalue('pml:form_change', $mnode);
+                if (! $form_change) {
+                    say "Missing form_change insert\t$id\t$form";
+                } elsif ($form_change ne 'insert') {
+                    say "Wrong form_change instead of insert",
+                        "\t$id\t$form $form_change";
                 }
             }
         }
