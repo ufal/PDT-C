@@ -1,0 +1,73 @@
+#!btred -NTe t_checks()
+# -*- mode: cperl; encoding: utf-8 -*-
+
+use feature 'say';
+my @CHECKS = (
+    [{functor => 'FPHR'}, {nodetype => 'fphr'}],
+    [{nodetype => 'fphr'}, {functor => 'FPHR'}],
+    [{functor => 'DPHR'}, {nodetype => 'dphr'}],
+    [{nodetype => 'dphr'}, {functor => 'DPHR'}],
+    [{functor => '(?:ATT|CM|INTF|MOD|PARTL|PREC|RHEM)$'}, {nodetype => 'atom'}],
+    [{nodetype => 'atom'}, {functor => '(?:ATT|CM|INTF|MOD|PARTL|PREC|RHEM)$'}],
+    [{functor => '(?:CONJ|ADVS|CSQ|DISJ|GRAD|REAS|CONFR|CONTRA|OPER|APPS)$'},
+     {nodetype => 'coap'}],
+    [{nodetype => 'coap'},
+     {functor => '(?:CONJ|ADVS|CSQ|DISJ|GRAD|REAS|CONFR|CONTRA|OPER|APPS)$'}],
+    [{t_lemma => '#(?:Idph|Forn)$'}, {nodetype => 'list'}],
+    [{nodetype => 'list'}, {t_lemma => '#(?:Idph|Forn)$'}],
+    [{t_lemma => '#(?:Cor|EmpVerb|Equal|Gen|Oblfm|QCor|Rcp|Some|Total|Unsp)$'},
+     {nodetype => 'qcomplex'}],
+    [{nodetype => 'qcomplex'},
+     {t_lemma => '#(?:Cor|EmpVerb|Equal|Gen|Oblfm|QCor|Rcp|Some|Total|Unsp|Amp|Ast|Benef|AsMuch|Percnt|Bracket|Comma|Colon|Dash|Period|Period3|Slash)$'},
+     functor => '(?!(?:CONJ|ADVS|CSQ|DISJ|GRAD|REAS|CONFR|CONTRA|OPER|APPS)$)'],
+    [{t_lemma => '#(?:Amp|Ast|Benef|AsMuch|Percnt|Bracket|Comma|Colon|Dash|Period|Period3|Slash)$',
+      functor => '(?!(?:CONJ|ADVS|CSQ|DISJ|GRAD|REAS|CONFR|CONTRA|OPER|APPS)$)'},
+     {nodetype => 'qcomplex'}],
+    [{nodetype => '(?!complex$)'}, sub {
+         say "Only complex nodes have grammatemes\t", ThisAddress($this)
+             if $this->{gram};
+     }],
+    [{gram => ''}, {nodetype => '(?!complex$)'}],
+    [{functor => 'FPHR'}, sub {
+         my $anode = PML_T::GetALexNode($this);
+         if (! $anode) {
+             print "FPHR without a/lex\t";
+             FPosition($this);
+             return
+        }
+         say "FPHR tlemma ne mform\t", ThisAddress($this)
+             if $this->{t_lemma} ne $anode->attr('m/form');
+     }]);
+
+
+sub t_checks {
+    return if $root == $this;
+
+  CHECK1:
+    for my $check (@CHECKS) {
+        my ($condition, $verify) = @$check;
+        for my $attr (keys %$condition) {
+            my $value = $condition->{$attr};
+            if ($value =~ /\(/) {
+                next CHECK1 unless $this->{$attr} =~ /^$value/;
+            } else {
+                next CHECK1 unless $value eq ($this->{$attr} // "");
+            }
+        }
+        if ('CODE' eq ref $verify) {
+            $verify->();
+        } else {
+            for my $v_attr (keys %$verify) {
+                my $value = $verify->{$v_attr};
+                if ($value =~ /\(/) {
+                    say "Invalid $v_attr=$this->{$v_attr}\t", ThisAddress($this)
+                        unless $this->{$v_attr} =~ /^$value/;
+                } else {
+                    say "Invalid $v_attr=$this->{$v_attr}($value)\t",
+                        ThisAddress($this)
+                        unless $this->{$v_attr} eq $value;
+                }
+            }
+        }
+    }
+}
