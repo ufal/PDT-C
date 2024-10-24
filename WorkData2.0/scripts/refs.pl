@@ -122,6 +122,7 @@ for my $wfile (@files) {
     my @delete_ar;
     my @delete_an;
     my %mwe;
+    my %lex_rf;
     my $tdom = 'XML::LibXML'->load_xml(location => $tfile);
     for my $tnode ($xpc->findnodes('//pml:trees//pml:deepord/..', $tdom)) {
         my $id = $tnode->{id};
@@ -142,19 +143,24 @@ for my $wfile (@files) {
 
         } else {
             $t{$id} = $xpc->findvalue('pml:t_lemma', $tnode);
-            if (my ($ref) = $xpc->findnodes('pml:a', $tnode)) {
-                my @refs = map s/^a#//r,
-                           grep length,
-                           map s/\s+//gr,
-                           $xpc->findnodes('.//text()', $ref);
-                for my $ref (@refs) {
+            my $is_generated = $xpc->findvalue('pml:is_generated', $tnode);
+            if (my ($aref) = $xpc->findnodes('pml:a', $tnode)) {
+                my $lex = $xpc->findvalue('substring-after(pml:lex.rf, "a#")',
+                                          $aref);
+                my @aux = map s/^a#//r,
+                          grep length,
+                          map s/\s+//gr,
+                          $xpc->findnodes('pml:aux.rf//text()', $aref);
+                for my $ref (($lex) x !! $lex, @aux) {
                     push @delete_an, $ref;
                     say "Id not found\t$id\t<$ref>" unless exists $a{n}{$ref};
                 }
-            }
 
+                push @{ $lex_rf{$lex}{$is_generated ? 'gen' : 'nong'} }, $id
+                            if $lex;
+            }
             if (! $xpc->findnodes('pml:a/pml:lex.rf', $tnode)
-                && 1 != ($xpc->findvalue('pml:is_generated', $tnode) || 0)
+                && ! $is_generated
             ) {
                 say "Non generated t without lex.rf\t$id";
             }
@@ -165,6 +171,18 @@ for my $wfile (@files) {
             say "Missing mwe\t$mwe{$ref}\t$ref";
         }
     }
+    for my $aid (keys %lex_rf) {
+        my @gen = @{ $lex_rf{$aid}{nong} // [] };
+        if (@gen != 1) {
+            say "More than 1 non-generated\t$aid\t",
+                join ' ', @{ $lex_rf{$aid}{nong} }
+                if @gen > 1;
+            say "All generated\t$aid\t",
+                join ' ', @{ $lex_rf{$aid}{gen} }
+                if ! @gen;
+        }
+    }
+
     delete @{ $a{r} }{@delete_ar};
     delete @{ $a{n} }{@delete_an};
     say "Not referenced a roots\t$_" for keys %{ $a{r} };
