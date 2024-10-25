@@ -1,0 +1,102 @@
+#!btred -NT -e fix_att()
+# -*- mode: cperl; encoding: utf-8 -*-
+use warnings;
+use strict;
+use utf8;
+
+my %FIX = (
+    Bůh             => 'bože',
+    Prosím          => 'prosím',
+    Přeci_jenom     => 'přeci_jenom',
+    Stejně          => 'stejně',
+    Vidíte          => 'vidíte',
+    Vpodstatě       => 'vpodstatě',
+    Víte            => 'víte',
+    Víš             => 'víš',
+    dobrý           => 'při_nejlepším',
+    dobře           => {lépe => undef, nejlépe => undef},
+    duše            => 'na_duši',
+    dát             => 'dejme',
+    dík             => 'díky',
+    facto           => 'de_facto',
+    hodně           => 'více',
+    jistota         => 's_jistotou',
+    kdyby           => {kdybych => undef, kdybyste => undef},
+    klidný          => 'klidně',
+    konečný         => 'konečně',
+    malý            => 'při_nejmenším',
+    myslit          => 'myslím',
+    myslit_si       => 'si_myslím',
+    nadsázka        => 'bez_nadsázky',
+    pochybně        => 'nepochybně',
+    podstata        => 'v_podstatě',
+    pohled          => 'na_pohled',
+    pravděpodobnost => {s_pravděpodobností => undef,
+                        se_pravděpodobností => undef},
+    princip         => 'v_principu',
+    právem          => 'neprávem',
+    přece           => 'přeci',
+    přehled         => 's_přehledem',
+    případ          => 'v_případě',
+    raději          => {nejraději => undef, radši => undef},
+    rád             => {nejradši => undef, raději => undef, radši => undef},
+    shoda           => 'shodou',
+    skutečnost      => {ve_skutečnosti => undef, ve_skutečností => undef},
+    smůla           => 'na_smůlu',
+    stejný          => 'stejně',
+    strana          => 'na_straně',
+    sám             => 'samo',
+    ten             => 'k_tomu',
+    víra            => {na_věru => undef, v_víře => undef},
+    výjimka         => 'bez_výjimky',
+    všechen         => {beze_všeho => undef, ke_všemu => undef},
+    zaplať_Pánbůh   => 'zaplať_pánbůh',
+    zjevný          => 'zjevně',
+    změna           => 'pro_změnu',
+    způsob          => 'způsobem',
+    zásada          => 'v_zásadě',
+    čert            => {do_čerta => undef, k_čertu => undef, u_čerta => undef},
+    řada            => 'v_řadě',
+    škoda           => 'ke_škodě',
+);
+
+sub fix_att {
+    return if $root == $this;
+    return if 'ATT' ne $this->{functor};
+
+    my $fix = $FIX{ $this->{t_lemma} };
+    writeln("Skip: no rule for $this->{t_lemma}\t", ThisAddress($this)),
+    return unless $fix;
+
+    my $lex = PML_T::GetALexNode($this);
+    warn("No lex for ATT\t", ThisAddress($this)), return if ! $lex;
+
+    my @aux = PML_T::GetAAuxNodes($this);
+    my $form = join '_',
+                map $_->[1] =~ /^[[:upper:]]/ ? ucfirst lc $_->[2]
+                                              : lc $_->[2],
+                sort { $a->[0] <=> $b->[0] }
+                map [$_->{ord}, $_->attr('m/lemma'), $_->attr('m/form')],
+                grep defined,
+                @aux, $lex;
+    return if $form eq $this->{t_lemma};
+
+    if (ref $fix) {
+        if (exists $fix->{$form}) {
+            print "Fixed $this->{t_lemma} $form\t";
+            $this->{t_lemma} = $form;
+            ChangingFile(1);
+        } else {
+            print "Skip $this->{t_lemma} $form\t";
+        }
+    } else {
+        if ($form eq $fix) {
+            print "Fixed $this->{t_lemma} $fix\t";
+            $this->{t_lemma} = $fix;
+            ChangingFile(1);
+        } else {
+            print "Skip $this->{t_lemma}: $form != $fix\t";
+        }
+    }
+    FPosition($this);
+}
