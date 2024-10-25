@@ -66,24 +66,24 @@ sub t_checks {
 }
 
 sub tlemma_eq_form {
-     my $lex = PML_T::GetALexNode($this);
-     my $should_keep_case = $this->{functor} eq 'FPHR';
-     if (! $lex) {
-         print "$this->{functor} without a/lex\t";
-         FPosition($this);
+    my $lex = PML_T::GetALexNode($this);
+    my $should_keep_case = $this->{functor} eq 'FPHR';
+    if (! $lex) {
+        print "$this->{functor} without a/lex\t";
+        FPosition($this);
          return
-    }
-     my @aux = PML_T::GetAAuxNodes($this);
-     my $form = join '_',
-                map $should_keep_case           ? $_->[2]
-                    : $_->[1] =~ /^[[:upper:]]/ ? ucfirst lc $_->[2]
-                                                : lc $_->[2],
-                sort { $a->[0] <=> $b->[0] }
-                map [$_->{ord}, $_->attr('m/lemma'), $_->attr('m/form')],
-                grep defined,
-                @aux, $lex;
-     say "$this->{functor} tlemma ne mform\t",
-         "$this->{t_lemma}=$form\t",
-         ThisAddress($this)
-         if $this->{t_lemma} ne $form;
+     }
+    my @aux = PML_T::GetAAuxNodes($this);
+    my $form = join '_',
+               map $should_keep_case           ? $_->[2]
+                   : $_->[1] =~ /^[[:upper:]]/ ? ucfirst lc $_->[2]
+                                               : lc $_->[2],
+               sort { $a->[0] <=> $b->[0] }
+               map [$_->{ord}, $_->attr('m/lemma'), $_->attr('m/form')],
+               grep defined,
+               @aux, $lex;
+    say "$this->{functor} tlemma ne mform\t",
+        "$this->{t_lemma}=$form\t",
+        ThisAddress($this)
+        if $this->{t_lemma} ne $form;
  }
