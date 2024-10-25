@@ -1,0 +1,30 @@
+#!btred -e intf_tlemma()
+# -*- mode: cperl -*-
+
+# Run this on the filelist obtained from
+#  btred -I t-checks.btred | grep INTF
+
+use warnings;
+use strict;
+
+sub intf_tlemma {
+    if ($this->{functor} ne 'INTF') {
+        print "Not INTF\t";
+        FPosition($this);
+        return
+    }
+
+    my $anode = PML_T::GetALexNode($this);
+    if (! $anode) {
+        print "No lex\t";
+        FPosition($this);
+        return
+    }
+    my $form = lc $anode->attr('m/form');
+    if ($this->{t_lemma} ne $form) {
+        ChangingFile(1);
+        print "$this->{t_lemma} -\> $form\t";
+        FPosition($this);
+        $this->{t_lemma} = $form;
+    }
+}
