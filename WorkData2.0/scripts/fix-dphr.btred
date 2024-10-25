@@ -1,0 +1,28 @@
+#!btred -NT -e fix_dphr()
+# -*- mode: cperl; encoding: utf-8 -*-
+use warnings;
+use strict;
+use utf8;
+
+sub fix_dphr {
+    return if $root == $this;
+    return if 'DPHR' ne $this->{functor};
+
+    my $lex = PML_T::GetALexNode($this);
+    warn("No lex for DPHR\t", ThisAddress($this)), return if ! $lex;
+
+    my @aux = PML_T::GetAAuxNodes($this);
+    my $form = join '_',
+                map $_->[1] =~ /^[[:upper:]]/ ? ucfirst lc $_->[2]
+                                              : lc $_->[2],
+                sort { $a->[0] <=> $b->[0] }
+                map [$_->{ord}, $_->attr('m/lemma'), $_->attr('m/form')],
+                grep defined,
+                @aux, $lex;
+    return if $form eq $this->{t_lemma};
+
+    print "Fixed $this->{t_lemma} $form\t";
+    FPosition($this);
+    $this->{t_lemma} = $form;
+    ChangingFile(1);
+}
