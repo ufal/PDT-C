@@ -845,6 +845,12 @@ sub node_style_hook {
           if (is_negated($arrow)) {
             $discourse_type = '!' . $discourse_type;
           }
+          my $sense_PDTB3 = $arrow->{'sense_PDTB3'} || '';
+          my $sense_PDTB3_manual = $arrow->{'sense_PDTB3_manual'} || '';
+          $sense_PDTB3 = $sense_PDTB3_manual if ($sense_PDTB3_manual);
+          my $sense1B_PDTB3 = $arrow->{'sense1B_PDTB3'} || '';
+          my $sense1B_PDTB3_manual = $arrow->{'sense1B_PDTB3_manual'} || '';
+          $sense1B_PDTB3 = $sense1B_PDTB3_manual if ($sense1B_PDTB3_manual);
           my $start_range = $arrow->{'start_range'};
           $start_range = '-' if (!defined($start_range));
           if ($start_range eq 'group') {
@@ -857,7 +863,7 @@ sub node_style_hook {
             my $target_group_id = $arrow->{'target_group_id'} || '?';
             $target_range .= ' ' . $target_group_id;
           }
-          my $hint = 'connective' . (is_secondary($arrow) ? '_alt: ' : ': ') . get_surface_connective($arrow);
+          my $hint = 'connective' . (is_secondary($arrow) ? '_sec: ' : ': ') . get_surface_connective($arrow);
           my $ext_conn = get_surface_connective_ext($arrow);
           if ($ext_conn) {
             $hint .= "\next. connective: $ext_conn";
@@ -865,6 +871,8 @@ sub node_style_hook {
           $hint .= "\ntype: " . $arrow_type;
           if ($arrow_type eq 'discourse') {
             $hint .= "\ndiscourse type: " . $discourse_type;
+            $hint .= "\nPDTB3 sense: " . $sense_PDTB3 if $sense_PDTB3;
+            $hint .= "\nPDTB3 sense1B: " . $sense1B_PDTB3 if $sense1B_PDTB3;
           }
           $hint .= "\nstart range: " . $start_range
                   . "\ntarget range: " . $target_range;
