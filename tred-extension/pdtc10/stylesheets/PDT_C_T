@@ -24,7 +24,10 @@ node:<?
     '#{customfunc}${functor}').
     "#{customsubfunc}".($${subfunctor}?".\${subfunctor}":'').($${is_state}?".\${is_state=state}":'')
     ?><?(PDT_C_T::get_display_tfa() eq '2' && $${tfa}) ? '#{#339900}.${tfa}' : ''?><?'#{#ff710c}'?><?(PDT_C_T::get_display_discourse() eq '1') ? (
-      ' ' . join (' ', map "" . (PDT_C_T::is_negated($_) ? "!" : "") . $_->{'discourse_type'}, sort PDT_C_T::compare_target_nodes_positions_deepord grep {defined and length and $_->{'target_node.rf'}} ListV($this->{discourse}))
+      ' ' . join (' ', map "" . (PDT_C_T::is_negated($_) ? "!" : "") . ($_->{'discourse_type'} ? $_->{'discourse_type'} : $_->{'type'})
+      . (($_->{'sense_PDTB3_manual'} or $_->{'sense_PDTB3'}) ? '#{#cb13bb}->' . ($_->{'sense_PDTB3_manual'} ? '#{#fa2525}' : '#{#ff710c}') . ($_->{'sense_PDTB3_manual'} ? PDT_C_T::shorten_PDTB3_sense($_->{'sense_PDTB3_manual'}) : PDT_C_T::shorten_PDTB3_sense($_->{'sense_PDTB3'})) . '#{#ff710c}' : '')
+      . (($_->{'sense1B_PDTB3_manual'} or $_->{'sense1B_PDTB3'}) ? '#{#ab039b} (' . ($_->{'sense1B_PDTB3_manual'} ? '#{#da1515}' : '#{#ff710c}') . ($_->{'sense1B_PDTB3_manual'} ? PDT_C_T::shorten_PDTB3_sense($_->{'sense1B_PDTB3_manual'}) : PDT_C_T::shorten_PDTB3_sense($_->{'sense1B_PDTB3'})) . '#{#ab039b})' .
+      '#{#ff710c}' : ''), sort PDT_C_T::compare_target_nodes_positions_deepord grep {defined and length and $_->{'target_node.rf'}} ListV($this->{discourse}))
      ) : ()
   ?><?'#{customcoref}'?><?(PDT_C_T::get_display_coref_text() eq '1') ? (
       ' ' . join (' ', map "" . $_->{'type'}, sort PDT_C_T::compare_target_nodes_positions_deepord grep {defined and length and $_->{'target_node.rf'}} ListV($this->{coref_text}))
@@ -60,7 +63,7 @@ style:<? '#{Node-shape:'.($this->{'mwe_root'} ? 'polygon' : ( $this->{is_generat
   ?><? exists $PML_T::show{$${id}} ? '#{Node-addwidth:10}#{Node-addheight:10}' : ''
   ?>#{Node-hide:<? $this->{hide} ?>}
 style:<? if (PDT_C_T::get_display_tfa() > 0 && PDT_C_T::is_tfa_relevant($this)) { '#{Node-addwidth:5}#{Node-addheight:5}' }?>
-style:<? if ($${discourse_special} and $${discourse_special} eq 'heading') { (PDT_C_T::get_display_tfa() > 0 && PDT_C_T::is_tfa_relevant($this)) ? '#{Node-addheight:13}' : '#{Node-addheight:8}'}?>
+style:<? if ($${discourse_feature} or $${discourse_macrostructure}) { (PDT_C_T::get_display_tfa() > 0 && PDT_C_T::is_tfa_relevant($this)) ? '#{Node-addheight:13}' : '#{Node-addheight:8}'}?>
 style:<? if (PDT_C_T::is_list_entry($this)) { (PDT_C_T::get_display_tfa() > 0 && PDT_C_T::is_tfa_relevant($this)) ? '#{Node-addwidth:13}' : '#{Node-addwidth:8}'}?>
 style:<? $this->{style} ?>
 
@@ -125,6 +128,9 @@ hint:<?
        push @hintlines, "gram/".$gram.": ".$this->{gram}->{$gram} if $this->{gram}->{$gram}
      }
    }
+   push@hintlines, "discourse_feature: " . $${discourse_feature} if $${discourse_feature};
+   push@hintlines, "discourse_macrostructure: " . $${discourse_macrostructure} if $${discourse_macrostructure};
+   push@hintlines, "is_list_entry: 1" if PDT_C_T::is_list_entry($this);
    push@hintlines, "is_dsp_root: 1" if $${is_dsp_root};
    push@hintlines, "is_name_of_person: 1" if $${is_name_of_person};
    push@hintlines, "quot: ". join(",",map{$_->{type}}ListV($this->{quot})) if $${quot};

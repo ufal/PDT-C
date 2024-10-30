@@ -50,8 +50,7 @@ our %annotator;
 # our %root_index;
 
 sub detect {
-  return ((PML::SchemaDescription() // "") =~ m/^PDT-C/
-          and (PML::SchemaName() // "") eq 'tdata') ? 1 : 0;
+  return (PML::SchemaDescription() =~ m/^PDT-C/ and PML::SchemaName() eq 'tdata') ? 1 : 0;
 }
 
 sub allow_switch_context_hook {
@@ -404,6 +403,55 @@ sub after_redraw_hook {
     }
   } # discourse groups
 
+}
+
+my %pdtb3_short = (
+      "Comparison.Concession.Arg1-as-denier" => "Conc.Arg1asDenier",
+      "Comparison.Concession.Arg2-as-denier" => "Conc.Arg2asDenier",
+      "Comparison.Concession+SpeechAct.Arg2-as-denier+SpeechAct" => "Cons+SA.Arg2asDen",
+      "Comparison.Contrast" => "Contrast",
+      "Comparison.Similarity" => "Similarity",
+      "Contingency.Cause.Reason" => "Cause.Reason",
+      "Contingency.Cause.Result" => "Cause.Result",
+      "Contingency.Cause+Belief.Reason+Belief" => "Cause+B.Reason+B",
+      "Contingency.Cause+Belief.Result+Belief" => "Cause+B.Result+B",
+      "Contingency.Cause+SpeechAct.Reason+SpeechAct" => "Cause+SA.Reason+SA",
+      "Contingency.Cause+SpeechAct.Result+SpeechAct" => "Cause+SA.Result+SA",
+      "Contingency.Negative-cause.NegResult" => "NegCause.NegResult",
+      "Contingency.Condition.Arg1-as-cond" => "Cond.Arg1asCond",
+      "Contingency.Condition.Arg2-as-cond" => "Cond.Arg2asCond",
+      "Contingency.Condition+SpeechAct" => "Cond+SA",
+      "Contingency.Negative-condition.Arg1-as-negCond" => "NegCond.Arg1asNegCond",
+      "Contingency.Negative-condition.Arg2-as-negCond" => "NegCond.Arg2asNegCond",
+      "Contingency.Negative-condition+SpeechAct" => "NegCond+SA",
+      "Contingency.Purpose.Arg1-as-goal" => "Purp.Arg1asGoal",
+      "Contingency.Purpose.Arg2-as-goal" => "Purp.Arg2asGoal",
+      "Expansion.Conjunction" => "Conjunction",
+      "Expansion.Disjunction" => "Disjunction",
+      "Expansion.Equivalence" => "Equivalence",
+      "Expansion.Exception.Arg1-as-excpt" => "Except.Arg1asExcpt",
+      "Expansion.Exception.Arg2-as-excpt" => "Except.Arg2asExcpt",
+      "Expansion.Instantiation.Arg1-as-instance" => "Inst.Arg1asInst",
+      "Expansion.Instantiation.Arg2-as-instance" => "Inst.Arg2asInst",
+      "Expansion.Level-of-detail.Arg1-as-detail" => "Level.Arg1asDetail",
+      "Expansion.Level-of-detail.Arg2-as-detail" => "Level.Arg2asDetail",
+      "Expansion.Manner.Arg1-as-manner" => "Manner.Arg1asManner",
+      "Expansion.Manner.Arg2-as-manner" => "Manner.Arg2asManner",
+      "Expansion.Substitution.Arg1-as-subst" => "Subst.Arg1asSubst",
+      "Expansion.Substitution.Arg2-as-subst" => "Subst.Arg2asSubst",
+      "Temporal.Asynchronous.Precedence" => "Asynch.Prec",
+      "Temporal.Asynchronous.Succession" => "Asynch.Succ",
+      "Temporal.Synchronous" => "Synchronous",
+      "IGNORE" => "IGNORE",
+);
+
+sub shorten_PDTB3_sense {
+  my $sense = shift;
+  my $short = $pdtb3_short{$sense};
+  if (!$short) {
+    $short = $sense;
+  }
+  return $short;
 }
 
 sub AnalyticalTree {

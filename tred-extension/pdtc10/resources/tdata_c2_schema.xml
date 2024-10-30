@@ -146,7 +146,9 @@
       <member name="deepord" role="#ORDER" required="1">
         <cdata format="nonNegativeInteger"/>
       </member>
-      <member name="discourse_special" type="t-discourse-special.type" required="0"/>
+      <member name="discourse_special" type="t-discourse-special.type" required="0"/>  <!-- obsolete, replaced by discourse_feature and discourse_macrostructure -->
+      <member name="discourse_feature" type="t-discourse-feature.type" required="0"/>
+      <member name="discourse_macrostructure" type="t-discourse-macrostructure.type" required="0"/>
       <member name="secondary_NP_type" type="t-discourse-type.type" required="0"/> <!-- a provisional attribute for annotating disc. type of secondary connectives connecting a non-verbal argument -->
       <member name="secondary_NP_negated" type="bool.type" required="0"/> <!-- a provisional attribute for marking a negated NP secondary connectives connecting a non-verbal argument -->
       <member name="discourse" required="0">
@@ -557,7 +559,7 @@
     </choice>
   </type>
 
-  <type name="t-discourse-special.type">
+  <type name="t-discourse-special.type"> <!-- obsolete, replaced by discourse_feature and discourse_macrostructure -->
     <choice>
       <value>caption</value>
       <value>heading</value>
@@ -565,6 +567,24 @@
     </choice>
   </type>
 
+  <type name="t-discourse-feature.type">
+    <choice>
+      <value>caption</value>
+      <value>heading</value>
+      <value>metatext</value>
+      <value>question</value>
+      <value>author</value>
+      <value>location</value>
+    </choice>
+  </type>
+
+  <type name="t-discourse-macrostructure.type">
+    <choice>
+      <value>macrostructure</value>
+      <value>coherence_gap</value>
+    </choice>
+  </type>  
+  
   <type name="t-discourse-groups.type">
     <structure>
       <member name="id" required="1">
@@ -582,6 +602,8 @@
         <choice>
           <value>discourse</value>
           <value>list</value>
+          <value>entrel</value>
+          <value>question-answer</value>
         </choice>
       </member>
       <member name="start_group_id" required="0">
@@ -597,6 +619,10 @@
         <cdata format="any"/>
       </member>
       <member name="discourse_type"  type="t-discourse-type.type" required="0"/>
+      <member name="sense_PDTB3"  type="semclass-pdtb3.type" required="0"/>
+      <member name="sense1B_PDTB3"  type="semclass-pdtb3.type" required="0"/>
+      <member name="sense_PDTB3_manual"  type="semclass-pdtb3.type" required="0"/>
+      <member name="sense1B_PDTB3_manual"  type="semclass-pdtb3.type" required="0"/>      
       <member name="is_negated" type="bool.type" required="0"/>
       <member name="comment" required="0">
         <cdata format="any"/>
@@ -625,6 +651,10 @@
         </list>
       </member>
       <member name="is_secondary" type="bool.type" required="0"/>
+      <member name="is_implicit" type="bool.type" required="0"/>
+      <member name="connective_inserted" required="0">
+        <cdata format="any"/>
+      </member>
       <member name="all_a-connectors.rf" required="0"> <!-- for searching in PML-TQ only (not in the distributed data) -->
         <list ordered="0">
           <cdata format="PMLREF"/>
@@ -672,7 +702,49 @@
       <value>other</value>
     </choice>
   </type>
-  
+
+  <type name="semclass-pdtb3.type">
+    <choice>
+      <value>Comparison.Concession.Arg1-as-denier</value>
+      <value>Comparison.Concession.Arg2-as-denier</value>
+      <value>Comparison.Concession+SpeechAct.Arg2-as-denier+SpeechAct</value>
+      <value>Comparison.Contrast</value>
+      <value>Comparison.Similarity</value>
+      <value>Contingency.Cause.Reason</value>
+      <value>Contingency.Cause.Result</value>
+      <value>Contingency.Cause+Belief.Reason+Belief</value>
+      <value>Contingency.Cause+Belief.Result+Belief</value>
+      <value>Contingency.Cause+SpeechAct.Reason+SpeechAct</value>
+      <value>Contingency.Cause+SpeechAct.Result+SpeechAct</value>
+      <value>Contingency.Negative-cause.NegResult</value>
+      <value>Contingency.Condition.Arg1-as-cond</value>
+      <value>Contingency.Condition.Arg2-as-cond</value>
+      <value>Contingency.Condition+SpeechAct</value>
+      <value>Contingency.Negative-condition.Arg1-as-negCond</value>
+      <value>Contingency.Negative-condition.Arg2-as-negCond</value>
+      <value>Contingency.Negative-condition+SpeechAct</value>
+      <value>Contingency.Purpose.Arg1-as-goal</value>
+      <value>Contingency.Purpose.Arg2-as-goal</value>
+      <value>Expansion.Conjunction</value>
+      <value>Expansion.Disjunction</value>
+      <value>Expansion.Equivalence</value>
+      <value>Expansion.Exception.Arg1-as-excpt</value>
+      <value>Expansion.Exception.Arg2-as-excpt</value>
+      <value>Expansion.Instantiation.Arg1-as-instance</value>
+      <value>Expansion.Instantiation.Arg2-as-instance</value>
+      <value>Expansion.Level-of-detail.Arg1-as-detail</value>
+      <value>Expansion.Level-of-detail.Arg2-as-detail</value>
+      <value>Expansion.Manner.Arg1-as-manner</value>
+      <value>Expansion.Manner.Arg2-as-manner</value>
+      <value>Expansion.Substitution.Arg1-as-subst</value>
+      <value>Expansion.Substitution.Arg2-as-subst</value>
+      <value>Temporal.Asynchronous.Precedence</value>
+      <value>Temporal.Asynchronous.Succession</value>
+      <value>Temporal.Synchronous</value>
+      <value>IGNORE</value>
+    </choice>
+  </type>
+
   <type name="t-bridging-link.type">
     <structure>
       <member name="target_node.rf" required="1">
