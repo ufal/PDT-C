@@ -6,7 +6,7 @@
   <pkgname>pdtc10</pkgname>
   <repository href="http://ufal.mff.cuni.cz/tred/extensions/core/"/>
   <title>Prague Dependency Treebank - Consolidated 1.0</title>
-  <version>1.25</version>
+  <version>1.26</version>
   <copyright year="2023-2024">Jiří Mírovský, Jan Štěpánek, Petr Pajas, Zdeněk Žabokrtský</copyright>
   <icon>icons/logo.png</icon>
   <require>
