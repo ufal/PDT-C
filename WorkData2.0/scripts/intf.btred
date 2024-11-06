@@ -1,0 +1,42 @@
+#!btred -e intf()
+# -*- mode: cperl -*-
+use warnings;
+use strict;
+
+sub intf {
+    my %coref;
+    if ($root) {
+        do {{
+            while ($this) {
+                if ($this->{coref_text}) {
+                    for my $ct (ListV($this->{coref_text})) {
+                        undef $coref{TEXT_T}{ $ct->{'target_node.rf'} };
+                        undef $coref{TEXT_S}{ $this->{id} };
+                    }
+                }
+                if ($this->{'coref_gram.rf'}) {
+                    for my $gr (ListV($this->{'coref_gram.rf'})) {
+                        undef $coref{GRAM_T}{$gr};
+                        undef $coref{GRAM_S}{ $this->{id} };
+                    }
+                }
+                if ($this->{bridging}) {
+                    for my $br (ListV($this->{bridging})) {
+                        undef $coref{BRIDG_T}{ $br->{'target_node.rf'} };
+                        undef $coref{BRIDG_S}{ $this->{id} };
+                    }
+                }
+                if ($this != $root && 'INTF' eq $this->{functor}) {
+                    undef $coref{INTF}{ $this->{id} };
+                }
+            } continue {
+                $this = $this->following;
+            }
+        }} while TredMacro::NextTree();
+    }
+    for my $intf (keys %{ $coref{INTF} }) {
+        for my $type (grep 'INTF' ne $_, keys %coref) {
+            writeln("$type\t$intf") if exists $coref{$type}{$intf};
+        }
+    }
+}
