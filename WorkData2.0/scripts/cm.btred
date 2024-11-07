@@ -1,0 +1,13 @@
+#!btred -NTe cm()
+# -*- mode: cperl -*-
+use warnings;
+use strict;
+
+sub cm {
+    return if $root == $this;
+
+    if ('CM' eq $this->{functor}) {
+        my $p = $this->parent;
+        FPosition() if 'coap' ne $p->{nodetype};
+    }
+}
