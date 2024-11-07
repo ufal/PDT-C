@@ -1,0 +1,57 @@
+#!btred -NTe gram()
+# -*- mode: cperl -*-
+use warnings;
+use strict;
+
+my %PERMITTED = map {
+    $_->[0] => { map {; $_ => undef } @$_[1 .. $#$_] }
+}
+    ['n.denot'              => qw[ gender number typgroup ]],
+    ['n.denot.neg'          => qw[ gender negation number typgroup ]],
+    ['n.pron.def.demon'     => qw[ gender number ]],
+    ['n.pron.def.pers'      => qw[ gender number person politeness ]],
+    ['n.pron.indef'         => qw[ gender indeftype number person ]],
+    ['n.quant.def'          => qw[ gender number numertype ]],
+    ['adj.denot'            => qw[ degcmp negation ]],
+    ['adj.pron.indef'       => qw[ indeftype ]],
+    ['adj.quant.def'        => qw[ numertype ]],
+    ['adj.quant.indef'      => qw[ indeftype numertype ]],
+    ['adj.quant.grad'       => qw[ degcmp numertype ]],
+    ['adv.denot.ngrad.neg'  => qw[ negation ]],
+    ['adv.denot.grad.nneg'  => qw[ degcmp ]],
+    ['adv.denot.grad.neg'   => qw[ degcmp negation ]],
+    ['adv.pron.indef'       => qw[ indeftype ]],
+    ['v'                    => qw[ aspect deontmod diatgram factmod
+                                   iterativeness tense ]],
+    ['adv.denot.ngrad.nneg'],
+    ['adj.pron.def.demon'],
+    ['adv.pron.def'];
+
+my %OBSOLETE = (verbmod     => 1,
+                dispmod     => 1,
+                resultative => 1);
+
+sub gram {
+    return if $root == $this
+           || ! $this->{gram};
+
+    my $sempos = $this->attr('gram/sempos');
+    if (! $sempos) {
+        print "No sempos\t";
+        FPosition();
+    }
+
+    for my $gram (keys %{ $this->{gram} }) {
+        next if 'sempos' eq $gram;
+
+        if (exists $OBSOLETE{$gram}) {
+            print "Obsolete $gram\t";
+            FPosition();
+        }
+
+        if (! exists $PERMITTED{$sempos}{$gram}) {
+            print "Not permitted $gram for $sempos\t";
+            FPosition();
+        }
+    }
+}
