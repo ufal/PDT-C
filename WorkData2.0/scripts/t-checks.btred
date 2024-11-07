@@ -30,7 +30,9 @@ my @CHECKS = (
              if $this->{gram};
      }],
     [{gram => ''}, {nodetype => '(?!complex$)'}],
-    [{functor => '(?:ATT|DPHR|FPHR|INTF)$'}, \&tlemma_eq_form]);
+    [{functor => '(?:ATT|DPHR|FPHR|INTF)$'}, \&tlemma_eq_form],
+    [{'gram/sempos' => 'v'}, {'val_frame.rf' => '(?:v#.*)'}],
+    [{'val_frame.rf' => '(?:v#)'}, {'gram/sempos' => '(?:n.*|v|ad[jv].*)'}]);
 
 
 sub t_checks {
@@ -42,9 +44,9 @@ sub t_checks {
         for my $attr (keys %$condition) {
             my $value = $condition->{$attr};
             if ($value =~ /\(/) {
-                next CHECK1 unless $this->{$attr} =~ /^$value/;
+                next CHECK1 unless ($this->attr($attr) // "") =~ /^$value/;
             } else {
-                next CHECK1 unless $value eq ($this->{$attr} // "");
+                next CHECK1 unless $value eq ($this->attr($attr) // "");
             }
         }
         if ('CODE' eq ref $verify) {
@@ -53,8 +55,9 @@ sub t_checks {
             for my $v_attr (keys %$verify) {
                 my $value = $verify->{$v_attr};
                 if ($value =~ /\(/) {
-                    say "Invalid $v_attr=$this->{$v_attr}\t", ThisAddress($this)
-                        unless $this->{$v_attr} =~ /^$value/;
+                    my $attr_value = $this->attr($v_attr) // "";
+                    say "Invalid $v_attr=$attr_value\t", ThisAddress($this)
+                        unless $attr_value =~ /^$value/;
                 } else {
                     say "Invalid $v_attr=$this->{$v_attr}($value)\t",
                         ThisAddress($this)
