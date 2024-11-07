@@ -69,7 +69,7 @@ sub t_checks {
 }
 
 sub tlemma_eq_form {
-    my $lex = PML_T::GetALexNode($this);
+    my $lex = $this->attr('a/lex.rf') ? PML_T::GetALexNode($this) : undef;
     my $should_keep_case = $this->{functor} eq 'FPHR';
     if (! $lex) {
         print "$this->{functor} without a/lex\t";
