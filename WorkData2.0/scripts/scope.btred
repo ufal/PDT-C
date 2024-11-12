@@ -1,0 +1,43 @@
+#!btred -NTe scope()
+# -*- mode: cperl -*-
+use warnings;
+use strict;
+
+sub scope {
+    return if $this == $root
+           || 'RHEM' ne $this->{functor};
+
+    my $ord     = $this->{deepord};
+    my $sibling = $this->rbrother;
+    my $s_ord   = ($sibling // {})->{deepord};
+    my $parent  = $this->parent;
+    my $p_ord   = $parent->{deepord};
+
+
+    my $order = join "",
+                map $_->[0],
+                sort { $a->[1] <=> $b->[1] }
+                ['Rh', $ord],
+                ['P', $p_ord],
+                [$sibling ? ('S', $s_ord) : ('-', 9999)];
+    my $scope;
+    if ($sibling && ($s_ord < $p_ord || $p_ord < $ord)) {
+        $scope = 'sibling';
+
+    } elsif ($ord < $p_ord && (! $sibling || $p_ord < $s_ord)) {
+        $scope = 'parent';
+
+    } elsif (! $sibling && $ord > $p_ord) {
+        $scope = 'rightmost ' . $parent->{functor};
+
+    } else {
+        $scope = 'other';
+    }
+
+    writeln(join "\t",
+                 "$this->{t_lemma}.$this->{functor}",
+                 $scope,
+                 $order,
+                 $parent->attr('gram/sempos') || $parent->{nodetype},
+                 ThisAddress());
+}
