@@ -81,7 +81,7 @@ for my $wfile (@files) {
         }
     }
     delete @w{@delete_w};
-    say qq(Not referenced wnode\t$_\t"$w{$_}{token}") for keys %w;
+    say qq(Not referenced wnode\t$_\t$wfile\t"$w{$_}{token}") for keys %w;
 
     my %a;
     my @delete_ms;
