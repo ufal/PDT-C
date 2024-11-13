@@ -4,34 +4,31 @@ use strict;
 use feature qw{ say };
 
 use FindBin;
+use List::Util qw{ uniq };
 use XML::LibXML;
 
-my $path = "$FindBin::Bin/../../WorkData/";
+-d $ENV{UFAL_PDTC2A} or die '$UFAL_PDTC2A not set';
 
-open my $identify, '-|', "$path/tools/identify_pdtsc.pl"
-    or die $!;
+my $path = "$FindBin::Bin/../../WorkData2.0";
 
 my $xpc = 'XML::LibXML::XPathContext'->new;
 $xpc->registerNs(pml => my $PML_NS = 'http://ufal.mff.cuni.cz/pdt/pml/');
 
-while (<$identify>) {
-    my ($m, $mdata) = split;
+my @mdata_files = uniq(
+    map s{^.*/|\.[0-9]{2}\.m$}{}gr,
+    glob "$ENV{UFAL_PDTC2A}/annotators/???/done/pdtsc_*.??.m");
+for my $mdata (@mdata_files) {
     my %morphology;
-    for my $m_file (glob "$path/PDTSC/data/$m.??.m") {
+    for my $m_file (glob "$ENV{UFAL_PDTC2A}/annotators/???/done/$mdata.??.m") {
         say STDERR $m_file;
         my $m_dom = 'XML::LibXML'->load_xml(location => $m_file);
         for my $m_node ($xpc->findnodes('//pml:m', $m_dom->documentElement)) {
             my ($tag, $lemma);
-            if ($xpc->findnodes('pml:tag[@lemma]', $m_node)) {
+            if ($xpc->findnodes('pml:tag', $m_node)) {
                 $tag = $xpc->findvalue('pml:tag/text()', $m_node);
-                $lemma = $xpc->findvalue('pml:tag/@lemma', $m_node);
+                $lemma = $xpc->findvalue('pml:lemma/text()', $m_node);
             } else {
-                my $am = ($xpc->findnodes('pml:tag/pml:AM[@selected=1]',
-                                         $m_node))[0];
-                $am ||= ($xpc->findnodes('pml:tag/pml:AM[@recommended=1]',
-                                        $m_node))[0];
-                $lemma = $am->{lemma};
-                $tag = $xpc->findvalue('text()', $am);
+                die "Tag not found";
             }
             my $form = $xpc->findvalue('pml:form', $m_node);
             $morphology{ $m_node->{id} } = { tag   => $tag,
@@ -41,7 +38,7 @@ while (<$identify>) {
     }
 
     my $mdata_dom = 'XML::LibXML'->load_xml(
-        location => "$path/PDTSC/data/$mdata.mdata");
+        location => "$path/PDTSC/pml/$mdata.mdata");
     for my $m_node ($xpc->findnodes('//pml:m', $mdata_dom->documentElement)) {
         my $id = $m_node->{id};
         my $form = $xpc->findvalue('pml:form', $m_node);
