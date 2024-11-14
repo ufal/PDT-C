@@ -5,7 +5,7 @@ use strict;
 
 sub scope {
     return if $this == $root
-           || 'RHEM' ne $this->{functor};
+           || $this->{functor} !~ /^(?:C|RHE)M$/;
 
     my $ord     = $this->{deepord};
     my $sibling = $this->rbrother;
@@ -36,6 +36,7 @@ sub scope {
 
     writeln(join "\t",
                  "$this->{t_lemma}.$this->{functor}",
+                 $this->{tfa} // '-',
                  $scope,
                  $order,
                  $parent->attr('gram/sempos') || $parent->{nodetype},
