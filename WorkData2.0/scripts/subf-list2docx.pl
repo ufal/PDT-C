@@ -34,13 +34,12 @@ use constant FILE_COUNT => 11;
 
     my @FUNCTORS = qw( ACMP AIM CIRC COND CPR EXT MANN MEANS MOD REG
                        TSIN TWHEN OTHER );
-    my @SUBFUNCTORS = qw( adequately association attribute because
-                          certainty community compared concomitant
-                          condition excluded idiom included intent
-                          large mediator of-agent of-event of-result
-                          probability progressively proportionally
-                          regard side-effect simultaneously tool
-                          transport validity other );
+    my @SUBFUNCTORS = qw( adequately association because community compared
+                          condition excluded idiom intent large material
+                          mediator mod of-agent of-event of-result
+                          progressively regard relation side-effect
+                          simultaneously tool tool-abstract topic transport
+                          validity other );
     sub BUILD($self, $args) {
         $self->write(0, 0, ['Position', 'Sentence',
                             'Functor', 'Subfunctor', "",
@@ -60,8 +59,10 @@ use constant FILE_COUNT => 11;
         $self->data_validation(1, $_, 50, $_, {validate => 'list',
                                                source   => \@FUNCTORS})
             for 2, 5;
-        $self->data_validation(1, $_, 50, $_, {validate => 'list',
-                                               source   => '=$BA$1:$BA$28'})
+        $self->data_validation(1, $_, 50, $_,
+                               {validate => 'list',
+                                source   => '=$BA$1:$BA$'
+                                            . scalar @SUBFUNCTORS})
             for 3, 6;
     }
 
