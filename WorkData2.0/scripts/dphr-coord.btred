@@ -1,0 +1,20 @@
+#!btred -NTe dphr_coord()
+# -*- mode: cperl -*-
+use warnings;
+use strict;
+
+sub dphr_coord {
+    return if $this == $root || 'DPHR' ne $this->{functor};
+
+    if ($this->{is_member}) {
+        writeln("DPHR_M\t", ThisAddress());
+    }
+
+    my @p = PML_T::GetEParents($this);
+    if (@p > 1) {
+        my @siblings = PML_T::ExpandCoord(PML_T::GetNearestNonMember($this));
+        my %frames;
+        ++$frames{ $_->{'val_frame.rf'} // 'no frame' } for @siblings;
+        writeln("Different frames\t", ThisAddress()) if 1 < keys %frames;
+    }
+}
