@@ -737,6 +737,7 @@
 <w.rf>
 <LM>w#w-mf930702-046-p4s1w4</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Molièrovu</form>
 <lemma>Molièrův_;Y_^(*2e)</lemma>
 <tag>AUFS4M---------</tag>
