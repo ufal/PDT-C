@@ -3631,7 +3631,7 @@
 </w.rf>
 <form>praví</form>
 <lemma>pravit</lemma>
-<tag>VB-S---3P-AAP--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-lnd92255-069-p8s1w5">
 <src.rf>manual</src.rf>
@@ -4740,8 +4740,8 @@
 <LM>w#w-lnd92255-069-p10s1w5</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92255-069-p10s1w6">
 <src.rf>manual</src.rf>
@@ -5543,7 +5543,7 @@
 </w.rf>
 <form>věnuj</form>
 <lemma>věnovat</lemma>
-<tag>Vi-S---2--A-I--</tag>
+<tag>Vi-S---2--A-B--</tag>
 </m>
 <m id="m-lnd92255-069-p11s1w16">
 <src.rf>manual</src.rf>

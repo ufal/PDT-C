@@ -8782,7 +8782,7 @@
 </w.rf>
 <form>zachovaly</form>
 <lemma>zachovat</lemma>
-<tag>VpTP----R-AAI--</tag>
+<tag>VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln94201-102-p16s1w29">
 <src.rf>manual</src.rf>
@@ -9100,8 +9100,8 @@
 <LM>w#w-ln94201-102-p16s3w7</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94201-102-p16s3w8">
 <src.rf>manual</src.rf>

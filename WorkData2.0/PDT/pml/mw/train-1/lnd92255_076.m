@@ -4939,7 +4939,7 @@
 </w.rf>
 <form>zachovány</form>
 <lemma>zachovat</lemma>
-<tag>VsTP----X-API--</tag>
+<tag>VsTP----X-APP--</tag>
 </m>
 <m id="m-lnd92255-076-p8s4w18">
 <src.rf>manual</src.rf>
@@ -6986,7 +6986,7 @@
 </w.rf>
 <form>zachovány</form>
 <lemma>zachovat</lemma>
-<tag>VsTP----X-API--</tag>
+<tag>VsTP----X-APP--</tag>
 </m>
 <m id="m-lnd92255-076-p21s2w12">
 <src.rf>manual</src.rf>

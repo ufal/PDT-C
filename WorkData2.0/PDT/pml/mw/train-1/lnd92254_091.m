@@ -861,7 +861,7 @@
 </w.rf>
 <form>předčí</form>
 <lemma>předčit</lemma>
-<tag>VB-S---3P-AAP--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-lnd92254-091-p2s5w15">
 <src.rf>manual</src.rf>

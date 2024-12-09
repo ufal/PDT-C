@@ -360,7 +360,7 @@
 </w.rf>
 <form>blokuje</form>
 <lemma>blokovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-lnd92255-064-p3s2w20">
 <src.rf>manual</src.rf>

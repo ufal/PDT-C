@@ -3200,7 +3200,7 @@
 </w.rf>
 <form>předčily</form>
 <lemma>předčit</lemma>
-<tag>VpTP----R-AAP--</tag>
+<tag>VpTP----R-AAB--</tag>
 </m>
 <m id="m-mf930702-041-p2s15w27">
 <src.rf>manual</src.rf>

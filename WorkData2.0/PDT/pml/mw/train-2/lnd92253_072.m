@@ -934,7 +934,7 @@
 </w.rf>
 <form>předčily</form>
 <lemma>předčit</lemma>
-<tag>VpTP----R-AAP--</tag>
+<tag>VpTP----R-AAB--</tag>
 </m>
 <m id="m-lnd92253-072-p4s3w7">
 <src.rf>manual</src.rf>

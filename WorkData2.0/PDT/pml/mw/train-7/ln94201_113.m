@@ -4815,8 +4815,8 @@
 <LM>w#w-ln94201-113-p5s10w26</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94201-113-p5s10w27">
 <src.rf>manual</src.rf>

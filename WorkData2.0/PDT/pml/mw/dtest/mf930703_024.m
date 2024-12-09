@@ -1139,7 +1139,7 @@
 </w.rf>
 <form>zachovaly</form>
 <lemma>zachovat</lemma>
-<tag>VpTP----R-AAI--</tag>
+<tag>VpTP----R-AAP--</tag>
 </m>
 <m id="m-mf930703-024-p4s1w5">
 <src.rf>manual</src.rf>
@@ -2222,7 +2222,7 @@
 </w.rf>
 <form>přesáhly</form>
 <lemma>přesáhnout</lemma>
-<tag>VpTP----R-AAP--</tag>
+<tag>VpTP----R-AAP-1</tag>
 </m>
 <m id="m-mf930703-024-p4s7w7">
 <src.rf>manual</src.rf>

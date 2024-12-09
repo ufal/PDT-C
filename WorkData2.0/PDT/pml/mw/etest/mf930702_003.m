@@ -357,7 +357,7 @@
 </w.rf>
 <form>datovány</form>
 <lemma>datovat</lemma>
-<tag>VsTP----X-API--</tag>
+<tag>VsTP----X-APB--</tag>
 </m>
 <m id="m-mf930702-003-p2s2w17">
 <src.rf>manual</src.rf>

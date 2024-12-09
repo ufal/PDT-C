@@ -512,7 +512,7 @@
 </w.rf>
 <form>věnovaly</form>
 <lemma>věnovat</lemma>
-<tag>VpTP----R-AAI--</tag>
+<tag>VpTP----R-AAB--</tag>
 </m>
 <m id="m-ln94201-135-p2s3w7">
 <src.rf>manual</src.rf>

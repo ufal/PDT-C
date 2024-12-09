@@ -713,7 +713,7 @@
 </w.rf>
 <form>Pozor</form>
 <lemma>pozor-1</lemma>
-<tag>TT-------------</tag>
+<tag>II-------------</tag>
 </m>
 <m id="m-mf930701-146-p5s1w22">
 <src.rf>manual</src.rf>

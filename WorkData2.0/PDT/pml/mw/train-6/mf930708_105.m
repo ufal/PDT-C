@@ -39,7 +39,7 @@
 <LM>w#w-mf930708-105-p2s1w1</LM>
 </w.rf>
 <form>Córdoba</form>
-<lemma>Córdoba_;G</lemma>
+<lemma>Córdoba_;G_;m_,s_^(^DD**Cordoba)</lemma>
 <tag>NNFS1-----A----</tag>
 </m>
 <m id="m-mf930708-105-p2s1w2">

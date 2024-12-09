@@ -2417,7 +2417,7 @@
 </w.rf>
 <form>zachovaly</form>
 <lemma>zachovat</lemma>
-<tag>VpTP----R-AAI--</tag>
+<tag>VpTP----R-AAP--</tag>
 </m>
 <m id="m-lnd92251-035-p5s2w18">
 <src.rf>manual</src.rf>

@@ -1341,7 +1341,7 @@
 </w.rf>
 <form>vyjmenovány</form>
 <lemma>vyjmenovat</lemma>
-<tag>VsTP----X-APB--</tag>
+<tag>VsTP----X-APP--</tag>
 </m>
 <m id="m-mf930708-035-p3s6w7">
 <src.rf>manual</src.rf>

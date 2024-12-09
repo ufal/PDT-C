@@ -377,7 +377,7 @@
 </w.rf>
 <form>Reaguje</form>
 <lemma>reagovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-mf930708-039-p2s3w2">
 <src.rf>manual</src.rf>

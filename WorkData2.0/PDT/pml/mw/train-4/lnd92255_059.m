@@ -6070,7 +6070,7 @@
 </w.rf>
 <form>rozdány</form>
 <lemma>rozdat</lemma>
-<tag>VsTP----X-API--</tag>
+<tag>VsTP----X-APP--</tag>
 </m>
 <m id="m-lnd92255-059-p6s10w3">
 <src.rf>manual</src.rf>

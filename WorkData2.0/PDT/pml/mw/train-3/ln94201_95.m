@@ -4591,7 +4591,7 @@
 </w.rf>
 <form>nepraví</form>
 <lemma>pravit</lemma>
-<tag>VB-S---3P-NAP--</tag>
+<tag>VB-S---3P-NAB--</tag>
 </m>
 <m id="m-ln94201-95-p4s2w7">
 <src.rf>manual</src.rf>

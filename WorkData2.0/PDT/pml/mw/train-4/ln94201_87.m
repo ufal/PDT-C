@@ -5917,8 +5917,8 @@
 <LM>w#w-ln94201-87-p4s11w4</LM>
 </w.rf>
 <form>neotřesitelné</form>
-<lemma>neotřesitelný_^(*13otřást)</lemma>
-<tag>AAFS3----1A----</tag>
+<lemma>otřesitelný_^(*8ást)</lemma>
+<tag>AAFS3----1N----</tag>
 </m>
 <m id="m-ln94201-87-p4s11w5">
 <src.rf>manual</src.rf>

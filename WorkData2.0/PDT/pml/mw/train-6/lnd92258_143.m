@@ -140,8 +140,8 @@
 <LM>w#w-lnd92258-143-p2s2w6</LM>
 </w.rf>
 <form>metropol</form>
-<lemma>metropol</lemma>
-<tag>NNFS1-----A----</tag>
+<lemma>metropole</lemma>
+<tag>NNFS1-----A---1</tag>
 </m>
 <m id="m-lnd92258-143-p2s2w7">
 <src.rf>manual</src.rf>

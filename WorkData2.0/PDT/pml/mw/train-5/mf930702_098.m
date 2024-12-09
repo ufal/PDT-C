@@ -1525,7 +1525,7 @@
 </w.rf>
 <form>netrefí</form>
 <lemma>trefit</lemma>
-<tag>VB-S---3P-NAI--</tag>
+<tag>VB-S---3P-NAP--</tag>
 </m>
 <m id="m-mf930702-098-p5s6w13">
 <src.rf>manual</src.rf>
@@ -3036,8 +3036,8 @@
 <LM>w#w-mf930702-098-p9s1w33</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930702-098-p9s1w34">
 <src.rf>manual</src.rf>
@@ -3752,7 +3752,7 @@
 </w.rf>
 <form>trefí</form>
 <lemma>trefit</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAP--</tag>
 </m>
 <m id="m-mf930702-098-p10s2w33">
 <src.rf>manual</src.rf>

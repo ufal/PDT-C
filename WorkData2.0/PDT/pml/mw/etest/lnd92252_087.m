@@ -3726,7 +3726,7 @@
 <LM>w#w-lnd92252-087-p5s2w33</LM>
 </w.rf>
 <form>Doubravky</form>
-<lemma>Doubravka_;G</lemma>
+<lemma>Doubravka_;G_;Y</lemma>
 <tag>NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92252-087-p5s2w34">
@@ -4037,7 +4037,7 @@
 </w.rf>
 <form>POZOR</form>
 <lemma>pozor-1</lemma>
-<tag>TT-------------</tag>
+<tag>II-------------</tag>
 </m>
 <m id="m-lnd92252-087-p6s1w2">
 <src.rf>manual</src.rf>

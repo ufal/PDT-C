@@ -1817,7 +1817,7 @@
 </w.rf>
 <form>reagovaly</form>
 <lemma>reagovat</lemma>
-<tag>VpTP----R-AAI--</tag>
+<tag>VpTP----R-AAB--</tag>
 </m>
 <m id="m-mf930708-156-p5s1w5">
 <src.rf>manual</src.rf>

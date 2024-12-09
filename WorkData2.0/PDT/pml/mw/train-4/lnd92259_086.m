@@ -2962,7 +2962,7 @@
 <LM>w#w-lnd92259-086-p5s1w11</LM>
 </w.rf>
 <form>Kolečka</form>
-<lemma>Kolečko-1_;Y</lemma>
+<lemma>Kolečko_;Y</lemma>
 <tag>NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92259-086-p5s1w12">

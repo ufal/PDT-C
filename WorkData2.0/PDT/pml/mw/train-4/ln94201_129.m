@@ -905,7 +905,7 @@
 </w.rf>
 <form>datuje</form>
 <lemma>datovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-ln94201-129-p4s1w5">
 <src.rf>manual</src.rf>

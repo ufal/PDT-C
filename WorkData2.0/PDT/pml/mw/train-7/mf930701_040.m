@@ -2846,8 +2846,8 @@
 <LM>w#w-mf930701-040-p2s22w17</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930701-040-p2s22w18">
 <src.rf>manual</src.rf>
@@ -4443,8 +4443,8 @@
 <LM>w#w-mf930701-040-p2s33w23</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930701-040-p2s33w24">
 <src.rf>manual</src.rf>

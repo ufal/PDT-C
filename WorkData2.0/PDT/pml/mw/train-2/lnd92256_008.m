@@ -2898,7 +2898,7 @@
 </w.rf>
 <form>limitovaly</form>
 <lemma>limitovat</lemma>
-<tag>VpTP----R-AAI--</tag>
+<tag>VpTP----R-AAB--</tag>
 </m>
 <m id="m-lnd92256-008-p5s2w9">
 <src.rf>manual</src.rf>

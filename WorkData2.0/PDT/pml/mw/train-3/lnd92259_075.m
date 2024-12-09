@@ -788,7 +788,7 @@
 </w.rf>
 <form>pozor</form>
 <lemma>pozor-1</lemma>
-<tag>TT-------------</tag>
+<tag>II-------------</tag>
 </m>
 <m id="m-lnd92259-075-p5s2w3">
 <src.rf>manual</src.rf>
@@ -3149,7 +3149,7 @@
 </w.rf>
 <form>nevěnuje</form>
 <lemma>věnovat</lemma>
-<tag>VB-S---3P-NAI--</tag>
+<tag>VB-S---3P-NAB--</tag>
 </m>
 <m id="m-lnd92259-075-p7s4w7">
 <src.rf>manual</src.rf>

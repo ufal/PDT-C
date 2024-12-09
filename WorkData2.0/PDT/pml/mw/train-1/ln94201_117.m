@@ -7971,8 +7971,8 @@
 <LM>w#w-ln94201-117-p8s4w3</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94201-117-p8s4w4">
 <src.rf>manual</src.rf>

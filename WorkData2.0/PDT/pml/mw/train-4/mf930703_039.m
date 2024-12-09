@@ -1308,7 +1308,7 @@
 </w.rf>
 <form>věnovány</form>
 <lemma>věnovat</lemma>
-<tag>VsTP----X-API--</tag>
+<tag>VsTP----X-APB--</tag>
 </m>
 <m id="m-mf930703-039-p2s8w6">
 <src.rf>manual</src.rf>

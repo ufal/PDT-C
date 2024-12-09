@@ -1939,8 +1939,8 @@
 <LM>w#w-lnd92251-047-p4s2w14</LM>
 </w.rf>
 <form>s</form>
-<lemma>s-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>s-1</lemma>
+<tag>RR--4----------</tag>
 </m>
 <m id="m-lnd92251-047-p4s2w15">
 <src.rf>manual</src.rf>
@@ -1948,8 +1948,8 @@
 <LM>w#w-lnd92251-047-p4s2w15</LM>
 </w.rf>
 <form>to</form>
-<lemma>to-9_^(být_s_to)</lemma>
-<tag>TT-------------</tag>
+<lemma>to-1_^(tehdy;to_jsem_byla_ještě_malá)</lemma>
+<tag>PDXXX----------</tag>
 </m>
 <m id="m-lnd92251-047-p4s2w16">
 <src.rf>manual</src.rf>

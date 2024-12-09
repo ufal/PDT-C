@@ -2511,7 +2511,7 @@
 </w.rf>
 <form>blokovány</form>
 <lemma>blokovat</lemma>
-<tag>VsTP----X-API--</tag>
+<tag>VsTP----X-APB--</tag>
 </m>
 <m id="m-mf930702-032-p6s2w26">
 <src.rf>manual</src.rf>

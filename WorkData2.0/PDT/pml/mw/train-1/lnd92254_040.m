@@ -3189,7 +3189,7 @@
 </w.rf>
 <form>praví</form>
 <lemma>pravit</lemma>
-<tag>VB-S---3P-AAP--</tag>
+<tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-lnd92254-040-p5s2w19">
 <src.rf>manual</src.rf>

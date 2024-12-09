@@ -611,7 +611,7 @@
 </w.rf>
 <form>zachovány</form>
 <lemma>zachovat</lemma>
-<tag>VsTP----X-API--</tag>
+<tag>VsTP----X-APP--</tag>
 </m>
 <m id="m-mf930708-073-p1s4w13">
 <src.rf>manual</src.rf>

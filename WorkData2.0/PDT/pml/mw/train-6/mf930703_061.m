@@ -1061,7 +1061,7 @@
 </w.rf>
 <form>dominovaly</form>
 <lemma>dominovat</lemma>
-<tag>VpTP----R-AAB--</tag>
+<tag>VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf930703-061-p1s4w25">
 <src.rf>manual</src.rf>

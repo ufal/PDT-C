@@ -1,0 +1,33 @@
+#!btred -NTe fix()
+# -*- mode: cperl -*-
+use warnings;
+use strict;
+
+my %by_form;
+open my $in, '<:encoding(UTF-8)', '241209-fix-mw.dat' or die $!;
+while (<$in>) {
+    my ($count, $form, $lemma, $tag, $new_lemma, $new_tag) = split;
+    $by_form{$form}{$lemma}{$tag} = [$new_lemma, $new_tag, $count];
+}
+
+sub fix {
+    ChangingFile(0);
+    return if $root == $this;
+
+    my $form = $this->{form};
+    return unless exists $by_form{$form};
+
+    my $lemma = $this->{lemma};
+    return unless exists $by_form{$form}{$lemma};
+
+    my $tag = $this->{tag};
+    return unless exists $by_form{$form}{$lemma}{$tag};
+
+    ChangingFile(1);
+    $this->{lemma} = $by_form{$form}{$lemma}{$tag}[0];
+    $this->{tag} = $by_form{$form}{$lemma}{$tag}[1];
+    writeln(join "\t", $by_form{$form}{$lemma}{$tag}[2],
+                       $form, $lemma, $tag,
+                       @$this{qw{ lemma tag }},
+                       ThisAddress());
+}

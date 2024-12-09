@@ -4191,8 +4191,8 @@
 <LM>w#w-lnd92254-075-p7s1w1</LM>
 </w.rf>
 <form>Metropol</form>
-<lemma>metropol</lemma>
-<tag>NNFS1-----A----</tag>
+<lemma>Metropol_;m</lemma>
+<tag>NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92254-075-p7s1w2">
 <src.rf>manual</src.rf>

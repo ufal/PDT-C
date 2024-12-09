@@ -6703,8 +6703,8 @@
 <LM>w#w-ln94201-106-p7s11w31</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94201-106-p7s11w32">
 <src.rf>manual</src.rf>

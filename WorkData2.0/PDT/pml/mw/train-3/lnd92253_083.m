@@ -939,7 +939,7 @@
 </w.rf>
 <form>Pescosolido</form>
 <lemma>Pescosolido_;Y</lemma>
-<tag>NNNS1-----A----</tag>
+<tag>NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92253-083-p7s2w19">
 <src.rf>manual</src.rf>

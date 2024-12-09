@@ -523,7 +523,7 @@
 </w.rf>
 <form>dominovaly</form>
 <lemma>dominovat</lemma>
-<tag>VpTP----R-AAB--</tag>
+<tag>VpTP----R-AAI--</tag>
 </m>
 <m id="m-lnd92256-112-p3s3w4">
 <src.rf>manual</src.rf>

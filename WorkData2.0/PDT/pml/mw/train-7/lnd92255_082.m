@@ -729,8 +729,8 @@
 <LM>w#w-lnd92255-082-p4s1w25</LM>
 </w.rf>
 <form>taky</form>
-<lemma>taky</lemma>
-<tag>Db-------------</tag>
+<lemma>taky_,s_^(^DD**také)</lemma>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92255-082-p4s1w26">
 <src.rf>manual</src.rf>

@@ -1415,7 +1415,7 @@
 </w.rf>
 <form>angažovaly</form>
 <lemma>angažovat</lemma>
-<tag>VpTP----R-AAI--</tag>
+<tag>VpTP----R-AAB--</tag>
 </m>
 <m id="m-lnd92256-053-p4s4w34">
 <src.rf>manual</src.rf>

@@ -797,7 +797,7 @@
 </w.rf>
 <form>Pozor</form>
 <lemma>pozor-1</lemma>
-<tag>TT-------------</tag>
+<tag>II-------------</tag>
 </m>
 <m id="m-lnd92256-081-p3s5w2">
 <src.rf>manual</src.rf>
@@ -6963,7 +6963,7 @@
 </w.rf>
 <form>dominuje</form>
 <lemma>dominovat</lemma>
-<tag>VB-S---3P-AAB--</tag>
+<tag>VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92256-081-p7s7w8">
 <src.rf>manual</src.rf>

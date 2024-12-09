@@ -1302,7 +1302,7 @@
 </w.rf>
 <form>Prijedoru</form>
 <lemma>Prijedor_;G</lemma>
-<tag>NNIS6-----A---1</tag>
+<tag>NNIS6-----A----</tag>
 </m>
 <m id="m-lnd92257-011-p3s8w19">
 <src.rf>manual</src.rf>

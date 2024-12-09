@@ -6152,7 +6152,7 @@
 </w.rf>
 <form>Vica</form>
 <lemma>Vico_;Y</lemma>
-<tag>NNMS2-----A----</tag>
+<tag>NNMS2-----A---1</tag>
 </m>
 </s>
 <s id="m-mf930701-088-p4s2g">
