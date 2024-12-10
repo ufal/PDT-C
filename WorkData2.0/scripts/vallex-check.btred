@@ -41,7 +41,11 @@ sub checkvallex {
                  && 'ACT' eq $frame->findvalue(
                      'frame_elements/element/@functor');
 
-            printf "%s not in frame for %s.%s\t",
+            my $warning = "";
+            $warning = 'Warning: ' if 'ORIG' eq $actant
+                                   && $POS{$vrf} =~ /^N/;
+
+            printf "$warning%s not in frame for %s.%s\t",
                 $actant, $this->{t_lemma}, $POS{$vrf};
             FPosition();
         }
