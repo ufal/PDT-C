@@ -55,6 +55,9 @@ sub coref {
                      } elsif ($id{$rf} ne $node->root->{id}) {
                          print "compl difftree\t";
                          FPosition($node);
+                     } elsif ($rf eq $node->{id}) {
+                         print "compl self\t";
+                         FPosition($node);
                      }
                  }
              } elsif ('COMPL' eq $node->{functor}) {
@@ -74,6 +77,9 @@ sub coref {
                      } elsif ($id{$rf} ne $node->root->{id}) {
                          print "$node->{t_lemma} gram difftree\t";
                          FPosition($node);
+                     } elsif ($rf eq $node->{id}) {
+                         print "gram self\t";
+                         FPosition($node);
                      }
                  }
              } elsif (gram_must($node)) {
@@ -86,6 +92,9 @@ sub coref {
                      if (! exists $id{$rf}) {
                          print "no text target\t";
                          FPosition($node);
+                     } elsif ($rf eq $node->{id}) {
+                         print "text self\t";
+                         FPosition($node);
                      }
                  }
              }
@@ -94,6 +103,9 @@ sub coref {
                  for my $rf (map $_->{'target_node.rf'}, @bridging) {
                      if (! exists $id{$rf}) {
                          print "no bridging target\t";
+                         FPosition($node);
+                     } elsif ($rf eq $node->{id}) {
+                         print "bridging self\t";
                          FPosition($node);
                      }
                  }
