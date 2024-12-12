@@ -3,31 +3,57 @@
 use warnings;
 use strict;
 
+-f $ENV{MORFFLEX_DAT}
+    or die 'Input data in $MORFFLEX_DAT not specified or not found.';
+
+my $schema;
+
 my %by_form;
-open my $in, '<:encoding(UTF-8)', '241209-fix-mw.dat' or die $!;
+open my $in, '<:encoding(UTF-8)', $ENV{MORFFLEX_DAT} or die $!;
 while (<$in>) {
     my ($count, $form, $lemma, $tag, $new_lemma, $new_tag) = split;
+    warn "Invalid tag $_."
+        for grep ! PML_M_Anot::is_valid_tag($_), $tag, $new_tag;
     $by_form{$form}{$lemma}{$tag} = [$new_lemma, $new_tag, $count];
 }
+
+{   my %PREFIX = (mdata => "", adata => 'm/');
+    sub get_attr {
+        my ($attr) = @_;
+        return $this->attr($PREFIX{$schema} . $attr)
+    }
+}
+
+{   my %DISPATCH = (adata => \&_set_a_attr, mdata => \&_set_m_attr);
+    sub set_attr { goto $DISPATCH{$schema} }
+}
+sub _set_m_attr { $this->{ $_[0] }    = $_[1] }
+sub _set_a_attr { $this->{m}{ $_[0] } = $_[1] }
 
 sub fix {
     ChangingFile(0);
     return if $root == $this;
 
-    my $form = $this->{form};
+    $schema = PML::SchemaName();
+    die "Unknown schema $schema." unless $schema =~ /^[am]data$/;
+
+    # --knit ALL
+    $main::reffiles_to_save = 'ALL' if 'adata' eq $schema;
+
+    my $form = get_attr('form');
     return unless exists $by_form{$form};
 
-    my $lemma = $this->{lemma};
+    my $lemma = get_attr('lemma');
     return unless exists $by_form{$form}{$lemma};
 
-    my $tag = $this->{tag};
+    my $tag = get_attr('tag');
     return unless exists $by_form{$form}{$lemma}{$tag};
 
     ChangingFile(1);
-    $this->{lemma} = $by_form{$form}{$lemma}{$tag}[0];
-    $this->{tag} = $by_form{$form}{$lemma}{$tag}[1];
+    set_attr('lemma', $by_form{$form}{$lemma}{$tag}[0]);
+    set_attr('tag', $by_form{$form}{$lemma}{$tag}[1]);
     writeln(join "\t", $by_form{$form}{$lemma}{$tag}[2],
                        $form, $lemma, $tag,
-                       @$this{qw{ lemma tag }},
+                       get_attr('lemma'), get_attr('tag'),
                        ThisAddress());
 }
