@@ -1,0 +1,30 @@
+#!btred -NTe search()
+# -*- mode: cperl -*-
+use warnings;
+use strict;
+
+-f $ENV{MORFFLEX_DAT}
+    or die 'Input data $MORFFLEX_DAT not provided or not found';
+
+my %by_form;
+open my $in, '<:encoding(UTF-8)', $ENV{MORFFLEX_DAT} or die $!;
+while (<$in>) {
+    my ($count, $form, $lemma, $tag) = split;
+    warn "Invalid tag $tag" unless PML_M_Anot::is_valid_tag($tag);
+    $by_form{$form}{$lemma}{$tag} = $count;
+}
+sub search {
+    return if $root == $this;
+
+    my $form = $this->attr('m/form');
+    return unless exists $by_form{$form};
+
+    my $lemma = $this->attr('m/lemma');
+    return unless exists $by_form{$form}{$lemma};
+
+    my $tag = $this->attr('m/tag');
+    return unless exists $by_form{$form}{$lemma}{$tag};
+
+    writeln(join "\t", $by_form{$form}{$lemma}{$tag},
+                 $form, $lemma, $tag, ThisAddress());
+}
