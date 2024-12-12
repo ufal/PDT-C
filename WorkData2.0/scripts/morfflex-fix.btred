@@ -8,9 +8,6 @@ use strict;
 
 my $schema;
 
-# --knit ALL
-$main::reffiles_to_save = 'ALL' if 'adata' eq $schema;
-
 my %by_form;
 open my $in, '<:encoding(UTF-8)', $ENV{MORFFLEX_DAT} or die $!;
 while (<$in>) {
@@ -39,6 +36,9 @@ sub fix {
 
     $schema = PML::SchemaName();
     die "Unknown schema $schema." unless $schema =~ /^[am]data$/;
+
+    # --knit ALL
+    $main::reffiles_to_save = 'ALL' if 'adata' eq $schema;
 
     my $form = get_attr('form');
     return unless exists $by_form{$form};
