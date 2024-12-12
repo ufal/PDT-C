@@ -2914,8 +2914,8 @@
 <LM>w#w-mf930703-059-p3s6w10</LM>
 </w.rf>
 <form>klérus</form>
-<lemma>klérus</lemma>
-<tag>NNIS1-----A----</tag>
+<lemma>klér</lemma>
+<tag>NNIS1-----A---1</tag>
 </m>
 <m id="m-mf930703-059-p3s6w11">
 <src.rf>manual</src.rf>

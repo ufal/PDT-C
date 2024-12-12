@@ -4469,7 +4469,7 @@
 <LM>w#w-lnd92256-004-p11s6w8</LM>
 </w.rf>
 <form>Pírka</form>
-<lemma>Pírko-1_;Y</lemma>
+<lemma>Pírko_;Y</lemma>
 <tag>NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92256-004-p11s6w9">
