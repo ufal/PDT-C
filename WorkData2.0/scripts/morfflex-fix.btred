@@ -54,6 +54,6 @@ sub fix {
     set_attr('tag', $by_form{$form}{$lemma}{$tag}[1]);
     writeln(join "\t", $by_form{$form}{$lemma}{$tag}[2],
                        $form, $lemma, $tag,
-                       @$this{qw{ lemma tag }},
+                       get_attr('lemma'), get_attr('tag'),
                        ThisAddress());
 }
