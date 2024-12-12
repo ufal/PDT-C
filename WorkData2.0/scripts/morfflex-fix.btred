@@ -6,8 +6,7 @@ use strict;
 -f $ENV{MORFFLEX_DAT}
     or die 'Input data in $MORFFLEX_DAT not specified or not found.';
 
-my $schema = PML::SchemaName();
-die "Unknown schema $schema." unless $schema =~ /^[am]data$/;
+my $schema;
 
 # --knit ALL
 $main::reffiles_to_save = 'ALL' if 'adata' eq $schema;
@@ -37,6 +36,9 @@ sub _set_a_attr { $this->{m}{ $_[0] } = $_[1] }
 sub fix {
     ChangingFile(0);
     return if $root == $this;
+
+    $schema = PML::SchemaName();
+    die "Unknown schema $schema." unless $schema =~ /^[am]data$/;
 
     my $form = get_attr('form');
     return unless exists $by_form{$form};
