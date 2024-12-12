@@ -1785,7 +1785,7 @@
 </w.rf>
 <form>Petreska</form>
 <lemma>Petrescu_;Y</lemma>
-<tag>NNMS2-----A----</tag>
+<tag>NNMS4-----A----</tag>
 </m>
 <m id="m-mf930702-069-p4s3w12">
 <src.rf>manual</src.rf>
@@ -1821,7 +1821,7 @@
 </w.rf>
 <form>Vinka</form>
 <lemma>Vink_;Y</lemma>
-<tag>NNMS2-----A----</tag>
+<tag>NNMS4-----A----</tag>
 </m>
 <m id="m-mf930702-069-p4s3w16">
 <src.rf>manual</src.rf>
