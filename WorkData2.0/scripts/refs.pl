@@ -35,6 +35,7 @@ for my $wfile (@files) {
             my $lemma = $xpc->findvalue('pml:lemma', $mnode);
             my $id = $mnode->{id};
             $m{m}{$id} = $form;
+            # See PML_M_Anot::is_valid_tag.
             say "Invalid tag\t$id\t$tag"
                 unless $tag =~ /^[-ABCDFIJNPQRSTVXZ][-#%*,}:=?@^1-9A-Za-z]
                                 [-FHIMNQTXYZ][-DPSWX][-1-7X][-FMXZ][-PSX]
