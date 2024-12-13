@@ -1,0 +1,32 @@
+#!/usr/bin/perl
+use warnings;
+use strict;
+use experimental qw( signatures );
+use feature qw{ say };
+
+sub process($changed, $stayed, $file) {
+    say {*STDERR} "$changed $stayed";
+    say $file if $changed > $stayed;
+}
+
+open my $svn, '-|', qw{ svn diff } or die $!;
+my $changed = 0;
+my $stayed  = 0;
+my $skip    = 0;
+my $file    = "";
+while (my $line =<$svn>) {
+    if ($line =~ /Index: (.*)/) {
+        my $next_file = $1;
+        process($changed, $stayed, $file);
+        $file = $next_file;
+        say {*STDERR} $file;
+        $changed = 0;
+        $stayed  = 0;
+        $skip    = 3;
+    } elsif ($line =~ /^[-+]/) {
+        ++$changed;
+    } elsif (0 == index $line, ' ') {
+        ++$stayed;
+    }
+}
+process($changed, $stayed, $file);
