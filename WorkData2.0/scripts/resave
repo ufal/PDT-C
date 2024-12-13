@@ -4,18 +4,26 @@ use strict;
 use experimental qw( signatures );
 use feature qw{ say };
 
+sub is_git {
+    0 == system 'git rev-parse --show-toplevel &> /dev/null'
+}
+
 sub process($changed, $stayed, $file) {
     say {*STDERR} "$changed $stayed";
     say $file if $changed > $stayed;
 }
 
-open my $svn, '-|', qw{ svn diff } or die $!;
+my $is_git = is_git();
+my @cmd   = $is_git ? qw{ git diff } : qw{ svn diff };
+my $start = $is_git ? '^diff --git a/.* b/(.*)' : '^Index: (.*)';
+
+open my $diff, '-|', @cmd or die $!;
 my $changed = 0;
 my $stayed  = 0;
 my $skip    = 0;
 my $file    = "";
-while (my $line =<$svn>) {
-    if ($line =~ /Index: (.*)/) {
+while (my $line =<$diff>) {
+    if ($line =~ $start) {
         my $next_file = $1;
         process($changed, $stayed, $file);
         $file = $next_file;
