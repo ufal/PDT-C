@@ -1291,7 +1291,7 @@
 </w.rf>
 <form>faksimile</form>
 <lemma>faksimile</lemma>
-<tag>NNNS2-----A----</tag>
+<tag>NNNXX-----A----</tag>
 </m>
 <m id="m-lnd92256-093-p4s1w8">
 <src.rf>manual</src.rf>

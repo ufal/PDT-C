@@ -1256,7 +1256,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94201-96-p5s2w15">
 <src.rf>manual</src.rf>
@@ -2867,7 +2867,7 @@
 </w.rf>
 <form>Naštěstí</form>
 <lemma>naštěstí</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94201-96-p7s3w2">
 <src.rf>manual</src.rf>
@@ -3966,7 +3966,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94201-96-p8s4w28">
 <src.rf>manual</src.rf>

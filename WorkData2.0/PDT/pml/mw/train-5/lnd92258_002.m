@@ -485,7 +485,7 @@
 </w.rf>
 <form>nepřesáhl</form>
 <lemma>přesáhnout</lemma>
-<tag>VpYS----R-NAP--</tag>
+<tag>VpYS----R-NAP-1</tag>
 </m>
 <m id="m-lnd92258-002-p3s2w10">
 <src.rf>manual</src.rf>
@@ -4002,7 +4002,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92258-002-p8s4w8">
 <src.rf>manual</src.rf>
@@ -5111,7 +5111,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92258-002-p9s5w16">
 <src.rf>manual</src.rf>
@@ -5323,7 +5323,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92258-002-p10s1w5">
 <src.rf>manual</src.rf>

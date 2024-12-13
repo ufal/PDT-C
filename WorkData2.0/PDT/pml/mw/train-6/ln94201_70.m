@@ -939,7 +939,7 @@
 </w.rf>
 <form>blahopřál</form>
 <lemma>blahopřát</lemma>
-<tag>VpYS----R-AAP--</tag>
+<tag>VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94201-70-p3s2w8">
 <src.rf>manual</src.rf>

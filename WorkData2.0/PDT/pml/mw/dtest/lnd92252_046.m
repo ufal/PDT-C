@@ -406,7 +406,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92252-046-p4s2w3">
 <src.rf>manual</src.rf>
@@ -451,7 +451,7 @@
 </w.rf>
 <form>věnovali</form>
 <lemma>věnovat</lemma>
-<tag>VpMP----R-AAI--</tag>
+<tag>VpMP----R-AAB--</tag>
 </m>
 <m id="m-lnd92252-046-p4s2w8">
 <src.rf>manual</src.rf>
@@ -912,7 +912,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92252-046-p4s3w41">
 <src.rf>manual</src.rf>
@@ -957,7 +957,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92252-046-p4s3w46">
 <src.rf>manual</src.rf>

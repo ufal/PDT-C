@@ -1394,7 +1394,7 @@
 <LM>w#w-mf930701-127-p2s8w7</LM>
 </w.rf>
 <form>uvízli</form>
-<lemma>uvíznout</lemma>
+<lemma>uvíznout_,s_^(^DD**uváznout)</lemma>
 <tag>VpMP----R-AAP-1</tag>
 </m>
 <m id="m-mf930701-127-p2s8w8">
@@ -3685,7 +3685,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930701-127-p2s19w10">
 <src.rf>manual</src.rf>
@@ -3812,7 +3812,7 @@
 <LM>w#w-mf930701-127-p2s20w8</LM>
 </w.rf>
 <form>sehnat</form>
-<lemma>sehnat_^(shánět)</lemma>
+<lemma>sehnat</lemma>
 <tag>Vf--------A-P--</tag>
 </m>
 <m id="m-mf930701-127-p2s20w9">
@@ -4718,7 +4718,7 @@
 </w.rf>
 <form>pomoci</form>
 <lemma>pomoci</lemma>
-<tag>Vf--------A-P-1</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-mf930701-127-p2s27w5">
 <src.rf>manual</src.rf>

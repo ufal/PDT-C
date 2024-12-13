@@ -2235,7 +2235,7 @@
 </w.rf>
 <form>nereagovat</form>
 <lemma>reagovat</lemma>
-<tag>Vf--------N-I--</tag>
+<tag>Vf--------N-B--</tag>
 </m>
 <m id="m-lnd92258-076-p27s1w7">
 <src.rf>manual</src.rf>
@@ -4023,8 +4023,8 @@
 <w.rf>
 <LM>w#w-lnd92258-076-p50s1w36</LM>
 </w.rf>
-<form>&gt;</form>
-<lemma>&gt;</lemma>
+<form>></form>
+<lemma>></lemma>
 <tag>Z:-------------</tag>
 </m>
 </s>
@@ -4052,8 +4052,8 @@
 <w.rf>
 <LM>w#w-lnd92258-076-p51s1w3</LM>
 </w.rf>
-<form>&gt;</form>
-<lemma>&gt;</lemma>
+<form>></form>
+<lemma>></lemma>
 <tag>Z:-------------</tag>
 </m>
 </s>
@@ -4081,8 +4081,8 @@
 <w.rf>
 <LM>w#w-lnd92258-076-p52s1w3</LM>
 </w.rf>
-<form>&gt;</form>
-<lemma>&gt;</lemma>
+<form>></form>
+<lemma>></lemma>
 <tag>Z:-------------</tag>
 </m>
 </s>

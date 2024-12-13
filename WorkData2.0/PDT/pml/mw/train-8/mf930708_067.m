@@ -1700,7 +1700,7 @@
 </w.rf>
 <form>věnují</form>
 <lemma>věnovat</lemma>
-<tag>VB-P---3P-AAI--</tag>
+<tag>VB-P---3P-AAB--</tag>
 </m>
 <m id="m-mf930708-067-p4s3w11">
 <src.rf>manual</src.rf>
@@ -2673,7 +2673,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930708-067-p5s1w6">
 <src.rf>manual</src.rf>
@@ -5477,7 +5477,7 @@
 </w.rf>
 <form>přesáhlo</form>
 <lemma>přesáhnout</lemma>
-<tag>VpNS----R-AAP--</tag>
+<tag>VpNS----R-AAP-1</tag>
 </m>
 <m id="m-mf930708-067-p10s9w16">
 <src.rf>manual</src.rf>

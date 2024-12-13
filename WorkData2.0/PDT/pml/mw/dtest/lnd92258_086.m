@@ -1453,7 +1453,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92258-086-p4s7w6">
 <src.rf>manual</src.rf>
@@ -5265,7 +5265,7 @@
 <LM>w#w-lnd92258-086-p7s1w7</LM>
 </w.rf>
 <form>dozvěděl</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92258-086-p7s1w8">
@@ -6134,7 +6134,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92258-086-p7s7w7">
 <src.rf>manual</src.rf>
@@ -7167,7 +7167,7 @@
 </w.rf>
 <form>pomoci</form>
 <lemma>pomoci</lemma>
-<tag>Vf--------A-P-1</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-lnd92258-086-p9s3w7">
 <src.rf>manual</src.rf>
@@ -8453,7 +8453,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92258-086-p9s11w34">
 <src.rf>manual</src.rf>
@@ -14392,7 +14392,7 @@
 <LM>w#w-lnd92258-086-p13s11w14</LM>
 </w.rf>
 <form>spjati</form>
-<lemma>spjatý</lemma>
+<lemma>spjatý_,s_^(^DD**sepnutý)</lemma>
 <tag>ACMP------A----</tag>
 </m>
 <m id="m-lnd92258-086-p13s11w15">

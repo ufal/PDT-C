@@ -82,7 +82,7 @@
 <LM>w#w-lnd92258-127-p1s1w8</LM>
 </w.rf>
 <form>UBRÁNIL</form>
-<lemma>ubránit_^(něco_před_někým)</lemma>
+<lemma>ubránit</lemma>
 <tag>VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92258-127-p1s1w9">
@@ -819,7 +819,7 @@
 <LM>w#w-lnd92258-127-p3s3w35</LM>
 </w.rf>
 <form>ubránili</form>
-<lemma>ubránit_^(něco_před_někým)</lemma>
+<lemma>ubránit</lemma>
 <tag>VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd92258-127-p3s3w36">
@@ -4883,7 +4883,7 @@
 </w.rf>
 <form>trefil</form>
 <lemma>trefit</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92258-127-p24s5w27">
 <src.rf>manual</src.rf>

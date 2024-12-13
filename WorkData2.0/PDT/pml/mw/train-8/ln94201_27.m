@@ -420,7 +420,7 @@
 </w.rf>
 <form>Reagoval</form>
 <lemma>reagovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-ln94201-27-p2s2w2">
 <src.rf>manual</src.rf>

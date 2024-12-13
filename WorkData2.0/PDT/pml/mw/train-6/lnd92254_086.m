@@ -507,7 +507,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92254-086-p3s4w5">
 <src.rf>manual</src.rf>
@@ -606,7 +606,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92254-086-p3s4w16">
 <src.rf>manual</src.rf>
@@ -1266,7 +1266,7 @@
 </w.rf>
 <form>trefil</form>
 <lemma>trefit</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92254-086-p5s2w16">
 <src.rf>manual</src.rf>

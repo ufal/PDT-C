@@ -731,7 +731,7 @@
 <LM>w#w-lnd92259-052-p3s4w32</LM>
 </w.rf>
 <form>vyjednavač</form>
-<lemma>vyjednavač</lemma>
+<lemma>vyjednavač_,s_^(^DD**vyjednávač)</lemma>
 <tag>NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-052-p3s4w33">

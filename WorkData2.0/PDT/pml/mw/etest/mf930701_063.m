@@ -711,7 +711,7 @@
 <LM>w#w-mf930701-063-p2s4w7</LM>
 </w.rf>
 <form>dozvěděl</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930701-063-p2s4w8">
@@ -894,7 +894,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930701-063-p3s1w16">
 <src.rf>manual</src.rf>
@@ -1900,7 +1900,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930701-063-p4s3w4">
 <src.rf>manual</src.rf>

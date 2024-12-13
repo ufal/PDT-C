@@ -337,7 +337,7 @@
 </w.rf>
 <form>přestříhali</form>
 <lemma>přestříhat</lemma>
-<tag>VpMP----R-AAP--</tag>
+<tag>VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd92253-039-p1s2w3">
 <src.rf>manual</src.rf>

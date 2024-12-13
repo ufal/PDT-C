@@ -1137,7 +1137,7 @@
 </w.rf>
 <form>upéci</form>
 <lemma>upéci</lemma>
-<tag>Vf--------A-P-1</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-lnd92258-135-p4s2w37">
 <src.rf>manual</src.rf>

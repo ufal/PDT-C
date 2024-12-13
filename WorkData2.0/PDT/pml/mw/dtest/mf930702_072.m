@@ -856,7 +856,7 @@
 </w.rf>
 <form>nevěnoval</form>
 <lemma>věnovat</lemma>
-<tag>VpYS----R-NAI--</tag>
+<tag>VpYS----R-NAB--</tag>
 </m>
 <m id="m-mf930702-072-p3s1w36">
 <src.rf>manual</src.rf>
@@ -6080,7 +6080,7 @@
 </w.rf>
 <form>reagovat</form>
 <lemma>reagovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-mf930702-072-p15s1w19">
 <src.rf>manual</src.rf>
@@ -6226,7 +6226,7 @@
 </w.rf>
 <form>reagoval</form>
 <lemma>reagovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-mf930702-072-p16s1w10">
 <src.rf>manual</src.rf>
@@ -7470,7 +7470,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930702-072-p19s2w8">
 <src.rf>manual</src.rf>

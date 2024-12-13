@@ -918,7 +918,7 @@
 <LM>w#w-lnd92255-086-p3s3w22</LM>
 </w.rf>
 <form>hájit</form>
-<lemma>hájit_^(bránit,_obhajovat)</lemma>
+<lemma>hájit</lemma>
 <tag>Vf--------A-I--</tag>
 </m>
 <m id="m-lnd92255-086-p3s3w23">

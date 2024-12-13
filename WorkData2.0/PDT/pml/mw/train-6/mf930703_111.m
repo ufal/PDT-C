@@ -1229,7 +1229,7 @@
 </w.rf>
 <form>dominují</form>
 <lemma>dominovat</lemma>
-<tag>VB-P---3P-AAB--</tag>
+<tag>VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf930703-111-p2s6w8">
 <src.rf>manual</src.rf>
@@ -1764,7 +1764,7 @@
 </w.rf>
 <form>pomoci</form>
 <lemma>pomoci</lemma>
-<tag>Vf--------A-P-1</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-mf930703-111-p2s8w16">
 <src.rf>manual</src.rf>

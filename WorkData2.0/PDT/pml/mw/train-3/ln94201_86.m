@@ -1526,7 +1526,7 @@
 </w.rf>
 <form>věnovat</form>
 <lemma>věnovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-ln94201-86-p3s3w28">
 <src.rf>manual</src.rf>
@@ -1580,7 +1580,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94201-86-p3s3w34">
 <src.rf>manual</src.rf>
@@ -3809,7 +3809,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94201-86-p5s4w27">
 <src.rf>manual</src.rf>
@@ -4753,7 +4753,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94201-86-p5s8w15">
 <src.rf>manual</src.rf>

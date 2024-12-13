@@ -1827,7 +1827,7 @@
 </w.rf>
 <form>věnovat</form>
 <lemma>věnovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-mf930703-022-p4s7w8">
 <src.rf>manual</src.rf>
@@ -3676,7 +3676,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930703-022-p7s1w12">
 <src.rf>manual</src.rf>

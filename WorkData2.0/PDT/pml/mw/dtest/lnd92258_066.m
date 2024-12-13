@@ -779,7 +779,7 @@
 </w.rf>
 <form>citovala</form>
 <lemma>citovat</lemma>
-<tag>VpQW----R-AAI--</tag>
+<tag>VpQW----R-AAB--</tag>
 </m>
 <m id="m-lnd92258-066-p3s5w4">
 <src.rf>manual</src.rf>

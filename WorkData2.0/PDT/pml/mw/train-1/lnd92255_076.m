@@ -800,7 +800,7 @@
 </w.rf>
 <form>věnována</form>
 <lemma>věnovat</lemma>
-<tag>VsQW----X-API--</tag>
+<tag>VsQW----X-APB--</tag>
 </m>
 <m id="m-lnd92255-076-p4s1w17">
 <src.rf>manual</src.rf>
@@ -3642,7 +3642,7 @@
 </w.rf>
 <form>minimalizovat</form>
 <lemma>minimalizovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-lnd92255-076-p6s1w17">
 <src.rf>manual</src.rf>
@@ -4292,7 +4292,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92255-076-p7s1w23">
 <src.rf>manual</src.rf>
@@ -4840,7 +4840,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92255-076-p8s4w7">
 <src.rf>manual</src.rf>

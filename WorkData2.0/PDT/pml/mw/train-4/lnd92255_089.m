@@ -681,7 +681,7 @@
 </w.rf>
 <form>naštěstí</form>
 <lemma>naštěstí</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92255-089-p1s3w10">
 <src.rf>manual</src.rf>
@@ -980,7 +980,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92255-089-p1s4w22">
 <src.rf>manual</src.rf>

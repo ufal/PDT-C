@@ -584,7 +584,7 @@
 </w.rf>
 <form>věnovali</form>
 <lemma>věnovat</lemma>
-<tag>VpMP----R-AAI--</tag>
+<tag>VpMP----R-AAB--</tag>
 </m>
 <m id="m-lnd92256-059-p3s2w37">
 <src.rf>manual</src.rf>
@@ -5179,7 +5179,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92256-059-p9s2w5">
 <src.rf>manual</src.rf>
@@ -5314,7 +5314,7 @@
 </w.rf>
 <form>uspat</form>
 <lemma>uspat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-lnd92256-059-p9s2w20">
 <src.rf>manual</src.rf>

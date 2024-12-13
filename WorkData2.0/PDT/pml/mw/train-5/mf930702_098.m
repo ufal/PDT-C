@@ -2820,7 +2820,7 @@
 <LM>w#w-mf930702-098-p9s1w9</LM>
 </w.rf>
 <form>támhle</form>
-<lemma>támhle</lemma>
+<lemma>támhle_,s_^(^DD**tamhle)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-mf930702-098-p9s1w10">
@@ -3109,7 +3109,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930702-098-p9s1w42">
 <src.rf>manual</src.rf>

@@ -1544,7 +1544,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92256-054-p5s3w22">
 <src.rf>manual</src.rf>
@@ -3937,7 +3937,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92256-054-p8s4w16">
 <src.rf>manual</src.rf>

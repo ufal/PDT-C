@@ -569,7 +569,7 @@
 <LM>w#w-lnd92256-078-p2s5w5</LM>
 </w.rf>
 <form>ubránila</form>
-<lemma>ubránit_^(něco_před_někým)</lemma>
+<lemma>ubránit</lemma>
 <tag>VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92256-078-p2s5w6">
@@ -725,7 +725,7 @@
 </w.rf>
 <form>Naštěstí</form>
 <lemma>naštěstí</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92256-078-p2s6w2">
 <src.rf>manual</src.rf>

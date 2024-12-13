@@ -129,7 +129,7 @@
 <LM>w#w-mf930701-113-p2s1w9</LM>
 </w.rf>
 <form>dozvěděli</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930701-113-p2s1w10">

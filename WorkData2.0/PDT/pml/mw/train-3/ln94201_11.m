@@ -1095,7 +1095,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94201-11-p2s6w6">
 <src.rf>manual</src.rf>

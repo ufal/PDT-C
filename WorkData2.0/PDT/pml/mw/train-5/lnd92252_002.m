@@ -1530,7 +1530,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92252-002-p4s3w4">
 <src.rf>manual</src.rf>
@@ -2843,7 +2843,7 @@
 </w.rf>
 <form>angažovala</form>
 <lemma>angažovat</lemma>
-<tag>VpQW----R-AAI--</tag>
+<tag>VpQW----R-AAB--</tag>
 </m>
 <m id="m-lnd92252-002-p5s4w29">
 <src.rf>manual</src.rf>

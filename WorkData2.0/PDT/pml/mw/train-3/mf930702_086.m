@@ -4154,7 +4154,7 @@
 <LM>w#w-mf930702-086-p2s29w15</LM>
 </w.rf>
 <form>dozvěděli</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930702-086-p2s29w16">

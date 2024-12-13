@@ -585,7 +585,7 @@
 <LM>w#w-lnd92259-075-p4s1w15</LM>
 </w.rf>
 <form>mikrofonem</form>
-<lemma>mikrofon</lemma>
+<lemma>mikrofon_,s_^(^DD**mikrofón)</lemma>
 <tag>NNIS7-----A----</tag>
 </m>
 <m id="m-lnd92259-075-p4s1w16">
@@ -2565,7 +2565,7 @@
 </w.rf>
 <form>věnovat</form>
 <lemma>věnovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-lnd92259-075-p6s1w13">
 <src.rf>manual</src.rf>

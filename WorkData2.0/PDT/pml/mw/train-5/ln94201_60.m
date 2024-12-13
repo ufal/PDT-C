@@ -467,7 +467,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94201-60-p2s3w3">
 <src.rf>manual</src.rf>
@@ -1905,7 +1905,7 @@
 </w.rf>
 <form>naštěstí</form>
 <lemma>naštěstí</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94201-60-p4s2w7">
 <src.rf>manual</src.rf>
@@ -3580,7 +3580,7 @@
 <LM>w#w-ln94201-60-p5s8w10</LM>
 </w.rf>
 <form>sehnat</form>
-<lemma>sehnat_^(shánět)</lemma>
+<lemma>sehnat</lemma>
 <tag>Vf--------A-P--</tag>
 </m>
 <m id="m-ln94201-60-p5s8w11">
@@ -4122,7 +4122,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94201-60-p5s13w2">
 <src.rf>manual</src.rf>
@@ -4605,7 +4605,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94201-60-p5s16w8">
 <src.rf>manual</src.rf>
@@ -6108,7 +6108,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94201-60-p7s1w2">
 <src.rf>manual</src.rf>

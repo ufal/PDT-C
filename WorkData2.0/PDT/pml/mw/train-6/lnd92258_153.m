@@ -644,7 +644,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92258-153-p3s5w9">
 <src.rf>manual</src.rf>
@@ -880,7 +880,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92258-153-p3s6w22">
 <src.rf>manual</src.rf>
@@ -1763,7 +1763,7 @@
 </w.rf>
 <form>citoval</form>
 <lemma>citovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-lnd92258-153-p3s11w13">
 <src.rf>manual</src.rf>

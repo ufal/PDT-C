@@ -3419,7 +3419,7 @@
 </w.rf>
 <form>Naštěstí</form>
 <lemma>naštěstí</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92253-059-p9s1w2">
 <src.rf>manual</src.rf>
@@ -4016,7 +4016,7 @@
 <LM>w#w-lnd92253-059-p9s3w27</LM>
 </w.rf>
 <form>spjaty</form>
-<lemma>spjatý</lemma>
+<lemma>spjatý_,s_^(^DD**sepnutý)</lemma>
 <tag>ACTP------A----</tag>
 </m>
 <m id="m-lnd92253-059-p9s3w28">
@@ -8357,7 +8357,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92253-059-p13s2w4">
 <src.rf>manual</src.rf>

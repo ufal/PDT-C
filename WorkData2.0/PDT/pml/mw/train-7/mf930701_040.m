@@ -28,7 +28,7 @@
 <LM>w#w-mf930701-040-p1s1w2</LM>
 </w.rf>
 <form>jazzman</form>
-<lemma>jazzman</lemma>
+<lemma>jazzman_,s_^(^DD**džezman)</lemma>
 <tag>NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-040-p1s1w3">
@@ -165,7 +165,7 @@
 <LM>w#w-mf930701-040-p2s1w12</LM>
 </w.rf>
 <form>jazzmanem</form>
-<lemma>jazzman</lemma>
+<lemma>jazzman_,s_^(^DD**džezman)</lemma>
 <tag>NNMS7-----A----</tag>
 </m>
 <m id="m-mf930701-040-p2s1w13">
@@ -5061,7 +5061,7 @@
 <LM>w#w-mf930701-040-p2s36w22</LM>
 </w.rf>
 <form>jazzman</form>
-<lemma>jazzman</lemma>
+<lemma>jazzman_,s_^(^DD**džezman)</lemma>
 <tag>NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-040-p2s36w23">

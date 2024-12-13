@@ -1507,7 +1507,7 @@
 </w.rf>
 <form>citují</form>
 <lemma>citovat</lemma>
-<tag>VB-P---3P-AAI--</tag>
+<tag>VB-P---3P-AAB--</tag>
 </m>
 <m id="m-lnd92257-071-p3s9w6">
 <src.rf>manual</src.rf>
@@ -1742,7 +1742,7 @@
 <LM>w#w-lnd92257-071-p3s10w6</LM>
 </w.rf>
 <form>metalem</form>
-<lemma>metal</lemma>
+<lemma>metal_,s_^(^DD**metál)</lemma>
 <tag>NNIS7-----A----</tag>
 </m>
 <m id="m-lnd92257-071-p3s10w7">

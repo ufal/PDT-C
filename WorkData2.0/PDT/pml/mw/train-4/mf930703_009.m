@@ -533,7 +533,7 @@
 <LM>w#w-mf930703-009-p5s2w13</LM>
 </w.rf>
 <form>borreliózu</form>
-<lemma>borrelióza</lemma>
+<lemma>borrelióza_,s_^(^DD**borelióza)</lemma>
 <tag>NNFS4-----A----</tag>
 </m>
 <m id="m-mf930703-009-p5s2w14">

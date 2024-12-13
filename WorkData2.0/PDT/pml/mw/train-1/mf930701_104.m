@@ -1352,7 +1352,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930701-104-p2s9w6">
 <src.rf>manual</src.rf>
@@ -1877,7 +1877,7 @@
 <LM>w#w-mf930701-104-p2s11w5</LM>
 </w.rf>
 <form>hájit</form>
-<lemma>hájit_^(bránit,_obhajovat)</lemma>
+<lemma>hájit</lemma>
 <tag>Vf--------A-I--</tag>
 </m>
 <m id="m-mf930701-104-p2s11w6">

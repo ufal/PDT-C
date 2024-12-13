@@ -699,7 +699,7 @@
 </w.rf>
 <form>rozdali</form>
 <lemma>rozdat</lemma>
-<tag>VpMP----R-AAI--</tag>
+<tag>VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd92259-103-p3s5w15">
 <src.rf>manual</src.rf>

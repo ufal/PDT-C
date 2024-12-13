@@ -425,7 +425,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92252-027-p3s3w3">
 <src.rf>manual</src.rf>
@@ -915,7 +915,7 @@
 </w.rf>
 <form>nereagovala</form>
 <lemma>reagovat</lemma>
-<tag>VpQW----R-NAI--</tag>
+<tag>VpQW----R-NAB--</tag>
 </m>
 <m id="m-lnd92252-027-p3s5w25">
 <src.rf>manual</src.rf>
@@ -933,7 +933,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92252-027-p3s5w27">
 <src.rf>manual</src.rf>

@@ -393,7 +393,7 @@
 </w.rf>
 <form>Reagovali</form>
 <lemma>reagovat</lemma>
-<tag>VpMP----R-AAI--</tag>
+<tag>VpMP----R-AAB--</tag>
 </m>
 <m id="m-mf930703-105-p2s2w2">
 <src.rf>manual</src.rf>
@@ -1483,7 +1483,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930703-105-p5s1w2">
 <src.rf>manual</src.rf>

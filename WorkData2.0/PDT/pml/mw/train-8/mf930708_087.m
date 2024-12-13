@@ -579,7 +579,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930708-087-p5s1w15">
 <src.rf>manual</src.rf>
@@ -2746,7 +2746,7 @@
 </w.rf>
 <form>Naštěstí</form>
 <lemma>naštěstí</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930708-087-p7s5w2">
 <src.rf>manual</src.rf>

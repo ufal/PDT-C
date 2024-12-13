@@ -64,7 +64,7 @@
 <LM>w#w-lnd92254-073-p1s1w6</LM>
 </w.rf>
 <form>spjaty</form>
-<lemma>spjatý</lemma>
+<lemma>spjatý_,s_^(^DD**sepnutý)</lemma>
 <tag>ACTP------A----</tag>
 </m>
 <m id="m-lnd92254-073-p1s1w7">

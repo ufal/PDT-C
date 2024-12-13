@@ -850,7 +850,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92257-039-p3s4w5">
 <src.rf>manual</src.rf>
@@ -1657,7 +1657,7 @@
 </w.rf>
 <form>naštěstí</form>
 <lemma>naštěstí</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92257-039-p5s1w5">
 <src.rf>manual</src.rf>
@@ -2050,7 +2050,7 @@
 </w.rf>
 <form>věnoval</form>
 <lemma>věnovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-lnd92257-039-p5s4w8">
 <src.rf>manual</src.rf>
@@ -2322,7 +2322,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92257-039-p5s5w3">
 <src.rf>manual</src.rf>
@@ -2376,7 +2376,7 @@
 </w.rf>
 <form>zachovala</form>
 <lemma>zachovat</lemma>
-<tag>VpQW----R-AAI--</tag>
+<tag>VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92257-039-p5s5w10">
 <src.rf>manual</src.rf>
@@ -2477,7 +2477,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92257-039-p5s6w7">
 <src.rf>manual</src.rf>
@@ -3563,7 +3563,7 @@
 </w.rf>
 <form>pomoci</form>
 <lemma>pomoci</lemma>
-<tag>Vf--------A-P-1</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-lnd92257-039-p6s3w19">
 <src.rf>manual</src.rf>
@@ -3808,7 +3808,7 @@
 </w.rf>
 <form>zachovala</form>
 <lemma>zachovat</lemma>
-<tag>VpQW----R-AAI--</tag>
+<tag>VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92257-039-p6s4w23">
 <src.rf>manual</src.rf>
@@ -5053,7 +5053,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92257-039-p7s5w3">
 <src.rf>manual</src.rf>
@@ -8352,7 +8352,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92257-039-p9s3w14">
 <src.rf>manual</src.rf>
@@ -9484,7 +9484,7 @@
 </w.rf>
 <form>pomoci</form>
 <lemma>pomoci</lemma>
-<tag>Vf--------A-P-1</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-lnd92257-039-p11s5w8">
 <src.rf>manual</src.rf>

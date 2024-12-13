@@ -5124,7 +5124,7 @@
 <LM>w#w-lnd92251-073-p7s3w7</LM>
 </w.rf>
 <form>světýlek</form>
-<lemma>světýlko_,e</lemma>
+<lemma>světýlko_,e_^(^DD**světélko)</lemma>
 <tag>NNNP2-----A----</tag>
 </m>
 <m id="m-lnd92251-073-p7s3w8">

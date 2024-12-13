@@ -1323,7 +1323,7 @@
 </w.rf>
 <form>zachována</form>
 <lemma>zachovat</lemma>
-<tag>VsQW----X-API--</tag>
+<tag>VsQW----X-APP--</tag>
 </m>
 <m id="m-lnd92258-022-p4s3w6">
 <src.rf>manual</src.rf>

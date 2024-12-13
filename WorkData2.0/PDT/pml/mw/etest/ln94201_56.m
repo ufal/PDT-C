@@ -1285,7 +1285,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94201-56-p3s3w8">
 <src.rf>manual</src.rf>
@@ -3652,7 +3652,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94201-56-p5s11w4">
 <src.rf>manual</src.rf>
@@ -5313,7 +5313,7 @@
 <LM>w#w-ln94201-56-p6s8w5</LM>
 </w.rf>
 <form>dozvíte</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VB-P---2P-AAP--</tag>
 </m>
 <m id="m-ln94201-56-p6s8w6">
@@ -6120,7 +6120,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94201-56-p6s15w4">
 <src.rf>manual</src.rf>

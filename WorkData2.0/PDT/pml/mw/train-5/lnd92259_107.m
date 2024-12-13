@@ -103,7 +103,7 @@
 </w.rf>
 <form>pravil</form>
 <lemma>pravit</lemma>
-<tag>VpYS----R-AAP--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-lnd92259-107-p2s1w7">
 <src.rf>manual</src.rf>
@@ -4420,7 +4420,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92259-107-p7s5w24">
 <src.rf>manual</src.rf>

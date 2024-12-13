@@ -49,7 +49,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92253-074-p2s1w2">
 <src.rf>manual</src.rf>

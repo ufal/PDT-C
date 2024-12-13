@@ -1958,7 +1958,7 @@
 <LM>w#w-mf930708-089-p4s3w6</LM>
 </w.rf>
 <form>dozvěděli</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930708-089-p4s3w7">

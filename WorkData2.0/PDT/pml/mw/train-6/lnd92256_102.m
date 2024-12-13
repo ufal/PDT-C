@@ -641,7 +641,7 @@
 <LM>w#w-lnd92256-102-p2s5w13</LM>
 </w.rf>
 <form>rozčilen</form>
-<lemma>rozčilit</lemma>
+<lemma>rozčilit_,s_^(^DD**rozčílit)</lemma>
 <tag>VsYS----X-APP--</tag>
 </m>
 <m id="m-lnd92256-102-p2s5w14">
@@ -999,7 +999,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92256-102-p2s8w7">
 <src.rf>manual</src.rf>

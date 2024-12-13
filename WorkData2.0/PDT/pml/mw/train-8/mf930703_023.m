@@ -1164,7 +1164,7 @@
 </w.rf>
 <form>reagovalo</form>
 <lemma>reagovat</lemma>
-<tag>VpNS----R-AAI--</tag>
+<tag>VpNS----R-AAB--</tag>
 </m>
 <m id="m-mf930703-023-p2s9w3">
 <src.rf>manual</src.rf>
@@ -1822,7 +1822,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930703-023-p3s1w15">
 <src.rf>manual</src.rf>
@@ -3289,7 +3289,7 @@
 <LM>w#w-mf930703-023-p4s4w16</LM>
 </w.rf>
 <form>ubránili</form>
-<lemma>ubránit_^(něco_před_někým)</lemma>
+<lemma>ubránit</lemma>
 <tag>VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930703-023-p4s4w17">

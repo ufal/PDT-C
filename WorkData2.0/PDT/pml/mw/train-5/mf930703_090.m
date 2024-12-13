@@ -3176,7 +3176,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930703-090-p13s1w5">
 <src.rf>manual</src.rf>
@@ -8783,7 +8783,7 @@
 </w.rf>
 <form>obléct</form>
 <lemma>obléci</lemma>
-<tag>Vf--------A-P--</tag>
+<tag>Vf--------A-P-1</tag>
 </m>
 <m id="m-mf930703-090-p33s1w14">
 <src.rf>manual</src.rf>
@@ -10526,7 +10526,7 @@
 </w.rf>
 <form>řek</form>
 <lemma>říci</lemma>
-<tag>VmYS------A-P--</tag>
+<tag>VpYS----R-AAP-7</tag>
 </m>
 <m id="m-mf930703-090-p37s2w30">
 <src.rf>manual</src.rf>

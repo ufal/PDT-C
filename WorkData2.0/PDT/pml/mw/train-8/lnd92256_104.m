@@ -702,7 +702,7 @@
 <LM>w#w-lnd92256-104-p2s4w5</LM>
 </w.rf>
 <form>hájit</form>
-<lemma>hájit_^(bránit,_obhajovat)</lemma>
+<lemma>hájit</lemma>
 <tag>Vf--------A-I--</tag>
 </m>
 <m id="m-lnd92256-104-p2s4w6">

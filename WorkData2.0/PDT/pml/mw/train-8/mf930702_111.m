@@ -456,7 +456,7 @@
 </w.rf>
 <form>citují</form>
 <lemma>citovat</lemma>
-<tag>VB-P---3P-AAI--</tag>
+<tag>VB-P---3P-AAB--</tag>
 </m>
 <m id="m-mf930702-111-p2s2w5">
 <src.rf>manual</src.rf>

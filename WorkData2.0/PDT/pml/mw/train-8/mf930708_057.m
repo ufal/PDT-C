@@ -139,7 +139,7 @@
 </w.rf>
 <form>citujeme</form>
 <lemma>citovat</lemma>
-<tag>VB-P---1P-AAI--</tag>
+<tag>VB-P---1P-AAB--</tag>
 </m>
 <m id="m-mf930708-057-p2s1w5">
 <src.rf>manual</src.rf>

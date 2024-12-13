@@ -8352,7 +8352,7 @@
 <LM>w#w-ln94201-108-p44s3w1</LM>
 </w.rf>
 <form>Lítali</form>
-<lemma>lítat</lemma>
+<lemma>lítat_,s_^(^DD**létat)</lemma>
 <tag>VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln94201-108-p44s3w2">
@@ -14247,7 +14247,7 @@
 <LM>w#w-ln94201-108-p60s1w13</LM>
 </w.rf>
 <form>Četnikům</form>
-<lemma>četnik</lemma>
+<lemma>četnik_,h_^(^GC**četník)</lemma>
 <tag>NNMP3-----A----</tag>
 </m>
 <m id="m-ln94201-108-p60s1w14">
@@ -17156,7 +17156,7 @@
 <LM>w#w-ln94201-108-p66s4w12</LM>
 </w.rf>
 <form>Četnik</form>
-<lemma>četnik</lemma>
+<lemma>četnik_,h_^(^GC**četník)</lemma>
 <tag>NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-108-p66s4w13">

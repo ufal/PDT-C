@@ -350,7 +350,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92255-085-p2s3w2">
 <src.rf>manual</src.rf>
@@ -1041,7 +1041,7 @@
 <LM>w#w-lnd92255-085-p3s4w2</LM>
 </w.rf>
 <form>pian</form>
-<lemma>piano</lemma>
+<lemma>piano_,s_^(^DD**piáno)</lemma>
 <tag>NNNP2-----A----</tag>
 </m>
 <m id="m-lnd92255-085-p3s4w3">
@@ -2033,7 +2033,7 @@
 </w.rf>
 <form>dominovalo</form>
 <lemma>dominovat</lemma>
-<tag>VpNS----R-AAB--</tag>
+<tag>VpNS----R-AAI--</tag>
 </m>
 <m id="m-lnd92255-085-p4s2w17">
 <src.rf>manual</src.rf>

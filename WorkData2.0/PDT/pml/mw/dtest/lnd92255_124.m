@@ -4859,7 +4859,7 @@
 <LM>w#w-lnd92255-124-p8s4w5</LM>
 </w.rf>
 <form>napjatě</form>
-<lemma>napjatě_^(*1ý)</lemma>
+<lemma>napjatě_^(^DD**napnutě)_(*1ý)</lemma>
 <tag>Dg-------1A----</tag>
 </m>
 <m id="m-lnd92255-124-p8s4w6">
@@ -5402,7 +5402,7 @@
 </w.rf>
 <form>naštěstí</form>
 <lemma>naštěstí</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92255-124-p8s5w20">
 <src.rf>manual</src.rf>
@@ -5810,8 +5810,8 @@
 <LM>w#w-lnd92255-124-p9s2w17</LM>
 </w.rf>
 <form>statisíců</form>
-<lemma>statisíc`100000</lemma>
-<tag>CzIP2----------</tag>
+<lemma>stotisíc`100000</lemma>
+<tag>CzIP2---------1</tag>
 </m>
 <m id="m-lnd92255-124-p9s2w18">
 <src.rf>manual</src.rf>

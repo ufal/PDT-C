@@ -1173,7 +1173,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92255-091-p3s4w16">
 <src.rf>manual</src.rf>
@@ -1634,7 +1634,7 @@
 <LM>w#w-lnd92255-091-p1s2w11</LM>
 </w.rf>
 <form>sehnat</form>
-<lemma>sehnat_^(shánět)</lemma>
+<lemma>sehnat</lemma>
 <tag>Vf--------A-P--</tag>
 </m>
 <m id="m-lnd92255-091-p1s2w12">

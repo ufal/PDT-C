@@ -896,7 +896,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92252-048-p5s2w16">
 <src.rf>manual</src.rf>
@@ -5903,7 +5903,7 @@
 <LM>w#w-lnd92252-048-p13s1w19</LM>
 </w.rf>
 <form>vyjednavačům</form>
-<lemma>vyjednavač</lemma>
+<lemma>vyjednavač_,s_^(^DD**vyjednávač)</lemma>
 <tag>NNMP3-----A----</tag>
 </m>
 <m id="m-lnd92252-048-p13s1w20">

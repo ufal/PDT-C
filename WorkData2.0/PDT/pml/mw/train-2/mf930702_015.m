@@ -1344,7 +1344,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930702-015-p2s6w8">
 <src.rf>manual</src.rf>
@@ -1701,7 +1701,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930702-015-p2s10w6">
 <src.rf>manual</src.rf>
@@ -2144,7 +2144,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930702-015-p2s11w23">
 <src.rf>manual</src.rf>
@@ -11328,7 +11328,7 @@
 <LM>w#w-mf930702-015-p24s3w24</LM>
 </w.rf>
 <form>poživatelem</form>
-<lemma>poživatel</lemma>
+<lemma>poživatel_,s_^(^DD**požívatel)</lemma>
 <tag>NNMS7-----A----</tag>
 </m>
 <m id="m-mf930702-015-p24s3w25">

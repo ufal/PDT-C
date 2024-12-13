@@ -3324,7 +3324,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92259-013-p5s6w30">
 <src.rf>manual</src.rf>
@@ -3706,7 +3706,7 @@
 </w.rf>
 <form>věnují</form>
 <lemma>věnovat</lemma>
-<tag>VB-P---3P-AAI--</tag>
+<tag>VB-P---3P-AAB--</tag>
 </m>
 <m id="m-lnd92259-013-p6s2w5">
 <src.rf>manual</src.rf>
@@ -3932,7 +3932,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92259-013-p6s2w30">
 <src.rf>manual</src.rf>

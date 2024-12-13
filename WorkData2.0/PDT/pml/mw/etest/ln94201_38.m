@@ -961,7 +961,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94201-38-p3s2w5">
 <src.rf>manual</src.rf>
@@ -4078,7 +4078,7 @@
 </w.rf>
 <form>zachovat</form>
 <lemma>zachovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-ln94201-38-p6s3w8">
 <src.rf>manual</src.rf>

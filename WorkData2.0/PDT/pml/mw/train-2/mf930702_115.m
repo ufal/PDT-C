@@ -1096,7 +1096,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930702-115-p5s4w4">
 <src.rf>manual</src.rf>
@@ -1250,7 +1250,7 @@
 <LM>w#w-mf930702-115-p5s5w8</LM>
 </w.rf>
 <form>dozvěděl</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930702-115-p5s5w9">
@@ -2170,7 +2170,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930702-115-p6s5w5">
 <src.rf>manual</src.rf>

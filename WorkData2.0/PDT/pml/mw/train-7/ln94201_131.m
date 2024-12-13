@@ -548,7 +548,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94201-131-p2s3w4">
 <src.rf>manual</src.rf>
@@ -1011,7 +1011,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94201-131-p3s1w6">
 <src.rf>manual</src.rf>
@@ -3648,7 +3648,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94201-131-p6s7w3">
 <src.rf>manual</src.rf>

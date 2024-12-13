@@ -112,7 +112,7 @@
 </w.rf>
 <form>věnovat</form>
 <lemma>věnovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-mf930702-013-p2s1w8">
 <src.rf>manual</src.rf>
@@ -1047,7 +1047,7 @@
 </w.rf>
 <form>pomoci</form>
 <lemma>pomoci</lemma>
-<tag>Vf--------A-P-1</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-mf930702-013-p2s5w15">
 <src.rf>manual</src.rf>

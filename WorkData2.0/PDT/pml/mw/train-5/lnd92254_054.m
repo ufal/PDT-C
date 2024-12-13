@@ -181,7 +181,7 @@
 <LM>w#w-lnd92254-054-p1s1w19</LM>
 </w.rf>
 <form>dozvěděla</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92254-054-p1s1w20">
@@ -2221,7 +2221,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92254-054-p4s2w17">
 <src.rf>manual</src.rf>

@@ -28,7 +28,7 @@
 <LM>w#w-mf930708-157-p1s1w2</LM>
 </w.rf>
 <form>šajch</form>
-<lemma>šajch</lemma>
+<lemma>šajch_,s_^(^DD**šejch)</lemma>
 <tag>NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-157-p1s1w3">
@@ -156,7 +156,7 @@
 <LM>w#w-mf930708-157-p2s1w6</LM>
 </w.rf>
 <form>šajch</form>
-<lemma>šajch</lemma>
+<lemma>šajch_,s_^(^DD**šejch)</lemma>
 <tag>NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-157-p2s1w7">
@@ -536,7 +536,7 @@
 <LM>w#w-mf930708-157-p3s1w2</LM>
 </w.rf>
 <form>šajch</form>
-<lemma>šajch</lemma>
+<lemma>šajch_,s_^(^DD**šejch)</lemma>
 <tag>NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-157-p3s1w3">
@@ -3353,7 +3353,7 @@
 <LM>w#w-mf930708-157-p9s1w4</LM>
 </w.rf>
 <form>šajch</form>
-<lemma>šajch</lemma>
+<lemma>šajch_,s_^(^DD**šejch)</lemma>
 <tag>NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-157-p9s1w5">
@@ -3863,7 +3863,7 @@
 <LM>w#w-mf930708-157-p10s1w16</LM>
 </w.rf>
 <form>šajch</form>
-<lemma>šajch</lemma>
+<lemma>šajch_,s_^(^DD**šejch)</lemma>
 <tag>NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-157-p10s1w17">
@@ -5351,7 +5351,7 @@
 <LM>w#w-mf930708-157-p13s1w21</LM>
 </w.rf>
 <form>šajch</form>
-<lemma>šajch</lemma>
+<lemma>šajch_,s_^(^DD**šejch)</lemma>
 <tag>NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-157-p13s1w22">
@@ -5613,7 +5613,7 @@
 <LM>w#w-mf930708-157-p14s1w4</LM>
 </w.rf>
 <form>šajch</form>
-<lemma>šajch</lemma>
+<lemma>šajch_,s_^(^DD**šejch)</lemma>
 <tag>NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-157-p14s1w5">

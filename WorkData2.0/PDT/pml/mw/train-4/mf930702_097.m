@@ -3916,7 +3916,7 @@
 </w.rf>
 <form>věnovat</form>
 <lemma>věnovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-mf930702-097-p6s8w54">
 <src.rf>manual</src.rf>
@@ -5591,7 +5591,7 @@
 <LM>w#w-mf930702-097-p7s10w1</LM>
 </w.rf>
 <form>hájíme</form>
-<lemma>hájit_^(bránit,_obhajovat)</lemma>
+<lemma>hájit</lemma>
 <tag>VB-P---1P-AAI--</tag>
 </m>
 <m id="m-mf930702-097-p7s10w2">

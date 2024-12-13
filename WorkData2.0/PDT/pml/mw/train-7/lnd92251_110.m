@@ -2691,7 +2691,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92251-110-p7s1w31">
 <src.rf>manual</src.rf>
@@ -4253,8 +4253,8 @@
 <LM>w#w-lnd92251-110-p9s1w11</LM>
 </w.rf>
 <form>tentokráte</form>
-<lemma>tentokrát</lemma>
-<tag>Db------------2</tag>
+<lemma>tentokráte_,s_^(^DD**tentokrát)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-lnd92251-110-p9s1w12">
 <src.rf>manual</src.rf>
@@ -4366,7 +4366,7 @@
 </w.rf>
 <form>Rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92251-110-p9s3w2">
 <src.rf>manual</src.rf>

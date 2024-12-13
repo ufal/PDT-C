@@ -453,7 +453,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92257-006-p4s1w6">
 <src.rf>manual</src.rf>
@@ -3034,7 +3034,7 @@
 </w.rf>
 <form>věnoval</form>
 <lemma>věnovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-lnd92257-006-p8s1w4">
 <src.rf>manual</src.rf>

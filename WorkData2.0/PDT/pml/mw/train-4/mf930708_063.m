@@ -406,7 +406,7 @@
 </w.rf>
 <form>specializují</form>
 <lemma>specializovat</lemma>
-<tag>VB-P---3P-AAI--</tag>
+<tag>VB-P---3P-AAB--</tag>
 </m>
 <m id="m-mf930708-063-p4s2w13">
 <src.rf>manual</src.rf>
@@ -1357,7 +1357,7 @@
 </w.rf>
 <form>věnujeme</form>
 <lemma>věnovat</lemma>
-<tag>VB-P---1P-AAI--</tag>
+<tag>VB-P---1P-AAB--</tag>
 </m>
 <m id="m-mf930708-063-p5s2w22">
 <src.rf>manual</src.rf>
@@ -3026,7 +3026,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930708-063-p6s2w10">
 <src.rf>manual</src.rf>
@@ -3073,7 +3073,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930708-063-p6s3w4">
 <src.rf>manual</src.rf>

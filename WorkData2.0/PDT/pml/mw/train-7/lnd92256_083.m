@@ -624,7 +624,7 @@
 </w.rf>
 <form>distribuovat</form>
 <lemma>distribuovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-lnd92256-083-p3s1w6">
 <src.rf>manual</src.rf>

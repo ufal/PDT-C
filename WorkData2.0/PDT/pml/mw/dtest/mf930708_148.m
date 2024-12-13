@@ -777,7 +777,7 @@
 </w.rf>
 <form>specializoval</form>
 <lemma>specializovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-mf930708-148-p2s5w8">
 <src.rf>manual</src.rf>

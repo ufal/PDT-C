@@ -3932,7 +3932,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92259-011-p8s1w6">
 <src.rf>manual</src.rf>
@@ -5281,7 +5281,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92259-011-p8s9w8">
 <src.rf>manual</src.rf>
@@ -5943,7 +5943,7 @@
 <LM>w#w-lnd92259-011-p9s1w17</LM>
 </w.rf>
 <form>nedozvěděli</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VpMP----R-NAP--</tag>
 </m>
 <m id="m-lnd92259-011-p9s1w18">
@@ -6191,7 +6191,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92259-011-p9s3w4">
 <src.rf>manual</src.rf>
@@ -8831,7 +8831,7 @@
 <LM>w#w-lnd92259-011-p10s8w2</LM>
 </w.rf>
 <form>Dozvěděl</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92259-011-p10s8w3">

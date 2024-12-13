@@ -7538,7 +7538,7 @@
 <LM>w#w-ln94201-104-p17s2w7</LM>
 </w.rf>
 <form>nedozvěděla</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VpQW----R-NAP--</tag>
 </m>
 <m id="m-ln94201-104-p17s2w8">
@@ -11499,7 +11499,7 @@
 <LM>w#w-ln94201-104-p27s1w6</LM>
 </w.rf>
 <form>dozvěděla</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94201-104-p27s1w7">

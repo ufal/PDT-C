@@ -57,7 +57,7 @@
 <LM>w#w-mf930701-075-p3s1w1</LM>
 </w.rf>
 <form>kanoista</form>
-<lemma>kanoista</lemma>
+<lemma>kanoista_,s_^(^DD**kánoista)</lemma>
 <tag>NNMS1-----A----</tag>
 </m>
 <m id="m-mf930701-075-p3s1w2">
@@ -471,7 +471,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930701-075-p3s5w12">
 <src.rf>manual</src.rf>

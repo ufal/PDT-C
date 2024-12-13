@@ -1472,7 +1472,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92254-051-p4s6w2">
 <src.rf>manual</src.rf>
@@ -2628,7 +2628,7 @@
 <LM>w#w-lnd92254-051-p5s7w5</LM>
 </w.rf>
 <form>vydechnout</form>
-<lemma>vydechnout</lemma>
+<lemma>vydechnout_,s_^(^DD**vydýchnout)</lemma>
 <tag>Vf--------A-P--</tag>
 </m>
 <m id="m-lnd92254-051-p5s7w6">
@@ -5176,7 +5176,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92254-051-p9s3w9">
 <src.rf>manual</src.rf>

@@ -312,7 +312,7 @@
 </w.rf>
 <form>věnován</form>
 <lemma>věnovat</lemma>
-<tag>VsYS----X-API--</tag>
+<tag>VsYS----X-APB--</tag>
 </m>
 <m id="m-mf930708-042-p2s2w8">
 <src.rf>manual</src.rf>

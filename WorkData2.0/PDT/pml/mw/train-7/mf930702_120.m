@@ -249,7 +249,7 @@
 </w.rf>
 <form>Reagoval</form>
 <lemma>reagovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-mf930702-120-p2s2w2">
 <src.rf>manual</src.rf>
@@ -651,7 +651,7 @@
 </w.rf>
 <form>Rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930702-120-p2s5w2">
 <src.rf>manual</src.rf>

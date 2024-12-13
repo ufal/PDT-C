@@ -357,7 +357,7 @@
 </w.rf>
 <form>kontaktovali</form>
 <lemma>kontaktovat</lemma>
-<tag>VpMP----R-AAI--</tag>
+<tag>VpMP----R-AAB--</tag>
 </m>
 <m id="m-lnd92256-101-p2s2w31">
 <src.rf>manual</src.rf>

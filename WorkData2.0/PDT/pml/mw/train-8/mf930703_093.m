@@ -166,7 +166,7 @@
 </w.rf>
 <form>UTÉCI</form>
 <lemma>utéci</lemma>
-<tag>Vf--------A-P-1</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-mf930703-093-p1s2w11">
 <src.rf>manual</src.rf>
@@ -1357,7 +1357,7 @@
 <LM>w#w-mf930703-093-p6s2w10</LM>
 </w.rf>
 <form>sehnat</form>
-<lemma>sehnat_^(shánět)</lemma>
+<lemma>sehnat</lemma>
 <tag>Vf--------A-P--</tag>
 </m>
 <m id="m-mf930703-093-p6s2w11">
@@ -4662,7 +4662,7 @@
 </w.rf>
 <form>pomoci</form>
 <lemma>pomoci</lemma>
-<tag>Vf--------A-P-1</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-mf930703-093-p22s2w4">
 <src.rf>manual</src.rf>
@@ -4837,7 +4837,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930703-093-p22s4w2">
 <src.rf>manual</src.rf>
@@ -5428,7 +5428,7 @@
 </w.rf>
 <form>pomoci</form>
 <lemma>pomoci</lemma>
-<tag>Vf--------A-P-1</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-mf930703-093-p24s2w17">
 <src.rf>manual</src.rf>
@@ -6252,7 +6252,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930703-093-p26s4w2">
 <src.rf>manual</src.rf>
@@ -8565,7 +8565,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930703-093-p34s1w6">
 <src.rf>manual</src.rf>
@@ -9214,7 +9214,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930703-093-p34s6w9">
 <src.rf>manual</src.rf>

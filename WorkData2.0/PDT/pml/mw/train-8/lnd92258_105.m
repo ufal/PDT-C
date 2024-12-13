@@ -2109,7 +2109,7 @@
 <LM>w#w-lnd92258-105-p2s19w1</LM>
 </w.rf>
 <form>Dozvíme</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VB-P---1P-AAP--</tag>
 </m>
 <m id="m-lnd92258-105-p2s19w2">

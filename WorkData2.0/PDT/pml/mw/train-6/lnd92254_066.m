@@ -2220,7 +2220,7 @@
 <LM>w#w-lnd92254-066-p5s8w3</LM>
 </w.rf>
 <form>četniků</form>
-<lemma>četnik</lemma>
+<lemma>četnik_,h_^(^GC**četník)</lemma>
 <tag>NNMP2-----A----</tag>
 </m>
 <m id="m-lnd92254-066-p5s8w4">
@@ -3437,7 +3437,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92254-066-p8s1w4">
 <src.rf>manual</src.rf>
@@ -4147,7 +4147,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92254-066-p8s5w7">
 <src.rf>manual</src.rf>
@@ -4484,7 +4484,7 @@
 </w.rf>
 <form>zachována</form>
 <lemma>zachovat</lemma>
-<tag>VsQW----X-API--</tag>
+<tag>VsQW----X-APP--</tag>
 </m>
 <m id="m-lnd92254-066-p8s7w8">
 <src.rf>manual</src.rf>
@@ -5005,7 +5005,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92254-066-p9s3w3">
 <src.rf>manual</src.rf>

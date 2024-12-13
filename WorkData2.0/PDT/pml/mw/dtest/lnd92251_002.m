@@ -1399,7 +1399,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92251-002-p3s9w6">
 <src.rf>manual</src.rf>

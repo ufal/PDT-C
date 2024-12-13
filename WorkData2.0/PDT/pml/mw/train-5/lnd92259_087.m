@@ -2665,7 +2665,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92259-087-p7s3w8">
 <src.rf>manual</src.rf>

@@ -49,7 +49,7 @@
 </w.rf>
 <form>Zachovat</form>
 <lemma>zachovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-lnd92255-011-p2s1w2">
 <src.rf>manual</src.rf>
@@ -435,7 +435,7 @@
 </w.rf>
 <form>zachovat</form>
 <lemma>zachovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-lnd92255-011-p3s4w22">
 <src.rf>manual</src.rf>
@@ -1109,7 +1109,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92255-011-p3s8w4">
 <src.rf>manual</src.rf>

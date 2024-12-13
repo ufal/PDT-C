@@ -6485,7 +6485,7 @@
 </w.rf>
 <form>reagovala</form>
 <lemma>reagovat</lemma>
-<tag>VpQW----R-AAI--</tag>
+<tag>VpQW----R-AAB--</tag>
 </m>
 <m id="m-ln94201-111-p19s1w31">
 <src.rf>manual</src.rf>
@@ -8028,7 +8028,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94201-111-p21s5w11">
 <src.rf>manual</src.rf>
@@ -8429,7 +8429,7 @@
 <LM>w#w-ln94201-111-p23s2w8</LM>
 </w.rf>
 <form>dneska</form>
-<lemma>dneska_,h</lemma>
+<lemma>dneska_,h_^(^GC**dnes)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-ln94201-111-p23s2w9">
@@ -9691,7 +9691,7 @@
 </w.rf>
 <form>napomoci</form>
 <lemma>napomoci</lemma>
-<tag>Vf--------A-P-1</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-ln94201-111-p27s2w17">
 <src.rf>manual</src.rf>
@@ -10650,7 +10650,7 @@
 </w.rf>
 <form>věnovat</form>
 <lemma>věnovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-ln94201-111-p31s1w11">
 <src.rf>manual</src.rf>

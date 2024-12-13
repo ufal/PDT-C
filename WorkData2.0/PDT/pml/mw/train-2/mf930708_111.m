@@ -419,7 +419,7 @@
 <LM>w#w-mf930708-111-p2s2w21</LM>
 </w.rf>
 <form>sehnal</form>
-<lemma>sehnat_^(shánět)</lemma>
+<lemma>sehnat</lemma>
 <tag>VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930708-111-p2s2w22">

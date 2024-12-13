@@ -1013,7 +1013,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930708-144-p4s1w3">
 <src.rf>manual</src.rf>
@@ -1331,7 +1331,7 @@
 <LM>w#w-mf930708-144-p4s3w10</LM>
 </w.rf>
 <form>hájeni</form>
-<lemma>hájit_^(bránit,_obhajovat)</lemma>
+<lemma>hájit</lemma>
 <tag>VsMP----X-API--</tag>
 </m>
 <m id="m-mf930708-144-p4s3w11">

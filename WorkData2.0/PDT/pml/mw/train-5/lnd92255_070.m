@@ -1213,7 +1213,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92255-070-p4s2w3">
 <src.rf>manual</src.rf>
@@ -2686,7 +2686,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92255-070-p6s1w22">
 <src.rf>manual</src.rf>

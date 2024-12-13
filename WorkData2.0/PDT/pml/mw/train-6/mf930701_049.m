@@ -759,7 +759,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930701-049-p2s5w10">
 <src.rf>manual</src.rf>
@@ -1839,7 +1839,7 @@
 <LM>w#w-mf930701-049-p2s10w17</LM>
 </w.rf>
 <form>sehnat</form>
-<lemma>sehnat_^(shánět)</lemma>
+<lemma>sehnat</lemma>
 <tag>Vf--------A-P--</tag>
 </m>
 <m id="m-mf930701-049-p2s10w18">

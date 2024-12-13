@@ -2060,7 +2060,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930701-029-p2s12w4">
 <src.rf>manual</src.rf>

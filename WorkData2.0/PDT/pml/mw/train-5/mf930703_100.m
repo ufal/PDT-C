@@ -1045,7 +1045,7 @@
 </w.rf>
 <form>reagovat</form>
 <lemma>reagovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-mf930703-100-p4s1w19">
 <src.rf>manual</src.rf>

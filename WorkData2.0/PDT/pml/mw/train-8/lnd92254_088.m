@@ -1109,7 +1109,7 @@
 <LM>w#w-lnd92254-088-p4s1w48</LM>
 </w.rf>
 <form>hájit</form>
-<lemma>hájit_^(bránit,_obhajovat)</lemma>
+<lemma>hájit</lemma>
 <tag>Vf--------A-I--</tag>
 </m>
 <m id="m-lnd92254-088-p4s1w49">
@@ -1953,7 +1953,7 @@
 </w.rf>
 <form>rozdá</form>
 <lemma>rozdat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAP--</tag>
 </m>
 <m id="m-lnd92254-088-p5s1w33">
 <src.rf>manual</src.rf>

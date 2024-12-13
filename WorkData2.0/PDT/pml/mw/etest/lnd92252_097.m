@@ -4000,7 +4000,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92252-097-p14s7w9">
 <src.rf>manual</src.rf>
@@ -4464,7 +4464,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92252-097-p14s9w10">
 <src.rf>manual</src.rf>
@@ -6587,7 +6587,7 @@
 </w.rf>
 <form>trefil</form>
 <lemma>trefit</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92252-097-p19s6w11">
 <src.rf>manual</src.rf>

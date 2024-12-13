@@ -3151,7 +3151,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92255-102-p7s3w39">
 <src.rf>manual</src.rf>
@@ -3178,7 +3178,7 @@
 </w.rf>
 <form>limitováno</form>
 <lemma>limitovat</lemma>
-<tag>VsNS----X-API--</tag>
+<tag>VsNS----X-APB--</tag>
 </m>
 <m id="m-lnd92255-102-p7s3w42">
 <src.rf>manual</src.rf>

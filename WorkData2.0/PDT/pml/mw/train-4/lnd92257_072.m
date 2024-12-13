@@ -3848,7 +3848,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92257-072-p9s4w19">
 <src.rf>manual</src.rf>
@@ -4003,7 +4003,7 @@
 </w.rf>
 <form>reagovat</form>
 <lemma>reagovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-lnd92257-072-p9s5w3">
 <src.rf>manual</src.rf>

@@ -177,7 +177,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92251-077-p3s1w10">
 <src.rf>manual</src.rf>
@@ -185,7 +185,7 @@
 <LM>w#w-lnd92251-077-p3s1w10</LM>
 </w.rf>
 <form>jazzman</form>
-<lemma>jazzman</lemma>
+<lemma>jazzman_,s_^(^DD**džezman)</lemma>
 <tag>NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92251-077-p3s1w11">

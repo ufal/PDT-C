@@ -2161,7 +2161,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94201-10-p5s1w5">
 <src.rf>manual</src.rf>
@@ -2462,7 +2462,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94201-10-p5s3w7">
 <src.rf>manual</src.rf>
@@ -2943,7 +2943,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94201-10-p6s1w18">
 <src.rf>manual</src.rf>
@@ -3774,7 +3774,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94201-10-p7s4w15">
 <src.rf>manual</src.rf>

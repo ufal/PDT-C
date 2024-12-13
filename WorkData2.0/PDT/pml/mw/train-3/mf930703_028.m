@@ -1065,7 +1065,7 @@
 </w.rf>
 <form>věnovalo</form>
 <lemma>věnovat</lemma>
-<tag>VpNS----R-AAI--</tag>
+<tag>VpNS----R-AAB--</tag>
 </m>
 <m id="m-mf930703-028-p4s1w7">
 <src.rf>manual</src.rf>
@@ -1887,7 +1887,7 @@
 </w.rf>
 <form>nekontaktoval</form>
 <lemma>kontaktovat</lemma>
-<tag>VpYS----R-NAI--</tag>
+<tag>VpYS----R-NAB--</tag>
 </m>
 <m id="m-mf930703-028-p5s2w10">
 <src.rf>manual</src.rf>
@@ -1970,7 +1970,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930703-028-p5s3w9">
 <src.rf>manual</src.rf>
@@ -2406,7 +2406,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930703-028-p6s2w24">
 <src.rf>manual</src.rf>

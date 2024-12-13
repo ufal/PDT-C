@@ -249,7 +249,7 @@
 </w.rf>
 <form>Angažovali</form>
 <lemma>angažovat</lemma>
-<tag>VpMP----R-AAI--</tag>
+<tag>VpMP----R-AAB--</tag>
 </m>
 <m id="m-mf930702-068-p2s2w2">
 <src.rf>manual</src.rf>

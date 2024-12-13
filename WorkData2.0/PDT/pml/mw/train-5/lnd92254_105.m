@@ -1811,7 +1811,7 @@
 </w.rf>
 <form>blokována</form>
 <lemma>blokovat</lemma>
-<tag>VsQW----X-API--</tag>
+<tag>VsQW----X-APB--</tag>
 </m>
 <m id="m-lnd92254-105-p4s3Bw7">
 <src.rf>manual</src.rf>

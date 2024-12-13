@@ -485,7 +485,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92251-078-p3s2w3">
 <src.rf>manual</src.rf>
@@ -977,7 +977,7 @@
 </w.rf>
 <form>naštěstí</form>
 <lemma>naštěstí</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92251-078-p4s3w13">
 <src.rf>manual</src.rf>
@@ -3399,7 +3399,7 @@
 <LM>w#w-lnd92251-078-p9s2w8</LM>
 </w.rf>
 <form>odpírá</form>
-<lemma>odpírat</lemma>
+<lemma>odpírat_,s_^(^DD**odepírat)</lemma>
 <tag>VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92251-078-p9s2w9">

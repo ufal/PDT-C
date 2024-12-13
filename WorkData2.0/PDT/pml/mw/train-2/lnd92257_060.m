@@ -440,7 +440,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92257-060-p2s3w3">
 <src.rf>manual</src.rf>
@@ -1217,7 +1217,7 @@
 <LM>w#w-lnd92257-060-p3s2w19</LM>
 </w.rf>
 <form>utvářet</form>
-<lemma>utvářet_^(tvořit)</lemma>
+<lemma>utvářet</lemma>
 <tag>Vf--------A-I--</tag>
 </m>
 <m id="m-lnd92257-060-p3s2w20">
@@ -2317,7 +2317,7 @@
 </w.rf>
 <form>pomoci</form>
 <lemma>pomoci</lemma>
-<tag>Vf--------A-P-1</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-lnd92257-060-p5s3w10">
 <src.rf>manual</src.rf>

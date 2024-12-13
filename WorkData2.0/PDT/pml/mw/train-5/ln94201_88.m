@@ -703,7 +703,7 @@
 </w.rf>
 <form>kontaktovat</form>
 <lemma>kontaktovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-ln94201-88-p3s2w15">
 <src.rf>manual</src.rf>

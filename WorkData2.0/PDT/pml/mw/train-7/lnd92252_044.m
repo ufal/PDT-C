@@ -2779,7 +2779,7 @@
 <LM>w#w-lnd92252-044-p5s5w2</LM>
 </w.rf>
 <form>vypjatě</form>
-<lemma>vypjatě_^(*1ý)</lemma>
+<lemma>vypjatě_^(^DD**vypnutě)_(*1ý)</lemma>
 <tag>Dg-------1A----</tag>
 </m>
 <m id="m-lnd92252-044-p5s5w3">

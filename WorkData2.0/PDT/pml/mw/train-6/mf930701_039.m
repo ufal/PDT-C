@@ -415,7 +415,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930701-039-p3s1w20">
 <src.rf>manual</src.rf>
@@ -1174,7 +1174,7 @@
 </w.rf>
 <form>věnoval</form>
 <lemma>věnovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-mf930701-039-p5s1w10">
 <src.rf>manual</src.rf>
@@ -2258,7 +2258,7 @@
 <LM>w#w-mf930701-039-p7s1w8</LM>
 </w.rf>
 <form>dozvěděl</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930701-039-p7s1w9">

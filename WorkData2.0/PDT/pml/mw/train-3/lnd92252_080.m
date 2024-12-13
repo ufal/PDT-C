@@ -1351,7 +1351,7 @@
 <LM>w#w-lnd92252-080-p5s1w30</LM>
 </w.rf>
 <form>reflexivně</form>
-<lemma>reflexivně_^(*1í)</lemma>
+<lemma>reflexivně_^(^DD**reflexívně)_(*1í)</lemma>
 <tag>Dg-------1A----</tag>
 </m>
 <m id="m-lnd92252-080-p5s1w31">

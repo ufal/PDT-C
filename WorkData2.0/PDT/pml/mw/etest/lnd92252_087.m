@@ -3836,7 +3836,7 @@
 <LM>w#w-lnd92252-087-p5s3w3</LM>
 </w.rf>
 <form>Doubravkou</form>
-<lemma>Doubravka_;G</lemma>
+<lemma>Doubravka_;G_;Y</lemma>
 <tag>NNFS7-----A----</tag>
 </m>
 <m id="m-lnd92252-087-p5s3w4">

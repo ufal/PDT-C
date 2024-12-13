@@ -238,7 +238,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930701-168-p2s1w21">
 <src.rf>manual</src.rf>
@@ -2112,7 +2112,7 @@
 </w.rf>
 <form>vyjmenovat</form>
 <lemma>vyjmenovat</lemma>
-<tag>Vf--------A-B--</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-mf930701-168-p4s5w7">
 <src.rf>manual</src.rf>
@@ -2240,7 +2240,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930701-168-p4s6w5">
 <src.rf>manual</src.rf>
@@ -3033,7 +3033,7 @@
 </w.rf>
 <form>Pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930701-168-p5s4w2">
 <src.rf>manual</src.rf>

@@ -1102,7 +1102,7 @@
 <LM>w#w-ln94201-99-p5s1w24</LM>
 </w.rf>
 <form>spral</form>
-<lemma>sprát</lemma>
+<lemma>sprát_,s_^(^DD**seprat)</lemma>
 <tag>VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94201-99-p5s1w25">

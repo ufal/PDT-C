@@ -1968,7 +1968,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92252-074-p6s3w12">
 <src.rf>manual</src.rf>
@@ -2854,7 +2854,7 @@
 <LM>w#w-lnd92252-074-p8s2w3</LM>
 </w.rf>
 <form>neubráníte</form>
-<lemma>ubránit_^(něco_před_někým)</lemma>
+<lemma>ubránit</lemma>
 <tag>VB-P---2P-NAP--</tag>
 </m>
 <m id="m-lnd92252-074-p8s2w4">
@@ -3160,7 +3160,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92252-074-p8s6w4">
 <src.rf>manual</src.rf>

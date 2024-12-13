@@ -93,7 +93,7 @@
 <LM>w#w-lnd92257-051-p2s1w2</LM>
 </w.rf>
 <form>Abchazům</form>
-<lemma>Abchaz_;E</lemma>
+<lemma>Abchaz_;E_,s_^(^DD**Abcház)</lemma>
 <tag>NNMP3-----A----</tag>
 </m>
 <m id="m-lnd92257-051-p2s1w3">
@@ -970,7 +970,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92257-051-p4s3w5">
 <src.rf>manual</src.rf>
@@ -1140,7 +1140,7 @@
 <LM>w#w-lnd92257-051-p4s3w23</LM>
 </w.rf>
 <form>Abchazům</form>
-<lemma>Abchaz_;E</lemma>
+<lemma>Abchaz_;E_,s_^(^DD**Abcház)</lemma>
 <tag>NNMP3-----A----</tag>
 </m>
 <m id="m-lnd92257-051-p4s3w24">

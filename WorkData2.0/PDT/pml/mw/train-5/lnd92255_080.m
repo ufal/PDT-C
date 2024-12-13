@@ -529,7 +529,7 @@
 <LM>w#w-lnd92255-080-p3s2w5</LM>
 </w.rf>
 <form>dneska</form>
-<lemma>dneska_,h</lemma>
+<lemma>dneska_,h_^(^GC**dnes)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-lnd92255-080-p3s2w6">
@@ -2619,7 +2619,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92255-080-p6s4w6">
 <src.rf>manual</src.rf>
@@ -7335,7 +7335,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92255-080-p12s9w29">
 <src.rf>manual</src.rf>
@@ -8417,7 +8417,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92255-080-p14s3w10">
 <src.rf>manual</src.rf>
@@ -9904,7 +9904,7 @@
 </w.rf>
 <form>datován</form>
 <lemma>datovat</lemma>
-<tag>VsYS----X-API--</tag>
+<tag>VsYS----X-APB--</tag>
 </m>
 <m id="m-lnd92255-080-p16s8w13">
 <src.rf>manual</src.rf>
@@ -15512,7 +15512,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92255-080-p25s1w6">
 <src.rf>manual</src.rf>
@@ -23180,7 +23180,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92255-080-p33s3w2">
 <src.rf>manual</src.rf>
@@ -25660,7 +25660,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92255-080-p39s3w3">
 <src.rf>manual</src.rf>
@@ -25896,7 +25896,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92255-080-p39s4w4">
 <src.rf>manual</src.rf>

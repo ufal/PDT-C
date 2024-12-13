@@ -1739,7 +1739,7 @@
 <LM>w#w-lnd92258-008-p4s2w15</LM>
 </w.rf>
 <form>uhádnout</form>
-<lemma>uhádnout</lemma>
+<lemma>uhádnout_,s_^(^DD**uhodnout)</lemma>
 <tag>Vf--------A-P--</tag>
 </m>
 <m id="m-lnd92258-008-p4s2w16">
@@ -1848,7 +1848,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92258-008-p4s2w28">
 <src.rf>manual</src.rf>

@@ -1972,7 +1972,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92256-067-p4s3w5">
 <src.rf>manual</src.rf>
@@ -2244,7 +2244,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92256-067-p5s1w17">
 <src.rf>manual</src.rf>
@@ -6951,8 +6951,8 @@
 <LM>w#w-lnd92256-067-p9s3w7</LM>
 </w.rf>
 <form>tentokráte</form>
-<lemma>tentokrát</lemma>
-<tag>Db------------2</tag>
+<lemma>tentokráte_,s_^(^DD**tentokrát)</lemma>
+<tag>Db-------------</tag>
 </m>
 <m id="m-lnd92256-067-p9s3w8">
 <src.rf>manual</src.rf>
@@ -7219,7 +7219,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92256-067-p9s6w3">
 <src.rf>manual</src.rf>

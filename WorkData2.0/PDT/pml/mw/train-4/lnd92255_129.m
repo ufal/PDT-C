@@ -2249,7 +2249,7 @@
 </w.rf>
 <form>rozdat</form>
 <lemma>rozdat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-lnd92255-129-p4s7w11">
 <src.rf>manual</src.rf>

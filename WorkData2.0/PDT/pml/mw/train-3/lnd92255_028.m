@@ -19,7 +19,7 @@
 <LM>w#w-lnd92255-028-p1s1w1</LM>
 </w.rf>
 <form>Vybuchl</form>
-<lemma>vybuchnout</lemma>
+<lemma>vybuchnout_,s_^(^DD**vybouchnout)</lemma>
 <tag>VpYS----R-AAP-1</tag>
 </m>
 <m id="m-lnd92255-028-p1s1w2">
@@ -1052,7 +1052,7 @@
 <LM>w#w-lnd92255-028-p2s6w7</LM>
 </w.rf>
 <form>vybuchl</form>
-<lemma>vybuchnout</lemma>
+<lemma>vybuchnout_,s_^(^DD**vybouchnout)</lemma>
 <tag>VpYS----R-AAP-1</tag>
 </m>
 <m id="m-lnd92255-028-p2s6w8">

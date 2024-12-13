@@ -5436,7 +5436,7 @@
 <form_change>spell</form_change>
 <form>naštěstí</form>
 <lemma>naštěstí</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92254-069-p10s1w33">
 <src.rf>manual</src.rf>
@@ -8585,7 +8585,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92254-069-p14s2w5">
 <src.rf>manual</src.rf>
@@ -9000,7 +9000,7 @@
 <LM>w#w-lnd92254-069-p14s3w33</LM>
 </w.rf>
 <form>spjaty</form>
-<lemma>spjatý</lemma>
+<lemma>spjatý_,s_^(^DD**sepnutý)</lemma>
 <tag>ACTP------A----</tag>
 </m>
 <m id="m-lnd92254-069-p14s3w34">

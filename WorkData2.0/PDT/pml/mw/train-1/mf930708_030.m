@@ -1361,7 +1361,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930708-030-p3s5w4">
 <src.rf>manual</src.rf>
@@ -1696,7 +1696,7 @@
 </w.rf>
 <form>zachována</form>
 <lemma>zachovat</lemma>
-<tag>VsQW----X-API--</tag>
+<tag>VsQW----X-APP--</tag>
 </m>
 <m id="m-mf930708-030-p3s6w20">
 <src.rf>manual</src.rf>

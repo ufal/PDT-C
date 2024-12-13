@@ -1849,7 +1849,7 @@
 </w.rf>
 <form>předčili</form>
 <lemma>předčit</lemma>
-<tag>VpMP----R-AAP--</tag>
+<tag>VpMP----R-AAB--</tag>
 </m>
 <m id="m-lnd92254-087-p4s7w15">
 <src.rf>manual</src.rf>

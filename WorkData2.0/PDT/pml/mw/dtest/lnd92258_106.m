@@ -640,7 +640,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92258-106-p2s4w3">
 <src.rf>manual</src.rf>
@@ -1826,7 +1826,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92258-106-p2s12w4">
 <src.rf>manual</src.rf>
@@ -5776,7 +5776,7 @@
 </w.rf>
 <form>tlouci</form>
 <lemma>tlouci</lemma>
-<tag>Vf--------A-I-1</tag>
+<tag>Vf--------A-I--</tag>
 </m>
 <m id="m-lnd92258-106-p6s7w30">
 <src.rf>manual</src.rf>
@@ -6048,7 +6048,7 @@
 </w.rf>
 <form>zachová</form>
 <lemma>zachovat</lemma>
-<tag>VB-S---3P-AAI--</tag>
+<tag>VB-S---3P-AAP--</tag>
 </m>
 <m id="m-lnd92258-106-p6s8w4">
 <src.rf>manual</src.rf>

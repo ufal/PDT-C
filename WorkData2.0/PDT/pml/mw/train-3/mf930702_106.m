@@ -2674,7 +2674,7 @@
 </w.rf>
 <form>napomoci</form>
 <lemma>napomoci</lemma>
-<tag>Vf--------A-P-1</tag>
+<tag>Vf--------A-P--</tag>
 </m>
 <m id="m-mf930702-106-p5s3w6">
 <src.rf>manual</src.rf>
@@ -2802,7 +2802,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930702-106-p5s4w3">
 <src.rf>manual</src.rf>
@@ -3838,7 +3838,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930702-106-p7s3w2">
 <src.rf>manual</src.rf>

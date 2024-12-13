@@ -969,7 +969,7 @@
 </w.rf>
 <form>Nevdala</form>
 <lemma>vdát</lemma>
-<tag>VpQW----R-NAI--</tag>
+<tag>VpQW----R-NAP--</tag>
 </m>
 <m id="m-lnd92252-053-p1s1Cw2">
 <src.rf>manual</src.rf>

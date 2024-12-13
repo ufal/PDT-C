@@ -3541,7 +3541,7 @@
 <LM>w#w-mf930708-072-p21s1w20</LM>
 </w.rf>
 <form>Valchář</form>
-<lemma>valchář</lemma>
+<lemma>valchář_,s_^(^DD**valchař)</lemma>
 <tag>NNMS1-----A----</tag>
 </m>
 <m id="m-mf930708-072-p21s1w21">

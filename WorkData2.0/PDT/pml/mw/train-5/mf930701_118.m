@@ -387,7 +387,7 @@
 </w.rf>
 <form>dominovali</form>
 <lemma>dominovat</lemma>
-<tag>VpMP----R-AAB--</tag>
+<tag>VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf930701-118-p3s1w5">
 <src.rf>manual</src.rf>

@@ -283,7 +283,7 @@
 </w.rf>
 <form>blokují</form>
 <lemma>blokovat</lemma>
-<tag>VB-P---3P-AAI--</tag>
+<tag>VB-P---3P-AAB--</tag>
 </m>
 <m id="m-mf930708-173-p2s1w25">
 <src.rf>manual</src.rf>

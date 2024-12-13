@@ -379,7 +379,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92251-031-p3s3w10">
 <src.rf>manual</src.rf>
@@ -617,7 +617,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92251-031-p3s5w5">
 <src.rf>manual</src.rf>
@@ -1152,7 +1152,7 @@
 </w.rf>
 <form>rozdán</form>
 <lemma>rozdat</lemma>
-<tag>VsYS----X-API--</tag>
+<tag>VsYS----X-APP--</tag>
 </m>
 <m id="m-lnd92251-031-p4s2w6">
 <src.rf>manual</src.rf>

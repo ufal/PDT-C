@@ -469,7 +469,7 @@
 </w.rf>
 <form>přesáhla</form>
 <lemma>přesáhnout</lemma>
-<tag>VpQW----R-AAP--</tag>
+<tag>VpQW----R-AAP-1</tag>
 </m>
 <m id="m-lnd92256-016-p3s3w14">
 <src.rf>manual</src.rf>

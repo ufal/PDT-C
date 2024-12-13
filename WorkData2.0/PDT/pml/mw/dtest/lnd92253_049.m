@@ -677,7 +677,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92253-049-p4s2w31">
 <src.rf>manual</src.rf>
@@ -1971,7 +1971,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92253-049-p5s8w6">
 <src.rf>manual</src.rf>
@@ -5049,7 +5049,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92253-049-p9s2w24">
 <src.rf>manual</src.rf>
@@ -6759,7 +6759,7 @@
 <LM>w#w-lnd92253-049-p11s1w34</LM>
 </w.rf>
 <form>dozvídají</form>
-<lemma>dozvídat</lemma>
+<lemma>dozvídat_,s_^(^DD**dovídat)</lemma>
 <tag>VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd92253-049-p11s1w35">

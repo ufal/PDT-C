@@ -1543,7 +1543,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930703-136-p3s4w29">
 <src.rf>manual</src.rf>
@@ -2251,7 +2251,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930703-136-p4s3w40">
 <src.rf>manual</src.rf>

@@ -137,7 +137,7 @@
 </w.rf>
 <form>citujeme</form>
 <lemma>citovat</lemma>
-<tag>VB-P---1P-AAI--</tag>
+<tag>VB-P---1P-AAB--</tag>
 </m>
 <m id="m-mf930701-073-p1s1w15">
 <src.rf>manual</src.rf>
@@ -1058,7 +1058,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930701-073-p1s7w6">
 <src.rf>manual</src.rf>
@@ -1750,7 +1750,7 @@
 </w.rf>
 <form>věnovat</form>
 <lemma>věnovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-mf930701-073-p1s11w27">
 <src.rf>manual</src.rf>

@@ -1030,7 +1030,7 @@
 </w.rf>
 <form>zachovali</form>
 <lemma>zachovat</lemma>
-<tag>VpMP----R-AAI--</tag>
+<tag>VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd92253-045-p4s1w44">
 <src.rf>manual</src.rf>
@@ -1257,7 +1257,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92253-045-p5s1w22">
 <src.rf>manual</src.rf>

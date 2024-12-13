@@ -766,7 +766,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930703-108-p3s2w7">
 <src.rf>manual</src.rf>
@@ -1328,7 +1328,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930703-108-p4s2w15">
 <src.rf>manual</src.rf>
@@ -1678,7 +1678,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930703-108-p4s6w6">
 <src.rf>manual</src.rf>

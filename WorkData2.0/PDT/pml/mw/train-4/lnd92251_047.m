@@ -505,7 +505,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92251-047-p2s4w6">
 <src.rf>manual</src.rf>
@@ -2012,7 +2012,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92251-047-p4s2w23">
 <src.rf>manual</src.rf>

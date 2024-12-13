@@ -1649,7 +1649,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930701-078-p2s9w13">
 <src.rf>manual</src.rf>
@@ -1768,7 +1768,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930701-078-p2s10w6">
 <src.rf>manual</src.rf>

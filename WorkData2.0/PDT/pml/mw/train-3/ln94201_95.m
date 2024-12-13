@@ -734,7 +734,7 @@
 </w.rf>
 <form>nereagoval</form>
 <lemma>reagovat</lemma>
-<tag>VpYS----R-NAI--</tag>
+<tag>VpYS----R-NAB--</tag>
 </m>
 <m id="m-ln94201-95-p2s6w11">
 <src.rf>manual</src.rf>
@@ -16557,7 +16557,7 @@
 <LM>w#w-ln94201-95-p17s7w13</LM>
 </w.rf>
 <form>Švejcarem</form>
-<lemma>Švejcar-2_;E_;Y_,h</lemma>
+<lemma>Švejcar-2_;E_;Y_,h_^(^GC**Švýcar)</lemma>
 <tag>NNMS7-----A----</tag>
 </m>
 <m id="m-ln94201-95-p17s7w14">
@@ -17168,7 +17168,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94201-95-p18s3w8">
 <src.rf>manual</src.rf>
@@ -19346,7 +19346,7 @@
 </w.rf>
 <form>zachovali</form>
 <lemma>zachovat</lemma>
-<tag>VpMP----R-AAI--</tag>
+<tag>VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94201-95-p23s3w8">
 <src.rf>manual</src.rf>
@@ -19548,7 +19548,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94201-95-p23s5w4">
 <src.rf>manual</src.rf>
@@ -20954,7 +20954,7 @@
 </w.rf>
 <form>věnován</form>
 <lemma>věnovat</lemma>
-<tag>VsYS----X-API--</tag>
+<tag>VsYS----X-APB--</tag>
 </m>
 <m id="m-ln94201-95-p26s2w5">
 <src.rf>manual</src.rf>
@@ -21426,7 +21426,7 @@
 </w.rf>
 <form>věnovali</form>
 <lemma>věnovat</lemma>
-<tag>VpMP----R-AAI--</tag>
+<tag>VpMP----R-AAB--</tag>
 </m>
 <m id="m-ln94201-95-p27s1w9">
 <src.rf>manual</src.rf>
@@ -22101,7 +22101,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94201-95-p27s5w3">
 <src.rf>manual</src.rf>
@@ -22548,7 +22548,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94201-95-p28s1w17">
 <src.rf>manual</src.rf>
@@ -26106,7 +26106,7 @@
 </w.rf>
 <form>věnovali</form>
 <lemma>věnovat</lemma>
-<tag>VpMP----R-AAI--</tag>
+<tag>VpMP----R-AAB--</tag>
 </m>
 <m id="m-ln94201-95-p31s4w14">
 <src.rf>manual</src.rf>
@@ -27377,7 +27377,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94201-95-p34s3w8">
 <src.rf>manual</src.rf>
@@ -28228,7 +28228,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94201-95-p37s3w3">
 <src.rf>manual</src.rf>
@@ -28526,8 +28526,8 @@
 <LM>w#w-ln94201-95-p37s4w15</LM>
 </w.rf>
 <form>statisíců</form>
-<lemma>statisíc`100000</lemma>
-<tag>CzIP2----------</tag>
+<lemma>stotisíc`100000</lemma>
+<tag>CzIP2---------1</tag>
 </m>
 <m id="m-ln94201-95-p37s4w16">
 <src.rf>manual</src.rf>

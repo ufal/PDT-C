@@ -1053,7 +1053,7 @@
 <LM>w#w-mf930708-156-p3s2w24</LM>
 </w.rf>
 <form>opravňují</form>
-<lemma>opravňovat</lemma>
+<lemma>opravňovat_,s_^(^DD**oprávňovat)</lemma>
 <tag>VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf930708-156-p3s2w25">

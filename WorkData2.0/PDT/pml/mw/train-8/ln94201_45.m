@@ -29,7 +29,7 @@
 </w.rf>
 <form>blokují</form>
 <lemma>blokovat</lemma>
-<tag>VB-P---3P-AAI--</tag>
+<tag>VB-P---3P-AAB--</tag>
 </m>
 <m id="m-ln94201-45-p1s1w3">
 <src.rf>manual</src.rf>
@@ -496,7 +496,7 @@
 </w.rf>
 <form>blokovat</form>
 <lemma>blokovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-ln94201-45-p2s4w10">
 <src.rf>manual</src.rf>

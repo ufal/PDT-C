@@ -404,7 +404,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94201-40-p2s3w5">
 <src.rf>manual</src.rf>
@@ -2294,8 +2294,8 @@
 <LM>w#w-ln94201-40-p4s6w8</LM>
 </w.rf>
 <form>statisíců</form>
-<lemma>statisíc`100000</lemma>
-<tag>CzIP2----------</tag>
+<lemma>stotisíc`100000</lemma>
+<tag>CzIP2---------1</tag>
 </m>
 <m id="m-ln94201-40-p4s6w9">
 <src.rf>manual</src.rf>
@@ -3385,8 +3385,8 @@
 <LM>w#w-ln94201-40-p6s1w21</LM>
 </w.rf>
 <form>statisíců</form>
-<lemma>statisíc`100000</lemma>
-<tag>CzIP2----------</tag>
+<lemma>stotisíc`100000</lemma>
+<tag>CzIP2---------1</tag>
 </m>
 <m id="m-ln94201-40-p6s1w22">
 <src.rf>manual</src.rf>

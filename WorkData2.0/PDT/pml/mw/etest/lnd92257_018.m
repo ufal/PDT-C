@@ -965,7 +965,7 @@
 <LM>w#w-lnd92257-018-p4s1w29</LM>
 </w.rf>
 <form>hájena</form>
-<lemma>hájit_^(bránit,_obhajovat)</lemma>
+<lemma>hájit</lemma>
 <tag>VsQW----X-API--</tag>
 </m>
 <m id="m-lnd92257-018-p4s1w30">
@@ -2449,7 +2449,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92257-018-p6s4w4">
 <src.rf>manual</src.rf>

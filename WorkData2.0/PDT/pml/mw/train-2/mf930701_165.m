@@ -1612,7 +1612,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930701-165-p4s2w15">
 <src.rf>manual</src.rf>

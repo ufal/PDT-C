@@ -838,7 +838,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930708-109-p2s4w2">
 <src.rf>manual</src.rf>
@@ -1114,7 +1114,7 @@
 </w.rf>
 <form>blokoval</form>
 <lemma>blokovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-mf930708-109-p2s7w13">
 <src.rf>manual</src.rf>

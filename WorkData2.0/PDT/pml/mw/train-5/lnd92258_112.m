@@ -277,7 +277,7 @@
 <LM>w#w-lnd92258-112-p3s2w6</LM>
 </w.rf>
 <form>spjat</form>
-<lemma>spjatý</lemma>
+<lemma>spjatý_,s_^(^DD**sepnutý)</lemma>
 <tag>ACYS------A----</tag>
 </m>
 <m id="m-lnd92258-112-p3s2w7">
@@ -1267,7 +1267,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92258-112-p3s6w22">
 <src.rf>manual</src.rf>
@@ -3118,7 +3118,7 @@
 <LM>w#w-lnd92258-112-p5s1w15</LM>
 </w.rf>
 <form>dozvědět</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>Vf--------A-P--</tag>
 </m>
 <m id="m-lnd92258-112-p5s1w16">

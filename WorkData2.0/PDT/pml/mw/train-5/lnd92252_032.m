@@ -368,7 +368,7 @@
 </w.rf>
 <form>reagovali</form>
 <lemma>reagovat</lemma>
-<tag>VpMP----R-AAI--</tag>
+<tag>VpMP----R-AAB--</tag>
 </m>
 <m id="m-lnd92252-032-p3s2w12">
 <src.rf>manual</src.rf>

@@ -3724,7 +3724,7 @@
 <LM>w#w-lnd92251-099-p6s7w6</LM>
 </w.rf>
 <form>spjato</form>
-<lemma>spjatý</lemma>
+<lemma>spjatý_,s_^(^DD**sepnutý)</lemma>
 <tag>ACNS------A----</tag>
 </m>
 <m id="m-lnd92251-099-p6s7w7">

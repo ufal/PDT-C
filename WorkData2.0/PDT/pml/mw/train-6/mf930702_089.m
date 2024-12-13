@@ -910,7 +910,7 @@
 </w.rf>
 <form>zachovala</form>
 <lemma>zachovat</lemma>
-<tag>VpQW----R-AAI--</tag>
+<tag>VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930702-089-p2s4w34">
 <src.rf>manual</src.rf>

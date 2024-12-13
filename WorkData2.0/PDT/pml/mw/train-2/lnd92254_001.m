@@ -440,7 +440,7 @@
 </w.rf>
 <form>pravila</form>
 <lemma>pravit</lemma>
-<tag>VpQW----R-AAP--</tag>
+<tag>VpQW----R-AAB--</tag>
 </m>
 <m id="m-lnd92254-001-p2s3w10">
 <src.rf>manual</src.rf>

@@ -4148,7 +4148,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92253-056-p15s1w5">
 <src.rf>manual</src.rf>
@@ -8653,7 +8653,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92253-056-p19s4w4">
 <src.rf>manual</src.rf>

@@ -557,7 +557,7 @@
 </w.rf>
 <form>dominovala</form>
 <lemma>dominovat</lemma>
-<tag>VpQW----R-AAB--</tag>
+<tag>VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf930708-176-p3s1w7">
 <src.rf>manual</src.rf>
@@ -1222,7 +1222,7 @@
 </w.rf>
 <form>Rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930708-176-p4s2w2">
 <src.rf>manual</src.rf>
@@ -1633,7 +1633,7 @@
 </w.rf>
 <form>Rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930708-176-p5s2w2">
 <src.rf>manual</src.rf>

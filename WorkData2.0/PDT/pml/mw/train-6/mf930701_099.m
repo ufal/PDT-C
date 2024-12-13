@@ -1160,7 +1160,7 @@
 <LM>w#w-mf930701-099-p2s8w19</LM>
 </w.rf>
 <form>hájila</form>
-<lemma>hájit_^(bránit,_obhajovat)</lemma>
+<lemma>hájit</lemma>
 <tag>VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf930701-099-p2s8w20">

@@ -206,7 +206,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930703-070-p2s3w6">
 <src.rf>manual</src.rf>
@@ -268,7 +268,7 @@
 <LM>w#w-mf930703-070-p2s3w12</LM>
 </w.rf>
 <form>drožkařům</form>
-<lemma>drožkař</lemma>
+<lemma>drožkař_,s_^(^DD**drožkář)</lemma>
 <tag>NNMP3-----A----</tag>
 </m>
 <m id="m-mf930703-070-p2s3w13">

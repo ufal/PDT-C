@@ -669,7 +669,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930703-039-p2s4w20">
 <src.rf>manual</src.rf>
@@ -1999,7 +1999,7 @@
 </w.rf>
 <form>věnována</form>
 <lemma>věnovat</lemma>
-<tag>VsQW----X-API--</tag>
+<tag>VsQW----X-APB--</tag>
 </m>
 <m id="m-mf930703-039-p2s11w34">
 <src.rf>manual</src.rf>
@@ -2447,7 +2447,7 @@
 </w.rf>
 <form>věnováno</form>
 <lemma>věnovat</lemma>
-<tag>VsNS----X-API--</tag>
+<tag>VsNS----X-APB--</tag>
 </m>
 <m id="m-mf930703-039-p2s14w27">
 <src.rf>manual</src.rf>

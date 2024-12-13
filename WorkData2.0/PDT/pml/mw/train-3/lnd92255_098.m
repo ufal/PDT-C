@@ -1572,7 +1572,7 @@
 </w.rf>
 <form>Cituji</form>
 <lemma>citovat</lemma>
-<tag>VB-S---1P-AAI-1</tag>
+<tag>VB-S---1P-AAB-1</tag>
 </m>
 <m id="m-lnd92255-098-p2s11w2">
 <src.rf>manual</src.rf>

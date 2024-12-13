@@ -1539,7 +1539,7 @@
 </w.rf>
 <form>Reaguji</form>
 <lemma>reagovat</lemma>
-<tag>VB-S---1P-AAI-1</tag>
+<tag>VB-S---1P-AAB-1</tag>
 </m>
 <m id="m-mf930703-116-p6s1w2">
 <src.rf>manual</src.rf>

@@ -2024,7 +2024,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94201-107-p4s1w15">
 <src.rf>manual</src.rf>
@@ -2891,7 +2891,7 @@
 </w.rf>
 <form>nereagoval</form>
 <lemma>reagovat</lemma>
-<tag>VpYS----R-NAI--</tag>
+<tag>VpYS----R-NAB--</tag>
 </m>
 <m id="m-ln94201-107-p6s1w18">
 <src.rf>manual</src.rf>
@@ -5819,7 +5819,7 @@
 <LM>w#w-ln94201-107-p8s5w13</LM>
 </w.rf>
 <form>zetlela</form>
-<lemma>zetlít</lemma>
+<lemma>zetlít_,s_^(^DD**ztlít)</lemma>
 <tag>VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94201-107-p8s5w14">
@@ -6353,7 +6353,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94201-107-p9s1w6">
 <src.rf>manual</src.rf>
@@ -7934,7 +7934,7 @@
 </w.rf>
 <form>Pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94201-107-p10s3w2">
 <src.rf>manual</src.rf>

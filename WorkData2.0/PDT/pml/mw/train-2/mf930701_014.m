@@ -603,7 +603,7 @@
 </w.rf>
 <form>reagovala</form>
 <lemma>reagovat</lemma>
-<tag>VpQW----R-AAI--</tag>
+<tag>VpQW----R-AAB--</tag>
 </m>
 <m id="m-mf930701-014-p2s3w11">
 <src.rf>manual</src.rf>

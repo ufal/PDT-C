@@ -368,7 +368,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92256-081-p3s2w6">
 <src.rf>manual</src.rf>
@@ -2396,7 +2396,7 @@
 <LM>w#w-lnd92256-081-p5s6w16</LM>
 </w.rf>
 <form>uvízne</form>
-<lemma>uvíznout</lemma>
+<lemma>uvíznout_,s_^(^DD**uváznout)</lemma>
 <tag>VB-S---3P-AAP--</tag>
 </m>
 <m id="m-lnd92256-081-p5s6w17">

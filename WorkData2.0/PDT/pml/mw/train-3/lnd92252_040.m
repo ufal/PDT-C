@@ -660,7 +660,7 @@
 </w.rf>
 <form>citovala</form>
 <lemma>citovat</lemma>
-<tag>VpQW----R-AAI--</tag>
+<tag>VpQW----R-AAB--</tag>
 </m>
 <m id="m-lnd92252-040-p2s5w3">
 <src.rf>manual</src.rf>

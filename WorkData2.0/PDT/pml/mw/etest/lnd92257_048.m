@@ -228,7 +228,7 @@
 <LM>w#w-lnd92257-048-p1s2w13</LM>
 </w.rf>
 <form>uvízl</form>
-<lemma>uvíznout</lemma>
+<lemma>uvíznout_,s_^(^DD**uváznout)</lemma>
 <tag>VpYS----R-AAP-1</tag>
 </m>
 <m id="m-lnd92257-048-p1s2w14">
@@ -694,7 +694,7 @@
 </w.rf>
 <form>Naštěstí</form>
 <lemma>naštěstí</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92257-048-p1s5w2">
 <src.rf>manual</src.rf>

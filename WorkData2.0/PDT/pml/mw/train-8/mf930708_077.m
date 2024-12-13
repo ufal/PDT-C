@@ -1670,7 +1670,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930708-077-p3s3w10">
 <src.rf>manual</src.rf>
@@ -1833,7 +1833,7 @@
 <LM>w#w-mf930708-077-p3s4w14</LM>
 </w.rf>
 <form>sehnat</form>
-<lemma>sehnat_^(shánět)</lemma>
+<lemma>sehnat</lemma>
 <tag>Vf--------A-P--</tag>
 </m>
 <m id="m-mf930708-077-p3s4w15">
@@ -3579,7 +3579,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930708-077-p6s3w8">
 <src.rf>manual</src.rf>
@@ -4582,7 +4582,7 @@
 <LM>w#w-mf930708-077-p8s3w1</LM>
 </w.rf>
 <form>Dneska</form>
-<lemma>dneska_,h</lemma>
+<lemma>dneska_,h_^(^GC**dnes)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-mf930708-077-p8s3w2">
@@ -6307,7 +6307,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930708-077-p10s4w13">
 <src.rf>manual</src.rf>
@@ -6444,7 +6444,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930708-077-p10s5w9">
 <src.rf>manual</src.rf>

@@ -1597,7 +1597,7 @@
 <LM>w#w-mf930703-019-p2s10w9</LM>
 </w.rf>
 <form>dozvěděl</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930703-019-p2s10w10">
@@ -3690,7 +3690,7 @@
 </w.rf>
 <form>zachoval</form>
 <lemma>zachovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930703-019-p2s30w6">
 <src.rf>manual</src.rf>

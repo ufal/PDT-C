@@ -5451,7 +5451,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92255-081-p17s5w15">
 <src.rf>manual</src.rf>
@@ -9224,7 +9224,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92255-081-p24s1w4">
 <src.rf>manual</src.rf>
@@ -9790,7 +9790,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92255-081-p24s5w7">
 <src.rf>manual</src.rf>
@@ -14814,7 +14814,7 @@
 </w.rf>
 <form>naštěstí</form>
 <lemma>naštěstí</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92255-081-p29s7w16">
 <src.rf>manual</src.rf>
@@ -15357,7 +15357,7 @@
 <LM>w#w-lnd92255-081-p30s1w24</LM>
 </w.rf>
 <form>dozvěděl</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92255-081-p30s1w25">
@@ -17125,7 +17125,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92255-081-p32s2w15">
 <src.rf>manual</src.rf>

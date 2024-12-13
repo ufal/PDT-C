@@ -1476,7 +1476,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92258-084-p4s4w7">
 <src.rf>manual</src.rf>
@@ -1881,7 +1881,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92258-084-p5s4w6">
 <src.rf>manual</src.rf>
@@ -2686,7 +2686,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92258-084-p5s6w34">
 <src.rf>manual</src.rf>
@@ -2868,7 +2868,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92258-084-p5s7w9">
 <src.rf>manual</src.rf>
@@ -3259,7 +3259,7 @@
 </w.rf>
 <form>reagovala</form>
 <lemma>reagovat</lemma>
-<tag>VpQW----R-AAI--</tag>
+<tag>VpQW----R-AAB--</tag>
 </m>
 <m id="m-lnd92258-084-p6s2w27">
 <src.rf>manual</src.rf>
@@ -4693,7 +4693,7 @@
 </w.rf>
 <form>Nereagovala</form>
 <lemma>reagovat</lemma>
-<tag>VpQW----R-NAI--</tag>
+<tag>VpQW----R-NAB--</tag>
 </m>
 <m id="m-lnd92258-084-p8s2w2">
 <src.rf>manual</src.rf>
@@ -4702,7 +4702,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92258-084-p8s2w3">
 <src.rf>manual</src.rf>
@@ -5164,7 +5164,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92258-084-p8s3w2">
 <src.rf>manual</src.rf>
@@ -8775,7 +8775,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92258-084-p11s6w29">
 <src.rf>manual</src.rf>
@@ -9387,7 +9387,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92258-084-p12s3w10">
 <src.rf>manual</src.rf>
@@ -14489,7 +14489,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92258-084-p17s4w35">
 <src.rf>manual</src.rf>
@@ -15183,7 +15183,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92258-084-p18s4w2">
 <src.rf>manual</src.rf>

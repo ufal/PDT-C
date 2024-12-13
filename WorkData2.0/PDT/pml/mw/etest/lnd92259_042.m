@@ -342,7 +342,7 @@
 <LM>w#w-lnd92259-042-p3s3w8</LM>
 </w.rf>
 <form>Abchazů</form>
-<lemma>Abchaz_;E</lemma>
+<lemma>Abchaz_;E_,s_^(^DD**Abcház)</lemma>
 <tag>NNMP2-----A----</tag>
 </m>
 <m id="m-lnd92259-042-p3s3w9">

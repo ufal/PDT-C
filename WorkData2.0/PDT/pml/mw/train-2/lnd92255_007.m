@@ -3609,7 +3609,7 @@
 <LM>w#w-lnd92255-007-p11s1w18</LM>
 </w.rf>
 <form>dozvědět</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>Vf--------A-P--</tag>
 </m>
 <m id="m-lnd92255-007-p11s1w19">
@@ -4086,7 +4086,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92255-007-p12s1w11">
 <src.rf>manual</src.rf>

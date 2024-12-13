@@ -294,7 +294,7 @@
 </w.rf>
 <form>specializovat</form>
 <lemma>specializovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-mf930703-082-p2s2w11">
 <src.rf>manual</src.rf>

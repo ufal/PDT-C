@@ -74,7 +74,7 @@
 </w.rf>
 <form>rozdáno</form>
 <lemma>rozdat</lemma>
-<tag>VsNS----X-API--</tag>
+<tag>VsNS----X-APP--</tag>
 </m>
 <m id="m-lnd92257-025-p1s1w8">
 <src.rf>manual</src.rf>

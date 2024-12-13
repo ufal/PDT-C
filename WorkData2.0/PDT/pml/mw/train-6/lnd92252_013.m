@@ -477,7 +477,7 @@
 <LM>w#w-lnd92252-013-p4s2w35</LM>
 </w.rf>
 <form>Lobkowicz</form>
-<lemma>Lobkowicz_;Y</lemma>
+<lemma>Lobkowicz_;Y_,s_^(^DD**Lobkovic)</lemma>
 <tag>NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92252-013-p4s2w36">
@@ -1663,7 +1663,7 @@
 <LM>w#w-lnd92252-013-p5s7w15</LM>
 </w.rf>
 <form>dozvěděla</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92252-013-p5s7w16">

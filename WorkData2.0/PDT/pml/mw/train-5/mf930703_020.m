@@ -3553,8 +3553,8 @@
 <LM>w#w-mf930703-020-p4s8w9</LM>
 </w.rf>
 <form>statisíců</form>
-<lemma>statisíc`100000</lemma>
-<tag>CzIP2----------</tag>
+<lemma>stotisíc`100000</lemma>
+<tag>CzIP2---------1</tag>
 </m>
 <m id="m-mf930703-020-p4s8w10">
 <src.rf>manual</src.rf>
@@ -4952,7 +4952,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930703-020-p7s1w16">
 <src.rf>manual</src.rf>

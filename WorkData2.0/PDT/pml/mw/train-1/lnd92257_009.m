@@ -1766,7 +1766,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92257-009-p3s4w20">
 <src.rf>manual</src.rf>

@@ -2195,7 +2195,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92255-082-p6s6w10">
 <src.rf>manual</src.rf>
@@ -5210,7 +5210,7 @@
 </w.rf>
 <form>specializují</form>
 <lemma>specializovat</lemma>
-<tag>VB-P---3P-AAI--</tag>
+<tag>VB-P---3P-AAB--</tag>
 </m>
 <m id="m-lnd92255-082-p7s12w6">
 <src.rf>manual</src.rf>

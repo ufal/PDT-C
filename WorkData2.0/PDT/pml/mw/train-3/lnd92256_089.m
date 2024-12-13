@@ -1132,7 +1132,7 @@
 <LM>w#w-lnd92256-089-p4s2w21</LM>
 </w.rf>
 <form>dozvěděli</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd92256-089-p4s2w22">

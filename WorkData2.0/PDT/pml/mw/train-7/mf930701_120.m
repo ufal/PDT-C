@@ -304,7 +304,7 @@
 <LM>w#w-mf930701-120-p2s3w4</LM>
 </w.rf>
 <form>dozvěděli</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930701-120-p2s3w5">
@@ -359,7 +359,7 @@
 </w.rf>
 <form>reagoval</form>
 <lemma>reagovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-mf930701-120-p2s3w11">
 <src.rf>manual</src.rf>

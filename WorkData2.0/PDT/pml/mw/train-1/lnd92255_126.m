@@ -1713,7 +1713,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92255-126-p5s1w35">
 <src.rf>manual</src.rf>
@@ -2270,7 +2270,7 @@
 </w.rf>
 <form>Také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92255-126-p7s3w2">
 <src.rf>manual</src.rf>

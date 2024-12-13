@@ -639,7 +639,7 @@
 <LM>w#w-mf930702-061-p3s2w8</LM>
 </w.rf>
 <form>nedozvěděla</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VpQW----R-NAP--</tag>
 </m>
 <m id="m-mf930702-061-p3s2w9">

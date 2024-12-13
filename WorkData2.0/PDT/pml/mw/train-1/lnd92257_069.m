@@ -1756,7 +1756,7 @@
 </w.rf>
 <form>referují</form>
 <lemma>referovat</lemma>
-<tag>VB-P---3P-AAI--</tag>
+<tag>VB-P---3P-AAB--</tag>
 </m>
 <m id="m-lnd92257-069-p7s1w19">
 <src.rf>manual</src.rf>
@@ -2737,7 +2737,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92257-069-p7s5w5">
 <src.rf>manual</src.rf>

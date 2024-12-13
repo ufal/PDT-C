@@ -348,7 +348,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92258-137-p3s1w24">
 <src.rf>manual</src.rf>
@@ -950,7 +950,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92258-137-p4s3w12">
 <src.rf>manual</src.rf>
@@ -1177,7 +1177,7 @@
 </w.rf>
 <form>sponzorovala</form>
 <lemma>sponzorovat</lemma>
-<tag>VpQW----R-AAI--</tag>
+<tag>VpQW----R-AAB--</tag>
 </m>
 <m id="m-lnd92258-137-p4s4w20">
 <src.rf>manual</src.rf>
@@ -1213,7 +1213,7 @@
 </w.rf>
 <form>angažovala</form>
 <lemma>angažovat</lemma>
-<tag>VpQW----R-AAI--</tag>
+<tag>VpQW----R-AAB--</tag>
 </m>
 <m id="m-lnd92258-137-p4s4w24">
 <src.rf>manual</src.rf>
@@ -2728,7 +2728,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92258-137-p5s1w29">
 <src.rf>manual</src.rf>
@@ -4297,7 +4297,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92258-137-p5s7w40">
 <src.rf>manual</src.rf>

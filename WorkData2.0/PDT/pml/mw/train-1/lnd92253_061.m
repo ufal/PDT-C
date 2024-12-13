@@ -4050,7 +4050,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92253-061-p9s3w16">
 <src.rf>manual</src.rf>
@@ -7833,7 +7833,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92253-061-p14s1w16">
 <src.rf>manual</src.rf>
@@ -7959,7 +7959,7 @@
 </w.rf>
 <form>zachovají</form>
 <lemma>zachovat</lemma>
-<tag>VB-P---3P-AAI--</tag>
+<tag>VB-P---3P-AAP--</tag>
 </m>
 <m id="m-lnd92253-061-p14s1w30">
 <src.rf>manual</src.rf>
@@ -11654,7 +11654,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92253-061-p17s6w11">
 <src.rf>manual</src.rf>
@@ -13548,7 +13548,7 @@
 <LM>w#w-lnd92253-061-p20s1w5</LM>
 </w.rf>
 <form>nedozvíme</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VB-P---1P-NAP--</tag>
 </m>
 <m id="m-lnd92253-061-p20s1w6">

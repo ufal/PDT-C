@@ -549,7 +549,7 @@
 <LM>w#w-lnd92255-131-p2s4w3</LM>
 </w.rf>
 <form>vyzývatel</form>
-<lemma>vyzývatel</lemma>
+<lemma>vyzývatel_,s_^(^DD**vyzyvatel)</lemma>
 <tag>NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-131-p2s4w4">
@@ -832,7 +832,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92255-131-p2s5w23">
 <src.rf>manual</src.rf>

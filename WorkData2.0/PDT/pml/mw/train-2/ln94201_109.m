@@ -94,7 +94,7 @@
 </w.rf>
 <form>nezachovala</form>
 <lemma>zachovat</lemma>
-<tag>VpQW----R-NAI--</tag>
+<tag>VpQW----R-NAP--</tag>
 </m>
 <m id="m-ln94201-109-p2s1w7">
 <src.rf>manual</src.rf>
@@ -689,7 +689,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94201-109-p3s2w3">
 <src.rf>manual</src.rf>
@@ -1709,7 +1709,7 @@
 </w.rf>
 <form>nezachovala</form>
 <lemma>zachovat</lemma>
-<tag>VpQW----R-NAI--</tag>
+<tag>VpQW----R-NAP--</tag>
 </m>
 <m id="m-ln94201-109-p5s2w8">
 <src.rf>manual</src.rf>

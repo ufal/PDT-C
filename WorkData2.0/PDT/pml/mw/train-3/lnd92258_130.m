@@ -341,7 +341,7 @@
 </w.rf>
 <form>kontaktovala</form>
 <lemma>kontaktovat</lemma>
-<tag>VpQW----R-AAI--</tag>
+<tag>VpQW----R-AAB--</tag>
 </m>
 <m id="m-lnd92258-130-p4s1w8">
 <src.rf>manual</src.rf>
@@ -1089,7 +1089,7 @@
 </w.rf>
 <form>nekontaktovala</form>
 <lemma>kontaktovat</lemma>
-<tag>VpQW----R-NAI--</tag>
+<tag>VpQW----R-NAB--</tag>
 </m>
 <m id="m-lnd92258-130-p6s1w11">
 <src.rf>manual</src.rf>

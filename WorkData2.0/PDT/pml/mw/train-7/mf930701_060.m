@@ -1158,7 +1158,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930701-060-p7s1w21">
 <src.rf>manual</src.rf>
@@ -1488,7 +1488,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930701-060-p7s4w11">
 <src.rf>manual</src.rf>
@@ -1991,7 +1991,7 @@
 </w.rf>
 <form>věnovat</form>
 <lemma>věnovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-mf930701-060-p9s2w8">
 <src.rf>manual</src.rf>

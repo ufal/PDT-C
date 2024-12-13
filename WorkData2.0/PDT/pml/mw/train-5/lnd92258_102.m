@@ -168,7 +168,7 @@
 </w.rf>
 <form>vyjmenoval</form>
 <lemma>vyjmenovat</lemma>
-<tag>VpYS----R-AAB--</tag>
+<tag>VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92258-102-p3s1w6">
 <src.rf>manual</src.rf>
@@ -1186,7 +1186,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92258-102-p4s2w16">
 <src.rf>manual</src.rf>
@@ -1388,7 +1388,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92258-102-p4s4w3">
 <src.rf>manual</src.rf>
@@ -1763,7 +1763,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92258-102-p5s3w11">
 <src.rf>manual</src.rf>

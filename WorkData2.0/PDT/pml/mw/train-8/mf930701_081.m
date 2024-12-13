@@ -724,7 +724,7 @@
 <LM>w#w-mf930701-081-p2s5w1</LM>
 </w.rf>
 <form>Dozvěděl</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930701-081-p2s5w2">
@@ -851,7 +851,7 @@
 </w.rf>
 <form>nekontaktoval</form>
 <lemma>kontaktovat</lemma>
-<tag>VpYS----R-NAI--</tag>
+<tag>VpYS----R-NAB--</tag>
 </m>
 <m id="m-mf930701-081-p2s5w16">
 <src.rf>manual</src.rf>

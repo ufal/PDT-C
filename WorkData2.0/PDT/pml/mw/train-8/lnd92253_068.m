@@ -3398,7 +3398,7 @@
 </w.rf>
 <form>triumfoval</form>
 <lemma>triumfovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-lnd92253-068-p5s3w5">
 <src.rf>manual</src.rf>

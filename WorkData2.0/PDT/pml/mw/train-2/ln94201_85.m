@@ -2552,7 +2552,7 @@
 </w.rf>
 <form>triumfoval</form>
 <lemma>triumfovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-ln94201-85-p4s2w7">
 <src.rf>manual</src.rf>
@@ -2992,7 +2992,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94201-85-p4s6w5">
 <src.rf>manual</src.rf>

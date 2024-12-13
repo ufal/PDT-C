@@ -3409,7 +3409,7 @@
 <LM>w#w-lnd92258-079-p6s2w6</LM>
 </w.rf>
 <form>výhružně</form>
-<lemma>výhružně_^(*1ý)</lemma>
+<lemma>výhružně_^(^DD**výhrůžně)_(*1ý)</lemma>
 <tag>Dg-------1A----</tag>
 </m>
 <m id="m-lnd92258-079-p6s2w7">

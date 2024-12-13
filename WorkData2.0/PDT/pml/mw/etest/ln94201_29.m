@@ -377,7 +377,7 @@
 </w.rf>
 <form>Reagoval</form>
 <lemma>reagovat</lemma>
-<tag>VpYS----R-AAI--</tag>
+<tag>VpYS----R-AAB--</tag>
 </m>
 <m id="m-ln94201-29-p2s3w2">
 <src.rf>manual</src.rf>
@@ -466,7 +466,7 @@
 <LM>w#w-ln94201-29-p2s3w11</LM>
 </w.rf>
 <form>dozvěděli</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94201-29-p2s3w12">
@@ -730,7 +730,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94201-29-p2s4w24">
 <src.rf>manual</src.rf>
@@ -1148,7 +1148,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94201-29-p3s2w26">
 <src.rf>manual</src.rf>

@@ -1521,7 +1521,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92253-066-p5s2w6">
 <src.rf>manual</src.rf>
@@ -4524,7 +4524,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92253-066-p7s7w15">
 <src.rf>manual</src.rf>

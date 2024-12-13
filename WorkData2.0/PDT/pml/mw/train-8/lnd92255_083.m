@@ -4390,7 +4390,7 @@
 <LM>w#w-lnd92255-083-p1s8Aw4</LM>
 </w.rf>
 <form>uvízne</form>
-<lemma>uvíznout</lemma>
+<lemma>uvíznout_,s_^(^DD**uváznout)</lemma>
 <tag>VB-S---3P-AAP--</tag>
 </m>
 <m id="m-lnd92255-083-p1s8Aw5">
@@ -9849,7 +9849,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92255-083-p1s3Cw5">
 <src.rf>manual</src.rf>
@@ -10269,7 +10269,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92255-083-p2s3Ew13">
 <src.rf>manual</src.rf>
@@ -17297,7 +17297,7 @@
 </w.rf>
 <form>snajperů</form>
 <lemma>snajper_,s_^(^DD**snajpr)</lemma>
-<tag>NNMP2-----A----</tag>
+<tag>NNMP2-----A---2</tag>
 </m>
 <m id="m-lnd92255-083-p2s7Dw16">
 <src.rf>manual</src.rf>
@@ -27653,7 +27653,7 @@
 </w.rf>
 <form>utlouct</form>
 <lemma>utlouci</lemma>
-<tag>Vf--------A-P--</tag>
+<tag>Vf--------A-P-1</tag>
 </m>
 <m id="m-lnd92255-083-p4s1Cw15">
 <src.rf>manual</src.rf>
@@ -28851,7 +28851,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92255-083-p2s1Jw9">
 <src.rf>manual</src.rf>

@@ -978,7 +978,7 @@
 <LM>w#w-ln94201-39-p3s3w14</LM>
 </w.rf>
 <form>gentlemanů</form>
-<lemma>gentleman</lemma>
+<lemma>gentleman_,s_^(^DD**džentlmen)</lemma>
 <tag>NNMP2-----A----</tag>
 </m>
 <m id="m-ln94201-39-p3s3w15">
@@ -1271,7 +1271,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94201-39-p3s5w10">
 <src.rf>manual</src.rf>

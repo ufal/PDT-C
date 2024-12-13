@@ -340,7 +340,7 @@
 <LM>w#w-lnd92252-039-p3s1w27</LM>
 </w.rf>
 <form>spjata</form>
-<lemma>spjatý</lemma>
+<lemma>spjatý_,s_^(^DD**sepnutý)</lemma>
 <tag>ACQW------A----</tag>
 </m>
 <m id="m-lnd92252-039-p3s1w28">
@@ -1280,7 +1280,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92252-039-p4s3w15">
 <src.rf>manual</src.rf>
@@ -3348,7 +3348,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92252-039-p6s4w24">
 <src.rf>manual</src.rf>
@@ -4111,7 +4111,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92252-039-p7s3w29">
 <src.rf>manual</src.rf>

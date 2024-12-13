@@ -47,7 +47,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92252-014-p1s1w5">
 <src.rf>manual</src.rf>
@@ -1133,7 +1133,7 @@
 </w.rf>
 <form>věnována</form>
 <lemma>věnovat</lemma>
-<tag>VsQW----X-API--</tag>
+<tag>VsQW----X-APB--</tag>
 </m>
 <m id="m-lnd92252-014-p5s1w10">
 <src.rf>manual</src.rf>

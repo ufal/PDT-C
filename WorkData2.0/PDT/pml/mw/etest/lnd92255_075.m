@@ -3056,7 +3056,7 @@
 <LM>w#w-lnd92255-075-p7s1w21</LM>
 </w.rf>
 <form>sehnat</form>
-<lemma>sehnat_^(shánět)</lemma>
+<lemma>sehnat</lemma>
 <tag>Vf--------A-P--</tag>
 </m>
 <m id="m-lnd92255-075-p7s1w22">
@@ -3176,7 +3176,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92255-075-p7s2w12">
 <src.rf>manual</src.rf>

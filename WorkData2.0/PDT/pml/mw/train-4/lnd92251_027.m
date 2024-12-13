@@ -3844,7 +3844,7 @@
 <LM>w#w-lnd92251-027-p6s7w13</LM>
 </w.rf>
 <form>vydechnout</form>
-<lemma>vydechnout</lemma>
+<lemma>vydechnout_,s_^(^DD**vydýchnout)</lemma>
 <tag>Vf--------A-P--</tag>
 </m>
 <m id="m-lnd92251-027-p6s7w14">

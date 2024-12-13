@@ -1695,7 +1695,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92253-007-p4s5w11">
 <src.rf>manual</src.rf>
@@ -4355,7 +4355,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92253-007-p6s1w55">
 <src.rf>manual</src.rf>
@@ -4808,7 +4808,7 @@
 <LM>w#w-lnd92253-007-p7s2w11</LM>
 </w.rf>
 <form>výhružkami</form>
-<lemma>výhružka</lemma>
+<lemma>výhružka_,s_^(^DD**výhrůžka)</lemma>
 <tag>NNFP7-----A----</tag>
 </m>
 <m id="m-lnd92253-007-p7s2w12">

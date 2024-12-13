@@ -5043,7 +5043,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92257-003-p9s4w5">
 <src.rf>manual</src.rf>

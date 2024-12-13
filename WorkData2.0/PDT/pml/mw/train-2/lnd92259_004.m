@@ -3116,7 +3116,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92259-004-p7s3w23">
 <src.rf>manual</src.rf>

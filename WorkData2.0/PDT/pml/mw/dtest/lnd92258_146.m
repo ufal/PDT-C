@@ -604,7 +604,7 @@
 </w.rf>
 <form>zachován</form>
 <lemma>zachovat</lemma>
-<tag>VsYS----X-API--</tag>
+<tag>VsYS----X-APP--</tag>
 </m>
 <m id="m-lnd92258-146-p2s4w6">
 <src.rf>manual</src.rf>

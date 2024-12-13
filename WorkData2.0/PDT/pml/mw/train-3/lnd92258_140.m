@@ -2636,7 +2636,7 @@
 <LM>w#w-lnd92258-140-p8s2w7</LM>
 </w.rf>
 <form>sehnat</form>
-<lemma>sehnat_^(shánět)</lemma>
+<lemma>sehnat</lemma>
 <tag>Vf--------A-P--</tag>
 </m>
 <m id="m-lnd92258-140-p8s2w8">

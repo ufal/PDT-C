@@ -1603,7 +1603,7 @@
 <LM>w#w-lnd92255-141-p3s8w15</LM>
 </w.rf>
 <form>dozvěděl</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92255-141-p3s8w16">

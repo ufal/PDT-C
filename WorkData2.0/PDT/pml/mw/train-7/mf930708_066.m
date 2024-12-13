@@ -859,7 +859,7 @@
 <LM>w#w-mf930708-066-p3s3w11</LM>
 </w.rf>
 <form>mikrofonem</form>
-<lemma>mikrofon</lemma>
+<lemma>mikrofon_,s_^(^DD**mikrofón)</lemma>
 <tag>NNIS7-----A----</tag>
 </m>
 <m id="m-mf930708-066-p3s3w12">
@@ -2003,7 +2003,7 @@
 </w.rf>
 <form>pouze</form>
 <lemma>pouze</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930708-066-p4s4w6">
 <src.rf>manual</src.rf>
@@ -2095,7 +2095,7 @@
 </w.rf>
 <form>rovněž</form>
 <lemma>rovněž</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-mf930708-066-p4s5w9">
 <src.rf>manual</src.rf>

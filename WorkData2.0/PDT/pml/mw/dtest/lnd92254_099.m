@@ -311,7 +311,7 @@
 <LM>w#w-lnd92254-099-p2s2w11</LM>
 </w.rf>
 <form>dneska</form>
-<lemma>dneska_,h</lemma>
+<lemma>dneska_,h_^(^GC**dnes)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-lnd92254-099-p2s2w12">
@@ -816,7 +816,7 @@
 <LM>w#w-lnd92254-099-p2s7w4</LM>
 </w.rf>
 <form>dneska</form>
-<lemma>dneska_,h</lemma>
+<lemma>dneska_,h_^(^GC**dnes)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-lnd92254-099-p2s7w5">
@@ -3167,7 +3167,7 @@
 <LM>w#w-lnd92254-099-p7s4w1</LM>
 </w.rf>
 <form>Dneska</form>
-<lemma>dneska_,h</lemma>
+<lemma>dneska_,h_^(^GC**dnes)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-lnd92254-099-p7s4w2">

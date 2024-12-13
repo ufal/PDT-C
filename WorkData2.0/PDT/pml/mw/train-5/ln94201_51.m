@@ -420,7 +420,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94201-51-p2s2w20">
 <src.rf>manual</src.rf>

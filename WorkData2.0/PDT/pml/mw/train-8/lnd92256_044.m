@@ -834,7 +834,7 @@
 <LM>w#w-lnd92256-044-p3s6w16</LM>
 </w.rf>
 <form>dozvím</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VB-S---1P-AAP--</tag>
 </m>
 <m id="m-lnd92256-044-p3s6w17">

@@ -1478,7 +1478,7 @@
 </w.rf>
 <form>věnuji</form>
 <lemma>věnovat</lemma>
-<tag>VB-S---1P-AAI-1</tag>
+<tag>VB-S---1P-AAB-1</tag>
 </m>
 <m id="m-ln94201-134-p3s5w7">
 <src.rf>manual</src.rf>
@@ -3112,7 +3112,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94201-134-p3s21w9">
 <src.rf>manual</src.rf>
@@ -3554,7 +3554,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-ln94201-134-p3s26w14">
 <src.rf>manual</src.rf>

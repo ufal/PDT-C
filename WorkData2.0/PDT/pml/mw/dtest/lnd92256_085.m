@@ -566,7 +566,7 @@
 </w.rf>
 <form>také</form>
 <lemma>také</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92256-085-p3s2w28">
 <src.rf>manual</src.rf>
@@ -3474,7 +3474,7 @@
 </w.rf>
 <form>též</form>
 <lemma>též</lemma>
-<tag>Db-------------</tag>
+<tag>TT-------------</tag>
 </m>
 <m id="m-lnd92256-085-p6s6w3">
 <src.rf>manual</src.rf>
@@ -4368,7 +4368,7 @@
 </w.rf>
 <form>věnovat</form>
 <lemma>věnovat</lemma>
-<tag>Vf--------A-I--</tag>
+<tag>Vf--------A-B--</tag>
 </m>
 <m id="m-lnd92256-085-p7s4w10">
 <src.rf>manual</src.rf>

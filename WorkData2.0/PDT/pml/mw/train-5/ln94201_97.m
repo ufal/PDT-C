@@ -5004,7 +5004,7 @@
 <LM>w#w-ln94201-97-p11s2w58</LM>
 </w.rf>
 <form>opominout</form>
-<lemma>opominout</lemma>
+<lemma>opominout_,s_^(^DD**opomenout)</lemma>
 <tag>Vf--------A-P--</tag>
 </m>
 <m id="m-ln94201-97-p11s2w59">

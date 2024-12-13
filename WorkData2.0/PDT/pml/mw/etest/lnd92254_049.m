@@ -981,7 +981,7 @@
 </w.rf>
 <form>věnovalo</form>
 <lemma>věnovat</lemma>
-<tag>VpNS----R-AAI--</tag>
+<tag>VpNS----R-AAB--</tag>
 </m>
 <m id="m-lnd92254-049-p4s2w9">
 <src.rf>manual</src.rf>
