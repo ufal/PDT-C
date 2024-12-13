@@ -4259,8 +4259,8 @@
 <LM>w#w-ln94201-105-p7s2w10</LM>
 </w.rf>
 <form>statisíce</form>
-<lemma>statisíc`100000</lemma>
-<tag>CzIP1----------</tag>
+<lemma>stotisíc`100000</lemma>
+<tag>CzIP1---------1</tag>
 </m>
 <m id="m-ln94201-105-p7s2w11">
 <src.rf>manual</src.rf>

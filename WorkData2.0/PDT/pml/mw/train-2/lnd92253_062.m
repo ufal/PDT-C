@@ -484,8 +484,8 @@
 <LM>w#w-lnd92253-062-p4s1w40</LM>
 </w.rf>
 <form>statisíce</form>
-<lemma>statisíc`100000</lemma>
-<tag>CzIP1----------</tag>
+<lemma>stotisíc`100000</lemma>
+<tag>CzIP1---------1</tag>
 </m>
 <m id="m-lnd92253-062-p4s1w41">
 <src.rf>manual</src.rf>

@@ -158,8 +158,8 @@
 <LM>w#w-lnd92254-023-p3s1w4</LM>
 </w.rf>
 <form>statisíce</form>
-<lemma>statisíc`100000</lemma>
-<tag>CzIP1----------</tag>
+<lemma>stotisíc`100000</lemma>
+<tag>CzIP1---------1</tag>
 </m>
 <m id="m-lnd92254-023-p3s1w5">
 <src.rf>manual</src.rf>
