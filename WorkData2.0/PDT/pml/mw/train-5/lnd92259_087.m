@@ -3944,7 +3944,7 @@
 <LM>w#w-lnd92259-087-p11s1w7</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
+<lemma>opravdu-2</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-lnd92259-087-p11s1w8">
@@ -6095,7 +6095,7 @@
 <LM>w#w-lnd92259-087-p17s3w7</LM>
 </w.rf>
 <form>zvlášť</form>
-<lemma>zvlášť-1</lemma>
+<lemma>zvlášť-1_,s_^(^DD**zvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-lnd92259-087-p17s3w8">

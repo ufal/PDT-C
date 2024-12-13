@@ -55,7 +55,7 @@
 <LM>w#w-mf930701-043-p1s1w5</LM>
 </w.rf>
 <form>Babylónská</form>
-<lemma>babylónský</lemma>
+<lemma>babylónský_,s_^(^DD**babylonský)</lemma>
 <tag>AAFS1----1A----</tag>
 </m>
 <m id="m-mf930701-043-p1s1w6">

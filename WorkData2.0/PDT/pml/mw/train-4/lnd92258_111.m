@@ -194,7 +194,7 @@
 <LM>w#w-lnd92258-111-p3s1w16</LM>
 </w.rf>
 <form>hesenském</form>
-<lemma>hesenský</lemma>
+<lemma>hesenský_,s_^(^DD**hessenský)</lemma>
 <tag>AANS6----1A----</tag>
 </m>
 <m id="m-lnd92258-111-p3s1w17">
@@ -3209,7 +3209,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Demytizuje</form>
-<lemma>demytizovat</lemma>
+<lemma>demytizovat_,s_^(^DD**demýtizovat)</lemma>
 <tag>VB-S---3P-AAB--</tag>
 </m>
 <m id="m-lnd92258-111-p6s2w2">

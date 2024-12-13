@@ -2047,7 +2047,7 @@
 <LM>w#w-mf930702-051-p3s9w10</LM>
 </w.rf>
 <form>rozladění</form>
-<lemma>rozladění</lemma>
+<lemma>rozladění_,s_^(^DD**rozlazení)</lemma>
 <tag>NNNS4-----A----</tag>
 </m>
 <m id="m-mf930702-051-p3s9w11">

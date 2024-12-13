@@ -3407,7 +3407,7 @@
 <LM>w#w-ln94201-116-p6s4w1</LM>
 </w.rf>
 <form>Obzvlášť</form>
-<lemma>obzvlášť-1</lemma>
+<lemma>obzvlášť-1_,s_^(^DD**obzvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-ln94201-116-p6s4w2">

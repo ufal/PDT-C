@@ -3497,7 +3497,7 @@
 <LM>w#w-lnd92254-064-p13s2w5</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
+<lemma>opravdu-2</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-lnd92254-064-p13s2w6">
@@ -7232,7 +7232,7 @@
 <LM>w#w-lnd92254-064-p25s6w20</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
+<lemma>opravdu-2</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-lnd92254-064-p25s6w21">

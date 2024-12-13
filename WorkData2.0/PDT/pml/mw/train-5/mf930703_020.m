@@ -3297,7 +3297,7 @@
 <LM>w#w-mf930703-020-p4s6w6</LM>
 </w.rf>
 <form>zvlášť</form>
-<lemma>zvlášť-1</lemma>
+<lemma>zvlášť-1_,s_^(^DD**zvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-mf930703-020-p4s6w7">
@@ -4888,7 +4888,7 @@
 <LM>w#w-mf930703-020-p7s1w8</LM>
 </w.rf>
 <form>neslučitelnou</form>
-<lemma>slučitelný</lemma>
+<lemma>slučitelný_^(*8oučit)</lemma>
 <tag>AAFS7----1N----</tag>
 </m>
 <m id="m-mf930703-020-p7s1w9">
@@ -6022,7 +6022,7 @@
 <LM>w#w-mf930703-020-p8s3w9</LM>
 </w.rf>
 <form>neubrání</form>
-<lemma>ubránit_^(něco_před_někým)</lemma>
+<lemma>ubránit</lemma>
 <tag>VB-P---3P-NAP--</tag>
 </m>
 <m id="m-mf930703-020-p8s3w10">

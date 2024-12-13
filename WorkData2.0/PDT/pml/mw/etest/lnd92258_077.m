@@ -30792,7 +30792,7 @@
 <LM>w#w-lnd92258-077-p30s1Bw1</LM>
 </w.rf>
 <form>Neopominutelnou</form>
-<lemma>opominutelný_^(*6out)</lemma>
+<lemma>opominutelný_^(^DD**opomenutelný)_(*6out)</lemma>
 <tag>AAFS7----1N----</tag>
 </m>
 <m id="m-lnd92258-077-p30s1Bw2">

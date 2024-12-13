@@ -994,7 +994,7 @@
 <LM>w#w-lnd92259-035-p3s1w2</LM>
 </w.rf>
 <form>Ázerbájdžánský</form>
-<lemma>ázerbájdžánský</lemma>
+<lemma>ázerbájdžánský_,s_^(^DD**ázerbajdžánský)</lemma>
 <tag>AAIS1----1A----</tag>
 </m>
 <m id="m-lnd92259-035-p3s1w3">

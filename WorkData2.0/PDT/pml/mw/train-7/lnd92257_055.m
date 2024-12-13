@@ -1545,7 +1545,7 @@
 <LM>w#w-lnd92257-055-p1s1Ew7</LM>
 </w.rf>
 <form>dozví</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VB-S---3P-AAP--</tag>
 </m>
 <m id="m-lnd92257-055-p1s1Ew8">

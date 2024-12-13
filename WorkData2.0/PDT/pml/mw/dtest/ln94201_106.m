@@ -4818,7 +4818,7 @@
 <LM>w#w-ln94201-106-p6s5w24</LM>
 </w.rf>
 <form>zvlášť</form>
-<lemma>zvlášť-1</lemma>
+<lemma>zvlášť-1_,s_^(^DD**zvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-ln94201-106-p6s5w25">

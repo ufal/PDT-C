@@ -4324,7 +4324,7 @@
 <LM>w#w-lnd92251-116-p5s17w1</LM>
 </w.rf>
 <form>Třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m-lnd92251-116-p5s17w2">
@@ -4425,7 +4425,7 @@
 <LM>w#w-lnd92251-116-p5s18w9</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
+<lemma>opravdu-2</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-lnd92251-116-p5s18w10">

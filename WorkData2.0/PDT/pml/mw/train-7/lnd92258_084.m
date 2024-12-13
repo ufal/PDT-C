@@ -3694,7 +3694,7 @@
 <LM>w#w-lnd92258-084-p7s1w7</LM>
 </w.rf>
 <form>neslučitelná</form>
-<lemma>slučitelný</lemma>
+<lemma>slučitelný_^(*8oučit)</lemma>
 <tag>AANP1----1N----</tag>
 </m>
 <m id="m-lnd92258-084-p7s1w8">
@@ -5726,7 +5726,7 @@
 <LM>w#w-lnd92258-084-p9s1w20</LM>
 </w.rf>
 <form>využívání</form>
-<lemma>využívání_^(*3at)</lemma>
+<lemma>využívání_^(*3at)_(*3at-2)</lemma>
 <tag>NNNS4-----A----</tag>
 </m>
 <m id="m-lnd92258-084-p9s1w21">

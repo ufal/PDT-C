@@ -1595,7 +1595,7 @@
 <LM>w#w-lnd92252-050-p2s3w19</LM>
 </w.rf>
 <form>donchuánský</form>
-<lemma>donchuánský</lemma>
+<lemma>donchuánský_,s_^(^DD**donchuanský)</lemma>
 <tag>AAMS1----1A----</tag>
 </m>
 <m id="m-lnd92252-050-p2s3w20">
@@ -1622,7 +1622,7 @@
 <LM>w#w-lnd92252-050-p2s3w22</LM>
 </w.rf>
 <form>nepostradatelným</form>
-<lemma>postradatelný_^(*8ádat)</lemma>
+<lemma>postradatelný_,s_^(^DD**postrádatelný)</lemma>
 <tag>AAIS7----1N----</tag>
 </m>
 <m id="m-lnd92252-050-p2s3w23">

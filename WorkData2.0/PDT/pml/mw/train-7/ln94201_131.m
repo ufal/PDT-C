@@ -3418,7 +3418,7 @@
 <LM>w#w-ln94201-131-p6s5w11</LM>
 </w.rf>
 <form>plus</form>
-<lemma>plus-2_^(mat._operace;_1_plus_1,_též_plus_dva_stupně)</lemma>
+<lemma>plus-2_^(mat._operace;_1_plus_1)</lemma>
 <tag>J*-------------</tag>
 </m>
 <m id="m-ln94201-131-p6s5w12">

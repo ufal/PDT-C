@@ -1987,7 +1987,7 @@
 <LM>w#w-lnd92257-057-p5s3w30</LM>
 </w.rf>
 <form>Pennsylvánie</form>
-<lemma>Pennsylvánie_;G</lemma>
+<lemma>Pennsylvánie_;G_,s_^(^DD**Pensylvánie)</lemma>
 <tag>NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92257-057-p5s3w31">

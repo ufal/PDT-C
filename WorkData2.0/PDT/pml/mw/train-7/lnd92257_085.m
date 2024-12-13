@@ -133,7 +133,7 @@
 <LM>w#w-lnd92257-085-p3s2w6</LM>
 </w.rf>
 <form>ázerbájdžánských</form>
-<lemma>ázerbájdžánský</lemma>
+<lemma>ázerbájdžánský_,s_^(^DD**ázerbajdžánský)</lemma>
 <tag>AAIP2----1A----</tag>
 </m>
 <m id="m-lnd92257-085-p3s2w7">
@@ -342,7 +342,7 @@
 <LM>w#w-lnd92257-085-p3s3w3</LM>
 </w.rf>
 <form>ázerbájdžánské</form>
-<lemma>ázerbájdžánský</lemma>
+<lemma>ázerbájdžánský_,s_^(^DD**ázerbajdžánský)</lemma>
 <tag>AAIP1----1A----</tag>
 </m>
 <m id="m-lnd92257-085-p3s3w4">
@@ -641,7 +641,7 @@
 <LM>w#w-lnd92257-085-p3s4w24</LM>
 </w.rf>
 <form>ázerbájdžánský</form>
-<lemma>ázerbájdžánský</lemma>
+<lemma>ázerbájdžánský_,s_^(^DD**ázerbajdžánský)</lemma>
 <tag>AAIS1----1A----</tag>
 </m>
 <m id="m-lnd92257-085-p3s4w25">
@@ -904,7 +904,7 @@
 <LM>w#w-lnd92257-085-p3s5w1</LM>
 </w.rf>
 <form>Ázerbájdžánská</form>
-<lemma>ázerbájdžánský</lemma>
+<lemma>ázerbájdžánský_,s_^(^DD**ázerbajdžánský)</lemma>
 <tag>AAFS1----1A----</tag>
 </m>
 <m id="m-lnd92257-085-p3s5w2">

@@ -767,7 +767,7 @@
 <LM>w#w-lnd92255-107-p2s4w9</LM>
 </w.rf>
 <form>plus</form>
-<lemma>plus-2_^(mat._operace;_1_plus_1,_též_plus_dva_stupně)</lemma>
+<lemma>plus-2_^(mat._operace;_1_plus_1)</lemma>
 <tag>J*-------------</tag>
 </m>
 <m id="m-lnd92255-107-p2s4w10">
@@ -794,7 +794,7 @@
 <LM>w#w-lnd92255-107-p2s4w12</LM>
 </w.rf>
 <form>minus</form>
-<lemma>minus-2_^(mat._operace;_9_minus_3,_též_minus_dva_stupně)</lemma>
+<lemma>minus-2_^(mat._operace;_9_minus_3)</lemma>
 <tag>J*-------------</tag>
 </m>
 <m id="m-lnd92255-107-p2s4w13">

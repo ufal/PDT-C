@@ -358,7 +358,7 @@
 <LM>w#w-mf930708-053-p2s3w6</LM>
 </w.rf>
 <form>šiřitelným</form>
-<lemma>šiřitelný_^(*8ířit)</lemma>
+<lemma>šiřitelný_,s_^(^DD**šířitelný)</lemma>
 <tag>AAMS7----1A----</tag>
 </m>
 <m id="m-mf930708-053-p2s3w7">
@@ -2614,7 +2614,7 @@
 <LM>w#w-mf930708-053-p5s5w19</LM>
 </w.rf>
 <form>využíváním</form>
-<lemma>využívání_^(*3at)</lemma>
+<lemma>využívání_^(*3at)_(*3at-2)</lemma>
 <tag>NNNS7-----A----</tag>
 </m>
 <m id="m-mf930708-053-p5s5w20">

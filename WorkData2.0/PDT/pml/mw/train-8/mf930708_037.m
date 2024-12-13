@@ -2016,7 +2016,7 @@
 <LM>w#w-mf930708-037-p6s1w26</LM>
 </w.rf>
 <form>nevyvratitelný</form>
-<lemma>vyvratitelný_^(*8átit)</lemma>
+<lemma>vyvratitelný_,s_^(^DD**vyvrátitelný)</lemma>
 <tag>AAIS4----1N----</tag>
 </m>
 <m id="m-mf930708-037-p6s1w27">

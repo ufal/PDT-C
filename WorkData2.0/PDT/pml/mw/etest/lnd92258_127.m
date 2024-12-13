@@ -1848,7 +1848,7 @@
 <LM>w#w-lnd92258-127-p5s1w26</LM>
 </w.rf>
 <form>Florencie</form>
-<lemma>Florencie_;G</lemma>
+<lemma>Florencie_;G_;Y</lemma>
 <tag>NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92258-127-p5s1w27">
@@ -3300,7 +3300,7 @@
 <LM>w#w-lnd92258-127-p11s1w3</LM>
 </w.rf>
 <form>Florencie</form>
-<lemma>Florencie_;G</lemma>
+<lemma>Florencie_;G_;Y</lemma>
 <tag>NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92258-127-p11s1w4">

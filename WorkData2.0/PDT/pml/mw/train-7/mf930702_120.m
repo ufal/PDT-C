@@ -668,7 +668,7 @@
 <LM>w#w-mf930702-120-p2s5w3</LM>
 </w.rf>
 <form>vyjednavači</form>
-<lemma>vyjednavač</lemma>
+<lemma>vyjednavač_,s_^(^DD**vyjednávač)</lemma>
 <tag>NNMP1-----A----</tag>
 </m>
 <m id="m-mf930702-120-p2s5w4">

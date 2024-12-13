@@ -941,7 +941,7 @@
 <LM>w#w-lnd92252-043-p4s2w26</LM>
 </w.rf>
 <form>mnohatisícových</form>
-<lemma>mnohatisícový</lemma>
+<lemma>mnohatisícový_,s_^(^DD**mnohotisícový)</lemma>
 <tag>AAFP2----1A----</tag>
 </m>
 <m id="m-lnd92252-043-p4s2w27">

@@ -7619,7 +7619,7 @@
 <LM>w#w-lnd92258-072-p11s4w7</LM>
 </w.rf>
 <form>dozví</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VB-P---3P-AAP-7</tag>
 </m>
 <m id="m-lnd92258-072-p11s4w8">

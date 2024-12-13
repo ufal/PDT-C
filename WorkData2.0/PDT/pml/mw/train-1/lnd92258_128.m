@@ -228,7 +228,7 @@
 <LM>w#w-lnd92258-128-p2s1w22</LM>
 </w.rf>
 <form>Salzburg</form>
-<lemma>Salzburg_;G</lemma>
+<lemma>Salzburg_;G_,s_^(^DD**Salcburk)</lemma>
 <tag>NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92258-128-p2s1w23">
@@ -782,7 +782,7 @@
 <LM>w#w-lnd92258-128-p10s2w1</LM>
 </w.rf>
 <form>Salzburg</form>
-<lemma>Salzburg_;G</lemma>
+<lemma>Salzburg_;G_,s_^(^DD**Salcburk)</lemma>
 <tag>NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92258-128-p10s2w2">
@@ -2045,7 +2045,7 @@
 <LM>w#w-lnd92258-128-p27s2w1</LM>
 </w.rf>
 <form>Salzburg</form>
-<lemma>Salzburg_;G</lemma>
+<lemma>Salzburg_;G_,s_^(^DD**Salcburk)</lemma>
 <tag>NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92258-128-p27s2w2">

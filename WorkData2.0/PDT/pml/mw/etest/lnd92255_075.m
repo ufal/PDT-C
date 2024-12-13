@@ -3925,7 +3925,7 @@
 <LM>w#w-lnd92255-075-p8s6w15</LM>
 </w.rf>
 <form>hypotéční</form>
-<lemma>hypotéční</lemma>
+<lemma>hypotéční_,s_^(^DD**hypoteční)</lemma>
 <tag>AAFP4----1A----</tag>
 </m>
 <m id="m-lnd92255-075-p8s6w16">

@@ -4409,7 +4409,7 @@
 <LM>w#w-mf930702-098-p12s2w18</LM>
 </w.rf>
 <form>obzvlášť</form>
-<lemma>obzvlášť-1</lemma>
+<lemma>obzvlášť-1_,s_^(^DD**obzvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-mf930702-098-p12s2w19">

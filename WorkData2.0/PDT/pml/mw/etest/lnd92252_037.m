@@ -761,7 +761,7 @@
 <LM>w#w-lnd92252-037-p3s5w10</LM>
 </w.rf>
 <form>zjednodušení</form>
-<lemma>zjednodušení_^(*2t)_(*3it)</lemma>
+<lemma>zjednodušení_^(*3it)</lemma>
 <tag>NNNS4-----A----</tag>
 </m>
 <m id="m-lnd92252-037-p3s5w11">

@@ -1895,7 +1895,7 @@
 <LM>w#w-mf930703-065-p2s11w1</LM>
 </w.rf>
 <form>Zatvrzelého</form>
-<lemma>zatvrzelý</lemma>
+<lemma>zatvrzelý_^(*4dit)</lemma>
 <tag>AAMS4----1A----</tag>
 </m>
 <m id="m-mf930703-065-p2s11w2">

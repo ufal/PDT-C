@@ -1620,7 +1620,7 @@
 <LM>w#w-lnd92253-087-p5s1w12</LM>
 </w.rf>
 <form>napjaté</form>
-<lemma>napjatý</lemma>
+<lemma>napjatý_,s_^(^DD**napnutý)</lemma>
 <tag>AANS1----1A----</tag>
 </m>
 <m id="m-lnd92253-087-p5s1w13">

@@ -5449,7 +5449,7 @@
 <LM>w#w-ln94201-97-p11s4w27</LM>
 </w.rf>
 <form>neopravňuje</form>
-<lemma>opravňovat</lemma>
+<lemma>opravňovat_,s_^(^DD**oprávňovat)</lemma>
 <tag>VB-S---3P-NAI--</tag>
 </m>
 <m id="m-ln94201-97-p11s4w28">

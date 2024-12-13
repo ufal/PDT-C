@@ -1322,7 +1322,7 @@
 <LM>w#w-mf930708-164-p6s1w16</LM>
 </w.rf>
 <form>zvlášť</form>
-<lemma>zvlášť-1</lemma>
+<lemma>zvlášť-1_,s_^(^DD**zvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-mf930708-164-p6s1w17">
@@ -2477,7 +2477,7 @@
 <LM>w#w-mf930708-164-p8s1w17</LM>
 </w.rf>
 <form>vleklá</form>
-<lemma>vleklý_^(*4éct)</lemma>
+<lemma>vleklý_^(*4éci)</lemma>
 <tag>AANP4----1A----</tag>
 </m>
 <m id="m-mf930708-164-p8s1w18">

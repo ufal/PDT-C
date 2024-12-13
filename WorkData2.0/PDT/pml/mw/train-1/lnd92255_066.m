@@ -605,7 +605,7 @@
 <LM>w#w-lnd92255-066-p3s4w17</LM>
 </w.rf>
 <form>využívaných</form>
-<lemma>využívaný_^(*2t)</lemma>
+<lemma>využívaný_^(*2t)_(*2t-2)</lemma>
 <tag>AAFP2----1A----</tag>
 </m>
 <m id="m-lnd92255-066-p3s4w18">

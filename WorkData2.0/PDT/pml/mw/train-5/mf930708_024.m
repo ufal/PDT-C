@@ -742,7 +742,7 @@
 <LM>w#w-mf930708-024-p2s5w8</LM>
 </w.rf>
 <form>využívání</form>
-<lemma>využívání_^(*3at)</lemma>
+<lemma>využívání_^(*3at)_(*3at-2)</lemma>
 <tag>NNNS4-----A----</tag>
 </m>
 <m id="m-mf930708-024-p2s5w9">

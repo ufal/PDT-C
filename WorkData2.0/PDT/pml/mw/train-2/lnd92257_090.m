@@ -358,7 +358,7 @@
 <LM>w#w-lnd92257-090-p2s3w2</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m-lnd92257-090-p2s3w3">
@@ -711,7 +711,7 @@
 <LM>w#w-lnd92257-090-p2s4w27</LM>
 </w.rf>
 <form>šíří</form>
-<lemma>šíř_^(jeden_z_rozměrů)</lemma>
+<lemma>šíře_^(jeden_z_rozměrů)</lemma>
 <tag>NNFS7-----A----</tag>
 </m>
 <m id="m-lnd92257-090-p2s4w28">
@@ -2938,7 +2938,7 @@
 <LM>w#w-lnd92257-090-p5s3w6</LM>
 </w.rf>
 <form>zvlášť</form>
-<lemma>zvlášť-1</lemma>
+<lemma>zvlášť-1_,s_^(^DD**zvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-lnd92257-090-p5s3w7">

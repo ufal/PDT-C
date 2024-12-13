@@ -619,7 +619,7 @@
 <LM>w#w-mf930702-039-p22s1w1</LM>
 </w.rf>
 <form>Hovězí</form>
-<lemma>hovězí</lemma>
+<lemma>hovězí-2</lemma>
 <tag>AAIS1----1A----</tag>
 </m>
 <m id="m-mf930702-039-p22s1w2">

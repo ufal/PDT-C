@@ -506,7 +506,7 @@
 <LM>w#w-lnd92259-002-p3s4w14</LM>
 </w.rf>
 <form>Vojky</form>
-<lemma>vojka_,n</lemma>
+<lemma>vojka_,n_^(^GC**ojka)</lemma>
 <tag>NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92259-002-p3s4w15">
@@ -596,7 +596,7 @@
 <LM>w#w-lnd92259-002-p3s4w25</LM>
 </w.rf>
 <form>tůní</form>
-<lemma>tůně</lemma>
+<lemma>tůň</lemma>
 <tag>NNFP2-----A----</tag>
 </m>
 <m id="m-lnd92259-002-p3s4w26">

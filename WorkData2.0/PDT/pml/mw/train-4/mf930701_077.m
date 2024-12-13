@@ -1121,7 +1121,7 @@
 <LM>w#w-mf930701-077-p2s6w17</LM>
 </w.rf>
 <form>Salzburgu</form>
-<lemma>Salzburg_;G</lemma>
+<lemma>Salzburg_;G_,s_^(^DD**Salcburk)</lemma>
 <tag>NNIS2-----A----</tag>
 </m>
 <m id="m-mf930701-077-p2s6w18">

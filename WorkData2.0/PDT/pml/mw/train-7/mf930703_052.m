@@ -2654,7 +2654,7 @@
 <LM>w#w-mf930703-052-p3s11w11</LM>
 </w.rf>
 <form>zvlášť</form>
-<lemma>zvlášť-1</lemma>
+<lemma>zvlášť-1_,s_^(^DD**zvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-mf930703-052-p3s11w12">

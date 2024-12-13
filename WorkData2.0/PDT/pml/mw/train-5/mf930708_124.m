@@ -1517,7 +1517,7 @@
 <LM>w#w-mf930708-124-p3s4w2</LM>
 </w.rf>
 <form>zvlášť</form>
-<lemma>zvlášť-1</lemma>
+<lemma>zvlášť-1_,s_^(^DD**zvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-mf930708-124-p3s4w3">

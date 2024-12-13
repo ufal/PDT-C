@@ -2214,7 +2214,7 @@
 <LM>w#w-lnd92255-085-p4s3w15</LM>
 </w.rf>
 <form>šíři</form>
-<lemma>šíř_^(jeden_z_rozměrů)</lemma>
+<lemma>šíře_^(jeden_z_rozměrů)</lemma>
 <tag>NNFS6-----A----</tag>
 </m>
 <m id="m-lnd92255-085-p4s3w16">

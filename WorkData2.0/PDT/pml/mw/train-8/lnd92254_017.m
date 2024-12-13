@@ -1749,7 +1749,7 @@
 <LM>w#w-lnd92254-017-p4s6w1</LM>
 </w.rf>
 <form>Obzvlášť</form>
-<lemma>obzvlášť-1</lemma>
+<lemma>obzvlášť-1_,s_^(^DD**obzvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-lnd92254-017-p4s6w2">

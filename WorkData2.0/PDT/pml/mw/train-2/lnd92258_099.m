@@ -2417,7 +2417,7 @@
 <LM>w#w-lnd92258-099-p6s4w16</LM>
 </w.rf>
 <form>spjatý</form>
-<lemma>spjatý</lemma>
+<lemma>spjatý_,s_^(^DD**sepnutý)</lemma>
 <tag>AAIS4----1A----</tag>
 </m>
 <m id="m-lnd92258-099-p6s4w17">

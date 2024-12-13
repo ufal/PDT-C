@@ -772,7 +772,7 @@
 <LM>w#w-mf930702-097-p2s3w42</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
+<lemma>opravdu-2</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-mf930702-097-p2s3w43">

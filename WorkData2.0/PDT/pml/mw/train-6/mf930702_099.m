@@ -2350,7 +2350,7 @@
 <LM>w#w-mf930702-099-p9s1w56</LM>
 </w.rf>
 <form>jazzové</form>
-<lemma>jazzový</lemma>
+<lemma>jazzový_,s_^(^DD**džezový)</lemma>
 <tag>AAIP1----1A----</tag>
 </m>
 <m id="m-mf930702-099-p9s1w57">

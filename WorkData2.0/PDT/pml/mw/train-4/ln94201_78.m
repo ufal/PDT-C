@@ -550,7 +550,7 @@
 <LM>w#w-ln94201-78-p4s1w4</LM>
 </w.rf>
 <form>baseballu</form>
-<lemma>baseball</lemma>
+<lemma>baseball_,s_^(^DD**basebal)</lemma>
 <tag>NNIS6-----A---1</tag>
 </m>
 <m id="m-ln94201-78-p4s1w5">

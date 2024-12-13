@@ -630,7 +630,7 @@
 <LM>w#w-lnd92258-065-p2s4w6</LM>
 </w.rf>
 <form>napjatá</form>
-<lemma>napjatý</lemma>
+<lemma>napjatý_,s_^(^DD**napnutý)</lemma>
 <tag>AAFS1----1A----</tag>
 </m>
 <m id="m-lnd92258-065-p2s4w7">

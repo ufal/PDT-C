@@ -1167,7 +1167,7 @@
 <LM>w#w-lnd92259-048-p3s6w25</LM>
 </w.rf>
 <form>nevypočitatelnosti</form>
-<lemma>vypočitatelnost_^(*3ý)</lemma>
+<lemma>vypočitatelnost_^(^DD**vypočítatelnost)_(*3ý)</lemma>
 <tag>NNFS2-----N----</tag>
 </m>
 <m id="m-lnd92259-048-p3s6w26">

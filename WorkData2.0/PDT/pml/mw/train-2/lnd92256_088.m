@@ -236,7 +236,7 @@
 <LM>w#w-lnd92256-088-p1s1w25</LM>
 </w.rf>
 <form>minus</form>
-<lemma>minus-2_^(mat._operace;_9_minus_3,_též_minus_dva_stupně)</lemma>
+<lemma>minus-2_^(mat._operace;_9_minus_3)</lemma>
 <tag>J*-------------</tag>
 </m>
 <m id="m-lnd92256-088-p1s1w26">
@@ -522,7 +522,7 @@
 <LM>w#w-lnd92256-088-p2s1w17</LM>
 </w.rf>
 <form>minus</form>
-<lemma>minus-2_^(mat._operace;_9_minus_3,_též_minus_dva_stupně)</lemma>
+<lemma>minus-2_^(mat._operace;_9_minus_3)</lemma>
 <tag>J*-------------</tag>
 </m>
 <m id="m-lnd92256-088-p2s1w18">

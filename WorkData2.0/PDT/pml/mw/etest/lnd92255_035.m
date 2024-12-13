@@ -3866,7 +3866,7 @@
 <LM>w#w-lnd92255-035-p7s2w33</LM>
 </w.rf>
 <form>napjatých</form>
-<lemma>napjatý</lemma>
+<lemma>napjatý_,s_^(^DD**napnutý)</lemma>
 <tag>AAIP2----1A----</tag>
 </m>
 <m id="m-lnd92255-035-p7s2w34">
@@ -5973,7 +5973,7 @@
 <LM>w#w-lnd92255-035-p10s2w3</LM>
 </w.rf>
 <form>vypjatém</form>
-<lemma>vypjatý</lemma>
+<lemma>vypjatý_,s_^(^DD**vypnutý)</lemma>
 <tag>AANS6----1A----</tag>
 </m>
 <m id="m-lnd92255-035-p10s2w4">

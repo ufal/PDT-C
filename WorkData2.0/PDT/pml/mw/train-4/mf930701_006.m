@@ -1425,7 +1425,7 @@
 <LM>w#w-mf930701-006-p4s1w12</LM>
 </w.rf>
 <form>saudskoarabskými</form>
-<lemma>saudskoarabský</lemma>
+<lemma>saudskoarabský_,s_^(^DD**saúdskoarabský)</lemma>
 <tag>AAFP7----1A----</tag>
 </m>
 <m id="m-mf930701-006-p4s1w13">

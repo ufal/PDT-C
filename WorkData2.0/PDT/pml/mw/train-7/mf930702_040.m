@@ -1192,7 +1192,7 @@
 <LM>w#w-mf930702-040-p3s4w5</LM>
 </w.rf>
 <form>šíři</form>
-<lemma>šíř_^(jeden_z_rozměrů)</lemma>
+<lemma>šíře_^(jeden_z_rozměrů)</lemma>
 <tag>NNFS6-----A----</tag>
 </m>
 <m id="m-mf930702-040-p3s4w6">

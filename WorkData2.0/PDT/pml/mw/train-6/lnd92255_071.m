@@ -13168,7 +13168,7 @@
 <LM>w#w-lnd92255-071-p18s1w5</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
+<lemma>opravdu-2</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-lnd92255-071-p18s1w6">
@@ -13743,7 +13743,7 @@
 <LM>w#w-lnd92255-071-p18s5w2</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
+<lemma>opravdu-2</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-lnd92255-071-p18s5w3">

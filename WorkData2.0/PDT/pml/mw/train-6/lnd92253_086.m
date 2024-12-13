@@ -4964,7 +4964,7 @@
 <LM>w#w-lnd92253-086-p8s4w29</LM>
 </w.rf>
 <form>Elysejském</form>
-<lemma>Elysejský</lemma>
+<lemma>elysejský</lemma>
 <tag>AAIS6----1A----</tag>
 </m>
 <m id="m-lnd92253-086-p8s4w30">

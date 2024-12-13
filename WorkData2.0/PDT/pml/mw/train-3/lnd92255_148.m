@@ -76,7 +76,7 @@
 <LM>w#w-lnd92255-148-p2s1w3</LM>
 </w.rf>
 <form>jazzové</form>
-<lemma>jazzový</lemma>
+<lemma>jazzový_,s_^(^DD**džezový)</lemma>
 <tag>AAFS6----1A----</tag>
 </m>
 <m id="m-lnd92255-148-p2s1w4">
@@ -492,7 +492,7 @@
 <LM>w#w-lnd92255-148-p2s2w17</LM>
 </w.rf>
 <form>jazzového</form>
-<lemma>jazzový</lemma>
+<lemma>jazzový_,s_^(^DD**džezový)</lemma>
 <tag>AAIS2----1A----</tag>
 </m>
 <m id="m-lnd92255-148-p2s2w18">

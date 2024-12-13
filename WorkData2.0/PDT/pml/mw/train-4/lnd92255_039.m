@@ -6991,7 +6991,7 @@
 <LM>w#w-lnd92255-039-p7s8w9</LM>
 </w.rf>
 <form>oddychu</form>
-<lemma>oddych</lemma>
+<lemma>oddych_,s_^(^DD**oddech)</lemma>
 <tag>NNIS3-----A----</tag>
 </m>
 <m id="m-lnd92255-039-p7s8w10">

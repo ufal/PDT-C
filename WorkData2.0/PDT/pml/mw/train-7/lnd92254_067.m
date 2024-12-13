@@ -484,7 +484,7 @@
 <LM>w#w-lnd92254-067-p2s2w9</LM>
 </w.rf>
 <form>abchazská</form>
-<lemma>abchazský</lemma>
+<lemma>abchazský_,s_^(^DD**abcházský)</lemma>
 <tag>AAFS1----1A----</tag>
 </m>
 <m id="m-lnd92254-067-p2s2w10">

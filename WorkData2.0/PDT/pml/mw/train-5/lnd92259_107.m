@@ -174,7 +174,7 @@
 <LM>w#w-lnd92259-107-p2s1w14</LM>
 </w.rf>
 <form>Galileo</form>
-<lemma>Galileo-1_;Y</lemma>
+<lemma>Galileo_;Y</lemma>
 <tag>NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-107-p2s1w15">
@@ -2337,7 +2337,7 @@
 <LM>w#w-lnd92259-107-p4s6w18</LM>
 </w.rf>
 <form>Galileo</form>
-<lemma>Galileo-1_;Y</lemma>
+<lemma>Galileo_;Y</lemma>
 <tag>NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-107-p4s6w19">
@@ -2373,7 +2373,7 @@
 <LM>w#w-lnd92259-107-p4s6w22</LM>
 </w.rf>
 <form>nedozví</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VB-S---3P-NAP--</tag>
 </m>
 <m id="m-lnd92259-107-p4s6w23">
@@ -5102,7 +5102,7 @@
 <LM>w#w-lnd92259-107-p8s4w8</LM>
 </w.rf>
 <form>Galileo</form>
-<lemma>Galileo-1_;Y</lemma>
+<lemma>Galileo_;Y</lemma>
 <tag>NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92259-107-p8s4w9">

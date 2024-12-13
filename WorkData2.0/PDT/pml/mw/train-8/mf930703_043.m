@@ -410,7 +410,7 @@
 <LM>w#w-mf930703-043-p2s2w3</LM>
 </w.rf>
 <form>uruguayského</form>
-<lemma>uruguayský</lemma>
+<lemma>uruguayský_,s_^(^DD**uruguajský)</lemma>
 <tag>AANS2----1A----</tag>
 </m>
 <m id="m-mf930703-043-p2s2w4">

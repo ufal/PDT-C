@@ -46,7 +46,7 @@
 <LM>w#w-mf930708-167-p1s1w4</LM>
 </w.rf>
 <form>Abchazy</form>
-<lemma>Abchaz_;E</lemma>
+<lemma>Abchaz_;E_,s_^(^DD**Abcház)</lemma>
 <tag>NNMP7-----A----</tag>
 </m>
 <m id="m-mf930708-167-p1s1w5">
@@ -147,7 +147,7 @@
 <LM>w#w-mf930708-167-p2s1w7</LM>
 </w.rf>
 <form>Abchazy</form>
-<lemma>Abchaz_;E</lemma>
+<lemma>Abchaz_;E_,s_^(^DD**Abcház)</lemma>
 <tag>NNMP7-----A----</tag>
 </m>
 <m id="m-mf930708-167-p2s1w8">
@@ -894,7 +894,7 @@
 <LM>w#w-mf930708-167-p3s3w6</LM>
 </w.rf>
 <form>abchazští</form>
-<lemma>abchazský</lemma>
+<lemma>abchazský_,s_^(^DD**abcházský)</lemma>
 <tag>AAMP1----1A----</tag>
 </m>
 <m id="m-mf930708-167-p3s3w7">
@@ -1238,7 +1238,7 @@
 <LM>w#w-mf930708-167-p4s1w28</LM>
 </w.rf>
 <form>abchazské</form>
-<lemma>abchazský</lemma>
+<lemma>abchazský_,s_^(^DD**abcházský)</lemma>
 <tag>AAFP1----1A----</tag>
 </m>
 <m id="m-mf930708-167-p4s1w29">

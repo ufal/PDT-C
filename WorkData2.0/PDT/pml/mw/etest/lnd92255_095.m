@@ -4350,7 +4350,7 @@
 <LM>w#w-lnd92255-095-p6s4w1</LM>
 </w.rf>
 <form>Zvlášť</form>
-<lemma>zvlášť-1</lemma>
+<lemma>zvlášť-1_,s_^(^DD**zvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-lnd92255-095-p6s4w2">

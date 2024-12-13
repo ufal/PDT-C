@@ -66,7 +66,7 @@
 <LM>w#w-ln94201-132-p2s1w3</LM>
 </w.rf>
 <form>Baseballové</form>
-<lemma>baseballový</lemma>
+<lemma>baseballový_,s_^(^DD**basebalový)</lemma>
 <tag>AANS1----1A----</tag>
 </m>
 <m id="m-ln94201-132-p2s1w4">
@@ -1030,7 +1030,7 @@
 <LM>w#w-ln94201-132-p3s1w6</LM>
 </w.rf>
 <form>baseballu</form>
-<lemma>baseball</lemma>
+<lemma>baseball_,s_^(^DD**basebal)</lemma>
 <tag>NNIS2-----A----</tag>
 </m>
 <m id="m-ln94201-132-p3s1w7">

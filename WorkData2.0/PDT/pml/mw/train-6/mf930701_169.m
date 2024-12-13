@@ -3095,7 +3095,7 @@
 <LM>w#w-mf930701-169-p8s2w6</LM>
 </w.rf>
 <form>laděných</form>
-<lemma>laděný</lemma>
+<lemma>laděný_,s_^(^DD**lazený)</lemma>
 <tag>AAFP2----1A----</tag>
 </m>
 <m id="m-mf930701-169-p8s2w7">

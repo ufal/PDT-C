@@ -917,7 +917,7 @@
 <LM>w#w-mf930708-151-p4s1w2</LM>
 </w.rf>
 <form>nepostradatelnou</form>
-<lemma>postradatelný_^(*8ádat)</lemma>
+<lemma>postradatelný_,s_^(^DD**postrádatelný)</lemma>
 <tag>AAFS4----1N----</tag>
 </m>
 <m id="m-mf930708-151-p4s1w3">

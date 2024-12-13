@@ -1596,7 +1596,7 @@
 <LM>w#w-lnd92251-060-p5s1w2</LM>
 </w.rf>
 <form>Mosambické</form>
-<lemma>mosambický</lemma>
+<lemma>mosambický_,s_^(^DD**mozambický)</lemma>
 <tag>AAFP1----1A----</tag>
 </m>
 <m id="m-lnd92251-060-p5s1w3">
@@ -1794,7 +1794,7 @@
 <LM>w#w-lnd92251-060-p5s1w24</LM>
 </w.rf>
 <form>Mosambického</form>
-<lemma>mosambický</lemma>
+<lemma>mosambický_,s_^(^DD**mozambický)</lemma>
 <tag>AANS2----1A----</tag>
 </m>
 <m id="m-lnd92251-060-p5s1w25">
@@ -1922,7 +1922,7 @@
 <LM>w#w-lnd92251-060-p5s2w10</LM>
 </w.rf>
 <form>mosambická</form>
-<lemma>mosambický</lemma>
+<lemma>mosambický_,s_^(^DD**mozambický)</lemma>
 <tag>AANP4----1A----</tag>
 </m>
 <m id="m-lnd92251-060-p5s2w11">

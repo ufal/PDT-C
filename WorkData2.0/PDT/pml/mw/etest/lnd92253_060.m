@@ -3499,7 +3499,7 @@
 <LM>w#w-lnd92253-060-p7s2w20</LM>
 </w.rf>
 <form>vytýčených</form>
-<lemma>vytýčený_^(*3it)</lemma>
+<lemma>vytýčený_^(^DD**vytyčený)_(*3it)</lemma>
 <tag>AAIP6----1A----</tag>
 </m>
 <m id="m-lnd92253-060-p7s2w21">

@@ -1158,7 +1158,7 @@
 <LM>w#w-mf930701-140-p7s5w3</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m-mf930701-140-p7s5w4">
@@ -1584,7 +1584,7 @@
 <LM>w#w-mf930701-140-p10s1w2</LM>
 </w.rf>
 <form>Třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m-mf930701-140-p10s1w3">
@@ -3328,7 +3328,7 @@
 <LM>w#w-mf930701-140-p18s3w12</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
+<lemma>opravdu-2</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-mf930701-140-p18s3w13">

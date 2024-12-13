@@ -2280,7 +2280,7 @@
 <LM>w#w-lnd92259-013-p5s2w3</LM>
 </w.rf>
 <form>vytýčily</form>
-<lemma>vytýčit</lemma>
+<lemma>vytýčit_,s_^(^DD**vytyčit)</lemma>
 <tag>VpTP----R-AAP--</tag>
 </m>
 <m id="m-lnd92259-013-p5s2w4">

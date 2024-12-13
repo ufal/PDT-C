@@ -1756,7 +1756,7 @@
 <LM>w#w-mf930702-089-p3s1w31</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m-mf930702-089-p3s1w32">

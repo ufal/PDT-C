@@ -1437,7 +1437,7 @@
 <LM>w#w-lnd92258-113-p4s3w31</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m-lnd92258-113-p4s3w32">
@@ -3838,7 +3838,7 @@
 <LM>w#w-lnd92258-113-p6s1w32</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m-lnd92258-113-p6s1w33">

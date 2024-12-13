@@ -1677,7 +1677,7 @@
 <LM>w#w-ln94201-64-p5s3w10</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
+<lemma>jak-4</lemma>
 <tag>J^-------------</tag>
 </m>
 <m id="m-ln94201-64-p5s3w11">

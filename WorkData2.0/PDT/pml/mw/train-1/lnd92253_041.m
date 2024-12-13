@@ -210,7 +210,7 @@
 <LM>w#w-lnd92253-041-p2s1w20</LM>
 </w.rf>
 <form>lídři</form>
-<lemma>lídr</lemma>
+<lemma>lídr_,s_^(^DD**leader)</lemma>
 <tag>NNMP1-----A----</tag>
 </m>
 <m id="m-lnd92253-041-p2s1w21">

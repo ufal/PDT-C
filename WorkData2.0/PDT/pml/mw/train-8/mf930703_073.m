@@ -592,7 +592,7 @@
 <LM>w#w-mf930703-073-p3s2w10</LM>
 </w.rf>
 <form>spjatý</form>
-<lemma>spjatý</lemma>
+<lemma>spjatý_,s_^(^DD**sepnutý)</lemma>
 <tag>AAMS1----1A----</tag>
 </m>
 <m id="m-mf930703-073-p3s2w11">

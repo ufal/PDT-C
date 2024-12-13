@@ -4622,7 +4622,7 @@
 <LM>w#w-ln94201-60-p5s16w9</LM>
 </w.rf>
 <form>zasazený</form>
-<lemma>zasazený_^(*3it)_(*4dit)</lemma>
+<lemma>zasazený_^(*4dit)</lemma>
 <tag>AAIS1----1A----</tag>
 </m>
 <m id="m-ln94201-60-p5s16w10">

@@ -1198,7 +1198,7 @@
 <LM>w#w-lnd92257-035-p3s8w1</LM>
 </w.rf>
 <form>Ázerbájdžánská</form>
-<lemma>ázerbájdžánský</lemma>
+<lemma>ázerbájdžánský_,s_^(^DD**ázerbajdžánský)</lemma>
 <tag>AAFS1----1A----</tag>
 </m>
 <m id="m-lnd92257-035-p3s8w2">

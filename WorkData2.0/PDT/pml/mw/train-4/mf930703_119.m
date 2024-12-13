@@ -1540,7 +1540,7 @@
 <LM>w#w-mf930703-119-p10s1w12</LM>
 </w.rf>
 <form>jazzové</form>
-<lemma>jazzový</lemma>
+<lemma>jazzový_,s_^(^DD**džezový)</lemma>
 <tag>AANS1----1A----</tag>
 </m>
 <m id="m-mf930703-119-p10s1w13">
@@ -3307,7 +3307,7 @@
 <LM>w#w-mf930703-119-p19s1w34</LM>
 </w.rf>
 <form>jazzové</form>
-<lemma>jazzový</lemma>
+<lemma>jazzový_,s_^(^DD**džezový)</lemma>
 <tag>AANS1----1A----</tag>
 </m>
 <m id="m-mf930703-119-p19s1w35">

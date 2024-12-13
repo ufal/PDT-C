@@ -440,7 +440,7 @@
 <LM>w#w-lnd92258-060-p2s3w1</LM>
 </w.rf>
 <form>Bolivijský</form>
-<lemma>bolivijský</lemma>
+<lemma>bolivijský_,s_^(^DD**bolívijský)</lemma>
 <tag>AAMS1----1A----</tag>
 </m>
 <m id="m-lnd92258-060-p2s3w2">

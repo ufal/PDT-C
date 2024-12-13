@@ -102,7 +102,7 @@
 <LM>w#w-mf930703-129-p1s2w3</LM>
 </w.rf>
 <form>Ázerbájdžánské</form>
-<lemma>ázerbájdžánský</lemma>
+<lemma>ázerbájdžánský_,s_^(^DD**ázerbajdžánský)</lemma>
 <tag>AAFP1----1A----</tag>
 </m>
 <m id="m-mf930703-129-p1s2w4">
@@ -448,7 +448,7 @@
 <LM>w#w-mf930703-129-p1s4w5</LM>
 </w.rf>
 <form>ázerbájdžánského</form>
-<lemma>ázerbájdžánský</lemma>
+<lemma>ázerbájdžánský_,s_^(^DD**ázerbajdžánský)</lemma>
 <tag>AANS2----1A----</tag>
 </m>
 <m id="m-mf930703-129-p1s4w6">

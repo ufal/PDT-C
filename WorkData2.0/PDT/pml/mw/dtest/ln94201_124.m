@@ -2042,7 +2042,7 @@
 <LM>w#w-ln94201-124-p4s5w24</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m-ln94201-124-p4s5w25">

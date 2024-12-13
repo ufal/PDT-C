@@ -836,7 +836,7 @@
 <LM>w#w-ln94201-114-p4s3w3</LM>
 </w.rf>
 <form>OSCAR</form>
-<lemma>Oscar_;Y</lemma>
+<lemma>Oscar_;Y_,s_^(^DD**Oskar)</lemma>
 <tag>NNMS1-----A----</tag>
 </m>
 <m id="m-ln94201-114-p4s3w4">

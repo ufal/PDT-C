@@ -3986,7 +3986,7 @@
 <LM>w#w-lnd92253-080-p18s1w16</LM>
 </w.rf>
 <form>Salzburg</form>
-<lemma>Salzburg_;G</lemma>
+<lemma>Salzburg_;G_,s_^(^DD**Salcburk)</lemma>
 <tag>NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92253-080-p18s1w17">

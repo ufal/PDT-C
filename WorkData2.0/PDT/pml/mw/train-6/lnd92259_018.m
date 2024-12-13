@@ -385,7 +385,7 @@
 <LM>w#w-lnd92259-018-p3s2w32</LM>
 </w.rf>
 <form>využívání</form>
-<lemma>využívání_^(*3at)</lemma>
+<lemma>využívání_^(*3at)_(*3at-2)</lemma>
 <tag>NNNS4-----A----</tag>
 </m>
 <m id="m-lnd92259-018-p3s2w33">

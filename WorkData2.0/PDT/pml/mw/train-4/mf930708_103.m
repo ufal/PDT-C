@@ -180,7 +180,7 @@
 <LM>w#w-mf930708-103-p5s1w5</LM>
 </w.rf>
 <form>šajcha</form>
-<lemma>šajch</lemma>
+<lemma>šajch_,s_^(^DD**šejch)</lemma>
 <tag>NNMS2-----A----</tag>
 </m>
 </s>

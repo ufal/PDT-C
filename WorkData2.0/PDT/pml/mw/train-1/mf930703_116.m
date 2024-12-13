@@ -331,7 +331,7 @@
 <LM>w#w-mf930703-116-p3s2w13</LM>
 </w.rf>
 <form>využívání</form>
-<lemma>využívání_^(*3at)</lemma>
+<lemma>využívání_^(*3at)_(*3at-2)</lemma>
 <tag>NNNS6-----A----</tag>
 </m>
 <m id="m-mf930703-116-p3s2w14">

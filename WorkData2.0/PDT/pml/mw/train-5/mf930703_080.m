@@ -338,7 +338,7 @@
 <LM>w#w-mf930703-080-p2s2w6</LM>
 </w.rf>
 <form>umisťování</form>
-<lemma>umisťování_^(*3at)</lemma>
+<lemma>umisťování_^(^DD**umísťování)_(*3at)</lemma>
 <tag>NNNS6-----A----</tag>
 </m>
 <m id="m-mf930703-080-p2s2w7">

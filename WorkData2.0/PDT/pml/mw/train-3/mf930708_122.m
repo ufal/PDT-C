@@ -1773,7 +1773,7 @@
 <LM>w#w-mf930708-122-p5s2w6</LM>
 </w.rf>
 <form>deblkanoe</form>
-<lemma>deblkanoe</lemma>
+<lemma>deblkanoe_,s_^(^DD**deblkánoe)</lemma>
 <tag>NNFS1-----A----</tag>
 </m>
 <m id="m-mf930708-122-p5s2w7">

@@ -596,7 +596,7 @@
 <LM>w#w-lnd92253-006-p2s5w8</LM>
 </w.rf>
 <form>abchazských</form>
-<lemma>abchazský</lemma>
+<lemma>abchazský_,s_^(^DD**abcházský)</lemma>
 <tag>AAIP2----1A----</tag>
 </m>
 <m id="m-lnd92253-006-p2s5w9">

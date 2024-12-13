@@ -1397,7 +1397,7 @@
 <LM>w#w-mf930703-039-p2s8w15</LM>
 </w.rf>
 <form>napjatá</form>
-<lemma>napjatý</lemma>
+<lemma>napjatý_,s_^(^DD**napnutý)</lemma>
 <tag>AAFS1----1A----</tag>
 </m>
 <m id="m-mf930703-039-p2s8w16">

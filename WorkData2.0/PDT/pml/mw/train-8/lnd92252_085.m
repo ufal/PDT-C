@@ -4291,7 +4291,7 @@
 <LM>w#w-lnd92252-085-p5s16w1</LM>
 </w.rf>
 <form>Třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m-lnd92252-085-p5s16w2">

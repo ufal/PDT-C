@@ -1213,7 +1213,7 @@
 <LM>w#w-ln94201-108-p10s1w8</LM>
 </w.rf>
 <form>Četniky</form>
-<lemma>četnik</lemma>
+<lemma>četnik_,h_^(^GC**četník)</lemma>
 <tag>NNMP4-----A----</tag>
 </m>
 <m id="m-ln94201-108-p10s1w9">
@@ -1884,7 +1884,7 @@
 <LM>w#w-ln94201-108-p15s2w3</LM>
 </w.rf>
 <form>Četnici</form>
-<lemma>četnik</lemma>
+<lemma>četnik_,h_^(^GC**četník)</lemma>
 <tag>NNMP1-----A----</tag>
 </m>
 <m id="m-ln94201-108-p15s2w4">
@@ -3992,7 +3992,7 @@
 <LM>w#w-ln94201-108-p32s1w2</LM>
 </w.rf>
 <form>Četnici</form>
-<lemma>četnik</lemma>
+<lemma>četnik_,h_^(^GC**četník)</lemma>
 <tag>NNMP1-----A----</tag>
 </m>
 <m id="m-ln94201-108-p32s1w3">
@@ -9005,7 +9005,7 @@
 <LM>w#w-ln94201-108-p46s4w10</LM>
 </w.rf>
 <form>lítaly</form>
-<lemma>lítat</lemma>
+<lemma>lítat_,s_^(^DD**létat)</lemma>
 <tag>VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln94201-108-p46s4w11">
@@ -26680,7 +26680,7 @@
 <LM>w#w-ln94201-108-p94s4w11</LM>
 </w.rf>
 <form>zmrzačenýho</form>
-<lemma>zmrzačený_^(*2t)_(*3it)</lemma>
+<lemma>zmrzačený_^(*3it)</lemma>
 <tag>AAMS4----1A---6</tag>
 </m>
 <m id="m-ln94201-108-p94s4w12">

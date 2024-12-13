@@ -540,7 +540,7 @@
 <LM>w#w-mf930701-040-p2s4w3</LM>
 </w.rf>
 <form>jazzovém</form>
-<lemma>jazzový</lemma>
+<lemma>jazzový_,s_^(^DD**džezový)</lemma>
 <tag>AAIS6----1A----</tag>
 </m>
 <m id="m-mf930701-040-p2s4w4">
@@ -3284,7 +3284,7 @@
 <LM>w#w-mf930701-040-p2s25w14</LM>
 </w.rf>
 <form>jazzových</form>
-<lemma>jazzový</lemma>
+<lemma>jazzový_,s_^(^DD**džezový)</lemma>
 <tag>AANP2----1A----</tag>
 </m>
 <m id="m-mf930701-040-p2s25w15">
@@ -4580,7 +4580,7 @@
 <LM>w#w-mf930701-040-p2s34w14</LM>
 </w.rf>
 <form>jazzových</form>
-<lemma>jazzový</lemma>
+<lemma>jazzový_,s_^(^DD**džezový)</lemma>
 <tag>AAFP2----1A----</tag>
 </m>
 <m id="m-mf930701-040-p2s34w15">

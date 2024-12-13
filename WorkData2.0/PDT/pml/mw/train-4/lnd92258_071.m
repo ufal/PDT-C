@@ -2376,7 +2376,7 @@
 <LM>w#w-lnd92258-071-p5s4w7</LM>
 </w.rf>
 <form>napjatého</form>
-<lemma>napjatý</lemma>
+<lemma>napjatý_,s_^(^DD**napnutý)</lemma>
 <tag>AANS2----1A----</tag>
 </m>
 <m id="m-lnd92258-071-p5s4w8">
@@ -4631,7 +4631,7 @@
 <LM>w#w-lnd92258-071-p7s2w4</LM>
 </w.rf>
 <form>Mosambik</form>
-<lemma>Mosambik_;G</lemma>
+<lemma>Mosambik_;G_,s_^(^DD**Mozambik)</lemma>
 <tag>NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92258-071-p7s2w5">

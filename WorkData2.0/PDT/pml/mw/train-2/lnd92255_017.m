@@ -154,7 +154,7 @@
 <LM>w#w-lnd92255-017-p1s1w16</LM>
 </w.rf>
 <form>hovězího</form>
-<lemma>hovězí</lemma>
+<lemma>hovězí-2</lemma>
 <tag>AAIS2----1A----</tag>
 </m>
 <m id="m-lnd92255-017-p1s1w17">

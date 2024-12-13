@@ -1238,7 +1238,7 @@
 <LM>w#w-lnd92255-059-p4s2w3</LM>
 </w.rf>
 <form>podpírány</form>
-<lemma>podpírat</lemma>
+<lemma>podpírat_,s_^(^DD**podepírat)</lemma>
 <tag>VsTP----X-API--</tag>
 </m>
 <m id="m-lnd92255-059-p4s2w4">
@@ -1339,7 +1339,7 @@
 <LM>w#w-lnd92255-059-p4s3w5</LM>
 </w.rf>
 <form>ázerbájdžánskému</form>
-<lemma>ázerbájdžánský</lemma>
+<lemma>ázerbájdžánský_,s_^(^DD**ázerbajdžánský)</lemma>
 <tag>AAMS3----1A----</tag>
 </m>
 <m id="m-lnd92255-059-p4s3w6">

@@ -743,7 +743,7 @@
 <LM>w#w-mf930703-061-p1s3w48</LM>
 </w.rf>
 <form>laděnými</form>
-<lemma>laděný</lemma>
+<lemma>laděný_,s_^(^DD**lazený)</lemma>
 <tag>AANP7----1A----</tag>
 </m>
 <m id="m-mf930703-061-p1s3w49">

@@ -7470,7 +7470,7 @@
 <LM>w#w-ln94201-40-p10s1w9</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
+<lemma>opravdu-2</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-ln94201-40-p10s1w10">

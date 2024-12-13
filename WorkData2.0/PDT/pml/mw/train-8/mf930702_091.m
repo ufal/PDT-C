@@ -897,7 +897,7 @@
 <LM>w#w-mf930702-091-p3s5w2</LM>
 </w.rf>
 <form>vypjatém</form>
-<lemma>vypjatý</lemma>
+<lemma>vypjatý_,s_^(^DD**vypnutý)</lemma>
 <tag>AAIS6----1A----</tag>
 </m>
 <m id="m-mf930702-091-p3s5w3">

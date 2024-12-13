@@ -2732,7 +2732,7 @@
 <LM>w#w-lnd92251-006-p6s1w5</LM>
 </w.rf>
 <form>nespjatými</form>
-<lemma>spjatý</lemma>
+<lemma>spjatý_,s_^(^DD**sepnutý)</lemma>
 <tag>AANP7----1N----</tag>
 </m>
 <m id="m-lnd92251-006-p6s1w6">

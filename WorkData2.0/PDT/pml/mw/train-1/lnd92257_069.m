@@ -4311,7 +4311,7 @@
 <LM>w#w-lnd92257-069-p10s5w5</LM>
 </w.rf>
 <form>bigbeatu</form>
-<lemma>bigbeat</lemma>
+<lemma>bigbeat_,s_^(^DD**bigbít)</lemma>
 <tag>NNIS3-----A----</tag>
 </m>
 <m id="m-lnd92257-069-p10s5w6">

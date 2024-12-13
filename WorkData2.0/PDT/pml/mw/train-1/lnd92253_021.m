@@ -3727,7 +3727,7 @@
 <LM>w#w-lnd92253-021-p7s2w26</LM>
 </w.rf>
 <form>ofsetový</form>
-<lemma>ofsetový</lemma>
+<lemma>ofsetový_,s_^(^DD**offsetový)</lemma>
 <tag>AAIS4----1A----</tag>
 </m>
 <m id="m-lnd92253-021-p7s2w27">

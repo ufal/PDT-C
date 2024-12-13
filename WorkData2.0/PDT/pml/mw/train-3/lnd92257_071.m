@@ -2967,7 +2967,7 @@
 <LM>w#w-lnd92257-071-p3s15w19</LM>
 </w.rf>
 <form>ulétlou</form>
-<lemma>ulétlý_^(*4etět)</lemma>
+<lemma>ulétlý_^(*2nout)</lemma>
 <tag>AAFS4----1A----</tag>
 </m>
 <m id="m-lnd92257-071-p3s15w20">

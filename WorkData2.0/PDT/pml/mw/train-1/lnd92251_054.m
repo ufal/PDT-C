@@ -5310,7 +5310,7 @@
 <LM>w#w-lnd92251-054-p6s3w11</LM>
 </w.rf>
 <form>perzekuovaní</form>
-<lemma>perzekuovaný_^(*2t)</lemma>
+<lemma>perzekuovaný_^(^DD**perzekvovaný)_(*2t)</lemma>
 <tag>AAMP1----1A----</tag>
 </m>
 <m id="m-lnd92251-054-p6s3w12">

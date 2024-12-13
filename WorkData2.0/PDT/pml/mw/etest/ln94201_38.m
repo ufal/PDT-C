@@ -859,7 +859,7 @@
 <LM>w#w-ln94201-38-p3s1w8</LM>
 </w.rf>
 <form>napjaté</form>
-<lemma>napjatý</lemma>
+<lemma>napjatý_,s_^(^DD**napnutý)</lemma>
 <tag>AAIP1----1A----</tag>
 </m>
 <m id="m-ln94201-38-p3s1w9">

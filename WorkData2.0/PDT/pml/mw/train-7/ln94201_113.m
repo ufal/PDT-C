@@ -3705,7 +3705,7 @@
 <LM>w#w-ln94201-113-p5s4w19</LM>
 </w.rf>
 <form>familiérní</form>
-<lemma>familiérní</lemma>
+<lemma>familiérní_,h_^(^GC**familiární)</lemma>
 <tag>AANS1----1A----</tag>
 </m>
 <m id="m-ln94201-113-p5s4w20">

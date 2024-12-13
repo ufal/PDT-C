@@ -855,7 +855,7 @@
 <LM>w#w-lnd92251-015-p3s2w6</LM>
 </w.rf>
 <form>využívání</form>
-<lemma>využívání_^(*3at)</lemma>
+<lemma>využívání_^(*3at)_(*3at-2)</lemma>
 <tag>NNNS6-----A----</tag>
 </m>
 <m id="m-lnd92251-015-p3s2w7">

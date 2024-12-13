@@ -355,7 +355,7 @@
 <LM>w#w-lnd92258-032-p2s1w8</LM>
 </w.rf>
 <form>abchazskými</form>
-<lemma>abchazský</lemma>
+<lemma>abchazský_,s_^(^DD**abcházský)</lemma>
 <tag>AAIP7----1A----</tag>
 </m>
 <m id="m-lnd92258-032-p2s1w9">
@@ -1873,7 +1873,7 @@
 <LM>w#w-lnd92258-032-p8s1w10</LM>
 </w.rf>
 <form>napjaté</form>
-<lemma>napjatý</lemma>
+<lemma>napjatý_,s_^(^DD**napnutý)</lemma>
 <tag>AAFS2----1A----</tag>
 </m>
 <m id="m-lnd92258-032-p8s1w11">

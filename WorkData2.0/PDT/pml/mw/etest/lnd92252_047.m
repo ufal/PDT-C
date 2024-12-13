@@ -322,7 +322,7 @@
 <LM>w#w-lnd92252-047-p3s2w2</LM>
 </w.rf>
 <form>laděné</form>
-<lemma>laděný</lemma>
+<lemma>laděný_,s_^(^DD**lazený)</lemma>
 <tag>AANS1----1A----</tag>
 </m>
 <m id="m-lnd92252-047-p3s2w3">

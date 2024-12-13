@@ -2237,7 +2237,7 @@
 <LM>w#w-lnd92258-112-p4s4w13</LM>
 </w.rf>
 <form>laděné</form>
-<lemma>laděný</lemma>
+<lemma>laděný_,s_^(^DD**lazený)</lemma>
 <tag>AAFS2----1A----</tag>
 </m>
 <m id="m-lnd92258-112-p4s4w14">

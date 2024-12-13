@@ -1164,7 +1164,7 @@
 <LM>w#w-mf930701-105-p3s3w10</LM>
 </w.rf>
 <form>gentlemanské</form>
-<lemma>gentlemanský</lemma>
+<lemma>gentlemanský_,s_^(^DD**džentlmenský)</lemma>
 <tag>AAFS2----1A----</tag>
 </m>
 <m id="m-mf930701-105-p3s3w11">

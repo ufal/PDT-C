@@ -340,7 +340,7 @@
 <LM>w#w-ln94201-63-p2s2w4</LM>
 </w.rf>
 <form>opravňuje</form>
-<lemma>opravňovat</lemma>
+<lemma>opravňovat_,s_^(^DD**oprávňovat)</lemma>
 <tag>VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94201-63-p2s2w5">

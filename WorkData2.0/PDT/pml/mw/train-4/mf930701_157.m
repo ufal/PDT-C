@@ -691,7 +691,7 @@
 <LM>w#w-mf930701-157-p2s3w13</LM>
 </w.rf>
 <form>Dalmácie</form>
-<lemma>Dalmácie_;G</lemma>
+<lemma>Dalmácie_;G_,s_^(^DD**Dalmacie)</lemma>
 <tag>NNFS2-----A----</tag>
 </m>
 <m id="m-mf930701-157-p2s3w14">

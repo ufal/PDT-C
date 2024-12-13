@@ -329,7 +329,7 @@
 <LM>w#w-lnd92252-091-p2s2w16</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
+<lemma>jak-4</lemma>
 <tag>J^-------------</tag>
 </m>
 <m id="m-lnd92252-091-p2s2w17">

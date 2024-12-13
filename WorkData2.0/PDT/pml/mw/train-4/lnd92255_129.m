@@ -127,7 +127,7 @@
 <LM>w#w-lnd92255-129-p1s1w13</LM>
 </w.rf>
 <form>ZVLÁŠŤ</form>
-<lemma>zvlášť-1</lemma>
+<lemma>zvlášť-1_,s_^(^DD**zvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 </s>
@@ -475,7 +475,7 @@
 <LM>w#w-lnd92255-129-p3s2w26</LM>
 </w.rf>
 <form>zvlášť</form>
-<lemma>zvlášť-1</lemma>
+<lemma>zvlášť-1_,s_^(^DD**zvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-lnd92255-129-p3s2w27">

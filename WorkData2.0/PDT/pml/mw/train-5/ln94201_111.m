@@ -2054,7 +2054,7 @@
 <LM>w#w-ln94201-111-p7s2w24</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m-ln94201-111-p7s2w25">
@@ -2665,7 +2665,7 @@
 <LM>w#w-ln94201-111-p9s1w4</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
+<lemma>opravdu-2</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-ln94201-111-p9s1w5">
@@ -4060,7 +4060,7 @@
 <LM>w#w-ln94201-111-p11s4w11</LM>
 </w.rf>
 <form>Poeova</form>
-<lemma>Poeův_;Y_^(*2)</lemma>
+<lemma>Poeův-1_;Y_^(*4-1)</lemma>
 <tag>AUMS4M---------</tag>
 </m>
 <m id="m-ln94201-111-p11s4w12">
@@ -9326,7 +9326,7 @@
 <LM>w#w-ln94201-111-p26s2w2</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m-ln94201-111-p26s2w3">
@@ -9636,7 +9636,7 @@
 <LM>w#w-ln94201-111-p27s2w10</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m-ln94201-111-p27s2w11">
@@ -9908,7 +9908,7 @@
 <LM>w#w-ln94201-111-p27s3w24</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m-ln94201-111-p27s3w25">
@@ -10258,7 +10258,7 @@
 <LM>w#w-ln94201-111-p29s3w4</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m-ln94201-111-p29s3w5">

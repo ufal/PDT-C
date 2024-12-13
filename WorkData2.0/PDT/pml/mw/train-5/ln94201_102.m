@@ -744,7 +744,7 @@
 <LM>w#w-ln94201-102-p2s6w5</LM>
 </w.rf>
 <form>začouzeného</form>
-<lemma>začouzený</lemma>
+<lemma>začouzený_,s_^(^DD**začouděný)</lemma>
 <tag>AAIS2----1A----</tag>
 </m>
 <m id="m-ln94201-102-p2s6w6">
@@ -7020,7 +7020,7 @@
 <LM>w#w-ln94201-102-p12s9w10</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m-ln94201-102-p12s9w11">
@@ -7759,7 +7759,7 @@
 <LM>w#w-ln94201-102-p14s1w22</LM>
 </w.rf>
 <form>začouzené</form>
-<lemma>začouzený</lemma>
+<lemma>začouzený_,s_^(^DD**začouděný)</lemma>
 <tag>AAFS2----1A----</tag>
 </m>
 <m id="m-ln94201-102-p14s1w23">
@@ -16158,7 +16158,7 @@
 <LM>w#w-ln94201-102-p23s4w28</LM>
 </w.rf>
 <form>sekyrce</form>
-<lemma>sekyrka</lemma>
+<lemma>sekyrka_,s_^(^DD**sekerka)</lemma>
 <tag>NNFS3-----A----</tag>
 </m>
 <m id="m-ln94201-102-p23s4w29">

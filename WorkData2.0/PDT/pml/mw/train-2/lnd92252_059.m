@@ -446,7 +446,7 @@
 <LM>w#w-lnd92252-059-p3s1w3</LM>
 </w.rf>
 <form>hájí</form>
-<lemma>hájit_^(bránit,_obhajovat)</lemma>
+<lemma>hájit</lemma>
 <tag>VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92252-059-p3s1w4">

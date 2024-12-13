@@ -73,7 +73,7 @@
 <LM>w#w-lnd92259-016-p1s1w7</LM>
 </w.rf>
 <form>DUMPING</form>
-<lemma>dumping</lemma>
+<lemma>dumping_,s_^(^DD**damping)</lemma>
 <tag>NNIS1-----A----</tag>
 </m>
 <m id="m-lnd92259-016-p1s1w8">
@@ -2793,7 +2793,7 @@
 <LM>w#w-lnd92259-016-p6s1w11</LM>
 </w.rf>
 <form>dumping</form>
-<lemma>dumping</lemma>
+<lemma>dumping_,s_^(^DD**damping)</lemma>
 <tag>NNIS4-----A----</tag>
 </m>
 <m id="m-lnd92259-016-p6s1w12">

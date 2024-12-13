@@ -8820,7 +8820,7 @@
 <LM>w#w-lnd92258-086-p11s3w13</LM>
 </w.rf>
 <form>mikrofon</form>
-<lemma>mikrofon</lemma>
+<lemma>mikrofon_,s_^(^DD**mikrofón)</lemma>
 <tag>NNIS4-----A----</tag>
 </m>
 <m id="m-lnd92258-086-p11s3w14">
@@ -9218,7 +9218,7 @@
 <LM>w#w-lnd92258-086-p11s4w7</LM>
 </w.rf>
 <form>mikrofonu</form>
-<lemma>mikrofon</lemma>
+<lemma>mikrofon_,s_^(^DD**mikrofón)</lemma>
 <tag>NNIS3-----A----</tag>
 </m>
 <m id="m-lnd92258-086-p11s4w8">

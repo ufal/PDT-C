@@ -1872,7 +1872,7 @@
 <LM>w#w-lnd92257-056-p4s5w6</LM>
 </w.rf>
 <form>plus</form>
-<lemma>plus-2_^(mat._operace;_1_plus_1,_též_plus_dva_stupně)</lemma>
+<lemma>plus-2_^(mat._operace;_1_plus_1)</lemma>
 <tag>J*-------------</tag>
 </m>
 <m id="m-lnd92257-056-p4s5w7">
@@ -4703,7 +4703,7 @@
 <LM>w#w-lnd92257-056-p6s9w10</LM>
 </w.rf>
 <form>Florencii</form>
-<lemma>Florencie_;G</lemma>
+<lemma>Florencie_;G_;Y</lemma>
 <tag>NNFS6-----A----</tag>
 </m>
 <m id="m-lnd92257-056-p6s9w11">

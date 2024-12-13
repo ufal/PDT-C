@@ -19,7 +19,7 @@
 <LM>w#w-mf930703-067-p1s1w1</LM>
 </w.rf>
 <form>Hovězí</form>
-<lemma>hovězí</lemma>
+<lemma>hovězí-2</lemma>
 <tag>AANS4----1A----</tag>
 </m>
 <m id="m-mf930703-067-p1s1w2">
@@ -363,7 +363,7 @@
 <LM>w#w-mf930703-067-p2s1w29</LM>
 </w.rf>
 <form>hovězí</form>
-<lemma>hovězí</lemma>
+<lemma>hovězí-2</lemma>
 <tag>AANS4----1A----</tag>
 </m>
 <m id="m-mf930703-067-p2s1w30">

@@ -37,7 +37,7 @@
 <LM>w#w-mf930701-104-p1s1w3</LM>
 </w.rf>
 <form>gentlemanských</form>
-<lemma>gentlemanský</lemma>
+<lemma>gentlemanský_,s_^(^DD**džentlmenský)</lemma>
 <tag>AAFP2----1A----</tag>
 </m>
 <m id="m-mf930701-104-p1s1w4">
@@ -2203,7 +2203,7 @@
 <LM>w#w-mf930701-104-p2s12w21</LM>
 </w.rf>
 <form>zvlášť</form>
-<lemma>zvlášť-1</lemma>
+<lemma>zvlášť-1_,s_^(^DD**zvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-mf930701-104-p2s12w22">

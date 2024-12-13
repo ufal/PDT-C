@@ -1634,7 +1634,7 @@
 <LM>w#w-lnd92259-075-p5s7w26</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m-lnd92259-075-p5s7w27">

@@ -255,7 +255,7 @@
 <LM>w#w-mf930701-153-p2s1w18</LM>
 </w.rf>
 <form>mnohamiliardový</form>
-<lemma>mnohamiliardový</lemma>
+<lemma>mnohamiliardový_,s_^(^DD**mnohomiliardový)</lemma>
 <tag>AAIS1----1A----</tag>
 </m>
 <m id="m-mf930701-153-p2s1w19">

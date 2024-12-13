@@ -619,7 +619,7 @@
 <LM>w#w-mf930702-041-p2s3w11</LM>
 </w.rf>
 <form>napjaté</form>
-<lemma>napjatý</lemma>
+<lemma>napjatý_,s_^(^DD**napnutý)</lemma>
 <tag>AAIP4----1A----</tag>
 </m>
 <m id="m-mf930702-041-p2s3w12">

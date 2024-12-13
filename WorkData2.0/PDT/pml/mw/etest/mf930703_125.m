@@ -1338,7 +1338,7 @@
 <LM>w#w-mf930703-125-p3s2w22</LM>
 </w.rf>
 <form>napjatým</form>
-<lemma>napjatý</lemma>
+<lemma>napjatý_,s_^(^DD**napnutý)</lemma>
 <tag>AAIP3----1A----</tag>
 </m>
 <m id="m-mf930703-125-p3s2w23">

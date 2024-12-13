@@ -646,7 +646,7 @@
 <LM>w#w-lnd92258-048-p4s1w22</LM>
 </w.rf>
 <form>spjatou</form>
-<lemma>spjatý</lemma>
+<lemma>spjatý_,s_^(^DD**sepnutý)</lemma>
 <tag>AAFS4----1A----</tag>
 </m>
 <m id="m-lnd92258-048-p4s1w23">

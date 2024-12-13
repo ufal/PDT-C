@@ -612,7 +612,7 @@
 <LM>w#w-lnd92258-102-p3s3w23</LM>
 </w.rf>
 <form>vleklé</form>
-<lemma>vleklý_^(*4éct)</lemma>
+<lemma>vleklý_^(*4éci)</lemma>
 <tag>AAFS2----1A----</tag>
 </m>
 <m id="m-lnd92258-102-p3s3w24">

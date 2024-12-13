@@ -1014,7 +1014,7 @@
 <LM>w#w-mf930708-066-p3s4w1</LM>
 </w.rf>
 <form>Spjatost</form>
-<lemma>spjatost_^(*3ý)</lemma>
+<lemma>spjatost_^(^DD**sepnutost)_(*3ý)</lemma>
 <tag>NNFS1-----A----</tag>
 </m>
 <m id="m-mf930708-066-p3s4w2">

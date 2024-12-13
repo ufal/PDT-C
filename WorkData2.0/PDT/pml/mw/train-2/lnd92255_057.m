@@ -97,7 +97,7 @@
 <LM>w#w-lnd92255-057-p3s2w2</LM>
 </w.rf>
 <form>Abchazové</form>
-<lemma>Abchaz_;E</lemma>
+<lemma>Abchaz_;E_,s_^(^DD**Abcház)</lemma>
 <tag>NNMP1-----A----</tag>
 </m>
 <m id="m-lnd92255-057-p3s2w3">
@@ -497,7 +497,7 @@
 <LM>w#w-lnd92255-057-p3s4w15</LM>
 </w.rf>
 <form>abchazském</form>
-<lemma>abchazský</lemma>
+<lemma>abchazský_,s_^(^DD**abcházský)</lemma>
 <tag>AAIS6----1A----</tag>
 </m>
 <m id="m-lnd92255-057-p3s4w16">

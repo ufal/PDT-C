@@ -1726,7 +1726,7 @@
 <LM>w#w-lnd92257-047-p5s1w10</LM>
 </w.rf>
 <form>Florencie</form>
-<lemma>Florencie_;G</lemma>
+<lemma>Florencie_;G_;Y</lemma>
 <tag>NNFS2-----A----</tag>
 </m>
 <m id="m-lnd92257-047-p5s1w11">

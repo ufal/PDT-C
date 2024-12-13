@@ -1796,7 +1796,7 @@
 <LM>w#w-lnd92253-061-p5s3w6</LM>
 </w.rf>
 <form>alžbětinskému</form>
-<lemma>alžbětinský</lemma>
+<lemma>alžbětinský_,s_^(^DD**alžbětínský)</lemma>
 <tag>AAMS3----1A----</tag>
 </m>
 <m id="m-lnd92253-061-p5s3w7">
@@ -5132,7 +5132,7 @@
 <LM>w#w-lnd92253-061-p9s9w4</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
+<lemma>opravdu-2</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-lnd92253-061-p9s9w5">
@@ -13631,7 +13631,7 @@
 <LM>w#w-lnd92253-061-p20s2w3</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
+<lemma>opravdu-2</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-lnd92253-061-p20s2w4">

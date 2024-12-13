@@ -1077,7 +1077,7 @@
 <LM>w#w-lnd92251-027-p4s2w6</LM>
 </w.rf>
 <form>zvlášť</form>
-<lemma>zvlášť-1</lemma>
+<lemma>zvlášť-1_,s_^(^DD**zvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-lnd92251-027-p4s2w7">
@@ -1306,7 +1306,7 @@
 <LM>w#w-lnd92251-027-p5s2w4</LM>
 </w.rf>
 <form>gigantománii</form>
-<lemma>gigantománie_,s_^(^DD**gigantomanie)</lemma>
+<lemma>gigantománie</lemma>
 <tag>NNFS6-----A----</tag>
 </m>
 <m id="m-lnd92251-027-p5s2w5">

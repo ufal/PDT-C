@@ -961,7 +961,7 @@
 <LM>w#w-lnd92255-058-p4s4w15</LM>
 </w.rf>
 <form>Karadžić</form>
-<lemma>Karadžić_;Y</lemma>
+<lemma>Karadžić_;Y_,s_^(^DD**Karadžič)</lemma>
 <tag>NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92255-058-p4s4w16">

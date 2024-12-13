@@ -46,7 +46,7 @@
 <LM>w#w-mf930701-019-p1s1w4</LM>
 </w.rf>
 <form>piano</form>
-<lemma>piano</lemma>
+<lemma>piano_,s_^(^DD**piáno)</lemma>
 <tag>NNNS4-----A----</tag>
 </m>
 <m id="m-mf930701-019-p1s1w5">
@@ -174,7 +174,7 @@
 <LM>w#w-mf930701-019-p2s1w12</LM>
 </w.rf>
 <form>piana</form>
-<lemma>piano</lemma>
+<lemma>piano_,s_^(^DD**piáno)</lemma>
 <tag>NNNS2-----A----</tag>
 </m>
 <m id="m-mf930701-019-p2s1w13">
@@ -503,7 +503,7 @@
 <LM>w#w-mf930701-019-p2s3w1</LM>
 </w.rf>
 <form>Piano</form>
-<lemma>piano</lemma>
+<lemma>piano_,s_^(^DD**piáno)</lemma>
 <tag>NNNS1-----A----</tag>
 </m>
 <m id="m-mf930701-019-p2s3w2">

@@ -2684,7 +2684,7 @@
 <LM>w#w-ln94201-58-p5s5w24</LM>
 </w.rf>
 <form>trekking</form>
-<lemma>trekking</lemma>
+<lemma>trekking_,s_^(^DD**treking)</lemma>
 <tag>NNIS4-----A----</tag>
 </m>
 <m id="m-ln94201-58-p5s5w25">

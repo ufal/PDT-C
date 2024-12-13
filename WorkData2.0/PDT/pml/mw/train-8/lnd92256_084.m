@@ -100,7 +100,7 @@
 <LM>w#w-lnd92256-084-p1s1w10</LM>
 </w.rf>
 <form>jazzových</form>
-<lemma>jazzový</lemma>
+<lemma>jazzový_,s_^(^DD**džezový)</lemma>
 <tag>AAIP2----1A----</tag>
 </m>
 <m id="m-lnd92256-084-p1s1w11">

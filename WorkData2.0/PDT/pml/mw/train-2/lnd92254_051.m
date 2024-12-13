@@ -3961,7 +3961,7 @@
 <LM>w#w-lnd92254-051-p7s3w2</LM>
 </w.rf>
 <form>laděná</form>
-<lemma>laděný</lemma>
+<lemma>laděný_,s_^(^DD**lazený)</lemma>
 <tag>AAFS1----1A----</tag>
 </m>
 <m id="m-lnd92254-051-p7s3w3">

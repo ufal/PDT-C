@@ -1347,7 +1347,7 @@
 <LM>w#w-lnd92255-070-p4s2w18</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
+<lemma>opravdu-2</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-lnd92255-070-p4s2w19">
@@ -3278,7 +3278,7 @@
 <LM>w#w-lnd92255-070-p6s4w7</LM>
 </w.rf>
 <form>Hesenska</form>
-<lemma>Hesensko_;G</lemma>
+<lemma>Hesensko_;G_,s_^(^DD**Hessensko)</lemma>
 <tag>NNNS2-----A----</tag>
 </m>
 <m id="m-lnd92255-070-p6s4w8">

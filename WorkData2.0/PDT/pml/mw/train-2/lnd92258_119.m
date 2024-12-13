@@ -301,7 +301,7 @@
 <LM>w#w-lnd92258-119-p1s2w9</LM>
 </w.rf>
 <form>minus</form>
-<lemma>minus-2_^(mat._operace;_9_minus_3,_též_minus_dva_stupně)</lemma>
+<lemma>minus-2_^(mat._operace;_9_minus_3)</lemma>
 <tag>J*-------------</tag>
 </m>
 <m id="m-lnd92258-119-p1s2w10">

@@ -1612,7 +1612,7 @@
 <LM>w#w-lnd92257-009-p3s4w2</LM>
 </w.rf>
 <form>vyjednavači</form>
-<lemma>vyjednavač</lemma>
+<lemma>vyjednavač_,s_^(^DD**vyjednávač)</lemma>
 <tag>NNMP1-----A----</tag>
 </m>
 <m id="m-lnd92257-009-p3s4w3">
@@ -1866,7 +1866,7 @@
 <LM>w#w-lnd92257-009-p3s5w9</LM>
 </w.rf>
 <form>Karadžićovým</form>
-<lemma>Karadžićův_;Y_^(*2)</lemma>
+<lemma>Karadžićův_;Y_^(^DD**Karadžičův)_(*2)</lemma>
 <tag>AUFP3M---------</tag>
 </m>
 <m id="m-lnd92257-009-p3s5w10">

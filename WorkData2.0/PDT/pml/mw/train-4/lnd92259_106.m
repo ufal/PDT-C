@@ -1385,7 +1385,7 @@
 <LM>w#w-lnd92259-106-p5s1w11</LM>
 </w.rf>
 <form>vyjednavače</form>
-<lemma>vyjednavač</lemma>
+<lemma>vyjednavač_,s_^(^DD**vyjednávač)</lemma>
 <tag>NNMP4-----A----</tag>
 </m>
 <m id="m-lnd92259-106-p5s1w12">

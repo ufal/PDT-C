@@ -405,7 +405,7 @@
 <LM>w#w-lnd92257-051-p3s3w10</LM>
 </w.rf>
 <form>abchazskými</form>
-<lemma>abchazský</lemma>
+<lemma>abchazský_,s_^(^DD**abcházský)</lemma>
 <tag>AAFP7----1A----</tag>
 </m>
 <m id="m-lnd92257-051-p3s3w11">
@@ -587,7 +587,7 @@
 <LM>w#w-lnd92257-051-p4s1w6</LM>
 </w.rf>
 <form>abchazské</form>
-<lemma>abchazský</lemma>
+<lemma>abchazský_,s_^(^DD**abcházský)</lemma>
 <tag>AAFS2----1A----</tag>
 </m>
 <m id="m-lnd92257-051-p4s1w7">

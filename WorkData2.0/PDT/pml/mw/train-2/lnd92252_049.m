@@ -875,7 +875,7 @@
 <LM>w#w-lnd92252-049-p4s1w25</LM>
 </w.rf>
 <form>vypjatým</form>
-<lemma>vypjatý</lemma>
+<lemma>vypjatý_,s_^(^DD**vypnutý)</lemma>
 <tag>AAIS7----1A----</tag>
 </m>
 <m id="m-lnd92252-049-p4s1w26">

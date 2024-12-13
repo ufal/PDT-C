@@ -1309,7 +1309,7 @@
 <LM>w#w-lnd92252-044-p4s3w29</LM>
 </w.rf>
 <form>zasazením</form>
-<lemma>zasazení_^(*3it)_(*4dit)</lemma>
+<lemma>zasazení_^(*4dit)</lemma>
 <tag>NNNS7-----A----</tag>
 </m>
 <m id="m-lnd92252-044-p4s3w30">

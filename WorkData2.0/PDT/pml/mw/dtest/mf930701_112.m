@@ -1155,7 +1155,7 @@
 <LM>w#w-mf930701-112-p2s9w4</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m-mf930701-112-p2s9w5">

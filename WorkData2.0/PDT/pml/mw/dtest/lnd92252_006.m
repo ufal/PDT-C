@@ -5990,7 +5990,7 @@
 <LM>w#w-lnd92252-006-p6s5w8</LM>
 </w.rf>
 <form>výhružky</form>
-<lemma>výhružka</lemma>
+<lemma>výhružka_,s_^(^DD**výhrůžka)</lemma>
 <tag>NNFP4-----A----</tag>
 </m>
 <m id="m-lnd92252-006-p6s5w9">
@@ -6662,7 +6662,7 @@
 <LM>w#w-lnd92252-006-p6s8w9</LM>
 </w.rf>
 <form>oddychu</form>
-<lemma>oddych</lemma>
+<lemma>oddych_,s_^(^DD**oddech)</lemma>
 <tag>NNIS3-----A----</tag>
 </m>
 <m id="m-lnd92252-006-p6s8w10">

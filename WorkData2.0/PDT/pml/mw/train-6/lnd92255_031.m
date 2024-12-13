@@ -491,7 +491,7 @@
 <LM>w#w-lnd92255-031-p2s1w13</LM>
 </w.rf>
 <form>Galilea</form>
-<lemma>Galileo-1_;Y</lemma>
+<lemma>Galileo_;Y</lemma>
 <tag>NNMS4-----A----</tag>
 </m>
 <m id="m-lnd92255-031-p2s1w14">
@@ -698,7 +698,7 @@
 <LM>w#w-lnd92255-031-p2s1w36</LM>
 </w.rf>
 <form>Koperníka</form>
-<lemma>Koperník_;Y</lemma>
+<lemma>Koperník_;Y_,s_^(^DD**Kopernik)</lemma>
 <tag>NNMS2-----A----</tag>
 </m>
 <m id="m-lnd92255-031-p2s1w37">

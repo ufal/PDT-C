@@ -55,7 +55,7 @@
 <LM>w#w-lnd92254-040-p1s1w5</LM>
 </w.rf>
 <form>KARVÍNSKÉM</form>
-<lemma>karvínský</lemma>
+<lemma>karvínský_,s_^(^DD**karvinský)</lemma>
 <tag>AAIS6----1A----</tag>
 </m>
 <m id="m-lnd92254-040-p1s1w6">
@@ -259,7 +259,7 @@
 <LM>w#w-lnd92254-040-p3s2w7</LM>
 </w.rf>
 <form>karvínském</form>
-<lemma>karvínský</lemma>
+<lemma>karvínský_,s_^(^DD**karvinský)</lemma>
 <tag>AAIS6----1A----</tag>
 </m>
 <m id="m-lnd92254-040-p3s2w8">

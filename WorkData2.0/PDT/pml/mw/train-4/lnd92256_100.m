@@ -1106,7 +1106,7 @@
 <LM>w#w-lnd92256-100-p4s2w18</LM>
 </w.rf>
 <form>plus</form>
-<lemma>plus-2_^(mat._operace;_1_plus_1,_též_plus_dva_stupně)</lemma>
+<lemma>plus-2_^(mat._operace;_1_plus_1)</lemma>
 <tag>J*-------------</tag>
 </m>
 <m id="m-lnd92256-100-p4s2w19">

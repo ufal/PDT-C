@@ -19,7 +19,7 @@
 <LM>w#w-lnd92257-007-p1s1w1</LM>
 </w.rf>
 <form>GALILEO</form>
-<lemma>Galileo-1_;Y</lemma>
+<lemma>Galileo_;Y</lemma>
 <tag>NNMS1-----A----</tag>
 </m>
 <m id="m-lnd92257-007-p1s1w2">
@@ -169,7 +169,7 @@
 <LM>w#w-lnd92257-007-p3s2w9</LM>
 </w.rf>
 <form>Galilea</form>
-<lemma>Galileo-1_;Y</lemma>
+<lemma>Galileo_;Y</lemma>
 <tag>NNMS4-----A----</tag>
 </m>
 <m id="m-lnd92257-007-p3s2w10">
@@ -241,7 +241,7 @@
 <LM>w#w-lnd92257-007-p3s2w17</LM>
 </w.rf>
 <form>mnohaletých</form>
-<lemma>mnohaletý</lemma>
+<lemma>mnohaletý_,s_^(^DD**mnoholetý)</lemma>
 <tag>AAIP6----1A----</tag>
 </m>
 <m id="m-lnd92257-007-p3s2w18">

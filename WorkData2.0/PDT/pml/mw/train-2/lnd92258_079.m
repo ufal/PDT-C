@@ -11070,7 +11070,7 @@
 <LM>w#w-lnd92258-079-p15s2w5</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
+<lemma>opravdu-2</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-lnd92258-079-p15s2w6">

@@ -6063,7 +6063,7 @@
 <LM>w#w-lnd92256-081-p6s25w19</LM>
 </w.rf>
 <form>zmrazení</form>
-<lemma>zmrazený_^(*3it)</lemma>
+<lemma>zmrazený_^(^DD**zmražený)_(*3it)</lemma>
 <tag>AAMP1----1A----</tag>
 </m>
 <m id="m-lnd92256-081-p6s25w20">

@@ -3005,7 +3005,7 @@
 <LM>w#w-lnd92253-062-p4s15w7</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
+<lemma>opravdu-2</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-lnd92253-062-p4s15w8">
@@ -16537,7 +16537,7 @@
 <LM>w#w-lnd92253-062-p17s2w3</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
+<lemma>opravdu-2</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-lnd92253-062-p17s2w4">
@@ -19064,7 +19064,7 @@
 <LM>w#w-lnd92253-062-p21s2w6</LM>
 </w.rf>
 <form>zapadaný</form>
-<lemma>zapadaný_^(*2t)</lemma>
+<lemma>zapadaný_^(*2t)_(*2t-2)</lemma>
 <tag>AAIS1----1A----</tag>
 </m>
 <m id="m-lnd92253-062-p21s2w7">
@@ -20427,7 +20427,7 @@
 <LM>w#w-lnd92253-062-p22s2w11</LM>
 </w.rf>
 <form>rozvodní</form>
-<lemma>rozvodnit_^(př._řeka_se_rozvodní)</lemma>
+<lemma>rozvodnit</lemma>
 <tag>VB-S---3P-AAP--</tag>
 </m>
 <m id="m-lnd92253-062-p22s2w12">
@@ -22013,7 +22013,7 @@
 <LM>w#w-lnd92253-062-p24s2w3</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m-lnd92253-062-p24s2w4">
@@ -23568,7 +23568,7 @@
 <LM>w#w-lnd92253-062-p25s4w4</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m-lnd92253-062-p25s4w5">
@@ -30672,7 +30672,7 @@
 <LM>w#w-lnd92253-062-p29s12w15</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
+<lemma>opravdu-2</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-lnd92253-062-p29s12w16">
@@ -31753,7 +31753,7 @@
 <LM>w#w-lnd92253-062-p30s3w12</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
+<lemma>opravdu-2</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-lnd92253-062-p30s3w13">
@@ -45393,7 +45393,7 @@
 <LM>w#w-lnd92253-062-p46s2w12</LM>
 </w.rf>
 <form>domnělým</form>
-<lemma>domnělý_^(*3ít)</lemma>
+<lemma>domnělý</lemma>
 <tag>AAIS7----1A----</tag>
 </m>
 <m id="m-lnd92253-062-p46s2w13">

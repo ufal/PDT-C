@@ -267,7 +267,7 @@
 <LM>w#w-lnd92255-087-p2s2w6</LM>
 </w.rf>
 <form>jazzový</form>
-<lemma>jazzový</lemma>
+<lemma>jazzový_,s_^(^DD**džezový)</lemma>
 <tag>AAMS1----1A----</tag>
 </m>
 <m id="m-lnd92255-087-p2s2w7">

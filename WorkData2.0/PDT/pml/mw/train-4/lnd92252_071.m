@@ -178,7 +178,7 @@
 <LM>w#w-lnd92252-071-p3s2w8</LM>
 </w.rf>
 <form>ázerbájdžánské</form>
-<lemma>ázerbájdžánský</lemma>
+<lemma>ázerbájdžánský_,s_^(^DD**ázerbajdžánský)</lemma>
 <tag>AAFS2----1A----</tag>
 </m>
 <m id="m-lnd92252-071-p3s2w9">
@@ -187,7 +187,7 @@
 <LM>w#w-lnd92252-071-p3s2w9</LM>
 </w.rf>
 <form>Nachičevaňské</form>
-<lemma>nachičevaňský</lemma>
+<lemma>nachičevaňský_,s_^(^DD**nachičevanský)</lemma>
 <tag>AAFS2----1A----</tag>
 </m>
 <m id="m-lnd92252-071-p3s2w10">
@@ -352,7 +352,7 @@
 <LM>w#w-lnd92252-071-p4s1w12</LM>
 </w.rf>
 <form>Nachičevaňské</form>
-<lemma>nachičevaňský</lemma>
+<lemma>nachičevaňský_,s_^(^DD**nachičevanský)</lemma>
 <tag>AAFS2----1A----</tag>
 </m>
 <m id="m-lnd92252-071-p4s1w13">
@@ -599,7 +599,7 @@
 <LM>w#w-lnd92252-071-p4s3w6</LM>
 </w.rf>
 <form>nachičevaňského</form>
-<lemma>nachičevaňský</lemma>
+<lemma>nachičevaňský_,s_^(^DD**nachičevanský)</lemma>
 <tag>AAIS2----1A----</tag>
 </m>
 <m id="m-lnd92252-071-p4s3w7">
@@ -671,7 +671,7 @@
 <LM>w#w-lnd92252-071-p4s3w14</LM>
 </w.rf>
 <form>ázerbájdžánských</form>
-<lemma>ázerbájdžánský</lemma>
+<lemma>ázerbájdžánský_,s_^(^DD**ázerbajdžánský)</lemma>
 <tag>AAMP2----1A----</tag>
 </m>
 <m id="m-lnd92252-071-p4s3w15">
@@ -871,7 +871,7 @@
 <LM>w#w-lnd92252-071-p5s1w10</LM>
 </w.rf>
 <form>ázerbájdžánským</form>
-<lemma>ázerbájdžánský</lemma>
+<lemma>ázerbájdžánský_,s_^(^DD**ázerbajdžánský)</lemma>
 <tag>AAMS7----1A----</tag>
 </m>
 <m id="m-lnd92252-071-p5s1w11">
@@ -1143,7 +1143,7 @@
 <LM>w#w-lnd92252-071-p5s2w1</LM>
 </w.rf>
 <form>Nachičevaňská</form>
-<lemma>nachičevaňský</lemma>
+<lemma>nachičevaňský_,s_^(^DD**nachičevanský)</lemma>
 <tag>AAFS1----1A----</tag>
 </m>
 <m id="m-lnd92252-071-p5s2w2">

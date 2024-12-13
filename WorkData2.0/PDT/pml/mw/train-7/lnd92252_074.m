@@ -2937,7 +2937,7 @@
 <LM>w#w-lnd92252-074-p8s3w7</LM>
 </w.rf>
 <form>nevěstí</form>
-<lemma>věstit</lemma>
+<lemma>věstit_,s_^(^DD**věštit)</lemma>
 <tag>VB-S---3P-NAI--</tag>
 </m>
 <m id="m-lnd92252-074-p8s3w8">
@@ -3711,7 +3711,7 @@
 <LM>w#w-lnd92252-074-p9s5w1</LM>
 </w.rf>
 <form>Třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m-lnd92252-074-p9s5w2">

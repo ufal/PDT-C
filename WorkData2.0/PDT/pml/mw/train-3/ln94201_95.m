@@ -13602,7 +13602,7 @@
 <LM>w#w-ln94201-95-p15s2w3</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
+<lemma>opravdu-2</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-ln94201-95-p15s2w4">

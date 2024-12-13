@@ -573,7 +573,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Karadžić</form>
-<lemma>Karadžić_;Y</lemma>
+<lemma>Karadžić_;Y_,s_^(^DD**Karadžič)</lemma>
 <tag>NNMXX-----A----</tag>
 </m>
 <m id="m-lnd92254-031-p2s1w18">

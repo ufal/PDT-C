@@ -1585,7 +1585,7 @@
 <LM>w#w-mf930701-086-p31s1w3</LM>
 </w.rf>
 <form>Jazzový</form>
-<lemma>jazzový</lemma>
+<lemma>jazzový_,s_^(^DD**džezový)</lemma>
 <tag>AAIS1----1A----</tag>
 </m>
 <m id="m-mf930701-086-p31s1w4">

@@ -704,7 +704,7 @@
 <LM>w#w-lnd92252-051-p3s4w4</LM>
 </w.rf>
 <form>zatmění</form>
-<lemma>zatmění_^(*2t)_(*3ít)</lemma>
+<lemma>zatmění_^(*2t)</lemma>
 <tag>NNNS2-----A----</tag>
 </m>
 <m id="m-lnd92252-051-p3s4w5">

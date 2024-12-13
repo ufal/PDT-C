@@ -1366,7 +1366,7 @@
 <LM>w#w-mf930703-070-p2s12w20</LM>
 </w.rf>
 <form>drožkaře</form>
-<lemma>drožkař</lemma>
+<lemma>drožkař_,s_^(^DD**drožkář)</lemma>
 <tag>NNMS2-----A----</tag>
 </m>
 <m id="m-mf930703-070-p2s12w21">

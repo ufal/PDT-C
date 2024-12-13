@@ -473,7 +473,7 @@
 <LM>w#w-lnd92251-073-p3s1w35</LM>
 </w.rf>
 <form>křidýlka</form>
-<lemma>křidýlko_,e</lemma>
+<lemma>křidýlko_,s_^(^DD**křidélko)</lemma>
 <tag>NNNP1-----A----</tag>
 </m>
 <m id="m-lnd92251-073-p3s1w36">
@@ -2822,7 +2822,7 @@
 <LM>w#w-lnd92251-073-p5s2w10</LM>
 </w.rf>
 <form>zvlášť</form>
-<lemma>zvlášť-1</lemma>
+<lemma>zvlášť-1_,s_^(^DD**zvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-lnd92251-073-p5s2w11">
@@ -3168,7 +3168,7 @@
 <LM>w#w-lnd92251-073-p5s4w3</LM>
 </w.rf>
 <form>dozví</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VB-S---3P-AAP--</tag>
 </m>
 <m id="m-lnd92251-073-p5s4w4">

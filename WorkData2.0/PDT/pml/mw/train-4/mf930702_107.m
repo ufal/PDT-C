@@ -2652,7 +2652,7 @@
 <LM>w#w-mf930702-107-p8s1w29</LM>
 </w.rf>
 <form>spjaté</form>
-<lemma>spjatý</lemma>
+<lemma>spjatý_,s_^(^DD**sepnutý)</lemma>
 <tag>AAFP4----1A----</tag>
 </m>
 <m id="m-mf930702-107-p8s1w30">

@@ -1435,7 +1435,7 @@
 <LM>w#w-lnd92251-071-p5s2w26</LM>
 </w.rf>
 <form>ADA</form>
-<lemma>Ada_;G_;m</lemma>
+<lemma>Ada_;G_;Y_;m</lemma>
 <tag>NNFS1-----A----</tag>
 </m>
 <m id="m-lnd92251-071-p5s2w27">

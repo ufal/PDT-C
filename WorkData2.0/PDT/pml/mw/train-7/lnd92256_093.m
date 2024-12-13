@@ -484,7 +484,7 @@
 <LM>w#w-lnd92256-093-p3s2w3</LM>
 </w.rf>
 <form>rozladění</form>
-<lemma>rozladění</lemma>
+<lemma>rozladění_,s_^(^DD**rozlazení)</lemma>
 <tag>NNNS2-----A----</tag>
 </m>
 <m id="m-lnd92256-093-p3s2w4">
@@ -3049,7 +3049,7 @@
 <LM>w#w-lnd92256-093-p5s6w3</LM>
 </w.rf>
 <form>zvlášť</form>
-<lemma>zvlášť-1</lemma>
+<lemma>zvlášť-1_,s_^(^DD**zvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-lnd92256-093-p5s6w4">

@@ -1059,7 +1059,7 @@
 <LM>w#w-lnd92255-093-p5s3w2</LM>
 </w.rf>
 <form>obzvlášť</form>
-<lemma>obzvlášť-1</lemma>
+<lemma>obzvlášť-1_,s_^(^DD**obzvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-lnd92255-093-p5s3w3">

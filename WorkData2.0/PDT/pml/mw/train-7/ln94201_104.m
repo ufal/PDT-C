@@ -156,7 +156,7 @@
 <LM>w#w-ln94201-104-p2s1w14</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
+<lemma>opravdu-2</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-ln94201-104-p2s1w15">
@@ -861,7 +861,7 @@
 <LM>w#w-ln94201-104-p3s4w15</LM>
 </w.rf>
 <form>zvlášť</form>
-<lemma>zvlášť-1</lemma>
+<lemma>zvlášť-1_,s_^(^DD**zvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-ln94201-104-p3s4w16">
@@ -3732,7 +3732,7 @@
 <LM>w#w-ln94201-104-p8s9w8</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
+<lemma>opravdu-2</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-ln94201-104-p8s9w9">
@@ -4536,7 +4536,7 @@
 <LM>w#w-ln94201-104-p9s4w4</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
+<lemma>opravdu-2</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-ln94201-104-p9s4w5">

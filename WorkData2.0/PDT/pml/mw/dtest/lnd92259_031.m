@@ -187,7 +187,7 @@
 <LM>w#w-lnd92259-031-p3s1w5</LM>
 </w.rf>
 <form>mnohaměsíční</form>
-<lemma>mnohaměsíční</lemma>
+<lemma>mnohaměsíční_,s_^(^DD**mnohoměsíční)</lemma>
 <tag>AANP4----1A----</tag>
 </m>
 <m id="m-lnd92259-031-p3s1w6">
@@ -3011,7 +3011,7 @@
 <LM>w#w-lnd92259-031-p6s5w13</LM>
 </w.rf>
 <form>jak</form>
-<lemma>jak-2</lemma>
+<lemma>jak-4</lemma>
 <tag>J^-------------</tag>
 </m>
 <m id="m-lnd92259-031-p6s5w14">

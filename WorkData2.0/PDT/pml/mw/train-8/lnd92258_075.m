@@ -491,7 +491,7 @@
 <LM>w#w-lnd92258-075-p3s1w44</LM>
 </w.rf>
 <form>laděných</form>
-<lemma>laděný</lemma>
+<lemma>laděný_,s_^(^DD**lazený)</lemma>
 <tag>AAFP2----1A----</tag>
 </m>
 <m id="m-lnd92258-075-p3s1w45">
@@ -9704,7 +9704,7 @@
 <LM>w#w-lnd92258-075-p9s5w31</LM>
 </w.rf>
 <form>dceřinné</form>
-<lemma>dceřinný_,a_^(chybné_od_dceřiný)</lemma>
+<lemma>dceřinný_,i_^(^DS**dceřiný)</lemma>
 <tag>AAFS2----1A----</tag>
 </m>
 <m id="m-lnd92258-075-p9s5w32">

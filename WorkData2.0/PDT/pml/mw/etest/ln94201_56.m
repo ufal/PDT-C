@@ -6128,7 +6128,7 @@
 <LM>w#w-ln94201-56-p6s15w4</LM>
 </w.rf>
 <form>dozví</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln94201-56-p6s15w5">

@@ -5977,7 +5977,7 @@
 <LM>w#w-mf930702-015-p9s1w15</LM>
 </w.rf>
 <form>poživatelé</form>
-<lemma>poživatel</lemma>
+<lemma>poživatel_,s_^(^DD**požívatel)</lemma>
 <tag>NNMP1-----A----</tag>
 </m>
 <m id="m-mf930702-015-p9s1w16">
@@ -6712,7 +6712,7 @@
 <LM>w#w-mf930702-015-p12s1w6</LM>
 </w.rf>
 <form>poživatele</form>
-<lemma>poživatel</lemma>
+<lemma>poživatel_,s_^(^DD**požívatel)</lemma>
 <tag>NNMP4-----A----</tag>
 </m>
 <m id="m-mf930702-015-p12s1w7">
@@ -10472,7 +10472,7 @@
 <LM>w#w-mf930702-015-p22s2w7</LM>
 </w.rf>
 <form>započitatelné</form>
-<lemma>započitatelný_^(*8ítat)</lemma>
+<lemma>započitatelný_,s_^(^DD**započítatelný)</lemma>
 <tag>AAIP4----1A----</tag>
 </m>
 <m id="m-mf930702-015-p22s2w8">

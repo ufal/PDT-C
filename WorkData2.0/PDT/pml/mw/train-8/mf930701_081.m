@@ -1760,7 +1760,7 @@
 <LM>w#w-mf930701-081-p3s1w4</LM>
 </w.rf>
 <form>dozví</form>
-<lemma>dozvědět</lemma>
+<lemma>dozvědět_,s_^(^DD**dovědět)</lemma>
 <tag>VB-S---3P-AAP--</tag>
 </m>
 <m id="m-mf930701-081-p3s1w5">

@@ -1615,7 +1615,7 @@
 <LM>w#w-lnd92254-010-p4s6w18</LM>
 </w.rf>
 <form>nevyužívaného</form>
-<lemma>využívaný_^(*2t)</lemma>
+<lemma>využívaný_^(*2t)_(*2t-2)</lemma>
 <tag>AAIS2----1N----</tag>
 </m>
 <m id="m-lnd92254-010-p4s6w19">

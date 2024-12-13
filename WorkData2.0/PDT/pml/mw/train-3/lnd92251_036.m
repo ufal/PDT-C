@@ -291,7 +291,7 @@
 <LM>w#w-lnd92251-036-p2s1w17</LM>
 </w.rf>
 <form>abchazské</form>
-<lemma>abchazský</lemma>
+<lemma>abchazský_,s_^(^DD**abcházský)</lemma>
 <tag>AAFP4----1A----</tag>
 </m>
 <m id="m-lnd92251-036-p2s1w18">
@@ -392,7 +392,7 @@
 <LM>w#w-lnd92251-036-p3s1w5</LM>
 </w.rf>
 <form>abchazského</form>
-<lemma>abchazský</lemma>
+<lemma>abchazský_,s_^(^DD**abcházský)</lemma>
 <tag>AAIS2----1A----</tag>
 </m>
 <m id="m-lnd92251-036-p3s1w6">
@@ -940,7 +940,7 @@
 <LM>w#w-lnd92251-036-p5s1w2</LM>
 </w.rf>
 <form>napjatá</form>
-<lemma>napjatý</lemma>
+<lemma>napjatý_,s_^(^DD**napnutý)</lemma>
 <tag>AAFS1----1A----</tag>
 </m>
 <m id="m-lnd92251-036-p5s1w3">
@@ -1102,7 +1102,7 @@
 <LM>w#w-lnd92251-036-p5s1w20</LM>
 </w.rf>
 <form>abchazskými</form>
-<lemma>abchazský</lemma>
+<lemma>abchazský_,s_^(^DD**abcházský)</lemma>
 <tag>AANP7----1A----</tag>
 </m>
 <m id="m-lnd92251-036-p5s1w21">
@@ -1329,7 +1329,7 @@
 <LM>w#w-lnd92251-036-p6s1w19</LM>
 </w.rf>
 <form>abchazského</form>
-<lemma>abchazský</lemma>
+<lemma>abchazský_,s_^(^DD**abcházský)</lemma>
 <tag>AAIS2----1A----</tag>
 </m>
 <m id="m-lnd92251-036-p6s1w20">
@@ -1484,7 +1484,7 @@
 <LM>w#w-lnd92251-036-p6s2w11</LM>
 </w.rf>
 <form>Abchazy</form>
-<lemma>Abchaz_;E</lemma>
+<lemma>Abchaz_;E_,s_^(^DD**Abcház)</lemma>
 <tag>NNMP4-----A---1</tag>
 </m>
 <m id="m-lnd92251-036-p6s2w12">
@@ -1504,7 +1504,7 @@
 <LM>w#w-lnd92251-036-p7s1w1</LM>
 </w.rf>
 <form>Abchazské</form>
-<lemma>abchazský</lemma>
+<lemma>abchazský_,s_^(^DD**abcházský)</lemma>
 <tag>AAIP1----1A----</tag>
 </m>
 <m id="m-lnd92251-036-p7s1w2">
@@ -1657,7 +1657,7 @@
 <LM>w#w-lnd92251-036-p7s1w18</LM>
 </w.rf>
 <form>abchazského</form>
-<lemma>abchazský</lemma>
+<lemma>abchazský_,s_^(^DD**abcházský)</lemma>
 <tag>AANS2----1A----</tag>
 </m>
 <m id="m-lnd92251-036-p7s1w19">
@@ -1812,7 +1812,7 @@
 <LM>w#w-lnd92251-036-p7s2w15</LM>
 </w.rf>
 <form>abchazské</form>
-<lemma>abchazský</lemma>
+<lemma>abchazský_,s_^(^DD**abcházský)</lemma>
 <tag>AAFS2----1A----</tag>
 </m>
 <m id="m-lnd92251-036-p7s2w16">
@@ -1929,7 +1929,7 @@
 <LM>w#w-lnd92251-036-p7s2w28</LM>
 </w.rf>
 <form>abchazských</form>
-<lemma>abchazský</lemma>
+<lemma>abchazský_,s_^(^DD**abcházský)</lemma>
 <tag>AANP2----1A----</tag>
 </m>
 <m id="m-lnd92251-036-p7s2w29">
@@ -2104,7 +2104,7 @@
 <LM>w#w-lnd92251-036-p8s2w1</LM>
 </w.rf>
 <form>Abchazské</form>
-<lemma>abchazský</lemma>
+<lemma>abchazský_,s_^(^DD**abcházský)</lemma>
 <tag>AAIP1----1A----</tag>
 </m>
 <m id="m-lnd92251-036-p8s2w2">

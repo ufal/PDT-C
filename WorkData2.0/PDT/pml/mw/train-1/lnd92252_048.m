@@ -8581,7 +8581,7 @@
 <LM>w#w-lnd92252-048-p18s3w9</LM>
 </w.rf>
 <form>dceřinných</form>
-<lemma>dceřinný_,a_^(chybné_od_dceřiný)</lemma>
+<lemma>dceřinný_,i_^(^DS**dceřiný)</lemma>
 <tag>AAFP2----1A----</tag>
 </m>
 <m id="m-lnd92252-048-p18s3w10">

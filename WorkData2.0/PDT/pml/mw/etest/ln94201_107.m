@@ -6138,7 +6138,7 @@
 <LM>w#w-ln94201-107-p8s7w15</LM>
 </w.rf>
 <form>mundúru</form>
-<lemma>mundúr</lemma>
+<lemma>mundúr_,l_^(^DD**mundůr)</lemma>
 <tag>NNIS2-----A----</tag>
 </m>
 <m id="m-ln94201-107-p8s7w16">

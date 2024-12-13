@@ -95,7 +95,7 @@
 <LM>w#w-lnd92258-069-p2s2w2</LM>
 </w.rf>
 <form>vyjednavači</form>
-<lemma>vyjednavač</lemma>
+<lemma>vyjednavač_,s_^(^DD**vyjednávač)</lemma>
 <tag>NNMP1-----A----</tag>
 </m>
 <m id="m-lnd92258-069-p2s2w3">

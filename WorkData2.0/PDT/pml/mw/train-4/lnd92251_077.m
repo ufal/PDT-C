@@ -277,7 +277,7 @@
 <LM>w#w-lnd92251-077-p3s2w9</LM>
 </w.rf>
 <form>jazzovými</form>
-<lemma>jazzový</lemma>
+<lemma>jazzový_,s_^(^DD**džezový)</lemma>
 <tag>AANP7----1A----</tag>
 </m>
 <m id="m-lnd92251-077-p3s2w10">
@@ -2635,7 +2635,7 @@
 <LM>w#w-lnd92251-077-p5s1w7</LM>
 </w.rf>
 <form>mnohaletém</form>
-<lemma>mnohaletý</lemma>
+<lemma>mnohaletý_,s_^(^DD**mnoholetý)</lemma>
 <tag>AAIS6----1A----</tag>
 </m>
 <m id="m-lnd92251-077-p5s1w8">
@@ -4446,7 +4446,7 @@
 <LM>w#w-lnd92251-077-p6s2w23</LM>
 </w.rf>
 <form>jazzový</form>
-<lemma>jazzový</lemma>
+<lemma>jazzový_,s_^(^DD**džezový)</lemma>
 <tag>AAIS1----1A----</tag>
 </m>
 <m id="m-lnd92251-077-p6s2w24">

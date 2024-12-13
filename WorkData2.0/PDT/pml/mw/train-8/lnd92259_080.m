@@ -1992,7 +1992,7 @@
 <LM>w#w-lnd92259-080-p6s10w4</LM>
 </w.rf>
 <form>opravdu</form>
-<lemma>opravdu-1</lemma>
+<lemma>opravdu-2</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-lnd92259-080-p6s10w5">

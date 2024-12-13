@@ -165,7 +165,7 @@
 <LM>w#w-mf930708-075-p1s2w2</LM>
 </w.rf>
 <form>polorozpadlý</form>
-<lemma>polorozpadlý_^(*2nout)</lemma>
+<lemma>polorozpadlý</lemma>
 <tag>AAIS4----1A----</tag>
 </m>
 <m id="m-mf930708-075-p1s2w3">
@@ -1416,7 +1416,7 @@
 <LM>w#w-mf930708-075-p1s11w4</LM>
 </w.rf>
 <form>polorozpadlou</form>
-<lemma>polorozpadlý_^(*2nout)</lemma>
+<lemma>polorozpadlý</lemma>
 <tag>AAFS4----1A----</tag>
 </m>
 <m id="m-mf930708-075-p1s11w5">

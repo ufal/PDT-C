@@ -311,7 +311,7 @@
 <LM>w#w-lnd92255-083-p2s1Aw17</LM>
 </w.rf>
 <form>setmění</form>
-<lemma>setmění_^(*2t)_(*3ít)</lemma>
+<lemma>setmění_^(*2t)</lemma>
 <tag>NNNS6-----A----</tag>
 </m>
 <m id="m-lnd92255-083-p2s1Aw18">
@@ -19729,7 +19729,7 @@
 <LM>w#w-lnd92255-083-p6s6w22</LM>
 </w.rf>
 <form>Opravdu</form>
-<lemma>opravdu-1</lemma>
+<lemma>opravdu-2</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-lnd92255-083-p6s6w23">
@@ -22837,7 +22837,7 @@
 <LM>w#w-lnd92255-083-p11s5w9</LM>
 </w.rf>
 <form>vykachličkovaný</form>
-<lemma>vykachličkovaný_^(*2t)</lemma>
+<lemma>vykachličkovaný_^(^DD**vykachlíčkovaný)_(*2t)</lemma>
 <tag>AAIS1----1A----</tag>
 </m>
 <m id="m-lnd92255-083-p11s5w10">

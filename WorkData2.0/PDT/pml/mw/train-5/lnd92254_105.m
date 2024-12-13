@@ -4182,7 +4182,7 @@
 <LM>w#w-lnd92254-105-p13s1w13</LM>
 </w.rf>
 <form>spjaté</form>
-<lemma>spjatý</lemma>
+<lemma>spjatý_,s_^(^DD**sepnutý)</lemma>
 <tag>AAIP4----1A----</tag>
 </m>
 <m id="m-lnd92254-105-p13s1w14">

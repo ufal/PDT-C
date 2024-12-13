@@ -699,7 +699,7 @@
 <LM>w#w-lnd92257-079-p2s3w6</LM>
 </w.rf>
 <form>minus</form>
-<lemma>minus-2_^(mat._operace;_9_minus_3,_též_minus_dva_stupně)</lemma>
+<lemma>minus-2_^(mat._operace;_9_minus_3)</lemma>
 <tag>J*-------------</tag>
 </m>
 <m id="m-lnd92257-079-p2s3w7">

@@ -716,7 +716,7 @@
 <LM>w#w-ln94201-117-p2s2w65</LM>
 </w.rf>
 <form>zvlášť</form>
-<lemma>zvlášť-1</lemma>
+<lemma>zvlášť-1_,s_^(^DD**zvláště-1)</lemma>
 <tag>Db-------------</tag>
 </m>
 <m id="m-ln94201-117-p2s2w66">
@@ -1579,7 +1579,7 @@
 <LM>w#w-ln94201-117-p3s4w11</LM>
 </w.rf>
 <form>třeba</form>
-<lemma>třeba-2_^(například)</lemma>
+<lemma>třeba-2</lemma>
 <tag>TT-------------</tag>
 </m>
 <m id="m-ln94201-117-p3s4w12">
@@ -3778,7 +3778,7 @@
 <LM>w#w-ln94201-117-p5s1w30</LM>
 </w.rf>
 <form>vypjaté</form>
-<lemma>vypjatý</lemma>
+<lemma>vypjatý_,s_^(^DD**vypnutý)</lemma>
 <tag>AAFS2----1A----</tag>
 </m>
 <m id="m-ln94201-117-p5s1w31">
@@ -5930,7 +5930,7 @@
 <LM>w#w-ln94201-117-p6s2w9</LM>
 </w.rf>
 <form>témbru</form>
-<lemma>témbr</lemma>
+<lemma>témbr_,s_^(^DD**tembr)</lemma>
 <tag>NNIS2-----A----</tag>
 </m>
 <m id="m-ln94201-117-p6s2w10">
@@ -10041,7 +10041,7 @@
 <LM>w#w-ln94201-117-p10s4w12</LM>
 </w.rf>
 <form>všeobsáhlé</form>
-<lemma>všeobsáhlý_^(*2nout)</lemma>
+<lemma>všeobsáhlý</lemma>
 <tag>AAFS2----1A----</tag>
 </m>
 <m id="m-ln94201-117-p10s4w13">

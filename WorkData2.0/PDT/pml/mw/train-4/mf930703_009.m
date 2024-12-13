@@ -524,7 +524,7 @@
 <LM>w#w-mf930703-009-p5s2w12</LM>
 </w.rf>
 <form>lymskou</form>
-<lemma>lymský</lemma>
+<lemma>lymský_,s_^(^DD**lymeský)</lemma>
 <tag>AAFS4----1A----</tag>
 </m>
 <m id="m-mf930703-009-p5s2w13">
@@ -670,7 +670,7 @@
 <LM>w#w-mf930703-009-p6s1w3</LM>
 </w.rf>
 <form>lymské</form>
-<lemma>lymský</lemma>
+<lemma>lymský_,s_^(^DD**lymeský)</lemma>
 <tag>AAFS2----1A----</tag>
 </m>
 <m id="m-mf930703-009-p6s1w4">
@@ -679,7 +679,7 @@
 <LM>w#w-mf930703-009-p6s1w4</LM>
 </w.rf>
 <form>borreliózy</form>
-<lemma>borrelióza</lemma>
+<lemma>borrelióza_,s_^(^DD**borelióza)</lemma>
 <tag>NNFS2-----A----</tag>
 </m>
 <m id="m-mf930703-009-p6s1w5">

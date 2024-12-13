@@ -1458,7 +1458,7 @@
 <LM>w#w-ln94201-101-p4s1w23</LM>
 </w.rf>
 <form>odčítání</form>
-<lemma>odčítání_^(*3at)</lemma>
+<lemma>odčítání_^(^DD**odečítání)_(*3at)</lemma>
 <tag>NNNS6-----A----</tag>
 </m>
 <m id="m-ln94201-101-p4s1w24">

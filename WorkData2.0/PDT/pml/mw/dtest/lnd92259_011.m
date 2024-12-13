@@ -4324,7 +4324,7 @@
 <LM>w#w-lnd92259-011-p8s4w8</LM>
 </w.rf>
 <form>Pennsylvánii</form>
-<lemma>Pennsylvánie_;G</lemma>
+<lemma>Pennsylvánie_;G_,s_^(^DD**Pensylvánie)</lemma>
 <tag>NNFS6-----A----</tag>
 </m>
 <m id="m-lnd92259-011-p8s4w9">

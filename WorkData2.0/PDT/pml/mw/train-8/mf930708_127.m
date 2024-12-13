@@ -2014,7 +2014,7 @@
 <LM>w#w-mf930708-127-p9s1w2</LM>
 </w.rf>
 <form>baseballová</form>
-<lemma>baseballový</lemma>
+<lemma>baseballový_,s_^(^DD**basebalový)</lemma>
 <tag>AAFS1----1A----</tag>
 </m>
 <m id="m-mf930708-127-p9s1w3">
