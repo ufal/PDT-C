@@ -26,7 +26,11 @@ sub checkvallex {
     if (my $vrf = $this->{'val_frame.rf'}) {
         $vrf =~ s/^v#//;
         my $frame = $FRAME{$vrf};
-        return unless $frame;  # Nx
+        unless ($frame) {
+            printf "Frame %s not in vallex\t", $vrf;
+            FPosition();
+            return
+        }
 
         my @children = PML_T::GetEChildren($this);
         my @actants = grep /^(ACT|PAT|ADDR|EFF|ORIG)$/,
