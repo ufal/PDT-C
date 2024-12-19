@@ -50,8 +50,10 @@ our %annotator;
 # our %root_index;
 
 sub detect {
-  return ((PML::SchemaDescription() // "") =~ m/^PDT-C/
-          and (PML::SchemaName() // "") eq 'tdata') ? 1 : 0;
+    my $suitable = ((PML::SchemaDescription() // "") =~ m/^PDT-C/
+                    && (PML::SchemaName() // "") eq 'tdata') ? 1 : 0;
+    return 0 if $suitable && CurrentContext() =~ /PML_(?:.*_)T/;
+    return $suitable
 }
 
 sub allow_switch_context_hook {

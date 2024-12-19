@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tred_extension xmlns="http://ufal.mff.cuni.cz/pdt/pml/" install_size="22984138">
+<tred_extension xmlns="http://ufal.mff.cuni.cz/pdt/pml/" install_size="22816720">
   <head>
     <schema href="tred_extension_schema.xml"/>
   </head>
