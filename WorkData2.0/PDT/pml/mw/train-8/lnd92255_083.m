@@ -17297,7 +17297,7 @@
 </w.rf>
 <form>snajperů</form>
 <lemma>snajper_,s_^(^DD**snajpr)</lemma>
-<tag>NNMP2-----A---2</tag>
+<tag>NNMP2-----A----</tag>
 </m>
 <m id="m-lnd92255-083-p2s7Dw16">
 <src.rf>manual</src.rf>
